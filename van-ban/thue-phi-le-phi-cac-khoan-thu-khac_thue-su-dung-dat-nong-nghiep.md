@@ -1,2558 +1,4104 @@
 ---
-layout: default
+layout: page
 title: Thuế sử dụng đất nông nghiệp
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-su-dung-dat-nong-nghiep/
-collection: subtopics
-slug: thue-su-dung-dat-nong-nghiep
-parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---
 
 # Thuế sử dụng đất nông nghiệp
 
-**Đề mục:** Thuế sử dụng đất nông nghiệp  
-**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](/thue-phi-le-phi-cac-khoan-thu-khac/)  
-**Số điều khoản:** 203  
-**Điều khoản có nội dung:** 25/194 (12.9%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 33.7.LQ.1.
+Điều 33.7.LQ.1.
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 23-L/CTN Thuế sử dụng đất nông nghiệp ngày 10/07/1993 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 1
+Tổ chức, cá nhân sử dụng đất vào sản xuất nông nghiệp đều phải nộp thuế sử dụng đất nông nghiệp (gọi chung là hộ nộp thuế).
 
-**Mã phân cấp:** 3300700000000000100000100000000000000000
+Hộ được giao quyền sử dụng đất nông nghiệp mà không sử dụng vẫn phải nộp thuế sử dụng đất nông nghiệp.
 
-**ID:** dk_00053582
+Điều 33.7.LQ.2.
 
----
+(Điều 2 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Đất chịu thuế sử dụng đất nông nghiệp là đất dùng vào sản xuất nông nghiệp bao gồm:
 
-### Điều 33.7.LQ.2.
+- Đất trồng trọt;
 
-*Nội dung chưa có sẵn*
+- Đất có mặt nước nuôi trồng thuỷ sản;
 
-**Chỉ mục:** 2
+- Đất rừng trồng.
 
-**Mã phân cấp:** 3300700000000000100000200000000000000000
+Điều 33.7.LQ.3.
 
-**ID:** dk_00053583
+(Điều 3 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Đất không thuộc diện chịu thuế sử dụng đất nông nghiệp mà chịu các loại thuế khác hoặc không phải chịu thuế theo quy định của pháp luật, bao gồm:
 
+- Đất có rừng tự nhiên;
 
-### Điều 33.7.LQ.3.
+- Đất đồng cỏ tự nhiên;
 
-*Nội dung chưa có sẵn*
+- Đất dùng để ở;
 
-**Chỉ mục:** 3
+- Đất chuyên dùng.
 
-**Mã phân cấp:** 3300700000000000100000300000000000000000
+Điều 33.7.LQ.4.
 
-**ID:** dk_00053584
+(Điều 4 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Tổ chức, cá nhân nước ngoài đầu tư vào Việt Nam sử dụng đất nông nghiệp phải nộp tiền thuê đất theo quy định tại Điều 29 của Luật đầu tư nước ngoài tại Việt Nam, không phải nộp thuế sử dụng đất nông nghiệp theo quy định của Luật này.
 
+Điều 33.7.NĐ.2.1.
 
-### Điều 33.7.LQ.4.
+(Điều 1 Nghị định số 74/CP Quy định chi tiết thi hành Luật Thuế sử dụng đất nông nghiệp ngày 25/10/1993 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-*Nội dung chưa có sẵn*
+Tổ chức, cá nhân sử dụng đất vào sản xuất nông nghiệp có nghĩa vụ nộp thuế sử dụng đất nông nghiệp (gọi chung là hộ nộp thuế) gồm:
 
-**Chỉ mục:** 4
+1. Các hộ gia đình nông dân, hộ tư nhân và cá nhân;
 
-**Mã phân cấp:** 3300700000000000100000400000000000000000
+2. Các tổ chức, cá nhân sử dụng đất nông nghiệp thuộc quỹ đất dành cho nhu cầu công ích của xã;
 
-**ID:** dk_00053585
+3. Các doanh nghiệp nông nghiệp, lâm nghiệp, thuỷ sản bao gồm nông trường, lâm trường, xí nghiệp, trạm trại và các doanh nghiệp khác, cơ quan Nhà nước, đơn vị sự nghiệp, đơn vị lực lượng vũ trang, tổ chức xã hội và các đơn vị khác sử dụng đất vào sản xuất nông nghiệp, lâm nghiệp và nuôi trồng thuỷ sản.
 
----
+Điều 33.7.NĐ.2.2.
 
+(Điều 2 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-### Điều 33.7.NĐ.2.1.
+Đất chịu thuế sử dụng đất nông nghiệp gồm:
 
-*Nội dung chưa có sẵn*
+1. Đất trồng trọt là đất trồng cây hàng năm, đất trồng cây lâu năm, đất trồng cỏ.
 
-**Chỉ mục:** 1
+Đất trồng cây hàng năm là đất trồng các loại cây có thời gian sinh trưởng (từ khi trồng đến khi thu hoạch) không quá 365 ngày như lúa, ngô, rau, lạc... hoặc cây trồng một lần cho thu hoạch một vài năm nhưng không trải qua thời kỳ xây dựng cơ bản như mía, chuối, cói, gai, sả, dứa (thơm)..
 
-**Mã phân cấp:** 3300700000000000100000440175850074000010
+Đất trồng cây lâu năm là đất trồng các loại cây có chu kỳ sinh trưởng trên 365 ngày, trồng một lần nhưng cho thu hoạch trong nhiều năm và phải trải qua một thời kỳ xây dựng cơ bản mới cho thu hoạch như cao su, chè, cà phê, cam, quýt, nhãn, cọ, dừa...
 
-**ID:** dk_00053586
+Đất trồng cỏ là đất đã có chủ sử dụng vào việc trồng cỏ để chăn nuôi gia súc.
 
----
+2. Đất có mặt nước nuôi trồng thuỷ sản là đất đã có chủ sử dụng chuyên nuôi trồng thuỷ sản hoặc vừa nuôi trồng thuỷ sản vừa trồng trọt, nhưng về cơ bản không sử dụng vào các mục đích khác.
 
+3. Đất trồng là đất đã được trồng rừng và đã giao cho tổ chức, cá nhân quản lý, chăm sóc và khai thác, không bao gồm đất đồi núi trọc.
 
-### Điều 33.7.NĐ.2.2.
+Trong trường hợp không sử dụng đất thuộc diện chịu thuế theo quy định tại điều này chủ sử dụng đất vẫn phải nộp thuế theo quy định của Luật Thuế sử dụng đất nông nghiệp.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.2.3.
 
-**Chỉ mục:** 2
+(Điều 3 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000100000440175850074000020
+Những loại đất không chịu thuế sử dụng đất nông nghiệp bao gồm:
 
-**ID:** dk_00053587
+1. Đất rừng tự nhiên;
 
----
+2. Đất đồng cỏ tự nhiên chưa giao cho tổ chức, cá nhân nào sử dụng;
 
+3. Đất để ở, đất xây dựng công trình thuộc diện chịu thuế nhà đất;
 
-### Điều 33.7.NĐ.2.3.
+4. Đất làm giao thông, thuỷ lợi dùng chung cho cánh đồng;
 
-*Nội dung chưa có sẵn*
+5. Đất chuyên dùng theo quy định tại Điều 62 của Luật đất đai là đất được xác định sử dụng vào mục đích không phải là sản xuất nông nghiệp, lâm nghiệp và làm nhà ở;
 
-**Chỉ mục:** 3
+6. Đất do Chính phủ, Uỷ ban nhân dân các cấp thực hiện việc cho các tổ chức, hộ gia đình, cá nhân thuê theo quy định tại Điều 29 của Luật đất đai.
 
-**Mã phân cấp:** 3300700000000000100000440175850074000030
+(Điều này có nội dung liên quan đến Điều 10. Phân loại đất; Điều 56. Cho thuê đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013)
 
-**ID:** dk_00053588
+Điều 33.7.NĐ.2.4.
 
----
+(Điều 4 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Các xí nghiệp có vốn đầu tư nước ngoài và các Bên nước ngoài hợp tác kinh doanh trên cơ sở hợp đồng có sử dụng đất nông nghiệp, các Bên Việt Nam được phép dùng quyền sử dụng đất nông nghiệp đưa vào góp vốn không phải nộp thuế sử dụng đất nông nghiệp nhưng phải trả tiền thuê đất theo quy định tại Điều 79 Nghị định số 18-CP ngày 16-4-1993 của Chính phủ.
 
-### Điều 33.7.NĐ.2.4.
+(Điều này có nội dung liên quan đến Điều 56. Cho thuê đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.1.1.
 
-**Chỉ mục:** 4
+((Điều 1 Thông tư số 89-TC/TCT ngày 09/11/1993 của Bộ Tài chính hướng dẫn thi hành Nghị định số 74/CP ngày 25/10/1993 của Chính phủ quy định chi tiết thi hành Luật thuế sử dụng đất nông nghiệp, có hiệu lực kể từ ngày 01/01/1994, có nội dung được bãi bỏ và có nội dung được bổ sung bởi Điều 1, 2 Quyết định số 58/2008/QĐ-BTC về việc bãi bỏ quy định thu thuế sử dụng đất nông nghiệp đối với đất nông nghiệp thuộc quỹ đất dành cho nhu cầu công ích của xã tại Thông tư số 89-TC/TCT ngày 09/11/1993 của Bộ Tài chính, có hiệu lực kể từ ngày 17/8/2008))
 
-**Mã phân cấp:** 3300700000000000100000440175850074000040
+1. Những tổ chức, cá nhân nộp thuế sử dụng đất nông nghiệp đã được quy định ở Điều 1 Luật Thuế sử dụng đất nông nghiệp và ở Điều 1 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ, cụ thể thêm: hợp tác xã, tập đoàn sản xuất nông nghiệp là hộp nộp thuế chỉ trong các trường hợp địa phương chưa thực hiện xong việc giao ruộng đất cho từng hộ nông dân, hợp tác xã, tập đoàn sản xuất còn nộp thuế chung.
 
-**ID:** dk_00053589
+2. Những loại đất phải chịu thuế sử dụng đất nông nghiệp đã được quy định tại Điều 2 Luật Thuế sử dụng đất nông nghiệp và chi tiết tại Điều 2 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ xin giải thích thêm như sau:
 
----
+- Ủy ban nhân dân xã, phường, thị trấn không được tính thêm thuế sử dụng đất nông nghiệp vào tiền thuê đất của các hộ gia đình, cá nhân thuê đất nông nghiệp thuộc quỹ đất công ích xã, phường, thị trấn để sản xuất nông nghiệp.
 
+- Đất có mặt nước nuôi trồng thủy sản chịu thuế sử dụng đất nông nghiệp là đất chuyên nuôi trồng thủy sản hoặc vừa nuôi trồng thủy sản vừa trồng trọt, về cơ bản không sử dụng vào mục đích khác, bao gồm: ruộng, mặt nước, đầm, hồ, ao, chuôm, ngòi, rạch, sông cụt... đã bao ngăn và có chủ sử dụng.
 
-### Điều 33.7.TT.1.1.
+- Đất trồng cỏ chịu thuế sử dụng đất nông nghiệp là đất đã giao cho chủ sử dụng vào trồng có thể chăn nuôi.
 
-*Nội dung chưa có sẵn*
+- Đất trồng rừng chịu thuế sử dụng đất nông nghiệp là đất rừng có chủ trồng, chăm sóc, khai thác và đất vườn rừng liền nhà.
 
-**Chỉ mục:** 1
+3. Những loại đất không phải chịu thuế sử dụng đất nông nghiệp đã được quy định ở Điều 3 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ, hướng dẫn rõ thêm một số trường hợp như sau:
 
-**Mã phân cấp:** 3300700000000000100000480176000089000010
+- Hồ chứa nước cho nhà máy thủy điện có kết hợp dịch vụ du lịch và nuôi trồng thủy sản;
 
-**ID:** dk_00053590
+- Hồ, đầm vừa dùng vào kinh doanh, du lịch, dịch vụ… có kết hợp nuôi trồng thủy sản;
 
----
+- Nuôi cá lồng ở hồ, đầm, sông;
 
+- Đất do Chính phủ, Ủy ban nhân dân các cấp cho các tổ chức, hộ gia đình và cá nhân thuê dùng vào sản xuất nông nghiệp đã thu tiền thuê đất (có bao hàm cả thuế sử dụng đất nông nghiệp), trừ Ủy ban nhân dân xã cho thuê đất dành cho nhu cầu công ích của xã đã nói ở mục I phần I Thông tư này.
 
-### Điều 33.7.LQ.5.
+Chương II
 
-*Nội dung chưa có sẵn*
+CĂN CỨ TÍNH THUẾ VÀ BIỂU THUẾ
 
-**Chỉ mục:** 5
+Điều 33.7.LQ.5.
 
-**Mã phân cấp:** 3300700000000000200000500000000000000000
+(Điều 5 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053592
+Căn cứ tính thuế sử dụng đất nông nghiệp:
 
----
+- Diện tích;
 
+- Hạng đất;
 
-### Điều 33.7.NĐ.2.5.
+- Định suất thuế tính bằng kilôgam thóc trên một đơn vị diện tích của từng hạng đất.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.2.5.
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000020000050000000000000000000401758500740000500
+Căn cứ tính thuế sử dụng đất nông nghiệp là diện tích, hạng đất và định suất thuế tính bằng kilôgam thóc trên một đơn vị diện tích của từng hạng đất.
 
-**ID:** dk_00053593
+Điều 33.7.LQ.6.
 
----
+(Điều 6 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-
-### Điều 33.7.LQ.6.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3300700000000000200000600000000000000000
-
-**ID:** dk_00053594
-
----
-
-
-### Điều 33.7.NĐ.2.6. Diện tích thuế được quy định như sau:
+Diện tích tính thuế sử dụng đất nông nghiệp là diện tích giao cho hộ sử dụng đất phù hợp với sổ địa chính Nhà nước. Trường hợp chưa lập sổ địa chính thì diện tích tính thuế là diện tích ghi trên tờ khai của hộ sử dụng đất.
 
 Điều 33.7.NĐ.2.6. Diện tích thuế được quy định như sau:
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000020000060000000000000000000401758500740000600
+1. Diện tích tính thuế của từng hộ nộp thuế là diện tích đất thực tế sử dụng được ghi trong sổ địa chính Nhà nước hoặc kết quả đo đạc gần nhất được cơ quan quản lý ruộng đất có thẩm quyền xác nhận theo quy định tại Điều 14 của Luật đất đai. Trường hợp địa phương chưa lập sổ địa chính và số liệu đo đạc chưa chính xác, chưa có xác nhận của cơ quan quản lý ruộng đất có thẩm quyền, thì diện tích tính thuế là diện tích đất ghi trong tờ khai của hộ nộp thuế.
 
-**ID:** dk_00053595
+Trong trường hợp đặc biệt ở những nơi chưa làm kịp việc giao đất theo Nghị định số 64-CP ngày 27-9-1993 của Chính phủ, hợp tác xã, tập đoàn sản xuất thực hiện giao khoán cho các hộ gia đình nông dân và hộ cá nhân diện tích tính thuế của mỗi hộ do hộ tự kê khai và có xác nhận của người đứng đầu hợp tác xã hoặc tập đoàn sản xuất nông nghiệp.
 
----
+2. Diện tích tính thuế của từng thửa ruộng là diện tích thực sử dụng, được giao cho từng hộ nộp thuế phù hợp với diện tích ghi trong sổ địa chính hoặc trong tờ khai của chủ hộ.
 
+3. Cơ quan quản lý đất đai các cấp trong phạm vi quyền hạn quy định tại Điều 14 của Luật Đất đai, có trách nhiệm phối hợp với cơ quan thuế xác định diện tích tính thuế trong địa phương mình.
 
-### Điều 33.7.TT.1.2. Xác định diện tích tính thuế:
+(Điều này có nội dung liên quan đến Mục 2 ĐIỀU TRA CƠ BẢN VỀ ĐẤT ĐAI; Điều 54. Giao đất không thu tiền sử dụng đất; Điều 56. Cho thuê đất; Điều 59. Thẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất; Điều 60. Xử lý trường hợp giao đất, cho thuê đất trước ngày Luật này có hiệu lực thi hành của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 33.7.TT.1.2. Xác định diện tích tính thuế:)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.1.2. Xác định diện tích tính thuế:
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 33007000000000002000006000000000000000000040175850074000060000801760000890000200
+Theo quy định tại Điều 9 Nghị định số 74/CP ngày 25-10-1993, chậm nhất vào ngày 30 tháng 11 năm 1993, mọi tổ chức, cá nhân sử dụng đất vào sản xuất nông nghiệp, kể cả diện được miễn thuế hoặc tạm miễn thuế đều phải kê khai diện tích từng thửa ruộng, đất sử dụng vào sản xuất nông nghiệp theo hướng dẫn của cơ quan thuế.
 
-**ID:** dk_00053596
+Diện tích tính thuế của từng thửa ruộng, đất là diện tích thực sử dụng kể cả bờ xung quanh ruộng phục vụ trực tiếp cho sản xuất của thửa ruộng, đất, không tính phần bờ dùng cho giao thông nội đồng hoặc dùng chung cho từ một cánh đồng trở lên.
 
----
+a) Xác định diện tích tính thuế của từng hộ phải căn cứ vào tờ khai của hộ, đồng thời phải dựa vào các tài liệu sau đây để kiểm tra tính chính xác của tờ khai:
 
+- Diện tích đang tính thuế nông nghiệp năm 1993, diện tích khai hoang đã đến hạn chịu thuế;
 
-### Điều 33.7.LQ.7.
+- Kết quả đo đạc gần nhất được cơ quan quản lý ruộng đất huyện, quận, thị xã, thành phố thuộc tỉnh (trong văn bản này gọi chung là huyện) xác nhận. Nếu địa phương chưa đo đạc hoặc số liệu đo đạc chưa chính xác thì phải sử dụng tài liệu: bản đồ, địa bàn cũ, tài liệu về giao đất hoặc giao khoán, đất làm kinh tế gia đình, các quyết định giao đất đối với các doanh nghiệp, nông lâm nghiệp (nông trường, lâm trường, trạm trại...).
 
-*Nội dung chưa có sẵn*
+b) Trình tự xác định diện tích tính thuế như sau:
 
-**Chỉ mục:** 7
+- Hộ sử dụng đất tự kê khai diện tích đất được giao, đất nhận khoán và đất tự khai phá gọi chung là đất đang sử dụng theo mẫu biểu hướng dẫn của cơ quan thuế và gửi bản kê khai đó đến Ủy ban nhân dân xã, phường, thị trấn (trong văn bản này gọi chung là xã) đối với các hộ nộp thuế lập sổ thuế tại xã, đến Chi cục thuế đối với các hộ nộp thuế lập sổ thuế tại huyện, đúng thời gian và địa điểm theo quy định tại Điều 9 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ;
 
-**Mã phân cấp:** 3300700000000000200000700000000000000000
+- Đội thuế xã giúp Ủy ban nhân dân xã tiếp nhận tờ khai, kiểm tra, đối chiếu tờ khai của từng hộ nộp thuế với các tài liệu hiện có đã nói ở trên, xác định diện tích tính thuế của từng hộ.
 
-**ID:** dk_00053597
+Trong quá trình xác định diện tích tính thuế sử dụng đất nông nghiệp, cơ quan thuế phải cùng Hội đồng tư vấn thuế xã xem xét cụ thể từng trường hợp, nếu thấy tờ khai chưa chính xác thì phải đề nghị chủ hộ kê khai lại và phải tổ chức kiểm tra điển hình để xác định đúng diện tích đất chịu thuế của những hộ kê khai chưa chính xác.
 
----
+Trường hợp có sự khác nhau giữa diện tích đo đạc với kê khai tính thuế của hộ nộp thuế hoặc của một xã, một huyện thì trước mắt tạm duyệt diện tích tính thuế năm 94 theo tờ khai của từng hộ, Ủy ban nhân dân huyện phối hợp với cơ quan quản lý ruộng đất tỉnh chỉ đạo xác định lại diện tích ngay từ quý I năm 1994 để cuối năm tính thuế, thu thuế và quyết toán thuế theo diện tích đã được xác định lại.
 
+Đội thuế xã thông báo kết quả xác định diện tích tính thuế cho từng hộ nộp thuế, tổng hợp và giúp Ủy ban nhân dân xã báo cáo Ủy ban nhân dân huyện và Chi cục thuế.
 
-### Điều 33.7.NĐ.1.1.
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.6. Diện tích thuế được quy định như sau:)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.7.
 
-**Chỉ mục:** 1
+(Điều 7 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000020000070000000000000000000401758500730000100
+1. Đất trồng cây hàng năm và đất có mặt nước nuôi trồng thuỷ sản được chia làm 6 hạng, đất trồng cây lâu năm được chia làm 5 hạng.
 
-**ID:** dk_00053598
+Căn cứ để xác định hạng đất gồm các yếu tố:
 
----
+- Chất đất;
 
+- Vị trí;
 
-### Điều 33.7.QĐ.1.1.
+- Địa hình;
 
-*Nội dung chưa có sẵn*
+- Điều kiện khí hậu, thời tiết;
 
-**Chỉ mục:** 1
+- Điều kiện tưới tiêu.
 
-**Mã phân cấp:** 33007000000000002000007000000000000000000040175850073000010000501764806190000100
+2. Chính phủ quy định tiêu chuẩn hạng đất tính thuế theo các yếu tố nói tại Điều này và có tham khảo năng suất bình quân đạt được trong điều kiện canh tác bình thường của 5 năm (1986 - 1990).
 
-**ID:** dk_00053599
+3 Hạng đất tính thuế được ổn định 10 năm. Trong thời hạn ổn định hạng đất, đối với vùng mà Nhà nước đầu tư lớn, đem lại hiệu quả kinh tế cao, Chính phủ điều chỉnh lại hạng đất tính thuế.
 
----
+Điều 33.7.NĐ.1.1.
 
+(Điều 1 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993, có nội dung được bổ sung bởi Điều 1 Quyết định số 619/TTg có hiệu lực thi hành kể từ ngày 27/12/1993)
 
-### Điều 33.7.TL.1.1. Xác định tiêu chuẩn các yếu tố của từng hạng đất tính thuế
+ Căn cứ để phân hạng đất tính thuế sử dụng đất nông nghiệp là các yếu tố chất đất, vị trí, địa hình, điều kiện khí hậu, thời tiết và điều kiện tưới tiêu. Tiêu chuẩn của từng yếu tố được xác định như sau:
+
+1. Yếu tố chất đất là độ phì của đất thích hợp với từng loại cây trồng; đối với đất có mặt nước nuôi trồng thuỷ sản còn bao gồm độ muối và nguồn dinh dưỡng của nước.
+
+2. Yếu tố vị trí của đất là khoảng cách so với nơi cư trú của người sử dụng đất, khoảng cách so với thị trường tiêu thụ nông sản phẩm theo từng trường hợp cụ thể.
+
+3. Yếu tố địa hình của đất là độ bằng phẳng, độ dốc, độ trũng hoặc ngập úng của mảnh đất.
+
+4. Yếu tố điều kiện khí hậu, thời tiết là nhiệt độ trung bình hàng năm và các tháng trong năm; lượng mưa trung bình hàng năm và các tháng trong năm; số tháng khô hạn trong năm; tần suất xuất hiện lũ, bão, sương muối, gió khô nóng trong năm và từng tháng; độ ẩm ảnh hưởng đến sinh trưởng của cây trồng.
+
+5. Yếu tố điều kiện tưới tiêu đối với đất trồng cây hàng năm là mức độ tưới tiêu chủ động; đối với đất trồng cây lâu năm là mức độ gần, xa nguồn nước hoặc không có nguồn nước và điều kiện thoát nước.
+
+Tiêu chuẩn cụ thể của từng yếu tố để phân hạng đất tính thuế đối với các loại cây trồng chính được ban hành kèm theo Nghị định này.
+
+Phu luc_Tieu chuan tung yeu to de phan hang dat tinh thue cua cay trong chinh.doc
+
+Điều 33.7.QĐ.1.1.
+
+(Điều 1 Quyết định số 619/TTg Về việc điều chỉnh tổng hợp điểm hạng đất tính Thuế Sử dụng Đất nông nghiệp ngày 27/12/1993 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 27/12/1993)
+
+ Điều chỉnh lại bảng điểm quy định theo tiêu chuẩn từng yếu tố để phân hạng đất tính thuế của các cây trồng chính ban hành kèm theo Nghị định số 73-CP ngày 25-10-1993 của Chính phủ như sau:
+
+Toàn bộ đất trồng cây lâu năm.
+
+Chia làm 5 hạng sau:
+
+Hạng đất Tổng số điểm của 5 yếu tố
+
+I Từ 40 điểm trở lên và trong 4 yếu tố đất, khí hậu, thời tiết, điều kiện tưới tiêu, địa hình không có yếu tố nào xấu
+
+nhất
+
+II Từ 36 đến 39 điểm.
+
+III Từ 32 đến 35 điểm.
+
+IV Từ 28 đến 31 điểm.
+
+V Dưới 28 điểm
 
 Điều 33.7.TL.1.1. Xác định tiêu chuẩn các yếu tố của từng hạng đất tính thuế
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư liên tịch số 92/TT-LB Hướng dẫn thi hành Nghị định số 73-CP ngày 25/10/1993 của Chính phủ quy định chi tiết việc phân hạng đất tính thuế sử dụng đất nông nghiệp ngày 10/11/1993 của Bộ Nông nghiệp và Công nghiệp thực phẩm, Bộ Tài chính và Tổng cục Quản lý ruộng đất, có hiệu lực thi hành kể từ ngày 10/11/1993)
 
-**Mã phân cấp:** 33007000000000002000007000000000000000000040175850073000010000801760100920000100
+1. Yếu tố chất đất: Chất đất là độ phì của đất (loại đất, độ dày canh tác hoặc độ dày tầng đất, hàm lượng mùn...) thích hợp với từng loại cây trồng; đối với đất có mặt nước nuôi trồng thuỷ sản còn bao gồm độ muối và nguồn dinh dưỡng của nước. Yếu tố chất đất của các cây trồng chính cụ thể như sau:
 
-**ID:** dk_00053600
+a. Đối với đất trồng lúa:
 
----
+- Đất có độ phì cao (10 điểm) gồm đất phù sa thuộc hệ thống sông Hồng, hệ thống sông Cửu Long, hệ thống sông Thái Bình, hạ lưu sông Thu Bồn, hạ lưu sông Ba
 
+- Đất có độ phì trung bình (7 điểm) gồm đất phù sa của các sông khác; đất phèn ít và trung bình, đất mặn ít và trung bình của đồng bằng sông Hồng và đồng bằng sông Cửu Long.
 
-### Điều 33.7.NĐ.1.2. Việc phân hạng đất tính thuế đối với các cây trồng chính được qui định như sau:
+- Đất có độ phì thấp (5 điểm) gồm đất phù sa bị úng nước, đất xám, đất dốc tụ, đất đỏ vàng biến đổi do trồng lúa nước, đất phèn ít và phèn trung bình, đất mặn ít và mặn trung bình không thuộc đồng bằng sông Hồng và đồng bằng sông Cửu Long.
+
+- Đất có độ phì quá thấp (2 điểm) gồm đất phèn nhiều, đất mặn nhiều, đất trũng lầy, đất cát biển, đất bạc màu... các loại đất này phải cải tạo mới sản xuất được.
+
+b. Đối với đất có mặt nước mặn lợ nuôi trồng thuỷ sản:
+
+- Đất có độ phì cao (10 điểm) gồm đất phù sa, đất cát bùn giàu nguồn dinh dưỡng.
+
+- Đất có độ phì trung bình (7 điểm) là đất phèn ít, có hàm lượng dinh dưỡng thấp.
+
+- Đất có độ phì thấp (5 điểm) là đất có độ phèn trung bình phải cải tạo mới nuôi trồng được.
+
+- Đất có độ phì quá thấp (2 điểm) gồm đất phèn nhiều, đất lầy, đất cát rất nghèo dinh dưỡng phải cải tạo lâu mới nuôi trồng được.
+
+c. Đối với đất trồng cây công nghiệp lâu năm và đất trồng cây ăn quả lâu năm:
+
+- Đất có độ phì cao (10 điểm) là các loại đất phù hợp với từng loại cây trồng ở từng địa phương, có tầng dày trên 100 cm, có hàm lượng mùn trên 2,5%.
+
+- Đất có độ phì trung bình (8 điểm) là các loại đất tương đối phù hợp với từng loại cây trồng ở từng địa phương, có tầng dầy từ 70 cm đến 100cm, có hàm lượng mùn từ 1% đến 2,5%.
+
+- Đất có độ phì quá thấp (6 điểm) là đất có tầng dầy dưới 70cm có lẫn cát, đá sỏi nhiều, có hàm lượng mùn dưới 1%, muốn trồng cây lâu năm phải đầu tư cải tạo nhiều mới sản xuất được.
+
+2. Yếu tố vị trí:
+
+a. Đối với đất trồng cây hàng năm, đất trồng cỏ, đất rừng trồng: Yếu tố vị trí được xác định từ nơi sản xuất tới nơi cư trú của hộ sử dụng đất. Nơi cư trú của hộ sử dụng đất được xác định là trung tâm của thôn (xóm), ấp, bản nơi có đất, có thang điểm: 7, 5, 3, 1.
+
+b. Đối với đất trồng cây lâu năm (trừ đất rừng trồng) và đất có mặt nước nuôi trồng thuỷ sản: Yếu tố vị trí được xác định từ trung tâm thôn (xóm), ấp, bản nơi có đất tới thị xã, thành phố gần nhất. Riêng đối với các doanh nghiệp được tính từ trụ sở doanh nghiệp tới xã, thành phố gần nhất, có thang điểm: 6, 4, 2 đối với đất trồng cây lâu năm và thang điểm: 7, 5, 3, 1 đối với đất có mặt nước nuôi trồng thuỷ sản.
+
+3. Yếu tố địa hình: theo quy định tại Điều 1 Nghị định số 73/CP ngày 25 tháng 10 năm 1993 và chi tiết tại bảng tiêu chuẩn từng yếu tố để phân hạng đất tính thuế của các cây trồng chính ban hành kèm theo.
+
+Đối với đất trồng cây hàng năm và mặt nước nuôi trồng thuỷ sản có thang điểm: 8, 6, 4, 2.
+
+Đối với đất trồng cây công nghiệp lâu năm, cây ăn quả lâu năm có thang điểm: 8, 6, 4.
+
+4. Yếu tố điều kiện khí hậu, thời tiết: bao gồm các điều kiện nhiệt độ trung bình hàng năm; lượng mưa trung bình hàng năm; lượng gió, bão, lũ trong năm; số tháng khô hạn, số tháng nóng (gió Lào); lượng sương muối. Những yếu tố này được đánh giá ở hai mức độ hạn chế hoặc không hạn chế đến việc sinh trưởng của cây trồng. Mỗi yếu tố được đánh giá là hạn chế nếu yếu tố ấy diễn ra thường xuyên lặp đi lặp lại hàng năm làm ảnh hưởng đến việc sinh trưởng của cây trồng. Những yếu tố này được tổng hợp đánh giá tiêu chuẩn theo từng loại cây trồng trên đất như sau:
+
+a. Đối với đất trồng lúa:
+
+- Thuận lợi cho việc trồng lúa, không có hạn chế gì (10 điểm) tức là không có yếu tố nào xấu nhất.
+
+- Tương đối thuận lợi cho việc trồng lúa trong đó có 1 điều kiện hạn chế (7 điểm), điều kiện đó xấu nhất như nói ở trên.
+
+- Tương đối thuận lợi cho việc trồng lúa trong đó có 2 điều kiện xấu nhất (5 điểm).
+
+- Không thuận lợi cho việc trồng lúa có ít nhất 4 điều kiện hạn chế (2 điểm) như bão, lũ, sương muối, gió Lào.
+
+b. Đối với đất có mặt nước mặn lợ nuôi trồng thuỷ sản được xác định tương tự như đất trồng lúa.
+
+c. Đối với đất trồng cây công nghiệp lâu năm, cây ăn quả lâu năm, đất rừng trồng được phân chia làm 3 mức phù hợp với từng loại cây trồng: thuận lợi (10 điểm), tương đối thuận lợi (8 điểm) và ít thuận lợi (6 điểm).
+
+5. Yếu tố điều kiện tưới tiêu (chế độ nước) bao gồm cả phần nhà nước đầu tư và tưới tiêu tự nhiên.
+
+a. Đối với đất trồng lúa và đất có mặt nước nuôi trồng thuỷ sản được chia làm 4 mức theo bảng tiêu chuẩn của từng yếu tố để phân hạng đất tính thuế kèm theo Nghị định số 73/CP ngày 25 tháng 10 năm 1993 của Chính phủ. Bốn mức tương ứng thang điểm: 10, 7, 5, 2.
+
+b. Đối với đất trồng cây công nghiệp lâu năm và cây ăn quả lâu năm được chia làm 3 mức: thuận lợi (10 điểm), tương đối thuận lợi (8 điểm), ít thuận lợi (6 điểm) phù hợp với từng loại cây trồng ở từng địa phương.
+
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.1.3.)
 
 Điều 33.7.NĐ.1.2. Việc phân hạng đất tính thuế đối với các cây trồng chính được qui định như sau:
 
-**Chỉ mục:** 2
+(Điều 2 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993)
 
-**Mã phân cấp:** 330070000000000020000070000000000000000000401758500730000200
+1. Đối với đất trồng cây hàng năm thì phân hạng đất tính thuế theo đất trồng lúa; dựa vào tiêu chuẩn của 5 yếu tố qui định tại Điều 1 của Nghị định này có tham khảo năng suất bình quân đạt được trong điều kiện canh tác bình thường của 5 năm (1986-1990).
 
-**ID:** dk_00053601
+Đối với đất có mặt nước nuôi trồng thuỷ sản nằm trong vùng đất trồng cây hàng năm, thì thực hiện phân hạng đất tính thuế như đất trồng cây hàng năm.
 
----
+Đối với đất có mặt nước mặn, lợ chuyên dùng vào nuôi trồng thuỷ sản phải căn cứ vào chất đất, khí hậu thời tiết, vị trí, địa hình và điều kiện cấp thoát nước, có tham khảo năng suất bình quân đạt được trong điều kiện canh tác bình thường của năm (1986-1990) hoặc của các năm gần nhất.
 
+2. Đối với đất trồng cỏ dùng vào chăn nuôi thì phân hạng đất theo đất trồng cây hàng năm.
 
-### Điều 33.7.TL.1.2. Phân hạng đất tính thuế đối với cây trồng chính
+3. Đối với đất trồng cây lâu năm (trừ đất trồng các loại cây lâu năm thu hoạch một lần như gỗ, tre, nứa, song, mây...) thì dựa vào tiêu chuẩn của các yếu tố để phân hạng đất tính thuế.
+
+Riêng đối với đất trồng các loại cây lâu năm thu hoạch một lần thì không phân hạng đất, khi có thu hoạch sẽ thực hiện việc thu thuế 4% giá trị sản lượng khai thác.
 
 Điều 33.7.TL.1.2. Phân hạng đất tính thuế đối với cây trồng chính
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư liên tịch số 92/TT-LB, có hiệu lực thi hành kể từ ngày 10/11/1993)
 
-**Mã phân cấp:** 33007000000000002000007000000000000000000040175850073000020000801760100920000200
+1. Đối với đất trồng cây hàng năm: thực hiện phân hạng đất trồng lúa trước; trên cơ sở đó phân hạng đất trồng các loại cây khác.
 
-**ID:** dk_00053602
+Khi phân hạng đất đối với đất trồng lúa phải dựa vào tiêu chuẩn hạng đất của 5 yếu tố là chủ yếu và kết hợp với việc tham khảo năng suất bình quân đạt được trong điều kiện canh tác bình thường của 5 năm (1986 - 1990). Năng suất đạt được là yếu tố kiểm tra lại việc phân hạng đất theo 5 yếu tố như sau:
 
----
+- Ruộng đất được xếp vào cùng một hạng đất tính thuế phải có cùng tiêu chuẩn của 5 yếu tố; trường hợp cùng đạt tiêu chuẩn hạng đất của 5 yếu tố, nhưng năng suất đạt được khác nhau, thì vẫn cùng một hạng đất tính thuế.
 
+- Ruộng đất cùng đạt được năng suất như nhau nhưng khác nhau về tiêu chuẩn hạng đất theo 5 yếu tố, thì ruộng có thang điểm của 5 yếu tố đạt cao sẽ xếp vào hạng đất tính thuế cao, ruộng có thang điểm của 5 yếu tố đạt thấp sẽ xếp vào hạng tính thuế thấp.
 
-### Điều 33.7.NĐ.2.7.
+Năng suất dùng để tham khảo, kiểm tra việc phân hạng đất tính thuế là năng suất đạt được trong điều kiện thời tiết bình thường với trình độ canh tác và thâm canh trung bình ở địa phương.
 
-*Nội dung chưa có sẵn*
+Khi phân hạng đất đối với đất trồng các loại cây hàng năm, phải dựa trên tiêu chuẩn hạng đất của 5 yếu tố và kết quả phân hạng đất lúa, so sánh 5 yếu tố của hạng đất trồng lúa ở nơi liền cạnh hoặc gần nhất với 5 yếu tố của đất trồng cây hàng năm khác.
 
-**Chỉ mục:** 7
+2. Đối với đất có mặt nước nuôi trồng thuỷ sản:
 
-**Mã phân cấp:** 330070000000000020000070000000000000000000401758500740000700
+Đất có mặt nước vừa nuôi trồng thuỷ sản vừa trồng cây hàng năm, thì thực hiện phân hạng đất tính thuế như đất trồng cây hàng năm.
 
-**ID:** dk_00053603
+Ao, hồ, đầm dùng vào nuôi trồng thuỷ sản, thực hiện phân hạng đất theo trồng cây hàng năm liền cạnh hoặc nơi gần nhất.
 
----
+Đất có mặt nước mặn lợ chuyên dùng vào nuôi trồng thuỷ sản phải căn cứ vào chất đất, chất nước, vị trí, khí hậu thời tiết, địa hình và điều kiện cấp thoát nước là chủ yếu và kết hợp với việc tham khảo năng suất bình quân đạt được trong điều kiện canh tác bình thường của 5 năm (1986 - 1990) hoặc của các năm gần nhất.
 
+3. Đất đồng cỏ dùng vào chăn nuôi phân hạng đất theo đất trồng cây hàng năm.
 
-### Điều 33.7.TT.1.3.
+4. Đối với đất trồng cây lâu năm (trừ đất trồng cây lấy gỗ và các loại cây lâu năm khác thu hoạch một lần) việc phân hạng đất thực hiện như sau:
 
-*Nội dung chưa có sẵn*
+- Đất trồng cây lâu năm ở những nơi trồng chuyên canh hoặc trồng phổ biến hoặc đất vườn nằm trong đất khu dân cư, thì dựa vào tiêu chuẩn của 5 yếu tố xác định hạng đất tính thuế cho đất trồng các loại cây lâu năm: cao su, chè, cây ăn quả (cam quýt), dừa và điều (đào lộn hột).
 
-**Chỉ mục:** 3
+- Đất trồng cây lâu năm nằm xen kẽ đất trồng hàng năm thì phân hạng đất như trồng cây hàng năm liền cạnh.
 
-**Mã phân cấp:** 33007000000000002000007000000000000000000040175850074000070000801760000890000300
+- Đất vườn hoặc đất trồng nhiều cây lâu năm khác nhau, thì phân hạng đất như đất chuyên trồng cây lâu năm liền cạnh; trường hợp không có các loại đất chuyên trồng cây lâu năm liền cạnh, thì phần hạng đất như đất trồng cây hàng năm liền cạnh.
 
-**ID:** dk_00053604
+Đất trồng cây lấy gỗ và các loại cây lâu năm thu hoạch một lần gồm: gỗ, tre, nứa, mai, vầu, bương... và các loại cây khác mà thân cây không còn hoặc không còn khả năng cho sản phẩm sau lần thu hoạch đầu tiên.
 
----
+Đất trồng các loại cây này không phân hạng, mà thu thuế theo sản lượng khai thác theo quy định tại khoản 3 Điều 2 Nghị định số 73/CP ngày 25 tháng 10 năm 1993 của Chính phủ.
 
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.1.3.)
 
-### Điều 33.7.LQ.8.
+Điều 33.7.NĐ.2.7.
 
-*Nội dung chưa có sẵn*
+(Điều 7 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 8
+Việc phân hạng đất tính thuế thực hiện theo quy định tại Nghị định số 73-CP ngày 25-10-1993 của Chính phủ.
 
-**Mã phân cấp:** 3300700000000000200000800000000000000000
+(Điều này có nội dung liên quan đến Điều 33.7.TT.1.3.)
 
-**ID:** dk_00053605
+Điều 33.7.TT.1.3.
 
----
+(Điều 3 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Việc phân hạng đất tính thuế thực hiện theo quy định của Nghị định số 73/CP ngày 25-10-1993 của Chính phủ được hướng dẫn riêng bằng một văn bản khác.
 
-### Điều 33.7.NĐ.1.3.
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.7.)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.8.
 
-**Chỉ mục:** 3
+(Điều 8 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000020000080000000000000000000401758500730000300
+Căn cứ vào tiêu chuẩn của từng hạng đất và hướng dẫn của Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương; sự chỉ đạo của Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh; Uỷ ban nhân dân xã, phường, thị trấn xác định hạng đất tính thuế cho từng hộ nộp thuế trình cơ quan Nhà nước có thẩm quyền xét duyệt.
 
-**ID:** dk_00053606
+Điều 33.7.NĐ.1.3.
 
----
+(Điều 3 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993)
 
+Căn cứ tiêu chuẩn hạng đất tính thuế, Bộ Tài chính thống nhất với Bộ Nông nghiệp và Công nghiệp thực phẩm, Tổng cục Quản lý ruộng đất, xác định tiêu chuẩn hạng đất đến huyện, quận, thị xã, thành phố thuộc tỉnh làm cơ sở cho việc phân hạng đất tính thuế của từng địa phương.
 
-### Điều 33.7.NĐ.1.4.
+(Điều này có nội dung liên quan đến Điều 33.7.TL.1.1. Xác định tiêu chuẩn các yếu tố của từng hạng đất tính thuế; Điều 33.7.TL.1.2. Phân hạng đất tính thuế đối với cây trồng chính)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.1.4.
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993)
 
-**Mã phân cấp:** 330070000000000020000080000000000000000000401758500730000400
-
-**ID:** dk_00053607
-
----
-
-
-### Điều 33.7.TL.1.3. Trình tự phân hạng đất tính thuế sử dụng đất nông nghiệp
+Căn cứ vào tiêu chuẩn hạng đất, thực tế đất đai và kết quả sản xuất ở địa phương. Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chỉ đạo, hướng dẫn việc phân hạng đất tính thuế ở địa phương.
 
 Điều 33.7.TL.1.3. Trình tự phân hạng đất tính thuế sử dụng đất nông nghiệp
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư liên tịch số 92/TT-LB, có hiệu lực thi hành kể từ ngày 10/11/1993)
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000040000801760100920000300
+1. Ở cấp tỉnh:
 
-**ID:** dk_00053608
+Căn cứ vào Điều 1 Nghị định số 73/CP ngày 25 tháng 10 năm 1993 của Chính phủ; căn cứ vào tiêu chuẩn từng yếu tố để phân hạng đất tính thuế của các cây trồng chính và hướng dẫn của Liên bộ Nông nghiệp và Công nghiệp thực phẩm, Tài chính và Quản lý ruộng đất; Cục thuế phối hợp với cơ quan nông nghiệp và quản lý ruộng đất tỉnh thực hiện:
 
----
+- Dự kiến cơ cấu hạng đất của đất trồng cây hàng năm, đất trồng cây lâu năm, mặt nước mặn lợ nuôi trồng thuỷ sản phù hợp với mức độ các yếu tố phân hạng đất và năng suất cây trồng của từng huyện, trình Uỷ ban nhân dân tỉnh giao cho các huyện trong quý I năm 1994;
 
+- Trình Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định các căn cứ mức điểm tối đa, tối thiểu của từng yếu tố theo từng loại cây trồng chủ yếu, của từng quận, huyện, thị xã, thành phố thuộc tỉnh để xây dựng hạng đất tính thuế sử dụng đất nông nghiệp cho các xã.
 
-### Điều 33.7.TL.1.4. Xét duyệt phân hạng đất tính thuế
+2. Ở cấp huyện:
+
+Căn cứ vào tiêu chuẩn hạng đất và hướng dẫn tại Thông tư này; căn cứ vào chỉ đạo của tỉnh; căn cứ vào dự kiến cơ cấu hạng đất do Uỷ ban nhân dân tỉnh giao, Chi cục thuế phối hợp với Hội đồng tư vấn thuế (các ngành liên quan) trình Uỷ ban nhân dân huyện dự kiến cơ cấu hạng đất của từng xã, phường, thị trấn, số thuế ghi thu trên cơ sở đó chỉ đạo các xã, phường, thị trấn phân hạng đất tính thuế.
+
+3. Ở cấp xã:
+
+Căn cứ vào Điều 1 của Nghị định số 73/CP ngày 25 tháng 10 năm 1993 của Chính phủ; căn cứ vào hướng dẫn của tỉnh và huyện. Theo sự chỉ đạo của Uỷ ban nhân dân huyện, đội thuế xã cùng Hội đồng tư vấn thuế xã giúp Uỷ ban nhân dân xã phân hạng đất tính thuế đến từng thửa ruộng của từng hộ sử dụng đất.
+
+Phân hạng đất các loại cây trồng chính trước theo địa bàn thôn, ấp, bản; trên cơ sở đó phân hạng đất đối với đất trồng các loại cây khác. Việc phân hạng đất phải được thực hiện theo từng cánh đồng theo thực tế đất đai, số vụ sản xuất và tham khảo năng suất đạt được trong điều kiện canh tác trung bình và trình độ tham canh trung bình ở địa phương được quy định chi tiết tại Nghị định số 73/CP ngày 25 tháng 10 năm 1993 của Chính phủ. Chú ý xác định các yếu tố địa hình, vị trí và năng suất theo từng loại cây trồng của từng vùng ruộng đất.
+
+Cơ quan thuế cùng cán bộ ruộng đất, nông nghiệp dự kiến phân hạng đất tính thuế của xã, đưa ra thảo luận xem xét trong hội đồng tư vấn; trên cơ sở đó cơ quan thuế giúp Uỷ ban nhân dân xã tổng hợp kết quả phân hạng đất.
+
+Kết quả phân hạng đất trước khi báo cáo Uỷ ban nhân dân huyện phải niêm yết cho nhân dân biết để tham gia trong thời gian 20 ngày.
+
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.1.5.)
 
 Điều 33.7.TL.1.4. Xét duyệt phân hạng đất tính thuế
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư liên tịch số 92/TT-LB, có hiệu lực thi hành kể từ ngày 10/11/1993)
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000040000801760100920000400
+1. Chi cục thuế phối hợp với Hội đồng tư vấn thuế huyện (các ngành liên quan) giúp Uỷ ban nhân dân huyện kiểm tra, xét duyệt hạng đất tính thuế sử dụng đất nông nghiệp của các xã và các đơn vị do Chi cục thuế huyện trực tiếp lập sổ thuế. Cá biệt, chưa có sự nhất trí giữa Hội đồng tư vấn thuế huyện với các xã thì Uỷ nhân dân huyện chỉ đạo các xã làm lại. Chi cục thuế giúp Uỷ ban nhân dân huyện tổng hợp, báo cáo Cục thuế và trình Uỷ ban nhân dân tỉnh.
 
-**ID:** dk_00053609
+2. Cục thuế phối hợp với Hội đồng tư vấn thuế tỉnh (các ngành liên quan) giúp Uỷ ban nhân dân tỉnh tổng hợp, xét duyệt hạng đất tính thuế sử dụng đất nông nghiệp của huyện và các đơn vị do Cục thuế trực tiếp lập sổ thuế để trình Uỷ ban nhân dân tỉnh xét duyệt, báo cáo với Bộ Tài chính (Tổng cục thuế) trình Chính phủ.
 
----
+3. Bộ Tài chính cùng với Bộ Nông nghiệp và Công nghiệp thực phẩm và Tổng cục quản lý ruộng đất kiểm tra việc tổng hợp, xét duyệt phân hạng đất tính thuế sử dụng đất nông nghiệp của các tỉnh, thành phố; chuẩn bị các tài liệu cần thiết để Bộ Tài chính trình Chính phủ phê chuẩn hạng đất tính thuế cho các địa phương.
 
-
-### Điều 33.7.TT.2.1. Nhiệm vụ của Hội đồng tư vấn thuế sử dụng đất nông nghiệp các cấp
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.1.6.; Điều 33.7.NĐ.1.7.)
 
 Điều 33.7.TT.2.1. Nhiệm vụ của Hội đồng tư vấn thuế sử dụng đất nông nghiệp các cấp
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 21 - TC/TCT hướng dẫn về hội đồng tư vấn thuế sử dụng đất nông nghiệp. ngày 18/03/1994 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 18/03/1994)
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000040000801772900000000100
+1. Nhiệm vụ chung
 
-**ID:** dk_00053610
+Hội đồng tư vấn thuế sử dụng đất nông nghiệp các cấp có nhiệm vụ giúp Uỷ ban nhân dân cùng cấp xác định diện tích tính thuế, phân hạng đất tính thuế, xem xét và đề nghị giảm thuế, miễn thuế, trên cơ sở đó cơ quan thuế tổng hợp trình UBND cùng cấp duyệt hoặc ra quyết định về giảm thuế, miễn thuế ở địa phương. Cụ thể như sau:
 
----
+1.1. Về xác định diện tích và hạng đất tính thuế:
 
+a. Hội đồng tư vấn thuế tỉnh và huyện: có nhiệm vụ xác định diện tích tính thuế, hạng đất tính thuế cho các đơn vị hành chính cấp dưới trực tiếp và các đơn vị nộp thuế tại tỉnh hoặc huyện quản lý và thu thuế; làm căn cứ cho cơ quan thuế báo cáo cấp trên và trình UBND cùng cấp.
 
-### Điều 33.7.TT.2.2. Hoạt động của Hội đồng tư vấn thuế các cấp
+b. Hội đồng tư vấn thuế xã: Có nhiệm vụ xác định diện tích tính thuế, hạng đất tính thuế cho các hộ nộp thuế làm căn cứ cho cơ quan thuế xã báo cáo Chi cục thuế và trình UBND xã.
+
+1.2. Về xem xét và đề nghị các trường hợp, đối tượng được xét giảm thuế, miễn thuế:
+
+Hội đồng tư vấn thuế các cấp có nhiệm vụ:
+
+- Theo dõi, nắm đúng tình hình mùa vụ, kết quả sản xuất, tình hình đời sống của dân ở địa phương;
+
+- Xem xét và đề nghị các trường hợp, đối tượng được xét giảm thuế, miễn thuế theo Luật; trên cơ sở đó cơ quan thuế trình UBND cùng cấp duyệt hoặc ra quyết định (đối với tỉnh) về giảm thuế, miễn thuế ở địa phương mình. Cụ thể như sau:
+
+a. Hội đồng tư vấn thuế tỉnh: Xem xét đề nghị giảm thuế, miễn thuế của các huyện, trên cơ sở đó giúp Cục thuế duyệt và tổng hợp trình UBND tỉnh quyết định.
+
+b. Hội đồng tư vấn thuế huyện: Xem xét đề nghị giảm thuế, miễn thuế của các xã, trên cơ sở đó giúp chi cục thuế tổng hợp báo cáo Cục thuế và trình UBND tỉnh.
+
+c. Hội đồng tư vấn thuế xã: Trên cơ sở kiểm tra nắm vững thực tế ở địa phương mà xem xét các đối tượng và trường hợp được xét giảm thuế, miễn thuế. Từ đó giúp cơ quan thuế xã đề nghị UBND xã duyệt danh sách các hộ và mức thuế được giảm, miễn của từng hộ, chia theo các đối tượng và trường hợp: giảm miễn thiên tai, giảm miễn xã hội báo cáo Chi cục thuế và trình UBND huyện.
+
+2. Nhiệm vụ từng thành viên Hội đồng tư vấn
+
+2.1. Đối với Hội đồng tư vấn thuế xã:
+
+a. Chủ tịch Hội đồng: Chủ trì trong việc thực hiện nhiệm vụ của Hội đồng tư vấn, chỉ đạo các bộ phận giúp việc của UBND xã cung cấp các tài liệu cần thiết cho Hội đồng tư vấn như: Danh sách các hộ gia đình chính sách được xét giảm, miễn thuế, tình hình sản xuất, tình hình đời sống .
+
+b. Uỷ viên thường trực: Giúp Chủ tịch trực tiếp giải quyết công việc của Hội đồng tư vấn; dự kiến diện tích, hạng đất tính thuế; dự kiến danh sách và mức thuế được giảm hoặc miễn của mỗi hộ; thực hiện các nhiệm vụ chuyên môn cần thiết để hoàn thành nhiệm vụ của Hội đồng tư vấn thuế.
+
+c. Trưởng thôn, ấp (xóm) bản: Tuỳ cơ cấu tổ chức hành chính ở từng địa phương dưới xã có thôn, hoặc xóm, hoặc ấp, hoặc bản (gọi chung là thôn) thì mỗi đơn vị thôn do trưởng thôn là thành viên trong Hội đồng tư vấn thuế xã, có nhiệm vụ:
+
+- Tham gia ý kiến vào việc xác định diện tích đất và việc phân hạng đất tính thuế của từng hộ trong thôn.
+
+- Kiểm tra, xác nhận các hộ và mức độ được đề nghị xét giảm thuế, miễn thuế của mỗi hộ ở thôn mình.
+
+d. Đại diện Hội nông dân xã: Có nhiệm vụ tham gia vào công việc chung của Hội đồng tư vấn, đồng thời cung cấp về tình hình đời sống, nguyện vọng của nông dân, ý kiến của nhân dân về những công việc của Hội đồng tư vấn thuế xã.
+
+đ. Cán bộ quản lý ruộng đất xã: Có nhiệm vụ cung cấp các tài liệu về ruộng đất cần thiết cho việc kiểm tra xác định diện tích, hạng đất tính thuế của xã và của từng hộ nộp thuế.
+
+e. Cán bộ thống kê xã: Có nhiệm vụ:
+
+- Cung cấp năng suất thực tế các năm 1986 - 1990 của từng loại ruộng đất, xứ đồng ở xã để làm cơ sở kiểm tra phân hạng đất tính thuế;
+
+- Cung cấp các tài liệu theo dõi tình hình mùa màng, tình hình thiệt hại nếu có thiên tai sâu bệnh, kết quả thu hoạch và các tài liệu liên quan khác cho cơ quan thuế và Hội đồng tư vấn.
+
+2.2. Đối với Hội đồng tư vấn thuế tỉnh và huyện:
+
+Căn cứ vào nhiệm vụ chung đã hướng dẫn ở trên, căn cứ vào chức năng nhiệm vụ của ngành mình phụ trách trong thành viên Hội đồng tư vấn, UBND tỉnh quy định nhiệm vụ cụ thể của mỗi thành viên.
+
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.28.)
 
 Điều 33.7.TT.2.2. Hoạt động của Hội đồng tư vấn thuế các cấp
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 21 - TC/TCT, có hiệu lực thi hành kể từ ngày 18/03/1994)
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000040000801772900000000200
+Căn cứ nhiệm vụ của Hội đồng tư vấn thuế các cấp; căn cứ vào tình hình đặc điểm và khối lượng công việc phải làm, UBND tỉnh quy định thời gian và các kỳ làm việc trong năm của Hội đồng tư vấn thuế các cấp.
 
-**ID:** dk_00053611
-
----
-
-
-### Điều 33.7.TT.2.3. Kinh phí hoạt động của Hội đồng tư vấn thuế sử dụng đất nông nghiệp
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.28.)
 
 Điều 33.7.TT.2.3. Kinh phí hoạt động của Hội đồng tư vấn thuế sử dụng đất nông nghiệp
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 21 - TC/TCT, có hiệu lực thi hành kể từ ngày 18/03/1994)
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000040000801772900000000300
+Thành viên Hội đồng tư vấn thuế sử dụng đất nông nghiệp các cấp được hưởng chế độ thù lao lấy từ nguồn kinh phí thuế sử dụng đất nông nghiệp theo một văn bản hướng dẫn về quản lý sử dụng kinh phí thuế sử dụng đất nông nghiệp.
 
-**ID:** dk_00053612
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.29.)
 
----
+Điều 33.7.TT.5.1. Quy định chung
 
+(Điều 1 Thông tư số 117/1999/TT-BTC Hướng dẫn chế độ tài chính đối với hoạt động thu thuế sử dụng đất nông nghiệp ngày 27/09/1999 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2000)
 
-### Điều 33.7.TT.5.1. Quy định chung
+- Kinh phí đối với hoạt động thu thuế sử dụng đất nông nghiệp (SDĐNN) của hệ thống Thuế do ngân sách trung ương đảm bảo và được thông báo trong dự toán NSNN hàng năm của Tổng cục Thuế. Bộ Tài chính cấp phát kinh phí hoạt động thu thuế SDĐNN theo kế hoạch từng tháng, quý cho Tổng cục Thuế như các khoản kinh phí khác.
 
-*Nội dung chưa có sẵn*
+- Căn cứ vào nhiệm vụ thu thuế SDĐNN quy định tại Thông tư số 89 TC/TCT ngày 09/11/1993 của Bộ Tài chính, Tổng cục Thuế có trách nhiệm chỉ đạo Cục Thuế các tỉnh, thành phố trực thuộc trung ương căn cứ vào số thôn, ấp, số thuế thu của từng phường, xã và số cán bộ thuế trong biên chế thuộc các đội thuế để tính toán số lượng cần thiết các hợp đồng uỷ nhiệm thu thuế SDĐNN và trực tiếp ký hợp đồng hoặc uỷ quyền cho Chi cục Thuế ký hợp đồng dưới hình thức hợp đồng ngắn hạn. Hàng năm, Tổng cục Thuế có trách nhiệm tổng hợp báo cáo Bộ Tài chính số lượng hợp đồng ngắn hạn và chịu trách nhiệm trước Bộ trưởng Bộ Tài chính về việc thực hiện các hợp đồng lao động.
 
-**Chỉ mục:** 1
+- Việc quản lý kinh phí đối với hoạt động thu thuế sử dụng đất nông nghiệp của Tổng cục Thuế và các đơn vị trực thuộc phải chấp hành các quy định về quản lý tài chính hiện hành, pháp lệnh kế toán thống kê, chế độ kế toán thống kê, chế độ kế toán đơn vị HCSN và các quy định tại Thông tư này.
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000040000801974801170000100
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.29.)
 
-**ID:** dk_00053613
+Điều 33.7.TT.5.2. Quy định cụ thể
 
----
+(Điều 2 Thông tư số 117/1999/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2000)
 
+1. Nội dung chi:
 
-### Điều 33.7.TT.5.2. Quy định cụ thể
+a/. Chi tiền công cho cán bộ hợp đồng thu thuế và chi phụ cấp cho thành viên Hội đồng tư vấn (HĐTV) thuế các cấp, cụ thể như sau:
 
-*Nội dung chưa có sẵn*
+- Chi tiền công cho cán bộ hợp đồng thu thuế:
 
-**Chỉ mục:** 2
++ Chi cho cán bộ hợp đồng tại xã, phường: để thực hiện các nhiệm vụ gửi thông báo thu thuế, lập sổ thuế, tính miễn giảm thuế SDĐNN, chấm bộ thuế, tham gia quyết toán thuế SDĐNN ở các thôn, bản, xã phường dưới sự chỉ đạo nghiệp vụ của đội thuế xã, phường, Chi cục Thuế. Bình quân mỗi xã, phường có thu thuế SDĐNN được tính tối đa là 2 người; Thời gian thực hiện là 6 tháng/năm; Mức chi tiền công tối đa là: 200.000 đ/người/tháng.
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000040000801974801170000200
++ Chi cho cán bộ hợp đồng tại thôn, xóm, ấp, bản: để thực hiện các nhiệm vụ đưa thông báo thu thuế, đôn đốc thu thuế theo mùa vụ và trực tiếp thu thuế đến từng đối tượng nộp thuế, tham gia chấm bộ thuế. Mỗi xã, phường có thu thuế SDĐNN được tính cán bộ hợp đồng tại thôn, xóm, ấp, bản bình quân 7 người/xã, phường; Thời gian thực hiện là 2 tháng/năm; Mức chi tiền công tối đa là: 150.000 đ/người/tháng.
 
-**ID:** dk_00053614
+- Chi phụ cấp cho thành viên HĐTV thuế các cấp: Chức năng, nhiệm vụ của HĐTV thuế các cấp thực hiện theo hướng dẫn tại Thông tư số 26 TC/TCT ngày 27/3/1995 của Bộ Tài chính hướng dẫn việc thành lập và hoạt động của HĐTV thuế phường xã. Cụ thể mức chi được quy định như sau:
 
----
++ Chi HĐTV thuế xã, phường: Bình quân mỗi HĐTV là 8 người, số lần họp được tính là 8 lần/năm, mức chi cho mỗi thành viên là 20.000 đ/người/lần họp (các thành viên tự lo giấy bút cá nhân).
 
++ Chi HĐTV thuế cấp huyện, thị xã và cấp tỉnh, thành phố trực thuộc TW: Bình quân mỗi HĐTV là 8 người, số lần họp được tính là 6 lần/năm, mức chi cho mỗi thành viên là 30.000 đ/người/lần họp (các thành viên tự lo giấy bút cá nhân).
 
-### Điều 33.7.NĐ.1.5.
+b/. Chi nghiệp vụ thuế: bao gồm các nội dung chi:
 
-*Nội dung chưa có sẵn*
+- Lập tờ khai diện tích tính thuế cho các hộ sử dụng đất nông nghiệp.
 
-**Chỉ mục:** 5
+- Lập sổ bộ thuế (điều chỉnh sổ bộ khi có biến động hàng năm).
 
-**Mã phân cấp:** 330070000000000020000080000000000000000000401758500730000500
+- Chi in hoá đơn thu thuế, in tờ khai và sổ bộ thuế.
 
-**ID:** dk_00053615
+- Chi cho công tác điều tra, kiểm tra, xét miễn giảm thuế.
 
----
+- Hướng dẫn nghiệp vụ chuyên môn cho cán bộ hợp đồng thu thuế.
 
+- Sơ kết, tổng kết công tác quản lý thuế.
 
-### Điều 33.7.NĐ.1.6.
+Đối với các khoản chi mua sổ sách lập bộ thuế, in ấn hoá đơn thu thuế, Tổng cục Thuế tổ chức in ấn tập trung đảm bảo in ấn theo mẫu biểu thống nhất trong toàn quốc và theo đúng quy định hiện hành.
 
-*Nội dung chưa có sẵn*
+Mức chi đối với các nội dung này phải có chứng từ hợp lệ, gắn với tình hình thực tế tại địa phương và không được vượt quá mức khống chế như sau:
 
-**Chỉ mục:** 6
+- Đối với các tỉnh đồng bằng sông Cửu long tối đa là: 1.500.000 đồng/xã/năm.
 
-**Mã phân cấp:** 330070000000000020000080000000000000000000401758500730000600
+- Đối với các tỉnh và thành phố còn lại tối đa là: 1.000.000 đồng/xã/năm.
 
-**ID:** dk_00053616
+c/. Chi mua sắm:
 
----
+- Tủ hồ sơ lưu trữ sổ bộ thuế, thông báo thuế, hồ sơ miễn giảm thuế.
 
+- Bàn ghế làm việc.
 
-### Điều 33.7.NĐ.1.7.
+- Máy tính cá nhân phục vụ cho công tác tính toán.
 
-*Nội dung chưa có sẵn*
+- Sổ sách, giấy bút, văn phòng phẩm.
 
-**Chỉ mục:** 7
+- Trang thiết bị làm việc cần thiết khác.
 
-**Mã phân cấp:** 330070000000000020000080000000000000000000401758500730000700
+Việc trang bị, mua sắm tài sản phục vụ công tác thu thuế sử dụng đất nông nghiệp nêu trên đảm bảo nguyên tắc sử dụng hợp lý, tiết kiệm, đúng đối tượng và được thực hiện từng bước căn cứ vào dự toán ngân sách được giao hàng năm của Tổng cục.
 
-**ID:** dk_00053617
+2. Cấp phát kinh phí hoạt động thu thuế SDĐNN:
 
----
+Kinh phí hoạt động thu thuế SDĐNN của Hệ thống Thuế được cấp phát hàng tháng, quý và theo tiến độ triển khai thực hiện công việc. Tổng cục Thuế có trách nhiệm tập hợp dự toán tháng, quý của các đơn vị trực thuộc theo MLNSNN hiện hành gửi về Bộ Tài chính để làm căn cứ cấp phát.
 
+3. Lập dự toán, chấp hành, kiểm tra và quyết toán:
 
-### Điều 33.7.QĐ.2.1.
+Tổng cục Thuế và các đơn vị trực thuộc có trách nhiệm thực hiện việc lập dự toán, chấp hành, kiểm tra và quyết toán kinh phí hoạt động thu thuế SDĐNN cùng báo cáo tài chính chung của ngành Thuế theo đúng quy định tại Văn bản hướng dẫn này và các quy định của Luật ngân sách Nhà nước, Mục lục ngân sách Nhà nước và chế độ kế toán hành chính sự nghiệp hiện hành.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Chương VI KẾ TOÁN, KIỂM TOÁN VÀ QUYẾT TOÁN NGÂN SÁCH NHÀ NƯỚC; Chương IV LẬP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC; Chương V CHẤP HÀNH NGÂN SÁCH NHÀ NƯỚC; Điều 33.7.NĐ.2.29.)
 
-**Chỉ mục:** 1
+Điều 33.7.NĐ.1.5.
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000501852103260000100
+(Điều 5 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993)
 
-**ID:** dk_00053618
+Theo sự chỉ đạo của Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, Uỷ ban nhân dân xã, phường, thị trấn tiến hành phân hạng đất tính thuế.
 
----
+Hội đồng tư vấn thuế xã giúp Uỷ ban nhân dân xã phân hạng đất ở xã.
 
+Trước khi báo cáo lên Uỷ ban nhân dân cấp trên về kết quả phân hạng đất tính thuế, Uỷ ban nhân dân xã, phường, thị trấn phải niêm yết công khai kết quả phân hạng đất tính thuế của xã trong thời hạn 20 ngày để nhân dân tham gia ý kiến, kịp thời có điều chỉnh cần thiết và hộ nộp thuế xác nhận hạng đất tính thuế của mình.
 
-### Điều 33.7.QĐ.2.2.
+(Điều này có nội dung liên quan đến Điều 33.7.TL.1.3. Trình tự phân hạng đất tính thuế sử dụng đất nông nghiệp)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.1.6.
 
-**Chỉ mục:** 2
+(Điều 6 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993)
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000501852103260000200
+Chi cục thuế giúp Uỷ ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh chỉ đạo, hướng dẫn các xã, phường, thị trấn phân hạng đất tính thuế, kiểm tra xem xét và tổng hợp kết quả phân hạng đất của địa phương mình, báo cáo Cục thuế để trình Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
 
-**ID:** dk_00053619
+(Điều này có nội dung liên quan đến Điều 33.7.TL.1.4. Xét duyệt phân hạng đất tính thuế)
 
----
+Điều 33.7.NĐ.1.7.
 
+(Điều 7 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993)
 
-### Điều 33.7.QĐ.2.3.
+Cục thuế giúp Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương kiểm tra và xét duyệt tổng hợp kết quả phân hạng đất tính thuế của địa phương, báo cáo Bộ Tài chính để trình Thủ tướng Chính phủ phê chuẩn.
 
-*Nội dung chưa có sẵn*
+Hạng đất tính thuế sau khi được Thủ tướng Chính phủ phê chuẩn là căn cứ tính thuế, lập sổ thuế.
 
-**Chỉ mục:** 3
+Hạng đất tính thuế được ổn định 10 năm.
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000501852103260000300
+Trong thời hạn ổn định hạng đất tính thuế, đối với vùng Nhà nước có đầu tư lớn về giao thông, thuỷ lợi, cải tạo đất và các biện pháp khác đem lại hiệu quả kinh tế cao hơn mức bình quân của thời kỳ 5 năm (1986-1990), thì Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương điều chỉnh hạng đất tính thuế trình Thủ tướng Chính phủ phê chuẩn.
 
-**ID:** dk_00053620
+(Điều này có nội dung liên quan đến Điều 33.7.TL.1.4. Xét duyệt phân hạng đất tính thuế)
 
----
+Điều 33.7.QĐ.2.1.
 
+(Điều 1 Quyết định số 326/TTg, có hiệu lực thi hành kể từ ngày 18/05/1996, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Quyết định số 11/2003/QĐ-TTg có hiệu lực thi hành kể từ ngày 15/01/2003)
 
-### Điều 33.7.QĐ.5.1.
+ Phê chuẩn hạng đất tính thuế sử dụng đất nông nghiệp cho các tỉnh, thành phố trực thuộc Trung ương (chi tiết của từng tỉnh, thành phố trực thuộc Trung ương kèm theo Quyết định này).
 
-*Nội dung chưa có sẵn*
+Phu luc_Chi tiet ket qua phan hang dat tinh thue các tinh TP.doc
 
-**Chỉ mục:** 1
+Điều 33.7.QĐ.2.2.
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000502095400110000100
+(Điều 2 Quyết định số 326/TTg, có hiệu lực thi hành kể từ ngày 18/05/1996)
 
-**ID:** dk_00053621
+Hạng đất tính thuế sử dụng đất nông nghiệp đã phê chuẩn được ổn định trong 10 năm kể từ năm 1994 đến hết năm 2003.
 
----
+Trong thời hạn ổn định hạng đất tính thuế, đối với những vùng Nhà nước có đầu tư lớn về giao thông, thuỷ lợi, cải tạo đất và các biện pháp khác đem lại hiệu quả kinh tế cao hơn mức bình quân của thời kỳ 5 năm (1986 - 1990) thì Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương điều chỉnh hạng đất tính thuế trình Thủ tướng Chính phủ phê chuẩn.
 
+Điều 33.7.QĐ.2.3.
 
-### Điều 33.7.QĐ.5.2.
+(Điều 3 Quyết định số 326/TTg, có hiệu lực thi hành kể từ ngày 18/05/1996)
 
-*Nội dung chưa có sẵn*
+Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương căn cứ vào hạng đất tính thuế sử dụng đất nông nghiệp đã phê chuẩn chỉ đạo, hướng dẫn việc tính thuế và lập sổ bộ thuế đến từng hộ nộp thuế ở địa phương.
 
-**Chỉ mục:** 2
+Điều 33.7.QĐ.5.1.
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000502095400110000200
+(Điều 1 Quyết định số 11/2003/QĐ-TTg VỀ VIỆC PHÊ DUYỆT HẠNG ĐẤT TÍNH THUẾ SỬ DỤNG ĐẤT NÔNG NGHIỆP TỈNH CẦN THƠ ngày 15/01/2003 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 15/01/2003)
 
-**ID:** dk_00053622
+Phê chuẩn hạng đất tính thuế sử dụng đất nông nghiệp cho tỉnh Cần Thơ như sau:
 
----
+Đơn vị: ha
 
+ Hạng đất
 
-### Điều 33.7.QĐ.6.1.
+ Đất trồng cây hàng năm
 
-*Nội dung chưa có sẵn*
+ Đất trồng cây lâu năm
 
-**Chỉ mục:** 1
+ Đất hạng 1:
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000502279500190000100
+ 12.416,30
 
-**ID:** dk_00053623
+ 6.624,22
 
----
+ Đất hạng 2:
 
+ 25.557,47
 
-### Điều 33.7.QĐ.6.2.
+ 8.364,35
 
-*Nội dung chưa có sẵn*
+ Đất hạng 3:
 
-**Chỉ mục:** 2
+ 70.004,03
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000502279500190000200
+ 14.843,41
 
-**ID:** dk_00053624
+ Đất hạng 4:
 
----
+ 59.510,19
 
+ 10.976,50
 
-### Điều 33.7.QĐ.7.1.
+ Đất hạng 5:
 
-*Nội dung chưa có sẵn*
+ 19.455,31
 
-**Chỉ mục:** 1
+ 3.834,27
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000502396600230000100
+ Đất hạng 6;
 
-**ID:** dk_00053625
+ 656,28
 
----
+ Tổng diện tích đất tính thuế
 
+ 187.599,58
 
-### Điều 33.7.QĐ.7.2.
+ 44.642,75
 
-*Nội dung chưa có sẵn*
+Điều 33.7.QĐ.5.2.
 
-**Chỉ mục:** 2
+(Điều 2 Quyết định số 11/2003/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/01/2003)
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000502396600230000200
+Hạng đất tính thuế sử dụng đất nông nghiệp được ổn định từ năm 2003. Chủ tịch Ủy ban nhân dân tỉnh Cần Thơ thông báo cụ thể hạng đất tính thuế chi tiết cho từng xã.
 
-**ID:** dk_00053626
+Điều 33.7.QĐ.6.1.
 
----
+(Điều 1 Quyết định số 19/2008/QĐ-TTg Về việc phê chuẩn hạng đất tính thuế sử dụng đất nông nghiệp của tỉnh Trà Vinh ngày 30/01/2008 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 25/02/2008)
 
+ Phê chuẩn hạng đất tính thuế sử dụng đất nông nghiệp ổn định trong thời gian 10 năm (từ năm 2008 đến hết năm 2017) của tỉnh Trà Vinh như sau:                                                                 
 
-### Điều 33.7.QĐ.7.3.
+ STT
 
-*Nội dung chưa có sẵn*
+ Chỉ tiêu
 
-**Chỉ mục:** 3
+ Hạng 1 (ha)
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040175850073000070000502396600230000300
+ Hạng 2 (ha)
 
-**ID:** dk_00053627
+ Hạng 3 (ha)
 
----
+ Hạng 4 (ha)
 
+ Hạng 5 (ha)
 
-### Điều 33.7.NĐ.4.5. Hạng đất tính thuế
+ Cộng diện tich (ha)
 
-*Nội dung chưa có sẵn*
+ Thuế ghi thu (tấn)
 
-**Chỉ mục:** 5
+ 1
 
-**Mã phân cấp:** 330070000000000020000080000000000000000000402394300200000500
+ Đất trồng cây hàng năm và mặt nước nuôi trồng thuỷ sản
 
-**ID:** dk_00053628
+ 28
 
----
+ 21.240
 
+ 36.231
 
-### Điều 33.7.TT.9.4. Hạng đất tính thuế
+ 46.958
 
-*Nội dung chưa có sẵn*
+ 9.404
 
-**Chỉ mục:** 4
+        113.861
 
-**Mã phân cấp:** 33007000000000002000008000000000000000000040239430020000050000802408901205500400
+      38.056
 
-**ID:** dk_00053629
+ 2
 
----
+ Cây lâu năm
 
+ 457
 
-### Điều 33.7.LQ.9.
+         2.614
 
-*Nội dung chưa có sẵn*
+       19.854
 
-**Chỉ mục:** 9
+       10.685
 
-**Mã phân cấp:** 3300700000000000200000900000000000000000
+    -
 
-**ID:** dk_00053630
+         33.610
 
----
+      11.812
 
+Trong thời gian ổn định hạng đất tính thuế đối với vùng Nhà nước có đầu tư lớn về giao thông, thuỷ lợi, cải tạo đất và các biện pháp khác đem lại hiệu quả kinh tế cao, Ủy ban nhân dân tỉnh Trà Vinh điều chỉnh hạng đất tính thuế báo cáo Bộ Tài chính trình Thủ tướng Chính phủ quyết định.
 
-### Điều 33.7.NĐ.2.8.
+Điều 33.7.QĐ.6.2.
 
-*Nội dung chưa có sẵn*
+(Điều 2 Quyết định số 19/2008/QĐ-TTg, có hiệu lực thi hành kể từ ngày 25/02/2008)
 
-**Chỉ mục:** 8
+Chủ tịch Ủy ban nhân dân tỉnh Trà Vinh căn cứ vào hạng đất được phê chuẩn tại Điều 1 Quyết định này chỉ đạo, hướng dẫn việc tính thuế và lập sổ bộ thuế đến từng hộ nộp thuế ở địa phương.
 
-**Mã phân cấp:** 330070000000000020000090000000000000000000401758500740000800
+Điều 33.7.QĐ.7.1.
 
-**ID:** dk_00053631
+(Điều 1 Quyết định số 23/2011/QĐ-TTg Về việc phê duyệt hạng đất tính thuế sử dụng đất nông nghiệp tại tỉnh Đắk Lắk ngày 15/04/2011 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 01/06/2011)
 
----
+Phê duyệt hạng đất tính thuế sử dụng đất nông nghiệp tại tỉnh Đắk Lắk theo các Phụ lục I, II ban hành kèm theo Quyết định này.
 
+Phu luc I_ Tong hop dien tich dat theo phan cap dia hinh.doc
 
-### Điều 33.7.TT.1.4.
+Phu luc II_ Co cau hang dat san xuat nong nghiep.doc
 
-*Nội dung chưa có sẵn*
+Điều 33.7.QĐ.7.2.
 
-**Chỉ mục:** 4
+(Điều 2 Quyết định số 23/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/06/2011)
 
-**Mã phân cấp:** 33007000000000002000009000000000000000000040175850074000080000801760000890000400
+Hạng đất tính thuế sử dụng đất nông nghiệp quy định tại Điều 1 Quyết định này được sử dụng ổn định trong thời gian 10 năm, từ năm 2011 đến hết năm 2020.
 
-**ID:** dk_00053632
+Trong thời hạn ổn định hạng đất tính thuế, đối với vùng Nhà nước có đầu tư lớn về giao thông, thủy lợi, cải tạo đất và các biện pháp khác đem lại hiệu quả kinh tế cao, Ủy ban nhân dân tỉnh điều chỉnh hạng đất tính thuế trình Thủ tướng Chính phủ phê duyệt.
 
----
+Điều 33.7.QĐ.7.3.
 
+(Điều 3 Quyết định số 23/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/06/2011)
 
-### Điều 33.7.LQ.10.
+Chủ tịch Ủy ban nhân dân tỉnh Đắk Lắk căn cứ vào hạng đất tính thuế sử dụng đất nông nghiệp quy định tại Điều 1 Quyết định này chỉ đạo, hướng dẫn việc tính thuế và lập sổ bộ thuế đến từng hộ nộp thuế ở địa phương.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.4.5. Hạng đất tính thuế
 
-**Chỉ mục:** 10
+(Điều 5 Nghị định số 20/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 146/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 04/01/2021)
 
-**Mã phân cấp:** 3300700000000000200001000000000000000000
+Kéo dài thời hạn thực hiện hạng đất tính thuế sử dụng đất nông nghiệp đến hết ngày 31 tháng 12 năm 2025 trên cơ sở hạng đất đã được quy định và thực hiện trong giai đoạn từ năm 2011 đến hết năm 2020.
 
-**ID:** dk_00053633
+Trường hợp địa phương được Thủ tướng Chính phủ phê duyệt điều chỉnh hạng đất tính thuế sử dụng đất nông nghiệp theo quy định thì thực hiện theo quy định đó đến hết ngày 31 tháng 12 năm 2025.
 
----
+Điều 33.7.TT.9.4. Hạng đất tính thuế
 
+(Điều 4 Thông tư số 120/2011/TT-BTC Hướng dẫn Nghị định số 20/2011/NĐ-CP ngày 23/3/2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành Nghị quyết số 55/2010/QH12 ngày 24/11/2010 của Quốc hội về việc miễn, giảm thuế sử dụng đất nông nghiệp ngày 16/08/2011 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/10/2011)
 
-### Điều 33.7.PL.1.1.
+ Hạng đất tính thuế sử dụng đất nông nghiệp được tính ổn định 10 năm, bắt đầu từ ngày 01 tháng 01 năm 2011 đến hết ngày 31 tháng 12 năm 2020, trên cơ sở hạng đất đã được quy định và thực hiện trong giai đoạn từ năm 2003 đến hết năm 2010.
 
-*Nội dung chưa có sẵn*
+ Trường hợp địa phương đã được Thủ tướng Chính Phủ phê duyệt điều chỉnh hạng đất tính thuế sử dụng đất nông nghiệp từ năm 2011 thì thực hiện theo quy định đó ổn định đến hết năm 2020.Điều 33.7.LQ.9.
 
-**Chỉ mục:** 1
+(Điều 9 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000020000100000000000000000000201772600310000100
+Định suất thuế một năm tính bằng kilôgam thóc trên 1 ha của từng hạng đất như sau:
 
-**ID:** dk_00053634
+1. Đối với đất trồng cây hàng năm và đất có mặt nước nuôi trồng thuỷ sản:
 
----
+ Hạng đất 
 
+ Định suất thuế 
 
-### Điều 33.7.NĐ.3.1. Đối tượng nộp thuế:
+ 1
 
-*Nội dung chưa có sẵn*
+ 550
 
-**Chỉ mục:** 1
+ 2
 
-**Mã phân cấp:** 33007000000000002000010000000000000000000020177260031000010000401787200840000100
+ 460
 
-**ID:** dk_00053635
+ 3
 
----
+ 370
 
+ 4
 
-### Điều 33.7.TT.4.1. Đối tượng nộp thuế, đối tượng chịu thuế
+ 280
+
+ 5
+
+ 180
+
+ 6
+
+ 50
+
+2. Đối với đất trồng cây lâu năm:
+
+ Hạng đất 
+
+ Định suất thuế 
+
+ 1
+
+ 650
+
+ 2
+
+ 550
+
+ 3
+
+ 400
+
+ 4
+
+ 200
+
+ 5
+
+ 80
+
+3. Đối với cây ăn quả lâu năm trồng trên đất trồng cây hàng năm chịu mức thuế như sau:
+
+- Bằng 1,3 lần thuế đất trồng cây hàng năm cùng hạng, nếu thuộc đất hạng 1, hạng 2 và hạng 3;
+
+- Bằng thuế đất trồng cây hàng năm cùng hạng, nếu thuộc đất hạng 4, hạng 5 và hạng 6.
+
+4. Đối với cây lấy gỗ và các loại cây lâu năm thu hoạch một lần chịu mức thuế bằng 4% giá trị sản lượng khai thác.
+
+Điều 33.7.NĐ.2.8.
+
+(Điều 8 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+Định suất thuế một năm tính bằng kilôgam thóc trên một hécta của từng hạng đất như sau:
+
+1. Đối với đất trồng cây hàng năm và đất có mặt nước nuôi trồng thuỷ sản:
+
+ Hạng đất
+
+     Định suất thuế
+
+ 1
+
+ 550
+
+ 2
+
+ 460
+
+ 3
+
+ 370
+
+ 4
+
+ 280
+
+ 5
+
+ 180
+
+ 6
+
+ 50
+
+2. Đối với đất trồng cây lâu năm:
+
+ Hạng đất
+
+     Định suất thuế
+
+ 1
+
+ 650
+
+ 2
+
+ 550
+
+ 3
+
+ 400
+
+ 4
+
+ 200
+
+ 5
+
+ 80
+
+3. Đối với cây ăn quả lâu năm trồng trên đất trồng cây hàng năm chịu mức thuế như sau:
+
+- Bằng 1,3 lần thuế sử dụng đất trồng cây hàng năm cùng hạng, nếu thuộc đất hạng 1, hạng 2 và hạng 3;
+
+- Bằng thuế đất trồng cây hàng năm cùng hạng, nếu thuộc đất hạng 4, hạng 5 và hạng 6.
+
+4. Đối với đất trồng các loại cây lâu năm thu hoạch một lần chịu mức thuế bằng 4% giá trị sản lượng khai thác.
+
+(Điều này có nội dung liên quan đến Điều 33.7.TT.1.4.)
+
+Điều 33.7.TT.1.4.
+
+(Điều 4 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+Biểu thuế được quy định tại Điều 8 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ, hướng dẫn để tính thuế như sau:
+
+- Khoản 1 áp dụng cho đất trồng cây hàng năm, đất có mặt nước nuôi trồng thủy sản, đồng cỏ dùng vào chăn nuôi;
+
+- Khoản 2 áp dụng cho đất trồng cây lâu năm.
+
+- Đất trồng cây hàng năm chuyển sang trồng cây ăn quả lâu năm thì hạng đất tính thuế vẫn là hạng đất cây hàng năm đã được xác định, nhưng tính thuế bằng 1, 3 lần thuế đất cây hàng năm cùng hạng nếu thuộc đất hạng 1, 2, 3; các hạng đất 4, 5, 6 của đất trồng cây hàng năm chuyển sang trồng cây ăn quả vẫn thu thuế như đất trồng cây hàng năm cùng hạng. Quy định này chỉ thực hiện kể từ sau khi hạng đất tính thuế sử dụng đất nông nghiệp được phê chuẩn. Cây ăn quả trồng trên đất cây hàng năm từ trước khi phân hạng đất tính thuế theo Luật Thuế sử dụng đất nông nghiệp thì áp dụng phân hạng đất và tính thuế như đất trồng cây lâu năm.
+
+- Đối với đất trồng cây lấy gỗ và cây lâu năm thu hoạch một lần khác chịu thuế bằng 4% giá trị sản lượng khai thác.
+
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.8.)
+
+Điều 33.7.LQ.10.
+
+(Điều 10 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+Hộ sử dụng đất nông nghiệp vượt quá hạn mức diện tích theo quy định của Luật đất đai, thì ngoài việc phải nộp thuế theo quy định tại Điều 9 của Luật này, còn phải nộp thuế bổ sung do Uỷ ban thường vụ Quốc hội quy định đối với phần diện tích trên hạn mức.
+
+(Điều này có nội dung liên quan đến Điều 129. Hạn mức giao đất nông nghiệp của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013)
+
+Điều 33.7.PL.1.1.
+
+(Điều 1 Pháp lệnh số 31-L/CTN Thuế bổ sung đối với hộ gia đình sử dụng đất nông nghiệp vượt quá hạn mức diện tích ngày 15/03/1994 của Uỷ ban Thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+Hộ gia đình sử dụng đất nông nghiệp vượt quá mức diện tích theo quy định của pháp luật, thì ngoài việc phải nộp thuế theo quy định tại Điều 9 của Luật thuế sử dụng đất nông nghiệp trên toàn bộ diện tích sử dụng, còn phải nộp thuế bổ sung đối với phần diện tích trên hạn mức.
+
+Điều 33.7.NĐ.3.1. Đối tượng nộp thuế:
+
+(Điều 1 Nghị định số 84-CP (1) QUY ĐỊNH CHI TIẾT THI HÀNH PHÁP LỆNH THUẾ BỔ SUNG ĐỐI VỚI HỘ GIA ĐÌNH SỬ DỤNG ĐẤT NÔNG NGHIỆP VƯỢT QUÁ HẠN MỨC DIỆN TÍCH ngày 08/08/1994 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+Hộ gia đình sử dụng đất nông nghiệp vượt quá hạn mức diện tích theo quy định của pháp luật là đối tượng nộp thuế bổ sung theo quy định tại Nghị định này.
+
+Hộ gia đình nộp thuế bổ sung bao gồm hộ gia đình nông dân, hộ tư nhân, hộ cá nhân đứng tên trong sổ thuế sử dụng đất nông nghiệp.
 
 Điều 33.7.TT.4.1. Đối tượng nộp thuế, đối tượng chịu thuế
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 82-TC/TCT Thông tư hướng dẫn thi hành Nghị định số 84/CP ngày 8-8-1994 của Chính phủ quy định chi tiết thi hành Pháp lệnh Thuế bổ sung đối với hộ gia đình sử dụng đất nông nghiệp vượt quá hạn mức diện tích ngày 07/10/1994 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000200001000000000000000000002017726003100001000040178720084000010000801793200000000100
+Các hộ gia đình nông dân, hộ tư nhân, hộ cá nhân đứng tên trong sổ thuế sử dụng đất nông nghiệp, nếu sử dụng đất nông nghiệp để trồng cây hàng năm, để trồng cây lâu năm vượt quá hạn mức diện tích dưới đây đều có nghĩa vụ nộp thuế bổ sung ngoài phần thuế sử dụng đất nông nghiệp theo qui định tại Điều 9 Luật thuế sử dụng đất nông nghiệp:
 
-**ID:** dk_00053636
+1. Đối với đất nông nghiệp trồng cây hàng năm:
 
----
+- Các tỉnh Minh Hải, Kiên Giang, Sóc Trăng, Cần Thơ, An Giang, Vĩnh Long, Trà Vinh, Đồng Tháp, Tiền Giang, Long An, Bến Tre, Tây Ninh, Sông Bé, Đồng Nai, Bà Rịa - Vũng Tàu và TP Hồ Chí Minh không quá 3 ha.
 
+- Các tỉnh, thành phố trực thuộc Trung ương khác không quá 2 ha.
 
-### Điều 33.7.NĐ.3.2. Đối tượng chịu thuế:
+2. Đối với đất nông nghiệp để trồng cây lâu năm:
 
-*Nội dung chưa có sẵn*
+- Các xã đồng bằng không quá 10 ha.
 
-**Chỉ mục:** 2
+- Các xã trung du, miền núi không quá 30 ha.
 
-**Mã phân cấp:** 33007000000000002000010000000000000000000020177260031000010000401787200840000200
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.3.2. Đối tượng chịu thuế:)
 
-**ID:** dk_00053637
+Điều 33.7.NĐ.3.2. Đối tượng chịu thuế:
 
----
+(Điều 2 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Đối tượng chịu thuế bổ sung là phần diện tích đất nông nghiệp sử dụng vượt quá hạn mức theo quy định của pháp luật.
 
-### Điều 33.7.PL.1.2.
+Hạn mức đất nông nghiệp của mỗi hộ gia đình được quy định tại Nghị định số 64-CP ngày 27-9-1993 của Chính phủ theo từng loại và cho từng địa phương như sau:
 
-*Nội dung chưa có sẵn*
+1- Đối với đất nông nghiệp để trồng cây hàng năm: các tỉnh Minh Hải, Kiên Giang, Sóc Trăng, Cần Thơ, An Giang, Vĩnh Long, Trà Vinh, Đồng Tháp, Tiền Giang, Long An, Bến Tre, Tây Ninh, Sông Bé, Đồng Nai, Bà Rịa - Vũng Tàu và thành phố Hồ Chí Minh, không quá 3 hécta; các tỉnh, thành phố trực thuộc Trung ương khác không quá 2 hécta.
 
-**Chỉ mục:** 2
+2- Đối với đất nông nghiệp để trồng cây lâu năm: các xã đồng bằng không quá 10 hécta; các xã trung du, miền núi không quá 30 hécta.
 
-**Mã phân cấp:** 330070000000000020000100000000000000000000201772600310000200
+(Điều này có nội dung liên quan đến Điều 129. Hạn mức giao đất nông nghiệp của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 33.7.TT.4.1. Đối tượng nộp thuế, đối tượng chịu thuế)
 
-**ID:** dk_00053638
+Điều 33.7.PL.1.2.
 
----
+(Điều 2 Pháp lệnh số 31-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Mức thuế bổ sung đối với phần diện tích trên hạn mức bằng 20% (hai mươi phần trăm) mức thuế sử dụng đất nông nghiệp.
 
-### Điều 33.7.NĐ.3.3.
+Mức thuế sử dụng đất nông nghiệp để tính thuế bổ sung là mức thuế ghi thu bình quân của hộ gia đình sử dụng đất nông nghiệp.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.3.3.
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 33007000000000002000010000000000000000000020177260031000020000401787200840000300
+Căn cứ tính thuế bổ sung là diện tích đất nông nghiệp sử dụng vượt quá hạn mức quy định, mức thuế ghi thu bình quân cho từng loại đất nông nghiệp và thuế suất bằng 20% (hai mươi phần trăm) mức thuế sử dụng đất nông nghiệp.
 
-**ID:** dk_00053639
+Điều 33.7.TT.4.2. Căn cứ tính thuế
 
----
+(Điều 2 Thông tư số 82-TC/TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Các căn cứ tính thuế bổ sung thực hiện theo qui định tại Điều 3 Nghị định số 84/CP ngày 8-8-1994 của Chính phủ, trong đó:
 
-### Điều 33.7.TT.4.2. Căn cứ tính thuế
+1. Diện tích đất nông nghiệp sử dụng vượt quá hạn mức qui định của từng loại đất trồng cây hàng năm, đất trồng cây lâu năm được xác định theo công thức như sau:
 
-*Nội dung chưa có sẵn*
+ Diện tích vượt quá hạn mức qui định của đất nông nghiệp trồng cây hàng năm (hoặc trồng cây lâu năm)
 
-**Chỉ mục:** 2
+      =
 
-**Mã phân cấp:** 3300700000000000200001000000000000000000002017726003100002000040178720084000030000801793200000000200
+ Tổng diện tích chịu thuế đối với đất trồng cây hàng năm (hoặc cây lâu năm)
 
-**ID:** dk_00053640
+       -
 
----
+ Diện tích đất nông nghiệp sử dụng trong hạn mức quy định để trồng cây hàng năm (hoặc để trồng cây lâu năm)
 
+2. Mức thuế ghi thu bình quân cho từng loại đất nông nghiệp được xác định như sau:
 
-### Điều 33.7.NĐ.3.4.
+ Mức thuế ghi thu bình quân của đất trồng cây hàng năm của hộ nộp thuế
 
-*Nội dung chưa có sẵn*
+     =
 
-**Chỉ mục:** 4
+ Tổng số thuế ghi thu đất trồng cây hàng năm của hộ nộp thuế
 
-**Mã phân cấp:** 33007000000000002000010000000000000000000020177260031000020000401787200840000400
+ Tổng số diện tích chịu thuế của đất  trồng cây hàng năm của hộ nộp thuế
 
-**ID:** dk_00053641
+ Mức thuế ghi thu bình quân của đất trồng cây lâu năm của hộ nộp thuế
 
----
+ =
 
+ Tổng số thuế ghi thu đất trồng cây lâu năm của hộ nộp thuế
 
-### Điều 33.7.NĐ.3.5.
+ Tổng số diện tích chịu thuế của đất  trồng cây lâu năm của hộ nộp thuế
 
-*Nội dung chưa có sẵn*
+3. Thuế suất thuế bổ sung là 20% (hai mươi phần trăm) mức thuế sử dụng đất nông nghiệp trên diện tích từng loại đất nông nghiệp vượt quá hạn mức qui định của hộ nộp thuế được xác định theo điểm 1 phần II của Thông tư này:
 
-**Chỉ mục:** 5
+Mức thuế sử dụng đất nông nghiệp trên diện tích từng loại đất nông nghiệp vượt quá hạn mức qui định được xác định như sau:
 
-**Mã phân cấp:** 33007000000000002000010000000000000000000020177260031000020000401787200840000500
+ Mức thuế sử dụng đất nông nghiệp vượt quá hạn mức của đất nông nghiệp trồng cây hàng năm (hoặc cây lâu năm) của hộ nộp thuế
 
-**ID:** dk_00053642
+ =
 
----
+ Mức thuế ghi thu bình quân của đất nông nghiệp trồng cây hàng năm (hoặc cây lâu năm) của hộ nộp thuế
 
+ x
 
-### Điều 33.7.LQ.11.
+ Diện tích trồng cây hàng năm (hoặc cây lâu năm ) vượt quá hạn mức quy định của hộ nộp thuế
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.3.4.
 
-**Chỉ mục:** 11
+(Điều 4 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000300001100000000000000000
+Nếu hộ nộp thuế sử dụng nhiều loại đất nông nghiệp thì diện tích đất tính bổ sung được tính theo hạn mức diện tích cho từng loại đất.
 
-**ID:** dk_00053644
+Điều 33.7.NĐ.3.5.
 
----
+(Điều 5 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Mức thuế ghi thu bình quân đối với từng loại đất nông nghiệp để tính thuế bổ sung là mức thuế sử dụng đất nông nghiệp tính bình quân trên một đơn vị diện tích cho từng loại đất của hộ nộp thuế.
 
-### Điều 33.7.NĐ.2.9.
+Chương III
 
-*Nội dung chưa có sẵn*
+KÊ KHAI TÍNH THUẾ VÀ LẬP SỔ THUẾ 
 
-**Chỉ mục:** 9
+Điều 33.7.LQ.11.
 
-**Mã phân cấp:** 330070000000000030000110000000000000000000401758500740000900
+(Điều 11 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053645
+Tổ chức, cá nhân sử dụng đất nông nghiệp có trách nhiệm kê khai theo mẫu tính thuế của cơ quan thuế và gửi bản kê khai đến Uỷ ban nhân dân xã, phường, thị trấn đúng thời gian quy định.
 
----
+Khi có thay đổi về diện tích chịu thuế, hộ nộp thuế phải kê khai lại với Uỷ ban nhân dân xã, phường, thị trấn.
 
+(Điều này có nội dung liên quan đến Điều 19. Khai thuế, khoản thu thuộc ngân sách nhà nước về đất đai của Nghị định 83/2013/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Quản lý thuế và Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế ban hành ngày 22/07/2013)
 
-### Điều 33.7.NĐ.3.6.
+Điều 33.7.NĐ.2.9.
 
-*Nội dung chưa có sẵn*
+(Điều 9 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 6
+Sổ thuế sử dụng đất nông nghiệp được lập một lần để sử dụng nhiều năm, nếu căn cứ tính thuế có thay đổi thì sổ thuế phải được điều chỉnh lại chậm nhất vào tháng 3 hàng năm. Sổ thuế sử dụng đất nông nghiệp được lập theo đơn vị hành chính, cụ thể như sau:
 
-**Mã phân cấp:** 330070000000000030000110000000000000000000401787200840000600
+1. Hộ nộp thuế chỉ sử dụng đất trong một xã, phường, thị trấn thì lập sổ thuế tại xã, phường, thị trấn.
 
-**ID:** dk_00053646
+2. Hộ nộp thuế có sử dụng đất ở nhiều xã, phường, thị trấn trong một huyện, quận, thị xã, thành phố thuộc tỉnh thì lập sổ thuế tại huyện, quận, thị xã, thành phố đó. Nếu hộ nộp thuế có sử dụng đất ở nhiều huyện, quận, thị xã, thành phố thuộc một tỉnh, thành phố trực thuộc Trung ương, thì lập sổ thuế ở huyện, quận, thị xã... nơi hộ nộp thuế đóng trụ sở chính. Nếu hộ nộp thuế có sử dụng đất ở nhiều tỉnh, thành phố trực thuộc Trung ương, thì đất thuộc huyện, quận, thị xã nào, lập sổ thuế tại huyện, quận, thị xã đó.
 
----
+3. Chậm nhất đến ngày 30 tháng 11 năm 1993, tất cả các tổ chức, cá nhân đang sử dụng đất vào sản xuất nông nghiệp đều phải lập tờ khai gửi đến Uỷ ban nhân dân (cơ quan thuế), nơi có đất và lập sổ thuế theo quy định tại các khoản 1, 2 điều này.
 
+Khi có sự thay đổi về hộ sử dụng đất hoặc thay đổi về diện tích tính thuế, hộ nộp thuế phải kê khai và gửi đến Uỷ ban nhân dân (cơ quan thuế) nơi lập sổ thuế. Hàng năm, nếu quá ngày 31 tháng 1 mà không kê khai thì cơ quan thuế được quyền ấn định số thuế phải nộp sau khi có ý kiến bằng văn bản của Uỷ ban nhân dân cùng cấp về diện tích và hạng đất tính thuế.
 
-### Điều 33.7.LQ.12.
+4. Người đứng tên trong sổ thuế là chủ hộ gia đình nông dân, chủ hộ tư nhân, cá nhân hoặc người đứng đầu tổ chức có sử dụng đất nông nghiệp.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 33.7.LQ.13.; Điều 33.7.LQ.14.)
 
-**Chỉ mục:** 12
+Điều 33.7.NĐ.3.6.
 
-**Mã phân cấp:** 3300700000000000300001200000000000000000
+(Điều 6 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053647
+Việc kê khai diện tích đất nông nghiệp để tính thuế bổ sung, thực hiện theo quy định tại Điều 11 Luật Thuế sử dụng đất nông nghiệp và Điều 9 Nghị định số 74-CP ngày 25-10-1993 của Chính phủ.
 
----
+Hộ gia đình sử dụng đất nông nghiệp ở nhiều xã, phường, quận, huyện, thị xã, thành phố thuộc tỉnh hoặc ở nhiều tỉnh, thành phố trực thuộc Trung ương thì ngoài việc kê khai diện tích đất để tính thuế sử dụng đất nông nghiệp với cơ quan thuế tại nơi lập sổ thuế sử dụng đất nông nghiệp, còn phải kê khai tổng hợp toàn bộ số diện tích đất nông nghiệp thực hiện đang sử dụng ở các nơi với cơ quan thuế nơi hộ nộp thuế cư trú.
 
+Điều 33.7.LQ.12.
 
-### Điều 33.7.NĐ.2.10.
+(Điều 12 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-*Nội dung chưa có sẵn*
+Căn cứ vào bản kê khai của hộ nộp thuế, cơ quan thuế kiểm tra, tính thuế và lập sổ thuế.
 
-**Chỉ mục:** 10
+Đứng tên trong sổ thuế là chủ hộ nộp thuế.
 
-**Mã phân cấp:** 330070000000000030000120000000000000000000401758500740001000
+Điều 33.7.NĐ.2.10.
 
-**ID:** dk_00053648
+(Điều 10 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Bộ Tài chính hướng dẫn cụ thể về việc lập, duyệt và điều chỉnh, bổ sung sổ thuế sử dụng đất nông nghiệp.
 
+(Điều này có nội dung liên quan đến Điều 33.7.LQ.14.; Điều 33.7.LQ.15.)
 
-### Điều 33.7.TT.1.5. Tính thuế.
+Điều 33.7.TT.1.5. Tính thuế.
 
-*Nội dung chưa có sẵn*
+(Điều 5 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 5
+- Căn cứ vào tờ khai của các hộ nộp thuế do xã gửi lên, Chi cục thuế cùng cán bộ đội thuế xã xem xét và kiểm tra lại các căn cứ tính thuế của hộ nộp thuế trên tờ khai, nếu phát hiện có sự sai sót thì yêu cầu Ủy ban nhân dân xã giải trình cụ thể.
 
-**Mã phân cấp:** 33007000000000003000012000000000000000000040175850074000100000801760000890000500
+- Căn cứ vào tờ khai của hộ nộp thuế đã được kiểm tra, tổ kế toán hoặc nghiệp vụ tại Chi cục thuế tính thuế cho từng hộ nộp thuế. Thuế ghi thu của từng hộ nộp thuế được xác định như sau:
 
-**ID:** dk_00053649
+ Thuế ghi thu đất trồng cây hàng năm và đất có mặt nước nuôi trồng thủy sản, đất trồng cỏ
 
----
+ =
 
+ Diện tích tính thuế của từng hạng đất trồng cây hàng năm
 
-### Điều 33.7.TT.1.6. Lập sổ thuế:
+ x
 
-*Nội dung chưa có sẵn*
+ Định suất thuế từng hạng đất của đất trồng cây hàng năm
 
-**Chỉ mục:** 6
+ Thuế ghi thu đất trồng cây lâu năm
 
-**Mã phân cấp:** 33007000000000003000012000000000000000000040175850074000100000801760000890000600
+ =
 
-**ID:** dk_00053650
+ Diện tích tính thuế của từng hạng đất trồng cây lâu năm
 
----
+ x
 
+ Định suất thuế từng hạng đất của đất trồng cây lâu năm
 
-### Điều 33.7.TT.1.7. Tổ chức xét duyệt sổ thuế.
+- Căn cứ vào kết quả tính thuế của từng hộ nộp thuế do Chi cục thuế huyện gửi lại cho Ủy ban nhân dân xã, đội thuế xã giúp Ủy ban nhân dân xã lập danh sách từng hộ nộp thuế theo mẫu đính kèm Thông tư này, niêm yết các căn cứ tính thuế và mức thuế ghi thu của từng hộ nộp thuế để hộ nộp thuế xác nhận và nhân dân tham gia ý kiến trong thời hạn 20 ngày trước khi lập và trình duyệt sổ thuế.
 
-*Nội dung chưa có sẵn*
+- Tổ chức, cá nhân sử dụng đất ở nhiều xã, phường, thị trấn hoặc quận, huyện, thị xã, thành phố thuộc tỉnh, thì phải gửi bản kê khai đến cơ quan thuế nơi lập sổ thuế theo quy định tại khoản 2 Điều 9 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ. Cơ quan thuế tiếp nhận tờ khai, kiểm tra, xác định các căn cứ tính thuế và thông báo cho hộ nộp thuế.
 
-**Chỉ mục:** 7
+- Trường hợp hộ nộp thuế không kê khai, thì cơ quan thuế được quyền ấn định số thuế phải nộp theo quy định tại Điều 9 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ và Điều 13 của Luật Thuế sử dụng đất nông nghiệp.
 
-**Mã phân cấp:** 33007000000000003000012000000000000000000040175850074000100000801760000890000700
+Mau Thong bao can cu tinh thue cua cac ho gia dinh.doc
 
-**ID:** dk_00053651
+Điều 33.7.TT.1.6. Lập sổ thuế:
 
----
+(Điều 6 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Nguyên tắc là đất đăng ký sổ địa chính ở địa phương nào thì lập sổ thuế ở địa phương đó theo quy định tại Điều 9 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ.
 
-### Điều 33.7.TT.1.8. Điều chỉnh sổ thuế.
+Theo quy định tại Điều 10 Nghị định số 74/CP ngày 25-10-1993 việc lập sổ thuế tiến hành như sau:
 
-*Nội dung chưa có sẵn*
+- Đội thuế xã tổng hợp kết quả tiếp thu ý kiến nhân dân và từng hộ nộp thuế ngay sau khi hết thời hạn niêm yết và báo cáo Ủy ban nhân dân xã. Nếu có ý kiến trái ngược lớn về diện tích hoặc hạng đất tính thuế, thì phải kiểm tra xác định lại, sau đó tiến hành lập sổ thuế theo từng thôn (ấp, bản xóm) theo mẫu của Bộ Tài chính.
 
-**Chỉ mục:** 8
+- Hội đồng tư vấn thuế xã giúp Ủy ban nhân dân xã kết hợp với đội thuế xã kiểm tra, xác định các căn cứ tính thuế của từng hộ nộp thuế, đảm bảo phù hợp với tờ khai của hộ và kết quả phân hạng đất tính thuế. Những trường hợp sau khi niêm yết, hộ nộp thuế chưa thống nhất với Hội đồng tư vấn thuế xã và đội thuế xã về căn cứ tính thuế, mà Hội đồng tư vấn xã và đội thuế xã không giải quyết được thì phải báo cáo Ủy ban nhân dân xã để có ý kiến bằng văn bản cho hộ nộp thuế, trên cơ sở đó tiếp tục lập và hoàn thiện sổ thuế.
 
-**Mã phân cấp:** 33007000000000003000012000000000000000000040175850074000100000801760000890000800
+Điều 33.7.TT.1.7. Tổ chức xét duyệt sổ thuế.
 
-**ID:** dk_00053652
+(Điều 7 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Sau khi lập xong sổ thuế, Chủ tịch Ủy ban nhân dân xã ký xác nhận và trình Ủy ban nhân dân huyện, đồng gửi Chi cục thuế. Chi cục thuế cùng Hội đồng tư vấn thuế giúp Ủy ban nhân dân huyện tổ chức duyệt: diện tích tính thuế, hạng đất tính thuế cho từng xã.
 
+Trên cơ sở sổ thuế do các xã đã lập và ý kiến của Hội đồng tư vấn, Chi cục thuế hoàn chỉnh tổng hợp kết quả duyệt sổ thuế báo cáo Ủy ban nhân dân huyện thông qua để trình Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (trong văn bản này gọi chung là tỉnh) và Cục thuế.
 
-### Điều 33.7.NĐ.3.7.
+Cục thuế giúp Ủy ban nhân dân kiểm tra, xét duyệt sổ thuế của các huyện có sự tham gia của các ngành liên quan (Hội đồng tư vấn). Trường hợp có ý kiến khác nhau thì Ủy ban nhân dân tỉnh ra quyết định chỉ đạo huyện phải duyệt lại sổ thuế.
 
-*Nội dung chưa có sẵn*
+Sổ thuế của huyện đã được Ủy ban nhân dân tỉnh duyệt theo đề nghị của Cục thuế được dùng làm căn cứ để Ủy ban nhân dân huyện duyệt sổ thuế chính thức cho các xã và cho các hộ nộp thuế do huyện quản lý.
 
-**Chỉ mục:** 7
+Tổng cục Thuế có trách nhiệm thường xuyên hoặc định kỳ kiểm tra sổ thuế sử dụng đất nông nghiệp của các địa phương.
 
-**Mã phân cấp:** 330070000000000030000120000000000000000000401787200840000700
+Điều 33.7.TT.1.8. Điều chỉnh sổ thuế.
 
-**ID:** dk_00053653
+(Điều 8 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+- Sau khi sổ thuế được duyệt, các năm tiếp theo nếu có thay đổi về hộ nộp thuế, về căn cứ tính thuế, thì chậm nhất là 31-01 hàng năm hộ nộp thuế phải lập tờ khai gửi đến Ủy ban nhân dân nơi lập sổ thuế.
 
+- Căn cứ vào tờ khai của hộp nộp thuế và kết quả kiểm tra xác minh, cơ quan thuế thực hiện điều chỉnh vào tháng 3 hàng năm.
 
-### Điều 33.7.NĐ.3.8.
+- Những trường hợp sau đây được điều chỉnh sổ thuế ngay trong năm thuế: hộ sử dụng đất (hộ nộp thuế) chuyển đi nơi khác mà đất của họ không có người sử dụng, đất bị lấp, lở do thiên tai địch họa không sản xuất được và các trường hợp tương tự khác.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.3.7.
 
-**Chỉ mục:** 8
+(Điều 7 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000030000120000000000000000000401787200840000800
+Căn cứ vào tờ khai của hộ nộp thuế, cơ quan thuế tại nơi hộ nộp thuế cư trú kiểm tra toàn bộ diện tích đất nông nghiệp thực tế đang sử dụng ở nhiều nơi của hộ nộp thuế để tính thuế bổ sung đối với hộ gia đình sử dụng đất nông nghiệp vượt quá hạn mức diện tích, sau khi tính thuế theo Điều 9 của Luật thuế sử dụng đất nông nghiệp.
 
-**ID:** dk_00053654
+Điều 33.7.NĐ.3.8.
 
----
+(Điều 8 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Thuế bổ sung tính hàng năm, theo thuế sử dụng đất nông nghiệp, được cộng chung vào sổ thuế sử dụng đất nông nghiệp của hộ nộp thuế và nộp cùng với số thuế sử dụng đất nông nghiệp cho cơ quan thuế tại nơi hộ nộp thuế cư trú.
 
-### Điều 33.7.TT.4.3. Kê khai, tính thuế, nộp thuế
+Điều 33.7.TT.4.3. Kê khai, tính thuế, nộp thuế
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư số 82-TC/TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 3
+Việc kê khai, tính thuế, nộp thuế bổ sung đối với hộ gia đình, hộ tư nhân, hộ cá nhân sử dụng đất nông nghiệp vượt quá hạn mức diện tích tiến hành cùng với việc kê khai tính thuế, nộp thuế sử dụng đất nông nghiệp theo qui định của Luật và các văn bản hướng dẫn dưới Luật về thuế sử dụng đất nông nghiệp; hướng dẫn thêm như sau:
 
-**Mã phân cấp:** 33007000000000003000012000000000000000000040178720084000080000801793200000000300
+1. Trường hợp hộ nộp thuế chỉ sử dụng đất nông nghiệp ở một nơi:
 
-**ID:** dk_00053655
+Nếu hộ nộp thuế chỉ sử dụng đất nông nghiệp ở trên địa bàn một xã (phường hoặc thị trấn) thì cơ quan thuế căn cứ vào diện tích tính thuế và sổ thuế trên tờ khai của hộ nộp thuế để tính thuế bổ sung.
 
----
+2. Trường hợp hộ nộp thuế sử dụng đất nông nghiệp ở nhiều nơi:
 
+Nếu hộ nộp thuế sử dụng đất ở nhiều xã, phường, thị trấn trong 1 huyện, thị xã, thành phố thuộc tỉnh hoặc sử dụng đất ở nhiều huyện, quận, thị xã, thành phố thuộc 1 tỉnh hoặc có sử dụng đất ở nhiều tỉnh, thành phố thì hộ nộp thuế có trách nhiệm khai báo về diện tích tính thuế, số thuế theo từng loại ruộng đất phải nộp ở các địa phương với cơ quan thuế; nơi hộ nộp thuế cư trú để tính thuế bổ sung.
 
-### Điều 33.7.NĐ.3.9.
+Trường hợp hộ nộp thuế không có đất nông nghiệp và không có tên trong sổ thuế ở nơi cư trú thì hộ nộp thuế phải thoả thuận với một trong số các cơ quan thuế mà hộ nộp thuế đứng tên trong sổ thuế để kê khai, tính thuế và nộp thuế bổ sung tại nơi lập sổ thuế.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.3.9.)
 
-**Chỉ mục:** 9
+Điều 33.7.NĐ.3.9.
 
-**Mã phân cấp:** 330070000000000030000120000000000000000000401787200840000900
+(Điều 9 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053656
+Hộ nộp thuế bổ sung có sử dụng đất nông nghiệp ở nhiều nơi, nhưng cư trú ở nơi không có đất nông nghiệp, thì kê khai, và nộp thuế tại một nơi mà hộ có lập sổ thuế.
 
----
+Việc tính thuế, lập sổ thuế, thu thuế bổ sung của trường hợp này, do các cơ quan thuế địa phương tại nơi lập sổ thuế cùng với hộ nộp thuế, thống nhất để xác định nơi nộp thuế bổ sung của phần đất nông nghiệp sử dụng vượt quá hạn mức diện tích.
 
-
-### Điều 33.7.NĐ.4.4. Khai thuế và điều chỉnh, bổ sung sổ thuế
+(Điều này có nội dung liên quan đến Điều 33.7.TT.4.3. Kê khai, tính thuế, nộp thuế)
 
 Điều 33.7.NĐ.4.4. Khai thuế và điều chỉnh, bổ sung sổ thuế
 
-**Chỉ mục:** 4
+((Điều 4 Nghị định số 20/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2011, có nội dung được sửa đổi, bổ sung bởi khoản 2 Điều 1 Nghị định số 21/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2017 và áp dụng cho kỳ tính thuế từ năm 2017))
 
-**Mã phân cấp:** 330070000000000030000120000000000000000000402394300200000400
+1. Việc khai thuế và điều chỉnh, bổ sung sổ thuế sử dụng đất nông nghiệp đối với các trường hợp có thay đổi về nội dung miễn thuế theo quy định tại Nghị định này so với quy định của pháp luật về miễn, giảm thuế sử dụng đất nông nghiệp đã thực hiện trong giai đoạn từ năm 2003 đến hết năm 2010 thì tiếp tục thực hiện theo quy định tại Nghị định số 20/2011/NĐ-CP ngày 23 tháng 3 năm 2011 của Chính phủ và các văn bản hướng dẫn thi hành.
 
-**ID:** dk_00053657
+2. Việc khai thuế và điều chỉnh, bổ sung sổ thuế sử dụng đất nông nghiệp đối với các đối tượng đang phải nộp thuế sử dụng đất nông nghiệp được chuyển sang miễn thuế từ năm 2017 đến hết năm 2020 như sau:
 
----
+a) Căn cứ sổ thuế sử dụng đất nông nghiệp (sổ thuế gốc, sổ theo dõi thu) năm 2016 và tình hình thực tế tại địa phương, Chi cục thuế phối hợp với Ủy ban nhân dân cấp xã thực hiện rà soát và xác định đối tượng được miễn thuế sử dụng đất nông nghiệp theo quy định để chuyển từ sổ theo dõi thu sang sổ thuế gốc;
 
+b) Người nộp thuế đã có tên trong sổ thuế sử dụng đất nông nghiệp nay thuộc đối tượng được miễn thuế theo quy định thì không phải kê khai lại và làm lại hồ sơ xét miễn thuế. Cơ quan thuế thực hiện chuyển sổ theo dõi theo hướng dẫn tại điểm a khoản này. Trường hợp phát sinh mới đối tượng được miễn thuế sử dụng đất nông nghiệp thì cơ quan thuế phối hợp với Ủy ban nhân dân cấp xã và các tổ chức, đơn vị có liên quan hướng dẫn người nộp thuế kê khai và lập hồ sơ miễn thuế theo quy định, đồng thời cơ quan thuế bổ sung sổ thuế sử dụng đất nông nghiệp;
 
-### Điều 33.7.LQ.13.
+c) Trường hợp trong năm nếu có sự thay đổi về căn cứ tính thuế thì người nộp thuế phải thực hiện kê khai lại và nộp cho Ủy ban nhân dân cấp xã để điều chỉnh sổ thuế;
 
-*Nội dung chưa có sẵn*
+d) Ban hành quyết định miễn thuế
 
-**Chỉ mục:** 13
+- Căn cứ Danh sách miễn thuế sử dụng đất nông nghiệp do Ủy ban nhân dân cấp xã gửi, Chi cục thuế xác định số thuế được miễn của từng người nộp thuế;
 
-**Mã phân cấp:** 3300700000000000300001300000000000000000
+Đối với người nộp thuế do Cục thuế trực tiếp quản lý thuế (bao gồm cả trường hợp Cục thuế quản lý nhưng ủy quyền cho Chi cục thuế thu) thì Chi cục thuế lập riêng danh sách và số thuế được miễn của từng người nộp thuế để gửi Cục thuế xét duyệt và ban hành quyết định miễn thuế cho người nộp thuế;
 
-**ID:** dk_00053658
+Đối với người nộp thuế do Chi cục thuế quản lý thu thuế thì Chi cục trưởng Chi cục thuế ban hành quyết định miễn thuế kèm theo Danh sách người nộp thuế được miễn của từng xã;
 
----
+- Căn cứ Danh sách miễn thuế sử dụng đất nông nghiệp đã được Cơ quan thuế quyết định, Ủy ban nhân dân cấp xã thông báo số thuế được miễn đến từng người nộp thuế đã được duyệt và niêm yết tại “Bộ phận tiếp nhận và trả kết quả” trong thời hạn 30 ngày kể từ ngày nhận được quyết định miễn thuế của Cơ quan thuế;
 
+- Chi cục thuế gửi báo cáo về việc miễn thuế sử dụng đất nông nghiệp của Chi cục thuế thực hiện cho Cục thuế tỉnh, thành phố để theo dõi và kiểm tra; Cục thuế tỉnh, thành phố trực thuộc Trung ương tổng hợp tình hình miễn thuế sử dụng đất nông nghiệp của địa phương và gửi báo cáo về Bộ Tài chính (Tổng cục thuế) trước ngày 31 tháng 12 năm 2017.
 
-### Điều 33.7.LQ.14.
+- Cơ quan thuế ban hành quyết định miễn thuế một lần phù hợp với thời hạn miễn thuế sử dụng đất nông nghiệp theo quy định.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.13.
 
-**Chỉ mục:** 14
+(Điều 13 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000300001400000000000000000
+Trong trường hợp hộ nộp thuế không kê khai hoặc kê khai không đúng thực tế thì cơ quan thuế được quyền ấn định số thuế phải nộp sau khi có ý kiến bằng văn bản của Uỷ ban nhân dân cùng cấp về diện tích và hạng đất tính thuế.
 
-**ID:** dk_00053659
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.9.)
 
----
+Điều 33.7.LQ.14.
 
+(Điều 14 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-### Điều 33.7.LQ.15.
+Sổ thuế được lập theo đơn vị hành chính các cấp. Đất được đăng ký ở đơn vị hành chính nào thì tính thuế và lập sổ thuế ở đơn vị hành chính đó.
 
-*Nội dung chưa có sẵn*
+Uỷ ban nhân dân xã, phường, thị trấn phải niêm yết công khai số thuế trong năm của từng hộ nộp thuế trong thời hạn 20 ngày trước khi trình duyệt sổ thuế.
 
-**Chỉ mục:** 15
+Uỷ ban nhân dân xã, phường, thị trấn xác nhận sổ thuế trước khi trình Uỷ ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh xét duyệt.
 
-**Mã phân cấp:** 3300700000000000300001500000000000000000
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.9.; Điều 33.7.NĐ.2.10.)
 
-**ID:** dk_00053660
+Điều 33.7.LQ.15.
 
----
+(Điều 15 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Sổ thuế của xã, phường, thị trấn phải được Uỷ ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh xét duyệt theo đề nghị của cơ quan thuế cùng cấp.
 
-### Điều 33.7.LQ.16.
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.10.)
 
-*Nội dung chưa có sẵn*
+Chương IV
 
-**Chỉ mục:** 16
+THU THUẾ VÀ NỘP THUẾ
 
-**Mã phân cấp:** 3300700000000000400001600000000000000000
+Điều 33.7.LQ.16.
 
-**ID:** dk_00053662
+(Điều 16 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Sổ thuế được duyệt là căn cứ để thu thuế. Thuế nộp mỗi năm từ 1 đến 2 lần theo vụ thu hoạch chính của từng loại cây trồng ở từng địa phương. Thời gian nộp thuế do Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định. Trước thời hạn nộp thuế ít nhất là 10 ngày, cơ quan trực tiếp thu thuế phải gửi thông báo quy định rõ địa điểm, thời gian và số thuế phải nộp cho từng hộ nộp thuế.
 
+(Điều này có nội dung liên quan đến Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 33.4.LQ.55. Thời hạn nộp thuế; Điều 33.4.LQ.56. Địa điểm và hình thức nộp thuế; Điều 33.4.LQ.151. Hiệu lực thi hành; Điều 33.4.NĐ.2.10. Thời hạn nộp hồ sơ khai thuế của các khoản thu về đất, lệ phí môn bài, lệ phí trước bạ, tiền cấp quyền và các khoản thu khác theo pháp luật quản lý, sử dụng tài sản công; Điều 33.4.NĐ.2.13. Các trường hợp cơ quan quản lý thuế tính thuế, thông báo nộp thuế; Điều 33.4.NĐ.2.18. Thời hạn nộp thuế đối với các khoản thu thuộc ngân sách nhà nước từ đất, tiền cấp quyền khai thác tài nguyên nước, tài nguyên khoáng sản, tiền sử dụng khu vực biển, lệ phí trước bạ, lệ phí môn bài; Điều 33.4.TT.11.86. Thời hạn nộp hồ sơ khai thuế và thời hạn nộp thuế)
 
-### Điều 33.7.NĐ.2.11.
+Điều 33.7.NĐ.2.11.
 
-*Nội dung chưa có sẵn*
+(Điều 11 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 11
+Năm thuế sử dụng đất nông nghiệp tính theo năm dương lịch từ ngày 1 tháng 1 đến ngày 31 tháng 12.
 
-**Mã phân cấp:** 330070000000000040000160000000000000000000401758500740001100
+Thuế tính cả năm nhưng thu mỗi năm từ 1 đến 2 lần tuỳ theo vụ thu hoạch chính của từng loại cây trồng ở từng địa phương.
 
-**ID:** dk_00053663
+Hộ nộp thuế có thể nộp thuế trước khi đến thời hạn thu thuế và ở lần thu thuế đầu tiên có thể nộp hết số thuế phải nộp cả năm.
 
----
+Theo đề nghị của Cục trưởng Cục Thuế, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định thời gian bắt đầu, thời gian kết thúc vụ thu thuế và công bố cho toàn dân biết.
 
+Trong trường hợp đặc biệt ở những nơi mà sổ thuế sử dụng đất nông nghiệp năm 1994 chưa lập xong đã bước vào vụ thu thuế đầu tiên, Bộ Tài chính hướng dẫn việc tạm thu, cuối năm 1994 phải thanh quyết toán theo sổ thuế sử dụng đất nông nghiệp.
 
-### Điều 33.7.TT.1.9. Căn cứ số thuế được duyệt:
+(Điều này có nội dung liên quan đến Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 18. Khai thuế, khoản thu ngân sách nhà nước liên quan đến sử dụng đất đai của Thông tư 156/2013/TT-BTC Hướng dẫn thi hành một số điều của Luật Quản lý thuế; Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế và Nghị định số 83/2013/NĐ-CP ngày 22/7/2013 của Chính phủ ban hành ngày 06/11/2013; Điều 33.4.LQ.44. Thời hạn nộp hồ sơ khai thuế; Điều 33.4.LQ.45. Địa điểm nộp hồ sơ khai thuế; Điều 33.4.LQ.46. Gia hạn nộp hồ sơ khai thuế; Điều 33.4.LQ.151. Hiệu lực thi hành; Điều 33.4.NĐ.2.8. Các loại thuế khai theo tháng, khai theo quý, khai theo năm, khai theo từng lần phát sinh nghĩa vụ thuế và khai quyết toán thuế; Điều 33.4.NĐ.2.11. Địa điểm nộp hồ sơ khai thuế)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.1.9. Căn cứ số thuế được duyệt:
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 33007000000000004000016000000000000000000040175850074000110000801760000890000900
+Căn cứ vào mùa vụ và khả năng thu hoạch, thực tế giá cả và yêu cầu lương thực (nếu có). Cục thuế tỉnh chủ động trình Ủy ban nhân dân tỉnh quyết định các vấn đề theo quy định tại Điều 11, 12 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ, cụ thể thêm một số vấn đề như sau:
 
-**ID:** dk_00053664
+- Lập kế hoạch thu thuế của vụ và cả năm xác định rõ số thuế thu bằng tiền, thu bằng thóc (trong trường hợp đặc biệt);
 
----
+- Giá thu thuế của từng vụ trong năm;
 
+- Quy định thời gian thu nộp thuế: ngày bắt đầu và ngày kết thúc vụ thu thuế;
 
-### Điều 33.7.TT.1.10.
+- Biện pháp chỉ đạo và tổ chức thu thuế;
 
-*Nội dung chưa có sẵn*
+- Phát động phong trào thi đua, tuyên truyền nhằm hoàn thành nhiệm vụ thu thuế.
 
-**Chỉ mục:** 10
+Điều 33.7.TT.1.10.
 
-**Mã phân cấp:** 33007000000000004000016000000000000000000040175850074000110000801760000890001000
+(Điều 10 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053665
+Căn cứ vào sổ thuế đã được duyệt và khả năng thu thuế của từng vụ, đội thuế xã giúp Ủy ban nhân dân xã gửi thông báo số thuế phải nộp cho các hộ nộp thuế, thông báo phải ghi rõ:
 
----
++ Thời gian nộp thuế;
 
++ Sổ thuế nộp trong vụ: cây hàng năm, cây lâu năm, thuế bằng tiền, bằng thóc (nếu có) và được chia ra: thuế trong năm và nợ thuế (nếu có);
 
-### Điều 33.7.TT.1.13.
++ Địa điểm nộp thuế;
 
-*Nội dung chưa có sẵn*
++ Lần thông báo thứ mấy.
 
-**Chỉ mục:** 13
+Thông báo gửi cho hộ nộp thuế một bản và một bản lưu ở cơ quan thuế, đồng thời phải thông báo về thời hạn nộp thuế trên các phương tiện thông tin của xã.
 
-**Mã phân cấp:** 33007000000000004000016000000000000000000040175850074000110000801760000890001300
+Trong thời gian nộp thuế đội thuế xã có trách nhiệm đôn đốc nộp thuế theo đúng quy định tại thông báo nộp thuế.
 
-**ID:** dk_00053666
+(Điều này có nội dung liên quan đến Điều 18. Khai thuế, khoản thu ngân sách nhà nước liên quan đến sử dụng đất đai; Điều 75. Hiệu lực thi hành của Thông tư 156/2013/TT-BTC Hướng dẫn thi hành một số điều của Luật Quản lý thuế; Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế và Nghị định số 83/2013/NĐ-CP ngày 22/7/2013 của Chính phủ ban hành ngày 06/11/2013; Điều 33.4.LQ.44. Thời hạn nộp hồ sơ khai thuế; Điều 33.4.LQ.45. Địa điểm nộp hồ sơ khai thuế; Điều 33.4.LQ.46. Gia hạn nộp hồ sơ khai thuế; Điều 33.4.NĐ.2.8. Các loại thuế khai theo tháng, khai theo quý, khai theo năm, khai theo từng lần phát sinh nghĩa vụ thuế và khai quyết toán thuế; Điều 33.4.NĐ.2.11. Địa điểm nộp hồ sơ khai thuế)
 
----
+Điều 33.7.TT.1.13.
 
+(Điều 13 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-### Điều 33.7.LQ.17.
+Theo quy định tại Điều 11 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ; việc tạm thu thuế năm 1994 chỉ thực hiện đối với những địa phương mà bước vào vụ thu thuế đầu tiên của năm thuế 1994 chưa lập xong sổ thuế sử dụng đất nông nghiệp. Việc tạm thu phải dựa vào sổ thuế nông nghiệp năm 1993; đồng thời điều chỉnh số thuế phù hợp với sự biến động về diện tích đất chịu thuế. Đến vụ cuối cùng của năm thuế phải thu theo sổ thuế sử dụng đất nông nghiệp mới và cuối năm thanh quyết toán theo sổ thuế sử dụng đất nông nghiệp năm 1994; nếu thu thừa thì chuyển sang năm sau, nếu thiếu thì năm sau truy thu.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.17.
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000400001700000000000000000
+Thuế sử dụng đất nông nghiệp tính bằng thóc, thu bằng tiền. Giá thóc thu thuế do Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định được thấp hơn không quá 10% so với giá thị trường ở địa phương trong vụ thu thuế.
 
-**ID:** dk_00053667
+Trong trường hợp đặc biệt, thuế có thể thu bằng thóc do Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định.
 
----
+Điều 33.7.NĐ.2.12.
 
+(Điều 12 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-### Điều 33.7.NĐ.2.12.
+Sổ thuế là căn cứ để làm thông báo thuế và thu, nộp thuế. Thuế sử dụng đất nông nghiệp tính bằng thóc, thu bằng tiền; riêng đất trồng cây lâu năm thu hoạch một lần thuế tính theo sản lượng khai thác và theo giá bán thực tế.
 
-*Nội dung chưa có sẵn*
+1. Giá thóc thu thuế do Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định sát giá thị trường và không được thấp hơn 10% so với giá trị thị trường địa phương.
 
-**Chỉ mục:** 12
+Ở những tỉnh, thành phố, giá thóc giữa các vùng có sự chênh lệch lớn thì giá thóc thu thuế có thể quy định cho từng huyện, quận, thị xã.
 
-**Mã phân cấp:** 330070000000000040000170000000000000000000401758500740001200
+Giá trị sản lượng tính thuế của cây lâu năm thu hoạch một lần (gỗ, tre, nứa, song, mây...) tính theo giá bán thực tế của từng loại cây. Trong trường hợp hộ nộp thuế kê khai giá thấp hơn so với giá thực tế, thì tính thuế theo giá do Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định.
 
-**ID:** dk_00053668
+Sản lượng để xác định giá trị sản lượng tính thuế của các cây lâu năm thu hoạch một lần là sản lượng thu hoạch thực tế.
 
----
+2. Hộ nộp thuế có trách nhiệm trực tiếp nộp tiền thuế cho Kho bạc Nhà nước theo thông báo của cơ quan thuế. Trong trường hợp cán bộ thuế buộc phải trực tiếp thu tiền thuế, thì 10 ngày một lần cơ quan thuế, cán bộ thuế phải nộp hết số tiền thuế đã thu được cho Kho bạc Nhà nước. Đối với tiền thuế thu được có số lượng lớn, thì phải nộp ngay cho Kho bạc Nhà nước. Nếu cán bộ thuế giữ tiền đã thu quá thời hạn quy định thì bị coi là hành vi xâm tiêu, chiếm dụng tiền thuế.
 
+3. Trong trường hợp đặc biệt việc thu thuế bằng thóc do Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định và chịu trách nhiệm tổ chức thu thuế.
 
-### Điều 33.7.TT.1.11. Thu, nộp thuế.
+(Điều này có nội dung liên quan đến Điều 44. Địa điểm và hình thức nộp thuế; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 33.4.LQ.56. Địa điểm và hình thức nộp thuế; Điều 33.4.LQ.151. Hiệu lực thi hành)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.1.11. Thu, nộp thuế.
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 33007000000000004000017000000000000000000040175850074000120000801760000890001100
+a) Thu, nộp thuế bằng tiền mặt: khi thu thuế của dân, cán bộ thuế hoặc cán bộ kho bạc phải kiểm tra, đối chiếu số tiền thuế phải nộp ghi trên thông báo với số tiền hộ nộp thuế mang đến nộp, đồng thời viết và cấp biên lai cho người nộp thuế và ghi vào sổ theo dõi thu thuế;
 
-**ID:** dk_00053669
+Trong trường hợp người nộp thuế không trực tiếp nộp vào kho bạc thì cuối mỗi ngày, cán bộ thu thuế phải đối chiếu biên lai thu thuế với số tiền thuế đã thu 10 ngày một lần phải nộp hết số tiền thuế đã thu vào Kho bạc Nhà nước. Nếu số tiền thuế thu được từ 5 triệu đồng trở lên thì phải nộp ngay vào Kho bạc Nhà nước, để tiền thuế vượt quá mức quy định này chưa nộp vào Kho bạc Nhà nước thì bị coi là hành vi chiếm dụng tiền thuế.
 
----
+b) Thu, nộp thuế bằng chuyển khoản: nộp thuế bằng chuyển khoản do hộ hộp thuế làm thủ tục nộp thuế. Cơ quan thuế phải mở sổ theo dõi các hộ nộp thuế bằng chuyển khoản để đối chiếu định kỳ với kho bạc và đôn đốc hộ nộp thuế;
 
+c) Thu thuế bằng thóc (nếu có): tổ chức thu thóc phải nhận trực tiếp của người nộp thuế có đại diện cơ quan thuế để viết biên lai thu thuế cho các hộ nộp thuế. Tổ chức mua thóc thuế phải thanh toán với ngân sách Nhà nước ngay trong vụ thu thuế theo quy định của Chủ tịch Ủy ban nhân dân tỉnh.
 
-### Điều 33.7.LQ.18.
+(Điều này có nội dung liên quan đến Điều 28. Địa điểm và thủ tục nộp thuế; Điều 75. Hiệu lực thi hành của Thông tư 156/2013/TT-BTC Hướng dẫn thi hành một số điều của Luật Quản lý thuế; Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế và Nghị định số 83/2013/NĐ-CP ngày 22/7/2013 của Chính phủ ban hành ngày 06/11/2013; Điều 33.4.LQ.56. Địa điểm và hình thức nộp thuế)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.18.
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000400001800000000000000000
+Kết thúc năm thuế, cơ quan trực tiếp thu thuế phải quyết toán kết quả thu thuế của từng hộ và báo cáo quyết toán thuế bằng văn bản với cơ quan thuế cấp trên và Uỷ ban nhân dân cùng cấp, đồng thời niêm yết công khai cho nhân dân biết.
 
-**ID:** dk_00053670
+Điều 33.7.NĐ.2.13.
 
----
+(Điều 13 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Bộ Tài chính hướng dẫn việc lập báo cáo quyết toán thuế hàng năm.
 
-### Điều 33.7.NĐ.2.13.
+Điều 33.7.TT.1.12.
 
-*Nội dung chưa có sẵn*
+(Điều 12 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 13
+Kết thúc năm thuế cơ quan thuế các cấp phải tổ chức quyết toán kết quả thu nộp thuế với từng hộ nộp thuế và lập báo cáo quyết toán thu thuế với Ủy ban nhân dân cùng cấp và cơ quan thuế cấp trên theo quy định tại Điều 18 của Luật Thuế sử dụng đất nông nghiệp như sau:
 
-**Mã phân cấp:** 330070000000000040000180000000000000000000401758500740001300
+a) Ở cấp xã: Lập quyết toán kết quả thu nộp thuế trong năm theo từng hộ nộp thuế, căn cứ vào các tài liệu sau: Số thuế ghi thu trong số thuế được duyệt; số thuế được giảm miễn (nếu có); Số thuế đã nộp trong năm; tổng hợp từ sổ theo dõi thu thuế và đối chiếu với biên lai thu thuế; từ đó xác định số thuế nộp đủ, nộp thừa hoặc thiếu của từng hộ nộp thuế và tổng hợp quyết toán kết quả thu thuế của xã.
 
-**ID:** dk_00053671
+ Số thuế phải nộp trong năm
 
----
+ =
 
+ Thuế ghi thu
 
-### Điều 33.7.TT.1.12.
+ -
 
-*Nội dung chưa có sẵn*
+ Giảm, miễn thuế
 
-**Chỉ mục:** 12
+ + Thiếu
 
-**Mã phân cấp:** 33007000000000004000018000000000000000000040175850074000130000801760000890001200
+ - Thừa
 
-**ID:** dk_00053672
+ (năm trước)
 
----
+b) Ở cấp huyện: Chi cục thuế kiểm tra xét duyệt quyết toán kết quả thu thuế của các xã trong huyện và tổng hợp quyết toán kết quả thu thuế chung toàn huyện, báo cáo Ủy ban nhân dân huyện trình Ủy ban nhân dân tỉnh và Cục thuế tỉnh kiểm tra xét duyệt;
 
+c) Ở cấp tỉnh: Cục thuế tổ chức kiểm tra xét duyệt quyết toán kết quả thu thuế của các huyện; tổng hợp quyết toán của tỉnh bao gồm các chỉ tiêu chủ yếu sau: số thuế ghi thu theo sổ thuế; số thuế thừa, thiếu năm trước chuyển sang (nếu có); số thuế được giảm miễn (nếu có); Số thuế đã thu; số thuế đã thanh toán nộp vào Kho bạc Nhà nước; xác định số thuế còn thừa hoặc thiếu.
 
-### Điều 33.7.LQ.19.
+Quyết toán của tỉnh sau khi được Ủy ban nhân dân tỉnh duyệt thì gửi báo cáo Bộ Tài chính (Tổng cục Thuế).
 
-*Nội dung chưa có sẵn*
+Tổng cục Thuế thường xuyên hoặc định kỳ kiểm tra việc quyết toán kết quả thu thuế của các địa phương.
 
-**Chỉ mục:** 19
+Chương V
 
-**Mã phân cấp:** 3300700000000000500001900000000000000000
+GIẢM THUẾ VÀ MIỄN THUẾ
 
-**ID:** dk_00053674
+Điều 33.7.LQ.19.
 
----
+(Điều 19 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+1. Miễn thuế cho đất đồi, núi trọc dùng vào sản xuất nông, lâm nghiệp, đất trồng rừng phòng hộ và rừng đặc dụng.
 
-### Điều 33.7.NĐ.2.14.
+2. Miễn thuế cho đất khai hoang không thuộc quy định tại khoản 1 Điều này dùng vào sản xuất:
 
-*Nội dung chưa có sẵn*
+- Trồng cây hàng năm: 5 năm; riêng đối với đất khai hoang ở miền núi, đầm lầy và lấn biển: 7 năm;
 
-**Chỉ mục:** 14
+- Trồng cây lâu năm: miễn thuế trong thời gian xây dựng cơ bản và cộng thêm 3 năm từ khi có thu hoạch. Riêng đối với đất ở miền núi, đầm lầy và lấn biển được cộng thêm 6 năm.
 
-**Mã phân cấp:** 330070000000000050000190000000000000000000401758500740001400
+- Đối với cây lấy gỗ và các loại cây lâu năm thu hoạch một lần thì chỉ nộp thuế khi khai thác theo quy định tại khoản 4, Điều 9 của Luật này.
 
-**ID:** dk_00053675
+3. Miễn thuế cho đất trồng cây lâu năm chuyển sang trồng lại mới và đất trồng cây hàng năm chuyển sang trồng cây lâu năm, cây ăn quả: trong thời gian xây dựng cơ bản và cộng thêm 3 năm từ khi có thu hoạch.
 
----
+4. Chính phủ quy định việc giảm thuế, miễn thuế đối với đất khai hoang được đầu tư bằng nguồn vốn ngân sách Nhà nước.
 
+Điều 33.7.NĐ.2.14.
 
-### Điều 33.7.TT.1.14.
+(Điều 14 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-*Nội dung chưa có sẵn*
+1. Miễn thuế cho đất đồi núi trọc dùng vào sản xuất nông nghiệp, lâm nghiệp, đất trồng rừng phòng hộ và rừng đặc dụng.
 
-**Chỉ mục:** 14
+2. Miễn thuế cho đất trồng cây lâu năm chuyển sang trồng lại mới và đất trồng cây hàng năm chuyển sang trồng cây lâu năm, cây ăn quả trong thời gian xây dựng cơ bản và cộng thêm 3 năm từ khi có thu hoạch.
 
-**Mã phân cấp:** 33007000000000005000019000000000000000000040175850074000140000801760000890001400
+3. Đất khai hoang là đất chưa bao giờ được dùng vào sản xuất hoặc đã bị bỏ hoang ít nhất 5 năm tính đến thời điểm khai hoang đưa vào sản xuất, nếu trồng cây hàng năm được miễn thuế 5 năm (trồng trên đất khai hoang ở miền núi, đầm lầy và lấn biển được miễn thuế 7 năm), nếu trồng cây lâu năm được miễn thuế trong thời gian xây dựng cơ bản và cộng thêm 3 năm kể từ khi bắt đầu có thu hoạch (trồng trên đất khai hoang ở miền núi, đầm lầy và lấn biển được cộng thơm 6 năm), nếu trồng các loại cây lâu năm thu hoạch một lần thì kể từ khi bắt đầu có thu hoạch mới phải nộp thuế bằng 4% giá trị sản lượng thu hoạch.
 
-**ID:** dk_00053676
+Đất bãi bồi ven sông, ven biển, đất có mặt nước nuôi trồng thuỷ sản dùng vào sản xuất được ngay, đất do đốt nương rẫy để sản xuất sẽ không được coi là đất khai hoang và không được miễn thuế.
 
----
+4. Đất khai hoang bằng nguồn vốn cấp phát của Ngân sách Nhà nước dùng vào sản xuất nông nghiệp, nếu trồng cây hàng năm ở miền núi, đầm lầy và lấn biển được miễn thuế 3 năm, ở các nơi khác được miễn thuế 2 năm; nếu trồng cây lâu năm, kể cả trồng lại mới (trừ cây lấy gỗ) được miễn thuế trong thời gian xây dựng cơ bản và cộng thêm 1 năm (ở miền núi, đầm lầy và lấn biển được cộng thêm 2 năm).
 
+Trường hợp hết thời hạn miễn thuế nói trên mà hộ nộp thuế còn khó khăn thì được xét giảm đến 50% số thuế phải nộp trong thời gian tiếp theo, nhưng toàn bộ thời gian được miễn và giảm thuế không quá thời gian quy định tại khoản 3 điều này.
 
-### Điều 33.7.TT.3.1.
+Thời gian xây dựng cơ bản được miễn thuế của từng loại cây lâu năm do Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định theo hướng dẫn của Bộ Tài chính. Nội dung hướng dẫn, Bộ Tài chính thoả thuận với Bộ Lâm nghiệp, Bộ nông nghiệp và Công nghiệp thực phẩm.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 33.7.LQ.25.)
 
-**Chỉ mục:** 1
+Điều 33.7.TT.1.14.
 
-**Mã phân cấp:** 33007000000000005000019000000000000000000040175850074000140000801784700000000100
+((Điều 14 Thông tư số 89-TC/TCT, có hiệu lực kể từ ngày 01/01/1994, có nội dung được sửa đổi, bổ sung bởi Thông tư số 03/1997/TC-TCT hướng dẫn sửa đổi, bổ sung Thông tư số 89-TC/TCT ngày 09/11/1993 về tính giảm miễn thuế sử dụng đất nông nghiệp khi có thiên tai, địch họa, có hiệu lực từ ngày 01/01/1997 và có nội dung được bổ sung bởi điểm 1, 2, 3, 4, 5 Thông tư số 59-TC/TCT hướng dẫn bổ sung về tính giảm, miễn thuế sử dụng đất nông nghiệp khi có thiên tai địch họa, có hiệu lực kể từ ngày 16/9/1997))
 
-**ID:** dk_00053677
+Theo quy định tại Chương V của Luật Thuế sử dụng đất nông nghiệp và Chương V của Nghị định số 74/CP ngày 25-10-1993 của Chính phủ; Bộ Tài chính hướng dẫn thêm như sau:
 
----
+1. Việc miễn thuế sử dụng đất nông nghiệp đối với đất trồng cây lâu năm chuyển sang trồng lại mới và đất trồng cây hàng năm chuyển sang trồng cây lâu năm, cây ăn quả theo quy định tại khoản 2 Điều 14 của Nghị định số 74/CP ngày 25-10-1993 không áp dụng cho các trường hợp trồng bằng phương pháp ghép, chiết và các trường hợp tương tự khác.
 
+2. Sự giảm thuế trong trường hợp thiên tai địch họa làm mùa màng thiệt hại.
 
-### Điều 33.7.TT.3.2. Các trường hợp được xét giảm thuế, miễn thuế sử dụng đất nông nghiệp
+a) Khi xảy ra thiên tai, địch họa, sâu bệnh làm mùa màng bị thiệt hại, Cục thuế phải chủ động phối hợp với Cục thống kê tham mưu cho Ủy ban nhân dân cùng cấp chỉ đạo ngành thuế, các ngành có liên quan và các huyện bị thiệt hại tổ chức điều tra xác minh phạm vi, mức độ thiệt hại của từng cánh đồng trong vùng bị thiệt hại theo địa bàn, lập biên bản xác nhận để làm cơ sở cho việc xác định thiệt hại cây trồng khi thu hoạch. Chi cục thuế và đội thuế xã phải theo dõi diễn biến kịp thời báo cáo Ủy ban nhân dân cùng cấp và cơ quan thuế cấp trên về tình hình thiệt hại;
+
+b) Đến vụ thu hoạch Cục thuế chỉ đạo các Chi cục thuế phối hợp với các ngành liên quan hướng dẫn, kiểm tra các xã, xác định năng suất thu hoạch thực tế của diện tích bị thiên tai sâu bệnh làm mùa màng bị thiệt hại, lập biên bản thăm đồng, trong đó phải xác định rõ:
+
+- Diện tích bị thiệt hại và số hộ có ruộng đất nằm trong diện tích này;
+
+- Năng suất thực tế bình quân của diện tích bị thiệt hại.
+
+c)  Xác định tỷ lệ thiệt hại theo công thức:
+
+ Tỷ lệ thiệt hại của vụ (hoặc năm) xét giảm miễn thuế của hộ nộp thuế
+
+ =
+
+ [1 -
+
+ Sản lượng thu hoạch thực tế của diện tích bị thiệt hại của vụ (hoặc năm) của hộ nộp thuế
+
+ ] x
+
+ 100%
+
+ Sản lượng tính theo năng suất tham khảo khi phân hạng đất tính thuế của diện tích bị thiệt hại của vụ (hoặc năm) của hộ nộp thuế
+
+Căn cứ tỷ lệ thiệt hại được xác định theo công thức trên và căn cứ tỷ lệ giảm miễn thuế ứng với tỷ lệ thiệt hại quy định tại Điều 17, Nghị định số 74/CP ngày 25/10/1993 của Chính phủ để tính số thuế xét giảm miễn của hộ theo công thức sau:
+
+ Số thuế xét giảm, miễn theo vụ (hoặc năm) của hộ nộp thuế
+
+   =
+
+ Thuế ghi thu của diện tích bị thiệt hại theo vụ (hoặc năm) của hộ nộp thuế
+
+   x
+
+ Tỷ lệ giảm, miễn thuế ứng x với tỷ lệ thiệt hại theo vụ (hoặc năm) xét giảm, miễn thuế của hộ nộp thuế
+
+d) Thực hiện giảm, miễn thuế sử dụng đất nông nghiệp theo Thông tư số 03 TC-TCT ngày 21/01/1997 của Bộ Tài chính trên cơ sở diện tích đất nông nghiệp nào bị thiên tai, địch họa làm giảm sản lượng thu hoạch thì căn cứ vào tỷ lệ thiệt hại ở diện tích đó để xét giảm, miễn thuế cho hộ nộp thuế; nếu lập sổ thuế theo vụ thì được xét giảm, miễn thuế cho từng vụ nộp thuế;
+
+đ) Đối với hộ chính sách được xét giảm 50% thuế sử dụng đất nông nghiệp theo số thuế ghi thu thì thực hiện giảm thuế theo diện chính sách trước, nếu hộ chính sách bị thiên tai làm thiệt hại mùa màng thì tiếp tục được xét giảm thuế theo hướng dẫn tại Thông tư số 03 nhưng mức giảm tối đa không quá 50% số thuế ghi thu còn lại trong năm hoặc số thuế ghi thu của vụ (trường hợp địa phương lập sổ thuế theo vụ);
+
+e) Về việc tính giảm, miễn thuế đối với hộ nộp thuế sử dụng đất nông nghiệp có diện tích vượt hạn mức:
+
+e1) Trường hợp diện tích bị thiệt hại của hộ nộp thuế không lớn hơn diện tích hạn mức quy định cho từng vùng; thì chỉ xét giảm, miễn thuế sử dụng đất nông nghiệp theo quy định, không xét giảm, miễn thuế bổ sung;
+
+e2) Trường hợp diện tích bị thiệt hại của hộ nộp thuế lớn hơn diện tích hạn mức quy định cho từng vùng thì hộ nộp thuế được xét giảm, miễn thuế đối với cả số thuế bổ sung của diện tích vượt hạn mức bị thiệt hại đó.
+
+Việc xét giảm, miễn thuế bổ sung tính theo công thức sau:
+
+ Số thuế bổ sung được giảm miễn của hộ nộp thuế (Kg)
+
+ =
+
+ Thuế ghi thu bình quân trên một đơn vị diện tích của hộ nộp thuế (Kg/m2)
+
+ x
+
+ Thuế suất thuế bổ sung (20%)
+
+ x
+
+ Diện tích vượt hạn mức bị thiệt hại (m2)
+
+ x
+
+ Tỷ lệ giảm miễn thuế theo tỷ lệ thiệt hại bình quân của hộ nộp thuế (%)
+
+Tỷ lệ thiệt hại bình quân của hộ nộp thuế bằng tổng sản lượng bị thiệt hại của hộ nộp thuế chia cho tổng sản lượng trên diện tích bị thiệt hại tính theo năng suất tham khảo khi phân hạng đất tính thuế.
+
+Năng suất tham khảo khi phân hạng đất tính thuế là năng suất bình quân ở địa phương khi áp dụng để kiểm tra lại việc phân hạng đất.
+
+Ví dụ: Hộ A ở đồng bằng sông Cửu Long có quyền sử dụng đất nông nghiệp là 5 ha gồm 2 ha đất hạng 1 và 3 đất hạng 2 (ruộng 1 vụ lúa); trong đó diện tích vượt hạn mức chịu thuế bổ sung là 2 ha. Trong đó năng suất tham khảo khi phân hạng đất tính thuế đất hạng 1 là: 5.500 kg/ha; hạng 2 là: 5.000 kg/ha.
+
+a) Hộ A nộp thuế trong điều kiện bình thường:
+
+Thuế ghi thu cả năm của hộ A là: (2 ha x 550) + (3 ha x 460) = 2.480 kg thóc
+
+Thuế ghi thu bình quân của hộ A là: 2.480 kg: 5 ha = 496 kg/ha
+
+Thuế bổ sung phải nộp của hộ A là: 496 kg/ha x 20% x 2 ha = 198,4 kg
+
+Tổng số thuế hộ A phải nộp là: 2.480 + 198,4 = 2.678,4 kg
+
+b) Trường hợp diện tích bị thiên tai lớn hơn diện tích trong hạn mức: Trong năm hộ nộp thuế bị thiệt hại 4 ha bao gồm:
+
+- Diện tích 1 ha đất hạng 1 bị thiệt hại 10%
+
+- Diện tích 0,5 ha đất hạng 2 bị thiệt hại 15%
+
+- Diện tích 1 ha đất hạng 1 bị thiệt hại 25%
+
+- Diện tích 1,5 ha đất hạng 2 bị thiệt hại 25%.
+
+* Xác định tỷ lệ thiệt hại bình quân của hộ nộp thuế:
+
+ + Tỷ lệ thiệt hại bình quân của hộ nộp thuế (%)
+
+    =
+
+ Tổng sản lượng bị thiệt hại của hộ nộp thuế
+
+     x   100%
+
+ Tổng sản lượng trên diện tích bị thiệt hại tính theo năng suất tham khảo bị phân hạng đất tính thuế
+
++ Tổng sản lượng bị thiệt hại của hộ nộp thuế = (1ha x 5.500kg/ha x 10%) + (0,5ha x 5.000kg/ha x 15%) + (1ha x 5.500kg/ha x 25%) + (1,5ha x 5.000kg/ha x 25%) = 4.175 kg
+
++ Tổng sản lượng trên diện tích bị thiệt hại tính theo năng suất tham khảo bị phân hạng đất tính thuế = (1ha x 5.500kg/ha) + (0,5ha x 5.000kg/ha) + (1ha x 5.500kg/ha) + (1,5ha x 5.000kg/ha) = 21.000 kg
+
++ Tỷ lệ thiệt hại bình quân của hộ nộp thuế =  x 100% = 19,88%
+
+Tỷ lệ giảm miễn đối với thuế ghi thu bổ sung của phần diện tích vượt hạn mức tương ứng với tỷ lệ thiệt hại bình quân của hộ A là 19,88%.
+
+* Số thuế hộ A được giảm tính theo Thông tư số 03 là: (1ha x 550kg/ha) x 10% + (0,5ha x 460kg/ha) x 15% + (1ha x 550kg/ha) x 60% + (1,5ha x 460kg/ha) x 60% = 833,5 kg
+
+* Số thuế bổ sung được giảm miễn của hộ A đối với 1 ha vượt hạn mức bị thiệt hại tính theo công thức trên là: 496 kg/ha x 20% x 1 ha x 19,88% = 19,72 kg
+
+* Tổng số thuế được giảm trong năm của hộ A là: 833,5 kg + 19,72 kg = 853,22 kg
+
+* Số thuế hộ A còn phải nộp là: 2.678,4 - 853,22 = 1.825,18 kg
+
+g. Trường hợp trong cùng một cánh đồng, cá biệt có một số thửa ruộng bị thiệt hại do nguyên nhân chủ quan của hộ sản xuất nông nghiệp (không đúng thời vụ, không chăm sóc kịp thời...) trong khi cả cánh đồng có thu hoạch bình thường thì các hộ mất mùa riêng biệt đó không thuộc diện được xét giảm, miễn thuế theo Thông tư số 03.
+
+h. Đối với các hộ được giảm miễn thuế thuộc diện chính sách xã hội, chỉ xét giảm miễn thuế sử dụng đất nông nghiệp cho phần diện tích trong hạn mức quy định.
+
+3. Hội đồng tư vấn thuế xã phải duyệt từng đối tượng thuộc chính sách: Hội được xét giảm hoặc miễn thuế theo quy định tại Điều 16 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ.
+
+4. Trình tự việc xem xét và tổng hợp đề nghị giảm, miễn thuế ở các cấp như sau:
+
+a) Ở cấp xã: Căn cứ vào thực tế thiệt hại, biên bản xác nhận đánh giá khi thiên tai, địch họa, sâu bệnh... xảy ra và biên bản thăm đồng; căn cứ vào thực tế đời sống các đối tượng chính sách thuộc diện được xét giảm, miễn thuế; cơ quan thuế và Hội đồng tư vấn giúp Ủy ban nhân dân đề nghị xin giảm miễn thuế của xã, lập danh sách các hộ về diện tích, mức độ (năng suất thiệt hại, mức thuế xin giảm, miễn do thiên tai, các hộ xin giảm, miễn thuế thuộc đối tượng chính sách xã hội theo mẫu đính kèm Thông tư này niêm yết trong thời hạn 20 ngày. Cơ quan thuế tiếp thu ý kiến của nhân dân, hoàn chỉnh, tổng hợp, báo cáo Ủy ban nhân dân xã duyệt danh sách và mức nghị giảm, miễn thuế báo cáo Ủy ban nhân dân huyện và Chi cục thuế.
+
+b) Ở cấp huyện: Căn cứ vào:
+
+- Biên bản xác định phạm vi và mức độ thiệt hại xảy ra thiên tai;
+
+- Báo cáo thống kê tình hình năng suất sản lượng các loại cây trồng kết quả thăm đồng, đánh giá sản lượng thu hoạch thực tế của diện tích thiệt hại;
+
+- Biên bản xét duyệt của các xã;
+
+- Đơn đề nghị xét giảm miễn thuế của hộ nộp thuế do huyện quản lý;
+
+- Căn cứ vào đời sống của các hộ thuộc đối tượng chính sách. …
+
+Chi cục thuế dự kiến đề nghị xét giảm, miễn thuế của các xã và các hộ nộp thuế đưa ra Hội đồng tư vấn thuế xem xét có sự tham gia của các ngành liên quan, trên cơ sở đó, tổng hợp báo cáo Ủy ban nhân dân huyện trình Ủy ban nhân dân tỉnh và Cục thuế tỉnh. Hồ sơ xin giảm, miễn thuế của các huyện gồm:
+
+- Hồ sơ trình của Ủy ban nhân dân các xã và các đơn vị doanh nghiệp thuộc huyện;
+
+- Tờ trình Ủy ban nhân dân huyện;
+
+- Biên bản xét duyệt đề nghị giảm, miễn thuế của huyện;
+
+- Báo cáo chi tiết của cơ quan thuế.
+
+c) Cục thuế kiểm tra và duyệt giảm, miễn thuế cho các huyện có sự tham gia của Hội đồng tư vấn thuế (các ngành liên quan) trên cơ sở đó đề nghị Ủy ban nhân dân tỉnh quyết định. Khi kiểm tra cục thuế phải:
+
+- Đối chiếu giữa biên bản xác định diện tích bị thiên tai làm thiệt hại với diện tích thực tế bị thiệt hại, mức độ thiệt hại và biên bản đánh giá sản lượng thực tế thu hoạch, so sánh giữa các huyện trong tỉnh, so sánh với các vụ trước v.v...
+
+- Xác định đúng sản lượng của năm sản xuất theo quy định tại Điều 17 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ;
+
+- Khi xem xét giảm miễn thuế cho các đối tượng chính sách xã hội phải có xác nhận của ngành thương binh xã hội; đồng thời phải chú ý xem xét đời sống thực tế ở địa phương và giữa các huyện trong tỉnh.
+
+5. Trình tự thi hành quyết định giảm thuế, miễn thuế.
+
+- Ủy ban nhân dân huyện thực hiện thông báo bằng văn bản đến từng hộ nộp thuế về số thuế được giảm, miễn theo đúng quyết định của Ủy ban nhân dân tỉnh.
+
+Trường hợp số hộ được giảm, miễn quá nhiều thì có thể Ủy quyền bằng văn bản cho Ủy ban nhân dân xã thông báo.
+
+- Những trường hợp thông báo không đúng quyết định của cấp ra quyết định là hành vi phạm luật và Cục thuế được quyền thu hồi quyết định giảm, miễn thuế hoặc thu hồi số thuế được giảm, miễn chưa thông báo hết nộp vào ngân sách Nhà nước.
+
+6. Tổng cục Thuế có trách nhiệm kiểm tra việc thực hiện giảm, miễn thuế của các địa phương, trình Bộ Tài chính ra quyết định bãi bỏ các quyết định giảm miễn thuế không đúng luật và báo cáo Thủ tướng Chính phủ theo quy định tại Điều 18 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ.
+
+Danh sach de nghi giam thue mien thue SDDNN.doc
+
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.17.; Điều 33.7.NĐ.2.18.)
+
+Điều 33.7.TT.3.1.
+
+((Điều 1 Thông tư số 60 TC/TCT hướng dẫn bổ sung việc giảm thuế, miễn thuế sử dụng đất nông nghiệp ngày 14/07/1994 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/1994))
+
+Thi hành Điều 14, 15, 16, 17 và Điều 18 Chương V, Nghị định số 74/CP ngày 25/10/1993 của Chính phủ về việc giảm thuế, miễn thuế sử dụng đất nông nghiệp Bộ Tài chính đã  hướng dẫn tại mục V Thông tư số 89 TC/TCT ngày 9/11/1993, nay Bộ Tài chính hướng dẫn bổ sung chi tiết như sau:
+
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.18.)
 
 Điều 33.7.TT.3.2. Các trường hợp được xét giảm thuế, miễn thuế sử dụng đất nông nghiệp
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 60 TC/TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 33007000000000005000019000000000000000000040175850074000140000801784700000000200
+1. Các loại đất được miễn thuế sử dụng đất nông nghiệp
 
-**ID:** dk_00053678
+Theo quy định tại Điều 14 Nghị định số 74/CP ngày 25/120/1993 của Chính phủ quy định chi tiết thi hành Luật thuế sử dụng đất nông nghiệp:
 
----
+a) Đất đồi núi trọc được dùng vào sản xuất nông nghiệp, lâm nghiệp từ sau ngày 1 tháng 1 năm 1994.
 
+b) Thời gian xây dựng cơ bản được miễn thuế đối với đất khai hoang dùng vào trồng cây lâu năm, đất trồng cây lâu năm chuyển sang trồng lại mới và đất trồng cây hàng năm chuyển sang trồng cây lâu năm, cây ăn quả (áp dụng cả đối với phương pháp trồng chiết ghép) là thời gian xây dựng cơ bản thực tế của từng loại cây lâu năm gắn với từng phương pháp trồng (trồng hạt, trồng bằng chiết, ghép) do UBND Tỉnh, Thành phố trực thuộc Trung ương quy định theo hướng dẫn tại công văn số 628 TC/TCT ngày 19/3/1994 của Bộ Tài chính quy định thời gian xây dựng cơ bản của một số loại cây trồng chính.
 
-### Điều 33.7.LQ.20.
+Thời gian miễn thuế được cộng thêm sau thời gian xây dựng cơ bản của cây lâu năm trồng bằng phương pháp chiết ghép do UBND tỉnh, thành phố trực thuộc Trung ương quy định cho phù hợp với từng loại cây trồng ở địa phương và hợp lý đối với các cây trồng khác, nhưng tối đa không quá thời gian quy định tại khoản 2, khoản 3 và khoản 4, Điều 14 Nghị định số 74/ CP ngày 25/10/1993 của Chính phủ.
 
-*Nội dung chưa có sẵn*
+c) Đất khai hoang bằng nguồn vốn cấp phát của Ngân sách Nhà nước được miễn thuế và giảm thuế theo quy định tại khoản 4 Điều 14 Nghị định số 74/CP ngày 25/10/1993 là đất được khai hoang bằng nguồn vốn do Ngân sách Nhà Nước cấp vốn hoặc vốn có nguồn gốc từ Ngân sách Nhà nước theo quy định tại mục I, công văn số 144 TC/TCT ngày 27/1/1992 của Bộ Tài chính hướng dẫn thực hiện chế độ thu trên vốn  Ngân sách Nhà Nước đối với các đơn vị nông, lâm nghiệp quốc doanh.
 
-**Chỉ mục:** 20
+d)  Đất bãi bồi ven sông, ven biển, đất có mặt nước nuôi trồng thuỷ sản dùng vào sản xuất được ngay, đất do đất nương rẫy để sản xuất không được coi là đất khai hoang và không được miễn thuế. Trường hợp cá biệt đối với đất có mặt nước muốn dùng vào nuôi trồng thuỷ sản phải chi phí cải tạo lớn thì tuỳ đặc điểm cụ thể ở địa phương, UBND tỉnh, thành phố trực thuộc Trung ương quyết định thời gian miễn thuế cho phù hợp, nhưng không quá thời gian quy định tại khoản 2, 3, 4 Điều 14 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ.
 
-**Mã phân cấp:** 3300700000000000500002000000000000000000
+e) Đất trồng cây lâu năm kể cả trồng trước ngày 1/1/1994, nếu vẫn còn trong thời gian xây dựng cơ bản thì vẫn được miễn thuế trong thời gian xây dựng cơ bản còn lại và thời gian đầu tư khi có thu hoạch. Trường hợp đã hết thời gian xây dựng cơ bản thì được miễn thuế thời gian còn lại kể từ khi có thu hoạch theo quy định tại khoản 2, 3, 4 Điều 14 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ.
 
-**ID:** dk_00053679
+Trường hợp đặc biệt năm 1993 và một vài năm trước đã thu thuế nông nghiệp, nay áp dụng Luật thuế mới nếu tính từ ngày 1/1/1994 vẫn còn trong thời gian được miễn thuế thì được miễn tiếp thời gian còn lại (thời gian được miễn thuế theo Luật tính cả thời gian đã thu thuế nông nghiệp trước đây), nhưng không hoàn lại cho hộ nộp thuế số thuế nông nghiệp đã thu trước ngày 1/1/1994.
 
----
+f) Đất rừng trồng được miễn thuế bao gồm: rừng trồng vào mục đích phòng hộ đầu nguồn, chắn sóng, chắn gió hoặc bão, chắn cát và rừng trồng vào mục đích đặc dụng như: vườn quốc gia; khu rừng bảo tồn thiên nhiên; khu rừng văn hoá - xã hội, nghiên cứu thí nghiệm do cơ quan có thẩm quyền về quản lý đất đai quyết định.
 
+2. Hộ nộp thuế thuộc diện được xét giảm thuế, miễn thuế sử dụng đất nông nghiệp theo Điều 15, 16 Nghị định số 74/CP ngày 25/10/1993 được hướng dẫn thêm như sau:
 
-### Điều 33.7.NĐ.2.15.
+a) Những trường hợp được miễn thuế
 
-*Nội dung chưa có sẵn*
+- Hộ di chuyển đến vùng kinh tế mới được miễn thuế theo quy định tại Điều 15, Nghị định số 74/CP ngày 25/10/1993 của Chính phủ phải là hộ di chuyển đến các vùng kinh tế mới theo quy hoạch và kế hoạch của Nhà nước.
 
-**Chỉ mục:** 15
+- Hộ nông dân thuộc dân tộc thiểu số sống trên các sườn núi cao và vùng sâu, vùng xa hẻo lánh mà sản xuất và đời sống còn nhiều khó khăn được miễn thuế theo quy định tại khoản 1 Điều 16 Nghị định số 25/CP ngày 25/10/1993 của Chính phủ
 
-**Mã phân cấp:** 330070000000000050000200000000000000000000401758500740001500
+Căn cứ vào thực tế  ở địa phương, UBND tỉnh, thành phố trực thuộc Trung ương quy định phạm vi vùng sâu, vùng xa hẻo lánh ở địa phương mình để xét miễn thuế cho các hộ để nộp thuế theo quy định trên.
 
-**ID:** dk_00053680
+- Hộ nông dân mà chủ hộ là người tàn tật được miễn thuế theo quy định tại khoản 2, Điều 16 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ bao gồm:
 
----
++ Người tàn tật sống độc thân không nơi nương tựa
 
++ Chủ hộ là người trong độ tuổi lao động nhưng bị tàn tật không còn khả năng lao động và phải là hộ mà đời sống có nhiều khó khăn như quy định tại tiết c điểm 2 mục I Thông tư này.
 
-### Điều 33.7.LQ.21.
+- Hộ nộp thuế có thương binh hạng 1/4 và 2/4 bệnh binh hạng 1/3 và 2/3 được miễn thuế phải có các điều kiện sau:
 
-*Nội dung chưa có sẵn*
++ Có hộ khẩu thường trú với hộ nộp thuế;
 
-**Chỉ mục:** 21
++ Được cơ quan Nhà nước có thẩm quyền cấp giấy chứng nhận thương binh hạng 1/4 và 2/4, bệnh binh 1/3 và 2/3.
 
-**Mã phân cấp:** 3300700000000000500002100000000000000000
+- Hộ liệt sỹ được miễn thuế: phải có ít nhất một thân nhân liệt sỹ được hưởng trợ cấp nuôi dưỡng của Nhà nước với mức 150.000đ/ tháng theo quy định tại Nghị định số 05/CP ngày 26/1/1994 của Chính phủ và được cơ quan có thẩm quyền cấp giấy chứng nhận gia đình liệt sỹ.
 
-**ID:** dk_00053681
+b) Những trường hợp được giảm thuế bao gồm:
 
----
+- Các hộ nông dân sản xuất ở vùng cao, miền núi, hải đảo biên giới, hộ nông dân là dân tộc thiểu số mà đời sống còn nhiều khó khăn quy định tại tiết c điểm 2 mục I của Thông tư này, ngoài đối tượng được miễn thuế quy định  tại khoản 1 Điều 16 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ.
 
+- Hộ gia đình có thương binh, bệnh binh, hộ gia đình liệt sỹ được xét giảm thuế theo quy định tại khoản 6 điều 16 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ được quy định như sau:
 
-### Điều 33.7.NĐ.2.17.
++ Đối với hộ gia định liệt sỹ phải có thân nhân của liệt sỹ đang được hưởng trợ cấp định suất cơ bản của Nhà nước theo quy định tại Nghị định số 05/CP ngày 16/1/1993 của Chính phủ, có giấy chứng nhận là gia đình liệt sỹ do cơ quan Nhà nươc có thẩm quyền cấp và phải là hộ đời sống có nhiều khó khăn theo quy định tại tiết c điểm 2 mục I của Thông tư này.
 
-*Nội dung chưa có sẵn*
++ Đối với hộ gia đình có thương binh, bệnh binh phải có giấy chứng nhận là thương binh, bệnh binh do cơ quan Nhà nươc có thẩm quyền cấp và phải là hộ mà đời sống có nhiều khó khăn theo quy định tại tiết c điểm 2 mục I của Thông tư này.
 
-**Chỉ mục:** 17
+Mức giảm thuế đối với từng trường hợp do UBND tỉnh, thành phố trực thuộc Trung ương quy định cho phù hợp với thực tế ở từng địa phương, nhưng tối đa không quá 50% số thuế ghi thu của hộ.
 
-**Mã phân cấp:** 330070000000000050000210000000000000000000401758500740001700
+Trường hợp một hộ gia đình liệt sỹ nay tách thành nhiều hộ thì chỉ xét giảm thuế cho một hộ mà đời sống có nhiều khó khăn nhất do UBND xã, phường, thị trấn đề nghị.
 
-**ID:** dk_00053682
+c) Hộ nộp thuế mà đời sống còn nhiều khó khăn và hộ nộp thuế thuộc dân tộc thiểu số ở các vùng khác mà đời sống có nhiều khó khăn được xem xét miễn hoặc giảm thuế sử dụng đất nông nghiệp theo quy định tại Điều 16 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ là những hộ sau:
 
----
++ Chủ hộ già yếu, cô đơn, không có nơi nương tựa, hoặc gặp tai nạn bất ngờ, hoặc  chủ hộ là lao động chính bị ốm đau kéo dài;
 
++ Hộ gia đình thương binh, bệnh binh, liệt sỹ ngoài đối tượng được miễn thuế và hộ nộp thuế mà chủ hộ là người trong  độ tuổi lao động nhưng bị tàn tật không còn khả năng lao động đời sống còn nhiều khó khăn, nếu bị ốm đau kéo dài, hoặc bị tai nạn bất ngờ, hoặc trong hộ chỉ có một lao động chính phải nuôi dưỡng từ 3 người trở lên.
 
-### Điều 33.7.TT.6.1.
+3. Trường hợp giảm, miễn thuế do thiên tai làm mùa màng bị thiệt hại.
 
-*Nội dung chưa có sẵn*
+Phương pháp tính giảm thuế, miễn thuế khi có thiên tai địch hoạ được thực hiện theo quy định tại mục V Thông  tư số 89 TC/TCT ngày 9/11/1993 của Bộ Tài chính và được cụ thể thêm một số điểm như sau:
 
-**Chỉ mục:** 1
+a) Thiên tai, địch hoạ làm mùa màng thiệt hại được xét giảm hoặc miễn thuế gồm:
 
-**Mã phân cấp:** 33007000000000005000021000000000000000000040175850074000170000802005300790000100
+- Đối với đất trồng cây hàng năm là thiệt hại do bão, lũ lụt, hạn úng, sâu bệnh kéo dài, phá hoại mùa màng mà sức người không khắc phục được, làm giảm sản lượng thu hoạch từ 10%  đến 40% được giảm thuế, từ 40% trở lên được miễn thuế;
 
-**ID:** dk_00053683
+- Đối với đất trồng cây lâu năm và mặt nước nuôi trồng thuỷ sản, thiệt hại do thiên tai, địch hoạ làm giảm cả sản lượng và giá trị sản lượng. Căn cứ vào thực tế của từng địa phương và theo cách đánh  giá mức độ thiệt hại về sản lượng hoặc giá  trị sản lượng như đối với đất trồng cây hàng năm; UBND tỉnh, thành phố trực thuộc Trung ương quy định mức thiệt hại để xét giảm, miễn thuế cho   phù hợp với từng loại đất trồng cây lâu năm và nuôi trồng thuỷ sản ở địa phương.
 
----
+b) Năng suất dùng để tính tỷ lệ (%) thiệt hại do thiên tai làm căn cứ xét giảm, miễn thuế được quy định như sau:
 
+- Đối với cây hàng năm là năng suất trung bình của từng hạng đất khi phân hạng đất tính thuế ở địa phương phù  hợp với năng suất tham khảo khi phân hạng đất tính thuế. Nhưng tối đa, năng suất bình quân 1 vụ (đối với ruộng 2 vụ trở lên) của đất hạng 1 không quá 3500 kg thóc/ha; Đất hạng 2 không qúa 3000 kg thóc/ha. Đất hạng 3 không quá 2500 kg thóc/ha ;Đất hạng 4 không quá 2000 kg thóc/ha một vụ. Uỷ ban nhân tỉnh, thành phố trực thuộc Trung ương quy định cho đất hạng 5 và hạng 6 cho phù hợp với năng suất tham khảo của hạng đất.
 
-### Điều 33.7.LQ.22.
+- Đối với đất trồng cây lâu năm và mặt nước mặn, lợ nuôi trồng thuỷ sản, việc xác định năng suất được thực hiện theo 1 trong 2 phương pháp sau:
 
-*Nội dung chưa có sẵn*
+Phương pháp 1:
 
-**Chỉ mục:** 22
+Xác định năng suất trung bình của  từng loại thuỷ sản, của từng loại cây lâu năm trên từng hạng đất tính thuế ở địa phương.
 
-**Mã phân cấp:** 3300700000000000500002200000000000000000
+Phương pháp 2:
 
-**ID:** dk_00053684
+Xác định năng suất trung bình của từng loại thuỷ sản, từng loại cây lâu năm được quy đổi  ra thóc tính trên từng hạng đất tính thuế ở địa phương.
 
----
+Cục thuế phối hợp với các ngành có liên quan (nông nghiệp, thống kê ...) xác định sản lượng thu hoạch thực tế trên đất trồng cây lâu năm, đất có mặt nước nuôi trồng thuỷ sản theo từng loại nông sản, thuỷ sản hoặc quy đổi tỷ lệ các loại hiện vật nông sản thuỷ sản ra thóc để làm căn cứ xác định tỷ lệ thiệt hại trên từng hạng đất theo một trong hai phương pháp trên đây.
 
+Việc xác định sản lượng hoặc giá trị sản lượng thu hoạch thực tế khi có thiên tai làm mùa màng thiệt hại được thực hiện theo 1 trong 2 phương pháp trên đây phù hợp với phương pháp đã áp dụng khi xác định năng suất trung bình của hạng đất tính thuế.
 
-### Điều 33.7.NĐ.2.16.
+Tuỳ đặc điểm của từng địa phương mà áp dụng 1 trong 2 phương pháp trên cho phù hợp với thực tế và báo cáo Bộ Tài chính (Tổng cục thuế).
 
-*Nội dung chưa có sẵn*
+c. Về giảm miễn thuế theo vụ: Chỉ áp dụng cho các địa phương thực hiện lập sổ thuế theo vụ ngay từ đầu năm, đúng thời hạn quy định tại Điều 9 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ.
 
-**Chỉ mục:** 16
+Việc lập sổ thuế theo vụ theo nguyên tắc ruộng đất thu hoạch ở vụ nào thì lập sổ thuế và xác định thuế ghi thu cho vụ đó. Ruộng 2 vụ trở lên thì tuỳ vào thực tế sản xuất, cơ cấu năng suất thu hoạch của từng vụ so với cả năm để thực hiện phân chia  thuế ghi thu cho từng vu. Căn cứ vào hướng dẫn này và mùa vụ thu hoạch thực tế ở địa phương, Cục thuế quy định cụ thể việc lập sổ thuế theo vụ ở địa phương và  báo cáo Tổng cục thuế.
 
-**Mã phân cấp:** 330070000000000050000220000000000000000000401758500740001600
+Nếu trong năm, vụ đầu thu thuế đã được xét và  quyết định giảm thuế, vụ còn lại nếu bị thiệt hại cũng chỉ được xét giảm thuế, miễn thuế theo từng phần thuế ghi thu tính trên diện tích của vụ còn lại.
 
-**ID:** dk_00053685
+Những địa phương nào mùa vụ phức tạp chưa xác định được diện tích, thuế ghi thu từng vụ cho hộ nộp thuế ngay từ đầu năm khi lập sổ thuế thì việc xét và quyết định giảm thuế, miễn thuế hàng năm chỉ được thực hiện một lần.
 
----
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.15.; Điều 33.7.NĐ.2.16.; Điều 33.7.NĐ.2.17.)
 
+Điều 33.7.LQ.20.
 
-### Điều 33.7.TT.6.2.
+(Điều 20 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-*Nội dung chưa có sẵn*
+Hộ di chuyển đến vùng kinh tế mới khai hoang để sản xuất nông nghiệp được miễn thuế trong thời hạn theo quy định tại Điều 19 của Luật này và cộng thêm 2 năm. Nếu đất được giao là đất đang sản xuất nông nghiệp, thì được miễn thuế trong thời hạn 3 năm kể từ ngày nhận đất.
 
-**Chỉ mục:** 2
+Điều 33.7.NĐ.2.15.
 
-**Mã phân cấp:** 33007000000000005000022000000000000000000040175850074000160000802005300790000200
+(Điều 15 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053686
+Việc miễn thuế sử dụng đất nông nghiệp cho hộ gia đình di chuyển đến vùng kinh tế mới được quy định như sau:
 
----
+1. Đất được giao phải khai hoang để sản xuất nông nghiệp được miễn thuế theo Điều 14 của Nghị định này và cộng thêm 2 năm;
 
+2. Đất được giao là đất đang sản xuất nông nghiệp, nếu dùng vào trồng cây hàng năm, thì miễn thuế 3 năm kể từ ngày nhận đất; nếu dùng vào trồng cây lâu năm được miễn thuế theo quy định tại Khoản 3 Điều 14 của Nghị định này và cộng thêm 2 năm.
 
-### Điều 33.7.QĐ.4.1.
+(Điều này có nội dung liên quan đến Điều 33.7.LQ.25.; Điều 33.7.TT.3.2. Các trường hợp được xét giảm thuế, miễn thuế sử dụng đất nông nghiệp)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.21.
 
-**Chỉ mục:** 1
+(Điều 21 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000050000220000000000000000000502057101990000100
+Trong trường hợp thiên tai, địch hoạ làm thiệt hại mùa màng, thuế sử dụng đất nông nghiệp được giảm hoặc miễn cho từng hộ nộp thuế theo từng vụ sản xuất như sau:
 
-**ID:** dk_00053687
+1. Thiệt hại từ 10% đến dưới 20%, giảm thuế tương ứng theo mức thiệt hại;
 
----
+2. Thiệt hại từ 20% đến dưới 30%, giảm thuế 60%;
 
+3. Thiệt hại từ 30% đến dưới 40%, giảm thuế 80%;
 
-### Điều 33.7.TT.8.1. Đối tượng và mức miễn, giảm thuế sử dụng đất nông nghiệp:
+4. Thiệt hại từ 40% trở lên, miễn thuế 100%.
 
-Điều 33.7.TT.8.1. Đối tượng và mức miễn, giảm thuế sử dụng đất nông nghiệp:
+Điều 33.7.NĐ.2.17.
 
-**Chỉ mục:** 1
+(Điều 17 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 33007000000000005000022000000000000000000050205710199000010000802059700090000100
+Trường hợp do thiên tai, địch hoạ làm mùa màng bị thiệt hại, thuế sử dụng đất nông nghiệp được giảm hoặc miễn cho từng hộ nộp thuế theo từng vụ sản xuất như sau:
 
-**ID:** dk_00053688
+1. Thiệt hại từ 10% đến dưới 20%, giảm thuế tương ứng theo mức thiệt hại;
 
----
+2. Thiệt hại từ 20% đến dưới 30%, giảm thuế 60%;
 
+3. Thiệt hại từ 30% đến dưới 40%, giảm thuế 80%;
 
-### Điều 33.7.QĐ.4.2.
+4. Thiệt hại từ 40% trở lên, miễn thuế 100%.
 
-*Nội dung chưa có sẵn*
+Tỷ lệ thiệt hại được xác định trên cơ sở lấy sản lượng thu hoạch thực tế từng vụ so với sản lượng tính theo năng suất tham khảo khi phân hạng đất tính thuế.
 
-**Chỉ mục:** 2
+(Điều này có nội dung liên quan đến Điều 33.7.LQ.25.; Điều 33.7.TT.1.14.; Điều 33.7.TT.3.2. Các trường hợp được xét giảm thuế, miễn thuế sử dụng đất nông nghiệp)
 
-**Mã phân cấp:** 330070000000000050000220000000000000000000502057101990000200
+Điều 33.7.TT.6.1.
 
-**ID:** dk_00053689
+(Điều 1 Thông tư số 79/2000/TT-BTC Hướng dẫn bổ sung việc giảm, miễn thuế sử dụng đất nông nghiệp đối với vùng lũ lụt, vùng khó khăn ngày 28/07/2000 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 28/07/2000)
 
----
+Miễn, giảm thuế sử dụng đất nông nghiệp đối với hộ sản xuất nôngnghiệp thuộc vùng bị lũ lụt:
 
+1. Hộ sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản (gọi chung là hộ nộp thuế sử dụng đất nông nghiệp) thuộc vùng bị lũ lụt được xét giảm, miễn thuế sửdụng đất nông nghiệp theo năm hoặc theo vụ bị thiên tai quy định tại điều 17 Chương V Nghị định số 74/CP ngày 25/10/1993 của Chính phủ quy định chi tiết thi hành Luật Thuế sử dụng đất nông nghiệp; Trong trường hợp bị thiệt hại nặng còn được miễn giảm thuế SDĐNN cụ thể như sau:
 
-### Điều 33.7.QĐ.4.3.
+a. Hộ sản xuất nông nghiệp trong vùng bị lũ lụt đời sống và sinh hoạt có nhiều khó khăn thuộc diện Nhà nước phải cứu đói được xét miễn thuế sử dụng đất nông nghiệp một năm.
 
-*Nội dung chưa có sẵn*
+b. Hộ bị thiệt hại nặng về tài sản: nhà cửa đổ nát hư hỏng trên 40%; Trâu, bò bị chết, tư liệu sản xuất chủ yếu khác bị hư hỏng nặng, bị mất, bị lũ cuốn trôi được xét miễn thuế SDĐNN theo tiết a trên đây còn được xét miễn hoặc giảm thuế của năm tiếp theo sau năm bị lũ lụt để giúp ổn định đời sống. 
 
-**Chỉ mục:** 3
+c. Hộ gia đình trong vùng lũ lụt có bố, mẹ, vợ hoặc chồng, con (trong cùng một hộ) bị chết; bị mất tích (từ một người trở lên); bị thương nặng phải điều trị dài ngày thì được miễn thuế SDĐNN một năm, nếu đã được xét miễn thuế theo quy định tại tiết a trên đây cũng được xem xét để miễn hoặc giảm thuế của năm tiếp theo.
 
-**Mã phân cấp:** 330070000000000050000220000000000000000000502057101990000300
+d. Hộ sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản (gồm cả các doanh nghiệp) thuộc vùng lũ lụt có diện tích ruộng vườn, đất nuôi trồng thủy sản, đất rừng trồng bị nước lũ làm sói lở; cuốn trôi hoặc bị đất, cát vùi lấp phải đầu tư cải tạo lại ruộng đồng, hệ thống bờ vùng, bờ thửa, kênh mương nội đồng thì được miễn thuế SDĐNN một năm đối với diện tích này. Nếu diện tích này năm tiếp theo sản xuất vẫn chưa ổn định, còn phải tăng thêm chi phí đầu tư để cải tạo tiếp thì được xét miễn, giảm thuế của năm đó. 
 
-**ID:** dk_00053690
+2. Giảm tối đa 80% thuế sử dụng đất nông nghiệp 1 năm đối với:
 
----
+a. Hộ sản xuất nông nghiệp (gồm cả các doanh nghiệp) trong vùng lũ lụt, bị thiệt hại về tài sản gồm: nhà cửa đổ nát hư hỏng dưới 40%; một số tư liệu sản xuất chủ yếu khác bị hư hỏng, bị mất phải đầu tư mua sắm lại. 
 
+b.Hộ sản xuất nông nghiệp trong vùng lũ lụt có diện tích lúa, hoa màu, cây cối,thủy sản nuôi bị hư hại (bao gồm cả lúa, hoa màu chưa đến vụ thu hoạch phải chuyển đổi cây trồng hoặc đã thu hoạch về nhà nhưng bị ngâm nước; lẫn với đất đá, cát sỏi); bị lên mầm; bị hư hỏng thì tuỳ theo mức độ thiệt hại của từng loại để xét giảm thuế SDĐNN theo mức độ thiệt hại như quy định tại điều 17 ChươngV Nghị định số 74/CP ngày 25/10/1993 của Chính phủ quy định chi tiết thi hành Luật thuế sử dụng đất nông nghiệp.
 
-### Điều 33.7.LQ.23.
+3. Việc xét miễn, giảm thuế cho hộ sản xuất nông nghiệp tại Khoản 1 và 2 Điều 1 Thông tư này được thực hiện ngay trong vụ hoặc năm bị lũ lụt.
 
-*Nội dung chưa có sẵn*
+4. Số thuế miễn giảm chính sách xã hội (nếu có) cộng với số thuế miễn giảm thiên tai lũ lụt trong năm không vượt quá số thuế ghi thu trên sổ bộ thuế của năm xét miễn giảm thuế.
 
-**Chỉ mục:** 23
+5. Các đối tượng thuộc diện được miễn hoặc giảm thuế SDĐNN theo quy định trên đây, trong năm bị lũ lụt nếu đã nộp thuế vào ngân sách Nhà nước thì số thuế được miễn, được giảm này sẽ được chuyển trừ vào số thuế phải nộp của các năm tiếp theo sau năm bị lũ lụt.
 
-**Mã phân cấp:** 3300700000000000500002300000000000000000
+Điều 33.7.LQ.22.
 
-**ID:** dk_00053691
+(Điều 22 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+1. Miễn thuế hoặc giảm thuế cho các hộ nông dân sản xuất ở vùng cao, miền núi, biên giới và hải đảo mà sản xuất và đời sống còn nhiều khó khăn;
 
+2. Miễn thuế hoặc giảm thuế cho các hộ nông dân là dân tộc thiểu số mà sản xuất và đời sống còn nhiều khó khăn;
 
-### Điều 33.7.NQ.1.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
+3. Miễn thuế cho các hộ nông dân là người tàn tật, già yếu không nơi nương tựa.
+
+Điều 33.7.NĐ.2.16.
+
+(Điều 16 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+1. Việc miễn thuế sử dụng đất nông nghiệp cho hộ nông dân sản xuất ở vùng cao, miền núi, biên giới và hải đảo và các hộ nông dân thuộc dân tộc thiểu số mà sản xuất và đời sống còn nhiều khó khăn được quy định cụ thể đối với các trường hợp sau:
+
+Hộ sản xuất ở sườn núi cao, hải đảo xa đất liền, ruộng bậc thang không thể cày bừa được bằng trâu bò;
+
+Hộ nông dân thuộc dân tộc thiểu số sống trên các sườn núi cao và vùng sâu, vùng xa hẻo lánh;
+
+Hộ nông dân thuộc dân tộc thiểu số ở các vùng khác mà đời sống khó khăn như gặp tai nạn bất ngờ, gia đình thương bình, bệnh binh, liệt sỹ, gia đình có công với cách mạng ngoài diện theo quy định tại các Khoản 2, 3, 4 Điều này.
+
+2. Việc miễn thuế sử dụng đất nông nghiệp cho hộ nông dân là người tàn tật, già yếu không nơi nương tựa được quy định cụ thể đối với các trường hợp sau:
+
+Chủ hộ là người trong độ tuổi lao động nhưng bị tàn tật không còn khả năng lao động.
+
+Người tàn tật già yếu sống độc thân không nơi nương tựa.
+
+3. Miễn thuế sử dụng đất nông nghiệp cho hộ nộp thuế có thương binh hạng 1/4 và 2/4, bệnh binh hạng 1/3 và 2/3.
+
+4. Hộ gia đình liệt sỹ được miễn thuế sử dụng đất nông nghiệp là hộ có người được hưởng trợ cấp sinh hoạt phí nuôi dưỡng theo quy định hiện hành.
+
+5. Giảm tối đa không quá 50% số thuế ghi thu cho hộ nông dân sản xuất ở vùng cao, miền núi, hải đảo, biên giới và các hộ nông dân thuộc dân tộc thiểu số mà sản xuất và đời sống còn khó khăn ngoài đối tượng quy định tại Khoản 1 Điều này.
+
+6. Giảm tối đa không quá 50% số thuế ghi thu cho hộ gia đình thương binh, liệt sỹ, bệnh binh ngoài đối tượng quy định tại Khoản 3 và Khoản 4 Điều này mà đời sống có nhiều khó khăn.
+
+Diện tích được xét giảm hoặc miễn thuế của mỗi hộ theo quy định tại Điều này là diện tích thực canh tác, nhưng không vượt quá hạn mức theo quy định tại Điều 44 của Luật Đất đai.
+
+(Điều này có nội dung liên quan đến Điều 33.7.LQ.23.; Điều 33.7.LQ.25.; Điều 129. Hạn mức giao đất nông nghiệp của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 33.7.TT.3.2. Các trường hợp được xét giảm thuế, miễn thuế sử dụng đất nông nghiệp)
+
+Điều 33.7.TT.6.2.
+
+(Điều 2 Thông tư số 79/2000/TT-BTC, có hiệu lực thi hành kể từ ngày 28/07/2000)
+
+Miễn, giảm thuế sử dụng đất nông nghiệp đối với hộ sản xuất nông nghiệp ở vùng cao, miền núi, biên giới và hải đảo, hộ nông dân thuộc dântộc thiểu số, các hộ sản xuất nông nghiệp khác mà sản xuất và đời sống cònnhiều khó khăn thuộc diện hộ xoá đói của địa phương:
+
+Miễn, giảm thuế SDĐNN hàng năm cho các hộ sản xuất nông nghiệp thuộc đối tượng chính sách xã hội đã được quy định cụ thể tại Điều 16 Chương V Nghị định số 74/CP ngày 25/10/1993 của Chính phủ quy định chi tiết thi hành luật thuế sử dụng đất nông nghiệp và hướng dẫn cụ thể tại điểm 2a, 2b Mục I Thông tư số 60 TC/TCT ngày 14/7/1994 của Bộ Tài chính hướng dẫn bổ sung việc giảm, miễn thuế sử dụng đất nông nghiệp. Nay Bộ Tài chính hướng dẫn thêm về miễn giảm theo chính sách xã hội như sau:
+
+1. Đối với các xã thuộc chương trình thực hiện Quyết định 135/1998/QĐ-TTg ngày31/7/1998 và Quyết định số 1232/QĐ/TTg ngày 24/12/1999 của Thủ tướng Chính phủ về chương trình phát triển kinh tế- xã hội các xã đặc biệt khó khăn, miền núivà vùng sâu, vùng xa:
+
+a. Hộ sản xuất nông nghiệp được miễn thuế SDĐNN hàng năm gồm:
+
+Hộ sản xuất nông nghiệp sản xuất và đời sống có khó khăn được xác định là hộ đói, hộ nghèo ở địa phương (trừ các hộ sản xuất khá và đời sống thường xuyên ổn định).
+
+Hộ sản xuất nông nghiệp là gia đình thương binh, bệnh binh, liệt sỹ, gia đình có công với cách mạng, được xác định là hộ sản xuất và đời sống có nhiều khó khăn.
+
+Hộ sản xuất nông nghiệp là gia đình bộ đội, thanh niên xung phong, người tham gia kháng chiến và các hộ khác được chính quyền xã xác định có con cái bị ảnh hưởng do di chứng của chiến tranh để lại như tâm thần, bại liệt, mất khả năng lao động...vv. 
+
+b. Giảm tối đa 50% thuế SDĐNN cho các hộ sản xuất nông nghiệp thuộc đối tượng quy định tại tiết a nêu trên chưa thuộc diện miễn thuế mà trong sản xuất nông nghiệp và đời sống có nhiều khó khăn như: hộ gia đình đông con; gặp những rủi ro trong sản xuất và làm chưa đủ ăn, thuộc diện hộ nghèo ở địa phương.
+
+2. Đối với các xã thuộc các vùng còn lại trong cả nước. 
+
+a. Hộ sản xuất nông nghiệp được miễn thuế SDĐNN hàng năm gồm:
+
+Hộ sản xuất nông nghiệp được xác định là các hộ đói ở địa phương.
+
+Hộ gia đình là bộ đội, thanh niên xung phong, người tham gia kháng chiến và các hộ khác được chính quyền xã xác định có con cái bị ảnh hưởng do di chứng của chiến tranh để lại như tâm thần, bại liệt, mất khả năng lao động... mà sản xuất và đời sống có nhiều khó khăn.
+
+Hộ sản xuất nông nghiệp là gia đình thương binh, bệnh binh, liệt sỹ, gia đình có công với cách mạng, được xác định là các hộ nghèo trong sản xuất và đời sống có nhiều khó khăn.
+
+b. Giảm tối đa 50% thuế SDĐNN ghi thu cho các đối tượng quy định tại tiết a điểm 2 trên đây mà chưa đủ điều kiện để xét miễn thuế. 
+
+c. Giảm thuế SDĐNN cho các hộ sản xuất nông nghiệp thuộc vùng chuyên sản xuất nông sản, lâm sản, thuỷ sản theo hợp đồng hoặc theo quy hoạch vùng để cung cấp nguyên liệu cho các cơ sở chế biến tập trung bị thiệt hại do nguyên nhân khách quan như: giá cả thị trường giảm mạnh, doanh thu bán nông sản phẩm không đủ bù đắp chi phí hoặc thu hoạch chậm ảnh hưởng vụ sau, phải phá bỏ. Mức giảm, miễn thuế tương ứng với tỷ lệ thiệt hại theo quy định tại điều 17 chương V Nghị định số 74/CP ngày 25/10/1993 của Chính phủ quy định chi tiết thi hành Luật thuế sửdụng đất nông nghiệp. Tỷ lệ thiệt hạị căn cứ vào sản lượng thu hoạch thực tế và giá bán thực tế so với sản lượng thực tế tính theo giá cố định do UBND tỉnh quy định.              
+
+(Điều này có nội dung liên quan đến Điều 1. Phê duyệt Chương trình Phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa, do Ủy ban Dân tộc và Miền núi là cơ quan thường trực giúp Chính phủ chỉ đạo thực hiện, gồm các nội dung sau&#58; của Quyết định 135/1998/QĐ-TTg Phê duyệt Chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa ban hành ngày 31/07/1998)
+
+Điều 33.7.QĐ.4.1.
+
+(Điều 1 Quyết định số 199/2001/QĐ-TTg Về việc miễn giảm thuế sử dụng đất nông nghiệp ngày 28/12/2001 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/2002)
+
+Miễn thuế sử dụng đất nông nghiệp đối với:
+
+- Hộ sản xuất nông nghiệp được xác định là hộ nghèo theo chuẩn hộ nghèo tại Quyết định số 1143/QĐ-LĐTBXH ngày 01 tháng 11 năm 2000 của Bộ Lao động, Thương binh và Xã hội.
+
+- Hộ có diện tích đất sản xuất đất nông nghiệp tại các xã thuộc Chương trình 135 của Chính phủ.
+
+(Điều này có nội dung liên quan đến Điều 1. Phê duyệt Chương trình Phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa, do Ủy ban Dân tộc và Miền núi là cơ quan thường trực giúp Chính phủ chỉ đạo thực hiện, gồm các nội dung sau&#58; của Quyết định 135/1998/QĐ-TTg Phê duyệt Chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa ban hành ngày 31/07/1998; Điều 1. Các tiêu chí tiếp cận đo lường nghèo đa chiều áp dụng cho giai đoạn 2016-2020; Điều 2. Chuẩn hộ nghèo, hộ cận nghèo, hộ có mức sống trung bình áp dụng cho giai đoạn 2016-2020 của Quyết định 59/2015/QĐ-TTg Về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho
+ giai đoạn 2016 – 2020 ban hành ngày 19/11/2015)Điều 33.7.TT.8.1. Đối tượng và mức miễn, giảm thuế sử dụng đất nông nghiệp:
+
+(Điều 1 Thông tư số 09/2002/TT-BTC Hướng dẫn việc miễn, giảm thuế sử dụng đất nông nghiệp từ năm 2002 theo Quyết định số 199/2001/QĐ-TTg ngày 28/12/2001 của Thủ tướng Chính phủ. ngày 23/01/2002 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 06/02/2002)
+
+1. Đối tượng được miễn thuế sử dụng đất nông nghiệp bao gồm:
+
+- Hộ gia đình, cá nhân, hợp tác xã, doanh nghiệp và các tổ chức kinh tế - xã hội (dưới đây gọi tắt là hộ sản xuất nông nghiệp) có diện tích đất sản xuất nông nghiệp tại các xã thuộc Chương trình 135 của Chính phủ.
+
+- Các hộ sản xuất nông nghiệp thuộc diện hộ nghèo (Hộ nghèo được xác định theo chuẩn hộ nghèo tại Quyết định số 1143/2000/QĐ-LĐTBXH ngày 1/11/2000 của Bộ Lao động - Thương binh và Xã hội và quy định cụ thể của từng tỉnh, thành phố trực thuộc Trung ương).
+
+Mức miễn thuế SDĐNN đối với các đối tượng trên đây được xác định như sau:
+
++ Đối với hộ nghèo: được miễn thuế cho toàn bộ diện tích đất sử dụng vào sản xuất nông nghiệp.
+
++ Đối với các hộ tại các xã thuộc Chương trình 135 của Chính phủ, nếu không phải là hộ nghèo thì chỉ được miễn thuế đối với diện tích đất sản xuất nông nghiệp trong hạn mức (hạn mức đất theo quy định của Luật đất đai), diện tích đất sản xuất nông nghiệp vượt hạn mức vẫn phải nộp thuế theo quy định.
+
+2. Đối tượng được giảm 50% thuế sử dụng đất nông nghiệp bao gồm tất cả các hộ sản xuất nông nghiệp có sử dụng đất vào sản xuất nông nghiệp không thuộc đối tượng được miễn thuế sử dụng đất nông nghiệp nêu trên. Mức giảm 50% thuế SDĐNN được xác định trên số thuế còn phải nộp sau khi đã trừ số thuế SDĐNN được miễn, giảm theo chính sách xã hội và miễn giảm do thiên tai (nếu có). Đối với hộ gia đình có diện tích đất sản xuất nông nghiệp vượt hạn mức thì chỉ được giảm 50% số thuế SDĐNN tính trên diện tích đất sản xuất nông nghiệp trong hạn mức, diện tích đất sản xuất nông nghiệp vượt hạn mức vẫn phải nộp thuế theo quy định.
+
+Ví dụ 1:
+
+Hộ sản xuất nông nghiệp A ở đồng bằng Sông Hồng có 30.000 m2 đất trồng cây hàng năm; Thuế ghi thu là 1.500 kg, trong đó diện tích đất trong hạn mức là 20.000 m2, thuế SDĐNN phải nộp tương ứng với diện tích đất trong hạn mức là 1.000 kg.
+
+* Giả sử hộ không thuộc diện được giảm chính sách xã hội thì số thuế hộ được giảm theo Quyết định 199/2001/QĐ-TTg ngày 28/12/2001 của Thủ tướng Chính phủ là: 1.000 kg x 50% = 500 kg
+
+Số thuế hộ còn phải nộp trong năm là: 1.500 kg - 500 kg = 1.000 kg.
+
+* Cũng với ví dụ trên, giả sử hộ thuộc diện được giảm 50% thuế ghi thu theo tiêu chuẩn gia đình thương binh thì số thuế hộ A được giảm là:
+
+- Giảm theo tiêu chuẩn thương binh là:
+
+1.000 x 50% = 500 kg
+
+- Số thuế được giảm tiếp theo Quyết định số 199 là:
+
+(1.000 kg - 500 kg) x 50% = 250 kg
+
+- Tổng số thuế hộ được giảm là: 500 kg + 250 kg = 750 kg
+
+* Số thuế hộ còn phải nộp là: 1.500 kg - 750 kg = 750 kg
+
+3. Một số trường hợp cụ thể số thuế được miễn, giảm xác định như sau:
+
+3.1. Hộ sản xuất nông nghiệp sử dụng đất có mặt nước nuôi trồng thuỷ sản thuộc diện nộp thuế SDĐNN; hộ sản xuất nông nghiệp trồng các loại cây lâu năm thu hoạch 1 lần hoặc có thu hoạch hàng năm mà không xác định hạng đất tính thuế SDĐNN, đang nộp thuế SDĐNN bằng 4% trên giá trị sản phẩm tiêu thụ trong năm thì cũng được miễn hoặc giảm 50% thuế SDĐNN phải nộp hàng năm theo quy định tại điểm 1, điểm 2 nêu trên.
+
+3.2. Hộ sản xuất nông nghiệp là các tổ chức kinh tế - xã hội, các doanh nghiệp không có trụ sở tại các xã thuộc Chương trình 135 nhưng có diện tích đất sản xuất nông nghiệp tại các xã này và lập bộ thuế SDĐNN tại Chi cục thuế thì cũng được miễn thuế SDĐNN đối với diện tích đất sản xuất nông nghiệp tại các xã đó. Tổ chức kinh tế - xã hội và doanh nghiệp lập hồ sơ gửi Chi cục thuế xem xét đề nghị miễn thuế SDĐNN đối với phần diện tích đất sản xuất nông nghiệp tại các xã này.
+
+3.3. Đối với hộ nghèo đăng ký hộ khẩu thường trú tại một xã, nhưng có diện tích đất sản xuất nông nghiệp ở các xã khác (kể cả xã thuộc huyện khác, tỉnh khác), nếu đã kê khai diện tích đất đang sản xuất nông nghiệp ở các xã khác để tính thu nhập và được xác định là hộ nghèo tại nơi đăng ký hộ khẩu thường trú thì diện tích đất sản xuất nông nghiệp ở các địa phương khác cũng thuộc diện được miễn thuế. Để có cơ sở xác định diện tích đất sản xuất nông nghiệp đã kê khai được miễn thuế, hộ nghèo phải kê khai rõ diện tích đất sản xuất nông nghiệp để tính thu nhập khi xác định là hộ nghèo, có xác nhận của UBND xã nơi đăng ký hộ khẩu thường trú về diện tích đã kê khai. Căn cứ vào bản xác nhận này, hộ được miễn thuế gửi đơn kèm theo bản kê khai diện tích đất sản xuất nông nghiệp đã được UBND xã xác nhận đến xã nơi có diện tích đất sản xuất nông nghiệp của hộ làm căn cứ thực hiện miễn thuế SDĐNN cho diện tích đất sản xuất nông nghiệp đã kê khai ở địa phương khác.
+
+Nếu hộ sản xuất nông nghiệp thuộc diện hộ nghèo có diện tích đất sản xuất nông nghiệp ở nơi khác nhưng không kê khai xác định thu nhập để được xác định là hộ nghèo thì diện tích đất không kê khai không thuộc diện được miễn thuế.
+
+3. 4. Xác định miễn, giảm do thiên tai khi tính giảm thuế SDĐNN: Thiệt hại do thiên tai được giảm thuế SDĐNN được xác định và tính giảm trừ trước khi tính giảm 50% số thuế SDĐNN; Trường hợp chưa xác định được thiên tai hoặc đã có quyết định giảm 50% số thuế SDĐNN còn lại phải nộp trong năm cho các đối tượng nộp thuế nhưng sau đó mới xảy ra thiên tai thì thực hiện tính lại số thuế được miễn, giảm như sau:
+
+Đối với hộ không có diện tích đất vượt hạn mức: Căn cứ vào diện tích đất sản xuất nông nghiệp bị thiệt hại và mức độ bị thiệt hại để tính tổng số thuế được miễn giảm thiên tai của diện tích đó. Trên cơ sở đó tính lại số thuế được miễn giảm 50% theo Quyết định 199/2001/QĐ-TTg và số thuế phải nộp như sau:
+
+ Số thuế được giảm
+
+ =
+
+ Tổng số thuế chưa giảm, miễn
+
+ -
+
+ Số thuế giảm theo CS xã hội (nếu có )
+
+ -
+
+ Số giảm miễn
+
+ do thiên tai
+
+ x
+
+ 50%
+
+ Số thuế còn phải nộp
+
+ =
+
+ Tổng số thuế chưa giảm, miễn
+
+ -
+
+ Các khoản được giảm, miễn
+
+Để đơn giản cách tính toán, áp dụng phương pháp tính giảm trừ tiếp số giảm do thiên tai trên số thuế đã xác định giảm 50% như sau:
+
+ Số thuế còn phải nộp
+
+ sau khi trừ tiếp số giảm do thiên tai
+
+ =
+
+ Số thuế đã xác định giảm 50%, chưa tính giảm thiên tai
+
+ -
+
+ 50% số thuế được giảm do thiên tai
+
+Đối với hộ gia đình có diện tích đất nông nghiệp chịu thuế vượt hạn mức thuộc đối tượng được miễn, giảm theo chính sách xã hội và được miễn, giảm thiên tai thì số thuế được giảm theo chính sách xã hội và số được giảm 50% chỉ tính trên số thuế phải nộp tương ứng của diện tích đất trong hạn mức.
+
+Số được giảm thuế do thiên tai được tính giảm trừ trước khi tính số được giảm 50% được tính tương ứng đối với diện tích đất trong hạn mức được giảm thuế. Trên cơ sở đó tính lại số được giảm thuế 50% theo Quyết định số 199/2001/QĐ-TTg và số thuế còn phải nộp.
+
+Ví dụ 2: 
+
+Cũng theo số liệu ví dụ 1 : Hộ ông A là hộ gia đình thương binh được giảm thuế theo chính sách xã hội là 50%.
+
+* Giả sử hộ ông A bị thiên tai mất 20.000 m2 với tỷ lệ thiệt hại là 15%, số thuế ghi thu của diện tích bị thiệt hại là 1.000 kg. Xác định số thuế hộ ông A được giảm trong năm như sau:
+
++ Số thuế được giảm theo chính sách của hộ gia đình thương binh (chỉ tính giảm thuế của diện tích trong hạn mức) là: 1.000 kg x 50% = 500 kg
+
++ Số thuế được giảm thiên tai để xác định số thuế còn phải nộp là:
+
+1.000 kg x 15% = 150 kg.
+
++ Số thuế được giảm thiên tai tương ứng của diện tích đất trong hạn mức làm căn cứ tính giảm 50% là:
+
+150kg/ 30.000 m2 x 20.000 m2 = 100 kg.
+
++ Số thuế được giảm 50% theo QĐ 199/2001/QĐ-TTg đối với phần diện tích đất trong hạn mức là:
+
+(1000 kg - 500 kg - 100kg) x 50% = 200 kg
+
++ Tổng số thuế còn phải nộp sau khi trừ các khoản được miễn giảm là:
+
+1500kg - 500 kg giảm xã hội - 150 kg giảm thiên tai - 200 kg giảm theo QĐ 199/2001/QĐ-TTg = 650 kg.
+
+Đối với trường hợp này nếu đã tính giảm 50% theo Quyết định 199/2001/QĐ-TTg trước khi xảy ra thiên tai thì phải tính lại số được giảm và có quyết định bổ sung.
+
+Tổng số thuế được miễn giảm trong năm đối với các hộ được giảm theo chính sách xã hội, thiên tai và giảm 50% theo Quyết định 199/2001/QĐ-TTg tối đa không vượt quá số thuế ghi thu của diện tích đất chịu thuế SDĐNN.
+
+(Điều này có nội dung liên quan đến Điều 1. Phê duyệt Chương trình Phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa, do Ủy ban Dân tộc và Miền núi là cơ quan thường trực giúp Chính phủ chỉ đạo thực hiện, gồm các nội dung sau&#58; của Quyết định 135/1998/QĐ-TTg Phê duyệt Chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa ban hành ngày 31/07/1998; Điều 1. Các tiêu chí tiếp cận đo lường nghèo đa chiều áp dụng cho giai đoạn 2016-2020; Điều 2. Chuẩn hộ nghèo, hộ cận nghèo, hộ có mức sống trung bình áp dụng cho giai đoạn 2016-2020 của Quyết định 59/2015/QĐ-TTg Về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho
+ giai đoạn 2016 – 2020 ban hành ngày 19/11/2015; Điều 129. Hạn mức giao đất nông nghiệp của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 33.7.QĐ.4.2.; Điều 33.7.QĐ.4.3.)Điều 33.7.QĐ.4.2.
+
+(Điều 2 Quyết định số 199/2001/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2002)
+
+Giảm 50% thuế sử dụng đất nông nghiệp phải nộp trong năm đối với tất cả các hộ sản xuất nông nghiệp (bao gồm hộ gia đình, cá nhân, hợp tác xã, doanh nghiệp và các tổ chức kinh tế - xã hội) không thuộc đối tượng được miễn thuế sử dụng đất nông nghiệp theo quy định tại Điều 1 nêu trên sau khi đã trừ số thuế được miễn, giảm theo chính sách (nếu có).
+
+(Điều này có nội dung liên quan đến Điều 129. Hạn mức giao đất nông nghiệp của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 33.7.TT.8.1. Đối tượng và mức miễn, giảm thuế sử dụng đất nông nghiệp:)
+
+Điều 33.7.QĐ.4.3.
+
+(Điều 3 Quyết định số 199/2001/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2002)
+
+Việc miễn, giảm thuế sử dụng đất nông nghiệp theo Điều 1, Điều 2 trên đây chỉ thực hiện đối với diện tích đất sản xuất nông nghiệp trong hạn mức (hạn mức đất theo quy định của Luật Đất đai), diện tích đất vượt hạn mức của các hộ sản xuất nông nghiệp vẫn phải nộp thuế theo quy định hiện hành.
+
+Đối với hộ sản xuất nông nghiệp được xác định là hộ nghèo theo chuẩn hộ nghèo tại Quyết định số 1143/2000/QĐ-LĐTBXH ngày 01 tháng 11 năm 2000 của Bộ Lao động, Thương binh và Xã hội thì được miễn thuế sử dụng đất nông nghiệp trên toàn bộ diện tích đất sử dụng.
+
+(Điều này có nội dung liên quan đến Điều 129. Hạn mức giao đất nông nghiệp của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 33.7.TT.8.1. Đối tượng và mức miễn, giảm thuế sử dụng đất nông nghiệp:)
+
+Điều 33.7.LQ.23.
+
+(Điều 23 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+1. Miễn thuế cho hộ nộp thuế có thương binh hạng 1/4 và 2/4, bệnh binh hạng 1/3 và 2/3;
+
+2. Miễn thuế hoặc giảm thuế cho hộ nộp thuế là gia đình liệt sỹ;
+
+3. Giảm thuế cho hộ nộp thuế có thương binh, bệnh binh không thuộc diện miễn thuế theo quy định tại khoản 1, Điều này mà đời sống có nhiều khó khăn.
+
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.16.)
 
 Điều 33.7.NQ.1.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
 
-**Chỉ mục:** 1
+((Điều 1 Nghị quyết số 55/2010/QH12 Về miễn thuế sử dụng đất nông nghiệp ngày 24/11/2010 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, bổ sung bởi khoản 1 Điều 1 Nghị quyết số 28/2016/QH14 ngày 11/11/2016 của Quốc hội sửa đổi, bổ sung một số điều của Nghị quyết số 55/2010/QH12 về miễn, giảm thuế sử dụng đất nông nghiệp, có hiệu lực thi hành kể từ ngày 01/01/2017))
 
-**Mã phân cấp:** 3300700000000000500002310238240055000010
+1. Miễn thuế sử dụng đất nông nghiệp đối với toàn bộ diện tích đất nông nghiệp phục vụ nghiên cứu, sản xuất thử nghiệm; diện tích đất trồng cây hàng năm có ít nhất một vụ lúa trong năm; diện tích đất làm muối.
 
-**ID:** dk_00053692
+2. Miễn thuế sử dụng đất nông nghiệp đối với toàn bộ diện tích đất nông nghiệp được Nhà nước giao cho hộ nghèo.
 
----
+3. Miễn thuế sử dụng đất nông nghiệp đối với toàn bộ diện tích đất nông nghiệp cho các đối tượng sau đây:
 
+a) Hộ gia đình, cá nhân được Nhà nước giao đất để sản xuất nông nghiệp, bao gồm cả đất được thừa kế, tặng cho, nhận chuyển quyền sử dụng đất;
 
-### Điều 33.7.NĐ.4.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
+b) Hộ gia đình, cá nhân là thành viên hợp tác xã sản xuất nông nghiệp, nông trường viên, lâm trường viên đã nhận đất giao khoán ổn định của hợp tác xã, nông trường quốc doanh, lâm trường quốc doanh để sản xuất nông nghiệp theo quy định của pháp luật;
+
+c) Hộ gia đình, cá nhân sản xuất nông nghiệp góp quyền sử dụng đất nông nghiệp của mình để thành lập hợp tác xã sản xuất nông nghiệp theo quy định của Luật hợp tác xã.
+
+4. Miễn thuế sử dụng đất nông nghiệp đối với diện tích đất nông nghiệp được Nhà nước giao cho tổ chức kinh tế, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp và các đơn vị khác đang trực tiếp sử dụng đất để sản xuất nông nghiệp.
+
+Đối với diện tích đất nông nghiệp mà Nhà nước giao cho tổ chức kinh tế, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp và các đơn vị khác đang quản lý nhưng không trực tiếp sử dụng đất để sản xuất nông nghiệp mà giao cho tổ chức, cá nhân khác nhận thầu theo hợp đồng để sản xuất nông nghiệp thì thực hiện thu hồi đất theo quy định của Luật đất đai; trong thời gian Nhà nước chưa thu hồi đất thì phải nộp 100% thuế sử dụng đất nông nghiệp.
+
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012; Chương VII THU HỒI ĐẤT, TRƯNG DỤNG ĐẤT, BỒI THƯỜNG, HỖ TRỢ, TÁI ĐỊNH CƯ; Điều 11.1.LQ.16. Nhà nước quyết định thu hồi đất, trưng dụng đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013)
 
 Điều 33.7.NĐ.4.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
 
-**Chỉ mục:** 1
+((Điều 1 Nghị định số 20/2011/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Nghị quyết số 55/2010/QH12 ngày 24 tháng 11 năm 2010 của Quốc hội về miễn, giảm thuế sử dụng đất nông nghiệp ngày 23/03/2011 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/05/2011, có nội dung được sửa đổi, bổ sung bởi điểm a khoản 1 Điều 1 Nghị định số 21/2017/NĐ-CP ngày 24/02/2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 20/2011/NĐ-CP ngày 23/3/2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành Nghị quyết số 55/2010/QH12 ngày 24/11/2010 của Quốc hội về miễn, giảm thuế sử dụng đất nông nghiệp, có hiệu lực thi hành kể từ ngày 24/02/2017 và áp dụng cho kỳ tính thuế năm 2017))
 
-**Mã phân cấp:** 330070000000000050000231023824005500001000402394300200000100
+Đối tượng được miễn thuế sử dụng đất nông nghiệp thực hiện theo quy định tại khoản 1, 2 Điều 1 Nghị quyết số 55/2010/QH12 ngày 24 tháng 11 năm 2010 và khoản 1 Điều 1 Nghị quyết số 28/2016/QH14 ngày 11 tháng 11 năm 2016, cụ thể như sau:
 
-**ID:** dk_00053693
+1. Miễn thuế sử dụng đất nông nghiệp đối với toàn bộ diện tích đất nông nghiệp phục vụ nghiên cứu, sản xuất thử nghiệm; diện tích đất trồng cây hàng năm có ít nhất một vụ lúa trong năm; diện tích đất làm muối.
 
----
+Diện tích đất trồng cây hàng năm có ít nhất một vụ lúa trong năm bao gồm diện tích đất có quy hoạch, kế hoạch trồng ít nhất một vụ lúa trong năm hoặc diện tích đất có quy hoạch, kế hoạch trồng cây hàng năm nhưng thực tế có trồng ít nhất một vụ lúa trong năm.
 
+2. Miễn thuế sử dụng đất nông nghiệp đối với toàn bộ diện tích đất nông nghiệp được Nhà nước giao hoặc công nhận cho hộ nghèo.
 
-### Điều 33.7.TT.9.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
+Việc xác định hộ nghèo được căn cứ vào chuẩn hộ nghèo ban hành theo Quyết định của Thủ tướng Chính phủ.
 
-Điều 33.7.TT.9.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
+Trường hợp Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có quy định cụ thể chuẩn hộ nghèo theo quy định của pháp luật áp dụng tại địa phương thì căn cứ chuẩn hộ nghèo do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định để xác định hộ nghèo.
 
-**Chỉ mục:** 1
+3. Miễn thuế sử dụng đất nông nghiệp đối với toàn bộ diện tích đất nông nghiệp cho các đối tượng sau đây:
 
-**Mã phân cấp:** 33007000000000005000023102382400550000100040239430020000010000802408901200000100
+a) Hộ gia đình, cá nhân được Nhà nước giao, công nhận đất để sản xuất nông nghiệp, nhận chuyển quyền sử dụng đất nông nghiệp (bao gồm cả nhận thừa kế, tặng cho quyền sử dụng đất nông nghiệp);
 
-**ID:** dk_00053694
+b) Hộ gia đình, cá nhân là thành viên hợp tác xã sản xuất nông nghiệp, nông trường viên, lâm trường viên đã nhận đất giao khoán ổn định của hợp tác xã, nông trường quốc doanh, lâm trường quốc doanh và hộ gia đình, cá nhân nhận đất giao khoán ổn định của công ty nông, lâm nghiệp để sản xuất nông nghiệp theo quy định của pháp luật;
 
----
+Việc giao khoán đất của hợp tác xã và nông trường quốc doanh, lâm trường quốc doanh để sản xuất nông nghiệp thực hiện theo quy định tại Nghị định số 135/2005/NĐ-CP ngày 08 tháng 11 năm 2005 của Chính phủ và các văn bản sửa đổi, bổ sung, thay thế (nếu có);
 
+Nông trường viên, lâm trường viên bao gồm: Cán bộ, công nhân, viên chức đang làm việc cho nông trường quốc doanh, lâm trường quốc doanh; hộ gia đình có người đang làm việc cho nông trường quốc doanh, lâm trường quốc doanh hoặc đã nghỉ hưu, nghỉ mất sức lao động, được hưởng chế độ đang cư trú trên địa bàn; hộ gia đình có nhu cầu trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản đang cư trú trên địa bàn.
 
-### Điều 33.7.NQ.1.4. Thời hạn miễn thuế
+c) Hộ gia đình, cá nhân sản xuất nông nghiệp góp quyền sử dụng đất nông nghiệp của mình để thành lập hợp tác xã sản xuất nông nghiệp theo quy định của Luật hợp tác xã.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 1. Các tiêu chí tiếp cận đo lường nghèo đa chiều áp dụng cho giai đoạn 2016-2020; Điều 2. Chuẩn hộ nghèo, hộ cận nghèo, hộ có mức sống trung bình áp dụng cho giai đoạn 2016-2020 của Quyết định 59/2015/QĐ-TTg Về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho
+ giai đoạn 2016 – 2020 ban hành ngày 19/11/2015; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012; Điều 24.2.NĐ.3.1. Phạm vi Điều chỉnh; Điều 24.2.NĐ.3.2. Đối tượng áp dụng)Điều 33.7.TT.9.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
 
-**Chỉ mục:** 4
+((Điều 1 Thông tư số 120/2011/TT-BTC Hướng dẫn Nghị định số 20/2011/NĐ-CP ngày 23/3/2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành Nghị quyết số 55/2010/QH12 ngày 24/11/2010 của Quốc hội về việc miễn, giảm thuế sử dụng đất nông nghiệp ngày 16/08/2011 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/10/2011))
 
-**Mã phân cấp:** 3300700000000000500002310238240055000040
+Đối tượng được miễn thuế sử dụng đất nông nghiệp thực hiện theo quy định tại Điều 1 Nghị định số 20/2011/NĐ-CP, cụ thể:
 
-**ID:** dk_00053695
+1. Miễn thuế sử dụng đất nông nghiệp đối với toàn bộ diện tích đất nông nghiệp phục vụ nghiên cứu, sản xuất thử nghiệm; diện tích đất trồng cây hàng năm có ít nhất một vụ lúa trong năm; diện tích đất làm muối.
 
----
+Diện tích đất trồng cây hàng năm có ít nhất một vụ lúa trong năm bao gồm diện tích đất có quy hoạch, kế hoạch trồng ít nhất một vụ lúa trong năm hoặc diện tích đất có quy hoạch, kế hoạch trồng cây hàng năm nhưng thực tế có trồng ít nhất một vụ lúa trong năm.
 
+2. Miễn thuế sử dụng đất nông nghiệp đối với toàn bộ diện tích đất nông nghiệp được Nhà nước giao hoặc công nhận cho hộ nghèo.
 
-### Điều 33.7.NQ.1.7. Thời hạn miễn thuế sử dụng đất nông nghiệp
+Việc xác định hộ nghèo được căn cứ theo chuẩn hộ nghèo ban hành theo Quyết định của Thủ tướng Chính phủ trong từng thời kỳ.
+
+Đối với giai đoạn từ năm 2011-2015 xác định hộ nghèo theo quy định tại Quyết định số 09/2011/QĐ-TTg ngày 30/01/2011 của Thủ tướng Chính phủ về việc ban hành chuẩn hộ nghèo, hộ cận nghèo cho giai đoạn 2011-2015 và các văn bản sửa đổi, bổ sung (nếu có).
+
+Trường hợp Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có quy định cụ thể chuẩn hộ nghèo theo quy định của pháp luật áp dụng tại địa phương thì căn cứ vào chuẩn hộ nghèo do Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định để xác định hộ nghèo.
+
+3. Miễn thuế sử dụng đất nông nghiệp đối với diện tích đất nông nghiệp trong hạn mức giao đất nông nghiệp cho các đối tượng sau đây:
+
+a) Hộ gia đình, cá nhân nông dân được Nhà nước giao hoặc công nhận đất để sản xuất nông nghiệp, bao gồm cả đất được thừa kế, cho tặng, nhận chuyển quyền sử dụng đất.
+
+Hộ gia đình, cá nhân nông dân bao gồm: những người có hộ khẩu thường trú tại địa phương; những người có nguồn sống chính bằng sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thuỷ sản, làm muối được Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Uỷ ban nhân dân cấp xã) xác nhận là cư trú lâu dài tại địa phương nhưng chưa có hộ khẩu thường trú; những hộ gia đình, cá nhân trước đây hoạt động trong các ngành nghề phi nông nghiệp và có hộ khẩu thường trú tại địa phương nay không có việc làm; cán bộ, công chức, viên chức nhà nước, công nhân và bộ đội nghỉ mất sức hoặc nghỉ việc do sắp xếp lại sản xuất, tinh giảm biên chế hưởng trợ cấp một lần hoặc hưởng trợ cấp một số năm về sống thường trú tại địa phương; con của cán bộ, công chức, viên chức, công nhân sống tại địa phương đến tuổi lao động nhưng chưa có việc làm.
+
+b) Hộ gia đình, cá nhân là xã viên hợp tác xã sản xuất nông nghiệp đã nhận đất giao khoán ổn định của hợp tác xã, nông trường quốc doanh, lâm trường quốc doanh để sản xuất nông nghiệp theo quy định của pháp luật.
+
+Việc giao khoán đất của hợp tác xã và nông trường quốc doanh, lâm trường quốc doanh để sản xuất nông nghiệp thực hiện theo quy định tại Nghị định số 135/2005/NĐ-CP ngày 8/11/2005 của Chính phủ và các văn bản hướng dẫn thi hành.
+
+c) Hộ gia đình, cá nhân là nông trường viên, lâm trường viên đã nhận đất giao khoán ổn định của nông trường quốc doanh, lâm trường quốc doanh để sản xuất nông nghiệp theo quy định của pháp luật.
+
+Nông trường viên, lâm trường viên bao gồm: cán bộ, công nhân, viên chức đang làm việc cho nông trường quốc doanh, lâm trường quốc doanh; hộ gia đình có người đang làm việc cho nông trường quốc doanh, lâm trường quốc doanh hoặc đã nghỉ hưu, nghỉ mất sức lao động, được hưởng chế độ đang cư trú trên địa bàn; hộ gia đình có nhu cầu trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thuỷ sản đang cư trú trên địa bàn.
+
+d) Hộ gia đình, cá nhân sản xuất nông nghiệp có quyền sử dụng đất nông nghiệp góp đất của mình để thành lập hợp tác xã sản xuất nông nghiệp theo quy định của Luật hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 1. Các tiêu chí tiếp cận đo lường nghèo đa chiều áp dụng cho giai đoạn 2016-2020; Điều 2. Chuẩn hộ nghèo, hộ cận nghèo, hộ có mức sống trung bình áp dụng cho giai đoạn 2016-2020 của Quyết định 59/2015/QĐ-TTg Về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho
+ giai đoạn 2016 – 2020 ban hành ngày 19/11/2015; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012; Điều 24.2.NĐ.3.1. Phạm vi Điều chỉnh; Điều 24.2.NĐ.3.2. Đối tượng áp dụng)Điều 33.7.NQ.1.4. Thời hạn miễn thuế
+
+((Điều 4 Nghị quyết số 55/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, bổ sung bởi khoản 2 Điều 1 Nghị quyết số 28/2016/QH14, có hiệu lực thi hành kể từ ngày 01/01/2017))
+
+Thời hạn miễn thuế sử dụng đất nông nghiệp quy định tại Nghị quyết này được thực hiện từ ngày 01 tháng 01 năm 2017 đến hết ngày 31 tháng 12 năm 2020.
 
 Điều 33.7.NQ.1.7. Thời hạn miễn thuế sử dụng đất nông nghiệp
 
-**Chỉ mục:** 1
+(Điều 1 Nghị quyết số 107/2020/QH14 Về kéo dài thời hạn miễn thuế sử dụng đất nông nghiệp được quy định tại Nghị quyết số 55/2010/QH12 ngày 24 tháng 11 năm 2010 của Quốc hội về miễn, giảm thuế sử dụng đất nông nghiệp đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 28/2016/QH14 ngày 11 tháng 11 năm 2016 của Quốc hội ngày 10/06/2021 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3300700000000000500002310687048854725000
+Kéo dài thời hạn miễn thuế sử dụng đất nông nghiệp được quy định tại Nghị quyết số 55/2010/QH12 ngày 24 tháng 11 năm 2010 của Quốc hội về miễn, giảm thuế sử dụng đất nông nghiệp đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 28/2016/QH14 ngày 11 tháng 11 năm 2016 của Quốc hội đến hết ngày 31 tháng 12 năm 2025.
 
-**ID:** dk_00053696
+Điều 33.7.LQ.24.
 
----
+(Điều 24 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Danh sách các hộ được đề nghị xét giảm thuế, miễn thuế của xã phải được niêm yết để nhân dân tham gia ý kiến trong thời hạn 20 ngày, trước khi trình Uỷ ban nhân dân cấp trên duyệt.
 
-### Điều 33.7.LQ.24.
+Quyết định giảm thuế, miễn thuế của cơ quan Nhà nước có thẩm quyền phải được thông báo kịp thời cho hộ nộp thuế và niêm yết công khai.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.2.18.
 
-**Chỉ mục:** 24
+(Điều 18 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000500002400000000000000000
+Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định giảm thuế, miễn thuế sử dụng đất nông nghiệp theo đề nghị của Cục trưởng Cục Thuế.
 
-**ID:** dk_00053697
+Quyết định giảm thuế, miễn thuế phải được thông báo đến từng hộ được giảm thuế, miễn thuế.
 
----
+Bộ trưởng Bộ Tài chính có trách nhiệm hướng dẫn và kiểm tra việc thực hiện giảm, miễn thuế của các địa phương; được quyền bãi bỏ các quyết định giảm, miễn thuế trái với Nghị định này và báo cáo Thủ tướng Chính phủ.
 
-
-### Điều 33.7.NĐ.2.18.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 330070000000000050000240000000000000000000401758500740001800
-
-**ID:** dk_00053698
-
----
-
-
-### Điều 33.7.TT.3.3. Trình tự, thủ tục, hồ sơ xét duyệt giảm, miễn thuế sử  dụng đất nông nghiệp
+(Điều này có nội dung liên quan đến Điều 33.7.LQ.25.; Điều 33.7.TT.1.14.; Điều 33.7.TT.3.1.)
 
 Điều 33.7.TT.3.3. Trình tự, thủ tục, hồ sơ xét duyệt giảm, miễn thuế sử  dụng đất nông nghiệp
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 60 TC/TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 33007000000000005000024000000000000000000040175850074000180000801784700000000300
+Đã được quy định tại mục V Thông tư số 89 TC/TCT ngày 9/11/1993, nay hướng dẫn thêm như sau:
 
-**ID:** dk_00053699
+1. Mọi trường hợp được giảm thuế, miễn thuế đều phải xét hàng năm
 
----
+Riêng trường hợp được miễn thuế theo quy định tại điểm 1 mục I của  Thông tư này, hộ nộp thuế phải khai báo với cơ quan thuế về: Loại đất (đất đồi trọc, đất khai hoang . . .) có xác nhận của ngành địa chính về diện tích và thời gian sử dụng đất. Đối với đất trồng các loại cây lâu năm phải khai báo năm trồng, phương pháp trồng, thời gian bắt đầu cho thu hoạch. Đất rừng trồng được miễn thuế phải được cơ quan Nhà nước có thẩm quyền quyết định là rừng phòng hộ, rừng đặc dụng. UBND tỉnh, thành phố trực thuộc Trung ương quyết định thời hạn miễn thuế sử dụng đất nông nghiệp cho các trường hợp:
 
+- Đất đồi núi trọc dùng vào sản xuất nông, lâm nghiệp theo quy định tại khoản 1 Điều 14 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ.
 
-### Điều 33.7.TT.6.3. Trình tự, thủ tục, thẩm quyền giải quyết miễn giảm:
+- Hộ nông dân sản xuất còn nhiều khó khăn theo quy định tại các trường hợp 1, 2 (gạch đầu dòng thứ nhất, thứ hai) của khoản 1 Điều 16 Nghị định số 74/CP ngày 25/10/1993 của Chính phủ.
+
+Đất thuộc diện được miễn thuế theo quyết định của UBND tỉnh như đã nói trên đây và đất khai hoang dùng vào sản xuất nông nghiệp còn trong thời hạn được miễn thuế không đưa vào lập sổ thuế nhưng phải được theo dõi riêng.
+
+2. Quyết định giảm, miễn thuế hàng năm của địa phương phải gửi cho Bộ Tài chính (Tổng Cục thuế).
 
 Điều 33.7.TT.6.3. Trình tự, thủ tục, thẩm quyền giải quyết miễn giảm:
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 79/2000/TT-BTC, có hiệu lực thi hành kể từ ngày 28/07/2000)
 
-**Mã phân cấp:** 33007000000000005000024000000000000000000040175850074000180000802005300790000300
+1. Căn cứ vào danh sách các xã đặc biệt khó khăn ban hành kèm theo Quyết định số1232/QĐ/TTg ngày 24/12/1999 của Thủ tướng Chính phủ; tình hình thực tế ở từng địa phương, UBND các tỉnh, thành phố trực thuộc Trung ương công bố danh sách cụ thể các xã đặc biệt khó khăn và các xã biên giới trên địa bàn quản lý đồng thời quy định cụ thể các tiêu chí xác định hộ nghèo, hộ đói, hộ sản xuất và đời sống có nhiều khó khăn để làm căn cứ xét miễn, giảm thuế SDĐNN hàng năm.
 
-**ID:** dk_00053700
+2. Hộ sản xuất nông nghiệp thuộc diện xét miễn giảm thuế SDĐNN phải có đơn đề nghị gửi cơ quan thuế xã, phường trong đó trình bày rõ lý do xin miễn giảm thuế theo tiêu chuẩn quy định của UBND tỉnh, thành phố trực thuộc Trung ương về xã vùng sâu, vùng xa, về hộ đói, hộ nghèo. 
 
----
+Trường hợp vùng bị bão lũ các hộ sản xuất nông nghiệp bị thiệt hại nghiêm trọng và những xã đặc biệt khó khăn thuộc diện miễn giảm đồng loạt thì cơ quan thuế phường, xã kết hợp với UBND xã lập danh sách thay cho việc làm đơn của từng hộ sản xuất nông nghiệp.
 
+3. Trình tự, thủ tục miễn giảm.
 
-### Điều 33.7.TT.4.4. Giảm thuế, miễn thuế
+a. Tại xã, phường: Cơ quan thuế và Hội đồng tư vấn thuế căn cứ đơn đề nghị của hộ sản xuất nông nghiệp, tình hình và mức độ thiệt hại do lũ lụt và tình hình sản xuất, đời sống của từng hộ sản xuất nông nghiệp trong xã, phường để lựa chọn, phân loại, lập danh sách và kiến nghị mức miễn giảm thuế của hộ nghèo đói, hộ sản xuất và đời sống có nhiều khó khăn trong xã, phường theo tiêu chuẩn quy định của UBND tỉnh, thành phố và quy định tại Thông tư này. Danh sách hộ sản xuất nông nghiệp được xem xét miễn, giảm thuế SDĐNN được niêm yết tại địa điểm thuận tiện của xã và thông báo cho nhân dân biết để tham gia ý kiến. Trong thời hạn 15 ngày, sau khi nghiên cứu tiếp thu ý kiến của nhân dân, cơ quan thuế báocáo UBND xã, phường xét duyệt cụ thể danh sách từng hộ được miễn giảm thuế SDĐNN theo đúng đối tượng và số thuế được miễn giảm quy định và gửi Chi cụcThuế.
 
-*Nội dung chưa có sẵn*
+b. Chi cục Thuế phối hợp với Hội đồng tư vấn thuế cấp huyện (hoặc tương đương) căn cứ vào các quy định của Nhà nước và của UBND tỉnh, thành phố để kiểm tra lại tính đúng đắn, hợp pháp danh sách các hộ do cấp xã đề nghị giảm miễn thuế SDĐNN và tổng hợp báo cáo Cục Thuế. 
 
-**Chỉ mục:** 4
+c. Cục Thuế phối hợp với các ngành có liên quan xem xét mức độ thiệt hại thực tế về lũ lụt từng vùng, thực trạng về số hộ nghèo, đói, hộ sản xuất và đời sống có nhiều khó khăn để báo cáo UBND tỉnh, thành phố quyết định miễn giảm thuế SDĐNN.
 
-**Mã phân cấp:** 330070000000000050000240000000000000000000801793200000000400
+d. Sau khi có quyết định miễn giảm thuế của UBND tỉnh, thành phố, danh sách hộ sản xuất nông nghiệp được miễn, giảm được niêm yết công khai tại trụ sở UBND xã và phải thông báo công khai, kịp thời đến từng hộ nộp thuế.
 
-**ID:** dk_00053701
+Điều 33.7.TT.4.4. Giảm thuế, miễn thuế
 
----
+(Điều 4 Thông tư số 82-TC/TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-
-### Điều 33.7.TT.8.2. Trình tự, thủ tục và thẩm quyền giải quyết miễn, giảm thuế:
+Việc giảm, miễn thuế bổ sung thực hiện cùng với việc giảm, miễn thuế sử dụng đất nông nghiệp theo đúng qui định của Luật và các văn bản dưới Luật về thuế sử dụng đất nông nghiệp. Riêng diện tích được xét giảm hoặc miễn thuế cho các hộ nộp thuế theo qui định tại đoạn cuối khoản 6 Điều 16 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ là diện tích thực tế canh tác, nhưng không vượt quá mức qui định tại Điều 2 Nghị định số 84/CP ngày 8-8-1994 của Chính phủ.
 
 Điều 33.7.TT.8.2. Trình tự, thủ tục và thẩm quyền giải quyết miễn, giảm thuế:
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 09/2002/TT-BTC, có hiệu lực thi hành kể từ ngày 06/02/2002)
 
-**Mã phân cấp:** 330070000000000050000240000000000000000000802059700090000200
+1. Tại cấp xã, phường, thị trấn (gọi chung là cấp xã): Lập danh sách các đối tượng thuộc diện miễn, giảm thuế SDĐNN:
 
-**ID:** dk_00053702
+1.1. Đối tượng nộp thuế SDĐNN do xã, phường, thị trấn quản lý:
 
----
+a/ Đội thuế xã, phường, thị trấn phối hợp với Hội đồng tư vấn thuế xã, phường, thị trấn có trách nhiệm:
 
+- Căn cứ danh sách các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa ban hành kèm theo Quyết định số 135/1998/QĐ-TTg ngày 31/7/1998, Quyết định số 1232/1999/QĐ-TTg ngày 24/12/1999, Quyết định số 647/2000/QĐ-TTg ngày 12/7/2000 và Quyết định số 42/2001/QĐ-TTg ngày 26/3/2001 của Thủ tướng Chính phủ để lập danh sách các hộ được xét miễn thuế SDĐNN trên địa bàn thôn, xã theo Mẫu số 01/MT đính kèm Thông tư này.
 
-### Điều 33.7.TT.9.5. Thẩm quyền và trình tự miễn, giảm thuế
+- Căn cứ tiêu chuẩn hộ nghèo theo Quyết định số 1143/2000/QĐ-LĐTBXH ngày 1/11/2000 của Bộ Lao động - Thương binh và Xã hội, quy định cụ thể của UBND tỉnh, thành phố trực thuộc Trung ương về tiêu chuẩn hộ nghèo ở địa phương và danh sách hộ nghèo đã được cấp có thẩm quyền xét duyệt để lập danh sách các hộ nghèo được xét miễn thuế sử dụng đất nông nghiệp theo Mẫu số 02/MT đính kèm Thông tư này.
 
-Điều 33.7.TT.9.5. Thẩm quyền và trình tự miễn, giảm thuế
+- Căn cứ bộ thuế sử dụng đất nông nghiệp năm 2002 và bộ thuế các năm sau (điều chỉnh, nếu có), lập danh sách các đối tượng thuộc diện được xét giảm 50% thuế sử dụng đất nông nghiệp theo quy định tại Điểm 2, Mục I, Thông tư này (lập theo Mẫu số 03/GT đính kèm).
 
-**Chỉ mục:** 5
+- Danh sách các đối tượng được xét miễn, giảm thuế phải được niêm yết công khai tại UBND xã và các địa điểm thuận tiện để nhân dân biết và giám sát. Sau 10 ngày niêm yết, nếu không có ý kiến thắc mắc thì đội thuế tổng hợp danh sách các hộ nộp thuế thuộc diện được xét miễn, giảm thuế sử dụng đất nông nghiệp nêu trên trình UBND xã.
 
-**Mã phân cấp:** 330070000000000050000240000000000000000000802408901200000500
+- Khi lập danh sách các đối tượng đề nghị miễn, giảm thuế trên đây cần phân định riêng các đối tượng nộp thuế là các doanh nghiệp, hợp tác xã, các tổ chức kinh tế - xã hội.
 
-**ID:** dk_00053703
+b/ UBND xã, phường, thị trấn có trách nhiệm:
 
----
+- Sau khi đã kiểm tra đầy đủ các đối tượng thuộc diện miễn, giảm thuế SDĐNN, UBND xã lập tờ trình về số đối tượng và số thuế đề nghị xét miễn, giảm (theo các biểu mẫu chi tiết đính kèm) trình UBND huyện xét duyệt.
 
+- Thông báo quyết định miễn giảm thuế sử dụng đất nông nghiệp đến từng hộ nộp thuế sau khi có Quyết định miễn, giảm thuế của cấp có thẩm quyền.
 
-### Điều 33.7.LQ.25.
+- Phối hợp với Đội thuế xã, phường và Chi cục thuế để xử lý các vướng mắc, các khiếu nại về thuế tại địa phương.
 
-*Nội dung chưa có sẵn*
+1.2 - Đối tượng nộp thuế là các doanh nghiệp nhà nước, các tổ chức kinh tế xã hội có sản xuất nông nghiệp:
 
-**Chỉ mục:** 25
+Cơ quan thuế trực tiếp quản lý lập bộ và thu thuế lập hồ sơ miễn, giảm thuế SDĐNN đối với các đơn vị này.
 
-**Mã phân cấp:** 3300700000000000500002500000000000000000
+2- Tại huyện, quận, thị xã (gọi chung là cấp huyện):
 
-**ID:** dk_00053704
+Chi cục thuế phối hợp với Hội đồng tư vấn thuế cấp huyện căn cứ vào các quy định của Nhà nước và của UBND tỉnh, thành phố kiểm tra lại tính chính xác và tính hợp pháp danh sách và mức đề nghị miễn, giảm thuế sử dụng đất nông nghiệp của từng hộ và tổng hợp báo cáo UBND cấp huyện xét duyệt. UBND cấp huyện báo cáo UBND tỉnh, thành phố trực thuộc Trung ương đồng gửi Cục thuế để theo dõi tiến độ và tổng hợp. Riêng danh sách các hộ được xác định là hộ nghèo phải có xác nhận của Phòng Lao động Thương binh - xã hội cấp huyện.
 
----
+3- Tại tỉnh, thành phố trực thuộc Trung ương:
 
+Cục thuế có trách nhiệm:
 
-### Điều 33.7.QĐ.3.1.
+- Kiểm tra và tổng hợp báo cáo của các huyện; trình UBND tỉnh, thành phố xem xét, quyết định việc miễn, giảm thuế SDĐNN cho các đối tượng trên địa bàn.
 
-*Nội dung chưa có sẵn*
+- Báo cáo Tổng cục thuế kết quả miễn, giảm thuế trên địa bàn theo các biểu mẫu tổng hợp trong Thông tư này.
 
-**Chỉ mục:** 1
+* Để đảm bảo việc miễn, giảm thuế SDĐNN kịp thời theo quy định tại Thông tư này; UBND tỉnh, thành phố trực thuộc Trung ương quyết định miễn, giảm thuế SDĐNN hoặc có thể uỷ quyền cho UBND cấp quận, huyện quyết định. Trường hợp uỷ quyền cho UBND quận, huyện quyết định thì Chi cục thuế phối hợp với Hội đồng tư vấn thuế quận, huyện trình UBND quận, huyện quyết định đồng gửi về Cục thuế và UBND tỉnh, thành phố trực thuộc Trung ương để báo cáo.
 
-**Mã phân cấp:** 330070000000000050000250000000000000000000502008101050000100
+(Điều này có nội dung liên quan đến Điều 1. Phê duyệt Chương trình Phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa, do Ủy ban Dân tộc và Miền núi là cơ quan thường trực giúp Chính phủ chỉ đạo thực hiện, gồm các nội dung sau&#58; của Quyết định 135/1998/QĐ-TTg Phê duyệt Chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa ban hành ngày 31/07/1998; Điều 1. Các tiêu chí tiếp cận đo lường nghèo đa chiều áp dụng cho giai đoạn 2016-2020; Điều 2. Chuẩn hộ nghèo, hộ cận nghèo, hộ có mức sống trung bình áp dụng cho giai đoạn 2016-2020 của Quyết định 59/2015/QĐ-TTg Về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho
+ giai đoạn 2016 – 2020 ban hành ngày 19/11/2015)Điều 33.7.TT.9.5. Thẩm quyền và trình tự miễn, giảm thuế
 
-**ID:** dk_00053705
+(Điều 5 Thông tư số 120/2011/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2011)
 
----
+ Thẩm quyền xác định và trình tự ban hành quyết định miễn, giảm thuế sử dụng đất nông nghiệp được thực hiện theo quy định của pháp luật về quản lý thuế, cụ thể là:
 
+ 1. Cơ quan thuế xác định và ra quyết định miễn, giảm thuế sử dụng đất nông nghiệp:
 
-### Điều 33.7.TT.7.1.
+ Cục trưởng Cục thuế quyết định miễn, giảm đối với người nộp thuế do Cục thuế trực tiếp quản lý thuế.
 
-*Nội dung chưa có sẵn*
+ Chi cục trưởng Chi cục thuế quyết định miễn, giảm đối với người nộp thuế do Chi cục Thuế trực tiếp quản lý.
 
-**Chỉ mục:** 1
+ 2. Trình tự thực hiện miễn, giảm thuế:
 
-**Mã phân cấp:** 33007000000000005000025000000000000000000050200810105000010000802014001050000100
+ Căn cứ danh sách miễn, giảm thuế do Uỷ ban nhân dân cấp xã gửi, kèm theo hồ sơ kê khai của người nộp thuế và các giấy tờ chứng minh đối tượng miễn, giảm thuế của người nộp thuế, Chi cục Thuế xác định số thuế được miễn, giảm của từng người nộp thuế.
 
-**ID:** dk_00053706
+ Đối với người nộp thuế do Cục Thuế trực tiếp quản lý thuế (bao gồm cả trường hợp Cục thuế quản lý nhưng uỷ quyền cho Chi cục thuế thu) thì Chi cục Thuế lập riêng danh sách và số thuế được miễn, giảm của từng người nộp thuế để gửi Cục Thuế xét duyệt và ban hành quyết định miễn, giảm cho người nộp thuế.
 
----
+ Đối với người nộp thuế do Chi cục thuế quản lý thu thuế thì Chi cục trưởng Chi cục Thuế ban hành quyết định miễn, giảm thuế kèm theo danh sách người nộp thuế được miễn, giảm của từng xã.
 
+ Căn cứ danh sách miễn, giảm thuế sử dụng đất nông nghiệp đã được cơ quan thuế quyết định, Uỷ ban nhân dân cấp xã thông báo số thuế được miễn, giảm đến từng người nộp thuế đã được duyệt và niêm yết công khai ở nơi thuận tiện để người nộp thuế biết.
 
-### Điều 33.7.TT.7.2.
+ Đối với trường hợp được miễn thuế theo quy định tại khoản 1 Điều 1 Nghị định số 20/2011/NĐ-CP, cơ quan thuế ban hành quyết định miễn thuế một lần cho nhiều năm phù hợp với thời hạn miễn thuế của trường hợp cụ thể theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+ 3. Chi cục Thuế gửi báo cáo về việc miễn, giảm của Chi cục thuế thực hiện năm 2011 cho Cục thuế tỉnh, thành phố để theo dõi và kiểm tra. Hằng năm, nếu có điều chỉnh đối tượng và số thuế miễn, giảm thì Chi cục gửi báo cáo bổ sung cho Cục thuế tỉnh, thành phố. Báo cáo gửi về Cục Thuế tỉnh, thành phố trong vòng 15 ngày kể từ ngày ban hành quyết định miễn, giảm.
 
-**Chỉ mục:** 2
+ Cục Thuế tỉnh, thành phố trực thuộc Trung ương tổng hợp tình hình miễn, giảm thuế sử dụng đất nông nghiệp của địa phương và gửi báo cáo về Tổng cục Thuế trước ngày 31/12/2011. Hằng năm, nếu có điều chỉnh căn cứ tính thuế làm thay đổi số thuế sử dụng đất nông nghiệp được miễn, giảm của tỉnh, thành phố thì Cục thuế tỉnh, thành phố trực thuộc trung ương tổng hợp và gửi báo cáo bổ sung về Tổng cục Thuế trước 31/12 của năm.Điều 33.7.LQ.25.
 
-**Mã phân cấp:** 33007000000000005000025000000000000000000050200810105000010000802014001050000200
+(Điều 25 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053707
+Chính phủ quy định chi tiết việc giảm thuế, miễn thuế sử dụng đất nông nghiệp.
 
----
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.14.; Điều 33.7.NĐ.2.15.; Điều 33.7.NĐ.2.16.; Điều 33.7.NĐ.2.17.; Điều 33.7.NĐ.2.18.)
 
+Điều 33.7.QĐ.3.1.
 
-### Điều 33.7.TT.7.3. Yêu cầu, trình tự thực hiện kiểm tra phân loại và xử lý nợ thuế
+(Điều 1 Quyết định số 105/2000/QĐ-TTg Về việc miễn nộp nợ thuế sử dụng đất nông nghiệp và thuế nhà, đất ngày 25/08/2000 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 25/08/2000)
+
+Cho phép miễn nộp nợ thuế sử dụng đất nông nghiệp và thuế nhà, đất còn tồn đọngđến hết năm 1999 đối với các trường hợp sau:
+
+1. Nợ thuế của các hộ gia đình, cá nhân thuộc địa phương vùng cao, miền núi, vùngkinh tế mới, vùng đồng bào dân tộc thiểu số; hộ gia đình, cá nhân thuộc diệnchính sách, nghèo đói hoặc do bị thiên tai nay không có khả năng trả nợ thuế;các hộ gia đình, cá nhân đã di chuyển đi địa phương khác làm ăn, sinh sốngkhông còn địa chỉ theo dõi hoặc đã chết.
+
+2. Nợ thuế của các tổ chức do bị thiên tai không còn khả năng trả nợ thuế; các tổchức đã giải thể hoặc giao khoán, chuyển giao ruộng đất cho các hộ gia đình, cánhân và tổ chức khác mà nay không còn tồn tại.
+
+Điều 33.7.TT.7.1.
+
+(Điều 1 Thông tư số 105/2000/TT-BTC Hướng dẫn miễn nộp nợ thuế sử dụng đất nông nghiệp, thuế nhà đất từ năm 1999 trở về trước ngày 23/10/2000 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 23/10/2000)
+
+Đối tượng được miễn nộp nợ thuế sử dụng đất nông nghiệp (SDĐNN), thuế nhà đất từ năm 1999 trở về trước bao gồm:
+
+1. Nợ thuế sử dụng đất nông nghiệp (SDĐNN), thuế nhà đất đối với hộ thuộc vùng cao, miền núi, vùng sâu, vùng xa vùng kinh tế mới, hộ là dân tộc thiểu số và các đối tượng thuộc diện chính sách xã hội (hộ thương binh, liệt sỹ, Bà mẹ Việt Nam anh hùng, người có công giúp đỡ cách mạng....); gia đình bộ đội, thanh niên xung phong, người tham gia kháng chiến và các hộ khác có con cái bị ảnh hưởng của di chứng chiến tranh để laị.
+
+2. Nợ thuế của các hộ thuộc các địa phương (huyện, xã) thường xuyên gặp thiên tai trong các năm 1997, 1998, 1999 thuộc diện nghèo không có khả năng nộp số thuế còn tồn đọng.
+
+3. Nợ thuế của các hộ dân cư ở các địa bàn khác không quy định tại điểm 1,2 nêu trên thuộc diện đói nghèo. Hộ bị thiên tai, tai nạn rủi ro, bị bệnh tật kinh niên phải điều trị dài ngày đời sống có nhiều khó khăn chưa có khả năng nộp trả nợ thuế.
+
+4. Nợ thuế của các doanh nghiệp, hợp tác xã, tập đoàn sản xuất và các tổ chức khác đã giải thể, phá sản, đất đai đã thực hiện giao lại cho các tổ chức hoặc giao cho hộ gia đình khác sử dụng mà các đối tượng này trực tiếp đứng tên trong sổ thuế sử dụng đất nông nghiệp, thuế nhà đất.
+
+5. Các doanh nghiệp, hợp tác xã, tập đoàn sản xuất và các tổ chức kinh tế khác chưa bị phá sản, giải thể làm ăn thua lỗ liên tục trong nhiều năm gần đây hoặc bị thiên tai, hoả hoạn, tai nạn bất ngờ đến nay vẫn không có khả năng nộp thuế.
+
+6. Nợ thuế của các hộ dân cư nay đã chuyển đi nơi khác làm ăn không có địa chỉ hoặc đã chết.
+
+Điều 33.7.TT.7.2.
+
+(Điều 2 Thông tư số 105/2000/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2000)
+
+Đối tượng không thuộc diện miễn nộp nợ thuế sử dụng đất nông nghiệp (SDĐNN), thuế nhà đất từ năm 1999 trở về trước
+
+1. Các tổ chức, cá nhân, hộ dân cư đã nộp thuế nhưng số thuế bị các tổ chức, cá nhân chiếm dụng, xâm tiêu, tham ô....tiền thuế mà trên sổ bộ thuế vẫn ghi nợ thuế.
+
+2. Các doanh nghiệp, tổ chức, hợp tác xã, tập đoàn sản xuất, hộ dân cư trực tiếp đứng tên trên sổ thuế và trực tiếp nộp thuế cho Nhà nước nhưng do chây ỳ, chiếm dụng tiền thuế đến nay còn nợ thuế.
+
+Những trường hợp nêu tại điểm 1,2 Mục này Cục thuế tổ chức thống kê theo các nguyên nhân đề xuất các biện pháp xử lý trình UBND tỉnh chỉ đạo và hướng dẫn Chi cục thực hiện.
 
 Điều 33.7.TT.7.3. Yêu cầu, trình tự thực hiện kiểm tra phân loại và xử lý nợ thuế
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 105/2000/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2000)
 
-**Mã phân cấp:** 33007000000000005000025000000000000000000050200810105000010000802014001050000300
+1. Yêu cầu phân loại xử lý nợ thuế SDĐNN, nhà đất từ năm 1999 trở về trước.
 
-**ID:** dk_00053708
+- Việc phân loại nợ thuế phải đúng với số nợ thuế còn ghi nợ trên quyết toán thuế SDĐNN, thuế nhà đất từ năm 1999 trở về trước của các đối tượng, theo các nguyên nhân nêu tại Mục I, II Thông tư này.
 
----
+- Số nợ thuế SDĐNN, thuế nhà đất từ năm 1999 trở về trước phải được kiểm tra chặt chẽ, đúng đối tượng việc xét duyệt phải theo trình tự các bước từ cơ sở thôn, ấp đến xã, huyện, tỉnh theo quy định dưới đây.
 
+2. Trình tự các bước xử lý nợ thuế.
 
-### Điều 33.7.QĐ.3.2.
+Bước 1: ở cấp xã, phường, thị trấn (dưới đây gọi chung là xã) căn cứ vào sổ thuế, quyết toán kết quả thu thuế hàng năm, kết quả thu nợ thuế (theo biên lai thu nợ thuế) tính đến thời điểm xử lý miễn nộp thuế để lập danh sách theo từng đối tượng theo các nguyên nhân nợ thuế quy định tại Mục I Thông tư này. Đội thuế cấp xã phối hợp với các ngành chức năng kiểm tra, xác định chính xác số nợ thuế SDDNN, thuế nhà đất tính đến hết năm 1999 của từng đơn vị, từng hộ nói trên. Lập danh sách hộ thuộc diện miễn nộp nợ thuế SDĐNN, thuế nhà đất; danh sách này phải niêm yết công khai tại địa điểm thuận tiện của xã để nhân dân biết giám sát và tham gia ý kiến. Sau 15 ngày kể từ ngày niêm yết, cơ quan thuế cấp xã nghiên cứu, tiếp thu ý kiến của nhân dân, tổng hợp, điều chỉnh, bổ sung danh sách (nếu có) gửi Hội đồng tư vấn thuế xã tham gia ý kiến; Căn cứ vào kết quả đã kiểm tra, phân loại nợ thuế của cơ quan thuế cấp xã, ý kiến tham gia của Hội đồng tư vấn thuế cấp xã, UBND xã đề nghị danh sách từng hộ thuộc diện được miễn nộp nợ thuế, diện phải thu, phải xử lý gửi Chi cục thuế.
 
-*Nội dung chưa có sẵn*
+Bước 2: ở huyện, quận, thị xã, thành phố trực thuộc tỉnh (dưới đây gọi chung là huyện) căn cứ vào sổ thuế, quyết toán kết quả thu thuế hàng năm, thực tế quản lý thu thuế ở địa phương và danh sách đề nghị của các xã về nợ thuế SDĐNN, nhà đất; Chi cục thuế thực hiện kiểm tra, xem xét từng trường hợp cụ thể miễn nộp nợ thuế gửi hội đồng tư vấn thuế tham khảo, trình UBND huyện thông qua, sau đó UBND huyện báo cáo Cục thuế tỉnh, thành phố trực thuộc TƯ.
 
-**Chỉ mục:** 2
+Bước 3: ở tỉnh, thành phố trực thuộc TƯ (dưới đây gọi chung là tỉnh) Cục thuế căn cứ vào sổ thuế, quyết toán kết quả thu thuế hàng năm, thực tế quản lý thu thuế ở địa phương và hồ sơ đề nghị của các huyện thuộc tỉnh để kiểm tra, tổng hợp (theo mẫu đính kèm Thông tư này); Lấy ý kiến của hội đồng tư vấn thuế và đề nghị UBND tỉnh, thành phố quyết định miễn nộp. Quyết định miễn nộp nợ thuế được phân định theo từng năm; đối với nợ thuế SDĐNN phải phân tích rõ theo loại cây trồng (cây hàng năm, cây lâu năm).
 
-**Mã phân cấp:** 330070000000000050000250000000000000000000502008101050000200
+Đối với số nợ thuế của các đối tượng được miễn nộp, chỉ sau khi đã được kiểm tra chặt chẽ và phân loại rõ đối tượng thuộc các trường hợp quy định tại Mục I Thông tư này, UBND tỉnh, thành phố ra quyết định miễn nộp nợ thuế không có khả năng thu được từ năm 1999 trở về trước theo đề nghị của Cục thuế.
 
-**ID:** dk_00053709
+Quyết định miễn nộp nợ thuế của các địa phương phải được thực hiện xong trước ngày 31/3/2001. Quyết định được gửi đến từng quận, huyện đồng thời gửi về Bộ Tài chính (Tổng cục thuế) để tổng hợp.
 
----
+Sau khi có quyết định của UBND tỉnh, UBND huyện chịu trách nhiệm thông báo quyết định cho từng xã tổng số nợ thuế được miễn nộp kèm theo danh sách số nợ thuế được miễn nộp của từng tổ chức, cá nhân, UBND xã chịu trách nhiệm thông báo đến các hộ được miễn nộp nợ thuế đúng với quyết định của UBND huyện và niêm yết công khai danh sách số nợ thuế được miễn nộp cho các hộ tại trụ sở của UBND xã.
 
+Đối với số nợ thuế SDĐNN, thuế nhà đất từ năm 1999 trở về trước của các đối tượng không thuộc diện miễn nộp nêu tại Mục II Thông tư này cơ quan thuế địa phương tiếp tục theo dõi, tích cực đôn đốc các đối tượng nợ thuế nộp các khoản tồn đọng vào ngân sách Nhà nước.
 
-### Điều 33.7.LQ.26.
+Trường hợp các đối tượng còn nợ thuế từ năm 1999 trở về trước thuộc đối tượng được miễn nộp nợ thuế nhưng trong năm 2000 đã nộp thì số thuế đã nộp được trừ vào số thuế phải nộp của năm 2000, 2001.
 
-*Nội dung chưa có sẵn*
+Bieu so 03_Bang tong hop phan loai no thue SDDNN tu nam 1999 tro ve truoc.doc
 
-**Chỉ mục:** 26
+Bieu so 04_Bang tong hop phan loai no thue nha dat tu nam 1999 tro ve truoc.doc
 
-**Mã phân cấp:** 3300700000000000600002600000000000000000
+Bieu so 1_Phan loai no thue SDDNN tu nam 1999 tro ve truoc.doc
 
-**ID:** dk_00053711
+Bieu so 2_Phan loai no thue nha dat nam 1999 tro ve truoc.doc
 
----
+Điều 33.7.QĐ.3.2.
 
+(Điều 2 Quyết định số 105/2000/QĐ-TTg, có hiệu lực thi hành kể từ ngày 25/08/2000)
 
-### Điều 33.7.NĐ.2.19. Việc xử lý các vi phạm Luật Thuế sử dụng đất nông nghiệp được quy định như sau:
+Ủy ban nhân dân tỉnh,thành phố trực thuộc Trung ương có trách nhiệm chỉ đạo việc xem xét, kiến nghị miễn nộp nợ thuế cho những đối tượng quy định tại Điều 1 Quyết định này, đảm bảo nguyên tắc công khai, dân chủ và công bằng.
+
+Chương VI
+
+XỬ LÝ VI PHẠM
+
+Điều 33.7.LQ.26.
+
+(Điều 26 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+1. Các vi phạm Luật thuế sử dụng đất nông nghiệp được xử lý như sau:
+
+a) Tổ chức, cá nhân khai man, lậu thuế, trốn thuế thì phải truy nộp đủ số thuế thiếu theo quy định của Luật này và bị phạt tiền bằng từ 0,2 lần đến 0,5 lần số thuế thiếu.
+
+b) Tổ chức, cá nhân sử dụng đất không khai báo theo quy định tại Điều 11 của Luật này, thì ngoài việc phải truy nộp thuế, còn bị phạt từ 0,5 đến 1,0 lần số thuế không khai báo.
+
+c) Tổ chức, cá nhân nộp chậm thuế hoặc tiền phạt nếu quá 30 ngày, kể từ ngày phải nộp ghi trong lệnh thu thuế hoặc quyết định phạt mà không có lý do chính đáng, thì ngoài việc phải nộp đủ số thuế hoặc tiền phạt, còn bị phạt tiền bằng 0,1% số thuế hoặc tiền phạt cho mỗi ngày nộp chậm.
+
+2. Cá nhân trốn thuế với số lượng lớn hoặc đã bị xử lý hành chính nhiều lần theo khoản 1, Điều này mà còn vi phạm thì có thể bị truy cứu trách nhiệm hình sự.
+
+(Điều này có nội dung liên quan đến Điều 108. Xử phạt đối với hành vi trốn thuế, gian lận thuế; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 33.4.LQ.143. Hành vi trốn thuế; Điều 33.4.LQ.151. Hiệu lực thi hành)
 
 Điều 33.7.NĐ.2.19. Việc xử lý các vi phạm Luật Thuế sử dụng đất nông nghiệp được quy định như sau:
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000060000260000000000000000000401758500740001900
+1. Tổ chức, cá nhân khai man, lậu thuế, trốn thuế thì ngoài việc phải nộp đủ số thuế thiếu theo quy định còn bị phạt tiền, vi phạm lần thứ nhất: 0,2 lần; lần thứ 2: 0,4 lần; lần thứ 3: 0,5 lần số thuế thiếu.
 
-**ID:** dk_00053712
+2. Tổ chức, cá nhân sử dụng đất mà không khai báo thì cơ quan thuế được quyền ấn định số thuế phải nộp sau khi có ý kiến bằng văn bản của Uỷ ban nhân dân cùng cấp về diện tích và hạng đất tính thuế, ngoài việc truy nộp đủ số thuế còn bị phạt tiền, vi phạm lần thứ 1: 0,5 lần; lần thứ 2: 0,8 lần; lần thứ 3: 1,0 lần số thuế không khai báo.
 
----
+3. Tổ chức, cá nhân nộp chậm tiền thuế hoặc tiền phạt, nếu quá 30 ngày kể từ ngày phải nộp ghi trong lệnh thu thuế hoặc quyết định xử phạt mà không có lý do chính đáng, ngoài việc phải nộp đủ số thuế hoặc tiền phạt còn bị phạt tiền bằng 0,1% số thuế thiếu hoặc tiền phạt cho mỗi ngày chậm nộp.
 
+Việc nộp chậm tiền thuế hoặc tiền phạt trong các trường hợp sau đây được coi là có lý do chính đáng như trong vụ thu hoạch mưa nhiều, tiêu thụ chậm hoặc khó tiêu thụ, thiếu phương tiện vận chuyển, hộ gia đình nộp thuế gặp tai nạn bất ngờ có xác nhận của Uỷ ban nhân dân xã, phường, thị trấn.
 
-### Điều 33.7.TT.1.15.
+4. Những trường hợp có thể bị truy cứu trách nhiệm hình sự gồm:
 
-*Nội dung chưa có sẵn*
+Trốn thuế với số tiền tương đương trị giá của 5 tấn gạo trở lên;
 
-**Chỉ mục:** 15
+Đã bị 3 lần xử phạt hành chính theo các Khoản 1, 2, 3 Điều này mà còn tái phạm.
 
-**Mã phân cấp:** 33007000000000006000026000000000000000000040175850074000190000801760000890001500
+(Điều này có nội dung liên quan đến Điều 106. Xử phạt đối với hành vi chậm nộp tiền thuế; Điều 108. Xử phạt đối với hành vi trốn thuế, gian lận thuế; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 33.4.LQ.59. Xử lý đối với việc chậm nộp tiền thuế; Điều 33.4.LQ.143. Hành vi trốn thuế; Điều 33.4.LQ.151. Hiệu lực thi hành)
 
-**ID:** dk_00053713
+Điều 33.7.TT.1.15.
 
----
+(Điều 15 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Theo quy định tại Điều 26, 27, 28, 29 của Luật Thuế sử dụng đất nông nghiệp và Điều 19, Điều 20 của Nghị định số 74/CP của Chính phủ ngày 25-10-1993, Bộ Tài chính hướng dẫn thủ tục xử lý vi phạm như sau:
 
-### Điều 33.7.LQ.27.
+1. Căn cứ vào tính chất và mức độ vi phạm của các đối tượng, cán bộ thuế lập biên bản vi phạm Luật Thuế có chữ ký của người vi phạm và Ủy ban nhân dân xã sở tại.
 
-*Nội dung chưa có sẵn*
+2. Căn cứ vào biên bản xác định vi phạm mà nghiên cứu xử lý các trường hợp sau:
 
-**Chỉ mục:** 27
+a) Đối với tổ chức, cá nhân (hộ nộp thuế) áp dụng các hình thức xử lý từ thấp tới cao:
 
-**Mã phân cấp:** 3300700000000000600002700000000000000000
+- Cảnh cáo;
 
-**ID:** dk_00053714
+- Phạt tiền;
 
----
+- Truy cứu trách nhiệm hình sự.
 
+b) Đối với cán bộ thuế hoặc người lợi dụng chức vụ quyền hạn, áp dụng xử lý theo các hình thức sau:
 
-### Điều 33.7.NĐ.2.21. Thẩm quyền xử lý vi phạm quy định như sau:
+- Xử lý kỷ luật;
+
+- Xử phạt hành chính;
+
+- Truy cứu trách nhiệm hình sự nếu hành vi vi phạm gây ra hậu quả nghiêm trọng.
+
+Trường hợp kỷ luật hành chính: Cơ quan thuế phải đề nghị hình thức kỷ luật với cơ quan có người vi phạm; nếu là cán bộ thuế phải xử lý theo 10 điều kỷ luật theo các hình thức kỷ luật từ thấp đến cao: từ phê bình, cảnh cáo đến buộc thôi việc.
+
+c) Trường hợp truy cứu trách nhiệm hình sự theo Bộ luật hình sự, cơ quan thuế phải lập hồ sơ chuyển cho cơ quan điều tra để xem xét xử lý.
+
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.20.)
+
+Điều 33.7.LQ.27.
+
+(Điều 27 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
+
+Thẩm quyền xử lý vi phạm được quy định như sau:
+
+a) Chi cục trưởng Chi cục thuế huyện, quận, thị xã, thành phố thuộc tỉnh được áp dụng các hình thức xử lý hành chính và được phạt đến 0,5 lần số thuế thiếu.
+
+b) Cục trưởng Cục thuế tỉnh, thành phố trực thuộc Trung ương được áp dụng các hình thức xử lý hành chính và được phạt đến 1 lần số thuế thiếu.
+
+(Điều này có nội dung liên quan đến Điều 109. Thẩm quyền xử phạt vi phạm pháp luật về thuế; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 39.13.LQ.44. Thẩm quyền của cơ quan Thuế)
 
 Điều 33.7.NĐ.2.21. Thẩm quyền xử lý vi phạm quy định như sau:
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 330070000000000060000270000000000000000000401758500740002100
+Chi Cục trưởng Chi cục Thuế được áp dụng các hình thức xử lý hành chính và được phạt đến 0,5 lần số thuế thiếu;
 
-**ID:** dk_00053715
+Cục trưởng Cục Thuế được áp dụng các hình thức xử lý hành chính và được phạt đến 1 lần số thuế thiếu;
 
----
+Nếu xét hành vi vi phạm đến mức truy cứu trách nhiệm hình sự thì cơ quan thuế chuyển hồ sơ đến cơ quan pháp luật.
 
+(Điều này có nội dung liên quan đến Điều 109. Thẩm quyền xử phạt vi phạm pháp luật về thuế; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 39.13.LQ.44. Thẩm quyền của cơ quan Thuế; Điều 33.4.LQ.139. Thẩm quyền xử phạt vi phạm hành chính về quản lý thuế; Điều 33.4.LQ.151. Hiệu lực thi hành)
 
-### Điều 33.7.LQ.28.
+Điều 33.7.LQ.28.
 
-*Nội dung chưa có sẵn*
+(Điều 28 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 28
+Cá nhân cản trở hoặc xúi dục người khác cản trở việc thi hành Luật thuế sử dụng đất nông nghiệp; gây khó khăn cho việc điều tra và xử lý các vi phạm Luật này, thì tuỳ theo mức độ vi phạm mà bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.
 
-**Mã phân cấp:** 3300700000000000600002800000000000000000
+Điều 33.7.LQ.29.
 
-**ID:** dk_00053716
+(Điều 29 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+1. Cán bộ thuế, cá nhân lợi dụng chức vụ, quyền hạn để chiếm dụng, tham ô tiền thuế, thì ngoài việc phải bồi thường toàn bộ số thuế đã chiếm dụng, tham ô, còn bị phạt tiền bằng từ 0,2 lần đến 0,5 lần số tiền chiếm dụng, tham ô và tuỳ theo mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.
 
+2. Cán bộ thuế, cá nhân lợi dụng chức vụ, quyền hạn bao che cho người vi phạm; ra các quyết định về giảm thuế, miễn thuế không đúng Luật hoặc cố ý làm trái các quy định của Luật này; thiếu trách nhiệm trong việc thi hành Luật thuế sử dụng đất nông nghiệp; cố tình xử lý sai gây thiệt hại cho hộ nộp thuế hoặc người bị xử lý, thì tuỳ theo mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.
 
-### Điều 33.7.LQ.29.
+(Điều này có nội dung liên quan đến Điều 113. Xử lý vi phạm pháp luật về thuế đối với công chức quản lý thuế; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.2.20.
 
-**Chỉ mục:** 29
+(Điều 20 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000600002900000000000000000
+1. Cán bộ thuế, cá nhân lợi dụng chức vụ, quyền hạn để chiếm dụng, xâm tiêu, tham ô tiền thuế, ngoài việc phải bồi thường số tiền đã chiếm dụng, xâm tiêu, tham ô còn bị xử lý như sau:
 
-**ID:** dk_00053717
+Chiếm dụng, xâm tiêu tiền thuế theo quy định tại Điều 12 của Nghị định này, bị phạt tiền bằng 0,2 lần số tiền chiếm dụng;
 
----
+Tham ô tiền thuế bị phạt tiền bằng 0,5 lần số tiền tham ô. Sau khi đã nộp đủ tiền thuế và tiền phạt thì tuỳ theo mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự.
 
+2. Cán bộ thuế, cá nhân lợi dụng chức vụ, quyền hạn bao che cho người vi phạm thì bị kỷ luật, nếu tái phạm nhiều lần thì bị truy cứu trách nhiệm hình sự; ra các quyết định giảm thuế, miễn thuế không đúng, thông báo sai các quyết định giảm, miễn thuế, cố ý làm trái các quy định của pháp luật gây thiệt hại cho Nhà nước, hộ nộp thuế hoặc người bị xử lý thì phải bồi thường thiệt hại và tuỳ theo mức độ vi phạm mà bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.
 
-### Điều 33.7.NĐ.2.20.
+(Điều này có nội dung liên quan đến Điều 113. Xử lý vi phạm pháp luật về thuế đối với công chức quản lý thuế; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 33.7.TT.1.15.)
 
-*Nội dung chưa có sẵn*
+Chương VII
 
-**Chỉ mục:** 20
+KHIẾU NẠI VÀ THỜI HIỆU
 
-**Mã phân cấp:** 330070000000000060000290000000000000000000401758500740002000
+Điều 33.7.LQ.30.
 
-**ID:** dk_00053718
+(Điều 30 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Tổ chức, cá nhân có quyền khiếu nại việc thi hành không đúng Luật thuế sử dụng đất nông nghiệp. Trong khi chờ giải quyết, người khiếu nại phải nộp đủ và đúng thời hạn số thuế, tiền phạt đã được thông báo.
 
+Trong thời hạn 30 ngày, kể từ ngày nhận được thông báo nộp thuế, người nộp thuế có quyền khiếu nại. Đơn khiếu nại phải được gửi đến Uỷ ban nhân dân xã, phường, thị trấn nơi lập sổ thuế. Uỷ ban nhân dân xã, phường, thị trấn phải xem xét, có ý kiến và chuyển ngay lên Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh. Chi cục thuế có trách nhiệm trước Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh giải quyết khiếu nại trong thời hạn 30 ngày, kể từ ngày nhân đơn; đối với những vụ phức tạp, có thể kéo dài thời hạn, nhưng không quá 60 ngày. Quá thời hạn này mà chưa giải quyết, thì chi cục trưởng chi cục thuế phải chịu trách nhiệm về hậu quả do việc chậm xử lý gây ra.
 
-### Điều 33.7.LQ.30.
+Cơ quan thuế phải thoái trả số thuế, tiền phạt đã thu không đúng Luật trong thời hạn 30 ngày, kể từ ngày ra quyết định giải quyết khiếu nại; nếu quá thời hạn trên, thì mỗi ngày chậm thoái trả bị phạt tiền bằng 0,2% số tiền thuế, tiền phạt cho người được thoái trả.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Chương XIII KHIẾU NẠI, TỐ CÁO, KHỞI KIỆN; Điều 48. Nộp thuế trong thời gian giải quyết khiếu nại, khởi kiện; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 18.1.LQ.7. Trình tự khiếu nại; Điều 18.1.LQ.9. Thời hiệu khiếu nại; Điều 18.1.LQ.28. Thời hạn giải quyết khiếu nại lần đầu; Điều 18.1.LQ.37. Thời hạn giải quyết khiếu nại lần hai; Chương XVI KHIẾU NẠI, TỐ CÁO, KHỞI KIỆN; Điều 33.4.LQ.61. Nộp thuế trong thời gian giải quyết khiếu nại, khởi kiện; Điều 33.4.LQ.151. Hiệu lực thi hành)
 
-**Chỉ mục:** 30
+Điều 33.7.NĐ.2.22.
 
-**Mã phân cấp:** 3300700000000000700003000000000000000000
+(Điều 22 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053720
+1. Tất cả các tổ chức, cá nhân là hộ nộp thuế hay không phải là hộ nộp thuế đều có quyền khiếu nại và tố cáo việc thi hành không đúng Luật Thuế sử dụng đất nông nghiệp; hộ nộp thuế có quyền khiếu nại việc thi hành Luật Thuế sử dụng đất nông nghiệp không đúng đối với hộ mình; trong khi chờ giải quyết khiếu nại, hộ nộp thuế vẫn phải nộp đủ và đúng thời hạn số thuế, tiền phạt đã được thông báo. Nếu chậm nộp thuế hoặc tiền phạt vẫn bị xử lý như các trường hợp nộp chậm tiền thuế hoặc tiền phạt quy định tại Khoản 3 Điều 19 của Nghị định này.
 
----
+Riêng việc khiếu nại về số thuế phải nộp thì trong thời hạn 30 ngày kể từ ngày nhận được thông báo nộp thuế, hộ nộp thuế phải thực hiện ngay việc khiều nại với cơ quan đã thông báo cho mình.
 
+2. Đơn khiếu nại phải gửi đến cơ quan có thẩm quyền giải quyết theo trình tự từ thấp tới cao. Cơ quan Nhà nước nhận đơn khiếu nại về thuế không thuộc thẩm quyền giải quyết của mình thì trong 5 ngày phải chuyển đơn đó đến cơ quan có thẩm quyền giải quyết; đồng thời báo cho người khiếu nại biết.
 
-### Điều 33.7.NĐ.2.22.
+Nếu người khiếu nại không đồng ý với quyết định của cơ quan có thẩm quyền hoặc quá thời hạn 30 ngày mà chưa được giải quyết thì có quyền khiếu nại lên cơ quan có thẩm quyền cấp trên trực tiếp. Quyết định của cơ quan có thẩm quyền cấp trên trực tiếp có hiệu lực thi hành. Nếu người khiều nại vẫn chưa đồng ý với quyết định đó thì được quyền khiếu nại lên cơ quan trực tiếp cao nhất. Bộ trưởng Bộ Tài chính là người có thẩm quyền ra quyết định cuối cùng giải quyết đơn khiếu nại về thuế và chịu trách nhiệm về quyết định đó.
 
-*Nội dung chưa có sẵn*
+3. Việc thoái trả tiền thuế và tiền phạt được thực hiện bằng cách trả trực tiếp cho người nộp thuế hoặc trừ vào số thuế phải nộp năm sau.
 
-**Chỉ mục:** 22
+4. Nếu phát hiện và kết luận có sự nhầm lẫn về thuế thì cơ quan thuế phải truy thu hoặc truy hoàn số thuế nhầm lẫn đó bằng truy thu, truy hoàn trực tiếp hoặc cộng trừ vào số thuế phải nộp năm sau theo thoả thuận với hộ nộp thuế.
 
-**Mã phân cấp:** 330070000000000070000300000000000000000000401758500740002200
-
-**ID:** dk_00053721
-
----
-
-
-### Điều 33.7.TT.1.16. Khi nhận được đơn khiếu nại, thủ tục giải quyết như sau:
+(Điều này có nội dung liên quan đến Chương XIII KHIẾU NẠI, TỐ CÁO, KHỞI KIỆN; Điều 48. Nộp thuế trong thời gian giải quyết khiếu nại, khởi kiện; Điều 119. Hiệu lực thi hành của Luật 78/2006/QH11 Quản lý thuế ban hành ngày 29/11/2006; Điều 33.7.LQ.31.; Điều 33.7.LQ.32.; Điều 18.1.LQ.7. Trình tự khiếu nại; Điều 18.1.LQ.9. Thời hiệu khiếu nại; Điều 18.1.LQ.28. Thời hạn giải quyết khiếu nại lần đầu; Điều 18.1.LQ.37. Thời hạn giải quyết khiếu nại lần hai; Chương XVI KHIẾU NẠI, TỐ CÁO, KHỞI KIỆN; Điều 33.4.LQ.43. Hồ sơ khai thuế; Điều 33.4.LQ.44. Thời hạn nộp hồ sơ khai thuế; Điều 33.4.LQ.45. Địa điểm nộp hồ sơ khai thuế; Điều 33.4.LQ.61. Nộp thuế trong thời gian giải quyết khiếu nại, khởi kiện; Điều 33.4.LQ.151. Hiệu lực thi hành)
 
 Điều 33.7.TT.1.16. Khi nhận được đơn khiếu nại, thủ tục giải quyết như sau:
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 33007000000000007000030000000000000000000040175850074000220000801760000890001600
+1. Phân loại đơn khiếu nại của tổ chức, cá nhân khiếu nại về thuế theo tính chất của sự việc.
 
-**ID:** dk_00053722
+- Khiếu nại về việc xác định các căn cứ tính thuế như diện tích tính thuế, thuế ghi thu, thuế phải nộp...;
 
----
+- Khiếu nại về những chính sách mà tổ chức hoặc cá nhân nộp thuế được hưởng;
 
+- Khiếu nại về quyết định xử lý vi phạm của cơ quan thuế và Ủy ban nhân dân.
 
-### Điều 33.7.LQ.31.
+2. Xử lý đơn khiếu nại:
 
-*Nội dung chưa có sẵn*
+- Tổ chức kiểm tra việc thực hiện thi hành chính sách thuế của Ủy ban nhân dân và cơ quan thuế mà đơn khiếu nại đề cập;
 
-**Chỉ mục:** 31
+- Trực tiếp gặp người khiếu nại (nếu có điều kiện) hoặc những tổ chức, cá nhân có liên quan để tìm hiểu, kiểm tra xác minh tại chỗ, lập biên bản về từng vụ việc xác minh.
 
-**Mã phân cấp:** 3300700000000000700003100000000000000000
+- Căn cứ vào kết quả kiểm tra xác minh mà có kết luận về việc khiếu nại của công dân (tổ chức, cá nhân) để:
 
-**ID:** dk_00053723
+- Giải quyết kịp thời, nếu nội dung khiếu nại của đương sự là đúng.
 
----
++ Trả lời, giải thích cho đương sự nếu khiếu nại của đương sự là không đúng hoặc do chưa nắm được rõ chính sách.
 
+Trong khi xem xét giải quyết khiếu nại đồng thời phải hướng dẫn cho tổ chức, cá nhân nộp đủ và đúng thời hạn số thuế hoặc tiền phạt ấn định.
 
-### Điều 33.7.LQ.32.
+(Điều này có nội dung liên quan đến Mục 2 TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT KHIẾU NẠI LẦN ĐẦU; Mục 3 TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT KHIẾU NẠI LẦN HAI)
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.31.
 
-**Chỉ mục:** 32
+(Điều 31 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000700003200000000000000000
+Nếu người khiếu nại không đồng ý với quyết định của cơ quan nhận đơn hoặc quá thời hạn trên mà chưa giải quyết thì có quyền khiếu nại lên cơ quan cấp trên trực tiếp của cơ quan nhận đơn. Quyết định của cơ quan cấp trên trực tiếp có hiệu lực thi hành.
 
-**ID:** dk_00053724
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.22.)
 
----
+Điều 33.7.LQ.32.
 
+(Điều 32 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-### Điều 33.7.LQ.33.
+Nếu phát hiện và kết luận có sự nhầm lẵn về thuế, thì cơ quan thuế có quyền truy thu, truy hoàn số thuế đó.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 33.7.NĐ.2.22.)
 
-**Chỉ mục:** 33
+Chương VIII
 
-**Mã phân cấp:** 3300700000000000800003300000000000000000
+TỔ CHỨC THỰC HIỆN 
 
-**ID:** dk_00053726
+Điều 33.7.LQ.33.
 
----
+(Điều 33 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Chính phủ tổ chức thực hiện Luật thuế sử dụng đất nông nghiệp trong phạm vi cả nước.
 
-### Điều 33.7.LQ.34.
+Điều 33.7.LQ.34.
 
-*Nội dung chưa có sẵn*
+(Điều 34 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 34
+Bộ trưởng Bộ Tài chính chịu trách nhiệm chỉ đạo, kiểm tra việc thực hiện Luật thuế sử dụng đất nông nghiệp, quyết định cuối cùng về việc giải quyết khiếu nại.
 
-**Mã phân cấp:** 3300700000000000800003400000000000000000
+Thủ trưởng cơ quan Trung ương về quản lý đất đai chịu trách nhiệm tổ chức, chỉ đạo, kiểm tra việc khảo sát, đo đạc ruộng đất, việc lập sổ địa chính, việc cấp giấy chứng nhận quyền sử dụng đất cho từng hộ nộp thuế.
 
-**ID:** dk_00053727
+Điều 33.7.LQ.35.
 
----
+(Điều 35 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Chủ tịch Uỷ ban nhân dân các cấp chịu trách nhiệm chỉ đạo việc thực hiện và kiểm tra việc chấp hành Luật thuế và tổ chức thu thuế sử dụng đất nông nghiệp trong địa phương mình.
 
-### Điều 33.7.LQ.35.
+Điều 33.7.LQ.36.
 
-*Nội dung chưa có sẵn*
+(Điều 36 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 35
+Cơ quan thuế các cấp có nhiệm vụ và quyền hạn sau đây:
 
-**Mã phân cấp:** 3300700000000000800003500000000000000000
+1. Kiểm tra, tính thuế, lập sổ thuế, xem xét và đề nghị giảm thuế, miễn thuế;
 
-**ID:** dk_00053728
+2. Tổ chức thu thuế, nộp thuế và thanh, quyết toán kết quả thu thuế, nộp thuế;
 
----
+3. Có trách nhiệm trước Uỷ ban nhân dân cùng cấp giải quyết các khiếu nại, truy thu thuế và hoàn thuế theo quy định của Luật này;
 
+4. Ấ n định số thuế phải nộp theo quy định tại Điều 13 của Luật này;
 
-### Điều 33.7.LQ.36.
+5. Xử lý vi phạm theo thẩm quyền hoặc đề nghị truy cứu trách nhiệm hình sự.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.37.
 
-**Chỉ mục:** 36
+(Điều 37 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000800003600000000000000000
+Uỷ ban nhân dân các cấp được thành lập Hội đồng tư vấn thuế sử dụng đất nông nghiệp để giúp Uỷ ban nhân dân về việc xác định căn cứ tính thuế sử dụng đất nông nghiệp, đề nghị xét giảm thuế, miễn thuế.
 
-**ID:** dk_00053729
+Điều 33.7.NĐ.2.23.
 
----
+(Điều 23 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Bộ trưởng Bộ Tài chính có trách nhiệm chỉ đạo công tác thu thuế, kiểm tra, thanh tra về công tác thuế sử dụng đất nông nghiệp trong phạm vi cả nước, giải quyết các khiếu nại, kiến nghị về thuế sử dụng đất nông nghiệp.
 
-### Điều 33.7.LQ.37.
+Tổng Cục trưởng Tổng cục Quản lý ruộng đất có trách nhiệm xác định diện tích các loại đất, chỉ đạo và kiểm tra các địa phương lập sổ địa chính làm cơ sở cho việc xác định diện tích đất chịu thuế, phối hợp với Bộ trưởng Bộ Tài chính trình Thủ tướng Chính phủ phê chuẩn diện tích tính thuế của từng địa phương.
 
-*Nội dung chưa có sẵn*
+Tổng Cục trưởng Tổng cục Thống kê có trách nhiệm xác định năng suất bình quân trong 5 năm 1986 - 1990 của các loại cây trồng ở các địa phương cung cấp cho Bộ Tài chính và các cơ quan có liên quan.
 
-**Chỉ mục:** 37
+Bộ trưởng Bộ Nông nghiệp và Công nghiệp thực phẩm, Bộ trưởng Bộ Thuỷ sản, Bộ trưởng Bộ Lâm nghiệp và Tổng Cục trưởng Tổng cục Quản lý ruộng đất có trách nhiệm phối hợp với Bộ trưởng Bộ Tài chính chỉ đạo, hướng dẫn phân hạng đất tính thuế.
 
-**Mã phân cấp:** 3300700000000000800003700000000000000000
+Điều 33.7.NĐ.2.24.
 
-**ID:** dk_00053730
+(Điều 24 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm:
 
+a) Chỉ đạo, tổ chức thực hiện công tác thuế sử dụng đất nông nghiệp ở địa phương mình;
 
-### Điều 33.7.NĐ.2.23.
+b) Xác định diện tích tính thuế báo cáo Bộ Tài chính để trình Thủ tướng Chính phủ phê chuẩn;
 
-*Nội dung chưa có sẵn*
+c) Căn cứ tiêu chuẩn từng hạng đất và thực tế sản xuất của địa phương, chỉ đạo việc phân hạng đất tính thuế ở địa phương mình;
 
-**Chỉ mục:** 23
+d) Duyệt sổ thuế, quyết định việc tổ chức thu thuế, công bố thời gian thu thuế, quyết định giá thu thuế bằng tiền trong từng vụ thuế, quyết định giảm, miễn thuế theo đề nghị của Cục trưởng Cục Thuế.
 
-**Mã phân cấp:** 3300700000000000800003740175850074000230
+Điều 33.7.NĐ.2.25.
 
-**ID:** dk_00053731
+(Điều 25 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Chủ tịch Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có nhiệm vụ chỉ đạo thực hiện công tác thuế sử dụng đất nông nghiệp trong địa phương mình:
 
+a) Căn cứ vào tiêu chuẩn của hạng đất và hướng dẫn của Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương, chỉ đạo việc phân hạng đất tính thuế, duyệt sổ thuế của các xã, phường, thị trấn và các đơn vị trực thuộc báo cáo Uỷ ban nhân dân và cơ quan thuế cấp trên;
 
-### Điều 33.7.NĐ.2.24.
+b) Đề nghị với Chủ tịch Uỷ ban nhân dân cấp trên về giảm, miễn thuế; chuyển đơn khiếu nại về thuế cho Chi cục Thuế; chỉ đạo các ngành và Uỷ ban nhân dân các xã, phường, thị trấn phối hợp và giúp đỡ cơ quan thuế tổ chức thu nộp thuế sử dụng đất nông nghiệp.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.2.26.
 
-**Chỉ mục:** 24
+(Điều 26 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000800003740175850074000240
+Chủ tịch Uỷ ban nhân dân xã, phường, thị trấn có nhiệm vụ trực tiếp tổ chức thực hiện công tác thuế sử dụng đất nông nghiệp tại địa phương mình:
 
-**ID:** dk_00053732
+a) Căn cứ vào các quy định của cơ quan Nhà nước có thẩm quyền, tổ chức việc kiểm kê và xác định diện tích đất chịu thuế, phân hạng đất, tính thuế, lập sổ thuế, tổ chức thu nộp thuế; đề nghị Uỷ ban nhân dân cấp trên về giảm, miễn thuế theo đề nghị của Hội đồng Tư vấn thuế xã, phường, thị trấn; thông báo quyết định giảm, miễn thuế của cấp có thẩm quyền tới từng hộ nộp thuế.
 
----
+b) Chuyển đơn khiếu nại về thuế lên Uỷ ban nhân dân cấp trên.
 
+Điều 33.7.NĐ.2.27.
 
-### Điều 33.7.NĐ.2.25.
+(Điều 27 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-*Nội dung chưa có sẵn*
+1. Tổng Cục trưởng Tổng cục Thuế có trách nhiệm giúp Bộ trưởng Bộ Tài chính chỉ đạo công tác thuế sử dụng đất nông nghiệp trong phạm vi cả nước:
 
-**Chỉ mục:** 25
+Tổ chức chỉ đạo và kiểm tra, thanh tra việc xác định diện tích tính thuế, phân hạng đất tính thuế, lập sổ thuế, tổ chức thu thuế, thực hiện giảm, miễn thuế và thanh quyết toán thu nộp thuế trong phạm vi cả nước;
 
-**Mã phân cấp:** 3300700000000000800003740175850074000250
+Tổng hợp và phân tích diện tích và hạng đất tính thuế của các địa phương, chuẩn bị các tài liệu cần thiết để Bộ trưởng Bộ Tài chính trình Thủ tướng Chính phủ phê chuẩn làm căn cứ lập sổ thuế và tổ chức thu thuế;
 
-**ID:** dk_00053733
+Đề nghị Bộ trưởng Bộ Tài chính bãi bỏ quyết định không đúng về giảm thuế, miễn thuế;
 
----
+Chuẩn bị cho Bộ trưởng Bộ Tài chính giải quyết các khiếu nại và tố cáo về thuế sử dụng đất nông nghiệp.
 
+2. Cục trưởng Cục thuế và Chi cục trưởng Chi cục Thuế có trách nhiệm và quyền hạn:
 
-### Điều 33.7.NĐ.2.26.
+Tổ chức chỉ đạo kiểm tra, thanh tra và thực hiện việc xác định diện tích và hạng đất tính thuế, lập sổ thuế trình Uỷ ban nhân dân cùng cấp và báo cáo cơ quan thuế cấp trên;
 
-*Nội dung chưa có sẵn*
+Xem xét và đề nghị với Uỷ ban nhân dân cùng cấp và báo cáo với cơ quan thuế cấp trên về giảm, miễn thuế ở địa phương; thực hiện đúng các quyết định giảm, miễn thuế;
 
-**Chỉ mục:** 26
+Tổ chức thu thuế, nộp thuế và thanh quyết toán kết quả thu thuế, nộp thuế, báo cáo với Uỷ ban nhân dân cùng cấp và cơ quan thuế cấp trên;
 
-**Mã phân cấp:** 3300700000000000800003740175850074000260
+Thực hiện công tác nghiệp vụ và báo cáo định kỳ về thuế với cơ quan thuế cấp trên theo quy định của Bộ Tài chính;
 
-**ID:** dk_00053734
+ấn định số thuế phải nộp theo quy định tại Điều 9 của Nghị định này;
 
----
+Có trách nhiệm trước Uỷ ban nhân dân cùng cấp về việc giải quyết các khiếu nại tố cáo về thuế; truy thu thuế và hoàn thuế;
 
+Xử lý vi phạm theo thẩm quyền.
 
-### Điều 33.7.NĐ.2.27.
+Điều 33.7.NĐ.2.28.
 
-*Nội dung chưa có sẵn*
+(Điều 28 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 27
+a) Uỷ ban nhân dân các cấp được thành lập Hội đồng Tư vấn thuế sử dụng đất nông nghiệp để giúp Uỷ ban nhân dân về việc xác định diện tích tính thuế; phân hạng đất tính thuế; xem xét và đề nghị các trường hợp được xét giảm thuế, miễn thuế.
 
-**Mã phân cấp:** 3300700000000000800003740175850074000270
+b) Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định thành phần Hội đồng Tư vấn thuế sử dụng đất nông nghiệp ở cấp tỉnh và huyện. Thành phần Hội đồng Tư vấn thuế ở xã gồm:
 
-**ID:** dk_00053735
+Chủ tịch Hội đồng: Chủ tịch hoặc Phó Chủ tịch Uỷ ban nhân dân xã;
 
----
+Uỷ viên thường trực: Người phụ trách công tác thuế của xã;
 
+Các uỷ viên: Trưởng thôn (xóm) ấp, bản;
 
-### Điều 33.7.NĐ.2.28.
+Đại diện Hội nông dân xã;
 
-*Nội dung chưa có sẵn*
+Cán bộ quản lý ruộng đất xã;
 
-**Chỉ mục:** 28
+Cán bộ thống kê xã.
 
-**Mã phân cấp:** 3300700000000000800003740175850074000280
+(Điều này có nội dung liên quan đến Điều 33.7.TT.2.1. Nhiệm vụ của Hội đồng tư vấn thuế sử dụng đất nông nghiệp các cấp; Điều 33.7.TT.2.2. Hoạt động của Hội đồng tư vấn thuế các cấp)
 
-**ID:** dk_00053736
+Điều 33.7.NĐ.2.29.
 
----
+(Điều 29 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Bộ Tài chính đảm bảo kinh phí cho việc thu thuế ở xã và hoạt động của Hội đồng Tư vấn thuế các cấp.
 
-### Điều 33.7.NĐ.2.29.
+Bộ trưởng, Trưởng ban Ban Tổ chức - Cán bộ Chính phủ phối hợp với Bộ trưởng Bộ Tài chính chịu trách nhiệm củng cố và tăng cường lực lượng thu thuế ở xã, phường, thị trấn, đảm bảo Luật Thuế sử dụng đất nông nghiệp được chấp hành nghiêm túc.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 33.7.TT.2.3. Kinh phí hoạt động của Hội đồng tư vấn thuế sử dụng đất nông nghiệp; Điều 33.7.TT.5.1. Quy định chung; Điều 33.7.TT.5.2. Quy định cụ thể)
 
-**Chỉ mục:** 29
+Điều 33.7.TT.1.17.
 
-**Mã phân cấp:** 3300700000000000800003740175850074000290
+(Điều 17 Thông tư số 89/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053737
+1. Cơ quan thuế các cấp có nhiệm vụ giúp chính quyền các cấp chỉ đạo các ngành có liên quan và Ủy ban nhân dân cấp dưới thực hiện việc thi hành Luật Thuế sử dụng đất nông nghiệp tại địa phương mình.
 
----
+2. Theo quy định tại Điều 29 Nghị định số 74/CP ngày 25-10-1993 của Chính phủ: Hàng năm, Tổng cục Thuế được trích số tiền bằng 4,5% trên số thuế sử dụng đất nông nghiệp thu được đảm bảo kinh phí cho đội thuế xã thực hiện việc thu thuế ở xã và hoạt động của Hội đồng tư vấn thuế các cấp. Khoản kinh phí này do ngân sách trung ương chi, Bộ Tài chính cấp theo kế hoạch từng tháng, quý cho Tổng cục Thuế như các khoản kinh phí khác, cuối năm thanh quyết toán số thuế thực thu.
 
+3. Thông tư này có hiệu lực thi hành kể từ ngày 01-01-1994. Những quy định trước đây về thuế nông nghiệp của Bộ Tài chính chỉ có hiệu lực thi hành đến hết ngày 31-12-1993. Riêng việc kê khai diện tích thuế, phân hạng đất tính thuế và lập sổ thuế năm 1994 được thi hành từ ngày 25-10-1993.
 
-### Điều 33.7.TT.1.17.
+4. Các Bộ, các ngành, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương trong khi thi hành Luật Thuế sử dụng đất nông nghiệp, Nghị định của Chính phủ và Thông tư hướng dẫn này, nếu có điều gì chưa rõ cần phản ánh kịp thời cho Bộ Tài chính.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.1.18.
 
-**Chỉ mục:** 17
+((Thông tư số 03/TC-TCT, có hiệu lực thi hành kể từ ngày 01/01/1997))
 
-**Mã phân cấp:** 3300700000000000800003780176000089000170
+Thông tư này có hiệu lực thi hành từ ngày 01/01/1997. Mọi quy định trước đây trái với Thông tư này đều bãi bỏ. Quá trình thực hiện Thông tư này có khó khăn vướng mắc, đề nghị các ngành, các địa phương kịp thời phản ánh về Bộ Tài chính (Tổng cục Thuế) để hướng dẫn giải quyết.
 
-**ID:** dk_00053738
+Điều 33.7.TT.1.19.
 
----
+((Thông tư số 59/TC-TCT Hướng dẫn bổ sung về tính giảm, miễn thuế sử dụng đất nông nghiệp khi có thiên tai địch hoạ ngày 01/09/1997 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 16/09/1997))
 
+Thông tư này có hiệu lực áp dụng cho việc xét giảm, miễn thuế từ vụ xuân hè năm 1997.
 
-### Điều 33.7.TT.1.18.
+Trong quá trình thực hiện nếu có vướng mắc gì đề nghị phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.QĐ.1.20.
 
-**Chỉ mục:** 18
+((Điều 3 Quyết định số 58/2008/QĐ-BTC Về việc bãi bỏ quy định thu thuế sử dụng đất nông nghiệp đối với đất nông nghiệp thuộc quỹ đất dành cho nhu cầu công ích của xã tại Thông tư số 89/TC-TCT ngày 09/11/1993 của Bộ Tài chính ngày 21/07/2008 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 17/08/2008))
 
-**Mã phân cấp:** 3300700000000000800003780176000089550180
+Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
-**ID:** dk_00053739
+Điều 33.7.QĐ.1.21.
 
----
+((Điều 4 Quyết định số 58/2008/QĐ-BTC, có hiệu lực thi hành kể từ ngày 17/08/2008))
 
+Các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
 
-### Điều 33.7.TT.1.19.
+Điều 33.7.TL.1.5. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 5 Thông tư liên tịch số 92/TT-LB, có hiệu lực thi hành kể từ ngày 10/11/1993)
 
-**Chỉ mục:** 19
+1. Uỷ ban nhân dân các cấp có trách nhiệm chỉ đạo các ngành: thuế, nông nghiệp, quản lý ruộng đất và Uỷ ban nhân dân cấp dưới thực hiện công tác phân hạng đất tính thuế sử dụng đất nông nghiệp.
 
-**Mã phân cấp:** 3300700000000000800003780176000089550190
+2. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 11 năm 1993. Những quy định về phân hạng đất tính thuế nông nghiệp trước đây chỉ có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 1993.
 
-**ID:** dk_00053740
+Điều 33.7.TT.2.4.
 
----
+(Điều 4 Thông tư số 21 - TC/TCT, có hiệu lực thi hành kể từ ngày 18/03/1994)
 
+Căn cứ vào hướng dẫn trên đây, UBND các tỉnh, thành phố trực thuộc Trung ương quy định cụ thể cho phù hợp với đặc điểm ở địa phương mình và trong quá trình thực hiện, nếu có vướng mắc gì các địa phương phản ánh cho Bộ Tài chính xử lý.
 
-### Điều 33.7.QĐ.1.20.
+Điều 33.7.TT.3.4. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 4 Thông tư số 60 TC/TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 20
+1. UBND các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thực hiện công tác giảm, miễn thuế sử dụng đất nông nghiệp thuộc địa phương mình; chỉ đạo Cục thuế và các ngành có liên quan, UBND cấp huyện, quận, thị xã thực hiện công tác giảm, miễn thuế sử dụng đất nông nghiệp theo quy định tại Nghị định số 74/CP ngày 25/10/1993 của Chính phủ, Thông tư số 89 TC/TCT ngày 9/11/1993 của Bộ Tài chính và các nội dung hướng dẫn tại Thông tư này.
 
-**Mã phân cấp:** 3300700000000000800003780176000089550200
+2. Hội đồng tư vấn thuế sử dụng đất nông nghiệp các cấp phối hợp với ngành thuế giúp UBND các cấp xét duyệt các đối tượng trường hợp giảm, miễn thuế sử dụng đất nông nghiệp để ngành thuế tổng hợp trình  UBND cùng cấp xét duyệt.
 
-**ID:** dk_00053741
+3. Thông tư này có hiệu lực thi hành từ năm thuế sử dụng đất nông nghiệp 1994.
 
----
+Điều 33.7.TT.4.5. Tổ chức thực hiện
 
+(Điều 5 Thông tư số 82-TC/TCT, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-### Điều 33.7.QĐ.1.21.
+Thông tư này có hiệu lực thi hành từ ngày 01-01-1994.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.6.4. Tổ chức thực hiện:
 
-**Chỉ mục:** 21
+(Điều 4 Thông tư số 79/2000/TT-BTC, có hiệu lực thi hành kể từ ngày 28/07/2000)
 
-**Mã phân cấp:** 3300700000000000800003780176000089550210
+1. Chủ tịch UBND các tỉnh có trách nhiệm: Chỉ đạo cơ quan thuế và các ngành có liên quan ở địa phương nghiên cứu quy định cụ thể tiêu chí xác định hộ đói, hộ nghèo, hộ sản xuất nông nghiệp có nhiều khó khăn để làm cơ sở cho việc xét duyệt giảm, miễn thuế SDĐNN ở địa phương kịp thời, đúng đối tượng. Chỉ đạo, kiểm tra các cơ quan chức năng thực hiện việc xét miễn giảm thuế SDĐNN và thông báo công khai, kịp thời cho hộ thuộc diện được miễn giảm thuế biết; Chỉ đạo các cơ quan thông tin, tuyên truyền ở địa phương tuyên truyền, giải thích chính sách miễn, giảm thuế SDĐNN, của Nhà nước để nhân dân biết và thực hiện.
 
-**ID:** dk_00053742
+2. Cơ quan thuế phối hợp với các ngành cùng Hội đồng tư vấn thuế làm tham mưu choUBND các cấp trong việc xác định miễn giảm thuế SDĐNN. 
 
----
+Những vùng bị bão, lũ lụt thiệt hại lớn, phải miễn giảm đồng loạt, đội thuế phường, xã phối hợp với các ngành chức năng để lập danh sách, hồ sơ theo hộ và xác định số thuế được miễn giảm của từng hộ, tổng hợp báo cáo UBND phường, xã ra thông báo công khai theo từng thôn, bản.
 
+Những thôn, xã bị thiệt hại ít hoặc chỉ một số hộ bị thiệt hại, số hộ nghèo đói, hộ sản xuất và đời sống có nhiều khó khăn nhỏ lẻ thì cơ quan thuế phối hợp với chính quyền địa phương hướng dẫn hộ nộp thuế làm đơn và lập hồ sơ từng hộ làm cơ sở xét miễn hoặc giảm thuế theo quy định tại Thông tư này.
 
-### Điều 33.7.TL.1.5. Tổ chức thực hiện
+3. Thông tư này có hiệu lực từ ngày ký. Các quy định miễn giảm thuế sử dụng đất nông nghiệp không trái với quy định tại Thông tư này vẫn có hiệu lực thi hành. Trong quá trình thực hiện nếu còn vướng mắc, đề nghị các địa phương phản ánh về Bộ Tài chính để nghiên cứu xử lý.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.7.4. Tổ chức thực hiện
 
-**Chỉ mục:** 5
+(Điều 4 Thông tư số 105/2000/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2000)
 
-**Mã phân cấp:** 3300700000000000800003780176010092000050
+1. UBND tỉnh, thành phố chỉ đạo Cục thuế và các ngành chức năng có liên quan ở địa phương hướng dẫn, tổ chức thực hiện việc xử lý nợ thuế SDĐNN, nhà đất từ năm 1999 trở về trước theo đúng quyết định số 105/2000/QĐ-TTg và hướng dẫn tại Thông tư này.
 
-**ID:** dk_00053743
+2. Cơ quan thuế các cấp có trách nhiệm giúp chính quyền các cấp chỉ đạo cơ quan thuế cấp dưới cùng các ngành có liên quan và UBND cấp dưới thực hiện việc kiểm tra, phân loại, xử lý nợ thuế SDĐNN, nhà đất từ năm 1999 trở về trước ở địa phương mình, báo cáo UBND cùng cấp xét duyệt. Cục thuế tỉnh, thành phố kiểm tra, tổng hợp miễn nộp nợ thuế SD ĐNN, nhà đất từ năm 1999 trở về trước, báo cáo hội đồng tư vấn thuế xem xét trình UBND tỉnh quyết định.
 
----
+3. Chủ trương miễn nộp nợ thuế SDĐNN, nhà đất từ năm 1999 trở về trước là một chủ trương lớn của Đảng và Chính phủ nhằm giảm bớt khó khăn về đời sống cho các đối tượng nợ thuế SDĐNN, nhà đất không có khả năng nộp thuế, UBND tỉnh chỉ đạo cơ quan thông tấn (báo, đài ở địa phương) tổ chức việc tuyên truyền sâu rộng tới mọi tổ chức, cá nhân để họ hiểu biết và kiểm tra thực hiện.
 
+Thông tư này có hiệu lực thi hành kể từ ngày ký; Trong quá trình thực hiện, nếu có vướng mắc, các địa phương phản ánh về Bộ Tài chính để hướng dẫn giải quyết.
 
-### Điều 33.7.TT.2.4.
+Điều 33.7.TT.8.3. Tổ chức thực hiện:
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư số 09/2002/TT-BTC, có hiệu lực thi hành kể từ ngày 06/02/2002)
 
-**Chỉ mục:** 4
+1. Chủ tịch UBND các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm:
 
-**Mã phân cấp:** 3300700000000000800003780177290000000040
+- Công bố hoặc chỉ đạo cơ quan có thẩm quyền công bố danh sách các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa theo Chương trình 135 của Chính phủ và danh sách các hộ nghèo thuộc diện được miễn thuế sử dụng đất nông nghiệp theo Quyết định số 199/2001/QĐ-TTg ngày 28/12/2001 của Thủ tướng Chính phủ.
 
-**ID:** dk_00053744
+- Quyết định miễn, giảm thuế SDĐNN theo đề nghị của cơ quan thuế.
 
----
+- Chỉ đạo, kiểm tra các cơ quan chức năng thực hiện việc xét miễn, giảm thuế sử dụng đất nông nghiệp và thông báo công khai, kịp thời cho các hộ nộp thuế biết; Chỉ đạo các cơ quan thông tin, tuyên truyền ở địa phương đẩy mạnh công tác tuyên truyền, giải thích chính sách miễn, giảm thuế của Nhà nước để dân biết và thực hiện.
 
+2. Khi chưa xác định được số miễn giảm thuế chính thức hoặc số được miễn giảm do thiên tai, cơ quan thuế căn cứ vào sổ bộ thuế để xác định số tạm giảm; số thuế còn phải thu để thực hiện thu thuế.
 
-### Điều 33.7.TT.3.4. Tổ chức thực hiện
+3. Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày ký và được thực hiện để xét miễn, giảm thuế sử dụng đất nông nghiệp từ năm 2002 trở đi; các chế độ miễn giảm thiên tai, miễn giảm chính sách xã hội khác vẫn thực hiện theo các quy định hiện hành. Trường hợp các quy định của Bộ Tài chính hướng dẫn về miễn, giảm thiên tai, chính sách xã hội trái với quy định của Thông tư này thì thực hiện theo quy định của Thông tư này.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.9.6. Tổ chức thực hiện
 
-**Chỉ mục:** 4
+(Điều 6 Thông tư số 120/2011/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2011)
 
-**Mã phân cấp:** 3300700000000000800003780178470000000040
+1. Lập sổ thuế hàng năm:
 
-**ID:** dk_00053745
+Căn cứ sổ thuế Sử dụng đất nông nghiệp năm 2010 và tình tình thực tế tại địa phương, Chi cục thuế phối hợp với Uỷ ban nhân dân cấp xã xác định đối tượng được miễn thuế, đối tượng được giảm thuế, đối tượng phải nộp 100% thuế sử dụng đất nông nghiệp từ năm 2011 trở đi để lập sổ thuế như sau:
 
----
+1.1. Lập sổ thuế gốc để theo dõi đối tượng Sử dụng đất nông nghiệp:
 
+Sổ thuế gốc được lập phải thể hiện toàn bộ diện tích đất sản xuất nông nghiệp của tổ chức, hộ gia đình, cá nhân gồm: Tổng diện tích đất sản xuất nông nghiệp của tổ chức, hộ gia đình, cá nhân; diện tích đất nông nghiệp thuộc diện miễn thuế quy định tại Điều 1 Nghị định số 20/2011/NĐ-CP; diện tích đất nông nghiệp thuộc diện được giảm thuế Sử dụng đất nông nghiệp quy định tại Điều 2 Nghị định số 20/2011/NĐ-CP; diện tích đất vượt hạn mức nhận chuyển quyền Sử dụng đất nông nghiệp phải nộp thuế sử dụng đất nông nghiệp 100% và các trường hợp phải nộp thuế sử dụng đất nông nghiệp 100% khác.
 
-### Điều 33.7.TT.4.5. Tổ chức thực hiện
+Sau khi Sổ thuế gốc được lập xong, trích chuyển phần diện tích được giảm thuế 50% (phải nộp thuế sử dụng đất nông nghiệp 50% số thuế ghi thu) và phần diện tích phải nộp thuế sử dụng đất nông nghiệp 100% sang sổ thuế theo dõi thu quy định tại điểm 1.2 dưới đây để quản lý thu thuế.
 
-*Nội dung chưa có sẵn*
+Đối tượng được miễn thuế chỉ phải lập hồ sơ thủ tục xét miễn thuế sử dụng đất nông nghiệp một lần cho nhiều năm.
 
-**Chỉ mục:** 5
+Người nộp thuế đã lập hồ sơ thủ tục xét miễn thuế sử dụng đất nông nghiệp và đã có tên trong sổ thuế gốc miễn thuế từ năm 2010, nay thuộc đối tượng được miễn thuế theo Nghị định số 20/2011/NĐ-CP thì không phải kê khai lại và làm lại hồ sơ xét miễn thuế, cơ quan thuế thực hiện chuyển sổ theo dõi từ sổ thuế năm 2010 sang sổ thuế năm 2011.
 
-**Mã phân cấp:** 3300700000000000800003780179320000000050
+Trường hợp trong năm nếu có sự thay đổi về căn cứ tính thuế thì người nộp thuế phải thực hiện kê khai lại và nộp cho Uỷ ban nhân dân cấp xã để điều chỉnh sổ thuế.
 
-**ID:** dk_00053746
+Đối tượng thuộc diện được miễn thuế theo sổ thuế gốc là căn cứ để theo dõi đối tượng được miễn thuế từ năm thuế 2011 đến năm thuế 2020.
 
----
+1.2. Lập sổ thuế để theo dõi đối tượng phải nộp 50% và đối tượng phải nộp 100% thuế sử dụng đất nông nghiệp hàng năm (gọi là Sổ theo dõi thu thuế).
 
+Căn cứ sổ theo dõi thu thuế, cơ quan thuế thực hiện theo dõi thu nộp và xét giảm thuế hàng năm theo quy định hiện hành.
 
-### Điều 33.7.TT.6.4. Tổ chức thực hiện:
+Sổ theo dõi thu thuế được lập một lần (trích chuyển ra từ Sổ thuế gốc). Trường hợp trong năm nếu có sự thay đổi về căn cứ thuế thì người nộp thuế phải thực hiện kê khai lại và nộp hồ sơ kê khai cho Uỷ ban nhân dân cấp xã để điều chỉnh sổ thuế.
 
-*Nội dung chưa có sẵn*
+Việc quyết toán thuế sử dụng đất nông nghiệp và quy trình lập sổ thuế đối với đối tượng phải nộp thuế sử dụng đất nông nghiệp thực hiện theo hướng dẫn tại Thông tư số 89-TC/TCT ngày 9/11/1993 của Bộ Tài chính hướng dẫn thi hành Nghị định số 74/CP ngày 25/10/1993 của Chính phủ quy định chi tiết thi hành Luật thuế sử dụng đất nông nghiệp.
 
-**Chỉ mục:** 4
+2. Đối với các hộ gia đình, cá nhân là nông, lâm trường viên, xã viên HTX nhận đất khoán ổn định của nông trường, lâm trường:
 
-**Mã phân cấp:** 3300700000000000800003780200530079000040
+Trường hợp đang được miễn, giảm thuế theo Nghị quyết 15/2003/QH11 ngày 17/6/2003 của Quốc hội thì thực hiện theo quy định tại khoản 1 Điều 6 Thông tư này.
 
-**ID:** dk_00053747
+Trường hợp chưa được miễn, giảm thuế theo Nghị quyết 15/2003/QH11, nay thuộc đối tượng miễn, giảm thuế sử dụng đất nông nghiệp theo Nghị quyết 55/2010/QH12 và Nghị định 20/2011/NĐ-CP thì thực hiện như sau: Chi cục thuế phối hợp với các nông, lâm trường phát tờ khai tính thuế sử dụng đất nông nghiệp cho hộ nhận khoán; kiểm tra đối chiếu tờ khai tính thuế với hợp đồng giao khoán về diện tích đất, hạng đất và số thuế sử dụng đất nông nghiệp ghi thu hàng năm của từng hộ và đưa vào sổ thuế gốc làm căn cứ xét duyệt miễn, giảm thuế trực tiếp đến từng hộ nộp thuế.
 
----
+3. Đối với các hộ gia đình, cá nhân góp ruộng đất vào thành lập Hợp tác xã sản xuất nông nghiệp, cơ quan Thuế căn cứ vào giấy chứng nhận quyền sử dụng đất sản xuất nông nghiệp của từng hộ, trường hợp chưa được cấp giấy chứng nhận quyền sử dụng đất thì căn cứ vào kê khai của từng hộ khi gia nhập Hợp tác xã có xác nhận của Uỷ ban nhân dân cấp xã để lập sổ thuế gốc theo quy định tại khoản 1 Điều này.
 
+4. Đối với các hộ gia đình, cá nhân có diện tích đất sản xuất nông nghiệp ở các xã khác nhau thì thực hiện như sau:
 
-### Điều 33.7.TT.7.4. Tổ chức thực hiện
+Trình tự xét miễn thuế Sử dụng đất nông nghiệp ở các xã nơi hộ sản xuất nông nghiệp không có hộ khẩu thường trú trước; Sau đó mới xét miễn thuế cho phần diện tích đất sản xuất nông nghiệp ở xã nơi hộ nộp thuế có hộ khẩu thường trú, cụ thể là:
 
-*Nội dung chưa có sẵn*
+Hộ có diện tích đất sản xuất nông nghiệp ở các xã khác nhau có trách nhiệm kê khai vào tờ khai ban hành kèm theo Thông tư này có xác nhận của Uỷ ban nhân dân cấp xã nơi có đất sản xuất nông nghiệp về diện tích đất, hạng đất tính thuế, số thuế đã được miễn, giảm.
 
-**Chỉ mục:** 4
+Căn cứ vào xác nhận này, Uỷ ban nhân dân cấp xã nơi hộ có hộ khẩu thường trú cộng toàn bộ diện tích để xác định diện tích đất sản xuất nông nghiệp trong hạn mức được miễn thuế và diện tích đất vượt hạn mức giao đất nông nghiệp nhưng không quá hạn mức nhận chuyển quyền sử dụng đất nông nghiệp được giảm thuế Sử dụng đất nông nghiệp, diện tích đất vượt hạn mức nhận chuyển quyền sử dụng đất nông nghiệp phải nộp 100% thuế nông nghiệp, xác nhận đối tượng và diện tích được miễn, giảm cụ thể của từng hộ sau đó thông báo bằng văn bản cho Chi cục Thuế huyện để thực hiện việc miễn, giảm thuế Sử dụng đất nông nghiệp và thông báo cho Uỷ ban nhân dân cấp xã nơi hộ có đất sản xuất nông nghiệp biết để theo dõi quản lý.
 
-**Mã phân cấp:** 3300700000000000800003780201400105000040
+Trường hợp hộ có đất sản xuất nông nghiệp ở địa phương khác nơi đăng ký hộ khẩu thường trú, nhưng hộ không kê khai và không có xác nhận của Uỷ ban nhân dân cấp xã nơi hộ có đất sản xuất nông nghiệp và gửi cho Uỷ ban nhân dân cấp xã nơi có hộ khẩu thường trú thì không được xét miễn thuế sử dụng đất nông nghiệp, mà chỉ được xét giảm thuế sử dụng đất nông nghiệp đối với diện tích không vượt quá hạn mức nhận chuyển quyền sử dụng đất nông nghiệp, diện tích đất vượt hạn mức nhận chuyển quyền sử dụng đất nông nghiệp phải nộp 100% thuế nông nghiệp.
 
-**ID:** dk_00053748
+Ví dụ 3: Hộ Ông A là nông dân có 2 ha đất trồng cây hàng năm ở xã H, tỉnh B nơi Ông có hộ khẩu thường trú thuộc Đông Nam bộ (hạn mức đất sản xuất nông nghiệp cây hàng năm được quy định là 3 ha, hạn mức nhận chuyển quyền sử dụng đất nông nghiệp là 20 ha). Ở xã K nơi ông A không có hộ khẩu thường trú có diện tích đất trồng cây hàng năm là 4 ha và đã được Uỷ ban nhân dânxã K xác nhận; thuế ghi thu bình quân trên toàn bộ diện tích là 500 kg/ha.
 
----
+Căn cứ vào xác nhận của Uỷ ban nhân dân xã K về đất sản xuất nông nghiệp của Ông A là 4 ha. Uỷ ban nhân dân xã H xác định tổng diện tích đất sản xuất nông nghiệp trồng cây hàng năm của Ông A là 6 ha. Theo quy định Ông A được miễn, giảm thuế như sau:
 
+Ông A được miễn thuế sử dụng đất nông nghiệp cho 3 ha đất trong hạn mức ở xã K, còn 3 ha đất vượt hạn mức (1 ha ở xã K và 2 ha ở xã H) được giảm 50% số thuế ghi thu. Uỷ ban nhân dân xã H nơi ông A có hộ khẩu thường trú thông báo bằng văn bản cho Uỷ ban nhân dân xã K biết để thực hiện việc miễn thuế sử dụng đất nông nghiệp của Ông A ở xã K là 3 ha, còn 1 ha được giảm 50% thuế sử dụng đất nông nghiệp ghi thu hàng năm, đồng thời thông báo cho Chi cục thuế ở huyện có xã K biết để theo dõi, quản lý.
 
-### Điều 33.7.TT.8.3. Tổ chức thực hiện:
+Trường hợp Ông A không kê khai và không có xác nhận của Uỷ ban nhân dân xã K thì Ông A chỉ được miễn thuế Sử dụng đất nông nghiệp 2 ha ở xã H, còn lại 4 ha ở xã K chỉ được giảm 50% số thuế ghi thu.
 
-*Nội dung chưa có sẵn*
+5. Đối với số thuế sử dụng đất nông nghiệp đã tạm thu năm 2011, cuối năm phải thực hiện thanh quyết toán theo sổ thuế được lập theo quy định.
 
-**Chỉ mục:** 3
+6. Việc kê khai, thời hạn thông báo thuế và nộp thuế, bù trừ tiền thuế, hoàn thuế, xử phạt vi phạm về thuế thực hiện theo quy định của Luật quản lý thuế và các văn bản hướng dẫn thi hành Luật quản lý thuế.
 
-**Mã phân cấp:** 3300700000000000800003780205970009000030
+7. Đối tượng được miễn, giảm thuế sử dụng đất nông nghiệp không quy định tại Nghị quyết số 55/2010/QH12 và Nghị định số 20/2011/NĐ-CP, nhưng được quy định tại Luật thuế sử dụng đất nông nghiệp năm 1993 và các văn bản hướng dẫn thi hành Luật thuế sử dụng đất nông nghiệp 1993 thì thực hiện miễn, giảm theo quy định tại các văn bản đó.
 
-**ID:** dk_00053749
+8. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn để cho hộ gia đình, cá nhân thuê thuộc đối tượng không chịu thuế sử dụng đất nông nghiệp theo quy định của Luật Thuế sử dụng đất nông nghiệp và các văn bản hướng dẫn thi hành, không thuộc đối tượng được miễn, giảm thuế sử dụng đất nông nghiệp theo quy định tại Nghị định số 20/2011/NĐ-CP và hướng dẫn tại Thông tư này.
 
----
+9. Người nộp thuế thuộc trường hợp được hưởng cả miễn, giảm thuế sử dụng đất nông nghiệp theo quy định tại Nghị quyết số 55/2010/QH12, Nghị định số 20/2011/NĐ-CP và quy định của Luật thuế sử dụng đất nông nghiệp thì được hưởng mức miễn, giảm thuế sử dụng đất nông nghiệp cao nhất.
 
+Chương IX
 
-### Điều 33.7.TT.9.6. Tổ chức thực hiện
+ĐIỀU KHOẢN THI HÀNH
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.38.
 
-**Chỉ mục:** 6
+(Điều 38 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000800003780240890120000060
+Bãi bỏ Pháp lệnh về thuế nông nghiệp đã được Hội đồng Nhà nước nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII thông qua ngày 30 tháng 1 năm 1989 và chế độ hiện hành thu tiền nuôi rừng đối với đất rừng trồng.
 
-**ID:** dk_00053750
+Những quy định trước đây trái với Luật này đều bãi bỏ.
 
----
+Luật này có hiệu lực thi hành từ ngày 1 tháng 1 năm 1994.
 
+Điều 33.7.LQ.39.
 
-### Điều 33.7.LQ.38.
+(Điều 39 Luật số 23-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-*Nội dung chưa có sẵn*
+Chính phủ quy định chi tiết thi hành Luật này.
 
-**Chỉ mục:** 38
+Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá IX, kỳ họp thứ ba thông qua ngày 10 tháng 7 năm 1993.
 
-**Mã phân cấp:** 3300700000000000900003800000000000000000
+Điều 33.7.NQ.1.5. Điều khoản thi hành
 
-**ID:** dk_00053752
+(Điều 5 Nghị quyết số 55/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
----
+1. Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2011.
 
+2. Kể từ ngày Nghị quyết này có hiệu lực thi hành, đối tượng được miễn, giảm thuế sử dụng đất nông nghiệp không quy định tại Nghị quyết này thì tiếp tục thực hiện theo quy định của Luật thuế sử dụng đất nông nghiệp.
 
-### Điều 33.7.LQ.39.
+Trường hợp người nộp thuế được hưởng cả miễn, giảm thuế sử dụng đất nông nghiệp theo quy định tại Nghị quyết này và quy định của Luật thuế sử dụng đất nông nghiệp thì được hưởng mức miễn, giảm thuế sử dụng đất nông nghiệp cao nhất.
 
-*Nội dung chưa có sẵn*
+3. Chính phủ quy định chi tiết và hướng dẫn thi hành Nghị quyết này.
 
-**Chỉ mục:** 39
+Điều 33.7.NQ.1.6.
 
-**Mã phân cấp:** 3300700000000000900003900000000000000000
+(Điều 2 Nghị quyết số 28/2016/QH14 Nghị quyết sửa đổi, bổ sung một số điều của Nghị quyết số 55/2010/QH12 về miễn, giảm thuế sử dụng đất nông nghiệp ngày 11/11/2016 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2017)
 
-**ID:** dk_00053753
+1. Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017.
 
----
+2. Kể từ ngày Nghị quyết này có hiệu lực thi hành, đối tượng được miễn thuế sử dụng đất nông nghiệp không quy định tại Nghị quyết này và tại khoản 1, khoản 2 Điều 1 Nghị quyết số 55/2010/QH12 về miễn, giảm thuế sử dụng đất nông nghiệp thì tiếp tục thực hiện theo quy định của Luật thuế sử dụng đất nông nghiệp.
 
+3. Chính phủ chỉ đạo các bộ, ngành và địa phương rà soát, chấn chỉnh, thực hiện thu hồi đất nông nghiệp do vi phạm pháp luật đất đai theo đúng quy định của pháp luật về đất đai.
 
-### Điều 33.7.NQ.1.5. Điều khoản thi hành
+4. Chính phủ quy định chi tiết Nghị quyết này.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NQ.1.8. Hiệu lực thi hành
 
-**Chỉ mục:** 5
+(Điều 2 Nghị quyết số 107/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3300700000000000900003910238240055000050
+Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021.
 
-**ID:** dk_00053754
+Điều 33.7.PL.1.3.
 
----
+(Điều 3 Pháp lệnh số 31-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Pháp lệnh này có hiệu lực kể từ ngày 1 tháng 1 năm 1994.
 
-### Điều 33.7.NQ.1.6.
+Điều 33.7.PL.1.4.
 
-*Nội dung chưa có sẵn*
+(Điều 4 Pháp lệnh số 31-L/CTN, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 2
+Chính phủ quy định chi tiết thi hành Pháp lệnh này.
 
-**Mã phân cấp:** 3300700000000000900003910238240055000060
+Điều 33.7.NĐ.1.8.
 
-**ID:** dk_00053755
+(Điều 8 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993)
 
----
+Nghị định này có hiệu lực thi hành từ ngày 25 tháng 10 năm 1993.
 
+Những quy định về phân hạng đất tính thuế trước đây đều bãi bỏ.
 
-### Điều 33.7.NQ.1.8. Hiệu lực thi hành
+Bộ trưởng Bộ Tài chính có trách nhiệm hướng dẫn chi tiết việc thi hành Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.1.9.
 
-**Chỉ mục:** 2
+(Điều 9 Nghị định số 73-CP, có hiệu lực thi hành kể từ ngày 25/10/1993)
 
-**Mã phân cấp:** 3300700000000000900003910287935154880000
+Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành nghị định này.
 
-**ID:** dk_00053756
+Điều 33.7.NĐ.2.30.
 
----
+(Điều 30 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Nghị định này có hiệu lực thi hành từ ngày 1 tháng 1 năm 1994. Riêng các quy định về việc kê khai diện tích tính thuế, xác định các căn cứ tính thuế và lập sổ thuế có hiệu lực thi hành từ ngày 25 tháng 10 năm 1993.
 
-### Điều 33.7.PL.1.3.
+Những quy định về thuế nông nghiệp và chế độ thu tiền nuôi rừng trước đây chỉ có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 1993.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.2.31.
 
-**Chỉ mục:** 3
+(Điều 31 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Mã phân cấp:** 3300700000000000900003920177260031000030
+Bộ trưởng Bộ Tài chính hướng dẫn thi hành Nghị định này.
 
-**ID:** dk_00053757
+Điều 33.7.NĐ.2.32.
 
----
+(Điều 32 Nghị định số 74/CP, có hiệu lực thi hành kể từ ngày 01/01/1994)
 
+Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thi hành Nghị định này.
 
-### Điều 33.7.PL.1.4.
+Điều 33.7.NĐ.3.10.
 
-*Nội dung chưa có sẵn*
+(Điều 10 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**Chỉ mục:** 4
+Những quy định về giảm thuế, miễn thuế, xử lý vi phạm, khiếu nại, tổ chức thực hiện việc thu bổ sung đối với hộ gia đình sử dụng đất nông nghiệp vượt quá hạn mức diện tích, thực hiện theo Luật Thuế sử dụng đất nông nghiệp và các văn bản hướng dẫn thi hành Luật Thuế sử dụng đất nông nghiệp.
 
-**Mã phân cấp:** 3300700000000000900003920177260031000040
+Điều 33.7.NĐ.3.11.
 
-**ID:** dk_00053758
+(Điều 11 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
----
+Nghị định này có hiệu lực thi hành từ ngày 1 tháng 1 năm 1994.
 
+Điều 33.7.NĐ.3.12.
 
-### Điều 33.7.NĐ.1.8.
+(Điều 12 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-*Nội dung chưa có sẵn*
+Bộ trưởng Bộ Tài chính hướng dẫn thi hành Nghị định này.
 
-**Chỉ mục:** 8
+Điều 33.7.NĐ.3.13.
 
-**Mã phân cấp:** 3300700000000000900003940175850073000080
+(Điều 13 Nghị định số 84-CP (1), có hiệu lực thi hành kể từ ngày 01/01/1994)
 
-**ID:** dk_00053759
+Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thi hành Nghị định này.
 
----
+Điều 33.7.NĐ.4.8. Điều khoản thi hành
 
+(Điều 8 Nghị định số 20/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2011)
 
-### Điều 33.7.NĐ.1.9.
+1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 5 năm 2011.
 
-*Nội dung chưa có sẵn*
+2. Bộ Tài chính hướng dẫn thi hành Nghị định này.
 
-**Chỉ mục:** 9
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**Mã phân cấp:** 3300700000000000900003940175850073000090
+Điều 33.7.NĐ.4.9. Hiệu lực thi hành
 
-**ID:** dk_00053760
+(Điều 3 Nghị định số 21/2017/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 20/2011/NĐ-CP ngày 23 tháng 3 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành Nghị quyết số 55/2010/QH12 ngày 24 tháng 11 năm 2010 của Quốc hội về miễn, giảm thuế sử dụng đất nông nghiệp ngày 24/02/2017 của Chính phủ, có hiệu lực thi hành kể từ ngày 24/02/2017)
 
----
+1. Nghị định này có hiệu lực thi hành từ ngày ký và áp dụng cho kỳ tính thuế từ năm 2017.
 
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
-### Điều 33.7.NĐ.2.30.
+Điều 33.7.NĐ.4.10. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị định số 146/2020/NĐ-CP Sửa đổi, bổ sung Điều 5 Nghị định số 20/2011/NĐ-CP ngày 23 tháng 3 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành Nghị quyết số 55/2010/QH12 ngày 24 tháng 11 năm 2010 của Quốc hội về miễn, giảm thuế sử dụng đất nông nghiệp ngày 18/12/2020 của Chính phủ, có hiệu lực thi hành kể từ ngày 04/01/2021)
 
-**Chỉ mục:** 30
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021.
 
-**Mã phân cấp:** 3300700000000000900003940175850074000300
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**ID:** dk_00053761
+Điều 33.7.QĐ.1.2.
 
----
+(Điều 2 Quyết định số 619/TTg, có hiệu lực thi hành kể từ ngày 27/12/1993)
 
+Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
 
-### Điều 33.7.NĐ.2.31.
+Điều 33.7.QĐ.2.4.
 
-*Nội dung chưa có sẵn*
+(Điều 4 Quyết định số 326/TTg, có hiệu lực thi hành kể từ ngày 18/05/1996)
 
-**Chỉ mục:** 31
+Quyết định này có hiệu lực thi hành từ ngày ký.
 
-**Mã phân cấp:** 3300700000000000900003940175850074000310
+Bộ trưởng các Bộ, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
 
-**ID:** dk_00053762
+Điều 33.7.QĐ.3.3.
 
----
+(Điều 3 Quyết định số 105/2000/QĐ-TTg, có hiệu lực thi hành kể từ ngày 25/08/2000)
 
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Bộ trưởng Bộ Tài chính hướngdẫn thi hành Quyết định này.
 
-### Điều 33.7.NĐ.2.32.
+Giao Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định miễn nộp nợ thuế cho các tổ chức, hộ gia đình,cá nhân phù hợp với hướng dẫn của Bộ Tài chính.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.QĐ.3.4.
 
-**Chỉ mục:** 32
+(Điều 4 Quyết định số 105/2000/QĐ-TTg, có hiệu lực thi hành kể từ ngày 25/08/2000)
 
-**Mã phân cấp:** 3300700000000000900003940175850074000320
+ Bộ trưởng các Bộ, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.                               
 
-**ID:** dk_00053763
+Điều 33.7.QĐ.4.4.
 
----
+(Điều 4 Quyết định số 199/2001/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2002)
 
+Việc miễn, giảm thuế sử dụng đất nông nghiệp quy định tại Điều 1, Điều 2 Quyết định này thực hiện từ năm 2002.
 
-### Điều 33.7.NĐ.3.10.
+Bộ trưởng Bộ Tài chính hướng dẫn thi hành Quyết định này.
 
-*Nội dung chưa có sẵn*
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
 
-**Chỉ mục:** 10
+Điều 33.7.QĐ.5.3.
 
-**Mã phân cấp:** 3300700000000000900003940178720084000100
+(Điều 3 Quyết định số 11/2003/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/01/2003)
 
-**ID:** dk_00053764
+Quyết định này có hiệu lực thi hành kể từ ngày ký.
 
----
+Điều 33.7.QĐ.5.4.
 
+(Điều 4 Quyết định số 11/2003/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/01/2003)
 
-### Điều 33.7.NĐ.3.11.
+Chủ tịch Ủy ban nhân dân tỉnh Cần Thơ, Bộ trưởng Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.
 
-*Nội dung chưa có sẵn*
+Điều 33.7.QĐ.6.3.
 
-**Chỉ mục:** 11
+(Điều 3 Quyết định số 19/2008/QĐ-TTg, có hiệu lực thi hành kể từ ngày 25/02/2008)
 
-**Mã phân cấp:** 3300700000000000900003940178720084000110
+Quyết định này có hiệu lực thi hành sau 15 ngày. kể từ ngày đăng Công báo và thay thế điểm 6 mục II Chi tiết kết quả phân hạng đất tính thuế sử dụng đất nông nghiệp của các tỉnh, thành phố trực thuộc Trung ương (Kèm theo Quyết định số 326/TTg ngày 18 tháng 5 năm 1996 của Thủ tướng Chính phủ).
 
-**ID:** dk_00053765
+Điều 33.7.QĐ.6.4.
 
----
+(Điều 4 Quyết định số 19/2008/QĐ-TTg, có hiệu lực thi hành kể từ ngày 25/02/2008)
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh Trà Vinh chịu trách nhiệm thi hành Quyết định này.
 
-### Điều 33.7.NĐ.3.12.
+Điều 33.7.QĐ.7.4.
 
-*Nội dung chưa có sẵn*
+(Điều 4 Quyết định số 23/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/06/2011)
 
-**Chỉ mục:** 12
+Quyết định này có hiệu lực từ ngày 01 tháng 6 năm 2011, áp dụng cho kỳ tính thuế từ năm 2011 trở đi và thay thế quy định về phân hạng đất tính thuế sử dụng đất nông nghiệp của tỉnh Đắk Lắk tại Quyết định số 326/TTg ngày 18 tháng 5 năm 1996 của Thủ tướng Chính phủ.
 
-**Mã phân cấp:** 3300700000000000900003940178720084000120
+Điều 33.7.QĐ.7.5.
 
-**ID:** dk_00053766
+(Điều 5 Quyết định số 23/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/06/2011)
 
----
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh Đắk Lắk chịu trách nhiệm thi hành Quyết định này.
 
+Điều 33.7.TT.5.3. Điều khoản thi hành
 
-### Điều 33.7.NĐ.3.13.
+(Điều 3 Thông tư số 117/1999/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2000)
 
-*Nội dung chưa có sẵn*
+Thông tư này có hiệu lực thi hành từ ngày 01/01/2000, những quy định về chế độ tài chính đối với hoạt động thu thuế SDĐNN và HĐTV thuế các cấp trước đây trái với các quy định tại thông tư này đều bãi bỏ.
 
-**Chỉ mục:** 13
+Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Tài chính chịu trách nhiệm thi hành Thông tư này. Giao cho Tổng cục Trưởng Tổng cục Thuế hướng dẫn chi tiết việc quản lý và sử dụng kinh phí đối với hoạt động thu thuế SDĐNN của ngành Thuế, tổ chức kiểm tra việc thực hiện các chế độ hiện hành và những quy định tại Thông tư này. Trong quá trình thực hiện, nếu có vướng mắc đề nghị các địa phương phản ánh kịp thời về Bộ Tài chính (Tổng cục Thuế và Vụ TVQT) để nghiên cứu xem xét, giải quyết.
 
-**Mã phân cấp:** 3300700000000000900003940178720084000130
+Điều 33.7.TT.9.7. Hiệu lực thi hành
 
-**ID:** dk_00053767
+(Điều 7 Thông tư số 120/2011/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2011)
 
----
+Thông tư này có hiệu lực thi hành kể từ ngày 01/10/2011. Việc xét, quyết định miễn, giảm thuế sử dụng đất nông nghiệp theo quy định tại Thông tư này được thực hiện từ năm thuế 2011 đến hết năm thuế 2020.
 
+Các mẫu tờ khai số 01/SDNN, mẫu 02/SDNN, mẫu 03/SDNN và thông báo nộp thuế mẫu 04/SDNN ban hành kèm theo Thông tư này thay thế các mẫu tờ khai và thông báo thuế sử dụng đất nông nghiệp đã ban hành kèm theo Thông tư số 28/2011/TT-BTC ngày 28/2/2011 của Bộ Tài chính hướng dẫn thi hành Nghị định số 85/2007/NĐ-CP ngày 25/5/2007 và Nghị định số 106/2010/NĐ-CP ngày 28/10/2010 của chính phủ.
 
-### Điều 33.7.NĐ.4.8. Điều khoản thi hành
+Trong quá trình thực hiện nếu phát sinh vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu, giải quyết./.
 
-*Nội dung chưa có sẵn*
+## Danh sách điều khoản
 
-**Chỉ mục:** 8
+### 33007000000000001000
 
-**Mã phân cấp:** 3300700000000000900003940239430020000080
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-**ID:** dk_00053768
+### 3300700000000000100000100000000000000000
 
----
+Điều 33.7.LQ.1.
 
+### 3300700000000000100000200000000000000000
 
-### Điều 33.7.NĐ.4.9. Hiệu lực thi hành
+Điều 33.7.LQ.2.
 
-*Nội dung chưa có sẵn*
+### 3300700000000000100000300000000000000000
 
-**Chỉ mục:** 3
+Điều 33.7.LQ.3.
 
-**Mã phân cấp:** 3300700000000000900003940239430020000090
+### 3300700000000000100000400000000000000000
 
-**ID:** dk_00053769
+Điều 33.7.LQ.4.
 
----
+### 3300700000000000100000440175850074000010
 
+Điều 33.7.NĐ.2.1.
 
-### Điều 33.7.NĐ.4.10. Điều khoản thi hành
+### 3300700000000000100000440175850074000020
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.2.2.
 
-**Chỉ mục:** 2
+### 3300700000000000100000440175850074000030
 
-**Mã phân cấp:** 3300700000000000900003940239430020000100
+Điều 33.7.NĐ.2.3.
 
-**ID:** dk_00053770
+### 3300700000000000100000440175850074000040
 
----
+Điều 33.7.NĐ.2.4.
 
+### 3300700000000000100000480176000089000010
 
-### Điều 33.7.QĐ.1.2.
+Điều 33.7.TT.1.1.
 
-*Nội dung chưa có sẵn*
+### 33007000000000002000
 
-**Chỉ mục:** 2
+Chương II CĂN CỨ TÍNH THUẾ VÀ BIỂU THUẾ
 
-**Mã phân cấp:** 3300700000000000900003950176480619000020
+### 3300700000000000200000500000000000000000
 
-**ID:** dk_00053771
+Điều 33.7.LQ.5.
 
----
+### 330070000000000020000050000000000000000000401758500740000500
 
+Điều 33.7.NĐ.2.5.
 
-### Điều 33.7.QĐ.2.4.
+### 3300700000000000200000600000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 33.7.LQ.6.
 
-**Chỉ mục:** 4
+### 330070000000000020000060000000000000000000401758500740000600
 
-**Mã phân cấp:** 3300700000000000900003950185210326000040
+Điều 33.7.NĐ.2.6. Diện tích thuế được quy định như sau:
 
-**ID:** dk_00053772
+### 33007000000000002000006000000000000000000040175850074000060000801760000890000200
 
----
+Điều 33.7.TT.1.2. Xác định diện tích tính thuế:
 
+### 3300700000000000200000700000000000000000
 
-### Điều 33.7.QĐ.3.3.
+Điều 33.7.LQ.7.
 
-*Nội dung chưa có sẵn*
+### 330070000000000020000070000000000000000000401758500730000100
 
-**Chỉ mục:** 3
+Điều 33.7.NĐ.1.1.
 
-**Mã phân cấp:** 3300700000000000900003950200810105000030
+### 33007000000000002000007000000000000000000040175850073000010000501764806190000100
 
-**ID:** dk_00053773
+Điều 33.7.QĐ.1.1.
 
----
+### 33007000000000002000007000000000000000000040175850073000010000801760100920000100
 
+Điều 33.7.TL.1.1. Xác định tiêu chuẩn các yếu tố của từng hạng đất tính thuế
 
-### Điều 33.7.QĐ.3.4.
+### 330070000000000020000070000000000000000000401758500730000200
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.1.2. Việc phân hạng đất tính thuế đối với các cây trồng chính được qui định như sau:
 
-**Chỉ mục:** 4
+### 33007000000000002000007000000000000000000040175850073000020000801760100920000200
 
-**Mã phân cấp:** 3300700000000000900003950200810105000040
+Điều 33.7.TL.1.2. Phân hạng đất tính thuế đối với cây trồng chính
 
-**ID:** dk_00053774
+### 330070000000000020000070000000000000000000401758500740000700
 
----
+Điều 33.7.NĐ.2.7.
 
+### 33007000000000002000007000000000000000000040175850074000070000801760000890000300
 
-### Điều 33.7.QĐ.4.4.
+Điều 33.7.TT.1.3.
 
-*Nội dung chưa có sẵn*
+### 3300700000000000200000800000000000000000
 
-**Chỉ mục:** 4
+Điều 33.7.LQ.8.
 
-**Mã phân cấp:** 3300700000000000900003950205710199000040
+### 330070000000000020000080000000000000000000401758500730000300
 
-**ID:** dk_00053775
+Điều 33.7.NĐ.1.3.
 
----
+### 330070000000000020000080000000000000000000401758500730000400
 
+Điều 33.7.NĐ.1.4.
 
-### Điều 33.7.QĐ.5.3.
+### 33007000000000002000008000000000000000000040175850073000040000801760100920000300
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TL.1.3. Trình tự phân hạng đất tính thuế sử dụng đất nông nghiệp
 
-**Chỉ mục:** 3
+### 33007000000000002000008000000000000000000040175850073000040000801760100920000400
 
-**Mã phân cấp:** 3300700000000000900003950209540011000030
+Điều 33.7.TL.1.4. Xét duyệt phân hạng đất tính thuế
 
-**ID:** dk_00053776
+### 33007000000000002000008000000000000000000040175850073000040000801772900000000100
 
----
+Điều 33.7.TT.2.1. Nhiệm vụ của Hội đồng tư vấn thuế sử dụng đất nông nghiệp các cấp
 
+### 33007000000000002000008000000000000000000040175850073000040000801772900000000200
 
-### Điều 33.7.QĐ.5.4.
+Điều 33.7.TT.2.2. Hoạt động của Hội đồng tư vấn thuế các cấp
 
-*Nội dung chưa có sẵn*
+### 33007000000000002000008000000000000000000040175850073000040000801772900000000300
 
-**Chỉ mục:** 4
+Điều 33.7.TT.2.3. Kinh phí hoạt động của Hội đồng tư vấn thuế sử dụng đất nông nghiệp
 
-**Mã phân cấp:** 3300700000000000900003950209540011000040
+### 33007000000000002000008000000000000000000040175850073000040000801974801170000100
 
-**ID:** dk_00053777
+Điều 33.7.TT.5.1. Quy định chung
 
----
+### 33007000000000002000008000000000000000000040175850073000040000801974801170000200
 
+Điều 33.7.TT.5.2. Quy định cụ thể
 
-### Điều 33.7.QĐ.6.3.
+### 330070000000000020000080000000000000000000401758500730000500
 
-*Nội dung chưa có sẵn*
+Điều 33.7.NĐ.1.5.
 
-**Chỉ mục:** 3
+### 330070000000000020000080000000000000000000401758500730000600
 
-**Mã phân cấp:** 3300700000000000900003950227950019000030
+Điều 33.7.NĐ.1.6.
 
-**ID:** dk_00053778
+### 330070000000000020000080000000000000000000401758500730000700
 
----
+Điều 33.7.NĐ.1.7.
 
+### 33007000000000002000008000000000000000000040175850073000070000501852103260000100
 
-### Điều 33.7.QĐ.6.4.
+Điều 33.7.QĐ.2.1.
 
-*Nội dung chưa có sẵn*
+### 33007000000000002000008000000000000000000040175850073000070000501852103260000200
 
-**Chỉ mục:** 4
+Điều 33.7.QĐ.2.2.
 
-**Mã phân cấp:** 3300700000000000900003950227950019000040
+### 33007000000000002000008000000000000000000040175850073000070000501852103260000300
 
-**ID:** dk_00053779
+Điều 33.7.QĐ.2.3.
 
----
+### 33007000000000002000008000000000000000000040175850073000070000502095400110000100
 
+Điều 33.7.QĐ.5.1.
 
-### Điều 33.7.QĐ.7.4.
+### 33007000000000002000008000000000000000000040175850073000070000502095400110000200
 
-*Nội dung chưa có sẵn*
+Điều 33.7.QĐ.5.2.
 
-**Chỉ mục:** 4
+### 33007000000000002000008000000000000000000040175850073000070000502279500190000100
 
-**Mã phân cấp:** 3300700000000000900003950239660023000040
+Điều 33.7.QĐ.6.1.
 
-**ID:** dk_00053780
+### 33007000000000002000008000000000000000000040175850073000070000502279500190000200
 
----
+Điều 33.7.QĐ.6.2.
 
+### 33007000000000002000008000000000000000000040175850073000070000502396600230000100
 
-### Điều 33.7.QĐ.7.5.
+Điều 33.7.QĐ.7.1.
 
-*Nội dung chưa có sẵn*
+### 33007000000000002000008000000000000000000040175850073000070000502396600230000200
 
-**Chỉ mục:** 5
+Điều 33.7.QĐ.7.2.
 
-**Mã phân cấp:** 3300700000000000900003950239660023000050
+### 33007000000000002000008000000000000000000040175850073000070000502396600230000300
 
-**ID:** dk_00053781
+Điều 33.7.QĐ.7.3.
 
----
+### 330070000000000020000080000000000000000000402394300200000500
 
+Điều 33.7.NĐ.4.5. Hạng đất tính thuế
 
-### Điều 33.7.TT.5.3. Điều khoản thi hành
+### 33007000000000002000008000000000000000000040239430020000050000802408901205500400
 
-*Nội dung chưa có sẵn*
+Điều 33.7.TT.9.4. Hạng đất tính thuế
 
-**Chỉ mục:** 3
+### 3300700000000000200000900000000000000000
 
-**Mã phân cấp:** 3300700000000000900003980197480117000030
+Điều 33.7.LQ.9.
 
-**ID:** dk_00053782
+### 330070000000000020000090000000000000000000401758500740000800
 
----
+Điều 33.7.NĐ.2.8.
 
+### 33007000000000002000009000000000000000000040175850074000080000801760000890000400
 
-### Điều 33.7.TT.9.7. Hiệu lực thi hành
+Điều 33.7.TT.1.4.
 
-*Nội dung chưa có sẵn*
+### 3300700000000000200001000000000000000000
 
-**Chỉ mục:** 7
+Điều 33.7.LQ.10.
 
-**Mã phân cấp:** 3300700000000000900003980240890120000070
+### 330070000000000020000100000000000000000000201772600310000100
 
-**ID:** dk_00053783
+Điều 33.7.PL.1.1.
 
----
+### 33007000000000002000010000000000000000000020177260031000010000401787200840000100
 
+Điều 33.7.NĐ.3.1. Đối tượng nộp thuế:
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](/thue-phi-le-phi-cac-khoan-thu-khac/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 3300700000000000200001000000000000000000002017726003100001000040178720084000010000801793200000000100
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 203
-- **Điều khoản thực tế:** 194
-- **Điều khoản có nội dung:** 25 (12.9%)
-- **ID đề mục:** 74578908a47448baa2e1488ce45475aa
+Điều 33.7.TT.4.1. Đối tượng nộp thuế, đối tượng chịu thuế
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 33007000000000002000010000000000000000000020177260031000010000401787200840000200
 
----
+Điều 33.7.NĐ.3.2. Đối tượng chịu thuế:
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 330070000000000020000100000000000000000000201772600310000200
+
+Điều 33.7.PL.1.2.
+
+### 33007000000000002000010000000000000000000020177260031000020000401787200840000300
+
+Điều 33.7.NĐ.3.3.
+
+### 3300700000000000200001000000000000000000002017726003100002000040178720084000030000801793200000000200
+
+Điều 33.7.TT.4.2. Căn cứ tính thuế
+
+### 33007000000000002000010000000000000000000020177260031000020000401787200840000400
+
+Điều 33.7.NĐ.3.4.
+
+### 33007000000000002000010000000000000000000020177260031000020000401787200840000500
+
+Điều 33.7.NĐ.3.5.
+
+### 33007000000000003000
+
+Chương III KÊ KHAI TÍNH THUẾ VÀ LẬP SỔ THUẾ
+
+### 3300700000000000300001100000000000000000
+
+Điều 33.7.LQ.11.
+
+### 330070000000000030000110000000000000000000401758500740000900
+
+Điều 33.7.NĐ.2.9.
+
+### 330070000000000030000110000000000000000000401787200840000600
+
+Điều 33.7.NĐ.3.6.
+
+### 3300700000000000300001200000000000000000
+
+Điều 33.7.LQ.12.
+
+### 330070000000000030000120000000000000000000401758500740001000
+
+Điều 33.7.NĐ.2.10.
+
+### 33007000000000003000012000000000000000000040175850074000100000801760000890000500
+
+Điều 33.7.TT.1.5. Tính thuế.
+
+### 33007000000000003000012000000000000000000040175850074000100000801760000890000600
+
+Điều 33.7.TT.1.6. Lập sổ thuế:
+
+### 33007000000000003000012000000000000000000040175850074000100000801760000890000700
+
+Điều 33.7.TT.1.7. Tổ chức xét duyệt sổ thuế.
+
+### 33007000000000003000012000000000000000000040175850074000100000801760000890000800
+
+Điều 33.7.TT.1.8. Điều chỉnh sổ thuế.
+
+### 330070000000000030000120000000000000000000401787200840000700
+
+Điều 33.7.NĐ.3.7.
+
+### 330070000000000030000120000000000000000000401787200840000800
+
+Điều 33.7.NĐ.3.8.
+
+### 33007000000000003000012000000000000000000040178720084000080000801793200000000300
+
+Điều 33.7.TT.4.3. Kê khai, tính thuế, nộp thuế
+
+### 330070000000000030000120000000000000000000401787200840000900
+
+Điều 33.7.NĐ.3.9.
+
+### 330070000000000030000120000000000000000000402394300200000400
+
+Điều 33.7.NĐ.4.4. Khai thuế và điều chỉnh, bổ sung sổ thuế
+
+### 3300700000000000300001300000000000000000
+
+Điều 33.7.LQ.13.
+
+### 3300700000000000300001400000000000000000
+
+Điều 33.7.LQ.14.
+
+### 3300700000000000300001500000000000000000
+
+Điều 33.7.LQ.15.
+
+### 33007000000000004000
+
+Chương IV THU THUẾ VÀ NỘP THUẾ
+
+### 3300700000000000400001600000000000000000
+
+Điều 33.7.LQ.16.
+
+### 330070000000000040000160000000000000000000401758500740001100
+
+Điều 33.7.NĐ.2.11.
+
+### 33007000000000004000016000000000000000000040175850074000110000801760000890000900
+
+Điều 33.7.TT.1.9. Căn cứ số thuế được duyệt:
+
+### 33007000000000004000016000000000000000000040175850074000110000801760000890001000
+
+Điều 33.7.TT.1.10.
+
+### 33007000000000004000016000000000000000000040175850074000110000801760000890001300
+
+Điều 33.7.TT.1.13.
+
+### 3300700000000000400001700000000000000000
+
+Điều 33.7.LQ.17.
+
+### 330070000000000040000170000000000000000000401758500740001200
+
+Điều 33.7.NĐ.2.12.
+
+### 33007000000000004000017000000000000000000040175850074000120000801760000890001100
+
+Điều 33.7.TT.1.11. Thu, nộp thuế.
+
+### 3300700000000000400001800000000000000000
+
+Điều 33.7.LQ.18.
+
+### 330070000000000040000180000000000000000000401758500740001300
+
+Điều 33.7.NĐ.2.13.
+
+### 33007000000000004000018000000000000000000040175850074000130000801760000890001200
+
+Điều 33.7.TT.1.12.
+
+### 33007000000000005000
+
+Chương V GIẢM THUẾ VÀ MIỄN THUẾ
+
+### 3300700000000000500001900000000000000000
+
+Điều 33.7.LQ.19.
+
+### 330070000000000050000190000000000000000000401758500740001400
+
+Điều 33.7.NĐ.2.14.
+
+### 33007000000000005000019000000000000000000040175850074000140000801760000890001400
+
+Điều 33.7.TT.1.14.
+
+### 33007000000000005000019000000000000000000040175850074000140000801784700000000100
+
+Điều 33.7.TT.3.1.
+
+### 33007000000000005000019000000000000000000040175850074000140000801784700000000200
+
+Điều 33.7.TT.3.2. Các trường hợp được xét giảm thuế, miễn thuế sử dụng đất nông nghiệp
+
+### 3300700000000000500002000000000000000000
+
+Điều 33.7.LQ.20.
+
+### 330070000000000050000200000000000000000000401758500740001500
+
+Điều 33.7.NĐ.2.15.
+
+### 3300700000000000500002100000000000000000
+
+Điều 33.7.LQ.21.
+
+### 330070000000000050000210000000000000000000401758500740001700
+
+Điều 33.7.NĐ.2.17.
+
+### 33007000000000005000021000000000000000000040175850074000170000802005300790000100
+
+Điều 33.7.TT.6.1.
+
+### 3300700000000000500002200000000000000000
+
+Điều 33.7.LQ.22.
+
+### 330070000000000050000220000000000000000000401758500740001600
+
+Điều 33.7.NĐ.2.16.
+
+### 33007000000000005000022000000000000000000040175850074000160000802005300790000200
+
+Điều 33.7.TT.6.2.
+
+### 330070000000000050000220000000000000000000502057101990000100
+
+Điều 33.7.QĐ.4.1.
+
+### 33007000000000005000022000000000000000000050205710199000010000802059700090000100
+
+Điều 33.7.TT.8.1. Đối tượng và mức miễn, giảm thuế sử dụng đất nông nghiệp:
+
+### 330070000000000050000220000000000000000000502057101990000200
+
+Điều 33.7.QĐ.4.2.
+
+### 330070000000000050000220000000000000000000502057101990000300
+
+Điều 33.7.QĐ.4.3.
+
+### 3300700000000000500002300000000000000000
+
+Điều 33.7.LQ.23.
+
+### 3300700000000000500002310238240055000010
+
+Điều 33.7.NQ.1.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
+
+### 330070000000000050000231023824005500001000402394300200000100
+
+Điều 33.7.NĐ.4.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
+
+### 33007000000000005000023102382400550000100040239430020000010000802408901200000100
+
+Điều 33.7.TT.9.1. Đối tượng được miễn thuế sử dụng đất nông nghiệp
+
+### 3300700000000000500002310238240055000040
+
+Điều 33.7.NQ.1.4. Thời hạn miễn thuế
+
+### 3300700000000000500002310687048854725000
+
+Điều 33.7.NQ.1.7. Thời hạn miễn thuế sử dụng đất nông nghiệp
+
+### 3300700000000000500002400000000000000000
+
+Điều 33.7.LQ.24.
+
+### 330070000000000050000240000000000000000000401758500740001800
+
+Điều 33.7.NĐ.2.18.
+
+### 33007000000000005000024000000000000000000040175850074000180000801784700000000300
+
+Điều 33.7.TT.3.3. Trình tự, thủ tục, hồ sơ xét duyệt giảm, miễn thuế sử dụng đất nông nghiệp
+
+### 33007000000000005000024000000000000000000040175850074000180000802005300790000300
+
+Điều 33.7.TT.6.3. Trình tự, thủ tục, thẩm quyền giải quyết miễn giảm:
+
+### 330070000000000050000240000000000000000000801793200000000400
+
+Điều 33.7.TT.4.4. Giảm thuế, miễn thuế
+
+### 330070000000000050000240000000000000000000802059700090000200
+
+Điều 33.7.TT.8.2. Trình tự, thủ tục và thẩm quyền giải quyết miễn, giảm thuế:
+
+### 330070000000000050000240000000000000000000802408901200000500
+
+Điều 33.7.TT.9.5. Thẩm quyền và trình tự miễn, giảm thuế
+
+### 3300700000000000500002500000000000000000
+
+Điều 33.7.LQ.25.
+
+### 330070000000000050000250000000000000000000502008101050000100
+
+Điều 33.7.QĐ.3.1.
+
+### 33007000000000005000025000000000000000000050200810105000010000802014001050000100
+
+Điều 33.7.TT.7.1.
+
+### 33007000000000005000025000000000000000000050200810105000010000802014001050000200
+
+Điều 33.7.TT.7.2.
+
+### 33007000000000005000025000000000000000000050200810105000010000802014001050000300
+
+Điều 33.7.TT.7.3. Yêu cầu, trình tự thực hiện kiểm tra phân loại và xử lý nợ thuế
+
+### 330070000000000050000250000000000000000000502008101050000200
+
+Điều 33.7.QĐ.3.2.
+
+### 33007000000000006000
+
+Chương VI XỬ LÝ VI PHẠM
+
+### 3300700000000000600002600000000000000000
+
+Điều 33.7.LQ.26.
+
+### 330070000000000060000260000000000000000000401758500740001900
+
+Điều 33.7.NĐ.2.19. Việc xử lý các vi phạm Luật Thuế sử dụng đất nông nghiệp được quy định như sau:
+
+### 33007000000000006000026000000000000000000040175850074000190000801760000890001500
+
+Điều 33.7.TT.1.15.
+
+### 3300700000000000600002700000000000000000
+
+Điều 33.7.LQ.27.
+
+### 330070000000000060000270000000000000000000401758500740002100
+
+Điều 33.7.NĐ.2.21. Thẩm quyền xử lý vi phạm quy định như sau:
+
+### 3300700000000000600002800000000000000000
+
+Điều 33.7.LQ.28.
+
+### 3300700000000000600002900000000000000000
+
+Điều 33.7.LQ.29.
+
+### 330070000000000060000290000000000000000000401758500740002000
+
+Điều 33.7.NĐ.2.20.
+
+### 33007000000000007000
+
+Chương VII KHIẾU NẠI VÀ THỜI HIỆU
+
+### 3300700000000000700003000000000000000000
+
+Điều 33.7.LQ.30.
+
+### 330070000000000070000300000000000000000000401758500740002200
+
+Điều 33.7.NĐ.2.22.
+
+### 33007000000000007000030000000000000000000040175850074000220000801760000890001600
+
+Điều 33.7.TT.1.16. Khi nhận được đơn khiếu nại, thủ tục giải quyết như sau:
+
+### 3300700000000000700003100000000000000000
+
+Điều 33.7.LQ.31.
+
+### 3300700000000000700003200000000000000000
+
+Điều 33.7.LQ.32.
+
+### 33007000000000008000
+
+Chương VIII TỔ CHỨC THỰC HIỆN
+
+### 3300700000000000800003300000000000000000
+
+Điều 33.7.LQ.33.
+
+### 3300700000000000800003400000000000000000
+
+Điều 33.7.LQ.34.
+
+### 3300700000000000800003500000000000000000
+
+Điều 33.7.LQ.35.
+
+### 3300700000000000800003600000000000000000
+
+Điều 33.7.LQ.36.
+
+### 3300700000000000800003700000000000000000
+
+Điều 33.7.LQ.37.
+
+### 3300700000000000800003740175850074000230
+
+Điều 33.7.NĐ.2.23.
+
+### 3300700000000000800003740175850074000240
+
+Điều 33.7.NĐ.2.24.
+
+### 3300700000000000800003740175850074000250
+
+Điều 33.7.NĐ.2.25.
+
+### 3300700000000000800003740175850074000260
+
+Điều 33.7.NĐ.2.26.
+
+### 3300700000000000800003740175850074000270
+
+Điều 33.7.NĐ.2.27.
+
+### 3300700000000000800003740175850074000280
+
+Điều 33.7.NĐ.2.28.
+
+### 3300700000000000800003740175850074000290
+
+Điều 33.7.NĐ.2.29.
+
+### 3300700000000000800003780176000089000170
+
+Điều 33.7.TT.1.17.
+
+### 3300700000000000800003780176000089550180
+
+Điều 33.7.TT.1.18.
+
+### 3300700000000000800003780176000089550190
+
+Điều 33.7.TT.1.19.
+
+### 3300700000000000800003780176000089550200
+
+Điều 33.7.QĐ.1.20.
+
+### 3300700000000000800003780176000089550210
+
+Điều 33.7.QĐ.1.21.
+
+### 3300700000000000800003780176010092000050
+
+Điều 33.7.TL.1.5. Tổ chức thực hiện
+
+### 3300700000000000800003780177290000000040
+
+Điều 33.7.TT.2.4.
+
+### 3300700000000000800003780178470000000040
+
+Điều 33.7.TT.3.4. Tổ chức thực hiện
+
+### 3300700000000000800003780179320000000050
+
+Điều 33.7.TT.4.5. Tổ chức thực hiện
+
+### 3300700000000000800003780200530079000040
+
+Điều 33.7.TT.6.4. Tổ chức thực hiện:
+
+### 3300700000000000800003780201400105000040
+
+Điều 33.7.TT.7.4. Tổ chức thực hiện
+
+### 3300700000000000800003780205970009000030
+
+Điều 33.7.TT.8.3. Tổ chức thực hiện:
+
+### 3300700000000000800003780240890120000060
+
+Điều 33.7.TT.9.6. Tổ chức thực hiện
+
+### 33007000000000009000
+
+Chương IX ĐIỀU KHOẢN THI HÀNH
+
+### 3300700000000000900003800000000000000000
+
+Điều 33.7.LQ.38.
+
+### 3300700000000000900003900000000000000000
+
+Điều 33.7.LQ.39.
+
+### 3300700000000000900003910238240055000050
+
+Điều 33.7.NQ.1.5. Điều khoản thi hành
+
+### 3300700000000000900003910238240055000060
+
+Điều 33.7.NQ.1.6.
+
+### 3300700000000000900003910287935154880000
+
+Điều 33.7.NQ.1.8. Hiệu lực thi hành
+
+### 3300700000000000900003920177260031000030
+
+Điều 33.7.PL.1.3.
+
+### 3300700000000000900003920177260031000040
+
+Điều 33.7.PL.1.4.
+
+### 3300700000000000900003940175850073000080
+
+Điều 33.7.NĐ.1.8.
+
+### 3300700000000000900003940175850073000090
+
+Điều 33.7.NĐ.1.9.
+
+### 3300700000000000900003940175850074000300
+
+Điều 33.7.NĐ.2.30.
+
+### 3300700000000000900003940175850074000310
+
+Điều 33.7.NĐ.2.31.
+
+### 3300700000000000900003940175850074000320
+
+Điều 33.7.NĐ.2.32.
+
+### 3300700000000000900003940178720084000100
+
+Điều 33.7.NĐ.3.10.
+
+### 3300700000000000900003940178720084000110
+
+Điều 33.7.NĐ.3.11.
+
+### 3300700000000000900003940178720084000120
+
+Điều 33.7.NĐ.3.12.
+
+### 3300700000000000900003940178720084000130
+
+Điều 33.7.NĐ.3.13.
+
+### 3300700000000000900003940239430020000080
+
+Điều 33.7.NĐ.4.8. Điều khoản thi hành
+
+### 3300700000000000900003940239430020000090
+
+Điều 33.7.NĐ.4.9. Hiệu lực thi hành
+
+### 3300700000000000900003940239430020000100
+
+Điều 33.7.NĐ.4.10. Điều khoản thi hành
+
+### 3300700000000000900003950176480619000020
+
+Điều 33.7.QĐ.1.2.
+
+### 3300700000000000900003950185210326000040
+
+Điều 33.7.QĐ.2.4.
+
+### 3300700000000000900003950200810105000030
+
+Điều 33.7.QĐ.3.3.
+
+### 3300700000000000900003950200810105000040
+
+Điều 33.7.QĐ.3.4.
+
+### 3300700000000000900003950205710199000040
+
+Điều 33.7.QĐ.4.4.
+
+### 3300700000000000900003950209540011000030
+
+Điều 33.7.QĐ.5.3.
+
+### 3300700000000000900003950209540011000040
+
+Điều 33.7.QĐ.5.4.
+
+### 3300700000000000900003950227950019000030
+
+Điều 33.7.QĐ.6.3.
+
+### 3300700000000000900003950227950019000040
+
+Điều 33.7.QĐ.6.4.
+
+### 3300700000000000900003950239660023000040
+
+Điều 33.7.QĐ.7.4.
+
+### 3300700000000000900003950239660023000050
+
+Điều 33.7.QĐ.7.5.
+
+### 3300700000000000900003980197480117000030
+
+Điều 33.7.TT.5.3. Điều khoản thi hành
+
+### 3300700000000000900003980240890120000070
+
+Điều 33.7.TT.9.7. Hiệu lực thi hành
+

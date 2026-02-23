@@ -1,1401 +1,2113 @@
 ---
-layout: default
+layout: page
 title: Cư trú
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/cu-tru/
-collection: subtopics
-slug: cu-tru
-parent: trat-tu-an-toan-xa-hoi
 ---
 
 # Cư trú
 
-**Đề mục:** Cư trú  
-**Chủ đề:** [Trật tự, an toàn xã hội](/trat-tu-an-toan-xa-hoi/)  
-**Số điều khoản:** 112  
-**Điều khoản có nội dung:** 105/105 (100.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 39.3.LQ.1. Phạm vi điều chỉnh
+Điều 39.3.LQ.1. Phạm vi điều chỉnh
 
-Luật này quy định về quyền tự do cư trú của công dân trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam; trình tự, thủ tục đăng ký, quản lý cư trú; quyền, trách nhiệm của công dân, hộ gia đình, cơ quan, tổ chức về đăng ký, quản lý cư trú.
+(Điều 1 Luật số 81/2006/QH11 Cư trú ngày 29/11/2006 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Chỉ mục:** 1
+ Luật này quy định về quyền tự do cư trú của công dân trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam; trình tự, thủ tục đăng ký, quản lý cư trú; quyền, trách nhiệm của công dân, hộ gia đình, cơ quan, tổ chức về đăng ký, quản lý cư trú.
 
-**Mã phân cấp:** 3900300000000000100000100000000000000000
+ Cư trú là việc công dân sinh sống tại một địa điểm thuộc xã, phường, thị trấn dưới hình thức thường trú hoặc tạm trú.Điều 39.3.LQ.2. Đối tượng áp dụng
 
-**ID:** dk_00064151
+(Điều 2 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
----
+ Luật này áp dụng đối với cơ quan, tổ chức, hộ gia đình, công dân Việt Nam, người Việt Nam định cư ở nước ngoài vẫn còn quốc tịch Việt Nam trở về Việt Nam sinh sống.Điều 39.3.NĐ.1.1. Phạm vi điều chỉnh
 
-
-### Điều 39.3.LQ.2. Đối tượng áp dụng
-
-Luật này áp dụng đối với cơ quan, tổ chức, hộ gia đình, công dân Việt Nam, người Việt Nam định cư ở nước ngoài vẫn còn quốc tịch Việt Nam trở về Việt Nam sinh sống.
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3900300000000000100000200000000000000000
-
-**ID:** dk_00064152
-
----
-
-
-### Điều 39.3.NĐ.1.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 31/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ngày 18/04/2014 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
 Nghị định này quy định chi tiết thi hành một số điều của Luật Cư trú về trách nhiệm của cơ quan, tổ chức, cá nhân trong phát hiện, ngăn ngừa việc lạm dụng quy định về hộ khẩu làm hạn chế quyền, lợi ích hợp pháp của công dân; nơi cư trú của công dân; giấy tờ, tài liệu chứng minh chỗ ở hợp pháp; thời hạn đăng ký thường trú, điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương.
 
-**Chỉ mục:** 1
+Điều 39.3.NĐ.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3900300000000000100000240250650031000010
-
-**ID:** dk_00064153
-
----
-
-
-### Điều 39.3.NĐ.1.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
 Nghị định này áp dụng đối với cơ quan, tổ chức, hộ gia đình, công dân Việt Nam, người Việt Nam định cư ở nước ngoài vẫn còn quốc tịch Việt Nam trở về Việt Nam sinh sống.
 
-**Chỉ mục:** 2
+Điều 39.3.TT.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3900300000000000100000240250650031000020
-
-**ID:** dk_00064154
-
----
-
-
-### Điều 39.3.TT.1.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ngày 09/09/2014 của Bộ Công an, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 Thông tư này quy định chi tiết và hướng dẫn thi hành về nơi cư trú của công dân; đăng ký thường trú; đăng ký tạm trú; thông báo lưu trú; khai báo tạm vắng và trách nhiệm quản lý cư trú.
 
-**Chỉ mục:** 1
+Điều 39.3.TT.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3900300000000000100000280252090035000010
-
-**ID:** dk_00064155
-
----
-
-
-### Điều 39.3.TT.1.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 Thông tư này áp dụng đối với:
 
-**Chỉ mục:** 2
+1. Cơ quan, người làm công tác đăng ký, quản lý cư trú.
 
-**Mã phân cấp:** 3900300000000000100000280252090035000020
+2. Cơ quan, tổ chức, hộ gia đình, công dân Việt Nam; người Việt Nam định cư ở nước ngoài vẫn còn quốc tịch Việt Nam trở về Việt Nam sinh sống.
 
-**ID:** dk_00064156
+Điều 39.3.TT.2.1. Phạm vi điều chỉnh
 
----
-
-
-### Điều 39.3.TT.2.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 36/2014/TT-BCA Quy định về biểu mẫu sử dụng trong đăng ký, quản lý cư trú ngày 09/09/2014 của Bộ Công an, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 Thông tư này quy định cụ thể về biểu mẫu, quy cách, cách ghi và quản lý biểu mẫu sử dụng trong đăng ký, quản lý cư trú.
 
-**Chỉ mục:** 1
+Điều 39.3.TT.2.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3900300000000000100000280252090036000010
-
-**ID:** dk_00064157
-
----
-
-
-### Điều 39.3.TT.2.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 Thông tư này áp dụng đối với:
 
-**Chỉ mục:** 2
+1. Cơ quan, người làm công tác đăng ký, quản lý cư trú.
 
-**Mã phân cấp:** 3900300000000000100000280252090036000020
+2. Cơ quan, tổ chức, hộ gia đình, công dân Việt Nam, người Việt Nam định cư ở nước ngoài vẫn còn quốc tịch Việt Nam trở về Việt Nam sinh sống.
 
-**ID:** dk_00064158
+Điều 39.3.LQ.3. Quyền tự do cư trú của công dân
 
----
+(Điều 3 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
+ Công dân có quyền tự do cư trú theo quy định của Luật này và các quy định khác của pháp luật có liên quan. Công dân có đủ điều kiện đăng ký thường trú, tạm trú thì có quyền yêu cầu cơ quan nhà nước có thẩm quyền đăng ký thường trú, tạm trú.
 
-### Điều 39.3.LQ.3. Quyền tự do cư trú của công dân
+ Quyền tự do cư trú của công dân chỉ bị hạn chế theo quyết định của cơ quan nhà nước có thẩm quyền và theo trình tự, thủ tục do pháp luật quy định.Điều 39.3.LQ.4. Nguyên tắc cư trú và quản lý cư trú
 
-Công dân có quyền tự do cư trú theo quy định của Luật này và các quy định khác của pháp luật có liên quan. Công dân có đủ điều kiện đăng ký thường trú, tạm trú thì có quyền yêu cầu cơ quan nhà nước có thẩm quyền đăng ký thường trú, tạm trú.
+(Điều 4 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Chỉ mục:** 3
+ 1. Tuân thủ Hiến pháp và pháp luật.
 
-**Mã phân cấp:** 3900300000000000100000300000000000000000
+ 2. Bảo đảm hài hoà quyền, lợi ích hợp pháp của công dân, lợi ích của Nhà nước, cộng đồng và xã hội; kết hợp giữa việc bảo đảm quyền tự do cư trú, các quyền cơ bản khác của công dân và trách nhiệm của Nhà nước với nhiệm vụ xây dựng, phát triển kinh tế, xã hội, củng cố quốc phòng, an ninh, giữ gìn trật tự, an toàn xã hội.
 
-**ID:** dk_00064159
+ 3. Trình tự, thủ tục đăng ký thường trú, tạm trú phải đơn giản, thuận tiện, kịp thời, chính xác, công khai, minh bạch, không gây phiền hà; việc quản lý cư trú phải bảo đảm hiệu quả.
 
----
+ 4. Mọi thay đổi về cư trú phải được đăng ký; mỗi người chỉ được đăng ký thường trú, đăng ký tạm trú tại một nơi.Điều 39.3.LQ.5. Bảo đảm điều kiện thực hiện quyền tự do cư trú và hoạt động quản lý cư trú
 
+(Điều 5 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-### Điều 39.3.LQ.4. Nguyên tắc cư trú và quản lý cư trú
+ 1. Nhà nước bảo đảm quyền tự do cư trú của công dân. Cơ quan, tổ chức, cá nhân xâm phạm quyền tự do cư trú của công dân phải bị xử lý nghiêm minh.
 
-1. Tuân thủ Hiến pháp và pháp luật.
+ Nhà nước có chính sách và biện pháp đồng bộ để bảo đảm ngày càng tốt hơn quyền tự do cư trú của công dân.
 
-**Chỉ mục:** 4
+ 2. Nhà nước bảo đảm ngân sách, cơ sở vật chất, nguồn nhân lực, đầu tư phát triển công nghệ, kỹ thuật tiên tiến cho hoạt động đăng ký, quản lý cư trú.Điều 39.3.LQ.6. Trách nhiệm quản lý nhà nước về cư trú
 
-**Mã phân cấp:** 3900300000000000100000400000000000000000
+(Điều 6 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**ID:** dk_00064160
+ 1. Chính phủ thống nhất quản lý nhà nước về cư trú trong phạm vi cả nước.
 
----
+ 2. Bộ Công an chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về cư trú.
 
+ 3. Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện quản lý nhà nước về cư trú tại địa phương theo quy định của Luật này, các quy định khác của pháp luật có liên quan và phân cấp của Chính phủ.Điều 39.3.LQ.7. Hợp tác quốc tế trong quản lý cư trú
 
-### Điều 39.3.LQ.5. Bảo đảm điều kiện thực hiện quyền tự do cư trú và hoạt động quản lý cư trú
+(Điều 7 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-1. Nhà nước bảo đảm quyền tự do cư trú của công dân. Cơ quan, tổ chức, cá nhân xâm phạm quyền tự do cư trú của công dân phải bị xử lý nghiêm minh.
+ Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện hợp tác quốc tế về quản lý cư trú phù hợp với pháp luật Việt Nam và pháp luật quốc tế; thực hiện điều ước quốc tế liên quan đến quản lý cư trú mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.Điều 39.3.LQ.8. Các hành vi bị nghiêm cấm
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3900300000000000100000500000000000000000
-
-**ID:** dk_00064161
-
----
-
-
-### Điều 39.3.LQ.6. Trách nhiệm quản lý nhà nước về cư trú
-
-1. Chính phủ thống nhất quản lý nhà nước về cư trú trong phạm vi cả nước.
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3900300000000000100000600000000000000000
-
-**ID:** dk_00064162
-
----
-
-
-### Điều 39.3.LQ.7. Hợp tác quốc tế trong quản lý cư trú
-
-Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện hợp tác quốc tế về quản lý cư trú phù hợp với pháp luật Việt Nam và pháp luật quốc tế; thực hiện điều ước quốc tế liên quan đến quản lý cư trú mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3900300000000000100000700000000000000000
-
-**ID:** dk_00064163
-
----
-
-
-### Điều 39.3.LQ.8. Các hành vi bị nghiêm cấm
+(Điều 8 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 36/2013/QH13 có hiệu lực thi hành kể từ ngày 01/01/2014)
 
 1. Cản trở công dân thực hiện quyền tự do cư trú.
 
-**Chỉ mục:** 8
+2. Lạm dụng quy định về hộ khẩu để hạn chế quyền, lợi ích hợp pháp của công dân.
 
-**Mã phân cấp:** 3900300000000000100000800000000000000000
+3. Nhận hối lộ, cửa quyền, hách dịch, sách nhiễu, gây phiền hà trong việc đăng ký, quản lý cư trú.
 
-**ID:** dk_00064164
+4. Thu, sử dụng lệ phí đăng ký cư trú trái với quy định của pháp luật.
 
----
+5. Tự đặt ra thời gian, thủ tục, giấy tờ, biểu mẫu trái với quy định của pháp luật hoặc làm sai lệch sổ sách, hồ sơ về cư trú.
 
+6. Cố ý cấp hoặc từ chối cấp giấy tờ về cư trú trái với quy định của pháp luật.
 
-### Điều 39.3.NĐ.1.3. Nghiêm cấm các hành vi lạm dụng quy định về hộ khẩu làm hạn chế quyền, lợi ích hợp pháp của công dân
+7. Lợi dụng quyền tự do cư trú để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân.
 
-1. Quy định về hộ khẩu theo Luật Cư trú gồm các nội dung sau đây:
+8. Thuê, cho thuê, làm giả, sửa chữa, làm sai lệch nội dung sổ hộ khẩu, sổ tạm trú, giấy tờ khác có liên quan đến cư trú; sử dụng giấy tờ giả về cư trú; cung cấp thông tin, tài liệu sai sự thật về cư trú; giả mạo điều kiện để được đăng ký thường trú.
 
-**Chỉ mục:** 3
+9. Tổ chức, kích động, xúi giục, lôi kéo, dụ dỗ, môi giới, giúp sức, cưỡng bức người khác vi phạm pháp luật về cư trú.
 
-**Mã phân cấp:** 390030000000000010000080000000000000000000402506500310000300
+10. Giải quyết cho đăng ký cư trú khi biết rõ người được cấp đăng ký cư trú không sinh sống tại chỗ ở đó.
 
-**ID:** dk_00064165
+11. Đồng ý cho người khác đăng ký cư trú vào chỗ ở của mình để vụ lợi hoặc trong thực tế người đăng ký cư trú không sinh sống tại chỗ ở đó.
 
----
+Điều 39.3.NĐ.1.3. Nghiêm cấm các hành vi lạm dụng quy định về hộ khẩu làm hạn chế quyền, lợi ích hợp pháp của công dân
 
+(Điều 3 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
-### Điều 39.3.LQ.9. Quyền của công dân về cư trú
+ 1. Quy định về hộ khẩu theo Luật Cư trú gồm các nội dung sau đây:
 
-1. Lựa chọn, quyết định nơi thường trú, tạm trú của mình phù hợp với quy định của Luật này và các quy định khác của pháp luật có liên quan.
+ a) Đăng ký, quản lý thường trú;
 
-**Chỉ mục:** 9
+ b) Đăng ký, quản lý tạm trú;
 
-**Mã phân cấp:** 3900300000000000200000900000000000000000
+ c) Thông báo lưu trú;
 
-**ID:** dk_00064167
+ d) Khai báo tạm vắng.
 
----
+ 2. Các hành vi lạm dụng quy định về hộ khẩu làm hạn chế quyền và lợi ích hợp pháp của công dân bị nghiêm cấm:
 
+ a) Ban hành văn bản quy phạm pháp luật, văn bản khác liên quan đến quy định về hộ khẩu mà làm hạn chế quyền, lợi ích hợp pháp của công dân;
 
-### Điều 39.3.LQ.10. Các trường hợp bị hạn chế quyền tự do cư trú
+ b) Đưa ra các quy định về hộ khẩu làm điều kiện để hạn chế quyền, lợi ích hợp pháp của công dân;
 
-1. Người bị cơ quan tiến hành tố tụng có thẩm quyền áp dụng biện pháp cấm đi khỏi nơi cư trú.
+ c) Giải quyết trái quy định của pháp luật về cư trú hoặc từ chối giải quyết các yêu cầu về hộ khẩu của công dân làm hạn chế quyền, lợi ích hợp pháp của công dân;
 
-**Chỉ mục:** 10
+ d) Ký hợp đồng lao động không xác định thời hạn với người lao động không thuộc doanh nghiệp của mình để nhập hộ khẩu.Chương II
 
-**Mã phân cấp:** 3900300000000000200001000000000000000000
+QUYỀN, TRÁCH NHIỆM CỦA CÔNG DÂN VỀ CƯ TRÚ
 
-**ID:** dk_00064168
+Điều 39.3.LQ.9. Quyền của công dân về cư trú
 
----
+(Điều 9 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
+ 1. Lựa chọn, quyết định nơi thường trú, tạm trú của mình phù hợp với quy định của Luật này và các quy định khác của pháp luật có liên quan.
 
-### Điều 39.3.LQ.11. Trách nhiệm của công dân về cư trú
+ 2. Được cấp, cấp lại, đổi sổ hộ khẩu, sổ tạm trú, giấy tờ khác liên quan đến cư trú.
 
-1. Chấp hành các quy định của pháp luật về cư trú.
+ 3. Được cung cấp thông tin, tài liệu liên quan đến việc thực hiện quyền cư trú.
 
-**Chỉ mục:** 11
+ 4. Yêu cầu cơ quan nhà nước có thẩm quyền thực hiện biện pháp bảo vệ quyền cư trú của mình.
 
-**Mã phân cấp:** 3900300000000000200001100000000000000000
+ 5. Khiếu nại, tố cáo, khởi kiện đối với hành vi vi phạm pháp luật về cư trú theo quy định của pháp luật.Điều 39.3.LQ.10. Các trường hợp bị hạn chế quyền tự do cư trú
 
-**ID:** dk_00064169
+(Điều 10 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
----
+ 1. Người bị cơ quan tiến hành tố tụng có thẩm quyền áp dụng biện pháp cấm đi khỏi nơi cư trú.
 
+ 2. Người bị Toà án áp dụng hình phạt cấm cư trú; người bị kết án phạt tù nhưng chưa có quyết định thi hành án, được hưởng án treo hoặc đang được hoãn, tạm đình chỉ thi hành án phạt tù; người đang bị quản chế.
 
-### Điều 39.3.LQ.12. Nơi cư trú của công dân
+ 3. Người bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở chữa bệnh, cơ sở giáo dục nhưng đang được hoãn chấp hành hoặc tạm đình chỉ thi hành.Điều 39.3.LQ.11. Trách nhiệm của công dân về cư trú
 
-1. Nơi cư trú của công dân là chỗ ở hợp pháp mà người đó thường xuyên sinh sống. Nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú.
+(Điều 11 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Chỉ mục:** 12
+ 1. Chấp hành các quy định của pháp luật về cư trú.
 
-**Mã phân cấp:** 3900300000000000200001200000000000000000
+ 2. Cung cấp đầy đủ, chính xác thông tin, tài liệu về cư trú của mình cho cơ quan, người có thẩm quyền và chịu trách nhiệm về thông tin, tài liệu đã cung cấp.
 
-**ID:** dk_00064170
+ 3. Nộp lệ phí đăng ký cư trú.
 
----
+ 4. Xuất trình sổ hộ khẩu, sổ tạm trú, giấy tờ khác liên quan đến cư trú khi cơ quan, người có thẩm quyền yêu cầu.
 
+ 5. Báo ngay với cơ quan đã đăng ký cư trú khi sổ hộ khẩu, sổ tạm trú, giấy tờ khác liên quan đến cư trú bị mất hoặc bị hư hỏng.(Điều này có nội dung liên quan đến Điều 39.3.LQ.22. Xoá đăng ký thường trú của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006)
 
-### Điều 39.3.NĐ.1.5. Nơi cư trú của công dân
+Điều 39.3.LQ.12. Nơi cư trú của công dân
 
-1. Nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú. Mỗi công dân chỉ được đăng ký thường trú tại một chỗ ở hợp pháp và là nơi thường xuyên sinh sống.
+(Điều 12 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Chỉ mục:** 5
+ 1. Nơi cư trú của công dân là chỗ ở hợp pháp mà người đó thường xuyên sinh sống. Nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú.
 
-**Mã phân cấp:** 390030000000000020000120000000000000000000402506500310000500
+ Chỗ ở hợp pháp là nhà ở, phương tiện hoặc nhà khác mà công dân sử dụng để cư trú. Chỗ ở hợp pháp có thể thuộc quyền sở hữu của công dân hoặc được cơ quan, tổ chức, cá nhân cho thuê, cho mượn, cho ở nhờ theo quy định của pháp luật.
 
-**ID:** dk_00064171
+ Nơi thường trú là nơi công dân sinh sống thường xuyên, ổn định, không có thời hạn tại một chỗ ở nhất định và đã đăng ký thường trú.
 
----
+ Nơi tạm trú là nơi công dân sinh sống ngoài nơi đăng ký thường trú và đã đăng ký tạm trú.
 
+ 2. Trường hợp không xác định được nơi cư trú của công dân theo quy định tại khoản 1 Điều này thì nơi cư trú của công dân là nơi người đó đang sinh sống.(Điều này có nội dung liên quan đến Điều 15.6.LQ.25. Trình tự, thủ tục giải quyết hồ sơ xin trở lại quốc tịch Việt Nam; Điều 15.6.LQ.29. Trình tự, thủ tục giải quyết hồ sơ xin thôi quốc tịch Việt Nam; Điều 9.1.LQ.40. Nơi cư trú của cá nhân)
 
-### Điều 39.3.TT.1.15. Chỗ ở không được chuyển đến đăng ký thường trú
+Điều 39.3.NĐ.1.5. Nơi cư trú của công dân
 
-1. Chỗ ở không được chuyển đến đăng ký thường trú được quy định tại khoản 4 Điều 5 Nghị định số 31/2014/NĐ-CP.
+(Điều 5 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
-**Chỉ mục:** 15
+ 1. Nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú. Mỗi công dân chỉ được đăng ký thường trú tại một chỗ ở hợp pháp và là nơi thường xuyên sinh sống.
 
-**Mã phân cấp:** 39003000000000002000012000000000000000000040250650031000050000802520900350001500
+ Chỗ ở hợp pháp có thể thuộc quyền sở hữu, sử dụng của công dân hoặc được cơ quan, tổ chức, cá nhân cho thuê, cho mượn, cho ở nhờ theo quy định của pháp luật. Đối với chỗ ở hợp pháp do thuê, mượn hoặc ở nhờ của cá nhân, tổ chức tại thành phố trực thuộc trung ương phải bảo đảm điều kiện về diện tích bình quân theo quy định của Hội đồng nhân dân thành phố.
 
-**ID:** dk_00064172
+ 2. Trường hợp không xác định được nơi cư trú của công dân theo quy định tại Khoản 1 Điều này, thì nơi cư trú của công dân là nơi người đó đang sinh sống và có xác nhận của Công an xã, phường, thị trấn.
 
----
+ 3. Chỗ ở hợp pháp bao gồm:
 
+ a) Nhà ở;
 
-### Điều 39.3.NĐ.1.6. Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp
+ b) Tàu, thuyền, phương tiện khác nhằm mục đích để ở và phục vụ sinh hoạt của hộ gia đình, cá nhân;
 
-1. Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp để đăng ký thường trú là một trong các giấy tờ, tài liệu sau đây:
+ c) Nhà khác không thuộc Điểm a, Điểm b Khoản này nhưng được sử dụng nhằm mục đích để ở và phục vụ sinh hoạt của hộ gia đình, cá nhân.
 
-**Chỉ mục:** 6
+ 4. Không đăng ký thường trú khi công dân chuyển đến chỗ ở mới, thuộc một trong các trường hợp sau đây:
 
-**Mã phân cấp:** 390030000000000020000120000000000000000000402506500310000600
+ a) Chỗ ở nằm trong địa điểm cấm, khu vực cấm xây dựng hoặc lấn chiếm mốc giới bảo vệ công trình hạ tầng kỹ thuật, di tích lịch sử, văn hóa đã được xếp hạng;
 
-**ID:** dk_00064173
+ b) Chỗ ở mà toàn bộ diện tích nhà ở nằm trên đất lấn chiếm trái phép;
 
----
+ c) Chỗ ở đã có phương án bồi thường, hỗ trợ và tái định cư của cơ quan nhà nước có thẩm quyền; chỗ ở là nhà ở mà một phần hoặc toàn bộ diện tích nhà ở đang có tranh chấp, khiếu nại liên quan đến quyền sở hữu, sử dụng nhưng chưa được giải quyết theo quy định của pháp luật (trừ trường hợp những người có quan hệ là ông, bà nội, ngoại, cha, mẹ, vợ, chồng, con chuyển đến ở với nhau);
 
+ d) Chỗ ở bị kê biên, tịch thu để thi hành án, trưng mua theo quyết định của cơ quan nhà nước có thẩm quyền;
 
-### Điều 39.3.LQ.13. Nơi cư trú của người chưa thành niên
+ đ) Chỗ ở là nhà ở đã có quyết định phá dỡ của cơ quan nhà nước có thẩm quyền.(Điều này có nội dung liên quan đến Điều 42. Quy định chi tiết và hướng dẫn thi hành của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 9.1.LQ.40. Nơi cư trú của cá nhân; Điều 9.1.LQ.41. Nơi cư trú của người chưa thành niên; Điều 9.1.LQ.42. Nơi cư trú của người được giám hộ; Điều 9.1.LQ.43. Nơi cư trú của vợ, chồng; Điều 9.1.LQ.44. Nơi cư trú của quân nhân; Điều 9.1.LQ.45. Nơi cư trú của người làm nghề lưu động; Điều 15. Chỗ ở không được chuyển đến đăng ký thường trú của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
 
-1. Nơi cư trú của người chưa thành niên là nơi cư trú của cha, mẹ; nếu cha, mẹ có nơi cư trú khác nhau thì nơi cư trú của người chưa thành niên là nơi cư trú của cha hoặc mẹ mà người chưa thành niên thường xuyên chung sống.
+Điều 39.3.TT.1.15. Chỗ ở không được chuyển đến đăng ký thường trú
 
-**Chỉ mục:** 13
+(Điều 15 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-**Mã phân cấp:** 3900300000000000200001300000000000000000
+ 1. Chỗ ở không được chuyển đến đăng ký thường trú được quy định tại khoản 4 Điều 5 Nghị định số 31/2014/NĐ-CP.
 
-**ID:** dk_00064174
+ 2. Chỗ ở đã có phương án bồi thường, hỗ trợ và tái định cư của cơ quan nhà nước có thẩm quyền theo quy định tại điểm c khoản 4 Điều 5 Nghị định 31/2014/NĐ-CP được hiểu là chỗ ở đã được cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ và tái định cư và đã được thông báo tới chính quyền địa phương và các hộ dân.(Điều này có nội dung liên quan đến Điều 39.3.NĐ.1.5. Nơi cư trú của công dân của Nghị định 31/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 18/04/2014)
 
----
+Điều 39.3.NĐ.1.6. Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp
 
+(Điều 6 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
-### Điều 39.3.LQ.14. Nơi cư trú của người được giám hộ
+ 1. Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp để đăng ký thường trú là một trong các giấy tờ, tài liệu sau đây:
 
-1. Nơi cư trú của người được giám hộ là nơi cư trú của người giám hộ.
+ a) Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp thuộc quyền sở hữu của công dân là một trong các giấy tờ, tài liệu sau đây:
 
-**Chỉ mục:** 14
+ - Giấy chứng nhận quyền sở hữu nhà ở hoặc giấy tờ về quyền sở hữu nhà ở do cơ quan có thẩm quyền cấp qua các thời kỳ;
 
-**Mã phân cấp:** 3900300000000000200001400000000000000000
+ - Giấy tờ về quyền sử dụng đất ở theo quy định của pháp luật về đất đai (đã có nhà ở trên đất đó);
 
-**ID:** dk_00064175
+ - Giấy phép xây dựng theo quy định của pháp luật về xây dựng (đối với trường hợp phải cấp giấy phép);
 
----
+ - Hợp đồng mua bán nhà ở thuộc sở hữu nhà nước hoặc giấy tờ về hóa giá thanh lý nhà ở thuộc sở hữu nhà nước;
 
+ - Hợp đồng mua nhà ở hoặc giấy tờ chứng minh việc đã bàn giao nhà ở, đã nhận nhà ở của doanh nghiệp có chức năng kinh doanh nhà ở đầu tư xây dựng để bán;
 
-### Điều 39.3.LQ.15. Nơi cư trú của vợ, chồng
+ - Giấy tờ về mua, bán, tặng, cho, đổi, nhận thừa kế nhà ở có công chứng hoặc chứng thực của Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi tắt là Ủy ban nhân dân cấp xã);
 
-1. Nơi cư trú của vợ, chồng là nơi vợ, chồng thường xuyên chung sống.
+ - Giấy tờ về giao tặng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết, cấp nhà ở, đất ở cho cá nhân, hộ gia đình di dân theo kế hoạch của Nhà nước hoặc các đối tượng khác;
 
-**Chỉ mục:** 15
+ - Giấy tờ của Tòa án hoặc cơ quan hành chính nhà nước có thẩm quyền giải quyết cho được sở hữu nhà ở đã có hiệu lực pháp luật;
 
-**Mã phân cấp:** 3900300000000000200001500000000000000000
+ - Giấy tờ có xác nhận của Ủy ban nhân dân cấp xã về nhà ở, đất ở không có tranh chấp quyền sở hữu nhà ở, quyền sử dụng đất ở nếu không có một trong các giấy tờ nêu trên;
 
-**ID:** dk_00064176
+ - Giấy tờ chứng minh về đăng ký tàu, thuyền, phương tiện khác thuộc quyền sở hữu và địa chỉ bến gốc của phương tiện sử dụng để ở. Trường hợp không có giấy đăng ký thì cần có xác nhận của Ủy ban nhân dân cấp xã về việc có tàu, thuyền, phương tiện khác sử dụng để ở thuộc quyền sở hữu hoặc xác nhận việc mua bán, tặng cho, đổi, thừa kế tàu, thuyền, phương tiện khác và địa chỉ bến gốc của phương tiện đó.
 
----
+ b) Giấy tờ, tài liệu chứng minh việc cho thuê, cho mượn, cho ở nhờ chỗ ở hợp pháp là văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cơ quan, tổ chức hoặc của cá nhân (trường hợp văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cá nhân phải được công chứng hoặc chứng thực của Ủy ban nhân dân cấp xã). Đối với nhà ở, nhà khác tại thành phố trực thuộc trung ương phải có xác nhận của Ủy ban nhân dân cấp xã về điều kiện diện tích bình quân bảo đảm theo quy định của Hội đồng nhân dân thành phố trực thuộc trung ương và được người cho thuê, cho mượn, cho ở nhờ đồng ý băng văn bản;
 
+ c) Giấy tờ của cơ quan, tổ chức, cơ sở tôn giáo về việc công dân có chỗ ở thuộc trường hợp quy định tại Điểm c, Điểm d Khoản 1 Điều 26 của Luật Cư trú;
 
-### Điều 39.3.LQ.16. Nơi cư trú của cán bộ, chiến sĩ Quân đội nhân dân và Công an nhân dân
+ d) Giấy tờ của cơ quan, tổ chức do thủ trưởng cơ quan, tổ chức ký tên, đóng dấu chứng minh về việc được cấp, sử dụng nhà ở, chuyển nhượng nhà ở, có nhà ở tạo lập trên đất do cơ quan, tổ chức giao đất để làm nhà ở (đối với nhà ở, đất thuộc thẩm quyền quản lý của cơ quan, tổ chức).
 
-1. Nơi cư trú của người đang làm nghĩa vụ quân sự hoặc đang phục vụ có thời hạn trong Công an nhân dân là nơi đơn vị của người đó đóng quân.
+ 2. Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp để đăng ký tạm trú là một trong các giấy tờ, tài liệu sau đây:
 
-**Chỉ mục:** 16
+ a) Một trong những giấy tờ, tài liệu quy định tại Khoản 1 Điều này, trừ trường hợp giấy tờ, tài liệu chứng minh chỗ ở hợp pháp là văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cá nhân thì văn bản đó không cần công chứng hoặc chứng thực của Ủy ban nhân dân cấp xã;
 
-**Mã phân cấp:** 3900300000000000200001600000000000000000
+ b) Văn bản cam kết của công dân về việc có chỗ ở thuộc quyền sử dụng của mình và không có tranh chấp về quyền sử dụng nếu không có một trong các giấy tờ, tài liệu quy định tại Điểm a Khoản này.
 
-**ID:** dk_00064177
+ 3. Trong trường hợp các văn bản pháp luật về nhà ở có thay đổi thì Bộ trưởng Bộ Công an quy định cụ thể các giấy tờ, tài liệu khác chứng minh chỗ ở hợp pháp để đăng ký thường trú, tạm trú phù hợp với văn bản pháp luật đó.Điều 39.3.LQ.13. Nơi cư trú của người chưa thành niên
 
----
+(Điều 13 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
+ 1. Nơi cư trú của người chưa thành niên là nơi cư trú của cha, mẹ; nếu cha, mẹ có nơi cư trú khác nhau thì nơi cư trú của người chưa thành niên là nơi cư trú của cha hoặc mẹ mà người chưa thành niên thường xuyên chung sống.
 
-### Điều 39.3.TT.1.3. Nơi cư trú của cán bộ, chiến sĩ Quân đội nhân dân và Công an nhân dân
+ 2. Người chưa thành niên có thể có nơi cư trú khác với nơi cư trú của cha, mẹ nếu được cha, mẹ đồng ý hoặc pháp luật có quy định.(Điều này có nội dung liên quan đến Điều 9.1.LQ.41. Nơi cư trú của người chưa thành niên)
 
-1. Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân quốc phòng; sĩ quan, hạ sĩ quan nghiệp vụ, sĩ quan, hạ sĩ quan chuyên môn kỹ thuật, công nhân, viên chức Công an nhân dân ở ngoài doanh trại của Quân đội nhân dân, Công an nhân dân thì thực hiện đăng ký cư trú theo quy định của Luật Cư trú và hướng dẫn tại Thông tư này.
+Điều 39.3.LQ.14. Nơi cư trú của người được giám hộ
 
-**Chỉ mục:** 3
+(Điều 14 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Mã phân cấp:** 390030000000000020000160000000000000000000802520900350000300
+ 1. Nơi cư trú của người được giám hộ là nơi cư trú của người giám hộ.
 
-**ID:** dk_00064178
+ 2. Người được giám hộ có thể có nơi cư trú khác với nơi cư trú của người giám hộ nếu được người giám hộ đồng ý hoặc pháp luật có quy định.(Điều này có nội dung liên quan đến Điều 9.1.LQ.42. Nơi cư trú của người được giám hộ)
 
----
+Điều 39.3.LQ.15. Nơi cư trú của vợ, chồng
 
+(Điều 15 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-### Điều 39.3.LQ.17. Nơi cư trú của người làm nghề lưu động
+ 1. Nơi cư trú của vợ, chồng là nơi vợ, chồng thường xuyên chung sống.
 
-Nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 Điều 12 của Luật này.
+ 2. Vợ, chồng có thể có nơi cư trú khác nhau nếu có thoả thuận.(Điều này có nội dung liên quan đến Điều 9.1.LQ.43. Nơi cư trú của vợ, chồng)
 
-**Chỉ mục:** 17
+Điều 39.3.LQ.16. Nơi cư trú của cán bộ, chiến sĩ Quân đội nhân dân và Công an nhân dân
 
-**Mã phân cấp:** 3900300000000000200001700000000000000000
+(Điều 16 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**ID:** dk_00064179
+ 1. Nơi cư trú của người đang làm nghĩa vụ quân sự hoặc đang phục vụ có thời hạn trong Công an nhân dân là nơi đơn vị của người đó đóng quân.
 
----
+ 2. Nơi cư trú của sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân quốc phòng; sĩ quan, hạ sĩ quan nghiệp vụ, sĩ quan, hạ sĩ quan chuyên môn kỹ thuật, công nhân, viên chức Công an nhân dân là nơi đơn vị của người đó đóng quân, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 Điều 12 của Luật này.(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 9.1.LQ.44. Nơi cư trú của quân nhân)
 
+Điều 39.3.TT.1.3. Nơi cư trú của cán bộ, chiến sĩ Quân đội nhân dân và Công an nhân dân
 
-### Điều 39.3.LQ.18. Đăng ký thường trú
+(Điều 3 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-Đăng ký thường trú là việc công dân đăng ký nơi thường trú của mình với cơ quan nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký thường trú, cấp sổ hộ khẩu cho họ.
+ 1. Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân quốc phòng; sĩ quan, hạ sĩ quan nghiệp vụ, sĩ quan, hạ sĩ quan chuyên môn kỹ thuật, công nhân, viên chức Công an nhân dân ở ngoài doanh trại của Quân đội nhân dân, Công an nhân dân thì thực hiện đăng ký cư trú theo quy định của Luật Cư trú và hướng dẫn tại Thông tư này.
 
-**Chỉ mục:** 18
+ 2. Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân quốc phòng; sĩ quan, hạ sĩ quan nghiệp vụ, sĩ quan, hạ sĩ quan chuyên môn kỹ thuật, công nhân, viên chức Công an nhân dân; người đang làm nghĩa vụ quân sự, phục vụ có thời hạn trong Quân đội nhân dân, Công an nhân dân ở trong doanh trại của Quân đội nhân dân, Công an nhân dân thì quản lý cư trú theo quy định riêng của Bộ Quốc phòng, Bộ Công an.Điều 39.3.LQ.17. Nơi cư trú của người làm nghề lưu động
 
-**Mã phân cấp:** 3900300000000000300001800000000000000000
+(Điều 17 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**ID:** dk_00064181
+ Nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 Điều 12 của Luật này.(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 9.1.LQ.45. Nơi cư trú của người làm nghề lưu động)
 
----
+Chương III
 
+ĐĂNG KÝ THƯỜNG TRÚ
 
-### Điều 39.3.NĐ.1.7. Thời hạn đăng ký thường trú
+(Chương này có nội dung liên quan đến Điều 15.6.NĐ.1.5. Một số điều kiện được nhập quốc tịch Việt Nam của Nghị định 78/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quốc tịch Việt Nam ban hành ngày 22/09/2009)
 
-1. Trong thời hạn 12 tháng, kể từ ngày chuyển đến chỗ ở hợp pháp mới và có đủ điều kiện đăng ký thường trú thì người thay đổi chỗ ở hợp pháp hoặc đại diện hộ gia đình có trách nhiệm làm thủ tục đăng ký thường trú tại chỗ ở mới.
+Điều 39.3.LQ.18. Đăng ký thường trú
 
-**Chỉ mục:** 7
+(Điều 18 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Mã phân cấp:** 390030000000000030000180000000000000000000402506500310000700
+ Đăng ký thường trú là việc công dân đăng ký nơi thường trú của mình với cơ quan nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký thường trú, cấp sổ hộ khẩu cho họ.Điều 39.3.NĐ.1.7. Thời hạn đăng ký thường trú
 
-**ID:** dk_00064182
+(Điều 7 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
----
+ 1. Trong thời hạn 12 tháng, kể từ ngày chuyển đến chỗ ở hợp pháp mới và có đủ điều kiện đăng ký thường trú thì người thay đổi chỗ ở hợp pháp hoặc đại diện hộ gia đình có trách nhiệm làm thủ tục đăng ký thường trú tại chỗ ở mới.
 
+ 2. Trong thời hạn 60 ngày, kể từ ngày có ý kiến đồng ý của người có so hộ khẩu, người được người có sổ hộ khẩu đồng ý cho nhập vào sổ của mình hoặc đại diện hộ gia đình có trách nhiệm làm thủ tục đăng ký thường trú.
 
-### Điều 39.3.TT.1.9. Thẩm quyền đăng ký thường trú
+ 3. Trong thời hạn 60 ngày, kể từ ngày trẻ em được đăng ký khai sinh, cha, mẹ hoặc đại diện hộ gia đình, người giám hộ, người nuôi dưỡng, chăm sóc trẻ em có trách nhiệm làm thủ tục đăng ký thường trú cho trẻ em đó.Điều 39.3.TT.1.9. Thẩm quyền đăng ký thường trú
 
-1. Công an quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương có thẩm quyền đăng ký thường trú tại quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương.
+(Điều 9 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-**Chỉ mục:** 9
+ 1. Công an quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương có thẩm quyền đăng ký thường trú tại quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương.
 
-**Mã phân cấp:** 390030000000000030000180000000000000000000802520900350000900
+ 2. Công an xã, thị trấn thuộc huyện thuộc tỉnh có thẩm quyền đăng ký thường trú tại các xã, thị trấn thuộc huyện thuộc tỉnh. Công an thị xã, thành phố thuộc tỉnh có thẩm quyền đăng ký thường trú tại thị xã, thành phố thuộc tỉnh.Điều 39.3.TT.1.13. Xác nhận về việc trước đây công dân đã đăng ký thường trú
 
-**ID:** dk_00064183
+(Điều 13 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
----
+ 1. Thẩm quyền xác nhận: Cơ quan có thẩm quyền đăng ký thường trú thì có thẩm quyền xác nhận việc công dân trước đây đã có hộ khẩu thường trú.
 
+ 2. Hồ sơ đề nghị xác nhận bao gồm:
 
-### Điều 39.3.TT.1.13. Xác nhận về việc trước đây công dân đã đăng ký thường trú
+ a) Phiếu báo thay đổi hộ khẩu, nhân khẩu;
 
-1. Thẩm quyền xác nhận: Cơ quan có thẩm quyền đăng ký thường trú thì có thẩm quyền xác nhận việc công dân trước đây đã có hộ khẩu thường trú.
+ b) Giấy tờ, tài liệu chứng minh công dân trước đây có hộ khẩu thường trú (nếu có).
 
-**Chỉ mục:** 13
+ 3. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ, cơ quan có thẩm quyền phải xác nhận và trả kết quả cho công dân; trường hợp không xác nhận phải trả lời bằng văn bản và nêu rõ lý do. Nội dung xác nhận bao gồm các thông tin cơ bản của từng cá nhân: Họ và tên, tên gọi khác (nếu có), ngày, tháng, năm sinh, giới tính, nguyên quán, dân tộc, tôn giáo, số chứng minh nhân dân, nơi thường trú, ngày, tháng, năm đăng ký thường trú, ngày, tháng, năm xóa đăng ký thường trú.Điều 39.3.LQ.19. Điều kiện đăng ký thường trú tại tỉnh
 
-**Mã phân cấp:** 390030000000000030000180000000000000000000802520900350001300
+(Điều 19 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**ID:** dk_00064184
+ Công dân có chỗ ở hợp pháp ở tỉnh nào thì được đăng ký thường trú tại tỉnh đó. Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ của cá nhân thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản.(Điều này có nội dung liên quan đến Điều 39.3.LQ.25. Sổ hộ khẩu cấp cho hộ gia đình; Điều 39.3.LQ.26. Sổ hộ khẩu cấp cho cá nhân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 39.3.TT.1.14. Hủy bỏ kết quả đăng ký thường trú trái pháp luật của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
 
----
+Điều 39.3.LQ.20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương
 
-
-### Điều 39.3.LQ.19. Điều kiện đăng ký thường trú tại tỉnh
-
-Công dân có chỗ ở hợp pháp ở tỉnh nào thì được đăng ký thường trú tại tỉnh đó. Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ của cá nhân thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản.
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3900300000000000300001900000000000000000
-
-**ID:** dk_00064185
-
----
-
-
-### Điều 39.3.LQ.20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương
+(Điều 20 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 36/2013/QH13 có hiệu lực thi hành kể từ ngày 01/01/2014)
 
 Công dân thuộc một trong những trường hợp sau đây thì được đăng ký thường trú tại thành phố trực thuộc trung ương:
 
-**Chỉ mục:** 20
+1. Có chỗ ở hợp pháp, trường hợp đăng ký thường trú vào huyện, thị xã thuộc thành phố trực thuộc trung ương thì phải có thời gian tạm trú tại thành phố đó từ một năm trở lên, trường hợp đăng ký thường trú vào quận thuộc thành phố trực thuộc trung ương thì phải có thời gian tạm trú tại thành phố đó từ hai năm trở lên;
 
-**Mã phân cấp:** 3900300000000000300002000000000000000000
+2. Được người có sổ hộ khẩu đồng ý cho nhập vào sổ hộ khẩu của mình nếu thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00064186
+a) Vợ về ở với chồng; chồng về ở với vợ; con về ở với cha, mẹ; cha, mẹ về ở với con;
 
----
+b) Người hết tuổi lao động, nghỉ hưu, nghỉ mất sức, nghỉ thôi việc về ở với anh, chị, em ruột;
 
+c) Người khuyết tật, mất khả năng lao động, người bị bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức, khả năng điều khiển hành vi về ở với anh, chị, em ruột, cô, dì, chú, bác, cậu ruột, người giám hộ;
 
-### Điều 39.3.NĐ.1.8. Điều kiện công dân tạm trú được đăng ký thường trú tại thành phố trực thuộc trung ương
+d) Người chưa thành niên không còn cha, mẹ hoặc còn cha, mẹ nhưng cha, mẹ không có khả năng nuôi dưỡng về ở với ông, bà nội, ngoại, anh, chị, em ruột, cô, dì, chú, bác, cậu ruột, người giám hộ;
 
-1. Công dân đang tạm trú nếu có đủ các điều kiện dưới đây thì được đăng ký thường trú tại thành phố trực thuộc trung ương:
+đ) Người thành niên độc thân về ở với ông, bà nội, ngoại, anh, chị, em ruột, cô, dì, chú, bác, cậu ruột;
 
-**Chỉ mục:** 8
+e) Ông bà nội, ngoại về ở với cháu ruột;
 
-**Mã phân cấp:** 390030000000000030000200000000000000000000402506500310000800
+3. Được điều động, tuyển dụng đến làm việc tại cơ quan, tổ chức hưởng lương từ ngân sách nhà nước hoặc theo chế độ hợp đồng không xác định thời hạn và có chỗ ở hợp pháp;
 
-**ID:** dk_00064187
+4. Trước đây đã đăng ký thường trú tại thành phố trực thuộc trung ương, nay trở về thành phố đó sinh sống tại chỗ ở hợp pháp của mình;
 
----
+5. Trường hợp quy định tại các khoản 1, 3 và 4 Điều này đăng ký thường trú vào chỗ ở hợp pháp do thuê, mượn, ở nhờ của cá nhân, tổ chức thì phải có đủ các điều kiện sau đây:
 
+a) Bảo đảm điều kiện về diện tích bình quân theo quy định của Hội đồng nhân dân thành phố;
 
-### Điều 39.3.TT.1.7. Giấy tờ, tài liệu chứng minh thuộc một trong các điều kiện đăng ký thường trú tại thành phố trực thuộc Trung ương
+b) Có xác nhận của Ủy ban nhân dân xã, phường, thị trấn về điều kiện diện tích bình quân;
 
-Ngoài các giấy tờ, tài liệu có trong hồ sơ đăng ký thường trú quy định tại Điều 6 Thông tư này, các trường hợp chuyển đến đăng ký thường trú tại thành phố trực thuộc Trung ương phải có thêm một trong giấy tờ, tài liệu sau:
+c) Được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản;
 
-**Chỉ mục:** 7
+6. Việc đăng ký thường trú vào nội thành thành phố Hà Nội thực hiện theo quy định tại khoản 4 Điều 19 của Luật Thủ đô.
 
-**Mã phân cấp:** 390030000000000030000200000000000000000000802520900350000700
+(Điều này có nội dung liên quan đến Điều 39.3.LQ.21. Thủ tục đăng ký thường trú; Điều 39.3.LQ.25. Sổ hộ khẩu cấp cho hộ gia đình; Điều 39.3.LQ.26. Sổ hộ khẩu cấp cho cá nhân; Điều 42. Quy định chi tiết và hướng dẫn thi hành của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 35.5.LQ.19. Quản lý dân cư; Điều 7. Giấy tờ, tài liệu chứng minh thuộc một trong các điều kiện đăng ký thường trú tại thành phố trực thuộc Trung ương; Điều 39.3.TT.1.14. Hủy bỏ kết quả đăng ký thường trú trái pháp luật; Điều 17. Cấp sổ tạm trú của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
 
-**ID:** dk_00064188
+Điều 39.3.NĐ.1.8. Điều kiện công dân tạm trú được đăng ký thường trú tại thành phố trực thuộc trung ương
 
----
+(Điều 8 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
+ 1. Công dân đang tạm trú nếu có đủ các điều kiện dưới đây thì được đăng ký thường trú tại thành phố trực thuộc trung ương:
 
-### Điều 39.3.LQ.21. Thủ tục đăng ký thường trú
+ a) Có chỗ ở hợp pháp tại thành phố trực thuộc trung ương;
 
-1. Người đăng ký thường trú nộp hồ sơ đăng ký thường trú tại cơ quan công an sau đây:
+ b) Có thời gian tạm trú liên tục tại thành phố trực thuộc trung ương từ một năm trở lên đối với trường hợp đăng ký thường trú vào huyện, thị xã thuộc thành phố trực thuộc trung ương; từ hai năm trở lên đối với trường hợp đăng ký thường trú vào quận thuộc thành phố trực thuộc trung ương;
 
-**Chỉ mục:** 21
+ Trường hợp tạm trú liên tục tại nhiều chỗ ở khác nhau thì thời gian tạm trú liên tục được tính bằng tổng thời gian tạm trú tại các chỗ ở đó;
 
-**Mã phân cấp:** 3900300000000000300002100000000000000000
+ c) Nơi đề nghị được đăng ký thường trú phải là nơi đang tạm trú.
 
-**ID:** dk_00064189
+ 2. Thời hạn tạm trú liên tục được tính từ ngày công dân đăng ký tạm trú đến ngày công dân nộp hồ sơ đăng ký thường trú.
 
----
+ 3. Giấy tờ chứng minh thời hạn tạm trú là sổ tạm trú cấp cho hộ gia đình hoặc cấp cho cá nhân theo mẫu quy định của Bộ Công an.
 
+ 4. Trường hợp đăng ký thường trú vào nội thành thành phố Hà Nội thực hiện theo quy định tại Khoản 4 Điều 19 của Luật Thủ đô và các văn bản hướng dẫn thi hành Luật Thủ đô.(Điều này có nội dung liên quan đến Điều 42. Quy định chi tiết và hướng dẫn thi hành của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 35.5.LQ.19. Quản lý dân cư)
 
-### Điều 39.3.TT.1.6. Hồ sơ đăng ký thường trú
+Điều 39.3.TT.1.7. Giấy tờ, tài liệu chứng minh thuộc một trong các điều kiện đăng ký thường trú tại thành phố trực thuộc Trung ương
 
-1. Hồ sơ đăng ký thường trú, bao gồm:
+(Điều 7 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-**Chỉ mục:** 6
+ Ngoài các giấy tờ, tài liệu có trong hồ sơ đăng ký thường trú quy định tại Điều 6 Thông tư này, các trường hợp chuyển đến đăng ký thường trú tại thành phố trực thuộc Trung ương phải có thêm một trong giấy tờ, tài liệu sau:
 
-**Mã phân cấp:** 390030000000000030000210000000000000000000802520900350000600
+ 1. Đối với trường hợp thuộc khoản 1 Điều 20 Luật Cư trú, phải có giấy tờ chứng minh thời hạn tạm trú quy định tại khoản 3 Điều 8 Nghị định số 31/2014/NĐ-CP.
 
-**ID:** dk_00064190
+ 2. Đối với trường hợp thuộc khoản 2 Điều 20 Luật Cư trú
 
----
+ a) Giấy tờ, tài liệu chứng minh thuộc trường hợp quy định tại điểm a khoản 2 Điều 20 Luật Cư trú, bao gồm:
 
+ - Giấy tờ, tài liệu để chứng minh quan hệ vợ, chồng: Giấy đăng ký kết hôn; sổ hộ khẩu, giấy chuyển hộ khẩu hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;
 
-### Điều 39.3.LQ.22. Xoá đăng ký thường trú
+ - Giấy tờ, tài liệu để chứng minh quan hệ cha, mẹ, con: Giấy khai sinh; quyết định công nhận việc nuôi con nuôi; quyết định việc nhận cha, mẹ, con; sổ hộ khẩu, giấy chuyển hộ khẩu hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;
 
-1. Người thuộc một trong các trường hợp sau đây thì bị xoá đăng ký thường trú:
+ b) Giấy tờ, tài liệu chứng minh thuộc trường hợp quy định tại điểm b khoản 2 Điều 20 Luật Cư trú, bao gồm:
 
-**Chỉ mục:** 22
+ - Giấy tờ, tài liệu để chứng minh mối quan hệ anh, chị, em ruột: Sổ hộ khẩu, giấy chuyển hộ khẩu, giấy khai sinh hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;
 
-**Mã phân cấp:** 3900300000000000300002200000000000000000
+ - Giấy tờ, tài liệu để chứng minh người hết tuổi lao động: Giấy khai sinh, sổ hộ khẩu, chứng minh nhân dân hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú về ngày, tháng, năm sinh;
 
-**ID:** dk_00064191
+ - Giấy tờ, tài liệu để chứng minh là người được nghỉ chế độ hưu: Sổ hưu; quyết định nghỉ hưu; xác nhận của cơ quan bảo hiểm xã hội; xác nhận của cơ quan, tổ chức nơi người đó làm việc trước khi nghỉ hưu hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;
 
----
+ - Giấy tờ, tài liệu để chứng minh về việc công dân nghỉ mất sức, nghỉ thôi việc: Quyết định hoặc xác nhận của cơ quan, tổ chức nơi người đó làm việc trước khi nghỉ mất sức, nghỉ thôi việc hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;
 
+ c) Giấy tờ, tài liệu chứng minh thuộc trường hợp quy định tại điểm c khoản 2 Điều 20 Luật Cư trú, bao gồm:
 
-### Điều 39.3.TT.1.11. Xóa đăng ký thường trú
+ - Giấy xác nhận khuyết tật hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú đối với người khuyết tật có một hoặc nhiều khiếm khuyết về thể chất, tinh thần theo quy định của pháp luật về người khuyết tật;
 
-1. Xóa đăng ký thường trú là việc cơ quan có thẩm quyền đăng ký thường trú xóa tên người đã đăng ký thường trú trong sổ hộ khẩu và sổ đăng ký thường trú.
+ - Chứng nhận của cơ sở y tế từ cấp huyện trở lên đối với người mất khả năng lao động, người bị bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức, khả năng điều khiển hành vi;
 
-**Chỉ mục:** 11
+ - Sổ hộ khẩu, giấy khai sinh hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú để chứng minh mối quan hệ anh, chị, em, cô, dì, chú, bác, cậu ruột, người giám hộ;
 
-**Mã phân cấp:** 390030000000000030000220000000000000000000802520900350001100
+ - Văn bản về việc cử người giám hộ của Ủy ban nhân dân cấp xã nơi cư trú, trừ các trường hợp người giám hộ đương nhiên của người chưa thành niên, của người mất năng lực hành vi dân sự theo quy định của Bộ luật dân sự;
 
-**ID:** dk_00064192
+ d) Giấy tờ, tài liệu chứng minh thuộc trường hợp quy định tại điểm d khoản 2 Điều 20 Luật Cư trú, bao gồm:
 
----
+ - Giấy tờ, tài liệu để xác định là người chưa thành niên: Giấy khai sinh, sổ hộ khẩu, chứng minh nhân dân hoặc xác nhận ngày, tháng, năm sinh do Ủy ban nhân dân cấp xã nơi cư trú cấp;
 
+ - Giấy tờ, tài liệu chứng minh không còn cha, mẹ: Giấy chứng tử của cha, mẹ hoặc quyết định của Tòa án tuyên bố cha, mẹ mất tích, chết hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú về việc cha, mẹ đã chết;
 
-### Điều 39.3.LQ.23. Thay đổi nơi đăng ký thường trú trong trường hợp chuyển chỗ ở hợp pháp
+ - Giấy tờ, tài liệu chứng minh về việc cha, mẹ không có khả năng nuôi dưỡng: Xác nhận của Ủy ban nhân dân cấp xã;
+
+ Ngoài các giấy tờ, tài liệu nêu trên, tùy từng trường hợp cụ thể khi đăng ký thường trú công dân phải có giấy tờ, tài liệu chứng minh hoặc xác nhận của Ủy ban nhân dân cấp xã về mối quan hệ ông, bà nội, ngoại, anh, chị, em ruột, cô, dì, chú, bác, cậu ruột, người giám hộ.
+
+ đ) Giấy tờ, tài liệu chứng minh thuộc trường hợp quy định tại điểm đ, điểm e khoản 2 Điều 20 Luật Cư trú, bao gồm:
+
+ - Giấy tờ chứng minh là người độc thân: Xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;
+
+ - Giấy tờ, tài liệu để chứng minh mối quan hệ ông, bà nội, ngoại, anh, chị, em ruột, cô, dì, chú, bác, cậu ruột: Sổ hộ khẩu, giấy chuyển hộ khẩu, giấy khai sinh hoặc xác nhận của Ủy ban nhân dân cấp xã nơi cư trú.
+
+ 3. Đối với trường hợp thuộc khoản 3 Điều 20 Luật Cư trú
+
+ a) Giấy tờ, tài liệu chứng minh là người đang làm việc tại cơ quan, tổ chức hưởng lương từ ngân sách nhà nước bao gồm một trong các loại giấy tờ, tài liệu sau:
+
+ - Giấy giới thiệu (ký tên, đóng dấu, ghi rõ họ tên) của Thủ trưởng đơn vị quản lý trực tiếp (kể cả Quân đội nhân dân và Công an nhân dân) kèm theo một trong các giấy tờ, tài liệu sau:
+
+ + Quyết định điều động, tuyển dụng người làm việc hưởng lương từ ngân sách nhà nước là cán bộ, công chức, người thuộc Quân đội nhân dân, Công an nhân dân;
+
+ + Quyết định về nâng lương cán bộ, công chức; nâng lương, phong, thăng cấp bậc hàm; quyết định bổ nhiệm chức vụ thuộc Quân đội nhân dân, Công an nhân dân;
+
+ - Xác nhận (ký tên, đóng dấu) của Thủ trưởng đơn vị quản lý trực tiếp (kể cả Quân đội nhân dân và Công an nhân dân) về việc đang làm việc hưởng lương từ ngân sách nhà nước.
+
+ b) Giấy tờ, tài liệu chứng minh là người đang làm việc theo chế độ hợp đồng không xác định thời hạn tại các cơ quan, tổ chức bao gồm một trong các loại giấy tờ, tài liệu sau:
+
+ - Giấy giới thiệu (ký tên, đóng dấu, ghi rõ họ tên) của Thủ trưởng đơn vị trực tiếp (kể cả Quân đội nhân dân và Công an nhân dân) kèm theo một trong các giấy tờ, tài liệu sau:
+
+ + Hợp đồng lao động không xác định thời hạn theo pháp luật lao động (áp dụng cho mọi cơ quan, tổ chức, kể cả các tổ chức thuộc các thành phần kinh tế có sử dụng lao động);
+
+ + Hợp đồng làm việc không xác định thời hạn trong các đơn vị sự nghiệp của Nhà nước theo pháp luật cán bộ, công chức.
+
+ - Riêng đối với những người là lãnh đạo thuộc cơ quan, tổ chức thì quyết định của cấp có thẩm quyền về bổ nhiệm, điều động lãnh đạo thuộc cơ quan, tổ chức hoặc giấy tờ chứng minh là người lãnh đạo thuộc cơ quan, tổ chức đó thay cho hợp đồng không xác định thời hạn.
+
+ - Xác nhận (ký tên, đóng dấu) của Thủ trưởng cơ quan, tổ chức quản lý trực tiếp (kể cả Quân đội nhân dân và Công an nhân dân) về việc công dân đang làm việc theo chế độ hợp đồng lao động không xác định thời hạn (áp dụng cho mọi cơ quan, tổ chức, kể cả các tổ chức thuộc các thành phần kinh tế có sử dụng lao động) hoặc theo chế độ hợp đồng làm việc không xác định thời hạn.
+
+ Thủ trưởng đơn vị quản lý trực tiếp là Thủ trưởng cơ quan, tổ chức, đơn vị lực lượng vũ trang được sử dụng con dấu riêng.
+
+ 4. Đối với trường hợp thuộc khoản 4 Điều 20 Luật Cư trú, phải có một trong các loại giấy tờ, tài liệu sau:
+
+ Sổ hộ khẩu, chứng minh nhân dân hoặc xác nhận của Công an quận, huyện, thị xã nơi công dân trước đây đã đăng ký thường trú về việc công dân đã đăng ký thường trú ở thành phố trực thuộc Trung ương đó.(Điều này có nội dung liên quan đến Điều 39.3.LQ.20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006)
+
+Điều 39.3.LQ.21. Thủ tục đăng ký thường trú
+
+(Điều 21 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
+
+ 1. Người đăng ký thường trú nộp hồ sơ đăng ký thường trú tại cơ quan công an sau đây:
+
+ a) Đối với thành phố trực thuộc trung ương thì nộp hồ sơ tại Công an huyện, quận, thị xã;
+
+ b) Đối với tỉnh thì nộp hồ sơ tại Công an xã, thị trấn thuộc huyện, Công an thị xã, thành phố thuộc tỉnh.
+
+ 2. Hồ sơ đăng ký thường trú bao gồm:
+
+ a) Phiếu báo thay đổi hộ khẩu, nhân khẩu; bản khai nhân khẩu;
+
+ b) Giấy chuyển hộ khẩu theo quy định tại Điều 28 của Luật này;
+
+ c) Giấy tờ và tài liệu chứng minh chỗ ở hợp pháp. Đối với trường hợp chuyển đến thành phố trực thuộc trung ương phải có thêm tài liệu chứng minh thuộc một trong các trường hợp quy định tại Điều 20 của Luật này.
+
+ 3. Trong thời hạn mười lăm ngày, kể từ ngày nhận đủ hồ sơ, cơ quan có thẩm quyền quy định tại khoản 1 Điều này phải cấp sổ hộ khẩu cho người đã nộp hồ sơ đăng ký thường trú; trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.(Điều này có nội dung liên quan đến Điều 20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương; Điều 39.3.LQ.23. Thay đổi nơi đăng ký thường trú trong trường hợp chuyển chỗ ở hợp pháp; Điều 28. Giấy chuyển hộ khẩu; Điều 39.3.LQ.29. Điều chỉnh những thay đổi trong sổ hộ khẩu của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006)
+
+Điều 39.3.TT.1.6. Hồ sơ đăng ký thường trú
+
+(Điều 6 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
+
+ 1. Hồ sơ đăng ký thường trú, bao gồm:
+
+ a) Phiếu báo thay đổi hộ khẩu, nhân khẩu;
+
+ b) Bản khai nhân khẩu (đối với trường hợp phải khai bản khai nhân khẩu);
+
+ c) Giấy chuyển hộ khẩu (đối với các trường hợp phải cấp giấy chuyển hộ khẩu quy định tại khoản 2 Điều 28 Luật Cư trú);
+
+ d) Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp quy định tại Điều 6 Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú (sau đây viết gọn là Nghị định số 31/2014/NĐ-CP). Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý cho đăng ký thường trú vào chỗ ở của mình và ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ, tên; trường hợp người cho thuê, cho mượn, cho ở nhờ đã có ý kiến bằng văn bản đồng ý cho đăng ký thường trú vào chỗ ở của mình thì không phải ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu. Đối với chỗ ở hợp pháp do thuê, mượn, ở nhờ tại thành phố trực thuộc Trung ương phải có xác nhận của Ủy ban nhân dân cấp xã về điều kiện diện tích bình quân bảo đảm theo quy định của Hội đồng nhân dân thành phố trực thuộc Trung ương.
+
+ Trường hợp có quan hệ gia đình là ông, bà nội, ngoại, cha, mẹ, vợ, chồng, con và anh, chị, em ruột, cô, dì, chú, bác, cậu ruột, cháu ruột chuyển đến ở với nhau; người chưa thành niên không còn cha, mẹ hoặc còn cha, mẹ nhưng cha, mẹ không có khả năng nuôi dưỡng, người khuyết tật mất khả năng lao động, người bị bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức, khả năng điều khiển hành vi về ở với người giám hộ thì không phải xuất trình giấy tờ, tài liệu chứng minh chỗ ở hợp pháp nhưng phải xuất trình giấy tờ chứng minh hoặc xác nhận của Ủy ban nhân dân xã, phường, thị trấn (sau đây viết gọn là Ủy ban nhân dân cấp xã) về mối quan hệ nêu trên.
+
+ 2. Hồ sơ đăng ký thường trú đối với một số trường hợp cụ thể
+
+ Ngoài các giấy tờ, tài liệu có trong hồ sơ đăng ký thường trú hướng dẫn tại khoản 1 Điều này, các trường hợp dưới đây phải có thêm giấy tờ sau:
+
+ a) Trẻ em đăng ký thường trú theo quy định tại Điều 13 Luật Cư trú, khi đăng ký thường trú phải có giấy khai sinh;
+
+ b) Người chưa thành niên nếu không đăng ký thường trú cùng cha, mẹ hoặc cha hoặc mẹ mà đăng ký thường trú cùng với người khác thì phải có ý kiến đồng ý bằng văn bản của cha, mẹ hoặc cha hoặc mẹ, có xác nhận của Ủy ban nhân dân cấp xã;
+
+ c) Người được cơ quan, tổ chức nuôi dưỡng, chăm sóc tập trung khi đăng ký thường trú thì cơ quan, tổ chức đó có văn bản đề nghị. Trường hợp được cá nhân chăm sóc, nuôi dưỡng tập trung thì cá nhân đó có văn bản đề nghị có xác nhận của Ủy ban nhân dân cấp xã. Văn bản đề nghị cần nêu rõ các thông tin cơ bản của từng người như sau: Họ và tên, ngày, tháng, năm sinh, giới tính, nguyên quán, dân tộc, quốc tịch, tôn giáo, số chứng minh nhân dân, nơi thường trú trước khi chuyển đến, địa chỉ chỗ ở hiện nay;
+
+ d) Người sinh sống tại cơ sở tôn giáo khi đăng ký thường trú phải có giấy tờ chứng minh là chức sắc tôn giáo, nhà tu hành hoặc người khác chuyên hoạt động tôn giáo theo quy định của pháp luật về tín ngưỡng, tôn giáo;
+
+ Chức sắc tôn giáo, nhà tu hành hoặc người khác chuyên hoạt động tôn giáo thuyên chuyển nơi hoạt động tôn giáo, khi đăng ký thường trú tại các cơ sở tôn giáo phải có giấy tờ chứng minh việc thuyên chuyển nơi hoạt động tôn giáo theo quy định của pháp luật về tín ngưỡng, tôn giáo;
+
+ đ) Người Việt Nam định cư ở nước ngoài mang hộ chiếu nước ngoài, giấy tờ thay hộ chiếu do nước ngoài cấp còn giá trị hoặc không có hộ chiếu nhưng có giấy tờ thường trú do nước ngoài cấp nay trở về Việt Nam thường trú, khi đăng ký thường trú phải có giấy tờ hồi hương do cơ quan đại diện Việt Nam ở nước ngoài cấp (nếu người đó ở nước ngoài) hoặc văn bản đồng ý cho giải quyết thường trú của Cục Quản lý xuất nhập cảnh (nếu người đó đang tạm trú ở trong nước), kèm theo giấy giới thiệu do Phòng Quản lý xuất, nhập cảnh nơi người đó xin thường trú cấp;
+
+ e) Công dân Việt Nam định cư ở nước ngoài có hộ chiếu Việt Nam hoặc giấy tờ khác có giá trị thay hộ chiếu còn giá trị sử dụng trở về Việt Nam thường trú khi đăng ký thường trú phải có hộ chiếu Việt Nam hoặc giấy tờ khác có giá trị thay hộ chiếu có dấu kiểm chứng của lực lượng kiểm soát xuất nhập cảnh tại cửa khẩu;
+
+ g) Người nước ngoài được nhập quốc tịch Việt Nam khi đăng ký thường trú phải có giấy tờ chứng minh có quốc tịch Việt Nam;
+
+ h) Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân quốc phòng; sĩ quan, hạ sĩ quan nghiệp vụ, sĩ quan, hạ sĩ quan chuyên môn kỹ thuật, công nhân, viên chức Công an nhân dân ở trong doanh trại của Quân đội nhân dân, Công an nhân dân khi đăng ký thường trú ngoài doanh trại thì phải có giấy giới thiệu hoặc xác nhận của Thủ trưởng đơn vị quản lý trực tiếp (ký, ghi rõ họ tên và đóng dấu của đơn vị mình). Trường hợp đã đăng ký thường trú ngoài doanh trại khi thay đổi nơi đăng ký thường trú phải có giấy chuyển hộ khẩu;
+
+ i) Cá nhân được người có sổ hộ khẩu đồng ý cho nhập vào sổ hộ khẩu của mình khi đăng ký thường trú phải có ý kiến đồng ý cho đăng ký thường trú của chủ hộ, chữ ký, ghi rõ họ, tên và ngày, tháng, năm vào phiếu báo thay đổi hộ khẩu, nhân khẩu.
+
+ 3. Nơi nộp hồ sơ đăng ký thường trú
+
+ a) Đối với thành phố trực thuộc Trung ương thì nộp hồ sơ tại Công an huyện, quận, thị xã;
+
+ b) Đối với tỉnh thì nộp hồ sơ tại Công an xã, thị trấn thuộc huyện, Công an thị xã, thành phố thuộc tỉnh.(Điều này có nội dung liên quan đến Điều 13. Nơi cư trú của người chưa thành niên; Điều 28. Giấy chuyển hộ khẩu của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 6. Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp của Nghị định 31/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 18/04/2014; Điều 3. Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú của Thông tư 36/2014/TT-BCA Quy định về biểu mẫu sử dụng trong đăng ký, quản lý cư trú ban hành ngày 09/09/2014; Điều 15.3.TL.1.6. Hồ sơ thực hiện liên thông các thủ tục hành chính đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế; Điều 15.3.TL.1.10. Thực hiện đăng ký khai sinh, lập và chuyển hồ sơ giải quyết đăng ký thường trú, cấp thẻ bảo hiểm y tế tại Ủy ban nhân dân cấp xã; Điều 15.3.TL.1.11. Giải quyết đăng ký thường trú cho trẻ em dưới 6 tuổi; Điều 15.3.TL.1.12. Thực hiện cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi tại Bảo hiểm xã hội cấp huyện)
+
+Điều 39.3.LQ.22. Xoá đăng ký thường trú
+
+(Điều 22 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
+
+ 1. Người thuộc một trong các trường hợp sau đây thì bị xoá đăng ký thường trú:
+
+ a) Chết, bị Toà án tuyên bố là mất tích hoặc đã chết;
+
+ b) Được tuyển dụng vào Quân đội nhân dân, Công an nhân dân ở tập trung trong doanh trại;
+
+ c) Đã có quyết định huỷ đăng ký thường trú quy định tại Điều 37 của Luật này;
+
+ d) Ra nước ngoài để định cư;
+
+ đ) Đã đăng ký thường trú ở nơi cư trú mới; trong trường hợp này, cơ quan đã làm thủ tục đăng ký thường trú cho công dân ở nơi cư trú mới có trách nhiệm thông báo ngay cho cơ quan đã cấp giấy chuyển hộ khẩu để xoá đăng ký thường trú ở nơi cư trú cũ.
+
+ 2. Cơ quan có thẩm quyền đăng ký thường trú thì cũng có thẩm quyền xoá đăng ký thường trú.
+
+ 3. Thủ tục cụ thể xoá đăng ký thường trú và điều chỉnh hồ sơ, tài liệu, sổ sách có liên quan do Bộ trưởng Bộ Công an quy định.(Điều này có nội dung liên quan đến Điều 11. Trách nhiệm của công dân về cư trú; Điều 37. Huỷ bỏ việc đăng ký thường trú, tạm trú trái pháp luật của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 11. Xóa đăng ký thường trú của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
+
+Điều 39.3.TT.1.11. Xóa đăng ký thường trú
+
+(Điều 11 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
+
+ 1. Xóa đăng ký thường trú là việc cơ quan có thẩm quyền đăng ký thường trú xóa tên người đã đăng ký thường trú trong sổ hộ khẩu và sổ đăng ký thường trú.
+
+ 2. Thủ tục xóa đăng ký thường trú đối với các trường hợp thuộc các điểm a, điểm b, điểm c và điểm d khoản 1 Điều 22 Luật Cư trú
+
+ a) Trong thời hạn 60 (sáu mươi) ngày, kể từ ngày có người thuộc diện xóa đăng ký thường trú thì đại diện hộ gia đình có trách nhiệm đến làm thủ tục xóa đăng ký thường trú. Hồ sơ bao gồm: Phiếu báo thay đổi hộ khẩu, nhân khẩu; sổ hộ khẩu; giấy tờ chứng minh thuộc một trong các trường hợp xóa đăng ký thường trú.
+
+ b) Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ thì cơ quan đăng ký thường trú phải xóa tên công dân trong sổ đăng ký thường trú và trong sổ hộ khẩu;
+
+ c) Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày xóa đăng ký thường trú, Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương; thị xã, thành phố thuộc tỉnh điều chỉnh hồ sơ đăng ký thường trú trong tàng thư hồ sơ hộ khẩu, thông báo cho tàng thư căn cước công dân và Công an phường, xã, thị trấn nơi có người bị xóa đăng ký thường trú;
+
+ d) Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày xóa đăng ký thường trú, Công an xã, thị trấn thuộc huyện thuộc tỉnh có trách nhiệm thông báo Công an huyện. Sau khi điều chỉnh hồ sơ trong tàng thư hồ sơ hộ khẩu, Công an huyện có trách nhiệm thông báo cho tàng thư căn cước công dân.
+
+ 3. Thủ tục xóa tên đối với các trường hợp thuộc điểm đ khoản 1 Điều 22 Luật Cư trú:
+
+ a) Đối với các xã, thị trấn thuộc huyện thuộc tỉnh
+
+ - Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày nhận được thông báo đã đăng ký thường trú của cơ quan đăng ký cư trú nơi công dân chuyển đến, phải thông báo cho người bị xóa đăng ký thường trú hoặc đại diện hộ gia đình mang sổ hộ khẩu đến làm thủ tục xóa tên trong sổ đăng ký thường trú, xóa tên trong sổ hộ khẩu (đối với trường hợp không chuyển cả hộ), thông báo việc đã xóa đăng ký thường trú cho Công an huyện;
+
+ - Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày nhận được thông báo việc xóa đăng ký thường trú của Công an xã, thị trấn; Công an huyện phải chuyển hồ sơ đăng ký thường trú cho Công an cùng cấp nơi công dân chuyển đến và thông báo cho tàng thư căn cước công dân;
+
+ b) Đối với các huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương; thị xã, thành phố thuộc tỉnh
+
+ Trong thời hạn 10 (mười) ngày làm việc, kể từ ngày nhận được thông báo đã đăng ký thường trú của cơ quan đăng ký cư trú nơi công dân chuyển đến, phải thông báo cho người bị xóa đăng ký thường trú hoặc đại diện hộ gia đình mang sổ hộ khẩu đến làm thủ tục xóa tên trong sổ đăng ký thường trú, xóa tên trong sổ hộ khẩu (đối với trường hợp không chuyển cả hộ), thông báo việc đã xóa đăng ký thường trú cho tàng thư căn cước công dân và Công an xã, phường, thị trấn; đồng thời, phải chuyển hồ sơ đăng ký thường trú cho Công an cùng cấp nơi công dân chuyển đến.
+
+ 4. Quá thời hạn 60 (sáu mươi) ngày, kể từ ngày có người thuộc diện xóa đăng ký thường trú mà đại diện hộ gia đình không làm thủ tục xóa đăng ký thường trú theo quy định thì Công an xã, phường, thị trấn nơi có người thuộc diện xóa đăng ký thường trú lập biên bản, yêu cầu hộ gia đình làm thủ tục xóa đăng ký thường trú. Sau thời hạn 30 (ba mươi) ngày, kể từ ngày lập biên bản, nếu đại diện hộ gia đình không làm thủ tục xóa đăng ký thường trú thì Công an xã, thị trấn thuộc huyện thuộc tỉnh, Công an thị xã, thành phố thuộc tỉnh, Công an quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương tiến hành xóa đăng ký thường trú.(Điều này có nội dung liên quan đến Điều 39.3.LQ.22. Xoá đăng ký thường trú của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006)
+
+Điều 39.3.LQ.23. Thay đổi nơi đăng ký thường trú trong trường hợp chuyển chỗ ở hợp pháp
+
+(Điều 23 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 36/2013/QH13 có hiệu lực thi hành kể từ ngày 01/01/2014)
 
 1. Người đã đăng ký thường trú mà thay đổi chỗ ở hợp pháp, khi chuyển đến chỗ ở hợp pháp mới nếu có đủ điều kiện đăng ký thường trú thì trong thời hạn mười hai tháng có trách nhiệm làm thủ tục thay đổi nơi đăng ký thường trú.
 
-**Chỉ mục:** 23
+2. Cơ quan có thẩm quyền quy định tại khoản 1 Điều 21 của Luật này có trách nhiệm tạo điều kiện thuận lợi để công dân thực hiện việc thay đổi nơi đăng ký thường trú.
 
-**Mã phân cấp:** 3900300000000000300002300000000000000000
+(Điều này có nội dung liên quan đến Điều 21. Thủ tục đăng ký thường trú của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006)
 
-**ID:** dk_00064193
+Điều 39.3.TT.1.4. Các trường hợp tạm thời chưa được giải quyết thủ tục thay đổi nơi cư trú
 
----
+(Điều 4 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
+ 1. Người dưới đây, trong thời gian bị hạn chế quyền tự do cư trú thì tạm thời chưa được giải quyết thủ tục thay đổi nơi cư trú (trừ trường hợp có sự đồng ý cho thay đổi nơi cư trú bằng văn bản của cơ quan đã áp dụng biện pháp đó):
 
-### Điều 39.3.TT.1.4. Các trường hợp tạm thời chưa được giải quyết thủ tục thay đổi nơi cư trú
+ a) Người đang bị cơ quan tiến hành tố tụng áp dụng biện pháp cấm đi khỏi nơi cư trú;
 
-1. Người dưới đây, trong thời gian bị hạn chế quyền tự do cư trú thì tạm thời chưa được giải quyết thủ tục thay đổi nơi cư trú (trừ trường hợp có sự đồng ý cho thay đổi nơi cư trú bằng văn bản của cơ quan đã áp dụng biện pháp đó):
+ b) Người bị kết án phạt tù nhưng chưa có quyết định thi hành án, được hưởng án treo hoặc đang được hoãn, tạm đình chỉ thi hành án phạt tù; người đang bị quản chế;
 
-**Chỉ mục:** 4
+ c) Người bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc nhưng đang được hoãn chấp hành hoặc tạm đình chỉ thi hành.
 
-**Mã phân cấp:** 390030000000000030000230000000000000000000802520900350000400
+ 2. Người đang bị áp dụng hình phạt cấm cư trú thì không giải quyết các thủ tục về đăng ký thường trú, tạm trú tại những địa phương mà Tòa án cấm người đó cư trú.(Điều này có nội dung liên quan đến Điều 8. Giấy chuyển hộ khẩu của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
 
-**ID:** dk_00064194
+Điều 39.3.LQ.24. Sổ hộ khẩu
 
----
+(Điều 24 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
+ 1. Sổ hộ khẩu được cấp cho hộ gia đình hoặc cá nhân đã đăng ký thường trú và có giá trị xác định nơi thường trú của công dân.
 
-### Điều 39.3.LQ.24. Sổ hộ khẩu
+ 2. Sổ hộ khẩu bị hư hỏng thì được đổi, bị mất thì được cấp lại.
 
-1. Sổ hộ khẩu được cấp cho hộ gia đình hoặc cá nhân đã đăng ký thường trú và có giá trị xác định nơi thường trú của công dân.
+ 3. Bộ Công an phát hành mẫu sổ hộ khẩu và hướng dẫn việc cấp, cấp lại, đổi, sử dụng, quản lý sổ hộ khẩu thống nhất trong toàn quốc.(Điều này có nội dung liên quan đến Điều 39.3.TT.1.10. Cấp sổ hộ khẩu của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014; Điều 3. Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú của Thông tư 36/2014/TT-BCA Quy định về biểu mẫu sử dụng trong đăng ký, quản lý cư trú ban hành ngày 09/09/2014)
 
-**Chỉ mục:** 24
+Điều 39.3.TT.1.10. Cấp sổ hộ khẩu
 
-**Mã phân cấp:** 3900300000000000300002400000000000000000
+(Điều 10 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-**ID:** dk_00064195
+ 1. Sổ hộ khẩu được cấp cho cá nhân hoặc hộ gia đình đã đăng ký thường trú theo quy định tại Điều 24, Điều 25 và Điều 26 Luật Cư trú. Sổ hộ khẩu có giá trị xác định nơi thường trú của công dân.
 
----
+ Công dân thay đổi nơi thường trú ngoài phạm vi xã, thị trấn thuộc huyện thuộc tỉnh, ngoài phạm vi huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương, ngoài phạm vi thị xã, thành phố thuộc tỉnh thì được cấp sổ hộ khẩu mới.
 
+ 2. Trường hợp sổ hộ khẩu bị hư hỏng thì được đổi, bị mất thì được cấp lại. Sổ hộ khẩu được đổi, cấp lại có số, nội dung như sổ hộ khẩu đã cấp trước đây. Hồ sơ đổi, cấp lại sổ hộ khẩu bao gồm:
 
-### Điều 39.3.TT.1.10. Cấp sổ hộ khẩu
+ a) Phiếu báo thay đổi hộ khẩu, nhân khẩu. Trường hợp cấp lại sổ hộ khẩu tại thành phố, thị xã thuộc tỉnh và quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương phải có xác nhận của Công an xã, phường, thị trấn nơi thường trú vào phiếu báo thay đổi hộ khẩu, nhân khẩu;
 
-1. Sổ hộ khẩu được cấp cho cá nhân hoặc hộ gia đình đã đăng ký thường trú theo quy định tại Điều 24, Điều 25 và Điều 26 Luật Cư trú. Sổ hộ khẩu có giá trị xác định nơi thường trú của công dân.
+ b) Sổ hộ khẩu (đối với trường hợp đổi sổ hộ khẩu do bị hư hỏng) hoặc sổ hộ khẩu gia đình, giấy chứng nhận nhân khẩu tập thể (đối với trường hợp đổi từ mẫu sổ cũ đổi sang mẫu số mới).
 
-**Chỉ mục:** 10
+ Cơ quan đăng ký cư trú thu lại sổ hộ khẩu bị hư hỏng hoặc sổ hộ khẩu gia đình, giấy chứng nhận nhân khẩu tập thể và đóng dấu hủy để lưu hồ sơ hộ khẩu.
 
-**Mã phân cấp:** 390030000000000030000240000000000000000000802520900350001000
+ 3. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền đăng ký thường trú phải đổi, cấp lại sổ hộ khẩu.
 
-**ID:** dk_00064196
+ 4. Trong quá trình đăng ký thường trú, nếu có sai sót trong sổ hộ khẩu do lỗi của cơ quan đăng ký thì trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận được yêu cầu của công dân, cơ quan đăng ký thường trú phải có trách nhiệm điều chỉnh sổ hộ khẩu cho phù hợp với hồ sơ gốc.
 
----
+ 5. Người có nhu cầu tách sổ hộ khẩu quy định tại điểm b khoản 1 Điều 27 Luật Cư trú thì chủ hộ phải ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu đồng ý cho tách sổ hộ khẩu, ký, ghi rõ họ tên và ngày, tháng, năm. Khi tách sổ hộ khẩu không cần xuất trình giấy tờ về chỗ ở hợp pháp.
 
+ 6. Trưởng Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương, Trưởng Công an thị xã, thành phố thuộc tỉnh và Trưởng công an xã, thị trấn thuộc huyện thuộc tỉnh là người có thẩm quyền ký sổ hộ khẩu.
 
-### Điều 39.3.LQ.25. Sổ hộ khẩu cấp cho hộ gia đình
+ 7. Người trong hộ gia đình có trách nhiệm bảo quản, sử dụng sổ hộ khẩu theo đúng quy định. Phải xuất trình sổ hộ khẩu khi cán bộ Công an có thẩm quyền kiểm tra. Nghiêm cấm sửa chữa, tẩy xóa, thế chấp, cho mượn, cho thuê hoặc sử dụng sổ hộ khẩu trái pháp luật.
 
-1. Sổ hộ khẩu được cấp cho từng hộ gia đình. Mỗi hộ gia đình cử một người có năng lực hành vi dân sự đầy đủ làm chủ hộ để thực hiện và hướng dẫn các thành viên trong hộ thực hiện quy định về đăng ký, quản lý cư trú. Trường hợp không có người từ đủ mười tám tuổi trở lên hoặc có người từ đủ 18 tuổi trở lên nhưng bị mất hoặc hạn chế năng lực hành vi dân sự thì được cử một người trong hộ làm chủ hộ.
+ 8. Người đứng tên chủ hộ có trách nhiệm tạo điều kiện thuận lợi cho những người cùng có tên trong sổ hộ khẩu được sử dụng sổ để giải quyết các công việc theo quy định của pháp luật. Trường hợp cố tình gây khó khăn, không cho những người cùng có tên trong sổ hộ khẩu được sử dụng sổ để giải quyết các công việc theo quy định của pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 24. Sổ hộ khẩu; Điều 25. Sổ hộ khẩu cấp cho hộ gia đình; Điều 26. Sổ hộ khẩu cấp cho cá nhân; Điều 27. Tách sổ hộ khẩu; Điều 28. Giấy chuyển hộ khẩu của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006)
 
-**Chỉ mục:** 25
+Điều 39.3.LQ.25. Sổ hộ khẩu cấp cho hộ gia đình
 
-**Mã phân cấp:** 3900300000000000300002500000000000000000
+(Điều 25 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**ID:** dk_00064197
+ 1. Sổ hộ khẩu được cấp cho từng hộ gia đình. Mỗi hộ gia đình cử một người có năng lực hành vi dân sự đầy đủ làm chủ hộ để thực hiện và hướng dẫn các thành viên trong hộ thực hiện quy định về đăng ký, quản lý cư trú. Trường hợp không có người từ đủ mười tám tuổi trở lên hoặc có người từ đủ 18 tuổi trở lên nhưng bị mất hoặc hạn chế năng lực hành vi dân sự thì được cử một người trong hộ làm chủ hộ.
 
----
+ Những người ở chung một chỗ ở hợp pháp và có quan hệ gia đình là ông, bà, cha, mẹ, vợ, chồng, con và anh, chị, em ruột, cháu ruột thì có thể được cấp chung một sổ hộ khẩu.
 
+ 2. Nhiều hộ gia đình ở chung một chỗ ở hợp pháp thì mỗi hộ gia đình được cấp một sổ hộ khẩu.
 
-### Điều 39.3.LQ.26. Sổ hộ khẩu cấp cho cá nhân
+ 3. Người không thuộc trường hợp quy định tại đoạn 2 khoản 1 Điều này nếu có đủ điều kiện quy định tại Điều 19 và Điều 20 của Luật này và được chủ hộ đồng ý cho nhập vào sổ hộ khẩu cấp cho hộ gia đình thì được nhập chung vào sổ hộ khẩu đó.(Điều này có nội dung liên quan đến Điều 19. Điều kiện đăng ký thường trú tại tỉnh; Điều 20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương; Điều 39.3.LQ.26. Sổ hộ khẩu cấp cho cá nhân; Điều 39.3.LQ.27. Tách sổ hộ khẩu của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 39.3.TT.1.10. Cấp sổ hộ khẩu của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
 
-1. Sổ hộ khẩu được cấp cho cá nhân thuộc một trong những trường hợp sau đây:
+Điều 39.3.LQ.26. Sổ hộ khẩu cấp cho cá nhân
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Mã phân cấp:** 3900300000000000300002600000000000000000
+ 1. Sổ hộ khẩu được cấp cho cá nhân thuộc một trong những trường hợp sau đây:
 
-**ID:** dk_00064198
+ a) Người có năng lực hành vi dân sự đầy đủ và có chỗ ở độc lập với gia đình của người đó, người sống độc thân, người được tách sổ hộ khẩu theo quy định tại khoản 1 Điều 27 của Luật này;
 
----
+ b) Người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác, nếu họ không sống theo hộ gia đình;
 
+ c) Thương binh, bệnh binh, người thuộc diện chính sách ưu đãi của Nhà nước, người già yếu, cô đơn, người tàn tật và các trường hợp khác được cơ quan, tổ chức nuôi dưỡng, chăm sóc tập trung;
 
-### Điều 39.3.LQ.27. Tách sổ hộ khẩu
+ d) Chức sắc tôn giáo, nhà tu hành hoặc người khác chuyên hoạt động tôn giáo theo quy định của pháp luật về tín ngưỡng, tôn giáo mà sống tại cơ sở tôn giáo.
 
-1. Trường hợp có cùng một chỗ ở hợp pháp được tách sổ hộ khẩu bao gồm:
+ 2. Người không thuộc đối tượng quy định tại đoạn 2 khoản 1 Điều 25 nếu có đủ điều kiện quy định tại Điều 19 và Điều 20 của Luật này và được chủ hộ đồng ý cho nhập vào sổ hộ khẩu cấp cho cá nhân thì được nhập chung vào sổ hộ khẩu đó.(Điều này có nội dung liên quan đến Điều 39.3.LQ.13. Nơi cư trú của người chưa thành niên; Điều 19. Điều kiện đăng ký thường trú tại tỉnh; Điều 20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương; Điều 25. Sổ hộ khẩu cấp cho hộ gia đình; Điều 39.3.LQ.27. Tách sổ hộ khẩu của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 39.3.TT.1.10. Cấp sổ hộ khẩu của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
 
-**Chỉ mục:** 27
+Điều 39.3.LQ.27. Tách sổ hộ khẩu
 
-**Mã phân cấp:** 3900300000000000300002700000000000000000
+(Điều 27 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**ID:** dk_00064199
+ 1. Trường hợp có cùng một chỗ ở hợp pháp được tách sổ hộ khẩu bao gồm:
 
----
+ a) Người có năng lực hành vi dân sự đầy đủ và có nhu cầu tách sổ hộ khẩu;
 
+ b) Người đã nhập vào sổ hộ khẩu quy định tại khoản 3 Điều 25 và khoản 2 Điều 26 của Luật này mà được chủ hộ đồng ý cho tách sổ hộ khẩu bằng văn bản.
 
-### Điều 39.3.LQ.28. Giấy chuyển hộ khẩu
+ 2. Khi tách sổ hộ khẩu, người đến làm thủ tục phải xuất trình sổ hộ khẩu; phiếu báo thay đổi hộ khẩu, nhân khẩu; ý kiến đồng ý bằng văn bản của chủ hộ nếu thuộc trường hợp quy định tại điểm b khoản 1 Điều này.
 
-1. Công dân khi chuyển nơi thường trú thì được cấp giấy chuyển hộ khẩu.
+ 3. Trong thời hạn bảy ngày làm việc, kể từ ngày nhận đủ hồ sơ, cơ quan có thẩm quyền phải trả kết quả giải quyết việc tách sổ hộ khẩu; trường hợp không giải quyết việc tách sổ hộ khẩu thì phải trả lời bằng văn bản và nêu rõ lý do.(Điều này có nội dung liên quan đến Điều 25. Sổ hộ khẩu cấp cho hộ gia đình; Điều 26. Sổ hộ khẩu cấp cho cá nhân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 39.3.TT.1.10. Cấp sổ hộ khẩu của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
 
-**Chỉ mục:** 28
+Điều 39.3.LQ.28. Giấy chuyển hộ khẩu
 
-**Mã phân cấp:** 3900300000000000300002800000000000000000
+(Điều 28 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**ID:** dk_00064200
+ 1. Công dân khi chuyển nơi thường trú thì được cấp giấy chuyển hộ khẩu.
 
----
+ 2. Giấy chuyển hộ khẩu được cấp cho công dân trong các trường hợp sau đây:
 
+ a) Chuyển đi ngoài phạm vi xã, thị trấn của huyện thuộc tỉnh;
 
-### Điều 39.3.TT.1.8. Giấy chuyển hộ khẩu
+ b) Chuyển đi ngoài phạm vi huyện, quận, thị xã của thành phố trực thuộc trung ương; thị xã, thành phố thuộc tỉnh.
 
-1. Thẩm quyền cấp giấy chuyển hộ khẩu
+ 3. Thẩm quyền cấp giấy chuyển hộ khẩu được quy định như sau:
 
-**Chỉ mục:** 8
+ a) Trưởng Công an xã, thị trấn cấp giấy chuyển hộ khẩu cho trường hợp quy định tại điểm a khoản 2 Điều này;
 
-**Mã phân cấp:** 390030000000000030000280000000000000000000802520900350000800
+ b) Trưởng Công an huyện, quận, thị xã của thành phố trực thuộc trung ương, Trưởng Công an thị xã, thành phố thuộc tỉnh cấp giấy chuyển hộ khẩu cho trường hợp quy định tại điểm b khoản 2 Điều này.
 
-**ID:** dk_00064201
+ 4. Hồ sơ cấp giấy chuyển hộ khẩu bao gồm sổ hộ khẩu và phiếu báo thay đổi hộ khẩu, nhân khẩu.
 
----
+ 5. Trong thời hạn ba ngày làm việc, kể từ ngày nhận đủ hồ sơ, cơ quan có thẩm quyền phải cấp giấy chuyển hộ khẩu cho công dân.
 
+ Trong thời hạn mười ngày, kể từ ngày nhận được thông báo tiếp nhận của cơ quan quản lý cư trú nơi công dân chuyển hộ khẩu đến, Công an huyện, quận, thị xã, thành phố thuộc tỉnh nơi có người chuyển đi phải chuyển hồ sơ đăng ký, quản lý hộ khẩu cho Công an cùng cấp nơi người đó chuyển đến.
 
-### Điều 39.3.LQ.29. Điều chỉnh những thay đổi trong sổ hộ khẩu
+ 6. Công dân thuộc một trong các trường hợp sau đây không phải cấp giấy chuyển hộ khẩu:
 
-1. Trường hợp có thay đổi chủ hộ thì hộ gia đình phải làm thủ tục thay đổi chủ hộ. Người đến làm thủ tục phải xuất trình sổ hộ khẩu; phiếu báo thay đổi hộ khẩu, nhân khẩu; ý kiến của chủ hộ hoặc người khác trong gia đình về việc thay đổi chủ hộ.
+ a) Chuyển đi trong phạm vi xã, thị trấn của huyện thuộc tỉnh; chuyển đi trong cùng một huyện, quận, thị xã của thành phố trực thuộc trung ương; chuyển đi trong cùng một thị xã, thành phố thuộc tỉnh;
 
-**Chỉ mục:** 29
+ b) Học sinh, sinh viên, học viên học tại nhà trường và cơ sở giáo dục khác;
 
-**Mã phân cấp:** 3900300000000000300002900000000000000000
+ c) Đi làm nghĩa vụ quân sự, phục vụ có thời hạn trong Công an nhân dân;
 
-**ID:** dk_00064202
+ d) Được tuyển dụng vào Quân đội nhân dân, Công an nhân dân ở tập trung trong doanh trại hoặc nhà ở tập thể;
 
----
+ đ) Chấp hành hình phạt tù; chấp hành quyết định đưa vào trường giáo dưỡng, cơ sở giáo dục, cơ sở chữa bệnh, cơ sở cai nghiện ma tuý bắt buộc, quản chế.Điều 39.3.TT.1.8. Giấy chuyển hộ khẩu
 
+(Điều 8 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-### Điều 39.3.TT.1.12. Điều chỉnh những thay đổi trong sổ hộ khẩu
+ 1. Thẩm quyền cấp giấy chuyển hộ khẩu
 
-1. Đối tượng, hồ sơ điều chỉnh những thay đổi trong sổ hộ khẩu thực hiện theo Điều 29 Luật Cư trú.
+ a) Trưởng Công an xã, thị trấn có thẩm quyền cấp giấy chuyển hộ khẩu cho các trường hợp chuyển đi ngoài phạm vi xã, thị trấn thuộc huyện thuộc tỉnh và ngoài phạm vi tỉnh;
 
-**Chỉ mục:** 12
+ b) Trưởng Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương, Trưởng Công an thị xã, thành phố thuộc tỉnh cấp giấy chuyển hộ khẩu cho các trường hợp chuyển đi ngoài phạm vi huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương, thị xã, thành phố thuộc tỉnh và ngoài phạm vi tỉnh, thành phố trực thuộc Trung ương.
 
-**Mã phân cấp:** 390030000000000030000290000000000000000000802520900350001200
+ 2. Hồ sơ đề nghị cấp giấy chuyển hộ khẩu, bao gồm:
 
-**ID:** dk_00064203
+ a) Phiếu báo thay đổi hộ khẩu, nhân khẩu;
 
----
+ b) Sổ hộ khẩu (hoặc sổ hộ khẩu gia đình, giấy chứng nhận nhân khẩu tập thể đã được cấp trước đây).
 
+ 3. Trong thời hạn 02 (hai) ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan Công an phải cấp giấy chuyển hộ khẩu cho công dân. Trường hợp chuyển cả hộ thì ghi rõ vào giấy chuyển hộ khẩu và sổ hộ khẩu là chuyển đi cả hộ để cơ quan Công an nơi chuyển đến thu sổ hộ khẩu cũ khi cấp sổ hộ khẩu mới. Trường hợp chuyển một người hoặc một số người trong hộ thì ghi rõ vào trang điều chỉnh thay đổi trong sổ hộ khẩu những nội dung cơ bản sau: Thông tin người chuyển đi, thời gian cấp giấy chuyển hộ khẩu, địa chỉ nơi chuyển đến.
 
-### Điều 39.3.LQ.30. Đăng ký tạm trú
+ 4. Nghiêm cấm việc yêu cầu công dân phải có giấy đồng ý cho đăng ký thường trú của cơ quan Công an nơi chuyển đến mới cấp giấy chuyển hộ khẩu.
+
+ 5. Các trường hợp không cấp giấy chuyển hộ khẩu
+
+ a) Các trường hợp thuộc khoản 6 Điều 28 Luật Cư trú;
+
+ b) Các trường hợp tạm thời chưa được giải quyết thủ tục thay đổi nơi cư trú theo quy định tại Điều 4 Thông tư này (trừ trường hợp đã được cơ quan áp dụng các biện pháp hạn chế quyền tự do cư trú đồng ý cho thay đổi nơi cư trú bằng văn bản).(Điều này có nội dung liên quan đến Điều 39.3.TT.1.4. Các trường hợp tạm thời chưa được giải quyết thủ tục thay đổi nơi cư trú của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
+
+Điều 39.3.LQ.29. Điều chỉnh những thay đổi trong sổ hộ khẩu
+
+(Điều 29 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
+
+ 1. Trường hợp có thay đổi chủ hộ thì hộ gia đình phải làm thủ tục thay đổi chủ hộ. Người đến làm thủ tục phải xuất trình sổ hộ khẩu; phiếu báo thay đổi hộ khẩu, nhân khẩu; ý kiến của chủ hộ hoặc người khác trong gia đình về việc thay đổi chủ hộ.
+
+ 2. Trường hợp có thay đổi về họ, tên, chữ đệm, ngày, tháng, năm sinh hoặc các thay đổi khác về hộ tịch của người có tên trong sổ hộ khẩu thì chủ hộ hoặc người có thay đổi hoặc người được uỷ quyền phải làm thủ tục điều chỉnh. Người đến làm thủ tục phải xuất trình sổ hộ khẩu, giấy khai sinh hoặc quyết định được phép thay đổi của cơ quan có thẩm quyền về đăng ký hộ tịch; nộp phiếu báo thay đổi hộ khẩu, nhân khẩu.
+
+ 3. Trường hợp có thay đổi địa giới hành chính, đơn vị hành chính, đường phố, số nhà thì cơ quan quản lý cư trú có thẩm quyền căn cứ vào quyết định thay đổi địa giới hành chính, đơn vị hành chính, đường phố, số nhà của cơ quan nhà nước có thẩm quyền để đính chính trong sổ hộ khẩu.
+
+ 4. Trường hợp chuyển đến chỗ ở hợp pháp mới trong phạm vi xã, thị trấn của huyện thuộc tỉnh; chuyển đi trong cùng một huyện, quận, thị xã của thành phố trực thuộc trung ương; chuyển đi trong cùng một thị xã, thành phố thuộc tỉnh thì chủ hộ hoặc người trong hộ hoặc người được uỷ quyền phải làm thủ tục điều chỉnh. Người đến làm thủ tục điều chỉnh phải nộp phiếu báo thay đổi hộ khẩu, nhân khẩu; xuất trình sổ hộ khẩu; giấy tờ chứng minh chỗ ở hợp pháp mới.
+
+ 5. Trong thời hạn ba ngày làm việc, kể từ ngày nhận đủ hồ sơ, cơ quan có thẩm quyền quy định tại khoản 1 Điều 21 của Luật này phải điều chỉnh, bổ sung các thay đổi trong sổ hộ khẩu.
+
+ 6. Trường hợp làm thủ tục điều chỉnh thay đổi trong sổ hộ khẩu thì người đến làm thủ tục phải là người có năng lực hành vi dân sự đầy đủ; đối với người chưa thành niên thì việc làm thủ tục phải thông qua người giám hộ hoặc người đại diện hợp pháp theo quy định của pháp luật về dân sự.(Điều này có nội dung liên quan đến Điều 21. Thủ tục đăng ký thường trú của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 18. Điều chỉnh những thay đổi trong sổ tạm trú của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
+
+Điều 39.3.TT.1.12. Điều chỉnh những thay đổi trong sổ hộ khẩu
+
+(Điều 12 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
+
+ 1. Đối tượng, hồ sơ điều chỉnh những thay đổi trong sổ hộ khẩu thực hiện theo Điều 29 Luật Cư trú.
+
+ 2. Thời hạn điều chỉnh những thay đổi trong sổ hộ khẩu thực hiện như sau
+
+ a) Trong thời hạn 30 (ba mươi) ngày, kể từ ngày có quyết định thay đổi về họ, tên, chữ đệm, ngày, tháng, năm sinh hoặc các thay đổi khác về hộ tịch của cơ quan có thẩm quyền thì chủ hộ hoặc người có thay đổi hoặc người đại diện trong hộ phải làm thủ tục điều chỉnh trong sổ hộ khẩu;
+
+ b) Trong thời hạn 03 (ba) tháng, kể từ ngày có quyết định của cơ quan nhà nước có thẩm quyền về thay đổi địa giới hành chính, đơn vị hành chính, đường phố, số nhà thì cơ quan đăng ký cư trú có trách nhiệm thông báo để công dân đến làm thủ tục điều chỉnh trong sổ hộ khẩu. Trong thời hạn 30 (ba mươi) ngày kể từ ngày có thông báo của cơ quan đăng ký cư trú, công dân có trách nhiệm đến để làm thủ tục điều chỉnh trong sổ hộ khẩu;
+
+ c) Trong thời hạn 12 (mười hai) tháng, kể từ ngày chuyển đến chỗ ở hợp pháp mới trong phạm vi xã, thị trấn thuộc huyện thuộc tỉnh; trong cùng một huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương; thành phố, thị xã thuộc tỉnh thì chủ hộ hoặc người trong hộ hoặc người được ủy quyền phải làm thủ tục điều chỉnh trong sổ hộ khẩu.
+
+ 3. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày điều chỉnh những thay đổi trong sổ hộ khẩu, Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương; Công an thị xã, thành phố thuộc tỉnh phải thông báo cho tàng thư căn cước công dân và Công an xã, phường, thị trấn nơi thường trú của người có thay đổi.
+
+ 4. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày điều chỉnh những thay đổi trong sổ hộ khẩu, Công an xã, thị trấn thuộc huyện thuộc tỉnh có trách nhiệm chuyển hồ sơ điều chỉnh, bổ sung cho Công an huyện lưu tàng thư hồ sơ hộ khẩu. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, Công an huyện phải thông báo cho tàng thư căn cước công dân.(Điều này có nội dung liên quan đến Điều 18. Điều chỉnh những thay đổi trong sổ tạm trú của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
+
+Chương IV
+
+ĐĂNG KÝ TẠM TRÚ, THÔNG BÁO LƯU TRÚ, KHAI BÁO TẠM VẮNG
+
+Điều 39.3.LQ.30. Đăng ký tạm trú
+
+(Điều 30 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 36/2013/QH13 có hiệu lực thi hành kể từ ngày 01/01/2014)
 
 1. Đăng ký tạm trú là việc công dân đăng ký nơi tạm trú của mình với cơ quan nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký tạm trú, cấp sổ tạm trú cho họ.
 
-**Chỉ mục:** 30
+2. Người đang sinh sống, làm việc, lao động, học tập tại một địa điểm thuộc xã, phường, thị trấn nhưng không thuộc trường hợp được đăng ký thường trú tại địa phương đó thì trong thời hạn ba mươi ngày, kể từ ngày đến phải đăng ký tạm trú tại Công an xã, phường, thị trấn.
 
-**Mã phân cấp:** 3900300000000000400003000000000000000000
+3. Người đến đăng ký tạm trú phải xuất trình giấy chứng minh nhân dân hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó đã đăng ký thường trú; giấy tờ chứng minh quyền sở hữu hoặc sử dụng nhà ở đó; nộp phiếu báo thay đổi hộ khẩu, nhân khẩu, bản khai nhân khẩu; trường hợp chỗ ở hợp pháp là nhà do thuê, mượn hoặc ở nhờ của cá nhân thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản.
 
-**ID:** dk_00064205
+4. Trưởng Công an xã, phường, thị trấn trong thời hạn ba ngày làm việc, kể từ ngày nhận đủ giấy tờ quy định tại khoản 3 Điều này phải cấp sổ tạm trú theo mẫu quy định của Bộ Công an.
 
----
+Sổ tạm trú được cấp cho hộ gia đình hoặc cá nhân đã đăng ký tạm trú, có giá trị xác định nơi tạm trú của công dân và có thời hạn tối đa là hai mươi bốn tháng. Trong thời hạn ba mươi ngày trước ngày hết thời hạn tạm trú, công dân đến cơ quan Công an nơi cấp sổ tạm trú để làm thủ tục gia hạn.
 
+Việc điều chỉnh thay đổi về sổ tạm trú được thực hiện theo quy định tại Điều 29 của Luật này. Sổ tạm trú bị hư hỏng thì được đổi, bị mất thì được cấp lại. Trường hợp đến tạm trú tại xã, phường, thị trấn khác thì phải đăng ký lại.
 
-### Điều 39.3.TT.1.16. Thủ tục đăng ký tạm trú
+5. Trường hợp người đã đăng ký tạm trú nhưng không sinh sống, làm việc, lao động, học tập từ sáu tháng trở lên tại địa phương đã đăng ký tạm trú thì cơ quan đã cấp sổ tạm trú phải xoá tên người đó trong sổ đăng ký tạm trú.
 
-1. Hồ sơ đăng ký tạm trú bao gồm:
+(Điều này có nội dung liên quan đến Điều 39.1.NĐ.7. Sử dụng Chứng minh nhân dân; Điều 15.3.NĐ.1.21. Thẩm quyền cấp Giấy xác nhận tình trạng hôn nhân; Điều 39.3.TT.1.20. Hủy bỏ đăng ký tạm trú trái pháp luật của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014; Điều 3. Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú của Thông tư 36/2014/TT-BCA Quy định về biểu mẫu sử dụng trong đăng ký, quản lý cư trú ban hành ngày 09/09/2014)
 
-**Chỉ mục:** 16
+Điều 39.3.TT.1.16. Thủ tục đăng ký tạm trú
 
-**Mã phân cấp:** 390030000000000040000300000000000000000000802520900350001600
+(Điều 16 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-**ID:** dk_00064206
+ 1. Hồ sơ đăng ký tạm trú bao gồm:
 
----
+ a) Phiếu báo thay đổi hộ khẩu, nhân khẩu; bản khai nhân khẩu (đối với các trường hợp phải khai bản khai nhân khẩu);
 
+ b) Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp theo quy định tại Điều 6 Nghị định số 31/2014/NĐ-CP (trừ trường hợp được chủ hộ có sổ hộ khẩu hoặc sổ tạm trú đồng ý cho đăng ký tạm trú thì không cần xuất trình giấy tờ, tài liệu chứng minh chỗ ở hợp pháp). Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý cho đăng ký tạm trú vào chỗ ở của mình và ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ, tên; trường hợp người cho thuê, cho mượn, cho ở nhờ đã có ý kiến bằng văn bản đồng ý cho đăng ký tạm trú vào chỗ ở của mình thì không phải ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu.
 
-### Điều 39.3.TT.1.17. Cấp sổ tạm trú
+ Xuất trình chứng minh nhân dân hoặc giấy tờ có xác nhận của Công an xã, phường, thị trấn nơi người đó thường trú.
 
-1. Sổ tạm trú được cấp cho hộ gia đình hoặc cá nhân đã đăng ký tạm trú theo quy định tại Điều 30 Luật Cư trú và quy định tại Thông tư này, có giá trị xác định nơi tạm trú của công dân và có thời hạn tối đa là hai mươi bốn tháng.
+ 2. Người tạm trú được chủ hộ đồng ý cho nhập vào sổ tạm trú hoặc đồng ý cho đăng ký tạm trú tại nơi thường trú của chủ hộ thì việc đồng ý phải được ghi vào phiếu báo thay đổi hộ khẩu, nhân khẩu, ký, ghi rõ họ tên và ngày, tháng, năm.
 
-**Chỉ mục:** 17
+ 3. Người đăng ký tạm trú nộp hồ sơ đăng ký tạm trú tại Công an xã, phường, thị trấn.Điều 39.3.TT.1.17. Cấp sổ tạm trú
 
-**Mã phân cấp:** 390030000000000040000300000000000000000000802520900350001700
+(Điều 17 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-**ID:** dk_00064207
+ 1. Sổ tạm trú được cấp cho hộ gia đình hoặc cá nhân đã đăng ký tạm trú theo quy định tại Điều 30 Luật Cư trú và quy định tại Thông tư này, có giá trị xác định nơi tạm trú của công dân và có thời hạn tối đa là hai mươi bốn tháng.
 
----
+ Thời hạn tạm trú theo đề nghị của công dân nhưng tối đa không quá hai mươi bốn tháng. Hết thời hạn tạm trú, hộ gia đình hoặc cá nhân vẫn tiếp tục tạm trú thì đại diện hộ gia đình hoặc cá nhân đến cơ quan Công an nơi cấp sổ tạm trú làm thủ tục gia hạn tạm trú; thời hạn tạm trú của mỗi lần gia hạn tối đa không quá thời hạn còn lại của sổ tạm trú. Trường hợp sổ tạm trú hết thời hạn sử dụng mà hộ gia đình hoặc cá nhân vẫn tiếp tục tạm trú tại đó thì đại diện hộ gia đình hoặc cá nhân đến cơ quan Công an nơi cấp sổ tạm trú làm thủ tục cấp lại sổ tạm trú.
 
+ Mỗi hộ gia đình đăng ký tạm trú thì được cử một người có năng lực hành vi dân sự đầy đủ làm chủ hộ để thực hiện và hướng dẫn các thành viên trong hộ thực hiện quy định về đăng ký, quản lý cư trú. Trường hợp không có người từ đủ 18 tuổi trở lên hoặc có người từ đủ 18 tuổi trở lên nhưng bị hạn chế năng lực hành vi dân sự thì được cử một người trong hộ làm chủ hộ.
 
-### Điều 39.3.TT.1.18. Điều chỉnh những thay đổi trong sổ tạm trú
+ Học sinh, sinh viên, học viên ở tập trung trong ký túc xá, khu nhà ở của học sinh, sinh viên, học viên; người lao động ở tập trung tại các khu nhà ở của người lao động thì cá nhân, cơ quan, tổ chức phải có văn bản đề nghị đăng ký tạm trú, kèm theo danh sách và được ghi vào sổ đăng ký tạm trú. Danh sách bao gồm các thông tin cơ bản của từng cá nhân: Họ và tên; ngày, tháng, năm sinh; giới tính; nguyên quán; dân tộc; tôn giáo; số chứng minh nhân dân; nghề nghiệp, nơi làm việc; nơi thường trú; nơi tạm trú, thời hạn tạm trú. Công an xã, phường, thị trấn có trách nhiệm xác nhận về việc đã đăng ký tạm trú vào danh sách đăng ký tạm trú của cá nhân, cơ quan, tổ chức. Trường hợp cá nhân có nhu cầu cấp sổ tạm trú riêng thì được cấp riêng.
 
-1. Đối tượng, hồ sơ điều chỉnh những thay đổi trong sổ tạm trú thực hiện theo Điều 29 Luật Cư trú.
+ 2. Trong thời hạn 30 (ba mươi) ngày trước ngày hết thời hạn tạm trú, cá nhân, cơ quan, tổ chức đến cơ quan Công an nơi đăng ký tạm trú để làm thủ tục gia hạn tạm trú.
 
-**Chỉ mục:** 18
+ a) Hồ sơ gia hạn tạm trú, bao gồm:
 
-**Mã phân cấp:** 390030000000000040000300000000000000000000802520900350001800
+ - Phiếu báo thay đổi hộ khẩu, nhân khẩu;
 
-**ID:** dk_00064208
+ - Sổ tạm trú;
 
----
+ - Đối với trường hợp học sinh, sinh viên, học viên ở tập trung trong ký túc xá, khu nhà ở của học sinh, sinh viên, học viên; người lao động ở tập trung tại các khu nhà ở của người lao động thì phải có văn bản đề nghị gia hạn tạm trú kèm theo danh sách.
 
+ b) Trong thời hạn 02 (hai) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Công an xã, phường, thị trấn phải gia hạn tạm trú cho công dân.
 
-### Điều 39.3.TT.1.19. Xóa tên trong sổ đăng ký tạm trú
+ 3. Trường hợp sổ tạm trú hư hỏng thì được đổi, sổ tạm trú bị mất hoặc hết thời hạn sử dụng thì được cấp lại. Sổ tạm trú được đổi, cấp lại có số, nội dung như sổ đã được cấp trước đó.
 
-Công an xã, phường, thị trấn nơi có người đăng ký tạm trú phải xóa tên của họ trong sổ đăng ký tạm trú trong các trường hợp sau:
+ a) Hồ sơ đổi, cấp lại sổ tạm trú bao gồm:
 
-**Chỉ mục:** 19
+ - Phiếu báo thay đổi hộ khẩu, nhân khẩu;
 
-**Mã phân cấp:** 390030000000000040000300000000000000000000802520900350001900
+ - Sổ tạm trú (đối với trường hợp sổ tạm trú bị hư hỏng hoặc hết thời hạn sử dụng).
 
-**ID:** dk_00064209
+ b) Trong thời hạn 02 (hai) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Công an xã, phường, thị trấn phải đổi, cấp lại sổ tạm trú cho công dân.
 
----
+ 4. Công dân thay đổi nơi tạm trú ngoài phạm vi xã, phường, thị trấn thì được cấp sổ tạm trú mới.
 
+ 5. Quá trình đăng ký tạm trú nếu có sai sót của cơ quan đăng ký trong khi ghi sổ tạm trú thì trong thời hạn 03 (ba) ngày làm việc, kể từ ngày công dân đề nghị, cơ quan đăng ký tạm trú phải có trách nhiệm điều chỉnh trong sổ tạm trú cho phù hợp với hồ sơ đăng ký tạm trú.
 
-### Điều 39.3.LQ.31. Lưu trú và thông báo lưu trú
+ 6. Người tạm trú có trách nhiệm bảo quản, sử dụng sổ tạm trú theo đúng quy định. Phải xuất trình sổ tạm trú khi cán bộ Công an có thẩm quyền kiểm tra. Nghiêm cấm sửa chữa, tẩy xóa, thế chấp, cho mượn, cho thuê hoặc sử dụng sổ tạm trú trái pháp luật.(Điều này có nội dung liên quan đến Điều 39.3.LQ.20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 23.8.QĐ.1.1.)
+
+Điều 39.3.TT.1.18. Điều chỉnh những thay đổi trong sổ tạm trú
+
+(Điều 18 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
+
+ 1. Đối tượng, hồ sơ điều chỉnh những thay đổi trong sổ tạm trú thực hiện theo Điều 29 Luật Cư trú.
+
+ 2. Thời hạn điều chỉnh những thay đổi trong sổ tạm trú thực hiện theo Khoản 2 Điều 12 Thông tư này.
+
+ 3. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Công an xã, phường, thị trấn có trách nhiệm điều chỉnh, bổ sung những thay đổi trong sổ tạm trú cho công dân và sổ đăng ký tạm trú.(Điều này có nội dung liên quan đến Điều 39.3.LQ.29. Điều chỉnh những thay đổi trong sổ hộ khẩu của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 39.3.TT.1.12. Điều chỉnh những thay đổi trong sổ hộ khẩu của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
+
+Điều 39.3.TT.1.19. Xóa tên trong sổ đăng ký tạm trú
+
+(Điều 19 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
+
+ Công an xã, phường, thị trấn nơi có người đăng ký tạm trú phải xóa tên của họ trong sổ đăng ký tạm trú trong các trường hợp sau:
+
+ 1. Người đã đăng ký tạm trú nhưng chết, mất tích.
+
+ 2. Người đã đăng ký tạm trú nhưng không sinh sống, làm việc, lao động, học tập tại địa phương đã đăng ký tạm trú từ 06 (sáu) tháng trở lên.
+
+ 3. Người đã đăng ký tạm trú nhưng hết thời hạn tạm trú từ 30 (ba mươi) ngày trở lên mà không đến cơ quan Công an nơi đăng ký tạm trú để làm thủ tục gia hạn tạm trú.
+
+ 4. Người đã đăng ký tạm trú mà được đăng ký thường trú.
+
+ 5. Người đã đăng ký tạm trú nhưng bị cơ quan có thẩm quyền quyết định hủy đăng ký tạm trú theo quy định tại Khoản 1 Điều 20 Thông tư này.(Điều này có nội dung liên quan đến Điều 20. Hủy bỏ đăng ký tạm trú trái pháp luật của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
+
+Điều 39.3.LQ.31. Lưu trú và thông báo lưu trú
+
+(Điều 31 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 36/2013/QH13 có hiệu lực thi hành kể từ ngày 01/01/2014)
 
 1. Lưu trú là việc công dân ở lại trong một thời gian nhất định tại địa điểm thuộc xã, phường, thị trấn ngoài nơi cư trú của mình và không thuộc trường hợp phải đăng ký tạm trú.
 
-**Chỉ mục:** 31
+2. Đại diện gia đình, nhà ở tập thể, cơ sở chữa bệnh, khách sạn, nhà nghỉ, cơ sở khác khi có người đến lưu trú có trách nhiệm thông báo việc lưu trú với Công an xã, phường, thị trấn; trường hợp người đến lưu trú tại nhà ở của gia đình, nhà ở tập thể mà chủ gia đình, nhà ở tập thể đó không đăng ký thường trú tại địa bàn xã, phường, thị trấn đó thì người đến lưu trú có trách nhiệm thông báo việc lưu trú với Công an xã, phường, thị trấn. Việc thông báo lưu trú được thực hiện trực tiếp hoặc bằng điện thoại hoặc qua mạng Internet, mạng máy tính. Công an xã, phường, thị trấn có trách nhiệm thông báo địa điểm, địa chỉ mạng Internet, địa chỉ mạng máy tính, số điện thoại nơi tiếp nhận thông báo lưu trú cho nhân dân biết.
 
-**Mã phân cấp:** 3900300000000000400003100000000000000000
+3. Việc thông báo lưu trú được thực hiện trước 23 giờ, nếu người đến lưu trú sau 23 giờ thì thông báo lưu trú vào sáng ngày hôm sau; trường hợp ông, bà, cha, mẹ, vợ, chồng, con, cháu, anh, chị, em ruột đến lưu trú nhiều lần thì chỉ cần thông báo lưu trú một lần.
 
-**ID:** dk_00064210
+4. Việc thông báo lưu trú được ghi vào sổ tiếp nhận lưu trú.
 
----
+(Điều này có nội dung liên quan đến Điều 3. Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú của Thông tư 36/2014/TT-BCA Quy định về biểu mẫu sử dụng trong đăng ký, quản lý cư trú ban hành ngày 09/09/2014)
 
+Điều 39.3.TT.1.21. Lưu trú và thông báo lưu trú
 
-### Điều 39.3.TT.1.21. Lưu trú và thông báo lưu trú
+(Điều 21 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-1. Lưu trú là việc công dân ở lại trong một thời gian nhất định tại địa điểm thuộc xã, phường, thị trấn ngoài nơi cư trú của mình và không thuộc trường hợp phải đăng ký tạm trú.
+ 1. Lưu trú là việc công dân ở lại trong một thời gian nhất định tại địa điểm thuộc xã, phường, thị trấn ngoài nơi cư trú của mình và không thuộc trường hợp phải đăng ký tạm trú.
 
-**Chỉ mục:** 21
+ 2. Đại diện gia đình, nhà ở tập thể, cơ sở chữa bệnh, khách sạn, nhà nghỉ, cơ sở khác khi có người đến lưu trú có trách nhiệm:
 
-**Mã phân cấp:** 390030000000000040000310000000000000000000802520900350002100
+ a) Đề nghị người đến lưu trú xuất trình một trong các giấy tờ sau: Chứng minh nhân dân; hộ chiếu Việt Nam còn giá trị sử dụng; giấy tờ tùy thân khác hoặc giấy tờ do cơ quan, tổ chức, Ủy ban nhân dân xã, phường, thị trấn cấp. Đối với người dưới 14 tuổi đến lưu trú thì không phải xuất trình các giấy tờ nêu trên nhưng phải cung cấp thông tin về nhân thân của người dưới 14 tuổi;
 
-**ID:** dk_00064211
+ b) Thông báo việc lưu trú với Công an xã, phường, thị trấn.
 
----
+ Trường hợp người đến lưu trú tại nhà ở của gia đình, nhà ở tập thể mà chủ gia đình, nhà ở tập thể đó không cư trú tại địa bàn xã, phường, thị trấn đó thì người đến lưu trú có trách nhiệm thông báo việc lưu trú với Công an xã, phường, thị trấn.
 
+ 3. Việc thông báo lưu trú được thực hiện trực tiếp hoặc bằng điện thoại hoặc qua mạng internet, mạng máy tính. Thời gian lưu trú tùy thuộc nhu cầu của công dân. Người tiếp nhận thông báo lưu trú phải ghi vào sổ tiếp nhận lưu trú và không cấp giấp tờ chứng nhận lưu trú cho công dân.
 
-### Điều 39.3.LQ.32. Khai báo tạm vắng
+ 4. Nơi tiếp nhận thông báo lưu trú là trụ sở Công an xã, phường, thị trấn. Căn cứ vào điều kiện thực tế, các địa phương quyết định thêm địa điểm khác để tiếp nhận thông báo lưu trú. Trước 23 giờ hàng ngày, cán bộ tiếp nhận thông báo lưu trú tại các địa điểm ngoài trụ sở Công an xã, phường, thị trấn phải thông tin, báo cáo số liệu kịp thời về Công an xã, phường, thị trấn; những trường hợp đến lưu trú sau 23 giờ thì báo cáo về Công an xã, phường, thị trấn vào sáng ngày hôm sau. Công an xã, phường, thị trấn có trách nhiệm thông báo địa điểm, địa chỉ mạng internet, địa chỉ mạng máy tính, số điện thoại nơi tiếp nhận thông báo lưu trú và hướng dẫn cách thông báo lưu trú.Điều 39.3.LQ.32. Khai báo tạm vắng
 
-1. Bị can, bị cáo đang tại ngoại; người bị kết án phạt tù nhưng chưa có quyết định thi hành án hoặc được hoãn, tạm đình chỉ chấp hành hình phạt tù; người bị kết án phạt tù được hưởng án treo; người bị phạt cải tạo không giam giữ; người đang bị quản chế; người đang chấp hành biện pháp giáo dục tại xã, phường, thị trấn; người bị áp dụng biện pháp đưa vào cơ sở giáo dục, cơ sở chữa bệnh, trường giáo dưỡng nhưng đang được hoãn chấp hành hoặc tạm đình chỉ thi hành khi đi khỏi nơi cư trú từ một ngày trở lên có trách nhiệm khai báo tạm vắng.
+(Điều 32 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Chỉ mục:** 32
+ 1. Bị can, bị cáo đang tại ngoại; người bị kết án phạt tù nhưng chưa có quyết định thi hành án hoặc được hoãn, tạm đình chỉ chấp hành hình phạt tù; người bị kết án phạt tù được hưởng án treo; người bị phạt cải tạo không giam giữ; người đang bị quản chế; người đang chấp hành biện pháp giáo dục tại xã, phường, thị trấn; người bị áp dụng biện pháp đưa vào cơ sở giáo dục, cơ sở chữa bệnh, trường giáo dưỡng nhưng đang được hoãn chấp hành hoặc tạm đình chỉ thi hành khi đi khỏi nơi cư trú từ một ngày trở lên có trách nhiệm khai báo tạm vắng.
 
-**Mã phân cấp:** 3900300000000000400003200000000000000000
+ 2. Người trong độ tuổi làm nghĩa vụ quân sự, dự bị động viên đi khỏi huyện, quận, thị xã, thành phố thuộc tỉnh nơi mình cư trú từ ba tháng trở lên có trách nhiệm khai báo tạm vắng.
 
-**ID:** dk_00064212
+ 3. Người quy định tại khoản 1 và khoản 2 Điều này phải khai báo tạm vắng tại Công an xã, phường, thị trấn nơi người đó cư trú. Khi đến khai báo tạm vắng phải xuất trình giấy chứng minh nhân dân và ghi vào phiếu khai báo tạm vắng.
 
----
+ 4. Công an xã, phường, thị trấn có trách nhiệm hướng dẫn nội dung khai báo, kiểm tra nội dung khai báo, ký xác nhận vào phần phiếu cấp cho người khai báo tạm vắng.(Điều này có nội dung liên quan đến Điều 39.1.NĐ.7. Sử dụng Chứng minh nhân dân; Điều 3. Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú của Thông tư 36/2014/TT-BCA Quy định về biểu mẫu sử dụng trong đăng ký, quản lý cư trú ban hành ngày 09/09/2014)
 
+Điều 39.3.TT.1.22. Khai báo tạm vắng
 
-### Điều 39.3.TT.1.22. Khai báo tạm vắng
+(Điều 22 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-1. Đối tượng, thủ tục khai báo tạm vắng thực hiện theo quy định tại Điều 32 Luật Cư trú và hướng dẫn tại Thông tư này.
+ 1. Đối tượng, thủ tục khai báo tạm vắng thực hiện theo quy định tại Điều 32 Luật Cư trú và hướng dẫn tại Thông tư này.
 
-**Chỉ mục:** 22
+ 2. Người khai báo tạm vắng phải đến trụ sở Công an xã, phường, thị trấn nơi cư trú để làm thủ tục khai báo tạm vắng.
 
-**Mã phân cấp:** 390030000000000040000320000000000000000000802520900350002200
+ 3. Người khai báo tạm vắng thuộc khoản 1 Điều 32 Luật Cư trú khi khai báo tạm vắng phải có sự đồng ý bằng văn bản của cá nhân, cơ quan có thẩm quyền giám sát, quản lý người đó.
 
-**ID:** dk_00064213
+ Người khai báo tạm vắng theo khoản 2 Điều 32 Luật Cư trú thì thời hạn tạm vắng do người đó tự quyết định.
 
----
+ 4. Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được đề nghị của công dân, Công an xã, phường, thị trấn nơi công dân cư trú phải cấp phiếu khai báo tạm vắng cho công dân (trường hợp đặc biệt thì được phép kéo dài thời gian giải quyết, nhưng tối đa không quá 02 ngày làm việc).Chương V
 
+TRÁCH NHIỆM QUẢN LÝ CƯ TRÚ
 
-### Điều 39.3.LQ.33. Trách nhiệm của Bộ Công an về quản lý cư trú
+Điều 39.3.LQ.33. Trách nhiệm của Bộ Công an về quản lý cư trú
 
-1. Xây dựng và trình Chính phủ ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về cư trú.
+(Điều 33 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Chỉ mục:** 33
+ 1. Xây dựng và trình Chính phủ ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về cư trú.
 
-**Mã phân cấp:** 3900300000000000500003300000000000000000
+ 2. Chỉ đạo và tổ chức thực hiện các văn bản quy phạm pháp luật về cư trú.
 
-**ID:** dk_00064215
+ 3. Đình chỉ, bãi bỏ theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền bãi bỏ những quy định về quản lý cư trú trái với quy định của Luật này.
 
----
+ 4. Ban hành các biểu mẫu, giấy tờ, sổ sách về cư trú.
 
+ 5. Tổ chức bộ máy, đào tạo, bồi dưỡng cán bộ làm công tác quản lý cư trú.
 
-### Điều 39.3.TT.1.23. Trách nhiệm của Công an tỉnh, thành phố trực thuộc Trung ương về quản lý cư trú
+ 6. Thống kê nhà nước về cư trú, tổng kết, nghiên cứu khoa học về quản lý cư trú, tổ chức tuyên truyền, giáo dục pháp luật về cư trú.
 
-1. Chịu trách nhiệm trước Bộ Công an và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương về việc chỉ đạo, hướng dẫn, kiểm tra và tổ chức thực hiện các quy định về quản lý cư trú tại địa phương mình.
+ 7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về cư trú.
 
-**Chỉ mục:** 23
+ 8. Hợp tác quốc tế về quản lý cư trú.Điều 39.3.TT.1.23. Trách nhiệm của Công an tỉnh, thành phố trực thuộc Trung ương về quản lý cư trú
 
-**Mã phân cấp:** 390030000000000050000330000000000000000000802520900350002300
+(Điều 23 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-**ID:** dk_00064216
+ 1. Chịu trách nhiệm trước Bộ Công an và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương về việc chỉ đạo, hướng dẫn, kiểm tra và tổ chức thực hiện các quy định về quản lý cư trú tại địa phương mình.
 
----
+ 2. Tham mưu cho Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chỉ đạo Ủy ban nhân dân cấp xã thực hiện việc chứng thực các loại giấy tờ xác nhận chỗ ở hợp pháp cho công dân theo quy định tại Nghị định số 31/2014/NĐ-CP.
 
+ 3. Chủ trì phối hợp với các cơ quan thông tin truyền thông và các ban ngành ở địa phương tổ chức tuyên truyền pháp luật về cư trú.
 
-### Điều 39.3.TT.1.24. Trách nhiệm của Công an quận, huyện, thị xã, thành phố thuộc tỉnh về quản lý cư trú
+ 4. Báo cáo Bộ Công an, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương về tình hình, biện pháp giải quyết những vấn đề vướng mắc nảy sinh trong quá trình quản lý cư trú tại địa phương.
 
-1. Thực hiện các trách nhiệm được quy định tại Luật Cư trú và các văn bản hướng dẫn thi hành.
+ 5. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về cư trú.
 
-**Chỉ mục:** 24
+ 6. Tập hợp, báo cáo tình hình, số liệu cư trú về Bộ Công an theo quy định.
 
-**Mã phân cấp:** 390030000000000050000330000000000000000000802520900350002400
+ 7. Chỉ đạo, kiểm tra, hướng dẫn Công an quận, huyện, thị xã, thành phố thuộc tỉnh về đăng ký, quản lý cư trú.
 
-**ID:** dk_00064217
+ 8. Thực hiện các việc khác về quản lý cư trú theo quy định của Bộ trưởng Bộ Công an.Điều 39.3.TT.1.24. Trách nhiệm của Công an quận, huyện, thị xã, thành phố thuộc tỉnh về quản lý cư trú
 
----
+(Điều 24 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
+ 1. Thực hiện các trách nhiệm được quy định tại Luật Cư trú và các văn bản hướng dẫn thi hành.
 
-### Điều 39.3.TT.1.25. Trách nhiệm của Công an xã, phường, thị trấn về quản lý cư trú
+ 2. Chịu trách nhiệm trước Công an tỉnh, thành phố trực thuộc Trung ương và Ủy ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh về việc chỉ đạo, hướng dẫn, kiểm tra và tổ chức thực hiện các quy định về quản lý cư trú tại địa phương mình.
 
-1. Thực hiện các trách nhiệm được quy định tại Luật Cư trú.
+ 3. Chủ trì, phối hợp với các cơ quan thông tin truyền thông và các ban, ngành ở địa phương tổ chức tuyên truyền pháp luật về cư trú.
 
-**Chỉ mục:** 25
+ 4. Báo cáo Công an tỉnh, thành phố trực thuộc Trung ương, Ủy ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh về tình hình biện pháp giải quyết những vấn đề vướng mắc nảy sinh trong quá trình quản lý cư trú tại địa phương.
 
-**Mã phân cấp:** 390030000000000050000330000000000000000000802520900350002500
+ 5. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về cư trú theo thẩm quyền.
 
-**ID:** dk_00064218
+ 6. Tập hợp, báo cáo tình hình, số liệu cư trú về Công an tỉnh, thành phố trực thuộc Trung ương theo quy định.
 
----
+ 7. Quản lý, lưu trữ hồ sơ đăng ký và quản lý thường trú tại tàng thư hồ sơ hộ khẩu theo quy định của Bộ Công an.
 
+ 8. Thực hiện các việc khác về quản lý cư trú theo quy định của Công an cấp trên.Điều 39.3.TT.1.25. Trách nhiệm của Công an xã, phường, thị trấn về quản lý cư trú
 
-### Điều 39.3.TT.1.26. Kiểm tra cư trú
+(Điều 25 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-1. Hình thức kiểm tra cư trú được tiến hành định kỳ, đột xuất, hoặc do yêu cầu phòng, chống tội phạm, giữ gìn an ninh, trật tự.
+ 1. Thực hiện các trách nhiệm được quy định tại Luật Cư trú.
 
-**Chỉ mục:** 26
+ 2. Thực hiện việc đăng ký, quản lý cư trú trên địa bàn phụ trách theo quy định của Luật Cư trú và quy định của Bộ Công an.
 
-**Mã phân cấp:** 390030000000000050000330000000000000000000802520900350002600
+ 3. Kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về cư trú theo thẩm quyền.
 
-**ID:** dk_00064219
+ 4. Tập hợp, báo cáo tình hình, số liệu cư trú về Công an quận, huyện, thị xã, thành phố thuộc tỉnh theo quy định.
 
----
+ 5. Tổ chức tuyên truyền pháp luật về cư trú.
 
+ 6. Quản lý, lưu trữ hồ sơ đăng ký và quản lý tạm trú theo quy định của Bộ Công an.
 
-### Điều 39.3.LQ.34. Trách nhiệm của Uỷ ban nhân dân các cấp trong quản lý cư trú
+ 7. Thực hiện các việc khác về quản lý cư trú theo quy định của Công an cấp trên.Điều 39.3.TT.1.26. Kiểm tra cư trú
 
-1. Tổ chức thực hiện các văn bản quy phạm pháp luật về cư trú tại địa phương.
+(Điều 26 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-**Chỉ mục:** 34
+ 1. Hình thức kiểm tra cư trú được tiến hành định kỳ, đột xuất, hoặc do yêu cầu phòng, chống tội phạm, giữ gìn an ninh, trật tự.
 
-**Mã phân cấp:** 3900300000000000500003400000000000000000
+ 2. Đối tượng kiểm tra cư trú là công dân, hộ gia đình, cơ sở cho thuê lưu trú, cơ quan đăng ký, quản lý cư trú các cấp; cơ quan, tổ chức có liên quan đến quản lý cư trú.
 
-**ID:** dk_00064220
+ 3. Nội dung kiểm tra cư trú bao gồm kiểm tra việc triển khai và tổ chức thực hiện các nội dung đăng ký, quản lý cư trú; quyền và trách nhiệm của công dân, hộ gia đình, cơ quan, tổ chức; các nội dung khác theo pháp luật cư trú.
 
----
+ 4. Cán bộ, chiến sĩ Công an nhân dân, Công an xã được giao quản lý cư trú tại địa bàn có quyền kiểm tra trực tiếp hoặc phối hợp kiểm tra việc chấp hành pháp luật về cư trú đối với công dân, hộ gia đình, cơ quan, tổ chức thuộc địa bàn quản lý. Khi kiểm tra được quyền huy động lực lượng quần chúng làm công tác bảo vệ an ninh, trật tự ở cơ sở, bảo vệ cơ quan, doanh nghiệp, tổ chức cùng tham gia.
 
+ 5. Việc kiểm tra cư trú của Công an cấp trên tại địa bàn dân cư phải có cán bộ, chiến sĩ Công an nhân dân, Công an xã được giao quản lý cư trú tại địa bàn chứng kiến.Điều 39.3.LQ.34. Trách nhiệm của Uỷ ban nhân dân các cấp trong quản lý cư trú
 
-### Điều 39.3.NĐ.1.4. Trách nhiệm của các Bộ, ngành, Ủy ban nhân dân các cấp và công dân trong việc thực hiện các quy định về hộ khẩu
+(Điều 34 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-1. Trách nhiệm của các Bộ, ngành, Ủy ban nhân dân các cấp
+ 1. Tổ chức thực hiện các văn bản quy phạm pháp luật về cư trú tại địa phương.
 
-**Chỉ mục:** 4
+ 2. Chỉ đạo việc phối hợp giữa các cơ quan hữu quan ở địa phương về quản lý cư trú.
 
-**Mã phân cấp:** 390030000000000050000340000000000000000000402506500310000400
+ 3. Tổ chức tuyên truyền, giáo dục pháp luật về cư trú.
 
-**ID:** dk_00064221
+ 4. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về cư trú theo quy định của pháp luật.Điều 39.3.NĐ.1.4. Trách nhiệm của các Bộ, ngành, Ủy ban nhân dân các cấp và công dân trong việc thực hiện các quy định về hộ khẩu
 
----
+(Điều 4 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
+ 1. Trách nhiệm của các Bộ, ngành, Ủy ban nhân dân các cấp
 
-### Điều 39.3.LQ.35. Trách nhiệm của cơ quan đăng ký, quản lý cư trú
+ a) Kiểm tra, rà soát các văn bản quy phạm pháp luật và các văn bản khác trong lĩnh vực quản lý của mình liên quan đến quy định về hộ khau để sửa đổi, bổ sung, bãi bỏ hoặc kiến nghị cơ quan có thẩm quyền sửa đổi, bổ sung, bãi bỏ những nội dung trái với Luật Cư trú và các văn bản hướng dẫn Luật Cư trú;
 
-1. Niêm yết công khai, hướng dẫn cơ quan, tổ chức, cá nhân, hộ gia đình trong việc thực hiện các quy định của pháp luật về cư trú.
+ b) Ban hành các văn bản quy phạm pháp luật, văn bản khác thuộc thẩm quyền có liên quan đến quy định về hộ khẩu phải không trái với Luật Cư trú và các văn bản hướng dẫn Luật Cư trú; không được làm hạn chế quyền, lợi ích hợp pháp của công dân;
 
-**Chỉ mục:** 35
+ c) Chỉ đạo, kiểm tra, giám sát các cơ quan, tổ chức, cá nhân thuộc thẩm quyền quản lý trong việc thực hiện Luật Cư trú và các văn bản hướng dẫn Luật Cư trú;
 
-**Mã phân cấp:** 3900300000000000500003500000000000000000
+ d) Phát hiện, ngăn chặn, xử lý kịp thời, nghiêm minh hành vi lạm dụng quy định về hộ khẩu làm hạn chế quyền, lợi ích hợp pháp của công dân.
 
-**ID:** dk_00064222
+ 2. Trách nhiệm của công dân
 
----
+ Công dân có trách nhiệm phát hiện, thông báo kịp thời và giúp đỡ cơ quan, người có thẩm quyền trong việc ngăn chặn, xử lý các hành vi lạm dụng quy định về hộ khẩu làm hạn chế quyền, lợi ích hợp pháp của công dân.Điều 39.3.LQ.35. Trách nhiệm của cơ quan đăng ký, quản lý cư trú
 
+(Điều 35 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-### Điều 39.3.TT.1.5. Tiếp nhận và xử lý thông tin phản ánh của công dân, hộ gia đình, cơ quan, tổ chức về cư trú
+ 1. Niêm yết công khai, hướng dẫn cơ quan, tổ chức, cá nhân, hộ gia đình trong việc thực hiện các quy định của pháp luật về cư trú.
 
-1. Cơ quan đăng ký, quản lý cư trú có trách nhiệm tiếp nhận thông tin phản ánh của công dân, hộ gia đình, cơ quan, tổ chức về cư trú và xử lý thông tin đó theo chức năng, nhiệm vụ và thẩm quyền quy định nhằm chấn chỉnh kỷ cương, kỷ luật hành chính trong giải quyết công việc của công dân, cơ quan, tổ chức, đẩy mạnh cải cách hành chính và nâng cao chất lượng hiệu quả công tác đăng ký, quản lý cư trú.
+ 2. Bố trí cán bộ có năng lực, phẩm chất đạo đức tốt làm công tác đăng ký, quản lý cư trú.
 
-**Chỉ mục:** 5
+ 3. Cấp sổ hộ khẩu, sổ tạm trú, giấy tờ khác liên quan đến cư trú đúng thời hạn cho công dân theo quy định của Luật này.
 
-**Mã phân cấp:** 390030000000000050000350000000000000000000802520900350000500
+ 4. Quản lý, lưu trữ hồ sơ, tài liệu về đăng ký, quản lý cư trú.
 
-**ID:** dk_00064223
+ 5. Giải quyết kịp thời kiến nghị, khiếu nại, tố cáo của công dân liên quan đến cư trú, quản lý cư trú.Điều 39.3.TT.1.5. Tiếp nhận và xử lý thông tin phản ánh của công dân, hộ gia đình, cơ quan, tổ chức về cư trú
 
----
+(Điều 5 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
+ 1. Cơ quan đăng ký, quản lý cư trú có trách nhiệm tiếp nhận thông tin phản ánh của công dân, hộ gia đình, cơ quan, tổ chức về cư trú và xử lý thông tin đó theo chức năng, nhiệm vụ và thẩm quyền quy định nhằm chấn chỉnh kỷ cương, kỷ luật hành chính trong giải quyết công việc của công dân, cơ quan, tổ chức, đẩy mạnh cải cách hành chính và nâng cao chất lượng hiệu quả công tác đăng ký, quản lý cư trú.
 
-### Điều 39.3.LQ.36. Người làm công tác đăng ký, quản lý cư trú
+ 2. Việc tiếp nhận thông tin thông qua các hình thức dưới đây:
 
-1. Người làm công tác đăng ký, quản lý cư trú phải được đào tạo, bồi dưỡng chuyên môn, nghiệp vụ phù hợp với nhiệm vụ được giao.
+ a) Trực tiếp tại cơ quan đăng ký, quản lý cư trú;
 
-**Chỉ mục:** 36
+ b) Điện thoại;
 
-**Mã phân cấp:** 3900300000000000500003600000000000000000
+ c) Hòm thư góp ý;
 
-**ID:** dk_00064224
+ d) Mạng internet, mạng máy tính;
 
----
+ đ) Các hình thức khác.
 
+ 3. Các thông tin phản ánh của công dân, hộ gia đình, cơ quan, tổ chức về cư trú phải được cán bộ đăng ký, quản lý cư trú ghi lại, trong đó thể hiện rõ thời gian, địa điểm xảy ra, liên quan đến tổ chức, cá nhân nào. Khi công dân, hộ gia đình, cơ quan, tổ chức đến phản ánh thông tin thì cần đề nghị họ cho biết họ tên, địa chỉ, số điện thoại liên hệ để cơ quan đăng ký, quản lý cư trú có văn bản trả lời khi cần thiết.Điều 39.3.LQ.36. Người làm công tác đăng ký, quản lý cư trú
 
-### Điều 39.3.LQ.37. Huỷ bỏ việc đăng ký thường trú, tạm trú trái pháp luật
+(Điều 36 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, tạm trú không đúng thẩm quyền, không đúng đối tượng và điều kiện theo quy định của Luật này thì thủ trưởng cơ quan quản lý cư trú cấp trên trực tiếp có trách nhiệm huỷ bỏ việc đăng ký đó. Căn cứ quyết định của cơ quan có thẩm quyền, cơ quan đã đăng ký thường trú, tạm trú có trách nhiệm thực hiện việc xoá đăng ký thường trú, tạm trú; cơ quan có thẩm quyền đăng ký thường trú, tạm trú trước đó phải đăng ký lại.
+ 1. Người làm công tác đăng ký, quản lý cư trú phải được đào tạo, bồi dưỡng chuyên môn, nghiệp vụ phù hợp với nhiệm vụ được giao.
 
-**Chỉ mục:** 37
+ 2. Người làm công tác đăng ký, quản lý cư trú trong khi thực hiện nhiệm vụ phải có thái độ, lời nói, cử chỉ nghiêm túc, khiêm tốn, hoà nhã; tiếp nhận, kiểm tra hồ sơ, tài liệu có liên quan, viết biên nhận, hẹn ngày trả kết quả và giải quyết đúng thời hạn theo quy định của Luật này; trường hợp hồ sơ còn thiếu hoặc chưa đúng thì hướng dẫn cụ thể, đầy đủ bằng văn bản và chịu trách nhiệm trước pháp luật về việc hướng dẫn đó.Điều 39.3.LQ.37. Huỷ bỏ việc đăng ký thường trú, tạm trú trái pháp luật
 
-**Mã phân cấp:** 3900300000000000500003700000000000000000
+(Điều 37 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**ID:** dk_00064225
+ Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, tạm trú không đúng thẩm quyền, không đúng đối tượng và điều kiện theo quy định của Luật này thì thủ trưởng cơ quan quản lý cư trú cấp trên trực tiếp có trách nhiệm huỷ bỏ việc đăng ký đó. Căn cứ quyết định của cơ quan có thẩm quyền, cơ quan đã đăng ký thường trú, tạm trú có trách nhiệm thực hiện việc xoá đăng ký thường trú, tạm trú; cơ quan có thẩm quyền đăng ký thường trú, tạm trú trước đó phải đăng ký lại.(Điều này có nội dung liên quan đến Điều 39.3.LQ.22. Xoá đăng ký thường trú của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006)
 
----
+Điều 39.3.TT.1.14. Hủy bỏ kết quả đăng ký thường trú trái pháp luật
 
+(Điều 14 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
-### Điều 39.3.TT.1.14. Hủy bỏ kết quả đăng ký thường trú trái pháp luật
+ 1. Trường hợp đăng ký thường trú không đúng thẩm quyền, không đúng điều kiện và đối tượng quy định tại Điều 19 và Điều 20 Luật Cư trú và hướng dẫn tại Thông tư này thì Giám đốc Công an cấp tỉnh hủy bỏ việc đăng ký thường trú trái pháp luật của Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương, Công an thị xã, thành phố thuộc tỉnh; Trưởng Công an huyện thuộc tỉnh hủy bỏ việc đăng ký thường trú trái pháp luật của Công an xã, thị trấn thuộc huyện thuộc tỉnh.
 
-1. Trường hợp đăng ký thường trú không đúng thẩm quyền, không đúng điều kiện và đối tượng quy định tại Điều 19 và Điều 20 Luật Cư trú và hướng dẫn tại Thông tư này thì Giám đốc Công an cấp tỉnh hủy bỏ việc đăng ký thường trú trái pháp luật của Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương, Công an thị xã, thành phố thuộc tỉnh; Trưởng Công an huyện thuộc tỉnh hủy bỏ việc đăng ký thường trú trái pháp luật của Công an xã, thị trấn thuộc huyện thuộc tỉnh.
+ 2. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận được quyết định hủy bỏ việc đăng ký thường trú trái pháp luật, cơ quan đã đăng ký thường trú phải có trách nhiệm xóa tên trong sổ hộ khẩu và sổ đăng ký thường trú, thu hồi sổ hộ khẩu (nếu hủy bỏ kết quả đăng ký của tất cả những người có tên trong sổ hộ khẩu).
 
-**Chỉ mục:** 14
+ 3. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày xóa đăng ký thường trú thì Công an quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương; Công an thị xã, thành phố thuộc tỉnh phải thông báo cho tàng thư căn cước công dân và Công an xã, phường, thị trấn; Công an xã, thị trấn thuộc huyện thuộc tỉnh phải thông báo cho Công an huyện và Công an huyện phải thông báo cho tàng thư căn cước công dân trong thời hạn 03 (ba) ngày, kể từ ngày nhận được thông báo của Công an xã, thị trấn.(Điều này có nội dung liên quan đến Điều 19. Điều kiện đăng ký thường trú tại tỉnh; Điều 20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006)
 
-**Mã phân cấp:** 390030000000000050000370000000000000000000802520900350001400
+Điều 39.3.TT.1.20. Hủy bỏ đăng ký tạm trú trái pháp luật
 
-**ID:** dk_00064226
+(Điều 20 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
----
+ 1. Trường hợp đăng ký tạm trú không đúng thẩm quyền, không đúng đối tượng, không đúng điều kiện quy định tại Điều 30 Luật Cư trú và hướng dẫn tại Thông tư này, thì Trưởng Công an huyện, quận, thị xã, thành phố thuộc tỉnh hủy bỏ việc đăng ký tạm trú trái pháp luật.
 
+ 2. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận được quyết định hủy bỏ việc đăng ký tạm trú trái pháp luật, Công an xã, phường, thị trấn đã đăng ký tạm trú phải có trách nhiệm xóa tên người đăng ký tạm trú trái pháp luật trong sổ tạm trú, sổ đăng ký tạm trú và thu hồi sổ tạm trú (nếu hủy bỏ đăng ký trái pháp luật tất cả những người có tên trong sổ tạm trú).(Điều này có nội dung liên quan đến Điều 30. Đăng ký tạm trú của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 39.3.TT.1.19. Xóa tên trong sổ đăng ký tạm trú của Thông tư 35/2014/TT-BCA Quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 09/09/2014)
 
-### Điều 39.3.TT.1.20. Hủy bỏ đăng ký tạm trú trái pháp luật
+Điều 39.3.LQ.38. Cơ sở dữ liệu về cư trú
 
-1. Trường hợp đăng ký tạm trú không đúng thẩm quyền, không đúng đối tượng, không đúng điều kiện quy định tại Điều 30 Luật Cư trú và hướng dẫn tại Thông tư này, thì Trưởng Công an huyện, quận, thị xã, thành phố thuộc tỉnh hủy bỏ việc đăng ký tạm trú trái pháp luật.
+(Điều 38 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
-**Chỉ mục:** 20
+ 1. Cơ sở dữ liệu về cư trú do Bộ Công an quản lý là một bộ phận của hệ cơ sở dữ liệu quốc gia về dân cư, được xây dựng để phục vụ công tác quản lý nhà nước về cư trú.
 
-**Mã phân cấp:** 390030000000000050000370000000000000000000802520900350002000
+ 2. Việc thu thập, lưu trữ, xử lý, bảo vệ dữ liệu về cư trú phải đáp ứng các yêu cầu sau đây:
 
-**ID:** dk_00064227
+ a) Ứng dụng công nghệ thông tin để thu thập, lưu trữ, xử lý thông tin về cư trú đầy đủ, nhanh chóng, chính xác; bảo đảm an toàn dữ liệu theo đúng nguyên tắc, định dạng hệ cơ sở dữ liệu;
 
----
+ b) Bảo đảm an toàn các thiết bị lưu trữ thông tin, tài liệu về cư trú;
 
+ c) Bảo vệ an ninh thông tin về cư trú trên mạng máy tính; bảo đảm an toàn thông tin, tài liệu lưu trữ trong cơ sở dữ liệu về cư trú; phòng, chống các hành vi làm hư hỏng dữ liệu về cư trú.
 
-### Điều 39.3.LQ.38. Cơ sở dữ liệu về cư trú
+ 3. Việc khai thác, sử dụng cơ sở dữ liệu về cư trú phải bảo đảm các yêu cầu sau đây:
 
-1. Cơ sở dữ liệu về cư trú do Bộ Công an quản lý là một bộ phận của hệ cơ sở dữ liệu quốc gia về dân cư, được xây dựng để phục vụ công tác quản lý nhà nước về cư trú.
+ a) Mọi sự truy nhập đến cơ sở dữ liệu về cư trú phải được sự phê duyệt của thủ trưởng cơ quan quản lý cư trú;
 
-**Chỉ mục:** 38
+ b) Việc cung cấp, trao đổi thông tin, tài liệu từ cơ sở dữ liệu về cư trú cho các cơ quan, tổ chức, cá nhân do Bộ trưởng Bộ Công an quy định;
 
-**Mã phân cấp:** 3900300000000000500003800000000000000000
+ c) Cơ quan, tổ chức, cá nhân không được sao chép, in trái phép thông tin, tài liệu từ cơ sở dữ liệu về cư trú.
 
-**ID:** dk_00064228
+ 4. Chính phủ quy định cụ thể về cơ sở dữ liệu về cư trú.Điều 39.3.LQ.39. Khiếu nại, tố cáo và xử lý vi phạm
 
----
+(Điều 39 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
+ 1. Việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo đối với hành vi vi phạm pháp luật về cư trú được thực hiện theo quy định của Luật này và các quy định của pháp luật về khiếu nại, tố cáo.
 
-### Điều 39.3.LQ.39. Khiếu nại, tố cáo và xử lý vi phạm
+ 2. Người nào vi phạm quy định của pháp luật về cư trú thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 8. Vi phạm quy định về đăng ký và quản lý cư trú của Nghị định 167/2013/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội; phòng, chống tệ nạn xã hội; phòng cháy và chữa cháy; phòng, chống bạo lực gia đình ban hành ngày 12/11/2013)
 
-1. Việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo đối với hành vi vi phạm pháp luật về cư trú được thực hiện theo quy định của Luật này và các quy định của pháp luật về khiếu nại, tố cáo.
+Chương VI
 
-**Chỉ mục:** 39
+BIỂU MẪU SỬ DỤNG TRONG ĐĂNG KÝ, QUẢN LÝ CƯ TRÚ
 
-**Mã phân cấp:** 3900300000000000500003900000000000000000
+Điều 39.3.TT.2.3. Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú
 
-**ID:** dk_00064229
-
----
-
-
-### Điều 39.3.TT.2.3. Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú
+(Điều 3 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú (sau đây viết gọn là biểu mẫu) ký hiệu là HK, bao gồm:
 
-**Chỉ mục:** 3
+1. Bản khai nhân khẩu (ký hiệu là HK01) được sử dụng để công dân từ 14 tuổi trở lên kê khai trong các trường hợp:
 
-**Mã phân cấp:** 3900300000000000550000380252090036000030
+- Khi làm thủ tục đăng ký thường trú, đăng ký tạm trú;
 
-**ID:** dk_00064231
+- Đã đăng ký thường trú, đăng ký tạm trú nhưng chưa khai Bản khai nhân khẩu lần nào;
 
----
+2. Phiếu báo thay đổi hộ khẩu, nhân khẩu (ký hiệu là HK02) được sử dụng để thông báo khi có sự thay đổi về hộ khẩu, nhân khẩu như: Đăng ký thường trú, đăng ký tạm trú; điều chỉnh những thay đổi trong sổ hộ khẩu, sổ tạm trú; thay đổi nơi đăng ký thường trú, tạm trú; xóa đăng ký thường trú, xóa đăng ký tạm trú; tách sổ hộ khẩu; đổi, cấp lại sổ hộ khẩu, sổ tạm trú; cấp giấy chuyển hộ khẩu; xác nhận trước đây đã đăng ký thường trú; gia hạn tạm trú. Khi có thay đổi những nội dung thông tin trong bản khai nhân khẩu thì công dân phải khai bổ sung bằng mẫu HK02 và chuyển cho cơ quan đăng ký, quản lý cư trú.
 
+3. Phiếu xác minh hộ khẩu, nhân khẩu (ký hiệu là HK03) được sử dụng để xác minh những hộ, nhân khẩu có những thông tin chưa rõ, chưa thống nhất.
 
-### Điều 39.3.TT.2.4. Quy cách các biểu mẫu
+4. Phiếu thông tin thay đổi về hộ khẩu, nhân khẩu (ký hiệu là HK04) được cơ quan đăng ký, quản lý cư trú, các đơn vị sử dụng để trao đổi thông tin khi có sự thay đổi về hộ khẩu, nhân khẩu.
+
+5. Phiếu khai báo tạm vắng (ký hiệu là HK05) được sử dụng cho người phải khai báo tạm vắng khai báo với Công an xã, phường, thị trấn nơi cư trú.
+
+6. Phiếu theo dõi hồ sơ hộ khẩu (ký hiệu là HK06) được cơ quan Công an huyện, quận, thị xã, thành phố thuộc tỉnh lập để phục vụ việc theo dõi, tra cứu hồ sơ hộ khẩu.
+
+7. Giấy chuyển hộ khẩu (ký hiệu là HK07) được dùng để cấp cho các trường hợp chuyển nơi thường trú.
+
+8. Sổ hộ khẩu (ký hiệu là HK08) được dùng để cấp cho hộ gia đình hoặc cá nhân đã đăng ký thường trú.
+
+9. Sổ tạm trú (ký hiệu là HK09A và HK09B) được dùng để cấp cho hộ gia đình hoặc cá nhân đã đăng ký tạm trú và có thời hạn tối đa là 24 (hai mươi bốn) tháng. Mẫu HK09A cấp cho hộ gia đình, mẫu HK09B cấp cho cá nhân.
+
+10. Sổ theo dõi giải quyết hộ khẩu (ký hiệu là HK10) được cơ quan đăng ký, quản lý cư trú sử dụng để theo dõi, ghi chép thông tin quá trình giải quyết đăng ký thường trú, đăng ký tạm trú, thay đổi nơi đăng ký thường trú, tạm trú, điều chỉnh những thay đổi trong sổ hộ khẩu, sổ tạm trú.
+
+11. Sổ đăng ký thường trú (ký hiệu là HK11) được cơ quan đăng ký, quản lý cư trú sử dụng để ghi chép kết quả đăng ký thường trú, điều chỉnh những thay đổi trong sổ hộ khẩu, thay đổi nơi đăng ký thường trú, xóa đăng ký thường trú, tách sổ hộ khẩu, đổi sổ hộ khẩu, cấp lại sổ hộ khẩu, cấp giấy chuyển hộ khẩu, xác nhận trước đây đã đăng ký thường trú. Mẫu HK11 được lập theo thôn, xóm, làng, ấp, bản, buôn, phum, sóc, đường phố, tổ dân phố hoặc theo nhà ở tập thể của các cơ quan, tổ chức. Khi có những thay đổi thông tin của từng nhân khẩu trong hộ, cơ quan Công an lập sổ phải tiến hành điều chỉnh kịp thời nội dung thay đổi. Mẫu HK11 là tài liệu gốc, có giá trị pháp lý để giải quyết các công việc liên quan đến đăng ký, quản lý thường trú. Mẫu HK11 do Công an xã, thị trấn thuộc huyện thuộc tỉnh, Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương, huyện, thị xã, thành phố thuộc tỉnh lập, lưu trữ và khai thác lâu dài.
+
+12. Sổ đăng ký tạm trú (ký hiệu là HK12) được Công an xã, phường, thị trấn sử dụng để ghi chép kết quả đăng ký tạm trú; điều chỉnh những thay đổi trong sổ tạm trú; xóa đăng ký tạm trú; xác nhận nơi tạm trú; đổi, cấp lại sổ tạm trú, gia hạn tạm trú.
+
+13. Sổ tiếp nhận lưu trú (ký hiệu là HK13) được Công an xã, phường, thị trấn sử dụng để theo dõi việc tiếp nhận thông báo lưu trú theo quy định của Luật Cư trú.
+
+14. Túi hồ sơ hộ khẩu (ký hiệu là HK14) được Công an huyện, quận, thị xã, thành phố thuộc tỉnh sử dụng để lưu trữ hồ sơ hộ khẩu. Mỗi hộ đã đăng ký thường trú lập một túi hồ sơ hộ khẩu riêng.
+
+15. Thống kê tình hình, kết quả đăng ký, quản lý cư trú (ký hiệu là HK15) được Công an các đơn vị, địa phương sử dụng để thống kê hộ khẩu, nhân khẩu, kết quả đăng ký, quản lý cư trú tại địa phương theo tháng, 06 tháng, hàng năm và báo cáo lên cơ quan Công an cấp trên.
+
+Phu luc_Bieu mau ve cu tru_36.2014.TT-BCA.doc
+
+Điều 39.3.TT.2.4. Quy cách các biểu mẫu
+
+(Điều 4 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mẫu HK01, HK02, HK03, HK04, HK07, HK10, HK11, HK12, HK13, HK15 in trên khổ giấy 210 mm x 297 mm, in đen trắng. Mẫu HK05 in trên khổ giấy 205 mm x 145 mm, mẫu HK06 in trên khổ giấy 80 mm x 130 mm, mẫu HK14 in trên khổ giấy 270 mm x 350 mm, in đen trắng.
 
-**Chỉ mục:** 4
+Mẫu HK08 (20 trang), HK09A (12 trang), HK09B (04 trang), in trên khổ giấy 120 mm x 165 mm, in mầu, có hoa văn, mật hiệu bảo vệ.
 
-**Mã phân cấp:** 3900300000000000550000480252090036000040
+2. Mẫu HK04, HK05 và HK07 được đóng thành quyển, được cấu tạo thành 02 liên có nội dung như nhau, một phần cấp cho người đến làm thủ tục khai báo tạm vắng, cấp giấy chuyển hộ khẩu hoặc chuyển cho cơ quan đăng ký, quản lý cư trú cấp có thẩm quyền, một phần lưu tại cơ quan Công an có thẩm quyền cấp giấy.
 
-**ID:** dk_00064232
+Điều 39.3.TT.2.5. In, phát hành và quản lý các biểu mẫu
 
----
-
-
-### Điều 39.3.TT.2.5. In, phát hành và quản lý các biểu mẫu
+(Điều 5 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Bộ Công an thống nhất quản lý, in, phát hành các biểu mẫu HK08, HK09A, HK09B. Công an tỉnh, thành phố trực thuộc Trung ương quản lý, in, phát hành các mẫu HK01, HK02, HK03, HK04, HK05, HK06, HK07, HK10, HK11, HK12, HK13, HK14, HK15 ban hành kèm theo Thông tư này. Khi in không được thay đổi nội dung, kích thước của biểu mẫu.
 
-**Chỉ mục:** 5
+2. Cục Cảnh sát đăng ký quản lý cư trú và dữ liệu quốc gia về dân cư hướng dẫn Công an các địa phương lập sổ sách theo dõi chuyển giao hồ sơ hộ khẩu, cập nhật thông tin, tra cứu, khai thác tàng thư hồ sơ hộ khẩu.
 
-**Mã phân cấp:** 3900300000000000550000480252090036000050
+3. Biểu mẫu về đăng ký, quản lý cư trú được đăng tải trên Cổng thông tin điện tử Bộ Công an.
 
-**ID:** dk_00064233
+4. Kinh phí in biểu mẫu quy định tại khoản 1, khoản 2 Điều này do ngân sách nhà nước cấp, được bố trí trong dự toán ngân sách hàng năm của Bộ Công an. Công an các đơn vị, địa phương có trách nhiệm lập dự toán, quyết toán kinh phí in biểu mẫu theo quy định của Luật Ngân sách nhà nước, Luật Kế toán và các văn bản hướng dẫn thi hành.
 
----
+Điều 39.3.TT.2.6. Yêu cầu ghi biểu mẫu
 
-
-### Điều 39.3.TT.2.6. Yêu cầu ghi biểu mẫu
+(Điều 6 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Ghi chính xác, thống nhất những nội dung trong từng biểu mẫu, chữ viết phải rõ ràng, viết cùng một loại mực, không viết tắt.
 
-**Chỉ mục:** 6
+2. Người đến làm thủ tục đăng ký cư trú không biết chữ hoặc không thể tự kê khai được thì nhờ người khác kê khai hộ theo lời khai của mình. Người kê khai hộ phải kê khai trung thực, ký, ghi rõ họ tên và chịu trách nhiệm về việc kê khai hộ đó.
 
-**Mã phân cấp:** 3900300000000000550000580252090036000060
+3. Các sổ phải được viết liên tục theo thứ tự từng trang, không được bỏ trống; phải ghi đầy đủ, rõ ràng các nội dung ở bìa và các trang của sổ.
 
-**ID:** dk_00064234
+4. Các cột, mục trong biểu mẫu phải được ghi theo đúng chú thích hướng dẫn trong các biểu mẫu (nếu có) và quy định tại Thông tư này.
 
----
+5. Nghiêm cấm việc tự ý tẩy xóa, sửa chữa, bổ sung làm sai lệch nội dung đã ghi trong biểu mẫu.
 
+Điều 39.3.TT.2.7. Thông tin chung trong biểu mẫu
 
-### Điều 39.3.TT.2.7. Thông tin chung trong biểu mẫu
+(Điều 7 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Thông tin chung trong các loại biểu mẫu bao gồm: Thông tin về cá nhân, về địa chỉ cư trú và về cơ quan có thẩm quyền đăng ký, quản lý cư trú.
 
-**Chỉ mục:** 7
+2. Cách ghi thông tin về cá nhân
 
-**Mã phân cấp:** 3900300000000000550000680252090036000070
+Khi ghi thông tin về cá nhân phải căn cứ vào giấy khai sinh và các giấy tờ hộ tịch khác. Nếu không có các giấy tờ trên thì ghi theo sổ hộ khẩu, chứng minh nhân dân, hộ chiếu Việt Nam hoặc giấy tờ khác do cơ quan có thẩm quyền cấp.
 
-**ID:** dk_00064235
+a) Mục “Họ và tên”: Ghi bằng chữ in hoa, đủ dấu;
 
----
+b) Mục “Ngày, tháng, năm sinh”: Xác định theo ngày, tháng, năm dương lịch và được ghi đầy đủ 02 chữ số cho ngày sinh, 02 chữ số cho các tháng sinh là tháng 01 và tháng 02, 04 chữ số cho năm sinh;
 
+c) Mục “CMND số” và mục “Hộ chiếu số”: Ghi đầy đủ số chứng minh nhân dân và số hộ chiếu (nếu có cả hai giấy tờ này);
 
-### Điều 39.3.TT.2.8. Cách ghi bản khai nhân khẩu
+d) Mục “Giới tính”: Nếu giới tính nam thì ghi là Nam, nếu giới tính nữ thì ghi là Nữ;
+
+đ) Mục “Nơi sinh”: Ghi nơi sinh theo giấy khai sinh;
+
+e) Mục “Nguyên quán”: Ghi nguyên quán theo giấy khai sinh. Trường hợp không có giấy khai sinh hoặc giấy khai sinh không có mục này thì ghi theo nguồn gốc, xuất xứ của ông, bà nội hoặc ông, bà ngoại. Nếu không xác định được ông, bà nội hoặc ông bà ngoại thì ghi theo nguồn gốc, xuất xứ của cha hoặc mẹ. Phải ghi cụ thể địa danh hành chính cấp xã, cấp huyện, cấp tỉnh. Trường hợp địa danh hành chính đã có thay đổi thì ghi theo địa danh hành chính hiện tại;
+
+g) Mục “Quốc tịch”: Ghi quốc tịch Việt Nam, quốc tịch khác (nếu có);
+
+h) Mục “Dân tộc” và “Tôn giáo”: Ghi dân tộc, tôn giáo theo giấy khai sinh. Trường hợp không có giấy khai sinh thì ghi theo sổ hộ khẩu, chứng minh nhân dân hoặc giấy tờ khác do cơ quan có thẩm quyền cấp;
+
+i) Mục “Nghề nghiệp, nơi làm việc”: Ghi rõ hiện nay làm nghề gì và tên cơ quan, đơn vị, tổ chức, địa chỉ nơi làm việc.
+
+3. Cách ghi thông tin về địa chỉ cư trú
+
+Ghi cụ thể, đầy đủ số nhà, phố, đường phố; tổ, thôn, xóm, làng, ấp, bản, buôn, phum, sóc; xã, phường, thị trấn; huyện, quận, thị xã, thành phố thuộc tỉnh; tỉnh, thành phố trực thuộc Trung ương. Trường hợp ở nước ngoài về đăng ký cư trú thì ghi rõ địa chỉ cư trú ở nước ngoài (ghi rõ phiên âm bằng tiếng Việt).
+
+4. Ghi thông tin về cơ quan có thẩm quyền đăng ký, quản lý cư trú
+
+Dòng trên ghi cơ quan Công an cấp trên trực tiếp, dòng dưới ghi tên cơ quan Công an có thẩm quyền đăng ký, quản lý cư trú.
+
+Điều 39.3.TT.2.8. Cách ghi bản khai nhân khẩu
+
+(Điều 8 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Trình độ học vấn”: Ghi rõ trình độ học vấn cao nhất (Tiến sĩ, Thạc sĩ, Đại học, Cao đẳng, Trung cấp, tốt nghiệp phổ thông trung học, tốt nghiệp phổ thông cơ sở…; nếu không biết chữ thì ghi rõ “không biết chữ”).
 
-**Chỉ mục:** 8
+2. Mục “Trình độ chuyên môn”: Ghi rõ chuyên ngành được đào tạo hoặc trình độ tay nghề, bậc thợ, chuyên môn kỹ thuật khác được ghi trong văn bằng, chứng chỉ.
 
-**Mã phân cấp:** 3900300000000000550000780252090036000080
+3. Mục “Trình độ ngoại ngữ”: Ghi rõ tên văn bằng, chứng chỉ ngoại ngữ cao nhất được cấp.
 
-**ID:** dk_00064236
+4. Mục “Tóm tắt về bản thân (từ đủ 14 tuổi trở lên đến nay ở đâu, làm gì)”: Ghi rõ từng khoảng thời gian (từ tháng, năm đến tháng, năm) thay đổi về chỗ ở và nghề nghiệp, nơi làm việc.
 
----
+5. Mục “Tiền án, tiền sự”: Ghi rõ tội danh, hình phạt theo bản án số, ngày, tháng, năm của Tòa án; đã được xóa án tích hay chưa hoặc đang trong giai đoạn bị khởi tố, điều tra, truy tố, xét xử; đã hoặc đang chấp hành hình phạt; bị kết án phạt tù được hưởng án treo; hình phạt bổ sung; đã hoặc đang bị áp dụng biện pháp ngăn chặn của tố tụng hình sự hoặc bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, đưa vào trường giáo dưỡng; đưa vào cơ sở giáo dục bắt buộc và đưa vào cơ sở cai nghiện bắt buộc. Thời gian bị áp dụng biện pháp đó.
 
+Điều 39.3.TT.2.9. Cách ghi phiếu báo thay đổi hộ khẩu, nhân khẩu
 
-### Điều 39.3.TT.2.9. Cách ghi phiếu báo thay đổi hộ khẩu, nhân khẩu
+(Điều 9 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Họ và tên chủ hộ” và “Quan hệ với chủ hộ” ghi như sau:
 
-**Chỉ mục:** 9
+a) Trường hợp đăng ký thường trú hoặc đăng ký tạm trú vào chỗ ở hợp pháp, được cấp sổ hộ khẩu hoặc sổ tạm trú thì mục họ và tên chủ hộ ghi họ, tên người đến đăng ký thường trú hoặc đăng ký tạm trú, mục quan hệ với chủ hộ ghi là chủ hộ;
 
-**Mã phân cấp:** 3900300000000000550000880252090036000090
+b) Trường hợp được chủ hộ đồng ý cho nhập vào sổ hộ khẩu hoặc sổ tạm trú thì họ và tên chủ hộ ghi họ, tên chủ hộ đồng ý cho nhập vào sổ hộ khẩu hoặc sổ tạm trú, mục quan hệ với chủ hộ ghi mối quan hệ thực tế với chủ hộ đó;
 
-**ID:** dk_00064237
+c) Trường hợp điều chỉnh những thay đổi trong sổ hộ khẩu, sổ tạm trú; xóa đăng ký thường trú, xóa đăng ký tạm trú; tách sổ hộ khẩu; đổi, cấp lại sổ hộ khẩu, sổ tạm trú; cấp giấy chuyển hộ khẩu hoặc xác nhận trước đây đã đăng ký thường trú thì ghi họ và tên chủ hộ, quan hệ với chủ hộ theo sổ hộ khẩu, sổ tạm trú.
 
----
+2. Mục “Nội dung thay đổi hộ khẩu, nhân khẩu”: Ghi tóm tắt nội dung thay đổi hộ khẩu, nhân khẩu.
 
+3. Mục “Ý kiến của chủ hộ”: Ghi rõ ý kiến của chủ hộ là đồng ý cho đăng ký thường trú, đăng ký tạm trú hoặc đồng ý cho tách sổ hộ khẩu; chủ hộ ký và ghi rõ họ, tên, ngày, tháng, năm.
 
-### Điều 39.3.TT.2.10. Cách ghi phiếu xác minh hộ khẩu, nhân khẩu
+4. Mục “Xác nhận của Công an” ghi như sau:
+
+a) Trường hợp xác nhận việc trước đây đã đăng ký thường trú thì cơ quan Công an có thẩm quyền đăng ký thường trú xác nhận việc trước đây đã đăng ký thường trú. Nội dung xác nhận gồm: các thông tin cơ bản của từng nhân khẩu; địa chỉ đã đăng ký thường trú; họ và tên chủ hộ đã đăng ký thường trú (nếu có); ngày, tháng, năm chuyển đi hoặc xóa đăng ký thường trú;
+
+b) Trường hợp cấp lại sổ hộ khẩu do bị mất thì Công an xã, phường, thị trấn nơi thường trú của công dân xác nhận việc bị mất đó. Nội dung xác nhận gồm: Họ và tên, ngày, tháng, năm sinh, địa chỉ nơi thường trú của chủ hộ đề nghị cấp lại sổ hộ khẩu.
+
+5. Trường hợp người viết phiếu báo thay đổi hộ khẩu, nhân khẩu cũng là người có thay đổi hộ khẩu, nhân khẩu thì công dân chỉ cần kê khai những nội dung quy định tại mục II “Thông tin về người có thay đổi hộ khẩu, nhân khẩu”.
+
+Điều 39.3.TT.2.10. Cách ghi phiếu xác minh hộ khẩu, nhân khẩu
+
+(Điều 10 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Kính gửi”: Ghi tên cơ quan nhận phiếu xác minh hộ khẩu, nhân khẩu và cấp trên trực tiếp của cơ quan đó. Trường hợp gửi phiếu xác minh cho cơ quan Công an xã, phường, thị trấn ngoài phạm vi địa giới hành chính tỉnh, thành phố trực thuộc Trung ương thì phải ghi đầy đủ địa giới hành chính của Công an xã, phường, thị trấn đó (xã, huyện, tỉnh).
 
-**Chỉ mục:** 10
+2. Phần yêu cầu xác minh (mặt trước):
 
-**Mã phân cấp:** 3900300000000000550000980252090036000100
+a) Mục “Nội dung xác minh”: Ghi tóm tắt, rõ nội dung cần xác minh và thông tin về các nhân khẩu kèm theo (nếu có);
 
-**ID:** dk_00064238
+b) Mục “Kết quả xác minh gửi về:”: Ghi tên cơ quan nơi lập phiếu xác minh và cấp trên trực tiếp của cơ quan đó. Trường hợp cơ quan Công an xã, phường, thị trấn lập phiếu xác minh gửi đi ngoài phạm vi tỉnh, thành phố trực thuộc Trung ương thì phải ghi đầy đủ địa giới hành chính của Công an xã, phường, thị trấn đó (xã, huyện, tỉnh);
 
----
+c) Mục “Trưởng Công an”: Trưởng Công an nơi gửi phiếu xác minh phải ký, ghi rõ họ, tên, chức vụ và đóng dấu. Đối với Công an quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương và Công an thị xã, thành phố thuộc tỉnh thì Chỉ huy Đội Cảnh sát quản lý hành chính về trật tự xã hội ký phiếu xác minh trong phạm vi huyện, quận, thị xã, thành phố thuộc tỉnh, ngoài phạm vi cấp huyện thì Trưởng Công an huyện, quận, thị xã, thành phố thuộc tỉnh ký phiếu xác minh.
 
+3. Phần trả lời xác minh (mặt sau):
 
-### Điều 39.3.TT.2.11. Cách ghi phiếu thông tin thay đổi về hộ khẩu, nhân khẩu
+a) Mục “Kết quả xác minh”: Trả lời đầy đủ kết quả xác minh theo các nội dung yêu cầu xác minh. Trường hợp không có đối tượng xác minh hoặc thông tin về đối tượng không chính xác cũng phải trả lời;
+
+b) Mục “Trưởng Công an”: Trưởng Công an nơi gửi trả lời xác minh phải ký, ghi rõ họ, tên, chức vụ và đóng dấu.
+
+Điều 39.3.TT.2.11. Cách ghi phiếu thông tin thay đổi về hộ khẩu, nhân khẩu
+
+(Điều 11 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Kính gửi”: Ghi tên cơ quan đăng ký, quản lý cư trú nơi nhận phiếu và cấp trên trực tiếp của cơ quan đó. Trường hợp thông báo về việc đã đăng ký thường trú phải gửi trực tiếp cho cơ quan Công an nơi cấp giấy chuyển hộ khẩu để làm thủ tục xóa đăng ký thường trú. Nếu cơ quan Công an nơi cấp giấy chuyển hộ khẩu (nơi đăng ký thường trú cũ) là cơ quan Công an xã, phường, thị trấn thì phải ghi đầy đủ địa giới hành chính của Công an xã, phường, thị trấn đó (xã, huyện, tỉnh).
 
-**Chỉ mục:** 11
+2. Mục “Nội dung thay đổi”: Ghi đầy đủ, rõ ràng những nội dung thay đổi về hộ khẩu, nhân khẩu. Trường hợp thông báo về việc đã đăng ký thường trú thì cơ quan Công an nơi chuyển đến phải ghi đầy đủ các thông tin sau: Họ và tên, ngày, tháng, năm sinh, nơi đăng ký thường trú cũ, nơi chuyển đến, họ và tên các nhân khẩu kèm theo cùng đăng ký thường trú, giấy chuyển hộ khẩu (số, ngày, tháng, năm cấp).
 
-**Mã phân cấp:** 3900300000000000550001080252090036000110
+3. Mục “Đề xuất, kiến nghị”: Ghi cụ thể ý kiến đề xuất, kiến nghị (nếu có). Trường hợp thông báo về việc đã đăng ký thường trú thì phải đề nghị cơ quan Công an nơi cấp giấy chuyển hộ khẩu làm thủ tục xóa đăng ký thường trú.
 
-**ID:** dk_00064239
+Điều 39.3.TT.2.12. Cách ghi Phiếu khai báo tạm vắng
 
----
-
-
-### Điều 39.3.TT.2.12. Cách ghi Phiếu khai báo tạm vắng
+(Điều 12 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Nơi thường trú/nơi tạm trú”: Nếu ghi nơi thường trú thì gạch nơi tạm trú và ngược lại.
 
-**Chỉ mục:** 12
+2. Mục “Lý do tạm vắng”: Ghi rõ lý do đi khỏi nơi cư trú.
 
-**Mã phân cấp:** 3900300000000000550001180252090036000120
+3. Phần phiếu cấp cho công dân thì Trưởng công an xã, phường, thị trấn nơi cấp phiếu khai báo tạm vắng phải ký, ghi rõ họ, tên và đóng dấu; phần lưu thì Trưởng Công an xã, phường, thị trấn và người khai báo chỉ cần ký, ghi rõ họ, tên.
 
-**ID:** dk_00064240
+Điều 39.3.TT.2.13. Cách ghi phiếu theo dõi hồ sơ hộ khẩu
 
----
-
-
-### Điều 39.3.TT.2.13. Cách ghi phiếu theo dõi hồ sơ hộ khẩu
+(Điều 13 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mặt trước:
 
-**Chỉ mục:** 13
+a) Mục “Hồ sơ hộ khẩu số”: Ghi theo số hồ sơ hộ khẩu trong tàng thư hồ sơ hộ khẩu;
 
-**Mã phân cấp:** 3900300000000000550001280252090036000130
+b) Mục “Danh sách những người trong hộ”: Ghi đầy đủ, chính xác từng người trong hộ.
 
-**ID:** dk_00064241
+2. Mặt sau: Ghi tiếp danh sách những người trong hộ theo hướng dẫn tại mặt trước (nếu mặt trước không đủ để ghi).
 
----
+Điều 39.3.TT.2.14. Cách ghi giấy chuyển hộ khẩu
 
-
-### Điều 39.3.TT.2.14. Cách ghi giấy chuyển hộ khẩu
+(Điều 14 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Số giấy chuyển hộ khẩu: Ghi theo số thứ tự cấp giấy chuyển hộ khẩu từng năm tại cơ quan Công an có thẩm quyền.
 
-**Chỉ mục:** 14
+2. Mục “Lý do chuyển hộ khẩu”: Ghi rõ lý do chuyển hộ khẩu.
 
-**Mã phân cấp:** 3900300000000000550001380252090036000140
+3. Mục “Họ và tên chủ hộ nơi đi” và “quan hệ với chủ hộ”: Ghi họ, tên, mối quan hệ thực tế với chủ hộ nơi người đăng ký thường trú chuyển đi (nơi đề nghị cấp giấy chuyển hộ khẩu).
 
-**ID:** dk_00064242
+4. Mục “Những người trong hộ cùng chuyển hộ khẩu”: Ghi theo sổ đăng ký thường trú, sổ hộ khẩu các thông tin của người trong hộ cùng chuyển hộ khẩu.
 
----
+Trường hợp chuyển cả hộ thì cơ quan Công an nơi cấp giấy chuyển hộ khẩu phải ghi rõ chuyển đi cả hộ để thông báo cho cơ quan Công an nơi người đăng ký thường trú chuyển đến. Trước khi cấp sổ hộ khẩu mới, cơ quan Công an nơi người đăng ký thường trú chuyển đến thu lại sổ hộ khẩu cũ để lưu tại tàng thư hồ sơ hộ khẩu.
 
+Điều 39.3.TT.2.15. Cách ghi sổ hộ khẩu
 
-### Điều 39.3.TT.2.15. Cách ghi sổ hộ khẩu
+(Điều 15 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mặt trong của bìa trước
 
-**Chỉ mục:** 15
+a) Mục “Công an tỉnh/TP”: Ghi hoặc in tên tỉnh/thành phố trực thuộc Trung ương;
 
-**Mã phân cấp:** 3900300000000000550001480252090036000150
+b) Mục “Số”: Mỗi sổ hộ khẩu được cấp một số riêng gồm chín số tự nhiên, trong đó hai số đầu là mã số của tỉnh, thành phố trực thuộc Trung ương được quy định tại Phụ lục ban hành kèm theo Thông tư này. Trường hợp đổi, cấp lại sổ hộ khẩu thì số của sổ hộ khẩu đổi, cấp lại là số của sổ hộ khẩu đã cấp trước đó;
 
-**ID:** dk_00064243
+c) Mục “Hồ sơ hộ khẩu số” và mục “Sổ đăng ký thường trú số”: Ghi theo số hồ sơ hộ khẩu và số của sổ đăng ký thường trú lưu tại tàng thư hồ sơ hộ khẩu.
 
----
+2. Trang chủ hộ: Mục “Lý do xóa đăng ký thường trú” ghi rõ lý do xóa đăng ký thường trú theo quy định tại khoản 1 Điều 22 Luật Cư trú.
 
+3. Các trang nhân khẩu có quan hệ với chủ hộ: Ghi theo cách ghi của trang chủ hộ. Mục quan hệ với chủ hộ thì ghi rõ như: Ông, bà, cha, mẹ, vợ, chồng, con, anh, chị, em, cháu ruột. Trường hợp được chủ hộ đồng ý cho nhập vào sổ hộ khẩu thì ghi theo mối quan hệ thực tế.
 
-### Điều 39.3.TT.2.16. Cách ghi sổ tạm trú
+4. Các trang điều chỉnh thay đổi: Ghi rõ nội dung điều chỉnh như thay đổi chủ hộ; thay đổi họ, tên, chữ đệm; ngày, tháng, năm sinh; thay đổi địa giới hành chính. Cơ quan có thẩm quyền điều chỉnh thay đổi trong sổ hộ khẩu là cơ quan có thẩm quyền đăng ký thường trú.
+
+5. Cán bộ đăng ký phải ký, ghi rõ họ, tên tại các trang chủ hộ, từng trang nhân khẩu và điều chỉnh thay đổi (nếu có). Thủ trưởng cơ quan có thẩm quyền đăng ký thường trú phải ký, ghi rõ họ, tên và đóng dấu tại mặt trong của bìa trước, trang chủ hộ, từng trang nhân khẩu có trong sổ và trang điều chỉnh thay đổi (nếu có).
+
+6. Mỗi sổ hộ khẩu được dùng cho 01 hộ. Trường hợp số nhân khẩu trong hộ nhiều hơn số trang có mục “quan hệ với chủ hộ” thì ghi vào mặt trong trang bìa trước là “Quyển số 01” và được lập “Quyển số 02, Quyển số 03, v.v...” có số trùng với số của quyển số 01. Mặt trong trang bìa trước ghi rõ là “Quyển số 02, Quyển số 03, v.v...” và đóng dấu treo, trang chủ hộ ghi giống như quyển số 01, các trang còn lại ghi nhân khẩu tiếp theo.
+
+7. Trường hợp chuyển đến cả hộ, trước khi cấp sổ hộ khẩu mới, cơ quan đăng ký, quản lý cư trú nơi chuyển đến thu sổ hộ khẩu cũ và đóng dấu “Hủy” vào mặt trong của bìa trước tại mục ghi họ và tên chủ hộ và nơi thường trú, để lưu vào tàng thư. Trường hợp chuyển một người hoặc một số người trong hộ thì ghi rõ vào trang điều chỉnh thay đổi thông tin người chuyển đi, thời gian cấp giấy chuyển hộ khẩu, địa chỉ nơi đến.
+
+Điều 39.3.TT.2.16. Cách ghi sổ tạm trú
+
+(Điều 16 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Công an tỉnh/TP”: Ghi hoặc in tên tỉnh/thành phố trực thuộc Trung ương;
 
-**Chỉ mục:** 16
+2. Mục “Số”: Mỗi sổ tạm trú được cấp một số riêng gồm chín số tự nhiên, trong đó hai số đầu là mã số của tỉnh, thành phố trực thuộc Trung ương được quy định tại Phụ lục ban hành kèm theo Thông tư này. Trường hợp đổi, cấp lại sổ tạm trú thì số của sổ tạm trú đổi, cấp lại là số của sổ tạm trú đã cấp trước đó;
 
-**Mã phân cấp:** 3900300000000000550001580252090036000160
+3. Mục “Nơi tạm trú”: Ghi rõ địa chỉ nơi tạm trú hiện nay.
 
-**ID:** dk_00064244
+4. Mục “Tạm trú đến ngày”: Ghi rõ ngày, tháng, năm hết thời hạn tạm trú theo đề nghị của công dân.
 
----
+5. Mục “Đã tạm trú liên tục từ ngày... đến ngày...tại...”: Ghi rõ khoảng thời gian (từ ngày, tháng, năm đến ngày, tháng, năm) công dân đã tạm trú liên tục tại một chỗ ở hoặc nhiều chỗ ở khác nhau trong phạm vi tỉnh, thành phố trực thuộc Trung ương đang tạm trú.
 
+6. Mục “Sổ có giá trị đến ngày”: Ghi rõ ngày, tháng, năm sổ tạm trú hết thời hạn. Giá trị của sổ tạm trú là hai mươi bốn tháng, được tính từ ngày, tháng, năm cấp sổ tạm trú.
 
-### Điều 39.3.TT.2.17. Cách ghi sổ theo dõi giải quyết hộ khẩu
+7. Mục “Sổ đăng ký tạm trú số”: Ghi theo số của sổ đăng ký tạm trú.
+
+8. Mục “Lý do xóa đăng ký tạm trú”: Ghi rõ lý do xóa đăng ký tạm trú theo quy định tại Điều 19 Thông tư số 35/2014/TT-BCA ngày 09 tháng 9 năm 2014 của Bộ trưởng Bộ Công an quy định chi tiết thi hành một số điều của Luật Cư trú và Nghị định số 31/2014/NĐ-CP ngày 18 tháng 4 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú.
+
+9. Mục “Điều chỉnh thay đổi”: Ghi đầy đủ nội dung thay đổi các thông tin trong sổ tạm trú.
+
+10. Mục “Gia hạn tạm trú”: Ghi rõ ngày, tháng, năm hết thời hạn tạm trú theo đề nghị của công dân. Thời hạn tạm trú của mỗi lần gia hạn tạm trú theo đề nghị của công dân nhưng tối đa không quá thời hạn còn lại của sổ tạm trú.
+
+Điều 39.3.TT.2.17. Cách ghi sổ theo dõi giải quyết hộ khẩu
+
+(Điều 17 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Nội dung yêu cầu giải quyết”: Ghi tóm tắt, đầy đủ nội dung yêu cầu giải quyết.
 
-**Chỉ mục:** 17
+2. Mục “Hồ sơ kèm theo”: Ghi đầy đủ, chính xác các loại giấy tờ có trong hồ sơ đã tiếp nhận.
 
-**Mã phân cấp:** 3900300000000000550001680252090036000170
+3. Mục “Nhận hồ sơ”: Phải ghi đầy đủ họ và tên người nhận, ngày, tháng, năm nhận hồ sơ, ngày, tháng, năm hẹn trả hồ sơ. Nếu một ngày một người tiếp nhận nhiều hồ sơ thì tại cột 6, cột 7 chỉ cần ghi họ và tên người nhận, ngày, tháng, năm nhận hồ sơ ở dòng đầu tiên. Nếu một ngày có nhiều người tiếp nhận hồ sơ thì tại cột 7 chỉ cần ghi ngày, tháng, năm nhận hồ sơ ở dòng đầu tiên.
 
-**ID:** dk_00064245
+4. Mục “Trả kết quả”: Ghi ngày, tháng, năm và kết quả giải quyết (đăng ký thường trú; điều chỉnh những thay đổi; đổi, cấp lại sổ hộ khẩu; bổ sung thủ tục, kê khai lại hồ sơ, giấy tờ; không giải quyết đăng ký thường trú ...).
 
----
+Điều 39.3.TT.2.18. Cách ghi sổ đăng ký thường trú
 
-
-### Điều 39.3.TT.2.18. Cách ghi sổ đăng ký thường trú
+(Điều 18 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Phần “Mục lục”: Ghi đầy đủ các thông tin theo mẫu.
 
-**Chỉ mục:** 18
+2. Phần nội dung: Mỗi trang của sổ dùng để ghi thông tin về một hộ đã đăng ký thường trú. Dòng đầu tiên ghi chủ hộ, các dòng tiếp theo ghi lần lượt các nhân khẩu có trong hộ.
 
-**Mã phân cấp:** 3900300000000000550001780252090036000180
+a) Mục “Hồ sơ hộ khẩu số”: Ghi theo số hồ sơ hộ khẩu lưu tại tàng thư hồ sơ hộ khẩu;
 
-**ID:** dk_00064246
+b) Mục “Người có thẩm quyền đăng ký”: Chỉ huy Đội Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng Công an xã, thị trấn thuộc huyện thuộc tỉnh ký, ghi rõ họ, tên. Trường hợp đăng ký một lần cho nhiều người thì người có thẩm quyền chỉ cần ký, ghi rõ họ, tên ở hàng ghi nhân khẩu cuối cùng;
 
----
+c) Mục “Nội dung điều chỉnh, thay đổi'”: Ghi rõ nội dung như: thay đổi chủ hộ, thay đổi họ, tên, chữ đệm, ngày, tháng, năm sinh; thay đổi địa giới hành chính; xóa đăng ký thường trú (ngày, tháng, năm xóa đăng ký thường trú, nơi chuyển đến); cấp giấy chuyển hộ khẩu (ngày, tháng, năm cấp giấy chuyển hộ khẩu, nơi chuyển đến); đổi, cấp lại sổ hộ khẩu…;
 
+d) Mục “Tờ số”: Ghi theo số thứ tự tại mục lục.
 
-### Điều 39.3.TT.2.19. Cách ghi sổ đăng ký tạm trú
+Điều 39.3.TT.2.19. Cách ghi sổ đăng ký tạm trú
+
+(Điều 19 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Nơi tạm trú”: Ghi rõ số nhà, đường phố, tổ, thôn, xóm, làng, ấp, bản, buôn, phum, sóc.
 
-**Chỉ mục:** 19
+2. Mục “Người có thẩm quyền đăng ký”: Nếu đăng ký cho nhiều người một lần thì chỉ cần ghi rõ họ, tên cán bộ đăng ký ở hàng ghi nhân khẩu cuối cùng.
 
-**Mã phân cấp:** 3900300000000000550001880252090036000190
+3. Mục “Nội dung điều chỉnh, thay đổi”: Ghi nội dung điều chỉnh, thay đổi và ngày, tháng, năm điều chỉnh, thay đổi nội dung đó. Trường hợp gia hạn tạm trú thì ghi cụ thể thời gian gia hạn tạm trú.
 
-**ID:** dk_00064247
+Điều 39.3.TT.2.20. Cách ghi sổ tiếp nhận lưu trú
 
----
-
-
-### Điều 39.3.TT.2.20. Cách ghi sổ tiếp nhận lưu trú
+(Điều 20 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Mục “Lý do lưu trú”: Ghi rõ lý do như chữa bệnh, thăm thân, du lịch.
 
-**Chỉ mục:** 20
+2. Mục “Địa chỉ lưu trú”: Ghi rõ số nhà, đường phố, tổ, thôn, xóm, làng, ấp, bản, buôn, phum, sóc.
 
-**Mã phân cấp:** 3900300000000000550001980252090036000200
+3. Mục “Hình thức, thời gian thông báo”: Ghi rõ hình thức trực tiếp hoặc bằng điện thoại hoặc qua mạng Internet, mạng máy tính, thời gian, họ, tên người thông báo lưu trú, số điện thoại (nếu có).
 
-**ID:** dk_00064248
+4. Mục “Ghi chú”: Cán bộ tiếp nhận lưu trú ghi các trường hợp có nghi vấn, trường hợp cần thiết do yêu cầu bảo đảm an ninh, trật tự thì phải báo cáo ngay về Công an xã, phường, thị trấn.
 
----
+Điều 39.3.TT.2.21. Cách ghi túi hồ sơ hộ khẩu
 
-
-### Điều 39.3.TT.2.21. Cách ghi túi hồ sơ hộ khẩu
+(Điều 21 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 Mục “Nộp lưu ngày”: Ghi theo ngày, tháng, năm đưa hồ sơ hộ khẩu vào lưu tại tàng thư hồ sơ hộ khẩu.
 
-**Chỉ mục:** 21
+Điều 39.3.TT.2.22. Cách ghi thống kê tình hình, kết quả đăng ký, quản lý cư trú
 
-**Mã phân cấp:** 3900300000000000550002080252090036000210
-
-**ID:** dk_00064249
-
----
-
-
-### Điều 39.3.TT.2.22. Cách ghi thống kê tình hình, kết quả đăng ký, quản lý cư trú
+(Điều 22 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Phần hộ, nhân khẩu hiện đang cư trú (phần I)
 
-**Chỉ mục:** 22
+Mục “Nhân khẩu thành thị”: Thống kê số nhân khẩu hiện đang cư trú tại các quận, phường và thị trấn.
 
-**Mã phân cấp:** 3900300000000000550002180252090036000220
+2. Phần các loại hộ, nhân khẩu (phần II)
 
-**ID:** dk_00064250
+a) Mục “Đi ngoài tỉnh”: Thống kê số hộ, nhân khẩu đã đăng ký thường trú nhưng chuyển đi tỉnh, thành phố trực thuộc Trung ương khác;
 
----
+b) Mục “Đi ngoài huyện trong tỉnh”: Thống kê số hộ, nhân khẩu đã đăng ký thường trú nhưng chuyển đi huyện, quận, thị xã, thành phố khác trong cùng phạm vi tỉnh, thành phố trực thuộc Trung ương;
 
+c) Mục “Đi ngoài xã trong huyện”: Thống kê số hộ, nhân khẩu đã đăng ký thường trú nhưng chuyển đi phường, xã, thị trấn khác trong cùng phạm vi huyện, quận, thị xã, thành phố thuộc tỉnh;
 
-### Điều 39.3.LQ.40. Hiệu lực thi hành
+d) Mục “Ngoài tỉnh đến”: Thống kê số hộ, nhân khẩu từ tỉnh, thành phố trực thuộc Trung ương khác đến đăng ký tạm trú;
 
-Luật này có hiệu lực thi hành từ ngày 01 tháng 07 năm 2007.
+đ) Mục “Ngoài huyện trong tỉnh đến”: Thông kê số hộ, nhân khẩu từ huyện, quận, thị xã, thành phố khác trong cùng phạm vi tỉnh, thành phố trực thuộc Trung ương đến đăng ký tạm trú;
 
-**Chỉ mục:** 40
+e) Mục “Ngoài xã trong huyện đến”: Thống kê số hộ, nhân khẩu từ phường, xã, thị trấn khác trong cùng phạm vi huyện, quận, thị xã, thành phố thuộc tỉnh đến đăng ký tạm trú.
 
-**Mã phân cấp:** 3900300000000000600004000000000000000000
+3. Phần kết quả đăng ký, quản lý cư trú (phần III)
 
-**ID:** dk_00064252
+Mục “Ngoài tỉnh đến”: Thống kê số hộ, nhân khẩu từ tỉnh, thành phố trực thuộc Trung ương khác chuyển đến đăng ký thường trú.
 
----
+4. Phần công tác tàng thư hồ sơ hộ khẩu (Phần V)
 
+a) Mục “Nhận hồ sơ hộ khẩu đến”: Thống kê tổng số hồ sơ hộ khẩu do Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương; huyện, thị xã, thành phố thuộc tỉnh khác chuyển đến;
 
-### Điều 39.3.LQ.41. Rà soát văn bản quy phạm pháp luật liên quan đến quy định về hộ khẩu
+b) Mục “Chuyển hồ sơ hộ khẩu đi”: Thống kê tổng số hồ sơ hộ khẩu chuyển đi Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương; huyện, thị xã, thành phố thuộc tỉnh khác.
 
-Chính phủ chỉ đạo cơ quan, tổ chức hữu quan rà soát các văn bản quy phạm pháp luật liên quan đến quy định về hộ khẩu để tự mình hoặc kiến nghị, chỉ đạo cơ quan có thẩm quyền sửa đổi hoặc bãi bỏ những quy định lạm dụng hộ khẩu để hạn chế quyền, lợi ích hợp pháp của công dân.
+5. Cách tính tổng số hộ, nhân khẩu hiện đang cư trú được thực hiện như sau:
 
-**Chỉ mục:** 41
+- Tổng số hộ hiện đang cư trú gọi là X; tổng số nhân khẩu hiện đang cư trú gọi là Y. Cách tính tổng số nhân khẩu nữ; nhân khẩu từ 14 tuổi trở lên hiện đang cư trú thực hiện như cách tính tổng số nhân khẩu hiện đang cư trú (Y) dưới đây.
 
-**Mã phân cấp:** 3900300000000000600004100000000000000000
+a) Đối với cơ quan Công an cấp tỉnh
 
-**ID:** dk_00064253
+- X = Tổng số hộ đăng ký thường trú - Tổng số hộ không cư trú tại nơi đã đăng ký thường trú đi ngoài tỉnh + Tổng số hộ đăng ký tạm trú ngoài tỉnh đến.
 
----
+- Y = Tổng số nhân khẩu đăng ký thường trú - Tổng số nhân khẩu không cư trú tại nơi đã đăng ký thường trú đi ngoài tỉnh + Tổng số nhân khẩu đăng ký tạm trú ngoài tỉnh đến.
 
+b) Đối với cơ quan Công an cấp huyện
 
-### Điều 39.3.LQ.42. Quy định chi tiết và hướng dẫn thi hành
+- X = Tổng số hộ đăng ký thường trú - (Tổng số hộ không cư trú tại nơi đã đăng ký thường trú đi ngoài tỉnh + Tổng số hộ không cư trú tại nơi đã đăng ký thường trú đi ngoài huyện trong tỉnh) + (Tổng số hộ đăng ký tạm trú ngoài tỉnh đến + Tổng số hộ đăng ký tạm trú ngoài huyện trong tỉnh đến).
+
+- Y = Tổng số nhân khẩu đăng ký thường trú - (Tổng số nhân khẩu không cư trú tại nơi đã đăng ký thường trú đi ngoài tỉnh + Tổng số nhân khẩu không cư trú tại nơi đã đăng ký thường trú đi ngoài huyện trong tỉnh) + (Tổng số nhân khẩu đăng ký tạm trú ngoài tỉnh đến + Tổng số nhân khẩu đăng ký tạm trú ngoài huyện trong tỉnh đến).
+
+c) Đối với Công an cấp xã
+
+- X = Tổng số hộ đăng ký thường trú - (Tổng số hộ không cư trú tại nơi đã đăng ký thường trú đi ngoài tỉnh + Tổng số hộ không cư trú tại nơi đã đăng ký thường trú đi ngoài huyện trong tỉnh + Tổng số hộ không cư trú tại nơi đã đăng ký thường trú đi ngoài xã trong huyện) + (Tổng số hộ đăng ký tạm trú ngoài tỉnh đến + Tổng số hộ đăng ký tạm trú ngoài huyện trong tỉnh đến + Tổng số hộ đăng ký tạm trú ngoài xã trong huyện đến).
+
+- Y = Tổng số nhân khẩu đăng ký thường trú - (Tổng số nhân khẩu không cư trú tại nơi đã đăng ký thường trú đi ngoài tỉnh + Tổng số nhân khẩu không cư trú tại nơi đã đăng ký thường trú đi ngoài huyện trong tỉnh + Tổng số nhân khẩu không cư trú tại nơi đã đăng ký thường trú đi ngoài xã trong huyện) + (Tổng số nhân khẩu đăng ký tạm trú ngoài tỉnh đến + Tổng số nhân khẩu đăng ký tạm trú ngoài huyện trong tỉnh đến + Tổng số nhân khẩu đăng ký tạm trú ngoài xã trong huyện đến).
+
+4. Khi thống kê phải ghi chính xác, đầy đủ các chỉ tiêu thông tin, thời điểm báo cáo, cán bộ thống kê ký, ghi rõ họ, tên; thủ trưởng đơn vị thống kê ký, ghi rõ họ, tên, đóng dấu.
+
+Chương VII
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 39.3.LQ.40. Hiệu lực thi hành
+
+(Điều 40 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
+
+ Luật này có hiệu lực thi hành từ ngày 01 tháng 07 năm 2007.Điều 39.3.LQ.41. Rà soát văn bản quy phạm pháp luật liên quan đến quy định về hộ khẩu
+
+(Điều 41 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
+
+ Chính phủ chỉ đạo cơ quan, tổ chức hữu quan rà soát các văn bản quy phạm pháp luật liên quan đến quy định về hộ khẩu để tự mình hoặc kiến nghị, chỉ đạo cơ quan có thẩm quyền sửa đổi hoặc bãi bỏ những quy định lạm dụng hộ khẩu để hạn chế quyền, lợi ích hợp pháp của công dân.Điều 39.3.LQ.42. Quy định chi tiết và hướng dẫn thi hành
+
+(Điều 42 Luật số 81/2006/QH11, có hiệu lực thi hành kể từ ngày 01/07/2007)
 
 Chính phủ quy định chi tiết và hướng dẫn thi hành khoản 2 Điều 5, khoản 2 Điều 8, Điều 12, khoản 1 Điều 20 của Luật này.
 
-**Chỉ mục:** 42
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân; Điều 39.3.LQ.20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 39.3.NĐ.1.5. Nơi cư trú của công dân; Điều 39.3.NĐ.1.8. Điều kiện công dân tạm trú được đăng ký thường trú tại thành phố trực thuộc trung ương của Nghị định 31/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú ban hành ngày 18/04/2014)
 
-**Mã phân cấp:** 3900300000000000600004200000000000000000
+Điều 39.3.LQ.43.
 
-**ID:** dk_00064254
-
----
-
-
-### Điều 39.3.LQ.43.
+(Điều 2 Luật số 36/2013/QH13 Sửa đổi, bổ sung một số điều của Luật Cư trú ngày 20/06/2013 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
 Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014.
 
-**Chỉ mục:** 2
+Điều 39.3.NĐ.1.9. Hiệu lực thi hành
 
-**Mã phân cấp:** 3900300000000000600004210223680081000430
-
-**ID:** dk_00064255
-
----
-
-
-### Điều 39.3.NĐ.1.9. Hiệu lực thi hành
+(Điều 9 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
 1. Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 6 năm 2014.
 
-**Chỉ mục:** 9
+2. Nghị định này thay thế các Nghị định sau đây:
 
-**Mã phân cấp:** 3900300000000000600004240250650031000090
+a) Nghị định số 107/2007/NĐ-CP ngày 25 tháng 6 năm 2007 quy định chi tiết và hướng dẫn thi hành một số điều của Luật Cư trú;
 
-**ID:** dk_00064256
+b) Nghị định số 56/2010/NĐ-CP ngày 24 tháng 5 năm 2010 sửa đổi, bổ sung một số điều của Nghị định số 107/2007/NĐ-CP ngày 25 tháng 6 năm 2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Cư trú.
 
----
+Điều 39.3.NĐ.1.10. Trách nhiệm thi hành
 
-
-### Điều 39.3.NĐ.1.10. Trách nhiệm thi hành
+(Điều 10 Nghị định số 31/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/06/2014)
 
 1. Bộ trưởng Bộ Công an có trách nhiệm đôn đốc, kiểm tra, hướng dẫn thi hành Nghị định này.
 
-**Chỉ mục:** 10
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**Mã phân cấp:** 3900300000000000600004240250650031000100
+Điều 39.3.TT.1.27. Hiệu lực thi hành
 
-**ID:** dk_00064257
-
----
-
-
-### Điều 39.3.TT.1.27. Hiệu lực thi hành
+(Điều 27 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 10 năm 2014 và thay thế Thông tư số 52/2010/TT-BCA ngày 30 tháng 11 năm 2010 của Bộ trưởng Bộ Công an quy định chi tiết một số điều của Luật Cư trú, Nghị định số 107/2007/NĐ-CP ngày 25 tháng 6 năm 2007 và Nghị định số 56/2010/NĐ-CP ngày 24 tháng 5 năm 2010 về cư trú.
 
-**Chỉ mục:** 27
+Điều 39.3.TT.1.28. Trách nhiệm thi hành
 
-**Mã phân cấp:** 3900300000000000600004280252090035000270
-
-**ID:** dk_00064258
-
----
-
-
-### Điều 39.3.TT.1.28. Trách nhiệm thi hành
+(Điều 28 Thông tư số 35/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Các cơ quan, tổ chức trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình chỉ đạo triển khai thực hiện Thông tư này.
 
-**Chỉ mục:** 28
+2. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình chỉ đạo triển khai thực hiện Thông tư này tại địa phương; chỉ đạo Ủy ban nhân dân xã, phường, thị trấn công khai thực hiện việc xác nhận về chỗ ở hợp pháp theo quy định tại Điều 6 Nghị định số 31/2014/NĐ-CP và hướng dẫn tại Thông tư này để tạo thuận lợi cho công dân đăng ký cư trú.
 
-**Mã phân cấp:** 3900300000000000600004280252090035000280
+3. Cục trưởng Cục Cảnh sát đăng ký, quản lý cư trú và dữ liệu quốc gia về dân cư có trách nhiệm:
 
-**ID:** dk_00064259
+a) Giúp Bộ trưởng Bộ Công an chỉ đạo, hướng dẫn, kiểm tra, đôn đốc Công an các đơn vị, địa phương thực hiện các quy định về đăng ký và quản lý cư trú;
 
----
+b) Có kế hoạch tuyên truyền và tổ chức triển khai, thực hiện Luật Cư trú, Thông tư này và các văn bản pháp luật có liên quan tới các cấp Công an;
 
+c) Hướng dẫn sử dụng biểu mẫu, giấy tờ, sổ sách về đăng ký, quản lý cư trú theo quy định của Bộ Công an thống nhất trong cả nước;
 
-### Điều 39.3.TT.2.23. Hiệu lực thi hành
+d) Tổ chức sơ kết, tổng kết, rút kinh nghiệm công tác đăng ký, quản lý cư trú trên toàn quốc; ứng dụng công nghệ tiên tiến vào công tác đăng ký, quản lý cư trú và xây dựng cơ sở dữ liệu về cư trú;
+
+đ) Báo cáo tình hình, đề xuất lên Bộ trưởng Bộ Công an biện pháp giải quyết những vướng mắc, những vi phạm trong tổ chức thực hiện và những vấn đề mới phát sinh trong quá trình thực hiện công tác đăng ký, quản lý cư trú;
+
+e) Tổng hợp số liệu, tình hình về cư trú trên toàn quốc;
+
+g) Đình chỉ, bãi bỏ theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền đình chỉ, bãi bỏ những quy định của Công an địa phương, cơ quan, tổ chức, Ủy ban nhân dân các cấp trái với Thông tư này.
+
+4. Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương có trách nhiệm tổ chức thực hiện Thông tư này; củng cố trụ sở tiếp dân, công khai hóa các quy định về đăng ký, quản lý cư trú; rà soát, sắp xếp cán bộ làm công tác đăng ký, quản lý cư trú; hướng dẫn, kiểm tra các lực lượng nghiệp vụ và Công an các cấp triển khai, tổ chức thực hiện đúng quy định.
+
+5. Các Tổng cục trưởng, thủ trưởng đơn vị trực thuộc Bộ Công an, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, Giám đốc Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc Trung ương có trách nhiệm thi hành Thông tư này.
+
+Trong quá trình thực hiện Thông tư này, nếu có vướng mắc nảy sinh, Công an các đơn vị, địa phương báo cáo về Bộ Công an (qua Cục Cảnh sát đăng ký, quản lý cư trú và dữ liệu quốc gia về dân cư) để có hướng dẫn kịp thời.
+
+Điều 39.3.TT.2.23. Hiệu lực thi hành
+
+(Điều 23 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 10 năm 2014 và thay thế Thông tư số 81/2011/TT-BCA ngày 15 tháng 12 năm 2011 của Bộ trưởng Bộ Công an quy định về biểu mẫu được sử dụng trong đăng ký, quản lý cư trú.
 
-**Chỉ mục:** 23
+2. Các biểu mẫu quy định tại Thông tư số 81/2011/TT-BCA ngày 15 tháng 12 năm 2011 của Bộ trưởng Bộ Công an quy định về biểu mẫu được sử dụng trong đăng ký, quản lý cư trú đã in thì tiếp tục được sử dụng cho đến hết.
 
-**Mã phân cấp:** 3900300000000000600004280252090036000230
+Điều 39.3.TT.2.24. Trách nhiệm thi hành
 
-**ID:** dk_00064260
-
----
-
-
-### Điều 39.3.TT.2.24. Trách nhiệm thi hành
+(Điều 24 Thông tư số 36/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 28/10/2014)
 
 1. Cục trưởng Cục Cảnh sát đăng ký, quản lý cư trú và dữ liệu quốc gia về dân cư có trách nhiệm chỉ đạo, kiểm tra, hướng dẫn việc thực hiện Thông tư này.
 
-**Chỉ mục:** 24
+2. Các Tổng cục trưởng, thủ trưởng đơn vị trực thuộc Bộ Công an, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, Giám đốc Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc Trung ương có trách nhiệm thi hành Thông tư này.
 
-**Mã phân cấp:** 3900300000000000600004280252090036000240
+Trong quá trình thực hiện Thông tư này, nếu có vướng mắc nảy sinh, Công an các đơn vị, địa phương báo cáo về Bộ Công an (qua Cục Cảnh sát đăng ký, quản lý cư trú và dữ liệu quốc gia về dân cư) để có hướng dẫn kịp thời.
 
-**ID:** dk_00064261
+## Danh sách điều khoản
 
----
+### 39003000000000001000
 
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội](/trat-tu-an-toan-xa-hoi/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 3900300000000000100000100000000000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 112
-- **Điều khoản thực tế:** 105
-- **Điều khoản có nội dung:** 105 (100.0%)
-- **ID đề mục:** 6a501e4aba3f40e2902faf4a52b14bb4
+Điều 39.3.LQ.1. Phạm vi điều chỉnh Luật này quy định về quyền tự do cư trú của công dân trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam; trình tự, thủ tục đăng ký, quản lý cư trú; quyền, trách nhiệm của công dân, hộ gia đình, cơ quan, tổ chức về đăng ký, quản lý cư trú.
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 3900300000000000100000200000000000000000
 
----
+Điều 39.3.LQ.2. Đối tượng áp dụng Luật này áp dụng đối với cơ quan, tổ chức, hộ gia đình, công dân Việt Nam, người Việt Nam định cư ở nước ngoài vẫn còn quốc tịch Việt Nam trở về Việt Nam sinh sống.
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 3900300000000000100000240250650031000010
+
+Điều 39.3.NĐ.1.1. Phạm vi điều chỉnh Nghị định này quy định chi tiết thi hành một số điều của Luật Cư trú về trách nhiệm của cơ quan, tổ chức, cá nhân trong phát hiện, ngăn ngừa việc lạm dụng quy định về hộ khẩu làm hạn chế quyền, lợi ích hợp pháp của công dân; nơi cư trú của công dân; giấy tờ, tài liệu chứng minh chỗ ở hợp pháp; thời hạn đăng ký thường trú, điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương.
+
+### 3900300000000000100000240250650031000020
+
+Điều 39.3.NĐ.1.2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức, hộ gia đình, công dân Việt Nam, người Việt Nam định cư ở nước ngoài vẫn còn quốc tịch Việt Nam trở về Việt Nam sinh sống.
+
+### 3900300000000000100000280252090035000010
+
+Điều 39.3.TT.1.1. Phạm vi điều chỉnh Thông tư này quy định chi tiết và hướng dẫn thi hành về nơi cư trú của công dân; đăng ký thường trú; đăng ký tạm trú; thông báo lưu trú; khai báo tạm vắng và trách nhiệm quản lý cư trú.
+
+### 3900300000000000100000280252090035000020
+
+Điều 39.3.TT.1.2. Đối tượng áp dụng Thông tư này áp dụng đối với:
+
+### 3900300000000000100000280252090036000010
+
+Điều 39.3.TT.2.1. Phạm vi điều chỉnh Thông tư này quy định cụ thể về biểu mẫu, quy cách, cách ghi và quản lý biểu mẫu sử dụng trong đăng ký, quản lý cư trú.
+
+### 3900300000000000100000280252090036000020
+
+Điều 39.3.TT.2.2. Đối tượng áp dụng Thông tư này áp dụng đối với:
+
+### 3900300000000000100000300000000000000000
+
+Điều 39.3.LQ.3. Quyền tự do cư trú của công dân Công dân có quyền tự do cư trú theo quy định của Luật này và các quy định khác của pháp luật có liên quan. Công dân có đủ điều kiện đăng ký thường trú, tạm trú thì có quyền yêu cầu cơ quan nhà nước có thẩm quyền đăng ký thường trú, tạm trú.
+
+### 3900300000000000100000400000000000000000
+
+Điều 39.3.LQ.4. Nguyên tắc cư trú và quản lý cư trú 1. Tuân thủ Hiến pháp và pháp luật.
+
+### 3900300000000000100000500000000000000000
+
+Điều 39.3.LQ.5. Bảo đảm điều kiện thực hiện quyền tự do cư trú và hoạt động quản lý cư trú 1. Nhà nước bảo đảm quyền tự do cư trú của công dân. Cơ quan, tổ chức, cá nhân xâm phạm quyền tự do cư trú của công dân phải bị xử lý nghiêm minh.
+
+### 3900300000000000100000600000000000000000
+
+Điều 39.3.LQ.6. Trách nhiệm quản lý nhà nước về cư trú 1. Chính phủ thống nhất quản lý nhà nước về cư trú trong phạm vi cả nước.
+
+### 3900300000000000100000700000000000000000
+
+Điều 39.3.LQ.7. Hợp tác quốc tế trong quản lý cư trú Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện hợp tác quốc tế về quản lý cư trú phù hợp với pháp luật Việt Nam và pháp luật quốc tế; thực hiện điều ước quốc tế liên quan đến quản lý cư trú mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
+
+### 3900300000000000100000800000000000000000
+
+Điều 39.3.LQ.8. Các hành vi bị nghiêm cấm 1. Cản trở công dân thực hiện quyền tự do cư trú.
+
+### 390030000000000010000080000000000000000000402506500310000300
+
+Điều 39.3.NĐ.1.3. Nghiêm cấm các hành vi lạm dụng quy định về hộ khẩu làm hạn chế quyền, lợi ích hợp pháp của công dân 1. Quy định về hộ khẩu theo Luật Cư trú gồm các nội dung sau đây:
+
+### 39003000000000002000
+
+Chương II QUYỀN, TRÁCH NHIỆM CỦA CÔNG DÂN VỀ CƯ TRÚ
+
+### 3900300000000000200000900000000000000000
+
+Điều 39.3.LQ.9. Quyền của công dân về cư trú 1. Lựa chọn, quyết định nơi thường trú, tạm trú của mình phù hợp với quy định của Luật này và các quy định khác của pháp luật có liên quan.
+
+### 3900300000000000200001000000000000000000
+
+Điều 39.3.LQ.10. Các trường hợp bị hạn chế quyền tự do cư trú 1. Người bị cơ quan tiến hành tố tụng có thẩm quyền áp dụng biện pháp cấm đi khỏi nơi cư trú.
+
+### 3900300000000000200001100000000000000000
+
+Điều 39.3.LQ.11. Trách nhiệm của công dân về cư trú 1. Chấp hành các quy định của pháp luật về cư trú.
+
+### 3900300000000000200001200000000000000000
+
+Điều 39.3.LQ.12. Nơi cư trú của công dân 1. Nơi cư trú của công dân là chỗ ở hợp pháp mà người đó thường xuyên sinh sống. Nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú.
+
+### 390030000000000020000120000000000000000000402506500310000500
+
+Điều 39.3.NĐ.1.5. Nơi cư trú của công dân 1. Nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú. Mỗi công dân chỉ được đăng ký thường trú tại một chỗ ở hợp pháp và là nơi thường xuyên sinh sống.
+
+### 39003000000000002000012000000000000000000040250650031000050000802520900350001500
+
+Điều 39.3.TT.1.15. Chỗ ở không được chuyển đến đăng ký thường trú 1. Chỗ ở không được chuyển đến đăng ký thường trú được quy định tại khoản 4 Điều 5 Nghị định số 31/2014/NĐ-CP.
+
+### 390030000000000020000120000000000000000000402506500310000600
+
+Điều 39.3.NĐ.1.6. Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp 1. Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp để đăng ký thường trú là một trong các giấy tờ, tài liệu sau đây:
+
+### 3900300000000000200001300000000000000000
+
+Điều 39.3.LQ.13. Nơi cư trú của người chưa thành niên 1. Nơi cư trú của người chưa thành niên là nơi cư trú của cha, mẹ; nếu cha, mẹ có nơi cư trú khác nhau thì nơi cư trú của người chưa thành niên là nơi cư trú của cha hoặc mẹ mà người chưa thành niên thường xuyên chung sống.
+
+### 3900300000000000200001400000000000000000
+
+Điều 39.3.LQ.14. Nơi cư trú của người được giám hộ 1. Nơi cư trú của người được giám hộ là nơi cư trú của người giám hộ.
+
+### 3900300000000000200001500000000000000000
+
+Điều 39.3.LQ.15. Nơi cư trú của vợ, chồng 1. Nơi cư trú của vợ, chồng là nơi vợ, chồng thường xuyên chung sống.
+
+### 3900300000000000200001600000000000000000
+
+Điều 39.3.LQ.16. Nơi cư trú của cán bộ, chiến sĩ Quân đội nhân dân và Công an nhân dân 1. Nơi cư trú của người đang làm nghĩa vụ quân sự hoặc đang phục vụ có thời hạn trong Công an nhân dân là nơi đơn vị của người đó đóng quân.
+
+### 390030000000000020000160000000000000000000802520900350000300
+
+Điều 39.3.TT.1.3. Nơi cư trú của cán bộ, chiến sĩ Quân đội nhân dân và Công an nhân dân 1. Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân quốc phòng; sĩ quan, hạ sĩ quan nghiệp vụ, sĩ quan, hạ sĩ quan chuyên môn kỹ thuật, công nhân, viên chức Công an nhân dân ở ngoài doanh trại của Quân đội nhân dân, Công an nhân dân thì thực hiện đăng ký cư trú theo quy định của Luật Cư trú và hướng dẫn tại Thông tư này.
+
+### 3900300000000000200001700000000000000000
+
+Điều 39.3.LQ.17. Nơi cư trú của người làm nghề lưu động Nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 Điều 12 của Luật này.
+
+### 39003000000000003000
+
+Chương III ĐĂNG KÝ THƯỜNG TRÚ
+
+### 3900300000000000300001800000000000000000
+
+Điều 39.3.LQ.18. Đăng ký thường trú Đăng ký thường trú là việc công dân đăng ký nơi thường trú của mình với cơ quan nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký thường trú, cấp sổ hộ khẩu cho họ.
+
+### 390030000000000030000180000000000000000000402506500310000700
+
+Điều 39.3.NĐ.1.7. Thời hạn đăng ký thường trú 1. Trong thời hạn 12 tháng, kể từ ngày chuyển đến chỗ ở hợp pháp mới và có đủ điều kiện đăng ký thường trú thì người thay đổi chỗ ở hợp pháp hoặc đại diện hộ gia đình có trách nhiệm làm thủ tục đăng ký thường trú tại chỗ ở mới.
+
+### 390030000000000030000180000000000000000000802520900350000900
+
+Điều 39.3.TT.1.9. Thẩm quyền đăng ký thường trú 1. Công an quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương có thẩm quyền đăng ký thường trú tại quận, huyện, thị xã thuộc thành phố trực thuộc Trung ương.
+
+### 390030000000000030000180000000000000000000802520900350001300
+
+Điều 39.3.TT.1.13. Xác nhận về việc trước đây công dân đã đăng ký thường trú 1. Thẩm quyền xác nhận: Cơ quan có thẩm quyền đăng ký thường trú thì có thẩm quyền xác nhận việc công dân trước đây đã có hộ khẩu thường trú.
+
+### 3900300000000000300001900000000000000000
+
+Điều 39.3.LQ.19. Điều kiện đăng ký thường trú tại tỉnh Công dân có chỗ ở hợp pháp ở tỉnh nào thì được đăng ký thường trú tại tỉnh đó. Trường hợp chỗ ở hợp pháp do thuê, mượn, ở nhờ của cá nhân thì phải được người cho thuê, cho mượn, cho ở nhờ đồng ý bằng văn bản.
+
+### 3900300000000000300002000000000000000000
+
+Điều 39.3.LQ.20. Điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương Công dân thuộc một trong những trường hợp sau đây thì được đăng ký thường trú tại thành phố trực thuộc trung ương:
+
+### 390030000000000030000200000000000000000000402506500310000800
+
+Điều 39.3.NĐ.1.8. Điều kiện công dân tạm trú được đăng ký thường trú tại thành phố trực thuộc trung ương 1. Công dân đang tạm trú nếu có đủ các điều kiện dưới đây thì được đăng ký thường trú tại thành phố trực thuộc trung ương:
+
+### 390030000000000030000200000000000000000000802520900350000700
+
+Điều 39.3.TT.1.7. Giấy tờ, tài liệu chứng minh thuộc một trong các điều kiện đăng ký thường trú tại thành phố trực thuộc Trung ương Ngoài các giấy tờ, tài liệu có trong hồ sơ đăng ký thường trú quy định tại Điều 6 Thông tư này, các trường hợp chuyển đến đăng ký thường trú tại thành phố trực thuộc Trung ương phải có thêm một trong giấy tờ, tài liệu sau:
+
+### 3900300000000000300002100000000000000000
+
+Điều 39.3.LQ.21. Thủ tục đăng ký thường trú 1. Người đăng ký thường trú nộp hồ sơ đăng ký thường trú tại cơ quan công an sau đây:
+
+### 390030000000000030000210000000000000000000802520900350000600
+
+Điều 39.3.TT.1.6. Hồ sơ đăng ký thường trú 1. Hồ sơ đăng ký thường trú, bao gồm:
+
+### 3900300000000000300002200000000000000000
+
+Điều 39.3.LQ.22. Xoá đăng ký thường trú 1. Người thuộc một trong các trường hợp sau đây thì bị xoá đăng ký thường trú:
+
+### 390030000000000030000220000000000000000000802520900350001100
+
+Điều 39.3.TT.1.11. Xóa đăng ký thường trú 1. Xóa đăng ký thường trú là việc cơ quan có thẩm quyền đăng ký thường trú xóa tên người đã đăng ký thường trú trong sổ hộ khẩu và sổ đăng ký thường trú.
+
+### 3900300000000000300002300000000000000000
+
+Điều 39.3.LQ.23. Thay đổi nơi đăng ký thường trú trong trường hợp chuyển chỗ ở hợp pháp 1. Người đã đăng ký thường trú mà thay đổi chỗ ở hợp pháp, khi chuyển đến chỗ ở hợp pháp mới nếu có đủ điều kiện đăng ký thường trú thì trong thời hạn mười hai tháng có trách nhiệm làm thủ tục thay đổi nơi đăng ký thường trú.
+
+### 390030000000000030000230000000000000000000802520900350000400
+
+Điều 39.3.TT.1.4. Các trường hợp tạm thời chưa được giải quyết thủ tục thay đổi nơi cư trú 1. Người dưới đây, trong thời gian bị hạn chế quyền tự do cư trú thì tạm thời chưa được giải quyết thủ tục thay đổi nơi cư trú (trừ trường hợp có sự đồng ý cho thay đổi nơi cư trú bằng văn bản của cơ quan đã áp dụng biện pháp đó):
+
+### 3900300000000000300002400000000000000000
+
+Điều 39.3.LQ.24. Sổ hộ khẩu 1. Sổ hộ khẩu được cấp cho hộ gia đình hoặc cá nhân đã đăng ký thường trú và có giá trị xác định nơi thường trú của công dân.
+
+### 390030000000000030000240000000000000000000802520900350001000
+
+Điều 39.3.TT.1.10. Cấp sổ hộ khẩu 1. Sổ hộ khẩu được cấp cho cá nhân hoặc hộ gia đình đã đăng ký thường trú theo quy định tại Điều 24, Điều 25 và Điều 26 Luật Cư trú. Sổ hộ khẩu có giá trị xác định nơi thường trú của công dân.
+
+### 3900300000000000300002500000000000000000
+
+Điều 39.3.LQ.25. Sổ hộ khẩu cấp cho hộ gia đình 1. Sổ hộ khẩu được cấp cho từng hộ gia đình. Mỗi hộ gia đình cử một người có năng lực hành vi dân sự đầy đủ làm chủ hộ để thực hiện và hướng dẫn các thành viên trong hộ thực hiện quy định về đăng ký, quản lý cư trú. Trường hợp không có người từ đủ mười tám tuổi trở lên hoặc có người từ đủ 18 tuổi trở lên nhưng bị mất hoặc hạn chế năng lực hành vi dân sự thì được cử một người trong hộ làm chủ hộ.
+
+### 3900300000000000300002600000000000000000
+
+Điều 39.3.LQ.26. Sổ hộ khẩu cấp cho cá nhân 1. Sổ hộ khẩu được cấp cho cá nhân thuộc một trong những trường hợp sau đây:
+
+### 3900300000000000300002700000000000000000
+
+Điều 39.3.LQ.27. Tách sổ hộ khẩu 1. Trường hợp có cùng một chỗ ở hợp pháp được tách sổ hộ khẩu bao gồm:
+
+### 3900300000000000300002800000000000000000
+
+Điều 39.3.LQ.28. Giấy chuyển hộ khẩu 1. Công dân khi chuyển nơi thường trú thì được cấp giấy chuyển hộ khẩu.
+
+### 390030000000000030000280000000000000000000802520900350000800
+
+Điều 39.3.TT.1.8. Giấy chuyển hộ khẩu 1. Thẩm quyền cấp giấy chuyển hộ khẩu
+
+### 3900300000000000300002900000000000000000
+
+Điều 39.3.LQ.29. Điều chỉnh những thay đổi trong sổ hộ khẩu 1. Trường hợp có thay đổi chủ hộ thì hộ gia đình phải làm thủ tục thay đổi chủ hộ. Người đến làm thủ tục phải xuất trình sổ hộ khẩu; phiếu báo thay đổi hộ khẩu, nhân khẩu; ý kiến của chủ hộ hoặc người khác trong gia đình về việc thay đổi chủ hộ.
+
+### 390030000000000030000290000000000000000000802520900350001200
+
+Điều 39.3.TT.1.12. Điều chỉnh những thay đổi trong sổ hộ khẩu 1. Đối tượng, hồ sơ điều chỉnh những thay đổi trong sổ hộ khẩu thực hiện theo Điều 29 Luật Cư trú.
+
+### 39003000000000004000
+
+Chương IV ĐĂNG KÝ TẠM TRÚ, THÔNG BÁO LƯU TRÚ, KHAI BÁO TẠM VẮNG
+
+### 3900300000000000400003000000000000000000
+
+Điều 39.3.LQ.30. Đăng ký tạm trú 1. Đăng ký tạm trú là việc công dân đăng ký nơi tạm trú của mình với cơ quan nhà nước có thẩm quyền và được cơ quan này làm thủ tục đăng ký tạm trú, cấp sổ tạm trú cho họ.
+
+### 390030000000000040000300000000000000000000802520900350001600
+
+Điều 39.3.TT.1.16. Thủ tục đăng ký tạm trú 1. Hồ sơ đăng ký tạm trú bao gồm:
+
+### 390030000000000040000300000000000000000000802520900350001700
+
+Điều 39.3.TT.1.17. Cấp sổ tạm trú 1. Sổ tạm trú được cấp cho hộ gia đình hoặc cá nhân đã đăng ký tạm trú theo quy định tại Điều 30 Luật Cư trú và quy định tại Thông tư này, có giá trị xác định nơi tạm trú của công dân và có thời hạn tối đa là hai mươi bốn tháng.
+
+### 390030000000000040000300000000000000000000802520900350001800
+
+Điều 39.3.TT.1.18. Điều chỉnh những thay đổi trong sổ tạm trú 1. Đối tượng, hồ sơ điều chỉnh những thay đổi trong sổ tạm trú thực hiện theo Điều 29 Luật Cư trú.
+
+### 390030000000000040000300000000000000000000802520900350001900
+
+Điều 39.3.TT.1.19. Xóa tên trong sổ đăng ký tạm trú Công an xã, phường, thị trấn nơi có người đăng ký tạm trú phải xóa tên của họ trong sổ đăng ký tạm trú trong các trường hợp sau:
+
+### 3900300000000000400003100000000000000000
+
+Điều 39.3.LQ.31. Lưu trú và thông báo lưu trú 1. Lưu trú là việc công dân ở lại trong một thời gian nhất định tại địa điểm thuộc xã, phường, thị trấn ngoài nơi cư trú của mình và không thuộc trường hợp phải đăng ký tạm trú.
+
+### 390030000000000040000310000000000000000000802520900350002100
+
+Điều 39.3.TT.1.21. Lưu trú và thông báo lưu trú 1. Lưu trú là việc công dân ở lại trong một thời gian nhất định tại địa điểm thuộc xã, phường, thị trấn ngoài nơi cư trú của mình và không thuộc trường hợp phải đăng ký tạm trú.
+
+### 3900300000000000400003200000000000000000
+
+Điều 39.3.LQ.32. Khai báo tạm vắng 1. Bị can, bị cáo đang tại ngoại; người bị kết án phạt tù nhưng chưa có quyết định thi hành án hoặc được hoãn, tạm đình chỉ chấp hành hình phạt tù; người bị kết án phạt tù được hưởng án treo; người bị phạt cải tạo không giam giữ; người đang bị quản chế; người đang chấp hành biện pháp giáo dục tại xã, phường, thị trấn; người bị áp dụng biện pháp đưa vào cơ sở giáo dục, cơ sở chữa bệnh, trường giáo dưỡng nhưng đang được hoãn chấp hành hoặc tạm đình chỉ thi hành khi đi khỏi nơi cư trú từ một ngày trở lên có trách nhiệm khai báo tạm vắng.
+
+### 390030000000000040000320000000000000000000802520900350002200
+
+Điều 39.3.TT.1.22. Khai báo tạm vắng 1. Đối tượng, thủ tục khai báo tạm vắng thực hiện theo quy định tại Điều 32 Luật Cư trú và hướng dẫn tại Thông tư này.
+
+### 39003000000000005000
+
+Chương V TRÁCH NHIỆM QUẢN LÝ CƯ TRÚ
+
+### 3900300000000000500003300000000000000000
+
+Điều 39.3.LQ.33. Trách nhiệm của Bộ Công an về quản lý cư trú 1. Xây dựng và trình Chính phủ ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về cư trú.
+
+### 390030000000000050000330000000000000000000802520900350002300
+
+Điều 39.3.TT.1.23. Trách nhiệm của Công an tỉnh, thành phố trực thuộc Trung ương về quản lý cư trú 1. Chịu trách nhiệm trước Bộ Công an và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương về việc chỉ đạo, hướng dẫn, kiểm tra và tổ chức thực hiện các quy định về quản lý cư trú tại địa phương mình.
+
+### 390030000000000050000330000000000000000000802520900350002400
+
+Điều 39.3.TT.1.24. Trách nhiệm của Công an quận, huyện, thị xã, thành phố thuộc tỉnh về quản lý cư trú 1. Thực hiện các trách nhiệm được quy định tại Luật Cư trú và các văn bản hướng dẫn thi hành.
+
+### 390030000000000050000330000000000000000000802520900350002500
+
+Điều 39.3.TT.1.25. Trách nhiệm của Công an xã, phường, thị trấn về quản lý cư trú 1. Thực hiện các trách nhiệm được quy định tại Luật Cư trú.
+
+### 390030000000000050000330000000000000000000802520900350002600
+
+Điều 39.3.TT.1.26. Kiểm tra cư trú 1. Hình thức kiểm tra cư trú được tiến hành định kỳ, đột xuất, hoặc do yêu cầu phòng, chống tội phạm, giữ gìn an ninh, trật tự.
+
+### 3900300000000000500003400000000000000000
+
+Điều 39.3.LQ.34. Trách nhiệm của Uỷ ban nhân dân các cấp trong quản lý cư trú 1. Tổ chức thực hiện các văn bản quy phạm pháp luật về cư trú tại địa phương.
+
+### 390030000000000050000340000000000000000000402506500310000400
+
+Điều 39.3.NĐ.1.4. Trách nhiệm của các Bộ, ngành, Ủy ban nhân dân các cấp và công dân trong việc thực hiện các quy định về hộ khẩu 1. Trách nhiệm của các Bộ, ngành, Ủy ban nhân dân các cấp
+
+### 3900300000000000500003500000000000000000
+
+Điều 39.3.LQ.35. Trách nhiệm của cơ quan đăng ký, quản lý cư trú 1. Niêm yết công khai, hướng dẫn cơ quan, tổ chức, cá nhân, hộ gia đình trong việc thực hiện các quy định của pháp luật về cư trú.
+
+### 390030000000000050000350000000000000000000802520900350000500
+
+Điều 39.3.TT.1.5. Tiếp nhận và xử lý thông tin phản ánh của công dân, hộ gia đình, cơ quan, tổ chức về cư trú 1. Cơ quan đăng ký, quản lý cư trú có trách nhiệm tiếp nhận thông tin phản ánh của công dân, hộ gia đình, cơ quan, tổ chức về cư trú và xử lý thông tin đó theo chức năng, nhiệm vụ và thẩm quyền quy định nhằm chấn chỉnh kỷ cương, kỷ luật hành chính trong giải quyết công việc của công dân, cơ quan, tổ chức, đẩy mạnh cải cách hành chính và nâng cao chất lượng hiệu quả công tác đăng ký, quản lý cư trú.
+
+### 3900300000000000500003600000000000000000
+
+Điều 39.3.LQ.36. Người làm công tác đăng ký, quản lý cư trú 1. Người làm công tác đăng ký, quản lý cư trú phải được đào tạo, bồi dưỡng chuyên môn, nghiệp vụ phù hợp với nhiệm vụ được giao.
+
+### 3900300000000000500003700000000000000000
+
+Điều 39.3.LQ.37. Huỷ bỏ việc đăng ký thường trú, tạm trú trái pháp luật Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, tạm trú không đúng thẩm quyền, không đúng đối tượng và điều kiện theo quy định của Luật này thì thủ trưởng cơ quan quản lý cư trú cấp trên trực tiếp có trách nhiệm huỷ bỏ việc đăng ký đó. Căn cứ quyết định của cơ quan có thẩm quyền, cơ quan đã đăng ký thường trú, tạm trú có trách nhiệm thực hiện việc xoá đăng ký thường trú, tạm trú; cơ quan có thẩm quyền đăng ký thường trú, tạm trú trước đó phải đăng ký lại.
+
+### 390030000000000050000370000000000000000000802520900350001400
+
+Điều 39.3.TT.1.14. Hủy bỏ kết quả đăng ký thường trú trái pháp luật 1. Trường hợp đăng ký thường trú không đúng thẩm quyền, không đúng điều kiện và đối tượng quy định tại Điều 19 và Điều 20 Luật Cư trú và hướng dẫn tại Thông tư này thì Giám đốc Công an cấp tỉnh hủy bỏ việc đăng ký thường trú trái pháp luật của Công an huyện, quận, thị xã thuộc thành phố trực thuộc Trung ương, Công an thị xã, thành phố thuộc tỉnh; Trưởng Công an huyện thuộc tỉnh hủy bỏ việc đăng ký thường trú trái pháp luật của Công an xã, thị trấn thuộc huyện thuộc tỉnh.
+
+### 390030000000000050000370000000000000000000802520900350002000
+
+Điều 39.3.TT.1.20. Hủy bỏ đăng ký tạm trú trái pháp luật 1. Trường hợp đăng ký tạm trú không đúng thẩm quyền, không đúng đối tượng, không đúng điều kiện quy định tại Điều 30 Luật Cư trú và hướng dẫn tại Thông tư này, thì Trưởng Công an huyện, quận, thị xã, thành phố thuộc tỉnh hủy bỏ việc đăng ký tạm trú trái pháp luật.
+
+### 3900300000000000500003800000000000000000
+
+Điều 39.3.LQ.38. Cơ sở dữ liệu về cư trú 1. Cơ sở dữ liệu về cư trú do Bộ Công an quản lý là một bộ phận của hệ cơ sở dữ liệu quốc gia về dân cư, được xây dựng để phục vụ công tác quản lý nhà nước về cư trú.
+
+### 3900300000000000500003900000000000000000
+
+Điều 39.3.LQ.39. Khiếu nại, tố cáo và xử lý vi phạm 1. Việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo đối với hành vi vi phạm pháp luật về cư trú được thực hiện theo quy định của Luật này và các quy định của pháp luật về khiếu nại, tố cáo.
+
+### 39003000000000005500
+
+Chương VI BIỂU MẪU SỬ DỤNG TRONG ĐĂNG KÝ, QUẢN LÝ CƯ TRÚ
+
+### 3900300000000000550000380252090036000030
+
+Điều 39.3.TT.2.3. Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú Các biểu mẫu sử dụng trong đăng ký, quản lý cư trú (sau đây viết gọn là biểu mẫu) ký hiệu là HK, bao gồm:
+
+### 3900300000000000550000480252090036000040
+
+Điều 39.3.TT.2.4. Quy cách các biểu mẫu 1. Mẫu HK01, HK02, HK03, HK04, HK07, HK10, HK11, HK12, HK13, HK15 in trên khổ giấy 210 mm x 297 mm, in đen trắng. Mẫu HK05 in trên khổ giấy 205 mm x 145 mm, mẫu HK06 in trên khổ giấy 80 mm x 130 mm, mẫu HK14 in trên khổ giấy 270 mm x 350 mm, in đen trắng.
+
+### 3900300000000000550000480252090036000050
+
+Điều 39.3.TT.2.5. In, phát hành và quản lý các biểu mẫu 1. Bộ Công an thống nhất quản lý, in, phát hành các biểu mẫu HK08, HK09A, HK09B. Công an tỉnh, thành phố trực thuộc Trung ương quản lý, in, phát hành các mẫu HK01, HK02, HK03, HK04, HK05, HK06, HK07, HK10, HK11, HK12, HK13, HK14, HK15 ban hành kèm theo Thông tư này. Khi in không được thay đổi nội dung, kích thước của biểu mẫu.
+
+### 3900300000000000550000580252090036000060
+
+Điều 39.3.TT.2.6. Yêu cầu ghi biểu mẫu 1. Ghi chính xác, thống nhất những nội dung trong từng biểu mẫu, chữ viết phải rõ ràng, viết cùng một loại mực, không viết tắt.
+
+### 3900300000000000550000680252090036000070
+
+Điều 39.3.TT.2.7. Thông tin chung trong biểu mẫu 1. Thông tin chung trong các loại biểu mẫu bao gồm: Thông tin về cá nhân, về địa chỉ cư trú và về cơ quan có thẩm quyền đăng ký, quản lý cư trú.
+
+### 3900300000000000550000780252090036000080
+
+Điều 39.3.TT.2.8. Cách ghi bản khai nhân khẩu 1. Mục “Trình độ học vấn”: Ghi rõ trình độ học vấn cao nhất (Tiến sĩ, Thạc sĩ, Đại học, Cao đẳng, Trung cấp, tốt nghiệp phổ thông trung học, tốt nghiệp phổ thông cơ sở…; nếu không biết chữ thì ghi rõ “không biết chữ”).
+
+### 3900300000000000550000880252090036000090
+
+Điều 39.3.TT.2.9. Cách ghi phiếu báo thay đổi hộ khẩu, nhân khẩu 1. Mục “Họ và tên chủ hộ” và “Quan hệ với chủ hộ” ghi như sau:
+
+### 3900300000000000550000980252090036000100
+
+Điều 39.3.TT.2.10. Cách ghi phiếu xác minh hộ khẩu, nhân khẩu 1. Mục “Kính gửi”: Ghi tên cơ quan nhận phiếu xác minh hộ khẩu, nhân khẩu và cấp trên trực tiếp của cơ quan đó. Trường hợp gửi phiếu xác minh cho cơ quan Công an xã, phường, thị trấn ngoài phạm vi địa giới hành chính tỉnh, thành phố trực thuộc Trung ương thì phải ghi đầy đủ địa giới hành chính của Công an xã, phường, thị trấn đó (xã, huyện, tỉnh).
+
+### 3900300000000000550001080252090036000110
+
+Điều 39.3.TT.2.11. Cách ghi phiếu thông tin thay đổi về hộ khẩu, nhân khẩu 1. Mục “Kính gửi”: Ghi tên cơ quan đăng ký, quản lý cư trú nơi nhận phiếu và cấp trên trực tiếp của cơ quan đó. Trường hợp thông báo về việc đã đăng ký thường trú phải gửi trực tiếp cho cơ quan Công an nơi cấp giấy chuyển hộ khẩu để làm thủ tục xóa đăng ký thường trú. Nếu cơ quan Công an nơi cấp giấy chuyển hộ khẩu (nơi đăng ký thường trú cũ) là cơ quan Công an xã, phường, thị trấn thì phải ghi đầy đủ địa giới hành chính của Công an xã, phường, thị trấn đó (xã, huyện, tỉnh).
+
+### 3900300000000000550001180252090036000120
+
+Điều 39.3.TT.2.12. Cách ghi Phiếu khai báo tạm vắng 1. Mục “Nơi thường trú/nơi tạm trú”: Nếu ghi nơi thường trú thì gạch nơi tạm trú và ngược lại.
+
+### 3900300000000000550001280252090036000130
+
+Điều 39.3.TT.2.13. Cách ghi phiếu theo dõi hồ sơ hộ khẩu 1. Mặt trước:
+
+### 3900300000000000550001380252090036000140
+
+Điều 39.3.TT.2.14. Cách ghi giấy chuyển hộ khẩu 1. Số giấy chuyển hộ khẩu: Ghi theo số thứ tự cấp giấy chuyển hộ khẩu từng năm tại cơ quan Công an có thẩm quyền.
+
+### 3900300000000000550001480252090036000150
+
+Điều 39.3.TT.2.15. Cách ghi sổ hộ khẩu 1. Mặt trong của bìa trước
+
+### 3900300000000000550001580252090036000160
+
+Điều 39.3.TT.2.16. Cách ghi sổ tạm trú 1. Mục “Công an tỉnh/TP”: Ghi hoặc in tên tỉnh/thành phố trực thuộc Trung ương;
+
+### 3900300000000000550001680252090036000170
+
+Điều 39.3.TT.2.17. Cách ghi sổ theo dõi giải quyết hộ khẩu 1. Mục “Nội dung yêu cầu giải quyết”: Ghi tóm tắt, đầy đủ nội dung yêu cầu giải quyết.
+
+### 3900300000000000550001780252090036000180
+
+Điều 39.3.TT.2.18. Cách ghi sổ đăng ký thường trú 1. Phần “Mục lục”: Ghi đầy đủ các thông tin theo mẫu.
+
+### 3900300000000000550001880252090036000190
+
+Điều 39.3.TT.2.19. Cách ghi sổ đăng ký tạm trú 1. Mục “Nơi tạm trú”: Ghi rõ số nhà, đường phố, tổ, thôn, xóm, làng, ấp, bản, buôn, phum, sóc.
+
+### 3900300000000000550001980252090036000200
+
+Điều 39.3.TT.2.20. Cách ghi sổ tiếp nhận lưu trú 1. Mục “Lý do lưu trú”: Ghi rõ lý do như chữa bệnh, thăm thân, du lịch.
+
+### 3900300000000000550002080252090036000210
+
+Điều 39.3.TT.2.21. Cách ghi túi hồ sơ hộ khẩu Mục “Nộp lưu ngày”: Ghi theo ngày, tháng, năm đưa hồ sơ hộ khẩu vào lưu tại tàng thư hồ sơ hộ khẩu.
+
+### 3900300000000000550002180252090036000220
+
+Điều 39.3.TT.2.22. Cách ghi thống kê tình hình, kết quả đăng ký, quản lý cư trú 1. Phần hộ, nhân khẩu hiện đang cư trú (phần I)
+
+### 39003000000000006000
+
+Chương VII ĐIỀU KHOẢN THI HÀNH
+
+### 3900300000000000600004000000000000000000
+
+Điều 39.3.LQ.40. Hiệu lực thi hành Luật này có hiệu lực thi hành từ ngày 01 tháng 07 năm 2007.
+
+### 3900300000000000600004100000000000000000
+
+Điều 39.3.LQ.41. Rà soát văn bản quy phạm pháp luật liên quan đến quy định về hộ khẩu Chính phủ chỉ đạo cơ quan, tổ chức hữu quan rà soát các văn bản quy phạm pháp luật liên quan đến quy định về hộ khẩu để tự mình hoặc kiến nghị, chỉ đạo cơ quan có thẩm quyền sửa đổi hoặc bãi bỏ những quy định lạm dụng hộ khẩu để hạn chế quyền, lợi ích hợp pháp của công dân.
+
+### 3900300000000000600004200000000000000000
+
+Điều 39.3.LQ.42. Quy định chi tiết và hướng dẫn thi hành Chính phủ quy định chi tiết và hướng dẫn thi hành khoản 2 Điều 5, khoản 2 Điều 8, Điều 12, khoản 1 Điều 20 của Luật này.
+
+### 3900300000000000600004210223680081000430
+
+Điều 39.3.LQ.43. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014.
+
+### 3900300000000000600004240250650031000090
+
+Điều 39.3.NĐ.1.9. Hiệu lực thi hành 1. Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 6 năm 2014.
+
+### 3900300000000000600004240250650031000100
+
+Điều 39.3.NĐ.1.10. Trách nhiệm thi hành 1. Bộ trưởng Bộ Công an có trách nhiệm đôn đốc, kiểm tra, hướng dẫn thi hành Nghị định này.
+
+### 3900300000000000600004280252090035000270
+
+Điều 39.3.TT.1.27. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 10 năm 2014 và thay thế Thông tư số 52/2010/TT-BCA ngày 30 tháng 11 năm 2010 của Bộ trưởng Bộ Công an quy định chi tiết một số điều của Luật Cư trú, Nghị định số 107/2007/NĐ-CP ngày 25 tháng 6 năm 2007 và Nghị định số 56/2010/NĐ-CP ngày 24 tháng 5 năm 2010 về cư trú.
+
+### 3900300000000000600004280252090035000280
+
+Điều 39.3.TT.1.28. Trách nhiệm thi hành 1. Các cơ quan, tổ chức trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình chỉ đạo triển khai thực hiện Thông tư này.
+
+### 3900300000000000600004280252090036000230
+
+Điều 39.3.TT.2.23. Hiệu lực thi hành 1. Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 10 năm 2014 và thay thế Thông tư số 81/2011/TT-BCA ngày 15 tháng 12 năm 2011 của Bộ trưởng Bộ Công an quy định về biểu mẫu được sử dụng trong đăng ký, quản lý cư trú.
+
+### 3900300000000000600004280252090036000240
+
+Điều 39.3.TT.2.24. Trách nhiệm thi hành 1. Cục trưởng Cục Cảnh sát đăng ký, quản lý cư trú và dữ liệu quốc gia về dân cư có trách nhiệm chỉ đạo, kiểm tra, hướng dẫn việc thực hiện Thông tư này.
+

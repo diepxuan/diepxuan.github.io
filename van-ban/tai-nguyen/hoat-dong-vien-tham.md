@@ -1,3962 +1,5311 @@
 ---
-layout: default
+layout: page
 title: Hoạt động viễn thám
 permalink: /van-ban/tai-nguyen/hoat-dong-vien-tham/
-collection: subtopics
-slug: hoat-dong-vien-tham
-parent: tai-nguyen
 ---
 
 # Hoạt động viễn thám
 
-**Đề mục:** Hoạt động viễn thám  
-**Chủ đề:** [Tài nguyên](/tai-nguyen/)  
-**Số điều khoản:** 312  
-**Điều khoản có nội dung:** 165/302 (54.6%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+QUY ĐỊNH CHUNG
 
-### Điều 27.6.NĐ.1. Phạm vi điều chỉnh
+Điều 27.6.NĐ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 03/2019/NĐ-CP Về hoạt động viễn thám ngày 04/01/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Chỉ mục:** 1
+ Nghị định này quy định về hệ thống thu nhận dữ liệu ảnh viễn thám; thu nhận, lưu trữ, xử lý, cung cấp, khai thác và sử dụng dữ liệu ảnh viễn thám; xây dựng cơ sở dữ liệu ảnh viễn thám.Điều 27.6.NĐ.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 2700600000000000100000100000000000000000
+(Điều 2 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**ID:** dk_00045975
+ Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến hoạt động viễn thám trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.Điều 27.6.QĐ.1.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Quyết định số 81/2010/QĐ-TTg Quy định về thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia ngày 13/12/2010 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
+Quyết định này quy định việc thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; trách nhiệm và quyền hạn của các cơ quan, tổ chức, cá nhân trong việc thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia.
 
-### Điều 27.6.NĐ.2. Đối tượng áp dụng
+Điều 27.6.QĐ.1.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Chỉ mục:** 2
+Quyết định này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam trong việc thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài trong việc khai thác và sử dụng dữ liệu viễn thám quốc gia.
 
-**Mã phân cấp:** 2700600000000000100000200000000000000000
+Điều 27.6.TT.2.1. Phạm vi điều chỉnh
 
-**ID:** dk_00045976
+(Điều 1 Thông tư số 05/2012/TT-BTNMT Quy định kỹ thuật hiện chỉnh bản đồ địa hình quốc gia tỷ lệ 1:25.000 và 1:50.000 bằng ảnh vệ tinh ngày 08/05/2012 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
----
+Thông tư này quy định về kỹ thuật hiện chỉnh bản đồ địa hình quốc gia tỷ lệ 1:25.000 và 1:50.000 bằng ảnh vệ tinh.
 
+Điều 27.6.TT.2.2. Đối tượng áp dụng
 
-### Điều 27.6.QĐ.1.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-*Nội dung chưa có sẵn*
+Thông tư này áp dụng đối với các cơ quan quản lý nhà nước về đo đạc và bản đồ; tổ chức, cá nhân trong nước; tổ chức, cá nhân nước ngoài hoạt động trong lĩnh vực đo đạc và bản đồ tại Việt Nam.
 
-**Chỉ mục:** 1
+Điều 27.6.TT.3.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 2700600000000000100000250238430081000010
+(Điều 1 Thông tư số 10/2015/TT-BTNMT Quy định kỹ thuật về sản xuất ảnh viễn thám quang học độ phân giải cao và siêu cao để cung cấp đến người sử dụng ngày 25/03/2015 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**ID:** dk_00045977
+Thông tư này quy định các yêu cầu kỹ thuật về việc sản xuất ảnh viễn thám quang học độ phân giải cao và siêu cao để cung cấp ảnh viễn thám đến người sử dụng.
 
----
+Điều 27.6.TT.3.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-### Điều 27.6.QĐ.1.2. Đối tượng áp dụng
+Thông tư này áp dụng đối với cơ quan quản lý nhà nước về viễn thám, các tổ chức và cá nhân có liên quan đến hoạt động sản xuất ảnh viễn thám quang học độ phân giải cao và siêu cao.
 
-*Nội dung chưa có sẵn*
+Điều 27.6.TT.4.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Thông tư số 39/2015/TT-BTNMT Quy định kỹ thuật vận hành trạm thu ảnh vệ tinh ngày 09/07/2015 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Mã phân cấp:** 2700600000000000100000250238430081000020
+Thông tư này quy định về kỹ thuật trong việc vận hành trạm thu ảnh vệ tinh.
 
-**ID:** dk_00045978
+Điều 27.6.TT.4.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
+Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân liên quan đến việc quản lý và vận hành trạm thu ảnh vệ tinh ở Việt Nam.
 
-### Điều 27.6.TT.2.1. Phạm vi điều chỉnh
+Điều 27.6.TT.5.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 69/2015/TT-BTNMT Quy định kỹ thuật cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh ngày 22/12/2015 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**Chỉ mục:** 1
+Thông tư này quy định kỹ thuật cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh.
 
-**Mã phân cấp:** 2700600000000000100000280243550005000010
+Điều 27.6.TT.5.2. Đối tượng áp dụng
 
-**ID:** dk_00045979
+(Điều 2 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
----
+Thông tư này áp dụng đối với các cơ quan quản lý nhà nước; tổ chức, cá nhân có liên quan đến cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh trên lãnh thổ Việt Nam.
 
+Điều 27.6.TT.6.1. Phạm vi điều chỉnh
 
-### Điều 27.6.TT.2.2. Đối tượng áp dụng
+(Điều 1 Thông tư số 71/2015/TT-BTNMT Quy định kỹ thuật đặt chụp ảnh viễn thám ngày 24/12/2015 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định về nội dung và kỹ thuật của việc đặt chụp ảnh viễn thám.
 
-**Chỉ mục:** 2
+Điều 27.6.TT.6.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 2700600000000000100000280243550005000020
+(Điều 2 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**ID:** dk_00045980
+Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có các hoạt động liên quan đến việc đặt chụp ảnh viễn thám.
 
----
+Điều 27.6.TT.7.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 35/2016/TT-BTNMT Quy định quy trình công bố siêu dữ liệu viễn thám quốc gia ngày 28/11/2016 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-### Điều 27.6.TT.3.1. Phạm vi điều chỉnh
+Thông tư này quy định quy trình công bố siêu dữ liệu viền thám quốc gia; trách nhiệm và quyền hạn của cơ quan, tổ chức, cá nhân trong việc công bố siêu dữ liệu viễn thám quốc gia.
 
-*Nội dung chưa có sẵn*
+Điều 27.6.TT.7.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-**Mã phân cấp:** 2700600000000000100000280254060010000010
+Thông tư này áp dụng đối với các cơ quan thuộc Bộ Tài nguyên và Môi trường và tổ chức, cá nhân có liên quan đến công bố siêu dữ liệu viễn thám quốc gia.
 
-**ID:** dk_00045981
+Điều 27.6.TT.9.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 08 /2017/TT-BTNMT Quy định quy trình đo khống chế ảnh viễn thám ngày 06/06/2017 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
+Thông tư này quy định nội dung và trình tự các bước thực hiện đo khống chế ảnh viễn thám, đồng thời là cơ sở pháp lý để quản lý, thẩm định và phê duyệt các dự án, luận chứng kinh tế kỹ thuật, xây dựng định mức kinh tế - kỹ thuật có sử dụng đo khống chế ảnh viễn thám.
 
-### Điều 27.6.TT.3.2. Đối tượng áp dụng
+Điều 27.6.TT.9.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Chỉ mục:** 2
+Thông tư này áp dụng đối với các cơ quan quản lý nhà nước; tổ chức và cá nhân có liên quan đến đo khống chế ảnh viễn thám trên lãnh thổ Việt Nam.
 
-**Mã phân cấp:** 2700600000000000100000280254060010000020
+Điều 27.6.TT.10.1. Phạm vi điều chỉnh
 
-**ID:** dk_00045982
+(Điều 1 Thông tư số 09/2017/TT-BTNMT Quy định kỹ thuật xây dựng, cập nhật cơ sở dữ liệuviễn thám quốc gia ngày 06/06/2017 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
----
+Thông tư này quy định về kỹ thuật xây dựng, cập nhật cơ sở dữ liệu **viễn thám quốc gia và trách nhiệm của các cơ quan liên quan đến việc xây dựng, cập nhật cơ sở dữ liệu viễn thám quốc gia.**
 
+Điều 27.6.TT.10.2. Đối tượng áp dụng
 
-### Điều 27.6.TT.4.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-*Nội dung chưa có sẵn*
+1. Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến việc xây dựng, cập nhật cơ sở dữ liệu viễn thám quốc gia.
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2700600000000000100000280255120039000010
-
-**ID:** dk_00045983
-
----
-
-
-### Điều 27.6.TT.4.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000100000280255120039000020
-
-**ID:** dk_00045984
-
----
-
-
-### Điều 27.6.TT.5.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2700600000000000100000280256780069000010
-
-**ID:** dk_00045985
-
----
-
-
-### Điều 27.6.TT.5.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000100000280256780069000020
-
-**ID:** dk_00045986
-
----
-
-
-### Điều 27.6.TT.6.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2700600000000000100000280256800071000010
-
-**ID:** dk_00045987
-
----
-
-
-### Điều 27.6.TT.6.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000100000280256800071000020
-
-**ID:** dk_00045988
-
----
-
-
-### Điều 27.6.TT.7.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2700600000000000100000280260200035000010
-
-**ID:** dk_00045989
-
----
-
-
-### Điều 27.6.TT.7.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000100000280260200035000020
-
-**ID:** dk_00045990
-
----
-
-
-### Điều 27.6.TT.9.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2700600000000000100000280262100008000010
-
-**ID:** dk_00045991
-
----
-
-
-### Điều 27.6.TT.9.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000100000280262100008000020
-
-**ID:** dk_00045992
-
----
-
-
-### Điều 27.6.TT.10.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2700600000000000100000280262100009000010
-
-**ID:** dk_00045993
-
----
-
-
-### Điều 27.6.TT.10.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000100000280262100009000020
-
-**ID:** dk_00045994
-
----
-
-
-### Điều 27.6.TT.11.1. Phạm vi điều chỉnh và đối tượng áp dụng
+2. Thông tư này không áp dụng đối với các cơ quan:Bộ Công an và Bộ Quốc phòng.
 
 Điều 27.6.TT.11.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 10/2017/TT-BTNMT Quy định quy trình thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000 ngày 06/06/2017 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 2700600000000000100000280262100010000010
+1. Phạm vi điều chỉnh
 
-**ID:** dk_00045995
+Thông tư này quy định nội dung, trình tự các bước thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000.
 
----
+2. Đối tượng áp dụng
 
+Thông tư này áp dụng đối với các cơ quan, tổ chức và cá nhân có liên quan đến việc thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000.
 
-### Điều 27.6.TT.12.1. Phạm vi điều chỉnh
+Điều 27.6.TT.12.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 13/2018/TT-BTNMT Quy định kỹ thuật thành lập bản đồ nhiệt độ bề mặt nước biển và bản đồ hàm lượng diệp lục bề mặt nước biển tỷ lệ 1:500.000, 1:1.000.000 bằng dữ liệu viễn thám quang học độ phân giải thấp ngày 18/10/2018 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Chỉ mục:** 1
+Thông tư này quy định kỹ thuật cho việc thành lập bản đồ nhiệt độ bề mặt nước biển và bản đồ hàm lượng diệp lục bề mặt nước biển tỷ lệ 1:500.000, 1:1.000.000 bằng dữ liệu viễn thám quang học độ phân giải thấp.
 
-**Mã phân cấp:** 2700600000000000100000280267090013000010
+Điều 27.6.TT.12.2. Đối tượng áp dụng
 
-**ID:** dk_00045996
+(Điều 2 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
----
+Thông tư này áp dụng với các cơ quan quản lý Nhà nước và các tổ chức, cá nhân có liên quan đến hoạt động xây dựng, thành lập bản đồ nhiệt độ bề mặt nước biển và bản đồ hàm lượng diệp lục bề mặt nước biển tỷ lệ 1:500.000, 1:1.000.000 bằng dữ liệu viễn thám quang học độ phân giải thấp.
 
+Điều 27.6.NĐ.3. Giải thích từ ngữ
 
-### Điều 27.6.TT.12.2. Đối tượng áp dụng
+(Điều 3 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-*Nội dung chưa có sẵn*
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 2
+1. Viễn thám là lĩnh vực khoa học công nghệ cho phép nghiên cứu, thu thập các thông tin về các đối tượng địa lý mà không cần tiếp xúc trực tiếp với chúng.
 
-**Mã phân cấp:** 2700600000000000100000280267090013000020
+2. Dữ liệu ảnh viễn thám là thông tin, hình ảnh đối tượng địa lý được thu nhận từ vệ tinh viễn thám.
 
-**ID:** dk_00045997
+3. Hoạt động viễn thám là các hoạt động có liên quan đến hệ thống thu nhận dữ liệu ảnh viễn thám; thu nhận, lưu trữ, xử lý, cung cấp, khai thác và sử dụng dữ liệu ảnh viễn thám; xây dựng cơ sở dữ liệu ảnh viễn thám.
 
----
+4. Công trình hạ tầng thu nhận dữ liệu ảnh viễn thám bao gồm các trạm thu dữ liệu viễn thám, trạm điều khiển vệ tinh viễn thám.
 
+5. Sản phẩm viễn thám bao gồm dữ liệu ảnh viễn thám, dữ liệu ảnh viễn thám thô, dữ liệu ảnh viễn thám thô đã được hiệu chỉnh bức xạ, hình học và các thông tin, dữ liệu chuyên đề được chiết xuất từ dữ liệu ảnh viễn thám.
 
-### Điều 27.6.NĐ.3. Giải thích từ ngữ
+6. Siêu dữ liệu viễn thám là các thông tin mô tả về dữ liệu, sản phẩm viễn thám bao gồm nội dung, nguồn gốc, chất lượng và các thông tin khác có liên quan.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Nguyên tắc chung; Điều 4. Quản lý và vận hành vệ tinh VNREDSat-1; Điều 5. Khai thác vệ tinh VNREDSat-1; Điều 6. Kinh phí quản lý, vận hành vệ tinh VNREDSat-1; Điều 7. Cơ chế tài chính trong việc khai thác và sử dụng dữ liệu ảnh vệ tinh VNREDSat-1; Điều 8. Điều khoản thi hành của Quyết định 30/2014/QĐ-TTg Về việc quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1 ban hành ngày 26/04/2014; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện của ; Điều 3.3.TT.12.1. của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.2. của của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.3. của )Điều 27.6.QĐ.1.3. Giải thích từ ngữ
 
-**Chỉ mục:** 3
+(Điều 3 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 2700600000000000100000300000000000000000
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00045998
+1. Dữ liệu viễn thám là các dữ liệu ảnh thu nhận từ vệ tinh viễn thám.
 
----
+2. Dữ liệu viễn thám mức 0 là dữ liệu viễn thám được thu nhận và xử lý trực tiếp từ tín hiệu vệ tinh tại trạm thu ảnh vệ tinh mà chưa qua bất cứ một quá trình hiệu chỉnh nào.
 
+3. Dữ liệu ảnh thô là dữ liệu ảnh được xử lý sơ bộ, nhằm loại bỏ sai số trong của đầu thu ảnh.
 
-### Điều 27.6.QĐ.1.3. Giải thích từ ngữ
+4. Dữ liệu sản phẩm ảnh là dữ liệu ảnh đã được xử lý phổ và nắn chỉnh hình học.
 
-*Nội dung chưa có sẵn*
+5. Dữ liệu viễn thám dạng bản chính là dữ liệu ảnh thuộc phiên bản đầu tiên được mua hoặc nhận từ nước ngoài.
 
-**Chỉ mục:** 3
+6. Dữ liệu viễn thám dạng bản sao là dữ liệu được sao nguyên từ dữ liệu viễn thám mức 0 hoặc từ dữ liệu viễn thám dạng bản chính.
 
-**Mã phân cấp:** 2700600000000000100000350238430081000030
+7. Dữ liệu viễn thám quốc gia là dữ liệu viễn thám được thu nhận tại trạm thu ảnh vệ tinh ở Việt Nam, mua của nước ngoài bằng nguồn vốn ngân sách nhà nước hoặc có được thông qua trao đổi, hợp tác và nhận viện trợ của các quốc gia, các vùng lãnh thổ, các tổ chức quốc tế được các cơ quan có thẩm quyền chấp thuận.
 
-**ID:** dk_00045999
+8. Cơ sở dữ liệu viễn thám là tập hợp các dữ liệu viễn thám đã được kiểm tra, đánh giá, xử lý, tích hợp và lưu trữ một cách hệ thống có tổ chức dưới dạng tệp tin dữ liệu lưu trên các hệ thống tin học, các vật mang tin gồm các loại ổ cứng, băng từ, đĩa CD, DVD và các hình thức khác.
 
----
+9. Cơ sở dữ liệu viễn thám quốc gia là tập hợp các dữ liệu viễn thám quốc gia đã được kiểm tra, đánh giá, xử lý, tích hợp và lưu trữ một cách hệ thống có tổ chức dưới dạng tệp tin dữ liệu lưu trên các hệ thống tin học, các vật mang tin gồm các loại ổ cứng, băng từ, đĩa CD, DVD và các hình thức khác.
 
+10. Siêu dữ liệu viễn thám (tiếng Anh là Remote Sensing Metadata) là các thông tin mô tả về nội dung, nguồn gốc, chất lượng, phương pháp xử lý và các thông tin khác có liên quan đến dữ liệu viễn thám.
 
-### Điều 27.6.TT.2.3. Giải thích từ ngữ
+11. Trạm thu ảnh vệ tinh là hệ thống thiết bị phần cứng và phần mềm để thu nhận và xử lý tín hiệu viễn thám.
 
-*Nội dung chưa có sẵn*
+12. Thu nhận dữ liệu viễn thám là việc thu nhận dữ liệu tại trạm thu ảnh vệ tinh ở Việt Nam hoặc dưới hình thức mua, trao đổi, hợp tác, nhận viện trợ từ nước ngoài.
 
-**Chỉ mục:** 3
+13. Xử lý dữ liệu viễn thám là quá trình xử lý để tạo ra dữ liệu ảnh thô; dữ liệu sản phẩm ảnh có giá trị gia tăng nhằm đáp ứng các yêu cầu của người sử dụng.
 
-**Mã phân cấp:** 2700600000000000100000380243550005000030
+14. Lưu trữ dữ liệu viễn thám là quá trình thu thập, cập nhật, bảo quản dữ liệu phục vụ cho khai thác và sử dụng.
 
-**ID:** dk_00046000
+15. Khai thác và sử dụng dữ liệu viễn thám là quá trình lựa chọn, xử lý, giải đoán các thông tin cần thiết từ dữ liệu viễn thám cho những mục đích sử dụng cụ thể.
 
----
+Điều 27.6.TT.2.3. Giải thích từ ngữ
 
+(Điều 3 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-### Điều 27.6.TT.3.3. Giải thích từ ngữ
+Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:
 
-*Nội dung chưa có sẵn*
+1. Hiện chỉnh bản đồ địa hình là việc làm mới lại nội dung của bản đồ cho phù hợp với thực tế theo các tiêu chuẩn kỹ thuật của bản đồ địa hình quốc gia.
 
-**Chỉ mục:** 3
+2. Ảnh vệ tinh là một dạng ảnh viễn thám ghi nhận hình ảnh của bề mặt Trái đất bằng thiết bị đầu thu đặt trên vệ tinh.
 
-**Mã phân cấp:** 2700600000000000100000380254060010000030
+3. Pixel ảnh (Picture Element) là phần tử ảnh nhỏ nhất ghi được trên thiết bị cảm biến của đầu thu ảnh.
 
-**ID:** dk_00046001
+4. Độ phân giải mặt đất (Ground Resolution) hay là khoảng cách lấy mẫu mặt đất (Ground Sampling Distance) hoặc kích thước pixel (Pixel Size) là kích thước của 1 pixel ảnh chiếu trên mặt đất.
 
----
+5. Độ phân giải không gian (Spatial Resolution) là kích thước nhỏ nhất của 1 đối tượng hay khoảng cách tối thiểu giữa 2 đối tượng liền kề, có khả năng phân biệt được trên ảnh. Độ phân giải này phụ thuộc vào kích thước của pixel ảnh, độ tương phản hình ảnh, điều kiện khí quyển và các thông số quỹ đạo của vệ tinh.
 
+6. Bản đồ đường nét ở dạng số là tài liệu dùng để ghi kết quả điều vẽ được sao từ bản đồ dùng làm gốc hiện chỉnh.
 
-### Điều 27.6.TT.3.4. Thuật ngữ chuyên ngành
+7. Maket biến đổi là bản ghi nhận những thay đổi của các yếu tố nội dung bản đồ không còn tồn tại hoặc có thay đổi về hình dáng (phần mất đi). Maket biến đổi được thành lập trên bản đồ giấy in từ bản đồ gốc cần hiện chỉnh.
 
-*Nội dung chưa có sẵn*
+8. Mô hình số độ cao (Digital Elevation Model - DEM) là mô hình biểu diễn bằng số sự biến thiên liên tục của độ cao bề mặt địa hình. Mô hình số độ cao dùng trong nắn ảnh để loại trừ biến dạng hình học của ảnh do chênh cao địa hình gây ra.
 
-**Chỉ mục:** 4
+9. Nắn trực ảnh vệ tinh là việc hiệu chỉnh biến dạng hình học của ảnh do quá trình thu ảnh và do ảnh hưởng của chênh cao địa hình gây ra, đồng thời với việc chuyển tọa độ điểm ảnh từ phép chiếu không gian ảnh sang phép chiếu vuông góc.
 
-**Mã phân cấp:** 2700600000000000100000380254060010000040
+10. Tăng cường chất lượng ảnh vệ tinh là việc hiệu chỉnh bức xạ ảnh (xử lý mức độ xám đối với ảnh toàn sắc, xử lý phổ đối với ảnh đa phổ), nhằm nâng cao khả năng thông tin của ảnh.
 
-**ID:** dk_00046002
+11. Tái mẫu ảnh vệ tinh (Resampling) là việc chuyển đổi các pixel của ảnh gốc (ảnh chưa nắn) sang pixel của trực ảnh hay là việc làm mẫu lại độ lớn pixel ảnh.
 
----
+12. Điều vẽ ảnh vệ tinh cho hiện chỉnh bản đồ là quá trình xác định, giải đoán, xác minh và ghi nhận những thay đổi của các yếu tố nội dung bản đồ theo ảnh vệ tinh.
 
+Điều 27.6.TT.3.3. Giải thích từ ngữ
 
-### Điều 27.6.TT.4.3. Giải thích từ ngữ
+(Điều 3 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-*Nội dung chưa có sẵn*
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. *Sản xuất ảnh viễn thám* là quá trình xử lý để tạo ra dữ liệu ảnh viễn thám 1A, ảnh viễn thám 2A, ảnh viễn thám 3A và ảnh viễn thám 3B từ dữ liệu viễn thám mức 0.
 
-**Mã phân cấp:** 2700600000000000100000380255120039000030
+2. *Ảnh viễn thám quang học* là loại ảnh được tạo ra bởi việc thu nhận các bước sóng ánh sáng nhìn thấy (0,4 - 0,76 micromet) qua vệ tinh sử dụng các ống kính quang học.
 
-**ID:** dk_00046003
+3. *Độ phân giải mặt đất* (Ground Resolution) là kích thước của 1 pixel ảnh (điểm ảnh) chiếu trên mặt đất.
 
----
+4. *Ảnh viễn thám độ phân giải cao* là dữ liệu ảnh thu được có độ phân giải mặt đất nhỏ hơn hoặc bằng 20m.
 
+5. *Ảnh viễn thám độ phân giải siêu cao* là dữ liệu ảnh thu được có độ phân giải mặt đất nhỏ hơn 1m.
 
-### Điều 27.6.TT.5.3. Giải thích từ ngữ
+6. *Mô hình số độ cao* (Digital Elevation Model - DEM) là mô hình biểu diễn bằng số sự biến thiên liên tục của độ cao bề mặt địa hình. Mô hình số độ cao dùng trong nắn ảnh để loại trừ biến dạng hình học của ảnh do chênh cao địa hình gây ra.
 
-*Nội dung chưa có sẵn*
+7. *Nắn chỉnh hình học* là việc hiệu chỉnh biến dạng hình học của ảnh do quá trình chụp ảnh, do ảnh hưởng chênh cao địa hình và do việc chuyển đổi hệ tọa độ từ điểm ảnh từ tọa độ không gian ảnh sang tọa độ vuông góc - tọa độ Descarters.
 
-**Chỉ mục:** 3
+8. *Tăng cường chất lượng ảnh* viễn thám là việc hiệu chỉnh bức xạ ảnh nhằm nâng cao khả năng thông tin của ảnh.
 
-**Mã phân cấp:** 2700600000000000100000380256780069000030
+9. *Dữ liệu viễn thám mức 0* là dữ liệu viễn thám được thu nhận và xử lý trực tiếp từ tín hiệu vệ tinh tại trạm thu ảnh viễn thám mà chưa qua bất cứ một quá trình hiệu chỉnh nào.
 
-**ID:** dk_00046004
+10. *Ảnh viễn thám 1A* là sản phẩm ảnh viễn thám đã được hiệu chỉnh các ảnh hưởng của độ cong Trái đất, loại bỏ các sai số của đầu thu ảnh và tín hiệu nhiễu do ảnh hưởng của khí quyển từ dữ liệu viễn thám mức 0.
 
----
+11. *Ảnh viễn thám 2A* là sản phẩm ảnh viễn thám được nắn về: hệ quy chiếu hệ tọa độ Quốc gia VN-2000, hệ tọa độ phẳng UTM quốc tế... sử dụng mô hình vật lý, các thông tin quỹ đạo của vệ tinh.
 
+12. *Ảnh viễn thám 3A* là sản phẩm ảnh viễn thám được nắn chỉnh về hệ tọa độ bản đồ hệ quy chiếu và hệ tọa độ Quốc gia VN-2000, hệ tọa độ phẳng UTM quốc tế... sử dụng mô hình vật lý, các điểm khống chế ảnh và mô hình số độ cao. Ảnh viễn thám 3A được xử lý phổ và tăng cường chất lượng hình ảnh theo cảnh.
 
-### Điều 27.6.TT.6.3. Giải thích từ ngữ
+13. *Ảnh viễn thám 3B* là ảnh viễn thám được xử lý ở mức ảnh viễn thám 3A, được ghép và cắt mảnh theo phân mảnh bản đồ.
 
-*Nội dung chưa có sẵn*
+Điều 27.6.TT.3.4. Thuật ngữ chuyên ngành
 
-**Chỉ mục:** 3
+(Điều 4 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 2700600000000000100000380256800071000030
+1. VN-2000: hệ quy chiếu và hệ tọa độ Quốc gia VN-2000.
 
-**ID:** dk_00046005
+2. UTM: (Universal Transverse Mercator): hệ tọa độ phẳng UTM quốc tế sử dụng lưới chiếu hình trụ ngang đồng góc.
 
----
+3. GPS (Global Positioning System): hệ thống định vị toàn cầu.
 
+4. GIS (Geographic Information System): hệ thống thông tin địa lý.
 
-### Điều 27.6.TT.9.3. Giải thích từ ngữ
+5. Pan (Panchromatic): ảnh toàn sắc.
 
-*Nội dung chưa có sẵn*
+6. XS (MultiSpectral): ảnh đa phổ.
 
-**Chỉ mục:** 3
+Điều 27.6.TT.4.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 2700600000000000100000380262100008000030
+(Điều 3 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**ID:** dk_00046006
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
----
+1. *Vận hành trạm thu ảnh vệ tinh* là việc sử dụng các thiết bị của trạm thu ảnh vệ tinh để thu nhận, xử lý và lưu trữ dữ liệu viễn thám.
 
+2. *Ca trực* là khoảng thời gian làm việc liên tục được quy định cho nhóm vận hành trạm thu ảnh vệ tinh.
 
-### Điều 27.6.TT.10.3. Giải thích thuật ngữ
+3. *Kế hoạch thu ảnh* bao gồm các thông số chụp ảnh của Trạm điều khiển vệ tinh gửi sang trạm thu ảnh vệ tinh để thu nhận tín hiệu khi vệ tinh bay qua.
 
-*Nội dung chưa có sẵn*
+4. *Danh mục dữ liệu ảnh viễn thám* là tập hợp các thông tin dữ liệu ảnh viễn thám thu được từ trạm thu ảnh vệ tinh, được lưu trữ trực tuyến phục vụ việc tra cứu thông tin của ảnh.
 
-**Chỉ mục:** 3
+5. *Nhiễu* là ảnh hưởng của năng lượng không cần thiết bởi một hoặc nhiều nguồn phát xạ, bức xạ hoặc những cảm ứng trên máy thu trong hệ thống thông tin vô tuyến điện, dẫn đến làm giảm chất lượng, gián đoạn hoặc bị mất hẳn thông tin mà có thể khôi phục được nếu không có những năng lượng không cần thiết đó.
 
-**Mã phân cấp:** 2700600000000000100000380262100009000030
+6. *Tỷ lệ lỗi bit (Bit Error Rate-BER)* là tỷ số giữa bit bị lỗi trên tổng số bit nhận được.
 
-**ID:** dk_00046007
+Điều 27.6.TT.5.3. Giải thích từ ngữ
 
----
+(Điều 3 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
+Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 27.6.TT.11.2. Giải thích từ ngữ
+1. Pixel ảnh là phần tử ảnh nhỏ nhất ghi được trên thiết bị cảm biến của đầu thu ảnh.
 
-*Nội dung chưa có sẵn*
+2. Độ phân giải mặt đất của ảnh vệ tinh là kích thước một pixel ảnh vệ tinh chiếu trên mặt đất.
 
-**Chỉ mục:** 2
+3. Độ phân giải danh nghĩa của ảnh vệ tinh là độ phân giải lý thuyết của ảnh do nhà cung cấp ảnh vệ tinh thương mại công bố trong các tài liệu về chỉ tiêu kỹ thuật của loại ảnh vệ tinh đó.
 
-**Mã phân cấp:** 2700600000000000100000380262100010000020
+4. Bình đồ ảnh vệ tinh là sản phẩm ảnh vệ tinh dạng số đã được định vị trong hệ tọa độ của bản đồ cần thành lập, được hiệu chỉnh ảnh hưởng do chênh cao địa hình, được lấy mẫu lại theo độ phân giải danh nghĩa của ảnh vệ tinh, được cắt, ghép theo mảnh bản đồ và được đặt tên theo phiên hiệu của mảnh bản đồ tương ứng.
 
-**ID:** dk_00046008
+5. Mô hình số địa hình (Digital Terrain Model, viết tắt là DTM) là mô hình số độ cao thể hiện dáng của bề mặt địa hình.
 
----
+6. Định dạng GeoTIFF là định dạng đặc biệt của tệp tin lưu trữ dữ liệu ảnh số có kèm theo các thông tin định vị địa lý của tấm ảnh.
 
+7. Định dạng TIN (Triangulation Irregular Network) là một loại định dạng dùng để lưu trữ mô hình số địa hình ở dạng mạng lưới các tam giác không đều.
 
-### Điều 27.6.TT.12.3. Giải thích từ ngữ
+8. Định dạng GRID là định dạng đặc biệt dùng để lưu trữ mô hình số độ cao, mô hình số địa hình ở dạng lưới ô vuông, có thể ở dạng file mã nhị phân (binary), hoặc file mã ASCII (American Standard Code for Information Interchange - Mã chuẩn Mỹ về trao đổi thông tin).
 
-*Nội dung chưa có sẵn*
+9. Metadata: thường được gọi là siêu dữ liệu, là những thông tin mô tả các đặc tính của dữ liệu như nội dung, định dạng, chất lượng, điều kiện và các đặc tính khác nhằm chỉ dẫn về phương thức tiếp cận, cơ quan quản lý, địa chỉ truy cập, nơi lưu trữ, bảo quản dữ liệu.
 
-**Chỉ mục:** 3
+Điều 27.6.TT.6.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 2700600000000000100000380267090013000030
+(Điều 3 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**ID:** dk_00046009
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
----
+1. *Đặt chụp ảnh viễn thám* là việc xác định yêu cầu chụp ảnh, xây dựng đơn hàng và theo dõi quá trình thực hiện đơn hàng đặt chụp ảnh viễn thám.
 
+2. *Bên đặt chụp ảnh viễn thám* (sau đây gọi là Bên đặt chụp ảnh) là cơ quan, tổ chức có chức năng đặt chụp ảnh viễn thám và được cấp có thẩm quyền cho phép.
 
-### Điều 27.6.NĐ.4. Nguyên tắc trong hoạt động viễn thám
+3. *Khách hàng* là các cơ quan, tổ chức hoặc cá nhân có nhu cầu về đặt chụp ảnh viễn thám.
+
+4. *Đơn hàng đặt ảnh viễn thám* là thỏa thuận về đặt chụp dữ liệu ảnh viễn thám giữa khách hàng và bên đặt chụp ảnh.
+
+5. *Ả**nh xem nhanh* (từ tiếng Anh là Quicklook) là ảnh có kích thước nhỏ, được rút gọn từ ảnh thực.
+
+6. *Kích thước đặt ảnh viễn thám t**ố**i thiểu* là diện tích và độ dài cạnh nhỏ nhất cho phép của vùng đặt chụp ảnh trên thực địa và được quy định riêng đối với từng loại ảnh viễn thám.
+
+Điều 27.6.TT.9.3. Giải thích từ ngữ
+
+(Điều 3 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Điểm khống chế ảnh viễn thám là điểm địa vật được đánh dấu vị trí trên ảnh viễn thám đồng thời được xác định trong Hệ tọa độ quốc gia VN-2000, hệ độ cao quốc gia.
+
+2. GNSS (Global Navigation Satellite System) là hệ thống dẫn đường bằng vệ tinh toàn cầu.
+
+3. RINEX (Receiver INdependent EXchange format) là chuẩn dữ liệu trị đo GNSS theo khuôn dạng dữ liệu sử dụng mã ASCII để thuận tiện cho việc xử lý không phụ thuộc máy thu hoặc phần mềm.
+
+Điều 27.6.TT.10.3. Giải thích thuật ngữ
+
+(Điều 3 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
+
+Trong Thông tư này, các thuật ngữ dưới đây được hiểu như sau:
+
+1. Sản phẩm ảnh viễn thámlà dữ liệu ảnh viễn thám đã được hiệu chỉnhbức xạ và hình học.
+
+2. Cơ sở dữ liệu viễn thám của các Bộ, ngành và địa phương là cơ sở dữ liệu viễn thám chứa dữ liệu ảnh viễn thám và siêu dữ liệu viễn thám do các Bộ, ngành và địa phương quản lý.
+
+3. Hạ tầng kỹ thuật công nghệ thông tin là tập hợp thiết bị tính toán (máy chủ, máy trạm), thiết bị kết nối mạng, thiết bị an ninh an toàn, thiết bị ngoại vi và thiết bị phụ trợ, mạng nội bộ, mạng diện rộng.
+
+4. Hệ thống cơ sở dữ liệu viễn thám quốc gia là hệ thống bao gồm các thành phần: Hạ tầng kỹ thuật công nghệ thông tin; cơ sở dữ liệu viễn thám quốc gia; phần mềm ứng dụng; chính sách và quy định quản lý, cập nhật, vận hành, khai thác sử dụng hệ thống cơ sở dữ liệu viễn thám quốc gia.
+
+Điều 27.6.TT.11.2. Giải thích từ ngữ
+
+(Điều 2 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Bản đồ chuyên đề: là một loại bản đồ thể hiện một chủ đề riêng của một vùng địa lý cụ thể về tài nguyên, môi trường. Bản đồ chuyên đề được thành lập bằng tư liệu ảnh viễn thám được phân thành 2 nhóm cơ bản là nhóm bản đồ hiện trạng và nhóm bản đồ tổng hợp, biến động.
+
+2. Bản đồ hiện trạng: là một loại bản đồ chuyên đề được thành lập bằng tư liệu ảnh viễn thám tại một thời điểm hoặc một giai đoạn nhất định để khai thác thông tin phục vụ thành lập bản đồ hiện trạng của thời điểm đó.
+
+3. Bản đồ tổng hợp, biến động: là một loại bản đồ chuyên đề được thành lập bằng tư liệu ảnh viễn thám của một giai đoạn hoặc nhiều giai đoạn khác nhau để khai thác thông tin phục vụ thành lập các bản đồ dẫn xuất theo từng thời điểm và xử lý tổng hợp thành bản đồ tổng hợp, biến động.
+
+4. Bản đồ dẫn xuất: là bản đồ trung gian được thành lập tại các thời điểm khác nhau để tích hợp, chồng ghép thành bản đồ tổng hợp, biến động.
+
+Điều 27.6.TT.12.3. Giải thích từ ngữ
+
+(Điều 3 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. *Dữ liệu viễn thảm quang học độ phân giải thấp* là dữ liệu ảnh viễn thám quang học có kích thước của một (01) điểm ảnh (pixel) chiếu trên mặt đất lớn hơn 100m.
+
+2. *Bề mặt nước biển* là bề mặt nước của đại dương có độ dày trong khoảng xấp xỉ 1mm.
+
+3. *Bản đồ hàm lượng diệp lục bề mặt nước biển* là bản đồ chuyên đề thể hiện nội dung thông tin về phân bố hàm lượng chất diệp lục nhóm a (chlorophyll-a) có trong thực vật trên bề mặt nước biển.
+
+4. *Bản đồ nhiệt độ bề mặt nước biển* là bản đồ chuyên đề thể hiện nội dung thông tin về trường nhiệt độ của bề mặt nước biển.
 
 Điều 27.6.NĐ.4. Nguyên tắc trong hoạt động viễn thám
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000100000400000000000000000
+1. Dữ liệu ảnh viễn thám, siêu dữ liệu, sản phẩm viễn thám phải được cập nhật thường xuyên, cung cấp đầy đủ, chính xác, kịp thời phục vụ yêu cầu phát triển kinh tế - xã hội, quan trắc, giám sát tài nguyên, môi trường, tìm kiếm cứu nạn, phòng chống thiên tai, quốc phòng, an ninh.
 
-**ID:** dk_00046010
+2. Công trình hạ tầng thu nhận dữ liệu ảnh viễn thám xây dựng bằng ngân sách nhà nước là tài sản công, phải được kế thừa, sử dụng chung, được quản lý và bảo vệ theo quy định của pháp luật.
 
----
+3. Cơ sở dữ liệu ảnh viễn thám quốc gia phải được duy trì, vận hành và cập nhật thường xuyên để xây dựng, cập nhật cơ sở dữ liệu nền địa lý quốc gia, bản đồ địa hình quốc gia và dữ liệu không gian địa lý quốc gia, tuân thủ các quy định của pháp luật về an toàn thông tin mạng.
 
+4. Ngân sách trung ương bảo đảm cho các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức thực hiện công tác quản lý nhà nước về viễn thám; xây dựng và vận hành hệ thống thu nhận dữ liệu ảnh viễn thám; thu nhận, lưu trữ, xử lý, cung cấp, khai thác và sử dụng dữ liệu ảnh viễn thám; xây dựng cơ sở dữ liệu ảnh viễn thám.
 
-### Điều 27.6.QĐ.1.4. Nguyên tắc thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia
+5. Ngân sách địa phương bảo đảm cho Ủy ban nhân dân các cấp tổ chức thực hiện công tác quản lý nhà nước về viễn thám; thu nhận, lưu trữ, xử lý, cung cấp, khai thác và sử dụng dữ liệu ảnh viễn thám; xây dựng cơ sở dữ liệu ảnh viễn thám thuộc phạm vi quản lý.
 
-Điều 27.6.QĐ.1.4. Nguyên tắc thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Giải thích từ ngữ; Điều 4. Nguyên tắc cơ bản trong hoạt động đo đạc và bản đồ; Điều 5. Chính sách của Nhà nước về đo đạc và bản đồ; Điều 6. Các hành vi bị nghiêm cấm trong hoạt động đo đạc và bản đồ; Điều 7. Hoạt động khoa học và công nghệ về đo đạc và bản đồ; Điều 8. Hợp tác quốc tế về đo đạc và bản đồ; Điều 9. Tài chính cho hoạt động đo đạc và bản đồ của Luật 27/2018/QH14 Đo đạc và bản đồ ban hành ngày 14/06/2018; Chương II HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ CƠ BẢN; Chương X ĐIỀU KHOẢN THI HÀNH của của Đề mục Đo đạc và bản đồ ban hành ngày 14/06/2018; Điều 27.1.LQ.1. Phạm vi điều chỉnh; Điều 27.1.LQ.2. Đối tượng áp dụng; Điều 27.1.LQ.3. Giải thích từ ngữ; Điều 27.1.LQ.4. Nguyên tắc cơ bản trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.5. Chính sách của Nhà nước về đo đạc và bản đồ; Điều 27.1.LQ.6. Các hành vi bị nghiêm cấm trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.7. Hoạt động khoa học và công nghệ về đo đạc và bản đồ; Điều 27.1.LQ.8. Hợp tác quốc tế về đo đạc và bản đồ; Điều 27.1.LQ.9. Tài chính cho hoạt động đo đạc và bản đồ; Điều 27.1.LQ.10. Nội dung hoạt động đo đạc và bản đồ cơ bản; Điều 27.1.LQ.11. Hệ thống số liệu gốc đo đạc quốc gia, hệ tọa độ quốc gia, hệ độ cao quốc gia và hệ trọng lực quốc gia; Điều 27.1.LQ.12. Hệ thống số liệu các mạng lưới đo đạc quốc gia; Điều 27.1.LQ.13. Dữ liệu ảnh hàng không; Điều 27.1.LQ.14. Dữ liệu ảnh viễn thám; Điều 27.1.LQ.15. Cơ sở dữ liệu nền địa lý quốc gia và hệ thống bản đồ địa hình quốc gia; Điều 27.1.LQ.16. Xây dựng, vận hành, cập nhật cơ sở dữ liệu nền địa lý quốc gia và thành lập, cập nhật hệ thống bản đồ địa hình quốc gia; Điều 27.1.LQ.17. Đo đạc và bản đồ về biên giới quốc gia; Điều 27.1.LQ.18. Thể hiện biên giới quốc gia, chủ quyền lãnh thổ; Điều 27.1.LQ.19. Đo đạc và bản đồ về địa giới hành chính; Điều 27.1.LQ.20. Yêu cầu, nguyên tắc và các trường hợp chuẩn hóa địa danh; Điều 27.1.LQ.21. Trách nhiệm chuẩn hóa địa danh, sử dụng địa danh đã được chuẩn hóa; Điều 27.1.LQ.22. Nội dung hoạt động đo đạc và bản đồ chuyên ngành; Điều 27.1.LQ.23. Hệ thống số liệu các mạng lưới đo đạc cơ sở chuyên ngành; Điều 27.1.LQ.24. Đo đạc và bản đồ quốc phòng; Điều 27.1.LQ.25. Đo đạc, thành lập bản đồ địa chính; Điều 27.1.LQ.26. Thành lập bản đồ hành chính; Điều 27.1.LQ.27. Đo đạc, thành lập hải đồ; Điều 27.1.LQ.28. Đo đạc, thành lập bản đồ hàng không dân dụng; Điều 27.1.LQ.29. Đo đạc, thành lập bản đồ công trình ngầm; Điều 27.1.LQ.30. Đo đạc, thành lập bản đồ phục vụ phòng, chống thiên tai, cứu hộ, cứu nạn, khắc phục sự cố môi trường, ứng phó với biến đổi khí hậu; Điều 27.1.LQ.31. Thành lập tập bản đồ; đo đạc, thành lập các loại bản đồ chuyên ngành khác; Điều 27.1.LQ.32. Tiêu chuẩn, quy chuẩn kỹ thuật về đo đạc và bản đồ; Điều 27.1.LQ.33. Kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo sử dụng trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.34. Quản lý chất lượng sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.35. Các loại công trình hạ tầng đo đạc; Điều 27.1.LQ.36. Xây dựng, vận hành, bảo trì công trình hạ tầng đo đạc; Điều 27.1.LQ.37. Sử dụng mốc đo đạc; Điều 27.1.LQ.38. Bảo vệ công trình hạ tầng đo đạc; Điều 27.1.LQ.39. Hệ thống thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.40. Cơ sở dữ liệu đo đạc và bản đồ; Điều 27.1.LQ.41. Lưu trữ, bảo mật, cung cấp, trao đổi, khai thác, sử dụng thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.42. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.43. Quy định chung về hạ tầng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.44. Xây dựng hạ tầng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.45. Dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.46. Dịch vụ về dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.47. Sử dụng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.48. Cổng thông tin không gian địa lý Việt Nam; Điều 27.1.LQ.49. Yêu cầu đối với xuất bản bản đồ; Điều 27.1.LQ.50. Hoạt động xuất bản bản đồ; Điều 27.1.LQ.51. Giấy phép hoạt động đo đạc và bản đồ; Điều 27.1.LQ.52. Điều kiện cấp giấy phép hoạt động đo đạc và bản đồ; Điều 27.1.LQ.53. Chứng chỉ hành nghề đo đạc và bản đồ; Điều 27.1.LQ.54. Thông tin về tổ chức, cá nhân tham gia hoạt động đo đạc và bản đồ; Điều 27.1.LQ.55. Quyền và nghĩa vụ của tổ chức hoạt động đo đạc và bản đồ; Điều 27.1.LQ.56. Quyền và nghĩa vụ của cá nhân hành nghề độc lập về đo đạc và bản đồ; Điều 27.1.LQ.57. Trách nhiệm của Chính phủ, Bộ và cơ quan ngang Bộ; Điều 27.1.LQ.58. Trách nhiệm của Ủy ban nhân dân các cấp; Điều 27.1.LQ.59. Thanh tra, xử lý vi phạm pháp luật về đo đạc và bản đồ; Điều 27.1.LQ.60. Hiệu lực thi hành; Điều 27.1.LQ.61. Điều khoản chuyển tiếp của ; Điều 3.3.TT.12.1. của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.2. của của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.3. của )Điều 27.6.QĐ.1.4. Nguyên tắc thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 4
+(Điều 4 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 2700600000000000100000450238430081000040
+1. Việc thu nhận và lưu trữ dữ liệu viễn thám quốc gia do Bộ Tài nguyên và Môi trường chủ trì thực hiện.
 
-**ID:** dk_00046011
+2. Việc thu nhận và xử lý dữ liệu viễn thám quốc gia phải thực hiện đúng quy trình và các yêu cầu kỹ thuật, bảo đảm tính khoa học, chính xác, trung thực, đáp ứng kịp thời, thuận tiện cho khai thác và sử dụng.
 
----
-
-
-### Điều 27.6.NĐ.5. Danh mục các hoạt động khoa học và công nghệ về viễn thám được ưu tiên
+3. Việc khai thác và sử dụng dữ liệu viễn thám quốc gia phải đúng mục đích, phục vụ công tác quản lý nhà nước, đáp ứng các yêu cầu phát triển kinh tế - xã hội, nghiên cứu khoa học, đào tạo và phòng tránh thiên tai.
 
 Điều 27.6.NĐ.5. Danh mục các hoạt động khoa học và công nghệ về viễn thám được ưu tiên
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000100000500000000000000000
+ 1. Nghiên cứu cơ sở khoa học để hoàn thiện thể chế, pháp luật về viễn thám.
 
-**ID:** dk_00046012
+ 2. Nghiên cứu phát triển, ứng dụng, chuyển giao công nghệ cao, công nghệ tiên tiến, công nghệ mới trong hoạt động viễn thám phục vụ điều tra cơ bản, quản lý, quan trắc và giám sát khai thác, sử dụng tài nguyên thiên nhiên và bảo vệ môi trường, phòng, chống và giảm nhẹ thiên tai, ứng phó biến đổi khí hậu, cứu hộ, cứu nạn, khắc phục sự cố môi trường; tổ chức và quản lý lãnh thổ, quốc phòng, an ninh, chỉ đạo điều hành trong sản xuất nông nghiệp; nghiên cứu cơ bản về trái đất.Điều 27.6.NĐ.6. Các ứng dụng dữ liệu ảnh viễn thám
 
----
+(Điều 6 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
+Dữ liệu ảnh viễn thám được khai thác và sử dụng phục vụ các hoạt động sau:
 
-### Điều 27.6.NĐ.6. Các ứng dụng dữ liệu ảnh viễn thám
+1. Quan trắc, giám sát về ô nhiễm môi trường: đất, nước do chất thải sinh hoạt và chất thải công nghiệp; không khí do khí phát thải công nghiệp và sinh hoạt; ô nhiễm môi trường do thiên tai, các khoáng chất tự nhiên độc hại phát tán vào môi trường, khai thác khoáng sản; kiểm kê khí nhà kính.
 
-*Nội dung chưa có sẵn*
+2. Công tác thu thập thông tin, dữ liệu, phân tích, điều tra, đánh giá, theo dõi diễn biến tài nguyên, môi trường định kỳ và đột xuất nhằm đưa ra các báo cáo phục vụ phát triển kinh tế - xã hội; phòng, chống thiên tai; giám sát hạn hán, cảnh báo cháy rừng, diễn biến lũ lụt, cứu hộ cứu nạn và ứng phó với biến đổi khí hậu; hiện trạng sản xuất nông nghiệp.
 
-**Chỉ mục:** 6
+3. Xây dựng, cập nhật bản đồ chuyên đề và cơ sở dữ liệu chuyên đề về hiện trạng tài nguyên thiên nhiên và môi trường, thực trạng biến đổi khí hậu; lập bản đồ địa chất các tỷ lệ.
 
-**Mã phân cấp:** 2700600000000000100000600000000000000000
+4. Cập nhật cơ sở dữ liệu nền địa lý quốc gia, hệ thống bản đồ địa hình quốc gia.
 
-**ID:** dk_00046013
+5. Phục vụ công tác quốc phòng, an ninh.
 
----
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Giải thích từ ngữ; Điều 4. Nguyên tắc cơ bản trong hoạt động đo đạc và bản đồ; Điều 5. Chính sách của Nhà nước về đo đạc và bản đồ; Điều 6. Các hành vi bị nghiêm cấm trong hoạt động đo đạc và bản đồ; Điều 7. Hoạt động khoa học và công nghệ về đo đạc và bản đồ; Điều 8. Hợp tác quốc tế về đo đạc và bản đồ; Điều 9. Tài chính cho hoạt động đo đạc và bản đồ của Luật 27/2018/QH14 Đo đạc và bản đồ ban hành ngày 14/06/2018; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Điều 1. Phạm vi điều chỉnh
 
+1. Thông tư này quy định chi tiết khoản 5 Điều 10 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường (sau đây viết tắt là Nghị định số 73/2017/NĐ-CP).; Điều 1. Phạm vi điều chỉnh
 
-### Điều 27.6.NĐ.7. Hệ thống thu nhận dữ liệu ảnh viễn thám
+1. Thông tư này quy định chi tiết khoản 5 Điều 10 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường (sau đây viết tắt là Nghị định số 73/2017/NĐ-CP).; Điều 2. Đối tượng áp dụng
+
+1. Các cơ quan, tổ chức, cá nhân có hoạt động thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.; Điều 2. Đối tượng áp dụng
+
+1. Các cơ quan, tổ chức, cá nhân có hoạt động thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.; Điều 3. Giải thích từ ngữ
+
+1. Danh sách thông tin, dữ liệu tài nguyên và môi trường là liệt kê các đối tượng thông tin, dữ liệu tài nguyên và môi trường để thực hiện công tác thu thập, lưu trữ, bảo quản, công bố, cung cấp và sử dụng.[Home1]; Điều 3. Giải thích từ ngữ
+
+1. Danh sách thông tin, dữ liệu tài nguyên và môi trường là liệt kê các đối tượng thông tin, dữ liệu tài nguyên và môi trường để thực hiện công tác thu thập, lưu trữ, bảo quản, công bố, cung cấp và sử dụng.[Home1]; Điều 4. Yêu cầu thu thập, quản lý thông tin, dữ liệu tài nguyên và môi trường
+
+1. Thu thập đầy đủ, toàn diện và đánh giá chính xác thông tin, dữ liệu tài nguyên và môi trường.; Điều 4. Yêu cầu thu thập, quản lý thông tin, dữ liệu tài nguyên và môi trường
+
+1. Thu thập đầy đủ, toàn diện và đánh giá chính xác thông tin, dữ liệu tài nguyên và môi trường.; Điều 5. Lập kế hoạch thu thập thông tin, dữ liệu tài nguyên và môi trường
+
+1. Nguyên tắc lập kế hoạch thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 6. Hình thức thu thập thông tin, dữ liệu tài nguyên và môi trường
+
+1. Hình thức thu thập thông tin, dữ liệu tài nguyên và môi trường gồm:; Điều 7. Quy trình tiếp nhận thông tin, dữ liệu tài nguyên và môi trường
+
+Quy trình tiếp nhận thông tin, dữ liệu tài nguyên và môi trường được giao nộp quy định tại khoản 2 Điều 6 Thông tư này được thực hiện theo các bước sau:; Điều 8. Quy trình thu thập, cập nhật thông tin mô tả về thông tin, dữ liệu tài nguyên và môi trường
+
+Quy trình thu thập, cập nhật thông tin mô tả về thông tin, dữ liệu tài nguyên và môi trường theo quy định tại khoản 3 Điều 6 Thông tư này bao gồm các bước sau:
+
+1. Chuẩn bị thu thập, cập nhật thông tin mô tả
+
+a) Khảo sát về hiện trạng thông tin, dữ liệu;
+
+b) Xác định phương án, thời gian, địa điểm thực hiện;; Điều 9. Quy trình xây dựng danh mục thông tin, dữ liệu tài nguyên và môi trường
+
+1. Chuẩn bị xây dựng danh mục thông tin, dữ liệu
+
+a) Chuẩn bị thông tin mô tả về thông tin, dữ liệu;; Điều 10. Xây dựng, cung cấp danh mục thông tin, dữ liệu tài nguyên và môi trường
+
+Các Bộ, ngành, Ủy ban nhân dân cấp tỉnh chỉ đạo đơn vị đầu mối về thông tin, dữ liệu tài nguyên và môi trường:; Điều 11. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường phục vụ tra cứu, tìm kiếm, cung cấp sử dụng
+
+1. Danh mục thông tin, dữ liệu phải được công bố đầy đủ theo quy định tại Điều 15 Nghị định số 73/2017/NĐ-CP. Thời gian công bố trước 31 tháng 12 hàng năm và được cập nhật thường xuyên theo tình hình thực tế.; Điều 12. Thu thập thông tin, dữ liệu tài nguyên và môi trường của các tổ chức, cá nhân
+
+1. Khuyến khích các tổ chức, cá nhân cung cấp thông tin mô tả và danh mục thông tin, dữ liệu tài nguyên và môi trường theo quy định tại điểm c khoản 1 Điều 6 Thông tư này cho các đơn vị đầu mối về thông tin, dữ liệu tài nguyên và môi trường và cung cấp, chia sẻ sử dụng thông tin, dữ liệu tài nguyên và môi trường cho xã hội. Tổ chức, cá nhân cung cấp thông tin quy định tại khoản này được cơ quan tiếp nhận xác nhận việc giao nộp, hiến tặng thông tin, dữ liệu.; Điều 13. Hệ thống thông tin quản lý, cung cấp, khai thác thông tin, dữ liệu tài nguyên và môi trường
+
+1. Các đơn vị quản lý thông tin, dữ liệu tài nguyên và môi trường xây dựng, vận hành hệ thống thông tin, số hóa, xây dựng cơ sở dữ liệu phục vụ nghiệp vụ chuyên môn quản lý, lưu trữ, tra cứu, cung cấp và yêu cầu cập nhật thường xuyên của thông tin, dữ liệu tài nguyên và môi trường.; Điều 14. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+1. Thực hiện các quy định tại khoản 1, khoản 2 và khoản 3 Điều 27 Nghị định số 73/2017/NĐ-CP và chỉ đạo Sở Tài nguyên và Môi trường thực hiện:; Điều 15. Trách nhiệm của các Bộ, ngành có thông tin, dữ liệu tài nguyên và môi trường
+
+1. Thực hiện theo các quy định tại khoản 1 và khoản 2 Điều 26 Nghị định số 73/2017/NĐ-CP.; Điều 16. Các đơn vị trực thuộc Bộ Tài nguyên và Môi trường
+
+1. Các đơn vị trực thuộc Bộ Tài nguyên và Môi trường có liên quan đến thu thập, công bố, cung cấp thông tin, dữ liệu tài nguyên và môi trường, có trách nhiệm:; Điều 17. Công tác báo cáo
+
+1. Trước ngày 30 tháng 11 hàng năm, đơn vị thực hiện nhiệm vụ về thông tin, dữ liệu tài nguyên và môi trường gửi báo cáo về công tác thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường về đơn vị đầu mối về thông tin, dữ liệu tài nguyên và môi trường.; Điều 18. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 08 tháng 02 năm 2019.; Điều 19. Tổ chức thực hiện
+
+1. Cục trưởng Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường chịu trách nhiệm hướng dẫn, theo dõi, kiểm tra việc thực hiện Thông tư này. của Thông tư 32/2018/TT-BTNMT Quy định thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ lưu trữ, bảo quản, công bố, cung cấp và sử dụng ban hành ngày 26/12/2018; Chương X ĐIỀU KHOẢN THI HÀNH; Chương II HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ CƠ BẢN của của Đề mục Đo đạc và bản đồ; Điều 27.1.LQ.1. Phạm vi điều chỉnh; Điều 27.1.LQ.2. Đối tượng áp dụng; Điều 27.1.LQ.3. Giải thích từ ngữ; Điều 27.1.LQ.4. Nguyên tắc cơ bản trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.5. Chính sách của Nhà nước về đo đạc và bản đồ; Điều 27.1.LQ.6. Các hành vi bị nghiêm cấm trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.7. Hoạt động khoa học và công nghệ về đo đạc và bản đồ; Điều 27.1.LQ.8. Hợp tác quốc tế về đo đạc và bản đồ; Điều 27.1.LQ.9. Tài chính cho hoạt động đo đạc và bản đồ; Điều 27.1.LQ.10. Nội dung hoạt động đo đạc và bản đồ cơ bản; Điều 27.1.LQ.11. Hệ thống số liệu gốc đo đạc quốc gia, hệ tọa độ quốc gia, hệ độ cao quốc gia và hệ trọng lực quốc gia; Điều 27.1.LQ.12. Hệ thống số liệu các mạng lưới đo đạc quốc gia; Điều 27.1.LQ.13. Dữ liệu ảnh hàng không; Điều 27.1.LQ.14. Dữ liệu ảnh viễn thám; Điều 27.1.LQ.15. Cơ sở dữ liệu nền địa lý quốc gia và hệ thống bản đồ địa hình quốc gia; Điều 27.1.LQ.16. Xây dựng, vận hành, cập nhật cơ sở dữ liệu nền địa lý quốc gia và thành lập, cập nhật hệ thống bản đồ địa hình quốc gia; Điều 27.1.LQ.17. Đo đạc và bản đồ về biên giới quốc gia; Điều 27.1.LQ.18. Thể hiện biên giới quốc gia, chủ quyền lãnh thổ; Điều 27.1.LQ.19. Đo đạc và bản đồ về địa giới hành chính; Điều 27.1.LQ.20. Yêu cầu, nguyên tắc và các trường hợp chuẩn hóa địa danh; Điều 27.1.LQ.21. Trách nhiệm chuẩn hóa địa danh, sử dụng địa danh đã được chuẩn hóa; Điều 27.1.LQ.22. Nội dung hoạt động đo đạc và bản đồ chuyên ngành; Điều 27.1.LQ.23. Hệ thống số liệu các mạng lưới đo đạc cơ sở chuyên ngành; Điều 27.1.LQ.24. Đo đạc và bản đồ quốc phòng; Điều 27.1.LQ.25. Đo đạc, thành lập bản đồ địa chính; Điều 27.1.LQ.26. Thành lập bản đồ hành chính; Điều 27.1.LQ.27. Đo đạc, thành lập hải đồ; Điều 27.1.LQ.28. Đo đạc, thành lập bản đồ hàng không dân dụng; Điều 27.1.LQ.29. Đo đạc, thành lập bản đồ công trình ngầm; Điều 27.1.LQ.30. Đo đạc, thành lập bản đồ phục vụ phòng, chống thiên tai, cứu hộ, cứu nạn, khắc phục sự cố môi trường, ứng phó với biến đổi khí hậu; Điều 27.1.LQ.31. Thành lập tập bản đồ; đo đạc, thành lập các loại bản đồ chuyên ngành khác; Điều 27.1.LQ.32. Tiêu chuẩn, quy chuẩn kỹ thuật về đo đạc và bản đồ; Điều 27.1.LQ.33. Kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo sử dụng trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.34. Quản lý chất lượng sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.35. Các loại công trình hạ tầng đo đạc; Điều 27.1.LQ.36. Xây dựng, vận hành, bảo trì công trình hạ tầng đo đạc; Điều 27.1.LQ.37. Sử dụng mốc đo đạc; Điều 27.1.LQ.38. Bảo vệ công trình hạ tầng đo đạc; Điều 27.1.LQ.39. Hệ thống thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.40. Cơ sở dữ liệu đo đạc và bản đồ; Điều 27.1.LQ.41. Lưu trữ, bảo mật, cung cấp, trao đổi, khai thác, sử dụng thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.42. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.43. Quy định chung về hạ tầng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.44. Xây dựng hạ tầng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.45. Dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.46. Dịch vụ về dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.47. Sử dụng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.48. Cổng thông tin không gian địa lý Việt Nam; Điều 27.1.LQ.49. Yêu cầu đối với xuất bản bản đồ; Điều 27.1.LQ.50. Hoạt động xuất bản bản đồ; Điều 27.1.LQ.51. Giấy phép hoạt động đo đạc và bản đồ; Điều 27.1.LQ.52. Điều kiện cấp giấy phép hoạt động đo đạc và bản đồ; Điều 27.1.LQ.53. Chứng chỉ hành nghề đo đạc và bản đồ; Điều 27.1.LQ.54. Thông tin về tổ chức, cá nhân tham gia hoạt động đo đạc và bản đồ; Điều 27.1.LQ.55. Quyền và nghĩa vụ của tổ chức hoạt động đo đạc và bản đồ; Điều 27.1.LQ.56. Quyền và nghĩa vụ của cá nhân hành nghề độc lập về đo đạc và bản đồ; Điều 27.1.LQ.57. Trách nhiệm của Chính phủ, Bộ và cơ quan ngang Bộ; Điều 27.1.LQ.58. Trách nhiệm của Ủy ban nhân dân các cấp; Điều 27.1.LQ.59. Thanh tra, xử lý vi phạm pháp luật về đo đạc và bản đồ; Điều 27.1.LQ.60. Hiệu lực thi hành; Điều 27.1.LQ.61. Điều khoản chuyển tiếp; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện; Điều 3.3.TT.12.1.; Điều 3.3.TT.12.2.; Điều 3.3.TT.12.3.)Chương II
+
+HỆ THỐNG THU NHẬN DỮ LIỆU ẢNH VIỄN THÁM
 
 Điều 27.6.NĐ.7. Hệ thống thu nhận dữ liệu ảnh viễn thám
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000200000700000000000000000
+Hệ thống thu nhận dữ liệu ảnh viễn thám bao gồm vệ tinh viễn thám, công trình hạ tầng thu nhận dữ liệu ảnh viễn thám, hệ thống lưu trữ, xử lý dữ liệu ảnh viễn thám và mạng lưới truyền dẫn dữ liệu ảnh viễn thám.
 
-**ID:** dk_00046015
-
----
-
-
-### Điều 27.6.QĐ.1.5. Thu nhận, xử lý dữ liệu viễn thám quốc gia
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Nguyên tắc chung; Điều 4. Quản lý và vận hành vệ tinh VNREDSat-1; Điều 5. Khai thác vệ tinh VNREDSat-1; Điều 6. Kinh phí quản lý, vận hành vệ tinh VNREDSat-1; Điều 7. Cơ chế tài chính trong việc khai thác và sử dụng dữ liệu ảnh vệ tinh VNREDSat-1; Điều 8. Điều khoản thi hành của Quyết định 30/2014/QĐ-TTg Về việc quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1 ban hành ngày 26/04/2014)
 
 Điều 27.6.QĐ.1.5. Thu nhận, xử lý dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 5
+(Điều 5 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810000500
+1. Hình thức thu nhận dữ liệu viễn thám quốc gia bao gồm:
 
-**ID:** dk_00046016
+a) Việc thu nhận tại trạm thu ảnh vệ tinh ở Việt Nam được tiến hành theo kế hoạch hàng năm, định kỳ năm (05) năm và theo yêu cầu nhiệm vụ đột xuất được Nhà nước giao do Bộ Tài nguyên và Môi trường quản lý.
 
----
+Việc thu nhận này được tiến hành theo kế hoạch hằng năm, định kỳ năm (05) năm, dựa trên nhu cầu của các Bộ, ngành, Ủy ban nhân dân cấp tỉnh và theo yêu cầu nhiệm vụ đột xuất được nhà nước giao;
 
+b) Mua của nước ngoài bằng nguồn vốn ngân sách nhà nước trong trường hợp trạm thu ảnh vệ tinh ở Việt Nam và cơ sở dữ liệu viễn thám quốc gia không đáp ứng được yêu cầu về dữ liệu viễn thám;
 
-### Điều 27.6.QĐ.1.6. Lưu trữ dữ liệu viễn thám quốc gia
+c) Thông qua trao đổi, hợp tác và nhận viện trợ của các quốc gia, các vùng lãnh thổ và các tổ chức quốc tế nhưng phải được cơ quan có thẩm quyền chấp thuận.
+
+d) Việc thu nhận tại trạm thu ảnh vệ tinh do nước ngoài cung cấp hoặc liên doanh với nước ngoài được tiến hành theo kế hoạch do cơ quan, tổ chức sở hữu trạm thu ảnh vệ tinh quản lý.
+
+2. Dữ liệu viễn thám dạng bản gốc trước khi đưa vào khai thác và sử dụng phải xử lý để tạo ra dữ liệu ảnh thô hoặc dữ liệu sản phẩm ảnh tại trạm thu ảnh vệ tinh ở Việt Nam theo yêu cầu nhiệm vụ được giao.
 
 Điều 27.6.QĐ.1.6. Lưu trữ dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 6
+(Điều 6 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810000600
+1. Dữ liệu viễn thám quốc gia được lưu trữ dưới dạng bản gốc, bản chính, bản sao, dữ liệu ảnh thô, dữ liệu sản phẩm ảnh và siêu dữ liệu.
 
-**ID:** dk_00046017
+2. Cơ sở dữ liệu viễn thám quốc gia phải đáp ứng các yêu cầu về kỹ thuật để bảo đảm cho dữ liệu viễn thám luôn ở trạng thái chất lượng tốt và an toàn, sắp xếp có hệ thống và khoa học, dễ cập nhật, thuận tiện cho việc khai thác và sử dụng, có khả năng bảo mật cao.
 
----
+3. Dữ liệu viễn thám quốc gia được lưu trữ trong hệ thống lưu trữ trực tuyến trên hệ thống máy chủ, hệ thống lưu trữ mạng hoặc lưu trữ trên các vật mang tin gồm băng từ, đĩa CD, DVD và các hình thức khác.
 
-
-### Điều 27.6.QĐ.1.7. Công bố siêu dữ liệu viễn thám quốc gia
+4. Dữ liệu viễn thám quốc gia quy định tại khoản 1 Điều này phải bảo quản và lưu trữ lâu dài theo quy định của pháp luật.
 
 Điều 27.6.QĐ.1.7. Công bố siêu dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 7
+(Điều 7 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810000700
+1. Siêu dữ liệu viễn thám quốc gia được cập nhật và công bố thường xuyên trên các phương tiện thông tin đại chúng, trên Internet, trang điện tử của cơ quan quản lý dữ liệu viễn thám quốc gia để phục vụ cho cộng đồng và yêu cầu phát triển kinh tế - xã hội, nghiên cứu khoa học, đào tạo và phòng tránh thiên tai.
 
-**ID:** dk_00046018
+2. Bộ Tài nguyên và Môi trường công số siêu dữ liệu viễn thám quốc gia thu tại trạm thu ảnh vệ tinh do Bộ quản lý và dữ liệu viễn thám quốc gia lưu trữ tại các cơ quan, tổ chức trực thuộc Bộ.
 
----
+3. Các Bộ, ngành, Ủy ban nhân dân cấp tỉnh công bố siêu dữ liệu viễn thám quốc gia do mình quản lý.
 
-
-### Điều 27.6.QĐ.1.8. Hình thức, thủ tục khai thác và sử dụng dữ liệu viễn thám quốc gia
+4. Cơ quan công bố siêu dữ liệu viễn thám quốc gia chịu trách nhiệm về dữ liệu mà mình công bố và phải tuân theo các quy định của pháp luật về bảo vệ bí mật nhà nước trong lĩnh vực tài nguyên và môi trường.
 
 Điều 27.6.QĐ.1.8. Hình thức, thủ tục khai thác và sử dụng dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 8
+(Điều 8 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810000800
+1. Việc khai thác và sử dụng dữ liệu trên mạng Internet, trang điện tử phải tuân theo quy định về quản lý dữ liệu viễn thám quốc gia.
 
-**ID:** dk_00046019
+2. Việc khai thác và sử dụng dữ liệu thông qua phiếu yêu cầu hoặc văn bản yêu cầu được thực hiện theo quy định sau đây:
 
----
+a) Cơ quan, tổ chức, cá nhân có nhu cầu khai thác và sử dụng dữ liệu gửi phiếu yêu cầu hoặc văn bản yêu cầu cho tổ chức quản lý dữ liệu viễn thám quốc gia;
 
+b) Khi nhận được phiếu yêu cầu hoặc văn bản yêu cầu hợp lệ của cơ quan, tổ chức, cá nhân thì tổ chức quản lý dữ liệu viễn thám quốc gia cung cấp dữ liệu cho cơ quan, tổ chức, cá nhân có yêu cầu khai thác và sử dụng. Thời hạn cung cấp theo Quy chế cung cấp dữ liệu của tổ chức quản lý dữ liệu viễn thám quốc gia;
 
-### Điều 27.6.QĐ.1.9. Trách nhiệm và quyền hạn của cơ quan, tổ chức, cá nhân khai thác và sử dụng dữ liệu viễn thám quốc gia
+c) Tổ chức quản lý dữ liệu viễn thám quốc gia có trách nhiệm đáp ứng yêu cầu khai thác và sử dụng dữ liệu viễn thám quốc gia của các cơ quan, tổ chức, cá nhân có yêu cầu. Trường hợp từ chối cung cấp dữ liệu thì phải có văn bản trả lời và nêu rõ lý do trong thời hạn chậm nhất là bảy (07) ngày, kể từ ngày nhận được phiếu yêu cầu hoặc văn bản yêu cầu của cơ quan, tổ chức, cá nhân.
+
+3. Việc khai thác và sử dụng dữ liệu thông qua hình thức hợp đồng dịch vụ hoặc văn bản thỏa thuận giữa bên cung cấp với bên khai thác và sử dụng theo quy định của pháp luật.
 
 Điều 27.6.QĐ.1.9. Trách nhiệm và quyền hạn của cơ quan, tổ chức, cá nhân khai thác và sử dụng dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 9
+(Điều 9 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810000900
+1. Tuân thủ quy định tại khoản 3 Điều 4 Quyết định này.
 
-**ID:** dk_00046020
+2. Không được chuyển giao cho bên thứ ba dữ liệu do tổ chức quản lý dữ liệu viễn thám quốc gia cung cấp, trừ trường hợp đã có điều khoản trong hợp đồng hoặc trong văn bản thỏa thuận với tổ chức cung cấp.
 
----
+3. Có nghĩa vụ tài chính về khai thác và sử dụng dữ liệu theo quy định tại khoản 2 Điều 11 Quyết định này.
 
+4. Thông báo kịp thời cho cơ quan quản lý dữ liệu viễn thám quốc gia về những sai sót của dữ liệu đã cung cấp.
 
-### Điều 27.6.QĐ.1.10. Kinh phí thu nhận, lưu trữ, xử lý dữ liệu viễn thám quốc gia
+5. Khiếu nại theo quy định của pháp luật khi bị vi phạm quyền khai thác và sử dụng dữ liệu.
 
 Điều 27.6.QĐ.1.10. Kinh phí thu nhận, lưu trữ, xử lý dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 10
+(Điều 10 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810001000
+1. Kinh phí thu nhận, xử lý dữ liệu ảnh thô, xây dựng, cập nhật và lưu trữ cơ sở dữ liệu viễn thám quốc gia do ngân sách nhà nước bảo đảm theo quy định của pháp luật.
 
-**ID:** dk_00046021
-
----
-
-
-### Điều 27.6.QĐ.1.11. Kinh phí khai thác và sử dụng dữ liệu viễn thám quốc gia
+2. Không dùng nguồn vốn ngân sách nhà nước để mua dữ liệu viễn thám do nước ngoài thu nhận, nếu các loại dữ liệu ảnh này thu được tại trạm thu ảnh vệ tinh của Việt Nam hoặc đã có trong cơ sở dữ liệu viễn thám quốc gia đáp ứng được yêu cầu khai thác và sử dụng.
 
 Điều 27.6.QĐ.1.11. Kinh phí khai thác và sử dụng dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 11
+(Điều 11 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810001100
+1. Khai thác và sử dụng dữ liệu viễn thám quốc gia phục vụ mục đích an ninh, quốc phòng hoặc trong tình trạng khẩn cấp chỉ phải trả chi phí cần thiết để thực hiện công việc cung cấp dịch vụ khai thác và sử dụng dữ liệu viễn thám quốc gia theo hướng dẫn của Bộ Tài chính.
 
-**ID:** dk_00046022
+2. Cơ quan, tổ chức, cá nhân khai thác và sử dụng dữ liệu không thuộc các trường hợp quy định tại khoản 1 Điều này phải thực hiện nghĩa vụ tài chính.
 
----
-
-
-### Điều 27.6.QĐ.1.12. Trách nhiệm và quyền hạn của Bộ Tài nguyên và Môi trường
+3. Bộ Tài chính chủ trì, phối hợp với Bộ Tài nguyên và Môi trường quy định mức phí và hướng dẫn việc thu, nộp, sử dụng phí khai thác và sử dụng dữ liệu viễn thám quốc gia.
 
 Điều 27.6.QĐ.1.12. Trách nhiệm và quyền hạn của Bộ Tài nguyên và Môi trường
 
-**Chỉ mục:** 12
+(Điều 12 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810001200
+1. Xây dựng và ban hành định mức kinh tế - kỹ thuật, tiêu chuẩn, quy chuẩn kỹ thuật về thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; đơn giá các loại dữ liệu sản phẩm ảnh.
 
-**ID:** dk_00046023
+2. Tổng hợp các nhu cầu và lập kế hoạch thu nhận, xử lý dữ liệu viễn thám theo kế hoạch hằng năm, định kỳ năm (05) năm và quản lý, theo dõi việc thu nhận, xử lý dữ liệu viễn thám theo nhiệm vụ đột xuất nhà nước giao.
 
----
+3. Hướng dẫn các Bộ, ngành, Ủy ban nhân dân cấp tỉnh việc lưu trữ, khai thác và sử dụng dữ liệu viễn thám quốc gia.
 
+4. Thu nhận, lưu trữ dữ liệu viễn thám của nước ngoài và Việt Nam thu tại trạm thu ảnh vệ tinh do Bộ quản lý và các dữ liệu viễn thám, sản phẩm viễn thám khác của Bộ.
 
-### Điều 27.6.QĐ.1.13. Trách nhiệm và quyền hạn của các Bộ, ngành, Ủy ban nhân dân cấp tỉnh
+5. Xây dựng, cập nhật, quản lý, vận hành cơ sở dữ liệu viễn thám quốc gia và cung cấp cho các cơ quan, tổ chức, cá nhân theo quy định của pháp luật.
+
+6. Xây dựng, cập nhật, công bố siêu dữ liệu viễn thám quốc gia theo quy định tại khoản 2 Điều 7 Quyết định này.
+
+7. Khai thác và sử dụng có hiệu quả dữ liệu viễn thám quốc gia trong các lĩnh vực thuộc Bộ quản lý.
+
+8. Thanh tra, kiểm tra việc chấp hành quy định của pháp luật về viễn thám và xử lý vi phạm pháp luật về viễn thám theo quy định của pháp luật.
 
 Điều 27.6.QĐ.1.13. Trách nhiệm và quyền hạn của các Bộ, ngành, Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 13
+(Điều 13 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810001300
+1. Xây dựng kế hoạch khai thác và sử dụng dữ liệu viễn thám phục vụ các nhiệm vụ hằng năm, định kỳ năm (05) năm của Bộ, ngành, địa phương và đề xuất nhu cầu về dữ liệu viễn thám, kể cả nhu cầu theo nhiệm vụ đột xuất với Bộ Tài nguyên và Môi trường.
 
-**ID:** dk_00046024
+2. Quản lý, lưu trữ, bổ sung, cập nhật dữ liệu viễn thám và xây dựng cơ sở dữ liệu viễn thám ở Bộ, ngành, địa phương để cung cấp cho các cơ quan, tổ chức, cá nhân theo quy định của pháp luật.
 
----
+3. Xây dựng, cập nhật, công bố siêu dữ liệu viễn thám ở Bộ, ngành, địa phương theo quy định tại khoản 3 Điều 7 Quyết định này để đáp ứng yêu cầu khai thác và sử dụng.
 
+4. Cung cấp bản sao và siêu dữ liệu viễn thám mua, nhận từ nước ngoài theo quy định tại điểm b và điểm c khoản 1 Điều 5 của Quyết định này cho Bộ Tài nguyên và Môi trường để tích hợp vào cơ sở dữ liệu viễn thám quốc gia trong thời hạn chậm nhất là ba (03) tháng, kể từ ngày nhận được dữ liệu từ nhà cung cấp.
 
-### Điều 27.6.QĐ.1.13a. Trách nhiệm của các cơ quan được Chính phủ giao quản lý vệ tinh viễn thám của Việt Nam
+5. Khai thác và sử dụng có hiệu quả dữ liệu viễn thám quốc gia trong các lĩnh vực thuộc Bộ, ngành và địa phương quản lý.
 
 Điều 27.6.QĐ.1.13a. Trách nhiệm của các cơ quan được Chính phủ giao quản lý vệ tinh viễn thám của Việt Nam
 
-**Chỉ mục:** 13a
+(Điều 13a Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 270060000000000020000070000000000000000000502384300810001301
+Trong vòng ba mươi (30) ngày kể từ ngày nhận được văn bản của Bộ Tài nguyên và Môi trường yêu cầu xác định khả năng chụp ảnh của vệ tinh viễn thám Việt Nam, cơ quan quản lý vệ tinh viễn thám có trách nhiệm trả lời để Bộ Tài nguyên và Môi trường tổng hợp, báo cáo Thủ tướng Chính phủ xem xét, quyết định việc mua tín hiệu hoặc dữ liệu ảnh viễn thám của nước ngoài.”
 
-**ID:** dk_00046025
+9. Thay cụm từ “dạng bản gốc” thành cụm từ “mức 0” tại Khoản 2 Điều 5 và Khoản 1 Điều 6; thay cụm từ “dữ liệu ảnh thô” thành cụm từ “dữ liệu viễn thám mức 0” tại Khoản 1 Điều 10 của Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia.
 
----
+Điều 27.6.NĐ.8. Vệ tinh viễn thám
 
+(Điều 8 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-### Điều 27.6.NĐ.8. Vệ tinh viễn thám
+1. Vệ tinh viễn thám là vệ tinh nhân tạo được trang bị các bộ cảm viễn thám nhằm thu thập thông tin về các đối tượng địa lý.
 
-*Nội dung chưa có sẵn*
+2. Việc xây dựng và phát triển vệ tinh viễn thám bằng ngân sách nhà nước nhằm mục đích phát triển kinh tế - xã hội, quốc phòng, an ninh, quản lý tài nguyên và môi trường, phòng, chống thiên tai, cứu hộ, cứu nạn, ứng phó với biến đổi khí hậu phải được thực hiện theo kế hoạch đã được Thủ tướng Chính phủ phê duyệt.
 
-**Chỉ mục:** 8
+3. Cơ quan chủ quản vận hành vệ tinh viễn thám phải định kỳ hàng năm báo cáo các thông tin vận hành vệ tinh viễn thám, việc truyền tín hiệu vệ tinh viễn thám cho Bộ Tài nguyên và Môi trường để tổng hợp, báo cáo Chính phủ. Việc báo cáo đột xuất được thực hiện khi có yêu cầu bằng văn bản của Bộ Tài nguyên và Môi trường.
 
-**Mã phân cấp:** 2700600000000000200000800000000000000000
+4. Các vệ tinh viễn thám được xây dựng bằng nguồn ngân sách nhà nước phải có chế độ ưu tiên thời gian chụp để đảm bảo cung cấp dữ liệu phục vụ công tác quốc phòng, an ninh, phòng chống thiên tai, tìm kiếm cứu hộ, cứu nạn.
 
-**ID:** dk_00046026
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Nguyên tắc chung; Điều 4. Quản lý và vận hành vệ tinh VNREDSat-1; Điều 5. Khai thác vệ tinh VNREDSat-1; Điều 6. Kinh phí quản lý, vận hành vệ tinh VNREDSat-1; Điều 7. Cơ chế tài chính trong việc khai thác và sử dụng dữ liệu ảnh vệ tinh VNREDSat-1; Điều 8. Điều khoản thi hành của Quyết định 30/2014/QĐ-TTg Về việc quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1 ban hành ngày 26/04/2014; Điều 1. Phạm vi điều chỉnh
 
----
+1. Thông tư này quy định chi tiết khoản 5 Điều 10 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường (sau đây viết tắt là Nghị định số 73/2017/NĐ-CP).; Điều 1. Phạm vi điều chỉnh
 
+1. Thông tư này quy định chi tiết khoản 5 Điều 10 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường (sau đây viết tắt là Nghị định số 73/2017/NĐ-CP).; Điều 2. Đối tượng áp dụng
 
-### Điều 27.6.NĐ.9. Xây dựng công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+1. Các cơ quan, tổ chức, cá nhân có hoạt động thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.; Điều 2. Đối tượng áp dụng
 
-Điều 27.6.NĐ.9. Xây dựng công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+1. Các cơ quan, tổ chức, cá nhân có hoạt động thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.; Điều 3. Giải thích từ ngữ
 
-**Chỉ mục:** 9
+1. Danh sách thông tin, dữ liệu tài nguyên và môi trường là liệt kê các đối tượng thông tin, dữ liệu tài nguyên và môi trường để thực hiện công tác thu thập, lưu trữ, bảo quản, công bố, cung cấp và sử dụng.[Home1]; Điều 3. Giải thích từ ngữ
 
-**Mã phân cấp:** 2700600000000000200000900000000000000000
+1. Danh sách thông tin, dữ liệu tài nguyên và môi trường là liệt kê các đối tượng thông tin, dữ liệu tài nguyên và môi trường để thực hiện công tác thu thập, lưu trữ, bảo quản, công bố, cung cấp và sử dụng.[Home1]; Điều 4. Yêu cầu thu thập, quản lý thông tin, dữ liệu tài nguyên và môi trường
 
-**ID:** dk_00046027
+1. Thu thập đầy đủ, toàn diện và đánh giá chính xác thông tin, dữ liệu tài nguyên và môi trường.; Điều 4. Yêu cầu thu thập, quản lý thông tin, dữ liệu tài nguyên và môi trường
 
----
+1. Thu thập đầy đủ, toàn diện và đánh giá chính xác thông tin, dữ liệu tài nguyên và môi trường.; Điều 5. Lập kế hoạch thu thập thông tin, dữ liệu tài nguyên và môi trường
 
+1. Nguyên tắc lập kế hoạch thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 6. Hình thức thu thập thông tin, dữ liệu tài nguyên và môi trường
 
-### Điều 27.6.NĐ.10. Vận hành, bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+1. Hình thức thu thập thông tin, dữ liệu tài nguyên và môi trường gồm:; Điều 7. Quy trình tiếp nhận thông tin, dữ liệu tài nguyên và môi trường
+
+Quy trình tiếp nhận thông tin, dữ liệu tài nguyên và môi trường được giao nộp quy định tại khoản 2 Điều 6 Thông tư này được thực hiện theo các bước sau:; Điều 8. Quy trình thu thập, cập nhật thông tin mô tả về thông tin, dữ liệu tài nguyên và môi trường
+
+Quy trình thu thập, cập nhật thông tin mô tả về thông tin, dữ liệu tài nguyên và môi trường theo quy định tại khoản 3 Điều 6 Thông tư này bao gồm các bước sau:
+
+1. Chuẩn bị thu thập, cập nhật thông tin mô tả
+
+a) Khảo sát về hiện trạng thông tin, dữ liệu;
+
+b) Xác định phương án, thời gian, địa điểm thực hiện;; Điều 9. Quy trình xây dựng danh mục thông tin, dữ liệu tài nguyên và môi trường
+
+1. Chuẩn bị xây dựng danh mục thông tin, dữ liệu
+
+a) Chuẩn bị thông tin mô tả về thông tin, dữ liệu;; Điều 10. Xây dựng, cung cấp danh mục thông tin, dữ liệu tài nguyên và môi trường
+
+Các Bộ, ngành, Ủy ban nhân dân cấp tỉnh chỉ đạo đơn vị đầu mối về thông tin, dữ liệu tài nguyên và môi trường:; Điều 11. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường phục vụ tra cứu, tìm kiếm, cung cấp sử dụng
+
+1. Danh mục thông tin, dữ liệu phải được công bố đầy đủ theo quy định tại Điều 15 Nghị định số 73/2017/NĐ-CP. Thời gian công bố trước 31 tháng 12 hàng năm và được cập nhật thường xuyên theo tình hình thực tế.; Điều 12. Thu thập thông tin, dữ liệu tài nguyên và môi trường của các tổ chức, cá nhân
+
+1. Khuyến khích các tổ chức, cá nhân cung cấp thông tin mô tả và danh mục thông tin, dữ liệu tài nguyên và môi trường theo quy định tại điểm c khoản 1 Điều 6 Thông tư này cho các đơn vị đầu mối về thông tin, dữ liệu tài nguyên và môi trường và cung cấp, chia sẻ sử dụng thông tin, dữ liệu tài nguyên và môi trường cho xã hội. Tổ chức, cá nhân cung cấp thông tin quy định tại khoản này được cơ quan tiếp nhận xác nhận việc giao nộp, hiến tặng thông tin, dữ liệu.; Điều 13. Hệ thống thông tin quản lý, cung cấp, khai thác thông tin, dữ liệu tài nguyên và môi trường
+
+1. Các đơn vị quản lý thông tin, dữ liệu tài nguyên và môi trường xây dựng, vận hành hệ thống thông tin, số hóa, xây dựng cơ sở dữ liệu phục vụ nghiệp vụ chuyên môn quản lý, lưu trữ, tra cứu, cung cấp và yêu cầu cập nhật thường xuyên của thông tin, dữ liệu tài nguyên và môi trường.; Điều 14. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+1. Thực hiện các quy định tại khoản 1, khoản 2 và khoản 3 Điều 27 Nghị định số 73/2017/NĐ-CP và chỉ đạo Sở Tài nguyên và Môi trường thực hiện:; Điều 15. Trách nhiệm của các Bộ, ngành có thông tin, dữ liệu tài nguyên và môi trường
+
+1. Thực hiện theo các quy định tại khoản 1 và khoản 2 Điều 26 Nghị định số 73/2017/NĐ-CP.; Điều 16. Các đơn vị trực thuộc Bộ Tài nguyên và Môi trường
+
+1. Các đơn vị trực thuộc Bộ Tài nguyên và Môi trường có liên quan đến thu thập, công bố, cung cấp thông tin, dữ liệu tài nguyên và môi trường, có trách nhiệm:; Điều 17. Công tác báo cáo
+
+1. Trước ngày 30 tháng 11 hàng năm, đơn vị thực hiện nhiệm vụ về thông tin, dữ liệu tài nguyên và môi trường gửi báo cáo về công tác thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường về đơn vị đầu mối về thông tin, dữ liệu tài nguyên và môi trường.; Điều 18. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 08 tháng 02 năm 2019. của Thông tư 32/2018/TT-BTNMT Quy định thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ lưu trữ, bảo quản, công bố, cung cấp và sử dụng ban hành ngày 26/12/2018; Điều 19. Tổ chức thực hiện
+
+1. Cục trưởng Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường chịu trách nhiệm hướng dẫn, theo dõi, kiểm tra việc thực hiện Thông tư này.)Điều 27.6.NĐ.9. Xây dựng công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+
+(Điều 9 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
+
+1. Công trình hạ tầng thu nhận dữ liệu ảnh viễn thám xây dựng bằng ngân sách nhà nước được quy định như sau:
+
+a) Bộ trưởng Bộ Tài nguyên và Môi trường tổ chức triển khai xây dựng trạm điều khiển vệ tinh viễn thám, trạm thu dữ liệu viễn thám quốc gia thuộc phạm vi quản lý, tuân thủ theo Luật Đầu tư công và các văn bản quy định pháp luật về xây dựng hiện hành;
+
+b) Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức triển khai xây dựng trạm điều khiển vệ tinh viễn thám, trạm thu dữ liệu viễn thám chuyên ngành thuộc phạm vi quản lý, tuân thủ theo Luật Đầu tư công và các văn bản quy định pháp luật về xây dựng hiện hành.
+
+2. Khi xây dựng công trình hạ tầng thu nhận dữ liệu ảnh viễn thám, chủ đầu tư phải thực hiện thủ tục về giao đất, cho thuê đất hoặc sử dụng công trình kiến trúc đã có để xây dựng công trình hạ tầng thu nhận dữ liệu ảnh viễn thám, xác định hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám theo quy định của pháp luật về đất đai và quy định khác của pháp luật có liên quan.
+
+3. Khi lập kế hoạch xây dựng công trình hạ tầng thu nhận dữ liệu ảnh viễn thám, chủ đầu tư phải xin ý kiến bằng văn bản của Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông về vị trí đặt trạm, tần số sử dụng của trạm thu dữ liệu viễn thám, trạm điều khiển vệ tinh viễn thám trước khi trình Thủ tướng Chính phủ phê duyệt.
+
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Nguyên tắc chung; Điều 4. Quản lý và vận hành vệ tinh VNREDSat-1; Điều 5. Khai thác vệ tinh VNREDSat-1; Điều 6. Kinh phí quản lý, vận hành vệ tinh VNREDSat-1; Điều 7. Cơ chế tài chính trong việc khai thác và sử dụng dữ liệu ảnh vệ tinh VNREDSat-1; Điều 8. Điều khoản thi hành của Quyết định 30/2014/QĐ-TTg Về việc quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1 ban hành ngày 26/04/2014; Chương III ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ; Chương III ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ; Chương II BẢO ĐẢM ĐẦU TƯ; Chương IV HOẠT ĐỘNG ĐẦU TƯ TẠI VIỆT NAM; Chương IV HOẠT ĐỘNG ĐẦU TƯ TẠI VIỆT NAM; Chương III ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ; Chương IV HOẠT ĐỘNG ĐẦU TƯ TẠI VIỆT NAM; Chương VI QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ; Chương VII TỔ CHỨC THỰC HIỆN; Chương II BẢO ĐẢM ĐẦU TƯ; Chương VII TỔ CHỨC THỰC HIỆN; Chương VII TỔ CHỨC THỰC HIỆN; Chương VI QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ; Chương VI QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ; Chương II BẢO ĐẢM ĐẦU TƯ; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương V HOẠT ĐỘNG ĐẦU TƯ RA NƯỚC NGOÀI; Chương V HOẠT ĐỘNG ĐẦU TƯ RA NƯỚC NGOÀI; Chương V HOẠT ĐỘNG ĐẦU TƯ RA NƯỚC NGOÀI; Mục 1 HÌNH THỨC ĐẦU TƯ - Chương IV; Điều 1. Phạm vi điều chỉnh; Điều 1. Phạm vi điều chỉnh; Mục 1 HÌNH THỨC ĐẦU TƯ - Chương IV; Mục 1 HÌNH THỨC ĐẦU TƯ - Chương IV; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 2. Đối tượng áp dụng; Điều 2. Đối tượng áp dụng; Mục 3 THỦ TỤC CẤP, ĐIỀU CHỈNH VÀ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ ĐẦU TƯ - Chương IV; Mục 3 THỦ TỤC CẤP, ĐIỀU CHỈNH VÀ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ ĐẦU TƯ - Chương IV; Mục 3 THỦ TỤC CẤP, ĐIỀU CHỈNH VÀ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ ĐẦU TƯ - Chương IV; Điều 5. Chính sách về đầu tư kinh doanh; Điều 5. Chính sách về đầu tư kinh doanh; Điều 5. Chính sách về đầu tư kinh doanh; Điều 6. Ngành, nghề cấm đầu tư kinh doanh; Điều 6. Ngành, nghề cấm đầu tư kinh doanh; Điều 6. Ngành, nghề cấm đầu tư kinh doanh; Điều 7. Ngành, nghề đầu tư kinh doanh có điều kiện; Điều 7. Ngành, nghề đầu tư kinh doanh có điều kiện; Điều 7. Ngành, nghề đầu tư kinh doanh có điều kiện; Điều 8. Sửa đổi, bổ sung ngành, nghề cấm đầu tư kinh doanh, Danh mục ngành, nghề đầu tư kinh doanh có điều kiện; Điều 8. Sửa đổi, bổ sung ngành, nghề cấm đầu tư kinh doanh, Danh mục ngành, nghề đầu tư kinh doanh có điều kiện; Điều 8. Sửa đổi, bổ sung ngành, nghề cấm đầu tư kinh doanh, Danh mục ngành, nghề đầu tư kinh doanh có điều kiện; Điều 12. Bảo lãnh của Chính phủ đối với một số dự án quan trọng; Điều 12. Bảo lãnh của Chính phủ đối với một số dự án quan trọng; Điều 12. Bảo lãnh của Chính phủ đối với một số dự án quan trọng; Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư; Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư; Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư; Điều 16. Ngành, nghề ưu đãi đầu tư và địa bàn ưu đãi đầu tư; Điều 16. Ngành, nghề ưu đãi đầu tư và địa bàn ưu đãi đầu tư; Điều 16. Ngành, nghề ưu đãi đầu tư và địa bàn ưu đãi đầu tư; Điều 17. Thủ tục áp dụng ưu đãi đầu tư; Điều 17. Thủ tục áp dụng ưu đãi đầu tư; Điều 17. Thủ tục áp dụng ưu đãi đầu tư; Điều 18. Mở rộng ưu đãi đầu tư; Điều 18. Mở rộng ưu đãi đầu tư; Điều 18. Mở rộng ưu đãi đầu tư; Điều 26. Thủ tục đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp; Điều 26. Thủ tục đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp; Điều 26. Thủ tục đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp; Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 33. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 33. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 33. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 34. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 34. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 34. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 35. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Quốc hội; Điều 35. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Quốc hội; Điều 35. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Quốc hội; Điều 52. Hình thức đầu tư ra nước ngoài; Điều 52. Hình thức đầu tư ra nước ngoài; Điều 52. Hình thức đầu tư ra nước ngoài; Điều 53. Nguồn vốn đầu tư ra nước ngoài; Điều 53. Nguồn vốn đầu tư ra nước ngoài; Điều 53. Nguồn vốn đầu tư ra nước ngoài; Điều 62. Chấm dứt dự án đầu tư ra nước ngoài; Điều 62. Chấm dứt dự án đầu tư ra nước ngoài; Điều 62. Chấm dứt dự án đầu tư ra nước ngoài; Điều 75. Sửa đổi, bổ sung khoản 1 Điều 18 của Luật công nghệ cao số 21/2008/QH12; Điều 75. Sửa đổi, bổ sung khoản 1 Điều 18 của Luật công nghệ cao số 21/2008/QH12; Điều 75. Sửa đổi, bổ sung khoản 1 Điều 18 của Luật công nghệ cao số 21/2008/QH12 của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014)
 
 Điều 27.6.NĐ.10. Vận hành, bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000200001000000000000000000
+1. Bộ Tài nguyên và Môi trường tổ chức thực hiện việc vận hành, bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám quốc gia thuộc phạm vi quản lý.
 
-**ID:** dk_00046028
+2. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức thực hiện việc vận hành, bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám chuyên ngành thuộc phạm vi quản lý.
 
----
+3. Việc vận hành công trình hạ tầng thu nhận dữ liệu ảnh viễn thám được quy định như sau:
 
+a) Chủ đầu tư xây dựng công trình hạ tầng thu nhận dữ liệu ảnh viễn thám phải lập quy trình vận hành trình cơ quan nhà nước có thẩm quyền quy định tại khoản 1 và khoản 2 Điều này phê duyệt trước khi đưa vào khai thác, sử dụng;
 
-### Điều 27.6.NĐ.11. Tổ chức, cá nhân tham gia đầu tư xây dựng và vận hành trạm thu dữ liệu viễn thám, trạm điều khiển vệ tinh viễn thám
+b) Đối với công trình hạ tầng thu nhận dữ liệu ảnh viễn thám đang khai thác, sử dụng mà chưa có quy trình vận hành thì tổ chức được giao vận hành công trình hạ tầng thu nhận dữ liệu ảnh viễn thám có trách nhiệm lập quy trình vận hành trình cơ quan nhà nước có thẩm quyền quy định tại khoản 1 và khoản 2 Điều này phê duyệt.
+
+4. Tổ chức, cá nhân được giao vận hành, bảo trì các công trình hạ tầng thu nhận dữ liệu ảnh viễn thám phải thực hiện đúng quy định về vận hành, bảo trì đảm bảo công trình hạ tầng thu nhận dữ liệu ảnh viễn thám luôn hoạt động bình thường theo đúng tiêu chuẩn, quy chuẩn kỹ thuật, thiết kế khi xây dựng.
+
+5. Bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám là tập hợp các công việc nhằm bảo đảm và duy trì sự hoạt động bình thường, an toàn của công trình theo quy định của thiết kế trong quá trình khai thác, sử dụng. Nội dung bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám bao gồm một hoặc một số hoặc toàn bộ các công việc gồm kiểm tra, quan trắc, kiểm định chất lượng, bảo dưỡng và sửa chữa công trình. Mỗi loại công trình hạ tầng thu nhận dữ liệu ảnh viễn thám phải có quy trình bảo trì quy định về trình tự, nội dung và chỉ dẫn thực hiện các công việc bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám. Quy trình bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám đảm bảo phù hợp và được tích hợp với quy trình vận hành, do cơ quan nhà nước có thẩm quyền quy định tại khoản 1 và khoản 2 Điều này phê duyệt.
+
+(Điều này có nội dung liên quan đến Chương IV HOẠT ĐỘNG ĐẦU TƯ TẠI VIỆT NAM; Chương II BẢO ĐẢM ĐẦU TƯ; Chương VI QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ; Chương VII TỔ CHỨC THỰC HIỆN; Chương III ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương V HOẠT ĐỘNG ĐẦU TƯ RA NƯỚC NGOÀI; Điều 1. Phạm vi điều chỉnh; Mục 1 HÌNH THỨC ĐẦU TƯ - Chương IV; Điều 2. Đối tượng áp dụng; Mục 3 THỦ TỤC CẤP, ĐIỀU CHỈNH VÀ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ ĐẦU TƯ - Chương IV; Điều 5. Chính sách về đầu tư kinh doanh; Điều 6. Ngành, nghề cấm đầu tư kinh doanh; Điều 7. Ngành, nghề đầu tư kinh doanh có điều kiện; Điều 8. Sửa đổi, bổ sung ngành, nghề cấm đầu tư kinh doanh, Danh mục ngành, nghề đầu tư kinh doanh có điều kiện; Điều 12. Bảo lãnh của Chính phủ đối với một số dự án quan trọng; Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư; Điều 16. Ngành, nghề ưu đãi đầu tư và địa bàn ưu đãi đầu tư; Điều 17. Thủ tục áp dụng ưu đãi đầu tư; Điều 18. Mở rộng ưu đãi đầu tư; Điều 26. Thủ tục đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp; Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 33. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 34. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 35. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Quốc hội; Điều 52. Hình thức đầu tư ra nước ngoài; Điều 53. Nguồn vốn đầu tư ra nước ngoài; Điều 62. Chấm dứt dự án đầu tư ra nước ngoài; Điều 75. Sửa đổi, bổ sung khoản 1 Điều 18 của Luật công nghệ cao số 21/2008/QH12 của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014)
 
 Điều 27.6.NĐ.11. Tổ chức, cá nhân tham gia đầu tư xây dựng và vận hành trạm thu dữ liệu viễn thám, trạm điều khiển vệ tinh viễn thám
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000200001100000000000000000
+Tổ chức, cá nhân được tham gia đầu tư xây dựng và vận hành trạm thu dữ liệu viễn thám, trạm điều khiển vệ tinh viễn thám, đảm bảo theo quy định của pháp luật về đầu tư; đảm bảo quyền lợi của nhà nước và tổ chức, cá nhân tham gia đầu tư; đảm bảo quốc phòng, an ninh.
 
-**ID:** dk_00046029
-
----
-
-
-### Điều 27.6.NĐ.12. Hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Nguyên tắc chung; Điều 4. Quản lý và vận hành vệ tinh VNREDSat-1; Điều 5. Khai thác vệ tinh VNREDSat-1; Điều 6. Kinh phí quản lý, vận hành vệ tinh VNREDSat-1; Điều 7. Cơ chế tài chính trong việc khai thác và sử dụng dữ liệu ảnh vệ tinh VNREDSat-1; Điều 8. Điều khoản thi hành của Quyết định 30/2014/QĐ-TTg Về việc quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1 ban hành ngày 26/04/2014; Chương IV HOẠT ĐỘNG ĐẦU TƯ TẠI VIỆT NAM; Chương VI QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ; Chương II BẢO ĐẢM ĐẦU TƯ; Chương VII TỔ CHỨC THỰC HIỆN; Chương III ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương V HOẠT ĐỘNG ĐẦU TƯ RA NƯỚC NGOÀI; Điều 1. Phạm vi điều chỉnh; Mục 1 HÌNH THỨC ĐẦU TƯ - Chương IV; Điều 2. Đối tượng áp dụng; Mục 3 THỦ TỤC CẤP, ĐIỀU CHỈNH VÀ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ ĐẦU TƯ - Chương IV; Điều 5. Chính sách về đầu tư kinh doanh; Điều 6. Ngành, nghề cấm đầu tư kinh doanh; Điều 7. Ngành, nghề đầu tư kinh doanh có điều kiện; Điều 8. Sửa đổi, bổ sung ngành, nghề cấm đầu tư kinh doanh, Danh mục ngành, nghề đầu tư kinh doanh có điều kiện; Điều 12. Bảo lãnh của Chính phủ đối với một số dự án quan trọng; Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư; Điều 16. Ngành, nghề ưu đãi đầu tư và địa bàn ưu đãi đầu tư; Điều 17. Thủ tục áp dụng ưu đãi đầu tư; Điều 18. Mở rộng ưu đãi đầu tư; Điều 26. Thủ tục đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp; Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 33. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 34. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 35. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Quốc hội; Điều 52. Hình thức đầu tư ra nước ngoài; Điều 53. Nguồn vốn đầu tư ra nước ngoài; Điều 62. Chấm dứt dự án đầu tư ra nước ngoài; Điều 75. Sửa đổi, bổ sung khoản 1 Điều 18 của Luật công nghệ cao số 21/2008/QH12 của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014)
 
 Điều 27.6.NĐ.12. Hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000200001200000000000000000
+1. Hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám phải được xác định trong quá trình giao đất, cho thuê đất và giao chủ đầu tư quản lý, khai thác, sử dụng để đảm bảo công trình hoạt động ổn định theo thông số kỹ thuật; thiết kế. Đối với những công trình hạ tầng thu nhận dữ liệu ảnh viễn thám đã được xây dựng và đang hoạt động ổn định trước khi Nghị định này được ban hành thì giữ nguyên hiện trạng.
 
-**ID:** dk_00046030
+2. Việc cắm mốc giới để xác định và công bố công khai ranh giới hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám thực hiện theo quy định của pháp luật về đất đai, ranh giới hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám được xác định trên bản đồ địa chính theo quy định hiện hành.
 
----
+3. Hành lang bảo vệ của các công trình hạ tầng thu nhận dữ liệu ảnh viễn thám được xác lập với bán kính 150 mét tính từ tâm ăng ten.
 
+4. Bảo vệ hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
 
-### Điều 27.6.NĐ.13. Trách nhiệm bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+a) Trong phạm vi hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám không được xây dựng công trình cao tầng, trồng cây lâu năm gây che chắn, đào, đắp và các hoạt động khác làm ảnh hưởng đến sự ổn định của công trình hạ tầng thu nhận dữ liệu ảnh viễn thám;
+
+b) Đối với trạm điều khiển vệ tinh viễn thám và trạm thu dữ liệu viễn thám (trừ trạm thu dữ liệu từ vệ tinh viễn thám địa tĩnh), ngoài hành lang bảo vệ được thiết lập theo khoản 3 Điều này được trồng cây hoặc xây dựng công trình nhưng độ cao phải bảo đảm góc giữa đường nối tâm ăng ten tới điểm cao nhất của cây hoặc công trình và bề mặt ngang qua tâm ăng ten không vượt quá 2° (hai độ);
+
+c) Khi triển khai mới các công trình hạ tầng để sử dụng các hệ thống vô tuyến điện có vùng phủ sóng có khả năng ảnh hưởng tới hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám cần bảo đảm không được gây nhiễu có hại cho các trạm điều khiển vệ tinh viễn thám, trạm thu dữ liệu viễn thám;
+
+d) Cơ quan, tổ chức, cá nhân căn cứ quy định tại Điều này và quy định khác của pháp luật có liên quan xác định ranh giới và bảo vệ hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám thuộc phạm vi quản lý.
+
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Giải thích từ ngữ; Điều 4. Nguyên tắc cơ bản trong hoạt động đo đạc và bản đồ; Điều 5. Chính sách của Nhà nước về đo đạc và bản đồ; Điều 6. Các hành vi bị nghiêm cấm trong hoạt động đo đạc và bản đồ; Điều 7. Hoạt động khoa học và công nghệ về đo đạc và bản đồ; Điều 8. Hợp tác quốc tế về đo đạc và bản đồ; Điều 9. Tài chính cho hoạt động đo đạc và bản đồ của Luật 27/2018/QH14 Đo đạc và bản đồ ban hành ngày 14/06/2018; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Nguyên tắc chung; Điều 4. Quản lý và vận hành vệ tinh VNREDSat-1; Điều 5. Khai thác vệ tinh VNREDSat-1; Điều 6. Kinh phí quản lý, vận hành vệ tinh VNREDSat-1; Điều 7. Cơ chế tài chính trong việc khai thác và sử dụng dữ liệu ảnh vệ tinh VNREDSat-1; Điều 8. Điều khoản thi hành của Quyết định 30/2014/QĐ-TTg Về việc quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1 ban hành ngày 26/04/2014; Chương VII TỔ CHỨC THỰC HIỆN; Chương VI QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ; Chương III ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ; Chương IV HOẠT ĐỘNG ĐẦU TƯ TẠI VIỆT NAM; Chương II BẢO ĐẢM ĐẦU TƯ; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương V HOẠT ĐỘNG ĐẦU TƯ RA NƯỚC NGOÀI; Điều 1. Phạm vi điều chỉnh; Mục 1 HÌNH THỨC ĐẦU TƯ - Chương IV; Điều 2. Đối tượng áp dụng; Mục 3 THỦ TỤC CẤP, ĐIỀU CHỈNH VÀ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ ĐẦU TƯ - Chương IV; Điều 5. Chính sách về đầu tư kinh doanh; Điều 6. Ngành, nghề cấm đầu tư kinh doanh; Điều 7. Ngành, nghề đầu tư kinh doanh có điều kiện; Điều 8. Sửa đổi, bổ sung ngành, nghề cấm đầu tư kinh doanh, Danh mục ngành, nghề đầu tư kinh doanh có điều kiện; Điều 12. Bảo lãnh của Chính phủ đối với một số dự án quan trọng; Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư; Điều 16. Ngành, nghề ưu đãi đầu tư và địa bàn ưu đãi đầu tư; Điều 17. Thủ tục áp dụng ưu đãi đầu tư; Điều 18. Mở rộng ưu đãi đầu tư; Điều 26. Thủ tục đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp; Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 33. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 34. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 35. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Quốc hội; Điều 52. Hình thức đầu tư ra nước ngoài; Điều 53. Nguồn vốn đầu tư ra nước ngoài; Điều 62. Chấm dứt dự án đầu tư ra nước ngoài; Điều 75. Sửa đổi, bổ sung khoản 1 Điều 18 của Luật công nghệ cao số 21/2008/QH12 của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Chương X ĐIỀU KHOẢN THI HÀNH; Chương II HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ CƠ BẢN; Điều 27.1.LQ.1. Phạm vi điều chỉnh; Điều 27.1.LQ.2. Đối tượng áp dụng; Điều 27.1.LQ.3. Giải thích từ ngữ; Điều 27.1.LQ.4. Nguyên tắc cơ bản trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.5. Chính sách của Nhà nước về đo đạc và bản đồ; Điều 27.1.LQ.6. Các hành vi bị nghiêm cấm trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.7. Hoạt động khoa học và công nghệ về đo đạc và bản đồ; Điều 27.1.LQ.8. Hợp tác quốc tế về đo đạc và bản đồ; Điều 27.1.LQ.9. Tài chính cho hoạt động đo đạc và bản đồ; Điều 27.1.LQ.10. Nội dung hoạt động đo đạc và bản đồ cơ bản; Điều 27.1.LQ.11. Hệ thống số liệu gốc đo đạc quốc gia, hệ tọa độ quốc gia, hệ độ cao quốc gia và hệ trọng lực quốc gia; Điều 27.1.LQ.12. Hệ thống số liệu các mạng lưới đo đạc quốc gia; Điều 27.1.LQ.13. Dữ liệu ảnh hàng không; Điều 27.1.LQ.15. Cơ sở dữ liệu nền địa lý quốc gia và hệ thống bản đồ địa hình quốc gia; Điều 27.1.LQ.16. Xây dựng, vận hành, cập nhật cơ sở dữ liệu nền địa lý quốc gia và thành lập, cập nhật hệ thống bản đồ địa hình quốc gia; Điều 27.1.LQ.17. Đo đạc và bản đồ về biên giới quốc gia; Điều 27.1.LQ.18. Thể hiện biên giới quốc gia, chủ quyền lãnh thổ; Điều 27.1.LQ.19. Đo đạc và bản đồ về địa giới hành chính; Điều 27.1.LQ.20. Yêu cầu, nguyên tắc và các trường hợp chuẩn hóa địa danh; Điều 27.1.LQ.21. Trách nhiệm chuẩn hóa địa danh, sử dụng địa danh đã được chuẩn hóa; Điều 27.1.LQ.22. Nội dung hoạt động đo đạc và bản đồ chuyên ngành; Điều 27.1.LQ.23. Hệ thống số liệu các mạng lưới đo đạc cơ sở chuyên ngành; Điều 27.1.LQ.24. Đo đạc và bản đồ quốc phòng; Điều 27.1.LQ.25. Đo đạc, thành lập bản đồ địa chính; Điều 27.1.LQ.26. Thành lập bản đồ hành chính; Điều 27.1.LQ.27. Đo đạc, thành lập hải đồ; Điều 27.1.LQ.28. Đo đạc, thành lập bản đồ hàng không dân dụng; Điều 27.1.LQ.29. Đo đạc, thành lập bản đồ công trình ngầm; Điều 27.1.LQ.30. Đo đạc, thành lập bản đồ phục vụ phòng, chống thiên tai, cứu hộ, cứu nạn, khắc phục sự cố môi trường, ứng phó với biến đổi khí hậu; Điều 27.1.LQ.31. Thành lập tập bản đồ; đo đạc, thành lập các loại bản đồ chuyên ngành khác; Điều 27.1.LQ.32. Tiêu chuẩn, quy chuẩn kỹ thuật về đo đạc và bản đồ; Điều 27.1.LQ.33. Kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo sử dụng trong hoạt động đo đạc và bản đồ; Điều 27.1.LQ.34. Quản lý chất lượng sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.35. Các loại công trình hạ tầng đo đạc; Điều 27.1.LQ.36. Xây dựng, vận hành, bảo trì công trình hạ tầng đo đạc; Điều 27.1.LQ.37. Sử dụng mốc đo đạc; Điều 27.1.LQ.38. Bảo vệ công trình hạ tầng đo đạc; Điều 27.1.LQ.39. Hệ thống thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.40. Cơ sở dữ liệu đo đạc và bản đồ; Điều 27.1.LQ.41. Lưu trữ, bảo mật, cung cấp, trao đổi, khai thác, sử dụng thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.42. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; Điều 27.1.LQ.43. Quy định chung về hạ tầng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.44. Xây dựng hạ tầng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.45. Dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.46. Dịch vụ về dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.47. Sử dụng dữ liệu không gian địa lý quốc gia; Điều 27.1.LQ.48. Cổng thông tin không gian địa lý Việt Nam; Điều 27.1.LQ.49. Yêu cầu đối với xuất bản bản đồ; Điều 27.1.LQ.50. Hoạt động xuất bản bản đồ; Điều 27.1.LQ.51. Giấy phép hoạt động đo đạc và bản đồ; Điều 27.1.LQ.52. Điều kiện cấp giấy phép hoạt động đo đạc và bản đồ; Điều 27.1.LQ.53. Chứng chỉ hành nghề đo đạc và bản đồ; Điều 27.1.LQ.54. Thông tin về tổ chức, cá nhân tham gia hoạt động đo đạc và bản đồ; Điều 27.1.LQ.55. Quyền và nghĩa vụ của tổ chức hoạt động đo đạc và bản đồ; Điều 27.1.LQ.56. Quyền và nghĩa vụ của cá nhân hành nghề độc lập về đo đạc và bản đồ; Điều 27.1.LQ.57. Trách nhiệm của Chính phủ, Bộ và cơ quan ngang Bộ; Điều 27.1.LQ.58. Trách nhiệm của Ủy ban nhân dân các cấp; Điều 27.1.LQ.59. Thanh tra, xử lý vi phạm pháp luật về đo đạc và bản đồ; Điều 27.1.LQ.60. Hiệu lực thi hành; Điều 27.1.LQ.61. Điều khoản chuyển tiếp của Luật 27/2018/QH14 Đo đạc và bản đồ ban hành ngày 14/06/2018)
 
 Điều 27.6.NĐ.13. Trách nhiệm bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000200001300000000000000000
+ 1. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ ban hành quy định và tổ chức bảo vệ cho từng loại công trình hạ tầng thu nhận dữ liệu ảnh viễn thám thuộc phạm vi quản lý.
 
-**ID:** dk_00046031
+ 2. Cơ quan, tổ chức, cá nhân được giao bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám phải thực hiện đúng quy định về bảo vệ cho từng loại công trình.
 
----
+ 3. Người dân khi phát hiện công trình hạ tầng thu nhận dữ liệu ảnh viễn thám bị phá hoại hoặc hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám bị xâm phạm phải kịp thời thông báo với chính quyền địa phương hoặc cơ quan, tổ chức, cá nhân có thẩm quyền.Điều 27.6.NĐ.14. Di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
 
+(Điều 14 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-### Điều 27.6.NĐ.14. Di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+ 1. Việc di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám được thực hiện trong các trường hợp sau đây:
 
-Điều 27.6.NĐ.14. Di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+ a) Do yêu cầu phát triển kinh tế - xã hội, đảm bảo quốc phòng, an ninh mà công trình hạ tầng thu nhận dữ liệu ảnh viễn thám không thể tiếp tục duy trì sự tồn tại hoặc không hoạt động bình thường theo tiêu chuẩn kỹ thuật, quy chuẩn kỹ thuật, thông số kỹ thuật;
 
-**Chỉ mục:** 14
+ b) Do ảnh hưởng của điều kiện tự nhiên, thiên tai làm mất, hư hỏng và tác động ngoại cảnh khác làm mất, hư hỏng, thay đổi vị trí;
 
-**Mã phân cấp:** 2700600000000000200001400000000000000000
+ c) Hết hạn sử dụng, không còn giá trị sử dụng hoặc đã có công trình hạ tầng thu nhận dữ liệu ảnh viễn thám khác thay thế.
 
-**ID:** dk_00046032
+ 2. Việc di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám thực hiện theo quy định sau đây:
 
----
+ a) Ủy ban nhân dân cấp tỉnh phối hợp với Bộ Tài nguyên và Môi trường gửi văn bản báo cáo Thủ tướng Chính phủ về việc di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám do phát triển kinh tế - xã hội, quốc phòng, an ninh kèm theo quyết định phê duyệt dự án có liên quan;
 
+ b) Sau khi có ý kiến đồng ý của Thủ tướng Chính phủ, Ủy ban nhân dân cấp tỉnh gửi văn bản đề nghị bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan về yêu cầu phải di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám kèm theo quyết định phê duyệt dự án phát triển kinh tế - xã hội, quốc phòng, an ninh có liên quan;
 
-### Điều 27.6.NĐ.15. Thu nhận dữ liệu ảnh viễn thám
+ c) Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ phối hợp với Ủy ban nhân dân cấp tỉnh xem xét, thỏa thuận, lựa chọn địa điểm mới để di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám;
 
-*Nội dung chưa có sẵn*
+ d) Ủy ban nhân dân cấp tỉnh tổ chức lập dự án di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám, gửi bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan xem xét, cho ý kiến trước khi phê duyệt dự án;
 
-**Chỉ mục:** 15
+ đ) Ủy ban nhân dân cấp tỉnh phối hợp với bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức việc di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám.Điều 27.6.NĐ.15. Thu nhận dữ liệu ảnh viễn thám
 
-**Mã phân cấp:** 2700600000000000200001500000000000000000
+(Điều 15 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**ID:** dk_00046033
+ 1. Dữ liệu ảnh viễn thám được thu nhận từ các nguồn:
 
----
+ a) Trạm thu dữ liệu viễn thám của Việt Nam;
 
+ b) Mua, trao đổi, nhận viện trợ của nước ngoài.
 
-### Điều 27.6.NĐ.16. Xử lý dữ liệu ảnh viễn thám
+ 2. Bộ Tài nguyên và Môi trường có trách nhiệm xây dựng kế hoạch thu nhận dữ liệu ảnh viễn thám hàng năm, định kỳ 05 năm trên cơ sở tổng hợp nhu cầu của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh và nhiệm vụ đột xuất được Nhà nước giao.
 
-*Nội dung chưa có sẵn*
+ 3. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức triển khai việc thu nhận dữ liệu ảnh viễn thám từ các trạm thu dữ liệu viễn thám thuộc phạm vi quản lý theo kế hoạch đã được phê duyệt.
 
-**Chỉ mục:** 16
+ 4. Việc mua dữ liệu ảnh viễn thám của nước ngoài (nếu có) bằng nguồn ngân sách nhà nước chỉ được thực hiện sau khi có ý kiến của Bộ Tài nguyên và Môi trường trong các trường hợp sau:
 
-**Mã phân cấp:** 2700600000000000200001600000000000000000
+ a) Trạm thu dữ liệu viễn thám ở Việt Nam và cơ sở dữ liệu ảnh viễn thám quốc gia không đáp ứng được yêu cầu về chủng loại, số lượng, chất lượng ảnh và thời gian thu nhận;
 
-**ID:** dk_00046034
+ b) Chưa có trong kế hoạch thu nhận dữ liệu viễn thám đã được phê duyệt.(Điều này có nội dung liên quan đến Điều 3.3.TT.12.1.; Điều 3.3.TT.12.2.; Điều 3.3.TT.12.3.)
 
----
+Điều 27.6.NĐ.16. Xử lý dữ liệu ảnh viễn thám
 
+(Điều 16 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-### Điều 27.6.NĐ.17. Xây dựng cơ sở dữ liệu ảnh viễn thám quốc gia
+ 1. Dữ liệu ảnh viễn thám mức 0 (không) là dữ liệu ảnh viễn thám được thu nhận trực tiếp tại trạm thu dữ liệu viễn thám mà chưa qua bất cứ một quá trình hiệu chỉnh nào.
+
+ 2. Dữ liệu ảnh viễn thám thô là dữ liệu ảnh viễn thám mức 0 (không) được xử lý sơ bộ, nhằm loại bỏ sai số trong của đầu thu và tín hiệu nhiễu do ảnh hưởng của khí quyển.
+
+ 3. Dữ liệu ảnh viễn thám mức 0 (không) được thu nhận tại trạm thu dữ liệu viễn thám ở Việt Nam phải được đánh giá chất lượng trước khi xử lý. Dữ liệu ảnh viễn thám mức 0 (không) đảm bảo yêu cầu kỹ thuật phải được xử lý để tạo ra dữ liệu ảnh viễn thám thô.Chương III
+
+CƠ SỞ DỮ LIỆU ẢNH VIỄN THÁM
 
 Điều 27.6.NĐ.17. Xây dựng cơ sở dữ liệu ảnh viễn thám quốc gia
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000300001700000000000000000
+1. Cơ sở dữ liệu ảnh viễn thám quốc gia là tập hợp dữ liệu ảnh viễn thám được thu nhận tại trạm thu dữ liệu viễn thám quốc gia, dữ liệu ảnh viễn thám mua từ nguồn ngân sách nhà nước, siêu dữ liệu viễn thám tập hợp từ các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh và sản phẩm viễn thám đã được kiểm tra, đánh giá và tổ chức quản lý, lưu trữ một cách có hệ thống.
 
-**ID:** dk_00046036
+2. Cơ sở dữ liệu ảnh viễn thám quốc gia phải được cập nhật thường xuyên để cung cấp cho người sử dụng. Trong đó, dữ liệu ảnh viễn thám có độ phân giải cao được cập nhật hàng năm, dữ liệu ảnh viễn thám có độ phân giải siêu cao được cập nhật 05 năm một lần phủ trùm lãnh thổ Việt Nam.
 
----
+3. Bộ Tài nguyên và Môi trường có trách nhiệm:
 
+a) Xây dựng, vận hành cơ sở dữ liệu ảnh viễn thám quốc gia;
 
-### Điều 27.6.NĐ.18. Công bố siêu dữ liệu viễn thám và tạm hoãn công bố siêu dữ liệu viễn thám quốc gia
+b) Xây dựng các quy trình nghiệp vụ, kiểm soát để vận hành, duy trì cơ sở dữ liệu ảnh viễn thám quốc gia;
 
-Điều 27.6.NĐ.18. Công bố siêu dữ liệu viễn thám và tạm hoãn công bố siêu dữ liệu viễn thám quốc gia
+c) Xây dựng kế hoạch, bố trí kinh phí bảo đảm thường xuyên, liên tục, định kỳ cập nhật nội dung cơ sở dữ liệu ảnh viễn thám quốc gia;
 
-**Chỉ mục:** 18
+d) Xây dựng và thực hiện các giải pháp đồng bộ bảo đảm cơ sở dữ liệu ảnh viễn thám quốc gia có hiệu suất vận hành và sẵn sàng đáp ứng cao;
 
-**Mã phân cấp:** 2700600000000000300001800000000000000000
+đ) Xây dựng và thực hiện các giải pháp về sao lưu, dự phòng và bảo mật bảo đảm tính nguyên vẹn, an toàn của cơ sở dữ liệu ảnh viễn thám quốc gia.
 
-**ID:** dk_00046037
+4. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh có trách nhiệm thu thập, cập nhật, sử dụng thông tin, dữ liệu ảnh viễn thám thuộc phạm vi quản lý để xây dựng cơ sở dữ liệu ảnh viễn thám quốc gia.
 
----
+5. Siêu dữ liệu viễn thám, sản phẩm viễn thám được tích hợp vào cơ sở dữ liệu ảnh viễn thám phải tuân thủ các tiêu chuẩn, quy chuẩn, quy định kỹ thuật đã được ban hành.
 
+(Điều này có nội dung liên quan đến Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Điều 1. ; Điều 2. Tổ chức thực hiện của Thông tư 108/2017/TT-BTC Sửa đổi, bổ sung Điều 3 Thông tư số 187/2016/TT-BTC ngày 08 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính 
+quy định mức thu, chế độ thu, nộp, miễn, quản lý và sử dụng phí khai thác và sử dụng dữ liệu viễn thám quốc gia ban hành ngày 16/10/2017; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện của ; Điều 3.3.TT.12.1. của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.2. của của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.3.; Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 2. Tổ chức thu và người nộp phí; Điều 3. Mức thu phí và miễn phí; Điều 4. Kê khai, nộp phí của tổ chức thu; Điều 5. Quản lý và sử dụng phí; Điều 6. Tổ chức thực hiện và điều khoản thi hành của )Điều 27.6.NĐ.18. Công bố siêu dữ liệu viễn thám và tạm hoãn công bố siêu dữ liệu viễn thám quốc gia
 
-### Điều 27.6.TT.7.3. Yêu cầu về siêu dữ liệu viễn thám quốc gia
+(Điều 18 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
+
+1. Công bố siêu dữ liệu viễn thám quốc gia định kỳ hàng năm
+
+a) Nội dung báo cáo công bố siêu dữ liệu viễn thám quốc gia định kỳ hàng năm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này;
+
+b) Bộ Tài nguyên và Môi trường cập nhật, tổng hợp và tổ chức công bố siêu dữ liệu viễn thám quốc gia trước ngày 31 tháng 12 hàng năm;
+
+c) Siêu dữ liệu viễn thám quốc gia được công bố định kỳ bằng văn bản và đăng trên Trang thông tin hoặc Cổng thông tin điện tử của Bộ Tài nguyên và Môi trường và kết nối với Cổng thông tin không gian địa lý Việt Nam.
+
+2. Công bố siêu dữ liệu viễn thám thường xuyên
+
+a) Nội dung công bố siêu dữ liệu viễn thám thường xuyên theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này;
+
+b) Trong thời hạn 30 ngày làm việc kể từ ngày các cơ quan, tổ chức, cá nhân giao nộp; các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh có trách nhiệm công bố siêu dữ liệu viễn thám do mình quản lý;
+
+c) Siêu dữ liệu viễn thám được công bố thường xuyên trên Trang thông tin hoặc Cổng thông tin điện tử của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh.
+
+3. Trong trường hợp vì những lý do bất khả kháng (thiên tai, hỏa hoạn, chiến tranh) thì việc công bố siêu dữ liệu viễn thám quốc gia được tạm hoãn.
+
+4. Bộ Tài nguyên và Môi trường có trách nhiệm thông báo việc tạm hoãn công bố siêu dữ liệu viễn thám quốc gia trên Cổng thông tin điện tử của bộ, trong đó phải nêu rõ lý do của việc tạm hoãn.
+
+5. Bộ Tài nguyên và Môi trường có trách nhiệm công bố siêu dữ liệu viễn thám quốc gia ngay sau khi sự kiện bất khả kháng đã được khắc phục.
+
+Mau so 01 – Mau bao cao cong bo sieu du lieu vien tham.doc
 
 Điều 27.6.TT.7.3. Yêu cầu về siêu dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-**Mã phân cấp:** 270060000000000030000180000000000000000000802602000350000300
+1. Siêu dữ liệu viễn thám quốc gia phải bảo đảm tính đầy đủ, chính xác, kịp thời, thuận tiện cho khai thác và sử dụng dữ liệu viễn thám quốc gia.
 
-**ID:** dk_00046038
+2. Thông tin siêu dữ liệu viễn thám quốc gia phải xây dựng thuận tiện cho việc truy cập, sử dụng.
 
----
-
-
-### Điều 27.6.TT.7.4. Hình thức và phương tiện công bố siêu dữ liệu viễn thám quốc gia
+3. Ngôn ngữ thực hiện công bố siêu dữ liệu viễn thám quốc gia là tiếng Việt.
 
 Điều 27.6.TT.7.4. Hình thức và phương tiện công bố siêu dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-**Mã phân cấp:** 270060000000000030000180000000000000000000802602000350000400
+1. Siêu dữ liệu viễn thám quốc gia được công bố định kỳ hằng năm theo hình thức văn bản và công bố thường xuyên theo hình thức dữ liệu điện tử.
 
-**ID:** dk_00046039
+2. Siêu dữ liệu viễn thám quốc gia được công bố trên cổng thông tin điện tử của Cục Viễn thám quốc gia, Bộ Tài nguyên và Môi trường.
 
----
+Điều 27.6.TT.7.5. Giao nộp siêu dữ liệu viễn thám
 
+(Điều 5 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-### Điều 27.6.TT.7.5. Giao nộp siêu dữ liệu viễn thám
+1. Bộ Tài nguyên và Môi trường tiếp nhận siêu dữ liệu viễn thám quốc gia tập hợp từ các nguồn:
 
-*Nội dung chưa có sẵn*
+a) Các trạm thu ảnh viễn thám do Bộ Tài nguyên và Môi trường quản lý;
 
-**Chỉ mục:** 5
+b) Lưu trữ tại các cơ quan, tổ chức, cá nhân trực thuộc Bộ.
 
-**Mã phân cấp:** 270060000000000030000180000000000000000000802602000350000500
+2. Các trạm thu ảnh viễn thám do Bộ Tài nguyên và Môi trường quản lý có trách nhiệm giao nộp siêu dữ liệu viễn thám quốc gia đã thu nhận định kỳ hằng tháng về Bộ Tài nguyên và Môi trường thông qua Cục Viễn thám quốc gia.
 
-**ID:** dk_00046040
+3. Các cơ quan, tổ chức, cá nhân trực thuộc Bộ có trách nhiệm giao nộp siêu dữ liệu viễn thám quốc gia được mua nhận từ nước ngoài bằng nguồn vốn ngân sách nhà nước hoặc thông qua trao đổi, hợp tác và nhận viện trợ từ nước ngoài do đơn vị mình lưu trữ về Bộ Tài nguyên và Môi trường thông qua Cục Viễn thám quốc gia chậm nhất 03 (ba) tháng kể từ ngày nhận được dữ liệu viễn thám.
 
----
+4. Các cơ quan, tổ chức, cá nhân quy định tại khoản 1 và khoản 2 Điều này có trách nhiệm biên tập nội dung, hình thức siêu dữ liệu viễn thám quốc gia trước khi giao nộp theo mẫu tại Phụ lục I ban hành kèm theo Thông tư này và phải chịu trách nhiệm về tính chính xác, đầy đủ của nội dung siêu dữ liệu viễn thám quốc gia đã giao nộp.
 
+5. Nội dung siêu dữ liệu viễn thám quốc gia giao nộp bao gồm các thông tin như sau:
 
-### Điều 27.6.TT.7.6. Biên tập, xử lý siêu dữ liệu viễn thám quốc gia
+a) Thông tin về các cơ quan, tổ chức, cá nhân giao nộp siêu dữ liệu viễn thám quốc gia;
+
+b) Thông tin tổng hợp về siêu dữ liệu viễn thám giao nộp (tổng số lượng, tổng số lượng có độ phủ mây dưới 10%, sơ đồ bảng chắp, khu vực có dữ liệu viễn thám);
+
+c) Thông tin chi tiết về siêu dữ liệu viễn thám quốc gia giao nộp (các thông tin mô tả về nội dung, nguồn gốc, chất lượng, phương pháp xử lý) và các thông tin có liên quan đến việc sản xuất dữ liệu viễn thám.
+
+6. Siêu dữ liệu viễn thám giao nộp dưới dạng văn bản và dạng số.
+
+7. Cục Viễn thám quốc gia giúp Bộ Tài nguyên và Môi trường tổng hợp siêu dữ liệu viễn thám quốc gia do các cơ quan, tổ chức, cá nhân giao nộp.
+
+Phu luc I.doc
 
 Điều 27.6.TT.7.6. Biên tập, xử lý siêu dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-**Mã phân cấp:** 270060000000000030000180000000000000000000802602000350000600
+Cục Viễn thám quốc gia giúp Bộ Tài nguyên và Môi trường biên tập, xử lý siêu dữ liệu viễn thám quốc gia như sau:
 
-**ID:** dk_00046041
+1. Kiểm tra tính chính xác và đầy đủ của nội dung thông tin siêu dữ liệu viễn thám;
 
----
-
-
-### Điều 27.6.TT.7.7. Công bố siêu dữ liệu viễn thám quốc gia thường xuyên
+2. Cập nhật, xử lý và biên tập thông tin siêu dữ liệu viễn thám quốc gia.
 
 Điều 27.6.TT.7.7. Công bố siêu dữ liệu viễn thám quốc gia thường xuyên
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-**Mã phân cấp:** 270060000000000030000180000000000000000000802602000350000700
+1. Cục Viễn thám quốc gia công bố siêu dữ liệu viễn thám quốc gia thường xuyên trên cổng thông tin điện tử của Cục Viễn thám quốc gia. Trường hợp có sự thay đổi địa chỉ cổng thông tin điện tử thì cần thông báo địa chỉ mới cho cơ quan, tổ chức, cá nhân biết, thực hiện.
 
-**ID:** dk_00046042
+2. Nội dung công bố siêu dữ liệu viễn thám quốc gia thường xuyên theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư này, bao gồm các thông tin sau đây:
 
----
+a) Thông tin về các cơ quan, tổ chức, cá nhân giao nộp siêu dữ liệu viễn thám quốc gia;
 
+b) Tổng số lượng các cảnh ảnh, bình đồ ảnh viễn thám giao nộp;
 
-### Điều 27.6.TT.7.8. Công bố siêu dữ liệu viễn thám quốc gia định kỳ hằng năm
+c) Tổng số lượng các cảnh ảnh, bình đồ ảnh viễn thám có độ phủ mây dưới 10% giao nộp;
+
+d) Khu vực có ảnh viễn thám;
+
+đ) Sơ đồ bảng chắp và các nhóm thông tin về siêu dữ liệu viễn thám quốc gia.
+
+3. Trong thời hạn 30 ngày làm việc kể từ ngày các cơ quan, tổ chức, cá nhân giao nộp, Cục Viễn thám quốc gia có trách nhiệm công bố siêu dữ liệu viễn thám quốc gia.
+
+4. Cục Viễn thám quốc gia có trách nhiệm chỉnh sửa và đính chính khi có sai sót về siêu dữ liệu viễn thám quốc gia đã công bố.
+
+Phu luc I.doc
 
 Điều 27.6.TT.7.8. Công bố siêu dữ liệu viễn thám quốc gia định kỳ hằng năm
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-**Mã phân cấp:** 270060000000000030000180000000000000000000802602000350000800
+1. Cục Viễn thám quốc gia giúp Bộ trưởng Bộ Tài nguyên và Môi trường cập nhật, tổng hợp và xây dựng báo cáo siêu dữ liệu viễn thám quốc gia bằng văn bản trước tháng 12 hằng năm.
 
-**ID:** dk_00046043
+2. Nội dung báo cáo siêu dữ liệu viễn thám quốc gia định kỳ hằng năm theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư này, bao gồm các nội dung sau:
 
----
+a) Tình hình dữ liệu viễn thám quốc gia từ thời điểm công bố năm trước đến thời điểm công bố năm nay;
 
+b) Hướng dẫn về tìm kiếm siêu dữ liệu viễn thám quốc gia;
 
-### Điều 27.6.TT.7.9. Tạm hoãn công bố siêu dữ liệu viễn thám quốc gia
+c) Đặc tính kỹ thuật của dữ liệu viễn thám quốc gia;
+
+d) Tình hình khai thác sử dụng siêu viễn thám quốc gia.
+
+3. Báo cáo siêu dữ liệu viễn thám quốc gia phải được người có thẩm quyền phê duyệt trước khi thực hiện việc công bố.
+
+4. Bộ Tài nguyên và Môi trường tổ chức công bố báo cáo siêu dữ liệu viễn thám quốc gia định kỳ vào tháng 12 hằng năm.
+
+Phu luc II.doc
 
 Điều 27.6.TT.7.9. Tạm hoãn công bố siêu dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-**Mã phân cấp:** 270060000000000030000180000000000000000000802602000350000900
+1. Trường hợp việc công bố siêu dữ liệu viễn thám quốc gia không thể thực hiện đúng thời hạn vì những lý do bất khả kháng (thiên tai, hỏa hoạn, chiến tranh) thì phải thực hiện công bố siêu dữ liệu viễn thám quốc gia ngay sau khi sự kiện bất khả kháng đã được khắc phục.
 
-**ID:** dk_00046044
+2. Việc tạm hoãn công bố siêu dữ liệu viễn thám quốc gia phải thông báo trên cổng thông tin điện tử của Cục Viễn thám quốc gia, trong đó phải nêu rõ lý do của việc tạm hoãn.
 
----
+Chương IV
 
-
-### Điều 27.6.NĐ.19. Danh mục thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám
+LƯU TRỮ, CUNG CẤP, KHAI THÁC, SỬ DỤNG THÔNG TIN, DỮ LIỆU ẢNH VIỄN THÁM, SẢN PHẨM VIỄN THÁM
 
 Điều 27.6.NĐ.19. Danh mục thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000400001900000000000000000
+1. Thông tin về hệ thống thu nhận dữ liệu ảnh viễn thám.
 
-**ID:** dk_00046046
+2. Dữ liệu ảnh viễn thám.
 
----
+3. Siêu dữ liệu viễn thám.
 
+4. Thông tin, dữ liệu, sản phẩm viễn thám.
 
-### Điều 27.6.NĐ.20. Giao nộp và lưu trữ thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám
+5. Thông tin, dữ liệu quan trắc, giám sát bằng công nghệ viễn thám.
 
-Điều 27.6.NĐ.20. Giao nộp và lưu trữ thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám
+6. Thông tin dự án, đề án, nhiệm vụ chuyên môn thuộc lĩnh vực viễn thám.
 
-**Chỉ mục:** 20
+7. Kết quả nghiên cứu khoa học và phát triển công nghệ về viễn thám.
 
-**Mã phân cấp:** 2700600000000000400002000000000000000000
+8. Văn bản quy phạm pháp luật về viễn thám.
 
-**ID:** dk_00046047
+9. Tiêu chuẩn, quy chuẩn kỹ thuật về viễn thám.
 
----
+10. Thông tin, dữ liệu, sản phẩm khác theo quy định của dự án, đề án; thiết kế kỹ thuật - dự toán về viễn thám được cấp có thẩm quyền phê duyệt.
 
+(Điều này có nội dung liên quan đến Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện)Điều 27.6.NĐ.20. Giao nộp và lưu trữ thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám
 
-### Điều 27.6.NĐ.21. Hình thức khai thác và sử dụng dữ liệu ảnh viễn thám
+(Điều 20 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-Điều 27.6.NĐ.21. Hình thức khai thác và sử dụng dữ liệu ảnh viễn thám
+1. Thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám của các dự án, đề án, nhiệm vụ chuyên môn viễn thám thực hiện bằng ngân sách nhà nước phải được chủ đầu tư dự án, đề án giao nộp để lưu trữ theo quy định. Danh mục thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám giao nộp theo quy định của dự án, đề án, thiết kế kỹ thuật - dự toán về viễn thám được cấp có thẩm quyền phê duyệt.
 
-**Chỉ mục:** 21
+2. Thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám của các dự án, đề án, nhiệm vụ chuyên môn viễn thám do các đơn vị thuộc Bộ Tài nguyên và Môi trường thực hiện giao nộp để lưu trữ tại Cục Viễn thám quốc gia thuộc Bộ Tài nguyên và Môi trường trong thời hạn chậm nhất là 30 ngày kể từ ngày được nghiệm thu hoàn thành.
 
-**Mã phân cấp:** 2700600000000000400002100000000000000000
+3. Thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám của các dự án, đề án, nhiệm vụ chuyên môn viễn thám do các đơn vị thuộc phạm vi quản lý của Ủy ban nhân dân cấp tỉnh được giao nộp cho Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc trung ương; đồng thời cung cấp danh mục dữ liệu sản phẩm đã giao nộp cho Cục Viễn thám quốc gia thuộc Bộ Tài nguyên và Môi trường trong thời hạn chậm nhất là 90 ngày kể từ ngày được nghiệm thu hoàn thành để tổng hợp, lưu trữ.
 
-**ID:** dk_00046048
+4. Thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám do các đơn vị thuộc phạm vi quản lý của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ giao nộp cho cơ quan, tổ chức lưu trữ thuộc các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; đồng thời cung cấp danh mục dữ liệu sản phẩm đã giao nộp cho Cục Viễn thám quốc gia thuộc Bộ Tài nguyên và Môi trường trong thời hạn chậm nhất là 90 ngày kể từ ngày được nghiệm thu hoàn thành để tổng hợp, lưu trữ.
 
----
+5. Thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám giao nộp để lưu trữ phải được kiểm tra, thẩm định, nghiệm thu chất lượng sản phẩm theo quy định của Bộ Tài nguyên và Môi trường.
 
+6. Cơ quan, tổ chức giao nộp thông báo cho cơ quan, tổ chức lưu trữ về việc giao nộp thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám; trong thời hạn 02 ngày làm việc kể từ ngày nhận được thông báo, cơ quan, tổ chức lưu trữ có trách nhiệm tiếp nhận và lập biên bản bàn giao.
 
-### Điều 27.6.NĐ.22. Khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám qua Trang thông tin hoặc Cổng thông tin điện tử
+7. Cơ quan, tổ chức lưu trữ có trách nhiệm tổ chức việc lưu trữ thông tin, dữ liệu ảnh viễn thám theo quy định của pháp luật về lưu trữ, đảm bảo đủ cơ sở vật chất, phương tiện, thiết bị phục vụ việc lưu trữ, bảo quản an toàn, thuận tiện cho việc khai thác, sử dụng.
 
-Điều 27.6.NĐ.22. Khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám qua Trang thông tin hoặc Cổng thông tin điện tử
+8. Cơ quan, tổ chức có trách nhiệm cung cấp bản sao dữ liệu và siêu dữ liệu ảnh viễn thám mua từ nước ngoài bằng nguồn ngân sách nhà nước cho Bộ Tài nguyên và Môi trường để tích hợp vào cơ sở dữ liệu ảnh viễn thám quốc gia trong thời hạn chậm nhất là 03 tháng, kể từ ngày nhận được dữ liệu từ nhà cung cấp.
 
-**Chỉ mục:** 22
+(Điều này có nội dung liên quan đến Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Chương VII TỔ CHỨC THỰC HIỆN; Chương IV HOẠT ĐỘNG ĐẦU TƯ TẠI VIỆT NAM; Chương II BẢO ĐẢM ĐẦU TƯ; Chương VI QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ; Chương III ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương V HOẠT ĐỘNG ĐẦU TƯ RA NƯỚC NGOÀI của của Đề mục Đầu tư ban hành ngày 26/11/2014; Mục 1 HÌNH THỨC ĐẦU TƯ - Chương IV; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Mục 3 THỦ TỤC CẤP, ĐIỀU CHỈNH VÀ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ ĐẦU TƯ - Chương IV; Điều 5. Chính sách về đầu tư kinh doanh; Điều 6. Ngành, nghề cấm đầu tư kinh doanh; Điều 7. Ngành, nghề đầu tư kinh doanh có điều kiện; Điều 8. Sửa đổi, bổ sung ngành, nghề cấm đầu tư kinh doanh, Danh mục ngành, nghề đầu tư kinh doanh có điều kiện; Điều 12. Bảo lãnh của Chính phủ đối với một số dự án quan trọng; Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư; Điều 16. Ngành, nghề ưu đãi đầu tư và địa bàn ưu đãi đầu tư; Điều 17. Thủ tục áp dụng ưu đãi đầu tư; Điều 18. Mở rộng ưu đãi đầu tư của ; Điều 26. Thủ tục đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 33. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh; Điều 34. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 35. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Quốc hội; Điều 52. Hình thức đầu tư ra nước ngoài; Điều 53. Nguồn vốn đầu tư ra nước ngoài; Điều 62. Chấm dứt dự án đầu tư ra nước ngoài; Điều 75. Sửa đổi, bổ sung khoản 1 Điều 18 của Luật công nghệ cao số 21/2008/QH12; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện của ; Điều 3.3.TT.12.1. của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.2. của của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.3. của )Điều 27.6.NĐ.21. Hình thức khai thác và sử dụng dữ liệu ảnh viễn thám
 
-**Mã phân cấp:** 2700600000000000400002200000000000000000
+(Điều 21 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**ID:** dk_00046049
+Việc khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám thực hiện theo các hình thức sau đây:
 
----
+1. Khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám qua Trang thông tin hoặc Cổng thông tin điện tử hoặc kết nối, truy nhập, chia sẻ thông tin với cơ sở dữ liệu viễn thám của cơ quan quản lý, cung cấp thông tin, dữ liệu ảnh viễn thám.
 
+2. Khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám thông qua phiếu yêu cầu.
 
-### Điều 27.6.NĐ.23. Phiếu yêu cầu cung cấp thông tin, dữ liệu ảnh viễn thám
+3. Khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám bằng hình thức hợp đồng giữa đơn vị quản lý thông tin, dữ liệu ảnh viễn thám và bên khai thác, sử dụng thông tin, dữ liệu ảnh viễn thám theo quy định của pháp luật.
 
-Điều 27.6.NĐ.23. Phiếu yêu cầu cung cấp thông tin, dữ liệu ảnh viễn thám
+(Điều này có nội dung liên quan đến Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện; Điều 3.3.TT.12.1.; Điều 3.3.TT.12.2.; Điều 3.3.TT.12.3.)Điều 27.6.NĐ.22. Khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám qua Trang thông tin hoặc Cổng thông tin điện tử
 
-**Chỉ mục:** 23
+(Điều 22 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000400002300000000000000000
+1. Tổ chức, cá nhân khi khai thác thông tin, dữ liệu ảnh viễn thám trên Trang thông tin hoặc Cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu ảnh viễn thám phải đăng ký và được cấp quyền truy cập, khai thác thông tin, dữ liệu ảnh viễn thám từ cơ quan cung cấp thông tin, dữ liệu ảnh viễn thám.
 
-**ID:** dk_00046050
+2. Tổ chức, cá nhân được cấp quyền truy cập có trách nhiệm truy cập đúng địa chỉ, mã khóa; không được làm lộ địa chỉ, mã khóa truy cập đã được cấp.
 
----
+3. Cơ quan cung cấp thông tin, dữ liệu ảnh viễn thám có trách nhiệm:
 
+a) Bảo đảm cho tổ chức, cá nhân truy cập thuận tiện; có công cụ tìm kiếm thông tin, dữ liệu dễ sử dụng và cho kết quả đúng nội dung cần tìm kiếm;
 
-### Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám
+b) Bảo đảm khuôn dạng thông tin, dữ liệu ảnh viễn thám theo tiêu chuẩn, quy chuẩn kỹ thuật.
 
-Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám
+4. Trường hợp tạm ngừng cung cấp thông tin dữ liệu ảnh viễn thám, dịch vụ có liên quan trên môi trường mạng, cơ quan cung cấp thông tin, dữ liệu ảnh viễn thám có trách nhiệm:
 
-**Chỉ mục:** 24
+a) Thông báo công khai chậm nhất là 07 ngày làm việc trước khi chủ động tạm ngừng cung cấp thông tin, dữ liệu ảnh viễn thám, dịch vụ có liên quan trên mạng để sửa chữa, khắc phục các sự cố hoặc nâng cấp, mở rộng cơ sở hạ tầng thông tin. Nội dung thông báo phải nêu rõ khoảng thời gian dự kiến phục hồi các hoạt động cung cấp thông tin, dữ liệu ảnh viễn thám, dịch vụ có liên quan trên môi trường mạng, trừ trường hợp bất khả kháng;
 
-**Mã phân cấp:** 2700600000000000400002400000000000000000
+b) Tiến hành các biện pháp khắc phục sự cố.
 
-**ID:** dk_00046051
+(Điều này có nội dung liên quan đến Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện)Điều 27.6.NĐ.23. Phiếu yêu cầu cung cấp thông tin, dữ liệu ảnh viễn thám
 
----
+(Điều 23 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
+1. Việc khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám theo hình thức phiếu yêu cầu được thực hiện theo quy định sau:
 
-### Điều 27.6.NĐ.25. Cung cấp thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám cho tổ chức, cá nhân trong nước
+a) Các tổ chức, cá nhân có nhu cầu khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám căn cứ danh mục thông tin, dữ liệu ảnh viễn thám hiện có, lập phiếu yêu cầu (theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định này) nộp trực tiếp, qua bưu điện hoặc trên môi trường mạng điện tử cho các đơn vị quản lý thông tin, dữ liệu ảnh viễn thám;
 
-Điều 27.6.NĐ.25. Cung cấp thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám cho tổ chức, cá nhân trong nước
+b) Trong thời hạn 05 ngày làm việc, cơ quan quản lý thông tin, dữ liệu ảnh viễn thám tiếp nhận kiểm tra phiếu yêu cầu, thông báo nghĩa vụ tài chính (trường hợp phải thực hiện nghĩa vụ tài chính) cho tổ chức, cá nhân. Trường hợp từ chối cung cấp thông tin, dữ liệu ảnh viễn thám thì phải nêu rõ lý do và trả lời bằng văn bản cho tổ chức, cá nhân biết;
 
-**Chỉ mục:** 25
+c) Sau khi tổ chức, cá nhân thực hiện nghĩa vụ tài chính, cơ quan quản lý thông tin, dữ liệu ảnh viễn thám có trách nhiệm cung cấp đầy đủ, chính xác các thông tin, dữ liệu ảnh viễn thám cho các tổ chức, cá nhân.
 
-**Mã phân cấp:** 2700600000000000400002500000000000000000
+2. Phiếu yêu cầu cung cấp thông tin, dữ liệu ảnh viễn thám bao gồm các nội dung chủ yếu sau:
 
-**ID:** dk_00046052
+a) Tên, địa chỉ của cơ quan, tổ chức, cá nhân yêu cầu cung cấp thông tin, dữ liệu ảnh viễn thám;
 
----
+b) Danh mục và nội dung thông tin, dữ liệu ảnh viễn thám cần cung cấp;
 
+c) Mục đích sử dụng thông tin, dữ liệu ảnh viễn thám;
 
-### Điều 27.6.NĐ.26. Quản lý chất lượng sản phẩm viễn thám
+d) Hình thức khai thác, sử dụng thông tin, dữ liệu ảnh viễn thám và phương thức nhận kết quả.
 
-Điều 27.6.NĐ.26. Quản lý chất lượng sản phẩm viễn thám
+3. Khi yêu cầu cung cấp thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám thuộc phạm vi bí mật, thì phiếu yêu cầu của cơ quan, tổ chức phải có chữ ký của thủ trưởng cơ quan và đóng dấu xác nhận.
 
-**Chỉ mục:** 26
+4. Phiếu yêu cầu của cá nhân phải ghi rõ họ tên, địa chỉ và chữ ký của người yêu cầu cung cấp thông tin, dữ liệu.
 
-**Mã phân cấp:** 2700600000000000400002600000000000000000
+5. Trường hợp người có nhu cầu khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám là cá nhân nước ngoài tại Việt Nam thì phiếu yêu cầu phải được tổ chức, doanh nghiệp nơi người đó đang làm việc ký xác nhận, đóng dấu; đối với các chuyên gia, thực tập sinh là người nước ngoài đang làm việc cho các chương trình, dự án tại các bộ, ngành, địa phương hoặc học tập tại các cơ sở đào tạo tại Việt Nam thì phải được cơ quan có thẩm quyền của bộ, ngành, địa phương hoặc các cơ sở đào tạo đó ký xác nhận, đóng dấu (theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định này).
 
-**ID:** dk_00046053
+Mau so 02 – Mau phieu yeu cau cung cap thong tin du lieu anh vien tham.doc
 
----
+Mau so 03 – Mau phieu yeu cau cung cap thong tin du lieu anh vien tham doi voi ca nhan nguoi nuoc ngoai tai Viet Nam.doc
 
+(Điều này có nội dung liên quan đến Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện)Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám
 
-### Điều 27.6.NĐ.27. Trách nhiệm của Bộ Tài nguyên và Môi trường
+(Điều 24 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
+
+1. Không được chuyển thông tin, dữ liệu ảnh viễn thám cho bên thứ ba sử dụng trừ trường hợp được thỏa thuận trong hợp đồng với cơ quan, tổ chức, cá nhân cung cấp thông tin, dữ liệu hoặc cấp có thẩm quyền cho phép.
+
+2. Tổ chức, cá nhân khai thác, sử dụng dữ liệu ảnh viễn thám thuộc sở hữu Nhà nước phải trả phí theo quy định pháp luật về phí, lệ phí.
+
+3. Tuân thủ quy định của pháp luật về sở hữu trí tuệ.
+
+4. Thông báo kịp thời cho cơ quan quản lý thông tin, dữ liệu ảnh viễn thám về những sai sót của thông tin, dữ liệu ảnh viễn thám đã cung cấp.
+
+5. Được khiếu nại, tố cáo theo quy định của pháp luật khi bị vi phạm quyền khai thác, sử dụng thông tin, dữ liệu ảnh viễn thám của mình.
+
+(Điều này có nội dung liên quan đến Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Chương IV TỔ CHỨC THỰC HIỆN; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 1. ; Điều 2. Tổ chức thực hiện của Thông tư 108/2017/TT-BTC Sửa đổi, bổ sung Điều 3 Thông tư số 187/2016/TT-BTC ngày 08 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính 
+quy định mức thu, chế độ thu, nộp, miễn, quản lý và sử dụng phí khai thác và sử dụng dữ liệu viễn thám quốc gia ban hành ngày 16/10/2017; Chương VII TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN CÓ THẨM QUYỀN TRONG VIỆCQUẢN LÝ CÔNG TÁC GIẢI QUYẾT KHIẾU NẠI; Chương IX ĐIỀU KHOẢN THI HÀNH; Chương II KHIẾU NẠI QUYẾT ĐỊNH HÀNH CHÍNH, HÀNH VI HÀNH CHÍNH; Chương V KHIẾU NẠI, GIẢI QUYẾT KHIẾU NẠI QUYẾT ĐỊNH KỶ LUẬT CÁN BỘ, CÔNG CHỨC; Chương III GIẢI QUYẾT KHIẾU NẠI; Chương VIII XỬ LÝ VI PHẠM; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương VI TIẾP CÔNG DÂN của của Đề mục Khiếu nại ban hành ngày 11/11/2011; Mục 1 THẨM QUYỀN GIẢI QUYẾT KHIẾU NẠI; Điều 18.1.LQ.1. Phạm vi điều chỉnh; Mục 1 KHIẾU NẠI; Mục 2 TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT KHIẾU NẠI LẦN ĐẦU; Điều 18.1.LQ.2. Giải thích từ ngữ; Mục 2 QUYỀN, NGHĨA VỤ CỦA NGƯỜI KHIẾU NẠI, NGƯỜI BỊ KHIẾU NẠI VÀ CỦA LUẬT SƯ, TRỢ GIÚP VIÊN PHÁP LÝ; Mục 3 TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT KHIẾU NẠI LẦN HAI; Điều 18.1.LQ.3. Áp dụng pháp luật về khiếu nại và giải quyết khiếu nại; Mục 4 THI HÀNH QUYẾT ĐỊNH GIẢI QUYẾT KHIẾU NẠI CÓ HIỆU LỰC PHÁP LUẬT; Điều 18.1.LQ.4. Nguyên tắc khiếu nại và giải quyết khiếu nại; Điều 18.1.LQ.5. Trách nhiệm giải quyết khiếu nại và phối hợp giải quyết khiếu nại; Điều 18.1.LQ.6. Các hành vi bị nghiêm cấm; Điều 18.1.LQ.7. Trình tự khiếu nại; Điều 18.1.LQ.8. Hình thức khiếu nại; Điều 18.1.LQ.9. Thời hiệu khiếu nại; Điều 18.1.LQ.10. Rút khiếu nại; Điều 18.1.LQ.11. Các khiếu nại không được thụ lý giải quyết; Điều 18.1.LQ.12. Quyền, nghĩa vụ của người khiếu nại; Điều 18.1.LQ.13. Quyền, nghĩa vụ của người bị khiếu nại; Điều 18.1.LQ.14. Quyền, nghĩa vụ của người giải quyết khiếu nại lần đầu; Điều 18.1.LQ.15. Quyền, nghĩa vụ của người giải quyết khiếu nại lần hai; Điều 18.1.LQ.16. Quyền, nghĩa vụ của luật sư, trợ giúp viên pháp lý; Điều 18.1.LQ.17. Thẩm quyền của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn và Thủ trưởng cơ quan thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh; Điều 18.1.LQ.18. Thẩm quyền của Chủ tịch Ủy ban nhân dân cấp huyện; Điều 18.1.LQ.19. Thẩm quyền của Thủ trưởng cơ quan thuộc sở và cấp tương đương; Điều 18.1.LQ.20. Thẩm quyền của Giám đốc sở và cấp tương đương; Điều 18.1.LQ.21. Thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh; Điều 18.1.LQ.22. Thẩm quyền của Thủ trưởng cơ quan thuộc bộ, thuộc cơ quan ngang bộ, thuộc cơ quan thuộc Chính phủ; Điều 18.1.LQ.23. Thẩm quyền của Bộ trưởng; Điều 18.1.LQ.24. Thẩm quyền của Tổng thanh tra Chính phủ; Điều 18.1.LQ.25. Thẩm quyền của Chánh thanh tra các cấp; Điều 18.1.LQ.26. Thẩm quyền của Thủ tướng Chính phủ; Điều 18.1.LQ.27. Thụ lý giải quyết khiếu nại; Điều 18.1.LQ.28. Thời hạn giải quyết khiếu nại lần đầu; Điều 18.1.LQ.29. Xác minh nội dung khiếu nại; Điều 18.1.LQ.30. Tổ chức đối thoại; Điều 18.1.LQ.31. Quyết định giải quyết khiếu nại lần đầu; Điều 18.1.LQ.32. Gửi quyết định giải quyết khiếu nại lần đầu; Điều 18.1.LQ.33. Khiếu nại lần hai hoặc khởi kiện vụ án hành chính; Điều 18.1.LQ.34. Hồ sơ giải quyết khiếu nại; Điều 18.1.LQ.35. Áp dụng biện pháp khẩn cấp; Điều 18.1.LQ.36. Thụ lý giải quyết khiếu nại lần hai; Điều 18.1.LQ.37. Thời hạn giải quyết khiếu nại lần hai; Điều 18.1.LQ.38. Xác minh nội dung khiếu nại lần hai; Điều 18.1.LQ.39. Tổ chức đối thoại lần hai; Điều 18.1.LQ.40. Quyết định giải quyết khiếu nại lần hai; Điều 18.1.LQ.41. Gửi, công bố quyết định giải quyết khiếu nại; Điều 18.1.LQ.42. Khởi kiện vụ án hành chính; Điều 18.1.LQ.43. Hồ sơ giải quyết khiếu nại lần hai; Điều 18.1.LQ.44. Quyết định giải quyết khiếu nại có hiệu lực pháp luật; Điều 18.1.LQ.45. Người có trách nhiệm thực hiện quyết định giải quyết khiếu nại có hiệu lực pháp luật; Điều 18.1.LQ.46. Thi hành quyết định giải quyết khiếu nại có hiệu lực pháp luật; Điều 18.1.LQ.47. Khiếu nại quyết định kỷ luật; Điều 18.1.LQ.48. Thời hiệu khiếu nại; Điều 18.1.LQ.49. Hình thức khiếu nại; Điều 18.1.LQ.50. Thời hạn thụ lý và giải quyết khiếu nại; Điều 18.1.LQ.51. Thẩm quyền giải quyết khiếu nại; Điều 18.1.LQ.52. Xác minh nội dung khiếu nại; Điều 18.1.LQ.53. Tổ chức đối thoại; Điều 18.1.LQ.54. Quyết định giải quyết khiếu nại lần đầu; Điều 18.1.LQ.55. Giải quyết khiếu nại lần hai; Điều 18.1.LQ.56. Quyết định giải quyết khiếu nại lần hai; Điều 18.1.LQ.57. Hiệu lực của quyết định giải quyết khiếu nại, khởi kiện vụ án hành chính; Điều 18.1.LQ.58. Thi hành quyết định giải quyết khiếu nại đối với quyết định kỷ luật cán bộ, công chức có hiệu lực pháp luật; Điều 18.1.LQ.59. Trụ sở tiếp công dân, địa điểm tiếp công dân; Điều 18.1.LQ.60. Quyền, nghĩa vụ của người khiếu nại, tố cáo, kiến nghị, phản ánh tại trụ sở tiếp công dân, địa điểm tiếp công dân; Điều 18.1.LQ.61. Trách nhiệm tiếp công dân của người đứng đầu cơ quan, tổ chức; Điều 18.1.LQ.62. Trách nhiệm của cán bộ tiếp công dân, người phụ trách trụ sở, địa điểm tiếp công dân; Điều 18.1.LQ.63. Trách nhiệm của cơ quan quản lý nhà nước về công tác giải quyết khiếu nại; Điều 18.1.LQ.64. Trách nhiệm của Toà án nhân dân, Viện kiểm sát nhân dân, Kiểm toán Nhà nước, Văn phòng Quốc hội, Văn phòng Chủ tịch nước, các cơ quan khác của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội; Điều 18.1.LQ.65. Trách nhiệm phối hợp trong công tác giải quyết khiếu nại; Điều 18.1.LQ.66. Giám sát của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận; Điều 18.1.LQ.67. Xử lý hành vi vi phạm pháp luật của người giải quyết khiếu nại; Điều 18.1.LQ.68. Xử lý hành vi vi phạm pháp luật về khiếu nại đối với người khiếu nại và những người khác có liên quan; Điều 18.1.LQ.69. Hiệu lực thi hành và điều khoản chuyển tiếp; Điều 18.1.LQ.70. Quy định chi tiết của ; Chương III GIẢI QUYẾT TỐ CÁO ĐỐI VỚI HÀNH VI VI PHẠM PHÁP LUẬT TRONG VIỆC THỰC HIỆN NHIỆM VỤ, CÔNG VỤ; Chương VII TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG VIỆC QUẢN LÝ CÔNG TÁC GIẢI QUYẾT TỐ CÁO; Chương IX ĐIỀU KHOẢN THI HÀNH; Chương VIII KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM; Chương II QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI TỐ CÁO, NGƯỜI BỊ TỐ CÁO, NGƯỜI GIẢI QUYẾT TỐ CÁO; Chương IV GIẢI QUYẾT TỐ CÁO ĐỐI VỚI HÀNH VI VI PHẠM PHÁP LUẬT VỀ QUẢN LÝ NHÀ NƯỚC TRONG CÁC LĨNH VỰC; Chương VI BẢO VỆ NGƯỜI TỐ CÁO; Chương I NHỮNG QUY ĐỊNH CHUNG; Chương V TRÁCH NHIỆM TỔ CHỨC THỰC HIỆN KẾT LUẬN NỘI DUNG TỐ CÁO; Điều 18.5.LQ.1. Phạm vi điều chỉnh; Mục 1 QUY ĐỊNH CHUNG; Mục 1 THẨM QUYỀN GIẢI QUYẾT TỐ CÁO; Mục 2 HÌNH THỨC TỐ CÁO, TIẾP NHẬN,  XỬ LÝ BAN ĐẦU THÔNG TIN TỐ CÁO; Mục 2 TRÌNH TỰ, THỦ TỤC BẢO VỆ; Điều 18.5.LQ.2. Giải thích từ ngữ; Điều 18.5.LQ.3. Áp dụng pháp luật về tố cáo và giải quyết tố cáo; Mục 3 TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT TỐ CÁO; Mục 3 CÁC BIỆN PHÁP BẢO VỆ; Điều 18.5.LQ.4. Nguyên tắc giải quyết tố cáo; Điều 18.5.LQ.5. Trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo; Điều 18.5.LQ.6. Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân có liên quan trong việc giải quyết tố cáo; Điều 18.5.LQ.7. Chấp hành quyết định xử lý hành vi vi phạm pháp luật bị tố cáo; Điều 18.5.LQ.8. Các hành vi bị nghiêm cấm trong tố cáo và giải quyết tố cáo; Điều 18.5.LQ.9. Quyền và nghĩa vụ của người tố cáo; Điều 18.5.LQ.10. Quyền và nghĩa vụ của người bị tố cáo; Điều 18.5.LQ.11. Quyền và nghĩa vụ của người giải quyết tố cáo; Điều 18.5.LQ.12. Nguyên tắc xác định thẩm quyền; Điều 18.5.LQ.13. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan hành chính nhà nước; Điều 18.5.LQ.14. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Tòa án nhân dân; Điều 18.5.LQ.15. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Viện kiểm sát nhân dân; Điều 18.5.LQ.16. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Kiểm toán nhà nước; Điều 18.5.LQ.17. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan khác của Nhà nước; Điều 18.5.LQ.18. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong đơn vị sự nghiệp công lập; Điều 18.5.LQ.19. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người có chức danh, chức vụ trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ; Điều 18.5.LQ.20. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức chính trị, tổ chức chính trị - xã hội; Điều 18.5.LQ.21. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức; Điều 18.5.LQ.22. Hình thức tố cáo; Điều 18.5.LQ.23. Tiếp nhận tố cáo; Điều 18.5.LQ.24. Xử lý ban đầu thông tin tố cáo; Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo; Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến; Điều 18.5.LQ.27. Xử lý tố cáo có dấu hiệu của tội phạm, áp dụng biện pháp ngăn chặn hành vi vi phạm; Điều 18.5.LQ.28. Trình tự giải quyết tố cáo; Điều 18.5.LQ.29. Thụ lý tố cáo; Điều 18.5.LQ.30. Thời hạn giải quyết tố cáo; Điều 18.5.LQ.31. Xác minh nội dung tố cáo; Điều 18.5.LQ.32. Trách nhiệm của Chánh thanh tra các cấp và Tổng Thanh tra Chính phủ; Điều 18.5.LQ.33. Rút tố cáo; Điều 18.5.LQ.34. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo; Điều 18.5.LQ.35. Kết luận nội dung tố cáo; Điều 18.5.LQ.36. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo; Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo; Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết; Điều 18.5.LQ.39. Hồ sơ giải quyết vụ việc tố cáo; Điều 18.5.LQ.40. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo; Điều 18.5.LQ.41. Nguyên tắc xác định thẩm quyền; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 18.5.LQ.43. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay; Điều 18.5.LQ.44. Trách nhiệm của người giải quyết tố cáo; Điều 18.5.LQ.45. Trách nhiệm của người bị tố cáo; Điều 18.5.LQ.46. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan; Điều 18.5.LQ.47. Người được bảo vệ, phạm vi bảo vệ; Điều 18.5.LQ.48. Quyền và nghĩa vụ của người được bảo vệ; Điều 18.5.LQ.49. Cơ quan có thẩm quyền áp dụng biện pháp bảo vệ; Điều 18.5.LQ.50. Đề nghị áp dụng biện pháp bảo vệ; Điều 18.5.LQ.51. Xem xét, quyết định bảo vệ người tố cáo; Điều 18.5.LQ.52. Quyết định áp dụng biện pháp bảo vệ; Điều 18.5.LQ.53. Trách nhiệm của cơ quan, tổ chức, cá nhân; Điều 18.5.LQ.54. Thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ; Điều 18.5.LQ.55. Hồ sơ áp dụng biện pháp bảo vệ; Điều 18.5.LQ.56. Biện pháp bảo vệ bí mật thông tin; Điều 18.5.LQ.57. Biện pháp bảo vệ vị trí công tác, việc làm; Điều 18.5.LQ.58. Biện pháp bảo vệ tính mạng, sức khoẻ, tài sản, danh dự, nhân phẩm; Điều 18.5.LQ.59. Trách nhiệm của cơ quan quản lý nhà nước về công tác giải quyết tố cáo; Điều 18.5.LQ.60. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân, Kiểm toán nhà nước, cơ quan khác của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội; Điều 18.5.LQ.61. Trách nhiệm thông tin, báo cáo trong công tác giải quyết tố cáo; Điều 18.5.LQ.62. Khen thưởng; Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo; Điều 18.5.LQ.64. Xử lý hành vi vi phạm của người có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm bị tố cáo; Điều 18.5.LQ.65. Xử lý hành vi vi phạm của người tố cáo và những người khác có liên quan; Điều 18.5.LQ.66. Hiệu lực thi hành; Điều 18.5.LQ.67. Quy định chi tiết của Luật 25/2018/QH14 Tố cáo ban hành ngày 12/06/2018; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ của ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện; Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 2. Tổ chức thu và người nộp phí; Điều 3. Mức thu phí và miễn phí; Điều 4. Kê khai, nộp phí của tổ chức thu; Điều 5. Quản lý và sử dụng phí; Điều 6. Tổ chức thực hiện và điều khoản thi hành của )Điều 27.6.NĐ.25. Cung cấp thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám cho tổ chức, cá nhân trong nước
+
+(Điều 25 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
+
+1. Thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám là tài sản công được cung cấp, khai thác, sử dụng dưới dạng bản sao hoặc dưới dạng xuất bản phần mềm điện tử. Tổ chức, cá nhân cung cấp thông tin, dữ liệu ảnh viễn thám có trách nhiệm về nguồn gốc của bản sao.
+
+2. Thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám được ưu tiên cung cấp theo yêu cầu trực tiếp của lãnh đạo Đảng và Nhà nước hoặc trong tình trạng khẩn cấp, phục vụ nhiệm vụ quốc phòng, an ninh, tìm kiếm cứu nạn.
+
+3. Việc cung cấp thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám thuộc phạm vi bí mật Nhà nước phải thực hiện theo quy định của pháp luật về bảo vệ bí mật Nhà nước.
+
+4. Tổ chức cung cấp thông tin, dữ liệu ảnh viễn thám chịu trách nhiệm trước pháp luật về nguồn gốc, tính chính xác, đầy đủ của thông tin, dữ liệu ảnh viễn thám do mình cung cấp.
+
+(Điều này có nội dung liên quan đến Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện)Điều 27.6.NĐ.26. Quản lý chất lượng sản phẩm viễn thám
+
+(Điều 26 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
+
+ 1. Việc xây dựng, công bố, ban hành và áp dụng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia của lĩnh vực viễn thám được thực hiện theo quy định về pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật, đảm bảo đồng bộ, thống nhất, phù hợp với xu hướng phát triển công nghiệp.
+
+ 2. Bộ Tài nguyên và Môi trường có trách nhiệm xây dựng tiêu chuẩn quốc gia về viễn thám gửi Bộ Khoa học và Công nghệ thẩm định và công bố tiêu chuẩn quốc gia; xây dựng quy chuẩn kỹ thuật quốc gia về viễn thám gửi Bộ Khoa học và Công nghệ thẩm định trước khi ban hành.
+
+ 3. Quản lý chất lượng sản phẩm viễn thám:
+
+ a) Quản lý chất lượng sản phẩm viễn thám được thực hiện theo pháp luật về chất lượng sản phẩm, hàng hóa;
+
+ b) Việc kiểm tra chất lượng sản phẩm viễn thám trong sản xuất được thực hiện theo tiêu chuẩn, quy chuẩn kỹ thuật quốc gia của lĩnh vực viễn thám và thiết kế kỹ thuật được phê duyệt;
+
+ c) Sản phẩm viễn thám sản xuất trong nước, nhập khẩu lưu thông trên thị trường phải bảo đảm chất lượng phù hợp với tiêu chuẩn công bố áp dụng, quy chuẩn kỹ thuật của lĩnh vực viễn thám và quy định của pháp luật;
+
+ d) Tổ chức, cá nhân chịu trách nhiệm về kết quả giám sát, kiểm tra chất lượng, nghiệm thu sản phẩm viễn thám;
+
+ đ) Tổ chức, cá nhân phải công bố tiêu chuẩn áp dụng và công bố hợp quy về sản phẩm viễn thám do mình tạo ra;
+
+ e) Tổ chức, cá nhân chịu trách nhiệm trước pháp luật về chất lượng sản phẩm viễn thám do mình tạo ra.Chương V
+
+TRÁCH NHIỆM VỀ HOẠT ĐỘNG VIỄN THÁM
 
 Điều 27.6.NĐ.27. Trách nhiệm của Bộ Tài nguyên và Môi trường
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000500002700000000000000000
+1. Chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà nước về hoạt động viễn thám.
 
-**ID:** dk_00046055
+2. Ban hành hoặc trình cấp có thẩm quyền các văn bản quy phạm pháp luật; định mức kinh tế kỹ thuật của lĩnh vực viễn thám, quy chế phối hợp liên ngành về khai thác sử dụng dữ liệu viễn thám.
 
----
+3. Thẩm định về nội dung liên quan đến hệ thống thu nhận dữ liệu ảnh viễn thám; thu nhận, lưu trữ, xử lý, cung cấp, khai thác và sử dụng dữ liệu ảnh viễn thám; ứng dụng và phát triển công nghệ viễn thám đối với các chương trình, đề án, dự án, nhiệm vụ của các bộ, ngành, địa phương.
 
+4. Tổ chức triển khai các nhiệm vụ viễn thám thuộc phạm vi quản lý.
 
-### Điều 27.6.NĐ.28. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan
+5. Quản lý chất lượng sản phẩm viễn thám.
 
-Điều 27.6.NĐ.28. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan
+6. Xây dựng và tổ chức thực hiện chương trình, kế hoạch đào tạo, tập huấn, bồi dưỡng kiến thức trong lĩnh vực viễn thám.
 
-**Chỉ mục:** 28
+7. Chủ trì và phối hợp hoạt động hợp tác quốc tế trong lĩnh vực viễn thám.
 
-**Mã phân cấp:** 2700600000000000500002800000000000000000
+8. Tổng hợp và công bố siêu dữ liệu viễn thám của cơ sở dữ liệu ảnh viễn thám quốc gia.
 
-**ID:** dk_00046056
+9. Tổng hợp nhu cầu sử dụng dữ liệu ảnh viễn thám của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh định kỳ hàng năm, 05 năm và theo nhiệm vụ đột xuất Nhà nước giao để xây dựng kế hoạch thu nhận dữ liệu ảnh viễn thám.
 
----
+10. Chủ trì tổ chức triển khai việc thu nhận, lưu trữ, xử lý, cung cấp dữ liệu ảnh viễn thám; xây dựng, cập nhật cơ sở dữ liệu ảnh viễn thám quốc gia.
 
+11. Xây dựng, quản lý, khai thác và vận hành công trình hạ tầng thu nhận dữ liệu ảnh viễn thám thuộc phạm vi quản lý của bộ.
 
-### Điều 27.6.NĐ.29. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+12. Thanh tra, kiểm tra việc chấp hành quy định của pháp luật về viễn thám và xử lý vi phạm pháp luật về viễn thám theo thẩm quyền.
 
-Điều 27.6.NĐ.29. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+(Điều này có nội dung liên quan đến Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 3.3.TT.12.1. của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.2. của của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.3. của )Điều 27.6.NĐ.28. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan
 
-**Chỉ mục:** 29
+(Điều 28 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-**Mã phân cấp:** 2700600000000000500002900000000000000000
+1. Tổ chức triển khai thực hiện các đề án, dự án về ứng dụng viễn thám trong phạm vi quản lý.
 
-**ID:** dk_00046057
+2. Thực hiện việc quản lý chất lượng sản phẩm viễn thám, lưu trữ và cung cấp thông tin, dữ liệu ảnh viễn thám thuộc phạm vi quản lý.
 
----
+3. Hàng năm báo cáo Bộ Tài nguyên và Môi trường về tình hình hoạt động viễn thám thuộc phạm vi quản lý.
 
+4. Chịu trách nhiệm xây dựng, quản lý, vận hành vệ tinh viễn thám, trạm thu dữ liệu viễn thám chuyên ngành, trạm điều khiển vệ tinh viễn thám thuộc phạm vi quản lý; báo cáo định kỳ hàng quý hoặc đột xuất về Bộ Tài nguyên và Môi trường.
 
-### Điều 27.6.NĐ.30. Báo cáo về hoạt động viễn thám
+5. Xây dựng nhu cầu sử dụng dữ liệu ảnh viễn thám thuộc phạm vi quản lý định kỳ hàng năm, 05 năm và theo nhiệm vụ đột xuất Nhà nước giao, gửi Bộ Tài nguyên và Môi trường để tổng hợp và thống nhất việc thu nhận.
 
-*Nội dung chưa có sẵn*
+6. Triển khai thực hiện việc thu nhận, lưu trữ, xử lý dữ liệu ảnh viễn thám thuộc phạm vi quản lý.
 
-**Chỉ mục:** 30
+7. Chịu trách nhiệm bảo đảm hành lang an toàn kỹ thuật và bảo vệ các công trình hạ tầng thu nhận dữ liệu ảnh viễn thám thuộc phạm vi quản lý theo quy định tại Nghị định này và pháp luật có liên quan.
 
-**Mã phân cấp:** 2700600000000000500003000000000000000000
+8. Xây dựng, cập nhật, công bố siêu dữ liệu viễn thám để đáp ứng yêu cầu khai thác và sử dụng thuộc phạm vi quản lý.
 
-**ID:** dk_00046058
+(Điều này có nội dung liên quan đến Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Nguyên tắc chung; Điều 4. Quản lý và vận hành vệ tinh VNREDSat-1; Điều 5. Khai thác vệ tinh VNREDSat-1; Điều 6. Kinh phí quản lý, vận hành vệ tinh VNREDSat-1; Điều 7. Cơ chế tài chính trong việc khai thác và sử dụng dữ liệu ảnh vệ tinh VNREDSat-1; Điều 8. Điều khoản thi hành của Quyết định 30/2014/QĐ-TTg Về việc quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1 ban hành ngày 26/04/2014; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ của ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện của )Điều 27.6.NĐ.29. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
----
+(Điều 29 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
+1. Tổ chức triển khai thực hiện các đề án, dự án về ứng dụng viễn thám trong phạm vi quản lý.
 
-### Điều 27.6.NĐ.31. Quản lý các dự án, đề án, nhiệm vụ chuyên môn viễn thám
+2. Bảo đảm hành lang an toàn kỹ thuật và bảo vệ các công trình hạ tầng thu nhận dữ liệu ảnh viễn thám thuộc phạm vi quản lý theo quy định tại Nghị định này và các quy định pháp luật khác có liên quan.
 
-Điều 27.6.NĐ.31. Quản lý các dự án, đề án, nhiệm vụ chuyên môn viễn thám
+3. Xây dựng nhu cầu sử dụng dữ liệu ảnh viễn thám thuộc phạm vi quản lý của địa phương định kỳ hàng năm, 05 năm và theo nhiệm vụ đột xuất Nhà nước giao, gửi Bộ Tài nguyên và Môi trường để tổng hợp và thống nhất việc thu nhận.
 
-**Chỉ mục:** 31
+4. Triển khai thực hiện việc thu nhận, lưu trữ, xử lý dữ liệu ảnh viễn thám thuộc phạm vi quản lý.
 
-**Mã phân cấp:** 2700600000000000500003100000000000000000
+5. Xây dựng, cập nhật, công bố siêu dữ liệu viễn thám để đáp ứng yêu cầu khai thác và sử dụng thuộc phạm vi quản lý của địa phương; cung cấp bản sao dữ liệu và siêu dữ liệu ảnh viễn thám mua từ nước ngoài bằng nguồn ngân sách nhà nước cho Bộ Tài nguyên và Môi trường để tích hợp vào cơ sở dữ liệu ảnh viễn thám quốc gia trong thời hạn chậm nhất là 03 tháng, kể từ ngày nhận được dữ liệu từ nhà cung cấp.
 
-**ID:** dk_00046059
+6. Quản lý chất lượng sản phẩm viễn thám, lưu trữ và cung cấp thông tin, dữ liệu ảnh viễn thám thuộc phạm vi quản lý của địa phương.
 
----
+7. Thanh tra, kiểm tra, xử lý vi phạm trong việc chấp hành các quy định pháp luật của các tổ chức, cá nhân tham gia hoạt động viễn thám thuộc phạm vi quản lý.
 
+8. Hàng năm báo cáo Bộ Tài nguyên và Môi trường về tình hình hoạt động viễn thám thuộc phạm vi quản lý của địa phương.
 
-### Điều 27.6.TT.8.1. Ban hành kèm theo Thông tư này là Quy trình công nghệ và Định mức kinh tế - kỹ thuật thu nhận và xử lý ảnh VNREDSat-1.
+(Điều này có nội dung liên quan đến Chương III TỔ CHỨC, QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương IV KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương II THU THẬP THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VI TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN QUẢN LÝ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương VIII ĐIỀU KHOẢN THI HÀNH; Chương VII BẢO VỆ QUYỀN SỞ HỮU THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG; Chương I QUY ĐỊNH CHUNG; Chương V KẾT NỐI, CHIA SẺ THÔNG TIN, DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN MÔI TRƯỜNG ĐIỆN TỬ của Nghị định 73/2017/NĐ-CP Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường ban hành ngày 14/06/2017; Chương II GIAO NỘP, THU NHẬN DỮ LIỆU MÔI TRƯỜNG; Chương III LƯU TRỮ, BẢO QUẢN VÀ CUNG CẤP DỮ LIỆU MÔI TRƯỜNG; Chương IV TỔ CHỨC THỰC HIỆN; Chương I QUY ĐỊNH CHUNG; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Dữ liệu môi trường; Điều 4. Giao nộp dữ liệu môi trường; Điều 5. Cơ quan quản lý dữ liệu môi trường; Điều 6. Thu nhận dữ liệu môi trường; Điều 7. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp dữ liệu môi trường; Điều 8. Nguyên tắc lưu trữ, bảo quản; Điều 9. Trách nhiệm của cơ quan quản lý dữ liệu môi trường; Điều 10. Thời hạn lưu giữ, bảo quản dữ liệu; Điều 11. Cung cấp dữ liệu môi trường; Điều 12. Kinh phí cung cấp, khai thác và sử dụng dữ liệu môi trường; Điều 13. Công bố danh mục dữ liệu môi trường; Điều 14. Hiệu lực thi hành; Điều 15. Trách nhiệm thi hành của Thông tư 34/2013/TT-BTNMT Quy định về giao nộp, thu nhận, lưu trữ, bảo quản
+và cung cấp dữ liệu môi trường ban hành ngày 30/10/2013; Điều 3.3.NĐ.6.1. Phạm vi điều chỉnh; Điều 3.3.NĐ.6.2. Đối tượng áp dụng; Điều 3.3.NĐ.6.3. Giải thích từ ngữ; Điều 3.3.NĐ.6.4. Thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.5. Nguyên tắc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.6. Sự tham gia của các tổ chức, cá nhân; Điều 3.3.NĐ.6.7. Hợp tác quốc tế về thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.8. Kinh phí thu thập, xử lý thông tin, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.9. Trách nhiệm của tổ chức, cá nhân trong việc thu thập thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.10. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng; Điều 3.3.NĐ.6.11. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.12. Xây dựng cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.13. Vận hành, cập nhật cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.14. Bảo đảm an toàn và bảo mật thông tin; Điều 3.3.NĐ.6.15. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.16. Hình thức, thủ tục khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.17. Khai thác và sử dụng thông tin, dữ liệu qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.18. Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu; Điều 3.3.NĐ.6.19. Khai thác và sử dụng thông tin, dữ liệu bằng hình thức hợp đồng; Điều 3.3.NĐ.6.20. Trách nhiệm của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.21. Nguyên tắc kết nối, chia sẻ thông tin, dữ liệu tài nguyên và môi trường giữa các bộ, ngành và Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.22. Phối hợp kết nối, chia sẻ thông tin, dữ liệu giữa các cơ sở dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.23. Kết nối, tích hợp thông tin, số liệu quan trắc tài nguyên và môi trường trên môi trường điện tử; Điều 3.3.NĐ.6.24. Trách nhiệm quản lý nhà nước về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.25. Trách nhiệm của Bộ Tài nguyên và Môi trường; Điều 3.3.NĐ.6.26. Trách nhiệm của các bộ, ngành; Điều 3.3.NĐ.6.27. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 3.3.NĐ.6.28. Trách nhiệm của tổ chức, cá nhân thu thập, cung cấp thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.29. Quyền sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.30. Bảo hộ sở hữu trí tuệ đối với thông tin, dữ liệu tài nguyên và môi trường; Điều 3.3.NĐ.6.31. Xử lý thông tin, dữ liệu tài nguyên và môi trường đã được điều tra, thu thập trước ngày Nghị định này có hiệu lực thi hành; Điều 3.3.NĐ.6.32. Hiệu lực thi hành; Điều 3.3.NĐ.6.33. Tổ chức thực hiện của ; Điều 3.3.TT.12.1. của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.2. của của Thông tư 26/2014/TT-BTNMT Ban hành Quy trình và Định mức
+kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường ban hành ngày 28/05/2014; Điều 3.3.TT.12.3. của )Điều 27.6.NĐ.30. Báo cáo về hoạt động viễn thám
+
+(Điều 30 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
+
+ 1. Đối tượng lập báo cáo hàng năm về hoạt động viễn thám gồm bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh có hoạt động viễn thám.
+
+ 2. Kỳ báo cáo tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 hàng năm.
+
+ 3. Báo cáo được gửi bằng văn bản điện tử có chữ ký số của người có thẩm quyền hoặc văn bản giấy do người có thẩm quyền ký và đóng dấu.
+
+ 4. Trách nhiệm lập và gửi báo cáo về hoạt động viễn thám
+
+ a) Tổ chức hoạt động viễn thám thuộc phạm vi quản lý của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ lập báo cáo về hoạt động viễn thám gửi cơ quan chủ quản trong thời hạn 10 ngày sau khi kết thúc kỳ báo cáo;
+
+ b) Tổ chức hoạt động viễn thám thuộc phạm vi quản lý của Ủy ban nhân dân cấp tỉnh lập báo cáo về hoạt động viễn thám gửi Sở Tài nguyên và Môi trường trong thời hạn 10 ngày sau khi kết thúc kỳ báo cáo để tổng hợp báo cáo Ủy ban nhân dân cấp tỉnh;
+
+ c) Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh lập báo cáo về hoạt động viễn thám thuộc phạm vi quản lý gửi về Bộ Tài nguyên và Môi trường thông qua Cục Viễn thám quốc gia trong thời hạn 30 ngày sau khi kết thúc kỳ báo cáo;
+
+ d) Cục Viễn thám quốc gia lập báo cáo về hoạt động viễn thám trên phạm vi cả nước trình Bộ trưởng Bộ Tài nguyên và Môi trường ký, gửi Chính phủ trong thời hạn 45 ngày sau khi kết thúc kỳ báo cáo.
+
+ 5. Ngoài việc thực hiện báo cáo định kỳ, khi có yêu cầu của cơ quan quản lý nhà nước về viễn thám thì cơ quan, tổ chức liên quan có trách nhiệm báo cáo đột xuất về tình hình hoạt động viễn thám theo yêu cầu.
+
+ 6. Cơ quan, tổ chức chịu trách nhiệm về tính chính xác của thông tin, số liệu trong báo cáo về hoạt động viễn thám của mình.Điều 27.6.NĐ.31. Quản lý các dự án, đề án, nhiệm vụ chuyên môn viễn thám
+
+(Điều 31 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
+
+ Cơ quan, tổ chức thực hiện các dự án, đề án, nhiệm vụ chuyên môn viễn thám bằng nguồn vốn ngân sách nhà nước hàng năm và đột xuất trên cơ sở dự án được lập theo các quy định hiện hành phải báo cáo kết quả thực hiện khi kết thúc cho cơ quan quản lý nhà nước về viễn thám.Chương VI
+
+QUY ĐỊNH QUY TRÌNH, KỸ THUẬT VÀ ĐỊNH MỨC - KINH TẾ KỸ THUẬT
+
+Mục 1
+
+QUY ĐỊNH QUY TRÌNH
 
 Điều 27.6.TT.8.1. Ban hành kèm theo Thông tư này là Quy trình công nghệ và Định mức kinh tế - kỹ thuật thu nhận và xử lý ảnh VNREDSat-1.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 52/2016/TT-BTNMT Quy định quy trình công nghệ và Định mức kinh tế - kỹ thuật thu nhận và xử lý thu nhận và xử lý ảnh VNREDSat-1 ngày 30/12/2016 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 16/02/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802605200520000100
-
-**ID:** dk_00046062
-
----
-
-
-### Điều 27.6.TT.9.4. Sơ đồ quy trình đo khống chế ảnh viễn thám
+QD – Quy trinh cong nghe va DMKTKT thu nhan va xu ly anh VNREDSAT-1.doc
 
 Điều 27.6.TT.9.4. Sơ đồ quy trình đo khống chế ảnh viễn thám
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080000400
+ Công tác chuẩn bị
 
-**ID:** dk_00046063
+ Chọn điểm khống chế ảnh viễn thám ở nội nghiệp
 
----
+ Thiết kế sơ đồ đo nối điểm khống chế ảnh viễn thám
 
+ Xác định điểm khống chế và điểm kiểm tra ảnh viễn thám ở ngoại nghiệp
 
-### Điều 27.6.TT.9.5. Công tác chuẩn bị
+ Tu chỉnh điểm khống chế ảnh viễn thám
 
-*Nội dung chưa có sẵn*
+ Kiểm tra, nghiệm thu kết quả đo điểm khống chế ảnh viễn thám
 
-**Chỉ mục:** 5
+ Giao nộp kết quả đo điểm khống chế ảnh viễn thám
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080000500
+ Đo và xử lý số liệu đo điểm khống chế ảnh viễn thám
 
-**ID:** dk_00046064
+*Hình 1: Sơ đồ quy trình đo khống chế ảnh viễn thám *
 
----
+Điều 27.6.TT.9.5. Công tác chuẩn bị
 
+(Điều 5 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-### Điều 27.6.TT.9.6. Chọn điểm khống chế ảnh viễn thám ở nội nghiệp
+1. Xác định khu vực đo khống chế ảnh viễn thám.
+
+2. Thu thập các tài liệu bao gồm:
+
+a) Ảnh viễn thám khu vực đo khống chế;
+
+b) Sơ đồ, tọa độ, độ cao của các điểm tọa độ và điểm độ cao quốc gia đã có trong khu vực đo khống chế ảnh viễn thám;
+
+c) Thiết kế kỹ thuật và các tài liệu kỹ thuật khác có liên quan;
+
+d) Tài liệu bản đồ địa hình mới nhất của khu vực đo khống chế ảnh viễn thám.
+
+3. Xác định phương pháp đo khống chế ảnh viễn thám bao gồm: đo bằng công nghệ GNSS đo tĩnh hoặc bằng phương pháp đường chuyền sử dụng máy toàn đạc điện tử hoặc kinh vĩ điện tử tùy theo thiết kế kỹ thuật.
+
+4. Kiểm tra máy đo đạc điểm khống chế ảnh viễn thám:
+
+a) Các máy thu tín hiệu vệ tinh đo GNSS sử dụng trong đo khống chế ảnh viễn thám phải có giấy chứng nhận kiểm định còn hiệu lực;
+
+b) Các máy toàn đạc điện tử, máy kinh vĩ điện tử, thước invar, thước thép phải có chứng nhận kiểm định còn hiệu lực;
+
+c) Các thiết bị phải được kiểm tra trước khi đo khống chế ảnh viễn thám. Tài liệu kiểm tra phải lưu kèm theo kết quả đo khống chế ảnh viễn thám.
 
 Điều 27.6.TT.9.6. Chọn điểm khống chế ảnh viễn thám ở nội nghiệp
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080000600
-
-**ID:** dk_00046065
-
----
-
-
-### Điều 27.6.TT.9.7. Thiết kế sơ đồ đo nối điểm khống chế ảnh viễn thám
+Chọn điểm khống chế ảnh viễn thám và đồ hình bố trí điểm khống chế ảnh viễn thám phải tuân thủ theo các quy định tại khoản 1 và điểm a, điểm b khoản 2 Điều 9 Thông tư số 10/2015/TT-BTNMT ngày 25 tháng 3 năm 2015 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định kỹ thuật về sản xuất ảnh viễn thám quang học độ phân giải cao và siêu cao để cung cấp đến người sử dụng.
 
 Điều 27.6.TT.9.7. Thiết kế sơ đồ đo nối điểm khống chế ảnh viễn thám
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080000700
+1. Trên sơ đồ đo nối phải thể hiện các cảnh ảnh viễn thám có trong khu vực cần đo khống chế ảnh, số hiệu cảnh ảnh, các điểm gốc đã có trong khu vực, các điểm khống chế ảnh viễn thám, điểm kiểm tra vừa thiết kế và các hướng đo nối.
 
-**ID:** dk_00046066
+2. Tùy thuộc phương pháp đo, loại máy đo và số lượng máy đo để thiết kế sơ đồ đo nối. Có thể chia khu đo thành các cụm nhỏ để thuận tiện cho quá trình đo nối.
 
----
+3. Thiết kế tuyến đo nối khống chế ảnh viễn thám:
 
+a) Thu thập bản đồ địa hình mới nhất phủ trùm khu vực bố trí các ca đo khống chế ảnh trong ngày. Tiến hành thiết kế các ca đo phù hợp với thời gian đo
 
-### Điều 27.6.TT.9.8. Xác định điểm khống chế, điểm kiểm tra ở ngoại nghiệp
+và có tính đến thời gian di chuyển giữa các vị trí đo khống chế ảnh;
+
+b) Thiết kế tuyến đường di chuyển giữa các vị trí điểm gốc khống chế ảnh và điểm đo nối khống chế ảnh.
+
+4. Thiết kế đo điểm khống chế ảnh viễn thám:
+
+a) Đo bằng công nghệ GNSS:
+
+Trước khi tiến hành đo cần lập lịch đo và cần lập bảng dự báo các vệ tinh có thể quan sát được;
+
+Căn cứ vào số lượng máy thu, đồ hình lưới đo GNSS đã thiết kế và bảng dự báo vệ tinh. Lập bảng điều độ đo ngắm với nội dung: Thời gian đo, số liệu trạm đo, tên trạm đo, số liệu máy thu v.v…
+
+b) Đo bằng phương pháp đường chuyền sử dụng máy toàn đạc điện tử hoặc máy kinh vĩ điện tử:
+
+Khi đo đạc điểm khống chế ảnh viễn thám bằng phương pháp đường chuyền, căn cứ vào mật độ điểm khởi tính có thể thiết kế dưới dạng đường chuyền đơn hoặc thành mạng lưới tuỳ vào điều kiện địa hình;
+
+Các thông số phải được nêu trong thiết kế kỹ thuật - dự toán hoặc phương án thi công phải tuân thủ quy định tại Bảng 2 Điều 10 của Thông tư này.
 
 Điều 27.6.TT.9.8. Xác định điểm khống chế, điểm kiểm tra ở ngoại nghiệp
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080000800
+1. Tìm và xác định điểm gốc đo nối khống chế, điểm khống chế ảnh viễn thám và điểm kiểm tra ở ngoại nghiệp. Điểm khống chế ảnh, điểm kiểm tra phải được đóng cọc gỗ hoặc dùng sơn đánh dấu vị trí ở thực địa (cọc gỗ có đường kính từ 3 cm trở lên và có đóng đinh chữ thập ở tâm cọc, nếu dùng sơn để đánh dấu thì nét sơn không được to quá 1 cm), đảm bảo tồn tại trong thời gian thi công và kiểm tra, nghiệm thu.
 
-**ID:** dk_00046067
+2. Điểm khống chế ảnh và điểm kiểm tra phải đảm bảo có thể nhận biết được với độ chính xác đến 0,5 pixel trên ảnh viễn thám và không có bất kỳ sự thay đổi nào về vị trí trong quá trình thi công.
 
----
-
-
-### Điều 27.6.TT.9.9. Đo và xử lý số liệu đo điểm khống chế ảnh viễn thám bằng công nghệ GNSS
+3. Các điểm khống chế ảnh viễn thám, điểm kiểm tra phải chích lên ảnh ngay tại thực địa.
 
 Điều 27.6.TT.9.9. Đo và xử lý số liệu đo điểm khống chế ảnh viễn thám bằng công nghệ GNSS
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080000900
+1. Đo điểm khống chế ảnh viễn thám:
 
-**ID:** dk_00046068
+a) Điểm khống chế ảnh viễn thám phải được bố trí đo nối từ 02 điểm toạ độ, độ cao nhà nước hạng III trở lên hoặc điểm địa chính cơ sở;
 
----
+b) Các máy tại điểm gốc bật và thu tín hiệu liên tục trong các ca đo;
 
+c) Tiến hành đo điểm khống chế ảnh viễn thám theo quy định tại các điểm 6.2, 6.3, 6.4, 6.5, 6.6 mục 6 phần II Thông tư số 06/2009/TT-BTNMT ngày 18 tháng 6 năm 2009 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về quy chuẩn kỹ thuật Quốc gia về xây dựng lưới tọa độ;
 
-### Điều 27.6.TT.9.10. Đo và xử lý số liệu đo điểm khống chế ảnh viễn thám sử dụng máy toàn đạc điện tử hoặc máy kinh vĩ điện tử
+d) Tại trạm máy ở ngoài thực địa phải tiến hành ghi sổ đầy đủ theo các mục của sổ đo. Chữ, số điền viết trong sổ đo phải rõ ràng, chính xác, sạch sẽ và không được tẩy xóa, nếu viết nhầm phải gạch số sai và viết số đúng lên trên đồng thời ghi rõ nguyên nhân. Mẫu sổ đo GNSS theo quy định tại Phụ lục 7 Thông tư số 06/2009/TT-BTNMT ngày 18 tháng 6 năm 2009 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về quy chuẩn kỹ thuật Quốc gia về xây dựng lưới tọa độ.
+
+2. Tính toán bình sai điểm khống chế ảnh viễn thám:
+
+a) Khi sử dụng các máy thu tín hiệu vệ tinh của nhiều hãng sản xuất khác nhau để đo điểm khống chế ảnh viễn thám, dữ liệu đo phải chuyển đổi sang cùng một khuôn dạng RINEX;
+
+b) Xử lý số liệu, tính véc tơ cạnh: trong ca đo đồng bộ với nhiều máy thu, có thể tính riêng từng véc tơ cạnh, cũng có thể chọn các véc tơ cạnh độc lập và cùng tính theo cách xử lý nhiều véc tơ cạnh;
+
+c) Các phần mềm để tính toán, xử lý số liệu đo điểm khống chế ảnh viễn thám phải phù hợp với loại máy thu tín hiệu vệ tinh để giải tự động véc tơ cạnh;
+
+d) Việc bình sai điểm khống chế ảnh viễn thám được thực hiện sau khi tính khái lược cạnh và sai số khép cho toàn bộ mạng lưới đạt chỉ tiêu kỹ thuật;
+
+đ) Tính toán bình sai lưới khống chế ảnh sử dụng công nghệ đo bằng GNSS phải đảm bảo các yêu cầu về độ chính xác theo quy định tại Bảng 1.
+
+ **STT**
+
+ **Tiêu chí đánh giá độ chính xác**
+
+ **Chỉ tiêu kỹ thuật**
+
+ 1
+
+ Phương pháp đo
+
+ Đo tĩnh
+
+ 2
+
+ Sử dụng máy thu có trị tuyệt đối đo cạnh
+
+ (D: khoảng cách tính bằng km)
+
+ 10mm+2.10-6D
+
+ 3
+
+ Số vệ tinh quan trắc dùng được
+
+ ≥ 4
+
+ 4
+
+ PDOP lớn nhất
+
+ ≤ 4
+
+ 5
+
+ Góc ngưỡng cao của vệ tinh (o)
+
+ ≥ 15
+
+ 6
+
+ Thời gian đo ngắm đồng thời
+
+ ≥ 60 phút
+
+ 7
+
+ Khoảng cách tối đa từ một điểm khống chế ảnh tới điểm cấp cao gần nhất
+
+ ≤ 30 km
+
+ 8
+
+ Số cạnh độc lập tại một điểm
+
+ ≥ 2
+
+ 9
+
+ Sai số vị trí điểm khống chế ảnh viễn thám sau bình sai so với điểm gốc toạ độ nhà nước gần nhất
+
+ ≤ 0.2 pixel
+
+*Bảng 1: Các yêu cầu kỹ thuật cơ bản khi sử dụng công nghệ GNSS*
 
 Điều 27.6.TT.9.10. Đo và xử lý số liệu đo điểm khống chế ảnh viễn thám sử dụng máy toàn đạc điện tử hoặc máy kinh vĩ điện tử
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080001000
+1. Đo điểm khống chế ảnh viễn thám
 
-**ID:** dk_00046069
+Sử dụng máy toàn đạc điện tử hoặc máy kinh vĩ điện tử tiến hành đo điểm khống chế ảnh viễn thám theo lưới đường chuyền đã được thiết kế. Khi sử dụng máy toàn đạc điện tử hoặc máy kinh vĩ điện tử để đo điểm khống chế ảnh và điểm kiểm tra phải tuân thủ chỉ tiêu kỹ thuật quy định tại Thông tư số 68/2015/TT-BTNMT ngày 22 tháng 12 năm 2015 của Bộ trưởng Bộ Tài nguyên và Môi trường về quy định kỹ thuật đo đạc trực tiếp địa hình phục vụ thành lập bản đồ địa hình và cơ sở dữ liệu nền địa lý tỷ lệ 1:500, 1:1000, 1:2000, 1:5000.
 
----
+2. Tính toán bình sai điểm khống chế ảnh viễn thám:
 
+a) Kết quả đo được tính toán khái lược bằng phương pháp bình sai gần đúng. Khi sai số khép góc hoặc sai số khép vòng, sai số khép giới hạn tương đối đường chuyền đạt giới hạn cho phép thì kết quả đo này mới được sử dụng để bình sai bằng phương pháp bình sai chặt chẽ;
 
-### Điều 27.6.TT.9.11. Tu chỉnh điểm khống chế ảnh viễn thám
+b) Tính toán bình sai lưới khống chế ảnh sử dụng công nghệ đo bằng phương pháp đường chuyền quy định tại Bảng 2.
+
+ **STT**
+
+ **Tiêu chí đánh giá độ chính xác**
+
+ **Chỉ tiêu kỹ thuật**
+
+ 1
+
+ Góc ngoặt của đường chuyền
+
+ ≥ 30o (độ)
+
+ 2
+
+ Số cạnh đường chuyền
+
+ ≤ 15
+
+ 3
+
+ Chiều dài đường chuyền:
+
+ - Nối 2 điểm cấp cao
+
+ - Chu vi vòng khép
+
+ ≤ 8 km
+
+ ≤ 20 km
+
+ 4
+
+ Chiều dài đường chuyền:
+
+ - Cạnh dài nhất
+
+ - Cạnh ngắn nhất
+
+ - Chiều dài trung bình một cạnh
+
+ ≤ 1.400 m
+
+ ≥ 200 m
+
+ 500-700 m
+
+ 5
+
+ Trị tuyệt đối sai số trung phương đo góc
+
+ ≤ 5 giây
+
+ 6
+
+ Trị tuyệt đối sai số giới hạn khép góc đường chuyền vòng khép (n: là số góc trong đường chuyền vòng khép)
+
+ ≤ 5 giây
+
+ 7
+
+ Sai số khép giới hạn tương đối fs/[s]
+
+ ≤ 1:25.000
+
+ 8
+
+ Sai số vị trí điểm khống chế ảnh viễn thám sau bình sai so với điểm gốc toạ độ nhà nước gần nhất
+
+ ≤ 0.2 pixel
+
+*Bảng 2: Các yêu cầu kỹ thuật cơ bản khi sử dụng phương pháp đường chuyền*
 
 Điều 27.6.TT.9.11. Tu chỉnh điểm khống chế ảnh viễn thám
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080001100
+Tất cả các điểm khống chế ảnh và điểm kiểm tra chích trên ảnh viễn thám phải được tu chỉnh ở cả 2 mặt của ảnh. Đường kính lỗ chích không vượt quá 0,15 mm trên ảnh.
 
-**ID:** dk_00046070
+1. Ở mặt phải ảnh viễn thám: các điểm được khoanh vị trí và ghi tên điểm bằng mực không phai. Các điểm tọa độ và điểm độ cao quốc gia được sử dụng làm cơ sở để đo nối khống chế ảnh viễn thám được chích lên mặt phải của ảnh viễn thám theo quy định tại Hình 2.
 
----
+ 11521
 
+ KN1001
 
-### Điều 27.6.TT.9.12. Kiểm tra, nghiệm thu kết quả đo điểm khống chế ảnh viễn thám
+ 11514
+
+ I(HN-HP)7LD
+
+ N1003
+
+ H309
+
+ N1002
+
+*Hình 2. Tu ch**ỉ**nh điểm kh**ố**ng ch**ế** ảnh ở m**ặ**t ph**ả**i **ả**nh viễn thám*
+
+a) N1002 là tên điểm khống chế ảnh về mặt phẳng (ký hiệu bằng vòng tròn màu đỏ đường kính 01(một) cm và số hiệu điểm màu đỏ);
+
+b) H309 là tên điểm khống chế ảnh về độ cao (ký hiệu bằng vòng tròn màu xanh dương đường kính 01(một) cm và số hiệu điểm màu xanh);
+
+c) N1003 là tên điểm khống chế ảnh về mặt phẳng và độ cao (ký hiệu bằng vòng tròn ngoài màu đỏ đường kính 01 (một) cm, vòng tròn trong màu xanh dương đường kính 0,6 (không phẩy sáu) cm và số hiệu điểm màu đỏ);
+
+d) 11514 là tên điểm tọa độ quốc gia (ký hiệu bằng tam giác màu đỏ mỗi cạnh dài 01(một) cm và số hiệu điểm màu đỏ);
+
+đ) 11521 là tên điểm tọa độ quốc gia không thể chích chính xác trên ảnh viễn thám (ký hiệu bằng tam giác màu đỏ nét đứt, mỗi cạnh dài 01(một) cm và số hiệu điểm màu đỏ);
+
+e) I(HN-HP)7LD là tên điểm độ cao quốc gia (ký hiệu bằng vòng tròn màu xanh lá cây đường kính 01(một) cm và số hiệu điểm màu xanh lá cây);
+
+g) KN1001 là tên điểm kiểm tra khống chế ảnh (ký hiệu bằng vòng tròn màu đỏ đường kính 01(một) cm và số hiệu điểm màu đỏ).
+
+2. Ở mặt trái ảnh viễn thám: sơ đồ ghi chú điểm vẽ bằng nét mực màu đen được phóng đại từ 2 đến 4 lần so với tỷ lệ ở mặt phải ảnh viễn thám. Các đường nét và nền của sơ đồ phải tương tự như trên ảnh. Trong ghi chú điểm phải ghi rõ số hiệu điểm, mô tả chi tiết vị trí điểm và tên người chích điểm. Các ô vuông có kích thước 3x3 cm theo quy định tại Hình 3.
+
+*Hình 3. Tu ch**ỉ**nh điểm khống chế ảnh ở m**ặ**t trái **ả**nh viễn thám*
+
+a) N1002 là tên điểm khống chế ảnh về mặt phẳng;
+
+b) H309 là tên điểm khống chế ảnh về độ cao;
+
+c) 8,35 là độ cao của điểm khống chế ảnh;
+
+d) 0,6 là tỷ cao hoặc tỷ sâu của điểm khống chế ảnh.
 
 Điều 27.6.TT.9.12. Kiểm tra, nghiệm thu kết quả đo điểm khống chế ảnh viễn thám
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080001200
-
-**ID:** dk_00046071
-
----
-
-
-### Điều 27.6.TT.9.13. Giao nộp kết quả đo điểm khống chế ảnh viễn thám
+Trước khi giao nộp kết quả đo khống chế ảnh viễn thám phải tiến hành kiểm tra, nghiệm thu sản phẩm theo quy định tại Thông tư số 63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về hướng dẫn kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm đo đạc và bản đồ.
 
 Điều 27.6.TT.9.13. Giao nộp kết quả đo điểm khống chế ảnh viễn thám
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000080001300
+1. Kết quả đo khống chế ảnh viễn thám đo bằng công nghệ GNSS giao nộp bao gồm:
 
-**ID:** dk_00046072
+a) Sơ đồ bố trí và đo nối khống chế ảnh viễn thám ở dạng giấy và dạng số;
 
----
+b) Hình ảnh đã tu chỉnh của từng điểm khống chế ảnh viễn thám ở tỷ lệ lớn ở dạng giấy khổ A4;
 
+c) Sổ đo GNSS;
 
-### Điều 27.6.TT.11.3. Cơ sở toán học của bản đồ chuyên đề
+d) Số liệu đo khống chế ảnh viễn thám ở dạng trị đo nguyên thủy và ở dạng RINEX ghi trên thiết bị nhớ;
+
+đ) Kết quả xử lý khái lược và kết quả bình sai chính thức ba giá trị X, Y, Z ghi trên thiết bị nhớ bao gồm cả các tệp trung gian được tạo ra trong quá trình tính toán bình sai;
+
+e) Kết quả đo đạc, tính toán và bình sai các điểm khống chế ảnh và điểm kiểm tra phải là kết quả qua kiểm tra nghiệm thu đã đạt tiêu chuẩn chất lượng, có dấu và chữ ký của đơn vị thi công ở dạng giấy và dạng số bao gồm bảy (07) bảng theo quy định tại khoản 3.9 mục 3 phần III của Thông tư số 06/2009/TT-BTNMT ngày 18 tháng 6 năm 2009 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về quy chuẩn kỹ thuật Quốc gia về xây dựng lưới tọa độ.
+
+2. Kết quả đo khống chế ảnh viễn thám sử dụng máy toàn đạc điện tử hoặc máy kinh vĩ điện tử bao gồm:
+
+a) Sơ đồ bố trí và đo nối khống chế ảnh viễn thám ở dạng giấy và dạng số;
+
+b) Hình ảnh đã tu chỉnh của từng điểm khống chế ảnh viễn thám ở tỷ lệ lớn ở dạng giấy khổ A4;
+
+c) Sổ đo góc bằng, đo cạnh đường chuyền;
+
+d) Bảng chiều dài cạnh, phương vị cạnh và các sai số sau bình sai;
+
+đ) Bảng toạ độ vuông góc phẳng sau bình sai;
+
+e) Kết quả đo đạc, tính toán và bình sai các điểm khống chế ảnh và điểm kiểm tra phải là kết quả qua kiểm tra nghiệm thu đã đạt tiêu chuẩn chất lượng theo quy định tại Thông tư số 63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về kiểm tra, thẩm định và nghiệm thu chất lượng công trình, sản phẩm đo đạc và bản đồ, bao gồm: Sổ đo góc bằng, đo cạnh đường chuyền; Bảng chiều dài cạnh, phương vị cạnh và các sai số sau bình sai; Bảng toạ độ vuông góc phẳng sau bình sai; Sơ đồ lưới điểm khống chế ảnh viễn thám.
+
+3. Các kết quả giao nộp phải có tên và chữ ký của người đo ngắm, người tính toán và ngày tháng năm hoàn thành. Cuối cùng có chữ ký đóng dấu của thủ trưởng đơn vị trực tiếp chỉ đạo thi công.
 
 Điều 27.6.TT.11.3. Cơ sở toán học của bản đồ chuyên đề
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100000300
+ 1. Hệ quy chiếu và hệ tọa độ.
 
-**ID:** dk_00046073
+ a) Sử dụng Hệ quy chiếu và Hệ tọa độ Quốc gia VN2000 để thể hiện Bản đồ chuyên đề tỷ lệ 1:5.000, 1:10.000 và 1:500.000. Các thông số gồm:
 
----
+ Lưới chiếu UTM, Ellipsoid WGS84;
 
+ Múi chiếu 3º, hệ số điều chỉnh tỷ lệ biến dạng chiều dài k0 = 0,9999 cho bản đồ tỷ lệ 1:5.000, 1:10.000;
 
-### Điều 27.6.TT.11.4. Nội dung của bản đồ chuyên đề
+ Múi chiếu 6º, hệ số điều chỉnh tỷ lệ biến dạng chiều dài k0 = 0,9996 cho bản đồ tỷ lệ 1:500.000.
 
-*Nội dung chưa có sẵn*
+ b) Sử dụng lưới chiếu hình nón đồng góc với 2 vĩ tuyến chuẩn 11º và 21 º để thể hiện bản đồ chuyên đề tỷ lệ 1:1.000.000 .
 
-**Chỉ mục:** 4
+ 2. Tên bản đồ: Bao gồm tên chuyên đề, tên đơn vị hành chính (hoặc vùng) và số thứ tự mảnh.
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100000400
+ 3. Các hợp phần khác: Bảng chắp (nếu có), bảng chú giải, tỷ lệ bản đồ và thước tỷ lệ.Điều 27.6.TT.11.4. Nội dung của bản đồ chuyên đề
 
-**ID:** dk_00046074
+(Điều 4 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
----
+ Nội dung bản đồ chuyên đề bao gồm các lớp dữ liệu nền và lớp dữ liệu chuyên đề:
 
+ 1. Các lớp dữ liệu nền được tổng hợp, lược bỏ từ bản đồ địa hình hoặc cơ sở dữ liệu nền địa lý ở tỷ lệ tương đương hoặc lớn hơn.
 
-### Điều 27.6.TT.11.5. Sơ đồ quy trình thành lập bản đồ chuyên đề tỷ lệ 1:5.000, 1:10.000, 1: 500.000, 1:1.000.000
+ 2. Các lớp dữ liệu chuyên đề được thành lập từ ảnh viễn thám theo yêu cầu nội dung chuyên đề.Điều 27.6.TT.11.5. Sơ đồ quy trình thành lập bản đồ chuyên đề tỷ lệ 1:5.000, 1:10.000, 1: 500.000, 1:1.000.000
 
-Điều 27.6.TT.11.5. Sơ đồ quy trình thành lập bản đồ chuyên đề tỷ lệ 1:5.000, 1:10.000, 1: 500.000, 1:1.000.000
+(Điều 5 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Chỉ mục:** 5
+ Điều 27.6.TT.11.6. Công tác chuẩn bị
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100000500
+(Điều 6 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**ID:** dk_00046075
+ Khảo sát tổng quan, phân tích đặc điểm địa lý khu vực cần thành lập bản đồ; khảo sát, đánh giá các tài liệu: Ảnh viễn thám, bản đồ, các số liệu thống kê, các thông tin có liên quan đến chuyên đề bản đồ cần thành lập; phân tích đánh giá khả năng sử dụng của từng tài liệu.Điều 27.6.TT.11.7. Biên tập khoa học
 
----
+(Điều 7 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
+ 1. Xác định vùng thành lập bản đồ (lập sơ đồ, vị trí khu vực thi công, sơ đồ bảng chắp và các yếu tố khác).
 
-### Điều 27.6.TT.11.6. Công tác chuẩn bị
+ 2. Xác định chủ đề của bản đồ, tỷ lệ, đặt tên bản đồ, các chỉ tiêu thể hiện nội dung, bố cục nội dung, định dạng bản đồ sản phẩm.
 
-*Nội dung chưa có sẵn*
+ 3. Xác định các nguồn tư liệu sử dụng để thành lập bản đồ.
 
-**Chỉ mục:** 6
+ 4. Xây dựng thiết kế kỹ thuật, dự toán.Điều 27.6.TT.11.8. Thành lập bình đồ ảnh viễn thám
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100000600
+(Điều 8 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**ID:** dk_00046076
+ 1. Thu thập, đặt chụp ảnh viễn thám.
 
----
+ 2. Đo khống chế ảnh (chỉ áp dụng cho bản đồ chuyên đề tỷ lệ 1:5.000, 1:10.000).
 
+ 3. Thành lập mô hình số độ cao (chỉ áp dụng cho bản đồ chuyên đề tỷ lệ 1:5.000). 
 
-### Điều 27.6.TT.11.7. Biên tập khoa học
+ 4. Nhập dữ liệu đầu vào.
 
-*Nội dung chưa có sẵn*
+ 5. Tăng dày khối ảnh viễn thám.
 
-**Chỉ mục:** 7
+ 6. Nắn chỉnh hình học ảnh viễn thám.
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100000700
+ 7. Xử lý, tăng cường chất lượng ảnh.
 
-**ID:** dk_00046077
+ 8. Nắn, ghép ảnh, cắt mảnh bình đồ ảnh viễn thám.
 
----
+ 9. Dựng khung, lưới tọa độ, chú giải và phần ngoài khung bình đồ ảnh viễn thám.Điều 27.6.TT.11.9. Thành lập bản đồ nền
 
+(Điều 9 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-### Điều 27.6.TT.11.8. Thành lập bình đồ ảnh viễn thám
+ 1. Thu thập bản đồ địa hình hoặc dữ liệu nền địa lý cùng tỷ lệ bản đồ bản đồ chuyên đề cần thành lập.
 
-*Nội dung chưa có sẵn*
+ 2. Nắn chuyển về Hệ quy chiếu và Hệ tọa độ Quốc gia VN-2000 (nếu khác hệ tọa độ), ghép dữ liệu và cắt dữ liệu theo phạm vi thành lập bản đồ.
 
-**Chỉ mục:** 8
+ 3. Xây dựng các lớp dữ liệu nền thông qua việc tổng hợp, lược bỏ nội dung dữ liệu bản đồ địa hình hoặc dữ liệu nền địa lý.
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100000800
+ 4. Cập nhật bổ sung hiện chỉnh yếu tố nền theo ảnh viễn thám.
 
-**ID:** dk_00046078
+ 5. Biên tập các lớp dữ liệu nền.Điều 27.6.TT.11.10. Đo phổ/Lấy mẫu phổ
 
----
+(Điều 10 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
+ Tùy theo yêu cầu của bản đồ chuyên đề cần thành lập và dữ liệu ảnh sử dụng cần tiến hành đo phổ hoặc lấy mẫu theo các bước sau:
 
-### Điều 27.6.TT.11.9. Thành lập bản đồ nền
+ 1. Đo phổ:
 
-*Nội dung chưa có sẵn*
+ a) Xây dựng kế hoạch;
 
-**Chỉ mục:** 9
+ b) Chuẩn bị, kiểm định máy đo phổ, thiết kế chọn vị trí, sơ đồ điểm đo phổ ngoài thực địa;
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100000900
+ c) Đo phổ phản xạ tại thực địa: Lựa chọn các đối tượng cần lập trong thư viện phổ. Tiến hành đo phổ phản xạ ngoài thực địa của các đối tượng đã lựa chọn;
 
-**ID:** dk_00046079
+ d) Tính toán giá trị phản xạ từ giá trị phổ đo ngoài thực địa: Các mẫu phổ đo ngoài thực địa là các giá trị gốc và cần phải chuyển thành các giá trị phản xạ;
 
----
+ đ) Tái mẫu phổ: Đưa giá trị phổ phản xạ của đối tượng thực địa về cùng độ phân giải phổ của ảnh viễn thám;
 
+ e) Kiểm tra, so sánh giá trị phổ: Giá trị phổ phản xạ của các đối tượng được tiến hành kiểm tra loại trừ khả năng nhầm lẫn, những đối tượng không phù hợp sẽ loại bỏ. Những giá trị đúng được so sánh với nhau để xác định mức độ khác biệt hoặc tương đồng;
 
-### Điều 27.6.TT.11.10. Đo phổ/Lấy mẫu phổ
+ g) Phân loại mẫu phổ: Các mẫu phổ được xác định là phù hợp sẽ được phân loại và gộp nhóm trong thư viện phổ tùy theo mục đích sử dụng.
 
-*Nội dung chưa có sẵn*
+ 2. Lấy mẫu phổ:
 
-**Chỉ mục:** 10
+ a) Xây dựng kế hoạch, chuẩn bị các bản đồ, sơ đồ, thông tin chung về khu vực định lấy mẫu;
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001000
+ b) Chuẩn bị, kiểm định máy móc, và các thiết bị phụ trợ gồm thiết bị vệ tinh (GPS), máy ảnh, máy bộ đàm, máy tính;
 
-**ID:** dk_00046080
+ c) Xác định vị trí lấy mẫu và tiến hành lấy mẫu; 
 
----
+ d) Xử lý số liệu: Kiểm tra số liệu và tính toán kết quả lấy mẫu;
 
+ đ) Lập báo cáo kết quả.Điều 27.6.TT.11.11. Chiết xuất nội dung chuyên đề từ ảnh viễn thám
 
-### Điều 27.6.TT.11.11. Chiết xuất nội dung chuyên đề từ ảnh viễn thám
+(Điều 11 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-Điều 27.6.TT.11.11. Chiết xuất nội dung chuyên đề từ ảnh viễn thám
+ 1. Lấy mẫu (trong trường hợp không đo phổ) trên ảnh hoặc nhập mẫu phổ đo ngoài thực địa.
 
-**Chỉ mục:** 11
+ 2. Phân loại ảnh.
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001100
+ 3. Đánh giá độ chính xác sau phân loại ảnh.
 
-**ID:** dk_00046081
+ 4. Biên tập dữ liệu phân loại.
 
----
+ 5. Lập sơ đồ điều tra bổ sung ngoại nghiệp.
 
+ 6. Kiểm tra, hoàn thiện kết quả.Điều 27.6.TT.11.12. Điều tra bổ sung ngoại nghiệp
 
-### Điều 27.6.TT.11.12. Điều tra bổ sung ngoại nghiệp
+(Điều 12 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-*Nội dung chưa có sẵn*
+ Công tác điều tra bổ sung ngoại nghiệp chỉ áp dụng đối với việc thành lập bản đồ chuyên đề tỷ lệ 1:5.000, 1:10.000
 
-**Chỉ mục:** 12
+ 1. Thiết kế các tuyến khảo sát ngoại nghiệp; lập danh sách các nội dung đi điều tra thực địa.
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001200
+ 2. Điều tra, điều vẽ bổ sung các yếu tố nội dung chuyên môn và yếu tố nền có biến động.
 
-**ID:** dk_00046082
+ 3. Đo vẽ bổ sung các yếu tố chuyên môn hoặc theo yêu cầu kỹ thuật chuyên ngành (đối với ảnh bị mây và ảnh cũ so với thời điểm thành lập bản đồ).
 
----
+ 4. Tiếp biên, sửa chữa, hoàn thiện kết quả. Hoàn thiện hệ thống các bảng thống kê, các sơ đồ, các tài liệu chỉ dẫn bổ sung.
 
+ 5. Chuyển vẽ các thông tin điều tra bổ sung ngoại nghiệp lên bản đồ.Điều 27.6.TT.11.13. Chuẩn hóa dữ liệu dẫn xuất
 
-### Điều 27.6.TT.11.13. Chuẩn hóa dữ liệu dẫn xuất
+(Điều 13 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-*Nội dung chưa có sẵn*
+ 1. Rà soát, xử lý các vấn đề về dữ liệu trước khi tổng hợp.
 
-**Chỉ mục:** 13
+ 2. Thu nhận, chuẩn hóa cơ sở dữ liệu dẫn xuất.
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001300
+ 3. Kiểm tra xử lý, tổng hợp cơ sở dữ liệu dẫn xuất.Điều 27.6.TT.11.14. Tích hợp, phân tích, xử lý tổng hợp dữ liệu
 
-**ID:** dk_00046083
+(Điều 14 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
----
+ 1. Tích hợp các dữ liệu chuyên môn từ bản đồ dẫn xuất và các tài liệu liên quan cần thiết.
 
+ 2. Phân tích, xử lý tổng hợp các dữ liệu.Điều 27.6.TT.11.15. Biên tập, trình bày bản đồ chuyên đề
 
-### Điều 27.6.TT.11.14. Tích hợp, phân tích, xử lý tổng hợp dữ liệu
+(Điều 15 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-Điều 27.6.TT.11.14. Tích hợp, phân tích, xử lý tổng hợp dữ liệu
+ 1. Biên tập, trình bày bản đồ theo thiết kế kỹ thuật chi tiết của bản đồ chuyên đề.
 
-**Chỉ mục:** 14
+ 2. In, kiểm tra, sửa chữa, hoàn thiện sản phẩm.
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001400
+ 3. Xây dựng lý lịch bản đồ.Điều 27.6.TT.11.16. Xây dựng báo cáo thuyết minh bản đồ chuyên đề
 
-**ID:** dk_00046084
+(Điều 16 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
----
+ 1. Xây dựng báo cáo từng chuyên đề.
 
+ 2. Nêu rõ căn cứ pháp lý, sự cần thiết và mục đích, yêu cầu của việc thành lập bản đồ, phạm vi thực hiện.
 
-### Điều 27.6.TT.11.15. Biên tập, trình bày bản đồ chuyên đề
+ 3. Thu thập, phân tích thông tin phương pháp công nghệ thành lập bản đồ, nói rõ cụ thể loại ảnh, thời gian ảnh chụp sử dụng để thành lập bản đồ.
 
-Điều 27.6.TT.11.15. Biên tập, trình bày bản đồ chuyên đề
+ 4. Phân tích nội dung của bản đồ chuyên đề gồm khối lượng công việc thực hiện; mức độ đầy đủ, chi tiết và độ chính xác của các yếu tố nội dung; số liệu tổng hợp, đánh giá theo yêu cầu của mục đích thành lập bản đồ.
 
-**Chỉ mục:** 15
+ 5. Xây dựng báo cáo thuyết minh tổng hợp.Điều 27.6.TT.11.17. Kiểm tra, nghiệm thu
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001500
+(Điều 17 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**ID:** dk_00046085
+ Công tác kiểm tra kỹ thuật, nghiệm thu sản phẩm bao gồm các công đoạn sau:
 
----
+ 1. Kiểm tra, nghiệm thu cấp đơn vị thi công.
 
+ 2. Kiểm tra, nghiệm thu cấp chủ đầu tư.
 
-### Điều 27.6.TT.11.16. Xây dựng báo cáo thuyết minh bản đồ chuyên đề
+ 3. Thẩm định, nghiệm thu hồ sơ chất lượng, khối lượng sản phẩm.Điều 27.6.TT.11.18. Giao nộp sản phẩm
 
-Điều 27.6.TT.11.16. Xây dựng báo cáo thuyết minh bản đồ chuyên đề
+(Điều 18 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Chỉ mục:** 16
+ Sản phẩm được giao nộp sau khi đã được kiểm tra kỹ thuật, đánh giá chất lượng và nghiệm thu cấp chủ đầu tư.
 
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001600
+ Mục 2
 
-**ID:** dk_00046086
+QUY ĐỊNH KỸ THUẬT
 
----
+Điều 27.6.TT.2.4. Hiện chỉnh theo chu kỳ
 
+(Điều 4 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-### Điều 27.6.TT.11.17. Kiểm tra, nghiệm thu
+1. Từ 4 đến 8 năm đối với bản đồ tỷ lệ 1:25.000.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001700
-
-**ID:** dk_00046087
-
----
-
-
-### Điều 27.6.TT.11.18. Giao nộp sản phẩm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 270060000000000055000010000000000000000000802621000100001800
-
-**ID:** dk_00046088
-
----
-
-
-### Điều 27.6.TT.2.4. Hiện chỉnh theo chu kỳ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050000400
-
-**ID:** dk_00046090
-
----
-
-
-### Điều 27.6.TT.2.5. Hiện chỉnh theo mức độ thay đổi nội dung bản đồ
+2. Từ 5 đến 10 năm đối với bản đồ tỷ lệ 1:50.000.
 
 Điều 27.6.TT.2.5. Hiện chỉnh theo mức độ thay đổi nội dung bản đồ
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050000500
+1. Bản đồ địa hình cần phải hiện chỉnh khi nội dung có sự thay đổi từ 20% đến 40% và những thay đổi này ảnh hưởng nhiều đối với việc sử dụng bản đồ.
 
-**ID:** dk_00046091
+Cách xác định mức độ thay đổi nội dung bản đồ được quy định tại Phụ lục 1 ban hành kèm theo Thông tư này.
 
----
+2. Bản đồ địa hình không thể hiện chỉnh được mà phải thành lập mới khi:
 
+a) Cơ sở khống chế mặt phẳng và độ cao của bản đồ không đáp ứng yêu cầu về độ chính xác;
 
-### Điều 27.6.TT.2.6. Bản đồ sau khi hiện chỉnh
+b) Chất lượng bản đồ gốc được thành lập trước đây không đáp ứng được yêu cầu của bản đồ địa hình quốc gia;
 
-*Nội dung chưa có sẵn*
+c) Các yếu tố nội dung của bản đồ có sự thay đổi trên 40%;
 
-**Chỉ mục:** 6
+d) Các yếu tố nội dung bản đồ có sự thay đổi dưới 40%, nhưng so với thành lập mới, hiện chỉnh sẽ không kinh tế và không đảm bảo yêu cầu kỹ thuật.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050000600
+Phu luc 1 - Phuong phap xac dinh muc do thay doi cua noi dung ban do dia hinh can hien chinh.doc
 
-**ID:** dk_00046092
+Điều 27.6.TT.2.6. Bản đồ sau khi hiện chỉnh
 
----
+(Điều 6 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
+ 1. Có cơ sở toán học, độ chính xác, nội dung, ký hiệu và hình thức trình bày theo quy định của bản đồ địa hình quốc gia.
 
-### Điều 27.6.TT.2.7. Bản đồ dùng làm gốc hiện chỉnh
+ 2. Đảm bảo nội dung của các yếu tố địa vật trên bản đồ phù hợp với ngoài thực địa tại thời điểm hiện chỉnh, bao gồm: thủy hệ và các đối tượng có liên quan, địa hình, đường giao thông và các đối tượng có liên quan, dân cư và các đối tượng văn hóa-kinh tế-xã hội, thực vật, biên giới quốc gia và địa giới hình chính. Riêng yếu tố địa hình chỉ chỉnh sửa ở dạng vi địa hình theo sự tương quan với các địa vật đã thay đổi.
 
-*Nội dung chưa có sẵn*
+ 3. Dữ liệu được chuẩn hóa, phân lớp nội dung, đặt tên các tệp tin, mã đối tượng và các tệp tin nguồn chứa các chuẩn cơ sở theo Quy định kỹ thuật số hóa bản đồ địa hình tỷ lệ 1:10.000, 1:25.000, 1:50.000 và 1:100.000, ban hành kèm theo Quyết định số 70/2000/QĐ-ĐC ngày 25 tháng 02 năm 2000 của Tổng cục trưởng Tổng cục Địa chính.Điều 27.6.TT.2.7. Bản đồ dùng làm gốc hiện chỉnh
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050000700
+ Bản đồ dùng làm gốc hiện chỉnh phải là bản đồ địa hình quốc gia hoặc bản đồ địa hình được thành lập theo các chỉ tiêu kỹ thuật tương đương với các chỉ tiêu kỹ thuật của bản đồ địa hình quốc gia, ở tỷ lệ 1:25.000 hoặc 1:50.000.
 
-**ID:** dk_00046093
+ Bản đồ dùng làm gốc hiện chỉnh ở dạng bản đồ số được thành lập hoặc hiện chỉnh tại thời điểm gần nhất.Điều 27.6.TT.2.8. Ảnh vệ tinh dùng để hiện chỉnh
 
----
+(Điều 8 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
+ 1. Ảnh dùng để hiện chỉnh phải có độ phân giải 0,1 mm theo tỷ lệ bản đồ trong trường hợp đặc biệt ảnh được sử dụng có độ phân giải tối đa 0.2 mm theo tỷ lệ bản đồ.
 
-### Điều 27.6.TT.2.8. Ảnh vệ tinh dùng để hiện chỉnh
+ 2. Ảnh dùng để hiện chỉnh được thu nhận tại thời điểm gần nhất, trước 1 năm so với thời điểm hiện chỉnh. Khi không có tư liệu ảnh này, cho phép sử dụng ảnh thu nhận cách thời điểm hiện chỉnh 2 - 3 năm, nhưng phải tiến hành đánh giá mức độ biến đổi ở ngoài thực địa so với ảnh, để xác định khả năng sử dụng của ảnh và tìm giải pháp kỹ thuật khắc phục những hạn chế của ảnh.
 
-*Nội dung chưa có sẵn*
+ 3. Ảnh dùng để hiện chỉnh phải có độ tương phản đồng đều và có khả năng phân biệt rõ các đối tượng trên ảnh.Điều 27.6.TT.2.9. Ghi lý lịch và kiểm tra - nghiệm thu sản phẩm hiện chỉnh
 
-**Chỉ mục:** 8
+(Điều 9 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050000800
+ 1. Mỗi mảnh bản đồ hiện chỉnh phải có lý lịch bản đồ kèm theo.
 
-**ID:** dk_00046094
+ 2. Kiểm tra - nghiệm thu sản phẩm hiện chỉnh thực hiện theo Thông tư số 02/2007/TT-BTNMT ngày 12 tháng 02 năm 2007 của Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm đo đạc và bản đồ. Các sản phẩm cần kiểm tra - nghiệm thu gồm có:
 
----
+ a) Kết quả đo khống chế ảnh vệ tinh;
 
+ b) Bình đồ ảnh vệ tinh dạng số;
 
-### Điều 27.6.TT.2.9. Ghi lý lịch và kiểm tra - nghiệm thu sản phẩm hiện chỉnh
+ c) Kết quả điều vẽ ảnh vệ tinh, kết quả đo vẽ bù (nếu có);
 
-Điều 27.6.TT.2.9. Ghi lý lịch và kiểm tra - nghiệm thu sản phẩm hiện chỉnh
+ d) Bản đồ gốc hiện chỉnh.
 
-**Chỉ mục:** 9
+ **Chương II**
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050000900
+ **CÔNG TÁC CHUẨN BỊ**Điều 27.6.TT.2.10. Thu thập tư liệu
 
-**ID:** dk_00046095
+(Điều 10 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
----
+ Tư liệu cần thu thập để hiện chỉnh bản đồ địa hình bao gồm:
 
+ 1. Tư liệu bản đồ dùng làm gốc hiện chỉnh.
 
-### Điều 27.6.TT.2.10. Thu thập tư liệu
+ 2. Tư liệu ảnh vệ tinh dùng để hiện chỉnh.
 
-*Nội dung chưa có sẵn*
+ 3. Các loại tư liệu bổ sung, tư liệu hỗ trợ dưới dạng bản đồ, cơ sở dữ liệu GIS, tài liệu văn bản, số liệu thống kê, bảng thành quả của các điểm trắc địa và các điểm địa chính cơ sở.
 
-**Chỉ mục:** 10
+ 4. Thiết kế kỹ thuật, báo cáo tổng kết kỹ thuật, lý lịch bản đồ và các tài liệu kỹ thuật khác có liên quan đến bản đồ cần hiện chỉnh.Điều 27.6.TT.2.11. Đánh giá độ chính xác của bản đồ dùng làm gốc hiện chỉnh
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001000
+(Điều 11 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**ID:** dk_00046096
+ 1. Phương pháp đánh giá
 
----
+ a) Đối chiếu cơ sở khống chế mặt phẳng, độ cao của bản đồ với các chỉ tiêu kỹ thuật được quy định tại quy phạm hiện hành, thông qua việc phân tích các báo cáo tổng kết kỹ thuật, bảng tọa độ và độ cao của các điểm trắc địa và lý lịch bản đồ;
 
+ b) Đo kiểm tra ở ngoài thực địa;
 
-### Điều 27.6.TT.2.11. Đánh giá độ chính xác của bản đồ dùng làm gốc hiện chỉnh
+ c) Đo kiểm tra trên bản đồ địa hình ở tỷ lệ lớn hơn;
 
-Điều 27.6.TT.2.11. Đánh giá độ chính xác của bản đồ dùng làm gốc hiện chỉnh
+ Đối với các bản đồ dùng làm gốc hiện chỉnh được thành lập bằng phương pháp đo vẽ ảnh hàng không hoặc được biên vẽ từ bản đồ địa hình ở tỷ lệ lớn hơn, khi đánh giá độ chính xác không nhất thiết phải kiểm tra toàn bộ các mảnh trong khu vực hiện chỉnh, mà chỉ cần kiểm tra chọn lọc. Trường hợp phát hiện sai số vượt quá sai số giới hạn mới kiểm tra từng mảnh bản đồ của cả khu vực hiện chỉnh.
 
-**Chỉ mục:** 11
+ 2. Số chênh cho phép
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001100
+ a) Số chênh trung bình về vị trí của địa vật rõ nét trên bản đồ cần hiện chỉnh so với kết quả kiểm tra không vượt quá 0,6 mm ở vùng đồng bằng và vùng đồi, không vượt quá 0,8 mm ở vùng núi và núi cao theo tỷ lệ bản đồ;
 
-**ID:** dk_00046097
+ b) Số chênh trung bình về độ cao của các điểm ghi chú độ cao trên bản đồ cần hiện chỉnh không vượt quá 1/2 khoảng cao đều đường bình độ;
 
----
+ c) Số chênh giới hạn về vị trí mặt phẳng và về độ cao không vượt quá 2 lần giá trị các số chênh trung bình nêu trên và số lượng các điểm này không vượt quá 10% tổng số điểm kiểm tra.
 
+ 3. Đánh giá mức độ đầy đủ, tính đúng đắn của hình biểu thị và mức độ thay đổi của các yếu tố nội dung bản đồ cần hiện chỉnh được tiến hành bằng việc đối chiếu, so sánh bản đồ với ảnh vệ tinh dùng để hiện chỉnh hoặc với bản đồ địa hình tỷ lệ lớn hơn mới được thành lập. Ngoài ra, còn được đánh giá trực tiếp khi tiến hành khảo sát thực địa.
 
-### Điều 27.6.TT.2.12. Nghiên cứu đặc điểm địa lý khu vực hiện chỉnh
+ Kết quả đánh giá phải đưa ra được kết luận về khả năng sử dụng bản đồ để làm gốc hiện chỉnh và mức độ cần hiện chỉnh.Điều 27.6.TT.2.12. Nghiên cứu đặc điểm địa lý khu vực hiện chỉnh
 
-Điều 27.6.TT.2.12. Nghiên cứu đặc điểm địa lý khu vực hiện chỉnh
+(Điều 12 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Chỉ mục:** 12
+ Bao gồm việc phân tích và đánh giá các điều kiện tự nhiên, kinh tế - xã hội ảnh hưởng đến công tác hiện chỉnh bản đồ. Công việc này được thực hiện ở nội nghiệp theo các tài liệu mô tả, bản đồ, ảnh vệ tinh. Ngoài ra còn được bổ sung ở ngoài thực địa.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001200
+ Kết quả nghiên cứu phải đưa ra các kết luận sau:
 
-**ID:** dk_00046098
+ 1. Đặc điểm phân bố và các đặc trưng địa lý của các đối tượng nội dung ảnh hưởng đến chỉ tiêu và cách thức biểu thị trên bản đồ.
 
----
+ 2. Tính chất và mức độ thay đổi của các đối tượng nội dung bản đồ ảnh hưởng đến mức độ cần hiện chỉnh và phương án hiện chỉnh.
 
+ 3. Đặc thù về điều kiện tự nhiên, kinh tế - xã hội ảnh hưởng đến việc thi công các hạng mục hiện chỉnh bản đồ.Điều 27.6.TT.2.13. Khảo sát thực địa
 
-### Điều 27.6.TT.2.13. Khảo sát thực địa
+(Điều 13 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-*Nội dung chưa có sẵn*
+ Khảo sát thực địa được tiến hành theo tuyến và điểm. Trước khi tiến hành khảo sát phải lập sơ đồ khảo sát, trong đó cần đánh dấu vị trí các điểm, các tuyến đường cần khảo sát và lập ra kế hoạch triển khai. Mục tiêu khảo sát thực địa nhằm:
 
-**Chỉ mục:** 13
+ 1. Bổ sung cho phần nghiên cứu nội nghiệp về đặc điểm địa lý khu vực hiện chỉnh.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001300
+ 2. Bổ sung cho phần đánh giá nội nghiệp về bản đồ cần hiện chỉnh.
 
-**ID:** dk_00046099
+ 3. Điều tra, lập mẫu điều vẽ ảnh vệ tinh.
 
----
+ 4. Thu thập tài liệu ở địa phương.
 
+ 5. Khảo sát hiện trạng các điểm mốc tọa độ, độ cao quốc gia dùng để đo khống chế ảnh.Điều 27.6.TT.2.14. Lập Thiết kế kỹ thuật - Dự toán
 
-### Điều 27.6.TT.2.14. Lập Thiết kế kỹ thuật - Dự toán
+(Điều 14 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-*Nội dung chưa có sẵn*
+1. Thiết kế kỹ thuật - Dự toán được lập trên cơ sở đánh giá tài liệu, nghiên cứu đặc điểm địa lý khu hiện chỉnh và khảo sát thực địa.
 
-**Chỉ mục:** 14
+2. Thiết kế kỹ thuật - Dự toán chỉ được dùng để thi công, kiểm tra - nghiệm thu sản phẩm và thanh quyết toán công trình sau khi được cấp có thẩm quyền phê duyệt
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001400
+3. Nội dung Thiết kế kỹ thuật - Dự toán theo Phụ lục 3 của Quy chế quản lý các đề án, dự án, nhiệm vụ chuyên môn, ban hành kèm theo Quyết định số 1029/QĐ-BTNMT ngày 31 tháng 5 năm 2011 của Bộ trưởng Bộ Tài nguyên và Môi trường.
 
-**ID:** dk_00046100
+4. Tùy theo yêu cầu cụ thể cần phải lập chỉ dẫn kỹ thuật chi tiết cho một số khâu quan trọng, như: chỉ dẫn sử dụng tài liệu, chỉ dẫn điều vẽ ảnh, chỉ dẫn đo vẽ bù, chỉ dẫn biên tập bản đồ.
 
----
+Sơ đồ quy trình công nghệ hiện chỉnh bản đồ địa hình bằng ảnh vệ tinh được quy định tại Phụ lục 2 ban hành kèm theo Thông tư này.
 
+**Chương III**
 
-### Điều 27.6.TT.2.15. Thiết kế điểm khống chế ảnh vệ tinh
+**KHỐNG CHẾ ẢNH VỆ TINH**
+
+Phu luc 2 - So do duy trinh cong nghe hien chinh ban do dia hinh bang anh ve tinh.doc
+
+Phu luc 3 - So do mau thiet ke bo tri diem khong che anh.doc
 
 Điều 27.6.TT.2.15. Thiết kế điểm khống chế ảnh vệ tinh
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001500
+1. Các điểm khống chế ảnh phải được chọn ở những vị trí dễ xác định và phải có hình ảnh rõ nét trên ảnh. Cụ thể như sau:
 
-**ID:** dk_00046101
+a) Tại chỗ giao nhau giữa các địa vật hoặc mép địa vật hình tuyến (đường giao thông, đê, đập, kênh, rạch) với góc giao nhau trong khoảng 30o đến 150o;
 
----
+b) Tại các điểm đặc trưng của các địa vật độc lập (cầu, cống, góc nhà);
 
+c) Trường hợp không chọn được các vị trí nêu trên, cho phép chọn điểm khống chế tại các đặc trưng ở những khúc sông, suối nhỏ có đường kính uốn lượn nhỏ hơn 0,3 mm theo tỷ lệ bình đồ ảnh;
 
-### Điều 27.6.TT.2.16. Đo điểm khống chế ảnh ngoại nghiệp
+d) Không chọn điểm khống chế ảnh tại những chỗ có độ cao thay đổi đột ngột (ở khu vực đèo, dốc, vách).
+
+2. Số lượng, cách bố trí điểm khống chế ảnh.
+
+a) Các điểm khống chế ảnh phải khống chế được toàn bộ các cảnh ảnh trong khu vực hiện chỉnh. Số lượng điểm khống chế ảnh phải có từ 12-18 điểm được bố trí rải đều trong mỗi cảnh ảnh vệ tinh. Trường hợp không đủ điểm khống chế trong 1 cảnh ảnh thì phải liên kết cảnh ảnh này vào khối ảnh để bổ sung điểm khống chế. Trong khối ảnh, cần phải ít nhất có 2 điểm khống chế nằm trong khu vực gối phủ giữa 2 cảnh ảnh;
+
+b) Mỗi cảnh ảnh phải có ít nhất 2 điểm kiểm tra, được bố trí tại các vị trí nằm xen giữa các điểm khống chế ảnh. Điểm kiếm tra được xác định với độ chính xác tương đương điểm khống chế ảnh;
+
+Sơ đồ thiết kế đồ hình bố trí điểm khống chế ảnh được quy định tại Phụ lục 3 ban hành kèm theo Thông tư này.
+
+Phu luc 3 - So do mau thiet ke bo tri diem khong che anh.doc
 
 Điều 27.6.TT.2.16. Đo điểm khống chế ảnh ngoại nghiệp
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001600
+ 1. Điểm khống chế ảnh ngoại nghiệp
 
-**ID:** dk_00046102
+ a) Điểm khống chế ảnh ngoại nghiệp phải là các điểm có tọa độ và độ cao được xác định một cách chính xác, đảm bảo có thể nhận biết được với độ chính xác đến 0,5 pixel trên ảnh vệ tinh và không có bất kỳ sự thay đổi nào về vị trí trong quá trình thi công. Điểm khống chế ảnh ngoại nghiệp phải chọn vào vị trí thuận tiện cho đo nối và phải phù hợp với thiết bị đo;
 
----
+ b) Điểm khống chế ảnh ngoại nghiệp phải được đóng cọc gỗ hoặc dùng sơn đánh dấu vị trí ở thực địa, đảm bảo tồn tại trong thời gian thi công và kiểm tra - nghiệm thu;
 
+ c) Các điểm khống chế ảnh ngoại nghiệp, điểm kiểm tra phải chích lên ảnh khống chế tại thực địa, đường kính lỗ chích không vượt quá 0,15 mm trên ảnh. Các điểm tọa độ và độ cao quốc gia được sử dụng làm cơ sở để đo nối khống chế ảnh ngoại nghiệp phải chích trên ảnh như đối với điểm khống chế ảnh ngoại nghiệp;
 
-### Điều 27.6.TT.2.17. Xác định điểm khống chế ảnh trên bản đồ
+ d) Tất cả các điểm chích lên ảnh khống chế ngoại nghiệp phải được tu chỉnh lên cả 2 mặt của ảnh. Trên mặt phải ảnh, các điểm được khoanh vị trí và ghi tên điểm bằng mực không phai (màu đỏ đối với điểm khống chế mặt phẳng, màu ve đối với điểm khống chế độ cao). Trên mặt trái ảnh được vẽ sơ đồ ghi chú điểm bằng nét chì màu đen được phóng lên từ 2 đến 4 lần. Các đường nét và nền của sơ đồ phải tương tự như trên ảnh. Trong ghi chú điểm phải ghi rõ số hiệu điểm, mô tả chi tiết vị trí điểm.
 
-Điều 27.6.TT.2.17. Xác định điểm khống chế ảnh trên bản đồ
+ 2. Đo nối điểm khống chế ảnh ngoại nghiệp
 
-**Chỉ mục:** 17
+ a) Điểm khống chế ảnh ngoại nghiệp phải được đo nối với điểm tọa độ và độ cao quốc gia;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001700
+ b) Tọa độ, độ cao của các điểm khống chế ảnh ngoại nghiệp được xác định bằng phương pháp đo GPS hoặc bằng phương pháp đo trắc địa khác;
 
-**ID:** dk_00046103
+ c) Lưới khống chế ảnh ngoại nghiệp phải được tính toán và bình sai trong hệ tọa độ quốc gia VN 2000 và hệ độ cao quốc gia Việt Nam;
 
----
+ d) Sơ đồ đo nối khống chế ảnh ngoại nghiệp được lập sau khi hoàn thành việc đo nối tọa độ, độ cao. Trên sơ đồ thể hiện các cảnh ảnh của khu đo, số hiệu cảnh ảnh, các điểm gốc trắc địa Nhà nước dùng để đo nối, các điểm khống chế ảnh, điểm kiểm tra và các hướng đo nối. Ngoài ra, trên sơ đồ còn thể hiện hệ thống thủy văn chính.
 
+ 3. Sai số đo vị trí mặt phẳng và độ cao của điểm khống chế ảnh ngoại nghiệp theo quy định tại điểm 2.4.3 và điểm 2.4.4 của Quy định kỹ thuật thành lập bản đồ địa hình tỷ lệ 1:10.000, 1:25.000 vá 1:50.000 bằng công nghệ ảnh số, ban hành kèm theo Quyết định số 15/2005/QĐ-BTNMT ngày 13 tháng 12 năm 2005 của Bộ trưởng Bộ Tài nguyên và Môi trường.Điều 27.6.TT.2.17. Xác định điểm khống chế ảnh trên bản đồ
 
-### Điều 27.6.TT.2.18. Nhập dữ liệu ảnh vệ tinh
+(Điều 17 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-*Nội dung chưa có sẵn*
+ 1. Bản đồ dùng để xác định điểm khống chế ảnh phải là bản đồ địa hình quốc gia dạng số ở tỷ lệ lớn hơn bình đồ ảnh cần thành lập.
 
-**Chỉ mục:** 18
+ 2. Địa vật được chọn làm điểm khống chế ảnh phải là những địa vật có hình ảnh rõ nét cả trên ảnh và trên bản đồ, không bị sai dáng do quá trình tổng hợp hóa bản đồ hoặc bị xê dịch vị trí do kích thước ký hiệu lớn, đồng thời phải có khả năng nội suy được độ cao. Sai số nhận biết và chích điểm khống chế được chọn trên bản đồ không vượt quá ± 0,1 mm.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001800
+ 3. Tọa độ của các điểm khống chế ảnh được xác định trên bản đồ số bằng công cụ “khai thác thông tin” của phần mềm xử lý ảnh, bản đồ số hoặc của GIS.
 
-**ID:** dk_00046104
+ 4. Hình ảnh, vị trí và mô tả về điểm khống chế ảnh được lưu trong tệp tin (sau đây gọi tắt là file) dữ liệu điểm khống chế chọn trên bản đồ.
 
----
+ **Chương IV**
 
+ **THÀNH LẬP BÌNH ĐỒ ẢNH VỆ TINH**Điều 27.6.TT.2.18. Nhập dữ liệu ảnh vệ tinh
 
-### Điều 27.6.TT.2.19. Chuyển và gán tọa độ, độ cao các điểm khống chế trên ảnh số
+(Điều 18 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-Điều 27.6.TT.2.19. Chuyển và gán tọa độ, độ cao các điểm khống chế trên ảnh số
+ Dữ liệu ảnh vệ tinh số có khuôn dạng phù hợp với tính năng kỹ thuật của hệ thống xử lý ảnh được nhập trực tiếp. Nếu không phù hợp thì phải dùng phần mềm trung gian để chuyển đổi khuôn dạng dữ liệu, rồi mới nhập vào hệ thống xử lý ảnh.Điều 27.6.TT.2.19. Chuyển và gán tọa độ, độ cao các điểm khống chế trên ảnh số
 
-**Chỉ mục:** 19
+(Điều 19 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050001900
+ 1. Điểm khống chế ảnh được chuyển lên ảnh số với độ chính xác ≤ 0,5 pixel ảnh.
 
-**ID:** dk_00046105
+ 2. Điểm khống chế được gán tọa độ và độ cao theo kết quả đo khống chế ngoại nghiệp hoặc theo kết quả được xác định trên bản đồ địa hình ở tỷ lệ lớn hơn.
 
----
+ 3. Hình ảnh, vị trí và mô tả của điểm khống chế phải được lưu vào cơ sở dữ liệu của hệ thống xử lý ảnh.Điều 27.6.TT.2.20. Nắn ảnh vệ tinh
 
+(Điều 20 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-### Điều 27.6.TT.2.20. Nắn ảnh vệ tinh
+1. Ảnh vệ tinh được nắn theo từng cảnh ảnh. Kích thước pixel ảnh nắn được tái mẫu không được lớn hơn 0,2 mm trên bình đồ ảnh.
 
-*Nội dung chưa có sẵn*
+Giá trị bậc độ xám của điểm ảnh được nội suy theo phương pháp người láng giềng gần nhất, phương pháp song tuyến hoặc phương pháp nội suy bậc 3.
 
-**Chỉ mục:** 20
+2. Mô hình hóa ảnh vệ tinh được thực hiện bằng mô hình vật lý trong trường hợp có đầy đủ các thông số chụp ảnh và phần mềm phù hợp hoặc bằng các mô hình toán học khác (mô hình hàm hữu tỷ, mô hình hàm đa thức, mô hình Affine, mô hình chuyển đổi tuyến tính trực tiếp, mô hình chuyển đổi lưới chiếu) trong trường hợp không có đầy đủ các thông số chụp ảnh và phần mềm phù hợp.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002000
+3. Sử dụng mô hình số độ cao để nắn ảnh vệ tinh trong trường hợp độ xê dịch vị trí điểm ảnh do chênh cao địa hình gây ra ≥ 0,3 mm theo tỷ lệ bình đồ ảnh. Trường hợp ngược lại thì dùng mặt phẳng trung bình của cả khu vực để nắn ảnh.
 
-**ID:** dk_00046106
+Sai số cho phép của mô hình số độ cao dùng để nắn ảnh vệ tinh được quy định tại bảng 1 và bảng 2 Phụ lục 4 ban hành kèm theo Thông tư này.
 
----
+4. Độ chênh trung bình vị trí các địa vật cùng tên trên bình đồ ảnh nắn và trên bản đồ địa hình cần hiện chỉnh không được lớn hơn 0,4 mm đối với địa vật rõ rệt và không được lớn hơn 0,6 mm đối với địa vật không rõ rệt.
 
-
-### Điều 27.6.TT.2.21. Ghép ảnh và cắt mảnh bình đồ ảnh vệ tinh
+Phu luc 4 - Cach xac dinh ty le ban do dia hinh thich hop de lap DEM sai so cho phep cua DEM va mat phang trung binh de nan anh ve tinh.doc
 
 Điều 27.6.TT.2.21. Ghép ảnh và cắt mảnh bình đồ ảnh vệ tinh
 
-**Chỉ mục:** 21
+(Điều 21 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002100
+ 1. Ghép ảnh được thực hiện khi bình đồ ảnh cần thành lập nằm trên nhiều cảnh ảnh vệ tinh khác nhau.
 
-**ID:** dk_00046107
+ a) Vết ghép ảnh không được đi qua các điểm khống chế dùng để nắn ảnh và dọc theo các địa vật hình tuyến. Góc kẹp giữa vết ghép với địa vật hình tuyến nằm trong khoảng từ 30o đến 150o;
 
----
+ b) Sai số ghép ảnh khi tiếp biên địa vật trên ảnh nắn không vượt quá 0,6 mnn ở vùng đồng bằng và không vượt quá 1,0 mm ở vùng núi;
 
+ c) Trong hành lang 60 pixel xung quanh vết ghép, phải tiến hành dàn đều tông màu để đảm bảo cho tông màu giữa 2 ảnh được ghép đồng đều nhau.
 
-### Điều 27.6.TT.2.22. Tăng cường chất lượng ảnh nắn
+ 2. Cắt mảnh bình đồ ảnh theo mảnh bản đồ địa hình cần hiện chỉnh.Điều 27.6.TT.2.22. Tăng cường chất lượng ảnh nắn
 
-*Nội dung chưa có sẵn*
+(Điều 22 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Chỉ mục:** 22
+ 1. Tăng cường chất lượng ảnh được thực hiện ở mức độ hiển thị trên màn hình, sau đó lưu ở dạng tệp dữ liệu ảnh số.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002200
+ Việc tăng cường chất lượng ảnh được tiến hành cho từng kênh phổ bằng phương pháp dãn tuyến tính, phương pháp điều chỉnh tương tác hoặc phương pháp khác.
 
-**ID:** dk_00046108
+ 2. Tăng cường chất lượng ảnh đa phổ bằng giải pháp tổ hợp màu được thực hiện theo phương án tổ hợp màu tự nhiên hoặc tổ hợp màu giả, tùy theo yêu cầu đặt ra.
 
----
+ 3. Tăng cường chất lượng ảnh bằng giải pháp trộn ảnh đa phổ với ảnh toàn sắc phải đáp ứng được các yêu cầu:
 
+ a) Các ảnh được dùng không được cách nhau quá xa về thời điểm chụp ảnh;
 
-### Điều 27.6.TT.2.23. Trình bày khung và phần ngoài khung bình đồ ảnh vệ tinh
+ b) Sai số đối điểm giữa các địa vật cùng tên có trên các ảnh không vượt quá 0.5 pixel của ảnh có độ phân giải thấp hơn;
 
-Điều 27.6.TT.2.23. Trình bày khung và phần ngoài khung bình đồ ảnh vệ tinh
+ c) Độ phân giải của các ảnh không được khác nhau quá 4 lần.
 
-**Chỉ mục:** 23
+ 4. Bình đồ ảnh số sau khi tăng cường chất lượng ảnh phải đảm bảo rõ nét, tông màu có độ tương phản đồng đều, không thiên màu và có màu sắc đồng đều ở các vùng ghép ảnh. Biểu đồ phân bố mức độ xám sau khi tăng cường chất lượng ảnh phải được tận dụng tối đa khoảng giá trị của pixel ảnh.Điều 27.6.TT.2.23. Trình bày khung và phần ngoài khung bình đồ ảnh vệ tinh
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002300
+(Điều 23 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**ID:** dk_00046109
+ Khung và phần ngoài khung bình đồ ảnh bao gồm:
 
----
+ 1. Khung bình đồ ảnh, tọa độ địa lý, tọa độ vuông góc.
 
+ 2. Tên và phiên hiệu mảnh.
 
-### Điều 27.6.TT.2.24. Ghi dữ liệu bình đồ ảnh số
+ 3. Tỷ lệ bình đồ ảnh.
 
-*Nội dung chưa có sẵn*
+ 4. Bảng chắp.
 
-**Chỉ mục:** 24
+ 5. Thông tin về ảnh (loại ảnh, độ phân giải và thời gian chụp).
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002400
+ 6. Tên đơn vị và thời gian thành lập bình đồ ảnh.
 
-**ID:** dk_00046110
+ 7. Hệ quy chiếu của bình đồ ảnh.Điều 27.6.TT.2.24. Ghi dữ liệu bình đồ ảnh số
 
----
+(Điều 24 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
+ Dữ liệu bình đồ ảnh số được ghi trên đĩa CD-ROM hoặc DVD cho mỗi công trình hiện chỉnh bản đồ. Dữ liệu ghi không được phép có lỗi và được ghi lần lượt theo từng bình đồ ảnh. Trên bìa của đĩa phải ghi chú đầy đủ phiên hiệu các mảnh bình đồ ảnh, tên đơn vị và thời gian thành lập bình đồ ảnh.Điều 27.6.TT.2.25. In bình đồ ảnh giấy
 
-### Điều 27.6.TT.2.25. In bình đồ ảnh giấy
+(Điều 25 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-*Nội dung chưa có sẵn*
+ Bình đồ ảnh giấy được in để làm tài liệu điều vẽ ngoại nghiệp cho các khu vực cần phải xác minh và điều tra bổ sung ở ngoài thực địa.
 
-**Chỉ mục:** 25
+ **Chương V**
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002500
+ **ĐIỀU VẼ ẢNH VỆ TINH**Điều 27.6.TT.2.26. Điều vẽ ảnh vệ tinh cho hiện chỉnh bản đồ
 
-**ID:** dk_00046111
+(Điều 26 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
----
+ Điều vẽ ảnh vệ tinh cho hiện chỉnh bản đồ được tiến hành trong nội nghiệp và ở ngoại nghiệp. Điều vẽ nội nghiệp được thực hiện đối với những yếu tố nội dung bản đồ đã thay đổi và có thể xác định được chắc chắn trên ảnh. Điều vẽ ngoại nghiệp được thực hiện đối với những yếu tố nội dung bản đồ không thể xác định được ở nội nghiệp hoặc còn nghi vấn cần phải điều tra, xác minh.Điều 27.6.TT.2.27. Điều vẽ ảnh nội nghiệp
 
+(Điều 27 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-### Điều 27.6.TT.2.26. Điều vẽ ảnh vệ tinh cho hiện chỉnh bản đồ
+ 1. Tài liệu dùng để điều vẽ
 
-Điều 27.6.TT.2.26. Điều vẽ ảnh vệ tinh cho hiện chỉnh bản đồ
+ a) Tài liệu chính là bình đồ ảnh số;
 
-**Chỉ mục:** 26
+ b) Tài liệu bổ sung, tài liệu hỗ trợ là các loại bản đồ chuyên đề, cơ sở dữ liệu GIS và các dạng tài liệu khác;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002600
+ c) Tài liệu dùng để ghi kết quả điều vẽ là bản đồ đường nét ở dạng số được sao từ bản đồ dùng làm gốc hiện chỉnh.
 
-**ID:** dk_00046112
+ 2. Nội dung điều vẽ
 
----
+ a) Điều vẽ những yếu tố nội dung bản đồ đã thay đổi do không còn tồn tại hoặc có hình dáng thay đổi (phần mất đi) để xóa trên bản đồ đường nét và gạch bỏ chúng trên maket biến đổi bằng nét chéo màu đỏ để phục vụ cho công tác kiểm tra;
 
+ b) Điều vẽ những yếu tố nội dung bản đồ mới xuất hiện hoặc có hình dáng thay đổi (phần mới có) và số hóa bổ sung lên bản đồ đường nét. Hình dáng của đối tượng được coi là thay đổi nếu vị trí của chúng trên bản đồ và trên ảnh có độ lệch lớn hơn 0,4 mm đối với địa vật rõ rệt và lớn hơn 0,6 mm đối với địa vật không rõ rệt.
 
-### Điều 27.6.TT.2.27. Điều vẽ ảnh nội nghiệp
+ Việc tổng hợp, lấy bỏ các yếu tố nội dung bản đồ và việc xê dịch vị trí các ký hiệu số hóa bổ sung, phải tuân theo nguyên tắc ưu tiên biểu thị những đối tượng có yêu cầu thể hiện với độ chính xác cao và có ý nghĩa quan trọng. Ký hiệu dùng để số hóa là những ký hiệu đơn giản được quy định cụ thể trong Thiết kế kỹ thuật - Dự toán.
 
-*Nội dung chưa có sẵn*
+ c) Lập bản chỉ dẫn điều vẽ ngoại nghiệp bằng việc vạch ra các đối tượng và các đặc trưng cần kiểm tra, xác minh hoặc cần bổ sung ngoại nghiệp, ranh giới các khu vực cần phải đo vẽ bù và các tuyến điều tra ngoại nghiệp.Điều 27.6.TT.2.28. Điều vẽ ảnh ngoại nghiệp
 
-**Chỉ mục:** 27
+(Điều 28 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002700
+ 1. Tài liệu dùng để điều vẽ ngoại nghiệp là bình đồ ảnh vệ tinh in trên giấy ảnh, maket biến đổi và bản chỉ dần điều vẽ ngoại nghiệp.
 
-**ID:** dk_00046113
+ 2. Nội dung điều vẽ ngoại nghiệp bao gồm:
 
----
+ a) Kiểm tra kết quả điều vẽ nội nghiệp;
 
+ b) Xác minh các yếu tố nội dung bản đồ còn nghi vấn ở điều vẽ nội nghiệp;
 
-### Điều 27.6.TT.2.28. Điều vẽ ảnh ngoại nghiệp
+ c) Điều vẽ bổ sung các yếu tố nội dung bản đồ không thể điều vẽ được trong nội nghiệp;
 
-*Nội dung chưa có sẵn*
+ d) Thu thập các tài liệu về địa danh, địa giới cũng như các thông tin khác không có trên ảnh.
 
-**Chỉ mục:** 28
+ 3. Kết quả điều vẽ ngoại nghiệp được ghi nhận như sau:
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002800
+ a) Trên bình đồ ảnh giấy được vẽ các yếu tố nội dung bản đồ mới xuất hiện, có hình dáng thay đổi (phần mới có) hoặc những đối tượng bị sai lệch về vị trí;
 
-**ID:** dk_00046114
+ b) Trên maket biến đổi được gạch bỏ bằng nét chéo màu đỏ các yếu tố nội dung bản đồ không còn tồn tại hoặc có hình dáng thay đổi (phần mất đi) và ghi chú những thay đổi về định tính và định lượng mà trên ảnh không thể xác định được.Điều 27.6.TT.2.29. Đo vẽ bù
 
----
+(Điều 29 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
+ Đo vẽ bù được thực hiện đối với những yếu tố nội dung bản đồ mới xuất hiện sau thời điểm chụp ảnh và ở những khu vực thiếu ảnh, ảnh chất lượng kém do bị mây, bị lóa. Việc đo vẽ này được thực hiện bằng phương pháp đo GPS, phương pháp đo trắc địa khác hoặc chuyển vẽ từ các tài liệu có độ chính xác tương đương.Điều 27.6.TT.2.30. Hoàn thiện kết quả điều vẽ ảnh
 
-### Điều 27.6.TT.2.29. Đo vẽ bù
+(Điều 30 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-*Nội dung chưa có sẵn*
+ Hoàn thiện kết quả điều vẽ là việc chuyển kết quả điều vẽ ảnh ngoại nghiệp, kết quả đo vẽ bù và những thông tin khác thu thập được ở địa phương lên kết quả điều vẽ ảnh nội nghiệp trên file bản đồ đường nét. Cách thức tiến hành theo quy định tại điểm a và điểm b khoản 2 Điều 24 của Thông tư này.
 
-**Chỉ mục:** 29
+ **Chương VI**
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050002900
+ **LẬP BẢN ĐỒ GỐC HIỆN CHỈNH**Điều 27.6.TT.2.31. Lập bản đồ gốc hiện chỉnh
 
-**ID:** dk_00046115
+(Điều 31 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
----
+ Lập bản gốc hiện chỉnh bao gồm việc chuẩn hóa và biên tập trình bày lại nội dung của bản đồ đường nét, sau khi đã hoàn thiện kết quả điều vẽ ảnh, theo Quy định kỹ thuật số hóa bản đồ địa hình tỷ lệ 1: 10.000, 1:25.000, 1:50.000 và 1:100.000, ban hành kèm theo Quyết định số 70/2000/QĐ-ĐC ngày 25 tháng 02 năm 2000 của Tổng cục trưởng Tổng cục Địa chính.Điều 27.6.TT.2.32. Chuẩn hóa nội dung bản đồ
 
+(Điều 32 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-### Điều 27.6.TT.2.30. Hoàn thiện kết quả điều vẽ ảnh
+ 1. Chuẩn hóa cấu trúc, phân loại bao gồm việc sắp xếp các yếu tố mới được hiện chỉnh về đúng file dữ liệu và lớp nội dung, khai báo đúng mã đối tượng.
 
-*Nội dung chưa có sẵn*
+ 2. Chuẩn hóa đồ họa bao gồm việc khái quát, tổng hợp đường nét theo đúng quy định của bản đồ địa hình cùng tỷ lệ; bắt điểm chính xác các yếu tố dạng đường giao/tiếp với nhau; liên kết để đảm bảo các yếu tố hình tuyến liên tục, không bị đứt đoạn; khép kín các yếu tố dạng vùng; trải mẫu nền hoặc màu nền theo quy định.Điều 27.6.TT.2.33. Biên tập trình bày bản đồ
 
-**Chỉ mục:** 30
+(Điều 33 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050003000
+ 1. Trình bày các yếu tố nội dung bằng các ký hiệu quy định hiện hành đối với bản đồ địa hình cùng tỷ lệ.
 
-**ID:** dk_00046116
+ 2. Biên tập làm phù hợp giữa các yếu tố nội dung mới hiện chỉnh với các yếu tố có sẵn trên bản đồ gốc bao gồm:
 
----
+ a) Biên tập chỉnh sửa các yếu tố nội dung bản đồ có mối tương quan lẫn nhau theo nguyên tắc sửa yếu tố có độ chính xác thấp theo yếu tố có độ chính xác cao hơn;
 
+ b) Biên tập, dịch chỉnh các yếu tố để đảm bảo tính tương quan địa lý và độ phân tách giữa các yếu tố nội dung trong bản đồ;
 
-### Điều 27.6.TT.2.31. Lập bản đồ gốc hiện chỉnh
+ c) Trình bày các ghi chú trên bản đồ phù hợp với các nội dung mới được hiện chỉnh.
 
-*Nội dung chưa có sẵn*
+ 3. Biên tập trình bày các yếu tố ngoài khung theo yêu cầu của bản đồ hiện chỉnh.
 
-**Chỉ mục:** 31
+ 4. Biên tập liên kết các mảnh bản đồ theo khối hiện chỉnh.Điều 27.6.TT.2.34. Nguyên tắc biểu thị các yếu tố nội dung bản đồ
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050003100
+(Điều 34 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**ID:** dk_00046117
+ 1. Bảo đảm sự lựa chọn, tổng hợp và khái quát nội dung bản đồ theo quy định của bản đồ địa hình quốc gia ở tỷ lệ tương ứng.
 
----
+ 2. Bảo toàn quan hệ không gian, phù hợp với quy luật chung của bề mặt địa hình và địa vật.
 
+ 3. Các yếu tố nội dung bản đồ dạng điểm được xác định vị trí theo tâm của ký hiệu dùng để biểu thị.
 
-### Điều 27.6.TT.2.32. Chuẩn hóa nội dung bản đồ
+ 4. Các yếu tố nội dung bản đồ dạng hình tuyến phải đảm bảo tính liên tục, tính đơn nhất về đối tượng và thống nhất về thuộc tính.
 
-*Nội dung chưa có sẵn*
+ 5. Các yếu tố nội dung bản đồ dạng vùng phải khép kín và đảm bảo tương quan hình học với các đối tượng khác.Điều 27.6.TT.2.35. Tiếp biên bản đồ số
 
-**Chỉ mục:** 32
+(Điều 35 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050003200
+ 1. Các yếu tố nội dung bản đồ giữa các mảnh liền kề nhau trong cùng khu hiện chỉnh phải được tiếp khớp tuyệt đối. Trường hợp độ lệch vị trí của các địa vật cùng tên không vượt quá 0,3 mm trên bản đồ thì được phép phân đều độ lệch để làm trùng khít ở phần mép biên 2 mảnh bản đồ. Trường hợp vượt quá 0,3 mm thì phải xác định nguyên nhân để xử lý.
 
-**ID:** dk_00046118
+ 2. Các yếu tố nội dung bản đồ giữa các mảnh không cùng khu hiện chỉnh, hạn sai tiếp biên giữa các địa vật chủ yếu, quan trọng cùng tên được quy định như sau:
 
----
+ a) Không vượt quá 1 mm ở vùng đồng bằng và 1,5 mm ở vùng đồi núi, núi cao đối với mảnh liền kề cùng tỷ lệ;
 
+ b) Không vượt quá 0,7 mm ở vùng đồng bằng và 1 mm ở vùng đồi núi, núi cao đối với mảnh liền kề ở tỷ lệ lớn hơn;
 
-### Điều 27.6.TT.2.33. Biên tập trình bày bản đồ
+ c) Đối với các khu vực ẩn khuất, các hạn sai trên được phép tăng 1,5 lần;
 
-*Nội dung chưa có sẵn*
+ d) Việc xử lý tiếp biên trong hạn sai nêu trên được phân đều cho 2 bên. Nếu vượt hạn sai thì phải xác định nguyên nhân, bằng việc kiểm tra lại toàn bộ các công đoạn sản xuất theo đúng quy định.
 
-**Chỉ mục:** 33
+ Trường hợp bản đồ gốc không khớp biên thì cần ghi chú rõ là “Tài liệu gốc không tiếp biên” ở khu vực biên của mảnh bản đồ.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050003300
+ **Chương VII**
 
-**ID:** dk_00046119
+ **ĐÓNG GÓI VÀ GIAO NỘP SẢN PHẨM**Điều 27.6.TT.2.36. Đóng gói sản phẩm
 
----
+(Điều 36 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
+ Sản phẩm giao nộp được đóng gói theo quy định sau:
 
-### Điều 27.6.TT.2.34. Nguyên tắc biểu thị các yếu tố nội dung bản đồ
+ 1. Đĩa CD-ROM hoặc DVD ghi dữ liệu của các sản phẩm dạng số phải là các loại đĩa có chất lượng tốt và chỉ ghi được 1 lần.
 
-Điều 27.6.TT.2.34. Nguyên tắc biểu thị các yếu tố nội dung bản đồ
+ a) Trên vỏ và nhãn đĩa CD-ROM hoặc DVD lưu dữ liệu bản đồ số cần ghi các nội dung: số thứ tự đĩa, tên khu hiện chỉnh, tỷ lệ bản đồ, phiên hiệu mảnh và tổng số các mảnh bản đồ, thời gian thực hiện và đơn vị thi công, ngày ghi đĩa. Trong mỗi đĩa phải có thư mục nguồn lưu các tệp tin chuẩn cơ sở được sử dụng. Mỗi mảnh bản đồ số lưu trong đĩa phải kèm theo 1 tệp tin lý lịch bản đồ;
 
-**Chỉ mục:** 34
+ b) Trên vỏ và nhãn đĩa CD-ROM hoặc DVD lưu dữ liệu các sản phẩm dạng số khác phải ghi rõ các thông tin kỹ thuật cần thiết của sản phẩm, nhằm phục vụ cho việc lưu trữ và khai thác dữ liệu;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050003400
+ 2. Sản phẩm trên giấy phải được sắp xếp theo trình tự và đựng trong bao bì làm bằng chất liệu có độ bền cao. Trên bao bì ghi tên khu vực hiện chỉnh, loại sản phẩm, tỷ lệ, số lượng sản phẩm, thời gian thực hiện và đơn vị thi công và các ghi chú cần thiết khác.Điều 27.6.TT.2.37. Sản phẩm giao nộp
 
-**ID:** dk_00046120
+(Điều 37 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
----
+ 1. Sản phẩm khống chế ảnh vệ tinh gồm: sơ đồ bố trí và đo nối điểm khống chế ảnh ngoại nghiệp, ảnh khống chế, sổ đo và tài liệu tính toán bình sai lưới khống chế ảnh ngoại nghiệp và file dữ liệu điểm khống chế ảnh xác định theo bản đồ (nếu có).
 
+ 2. Sản phẩm điều vẽ ảnh vệ tinh gồm: file bình đồ ảnh vệ tinh số, file bản đồ đường nét đã được chỉnh sửa hoàn thiện theo kết quả điều vẽ ảnh, ảnh điều vẽ ngoại nghiệp, bản chỉ dẫn điều vẽ ngoại nghiệp và kết quả đo vẽ bù (nếu có).
 
-### Điều 27.6.TT.2.35. Tiếp biên bản đồ số
+ 3. File dữ liệu bản đồ gốc hiện chỉnh và file lý lịch bản đồ.
 
-*Nội dung chưa có sẵn*
+ 4. Bản đồ in trên giấy loại 100 g/m2.
 
-**Chỉ mục:** 35
+ 5. Thiết kế kỹ thuật - dự toán.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050003500
+ 6. Hồ sơ kiểm tra - nghiệm thu sản phẩm.
 
-**ID:** dk_00046121
+ **Chương VIII**
 
----
+ **ĐIỀU KHOẢN THI HÀNH**Điều 27.6.TT.3.5. Nội dung công việc sản xuất ảnh viễn thám
 
+(Điều 5 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-### Điều 27.6.TT.2.36. Đóng gói sản phẩm
+1. Công tác chuẩn bị: thu thập dữ liệu và các tài liệu kỹ thuật khác có liên quan.
 
-*Nội dung chưa có sẵn*
+2. Nhập dữ liệu: nhập dữ liệu ảnh viễn thám, dữ liệu bản đồ, mô hình số độ cao và các dữ liệu liên quan vào hệ thống xử lý ảnh viễn thám.
 
-**Chỉ mục:** 36
+3. Sản xuất ảnh viễn thám 1A: sử dụng các dữ liệu thu thập được sản xuất tạo ra ảnh viễn thám 1A sau đó kiểm tra chất lượng sản phẩm.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050003600
+4. Sản xuất ảnh viễn thám 2A: sử dụng các dữ liệu thu thập được sản xuất tạo ra ảnh viễn thám 2A sau đó kiểm tra chất lượng sản phẩm.
 
-**ID:** dk_00046122
+5. Sản xuất ảnh viễn thám 3A: sử dụng các dữ liệu thu thập được sản xuất tạo ra ảnh viễn thám 3A sau đó kiểm tra chất lượng sản phẩm.
 
----
+6. Sản xuất ảnh viễn thám 3B: sử dụng các dữ liệu thu thập được sản xuất tạo ra ảnh viễn thám 3B sau đó kiểm tra chất lượng sản phẩm.
 
+7. Đóng gói và giao nộp sản phẩm.
 
-### Điều 27.6.TT.2.37. Sản phẩm giao nộp
+Sơ đồ quy trình sản xuất ảnh viễn thám được quy định tại Phụ lục 01 ban hành kèm theo Thông tư này.
 
-*Nội dung chưa có sẵn*
+Phu luc 01 – Quy trinh san xuat anh vien tham.doc
 
-**Chỉ mục:** 37
+Điều 27.6.TT.3.6. Thu thập dữ liệu
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802435500050003700
+(Điều 6 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**ID:** dk_00046123
+Dữ liệu cần thu thập phục vụ công việc sản xuất ảnh viễn thám gồm:
 
----
+1. Dữ liệu ảnh viễn thám.
 
+2. Dữ liệu bản đồ.
 
-### Điều 27.6.TT.3.5. Nội dung công việc sản xuất ảnh viễn thám
+3. Dữ liệu điểm khống chế ảnh.
 
-Điều 27.6.TT.3.5. Nội dung công việc sản xuất ảnh viễn thám
+4. Mô hình số độ cao.
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100000500
-
-**ID:** dk_00046124
-
----
-
-
-### Điều 27.6.TT.3.6. Thu thập dữ liệu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100000600
-
-**ID:** dk_00046125
-
----
-
-
-### Điều 27.6.TT.3.7. Yêu cầu đối với dữ liệu ảnh viễn thám
+5. Thiết kế kỹ thuật dự án và các tài liệu kỹ thuật khác có liên quan.
 
 Điều 27.6.TT.3.7. Yêu cầu đối với dữ liệu ảnh viễn thám
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100000700
+Dữ liệu ảnh viễn thám phải đảm bảo các tham số kỹ thuật của ảnh viễn thám, quỹ đạo của vệ tinh.
 
-**ID:** dk_00046126
+1. Dữ liệu viễn thám mức 0 phải đảm bảo về chất lượng trong quá trình thu nhận và xử lý tín hiệu, không bị lỗi tín hiệu hay bị đứt đoạn.
 
----
+2. Dữ liệu viễn thám mức 0 phải được đánh giá sơ bộ về độ che phủ mây dưới dạng ảnh xem nhanh. Việc đánh giá độ che phủ mây được chia thành các mức và ký hiệu bằng các chữ cái:
 
+a) Mức A: Ảnh viễn thám có độ che phủ mây dưới 10%;
 
-### Điều 27.6.TT.3.8. Yêu cầu đối với dữ liệu bản đồ
+b) Mức B: Ảnh viễn thám có độ che phủ mây từ 10 - 25%;
 
-*Nội dung chưa có sẵn*
+c) Mức C: Ảnh viễn thám có độ che phủ mây từ 25% trở lên;
 
-**Chỉ mục:** 8
+Ảnh viễn thám được chọn làm dữ liệu đầu vào là ảnh có độ che phủ mây phù hợp với yêu cầu đặt ra của người sử dụng.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100000800
+Điều 27.6.TT.3.8. Yêu cầu đối với dữ liệu bản đồ
 
-**ID:** dk_00046127
+(Điều 8 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
----
+Bản đồ dùng để xác định điểm khống chế ảnh phải là bản đồ địa hình quốc gia dạng số ở tỷ lệ lớn hơn bình đồ ảnh viễn thám cần thành lập.
 
+Điều 27.6.TT.3.9. Yêu cầu về điểm khống chế ảnh
 
-### Điều 27.6.TT.3.9. Yêu cầu về điểm khống chế ảnh
+(Điều 9 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-*Nội dung chưa có sẵn*
+1. Quy định chọn điểm khống chế ảnh:
 
-**Chỉ mục:** 9
+Địa vật được chọn làm điểm khống chế ảnh phải là những địa vật rõ nét cả trên ảnh viễn thám và trên bản đồ, không bị sai dáng do quá trình tổng quát hóa bản đồ hoặc bị xê dịch vị trí do kích thước ký hiệu lớn, đồng thời phải có khả năng nội suy được độ cao. Sai số nhận biết và chích điểm khống chế được chọn trên bản đồ không vượt quá ±0,1 mm.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100000900
+a) Tại chỗ giao nhau giữa các địa vật hoặc mép địa vật hình tuyến (đường giao thông, đê, đập, kênh, rạch) với góc giao nhau trong khoảng 30° đến 150°;
 
-**ID:** dk_00046128
+b) Tại các điểm đặc trưng của các địa vật độc lập (cầu, cống, góc nhà);
 
----
+c) Các điểm khống chế ảnh phải được chọn, chích trên ảnh viễn thám in ra từ ảnh gốc.
 
+2. Số lượng, cách bố trí điểm khống chế ảnh:
 
-### Điều 27.6.TT.3.10. Yêu cầu đối với mô hình số độ cao
+a) Các điểm khống chế ảnh phải khống chế được toàn bộ các cảnh ảnh trong khu vực. Số lượng điểm khống chế ảnh tối thiểu là 12 điểm/ 01 cảnh ảnh được bố trí phân bố đều trong mỗi cảnh ảnh viễn thám. Trong khối ảnh viễn thám cần phải có ít nhất 2 điểm khống chế nằm trong khu vực gối phủ giữa 2 cảnh ảnh;
+
+b) Mỗi cảnh ảnh phải có ít nhất 2 điểm kiểm tra, được bố trí tại các vị trí nằm xen giữa các điểm khống chế ảnh;
+
+c) Tọa độ của các điểm khống chế ảnh được xác định trên bản đồ số bằng công cụ khai thác thông tin của phần mềm xử lý ảnh, bản đồ số hoặc của GIS;
+
+Sơ đồ thiết kế đồ hình bố trí điểm khống chế ảnh được quy định tại Phụ lục 02 ban hành kèm theo Thông tư này.
+
+Phu luc 02 – So do mau thiet ke bo tri diem khong che anh.doc
 
 Điều 27.6.TT.3.10. Yêu cầu đối với mô hình số độ cao
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001000
+Sử dụng mô hình số độ cao để nắn ảnh viễn thám trong trường hợp độ xê dịch vị trí điểm ảnh do chênh cao địa hình gây ra ³ 0,3 mm theo tỷ lệ bình đồ ảnh viễn thám. Trường hợp ngược lại thì dùng mặt phẳng trung bình của cả khu vực để nắn ảnh.
 
-**ID:** dk_00046129
+Sai số cho phép của mô hình số độ cao dùng để nắn ảnh viễn thám được quy định tại bảng 1 và bảng 2 Phụ lục 03 ban hành kèm theo Thông tư này.
 
----
-
-
-### Điều 27.6.TT.3.11. Nhập dữ liệu ảnh viễn thám đầu vào
+Phu luc 03 – Cach xac dinh ty le ban do dia hinh thich hop de lap DEM sai so cho phep cua DEM va mat phang trung binh de nan anh ve tinh.doc
 
 Điều 27.6.TT.3.11. Nhập dữ liệu ảnh viễn thám đầu vào
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001100
+1. Dữ liệu ảnh viễn thám dạng số phải được chuyển về khuôn dạng dữ liệu phù hợp trước khi nhập vào hệ thống xử lý ảnh viễn thám.
 
-**ID:** dk_00046130
-
----
-
-
-### Điều 27.6.TT.3.12. Nhập dữ liệu điểm khống chế ảnh viễn thám
+2. Các ảnh viễn thám tương tự dưới dạng phim ảnh được quét trên các máy quét phim với độ phân giải phổ được quy định cách ghi đơn vị 8 bit 1 kênh ảnh đơn sắc. Khuôn dạng dữ liệu quét phải phù hợp với hệ thống xử lý ảnh.
 
 Điều 27.6.TT.3.12. Nhập dữ liệu điểm khống chế ảnh viễn thám
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001200
+1. Sai số điểm khống chế ảnh được chuyển lên ảnh số so với địa vật trên ảnh không quá 0,5 pixel ảnh.
 
-**ID:** dk_00046131
+2. Điểm khống chế được gán tọa độ và độ cao theo kết quả đo khống chế ngoại nghiệp hoặc theo kết quả được xác định trên bản đồ địa hình ở tỷ lệ lớn hơn.
 
----
-
-
-### Điều 27.6.TT.3.13. Nhập dữ liệu bản đồ và mô hình số độ cao
+3. Hình ảnh, vị trí và mô tả điểm khống chế phải được lưu vào cơ sở dữ liệu của hệ thống xử lý ảnh viễn thám.
 
 Điều 27.6.TT.3.13. Nhập dữ liệu bản đồ và mô hình số độ cao
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001300
+Dữ liệu bản đồ và mô hình số độ cao được nhập vào hệ thống xử lý ảnh viễn thám theo đúng khuôn dạng dữ liệu.
 
-**ID:** dk_00046132
+Điều 27.6.TT.3.14. Nhập dữ liệu viễn thám mức 0
 
----
+(Điều 14 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
+1. Tìm kiếm dữ liệu viễn thám mức 0 phù hợp với yêu cầu về độ che phủ mây, ngày tháng năm chụp ảnh dưới dạng ảnh viễn thám xem nhanh.
 
-### Điều 27.6.TT.3.14. Nhập dữ liệu viễn thám mức 0
+2. Kiểm tra vị trí lưu trữ dữ liệu viễn thám mức 0 được lưu trên hệ thống lưu trữ hoặc trên băng từ.
 
-*Nội dung chưa có sẵn*
+3. Lấy dữ liệu viễn thám mức 0 từ hệ thống lưu trữ hoặc trên băng từ.
 
-**Chỉ mục:** 14
+4. Nhập dữ liệu viễn thám mức 0 vào hệ thống xử lý ảnh viễn thám để sản xuất ảnh viễn thám 1A.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001400
+Điều 27.6.TT.3.15. Sản xuất ảnh viễn thám 1A
 
-**ID:** dk_00046133
+(Điều 15 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
----
+1. Cài đặt cấu hình xử lý các tham số kỹ thuật của ảnh viễn thám.
 
+2. Cài đặt cấu hình xử lý quỹ đạo của ảnh viễn thám.
 
-### Điều 27.6.TT.3.15. Sản xuất ảnh viễn thám 1A
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001500
-
-**ID:** dk_00046134
-
----
-
-
-### Điều 27.6.TT.3.16. Kiểm tra chất lượng ảnh viễn thám 1A
+3. Sử dụng phần mềm trên hệ thống xử lý ảnh để sản xuất ảnh viễn thám 1A.
 
 Điều 27.6.TT.3.16. Kiểm tra chất lượng ảnh viễn thám 1A
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001600
+Ảnh viễn thám 1A sau khi sản xuất phải được kiểm tra chất lượng:
 
-**ID:** dk_00046135
+1. Kiểm tra về độ che phủ mây so với yêu cầu đặt ra.
 
----
+2. Kiểm tra mức độ đồng đều về phổ.
 
+Điều 27.6.TT.3.17. Nhập dữ liệu đầu vào
 
-### Điều 27.6.TT.3.17. Nhập dữ liệu đầu vào
+(Điều 17 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-*Nội dung chưa có sẵn*
+1. Ảnh viễn thám 1A sau khi kiểm tra chất lượng đạt yêu cầu được nhập vào hệ thống xử lý ảnh viễn thám để làm dữ liệu đầu vào cho quá trình sản xuất ảnh viễn thám 2A.
 
-**Chỉ mục:** 17
+2. Nhập mô hình vật lý của ảnh viễn thám.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001700
+Điều 27.6.TT.3.18. Sản xuất ảnh viễn thám 2A
 
-**ID:** dk_00046136
+(Điều 18 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
----
+1. Tính toán mô hình vật lý.
 
+2. Lựa chọn hệ tọa độ, múi chiếu đúng với yêu cầu.
 
-### Điều 27.6.TT.3.18. Sản xuất ảnh viễn thám 2A
+3. Sử dụng phần mềm trên hệ thống xử lý ảnh để nắn chỉnh tạo ảnh viễn thám 2A. Giá trị bậc độ xám của điểm ảnh được nội suy theo phương pháp người láng giềng gần nhất, phương pháp song tuyến hoặc phương pháp nội suy bậc 3.
 
-*Nội dung chưa có sẵn*
+4. Xử lý phổ bằng các Hystograme của từng kênh phổ.
 
-**Chỉ mục:** 18
+5. Trộn ảnh viễn thám: để nâng cao chất lượng hình ảnh nhằm phục vụ công tác giải đoán ảnh viễn thám, suy giải các đối tượng cần trộn ảnh toàn sắc và ảnh đa phổ đã xử lý màu để tạo ảnh màu độ phân giải cao.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001800
-
-**ID:** dk_00046137
-
----
-
-
-### Điều 27.6.TT.3.19. Kiểm tra chất lượng ảnh viễn thám 2A
+6. Tăng cường chất lượng hình ảnh bằng các phép lọc.
 
 Điều 27.6.TT.3.19. Kiểm tra chất lượng ảnh viễn thám 2A
 
-**Chỉ mục:** 19
+(Điều 19 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100001900
+Ảnh viễn thám 2A sau khi sản xuất phải được kiểm tra chất lượng:
 
-**ID:** dk_00046138
+1. Kiểm tra hệ tọa độ, múi chiếu so với yêu cầu.
 
----
+2. Kiểm tra mức độ đồng đều về phổ.
 
+3. Nếu ảnh viễn thám 2A sử dụng phương pháp trộn ảnh, phải kiểm tra độ chính xác giữa ảnh toàn sắc và ảnh đa phổ, sai số vị trí lệch nhau ko quá 01 pixel đối với những cặp cảnh chụp cùng thời điểm.
 
-### Điều 27.6.TT.3.20. Nhập dữ liệu đầu vào
+Điều 27.6.TT.3.20. Nhập dữ liệu đầu vào
 
-*Nội dung chưa có sẵn*
+(Điều 20 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Chỉ mục:** 20
+1. Ảnh viễn thám 1A sau khi kiểm tra chất lượng đạt yêu cầu được nhập vào hệ thống xử lý ảnh viễn thám để làm dữ liệu đầu vào cho quá trình sản xuất ảnh viễn thám 3A.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002000
+2. Nhập mô hình vật lý của ảnh viễn thám.
 
-**ID:** dk_00046139
+3. Nhập điểm khống chế ảnh viễn thám.
 
----
+4. Nhập bản đồ và mô hình số độ cao.
 
+Điều 27.6.TT.3.21. Tăng dày khối ảnh viễn thám
 
-### Điều 27.6.TT.3.21. Tăng dày khối ảnh viễn thám
+(Điều 21 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-*Nội dung chưa có sẵn*
+1. Việc mô hình hóa ảnh viễn thám bao gồm:
 
-**Chỉ mục:** 21
+a) Nhập ảnh viễn thám: nhập dữ liệu ảnh viễn thám và dữ liệu bổ trợ kèm theo ảnh (thông tin vệ tinh, quỹ đạo vệ tinh, ngày chụp ảnh, vị trí ảnh, thông tin đầu chụp...), nhập điểm khống chế ảnh, mô hình số độ cao vào hệ thống xử lý ảnh;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002100
+b) Tăng dày cảnh ảnh: sử dụng các thông số của vệ tinh khi chụp ảnh, các thông số về quỹ đạo vệ tinh và các thông số của ảnh để xây dựng mô hình vật lý;
 
-**ID:** dk_00046140
+c) Khi được nối thành khối ảnh (tăng dày khối ảnh viễn thám) thì các cảnh ảnh, dải ảnh, dải ảnh kép của các vệ tinh chụp ở các thời điểm khác nhau có chung một mô hình biến dạng. Sử dụng mô hình khối ảnh viễn thám để nắn các cảnh ảnh trực giao.
 
----
+2. Quy định chọn điểm liên kết dải và khối ảnh:
 
+a) Chọn điểm liên kết dải ảnh, điểm liên kết dải kép, điểm liên kết khối ảnh ở trong vùng phủ trùm 10% của dải ảnh;
 
-### Điều 27.6.TT.3.22. Nắn chỉnh hình học ảnh viễn thám
+b) Các điểm liên kết ảnh được chọn là địa vật có hình ảnh rõ nét trên 2 cảnh ảnh;
+
+c) Các điểm liên kết ảnh cần chọn so le nhau, tránh chọn các vị trí điểm tạo nên đường thẳng.
+
+3. Kiểm tra kết quả tăng dày:
+
+a) Sử dụng các điểm khống chế GPS đã có để hiệu chỉnh mô hình cảnh ảnh, hoặc dải ảnh, hoặc khối ảnh;
+
+b) Tính toán sai số của mô hình cảnh ảnh, nếu sai số lớn hơn hạn sai cho phép thì phải lựa chọn lại điểm khống chế. Sai số vị trí mặt phẳng của điểm khống chế sau tính toán bình sai so với điểm khống chế GPS gần nhất không vượt quá 0,5 pixel, ở vùng ẩn khuất sai số không quá vượt 01 pixel.
 
 Điều 27.6.TT.3.22. Nắn chỉnh hình học ảnh viễn thám
 
-**Chỉ mục:** 22
+(Điều 22 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002200
+1. Ảnh viễn thám được nắn theo từng cảnh ảnh. Kích thước pixel ảnh nắn được tái mẫu không được lớn hơn 0,2mm trên bình đồ ảnh viễn thám. Giá trị bậc độ xám của điểm ảnh được nội suy theo phương pháp người láng giềng gần nhất, phương pháp song tuyến hoặc phương pháp nội suy bậc 3.
 
-**ID:** dk_00046141
+2. Mô hình hóa ảnh viễn thám được thực hiện bằng mô hình vật lý trong trường hợp có đầy đủ các thông số chụp ảnh và phần mềm phù hợp hoặc bằng các mô hình toán học khác (mô hình hàm hữu tỷ, mô hình hàm đa thức, mô hình affine, mô hình chuyển đổi tuyến tính trực tiếp, mô hình chuyển đổi lưới chiếu) trong trường hợp không đầy đủ các thông số chụp ảnh và phần mềm phù hợp.
 
----
+3. Sử dụng các điểm đo GPS hoặc sử dụng mô hình số độ cao để nắn ảnh viễn thám trong trường hợp độ xê dịch vị trí điểm ảnh do chênh cao địa hình gây ra ³ 0,3mm theo tỷ lệ bình đồ ảnh viễn thám. Trường hợp ngược lại thì dùng mặt phẳng trung bình của cả khu vực để nắn ảnh.
 
+Tùy thuộc phương pháp mô hình hóa mà xác định số lượng và đồ hình điểm khống chế ảnh. Trong trường hợp mô hình hóa ảnh viễn thám theo mô hình vật lý, cần xác định tối thiểu cho mỗi mô hình 10 điểm khống chế ảnh. Trong trường hợp mô hình hóa đa thức phải xác định cho mỗi mô hình trên 10 điểm khống chế ảnh trở lên rải đều khắp tờ ảnh. Trong trường hợp mô hình hóa vật lý cho 2 cảnh ảnh kề cận nhau hoặc tăng dày cho khối ảnh viễn thám thì phải chọn điểm khống chế vào khu vực gối phủ giữa 2 cảnh ảnh.
 
-### Điều 27.6.TT.3.23. Xử lý phổ, trộn ảnh và tăng cường chất lượng ảnh
+4. Kiểm tra sai số nắn chỉnh hình học:
+
+a) Độ chênh trung bình vị trí các địa vật cùng tên trên bình đồ ảnh viễn thám nắn so với bản đồ không được lớn hơn 0,4mm đối với địa vật rõ rệt và không được lớn hơn 0,6mm đối với địa vật không rõ rệt;
+
+b) Sai số tiếp biên địa vật giữa các cảnh ảnh nắn không được lớn hơn 0,7 mm ở vùng đồng bằng và 1,0 mm ở vùng núi;
+
+c) Ảnh viễn thám nắn được đưa về hệ tọa độ VN2000 hoặc theo từng yêu cầu cụ thể.
 
 Điều 27.6.TT.3.23. Xử lý phổ, trộn ảnh và tăng cường chất lượng ảnh
 
-**Chỉ mục:** 23
+(Điều 23 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002300
+1. Xử lý phổ: Ảnh viễn thám sau khi được nắn chỉnh hình học cần phải được xử lý phổ ở mức độ hiển thị màn hình sau đó lưu ở dạng dữ liệu ảnh số.
 
-**ID:** dk_00046142
+2. Trộn ảnh viễn thám: Để nâng cao chất lượng hình ảnh nhằm phục vụ công tác giải đoán ảnh, suy giải các đối tượng cần trộn ảnh toàn sắc và ảnh đa phổ đã xử lý màu để tạo ảnh màu phân giải cao.
 
----
+3. Tăng cường chất lượng ảnh viễn thám: Khi hình ảnh không đạt độ nét cần thiết, để hiện rõ các yếu tố cần phải tăng cường chất lượng ảnh. Việc tăng cường chất lượng ảnh được tiến hành cho từng kênh phổ bằng phương pháp dẫn tuyến tính, lọc ảnh, tổ hợp ảnh không mây, phương pháp điều chỉnh tương tác hoặc theo phương pháp khác. Tùy theo bản chất hình ảnh gốc mà chọn phương pháp lọc ảnh tuyến tính cho phù hợp.
 
+Ngoài ra còn có thể tăng cường chất lượng ảnh đa phổ bằng giải pháp tổ hợp màu được thực hiện theo phương án tổ hợp màu tự nhiên hoặc tổ hợp màu giả tùy theo yêu cầu đặt ra.
 
-### Điều 27.6.TT.3.24. Kiểm tra chất lượng ảnh viễn thám 3A
+4. Kiểm tra xử lý phổ, trộn ảnh viễn thám
+
+a) Ảnh viễn thám sau khi xử lý phổ phải đảm bảo những yêu cầu sau:
+
+- Ảnh viễn thám sau khi xử lý phổ phải đạt mức độ chất lượng hình ảnh tốt, có độ tương phản trung bình, không thiên màu;
+
+- Màu sắc đồng đều với các cảnh ảnh tiếp giáp;
+
+- Biểu đồ phân bố độ xám sau xử lý phổ phải tận dụng được tối đa khoảng giá trị của pixel có thể.
+
+b) Ảnh viễn thám được trộn phải đáp ứng các yêu cầu sau:
+
+- Các ảnh được dùng không được cách nhau quá xa về thời điểm chụp ảnh;
+
+- Sai số đối điểm giữa các địa vật cùng tên có trên các ảnh viễn thám không vượt quá 0,5 pixel của ảnh có độ phân giải thấp hơn;
+
+- Độ phân giải của các ảnh viễn thám không được khác nhau quá 4 lần.
 
 Điều 27.6.TT.3.24. Kiểm tra chất lượng ảnh viễn thám 3A
 
-**Chỉ mục:** 24
+(Điều 24 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002400
+Ảnh viễn thám 3 A sau khi sản xuất phải được kiểm tra chất lượng như sau:
 
-**ID:** dk_00046143
+1. Kiểm tra hệ tọa độ, múi chiếu so với yêu cầu.
 
----
+2. Kiểm tra mức độ đồng đều về phổ.
 
+3. Kiểm tra độ chính xác ảnh viễn thám 3A so với điểm khống chế, điểm kiểm tra.
 
-### Điều 27.6.TT.3.25. Nhập dữ liệu đầu vào
+4. Kiểm tra độ chính xác giữa ảnh toàn sắc và ảnh đa phổ, sai số vị trí lệch nhau ko quá 1 pixel đối với những cặp cảnh chụp cùng thời điểm.
 
-*Nội dung chưa có sẵn*
+Điều 27.6.TT.3.25. Nhập dữ liệu đầu vào
 
-**Chỉ mục:** 25
+(Điều 25 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002500
-
-**ID:** dk_00046144
-
----
-
-
-### Điều 27.6.TT.3.26. Ghép ảnh và cắt mảnh bình đồ ảnh viễn thám
+Ảnh viễn thám 3A sau khi kiểm tra đạt yêu cầu về chất lượng được nhập vào hệ thống xử lý ảnh viễn thám để làm dữ liệu đầu vào cho quá trình sản xuất ảnh viễn thám 3B.
 
 Điều 27.6.TT.3.26. Ghép ảnh và cắt mảnh bình đồ ảnh viễn thám
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002600
+1. Ghép ảnh viễn thám: Trong trường hợp mảnh bình đồ ảnh viễn thám thành lập không nằm trọn vẹn trên một cảnh ảnh viễn thám mà nằm trên nhiều cảnh ảnh viễn thám khác nhau thì phải tiến hành ghép các cảnh ảnh viễn thám này.
 
-**ID:** dk_00046145
+2. Cắt mảnh bình đồ ảnh viễn thám: Bình đồ ảnh viễn thám được cắt mảnh theo phân mảnh bản đồ địa hình hoặc cắt mảnh theo ranh giới định sẵn.
 
----
+3. Kiểm tra ghép ảnh và cắt mảnh:
 
+Bình đồ ảnh viễn thám sau khi ghép và cắt mảnh phải được kiểm tra:
 
-### Điều 27.6.TT.3.27. Dựng khung, lưới tọa độ, chú giải và phần ngoài khung bình đồ ảnh viễn thám
+a) Vết ghép ảnh không được đi qua các điểm khống chế. Vết ghép phải đi qua các điểm địa vật có sai số tiếp khớp nhỏ nhất, không được cắt theo địa vật hình tuyến. Góc kẹp giữa vết ghép và địa vật hình tuyến ở trong khoảng từ 30°-150°;
+
+b) Sai số ghép ảnh khi tiếp biên địa vật trên ảnh nắn không vượt quá 0,6mm ở vùng đồng bằng trên tỷ lệ bản đồ và không vượt quá 1,0mm ở vùng núi;
+
+c) Tông màu hai bên vết ghép phải tương đối đồng đều. Phải tiến hành dàn đều tông màu trong hành lang 60 pixel xung quanh vết ghép;
+
+d) Bình đồ ảnh viễn thám phải được cắt mảnh theo phân mảnh bản đồ địa hình hoặc cắt mảnh theo ranh giới định sẵn.
 
 Điều 27.6.TT.3.27. Dựng khung, lưới tọa độ, chú giải và phần ngoài khung bình đồ ảnh viễn thám
 
-**Chỉ mục:** 27
+(Điều 27 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002700
+1. Khung và trình bày khung bình đồ ảnh viễn thám theo quy định chung như sau:
 
-**ID:** dk_00046146
+a) Khung bình đồ ảnh viễn thám có tọa độ địa lý và tọa độ vuông góc;
 
----
+b) Tên và phiên hiệu mảnh bình đồ ảnh viễn thám;
 
+c) Tỷ lệ bình đồ ảnh viễn thám thành lập;
 
-### Điều 27.6.TT.3.28. Kiểm tra chất lượng ảnh viễn thám 3B
+d) Bảng chắp;
+
+đ) Thông tin về ảnh viễn thám (loại ảnh, độ phân giải, thời gian chụp);
+
+e) Tên đơn vị và thời gian thành lập bình đồ ảnh viễn thám;
+
+g) Hệ quy chiếu của bình đồ ảnh viễn thám.
+
+2. Kiểm tra khung và trình bày khung bình đồ ảnh viễn thám:
+
+Khung và trình bày khung bình đồ ảnh viễn thám phải được kiểm tra theo đúng với quy định.
+
+Mẫu khung được quy định tại Phụ lục 04 đính kèm theo Thông tư.
+
+Phu luc 04 – Mau khung binh do anh vien tham.doc
 
 Điều 27.6.TT.3.28. Kiểm tra chất lượng ảnh viễn thám 3B
 
-**Chỉ mục:** 28
+(Điều 28 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002800
+Ảnh viễn thám 3B sau khi sản xuất phải được kiểm tra chất lượng.
 
-**ID:** dk_00046147
+1. Kiểm tra các vết ghép ảnh nếu có.
 
----
-
-
-### Điều 27.6.TT.3.29. Quy định kiểm tra nghiệm thu sản phẩm
+2. Kiểm tra mức độ đồng đều về phổ với các mảnh ghép nếu có.
 
 Điều 27.6.TT.3.29. Quy định kiểm tra nghiệm thu sản phẩm
 
-**Chỉ mục:** 29
+(Điều 29 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100002900
+Tất cả các sản phẩm ảnh viễn thám sau quá trình xử lý phải được kiểm tra nghiệm thu sản phẩm tại đơn vị sản xuất, đảm bảo đạt yêu cầu về số lượng, chất lượng.
 
-**ID:** dk_00046148
+Điều 27.6.TT.3.30. Quy định đóng gói sản phẩm
 
----
+(Điều 30 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
+1. Sản phẩm ảnh viễn thám được xuất ra dưới khuôn dạng chuẩn tùy theo từng loại vệ tinh hoặc xuất ra dưới khuôn dạng TIFF/GEOTIFF cho các phần mềm thông dụng và một số khuôn dạng khác theo yêu cầu riêng. Ngoài ra phải có thêm file chứa thông tin về tọa độ và file chứa thông tin về ảnh.
 
-### Điều 27.6.TT.3.30. Quy định đóng gói sản phẩm
+2. Sản phẩm dạng số được ghi trên đĩa CD-ROM hoặc DVD. Đĩa CD-ROM hoặc DVD ghi dữ liệu của các sản phẩm dạng số phải là các loại đĩa có chất lượng tốt và chỉ ghi được 1 lần. Số liệu không được ngắt quãng trong quá trình ghi và sau khi ghi xong phải được kiểm tra lại nội dung trên máy tính để khẳng định chất lượng thông tin đã ghi trên đĩa. Trên vỏ và nhãn đĩa CD-ROM hoặc DVD lưu dữ liệu các sản phẩm dạng số phải ghi rõ các thông tin kỹ thuật cần thiết của sản phẩm, nhằm phục vụ cho việc lưu trữ và khai thác dữ liệu. Nhãn đĩa phải ghi chú đầy đủ phiên hiệu mảnh bình đồ ảnh viễn thám, tỷ lệ, ngày tháng năm chụp ảnh, tên đơn vị và thời gian xử lý.
 
-*Nội dung chưa có sẵn*
+3. Sản phẩm in trên giấy phải được sắp xếp theo trình tự và đựng trong bao bì làm bằng chất liệu có độ bền cao. Trên bao bì ghi loại sản phẩm, tỷ lệ, số lượng sản phẩm, thời gian thực hiện, đơn vị thi công và các ghi chú cần thiết khác.
 
-**Chỉ mục:** 30
+Điều 27.6.TT.3.31. Quy định giao nộp sản phẩm
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100003000
+(Điều 31 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**ID:** dk_00046149
+1. Sản phẩm ảnh viễn thám sau khi đã được kiểm tra kỹ thuật, đánh giá chất lượng và nghiệm thu đều phải giao nộp để bảo quản, khai thác sử dụng và lưu trữ.
 
----
+2. Khi giao nhận sản phẩm ảnh viễn thám phải lập biên bản giao nhận sản phẩm. Biên bản này là căn cứ để nghiệm thu và thanh lý các hợp đồng, dự án.
 
+Điều 27.6.TT.4.4. Vị trí lắp đặt ăng ten
 
-### Điều 27.6.TT.3.31. Quy định giao nộp sản phẩm
+(Điều 4 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-*Nội dung chưa có sẵn*
+ 1. Ăng ten phải được lắp đặt tại vị trí thông thoáng trong toàn bộ vòng phương vị 360° với góc ngẩng ≥ 3° để tiếp nhận hoàn toàn tín hiệu từ vệ tinh viễn thám. Vị trí lắp đặt ăng ten phải được trang bị hệ thống camera hồng ngoại để giám sát quá trình vận hành hệ thống ăng ten.
 
-**Chỉ mục:** 31
+ 2. Ăng ten khi chuyển động chiếm một không gian hình cầu tùy theo đường kính của ăng ten. Xung quanh vị trí ăng ten phải được lắp đặt vành đai bảo vệ an toàn có đường kính ≥ 1,5 lần đường kính ăng ten.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802540600100003100
+ 3. Hệ thống ăng ten của trạm thu ảnh vệ tinh phải được trang bị hệ thống chống sét và tiếp đất tuân theo Quy chuẩn kỹ thuật quốc gia về chống sét cho các trạm viễn thông và mạng cáp ngoại vi viễn thông ban hành kèm theo Thông tư số 10/2011/TT-BTTTT ngày 14 tháng 4 năm 2011 của Bộ trưởng Bộ Thông tin và Truyền thông (QCVN:32:2011/BTTTT).Điều 27.6.TT.4.5. Hệ thống cung cấp điện
 
-**ID:** dk_00046150
+(Điều 5 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
----
+ 1. Trạm thu ảnh vệ tinh phải được trang bị hệ thống cung cấp điện dự phòng để duy trì hoạt động trong thời gian xảy ra sự cố mất điện lưới quốc gia. Hệ thống cung cấp điện dự phòng bao gồm: hệ thống ổn định nguồn điện, hệ thống lưu điện và máy phát điện dự phòng.
 
+ 2. Hệ thống lưu điện phải bảo đảm duy trì hoạt động cho trạm thu ảnh vệ tinh trong thời gian tối thiểu là ba mươi (30) phút sau khi nguồn điện lưới quốc gia bị ngắt.
 
-### Điều 27.6.TT.4.4. Vị trí lắp đặt ăng ten
+ 3. Máy phát điện dự phòng phải có chế độ tự động kích hoạt chậm nhất là một (01) phút sau khi nguồn điện lưới quốc gia bị ngắt.Điều 27.6.TT.4.6. Môi trường làm việc
 
-*Nội dung chưa có sẵn*
+(Điều 6 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Chỉ mục:** 4
+ 1. Vị trí lắp đặt trạm thu ảnh vệ tinh phải đăng ký với Cục Tần số và Vô tuyến điện trực thuộc Bộ Thông tin và Truyền thông để tránh nhiễu.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390000400
+ 2. Các thiết bị lắp đặt ngoài trời phải đảm bảo hoạt động ổn định trong điều kiện nhiệt độ từ -15°C tới +45°C, chịu được tốc độ gió tới 90km/h và lượng mưa tối đa là 37mm/h.
 
-**ID:** dk_00046151
+ 3. Phòng lắp đặt các thiết bị trạm thu ảnh vệ tinh phải được trang bị điều hòa đảm bảo nhiệt độ từ 18°C tới 25°C và độ ẩm từ 40% tới 70%.
 
----
+ 4. Trạm thu ảnh vệ tinh phải được phòng chống cháy nổ theo quy định của Luật phòng cháy, chữa cháy ngày 29 tháng 6 năm 2001.Điều 27.6.TT.4.7. Hệ thống mạng
 
+(Điều 7 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-### Điều 27.6.TT.4.5. Hệ thống cung cấp điện
+ 1. Trạm thu ảnh vệ tinh và trạm điều khiển vệ tinh phải được nối mạng nội bộ với nhau để trao đổi thông tin.
 
-*Nội dung chưa có sẵn*
+ 2. Hệ thống mạng phải được trang bị một máy chủ đảm bảo an ninh mạng.Điều 27.6.TT.4.8. Điều kiện vận hành trạm thu ảnh vệ tinh
 
-**Chỉ mục:** 5
+(Điều 8 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390000500
+ 1. Hệ thống trạm thu ảnh vệ tinh phải đảm bảo ở trạng thái hoạt động liên tục hai mươi tư giờ một ngày và bảy ngày trong một tuần.
 
-**ID:** dk_00046152
+ 2. Công tác vận hành trạm thu phải do người vận hành có trình độ đại học thuộc một trong các chuyên ngành sau: trắc địa, bản đồ, viễn thám, điện tử viễn thông, công nghệ thông tin và đã được tham gia khóa đào tạo về vận hành trạm thu ảnh vệ tinh.Điều 27.6.TT.4.9. Ca trực
 
----
+(Điều 9 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
+Việc vận hành trạm thu ảnh vệ tinh được chia theo ca trực. Kết quả làm việc và các sự cố kỹ thuật xảy ra trong ca trực (nếu có) phải được ghi vào sổ trực (theo mẫu tại Phụ lục số 01 ban hành kèm theo Thông tư này). Sau khi kết thúc ca trực, phải tiến hành bàn giao ca giữa hai nhóm vận hành và ký vào sổ trực.
 
-### Điều 27.6.TT.4.6. Môi trường làm việc
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390000600
-
-**ID:** dk_00046153
-
----
-
-
-### Điều 27.6.TT.4.7. Hệ thống mạng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390000700
-
-**ID:** dk_00046154
-
----
-
-
-### Điều 27.6.TT.4.8. Điều kiện vận hành trạm thu ảnh vệ tinh
-
-Điều 27.6.TT.4.8. Điều kiện vận hành trạm thu ảnh vệ tinh
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390000800
-
-**ID:** dk_00046155
-
----
-
-
-### Điều 27.6.TT.4.9. Ca trực
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390000900
-
-**ID:** dk_00046156
-
----
-
-
-### Điều 27.6.TT.4.10. Công tác chuẩn bị trước khi thu nhận
+Phu luc so 01 - So truc van hanh tram thu anh ve tinh.doc
 
 Điều 27.6.TT.4.10. Công tác chuẩn bị trước khi thu nhận
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001000
+ 1. Kiểm tra trạng thái sẵn sàng hoạt động của thiết bị: Ăng ten; thiết bị điều khiển ăng ten; thiết bị chuyển đổi tần số; thiết bị dò tín hiệu; thiết bị đo phổ tần số; bộ giải điều chế tín hiệu, thiết bị GPS, thiết bị đo gió.
 
-**ID:** dk_00046157
+ 2. Chạy thử hệ thống thiết bị điều khiển ăng ten; kiểm tra các thông số kỹ thuật của các thiết bị sau khi chạy thử và ghi lại các thông số vào sổ trực.
 
----
+ 3. Kiểm tra thiết bị trong phòng, tình trạng hoạt động và các cấu hình của các máy chủ thu nhận, xử lý và lưu trữ tín hiệu.
 
+ 4. Kiểm tra kế hoạch thu ảnh và sự đồng bộ về mặt thời gian giữa hệ thống điều khiển ăng ten và hệ thống xử lý tín hiệu.
 
-### Điều 27.6.TT.4.11. Thu nhận và xử lý tín hiệu vệ tinh
+ 5. Trong trường hợp xảy ra xung đột về kế hoạch thu ảnh giữa các vệ tinh phải xin ý kiến người quản lý trạm thu để lựa chọn vệ tinh có mức độ ưu tiên cao hơn.Điều 27.6.TT.4.11. Thu nhận và xử lý tín hiệu vệ tinh
 
-Điều 27.6.TT.4.11. Thu nhận và xử lý tín hiệu vệ tinh
+(Điều 11 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Chỉ mục:** 11
+ 1. Khi hệ thống bắt đầu thu tín hiệu, người vận hành phải theo dõi tín hiệu thu nhận được, kiểm tra sơ bộ các kênh truyền tín hiệu, thời gian truyền tín hiệu, vị trí thu theo kế hoạch thu ảnh và chất lượng của tín hiệu thu được từ vệ tinh. Tất cả các thông tin trên phải được ghi vào sổ trực hàng ngày.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001100
+ 2. Người vận hành phải giám sát các quá trình thu nhận, xử lý tín hiệu vệ tinh ra dữ liệu viễn thám mức 0 và lưu trữ dữ liệu này trên hệ thống lưu trữ trực tuyến của trạm thu ảnh vệ tinh.Điều 27.6.TT.4.12. Đánh giá chất lượng ảnh viễn thám
 
-**ID:** dk_00046158
+(Điều 12 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
----
+ Đánh giá sơ bộ chất lượng ảnh viễn thám: được chia thành các mức Rất tốt, Tốt, Xấu và Không sử dụng được. Trong đó, mức Rất tốt là ảnh được xử lý từ tín hiệu có giá trị BER bằng 0, mức Tốt là ảnh được xử lý từ tín hiệu có giá trị BER nằm trong khoảng cho phép của nhà sản xuất, mức xấu là ảnh được xử lý từ tín hiệu có giá trị BER lớn dẫn đến ảnh xử lý ra bị nhiễu, gây khó khăn trong quá trình sử dụng, mức Không sử dụng được là ảnh được xử lý từ tín hiệu có giá trị BER quá lớn dẫn đến không xử lý ra được ảnh hoặc ảnh được xử lý ra bị nhiễu nặng, không sử dụng được.Điều 27.6.TT.4.13. Đánh giá độ che phủ mây
 
+(Điều 13 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-### Điều 27.6.TT.4.12. Đánh giá chất lượng ảnh viễn thám
+ Đối với ảnh viễn thám quang học, người vận hành phải đánh giá mức độ che phủ mây. Việc đánh giá mức độ che phủ mây tuân theo quy định tại khoản 2 Điều 7 Thông tư số 10/2015/TT-BTNMT ngày 25 tháng 3 năm 2015 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định kỹ thuật về sản xuất ảnh viễn thám quang học độ phân giải cao và siêu cao để cung cấp đến người sử dụng.Điều 27.6.TT.4.14. Cập nhật danh mục dữ liệu ảnh viễn thám
 
-Điều 27.6.TT.4.12. Đánh giá chất lượng ảnh viễn thám
+(Điều 14 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Chỉ mục:** 12
+ Việc cập nhật danh mục dữ liệu ảnh viễn thám của trạm thu ảnh vệ tinh phải được kiểm tra ngay sau quá trình đánh giá chất lượng ảnh và độ che phủ mây.Điều 27.6.TT.4.15. Sao lưu dữ liệu viễn thám mức 0
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001200
+(Điều 15 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**ID:** dk_00046159
+ 1. Dữ liệu viễn thám mức 0 sau khi thu nhận phải được sao ra băng từ thành hai (02) bản để sử dụng lâu dài. Việc sao lưu dữ liệu viễn thám mức 0 phải được thực hiện hàng ngày, vào cuối ca trực.
 
----
+ 2. Băng từ phải được dán nhãn và đánh số có hệ thống để thuận tiện trong việc quản lý.
 
+ 3. Hai bản sao băng từ phải được cất giữ ở hai (02) tòa nhà khác nhau để phòng tránh rủi ro.
 
-### Điều 27.6.TT.4.13. Đánh giá độ che phủ mây
+ 4. Dữ liệu dự phòng phải được sao lưu định kỳ sau 03 năm, trong trường hợp phát hiện ra lỗi phải thực hiện sao lưu lại cho cả hai (02) bản.Điều 27.6.TT.4.16. Theo dõi và đánh giá đơn hàng chụp ảnh viễn thám
 
-*Nội dung chưa có sẵn*
+(Điều 16 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Chỉ mục:** 13
+ 1. Khi kết thúc quá trình vận hành thu ảnh, người vận hành phải phân loại ảnh viễn thám đã được đánh giá chất lượng và độ che phủ mây cho từng đơn hàng theo quy định tại Điều 12 và 13 của Thông tư này.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001300
+ 2. Đối với ảnh có chất lượng chưa đạt yêu cầu của khách hàng, người vận hành phải báo cáo lên cơ quan quản lý nhà nước về viễn thám để làm thủ tục đặt chụp lại.Điều 27.6.TT.4.17. Báo cáo kết quả thu ảnh viễn thám
 
-**ID:** dk_00046160
+(Điều 17 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
----
+Kết quả thu ảnh viễn thám phải được báo cáo bằng văn bản theo định kỳ hàng tháng, hàng quý, hàng năm và theo yêu cầu đột xuất của cơ quan quản lý nhà nước về viễn thám (theo mẫu tại Phụ lục số 02 ban hành kèm theo Thông tư này).
 
-
-### Điều 27.6.TT.4.14. Cập nhật danh mục dữ liệu ảnh viễn thám
-
-Điều 27.6.TT.4.14. Cập nhật danh mục dữ liệu ảnh viễn thám
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001400
-
-**ID:** dk_00046161
-
----
-
-
-### Điều 27.6.TT.4.15. Sao lưu dữ liệu viễn thám mức 0
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001500
-
-**ID:** dk_00046162
-
----
-
-
-### Điều 27.6.TT.4.16. Theo dõi và đánh giá đơn hàng chụp ảnh viễn thám
-
-Điều 27.6.TT.4.16. Theo dõi và đánh giá đơn hàng chụp ảnh viễn thám
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001600
-
-**ID:** dk_00046163
-
----
-
-
-### Điều 27.6.TT.4.17. Báo cáo kết quả thu ảnh viễn thám
-
-Điều 27.6.TT.4.17. Báo cáo kết quả thu ảnh viễn thám
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001700
-
-**ID:** dk_00046164
-
----
-
-
-### Điều 27.6.TT.4.18. Xử lý dữ liệu viễn thám từ mức 0 lên các mức cơ bản
+Phu luc so 02 - Bao cao ket qua thu anh.doc
 
 Điều 27.6.TT.4.18. Xử lý dữ liệu viễn thám từ mức 0 lên các mức cơ bản
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001800
+ Việc xử lý dữ liệu viễn thám từ mức 0 ra sản phẩm ảnh viễn thám tại trạm thu chỉ được thực hiện khi có yêu cầu của cấp có thẩm quyền.Điều 27.6.TT.4.19. Vận hành trạm thu theo chế độ khẩn cấp
 
-**ID:** dk_00046165
+(Điều 19 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
----
+ 1. Việc vận hành trạm thu theo chế độ khẩn cấp được thực hiện khi có yêu cầu trực tiếp của Tổng Bí thư, Chủ tịch Quốc hội, Chủ tịch nước, Thủ tướng Chính phủ.
 
+ 2. Sau khi kết thúc việc thu nhận ảnh theo chế độ khẩn cấp, dữ liệu phải được ưu tiên sản xuất ra sản phẩm ảnh viễn thám và cung cấp theo yêu cầu.Điều 27.6.TT.4.20. Phối hợp vận hành giữa trạm thu ảnh vệ tinh và trạm điều khiển vệ tinh
 
-### Điều 27.6.TT.4.19. Vận hành trạm thu theo chế độ khẩn cấp
+(Điều 20 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-Điều 27.6.TT.4.19. Vận hành trạm thu theo chế độ khẩn cấp
+ 1. Trạm điều khiển vệ tinh có trách nhiệm lập và gửi kế hoạch thu ảnh viễn thám tới trạm thu ảnh vệ tinh để trạm thu ảnh vệ tinh thu nhận tín hiệu khi vệ tinh bay qua. Thông tin về kế hoạch thu ảnh giữa trạm thu ảnh vệ tinh và trạm điều khiển vệ tinh được trao đổi hàng ngày thông qua hòm thư điện tử chung, điện thoại hoặc fax.
 
-**Chỉ mục:** 19
+ 2. Khóa bảo mật dữ liệu ảnh viễn thám được thay định kỳ hai (02) tuần một lần.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390001900
+ 3. Khi thực hiện tắt hệ thống trạm thu ảnh vệ tinh phải thông báo cho trạm điều khiển vệ tinh.Điều 27.6.TT.4.21. Bảo mật thông tin dữ liệu
 
-**ID:** dk_00046166
+(Điều 21 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
----
+ Người vận hành phải có trách nhiệm tuân thủ các quy định hiện hành về bảo mật thông tin và dữ liệu nhằm đảm bảo an ninh và an toàn dữ liệu ảnh viễn thám thu được tại trạm thu ảnh vệ tinh.Điều 27.6.TT.4.22. Xử lý sự cố kỹ thuật
 
+(Điều 22 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-### Điều 27.6.TT.4.20. Phối hợp vận hành giữa trạm thu ảnh vệ tinh và trạm điều khiển vệ tinh
+ 1. Khi phát hiện ra sự cố kỹ thuật trong quá trình vận hành, người vận hành phải miêu tả sự cố vào sổ Theo dõi sự cố (theo mẫu tại Phụ lục số 03 ban hành kèm theo Thông tư này).
 
-Điều 27.6.TT.4.20. Phối hợp vận hành giữa trạm thu ảnh vệ tinh và trạm điều khiển vệ tinh
+ 2. Tổ chức họp nhóm để xử lý sự cố theo đúng hướng dẫn và quy định của nhà sản xuất. Các bước xử lý sự cố phải được ghi chi tiết để làm tài liệu tham khảo.Điều 27.6.TT.4.23. Bảo trì hệ thống trạm thu ảnh vệ tinh
 
-**Chỉ mục:** 20
+(Điều 23 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390002000
+ Các thiết bị trạm thu ảnh vệ tinh phải được bảo trì, bảo dưỡng theo định kỳ hàng tháng, sáu (06) tháng và hàng năm theo quy định của nhà sản xuất.Điều 27.6.TT.5.4. Tần suất và mức độ cập nhật cơ sở dữ liệu nền địa lý
 
-**ID:** dk_00046167
+(Điều 4 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
----
+ Căn cứ mức độ thay đổi và yêu cầu về quản lý nội dung cơ sở dữ liệu nền địa lý, tần suất và mức độ cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh thực hiện theo quy định tại Điều 4 Thông tư số 10/2013/TT-BTNMT ngày 28 tháng 5 năm 2013 của Bộ Tài nguyên và Môi trường Quy định kỹ thuật về cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:2000, 1:5000 và 1:10000 (sau đây gọi là Thông tư số 10/2013/TT-BTNMT).Điều 27.6.TT.5.5. Nội dung công việc cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
 
+(Điều 5 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-### Điều 27.6.TT.4.21. Bảo mật thông tin dữ liệu
+ Nội dung công việc cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh bao gồm các công việc chính như sau:
 
-*Nội dung chưa có sẵn*
+ 1. Công tác chuẩn bị, gồm:
 
-**Chỉ mục:** 21
+ a) Chuẩn bị tài liệu và thiết bị, công nghệ;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390002100
+ b) Nghiên cứu tình hình biến động của khu vực cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000;
 
-**ID:** dk_00046168
+ c) Khảo sát mức độ thay đổi nội dung của cơ sở dữ liệu nền địa lý gốc tỷ lệ 1:10.000;
 
----
+ d) Khảo sát thực địa;
 
+ đ) Lập Thiết kế kỹ thuật - dự toán;
 
-### Điều 27.6.TT.4.22. Xử lý sự cố kỹ thuật
+ e) Trích sao cơ sở dữ liệu nền địa lý phục vụ cập nhật.
 
-*Nội dung chưa có sẵn*
+ 2. Cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000, gồm:
 
-**Chỉ mục:** 22
+ a) Thu nhận dữ liệu địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390002200
+ b) Chuẩn hóa dữ liệu.
 
-**ID:** dk_00046169
+ 3. Đồng bộ và tích hợp cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000.
 
----
+ 4. Kiểm tra nghiệm thu và đóng gói sản phẩm.Điều 27.6.TT.5.6. Chuẩn bị tài liệu và thiết bị công nghệ
 
+(Điều 6 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-### Điều 27.6.TT.4.23. Bảo trì hệ thống trạm thu ảnh vệ tinh
+ Công tác chuẩn bị tài liệu phục vụ việc cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh bao gồm:
 
-Điều 27.6.TT.4.23. Bảo trì hệ thống trạm thu ảnh vệ tinh
+ 1. Chuẩn bị tư liệu ảnh vệ tinh có kích thước pixel ảnh không vượt quá 2,5m, được thu, chụp tại thời điểm gần nhất, trước thời điểm cập nhật tối đa không quá 1 năm để phục vụ khảo sát nội dung thay đổi của cơ sở dữ liệu nền địa lý gốc tỷ lệ 1:10.000.
 
-**Chỉ mục:** 23
+ 2. Chuẩn bị các tài liệu, dữ liệu đo đạc và bản đồ và các tài liệu chuyên ngành khác.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802551200390002300
+ 3. Thu thập các văn bản quy phạm pháp luật có liên quan đến cơ sở dữ liệu nền địa lý.
 
-**ID:** dk_00046170
+ 4. Chuẩn bị công nghệ, thiết bị và nhân lực triển khai.Điều 27.6.TT.5.7. Nghiên cứu tình hình biến động của khu vực cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000
 
----
+(Điều 7 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
+ Việc nghiên cứu tình hình biến động của khu vực cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 thực hiện theo quy định tại Điều 7 Thông tư số 10/2013/TT-BTNMT.Điều 27.6.TT.5.8. Khảo sát mức độ thay đổi nội dung của cơ sở dữ liệu nền địa lý gốc tỷ lệ 1:10.000
 
-### Điều 27.6.TT.5.4. Tần suất và mức độ cập nhật cơ sở dữ liệu nền địa lý
+(Điều 8 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-Điều 27.6.TT.5.4. Tần suất và mức độ cập nhật cơ sở dữ liệu nền địa lý
+ 1. Rà soát những nội dung thay đổi về quy định kỹ thuật giữa các văn bản kỹ thuật mới ban hành có liên quan đến cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 và các quy định đã áp dụng để xây dựng cơ sở dữ liệu nền địa lý.
 
-**Chỉ mục:** 4
+ 2. Đánh giá mức độ đầy đủ, độ tin cậy và mức độ thay đổi thông tin đối tượng địa lý của cơ sở dữ liệu nền địa lý gốc tỷ lệ 1:10.000 được tiến hành bằng việc đối chiếu, so sánh nội dung dữ liệu nền địa lý gốc với tư liệu ảnh vệ tinh được sử dụng, các tài liệu, dữ liệu đo đạc và bản đồ và các tài liệu chuyên ngành khác.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690000400
+ 3. Tiến hành khảo sát thực địa theo quy định tại Điều 7 và Điều 9 của Thông tư này.
 
-**ID:** dk_00046171
+ 4. Kết quả đánh giá phải đưa ra được kết luận về mức độ cập nhật và phương pháp cập nhật cơ sở dữ liệu nền địa lý gốc bằng ảnh vệ tinh được lựa chọn.Điều 27.6.TT.5.9. Khảo sát thực địa
 
----
+(Điều 9 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
+ Khảo sát thực địa được tiến hành theo điểm và theo tuyến. Trước khi tiến hành khảo sát phải lập sơ đồ khảo sát, trong đó phải đánh dấu vị trí các điểm, các tuyến cần khảo sát và lập ra kế hoạch triển khai. Mục tiêu của việc khảo sát thực địa nhằm:
 
-### Điều 27.6.TT.5.5. Nội dung công việc cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
+ 1. Bổ sung cho phần nghiên cứu nội nghiệp về tình hình biến động của khu vực cập nhật;
 
-Điều 27.6.TT.5.5. Nội dung công việc cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
+ 2. Bổ sung cho phần đánh giá nội nghiệp về cơ sở dữ liệu nền địa lý gốc;
 
-**Chỉ mục:** 5
+ 3. Thu thập tài liệu ở địa phương; khảo sát hiện trạng các điểm mốc tọa độ, độ cao quốc gia dùng để đo khống chế ảnh (nếu có).Điều 27.6.TT.5.10. Lập Thiết kế kỹ thuật - dự toán
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690000500
+(Điều 10 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**ID:** dk_00046172
+ 1. Thiết kế kỹ thuật - dự toán được lập trên cơ sở kết quả khảo sát và theo quy định của cơ quan có thẩm quyền.
 
----
+ 2. Thiết kế kỹ thuật - dự toán được dùng để thi công, kiểm tra, nghiệm thu sản phẩm và thanh quyết toán công trình sau khi được cấp có thẩm quyền phê duyệt.
 
+ 3. Nội dung Thiết kế kỹ thuật - dự toán thực hiện theo Quy chế quản lý các đề án, dự án, nhiệm vụ chuyên môn thuộc Bộ Tài nguyên và Môi trường.Điều 27.6.TT.5.11. Trích sao cơ sở dữ liệu nền địa lý
 
-### Điều 27.6.TT.5.6. Chuẩn bị tài liệu và thiết bị công nghệ
+(Điều 11 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-Điều 27.6.TT.5.6. Chuẩn bị tài liệu và thiết bị công nghệ
+ 1. Việc trích sao cơ sở dữ liệu nền địa lý chỉ được thực hiện sau khi có quyết định phê duyệt nội dung công việc cập nhật của cơ quan có thẩm quyền.
 
-**Chỉ mục:** 6
+ 2. Cục Đo đạc và Bản đồ Việt Nam chịu trách nhiệm trích sao cơ sở dữ liệu nền địa lý đúng quy định.Điều 27.6.TT.5.12. Yêu cầu chung
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690000600
+(Điều 12 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**ID:** dk_00046173
+ Yêu cầu về mức độ chi tiết nội dung cơ sở dữ liệu nền địa lý, độ chính xác không gian, độ chính xác thời gian của các đối tượng địa lý thu nhận phục vụ cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000, chuẩn hóa cơ sở dữ liệu nền địa lý thực hiện theo Quy định thu nhận dữ liệu nền địa lý tỷ lệ 1:10.000 tại Phụ lục số 2 Thông tư số 21/2014/TT-BTNMT của Bộ Tài nguyên và Môi trường ngày 24 tháng 4 năm 2014 (sau đây gọi là Thông tư số 21/2014/TT-BTNMT).Điều 27.6.TT.5.13. Thu nhận dữ liệu địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
 
----
+(Điều 13 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
+ 1. Ảnh vệ tinh sử dụng để cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 phải có độ phân giải mặt đất nhỏ hơn hoặc bằng 1m (0,1mm tính theo tỷ lệ bản đồ); việc sử dụng các cảnh ảnh vệ tinh đơn có độ phân giải mặt đất tới 1,5m chỉ áp dụng khi được cấp có thẩm quyền cho phép trong một số trường hợp đặc biệt như khu vực cập nhật có phạm vi nhỏ, không cần cập nhật yếu tố địa hình.
 
-### Điều 27.6.TT.5.7. Nghiên cứu tình hình biến động của khu vực cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000
+ 2. Ảnh vệ tinh sử dụng cho cập nhật cơ sở dữ liệu nền địa lý phải được thu, chụp tại thời điểm gần nhất, trước thời điểm cập nhật tối đa không quá 1 năm.
 
-Điều 27.6.TT.5.7. Nghiên cứu tình hình biến động của khu vực cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000
+ 3. Sử dụng ảnh vệ tinh dạng cảnh ảnh đơn để thu nhận các đối tượng địa lý phục vụ cập nhật cơ sở dữ liệu nền địa lý tại những khu vực không có thay đổi về địa hình hoặc thay đổi về địa hình là không đáng kể.
 
-**Chỉ mục:** 7
+ 4. Tại những khu vực có thay đổi đáng kể về địa hình phải sử dụng ảnh vệ tinh lập thể để thu nhận các đối tượng địa lý, cụ thể:
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690000700
+ a) Khu vực trên bản đồ yêu cầu thể hiện đường bình độ cơ bản là 2,5m phải sử dụng ảnh vệ tinh lập thể có độ phân giải mặt đất nhỏ hơn hoặc bằng 0,5m;
 
-**ID:** dk_00046174
+ b) Khu vực trên bản đồ yêu cầu thể hiện đường bình độ cơ bản là 5m phải sử dụng ảnh vệ tinh lập thể có độ phân giải mặt đất nhỏ hơn hoặc bằng 1m.
 
----
+ 5. Công tác thu nhận dữ liệu địa lý bằng ảnh vệ tinh phải đảm bảo các yêu cầu kỹ thuật của từng bước công việc theo các quy định tương ứng trong các văn bản quy định kỹ thuật hiện hành, bao gồm các bước chính như sau:
 
+ a) Thiết kế, đo nối điểm khống chế ảnh ngoại nghiệp;
 
-### Điều 27.6.TT.5.8. Khảo sát mức độ thay đổi nội dung của cơ sở dữ liệu nền địa lý gốc tỷ lệ 1:10.000
+ b) Tăng dày điểm khống chế ảnh nội nghiệp (mô hình hóa cảnh ảnh, khối ảnh);
 
-Điều 27.6.TT.5.8. Khảo sát mức độ thay đổi nội dung của cơ sở dữ liệu nền địa lý gốc tỷ lệ 1:10.000
+ c) Đo vẽ lập thể trên trạm ảnh số các đối tượng địa lý đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể;
 
-**Chỉ mục:** 8
+ d) Thành lập mô hình số địa hình (đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể);
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690000800
+ đ) Thành lập bình đồ ảnh vệ tinh;
 
-**ID:** dk_00046175
+ e) Véc-tơ hóa các đối tượng địa lý trên bình đồ ảnh vệ tinh;
 
----
+ g) Điều tra đối tượng địa lý và đo vẽ bổ sung ngoại nghiệp.Điều 27.6.TT.5.14. Thiết kế, đo nối điểm khống chế ảnh ngoại nghiệp
 
+(Điều 14 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-### Điều 27.6.TT.5.9. Khảo sát thực địa
+ 1. Mỗi cảnh ảnh phải được bố trí ít nhất 12 điểm khống chế ảnh ngoại nghiệp, vị trí điểm được phân bố tương đối đều, không nằm quá sát mép cảnh ảnh. Trong vùng độ phủ chung giữa các cảnh ảnh kề nhau phải đảm bảo có ít nhất 2 điểm khống chế ảnh ngoại nghiệp.
 
-*Nội dung chưa có sẵn*
+ 2. Mỗi cảnh ảnh phải có ít nhất 2 điểm kiểm tra, bố trí tại các vị trí xen kẽ giữa các điểm khống chế ảnh. Tọa độ và độ cao của điểm kiểm tra phải được xác định với độ chính xác tương đương độ chính xác xác định điểm khống chế ảnh ngoại nghiệp.
 
-**Chỉ mục:** 9
+ 3. Các điểm khống chế ảnh ngoại nghiệp, điểm kiểm tra được chọn phải tồn tại ở thực địa và có hình ảnh rõ nét trên ảnh, đảm bảo dễ nhận biết và chích được trên ảnh. Nếu chọn điểm vào vị trí giao nhau của các địa vật hình tuyến thì góc giao nhau của các địa vật đó phải nằm trong khoảng từ 30° đến 150°; nếu chọn điểm vào địa vật có dạng hình tròn thì đường kính địa vật phải nhỏ hơn 0,3mm trên ảnh. Ngoài các yêu cầu trên, vị trí điểm khống chế ảnh ngoại nghiệp được chọn phải đảm bảo thuận tiện cho công tác đo nối.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690000900
+ 4. Đánh dấu vị trí điểm khống chế ảnh ngoại nghiệp, điểm kiểm tra bằng cách đóng cọc gỗ, hoặc cọc sắt xuống đất, hoặc dùng sơn đánh dấu vị trí ở thực địa, đảm bảo tồn tại ổn định trong thời gian thi công và kiểm tra, nghiệm thu.
 
-**ID:** dk_00046176
+ 5. Các điểm khống chế ảnh ngoại nghiệp, điểm kiểm tra phải được chích lên ảnh khống chế tại thực địa, đường kính lỗ chích không vượt quá 0,15mm trên ảnh. Các điểm tọa độ và độ cao quốc gia được sử dụng làm cơ sở để đo nối khống chế ảnh ngoại nghiệp phải chích lên ảnh như đối với điểm khống chế ảnh ngoại nghiệp nếu nhận biết được trên ảnh.
 
----
+ 6. Tất cả các điểm chích trên ảnh khống chế phải được tu chỉnh ở cả mặt phải và mặt trái của ảnh. Trên mặt phải ảnh, các điểm được khoanh vị trí, ghi tên điểm; trên mặt trái vẽ sơ đồ ghi chú điểm gồm sơ đồ tổng quan và sơ đồ mô tả chi tiết vị trí điểm. Cách thức tu chỉnh thực hiện theo mẫu quy định tại Phụ lục 1 của Quy định kỹ thuật thành lập bản đồ địa hình tỷ lệ 1:10.000, 1:25.000 và 1:50.000 bằng công nghệ ảnh số.
 
+ 7. Công tác đo nối khống chế ảnh ngoại nghiệp thực hiện theo các quy định kỹ thuật của Quy định kỹ thuật thành lập bản đồ địa hình tỷ lệ 1:10.000, 1:25.000 và 1:50.000 bằng công nghệ ảnh số.Điều 27.6.TT.5.15. Tăng dày điểm khống chế ảnh nội nghiệp (Mô hình hóa cảnh ảnh, khối ảnh)
 
-### Điều 27.6.TT.5.10. Lập Thiết kế kỹ thuật - dự toán
+(Điều 15 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-*Nội dung chưa có sẵn*
+ 1. Nhập dữ liệu ảnh vệ tinh, chọn mô hình toán học của bộ cảm biến ảnh vệ tinh: mô hình vật lý hoặc mô hình hàm số hữu tỷ tùy thuộc vào dữ liệu ảnh đầu vào.
 
-**Chỉ mục:** 10
+ 2. Khai báo, cài đặt đúng các thông số hệ tọa độ, phép chiếu bản đồ.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001000
+ 3. Đặt giá trị sai số đo điểm ảnh là ±0,3 kích thước pixel ảnh.
 
-**ID:** dk_00046177
+ 4. Đo các điểm khống chế ảnh ngoại nghiệp, các điểm kiểm tra trên các cảnh ảnh vệ tinh. Thị sai còn dư tại mỗi điểm không được vượt quá ±1 kích thước pixel ảnh;
 
----
+ 5. Đo các điểm liên kết ảnh:
 
+ a) Đo tọa độ ảnh của các điểm địa vật rõ nét xuất hiện trong vùng độ phủ chung giữa các cảnh ảnh vệ tinh;
 
-### Điều 27.6.TT.5.11. Trích sao cơ sở dữ liệu nền địa lý
+ b) Không cần đo điểm liên kết ảnh trong trường hợp các cảnh ảnh vệ tinh kề nhau là các cảnh ảnh cùng nằm trong một dải quét;
 
-Điều 27.6.TT.5.11. Trích sao cơ sở dữ liệu nền địa lý
+ c) Đối với khối ảnh gồm các cảnh ảnh vệ tinh đơn, trong mỗi vùng độ phủ chung của các cảnh ảnh vệ tinh phải đo ít nhất là 3 điểm liên kết ảnh ở các vị trí sao cho chúng không nằm trên một đường thẳng hoặc gần như nằm trên một đường thẳng;
 
-**Chỉ mục:** 11
+ d) Đối với khối ảnh gồm các cặp cảnh ảnh lập thể, phải chọn các điểm liên kết ảnh phân bố tương đối đều trên diện tích mỗi mô hình hình lập thể. Mỗi một cặp cảnh ảnh lập thể phải đo ít nhất là 6 cặp điểm liên kết ảnh.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001100
+ đ) Thị sai còn dư tại mỗi điểm liên kết ảnh không được vượt quá ±1 kích thước pixel ảnh.
 
-**ID:** dk_00046178
+ 6. Bình sai khối ảnh tăng dày:
 
----
+ Kết quả bình sai khối ảnh vệ tinh phải thỏa mãn các yêu cầu về độ chính xác như sau:
 
+ a) Sai số trung phương trọng số đơn vị (sigma naught): không được vượt quá ±1 kích thước pixel ảnh;
 
-### Điều 27.6.TT.5.12. Yêu cầu chung
+ b) Sai số trung phương vị trí mặt phẳng của các điểm khống chế ảnh ngoại nghiệp sau bình sai khối tăng dày không được vượt quá ±1,5 kích thước pixel ảnh, sai số trung phương về độ cao không được vượt quá 1/3 khoảng cao đều cơ bản;
 
-*Nội dung chưa có sẵn*
+ c) Số chênh giữa tọa độ, độ cao tăng dày và tọa độ, độ cao đo ngoại nghiệp của các điểm kiểm tra không được vượt quá ±1,5 kích thước pixel ảnh về mặt phẳng và 1/3 khoảng cao đều cơ bản về độ cao;
 
-**Chỉ mục:** 12
+ d) Sai số trung phương về vị trí mặt phẳng của điểm tăng dày nội nghiệp không được vượt quá ±1,5 kích thước pixel ảnh và sai số trung phương về độ cao của điểm tăng dày nội nghiệp so với độ cao của điểm khống chế trắc địa gần nhất không được vượt quá 1/3 khoảng cao đều cơ bản;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001200
+ đ) Sai số giới hạn vị trí mặt phẳng và độ cao của điểm tăng dày nội nghiệp quy định là bằng 2 lần các sai số tại Điểm d, Khoản 6;
 
-**ID:** dk_00046179
+ e) Sai số lớn nhất không được vượt quá sai số giới hạn và số lượng các sai số có giá trị vượt hạn sai nhưng nhỏ hơn sai số giới hạn không được vượt quá: về mặt phẳng: 5% tổng số các trường hợp; về độ cao: 5% tổng số các trường hợp đối với vùng đồng bằng, vùng đồi; 10% tổng số các trường hợp đối với vùng núi, núi cao và vùng ẩn khuất;
 
----
+ g) Sai số tiếp biên khối: chênh lệch về vị trí mặt phẳng của các điểm tăng dày nội nghiệp nằm trong độ phủ chung của hai khối ảnh vệ tinh liền kề không được vượt quá 0,4mm tính theo tỷ lệ bản đồ, và chênh lệch về độ cao không được vượt quá 1/2 khoảng cao đều đường bình độ cơ bản.Điều 27.6.TT.5.16. Đo vẽ lập thể trên trạm ảnh số các đối tượng địa lý đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể
 
+(Điều 16 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-### Điều 27.6.TT.5.13. Thu nhận dữ liệu địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
+ Việc đo vẽ lập thể các đối tượng địa lý trên trạm ảnh số tuân theo các quy định kỹ thuật tại Điểm 4.6.1 của Quy định kỹ thuật thành lập bản đồ địa hình tỷ lệ 1:10.000, 1:25.000 và 1:50.000 bằng công nghệ ảnh số và Quy định thu nhận dữ liệu nền địa lý tỷ lệ 1:10.000 tại Phụ lục số 2 Thông tư số 21/2014/TT-BTNMT.Điều 27.6.TT.5.17. Thành lập mô hình số địa hình đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể
 
-Điều 27.6.TT.5.13. Thu nhận dữ liệu địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
+(Điều 17 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**Chỉ mục:** 13
+ 1. Mô hình số địa hình (DTM) được thành lập phục vụ thể hiện dáng đất của khu vực cần cập nhật và phục vụ nắn ảnh vệ tinh.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001300
+ 2. Mô hình số địa hình (DTM) được thành lập trên cơ sở kết quả đo vẽ chi tiết các yếu tố mô tả đặc trưng địa hình bao gồm các đường tụ thủy, phân thủy, các dạng địa hình đắp cao, xẻ sâu, các điểm độ cao đặc trưng, đường bình độ, và các yếu tố khác có liên quan kết hợp với đo lưới điểm độ cao.
 
-**ID:** dk_00046180
+ 3. Độ chính xác của các yếu tố tham gia xây dựng mô hình số địa hình đảm bảo theo quy định tại Điểm 2.4 của Quy định kỹ thuật thành lập bản đồ địa hình tỷ lệ 1:10.000; 1:25.000 và 1:50.000 bằng công nghệ ảnh số.
 
----
+ 4. Mô hình số địa hình được thành lập dưới định dạng TIN hoặc GRID và được lưu trữ theo từng tệp tin có tên trùng danh pháp mảnh bản đồ tương ứng để phục vụ thể hiện dáng đất.
 
+ 5. Mô hình số địa hình được chuyển đổi sang dạng raster được sử dụng để phục vụ nắn ảnh vệ tinh với yêu cầu kích thước pixel như sau:
 
-### Điều 27.6.TT.5.14. Thiết kế, đo nối điểm khống chế ảnh ngoại nghiệp
+ a) Kích thước pixel của mô hình số địa hình dạng raster không vượt quá 8m x 8m đối với khu vực trên bản đồ yêu cầu thể hiện đường bình độ cơ bản là 2,5m và ảnh vệ tinh độ sử dụng có độ phân giải mặt đất nhỏ hơn hoặc bằng 0,5m;
 
-Điều 27.6.TT.5.14. Thiết kế, đo nối điểm khống chế ảnh ngoại nghiệp
+ b) Kích thước pixel của mô hình số địa hình dạng raster không vượt quá 16m x 16m đối với khu vực trên bản đồ yêu cầu thể hiện đường bình độ cơ bản là 5m và ảnh vệ tinh độ sử dụng có độ phân giải mặt đất là 1m.Điều 27.6.TT.5.18. Thành lập bình đồ ảnh vệ tinh
 
-**Chỉ mục:** 14
+(Điều 18 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001400
+ 1. Sử dụng mô hình số độ cao, mô hình số địa hình để nắn ảnh vệ tinh trong trường hợp độ xê dịch vị trí điểm ảnh do chênh cao địa hình gây ra lớn hơn hoặc bằng 0,3mm theo tỷ lệ bản đồ cần thành lập. Trường hợp độ xê dịch vị trí điểm ảnh do chênh cao địa hình gây ra nhỏ hơn 0,3mm thì sử dụng độ cao trung bình khu vực để nắn ảnh.
 
-**ID:** dk_00046181
+ 2. Trường hợp sử dụng các cặp ảnh vệ tinh lập thể độ phân giải cao, mô hình số địa hình được thành lập theo quy định tại Khoản 5 Điều 17 Thông tư này để nắn ảnh vệ tinh.
 
----
+ 3. Trường hợp sử dụng các cảnh ảnh đơn thì sử dụng sản phẩm mô hình số độ cao, mô hình số địa hình đã có của các dự án xây dựng cơ sở dữ liệu nền địa lý trước đó để nắn ảnh.
 
+ 4. Mô hình số độ cao, mô hình số địa hình phải được hiệu chỉnh độ cao tại những khu vực có cây cao, mật độ dày, khu vực có các công trình kiến trúc có chiều cao lớn để đảm bảo không xảy ra hiện tượng méo hình, trôi trượt hình ảnh trên bình đồ ảnh.
 
-### Điều 27.6.TT.5.15. Tăng dày điểm khống chế ảnh nội nghiệp (Mô hình hóa cảnh ảnh, khối ảnh)
+ 5. Ảnh vệ tinh được nắn theo từng cảnh ảnh. Bình đồ ảnh được lưu trữ theo định dạng GeoTIFF với kích thước pixel của bình đồ ảnh được lấy bằng độ phân giải danh nghĩa của ảnh vệ tinh đầu vào, hoặc không vượt quá 1m.
 
-Điều 27.6.TT.5.15. Tăng dày điểm khống chế ảnh nội nghiệp (Mô hình hóa cảnh ảnh, khối ảnh)
+ 6. Yêu cầu về độ chính xác mặt phẳng của bình đồ ảnh như sau:
 
-**Chỉ mục:** 15
+ a) Sai số vị trí mặt phẳng của các điểm khống chế, các điểm kiểm tra trên bình đồ ảnh không vượt quá ±4m (0,4mm tính theo tỷ lệ bản đồ 1:10.000);
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001500
+ b) Sai số tương hỗ về vị trí của địa vật nằm trong vùng độ phủ chung giữa các cảnh ảnh: không vượt quá ±4m đối với những địa vật rõ nét và không vượt quá ±6m đối với địa vật không rõ nét.
 
-**ID:** dk_00046182
+ 7. Khi các cảnh ảnh vệ tinh đầu vào có cả ảnh toàn sắc (ảnh đen trắng) và ảnh đa phổ thì phải thành lập ảnh tổ hợp màu tự nhiên. Để đảm bảo các đối tượng trên bình đồ ảnh tự nhiên có hình ảnh sắc nét, rõ ràng, phải sử dụng sản phẩm bình đồ ảnh toàn sắc làm ảnh khống chế khi tăng dày (mô hình hóa) phục vụ nắn ảnh đa phổ.
 
----
+ 8. Cắt, ghép khung mảnh bình đồ ảnh vệ tinh cần thành lập:
 
+ a) Khi mảnh bình đồ ảnh vệ tinh cần thành lập nằm trên nhiều cảnh ảnh khác nhau phải thực hiện việc ghép ảnh;
 
-### Điều 27.6.TT.5.16. Đo vẽ lập thể trên trạm ảnh số các đối tượng địa lý đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể
+ b) Không được chọn đường ghép ảnh dọc theo các đối tượng địa vật hình tuyến hoặc vùng bị bóng che trên ảnh;
 
-Điều 27.6.TT.5.16. Đo vẽ lập thể trên trạm ảnh số các đối tượng địa lý đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể
+ c) Ảnh được ghép phải đảm bảo không để lộ đường ghép, đảm bảo độ rõ nét, có độ sáng, độ tương phản, hài hòa về mầu sắc và đồng đều với các mảnh bình đồ ảnh xung quanh;
 
-**Chỉ mục:** 16
+ d) Các mảnh bình đồ ảnh vệ tinh được cắt theo danh pháp mảnh bản đồ địa hình tỷ lệ 1/10.000 đảm bảo chờm khung trong của mảnh bản đồ 1cm theo mỗi chiều và được lưu trữ ở định dạng GeoTIF; tên tệp tin mảnh bình đồ ảnh vệ tinh được đặt trùng với tên mảnh bản đồ địa hình cần thành lập.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001600
+ 9. Khung bình đồ ảnh vệ tinh (sử dụng cho điều vẽ ảnh) gồm khung trong và khung ngoài như mảnh bản đồ địa hình cần thành lập, gồm có:
 
-**ID:** dk_00046183
+ a) Khung bình đồ ảnh, tọa độ địa lý, tọa độ vuông góc;
 
----
+ b) Tên và phiên hiệu mảnh bình đồ ảnh vệ tinh;
 
+ c) Tỷ lệ bình đồ ảnh vệ tinh thành lập;
 
-### Điều 27.6.TT.5.17. Thành lập mô hình số địa hình đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể
+ d) Sơ đồ tiếp biên;
 
-Điều 27.6.TT.5.17. Thành lập mô hình số địa hình đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể
+ đ) Thông tin về ảnh vệ tinh (loại ảnh, độ phân giải và thời gian chụp);
 
-**Chỉ mục:** 17
+ e) Tên đơn vị và thời gian thành lập bình đồ ảnh vệ tinh;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001700
+ g) Hệ quy chiếu của bình đồ ảnh vệ tinh;
 
-**ID:** dk_00046184
+ 10. Lưu dữ liệu bình đồ ảnh số:
 
----
+ Mỗi một mảnh bình đồ ảnh số được lưu theo từng thư mục, tên mỗi thư mục là tên phiên hiệu của từng mảnh bản đồ địa hình. Trong mỗi thư mục gồm: tệp tin bình đồ ảnh số định dạng GeoTIFF và tệp tin khung bình đồ ảnh được thành lập tại Khoản 9 Điều này.Điều 27.6.TT.5.19. Véc-tơ hóa các đối tượng địa lý trên bình đồ ảnh vệ tinh
 
+(Điều 19 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-### Điều 27.6.TT.5.18. Thành lập bình đồ ảnh vệ tinh
+ Véc-tơ hóa các đối tượng địa lý trên bình đồ ảnh vệ tinh tuân theo quy định kỹ thuật tại Điểm 4.7 của Quy định kỹ thuật thành lập bản đồ địa hình tỷ lệ 1:10.000; 1:25.000 và 1:50.000 bằng công nghệ ảnh số và Quy định thu nhận dữ liệu nền địa lý tỷ lệ 1:10.000 tại Phụ lục số 2 Thông tư số 21/2014/TT-BTNMT.Điều 27.6.TT.5.20. Điều tra đối tượng địa lý và đo vẽ bổ sung ngoại nghiệp
 
-*Nội dung chưa có sẵn*
+(Điều 20 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**Chỉ mục:** 18
+ 1. Điều tra đối tượng địa lý nội nghiệp từ các tài liệu, dữ liệu đo đạc và bản đồ, tài liệu và dữ liệu chuyên ngành bao gồm các bước sau:
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001800
+ a) Phân tích, đánh giá tài liệu, dữ liệu theo yêu cầu nội dung cập nhật;
 
-**ID:** dk_00046185
+ b) Xây dựng chỉ thị thu nhận dữ liệu địa lý;
 
----
+ c) Trường hợp tư liệu ảnh vệ tinh sử dụng có các kênh ảnh đa phổ thì phải áp dụng các kỹ thuật viễn thám kết hợp với cơ sở dữ liệu nền địa lý đã có để xây dựng các công cụ giải đoán ảnh để nâng cao hiệu quả công tác điều vẽ, giải đoán ảnh nội nghiệp, ví dụ như: xây dựng khóa giải đoán ảnh đối với một số đối tượng lớp phủ bề mặt; tạo kênh ảnh khác biệt chỉ số nước, kênh ảnh khác biệt chỉ số thực vật; các ảnh tổ hợp màu khác (nếu có);
 
+ d) Lập bản chỉ dẫn điều tra ngoại nghiệp.
 
-### Điều 27.6.TT.5.19. Véc-tơ hóa các đối tượng địa lý trên bình đồ ảnh vệ tinh
+ 2. Điều tra đối tượng địa lý ở ngoại nghiệp phải tuân theo Quy định thu nhận dữ liệu nền địa lý tỷ lệ 1:10.000 tại Phụ lục số 2 Thông tư số 21/2014/TT-BTNMT, bao gồm các bước sau:
 
-Điều 27.6.TT.5.19. Véc-tơ hóa các đối tượng địa lý trên bình đồ ảnh vệ tinh
+ a) Kiểm tra, xác minh, bổ sung, chỉnh sửa để làm chính xác hóa kết quả đã chuẩn bị ở nội nghiệp;
 
-**Chỉ mục:** 19
+ b) Điều tra thông tin thuộc tính cho các loại đối tượng địa lý theo quy định thuộc danh mục đối tượng địa lý 1: 10.000.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690001900
+ 3. Đo vẽ chi tiết bổ sung các đối tượng địa lý cho khu vực ảnh cũ, ảnh chất lượng kém do bị mây, bị lóa tuân theo quy định tại Điểm 4.4.7 của Quy định kỹ thuật thành lập bản đồ địa hình tỷ lệ 1:10.000; 1:25.000 và 1:50.000 bằng công nghệ ảnh số.Điều 27.6.TT.5.21. Chuẩn hóa cơ sở dữ liệu nền địa lý cập nhật
 
-**ID:** dk_00046186
+(Điều 21 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
----
+ 1. Chuẩn hóa về không gian cho các đối tượng địa lý thuộc bản trích sao cơ sở dữ liệu nền địa lý, bao gồm: bổ sung đối tượng mới xuất hiện, biên tập lại đối tượng đã thay đổi, xóa bỏ đối tượng không còn tồn tại ở thực địa, chuẩn hóa quan hệ không gian giữa các đối tượng địa lý.
 
+ 2. Chuẩn hóa về thuộc tính của đối tượng địa lý theo các quy định kỹ thuật hiện hành.
 
-### Điều 27.6.TT.5.20. Điều tra đối tượng địa lý và đo vẽ bổ sung ngoại nghiệp
+ 3. Chuẩn hóa về mối quan hệ của đối tượng địa lý theo các quy định kỹ thuật hiện hành.
 
-Điều 27.6.TT.5.20. Điều tra đối tượng địa lý và đo vẽ bổ sung ngoại nghiệp
+ 4. Chuẩn hóa định dạng dữ liệu phục vụ đồng bộ và tích hợp bản trích sao cơ sở dữ liệu nền địa lý cập nhật vào cơ sở dữ liệu nền địa lý gốc tỷ lệ 1:10.000.
 
-**Chỉ mục:** 20
+ 5. Chuẩn hóa siêu dữ liệu (metadata) theo các nội dung đã cập nhật.Điều 27.6.TT.5.22. Đồng bộ bản trích sao cơ sở dữ liệu nền địa lý cập nhật với cơ sở dữ liệu nền địa lý gốc
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690002000
+(Điều 22 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**ID:** dk_00046187
+ Việc đồng bộ bản trích sao cơ sở dữ liệu nền địa lý cập nhật với cơ sở dữ liệu nền địa lý gốc bao gồm các bước chính như sau:
 
----
+ 1. Tiếp biên dữ liệu về không gian và thuộc tính.
 
+ 2. Đồng bộ các đối tượng địa lý về không gian và thuộc tính.
 
-### Điều 27.6.TT.5.21. Chuẩn hóa cơ sở dữ liệu nền địa lý cập nhật
+ 3. Cập nhật quan hệ các đối tượng địa lý trong cùng loại tỷ lệ.
 
-Điều 27.6.TT.5.21. Chuẩn hóa cơ sở dữ liệu nền địa lý cập nhật
+ 4. Cập nhật quan hệ các đối tượng địa lý giữa các loại tỷ lệ.Điều 27.6.TT.5.23. Tích hợp bản trích sao cơ sở dữ liệu nền địa lý cập nhật sau đồng bộ vào cơ sở dữ liệu nền địa lý gốc
 
-**Chỉ mục:** 21
+(Điều 23 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690002100
+ Nội dung tích hợp cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 tuân theo các quy định tại Chương IV Thông tư số 10/2013/TT-BTNMT.Điều 27.6.TT.5.24. Yêu cầu chung
 
-**ID:** dk_00046188
+(Điều 24 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
----
+ Công tác kiểm tra nghiệm thu chất lượng sản phẩm cập nhật cơ sở dữ liệu nền địa lý thực hiện theo Thông tư quy định về kiểm tra, thẩm định và nghiệm thu chất lượng công trình, sản phẩm đo đạc và bản đồ số 63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 của Bộ Tài nguyên và Môi trường.Điều 27.6.TT.5.25. Nội dung kiểm tra nghiệm thu, đóng gói sản phẩm cập nhật cơ sở dữ liệu nền địa lý
 
+(Điều 25 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-### Điều 27.6.TT.5.22. Đồng bộ bản trích sao cơ sở dữ liệu nền địa lý cập nhật với cơ sở dữ liệu nền địa lý gốc
+ 1. Kiểm tra nghiệm thu kết quả đo nối khống chế ảnh ngoại nghiệp: ảnh khống chế; sơ đồ đo nối điểm khống chế ảnh ngoại nghiệp; tài liệu kiểm nghiệm máy, dụng cụ đo đạc; số đo; kết quả tính toán bình sai lưới khống chế ảnh ngoại nghiệp.
 
-Điều 27.6.TT.5.22. Đồng bộ bản trích sao cơ sở dữ liệu nền địa lý cập nhật với cơ sở dữ liệu nền địa lý gốc
+ 2. Kiểm tra nghiệm thu kết quả tính toán bình sai khối tăng dày.
 
-**Chỉ mục:** 22
+ 3. Kiểm tra nghiệm thu sản phẩm mô hình số địa hình.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690002200
+ 4. Kiểm tra nghiệm thu sản phẩm bình đồ ảnh vệ tinh.
 
-**ID:** dk_00046189
+ 5. Kiểm tra nghiệm thu kết quả đo vẽ các đối tượng địa lý: kết quả đo vẽ lập thể và kết quả véc-tơ hóa trên bình đồ ảnh vệ tinh.
 
----
+ 6. Kiểm tra nghiệm thu kết quả điều tra đối tượng địa lý và đo vẽ bổ sung ngoại nghiệp.
 
+ 7. Nội dung kiểm tra nghiệm thu, đóng gói sản phẩm cập nhật cơ sở dữ liệu nền địa lý được thực hiện theo từng hạng mục công việc và khi hoàn thành toàn bộ việc cập nhật cơ sở dữ liệu nền địa lý, gồm các bước chính như sau:
 
-### Điều 27.6.TT.5.23. Tích hợp bản trích sao cơ sở dữ liệu nền địa lý cập nhật sau đồng bộ vào cơ sở dữ liệu nền địa lý gốc
+ a) Kiểm tra nghiệm thu, đóng gói bản trích sao cơ sở dữ liệu nền địa lý cập nhật;
 
-Điều 27.6.TT.5.23. Tích hợp bản trích sao cơ sở dữ liệu nền địa lý cập nhật sau đồng bộ vào cơ sở dữ liệu nền địa lý gốc
+ b) Kiểm tra nghiệm thu việc đồng bộ bản trích sao cơ sở dữ liệu nền địa lý cập nhật với cơ sở dữ liệu nền địa lý gốc theo các quy định kỹ thuật cơ sở dữ liệu nền địa lý ở tỷ lệ tương ứng;
 
-**Chỉ mục:** 23
+ c) Kiểm tra nghiệm thu việc tích hợp vào cơ sở dữ liệu nền địa lý gốc theo quy định kỹ thuật của hệ thống quản lý cơ sở dữ liệu nền địa lý quốc gia.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690002300
+ 8. Việc đóng gói sản phẩm cập nhật cơ sở dữ liệu nền địa lý phải đảm bảo phạm vi dữ liệu đúng theo ranh giới đã được trích sao; định dạng dữ liệu theo định dạng của bản trích sao.Điều 27.6.TT.6.4. Xác định yêu cầu về dữ liệu viễn thám
 
-**ID:** dk_00046190
+(Điều 4 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
----
+ 1. Căn cứ vào yêu cầu về dữ liệu viễn thám của khách hàng, bên đặt chụp ảnh phải chuẩn hóa nội dung các thông tin phục vụ đặt ảnh viễn thám, bao gồm:
 
+ a) Vị trí, phạm vi của khu vực đặt chụp ảnh được dựa trên một trong các trường hợp sau:
 
-### Điều 27.6.TT.5.24. Yêu cầu chung
+ - Hình đa giác với các tọa độ của các đỉnh đa giác. Các cạnh của đa giác không được cắt nhau, số đỉnh tối thiểu là 3 và tối đa là 99;
 
-*Nội dung chưa có sẵn*
+ - Hình chữ nhật với tọa độ góc trên bên trái và góc dưới bên phải;
 
-**Chỉ mục:** 24
+ - Hình tròn với tọa độ tâm và bán kính (độ chính xác đến giây hoặc km). Tọa độ có thể là tọa độ địa lý (độ chính xác đến giây) hoặc tọa độ bản đồ (độ chính xác đến km);
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690002400
+ - Địa danh, địa giới;
 
-**ID:** dk_00046191
+ - Theo các đối tượng hình tuyến, đường bờ (sông, biển);
 
----
+ Trên cơ sở các thông tin trên, bên đặt chụp ảnh phải xây dựng sơ đồ để xác định chính xác vị trí, phạm vi khu vực đặt chụp ảnh.
 
+ b) Thời điểm và tần suất chụp ảnh
 
-### Điều 27.6.TT.5.25. Nội dung kiểm tra nghiệm thu, đóng gói sản phẩm cập nhật cơ sở dữ liệu nền địa lý
+ - Thời điểm xác định theo ngày, tháng, năm hoặc theo mùa;
 
-Điều 27.6.TT.5.25. Nội dung kiểm tra nghiệm thu, đóng gói sản phẩm cập nhật cơ sở dữ liệu nền địa lý
+ - Tần suất chụp một lần hay lặp lại nhiều lần.
 
-**Chỉ mục:** 25
+ c) Thông số kỹ thuật của ảnh
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802567800690002500
+ - Tên loại dữ liệu ảnh (bộ cảm hoặc vệ tinh);
 
-**ID:** dk_00046192
+ - Chế độ chụp ảnh;
 
----
+ - Góc nghiêng chụp ảnh;
 
+ - Độ phủ chờm giữa các ảnh;
 
-### Điều 27.6.TT.6.4. Xác định yêu cầu về dữ liệu viễn thám
+ - Kênh phổ;
 
-Điều 27.6.TT.6.4. Xác định yêu cầu về dữ liệu viễn thám
+ - Độ phân giải mặt đất;
 
-**Chỉ mục:** 4
+ - Số lượng bit để biểu diễn giá trị độ xám của điểm ảnh.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802568000710000400
+ d) Mục đích sử dụng ảnh viễn thám.
 
-**ID:** dk_00046193
+ đ) Độ che phủ mây theo các mức quy định tại Thông tư số 10/2015/TT-BTNMT ngày 25 tháng 03 năm 2015 của Bộ Tài nguyên và Môi trường quy định kỹ thuật về sản xuất ảnh viễn thám quang học độ phân giải cao và siêu cao để cung cấp đến người sử dụng.
 
----
+ e) Hệ tọa độ: hệ tọa độ Quốc gia VN-2000 hoặc hệ tọa độ khác theo nhu cầu của khách hàng.
 
+ 2. Đối với các yêu cầu khẩn cấp, chỉ cần xác định khu vực đặt chụp ảnh dựa trên các thông tin về tọa độ hoặc địa danh, phạm vi của khu vực và thời điểm cần đặt chụp ảnh viễn thám.Điều 27.6.TT.6.5. Xây dựng đơn hàng đặt chụp ảnh viễn thám
 
-### Điều 27.6.TT.6.5. Xây dựng đơn hàng đặt chụp ảnh viễn thám
+(Điều 5 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-Điều 27.6.TT.6.5. Xây dựng đơn hàng đặt chụp ảnh viễn thám
+ Bên đặt chụp ảnh phải thực hiện các công đoạn sau:
 
-**Chỉ mục:** 5
+ 1. Phân loại, sắp xếp các yêu cầu chụp ảnh theo mức độ ưu tiên.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802568000710000500
+ 2. Phân tích, đánh giá sự phù hợp giữa nhu cầu ứng dụng của khách hàng với loại ảnh viễn thám và các thông số tương ứng được yêu cầu. Dựa trên kết quả phân tích, đánh giá, cùng với khách hàng lựa chọn và đặt hàng các loại ảnh viễn thám với các thông số thích hợp nhất.
 
-**ID:** dk_00046194
+ 3. Tính toán xác định kích thước các vùng đặt chụp ảnh. Nếu kích thước các vùng đặt chụp nhỏ hơn kích thước đặt chụp ảnh tối thiểu thì phải thống nhất với khách hàng để chỉnh sửa lại, bảo đảm tất cả các vùng đặt chụp đều có kích thước đạt yêu cầu.
 
----
+ 4. Đánh giá bước đầu tính khả thi của yêu cầu đặt chụp ảnh của khách hàng và phân loại theo 3 mức: cao, trung bình và thấp.
 
+ 5. Ước tính diện tích, số lượng ảnh hoặc dải ảnh cần chụp, khoảng thời gian cần thiết để hoàn thành toàn bộ hoặc từng phần của yêu cầu đặt chụp ảnh.
 
-### Điều 27.6.TT.6.6. Đặt chụp ảnh viễn thám
+ 6. Điều chỉnh yêu cầu đặt chụp ảnh đối với trường hợp nếu khách hàng muốn thay đổi tính khả thi, diện tích, số lượng ảnh hoặc thời gian thi công ước tính.Điều 27.6.TT.6.6. Đặt chụp ảnh viễn thám
 
-*Nội dung chưa có sẵn*
+(Điều 6 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**Chỉ mục:** 6
+ 1. Bên đặt chụp ảnh tổng hợp các yêu cầu đặt chụp ảnh, bao gồm yêu cầu đặt chụp ảnh mới và các đơn hàng đặt chụp ảnh đang tiến hành. Nếu có khu vực yêu cầu đặt chụp trùng nhau về vị trí thì sẽ ưu tiên yêu cầu có đòi hỏi cao hơn về thời gian thực hiện hoặc các thông số kỹ thuật.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802568000710000600
+ 2. Bên đặt chụp ảnh gửi đơn hàng tới cơ quan vận hành vệ tinh.Điều 27.6.TT.6.7. Xác nhận và chính xác hóa nội dung đơn hàng
 
-**ID:** dk_00046195
+(Điều 7 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
----
+ Trên cơ sở đơn hàng đã được xây dựng tại Điều 5 Thông tư này, bên đặt chụp ảnh phối hợp với cơ quan vận hành vệ tinh tiến hành xác nhận và chính xác hóa nội dung của đơn hàng, bao gồm các bước sau:
 
+ 1. Phân tích, đánh giá chi tiết tính khả thi của đơn hàng theo các mức độ như ở Khoản 4 Điều 5 Thông tư này trên cơ sở phân tích, cân đối giữa các yếu tố sau:
 
-### Điều 27.6.TT.6.7. Xác nhận và chính xác hóa nội dung đơn hàng
+ a) Thời điểm, khu vực và các thông số kỹ thuật của yêu cầu đặt chụp ảnh;
 
-Điều 27.6.TT.6.7. Xác nhận và chính xác hóa nội dung đơn hàng
+ b) Các đơn hàng, yêu cầu đặt chụp ảnh khác đang và sẽ được cơ quan vận hành vệ tinh thực hiện;
 
-**Chỉ mục:** 7
+ c) Năng lực chụp ảnh và tài nguyên hiện có của vệ tinh;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802568000710000700
+ d) Số liệu thống kê về điều kiện thời tiết của khu vực cần chụp ảnh viễn thám trong các năm trước;
 
-**ID:** dk_00046196
+ đ) Thông tin dự báo thời tiết tại khu vực đặt chụp ảnh của Trung tâm Khí tượng Thủy văn quốc gia.
 
----
+ 2. Tính toán xác định chính xác diện tích, số lượng ảnh hoặc dải ảnh cần chụp và thời gian, thời điểm thi công các hạng mục của yêu cầu chụp ảnh.
 
+ 3. Điều chỉnh đơn hàng đặt chụp ảnh nếu khách hàng muốn thay đổi tính khả thi, diện tích, số lượng ảnh hoặc thời gian thi công ước tính.
 
-### Điều 27.6.TT.6.8. Theo dõi việc thực hiện đơn hàng đặt chụp ảnh viễn thám
+ 4. Bên đặt chụp ảnh chính thức xác nhận nội dung đơn hàng và thời gian thi công với cơ quan vận hành vệ tinh và khách hàng.Điều 27.6.TT.6.8. Theo dõi việc thực hiện đơn hàng đặt chụp ảnh viễn thám
 
-Điều 27.6.TT.6.8. Theo dõi việc thực hiện đơn hàng đặt chụp ảnh viễn thám
+(Điều 8 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**Chỉ mục:** 8
+ Trong quá trình thi công đơn hàng, bên đặt chụp ảnh phải thường xuyên tiến hành các công việc sau:
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802568000710000800
+ 1. Kiểm tra, đánh giá chất lượng các ảnh đã chụp được thông qua ảnh xem nhanh. Nếu chất lượng ảnh chưa đạt yêu cầu thì phải thông báo cho cơ quan vận hành vệ tinh để tiến hành chụp lại. Nội dung các hạng mục cần kiểm tra được thực hiện theo quy định tại Điều 9 Thông tư này.
 
-**ID:** dk_00046197
+ 2. Theo dõi các thông tin về thời tiết tại các khu vực thi công. Nếu dự báo thời tiết tại các khu vực đặt chụp thuận lợi (bầu trời trong, ít mây), bên đặt chụp ảnh sẽ chủ động yêu cầu cơ quan vận hành vệ tinh đẩy nhanh tiến độ chụp ảnh viễn thám. Trường hợp dự báo thời tiết không thuận lợi, bên đặt chụp ảnh sẽ đề nghị cơ quan vận hành vệ tinh tạm dừng chụp ảnh viễn thám.Điều 27.6.TT.6.9. Kiểm tra chất lượng ảnh viễn thám
 
----
+(Điều 9 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
+ 1. Bên đặt chụp ảnh viễn thám phải thường xuyên kiểm tra, đánh giá chất lượng ảnh viễn thám đã chụp được trong suốt quá trình thực hiện đơn hàng theo đúng các tiêu chuẩn, quy chuẩn kỹ thuật và các quy định hiện hành của Nhà nước. Các nội dung kiểm tra bao gồm:
 
-### Điều 27.6.TT.6.9. Kiểm tra chất lượng ảnh viễn thám
+ a) Vị trí của ảnh viễn thám đã chụp phải trùng với vị trí khu vực đặt chụp trong đơn hàng;
 
-Điều 27.6.TT.6.9. Kiểm tra chất lượng ảnh viễn thám
+ b) Độ che phủ mây của ảnh viễn thám đã chụp phải thấp hơn hoặc bằng độ che phủ mây theo yêu cầu;
 
-**Chỉ mục:** 9
+ c) Ảnh viễn thám đã chụp phải đảm bảo về chất lượng hình ảnh trong quá trình thu nhận và xử lý tín hiệu. Tín hiệu không bị lỗi hay bị đứt đoạn, ảnh có độ tương phản đồng đều, không bị lóa, không quá tối, không có những đốm hoặc vệt đen do các lỗi của hệ thống.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802568000710000900
+ 2. Trường hợp ảnh viễn thám đã chụp chưa đạt yêu cầu, bên đặt chụp ảnh viễn thám sẽ yêu cầu cơ quan vận hành vệ tinh tiến hành chụp lại.Điều 27.6.TT.10.4. Nội dungcơ sở dữ liệu viễn thám quốc gia
 
-**ID:** dk_00046198
-
----
-
-
-### Điều 27.6.TT.10.4. Nội dungcơ sở dữ liệu viễn thám quốc gia
-
-Điều 27.6.TT.10.4. Nội dungcơ sở dữ liệu viễn thám quốc gia
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090000400
-
-**ID:** dk_00046199
-
----
-
-
-### Điều 27.6.TT.10.5. Nguyên tắc chung xây dựng và cập nhật
+(Điều 4 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
 Điều 27.6.TT.10.5. Nguyên tắc chung xây dựng và cập nhật
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090000500
+ 1. Cơ sở dữ liệu viễn thám quốc gia phải phục vụ kịp thời công tác quản lý nhà nước và đáp ứng yêu cầu phát triển kinh tế, xã hội, bảo đảm quốc phòng, an ninh.
 
-**ID:** dk_00046200
+ 2. Cơ sở dữ liệu viễn thám quốc gia phải được xây dựng, cập nhật thuận tiện cho việc vận hành, khai thác sử dụng, công bố siêu dữ liệu viễn thám quốc gia và đảm bảo an toàn dữ liệu.
 
----
+ 3. Các loại dữ liệu ảnh viễn thám, siêu dữ liệu viễn thám được tích hợp vào cơ sở dữ liệu viễn thám quốc gia phải đảm bảo các quy chuẩn, tiêu chuẩn, quy định kỹ thuật hiện hành về dữ liệu và sản phẩm ảnh viễn thám.Điều 27.6.TT.10.6. Bảo đảm an toàn thông tin cho cơ sở dữ liệu viễn thám quốc gia
 
+(Điều 6 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-### Điều 27.6.TT.10.6. Bảo đảm an toàn thông tin cho cơ sở dữ liệu viễn thám quốc gia
+ 1. Cơ sở dữ liệu ảnh viễn thám quốc gia được quản lý, lưu trữ trên hệ thống lưu trữ với dung lượng lớn nhằm đảm bảo nhu cầu truy cập và khai thác trực tuyến.
 
-Điều 27.6.TT.10.6. Bảo đảm an toàn thông tin cho cơ sở dữ liệu viễn thám quốc gia
+ 2. Cơ sở dữ liệu viễn thám quốc gia phải được sao lưu dự phòng đầy đủ theo 03 (ba) phương thức: sao lưu đầy đủ, sao lưu gia tăng và sao lưu khác biệt.
 
-**Chỉ mục:** 6
+ 3. Thực hiện các biện pháp bảo đảm an toàn thông tin cho hệ thống thông tin cơ sở dữ liệu viễn thám quốc gia theo quy định của Luật An toàn thông tin mạng.Điều 27.6.TT.10.7. Nội dung siêu dữ liệu viễn thám quốc gia
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090000600
+(Điều 7 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**ID:** dk_00046201
+ 1. Đối với dữ liệu ảnh thô, sản phẩm ảnh mức 2A, 3A, bao gồm các thông tin:
 
----
+ a)Tên vệ tinh;
 
+ b)Tên bộ cảm;
 
-### Điều 27.6.TT.10.7. Nội dung siêu dữ liệu viễn thám quốc gia
+ c)Tên cảnh ảnh;
 
-Điều 27.6.TT.10.7. Nội dung siêu dữ liệu viễn thám quốc gia
+ d)Chế độ chụp;
 
-**Chỉ mục:** 7
+ đ)Mức xử lý;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090000700
+ e)Ngày chụp;
 
-**ID:** dk_00046202
+ g)Giờ chụp;
 
----
+ h)Độ che phủ mây;
 
+ i)Góc tới;
 
-### Điều 27.6.TT.10.8. Định dạng của tệp tin siêu dữ liệu viễn thám quốc gia
+ k)Cao độ mặt trời;
 
-Điều 27.6.TT.10.8. Định dạng của tệp tin siêu dữ liệu viễn thám quốc gia
+ l)Góc phương vị mặt trời;
 
-**Chỉ mục:** 8
+ m)Độ chính xác hình học (nếu có);
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090000800
+ n)Độ phân giải mặt đất;
 
-**ID:** dk_00046203
+ o)Số lượng bit;
 
----
+ p)Vĩ độ tâm ảnh;
 
+ q)Kinh độ tâm ảnh;
 
-### Điều 27.6.TT.10.9. Thu nhận siêu dữ liệu viễn thám quốc gia
+ r)Vĩ độ góc Tây - Bắc; Kinh độ góc Tây - Bắc;
 
-Điều 27.6.TT.10.9. Thu nhận siêu dữ liệu viễn thám quốc gia
+ s)Vĩ độ góc Đông - Bắc; Kinh độ góc Đông - Bắc;
 
-**Chỉ mục:** 9
+ t) Vĩ độ góc Đông - Nam; Kinh độ góc Đông - Nam;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090000900
+ u)Vĩ độ góc Tây - Nam; Kinh độ góc Tây - Nam;
 
-**ID:** dk_00046204
+ v)Sơ đồ vị trí ảnh;
 
----
+ x)Ảnh xem nhanh;
 
+ y)Cơ quan quản lý dữ liệu viễn thám (tên tổ chức/cá nhân, địa chỉ, điện thoại, thư điện tử).
 
-### Điều 27.6.TT.10.10. Cấu trúc cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia
+ 2. Đối với dữ liệu sản phẩm ảnh mức 3B, bao gồm các thông tin:
 
-Điều 27.6.TT.10.10. Cấu trúc cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia
+ a)Phiên hiệu mảnh;
 
-**Chỉ mục:** 10
+ b)Phương pháp tổ hợp;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001000
+ c)Các kênh phổ sử dụng;
 
-**ID:** dk_00046205
+ d)Tỷ lệ;
 
----
+ đ)Độ phân giải mặt đất (m);
 
+ e)Định dạng ảnh;
 
-### Điều 27.6.TT.10.11. Tạo lập nội dung cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia
+ g)Số lượng bit:
+
+ h)Độ chính xác hình học;
+
+ i)Hệ quy chiếu;
+
+ k)Múi chiếu;
+
+ l)Kinh tuyến trục;
+
+ m)Vĩ độ góc Tây - Bắc; Kinh độ góc Tây - Bắc;
+
+ n)Vĩ độ góc Đông - Bắc; Kinh độ góc Đông - Bắc;
+
+ o)Vĩ độ góc Đông - Nam; Kinh độ góc Đông - Nam;
+
+ p)Vĩ độ góc Tây - Nam; Kinh độ góc Tây - Nam;
+
+ q)Ảnh xem nhanh;
+
+ r)Tên các cảnh ảnh sử dụng/ngày thu nhận;
+
+ s)Cơ quan, tổ chứcsản xuất;
+
+ t)Ngày nghiệm thu;
+
+ u)Cơ quan/tổ chức quản lý dữ liệu viễn thám (tên cơ quan/tổ chức, địa chỉ, điện thoại,thư điện tử).Điều 27.6.TT.10.8. Định dạng của tệp tin siêu dữ liệu viễn thám quốc gia
+
+(Điều 8 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
+
+ Siêu dữ liệu viễn thám dạng số phải được cung cấpcho cơ quan quản lý cơ sở dữ liệu viễn thám quốc gia dưới định dạng của tệp tin *.xls hoặc *.xml.Điều 27.6.TT.10.9. Thu nhận siêu dữ liệu viễn thám quốc gia
+
+(Điều 9 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
+
+ Siêu dữ liệu viễn thám quốc gia sau khi tiếp nhận từ các cơ quan, tổ chức phải được kiểm tra, phân loại theo quy định tại Điều 7Thông tư này.Điều 27.6.TT.10.10. Cấu trúc cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia
+
+(Điều 10 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
+
+Cấu trúc cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia được quy định tại Phụ lục kèm theo của Thông tư này.
+
+PL – So do cau truc CSDL sieu du lieu vien tham QG – CSDL anh vien tham quoc gia.doc
 
 Điều 27.6.TT.10.11. Tạo lập nội dung cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001100
+ Tạo lập nội dung cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia bao gồm các bước sau:
 
-**ID:** dk_00046206
+ Bước 1:Chuyển đổi dữ liệu vào cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia từ tệp tin định dạng *.xls hoặc *.xml.
 
----
+ Bước 2:Nhập dữ liệu vào cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia. Điều 27.6.TT.10.12. Kiểm tra
 
+(Điều 12 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-### Điều 27.6.TT.10.12. Kiểm tra
+ Siêu dữ liệu viễn thám quốc gia sau khi nhập vào cơ sở dữ liệu phải được kiểm tra nhằmđảm bảo tính đầy đủ,thống nhất và chính xác.Điều 27.6.TT.10.13. Định dạng dữ liệu giao nộp về cơ sở dữ liệu ảnh viễn thám quốc gia
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001200
-
-**ID:** dk_00046207
-
----
-
-
-### Điều 27.6.TT.10.13. Định dạng dữ liệu giao nộp về cơ sở dữ liệu ảnh viễn thám quốc gia
-
-Điều 27.6.TT.10.13. Định dạng dữ liệu giao nộp về cơ sở dữ liệu ảnh viễn thám quốc gia
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001300
-
-**ID:** dk_00046208
-
----
-
-
-### Điều 27.6.TT.10.14. Định dạng dữ liệu trong cơ sở dữ liệu ảnh viễn thám quốc gia
+(Điều 13 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
 Điều 27.6.TT.10.14. Định dạng dữ liệu trong cơ sở dữ liệu ảnh viễn thám quốc gia
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001400
-
-**ID:** dk_00046209
-
----
-
-
-### Điều 27.6.TT.10.15. Thu nhậndữ liệu ảnh viễn thám quốc gia
+(Điều 14 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
 Điều 27.6.TT.10.15. Thu nhậndữ liệu ảnh viễn thám quốc gia
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001500
+ Dữ liệu ảnh viễn thám quốc gia sau khi được giao nộp bởi các cơ quan, tổ chức phải được kiểm tra, đánh giá và phân loại trước khi tích hợp vào cơ sở dữ liệu ảnh viễn thám quốc gia.Điều 27.6.TT.10.16. Cấu trúc cơ sở dữ liệu ảnh viễn thám quốc gia
 
-**ID:** dk_00046210
+(Điều 16 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
----
+Cấu trúc cơ sở dữ liệu ảnh viễn thám quốc gia được quy định tại Phụ lục kèm theo của Thông tư này.
 
-
-### Điều 27.6.TT.10.16. Cấu trúc cơ sở dữ liệu ảnh viễn thám quốc gia
-
-Điều 27.6.TT.10.16. Cấu trúc cơ sở dữ liệu ảnh viễn thám quốc gia
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001600
-
-**ID:** dk_00046211
-
----
-
-
-### Điều 27.6.TT.10.17. Tạo lập nội dung cơ sở dữ liệu ảnh viễn thám quốc gia
+PL – So do cau truc CSDL sieu du lieu vien tham QG – CSDL anh vien tham quoc gia.doc
 
 Điều 27.6.TT.10.17. Tạo lập nội dung cơ sở dữ liệu ảnh viễn thám quốc gia
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001700
+ Các tệp dữ liệu ảnh viễn thám sau khi kiểm tra, phân loại phải được chuyển thành nội dung cơ sở dữ liệu ảnh viễn thám quốc gia theo cấu trúc quy định tại Điều 16 của Thông tư này.Điều 27.6.TT.10.18. Kiểm tra
 
-**ID:** dk_00046212
+(Điều 18 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
----
+ Dữ liệu ảnh viễn thám quốc gia sau khi nhập vào cơ sở dữ liệu phải được kiểm tra nhằm đảm bảo tính đầy đủ, thống nhất và chính xác.Điều 27.6.TT.10.19. Cập nhật siêu dữ liệu viễn thám quốc gia
 
-
-### Điều 27.6.TT.10.18. Kiểm tra
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001800
-
-**ID:** dk_00046213
-
----
-
-
-### Điều 27.6.TT.10.19. Cập nhật siêu dữ liệu viễn thám quốc gia
-
-Điều 27.6.TT.10.19. Cập nhật siêu dữ liệu viễn thám quốc gia
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090001900
-
-**ID:** dk_00046214
-
----
-
-
-### Điều 27.6.TT.10.20. Cập nhật dữ liệu ảnh viễn thám quốc gia
+(Điều 19 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
 Điều 27.6.TT.10.20. Cập nhật dữ liệu ảnh viễn thám quốc gia
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090002000
+ 1. Sau khi thu nhận được dữ liệu ảnh viễn thám quốc gia, cơ quan quản lý cơ sở dữ liệu viễn thám quốc gia phải tiến hành cập nhật siêu dữ liệu chậm nhất 01 (một) tháng.
 
-**ID:** dk_00046215
+ 2. Việc cập nhật được thực hiện theo quy định tại Điều 15, Điều 16, Điều 17 và Điều 18 của Thông tư này.Điều 27.6.TT.10.21. Trách nhiệm của Bộ Tài nguyên và Môi trường và cơ quan quản lý cơ sở dữ liệu viễn thám thuộc Bộ Tài nguyên và Môi trường
 
----
+(Điều 21 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
+ a)Thực hiện các hoạt động tiếp nhậncác nguồn dữ liệu ảnh viễn thám, siêu dữ liệu viễn thám và tích hợp vào cơ sở dữ liệu viễn thám quốc gia.
 
-### Điều 27.6.TT.10.21. Trách nhiệm của Bộ Tài nguyên và Môi trường và cơ quan quản lý cơ sở dữ liệu viễn thám thuộc Bộ Tài nguyên và Môi trường
+ b)Cập nhật nội dung cơ sở dữ liệu viễn thám quốc gia.
 
-Điều 27.6.TT.10.21. Trách nhiệm của Bộ Tài nguyên và Môi trường và cơ quan quản lý cơ sở dữ liệu viễn thám thuộc Bộ Tài nguyên và Môi trường
+ c)Định kỳ bảo trì, bảo hành và nâng cấp hạ tầng kỹ thuật công nghệ thông tin của cơ sở dữ liệu viễn thám quốc gia.
 
-**Chỉ mục:** 21
+ d)Thực hiện các giải pháp về an ninh, an toàn và bảo mậtdữ liệu.Điều 27.6.TT.10.22. Trách nhiệm của Bộ, ngành và địa phương
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090002100
+(Điều 22 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**ID:** dk_00046216
+ Các Bộ, ngành và địa phương có trách nhiệm giao nộp siêu dữ liệu viễn thám theo đúng nội dung và định dạng được quy định tại Thông tư này để tích hợp vào cơ sở dữ liệu viễn thám quốc gia.Điều 27.6.TT.12.4. Cơ sở toán học
 
----
+(Điều 4 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
+ 1. Bản đồ nhiệt độ bề mặt nước biển và bản đồ hàm lượng diệp lục bề mặt nước biển tỷ lệ 1:500.000, 1:1.000.000 được thành lập ở Hệ quy chiếu và Hệ tọa độ địa hình quốc gia dùng để xây dựng bản đồ nền theo quy định tại Quyết định số 83/2000/QĐ-TTg ngày 12 tháng 7 năm 2000 của Thủ tướng Chính phủ về sử dụng Hệ quy chiếu và Hệ tọa độ quốc gia Việt Nam.
 
-### Điều 27.6.TT.10.22. Trách nhiệm của Bộ, ngành và địa phương
+ 2. Hệ quy chiếu và Hệ tọa độ của bản đồ chuyên đề theo quy định tại Thông tư số 10/2017/TT-BTNMT ngày 06 tháng 6 năm 2017 của Bộ Tài nguyên và Môi trường quy định quy trình thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000 (sau đây gọi là Thông tư số 10/2017/TT-BTNMT).Điều 27.6.TT.12.5. Hình thức thể hiện bản đồ chuyên đề
 
-Điều 27.6.TT.10.22. Trách nhiệm của Bộ, ngành và địa phương
+(Điều 5 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Chỉ mục:** 22
+ 1. Tên bản đồ chuyên đề gồm: tên chuyên đề, tên vùng thành lập bản đồ và số thứ tự mảnh (nếu bản đồ gồm nhiều mảnh).
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802621000090002200
+ 2. Tỷ lệ của bản đồ chuyên đề được xác định căn cứ vào diện tích, hình dáng, kích thước và mức độ chi tiết của phạm vi vùng thành lập bản đồ.
 
-**ID:** dk_00046217
+ 3. Bản đồ chuyên đề gồm nhiều mảnh thì thể hiện sơ đồ ghép mảnh ở góc phía trên bên phải của khung bản đồ.
 
----
+ 4. Bản đồ chuyên đề thể hiện cả 2 hệ thống lưới kinh - vĩ tuyến và lưới ki-lô-mét. Lưới kinh - vĩ tuyến trên bản đồ thể hiện bằng các đường kinh - vĩ tuyến với mật độ 1°. Lưới ki-lô-mét trên bản đồ thể hiện bằng các mắt lưới với mật độ cách nhau 10cm tính theo tỷ lệ bản đồ.
 
+ 5. Bảng chú giải của bản đồ đặt ở phía bên phải của khung bản đồ, trong trường hợp có thể bố trí được ở bên trong khung thì đặt bảng chú giải vào vị trí thích hợp.
 
-### Điều 27.6.TT.12.4. Cơ sở toán học
+ 6. Các vùng nhiệt độ được thể hiện trên bản đồ chuyên đề theo thang màu cam. Các đường đẳng nhiệt và ghi chú giá trị được thể hiện trên bản đồ bằng màu đen.
 
-*Nội dung chưa có sẵn*
+ 7. Các vùng hàm lượng diệp lục bề mặt nước biển được thể hiện trên bản đồ chuyên đề theo thang màu xanh lục. Các đường bao vùng hàm lượng diệp lục và ghi chú giá trị được thể hiện trên bản đồ bằng màu đen.Điều 27.6.TT.12.6. Kỹ thuật thể hiện bản đồ chuyên đề
 
-**Chỉ mục:** 4
+(Điều 6 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130000400
+ 1. Các nội dung chuyên đề về nhiệt độ hoặc hàm lượng diệp lục bề mặt nước biển thể hiện trên bản đồ được tính toán và chiết xuất từ dữ liệu viễn thám quang học độ phân giải thấp theo mô hình cùng các tham số của mô hình.
 
-**ID:** dk_00046218
+ 2. Thể hiện trên bản đồ các đối tượng dạng có diện tích ≥ 4mm2 và các đối tượng dạng đường có độ dài ≥ 2cm.Điều 27.6.TT.12.7. Các yếu tố nội dung bản đồ nền
 
----
+(Điều 7 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
+ 1. Bản đồ nền được thành lập theo quy định tại Điều 9 của Thông tư số 10/2017/TT-BTNMT.
 
-### Điều 27.6.TT.12.5. Hình thức thể hiện bản đồ chuyên đề
+ 2. Các nhóm lớp dữ liệu bản đồ nền:
 
-Điều 27.6.TT.12.5. Hình thức thể hiện bản đồ chuyên đề
+ a) Nhóm lớp cơ sở toán học bao gồm các yếu tố: tên bản đồ, trình bày khung bản đồ, lưới ki-lô-mét, lưới tọa độ địa lý, ghi chú về hệ tọa độ, lưới chiếu, kinh tuyến trục, tỷ lệ bản đồ, phương pháp thành lập, chú giải và các đối tượng liên quan khác;
 
-**Chỉ mục:** 5
+ b) Nhóm lớp thủy hệ bao gồm các loại đối tượng thủy văn cơ bản để làm căn cứ để biểu thị vị trí, hình dạng, kích thước các nội dung chuyên đề: đường bờ biển, rạn san hô, sông ngòi, đê biển;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130000500
+ c) Nhóm lớp giao thông bao gồm các loại đối tượng: đường sắt, đường cao tốc, đường quốc lộ, các tuyến giao thông thủy, bến cảng;
 
-**ID:** dk_00046219
+ d) Nhóm lớp dân cư bao gồm các điểm dân cư mang tính định hướng: trụ sở Ủy ban nhân dân, các địa vật độc lập quan trọng và các công trình kinh tế, văn hóa - xã hội có tính định hướng;
 
----
+ đ) Nhóm lớp địa hình bao gồm các đường đẳng sâu, điểm độ sâu được thể hiện đầy đủ như bản đồ địa hình cùng tỷ lệ. Đối với phần địa hình ven bờ (nếu có) cần phải được tiếp biên đầy đủ;
 
+ e) Nhóm lớp địa giới hành chính được biểu thị đến cấp tỉnh đối với khu vực đất liền, thể hiện đến cấp xã đối với khu vực các đảo;
 
-### Điều 27.6.TT.12.6. Kỹ thuật thể hiện bản đồ chuyên đề
+ g) Ghi chú địa danh và các ghi chú thuyết minh.
 
-Điều 27.6.TT.12.6. Kỹ thuật thể hiện bản đồ chuyên đề
+ 3. Các địa danh biển, hải đảo và địa giới hành chính phải được cập nhật theo tài liệu mới nhất do Bộ Tài nguyên và Môi trường ban hành.Điều 27.6.TT.12.8. Các yếu tố nội dung của lớp dữ liệu chuyên đề về nhiệt độ bề mặt nước biển
 
-**Chỉ mục:** 6
+(Điều 8 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130000600
+ 1. Vùng không có dữ liệu.
 
-**ID:** dk_00046220
+ 2. Đối với nhiệt độ bề mặt nước biển phân vùng với khoảng giá trị nhỏ nhất là 0,5°C.
 
----
+ 3. Đường đẳng nhiệt.
 
+ 4. Ghi chú giá trị các đường đẳng nhiệt.Điều 27.6.TT.12.9. Các yếu tố nội dung của lớp dữ liệu chuyên đề về hàm lượng diệp lục bề mặt nước biển
 
-### Điều 27.6.TT.12.7. Các yếu tố nội dung bản đồ nền
+(Điều 9 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-*Nội dung chưa có sẵn*
+ 1. Vùng không có dữ liệu.
 
-**Chỉ mục:** 7
+ 2. Đối với hàm lượng diệp lục bề mặt nước biển phân vùng với khoảng giá trị nhỏ nhất là 0,1mg/m3.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130000700
+ 3. Đường bao các vùng hàm lượng diệp lục.
 
-**ID:** dk_00046221
+ 4. Ghi chú giá trị các đường phân vùng hàm lượng diệp lục.Điều 27.6.TT.12.10. Công tác chuẩn bị
 
----
+(Điều 10 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
+ 1. Công tác chuẩn bị thực hiện theo quy định tại Điều 6 của Thông tư số 10/2017/TT-BTNMT.
 
-### Điều 27.6.TT.12.8. Các yếu tố nội dung của lớp dữ liệu chuyên đề về nhiệt độ bề mặt nước biển
+ 2. Thu thập, phân tích đánh giá các tài liệu gồm: Ảnh viễn thám, bản đồ, các số liệu thống kê, các thông tin có liên quan đến chuyên đề bản đồ cần thành lập.
 
-Điều 27.6.TT.12.8. Các yếu tố nội dung của lớp dữ liệu chuyên đề về nhiệt độ bề mặt nước biển
+ 3. Thu thập số liệu đo đạc trực tiếp nhiệt độ bề mặt nước biển (nếu có), hàm lượng chất diệp lục tại thực địa (nếu có).
 
-**Chỉ mục:** 8
+ 4. Xác định loại dữ liệu viễn thám và chu kỳ thu nhận để phục vụ thành lập bản đồ chuyên đề.Điều 27.6.TT.12.11. Biên tập khoa học
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130000800
+(Điều 11 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**ID:** dk_00046222
+ 1. Biên tập khoa học thực hiện theo quy định tại Điều 7 của Thông tư số 10/2017/TT-BTNMT.
 
----
+ 2. Xác định tên, tỷ lệ, chia mảnh bản đồ (số thứ tự mảnh được đánh số bằng chữ số La Mã lần lượt từ trái sang phải, từ trên xuống dưới); thể hiện khung, lưới kinh - vĩ tuyến và các trình bày ngoài khung bản đồ.
 
+ 3. Xác định các chỉ tiêu thể hiện nội dung, bố cục nội dung, định dạng bản đồ sản phẩm.
 
-### Điều 27.6.TT.12.9. Các yếu tố nội dung của lớp dữ liệu chuyên đề về hàm lượng diệp lục bề mặt nước biển
+ 4. Xác định giai đoạn thành lập bản đồ, tính toán số chu kỳ và thời điểm bắt đầu, kết thúc của các chu kỳ.
 
-Điều 27.6.TT.12.9. Các yếu tố nội dung của lớp dữ liệu chuyên đề về hàm lượng diệp lục bề mặt nước biển
+ 5. Viết kế hoạch biên tập chi tiết.
 
-**Chỉ mục:** 9
+ 6. Thiết kế, tạo lập thư viện ký hiệu.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130000900
+ 7. Tổ chức thư mục lưu trữ dữ liệu.Điều 27.6.TT.12.12. Biên tập bản đồ nền
 
-**ID:** dk_00046223
+(Điều 12 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
----
+ 1. Quét, nắn trong trường hợp bản đồ tài liệu dùng để xây dựng bản đồ nền ở dạng bản đồ giấy.
 
+ 2. Nắn chuyển hệ tọa độ nếu cần.
 
-### Điều 27.6.TT.12.10. Công tác chuẩn bị
+ 3. Ghép dữ liệu và cắt dữ liệu theo phạm vi thành lập bản đồ chuyên đề.
 
-*Nội dung chưa có sẵn*
+ 4. Biên tập, tổng quát hóa và chọn lọc đối tượng theo kế hoạch biên tập chi tiết.Điều 27.6.TT.12.13. Thu nhận, xử lý dữ liệu viễn thám
 
-**Chỉ mục:** 10
+(Điều 13 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001000
+ 1. Thu nhận dữ liệu viễn thám theo các chu kỳ trong giai đoạn thành lập bản đồ bao gồm: các dữ liệu ảnh viễn thám và dữ liệu bổ trợ.
 
-**ID:** dk_00046224
+ 2. Các bước xử lý dữ liệu viễn thám
 
----
+ a) Chuyển đổi hệ quy chiếu của dữ liệu viễn thám;
 
+ b) Loại bỏ tất cả các điểm ảnh được nhận dạng là mây, không có giá trị hoặc đất liền;
 
-### Điều 27.6.TT.12.11. Biên tập khoa học
+ c) Định chuẩn ảnh: tính chuyển giá trị độ xám của ảnh sang giá trị phản xạ phổ tại đỉnh khí quyển;
 
-*Nội dung chưa có sẵn*
+ d) Hiệu chỉnh nhiễu đa tán xạ do sol khí;
 
-**Chỉ mục:** 11
+ đ) Hiệu chỉnh bức xạ bị hấp thụ của sol khí;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001100
+ e) Hiệu chỉnh phân bổ năng suất phản xạ hai chiều;
 
-**ID:** dk_00046225
+ g) Hiệu chỉnh hiệu ứng lóa của ánh sáng mặt trời.
 
----
+ 3. Độ chính xác vị trí của ảnh sau khi xử lý không vượt quá một (01) điểm ảnh.Điều 27.6.TT.12.14. Chiết xuất nội dung chuyên đề nhiệt độ bề mặt nước biển
 
+(Điều 14 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-### Điều 27.6.TT.12.12. Biên tập bản đồ nền
+ 1. Lựa chọn mô hình cùng các tham số của mô hình: xác định trên cơ sở loại ảnh viễn thám được sử dụng.
 
-*Nội dung chưa có sẵn*
+ 2. Lựa chọn kênh ảnh: Các kênh ảnh được lựa chọn để tính giá trị nhiệt độ nằm trong dải sóng nhiệt từ 11- 14µm.
 
-**Chỉ mục:** 12
+ 3. Tính toán giá trị nhiệt độ bề mặt nước biển tại thời điểm chụp ảnh dựa trên mô hình và các kênh ảnh đã được lựa chọn.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001200
+ 4. Tạo ảnh nhiệt độ bề mặt nước biển theo chu kỳ
 
-**ID:** dk_00046226
+ Tùy theo yêu cầu của bản đồ cần thành lập để lựa chọn các bước sau:
 
----
+ a) Tạo ảnh theo ngày;
 
+ b) Tạo ảnh theo tuần (tổ hợp các ảnh của bảy ngày trong một tuần). Ảnh nhiệt độ bề mặt nước biển theo tuần được tính là giá trị trung bình của các ảnh trong tuần;
 
-### Điều 27.6.TT.12.13. Thu nhận, xử lý dữ liệu viễn thám
+ c) Tạo ảnh theo tháng (tổ hợp các ảnh của các ngày trong một tháng). Ảnh nhiệt độ bề mặt nước biển theo tháng được tính là giá trị trung bình của các ảnh trong tháng;
 
-Điều 27.6.TT.12.13. Thu nhận, xử lý dữ liệu viễn thám
+ d) Tạo ảnh theo quý (tổ hợp các ảnh của các ngày/tháng trong một quý). Ảnh nhiệt độ bề mặt nước biển theo quý được tính là giá trị trung bình của các ngày hoặc các tháng trong quý;
 
-**Chỉ mục:** 13
+ đ) Tạo ảnh theo năm (tổ hợp các ảnh của các ngày/tháng/quý trong một năm). Ảnh nhiệt độ bề mặt nước biển theo năm được tính là giá trị trung bình của các ngày, các tháng hoặc các quý trong năm;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001300
+ e) Tạo ảnh theo một giai đoạn (tổ hợp các ảnh của các ngày trong giai đoạn). Ảnh nhiệt độ bề mặt nước biển theo giai đoạn được tính là giá trị trung bình của các ảnh trong giai đoạn.
 
-**ID:** dk_00046227
+ 5. Nội suy đường đẳng nhiệt và phân vùng ảnh nhiệt
 
----
+ a) Nội suy đường đẳng nhiệt từ tập giá trị điểm ảnh của ảnh nhiệt độ bề mặt nước biển theo chu kỳ;
 
+ b) Phân vùng ảnh nhiệt với khoảng phân vùng nhỏ nhất là 0,5°C;
 
-### Điều 27.6.TT.12.14. Chiết xuất nội dung chuyên đề nhiệt độ bề mặt nước biển
+ c) Chuyển đổi vùng phân chia nhiệt độ từ dạng ảnh (raster) sang dạng véc-tơ (vecto).Điều 27.6.TT.12.15. Chiết xuất nội dung chuyên đề hàm lượng diệp lục bề mặt nước biển
 
-Điều 27.6.TT.12.14. Chiết xuất nội dung chuyên đề nhiệt độ bề mặt nước biển
+(Điều 15 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Chỉ mục:** 14
+ 1. Lựa chọn mô hình và thuật toán: xác định trên cơ sở loại ảnh viễn thám được sử dụng.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001400
+ 2. Lựa chọn kênh ảnh: Các kênh ảnh được lựa chọn để tính giá trị hàm lượng diệp lục bề mặt nước biển nằm trong dải sóng từ 443 - 565nm.
 
-**ID:** dk_00046228
+ 3. Tính toán giá trị hàm lượng diệp lục bề mặt nước biển tại thời điểm chụp ảnh dựa trên mô hình, kênh ảnh và thuật toán đã chọn.
 
----
+ 4. Tạo ảnh hàm lượng diệp lục bề mặt nước biển theo chu kỳ
 
+ Tùy theo yêu cầu của bản đồ cần thành lập để lựa chọn các bước sau:
 
-### Điều 27.6.TT.12.15. Chiết xuất nội dung chuyên đề hàm lượng diệp lục bề mặt nước biển
+ a) Tạo ảnh theo ngày;
 
-Điều 27.6.TT.12.15. Chiết xuất nội dung chuyên đề hàm lượng diệp lục bề mặt nước biển
+ b) Tạo ảnh theo tuần (tổ hợp các ảnh của bảy ngày trong một tuần). Ảnh hàm lượng diệp lục bề mặt nước biển theo tuần được tính là giá trị trung bình của các ảnh trong tuần;
 
-**Chỉ mục:** 15
+ c) Tạo ảnh theo tháng (tổ hợp các ảnh của các ngày trong một tháng). Ảnh hàm lượng diệp lục bề mặt nước biển theo tháng được tính là giá trị trung bình của các ảnh trong tháng;
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001500
+ d) Tạo ảnh theo quý (tổ hợp các ảnh của các ngày/tháng trong một quý). Ảnh hàm lượng diệp lục bề mặt nước biển theo quý được tính là giá trị trung bình của các ngày hoặc các tháng trong quý;
 
-**ID:** dk_00046229
+ đ) Tạo ảnh theo năm (tổ hợp các ảnh của các ngày/tháng/quý trong một năm). Ảnh hàm lượng diệp lục bề mặt nước biển theo năm được tính là giá trị trung bình của các ngày, các tháng hoặc các quý trong năm;
 
----
+ e) Tạo ảnh theo một giai đoạn (tổ hợp các ảnh của các ngày trong giai đoạn). Ảnh hàm lượng diệp lục bề mặt nước biển theo giai đoạn được tính là giá trị trung bình của các ảnh trong giai đoạn.
 
+ 5. Phân vùng ảnh hàm lượng diệp lục
 
-### Điều 27.6.TT.12.16. Chuẩn hóa dữ liệu dẫn xuất, tích hợp, phân tích, xử lý tổng hợp dữ liệu và biên tập, trình bày bản đồ chuyên đề
+ a) Tính toán giá trị hàm lượng diệp lục bề mặt nước biển và chia thành các vùng có giá trị với khoảng chia nhỏ nhất là 0,1mg/m3;
 
-Điều 27.6.TT.12.16. Chuẩn hóa dữ liệu dẫn xuất, tích hợp, phân tích, xử lý tổng hợp dữ liệu và biên tập, trình bày bản đồ chuyên đề
+ b) Chuyển đổi vùng chia hàm lượng diệp lục từ dạng ảnh (raster) sang dạng véc-tơ (vecto).Điều 27.6.TT.12.16. Chuẩn hóa dữ liệu dẫn xuất, tích hợp, phân tích, xử lý tổng hợp dữ liệu và biên tập, trình bày bản đồ chuyên đề
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001600
+ 1. Chuẩn hóa dữ liệu dẫn xuất, tích hợp, phân tích, xử lý tổng hợp dữ liệu và biên tập, trình bày bản đồ chuyên đề thực hiện theo các Điều 13, 14, 15 của Thông tư số 10/2017/TT-BTNMT.
 
-**ID:** dk_00046230
+ 2. Nội dung xây dựng kế hoạch biên tập chi tiết
 
----
+ a) Xây dựng hướng dẫn biên tập gồm các nội dung: xác định chỉ tiêu thể hiện và yêu cầu về mức độ đầy đủ của các yếu tố nội dung, phương pháp thể hiện, quy định về phân lớp các yếu tố nội dung, kiểu, màu sắc, kích thước ký hiệu, các yêu cầu về độ chính xác;
 
+ b) Tạo lập thư viện ký hiệu trên máy tính và lập các mẫu tác giả, mẫu ký hiệu, mẫu bảng chú giải trong phần mềm dùng để biên tập bản gốc tác giả;
 
-### Điều 27.6.TT.12.17. Xây dựng báo cáo thuyết minh bản đồ chuyên đề
+ c) Thiết kế thang màu phân tầng nhiệt độ và hàm lượng diệp lục bề mặt nước biển;
 
-Điều 27.6.TT.12.17. Xây dựng báo cáo thuyết minh bản đồ chuyên đề
+ d) Xác định công nghệ thành lập bản đồ và phương án đưa lên mạng Internet.
 
-**Chỉ mục:** 17
+ 3. Nội dung biên tập bản gốc tác giả dạng số
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001700
+ a) Biên tập các yếu tố nền địa lý: biên tập, tổng quát hóa và chọn lọc đối tượng phù hợp với các nội dung về nhiệt độ bề mặt nước biển và nội dung về hàm lượng diệp lục bề mặt nước biển theo kế hoạch biên tập chi tiết;
 
-**ID:** dk_00046231
+ b) Biên tập các yếu tố nội dung theo chuyên đề: chỉnh hợp các yếu tố chuyên đề trên bản đồ nền để đảm bảo tương quan vị trí địa lý giữa các yếu tố chuyên đề và yếu tố nền; biểu thị các yếu tố chuyên đề bằng hệ thống các ký hiệu đã thiết kế trong kế hoạch biên tập chi tiết.
 
----
+ 4. Nội dung xây dựng lý lịch bản đồ chuyên đề
 
+ a) Mỗi một bản đồ chuyên đề đều phải có một tệp tin về lý lịch kèm theo;
 
-### Điều 27.6.TT.12.18. Kiểm tra nghiệm thu sản phẩm
+ b) Tệp tin lý lịch của bản đồ chuyên đề phải bao gồm các thông tin sau: Tên cơ quan, cá nhân thành lập bản đồ; Thời gian, phương pháp, phạm vi thành lập bản đồ; Cơ sở toán học của bản đồ: hệ tọa độ, lưới chiếu, kinh tuyến trung ương, tỷ lệ bản đồ; Nguồn dữ liệu được sử dụng để thành lập bản đồ; Các vấn đề kỹ thuật phát sinh trong quá trình thành lập bản đồ và phương án xử lý; Cơ quan kiểm tra, nghiệm thu bản đồ;
 
-*Nội dung chưa có sẵn*
+ c) Tệp tin lý lịch của bản đồ chuyên đề được lưu dưới dạng *.doc hoặc *.txt.
 
-**Chỉ mục:** 18
+ 5. Đối với bản đồ chuyên đề in trên giấy: công việc biên tập phục vụ in bản đồ phải tuân thủ các nguyên tắc chung về biên tập bản đồ chuyên đề in trên giấy và theo đúng quy định trong thiết kế kỹ thuật - dự toán của bản đồ chuyên đề.
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001800
+ 6. Các bước thực hiện đối với bản đồ chuyên đề dạng điện tử trên CD-ROM và trên mạng Internet
 
-**ID:** dk_00046232
+ a) Thiết kế giao diện;
 
----
+ b) Xác định và lập trình các công cụ tương tác trên bản đồ;
 
+ c) Lập trình hiển thị bản đồ tác giả dạng số đã biên tập và liên kết các thành phần bản đồ;
 
-### Điều 27.6.TT.12.19. Giao nộp và lưu trữ sản phẩm
+ d) Đóng gói CD-ROM hoặc phát hành bản đồ lên mạng Internet.Điều 27.6.TT.12.17. Xây dựng báo cáo thuyết minh bản đồ chuyên đề
 
-*Nội dung chưa có sẵn*
+(Điều 17 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Chỉ mục:** 19
+ Công tác xây dựng báo cáo thuyết minh của bản đồ nhiệt độ bề mặt nước biển và bản đồ hàm lượng diệp lục bề mặt nước biển được thực hiện theo các nội dung quy định tại Điều 16 của Thông tư số 10/2017/TT-BTNMT.Điều 27.6.TT.12.18. Kiểm tra nghiệm thu sản phẩm
 
-**Mã phân cấp:** 270060000000000055000020000000000000000000802670900130001900
+(Điều 18 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**ID:** dk_00046233
+ 1. Cơ sở để kiểm tra là Thiết kế kỹ thuật - dự toán thành lập bản đồ chuyên đề đã được cấp có thẩm quyền phê duyệt.
 
----
+ 2. Các công đoạn kiểm tra, nghiệm thu sản phẩm
 
+ a) Kiểm tra, nghiệm thu cấp đơn vị thi công;
 
-### Điều 27.6.TT.1.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề tỷ lệ 1:25.000, 1:50.000, 1:100.000, 1:250.000 bằng tư liệu ảnh vệ tinh.
+ b) Kiểm tra, nghiệm thu cấp chủ đầu tư;
+
+ c) Thẩm định, nghiệm thu hồ sơ chất lượng, khối lượng sản phẩm.
+
+ 3. Các nội dung kiểm tra
+
+ a) Độ chính xác và mức độ đầy đủ của các yếu tố cơ sở toán học, các yếu tố nền địa lý, các yếu tố chuyên môn theo thiết kế kỹ thuật - dự toán và mức độ đúng, đủ và sự phù hợp tương quan địa lý giữa các yếu tố chuyên đề với các yếu tố địa lý;
+
+ b) Mức độ đúng, đủ và sự phù hợp của bảng chú giải;
+
+ c) Mức độ đúng, đủ của việc phân loại, phân lớp các đối tượng là các yếu tố nội dung bản đồ trên các tệp tin bản đồ;
+
+ d) Tính đúng và đầy đủ trong việc biểu thị các yếu tố nội dung bản đồ bằng hệ thống ký hiệu đã thiết kế;
+
+ đ) Tính hợp lý về trình bày bố cục của bản đồ chuyên đề.
+
+ 4. Các loại sản phẩm cần kiểm tra
+
+ a) Bản đồ giấy: kiểm tra trên bản in phun;
+
+ b) Bản đồ dạng số: kiểm tra các tệp tin bản đồ trên máy tính;
+
+ c) Các loại dữ liệu ảnh viễn thám, bản đồ trên CD-ROM và trên Internet phải kiểm tra trên máy tính. Bản đồ trên Internet phải kiểm tra trực tiếp trong môi trường Internet để kiểm nghiệm đường dẫn, tốc độ đường truyền.Điều 27.6.TT.12.19. Giao nộp và lưu trữ sản phẩm
+
+(Điều 19 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
+
+ 1. Sản phẩm giao nộp
+
+ a) Sản phẩm giao nộp là sản phẩm đã được kiểm tra kỹ thuật và đã được nghiệm thu ở các cấp theo quy định của Bộ Tài nguyên và Môi trường;
+
+ b) Các loại dữ liệu được sử dụng để thành lập bản đồ chuyên đề: Dữ liệu gốc dùng để thành lập bản đồ nền, dữ liệu viễn thám được sử dụng để thành lập bản đồ, ảnh nhiệt độ bề mặt nước biển, ảnh hàm lượng chất diệp lục bề mặt nước biển;
+
+ c) Bản đồ chuyên đề in trên giấy: số lượng 03 (ba) bộ;
+
+ d) Bản đồ dạng số lưu trên vật mang tin và bản đồ trên internet phải lưu toàn bộ các bản đồ tác giả dạng số, thư viện ký hiệu, lý lịch của bản đồ, các tệp tin hình ảnh, bài viết, mã nguồn của phần giao diện và đóng gói sản phẩm. Bộ sản phẩm số phải có nhãn thể hiện rõ các thông tin: Vùng thành lập bản đồ, tên bản đồ, tỷ lệ bản đồ, cơ quan thành lập, thời gian thành lập. Số lượng giao nộp 03 (ba) bộ;
+
+ đ) Báo cáo thuyết minh bản đồ chuyên đề: số lượng 03 (ba) bộ;
+
+ e) Hồ sơ kiểm tra, nghiệm thu sản phẩm.
+
+ 2. Các sản phẩm bản đồ chuyên đề phải được lưu trữ ít nhất tại: Cơ quan thành lập bản đồ chuyên đề và Trung tâm Thông tin và dữ liệu viễn thám trực thuộc Cục Viễn thám quốc gia.Mục 3
+
+ĐỊNH MỨC - KINH TẾ KỸ THUẬT
 
 Điều 27.6.TT.1.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề tỷ lệ 1:25.000, 1:50.000, 1:100.000, 1:250.000 bằng tư liệu ảnh vệ tinh.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 37/2011/TT-BTNMT Quy định về Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề tỷ lệ 1:25.000, 1:50.000, 1:100.000, 1:250.000 bằng tư liệu ảnh vệ tinh ngày 14/10/2011 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 30/11/2011)
 
-**Mã phân cấp:** 270060000000000055000030000000000000000000802414800370000100
-
-**ID:** dk_00046235
-
----
-
-
-### Điều 27.6.TT.13.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật Đo khống chế ảnh viễn thám.
+Dinh muc kinh te ky thuat - Thanh lap ban do chuyen de ty le 1-25000 1-50000 1-100000 1250000 bang tu lieu anh ve tinh.doc
 
 Điều 27.6.TT.13.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật Đo khống chế ảnh viễn thám.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 07/2019/TT-BTNMT Ban hành định mức kinh tế -kỹ thuật đo khống chế ảnh viễn thám ngày 05/07/2019 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
-**Mã phân cấp:** 270060000000000055000030000000000000000000802696900070000100
-
-**ID:** dk_00046236
-
----
-
-
-### Điều 27.6.TT.14.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000.
+Dinh muc kinh te ky thuat _ Do khong che anh vien tham.doc
 
 Điều 27.6.TT.14.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 08/2019/TT-BTNMT Ban hành Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000; 1:10.000; 1:500.000; 1:1.000.000 ngày 05/07/2019 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
-**Mã phân cấp:** 270060000000000055000030000000000000000000802696900080000100
-
-**ID:** dk_00046237
-
----
-
-
-### Điều 27.6.TT.15.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật Công bố siêu dữ liệu viễn thám quốc gia.
+Dinh muc kinh te ky thuat _ Thanh lap ban do chuyen de bang anh vien tham ty le 1-5000
 
 Điều 27.6.TT.15.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật Công bố siêu dữ liệu viễn thám quốc gia.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 09/2019/TT-BTNMT Ban hành Định mức kinh tế - kỹ thuật công bố siêu dữ liệu viễn thám quốc gia ngày 05/07/2019 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
-**Mã phân cấp:** 270060000000000055000030000000000000000000802696900090000100
-
-**ID:** dk_00046238
-
----
-
-
-### Điều 27.6.TT.16.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật vận hành trạm thu dữ liệu viễn thám.
+Dinh muc kinh te ky thuat _ Cong bo sieu du lieu vien tham quoc gia.doc
 
 Điều 27.6.TT.16.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật vận hành trạm thu dữ liệu viễn thám.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 12/2019/TT-BTNMT Ban hành Định mức kinh tế - kỹ thuật vận hành trạm thu dữ liệu viễn thám ngày 05/08/2019 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 20/09/2019)
 
-**Mã phân cấp:** 270060000000000055000030000000000000000000802700000120000100
-
-**ID:** dk_00046239
-
----
-
-
-### Điều 27.6.TT.17.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật kiểm tra, nghiệm thu sản phẩm viễn thám.
+Dinh muc kinh te ky thuat _ Van hanh tram thu du lieu vien tham.doc
 
 Điều 27.6.TT.17.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật kiểm tra, nghiệm thu sản phẩm viễn thám.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 13/2020/TT-BTNMT ban hành Định mức kinh tế - kỹ thuật kiểm tra, nghiệm thu sản phẩm viễn thám ngày 30/10/2020 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 15/12/2020)
 
-**Mã phân cấp:** 270060000000000055000030000000000000000000802745200130000100
+Phu luc_Dinh muc KTTK kiem tra nghiem thu san pham vien tham.doc
 
-**ID:** dk_00046240
+Điều 27.6.TT.18.1.
 
----
+(Điều 1 Thông tư số 05/2022/TT-BTNMT Ban hành định mức kinh tế - kỹ thuật xây dựng, cập nhật cơ sở dữ liệu viễn thám quốc gia ngày 30/06/2022 của Bộ Tài nguyên và Môi trường, có hiệu lực thi hành kể từ ngày 15/08/2022 )
 
+Ban hành kèm theo Thông tư này định mức kinh tế - kỹ thuật xây dựng, cập nhật cơ sở dữ liệu viễn thám quốc gia.
 
-### Điều 27.6.TT.18.1.
+ĐMKTKT_05_2022_TT-BTNMT.doc
 
-*Nội dung chưa có sẵn*
+Chương VII
 
-**Chỉ mục:** 1
+HIỆU LỰC THI HÀNH VÀ TỔ CHỨC THỰC HIỆN
 
-**Mã phân cấp:** 270060000000000055000030000000000000000000802806000050000100
+Điều 27.6.NĐ.32. Hiệu lực thi hành
 
-**ID:** dk_00046241
+(Điều 32 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
----
+ Nghị định này có hiệu lực thi hành từ ngày 20 tháng 02 năm 2019.Điều 27.6.NĐ.33. Tổ chức thực hiện
 
+(Điều 33 Nghị định số 03/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 20/02/2019)
 
-### Điều 27.6.NĐ.32. Hiệu lực thi hành
+ 1. Bộ trưởng Bộ Tài nguyên và Môi trường, Bộ trưởng các bộ, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách nhiệm hướng dẫn thi hành các điều, khoản được giao trong Nghị định này.
 
-*Nội dung chưa có sẵn*
+ 2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này./.
 
-**Chỉ mục:** 32
+ Điều 27.6.QĐ.1.14. Quy định về dữ liệu viễn thám quốc gia có trước ngày Quyết định này có hiệu lực
 
-**Mã phân cấp:** 2700600000000000600003200000000000000000
+(Điều 14 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**ID:** dk_00046243
+Đối với dữ liệu viễn thám quốc gia có trước ngày Quyết định này có hiệu lực thì các cơ quan, tổ chức đang quản lý dữ liệu có trách nhiệm xây dựng, cập nhật siêu dữ liệu viễn thám và gửi về Bộ Tài nguyên và Môi trường để tích hợp vào cơ sở dữ liệu viễn thám quốc gia trong thời hạn chậm nhất là sáu (06) tháng, kể từ ngày Quyết định này có hiệu lực.
 
----
+Điều 27.6.QĐ.1.15. Hiệu lực thi hành
 
+(Điều 15 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-### Điều 27.6.NĐ.33. Tổ chức thực hiện
+Quyết định này có hiệu lực từ ngày 15 tháng 02 năm 2011.
 
-*Nội dung chưa có sẵn*
+Điều 27.6.QĐ.1.16. Tổ chức thực hiện
 
-**Chỉ mục:** 33
+(Điều 16 Quyết định số 81/2010/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/02/2011)
 
-**Mã phân cấp:** 2700600000000000600003300000000000000000
+1. Bộ trưởng Bộ Tài nguyên và Môi trường có trách nhiệm hướng dẫn và kiểm tra việc thực hiện Quyết định này.
 
-**ID:** dk_00046244
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm thi hành Quyết định này./.
 
----
+Điều 27.6.QĐ.1.17. Hiệu lực thi hành
 
+(Điều 17 Quyết định số 76/2014/QĐ-TTg Sửa đổi, bổ sung một số điều của Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, lưu trữ; xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia ngày 24/12/2014 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 01/03/2015)
 
-### Điều 27.6.QĐ.1.14. Quy định về dữ liệu viễn thám quốc gia có trước ngày Quyết định này có hiệu lực
+Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2015.
 
-Điều 27.6.QĐ.1.14. Quy định về dữ liệu viễn thám quốc gia có trước ngày Quyết định này có hiệu lực
+Điều 27.6.QĐ.1.18. Trách nhiệm tổ chức thực hiện
 
-**Chỉ mục:** 14
+(Điều 18 Quyết định số 76/2014/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/03/2015)
 
-**Mã phân cấp:** 2700600000000000600003350238430081000140
+1. Bộ trưởng Bộ Tài nguyên và Môi trường có trách nhiệm hướng dẫn và kiểm tra việc thực hiện Quyết định này.
 
-**ID:** dk_00046245
-
----
-
-
-### Điều 27.6.QĐ.1.15. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 2700600000000000600003350238430081000150
-
-**ID:** dk_00046246
-
----
-
-
-### Điều 27.6.QĐ.1.16. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 2700600000000000600003350238430081000160
-
-**ID:** dk_00046247
-
----
-
-
-### Điều 27.6.QĐ.1.17. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 2700600000000000600003350238430081000170
-
-**ID:** dk_00046248
-
----
-
-
-### Điều 27.6.QĐ.1.18. Trách nhiệm tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 2700600000000000600003350238430081000180
-
-**ID:** dk_00046249
-
----
-
-
-### Điều 27.6.TT.1.2. Thông tư này có hiệu lực thi hành kể từ ngày 30 tháng 11 năm 2011.
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
 
 Điều 27.6.TT.1.2. Thông tư này có hiệu lực thi hành kể từ ngày 30 tháng 11 năm 2011.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000600003380241480037000020
-
-**ID:** dk_00046250
-
----
-
-
-### Điều 27.6.TT.1.3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Cục trưởng Cục Đo đạc và Bản đồ Việt Nam, Giám đốc Trung tâm Viễn thám quốc gia, Thủ trưởng các đơn vị trực thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+(Điều 2 Thông tư số 37/2011/TT-BTNMT, có hiệu lực thi hành kể từ ngày 30/11/2011)
 
 Điều 27.6.TT.1.3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Cục trưởng Cục Đo đạc và Bản đồ Việt Nam, Giám đốc Trung tâm Viễn thám quốc gia, Thủ trưởng các đơn vị trực thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2700600000000000600003380241480037000030
-
-**ID:** dk_00046251
-
----
-
-
-### Điều 27.6.TT.1.4. Khi áp dụng Định mức kinh tế - kỹ thuật này, nếu có vướng mắc hoặc phát hiện bất hợp lý, đề nghị phản ánh về Bộ Tài nguyên và Môi trường để nghiên cứu sửa đổi, bổ sung cho phù hợp./.
+(Điều 3 Thông tư số 37/2011/TT-BTNMT, có hiệu lực thi hành kể từ ngày 30/11/2011)
 
 Điều 27.6.TT.1.4. Khi áp dụng Định mức kinh tế - kỹ thuật này, nếu có vướng mắc hoặc phát hiện bất hợp lý, đề nghị phản ánh về Bộ Tài nguyên và Môi trường để nghiên cứu sửa đổi, bổ sung cho phù hợp./.
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 2700600000000000600003380241480037000040
-
-**ID:** dk_00046252
-
----
-
-
-### Điều 27.6.TT.2.38. Hiệu lực thi hành và tổ chức thực hiện
+(Điều 4 Thông tư số 37/2011/TT-BTNMT, có hiệu lực thi hành kể từ ngày 30/11/2011)
 
 Điều 27.6.TT.2.38. Hiệu lực thi hành và tổ chức thực hiện
 
-**Chỉ mục:** 38
+(Điều 38 Thông tư số 05/2012/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/06/2012)
 
-**Mã phân cấp:** 2700600000000000600003380243550005000380
+1. Thông tư này có hiệu lực kể từ ngày 20 tháng 6 năm 2012 và thay thế những nội dung liên quan đến hiện chỉnh bản đồ địa hình bằng ảnh vũ trụ của Quy phạm hiện chỉnh bản đồ địa hình tỷ lệ 1: 10.000, 1:25.000, 1:50.000, ban hành kèm theo Quyết định số 112/KT ngày 15 tháng 5 năm 1989 của Cục trưởng Cục Đo đạc và Bản đồ Nhà nước và Quy trình hiện chỉnh bản đồ địa hình bằng ảnh vệ tinh, ban hành kèm theo Quyết định số 308/QĐ-TCĐC ngày 25 tháng 7 năm 2002 của Tổng cục trưởng Tổng cục Địa chính.
 
-**ID:** dk_00046253
+2. Trong quá trình thực hiện nếu có vướng mắc thì phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.
 
----
+Điều 27.6.TT.3.32. Hiệu lực thi hành
 
+(Điều 32 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-### Điều 27.6.TT.3.32. Hiệu lực thi hành
+Thông tư này có hiệu lực từ ngày 12 tháng 5 năm 2015.
 
-*Nội dung chưa có sẵn*
+Điều 27.6.TT.3.33. Tổ chức thực hiện
 
-**Chỉ mục:** 32
+(Điều 33 Thông tư số 10/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 12/05/2015)
 
-**Mã phân cấp:** 2700600000000000600003380254060010000320
+1. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**ID:** dk_00046254
+2. Cục Viễn thám quốc gia, Bộ Tài nguyên và Môi trường có trách nhiệm hướng dẫn và kiểm tra việc thực hiện Thông tư này.
 
----
+3. Sở Tài nguyên và Môi trường các tỉnh có trách nhiệm giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương triển khai thực hiện Thông tư này ở địa phương.
 
+4. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để nghiên cứu sửa đổi, bổ sung./.
 
-### Điều 27.6.TT.3.33. Tổ chức thực hiện
+Điều 27.6.TT.4.24. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 24 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
-**Chỉ mục:** 33
+Thông tư này có hiệu lực kể từ ngày 25 tháng 8 năm 2015.
 
-**Mã phân cấp:** 2700600000000000600003380254060010000330
+Điều 27.6.TT.4.25. Tổ chức thực hiện
 
-**ID:** dk_00046255
+(Điều 25 Thông tư số 39/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 25/08/2015)
 
----
+1. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
+2. Cục Viễn thám quốc gia, Bộ Tài nguyên và Môi trường có trách nhiệm kiểm tra việc thực hiện Thông tư này.
 
-### Điều 27.6.TT.4.24. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 2700600000000000600003380255120039000240
-
-**ID:** dk_00046256
-
----
-
-
-### Điều 27.6.TT.4.25. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 2700600000000000600003380255120039000250
-
-**ID:** dk_00046257
-
----
-
-
-### Điều 27.6.TT.5.26. Hiệu lực thi hành và tổ chức thực hiện
+Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.
 
 Điều 27.6.TT.5.26. Hiệu lực thi hành và tổ chức thực hiện
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 69/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**Mã phân cấp:** 2700600000000000600003380256780069000260
+1. Thông tư này có hiệu lực kể từ ngày 15 tháng 02 năm 2016
 
-**ID:** dk_00046258
+2. Cục Đo đạc và Bản đồ Việt Nam có trách nhiệm kiểm tra việc thực hiện Thông tư này.
 
----
+3. Trong quá trình thực hiện, nếu có vướng mắc thì cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.
 
+Điều 27.6.TT.6.10. Hiệu lực thi hành
 
-### Điều 27.6.TT.6.10. Hiệu lực thi hành
+(Điều 10 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-*Nội dung chưa có sẵn*
+Thông tư này có hiệu lực từ ngày 15 tháng 02 năm 2016.
 
-**Chỉ mục:** 10
+Điều 27.6.TT.6.11. Tổ chức thực hiện
 
-**Mã phân cấp:** 2700600000000000600003380256800071000100
+(Điều 11 Thông tư số 71/2015/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
-**ID:** dk_00046259
+1. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
----
+2. Cục Viễn thám quốc gia, Bộ Tài nguyên và Môi trường có trách nhiệm hướng dẫn, kiểm tra việc thực hiện Thông tư này.
 
+3. Sở Tài nguyên và Môi trường các tỉnh có trách nhiệm giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương triển khai thực hiện Thông tư này ở địa phương.
 
-### Điều 27.6.TT.6.11. Tổ chức thực hiện
+4. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.
 
-*Nội dung chưa có sẵn*
+Điều 27.6.TT.7.10. Hiệu lực thi hành
 
-**Chỉ mục:** 11
+(Điều 10 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
-**Mã phân cấp:** 2700600000000000600003380256800071000110
+Thông tư này có hiệu lực từ ngày 16 tháng 01 năm 2017.
 
-**ID:** dk_00046260
+Điều 27.6.TT.7.11. Tổ chức thực hiện
 
----
+(Điều 11 Thông tư số 35/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/01/2017)
 
+1. Các cơ quan, tổ chức, cá nhân có liên quan đến công bố siêu dữ liệu viễn thám quốc gia chịu trách nhiệm thi hành Thông tư này.
 
-### Điều 27.6.TT.7.10. Hiệu lực thi hành
+2. Cục Viễn thám Quốc gia có trách nhiệm giúp Bộ Tài nguyên và Môi trường kiểm tra việc thực hiện Thông tư này.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 2700600000000000600003380260200035000100
-
-**ID:** dk_00046261
-
----
-
-
-### Điều 27.6.TT.7.11. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 2700600000000000600003380260200035000110
-
-**ID:** dk_00046262
-
----
-
-
-### Điều 27.6.TT.8.2. Thông tư này có hiệu lực kể từ ngày 16 tháng 02 năm 2017.
+3. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để nghiên cứu sửa đổi, bổ sung./.
 
 Điều 27.6.TT.8.2. Thông tư này có hiệu lực kể từ ngày 16 tháng 02 năm 2017.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000600003380260520052000020
-
-**ID:** dk_00046263
-
----
-
-
-### Điều 27.6.TT.8.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Cục trưởng Cục Viễn thám quốc gia, Thủ trưởng các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Giám đốc Sở Tài nguyên và Môi trường các tỉnh, thành phố thuộc Trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+(Điều 2 Thông tư số 52/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/02/2017)
 
 Điều 27.6.TT.8.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Cục trưởng Cục Viễn thám quốc gia, Thủ trưởng các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Giám đốc Sở Tài nguyên và Môi trường các tỉnh, thành phố thuộc Trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 52/2016/TT-BTNMT, có hiệu lực thi hành kể từ ngày 16/02/2017)
 
-**Mã phân cấp:** 2700600000000000600003380260520052000030
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.
 
-**ID:** dk_00046264
+Điều 27.6.TT.9.14. Hiệu lực thi hành
 
----
+(Điều 14 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
+Thông tư này có hiệu lực thi hành kể từ ngày 24 tháng 7 năm 2017.
 
-### Điều 27.6.TT.9.14. Hiệu lực thi hành
+Điều 27.6.TT.9.15. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 15 Thông tư số 08 /2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Chỉ mục:** 14
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Mã phân cấp:** 2700600000000000600003380262100008000140
+2. Cục Viễn thám quốc gia, Bộ Tài nguyên và Môi trường có trách nhiệm hướng dẫn, kiểm tra việc thực hiện Thông tư này.
 
-**ID:** dk_00046265
+3. Trong quá trình thực hiện Thông tư, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.
 
----
+Điều 27.6.TT.10.23. Hiệu lực thi hành
 
+(Điều 23 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-### Điều 27.6.TT.9.15. Tổ chức thực hiện
+Thông tư này có hiệu lực thi hành kể từ ngày 24 tháng 7 năm 2017
 
-*Nội dung chưa có sẵn*
+Điều 27.6.TT.10.24. Trách nhiệm thực hiện
 
-**Chỉ mục:** 15
+(Điều 24 Thông tư số 09/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**Mã phân cấp:** 2700600000000000600003380262100008000150
+1. Cục Viễn thám quốc gia, Bộ Tài nguyên và Môi trường có trách nhiệm hướng dẫn và kiểm tra việc thực hiện Thông tư này.
 
-**ID:** dk_00046266
+2. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân liên quan có trách nhiệm thi hành Thông tư này.
 
----
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét quyết định./.
 
+Điều 27.6.TT.11.19. Hiệu lực thi hành
 
-### Điều 27.6.TT.10.23. Hiệu lực thi hành
+(Điều 19 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-*Nội dung chưa có sẵn*
+Thông tư này có hiệu lực thi hành kể từ ngày 24 tháng 7 năm 2017.
 
-**Chỉ mục:** 23
+Điều 27.6.TT.11.20. Tổ chức thực hiện
 
-**Mã phân cấp:** 2700600000000000600003380262100009000230
+(Điều 20 Thông tư số 10/2017/TT-BTNMT, có hiệu lực thi hành kể từ ngày 24/07/2017)
 
-**ID:** dk_00046267
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
----
+2. Cục Viễn thám quốc gia có trách nhiệm hướng dẫn, kiểm tra việc thực hiện Thông tư này.
 
+3. Trong quá trình thực hiện Thông tư nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.
 
-### Điều 27.6.TT.10.24. Trách nhiệm thực hiện
+Điều 27.6.TT.12.20. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 20 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
-**Chỉ mục:** 24
+Thông tư này có hiệu lực thi hành kể từ ngày 03 tháng 11 năm 2018.
 
-**Mã phân cấp:** 2700600000000000600003380262100009000240
+Điều 27.6.TT.12.21. Tổ chức thực hiện
 
-**ID:** dk_00046268
+(Điều 21 Thông tư số 13/2018/TT-BTNMT, có hiệu lực thi hành kể từ ngày 26/03/2018)
 
----
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
+2. Cục Viễn thám quốc gia có trách nhiệm hướng dẫn, kiểm tra việc thực hiện Thông tư này.
 
-### Điều 27.6.TT.11.19. Hiệu lực thi hành
+3. Trường hợp các văn bản quy phạm pháp luật dẫn chiếu áp dụng tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo quy định tại văn bản mới.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 2700600000000000600003380262100010000190
-
-**ID:** dk_00046269
-
----
-
-
-### Điều 27.6.TT.11.20. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 2700600000000000600003380262100010000200
-
-**ID:** dk_00046270
-
----
-
-
-### Điều 27.6.TT.12.20. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 2700600000000000600003380267090013000200
-
-**ID:** dk_00046271
-
----
-
-
-### Điều 27.6.TT.12.21. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 2700600000000000600003380267090013000210
-
-**ID:** dk_00046272
-
----
-
-
-### Điều 27.6.TT.13.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
+4. Trong quá trình thực hiện Thông tư nếu có vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.
 
 Điều 27.6.TT.13.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000600003380269690007000020
-
-**ID:** dk_00046273
-
----
-
-
-### Điều 27.6.TT.13.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+(Điều 2 Thông tư số 07/2019/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
 Điều 27.6.TT.13.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2700600000000000600003380269690007000030
-
-**ID:** dk_00046274
-
----
-
-
-### Điều 27.6.TT.14.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
+(Điều 3 Thông tư số 07/2019/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
 Điều 27.6.TT.14.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000600003380269690008000020
-
-**ID:** dk_00046275
-
----
-
-
-### Điều 27.6.TT.14.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+(Điều 2 Thông tư số 08/2019/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
 Điều 27.6.TT.14.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2700600000000000600003380269690008000030
-
-**ID:** dk_00046276
-
----
-
-
-### Điều 27.6.TT.15.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
+(Điều 3 Thông tư số 08/2019/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
 Điều 27.6.TT.15.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000600003380269690009000020
-
-**ID:** dk_00046277
-
----
-
-
-### Điều 27.6.TT.15.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+(Điều 2 Thông tư số 09/2019/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
 Điều 27.6.TT.15.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2700600000000000600003380269690009000030
-
-**ID:** dk_00046278
-
----
-
-
-### Điều 27.6.TT.16.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 9 năm 2019.
+(Điều 3 Thông tư số 09/2019/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/08/2019)
 
 Điều 27.6.TT.16.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 9 năm 2019.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2700600000000000600003380270000012000020
-
-**ID:** dk_00046279
-
----
-
-
-### Điều 27.6.TT.16.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+(Điều 2 Thông tư số 12/2019/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/09/2019)
 
 Điều 27.6.TT.16.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 12/2019/TT-BTNMT, có hiệu lực thi hành kể từ ngày 20/09/2019)
 
-**Mã phân cấp:** 2700600000000000600003380270000012000030
+Điều 27.6.TT.17.2. Hiệu lực thi hành
 
-**ID:** dk_00046280
+(Điều 2 Thông tư số 13/2020/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/12/2020)
 
----
+ Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 12 năm 2020.
 
+Điều 27.6.TT.17.3. Điều khoản chuyển tiếp
 
-### Điều 27.6.TT.17.2. Hiệu lực thi hành
+(Điều 3 Thông tư số 13/2020/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/12/2020)
 
-*Nội dung chưa có sẵn*
+1. Các Đề án, Dự án, Thiết kế kỹ thuật được phê duyệt theo quy định của Thông tư số 10/2017/TT-BTNMT ngày 06 tháng 6 năm 2017 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định quy trình thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000 trước ngàyThông tư này có hiệu lực thì định mức kinh tế - kỹ thuật cho hoạt động kiểm tra, nghiệm thu sản phẩm viễn thám đối với cấp chủ đầu tưđược thực hiện theo quy định tại Thông tư số 08/2019/TT-BTNMT ngày 05 tháng 7 năm 2019 của Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000 cho đến khi kết thúc nhiệm vụ.
 
-**Chỉ mục:** 2
+2. Các Đề án, Dự án,Thiết kế kỹ thuật chưa được phê duyệt trước ngày Thông tư này có hiệu lực thi hành thì định mức kinh tế - kỹ thuật cho hoạt động kiểm tra, nghiệm thu sản phẩm viễn thám đối với cấp chủ đầu tưđược thực hiện theo quy định của Thông tư này.
 
-**Mã phân cấp:** 2700600000000000600003380274520013000020
+**Điều 4.** Tổ chức thực hiện
 
-**ID:** dk_00046281
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
----
+2. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định. /.
 
+Điều 27.6.TT.17.4. Tổ chức thực hiện
 
-### Điều 27.6.TT.17.3. Điều khoản chuyển tiếp
+(Điều 4 Thông tư số 13/2020/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/12/2020)
 
-*Nội dung chưa có sẵn*
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
+2. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định. /.
 
-**Mã phân cấp:** 2700600000000000600003380274520013000030
+Điều 27.6.TT.18.2. Hiệu lực thi hành
 
-**ID:** dk_00046282
+(Điều 2 Thông tư số 05/2022/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
----
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 8 năm 2022.
 
+Điều 27.6.TT.18.3.
 
-### Điều 27.6.TT.17.4. Tổ chức thực hiện
+(Điều 3 Thông tư số 05/2022/TT-BTNMT, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-*Nội dung chưa có sẵn*
+Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 4
+## Danh sách điều khoản
 
-**Mã phân cấp:** 2700600000000000600003380274520013000040
+### 27006000000000001000
 
-**ID:** dk_00046283
+Chương I QUY ĐỊNH CHUNG
 
----
+### 2700600000000000100000100000000000000000
 
+Điều 27.6.NĐ.1. Phạm vi điều chỉnh
 
-### Điều 27.6.TT.18.2. Hiệu lực thi hành
+### 2700600000000000100000200000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 27.6.NĐ.2. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+### 2700600000000000100000250238430081000010
 
-**Mã phân cấp:** 2700600000000000600003380280600005000020
+Điều 27.6.QĐ.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00046284
+### 2700600000000000100000250238430081000020
 
----
+Điều 27.6.QĐ.1.2. Đối tượng áp dụng
 
+### 2700600000000000100000280243550005000010
 
-### Điều 27.6.TT.18.3.
+Điều 27.6.TT.2.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 2700600000000000100000280243550005000020
 
-**Chỉ mục:** 3
+Điều 27.6.TT.2.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 2700600000000000600003380280600005000030
+### 2700600000000000100000280254060010000010
 
-**ID:** dk_00046285
+Điều 27.6.TT.3.1. Phạm vi điều chỉnh
 
----
+### 2700600000000000100000280254060010000020
 
+Điều 27.6.TT.3.2. Đối tượng áp dụng
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Tài nguyên](/tai-nguyen/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 2700600000000000100000280255120039000010
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 312
-- **Điều khoản thực tế:** 302
-- **Điều khoản có nội dung:** 165 (54.6%)
-- **ID đề mục:** 8585b6f456c8457eafd1c8e17d60afcb
+Điều 27.6.TT.4.1. Phạm vi điều chỉnh
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 2700600000000000100000280255120039000020
 
----
+Điều 27.6.TT.4.2. Đối tượng áp dụng
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 2700600000000000100000280256780069000010
+
+Điều 27.6.TT.5.1. Phạm vi điều chỉnh
+
+### 2700600000000000100000280256780069000020
+
+Điều 27.6.TT.5.2. Đối tượng áp dụng
+
+### 2700600000000000100000280256800071000010
+
+Điều 27.6.TT.6.1. Phạm vi điều chỉnh
+
+### 2700600000000000100000280256800071000020
+
+Điều 27.6.TT.6.2. Đối tượng áp dụng
+
+### 2700600000000000100000280260200035000010
+
+Điều 27.6.TT.7.1. Phạm vi điều chỉnh
+
+### 2700600000000000100000280260200035000020
+
+Điều 27.6.TT.7.2. Đối tượng áp dụng
+
+### 2700600000000000100000280262100008000010
+
+Điều 27.6.TT.9.1. Phạm vi điều chỉnh
+
+### 2700600000000000100000280262100008000020
+
+Điều 27.6.TT.9.2. Đối tượng áp dụng
+
+### 2700600000000000100000280262100009000010
+
+Điều 27.6.TT.10.1. Phạm vi điều chỉnh
+
+### 2700600000000000100000280262100009000020
+
+Điều 27.6.TT.10.2. Đối tượng áp dụng
+
+### 2700600000000000100000280262100010000010
+
+Điều 27.6.TT.11.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 2700600000000000100000280267090013000010
+
+Điều 27.6.TT.12.1. Phạm vi điều chỉnh
+
+### 2700600000000000100000280267090013000020
+
+Điều 27.6.TT.12.2. Đối tượng áp dụng
+
+### 2700600000000000100000300000000000000000
+
+Điều 27.6.NĐ.3. Giải thích từ ngữ
+
+### 2700600000000000100000350238430081000030
+
+Điều 27.6.QĐ.1.3. Giải thích từ ngữ
+
+### 2700600000000000100000380243550005000030
+
+Điều 27.6.TT.2.3. Giải thích từ ngữ
+
+### 2700600000000000100000380254060010000030
+
+Điều 27.6.TT.3.3. Giải thích từ ngữ
+
+### 2700600000000000100000380254060010000040
+
+Điều 27.6.TT.3.4. Thuật ngữ chuyên ngành
+
+### 2700600000000000100000380255120039000030
+
+Điều 27.6.TT.4.3. Giải thích từ ngữ
+
+### 2700600000000000100000380256780069000030
+
+Điều 27.6.TT.5.3. Giải thích từ ngữ
+
+### 2700600000000000100000380256800071000030
+
+Điều 27.6.TT.6.3. Giải thích từ ngữ
+
+### 2700600000000000100000380262100008000030
+
+Điều 27.6.TT.9.3. Giải thích từ ngữ
+
+### 2700600000000000100000380262100009000030
+
+Điều 27.6.TT.10.3. Giải thích thuật ngữ
+
+### 2700600000000000100000380262100010000020
+
+Điều 27.6.TT.11.2. Giải thích từ ngữ
+
+### 2700600000000000100000380267090013000030
+
+Điều 27.6.TT.12.3. Giải thích từ ngữ
+
+### 2700600000000000100000400000000000000000
+
+Điều 27.6.NĐ.4. Nguyên tắc trong hoạt động viễn thám
+
+### 2700600000000000100000450238430081000040
+
+Điều 27.6.QĐ.1.4. Nguyên tắc thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia
+
+### 2700600000000000100000500000000000000000
+
+Điều 27.6.NĐ.5. Danh mục các hoạt động khoa học và công nghệ về viễn thám được ưu tiên
+
+### 2700600000000000100000600000000000000000
+
+Điều 27.6.NĐ.6. Các ứng dụng dữ liệu ảnh viễn thám
+
+### 27006000000000002000
+
+Chương II HỆ THỐNG THU NHẬN DỮ LIỆU ẢNH VIỄN THÁM
+
+### 2700600000000000200000700000000000000000
+
+Điều 27.6.NĐ.7. Hệ thống thu nhận dữ liệu ảnh viễn thám
+
+### 270060000000000020000070000000000000000000502384300810000500
+
+Điều 27.6.QĐ.1.5. Thu nhận, xử lý dữ liệu viễn thám quốc gia
+
+### 270060000000000020000070000000000000000000502384300810000600
+
+Điều 27.6.QĐ.1.6. Lưu trữ dữ liệu viễn thám quốc gia
+
+### 270060000000000020000070000000000000000000502384300810000700
+
+Điều 27.6.QĐ.1.7. Công bố siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000020000070000000000000000000502384300810000800
+
+Điều 27.6.QĐ.1.8. Hình thức, thủ tục khai thác và sử dụng dữ liệu viễn thám quốc gia
+
+### 270060000000000020000070000000000000000000502384300810000900
+
+Điều 27.6.QĐ.1.9. Trách nhiệm và quyền hạn của cơ quan, tổ chức, cá nhân khai thác và sử dụng dữ liệu viễn thám quốc gia
+
+### 270060000000000020000070000000000000000000502384300810001000
+
+Điều 27.6.QĐ.1.10. Kinh phí thu nhận, lưu trữ, xử lý dữ liệu viễn thám quốc gia
+
+### 270060000000000020000070000000000000000000502384300810001100
+
+Điều 27.6.QĐ.1.11. Kinh phí khai thác và sử dụng dữ liệu viễn thám quốc gia
+
+### 270060000000000020000070000000000000000000502384300810001200
+
+Điều 27.6.QĐ.1.12. Trách nhiệm và quyền hạn của Bộ Tài nguyên và Môi trường
+
+### 270060000000000020000070000000000000000000502384300810001300
+
+Điều 27.6.QĐ.1.13. Trách nhiệm và quyền hạn của các Bộ, ngành, Ủy ban nhân dân cấp tỉnh
+
+### 270060000000000020000070000000000000000000502384300810001301
+
+Điều 27.6.QĐ.1.13a. Trách nhiệm của các cơ quan được Chính phủ giao quản lý vệ tinh viễn thám của Việt Nam
+
+### 2700600000000000200000800000000000000000
+
+Điều 27.6.NĐ.8. Vệ tinh viễn thám
+
+### 2700600000000000200000900000000000000000
+
+Điều 27.6.NĐ.9. Xây dựng công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+
+### 2700600000000000200001000000000000000000
+
+Điều 27.6.NĐ.10. Vận hành, bảo trì công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+
+### 2700600000000000200001100000000000000000
+
+Điều 27.6.NĐ.11. Tổ chức, cá nhân tham gia đầu tư xây dựng và vận hành trạm thu dữ liệu viễn thám, trạm điều khiển vệ tinh viễn thám
+
+### 2700600000000000200001200000000000000000
+
+Điều 27.6.NĐ.12. Hành lang bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+
+### 2700600000000000200001300000000000000000
+
+Điều 27.6.NĐ.13. Trách nhiệm bảo vệ công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+
+### 2700600000000000200001400000000000000000
+
+Điều 27.6.NĐ.14. Di dời công trình hạ tầng thu nhận dữ liệu ảnh viễn thám
+
+### 2700600000000000200001500000000000000000
+
+Điều 27.6.NĐ.15. Thu nhận dữ liệu ảnh viễn thám
+
+### 2700600000000000200001600000000000000000
+
+Điều 27.6.NĐ.16. Xử lý dữ liệu ảnh viễn thám
+
+### 27006000000000003000
+
+Chương III CƠ SỞ DỮ LIỆU ẢNH VIỄN THÁM
+
+### 2700600000000000300001700000000000000000
+
+Điều 27.6.NĐ.17. Xây dựng cơ sở dữ liệu ảnh viễn thám quốc gia
+
+### 2700600000000000300001800000000000000000
+
+Điều 27.6.NĐ.18. Công bố siêu dữ liệu viễn thám và tạm hoãn công bố siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000030000180000000000000000000802602000350000300
+
+Điều 27.6.TT.7.3. Yêu cầu về siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000030000180000000000000000000802602000350000400
+
+Điều 27.6.TT.7.4. Hình thức và phương tiện công bố siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000030000180000000000000000000802602000350000500
+
+Điều 27.6.TT.7.5. Giao nộp siêu dữ liệu viễn thám
+
+### 270060000000000030000180000000000000000000802602000350000600
+
+Điều 27.6.TT.7.6. Biên tập, xử lý siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000030000180000000000000000000802602000350000700
+
+Điều 27.6.TT.7.7. Công bố siêu dữ liệu viễn thám quốc gia thường xuyên
+
+### 270060000000000030000180000000000000000000802602000350000800
+
+Điều 27.6.TT.7.8. Công bố siêu dữ liệu viễn thám quốc gia định kỳ hằng năm
+
+### 270060000000000030000180000000000000000000802602000350000900
+
+Điều 27.6.TT.7.9. Tạm hoãn công bố siêu dữ liệu viễn thám quốc gia
+
+### 27006000000000004000
+
+Chương IV LƯU TRỮ, CUNG CẤP, KHAI THÁC, SỬ DỤNG THÔNG TIN, DỮ LIỆU ẢNH VIỄN THÁM, SẢN PHẨM VIỄN THÁM
+
+### 2700600000000000400001900000000000000000
+
+Điều 27.6.NĐ.19. Danh mục thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám
+
+### 2700600000000000400002000000000000000000
+
+Điều 27.6.NĐ.20. Giao nộp và lưu trữ thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám
+
+### 2700600000000000400002100000000000000000
+
+Điều 27.6.NĐ.21. Hình thức khai thác và sử dụng dữ liệu ảnh viễn thám
+
+### 2700600000000000400002200000000000000000
+
+Điều 27.6.NĐ.22. Khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám qua Trang thông tin hoặc Cổng thông tin điện tử
+
+### 2700600000000000400002300000000000000000
+
+Điều 27.6.NĐ.23. Phiếu yêu cầu cung cấp thông tin, dữ liệu ảnh viễn thám
+
+### 2700600000000000400002400000000000000000
+
+Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám
+
+### 2700600000000000400002500000000000000000
+
+Điều 27.6.NĐ.25. Cung cấp thông tin, dữ liệu ảnh viễn thám, sản phẩm viễn thám cho tổ chức, cá nhân trong nước
+
+### 2700600000000000400002600000000000000000
+
+Điều 27.6.NĐ.26. Quản lý chất lượng sản phẩm viễn thám
+
+### 27006000000000005000
+
+Chương V TRÁCH NHIỆM VỀ HOẠT ĐỘNG VIỄN THÁM
+
+### 2700600000000000500002700000000000000000
+
+Điều 27.6.NĐ.27. Trách nhiệm của Bộ Tài nguyên và Môi trường
+
+### 2700600000000000500002800000000000000000
+
+Điều 27.6.NĐ.28. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan
+
+### 2700600000000000500002900000000000000000
+
+Điều 27.6.NĐ.29. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+### 2700600000000000500003000000000000000000
+
+Điều 27.6.NĐ.30. Báo cáo về hoạt động viễn thám
+
+### 2700600000000000500003100000000000000000
+
+Điều 27.6.NĐ.31. Quản lý các dự án, đề án, nhiệm vụ chuyên môn viễn thám
+
+### 27006000000000005500
+
+Chương VI QUY ĐỊNH QUY TRÌNH, KỸ THUẬT VÀ ĐỊNH MỨC - KINH TẾ KỸ THUẬT
+
+### 2700600000000000550000100000000000000000
+
+Mục 1 QUY ĐỊNH QUY TRÌNH
+
+### 270060000000000055000010000000000000000000802605200520000100
+
+Điều 27.6.TT.8.1. Ban hành kèm theo Thông tư này là Quy trình công nghệ và Định mức kinh tế - kỹ thuật thu nhận và xử lý ảnh VNREDSat-1.
+
+### 270060000000000055000010000000000000000000802621000080000400
+
+Điều 27.6.TT.9.4. Sơ đồ quy trình đo khống chế ảnh viễn thám
+
+### 270060000000000055000010000000000000000000802621000080000500
+
+Điều 27.6.TT.9.5. Công tác chuẩn bị
+
+### 270060000000000055000010000000000000000000802621000080000600
+
+Điều 27.6.TT.9.6. Chọn điểm khống chế ảnh viễn thám ở nội nghiệp
+
+### 270060000000000055000010000000000000000000802621000080000700
+
+Điều 27.6.TT.9.7. Thiết kế sơ đồ đo nối điểm khống chế ảnh viễn thám
+
+### 270060000000000055000010000000000000000000802621000080000800
+
+Điều 27.6.TT.9.8. Xác định điểm khống chế, điểm kiểm tra ở ngoại nghiệp
+
+### 270060000000000055000010000000000000000000802621000080000900
+
+Điều 27.6.TT.9.9. Đo và xử lý số liệu đo điểm khống chế ảnh viễn thám bằng công nghệ GNSS
+
+### 270060000000000055000010000000000000000000802621000080001000
+
+Điều 27.6.TT.9.10. Đo và xử lý số liệu đo điểm khống chế ảnh viễn thám sử dụng máy toàn đạc điện tử hoặc máy kinh vĩ điện tử
+
+### 270060000000000055000010000000000000000000802621000080001100
+
+Điều 27.6.TT.9.11. Tu chỉnh điểm khống chế ảnh viễn thám
+
+### 270060000000000055000010000000000000000000802621000080001200
+
+Điều 27.6.TT.9.12. Kiểm tra, nghiệm thu kết quả đo điểm khống chế ảnh viễn thám
+
+### 270060000000000055000010000000000000000000802621000080001300
+
+Điều 27.6.TT.9.13. Giao nộp kết quả đo điểm khống chế ảnh viễn thám
+
+### 270060000000000055000010000000000000000000802621000100000300
+
+Điều 27.6.TT.11.3. Cơ sở toán học của bản đồ chuyên đề
+
+### 270060000000000055000010000000000000000000802621000100000400
+
+Điều 27.6.TT.11.4. Nội dung của bản đồ chuyên đề
+
+### 270060000000000055000010000000000000000000802621000100000500
+
+Điều 27.6.TT.11.5. Sơ đồ quy trình thành lập bản đồ chuyên đề tỷ lệ 1:5.000, 1:10.000, 1: 500.000, 1:1.000.000
+
+### 270060000000000055000010000000000000000000802621000100000600
+
+Điều 27.6.TT.11.6. Công tác chuẩn bị
+
+### 270060000000000055000010000000000000000000802621000100000700
+
+Điều 27.6.TT.11.7. Biên tập khoa học
+
+### 270060000000000055000010000000000000000000802621000100000800
+
+Điều 27.6.TT.11.8. Thành lập bình đồ ảnh viễn thám
+
+### 270060000000000055000010000000000000000000802621000100000900
+
+Điều 27.6.TT.11.9. Thành lập bản đồ nền
+
+### 270060000000000055000010000000000000000000802621000100001000
+
+Điều 27.6.TT.11.10. Đo phổ/Lấy mẫu phổ
+
+### 270060000000000055000010000000000000000000802621000100001100
+
+Điều 27.6.TT.11.11. Chiết xuất nội dung chuyên đề từ ảnh viễn thám
+
+### 270060000000000055000010000000000000000000802621000100001200
+
+Điều 27.6.TT.11.12. Điều tra bổ sung ngoại nghiệp
+
+### 270060000000000055000010000000000000000000802621000100001300
+
+Điều 27.6.TT.11.13. Chuẩn hóa dữ liệu dẫn xuất
+
+### 270060000000000055000010000000000000000000802621000100001400
+
+Điều 27.6.TT.11.14. Tích hợp, phân tích, xử lý tổng hợp dữ liệu
+
+### 270060000000000055000010000000000000000000802621000100001500
+
+Điều 27.6.TT.11.15. Biên tập, trình bày bản đồ chuyên đề
+
+### 270060000000000055000010000000000000000000802621000100001600
+
+Điều 27.6.TT.11.16. Xây dựng báo cáo thuyết minh bản đồ chuyên đề
+
+### 270060000000000055000010000000000000000000802621000100001700
+
+Điều 27.6.TT.11.17. Kiểm tra, nghiệm thu
+
+### 270060000000000055000010000000000000000000802621000100001800
+
+Điều 27.6.TT.11.18. Giao nộp sản phẩm
+
+### 2700600000000000550000200000000000000000
+
+Mục 2 QUY ĐỊNH KỸ THUẬT
+
+### 270060000000000055000020000000000000000000802435500050000400
+
+Điều 27.6.TT.2.4. Hiện chỉnh theo chu kỳ
+
+### 270060000000000055000020000000000000000000802435500050000500
+
+Điều 27.6.TT.2.5. Hiện chỉnh theo mức độ thay đổi nội dung bản đồ
+
+### 270060000000000055000020000000000000000000802435500050000600
+
+Điều 27.6.TT.2.6. Bản đồ sau khi hiện chỉnh
+
+### 270060000000000055000020000000000000000000802435500050000700
+
+Điều 27.6.TT.2.7. Bản đồ dùng làm gốc hiện chỉnh
+
+### 270060000000000055000020000000000000000000802435500050000800
+
+Điều 27.6.TT.2.8. Ảnh vệ tinh dùng để hiện chỉnh
+
+### 270060000000000055000020000000000000000000802435500050000900
+
+Điều 27.6.TT.2.9. Ghi lý lịch và kiểm tra - nghiệm thu sản phẩm hiện chỉnh
+
+### 270060000000000055000020000000000000000000802435500050001000
+
+Điều 27.6.TT.2.10. Thu thập tư liệu
+
+### 270060000000000055000020000000000000000000802435500050001100
+
+Điều 27.6.TT.2.11. Đánh giá độ chính xác của bản đồ dùng làm gốc hiện chỉnh
+
+### 270060000000000055000020000000000000000000802435500050001200
+
+Điều 27.6.TT.2.12. Nghiên cứu đặc điểm địa lý khu vực hiện chỉnh
+
+### 270060000000000055000020000000000000000000802435500050001300
+
+Điều 27.6.TT.2.13. Khảo sát thực địa
+
+### 270060000000000055000020000000000000000000802435500050001400
+
+Điều 27.6.TT.2.14. Lập Thiết kế kỹ thuật - Dự toán
+
+### 270060000000000055000020000000000000000000802435500050001500
+
+Điều 27.6.TT.2.15. Thiết kế điểm khống chế ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802435500050001600
+
+Điều 27.6.TT.2.16. Đo điểm khống chế ảnh ngoại nghiệp
+
+### 270060000000000055000020000000000000000000802435500050001700
+
+Điều 27.6.TT.2.17. Xác định điểm khống chế ảnh trên bản đồ
+
+### 270060000000000055000020000000000000000000802435500050001800
+
+Điều 27.6.TT.2.18. Nhập dữ liệu ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802435500050001900
+
+Điều 27.6.TT.2.19. Chuyển và gán tọa độ, độ cao các điểm khống chế trên ảnh số
+
+### 270060000000000055000020000000000000000000802435500050002000
+
+Điều 27.6.TT.2.20. Nắn ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802435500050002100
+
+Điều 27.6.TT.2.21. Ghép ảnh và cắt mảnh bình đồ ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802435500050002200
+
+Điều 27.6.TT.2.22. Tăng cường chất lượng ảnh nắn
+
+### 270060000000000055000020000000000000000000802435500050002300
+
+Điều 27.6.TT.2.23. Trình bày khung và phần ngoài khung bình đồ ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802435500050002400
+
+Điều 27.6.TT.2.24. Ghi dữ liệu bình đồ ảnh số
+
+### 270060000000000055000020000000000000000000802435500050002500
+
+Điều 27.6.TT.2.25. In bình đồ ảnh giấy
+
+### 270060000000000055000020000000000000000000802435500050002600
+
+Điều 27.6.TT.2.26. Điều vẽ ảnh vệ tinh cho hiện chỉnh bản đồ
+
+### 270060000000000055000020000000000000000000802435500050002700
+
+Điều 27.6.TT.2.27. Điều vẽ ảnh nội nghiệp
+
+### 270060000000000055000020000000000000000000802435500050002800
+
+Điều 27.6.TT.2.28. Điều vẽ ảnh ngoại nghiệp
+
+### 270060000000000055000020000000000000000000802435500050002900
+
+Điều 27.6.TT.2.29. Đo vẽ bù
+
+### 270060000000000055000020000000000000000000802435500050003000
+
+Điều 27.6.TT.2.30. Hoàn thiện kết quả điều vẽ ảnh
+
+### 270060000000000055000020000000000000000000802435500050003100
+
+Điều 27.6.TT.2.31. Lập bản đồ gốc hiện chỉnh
+
+### 270060000000000055000020000000000000000000802435500050003200
+
+Điều 27.6.TT.2.32. Chuẩn hóa nội dung bản đồ
+
+### 270060000000000055000020000000000000000000802435500050003300
+
+Điều 27.6.TT.2.33. Biên tập trình bày bản đồ
+
+### 270060000000000055000020000000000000000000802435500050003400
+
+Điều 27.6.TT.2.34. Nguyên tắc biểu thị các yếu tố nội dung bản đồ
+
+### 270060000000000055000020000000000000000000802435500050003500
+
+Điều 27.6.TT.2.35. Tiếp biên bản đồ số
+
+### 270060000000000055000020000000000000000000802435500050003600
+
+Điều 27.6.TT.2.36. Đóng gói sản phẩm
+
+### 270060000000000055000020000000000000000000802435500050003700
+
+Điều 27.6.TT.2.37. Sản phẩm giao nộp
+
+### 270060000000000055000020000000000000000000802540600100000500
+
+Điều 27.6.TT.3.5. Nội dung công việc sản xuất ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802540600100000600
+
+Điều 27.6.TT.3.6. Thu thập dữ liệu
+
+### 270060000000000055000020000000000000000000802540600100000700
+
+Điều 27.6.TT.3.7. Yêu cầu đối với dữ liệu ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802540600100000800
+
+Điều 27.6.TT.3.8. Yêu cầu đối với dữ liệu bản đồ
+
+### 270060000000000055000020000000000000000000802540600100000900
+
+Điều 27.6.TT.3.9. Yêu cầu về điểm khống chế ảnh
+
+### 270060000000000055000020000000000000000000802540600100001000
+
+Điều 27.6.TT.3.10. Yêu cầu đối với mô hình số độ cao
+
+### 270060000000000055000020000000000000000000802540600100001100
+
+Điều 27.6.TT.3.11. Nhập dữ liệu ảnh viễn thám đầu vào
+
+### 270060000000000055000020000000000000000000802540600100001200
+
+Điều 27.6.TT.3.12. Nhập dữ liệu điểm khống chế ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802540600100001300
+
+Điều 27.6.TT.3.13. Nhập dữ liệu bản đồ và mô hình số độ cao
+
+### 270060000000000055000020000000000000000000802540600100001400
+
+Điều 27.6.TT.3.14. Nhập dữ liệu viễn thám mức 0
+
+### 270060000000000055000020000000000000000000802540600100001500
+
+Điều 27.6.TT.3.15. Sản xuất ảnh viễn thám 1A
+
+### 270060000000000055000020000000000000000000802540600100001600
+
+Điều 27.6.TT.3.16. Kiểm tra chất lượng ảnh viễn thám 1A
+
+### 270060000000000055000020000000000000000000802540600100001700
+
+Điều 27.6.TT.3.17. Nhập dữ liệu đầu vào
+
+### 270060000000000055000020000000000000000000802540600100001800
+
+Điều 27.6.TT.3.18. Sản xuất ảnh viễn thám 2A
+
+### 270060000000000055000020000000000000000000802540600100001900
+
+Điều 27.6.TT.3.19. Kiểm tra chất lượng ảnh viễn thám 2A
+
+### 270060000000000055000020000000000000000000802540600100002000
+
+Điều 27.6.TT.3.20. Nhập dữ liệu đầu vào
+
+### 270060000000000055000020000000000000000000802540600100002100
+
+Điều 27.6.TT.3.21. Tăng dày khối ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802540600100002200
+
+Điều 27.6.TT.3.22. Nắn chỉnh hình học ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802540600100002300
+
+Điều 27.6.TT.3.23. Xử lý phổ, trộn ảnh và tăng cường chất lượng ảnh
+
+### 270060000000000055000020000000000000000000802540600100002400
+
+Điều 27.6.TT.3.24. Kiểm tra chất lượng ảnh viễn thám 3A
+
+### 270060000000000055000020000000000000000000802540600100002500
+
+Điều 27.6.TT.3.25. Nhập dữ liệu đầu vào
+
+### 270060000000000055000020000000000000000000802540600100002600
+
+Điều 27.6.TT.3.26. Ghép ảnh và cắt mảnh bình đồ ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802540600100002700
+
+Điều 27.6.TT.3.27. Dựng khung, lưới tọa độ, chú giải và phần ngoài khung bình đồ ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802540600100002800
+
+Điều 27.6.TT.3.28. Kiểm tra chất lượng ảnh viễn thám 3B
+
+### 270060000000000055000020000000000000000000802540600100002900
+
+Điều 27.6.TT.3.29. Quy định kiểm tra nghiệm thu sản phẩm
+
+### 270060000000000055000020000000000000000000802540600100003000
+
+Điều 27.6.TT.3.30. Quy định đóng gói sản phẩm
+
+### 270060000000000055000020000000000000000000802540600100003100
+
+Điều 27.6.TT.3.31. Quy định giao nộp sản phẩm
+
+### 270060000000000055000020000000000000000000802551200390000400
+
+Điều 27.6.TT.4.4. Vị trí lắp đặt ăng ten
+
+### 270060000000000055000020000000000000000000802551200390000500
+
+Điều 27.6.TT.4.5. Hệ thống cung cấp điện
+
+### 270060000000000055000020000000000000000000802551200390000600
+
+Điều 27.6.TT.4.6. Môi trường làm việc
+
+### 270060000000000055000020000000000000000000802551200390000700
+
+Điều 27.6.TT.4.7. Hệ thống mạng
+
+### 270060000000000055000020000000000000000000802551200390000800
+
+Điều 27.6.TT.4.8. Điều kiện vận hành trạm thu ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802551200390000900
+
+Điều 27.6.TT.4.9. Ca trực
+
+### 270060000000000055000020000000000000000000802551200390001000
+
+Điều 27.6.TT.4.10. Công tác chuẩn bị trước khi thu nhận
+
+### 270060000000000055000020000000000000000000802551200390001100
+
+Điều 27.6.TT.4.11. Thu nhận và xử lý tín hiệu vệ tinh
+
+### 270060000000000055000020000000000000000000802551200390001200
+
+Điều 27.6.TT.4.12. Đánh giá chất lượng ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802551200390001300
+
+Điều 27.6.TT.4.13. Đánh giá độ che phủ mây
+
+### 270060000000000055000020000000000000000000802551200390001400
+
+Điều 27.6.TT.4.14. Cập nhật danh mục dữ liệu ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802551200390001500
+
+Điều 27.6.TT.4.15. Sao lưu dữ liệu viễn thám mức 0
+
+### 270060000000000055000020000000000000000000802551200390001600
+
+Điều 27.6.TT.4.16. Theo dõi và đánh giá đơn hàng chụp ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802551200390001700
+
+Điều 27.6.TT.4.17. Báo cáo kết quả thu ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802551200390001800
+
+Điều 27.6.TT.4.18. Xử lý dữ liệu viễn thám từ mức 0 lên các mức cơ bản
+
+### 270060000000000055000020000000000000000000802551200390001900
+
+Điều 27.6.TT.4.19. Vận hành trạm thu theo chế độ khẩn cấp
+
+### 270060000000000055000020000000000000000000802551200390002000
+
+Điều 27.6.TT.4.20. Phối hợp vận hành giữa trạm thu ảnh vệ tinh và trạm điều khiển vệ tinh
+
+### 270060000000000055000020000000000000000000802551200390002100
+
+Điều 27.6.TT.4.21. Bảo mật thông tin dữ liệu
+
+### 270060000000000055000020000000000000000000802551200390002200
+
+Điều 27.6.TT.4.22. Xử lý sự cố kỹ thuật
+
+### 270060000000000055000020000000000000000000802551200390002300
+
+Điều 27.6.TT.4.23. Bảo trì hệ thống trạm thu ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802567800690000400
+
+Điều 27.6.TT.5.4. Tần suất và mức độ cập nhật cơ sở dữ liệu nền địa lý
+
+### 270060000000000055000020000000000000000000802567800690000500
+
+Điều 27.6.TT.5.5. Nội dung công việc cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802567800690000600
+
+Điều 27.6.TT.5.6. Chuẩn bị tài liệu và thiết bị công nghệ
+
+### 270060000000000055000020000000000000000000802567800690000700
+
+Điều 27.6.TT.5.7. Nghiên cứu tình hình biến động của khu vực cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000
+
+### 270060000000000055000020000000000000000000802567800690000800
+
+Điều 27.6.TT.5.8. Khảo sát mức độ thay đổi nội dung của cơ sở dữ liệu nền địa lý gốc tỷ lệ 1:10.000
+
+### 270060000000000055000020000000000000000000802567800690000900
+
+Điều 27.6.TT.5.9. Khảo sát thực địa
+
+### 270060000000000055000020000000000000000000802567800690001000
+
+Điều 27.6.TT.5.10. Lập Thiết kế kỹ thuật - dự toán
+
+### 270060000000000055000020000000000000000000802567800690001100
+
+Điều 27.6.TT.5.11. Trích sao cơ sở dữ liệu nền địa lý
+
+### 270060000000000055000020000000000000000000802567800690001200
+
+Điều 27.6.TT.5.12. Yêu cầu chung
+
+### 270060000000000055000020000000000000000000802567800690001300
+
+Điều 27.6.TT.5.13. Thu nhận dữ liệu địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802567800690001400
+
+Điều 27.6.TT.5.14. Thiết kế, đo nối điểm khống chế ảnh ngoại nghiệp
+
+### 270060000000000055000020000000000000000000802567800690001500
+
+Điều 27.6.TT.5.15. Tăng dày điểm khống chế ảnh nội nghiệp (Mô hình hóa cảnh ảnh, khối ảnh)
+
+### 270060000000000055000020000000000000000000802567800690001600
+
+Điều 27.6.TT.5.16. Đo vẽ lập thể trên trạm ảnh số các đối tượng địa lý đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể
+
+### 270060000000000055000020000000000000000000802567800690001700
+
+Điều 27.6.TT.5.17. Thành lập mô hình số địa hình đối với trường hợp sử dụng các cặp ảnh vệ tinh lập thể
+
+### 270060000000000055000020000000000000000000802567800690001800
+
+Điều 27.6.TT.5.18. Thành lập bình đồ ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802567800690001900
+
+Điều 27.6.TT.5.19. Véc-tơ hóa các đối tượng địa lý trên bình đồ ảnh vệ tinh
+
+### 270060000000000055000020000000000000000000802567800690002000
+
+Điều 27.6.TT.5.20. Điều tra đối tượng địa lý và đo vẽ bổ sung ngoại nghiệp
+
+### 270060000000000055000020000000000000000000802567800690002100
+
+Điều 27.6.TT.5.21. Chuẩn hóa cơ sở dữ liệu nền địa lý cập nhật
+
+### 270060000000000055000020000000000000000000802567800690002200
+
+Điều 27.6.TT.5.22. Đồng bộ bản trích sao cơ sở dữ liệu nền địa lý cập nhật với cơ sở dữ liệu nền địa lý gốc
+
+### 270060000000000055000020000000000000000000802567800690002300
+
+Điều 27.6.TT.5.23. Tích hợp bản trích sao cơ sở dữ liệu nền địa lý cập nhật sau đồng bộ vào cơ sở dữ liệu nền địa lý gốc
+
+### 270060000000000055000020000000000000000000802567800690002400
+
+Điều 27.6.TT.5.24. Yêu cầu chung
+
+### 270060000000000055000020000000000000000000802567800690002500
+
+Điều 27.6.TT.5.25. Nội dung kiểm tra nghiệm thu, đóng gói sản phẩm cập nhật cơ sở dữ liệu nền địa lý
+
+### 270060000000000055000020000000000000000000802568000710000400
+
+Điều 27.6.TT.6.4. Xác định yêu cầu về dữ liệu viễn thám
+
+### 270060000000000055000020000000000000000000802568000710000500
+
+Điều 27.6.TT.6.5. Xây dựng đơn hàng đặt chụp ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802568000710000600
+
+Điều 27.6.TT.6.6. Đặt chụp ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802568000710000700
+
+Điều 27.6.TT.6.7. Xác nhận và chính xác hóa nội dung đơn hàng
+
+### 270060000000000055000020000000000000000000802568000710000800
+
+Điều 27.6.TT.6.8. Theo dõi việc thực hiện đơn hàng đặt chụp ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802568000710000900
+
+Điều 27.6.TT.6.9. Kiểm tra chất lượng ảnh viễn thám
+
+### 270060000000000055000020000000000000000000802621000090000400
+
+Điều 27.6.TT.10.4. Nội dungcơ sở dữ liệu viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090000500
+
+Điều 27.6.TT.10.5. Nguyên tắc chung xây dựng và cập nhật
+
+### 270060000000000055000020000000000000000000802621000090000600
+
+Điều 27.6.TT.10.6. Bảo đảm an toàn thông tin cho cơ sở dữ liệu viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090000700
+
+Điều 27.6.TT.10.7. Nội dung siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090000800
+
+Điều 27.6.TT.10.8. Định dạng của tệp tin siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090000900
+
+Điều 27.6.TT.10.9. Thu nhận siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090001000
+
+Điều 27.6.TT.10.10. Cấu trúc cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090001100
+
+Điều 27.6.TT.10.11. Tạo lập nội dung cơ sở dữ liệu siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090001200
+
+Điều 27.6.TT.10.12. Kiểm tra
+
+### 270060000000000055000020000000000000000000802621000090001300
+
+Điều 27.6.TT.10.13. Định dạng dữ liệu giao nộp về cơ sở dữ liệu ảnh viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090001400
+
+Điều 27.6.TT.10.14. Định dạng dữ liệu trong cơ sở dữ liệu ảnh viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090001500
+
+Điều 27.6.TT.10.15. Thu nhậndữ liệu ảnh viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090001600
+
+Điều 27.6.TT.10.16. Cấu trúc cơ sở dữ liệu ảnh viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090001700
+
+Điều 27.6.TT.10.17. Tạo lập nội dung cơ sở dữ liệu ảnh viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090001800
+
+Điều 27.6.TT.10.18. Kiểm tra
+
+### 270060000000000055000020000000000000000000802621000090001900
+
+Điều 27.6.TT.10.19. Cập nhật siêu dữ liệu viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090002000
+
+Điều 27.6.TT.10.20. Cập nhật dữ liệu ảnh viễn thám quốc gia
+
+### 270060000000000055000020000000000000000000802621000090002100
+
+Điều 27.6.TT.10.21. Trách nhiệm của Bộ Tài nguyên và Môi trường và cơ quan quản lý cơ sở dữ liệu viễn thám thuộc Bộ Tài nguyên và Môi trường
+
+### 270060000000000055000020000000000000000000802621000090002200
+
+Điều 27.6.TT.10.22. Trách nhiệm của Bộ, ngành và địa phương
+
+### 270060000000000055000020000000000000000000802670900130000400
+
+Điều 27.6.TT.12.4. Cơ sở toán học
+
+### 270060000000000055000020000000000000000000802670900130000500
+
+Điều 27.6.TT.12.5. Hình thức thể hiện bản đồ chuyên đề
+
+### 270060000000000055000020000000000000000000802670900130000600
+
+Điều 27.6.TT.12.6. Kỹ thuật thể hiện bản đồ chuyên đề
+
+### 270060000000000055000020000000000000000000802670900130000700
+
+Điều 27.6.TT.12.7. Các yếu tố nội dung bản đồ nền
+
+### 270060000000000055000020000000000000000000802670900130000800
+
+Điều 27.6.TT.12.8. Các yếu tố nội dung của lớp dữ liệu chuyên đề về nhiệt độ bề mặt nước biển
+
+### 270060000000000055000020000000000000000000802670900130000900
+
+Điều 27.6.TT.12.9. Các yếu tố nội dung của lớp dữ liệu chuyên đề về hàm lượng diệp lục bề mặt nước biển
+
+### 270060000000000055000020000000000000000000802670900130001000
+
+Điều 27.6.TT.12.10. Công tác chuẩn bị
+
+### 270060000000000055000020000000000000000000802670900130001100
+
+Điều 27.6.TT.12.11. Biên tập khoa học
+
+### 270060000000000055000020000000000000000000802670900130001200
+
+Điều 27.6.TT.12.12. Biên tập bản đồ nền
+
+### 270060000000000055000020000000000000000000802670900130001300
+
+Điều 27.6.TT.12.13. Thu nhận, xử lý dữ liệu viễn thám
+
+### 270060000000000055000020000000000000000000802670900130001400
+
+Điều 27.6.TT.12.14. Chiết xuất nội dung chuyên đề nhiệt độ bề mặt nước biển
+
+### 270060000000000055000020000000000000000000802670900130001500
+
+Điều 27.6.TT.12.15. Chiết xuất nội dung chuyên đề hàm lượng diệp lục bề mặt nước biển
+
+### 270060000000000055000020000000000000000000802670900130001600
+
+Điều 27.6.TT.12.16. Chuẩn hóa dữ liệu dẫn xuất, tích hợp, phân tích, xử lý tổng hợp dữ liệu và biên tập, trình bày bản đồ chuyên đề
+
+### 270060000000000055000020000000000000000000802670900130001700
+
+Điều 27.6.TT.12.17. Xây dựng báo cáo thuyết minh bản đồ chuyên đề
+
+### 270060000000000055000020000000000000000000802670900130001800
+
+Điều 27.6.TT.12.18. Kiểm tra nghiệm thu sản phẩm
+
+### 270060000000000055000020000000000000000000802670900130001900
+
+Điều 27.6.TT.12.19. Giao nộp và lưu trữ sản phẩm
+
+### 2700600000000000550000300000000000000000
+
+Mục 3 ĐỊNH MỨC - KINH TẾ KỸ THUẬT
+
+### 270060000000000055000030000000000000000000802414800370000100
+
+Điều 27.6.TT.1.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề tỷ lệ 1:25.000, 1:50.000, 1:100.000, 1:250.000 bằng tư liệu ảnh vệ tinh.
+
+### 270060000000000055000030000000000000000000802696900070000100
+
+Điều 27.6.TT.13.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật Đo khống chế ảnh viễn thám.
+
+### 270060000000000055000030000000000000000000802696900080000100
+
+Điều 27.6.TT.14.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật thành lập bản đồ chuyên đề bằng ảnh viễn thám tỷ lệ 1:5.000, 1:10.000, 1:500.000, 1:1.000.000.
+
+### 270060000000000055000030000000000000000000802696900090000100
+
+Điều 27.6.TT.15.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật Công bố siêu dữ liệu viễn thám quốc gia.
+
+### 270060000000000055000030000000000000000000802700000120000100
+
+Điều 27.6.TT.16.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật vận hành trạm thu dữ liệu viễn thám.
+
+### 270060000000000055000030000000000000000000802745200130000100
+
+Điều 27.6.TT.17.1. Ban hành kèm theo Thông tư này Định mức kinh tế - kỹ thuật kiểm tra, nghiệm thu sản phẩm viễn thám.
+
+### 270060000000000055000030000000000000000000802806000050000100
+
+Điều 27.6.TT.18.1.
+
+### 27006000000000006000
+
+Chương VII HIỆU LỰC THI HÀNH VÀ TỔ CHỨC THỰC HIỆN
+
+### 2700600000000000600003200000000000000000
+
+Điều 27.6.NĐ.32. Hiệu lực thi hành
+
+### 2700600000000000600003300000000000000000
+
+Điều 27.6.NĐ.33. Tổ chức thực hiện
+
+### 2700600000000000600003350238430081000140
+
+Điều 27.6.QĐ.1.14. Quy định về dữ liệu viễn thám quốc gia có trước ngày Quyết định này có hiệu lực
+
+### 2700600000000000600003350238430081000150
+
+Điều 27.6.QĐ.1.15. Hiệu lực thi hành
+
+### 2700600000000000600003350238430081000160
+
+Điều 27.6.QĐ.1.16. Tổ chức thực hiện
+
+### 2700600000000000600003350238430081000170
+
+Điều 27.6.QĐ.1.17. Hiệu lực thi hành
+
+### 2700600000000000600003350238430081000180
+
+Điều 27.6.QĐ.1.18. Trách nhiệm tổ chức thực hiện
+
+### 2700600000000000600003380241480037000020
+
+Điều 27.6.TT.1.2. Thông tư này có hiệu lực thi hành kể từ ngày 30 tháng 11 năm 2011.
+
+### 2700600000000000600003380241480037000030
+
+Điều 27.6.TT.1.3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Cục trưởng Cục Đo đạc và Bản đồ Việt Nam, Giám đốc Trung tâm Viễn thám quốc gia, Thủ trưởng các đơn vị trực thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+### 2700600000000000600003380241480037000040
+
+Điều 27.6.TT.1.4. Khi áp dụng Định mức kinh tế - kỹ thuật này, nếu có vướng mắc hoặc phát hiện bất hợp lý, đề nghị phản ánh về Bộ Tài nguyên và Môi trường để nghiên cứu sửa đổi, bổ sung cho phù hợp./.
+
+### 2700600000000000600003380243550005000380
+
+Điều 27.6.TT.2.38. Hiệu lực thi hành và tổ chức thực hiện
+
+### 2700600000000000600003380254060010000320
+
+Điều 27.6.TT.3.32. Hiệu lực thi hành
+
+### 2700600000000000600003380254060010000330
+
+Điều 27.6.TT.3.33. Tổ chức thực hiện
+
+### 2700600000000000600003380255120039000240
+
+Điều 27.6.TT.4.24. Hiệu lực thi hành
+
+### 2700600000000000600003380255120039000250
+
+Điều 27.6.TT.4.25. Tổ chức thực hiện
+
+### 2700600000000000600003380256780069000260
+
+Điều 27.6.TT.5.26. Hiệu lực thi hành và tổ chức thực hiện
+
+### 2700600000000000600003380256800071000100
+
+Điều 27.6.TT.6.10. Hiệu lực thi hành
+
+### 2700600000000000600003380256800071000110
+
+Điều 27.6.TT.6.11. Tổ chức thực hiện
+
+### 2700600000000000600003380260200035000100
+
+Điều 27.6.TT.7.10. Hiệu lực thi hành
+
+### 2700600000000000600003380260200035000110
+
+Điều 27.6.TT.7.11. Tổ chức thực hiện
+
+### 2700600000000000600003380260520052000020
+
+Điều 27.6.TT.8.2. Thông tư này có hiệu lực kể từ ngày 16 tháng 02 năm 2017.
+
+### 2700600000000000600003380260520052000030
+
+Điều 27.6.TT.8.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Cục trưởng Cục Viễn thám quốc gia, Thủ trưởng các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Giám đốc Sở Tài nguyên và Môi trường các tỉnh, thành phố thuộc Trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+### 2700600000000000600003380262100008000140
+
+Điều 27.6.TT.9.14. Hiệu lực thi hành
+
+### 2700600000000000600003380262100008000150
+
+Điều 27.6.TT.9.15. Tổ chức thực hiện
+
+### 2700600000000000600003380262100009000230
+
+Điều 27.6.TT.10.23. Hiệu lực thi hành
+
+### 2700600000000000600003380262100009000240
+
+Điều 27.6.TT.10.24. Trách nhiệm thực hiện
+
+### 2700600000000000600003380262100010000190
+
+Điều 27.6.TT.11.19. Hiệu lực thi hành
+
+### 2700600000000000600003380262100010000200
+
+Điều 27.6.TT.11.20. Tổ chức thực hiện
+
+### 2700600000000000600003380267090013000200
+
+Điều 27.6.TT.12.20. Hiệu lực thi hành
+
+### 2700600000000000600003380267090013000210
+
+Điều 27.6.TT.12.21. Tổ chức thực hiện
+
+### 2700600000000000600003380269690007000020
+
+Điều 27.6.TT.13.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
+
+### 2700600000000000600003380269690007000030
+
+Điều 27.6.TT.13.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+### 2700600000000000600003380269690008000020
+
+Điều 27.6.TT.14.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
+
+### 2700600000000000600003380269690008000030
+
+Điều 27.6.TT.14.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+### 2700600000000000600003380269690009000020
+
+Điều 27.6.TT.15.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2019.
+
+### 2700600000000000600003380269690009000030
+
+Điều 27.6.TT.15.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+### 2700600000000000600003380270000012000020
+
+Điều 27.6.TT.16.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 9 năm 2019.
+
+### 2700600000000000600003380270000012000030
+
+Điều 27.6.TT.16.3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các đơn vị trực thuộc Bộ Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+### 2700600000000000600003380274520013000020
+
+Điều 27.6.TT.17.2. Hiệu lực thi hành
+
+### 2700600000000000600003380274520013000030
+
+Điều 27.6.TT.17.3. Điều khoản chuyển tiếp
+
+### 2700600000000000600003380274520013000040
+
+Điều 27.6.TT.17.4. Tổ chức thực hiện
+
+### 2700600000000000600003380280600005000020
+
+Điều 27.6.TT.18.2. Hiệu lực thi hành
+
+### 2700600000000000600003380280600005000030
+
+Điều 27.6.TT.18.3.
+

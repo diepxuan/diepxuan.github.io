@@ -1,4001 +1,5313 @@
 ---
-layout: default
+layout: page
 title: Trồng trọt
 permalink: /van-ban/nong-nghiep-nong-thon/trong-trot/
-collection: subtopics
-slug: trong-trot
-parent: nong-nghiep-nong-thon
 ---
 
 # Trồng trọt
 
-**Đề mục:** Trồng trọt  
-**Chủ đề:** [Nông nghiệp, nông thôn](/nong-nghiep-nong-thon/)  
-**Số điều khoản:** 332  
-**Điều khoản có nội dung:** 113/305 (37.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 24.4.LQ.1. Phạm vi điều chỉnh
+Điều 24.4.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 31/2018/QH14 Trồng trọt ngày 19/11/2018 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2020 )
 
-**Chỉ mục:** 1
+ Luật này quy định về hoạt động trồng trọt; quyền và nghĩa vụ của tổ chức, cá nhân hoạt động trồng trọt; quản lý nhà nước về trồng trọt.Điều 24.4.NĐ.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 2400400000000000100000100000000000000000
+(Điều 1 Nghị định số 109/2018/NĐ-CP Nông nghiệp hữu cơ ngày 29/08/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 16/10/2018 )
 
-**ID:** dk_00037292
+1. Nghị định này quy định về sản xuất, chứng nhận, ghi nhãn, lô gô, truy xuất nguồn gốc, kinh doanh, kiểm tra nhà nước sản phẩm nông nghiệp hữu cơ trong các lĩnh vực trồng trọt, chăn nuôi, lâm nghiệp và nuôi trồng thủy sản và chính sách khuyến khích phát triển sản xuất nông nghiệp hữu cơ.
 
----
+2. Sản xuất, kinh doanh sản phẩm nông nghiệp hữu cơ được khuyến khích áp dụng.
 
+Điều 24.4.NĐ.1.2. Đối tượng áp dụng
 
-### Điều 24.4.NĐ.1.1. Phạm vi điều chỉnh
+(Điều 2 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-*Nội dung chưa có sẵn*
+Nghị định này áp dụng đối với doanh nghiệp, hợp tác xã, tổ hợp tác, trang trại, hộ gia đình hoặc nhóm hộ sản xuất, kinh doanh sản phẩm nông nghiệp hữu cơ (gọi tắt là cơ sở); tổ chức, cá nhân có hoạt động liên quan đến sản xuất, kinh doanh sản phẩm nông nghiệp hữu cơ trên lãnh thổ Việt Nam.
 
-**Chỉ mục:** 1
+Điều 24.4.NĐ.2.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 2400400000000000100000140266590109000010
+(Điều 1 Nghị định số 94/2019/NĐ-CP Quy định chi tiết một số điều của Luật Trồng trọt về giống cây trồng và canh tác ngày 13/12/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/02/2020 )
 
-**ID:** dk_00037293
+1. Nghị định này quy định chi tiết khoản 2 Điều 12, khoản 8 Điều 15, khoản 3 Điều 16, khoản 3 Điều 17, khoản 4 Điều 21, khoản 3 Điều 22, khoản 7 Điều 24, khoản 3 Điều 27, khoản 3 Điều 28, khoản 5 Điều 29, khoản 2 Điều 56, khoản 3 Điều 57 của Luật Trồng trọt.
 
----
+2. Nội dung về canh tác hữu cơ quy định tại khoản 5 Điều 69 của Luật Trồng trọt được thực hiện theo Nghị định số 109/2018/NĐ-CP ngày 29 tháng 8 năm 2018 của Chính phủ về Nông nghiệp hữu cơ.
 
+Điều 24.4.TT.35.1. Phạm vi điều chỉnh
 
-### Điều 24.4.NĐ.1.2. Đối tượng áp dụng
+(Điều 1 Thông tư số 16/2019/TT-BNNPTNT Quy định chi tiết một số điều của Nghị định số 109/2018/NĐ-CP ngày 29 tháng 8 năm 2018 của Chính phủ về nông nghiệp hữu cơ ngày 01/11/2019 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 18/12/2019 )
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định chi tiết một số điều của Nghị định số 109/2018/NĐ-CP ngày 29/8/2018 của Chính phủ về nông nghiệp hữu cơ (sau đây gọi là Nghị định số 109/2018/NĐ-CP) gồm các nội dung sau:
 
-**Chỉ mục:** 2
+1. Cơ quan tiếp nhận hồ sơ, cấp số đăng ký của Tổ chức chứng nhận sản phẩm nông nghiệp hữu cơ.
 
-**Mã phân cấp:** 2400400000000000100000140266590109000020
+2. Đánh giá để cấp và giám sát sau khi cấp Giấy chứng nhận sản phẩm phù hợp tiêu chuẩn quốc gia (TCVN) về nông nghiệp hữu cơ của Tổ chức chứng nhận.
 
-**ID:** dk_00037294
+3. Quy định về lấy mẫu và thử nghiệm mẫu sản phẩm nông nghiệp hữu cơ.
 
----
+4. Kiểm tra chất lượng, thu hồi và xử lý sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn.
 
+Điều 24.4.TT.35.2. Đối tượng áp dụng
 
-### Điều 24.4.NĐ.2.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
 
-*Nội dung chưa có sẵn*
+Thông tư này áp dụng đối với các tổ chức, cá nhân có hoạt động liên quan đến sản xuất, kinh doanh, chứng nhận sản phẩm nông nghiệp hữu cơ trên lãnh thổ Việt Nam.
 
-**Chỉ mục:** 1
+Điều 24.4.TT.37.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 2400400000000000100000140271300094000010
+(Điều 1 Thông tư số 18/2019/TT-BNNPTNT Quy định việc cung cấp thông tin, cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt ngày 15/11/2019 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 01/01/2020 )
 
-**ID:** dk_00037295
+Thông tư này quy định việc cung cấp thông tin, cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt bao gồm: Cơ sở dữ liệu về giống cây trồng; phân bón; sản xuất trồng trọt; đất trồng trọt; chế biến và thị trường sản phẩm trồng trọt; văn bản quy phạm pháp luật về trồng trọt; văn bản chỉ đạo điều hành liên quan đến trồng trọt; kết quả nghiên cứu khoa học và phát triển công nghệ; tiêu chuẩn, quy chuẩn kỹ thuật trồng trọt.
 
----
+Điều 24.4.TT.37.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-### Điều 24.4.TT.35.1. Phạm vi điều chỉnh
+Thông tư này áp dụng đối với tổ chức, cá nhân có hoạt động liên quan tới nội dung quy định tại Điều 1 Thông tư này.
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.38.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 19/2019/TT-BNNPTNT Quy định việc thu gom, xử lý, sử dụng phụ phẩm cây trồng ngày 15/11/2019 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 01/01/2020 )
 
-**Mã phân cấp:** 2400400000000000100000180270880016000010
+Thông tư này quy định về thu gom, xử lý, sử dụng phụ phẩm cây trồng tại khu vực canh tác của cây trồng nông nghiệp, cây cảnh, nấm ăn.
 
-**ID:** dk_00037296
+Điều 24.4.TT.38.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+Thông tư này áp dụng đối với tổ chức, hộ gia đình, cá nhân có hoạt động liên quan đến các nội dung được quy định tại Điều 1 Thông tư này.
 
-### Điều 24.4.TT.35.2. Đối tượng áp dụng
+Điều 24.4.TT.39.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 26/2019/TT-BNNPTNT Quy định về lưu mẫu giống cây trồng; kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng; kiểm tra nhà nước về chất lượng giống cây trồng nhập khẩu ngày 27/12/2019 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 10/02/2020 )
 
-**Chỉ mục:** 2
+Thông tư này quy định việc lưu mẫu giống cây trồng khi đăng ký cấp Quyết định công nhận lưu hành, đăng ký cấp Quyết định công nhận lưu hành đặc cách giống cây trồng; kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng; kiểm tra nhà nước về chất lượng vật liệu nhân giống cây trồng nhập khẩu.
 
-**Mã phân cấp:** 2400400000000000100000180270880016000020
+Điều 24.4.TT.39.2. Đối tượng áp dụng
 
-**ID:** dk_00037297
+(Điều 2 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
----
+Thông tư này áp dụng đối với tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài có hoạt động liên quan đến nội dung quy định tại Điều 1 Thông tư này.
 
+Điều 24.4.LQ.2. Giải thích từ ngữ
 
-### Điều 24.4.TT.37.1. Phạm vi điều chỉnh
+(Điều 2 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 1
+ 1.* Trồng trọt* là ngành kinh tế - kỹ thuật trong nông nghiệp có liên quan đến việc gieo trồng cây nông nghiệp, cây cảnh và nấm ăn để phục vụ mục đích của con người.
 
-**Mã phân cấp:** 2400400000000000100000180271020018000010
+ 2.* Hoạt động**trồng trọt* bao gồm hoạt động về giống cây trồng; phân bón; canh tác; thu hoạch, sơ chế, bảo quản, chế biến, thương mại và quản lý chất lượng sản phẩm cây trồng.
 
-**ID:** dk_00037298
+ 3.* Canh tác *là quá trình con người sử dụng tài nguyên thiên nhiên, trang thiết bị, vật tư nông nghiệp và áp dụng quy trình sản xuất để tạo ra các sản phẩm cây trồng khác nhau.
 
----
+ 4.* Sản phẩm cây trồng* là bộ phận thu hoạch của cây nông nghiệp, cây cảnh và nấm ăn.
 
+ 5. *Giống cây trồng* là một quần thể cây trồng có thể phân biệt được với quần thể cây trồng khác thông qua sự biểu hiện của ít nhất là một đặc tính và di truyền được cho đời sau; đồng nhất về hình thái, ổn định qua các chu kỳ nhân giống; có giá trị canh tác, giá trị sử dụng; bao gồm giống cây nông nghiệp, giống cây dược liệu, giống cây cảnh và giống nấm ăn.
 
-### Điều 24.4.TT.37.2. Đối tượng áp dụng
+ 6.* Vật liệu nhân giống* là cây hoặc bộ phận của cây, nấm ăn hoặc bộ phận của nấm ăn có thể phát triển thành một cá thể mới, dùng để nhân giống hoặc để gieo trồng.
 
-*Nội dung chưa có sẵn*
+ 7.* Loài cây trồng chính* là loài cây được trồng phổ biến, có tầm quan trọng trong phát triển kinh tế, cần được quản lý chặt chẽ.
 
-**Chỉ mục:** 2
+ 8.* Cây hằng năm *là loại cây được gieo trồng, cho thu hoạch và kết thúc chu kỳ sản xuất trong thời gian không quá 01 năm, kể cả cây hằng năm lưu gốc.
 
-**Mã phân cấp:** 2400400000000000100000180271020018000020
+ 9.* Cây trồng lâu năm *là loại cây được gieo trồng một lần, sinh trưởng trong nhiều năm và cho thu hoạch một hoặc nhiều lần.
 
-**ID:** dk_00037299
+ 10. *Tính khác biệt của giống cây trồng* là khả năng phân biệt rõ ràng của một giống cây trồng với các giống cây trồng được biết đến rộng rãi.
 
----
+ 11.* Tính đồng nhất của giống cây trồng* là sự biểu hiện giống nhau của giống cây trồng về các tính trạng liên quan, trừ những sai lệch trong phạm vi cho phép đối với một số tính trạng cụ thể trong quá trình nhân giống.
 
+ 12. *Tính ổn định của giống cây trồng *là sự biểu hiện ổn định của các tính trạng liên quan như mô tả ban đầu, không bị thay đổi sau mỗi vụ nhân giống hoặc sau mỗi chu kỳ nhân giống trong trường hợp nhân giống theo chu kỳ.
 
-### Điều 24.4.TT.38.1. Phạm vi điều chỉnh
+ 13. *Khảo nghiệm**giống cây trồng* là hoạt động theo dõi, đánh giá các chỉ tiêu xác định tính khác biệt, tính đồng nhất, tính ổn định, giá trị canh tác, giá trị sử dụng của giống cây trồng theo phương pháp nhất định.
 
-*Nội dung chưa có sẵn*
+ 14. *Khảo nghiệm có kiểm soát* là khảo nghiệm giống cây trồng trong môi trường nhân tạo để giống cây trồng thể hiện đầy đủ đặc tính chống chịu sinh vật gây hại, điều kiện bất thuận.
 
-**Chỉ mục:** 1
+ 15.* Khảo nghiệm phân bón* là hoạt động theo dõi, đánh giá các chỉ tiêu nhằm xác định phương thức sử dụng, tác động đến môi trường, hiệu quả nông học, hiệu quả kinh tế của phân bón.
 
-**Mã phân cấp:** 2400400000000000100000180271020019000010
+ 16. *Khảo nghiệm diện hẹp *là khảo nghiệm được tiến hành trên đồng ruộng, diện tích ô nhỏ, có lặp lại, bố trí thí nghiệm theo tiêu chuẩn quốc gia về phương pháp khảo nghiệm đối với đối tượng được khảo nghiệm.
 
-**ID:** dk_00037300
+ 17.* Khảo nghiệm diện rộng *là khảo nghiệm được tiến hành trên đồng ruộng, diện tích ô lớn, không lặp lại, bố trí thí nghiệm theo tiêu chuẩn quốc gia về phương pháp khảo nghiệm đối với đối tượng được khảo nghiệm.
 
----
+ 18. *Cây đầu dòng *là cây tốt nhất được bình tuyển và công nhận từ quần thể của một giống cây trồng.
 
+ 19. *Vườn cây đầu dòng *là vườn cây được nhân từ cây đầu dòng hoặc vườn cây do tổ chức, cá nhân thiết lập được thẩm định và công nhận.
 
-### Điều 24.4.TT.38.2. Đối tượng áp dụng
+ 20. *Phân bón* là sản phẩm có chức năng cung cấp chất dinh dưỡng hoặc có tác dụng cải tạo đất để tăng năng suất, chất lượng cho cây trồng.
 
-*Nội dung chưa có sẵn*
+ 21.* Chỉ tiêu chất lượng phân bón* là thông số kỹ thuật về đặc tính, thành phần, hàm lượng phản ánh chất lượng phân bón được quy định trong quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng tương ứng.
 
-**Chỉ mục:** 2
+ 22.* Nguyên tố dinh dưỡng trong phân bón* là nguyên tố hóa học cần thiết cho sự sinh trưởng và phát triển của cây trồng.(Điều này có nội dung liên quan đến Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai)
 
-**Mã phân cấp:** 2400400000000000100000180271020019000020
+Điều 24.4.NĐ.1.3. Giải thích từ ngữ
 
-**ID:** dk_00037301
+(Điều 3 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
----
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
+1. Nông nghiệp hữu cơ là hệ thống sản xuất bảo vệ tài nguyên đất, hệ sinh thái và sức khỏe con người, dựa vào các chu trình sinh thái, đa dạng sinh học thích ứng với điều kiện tự nhiên, không sử dụng các yếu tố gây tác động tiêu cực đến môi trường sinh thái; là sự kết hợp kỹ thuật truyền thống và tiến bộ khoa học để làm lợi cho môi trường chung, tạo mối quan hệ công bằng và cuộc sống cân bằng cho mọi đối tượng trong hệ sinh thái.
 
-### Điều 24.4.TT.39.1. Phạm vi điều chỉnh
+2. Sản xuất nông nghiệp hữu cơ (gọi tắt là sản xuất hữu cơ) là hệ thống quá trình sản xuất, sơ chế, chế biến, bao gói, vận chuyển, bảo quản phù hợp với tiêu chuẩn nông nghiệp hữu cơ.
 
-*Nội dung chưa có sẵn*
+3. Sản phẩm nông nghiệp hữu cơ (gọi tắt là sản phẩm hữu cơ) là thực phẩm, dược liệu (bao gồm thuốc dược liệu, thuốc cổ truyền), mỹ phẩm và sản phẩm khác hoặc giống cây trồng, vật nuôi; thức ăn chăn nuôi, thức ăn thủy sản được sản xuất, chứng nhận và ghi nhãn phù hợp theo quy định tại Nghị định này.
 
-**Chỉ mục:** 1
+4. Tiêu chuẩn nông nghiệp hữu cơ dùng để chứng nhận hợp chuẩn là tiêu chuẩn quốc gia (TCVN) về nông nghiệp hữu cơ hoặc tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài được áp dụng trong sản xuất sản phẩm hữu cơ.
 
-**Mã phân cấp:** 2400400000000000100000180271440026000010
+5. Chứng nhận sản phẩm hữu cơ là hoạt động đánh giá và xác nhận sản phẩm được sản xuất phù hợp với tiêu chuẩn nông nghiệp hữu cơ do tổ chức chứng nhận (bên thứ ba) thực hiện.
 
-**ID:** dk_00037302
+Điều 24.4.TT.38.3. Giải thích từ ngữ
 
----
+(Điều 3 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 24.4.TT.39.2. Đối tượng áp dụng
+1. Phụ phẩm cây trồng là sản phẩm phụ phát sinh trong quá trình tiến hành hoạt động chăm sóc, thu hoạch, sơ chế sản phẩm cây trồng tại khu vực canh tác cây trồng;
 
-*Nội dung chưa có sẵn*
+2. Xử lý phụ phẩm cây trồng là việc áp dụng giải pháp công nghệ hoặc biện pháp kỹ thuật phù hợp làm tăng hiệu quả sử dụng; không làm ô nhiễm môi trường, lan truyền sinh vật gây hại.
 
-**Chỉ mục:** 2
+Điều 24.4.LQ.3. Nguyên tắc hoạt động trồng trọt
 
-**Mã phân cấp:** 2400400000000000100000180271440026000020
+(Điều 3 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037303
+ 1. Phát triển sản xuất theo chuỗi giá trị, gắn với định hướng thị trường, phù hợp với chiến lược phát triển trồng trọt, quy hoạch, kế hoạch sử dụng đất và các nguồn tài nguyên khác; tạo điều kiện thuận lợi để phát triển hợp tác, liên kết sản xuất, xây dựng vùng sản xuất hàng hóa tập trung, sản xuất có hợp đồng, sản xuất được chứng nhận chất lượng; bảo đảm an ninh lương thực; bảo đảm hài hòa giữa lợi ích của Nhà nước với lợi ích của tổ chức, cá nhân.
 
----
+ 2. Sử dụng hiệu quả, tiết kiệm, bền vững tài nguyên thiên nhiên, cơ sở hạ tầng; sử dụng an toàn và hiệu quả các loại vật tư nông nghiệp.
 
+ 3. Tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật về chất lượng môi trường đất, nước, quy trình sản xuất; bảo đảm an toàn thực phẩm, an toàn sinh học, an toàn dịch bệnh và bảo vệ môi trường.
 
-### Điều 24.4.LQ.2. Giải thích từ ngữ
+ 4. Phát huy lợi thế vùng, gắn với bảo tồn giống cây trồng đặc sản, giống cây trồng bản địa; bảo vệ hệ thống canh tác bền vững, di sản, cảnh quan, văn hóa trong nông nghiệp gắn với phát triển du lịch sinh thái và xây dựng nông thôn mới.
 
-*Nội dung chưa có sẵn*
+ 5. Chủ động dự báo, phòng, chống thiên tai và sinh vật gây hại cây trồng; thích ứng với biến đổi khí hậu.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000100000200000000000000000
-
-**ID:** dk_00037304
-
----
-
-
-### Điều 24.4.NĐ.1.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000100000240266590109000030
-
-**ID:** dk_00037305
-
----
-
-
-### Điều 24.4.TT.38.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000100000280271020019000030
-
-**ID:** dk_00037306
-
----
-
-
-### Điều 24.4.LQ.3. Nguyên tắc hoạt động trồng trọt
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000100000300000000000000000
-
-**ID:** dk_00037307
-
----
-
-
-### Điều 24.4.LQ.4. Chính sách của Nhà nước về hoạt động trồng trọt
+ 6. Đáp ứng yêu cầu hội nhập quốc tế; tuân thủ điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.(Điều này có nội dung liên quan đến Điều 45.1.LQ.10. Điều kiện chung về bảo đảm an toàn đối với thực phẩm; Điều 45.1.LQ.15. Điều kiện bảo đảm an toàn đối với thực phẩm biến đổi gen; Điều 45.1.LQ.19. Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm; Điều 45.1.LQ.22. Điều kiện bảo đảm an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm nhỏ lẻ; Điều 45.1.LQ.34. Đối tượng, điều kiện cấp, thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; Điều 45.1.LQ.35. Thẩm quyền cấp, thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; Điều 45.1.LQ.36. Hồ sơ, trình tự, thủ tục cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; Điều 45.1.LQ.37. Thời hạn hiệu lực của Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm)
 
 Điều 24.4.LQ.4. Chính sách của Nhà nước về hoạt động trồng trọt
 
-**Chỉ mục:** 4
+(Điều 4 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 2400400000000000100000400000000000000000
+ 1. Nhà nước đầu tư cho các hoạt động sau đây:
 
-**ID:** dk_00037308
+ a) Thống kê, điều tra, xây dựng cơ sở dữ liệu về hoạt động trồng trọt; thông tin và dự báo thị trường; xây dựng chiến lược phát triển trồng trọt; xây dựng tiêu chuẩn, quy chuẩn kỹ thuật về hoạt động trồng trọt;
 
----
+ b) Xây dựng, nâng cấp cơ sở vật chất, trang thiết bị cho tổ chức khoa học và công nghệ công lập phục vụ nghiên cứu chính sách, nghiên cứu cơ bản trong lĩnh vực trồng trọt;
 
+ c) Hoạt động khoa học và công nghệ quy định tại điểm a và điểm b khoản 2 Điều 6 của Luật này;
 
-### Điều 24.4.LQ.5. Chiến lược phát triển trồng trọt
+ d) Đào tạo nguồn nhân lực về khuyến nông cho vùng có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn.
 
-*Nội dung chưa có sẵn*
+ 2. Trong từng thời kỳ và khả năng của ngân sách nhà nước, Nhà nước hỗ trợ cho các hoạt động sau đây:
 
-**Chỉ mục:** 5
+ a) Liên kết sản xuất, hình thành các vùng sản xuất hàng hóa tập trung, canh tác hữu cơ; chuyển đổi cơ cấu cây trồng; canh tác trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển, đất có nguy cơ sa mạc hóa, hoang mạc hóa; phát triển vùng nguyên liệu phục vụ nhà máy chế biến; quản lý vùng trồng và truy xuất nguồn gốc;
 
-**Mã phân cấp:** 2400400000000000100000500000000000000000
+ b) Hoạt động khoa học và công nghệ quy định tại điểm c khoản 2 Điều 6 của Luật này;
 
-**ID:** dk_00037309
+ c) Áp dụng hệ thống quản lý chất lượng tiên tiến, hoạt động chứng nhận sản phẩm cây trồng;
 
----
+ d) Xây dựng cơ sở hạ tầng, phân tích, đánh giá điều kiện sản xuất ban đầu trong trồng trọt, đánh giá nông hóa, thổ nhưỡng phục vụ sản xuất hàng hóa tập trung; xây dựng cơ sở hạ tầng phục vụ bảo quản, chế biến; sản xuất phân bón hữu cơ, chế phẩm sinh học; canh tác hữu cơ; cơ giới hóa; phòng thử nghiệm quốc gia và kiểm nghiệm liên phòng quốc tế;
 
+ đ) Sản xuất lúa theo quy hoạch;
 
-### Điều 24.4.LQ.6. Hoạt động khoa học và công nghệ trong trồng trọt
+ e) Sản xuất giống siêu nguyên chủng, giống nguyên chủng, giống bố mẹ để sản xuất hạt lai F1, giống gốc và giống thương phẩm mới; phục tráng giống cây trồng đặc sản, giống cây trồng bản địa; duy trì cây đầu dòng; bảo vệ và phát triển vườn cây đầu dòng; nhập khẩu giống mới, chuyển nhượng bản quyền đối với giống cây trồng;
 
-Điều 24.4.LQ.6. Hoạt động khoa học và công nghệ trong trồng trọt
+ g) Xây dựng chợ đầu mối sản phẩm cây trồng; xây dựng thương hiệu, xúc tiến thương mại, phát triển thị trường tiêu thụ sản phẩm cây trồng;
 
-**Chỉ mục:** 6
+ h) Khôi phục sản xuất trong trường hợp bị thiên tai, dịch bệnh;
 
-**Mã phân cấp:** 2400400000000000100000600000000000000000
+ i) Đào tạo nguồn nhân lực; chuyển giao tiến bộ khoa học kỹ thuật, khuyến nông trong trồng trọt.
 
-**ID:** dk_00037310
+ 3. Nhà nước khuyến khích tổ chức, cá nhân đầu tư cho hoạt động quy định tại khoản 1, khoản 2 Điều này và các hoạt động sau đây:
 
----
+ a) Hợp tác, liên kết trong nghiên cứu phát triển, kinh doanh, cung cấp dịch vụ kỹ thuật, chuyển giao công nghệ và hoạt động liên quan trong trồng trọt;
 
+ b) Xã hội hóa dịch vụ công trong trồng trọt; nâng cao năng lực hoạt động đánh giá sự phù hợp;
 
-### Điều 24.4.LQ.7. Hợp tác quốc tế về trồng trọt
+ c) Bảo hiểm nông nghiệp trong trồng trọt;
 
-*Nội dung chưa có sẵn*
+ d) Canh tác hữu cơ, canh tác kết hợp du lịch sinh thái, bảo vệ cảnh quan, văn hóa, lịch sử ở khu vực nông thôn;
 
-**Chỉ mục:** 7
+ đ) Sử dụng phân bón hữu cơ.(Điều này có nội dung liên quan đến Chương III XÂY DỰNG, BAN HÀNH VÀ ÁP DỤNG QUY CHUẨN KỸ THUẬT; Chương II XÂY DỰNG, CÔNG BỐ VÀ ÁP DỤNG TIÊU CHUẨN; Điều 45.4.LQ.7. Chính sách của Nhà nước về dược; Điều 45.4.LQ.8. Lĩnh vực ưu tiên trong phát triển công nghiệp dược; Điều 45.4.LQ.10. Trách nhiệm trong phát triển công nghiệp dược; Điều 24.10.NĐ.1.3. Nguyên tắc hỗ trợ; Điều 24.10.NĐ.1.4. Điều kiện hỗ trợ; Điều 24.10.NĐ.1.5. Mức hỗ trợ; Điều 24.10.NĐ.1.6. Trình tự, thủ tục hỗ trợ; Điều 45.4.NĐ.2.5. Hỗ trợ sản xuất giống dược liệu; Điều 45.4.NĐ.2.6. Hỗ trợ áp dụng công nghệ nuôi trồng và khai thác dược liệu tuân thủ Thực hành nuôi trồng, khai thác dược liệu tốt; Điều 45.4.NĐ.2.7. Hỗ trợ nuôi trồng dược liệu tập trung; Điều 45.4.NĐ.2.8. Chính sách ưu đãi về đất đai; Điều 45.4.NĐ.2.9. Điều kiện được hỗ trợ đầu tư; Điều 45.1.QĐ.12.4. Điều kiện đối với tổ chức, cá nhân; Điều 45.1.QĐ.12.5. Một số chính sách; Điều 19.3.QĐ.8.1. Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển; Điều 45.1.TT.42.1. Sản phẩm nông nghiệp, thủy sản được lựa chọn vào Danh mục sản phẩm được hỗ trợ theo Quyết định số 01/2012/QĐ-TTg khi đáp ứng 02 điều kiện sau; Điều 45.1.TT.57.1. Phạm vi điều chỉnh)
 
-**Mã phân cấp:** 2400400000000000100000700000000000000000
+Điều 24.4.LQ.5. Chiến lược phát triển trồng trọt
 
-**ID:** dk_00037311
+(Điều 5 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+ 1. Chiến lược phát triển trồng trọt được xây dựng cho chu kỳ 10 năm, định hướng 20 năm; phù hợp với chiến lược phát triển kinh tế - xã hội, quy hoạch, kế hoạch có liên quan.
 
+ 2. Chiến lược phát triển trồng trọt xác định quan điểm, nguyên tắc chỉ đạo, tầm nhìn, mục tiêu, nhiệm vụ, giải pháp và tổ chức thực hiện nhiệm vụ phát triển trồng trọt trên phạm vi toàn quốc.
 
-### Điều 24.4.LQ.8. Cơ sở dữ liệu quốc gia về trồng trọt
+ 3. Bộ Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh xây dựng, trình Thủ tướng Chính phủ phê duyệt Chiến lược phát triển trồng trọt.Điều 24.4.LQ.6. Hoạt động khoa học và công nghệ trong trồng trọt
 
-Điều 24.4.LQ.8. Cơ sở dữ liệu quốc gia về trồng trọt
+(Điều 6 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 8
+ 1. Hoạt động khoa học và công nghệ trong trồng trọt được thực hiện theo quy định của Luật này, pháp luật về khoa học và công nghệ, chuyển giao công nghệ.
 
-**Mã phân cấp:** 2400400000000000100000800000000000000000
+ 2. Hoạt động khoa học và công nghệ trong trồng trọt được Nhà nước đầu tư hoặc hỗ trợ đầu tư bao gồm:
 
-**ID:** dk_00037312
+ a) Nghiên cứu cơ chế, chính sách trong trồng trọt; chọn, tạo giống cây trồng chất lượng cao, chống chịu sinh vật gây hại và thích ứng với biến đổi khí hậu; khai thác sinh vật có ích; phát triển phân bón hữu cơ, chế phẩm sinh học, kỹ thuật canh tác và bảo vệ môi trường trong trồng trọt; nghiên cứu khoa học đất và dinh dưỡng cây trồng, công nghệ sau thu hoạch;
 
----
+ b) Thu thập, lưu giữ, bảo tồn và khai thác nguồn gen giống cây trồng quý, hiếm, giống cây trồng đặc sản, giống cây trồng bản địa; xây dựng ngân hàng gen cây trồng;
 
+ c) Nghiên cứu phát triển và ứng dụng công nghệ cao, công nghệ tiên tiến, công nghệ mới trong canh tác, bảo quản và chế biến; canh tác hữu cơ, canh tác thích ứng với biến đổi khí hậu.(Điều này có nội dung liên quan đến Chương II ỨNG DỤNG, NGHIÊN CỨU VÀ PHÁT TRIỂN CÔNG NGHỆ CAO; Điều 19.3.LQ.16. Phát triển công nghệ cao trong nông nghiệp; Điều 19.5.LQ.1. Phạm vi điều chỉnh; Điều 19.2.LQ.1. Phạm vi điều chỉnh; Điều 19.3.QĐ.8.1. Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển; Điều 21.2.QĐ.1.1. Ban hành kèm theo Quyết định này Danh mục nguồn gen cây trồng quý hiếm cần bảo tồn.; Điều 21.2.QĐ.1.2. Danh mục nguồn gen cây trồng quý hiếm cần bảo tồn sẽ được Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung theo định kỳ cho phù hợp với tình hình, nhiệm vụ bảo tồn nguồn gen cây trồng quý hiếm.)
 
-### Điều 24.4.TT.37.3. Cơ sở dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành liên quan đến trồng trọt
+Điều 24.4.LQ.7. Hợp tác quốc tế về trồng trọt
 
-Điều 24.4.TT.37.3. Cơ sở dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành liên quan đến trồng trọt
+(Điều 7 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 3
+ 1. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện hợp tác quốc tế về trồng trọt với các quốc gia, vùng lãnh thổ, tổ chức quốc tế trên cơ sở bình đẳng, cùng có lợi, tôn trọng độc lập, chủ quyền, pháp luật của mỗi bên và pháp luật quốc tế.
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180000300
+ 2. Nội dung ưu tiên hợp tác quốc tế về trồng trọt bao gồm:
 
-**ID:** dk_00037313
+ a) Nghiên cứu khoa học, chuyển giao công nghệ về giống cây trồng, vật tư nông nghiệp, quy trình và công nghệ sản xuất, công nghệ sau thu hoạch, trao đổi thông tin và nguồn gen cây trồng;
 
----
+ b) Đào tạo nguồn nhân lực chất lượng cao trong trồng trọt;
 
+ c) Hợp tác đầu tư, liên kết sản xuất, dự báo và phát triển thị trường tiêu thụ sản phẩm cây trồng;
 
-### Điều 24.4.TT.37.4. Cơ sở dữ liệu về giống cây trồng
+ d) Xây dựng và thừa nhận lẫn nhau về hệ thống chứng nhận chất lượng trong trồng trọt.
+
+ 3. Bộ Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh thực hiện hợp tác quốc tế về trồng trọt.Điều 24.4.LQ.8. Cơ sở dữ liệu quốc gia về trồng trọt
+
+(Điều 8 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Cơ sở dữ liệu quốc gia về trồng trọt là hệ thống thông tin liên quan đến trồng trọt, được xây dựng thống nhất từ trung ương đến địa phương, được chuẩn hóa để cập nhật, khai thác và quản lý bằng công nghệ thông tin.
+
+ 2. Nội dung cơ sở dữ liệu quốc gia về trồng trọt bao gồm:
+
+ a) Cơ sở dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành liên quan đến trồng trọt;
+
+ b) Cơ sở dữ liệu sản xuất, bảo quản, chế biến và thương mại về trồng trọt;
+
+ c) Cơ sở dữ liệu về kết quả nghiên cứu khoa học và phát triển công nghệ, tiêu chuẩn, quy chuẩn kỹ thuật; dữ liệu về dinh dưỡng đất, sử dụng đất trồng trọt; dữ liệu giống cây trồng, phân bón, nước tưới;
+
+ d) Cơ sở dữ liệu khác về trồng trọt.
+
+ 3. Tổ chức, cá nhân cung cấp thông tin, cập nhật và khai thác cơ sở dữ liệu quốc gia về trồng trọt theo quy định của pháp luật.
+
+ 4. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định việc cung cấp thông tin, cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt.Điều 24.4.TT.37.3. Cơ sở dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành liên quan đến trồng trọt
+
+(Điều 3 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+Cơ sở dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành liên quan đến trồng trọt bao gồm:
+
+1. Dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành về giống cây trồng.
+
+2. Dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành về phân bón.
+
+3. Dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành về sản xuất trồng trọt.
+
+4. Dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành về bảo quản, sơ chế, chế biến.
 
 Điều 24.4.TT.37.4. Cơ sở dữ liệu về giống cây trồng
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180000400
+1. Dữ liệu về tổ chức, cá nhân đủ điều kiện sản xuất giống cây trồng: Tên, địa chỉ trụ sở chính; đối tượng sản xuất, sản lượng, cấp giống sản xuất; tiêu chuẩn công bố áp dụng, công bố hợp quy.
 
-**ID:** dk_00037314
+2. Dữ liệu về tổ chức khảo nghiệm, thử nghiệm; tổ chức chứng nhận giống cây trồng đã đăng ký hoặc được chỉ định: Tên, địa chỉ tổ chức, mã số (nếu có), đơn vị cấp quyết định, số quyết định và lĩnh vực hoạt động được chỉ định hoặc đăng ký.
 
----
+3. Dữ liệu về cây đầu dòng, vườn cây đầu dòng: Tên tổ chức, cá nhân; địa chỉ; các thông tin chi tiết về cây đầu dòng, vườn cây đầu dòng trong Giấy chứng nhận cây đầu dòng, vườn cây đầu dòng.
 
+4. Dữ liệu về nhập khẩu, xuất khẩu giống cây trồng: Tên, địa chỉ tổ chức, cá nhân nhập khẩu, xuất khẩu; tên giống cây trồng, số lượng giống cây trồng nhập khẩu, xuất khẩu.
 
-### Điều 24.4.TT.37.5. Cơ sở dữ liệu về phân bón
+5. Dữ liệu về tiêu chuẩn, quy chuẩn kỹ thuật về giống cây trồng.
 
-*Nội dung chưa có sẵn*
+6. Danh mục loài cây trồng chính.
 
-**Chỉ mục:** 5
+7. Danh mục giống cây trồng được phép lưu hành tại Việt Nam.
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180000500
+8. Danh mục nguồn gen giống cây trồng cấm xuất khẩu.
 
-**ID:** dk_00037315
+9. Dữ liệu về kết quả nghiên cứu khoa học và phát triển công nghệ giống cây trồng.
 
----
+10. Danh mục giống cây trồng được bảo hộ.
 
+Điều 24.4.TT.37.5. Cơ sở dữ liệu về phân bón
 
-### Điều 24.4.TT.37.6. Cơ sở dữ liệu về sản xuất trồng trọt
+(Điều 5 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+1. Dữ liệu về tổ chức, cá nhân đủ điều kiện sản xuất phân bón: Tên, địa chỉ trụ sở chính; địa chỉ sản xuất; danh mục phân bón sản xuất, sản lượng sản xuất; hình thức sản xuất; tiêu chuẩn công bố áp dụng, công bố hợp quy; đơn vị cấp Giấy chứng nhận đủ điều kiện, số Giấy chứng nhận đủ điều kiện.
+
+2. Dữ liệu về tổ chức, cá nhân đủ điều kiện buôn bán phân bón: Tên, địa chỉ trụ sở cơ sở buôn bán; đơn vị cấp giấy chứng nhận đủ điều kiện, số giấy chứng nhận đủ điều kiện.
+
+3. Dữ liệu về tổ chức khảo nghiệm, thử nghiệm phân bón; tổ chức chứng nhận phân bón đã đăng ký hoặc được chỉ định: Tên, địa chỉ tổ chức, mã số (nếu có), đơn vị cấp quyết định, số quyết định và lĩnh vực hoạt động được chỉ định hoặc đăng ký.
+
+4. Dữ liệu về nhập khẩu, xuất khẩu phân bón: Tên, địa chỉ tổ chức, cá nhân nhập khẩu, xuất khẩu; loại phân bón, số lượng phân bón nhập khẩu, xuất khẩu.
+
+5. Dữ liệu về tiêu chuẩn, quy chuẩn kỹ thuật về phân bón.
+
+6. Danh mục phân bón được công nhận lưu hành tại Việt Nam.
+
+7. Dữ liệu kết quả nghiên cứu khoa học và phát triển công nghệ về phân bón.
 
 Điều 24.4.TT.37.6. Cơ sở dữ liệu về sản xuất trồng trọt
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180000600
+1. Dữ liệu về sản xuất: Diện tích gieo trồng, diện tích trồng mới, diện tích cho sản phẩm, năng suất, sản lượng của cây lâu năm; diện tích gieo trồng, năng suất, sản lượng của cây hằng năm.
 
-**ID:** dk_00037316
+2. Dữ liệu về liên kết, hợp tác sản xuất: Hình thức liên kết, diện tích gieo trồng, sản lượng từng loại cây.
 
----
+3. Dữ liệu về sản xuất cây trồng biến đổi gen: Tên, địa chỉ trụ sở chính cơ sở sản xuất; địa chỉ sản xuất; đối tượng cây trồng, diện tích, sản lượng; tiêu chuẩn công bố áp dụng, công bố hợp quy.
 
+4. Dữ liệu về sản xuất ứng dụng công nghệ cao: Tên vùng, tên tỉnh, thành phố trực thuộc Trung ương; đối tượng cây trồng, diện tích, sản lượng, công nghệ áp dụng.
 
-### Điều 24.4.TT.37.7. Cơ sở dữ liệu về đất trồng trọt
+5. Dữ liệu về tổ chức thử nghiệm, tổ chức chứng nhận sản phẩm cây trồng đã đăng ký hoặc được chỉ định: Tên, địa chỉ tổ chức, mã số, đơn vị cấp chỉ định, đơn vị cấp đăng ký lĩnh vực hoạt động, số quyết định chỉ định, số đăng ký lĩnh vực hoạt động.
 
-*Nội dung chưa có sẵn*
+6. Dữ liệu về cơ sở đủ điều kiện an toàn thực phẩm, VietGAP, sản xuất hữu cơ được chứng nhận: Tên, địa chỉ trụ sở chính; địa chỉ sản xuất; đối tượng sản xuất, diện tích, sản lượng, loại hình sản xuất; số quyết định cấp giấy chứng nhận hoặc số của giấy chứng nhận.
 
-**Chỉ mục:** 7
+7. Dữ liệu về mã số vùng trồng: Tên, địa chỉ vùng trồng, đối tượng sản xuất, diện tích, sản lượng; giấy chứng nhận mã số vùng trồng.
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180000700
+8. Dữ liệu về thiệt hại do thiên tai, dịch bệnh: Đối tượng, diện tích, sản lượng thiệt hại.
 
-**ID:** dk_00037317
+9. Dữ liệu về tiêu chuẩn, quy chuẩn kỹ thuật về canh tác.
 
----
+10. Dữ liệu về kết quả nghiên cứu khoa học và phát triển công nghệ về canh tác.
 
+Điều 24.4.TT.37.7. Cơ sở dữ liệu về đất trồng trọt
 
-### Điều 24.4.TT.37.8. Cơ sở dữ liệu về chế biến và thị trường sản phẩm trồng trọt
+(Điều 7 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+1. Dữ liệu về độ phì nhiêu đất trồng trọt.
+
+2. Dữ liệu về diện tích chuyển đổi cơ cấu cây trồng trên đất trồng lúa sang trồng cây hằng năm, cây lâu năm, trồng lúa kết hợp nuôi trồng thủy sản.
+
+3. Dữ liệu về tiêu chuẩn, quy chuẩn kỹ thuật về đất trồng trọt.
 
 Điều 24.4.TT.37.8. Cơ sở dữ liệu về chế biến và thị trường sản phẩm trồng trọt
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180000800
+1. Dữ liệu về cơ sở sơ chế, chế biến sản phẩm trồng trọt: Tên, địa chỉ cơ sở, mã số doanh nghiệp, nhà máy (CODE), hệ thống quản lý chất lượng áp dụng, công suất, mặt hàng, chủng loại chế biến, sản lượng thu mua, sản lượng nguyên liệu nhập khẩu, sản lượng chế biến, giá thành sản phẩm, giá trị xuất khẩu (USD/năm) và thị trường tiêu thụ (nội địa, xuất khẩu).
 
-**ID:** dk_00037318
+2. Dữ liệu về các thị trường xuất khẩu, nhập khẩu sản phẩm trồng trọt: Thị trường xuất khẩu, nhập khẩu, số lượng, chủng loại sản phẩm, quy cách, giá mua, giá bán, giá trị xuất khẩu, nhập khẩu.
 
----
-
-
-### Điều 24.4.TT.37.9. Nguyên tắc quản lý tài khoản cập nhật cơ sở dữ liệu quốc gia về trồng trọt
+3. Dữ liệu về tiêu chuẩn, quy chuẩn kỹ thuật về bảo quản, sơ chế, chế biến.
 
 Điều 24.4.TT.37.9. Nguyên tắc quản lý tài khoản cập nhật cơ sở dữ liệu quốc gia về trồng trọt
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180000900
+1. Phân cấp, phân quyền trong việc cập nhật cơ sở dữ liệu quốc gia về trồng trọt.
 
-**ID:** dk_00037319
+2. Cấp, khóa tài khoản cập nhật cho cá nhân (cán bộ, công chức, viên chức), cơ quan hành chính nhà nước và tổ chức chứng nhận.
 
----
+3. Tổ chức được cấp tài khoản phân công cho cá nhân thuộc tổ chức mình thực hiện việc quản trị, cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt.
 
+4. Cá nhân được cấp tài khoản thực hiện việc bảo mật, quản trị, cập nhật, khai thác, quản lý cơ sở dữ liệu quốc gia về trồng trọt và sử dụng tài khoản được cấp đúng mục đích.
 
-### Điều 24.4.TT.37.10. Tần suất cập nhật cơ sở dữ liệu quốc gia về trồng trọt
+5. Tài khoản cập nhật bị khóa khi thuộc một trong các trường hợp sau:
+
+a) Tổ chức được cấp tài khoản giải thể, chấm dứt hoạt động, chuyển nhượng;
+
+b) Cá nhân được cấp tài khoản thay đổi công tác, nghỉ việc, nghỉ hưu.
 
 Điều 24.4.TT.37.10. Tần suất cập nhật cơ sở dữ liệu quốc gia về trồng trọt
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001000
+1. Cập nhật theo tháng, trước ngày 30 hằng tháng các nội dung tại Điều 3; các khoản 1, 2, 3, 5, 6, 7, 8 và 10 Điều 4; các khoản 1, 2, 3, 5 và 6 Điều 5; khoản 5 và 9 Điều 6; khoản 3 Điều 7; khoản 3 Điều 8 Thông tư này.
 
-**ID:** dk_00037320
+2. Cập nhật 6 tháng, trước ngày 30/6 và 31/12 hằng năm các nội dung tại khoản 4 Điều 5; các khoản 6, 7 và 8 Điều 6; khoản 2 Điều 8 Thông tư này.
 
----
-
-
-### Điều 24.4.TT.37.11. Khai thác cơ sở dữ liệu quốc gia về trồng trọt
+3. Cập nhật theo năm, trước ngày 20/12 hằng năm các nội dung tại khoản 4 và 9 Điều 4; khoản 7 Điều 5; các khoản 1, 2, 3, 4 và 10 Điều 6; khoản 1 và 2 Điều 7; khoản 1 Điều 8 Thông tư này.
 
 Điều 24.4.TT.37.11. Khai thác cơ sở dữ liệu quốc gia về trồng trọt
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001100
+1. Tổ chức thực hiện chức năng đầu mối xây dựng, cập nhật cơ sở dữ liệu quốc gia về trồng trọt cấp trung ương và cấp tỉnh được quyền khai thác cơ sở dữ liệu quốc gia về trồng trọt theo phân cấp.
 
-**ID:** dk_00037321
-
----
-
-
-### Điều 24.4.TT.37.12. Nội dung quản lý cơ sở dữ liệu quốc gia về trồng trọt
+2. Tổ chức, cá nhân được khai thác và sử dụng cơ sở dữ liệu quốc gia về trồng trọt quy định tại các Điều 3, 4, 5, 6, 7 và 8 Thông tư này.
 
 Điều 24.4.TT.37.12. Nội dung quản lý cơ sở dữ liệu quốc gia về trồng trọt
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001200
+1. Xây dựng, vận hành cơ sở hạ tầng kỹ thuật, phần mềm cơ sở dữ liệu quốc gia nhằm bảo đảm tính chính xác, sự ổn định thông suốt trên toàn hệ thống.
 
-**ID:** dk_00037322
+2. Cập nhật, xử lý và tích hợp thông tin vào cơ sở dữ liệu quốc gia về trồng trọt.
 
----
+3. Quản lý quyền cập nhật thông tin trong cơ sở dữ liệu.
 
+4. Theo dõi, giám sát tình hình sử dụng cơ sở dữ liệu.
 
-### Điều 24.4.TT.37.13. Bảo đảm an ninh, an toàn cho cơ sở dữ liệu quốc gia về trồng trọt
+5. Hỗ trợ vận hành, khai thác cơ sở dữ liệu.
 
 Điều 24.4.TT.37.13. Bảo đảm an ninh, an toàn cho cơ sở dữ liệu quốc gia về trồng trọt
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001300
+1. Sử dụng phần mềm phù hợp, có bản quyền và ứng dụng công nghệ nhằm ngăn chặn, phát hiện các xâm nhập trái phép.
 
-**ID:** dk_00037323
+2. Sử dụng kênh mã hóa và xác thực người dùng các hoạt động sau: Đăng nhập quản trị hệ thống; đăng nhập vào các ứng dụng; gửi nhận dữ liệu tự động giữa các máy chủ; nhập và biên tập dữ liệu.
 
----
+3. Mã hóa đường truyền cơ sở dữ liệu quốc gia về trồng trọt.
 
+4. Áp dụng biện pháp bảo đảm tính xác thực và bảo vệ sự toàn vẹn của dữ liệu trong cơ sở dữ liệu quốc gia về trồng trọt.
 
-### Điều 24.4.TT.37.14. Trách nhiệm của Cục Trồng trọt
+5. Thực hiện lưu vết việc truy cập, tạo, thay đổi, xóa thông tin dữ liệu để phục vụ việc quản lý, giám sát hệ thống.
 
-*Nội dung chưa có sẵn*
+6. Xây dựng phương án sao lưu, dự phòng dữ liệu định kỳ nhằm bảo đảm hệ thống hoạt động liên tục, ổn định khi gặp các sự cố.
 
-**Chỉ mục:** 14
+7. Thực hiện biện pháp cần thiết khác để bảo đảm an toàn cơ sở dữ liệu quốc gia về trồng trọt.
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001400
+Điều 24.4.TT.37.14. Trách nhiệm của Cục Trồng trọt
 
-**ID:** dk_00037324
+(Điều 14 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+1. Chủ trì, hướng dẫn tổ chức, cá nhân có liên quan báo cáo số liệu để tổng hợp, cập nhật, khai thác, quản lý cơ sở dữ liệu quốc gia về trồng trọt trong phạm vi cả nước.
 
+2. Chủ trì tổ chức việc vận hành, bảo trì, giám sát, nâng cấp hạ tầng kỹ thuật, phần mềm và các biện pháp bảo đảm an ninh, an toàn cơ sở dữ liệu quốc gia về trồng trọt.
 
-### Điều 24.4.TT.37.15. Trách nhiệm của Cục Bảo vệ thực vật
+3. Tổ chức việc cấp, khóa tài khoản cập nhật cho cá nhân (cán bộ, công chức, viên chức), cơ quan hành chính nhà nước và tổ chức chứng nhận.
+
+4. Quản lý tài khoản quản trị, phân quyền cập nhật, khai thác cơ sở dữ liệu quốc gia về trồng trọt.
+
+5. Chỉ đạo, hướng dẫn, kiểm tra định kỳ hoặc đột xuất việc cung cấp thông tin, cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt. Tổ chức tập huấn, hướng dẫn công tác cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt.
+
+6. Đánh giá, xếp hạng năng lực thực hiện việc cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt của các tổ chức và công bố công khai hằng năm.
+
+7. Phối hợp với đơn vị có liên quan để xử lý những vấn đề phát sinh trong quá trình thực hiện việc cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt.
+
+8. Đầu tư, xây dựng cơ sở hạ tầng phục vụ việc cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt.
+
+9. Phân công cán bộ thực hiện việc quản trị, cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt.
+
+10. Thực hiện cập nhật dữ liệu quy định tại khoản 1 và 3 Điều 3; các khoản 2, 4, 5, 6, 7, 8, 9 và 10 Điều 4; khoản 5 Điều 6 đối với các tổ chức do mình cấp đăng ký hoạt động hoặc chỉ định; khoản 9 và 10 Điều 6; khoản 1 và khoản 3 Điều 7 Thông tư này.
 
 Điều 24.4.TT.37.15. Trách nhiệm của Cục Bảo vệ thực vật
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001500
+1. Chỉ đạo, hướng dẫn tổ chức, cá nhân có liên quan báo cáo số liệu để tổng hợp, cập nhật, khai thác và quản lý cơ sở dữ liệu về phân bón.
 
-**ID:** dk_00037325
+2. Kiểm tra, giám sát việc thực hiện các quy định tại Thông tư này về cập nhật, khai thác và quản lý cơ sở dữ liệu về phân bón.
 
----
+3. Chịu trách nhiệm về tính kịp thời, đầy đủ, an ninh, an toàn thông tin, tính chính xác của thông tin được cập nhật vào cơ sở dữ liệu về phân bón.
 
-
-### Điều 24.4.TT.37.16. Trách nhiệm của Cục Chế biến và Phát triển thị trường Nông sản
+4. Thực hiện cập nhật dữ liệu quy định tại khoản 2 Điều 3 và Điều 5 Thông tư này.
 
 Điều 24.4.TT.37.16. Trách nhiệm của Cục Chế biến và Phát triển thị trường Nông sản
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001600
+1. Chỉ đạo, hướng dẫn tổ chức, cá nhân có liên quan báo cáo số liệu để tổng hợp, cập nhật, khai thác và quản lý cơ sở dữ liệu về bảo quản, chế biến sản phẩm; các thị trường xuất khẩu, nhập khẩu sản phẩm trồng trọt.
 
-**ID:** dk_00037326
+2. Kiểm tra, giám sát việc thực hiện các quy định tại Thông tư này về cập nhật, khai thác và quản lý cơ sở dữ liệu về bảo quản, chế biến sản phẩm; các thị trường xuất khẩu, nhập khẩu sản phẩm trồng trọt.
 
----
+3. Chịu trách nhiệm về tính kịp thời, đầy đủ, an ninh, an toàn thông tin, tính chính xác của thông tin được cập nhật vào cơ sở dữ liệu về bảo quản, chế biến sản phẩm; các thị trường xuất khẩu, nhập khẩu sản phẩm trồng trọt.
 
-
-### Điều 24.4.TT.37.17. Trách nhiệm của Cục Quản lý chất lượng Nông Lâm sản và Thủy sản
+4. Thực hiện cập nhật dữ liệu quy định tại khoản 4 Điều 3 và Điều 8 Thông tư này.
 
 Điều 24.4.TT.37.17. Trách nhiệm của Cục Quản lý chất lượng Nông Lâm sản và Thủy sản
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001700
+1. Thực hiện cập nhật dữ liệu quy định tại khoản 5 Điều 6 Thông tư này đối với các tổ chức do mình cấp đăng ký hoạt động hoặc chỉ định.
 
-**ID:** dk_00037327
-
----
-
-
-### Điều 24.4.TT.37.18. Trách nhiệm của Trung tâm tin học và Thống kê
+2. Chịu trách nhiệm về tính kịp thời, đầy đủ, chính xác của thông tin được cập nhật vào cơ sở dữ liệu về tổ chức thử nghiệm, tổ chức chứng nhận sản phẩm trồng trọt theo chức năng, nhiệm vụ được giao.
 
 Điều 24.4.TT.37.18. Trách nhiệm của Trung tâm tin học và Thống kê
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001800
-
-**ID:** dk_00037328
-
----
-
-
-### Điều 24.4.TT.37.19. Trách nhiệm của Tổ chức chứng nhận
+Cung cấp thông tin về sản xuất trồng trọt và thị trường xuất khẩu, nhập khẩu giống cây trồng, sản phẩm trồng trọt cho các Cục chuyên ngành khi có yêu cầu.
 
 Điều 24.4.TT.37.19. Trách nhiệm của Tổ chức chứng nhận
 
-**Chỉ mục:** 19
+(Điều 19 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180001900
+1. Thực hiện cập nhật dữ liệu về cơ sở sản xuất VietGAP, sản xuất hữu cơ tại khoản 6 Điều 6 Thông tư này.
 
-**ID:** dk_00037329
-
----
-
-
-### Điều 24.4.TT.37.20. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương
+2. Chịu trách nhiệm về tính kịp thời, đầy đủ, chính xác của thông tin được cập nhật vào cơ sở dữ liệu về cơ sở sản xuất VietGAP, sản xuất hữu cơ tại khoản 6 Điều 6 Thông tư này.
 
 Điều 24.4.TT.37.20. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000010000080000000000000000000802710200180002000
+1. Chỉ đạo, hướng dẫn tổ chức, cá nhân có liên quan báo cáo số liệu để tổng hợp, cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt trên địa bàn tỉnh.
 
-**ID:** dk_00037330
+2. Phối hợp với Cục Trồng trọt cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt theo phân cấp và chức năng, nhiệm vụ được giao.
 
----
+3. Kiểm tra, giám sát việc thực hiện các quy định tại Thông tư này về cung cấp thông tin, cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt của các tổ chức, cá nhân có liên quan trên địa bàn tỉnh.
 
+4. Chịu trách nhiệm về tính kịp thời, đầy đủ, an ninh, an toàn thông tin, tính chính xác của thông tin được cập nhật vào cơ sở dữ liệu quốc gia về trồng trọt trên địa bàn tỉnh.
 
-### Điều 24.4.LQ.9. Các hành vi bị nghiêm cấm trong hoạt động trồng trọt
+5. Đầu tư, xây dựng cơ sở hạ tầng phục vụ cập nhật, khai thác và quản lý cơ sở dữ liệu quốc gia về trồng trọt trên địa bàn tỉnh.
+
+6. Thực hiện cập nhật dữ liệu quy định tại khoản 1 và 3 Điều 4; các khoản 1, 2, 3, 4, 7 và 8 Điều 6; khoản 2 Điều 7 và các thông tin về cơ sở đủ điều kiện an toàn thực phẩm được quy định tại khoản 6 Điều 6 Thông tư nầy.
 
 Điều 24.4.LQ.9. Các hành vi bị nghiêm cấm trong hoạt động trồng trọt
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 2400400000000000100000900000000000000000
+ 1. Sản xuất, buôn bán, nhập khẩu giống cây trồng chưa được quyết định công nhận lưu hành hoặc tự công bố lưu hành, trừ trường hợp được cơ quan có thẩm quyền cho phép.
 
-**ID:** dk_00037331
+ 2. Sản xuất, buôn bán, nhập khẩu phân bón chưa được quyết định công nhận lưu hành tại Việt Nam, trừ trường hợp nhập khẩu phân bón quy định tại khoản 2 Điều 44 của Luật này và sản xuất phân bón để xuất khẩu theo hợp đồng với tổ chức, cá nhân nước ngoài.
 
----
+ 3. Sản xuất, buôn bán giống cây trồng không đáp ứng điều kiện sản xuất, buôn bán; sản xuất, buôn bán phân bón chưa được cấp giấy chứng nhận đủ điều kiện sản xuất, buôn bán phân bón.
 
+ 4. Sản xuất, buôn bán, nhập khẩu giống cây trồng, phân bón, vật tư nông nghiệp khác và sản phẩm cây trồng giả, hết hạn sử dụng, không rõ nguồn gốc.
 
-### Điều 24.4.LQ.10. Nghiên cứu chọn, tạo và chuyển giao công nghệ về nguồn gen giống cây trồng
+ 5. Cung cấp thông tin về giống cây trồng, phân bón sai lệch với thông tin đã được cấp có thẩm quyền phê duyệt hoặc sai lệch với thông tin tự công bố.
+
+ 6. Thực hiện trái phép dịch vụ khảo nghiệm, thử nghiệm, kiểm định ruộng giống, giám định, chứng nhận chất lượng giống cây trồng, sản phẩm cây trồng, phân bón.
+
+ 7. Cung cấp sai hoặc giả mạo kết quả khảo nghiệm, thử nghiệm, kiểm định ruộng giống, kiểm tra, giám định, chứng nhận chất lượng, hợp chuẩn, hợp quy về vật tư nông nghiệp và sản phẩm cây trồng.
+
+ 8. Xuất khẩu trái phép giống cây trồng thuộc Danh mục nguồn gen giống cây trồng cấm xuất khẩu.
+
+ 9. Canh tác gây hại cho cây trồng, vật nuôi và sức khỏe con người; gây ô nhiễm môi trường; suy thoái và cạn kiệt tài nguyên đất, nước và đa dạng sinh học.
+
+ 10. Khai thác, sử dụng trái phép tầng đất mặt của đất chuyên trồng lúa nước vào mục đích phi nông nghiệp.(Điều này có nội dung liên quan đến Điều 39.13.LQ.1. Phạm vi điều chỉnh; Điều 19.5.LQ.1. Phạm vi điều chỉnh; Điều 6. Vi phạm quy định về quản lý, sử dụng và bảo tồn nguồn gen cây trồng trong các khu bảo tồn; Điều 7. Vi phạm quy định về thu thập, bảo tồn nguồn gen cây trồng quý hiếm trong Danh Mục nguồn gen cây trồng quý hiếm cần bảo tồn; Điều 8. Vi phạm quy định về xuất khẩu nguồn gen, giống cây trồng quý hiếm; Điều 9. Vi phạm quy định về khảo nghiệm giá trị canh tác, giá trị sử dụng (khảo nghiệm VCU); khảo nghiệm tính khác biệt, tính đồng nhất và tính ổn định (khảo nghiệm DUS); Điều 10. Vi phạm quy định về sử dụng giống cây trồng mới đang trong quá trình khảo nghiệm, sản xuất thử; Điều 11. Vi phạm quy định về quản lý cây đầu dòng, vườn cây đầu dòng giống cây công nghiệp, cây ăn quả lâu năm; Điều 12. Vi phạm quy định về quyền của chủ Bằng bảo hộ; Điều 13. Vi phạm quy định về nghĩa vụ của chủ Bằng bảo hộ, tác giả giống cây trồng; Điều 14. Vi phạm quy định về Điều kiện sản xuất, kinh doanh giống cây trồng chính; Điều 15. Vi phạm quy định về sản xuất giống cây trồng; Điều 16. Vi phạm quy định về kinh doanh giống cây trồng; Điều 17. Vi phạm quy định về nhập khẩu giống cây trồng, nguồn gen cây trồng không thuộc nguồn gen cây trồng quý hiếm; Điều 18. Vi phạm quy định quản lý giấy phép, chứng chỉ hành nghề về giống cây trồng của Nghị định 31/2016/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực giống cây trồng, bảo vệ và kiểm dịch thực vật ban hành ngày 06/05/2016)
+
+Chương II
+
+GIỐNG CÂY TRỒNG
+
+Mục 1
+
+NGHIÊN CỨU, KHAI THÁC, SỬ DỤNG VÀ BẢO TỒN NGUỒN GEN GIỐNG CÂY TRỒNG
 
 Điều 24.4.LQ.10. Nghiên cứu chọn, tạo và chuyển giao công nghệ về nguồn gen giống cây trồng
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000010000000000000000001000000000000000000
+ 1. Nghiên cứu chọn, tạo và chuyển giao công nghệ về nguồn gen giống cây trồng được thực hiện theo quy định của pháp luật về khoa học và công nghệ, chuyển giao công nghệ, đa dạng sinh học.
 
-**ID:** dk_00037334
-
----
-
-
-### Điều 24.4.LQ.11. Khai thác, sử dụng nguồn gen giống cây trồng
+ 2. Ưu tiên nghiên cứu trong chọn, tạo về nguồn gen giống cây trồng quy định tại điểm a và điểm b khoản 2 Điều 6 của Luật này.(Điều này có nội dung liên quan đến Mục 1 QUẢN LÝ, TIẾP CẬN NGUỒN GEN VÀ CHIA SẺLỢI ÍCH TỪ NGUỒN GEN; Mục 2 LƯU GIỮ, BẢO QUẢN MẪU VẬT DI TRUYỀN; ĐÁNH GIÁ NGUỒN GEN; QUẢN LÝ THÔNG TIN VỀ NGUỒN GEN; BẢN QUYỀN TRI THỨC TRUYỀN THỐNG VỀ NGUỒN GEN; Điều 19.2.LQ.10. Công nghệ hạn chế chuyển giao; Điều 21.2.NĐ.2.10. Yêu cầu đối với hoạt động nghiên cứu khoa học, phát triển công nghệ về sinh vật biến đổi gen, sản phẩm của sinh vật biến đổi gen; Điều 21.2.NĐ.2.11. Điều kiện đối với Phòng thí nghiệm nghiên cứu về sinh vật biến đổi gen; Điều 21.2.NĐ.2.12. Thẩm quyền, trình tự, thủ tục công nhận, thu hồi quyết định công nhận Phòng thí nghiệm nghiên cứu về sinh vật biến đổi gen; Điều 21.2.NĐ.2.13. An toàn sinh học đối với hoạt động nghiên cứu khoa học, phát triển công nghệ về sinh vật biến đổi gen, sản phẩm của sinh vật biến đổi gen; Điều 21.2.NĐ.2.14. Yêu cầu đối với hoạt động khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.4.1. Phạm vi điều chỉnh)
 
 Điều 24.4.LQ.11. Khai thác, sử dụng nguồn gen giống cây trồng
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000010000000000000000001100000000000000000
+ 1. Nguồn gen giống cây trồng bao gồm nguồn gen từ giống cây trồng đã được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành; giống cây trồng đã tồn tại phổ biến trong sản xuất, giống cây trồng đặc sản, giống cây trồng bản địa, giống cây trồng nhập khẩu chưa được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành.
 
-**ID:** dk_00037335
+ 2. Việc khai thác, sử dụng nguồn gen giống cây trồng thực hiện theo quy định của Luật này và pháp luật về đa dạng sinh học.(Điều này có nội dung liên quan đến Mục 1 QUẢN LÝ, TIẾP CẬN NGUỒN GEN VÀ CHIA SẺLỢI ÍCH TỪ NGUỒN GEN; Mục 2 LƯU GIỮ, BẢO QUẢN MẪU VẬT DI TRUYỀN; ĐÁNH GIÁ NGUỒN GEN; QUẢN LÝ THÔNG TIN VỀ NGUỒN GEN; BẢN QUYỀN TRI THỨC TRUYỀN THỐNG VỀ NGUỒN GEN; Điều 21.2.NĐ.4.1. Phạm vi điều chỉnh)
 
----
+Điều 24.4.LQ.12. Bảo tồn nguồn gen giống cây trồng
 
+(Điều 12 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-### Điều 24.4.LQ.12. Bảo tồn nguồn gen giống cây trồng
+ 1. Bảo tồn nguồn gen giống cây trồng bao gồm các hoạt động sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Điều tra, thu thập, lưu giữ và xây dựng ngân hàng gen giống cây trồng;
 
-**Chỉ mục:** 12
+ b) Giải mã gen, đánh giá chỉ tiêu nông học, sinh học và giá trị sử dụng nguồn gen giống cây trồng;
 
-**Mã phân cấp:** 240040000000000020000010000000000000000001200000000000000000
+ c) Thiết lập và chia sẻ dữ liệu, hệ thống thông tin tư liệu và nguồn gen giống cây trồng.
 
-**ID:** dk_00037336
+ 2. Chính phủ quy định chi tiết việc bảo tồn nguồn gen giống cây trồng và ban hành Danh mục nguồn gen giống cây trồng cấm xuất khẩu.
 
----
-
-
-### Điều 24.4.NĐ.2.3. Bảo tồn nguồn gen giống cây trồng và Danh mục nguồn gen giống cây trồng cấm xuất khẩu
+ (Điều này có nội dung liên quan đến Điều 21.2.NĐ.4.1. Phạm vi điều chỉnh)
 
 Điều 24.4.NĐ.2.3. Bảo tồn nguồn gen giống cây trồng và Danh mục nguồn gen giống cây trồng cấm xuất khẩu
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Mã phân cấp:** 24004000000000002000001000000000000000000120000000000000000000402713000940000300
+1. Điều tra, thu thập nguồn gen giống cây trồng:
 
-**ID:** dk_00037337
+a) Cục Trồng trọt căn cứ nhu cầu và điều kiện thực tế đặt hàng cho tổ chức, cá nhân có năng lực và điều kiện phù hợp điều tra, thu thập định kỳ nguồn gen giống cây trồng.
 
----
+b) Nguồn gen giống cây trồng được thu thập dưới dạng hạt giống, cây giống, hom giống, củ giống hoặc vật liệu di truyền của giống cây trồng phụ thuộc vào từng loài cây trồng.
 
+c) Kết quả điều tra, thu thập phải được tư liệu hóa mô tả rõ các thông tin có liên quan đến việc điều tra, thu thập như địa điểm, thời gian, loại mẫu vật, số lượng, hình thức thu thập.
 
-### Điều 24.4.LQ.13. Yêu cầu chung về việc công nhận lưu hành và tự công bố lưu hành giống cây trồng
+2. Lưu giữ và xây dựng ngân hàng gen giống cây trồng:
+
+a) Nguồn gen giống cây trồng được lưu giữ tại Trung tâm tài nguyên thực vật và các đơn vị mạng lưới của hệ thống bảo tồn tài nguyên thực vật trong cả nước theo đặt hàng của Cục Trồng trọt.
+
+b) Tùy thuộc vào nguồn lực và điều kiện thực tế, việc lưu giữ có thể thực hiện theo một trong hai hoặc cả hai hình thức:
+
+Lưu giữ chuyển chỗ (lưu giữ ex-situ) là lưu giữ ngoài phạm vi phát sinh của giống cây trồng trong điều kiện lạnh (trong kho lạnh, trong nitơ lạnh hoặc các hình thức bảo quản phù hợp khác khi có các công nghệ mới); hoặc trong ống nghiệm (lưu giữ in-vitro); hoặc vật liệu di truyền hoặc lưu giữ trên đồng ruộng;
+
+Lưu giữ tại chỗ (lưu giữ in-situ) là lưu giữ ngay trong phạm vi phát sinh của giống cây trồng.
+
+3. Đánh giá nguồn gen giống cây trồng:
+
+a) Đánh giá nguồn gen giống cây trồng bao gồm các hoạt động giải mã gen, đánh giá chỉ tiêu nông học, sinh học và giá trị sử dụng của nguồn gen giống cây trồng.
+
+b) Căn cứ nhu cầu khai thác, sử dụng thông tin về nguồn gen giống cây trồng Cục Trồng trọt đặt hàng cho tổ chức, cá nhân có đủ năng lực thực hiện giải mã gen, đánh giá chỉ tiêu nông học, sinh học và giá trị của nguồn gen giống cây trồng.
+
+4. Thiết lập, bảo quản và chia sẻ dữ liệu về nguồn gen giống cây trồng:
+
+a) Dữ liệu về nguồn gen giống cây trồng được tổ chức, cá nhân thực hiện các hoạt động quy định tại khoản 1, 2, 3 Điều này và tổ chức, cá nhân có liên quan (người cung cấp thông tin) thiết lập phục vụ quản lý, khai thác, sử dụng nguồn gen giống cây trồng.
+
+b) Dữ liệu về nguồn gen giống cây trồng được lưu giữ dưới các hình thức phiếu điều tra, phiếu mô tả, phiếu đánh giá, tiêu bản, hình vẽ, bản đồ phân bố, ảnh, ấn phẩm thông tin, cơ sở dữ liệu dạng văn bản hoặc số hóa (bao gồm số liệu cơ bản về nguồn gen và các thông tin liên quan đến nguồn gen).
+
+c) Dữ liệu về nguồn gen giống cây trồng được lưu giữ tại Trung tâm tài nguyên thực vật.
+
+d) Chia sẻ về dữ liệu nguồn gen giống cây trồng quốc gia được thực hiện theo quy định của pháp luật hiện hành.
+
+5. Danh mục nguồn gen giống cây trồng cấm xuất khẩu quy định tại Phụ lục I ban hành kèm theo Nghị định này.
+
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
+
+Mục 2
+
+CÔNG NHẬN LƯU HÀNH VÀ TỰ CÔNG BỐ LƯU HÀNH GIỐNG CÂY TRỒNG
 
 Điều 24.4.LQ.13. Yêu cầu chung về việc công nhận lưu hành và tự công bố lưu hành giống cây trồng
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000020000000000000000001300000000000000000
+ 1. Giống cây trồng thuộc loài cây trồng chính chỉ được phép sản xuất, buôn bán, xuất khẩu, nhập khẩu sau khi được cấp Quyết định công nhận lưu hành giống cây trồng quy định tại Điều 15 của Luật này hoặc cấp Quyết định công nhận lưu hành đặc cách giống cây trồng quy định tại Điều 16 của Luật này, trừ trường hợp phục vụ nghiên cứu, khảo nghiệm, triển lãm, trao đổi quốc tế hoặc sản xuất hạt lai để xuất khẩu.
 
-**ID:** dk_00037339
+ 2. Giống cây trồng không thuộc loài cây trồng chính chỉ được phép sản xuất, buôn bán, xuất khẩu, nhập khẩu khi tổ chức, cá nhân tự công bố lưu hành giống cây trồng theo quy định tại Điều 17 của Luật này, trừ trường hợp phục vụ nghiên cứu, khảo nghiệm, quảng cáo, triển lãm, trao đổi quốc tế và sản xuất hạt lai để xuất khẩu. Trường hợp tổ chức, cá nhân có nhu cầu đăng ký cấp Quyết định công nhận lưu hành giống cây trồng thì thực hiện theo quy định tại Điều 15 của Luật này hoặc cấp Quyết định công nhận lưu hành đặc cách giống cây trồng thì thực hiện theo quy định tại Điều 16 của Luật này.
 
----
+ 3. Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài có văn phòng đại diện, chi nhánh công ty hoạt động trong lĩnh vực giống cây trồng tại Việt Nam có quyền đứng tên đăng ký cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành giống cây trồng.
 
+ 4. Việc cấp Quyết định công nhận lưu hành giống cây trồng được thực hiện đồng thời với việc cấp Bằng bảo hộ giống cây trồng khi tổ chức, cá nhân đứng tên đăng ký công nhận lưu hành giống cây trồng đề nghị và đáp ứng các điều kiện về bảo hộ giống cây trồng theo quy định của pháp luật về sở hữu trí tuệ.
 
-### Điều 24.4.TT.36.1.
+ 5. Giống cây trồng thuộc loài cây trồng chính phải được khảo nghiệm do tổ chức khảo nghiệm độc lập được công nhận đủ điều kiện (sau đây gọi là tổ chức khảo nghiệm giống cây trồng) thực hiện trước khi cấp hoặc gia hạn Quyết định công nhận lưu hành giống cây trồng, trừ trường hợp giống cây trồng được cấp Quyết định công nhận lưu hành đặc cách giống cây trồng quy định tại Điều 16 của Luật này.
 
-*Nội dung chưa có sẵn*
+ Giống cây cảnh thuộc loài cây trồng chính không phải thực hiện khảo nghiệm theo quy định tại khoản 2 Điều 18 của Luật này.
 
-**Chỉ mục:** 1
+ 6. Trong từng thời kỳ, Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành, sửa đổi, bổ sung Danh mục loài cây trồng chính.(Điều này có nội dung liên quan đến Điều 6. Đăng ký bảo hộ quyền đối với giống cây trồng được chọn tạo hoặc phát hiện và phát triển bằng ngân sách nhà nước; Điều 7. Trách nhiệm của chủ đơn và đại diện của chủ đơn; Điều 8. Đơn đăng ký bảo hộ quyền đối với giống cây trồng; Điều 9. Thủ tục nộp đơn đề nghị hưởng quyền ưu tiên; Điều 10. Nhận đơn đăng ký bảo hộ; Điều 11. Thẩm định hình thức đơn; Điều 12. Thẩm định nội dung đơn; Điều 13. Thẩm định tên giống cây trồng; Điều 14. Thẩm định tính mới; Điều 15. Các hình thức khảo nghiệm kỹ thuật; Điều 16. Điều kiện tổ chức, cá nhân khảo nghiệm được chỉ định; Điều 17. Điều kiện khảo nghiệm kỹ thuật do người nộp đơn thực hiện; Điều 18. Nộp mẫu giống; Điều 19. Thẩm định kết quả khảo nghiệm kỹ thuật; Điều 20. Cấp bằng bảo hộ giống cây trồng; Điều 21. Đình chỉ, phục hồi hiệu lực bằng bảo hộ giống cây trồng; Điều 22. Sổ đăng ký quốc gia của Nghị định 88/2010/NĐ-CP Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Sở hữu trí tuệ và Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ về quyền đối với giống cây trồng ban hành ngày 16/08/2010; Điều 1. Phạm vi điều chỉnh của Thông tư 16/2013/TT-BNNPTNT Hướng dẫn về bảo hộ quyền đối với giống cây trồng ban hành ngày 28/02/2013)
 
-**Mã phân cấp:** 24004000000000002000002000000000000000000130000000000000000000802710200170000100
+Điều 24.4.TT.36.1. 
 
-**ID:** dk_00037340
+(Điều 1 Thông tư số 17/2019/TT-BNNPTNT Ban hành Danh mục loài cây trồng chính ngày 15/11/2019 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 01/01/2020 )
 
----
+Ban hành Danh mục loại cây trồng chính, bao gồm: Lúa, ngô, cà phê, cam, bưởi, chuối.
 
+Danh mục loài cây trồng chính được rà soát, sửa đổi, bổ sung phù hợp với từng thời kỳ phát triển.
 
-### Điều 24.4.LQ.14. Tên giống cây trồng
+Phu luc kem theo Thong tu so 17_2019_TT-BNNPTNT.pdf
 
-*Nội dung chưa có sẵn*
+Điều 24.4.LQ.14. Tên giống cây trồng
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000020000000000000000001400000000000000000
+ 1. Tên giống cây trồng không được chấp nhận trong trường hợp sau đây:
 
-**ID:** dk_00037341
+ a) Chỉ bao gồm chữ số;
 
----
+ b) Vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc;
 
+ c) Trùng cách đọc hoặc cách viết với tên của lãnh tụ, anh hùng dân tộc, danh nhân, các loại thực phẩm, đồ uống, dược phẩm;
 
-### Điều 24.4.LQ.15. Cấp, cấp lại, gia hạn, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận lưu hành giống cây trồng
+ d) Sử dụng tên cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp để làm toàn bộ hoặc một phần tên riêng của giống cây trồng, trừ trường hợp có sự chấp thuận của cơ quan, tổ chức, đơn vị có liên quan;
 
-Điều 24.4.LQ.15. Cấp, cấp lại, gia hạn, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận lưu hành giống cây trồng
+ đ) Dễ gây hiểu nhầm về đặc trưng, đặc tính của giống đó;
 
-**Chỉ mục:** 15
+ e) Dễ gây hiểu nhầm về danh tính của tác giả;
 
-**Mã phân cấp:** 240040000000000020000020000000000000000001500000000000000000
+ g) Trùng với tên của giống cây trồng đã được bảo hộ.
 
-**ID:** dk_00037342
+ 2. Tổ chức, cá nhân mua bán vật liệu nhân giống của giống cây trồng phải sử dụng tên giống đã được cấp Quyết định công nhận lưu hành giống cây trồng hoặc tự công bố lưu hành giống cây trồng.
 
----
+ 3. Khi sử dụng tên giống cây trồng kết hợp với nhãn hiệu, tên thương mại hoặc các chỉ dẫn tương tự với tên giống cây trồng đã được công nhận lưu hành hoặc công bố lưu hành để sản xuất, mua bán thì tên đó phải có khả năng nhận biết một cách dễ dàng.Điều 24.4.LQ.15. Cấp, cấp lại, gia hạn, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận lưu hành giống cây trồng
 
+(Điều 15 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-### Điều 24.4.NĐ.2.2. Quy định chung về thực hiện thủ tục hành chính trong Nghị định này
+ 1. Điều kiện cấp Quyết định công nhận lưu hành giống cây trồng bao gồm:
 
-Điều 24.4.NĐ.2.2. Quy định chung về thực hiện thủ tục hành chính trong Nghị định này
+ a) Có tên giống cây trồng;
 
-**Chỉ mục:** 2
+ b) Có kết quả khảo nghiệm bảo đảm tính khác biệt, tính đồng nhất, tính ổn định;
 
-**Mã phân cấp:** 24004000000000002000002000000000000000000150000000000000000000402713000940000200
+ c) Có kết quả khảo nghiệm đạt tiêu chuẩn quốc gia về giá trị canh tác, giá trị sử dụng;
 
-**ID:** dk_00037343
+ d) Có mẫu giống cây trồng được lưu theo quy định tại Điều 20 của Luật này;
 
----
+ đ) Có bản công bố thông tin về giống cây trồng, quy trình sản xuất do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn.
 
+ 2. Quyết định công nhận lưu hành giống cây trồng hằng năm có thời hạn là 10 năm, giống cây trồng lâu năm có thời hạn là 20 năm và được gia hạn.
 
-### Điều 24.4.NĐ.2.4. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, gia hạn, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận lưu hành giống cây trồng
+ 3. Quyết định công nhận lưu hành giống cây trồng được cấp lại trong trường hợp sau đây:
+
+ a) Quyết định công nhận lưu hành giống cây trồng bị mất hoặc hư hỏng;
+
+ b) Thay đổi, bổ sung thông tin liên quan đến Quyết định công nhận lưu hành giống cây trồng.
+
+ 4. Quyết định công nhận lưu hành giống cây trồng được gia hạn khi đáp ứng điều kiện sau đây:
+
+ a) Khi tổ chức, cá nhân yêu cầu;
+
+ b) Có kết quả khảo nghiệm có kiểm soát quy định tại điểm a khoản 2 Điều 18 của Luật này đạt tiêu chuẩn quốc gia về giá trị canh tác, giá trị sử dụng.
+
+ 5. Quyết định công nhận lưu hành giống cây trồng bị đình chỉ hiệu lực khi giống cây trồng không duy trì được tính đồng nhất hoặc tính ổn định hoặc giá trị canh tác hoặc giá trị sử dụng như tại thời điểm cấp Quyết định lưu hành giống cây trồng.
+
+ 6. Quyết định công nhận lưu hành giống cây trồng đã bị đình chỉ hiệu lực được phục hồi khi tổ chức, cá nhân được cấp Quyết định công nhận lưu hành giống cây trồng khắc phục được trường hợp quy định tại khoản 5 Điều này.
+
+ 7. Quyết định công nhận lưu hành giống cây trồng bị hủy bỏ trong trường hợp sau đây:
+
+ a) Gian lận hồ sơ đăng ký công nhận lưu hành giống cây trồng;
+
+ b) Không duy trì được tính khác biệt của giống cây trồng như tại thời điểm cấp Quyết định công nhận lưu hành giống cây trồng;
+
+ c) Không khắc phục được trường hợp quy định tại khoản 5 Điều này;
+
+ d) Đã bị xử phạt vi phạm hành chính về giống cây trồng mà còn tái phạm;
+
+ đ) Có hành vi vi phạm khác mà pháp luật quy định phải hủy bỏ.
+
+ 8. Chính phủ quy định hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, gia hạn, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận lưu hành giống cây trồng.Điều 24.4.NĐ.2.2. Quy định chung về thực hiện thủ tục hành chính trong Nghị định này
+
+(Điều 2 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
+
+1. Nộp hồ sơ thực hiện thủ tục hành chính: Tùy theo điều kiện tiếp nhận, trả kết quả của cơ quan giải quyết thủ tục hành chính, tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cơ chế một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax):
+
+a) Trường hợp nộp hồ sơ trực tiếp, qua dịch vụ bưu chính: Các thành phần hồ sơ phải là bản chính hoặc bản sao có chứng thực hoặc bản sao xuất trình bản chính để đối chiếu hoặc bản sao có đóng dấu của cơ sở đối với văn bản do cơ sở ban hành.
+
+b) Trường hợp nộp hồ sơ qua môi trường mạng: Các thành phần hồ sơ phải được scan, chụp từ bản chính.
+
+2. Số lượng hồ sơ: 01 bộ.
+
+3. Thời gian trả lời tính đầy đủ của thành phần hồ sơ:
+
+a) Trường hợp nộp hồ sơ trực tiếp: Cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ.
+
+b) Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo cho tổ chức, cá nhân biết để bổ sung.
+
+4. Cách thức nộp phí, lệ phí thực hiện thủ tục hành chính: Tổ chức, cá nhân nộp phí, lệ phí theo quy định hiện hành trực tiếp tại cơ quan giải quyết thủ tục hành chính hoặc bằng hình thức chuyển khoản hoặc qua dịch vụ khác theo quy định của pháp luật.
+
+5. Cách thức trả kết quả: Cơ quan giải quyết thủ tục hành chính thực hiện trả kết quả giải quyết thủ tục hành chính trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng.
+
+6. Trong Nghị định này có nội dung quy định khác với quy định nêu tại các khoản 1, 2, 3, 4 và 5 Điều này thì thực hiện theo quy định đó.
+
+7. Trường hợp hồ sơ là bản bằng chữ nước ngoài phải có bản dịch ra tiếng Việt được công chứng hoặc bản dịch ra tiếng Việt có xác nhận của cơ quan dịch thuật.
+
+8. Tổ chức, cá nhân chịu trách nhiệm về tính xác thực của hồ sơ đã nộp.
 
 Điều 24.4.NĐ.2.4. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, gia hạn, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận lưu hành giống cây trồng
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Mã phân cấp:** 24004000000000002000002000000000000000000150000000000000000000402713000940000400
+1. Hồ sơ đề nghị cấp Quyết định công nhận lưu hành giống cây trồng:
 
-**ID:** dk_00037344
+a) Văn bản đề nghị cấp Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 01.CN Phụ lục II ban hành kèm theo Nghị định này.
 
----
+b) Kết quả khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống cây trồng đề nghị công nhận lưu hành.
 
+c) Kết quả khảo nghiệm giá trị canh tác, giá trị sử dụng của giống cây trồng.
 
-### Điều 24.4.LQ.16. Cấp Quyết định công nhận lưu hành đặc cách giống cây trồng
+d) Quy trình canh tác của giống do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn.
+
+đ) Bản công bố các thông tin về giống cây trồng do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn theo Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định này.
+
+2. Hồ sơ đề nghị cấp lại Quyết định công nhận lưu hành giống cây trồng:
+
+a) Văn bản đề nghị cấp lại Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 03.CN Phụ lục II ban hành kèm theo Nghị định này.
+
+b) Tài liệu chứng minh nội dung thay đổi đối với trường hợp thay đổi thông tin có liên quan đến tổ chức, cá nhân trong Quyết định công nhận lưu hành giống cây trồng.
+
+3. Hồ sơ đề nghị gia hạn Quyết định công nhận lưu hành giống cây trồng:
+
+a) Văn bản đề nghị gia hạn Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 04.CN Phụ lục II ban hành kèm theo Nghị định này.
+
+b) Kết quả khảo nghiệm có kiểm soát quy định tại điểm a khoản 2 Điều 18 của Luật Trồng trọt thực hiện trong vòng một năm tính đến thời điểm nộp hồ sơ gia hạn Quyết định công nhận lưu hành giống cây trồng.
+
+4. Trình tự, thủ tục, thẩm quyền cấp, cấp lại, gia hạn Quyết định công nhận lưu hành giống cây trồng:
+
+a) Trình tự, thủ tục, thẩm quyền cấp Quyết định công nhận lưu hành giống cây trồng: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt. Trong thời gian 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt thẩm định hồ sơ, cấp Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 05.CN Phụ lục II ban hành kèm theo Nghị định này và đăng tải Quyết định, các tài liệu kèm theo trên cổng thông tin điện tử của Cục Trồng trọt. Trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do. Giống cây trồng được phép lưu hành, kể từ ngày ký Quyết định công nhận lưu hành.
+
+b) Trình tự, thủ tục, thẩm quyền cấp lại Quyết định công nhận lưu hành giống cây trồng: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt. Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt cấp lại Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 06.CN Phụ lục II ban hành kèm theo Nghị định này và đăng tải Quyết định, các tài liệu kèm theo trên cổng thông tin điện tử của Cục Trồng trọt. Trường hợp không cấp lại phải trả lời bằng văn bản và nêu rõ lý do.
+
+c) Trình tự, thủ tục, thẩm quyền gia hạn Quyết định công nhận lưu hành giống cây trồng: Trong thời hạn 06 tháng trước khi Quyết định công nhận lưu hành hết hiệu lực, tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt. Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt cấp Quyết định gia hạn công nhận lưu hành giống cây trồng theo Mẫu số 07.CN Phụ lục II ban hành kèm theo Nghị định này và đăng tải Quyết định, các tài liệu kèm theo trên cổng thông tin điện tử của Cục Trồng trọt. Trường hợp không gia hạn phải trả lời bằng văn bản và nêu rõ lý do.
+
+Trường hợp tổ chức, cá nhân không nộp hồ sơ đăng ký gia hạn theo quy định tại khoản 3 Điều này thì thực hiện theo quy định tại khoản 1 và điểm a khoản 4 Điều này.
+
+5. Đình chỉ hiệu lực Quyết định công nhận lưu hành giống cây trồng
+
+Khi tiếp nhận thông tin về giống cây trồng quy định tại khoản 5 Điều 15 của Luật Trồng trọt, Cục Trồng trọt tổ chức thẩm tra thông tin và ban hành Quyết định đình chỉ lưu hành giống cây trồng khi có đủ bằng chứng vi phạm; đăng tải Quyết định trên cổng thông tin điện tử của Cục Trồng trọt.
+
+6. Phục hồi Quyết định công nhận lưu hành giống cây trồng
+
+Giống cây trồng sau khi khắc phục được các vi phạm quy định tại khoản 5 Điều 15 của Luật Trồng trọt và được tổ chức khảo nghiệm xác nhận, tổ chức, cá nhân gửi văn bản đề nghị Cục Trồng trọt phục hồi Quyết định công nhận lưu hành giống cây trồng. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị, Cục Trồng trọt tổ chức thẩm định và thông báo việc phục hồi Quyết định công nhận lưu hành giống cây trồng; đăng tải thông tin trên cổng thông tin điện tử của Cục Trồng trọt. Trường hợp không phục hồi hiệu lực phải trả lời bằng văn bản và nêu rõ lý do.
+
+7. Hủy bỏ Quyết định công nhận lưu hành giống cây trồng
+
+a) Trong thời hạn 10 ngày làm việc, kể từ ngày tiếp nhận thông tin vi phạm quy định tại điểm a, d, đ khoản 7 Điều 15 của Luật Trồng trọt, Cục Trồng trọt tổ chức thẩm định thông tin và ban hành Quyết định hủy bỏ Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 08.CN Phụ lục II ban hành kèm theo Nghị định này; đăng tải Quyết định trên cổng thông tin điện tử của Cục Trồng trọt.
+
+b) Trường hợp tiếp nhận thông tin quy định tại điểm b khoản 7 Điều 15 của Luật Trồng trọt, Cục Trồng trọt tổ chức thẩm tra thông tin và ban hành Quyết định hủy bỏ Quyết định công nhận lưu hành giống cây trồng khi có đủ bằng chứng vi phạm; đăng tải Quyết định trên cổng thông tin điện tử của Cục Trồng trọt.
+
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
 
 Điều 24.4.LQ.16. Cấp Quyết định công nhận lưu hành đặc cách giống cây trồng
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000020000000000000000001600000000000000000
+ 1. Điều kiện cấp Quyết định công nhận lưu hành đặc cách giống cây trồng bao gồm:
 
-**ID:** dk_00037345
+ a) Là giống cây trồng đặc sản, giống cây trồng bản địa, giống cây trồng đã tồn tại lâu dài trong sản xuất, được địa phương đề nghị;
 
----
+ b) Có bản mô tả đặc tính của giống và hiện trạng sử dụng;
 
+ c) Có mẫu lưu theo quy định tại Điều 20 của Luật này.
 
-### Điều 24.4.NĐ.2.5. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ quyết định công nhận lưu hành đặc cách giống cây trồng
+ 2. Đối với Quyết định công nhận lưu hành đặc cách quy định tại khoản 1 Điều này, không áp dụng quy định tại các khoản 2, 4, 5 và 6 Điều 15 của Luật này.
 
-Điều 24.4.NĐ.2.5. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ quyết định công nhận lưu hành đặc cách giống cây trồng
+ 3. Chính phủ quy định hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ Quyết định công nhận lưu hành đặc cách giống cây trồng.Điều 24.4.NĐ.2.5. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ quyết định công nhận lưu hành đặc cách giống cây trồng
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Mã phân cấp:** 24004000000000002000002000000000000000000160000000000000000000402713000940000500
+1. Hồ sơ đề nghị cấp, cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng:
 
-**ID:** dk_00037346
+a) Văn bản đề nghị công nhận lưu hành đặc cách giống cây trồng của Sở Nông nghiệp và Phát triển nông thôn theo Mẫu số 01.ĐC Phụ lục III ban hành kèm theo Nghị định này.
 
----
+b) Bản mô tả đặc tính của giống và hiện trạng sử dụng theo Mẫu số 02.ĐC Phụ lục III ban hành kèm theo Nghị định này.
 
+c) Biên bản nộp mẫu lưu.
 
-### Điều 24.4.LQ.17. Tự công bố lưu hành giống cây trồng
+d) Trường hợp cấp lại phải có văn bản đề nghị cấp lại theo Mẫu số 03.ĐC Phụ lục III ban hành kèm theo Nghị định này.
+
+2. Trình tự, thủ tục, thẩm quyền cấp, cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng:
+
+a) Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt tổ chức thẩm định hồ sơ và cấp Quyết định công nhận lưu hành đặc cách giống cây trồng theo Mẫu số 04.ĐC Phụ lục III ban hành kèm theo Nghị định này. Trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+
+b) Quyết định công nhận lưu hành đặc cách giống cây trồng được cấp lại trong trường hợp bị mất hoặc hư hỏng. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản đề nghị cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng theo Mẫu số 03.ĐC Phụ lục III ban hành kèm theo Nghị định này, Cục Trồng trọt cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng theo Mẫu số 05.ĐC Phụ lục III ban hành kèm theo Nghị định này. Trường hợp không cấp lại phải trả lời bằng văn bản và nêu rõ lý do.
+
+3. Trình tự, thủ tục, thẩm quyền hủy bỏ Quyết định công nhận lưu hành đặc cách giống cây trồng
+
+Trong thời hạn 10 ngày làm việc, kể từ ngày tiếp nhận thông tin vi phạm quy định tại khoản 7 Điều 15 của Luật Trồng trọt, Cục Trồng trọt tổ chức thẩm định thông tin và ban hành Quyết định hủy bỏ Quyết định công nhận lưu hành đặc cách giống cây trồng theo Mẫu số 06.ĐC Phụ lục III ban hành kèm theo Nghị định này; đăng tải Quyết định trên cổng thông tin điện tử của Cục Trồng trọt.
+
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
 
 Điều 24.4.LQ.17. Tự công bố lưu hành giống cây trồng
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000020000000000000000001700000000000000000
+ 1. Điều kiện tự công bố lưu hành giống cây trồng bao gồm:
 
-**ID:** dk_00037347
+ a) Có tên giống cây trồng;
 
----
+ b) Có giá trị canh tác, giá trị sử dụng đạt tiêu chuẩn quốc gia đối với loài cây trồng tự công bố lưu hành; trường hợp không có tiêu chuẩn quốc gia thì áp dụng tiêu chuẩn cơ sở;
 
+ c) Có thông tin về giống cây trồng, quy trình sản xuất do tổ chức, cá nhân tự công bố lưu hành giống cây trồng biên soạn.
 
-### Điều 24.4.NĐ.2.6. Hồ sơ, trình tự, thủ tục tự công bố lưu hành giống cây trồng
+ 2. Tổ chức, cá nhân tự công bố lưu hành giống cây trồng phải chịu trách nhiệm về tính chính xác đối với thông tin đã công bố.
 
-Điều 24.4.NĐ.2.6. Hồ sơ, trình tự, thủ tục tự công bố lưu hành giống cây trồng
+ 3. Chính phủ quy định hồ sơ, trình tự, thủ tục tự công bố lưu hành giống cây trồng.
 
-**Chỉ mục:** 6
+ Điều 24.4.NĐ.2.6. Hồ sơ, trình tự, thủ tục tự công bố lưu hành giống cây trồng
 
-**Mã phân cấp:** 24004000000000002000002000000000000000000170000000000000000000402713000940000600
+(Điều 6 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**ID:** dk_00037348
+1. Hồ sơ tự công bố lưu hành giống cây trồng:
 
----
+a) Bản tự công bố lưu hành giống cây trồng theo Phụ lục IV ban hành kèm theo Nghị định này.
 
+b) Quy trình canh tác của giống do tổ chức, cá nhân tự công bố lưu hành giống cây trồng biên soạn.
 
-### Điều 24.4.LQ.18. Nội dung khảo nghiệm giống cây trồng
+c) Bản công bố các thông tin về giống cây trồng theo Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định này.
+
+2. Trình tự, thủ tục tự công bố lưu hành giống cây trồng:
+
+a) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ của tổ chức, cá nhân tự công bố lưu hành giống cây trồng, Cục Trồng trọt đăng tải trên cổng thông tin điện tử của Cục Trồng trọt. Tổ chức, cá nhân được sản xuất, kinh doanh giống cây trồng sau khi thông tin được đăng tải trên cổng thông tin điện tử của Cục Trồng trọt.
+
+b) Trường hợp hồ sơ không đầy đủ theo quy định tại khoản 1 Điều này, Cục Trồng trọt thông báo bằng văn bản cho tổ chức, cá nhân và nêu rõ lý do.
+
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
+
+Mục 3
+
+KHẢO NGHIỆM GIỐNG CÂY TRỒNG
 
 Điều 24.4.LQ.18. Nội dung khảo nghiệm giống cây trồng
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000030000000000000000001800000000000000000
+ 1. Khảo nghiệm tính khác biệt, tính đồng nhất và tính ổn định của giống cây trồng.
 
-**ID:** dk_00037350
+ 2. Khảo nghiệm giá trị canh tác, giá trị sử dụng của giống cây trồng bao gồm:
 
----
+ a) Khảo nghiệm có kiểm soát;
 
+ b) Khảo nghiệm diện hẹp trên đồng ruộng;
 
-### Điều 24.4.LQ.19. Yêu cầu chung về khảo nghiệm giống cây trồng
+ c) Khảo nghiệm diện rộng trên đồng ruộng.Điều 24.4.LQ.19. Yêu cầu chung về khảo nghiệm giống cây trồng
 
-Điều 24.4.LQ.19. Yêu cầu chung về khảo nghiệm giống cây trồng
+(Điều 19 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 19
+ 1. Khảo nghiệm giống cây trồng quy định tại khoản 1 và điểm a khoản 2 Điều 18 của Luật này chỉ được tiến hành tại 01 địa điểm cố định.
 
-**Mã phân cấp:** 240040000000000020000030000000000000000001900000000000000000
+ 2. Khảo nghiệm giống cây trồng quy định tại điểm b và điểm c khoản 2 Điều 18 của Luật này được thực hiện theo từng vùng. Giống cây trồng khảo nghiệm ở vùng nào thì được cấp Quyết định công nhận lưu hành giống cây trồng ở vùng đó.
 
-**ID:** dk_00037351
+ 3. Phương pháp khảo nghiệm và phân vùng khảo nghiệm giống cây trồng được quy định tại tiêu chuẩn quốc gia về phương pháp khảo nghiệm đối với loài cây trồng khảo nghiệm.
 
----
+ 4. Vườn cây của giống cây trồng lâu năm do tổ chức, cá nhân đứng tên đăng ký công nhận lưu hành thiết lập phù hợp với tiêu chuẩn quốc gia về phương pháp khảo nghiệm giống cây trồng được sử dụng để đánh giá các chỉ tiêu cần thiết.
 
+ 5. Khảo nghiệm diện hẹp và khảo nghiệm diện rộng được tiến hành đồng thời.
 
-### Điều 24.4.TT.16.1.
+ 6. Phương pháp giải trình tự gen được sử dụng thay thế phương pháp khảo nghiệm tính khác biệt để kiểm tra tính đúng giống.
 
-*Nội dung chưa có sẵn*
+ 7. Trước khi khảo nghiệm giống cây trồng biến đổi gen phải thực hiện đánh giá rủi ro theo quy định của pháp luật về đa dạng sinh học.(Điều này có nội dung liên quan đến Điều 21.2.LQ.65. Trách nhiệm quản lý rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học; Điều 21.2.LQ.66. Lập, thẩm định báo cáo đánh giá rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học; cấp giấy chứng nhận an toàn của sinh vật biển đổi gen, mẫu vật di truyền của sinh vật biển đổi gen đối với đa dạng sinh học; Điều 21.2.LQ.67. Công khai thông tin về mức độ rủi ro và biện pháp quản lý rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học; Điều 21.2.LQ.68. Quản lý cơ sở dữ liệu về sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen liên quan đến đa dạng sinh học; Điều 21.2.NĐ.2.4. An toàn sinh học đối với mẫu vật di truyền của sinh vật biến đổi gen; Điều 21.2.NĐ.2.5. Nguyên tắc đánh giá rủi ro của sinh vật biến đổi gen đối với môi trường, đa dạng sinh học, sức khỏe con người và vật nuôi; Điều 21.2.NĐ.2.6. Nội dung đánh giá rủi ro của sinh vật biến đổi gen đối với môi trường, đa dạng sinh học, sức khỏe con người và vật nuôi; Điều 21.2.NĐ.2.7. Báo cáo đánh giá rủi ro của sinh vật biến đổi gen đối với môi trường, đa dạng sinh học, sức khỏe con người và vật nuôi; Điều 21.2.NĐ.2.8. Trách nhiệm quản lý rủi ro của sinh vật biến đổi gen đối với môi trường, đa dạng sinh học, sức khỏe con người và vật nuôi; Điều 21.2.NĐ.2.9. Thanh tra, kiểm tra việc thực hiện các biện pháp quản lý rủi ro của sinh vật biến đổi gen; Điều 21.2.NĐ.2.14. Yêu cầu đối với hoạt động khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.15. Nội dung khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.16. Điều kiện công nhận Cơ sở khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.17. Thẩm quyền, trình tự, thủ tục công nhận, thu hồi quyết định công nhận Cơ sở khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.17a. Tổ chức và hoạt động của Hội đồng khảo nghiệm đánh giá rủi ro sinh vật biến đổi gen; Điều 21.2.NĐ.2.17b. Thẩm quyền, trình tự, thủ tục cấp lại quyết định công nhận cơ sở khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.18. Thẩm quyền, trình tự, thủ tục cấp, thu hồi Giấy phép khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.19. Giấy phép khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.19a. Thẩm quyền, trình tự, thủ tục cấp lại Giấy phép khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.20. Trách nhiệm thực hiện khảo nghiệm sinh vật biến đổi gen; Điều 21.2.NĐ.2.21. Công nhận kết quả khảo nghiệm sinh vật biến đổi gen)
 
-**Chỉ mục:** 1
+Điều 24.4.TT.16.1. 
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000190000000000000000000802404700480000100
+(Điều 1 Thông tư số 48/2011/TT-BNNPTNT Ban hành Quy chuẩn kỹ thuật Quốc gia về khảo nghiệm giống cây trồng ngày 05/07/2011 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 05/01/2012 )
 
-**ID:** dk_00037352
+Ban hành kèm theo Thông tư này 10 Quy chuẩn kỹ thuật Quốc gia:
 
----
+1. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống lúa.
 
+Ký hiệu: QCVN 01-55 : 2011/BNNPTNT
 
-### Điều 24.4.TT.19.1.
+2. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống ngô.
 
-*Nội dung chưa có sẵn*
+Ký hiệu: QCVN 01-56 : 2011/BNNPTNT
 
-**Chỉ mục:** 1
+3. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống lạc.
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000190000000000000000000802415100670000100
+Ký hiệu: QCVN 01-57 : 2011/BNNPTNT
 
-**ID:** dk_00037353
+4. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống đậu tương.
 
----
+Ký hiệu: QCVN 01-58 : 2011/BNNPTNT
 
+5. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống khoai tây.
 
-### Điều 24.4.TT.25.1.
+Ký hiệu: QCVN 01-59 : 2011/BNNPTNT
 
-*Nội dung chưa có sẵn*
+6. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống khoai lang.
 
-**Chỉ mục:** 1
+Ký hiệu: QCVN 01-60 : 2011/BNNPTNT
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000190000000000000000000802439700240000100
+7. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống sắn.
 
-**ID:** dk_00037354
+Ký hiệu: QCVN 01-61 : 2011/BNNPTNT
 
----
+8. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống đậu xanh.
 
+Ký hiệu: QCVN 01-62 : 2011/BNNPTNT
 
-### Điều 24.4.TT.29.1.
+9. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống cà chua.
 
-*Nội dung chưa có sẵn*
+Ký hiệu: QCVN 01-63 : 2011/BNNPTNT
 
-**Chỉ mục:** 1
+10. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống ớt.
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000190000000000000000000802476400330000100
+Ký hiệu: QCVN 01-64 : 2011/BNNPTNT
 
-**ID:** dk_00037355
+Phu luc kem theo Thong tu so 48-2011-TT-BNNPTNT.doc
 
----
+Điều 24.4.TT.19.1.
 
+(Điều 1 Thông tư số 67/2011/TT-BNNPTNT Ban hành Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giống cây trồng ngày 17/10/2011 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 17/04/2012 )
 
-### Điều 24.4.TT.30.1.
+Ban hành kèm theo Thông tư này 6 Quy chuẩn kỹ thuật Quốc gia về khảo nghiệm giống cây trồng:
 
-*Nội dung chưa có sẵn*
+1. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống lúa.
 
-**Chỉ mục:** 1
+Ký hiệu: QCVN 01-65 : 2011/BNNPTNT
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000190000000000000000000802499800050000100
+2. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống ngô.
 
-**ID:** dk_00037356
+Ký hiệu: QCVN 01-66 : 2011/BNNPTNT
 
----
+3. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống lạc.
 
+Ký hiệu: QCVN 01-67 : 2011/BNNPTNT
 
-### Điều 24.4.LQ.20. Lưu mẫu giống cây trồng
+4. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống đậu tương.
 
-*Nội dung chưa có sẵn*
+Ký hiệu: QCVN 01-68 : 2011/BNNPTNT
 
-**Chỉ mục:** 20
+5. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống khoai tây.
 
-**Mã phân cấp:** 240040000000000020000030000000000000000002000000000000000000
+Ký hiệu: QCVN 01-69 : 2011/BNNPTNT
 
-**ID:** dk_00037357
+6. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống cà chua.
 
----
+Ký hiệu: QCVN 01-70 : 2011/BNNPTNT
 
+Phuluc kem theo Thong tu so 67_2011_TT-BNNPTNT.doc
 
-### Điều 24.4.TT.39.3. Lưu mẫu giống cây trồng nhân giống bằng phương pháp hữu tính
+(Điều này có nội dung liên quan đến Điều 19.8.LQ.26. Hệ thống quy chuẩn kỹ thuật và ký hiệu quy chuẩn kỹ thuật)
 
-Điều 24.4.TT.39.3. Lưu mẫu giống cây trồng nhân giống bằng phương pháp hữu tính
+Điều 24.4.TT.25.1. 
 
-**Chỉ mục:** 3
+(Điều 1 Thông tư số 24/2012/TT-BNNPTNT Ban hành Quy chuẩn kỹ thuật Quốc gia khảo nghiệm giống cây trồng ngày 19/06/2012 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 19/12/2012 )
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000200000000000000000000802714400260000300
+Ban hành kèm theo Thông tư này 14 Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giống cây trồng:
 
-**ID:** dk_00037358
+1. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống bông.
 
----
+Ký hiệu: QCVN 01-84:2012/BNNPTNT
 
+2. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống thuốc lá vàng sấy.
 
-### Điều 24.4.TT.39.4. Lưu mẫu giống cây trồng nhân giống bằng phương pháp vô tính
+Ký hiệu: QCVN 01-85:2012/BNNPTNT
+
+3. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống hoa lily.
+
+Ký hiệu: QCVN 01-86:2012/BNNPTNT
+
+4. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống dưa chuột.
+
+Ký hiệu: QCVN 01-87:2012/BNNPTNT
+
+5. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống su hào.
+
+Ký hiệu: QCVN 01-88:2012/BNNPTNT
+
+6. Quy chuẩn kỹ thuật quốc giy về khảo̠nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống hoa cúc.
+
+Ký hiệu: QCVN 01-89:2012/BNNPTNT
+
+7. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống hoa đồng tiền.
+
+Ký hiệu: QCVN 01-90:2012/BNNPTNT
+
+8. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống dưa hấu.
+
+Ký hiệu: QCVN 01-91:2012/BNNPTNT
+
+9. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống cải bắp.
+
+Ký hiệu: QCVN 01-92:2012/BNNPTNT
+
+10. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống dưa chuột.
+
+Ký hiệu: QCVN 01-93:2012/BNNPTNT
+
+11. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống su hào.
+
+Ký hiệu: QCVN 01-94:2012/BNNPTNT
+
+12. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống hoa hồng.
+
+Ký hiệu: QCVN 01-95:2012/BNNPTNT
+
+13. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống ớt.
+
+Ký hiệu: QCVN 01-96:2012/BNNPTNT
+
+14. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống cà rốt.
+
+Ký hiệu: QCVN 01-97:2012/BNNPTNT
+
+Phu luc kem theo Thong tu so 24.2012.TT-BNNPTNT.zip
+
+(Điều này có nội dung liên quan đến Điều 19.8.LQ.26. Hệ thống quy chuẩn kỹ thuật và ký hiệu quy chuẩn kỹ thuật)
+
+Điều 24.4.TT.29.1. 
+
+(Điều 1 Thông tư số 33/2013/TT-BNNPTNT Ban hành Quy chuẩn kỹ thuật Quốc gia về khảo nghiệm giống cây trồng ngày 21/06/2013 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 21/12/2013 )
+
+Ban hành kèm theo Thông tư này 10 Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giống cây trồng:
+
+1. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống cải bắp.
+
+Ký hiệu: QCVN 01-120:2013/BNNPTNT
+
+2. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống dưa hấu.
+
+Ký hiệu: QCVN 01-121:2013/BNNPTNT
+
+3. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống nho.
+
+Ký hiệu: QCVN 01-122:2013/BNNPTNT
+
+4. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống bông.
+
+Ký hiệu: QCVN 01-123:2013/BNNPTNT
+
+5. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống chè.
+
+Ký hiệu: QCVN 01-124:2013/BNNPTNT
+
+6. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống mía.
+
+Ký hiệu: QCVN 01-125:2013/BNNPTNT
+
+7. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống nhãn.
+
+Ký hiệu: QCVN 01-128:2013/BNNPTNT
+
+8. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống thanh long.
+
+Ký hiệu: QCVN 01-129:2013/BNNPTNT
+
+9. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống mía.
+
+Ký hiệu: QCVN 01-131:2013/BNNPTNT
+
+10. Quy chuẩn kỹ thuật quốc gia về khảo nghiệm giá trị canh tác và giá trị sử dụng của giống dâu.
+
+Ký hiệu: QCVN 01-147:2013/BNNPTNT
+
+Phu luc kem theo Thong tu so 33.2013.TT-BNNPTNT.zip
+
+(Điều này có nội dung liên quan đến Điều 19.8.LQ.26. Hệ thống quy chuẩn kỹ thuật và ký hiệu quy chuẩn kỹ thuật)
+
+Điều 24.4.TT.30.1. 
+
+(Điều 1 Thông tư số 05/2014/TT-BNNPTNT Ban hành Quy chuẩn kỹ thuật quốc gia lĩnh vực trồng trọt ngày 10/02/2014 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 10/08/2014 )
+
+Ban hành kèm theo Thông tư này 06 Quy chuẩn kỹ thuật quốc gia về lĩnh vực trồng trọt như sau:
+
+1. Quy chuẩn kỹ thuật Quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống mướp đắng.
+
+Ký hiệu QCVN 01-153 : 2014/BNNPTNT
+
+2. Quy chuẩn kỹ thuật Quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống bí ngô.
+
+Ký hiệu QCVN 01-154 : 2014/BNNPTNT
+
+3. Quy chuẩn kỹ thuật Quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống hoa cẩm chướng.
+
+Ký hiệu QCVN 01-155 : 2014/BNNPTNT
+
+4. Quy chuẩn kỹ thuật Quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống rau dền.
+
+Ký hiệu QCVN 01-156 : 2014/BNNPTNT
+
+5. Quy chuẩn kỹ thuật Quốc gia về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống thu hải đường.
+
+Ký hiệu QCVN 01-157 : 2014/BNNPTNT
+
+6. Quy chuẩn kỹ thuật Quốc gia về điều kiện bảo quản hạt giống lúa, ngô, rau.
+
+Ký hiệu QCVN 01-158 : 2014/BNNPTNT
+
+Phu luc kem theo Thong tu so 05.2014.TT.BNNPTNT.doc
+
+Điều 24.4.LQ.20. Lưu mẫu giống cây trồng
+
+(Điều 20 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Mẫu giống cây trồng khi đăng ký công nhận lưu hành giống cây trồng phải được lưu trong suốt quá trình khảo nghiệm và lưu hành giống cây trồng (sau đây gọi là mẫu lưu) do cơ quan quản lý chuyên ngành về trồng trọt quản lý.
+
+ 2. Việc lưu mẫu giống cây trồng được thực hiện theo một trong các hình thức sau đây:
+
+ a) Lưu vật liệu nhân giống cây trồng;
+
+ b) Lưu giải trình tự gen của giống cây trồng;
+
+ c) Lưu vật liệu nhân giống cây trồng và giải trình tự gen của giống cây trồng.
+
+ 3. Mẫu lưu được sử dụng trong trường hợp sau đây:
+
+ a) Làm giống khảo nghiệm, giống đối chứng, giống tương tự, giống điển hình trong khảo nghiệm; 
+
+ b) Thử nghiệm, kiểm tra chất lượng giống cây trồng; 
+
+ c) Thanh tra, kiểm tra, giải quyết tranh chấp về giống cây trồng.
+
+ 4. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định chi tiết Điều này.Điều 24.4.TT.39.3. Lưu mẫu giống cây trồng nhân giống bằng phương pháp hữu tính
+
+(Điều 3 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
+
+1. Trước khi khảo nghiệm để đăng ký công nhận lưu hành hoặc đăng ký công nhận lưu hành đặc cách giống cây trồng, tổ chức, cá nhân nộp mẫu lưu, Tờ khai kỹ thuật mẫu giống cây trồng quy định tại Phụ lục I, khối lượng mẫu lưu theo quy định tại Phụ lục II ban hành kèm theo Thông tư này cho tổ chức khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định được công nhận (sau đây gọi là tổ chức lưu mẫu).
+
+2. Khi tiếp nhận mẫu lưu, tổ chức lưu mẫu lập Biên bản giao nộp mẫu lưu theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này; kiểm tra chất lượng theo Quy chuẩn kỹ thuật Quốc gia về chất lượng hạt giống trong thời hạn 20 ngày làm việc kể từ ngày nhận được mẫu giống; gửi thông tin về tên giống, tổ chức, cá nhân có mẫu lưu, tổ chức lưu mẫu tới Cục Trồng trọt để đăng tải trên Cổng thông tin điện tử của Cục khi giống đạt chất lượng. Trường hợp chất lượng mẫu giống không đạt, đề nghị tổ chức, cá nhân có giống nộp lại mẫu giống.
+
+3. Hằng năm, tổ chức lưu mẫu kiểm tra chất lượng mẫu lưu. Tổ chức lưu mẫu đề nghị tổ chức, cá nhân có giống nộp bổ sung mẫu hạt giống trong trường hợp chất lượng không đảm bảo theo Quy chuẩn kỹ thuật Quốc gia về chất lượng hạt giống hoặc khối lượng mẫu lưu còn lại dưới 50% theo quy định tại phụ lục II ban hành kèm theo Thông tư này. Mẫu hạt giống nộp bổ sung phải đảm bảo chất lượng theo Quy chuẩn kỹ thuật Quốc gia về chất lượng hạt giống và tính đúng giống.
+
+Phu luc kem theo Thong tu so 26_2019_TT-BNNPTNT.doc
 
 Điều 24.4.TT.39.4. Lưu mẫu giống cây trồng nhân giống bằng phương pháp vô tính
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000200000000000000000000802714400260000400
+ 1. Giống cây trồng nhân giống bằng phương pháp vô tính được lưu mẫu tại tổ chức, cá nhân có giống đăng ký công nhận lưu hành, đăng ký công nhận lưu hành đặc cách.
 
-**ID:** dk_00037359
+ 2. Số lượng tối thiểu cây giống của mẫu lưu theo quy định tại Tiêu chuẩn Quốc gia (TCVN) về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định giống cây trồng.Điều 24.4.TT.39.5. Chấm dứt lưu mẫu giống cây trồng
 
----
+(Điều 5 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
+ 1. Chấm dứt lưu mẫu giống cây trồng trong các trường hợp sau:
 
-### Điều 24.4.TT.39.5. Chấm dứt lưu mẫu giống cây trồng
+ a) Không được cấp Quyết định công nhận lưu hành giống cây trồng; Quyết định công nhận lưu hành giống cây trồng hoặc Quyết định công nhận lưu hành đặc cách giống cây trồng bị hủy bỏ;
 
-Điều 24.4.TT.39.5. Chấm dứt lưu mẫu giống cây trồng
+ b) Tổ chức, cá nhân có giống không nộp bổ sung mẫu lưu trong thời gian tối đa 06 tháng kể từ ngày tổ chức lưu mẫu đề nghị.
 
-**Chỉ mục:** 5
+ 2. Cục Trồng trọt thông báo chấm dứt việc lưu mẫu trên Cổng thông tin điện tử của Cục.Điều 24.4.LQ.21. Cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000200000000000000000000802714400260000500
+(Điều 21 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037360
+ 1. Điều kiện cấp Quyết định công nhận tổ chức khảo nghiệm giống cây trồng bao gồm:
 
----
+ a) Người trực tiếp phụ trách khảo nghiệm có trình độ từ đại học trở lên thuộc một trong các chuyên ngành về cây trồng, bảo vệ thực vật, sinh học;
 
+ b) Có hoặc thuê địa điểm, cơ sở hạ tầng và trang thiết bị phù hợp để thực hiện khảo nghiệm theo tiêu chuẩn quốc gia về khảo nghiệm giống cây trồng đối với loài cây trồng được khảo nghiệm.
 
-### Điều 24.4.LQ.21. Cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
+ 2. Quyết định công nhận tổ chức khảo nghiệm giống cây trồng được cấp lại trong trường hợp sau đây:
 
-Điều 24.4.LQ.21. Cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
+ a) Bị mất, hư hỏng;
 
-**Chỉ mục:** 21
+ b) Thay đổi, bổ sung thông tin liên quan đến tổ chức khảo nghiệm trong Quyết định công nhận tổ chức khảo nghiệm giống cây trồng.
 
-**Mã phân cấp:** 240040000000000020000030000000000000000002100000000000000000
+ 3. Quyết định công nhận tổ chức khảo nghiệm giống cây trồng bị hủy bỏ trong trường hợp sau đây:
 
-**ID:** dk_00037361
+ a) Bị tẩy, xóa, sửa chữa nội dung ghi trong Quyết định công nhận tổ chức khảo nghiệm giống cây trồng;
 
----
+ b) Phát hiện giấy tờ giả, thông tin không trung thực trong hồ sơ đăng ký công nhận tổ chức khảo nghiệm giống cây trồng;
 
+ c) Tổ chức khảo nghiệm có hành vi vi phạm mà pháp luật quy định phải hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng;
 
-### Điều 24.4.NĐ.2.7. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
+ d) Không còn đáp ứng được một trong các điều kiện quy định tại khoản 1 Điều này;
 
-Điều 24.4.NĐ.2.7. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
+ đ) Đã bị xử phạt vi phạm hành chính về hoạt động khảo nghiệm giống cây trồng mà còn tái phạm.
 
-**Chỉ mục:** 7
+ 4. Chính phủ quy định hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng.Điều 24.4.NĐ.2.7. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
 
-**Mã phân cấp:** 24004000000000002000003000000000000000000210000000000000000000402713000940000700
+(Điều 7 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**ID:** dk_00037362
+1. Hồ sơ cấp Quyết định công nhận tổ chức khảo nghiệm giống cây trồng:
 
----
+a) Văn bản đề nghị cấp Quyết định công nhận tổ chức khảo nghiệm giống cây trồng theo Mẫu số 01.KN Phụ lục V ban hành kèm theo Nghị định này.
 
+b) Bản sao văn bằng, chứng chỉ của người trực tiếp phụ trách khảo nghiệm.
 
-### Điều 24.4.LQ.22. Điều kiện của tổ chức, cá nhân sản xuất, buôn bán giống cây trồng
+c) Tài liệu chứng minh địa điểm, cơ sở hạ tầng và trang thiết bị thực hiện khảo nghiệm theo tiêu chuẩn quốc gia về khảo nghiệm giống cây trồng.
+
+2. Hồ sơ cấp lại Quyết định công nhận tổ chức khảo nghiệm giống cây trồng:
+
+a) Văn bản đề nghị cấp lại Quyết định công nhận tổ chức khảo nghiệm giống cây trồng theo Mẫu số 02.KN Phụ lục V ban hành kèm theo Nghị định này;
+
+b) Tài liệu chứng minh nội dung thay đổi đối với trường hợp thay đổi thông tin liên quan đến tổ chức khảo nghiệm trong Quyết định công nhận tổ chức khảo nghiệm giống cây trồng.
+
+3. Trình tự, thủ tục, thẩm quyền cấp, cấp lại Quyết định công nhận tổ chức khảo nghiệm giống cây trồng:
+
+a) Trình tự, thủ tục, thẩm quyền cấp Quyết định công nhận tổ chức khảo nghiệm giống cây trồng: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt, trong thời hạn 25 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt tổ chức thẩm định, đánh giá hồ sơ, năng lực thực tế của cơ sở. Trường hợp tổ chức khảo nghiệm đáp ứng đủ điều kiện, Cục Trồng trọt cấp Quyết định công nhận tổ chức khảo nghiệm theo Mẫu số 03.KN Phụ lục V ban hành kèm theo Nghị định này và đăng tải Quyết định trên Cổng thông tin điện tử của Cục Trồng trọt; thông báo cho tổ chức, cá nhân trong trường hợp hồ sơ cần sửa đổi, bổ sung. Trường hợp tổ chức, cá nhân không hoàn thiện hồ sơ trong thời hạn 6 tháng, kể từ ngày nhận được thông báo của Cục Trồng trọt, tổ chức, cá nhân có trách nhiệm nộp lại hồ sơ theo quy định tại khoản 1 Điều này.
+
+b) Trình tự, thủ tục, thẩm quyền cấp lại Quyết định công nhận tổ chức khảo nghiệm giống cây trồng: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt cấp lại Quyết định công nhận tổ chức khảo nghiệm giống cây trồng theo Mẫu số 04.KN Phụ lục V ban hành kèm theo Nghị định này và đăng tải Quyết định, các tài liệu kèm theo trên cổng thông tin điện tử của Cục Trồng trọt. Trường hợp không cấp lại phải trả lời bằng văn bản và nêu rõ lý do.
+
+c) Chi phí thẩm định thực hiện theo quy định của pháp luật về phí và lệ phí.
+
+4. Trình tự, thủ tục, thẩm quyền hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
+
+Trong thời hạn 10 ngày làm việc, kể từ ngày tiếp nhận thông tin quy định tại khoản 3 Điều 21 của Luật Trồng trọt, Cục Trồng trọt ban hành Quyết định hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng theo Mẫu số 05.KN Phụ lục V ban hành kèm theo Nghị định này khi có đủ bằng chứng; đăng tải Quyết định trên cổng thông tin điện tử của Cục Trồng trọt.
+
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
+
+Mục 4
+
+SẢN XUẤT VÀ BUÔN BÁN GIỐNG CÂY TRỒNG
 
 Điều 24.4.LQ.22. Điều kiện của tổ chức, cá nhân sản xuất, buôn bán giống cây trồng
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000040000000000000000002200000000000000000
+ 1. Tổ chức, cá nhân sản xuất giống cây trồng phải đáp ứng các điều kiện sau đây:
 
-**ID:** dk_00037364
+ a) Có giống cây trồng hoặc được ủy quyền của tổ chức, cá nhân có giống cây trồng được cấp quyết định công nhận lưu hành hoặc đã tự công bố lưu hành giống cây trồng;
 
----
+ b) Có hoặc thuê địa điểm, cơ sở hạ tầng, trang thiết bị theo tiêu chuẩn quốc gia về phương pháp sản xuất giống cây trồng; trường hợp không có tiêu chuẩn quốc gia thì áp dụng tiêu chuẩn cơ sở.
 
+ 2. Tổ chức, cá nhân buôn bán giống cây trồng phải có địa điểm giao dịch hợp pháp và bảo đảm truy xuất nguồn gốc lô giống cây trồng.
 
-### Điều 24.4.NĐ.2.8. Quy định chi tiết điều kiện về sản xuất, buôn bán giống cây trồng
+ 3. Chính phủ quy định chi tiết Điều này.Điều 24.4.NĐ.2.8. Quy định chi tiết điều kiện về sản xuất, buôn bán giống cây trồng
 
-Điều 24.4.NĐ.2.8. Quy định chi tiết điều kiện về sản xuất, buôn bán giống cây trồng
+(Điều 8 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Chỉ mục:** 8
+Tổ chức, cá nhân sản xuất, buôn bán giống cây trồng phải đáp ứng các điều kiện quy định tại Điều 22 của Luật Trồng trọt và một số quy định chi tiết sau đây:
 
-**Mã phân cấp:** 24004000000000002000004000000000000000000220000000000000000000402713000940000800
+1. Trước khi buôn bán giống cây trồng, tổ chức, cá nhân có trách nhiệm gửi thông báo qua thư điện tử hoặc gửi trực tiếp hoặc gửi qua đường bưu điện tới Sở Nông nghiệp và Phát triển nông thôn nơi buôn bán giống cây trồng các thông tin sau: Địa chỉ giao dịch, tên chủ cơ sở hoặc người đại diện hợp pháp, điện thoại liên hệ để đăng tải trên cổng thông tin điện tử của Sở Nông nghiệp và Phát triển nông thôn;
 
-**ID:** dk_00037365
+2. Tổ chức, cá nhân buôn bán giống cây trồng phải có hồ sơ bảo đảm truy xuất nguồn gốc lô giống cây trồng, gồm: Thông tin về hợp đồng, hóa đơn mua bán lô giống; hồ sơ chất lượng lô giống, nhãn phù hợp quy định tại Điều 10 Nghị định này.
 
----
+Đối với giống cây công nghiệp, cây ăn quả lâu năm phải có thêm thông tin về nguồn vật liệu nhân giống đã sử dụng, tiêu chuẩn công bố áp dụng, số lượng cây, thời gian giao nhận cây.
 
+Điều 24.4.LQ.23. Sản xuất giống cây trồng
 
-### Điều 24.4.LQ.23. Sản xuất giống cây trồng
+(Điều 23 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+ 1. Sản xuất giống cây trồng được thực hiện theo phương pháp nhân giống hữu tính và phương pháp nhân giống vô tính theo tiêu chuẩn quốc gia về sản xuất giống cây trồng; trường hợp không có tiêu chuẩn quốc gia thì áp dụng tiêu chuẩn cơ sở.
 
-**Chỉ mục:** 23
+ 2. Cây, vườn cây cung cấp vật liệu phục vụ nhân giống vô tính, hạt lai đa dòng đối với cây ăn quả lâu năm, cây công nghiệp lâu năm phải được cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng theo quy định tại Điều 24 của Luật này.Điều 24.4.LQ.24. Cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
 
-**Mã phân cấp:** 240040000000000020000040000000000000000002300000000000000000
+(Điều 24 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037366
+ 1. Cây được cấp Quyết định công nhận cây đầu dòng sau khi được bình tuyển theo tiêu chuẩn quốc gia về chất lượng cây đầu dòng. Trường hợp không có tiêu chuẩn quốc gia, cơ quan quản lý chuyên ngành về trồng trọt ban hành tiêu chuẩn cơ sở để áp dụng.
 
----
+ 2. Vườn cây được cấp Quyết định công nhận vườn cây đầu dòng sau khi được thẩm định theo tiêu chuẩn quốc gia về chất lượng vườn cây đầu dòng. Trường hợp không có tiêu chuẩn quốc gia, cơ quan quản lý chuyên ngành về trồng trọt ban hành tiêu chuẩn cơ sở để áp dụng.
 
+ 3. Chất lượng cây đầu dòng, vườn cây đầu dòng được quản lý theo tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở về chất lượng cây đầu dòng, vườn cây đầu dòng quy định tại khoản 1 và khoản 2 Điều này.
 
-### Điều 24.4.LQ.24. Cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
+ 4. Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng bị đình chỉ hiệu lực khi cây đầu dòng, vườn cây đầu dòng không còn đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở về chất lượng cây đầu dòng, vườn cây đầu dòng.
 
-Điều 24.4.LQ.24. Cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
+ 5. Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng được phục hồi hiệu lực khi chất lượng của cây đầu dòng, vườn cây đầu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở về chất lượng cây đầu dòng, vườn cây đầu dòng.
 
-**Chỉ mục:** 24
+ 6. Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng bị hủy bỏ khi đã bị đình chỉ hiệu lực theo quy định tại khoản 4 Điều này mà không được phục hồi hiệu lực theo quy định tại khoản 5 Điều này.
 
-**Mã phân cấp:** 240040000000000020000040000000000000000002400000000000000000
+ 7. Chính phủ quy định hồ sơ, trình tự, thủ tục, thẩm quyền cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng.
 
-**ID:** dk_00037367
+ Điều 24.4.NĐ.2.9. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
 
----
+(Điều 9 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
+1. Hồ sơ cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng gồm:
 
-### Điều 24.4.NĐ.2.9. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+a) Văn bản đề nghị cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng theo Mẫu số 01.CĐD Phụ lục VI ban hành kèm theo Nghị định này.
 
-Điều 24.4.NĐ.2.9. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+b) Báo cáo kết quả bình tuyển cây đầu dòng theo Mẫu số 02.CĐD Phụ lục VI ban hành kèm theo Nghị định này; báo cáo kết quả thiết lập vườn cây đầu dòng theo Mẫu số 03.CĐD Phụ lục VI ban hành kèm theo Nghị định này.
 
-**Chỉ mục:** 9
+2. Trình tự, thủ tục, thẩm quyền cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng:
 
-**Mã phân cấp:** 24004000000000002000004000000000000000000240000000000000000000402713000940000900
+a) Tổ chức, cá nhân đăng ký công nhận cây đầu dòng, vườn cây đầu dòng gửi hồ sơ tới Sở Nông nghiệp và Phát triển nông thôn nơi có cây đầu dòng, vườn cây đầu dòng đề nghị công nhận.
 
-**ID:** dk_00037368
+b) Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Nông nghiệp và Phát triển nông thôn ban hành Quyết định thành lập Hội đồng thẩm định cây đầu dòng, vườn cây đầu dòng. Hội đồng tối thiểu 05 thành viên là đại diện các nhà khoa học, cơ quan quản lý và cơ quan chuyên môn liên quan. Trong thời hạn 05 ngày làm việc, kể từ ngày thành lập, Hội đồng có trách nhiệm thẩm định hồ sơ, kiểm tra cây đầu dòng, vườn cây đầu dòng tại địa điểm có cây đầu dòng, vườn cây đầu dòng.
 
----
+c) Trường hợp cây đầu dòng, vườn cây đầu dòng đáp ứng đủ điều kiện, trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc thẩm định, Sở Nông nghiệp và Phát triển nông thôn cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng theo Mẫu số 04.CĐD, Mẫu số 05.CĐD Phụ lục VI ban hành kèm theo Nghị định này. Trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
 
+3. Trình tự, thủ tục, thẩm quyền đình chỉ Quyết định công nhận cây đầu dòng, vườn cây đầu dòng
 
-### Điều 24.4.LQ.25. Yêu cầu chung về quản lý chất lượng giống cây trồng
+a) Định kỳ hàng năm hoặc đột xuất, Sở Nông nghiệp và Phát triển nông thôn tổ chức kiểm tra tình hình khai thác, sử dụng và bảo vệ cây đầu dòng, vườn cây đầu dòng.
+
+b) Trường hợp cây đầu dòng, vườn cây đầu dòng không đảm bảo chất lượng theo quy định tại tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở do Sở Nông nghiệp và Phát triển nông thôn ban hành, đoàn kiểm tra lập biên bản kết quả kiểm tra.
+
+c) Trong thời hạn 05 ngày làm việc, kể từ ngày lập biên bản kiểm tra, Sở Nông nghiệp và Phát triển nông thôn ban hành Quyết định đình chỉ Quyết định công nhận cây đầu dòng, vườn cây đầu dòng.
+
+4. Trình tự, thủ tục, thẩm quyền phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng
+
+a) Khi cây đầu dòng, vườn cây đầu dòng khôi phục được chất lượng đạt tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở, tổ chức, cá nhân gửi văn bản đề nghị Sở Nông nghiệp và Phát triển nông thôn phục hồi Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng.
+
+b) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản, Sở Nông nghiệp và Phát triển nông thôn tổ chức thẩm định. Trường hợp cây đầu dòng, vườn cây đầu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở, Sở Nông nghiệp và Phát triển nông thôn ban hành Quyết định phục hồi Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng. Trường hợp không phục hồi Quyết định phải trả lời bằng văn bản và nêu rõ lý do.
+
+5. Trong thời hạn tối đa 01 năm, kể từ thời điểm ban hành Quyết định đình chỉ, tổ chức, cá nhân không phục hồi được chất lượng cây đầu dòng, vườn cây đầu dòng theo tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở, Sở Nông nghiệp và Phát triển nông thôn ban hành quyết định hủy bỏ Quyết định công nhận cây đầu dòng, vườn cây đầu dòng đã cấp.
+
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
+
+Mục 5
+
+QUẢN LÝ CHẤT LƯỢNG GIỐNG CÂY TRỒNG
 
 Điều 24.4.LQ.25. Yêu cầu chung về quản lý chất lượng giống cây trồng
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000050000000000000000002500000000000000000
+ 1. Quản lý chất lượng giống cây trồng bao gồm quản lý chất lượng giống và quản lý chất lượng vật liệu nhân giống theo quy định của Luật này và pháp luật về chất lượng sản phẩm, hàng hóa.
 
-**ID:** dk_00037370
+ 2. Chất lượng giống cây trồng được quản lý theo tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở đối với từng loài cây trồng theo quy định tại điểm c khoản 1 Điều 15 và điểm b khoản 1 Điều 17 của Luật này.
 
----
+ 3. Chất lượng vật liệu nhân giống cây trồng được quản lý như sau:
 
+ a) Vật liệu nhân giống cây trồng thuộc loài cây trồng chính là sản phẩm, hàng hóa nhóm 2 theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa. Chất lượng vật liệu nhân giống cây trồng chính được quản lý trên cơ sở quy chuẩn kỹ thuật quốc gia về chất lượng vật liệu nhân giống cây trồng và tiêu chuẩn do người sản xuất, nhập khẩu công bố áp dụng;
 
-### Điều 24.4.TT.15.1.
+ b) Vật liệu nhân giống cây trồng không thuộc loài cây trồng chính là sản phẩm, hàng hóa nhóm 1 theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa. Chất lượng vật liệu nhân giống cây trồng không thuộc loài cây trồng chính được quản lý trên cơ sở tiêu chuẩn về chất lượng vật liệu nhân giống cây trồng do tổ chức, cá nhân công bố áp dụng.(Điều này có nội dung liên quan đến Điều 19.1.LQ.1. Phạm vi điều chỉnh; Điều 19.1.NĐ.1.1. Phạm vi điều chỉnh; Điều 19.8.TT.5.1. Phạm vi điều chỉnh; Điều 1. Ban hành kèm theo Thông tư này của Thông tư 14/2018/TT-BNNPTNT ban hành Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn thuộc trách nhiệm quản lý của Bộ Nông nghiệp và Phát triển nông thôn. ban hành ngày 29/10/2018)
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.15.1. 
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 45/2011/TT-BNNPTNT Ban hành Quy chuẩn kỹ thuật Quốc gia về chất lượng giống cây trồng ngày 24/06/2011 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 24/12/2011 )
 
-**Mã phân cấp:** 24004000000000002000005000000000000000000250000000000000000000802403600450000100
+Ban hành kèm theo Thông tư này 08 Quy chuẩn kỹ thuật quốc gia:
 
-**ID:** dk_00037371
+1. Quy chuẩn kỹ thuật quốc gia về chất lượng hạt giống ngô thụ phấn tự do.
 
----
+Ký hiệu: QCVN 01-47 : 2011/BNNPTNT
 
+2. Quy chuẩn kỹ thuật quốc gia về chất lượng hạt giống lạc.
 
-### Điều 24.4.LQ.26. Kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng
+Ký hiệu: QCVN 01-48 : 2011/BNNPTNT
+
+3. Quy chuẩn kỹ thuật quốc gia về chất lượng hạt giống đậu tương.
+
+Ký hiệu: QCVN 01-49 : 2011/BNNPTNT
+
+4. Quy chuẩn kỹ thuật quốc gia về chất lượng hạt giống lúa lai 3 dòng.
+
+Ký hiệu: QCVN 01-50 : 2011/BNNPTNT
+
+5. Quy chuẩn kỹ thuật quốc gia về chất lượng hạt giống lúa lai 2 dòng.
+
+Ký hiệu: QCVN 01-51 : 2011/TTBNNPTNT
+
+6. Quy chuẩn kỹ thuật quốc gia về chất lượng củ giống khoai tây.
+
+Ký hiệu: QCVN 01-52 : 2011/TTBNNPTNT
+
+7. Quy chuẩn kỹ thuật quốc gia về chất lượng hạt giống ngô lai.
+
+Ký hiệu: QCVN 01-53 : 2011/TTBNNPTNT
+
+8. Quy chuẩn kỹ thuật quốc gia về chất lượng hạt giống lúa.
+
+Ký hiệu: QCVN 01-54 : 2011/TTBNNPTNT
+
+Phu luc kem theo Thong tu so 45-2011-TT-BNNPTNT.doc
+
+(Điều này có nội dung liên quan đến Điều 19.8.LQ.26. Hệ thống quy chuẩn kỹ thuật và ký hiệu quy chuẩn kỹ thuật)
 
 Điều 24.4.LQ.26. Kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000050000000000000000002600000000000000000
+ 1. Kiểm định ruộng giống được thực hiện trong quá trình sản xuất giống cây trồng theo tiêu chuẩn quốc gia về phương pháp kiểm định ruộng giống, do người được tập huấn nghiệp vụ thực hiện.
 
-**ID:** dk_00037372
+ 2. Lấy mẫu vật liệu nhân giống cây trồng được thực hiện theo tiêu chuẩn quốc gia về phương pháp lấy mẫu giống cây trồng, do người được tập huấn nghiệp vụ thực hiện.
 
----
+ 3. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định chi tiết Điều này.Điều 24.4.TT.39.6. Tập huấn nghiệp vụ kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng
 
+(Điều 6 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
-### Điều 24.4.TT.39.6. Tập huấn nghiệp vụ kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng
+1. Người kiểm định ruộng giống, người lấy mẫu vật liệu nhân giống cây trồng phải được tập huấn và được cấp Giấy chứng nhận tập huấn nghiệp vụ kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng (sau đây gọi là Giấy chứng nhận).
 
-Điều 24.4.TT.39.6. Tập huấn nghiệp vụ kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng
+2. Nội dung tập huấn về kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng gồm: quy định của pháp luật về quản lý chất lượng giống cây trồng; phương pháp kiểm định ruộng giống, phương pháp lấy mẫu vật liệu nhân giống cây trồng theo TCVN; thực hành kiểm định trên đồng ruộng, lấy mẫu vật liệu nhân giống cây trồng.
 
-**Chỉ mục:** 6
+3. Cục Trồng trọt xây dựng, ban hành tài liệu khung về tập huấn nghiệp vụ kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng; phối hợp với tổ chức có chức năng đào tạo về kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng tổ chức tập huấn.
 
-**Mã phân cấp:** 24004000000000002000005000000000000000000260000000000000000000802714400260000600
+4. Tổ chức có chức năng đào tạo về kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng căn cứ vào tài liệu khung do Cục Trồng trọt ban hành, xây dựng tài liệu chi tiết và tổ chức tập huấn nghiệp vụ kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng, cấp Giấy chứng nhận theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư này, báo cáo Cục Trồng trọt danh sách người được cấp Giấy chứng nhận sau 03 ngày làm việc kể từ ngày cấp Giấy chứng nhận.
 
-**ID:** dk_00037373
-
----
-
-
-### Điều 24.4.LQ.27. Ghi nhãn và quảng cáo giống cây trồng
+Phu luc kem theo Thong tu so 26_2019_TT-BNNPTNT.doc
 
 Điều 24.4.LQ.27. Ghi nhãn và quảng cáo giống cây trồng
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000050000000000000000002700000000000000000
+ 1. Ghi nhãn và quảng cáo giống cây trồng thực hiện theo quy định của Luật này, pháp luật về thương mại, quảng cáo.
 
-**ID:** dk_00037374
+ 2. Nội dung ghi nhãn và quảng cáo giống cây trồng phải phù hợp với thông tin đã công bố trong hồ sơ đăng ký cấp quyết định công nhận lưu hành giống cây trồng được cơ quan có thẩm quyền xác nhận hoặc nội dung tự công bố lưu hành giống cây trồng.
 
----
+ 3. Chính phủ quy định chi tiết Điều này.
 
-
-### Điều 24.4.NĐ.2.10. Ghi nhãn và quảng cáo giống cây trồng
+ (Điều này có nội dung liên quan đến Điều 41.9.LQ.7. Sản phẩm, hàng hóa, dịch vụ cấm quảng cáo; Điều 41.9.LQ.8. Hành vi cấm trong hoạt động quảng cáo; Điều 41.9.LQ.12. Quyền và nghĩa vụ của người quảng cáo; Điều 41.9.LQ.17. Phương tiện quảng cáo; Điều 41.9.LQ.18. Tiếng nói, chữ viết trong quảng cáo; Điều 41.9.LQ.19. Yêu cầu đối với nội dung quảng cáo; Điều 41.9.LQ.20. Điều kiện quảng cáo; Điều 41.9.LQ.39. Quảng cáo của tổ chức, cá nhân nước ngoài tại Việt Nam; Chương X NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ; Điều 41.9.NĐ.1.11. Quảng cáo phân bón, chế phẩm sinh học phục vụ trồng trọt, thức ăn chăn nuôi, chế phẩm sinh học phục vụ chăn nuôi, giống cây trồng, giống vật nuôi; Điều 41.9.NĐ.1.12. Yêu cầu xác nhận nội dung quảng cáo đối với các sản phẩm, hàng hóa, dịch vụ đặc biệt; Điều 24.10.NĐ.1.4. Điều kiện hỗ trợ; Điều 24.10.NĐ.1.4. Điều kiện hỗ trợ; Điều 24.10.NĐ.1.5. Mức hỗ trợ)
 
 Điều 24.4.NĐ.2.10. Ghi nhãn và quảng cáo giống cây trồng
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Mã phân cấp:** 24004000000000002000005000000000000000000270000000000000000000402713000940001000
+1. Ghi nhãn giống cây trồng thực hiện theo quy định tại Nghị định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 của Chính phủ về ghi nhãn hàng hóa và nội dung ghi nhãn như sau:
 
-**ID:** dk_00037375
+a) Tên giống cây trồng.
 
----
+b) Cấp giống theo quy định tại tiêu chuẩn quốc gia. Trường hợp chưa có tiêu chuẩn quốc gia thì áp dụng tiêu chuẩn cơ sở.
 
+c) Đặc tính của giống bao gồm: Chỉ tiêu bắt buộc gồm chỉ tiêu nêu trong tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở về giá trị canh tác, giá trị sử dụng; chỉ tiêu chất lượng vật liệu nhân giống theo quy chuẩn kỹ thuật quốc gia hoặc tiêu chuẩn cơ sở phù hợp quy định tại Điều 25 của Luật Trồng trọt. Trường hợp sử dụng tiêu chuẩn cơ sở khi chưa có tiêu chuẩn quốc gia hoặc quy chuẩn kỹ thuật quốc gia, phải có đủ thông tin về các chỉ tiêu quy định tại Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định này; chỉ tiêu tự nguyện khác về giống cây trồng (nếu có).
 
-### Điều 24.4.LQ.28. Xuất khẩu giống cây trồng
+d) Hướng dẫn bảo quản và sử dụng: Ghi rõ điều kiện bảo quản; phạm vi sử dụng của giống về thời vụ, vùng địa lý, tóm tắt quy trình trồng và chăm sóc (khi có yêu cầu đặc biệt) phù hợp với thông tin trong hồ sơ cấp Quyết định công nhận lưu hành giống cây trồng hoặc tự công bố lưu hành giống cây trồng.
 
-*Nội dung chưa có sẵn*
+đ) Thông tin cảnh báo an toàn (nếu có).
 
-**Chỉ mục:** 28
+e) Định lượng giống cây trồng (khối lượng giống hoặc số lượng cây, bầu, hom giống).
 
-**Mã phân cấp:** 240040000000000020000060000000000000000002800000000000000000
+g) Ngày sản xuất, ngày hết hạn sử dụng; ngày sản xuất cây ghép là ngày ghép; ngày sản xuất cành giống, hom giống là ngày cắt cành giống, hom giống; ngày sản xuất hạt giống, củ giống là ngày thu hoạch; ngày sản xuất của cây giống nhân theo phương pháp nuôi cấy mô là ngày chuyển từ ống nghiệm ra vườn ươm.
 
-**ID:** dk_00037377
+h) Tên và địa chỉ của tổ chức sản xuất, nhập khẩu giống cây trồng.
 
----
+i) Mã số lưu hành giống cây trồng đối với giống cây trồng được cấp quyết định lưu hành, gia hạn quyết định lưu hành.
 
+k) Xuất xứ giống cây trồng: Ghi cụm từ “sản xuất tại” kèm tên nước hoặc vùng lãnh thổ sản xuất với giống cây trồng nhập khẩu.
 
-### Điều 24.4.NĐ.2.11. Hồ sơ, trình tự, thủ tục cấp phép xuất khẩu giống cây trồng theo quy định tại khoản 2 Điều 28 Luật Trồng trọt
+l) Mã hiệu lô giống phù hợp với hồ sơ truy xuất nguồn gốc giống cây trồng, mã hiệu lô giống thực hiện theo Phụ lục VII ban hành kèm theo Nghị định này.
+
+m) Thông tin về cây trồng biến đổi gen đối với vật liệu nhân giống của giống cây trồng biến đổi gen.
+
+2. Quảng cáo giống cây trồng:
+
+a) Giống cây trồng có Quyết định công nhận lưu hành, Quyết định công nhận lưu hành đặc cách, giống cây trồng tự công bố lưu hành tại Việt Nam được quảng cáo theo quy định của pháp luật quảng cáo.
+
+b) Nội dung quảng cáo giống cây trồng phải theo đúng nội dung trong Quyết định công nhận lưu hành, Quyết định công nhận lưu hành đặc cách, bản công bố các thông tin về giống cây trồng tự công bố lưu hành.
+
+3. Trường hợp giống cây trồng nhập khẩu với mục đích triển lãm, hội chợ thì thực hiện quảng cáo theo nội dung Giấy phép nhập khẩu giống cây trồng đã được cơ quan có thẩm quyền cấp.
+
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
+
+Mục 6
+
+XUẤT KHẨU VÀ NHẬP KHẨU GIỐNG CÂY TRỒNG
+
+Điều 24.4.LQ.28. Xuất khẩu giống cây trồng
+
+(Điều 28 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Giống cây trồng đã được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành và không thuộc Danh mục nguồn gen giống cây trồng cấm xuất khẩu được xuất khẩu và thực hiện theo quy định của pháp luật về thương mại, quản lý ngoại thương.
+
+ 2. Giống cây trồng và hạt lai của giống cây trồng chưa được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành và không thuộc Danh mục nguồn gen giống cây trồng cấm xuất khẩu chỉ được xuất khẩu phục vụ nghiên cứu, khảo nghiệm, quảng cáo, triển lãm, trao đổi quốc tế không vì mục đích thương mại và phải được Bộ Nông nghiệp và Phát triển nông thôn cho phép.
+
+ 3. Chính phủ quy định hồ sơ, trình tự, thủ tục cấp phép xuất khẩu giống cây trồng quy định tại khoản 2 Điều này.(Điều này có nội dung liên quan đến Điều 1. Ban hành kèm theo Thông tư này: của Thông tư 11/2021/TT-BNNPTNT Ban hành bảng mã số HS đối với danh mục hàng hóa thuộc thẩm quyền quản lý nhà nước của Bộ Nông nghiệp và Phát triển nông thôn và danh mục hàng hóa xuất, nhập khẩu phải kiểm tra chuyên ngành trong lĩnh vực nông nghiệp và phát triển nông thôn ban hành ngày 20/09/2021; Điều 34.3.LQ.43. Chuyển khẩu hàng hóa; Điều 34.3.LQ.48. Quản lý hoạt động đại lý mua bán hàng hóa cho thương nhân nước ngoài; Điều 34.3.LQ.49. Quản lý hoạt động thuê thương nhân nước ngoài làm đại lý mua bán hàng hóa tại nước ngoài; Điều 34.3.LQ.50. Quản lý hoạt động ủy thác và nhận ủy thác xuất khẩu, nhập khẩu hàng hóa; Điều 34.3.LQ.51. Quản lý hoạt động nhận gia công hàng hóa cho thương nhân nước ngoài; Điều 34.3.LQ.52. Quản lý hoạt động đặt gia công hàng hóa ở nước ngoài; Điều 34.3.LQ.61. Áp dụng biện pháp kỹ thuật đối với hàng hóa xuất khẩu, nhập khẩu; Điều 34.3.LQ.63. Áp dụng biện pháp kiểm dịch thực vật; Điều 34.3.LQ.65. Hàng hóa xuất khẩu, nhập khẩu phải kiểm tra; Điều 34.3.NĐ.8.3. Quyền tự do kinh doanh xuất khẩu, nhập khẩu; Điều 34.3.NĐ.8.4. Thủ tục xuất khẩu, nhập khẩu; Điều 34.3.NĐ.8.5. Hàng hóa cấm xuất khẩu, cấm nhập khẩu; Điều 34.3.NĐ.8.6. Chỉ định thương nhân xuất khẩu, nhập khẩu; Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện; Điều 34.3.NĐ.8.9. Hồ sơ, quy trình cấp giấy phép xuất khẩu, nhập khẩu; Điều 34.3.NĐ.8.10. Giấy chứng nhận lưu hành tự do (CFS) đối với hàng hóa nhập khẩu; Điều 34.3.NĐ.8.11. CFS đối với hàng hóa xuất khẩu)
 
 Điều 24.4.NĐ.2.11. Hồ sơ, trình tự, thủ tục cấp phép xuất khẩu giống cây trồng theo quy định tại khoản 2 Điều 28 Luật Trồng trọt
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Mã phân cấp:** 24004000000000002000006000000000000000000280000000000000000000402713000940001100
+1. Hồ sơ:
 
-**ID:** dk_00037378
+a) Văn bản đề nghị cấp phép xuất khẩu theo Mẫu số 01.XK Phụ lục VIII ban hành kèm theo Nghị định này.
 
----
+b) Tờ khai kỹ thuật (mỗi giống chỉ nộp một lần khi xuất khẩu lần đầu) theo Mẫu số 02.XK Phụ lục VIII ban hành kèm theo Nghị định này.
 
+c) Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận Đầu tư hoặc Chứng minh thư nhân dân hoặc Căn cước công dân đối với cá nhân đăng ký xuất khẩu.
 
-### Điều 24.4.LQ.29. Nhập khẩu giống cây trồng
+d) Bản sao thỏa thuận hợp tác bằng tiếng nước ngoài kèm theo bản dịch công chứng sang tiếng Việt đối với trường hợp xuất khẩu phục vụ nghiên cứu, khảo nghiệm, hợp tác quốc tế.
 
-*Nội dung chưa có sẵn*
+đ) Giấy xác nhận hoặc Giấy mời tham gia hội chợ, triển lãm của đơn vị tổ chức đối với trường hợp xuất khẩu để tham gia hội chợ, triển lãm.
 
-**Chỉ mục:** 29
+2. Trình tự, thủ tục cấp phép xuất khẩu giống cây trồng:
 
-**Mã phân cấp:** 240040000000000020000060000000000000000002900000000000000000
+a) Tổ chức, cá nhân nộp hồ sơ đến Cục Trồng trọt. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Trồng trọt tổ chức thẩm định; thông báo cho tổ chức, cá nhân trong trường hợp hồ sơ cần sửa đổi, bổ sung. Trường hợp tổ chức, cá nhân không hoàn thiện hồ sơ trong thời hạn 90 ngày, kể từ ngày nhận được thông báo của Cục Trồng trọt, tổ chức, cá nhân có trách nhiệm nộp lại hồ sơ theo quy định tại khoản 1 Điều này.
 
-**ID:** dk_00037379
+b) Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt tổ chức thẩm định hồ sơ, cấp Giấy phép xuất khẩu theo Mẫu số 03.XK Phụ lục VIII ban hành kèm theo Nghị định này; đăng thông tin trên cổng thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn, Cục Trồng trọt. Trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
 
----
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
 
+Điều 24.4.LQ.29. Nhập khẩu giống cây trồng
 
-### Điều 24.4.NĐ.2.12. Hồ sơ, trình tự, thủ tục cấp phép nhập khẩu giống cây trồng theo quy định tại khoản 2 Điều 29 Luật Trồng trọt
+(Điều 29 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Giống cây trồng, hạt bố mẹ để sản xuất hạt lai của giống cây trồng đã được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành; hạt giống bố mẹ để sản xuất hạt lai phục vụ xuất khẩu được nhập khẩu và thực hiện theo quy định của pháp luật về thương mại, quản lý ngoại thương.
+
+ Trường hợp nhập khẩu phục vụ mục đích mua bán phải có hồ sơ, tài liệu đáp ứng các quy định tại khoản 1 Điều 23 và khoản 1 Điều 26 của Luật này.
+
+ 2. Giống cây trồng chưa được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành chỉ được nhập khẩu phục vụ nghiên cứu, khảo nghiệm, quảng cáo, triển lãm, trao đổi quốc tế và phải được Bộ Nông nghiệp và Phát triển nông thôn cho phép.
+
+ 3. Giống cây trồng nhập khẩu phục vụ sản xuất, mua bán phải được kiểm tra nhà nước về chất lượng do cơ quan quản lý chuyên ngành về trồng trọt thuộc Bộ Nông nghiệp và Phát triển nông thôn tổ chức thực hiện và đạt yêu cầu về chất lượng, trừ trường hợp sau đây:
+
+ a) Hạt bố mẹ để sản xuất hạt lai của giống cây trồng;
+
+ b) Giống cây trồng chưa được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành nhập khẩu theo quy định tại khoản 2 Điều này;
+
+ c) Giống cây trồng tạm nhập, tái xuất hoặc quá cảnh hoặc chuyển khẩu;
+
+ d) Giống cây trồng gửi kho ngoại quan.
+
+ 4. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định trình tự, thủ tục kiểm tra nhà nước về chất lượng giống cây trồng nhập khẩu.
+
+ 5. Chính phủ quy định hồ sơ, trình tự, thủ tục cấp phép nhập khẩu giống cây trồng.
+
+ (Điều này có nội dung liên quan đến Điều 1. Ban hành kèm theo Thông tư này: của Thông tư 11/2021/TT-BNNPTNT Ban hành bảng mã số HS đối với danh mục hàng hóa thuộc thẩm quyền quản lý nhà nước của Bộ Nông nghiệp và Phát triển nông thôn và danh mục hàng hóa xuất, nhập khẩu phải kiểm tra chuyên ngành trong lĩnh vực nông nghiệp và phát triển nông thôn ban hành ngày 20/09/2021; Điều 34.3.LQ.43. Chuyển khẩu hàng hóa; Điều 34.3.LQ.48. Quản lý hoạt động đại lý mua bán hàng hóa cho thương nhân nước ngoài; Điều 34.3.LQ.49. Quản lý hoạt động thuê thương nhân nước ngoài làm đại lý mua bán hàng hóa tại nước ngoài; Điều 34.3.LQ.50. Quản lý hoạt động ủy thác và nhận ủy thác xuất khẩu, nhập khẩu hàng hóa; Điều 34.3.LQ.51. Quản lý hoạt động nhận gia công hàng hóa cho thương nhân nước ngoài; Điều 34.3.LQ.52. Quản lý hoạt động đặt gia công hàng hóa ở nước ngoài; Điều 34.3.LQ.61. Áp dụng biện pháp kỹ thuật đối với hàng hóa xuất khẩu, nhập khẩu; Điều 34.3.LQ.63. Áp dụng biện pháp kiểm dịch thực vật; Điều 34.3.LQ.65. Hàng hóa xuất khẩu, nhập khẩu phải kiểm tra; Điều 24.10.NĐ.1.3. Nguyên tắc hỗ trợ; Điều 34.3.NĐ.8.3. Quyền tự do kinh doanh xuất khẩu, nhập khẩu; Điều 34.3.NĐ.8.4. Thủ tục xuất khẩu, nhập khẩu; Điều 34.3.NĐ.8.5. Hàng hóa cấm xuất khẩu, cấm nhập khẩu; Điều 34.3.NĐ.8.6. Chỉ định thương nhân xuất khẩu, nhập khẩu; Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện; Điều 34.3.NĐ.8.9. Hồ sơ, quy trình cấp giấy phép xuất khẩu, nhập khẩu; Điều 34.3.NĐ.8.10. Giấy chứng nhận lưu hành tự do (CFS) đối với hàng hóa nhập khẩu; Điều 34.3.NĐ.8.11. CFS đối với hàng hóa xuất khẩu)
 
 Điều 24.4.NĐ.2.12. Hồ sơ, trình tự, thủ tục cấp phép nhập khẩu giống cây trồng theo quy định tại khoản 2 Điều 29 Luật Trồng trọt
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Mã phân cấp:** 24004000000000002000006000000000000000000290000000000000000000402713000940001200
+1. Hồ sơ:
 
-**ID:** dk_00037380
+a) Văn bản đề nghị nhập khẩu theo Mẫu số 01.NK Phụ lục IX ban hành kèm theo Nghị định này.
 
----
+b) Tờ khai kỹ thuật (mỗi giống chỉ nộp một lần khi nhập khẩu lần đầu) theo Mẫu số 02.NK Phụ lục IX ban hành kèm theo Nghị định này.
 
+c) Bản sao thỏa thuận hợp tác giữa các bên đối với trường hợp nhập khẩu phục vụ nghiên cứu, khảo nghiệm, hợp tác quốc tế.
 
-### Điều 24.4.TT.39.7. Đối tượng kiểm tra
+d) Giấy xác nhận hoặc Giấy mời tham gia hội chợ, triển lãm của đơn vị tổ chức đối với trường hợp nhập khẩu để tham gia hội chợ, triển lãm.
 
-*Nội dung chưa có sẵn*
+2. Trình tự, thủ tục cấp phép nhập khẩu giống cây trồng:
 
-**Chỉ mục:** 7
+a) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Trồng trọt tổ chức thẩm định hồ sơ; thông báo cho tổ chức, cá nhân trong trường hợp hồ sơ cần sửa đổi, bổ sung. Trường hợp tổ chức, cá nhân không hoàn thiện hồ sơ trong thời hạn 90 ngày, kể từ ngày nhận được thông báo của Cục Trồng trọt, tổ chức, cá nhân có trách nhiệm nộp lại hồ sơ theo quy định tại khoản 1 Điều này.
 
-**Mã phân cấp:** 24004000000000002000006000000000000000000290000000000000000000802714400260000700
+b) Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt tổ chức thẩm định, cấp Giấy phép nhập khẩu giống cây trồng theo Mẫu số 03.XK Phụ lục VIII ban hành kèm theo Nghị định này; đăng tải thông tin trên cổng thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn, Cục Trồng trọt. Trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
 
-**ID:** dk_00037381
+3. Giống cây trồng biến đổi gen sau khi được cấp Giấy chứng nhận an toàn sinh học, Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi theo quy định của pháp luật về đa dạng sinh học được nhập khẩu với mục đích khảo nghiệm để đăng ký cấp Quyết định công nhận lưu hành giống cây trồng thực hiện theo quy định tại khoản 1, khoản 2 Điều này; Điều 4 Nghị định này và Điều 15 của Luật Trồng trọt.
 
----
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
 
+Điều 24.4.TT.39.7. Đối tượng kiểm tra
 
-### Điều 24.4.TT.39.8. Quy định kiểm tra nhà nước về chất lượng giống cây trồng nhập khẩu
+(Điều 7 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
-Điều 24.4.TT.39.8. Quy định kiểm tra nhà nước về chất lượng giống cây trồng nhập khẩu
+ Giống cây trồng nhập khẩu thuộc loài cây trồng chính thuộc Danh mục sản phẩm hàng hóa nhóm 2 do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành phục vụ sản xuất, mua bán, trừ trường hợp quy định tại các điểm a, b, c, d khoản 3 Điều 29 Luật Trồng trọt.Điều 24.4.TT.39.8. Quy định kiểm tra nhà nước về chất lượng giống cây trồng nhập khẩu
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
-**Mã phân cấp:** 24004000000000002000006000000000000000000290000000000000000000802714400260000800
+ 1. Kiểm tra nhà nước về chất lượng giống cây trồng nhập khẩu được thực hiện thông qua đánh giá chứng nhận hợp quy lô giống nhập khẩu do tổ chức chứng nhận hợp quy được Cục Trồng trọt chỉ định thực hiện.
 
-**ID:** dk_00037382
+ 2. Tổ chức, cá nhân nhập khẩu giống cây trồng đăng ký chứng nhận hợp quy với tổ chức chứng nhận hợp quy chất lượng giống cây trồng được Cục Trồng trọt chỉ định; nộp Giấy chứng nhận hợp quy lô giống nhập khẩu cho cơ quan hải quan để được phép thông quan hàng hóa.Điều 24.4.TT.39.9. Xử lý lô giống nhập khẩu không đạt chất lượng
 
----
+(Điều 9 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
+ Trường hợp lô giống cây trồng nhập khẩu có chất lượng không phù hợp Quy chuẩn kỹ thuật Quốc gia, tổ chức chứng nhận hợp quy báo cáo và đề xuất biện pháp xử lý với Cục Trồng trọt. Tùy theo tính chất, mức độ vi phạm, Cục Trồng trọt quyết định buộc tái xuất, tiêu hủy hoặc tái chế lô giống cây trồng nhập khẩu, đồng thời thông báo cho cơ quan hải quan để phối hợp xử lý và người nhập khẩu biết để thực hiện.Mục 7
 
-### Điều 24.4.TT.39.9. Xử lý lô giống nhập khẩu không đạt chất lượng
-
-Điều 24.4.TT.39.9. Xử lý lô giống nhập khẩu không đạt chất lượng
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 24004000000000002000006000000000000000000290000000000000000000802714400260000900
-
-**ID:** dk_00037383
-
----
-
-
-### Điều 24.4.LQ.30. Quyền và nghĩa vụ của tổ chức, cá nhân nghiên cứu, chọn, tạo giống cây trồng
+QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN HOẠT ĐỘNG VỀ GIỐNG CÂY TRỒNG
 
 Điều 24.4.LQ.30. Quyền và nghĩa vụ của tổ chức, cá nhân nghiên cứu, chọn, tạo giống cây trồng
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000070000000000000000003000000000000000000
+ 1. Tổ chức, cá nhân nghiên cứu, chọn, tạo giống cây trồng có quyền sau đây:
 
-**ID:** dk_00037385
+ a) Đầu tư nghiên cứu, chọn, tạo giống cây trồng; điều tra, đánh giá, thu thập, lưu giữ, khai thác nguồn vật liệu nhân giống trong nước hoặc nhập khẩu phục vụ nghiên cứu, chọn, tạo giống cây trồng;
 
----
+ b) Được hưởng chính sách hỗ trợ của Nhà nước về đầu tư cho khoa học và công nghệ, chính sách đặc thù cho lĩnh vực, vùng theo quy định của pháp luật;
 
+ c) Hợp tác với tổ chức, cá nhân trong nước và nước ngoài để nghiên cứu, chọn, tạo giống cây trồng theo quy định của pháp luật.
 
-### Điều 24.4.LQ.31. Quyền và nghĩa vụ của tổ chức, cá nhân đứng tên đăng ký cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành giống cây trồng
+ 2. Tổ chức, cá nhân nghiên cứu, chọn, tạo giống cây trồng có nghĩa vụ sau đây:
 
-Điều 24.4.LQ.31. Quyền và nghĩa vụ của tổ chức, cá nhân đứng tên đăng ký cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành giống cây trồng
+ a) Thực hiện đầy đủ nghĩa vụ theo quy định của pháp luật về khoa học và công nghệ, quy định khác của pháp luật có liên quan;
 
-**Chỉ mục:** 31
+ b) Đăng ký bảo hộ quyền đối với giống cây trồng trước khi đưa vào kinh doanh, chuyển giao trong trường hợp nghiên cứu, chọn, tạo, phát hiện và phát triển giống cây trồng bằng nguồn ngân sách nhà nước hoặc từ dự án do Nhà nước quản lý; khi chuyển giao giống cây trồng phải thực hiện theo quy định của pháp luật về chuyển giao công nghệ;
 
-**Mã phân cấp:** 240040000000000020000070000000000000000003100000000000000000
+ c) Tuân thủ quy định của pháp luật về đa dạng sinh học và quy định khác của pháp luật có liên quan khi tiến hành nghiên cứu, chọn, tạo, thí nghiệm, khảo nghiệm giống cây trồng biến đổi gen.Điều 24.4.LQ.31. Quyền và nghĩa vụ của tổ chức, cá nhân đứng tên đăng ký cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành giống cây trồng
 
-**ID:** dk_00037386
+(Điều 31 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+ 1. Tổ chức, cá nhân đứng tên đăng ký cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành giống cây trồng được quyền lưu hành giống cây trồng hoặc ủy quyền cho tổ chức, cá nhân khác lưu hành giống cây trồng.
 
+ 2. Tổ chức, cá nhân đứng tên đăng ký cấp quyết định công nhận lưu hành hoặc tổ chức, cá nhân được ủy quyền công nhận lưu hành giống cây trồng có nghĩa vụ sau đây:
 
-### Điều 24.4.LQ.32. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng giống cây trồng
+ a) Duy trì tính khác biệt, tính đồng nhất, tính ổn tính, giá trị canh tác, giá trị sử dụng của giống cây trồng trong quá trình lưu hành, trừ trường hợp được cấp Quyết định công nhận lưu hành đặc cách giống cây trồng quy định tại Điều 16 của Luật này;
 
-Điều 24.4.LQ.32. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng giống cây trồng
+ b) Bồi thường thiệt hại khi lưu hành giống cây trồng không đúng với giống đã được cấp quyết định công nhận lưu hành; lưu hành giống giả, giống không đạt quy chuẩn kỹ thuật quốc gia về chất lượng hoặc tiêu chuẩn quốc gia về chất lượng hoặc tiêu chuẩn cơ sở về chất lượng đã công bố; cung cấp sai thông tin về giống cây trồng và quy trình sản xuất đã được cơ quan có thẩm quyền xác nhận.
 
-**Chỉ mục:** 32
+ 3. Tổ chức, cá nhân tự công bố lưu hành hoặc được ủy quyền tự công bố lưu hành giống cây trồng có nghĩa vụ bồi thường thiệt hại khi lưu hành giống cây trồng không đúng với giống đã tự công bố lưu hành; lưu hành giống giả, giống không đạt quy chuẩn kỹ thuật quốc gia hoặc tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở đã công bố; cung cấp sai thông tin về giống cây trồng và quy trình sản xuất đã công bố.Điều 24.4.LQ.32. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng giống cây trồng
 
-**Mã phân cấp:** 240040000000000020000070000000000000000003200000000000000000
+(Điều 32 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037387
+ 1. Tổ chức, cá nhân sử dụng giống cây trồng có quyền sau đây:
 
----
+ a) Được cung cấp đầy đủ thông tin về giống cây trồng và hướng dẫn sử dụng giống cây trồng;
 
+ b) Được bồi thường thiệt hại theo quy định của pháp luật;
 
-### Điều 24.4.LQ.33. Quyền và nghĩa vụ của tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
+ c) Kiến nghị, khiếu nại, tố cáo, khởi kiện về hành vi vi phạm pháp luật của tổ chức, cá nhân được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành giống cây trồng.
 
-Điều 24.4.LQ.33. Quyền và nghĩa vụ của tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
+ 2. Tổ chức, cá nhân sử dụng giống cây trồng có nghĩa vụ sau đây:
 
-**Chỉ mục:** 33
+ a) Tuân thủ quy trình sản xuất do tổ chức, cá nhân đứng tên đăng ký cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành giống cây trồng công bố;
 
-**Mã phân cấp:** 240040000000000020000070000000000000000003300000000000000000
+ b) Khi xảy ra sự cố hoặc phát hiện hậu quả xấu do giống cây trồng gây ra phải kịp thời thông báo cho tổ chức, cá nhân cung cấp giống cây trồng và chính quyền địa phương để xử lý.Điều 24.4.LQ.33. Quyền và nghĩa vụ của tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
 
-**ID:** dk_00037388
+(Điều 33 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+ 1. Tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng có quyền khai thác hoặc ủy quyền cho tổ chức, cá nhân khai thác vật liệu nhân giống phục vụ mục đích sản xuất, mua bán.
 
+ 2. Tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng có nghĩa vụ sau đây:
 
-### Điều 24.4.LQ.34. Quyền và nghĩa vụ của tổ chức khảo nghiệm giống cây trồng
+ a) Bảo đảm chất lượng giống cây trồng như khi được công nhận;
 
-Điều 24.4.LQ.34. Quyền và nghĩa vụ của tổ chức khảo nghiệm giống cây trồng
+ b) Khai thác vật liệu nhân giống theo Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng;
 
-**Chỉ mục:** 34
+ c) Nộp phí theo quy định của pháp luật về phí và lệ phí.Điều 24.4.LQ.34. Quyền và nghĩa vụ của tổ chức khảo nghiệm giống cây trồng
 
-**Mã phân cấp:** 240040000000000020000070000000000000000003400000000000000000
+(Điều 34 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037389
+ 1. Tổ chức khảo nghiệm giống cây trồng có quyền sau đây:
 
----
+ a) Tiến hành khảo nghiệm giống cây trồng trên cơ sở hợp đồng ký kết với tổ chức, cá nhân đề nghị;
 
+ b) Được thanh toán chi phí khảo nghiệm giống cây trồng trên cơ sở hợp đồng với tổ chức, cá nhân đề nghị.
 
-### Điều 24.4.TT.39.12. Trách nhiệm của tổ chức, cá nhân có liên quan
+ 2. Tổ chức khảo nghiệm giống cây trồng có nghĩa vụ sau đây:
 
-Điều 24.4.TT.39.12. Trách nhiệm của tổ chức, cá nhân có liên quan
+ a) Thực hiện khảo nghiệm theo đúng nội dung ghi trong Quyết định công nhận tổ chức khảo nghiệm giống cây trồng;
 
-**Chỉ mục:** 12
+ b) Chịu trách nhiệm trước pháp luật về kết quả khảo nghiệm và lưu kết quả theo quy định của pháp luật về lưu trữ;
 
-**Mã phân cấp:** 24004000000000002000007000000000000000000340000000000000000000802714400260001200
+ c) Chịu trách nhiệm bảo mật trước tổ chức, cá nhân có giống cây trồng khảo nghiệm.
 
-**ID:** dk_00037390
+ 3. Tổ chức khảo nghiệm giống cây trồng phải từ chối khảo nghiệm phục vụ mục đích cấp Quyết định công nhận lưu hành giống cây trồng trong trường hợp sau đây:
 
----
+ a) Giống do tổ chức khảo nghiệm đó đứng tên đăng ký cấp Quyết định công nhận lưu hành;
 
+ b) Giống của đơn vị liên danh với tổ chức khảo nghiệm khi đăng ký chứng nhận đủ điều kiện khảo nghiệm;
 
-### Điều 24.4.LQ.35. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất, buôn bán giống cây trồng
+ c) Giống của các công ty trong cùng một công ty mẹ hoặc tập đoàn hoặc tổng công ty trong đó có tổ chức khảo nghiệm;
 
-Điều 24.4.LQ.35. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất, buôn bán giống cây trồng
+ d) Giống của các đơn vị trong cùng một đơn vị sự nghiệp trong đó có tổ chức khảo nghiệm.Điều 24.4.TT.39.12. Trách nhiệm của tổ chức, cá nhân có liên quan
 
-**Chỉ mục:** 35
+(Điều 12 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
-**Mã phân cấp:** 240040000000000020000070000000000000000003500000000000000000
+ 1. Tổ chức, cá nhân lưu mẫu có trách nhiệm:
 
-**ID:** dk_00037391
+ a) Lưu mẫu giống cây trồng theo quy định tại Thông tư này;
 
----
+ b) Cung cấp mẫu giống cho cơ quan quản lý nhà nước thực hiện thanh tra, kiểm tra, giải quyết tranh chấp về giống cây trồng; đảm bảo đồng nhất giữa mẫu lưu với mẫu giống cung cấp cho cơ quan quản lý nhà nước;
 
+ c) Phối hợp với Sở Nông nghiệp và Phát triển nông thôn nơi có giống công nhận lưu hành đặc cách hoàn thiện bản mô tả giống theo TCVN về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định.
 
-### Điều 24.4.QĐ.1.1.
+ 2. Tổ chức, cá nhân có mẫu lưu có trách nhiệm cung cấp mẫu giống cho tổ chức lưu mẫu, tổ chức khảo nghiệm giá trị canh tác, giá trị sử dụng đảm bảo tính đồng nhất với mẫu lưu.
 
-*Nội dung chưa có sẵn*
+ 3. Tổ chức, cá nhân nhập khẩu giống cây trồng có trách nhiệm:
 
-**Chỉ mục:** 1
+ a) Cung cấp tờ khai hải quan, giấy chứng nhận xuất xứ nguồn gốc của lô giống cho tổ chức chứng nhận hợp quy chất lượng giống cây trồng; phối hợp với tổ chức đánh giá sự phù hợp thực hiện lấy mẫu, chứng nhận hợp quy lô giống nhập khẩu;
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802165500740000100
+ b) Thực hiện quyết định xử lý của Cục Trồng trọt đối với lô giống nhập khẩu không đạt chất lượng.
 
-**ID:** dk_00037393
+ Điều 24.4.LQ.35. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất, buôn bán giống cây trồng
 
----
+(Điều 35 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Tổ chức, cá nhân sản xuất, buôn bán giống cây trồng có quyền sản xuất, buôn bán giống cây trồng khi đáp ứng điều kiện quy định tại Điều 22 của Luật này.
 
-### Điều 24.4.QĐ.1.3.
+ 2. Tổ chức, cá nhân sản xuất, buôn bán giống cây trồng có nghĩa vụ sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Thực hiện đầy đủ quy định tại Điều 22 của Luật này;
 
-**Chỉ mục:** 3
+ b) Thực hiện công bố hợp chuẩn, hợp quy theo quy định của pháp luật;
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802165500740000300
+ c) Thu hồi, xử lý giống cây trồng không bảo đảm chất lượng khi lưu thông trên thị trường;
 
-**ID:** dk_00037394
+ d) Bồi thường thiệt hại theo quy định của pháp luật;
 
----
+ đ) Cung cấp tài liệu minh chứng về nguồn gốc vật liệu nhân giống, tài liệu truy xuất nguồn gốc lô giống cây trồng;
 
+ e) Thực hiện dán nhãn đối với giống cây trồng biến đổi gen theo quy định của pháp luật.
 
-### Điều 24.4.QĐ.2.1.
+ Mục 8
 
-*Nội dung chưa có sẵn*
+DANH MỤC GIỐNG CÂY TRỒNG ĐƯỢC PHÉP SẢN XUẤT, KINH DOANH
 
-**Chỉ mục:** 1
+(Mục này có nội dung liên quan đến Điều 24.4.LQ.85. Quy định chuyển tiếp của Luật 31/2018/QH14 Trồng trọt ban hành ngày 19/11/2018)
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802235301030000100
+Điều 24.4.QĐ.1.1.
 
-**ID:** dk_00037395
+(Điều 1 Quyết định số 74/2004/QĐ-BNN, có hiệu lực thi hành kể từ ngày 19/01/2005, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Quyết định số 40/2006/QĐ-BNN có hiệu lực thi hành kể từ ngày 14/06/2006)
 
----
+Ban hành kèm theo Quyết định này Danh mục giống cây trồng được phép sản xuất, kinh doanh.
 
+Phu luc kem theo Quyet dinh so 74.2004.QD.BNNPTNT- da sua doi.doc
 
-### Điều 24.4.QĐ.3.1.
+Điều 24.4.QĐ.1.3. 
 
-*Nội dung chưa có sẵn*
+(Điều 3 Quyết định số 74/2004/QĐ-BNN, có hiệu lực thi hành kể từ ngày 19/01/2005)
 
-**Chỉ mục:** 1
+Trong từng thời kỳ, Bộ Nông nghiệp và Phát triển nông thôn, Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương sẽ điều chỉnh, bổ sung tên các giống cây trồng vào danh mục nhằm đáp ứng yêu cầu sản xuất, kinh doanh.
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802254900470000100
+Điều 24.4.QĐ.2.1.
 
-**ID:** dk_00037396
+(Điều 1 Quyết định số 103/2006/QĐ-BNN Về việc ban hành Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ngày 14/11/2006 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 13/12/2006 )
 
----
+Ban hành kèm theo Quyết định này Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh.
 
+Phu luc kem theo Quyet dinh so 103.2006.QĐ.BNNPTNT.doc
 
-### Điều 24.4.QĐ.4.1.
+Điều 24.4.QĐ.3.1.
 
-*Nội dung chưa có sẵn*
+(Điều 1 Quyết định số 47/2007/QĐ-BNN Về việc ban hành Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ngày 29/05/2007 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 08/07/2007 )
 
-**Chỉ mục:** 1
+Ban hành kèm theo Quyết định này Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh.
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802285800500000100
+Phu luc kem theo Quyet dinh so 47_2007_QD-BNNPTNT.doc
 
-**ID:** dk_00037397
+Điều 24.4.QĐ.4.1.
 
----
+(Điều 1 Quyết định số 50/2008/QĐ-BNN Ban hành Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ngày 02/04/2008 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 24/04/2008 )
 
+Ban hành kèm theo Quyết định này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh”.
 
-### Điều 24.4.QĐ.5.1.
+Phu luc kem theo Quyet dinh so 50_2008_QD-BNN.doc
 
-*Nội dung chưa có sẵn*
+Điều 24.4.QĐ.5.1.
 
-**Chỉ mục:** 1
+(Điều 1 Quyết định số 104/2008/QĐ-BNN Ban hành Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ngày 21/10/2008 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 16/11/2008 )
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802306001040000100
+Ban hành kèm theo Quyết định này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh”.
 
-**ID:** dk_00037398
+Phu luc kem theo Quyet dinh so 104_2008_QD-BNN.doc
 
----
+Điều 24.4.QĐ.6.1.
 
+(Điều 1 Quyết định số 124/2008/QĐ-BNN Về việc ban hành Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ngày 30/12/2008 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 29/01/2009 )
 
-### Điều 24.4.QĐ.6.1.
+Ban hành kèm theo Quyết định này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh”.
 
-*Nội dung chưa có sẵn*
+Phu luc kem theo Quyet dinh so 124_2008_QD-BNN.doc
 
-**Chỉ mục:** 1
+Điều 24.4.TT.1.1.
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802313001240000100
+(Điều 1 Thông tư số 21/2009/TT-BNN Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” ngày 24/04/2009 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 08/06/2009 )
 
-**ID:** dk_00037399
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam”.
 
----
+Phu luc kem theo Thong tu so 21_2009_TT-BNN.doc
 
+Điều 24.4.TT.2.1.
 
-### Điều 24.4.TT.1.1.
+(Điều 1 Thông tư số 40/2009/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” ngày 09/07/2009 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 23/08/2009 )
 
-*Nội dung chưa có sẵn*
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam”.
 
-**Chỉ mục:** 1
+Phu luc kem theo Thong tu so 40_2009_TT-BNNPTNT.doc
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802324500210000100
+Điều 24.4.TT.3.1.
 
-**ID:** dk_00037400
+(Điều 1 Thông tư số 61/2009/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” ngày 25/09/2009 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 09/11/2009 )
 
----
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” (Phụ lục kèm theo) bao gồm: 03 giống lúa; 04 giống ngô và 01 giống hoa.
 
+Phu luc kem theo Thong tu so 61_2009_TT-BNNPTNT.doc
 
-### Điều 24.4.TT.2.1.
+Điều 24.4.TT.4.1.
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 84/2009/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” ngày 29/12/2009 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 12/02/2010 )
 
-**Chỉ mục:** 1
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” (Phụ lục kèm theo) bao gồm: 06 giống lúa lai ; 02 giống ngô lai và 01 giống dâu.
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802332100400000100
+Phu luc kem theo Thong tu so 84_2009_TT-BNNPTNT.doc
 
-**ID:** dk_00037401
+Điều 24.4.TT.5.1.
 
----
+(Điều 1 Thông tư số 11/2010/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” ngày 10/03/2010 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 24/04/2010 )
 
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” (Phụ lục kèm theo) bao gồm: 02 giống lúa lai.
 
-### Điều 24.4.TT.3.1.
+Phu luc kem theo Thong tu so 11_2010_TT-BNNPTNT_1026.doc
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.6.1. 
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 22/2010/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” ngày 06/04/2010 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 21/05/2010 )
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802339900610000100
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 02 giống ngô nếp, 2 giống bông, 1 giống thuốc lá nâu, 1 giống cam mật không hạt và 1 giống măng tây (Phụ lục kèm theo).
 
-**ID:** dk_00037402
+Phu luc kem theo Thong tu so 22_2010_TT-BNNPTNT.doc
 
----
+Điều 24.4.TT.7.1. 
 
+(Điều 1 Thông tư số 30/2010/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” ngày 11/05/2010 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 25/06/2010 )
 
-### Điều 24.4.TT.4.1.
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 01 giống lúa lai, 01 giống ngô lai, 01 giống cà chua và 01 giống lúa thuần IR 38 (Phụ lục kèm theo) .
 
-*Nội dung chưa có sẵn*
+Phu luc kem theo Thong tu so 30_2010_TT-BNNPTNT.doc
 
-**Chỉ mục:** 1
+Điều 24.4.TT.8.1. 
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802349400840000100
+(Điều 1 Thông tư số 34/2010/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” ngày 23/06/2010 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 07/08/2010 )
 
-**ID:** dk_00037403
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 01 giống lúa thuần, 02 giống ngô lai, 01 giống ngô nếp (Phụ lục kèm theo) .
 
----
+Phu luc kem theo Thong tu so 34_2010_TT-BNNPTNT.doc
 
+Điều 24.4.TT.9.1. 
 
-### Điều 24.4.TT.5.1.
+(Điều 1 Thông tư số 49/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 08/10/2010, có nội dung bị bãi bỏ bởi Điều 28 Nghị định số 84/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+Ban hành kèm theo Thông tư này
 
-**Chỉ mục:** 1
+1. Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam, bao gồm: 01 giống lúa lai, 01 giống đậu tương (Phụ lục 01 kèm theo).
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802356500110000100
+Phu luc kem theo Thong tu so 49_2010_TT-BNNPTNT da bi bai bo mot phan.doc
 
-**ID:** dk_00037404
+Điều 24.4.TT.10.1. 
 
----
+(Điều 1 Thông tư số 55/2010/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” ngày 28/09/2010 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 12/11/2010 )
 
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 01 giống lúa lai, 01 giống lúa nếp, 01 giống ngô lai, 01 giống đậu tương, 01 giống lạc (Phụ lục kèm theo)
 
-### Điều 24.4.TT.6.1.
+Phu luc kem thông tu so 55_2010_TT-BNNPTNT.doc
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.11.1. 
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 65/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 20/12/2010, có nội dung bị bãi bỏ bởi Điều 28 Nghị định số 84/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802359200220000100
+Ban hành kèm theo Thông tư này
 
-**ID:** dk_00037405
+1. Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh tại Việt Nam, bao gồm: 01 giống lúa lai, 01 giống sắn, 02 giống đậu tương (Phụ lục 01 kèm theo).
 
----
+2. Danh mục bổ sung thuốc thú y, vắc xin, chế phẩm sinh học, vi sinh vật, hóa chất dùng trong thú y được phép lưu hành tại Việt Nam, bao gồm: 327 sản phẩm (Phụ lục 02 kèm theo).
 
+Phu luc kem theo Thong tu so 65_2010_TT-BNNPTNT_da bi bai bo mot phan.doc
 
-### Điều 24.4.TT.7.1.
+Điều 24.4.TT.12.1. 
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 70/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 22/01/2011, có nội dung bị bãi bỏ bởi Điều 28 Nghị định số 84/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 1
+Ban hành kèm theo Thông tư này
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802362700300000100
+1. Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam bao gồm: 07 giống lúa thuần; 01 giống lúa nếp; 03 giống lúa lai, 01 giống ngô lai, 01 giống thuốc lá và 03 giống cỏ (Phụ lục 01 kèm theo).
 
-**ID:** dk_00037406
+Phu luc kem theo Thong tu so 70_2010_TT-BNNPTNT_da bi bai bo mot phan.doc
 
----
+Điều 24.4.TT.13.1. 
 
+(Điều 1 Thông tư số 30/2011/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” ngày 20/04/2011 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 04/06/2011 )
 
-### Điều 24.4.TT.8.1.
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 02 giống cỏ lai; 03 giống lúa lai; 02 giống lúa thuần; 01 giống lúa nếp; 07 giống ngô lai; 02 giống ngô nếp lai và 01 giống đậu tương (Phụ lục kèm theo).
 
-*Nội dung chưa có sẵn*
+Phu luc kem theo Thong tu so 30_2011_TT-BNNPTNT.doc
 
-**Chỉ mục:** 1
+Điều 24.4.TT.14.1. 
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802367000340000100
+(Điều 1 Thông tư số 41/2011/TT-BNNPTNT Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam ngày 02/06/2011 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 17/07/2011 )
 
-**ID:** dk_00037407
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 04 giống cà phê vối; 01 giống ngô lai và 02 giống ngô nếp lai (Phụ lục kèm theo).
 
----
+Phu luc kem theo Thong tu so 41_2011_TT-BNNPTNT.doc
 
+Điều 24.4.TT.17.1. 
 
-### Điều 24.4.TT.9.1.
+(Điều 1 Thông tư số 51/2011/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” ngày 27/07/2011 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 10/09/2011 )
 
-*Nội dung chưa có sẵn*
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 01 giống lúa lai; 02 giống cao su chịu lạnh; 02 giống vải chín sớm; 03 giống nhãn chín muộn và 04 giống dừa (Phụ lục kèm theo).
 
-**Chỉ mục:** 1
+Phu luc kem theo Thong tu so 51_2011_TT-BNNPTNT.doc
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802373200490000100
+Điều 24.4.TT.18.1.
 
-**ID:** dk_00037408
+(Điều 1 Thông tư số 64/2011/TT-BNNPTNT Ban hành: "Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam" ngày 04/10/2011 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 18/11/2011 )
 
----
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 05 giống lúa thuần; 01 giống lúa nếp; 01 giống lúa lai; 01 giống ngô lai; 01 giống ngô nếp lai (Phụ lục kèm theo).
 
+Phu luc kem theo Thong tu so 64_2011_TT-BNNPTNT.doc
 
-### Điều 24.4.TT.10.1.
+Điều 24.4.TT.20.1. 
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 82/2011/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” ngày 08/12/2011 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 22/01/2012 )
 
-**Chỉ mục:** 1
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 05 giống lúa lai; 01 giống ngô lai; 01 giống khoai tây (Phụ lục kèm theo).
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802376700550000100
+Phu luc kem theo Thong tu so 82_2011_TT-BNNPTNT.doc
 
-**ID:** dk_00037409
+Điều 24.4.TT.21.1.
 
----
+(Điều 1 Thông tư số 09/2012/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” ngày 15/02/2012 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 31/03/2012 )
 
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất kinh doanh ở Việt Nam” bao gồm: 3 giống lúa lai; 3 giống lúa thuần; 01 giống cỏ ngọt và 01 giống ngô nếp (Phụ lục kèm theo).
 
-### Điều 24.4.TT.11.1.
+Phu luc kem theo Thong tu so 09_2012_TT-BNNPTNT.doc
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.22.1. 
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 12/2012/TT-BNNPTNT Ban hành "Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam" ngày 01/03/2012 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 15/04/2012 )
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802380500650000100
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” bao gồm: 12 giống lúa thuần; 01 giống hồng; 01 giống cam; 01 giống táo và 03 giống thuốc lá (Phụ lục kèm theo).
 
-**ID:** dk_00037410
+Phu luc kem theo Thong tu so 12_2012_TT-BNNPTNT.doc
 
----
+Điều 24.4.TT.23.1. 
 
+(Điều 1 Thông tư số 17/2012/TT-BNNPTNT Ban hành "Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam" ngày 18/04/2012 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 02/06/2012 )
 
-### Điều 24.4.TT.12.1.
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” bao gồm: 02 giống cà phê chè; 01 giống sắn; 05 giống ngô và 01 giống lúa (Phụ lục kèm theo).
 
-*Nội dung chưa có sẵn*
+Phu luc kem theo Thong tu so 17-2012-TT-BNNPTNT.zip
 
-**Chỉ mục:** 1
+Điều 24.4.TT.24.1. 
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802383800700000100
+(Điều 1 Thông tư số 21/2012/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” ngày 05/06/2012 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 20/07/2012 )
 
-**ID:** dk_00037411
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” bao gồm: 01 giống lúa; 02 giống ngô và 01 giống sắn (Phụ lục kèm theo).
 
----
+Phu luc kem theo Thong tu so 21.2012.TT-BNNPTNT.zip
 
+Điều 24.4.TT.26.1. 
 
-### Điều 24.4.TT.13.1.
+(Điều 1 Thông tư số 44/2012/TT-BNNPTNT Ban hành “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” ngày 11/09/2012 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 26/10/2012 )
 
-*Nội dung chưa có sẵn*
+Ban hành kèm theo Thông tư này “Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam” bao gồm: 05 giống lúa, 01 giống ngô, 01 giống dừa Dứa, 01 giống nho và 01 giống lê (Phụ lục kèm theo).
 
-**Chỉ mục:** 1
+Phu luc kem theo Thong tu so 44_2012_TT-BNNPTNT.doc
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802397100300000100
+Điều 24.4.TT.27.1. 
 
-**ID:** dk_00037412
+(Điều 1 Thông tư số 06/2013/TT-BNNPTNT Ban hành Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam ngày 22/01/2013 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 08/03/2013 )
 
----
+Ban hành kèm theo Thông tư này Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam bao gồm: 10 giống lúa, 03 giống ngô (Phụ lục kèm theo).
 
+Phu luc kem theo Thong tu so 06_2013_TT-BNNPTNT.doc
 
-### Điều 24.4.TT.14.1.
+Điều 24.4.TT.28.1.
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 21/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/06/2013, có nội dung bị bãi bỏ bởi Điều 3 Thông tư số 05/2014/TT-BNNPTNT có hiệu lực thi hành kể từ ngày 10/08/2014)
 
-**Chỉ mục:** 1
+Ban hành kèm theo Thông tư này:
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802401400410000100
+4. Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam, phụ lục 4 kèm theo Thông tư này, gồm: 05 giống lúa, 03 giống nấm.
 
-**ID:** dk_00037413
+Phu luc 4 Kem theo Thong tu so 21.2013.TT-BNNPTNT.doc
 
----
+Điều 24.4.TT.32.1. 
 
+(Điều 1 Thông tư số 01/2015/TT-BNNPTNT Ban hành Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam ngày 22/01/2015 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 09/03/2015 )
 
-### Điều 24.4.TT.17.1.
+Ban hành kèm theo Thông tư này Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam bao gồm: 22 giống lúa, 11 giống ngô, 01 giống chè và 01 giống quýt (Phụ lục kèm theo).
 
-*Nội dung chưa có sẵn*
+Phu luc kem theo Thong tu so 01.2015.TT.BNNPTNT.doc
 
-**Chỉ mục:** 1
+Điều 24.4.TT.33.1. 
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802406900510000100
+(Điều 1 Thông tư số 28/2016/TT-BNNPTNT Ban hành danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam ngày 27/07/2016 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 10/09/2016 )
 
-**ID:** dk_00037414
+Ban hành kèm theo Thông tư này Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam bao gồm: 32 giống lúa, 14 giống ngô, 01 giống cao lương, 03 giống nấm, 01 giống thuốc lá, 02 giống mía, 01 giống lạc tiên và 01 giống cà phê vối (Danh mục kèm theo).
 
----
+Phu luc kem theo Thong tu so 28_2016_TT-BNNPTNT.doc
 
+Điều 24.4.TT.34.1. 
 
-### Điều 24.4.TT.18.1.
+(Điều 1 Thông tư số 01/2019/TT-BNNPTNT Ban hành Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam ngày 18/01/2019 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 05/03/2019 )
 
-*Nội dung chưa có sẵn*
+Ban hành kèm theo Thông tư này Danh mục bổ sung giống cây trồng được phép sản xuất, kinh doanh ở Việt Nam, bao gồm: 22 giống lúa, 21 giống ngô, 03 giống đậu tương, 02 giống khoai tây, 01 giống sắn, 01 giống lạc, 04 giống thuốc lá, 01 giống bông, 02 giống dâu, 02 giống mía, 01 giống nhãn, 02 giống bơ, 01 giống vải, 01 giống dừa, 01 giống thanh long, 01 giống bưởi và 01 giống cam (Danh mục kèm theo).
 
-**Chỉ mục:** 1
+Phu luc kem theo Thong tu so 01_2019_TT-BNNPTNT.doc
 
-**Mã phân cấp:** 240040000000000020000080000000000000000000802413800640000100
+Chương III
 
-**ID:** dk_00037415
+PHÂN BÓN
 
----
+Mục 1
 
-
-### Điều 24.4.TT.20.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802420300820000100
-
-**ID:** dk_00037416
-
----
-
-
-### Điều 24.4.TT.21.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802427200090000100
-
-**ID:** dk_00037417
-
----
-
-
-### Điều 24.4.TT.22.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802428700120000100
-
-**ID:** dk_00037418
-
----
-
-
-### Điều 24.4.TT.23.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802433500174500100
-
-**ID:** dk_00037419
-
----
-
-
-### Điều 24.4.TT.24.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802438300210000100
-
-**ID:** dk_00037420
-
----
-
-
-### Điều 24.4.TT.26.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802448100440000100
-
-**ID:** dk_00037421
-
----
-
-
-### Điều 24.4.TT.27.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802461400060000100
-
-**ID:** dk_00037422
-
----
-
-
-### Điều 24.4.TT.28.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802469900210000100
-
-**ID:** dk_00037423
-
----
-
-
-### Điều 24.4.TT.32.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802534400010000100
-
-**ID:** dk_00037424
-
----
-
-
-### Điều 24.4.TT.33.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802589600280000100
-
-**ID:** dk_00037425
-
----
-
-
-### Điều 24.4.TT.34.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 240040000000000020000080000000000000000000802680100010000100
-
-**ID:** dk_00037426
-
----
-
-
-### Điều 24.4.LQ.36. Yêu cầu về công nhận phân bón lưu hành, phân loại phân bón
+CÔNG NHẬN PHÂN BÓN LƯU HÀNHVÀ KHẢO NGHIỆM PHÂN BÓN
 
 Điều 24.4.LQ.36. Yêu cầu về công nhận phân bón lưu hành, phân loại phân bón
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000030000010000000000000000003600000000000000000
+ 1. Phân bón là hàng hóa kinh doanh có điều kiện và phải được cấp Quyết định công nhận phân bón lưu hành tại Việt Nam, trừ phân bón hữu cơ được sản xuất để sử dụng không vì mục đích thương mại, phân bón được nhập khẩu quy định tại khoản 2 Điều 44 của Luật này; phân bón được sản xuất để xuất khẩu theo hợp đồng với tổ chức, cá nhân nước ngoài.
 
-**ID:** dk_00037429
+ 2. Quyết định công nhận phân bón lưu hành tại Việt Nam có thời hạn là 05 năm và được gia hạn.
 
----
+ 3. Tổ chức, cá nhân trong nước hoặc tổ chức, cá nhân nước ngoài có văn phòng đại diện, chi nhánh công ty hoạt động trong lĩnh vực phân bón tại Việt Nam được đứng tên đăng ký công nhận lưu hành phân bón.
 
+ 4. Mỗi tổ chức, cá nhân chỉ được đứng tên đăng ký công nhận một tên phân bón cho mỗi công thức thành phần, hàm lượng dinh dưỡng phân bón.
 
-### Điều 24.4.LQ.37. Cấp, cấp lại, gia hạn Quyết định công nhận phân bón lưu hành tại Việt Nam
+ 5. Chính phủ quy định về phân loại phân bón.Điều 24.4.LQ.37. Cấp, cấp lại, gia hạn Quyết định công nhận phân bón lưu hành tại Việt Nam
 
-Điều 24.4.LQ.37. Cấp, cấp lại, gia hạn Quyết định công nhận phân bón lưu hành tại Việt Nam
+(Điều 37 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 37
+ 1. Điều kiện cấp Quyết định công nhận phân bón lưu hành tại Việt Nam bao gồm:
 
-**Mã phân cấp:** 240040000000000030000010000000000000000003700000000000000000
+ a) Đáp ứng các chỉ tiêu chất lượng theo quy chuẩn kỹ thuật quốc gia về chất lượng phân bón;
 
-**ID:** dk_00037430
+ b) Có kết quả khảo nghiệm đạt tiêu chuẩn quốc gia, trừ loại phân bón quy định tại khoản 2 Điều 39 của Luật này.
 
----
+ 2. Quyết định công nhận phân bón lưu hành tại Việt Nam được cấp lại trong trường hợp sau đây:
 
+ a) Thay đổi, bổ sung thông tin liên quan đến tổ chức, cá nhân trong Quyết định công nhận phân bón lưu hành;
 
-### Điều 24.4.LQ.38. Hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam
+ b) Quyết định công nhận phân bón lưu hành bị mất, hư hỏng;
 
-Điều 24.4.LQ.38. Hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam
+ c) Thay đổi tên phân bón theo quyết định của cơ quan quản lý nhà nước có thẩm quyền hoặc theo bản án, quyết định của Tòa án trong trường hợp vi phạm pháp luật về sở hữu trí tuệ.
 
-**Chỉ mục:** 38
+ 3. Quyết định công nhận phân bón lưu hành tại Việt Nam được gia hạn khi đáp ứng điều kiện sau đây:
 
-**Mã phân cấp:** 240040000000000030000010000000000000000003800000000000000000
+ a) Khi tổ chức, cá nhân có yêu cầu;
 
-**ID:** dk_00037431
+ b) Đáp ứng chỉ tiêu chất lượng theo quy chuẩn kỹ thuật quốc gia về chất lượng phân bón;
 
----
+ c) Báo cáo tình hình sản xuất, xuất khẩu, nhập khẩu và sử dụng phân bón theo quy định.
 
+ 4. Chính phủ quy định hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, gia hạn Quyết định công nhận phân bón lưu hành tại Việt Nam.Điều 24.4.LQ.38. Hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam
 
-### Điều 24.4.LQ.39. Yêu cầu về khảo nghiệm phân bón
+(Điều 38 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+ 1. Quyết định công nhận phân bón lưu hành tại Việt Nam bị hủy bỏ trong trường hợp sau đây:
 
-**Chỉ mục:** 39
+ a) Có bằng chứng khoa học mới về phân bón có nguy cơ cao gây ảnh hưởng xấu đến sức khỏe con người, môi trường;
 
-**Mã phân cấp:** 240040000000000030000010000000000000000003900000000000000000
+ b) Phát hiện sử dụng tài liệu giả hoặc cung cấp thông tin trong tài liệu không đúng với phân bón đã được công nhận lưu hành.
 
-**ID:** dk_00037432
+ 2. Việc hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam được thực hiện như sau:
 
----
+ a) Đối với trường hợp quy định tại điểm a khoản 1 Điều này, cơ quan quản lý chuyên ngành về phân bón tổng hợp thông tin đánh giá và xem xét hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam. Tổ chức, cá nhân được sản xuất, nhập khẩu phân bón này tối đa là 06 tháng; được mua bán, sử dụng tối đa là 12 tháng kể từ ngày quyết định hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam có hiệu lực;
 
+ b) Đối với trường hợp quy định tại điểm b khoản 1 Điều này, cơ quan quản lý chuyên ngành về phân bón kiểm tra, rà soát hồ sơ, tài liệu công nhận phân bón để xem xét hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam. Tổ chức, cá nhân phải chấm dứt ngay việc sản xuất, nhập khẩu, mua bán, sử dụng phân bón kể từ ngày quyết định hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam có hiệu lực.
 
-### Điều 24.4.LQ.40. Điều kiện công nhận tổ chức khảo nghiệm phân bón
+ 3. Chính phủ quy định hồ sơ, trình tự, thủ tục, thẩm quyền hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam.Điều 24.4.LQ.39. Yêu cầu về khảo nghiệm phân bón
 
-Điều 24.4.LQ.40. Điều kiện công nhận tổ chức khảo nghiệm phân bón
+(Điều 39 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 40
+ 1. Phân bón phải được khảo nghiệm trước khi được công nhận lưu hành, trừ các loại phân bón quy định tại khoản 2 Điều này.
 
-**Mã phân cấp:** 240040000000000030000010000000000000000004000000000000000000
+ 2. Các loại phân bón không phải khảo nghiệm bao gồm:
 
-**ID:** dk_00037433
+ a) Phân bón hữu cơ sử dụng để bón rễ có thành phần chỉ là chất hữu cơ tự nhiên, đáp ứng chỉ tiêu chất lượng theo quy chuẩn kỹ thuật quốc gia;
 
----
+ b) Phân bón vô cơ đơn sử dụng để bón rễ có thành phần chỉ chứa đạm (N) hoặc lân (P) hoặc kali (K), đáp ứng chỉ tiêu chất lượng theo quy chuẩn kỹ thuật quốc gia;
 
+ c) Phân bón vô cơ phức hợp sử dụng để bón rễ trong thành phần chỉ chứa các nguyên tố dinh dưỡng đạm (N), lân (P), kali (K) được liên kết với nhau bằng các liên kết hóa học, đáp ứng chỉ tiêu chất lượng theo quy chuẩn kỹ thuật quốc gia;
 
-### Điều 24.4.LQ.41. Điều kiện sản xuất phân bón
+ d) Phân bón được cơ quan quản lý nhà nước có thẩm quyền công nhận là tiến bộ kỹ thuật.
 
-*Nội dung chưa có sẵn*
+ 3. Phân bón được khảo nghiệm cả diện rộng và diện hẹp; khảo nghiệm diện rộng chỉ được tiến hành sau khi kết thúc khảo nghiệm diện hẹp.
 
-**Chỉ mục:** 41
+ 4. Việc khảo nghiệm phân bón thực hiện theo tiêu chuẩn quốc gia do tổ chức được công nhận đủ điều kiện thực hiện khảo nghiệm.
 
-**Mã phân cấp:** 240040000000000030000020000000000000000004100000000000000000
+ 5. Lượng phân bón được sản xuất, nhập khẩu để khảo nghiệm được xác định dựa trên liều lượng bón cho từng loại cây trồng và diện tích khảo nghiệm thực tế theo tiêu chuẩn quốc gia về khảo nghiệm phân bón.Điều 24.4.LQ.40. Điều kiện công nhận tổ chức khảo nghiệm phân bón
 
-**ID:** dk_00037435
+(Điều 40 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+ 1. Tổ chức khảo nghiệm phân bón phải bảo đảm các điều kiện sau đây:
 
+ a) Người trực tiếp phụ trách khảo nghiệm phải có trình độ từ đại học trở lên thuộc một trong các chuyên ngành về trồng trọt, bảo vệ thực vật, nông hóa thổ nhưỡng, khoa học đất, nông học, hóa học, sinh học và phải tham gia tập huấn khảo nghiệm phân bón theo hướng dẫn của Bộ Nông nghiệp và Phát triển nông thôn;
 
-### Điều 24.4.LQ.42. Điều kiện buôn bán phân bón
+ b) Có đủ số lượng nhân lực thực hiện khảo nghiệm, không kể người trực tiếp phụ trách khảo nghiệm, có trình độ từ đại học trở lên thuộc một trong các chuyên ngành quy định tại điểm a khoản 1 Điều này và phải tham gia tập huấn khảo nghiệm phân bón theo hướng dẫn của Bộ Nông nghiệp và Phát triển nông thôn;
 
-*Nội dung chưa có sẵn*
+ c) Có đầy đủ cơ sở vật chất, trang thiết bị theo tiêu chuẩn quốc gia về khảo nghiệm phân bón.
 
-**Chỉ mục:** 42
+ 2. Chính phủ quy định số lượng nhân lực tối thiểu thực hiện khảo nghiệm của tổ chức khảo nghiệm phân bón; hồ sơ, trình tự, thủ tục và thẩm quyền cấp, thu hồi Quyết định công nhận tổ chức khảo nghiệm phân bón.Mục 2
 
-**Mã phân cấp:** 240040000000000030000020000000000000000004200000000000000000
+SẢN XUẤT VÀ BUÔN BÁN PHÂN BÓN
 
-**ID:** dk_00037436
+Điều 24.4.LQ.41. Điều kiện sản xuất phân bón
 
----
+(Điều 41 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Tổ chức, cá nhân sản xuất phân bón phải có Giấy chứng nhận đủ điều kiện sản xuất phân bón.
 
-### Điều 24.4.LQ.43. Xuất khẩu phân bón
+ 2. Điều kiện cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón bao gồm:
 
-*Nội dung chưa có sẵn*
+ a) Có địa điểm sản xuất, diện tích nhà xưởng phù hợp với quy mô sản xuất;
 
-**Chỉ mục:** 43
+ b) Có dây chuyền, máy móc, thiết bị phù hợp với quy trình sản xuất từng loại, dạng phân bón;
 
-**Mã phân cấp:** 240040000000000030000030000000000000000004300000000000000000
+ c) Có phòng thử nghiệm hoặc có hợp đồng với tổ chức thử nghiệm được chỉ định để đánh giá các chỉ tiêu chất lượng phân bón do mình sản xuất;
 
-**ID:** dk_00037438
+ d) Có hệ thống quản lý chất lượng phù hợp và được cập nhật với tiêu chuẩn do tổ chức tiêu chuẩn hóa quốc tế ban hành về quản lý chất lượng;
 
----
+ đ) Có khu vực chứa nguyên liệu và khu vực thành phẩm riêng biệt;
 
+ e) Người trực tiếp điều hành sản xuất phải có trình độ từ đại học trở lên thuộc một trong các chuyên ngành về trồng trọt, bảo vệ thực vật, nông hóa thổ nhưỡng, khoa học đất, nông học, hóa học, sinh học.
 
-### Điều 24.4.LQ.44. Nhập khẩu phân bón
+ 3. Giấy chứng nhận đủ điều kiện sản xuất phân bón có thời hạn là 05 năm và được cấp lại.
 
-*Nội dung chưa có sẵn*
+ 4. Chính phủ quy định chi tiết điều kiện, hồ sơ, trình tự, thủ tục và thẩm quyền cấp, cấp lại, thu hồi Giấy chứng nhận đủ điều kiện sản xuất phân bón.Điều 24.4.LQ.42. Điều kiện buôn bán phân bón
 
-**Chỉ mục:** 44
+(Điều 42 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000030000030000000000000000004400000000000000000
+ 1. Tổ chức, cá nhân buôn bán phân bón phải có Giấy chứng nhận đủ điều kiện buôn bán phân bón; trường hợp buôn bán phân bón do mình sản xuất thì không phải có Giấy chứng nhận đủ điều kiện buôn bán phân bón.
 
-**ID:** dk_00037439
+ 2. Điều kiện cấp Giấy chứng nhận đủ điều kiện buôn bán phân bón bao gồm:
 
----
+ a) Có địa điểm giao dịch hợp pháp, rõ ràng;
 
+ b) Có đầy đủ hồ sơ, giấy tờ truy xuất nguồn gốc phân bón theo quy định;
 
-### Điều 24.4.LQ.45. Quản lý chất lượng phân bón
+ c) Người trực tiếp buôn bán phân bón phải được tập huấn, bồi dưỡng chuyên môn về phân bón theo hướng dẫn của Bộ Nông nghiệp và Phát triển nông thôn, trừ trường hợp đã có trình độ từ trung cấp trở lên thuộc một trong các chuyên ngành về trồng trọt, bảo vệ thực vật, nông hóa thổ nhưỡng, khoa học đất, nông học, hóa học, sinh học.
 
-*Nội dung chưa có sẵn*
+ 3. Chính phủ quy định chi tiết điều kiện, hồ sơ, trình tự, thủ tục, thời hạn, thẩm quyền cấp, cấp lại, thu hồi Giấy chứng nhận đủ điều kiện buôn bán phân bón.
 
-**Chỉ mục:** 45
+ Mục 3
 
-**Mã phân cấp:** 240040000000000030000040000000000000000004500000000000000000
+XUẤT KHẨU VÀ NHẬP KHẨU PHÂN BÓN
 
-**ID:** dk_00037441
+Điều 24.4.LQ.43. Xuất khẩu phân bón
 
----
+(Điều 43 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ Việc xuất khẩu phân bón thực hiện theo quy định của pháp luật về thương mại, quản lý ngoại thương hoặc theo yêu cầu của nước nhập khẩu.Điều 24.4.LQ.44. Nhập khẩu phân bón
 
-### Điều 24.4.LQ.46. Kiểm tra nhà nước về chất lượng phân bón nhập khẩu
+(Điều 44 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-Điều 24.4.LQ.46. Kiểm tra nhà nước về chất lượng phân bón nhập khẩu
+ 1. Tổ chức, cá nhân có phân bón đã được cấp Quyết định công nhận phân bón lưu hành tại Việt Nam được nhập khẩu hoặc ủy quyền nhập khẩu phân bón trong Quyết định công nhận phân bón lưu hành tại Việt Nam và không cần Giấy phép nhập khẩu phân bón.
 
-**Chỉ mục:** 46
+ 2. Tổ chức, cá nhân nhập khẩu phân bón chưa được công nhận lưu hành tại Việt Nam phải có Giấy phép nhập khẩu phân bón trong trường hợp sau đây:
 
-**Mã phân cấp:** 240040000000000030000040000000000000000004600000000000000000
+ a) Phân bón để khảo nghiệm;
 
-**ID:** dk_00037442
+ b) Phân bón dùng cho sân thể thao, khu vui chơi giải trí;
 
----
+ c) Phân bón sử dụng trong dự án của nước ngoài tại Việt Nam;
 
+ d) Phân bón làm quà tặng, làm hàng mẫu;
 
-### Điều 24.4.LQ.47. Tên phân bón
+ đ) Phân bón tham gia hội chợ, triển lãm;
 
-*Nội dung chưa có sẵn*
+ e) Phân bón phục vụ nghiên cứu khoa học;
 
-**Chỉ mục:** 47
+ g) Phân bón làm nguyên liệu để sản xuất phân bón khác;
 
-**Mã phân cấp:** 240040000000000030000040000000000000000004700000000000000000
+ h) Phân bón tạm nhập, tái xuất hoặc phân bón quá cảnh hoặc chuyển khẩu qua cửa khẩu Việt Nam; phân bón gửi kho ngoại quan; phân bón nhập khẩu vào khu chế xuất.
 
-**ID:** dk_00037443
+ 3. Chính phủ quy định hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép nhập khẩu phân bón.Mục 4
 
----
+QUẢN LÝ CHẤT LƯỢNG, TÊN, NHÃN,QUẢNG CÁO PHÂN BÓN
 
+Điều 24.4.LQ.45. Quản lý chất lượng phân bón
 
-### Điều 24.4.LQ.48. Ghi nhãn phân bón
+(Điều 45 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+ 1. Phân bón được quản lý chất lượng theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa.
 
-**Chỉ mục:** 48
+ 2. Tổ chức đánh giá sự phù hợp thực hiện hoạt động thử nghiệm, giám định, kiểm định, chứng nhận chất lượng phục vụ quản lý nhà nước đối với phân bón phải được chứng nhận lĩnh vực hoạt động theo quy định của pháp luật về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp và được Bộ Nông nghiệp và Phát triển nông thôn chỉ định theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa.
 
-**Mã phân cấp:** 240040000000000030000040000000000000000004800000000000000000
+ 3. Việc lấy mẫu phân bón để thử nghiệm chất lượng phục vụ quản lý nhà nước phải do người có Giấy chứng nhận lấy mẫu phân bón thực hiện.
 
-**ID:** dk_00037444
+ 4. Chính phủ quy định nội dung, thời gian, thẩm quyền cấp Giấy chứng nhận lấy mẫu phân bón.Điều 24.4.LQ.46. Kiểm tra nhà nước về chất lượng phân bón nhập khẩu
 
----
+(Điều 46 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Phân bón nhập khẩu phải được kiểm tra nhà nước về chất lượng, trừ phân bón nhập khẩu quy định tại các điểm a, d, đ, e và h khoản 2 Điều 44 của Luật này.
 
-### Điều 24.4.LQ.49. Quảng cáo phân bón
+ 2. Kiểm tra nhà nước về chất lượng phân bón nhập khẩu do cơ quan quản lý chuyên ngành về phân bón thuộc Bộ Nông nghiệp và Phát triển nông thôn tổ chức thực hiện.
 
-*Nội dung chưa có sẵn*
+ 3. Hồ sơ kiểm tra nhà nước về chất lượng phân bón nhập khẩu phải được lưu trong thời hạn là 05 năm kể từ ngày ban hành thông báo kết quả kiểm tra nhà nước.
 
-**Chỉ mục:** 49
+ 4. Chính phủ quy định hồ sơ, trình tự, thủ tục, nội dung kiểm tra nhà nước về chất lượng phân bón nhập khẩu.Điều 24.4.LQ.47. Tên phân bón
 
-**Mã phân cấp:** 240040000000000030000040000000000000000004900000000000000000
+(Điều 47 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037445
+ 1. Tên phân bón khi đăng ký không được trùng với tên phân bón đã được cấp Quyết định công nhận phân bón lưu hành tại Việt Nam.
 
----
+ 2. Tên phân bón không làm hiểu sai lệch về bản chất, công dụng, thành phần và loại phân bón.
 
+ 3. Tên phân bón không được vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc; trùng cách đọc hoặc cách viết với tên của lãnh tụ, anh hùng dân tộc, danh nhân, các loại thực phẩm, đồ uống, dược phẩm. Không sử dụng tên cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp để làm toàn bộ hoặc một phần tên riêng của phân bón, trừ trường hợp có sự chấp thuận của cơ quan, tổ chức, đơn vị có liên quan.
 
-### Điều 24.4.LQ.50. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất phân bón
+ 4. Đối với phân bón hỗn hợp, trường hợp tên của thành phần được sử dụng làm tên hay một phần của tên phân bón phải đặt theo thứ tự tên loại phân bón, thành phần, ký hiệu riêng, chữ số định lượng thành phần có trong tên, ký hiệu riêng khác (nếu có).
+
+ Các thành phần và chữ số định lượng thành phần theo thứ tự nguyên tố dinh dưỡng đa lượng đạm (N), lân (P), kali (K), nguyên tố dinh dưỡng trung lượng, nguyên tố dinh dưỡng vi lượng, chất hữu cơ, chất bổ sung khác (nếu có).Điều 24.4.LQ.48. Ghi nhãn phân bón
+
+(Điều 48 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Phân bón khi lưu thông trên thị trường phải được ghi nhãn theo quy định của pháp luật về nhãn hàng hóa và bao gồm các nội dung sau đây:
+
+ a) Loại phân bón;
+
+ b) Mã số phân bón;
+
+ c) Đối với phân bón lá phải ghi rõ cụm từ “Phân bón lá”.
+
+ 2. Nội dung ghi trên nhãn phải đúng với nội dung trong Quyết định công nhận phân bón lưu hành tại Việt Nam.Điều 24.4.LQ.49. Quảng cáo phân bón
+
+(Điều 49 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Tổ chức, cá nhân quảng cáo phân bón thực hiện theo quy định của pháp luật về quảng cáo.
+
+ 2. Chính phủ quy định hồ sơ, trình tự, thủ tục, thẩm quyền xác nhận nội dung quảng cáo phân bón.
+
+ Mục 5
+
+QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂNHOẠT ĐỘNG TRONG LĨNH VỰC PHÂN BÓN
 
 Điều 24.4.LQ.50. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất phân bón
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000030000050000000000000000005000000000000000000
+ 1. Tổ chức, cá nhân sản xuất phân bón có quyền sau đây:
 
-**ID:** dk_00037447
+ a) Sản xuất phân bón được công nhận lưu hành tại Việt Nam;
 
----
+ b) Sản xuất phân bón để xuất khẩu theo hợp đồng với tổ chức, cá nhân nước ngoài;
 
+ c) Quảng cáo phân bón theo quy định tại Điều 49 của Luật này;
 
-### Điều 24.4.LQ.51. Quyền và nghĩa vụ của tổ chức, cá nhân buôn bán phân bón
+ d) Được buôn bán phân bón do mình sản xuất.
 
-Điều 24.4.LQ.51. Quyền và nghĩa vụ của tổ chức, cá nhân buôn bán phân bón
+ 2. Tổ chức, cá nhân sản xuất phân bón có nghĩa vụ sau đây:
 
-**Chỉ mục:** 51
+ a) Duy trì đầy đủ các điều kiện sản xuất phân bón quy định tại Điều 41 của Luật này trong quá trình hoạt động sản xuất phân bón;
 
-**Mã phân cấp:** 240040000000000030000050000000000000000005100000000000000000
+ b) Sản xuất phân bón đúng quy chuẩn kỹ thuật quốc gia và tiêu chuẩn công bố áp dụng;
 
-**ID:** dk_00037448
+ c) Thực hiện đúng nội dung của Giấy chứng nhận đủ điều kiện sản xuất phân bón;
 
----
+ d) Thử nghiệm đối với từng lô phân bón thành phẩm trước khi đưa ra lưu thông trên thị trường. Lưu kết quả thử nghiệm theo hạn sử dụng của lô phân bón và bảo quản mẫu lưu trong thời gian là 06 tháng kể từ khi lấy mẫu;
 
+ đ) Thu hồi, xử lý phân bón không bảo đảm chất lượng và bồi thường thiệt hại theo quy định của pháp luật;
 
-### Điều 24.4.LQ.52. Quyền và nghĩa vụ của tổ chức khảo nghiệm phân bón
+ e) Chấp hành việc thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền;
 
-Điều 24.4.LQ.52. Quyền và nghĩa vụ của tổ chức khảo nghiệm phân bón
+ g) Tổ chức tập huấn, hướng dẫn sử dụng phân bón; bồi dưỡng, tập huấn chuyên môn cho người lao động trực tiếp sản xuất phân bón;
 
-**Chỉ mục:** 52
+ h) Hằng năm, báo cáo tình hình sản xuất, xuất khẩu, nhập khẩu phân bón với cơ quan quản lý nhà nước có thẩm quyền hoặc báo cáo đột xuất khi có yêu cầu;
 
-**Mã phân cấp:** 240040000000000030000050000000000000000005200000000000000000
+ i) Chấp hành quy định của pháp luật về phòng cháy và chữa cháy, hóa chất, lao động, môi trường và quy định khác của pháp luật có liên quan.Điều 24.4.LQ.51. Quyền và nghĩa vụ của tổ chức, cá nhân buôn bán phân bón
 
-**ID:** dk_00037449
+(Điều 51 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+ 1. Tổ chức, cá nhân buôn bán phân bón có quyền sau đây:
 
+ a) Buôn bán phân bón được công nhận lưu hành tại Việt Nam;
 
-### Điều 24.4.LQ.53. Quyền và nghĩa vụ của người lấy mẫu phân bón
+ b) Được cung cấp thông tin và hướng dẫn sử dụng, bồi dưỡng chuyên môn phân bón.
 
-Điều 24.4.LQ.53. Quyền và nghĩa vụ của người lấy mẫu phân bón
+ 2. Tổ chức, cá nhân buôn bán phân bón có nghĩa vụ sau đây:
 
-**Chỉ mục:** 53
+ a) Duy trì đầy đủ các điều kiện buôn bán phân bón quy định tại Điều 42 của Luật này trong quá trình buôn bán phân bón;
 
-**Mã phân cấp:** 240040000000000030000050000000000000000005300000000000000000
+ b) Bảo quản phân bón ở nơi khô ráo, không để lẫn với các loại hàng hóa khác làm ảnh hưởng đến chất lượng phân bón;
 
-**ID:** dk_00037450
+ c) Kiểm tra nguồn gốc phân bón, nhãn phân bón, dấu hợp chuẩn, dấu hợp quy và các tài liệu liên quan đến chất lượng phân bón;
 
----
+ d) Chấp hành việc thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền;
 
+ đ) Cung cấp chứng từ hợp pháp để truy xuất nguồn gốc phân bón;
 
-### Điều 24.4.LQ.54. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng phân bón
+ e) Bồi thường thiệt hại theo quy định của pháp luật;
 
-Điều 24.4.LQ.54. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng phân bón
+ g) Hướng dẫn sử dụng phân bón theo đúng nội dung ghi trên nhãn phân bón;
 
-**Chỉ mục:** 54
+ h) Chấp hành quy định của pháp luật về phòng cháy và chữa cháy, hóa chất, lao động, môi trường và quy định khác của pháp luật có liên quan.Điều 24.4.LQ.52. Quyền và nghĩa vụ của tổ chức khảo nghiệm phân bón
 
-**Mã phân cấp:** 240040000000000030000050000000000000000005400000000000000000
+(Điều 52 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037451
+ 1. Tổ chức khảo nghiệm phân bón có quyền sau đây:
 
----
+ a) Tiến hành khảo nghiệm phân bón trên cơ sở hợp đồng với tổ chức, cá nhân đề nghị;
 
+ b) Được thanh toán chi phí khảo nghiệm phân bón trên cơ sở hợp đồng với tổ chức, cá nhân đề nghị.
 
-### Điều 24.4.LQ.55. Sử dụng và bảo vệ đất trong canh tác
+ 2. Tổ chức khảo nghiệm phân bón có nghĩa vụ sau đây:
+
+ a) Đáp ứng điều kiện quy định tại Điều 40 của Luật này;
+
+ b) Thực hiện khảo nghiệm phân bón khách quan, chính xác;
+
+ c) Tuân thủ đúng tiêu chuẩn, quy trình kỹ thuật và yêu cầu khảo nghiệm;
+
+ d) Báo cáo kết quả khảo nghiệm và chịu trách nhiệm trước pháp luật về kết quả khảo nghiệm;
+
+ đ) Lưu giữ nhật ký đồng ruộng, số liệu thô, đề cương khảo nghiệm, báo cáo kết quả khảo nghiệm trong thời gian là 05 năm kể từ ngày kết thúc khảo nghiệm;
+
+ e) Chấp hành việc thanh tra, kiểm tra, giám sát hoạt động khảo nghiệm của cơ quan nhà nước có thẩm quyền;
+
+ g) Bồi thường thiệt hại theo quy định của pháp luật;
+
+ h) Gửi đề cương khảo nghiệm phân bón cho cơ quan quản lý nhà nước có thẩm quyền nơi khảo nghiệm trước khi tiến hành khảo nghiệm;
+
+ i) Hằng năm, báo cáo kết quả hoạt động khảo nghiệm phân bón với Bộ Nông nghiệp và Phát triển nông thôn hoặc báo cáo đột xuất theo yêu cầu.Điều 24.4.LQ.53. Quyền và nghĩa vụ của người lấy mẫu phân bón
+
+(Điều 53 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Người lấy mẫu phân bón có quyền sau đây:
+
+ a) Được cung cấp thông tin có liên quan đến hoạt động lấy mẫu phân bón;
+
+ b) Được tập huấn về lấy mẫu phân bón.
+
+ 2. Người lấy mẫu phân bón có nghĩa vụ sau đây:
+
+ a) Thực hiện lấy mẫu theo đúng tiêu chuẩn quốc gia về lấy mẫu phân bón, bảo đảm khách quan;
+
+ b) Bảo mật thông tin, số liệu liên quan đến việc lấy mẫu, trừ trường hợp cơ quan quản lý nhà nước có thẩm quyền yêu cầu báo cáo;
+
+ c) Chịu trách nhiệm trước pháp luật về hoạt động lấy mẫu phân bón.Điều 24.4.LQ.54. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng phân bón
+
+(Điều 54 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Tổ chức, cá nhân sử dụng phân bón có quyền sau đây:
+
+ a) Được cung cấp thông tin và hướng dẫn sử dụng phân bón;
+
+ b) Yêu cầu cơ sở mua bán phân bón hướng dẫn sử dụng phân bón theo đúng nội dung của nhãn phân bón;
+
+ c) Được bồi thường thiệt hại theo quy định của pháp luật.
+
+ 2. Tổ chức, cá nhân sử dụng phân bón có nghĩa vụ sau đây:
+
+ a) Sử dụng phân bón theo đúng hướng dẫn ghi trên nhãn;
+
+ b) Sử dụng phân bón bảo đảm hiệu quả, an toàn cho người, vật nuôi, môi trường, an toàn thực phẩm theo nguyên tắc đúng loại đất, đúng loại cây, đúng liều lượng, đúng thời điểm, đúng cách.
+
+ 3. Bộ Nông nghiệp và Phát triển nông thôn xây dựng và phổ biến bộ tài liệu hướng dẫn sử dụng phân bón theo quy định tại điểm b khoản 2 Điều này.
+
+ Chương IV
+
+CANH TÁC
+
+Mục 1
+
+SỬ DỤNG TÀI NGUYÊN TRONG CANH TÁC
 
 Điều 24.4.LQ.55. Sử dụng và bảo vệ đất trong canh tác
 
-**Chỉ mục:** 55
+(Điều 55 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000040000010000000000000000005500000000000000000
+ 1. Cơ quan quản lý chuyên ngành về trồng trọt của địa phương, khi xác định cơ cấu cây trồng, phải căn cứ vào tính chất lý, hóa học của đất, đặc tính sinh học của cây trồng, trình độ phát triển của khoa học và công nghệ.
 
-**ID:** dk_00037454
+ 2. Các vùng đất chuyên trồng lúa nước, trồng rau, trồng cây ăn quả lâu năm, cây công nghiệp lâu năm và cây cảnh được Ủy ban nhân dân cấp tỉnh quy hoạch sử dụng ổn định, phù hợp với định hướng phát triển kinh tế và định kỳ đánh giá chất lượng đất để có biện pháp cải tạo, sử dụng bền vững.Điều 24.4.LQ.56. Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
 
----
+(Điều 56 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Việc chuyển đổi cơ cấu cây trồng trên đất trồng lúa được quy định như sau:
 
-### Điều 24.4.LQ.56. Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
+ a) Phù hợp với quy hoạch sử dụng đất của địa phương, nhu cầu thị trường, điều kiện nguồn nước và khí hậu;
 
-Điều 24.4.LQ.56. Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
+ b) Hình thành vùng sản xuất tập trung theo từng cây trồng gắn với dồn điền, đổi thửa, liên kết sản xuất theo chuỗi;
 
-**Chỉ mục:** 56
+ c) Bảo đảm khai thác hiệu quả cơ sở hạ tầng sẵn có; phù hợp với quy hoạch và định hướng hoàn thiện cơ sở hạ tầng phục vụ sản xuất nông nghiệp của địa phương;
 
-**Mã phân cấp:** 240040000000000040000010000000000000000005600000000000000000
+ d) Không làm mất đi điều kiện cần thiết để trồng lúa trở lại.
 
-**ID:** dk_00037455
-
----
-
-
-### Điều 24.4.NĐ.2.13. Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
+ 2. Chính phủ quy định chi tiết Điều này.(Điều này có nội dung liên quan đến Điều 57. Chuyển mục đích sử dụng đất; Điều 134. Đất trồng lúa của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013)
 
 Điều 24.4.NĐ.2.13. Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Mã phân cấp:** 24004000000000004000001000000000000000000560000000000000000000402713000940001300
+1. Việc chuyển đổi cơ cấu cây trồng trên đất trồng lúa thực hiện theo quy định tại khoản 1 Điều 56 của Luật Trồng trọt và các quy định sau đây:
 
-**ID:** dk_00037456
+a) Kế hoạch chuyển đổi cơ cấu cây trồng của cấp có thẩm quyền phê duyệt.
 
----
+b) Không làm mất đi các điều kiện để trồng lúa trở lại; không làm biến dạng mặt bằng, không gây ô nhiễm, thoái hóa đất trồng lúa; không làm hư hỏng công trình giao thông, công trình thủy lợi phục vụ trồng lúa.
 
+c) Trường hợp chuyển trồng lúa sang trồng lúa kết hợp nuôi trồng thủy sản, được sử dụng tối đa 20% diện tích đất trồng lúa để hạ thấp mặt bằng nuôi trồng thủy sản với độ sâu không quá 120 cen-ti-mét so với mặt ruộng.
 
-### Điều 24.4.LQ.57. Bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa nước
+2. Lập kế hoạch chuyển đổi cơ cấu cây trồng trên đất trồng lúa:
+
+a) Bộ Nông nghiệp và Phát triển nông thôn căn cứ đề nghị của Ủy ban nhân dân cấp tỉnh; quy hoạch, kế hoạch sử dụng đất được cơ quan nhà nước có thẩm quyền phê duyệt, ban hành kế hoạch chuyển đổi cơ cấu cây trồng trên đất trồng lúa phạm vi toàn quốc theo Mẫu số 01.CĐ Phụ lục X ban hành kèm theo Nghị định này.
+
+b) Ủy ban nhân dân cấp tỉnh căn cứ vào kế hoạch chuyển đổi cơ cấu cây trồng trên đất trồng lúa phạm vi toàn quốc; đề nghị của Ủy ban nhân dân cấp huyện; quy hoạch, kế hoạch sử dụng đất của tỉnh, ban hành kế hoạch chuyển đổi cơ cấu cây trồng trên đất trồng lúa trên phạm vi toàn tỉnh theo Mẫu số 02.CĐ Phụ lục X ban hành kèm theo Nghị định này.
+
+c) Ủy ban nhân dân cấp huyện căn cứ vào kế hoạch chuyển đổi cơ cấu cây trồng trên đất trồng lúa phạm vi toàn tỉnh; đề nghị của Ủy ban nhân dân cấp xã; quy hoạch, kế hoạch sử dụng đất của huyện, ban hành kế hoạch chuyển đổi cơ cấu cây trồng trên đất trồng lúa trên phạm vi toàn huyện theo Mẫu số 02.CĐ Phụ lục X ban hành kèm theo Nghị định này.
+
+d) Ủy ban nhân dân cấp xã căn cứ nhu cầu chuyển đổi của tổ chức, cá nhân trên địa bàn và kế hoạch chuyển đổi của cấp huyện ban hành kế hoạch chuyển đổi trên địa bàn theo Mẫu số 03.CĐ Phụ lục X ban hành kèm theo Nghị định này.
+
+3. Trình tự, thủ tục, thẩm quyền chuyển đổi cơ cấu cây trồng trên đất trồng lúa:
+
+a) Tổ chức, hộ gia đình, cá nhân trong nước, tổ chức, cá nhân nước ngoài sử dụng đất trồng lúa hợp pháp có nhu cầu chuyển đổi sang trồng cây hàng năm, trồng lúa kết hợp nuôi trồng thủy sản; hộ gia đình, cá nhân trong nước sử dụng đất trồng lúa hợp pháp có nhu cầu chuyển sang trồng cây lâu năm gửi 01 bản đăng ký đến Ủy ban nhân dân cấp xã theo Mẫu số 04.CĐ Phụ lục X ban hành kèm theo Nghị định này.
+
+b) Trường hợp bản đăng ký chuyển đổi không hợp lệ, trong thời gian 03 ngày làm việc, Ủy ban nhân dân cấp xã phải hướng dẫn cho tổ chức, cá nhân chỉnh sửa, bổ sung bản đăng ký.
+
+c) Trường hợp bản đăng ký chuyển đổi hợp lệ và phù hợp với kế hoạch chuyển đổi cơ cấu cây trồng trên đất trồng lúa của Ủy ban nhân dân cấp xã, trong thời gian 05 ngày làm việc, Ủy ban nhân dân cấp xã có ý kiến “Đồng ý cho chuyển đổi”, đóng dấu vào bản đăng ký, vào sổ theo dõi và gửi lại cho người sử dụng đất.
+
+d) Trường hợp không đồng ý, Ủy ban nhân dân cấp xã phải trả lời bằng văn bản theo Mẫu số 05.CĐ Phụ lục X ban hành kèm theo Nghị định này.
+
+4. Cơ quan nhà nước có thẩm quyền phê duyệt kế hoạch chuyển đổi cơ cấu cây trong trên đất trồng lúa có trách nhiệm hướng dẫn, kiểm tra, giám sát việc chuyển đổi và báo cáo kết quả thực hiện chuyển đổi theo quy định.
+
+5. Đất trồng lúa sau khi chuyển đổi cơ cấu cây trồng theo quy định tại Điều này được thống kê là đất trồng lúa.
+
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
 
 Điều 24.4.LQ.57. Bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa nước
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000040000010000000000000000005700000000000000000
+ 1. Tầng đất mặt của đất chuyên trồng lúa nước chỉ được sử dụng vào mục đích nông nghiệp; được bảo vệ và sử dụng hiệu quả.
 
-**ID:** dk_00037457
+ 2. Tổ chức, cá nhân xây dựng công trình trên đất được chuyển đổi từ đất chuyên trồng lúa nước phải có phương án sử dụng tầng đất mặt.
 
----
-
-
-### Điều 24.4.NĐ.2.14. Bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa nước
+ 3. Chính phủ quy định chi tiết Điều này.(Điều này có nội dung liên quan đến Điều 57. Chuyển mục đích sử dụng đất; Điều 134. Đất trồng lúa của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013)
 
 Điều 24.4.NĐ.2.14. Bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa nước
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
 
-**Mã phân cấp:** 24004000000000004000001000000000000000000570000000000000000000402713000940001400
+Bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa nước thực hiện theo quy định tại Điều 57 của Luật Trồng trọt và các quy định sau đây:
 
-**ID:** dk_00037458
+1. Tổ chức, cá nhân xây dựng các công trình trên đất được chuyển đổi từ đất chuyên trồng lúa nước có tác động đến tầng đất mặt thì phải bóc riêng tầng đất mặt đó để sử dụng vào mục đích nông nghiệp.
 
----
+2. Độ sâu tầng đất mặt phải bóc tách từ 20 đến 25 cen-ti-mét tính từ mặt đất.
 
+3. Tổ chức, cá nhân xây dựng công trình trên đất được chuyển đổi từ đất chuyên trồng lúa nước phải xây dựng phương án sử dụng tầng đất mặt theo Phụ lục XI ban hành kèm theo Nghị định này. Phương án sử dụng tầng đất mặt là thành phần hồ sơ xin phép chuyển mục đích sử dụng đất;
 
-### Điều 24.4.LQ.58. Sử dụng nướctưới
+4. Cơ quan nhà nước có thẩm quyền cho phép chuyển mục đích sử dụng đất chuyên trồng lúa nước sang xây dựng công trình có trách nhiệm kiểm tra, giám sát việc bóc tách, sử dụng tầng đất mặt.
 
-*Nội dung chưa có sẵn*
+Phu luc kem theo Nghi dinh so 94_2019_ND-C.doc
 
-**Chỉ mục:** 58
+Điều 24.4.LQ.58. Sử dụng nướctưới
 
-**Mã phân cấp:** 240040000000000040000010000000000000000005800000000000000000
+(Điều 58 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037459
+ 1. Cơ quan quản lý chuyên ngành về trồng trọt của địa phương có trách nhiệm xác định cơ cấu cây trồng, mùa vụ phù hợp với điều kiện nguồn nước.
 
----
+ 2. Tổ chức, cá nhân cung cấp dịch vụ thủy lợi phải bảo đảm chất lượng nước theo tiêu chuẩn, quy chuẩn kỹ thuật.
 
+ 3. Tổ chức, cá nhân có trách nhiệm sử dụng nguồn nước tưới hiệu quả; áp dụng biện pháp canh tác tiên tiến, tiết kiệm; tái sử dụng nước theo quy định của pháp luật về tài nguyên nước, thủy lợi và quy định khác của pháp luật có liên quan.Điều 24.4.LQ.59. Sử dụng sinh vật có ích
 
-### Điều 24.4.LQ.59. Sử dụng sinh vật có ích
+(Điều 59 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+ 1. Sinh vật có ích trong canh tác bao gồm các sinh vật có vai trò ổn định và cải tạo độ phì nhiêu của đất, tăng sức chống chịu và khả năng sinh trưởng của cây trồng, bảo quản, chế biến sản phẩm và phụ phẩm từ cây trồng, phòng trừ sinh vật gây hại cây trồng, thụ phấn cho cây trồng và mục đích có lợi khác.
 
-**Chỉ mục:** 59
+ 2. Tổ chức, cá nhân tham gia hoạt động canh tác phải thực hiện quy định của pháp luật về bảo vệ môi trường, đa dạng sinh học, bảo vệ và kiểm dịch thực vật; áp dụng quy trình sản xuất tiên tiến để bảo vệ và phát huy hiệu quả của sinh vật có ích.
 
-**Mã phân cấp:** 240040000000000040000010000000000000000005900000000000000000
+ 3. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn tổ chức điều tra, đánh giá nguồn sinh vật có ích để có biện pháp bảo vệ và khai thác phù hợp; ban hành Danh mục các loài, chủng sinh vật có ích sử dụng trong canh tác.
 
-**ID:** dk_00037460
+ Mục 2
 
----
-
-
-### Điều 24.4.LQ.60. Trang thiết bị và vật tư nông nghiệp trong canh tác
+SỬ DỤNG TRANG THIẾT BỊ VÀVẬT TƯ NÔNG NGHIỆP TRONG CANH TÁC
 
 Điều 24.4.LQ.60. Trang thiết bị và vật tư nông nghiệp trong canh tác
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000040000020000000000000000006000000000000000000
+ 1. Trang thiết bị trong canh tác bao gồm nhà kính, nhà lưới, máy móc và dụng cụ phục vụ sản xuất, tưới tiêu, thu hoạch, sơ chế, bảo quản, chế biến.
 
-**ID:** dk_00037462
+ 2. Vật tư nông nghiệp trong canh tác bao gồm:
 
----
+ a) Giống cây trồng;
 
+ b) Phân bón;
 
-### Điều 24.4.LQ.61. Yêu cầu về sử dụng trang thiết bị và vật tư nông nghiệp trong canh tác
+ c) Thuốc bảo vệ thực vật;
 
-Điều 24.4.LQ.61. Yêu cầu về sử dụng trang thiết bị và vật tư nông nghiệp trong canh tác
+ d) Giá thể trồng cây, màng phủ đất, vật liệu giữ ẩm;
 
-**Chỉ mục:** 61
+ đ) Hóa chất, chế phẩm sinh học sử dụng trong hoạt động trồng trọt không thuộc vật tư quy định tại điểm b và điểm c khoản này.
 
-**Mã phân cấp:** 240040000000000040000020000000000000000006100000000000000000
+ 3. Việc quản lý chất lượng trang thiết bị và vật tư nông nghiệp trong canh tác được thực hiện theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật, chất lượng, sản phẩm hàng hóa.Điều 24.4.LQ.61. Yêu cầu về sử dụng trang thiết bị và vật tư nông nghiệp trong canh tác
 
-**ID:** dk_00037463
+(Điều 61 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+ 1. Tổ chức, cá nhân hoạt động canh tác chỉ được sử dụng vật tư nông nghiệp trong canh tác được phép sử dụng, lưu hành theo quy định của pháp luật; tuân thủ hướng dẫn của cơ quan chuyên môn hoặc của tổ chức, cá nhân sản xuất vật tư nông nghiệp.
 
+ 2. Tổ chức, cá nhân sử dụng vật tư nông nghiệp trong canh tác phải đáp ứng yêu cầu về bảo vệ môi trường, sức khỏe cộng đồng, an toàn thực phẩm và hạn chế lan truyền sinh vật gây hại.
 
-### Điều 24.4.LQ.62. Phát triển vùng sản xuất hàng hóa tập trung
+ 3. Tổ chức, cá nhân sử dụng phân bón phải tuân thủ các nguyên tắc quy định tại điểm b khoản 2 Điều 54 của Luật này.
+
+ 4. Tổ chức, cá nhân sử dụng thuốc bảo vệ thực vật phải tuân thủ quy định của pháp luật về bảo vệ và kiểm dịch thực vật.
+
+ Mục 3
+
+PHÁT TRIỂN VÙNG SẢN XUẤT HÀNG HÓA TẬP TRUNG VÀ LIÊN KẾT SẢN XUẤT
 
 Điều 24.4.LQ.62. Phát triển vùng sản xuất hàng hóa tập trung
 
-**Chỉ mục:** 62
+(Điều 62 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000040000030000000000000000006200000000000000000
+ 1. Phát triển vùng sản xuất hàng hóa tập trung phải phù hợp với tính chất lý, hóa học của đất, khí hậu, nguồn nước, đặc tính sinh học của cây trồng, lợi thế vùng; bảo đảm xây dựng vùng nguyên liệu gắn với chế biến và thị trường.
 
-**ID:** dk_00037465
+ 2. Ủy ban nhân dân cấp tỉnh có trách nhiệm lập kế hoạch, đề án phát triển vùng sản xuất hàng hóa tập trung phù hợp với quy hoạch.Điều 24.4.LQ.63. Hợp tác, liên kết sản xuất
 
----
+(Điều 63 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Phát triển các hình thức hợp tác, liên kết tại vùng sản xuất hàng hóa tập trung trên cơ sở hợp đồng; tạo điều kiện cấp chứng nhận chất lượng và truy xuất nguồn gốc; nâng cao hiệu quả sản xuất, kinh doanh, bảo đảm lợi ích hài hòa giữa các bên tham gia.
 
-### Điều 24.4.LQ.63. Hợp tác, liên kết sản xuất
+ 2. Ủy ban nhân dân các cấp có trách nhiệm sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Tạo điều kiện và hỗ trợ các bên tham gia đàm phán, ký kết, thực hiện cam kết trong hợp đồng hợp tác, liên kết sản xuất, tiêu thụ sản phẩm;
 
-**Chỉ mục:** 63
+ b) Hỗ trợ xây dựng cơ sở hạ tầng, dịch vụ hậu cần và xúc tiến thương mại sản phẩm cho vùng sản xuất hàng hóa tập trung.Điều 24.4.LQ.64. Quản lý và cấp mã số vùng trồng
 
-**Mã phân cấp:** 240040000000000040000030000000000000000006300000000000000000
+(Điều 64 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037466
+ 1. Mã số vùng trồng là mã số định danh cho một vùng trồng trọt nhằm theo dõi và kiểm soát tình hình sản xuất; kiểm soát chất lượng sản phẩm; truy xuất nguồn gốc sản phẩm cây trồng.
 
----
+ 2. Nhà nước khuyến khích, tạo điều kiện và có chính sách ưu tiên hỗ trợ cho tổ chức, cá nhân đăng ký cấp mã số vùng trồng.
 
+ 3. Bộ Nông nghiệp và Phát triển nông thôn xây dựng lộ trình và hướng dẫn cấp mã số vùng trồng trên phạm vi toàn quốc.
 
-### Điều 24.4.LQ.64. Quản lý và cấp mã số vùng trồng
+ 4. Ủy ban nhân dân cấp tỉnh tổ chức triển khai cấp mã số vùng trồng trên địa bàn theo lộ trình và hướng dẫn của Bộ Nông nghiệp và Phát triển nông thôn.
 
-*Nội dung chưa có sẵn*
+ Mục 4
 
-**Chỉ mục:** 64
+QUY TRÌNH SẢN XUẤT, ỨNG DỤNG CÔNG NGHỆ CAOVÀ CƠ GIỚI HÓA TRONG CANH TÁC
 
-**Mã phân cấp:** 240040000000000040000030000000000000000006400000000000000000
+Điều 24.4.LQ.65. Quy trình sản xuất
 
-**ID:** dk_00037467
+(Điều 65 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+ 1. Quy trình sản xuất được ban hành cho mỗi loài cây trồng.
 
+ 2. Quy trình sản xuất được xây dựng trên cơ sở kết quả nghiên cứu, tiến bộ kỹ thuật và tổng kết thực tiễn trong canh tác; được sửa đổi, bổ sung khi có tiến bộ kỹ thuật mới, phù hợp với thực tiễn sản xuất, trình độ phát triển của khoa học và công nghệ, năng lực của người sử dụng.Điều 24.4.LQ.66. Ứng dụng công nghệ cao trong canh tác
 
-### Điều 24.4.LQ.65. Quy trình sản xuất
+(Điều 66 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+ 1. Công nghệ cao được ưu tiên và khuyến khích ứng dụng trong canh tác bao gồm:
 
-**Chỉ mục:** 65
+ a) Công nghệ sinh học trong di truyền chọn, tạo giống cây trồng; chẩn đoán, giám định sinh vật gây hại cây trồng; phát triển sản phẩm trong sinh học và vật liệu mới;
 
-**Mã phân cấp:** 240040000000000040000040000000000000000006500000000000000000
+ b) Công nghệ tưới nước tiết kiệm, canh tác không sử dụng đất;
 
-**ID:** dk_00037469
+ c) Công nghệ sản xuất trong điều kiện nhà kính, nhà lưới;
 
----
+ d) Công nghệ thông tin ứng dụng trong dự tính, dự báo về sinh vật gây hại; cấp mã số và quản lý vùng trồng;
 
+ đ) Kỹ thuật nông nghiệp chính xác ứng dụng trong khoa học đất và dinh dưỡng cây trồng; điều khiển tự động chế độ bón phân, nước tưới; công nghệ bán tự động và tự động trong dây chuyền sản xuất; phân tích chất lượng môi trường sản xuất và chất lượng sản phẩm cây trồng.
 
-### Điều 24.4.LQ.66. Ứng dụng công nghệ cao trong canh tác
+ 2. Ưu tiên ứng dụng công nghệ cao quy định tại điểm b và điểm c khoản 1 Điều này trên vùng canh tác khó khăn, đất cát ven biển, đất có nguy cơ sa mạc hóa, hoang mạc hóa.
 
-Điều 24.4.LQ.66. Ứng dụng công nghệ cao trong canh tác
+ 3. Công nghệ cao quy định tại điểm c khoản 1 Điều này được xây dựng với mật độ phù hợp, giảm hiệu ứng khí nhà kính.(Điều này có nội dung liên quan đến Chương II ỨNG DỤNG, NGHIÊN CỨU VÀ PHÁT TRIỂN CÔNG NGHỆ CAO; Điều 19.3.LQ.16. Phát triển công nghệ cao trong nông nghiệp)
 
-**Chỉ mục:** 66
+Điều 24.4.LQ.67. Cơ giới hóa trong canh tác
 
-**Mã phân cấp:** 240040000000000040000040000000000000000006600000000000000000
+(Điều 67 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037470
+ 1. Cơ giới hóa trong canh tác phải hướng tới đồng bộ, từng bước hiện đại.
 
----
+ 2. Việc đầu tư, cải tạo cơ sở hạ tầng trên đồng ruộng phải bảo đảm điều kiện để thực hiện cơ giới hóa.
 
+ 3. Tổ chức, cá nhân khi lập kế hoạch sản xuất, xác định cơ cấu cây trồng, thời vụ phải bảo đảm điều kiện để thực hiện cơ giới hóa.
 
-### Điều 24.4.LQ.67. Cơ giới hóa trong canh tác
+ 4. Thiết bị, máy móc sử dụng trong canh tác phải được lựa chọn phù hợp với điều kiện thực tế đồng ruộng, quy mô, tính chất và trình độ canh tác.
 
-*Nội dung chưa có sẵn*
+ Mục 5
 
-**Chỉ mục:** 67
-
-**Mã phân cấp:** 240040000000000040000040000000000000000006700000000000000000
-
-**ID:** dk_00037471
-
----
-
-
-### Điều 24.4.LQ.68. Phát triển và bảo vệ vùng canh tác hữu cơ
+CANH TÁC HỮU CƠ
 
 Điều 24.4.LQ.68. Phát triển và bảo vệ vùng canh tác hữu cơ
 
-**Chỉ mục:** 68
+(Điều 68 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000040000050000000000000000006800000000000000000
+ 1. Vùng canh tác hữu cơ phải được phát triển, bảo vệ và xây dựng kết cấu hạ tầng phù hợp, bảo đảm không bị ô nhiễm hóa chất từ bên ngoài.
 
-**ID:** dk_00037473
+ 2. Ủy ban nhân dân cấp tỉnh xác định và thông báo rộng rãi các vùng canh tác hữu cơ; ban hành quy định về canh tác trên vùng canh tác hữu cơ trong phạm vi quản lý.Điều 24.4.LQ.69. Yêu cầu đối với canh tác hữu cơ
 
----
+(Điều 69 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Tổ chức, cá nhân canh tác hữu cơ phải đáp ứng tiêu chuẩn quốc gia về nông nghiệp hữu cơ. Trường hợp xuất khẩu sản phẩm cây trồng hữu cơ thì áp dụng theo yêu cầu của nước nhập khẩu.
 
-### Điều 24.4.LQ.69. Yêu cầu đối với canh tác hữu cơ
+ 2. Giống cây trồng, phân bón, thuốc bảo vệ thực vật và vật tư khác sử dụng trong canh tác hữu cơ phải đáp ứng tiêu chuẩn nông nghiệp hữu cơ và quy chuẩn kỹ thuật liên quan hoặc được sản xuất từ nguyên liệu và phương pháp phù hợp tiêu chuẩn nông nghiệp hữu cơ.
 
-*Nội dung chưa có sẵn*
+ 3. Không sử dụng hóa chất tổng hợp, chất kích thích sinh trưởng cây trồng, thực vật biến đổi gen trong quá trình sản xuất, thu hoạch, sơ chế, bảo quản, chế biến.
 
-**Chỉ mục:** 69
+ 4. Việc ghi nhãn sản phẩm cây trồng hữu cơ được thực hiện theo quy định của pháp luật về thương mại và quy định khác của pháp luật có liên quan.
 
-**Mã phân cấp:** 240040000000000040000050000000000000000006900000000000000000
+ 5. Chính phủ quy định chi tiết về canh tác hữu cơ.Điều 24.4.NĐ.1.4. Nguyên tắc sản xuất nông nghiệp hữu cơ
 
-**ID:** dk_00037474
+(Điều 4 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
----
+ 1. Quản lý các tài nguyên (bao gồm đất, nước, không khí) theo nguyên tắc hệ thống và sinh thái trong tầm nhìn dài hạn.
 
+ 2. Không dùng các vật tư là chất hóa học tổng hợp trong tất cả các giai đoạn của chuỗi sản xuất, tránh trường hợp con người và môi trường tiếp xúc với các hóa chất độc hại, giảm thiểu ô nhiễm ở nơi sản xuất và môi trường chung quanh.
 
-### Điều 24.4.NĐ.1.4. Nguyên tắc sản xuất nông nghiệp hữu cơ
+ 3. Không sử dụng công nghệ biến đổi gen, phóng xạ và công nghệ khác có hại cho sản xuất hữu cơ.
 
-Điều 24.4.NĐ.1.4. Nguyên tắc sản xuất nông nghiệp hữu cơ
+ 4. Đối xử với động vật, thực vật một cách có trách nhiệm và nâng cao sức khỏe tự nhiên của chúng.
 
-**Chỉ mục:** 4
+ 5. Sản phẩm hữu cơ phải được bên thứ ba chứng nhận theo tiêu chuẩn quốc gia (TCVN) về nông nghiệp hữu cơ hoặc tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài được áp dụng trong sản xuất sản phẩm hữu cơ.Điều 24.4.NĐ.1.5. Tiêu chuẩn nông nghiệp hữu cơ
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090000400
+(Điều 5 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**ID:** dk_00037475
+ 1. TCVN về nông nghiệp hữu cơ được xây dựng, công bố và áp dụng theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật.
 
----
+ 2. Tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài:
 
+ a) Trường hợp sản xuất để xuất khẩu: cơ sở sản xuất áp dụng tiêu chuẩn theo thỏa thuận, hợp đồng với tổ chức nhập khẩu;
 
-### Điều 24.4.NĐ.1.5. Tiêu chuẩn nông nghiệp hữu cơ
+ b) Trường hợp sản xuất hoặc nhập khẩu để tiêu thụ trong nước: cơ sở có thể áp dụng tiêu chuẩn mà Việt Nam là thành viên hoặc có thỏa thuận thừa nhận lẫn nhau hoặc tiêu chuẩn nước ngoài được chấp thuận áp dụng tại Việt Nam.
 
-*Nội dung chưa có sẵn*
+ Bộ Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với Bộ Y tế, Bộ Công Thương, các bộ, cơ quan liên quan đánh giá và công bố danh sách các tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài hài hòa với tiêu chuẩn quốc gia (TCVN) được áp dụng tại Việt Nam.
 
-**Chỉ mục:** 5
+ 3. Khuyến khích sử dụng tiêu chuẩn quốc gia, tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài làm tiêu chuẩn cơ sở.Điều 24.4.NĐ.1.6. Vật tư đầu vào sản xuất nông nghiệp hữu cơ
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090000500
+(Điều 6 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**ID:** dk_00037476
+ 1. Vật tư đầu vào được sử dụng trong sản xuất hữu cơ theo quy định tại tiêu chuẩn nông nghiệp hữu cơ; không sử dụng thuốc trừ sâu bệnh, phân bón, chất bảo quản, chất phụ gia là hóa chất tổng hợp; thuốc kháng sinh, sinh vật biến đổi gen, hóc môn tăng trưởng.
 
----
+ 2. Trường hợp sử dụng vật tư đầu vào:
 
+ a) Giống cây trồng, vật nuôi hữu cơ; thức ăn chăn nuôi, thủy sản hữu cơ phải được chứng nhận phù hợp tiêu chuẩn nông nghiệp hữu cơ và đáp ứng các quy định, quy chuẩn kỹ thuật khác có liên quan;
 
-### Điều 24.4.NĐ.1.6. Vật tư đầu vào sản xuất nông nghiệp hữu cơ
+ b) Phân bón và chất cải tạo đất, thuốc bảo vệ thực vật và chất kiểm soát sinh vật gây hại, chất hỗ trợ chế biến, chất phụ gia; chất làm sạch, khử trùng trong chăn nuôi, nuôi trồng thủy sản phải được sản xuất từ các nguyên liệu và phương pháp phù hợp tiêu chuẩn nông nghiệp hữu cơ và đáp ứng các quy định, quy chuẩn kỹ thuật khác có liên quan.Điều 24.4.NĐ.1.7. Tổ chức chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
 
-Điều 24.4.NĐ.1.6. Vật tư đầu vào sản xuất nông nghiệp hữu cơ
+(Điều 7 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**Chỉ mục:** 6
+1. Điều kiện đối với tổ chức chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ: Đáp ứng điều kiện kinh doanh dịch vụ chứng nhận sản phẩm, hệ thống quản lý theo quy định tại Điều 17 của Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp (gọi tắt là Nghị định 107/2016/NĐ-CP).
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090000600
+2. Hồ sơ đề nghị cấp Giấy chứng nhận đăng ký hoạt động chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ (gọi tắt là Giấy chứng nhận đăng ký hoạt động): theo quy định tại Điều 18 của Nghị định 107/2016/NĐ-CP.
 
-**ID:** dk_00037477
+3. Hình thức, trình tự, thời gian cấp, cấp lại, sửa đổi, bổ sung Giấy chứng nhận đăng ký hoạt động theo quy định tại Điều 19, Điều 20 Nghị định 107/2016/NĐ-CP. Giấy chứng nhận đăng ký hoạt động theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này.
 
----
+4. Bộ Nông nghiệp và Phát triển nông thôn tiếp nhận hồ sơ để cấp, cấp lại, sửa đổi, bổ sung Giấy chứng nhận đăng ký hoạt động và quản lý hoạt động của tổ chức chứng nhận đã được cấp giấy.
 
-
-### Điều 24.4.NĐ.1.7. Tổ chức chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
-
-Điều 24.4.NĐ.1.7. Tổ chức chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090000700
-
-**ID:** dk_00037478
-
----
-
-
-### Điều 24.4.TT.35.4. Số đăng ký của Tổ chức chứng nhận
+Phu luc kem theo Nghi dinh so 109_2018_ND-CP.doc
 
 Điều 24.4.TT.35.4. Số đăng ký của Tổ chức chứng nhận
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
 
-**Mã phân cấp:** 2400400000000000400000500000000000000000069000000000000000000040266590109000070000802708800160000400
+1. Số đăng ký của Tổ chức chứng nhận là mã số đăng ký ghi trong Mẫu số 01 của Phụ lục ban hành kèm theo Nghị định số 109/2018/NĐ-CP.
 
-**ID:** dk_00037479
+2. Mỗi số đăng ký chỉ cấp cho một Tổ chức chứng nhận và không thay đổi trong trường hợp cấp lại, cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động.
 
----
+3. Vụ Khoa học, Công nghệ và Môi trường là cơ quan cấp và quản lý số đăng ký.
 
-
-### Điều 24.4.TT.35.5. Hoạt động của Tổ chức chứng nhận
+(Điều này có nội dung liên quan đến Điều 24.4.NĐ.1.8. Chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ)
 
 Điều 24.4.TT.35.5. Hoạt động của Tổ chức chứng nhận
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
 
-**Mã phân cấp:** 2400400000000000400000500000000000000000069000000000000000000040266590109000070000802708800160000500
+1. Phương thức đánh giá để cấp và giám sát sau khi cấp Giấy chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ thực hiện theo điểm đ khoản 1 Điều 5 (Phương thức 5) Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật và TCVN 12134:2017 *Nông nghiệp hữu cơ - Yêu cầu đối với tổ chức chứng nhận*, tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài được chấp thuận tại Việt Nam.
 
-**ID:** dk_00037480
+2. Sản phẩm nông nghiệp của các tổ chức, cá nhân đã được cấp Giấy chứng nhận sản phẩm nông nghiệp hữu cơ thì được sử dụng dấu sản phẩm tương ứng với tiêu chuẩn đã được chứng nhận.
 
----
-
-
-### Điều 24.4.NĐ.1.8. Chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
+3. Tổ chức, cá nhân có nhu cầu chứng nhận sản phẩm phù hợp tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài về nông nghiệp hữu cơ để tiêu thụ trong nước phải được chứng nhận bởi tổ chức chứng nhận có đủ điều kiện theo quy định khoản 2 Điều 9 Nghị định 109/2018/NĐ-CP.
 
 Điều 24.4.NĐ.1.8. Chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090000800
+1. Phương thức đánh giá sản phẩm hữu cơ:
 
-**ID:** dk_00037481
+Sản phẩm hữu cơ được đánh giá phù hợp TCVN theo phương thức đánh giá, giám sát quá trình sản xuất và thử nghiệm mẫu điển hình lấy tại nơi sản xuất hoặc trên thị trường khi nghi ngờ việc sử dụng vật tư đầu vào ngoài danh mục cho phép tại TCVN về nông nghiệp hữu cơ hoặc sản phẩm nhiễm kim loại nặng, vi sinh vật gây hại vượt quy định, quy chuẩn kỹ thuật.
 
----
+2. Giấy chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ do tổ chức chứng nhận cấp theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định này và có giá trị trong 02 năm.
 
+3. Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn về đánh giá, giám sát sau khi cấp Giấy chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ.
 
-### Điều 24.4.TT.35.3. Cơ quan tiếp nhận hồ sơ để cấp, cấp lại, cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
+Phu luc kem theo Nghi dinh so 109_2018_ND-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 24.4.TT.35.4. Số đăng ký của Tổ chức chứng nhận)
 
 Điều 24.4.TT.35.3. Cơ quan tiếp nhận hồ sơ để cấp, cấp lại, cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
 
-**Mã phân cấp:** 2400400000000000400000500000000000000000069000000000000000000040266590109000080000802708800160000300
+1. Cơ quan tiếp nhận hồ sơ chịu trách nhiệm chủ trì thẩm định để cấp, cấp lại, cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ (sau đây gọi là Giấy chứng nhận đăng ký hoạt động).
 
-**ID:** dk_00037482
+2. Tổ chức chứng nhận sản phẩm nông nghiệp hữu cơ (sau đây gọi là Tổ chức chứng nhận) đăng ký hoạt động chứng nhận sản phẩm nông nghiệp hữu cơ thuộc một (01) lĩnh vực nộp hồ sơ tại cơ quan chuyên ngành của Bộ Nông nghiệp và Phát triển nông thôn, cụ thể như sau:
 
----
+a) Tổng cục Thủy sản là cơ quan tiếp nhận hồ sơ đối với lĩnh vực thủy sản.
 
+b) Tổng cục Lâm nghiệp là cơ quan tiếp nhận hồ sơ đối với lĩnh vực lâm nghiệp.
 
-### Điều 24.4.NĐ.1.9. Chứng nhận sản phẩm phù hợp tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài về nông nghiệp hữu cơ
+c) Cục Trồng trọt là cơ quan tiếp nhận hồ sơ đối với lĩnh vực trồng trọt.
+
+d) Cục Chăn nuôi là cơ quan tiếp nhận hồ sơ đối với lĩnh vực chăn nuôi.
+
+3. Tổ chức chứng nhận đăng ký hoạt động chứng nhận sản phẩm nông nghiệp hữu cơ từ hai (02) lĩnh vực trở lên, lựa chọn 01 cơ quan chuyên ngành trong lĩnh vực đăng ký hoạt động chứng nhận để nộp hồ sơ. Cơ quan tiếp nhận hồ sơ chủ trì, phối hợp với cơ quan liên quan để thực hiện cấp Giấy chứng nhận đăng ký hoạt động.
+
+4. Tổ chức chứng nhận đăng ký cấp lại, cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động thực hiện nộp hồ sơ theo quy định tại khoản 2, khoản 3 Điều này.
+
+5. Cơ quan cấp Giấy chứng nhận đăng ký hoạt động thông báo công khai tổ chức được cấp Giấy chứng nhận đăng ký hoạt động trên Cổng thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn và của cơ quan cấp chậm nhất sau năm (05) ngày làm việc kể từ ngày cấp.
 
 Điều 24.4.NĐ.1.9. Chứng nhận sản phẩm phù hợp tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài về nông nghiệp hữu cơ
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090000900
+ 1. Sản xuất để xuất khẩu: Sản phẩm được chứng nhận bởi tổ chức chứng nhận được tổ chức, quốc gia ban hành tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài thừa nhận bằng văn bản.
 
-**ID:** dk_00037483
+ 2. Sản xuất để tiêu thụ trong nước: Sản phẩm được chứng nhận bởi tổ chức chứng nhận được thừa nhận như quy định tại Khoản 1 Điều này và có Giấy chứng nhận đăng ký hoạt động theo quy định tại Điều 7 Nghị định này.
 
----
+ 3. Tổ chức chứng nhận nước ngoài hoặc tổ chức chứng nhận Việt Nam đã được thừa nhận có trách nhiệm:
 
+ a) Định kỳ hàng năm hoặc đột xuất khi có yêu cầu, gửi qua mạng điện tử (sau đó gửi hồ sơ bản chính hoặc bản sao chứng thực) báo cáo kết quả hoạt động chứng nhận phù hợp tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài theo Mẫu số 7 Nghị định 107/2016/NĐ-CP cho cơ quan chuyên ngành được Bộ Nông nghiệp và Phát triển nông thôn phân công;
 
-### Điều 24.4.NĐ.1.10. Kiểm tra tổ chức chứng nhận
+ b) Chấp hành kiểm tra của cơ quan chuyên ngành được Bộ Nông nghiệp và Phát triển nông thôn phân công và bị xử phạt khi có dấu hiệu vi phạm theo quy định pháp luật.
 
-*Nội dung chưa có sẵn*
+ 4. Tổ chức chứng nhận được thừa nhận và có Giấy chứng nhận đăng ký hoạt động thực hiện trách nhiệm quy định tại Nghị định 107/2016/NĐ-CP.
 
-**Chỉ mục:** 10
+ 5. Bộ Nông nghiệp và Phát triển nông thôn quản lý và hướng dẫn thực hiện các quy định tại Điều này.Điều 24.4.NĐ.1.10. Kiểm tra tổ chức chứng nhận
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001000
+(Điều 10 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**ID:** dk_00037484
+ 1. Bộ Nông nghiệp và Phát triển nông thôn kiểm tra hoạt động của tổ chức chứng nhận có Giấy chứng nhận đăng ký hoạt động và xử lý khi vi phạm theo quy định hiện hành.
 
----
+ 2. Bộ Nông nghiệp và Phát triển nông thôn kiểm tra hoạt động của tổ chức chứng nhận được thừa nhận chứng nhận sản phẩm phù hợp tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài khi có dấu hiệu vi phạm và xử lý vi phạm theo quy định hiện hành.Điều 24.4.NĐ.1.11. Công bố tiêu chuẩn áp dụng và ghi nhãn sản phẩm hữu cơ
 
+(Điều 11 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-### Điều 24.4.NĐ.1.11. Công bố tiêu chuẩn áp dụng và ghi nhãn sản phẩm hữu cơ
+ 1. Công bố tiêu chuẩn áp dụng:
 
-Điều 24.4.NĐ.1.11. Công bố tiêu chuẩn áp dụng và ghi nhãn sản phẩm hữu cơ
+ a) Công bố tên, số hiệu tiêu chuẩn nông nghiệp hữu cơ áp dụng và các yêu cầu khác theo quy định pháp luật;
 
-**Chỉ mục:** 11
+ b) Đối với mỹ phẩm hữu cơ ngoài quy định tại điểm a Khoản này phải công bố sản phẩm mỹ phẩm theo quy định của Bộ Y tế.
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001100
+ 2. Ghi nhãn theo quy định tại Nghị định 43/2017/NĐ-CP về nhãn hàng hóa và quy định ghi nhãn thực phẩm, nhãn dược liệu, nhãn mỹ phẩm, nhãn thức ăn chăn nuôi, thức ăn thủy sản và các quy định sau đây:
 
-**ID:** dk_00037485
+ a) Việc sử dụng cụm từ “100% hữu cơ”, “hữu cơ” hoặc “sản xuất từ thành phần hữu cơ” kèm theo tỷ lệ các thành phần cấu tạo trên nhãn sản phẩm hữu cơ theo quy định tại tiêu chuẩn nông nghiệp hữu cơ;
 
----
+ b) Sản phẩm hữu cơ sản xuất tại Việt Nam phải ghi rõ mã số giấy chứng nhận, ngày cấp, tên đầy đủ hoặc tên viết tắt, mã số của tổ chức chứng nhận;
 
+ c) Sản phẩm hữu cơ nhập khẩu có nhãn không đáp ứng đầy đủ quy định tại Nghị định này thì phải có nhãn phụ theo quy định.
 
-### Điều 24.4.NĐ.1.12. Lô gô sản phẩm hữu cơ Việt Nam
+ 3. Khuyến khích sử dụng mã số, mã vạch, gắn “Nhãn xanh Việt Nam”, nhãn sinh thái trên nhãn sản phẩm hữu cơ theo quy định pháp luật.Điều 24.4.NĐ.1.12. Lô gô sản phẩm hữu cơ Việt Nam
 
-*Nội dung chưa có sẵn*
+(Điều 12 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**Chỉ mục:** 12
+ 1. Sản phẩm “100% hữu cơ” và sản phẩm “hữu cơ” có ít nhất 95% thành phần hữu cơ được chứng nhận phù hợp TCVN về nông nghiệp hữu cơ được mang lô gô sản phẩm hữu cơ Việt Nam. Lô gô của cơ sở được sử dụng đồng thời với lô gô hữu cơ Việt Nam.
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001200
+ 2. Sau khi được chứng nhận sản phẩm hữu cơ, thì cơ sở có quyền in mẫu lô gô theo quy định của Bộ Nông nghiệp và Phát triển nông thôn gắn trên bao bì sản phẩm và chịu trách nhiệm về việc sử dụng lô gô theo quy định của pháp luật.
 
-**ID:** dk_00037486
+ 3. Bộ Nông nghiệp và Phát triển nông thôn quy định mẫu lô gô và quản lý sử dụng lô gô theo quy định pháp luật.Điều 24.4.NĐ.1.13. Truy xuất nguồn gốc, thu hồi và xử lý sản phẩm hữu cơ không đảm bảo chất lượng
 
----
+(Điều 13 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
+ 1. Cơ sở phải ghi chép, lưu giữ hồ sơ, thiết lập hệ thống truy xuất nguồn gốc sản phẩm tại từng công đoạn sản xuất, kinh doanh theo hướng dẫn tại TCVN về nông nghiệp hữu cơ.
 
-### Điều 24.4.NĐ.1.13. Truy xuất nguồn gốc, thu hồi và xử lý sản phẩm hữu cơ không đảm bảo chất lượng
+ 2. Cơ sở thực hiện truy xuất nguồn gốc trong các trường hợp sau:
 
-Điều 24.4.NĐ.1.13. Truy xuất nguồn gốc, thu hồi và xử lý sản phẩm hữu cơ không đảm bảo chất lượng
+ a) Khi cơ quan nhà nước có thẩm quyền yêu cầu;
 
-**Chỉ mục:** 13
+ b) Khi cơ sở phát hiện sản phẩm hữu cơ do mình sản xuất, kinh doanh không phù hợp tiêu chuẩn nông nghiệp hữu cơ hoặc quy định, quy chuẩn kỹ thuật tương ứng; ghi nhãn, lô gô không đúng quy định; quá hạn sử dụng hoặc hư hỏng (gọi chung là sản phẩm không đảm bảo chất lượng).
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001300
+ 3. Sản phẩm hữu cơ phải thu hồi trong các trường hợp sau đây:
 
-**ID:** dk_00037487
+ a) Ghi nhãn, lô gô không đúng quy định;
 
----
+ b) Hết thời hạn sử dụng mà vẫn bán trên thị trường;
 
+ c) Không phù hợp với tiêu chuẩn nông nghiệp hữu cơ hoặc quy định, quy chuẩn kỹ thuật tương ứng;
 
-### Điều 24.4.TT.35.9. Thu hồi sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+ d) Bị hư hỏng trong quá trình bảo quản, vận chuyển, kinh doanh;
 
-Điều 24.4.TT.35.9. Thu hồi sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+ đ) Có chất cấm sử dụng hoặc xuất hiện tác nhân gây ô nhiễm vượt mức giới hạn quy định;
 
-**Chỉ mục:** 9
+ e) Sản phẩm nhập khẩu bị cơ quan có thẩm quyền nước xuất khẩu, nước khác hoặc tổ chức quốc tế thông báo có chứa tác nhân gây ô nhiễm gây hại đến sức khoẻ, tính mạng con người.
 
-**Mã phân cấp:** 2400400000000000400000500000000000000000069000000000000000000040266590109000130000802708800160000900
+ 4. Hình thức xử lý sản phẩm hữu cơ bị thu hồi:
 
-**ID:** dk_00037488
+ a) Khắc phục lỗi ghi nhãn, lỗi lô gô (do in ấn sai); trường hợp ghi nhãn, lô gô chưa đúng quy định và có các vi phạm khác thì lô sản phẩm bị xử lý theo quy định tại các điểm b, c, d Khoản này;
 
----
+ b) Chuyển mục đích sử dụng đối với lô sản phẩm hết hạn sử dụng hoặc không phù hợp với mục đích sử dụng ban đầu hoặc tiêu chuẩn nông nghiệp hữu cơ nhưng không gây mất an toàn đối với sức khỏe, môi trường;
 
+ c) Tiêu hủy lô sản phẩm bị hư hỏng; không rõ nguồn gốc xuất xứ hoặc có chứa chất không được phép sử dụng hoặc tác nhân gây mất an toàn đối với sức khỏe, môi trường vượt quy định, quy chuẩn kỹ thuật;
 
-### Điều 24.4.TT.35.10. Xử lý sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+ d) Tái xuất đối với lô sản phẩm hữu cơ nhập khẩu không phù hợp tiêu chuẩn hữu cơ hoặc quy định, quy chuẩn kỹ thuật của Việt Nam hoặc hết hạn sử dụng.
+
+ 5. Trách nhiệm của cơ sở khi phát hiện sản phẩm hữu cơ không đảm bảo chất lượng:
+
+ a) Xác định, thông báo lô sản phẩm không đảm bảo chất lượng;
+
+ b) Yêu cầu các đại lý kinh doanh sản phẩm dừng phân phối lưu thông, báo cáo số lượng của lô sản phẩm không đảm bảo chất lượng, tồn kho thực tế và đang lưu thông trên thị trường;
+
+ c) Tổng hợp, báo cáo cơ quan nhà nước có thẩm quyền về kế hoạch thu hồi và hình thức xử lý sản phẩm bị thu hồi;
+
+ d) Thực hiện thu hồi và xử lý sản phẩm bị thu hồi trong thời hạn do cơ quan nhà nước có thẩm quyền quyết định.
+
+ 6. Trách nhiệm cơ quan nhà nước có thẩm quyền:
+
+ a) Kiểm tra, giám sát việc thực hiện truy xuất nguồn gốc của cơ sở;
+
+ b) Quyết định việc thu hồi, hình thức xử lý và thời hạn hoàn thành;
+
+ c) Kiểm tra việc thu hồi, xử lý sản phẩm bị thu hồi;
+
+ d) Xử lý vi phạm pháp luật về chất lượng, an toàn thực phẩm theo quy định.
+
+ 7. Bộ Nông nghiệp và Phát triển nông thôn, Bộ Y tế, Bộ Công Thương quy định cụ thể việc thu hồi, xử lý đối với sản phẩm hữu cơ không bảo đảm chất lượng thuộc thẩm quyền quản lý theo quy định.Điều 24.4.TT.35.9. Thu hồi sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+
+(Điều 9 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
+
+1. Trường hợp phải thu hồi sản phẩm nông nghiệp hữu cơ thực hiện theo quy định tại khoản 3 Điều 13 Nghị định số 109/2018/NĐ-CP.
+
+2. Tổ chức, cá nhân sản xuất, kinh doanh phải xây dựng kế hoạch thu hồi sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng.
+
+3. Các hình thức thu hồi sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng:
+
+a) Thu hồi tự nguyện do tổ chức, cá nhân sản xuất, kinh doanh thực hiện;
+
+b) Thu hồi bắt buộc theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
 Điều 24.4.TT.35.10. Xử lý sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
 
-**Mã phân cấp:** 2400400000000000400000500000000000000000069000000000000000000040266590109000130000802708800160001000
+1. Xử lý sản phẩm nông nghiệp hữu cơ bị thu hồi thực hiện theo quy định tại khoản 4 Điều 13 Nghị định số 109/2018/NĐ-CP.
 
-**ID:** dk_00037489
-
----
-
-
-### Điều 24.4.NĐ.1.14. Kiểm tra chất lượng sản phẩm hữu cơ
+2. Xử lý vi phạm đối với các hành vi không bảo đảm chất lượng của sản phẩm nông nghiệp hữu cơ thực hiện theo quy định của pháp luật về xử phạt vi phạm hành chính và các văn bản có liên quan đến chất lượng sản phẩm hàng hóa, an toàn thực phẩm.
 
 Điều 24.4.NĐ.1.14. Kiểm tra chất lượng sản phẩm hữu cơ
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001400
+ 1. Trình tự, thủ tục kiểm tra, xử lý vi phạm về chất lượng sản phẩm hữu cơ theo quy định pháp luật về chất lượng sản phẩm, hàng hóa, an toàn thực phẩm.
 
-**ID:** dk_00037490
+ 2. Bộ Nông nghiệp và Phát triển nông thôn, Bộ Y tế, Bộ Công Thương quy định chi tiết về cơ quan kiểm tra, việc áp dụng phương thức kiểm tra chất lượng sản phẩm hữu cơ đối với sản phẩm thuộc thẩm quyền quản lý theo quy định.Điều 24.4.TT.35.6. Kiểm tra chất lượng sản phẩm nông nghiệp hữu cơ thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
 
----
+(Điều 6 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
 
+1. Tổng cục, Cục quản lý chuyên ngành thuộc Bộ Nông nghiệp và Phát triển nông thôn, Sở Nông nghiệp và Phát triển nông thôn căn cứ chức năng, nhiệm vụ được giao tiến hành kiểm tra chất lượng sản phẩm nông nghiệp hữu cơ theo kế hoạch được phê duyệt hoặc khi phát hiện có dấu hiệu vi phạm.
 
-### Điều 24.4.TT.35.6. Kiểm tra chất lượng sản phẩm nông nghiệp hữu cơ thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
-
-Điều 24.4.TT.35.6. Kiểm tra chất lượng sản phẩm nông nghiệp hữu cơ thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 2400400000000000400000500000000000000000069000000000000000000040266590109000140000802708800160000600
-
-**ID:** dk_00037491
-
----
-
-
-### Điều 24.4.NĐ.1.15. Quy định về thử nghiệm mẫu sản phẩm hữu cơ
+2. Kiểm tra chất lượng sản phẩm nông nghiệp hữu cơ thực hiện theo quy định của Luật Chất lượng sản phẩm hàng hóa, Luật An toàn thực phẩm và các quy định khác của pháp luật có liên quan.
 
 Điều 24.4.NĐ.1.15. Quy định về thử nghiệm mẫu sản phẩm hữu cơ
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001500
+ 1. Yêu cầu đối với người lấy mẫu, quá trình lấy mẫu thực hiện theo quy định hiện hành đối với từng sản phẩm, lĩnh vực.
 
-**ID:** dk_00037492
+ 2. Xác định hóa chất, phụ gia hoặc chất bảo quản ngoài danh mục cho phép sử dụng tại tiêu chuẩn nông nghiệp hữu cơ trong sản phẩm “100% hữu cơ”:
 
----
+ a) Sử dụng phương pháp thử nhanh đối với những chất cụ thể theo quy định;
 
+ b) Sử dụng phương pháp phân tích tại phòng thử nghiệm đã đăng ký hoạt động thử nghiệm và được công nhận hoặc chỉ định theo quy định của pháp luật; kết quả phân tích mẫu dương tính với chất ngoài danh mục bị coi là vi phạm.
 
-### Điều 24.4.TT.35.7. Quy định về lấy mẫu sản phẩm nông nghiệp hữu cơ
+ 3. Xác định giới hạn vi sinh vật gây hại, kim loại nặng có chứa trong sản phẩm hữu cơ theo quy định, quy chuẩn kỹ thuật quốc gia đối với sản phẩm an toàn.
 
-Điều 24.4.TT.35.7. Quy định về lấy mẫu sản phẩm nông nghiệp hữu cơ
+ 4. Bộ Nông nghiệp và Phát triển nông thôn, Bộ Y tế, Bộ Công Thương hướng dẫn chi tiết quy định tại Khoản 1, Khoản 2 Điều này đối với sản phẩm thuộc thẩm quyền quản lý theo quy định.Điều 24.4.TT.35.7. Quy định về lấy mẫu sản phẩm nông nghiệp hữu cơ
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
 
-**Mã phân cấp:** 2400400000000000400000500000000000000000069000000000000000000040266590109000150000802708800160000700
+1. Người lấy mẫu phải có chứng chỉ hoặc giấy chứng nhận về lấy mẫu hoặc chứng nhận tham gia đào tạo, tập huấn có nội dung về lấy mẫu đối với đối tượng mẫu tương ứng.
 
-**ID:** dk_00037493
-
----
-
-
-### Điều 24.4.TT.35.8. Thử nghiệm mẫu sản phẩm nông nghiệp hữu cơ thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+2. Việc lấy mẫu thực hiện theo TCVN tương ứng với đối tượng mẫu và quy định của Bộ Nông nghiệp và Phát triển nông thôn.
 
 Điều 24.4.TT.35.8. Thử nghiệm mẫu sản phẩm nông nghiệp hữu cơ thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
 
-**Mã phân cấp:** 2400400000000000400000500000000000000000069000000000000000000040266590109000150000802708800160000800
+1. Các Tổng cục, Cục chuyên ngành sử dụng phương pháp thử nghiệm nhanh đã được Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn chấp thuận hoặc phê duyệt để xác định các chất ngoài danh mục được phép sử dụng tại TCVN 11041, các tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài được Việt Nam chấp thuận.
 
-**ID:** dk_00037494
+2. Kết quả thử nghiệm bằng bộ xét nghiệm nhanh là kết quả ban đầu, chỉ mang ý nghĩa sàng lọc, định hướng cho các kiểm nghiệm khẳng định tiếp theo trong phòng thử nghiệm. Không sử dụng kết quả thu được từ thử nghiệm bằng bộ xét nghiệm nhanh làm cơ sở để xử lý vi phạm.
 
----
+3. Mẫu sản phẩm nông nghiệp hữu cơ có kết quả dương tính khi sử dụng bộ xét nghiệm nhanh phải được kiểm nghiệm khẳng định tại phòng thử nghiệm đã đăng ký hoạt động thử nghiệm và được công nhận hoặc chỉ định theo quy định của pháp luật để kết luận.
 
-
-### Điều 24.4.NĐ.1.16. Ưu tiên áp dụng các chính sách đã ban hành cho phát triển nông nghiệp hữu cơ
+4. Mẫu sản phẩm nông nghiệp hữu cơ được kiểm nghiệm khẳng định tại phòng thử nghiệm đã đăng ký hoạt động thử nghiệm và được công nhận hoặc chỉ định theo quy định của pháp luật; kết quả phân tích mẫu dương tính với chất ngoài danh mục bị coi là vi phạm.
 
 Điều 24.4.NĐ.1.16. Ưu tiên áp dụng các chính sách đã ban hành cho phát triển nông nghiệp hữu cơ
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001600
+ 1. Ưu tiên kinh phí khoa học, khuyến nông để thực hiện đề tài nghiên cứu, dự án khuyến nông, đặc biệt về giống kháng sâu bệnh, phân bón hữu cơ, thuốc bảo vệ thực vật sinh học, thuốc thú y thảo mộc.
 
-**ID:** dk_00037495
+ 2. Cơ sở sản xuất, kinh doanh sản phẩm hữu cơ hoặc vật tư đầu vào phục vụ cho sản xuất hữu cơ được ưu tiên hưởng các chính sách khuyến khích đầu tư đối với nông nghiệp, nông thôn đã được ban hành:
 
----
+ a) Chính sách hỗ trợ doanh nghiệp nhỏ và vừa; chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn;
 
+ b) Chính sách hỗ trợ hợp tác xã nông nghiệp; chính sách liên kết sản xuất gắn với tiêu thụ sản phẩm, xây dựng cánh đồng lớn; chính sách đào tạo nghề cho lao động nông thôn;
 
-### Điều 24.4.NĐ.1.17. Một số chính sách đặc thù hỗ trợ doanh nghiệp nhỏ, hợp tác xã, trang trại, hộ gia đình, nhóm hộ sản xuất sản phẩm hữu cơ
+ c) Chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn; chính sách cho vay khuyến khích phát triển nông nghiệp ứng dụng công nghệ cao, nông nghiệp sạch;
 
-Điều 24.4.NĐ.1.17. Một số chính sách đặc thù hỗ trợ doanh nghiệp nhỏ, hợp tác xã, trang trại, hộ gia đình, nhóm hộ sản xuất sản phẩm hữu cơ
+ d) Chính sách đặc thù về giống, vốn và công nghệ trong nuôi trồng, khai thác dược liệu;
 
-**Chỉ mục:** 17
+ đ) Chính sách hỗ trợ xúc tiến thương mại, xây dựng thương hiệu;
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001700
+ e) Chính sách hỗ trợ gắn Nhãn xanh Việt Nam, hỗ trợ cơ sở thân thiện với môi trường;
 
-**ID:** dk_00037496
+ g) Các chính sách có liên quan khác;
 
----
+ h) Trong cùng thời điểm và mục tiêu, cơ sở chỉ được lựa chọn 01 chính sách phù hợp nhất quy định tại các điểm a, b, c, d, đ, e, g Khoản này.
 
+ 3. Nội dung, định mức hỗ trợ; điều kiện hỗ trợ; nguồn vốn và cơ chế hỗ trợ từ ngân sách nhà nước thực hiện theo các văn bản đã được ban hành đối với các chính sách hỗ trợ nêu tại Khoản 1, Khoản 2 Điều này.Điều 24.4.NĐ.1.17. Một số chính sách đặc thù hỗ trợ doanh nghiệp nhỏ, hợp tác xã, trang trại, hộ gia đình, nhóm hộ sản xuất sản phẩm hữu cơ
 
-### Điều 24.4.NĐ.1.18. Trách nhiệm quản lý nhà nước về nông nghiệp hữu cơ
+(Điều 17 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
 
-Điều 24.4.NĐ.1.18. Trách nhiệm quản lý nhà nước về nông nghiệp hữu cơ
+ 1. Nội dung, định mức hỗ trợ:
 
-**Chỉ mục:** 18
+ a) Hỗ trợ 100% kinh phí xác định các vùng, khu vực đủ điều kiện sản xuất hữu cơ: Điều tra cơ bản, khảo sát địa hình, phân tích mẫu đất, mẫu nước, mẫu không khí do cấp có thẩm quyền phê duyệt;
 
-**Mã phân cấp:** 24004000000000004000005000000000000000000690000000000000000000402665901090001800
+ b) Hỗ trợ một lần 100% chi phí cấp Giấy chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ do Tổ chức chứng nhận cấp (cấp lần đầu hoặc cấp lại);
 
-**ID:** dk_00037497
+ c) Hỗ trợ đào tạo, tập huấn sản xuất hữu cơ: định mức hỗ trợ thực hiện theo quy định của Chính phủ về khuyến nông;
 
----
+ d) Hỗ trợ xây dựng, nhân rộng mô hình sản xuất hữu cơ theo TCVN: định mức hỗ trợ chi phí giống kháng sâu bệnh, phân bón hữu cơ, thuốc bảo vệ thực vật sinh học đối với mô hình trồng trọt; chi phí giống, thức ăn hữu cơ, thuốc thú y được phép sử dụng đối với mô hình chăn nuôi, thủy sản và chi phí nhân rộng mô hình theo quy định của Chính phủ về khuyến nông.
 
+ 2. Nguồn kinh phí thực hiện:
 
-### Điều 24.4.LQ.70. Canh tác thích ứng với biến đổi khí hậu
+ a) Nguồn hỗ trợ từ ngân sách nhà nước theo quy định hiện hành;
+
+ b) Lồng ghép từ các Chương trình mục tiêu, Chương trình mục tiêu quốc gia và các chương trình, dự án khác đang triển khai thực hiện;
+
+ c) Nguồn tài trợ của các tổ chức, cá nhân trong và ngoài nước;
+
+ d) Các nguồn vốn huy động hợp pháp khác theo quy định của pháp luật.
+
+ 3. Nguyên tắc hỗ trợ
+
+ a) Ngân sách trung ương hỗ trợ các dự án thuộc nhiệm vụ chi của trung ương và do cơ quan có thẩm quyền cấp trung ương phê duyệt. Mức hỗ trợ cụ thể thực hiện theo quy định tại Nghị định này và các quy định hiện hành có liên quan trên cơ sở cân đối nguồn lực tài chính và chính sách phát triển trong từng thời kỳ. Ngân sách trung ương hỗ trợ một phần các địa phương khó khăn chưa tự cân đối ngân sách theo khả năng cân đối của ngân sách trung ương;
+
+ b) Ngân sách địa phương hỗ trợ các dự án thuộc nhiệm vụ chi của địa phương và do Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn được ủy quyền phê duyệt và hỗ trợ cho doanh nghiệp nhỏ, hợp tác xã, trang trại, hộ gia đình, nhóm hộ sản xuất sản phẩm hữu cơ tại địa phương theo quy định tại điểm b Khoản 1 Điều này. Trường hợp cần thiết, tùy theo điều kiện thực tế, trên cơ sở cân đối nguồn lực tài chính của ngân sách địa phương, Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân xem xét, quyết định ban hành chính sách hỗ trợ bổ sung ngoài các chính sách quy định tại Nghị định này;
+
+ c) Đối với dự án có sử dụng vốn viện trợ không hoàn lại áp dụng theo nội dung, mức hỗ trợ của nhà tài trợ quy định tại thỏa thuận tài trợ hoặc áp dụng theo mức hỗ trợ do đại diện nhà tài trợ, Bộ Tài chính và cơ quan chủ quản dự án thống nhất; trường hợp đại diện nhà tài trợ và Bộ Tài chính chưa có thỏa thuận về mức hỗ trợ thì áp dụng theo mức hỗ trợ quy định tại Nghị định này.
+
+ 4. Điều kiện, trình tự, thủ tục hỗ trợ:
+
+ a) Đối với nội dung hỗ trợ quy định tại điểm a, c, d Khoản 1 Điều này:
+
+ Các nội dung hỗ trợ phải có trong dự án được cấp có thẩm quyền phê duyệt;
+
+ Có cam kết bố trí vốn đối ứng để thực hiện các hạng mục trong dự án được duyệt (ngoài phần hỗ trợ của ngân sách, nhà nước);
+
+ Cơ sở đủ điều kiện được hỗ trợ đầu tư theo tiến độ của dự án.
+
+ Trình tự, thủ tục đề xuất, thẩm định, phê duyệt dự án được thực hiện theo quy định của Luật đầu tư công, Luật ngân sách nhà nước và các văn bản hướng dẫn; các quy định pháp luật có liên quan về quản lý, sử dụng kinh phí khuyến nông, kinh phí sự nghiệp khoa học công nghệ, kinh phí lồng ghép trong các chương trình mục tiêu quốc gia, chương trình mục tiêu hoặc các chương trình, dự án và kinh phí khác.
+
+ b) Đối với nội dung hỗ trợ quy định tại điểm b Khoản 1 Điều này:
+
+ Doanh nghiệp nhỏ, hợp tác xã, trang trại, hộ gia đình, nhóm hộ sản xuất sản phẩm hữu cơ gửi văn bản đề nghị hỗ trợ kinh phí cấp Giấy chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ cho cơ quan chuyên môn được ủy quyền trên địa bàn (Sở Nông nghiệp và Phát triển nông thôn hoặc Sở Y tế hoặc Sở Công Thương), kèm theo kết quả tự đánh giá nội bộ đạt yêu cầu TCVN về nông nghiệp hữu cơ và bản sao Giấy chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ được cấp lần đầu (đối với trường hợp đề nghị cấp lại).
+
+ Cơ quan chuyên môn được ủy quyền trên địa bàn căn cứ văn bản đề nghị và kết quả tự đánh giá nội bộ của doanh nghiệp nhỏ, hợp tác xã, trang trại, hộ gia đình, nhóm hộ sản xuất sản phẩm hữu cơ lựa chọn tổ chức chứng nhận theo quy định của pháp luật về đấu thầu và cấp kinh phí chứng nhận cho tổ chức chứng nhận trúng thầu.
+
+ 5. Khuyến khích nông dân, tổ chức, cá nhân tham gia Hệ thống bảo đảm cùng tham gia (Participatory Guarantee System - gọi tắt là PGS, là hệ thống dựa vào sự cùng tham gia của nông dân, người bán hàng, người tiêu dùng và những đối tượng khác có cùng quan tâm). Các tổ chức, cá nhân khi tham gia PGS được hưởng các chính sách quy định tại điểm b và c Khoản 1 Điều này.Điều 24.4.NĐ.1.18. Trách nhiệm quản lý nhà nước về nông nghiệp hữu cơ
+
+(Điều 18 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
+
+ 1. Bộ Nông nghiệp và Phát triển nông thôn thực hiện quản lý nhà nước về nông nghiệp hữu cơ có trách nhiệm:
+
+ a) Quản lý hoạt động của các tổ chức chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ; tổ chức chứng nhận được thừa nhận; cập nhật, thông báo tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài được chấp thuận;
+
+ b) Quản lý nhà nước đối với sản xuất, kinh doanh thực phẩm hữu cơ, thức ăn chăn nuôi, thủy sản hữu cơ và sản phẩm hữu cơ khác thuộc thẩm quyền quản lý theo quy định;
+
+ c) Hợp tác quốc tế; đào tạo, tập huấn, thông tin, tuyên truyền; kiểm tra, thanh tra, xử lý vi phạm thuộc chức năng, nhiệm vụ của Bộ Nông nghiệp và Phát triển nông thôn;
+
+ d) Hàng năm, tổng hợp kinh phí hỗ trợ cho các dự án do Bộ Nông nghiệp và Phát triển nông thôn quản lý và nhu cầu hỗ trợ cho các địa phương khó khăn trong dự toán hàng năm của Bộ Nông nghiệp và Phát triển nông thôn, gửi Bộ Tài chính xem xét, tổng hợp trình cấp có thẩm quyền phê duyệt theo quy định của Luật ngân sách nhà nước.
+
+ 2. Bộ Y tế thực hiện quản lý nhà nước đối với sản xuất, kinh doanh dược liệu hữu cơ, mỹ phẩm hữu cơ, thực phẩm hữu cơ thuộc thẩm quyền quản lý theo quy định.
+
+ 3. Bộ Công Thương thực hiện quản lý nhà nước đối với sản xuất, kinh doanh thực phẩm hữu cơ và sản phẩm hữu cơ khác thuộc thẩm quyền quản lý theo quy định; thực hiện quản lý thị trường đối với sản phẩm hữu cơ theo quy định.
+
+ 4. Bộ Khoa học và Công nghệ chủ trì, phối hợp Bộ Nông nghiệp và Phát triển nông thôn, Bộ Y tế, Bộ Công Thương xây dựng, sửa đổi, công bố các TCVN về nông nghiệp hữu cơ theo quy định.
+
+ 5. Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm chủ trì hoặc phối hợp với các bộ, ngành thực hiện quản lý nhà nước về sản phẩm hữu cơ thuộc phạm vi quản lý.
+
+ 6. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm:
+
+ a) Ban hành chính sách khuyến khích; phê duyệt quy hoạch, kế hoạch, dự án sản xuất hữu cơ tại địa phương;
+
+ b) Bố trí kinh phí thực hiện các chính sách phát triển nông nghiệp hữu cơ theo quy định tại Nghị định này tại địa phương;
+
+ c) Tổ chức thực hiện; kiểm tra, thanh tra, xử lý vi phạm trên địa bàn theo quy định.
+
+ 7. Các Hội, tổ chức nghề nghiệp tuyên truyền, phổ biến, nâng cao nhận thức cộng đồng; tham gia đào tạo, tập huấn, giám sát các hội viên sản xuất, kinh doanh sản phẩm hữu cơ theo quy định pháp luật.Mục 6
+
+CANH TÁC THÍCH ỨNG VỚI BIẾN ĐỔI KHÍ HẬU VÀ BẢO VỆ MÔI TRƯỜNG
 
 Điều 24.4.LQ.70. Canh tác thích ứng với biến đổi khí hậu
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000040000060000000000000000007000000000000000000
+ 1. Áp dụng giải pháp phù hợp trong canh tác để thích ứng với biến đổi khí hậu và giảm phát thải khí nhà kính.
 
-**ID:** dk_00037499
+ 2. Bộ Nông nghiệp và Phát triển nông thôn có trách nhiệm sau đây:
 
----
+ a) Xác định giải pháp phù hợp để thích ứng với biến đổi khí hậu và giảm phát thải khí nhà kính trong canh tác;
 
+ b) Lồng ghép các giải pháp thích ứng với biến đổi khí hậu và giảm phát thải khí nhà kính khi xây dựng và thực hiện chiến lược, chương trình, đề án, dự án phát triển trồng trọt.
 
-### Điều 24.4.LQ.71. Canh tác trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển, đất có nguy cơ sa mạc hóa, hoang mạc hóa
+ 3. Ủy ban nhân dân cấp tỉnh tổ chức đánh giá tác động của biến đổi khí hậu, hướng dẫn tổ chức, cá nhân áp dụng biện pháp thích ứng với biến đổi khí hậu và giảm phát thải khí nhà kính trong trồng trọt tại địa bàn.
 
-Điều 24.4.LQ.71. Canh tác trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển, đất có nguy cơ sa mạc hóa, hoang mạc hóa
+ 4. Khuyến khích tổ chức, cá nhân canh tác áp dụng các biện pháp thích ứng với biến đổi khí hậu và giảm phát thải khí nhà kính.Điều 24.4.LQ.71. Canh tác trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển, đất có nguy cơ sa mạc hóa, hoang mạc hóa
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000040000060000000000000000007100000000000000000
+ 1. Việc canh tác trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển và đất có nguy cơ sa mạc hóa, hoang mạc hóa tuân thủ quy trình sản xuất để chống xói mòn, sạt lở, bồi lấp và suy thoái đất, bảo đảm phát triển bền vững.
 
-**ID:** dk_00037500
+ 2. Tổ chức, cá nhân canh tác tại các vùng quy định tại khoản 1 Điều này được hưởng chính sách quy định tại Điều 4 của Luật này và chính sách khác theo quy định của pháp luật có liên quan.
 
----
+ 3. Bộ Nông nghiệp và Phát triển nông thôn ban hành tiêu chí xác định, biện pháp quản lý và quy trình sản xuất trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển và đất có nguy cơ sa mạc hóa, hoang mạc hóa.
 
+ 4. Ủy ban nhân dân cấp tỉnh xác định, công bố vùng và hướng dẫn áp dụng quy trình sản xuất trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển và đất có nguy cơ sa mạc hóa, hoang mạc hóa.Điều 24.4.TT.31.1. 
 
-### Điều 24.4.TT.31.1.
+(Điều 1 Thông tư số 47/2014/TT-BNNPTNT Ban hành Quy chuẩn kỹ thuật Quốc gia về điều kiện trồng, chăm sóc cao su kiến thiết cơ bản ở miền núi phía Bắc ngày 11/12/2014 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 11/06/2015 )
 
-*Nội dung chưa có sẵn*
+Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về điều kiện trồng, chăm sóc cao su kiến thiết cơ bản ở miền núi phía Bắc. Ký hiệu: QCVN 01-149:2014/BNNPTNT
 
-**Chỉ mục:** 1
+Phu luc kem theo Thong tu so 47_2014_TT-BNNPTNT.doc
 
-**Mã phân cấp:** 24004000000000004000006000000000000000000710000000000000000000802530200470000100
+(Điều này có nội dung liên quan đến Điều 19.8.LQ.26. Hệ thống quy chuẩn kỹ thuật và ký hiệu quy chuẩn kỹ thuật)
 
-**ID:** dk_00037501
+Điều 24.4.LQ.72. Bảo vệ môi trường trong canh tác
 
----
+(Điều 72 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Tổ chức, cá nhân canh tác phải bảo đảm yêu cầu sau đây:
 
-### Điều 24.4.LQ.72. Bảo vệ môi trường trong canh tác
+ a) Tuân thủ pháp luật về bảo vệ môi trường và quy định khác của pháp luật có liên quan;
 
-*Nội dung chưa có sẵn*
+ b) Tuân thủ hướng dẫn của cơ quan chuyên môn khi sử dụng vật tư nông nghiệp trong canh tác có nguy cơ gây ô nhiễm môi trường;
 
-**Chỉ mục:** 72
+ c) Thu gom, xử lý, sử dụng phụ phẩm cây trồng theo quy định tại Điều 76 của Luật này.
 
-**Mã phân cấp:** 240040000000000040000060000000000000000007200000000000000000
+ 2. Tổ chức, cá nhân kịp thời thông báo cho Ủy ban nhân dân cấp xã khi phát hiện dấu hiệu bất thường về ô nhiễm môi trường có nguy cơ ảnh hưởng đến hoạt động canh tác.
 
-**ID:** dk_00037502
+ Mục 7
 
----
-
-
-### Điều 24.4.LQ.73. Quyền của tổ chức, cá nhân canh tác
+QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN CANH TÁC
 
 Điều 24.4.LQ.73. Quyền của tổ chức, cá nhân canh tác
 
-**Chỉ mục:** 73
+(Điều 73 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000040000070000000000000000007300000000000000000
+ 1. Tự tổ chức sản xuất hoặc liên kết sản xuất với tổ chức, cá nhân khác.
 
-**ID:** dk_00037504
+ 2. Được hưởng chính sách của Nhà nước quy định tại Điều 4 của Luật này và chính sách khác theo quy định của pháp luật có liên quan.
 
----
+ 3. Được hỗ trợ để khôi phục sản xuất trong trường hợp bị thiệt hại do thiên tai, dịch bệnh theo quy định của Chính phủ.
 
+ 4. Được cung cấp, chia sẻ thông tin về chính sách, pháp luật, tiến bộ kỹ thuật, công nghệ, thị trường sản phẩm cây trồng; đào tạo, tập huấn về hoạt động trồng trọt.
 
-### Điều 24.4.LQ.74. Nghĩa vụ của tổ chức, cá nhân canh tác
+ 5. Được đăng ký cấp mã số vùng trồng.
 
-Điều 24.4.LQ.74. Nghĩa vụ của tổ chức, cá nhân canh tác
+ 6. Được thông báo, cảnh báo về tình hình khí hậu, môi trường, dịch bệnh và thiên tai.
 
-**Chỉ mục:** 74
+ 7. Tham gia bảo hiểm nông nghiệp theo quy định của Chính phủ.Điều 24.4.LQ.74. Nghĩa vụ của tổ chức, cá nhân canh tác
 
-**Mã phân cấp:** 240040000000000040000070000000000000000007400000000000000000
+(Điều 74 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037505
+ 1. Chịu trách nhiệm về chất lượng, an toàn thực phẩm của sản phẩm cây trồng do mình sản xuất; bồi thường thiệt hại theo quy định của pháp luật.
 
----
+ 2. Sử dụng đúng mục đích, tiết kiệm, hiệu quả, bền vững tài nguyên đất, tài nguyên nước, sinh vật có ích, cơ sở hạ tầng. Sử dụng vật tư nông nghiệp trong canh tác được phép lưu hành theo hướng dẫn của cơ quan chuyên môn hoặc tổ chức, cá nhân sản xuất vật tư nông nghiệp.
 
+ 3. Áp dụng quy trình sản xuất phù hợp để ổn định và cải thiện độ phì của đất; hạn chế ô nhiễm và suy thoái đất, lan truyền sinh vật gây hại.
 
-### Điều 24.4.LQ.75. Thu hoạch, sơ chế, bảo quản, chế biến sản phẩm cây trồng
+ 4. Chủ động ngăn ngừa và xử lý ô nhiễm môi trường, phòng chống sinh vật gây hại theo quy định của pháp luật về bảo vệ môi trường, bảo vệ và kiểm dịch thực vật. Kịp thời thông báo cho Ủy ban nhân dân cấp xã khi xảy ra ô nhiễm môi trường, bùng phát dịch hại.
+
+ 5. Chuyển đổi cơ cấu cây trồng phù hợp với kế hoạch chuyển đổi cơ cấu cây trồng của địa phương.
+
+ 6. Thực hiện đầy đủ các cam kết trong hợp đồng.Chương V
+
+THU HOẠCH, SƠ CHẾ, BẢO QUẢN, CHẾ BIẾN, THƯƠNG MẠI VÀ QUẢN LÝ CHẤT LƯỢNG SẢN PHẨM CÂY TRỒNG
 
 Điều 24.4.LQ.75. Thu hoạch, sơ chế, bảo quản, chế biến sản phẩm cây trồng
 
-**Chỉ mục:** 75
+(Điều 75 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 2400400000000000500007500000000000000000
+ 1. Tổ chức, cá nhân thu hoạch, sơ chế, bảo quản, chế biến sản phẩm cây trồng phải thực hiện theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00037507
+ 2. Việc thu hoạch sản phẩm cây trồng phải hạn chế thất thoát, bảo đảm chất lượng, hiệu quả kinh tế.
 
----
+ 3. Sản phẩm cây trồng là nguyên liệu đầu vào của cơ sở sơ chế, chế biến phải có nguồn gốc xuất xứ, bảo đảm chất lượng, an toàn.
 
+ 4. Cơ sở thu mua, lưu giữ, chế biến phải áp dụng biện pháp kỹ thuật phù hợp để bảo quản sản phẩm cây trồng bảo đảm chất lượng, an toàn.
 
-### Điều 24.4.LQ.76. Thu gom, xử lý, sử dụng phụ phẩm cây trồng
+ 5. Khuyến khích hình thành cơ sở bảo quản, chế biến sản phẩm cây trồng gắn với vùng sản xuất nguyên liệu.Điều 24.4.LQ.76. Thu gom, xử lý, sử dụng phụ phẩm cây trồng
 
-Điều 24.4.LQ.76. Thu gom, xử lý, sử dụng phụ phẩm cây trồng
+(Điều 76 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 76
+ 1. Phụ phẩm cây trồng phải được thu gom, xử lý, sử dụng phù hợp, không gây ô nhiễm môi trường và lan truyền sinh vật gây hại.
 
-**Mã phân cấp:** 2400400000000000500007600000000000000000
+ 2. Khuyến khích sử dụng phụ phẩm cây trồng làm nguyên liệu để sản xuất sản phẩm, hàng hóa.
 
-**ID:** dk_00037508
+ 3. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định chi tiết việc thu gom, xử lý, sử dụng phụ phẩm cây trồng quy định tại khoản 1 Điều này.Điều 24.4.TT.38.4. Thu gom phụ phẩm cây trồng
 
----
+(Điều 4 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Phụ phẩm cây trồng được thu gom, phân loại theo mục đích sử dụng; không để lẫn với hóa chất, bao bì, vỏ chai đựng thuốc bảo vệ thực vật, phân bón, tạp chất vô cơ khác trong quá trình thu gom, vận chuyển.
 
-### Điều 24.4.TT.38.4. Thu gom phụ phẩm cây trồng
+ 2. Việc thu gom, vận chuyển phụ phẩm cây trồng không ảnh hưởng tới hoạt động sản xuất nông nghiệp tại khu vực canh tác, giao thông; không gây ô nhiễm môi trường, lan truyền sinh vật gây hại.
 
-*Nội dung chưa có sẵn*
+ 3. Khuyến khích sử dụng kỹ thuật tiên tiến trong thu hoạch, thu gom phụ phẩm cây trồng; khuyến khích sử dụng kỹ thuật, công nghệ ép, nén phụ phẩm trước khi vận chuyển.
 
-**Chỉ mục:** 4
+ 4. Tàn dư, phụ phẩm cây trồng trong vùng dịch hại thực vật thực hiện theo quy định của pháp luật về bảo vệ và kiểm dịch thực vật.Điều 24.4.TT.38.5. Xử lý phụ phẩm cây trồng
 
-**Mã phân cấp:** 240040000000000050000760000000000000000000802710200190000400
+(Điều 5 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037509
+ a) Cày vùi hoặc phay;
 
----
+ b) Ép xanh theo rãnh hoặc phủ luống;
 
+ c) Vùi trong hố đa năng hoặc che tủ gốc cây trồng; che phủ đất;
 
-### Điều 24.4.TT.38.5. Xử lý phụ phẩm cây trồng
+ d) Ủ làm phân bón hữu cơ truyền thống;
 
-*Nội dung chưa có sẵn*
+ đ) Phơi khô;
 
-**Chỉ mục:** 5
+ e) Các giải pháp, biện pháp xử lý khác.
 
-**Mã phân cấp:** 240040000000000050000760000000000000000000802710200190000500
+ 2. Khuyến khích việc sử dụng chế phẩm sinh học, ứng dụng tiến bộ công nghệ, kỹ thuật mới trong quá trình xử lý phụ phẩm cây trồng.
 
-**ID:** dk_00037510
+ 3. Việc xử lý phụ phẩm cây trồng bảo đảm không gây ô nhiễm môi trường, lan truyền sinh vật gây hại.Điều 24.4.TT.38.6. Sử dụng phụ phẩm cây trồng
 
----
+(Điều 6 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+ 1. Khuyến khích sử dụng phụ phẩm cây trồng làm nguyên liệu để sản xuất nấm; sản xuất thức ăn chăn nuôi, sản xuất phân bón hoặc làm nguyên liệu cho các ngành sản xuất khác.
 
-### Điều 24.4.TT.38.6. Sử dụng phụ phẩm cây trồng
+ 2. Phụ phẩm cây trồng được sử dụng làm nguyên liệu để sản xuất nấm; sản xuất thức ăn chăn nuôi, sản xuất phân bón, sản xuất sản phẩm, hàng hóa phải đáp ứng yêu cầu của nhà sản xuất và quy định của pháp luật có liên quan.
 
-*Nội dung chưa có sẵn*
+ Điều 24.4.TT.38.7. Trách nhiệm của Cục Trồng trọt
 
-**Chỉ mục:** 6
+(Điều 7 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 240040000000000050000760000000000000000000802710200190000600
+ 1. Tổ chức tuyên truyền, hướng dẫn việc thu gom, xử lý, sử dụng phụ phẩm cây trồng hiệu quả.
 
-**ID:** dk_00037511
+ 2. Tổ chức xây dựng tài liệu hướng dẫn thu gom, xử lý phụ phẩm cây trồng.
 
----
+ 3. Chủ trì, phối hợp với Sở Nông nghiệp và Phát triển nông thôn cập nhật thông tin về thu gom, xử lý, sử dụng phụ phẩm cây trồng trong phạm vi cả nước.Điều 24.4.TT.38.8. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn
 
+(Điều 8 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-### Điều 24.4.TT.38.7. Trách nhiệm của Cục Trồng trọt
+ 1. Tổ chức tuyên truyền, triển khai thực hiện quy định về thu gom, xử lý, sử dụng phụ phẩm cây trồng trên địa bàn.
 
-*Nội dung chưa có sẵn*
+ 2. Phối hợp với Cục Trồng trọt xây dựng tài liệu hướng dẫn thu gom, xử lý phụ phẩm cây trồng; hướng dẫn tổ chức, hộ gia đình, cá nhân thu gom, xử lý, sử dụng phụ phẩm cây trồng.
 
-**Chỉ mục:** 7
+ 3. Chủ trì, phối hợp với Ủy ban nhân dân cấp huyện, cấp xã và các đơn vị liên quan thanh tra, kiểm tra việc thực hiện các quy định về thu gom, xử lý, sử dụng phụ phẩm cây trồng trên địa bàn.
 
-**Mã phân cấp:** 240040000000000050000760000000000000000000802710200190000700
+ 4. Cung cấp thông tin về thu gom, xử lý, sử dụng phụ phẩm cây trồng trên địa bàn theo yêu cầu của Bộ Nông nghiệp và Phát triển nông thôn (Cục Trồng trọt).Điều 24.4.TT.38.9. Trách nhiệm của tổ chức, hộ gia đình, cá nhân thu gom, xử lý, sử dụng phụ phẩm cây trồng
 
-**ID:** dk_00037512
+(Điều 9 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+ 1. Tuân thủ quy định về thu gom, xử lý, sử dụng phụ phẩm cây trồng đảm bảo không gây ô nhiễm môi trường, lan truyền sinh vật gây hại.
 
+ 2. Chịu trách nhiệm về chất lượng phụ phẩm cây trồng theo yêu cầu của nhà sản xuất và pháp luật khác có liên quan.Điều 24.4.LQ.77. Phát triển thị trường và thương mại sản phẩm cây trồng
 
-### Điều 24.4.TT.38.8. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn
+(Điều 77 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-Điều 24.4.TT.38.8. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn
+ 1. Phát triển thị trường và thương mại sản phẩm cây trồng thực hiện theo quy định của pháp luật về thương mại, quản lý ngoại thương và quy định tại khoản 2 và khoản 3 Điều này.
 
-**Chỉ mục:** 8
+ 2. Phát triển thị trường sản phẩm cây trồng bao gồm:
 
-**Mã phân cấp:** 240040000000000050000760000000000000000000802710200190000800
+ a) Dự báo thị trường và định hướng phát triển sản phẩm cây trồng trong từng thời kỳ;
 
-**ID:** dk_00037513
+ b) Đàm phán và thực hiện mở cửa thị trường; tháo gỡ rào cản để sản phẩm cây trồng của Việt Nam được nhập khẩu vào các quốc gia và vùng lãnh thổ;
 
----
+ c) Xây dựng chợ đầu mối; xúc tiến thương mại và xây dựng thương hiệu sản phẩm cây trồng.
 
+ 3. Tổ chức, cá nhân tham gia phát triển thị trường tiêu thụ sản phẩm cây trồng; xây dựng chuỗi liên kết từ sản xuất đến tiêu thụ sản phẩm; xây dựng vùng nguyên liệu phục vụ chế biến, thương mại trong nước và xuất khẩu được hưởng chính sách quy định tại Điều 4 của Luật này và chính sách khác theo quy định của pháp luật có liên quan.Điều 24.4.LQ.78. Xuất khẩu, nhập khẩu sản phẩm cây trồng
 
-### Điều 24.4.TT.38.9. Trách nhiệm của tổ chức, hộ gia đình, cá nhân thu gom, xử lý, sử dụng phụ phẩm cây trồng
+(Điều 78 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-Điều 24.4.TT.38.9. Trách nhiệm của tổ chức, hộ gia đình, cá nhân thu gom, xử lý, sử dụng phụ phẩm cây trồng
+ 1. Tổ chức, cá nhân nhập khẩu sản phẩm cây trồng phải có tài liệu truy xuất nguồn gốc, đáp ứng yêu cầu về chất lượng, an toàn thực phẩm, an toàn dịch bệnh theo quy định của pháp luật Việt Nam.
 
-**Chỉ mục:** 9
+ 2. Tổ chức, cá nhân xuất khẩu sản phẩm cây trồng thực hiện theo yêu cầu của nước nhập khẩu.Điều 24.4.LQ.79. Phát triển chợ đầu mối sản phẩm cây trồng
 
-**Mã phân cấp:** 240040000000000050000760000000000000000000802710200190000900
+(Điều 79 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00037514
+ 1. Chợ đầu mối sản phẩm cây trồng được bố trí ở vùng sản xuất hàng hóa tập trung hoặc nơi tiêu thụ sản phẩm cây trồng với khối lượng lớn.
 
----
+ 2. Phát triển chợ đầu mối sản phẩm cây trồng phải phù hợp với quy hoạch.Điều 24.4.LQ.80. Quyền và nghĩa vụ của tổ chức, cá nhân thu hoạch, sơ chế, bảo quản, chế biến và thương mại sản phẩm cây trồng
 
+(Điều 80 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-### Điều 24.4.LQ.77. Phát triển thị trường và thương mại sản phẩm cây trồng
+ 1. Tổ chức, cá nhân thu hoạch, sơ chế, bảo quản, chế biến và thương mại sản phẩm cây trồng có quyền sau đây:
 
-Điều 24.4.LQ.77. Phát triển thị trường và thương mại sản phẩm cây trồng
+ a) Được hỗ trợ liên kết chuỗi sản xuất, chế biến, thương mại sản phẩm cây trồng;
 
-**Chỉ mục:** 77
+ b) Được hưởng chính sách quy định tại Điều 4 của Luật này và chính sách khác theo quy định của pháp luật có liên quan.
 
-**Mã phân cấp:** 2400400000000000500007700000000000000000
+ 2. Tổ chức, cá nhân bảo quản, chế biến và thương mại sản phẩm cây trồng có nghĩa vụ sau đây:
 
-**ID:** dk_00037515
+ a) Tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan;
 
----
+ b) Chấp hành việc thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền.Điều 24.4.LQ.81. Quản lý chất lượng sản phẩm cây trồng
 
+(Điều 81 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-### Điều 24.4.LQ.78. Xuất khẩu, nhập khẩu sản phẩm cây trồng
+ 1. Sản phẩm cây trồng được quản lý chất lượng theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật, chất lượng sản phẩm, hàng hóa.
 
-Điều 24.4.LQ.78. Xuất khẩu, nhập khẩu sản phẩm cây trồng
+ 2. Sản phẩm cây trồng biến đổi gen sử dụng làm thực phẩm phải được ghi nhãn theo quy định của pháp luật về an toàn thực phẩm và quy định khác của pháp luật có liên quan.(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh của Thông tư liên tịch 45/2015/TTLT-BNNPTNT-BKHCN Hướng dẫn ghi nhãn đối với thực phẩm biến đổi gen bao gói sẵn ban hành ngày 23/11/2015; Điều 19.8.LQ.1. Phạm vi điều chỉnh; Điều 19.1.LQ.1. Phạm vi điều chỉnh; Điều 45.1.LQ.44. Ghi nhãn thực phẩm; Điều 21.2.NĐ.2.27. Điều kiện cấp Giấy xác nhận sinh vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm; Điều 21.2.NĐ.2.29. Thu hồi Giấy xác nhận sinh vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm; Điều 21.2.NĐ.2.30. Nội dung Giấy xác nhận sinh vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm; Điều 21.2.NĐ.2.43. Ghi nhãn đối với hàng hoá chứa sinh vật biến đổi gen, sản phẩm của sinh vật biến đổi gen; Điều 45.1.NĐ.6.9. Bảo đảm an toàn đối với thực phẩm có thành phần từ sinh vật biến đổi gen và sản phẩm của sinh vật biến đổi gen; Điều 45.1.NĐ.6.10. Ghi nhãn đối với hàng hóa chứa sinh vật biến đổi gen, sản phẩm của sinh vật biến đổi gen sử dụng làm thực phẩm; Điều 45.1.NĐ.6.11. Cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; Điều 45.1.NĐ.6.12. Cơ sở không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; Điều 45.1.NĐ.6.24. Nội dung ghi nhãn bắt buộc; Điều 45.1.NĐ.6.25. Miễn một số nội dung ghi nhãn bắt buộc; Điều 21.2.TT.5.1. Phạm vi điều chỉnh)
 
-**Chỉ mục:** 78
+Chương VI
 
-**Mã phân cấp:** 2400400000000000500007800000000000000000
-
-**ID:** dk_00037516
-
----
-
-
-### Điều 24.4.LQ.79. Phát triển chợ đầu mối sản phẩm cây trồng
-
-Điều 24.4.LQ.79. Phát triển chợ đầu mối sản phẩm cây trồng
-
-**Chỉ mục:** 79
-
-**Mã phân cấp:** 2400400000000000500007900000000000000000
-
-**ID:** dk_00037517
-
----
-
-
-### Điều 24.4.LQ.80. Quyền và nghĩa vụ của tổ chức, cá nhân thu hoạch, sơ chế, bảo quản, chế biến và thương mại sản phẩm cây trồng
-
-Điều 24.4.LQ.80. Quyền và nghĩa vụ của tổ chức, cá nhân thu hoạch, sơ chế, bảo quản, chế biến và thương mại sản phẩm cây trồng
-
-**Chỉ mục:** 80
-
-**Mã phân cấp:** 2400400000000000500008000000000000000000
-
-**ID:** dk_00037518
-
----
-
-
-### Điều 24.4.LQ.81. Quản lý chất lượng sản phẩm cây trồng
-
-Điều 24.4.LQ.81. Quản lý chất lượng sản phẩm cây trồng
-
-**Chỉ mục:** 81
-
-**Mã phân cấp:** 2400400000000000500008100000000000000000
-
-**ID:** dk_00037519
-
----
-
-
-### Điều 24.4.LQ.82. Trách nhiệm của Chính phủ, Bộ, cơ quan ngang Bộ
+QUẢN LÝ NHÀ NƯỚC VỀ HOẠT ĐỘNG TRỒNG TRỌT
 
 Điều 24.4.LQ.82. Trách nhiệm của Chính phủ, Bộ, cơ quan ngang Bộ
 
-**Chỉ mục:** 82
+(Điều 82 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 2400400000000000600008200000000000000000
+ 1. Chính phủ thống nhất quản lý nhà nước về hoạt động trồng trọt trong phạm vi cả nước.
 
-**ID:** dk_00037521
+ 2. Bộ Nông nghiệp và Phát triển nông thôn là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về hoạt động trồng trọt trong phạm vi cả nước và có trách nhiệm sau đây:
 
----
+ a) Xây dựng chiến lược, đề án, kế hoạch; chỉ đạo hướng dẫn thực hiện hoạt động trồng trọt;
 
+ b) Ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành và tổ chức thực hiện chính sách, văn bản quy phạm pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật, quy trình sản xuất trong hoạt động trồng trọt;
 
-### Điều 24.4.TT.39.10. Trách nhiệm của Cục Trồng trọt
+ c) Tổ chức thực hiện việc cấp, cấp lại, gia hạn, đình chỉ, phục hồi, thu hồi, hủy bỏ quyết định, giấy phép, giấy chứng nhận trong hoạt động trồng trọt theo thẩm quyền và đăng tải trên Cổng thông tin điện tử của Bộ;
 
-*Nội dung chưa có sẵn*
+ d) Xây dựng hệ thống cơ sở dữ liệu, thông tin; thực hiện thống kê, báo cáo về hoạt động trồng trọt;
 
-**Chỉ mục:** 10
+ đ) Tổ chức nghiên cứu, ứng dụng khoa học và công nghệ; điều tra cơ bản, thu thập, quản lý các thông tin, tư liệu và hợp tác quốc tế trong hoạt động trồng trọt;
 
-**Mã phân cấp:** 240040000000000060000820000000000000000000802714400260001000
+ e) Đào tạo, bồi dưỡng kiến thức chuyên môn, nghiệp vụ; tuyên truyền, phổ biến, giáo dục pháp luật về hoạt động trồng trọt;
 
-**ID:** dk_00037522
+ g) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật trong hoạt động trồng trọt.
 
----
+ 3. Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Nông nghiệp và Phát triển nông thôn thực hiện nhiệm vụ quản lý nhà nước về hoạt động trồng trọt.Điều 24.4.TT.39.10. Trách nhiệm của Cục Trồng trọt
 
+(Điều 10 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
 
-### Điều 24.4.LQ.83. Trách nhiệm của Ủy ban nhân dân các cấp
+1. Tổ chức thực hiện Thông tư này trong phạm vi cả nước. Quản lý hoạt động về lưu mẫu giống cây trồng; kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng; kiểm tra nhà nước chất lượng giống cây trồng nhập khẩu.
+
+2. Đăng tải trên cổng thông tin điện tử của Cục Trồng trọt thông tin mẫu lưu giống quy định tại khoản 2 Điều 3, khoản 2 Điều 5; danh sách người được cấp Giấy chứng nhận theo quy định tại khoản 4 Điều 6 Thông tư này.
+
+3. Ban hành tài liệu khung về tập huấn nghiệp vụ kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng.
+
+4. Tổ chức thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo liên quan đến lưu mẫu giống cây trồng, lấy mẫu vật liệu nhân giống cây trồng, kiểm định ruộng giống, kiểm tra nhà nước về chất lượng giống cây trồng nhập khẩu theo quy định của pháp luật.
 
 Điều 24.4.LQ.83. Trách nhiệm của Ủy ban nhân dân các cấp
 
-**Chỉ mục:** 83
+(Điều 83 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 2400400000000000600008300000000000000000
+ 1. Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:
 
-**ID:** dk_00037523
+ a) Ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành văn bản hướng dẫn tổ chức thi hành pháp luật về hoạt động trồng trọt trên địa bàn;
 
----
+ b) Ban hành kế hoạch chuyển đổi cơ cấu cây trồng phù hợp với địa phương;
 
+ c) Chỉ đạo, tổ chức quản lý hoạt động trồng trọt trên địa bàn; hướng dẫn, ban hành quy trình sản xuất phù hợp với điều kiện của địa phương; tổ chức sản xuất trồng trọt;
 
-### Điều 24.4.TT.39.11. Trách nhiệm Sở Nông nghiệp và Phát triển nông thôn
+ d) Tổ chức tuyên truyền, phổ biến, giáo dục pháp luật, tập huấn kiến thức về hoạt động trồng trọt; xây dựng cơ sở dữ liệu về hoạt động trồng trọt trên địa bàn và cập nhật hệ thống cơ sở dữ liệu quốc gia về trồng trọt;
+
+ đ) Tổ chức thực hiện việc cấp, cấp lại, gia hạn, đình chỉ, phục hồi, thu hồi, hủy bỏ quyết định, giấy phép, giấy chứng nhận trong hoạt động trồng trọt theo thẩm quyền và đăng tải trên Cổng thông tin điện tử của Ủy ban nhân dân cấp tỉnh;
+
+ e) Chỉ đạo xây dựng kế hoạch, tổ chức thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về hoạt động trồng trọt theo thẩm quyền.
+
+ 2. Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:
+
+ a) Thực hiện nội dung, biện pháp quản lý trong hoạt động trồng trọt trên địa bàn theo quy định của pháp luật;
+
+ b) Thực hiện nhiệm vụ quản lý nhà nước về hoạt động trồng trọt theo phân cấp hoặc ủy quyền;
+
+ c) Tổ chức, thực hiện tuyên truyền, phổ biến, giáo dục pháp luật về hoạt động trồng trọt trên địa bàn.
+
+ Điều 24.4.TT.39.11. Trách nhiệm Sở Nông nghiệp và Phát triển nông thôn
+
+(Điều 11 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
+
+ 1. Tổ chức thực hiện Thông tư này trên địa bàn. Thực hiện thanh tra, kiểm tra, giám sát việc tự lưu mẫu của tổ chức, cá nhân; phối hợp xử lý giống cây trồng nhập khẩu không đáp ứng yêu cầu chất lượng trên địa bàn.
+
+ 2. Chủ trì, phối hợp với tổ chức lưu mẫu hoàn thiện bản mô tả giống theo TCVN về khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định đối với giống cây trồng công nhận lưu hành đặc cách.Chương VII
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 24.4.LQ.84. Hiệu lực thi hành
+
+(Điều 84 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+ 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2020.
+
+ 2. Pháp lệnh Giống cây trồng số 15/2004/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.Điều 24.4.NĐ.1.19. Hiệu lực thi hành
+
+(Điều 19 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
+
+Nghị định này có hiệu lực thi hành từ ngày 15 tháng 10 năm 2018.
+
+Điều 24.4.NĐ.1.20. Tổ chức thực hiện
+
+(Điều 20 Nghị định số 109/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/10/2018)
+
+1. Chậm nhất 6 tháng sau khi Nghị định này có hiệu lực, tổ chức chứng nhận được thừa nhận đang hoạt động tại Việt Nam phải gửi qua mạng điện tử (sau đó gửi hồ sơ bản chính hoặc bản sao chứng thực) văn bản thông báo cho cơ quan chuyên ngành được Bộ Nông nghiệp và Phát triển nông thôn phân công: tên, địa chỉ, điện thoại, fax, email, web; tên, mã số tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài được thừa nhận chứng nhận tại Việt Nam; kết quả hoạt động chứng nhận đến ngày báo cáo.
+
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
+
+Điều 24.4.NĐ.2.15. Hiệu lực thi hành
+
+(Điều 15 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
+
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2020.
+
+2. Nghị định này bãi bỏ các quy định tại các văn bản sau đây:
+
+a) Điều 4 của Nghị định số 35/2015/NĐ-CP ngày 13 tháng 4 năm 2015 của Chính phủ về quản lý, sử dụng đất trồng lúa.
+
+b) Khoản 1, khoản 2 Điều 1 Nghị định số 62/2019/NĐ-CP ngày 11 tháng 7 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 35/2015/NĐ-CP ngày 13 tháng 4 năm 2015 của Chính phủ về quản lý, sử dụng đất trồng lúa.
+
+c) Quyết định số 95/2007/QĐ-BNN ngày 27 tháng 11 năm 2007 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về việc ban hành Quy định về công nhận giống cây trồng nông nghiệp mới.
+
+d) Thông tư số 18/2012/TT-BNNPTNT ngày 26 tháng 4 năm 2012 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về quản lý sản xuất, kinh doanh giống cây công nghiệp và cây ăn quả lâu năm.
+
+Điều 24.4.NĐ.2.17. Tổ chức thực hiện
+
+(Điều 17 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
+
+1. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn chịu trách nhiệm tổ chức thi hành Nghị định này.
+
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này.
+
+Điều 24.4.QĐ.1.4.
+
+(Điều 4 Quyết định số 74/2004/QĐ-BNN, có hiệu lực thi hành kể từ ngày 19/01/2005)
+
+Quyết định này có hiệu lực sau 15 ngày, kể từ ngày đăng Công báo.
+
+Điều 24.4.QĐ.1.5.
+
+(Điều 5 Quyết định số 74/2004/QĐ-BNN, có hiệu lực thi hành kể từ ngày 19/01/2005)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Nông nghiệp, Giám đốc các Sở Nông nghiệp và Phát triển nông thôn và Thủ trưởng các cơ quan có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Điều 24.4.QĐ.1.6.
+
+(Điều 3 Quyết định số 40/2006/QĐ-BNN Điều chỉnh, bổ sung Quyết định số 74/2004/QĐ-BNN ngày 16/12/2004 về việc Ban hành Danh mục giống cây trồng được phép sản xuất, kinh doanh ngày 22/05/2006 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 14/06/2006 )
+
+Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.
+
+Điều 24.4.QĐ.1.7.
+
+(Điều 4 Quyết định số 40/2006/QĐ-BNN, có hiệu lực thi hành kể từ ngày 14/06/2006)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Điều 24.4.QĐ.2.2.
+
+(Điều 2 Quyết định số 103/2006/QĐ-BNN, có hiệu lực thi hành kể từ ngày 13/12/2006)
+
+Quyết định này có hiệu lực sau 15 ngày, kể từ ngày đăng Công báo.
+
+Điều 24.4.QĐ.2.3.
+
+(Điều 3 Quyết định số 103/2006/QĐ-BNN, có hiệu lực thi hành kể từ ngày 13/12/2006)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học công nghệ, Giám đốc Sở Nông nghiệp và phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Điều 24.4.QĐ.3.2.
+
+(Điều 2 Quyết định số 47/2007/QĐ-BNN, có hiệu lực thi hành kể từ ngày 08/07/2007)
+
+Quyết định này có hiệu lực sau 15 (mười lăm) ngày kể từ ngày đăng công báo.
+
+Điều 24.4.QĐ.3.3.
+
+(Điều 3 Quyết định số 47/2007/QĐ-BNN, có hiệu lực thi hành kể từ ngày 08/07/2007)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học công nghệ, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Điều 24.4.QĐ.4.2.
+
+(Điều 2 Quyết định số 50/2008/QĐ-BNN, có hiệu lực thi hành kể từ ngày 24/04/2008)
+
+Quyết định này có hiệu lực sau mười lăm ngày kể từ ngày đăng Công báo.
+
+Điều 24.4.QĐ.4.3.
+
+(Điều 3 Quyết định số 50/2008/QĐ-BNN, có hiệu lực thi hành kể từ ngày 24/04/2008)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Điều 24.4.QĐ.5.2.
+
+(Điều 2 Quyết định số 104/2008/QĐ-BNN, có hiệu lực thi hành kể từ ngày 16/11/2008)
+
+Quyết định này có hiệu lực sau mười lăm ngày kể từ ngày đăng công báo.
+
+Điều 24.4.QĐ.5.3.
+
+(Điều 3 Quyết định số 104/2008/QĐ-BNN, có hiệu lực thi hành kể từ ngày 16/11/2008)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Điều 24.4.QĐ.6.2.
+
+(Điều 2 Quyết định số 124/2008/QĐ-BNN, có hiệu lực thi hành kể từ ngày 29/01/2009)
+
+Quyết định này có hiệu lực sau mười lăm ngày kể từ ngày đăng công báo.
+
+Điều 24.4.QĐ.6.3.
+
+(Điều 3 Quyết định số 124/2008/QĐ-BNN, có hiệu lực thi hành kể từ ngày 29/01/2009)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Điều 24.4.TT.1.2.
+
+(Điều 2 Thông tư số 21/2009/TT-BNN, có hiệu lực thi hành kể từ ngày 08/06/2009)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.1.3.
+
+(Điều 3 Thông tư số 21/2009/TT-BNN, có hiệu lực thi hành kể từ ngày 08/06/2009)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.2.2.
+
+(Điều 2 Thông tư số 40/2009/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 23/08/2009)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.2.3.
+
+(Điều 3 Thông tư số 40/2009/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 23/08/2009)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.3.2.
+
+(Điều 2 Thông tư số 61/2009/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 09/11/2009)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.3.3.
+
+(Điều 3 Thông tư số 61/2009/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 09/11/2009)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.4.2.
+
+(Điều 2 Thông tư số 84/2009/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 12/02/2010)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.4.3.
+
+(Điều 3 Thông tư số 84/2009/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 12/02/2010)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.5.2.
+
+(Điều 2 Thông tư số 11/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 24/04/2010)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.5.3.
+
+(Điều 3 Thông tư số 11/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 24/04/2010)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.6.2. 
+
+(Điều 2 Thông tư số 22/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 21/05/2010)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.6.3. 
+
+(Điều 3 Thông tư số 22/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 21/05/2010)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.7.2. 
+
+(Điều 2 Thông tư số 30/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 25/06/2010)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.7.3. 
+
+(Điều 3 Thông tư số 30/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 25/06/2010)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.8.2. 
+
+(Điều 2 Thông tư số 34/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 07/08/2010)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.8.3. 
+
+(Điều 3 Thông tư số 34/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 07/08/2010)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.9.4. 
+
+(Điều 4 Thông tư số 49/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 08/10/2010)
+
+Thông tư này có hiệu lực thi hành sau 45 ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.9.5. 
+
+(Điều 5 Thông tư số 49/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 08/10/2010)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các đơn vị, tổ chức, cá nhân có liên quan đến sản xuất, kinh doanh và sử dụng giống cây trồng, phân bón ở Việt Nam chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.10.2. 
+
+(Điều 2 Thông tư số 55/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 12/11/2010)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.10.3. 
+
+(Điều 3 Thông tư số 55/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 12/11/2010)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.11.2. 
+
+(Điều 2 Thông tư số 65/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 20/12/2010)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.11.3. 
+
+(Điều 3 Thông tư số 65/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 20/12/2010)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Cục trưởng Cục Thú y, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.12.2. 
+
+(Điều 2 Thông tư số 70/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 22/01/2011)
+
+Thông tư này có hiệu lực thi hành sau 45 ngày kể từ ngày ký ban hành.
+
+Điều 24.4.TT.12.3. 
+
+(Điều 3 Thông tư số 70/2010/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 22/01/2011)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.13.2. 
+
+(Điều 2 Thông tư số 30/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 04/06/2011)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.13.3. 
+
+(Điều 3 Thông tư số 30/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 04/06/2011)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.14.2. 
+
+(Điều 2 Thông tư số 41/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 17/07/2011)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.14.3. 
+
+(Điều 3 Thông tư số 41/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 17/07/2011)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.15.2. 
+
+(Điều 2 Thông tư số 45/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 24/12/2011)
+
+Thông tư này có hiệu lực sau 6 tháng, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.15.3. 
+
+(Điều 3 Thông tư số 45/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 24/12/2011)
+
+Cục trưởng Cục Trồng trọt, Thủ trưởng các cơ quan, tổ chức và cá nhân liên quan có trách nhiệm tổ chức thực hiện.
+
+Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức và cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để nghiên cứu, sửa đổi, bổ sung.
+
+Điều 24.4.TT.16.2. 
+
+(Điều 2 Thông tư số 48/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 05/01/2012)
+
+Thông tư này có hiệu lực sau 6 tháng, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.16.3. 
+
+(Điều 3 Thông tư số 48/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 05/01/2012)
+
+Cục trưởng Cục Trồng trọt, Thủ trưởng các cơ quan, tổ chức và cá nhân liên quan có trách nhiệm tổ chức thực hiện.
+
+Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức và cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để nghiên cứu, sửa đổi, bổ sung.
+
+Điều 24.4.TT.17.2. 
+
+(Điều 2 Thông tư số 51/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/09/2011)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành. 
+
+Điều 24.4.TT.17.3. 
+
+(Điều 3 Thông tư số 51/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/09/2011)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.18.2.
+
+(Điều 2 Thông tư số 64/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/11/2011)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.18.3.
+
+(Điều 3 Thông tư số 64/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/11/2011)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.19.2. 
+
+(Điều 2 Thông tư số 67/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 17/04/2012)
+
+Thông tư này có hiệu lực sau 6 tháng, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.19.3. 
+
+(Điều 3 Thông tư số 67/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 17/04/2012)
+
+Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Cục trưởng Cục Trồng trọt, Thủ trưởng các cơ quan, tổ chức và cá nhân liên quan có trách nhiệm tổ chức thực hiện.
+
+Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức và cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để Bộ nghiên cứu, sửa đổi, bổ sung.
+
+Điều 24.4.TT.20.2. 
+
+(Điều 2 Thông tư số 82/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 22/01/2012)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.20.3. 
+
+(Điều 3 Thông tư số 82/2011/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 22/01/2012)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.21.2.
+
+(Điều 2 Thông tư số 09/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/03/2012)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.21.3.
+
+(Điều 3 Thông tư số 09/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/03/2012)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.22.2. 
+
+(Điều 2 Thông tư số 12/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 15/04/2012)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.22.3. 
+
+(Điều 3 Thông tư số 12/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 15/04/2012)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.23.2. 
+
+(Điều 2 Thông tư số 17/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 02/06/2012)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.23.3. 
+
+(Điều 3 Thông tư số 17/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 02/06/2012)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.24.2. 
+
+(Điều 2 Thông tư số 21/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 20/07/2012)
+
+Thông tư này có hiệu lực thi hành sau bốn mươi lăm ngày, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.24.3. 
+
+(Điều 3 Thông tư số 21/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 20/07/2012)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.25.2. 
+
+(Điều 2 Thông tư số 24/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 19/12/2012)
+
+Thông tư này có hiệu lực sau 6 tháng, kể từ ngày ký ban hành.
+
+Điều 24.4.TT.25.3. 
+
+(Điều 3 Thông tư số 24/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 19/12/2012)
+
+Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Cục trưởng Cục Trồng trọt, Thủ trưởng các cơ quan, tổ chức và cá nhân liên quan có trách nhiệm tổ chức thực hiện.
+
+Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức và cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để Bộ nghiên cứu, sửa đổi, bổ sung.
+
+Điều 24.4.TT.26.2. 
+
+(Điều 2 Thông tư số 44/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 26/10/2012)
+
+Thông tư này có hiệu lực thi hành kể từ ngày 26 tháng 10 năm 2012.
+
+Điều 24.4.TT.26.3. 
+
+(Điều 3 Thông tư số 44/2012/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 26/10/2012)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.27.2. 
+
+(Điều 2 Thông tư số 06/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 08/03/2013)
+
+Thông tư này có hiệu lực thi hành kể từ ngày 08 tháng 3 năm 2013.
+
+Điều 24.4.TT.27.3. 
+
+(Điều 3 Thông tư số 06/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 08/03/2013)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Thủ trưởng các đơn vị thuộc Bộ, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc trung ương, tổ chức, các nhân chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.28.3. Hiệu lực thi hành
+
+(Điều 3 Thông tư số 21/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/06/2013)
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 6 năm 2013.
+
+2. Thông tư này thay thế các Thông tư sau:
+
+a) Thông tư số 10/2012/TT-BNNPTNT ngày 22/2/2012 của Bộ Nông nghiệp và Phát triển nông thôn về việc ban hành Danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng, cấm sử dụng ở Việt Nam;
+
+b) Thông tư số 19/2012/TT-BNNPTNT ngày 2/5/2012 của Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung một số điều của Thông tư số 10/2012/TT-BNNPTNT ngày 22 tháng 2 năm 2012 của Bộ Nông nghiệp và Phát triển nông thôn ban hành Danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng, cấm sử dụng ở Việt Nam;
+
+c) Thông tư số 22/2012/TT-BNNPTNT ngày 5/6/2012 của Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung một số điều của Thông tư số 10/2012/TT-BNNPTNT ngày 22 tháng 2 năm 2012 của Bộ Nông nghiệp và Phát triển nông thôn ban hành Danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng, cấm sử dụng ở Việt Nam;
+
+d) Thông tư số 54/2012/TT-BNNPTNT ngày 30/10/2012 của Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung một số nội dung của Thông tư số 10/2012/TT-BNNPTNT ngày 22 tháng 2 năm 2012 và Thông tư số 22/2012/TT-BNNPTNT ngày 5 tháng 6 năm 2012 của Bộ Nông nghiệp và Phát triển nông thôn về sửa đổi, bổ sung một số điều của Thông tư số 10/2012/TT-BNNPTNT ngày 22 tháng 2 năm 2012.
+
+Điều 24.4.TT.28.4. Trách nhiệm thi hành
+
+(Điều 4 Thông tư số 21/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/06/2013)
+
+1. Cục Bảo vệ thực vật chịu trách nhiệm hướng dẫn sử dụng các loại thuốc bảo vệ thực vật hạn chế sử dụng ở Việt Nam.
+
+2. Chánh Văn phòng Bộ, Vụ trưởng Vụ Pháp chế, Cục trưởng Cục Bảo vệ thực vật, Cục trưởng Cục Trồng trọt, Thủ trưởng các đơn vị thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.29.2. 
+
+(Điều 2 Thông tư số 33/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 21/12/2013)
+
+Thông tư này có hiệu lực kể từ ngày 21 tháng 12 năm 2013.
+
+Điều 24.4.TT.29.3. 
+
+(Điều 3 Thông tư số 33/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 21/12/2013)
+
+Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Cục trưởng Cục Trồng trọt, Thủ trưởng các cơ quan, tổ chức và cá nhân liên quan có trách nhiệm thi hành Thông tư này.
+
+Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức và cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để Bộ nghiên cứu, sửa đổi, bổ sung.
+
+Điều 24.4.TT.30.2. 
+
+(Điều 2 Thông tư số 05/2014/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/08/2014)
+
+Thông tư này có hiệu lực kể từ ngày 10 tháng 8 năm 2014.
+
+Điều 24.4.TT.30.3. 
+
+(Điều 3 Thông tư số 05/2014/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/08/2014)
+
+Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Cục trưởng Cục Trồng trọt, Thủ trưởng các cơ quan, tổ chức và cá nhân liên quan có trách nhiệm thi hành Thông tư này.
+
+Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức và cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để Bộ nghiên cứu, sửa đổi, bổ sung.
+
+Điều 24.4.TT.31.2. 
+
+(Điều 2 Thông tư số 47/2014/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 11/06/2015)
+
+Thông tư này có hiệu lực kể từ ngày 11 tháng 6 năm 2015.
+
+Điều 24.4.TT.31.3. 
+
+(Điều 3 Thông tư số 47/2014/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 11/06/2015)
+
+Vụ trưởng Vụ Khoa học Công nghệ và Môi trường, Cục trưởng Cục Trồng trọt, Thủ trưởng các cơ quan, tổ chức và cá nhân liên quan có trách nhiệm thi hành Thông tư này.
+
+Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức và cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để nghiên cứu, sửa đổi, bổ sung.
+
+Điều 24.4.TT.32.2. 
+
+(Điều 2 Thông tư số 01/2015/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 09/03/2015)
+
+Thông tư này có hiệu lực thi hành kể từ ngày 09 tháng 03 năm 2015.
+
+Điều 24.4.TT.32.3. 
+
+(Điều 3 Thông tư số 01/2015/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 09/03/2015)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Thủ trưởng các đơn vị thuộc Bộ, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc trung ương, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.33.2. 
+
+(Điều 2 Thông tư số 28/2016/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/09/2016)
+
+Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 9 năm 2016.
+
+Điều 24.4.TT.33.3. 
+
+(Điều 3 Thông tư số 28/2016/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/09/2016)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Thủ trưởng các đơn vị thuộc Bộ, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc trung ương, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.34.2. 
+
+(Điều 2 Thông tư số 01/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 05/03/2019)
+
+Thông tư này có hiệu lực thi hành từ ngày 05 tháng 03 năm 2019.
+
+Điều 24.4.TT.34.3. 
+
+(Điều 3 Thông tư số 01/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 05/03/2019)
+
+Chánh Văn phòng Bộ, Cục trưởng Cục Trồng trọt, Thủ trưởng các đơn vị thuộc Bộ, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc trung ương, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 24.4.TT.35.11. Tổ chức thực hiện
+
+(Điều 11 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
+
+1. Cục Chế biến và Phát triển thị trường Nông sản có trách nhiệm:
+
+a) Tham mưu, tổng hợp về hợp tác quốc tế, phát triển nông nghiệp hữu cơ.
+
+b) Chủ trì, phối hợp với các đơn vị xử lý các vấn đề vướng mắc nảy sinh trong quá trình thực hiện Thông tư.
+
+2. Tổng cục, Cục chuyên ngành thuộc Bộ Nông nghiệp và Phát triển nông thôn có trách nhiệm:
+
+a) Bồi dưỡng, tập huấn chuyên môn nghiệp vụ về công tác kiểm tra, đánh giá, giám sát tổ chức chứng nhận và chất lượng sản phẩm nông nghiệp hữu cơ;
+
+b) Thực hiện việc tiếp nhận hồ sơ để cấp, cấp lại, cấp bổ sung, sửa đổi, thu hồi Giấy chứng nhận đăng ký hoạt động chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ theo lĩnh vực được phân công;
+
+c) Thanh tra, kiểm tra hoạt động chứng nhận sản phẩm nông nghiệp hữu cơ của Tổ chức chứng nhận đảm bảo sự minh bạch theo quy định của pháp luật;
+
+d) Thanh tra, kiểm tra cơ sở sản xuất, kinh doanh sản phẩm nông nghiệp hữu cơ và chất lượng sản phẩm nông nghiệp hữu cơ.
+
+3. Vụ Khoa học, Công nghệ và Môi trường có trách nhiệm:
+
+Cấp số đăng ký cho tổ chức chứng nhận theo đề nghị của Tổng cục, Cục quản lý chuyên ngành.
+
+4. Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm:
+
+a) Phối hợp với các cơ quan chuyên ngành của Bộ Nông nghiệp và Phát triển nông thôn tiến hành kiểm tra hoạt động chứng nhận của các Tổ chức chứng nhận hoạt động trên địa bàn.
+
+b) Chủ trì hoặc phối hợp với các cơ quan chuyên ngành của Bộ Nông nghiệp và Phát triển nông thôn kiểm tra các cơ sở sản xuất, kinh doanh sản phẩm nông nghiệp hữu cơ và chất lượng sản phẩm nông nghiệp hữu cơ trên địa bàn quản lý.
+
+Điều 24.4.TT.35.12. Điều khoản thi hành
+
+(Điều 12 Thông tư số 16/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 18/12/2019)
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 18 tháng 12 năm 2019. Trường hợp các văn bản quy phạm pháp luật, các tiêu chuẩn được dẫn chiếu để áp dụng tại Thông tư này sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì thực hiện theo quy định tại văn bản sửa đổi, bổ sung hoặc thay thế.
+
+2. Tổ chức chứng nhận đã được cấp Giấy chứng nhận đăng ký hoạt động chứng nhận sản phẩm nông nghiệp hữu cơ theo quy định của Nghị định số 107/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp phải đăng ký lại theo Nghị định số 109/2018/NĐ-CP sau khi Giấy chứng nhận đăng ký hoạt động hết hiệu lực.
+
+3. Trong quá trình tổ chức thực hiện Thông tư này, nếu có khó khăn, vướng mắc, tổ chức, cá nhân kịp thời thông tin về Bộ Nông nghiệp và Phát triển nông thôn để nghiên cứu sửa đổi, bổ sung.
+
+Điều 24.4.TT.36.2. 
+
+(Điều 2 Thông tư số 17/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+Thông tư này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2020; thay thế Quyết định số 58/2004/QĐ-BNN ngày 04 tháng 11 năm 2004 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về việc ban hành Danh mục giống cây trồng chính**.**
+
+Điều 24.4.TT.36.3. 
+
+(Điều 3 Thông tư số 17/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+Cục trưởng Cục Trồng trọt, Thủ trưởng các đơn vị liên quan thuộc Bộ, Giám đốc Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Trong quá trình thực hiện Thông tư, nếu có khó khăn, vướng mắc đề nghị tổ chức, cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để xem xét, giải quyết.
+
+Điều 24.4.TT.37.21. Điều khoản thi hành
+
+(Điều 21 Thông tư số 18/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2020.
+
+2. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, kịp thời phản ánh về Cục Trồng trọt để tổng hợp, báo cáo Bộ Nông nghiệp và Phát triển nông thôn xem xét, sửa đổi, bổ sung.
+
+Điều 24.4.TT.38.10. Hiệu lực thi hành
+
+(Điều 10 Thông tư số 19/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2020.
+
+2. Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức, hộ gia đình, cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để xem xét sửa đổi, bổ sung.
+
+Điều 24.4.TT.39.14. Hiệu lực thi hành
+
+(Điều 14 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 02 năm 2020.
+
+2. Thông tư này bãi bỏ những quy định của các văn bản sau:
+
+a) Quy định về người kiểm định, người lấy mẫu giống cây trồng quy định tại khoản 4, khoản 8, khoản 11, khoản 16, khoản 17 Điều 5 Thông tư số 17/2011/TT-BNNPTNT ngày 06/4/2011 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung, bãi bỏ một số quy định về thủ tục hành chính lĩnh vực trồng trọt theo Nghị quyết số 57/NQ-CP ngày 15/12/2010 của Chính phủ.
+
+b) Quy định về “Giấy chứng nhận hợp quy lô giống nhập khẩu do tổ chức chứng nhận cấp hoặc kết quả giám định của tổ chức giám định được chỉ định là căn cứ để cơ quan hải quan thực hiện việc thông quan lô giống nhập khẩu” tại điểm a khoản 1 Điều 4 và điểm b khoản 2 Điều 7 Thông tư số 46/2015/TT-BNNPTNT ngày 15/12/2015 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về chứng nhận hợp quy, công bố hợp quy giống cây trồng.
+
+3. Trong quá trình thực hiện, nếu có vướng mắc, các tổ chức, cá nhân kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để nghiên cứu giải quyết.
+
+Điều 24.4.LQ.85. Quy định chuyển tiếp
+
+(Điều 85 Luật số 31/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+1. Quyết định công nhận giống cây trồng mới được cấp theo quy định của Pháp lệnh Giống cây trồng số 15/2004/PL-UBTVQH11 được tiếp tục sử dụng trong thời hạn 10 năm đối với giống cây trồng hằng năm, 20 năm đối với giống cây trồng lâu năm tính từ ngày được cấp quyết định và được gia hạn theo quy định của Luật này.
+
+Trường hợp thời gian còn lại của Quyết định công nhận giống cây trồng mới không đủ 03 năm hoặc quá thời hạn 10 năm đối với giống cây trồng hằng năm, quá 20 năm đối với giống cây trồng lâu năm tính đến ngày Luật này có hiệu lực thi hành thì được tiếp tục sử dụng trong thời hạn 03 năm kể từ ngày Luật này có hiệu lực thi hành.
+
+2. Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng được cấp theo quy định của Pháp lệnh Giống cây trồng số 15/2004/PL-UBTVQH11 được tiếp tục sử dụng theo quy định của Luật này và không phải gia hạn.
+
+3. Quyết định công nhận phân bón lưu hành tại Việt Nam, Giấy phép sản xuất phân bón, Giấy chứng nhận đủ điều kiện sản xuất phân bón đã được cấp trước ngày Luật này có hiệu lực thì tiếp tục được sử dụng cho đến khi hết thời hạn và được gia hạn, cấp lại theo quy định của Luật này.
+
+Giấy chứng nhận đủ điều kiện buôn bán phân bón đã được cấp trước ngày Luật này có hiệu lực thi hành có giá trị tương đương với Giấy chứng nhận đủ điều kiện buôn bán phân bón theo quy định của Luật này.
+
+4. Quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc gia trong hoạt động trồng trọt đã được ban hành trước ngày Luật này có hiệu lực thi hành thì tiếp tục được áp dụng cho đến khi bị bãi bỏ hoặc thay thế.
+
+5. Kết quả khảo nghiệm cơ bản về giống cây trồng được thực hiện trước ngày Luật này có hiệu lực thi hành có giá trị tương đương kết quả khảo nghiệm diện hẹp theo quy định của Luật này.
+
+6. Kết quả khảo nghiệm sản xuất về giống cây trồng được thực hiện trước ngày Luật này có hiệu lực thi hành có giá trị tương đương kết quả khảo nghiệm diện rộng theo quy định của Luật này.
+
+7. Kết quả khảo nghiệm phân bón thực hiện trước ngày Luật này có hiệu lực thi hành được tiếp tục sử dụng theo quy định của Luật này.
+
+(Điều này có nội dung liên quan đến Mục 8 DANH MỤC GIỐNG CÂY TRỒNG ĐƯỢC PHÉP SẢN XUẤT, KINH DOANH)
+
+Điều 24.4.NĐ.2.16. Quy định chuyển tiếp
+
+(Điều 16 Nghị định số 94/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2020)
+
+1. Nhãn giống cây trồng, bao bì gắn nhãn đúng quy định tại Pháp lệnh giống cây trồng năm 2004 đã được sản xuất, in ấn trước ngày Nghị định này có hiệu lực được tiếp tục sử dụng, nhưng không quá 02 năm kể từ ngày Nghị định này có hiệu lực thi hành.
+
+2. Các cơ sở khảo nghiệm đã được chỉ định trước ngày Nghị định này có hiệu lực thi hành được tiếp tục hoạt động đến hết ngày 31 tháng 12 năm 2020.
+
+3. Giống cây trồng đã có trong Danh mục giống cây trồng được phép sản xuất, kinh doanh do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành nhưng không có Quyết định công nhận giống cây trồng mới, được tiếp tục sản xuất kinh doanh đến hết ngày 31 tháng 12 năm 2022.
+
+4. Trường hợp giống cây trồng đăng ký bình tuyển, công nhận cây đầu dòng, vườn cây đầu dòng chưa có tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở thì Sở Nông nghiệp và Phát triển nông thôn xây dựng, ban hành tiêu chí bình tuyển để công nhận cây đầu dòng, vườn cây đầu dòng.
+
+5. Đối với giống cây trồng đã có Quyết định công nhận sản xuất thử trước ngày Nghị định này có hiệu lực thi hành, phải bổ sung kết quả khảo nghiệm có kiểm soát và kết quả khảo nghiệm tính khác biệt, tính đồng nhất và tính ổn định để công nhận lưu hành.
+
+6. Việc công nhận giống cây dược liệu được quy định tại Điều 4 Nghị định số 65/2017/NĐ-CP ngày 19 tháng 5 năm 2017 của Chính phủ về chính sách đặc thù về giống, vốn và công nghệ trong phát triển nuôi trồng, khai thác dược liệu thực hiện theo quy định của Luật Trồng trọt, Nghị định này kể từ ngày Nghị định này có hiệu lực thi hành.
+
+Điều 24.4.TT.39.13. Quy định chuyển tiếp
+
+(Điều 13 Thông tư số 26/2019/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 10/02/2020)
+
+Chứng chỉ đào tạo về kiểm định ruộng giống, lấy mẫu giống cây trồng đã được cấp trước ngày Thông tư này có hiệu lực thi hành có giá trị tương đương với Giấy chứng nhận tập huấn nghiệp vụ về kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng theo quy định của Thông tư này.
+
+## Danh sách điều khoản
+
+### 24004000000000001000
+
+Chương I NHỮNG QUY ĐỊNH CHUNG
+
+### 2400400000000000100000100000000000000000
+
+Điều 24.4.LQ.1. Phạm vi điều chỉnh
+
+### 2400400000000000100000140266590109000010
+
+Điều 24.4.NĐ.1.1. Phạm vi điều chỉnh
+
+### 2400400000000000100000140266590109000020
+
+Điều 24.4.NĐ.1.2. Đối tượng áp dụng
+
+### 2400400000000000100000140271300094000010
+
+Điều 24.4.NĐ.2.1. Phạm vi điều chỉnh
+
+### 2400400000000000100000180270880016000010
+
+Điều 24.4.TT.35.1. Phạm vi điều chỉnh
+
+### 2400400000000000100000180270880016000020
+
+Điều 24.4.TT.35.2. Đối tượng áp dụng
+
+### 2400400000000000100000180271020018000010
+
+Điều 24.4.TT.37.1. Phạm vi điều chỉnh
+
+### 2400400000000000100000180271020018000020
+
+Điều 24.4.TT.37.2. Đối tượng áp dụng
+
+### 2400400000000000100000180271020019000010
+
+Điều 24.4.TT.38.1. Phạm vi điều chỉnh
+
+### 2400400000000000100000180271020019000020
+
+Điều 24.4.TT.38.2. Đối tượng áp dụng
+
+### 2400400000000000100000180271440026000010
+
+Điều 24.4.TT.39.1. Phạm vi điều chỉnh
+
+### 2400400000000000100000180271440026000020
+
+Điều 24.4.TT.39.2. Đối tượng áp dụng
+
+### 2400400000000000100000200000000000000000
+
+Điều 24.4.LQ.2. Giải thích từ ngữ
+
+### 2400400000000000100000240266590109000030
+
+Điều 24.4.NĐ.1.3. Giải thích từ ngữ
+
+### 2400400000000000100000280271020019000030
+
+Điều 24.4.TT.38.3. Giải thích từ ngữ
+
+### 2400400000000000100000300000000000000000
+
+Điều 24.4.LQ.3. Nguyên tắc hoạt động trồng trọt
+
+### 2400400000000000100000400000000000000000
+
+Điều 24.4.LQ.4. Chính sách của Nhà nước về hoạt động trồng trọt
+
+### 2400400000000000100000500000000000000000
+
+Điều 24.4.LQ.5. Chiến lược phát triển trồng trọt
+
+### 2400400000000000100000600000000000000000
+
+Điều 24.4.LQ.6. Hoạt động khoa học và công nghệ trong trồng trọt
+
+### 2400400000000000100000700000000000000000
+
+Điều 24.4.LQ.7. Hợp tác quốc tế về trồng trọt
+
+### 2400400000000000100000800000000000000000
+
+Điều 24.4.LQ.8. Cơ sở dữ liệu quốc gia về trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180000300
+
+Điều 24.4.TT.37.3. Cơ sở dữ liệu về văn bản quy phạm pháp luật, văn bản chỉ đạo điều hành liên quan đến trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180000400
+
+Điều 24.4.TT.37.4. Cơ sở dữ liệu về giống cây trồng
+
+### 240040000000000010000080000000000000000000802710200180000500
+
+Điều 24.4.TT.37.5. Cơ sở dữ liệu về phân bón
+
+### 240040000000000010000080000000000000000000802710200180000600
+
+Điều 24.4.TT.37.6. Cơ sở dữ liệu về sản xuất trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180000700
+
+Điều 24.4.TT.37.7. Cơ sở dữ liệu về đất trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180000800
+
+Điều 24.4.TT.37.8. Cơ sở dữ liệu về chế biến và thị trường sản phẩm trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180000900
+
+Điều 24.4.TT.37.9. Nguyên tắc quản lý tài khoản cập nhật cơ sở dữ liệu quốc gia về trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180001000
+
+Điều 24.4.TT.37.10. Tần suất cập nhật cơ sở dữ liệu quốc gia về trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180001100
+
+Điều 24.4.TT.37.11. Khai thác cơ sở dữ liệu quốc gia về trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180001200
+
+Điều 24.4.TT.37.12. Nội dung quản lý cơ sở dữ liệu quốc gia về trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180001300
+
+Điều 24.4.TT.37.13. Bảo đảm an ninh, an toàn cho cơ sở dữ liệu quốc gia về trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180001400
+
+Điều 24.4.TT.37.14. Trách nhiệm của Cục Trồng trọt
+
+### 240040000000000010000080000000000000000000802710200180001500
+
+Điều 24.4.TT.37.15. Trách nhiệm của Cục Bảo vệ thực vật
+
+### 240040000000000010000080000000000000000000802710200180001600
+
+Điều 24.4.TT.37.16. Trách nhiệm của Cục Chế biến và Phát triển thị trường Nông sản
+
+### 240040000000000010000080000000000000000000802710200180001700
+
+Điều 24.4.TT.37.17. Trách nhiệm của Cục Quản lý chất lượng Nông Lâm sản và Thủy sản
+
+### 240040000000000010000080000000000000000000802710200180001800
+
+Điều 24.4.TT.37.18. Trách nhiệm của Trung tâm tin học và Thống kê
+
+### 240040000000000010000080000000000000000000802710200180001900
+
+Điều 24.4.TT.37.19. Trách nhiệm của Tổ chức chứng nhận
+
+### 240040000000000010000080000000000000000000802710200180002000
+
+Điều 24.4.TT.37.20. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn các tỉnh, thành phố trực thuộc Trung ương
+
+### 2400400000000000100000900000000000000000
+
+Điều 24.4.LQ.9. Các hành vi bị nghiêm cấm trong hoạt động trồng trọt
+
+### 24004000000000002000
+
+Chương II GIỐNG CÂY TRỒNG
+
+### 2400400000000000200000100000000000000000
+
+Mục 1 NGHIÊN CỨU, KHAI THÁC, SỬ DỤNG VÀ BẢO TỒN NGUỒN GEN GIỐNG CÂY TRỒNG
+
+### 240040000000000020000010000000000000000001000000000000000000
+
+Điều 24.4.LQ.10. Nghiên cứu chọn, tạo và chuyển giao công nghệ về nguồn gen giống cây trồng
+
+### 240040000000000020000010000000000000000001100000000000000000
+
+Điều 24.4.LQ.11. Khai thác, sử dụng nguồn gen giống cây trồng
+
+### 240040000000000020000010000000000000000001200000000000000000
+
+Điều 24.4.LQ.12. Bảo tồn nguồn gen giống cây trồng
+
+### 24004000000000002000001000000000000000000120000000000000000000402713000940000300
+
+Điều 24.4.NĐ.2.3. Bảo tồn nguồn gen giống cây trồng và Danh mục nguồn gen giống cây trồng cấm xuất khẩu
+
+### 2400400000000000200000200000000000000000
+
+Mục 2 CÔNG NHẬN LƯU HÀNH VÀ TỰ CÔNG BỐ LƯU HÀNH GIỐNG CÂY TRỒNG
+
+### 240040000000000020000020000000000000000001300000000000000000
+
+Điều 24.4.LQ.13. Yêu cầu chung về việc công nhận lưu hành và tự công bố lưu hành giống cây trồng
+
+### 24004000000000002000002000000000000000000130000000000000000000802710200170000100
+
+Điều 24.4.TT.36.1.
+
+### 240040000000000020000020000000000000000001400000000000000000
+
+Điều 24.4.LQ.14. Tên giống cây trồng
+
+### 240040000000000020000020000000000000000001500000000000000000
+
+Điều 24.4.LQ.15. Cấp, cấp lại, gia hạn, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận lưu hành giống cây trồng
+
+### 24004000000000002000002000000000000000000150000000000000000000402713000940000200
+
+Điều 24.4.NĐ.2.2. Quy định chung về thực hiện thủ tục hành chính trong Nghị định này
+
+### 24004000000000002000002000000000000000000150000000000000000000402713000940000400
+
+Điều 24.4.NĐ.2.4. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, gia hạn, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận lưu hành giống cây trồng
+
+### 240040000000000020000020000000000000000001600000000000000000
+
+Điều 24.4.LQ.16. Cấp Quyết định công nhận lưu hành đặc cách giống cây trồng
+
+### 24004000000000002000002000000000000000000160000000000000000000402713000940000500
+
+Điều 24.4.NĐ.2.5. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ quyết định công nhận lưu hành đặc cách giống cây trồng
+
+### 240040000000000020000020000000000000000001700000000000000000
+
+Điều 24.4.LQ.17. Tự công bố lưu hành giống cây trồng
+
+### 24004000000000002000002000000000000000000170000000000000000000402713000940000600
+
+Điều 24.4.NĐ.2.6. Hồ sơ, trình tự, thủ tục tự công bố lưu hành giống cây trồng
+
+### 2400400000000000200000300000000000000000
+
+Mục 3 KHẢO NGHIỆM GIỐNG CÂY TRỒNG
+
+### 240040000000000020000030000000000000000001800000000000000000
+
+Điều 24.4.LQ.18. Nội dung khảo nghiệm giống cây trồng
+
+### 240040000000000020000030000000000000000001900000000000000000
+
+Điều 24.4.LQ.19. Yêu cầu chung về khảo nghiệm giống cây trồng
+
+### 24004000000000002000003000000000000000000190000000000000000000802404700480000100
+
+Điều 24.4.TT.16.1.
+
+### 24004000000000002000003000000000000000000190000000000000000000802415100670000100
+
+Điều 24.4.TT.19.1.
+
+### 24004000000000002000003000000000000000000190000000000000000000802439700240000100
+
+Điều 24.4.TT.25.1.
+
+### 24004000000000002000003000000000000000000190000000000000000000802476400330000100
+
+Điều 24.4.TT.29.1.
+
+### 24004000000000002000003000000000000000000190000000000000000000802499800050000100
+
+Điều 24.4.TT.30.1.
+
+### 240040000000000020000030000000000000000002000000000000000000
+
+Điều 24.4.LQ.20. Lưu mẫu giống cây trồng
+
+### 24004000000000002000003000000000000000000200000000000000000000802714400260000300
+
+Điều 24.4.TT.39.3. Lưu mẫu giống cây trồng nhân giống bằng phương pháp hữu tính
+
+### 24004000000000002000003000000000000000000200000000000000000000802714400260000400
+
+Điều 24.4.TT.39.4. Lưu mẫu giống cây trồng nhân giống bằng phương pháp vô tính
+
+### 24004000000000002000003000000000000000000200000000000000000000802714400260000500
+
+Điều 24.4.TT.39.5. Chấm dứt lưu mẫu giống cây trồng
+
+### 240040000000000020000030000000000000000002100000000000000000
+
+Điều 24.4.LQ.21. Cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
+
+### 24004000000000002000003000000000000000000210000000000000000000402713000940000700
+
+Điều 24.4.NĐ.2.7. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, hủy bỏ Quyết định công nhận tổ chức khảo nghiệm giống cây trồng
+
+### 2400400000000000200000400000000000000000
+
+Mục 4 SẢN XUẤT VÀ BUÔN BÁN GIỐNG CÂY TRỒNG
+
+### 240040000000000020000040000000000000000002200000000000000000
+
+Điều 24.4.LQ.22. Điều kiện của tổ chức, cá nhân sản xuất, buôn bán giống cây trồng
+
+### 24004000000000002000004000000000000000000220000000000000000000402713000940000800
+
+Điều 24.4.NĐ.2.8. Quy định chi tiết điều kiện về sản xuất, buôn bán giống cây trồng
+
+### 240040000000000020000040000000000000000002300000000000000000
+
+Điều 24.4.LQ.23. Sản xuất giống cây trồng
+
+### 240040000000000020000040000000000000000002400000000000000000
+
+Điều 24.4.LQ.24. Cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
+
+### 24004000000000002000004000000000000000000240000000000000000000402713000940000900
+
+Điều 24.4.NĐ.2.9. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp, đình chỉ, phục hồi, hủy bỏ Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+
+### 2400400000000000200000500000000000000000
+
+Mục 5 QUẢN LÝ CHẤT LƯỢNG GIỐNG CÂY TRỒNG
+
+### 240040000000000020000050000000000000000002500000000000000000
+
+Điều 24.4.LQ.25. Yêu cầu chung về quản lý chất lượng giống cây trồng
+
+### 24004000000000002000005000000000000000000250000000000000000000802403600450000100
+
+Điều 24.4.TT.15.1.
+
+### 240040000000000020000050000000000000000002600000000000000000
+
+Điều 24.4.LQ.26. Kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng
+
+### 24004000000000002000005000000000000000000260000000000000000000802714400260000600
+
+Điều 24.4.TT.39.6. Tập huấn nghiệp vụ kiểm định ruộng giống, lấy mẫu vật liệu nhân giống cây trồng
+
+### 240040000000000020000050000000000000000002700000000000000000
+
+Điều 24.4.LQ.27. Ghi nhãn và quảng cáo giống cây trồng
+
+### 24004000000000002000005000000000000000000270000000000000000000402713000940001000
+
+Điều 24.4.NĐ.2.10. Ghi nhãn và quảng cáo giống cây trồng
+
+### 2400400000000000200000600000000000000000
+
+Mục 6 XUẤT KHẨU VÀ NHẬP KHẨU GIỐNG CÂY TRỒNG
+
+### 240040000000000020000060000000000000000002800000000000000000
+
+Điều 24.4.LQ.28. Xuất khẩu giống cây trồng
+
+### 24004000000000002000006000000000000000000280000000000000000000402713000940001100
+
+Điều 24.4.NĐ.2.11. Hồ sơ, trình tự, thủ tục cấp phép xuất khẩu giống cây trồng theo quy định tại khoản 2 Điều 28 Luật Trồng trọt
+
+### 240040000000000020000060000000000000000002900000000000000000
+
+Điều 24.4.LQ.29. Nhập khẩu giống cây trồng
+
+### 24004000000000002000006000000000000000000290000000000000000000402713000940001200
+
+Điều 24.4.NĐ.2.12. Hồ sơ, trình tự, thủ tục cấp phép nhập khẩu giống cây trồng theo quy định tại khoản 2 Điều 29 Luật Trồng trọt
+
+### 24004000000000002000006000000000000000000290000000000000000000802714400260000700
+
+Điều 24.4.TT.39.7. Đối tượng kiểm tra
+
+### 24004000000000002000006000000000000000000290000000000000000000802714400260000800
+
+Điều 24.4.TT.39.8. Quy định kiểm tra nhà nước về chất lượng giống cây trồng nhập khẩu
+
+### 24004000000000002000006000000000000000000290000000000000000000802714400260000900
+
+Điều 24.4.TT.39.9. Xử lý lô giống nhập khẩu không đạt chất lượng
+
+### 2400400000000000200000700000000000000000
+
+Mục 7 QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN HOẠT ĐỘNG VỀ GIỐNG CÂY TRỒNG
+
+### 240040000000000020000070000000000000000003000000000000000000
+
+Điều 24.4.LQ.30. Quyền và nghĩa vụ của tổ chức, cá nhân nghiên cứu, chọn, tạo giống cây trồng
+
+### 240040000000000020000070000000000000000003100000000000000000
+
+Điều 24.4.LQ.31. Quyền và nghĩa vụ của tổ chức, cá nhân đứng tên đăng ký cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành giống cây trồng
+
+### 240040000000000020000070000000000000000003200000000000000000
+
+Điều 24.4.LQ.32. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng giống cây trồng
+
+### 240040000000000020000070000000000000000003300000000000000000
+
+Điều 24.4.LQ.33. Quyền và nghĩa vụ của tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
+
+### 240040000000000020000070000000000000000003400000000000000000
+
+Điều 24.4.LQ.34. Quyền và nghĩa vụ của tổ chức khảo nghiệm giống cây trồng
+
+### 24004000000000002000007000000000000000000340000000000000000000802714400260001200
+
+Điều 24.4.TT.39.12. Trách nhiệm của tổ chức, cá nhân có liên quan
+
+### 240040000000000020000070000000000000000003500000000000000000
+
+Điều 24.4.LQ.35. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất, buôn bán giống cây trồng
+
+### 2400400000000000200000800000000000000000
+
+Mục 8 DANH MỤC GIỐNG CÂY TRỒNG ĐƯỢC PHÉP SẢN XUẤT, KINH DOANH
+
+### 240040000000000020000080000000000000000000802165500740000100
+
+Điều 24.4.QĐ.1.1.
+
+### 240040000000000020000080000000000000000000802165500740000300
+
+Điều 24.4.QĐ.1.3.
+
+### 240040000000000020000080000000000000000000802235301030000100
+
+Điều 24.4.QĐ.2.1.
+
+### 240040000000000020000080000000000000000000802254900470000100
+
+Điều 24.4.QĐ.3.1.
+
+### 240040000000000020000080000000000000000000802285800500000100
+
+Điều 24.4.QĐ.4.1.
+
+### 240040000000000020000080000000000000000000802306001040000100
+
+Điều 24.4.QĐ.5.1.
+
+### 240040000000000020000080000000000000000000802313001240000100
+
+Điều 24.4.QĐ.6.1.
+
+### 240040000000000020000080000000000000000000802324500210000100
+
+Điều 24.4.TT.1.1.
+
+### 240040000000000020000080000000000000000000802332100400000100
+
+Điều 24.4.TT.2.1.
+
+### 240040000000000020000080000000000000000000802339900610000100
+
+Điều 24.4.TT.3.1.
+
+### 240040000000000020000080000000000000000000802349400840000100
+
+Điều 24.4.TT.4.1.
+
+### 240040000000000020000080000000000000000000802356500110000100
+
+Điều 24.4.TT.5.1.
+
+### 240040000000000020000080000000000000000000802359200220000100
+
+Điều 24.4.TT.6.1.
+
+### 240040000000000020000080000000000000000000802362700300000100
+
+Điều 24.4.TT.7.1.
+
+### 240040000000000020000080000000000000000000802367000340000100
+
+Điều 24.4.TT.8.1.
+
+### 240040000000000020000080000000000000000000802373200490000100
+
+Điều 24.4.TT.9.1.
+
+### 240040000000000020000080000000000000000000802376700550000100
+
+Điều 24.4.TT.10.1.
+
+### 240040000000000020000080000000000000000000802380500650000100
+
+Điều 24.4.TT.11.1.
+
+### 240040000000000020000080000000000000000000802383800700000100
+
+Điều 24.4.TT.12.1.
+
+### 240040000000000020000080000000000000000000802397100300000100
+
+Điều 24.4.TT.13.1.
+
+### 240040000000000020000080000000000000000000802401400410000100
+
+Điều 24.4.TT.14.1.
+
+### 240040000000000020000080000000000000000000802406900510000100
+
+Điều 24.4.TT.17.1.
+
+### 240040000000000020000080000000000000000000802413800640000100
+
+Điều 24.4.TT.18.1.
+
+### 240040000000000020000080000000000000000000802420300820000100
+
+Điều 24.4.TT.20.1.
+
+### 240040000000000020000080000000000000000000802427200090000100
+
+Điều 24.4.TT.21.1.
+
+### 240040000000000020000080000000000000000000802428700120000100
+
+Điều 24.4.TT.22.1.
+
+### 240040000000000020000080000000000000000000802433500174500100
+
+Điều 24.4.TT.23.1.
+
+### 240040000000000020000080000000000000000000802438300210000100
+
+Điều 24.4.TT.24.1.
+
+### 240040000000000020000080000000000000000000802448100440000100
+
+Điều 24.4.TT.26.1.
+
+### 240040000000000020000080000000000000000000802461400060000100
+
+Điều 24.4.TT.27.1.
+
+### 240040000000000020000080000000000000000000802469900210000100
+
+Điều 24.4.TT.28.1.
+
+### 240040000000000020000080000000000000000000802534400010000100
+
+Điều 24.4.TT.32.1.
+
+### 240040000000000020000080000000000000000000802589600280000100
+
+Điều 24.4.TT.33.1.
+
+### 240040000000000020000080000000000000000000802680100010000100
+
+Điều 24.4.TT.34.1.
+
+### 24004000000000003000
+
+Chương III PHÂN BÓN
+
+### 2400400000000000300000100000000000000000
+
+Mục 1 CÔNG NHẬN PHÂN BÓN LƯU HÀNHVÀ KHẢO NGHIỆM PHÂN BÓN
+
+### 240040000000000030000010000000000000000003600000000000000000
+
+Điều 24.4.LQ.36. Yêu cầu về công nhận phân bón lưu hành, phân loại phân bón
+
+### 240040000000000030000010000000000000000003700000000000000000
+
+Điều 24.4.LQ.37. Cấp, cấp lại, gia hạn Quyết định công nhận phân bón lưu hành tại Việt Nam
+
+### 240040000000000030000010000000000000000003800000000000000000
+
+Điều 24.4.LQ.38. Hủy bỏ Quyết định công nhận phân bón lưu hành tại Việt Nam
+
+### 240040000000000030000010000000000000000003900000000000000000
+
+Điều 24.4.LQ.39. Yêu cầu về khảo nghiệm phân bón
+
+### 240040000000000030000010000000000000000004000000000000000000
+
+Điều 24.4.LQ.40. Điều kiện công nhận tổ chức khảo nghiệm phân bón
+
+### 2400400000000000300000200000000000000000
+
+Mục 2 SẢN XUẤT VÀ BUÔN BÁN PHÂN BÓN
+
+### 240040000000000030000020000000000000000004100000000000000000
+
+Điều 24.4.LQ.41. Điều kiện sản xuất phân bón
+
+### 240040000000000030000020000000000000000004200000000000000000
+
+Điều 24.4.LQ.42. Điều kiện buôn bán phân bón
+
+### 2400400000000000300000300000000000000000
+
+Mục 3 XUẤT KHẨU VÀ NHẬP KHẨU PHÂN BÓN
+
+### 240040000000000030000030000000000000000004300000000000000000
+
+Điều 24.4.LQ.43. Xuất khẩu phân bón
+
+### 240040000000000030000030000000000000000004400000000000000000
+
+Điều 24.4.LQ.44. Nhập khẩu phân bón
+
+### 2400400000000000300000400000000000000000
+
+Mục 4 QUẢN LÝ CHẤT LƯỢNG, TÊN, NHÃN,QUẢNG CÁO PHÂN BÓN
+
+### 240040000000000030000040000000000000000004500000000000000000
+
+Điều 24.4.LQ.45. Quản lý chất lượng phân bón
+
+### 240040000000000030000040000000000000000004600000000000000000
+
+Điều 24.4.LQ.46. Kiểm tra nhà nước về chất lượng phân bón nhập khẩu
+
+### 240040000000000030000040000000000000000004700000000000000000
+
+Điều 24.4.LQ.47. Tên phân bón
+
+### 240040000000000030000040000000000000000004800000000000000000
+
+Điều 24.4.LQ.48. Ghi nhãn phân bón
+
+### 240040000000000030000040000000000000000004900000000000000000
+
+Điều 24.4.LQ.49. Quảng cáo phân bón
+
+### 2400400000000000300000500000000000000000
+
+Mục 5 QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂNHOẠT ĐỘNG TRONG LĨNH VỰC PHÂN BÓN
+
+### 240040000000000030000050000000000000000005000000000000000000
+
+Điều 24.4.LQ.50. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất phân bón
+
+### 240040000000000030000050000000000000000005100000000000000000
+
+Điều 24.4.LQ.51. Quyền và nghĩa vụ của tổ chức, cá nhân buôn bán phân bón
+
+### 240040000000000030000050000000000000000005200000000000000000
+
+Điều 24.4.LQ.52. Quyền và nghĩa vụ của tổ chức khảo nghiệm phân bón
+
+### 240040000000000030000050000000000000000005300000000000000000
+
+Điều 24.4.LQ.53. Quyền và nghĩa vụ của người lấy mẫu phân bón
+
+### 240040000000000030000050000000000000000005400000000000000000
+
+Điều 24.4.LQ.54. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng phân bón
+
+### 24004000000000004000
+
+Chương IV CANH TÁC
+
+### 2400400000000000400000100000000000000000
+
+Mục 1 SỬ DỤNG TÀI NGUYÊN TRONG CANH TÁC
+
+### 240040000000000040000010000000000000000005500000000000000000
+
+Điều 24.4.LQ.55. Sử dụng và bảo vệ đất trong canh tác
+
+### 240040000000000040000010000000000000000005600000000000000000
+
+Điều 24.4.LQ.56. Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
+
+### 24004000000000004000001000000000000000000560000000000000000000402713000940001300
+
+Điều 24.4.NĐ.2.13. Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
+
+### 240040000000000040000010000000000000000005700000000000000000
+
+Điều 24.4.LQ.57. Bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa nước
+
+### 24004000000000004000001000000000000000000570000000000000000000402713000940001400
+
+Điều 24.4.NĐ.2.14. Bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa nước
+
+### 240040000000000040000010000000000000000005800000000000000000
+
+Điều 24.4.LQ.58. Sử dụng nướctưới
+
+### 240040000000000040000010000000000000000005900000000000000000
+
+Điều 24.4.LQ.59. Sử dụng sinh vật có ích
+
+### 2400400000000000400000200000000000000000
+
+Mục 2 SỬ DỤNG TRANG THIẾT BỊ VÀVẬT TƯ NÔNG NGHIỆP TRONG CANH TÁC
+
+### 240040000000000040000020000000000000000006000000000000000000
+
+Điều 24.4.LQ.60. Trang thiết bị và vật tư nông nghiệp trong canh tác
+
+### 240040000000000040000020000000000000000006100000000000000000
+
+Điều 24.4.LQ.61. Yêu cầu về sử dụng trang thiết bị và vật tư nông nghiệp trong canh tác
+
+### 2400400000000000400000300000000000000000
+
+Mục 3 PHÁT TRIỂN VÙNG SẢN XUẤT HÀNG HÓA TẬP TRUNG VÀ LIÊN KẾT SẢN XUẤT
+
+### 240040000000000040000030000000000000000006200000000000000000
+
+Điều 24.4.LQ.62. Phát triển vùng sản xuất hàng hóa tập trung
+
+### 240040000000000040000030000000000000000006300000000000000000
+
+Điều 24.4.LQ.63. Hợp tác, liên kết sản xuất
+
+### 240040000000000040000030000000000000000006400000000000000000
+
+Điều 24.4.LQ.64. Quản lý và cấp mã số vùng trồng
+
+### 2400400000000000400000400000000000000000
+
+Mục 4 QUY TRÌNH SẢN XUẤT, ỨNG DỤNG CÔNG NGHỆ CAOVÀ CƠ GIỚI HÓA TRONG CANH TÁC
+
+### 240040000000000040000040000000000000000006500000000000000000
+
+Điều 24.4.LQ.65. Quy trình sản xuất
+
+### 240040000000000040000040000000000000000006600000000000000000
+
+Điều 24.4.LQ.66. Ứng dụng công nghệ cao trong canh tác
+
+### 240040000000000040000040000000000000000006700000000000000000
+
+Điều 24.4.LQ.67. Cơ giới hóa trong canh tác
+
+### 2400400000000000400000500000000000000000
+
+Mục 5 CANH TÁC HỮU CƠ
+
+### 240040000000000040000050000000000000000006800000000000000000
+
+Điều 24.4.LQ.68. Phát triển và bảo vệ vùng canh tác hữu cơ
+
+### 240040000000000040000050000000000000000006900000000000000000
+
+Điều 24.4.LQ.69. Yêu cầu đối với canh tác hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090000400
+
+Điều 24.4.NĐ.1.4. Nguyên tắc sản xuất nông nghiệp hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090000500
+
+Điều 24.4.NĐ.1.5. Tiêu chuẩn nông nghiệp hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090000600
+
+Điều 24.4.NĐ.1.6. Vật tư đầu vào sản xuất nông nghiệp hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090000700
+
+Điều 24.4.NĐ.1.7. Tổ chức chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
+
+### 2400400000000000400000500000000000000000069000000000000000000040266590109000070000802708800160000400
+
+Điều 24.4.TT.35.4. Số đăng ký của Tổ chức chứng nhận
+
+### 2400400000000000400000500000000000000000069000000000000000000040266590109000070000802708800160000500
+
+Điều 24.4.TT.35.5. Hoạt động của Tổ chức chứng nhận
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090000800
+
+Điều 24.4.NĐ.1.8. Chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
+
+### 2400400000000000400000500000000000000000069000000000000000000040266590109000080000802708800160000300
+
+Điều 24.4.TT.35.3. Cơ quan tiếp nhận hồ sơ để cấp, cấp lại, cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động chứng nhận sản phẩm phù hợp TCVN về nông nghiệp hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090000900
+
+Điều 24.4.NĐ.1.9. Chứng nhận sản phẩm phù hợp tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài về nông nghiệp hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001000
+
+Điều 24.4.NĐ.1.10. Kiểm tra tổ chức chứng nhận
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001100
+
+Điều 24.4.NĐ.1.11. Công bố tiêu chuẩn áp dụng và ghi nhãn sản phẩm hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001200
+
+Điều 24.4.NĐ.1.12. Lô gô sản phẩm hữu cơ Việt Nam
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001300
+
+Điều 24.4.NĐ.1.13. Truy xuất nguồn gốc, thu hồi và xử lý sản phẩm hữu cơ không đảm bảo chất lượng
+
+### 2400400000000000400000500000000000000000069000000000000000000040266590109000130000802708800160000900
+
+Điều 24.4.TT.35.9. Thu hồi sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+
+### 2400400000000000400000500000000000000000069000000000000000000040266590109000130000802708800160001000
+
+Điều 24.4.TT.35.10. Xử lý sản phẩm nông nghiệp hữu cơ không đảm bảo chất lượng thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001400
+
+Điều 24.4.NĐ.1.14. Kiểm tra chất lượng sản phẩm hữu cơ
+
+### 2400400000000000400000500000000000000000069000000000000000000040266590109000140000802708800160000600
+
+Điều 24.4.TT.35.6. Kiểm tra chất lượng sản phẩm nông nghiệp hữu cơ thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001500
+
+Điều 24.4.NĐ.1.15. Quy định về thử nghiệm mẫu sản phẩm hữu cơ
+
+### 2400400000000000400000500000000000000000069000000000000000000040266590109000150000802708800160000700
+
+Điều 24.4.TT.35.7. Quy định về lấy mẫu sản phẩm nông nghiệp hữu cơ
+
+### 2400400000000000400000500000000000000000069000000000000000000040266590109000150000802708800160000800
+
+Điều 24.4.TT.35.8. Thử nghiệm mẫu sản phẩm nông nghiệp hữu cơ thuộc lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001600
+
+Điều 24.4.NĐ.1.16. Ưu tiên áp dụng các chính sách đã ban hành cho phát triển nông nghiệp hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001700
+
+Điều 24.4.NĐ.1.17. Một số chính sách đặc thù hỗ trợ doanh nghiệp nhỏ, hợp tác xã, trang trại, hộ gia đình, nhóm hộ sản xuất sản phẩm hữu cơ
+
+### 24004000000000004000005000000000000000000690000000000000000000402665901090001800
+
+Điều 24.4.NĐ.1.18. Trách nhiệm quản lý nhà nước về nông nghiệp hữu cơ
+
+### 2400400000000000400000600000000000000000
+
+Mục 6 CANH TÁC THÍCH ỨNG VỚI BIẾN ĐỔI KHÍ HẬU VÀ BẢO VỆ MÔI TRƯỜNG
+
+### 240040000000000040000060000000000000000007000000000000000000
+
+Điều 24.4.LQ.70. Canh tác thích ứng với biến đổi khí hậu
+
+### 240040000000000040000060000000000000000007100000000000000000
+
+Điều 24.4.LQ.71. Canh tác trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển, đất có nguy cơ sa mạc hóa, hoang mạc hóa
+
+### 24004000000000004000006000000000000000000710000000000000000000802530200470000100
+
+Điều 24.4.TT.31.1.
+
+### 240040000000000040000060000000000000000007200000000000000000
+
+Điều 24.4.LQ.72. Bảo vệ môi trường trong canh tác
+
+### 2400400000000000400000700000000000000000
+
+Mục 7 QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN CANH TÁC
+
+### 240040000000000040000070000000000000000007300000000000000000
+
+Điều 24.4.LQ.73. Quyền của tổ chức, cá nhân canh tác
+
+### 240040000000000040000070000000000000000007400000000000000000
+
+Điều 24.4.LQ.74. Nghĩa vụ của tổ chức, cá nhân canh tác
+
+### 24004000000000005000
+
+Chương V THU HOẠCH, SƠ CHẾ, BẢO QUẢN, CHẾ BIẾN, THƯƠNG MẠI VÀ QUẢN LÝ CHẤT LƯỢNG SẢN PHẨM CÂY TRỒNG
+
+### 2400400000000000500007500000000000000000
+
+Điều 24.4.LQ.75. Thu hoạch, sơ chế, bảo quản, chế biến sản phẩm cây trồng
+
+### 2400400000000000500007600000000000000000
+
+Điều 24.4.LQ.76. Thu gom, xử lý, sử dụng phụ phẩm cây trồng
+
+### 240040000000000050000760000000000000000000802710200190000400
+
+Điều 24.4.TT.38.4. Thu gom phụ phẩm cây trồng
+
+### 240040000000000050000760000000000000000000802710200190000500
+
+Điều 24.4.TT.38.5. Xử lý phụ phẩm cây trồng
+
+### 240040000000000050000760000000000000000000802710200190000600
+
+Điều 24.4.TT.38.6. Sử dụng phụ phẩm cây trồng
+
+### 240040000000000050000760000000000000000000802710200190000700
+
+Điều 24.4.TT.38.7. Trách nhiệm của Cục Trồng trọt
+
+### 240040000000000050000760000000000000000000802710200190000800
+
+Điều 24.4.TT.38.8. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn
+
+### 240040000000000050000760000000000000000000802710200190000900
+
+Điều 24.4.TT.38.9. Trách nhiệm của tổ chức, hộ gia đình, cá nhân thu gom, xử lý, sử dụng phụ phẩm cây trồng
+
+### 2400400000000000500007700000000000000000
+
+Điều 24.4.LQ.77. Phát triển thị trường và thương mại sản phẩm cây trồng
+
+### 2400400000000000500007800000000000000000
+
+Điều 24.4.LQ.78. Xuất khẩu, nhập khẩu sản phẩm cây trồng
+
+### 2400400000000000500007900000000000000000
+
+Điều 24.4.LQ.79. Phát triển chợ đầu mối sản phẩm cây trồng
+
+### 2400400000000000500008000000000000000000
+
+Điều 24.4.LQ.80. Quyền và nghĩa vụ của tổ chức, cá nhân thu hoạch, sơ chế, bảo quản, chế biến và thương mại sản phẩm cây trồng
+
+### 2400400000000000500008100000000000000000
+
+Điều 24.4.LQ.81. Quản lý chất lượng sản phẩm cây trồng
+
+### 24004000000000006000
+
+Chương VI QUẢN LÝ NHÀ NƯỚC VỀ HOẠT ĐỘNG TRỒNG TRỌT
+
+### 2400400000000000600008200000000000000000
+
+Điều 24.4.LQ.82. Trách nhiệm của Chính phủ, Bộ, cơ quan ngang Bộ
+
+### 240040000000000060000820000000000000000000802714400260001000
+
+Điều 24.4.TT.39.10. Trách nhiệm của Cục Trồng trọt
+
+### 2400400000000000600008300000000000000000
+
+Điều 24.4.LQ.83. Trách nhiệm của Ủy ban nhân dân các cấp
+
+### 240040000000000060000830000000000000000000802714400260001100
 
 Điều 24.4.TT.39.11. Trách nhiệm Sở Nông nghiệp và Phát triển nông thôn
 
-**Chỉ mục:** 11
+### 24004000000000007000
 
-**Mã phân cấp:** 240040000000000060000830000000000000000000802714400260001100
+Chương VII ĐIỀU KHOẢN THI HÀNH
 
-**ID:** dk_00037524
+### 2400400000000000700008400000000000000000
 
----
+Điều 24.4.LQ.84. Hiệu lực thi hành
 
+### 2400400000000000700008440266590109000190
 
-### Điều 24.4.LQ.84. Hiệu lực thi hành
+Điều 24.4.NĐ.1.19. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008440266590109000200
 
-**Chỉ mục:** 84
+Điều 24.4.NĐ.1.20. Tổ chức thực hiện
 
-**Mã phân cấp:** 2400400000000000700008400000000000000000
+### 2400400000000000700008440271300094000150
 
-**ID:** dk_00037526
+Điều 24.4.NĐ.2.15. Hiệu lực thi hành
 
----
+### 2400400000000000700008440271300094000170
 
+Điều 24.4.NĐ.2.17. Tổ chức thực hiện
 
-### Điều 24.4.NĐ.1.19. Hiệu lực thi hành
+### 2400400000000000700008480216550074000040
 
-*Nội dung chưa có sẵn*
+Điều 24.4.QĐ.1.4.
 
-**Chỉ mục:** 19
+### 2400400000000000700008480216550074000050
 
-**Mã phân cấp:** 2400400000000000700008440266590109000190
+Điều 24.4.QĐ.1.5.
 
-**ID:** dk_00037527
+### 2400400000000000700008480216550074000060
 
----
+Điều 24.4.QĐ.1.6.
 
+### 2400400000000000700008480216550074000070
 
-### Điều 24.4.NĐ.1.20. Tổ chức thực hiện
+Điều 24.4.QĐ.1.7.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480223530103000020
 
-**Chỉ mục:** 20
+Điều 24.4.QĐ.2.2.
 
-**Mã phân cấp:** 2400400000000000700008440266590109000200
+### 2400400000000000700008480223530103000030
 
-**ID:** dk_00037528
+Điều 24.4.QĐ.2.3.
 
----
+### 2400400000000000700008480225490047000020
 
+Điều 24.4.QĐ.3.2.
 
-### Điều 24.4.NĐ.2.15. Hiệu lực thi hành
+### 2400400000000000700008480225490047000030
 
-*Nội dung chưa có sẵn*
+Điều 24.4.QĐ.3.3.
 
-**Chỉ mục:** 15
+### 2400400000000000700008480228580050000020
 
-**Mã phân cấp:** 2400400000000000700008440271300094000150
+Điều 24.4.QĐ.4.2.
 
-**ID:** dk_00037529
+### 2400400000000000700008480228580050000030
 
----
+Điều 24.4.QĐ.4.3.
 
+### 2400400000000000700008480230600104000020
 
-### Điều 24.4.NĐ.2.17. Tổ chức thực hiện
+Điều 24.4.QĐ.5.2.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480230600104000030
 
-**Chỉ mục:** 17
+Điều 24.4.QĐ.5.3.
 
-**Mã phân cấp:** 2400400000000000700008440271300094000170
+### 2400400000000000700008480231300124000020
 
-**ID:** dk_00037530
+Điều 24.4.QĐ.6.2.
 
----
+### 2400400000000000700008480231300124000030
 
+Điều 24.4.QĐ.6.3.
 
-### Điều 24.4.QĐ.1.4.
+### 2400400000000000700008480232450021000020
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.1.2.
 
-**Chỉ mục:** 4
+### 2400400000000000700008480232450021000030
 
-**Mã phân cấp:** 2400400000000000700008480216550074000040
+Điều 24.4.TT.1.3.
 
-**ID:** dk_00037531
+### 2400400000000000700008480233210040000020
 
----
+Điều 24.4.TT.2.2.
 
+### 2400400000000000700008480233210040000030
 
-### Điều 24.4.QĐ.1.5.
+Điều 24.4.TT.2.3.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480233990061000020
 
-**Chỉ mục:** 5
+Điều 24.4.TT.3.2.
 
-**Mã phân cấp:** 2400400000000000700008480216550074000050
+### 2400400000000000700008480233990061000030
 
-**ID:** dk_00037532
+Điều 24.4.TT.3.3.
 
----
+### 2400400000000000700008480234940084000020
 
+Điều 24.4.TT.4.2.
 
-### Điều 24.4.QĐ.1.6.
+### 2400400000000000700008480234940084000030
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.4.3.
 
-**Chỉ mục:** 3
+### 2400400000000000700008480235650011000020
 
-**Mã phân cấp:** 2400400000000000700008480216550074000060
+Điều 24.4.TT.5.2.
 
-**ID:** dk_00037533
+### 2400400000000000700008480235650011000030
 
----
+Điều 24.4.TT.5.3.
 
+### 2400400000000000700008480235920022000020
 
-### Điều 24.4.QĐ.1.7.
+Điều 24.4.TT.6.2.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480235920022000030
 
-**Chỉ mục:** 4
+Điều 24.4.TT.6.3.
 
-**Mã phân cấp:** 2400400000000000700008480216550074000070
+### 2400400000000000700008480236270030000020
 
-**ID:** dk_00037534
+Điều 24.4.TT.7.2.
 
----
+### 2400400000000000700008480236270030000030
 
+Điều 24.4.TT.7.3.
 
-### Điều 24.4.QĐ.2.2.
+### 2400400000000000700008480236700034000020
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.8.2.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480236700034000030
 
-**Mã phân cấp:** 2400400000000000700008480223530103000020
+Điều 24.4.TT.8.3.
 
-**ID:** dk_00037535
+### 2400400000000000700008480237320049000040
 
----
+Điều 24.4.TT.9.4.
 
+### 2400400000000000700008480237320049000050
 
-### Điều 24.4.QĐ.2.3.
+Điều 24.4.TT.9.5.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480237670055000020
 
-**Chỉ mục:** 3
+Điều 24.4.TT.10.2.
 
-**Mã phân cấp:** 2400400000000000700008480223530103000030
+### 2400400000000000700008480237670055000030
 
-**ID:** dk_00037536
+Điều 24.4.TT.10.3.
 
----
+### 2400400000000000700008480238050065000020
 
+Điều 24.4.TT.11.2.
 
-### Điều 24.4.QĐ.3.2.
+### 2400400000000000700008480238050065000030
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.11.3.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480238380070000020
 
-**Mã phân cấp:** 2400400000000000700008480225490047000020
+Điều 24.4.TT.12.2.
 
-**ID:** dk_00037537
+### 2400400000000000700008480238380070000030
 
----
+Điều 24.4.TT.12.3.
 
+### 2400400000000000700008480239710030000020
 
-### Điều 24.4.QĐ.3.3.
+Điều 24.4.TT.13.2.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480239710030000030
 
-**Chỉ mục:** 3
+Điều 24.4.TT.13.3.
 
-**Mã phân cấp:** 2400400000000000700008480225490047000030
+### 2400400000000000700008480240140041000020
 
-**ID:** dk_00037538
+Điều 24.4.TT.14.2.
 
----
+### 2400400000000000700008480240140041000030
 
+Điều 24.4.TT.14.3.
 
-### Điều 24.4.QĐ.4.2.
+### 2400400000000000700008480240360045000020
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.15.2.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480240360045000030
 
-**Mã phân cấp:** 2400400000000000700008480228580050000020
+Điều 24.4.TT.15.3.
 
-**ID:** dk_00037539
+### 2400400000000000700008480240470048000020
 
----
+Điều 24.4.TT.16.2.
 
+### 2400400000000000700008480240470048000030
 
-### Điều 24.4.QĐ.4.3.
+Điều 24.4.TT.16.3.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480240690051000020
 
-**Chỉ mục:** 3
+Điều 24.4.TT.17.2.
 
-**Mã phân cấp:** 2400400000000000700008480228580050000030
+### 2400400000000000700008480240690051000030
 
-**ID:** dk_00037540
+Điều 24.4.TT.17.3.
 
----
+### 2400400000000000700008480241380064000020
 
+Điều 24.4.TT.18.2.
 
-### Điều 24.4.QĐ.5.2.
+### 2400400000000000700008480241380064000030
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.18.3.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480241510067000020
 
-**Mã phân cấp:** 2400400000000000700008480230600104000020
+Điều 24.4.TT.19.2.
 
-**ID:** dk_00037541
+### 2400400000000000700008480241510067000030
 
----
+Điều 24.4.TT.19.3.
 
+### 2400400000000000700008480242030082000020
 
-### Điều 24.4.QĐ.5.3.
+Điều 24.4.TT.20.2.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480242030082000030
 
-**Chỉ mục:** 3
+Điều 24.4.TT.20.3.
 
-**Mã phân cấp:** 2400400000000000700008480230600104000030
+### 2400400000000000700008480242720009000020
 
-**ID:** dk_00037542
+Điều 24.4.TT.21.2.
 
----
+### 2400400000000000700008480242720009000030
 
+Điều 24.4.TT.21.3.
 
-### Điều 24.4.QĐ.6.2.
+### 2400400000000000700008480242870012000020
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.22.2.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480242870012000030
 
-**Mã phân cấp:** 2400400000000000700008480231300124000020
+Điều 24.4.TT.22.3.
 
-**ID:** dk_00037543
+### 2400400000000000700008480243350017450020
 
----
+Điều 24.4.TT.23.2.
 
+### 2400400000000000700008480243350017450030
 
-### Điều 24.4.QĐ.6.3.
+Điều 24.4.TT.23.3.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480243830021000020
 
-**Chỉ mục:** 3
+Điều 24.4.TT.24.2.
 
-**Mã phân cấp:** 2400400000000000700008480231300124000030
+### 2400400000000000700008480243830021000030
 
-**ID:** dk_00037544
+Điều 24.4.TT.24.3.
 
----
+### 2400400000000000700008480243970024000020
 
+Điều 24.4.TT.25.2.
 
-### Điều 24.4.TT.1.2.
+### 2400400000000000700008480243970024000030
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.25.3.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480244810044000020
 
-**Mã phân cấp:** 2400400000000000700008480232450021000020
+Điều 24.4.TT.26.2.
 
-**ID:** dk_00037545
+### 2400400000000000700008480244810044000030
 
----
+Điều 24.4.TT.26.3.
 
+### 2400400000000000700008480246140006000020
 
-### Điều 24.4.TT.1.3.
+Điều 24.4.TT.27.2.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480246140006000030
 
-**Chỉ mục:** 3
+Điều 24.4.TT.27.3.
 
-**Mã phân cấp:** 2400400000000000700008480232450021000030
+### 2400400000000000700008480246990021000030
 
-**ID:** dk_00037546
+Điều 24.4.TT.28.3. Hiệu lực thi hành
 
----
+### 2400400000000000700008480246990021000040
 
+Điều 24.4.TT.28.4. Trách nhiệm thi hành
 
-### Điều 24.4.TT.2.2.
+### 2400400000000000700008480247640033000020
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.29.2.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480247640033000030
 
-**Mã phân cấp:** 2400400000000000700008480233210040000020
+Điều 24.4.TT.29.3.
 
-**ID:** dk_00037547
+### 2400400000000000700008480249980005000020
 
----
+Điều 24.4.TT.30.2.
 
+### 2400400000000000700008480249980005000030
 
-### Điều 24.4.TT.2.3.
+Điều 24.4.TT.30.3.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480253020047000020
 
-**Chỉ mục:** 3
+Điều 24.4.TT.31.2.
 
-**Mã phân cấp:** 2400400000000000700008480233210040000030
+### 2400400000000000700008480253020047000030
 
-**ID:** dk_00037548
+Điều 24.4.TT.31.3.
 
----
+### 2400400000000000700008480253440001000020
 
+Điều 24.4.TT.32.2.
 
-### Điều 24.4.TT.3.2.
+### 2400400000000000700008480253440001000030
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.32.3.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480258960028000020
 
-**Mã phân cấp:** 2400400000000000700008480233990061000020
+Điều 24.4.TT.33.2.
 
-**ID:** dk_00037549
+### 2400400000000000700008480258960028000030
 
----
+Điều 24.4.TT.33.3.
 
+### 2400400000000000700008480268010001000020
 
-### Điều 24.4.TT.3.3.
+Điều 24.4.TT.34.2.
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480268010001000030
 
-**Chỉ mục:** 3
+Điều 24.4.TT.34.3.
 
-**Mã phân cấp:** 2400400000000000700008480233990061000030
+### 2400400000000000700008480270880016000110
 
-**ID:** dk_00037550
+Điều 24.4.TT.35.11. Tổ chức thực hiện
 
----
+### 2400400000000000700008480270880016000120
 
+Điều 24.4.TT.35.12. Điều khoản thi hành
 
-### Điều 24.4.TT.4.2.
+### 2400400000000000700008480271020017000020
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.36.2.
 
-**Chỉ mục:** 2
+### 2400400000000000700008480271020017000030
 
-**Mã phân cấp:** 2400400000000000700008480234940084000020
+Điều 24.4.TT.36.3.
 
-**ID:** dk_00037551
+### 2400400000000000700008480271020018000210
 
----
+Điều 24.4.TT.37.21. Điều khoản thi hành
 
+### 2400400000000000700008480271020019000100
 
-### Điều 24.4.TT.4.3.
+Điều 24.4.TT.38.10. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 2400400000000000700008480271440026000140
 
-**Chỉ mục:** 3
+Điều 24.4.TT.39.14. Hiệu lực thi hành
 
-**Mã phân cấp:** 2400400000000000700008480234940084000030
+### 2400400000000000700008500000000000000000
 
-**ID:** dk_00037552
+Điều 24.4.LQ.85. Quy định chuyển tiếp
 
----
+### 2400400000000000700008540271300094000160
 
+Điều 24.4.NĐ.2.16. Quy định chuyển tiếp
 
-### Điều 24.4.TT.5.2.
+### 2400400000000000700008580271440026000130
 
-*Nội dung chưa có sẵn*
+Điều 24.4.TT.39.13. Quy định chuyển tiếp
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480235650011000020
-
-**ID:** dk_00037553
-
----
-
-
-### Điều 24.4.TT.5.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480235650011000030
-
-**ID:** dk_00037554
-
----
-
-
-### Điều 24.4.TT.6.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480235920022000020
-
-**ID:** dk_00037555
-
----
-
-
-### Điều 24.4.TT.6.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480235920022000030
-
-**ID:** dk_00037556
-
----
-
-
-### Điều 24.4.TT.7.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480236270030000020
-
-**ID:** dk_00037557
-
----
-
-
-### Điều 24.4.TT.7.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480236270030000030
-
-**ID:** dk_00037558
-
----
-
-
-### Điều 24.4.TT.8.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480236700034000020
-
-**ID:** dk_00037559
-
----
-
-
-### Điều 24.4.TT.8.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480236700034000030
-
-**ID:** dk_00037560
-
----
-
-
-### Điều 24.4.TT.9.4.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 2400400000000000700008480237320049000040
-
-**ID:** dk_00037561
-
----
-
-
-### Điều 24.4.TT.9.5.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 2400400000000000700008480237320049000050
-
-**ID:** dk_00037562
-
----
-
-
-### Điều 24.4.TT.10.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480237670055000020
-
-**ID:** dk_00037563
-
----
-
-
-### Điều 24.4.TT.10.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480237670055000030
-
-**ID:** dk_00037564
-
----
-
-
-### Điều 24.4.TT.11.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480238050065000020
-
-**ID:** dk_00037565
-
----
-
-
-### Điều 24.4.TT.11.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480238050065000030
-
-**ID:** dk_00037566
-
----
-
-
-### Điều 24.4.TT.12.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480238380070000020
-
-**ID:** dk_00037567
-
----
-
-
-### Điều 24.4.TT.12.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480238380070000030
-
-**ID:** dk_00037568
-
----
-
-
-### Điều 24.4.TT.13.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480239710030000020
-
-**ID:** dk_00037569
-
----
-
-
-### Điều 24.4.TT.13.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480239710030000030
-
-**ID:** dk_00037570
-
----
-
-
-### Điều 24.4.TT.14.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480240140041000020
-
-**ID:** dk_00037571
-
----
-
-
-### Điều 24.4.TT.14.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480240140041000030
-
-**ID:** dk_00037572
-
----
-
-
-### Điều 24.4.TT.15.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480240360045000020
-
-**ID:** dk_00037573
-
----
-
-
-### Điều 24.4.TT.15.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480240360045000030
-
-**ID:** dk_00037574
-
----
-
-
-### Điều 24.4.TT.16.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480240470048000020
-
-**ID:** dk_00037575
-
----
-
-
-### Điều 24.4.TT.16.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480240470048000030
-
-**ID:** dk_00037576
-
----
-
-
-### Điều 24.4.TT.17.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480240690051000020
-
-**ID:** dk_00037577
-
----
-
-
-### Điều 24.4.TT.17.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480240690051000030
-
-**ID:** dk_00037578
-
----
-
-
-### Điều 24.4.TT.18.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480241380064000020
-
-**ID:** dk_00037579
-
----
-
-
-### Điều 24.4.TT.18.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480241380064000030
-
-**ID:** dk_00037580
-
----
-
-
-### Điều 24.4.TT.19.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480241510067000020
-
-**ID:** dk_00037581
-
----
-
-
-### Điều 24.4.TT.19.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480241510067000030
-
-**ID:** dk_00037582
-
----
-
-
-### Điều 24.4.TT.20.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480242030082000020
-
-**ID:** dk_00037583
-
----
-
-
-### Điều 24.4.TT.20.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480242030082000030
-
-**ID:** dk_00037584
-
----
-
-
-### Điều 24.4.TT.21.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480242720009000020
-
-**ID:** dk_00037585
-
----
-
-
-### Điều 24.4.TT.21.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480242720009000030
-
-**ID:** dk_00037586
-
----
-
-
-### Điều 24.4.TT.22.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480242870012000020
-
-**ID:** dk_00037587
-
----
-
-
-### Điều 24.4.TT.22.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480242870012000030
-
-**ID:** dk_00037588
-
----
-
-
-### Điều 24.4.TT.23.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480243350017450020
-
-**ID:** dk_00037589
-
----
-
-
-### Điều 24.4.TT.23.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480243350017450030
-
-**ID:** dk_00037590
-
----
-
-
-### Điều 24.4.TT.24.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480243830021000020
-
-**ID:** dk_00037591
-
----
-
-
-### Điều 24.4.TT.24.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480243830021000030
-
-**ID:** dk_00037592
-
----
-
-
-### Điều 24.4.TT.25.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480243970024000020
-
-**ID:** dk_00037593
-
----
-
-
-### Điều 24.4.TT.25.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480243970024000030
-
-**ID:** dk_00037594
-
----
-
-
-### Điều 24.4.TT.26.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480244810044000020
-
-**ID:** dk_00037595
-
----
-
-
-### Điều 24.4.TT.26.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480244810044000030
-
-**ID:** dk_00037596
-
----
-
-
-### Điều 24.4.TT.27.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480246140006000020
-
-**ID:** dk_00037597
-
----
-
-
-### Điều 24.4.TT.27.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480246140006000030
-
-**ID:** dk_00037598
-
----
-
-
-### Điều 24.4.TT.28.3. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480246990021000030
-
-**ID:** dk_00037599
-
----
-
-
-### Điều 24.4.TT.28.4. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 2400400000000000700008480246990021000040
-
-**ID:** dk_00037600
-
----
-
-
-### Điều 24.4.TT.29.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480247640033000020
-
-**ID:** dk_00037601
-
----
-
-
-### Điều 24.4.TT.29.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480247640033000030
-
-**ID:** dk_00037602
-
----
-
-
-### Điều 24.4.TT.30.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480249980005000020
-
-**ID:** dk_00037603
-
----
-
-
-### Điều 24.4.TT.30.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480249980005000030
-
-**ID:** dk_00037604
-
----
-
-
-### Điều 24.4.TT.31.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480253020047000020
-
-**ID:** dk_00037605
-
----
-
-
-### Điều 24.4.TT.31.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480253020047000030
-
-**ID:** dk_00037606
-
----
-
-
-### Điều 24.4.TT.32.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480253440001000020
-
-**ID:** dk_00037607
-
----
-
-
-### Điều 24.4.TT.32.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480253440001000030
-
-**ID:** dk_00037608
-
----
-
-
-### Điều 24.4.TT.33.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480258960028000020
-
-**ID:** dk_00037609
-
----
-
-
-### Điều 24.4.TT.33.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480258960028000030
-
-**ID:** dk_00037610
-
----
-
-
-### Điều 24.4.TT.34.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480268010001000020
-
-**ID:** dk_00037611
-
----
-
-
-### Điều 24.4.TT.34.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480268010001000030
-
-**ID:** dk_00037612
-
----
-
-
-### Điều 24.4.TT.35.11. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 2400400000000000700008480270880016000110
-
-**ID:** dk_00037613
-
----
-
-
-### Điều 24.4.TT.35.12. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 2400400000000000700008480270880016000120
-
-**ID:** dk_00037614
-
----
-
-
-### Điều 24.4.TT.36.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400400000000000700008480271020017000020
-
-**ID:** dk_00037615
-
----
-
-
-### Điều 24.4.TT.36.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2400400000000000700008480271020017000030
-
-**ID:** dk_00037616
-
----
-
-
-### Điều 24.4.TT.37.21. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 2400400000000000700008480271020018000210
-
-**ID:** dk_00037617
-
----
-
-
-### Điều 24.4.TT.38.10. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 2400400000000000700008480271020019000100
-
-**ID:** dk_00037618
-
----
-
-
-### Điều 24.4.TT.39.14. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 2400400000000000700008480271440026000140
-
-**ID:** dk_00037619
-
----
-
-
-### Điều 24.4.LQ.85. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 85
-
-**Mã phân cấp:** 2400400000000000700008500000000000000000
-
-**ID:** dk_00037620
-
----
-
-
-### Điều 24.4.NĐ.2.16. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 2400400000000000700008540271300094000160
-
-**ID:** dk_00037621
-
----
-
-
-### Điều 24.4.TT.39.13. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 2400400000000000700008580271440026000130
-
-**ID:** dk_00037622
-
----
-
-
-## 🔙 Quay lại
-[← Danh sách đề mục của Nông nghiệp, nông thôn](/nong-nghiep-nong-thon/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số điều khoản:** 332
-- **Điều khoản thực tế:** 305
-- **Điều khoản có nội dung:** 113 (37.0%)
-- **ID đề mục:** 742544895f53472e978af6af98103323
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

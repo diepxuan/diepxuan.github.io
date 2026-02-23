@@ -1,1167 +1,2043 @@
 ---
-layout: default
+layout: page
 title: An ninh mạng
 permalink: /van-ban/an-ninh-quoc-gia/an-ninh-mang/
-collection: subtopics
-slug: an-ninh-mang
-parent: an-ninh-quoc-gia
 ---
 
 # An ninh mạng
 
-**Đề mục:** An ninh mạng  
-**Chủ đề:** [An ninh quốc gia](/an-ninh-quoc-gia/)  
-**Số điều khoản:** 94  
-**Điều khoản có nội dung:** 87/87 (100.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 1.11.LQ.1. Phạm vi điều chỉnh
+Điều 1.11.LQ.1. Phạm vi điều chỉnh
 
-Luật này quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.
+(Điều 1 Luật số 24/2018/QH14 An ninh mạng ngày 12/06/2018 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 1
+ Luật này quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.(Điều này có nội dung liên quan đến Điều 1.1.LQ.1. Phạm vi điều chỉnh của ; Điều 1.6.LQ.16. Nhiệm vụ và quyền hạn của Công an nhân dân; Điều 41.6.LQ.21. Phổ biến phim trên không gian mạng của Luật 05/2022/QH15 Điện ảnh ban hành ngày 15/06/2022; Điều 3.4.NĐ.4.14. Bảo đảm an toàn trong giao dịch điện tử trong hoạt động tài chính của Nghị định 165/2018/NĐ-CP Về giao dịch điện tử trong hoạt động tài chính ban hành ngày 24/12/2018)
 
-**Mã phân cấp:** 0101100000000000100000100000000000000000
+Điều 1.11.NĐ.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**ID:** dk_00001904
-
----
-
-
-### Điều 1.11.NĐ.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
+(Điều 1 Nghị định số 13/2023/NĐ-CP Bảo vệ dữ liệu cá nhân ngày 17/04/2023 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
 1. Nghị định này quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.
 
-**Chỉ mục:** 1
+2. Nghị định này áp dụng đối với:
 
-**Mã phân cấp:** 0101100000000000100000140283510013000010
+a) Cơ quan, tổ chức, cá nhân Việt Nam;
 
-**ID:** dk_00001905
+b) Cơ quan, tổ chức, cá nhân nước ngoài tại Việt Nam;
 
----
+c) Cơ quan, tổ chức, cá nhân Việt Nam hoạt động tại nước ngoài;
 
+d) Cơ quan, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động xử lý dữ liệu cá nhân tại Việt Nam.
 
-### Điều 1.11.LQ.2. Giải thích từ ngữ
+(Điều này có nội dung liên quan đến Điều 39.15.LQ.6. Trách nhiệm của cơ quan quản lý căn cước)
 
-Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+Điều 1.11.LQ.2. Giải thích từ ngữ
 
-**Chỉ mục:** 2
+(Điều 2 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 0101100000000000100000200000000000000000
+ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00001906
+ 1. *An ninh mạng* là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
----
+ 2. *Bảo vệ an ninh mạng *là phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng.
 
+ 3. *Không gian mạng* là mạng lưới kết nối của cơ sở hạ tầng công nghệ thông tin, bao gồm mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu; là nơi con người thực hiện các hành vi xã hội không bị giới hạn bởi không gian và thời gian.
 
-### Điều 1.11.NĐ.1.2. Giải thích từ ngữ
+ 4. *Không gian mạng quốc gia* là không gian mạng do Chính phủ xác lập, quản lý và kiểm soát.
+
+ 5*. Cơ sở hạ tầng không gian mạng quốc gia* là hệ thống cơ sở vật chất, kỹ thuật để tạo lập, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi thông tin trên không gian mạng quốc gia, bao gồm:
+
+ a) Hệ thống truyền dẫn bao gồm hệ thống truyền dẫn quốc gia, hệ thống truyền dẫn kết nối quốc tế, hệ thống vệ tinh, hệ thống truyền dẫn của doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng;
+
+ b) Hệ thống các dịch vụ lõi bao gồm hệ thống phân luồng và điều hướng thông tin quốc gia, hệ thống phân giải tên miền quốc gia (DNS), hệ thống chứng thực quốc gia (PKI/CA) và hệ thống cung cấp dịch vụ kết nối, truy cập Internet của doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng;
+
+ c) Dịch vụ, ứng dụng công nghệ thông tin bao gồm dịch vụ trực tuyến; ứng dụng công nghệ thông tin có kết nối mạng phục vụ quản lý, điều hành của cơ quan, tổ chức, tập đoàn kinh tế, tài chính quan trọng; cơ sở dữ liệu quốc gia.
+
+ Dịch vụ trực tuyến bao gồm chính phủ điện tử, thương mại điện tử, trang thông tin điện tử, diễn đàn trực tuyến, mạng xã hội, blog;
+
+ d) Cơ sở hạ tầng công nghệ thông tin của đô thị thông minh, Internet vạn vật, hệ thống phức hợp thực - ảo, điện toán đám mây, hệ thống dữ liệu lớn, hệ thống dữ liệu nhanh và hệ thống trí tuệ nhân tạo.
+
+ 6. *C**ổng kết nối mạng quốc tế* là nơi diễn ra hoạt động chuyển nhận tín hiệu mạng qua lại giữa Việt Nam và các quốc gia, vùng lãnh thổ khác.
+
+ 7. *Tội phạm mạng *là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện tội phạm được quy định tại Bộ luật Hình sự.
+
+ 8. *Tấn công mạng *là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để phá hoại, gây gián đoạn hoạt động của mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử.
+
+ 9. *Khủng bố mạng *là việc sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện hành vi khủng bố, tài trợ khủng bố.
+
+ 10. *Gián điệp mạng* là hành vi cố ý vượt qua cảnh báo, mã truy cập, mật mã, tường lửa, sử dụng quyền quản trị của người khác hoặc bằng phương thức khác để chiếm đoạt, thu thập trái phép thông tin, tài nguyên thông tin trên mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử của cơ quan, tổ chức, cá nhân.
+
+ 11. *Tài khoản số* là thông tin dùng để chứng thực, xác thực, phân quyền sử dụng các ứng dụng, dịch vụ trên không gian mạng.
+
+ 12. *Nguy cơ đe dọa an ninh mạng* là tình trạng không gian mạng xuất hiện dấu hiệu đe dọa xâm phạm an ninh quốc gia, gây tổn hại nghiêm trọng trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+
+ 13. *Sự cố an ninh mạng* là sự việc bất ngờ xảy ra trên không gian mạng xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+
+ 14. *Tình huống nguy hiểm về an ninh mạng* là sự việc xảy ra trên không gian mạng khi có hành vi xâm phạm nghiêm trọng an ninh quốc gia, gây tổn hại đặc biệt nghiêm trọng trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.Điều 1.11.NĐ.1.2. Giải thích từ ngữ
+
+(Điều 2 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
 Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 2
+1. Dữ liệu cá nhân là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liền với một con người cụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao gồm dữ liệu cá nhân cơ bản và dữ liệu cá nhân nhạy cảm.
 
-**Mã phân cấp:** 0101100000000000100000240283510013000020
+2. Thông tin giúp xác định một con người cụ thể là thông tin hình thành từ hoạt động của cá nhân mà khi kết hợp với các dữ liệu, thông tin lưu trữ khác có thể xác định một con người cụ thể.
 
-**ID:** dk_00001907
+3. Dữ liệu cá nhân cơ bản bao gồm:
 
----
+a) Họ, chữ đệm và tên khai sinh, tên gọi khác (nếu có);
 
+b) Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích;
 
-### Điều 1.11.LQ.3. Chính sách của Nhà nước về an ninh mạng
+c) Giới tính;
 
-1. Ưu tiên bảo vệ an ninh mạng trong quốc phòng, an ninh, phát triển kinh tế - xã hội, khoa học, công nghệ và đối ngoại.
+d) Nơi sinh, nơi đăng ký khai sinh, nơi thường trú, nơi tạm trú, nơi ở hiện tại, quê quán, địa chỉ liên hệ;
 
-**Chỉ mục:** 3
+đ) Quốc tịch;
 
-**Mã phân cấp:** 0101100000000000100000300000000000000000
+e) Hình ảnh của cá nhân;
 
-**ID:** dk_00001908
+g) Số điện thoại, số chứng minh nhân dân, số định danh cá nhân, số hộ chiếu, số giấy phép lái xe, số biển số xe, số mã số thuế cá nhân, số bảo hiểm xã hội, số thẻ bảo hiểm y tế;
 
----
+h) Tình trạng hôn nhân;
 
+i) Thông tin về mối quan hệ gia đình (cha mẹ, con cái);
 
-### Điều 1.11.LQ.4. Nguyên tắc bảo vệ an ninh mạng
+k) Thông tin về tài khoản số của cá nhân; dữ liệu cá nhân phản ánh hoạt động, lịch sử hoạt động trên không gian mạng;
 
-1. Tuân thủ Hiến pháp và pháp luật; bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+l) Các thông tin khác gắn liền với một con người cụ thể hoặc giúp xác định một con người cụ thể không thuộc quy định tại khoản 4 Điều này.
 
-**Chỉ mục:** 4
+4. Dữ liệu cá nhân nhạy cảm là dữ liệu cá nhân gắn liền với quyền riêng tư của cá nhân mà khi bị xâm phạm sẽ gây ảnh hưởng trực tiếp tới quyền và lợi ích hợp pháp của cá nhân gồm:
 
-**Mã phân cấp:** 0101100000000000100000400000000000000000
+a) Quan điểm chính trị, quan điểm tôn giáo;
 
-**ID:** dk_00001909
+b) Tình trạng sức khỏe và đời tư được ghi trong hồ sơ bệnh án, không bao gồm thông tin về nhóm máu;
 
----
+c) Thông tin liên quan đến nguồn gốc chủng tộc, nguồn gốc dân tộc;
 
+d) Thông tin về đặc điểm di truyền được thừa hưởng hoặc có được của cá nhân;
 
-### Điều 1.11.LQ.5. Biện pháp bảo vệ an ninh mạng
+đ) Thông tin về thuộc tính vật lý, đặc điểm sinh học riêng của cá nhân;
 
-1. Biện pháp bảo vệ an ninh mạng bao gồm:
+e) Thông tin về đời sống tình dục, xu hướng tình dục của cá nhân;
 
-**Chỉ mục:** 5
+g) Dữ liệu về tội phạm, hành vi phạm tội được thu thập, lưu trữ bởi các cơ quan thực thi pháp luật;
 
-**Mã phân cấp:** 0101100000000000100000500000000000000000
+h) Thông tin khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán, các tổ chức được phép khác, gồm: thông tin định danh khách hàng theo quy định của pháp luật, thông tin về tài khoản, thông tin về tiền gửi, thông tin về tài sản gửi, thông tin về giao dịch, thông tin về tổ chức, cá nhân là bên bảo đảm tại tổ chức tín dụng, chi nhánh ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán;
 
-**ID:** dk_00001910
+i) Dữ liệu về vị trí của cá nhân được xác định qua dịch vụ định vị;
 
----
+k) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện pháp bảo mật cần thiết.
 
+5. Bảo vệ dữ liệu cá nhân là hoạt động phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi vi phạm liên quan đến dữ liệu cá nhân theo quy định của pháp luật.
 
-### Điều 1.11.LQ.6. Bảo vệ không gian mạng quốc gia
+6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.
 
-Nhà nước áp dụng các biện pháp để bảo vệ không gian mạng quốc gia; phòng ngừa, xử lý hành vi xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân trên không gian mạng.
+7. Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu cá nhân, như: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa, công khai, kết hợp, truy cập, truy xuất, thu hồi, mã hóa, giải mã, sao chép, chia sẻ, truyền đưa, cung cấp, chuyển giao, xóa, hủy dữ liệu cá nhân hoặc các hành động khác có liên quan.
 
-**Chỉ mục:** 6
+8. Sự đồng ý của chủ thể dữ liệu là việc thể hiện rõ ràng, tự nguyện, khẳng định việc cho phép xử lý dữ liệu cá nhân của chủ thể dữ liệu.
 
-**Mã phân cấp:** 0101100000000000100000600000000000000000
+9. Bên Kiểm soát dữ liệu cá nhân là tổ chức, cá nhân quyết định mục đích và phương tiện xử lý dữ liệu cá nhân.
 
-**ID:** dk_00001911
+10. Bên Xử lý dữ liệu cá nhân là tổ chức, cá nhân thực hiện việc xử lý dữ liệu thay mặt cho Bên Kiểm soát dữ liệu, thông qua một hợp đồng hoặc thỏa thuận với Bên Kiểm soát dữ liệu.
 
----
+11. Bên Kiểm soát và xử lý dữ liệu cá nhân là tổ chức, cá nhân đồng thời quyết định mục đích, phương tiện và trực tiếp xử lý dữ liệu cá nhân.
 
+12. Bên thứ ba là tổ chức, cá nhân ngoài Chủ thể dữ liệu, Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân được phép xử lý dữ liệu cá nhân.
 
-### Điều 1.11.LQ.7. Hợp tác quốc tế về an ninh mạng
+13. Xử lý dữ liệu cá nhân tự động là hình thức xử lý dữ liệu cá nhân được thực hiện bằng phương tiện điện tử nhằm đánh giá, phân tích, dự đoán hoạt động của một con người cụ thể, như: thói quen, sở thích, mức độ tin cậy, hành vi, địa điểm, xu hướng, năng lực và các trường hợp khác.
 
-1. Hợp tác quốc tế về an ninh mạng được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.
+14. Chuyển dữ liệu cá nhân ra nước ngoài là hoạt động sử dụng không gian mạng, thiết bị, phương tiện điện tử hoặc các hình thức khác chuyển dữ liệu cá nhân của công dân Việt Nam tới một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam hoặc sử dụng một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam để xử lý dữ liệu cá nhân của công dân Việt Nam, bao gồm:
 
-**Chỉ mục:** 7
+a) Tổ chức, doanh nghiệp, cá nhân chuyển dữ liệu cá nhân của công dân Việt Nam cho tổ chức, doanh nghiệp, bộ phận quản lý ở nước ngoài để xử lý phù hợp với mục đích đã được chủ thể dữ liệu đồng ý;
 
-**Mã phân cấp:** 0101100000000000100000700000000000000000
+b) Xử lý dữ liệu cá nhân của công dân Việt Nam bằng các hệ thống tự động nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam của Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân phù hợp với mục đích đã được chủ thể dữ liệu đồng ý.
 
-**ID:** dk_00001912
+(Điều này có nội dung liên quan đến Điều 34.1.LQ.3. Giải thích từ ngữ)
 
----
+Điều 1.11.LQ.3. Chính sách của Nhà nước về an ninh mạng
 
+(Điều 3 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 1.11.LQ.8. Các hành vi bị nghiêm cấm về an ninh mạng
+ 1. Ưu tiên bảo vệ an ninh mạng trong quốc phòng, an ninh, phát triển kinh tế - xã hội, khoa học, công nghệ và đối ngoại.
 
-1. Sử dụng không gian mạng để thực hiện hành vi sau đây:
+ 2. Xây dựng không gian mạng lành mạnh, không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-**Chỉ mục:** 8
+ 3. Ưu tiên nguồn lực xây dựng lực lượng chuyên trách bảo vệ an ninh mạng; nâng cao năng lực cho lực lượng bảo vệ an ninh mạng và tổ chức, cá nhân tham gia bảo vệ an ninh mạng; ưu tiên đầu tư cho nghiên cứu, phát triển khoa học, công nghệ để bảo vệ an ninh mạng.
 
-**Mã phân cấp:** 0101100000000000100000800000000000000000
+ 4. Khuyến khích, tạo điều kiện để tổ chức, cá nhân tham gia bảo vệ an ninh mạng, xử lý các nguy cơ đe dọa an ninh mạng; nghiên cứu, phát triển công nghệ, sản phẩm, dịch vụ, ứng dụng nhằm bảo vệ an ninh mạng; phối hợp với cơ quan chức năng trong bảo vệ an ninh mạng.
 
-**ID:** dk_00001913
+ 5. Tăng cường hợp tác quốc tế về an ninh mạng.Điều 1.11.LQ.4. Nguyên tắc bảo vệ an ninh mạng
 
----
+(Điều 4 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+ 1. Tuân thủ Hiến pháp và pháp luật; bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-### Điều 1.11.LQ.9. Xử lý vi phạm pháp luật về an ninh mạng
+ 2. Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước; huy động sức mạnh tổng hợp của hệ thống chính trị và toàn dân tộc; phát huy vai trò nòng cốt của lực lượng chuyên trách bảo vệ an ninh mạng.
 
-Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+ 3. Kết hợp chặt chẽ giữa nhiệm vụ bảo vệ an ninh mạng, bảo vệ hệ thống thông tin quan trọng về an ninh quốc gia với nhiệm vụ phát triển kinh tế - xã hội, bảo đảm quyền con người, quyền công dân, tạo điều kiện cho cơ quan, tổ chức, cá nhân hoạt động trên không gian mạng.
 
-**Chỉ mục:** 9
+ 4. Chủ động phòng ngừa, phát hiện, ngăn chặn, đấu tranh, làm thất bại mọi hoạt động sử dụng không gian mạng xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; sẵn sàng ngăn chặn các nguy cơ đe dọa an ninh mạng.
 
-**Mã phân cấp:** 0101100000000000100000900000000000000000
+ 5. Triển khai hoạt động bảo vệ an ninh mạng đối với cơ sở hạ tầng không gian mạng quốc gia; áp dụng các biện pháp bảo vệ hệ thống thông tin quan trọng về an ninh quốc gia.
 
-**ID:** dk_00001914
+ 6. Hệ thống thông tin quan trọng về an ninh quốc gia được thẩm định, chứng nhận đủ điều kiện về an ninh mạng trước khi đưa vào vận hành, sử dụng; thường xuyên kiểm tra, giám sát về an ninh mạng trong quá trình sử dụng và kịp thời ứng phó, khắc phục sự cố an ninh mạng.
 
----
+ 7. Mọi hành vi vi phạm pháp luật về an ninh mạng phải được xử lý kịp thời, nghiêm minh.(Điều này có nội dung liên quan đến Điều 3.3.NĐ.4.38. Nguyên tắc bảo đảm an toàn thông tin và an ninh thông tin trên mạng)
 
+Điều 1.11.LQ.5. Biện pháp bảo vệ an ninh mạng
 
-### Điều 1.11.LQ.10. Hệ thống thông tin quan trọng về an ninh quốc gia
+(Điều 5 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-1. Hệ thống thông tin quan trọng về an ninh quốc gia là hệ thống thông tin khi bị sự cố, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt, tấn công hoặc phá hoại sẽ xâm phạm nghiêm trọng an ninh mạng.
+ 1. Biện pháp bảo vệ an ninh mạng bao gồm:
 
-**Chỉ mục:** 10
+ a) Thẩm định an ninh mạng;
 
-**Mã phân cấp:** 0101100000000000200001000000000000000000
+ b) Đánh giá điều kiện an ninh mạng;
 
-**ID:** dk_00001916
+ c) Kiểm tra an ninh mạng;
 
----
+ d) Giám sát an ninh mạng;
 
+ đ) Ứng phó, khắc phục sự cố an ninh mạng;
 
-### Điều 1.11.LQ.11. Thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
+ e) Đấu tranh bảo vệ an ninh mạng;
 
-1. Thẩm định an ninh mạng là hoạt động xem xét, đánh giá những nội dung về an ninh mạng để làm cơ sở cho việc quyết định xây dựng hoặc nâng cấp hệ thống thông tin.
+ g) Sử dụng mật mã để bảo vệ thông tin mạng;
 
-**Chỉ mục:** 11
+ h) Ngăn chặn, yêu cầu tạm ngừng, ngừng cung cấp thông tin mạng; đình chỉ, tạm đình chỉ các hoạt động thiết lập, cung cấp và sử dụng mạng viễn thông, mạng Internet, sản xuất và sử dụng thiết bị phát, thu phát sóng vô tuyến theo quy định của pháp luật;
 
-**Mã phân cấp:** 0101100000000000200001100000000000000000
+ i) Yêu cầu xóa bỏ, truy cập xóa bỏ thông tin trái pháp luật hoặc thông tin sai sự thật trên không gian mạng xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
 
-**ID:** dk_00001917
+ k) Thu thập dữ liệu điện tử liên quan đến hoạt động xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân trên không gian mạng;
 
----
+ l) Phong tỏa, hạn chế hoạt động của hệ thống thông tin; đình chỉ, tạm đình chỉ hoặc yêu cầu ngừng hoạt động của hệ thống thông tin, thu hồi tên miền theo quy định của pháp luật;
 
+ m) Khởi tố, điều tra, truy tố, xét xử theo quy định của Bộ luật Tố tụng hình sự;
 
-### Điều 1.11.LQ.12. Đánh giá điều kiện an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
+ n) Biện pháp khác theo quy định của pháp luật về an ninh quốc gia, pháp luật về xử lý vi phạm hành chính.
 
-1. Đánh giá điều kiện về an ninh mạng là hoạt động xem xét sự đáp ứng về an ninh mạng của hệ thống thông tin trước khi đưa vào vận hành, sử dụng.
+ 2. Chính phủ quy định trình tự, thủ tục áp dụng biện pháp bảo vệ an ninh mạng, trừ biện pháp quy định tại điểm m và điểm n khoản 1 Điều này.(Điều này có nội dung liên quan đến Điều 37.7.LQ.1. Phạm vi điều chỉnh)
 
-**Chỉ mục:** 12
+Điều 1.11.LQ.6. Bảo vệ không gian mạng quốc gia
 
-**Mã phân cấp:** 0101100000000000200001200000000000000000
+(Điều 6 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00001918
+ Nhà nước áp dụng các biện pháp để bảo vệ không gian mạng quốc gia; phòng ngừa, xử lý hành vi xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân trên không gian mạng.(Điều này có nội dung liên quan đến Điều 25.13.LQ.7. Nền quốc phòng toàn dân; Điều 25.13.LQ.8. Phòng thủ quân khu; Điều 25.13.LQ.9. Khu vực phòng thủ)
 
----
+Điều 1.11.LQ.7. Hợp tác quốc tế về an ninh mạng
 
+(Điều 7 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 1.11.LQ.13. Kiểm tra an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
+ 1. Hợp tác quốc tế về an ninh mạng được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.
 
-1. Kiểm tra an ninh mạng là hoạt động xác định thực trạng an ninh mạng của hệ thống thông tin, cơ sở hạ tầng hệ thống thông tin hoặc thông tin được lưu trữ, xử lý, truyền đưa trong hệ thống thông tin nhằm phòng ngừa, phát hiện, xử lý nguy cơ đe dọa an ninh mạng và đưa ra các phương án, biện pháp bảo đảm hoạt động bình thường của hệ thống thông tin.
+ 2. Nội dung hợp tác quốc tế về an ninh mạng bao gồm:
 
-**Chỉ mục:** 13
+ a) Nghiên cứu, phân tích xu hướng an ninh mạng;
 
-**Mã phân cấp:** 0101100000000000200001300000000000000000
+ b) Xây dựng cơ chế, chính sách nhằm đẩy mạnh hợp tác giữa tổ chức, cá nhân Việt Nam với tổ chức, cá nhân nước ngoài, tổ chức quốc tế hoạt động về an ninh mạng;
 
-**ID:** dk_00001919
+ c) Chia sẻ thông tin, kinh nghiệm; hỗ trợ đào tạo, trang thiết bị, công nghệ bảo vệ an ninh mạng;
 
----
+ d) Phòng, chống tội phạm mạng, hành vi xâm phạm an ninh mạng; ngăn ngừa các nguy cơ đe dọa an ninh mạng;
 
+ đ) Tư vấn, đào tạo và phát triển nguồn nhân lực an ninh mạng;
 
-### Điều 1.11.LQ.14. Giám sát an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
+ e) Tổ chức hội nghị, hội thảo và diễn đàn quốc tế về an ninh mạng;
 
-1. Giám sát an ninh mạng là hoạt động thu thập, phân tích tình hình nhằm xác định nguy cơ đe dọa an ninh mạng, sự cố an ninh mạng, điểm yếu, lỗ hổng bảo mật, mã độc, phần cứng độc hại để cảnh báo, khắc phục, xử lý.
+ g) Ký kết và thực hiện điều ước quốc tế, thỏa thuận quốc tế về an ninh mạng;
 
-**Chỉ mục:** 14
+ h) Thực hiện chương trình, dự án hợp tác quốc tế về an ninh mạng;
 
-**Mã phân cấp:** 0101100000000000200001400000000000000000
+ i) Hoạt động hợp tác quốc tế khác về an ninh mạng.
 
-**ID:** dk_00001920
+ 3. Bộ Công an chịu trách nhiệm trước Chính phủ chủ trì, phối hợp thực hiện hợp tác quốc tế về an ninh mạng, trừ hoạt động hợp tác quốc tế của Bộ Quốc phòng.
 
----
+ Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện hợp tác quốc tế về an ninh mạng trong phạm vi quản lý.
 
+ Bộ Ngoại giao có trách nhiệm phối hợp với Bộ Công an, Bộ Quốc phòng trong hoạt động hợp tác quốc tế về an ninh mạng.
 
-### Điều 1.11.LQ.15. Ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
+ Trường hợp hợp tác quốc tế về an ninh mạng có liên quan đến trách nhiệm của nhiều Bộ, ngành do Chính phủ quyết định.
 
-1. Hoạt động ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia bao gồm:
+ 4. Hoạt động hợp tác quốc tế về an ninh mạng của Bộ, ngành khác, của địa phương phải có văn bản tham gia ý kiến của Bộ Công an trước khi triển khai, trừ hoạt động hợp tác quốc tế của Bộ Quốc phòng.Điều 1.11.LQ.8. Các hành vi bị nghiêm cấm về an ninh mạng
 
-**Chỉ mục:** 15
+(Điều 8 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 0101100000000000200001500000000000000000
+ 1. Sử dụng không gian mạng để thực hiện hành vi sau đây:
 
-**ID:** dk_00001921
+ a) Hành vi quy định tại khoản 1 Điều 18 của Luật này;
 
----
+ b) Tổ chức, hoạt động, câu kết, xúi giục, mua chuộc, lừa gạt, lôi kéo, đào tạo, huấn luyện người chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
+ c) Xuyên tạc lịch sử, phủ nhận thành tựu cách mạng, phá hoại khối đại đoàn kết toàn dân tộc, xúc phạm tôn giáo, phân biệt đối xử về giới, phân biệt chủng tộc;
 
-### Điều 1.11.LQ.16. Phòng ngừa, xử lý thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng; làm nhục, vu khống; xâm phạm trật tự quản lý kinh tế
+ d) Thông tin sai sự thật gây hoang mang trong Nhân dân, gây thiệt hại cho hoạt động kinh tế - xã hội, gây khó khăn cho hoạt động của cơ quan nhà nước hoặc người thi hành công vụ, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác;
 
-1. Thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm:
+ đ) Hoạt động mại dâm, tệ nạn xã hội, mua bán người; đăng tải thông tin dâm ô, đồi trụy, tội ác; phá hoại thuần phong, mỹ tục của dân tộc, đạo đức xã hội, sức khỏe của cộng đồng;
 
-**Chỉ mục:** 16
+ e) Xúi giục, lôi kéo, kích động người khác phạm tội.
 
-**Mã phân cấp:** 0101100000000000300001600000000000000000
+ 2. Thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.
 
-**ID:** dk_00001923
+ 3. Sản xuất, đưa vào sử dụng công cụ, phương tiện, phần mềm hoặc có hành vi cản trở, gây rối loạn hoạt động của mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, phương tiện điện tử; phát tán chương trình tin học gây hại cho hoạt động của mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, phương tiện điện tử; xâm nhập trái phép vào mạng viễn thông, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử của người khác.
 
----
+ 4. Chống lại hoặc cản trở hoạt động của lực lượng bảo vệ an ninh mạng; tấn công, vô hiệu hóa trái pháp luật làm mất tác dụng biện pháp bảo vệ an ninh mạng.
 
+ 5. Lợi dụng hoặc lạm dụng hoạt động bảo vệ an ninh mạng để xâm phạm chủ quyền, lợi ích, an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân hoặc để trục lợi.
 
-### Điều 1.11.LQ.17. Phòng, chống gián điệp mạng; bảo vệ thông tin thuộc bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên không gian mạng
+ 6. Hành vi khác vi phạm quy định của Luật này.(Điều này có nội dung liên quan đến Điều 41.9.NĐ.1.13. Hoạt động cung cấp dịch vụ quảng cáo xuyên biên giới tại Việt Nam; Điều 3.4.NĐ.5.5. Quyền, nghĩa vụ và các hành vi không được làm của tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính trên môi trường điện tử; Điều 3.3.NĐ.10.3. Giải thích thuật ngữ)
 
-1. Hành vi gián điệp mạng; xâm phạm bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên không gian mạng bao gồm:
+Điều 1.11.LQ.9. Xử lý vi phạm pháp luật về an ninh mạng
 
-**Chỉ mục:** 17
+(Điều 9 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 0101100000000000300001700000000000000000
+ Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**ID:** dk_00001924
+ (Điều này có nội dung liên quan đến Điều 39.13.LQ.1. Phạm vi điều chỉnh; Điều 16.1.LQ.1. Nhiệm vụ của Bộ luật Hình sự của Bộ luật 100/2015/QH13 Hình sự ban hành ngày 27/11/2015)
 
----
+Chương II
 
+BẢO VỆ AN NINH MẠNG ĐỐI VỚI HỆ THỐNG THÔNG TINQUAN TRỌNG VỀ AN NINH QUỐC GIA
 
-### Điều 1.11.LQ.18. Phòng, chống hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội
+Điều 1.11.LQ.10. Hệ thống thông tin quan trọng về an ninh quốc gia
 
-1. Hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội bao gồm:
+(Điều 10 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 18
+ 1. Hệ thống thông tin quan trọng về an ninh quốc gia là hệ thống thông tin khi bị sự cố, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt, tấn công hoặc phá hoại sẽ xâm phạm nghiêm trọng an ninh mạng.
 
-**Mã phân cấp:** 0101100000000000300001800000000000000000
+ 2. Hệ thống thông tin quan trọng về an ninh quốc gia bao gồm:
 
-**ID:** dk_00001925
+ a) Hệ thống thông tin quân sự, an ninh, ngoại giao, cơ yếu;
 
----
+ b) Hệ thống thông tin lưu trữ, xử lý thông tin thuộc bí mật nhà nước;
 
+ c) Hệ thống thông tin phục vụ lưu giữ, bảo quản hiện vật, tài liệu có giá trị đặc biệt quan trọng;
 
-### Điều 1.11.LQ.19. Phòng, chống tấn công mạng
+ d) Hệ thống thông tin phục vụ bảo quản vật liệu, chất đặc biệt nguy hiểm đối với con người, môi trường sinh thái;
 
-1. Hành vi tấn công mạng và hành vi có liên quan đến tấn công mạng bao gồm:
+ đ) Hệ thống thông tin phục vụ bảo quản, chế tạo, quản lý cơ sở vật chất đặc biệt quan trọng khác liên quan đến an ninh quốc gia;
 
-**Chỉ mục:** 19
+ e) Hệ thống thông tin quan trọng phục vụ hoạt động của cơ quan, tổ chức ở trung ương;
 
-**Mã phân cấp:** 0101100000000000300001900000000000000000
+ g) Hệ thống thông tin quốc gia thuộc lĩnh vực năng lượng, tài chính, ngân hàng, viễn thông, giao thông vận tải, tài nguyên và môi trường, hóa chất, y tế, văn hóa, báo chí;
 
-**ID:** dk_00001926
+ h) Hệ thống điều khiển và giám sát tự động tại công trình quan trọng liên quan đến an ninh quốc gia, mục tiêu quan trọng về an ninh quốc gia.
 
----
+ 3. Thủ tướng Chính phủ ban hành và sửa đổi, bổ sung Danh mục hệ thống thông tin quan trọng về an ninh quốc gia.
 
+ 4. Chính phủ quy định việc phối hợp giữa Bộ Công an, Bộ Quốc phòng, Bộ Thông tin và Truyền thông, Ban Cơ yếu Chính phủ, các Bộ, ngành chức năng trong việc thẩm định, đánh giá, kiểm tra, giám sát, ứng phó, khắc phục sự cố đối với hệ thống thông tin quan trọng về an ninh quốc gia.(Điều này có nội dung liên quan đến Điều 1.3.PL.11. Tiêu chí xác định công trình quan trọng liên quan đến an ninh quốc gia; Điều 1.3.NĐ.1.7. Tiêu chí xác định công trình thuộc danh mục công trình quan trọng liên quan đến an ninh quốc gia)
 
-### Điều 1.11.LQ.20. Phòng, chống khủng bố mạng
+Điều 1.11.LQ.11. Thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
 
-1. Cơ quan nhà nước có thẩm quyền có trách nhiệm áp dụng biện pháp theo quy định của Luật này, Điều 29 của Luật An toàn thông tin mạng và pháp luật về phòng, chống khủng bố để xử lý khủng bố mạng.
+(Điều 11 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 20
+ 1. Thẩm định an ninh mạng là hoạt động xem xét, đánh giá những nội dung về an ninh mạng để làm cơ sở cho việc quyết định xây dựng hoặc nâng cấp hệ thống thông tin.
 
-**Mã phân cấp:** 0101100000000000300002000000000000000000
+ 2. Đối tượng thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia bao gồm:
 
-**ID:** dk_00001927
+ a) Báo cáo nghiên cứu tiền khả thi, hồ sơ thiết kế thi công dự án đầu tư xây dựng hệ thống thông tin trước khi phê duyệt;
 
----
+ b) Đề án nâng cấp hệ thống thông tin trước khi phê duyệt.
 
+ 3. Nội dung thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia bao gồm:
 
-### Điều 1.11.LQ.21. Phòng ngừa, xử lý tình huống nguy hiểm về an ninh mạng
+ a) Việc tuân thủ quy định, điều kiện an ninh mạng trong thiết kế;
 
-1. Tình huống nguy hiểm về an ninh mạng bao gồm:
+ b) Sự phù hợp với phương án bảo vệ, ứng phó, khắc phục sự cố và bố trí nhân lực bảo vệ an ninh mạng.
 
-**Chỉ mục:** 21
+ 4. Thẩm quyền thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia được quy định như sau:
 
-**Mã phân cấp:** 0101100000000000300002100000000000000000
+ a) Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia, trừ trường hợp quy định tại điểm b và điểm c khoản này;
 
-**ID:** dk_00001928
+ b) Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng thẩm định an ninh mạng đối với hệ thống thông tin quân sự;
 
----
+ c) Ban Cơ yếu Chính phủ thẩm định an ninh mạng đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ.Điều 1.11.LQ.12. Đánh giá điều kiện an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
 
+(Điều 12 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 1.11.LQ.22. Đấu tranh bảo vệ an ninh mạng
+ 1. Đánh giá điều kiện về an ninh mạng là hoạt động xem xét sự đáp ứng về an ninh mạng của hệ thống thông tin trước khi đưa vào vận hành, sử dụng.
 
-1. Đấu tranh bảo vệ an ninh mạng là hoạt động có tổ chức do lực lượng chuyên trách bảo vệ an ninh mạng thực hiện trên không gian mạng nhằm bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội.
+ 2. Hệ thống thông tin quan trọng về an ninh quốc gia phải đáp ứng các điều kiện sau đây về:
 
-**Chỉ mục:** 22
+ a) Quy định, quy trình và phương án bảo đảm an ninh mạng; nhân sự vận hành, quản trị hệ thống;
 
-**Mã phân cấp:** 0101100000000000300002200000000000000000
+ b) Bảo đảm an ninh mạng đối với trang thiết bị, phần cứng, phần mềm là thành phần hệ thống;
 
-**ID:** dk_00001929
+ c) Biện pháp kỹ thuật để giám sát, bảo vệ an ninh mạng; biện pháp bảo vệ hệ thống điều khiển và giám sát tự động, Internet vạn vật, hệ thống phức hợp thực - ảo, điện toán đám mây, hệ thống dữ liệu lớn, hệ thống dữ liệu nhanh, hệ thống trí tuệ nhân tạo;
 
----
+ d) Biện pháp bảo đảm an ninh vật lý bao gồm cách ly cô lập đặc biệt, chống rò rỉ dữ liệu, chống thu tin, kiểm soát ra vào.
 
+ 3. Thẩm quyền đánh giá điều kiện an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia được quy định như sau:
 
-### Điều 1.11.LQ.23. Triển khai hoạt động bảo vệ an ninh mạng trong cơ quan nhà nước, tổ chức chính trị ở trung ương và địa phương
+ a) Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an đánh giá, chứng nhận đủ điều kiện an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia, trừ trường hợp quy định tại điểm b và điểm c khoản này;
 
-1. Nội dung triển khai hoạt động bảo vệ an ninh mạng bao gồm:
+ b) Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng đánh giá, chứng nhận đủ điều kiện an ninh mạng đối với hệ thống thông tin quân sự;
 
-**Chỉ mục:** 23
+ c) Ban Cơ yếu Chính phủ đánh giá, chứng nhận đủ điều kiện an ninh mạng đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ.
 
-**Mã phân cấp:** 0101100000000000400002300000000000000000
+ 4. Hệ thống thông tin quan trọng về an ninh quốc gia được đưa vào vận hành, sử dụng sau khi được chứng nhận đủ điều kiện an ninh mạng.
 
-**ID:** dk_00001931
+ 5. Chính phủ quy định chi tiết khoản 2 Điều này.Điều 1.11.LQ.13. Kiểm tra an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
 
----
+(Điều 13 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+ 1. Kiểm tra an ninh mạng là hoạt động xác định thực trạng an ninh mạng của hệ thống thông tin, cơ sở hạ tầng hệ thống thông tin hoặc thông tin được lưu trữ, xử lý, truyền đưa trong hệ thống thông tin nhằm phòng ngừa, phát hiện, xử lý nguy cơ đe dọa an ninh mạng và đưa ra các phương án, biện pháp bảo đảm hoạt động bình thường của hệ thống thông tin.
 
-### Điều 1.11.LQ.24. Kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức không thuộc Danh mục hệ thống thông tin quan trọng về an ninh quốc gia
+ 2. Kiểm tra an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia được thực hiện trong trường hợp sau đây:
 
-1. Kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức không thuộc Danh mục hệ thống thông tin quan trọng về an ninh quốc gia trong trường hợp sau đây:
+ a) Khi đưa phương tiện điện tử, dịch vụ an toàn thông tin mạng vào sử dụng trong hệ thống thông tin;
 
-**Chỉ mục:** 24
+ b) Khi có thay đổi hiện trạng hệ thống thông tin;
 
-**Mã phân cấp:** 0101100000000000400002400000000000000000
+ c) Kiểm tra định kỳ hằng năm;
 
-**ID:** dk_00001932
+ d) Kiểm tra đột xuất khi xảy ra sự cố an ninh mạng, hành vi xâm phạm an ninh mạng; khi có yêu cầu quản lý nhà nước về an ninh mạng; khi hết thời hạn khắc phục điểm yếu, lỗ hổng bảo mật theo khuyến cáo của lực lượng chuyên trách bảo vệ an ninh mạng.
 
----
+ 3. Đối tượng kiểm tra an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia bao gồm:
 
+ a) Hệ thống phần cứng, phần mềm, thiết bị số được sử dụng trong hệ thống thông tin;
 
-### Điều 1.11.LQ.25. Bảo vệ an ninh mạng đối với cơ sở hạ tầng không gian mạng quốc gia, cổng kết nối mạng quốc tế
+ b) Quy định, biện pháp bảo vệ an ninh mạng;
 
-1. Bảo vệ an ninh mạng đối với cơ sở hạ tầng không gian mạng quốc gia, cổng kết nối mạng quốc tế phải bảo đảm kết hợp chặt chẽ giữa yêu cầu bảo vệ an ninh mạng với yêu cầu phát triển kinh tế - xã hội; khuyến khích cổng kết nối quốc tế đặt trên lãnh thổ Việt Nam; khuyến khích tổ chức, cá nhân tham gia đầu tư xây dựng cơ sở hạ tầng không gian mạng quốc gia.
+ c) Thông tin được lưu trữ, xử lý, truyền đưa trong hệ thống thông tin;
 
-**Chỉ mục:** 25
+ d) Phương án ứng phó, khắc phục sự cố an ninh mạng của chủ quản hệ thống thông tin;
 
-**Mã phân cấp:** 0101100000000000400002500000000000000000
+ đ) Biện pháp bảo vệ bí mật nhà nước và phòng, chống lộ, mất bí mật nhà nước qua các kênh kỹ thuật;
 
-**ID:** dk_00001933
+ e) Nhân lực bảo vệ an ninh mạng.
 
----
+ 4. Chủ quản hệ thống thông tin quan trọng về an ninh quốc gia có trách nhiệm kiểm tra an ninh mạng đối với hệ thống thông tin thuộc phạm vi quản lý trong trường hợp quy định tại các điểm a, b và c khoản 2 Điều này; thông báo kết quả kiểm tra bằng văn bản trước tháng 10 hằng năm cho lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an hoặc lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng đối với hệ thống thông tin quân sự.
 
+ 5. Kiểm tra an ninh mạng đột xuất đối với hệ thống thông tin quan trọng về an ninh quốc gia được quy định như sau:
 
-### Điều 1.11.LQ.26. Bảo đảm an ninh thông tin trên không gian mạng
+ a) Trước thời điểm tiến hành kiểm tra, lực lượng chuyên trách bảo vệ an ninh mạng có trách nhiệm thông báo bằng văn bản cho chủ quản hệ thống thông tin ít nhất là 12 giờ trong trường hợp xảy ra sự cố an ninh mạng, hành vi xâm phạm an ninh mạng; ít nhất là 72 giờ trong trường hợp có yêu cầu quản lý nhà nước về an ninh mạng hoặc hết thời hạn khắc phục điểm yếu, lỗ hổng bảo mật theo khuyến cáo của lực lượng chuyên trách bảo vệ an ninh mạng;
 
-1. Trang thông tin điện tử, cổng thông tin điện tử hoặc chuyên trang trên mạng xã hội của cơ quan, tổ chức, cá nhân không được cung cấp, đăng tải, truyền đưa thông tin có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều 16 của Luật này và thông tin khác có nội dung xâm phạm an ninh quốc gia.
+ b) Trong thời hạn 30 ngày kể từ ngày kết thúc kiểm tra, lực lượng chuyên trách bảo vệ an ninh mạng thông báo kết quả kiểm tra và đưa ra yêu cầu đối với chủ quản hệ thống thông tin trong trường hợp phát hiện điểm yếu, lỗ hổng bảo mật; hướng dẫn hoặc tham gia khắc phục khi có đề nghị của chủ quản hệ thống thông tin;
 
-**Chỉ mục:** 26
+ c) Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an kiểm tra an ninh mạng đột xuất đối với hệ thống thông tin quan trọng về an ninh quốc gia, trừ hệ thống thông tin quân sự do Bộ Quốc phòng quản lý, hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ và sản phẩm mật mã do Ban Cơ yếu Chính phủ cung cấp để bảo vệ thông tin thuộc bí mật nhà nước.
 
-**Mã phân cấp:** 0101100000000000400002600000000000000000
+ Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng kiểm tra an ninh mạng đột xuất đối với hệ thống thông tin quân sự.
 
-**ID:** dk_00001934
+ Ban Cơ yếu Chính phủ kiểm tra an ninh mạng đột xuất đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ và sản phẩm mật mã do Ban Cơ yếu Chính phủ cung cấp để bảo vệ thông tin thuộc bí mật nhà nước;
 
----
+ d) Chủ quản hệ thống thông tin quan trọng về an ninh quốc gia có trách nhiệm phối hợp với lực lượng chuyên trách bảo vệ an ninh mạng tiến hành kiểm tra an ninh mạng đột xuất.
 
+ 6. Kết quả kiểm tra an ninh mạng được bảo mật theo quy định của pháp luật.Điều 1.11.LQ.14. Giám sát an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
 
-### Điều 1.11.NĐ.1.3. Nguyên tắc bảo vệ dữ liệu cá nhân
+(Điều 14 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-1. Dữ liệu cá nhân được xử lý theo quy định của pháp luật.
+ 1. Giám sát an ninh mạng là hoạt động thu thập, phân tích tình hình nhằm xác định nguy cơ đe dọa an ninh mạng, sự cố an ninh mạng, điểm yếu, lỗ hổng bảo mật, mã độc, phần cứng độc hại để cảnh báo, khắc phục, xử lý.
 
-**Chỉ mục:** 3
+ 2. Chủ quản hệ thống thông tin quan trọng về an ninh quốc gia chủ trì, phối hợp với lực lượng chuyên trách bảo vệ an ninh mạng có thẩm quyền thường xuyên thực hiện giám sát an ninh mạng đối với hệ thống thông tin thuộc phạm vi quản lý; xây dựng cơ chế tự cảnh báo và tiếp nhận cảnh báo về nguy cơ đe dọa an ninh mạng, sự cố an ninh mạng, điểm yếu, lỗ hổng bảo mật, mã độc, phần cứng độc hại và đề ra phương án ứng phó, khắc phục khẩn cấp.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130000300
+ 3. Lực lượng chuyên trách bảo vệ an ninh mạng thực hiện giám sát an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia thuộc phạm vi quản lý; cảnh báo và phối hợp với chủ quản hệ thống thông tin trong khắc phục, xử lý các nguy cơ đe dọa an ninh mạng, sự cố an ninh mạng, điểm yếu, lỗ hổng bảo mật, mã độc, phần cứng độc hại xảy ra đối với hệ thống thông tin quan trọng về an ninh quốc gia.Điều 1.11.LQ.15. Ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
 
-**ID:** dk_00001935
+(Điều 15 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+ 1. Hoạt động ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia bao gồm:
 
+ a) Phát hiện, xác định sự cố an ninh mạng;
 
-### Điều 1.11.NĐ.1.4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân
+ b) Bảo vệ hiện trường, thu thập chứng cứ;
 
-Cơ quan, tổ chức, cá nhân vi phạm quy định bảo vệ dữ liệu cá nhân tùy theo mức độ có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính, xử lý hình sự theo quy định.
+ c) Phong tỏa, giới hạn phạm vi xảy ra sự cố an ninh mạng, hạn chế thiệt hại do sự cố an ninh mạng gây ra;
 
-**Chỉ mục:** 4
+ d) Xác định mục tiêu, đối tượng, phạm vi cần ứng cứu;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130000400
+ đ) Xác minh, phân tích, đánh giá, phân loại sự cố an ninh mạng;
 
-**ID:** dk_00001936
+ e) Triển khai phương án ứng phó, khắc phục sự cố an ninh mạng;
 
----
+ g) Xác minh nguyên nhân và truy tìm nguồn gốc;
 
+ h) Điều tra, xử lý theo quy định của pháp luật.
 
-### Điều 1.11.NĐ.1.5. Quản lý nhà nước về bảo vệ dữ liệu cá nhân
+ 2. Chủ quản hệ thống thông tin quan trọng về an ninh quốc gia xây dựng phương án ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin thuộc phạm vi quản lý; triển khai phương án ứng phó, khắc phục khi sự cố an ninh mạng xảy ra và kịp thời báo cáo với lực lượng chuyên trách bảo vệ an ninh mạng có thẩm quyền.
 
-Chính phủ thống nhất quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+ 3. Điều phối hoạt động ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia được quy định như sau:
 
-**Chỉ mục:** 5
+ a) Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an chủ trì điều phối hoạt động ứng phó, khắc phục sự cố an ninh mạng xảy ra đối với hệ thống thông tin quan trọng về an ninh quốc gia, trừ trường hợp quy định tại điểm b và điểm c khoản này; tham gia ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia khi có yêu cầu; thông báo cho chủ quản hệ thống thông tin khi phát hiện có tấn công mạng, sự cố an ninh mạng;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130000500
+ b) Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng chủ trì điều phối hoạt động ứng phó, khắc phục sự cố an ninh mạng xảy ra đối với hệ thống thông tin quân sự;
 
-**ID:** dk_00001937
+ c) Ban Cơ yếu Chính phủ chủ trì điều phối hoạt động ứng phó, khắc phục sự cố an ninh mạng xảy ra đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ.
 
----
+ 4. Cơ quan, tổ chức, cá nhân có trách nhiệm tham gia ứng phó, khắc phục sự cố an ninh mạng xảy ra đối với hệ thống thông tin quan trọng về an ninh quốc gia khi có yêu cầu của lực lượng chủ trì điều phối.Chương III
 
+PHÒNG NGỪA, XỬ LÝ HÀNH VI XÂM PHẠM AN NINH MẠNG
 
-### Điều 1.11.NĐ.1.6. Áp dụng Nghị định bảo vệ dữ liệu cá nhân, các luật liên quan và Điều ước quốc tế
+Điều 1.11.LQ.16. Phòng ngừa, xử lý thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng; làm nhục, vu khống; xâm phạm trật tự quản lý kinh tế
 
-Việc bảo vệ dữ liệu cá nhân được thực hiện theo quy định các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, các quy định khác của Luật có liên quan và Nghị định này.
+(Điều 16 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 6
+ 1. Thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm:
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130000600
+ a) Tuyên truyền xuyên tạc, phỉ báng chính quyền nhân dân;
 
-**ID:** dk_00001938
+ b) Chiến tranh tâm lý, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước;
 
----
+ c) Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc.
 
+ 2. Thông tin trên không gian mạng có nội dung kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng bao gồm:
 
-### Điều 1.11.NĐ.1.7. Hợp tác quốc tế về bảo vệ dữ liệu cá nhân
+ a) Kêu gọi, vận động, xúi giục, đe dọa, gây chia rẽ, tiến hành hoạt động vũ trang hoặc dùng bạo lực nhằm chống chính quyền nhân dân;
 
-1. Xây dựng cơ chế hợp tác quốc tế để tạo điều kiện cho việc thực thi có hiệu quả pháp luật về bảo vệ dữ liệu cá nhân.
+ b) Kêu gọi, vận động, xúi giục, đe dọa, lôi kéo tụ tập đông người gây rối, chống người thi hành công vụ, cản trở hoạt động của cơ quan, tổ chức gây mất ổn định về an ninh, trật tự.
 
-**Chỉ mục:** 7
+ 3. Thông tin trên không gian mạng có nội dung làm nhục, vu khống bao gồm:
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130000700
+ a) Xúc phạm nghiêm trọng danh dự, uy tín, nhân phẩm của người khác;
 
-**ID:** dk_00001939
+ b) Thông tin bịa đặt, sai sự thật xâm phạm danh dự, uy tín, nhân phẩm hoặc gây thiệt hại đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác.
 
----
+ 4. Thông tin trên không gian mạng có nội dung xâm phạm trật tự quản lý kinh tế bao gồm:
 
+ a) Thông tin bịa đặt, sai sự thật về sản phẩm, hàng hóa, tiền, trái phiếu, tín phiếu, công trái, séc và các loại giấy tờ có giá khác;
 
-### Điều 1.11.NĐ.1.8. Hành vi bị nghiêm cấm
+ b) Thông tin bịa đặt, sai sự thật trong lĩnh vực tài chính, ngân hàng, thương mại điện tử, thanh toán điện tử, kinh doanh tiền tệ, huy động vốn, kinh doanh đa cấp, chứng khoán.
 
-1. Xử lý dữ liệu cá nhân trái với quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+ 5. Thông tin trên không gian mạng có nội dung bịa đặt, sai sự thật gây hoang mang trong Nhân dân, gây thiệt hại cho hoạt động kinh tế - xã hội, gây khó khăn cho hoạt động của cơ quan nhà nước hoặc người thi hành công vụ, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác.
 
-**Chỉ mục:** 8
+ 6. Chủ quản hệ thống thông tin có trách nhiệm triển khai biện pháp quản lý, kỹ thuật để phòng ngừa, phát hiện, ngăn chặn, gỡ bỏ thông tin có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều này trên hệ thống thông tin thuộc phạm vi quản lý khi có yêu cầu của lực lượng chuyên trách bảo vệ an ninh mạng.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130000800
+ 7. Lực lượng chuyên trách bảo vệ an ninh mạng và cơ quan có thẩm quyền áp dụng biện pháp quy định tại các điểm h, i và l khoản 1 Điều 5 của Luật này để xử lý thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều này.
 
-**ID:** dk_00001940
+ 8. Doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet,các dịch vụ gia tăng trên không gian mạng và chủ quản hệ thống thông tin có trách nhiệm phối hợp với cơ quan chức năng xử lý thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều này.
 
----
+ 9. Tổ chức, cá nhân soạn thảo, đăng tải, phát tán thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều này phải gỡ bỏ thông tin khi có yêu cầu của lực lượng chuyên trách bảo vệ an ninh mạng và chịu trách nhiệm theo quy định của pháp luật.Điều 1.11.LQ.17. Phòng, chống gián điệp mạng; bảo vệ thông tin thuộc bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên không gian mạng
 
+(Điều 17 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 1.11.NĐ.1.9. Quyền của chủ thể dữ liệu
+ 1. Hành vi gián điệp mạng; xâm phạm bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên không gian mạng bao gồm:
 
-1. Quyền được biết
+ a) Chiếm đoạt, mua bán, thu giữ, cố ý làm lộ thông tin thuộc bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư gây ảnh hưởng đến danh dự, uy tín, nhân phẩm, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
 
-**Chỉ mục:** 9
+ b) Cố ý xóa, làm hư hỏng, thất lạc, thay đổi thông tin thuộc bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư được truyền đưa, lưu trữ trên không gian mạng;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130000900
+ c) Cố ý thay đổi, hủy bỏ hoặc làm vô hiệu hóa biện pháp kỹ thuật được xây dựng, áp dụng để bảo vệ thông tin thuộc bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư;
 
-**ID:** dk_00001941
+ d) Đưa lên không gian mạng những thông tin thuộc bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trái quy định của pháp luật;
 
----
+ đ) Cố ý nghe, ghi âm, ghi hình trái phép các cuộc đàm thoại;
 
+ e) Hành vi khác cố ý xâm phạm bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư.
 
-### Điều 1.11.NĐ.1.10. Nghĩa vụ của chủ thể dữ liệu
+ 2. Chủ quản hệ thống thông tin có trách nhiệm sau đây:
 
-1. Tự bảo vệ dữ liệu cá nhân của mình; yêu cầu các tổ chức, cá nhân khác có liên quan bảo vệ dữ liệu cá nhân của mình.
+ a) Kiểm tra an ninh mạng nhằm phát hiện, loại bỏ mã độc, phần cứng độc hại, khắc phục điểm yếu, lỗ hổng bảo mật; phát hiện, ngăn chặn và xử lý các hoạt động xâm nhập bất hợp pháp hoặc nguy cơ khác đe dọa an ninh mạng;
 
-**Chỉ mục:** 10
+ b) Triển khai biện pháp quản lý, kỹ thuật để phòng ngừa, phát hiện, ngăn chặn hành vi gián điệp mạng, xâm phạm bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên hệ thống thông tin và kịp thời gỡ bỏ thông tin liên quan đến hành vi này;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001000
+ c) Phối hợp, thực hiện yêu cầu của lực lượng chuyên trách an ninh mạng về phòng, chống gián điệp mạng, bảo vệ thông tin thuộc bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên hệ thống thông tin.
 
-**ID:** dk_00001942
+ 3. Cơ quan soạn thảo, lưu trữ thông tin, tài liệu thuộc bí mật nhà nước có trách nhiệm bảo vệ bí mật nhà nước được soạn thảo, lưu giữ trên máy tính, thiết bị khác hoặc trao đổi trên không gian mạng theo quy định của pháp luật về bảo vệ bí mật nhà nước.
 
----
+ 4. Bộ Công an có trách nhiệm sau đây, trừ quy định tại khoản 5 và khoản 6 Điều này:
 
+ a) Kiểm tra an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia nhằm phát hiện, loại bỏ mã độc, phần cứng độc hại, khắc phục điểm yếu, lỗ hổng bảo mật; phát hiện, ngăn chặn, xử lý hoạt động xâm nhập bất hợp pháp;
 
-### Điều 1.11.NĐ.1.11. Sự đồng ý của chủ thể dữ liệu
+ b) Kiểm tra an ninh mạng đối với thiết bị, sản phẩm, dịch vụ thông tin liên lạc, thiết bị kỹ thuật số, thiết bị điện tử trước khi đưa vào sử dụng trong hệ thống thông tin quan trọng về an ninh quốc gia;
 
-1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động trong quy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.
+ c) Giám sát an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia nhằm phát hiện, xử lý hoạt động thu thập trái phép thông tin thuộc bí mật nhà nước;
 
-**Chỉ mục:** 11
+ d) Phát hiện, xử lý các hành vi đăng tải, lưu trữ, trao đổi trái phép thông tin, tài liệu có nội dung thuộc bí mật nhà nước trên không gian mạng;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001100
+ đ) Tham gia nghiên cứu, sản xuất sản phẩm lưu trữ, truyền đưa thông tin, tài liệu có nội dung thuộc bí mật nhà nước; sản phẩm mã hóa thông tin trên không gian mạng theo chức năng, nhiệm vụ được giao;
 
-**ID:** dk_00001943
+ e) Thanh tra, kiểm tra công tác bảo vệ bí mật nhà nước trên không gian mạng của cơ quan nhà nước và bảo vệ an ninh mạng của chủ quản hệ thống thông tin quan trọng về an ninh quốc gia;
 
----
+ g) Tổ chức đào tạo, tập huấn nâng cao nhận thức và kiến thức về bảo vệ bí mật nhà nước trên không gian mạng, phòng, chống tấn công mạng, bảo vệ an ninh mạng đối với lực lượng bảo vệ an ninh mạng quy định tại khoản 2 Điều 30 của Luật này.
 
+ 5. Bộ Quốc phòng có trách nhiệm thực hiện các nội dung quy định tại các điểm a, b, c, d, đ và e khoản 4 Điều này đối với hệ thống thông tin quân sự.
 
-### Điều 1.11.NĐ.1.12. Rút lại sự đồng ý
+ 6. Ban Cơ yếu Chính phủ có trách nhiệm tổ chức thực hiện các quy định của pháp luật trong việc sử dụng mật mã để bảo vệ thông tin thuộc bí mật nhà nước được lưu trữ, trao đổi trên không gian mạng.(Điều này có nội dung liên quan đến Điều 1.2.LQ.1. Phạm vi điều chỉnh; Điều 1.2.NĐ.1.1. Phạm vi điều chỉnh)
 
-1. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ liệu đã được đồng ý trước khi rút lại sự đồng ý.
+Điều 1.11.LQ.18. Phòng, chống hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội
 
-**Chỉ mục:** 12
+(Điều 18 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001200
+ 1. Hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội bao gồm:
 
-**ID:** dk_00001944
+ a) Đăng tải, phát tán thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều 16 và hành vi quy định tại khoản 1 Điều 17 của Luật này;
 
----
+ b) Chiếm đoạt tài sản; tổ chức đánh bạc, đánh bạc qua mạng Internet; trộm cắp cước viễn thông quốc tế trên nền Internet; vi phạm bản quyền và sở hữu trí tuệ trên không gian mạng;
 
+ c) Giả mạo trang thông tin điện tử của cơ quan, tổ chức, cá nhân; làm giả, lưu hành, trộm cắp, mua bán, thu thập, trao đổi trái phép thông tin thẻ tín dụng, tài khoản ngân hàng của người khác; phát hành, cung cấp, sử dụng trái phép các phương tiện thanh toán;
 
-### Điều 1.11.NĐ.1.13. Thông báo xử lý dữ liệu cá nhân
+ d) Tuyên truyền, quảng cáo, mua bán hàng hóa, dịch vụ thuộc danh mục cấm theo quy định của pháp luật;
 
-1. Việc thông báo được thực hiện một lần trước khi tiến hành đối với hoạt động xử lý dữ liệu cá nhân.
+ đ) Hướng dẫn người khác thực hiện hành vi vi phạm pháp luật;
 
-**Chỉ mục:** 13
+ e) Hành vi khác sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001300
+ 2. Lực lượng chuyên trách bảo vệ an ninh mạng có trách nhiệm phòng, chống hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội.Điều 1.11.LQ.19. Phòng, chống tấn công mạng
 
-**ID:** dk_00001945
+(Điều 19 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+ 1. Hành vi tấn công mạng và hành vi có liên quan đến tấn công mạng bao gồm:
 
+ a) Phát tán chương trình tin học gây hại cho mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử;
 
-### Điều 1.11.NĐ.1.14. Cung cấp dữ liệu cá nhân
+ b) Gây cản trở, rối loạn, làm tê liệt, gián đoạn, ngưng trệ hoạt động, ngăn chặn trái phép việc truyền đưa dữ liệu của mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, phương tiện điện tử;
 
-1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình.
+ c) Xâm nhập, làm tổn hại, chiếm đoạt dữ liệu được lưu trữ, truyền đưa qua mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử;
 
-**Chỉ mục:** 14
+ d) Xâm nhập, tạo ra hoặc khai thác điểm yếu, lỗ hổng bảo mật và dịch vụ hệ thống để chiếm đoạt thông tin, thu lợi bất chính;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001400
+ đ) Sản xuất, mua bán, trao đổi, tặng cho công cụ, thiết bị, phần mềm có tính năng tấn công mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử để sử dụng vào mục đích trái pháp luật;
 
-**ID:** dk_00001946
+ e) Hành vi khác gây ảnh hưởng đến hoạt động bình thường của mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử.
 
----
+ 2. Chủ quản hệ thống thông tin có trách nhiệm áp dụng biện pháp kỹ thuật để phòng ngừa, ngăn chặn hành vi quy định tại các điểm a, b, c, d và e khoản 1 Điều này đối với hệ thống thông tin thuộc phạm vi quản lý.
 
+ 3. Khi xảy ra tấn công mạng xâm phạm hoặc đe dọa xâm phạm chủ quyền, lợi ích, an ninh quốc gia, gây tổn hại nghiêm trọng trật tự, an toàn xã hội, lực lượng chuyên trách bảo vệ an ninh mạng chủ trì, phối hợp với chủ quản hệ thống thông tin và tổ chức, cá nhân có liên quan áp dụng biện pháp xác định nguồn gốc tấn công mạng, thu thập chứng cứ; yêu cầu doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng chặn lọc thông tin để ngăn chặn, loại trừ hành vi tấn công mạng và cung cấp đầy đủ, kịp thời thông tin, tài liệu liên quan.
 
-### Điều 1.11.NĐ.1.15. Chỉnh sửa dữ liệu cá nhân
+ 4. Trách nhiệm phòng, chống tấn công mạng được quy định như sau:
 
-1. Chủ thể dữ liệu:
+ a) Bộ Công an chủ trì, phối hợp với Bộ, ngành có liên quan thực hiện công tác phòng ngừa, phát hiện, xử lý hành vi quy định tại khoản 1 Điều này xâm phạm hoặc đe dọa xâm phạm chủ quyền, lợi ích, an ninh quốc gia, gây tổn hại nghiêm trọng trật tự, an toàn xã hội trên phạm vi cả nước, trừ trường hợp quy định tại điểm b và điểm c khoản này;
 
-**Chỉ mục:** 15
+ b) Bộ Quốc phòng chủ trì, phối hợp với Bộ, ngành có liên quan thực hiện công tác phòng ngừa, phát hiện, xử lý hành vi quy định tại khoản 1 Điều này đối với hệ thống thông tin quân sự;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001500
+ c) Ban Cơ yếu Chính phủ chủ trì, phối hợp với Bộ, ngành có liên quan thực hiện công tác phòng ngừa, phát hiện, xử lý hành vi quy định tại khoản 1 Điều này đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ.Điều 1.11.LQ.20. Phòng, chống khủng bố mạng
 
-**ID:** dk_00001947
+(Điều 20 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+ 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm áp dụng biện pháp theo quy định của Luật này, Điều 29 của Luật An toàn thông tin mạng và pháp luật về phòng, chống khủng bố để xử lý khủng bố mạng.
 
+ 2. Chủ quản hệ thống thông tin thường xuyên rà soát, kiểm tra hệ thống thông tin thuộc phạm vi quản lý nhằm loại trừ nguy cơ khủng bố mạng.
 
-### Điều 1.11.NĐ.1.16. Lưu trữ, xóa, hủy dữ liệu cá nhân
+ 3. Khi phát hiện dấu hiệu, hành vi khủng bố mạng, cơ quan, tổ chức, cá nhân phải kịp thời báo cho lực lượng bảo vệ an ninh mạng. Cơ quan tiếp nhận tin báo có trách nhiệm tiếp nhận đầy đủ tin báo về khủng bố mạng và kịp thời thông báo cho lực lượng chuyên trách bảo vệ an ninh mạng.
 
-1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường hợp sau:
+ 4. Bộ Công an chủ trì, phối hợp với Bộ, ngành có liên quan triển khai công tác phòng, chống khủng bố mạng, áp dụng biện pháp vô hiệu hóa nguồn khủng bố mạng, xử lý khủng bố mạng, hạn chế đến mức thấp nhất hậu quả xảy ra đối với hệ thống thông tin, trừ trường hợp quy định tại khoản 5 và khoản 6 Điều này.
 
-**Chỉ mục:** 16
+ 5. Bộ Quốc phòng chủ trì, phối hợp với Bộ, ngành có liên quan triển khai công tác phòng, chống khủng bố mạng, áp dụng biện pháp xử lý khủng bố mạng xảy ra đối với hệ thống thông tin quân sự.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001600
+ 6. Ban Cơ yếu Chính phủ chủ trì, phối hợp với Bộ, ngành có liên quan triển khai công tác phòng, chống khủng bố mạng, áp dụng biện pháp xử lý khủng bố mạng xảy ra đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ.(Điều này có nội dung liên quan đến Điều 1.9.LQ.25. Kiểm soát hoạt động xuất bản, báo chí, bưu chính, viễn thông và các hình thức thông tin khác của Luật 28/2013/QH13 Phòng, chống khủng bố ban hành ngày 12/06/2013)
 
-**ID:** dk_00001948
+Điều 1.11.LQ.21. Phòng ngừa, xử lý tình huống nguy hiểm về an ninh mạng
 
----
+(Điều 21 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+ 1. Tình huống nguy hiểm về an ninh mạng bao gồm:
 
-### Điều 1.11.NĐ.1.17. Xử lý dữ liệu cá nhân trong trường hợp không cần sự đồng ý của chủ thể dữ liệu
+ a) Xuất hiện thông tin kích động trên không gian mạng có nguy cơ xảy ra bạo loạn, phá rối an ninh, khủng bố;
 
-1. Trong trường hợp khẩn cấp, cần xử lý ngay dữ liệu cá nhân có liên quan để bảo vệ tính mạng, sức khỏe của chủ thể dữ liệu hoặc người khác. Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên thứ ba có trách nhiệm chứng minh trường hợp này.
+ b) Tấn công vào hệ thống thông tin quan trọng về an ninh quốc gia;
 
-**Chỉ mục:** 17
+ c) Tấn công nhiều hệ thống thông tin trên quy mô lớn, cường độ cao;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001700
+ d) Tấn công mạng nhằm phá hủy công trình quan trọng về an ninh quốc gia, mục tiêu quan trọng về an ninh quốc gia;
 
-**ID:** dk_00001949
+ đ) Tấn công mạng xâm phạm nghiêm trọng chủ quyền, lợi ích, an ninh quốc gia; gây tổn hại đặc biệt nghiêm trọng trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
----
+ 2. Trách nhiệm phòng ngừa tình huống nguy hiểm về an ninh mạng được quy định như sau:
 
+ a) Lực lượng chuyên trách bảo vệ an ninh mạng phối hợp với chủ quản hệ thống thông tin quan trọng về an ninh quốc gia triển khai các giải pháp kỹ thuật, nghiệp vụ để phòng ngừa, phát hiện, xử lý tình huống nguy hiểm về an ninh mạng;
 
-### Điều 1.11.NĐ.1.18. Xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình tại nơi công cộng
+ b) Doanh nghiệp viễn thông, Internet, công nghệ thông tin, doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng và cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp với lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an trong phòng ngừa, phát hiện, xử lý tình huống nguy hiểm về an ninh mạng.
 
-Cơ quan, tổ chức có thẩm quyền được ghi âm, ghi hình và xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình tại nơi công cộng với mục đích bảo vệ an ninh quốc gia, trật tự an toàn xã hội, quyền và lợi ích hợp pháp của tổ chức, cá nhân theo quy định của pháp luật mà không cần có sự đồng ý của chủ thể. Khi thực hiện việc ghi âm, ghi hình, cơ quan, tổ chức có thẩm quyền có trách nhiệm thông báo để chủ thể hiểu được mình đang bị ghi âm, ghi hình, trừ trường hợp pháp luật có quy định khác.
+ 3. Biện pháp xử lý tình huống nguy hiểm về an ninh mạng bao gồm:
 
-**Chỉ mục:** 18
+ a) Triển khai ngay phương án phòng ngừa, ứng phó khẩn cấp về an ninh mạng, ngăn chặn, loại trừ hoặc giảm nhẹ thiệt hại do tình huống nguy hiểm về an ninh mạng gây ra;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001800
+ b) Thông báo đến cơ quan, tổ chức, cá nhân có liên quan;
 
-**ID:** dk_00001950
+ c) Thu thập thông tin liên quan; theo dõi, giám sát liên tục đối với tình huống nguy hiểm về an ninh mạng;
 
----
+ d) Phân tích, đánh giá thông tin, dự báo khả năng, phạm vi ảnh hưởng và mức độ thiệt hại do tình huống nguy hiểm về an ninh mạng gây ra;
 
+ đ) Ngừng cung cấp thông tin mạng tại khu vực cụ thể hoặc ngắt cổng kết nối mạng quốc tế;
 
-### Điều 1.11.NĐ.1.19. Xử lý dữ liệu cá nhân của người bị tuyên bố mất tích, đã chết
+ e) Bố trí lực lượng, phương tiện ngăn chặn, loại bỏ tình huống nguy hiểm về an ninh mạng;
 
-1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thanh niên của người đó, trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp quy định tại Điều 17 và Điều 18 Nghị định này.
+ g) Biện pháp khác theo quy định của Luật An ninh quốc gia.
 
-**Chỉ mục:** 19
+ 4. Việc xử lý tình huống nguy hiểm về an ninh mạng được quy định như sau:
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130001900
+ a) Khi phát hiện tình huống nguy hiểm về an ninh mạng, cơ quan, tổ chức, cá nhân kịp thời thông báo cho lực lượng chuyên trách bảo vệ an ninh mạng và áp dụng ngay các biện pháp quy định tại điểm a và điểm b khoản 3 Điều này;
 
-**ID:** dk_00001951
+ b) Thủ tướng Chính phủ xem xét, quyết định hoặc ủy quyền cho Bộ trưởng Bộ Công an xem xét, quyết định, xử lý tình huống nguy hiểm về an ninh mạng trong phạm vi cả nước hoặc từng địa phương hoặc đối với một mục tiêu cụ thể.
 
----
+ Thủ tướng Chính phủ xem xét, quyết định hoặc ủy quyền cho Bộ trưởng Bộ Quốc phòng xem xét, quyết định, xử lý tình huống nguy hiểm về an ninh mạng đối với hệ thống thông tin quân sự và hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ;
 
+ c) Lực lượng chuyên trách bảo vệ an ninh mạng chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan áp dụng các biện pháp quy định tại khoản 3 Điều này để xử lý tình huống nguy hiểm về an ninh mạng; 
 
-### Điều 1.11.NĐ.1.20. Xử lý dữ liệu cá nhân của trẻ em
+ d) Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp với lực lượng chuyên trách bảo vệ an ninh mạng thực hiện biện pháp nhằm ngăn chặn, xử lý tình huống nguy hiểm về an ninh mạng.(Điều này có nội dung liên quan đến Điều 1.3.NĐ.1.14. Nội dung bảo vệ công trình quan trọng liên quan đến an ninh quốc gia; Điều 1.3.NĐ.1.15. Bảo vệ công trình khi quy hoạch, thiết kế, xây dựng, cải tạo nâng cấp; Điều 1.3.NĐ.1.16. Bảo vệ công trình khi vận hành khai thác)
 
-1. Xử lý dữ liệu cá nhân của trẻ em luôn được thực hiện theo nguyên tắc bảo vệ các quyền và vì lợi ích tốt nhất của trẻ em.
+Điều 1.11.LQ.22. Đấu tranh bảo vệ an ninh mạng
 
-**Chỉ mục:** 20
+(Điều 22 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002000
+ 1. Đấu tranh bảo vệ an ninh mạng là hoạt động có tổ chức do lực lượng chuyên trách bảo vệ an ninh mạng thực hiện trên không gian mạng nhằm bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội.
 
-**ID:** dk_00001952
+ 2. Nội dung đấu tranh bảo vệ an ninh mạng bao gồm:
 
----
+ a) Tổ chức nắm tình hình có liên quan đến hoạt động bảo vệ an ninh quốc gia;
 
+ b) Phòng, chống tấn công và bảo vệ hoạt động ổn định của hệ thống thông tin quan trọng về an ninh quốc gia;
 
-### Điều 1.11.NĐ.1.21. Bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo
+ c) Làm tê liệt hoặc hạn chế hoạt động sử dụng không gian mạng nhằm gây phương hại an ninh quốc gia hoặc gây tổn hại đặc biệt nghiêm trọng trật tự, an toàn xã hội;
 
-1. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt động kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo khi có sự đồng ý của chủ thể dữ liệu.
+ d) Chủ động tấn công vô hiệu hóa mục tiêu trên không gian mạng nhằm bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội.
 
-**Chỉ mục:** 21
+ 3. Bộ Công an chủ trì, phối hợp với Bộ, ngành có liên quan thực hiện đấu tranh bảo vệ an ninh mạng.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002100
+ Chương IV
 
-**ID:** dk_00001953
+HOẠT ĐỘNG BẢO VỆ AN NINH MẠNG
 
----
+Điều 1.11.LQ.23. Triển khai hoạt động bảo vệ an ninh mạng trong cơ quan nhà nước, tổ chức chính trị ở trung ương và địa phương
 
+(Điều 23 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 1.11.NĐ.1.22. Thu thập, chuyển giao, mua, bán trái phép dữ liệu cá nhân
+ 1. Nội dung triển khai hoạt động bảo vệ an ninh mạng bao gồm:
 
-1. Tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân phải áp dụng các biện pháp bảo vệ dữ liệu cá nhân để ngăn chặn tình trạng thu thập dữ liệu cá nhân trái phép từ hệ thống, trang thiết bị dịch vụ của mình.
+ a) Xây dựng, hoàn thiện quy định, quy chế sử dụng mạng máy tính nội bộ, mạng máy tính có kết nối mạng Internet; phương án bảo đảm an ninh mạng đối với hệ thống thông tin; phương án ứng phó, khắc phục sự cố an ninh mạng;
 
-**Chỉ mục:** 22
+ b) Ứng dụng, triển khai phương án, biện pháp, công nghệ bảo vệ an ninh mạng đối với hệ thống thông tin và thông tin, tài liệu được lưu trữ, soạn thảo, truyền đưa trên hệ thống thông tin thuộc phạm vi quản lý;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002200
+ c) Tổ chức bồi dưỡng kiến thức về an ninh mạng cho cán bộ, công chức, viên chức, người lao động; nâng cao năng lực bảo vệ an ninh mạng cho lực lượng bảo vệ an ninh mạng;
 
-**ID:** dk_00001954
+ d) Bảo vệ an ninh mạng trong hoạt động cung cấp dịch vụ công trên không gian mạng, cung cấp, trao đổi, thu thập thông tin với cơ quan, tổ chức, cá nhân, chia sẻ thông tin trong nội bộ và với cơ quan khác hoặc trong hoạt động khác theo quy định của Chính phủ;
 
----
+ đ) Đầu tư, xây dựng hạ tầng cơ sở vật chất phù hợp với điều kiện bảo đảm triển khai hoạt động bảo vệ an ninh mạng đối với hệ thống thông tin;
 
+ e) Kiểm tra an ninh mạng đối với hệ thống thông tin; phòng, chống hành vi vi phạm pháp luật về an ninh mạng; ứng phó, khắc phục sự cố an ninh mạng.
 
-### Điều 1.11.NĐ.1.23. Thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân
+ 2. Người đứng đầu cơ quan, tổ chức có trách nhiệm triển khai hoạt động bảo vệ an ninh mạng thuộc quyền quản lý.Điều 1.11.LQ.24. Kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức không thuộc Danh mục hệ thống thông tin quan trọng về an ninh quốc gia
 
-1. Trường hợp phát hiện xảy ra vi phạm quy định bảo vệ dữ liệu cá nhân, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thông báo cho Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) chậm nhất 72 giờ sau khi xảy ra hành vi vi phạm theo Mẫu số 03 tại Phụ lục của Nghị định này. Trường hợp thông báo sau 72 giờ thì phải kèm theo lý do thông báo chậm, muộn.
+(Điều 24 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 23
+ 1. Kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức không thuộc Danh mục hệ thống thông tin quan trọng về an ninh quốc gia trong trường hợp sau đây:
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002300
+ a) Khi có hành vi vi phạm pháp luật về an ninh mạng xâm phạm an ninh quốc gia hoặc gây tổn hại nghiêm trọng trật tự, an toàn xã hội;
 
-**ID:** dk_00001955
+ b) Khi có đề nghị của chủ quản hệ thống thông tin.
 
----
+ 2. Đối tượng kiểm tra an ninh mạng bao gồm:
 
+ a) Hệ thống phần cứng, phần mềm, thiết bị số được sử dụng trong hệ thống thông tin;
 
-### Điều 1.11.NĐ.1.24. Đánh giá tác động xử lý dữ liệu cá nhân
+ b) Thông tin được lưu trữ, xử lý, truyền đưa trong hệ thống thông tin;
 
-1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân lập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kể từ thời điểm bắt đầu xử lý dữ liệu cá nhân.
+ c) Biện pháp bảo vệ bí mật nhà nước và phòng, chống lộ, mất bí mật nhà nước qua các kênh kỹ thuật.
 
-**Chỉ mục:** 24
+ 3. Chủ quản hệ thống thông tin có trách nhiệm thông báo cho lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an khi phát hiện hành vi vi phạm pháp luật về an ninh mạng trên hệ thống thông tin thuộc phạm vi quản lý.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002400
+ 4. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an tiến hành kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức trong các trường hợp quy định tại khoản 1 Điều này.
 
-**ID:** dk_00001956
+ 5. Trước thời điểm tiến hành kiểm tra, lực lượng chuyên trách bảo vệ an ninh mạng thông báo bằng văn bản cho chủ quản hệ thống thông tin ít nhất là 12 giờ.
 
----
+ Trong thời hạn 30 ngày kể từ ngày kết thúc kiểm tra, lực lượng chuyên trách bảo vệ an ninh mạng thông báo kết quả kiểm tra và đưa ra yêu cầu đối với chủ quản hệ thống thông tin trong trường hợp phát hiện điểm yếu, lỗ hổng bảo mật; hướng dẫn hoặc tham gia khắc phục khi có đề nghị của chủ quản hệ thống thông tin.
 
+ 6. Kết quả kiểm tra an ninh mạng được bảo mật theo quy định của pháp luật.
 
-### Điều 1.11.NĐ.1.25. Chuyển dữ liệu cá nhân ra nước ngoài
+ 7. Chính phủ quy định trình tự, thủ tục kiểm tra an ninh mạng quy định tại Điều này.Điều 1.11.LQ.25. Bảo vệ an ninh mạng đối với cơ sở hạ tầng không gian mạng quốc gia, cổng kết nối mạng quốc tế
 
-1. Dữ liệu cá nhân của công dân Việt Nam được chuyển ra nước ngoài trong trường hợp Bên chuyển dữ liệu ra nước ngoài lập Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài và thực hiện các thủ tục theo quy định tại khoản 3, 4 và 5 Điều này. Bên chuyển dữ liệu ra nước ngoài bao gồm Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba.
+(Điều 25 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 25
+ 1. Bảo vệ an ninh mạng đối với cơ sở hạ tầng không gian mạng quốc gia, cổng kết nối mạng quốc tế phải bảo đảm kết hợp chặt chẽ giữa yêu cầu bảo vệ an ninh mạng với yêu cầu phát triển kinh tế - xã hội; khuyến khích cổng kết nối quốc tế đặt trên lãnh thổ Việt Nam; khuyến khích tổ chức, cá nhân tham gia đầu tư xây dựng cơ sở hạ tầng không gian mạng quốc gia.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002500
+ 2. Cơ quan, tổ chức, cá nhân quản lý, khai thác cơ sở hạ tầng không gian mạng quốc gia, cổng kết nối mạng quốc tế có trách nhiệm sau đây:
 
-**ID:** dk_00001957
+ a) Bảo vệ an ninh mạng thuộc quyền quản lý; chịu sự quản lý, thanh tra, kiểm tra và thực hiện các yêu cầu về bảo vệ an ninh mạng của cơ quan nhà nước có thẩm quyền;
 
----
+ b) Tạo điều kiện, thực hiện các biện pháp kỹ thuật, nghiệp vụ cần thiết để cơ quan nhà nước có thẩm quyền thực hiện nhiệm vụ bảo vệ an ninh mạng khi có đề nghị.Điều 1.11.LQ.26. Bảo đảm an ninh thông tin trên không gian mạng
 
+(Điều 26 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 1.11.NĐ.1.26. Biện pháp bảo vệ dữ liệu cá nhân
+ 1. Trang thông tin điện tử, cổng thông tin điện tử hoặc chuyên trang trên mạng xã hội của cơ quan, tổ chức, cá nhân không được cung cấp, đăng tải, truyền đưa thông tin có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều 16 của Luật này và thông tin khác có nội dung xâm phạm an ninh quốc gia.
 
-1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong suốt quá trình xử lý dữ liệu cá nhân.
+ 2. Doanh nghiệp trong nước và ngoài nước cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng tại Việt Nam có trách nhiệm sau đây:
 
-**Chỉ mục:** 26
+ a) Xác thực thông tin khi người dùng đăng ký tài khoản số; bảo mật thông tin, tài khoản của người dùng; cung cấp thông tin người dùng cho lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an khi có yêu cầu bằng văn bản để phục vụ điều tra, xử lý hành vi vi phạm pháp luật về an ninh mạng;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002600
+ b) Ngăn chặn việc chia sẻ thông tin, xóa bỏ thông tin có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều 16 của Luật này trên dịch vụ hoặc hệ thống thông tin do cơ quan, tổ chức trực tiếp quản lý chậm nhất là 24 giờ kể từ thời điểm có yêu cầu của lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an hoặc cơ quan có thẩm quyền của Bộ Thông tin và Truyền thông và lưu nhật ký hệ thống để phục vụ điều tra, xử lý hành vi vi phạm pháp luật về an ninh mạng trong thời gian theo quy định của Chính phủ;
 
-**ID:** dk_00001958
+ c) Không cung cấp hoặc ngừng cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng cho tổ chức, cá nhân đăng tải trên không gian mạng thông tin có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều 16 của Luật này khi có yêu cầu của lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an hoặc cơ quan có thẩm quyền của Bộ Thông tin và Truyền thông.
 
----
+ 3. Doanh nghiệp trong nước và ngoài nước cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng tại Việt Nam có hoạt động thu thập, khai thác, phân tích, xử lý dữ liệu về thông tin cá nhân, dữ liệu về mối quan hệ của người sử dụng dịch vụ, dữ liệu do người sử dụng dịch vụ tại Việt Nam tạo ra phải lưu trữ dữ liệu này tại Việt Nam trong thời gian theo quy định của Chính phủ.
 
+ Doanh nghiệp ngoài nước quy định tại khoản này phải đặt chi nhánh hoặc văn phòng đại diện tại Việt Nam.
 
-### Điều 1.11.NĐ.1.27. Bảo vệ dữ liệu cá nhân cơ bản
+ 4. Chính phủ quy định chi tiết khoản 3 Điều này.Điều 1.11.NĐ.1.3. Nguyên tắc bảo vệ dữ liệu cá nhân
 
-1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.
+(Điều 3 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Chỉ mục:** 27
+ 1. Dữ liệu cá nhân được xử lý theo quy định của pháp luật.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002700
+ 2. Chủ thể dữ liệu được biết về hoạt động liên quan tới xử lý dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
 
-**ID:** dk_00001959
+ 3. Dữ liệu cá nhân chỉ được xử lý đúng với mục đích đã được Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên thứ ba đăng ký, tuyên bố về xử lý dữ liệu cá nhân.
 
----
+ 4. Dữ liệu cá nhân thu thập phải phù hợp và giới hạn trong phạm vi, mục đích cần xử lý. Dữ liệu cá nhân không được mua, bán dưới mọi hình thức, trừ trường hợp luật có quy định khác.
 
+ 5. Dữ liệu cá nhân được cập nhật, bổ sung phù hợp với mục đích xử lý.
 
-### Điều 1.11.NĐ.1.28. Bảo vệ dữ liệu cá nhân nhạy cảm
+ 6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá trình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự cố, sử dụng các biện pháp kỹ thuật.
 
-1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27 Nghị định này.
+ 7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với mục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.
 
-**Chỉ mục:** 28
+ 8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải chịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1 tới khoản 7 Điều này và chứng minh sự tuân thủ của mình với các nguyên tắc xử lý dữ liệu đó.Điều 1.11.NĐ.1.4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002800
+(Điều 4 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**ID:** dk_00001960
+ Cơ quan, tổ chức, cá nhân vi phạm quy định bảo vệ dữ liệu cá nhân tùy theo mức độ có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính, xử lý hình sự theo quy định.Điều 1.11.NĐ.1.5. Quản lý nhà nước về bảo vệ dữ liệu cá nhân
 
----
+(Điều 5 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
+ Chính phủ thống nhất quản lý nhà nước về bảo vệ dữ liệu cá nhân.
 
-### Điều 1.11.NĐ.1.29. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân và Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân
+ Nội dung quản lý nhà nước về bảo vệ dữ liệu cá nhân gồm:
 
-1. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an, có trách nhiệm giúp Bộ Công an thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+ 1. Trình cơ quan nhà nước có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật và chỉ đạo, tổ chức thực hiện văn bản quy phạm pháp luật về bảo vệ dữ liệu cá nhân.
 
-**Chỉ mục:** 29
+ 2. Xây dựng và tổ chức thực hiện chiến lược, chính sách, đề án, dự án, chương trình, kế hoạch về bảo vệ dữ liệu cá nhân.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130002900
+ 3. Hướng dẫn cơ quan, tổ chức, cá nhân về biện pháp, quy trình, tiêu chuẩn bảo vệ dữ liệu cá nhân theo quy định của pháp luật.
 
-**ID:** dk_00001961
+ 4. Tuyên truyền, giáo dục pháp luật về bảo vệ dữ liệu cá nhân; truyền thông, phổ biến kiến thức, kỹ năng bảo vệ dữ liệu cá nhân.
 
----
+ 5. Xây dựng, đào tạo, bồi dưỡng cán bộ, công chức, viên chức và người được giao làm công tác bảo vệ dữ liệu cá nhân.
 
+ 6. Thanh tra, kiểm tra việc thực hiện quy định của pháp luật về bảo vệ dữ liệu cá nhân; giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về bảo vệ dữ liệu cá nhân theo quy định của pháp luật.
 
-### Điều 1.11.NĐ.1.30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+ 7. Thống kê, thông tin, báo cáo về tình hình bảo vệ dữ liệu cá nhân và việc thực hiện pháp luật về bảo vệ dữ liệu cá nhân cho cơ quan nhà nước có thẩm quyền.
 
-1. Lực lượng bảo vệ dữ liệu cá nhân:
+ 8. Hợp tác quốc tế về bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.6. Áp dụng Nghị định bảo vệ dữ liệu cá nhân, các luật liên quan và Điều ước quốc tế
 
-**Chỉ mục:** 30
+(Điều 6 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003000
+ Việc bảo vệ dữ liệu cá nhân được thực hiện theo quy định các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, các quy định khác của Luật có liên quan và Nghị định này.Điều 1.11.NĐ.1.7. Hợp tác quốc tế về bảo vệ dữ liệu cá nhân
 
-**ID:** dk_00001962
+(Điều 7 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
----
+ 1. Xây dựng cơ chế hợp tác quốc tế để tạo điều kiện cho việc thực thi có hiệu quả pháp luật về bảo vệ dữ liệu cá nhân.
 
+ 2. Tham gia tương trợ tư pháp về bảo vệ dữ liệu cá nhân của các quốc gia khác, bao gồm thông báo, đề nghị khiếu nại, trợ giúp điều tra và trao đổi thông tin, với các biện pháp bảo vệ thích hợp để bảo vệ dữ liệu cá nhân.
 
-### Điều 1.11.NĐ.1.31. Kinh phí bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+ 3. Tổ chức các hội nghị, hội thảo, nghiên cứu khoa học và thúc đẩy các hoạt động hợp tác quốc tế trong việc thực thi pháp luật để bảo vệ dữ liệu cá nhân.
 
-1. Nguồn tài chính thực hiện bảo vệ dữ liệu cá nhân bao gồm ngân sách nhà nước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn thu từ hoạt động cung cấp dịch vụ bảo vệ dữ liệu cá nhân; viện trợ quốc tế và các nguồn thu hợp pháp khác.
+ 4. Tổ chức các cuộc gặp song phương, đa phương, trao đổi kinh nghiệm xây dựng pháp luật và thực tiễn bảo vệ dữ liệu cá nhân.
 
-**Chỉ mục:** 31
+ 5. Chuyển giao công nghệ phục vụ bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.8. Hành vi bị nghiêm cấm
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003100
+(Điều 8 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**ID:** dk_00001963
+ 1. Xử lý dữ liệu cá nhân trái với quy định của pháp luật về bảo vệ dữ liệu cá nhân.
 
----
+ 2. Xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu nhằm chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
+ 3. Xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu gây ảnh hưởng tới an ninh quốc gia, trật tự an toàn xã hội, quyền và lợi ích hợp pháp của tổ chức, cá nhân khác.
 
-### Điều 1.11.NĐ.1.32. Trách nhiệm của Bộ Công an
+ 4. Cản trở hoạt động bảo vệ dữ liệu cá nhân của cơ quan có thẩm quyền.
 
-1. Giúp Chính phủ thống nhất thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+ 5. Lợi dụng hoạt động bảo vệ dữ liệu cá nhân để vi phạm pháp luật.Điều 1.11.NĐ.1.9. Quyền của chủ thể dữ liệu
 
-**Chỉ mục:** 32
+(Điều 9 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003200
+ 1. Quyền được biết
 
-**ID:** dk_00001964
+ Chủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
 
----
+ 2. Quyền đồng ý
 
+ Chủ thể dữ liệu được đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá nhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.
 
-### Điều 1.11.NĐ.1.33. Trách nhiệm của Bộ Thông tin và Truyền thông
+ 3. Quyền truy cập
 
-1. Chỉ đạo các cơ quan truyền thông, báo chí, tổ chức và doanh nghiệp thuộc lĩnh vực quản lý thực hiện bảo vệ dữ liệu cá nhân theo quy định tại Nghị định này.
+ Chủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
 
-**Chỉ mục:** 33
+ 4. Quyền rút lại sự đồng ý
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003300
+ Chủ thể dữ liệu được quyền rút lại sự đồng ý của mình, trừ trường hợp luật có quy định khác.
 
-**ID:** dk_00001965
+ 5. Quyền xóa dữ liệu
 
----
+ Chủ thể dữ liệu được xóa hoặc yêu cầu xóa dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
 
+ 6. Quyền hạn chế xử lý dữ liệu
 
-### Điều 1.11.NĐ.1.34. Trách nhiệm của Bộ Quốc phòng
+ a) Chủ thể dữ liệu được yêu cầu hạn chế xử lý dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác;
 
-Quản lý, thanh tra, kiểm tra, giám sát, xử lý vi phạm và áp dụng các quy định bảo vệ dữ liệu cá nhân đối với các cơ quan, tổ chức, cá nhân thuộc phạm vi quản lý của Bộ Quốc phòng theo quy định pháp luật và chức năng, nhiệm vụ được giao.
+ b) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thể dữ liệu yêu cầu hạn chế, trừ trường hợp luật có quy định khác.
 
-**Chỉ mục:** 34
+ 7. Quyền cung cấp dữ liệu
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003400
+ Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
 
-**ID:** dk_00001966
+ 8. Quyền phản đối xử lý dữ liệu
 
----
+ a) Chủ thể dữ liệu được phản đối Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn chặn hoặc hạn chế tiết lộ dữ liệu cá nhân hoặc sử dụng cho mục đích quảng cáo, tiếp thị, trừ trường hợp luật có quy định khác;
 
+ b) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu, trừ trường hợp luật có quy định khác.
 
-### Điều 1.11.NĐ.1.35. Trách nhiệm của Bộ Khoa học và Công nghệ
+ 9. Quyền khiếu nại, tố cáo, khởi kiện
 
-1. Phối hợp với Bộ Công an trong xây dựng Tiêu chuẩn bảo vệ dữ liệu cá nhân và các khuyến nghị áp dụng Tiêu chuẩn bảo vệ dữ liệu cá nhân.
+ Chủ thể dữ liệu có quyền khiếu nại, tố cáo hoặc khởi kiện theo quy định của pháp luật.
 
-**Chỉ mục:** 35
+ 10. Quyền yêu cầu bồi thường thiệt hại
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003500
+ Chủ thể dữ liệu có quyền yêu cầu bồi thường thiệt hại theo quy định của pháp luật khi xảy ra vi phạm quy định về bảo vệ dữ liệu cá nhân của mình, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác.
 
-**ID:** dk_00001967
+ 11. Quyền tự bảo vệ
 
----
+ Chủ thể dữ liệu có quyền tự bảo vệ theo quy định của Bộ luật Dân sự, luật khác có liên quan và Nghị định này, hoặc yêu cầu cơ quan, tổ chức có thẩm quyền thực hiện các phương thức bảo vệ quyền dân sự theo quy định tại Điều 11 Bộ luật Dân sự.Điều 1.11.NĐ.1.10. Nghĩa vụ của chủ thể dữ liệu
 
+(Điều 10 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-### Điều 1.11.NĐ.1.36. Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+ 1. Tự bảo vệ dữ liệu cá nhân của mình; yêu cầu các tổ chức, cá nhân khác có liên quan bảo vệ dữ liệu cá nhân của mình.
 
-1. Thực hiện quản lý nhà nước đối với bảo vệ dữ liệu cá nhân đối với các ngành, lĩnh vực quản lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+ 2. Tôn trọng, bảo vệ dữ liệu cá nhân của người khác.
 
-**Chỉ mục:** 36
+ 3. Cung cấp đầy đủ, chính xác dữ liệu cá nhân khi đồng ý cho phép xử lý dữ liệu cá nhân.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003600
+ 4. Tham gia tuyên truyền, phổ biến kỹ năng bảo vệ dữ liệu cá nhân.
 
-**ID:** dk_00001968
+ 5. Thực hiện quy định của pháp luật về bảo vệ dữ liệu cá nhân và tham gia phòng, chống các hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.11. Sự đồng ý của chủ thể dữ liệu
 
----
+(Điều 11 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
+ 1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động trong quy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.
 
-### Điều 1.11.NĐ.1.37. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương
+ 2. Sự đồng ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự nguyện và biết rõ các nội dung sau:
 
-1. Thực hiện quản lý nhà nước đối với bảo vệ dữ liệu cá nhân đối với các ngành, lĩnh vực quản lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+ a) Loại dữ liệu cá nhân được xử lý;
 
-**Chỉ mục:** 37
+ b) Mục đích xử lý dữ liệu cá nhân;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003700
+ c) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;
 
-**ID:** dk_00001969
+ d) Các quyền, nghĩa vụ của chủ thể dữ liệu.
 
----
+ 3. Sự đồng ý của chủ thể dữ liệu phải được thể hiện rõ ràng, cụ thể bằng văn bản, giọng nói, đánh dấu vào ô đồng ý, cú pháp đồng ý qua tin nhắn, chọn các thiết lập kỹ thuật đồng ý hoặc qua một hành động khác thể hiện được điều này.
 
+ 4. Sự đồng ý phải được tiến hành cho cùng một mục đích. Khi có nhiều mục đích, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân liệt kê các mục đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.
 
-### Điều 1.11.NĐ.1.38. Trách nhiệm của Bên Kiểm soát dữ liệu cá nhân
+ 5. Sự đồng ý của chủ thể dữ liệu phải được thể hiện ở một định dạng có thể được in, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng kiểm chứng được.
 
-1. Thực hiện các biện pháp tổ chức và kỹ thuật cùng các biện pháp an toàn, bảo mật phù hợp để chứng minh các hoạt động xử lý dữ liệu đã được thực hiện theo quy định của pháp luật về bảo vệ dữ liệu cá nhân, rà soát và cập nhật các biện pháp này khi cần thiết.
+ 6. Sự im lặng hoặc không phản hồi của chủ thể dữ liệu không được coi là sự đồng ý.
 
-**Chỉ mục:** 38
+ 7. Chủ thể dữ liệu có thể đồng ý một phần hoặc với điều kiện kèm theo.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003800
+ 8. Đối với xử lý dữ liệu cá nhân nhạy cảm, chủ thể dữ liệu phải được thông báo rằng dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm.
 
-**ID:** dk_00001970
+ 9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết định khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản.
 
----
+ 10. Trong trường hợp có tranh chấp, trách nhiệm chứng minh sự đồng ý của chủ thể dữ liệu thuộc về Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân.
 
+ 11. Thông qua việc ủy quyền theo quy định của Bộ luật Dân sự, tổ chức, cá nhân có thể thay mặt chủ thể dữ liệu thực hiện các thủ tục liên quan tới xử lý dữ liệu cá nhân của chủ thể dữ liệu với Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân trong trường hợp chủ thể dữ liệu đã biết rõ và đồng ý theo quy định tại khoản 3 Điều này, trừ trường hợp luật có quy định khác.Điều 1.11.NĐ.1.12. Rút lại sự đồng ý
 
-### Điều 1.11.NĐ.1.39. Trách nhiệm của Bên Xử lý dữ liệu cá nhân
+(Điều 12 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-1. Chỉ tiếp nhận dữ liệu cá nhân sau khi có hợp đồng hoặc thỏa thuận về xử lý dữ liệu với Bên Kiểm soát dữ liệu cá nhân.
+ 1. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ liệu đã được đồng ý trước khi rút lại sự đồng ý.
 
-**Chỉ mục:** 39
+ 2. Việc rút lại sự đồng ý phải được thể hiện ở một định dạng có thể được in, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng kiểm chứng được.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130003900
+ 3. Khi nhận yêu cầu rút lại sự đồng ý của chủ thể dữ liệu, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thông báo cho chủ thể dữ liệu về hậu quả, thiệt hại có thể xảy ra khi rút lại sự đồng ý.
 
-**ID:** dk_00001971
+ 4. Sau khi thực hiện quy định tại khoản 2 Điều này, Bên Kiểm soát dữ liệu, Bên Xử lý dữ liệu, Bên Kiểm soát và xử lý dữ liệu, Bên thứ ba phải ngừng và yêu cầu các tổ chức, cá nhân có liên quan ngừng xử lý dữ liệu của chủ thể dữ liệu đã rút lại sự đồng ý.Điều 1.11.NĐ.1.13. Thông báo xử lý dữ liệu cá nhân
 
----
+(Điều 13 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
+ 1. Việc thông báo được thực hiện một lần trước khi tiến hành đối với hoạt động xử lý dữ liệu cá nhân.
 
-### Điều 1.11.NĐ.1.40. Trách nhiệm của Bên Kiểm soát và xử lý dữ liệu
+ 2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:
 
-Thực hiện đầy đủ các quy định về trách nhiệm của Bên Kiểm soát dữ liệu cá nhân và Bên Xử lý dữ liệu cá nhân.
+ a) Mục đích xử lý;
 
-**Chỉ mục:** 40
+ b) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định tại điểm a khoản 2 Điều này;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130004000
+ c) Cách thức xử lý;
 
-**ID:** dk_00001972
+ d) Thông tin về các tổ chức, cá nhân khác có liên quan tới mục đích xử lý quy định tại điểm a khoản 2 Điều này;
 
----
+ đ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;
 
+ e) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.
 
-### Điều 1.11.NĐ.1.41. Trách nhiệm của Bên thứ Ba
+ 3. Việc thông báo cho chủ thể dữ liệu phải được thể hiện ở một định dạng có thể được in, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng kiểm chứng được.
 
-Thực hiện đầy đủ các quy định về trách nhiệm xử lý dữ liệu cá nhân theo quy định tại Nghị định này.
+ 4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân không cần thực hiện quy định lại khoản 1 Điều này trong các trường hợp sau:
 
-**Chỉ mục:** 41
+ a) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại khoản 1 và khoản 2 Điều này trước khi đồng ý cho Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân tiến hành thu thập dữ liệu cá nhân, phù hợp với các quy định tại Điều 9 Nghị định này;
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130004100
+ b) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.Điều 1.11.NĐ.1.14. Cung cấp dữ liệu cá nhân
 
-**ID:** dk_00001973
+(Điều 14 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
----
+ 1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình.
 
+ 2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:
 
-### Điều 1.11.NĐ.1.42. Trách nhiệm của tổ chức, cá nhân có liên quan
+ a) Được cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức, cá nhân khác khi có sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;
 
-1. Có biện pháp bảo vệ dữ liệu cá nhân của mình, chịu trách nhiệm về tính chính xác của dữ liệu cá nhân do mình cung cấp.
+ b) Thay mặt chủ thể dữ liệu cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức hoặc cá nhân khác khi chủ thể dữ liệu đồng ý cho phép đại diện và ủy quyền, trừ trường hợp pháp luật có quy định khác.
 
-**Chỉ mục:** 42
+ 3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.
 
-**Mã phân cấp:** 010110000000000040000260000000000000000000402835100130004200
+ 4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân không cung cấp dữ liệu cá nhân trong trường hợp:
 
-**ID:** dk_00001974
+ a) Gây tổn hại tới quốc phòng, an ninh quốc gia, trật tự an toàn xã hội;
 
----
+ b) Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu có thể ảnh hưởng tới sự an toàn, sức khỏe thể chất hoặc tinh thần của người khác;
 
+ c) Chủ thể dữ liệu không đồng ý cung cấp, cho phép đại diện hoặc ủy quyền nhận dữ liệu cá nhân.
 
-### Điều 1.11.LQ.27. Nghiên cứu, phát triển an ninh mạng
+ 5. Hình thức yêu cầu cung cấp dữ liệu cá nhân:
 
-1. Nội dung nghiên cứu, phát triển an ninh mạng bao gồm:
+ a) Chủ thể dữ liệu trực tiếp hoặc ủy quyền cho người khác đến trụ sở Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân yêu cầu cung cấp dữ liệu cá nhân.
 
-**Chỉ mục:** 27
+ Người tiếp nhận yêu cầu có trách nhiệm hướng dẫn tổ chức, cá nhân yêu cầu điền các nội dung vào Phiếu yêu cầu cung cấp dữ liệu cá nhân.
 
-**Mã phân cấp:** 0101100000000000400002700000000000000000
+ Trường hợp tổ chức, cá nhân yêu cầu cung cấp thông tin không biết chữ hoặc bị khuyết tật không thể viết yêu cầu thì người tiếp nhận yêu cầu cung cấp thông tin có trách nhiệm giúp điền các nội dung vào Phiếu yêu cầu cung cấp dữ liệu cá nhân;
 
-**ID:** dk_00001975
+ b) Gửi Phiếu yêu cầu cung cấp dữ liệu cá nhân theo Mẫu số 01, 02 tại Phụ lục của Nghị định này qua mạng điện tử, dịch vụ bưu chính, fax đến Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân.
 
----
+ 6. Phiếu yêu cầu cung cấp dữ liệu cá nhân phải được thể hiện bằng tiếng Việt gồm các nội dung chính sau đây:
 
+ a) Họ, tên; nơi cư trú, địa chỉ; số chứng minh nhân dân, thể căn cước công dân hoặc số hộ chiếu của người yêu cầu; số fax, điện thoại, địa chỉ thư điện tử (nếu có);
 
-### Điều 1.11.LQ.28. Nâng cao năng lực tự chủ về an ninh mạng
+ b) Dữ liệu cá nhân được yêu cầu cung cấp, trong đó chỉ rõ tên văn bản, hồ sơ, tài liệu;
 
-1. Nhà nước khuyến khích, tạo điều kiện để cơ quan, tổ chức, cá nhân nâng cao năng lực tự chủ về an ninh mạng và nâng cao khả năng sản xuất, kiểm tra, đánh giá, kiểm định thiết bị số, dịch vụ mạng, ứng dụng mạng.
+ c) Hình thức cung cấp dữ liệu cá nhân;
 
-**Chỉ mục:** 28
+ d) Lý do, mục đích yêu cầu cung cấp dữ liệu cá nhân.
 
-**Mã phân cấp:** 0101100000000000400002800000000000000000
+ 7. Trường hợp yêu cầu cung cấp dữ liệu cá nhân quy định tại khoản 2 Điều này thì phải kèm theo văn bản đồng ý của cá nhân, tổ chức liên quan.
 
-**ID:** dk_00001976
+ 8. Tiếp nhận yêu cầu cung cấp dữ liệu cá nhân
 
----
+ a) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân có trách nhiệm tiếp nhận yêu cầu cung cấp dữ liệu cá nhân và theo dõi quá trình, danh sách cung cấp dữ liệu cá nhân theo yêu cầu;
 
+ b) Trường hợp dữ liệu cá nhân được yêu cầu không thuộc thẩm quyền thì Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân nhận được yêu cầu phải thông báo và hướng dẫn tổ chức, cá nhân yêu cầu đến cơ quan có thẩm quyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.
 
-### Điều 1.11.LQ.29. Bảo vệ trẻ em trên không gian mạng
+ 9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân
 
-1. Trẻ em có quyền được bảo vệ, tiếp cận thông tin, tham gia hoạt động xã hội, vui chơi, giải trí, giữ bí mật cá nhân, đời sống riêng tư và các quyền khác khi tham gia trên không gian mạng.
+ Khi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân có trách nhiệm cung cấp dữ liệu cá nhân thông báo về thời hạn, địa điểm, hình thức cung cấp dữ liệu cá nhân; chi phí thực tế để in, sao, chụp, gửi thông tin qua dịch vụ bưu chính, fax (nếu có) và phương thức, thời hạn thanh toán; thực hiện việc cung cấp dữ liệu cá nhân theo trình tự, thủ tục quy định tại Điều này.Điều 1.11.NĐ.1.15. Chỉnh sửa dữ liệu cá nhân
 
-**Chỉ mục:** 29
+(Điều 15 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 0101100000000000400002900000000000000000
+ 1. Chủ thể dữ liệu:
 
-**ID:** dk_00001977
+ a) Được truy cập để xem, chỉnh sửa dữ liệu cá nhân của mình sau khi đã được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thu thập theo sự đồng ý, trừ trường hợp luật có quy định khác;
 
----
+ b) Trường hợp không thể chỉnh sửa trực tiếp vì lý do kỹ thuật hoặc vì lý do khác, chủ thể dữ liệu yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
 
+ 2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu sau khi được chủ thể dữ liệu cá nhân đồng ý ngay khi có thể hoặc theo quy định của pháp luật chuyên ngành. Trường hợp không thể thực hiện thì thông báo tới chủ thể dữ liệu sau 72 giờ kể khi nhận được yêu cầu chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu.
 
-### Điều 1.11.LQ.30. Lực lượng bảo vệ an ninh mạng
+ 3. Bên Xử lý dữ liệu cá nhân, Bên thứ ba được chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu sau khi được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân đồng ý bằng văn bản và biết rõ rằng đã có sự đồng ý của chủ thể dữ liệu.Điều 1.11.NĐ.1.16. Lưu trữ, xóa, hủy dữ liệu cá nhân
 
-1. Lực lượng chuyên trách bảo vệ an ninh mạng được bố trí tại Bộ Công an, Bộ Quốc phòng.
+(Điều 16 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Chỉ mục:** 30
+ 1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường hợp sau:
 
-**Mã phân cấp:** 0101100000000000500003000000000000000000
+ a) Nhận thấy không còn cần thiết cho mục đích thu thập đã đồng ý và chấp nhận các thiệt hại có thể xảy ra khi yêu cầu xóa dữ liệu;
 
-**ID:** dk_00001979
+ b) Rút lại sự đồng ý;
 
----
+ c) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân không có lý do chính đáng để tiếp tục xử lý;
 
+ d) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc việc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;
 
-### Điều 1.11.LQ.31. Bảo đảm nguồn nhân lực bảo vệ an ninh mạng
+ đ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.
 
-1. Công dân Việt Nam có kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin là nguồn lực cơ bản, chủ yếu bảo vệ an ninh mạng.
+ 2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu trong các trường hợp:
 
-**Chỉ mục:** 31
+ a) Pháp luật quy định không cho phép xóa dữ liệu;
 
-**Mã phân cấp:** 0101100000000000500003100000000000000000
+ b) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật;
 
-**ID:** dk_00001980
+ c) Dữ liệu cá nhân đã được công khai theo quy định của pháp luật;
 
----
+ d) Dữ liệu cá nhân được xử lý nhằm phục vụ yêu cầu pháp lý, nghiên cứu khoa học, thống kê theo quy định của pháp luật;
 
+ đ) Trong trường hợp tình trạng khẩn cấp về quốc phòng, an ninh quốc gia, trật tự an toàn xã hội, thảm họa lớn, dịch bệnh nguy hiểm; khi có nguy cơ đe dọa an ninh, quốc phòng nhưng chưa đến mức ban bố tình trạng khẩn cấp; phòng, chống bạo loạn, khủng bố, phòng, chống tội phạm và vi phạm pháp luật;
 
-### Điều 1.11.LQ.32. Tuyển chọn, đào tạo, phát triển lực lượng bảo vệ an ninh mạng
+ e) Ứng phó với tình huống khẩn cấp đe dọa đến tính mạng, sức khỏe hoặc sự an toàn của chủ thể dữ liệu hoặc cá nhân khác.
 
-1. Công dân Việt Nam có đủ tiêu chuẩn về phẩm chất đạo đức, sức khỏe, trình độ, kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin, có nguyện vọng thì có thể được tuyển chọn vào lực lượng bảo vệ an ninh mạng.
+ 3. Trường hợp doanh nghiệp chia, tách, sáp nhập, hợp nhất, giải thể thì dữ liệu cá nhân được chuyển giao theo quy định của pháp luật.
 
-**Chỉ mục:** 32
+ 4. Trường hợp chia, tách, sáp nhập cơ quan, tổ chức, đơn vị hành chính và tổ chức lại, chuyển đổi hình thức sở hữu doanh nghiệp nhà nước thì dữ liệu cá nhân được chuyển giao theo quy định của pháp luật.
 
-**Mã phân cấp:** 0101100000000000500003200000000000000000
+ 5. Việc xóa dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu với toàn bộ dữ liệu cá nhân mà Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thu thập được, trừ trường hợp pháp luật có quy định khác.
 
-**ID:** dk_00001981
+ 6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức phù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo quy định của pháp luật.
 
----
+ 7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thể khôi phục trong trường hợp:
 
+ a) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý dữ liệu cá nhân được chủ thể dữ liệu đồng ý;
 
-### Điều 1.11.LQ.33. Giáo dục, bồi dưỡng kiến thức, nghiệp vụ an ninh mạng
+ b) Việc lưu trữ dữ liệu cá nhân không còn cần thiết với hoạt động của Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba;
 
-1. Nội dung giáo dục, bồi dưỡng kiến thức an ninh mạng được đưa vào môn học giáo dục quốc phòng và an ninh trong nhà trường, chương trình bồi dưỡng kiến thức quốc phòng và an ninh theo quy định của Luật Giáo dục quốc phòng và an ninh.
+ c) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba bị giải thể hoặc không còn hoạt động hoặc tuyên bố phá sản hoặc bị chấm dứt hoạt động kinh doanh theo quy định của pháp luật.Điều 1.11.NĐ.1.17. Xử lý dữ liệu cá nhân trong trường hợp không cần sự đồng ý của chủ thể dữ liệu
 
-**Chỉ mục:** 33
+(Điều 17 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 0101100000000000500003300000000000000000
+ 1. Trong trường hợp khẩn cấp, cần xử lý ngay dữ liệu cá nhân có liên quan để bảo vệ tính mạng, sức khỏe của chủ thể dữ liệu hoặc người khác. Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên thứ ba có trách nhiệm chứng minh trường hợp này.
 
-**ID:** dk_00001982
+ 2. Việc công khai dữ liệu cá nhân theo quy định của luật.
 
----
+ 3. Việc xử lý dữ liệu của cơ quan nhà nước có thẩm quyền trong trường hợp tình trạng khẩn cấp về quốc phòng, an ninh quốc gia, trật tự an toàn xã hội, thảm họa lớn, dịch bệnh nguy hiểm; khi có nguy cơ đe dọa an ninh, quốc phòng nhưng chưa đến mức ban bố tình trạng khẩn cấp; phòng, chống bạo loạn, khủng bố, phòng, chống tội phạm và vi phạm pháp luật theo quy định của luật.
 
+ 4. Để thực hiện nghĩa vụ theo hợp đồng của chủ thể dữ liệu với cơ quan, tổ chức, cá nhân có liên quan theo quy định của luật.
 
-### Điều 1.11.LQ.34. Phổ biến kiến thức về an ninh mạng
+ 5. Phục vụ hoạt động của cơ quan nhà nước đã được quy định theo luật chuyên ngành.Điều 1.11.NĐ.1.18. Xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình tại nơi công cộng
 
-1. Nhà nước có chính sách phổ biến kiến thức về an ninh mạng trong phạm vi cả nước, khuyến khích cơ quan nhà nước phối hợp với tổ chức tư nhân, cá nhân thực hiện chương trình giáo dục và nâng cao nhận thức về an ninh mạng.
+(Điều 18 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Chỉ mục:** 34
+ Cơ quan, tổ chức có thẩm quyền được ghi âm, ghi hình và xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình tại nơi công cộng với mục đích bảo vệ an ninh quốc gia, trật tự an toàn xã hội, quyền và lợi ích hợp pháp của tổ chức, cá nhân theo quy định của pháp luật mà không cần có sự đồng ý của chủ thể. Khi thực hiện việc ghi âm, ghi hình, cơ quan, tổ chức có thẩm quyền có trách nhiệm thông báo để chủ thể hiểu được mình đang bị ghi âm, ghi hình, trừ trường hợp pháp luật có quy định khác.Điều 1.11.NĐ.1.19. Xử lý dữ liệu cá nhân của người bị tuyên bố mất tích, đã chết
 
-**Mã phân cấp:** 0101100000000000500003400000000000000000
+(Điều 19 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**ID:** dk_00001983
+ 1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thanh niên của người đó, trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp quy định tại Điều 17 và Điều 18 Nghị định này.
 
----
+ 2. Trường hợp không có tất cả những người được nêu tại khoản 1 Điều này thì được coi là không có sự đồng ý.Điều 1.11.NĐ.1.20. Xử lý dữ liệu cá nhân của trẻ em
 
+(Điều 20 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-### Điều 1.11.LQ.35. Kinh phí bảo vệ an ninh mạng
+ 1. Xử lý dữ liệu cá nhân của trẻ em luôn được thực hiện theo nguyên tắc bảo vệ các quyền và vì lợi ích tốt nhất của trẻ em.
 
-1. Kinh phí bảo vệ an ninh mạng của cơ quan nhà nước, tổ chức chính trị do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách nhà nước hằng năm. Việc quản lý, sử dụng kinh phí từ ngân sách nhà nước thực hiện theo quy định của pháp luật về ngân sách nhà nước.
+ 2. Việc xử lý dữ liệu cá nhân của trẻ em phải có sự đồng ý của trẻ em trong trường hợp trẻ em từ đủ 7 tuổi trở lên và có sự đồng ý của cha, mẹ hoặc người giám hộ theo quy định, trừ trường hợp quy định tại Điều 17 Nghị định này. Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên thứ ba phải xác minh tuổi của trẻ em trước khi xử lý dữ liệu cá nhân của trẻ em.
 
-**Chỉ mục:** 35
+ 3. Ngừng xử lý dữ liệu cá nhân của trẻ em, xóa không thể khôi phục hoặc hủy dữ liệu cá nhân của trẻ em trong trường hợp:
 
-**Mã phân cấp:** 0101100000000000500003500000000000000000
+ a) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý dữ liệu cá nhân được chủ thể dữ liệu đồng ý, trừ trường hợp pháp luật có quy định khác;
 
-**ID:** dk_00001984
+ b) Cha, mẹ hoặc người giám hộ của trẻ em rút lại sự đồng ý cho phép xử lý dữ liệu cá nhân của trẻ em, trừ trường hợp pháp luật có quy định khác;
 
----
+ c) Theo yêu cầu của cơ quan chức năng có thẩm quyền khi có đủ căn cứ chứng minh việc xử lý dữ liệu cá nhân gây ảnh hưởng tới quyền và lợi ích hợp pháp của trẻ em, trừ trường hợp pháp luật có quy định khác.Điều 1.11.NĐ.1.21. Bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo
 
+(Điều 21 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-### Điều 1.11.LQ.36. Trách nhiệm của Bộ Công an
+ 1. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt động kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo khi có sự đồng ý của chủ thể dữ liệu.
 
-Bộ Công an chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh mạng và có nhiệm vụ, quyền hạn sau đây, trừ nội dung thuộc trách nhiệm của Bộ Quốc phòng và Ban Cơ yếu Chính phủ:
+ 2. Việc xử lý dữ liệu cá nhân của khách hàng để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo phải được sự đồng ý của khách hàng, trên cơ sở khách hàng biết rõ nội dung, phương thức, hình thức, tần suất giới thiệu sản phẩm.
 
-**Chỉ mục:** 36
+ 3. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng được giới thiệu sản phẩm đúng với quy định tại khoản 1 và khoản 2 Điều này.Điều 1.11.NĐ.1.22. Thu thập, chuyển giao, mua, bán trái phép dữ liệu cá nhân
 
-**Mã phân cấp:** 0101100000000000600003600000000000000000
+(Điều 22 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**ID:** dk_00001986
+ 1. Tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân phải áp dụng các biện pháp bảo vệ dữ liệu cá nhân để ngăn chặn tình trạng thu thập dữ liệu cá nhân trái phép từ hệ thống, trang thiết bị dịch vụ của mình.
 
----
+ 2. Việc thiết lập các hệ thống phần mềm, biện pháp kỹ thuật hoặc tổ chức các hoạt động thu thập, chuyển giao, mua, bán dữ liệu cá nhân không có sự đồng ý của chủ thể dữ liệu là vi phạm pháp luật.Điều 1.11.NĐ.1.23. Thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân
 
+(Điều 23 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-### Điều 1.11.LQ.37. Trách nhiệm của Bộ Quốc phòng
+ 1. Trường hợp phát hiện xảy ra vi phạm quy định bảo vệ dữ liệu cá nhân, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thông báo cho Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) chậm nhất 72 giờ sau khi xảy ra hành vi vi phạm theo Mẫu số 03 tại Phụ lục của Nghị định này. Trường hợp thông báo sau 72 giờ thì phải kèm theo lý do thông báo chậm, muộn.
 
-Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh mạng trong phạm vi quản lý và có nhiệm vụ, quyền hạn sau đây:
+ 2. Bên Xử lý dữ liệu cá nhân phải thông báo cho Bên Kiểm soát dữ liệu cá nhân một cách nhanh nhất có thể sau khi nhận thấy có sự vi phạm quy định về bảo vệ dữ liệu cá nhân.
 
-**Chỉ mục:** 37
+ 3. Nội dung thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân:
 
-**Mã phân cấp:** 0101100000000000600003700000000000000000
+ a) Mô tả tính chất của việc vi phạm quy định bảo vệ dữ liệu cá nhân, bao gồm: thời gian, địa điểm, hành vi, tổ chức, cá nhân, các loại dữ liệu cá nhân và số lượng dữ liệu liên quan;
 
-**ID:** dk_00001987
+ b) Chi tiết liên lạc của nhân viên được giao nhiệm vụ bảo vệ dữ liệu hoặc tổ chức, cá nhân chịu trách nhiệm bảo vệ dữ liệu cá nhân;
 
----
+ c) Mô tả các hậu quả, thiệt hại có thể xảy ra của việc vi phạm quy định bảo vệ dữ liệu cá nhân;
 
+ d) Mô tả các biện pháp được đưa ra để giải quyết, giảm thiểu tác hại của hành vi vi phạm quy định bảo vệ dữ liệu cá nhân.
 
-### Điều 1.11.LQ.38. Trách nhiệm của Bộ Thông tin và Truyền thông
+ 4. Trường hợp không thể thông báo đầy đủ các nội dung quy định tại khoản 3 Điều này, việc thông báo có thể được thực hiện theo từng đợt, từng giai đoạn.
 
-1. Phối hợp với Bộ Công an, Bộ Quốc phòng trong bảo vệ an ninh mạng.
+ 5. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân phải lập Biên bản xác nhận về việc xảy ra hành vi vi phạm quy định bảo vệ dữ liệu cá nhân, phối hợp với Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) xử lý hành vi vi phạm.
 
-**Chỉ mục:** 38
+ 6. Tổ chức, cá nhân thông báo cho Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) khi phát hiện các trường hợp sau:
 
-**Mã phân cấp:** 0101100000000000600003800000000000000000
+ a) Phát hiện hành vi vi phạm pháp luật đối với dữ liệu cá nhân;
 
-**ID:** dk_00001988
+ b) Dữ liệu cá nhân bị xử lý sai mục đích, không đúng thỏa thuận ban đầu giữa chủ thể dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân hoặc vi phạm quy định của pháp luật;
 
----
+ c) Không bảo đảm quyền của chủ thể dữ liệu hoặc không được thực hiện đúng;
 
+ d) Trường hợp khác theo quy định của pháp luật.Điều 1.11.NĐ.1.24. Đánh giá tác động xử lý dữ liệu cá nhân
 
-### Điều 1.11.LQ.39. Trách nhiệm của Ban Cơ yếu Chính phủ
+(Điều 24 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-1. Tham mưu, đề xuất Bộ trưởng Bộ Quốc phòng ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật, chương trình, kế hoạch về mật mã để bảo vệ an ninh mạng thuộc phạm vi Ban Cơ yếu Chính phủ quản lý.
+ 1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân lập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kể từ thời điểm bắt đầu xử lý dữ liệu cá nhân.
 
-**Chỉ mục:** 39
+ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, bao gồm:
 
-**Mã phân cấp:** 0101100000000000600003900000000000000000
+ a) Thông tin và chi tiết liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân;
 
-**ID:** dk_00001989
+ b) Họ tên, chi tiết liên lạc của tổ chức được phân công thực hiện nhiệm vụ bảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân;
 
----
+ c) Mục đích xử lý dữ liệu cá nhân;
 
+ d) Các loại dữ liệu cá nhân được xử lý;
 
-### Điều 1.11.LQ.40. Trách nhiệm của Bộ, ngành, Ủy ban nhân dân cấp tỉnh
+ đ) Tổ chức, cá nhân nhận dữ liệu cá nhân, bao gồm tổ chức, cá nhân ngoài lãnh thổ Việt Nam;
 
-Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ, ngành, Ủy ban nhân dân cấp tỉnh có trách nhiệm thực hiện công tác bảo vệ an ninh mạng đối với thông tin, hệ thống thông tin thuộc phạm vi quản lý; phối hợp với Bộ Công an thực hiện quản lý nhà nước về an ninh mạng của Bộ, ngành, địa phương.
+ e) Trường hợp chuyển dữ liệu cá nhân ra nước ngoài;
 
-**Chỉ mục:** 40
+ g) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xóa, hủy dữ liệu cá nhân (nếu có);
 
-**Mã phân cấp:** 0101100000000000600004000000000000000000
+ h) Mô tả về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng;
 
-**ID:** dk_00001990
+ i) Đánh giá mức độ hưởng của việc xử lý dữ liệu cá nhân; hậu quả, thiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc loại bỏ nguy cơ, tác hại đó.
 
----
+ 2. Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng với Bên Kiểm soát dữ liệu cá nhân. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của Bên Xử lý dữ liệu cá nhân, bao gồm:
 
+ a) Thông tin và chi tiết liên lạc của Bên Xử lý dữ liệu cá nhân;
 
-### Điều 1.11.LQ.41. Trách nhiệm của doanh nghiệp cung cấp dịch vụ trên không gian mạng
+ b) Họ tên, chi tiết liên lạc của tổ chức được phân công thực hiện xử lý dữ liệu cá nhân và nhân viên thực hiện xử lý dữ liệu cá nhân của Bên Xử lý dữ liệu cá nhân;
 
-1. Doanh nghiệp cung cấp dịch vụ trên không gian mạng tại Việt Nam có trách nhiệm sau đây:
+ c) Mô tả các hoạt động xử lý và các loại dữ liệu cá nhân được xử lý theo hợp đồng với Bên Kiểm soát dữ liệu cá nhân;
 
-**Chỉ mục:** 41
+ d) Thời gian xử lý dữ liệu cá nhân; thời gian dự kiến để xóa, hủy dữ liệu cá nhân (nếu có);
 
-**Mã phân cấp:** 0101100000000000600004100000000000000000
+ đ) Trường hợp chuyển dữ liệu cá nhân ra nước ngoài;
 
-**ID:** dk_00001991
+ e) Mô tả chung về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng;
 
----
+ g) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc loại bỏ nguy cơ, tác hại đó.
 
+ 3. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân quy định tại khoản 1 và khoản 2 Điều này được xác lập bằng văn bản có giá trị pháp lý của Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân hoặc Bên Xử lý dữ liệu cá nhân.
 
-### Điều 1.11.LQ.42. Trách nhiệm của cơ quan, tổ chức, cá nhân sử dụng không gian mạng
+ 4. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để phục vụ hoạt động kiểm tra, đánh giá của Bộ Công an và gửi Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) 01 bản chính theo Mẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân.
 
-1. Tuân thủ quy định của pháp luật về an ninh mạng.
+ 5. Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) đánh giá, yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân hoàn thiện Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân trong trường hợp hồ sơ chưa đầy đủ và đúng quy định.
 
-**Chỉ mục:** 42
+ 6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân cập nhật, bổ sung Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân khi có sự thay đổi về nội dung hồ sơ đã gửi cho Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu số 05 tại Phụ lục của Nghị định này.Điều 1.11.NĐ.1.25. Chuyển dữ liệu cá nhân ra nước ngoài
 
-**Mã phân cấp:** 0101100000000000600004200000000000000000
+(Điều 25 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**ID:** dk_00001992
+ 1. Dữ liệu cá nhân của công dân Việt Nam được chuyển ra nước ngoài trong trường hợp Bên chuyển dữ liệu ra nước ngoài lập Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài và thực hiện các thủ tục theo quy định tại khoản 3, 4 và 5 Điều này. Bên chuyển dữ liệu ra nước ngoài bao gồm Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba.
 
----
+ 2. Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài, gồm:
 
+ a) Thông tin và chi tiết liên lạc của Bên chuyển dữ liệu và Bên tiếp nhận dữ liệu cá nhân của công dân Việt Nam;
 
-### Điều 1.11.LQ.43. Hiệu lực thi hành
+ b) Họ tên, chi tiết liên lạc của tổ chức, cá nhân phụ trách của Bên chuyển dữ liệu có liên quan tới việc chuyển và tiếp nhận dữ liệu cá nhân của công dân Việt Nam;
+
+ c) Mô tả và luận giải mục tiêu của các hoạt động xử lý dữ liệu cá nhân của Công dân Việt Nam sau khi được chuyển ra nước ngoài;
+
+ d) Mô tả và làm rõ loại dữ liệu cá nhân chuyển ra nước ngoài;
+
+ đ) Mô tả và nêu rõ sự tuân thủ quy định bảo vệ dữ liệu cá nhân tại Nghị định này, chi tiết các biện pháp bảo vệ dữ liệu cá nhân được áp dụng;
+
+ e) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả, thiệt hại không mong muốn có khả năng xảy ra, các biện pháp giảm thiểu hoặc loại bỏ nguy cơ, tác hại đó;
+
+ g) Sự đồng ý của chủ thể dữ liệu theo quy định tại Điều 11 Nghị định này trên cơ sở biết rõ cơ chế phản hồi, khiếu nại khi có sự cố hoặc yêu cầu phát sinh;
+
+ h) Có văn bản thể hiện sự ràng buộc, trách nhiệm giữa các tổ chức, cá nhân chuyển và nhận dữ liệu cá nhân của Công dân Việt Nam về việc xử lý dữ liệu cá nhân.
+
+ 3. Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài phải luôn có sẵn để phục vụ hoạt động kiểm tra, đánh giá của Bộ Công an.
+
+ Bên chuyển dữ liệu ra nước ngoài gửi 01 bản chính hồ sơ tới Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu số 06 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân.
+
+ 4. Bên chuyển dữ liệu thông báo gửi Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) thông tin về việc chuyển dữ liệu và chi tiết liên lạc của tổ chức, cá nhân phụ trách bằng văn bản sau khi việc chuyển dữ liệu diễn ra thành công.
+
+ 5. Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) đánh giá, yêu cầu Bên chuyển dữ liệu ra nước ngoài hoàn thiện Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài trong trường hợp hồ sơ chưa đầy đủ và đúng quy định.
+
+ 6. Bên chuyển dữ liệu ra nước ngoài cập nhật, bổ sung Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài khi có sự thay đổi về nội dung hồ sơ đã gửi cho Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu số 05 tại Phụ lục của Nghị định này. Thời gian hoàn thiện hồ sơ dành cho Bên chuyển dữ liệu ra nước ngoài là 10 ngày kể từ ngày yêu cầu.
+
+ 7. Căn cứ tình hình cụ thể, Bộ Công an quyết định việc kiểm tra chuyển dữ liệu cá nhân ra nước ngoài 01 lần/năm, trừ trường hợp phát hiện hành vi vi phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân tại Nghị định này hoặc để xảy ra sự cố lộ, mất dữ liệu cá nhân của công dân Việt Nam.
+
+ 8. Bộ Công an quyết định yêu cầu Bên chuyển dữ liệu ra nước ngoài ngừng chuyển dữ liệu cá nhân ra nước ngoài trong trường hợp:
+
+ a) Khi phát hiện dữ liệu cá nhân được chuyển được sử dụng vào hoạt động vi phạm lợi ích, an ninh quốc gia của nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+
+ b) Bên chuyển dữ liệu ra nước ngoài không chấp hành quy định tại khoản 5, khoản 6 Điều này;
+
+ c) Để xảy ra sự cố lộ, mất dữ liệu cá nhân của công dân Việt Nam.Điều 1.11.NĐ.1.26. Biện pháp bảo vệ dữ liệu cá nhân
+
+(Điều 26 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong suốt quá trình xử lý dữ liệu cá nhân.
+
+ 2. Các biện pháp bảo vệ dữ liệu cá nhân, bao gồm:
+
+ a) Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân thực hiện;
+
+ b) Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân thực hiện;
+
+ c) Biện pháp do cơ quan quản lý nhà nước có thẩm quyền thực hiện theo quy định của Nghị định này và pháp luật có liên quan;
+
+ d) Biện pháp điều tra, tố tụng do cơ quan nhà nước có thẩm quyền thực hiện;
+
+ đ) Các biện pháp khác theo quy định của pháp luật.Điều 1.11.NĐ.1.27. Bảo vệ dữ liệu cá nhân cơ bản
+
+(Điều 27 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.
+
+ 2. Xây dựng, ban hành các quy định về bảo vệ dữ liệu cá nhân, nêu rõ những việc cần thực hiện theo quy định của Nghị định này.
+
+ 3. Khuyến khích áp dụng các tiêu chuẩn bảo vệ dữ liệu cá nhân phù hợp với lĩnh vực, ngành nghề, hoạt động có liên quan tới xử lý dữ liệu cá nhân.
+
+ 4. Kiểm tra an ninh mạng đối với hệ thống và phương tiện, thiết bị phục vụ xử lý dữ liệu cá nhân trước khi xử lý, xóa không thể khôi phục được hoặc hủy các thiết bị chứa dữ liệu cá nhân.Điều 1.11.NĐ.1.28. Bảo vệ dữ liệu cá nhân nhạy cảm
+
+(Điều 28 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27 Nghị định này.
+
+ 2. Chỉ định bộ phận có chức năng bảo vệ dữ liệu cá nhân, chỉ định nhân sự phụ trách bảo vệ dữ liệu cá nhân và trao đổi thông tin về bộ phận và cá nhân phụ trách bảo vệ dữ liệu cá nhân với Cơ quan chuyên trách bảo vệ dữ liệu cá nhân. Trường hợp Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu, Bên thứ ba là cá nhân thì trao đổi thông tin của cá nhân thực hiện.
+
+ 3. Thông báo cho chủ thể dữ liệu biết việc dữ liệu cá nhân nhạy cảm của chủ thể dữ liệu được xử lý, trừ trường hợp quy định tại khoản 4 Điều 13, Điều 17 và Điều 18 Nghị định này.Điều 1.11.NĐ.1.29. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân và Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân
+
+(Điều 29 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an, có trách nhiệm giúp Bộ Công an thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+
+ 2. Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân:
+
+ a) Cung cấp thông tin về chủ trương, đường lối, chính sách của Đảng, pháp luật của Nhà nước về bảo vệ dữ liệu cá nhân;
+
+ b) Tuyên truyền, phổ biến chính sách, pháp luật về bảo vệ dữ liệu cá nhân;
+
+ c) Cập nhật thông tin, tình hình bảo vệ dữ liệu cá nhân;
+
+ d) Tiếp nhận thông tin, hồ sơ, dữ liệu về hoạt động bảo vệ dữ liệu cá nhân qua không gian mạng;
+
+ đ) Cung cấp thông tin về kết quả đánh giá công tác bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan;
+
+ e) Tiếp nhận thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân;
+
+ g) Cảnh báo, phối hợp cảnh báo về nguy cơ, hành vi xâm phạm dữ liệu cá nhân theo quy định của pháp luật;
+
+ h) Xử lý vi phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;
+
+ i) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+
+(Điều 30 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Lực lượng bảo vệ dữ liệu cá nhân:
+
+ a) Lực lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan chuyên trách bảo vệ dữ liệu cá nhân;
+
+ b) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định trong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo vệ dữ liệu cá nhân;
+
+ c) Tổ chức, cá nhân được huy động tham gia bảo vệ dữ liệu cá nhân;
+
+ d) Bộ Công an xây dựng chương trình, kế hoạch cụ thể nhằm phát triển nguồn nhân lực bảo vệ dữ liệu cá nhân.
+
+ 2. Cơ quan, tổ chức, cá nhân có trách nhiệm tuyên truyền, phổ biến kiến thức, kỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức, cá nhân.
+
+ 3. Bảo đảm cơ sở vật chất, điều kiện hoạt động cho Cơ quan chuyên trách bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.31. Kinh phí bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+
+(Điều 31 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Nguồn tài chính thực hiện bảo vệ dữ liệu cá nhân bao gồm ngân sách nhà nước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn thu từ hoạt động cung cấp dịch vụ bảo vệ dữ liệu cá nhân; viện trợ quốc tế và các nguồn thu hợp pháp khác.
+
+ 2. Kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách nhà nước hằng năm. Việc quản lý, sử dụng kinh phí từ ngân sách nhà nước được thực hiện theo quy định của pháp luật về ngân sách nhà nước.
+
+ 3. Kinh phí bảo vệ dữ liệu cá nhân của tổ chức, doanh nghiệp do các tổ chức, doanh nghiệp tự bố trí và thực hiện theo quy định.Điều 1.11.NĐ.1.32. Trách nhiệm của Bộ Công an
+
+(Điều 32 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Giúp Chính phủ thống nhất thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+
+ 2. Hướng dẫn, triển khai hoạt động bảo vệ dữ liệu cá nhân, bảo vệ quyền của chủ thể dữ liệu trước các hành vi vi phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân, đề xuất ban hành Tiêu chuẩn bảo vệ dữ liệu cá nhân và các khuyến nghị áp dụng.
+
+ 3. Xây dựng, quản lý, vận hành Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân.
+
+ 4. Đánh giá kết quả công tác bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.
+
+ 5. Tiếp nhận hồ sơ, biểu mẫu, thông tin về bảo vệ dữ liệu cá nhân theo quy định tại Nghị định này.
+
+ 6. Thúc đẩy các biện pháp và thực hiện nghiên cứu để đổi mới trong lĩnh vực bảo vệ dữ liệu cá nhân, triển khai hợp tác quốc tế về bảo vệ dữ liệu cá nhân.
+
+ 7. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, xử lý hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân theo quy định của pháp luậtĐiều 1.11.NĐ.1.33. Trách nhiệm của Bộ Thông tin và Truyền thông
+
+(Điều 33 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Chỉ đạo các cơ quan truyền thông, báo chí, tổ chức và doanh nghiệp thuộc lĩnh vực quản lý thực hiện bảo vệ dữ liệu cá nhân theo quy định tại Nghị định này.
+
+ 2. Xây dựng, hướng dẫn và triển khai các biện pháp bảo vệ dữ liệu cá nhân, bảo đảm an toàn thông tin mạng đối với dữ liệu cá nhân trong các hoạt động thông tin và truyền thông theo chức năng, nhiệm vụ được giao.
+
+ 3. Phối hợp với Bộ Công an trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.34. Trách nhiệm của Bộ Quốc phòng
+
+(Điều 34 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ Quản lý, thanh tra, kiểm tra, giám sát, xử lý vi phạm và áp dụng các quy định bảo vệ dữ liệu cá nhân đối với các cơ quan, tổ chức, cá nhân thuộc phạm vi quản lý của Bộ Quốc phòng theo quy định pháp luật và chức năng, nhiệm vụ được giao.Điều 1.11.NĐ.1.35. Trách nhiệm của Bộ Khoa học và Công nghệ
+
+(Điều 35 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Phối hợp với Bộ Công an trong xây dựng Tiêu chuẩn bảo vệ dữ liệu cá nhân và các khuyến nghị áp dụng Tiêu chuẩn bảo vệ dữ liệu cá nhân.
+
+ 2. Nghiên cứu, trao đổi Bộ Công an về các biện pháp bảo vệ dữ liệu cá nhân theo kịp sự phát triển của khoa học, công nghệ.Điều 1.11.NĐ.1.36. Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+
+(Điều 36 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Thực hiện quản lý nhà nước đối với bảo vệ dữ liệu cá nhân đối với các ngành, lĩnh vực quản lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+ 2. Xây dựng và triển khai các nội dung, nhiệm vụ bảo vệ dữ liệu cá nhân tại Nghị định này.
+
+ 3. Bổ sung các quy định bảo vệ dữ liệu cá nhân trong xây dựng, triển khai các nhiệm vụ của các bộ, ngành.
+
+ 4. Bố trí kinh phí phục vụ hoạt động bảo vệ dữ liệu cá nhân theo phân cấp quản lý ngân sách hiện hành.
+
+ 5. Ban hành Danh mục dữ liệu mở phù hợp với quy định bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.37. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương
+
+(Điều 37 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Thực hiện quản lý nhà nước đối với bảo vệ dữ liệu cá nhân đối với các ngành, lĩnh vực quản lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+ 2. Triển khai các quy định về bảo vệ dữ liệu cá nhân tại Nghị định này.
+
+ 3. Bố trí kinh phí phục vụ hoạt động bảo vệ dữ liệu cá nhân theo phân cấp quản lý ngân sách hiện hành.
+
+ 4. Ban hành Danh mục dữ liệu mở phù hợp với quy định bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.38. Trách nhiệm của Bên Kiểm soát dữ liệu cá nhân
+
+(Điều 38 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Thực hiện các biện pháp tổ chức và kỹ thuật cùng các biện pháp an toàn, bảo mật phù hợp để chứng minh các hoạt động xử lý dữ liệu đã được thực hiện theo quy định của pháp luật về bảo vệ dữ liệu cá nhân, rà soát và cập nhật các biện pháp này khi cần thiết.
+
+ 2. Ghi lại và lưu trữ nhật ký hệ thống quá trình xử lý dữ liệu cá nhân.
+
+ 3. Thông báo hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân theo quy định tại Điều 23 Nghị định này.
+
+ 4. Lựa chọn Bên Xử lý dữ liệu cá nhân phù hợp với nhiệm vụ rõ ràng và chỉ làm việc với Bên Xử lý dữ liệu cá nhân có các biện pháp bảo vệ phù hợp.
+
+ 5. Bảo đảm các quyền của chủ thể dữ liệu theo quy định tại Điều 9 Nghị định này.
+
+ 6. Bên Kiểm soát dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các thiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.
+
+ 7. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo vệ dữ liệu cá nhân, cung cấp thông tin phục vụ điều tra, xử lý hành vi vi phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.39. Trách nhiệm của Bên Xử lý dữ liệu cá nhân
+
+(Điều 39 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Chỉ tiếp nhận dữ liệu cá nhân sau khi có hợp đồng hoặc thỏa thuận về xử lý dữ liệu với Bên Kiểm soát dữ liệu cá nhân.
+
+ 2. Xử lý dữ liệu cá nhân theo đúng hợp đồng hoặc thỏa thuận ký kết với Bên Kiểm soát dữ liệu cá nhân.
+
+ 3. Thực hiện đầy đủ các biện pháp bảo vệ dữ liệu cá nhân quy định tại Nghị định này và các văn bản pháp luật khác có liên quan.
+
+ 4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các thiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.
+
+ 5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân sau khi kết thúc xử lý dữ liệu.
+
+ 6. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo vệ dữ liệu cá nhân, cung cấp thông tin phục vụ điều tra, xử lý hành vi vi phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân.Điều 1.11.NĐ.1.40. Trách nhiệm của Bên Kiểm soát và xử lý dữ liệu
+
+(Điều 40 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ Thực hiện đầy đủ các quy định về trách nhiệm của Bên Kiểm soát dữ liệu cá nhân và Bên Xử lý dữ liệu cá nhân.Điều 1.11.NĐ.1.41. Trách nhiệm của Bên thứ Ba
+
+(Điều 41 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ Thực hiện đầy đủ các quy định về trách nhiệm xử lý dữ liệu cá nhân theo quy định tại Nghị định này.Điều 1.11.NĐ.1.42. Trách nhiệm của tổ chức, cá nhân có liên quan
+
+(Điều 42 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+ 1. Có biện pháp bảo vệ dữ liệu cá nhân của mình, chịu trách nhiệm về tính chính xác của dữ liệu cá nhân do mình cung cấp.
+
+ 2. Thực hiện quy định về bảo vệ dữ liệu cá nhân tại Nghị định này.
+
+ 3. Thông báo kịp thời cho Bộ Công an về những vi phạm liên quan tới hoạt động bảo vệ dữ liệu cá nhân.
+
+ 4. Phối hợp với Bộ Công an trong xử lý những vi phạm liên quan tới hoạt động bảo vệ dữ liệu cá nhân.Điều 1.11.LQ.27. Nghiên cứu, phát triển an ninh mạng
+
+(Điều 27 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Nội dung nghiên cứu, phát triển an ninh mạng bao gồm:
+
+ a) Xây dựng hệ thống phần mềm, trang thiết bị bảo vệ an ninh mạng;
+
+ b) Phương pháp thẩm định phần mềm, trang thiết bị bảo vệ an ninh mạng đạt chuẩn và hạn chế tồn tại điểm yếu, lỗ hổng bảo mật, phần mềm độc hại;
+
+ c) Phương pháp kiểm tra phần cứng, phần mềm được cung cấp thực hiện đúng chức năng;
+
+ d) Phương pháp bảo vệ bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư; khả năng bảo mật khi truyền đưa thông tin trên không gian mạng;
+
+ đ) Xác định nguồn gốc của thông tin được truyền đưa trên không gian mạng;
+
+ e) Giải quyết nguy cơ đe dọa an ninh mạng;
+
+ g) Xây dựng thao trường mạng, môi trường thử nghiệm an ninh mạng;
+
+ h) Sáng kiến kỹ thuật nâng cao nhận thức, kỹ năng về an ninh mạng;
+
+ i) Dự báo an ninh mạng;
+
+ k) Nghiên cứu thực tiễn, phát triển lý luận an ninh mạng.
+
+ 2. Cơ quan, tổ chức, cá nhân có liên quan có quyền nghiên cứu, phát triển an ninh mạng.Điều 1.11.LQ.28. Nâng cao năng lực tự chủ về an ninh mạng
+
+(Điều 28 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Nhà nước khuyến khích, tạo điều kiện để cơ quan, tổ chức, cá nhân nâng cao năng lực tự chủ về an ninh mạng và nâng cao khả năng sản xuất, kiểm tra, đánh giá, kiểm định thiết bị số, dịch vụ mạng, ứng dụng mạng.
+
+ 2. Chính phủ thực hiện các biện pháp sau đây để nâng cao năng lực tự chủ về an ninh mạng cho cơ quan, tổ chức, cá nhân:
+
+ a) Thúc đẩy chuyển giao, nghiên cứu, làm chủ và phát triển công nghệ, sản phẩm, dịch vụ, ứng dụng để bảo vệ an ninh mạng;
+
+ b) Thúc đẩy ứng dụng công nghệ mới, công nghệ tiên tiến liên quan đến an ninh mạng;
+
+ c) Tổ chức đào tạo, phát triển và sử dụng nhân lực an ninh mạng;
+
+ d) Tăng cường môi trường kinh doanh, cải thiện điều kiện cạnh tranh hỗ trợ doanh nghiệp nghiên cứu, sản xuất sản phẩm, dịch vụ, ứng dụng để bảo vệ an ninh mạng.Điều 1.11.LQ.29. Bảo vệ trẻ em trên không gian mạng
+
+(Điều 29 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Trẻ em có quyền được bảo vệ, tiếp cận thông tin, tham gia hoạt động xã hội, vui chơi, giải trí, giữ bí mật cá nhân, đời sống riêng tư và các quyền khác khi tham gia trên không gian mạng.
+
+ 2. Chủ quản hệ thống thông tin, doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng có trách nhiệm kiểm soát nội dung thông tin trên hệ thống thông tin hoặc trên dịch vụ do doanh nghiệp cung cấp để không gây nguy hại cho trẻ em, xâm phạm đến trẻ em, quyền trẻ em; ngăn chặn việc chia sẻ và xóa bỏ thông tin có nội dung gây nguy hại cho trẻ em, xâm phạm đến trẻ em, quyền trẻ em; kịp thời thông báo, phối hợp với lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an để xử lý.
+
+ 3. Cơ quan, tổ chức, cá nhân tham gia hoạt động trên không gian mạng có trách nhiệm phối hợp với cơ quan có thẩm quyền trong bảo đảm quyền của trẻ em trên không gian mạng, ngăn chặn thông tin có nội dung gây nguy hại cho trẻ em theo quy định của Luật này và pháp luật về trẻ em.
+
+ 4. Cơ quan, tổ chức, cha mẹ, giáo viên, người chăm sóc trẻ em và cá nhân khác liên quan có trách nhiệm bảo đảm quyền của trẻ em, bảo vệ trẻ em khi tham gia không gian mạng theo quy định của pháp luật về trẻ em.
+
+ 5. Lực lượng chuyên trách bảo vệ an ninh mạng và các cơ quan chức năng có trách nhiệm áp dụng biện pháp để phòng ngừa, phát hiện, ngăn chặn, xử lý nghiêm hành vi sử dụng không gian mạng gây nguy hại cho trẻ em, xâm phạm đến trẻ em, quyền trẻ em.
+
+ Chương V
+
+BẢO ĐẢM HOẠT ĐỘNG BẢO VỆ AN NINH MẠNG
+
+Điều 1.11.LQ.30. Lực lượng bảo vệ an ninh mạng
+
+(Điều 30 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Lực lượng chuyên trách bảo vệ an ninh mạng được bố trí tại Bộ Công an, Bộ Quốc phòng.
+
+ 2. Lực lượng bảo vệ an ninh mạng được bố trí tại Bộ, ngành, Ủy ban nhân dân cấp tỉnh, cơ quan, tổ chức quản lý trực tiếp hệ thống thông tin quan trọng về an ninh quốc gia.
+
+ 3. Tổ chức, cá nhân được huy động tham gia bảo vệ an ninh mạng.Điều 1.11.LQ.31. Bảo đảm nguồn nhân lực bảo vệ an ninh mạng
+
+(Điều 31 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Công dân Việt Nam có kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin là nguồn lực cơ bản, chủ yếu bảo vệ an ninh mạng.
+
+ 2. Nhà nước có chương trình, kế hoạch xây dựng, phát triển nguồn nhân lực bảo vệ an ninh mạng.
+
+ 3. Khi xảy ra tình huống nguy hiểm về an ninh mạng, khủng bố mạng, tấn công mạng, sự cố an ninh mạng hoặc nguy cơ đe dọa an ninh mạng, cơ quan nhà nước có thẩm quyền quyết định huy động nhân lực bảo vệ an ninh mạng.
+
+ Thẩm quyền, trách nhiệm, trình tự, thủ tục huy động nhân lực bảo vệ an ninh mạng được thực hiện theo quy định của Luật An ninh quốc gia, Luật Quốc phòng, Luật Công an nhân dân và quy định khác của pháp luật có liên quan.(Điều này có nội dung liên quan đến Điều 1.9.LQ.25. Kiểm soát hoạt động xuất bản, báo chí, bưu chính, viễn thông và các hình thức thông tin khác của Luật 28/2013/QH13 Phòng, chống khủng bố ban hành ngày 12/06/2013)
+
+Điều 1.11.LQ.32. Tuyển chọn, đào tạo, phát triển lực lượng bảo vệ an ninh mạng
+
+(Điều 32 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Công dân Việt Nam có đủ tiêu chuẩn về phẩm chất đạo đức, sức khỏe, trình độ, kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin, có nguyện vọng thì có thể được tuyển chọn vào lực lượng bảo vệ an ninh mạng.
+
+ 2. Ưu tiên đào tạo, phát triển lực lượng bảo vệ an ninh mạng có chất lượng cao.
+
+ 3. Ưu tiên phát triển cơ sở đào tạo an ninh mạng đạt tiêu chuẩn quốc tế; khuyến khích liên kết, tạo cơ hội hợp tác về an ninh mạng giữa khu vực nhà nước và khu vực tư nhân, trong nước và ngoài nước.Điều 1.11.LQ.33. Giáo dục, bồi dưỡng kiến thức, nghiệp vụ an ninh mạng
+
+(Điều 33 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Nội dung giáo dục, bồi dưỡng kiến thức an ninh mạng được đưa vào môn học giáo dục quốc phòng và an ninh trong nhà trường, chương trình bồi dưỡng kiến thức quốc phòng và an ninh theo quy định của Luật Giáo dục quốc phòng và an ninh.
+
+ 2. Bộ Công an chủ trì, phối hợp với Bộ, ngành có liên quan tổ chức bồi dưỡng nghiệp vụ an ninh mạng cho lực lượng bảo vệ an ninh mạng và công chức, viên chức, người lao động tham gia bảo vệ an ninh mạng.
+
+ Bộ Quốc phòng, Ban Cơ yếu Chính phủ tổ chức bồi dưỡng nghiệp vụ an ninh mạng cho đối tượng thuộc phạm vi quản lý.(Điều này có nội dung liên quan đến Điều 25.7.LQ.19. Nội dung phổ biến kiến thức quốc phòng và an ninh)
+
+Điều 1.11.LQ.34. Phổ biến kiến thức về an ninh mạng
+
+(Điều 34 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Nhà nước có chính sách phổ biến kiến thức về an ninh mạng trong phạm vi cả nước, khuyến khích cơ quan nhà nước phối hợp với tổ chức tư nhân, cá nhân thực hiện chương trình giáo dục và nâng cao nhận thức về an ninh mạng.
+
+ 2. Bộ, ngành, cơ quan, tổ chức có trách nhiệm xây dựng và triển khai hoạt động phổ biến kiến thức về an ninh mạng cho cán bộ, công chức, viên chức, người lao động trong Bộ, ngành, cơ quan, tổ chức.
+
+ 3. Ủy ban nhân dân cấp tỉnh có trách nhiệm xây dựng và triển khai hoạt động phổ biến kiến thức, nâng cao nhận thức về an ninh mạng cho cơ quan, tổ chức, cá nhân của địa phương.Điều 1.11.LQ.35. Kinh phí bảo vệ an ninh mạng
+
+(Điều 35 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Kinh phí bảo vệ an ninh mạng của cơ quan nhà nước, tổ chức chính trị do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách nhà nước hằng năm. Việc quản lý, sử dụng kinh phí từ ngân sách nhà nước thực hiện theo quy định của pháp luật về ngân sách nhà nước.
+
+ 2. Kinh phí bảo vệ an ninh mạng cho hệ thống thông tin của cơ quan, tổ chức ngoài quy định tại khoản 1 Điều này do cơ quan, tổ chức tự bảo đảm.
+
+ Chương VI
+
+TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
+
+Điều 1.11.LQ.36. Trách nhiệm của Bộ Công an
+
+(Điều 36 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Bộ Công an chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh mạng và có nhiệm vụ, quyền hạn sau đây, trừ nội dung thuộc trách nhiệm của Bộ Quốc phòng và Ban Cơ yếu Chính phủ:
+
+ 1. Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và hướng dẫn thi hành văn bản quy phạm pháp luật về an ninh mạng;
+
+ 2. Xây dựng, đề xuất chiến lược, chủ trương, chính sách, kế hoạch và phương án bảo vệ an ninh mạng;
+
+ 3. Phòng ngừa, đấu tranh với hoạt động sử dụng không gian mạng xâm phạm chủ quyền, lợi ích, an ninh quốc gia, trật tự, an toàn xã hội và phòng, chống tội phạm mạng;
+
+ 4. Bảo đảm an ninh thông tin trên không gian mạng; xây dựng cơ chế xác thực thông tin đăng ký tài khoản số; cảnh báo, chia sẻ thông tin an ninh mạng, nguy cơ đe dọa an ninh mạng;
+
+ 5. Tham mưu, đề xuất Chính phủ, Thủ tướng Chính phủ xem xét, quyết định việc phân công, phối hợp thực hiện các biện pháp bảo vệ an ninh mạng, phòng ngừa, xử lý hành vi xâm phạm an ninh mạng trong trường hợp nội dung quản lý nhà nước liên quan đến phạm vi quản lý của nhiều Bộ, ngành;
+
+ 6. Tổ chức diễn tập phòng, chống tấn công mạng; diễn tập ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia;
+
+ 7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về an ninh mạng.(Điều này có nội dung liên quan đến Điều 3.1.LQ.52. Trách nhiệm quản lý nhà nước về an toàn thông tin mạng của Luật 86/2015/QH13 An toàn thông tin mạng ban hành ngày 19/11/2015; Điều 1.6.LQ.16. Nhiệm vụ và quyền hạn của Công an nhân dân; Điều 3.3.NĐ.4.39. Trách nhiệm quản lý nhà nước về an toàn thông tin và an ninh thông tin của Nghị định 72/2013/NĐ-CP Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng ban hành ngày 15/07/2013; Điều 3.1.NĐ.4.19. Quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng; Điều 3.1.NĐ.4.21. Bộ Công an của Nghị định 142/2016/NĐ-CP Về ngăn chặn xung đột thông tin trên mạng ban hành ngày 14/10/2016)
+
+Điều 1.11.LQ.37. Trách nhiệm của Bộ Quốc phòng
+
+(Điều 37 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh mạng trong phạm vi quản lý và có nhiệm vụ, quyền hạn sau đây:
+
+ 1. Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và hướng dẫn thi hành văn bản quy phạm pháp luật về an ninh mạng trong phạm vi quản lý;
+
+ 2. Xây dựng, đề xuất chiến lược, chủ trương, chính sách, kế hoạch và phương án bảo vệ an ninh mạng trong phạm vi quản lý;
+
+ 3. Phòng ngừa, đấu tranh với các hoạt động sử dụng không gian mạng xâm phạm an ninh quốc gia trong phạm vi quản lý;
+
+ 4. Phối hợp với Bộ Công an tổ chức diễn tập phòng, chống tấn công mạng, diễn tập ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia, triển khai thực hiện công tác bảo vệ an ninh mạng;
+
+ 5. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về an ninh mạng trong phạm vi quản lý.(Điều này có nội dung liên quan đến Điều 3.1.LQ.52. Trách nhiệm quản lý nhà nước về an toàn thông tin mạng của Luật 86/2015/QH13 An toàn thông tin mạng ban hành ngày 19/11/2015; Điều 3.1.NĐ.4.19. Quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng; Điều 3.1.NĐ.4.20. Bộ Quốc phòng)
+
+Điều 1.11.LQ.38. Trách nhiệm của Bộ Thông tin và Truyền thông
+
+(Điều 38 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Phối hợp với Bộ Công an, Bộ Quốc phòng trong bảo vệ an ninh mạng.
+
+ 2. Phối hợp với các cơ quan liên quan tổ chức tuyên truyền, phản bác thông tin có nội dung chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam quy định tại khoản 1 Điều 16 của Luật này.
+
+ 3. Yêu cầu doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng, chủ quản hệ thống thông tin loại bỏ thông tin có nội dung vi phạm pháp luật về an ninh mạng trên dịch vụ, hệ thống thông tin do doanh nghiệp, cơ quan, tổ chức trực tiếp quản lý.(Điều này có nội dung liên quan đến Điều 3.1.LQ.52. Trách nhiệm quản lý nhà nước về an toàn thông tin mạng của Luật 86/2015/QH13 An toàn thông tin mạng ban hành ngày 19/11/2015; Điều 3.3.NĐ.4.39. Trách nhiệm quản lý nhà nước về an toàn thông tin và an ninh thông tin; Điều 3.1.NĐ.4.19. Quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng; Điều 3.1.NĐ.4.22. Bộ Thông tin và Truyền thông của Nghị định 142/2016/NĐ-CP Về ngăn chặn xung đột thông tin trên mạng ban hành ngày 14/10/2016)
+
+Điều 1.11.LQ.39. Trách nhiệm của Ban Cơ yếu Chính phủ
+
+(Điều 39 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Tham mưu, đề xuất Bộ trưởng Bộ Quốc phòng ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật, chương trình, kế hoạch về mật mã để bảo vệ an ninh mạng thuộc phạm vi Ban Cơ yếu Chính phủ quản lý.
+
+ 2. Bảo vệ an ninh mạng đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ và sản phẩm mật mã do Ban Cơ yếu Chính phủ cung cấp theo quy định của Luật này.
+
+ 3. Thống nhất quản lý nghiên cứu khoa học, công nghệ mật mã; sản xuất, sử dụng, cung cấp sản phẩm mật mã để bảo vệ thông tin thuộc bí mật nhà nước được lưu trữ, trao đổi trên không gian mạng.(Điều này có nội dung liên quan đến Điều 1.7.LQ.21. Nhiệm vụ, quyền hạn của Ban Cơ yếu Chính phủ của Luật 05/2011/QH13 Cơ yếu ban hành ngày 26/11/2011; Điều 3.1.LQ.52. Trách nhiệm quản lý nhà nước về an toàn thông tin mạng của Luật 86/2015/QH13 An toàn thông tin mạng ban hành ngày 19/11/2015; Điều 3.3.NĐ.4.39. Trách nhiệm quản lý nhà nước về an toàn thông tin và an ninh thông tin)
+
+Điều 1.11.LQ.40. Trách nhiệm của Bộ, ngành, Ủy ban nhân dân cấp tỉnh
+
+(Điều 40 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ, ngành, Ủy ban nhân dân cấp tỉnh có trách nhiệm thực hiện công tác bảo vệ an ninh mạng đối với thông tin, hệ thống thông tin thuộc phạm vi quản lý; phối hợp với Bộ Công an thực hiện quản lý nhà nước về an ninh mạng của Bộ, ngành, địa phương.(Điều này có nội dung liên quan đến Điều 3.1.LQ.52. Trách nhiệm quản lý nhà nước về an toàn thông tin mạng của Luật 86/2015/QH13 An toàn thông tin mạng ban hành ngày 19/11/2015; Điều 3.3.NĐ.4.39. Trách nhiệm quản lý nhà nước về an toàn thông tin và an ninh thông tin)
+
+Điều 1.11.LQ.41. Trách nhiệm của doanh nghiệp cung cấp dịch vụ trên không gian mạng
+
+(Điều 41 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Doanh nghiệp cung cấp dịch vụ trên không gian mạng tại Việt Nam có trách nhiệm sau đây:
+
+ a) Cảnh báo khả năng mất an ninh mạng trong việc sử dụng dịch vụ trên không gian mạng do mình cung cấp và hướng dẫn biện pháp phòng ngừa;
+
+ b) Xây dựng phương án, giải pháp phản ứng nhanh với sự cố an ninh mạng, xử lý ngay điểm yếu, lỗ hổng bảo mật, mã độc, tấn công mạng, xâm nhập mạng và rủi ro an ninh khác; khi xảy ra sự cố an ninh mạng, ngay lập tức triển khai phương án khẩn cấp, biện pháp ứng phó thích hợp, đồng thời báo cáo với lực lượng chuyên trách bảo vệ an ninh mạng theo quy định của Luật này;
+
+ c) Áp dụng các giải pháp kỹ thuật và các biện pháp cần thiết khác nhằm bảo đảm an ninh cho quá trình thu thập thông tin, ngăn chặn nguy cơ lộ, lọt, tổn hại hoặc mất dữ liệu; trường hợp xảy ra hoặc có nguy cơ xảy ra sự cố lộ, lọt, tổn hại hoặc mất dữ liệu thông tin người sử dụng, cần lập tức đưa ra giải pháp ứng phó, đồng thời thông báo đến người sử dụng và báo cáo với lực lượng chuyên trách bảo vệ an ninh mạng theo quy định của Luật này;
+
+ d) Phối hợp, tạo điều kiện cho lực lượng chuyên trách bảo vệ an ninh mạng trong bảo vệ an ninh mạng.
+
+ 2. Doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng tại Việt Nam có trách nhiệm thực hiện quy định tại khoản 1 Điều này, khoản 2 và khoản 3 Điều 26 của Luật này.Điều 1.11.LQ.42. Trách nhiệm của cơ quan, tổ chức, cá nhân sử dụng không gian mạng
+
+(Điều 42 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Tuân thủ quy định của pháp luật về an ninh mạng.
+
+ 2. Kịp thời cung cấp thông tin liên quan đến bảo vệ an ninh mạng, nguy cơ đe dọa an ninh mạng, hành vi xâm phạm an ninh mạng cho cơ quan có thẩm quyền, lực lượng bảo vệ an ninh mạng.
+
+ 3. Thực hiện yêu cầu và hướng dẫn của cơ quan có thẩm quyền trong bảo vệ an ninh mạng; giúp đỡ, tạo điều kiện cho cơ quan, tổ chức và người có trách nhiệm tiến hành các biện pháp bảo vệ an ninh mạng.Chương VII
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 1.11.LQ.43. Hiệu lực thi hành
+
+(Điều 43 Luật số 24/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2019.
 
-**Chỉ mục:** 43
+2. Hệ thống thông tin đang vận hành, sử dụng được đưa vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia thì trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực, chủ quản hệ thống thông tin có trách nhiệm bảo đảm đủ điều kiện an ninh mạng, lực lượng chuyên trách bảo vệ an ninh mạng đánh giá điều kiện an ninh mạng theo quy định tại Điều 12 của Luật này; trường hợp cần gia hạn do Thủ tướng Chính phủ quyết định nhưng không quá 12 tháng.
 
-**Mã phân cấp:** 0101100000000000700004300000000000000000
+3. Hệ thống thông tin đang vận hành, sử dụng được bổ sung vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia thì trong thời hạn 12 tháng kể từ ngày được bổ sung, chủ quản hệ thống thông tin có trách nhiệm bảo đảm đủ điều kiện an ninh mạng, lực lượng chuyên trách bảo vệ an ninh mạng đánh giá điều kiện an ninh mạng theo quy định tại Điều 12 của Luật này; trường hợp cần gia hạn do Thủ tướng Chính phủ quyết định nhưng không quá 12 tháng.
 
-**ID:** dk_00001994
+Điều 1.11.NĐ.1.43. Hiệu lực thi hành
 
----
-
-
-### Điều 1.11.NĐ.1.43. Hiệu lực thi hành
+(Điều 43 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
 1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
 
-**Chỉ mục:** 43
+2. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh nghiệp khởi nghiệp được quyền lựa chọn miễn trừ quy định về chỉ định cá nhân và bộ phận bảo vệ dữ liệu cá nhân trong thời gian 02 năm đầu kể từ khi thành lập doanh nghiệp.
 
-**Mã phân cấp:** 0101100000000000700004340283510013000430
+3. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh nghiệp khởi nghiệp trực tiếp kinh doanh hoạt động xử lý dữ liệu cá nhân không áp dụng quy định tại khoản 2 Điều này.
 
-**ID:** dk_00001995
+Điều 1.11.NĐ.1.44. Trách nhiệm thi hành
 
----
-
-
-### Điều 1.11.NĐ.1.44. Trách nhiệm thi hành
+(Điều 44 Nghị định số 13/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
 1. Bộ trưởng Bộ Công an đôn đốc, kiểm tra, hướng dẫn việc thực hiện Nghị định này.
 
-**Chỉ mục:** 44
+2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**Mã phân cấp:** 0101100000000000700004340283510013000440
+## Danh sách điều khoản
 
-**ID:** dk_00001996
+### 01011000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
+### 0101100000000000100000100000000000000000
 
-## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](/an-ninh-quoc-gia/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 1.11.LQ.1. Phạm vi điều chỉnh Luật này quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 94
-- **Điều khoản thực tế:** 87
-- **Điều khoản có nội dung:** 87 (100.0%)
-- **ID đề mục:** 1fd42d839d784dd4b6b673e9bd3472e1
+### 0101100000000000100000140283510013000010
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 1.11.NĐ.1.1. Phạm vi điều chỉnh và đối tượng áp dụng 1. Nghị định này quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.
 
----
+### 0101100000000000100000200000000000000000
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 1.11.LQ.2. Giải thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0101100000000000100000240283510013000020
+
+Điều 1.11.NĐ.1.2. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0101100000000000100000300000000000000000
+
+Điều 1.11.LQ.3. Chính sách của Nhà nước về an ninh mạng 1. Ưu tiên bảo vệ an ninh mạng trong quốc phòng, an ninh, phát triển kinh tế - xã hội, khoa học, công nghệ và đối ngoại.
+
+### 0101100000000000100000400000000000000000
+
+Điều 1.11.LQ.4. Nguyên tắc bảo vệ an ninh mạng 1. Tuân thủ Hiến pháp và pháp luật; bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+
+### 0101100000000000100000500000000000000000
+
+Điều 1.11.LQ.5. Biện pháp bảo vệ an ninh mạng 1. Biện pháp bảo vệ an ninh mạng bao gồm:
+
+### 0101100000000000100000600000000000000000
+
+Điều 1.11.LQ.6. Bảo vệ không gian mạng quốc gia Nhà nước áp dụng các biện pháp để bảo vệ không gian mạng quốc gia; phòng ngừa, xử lý hành vi xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân trên không gian mạng.
+
+### 0101100000000000100000700000000000000000
+
+Điều 1.11.LQ.7. Hợp tác quốc tế về an ninh mạng 1. Hợp tác quốc tế về an ninh mạng được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.
+
+### 0101100000000000100000800000000000000000
+
+Điều 1.11.LQ.8. Các hành vi bị nghiêm cấm về an ninh mạng 1. Sử dụng không gian mạng để thực hiện hành vi sau đây:
+
+### 0101100000000000100000900000000000000000
+
+Điều 1.11.LQ.9. Xử lý vi phạm pháp luật về an ninh mạng Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+
+### 01011000000000002000
+
+Chương II BẢO VỆ AN NINH MẠNG ĐỐI VỚI HỆ THỐNG THÔNG TINQUAN TRỌNG VỀ AN NINH QUỐC GIA
+
+### 0101100000000000200001000000000000000000
+
+Điều 1.11.LQ.10. Hệ thống thông tin quan trọng về an ninh quốc gia 1. Hệ thống thông tin quan trọng về an ninh quốc gia là hệ thống thông tin khi bị sự cố, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt, tấn công hoặc phá hoại sẽ xâm phạm nghiêm trọng an ninh mạng.
+
+### 0101100000000000200001100000000000000000
+
+Điều 1.11.LQ.11. Thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia 1. Thẩm định an ninh mạng là hoạt động xem xét, đánh giá những nội dung về an ninh mạng để làm cơ sở cho việc quyết định xây dựng hoặc nâng cấp hệ thống thông tin.
+
+### 0101100000000000200001200000000000000000
+
+Điều 1.11.LQ.12. Đánh giá điều kiện an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia 1. Đánh giá điều kiện về an ninh mạng là hoạt động xem xét sự đáp ứng về an ninh mạng của hệ thống thông tin trước khi đưa vào vận hành, sử dụng.
+
+### 0101100000000000200001300000000000000000
+
+Điều 1.11.LQ.13. Kiểm tra an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia 1. Kiểm tra an ninh mạng là hoạt động xác định thực trạng an ninh mạng của hệ thống thông tin, cơ sở hạ tầng hệ thống thông tin hoặc thông tin được lưu trữ, xử lý, truyền đưa trong hệ thống thông tin nhằm phòng ngừa, phát hiện, xử lý nguy cơ đe dọa an ninh mạng và đưa ra các phương án, biện pháp bảo đảm hoạt động bình thường của hệ thống thông tin.
+
+### 0101100000000000200001400000000000000000
+
+Điều 1.11.LQ.14. Giám sát an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia 1. Giám sát an ninh mạng là hoạt động thu thập, phân tích tình hình nhằm xác định nguy cơ đe dọa an ninh mạng, sự cố an ninh mạng, điểm yếu, lỗ hổng bảo mật, mã độc, phần cứng độc hại để cảnh báo, khắc phục, xử lý.
+
+### 0101100000000000200001500000000000000000
+
+Điều 1.11.LQ.15. Ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia 1. Hoạt động ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia bao gồm:
+
+### 01011000000000003000
+
+Chương III PHÒNG NGỪA, XỬ LÝ HÀNH VI XÂM PHẠM AN NINH MẠNG
+
+### 0101100000000000300001600000000000000000
+
+Điều 1.11.LQ.16. Phòng ngừa, xử lý thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng; làm nhục, vu khống; xâm phạm trật tự quản lý kinh tế 1. Thông tin trên không gian mạng có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm:
+
+### 0101100000000000300001700000000000000000
+
+Điều 1.11.LQ.17. Phòng, chống gián điệp mạng; bảo vệ thông tin thuộc bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên không gian mạng 1. Hành vi gián điệp mạng; xâm phạm bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên không gian mạng bao gồm:
+
+### 0101100000000000300001800000000000000000
+
+Điều 1.11.LQ.18. Phòng, chống hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội 1. Hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội bao gồm:
+
+### 0101100000000000300001900000000000000000
+
+Điều 1.11.LQ.19. Phòng, chống tấn công mạng 1. Hành vi tấn công mạng và hành vi có liên quan đến tấn công mạng bao gồm:
+
+### 0101100000000000300002000000000000000000
+
+Điều 1.11.LQ.20. Phòng, chống khủng bố mạng 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm áp dụng biện pháp theo quy định của Luật này, Điều 29 của Luật An toàn thông tin mạng và pháp luật về phòng, chống khủng bố để xử lý khủng bố mạng.
+
+### 0101100000000000300002100000000000000000
+
+Điều 1.11.LQ.21. Phòng ngừa, xử lý tình huống nguy hiểm về an ninh mạng 1. Tình huống nguy hiểm về an ninh mạng bao gồm:
+
+### 0101100000000000300002200000000000000000
+
+Điều 1.11.LQ.22. Đấu tranh bảo vệ an ninh mạng 1. Đấu tranh bảo vệ an ninh mạng là hoạt động có tổ chức do lực lượng chuyên trách bảo vệ an ninh mạng thực hiện trên không gian mạng nhằm bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội.
+
+### 01011000000000004000
+
+Chương IV HOẠT ĐỘNG BẢO VỆ AN NINH MẠNG
+
+### 0101100000000000400002300000000000000000
+
+Điều 1.11.LQ.23. Triển khai hoạt động bảo vệ an ninh mạng trong cơ quan nhà nước, tổ chức chính trị ở trung ương và địa phương 1. Nội dung triển khai hoạt động bảo vệ an ninh mạng bao gồm:
+
+### 0101100000000000400002400000000000000000
+
+Điều 1.11.LQ.24. Kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức không thuộc Danh mục hệ thống thông tin quan trọng về an ninh quốc gia 1. Kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức không thuộc Danh mục hệ thống thông tin quan trọng về an ninh quốc gia trong trường hợp sau đây:
+
+### 0101100000000000400002500000000000000000
+
+Điều 1.11.LQ.25. Bảo vệ an ninh mạng đối với cơ sở hạ tầng không gian mạng quốc gia, cổng kết nối mạng quốc tế 1. Bảo vệ an ninh mạng đối với cơ sở hạ tầng không gian mạng quốc gia, cổng kết nối mạng quốc tế phải bảo đảm kết hợp chặt chẽ giữa yêu cầu bảo vệ an ninh mạng với yêu cầu phát triển kinh tế - xã hội; khuyến khích cổng kết nối quốc tế đặt trên lãnh thổ Việt Nam; khuyến khích tổ chức, cá nhân tham gia đầu tư xây dựng cơ sở hạ tầng không gian mạng quốc gia.
+
+### 0101100000000000400002600000000000000000
+
+Điều 1.11.LQ.26. Bảo đảm an ninh thông tin trên không gian mạng 1. Trang thông tin điện tử, cổng thông tin điện tử hoặc chuyên trang trên mạng xã hội của cơ quan, tổ chức, cá nhân không được cung cấp, đăng tải, truyền đưa thông tin có nội dung quy định tại các khoản 1, 2, 3, 4 và 5 Điều 16 của Luật này và thông tin khác có nội dung xâm phạm an ninh quốc gia.
+
+### 010110000000000040000260000000000000000000402835100130000300
+
+Điều 1.11.NĐ.1.3. Nguyên tắc bảo vệ dữ liệu cá nhân 1. Dữ liệu cá nhân được xử lý theo quy định của pháp luật.
+
+### 010110000000000040000260000000000000000000402835100130000400
+
+Điều 1.11.NĐ.1.4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân Cơ quan, tổ chức, cá nhân vi phạm quy định bảo vệ dữ liệu cá nhân tùy theo mức độ có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính, xử lý hình sự theo quy định.
+
+### 010110000000000040000260000000000000000000402835100130000500
+
+Điều 1.11.NĐ.1.5. Quản lý nhà nước về bảo vệ dữ liệu cá nhân Chính phủ thống nhất quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130000600
+
+Điều 1.11.NĐ.1.6. Áp dụng Nghị định bảo vệ dữ liệu cá nhân, các luật liên quan và Điều ước quốc tế Việc bảo vệ dữ liệu cá nhân được thực hiện theo quy định các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, các quy định khác của Luật có liên quan và Nghị định này.
+
+### 010110000000000040000260000000000000000000402835100130000700
+
+Điều 1.11.NĐ.1.7. Hợp tác quốc tế về bảo vệ dữ liệu cá nhân 1. Xây dựng cơ chế hợp tác quốc tế để tạo điều kiện cho việc thực thi có hiệu quả pháp luật về bảo vệ dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130000800
+
+Điều 1.11.NĐ.1.8. Hành vi bị nghiêm cấm 1. Xử lý dữ liệu cá nhân trái với quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130000900
+
+Điều 1.11.NĐ.1.9. Quyền của chủ thể dữ liệu 1. Quyền được biết
+
+### 010110000000000040000260000000000000000000402835100130001000
+
+Điều 1.11.NĐ.1.10. Nghĩa vụ của chủ thể dữ liệu 1. Tự bảo vệ dữ liệu cá nhân của mình; yêu cầu các tổ chức, cá nhân khác có liên quan bảo vệ dữ liệu cá nhân của mình.
+
+### 010110000000000040000260000000000000000000402835100130001100
+
+Điều 1.11.NĐ.1.11. Sự đồng ý của chủ thể dữ liệu 1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động trong quy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.
+
+### 010110000000000040000260000000000000000000402835100130001200
+
+Điều 1.11.NĐ.1.12. Rút lại sự đồng ý 1. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ liệu đã được đồng ý trước khi rút lại sự đồng ý.
+
+### 010110000000000040000260000000000000000000402835100130001300
+
+Điều 1.11.NĐ.1.13. Thông báo xử lý dữ liệu cá nhân 1. Việc thông báo được thực hiện một lần trước khi tiến hành đối với hoạt động xử lý dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130001400
+
+Điều 1.11.NĐ.1.14. Cung cấp dữ liệu cá nhân 1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình.
+
+### 010110000000000040000260000000000000000000402835100130001500
+
+Điều 1.11.NĐ.1.15. Chỉnh sửa dữ liệu cá nhân 1. Chủ thể dữ liệu:
+
+### 010110000000000040000260000000000000000000402835100130001600
+
+Điều 1.11.NĐ.1.16. Lưu trữ, xóa, hủy dữ liệu cá nhân 1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường hợp sau:
+
+### 010110000000000040000260000000000000000000402835100130001700
+
+Điều 1.11.NĐ.1.17. Xử lý dữ liệu cá nhân trong trường hợp không cần sự đồng ý của chủ thể dữ liệu 1. Trong trường hợp khẩn cấp, cần xử lý ngay dữ liệu cá nhân có liên quan để bảo vệ tính mạng, sức khỏe của chủ thể dữ liệu hoặc người khác. Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên thứ ba có trách nhiệm chứng minh trường hợp này.
+
+### 010110000000000040000260000000000000000000402835100130001800
+
+Điều 1.11.NĐ.1.18. Xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình tại nơi công cộng Cơ quan, tổ chức có thẩm quyền được ghi âm, ghi hình và xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình tại nơi công cộng với mục đích bảo vệ an ninh quốc gia, trật tự an toàn xã hội, quyền và lợi ích hợp pháp của tổ chức, cá nhân theo quy định của pháp luật mà không cần có sự đồng ý của chủ thể. Khi thực hiện việc ghi âm, ghi hình, cơ quan, tổ chức có thẩm quyền có trách nhiệm thông báo để chủ thể hiểu được mình đang bị ghi âm, ghi hình, trừ trường hợp pháp luật có quy định khác.
+
+### 010110000000000040000260000000000000000000402835100130001900
+
+Điều 1.11.NĐ.1.19. Xử lý dữ liệu cá nhân của người bị tuyên bố mất tích, đã chết 1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thanh niên của người đó, trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp quy định tại Điều 17 và Điều 18 Nghị định này.
+
+### 010110000000000040000260000000000000000000402835100130002000
+
+Điều 1.11.NĐ.1.20. Xử lý dữ liệu cá nhân của trẻ em 1. Xử lý dữ liệu cá nhân của trẻ em luôn được thực hiện theo nguyên tắc bảo vệ các quyền và vì lợi ích tốt nhất của trẻ em.
+
+### 010110000000000040000260000000000000000000402835100130002100
+
+Điều 1.11.NĐ.1.21. Bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo 1. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt động kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo khi có sự đồng ý của chủ thể dữ liệu.
+
+### 010110000000000040000260000000000000000000402835100130002200
+
+Điều 1.11.NĐ.1.22. Thu thập, chuyển giao, mua, bán trái phép dữ liệu cá nhân 1. Tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân phải áp dụng các biện pháp bảo vệ dữ liệu cá nhân để ngăn chặn tình trạng thu thập dữ liệu cá nhân trái phép từ hệ thống, trang thiết bị dịch vụ của mình.
+
+### 010110000000000040000260000000000000000000402835100130002300
+
+Điều 1.11.NĐ.1.23. Thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân 1. Trường hợp phát hiện xảy ra vi phạm quy định bảo vệ dữ liệu cá nhân, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thông báo cho Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) chậm nhất 72 giờ sau khi xảy ra hành vi vi phạm theo Mẫu số 03 tại Phụ lục của Nghị định này. Trường hợp thông báo sau 72 giờ thì phải kèm theo lý do thông báo chậm, muộn.
+
+### 010110000000000040000260000000000000000000402835100130002400
+
+Điều 1.11.NĐ.1.24. Đánh giá tác động xử lý dữ liệu cá nhân 1. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân lập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kể từ thời điểm bắt đầu xử lý dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130002500
+
+Điều 1.11.NĐ.1.25. Chuyển dữ liệu cá nhân ra nước ngoài 1. Dữ liệu cá nhân của công dân Việt Nam được chuyển ra nước ngoài trong trường hợp Bên chuyển dữ liệu ra nước ngoài lập Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài và thực hiện các thủ tục theo quy định tại khoản 3, 4 và 5 Điều này. Bên chuyển dữ liệu ra nước ngoài bao gồm Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba.
+
+### 010110000000000040000260000000000000000000402835100130002600
+
+Điều 1.11.NĐ.1.26. Biện pháp bảo vệ dữ liệu cá nhân 1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong suốt quá trình xử lý dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130002700
+
+Điều 1.11.NĐ.1.27. Bảo vệ dữ liệu cá nhân cơ bản 1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.
+
+### 010110000000000040000260000000000000000000402835100130002800
+
+Điều 1.11.NĐ.1.28. Bảo vệ dữ liệu cá nhân nhạy cảm 1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27 Nghị định này.
+
+### 010110000000000040000260000000000000000000402835100130002900
+
+Điều 1.11.NĐ.1.29. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân và Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân 1. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an, có trách nhiệm giúp Bộ Công an thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130003000
+
+Điều 1.11.NĐ.1.30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân 1. Lực lượng bảo vệ dữ liệu cá nhân:
+
+### 010110000000000040000260000000000000000000402835100130003100
+
+Điều 1.11.NĐ.1.31. Kinh phí bảo đảm hoạt động bảo vệ dữ liệu cá nhân 1. Nguồn tài chính thực hiện bảo vệ dữ liệu cá nhân bao gồm ngân sách nhà nước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn thu từ hoạt động cung cấp dịch vụ bảo vệ dữ liệu cá nhân; viện trợ quốc tế và các nguồn thu hợp pháp khác.
+
+### 010110000000000040000260000000000000000000402835100130003200
+
+Điều 1.11.NĐ.1.32. Trách nhiệm của Bộ Công an 1. Giúp Chính phủ thống nhất thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130003300
+
+Điều 1.11.NĐ.1.33. Trách nhiệm của Bộ Thông tin và Truyền thông 1. Chỉ đạo các cơ quan truyền thông, báo chí, tổ chức và doanh nghiệp thuộc lĩnh vực quản lý thực hiện bảo vệ dữ liệu cá nhân theo quy định tại Nghị định này.
+
+### 010110000000000040000260000000000000000000402835100130003400
+
+Điều 1.11.NĐ.1.34. Trách nhiệm của Bộ Quốc phòng Quản lý, thanh tra, kiểm tra, giám sát, xử lý vi phạm và áp dụng các quy định bảo vệ dữ liệu cá nhân đối với các cơ quan, tổ chức, cá nhân thuộc phạm vi quản lý của Bộ Quốc phòng theo quy định pháp luật và chức năng, nhiệm vụ được giao.
+
+### 010110000000000040000260000000000000000000402835100130003500
+
+Điều 1.11.NĐ.1.35. Trách nhiệm của Bộ Khoa học và Công nghệ 1. Phối hợp với Bộ Công an trong xây dựng Tiêu chuẩn bảo vệ dữ liệu cá nhân và các khuyến nghị áp dụng Tiêu chuẩn bảo vệ dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130003600
+
+Điều 1.11.NĐ.1.36. Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ 1. Thực hiện quản lý nhà nước đối với bảo vệ dữ liệu cá nhân đối với các ngành, lĩnh vực quản lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130003700
+
+Điều 1.11.NĐ.1.37. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương 1. Thực hiện quản lý nhà nước đối với bảo vệ dữ liệu cá nhân đối với các ngành, lĩnh vực quản lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130003800
+
+Điều 1.11.NĐ.1.38. Trách nhiệm của Bên Kiểm soát dữ liệu cá nhân 1. Thực hiện các biện pháp tổ chức và kỹ thuật cùng các biện pháp an toàn, bảo mật phù hợp để chứng minh các hoạt động xử lý dữ liệu đã được thực hiện theo quy định của pháp luật về bảo vệ dữ liệu cá nhân, rà soát và cập nhật các biện pháp này khi cần thiết.
+
+### 010110000000000040000260000000000000000000402835100130003900
+
+Điều 1.11.NĐ.1.39. Trách nhiệm của Bên Xử lý dữ liệu cá nhân 1. Chỉ tiếp nhận dữ liệu cá nhân sau khi có hợp đồng hoặc thỏa thuận về xử lý dữ liệu với Bên Kiểm soát dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130004000
+
+Điều 1.11.NĐ.1.40. Trách nhiệm của Bên Kiểm soát và xử lý dữ liệu Thực hiện đầy đủ các quy định về trách nhiệm của Bên Kiểm soát dữ liệu cá nhân và Bên Xử lý dữ liệu cá nhân.
+
+### 010110000000000040000260000000000000000000402835100130004100
+
+Điều 1.11.NĐ.1.41. Trách nhiệm của Bên thứ Ba Thực hiện đầy đủ các quy định về trách nhiệm xử lý dữ liệu cá nhân theo quy định tại Nghị định này.
+
+### 010110000000000040000260000000000000000000402835100130004200
+
+Điều 1.11.NĐ.1.42. Trách nhiệm của tổ chức, cá nhân có liên quan 1. Có biện pháp bảo vệ dữ liệu cá nhân của mình, chịu trách nhiệm về tính chính xác của dữ liệu cá nhân do mình cung cấp.
+
+### 0101100000000000400002700000000000000000
+
+Điều 1.11.LQ.27. Nghiên cứu, phát triển an ninh mạng 1. Nội dung nghiên cứu, phát triển an ninh mạng bao gồm:
+
+### 0101100000000000400002800000000000000000
+
+Điều 1.11.LQ.28. Nâng cao năng lực tự chủ về an ninh mạng 1. Nhà nước khuyến khích, tạo điều kiện để cơ quan, tổ chức, cá nhân nâng cao năng lực tự chủ về an ninh mạng và nâng cao khả năng sản xuất, kiểm tra, đánh giá, kiểm định thiết bị số, dịch vụ mạng, ứng dụng mạng.
+
+### 0101100000000000400002900000000000000000
+
+Điều 1.11.LQ.29. Bảo vệ trẻ em trên không gian mạng 1. Trẻ em có quyền được bảo vệ, tiếp cận thông tin, tham gia hoạt động xã hội, vui chơi, giải trí, giữ bí mật cá nhân, đời sống riêng tư và các quyền khác khi tham gia trên không gian mạng.
+
+### 01011000000000005000
+
+Chương V BẢO ĐẢM HOẠT ĐỘNG BẢO VỆ AN NINH MẠNG
+
+### 0101100000000000500003000000000000000000
+
+Điều 1.11.LQ.30. Lực lượng bảo vệ an ninh mạng 1. Lực lượng chuyên trách bảo vệ an ninh mạng được bố trí tại Bộ Công an, Bộ Quốc phòng.
+
+### 0101100000000000500003100000000000000000
+
+Điều 1.11.LQ.31. Bảo đảm nguồn nhân lực bảo vệ an ninh mạng 1. Công dân Việt Nam có kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin là nguồn lực cơ bản, chủ yếu bảo vệ an ninh mạng.
+
+### 0101100000000000500003200000000000000000
+
+Điều 1.11.LQ.32. Tuyển chọn, đào tạo, phát triển lực lượng bảo vệ an ninh mạng 1. Công dân Việt Nam có đủ tiêu chuẩn về phẩm chất đạo đức, sức khỏe, trình độ, kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin, có nguyện vọng thì có thể được tuyển chọn vào lực lượng bảo vệ an ninh mạng.
+
+### 0101100000000000500003300000000000000000
+
+Điều 1.11.LQ.33. Giáo dục, bồi dưỡng kiến thức, nghiệp vụ an ninh mạng 1. Nội dung giáo dục, bồi dưỡng kiến thức an ninh mạng được đưa vào môn học giáo dục quốc phòng và an ninh trong nhà trường, chương trình bồi dưỡng kiến thức quốc phòng và an ninh theo quy định của Luật Giáo dục quốc phòng và an ninh.
+
+### 0101100000000000500003400000000000000000
+
+Điều 1.11.LQ.34. Phổ biến kiến thức về an ninh mạng 1. Nhà nước có chính sách phổ biến kiến thức về an ninh mạng trong phạm vi cả nước, khuyến khích cơ quan nhà nước phối hợp với tổ chức tư nhân, cá nhân thực hiện chương trình giáo dục và nâng cao nhận thức về an ninh mạng.
+
+### 0101100000000000500003500000000000000000
+
+Điều 1.11.LQ.35. Kinh phí bảo vệ an ninh mạng 1. Kinh phí bảo vệ an ninh mạng của cơ quan nhà nước, tổ chức chính trị do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách nhà nước hằng năm. Việc quản lý, sử dụng kinh phí từ ngân sách nhà nước thực hiện theo quy định của pháp luật về ngân sách nhà nước.
+
+### 01011000000000006000
+
+Chương VI TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
+
+### 0101100000000000600003600000000000000000
+
+Điều 1.11.LQ.36. Trách nhiệm của Bộ Công an Bộ Công an chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh mạng và có nhiệm vụ, quyền hạn sau đây, trừ nội dung thuộc trách nhiệm của Bộ Quốc phòng và Ban Cơ yếu Chính phủ:
+
+### 0101100000000000600003700000000000000000
+
+Điều 1.11.LQ.37. Trách nhiệm của Bộ Quốc phòng Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh mạng trong phạm vi quản lý và có nhiệm vụ, quyền hạn sau đây:
+
+### 0101100000000000600003800000000000000000
+
+Điều 1.11.LQ.38. Trách nhiệm của Bộ Thông tin và Truyền thông 1. Phối hợp với Bộ Công an, Bộ Quốc phòng trong bảo vệ an ninh mạng.
+
+### 0101100000000000600003900000000000000000
+
+Điều 1.11.LQ.39. Trách nhiệm của Ban Cơ yếu Chính phủ 1. Tham mưu, đề xuất Bộ trưởng Bộ Quốc phòng ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật, chương trình, kế hoạch về mật mã để bảo vệ an ninh mạng thuộc phạm vi Ban Cơ yếu Chính phủ quản lý.
+
+### 0101100000000000600004000000000000000000
+
+Điều 1.11.LQ.40. Trách nhiệm của Bộ, ngành, Ủy ban nhân dân cấp tỉnh Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ, ngành, Ủy ban nhân dân cấp tỉnh có trách nhiệm thực hiện công tác bảo vệ an ninh mạng đối với thông tin, hệ thống thông tin thuộc phạm vi quản lý; phối hợp với Bộ Công an thực hiện quản lý nhà nước về an ninh mạng của Bộ, ngành, địa phương.
+
+### 0101100000000000600004100000000000000000
+
+Điều 1.11.LQ.41. Trách nhiệm của doanh nghiệp cung cấp dịch vụ trên không gian mạng 1. Doanh nghiệp cung cấp dịch vụ trên không gian mạng tại Việt Nam có trách nhiệm sau đây:
+
+### 0101100000000000600004200000000000000000
+
+Điều 1.11.LQ.42. Trách nhiệm của cơ quan, tổ chức, cá nhân sử dụng không gian mạng 1. Tuân thủ quy định của pháp luật về an ninh mạng.
+
+### 01011000000000007000
+
+Chương VII ĐIỀU KHOẢN THI HÀNH
+
+### 0101100000000000700004300000000000000000
+
+Điều 1.11.LQ.43. Hiệu lực thi hành 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2019.
+
+### 0101100000000000700004340283510013000430
+
+Điều 1.11.NĐ.1.43. Hiệu lực thi hành 1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
+
+### 0101100000000000700004340283510013000440
+
+Điều 1.11.NĐ.1.44. Trách nhiệm thi hành 1. Bộ trưởng Bộ Công an đôn đốc, kiểm tra, hướng dẫn việc thực hiện Nghị định này.
+

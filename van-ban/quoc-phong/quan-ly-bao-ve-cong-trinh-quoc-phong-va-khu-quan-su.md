@@ -1,36 +1,8 @@
 ---
-layout: default
+layout: page
 title: Quản lý, bảo vệ công trình quốc phòng và khu quân sự
 permalink: /van-ban/quoc-phong/quan-ly-bao-ve-cong-trinh-quoc-phong-va-khu-quan-su/
-collection: subtopics
-slug: quan-ly-bao-ve-cong-trinh-quoc-phong-va-khu-quan-su
-parent: quoc-phong
 ---
 
 # Quản lý, bảo vệ công trình quốc phòng và khu quân sự
 
-**Đề mục:** Quản lý, bảo vệ công trình quốc phòng và khu quân sự  
-**Chủ đề:** [Quốc phòng](/quoc-phong/)  
-**Số điều khoản:** 0  
-**Điều khoản có nội dung:** 0/0 (0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
-
-## 📜 Nội dung Điều khoản
-
-
-## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](/quoc-phong/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số điều khoản:** 0
-- **Điều khoản thực tế:** 0
-- **Điều khoản có nội dung:** 0 (0%)
-- **ID đề mục:** b444d15f0b38474bbf135188e9a517bb
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

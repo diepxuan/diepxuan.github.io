@@ -1,1362 +1,4802 @@
 ---
-layout: default
+layout: page
 title: Thuế thu nhập doanh nghiệp
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-thu-nhap-doanh-nghiep/
-collection: subtopics
-slug: thue-thu-nhap-doanh-nghiep
-parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---
 
 # Thuế thu nhập doanh nghiệp
 
-**Đề mục:** Thuế thu nhập doanh nghiệp  
-**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](/thue-phi-le-phi-cac-khoan-thu-khac/)  
-**Số điều khoản:** 112  
-**Điều khoản có nội dung:** 31/102 (30.4%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 33.11.LQ.1. Phạm vi điều chỉnh
+(Chương này có nội dung liên quan đến Điều 30. ; Điều 32. của )
 
-*Nội dung chưa có sẵn*
+Điều 33.11.LQ.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Luật số 14/2008/QH12 Thuế thu nhập doanh nghiệp ngày 03/06/2008 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2009 )
 
-**Mã phân cấp:** 3301100000000000100000100000000000000000
+Luật này quy định về người nộp thuế, thu nhập chịu thuế, thu nhập được miễn thuế, căn cứ tính thuế, phương pháp tính thuế và ưu đãi thuế thu nhập doanh nghiệp.
 
-**ID:** dk_00053894
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 7.2.LQ.54. Chính sách ưu đãi; Điều 7.2.LQ.56. Công tác kế toán, kiểm toán đối với hoạt động dầu khí theo hợp đồng dầu khí của Luật 12/2022/QH15 Luật Dầu khí ban hành ngày 14/11/2022; Điều 24.6.TT.3.11. Quy định về việc sử dụng nguồn tài chính trong đơn vị khai thác công trình thủy lợi)
 
----
+Điều 33.11.NQ.1.1. Đối tượng áp dụng
 
+(Điều 1 Nghị quyết số 116/2020/QH14 Về giảm thuế thu nhập doanh nghiệp phải nộp của năm 2020 đối với doanh nghiệp, hợp tác xã, đơn vị sự nghiệp và tổ chức khác ngày 19/06/2020 của Chủ tịch Quốc hội, có hiệu lực thi hành kể từ ngày 03/08/2020 )
 
-### Điều 33.11.NQ.1.1. Đối tượng áp dụng
+Nghị quyết này áp dụng đối với người nộp thuế thu nhập doanh nghiệp là tổ chức hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế theo quy định của Luật Thuế thu nhập doanh nghiệp (sau đây gọi là doanh nghiệp), bao gồm:
 
-*Nội dung chưa có sẵn*
+1. Doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam;
 
-**Chỉ mục:** 1
+2. Tổ chức được thành lập theo Luật Hợp tác xã;
 
-**Mã phân cấp:** 3301100000000000100000100005000000000000
+3. Đơn vị sự nghiệp được thành lập theo quy định của pháp luật Việt Nam;
 
-**ID:** dk_00053895
+4. Tổ chức khác được thành lập theo quy định của pháp luật Việt Nam có hoạt động sản xuất, kinh doanh có thu nhập.
 
----
+(Điều này có nội dung liên quan đến Điều 33.11.LQ.3. Thu nhập chịu thuế; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 3. Hợp tác xã, liên hiệp hợp tác xã của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012; Điều 33.11.NĐ.3.1. Đối tượng áp dụng)
 
+Điều 33.11.NĐ.2.1. Phạm vi điều chỉnh
 
-### Điều 33.11.NĐ.2.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 218/2013/NĐ-CP Quy định chit tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ngày 26/12/2013 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/02/2014 )
 
-*Nội dung chưa có sẵn*
+Nghị định này quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế thu nhập doanh nghiệp và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp về: Người nộp thuế; thu nhập chịu thuế, thu nhập miễn thuế; xác định thu nhập tính thuế, xác định lỗ và chuyển lỗ; doanh thu; các khoản chi phí được trừ và không được trừ khi xác định thu nhập chịu thuế; thuế suất; phương pháp tính thuế; ưu đãi thuế và điều kiện áp dụng ưu đãi thuế.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 33.11.TT.4.1. Phạm vi điều chỉnh; Điều 33.11.TT.6.2. Về chi phí thực hiện hoạt động quảng bá sản phẩm, phân loại rác tại nguồn)
 
-**Mã phân cấp:** 3301100000000000100000101000000000000000
+Điều 33.11.NĐ.3.1. Đối tượng áp dụng
 
-**ID:** dk_00053896
+(Điều 1 Nghị định số 114/2020/NĐ-CP Nghị định quy định chi tiết thi hành Nghị quyết số 116/2020/QH14 của Quốc hội về giảm thuế thu nhập doanh nghiệp phải nộp của năm 2020 đối với doanh nghiệp, hợp tác xã, đơn vị sự nghiệp và tổ chức khác ngày 25/09/2020 của Chính phủ, có hiệu lực thi hành kể từ ngày 03/08/2020 )
 
----
+Nghị định này áp dụng đối với người nộp thuế thu nhập doanh nghiệp là tổ chức hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế (sau đây gọi chung là doanh nghiệp) theo quy định tại Điều 1 Nghị quyết số 116/2020/QH14, bao gồm:
 
+1. Doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam.
 
-### Điều 33.11.NĐ.3.1. Đối tượng áp dụng
+2. Tổ chức được thành lập theo Luật Hợp tác xã.
 
-*Nội dung chưa có sẵn*
+3. Đơn vị sự nghiệp được thành lập theo quy định của pháp luật Việt Nam.
 
-**Chỉ mục:** 1
+4. Tổ chức khác được thành lập theo quy định của pháp luật Việt Nam có hoạt động sản xuất, kinh doanh có thu nhập.
 
-**Mã phân cấp:** 3301100000000000100000101044550000000000
+(Điều này có nội dung liên quan đến Điều 3. Hợp tác xã, liên hiệp hợp tác xã của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012; Điều 33.11.NQ.1.1. Đối tượng áp dụng)
 
-**ID:** dk_00053897
+Điều 33.11.TT.4.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 78/2014/TT-BTC Hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ngày 18/06/2014 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 02/08/2014 )
 
+Thông tư này hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập doanh nghiệp và Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp.
 
-### Điều 33.11.TT.4.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3301100000000000100000103970000000000000
-
-**ID:** dk_00053898
-
----
-
-
-### Điều 33.11.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
+(Điều này có nội dung liên quan đến Điều 33.11.NĐ.2.1. Phạm vi điều chỉnh)
 
 Điều 33.11.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 48/2019/TT-BTC Hướng dẫn việc trích lập và xử lý các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư, nợ phải thu khó đòi và bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng tại doanh nghiệp ngày 08/08/2019 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 10/10/2019 )
 
-**Mã phân cấp:** 3301100000000000100000180270030048000010
+1. Thông tư này hướng dẫn việc trích lập và xử lý các khoản dự phòng giảm giá hàng tồn kho, dự phòng tổn thất các khoản đầu tư, dự phòng tổn thất nợ phải thu khó đòi và dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng làm cơ sở xác định khoản chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp theo quy định.
 
-**ID:** dk_00053899
+Việc trích lập các khoản dự phòng cho mục đích lập và trình bày báo cáo tài chính của các tổ chức kinh tế thực hiện theo pháp luật về kế toán.
 
----
+2. Thông tư này áp dụng đối với các đối tượng là các tổ chức kinh tế (sau đây gọi tắt là doanh nghiệp) được thành lập, hoạt động sản xuất, kinh doanh theo quy định của pháp luật Việt Nam.
 
+Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được thành lập hợp pháp tại Việt Nam thực hiện trích lập và xử lý các khoản dự phòng theo quy định tại Thông tư này. Riêng đối với dự phòng rủi ro trong hoạt động của tổchức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện trích lập và sử dụng theo quy định do Ngân hàng Nhà nước Việt Nam ban hành sau khi thống nhất với Bộ Tài chính.
 
-### Điều 33.11.TT.7.2. Giải thích từ ngữ
+Điều 33.11.TT.7.2. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 48/2019/TT-BTC, có hiệu lực thi hành kể từ ngày 10/10/2019)
 
-**Chỉ mục:** 2
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-**Mã phân cấp:** 3301100000000000100000180270030048000020
+1. Dự phòng giảm giá hàng tồn kho: là dự phòng khi có sự suy giảm của giá trị thuần có thể thực hiện được thấp hơn so với giá trị ghi sổ của hàng tồn kho.
 
-**ID:** dk_00053900
+2. Dự phòng tổn thất các khoản đầu tư: là dự phòng phần giá trị bị tổn thất có thể xảy ra do giảm giá các loại chứng khoán doanh nghiệp đang nắm giữ và dự phòng tổn thất có thể xảy ra do suy giảm giá trị khoản đầu tư khác của doanh nghiệp vào các tổ chức kinh tế nhận vốn góp (không bao gồm các khoản đầu tư ra nước ngoài).
 
----
+3. Dự phòng nợ phải thu khó đòi: là dự phòng phần giá trị tổn thất của các khoản nợ phải thu đã quá hạn thanh toán và khoản nợ phải thu chưa đến hạn thanh toán nhưng có khả năng không thu hồi được đúng hạn.
 
-
-### Điều 33.11.TT.9.1. Phạm vi điều chỉnh và đối tượng áp dụng
+4. Dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng: là dự phòng chi phí cho những sản phẩm, hàng hóa, dịch vụ, công trình xây dựng đã bán, đã cung cấp hoặc đã bàn giao cho người mua nhưng doanh nghiệp vẫn có nghĩa vụ phải tiếp tục sửa chữa, hoàn thiện theo hợp đồng hoặc theo cam kết với khách hàng.
 
 Điều 33.11.TT.9.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 67/2022/TT-BTC Hướng dẫn về nghĩa vụ thuế khi doanh nghiệp trích lập và sử dụng Quỹ phát triển khoa học và công nghệ của doanh nghiệp ngày 07/11/2022 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 23/12/2022 )
 
-**Mã phân cấp:** 3301100000000000100000180281900067000010
+1. Phạm vi điều chỉnh: Thông tư này hướng dẫn về nghĩa vụ thuế khi doanh nghiệp trích lập và sử dụng Quỹ phát triển khoa học và công nghệ của doanh nghiệp (sau đây gọi chung là Quỹ).
 
-**ID:** dk_00053901
+2. Đối tượng áp dụng: Các doanh nghiệp được thành lập và hoạt động theo quy định của pháp luật Việt Nam (sau đây gọi chung là doanh nghiệp), các cơ quan nhà nước, tổ chức, cá nhân khác có liên quan.
 
----
+Điều 33.11.LQ.2. Người nộp thuế
 
+(Điều 2 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 của Luật số 32/2013/QH13 sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp, có hiệu lực kể từ ngày 01 tháng 01 năm 2014)
 
-### Điều 33.11.LQ.2. Người nộp thuế
+1. Người nộp thuế thu nhập doanh nghiệp là tổ chức hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế theo quy định của Luật này (sau đây gọi là doanh nghiệp), bao gồm:
 
-*Nội dung chưa có sẵn*
+a) Doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam;
 
-**Chỉ mục:** 2
+b) Doanh nghiệp được thành lập theo quy định của pháp luật nước ngoài (sau đây gọi là doanh nghiệp nước ngoài) có cơ sở thường trú hoặc không có cơ sở thường trú tại Việt Nam;
 
-**Mã phân cấp:** 3301100000000000100000200000000000000000
+c) Tổ chức được thành lập theo Luật hợp tác xã;
 
-**ID:** dk_00053902
+d) Đơn vị sự nghiệp được thành lập theo quy định của pháp luật Việt Nam;
 
----
+đ) Tổ chức khác có hoạt động sản xuất, kinh doanh có thu nhập.
 
+2. Doanh nghiệp có thu nhập chịu thuế quy định tại Điều 3 của Luật này phải nộp thuế thu nhập doanh nghiệp như sau:
 
-### Điều 33.11.NĐ.2.2. Người nộp thuế
+a) Doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam và thu nhập chịu thuế phát sinh ngoài Việt Nam;
 
-*Nội dung chưa có sẵn*
+b) Doanh nghiệp nước ngoài có cơ sở thường trú tại Việt Nam nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam và thu nhập chịu thuế phát sinh ngoài Việt Nam liên quan đến hoạt động của cơ sở thường trú đó;
 
-**Chỉ mục:** 2
+c) Doanh nghiệp nước ngoài có cơ sở thường trú tại Việt Nam nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam mà khoản thu nhập này không liên quan đến hoạt động của cơ sở thường trú;
 
-**Mã phân cấp:** 330110000000000010000020000000000000000000402495202180000200
+d) Doanh nghiệp nước ngoài không có cơ sở thường trú tại Việt Nam nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam.
 
-**ID:** dk_00053903
+3. Cơ sở thường trú của doanh nghiệp nước ngoài là cơ sở sản xuất, kinh doanh mà thông qua cơ sở này, doanh nghiệp nước ngoài tiến hành một phần hoặc toàn bộ hoạt động sản xuất, kinh doanh tại Việt Nam, bao gồm:
 
----
+a) Chi nhánh, văn phòng điều hành, nhà máy, công xưởng, phương tiện vận tải, mỏ dầu, mỏ khí, mỏ hoặc địa điểm khai thác tài nguyên thiên nhiên khác tại Việt Nam;
 
+b) Địa điểm xây dựng, công trình xây dựng, lắp đặt, lắp ráp;
 
-### Điều 33.11.TT.4.2. Người nộp thuế
+c) Cơ sở cung cấp dịch vụ, bao gồm cả dịch vụ tư vấn thông qua người làm công hoặc tổ chức, cá nhân khác;
 
-*Nội dung chưa có sẵn*
+d) Đại lý cho doanh nghiệp nước ngoài;
 
-**Chỉ mục:** 2
+đ) Đại diện tại Việt Nam trong trường hợp là đại diện có thẩm quyền ký kết hợp đồng đứng tên doanh nghiệp nước ngoài hoặc đại diện không có thẩm quyền ký kết hợp đồng đứng tên doanh nghiệp nước ngoài nhưng thường xuyên thực hiện việc giao hàng hóa hoặc cung ứng dịch vụ tại Việt Nam.
 
-**Mã phân cấp:** 33011000000000001000002000000000000000000040249520218000020000802512600780000200
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. ; Điều 33.11.LQ.3. Thu nhập chịu thuế; Điều 33.11.LQ.11. Phương pháp tính thuế; Điều 1. Phạm vi điều chỉnh của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012; Điều 33.11.NĐ.2.2. Người nộp thuế; Điều 33.11.NĐ.2.3. Thu nhập chịu thuế; Điều 33.11.NĐ.2.11. Phương pháp tính thuế)
 
-**ID:** dk_00053904
+Điều 33.11.NĐ.2.2. Người nộp thuế
 
----
+(Điều 2 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
 
+Người nộp thuế thực hiện theo quy định tại Điều 2 Luật thuế thu nhập doanh nghiệp và Khoản 1 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp.
 
-### Điều 33.11.LQ.3. Thu nhập chịu thuế
+1. Người nộp thuế theo quy định tại Khoản 1 Điều 2 Luật thuế thu nhập doanh nghiệp bao gồm:
 
-*Nội dung chưa có sẵn*
+a) Doanh nghiệp được thành lập và hoạt động theo quy định của Luật doanh nghiệp, Luật đầu tư, Luật các tổ chức tín dụng, Luật kinh doanh bảo hiểm, Luật chứng khoán, Luật dầu khí, Luật thương mại và quy định tại các văn bản pháp luật khác dưới các hình thức: Công ty cổ phần; công ty trách nhiệm hữu hạn; công ty hợp danh; doanh nghiệp tư nhân; các bên trong hợp đồng hợp tác kinh doanh; các bên trong hợp đồng phân chia sản phẩm dầu khí, xí nghiệp liên doanh dầu khí, công ty điều hành chung;
 
-**Chỉ mục:** 3
+b) Doanh nghiệp được thành lập theo quy định của pháp luật nước ngoài (sau đây gọi là doanh nghiệp nước ngoài) có cơ sở thường trú hoặc không có cơ sở thường trú tại Việt Nam;
 
-**Mã phân cấp:** 3301100000000000100000300000000000000000
+c) Các đơn vị sự nghiệp công lập, ngoài công lập sản xuất, kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế theo quy định tại Điều 3 Nghị định này;
 
-**ID:** dk_00053905
+d) Các tổ chức được thành lập và hoạt động theo Luật hợp tác xã;
 
----
+đ) Tổ chức khác ngoài tổ chức quy định tại các Điểm a, b, c, d Khoản này có hoạt động sản xuất, kinh doanh có thu nhập chịu thuế theo quy định tại Điều 3 Nghị định này.
 
+2. Tổ chức được thành lập và hoạt động (hoặc đăng ký hoạt động) theo quy định của pháp luật Việt Nam, cá nhân kinh doanh là người nộp thuế theo phương pháp khấu trừ tại nguồn trong trường hợp mua dịch vụ (kể cả mua dịch vụ gắn với hàng hóa, mua hàng hóa được cung cấp, phân phối theo hình thức xuất nhập khẩu tại chỗ hoặc theo các điều khoản thương mại quốc tế) trên cơ sở hợp đồng ký kết với doanh nghiệp nước ngoài quy định tại các Điểm c, d Khoản 2 Điều 2 Luật thuế thu nhập doanh nghiệp.
 
-### Điều 33.11.NĐ.2.3. Thu nhập chịu thuế
+Bộ Tài chính hướng dẫn cụ thể việc khấu trừ thuế quy định tại Khoản này.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 1. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 1. Phạm vi điều chỉnh. của Luật 24/2000/QH10 Kinh doanh bảo hiểm ban hành ngày 09/12/2000; Điều 1. Phạm vi điều chỉnh của Luật 68/2014/QH13 Doanh nghiệp ban hành ngày 26/11/2014; Điều 33.11.LQ.2. Người nộp thuế của Luật 14/2008/QH12 Thuế thu nhập doanh nghiệp ban hành ngày 03/06/2008; Điều 22.3.LQ.1. Phạm vi điều chỉnh; Điều 33.11.NĐ.2.3. Thu nhập chịu thuế của Nghị định 218/2013/NĐ-CP Quy định chit tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 26/12/2013)
 
-**Chỉ mục:** 3
+Điều 33.11.TT.4.2. Người nộp thuế
 
-**Mã phân cấp:** 330110000000000010000030000000000000000000402495202180000300
+(Điều 2 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
 
-**ID:** dk_00053906
+1. Người nộp thuế thu nhập doanh nghiệp là tổ chức hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế (sau đây gọi là doanh nghiệp), bao gồm:
 
----
+a) Doanh nghiệp được thành lập và hoạt động theo quy định của Luật Doanh nghiệp, Luật Đầu tư, Luật các tổ chức tín dụng, Luật Kinh doanh bảo hiểm, Luật Chứng khoán, Luật Dầu khí, Luật Thương mại và các văn bản quy phạm pháp luật khác dưới các hình thức: Công ty cổ phần; Công ty trách nhiệm hữu hạn; Công ty hợp danh; Doanh nghiệp tư nhân; Văn phòng Luật sư, Văn phòng công chứng tư; Các bên trong hợp đồng hợp tác kinh doanh; Các bên trong hợp đồng phân chia sản phẩm dầu khí, Xí nghiệp liên doanh dầu khí, Công ty điều hành chung.
 
+b) Đơn vị sự nghiệp công lập, ngoài công lập có sản xuất kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế trong tất cả các lĩnh vực.
 
-### Điều 33.11.NĐ.2.13. Thu nhập từ chuyển nhượng bất động sản bao gồm thu nhập từ chuyển quyền sử dụng đất, chuyển nhượng quyền thuê đất; thu nhập từ cho thuê lại đất của doanh nghiệp kinh doanh bất động sản theo quy định của pháp luật về đất đai không phân biệt có hay không có kết cấu hạ tầng, công trình kiến trúc gắn liền với đất; thu nhập từ chuyển nhượng nhà, công trình xây dựng gắn liền với đất đai, kể cả các tài sản gắn liền với nhà, công trình xây dựng đó không phân biệt có hay không có chuyển nhượng quyền sử dụng đất, chuyển nhượng quyền thuê đất; thu nhập từ chuyển nhượng các tài sản khác gắn liền với đất đai.
+c) Tổ chức được thành lập và hoạt động theo Luật Hợp tác xã.
+
+d) Doanh nghiệp được thành lập theo quy định của pháp luật nước ngoài (sau đây gọi là doanh nghiệp nước ngoài) có cơ sở thường trú tại Việt Nam.
+
+Cơ sở thường trú của doanh nghiệp nước ngoài là cơ sở sản xuất, kinh doanh mà thông qua cơ sở này, doanh nghiệp nước ngoài tiến hành một phần hoặc toàn bộ hoạt động sản xuất, kinh doanh tại Việt Nam, bao gồm:
+
+- Chi nhánh, văn phòng điều hành, nhà máy, công xưởng, phương tiện vận tải, hầm mỏ, mỏ dầu, khí hoặc địa điểm khai thác tài nguyên thiên nhiên khác tại Việt Nam;
+
+- Địa điểm xây dựng, công trình xây dựng, lắp đặt, lắp ráp;
+
+- Cơ sở cung cấp dịch vụ, bao gồm cả dịch vụ tư vấn thông qua người làm công hoặc tổ chức, cá nhân khác;
+
+- Đại lý cho doanh nghiệp nước ngoài;
+
+- Đại diện tại Việt Nam trong trường hợp là đại diện có thẩm quyền ký kết hợp đồng đứng tên doanh nghiệp nước ngoài hoặc đại diện không có thẩm quyền ký kết hợp đồng đứng tên doanh nghiệp nước ngoài nhưng thường xuyên thực hiện việc giao hàng hóa hoặc cung ứng dịch vụ tại Việt Nam.
+
+Trường hợp Hiệp định tránh đánh thuế hai lần mà Cộng hòa xã hội chủ nghĩa Việt Nam ký kết có quy định khác về cơ sở thường trú thì thực hiện theo quy định của Hiệp định đó.
+
+e) Tổ chức khác ngoài các tổ chức nêu tại các điểm a, b, c và d Khoản 1 Điều này có hoạt động sản xuất kinh doanh hàng hóa hoặc dịch vụ, có thu nhập chịu thuế.
+
+2. Tổ chức nước ngoài sản xuất kinh doanh tại Việt Nam không theo Luật Đầu tư, Luật Doanh nghiệp hoặc có thu nhập phát sinh tại Việt Nam nộp thuế thu nhập doanh nghiệp theo hướng dẫn riêng của Bộ Tài chính. Các tổ chức này nếu có hoạt động chuyển nhượng vốn thì thực hiện nộp thuế thu nhập doanh nghiệp theo hướng dẫn tại Điều 14 Chương IV Thông tư này.
+
+(Điều này có nội dung liên quan đến Điều 1. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 1. Phạm vi điều chỉnh. của Luật 24/2000/QH10 Kinh doanh bảo hiểm ban hành ngày 09/12/2000; Điều 2. Đối tượng áp dụng của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Điều 2. Đối tượng áp dụng của Luật 68/2014/QH13 Doanh nghiệp ban hành ngày 26/11/2014; Điều 34.13.LQ.2. Đối tượng áp dụng của Luật 36/2005/QH11 Thương mại ban hành ngày 14/06/2005; Điều 22.3.LQ.2. Đối tượng áp dụng; Điều 2. Đối tượng áp dụng của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012; Điều 37.1.LQ.1. Phạm vi điều chỉnh; Điều 33.11.TT.4.14. Thu nhập từ chuyển nhượng vốn của Thông tư 78/2014/TT-BTC Hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 18/06/2014)
+
+Điều 33.11.LQ.3. Thu nhập chịu thuế
+
+(Điều 3 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 1, khoản 2 Điều 1 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015; khoản 3 Điều 1 của Luật số 32/2013/QH13 sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp, có hiệu lực kể từ ngày 01 tháng 01 năm 2014. )
+
+1. Thu nhập chịu thuế bao gồm thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ và thu nhập khác quy định tại khoản 2 Điều này.
+
+2. Thu nhập khác bao gồm: thu nhập từ chuyển nhượng vốn, chuyển nhượng quyền góp vốn; thu nhập từ chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản; thu nhập từ quyền sử dụng tài sản, quyền sở hữu tài sản, kể cả thu nhập từ quyền sở hữu trí tuệ theo quy định của pháp luật; thu nhập từ chuyển nhượng, cho thuê, thanh lý tài sản, trong đó có các loại giấy tờ có giá; thu nhập từ lãi tiền gửi, cho vay vốn, bán ngoại tệ; khoản thu từ nợ khó đòi đã xóa nay đòi được; khoản thu từ nợ phải trả không xác định được chủ; khoản thu nhập từ kinh doanh của những năm trước bị bỏ sót và các khoản thu nhập khác.
+
+Doanh nghiệp Việt Nam đầu tư ở nước ngoài chuyển phần thu nhập sau khi đã nộp thuế thu nhập doanh nghiệp ở nước ngoài của doanh nghiệp về Việt Nam thì đối với các nước mà Việt Nam đã ký Hiệp định tránh đánh thuế hai lần thì thực hiện theo quy định của Hiệp định; đối với các nước mà Việt Nam chưa ký Hiệp định tránh đánh thuế hai lần thì trường hợp thuế thu nhập doanh nghiệp ở các nước mà doanh nghiệp chuyển về có mức thuế suất thuế thu nhập doanh nghiệp thấp hơn thì thu phần chênh lệch so với số thuế thu nhập doanh nghiệp tính theo Luật thuế thu nhập doanh nghiệp của Việt Nam.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. ; Điều 33.11.LQ.2. Người nộp thuế; Điều 33.11.NQ.1.1. Đối tượng áp dụng của Nghị quyết 116/2020/QH14 Về giảm thuế thu nhập doanh nghiệp phải nộp của năm 2020 đối với doanh nghiệp, hợp tác xã, đơn vị sự nghiệp và tổ chức khác ban hành ngày 19/06/2020)
+
+Điều 33.11.NĐ.2.3. Thu nhập chịu thuế
+
+(Điều 3 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014, có nội dung được sửa đổi, bổ sung, bãi bỏ theo quy định tại khoản 1 Điều 1 Nghị định số 91/2014/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 11 năm 2014 và áp dụng cho kỳ tính thuế thu nhập doanh nghiệp từ năm 2014; Khoản 1 Điều 1, Khoản 3 Điều 6 Nghị định số 12/2015/NĐ-CP, có hiệu lực từ ngày 01 tháng 01 năm 2015. )
+
+1. Thu nhập chịu thuế bao gồm thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ và thu nhập khác quy định tại Khoản 2 Điều này. Đối với doanh nghiệp đăng ký kinh doanh và có thu nhập quy định tại Khoản 2 Điều này thì thu nhập này được xác định là thu nhập từ hoạt động sản xuất, kinh doanh của cơ sở.
+
+2. Thu nhập khác bao gồm:
+
+a) Thu nhập từ chuyển nhượng vốn bao gồm thu nhập từ việc chuyển nhượng một phần hoặc toàn bộ số vốn đã đầu tư vào doanh nghiệp, kể cả trường hợp bán doanh nghiệp, chuyển nhượng chứng khoán, chuyển nhượng quyền góp vốn và các hình thức chuyển nhượng vốn khác theo quy định của pháp luật;
+
+b) Thu nhập từ chuyển nhượng dự án đầu tư, thu nhập từ chuyển nhượng quyền tham gia dự án đầu tư, thu nhập từ chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản theo quy định của pháp luật; thu nhập từ chuyển nhượng bất động sản theo quy định tại Điều 13 và Điều 14 Nghị định này;
+
+c) Thu nhập từ quyền sử dụng, quyền sở hữu tài sản kể cả thu nhập từ quyền sở hữu trí tuệ, thu nhập từ chuyển giao công nghệ theo quy định của pháp luật;
+
+d) Thu nhập từ chuyển nhượng, cho thuê, thanh lý tài sản (trừ bất động sản), trong đó có các loại giấy tờ có giá khác;
+
+đ) Thu nhập từ lãi tiền gửi, lãi cho vay vốn, bán ngoại tệ bao gồm: Lãi tiền gửi tại các tổ chức tín dụng, lãi cho vay vốn dưới mọi hình thức theo quy định của pháp luật bao gồm cả tiền lãi trả chậm, lãi trả góp, phí bảo lãnh tín dụng và các khoản phí khác trong hợp đồng cho vay vốn; thu nhập từ bán ngoại tệ; khoản chênh lệch tỷ giá do đánh giá lại các khoản nợ phải trả có gốc ngoại tệ cuối năm tài chính; khoản chênh lệch tỷ giá hối đoái phát sinh trong kỳ (riêng chênh lệch tỷ giá phát sinh trong quá trình đầu tư xây dựng cơ bản để hình thành tài sản cố định của doanh nghiệp mới thành lập mà tài sản cố định này chưa đi vào hoạt động sản xuất kinh doanh thực hiện theo hướng dẫn của Bộ Tài chính). Đối với khoản nợ phải thu, khoản cho vay có gốc ngoại tệ phát sinh trong kỳ thì chênh lệch tỷ giá hối đoái của các khoản nợ phải thu, khoản cho vay này là khoản chênh lệch giữa tỷ giá hối đoái tại thời điểm thu hồi nợ với tỷ giá hối đoái tại thời điểm ghi nhận khoản nợ phải thu hoặc khoản cho vay ban đầu;
+
+e) Các khoản trích trước vào chi phí nhưng không sử dụng hoặc sử dụng không hết theo kỳ hạn trích lập mà doanh nghiệp không hạch toán điều chỉnh giảm chi phí;
+
+g) Khoản nợ khó đòi đã xóa nay đòi được;
+
+h) Khoản nợ phải trả không xác định được chủ nợ;
+
+i) Khoản thu nhập từ kinh doanh của những năm trước bị bỏ sót phát hiện ra;
+
+k) Chênh lệch giữa thu về tiền phạt, tiền bồi thường do vi phạm hợp đồng kinh tế hoặc thưởng do thực hiện tốt cam kết theo hợp đồng (không bao gồm các khoản tiền phạt, tiền bồi thường được ghi giảm giá trị công trình trong giai đoạn đầu tư) trừ (-) đi khoản bị phạt, trả bồi thường do vi phạm hợp đồng theo quy định của pháp luật;
+
+l) Các khoản tài trợ bằng tiền hoặc hiện vật nhận được;
+
+*m) Chênh lệch do đánh giá lại tài sản theo quy định của pháp luật để góp vốn, điều chuyển khi chia, tách, sáp nhập, hợp nhất, chuyển đổi loại hình doanh nghiệp, trừ trường hợp cổ phần hóa, sắp xếp, đổi mới doanh nghiệp do nhà nước nắm giữ 100 % vốn điều lệ.*
+
+*Doanh nghiệp nhận tài sản được hạch toán theo giá đánh giá lại khi xác định chi phí được trừ quy định tại Điều 9 Nghị định này.*
+
+***n) (được bãi bỏ)***
+
+o) Các khoản thu nhập khác bao gồm cả thu nhập được miễn thuế quy định tại Khoản 6, Khoản 7 Điều 4 Nghị định này.
+
+*3. Thu nhập chịu thuế phát sinh tại Việt Nam của các doanh nghiệp nước ngoài quy định tại các Điểm c, d Khoản 2 Điều 2 Luật Thuế thu nhập doanh nghiệp là thu nhập nhận được có nguồn gốc từ Việt Nam từ hoạt động cung ứng dịch vụ, cung cấp và phân phối hàng hóa, cho vay vốn, tiền bản quyền cho tổ chức cá nhân Việt Nam hoặc cho tổ chức, cá nhân nước ngoài đang kinh doanh tại Việt Nam hoặc từ chuyển nhượng vốn, dự án đầu tư, quyền góp vốn, quyền tham gia các dự án đầu tư, quyền thăm dò, khai thác, chế biến tài nguyên khoáng sản tại Việt Nam, không phụ thuộc vào địa điểm tiến hành kinh doanh.*
+
+*Thu nhập chịu thuế quy định tại khoản này không bao gồm thu nhập từ dịch vụ thực hiện ngoài lãnh thổ Việt Nam như: Sửa chữa phương tiện vận tải, máy móc, thiết bị ở nước ngoài; quảng cáo, tiếp thị, xúc tiến đầu tư và xúc tiến thương mại ở nước ngoài; môi giới bán hàng hóa, môi giới bán dịch vụ ở nước ngoài; đào tạo ở nước ngoài; chia cước dịch vụ bưu chính, viễn thông quốc tế cho phía nước ngoài.*
+
+*Bộ Tài chính hướng dẫn cụ thể về thu nhập chịu thuế quy định tại Khoản này.*
+
+(Điều này có nội dung liên quan đến Điều 33.11.LQ.2. Người nộp thuế; Điều 33.11.NĐ.2.2. Người nộp thuế; Điều 33.11.NĐ.2.4. Thu nhập được miễn thuế; Điều 33.11.NĐ.2.13. Thu nhập từ chuyển nhượng bất động sản bao gồm thu nhập từ chuyển quyền sử dụng đất, chuyển nhượng quyền thuê đất; thu nhập từ cho thuê lại đất của doanh nghiệp kinh doanh bất động sản theo quy định của pháp luật về đất đai không phân biệt có hay không có kết cấu hạ tầng, công trình kiến trúc gắn liền với đất; thu nhập từ chuyển nhượng nhà, công trình xây dựng gắn liền với đất đai, kể cả các tài sản gắn liền với nhà, công trình xây dựng đó không phân biệt có hay không có chuyển nhượng quyền sử dụng đất, chuyển nhượng quyền thuê đất; thu nhập từ chuyển nhượng các tài sản khác gắn liền với đất đai.; Điều 33.11.NĐ.2.14. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định bằng doanh thu từ hoạt động chuyển nhượng bất động sản trừ giá vốn của bất động sản và các khoản chi phí được trừ liên quan đến hoạt động chuyển nhượng bất động sản.)
 
 Điều 33.11.NĐ.2.13. Thu nhập từ chuyển nhượng bất động sản bao gồm thu nhập từ chuyển quyền sử dụng đất, chuyển nhượng quyền thuê đất; thu nhập từ cho thuê lại đất của doanh nghiệp kinh doanh bất động sản theo quy định của pháp luật về đất đai không phân biệt có hay không có kết cấu hạ tầng, công trình kiến trúc gắn liền với đất; thu nhập từ chuyển nhượng nhà, công trình xây dựng gắn liền với đất đai, kể cả các tài sản gắn liền với nhà, công trình xây dựng đó không phân biệt có hay không có chuyển nhượng quyền sử dụng đất, chuyển nhượng quyền thuê đất; thu nhập từ chuyển nhượng các tài sản khác gắn liền với đất đai.
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
 
-**Mã phân cấp:** 330110000000000010000030000000000000000000402495202180001300
+(Điều này có nội dung liên quan đến Điều 33.11.NĐ.2.3. Thu nhập chịu thuế)
 
-**ID:** dk_00053907
+Điều 33.11.TT.4.16. Đối tượng chịu thuế
 
----
+(Điều 16 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
 
+1. Doanh nghiệp thuộc diện chịu thuế thu nhập từ chuyển nhượng bất động sản bao gồm: Doanh nghiệp thuộc mọi thành phần kinh tế, mọi ngành nghề có thu nhập từ hoạt động chuyển nhượng bất động sản; Doanh nghiệp kinh doanh bất động sản có thu nhập từ hoạt động cho thuê lại đất.
 
-### Điều 33.11.TT.4.16. Đối tượng chịu thuế
+2. Thu nhập từ hoạt động chuyển nhượng bất động sản bao gồm: thu nhập từ chuyển nhượng quyền sử dụng đất, chuyển nhượng quyền thuê đất (gồm cả chuyển nhượng dự án gắn với chuyển nhượng quyền sử dụng đất, quyền thuê đất theo quy định của pháp luật); Thu nhập từ hoạt động cho thuê lại đất của doanh nghiệp kinh doanh bất động sản theo quy định của pháp luật về đất đai không phân biệt có hay không có kết cấu hạ tầng, công trình kiến trúc gắn liền với đất; Thu nhập từ chuyển nhượng nhà, công trình xây dựng gắn liền với đất, kể cả các tài sản gắn liền với nhà, công trình xây dựng đó nếu không tách riêng giá trị tài sản khi chuyển nhượng không phân biệt có hay không có chuyển nhượng quyền sử dụng đất, chuyển nhượng quyền thuê đất; Thu nhập từ chuyển nhượng các tài sản gắn liền với đất; Thu nhập từ chuyển nhượng quyền sở hữu hoặc quyền sử dụng nhà ở.
 
-*Nội dung chưa có sẵn*
+Thu nhập từ cho thuê lại đất của doanh nghiệp kinh doanh bất động sản không bao gồm trường hợp doanh nghiệp chỉ cho thuê nhà, cơ sở hạ tầng, công trình kiến trúc trên đất.
 
-**Chỉ mục:** 16
+Điều 33.11.TT.4.17. Căn cứ tính thuế
 
-**Mã phân cấp:** 33011000000000001000003000000000000000000040249520218000130000802512600780001600
+(Điều 17 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
 
-**ID:** dk_00053908
+Căn cứ tính thuế thu nhập từ chuyển nhượng bất động sản là thu nhập tính thuế và thuế suất.
 
----
+Thu nhập tính thuế bằng (=) thu nhập chịu thuế trừ (-) các khoản lỗ của hoạt động chuyển nhượng bất động sản của các năm trước (nếu có).
 
+1. Thu nhập chịu thuế.
 
-### Điều 33.11.TT.4.17. Căn cứ tính thuế
+Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định bằng doanh thu thu được từ hoạt động chuyển nhượng bất động sản trừ giá vốn của bất động sản và các khoản chi phí được trừ liên quan đến hoạt động chuyển nhượng bất động sản.
 
-*Nội dung chưa có sẵn*
+a) Doanh thu từ hoạt động chuyển nhượng bất động sản.
 
-**Chỉ mục:** 17
+a.1) Doanh thu từ hoạt động chuyển nhượng bất động sản được xác định theo giá thực tế chuyển nhượng bất động sản theo hợp đồng chuyển nhượng, mua bán bất động sản phù hợp với quy định của pháp luật (bao gồm cả các khoản phụ thu và phí thu thêm nếu có).
 
-**Mã phân cấp:** 33011000000000001000003000000000000000000040249520218000130000802512600780001700
+Trường hợp giá chuyển quyền sử dụng đất theo hợp đồng chuyển nhượng, mua bán bất động sản thấp hơn giá đất tại bảng giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định tại thời điểm ký hợp đồng chuyển nhượng bất động sản thì tính theo giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định tại thời điểm ký hợp đồng chuyển nhượng bất động sản.
 
-**ID:** dk_00053909
+- Thời điểm xác định doanh thu tính thuế là thời điểm bên bán bàn giao bất động sản cho bên mua, không phụ thuộc việc bên mua đã đăng ký quyền sở hữu tài sản, quyền sử dụng đất, xác lập quyền sử dụng đất tại cơ quan nhà nước có thẩm quyền.
 
----
+- Trường hợp doanh nghiệp thực hiện dự án đầu tư cơ sở hạ tầng, nhà để chuyển nhượng hoặc cho thuê, có thu tiền ứng trước của khách hàng theo tiến độ dưới mọi hình thức thì thời điểm xác định doanh thu tính thuế thu nhập doanh nghiệp tạm nộp là thời điểm thu tiền của khách hàng, cụ thể:
 
++ Trường hợp doanh nghiệp có thu tiền của khách hàng mà xác định được chi phí tương ứng với doanh thu đã ghi nhận (bao gồm cả chi phí trích trước của phần dự toán hạng mục công trình chưa hoàn thành tương ứng với doanh thu đã ghi nhận) thì doanh nghiệp kê khai nộp thuế thu nhập doanh nghiệp theo doanh thu trừ chi phí.
 
-### Điều 33.11.NĐ.2.14. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định bằng doanh thu từ hoạt động chuyển nhượng bất động sản trừ giá vốn của bất động sản và các khoản chi phí được trừ liên quan đến hoạt động chuyển nhượng bất động sản.
++ Trường hợp doanh nghiệp có thu tiền của khách hàng mà chưa xác định được chi phí tương ứng với doanh thu thì doanh nghiệp kê khai tạm nộp thuế thu nhập doanh nghiệp theo tỷ lệ 1% trên doanh thu thu được tiền và doanh thu này chưa phải tính vào doanh thu tính thuế thu nhập doanh nghiệp trong năm.
+
+Khi bàn giao bất động sản doanh nghiệp phải thực hiện quyết toán thuế thu nhập doanh nghiệp và quyết toán lại số thuế thu nhập doanh nghiệp phải nộp. Trường hợp số thuế thu nhập doanh nghiệp đã tạm nộp thấp hơn số thuế thu nhập doanh nghiệp phải nộp thì doanh nghiệp phải nộp đủ số thuế còn thiếu vào Ngân sách Nhà nước. Trường hợp số thuế thu nhập doanh nghiệp đã tạm nộp lớn hơn số thuế phải nộp thì doanh nghiệp được trừ số thuế nộp thừa vào số thuế thu nhập doanh nghiệp phải nộp của kỳ tiếp theo hoặc được hoàn lại số thuế đã nộp thừa.
+
+Đối với doanh nghiệp kinh doanh bất động sản có thu tiền ứng trước của khách hàng theo tiến độ và kê khai tạm nộp thuế theo tỷ lệ % trên doanh thu thu được tiền, doanh thu này chưa phải tính vào doanh thu tính thuế thu nhập doanh nghiệp trong năm đồng thời có phát sinh chi phí quảng cáo, tiếp thị, khuyến mại, hoa hồng môi giới khi bắt đầu chào bán vào năm phát sinh doanh thu thu tiền theo tiến độ thì chưa tính các khoản chi phí này vào năm phát sinh chi phí. Các khoản chi phí quảng cáo, tiếp thị, khuyến mại, hoa hồng môi giới này được tính vào chi phí được trừ theo mức khống chế theo quy định vào năm đầu tiên bàn giao bất động sản, phát sinh doanh thu tính thuế thu nhập doanh nghiệp.
+
+a.2) Doanh thu để tính thu nhập chịu thuế trong một số trường hợp được xác định như sau:
+
+- Trường hợp doanh nghiệp có cho thuê lại đất thì doanh thu để tính thu nhập chịu thuế là số tiền bên thuê trả từng kỳ theo hợp đồng thuê. Trường hợp bên thuê trả tiền thuê trước cho nhiều năm thì doanh thu để tính thu nhập chịu thuế được phân bổ cho số năm trả tiền trước hoặc được xác định theo doanh thu trả tiền một lần. Việc chọn hình thức doanh thu trả tiền một lần chỉ được xác định khi doanh nghiệp đã đảm bảo hoàn thành các trách nhiệm tài chính đối với Nhà nước, đảm bảo các nghĩa vụ đối với các bên thuê lại đất cho hết thời hạn cho thuê lại đất.
+
+Trường hợp doanh nghiệp đang trong thời gian hưởng ưu đãi thuế thu nhập doanh nghiệp lựa chọn phương pháp xác định doanh thu để tính thu nhập chịu thuế là toàn bộ số tiền thuê bên thuê trả trước cho nhiều năm thì việc xác định số thuế thu nhập doanh nghiệp từng năm miễn thuế, giảm thuế căn cứ vào tổng số thuế thu nhập doanh nghiệp của số năm trả tiền trước chia (:) số năm bên thuê trả tiền trước.
+
+- Trường hợp tổ chức tín dụng nhận giá trị quyền sử dụng đất bảo đảm tiền vay để thay thế cho việc thực hiện nghĩa vụ được bảo đảm nếu có chuyển quyền sử dụng đất là tài sản thế chấp bảo đảm tiền vay thì doanh thu để tính thu nhập chịu thuế là giá chuyển nhượng quyền sử dụng đất do các bên thỏa thuận.
+
+- Trường hợp chuyển quyền sử dụng đất là tài sản kê biên bảo đảm thi hành án thì doanh thu để tính thu nhập chịu thuế là giá chuyển nhượng quyền sử dụng đất do các bên đương sự thỏa thuận hoặc giá do Hội đồng định giá xác định.
+
+Việc xác định doanh thu đối với các trường hợp nêu tại tiết a2 phải đảm bảo các nguyên tắc nêu tại tiết a1 điểm này.
+
+b) Chi phí chuyển nhượng bất động sản:
+
+b.1) Nguyên tắc xác định chi phí:
+
+- Các khoản chi được trừ để xác định thu nhập chịu thuế của hoạt động chuyển nhượng bất động sản trong kỳ tính thuế phải tương ứng với doanh thu để tính thu nhập chịu thuế và phải đảm bảo các điều kiện quy định các khoản chi được trừ và không thuộc các khoản chi không được trừ quy định tại Điều 6 Thông tư này.
+
+- Trường hợp dự án đầu tư hoàn thành từng phần và chuyển nhượng dần theo tiến độ hoàn thành thì các khoản chi phí chung sử dụng cho dự án, chi phí trực tiếp sử dụng cho phần dự án đã hoàn thành được phân bổ theo m2 đất chuyển quyền để xác định thu nhập chịu thuế của diện tích đất chuyển quyền; bao gồm: Chi phí đường giao thông nội bộ; khuôn viên cây xanh; chi phí đầu tư xây dựng hệ thống cấp, thoát nước; trạm biến thế điện; chi phí bồi thường về tài sản trên đất; Chi phí bồi thường, hỗ trợ, tái định cư và kinh phí tổ chức thực hiện bồi thường giải phóng mặt bằng được cấp có thẩm quyền phê duyệt còn lại chưa được trừ vào tiền sử dụng đất, tiền thuê đất theo quy định của chính sách thu tiền sử dụng đất, thu tiền thuê đất, tiền sử dụng đất, tiền thuê đất phải nộp Ngân sách Nhà nước, các chi phí khác đầu tư trên đất liên quan đến chuyển quyền sử dụng đất, chuyển quyền thuê đất.
+
+Việc phân bổ các chi phí trên được thực hiện theo công thức sau:
+
+ Chi phí phân bổ cho diện tích đất đã chuyển nhượng
+
+ =
+
+ Tổng chi phí đầu tư kết cấu hạ tầng
+
+ x
+
+ Diện tích đất đã chuyển nhượng
+
+ Tổng diện tích đất được giao làm dự án (trừ diện tích đất sử dụng vào mục đích công cộng theo quy định pháp luật về đất)
+
+Trường hợp một phần diện tích của dự án không chuyển nhượng được sử dụng vào hoạt động kinh doanh khác thì các khoản chi phí chung nêu trên cũng phân bổ cho cả phần diện tích này để theo dõi, hạch toán, kê khai nộp thuế thu nhập doanh nghiệp đối với hoạt động kinh doanh khác.
+
+Trường hợp doanh nghiệp có hoạt động đầu tư xây dựng cơ sở hạ tầng kéo dài trong nhiều năm và chỉ quyết toán giá trị kết cấu hạ tầng khi toàn bộ công việc hoàn tất thì khi tổng hợp chi phí chuyển nhượng bất động sản cho phần diện tích đất đã chuyển quyền, doanh nghiệp được tạm phân bổ chi phí đầu tư kết cấu hạ tầng thực tế đã phát sinh theo tỷ lệ diện tích đất đã chuyển quyền theo công thức nêu trên và trích trước các khoản chi phí đầu tư xây dựng cơ sở hạ tầng tương ứng với doanh thu đã ghi nhận khi xác định thu nhập chịu thuế. Sau khi hoàn tất quá trình đầu tư xây dựng, doanh nghiệp tính toán, điều chỉnh lại phần chi phí đầu tư kết cấu hạ tầng đã tạm phân bổ và trích trước cho phần diện tích đã chuyển quyền cho phù hợp với tổng giá trị kết cấu hạ tầng. Trường hợp khi điều chỉnh lại phát sinh số thuế nộp thừa so với số thuế thu nhập từ chuyển nhượng bất động sản phải nộp thì doanh nghiệp được trừ số thuế nộp thừa vào số thuế phải nộp của kỳ tính thuế tiếp theo hoặc được hoàn trả theo quy định hiện hành; nếu số thuế đã nộp chưa đủ thì doanh nghiệp có trách nhiệm nộp đủ số thuế còn thiếu theo quy định.
+
+b.2) Chi phí chuyển nhượng bất động sản được trừ bao gồm:
+
+- Giá vốn của đất chuyển quyền được xác định phù hợp với nguồn gốc quyền sử dụng đất, cụ thể như sau:
+
++ Đối với đất Nhà nước giao có thu tiền sử dụng đất, thu tiền cho thuê đất thì giá vốn là số tiền sử dụng đất, số tiền cho thuê đất thực nộp Ngân sách Nhà nước;
+
++ Đối với đất nhận quyền sử dụng của tổ chức, cá nhân khác thì căn cứ vào hợp đồng và chứng từ trả tiền hợp pháp khi nhận quyền sử dụng đất, quyền thuê đất; trường hợp không có hợp đồng và chứng từ trả tiền hợp pháp thì giá vốn được tính theo giá do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định tại thời điểm doanh nghiệp nhận chuyển nhượng bất động sản.
+
++ Đối với đất có nguồn gốc do góp vốn thì giá vốn là giá trị quyền sử dụng đất, quyền thuê đất theo biên bản định giá tài sản khi góp vốn;
+
++ Trường hợp doanh nghiệp đổi công trình lấy đất của Nhà nước thì giá vốn được xác định theo giá trị công trình đã đổi, trừ trường hợp thực hiện theo quy định riêng của cơ quan nhà nước có thẩm quyền.
+
++ Giá trúng đấu giá trong trường hợp đấu giá quyền sử dụng đất, quyền thuê đất;
+
++ Đối với đất của doanh nghiệp có nguồn gốc do thừa kế theo pháp luật dân sự; do được cho, biếu, tặng mà không xác định được giá vốn thì xác định theo giá các loại đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định căn cứ vào Bảng khung giá các loại đất do Chính phủ quy định tại thời điểm thừa kế, cho, biếu, tặng.
+
+Trường hợp đất của doanh nghiệp được thừa kế, cho, biếu, tặng trước năm 1994 thì giá vốn được xác định theo giá các loại đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định năm 1994 căn cứ vào Bảng khung giá các loại đất quy định tại Nghị định số 87/CP ngày 17 tháng 8 năm 1994 cua Chính phủ.
+
++ Đối với đất thế chấp bảo đảm tiền vay, đất là tài sản kê biên để bảo đảm thi hành án thì giá vốn đất được xác định tùy theo từng trường hợp cụ thể theo hướng dẫn tại các điểm nêu trên.
+
+- Chi phí đền bù thiệt hại về đất.
+
+- Chi phí đền bù thiệt hại về hoa màu.
+
+- Chi phí bồi thường, hỗ trợ, tái định cư và chi phí tổ chức thực hiện bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật.
+
+Các khoản chi phí bồi thường, đền bù, hỗ trợ, tái định cư và chi phí tổ chức thực hiện bồi thường, hỗ trợ, tái định cư nêu trên nếu không có hóa đơn thì được lập Bảng kê ghi rõ: tên; địa chỉ của người nhận; số tiền đền bù, hỗ trợ; chữ ký của người nhận tiền và được chính quyền phường, xã nơi có đất được đền bù, hỗ trợ xác nhận theo đúng quy định của pháp luật về bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất.
+
+- Các loại phí, lệ phí theo quy định của pháp luật liên quan đến cấp quyền sử dụng đất.
+
+- Chi phí cải tạo đất, san lấp mặt bằng.
+
+- Chi phí đầu tư xây dựng kết cấu hạ tầng như đường giao thông, điện, cấp nước, thoát nước, bưu chính viễn thông...
+
+- Giá trị kết cấu hạ tầng, công trình kiến trúc có trên đất.
+
+- Các khoản chi phí khác liên quan đến bất động sản được chuyển nhượng.
+
+Trường hợp doanh nghiệp có hoạt động kinh doanh nhiều ngành nghề khác nhau thì phải hạch toán riêng các khoản chi phí. Trường hợp không hạch toán riêng được chi phí của từng hoạt động thì chi phí chung được phân bổ theo tỷ lệ giữa doanh thu từ chuyển nhượng bất động sản so với tổng doanh thu của doanh nghiệp.
+
+Không được tính vào chi phí chuyển nhượng bất động sản các khoản chi phí đã được Nhà nước thanh toán hoặc thanh toán bằng nguồn vốn khác.
+
+2. Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng bất động sản là 22% (từ ngày 01/01/2016 là 20%).
+
+*3. Xác định số thuế thu nhập doanh nghiệp phải nộp:*
+
+*Số thuế thu nhập doanh nghiệp trong kỳ tính thuế đối với hoạt động chuyển nhượng bất động sản bằng thu nhập tính thuế từ hoạt động chuyển nhượng bất động sản nhân (x) với thuế suất 22%.*
+
+*Thu nhập từ chuyển nhượng bất động sản phải xác định riêng để kê khai nộp thuế và không áp dụng ưu đãi thuế thu nhập doanh nghiệp.*
+
+*Hồ sơ khai thuế, nộp thuế, chứng từ nộp thuế thu nhập từ chuyển nhượng bất động sản phát sinh tại địa phương nơi có bất động sản chuyển nhượng là căn cứ làm thủ tục quyết toán thuế nơi đặt trụ sở chính.*
+
+4. Trường hợp tổ chức tín dụng nhận giá trị bất động sản là tài sản bảo đảm tiền vay để thay thế cho việc thực hiện nghĩa vụ được bảo đảm thì tổ chức tín dụng khi được phép chuyển nhượng bất động sản theo quy định của pháp luật phải kê khai nộp thuế thu nhập từ hoạt động chuyển nhượng bất động sản vào Ngân sách Nhà nước. Trường hợp bán đấu giá bất động sản là tài sản bảo đảm tiền vay thì số tiền thu được thực hiện thanh toán theo quy định của Chính phủ về bảo đảm tiền vay của các tổ chức tín dụng và kê khai nộp thuế theo quy định. Sau khi thanh toán các khoản trên, số tiền còn lại được trả cho các tổ chức kinh doanh đã thế chấp bất động sản để bảo đảm tiền vay.
+
+Trường hợp tổ chức tín dụng được phép chuyển nhượng bất động sản đã được thế chấp theo quy định của pháp luật để thu hồi vốn nếu không xác định được giá vốn của bất động sản thì giá vốn được xác định bằng (=) vốn vay phải trả theo hợp đồng thế chấp bất động sản cộng (+) chi phí lãi vay chưa trả đến thời điểm phát mãi bất động sản thế chấp theo hợp đồng tín dụng cộng (+) các khoản chi phí phát sinh khi chuyển nhượng bất động sản nếu có hóa đơn, chứng từ hợp pháp.
+
+5. Trường hợp cơ quan thi hành án bán đấu giá bất động sản là tài sản bảo đảm thi hành án thì số tiền thu được thực hiện theo quy định tại Nghị định của Chính phủ về kê biên, đấu giá quyền sử dụng đất để bảo đảm thi hành án. Tổ chức được ủy quyền bán đấu giá bất động sản thực hiện kê khai, khấu trừ tiền thuế thu nhập từ chuyển nhượng bất động sản nộp vào Ngân sách Nhà nước. Trên các chứng từ ghi rõ kê khai, nộp thuế thay về bán tài sản đảm bảo thi hành án.
+
+Trường hợp cơ quan thi hành án chuyển nhượng bất động sản là tài sản đảm bảo thi hành án nếu không xác định được giá vốn của bất động sản thì giá vốn được xác định bằng (=) số tiền nợ phải trả nợ theo quyết định của Tòa án để thi hành án cộng (+) các khoản chi phí phát sinh khi chuyển nhượng bất động sản nếu có hóa đơn chứng từ hợp pháp.
+
+(Điều này có nội dung liên quan đến Điều 33.11.TT.4.6. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế)
 
 Điều 33.11.NĐ.2.14. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định bằng doanh thu từ hoạt động chuyển nhượng bất động sản trừ giá vốn của bất động sản và các khoản chi phí được trừ liên quan đến hoạt động chuyển nhượng bất động sản.
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
 
-**Mã phân cấp:** 330110000000000010000030000000000000000000402495202180001400
+1. Doanh thu để tính thu nhập chịu thuế được xác định theo giá thực tế chuyển nhượng bất động sản theo hợp đồng mua, bán bất động sản phù hợp với quy định của pháp luật.
 
-**ID:** dk_00053910
+Trường hợp giá chuyển quyền sử dụng đất theo hợp đồng mua, bán bất động sản thấp hơn giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định tại thời điểm ký hợp đồng thì tính theo giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định.
 
----
+2. Thời điểm xác định doanh thu để tính thu nhập chịu thuế là thời điểm bàn giao bất động sản.
 
+Trường hợp có thu tiền trước theo tiến độ thì thời điểm xác định doanh thu tính số thuế thu nhập doanh nghiệp tạm nộp là thời điểm thu tiền, Bộ Tài chính hướng dẫn việc tạm nộp thuế quy định tại Khoản này.
 
-### Điều 33.11.TT.4.7. Thu nhập khác
+3. Chi phí chuyển nhượng bất động sản được trừ:
 
-*Nội dung chưa có sẵn*
+a) Giá vốn của đất chuyển quyền được xác định phù hợp với nguồn gốc quyền sử dụng đất, cụ thể như sau:
 
-**Chỉ mục:** 7
+- Đối với đất Nhà nước giao có thu tiền sử dụng đất, thu tiền cho thuê đất thì giá vốn là số tiền sử dụng đất, số tiền cho thuê đất thực nộp ngân sách nhà nước;
 
-**Mã phân cấp:** 330110000000000010000030000000000000000000802512600780000700
+- Đối với đất nhận quyền sử dụng của tổ chức, cá nhân khác thì căn cứ vào hợp đồng và chứng từ trả tiền hợp pháp khi nhận quyền sử dụng đất, quyền thuê đất; trường hợp không có hợp đồng và chứng từ trả tiền hợp pháp thì giá vốn được tính theo giá do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định tại thời điểm doanh nghiệp nhận chuyển nhượng bất động sản;
 
-**ID:** dk_00053911
+- Đối với đất nhận góp vốn thì giá vốn là giá thỏa thuận khi góp vốn;
 
----
+- Đối với đất nhận thừa kế, được biếu, tặng, cho mà không xác định được giá vốn thì xác định theo giá các loại đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định tại thời điểm nhận thừa kế, cho, biếu, tặng.
 
+Trường hợp đất nhận thừa kế, cho, biếu, tặng trước năm 1994 thì giá vốn được xác định theo giá các loại đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định năm 1994 căn cứ vào Bảng khung giá các loại đất quy định tại Nghị định số 87/CP ngày 17 tháng 8 năm 1994 của Chính phủ;
 
-### Điều 33.11.TT.4.14. Thu nhập từ chuyển nhượng vốn
+b) Chi phí bồi thường, hỗ trợ khi Nhà nước thu hồi đất;
 
-*Nội dung chưa có sẵn*
+c) Các loại phí, lệ phí theo quy định của pháp luật liên quan đến cấp quyền sử dụng đất;
 
-**Chỉ mục:** 14
+d) Chi phí cải tạo đất, san lấp mặt bằng;
 
-**Mã phân cấp:** 330110000000000010000030000000000000000000802512600780001400
+đ) Giá trị kết cấu hạ tầng, công trình kiến trúc có trên đất;
 
-**ID:** dk_00053912
+e) Chi phí khác liên quan đến bất động sản được chuyển nhượng.
 
----
+(Điều này có nội dung liên quan đến Điều 33.11.NĐ.2.3. Thu nhập chịu thuế)
 
+Điều 33.11.TT.4.7. Thu nhập khác
 
-### Điều 33.11.TT.4.15. Thu nhập từ chuyển nhượng chứng khoán
+(Điều 7 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi bởi Điều 2 Thông tư số 151/2014/TT-BTC có hiệu lực thi hành kể từ ngày 15/11/2014; Điều 5 Thông tư số 96/2015/TT-BTC có hiệu lực thi hành kể từ ngày 06/08/2015)
+
+Thu nhập khác bao gồm các khoản thu nhập sau:
+
+1. Thu nhập từ chuyển nhượng vốn, chuyển nhượng chứng khoán theo hướng dẫn tại Chương IV Thông tư này.
+
+2. Thu nhập từ chuyển nhượng bất động sản theo hướng dẫn tại Chương V Thông tư này.
+
+3. Thu nhập từ chuyển nhượng dự án đầu tư; chuyển nhượng quyền tham gia dự án đầu tư; chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản theo quy định của pháp luật.
+
+4. Thu nhập từ quyền sở hữu, quyền sử dụng tài sản bao gồm cả tiền thu về bản quyền dưới mọi hình thức trả cho quyền sở hữu, quyền sử dụng tài sản; thu nhập về quyền sở hữu trí tuệ; thu nhập từ chuyển giao công nghệ theo quy định của pháp luật.
+
+Thu nhập từ tiền bản quyền sở hữu trí tuệ, chuyển giao công nghệ được xác định bằng tổng số tiền thu được trừ (-) giá vốn hoặc chi phí tạo ra quyền sở hữu trí tuệ, công nghệ được chuyển giao, trừ (-) chi phí duy trì, nâng cấp, phát triển quyền sở hữu trí tuệ, công nghệ được chuyển giao và các khoản chi được trừ khác.
+
+5. Thu nhập từ cho thuê tài sản dưới mọi hình thức.
+
+Thu nhập từ cho thuê tài sản được xác định bằng doanh thu từ hoạt động cho thuê tài sản trừ (-) các khoản chi: chi phí khấu hao, duy tu, sửa chữa, bảo dưỡng tài sản, chi phí thuê tài sản để cho thuê lại (nếu có) và các chi được trừ khác có liên quan đến việc cho thuê tài sản.
+
+6. Thu nhập từ chuyển nhượng tài sản, thanh lý tài sản (trừ bất động sản), các loại giấy tờ có giá khác.
+
+Khoản thu nhập này được xác định bằng (=) doanh thu thu được từ việc chuyển nhượng tài sản, thanh lý tài sản trừ (-) giá trị còn lại của tài sản chuyển nhượng, thanh lý tại thời điểm chuyển nhượng, thanh lý và các khoản chi phí được trừ liên quan đến việc chuyển nhượng, thanh lý tài sản.
+
+7. Thu nhập từ lãi tiền gửi, lãi cho vay vốn bao gồm cả tiền lãi trả chậm, lãi trả góp, phí bảo lãnh tín dụng và các khoản phí khác trong hợp đồng cho vay vốn.
+
+- Trường hợp khoản thu từ lãi tiền gửi, lãi cho vay vốn phát sinh cao hơn các khoản chi trả lãi tiền vay theo quy định, sau khi bù trừ, phần chênh lệch còn lại tính vào thu nhập khác khi xác định thu nhập chịu thuế.
+
+- Trường hợp khoản thu từ lãi tiền gửi, lãi cho vay vốn phát sinh thấp hơn các khoản chi trả lãi tiền vay theo quy định, sau khi bù trừ, phần chênh lệch còn lại giảm trừ vào thu nhập sản xuất kinh doanh chính khi xác định thu nhập chịu thuế.
+
+8. Thu nhập từ hoạt động bán ngoại tệ: bằng tổng số tiền thu từ bán ngoại tệ trừ (-) tổng giá mua của số lượng ngoại tệ bán ra.
+
+9.Thu nhập từ chênh lệch tỷ giá, được xác định cụ thể như sau:
+
+Trong năm tính thuế doanh nghiệp có chênh lệch tỷ giá phát sinh trong kỳ và chênh lệch tỷ giá do đánh giá lại các khoản nợ phải trả có gốc ngoại tệ cuối năm tài chính, thì:
+
+- Khoản chênh lệch tỷ giá phát sinh trong kỳ liên quan trực tiếp đến doanh thu, chi phí của hoạt động sản xuất kinh doanh chính của doanh nghiệp được tính vào chi phí hoặc thu nhập của hoạt động sản xuất kinh doanh chính của doanh nghiệp. Khoản chênh lệch tỷ giá phát sinh trong kỳ không liên quan trực tiếp đến doanh thu, chi phí của hoạt động sản xuất kinh doanh chính của doanh nghiệp, nếu phát sinh lỗ chênh lệch tỷ giá tính vào chi phí tài chính, nếu phát sinh lãi chênh lệch tỷ giá tính vào thu nhập khác khi xác định thu nhập chịu thuế.
+
+- Lãi chênh lệch tỷ giá do đánh giá lại các khoản nợ phải trả bằng ngoại tệ cuối năm tài chính được bù trừ với lỗ chênh lệch tỷ giá do đánh giá lại các khoản nợ phải trả bằng ngoại tệ cuối năm tài chính. Sau khi bù trừ lãi hoặc lỗ chênh lệch tỷ giá liên quan trực tiếp đến doanh thu, chi phí của hoạt động sản xuất kinh doanh chính của doanh nghiệp được tính vào thu nhập hoặc chi phí của hoạt động sản xuất kinh doanh chính của doanh nghiệp. Lãi hoặc lỗ chênh lệch tỷ giá không liên quan trực tiếp đến doanh thu, chi phí của hoạt động sản xuất kinh doanh chính của doanh nghiệp được tính vào thu nhập khác hoặc chi phí tài chính khi xác định thu nhập chịu thuế
+
+Đối với khoản nợ phải thu và khoản cho vay có gốc ngoại tệ phát sinh trong kỳ, chênh lệch tỷ giá hối đoái được tính vào chi phí được trừ hoặc thu nhập là khoản chênh lệch giữa tỷ giá tại thời điểm phát sinh thu hồi nợ hoặc thu hồi khoản cho vay với tỷ giá tại thời điểm ghi nhận khoản nợ phải thu hoặc khoản cho vay ban đầu.
+
+Các khoản chênh lệch tỷ giá nêu trên không bao gồm chênh lệch tỷ giá hối đoái do đánh giá lại số dư cuối năm là: tiền mặt, tiền gửi, tiền đang chuyển, các khoản nợ phải thu có gốc ngoại tệ.
+
+10. Khoản nợ khó đòi đã xóa nay đòi được.
+
+11. Khoản nợ phải trả không xác định được chủ nợ.
+
+12. Thu nhập từ hoạt động sản xuất kinh doanh của những năm trước bị bỏ sót phát hiện ra.
+
+13. Trường hợp doanh nghiệp có khoản thu về tiền phạt, tiền bồi thường do bên đối tác vi phạm hợp đồng hoặc các khoản thưởng do thực hiện tốt cam kết theo hợp đồng phát sinh cao hơn khoản chi tiền phạt, tiền bồi thường do vi phạm hợp đồng (các khoản phạt này không thuộc các khoản tiền phạt về vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính), sau khi bù trừ, phần chênh lệch còn lại tính vào thu nhập khác.
+
+Trường hợp doanh nghiệp có khoản thu về tiền phạt, tiền bồi thường do bên đối tác vi phạm hợp đồng hoặc các khoản thưởng do thực hiện tốt cam kết theo hợp đồng phát sinh thấp hơn khoản chi tiền phạt, tiền bồi thường do vi phạm hợp đồng (các khoản phạt này không thuộc các khoản tiền phạt về vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính), sau khi bù trừ, phần chênh lệch còn lại tính giảm trừ vào thu nhập khác. Trường hợp đơn vị trong năm không phát sinh thu nhập khác thì được giảm trừ vào thu nhập hoạt động sản xuất kinh doanh.
+
+Các khoản thu về tiền phạt, tiền bồi thường nêu trên không bao gồm các khoản tiền phạt, tiền bồi thường được ghi giảm giá trị công trình trong giai đoạn đầu tư.
+
+14. Chênh lệch do đánh giá lại tài sản theo quy định của pháp luật để góp vốn, để điều chuyển tài sản khi chia, tách, hợp nhất, sáp nhập,chuyển đổi loại hình doanh nghiệp (trừ trường hợp cổ phần hóa, sắp xếp, đổi mới doanh nghiệp 100% vốn nhà nước), được xác định cụ thể như sau:
+
+a) Chênh lệch tăng hoặc giảm do đánh giá lại tài sản là phần chênh lệch giữa giá trị đánh giá lại với giá trị còn lại của tài sản ghi trên sổ sách kế toán và tính một lần vào thu nhập khác (đối với chênh lệch tăng) hoặc giảm trừ thu nhập khác (đối với chênh lệch giảm) trong kỳ tính thuế khi xác định thu nhập chịu thuế thu nhập doanh nghiệp tại doanh nghiệp có tài sản đánh giá lại.
+
+b) Chênh lệch tăng hoặc giảm do đánh giá lại giá trị quyền sử dụng đất để: góp vốn (mà doanh nghiệp nhận giá trị quyền sử dụng đất được phân bổ dần giá trị đất vào chi phí được trừ), điều chuyển khi chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp, góp vốn vào các dự án đầu tư xây dựng nhà, hạ tầng để bán tính một lần vào thu nhập khác (đối với chênh lệch tăng) hoặc giảm trừ thu nhập khác (đối với chênh lệch giảm) trong kỳ tính thuế khi xác định thu nhập chịu thuế thu nhập doanh nghiệp tại doanh nghiệp có quyền sử dụng đất đánh giá lại.
+
+Riêng chênh lệch tăng do đánh giá lại giá trị quyền sử dụng đất góp vốn vào doanh nghiệp để hình thành tài sản cố định thực hiện sản xuất kinh doanh mà doanh nghiệp nhận giá trị quyền sử dụng đất không được trích khấu hao và không được phân bổ dần giá trị đất vào chi phí được trừ thì phần chênh lệch này được tính dần vào thu nhập khác của doanh nghiệp có quyền sử dụng đất đánh giá lại trong thời gian tối đa không quá 10 năm bắt đầu từ năm giá trị quyền sử dụng đất được đem góp vốn. Doanh nghiệp phải có thông báo số năm doanh nghiệp phân bổ vào thu nhập khác khi nộp hồ sơ khai quyết toán thuế thu nhập doanh nghiệp của năm bắt đầu kê khai khoản thu nhập này (năm có đánh giá lại giá trị quyền sử dụng đất đem góp vốn).
+
+Trường hợp sau khi góp vốn, doanh nghiệp tiếp tục thực hiện chuyển nhượng vốn góp bằng giá trị quyền sử dụng đất (bao gồm cả trường hợp chuyển nhượng vốn góp trước thời hạn lỗ năm) thì thu nhập từ hoạt động chuyển nhượng vốn góp bằng giá trị quyền sử dụng đất phải tính và kê khai nộp thuế theo thu nhập chuyển nhượng bất động sản.
+
+Chênh lệch do đánh giá lại giá trị quyền sử dụng đất bao gồm: Đối với quyền sử dụng đất lâu dài là chênh lệch giữa giá trị đánh giá lại và giá trị của quyền sử dụng đất ghi trên sổ sách kế toán; Đối với quyền sử dụng đất có thời hạn là chênh lệch giữa giá trị đánh giá lại và giá trị còn lại chưa phân bổ của quyền sử dụng đất.
+
+c) Doanh nghiệp nhận tài sản góp vốn, nhận tài sản điều chuyển khi chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp được trích khấu hao hoặc phân bổ dần vào chi phí theo giá đánh giá lại (trừ trường hợp giá trị quyền sử dụng đất không được trích khấu hao hoặc phân bổ vào chi phí theo quy định).
+
+15. Quà biếu, quà tặng bằng tiền, bằng hiện vật; thu nhập nhận được bằng tiền, bằng hiện vật từ các nguồn tài trợ; thu nhập nhận được từ các khoản hỗ trợ tiếp thị, hỗ trợ chi phí, chiết khấu thanh toán, thưởng khuyến mại và các khoản hỗ trợ khác. Các khoản thu nhập nhận được bằng hiện vật thì giá trị của hiện vật được xác định bằng giá trị của hàng hóa, dịch vụ tương đương tại thời điểm nhận.
+
+16. Các khoản tiền, tài sản, lợi ích vật chất khác doanh nghiệp nhận được từ các tổ chức, cá nhân theo thỏa thuận, hợp đồng phù hợp với pháp luật dân sự do doanh nghiệp bàn giao lại vị trí đất cũ để di dời cơ sở sản xuất kinh doanh sau khi trừ các khoản chi phí liên quan như chi phí di dời (chi phí vận chuyển, lắp đặt), giá trị còn lại của tài sản cố định và các chi phí khác (nếu có).
+
+Riêng các khoản tiền, tài sản, lợi ích vật chất doanh nghiệp nhận được theo chính sách của Nhà nước, được cơ quan Nhà nước có thẩm quyền phê duyệt để di dời cơ sở sản xuất thì thực hiện quản lý, sử dụng theo quy định của pháp luật có liên quan.
+
+17. Các khoản trích trước vào chi phí nhưng không sử dụng hoặc sử dụng không hết theo kỳ hạn trích lập mà doanh nghiệp không hạch toán điều chỉnh giảm chi phí; khoản hoàn nhập dự phòng bảo hành công trình xây dựng.
+
+18. Các khoản thu nhập liên quan đến việc tiêu thụ hàng hóa, cung cấp dịch vụ không tính trong doanh thu như: thưởng giải phóng tàu nhanh, tiền thưởng phục vụ trong ngành ăn uống, khách sạn sau khi đã trừ các khoản chi phí để tạo ra khoản thu nhập đó.
+
+19. Thu nhập về tiêu thụ phế liệu, phế phẩm sau khi đã trừ chi phí thu hồi và chi phí tiêu thụ, được xác định cụ thể như sau:
+
+- Trường hợp doanh nghiệp phát sinh khoản thu nhập từ bán phế liệu, phế phẩm được tạo ra trong quá trình sản xuất của các sản phẩm đang được hưởng ưu đãi thuế thu nhập doanh nghiệp thì khoản thu nhập này được hưởng ưu đãi thuế thu nhập doanh nghiệp.
+
+- Trường hợp doanh nghiệp phát sinh khoản thu nhập từ bán phế liệu, phế phẩm được tạo ra trong quá trình sản xuất của các sản phẩm không được hưởng ưu đãi thuế thu nhập doanh nghiệp thì khoản thu nhập này được tính vào thu nhập khác.
+
+20. Khoản tiền hoàn thuế xuất khẩu, thuế nhập khẩu của hàng hóa đã thực xuất khẩu, thực nhập khẩu phát sinh ngay trong năm quyết toán thuế thu nhập doanh nghiệp thì được tính giảm trừ chi phí trong năm quyết toán đó. Trường hợp khoản tiền hoàn thuế xuất, nhập khẩu của hàng hóa đã thực xuất khẩu, thực nhập khẩu phát sinh của các năm quyết toán thuế thu nhập doanh nghiệp trước thì tính vào thu nhập khác của năm quyết toán phát sinh khoản thu nhập. Khoản thu nhập này liên quan trực tiếp đến lĩnh vực sản xuất kinh doanh đang được hưởng ưu đãi thuế thu nhập doanh nghiệp thì khoản thu nhập này được hưởng ưu đãi thuế thu nhập doanh nghiệp. Khoản thu nhập này không liên quan trực tiếp lĩnh vực sản xuất kinh doanh được hưởng ưu đãi thuế thu nhập doanh nghiệp thì khoản thu nhập này được tính vào thu nhập khác.
+
+21. Các khoản thu nhập từ các hoạt động góp vốn cổ phần, liên doanh, liên kết kinh tế trong nước được chia từ thu nhập trước khi nộp thuế thu nhập doanh nghiệp.
+
+22.Trường hợp doanh nghiệp thực hiện tiếp nhận thêm thành viên góp vốn mới theo quy định của pháp luật mà số tiền thành viên góp vốn mới bỏ ra cao hơn giá trị phần vốn góp của thành viên đó trong tổng số vốn điều lệ của doanh nghiệp thì xử lý như sau:
+
+Nếu khoản chênh lệch cao hơn này được xác định là thuộc sở hữu của doanh nghiệp, bổ sung vào nguồn vốn kinh doanh thì không tính vào thu nhập chịu thuế để tính thuế thu nhập doanh nghiệp của doanh nghiệp nhận vốn góp.
+
+Nếu khoản chênh lệch cao hơn này được chia cho các thành viên góp vốn cũ thì khoản chênh lệch này là thu nhập của các thành viên góp vốn cũ.
+
+23. Các khoản thu nhập khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 33.11.TT.4.4. Xác định thu nhập tính thuế; Điều 33.11.TT.4.8. Thu nhập được miễn thuế)
+
+Điều 33.11.TT.4.14. Thu nhập từ chuyển nhượng vốn
+
+(Điều 14 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi bởi Điều 8 Thông tư số 96/2015/TT-BTC có hiệu lực thi hành kể từ ngày 06/08/2015)
+
+1. Phạm vi áp dụng:
+
+Thu nhập từ chuyển nhượng vốn của doanh nghiệp là thu nhập có được từ chuyển nhượng một phần hoặc toàn bộ số vốn của doanh nghiệp đã đầu tư cho một hoặc nhiều tổ chức, cá nhân khác (bao gồm cả trường hợp bán doanh nghiệp). Thời điểm xác định thu nhập từ chuyển nhượng vốn là thời điểm chuyển quyền sở hữu vốn.
+
+Trường hợp doanh nghiệp bán toàn bộ Công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu dưới hình thức chuyển nhượng vốn có gắn với bất động sản thì kê khai và nộp thuế thu nhập doanh nghiệp theo hoạt động chuyển nhượng bất động sản và kê khai theo tờ khai thuế thu nhập doanh nghiệp (mẫu số 08) ban hành kèm theo Thông tư này.
+
+Trường hợp doanh nghiệp có chuyển nhượng vốn không nhận bằng tiền mà nhận bằng tài sản, lợi ích vật chất khác (cổ phiếu, chứng chỉ quỹ...) có phát sinh thu nhập thì phải chịu thuế thu nhập doanh nghiệp. Giá trị tài sản, cổ phiếu, chứng chỉ quỹ...được xác định theo giá bán của sản phẩm trên thị trường tại thời điểm nhận tài sản.
+
+2. Căn cứ tính thuế:
+
+a) Thu nhập tính thuế từ chuyển nhượng vốn được xác định:
+
+ Thu nhập tính thuế
+
+ =
+
+ Giá chuyển nhượng
+
+ -
+
+ Giá mua của phần vốn chuyển nhượng
+
+ -
+
+ Chi phí chuyển nhượng
+
+Trong đó:
+
+- Giá chuyển nhượng được xác định là tổng giá trị thực tế mà bên chuyển nhượng thu được theo hợp đồng chuyển nhượng.
+
+Trường hợp hợp đồng chuyển nhượng vốn quy định việc thanh toán theo hình thức trả góp, trả chậm thì doanh thu của hợp đồng chuyển nhượng không bao gồm lãi trả góp, lãi trả chậm theo thời hạn quy định trong hợp đồng.
+
+Trường hợp hợp đồng chuyển nhượng không quy định giá thanh toán hoặc cơ quan thuế có cơ sở để xác định giá thanh toán không phù hợp theo giá thị trường, cơ quan thuế có quyền kiểm tra và ấn định giá chuyển nhượng. Doanh nghiệp có chuyển nhượng một phần vốn góp trong doanh nghiệp mà giá chuyển nhượng đối với phần vốn góp này không phù hợp theo giá thị trường thì cơ quan thuế được ấn định lại toàn bộ giá trị của doanh nghiệp tại thời điểm chuyển nhượng để xác định lại giá chuyển nhượng tương ứng với tỷ lệ phần vốn góp chuyển nhượng.
+
+Căn cứ ấn định giá chuyển nhượng dựa vào tài liệu điều tra của cơ quan thuế hoặc căn cứ giá chuyển nhượng vốn của các trường hợp khác ở cùng thời gian, cùng tổ chức kinh tế hoặc các hợp đồng chuyển nhượng tương tự tại thời điểm chuyển nhượng. Trường hợp việc ấn định giá chuyển nhượng của cơ quan thuế không phù hợp thì được căn cứ theo giá thẩm định của các tổ chức định giá chuyên nghiệp có thẩm quyền xác định giá chuyển nhượng tại thời điểm chuyển nhượng theo đúng quy định.
+
+Doanh nghiệp có hoạt động chuyển nhượng vốn cho tổ chức, cá nhân thì phần giá trị vốn chuyển nhượng theo hợp đồng chuyển nhượng có giá trị từ hai mươi triệu đồng trở lên phải có chứng từ thanh toán không dùng tiền mặt. Trường hợp việc chuyển nhượng vốn không có chứng từ thanh toán không dùng tiền mặt thì cơ quan thuế có quyền ấn định giá chuyển nhượng.
+
+*-Giá mua của phần vốn chuyển nhượng được xác định đối với từng trường hợp như sau:*
+
+*+ Nếu là chuyển nhượng vốn góp thành lập doanh nghiệp là giá trị phần vốn góp lũy kế đến thời điểm chuyển nhượng vốn trên cơ sở sổ sách, hồ sơ, chứng từ kế toán và được các bên tham gia đầu tư vốn hoặc tham gia hợp đồng hợp tác kinh doanh xác nhận, hoặc kết quả kiểm toán của công ty kiểm toán độc lập đối với doanh nghiệp 100% vốn nước ngoài.*
+
+*+ Nếu là phần vốn do mua lại thì giá mua là giá trị vốn tại thời điểm mua. Giá mua được xác định căn cứ vào hợp đồng mua lại phần vốn góp, chứng từ thanh toán.*
+
+*Trường hợp doanh nghiệp đủ điều kiện hạch toán kế toán bằng đồng ngoại tệ và thực hiện theo đúng quy định của pháp luật về chế độ kế toán có chuyển nhượng vốn góp bằng ngoại tệ thì giá chuyển nhượng và giá mua của phần vốn chuyển nhượng được xác định bằng đồng ngoại tệ; Trường hợp doanh nghiệp hạch toán kế toán bằng đồng Việt Nam có chuyển nhượng vốn góp bằng ngoại tệ thì giá chuyển nhượng phải được xác định bằng đồng Việt Nam theo tỷ giá mua vào của Ngân hàng thương mại nơi doanh nghiệp mở tài khoản tại thời điểm chuyển nhượng.*
+
+- Chi phí chuyển nhượng là các khoản chi thực tế liên quan trực tiếp đến việc chuyển nhượng, có chứng từ, hóa đơn hợp pháp. Trường hợp chi phí chuyển nhượng phát sinh ở nước ngoài thì các chứng từ gốc đó phải được một cơ quan công chứng hoặc kiểm toán độc lập của nước có chi phí phát sinh xác nhận và chứng từ phải được dịch ra tiếng Việt (có xác nhận của đại diện có thẩm quyền).
+
+Chi phí chuyển nhượng bao gồm: chi phí để làm các thủ tục pháp lý cần thiết cho việc chuyển nhượng; các khoản phí và lệ phí phải nộp khi làm thủ tục chuyển nhượng; các chi phí giao dịch, đàm phán, ký kết hợp đồng chuyển nhượng và các chi phí khác có chứng từ chứng minh.
+
+Ví dụ 16: Doanh nghiệp A góp 400 tỷ đồng gồm 320 tỷ đồng là giá trị nhà xưởng và 80 tỷ đồng tiền mặt để thành lập doanh nghiệp liên doanh sản xuất giấy vệ sinh sau đó doanh nghiệp A chuyển nhượng phần vốn góp nêu trên cho doanh nghiệp B với giá là 550 tỷ đồng, vốn góp của doanh nghiệp A tại thời điểm chuyển nhượng trên sổ sách kế toán là 400 tỷ đồng, chi phí liên quan đến việc chuyển nhượng vốn là 70 tỷ đồng. Thu nhập để tính thuế thu nhập từ chuyển nhượng vốn trong trường hợp này là 80 tỷ đồng (550 - 400 - 70).
+
+b) Doanh nghiệp có thu nhập từ chuyển nhượng vốn thì khoản thu nhập này được xác định là khoản thu nhập khác và kê khai vào thu nhập chịu thuế khi tính thuế thu nhập doanh nghiệp.
+
+c) Đối với tổ chức nước ngoài kinh doanh tại Việt Nam hoặc có thu nhập tại Việt Nam mà tổ chức này không hoạt động theo Luật Đầu tư, Luật Doanh nghiệp (gọi chung là nhà thầu nước ngoài) có hoạt động chuyển nhượng vốn thì thực hiện kê khai, nộp thuế như sau:
+
+Tổ chức, cá nhân nhận chuyển nhượng vốn có trách nhiệm xác định, kê khai, khấu trừ và nộp thay tổ chức nước ngoài số thuế thu nhập doanh nghiệp phải nộp. Trường hợp bên nhận chuyển nhượng vốn cũng là tổ chức nước ngoài không hoạt động theo Luật Đầu tư, Luật Doanh nghiệp thì doanh nghiệp thành lập theo pháp luật Việt Nam nơi các tổ chức nước ngoài đầu tư vốn có trách nhiệm kê khai và nộp thay số thuế thu nhập doanh nghiệp phải nộp từ hoạt động chuyển nhượng vốn của tổ chức nước ngoài.
+
+Việc kê khai thuế, nộp thuế được thực hiện theo quy định tại các văn bản quy phạm pháp luật về quản lý thuế.
+
+(Điều này có nội dung liên quan đến Điều 33.11.TT.4.2. Người nộp thuế)
 
 Điều 33.11.TT.4.15. Thu nhập từ chuyển nhượng chứng khoán
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
 
-**Mã phân cấp:** 330110000000000010000030000000000000000000802512600780001500
+1. Phạm vi áp dụng:
 
-**ID:** dk_00053913
+Thu nhập từ chuyển nhượng chứng khoán của doanh nghiệp là thu nhập có được từ việc chuyển nhượng cổ phiếu, trái phiếu, chứng chỉ quỹ và các loại chứng khoán khác theo quy định.
 
----
+Trường hợp doanh nghiệp thực hiện phát hành thêm cổ phiếu để huy động vốn thì phần chênh lệch giữa giá phát hành và mệnh giá không tính vào thu nhập chịu thuế để tính thuế thu nhập doanh nghiệp.
 
+Trường hợp doanh nghiệp tiến hành chia, tách, hợp nhất, sáp nhập mà thực hiện hoán đổi cổ phiếu tại thời điểm chia, tách, hợp nhất, sáp nhập nếu phát sinh thu nhập thì phần thu nhập này phải chịu thuế thu nhập doanh nghiệp.
 
-### Điều 33.11.LQ.4. Thu nhập được miễn thuế
+Trường hợp doanh nghiệp có chuyển nhượng chứng khoán không nhận bằng tiền mà nhận bằng tài sản, lợi ích vật chất khác (cổ phiếu, chứng chỉ quỹ...) có phát sinh thu nhập thì phải chịu thuế thu nhập doanh nghiệp. Giá trị tài sản, cổ phiếu, chứng chỉ quỹ...được xác định theo giá bán của sản phẩm trên thị trường tại thời điểm nhận tài sản.
 
-*Nội dung chưa có sẵn*
+2. Căn cứ tính thuế:
 
-**Chỉ mục:** 4
+Thu nhập tính thuế từ chuyển nhượng chứng khoán trong kỳ được xác định bằng giá bán chứng khoán trừ (-) giá mua của chứng khoán chuyển nhượng, trừ (-) các chi phí liên quan đến việc chuyển nhượng.
 
-**Mã phân cấp:** 3301100000000000100000400000000000000000
+- Giá bán chứng khoán được xác định như sau:
 
-**ID:** dk_00053914
++ Đối với chứng khoán niêm yết và chứng khoán của công ty đại chúng chưa niêm yết nhưng thực hiện đăng ký giao dịch tại trung tâm giao dịch chứng khoán thì giá bán chứng khoán là giá thực tế bán chứng khoán (là giá khớp lệnh hoặc giá thỏa thuận) theo thông báo của Sở giao dịch chứng khoán, trung tâm giao dịch chứng khoán.
 
----
++ Đối với chứng khoán của các công ty không thuộc các trường hợp nêu trên thì giá bán chứng khoán là giá chuyển nhượng ghi trên hợp đồng chuyển nhượng.
 
+- Giá mua của chứng khoán được xác định như sau:
 
-### Điều 33.11.NĐ.2.4. Thu nhập được miễn thuế
++ Đối với chứng khoán niêm yết và chứng khoán của công ty đại chúng chưa niêm yết nhưng thực hiện đăng ký giao dịch tại trung tâm giao dịch chứng khoán thì giá mua chứng khoán là giá thực mua chứng khoán (là giá khớp lệnh hoặc giá thỏa thuận) theo thông báo của Sở giao dịch chứng khoán, trung tâm giao dịch chứng khoán.
 
-*Nội dung chưa có sẵn*
++ Đối với chứng khoán mua thông qua đấu giá thì giá mua chứng khoán là mức giá ghi trên thông báo kết quả trúng đấu giá cổ phần của tổ chức thực hiện đấu giá cổ phần và giấy nộp tiền.
 
-**Chỉ mục:** 4
++ Đối với chứng khoán không thuộc các trường hợp nêu trên: giá mua chứng khoán là giá chuyển nhượng ghi trên hợp đồng chuyển nhượng.
 
-**Mã phân cấp:** 330110000000000010000040000000000000000000402495202180000400
+- Chi phí chuyển nhượng là các khoản chi thực tế liên quan trực tiếp đến việc chuyển nhượng, có chứng từ, hóa đơn hợp pháp.
 
-**ID:** dk_00053915
+Chi phí chuyển nhượng bao gồm: chi phí để làm các thủ tục pháp lý cần thiết cho việc chuyển nhượng; Các khoản phí và lệ phí phải nộp khi làm thủ tục chuyển nhượng; Phí lưu ký chứng khoán theo quy định của Ủy ban chứng khoán Nhà nước và chứng từ thu của công ty chứng khoán; Phí ủy thác chứng khoán căn cứ vào chứng từ thu của đơn vị nhận ủy thác; Các chi phí giao dịch, đàm phán, ký kết hợp đồng chuyển nhượng và các chi phí khác có chứng từ chứng minh.
 
----
+Doanh nghiệp có thu nhập từ chuyển nhượng chứng khoán thì khoản thu nhập này được xác định là khoản thu nhập khác và kê khai vào thu nhập chịu thuế khi tính thuế thu nhập doanh nghiệp.
 
+Điều 33.11.LQ.4. Thu nhập được miễn thuế
 
-### Điều 33.11.LQ.5. Kỳ tính thuế
+(Điều 4 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009)
 
-*Nội dung chưa có sẵn*
+1. Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản, sản xuất muối của hợp tác xã; thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp ở địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; thu nhập của doanh nghiệp từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; thu nhập từ hoạt động đánh bắt hải sản.
 
-**Chỉ mục:** 5
+2. Thu nhập từ việc thực hiện dịch vụ kỹ thuật trực tiếp phục vụ nông nghiệp.
 
-**Mã phân cấp:** 3301100000000000100000500000000000000000
+3. Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ, sản phẩm đang trong thời kỳ sản xuất thử nghiệm, sản phẩm làm ra từ công nghệ mới lần đầu áp dụng tại Việt Nam.
 
-**ID:** dk_00053916
+4. Thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ của doanh nghiệp có từ 30% số lao động bình quân trong năm trở lên là người khuyết tật, người sau cai nghiện, người nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) và có số lao động bình quân trong năm từ hai mươi người trở lên, không bao gồm doanh nghiệp hoạt động trong lĩnh vực tài chính, kinh doanh bất động sản.
 
----
+5. Thu nhập từ hoạt động dạy nghề dành riêng cho người dân tộc thiểu số, người tàn tật, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội.
 
+6. Thu nhập được chia từ hoạt động góp vốn, liên doanh, liên kết với doanh nghiệp trong nước, sau khi đã nộp thuế thu nhập doanh nghiệp theo quy định của Luật này.
 
-### Điều 33.11.LQ.6. Căn cứ tính thuế
+7. Khoản tài trợ nhận được để sử dụng cho hoạt động giáo dục, nghiên cứu khoa học, văn hóa, nghệ thuật, từ thiện, nhân đạo và hoạt động xã hội khác tại Việt Nam.
 
-*Nội dung chưa có sẵn*
+8. Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải (CERs) của doanh nghiệp được cấp chứng chỉ giảm phát thải.
 
-**Chỉ mục:** 6
+9. Thu nhập từ thực hiện nhiệm vụ Nhà nước giao của Ngân hàng Phát triển Việt Nam trong hoạt động tín dụng đầu tư phát triển, tín dụng xuất khẩu; thu nhập từ hoạt động tín dụng cho người nghèo và các đối tượng chính sách khác của Ngân hàng Chính sách xã hội; thu nhập của các quỹ tài chính nhà nước và quỹ khác của Nhà nước hoạt động không vì mục tiêu lợi nhuận theo quy định của pháp luật; thu nhập của tổ chức mà Nhà nước sở hữu 100% vốn điều lệ do Chính phủ thành lập để xử lý nợ xấu của các tổ chức tín dụng Việt Nam.
 
-**Mã phân cấp:** 3301100000000000200000600000000000000000
+10. Phần thu nhập không chia của cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo, y tế và lĩnh vực xã hội hóa khác để lại để đầu tư phát triển cơ sở đó theo quy định của luật chuyên ngành về lĩnh vực giáo dục - đào tạo, y tế và lĩnh vực xã hội hóa khác; phần thu nhập hình thành tài sản không chia của hợp tác xã được thành lập và hoạt động theo quy định của Luật hợp tác xã.
 
-**ID:** dk_00053918
+11. Thu nhập từ chuyển giao công nghệ thuộc lĩnh vực ưu tiên chuyển giao cho tổ chức, cá nhân ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 
----
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế của Luật 14/2008/QH12 Thuế thu nhập doanh nghiệp ban hành ngày 03/06/2008; Điều 6.3.LQ.34. Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người khuyết tật của Luật 51/2010/QH12 Người khuyết tật ban hành ngày 17/06/2010; Điều 19.5.LQ.64. Chính sách thuế đối với hoạt động khoa học và công nghệ; Điều 19.2.LQ.39. Chính sách thuế để thúc đẩy hoạt động chuyển giao, ứng dụng, đổi mới công nghệ; Điều 19.2.LQ.49. Công nghệ khuyến khích chuyển giao cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn; Điều 33.11.NĐ.2.4. Thu nhập được miễn thuế của Nghị định 218/2013/NĐ-CP Quy định chit tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 26/12/2013)
 
+Điều 33.11.NĐ.2.4. Thu nhập được miễn thuế
 
-### Điều 33.11.NĐ.2.5. Căn cứ tính thuế
+(Điều 4 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014, có nội dung được sửa đổi, bổ sung theo quy định tại Khoản 2, khoản 3, khoản 4 Điều 1 Nghị định số 12/2015/ NĐ-CP, có hiệu lực từ ngày 01 tháng 01 năm 2015; Khoản 2 Điều 1 Nghị định số 91/2014/ NĐ-CP, có hiệu lực kể từ ngày 15 tháng 11 năm 2014 và áp dụng cho kỳ tính thuế thu nhập doanh nghiệp từ năm 2014.)
 
-*Nội dung chưa có sẵn*
+Thu nhập được miễn thuế thực hiện theo quy định tại Điều 4 Luật thuế thu nhập doanh nghiệp và Khoản 3 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp.
 
-**Chỉ mục:** 5
+*1. Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản, sản xuất muối của hợp tác xã; thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp thực hiện ở địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; thu nhập của doanh nghiệp từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; thu nhập từ hoạt động đánh bắt hải sản.*
 
-**Mã phân cấp:** 330110000000000020000060000000000000000000402495202180000500
+*Hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp quy định tại Khoản này và tại Khoản 2 Điều 15 Nghị định này là hợp tác xã đáp ứng tỷ lệ về cung ứng sản phẩm, dịch vụ cho các thành viên là những cá nhân, hộ gia đình, pháp nhân có hoạt động sản xuất nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp theo quy định của Luật Hợp tác xã và các văn bản hướng dẫn.*
 
-**ID:** dk_00053919
+*Thu nhập từ chế biến nông sản, thủy sản được ưu đãi thuế quy định tại Nghị định này phải đáp ứng đồng thời các điều kiện sau:*
 
----
+*- Tỷ lệ giá trị nguyên vật liệu là nông sản, thủy sản trên chi phí sản xuất hàng hóa, sản phẩm từ 30% trở lên.*
 
+*- Sản phẩm, hàng hóa từ chế biến nông sản, thủy sản không thuộc diện chịu thuế tiêu thụ đặc biệt, trừ trường hợp do Thủ tướng Chính phủ quyết định theo đề xuất của Bộ Tài chính.*
 
-### Điều 33.11.LQ.7. Xác định thu nhập tính thuế
+2. Thu nhập từ việc thực hiện dịch vụ kỹ thuật trực tiếp phục vụ nông nghiệp được miễn thuế gồm: Thu nhập từ dịch vụ tưới, tiêu nước; cày, bừa đất, nạo vét kênh, mương nội đồng; dịch vụ phòng trừ sâu, bệnh cho cây trồng, vật nuôi; dịch vụ thu hoạch sản phẩm nông nghiệp.
 
-*Nội dung chưa có sẵn*
+*3.**Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ theo quy định của pháp luật về khoa học và công nghệ, được miễn thuế trong thời gian thực hiện hợp đồng và tối đa không quá 03 năm kể từ ngày bắt đầu có doanh thu từ thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ; thu nhập từ bán sản phẩm làm ra từ công nghệ mới lần đầu tiên áp dụng ở Việt Nam theo quy định của pháp luật và hướng dẫn của Bộ Khoa học và Công nghệ được miễn thuế tối đa không quá 05 năm kể từ ngày có doanh thu từ bán sản phẩm; thu nhập từ bán sản phẩm sản xuất thử nghiệm trong thời gian sản xuất thử nghiệm theo quy định của pháp luật.*
 
-**Chỉ mục:** 7
+4. Thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ của doanh nghiệp có từ 30% số lao động bình quân trong năm trở lên là người khuyết tật, người sau cai nghiện, người nhiễm HIV/AIDS.
 
-**Mã phân cấp:** 3301100000000000200000700000000000000000
+Doanh nghiệp được miễn thuế quy định tại Khoản này là doanh nghiệp có số lao động bình quân trong năm từ 20 người trở lên, không bao gồm doanh nghiệp hoạt động trong lĩnh vực tài chính, kinh doanh bất động sản.
 
-**ID:** dk_00053920
+Thu nhập được miễn thuế quy định tại Khoản này không bao gồm thu nhập khác quy định tại Khoản 2 Điều 19 Nghị định này.
 
----
+5. Thu nhập từ hoạt động dạy nghề dành riêng cho người dân tộc thiểu số, người khuyết tật, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội, người đang cai nghiện, người sau cai nghiện, người nhiễm HIV/AIDS. Trường hợp cơ sở dạy nghề có cả các đối tượng khác thì phần thu nhập được miễn thuế được xác định theo tỷ lệ giữa số người dân tộc thiểu số, người khuyết tật, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội, người đang cai nghiện, người sau cai nghiện, người nhiễm HIV/AIDS so với tổng số người học của cơ sở.
 
+6. Thu nhập được chia từ hoạt động góp vốn, mua cổ phần, liên doanh, liên kết kinh tế với doanh nghiệp trong nước, sau khi bên nhận góp vốn, phát hành cổ phiếu, liên doanh, liên kết đã nộp thuế theo quy định của Luật thuế thu nhập doanh nghiệp, kể cả trường hợp bên nhận góp vốn, phát hành cổ phiếu, bên liên doanh, liên kết đang được hưởng ưu đãi thuế quy định tại Chương IV Nghị định này.
 
-### Điều 33.11.NĐ.2.6. Xác định thu nhập tính thuế
+7. Khoản tài trợ nhận được để sử dụng cho hoạt động giáo dục, nghiên cứu khoa học, văn hóa, nghệ thuật, từ thiện, nhân đạo và hoạt động xã hội khác tại Việt Nam.
 
-*Nội dung chưa có sẵn*
+Trường hợp tổ chức nhận tài trợ sử dụng khoản tài trợ không đúng mục đích thì phải nộp thuế thu nhập doanh nghiệp tính trên phần sử dụng sai mục đích trong kỳ tính thuế phát sinh việc sử dụng sai mục đích.
 
-**Chỉ mục:** 6
+Tổ chức nhận tài trợ quy định tại Khoản này là tổ chức được thành lập và hoạt động theo quy định của pháp luật, thực hiện đúng quy định của pháp luật về kế toán thống kê.
 
-**Mã phân cấp:** 330110000000000020000070000000000000000000402495202180000600
+8. Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải (CERs) lần đầu của doanh nghiệp được cấp chứng chỉ giảm phát thải; các lần chuyển nhượng tiếp theo nộp thuế thu nhập doanh nghiệp theo quy định.
 
-**ID:** dk_00053921
+*9. Thu nhập từ thực hiện nhiệm vụ Nhà nước giao của Ngân hàng Phát triển Việt Nam trong hoạt động tín dụng đầu tư phát triển, tín dụng xuất khẩu; thu nhập từ hoạt động tín dụng cho người nghèo và các đối tượng chính sách khác của Ngân hàng Chính sách xã hội; thu nhập của Công ty trách nhiệm hữu hạn một thành viên quản lý tài sản của các tổ chức tín dụng Việt Nam; thu nhập từ hoạt động có thu do thực hiện nhiệm vụ Nhà nước giao của các quỹ tài chính Nhà nước: Quỹ Bảo hiểm xã hội Việt Nam, tổ chức Bảo hiểm tiền gửi, Quỹ Bảo hiểm Y tế, Quỹ hỗ trợ học nghề, Quỹ hỗ trợ việc làm ngoài nước thuộc Bộ Lao động - Thương binh và Xã hội, Quỹ hỗ trợ nông dân, Quỹ trợ giúp pháp lý Việt Nam, Quỹ viễn thông công ích, Quỹ đầu tư phát triển địa phương, Quỹ Bảo vệ môi trường Việt Nam, Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa, Quỹ hỗ trợ phát triển Hợp tác xã, Quỹ hỗ trợ phụ nữ nghèo, Quỹ bảo hộ công dân và pháp nhân tại nước ngoài, Quỹ phát triển nhà, Quỹ phát triển doanh nghiệp nhỏ và vừa, Quỹ phát triển khoa học và công nghệ quốc gia, Quỹ đổi mới công nghệ quốc gia, Quỹ phát triển khoa học và công nghệ của Bộ, ngành, địa phương được thành lập theo quy định của Luật Khoa học và Công nghệ, Quỹ trợ vốn cho người lao động nghèo tự tạo việc làm, thu nhập từ thực hiện nhiệm vụ Nhà nước giao của Quỹ phát triển đất và quỹ khác của Nhà nước hoạt động không vì mục tiêu lợi nhuận do Chính phủ, Thủ tướng Chính phủ quy định hoặc quyết định được thành lập và hoạt động theo quy định của pháp luật.*
 
----
+10. Phần thu nhập không chia của cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo, y tế và lĩnh vực xã hội hóa khác (bao gồm cả Văn phòng giám định tư pháp) để lại để đầu tư phát triển cơ sở đó theo quy định của luật chuyên ngành về giáo dục - đào tạo, y tế và về lĩnh vực xã hội hóa khác; phân thu nhập hình thành tài sản không chia của hợp tác xã được thành lập và hoạt động theo quy định của Luật hợp tác xã.
 
+11. Thu nhập từ chuyển giao công nghệ thuộc lĩnh vực ưu tiên chuyển giao cho tổ chức, cá nhân ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 
-### Điều 33.11.TT.4.4. Xác định thu nhập tính thuế
+*12. Thu nhập của văn phòng thừa phát lại trong thời gian thực hiện thí điểm theo quy định của pháp luật.*
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 1. của Luật 32/2013/QH13 Sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp ban hành ngày 19/06/2013; Điều 33.11.LQ.4. Thu nhập được miễn thuế; Điều 6.3.LQ.34. Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người khuyết tật; Điều 33.11.NĐ.2.3. Thu nhập chịu thuế; Điều 33.11.NĐ.2.15. Thuế suất ưu đãi; Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp; Điều 33.11.TT.4.19. Thuế suất ưu đãi)
 
-**Chỉ mục:** 4
+Điều 33.11.LQ.5. Kỳ tính thuế
 
-**Mã phân cấp:** 33011000000000002000007000000000000000000040249520218000060000802512600780000400
+(Điều 5 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009)
 
-**ID:** dk_00053922
+1. Kỳ tính thuế thu nhập doanh nghiệp được xác định theo năm dương lịch hoặc năm tài chính, trừ trường hợp quy định tại khoản 2 Điều này.
 
----
+2. Kỳ tính thuế thu nhập doanh nghiệp theo từng lần phát sinh thu nhập áp dụng đối với doanh nghiệp nước ngoài được quy định tại điểm c và điểm d khoản 2 Điều 2 của Luật này.
 
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. ; Điều 33.11.NĐ.2.5. Căn cứ tính thuế của Nghị định 218/2013/NĐ-CP Quy định chit tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 26/12/2013)
 
-### Điều 33.11.LQ.8. Doanh thu
+Chương II
 
-*Nội dung chưa có sẵn*
+CĂN CỨ VÀ PHƯƠNG PHÁP TÍNH THUẾ
 
-**Chỉ mục:** 8
+(Chương này có nội dung liên quan đến Điều 30. ; Điều 32. của )
 
-**Mã phân cấp:** 3301100000000000200000800000000000000000
+Điều 33.11.LQ.6. Căn cứ tính thuế
 
-**ID:** dk_00053923
+(Điều 6 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009)
 
----
+Căn cứ tính thuế là thu nhập tính thuế và thuế suất.
 
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. )
 
-### Điều 33.11.NĐ.2.8. Doanh thu
+Điều 33.11.NĐ.2.5. Căn cứ tính thuế
 
-*Nội dung chưa có sẵn*
+(Điều 5 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
 
-**Chỉ mục:** 8
+Căn cứ tính thuế là thu nhập tính thuế trong kỳ và thuế suất.
 
-**Mã phân cấp:** 330110000000000020000080000000000000000000402495202180000800
+Kỳ tính thuế thực hiện theo quy định tại Điều 5 Luật thuế thu nhập doanh nghiệp và quy định của pháp luật quản lý thuế.
 
-**ID:** dk_00053924
+Doanh nghiệp được lựa chọn kỳ tính thuế theo năm dương lịch hoặc năm tài chính nhưng phải thông báo với cơ quan thuế trước khi thực hiện.
 
----
+(Điều này có nội dung liên quan đến Điều 33.11.LQ.5. Kỳ tính thuế)
 
+Điều 33.11.LQ.7. Xác định thu nhập tính thuế
 
-### Điều 33.11.TT.4.5. Doanh thu
+(Điều 7 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 4 Điều 1 của Luật số 32/2013/QH13,có hiệu lực kể từ ngày 01 tháng 01 năm 2014.)
 
-*Nội dung chưa có sẵn*
+1. Thu nhập tính thuế trong kỳ tính thuế được xác định bằng thu nhập chịu thuế trừ thu nhập được miễn thuế và các khoản lỗ được kết chuyển từ các năm trước.
 
-**Chỉ mục:** 5
+2. Thu nhập chịu thuế bằng doanh thu trừ các khoản chi được trừ của hoạt động sản xuất, kinh doanh cộng thu nhập khác, kể cả thu nhập nhận được ở ngoài Việt Nam.
 
-**Mã phân cấp:** 33011000000000002000008000000000000000000040249520218000080000802512600780000500
+3. Thu nhập từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản phải xác định riêng để kê khai nộp thuế. Thu nhập từ chuyển nhượng dự án đầu tư (trừ dự án thăm dò, khai thác khoáng sản), thu nhập từ chuyển nhượng quyền tham gia dự án đầu tư (trừ chuyển nhượng quyền tham gia dự án thăm dò, khai thác khoáng sản), thu nhập từ chuyển nhượng bất động sản nếu lỗ thì số lỗ này được bù trừ với lãi của hoạt động sản xuất, kinh doanh trong kỳ tính thuế.
 
-**ID:** dk_00053925
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
 
----
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. ; Điều 33.11.LQ.16. Chuyển lỗ)
 
+Điều 33.11.NĐ.2.6. Xác định thu nhập tính thuế
 
-### Điều 33.11.LQ.9. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
+(Điều 6 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
+
+1. Thu nhập tính thuế trong kỳ tính thuế được xác định như sau:
+
+ Thu nhập tính thuế
+
+ =
+
+ Thu nhập chịu thuế
+
+ -
+
+ Thu nhập được miễn thuế
+
+ +
+
+ Các khoản lỗ được kết chuyển theo quy định
+
+2. Thu nhập chịu thuế được xác định như sau:
+
+ Thu nhập chịu thuế
+
+ =
+
+ Doanh thu
+
+ -
+
+ Chi phí được trừ
+
+ +
+
+ Các khoản thu nhập khác
+
+Doanh nghiệp có nhiều hoạt động kinh doanh thì thu nhập chịu thuế từ hoạt động sản xuất, kinh doanh là tổng thu nhập của tất cả các hoạt động kinh doanh. Trường hợp nếu có hoạt động kinh doanh bị lỗ thì được bù trừ số lỗ vào thu nhập chịu thuế của các hoạt động kinh doanh có thu nhập do doanh nghiệp tự lựa chọn. Phần thu nhập còn lại sau khi bù trừ áp dụng mức thuế suất thuế thu nhập doanh nghiệp của hoạt động kinh doanh còn thu nhập.
+
+Thu nhập từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản phải xác định riêng để kê khai nộp thuế. Trường hợp chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng dự án đầu tư (trừ dự án thăm dò, khai thác khoáng sản), chuyển nhượng bất động sản nếu bị lỗ thì số lỗ này được bù trừ với lãi của hoạt động sản xuất kinh doanh trong kỳ tính thuế. Trường hợp doanh nghiệp làm thủ tục giải thể có bán bất động sản là tài sản cố định thì thu nhập từ chuyển nhượng bất động sản (nếu có) được bù trừ với thu nhập từ hoạt động sản xuất kinh doanh của doanh nghiệp.
+
+3. Việc xác định thu nhập chịu thuế đối với một số hoạt động sản xuất, kinh doanh được quy định như sau:
+
+a) Đối với thu nhập từ chuyển nhượng vốn (trừ thu nhập từ chuyển nhượng chứng khoán quy định tại Điểm b Khoản này) được xác định bằng tổng số tiền thu theo hợp đồng chuyển nhượng trừ (-) giá mua phần vốn được chuyển nhượng, trừ (-) chi phí liên quan trực tiếp đến việc chuyển nhượng.
+
+Trường hợp doanh nghiệp có chuyển nhượng vốn không nhận bằng tiền mà nhận bằng tài sản, lợi ích vật chất khác (như: cổ phiếu, chứng chỉ quỹ) có phát sinh thu nhập thì phải chịu thuế thu nhập doanh nghiệp;
+
+b) Đối với thu nhập từ chuyển nhượng chứng khoán được xác định bằng giá bán trừ (-) giá mua của chứng khoán được chuyển nhượng, trừ (-) các chi phí liên quan trực tiếp đến việc chuyển nhượng chứng khoán.
+
+Trường hợp doanh nghiệp thực hiện phát hành cổ phiếu thì phần chênh lệch giữa giá phát hành và mệnh giá không tính thuế thu nhập doanh nghiệp.
+
+Trường hợp doanh nghiệp tiến hành chia tách, hợp nhất, sáp nhập mà thực hiện hoán đổi cổ phiếu tại thời điểm chia tách, hợp nhất, sáp nhập nếu phát sinh thu nhập thì phần thu nhập này phải chịu thuế thu nhập doanh nghiệp.
+
+Trường hợp doanh nghiệp có chuyển nhượng chứng khoán không nhận bằng tiền mà nhận bằng tài sản, lợi ích vật chất khác (như: cổ phiếu, chứng chỉ quỹ) có phát sinh thu nhập thì phải chịu thuế thu nhập doanh nghiệp;
+
+c) Đối với thu nhập từ bản quyền sở hữu trí tuệ, chuyển giao công nghệ được xác định bằng tổng số tiền thu được trừ (-) giá vốn hoặc chi phí tạo ra quyền sở hữu trí tuệ, công nghệ được chuyển giao, trừ (-) chi phí duy trì, nâng cấp, phát triển quyền sở hữu trí tuệ, công nghệ được chuyển giao và các khoản chi được trừ khác;
+
+d) Đối với thu nhập về cho thuê tài sản được xác định bằng doanh thu cho thuê trừ (-) các khoản trích khấu hao cơ bản, chi phí duy tu, sửa chữa, bảo dưỡng tài sản, chi phí thuê tài sản để cho thuê lại (nếu có) và các chi phí khác được trừ liên quan đến việc cho thuê tài sản;
+
+đ) Thu nhập từ chuyển nhượng, thanh lý tài sản (trừ bất động sản) bằng số tiền thu được từ chuyển nhượng, thanh lý tài sản trừ (-) giá trị còn lại của tài sản ghi trên sổ sách kế toán tại thời điểm chuyển nhượng, thanh lý và các khoản chi phí được trừ liên quan đến việc chuyển nhượng, thanh lý tài sản;
+
+e) Thu nhập từ hoạt động bán ngoại tệ bằng tổng số tiền thu từ bán ngoại tệ trừ (-) giá vốn của số lượng ngoại tệ bán ra;
+
+g) Chênh lệch do đánh giá lại tài sản, được điều chuyển khi chia, tách, hợp nhất, sáp nhập, giải thể, chuyển đổi loại hình doanh nghiệp, chuyển đổi chủ sở hữu, góp vốn là phần chênh lệch giữa giá trị đánh giá lại của tài sản với giá trị còn lại của tài sản đó ghi trên sổ sách kế toán trước khi đánh giá lại tài sản.
+
+Chênh lệch tăng, giảm do đánh giá lại tài sản cố định khi góp vốn, tài sản điều chuyển khi chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp, tài sản là giá trị quyền sử dụng đất để góp vốn vào các dự án đầu tư xây dựng nhà, hạ tầng để bán được tính vào thu nhập khác hoặc giảm trừ thu nhập khác trong kỳ tính thuế; riêng chênh lệch do đánh giá lại giá trị quyền sử dụng đất để góp vốn mà bên nhận góp vốn không được trích khấu hao được tính dần vào thu nhập khác trong thời gian tối đa không quá 10 năm kể từ năm có tài sản đi góp vốn;
+
+h) Đối với hợp đồng hợp tác kinh doanh (BCC) phân chia lợi nhuận sau thuế, thu nhập được xác định bằng tổng doanh thu theo hợp đồng BCC trừ (-) tổng chi phí liên quan đến việc tạo ra doanh thu của hợp đồng BCC.
+
+Bộ Tài chính hướng dẫn cụ thể việc xác định doanh thu, chi phí của hợp đồng BCC phân chia lợi nhuận sau thuế;
+
+i) Các khoản thu nhập nhận được từ hoạt động sản xuất, kinh doanh ở nước ngoài là tổng các khoản thu nhập nhận được trước thuế.
+
+4. Thu nhập từ hoạt động thăm dò, khai thác dầu khí được xác định theo từng hợp đồng dầu khí.
+
+(Điều này có nội dung liên quan đến Điều 33.11.NĐ.2.7. Xác định lỗ và chuyển lỗ)
+
+Điều 33.11.TT.4.4. Xác định thu nhập tính thuế
+
+(Điều 4 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi, bổ sung theo quy định tại Điều 2 Thông tư số 96/2015/TT-BTC, có hiệu lực kể từ ngày 06 tháng 8 năm 2015.)
+
+1. Thu nhập tính thuế trong kỳ tính thuế được xác định bằng thu nhập chịu thuế trừ thu nhập được miễn thuế và các khoản lỗ được kết chuyển từ các năm trước theo quy định.
+
+Thu nhập tính thuế được xác định theo công thức sau:
+
+ Thu nhập tính thuế
+
+ =
+
+ Thu nhập chịu thuế
+
+ -
+
+ Thu nhập được miễn thuế
+
+ +
+
+ Các khoản lỗ được kết chuyển theo quy định
+
+*2. Thu nhập chịu thuế*
+
+*Thu nhập chịu thuế trong kỳ tính thuế bao gồm thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ và thu nhập khác.*
+
+*Thu nhập chịu thuế trong kỳ tính thuế xác định như sau:*
+
+ *Thu nhập chịu thuế*
+
+ *=*
+
+ *Doanh thu*
+
+ *-*
+
+ *Chi phí được trừ*
+
+ *+*
+
+ *Các khoản thu nhập khác*
+
+*Thu nhập từ hoạt động sản xuất kinh doanh hàng hóa, dịch vụ bằng doanh thu của hoạt động sản xuất kinh doanh hàng hóa, dịch vụ trừ chi phí được trừ của hoạt động sản xuất kinh doanh hàng hóa, dịch vụ đó. Doanh nghiệp có nhiều hoạt động sản xuất kinh doanh áp dụng nhiều mức thuế suất khác nhau thì doanh nghiệp phải tính riêng thu nhập của từng hoạt động nhân với thuế suất tương ứng.*
+
+*Thu nhập từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản theo quy định của pháp luật phải hạch toán riêng để kê khai nộp thuế thu nhập doanh nghiệp với mức thuế suất 22% (từ ngày 01/01/2016 áp dụng mức thuế suất 20%), không được hưởng ưu đãi thuế thu nhập doanh nghiệp (trừ phần thu nhập của doanh nghiệp thực hiện dự án đầu tư kinh doanh nhà ở xã hội để bán, cho thuê, cho thuê mua được áp dụng thuế suất thuế TNDN 10% theo quy định tại điểm d khoản 3 Điều 19 Thông tư số 78/2014/TT-BTC).*
+
+*Doanh nghiệp trong kỳ tính thuế có các hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia thực hiện dự án đầu tư (trừ dự án thăm dò, khai thác khoáng sản) nếu bị lỗ thì số lỗ này được bù trừ với lãi của hoạt động sản xuất kinh doanh (bao gồm cả thu nhập khác quy định tại Điều 7 Thông tư số 78/2014/TT-BTC), sau khi bù trừ vẫn còn lỗ thì tiếp tục được chuyển sang các năm tiếp theo trong thời hạn chuyển lỗ theo quy định.*
+
+*Đối với số lỗ của hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia thực hiện dự án đầu tư (trừ dự án thăm dò, khai thác khoáng sản) của các năm 2013 trở về trước còn trong thời hạn chuyển lỗ thì doanh nghiệp phải chuyển vào thu nhập của hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia thực hiện dự án đầu tư, nếu chuyển không hết thì được chuyển lỗ vào thu nhập của hoạt động sản xuất kinh doanh (bao gồm cả thu nhập khác) từ năm 2014 trở đi.*
+
+*Trường hợp doanh nghiệp làm thủ tục giải thể doanh nghiệp, sau khi có quyết định giải thể nếu có chuyển nhượng bất động sản là tài sản cố định của doanh nghiệp thì thu nhập (lãi) từ chuyển nhượng bất động sản (nếu có) được bù trừ với lỗ từ hoạt động sản xuất kinh doanh (bao gồm cả số lỗ của các năm trước được chuyển sang theo quy định) vào kỳ tính thuế phát sinh hoạt động chuyển nhượng bất động sản.*
+
+(Điều này có nội dung liên quan đến Điều 33.11.TT.4.7. Thu nhập khác; Điều 33.11.TT.4.19. Thuế suất ưu đãi)
+
+Điều 33.11.LQ.8. Doanh thu
+
+(Điều 8 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, các nội dung quy định về tỷ giá khi xác định doanh thu, chi phí, giá tính thuế, thu nhập tính thuế, thu nhập chịu thuế và thuế nộp ngân sách nhà nước tại Điều này bị bãi bỏ theo quy định tại điểm a khoản 2 Điều 6 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015)
+
+Doanh thu là toàn bộ tiền bán hàng, tiền gia công, tiền cung ứng dịch vụ, trợ giá, phụ thu, phụ trội mà doanh nghiệp được hưởng. Doanh thu được tính bằng đồng Việt Nam; trường hợp có doanh thu bằng ngoại tệ thì phải quy đổi ngoại tệ ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh doanh thu bằng ngoại tệ.
+
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. ; Điều 33.11.NĐ.2.8. Doanh thu của Nghị định 218/2013/NĐ-CP Quy định chit tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 26/12/2013)
+
+Điều 33.11.NĐ.2.8. Doanh thu
+
+(Điều 8 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
+
+Doanh thu để tính thu nhập chịu thuế thực hiện theo quy định tại Điều 8 Luật thuế thu nhập doanh nghiệp.
+
+1. Doanh thu để tính thu nhập chịu thuế là toàn bộ tiền bán hàng, tiền gia công, tiền cung ứng dịch vụ kể cả trợ giá, phụ thu, phụ trội mà doanh nghiệp được hưởng, không phân biệt đã thu được tiền hay chưa thu được tiền.
+
+Đối với doanh nghiệp kê khai, nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế thì doanh thu tính thuế thu nhập doanh nghiệp là doanh thu không có thuế giá trị gia tăng. Đối với doanh nghiệp kê khai, nộp thuế giá trị gia tăng theo phương pháp trực tiếp trên giá trị gia tăng thì doanh thu tính thuế thu nhập doanh nghiệp bao gồm cả thuế giá trị gia tăng.
+
+2. Thời điểm xác định doanh thu để tính thu nhập chịu thuế đối với hàng hóa bán ra là thời điểm chuyển giao quyền sở hữu, quyền sử dụng hàng hóa cho người mua.
+
+Thời điểm xác định doanh thu để tính thu nhập chịu thuế đối với dịch vụ là thời điểm hoàn thành việc cung ứng dịch vụ cho người mua hoặc thời điểm lập hóa đơn cung ứng dịch vụ.
+
+3. Doanh thu để tính thu nhập chịu thuế đối với một số trường hợp được quy định cụ thể như sau:
+
+a) Đối với hàng hóa bán theo phương thức trả góp được xác định theo giá bán hàng hóa trả tiền một lần, không bao gồm tiền lãi trả góp, trả chậm;
+
+b) Đối với hàng hóa, dịch vụ dùng để trao đổi, tiêu dùng nội bộ (không bao gồm hàng hóa, dịch vụ sử dụng để tiếp tục quá trình sản xuất, kinh doanh của doanh nghiệp) được xác định theo giá bán của sản phẩm, hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm trao đổi, tiêu dùng nội bộ;
+
+c) Đối với hoạt động gia công hàng hóa là tiền thu về hoạt động gia công bao gồm cả tiền công, chi phí về nhiên liệu, động lực, vật liệu phụ và chi phí khác phục vụ cho việc gia công hàng hóa;
+
+d) Đối với hoạt động cho thuê tài sản, hoạt động kinh doanh sân gôn, kinh doanh dịch vụ khác mà khách hàng trả tiền trước cho nhiều năm là số tiền bên thuê tài sản, mua dịch vụ trả từng kỳ theo hợp đồng. Trường hợp bên thuê tài sản, bên mua dịch vụ trả tiền trước cho nhiều năm thì doanh thu để tính thu nhập chịu thuế được phân bổ cho số năm trả tiền trước hoặc xác định theo doanh thu trả tiền một lần. Trường hợp doanh nghiệp đang trong thời gian hưởng ưu đãi thuế, việc xác định số thuế được ưu đãi phải căn cứ vào tổng số thuế thu nhập doanh nghiệp phải nộp của số năm thu tiền trước chia (:) cho số năm thu tiền trước;
+
+đ) Đối với hoạt động tín dụng, hoạt động cho thuê tài chính là tiền lãi cho vay, doanh thu về cho thuê tài chính phải thu phát sinh trong kỳ tính thuế;
+
+e) Đối với hoạt động vận tải là toàn bộ doanh thu cước vận chuyển hành khách, hàng hóa, hành lý phát sinh trong kỳ tính thuế;
+
+g) Đối với điện, nước sạch là số tiền ghi trên hóa đơn giá trị gia tăng;
+
+h) Đối với hoạt động kinh doanh bảo hiểm, tái bảo hiểm là số tiền phải thu về phí bảo hiểm gốc; phí dịch vụ đại lý (bao gồm giám định tổn thất, xét giải quyết bồi thường, yêu cầu người thứ ba bồi hoàn, xử lý hàng bồi thường 100%); phí nhận tái bảo hiểm; thu hoa hồng tái bảo hiểm và các khoản thu khác về kinh doanh bảo hiểm trừ (-) các khoản hoàn hoặc giảm phí bảo hiểm, phí nhận tái bảo hiểm, các khoản hoàn hoặc giảm hoa hồng nhượng tái bảo hiểm.
+
+Trường hợp đồng bảo hiểm, doanh thu để tính thu nhập chịu thuế là tiền thu phí bảo hiểm gốc được phân bổ theo tỷ lệ đồng bảo hiểm chưa bao gồm thuế giá trị gia tăng.
+
+Đối với hợp đồng bảo hiểm thỏa thuận trả tiền theo từng kỳ thì doanh thu để tính thu nhập chịu thuế là số tiền phải thu phát sinh trong từng kỳ;
+
+i) Đối với hoạt động xây dựng, lắp đặt là giá trị công trình, hạng mục công trình hoặc khối lượng công trình xây dựng, lắp đặt được nghiệm thu.
+
+Trường hợp xây dựng, lắp đặt không bao thầu nguyên vật liệu, máy móc, thiết bị thì doanh thu tính thuế không bao gồm giá trị nguyên vật liệu, máy móc, thiết bị;
+
+k) Đối với hoạt động kinh doanh dưới hình thức hợp đồng hợp tác kinh doanh mà không thành lập pháp nhân:
+
+- Trường hợp các bên tham gia hợp đồng hợp tác kinh doanh phân chia kết quả kinh doanh bằng doanh thu bán hàng hóa, dịch vụ thì doanh thu tính thuế là doanh thu của từng bên được chia theo hợp đồng;
+
+- Trường hợp các bên tham gia hợp đồng hợp tác kinh doanh phân chia kết quả kinh doanh bằng lợi nhuận sau thuế thì doanh thu để xác định thu nhập chịu thuế là số tiền bán hàng hóa, dịch vụ của hợp đồng;
+
+l) Đối với kinh doanh casino, trò chơi điện tử có thưởng, kinh doanh đặt cược là số tiền thu từ hoạt động này bao gồm cả thuế tiêu thụ đặc biệt trừ (-) số tiền đã trả thưởng cho khách;
+
+m) Đối với kinh doanh chứng khoán là các khoản thu từ dịch vụ môi giới, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, tư vấn đầu tư chứng khoán, quản lý quỹ đầu tư, phát hành chứng chỉ quỹ, dịch vụ tổ chức thị trường và các dịch vụ chứng khoán khác theo quy định của pháp luật;
+
+n) Đối với hoạt động tìm kiếm, thăm dò và khai thác dầu khí là toàn bộ doanh thu bán dầu, khí theo hợp đồng giao dịch sòng phẳng trong kỳ tính thuế;
+
+o) Đối với dịch vụ tài chính phái sinh là số tiền thu từ việc cung ứng các dịch vụ tài chính phái sinh thực hiện trong kỳ tính thuế;
+
+Bộ Tài chính hướng dẫn cụ thể quy định tại Điều này và đối với một số trường hợp đặc thù khác.
+
+(Điều này có nội dung liên quan đến Điều 33.11.LQ.8. Doanh thu)
+
+Điều 33.11.TT.4.5. Doanh thu
+
+(Điều 5 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi, bổ sung theo quy định tại Điều 3 Thông tư số 96/2015/TT-BTC, có hiệu lực kể từ ngày 06 tháng 8 năm 2015; khoản 1 Điều 6 Thông tư số 119/2014/TT-BTC, có hiệu lực kể từ ngày 01 tháng 9 năm 2014.)
+
+1. Doanh thu để tính thu nhập chịu thuế được xác định như sau:
+
+Doanh thu để tính thu nhập chịu thuế là toàn bộ tiền bán hàng hóa, tiền gia công, tiền cung cấp dịch vụ bao gồm cả khoản trợ giá, phụ thu, phụ trội mà doanh nghiệp được hưởng không phân biệt đã thu được tiền hay chưa thu được tiền.
+
+a) Đối với doanh nghiệp nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế là doanh thu chưa bao gồm thuế giá trị gia tăng.
+
+Ví dụ 4: Doanh nghiệp A là đối tượng nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế. Hóa đơn giá trị gia tăng gồm các chỉ tiêu như sau:
+
+ Giá bán:
+
+ Thuế GTGT (10%):
+
+ Giá thanh toán:
+
+ 100.000 đồng.
+
+ 10.000 đồng.
+
+ 110.000 đồng.
+
+Doanh thu để tính thu nhập chịu thuế là 100.000 đồng.
+
+b) Đối với doanh nghiệp nộp thuế giá trị gia tăng theo phương pháp trực tiếp trên giá trị gia tăng là doanh thu bao gồm cả thuế giá trị gia tăng.
+
+Ví dụ 5: Doanh nghiệp B là đối tượng nộp thuế giá trị gia tăng theo phương pháp trực tiếp trên giá trị gia tăng. Hóa đơn bán hàng chỉ ghi giá bán là 110.000 đồng (giá đã có thuế GTGT).
+
+Doanh thu để tính thu nhập chịu thuế là 110.000 đồng.
+
+c) Trường hợp doanh nghiệp có hoạt động kinh doanh dịch vụ mà khách hàng trả tiền trước cho nhiều năm thì doanh thu để tính thu nhập chịu thuế được phân bổ cho số năm trả tiền trước hoặc được xác định theo doanh thu trả tiền một lần. Trường hợp doanh nghiệp đang trong thời gian hưởng ưu đãi thuế việc xác định số thuế được ưu đãi phải căn cứ vào tổng số thuế thu nhập doanh nghiệp phải nộp của số năm thu tiền trước chia (:) cho số năm thu tiền trước.
+
+*2. Thời điểm xác định doanh thu để tính thu nhập chịu thuế được xác định như sau:*
+
+*a) Đối với hoạt động bán hàng hóa là thời điểm chuyển giao quyền sở hữu, quyền sử dụng hàng hóa cho người mua.*
+
+*b) Đối với hoạt động cung ứng dịch vụ là thời điểm hoàn thành việc cung ứng dịch vụ hoặc hoàn thành từng phần việc cung ứng dịch vụ cho người mua trừ trường hợp nêu tại Khoản 3 Điều 5 Thông tư số 78/2014/TT-BTC, Khoản 1 Điều 6 Thông tư số 119/2014/TT-BTC.*
+
+*c) Đối với hoạt động vận tải hàng không là thời điểm hoàn thành việc cung ứng dịch vụ vận chuyển cho người mua.*
+
+*d) Trường hợp khác theo quy định của pháp luật.*
+
+3. Doanh thu để tính thu nhập chịu thuế trong một số trường hợp xác định như sau:
+
+a) Đối với hàng hóa, dịch vụ bán theo phương thức trả góp, trả chậm là tiền bán hàng hóa, dịch vụ trả tiền một lần, không bao gồm tiền lãi trả góp, tiền lãi trả chậm.
+
+*b) Đối với hàng hóa, dịch vụ dùng để trao đổi (không bao gồm hàng hóa, dịch vụ sử dụng để tiếp tục quá trình sản xuất, kinh doanh của doanh nghiệp) được xác định theo giá bán của sản phẩm, hàng hóa, dịch vụ cùng loại hoặc tương đương trên thị trường tại thời điểm trao đổi.*
+
+*Ví dụ: Doanh nghiệp A có chức năng sản xuất phụ tùng ôtô và lắp ráp ô tô. Doanh nghiệp A dùng sản phẩm lốp ôtô do doanh nghiệp sản xuất để trưng bày, giới thiệu sản phẩm hoặc dùng lốp ôtô để tiếp tục lắp ráp thành ôtô hoàn chỉnh thì trong trường hợp này sản phẩm lốp ôtô của doanh nghiệp không phải quy đổi để tính vào doanh thu tính thuế thu nhập doanh nghiệp.*
+
+*Ví dụ: Doanh nghiệp B là doanh nghiệp sản xuất máy tính Trong năm doanh nghiệp B có xuất một số máy tính do chính doanh nghiệp sản xuất cho cán bộ công nhân viên để dùng làm việc tại doanh nghiệp thì các sản phẩm máy tính này không phải quy đổi để tính vào doanh thu tính thuế thu nhập doanh nghiệp.*
+
+c) Đối với hoạt động gia công hàng hóa là tiền thu về hoạt động gia công bao gồm cả tiền công, chi phí về nhiên liệu, động lực, vật liệu phụ và chi phí khác phục vụ cho việc gia công hàng hóa.
+
+d) Đối với hàng hóa của các đơn vị giao đại lý, ký gửi và nhận đại lý, ký gửi theo hợp đồng đại lý, ký gửi bán đúng giá hưởng hoa hồng được xác định như sau:
+
+- Doanh nghiệp giao hàng hóa cho các đại lý (kể cả đại lý bán hàng đa cấp), ký gửi là tổng số tiền bán hàng hóa.
+
+- Doanh nghiệp nhận làm đại lý, ký gửi bán hàng đúng giá quy định của doanh nghiệp giao đại lý, ký gửi là tiền hoa hồng được hưởng theo hợp đồng đại lý, ký gửi hàng hóa.
+
+e) Đối với hoạt động cho thuê tài sản là số tiền bên thuê trả từng kỳ theo hợp đồng thuê. Trường hợp bên thuê trả tiền trước cho nhiều năm thì doanh thu để tính thu nhập chịu thuế được phân bổ cho số năm trả tiền trước hoặc được xác định theo doanh thu trả tiền một lần.
+
+Doanh nghiệp căn cứ điều kiện thực hiện chế độ kế toán, hóa đơn chứng từ thực tế và việc xác định chi phí, có thể lựa chọn một trong hai phương pháp xác định doanh thu để tính thu nhập chịu thuế như sau:
+
+- Là số tiền cho thuê tài sản của từng năm được xác định bằng (=) số tiền trả trước chia (:) số năm trả tiền trước.
+
+- Là toàn bộ số tiền cho thuê tài sản của số năm trả tiền trước.
+
+Trường hợp doanh nghiệp đang trong thời gian hưởng ưu đãi thuế thu nhập doanh nghiệp lựa chọn phương pháp xác định doanh thu để tính thu nhập chịu thuế là toàn bộ số tiền thuê bên thuê trả trước cho nhiều năm thì việc xác định số thuế thu nhập doanh nghiệp từng ưu đãi thuế căn cứ vào tổng số thuế thu nhập doanh nghiệp của số năm trả tiền trước chia (:) số năm bên thuê trả tiền trước.
+
+g) Đối với hoạt động kinh doanh sân gôn là tiền bán thẻ hội viên, bán vé chơi gôn và các khoản thu khác trong kỳ tính thuế được xác định như sau:
+
+- Đối với hình thức bán vé, bán thẻ chơi gôn theo ngày, doanh thu kinh doanh sân gôn làm căn cứ xác định thu nhập tính thuế thu nhập doanh nghiệp là số tiền thu được từ bán vé, bán thẻ và các khoản thu khác phát sinh trong kỳ tính thuế.
+
+- Đối với hình thức bán vé, bán thẻ hội viên loại thẻ trả trước cho nhiều năm, doanh thu làm căn cứ xác định thu nhập tính thuế thu nhập doanh nghiệp của từng năm là số tiền bán thẻ và các khoản thu khác thực thu được chia cho số năm sử dụng thẻ hoặc xác định theo doanh thu trả tiền một lần.
+
+h) Đối với hoạt động tín dụng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài là thu từ lãi tiền gửi, thu từ lãi tiền cho vay, doanh thu về cho thuê tài chính phải thu phát sinh trong kỳ tính thuế được hạch toán vào doanh thu theo quy định hiện hành về cơ chế tài chính của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.
+
+i) Đối với hoạt động vận tải là toàn bộ doanh thu vận chuyển hành khách, hàng hóa, hành lý phát sinh trong kỳ tính thuế.
+
+k) Đối với hoạt động cung cấp điện, nước sạch là số tiền cung cấp điện, nước sạch ghi trên hóa đơn giá trị gia tăng. Thời điểm xác định doanh thu để tính thu nhập chịu thuế là ngày xác nhận chỉ số công tơ điện và được ghi trên hóa đơn tính tiền điện, tiền nước sạch.
+
+Ví dụ 6: Hóa đơn tiền điện ghi chỉ số công tơ từ ngày 5/12 đến ngày 5/1. Doanh thu của hóa đơn này được tính vào tháng 1.
+
+l) Đối với lĩnh vực kinh doanh bảo hiểm, doanh thu để tính thu nhập chịu thuế là toàn bộ số tiền thu được do cung ứng dịch vụ bảo hiểm và hàng hóa, dịch vụ khác, kể cả phụ thu và phí thu thêm mà doanh nghiệp bảo hiểm được hưởng chưa có thuế giá trị gia tăng, bao gồm:
+
+- Doanh thu từ hoạt động kinh doanh bảo hiểm:
+
+Đối với hoạt động kinh doanh bảo hiểm và tái bảo hiểm là số tiền phải thu về thu phí bảo hiểm gốc; thu phí nhận tái bảo hiểm; thu hoa hồng nhượng tái bảo hiểm; thu phí quản lý đơn bảo hiểm; thu phí về dịch vụ đại lý bao gồm giám định tổn thất, xét giải quyết bồi thường, yêu cầu người thứ ba bồi hoàn, xử lý hàng bồi thường 100% (không kể giám định hộ giữa các doanh nghiệp thành viên hạch toán nội bộ trong cùng một doanh nghiệp bảo hiểm hạch toán độc lập) sau khi đã trừ đi các khoản phải chi để giảm thu như: hoàn phí bảo hiểm; giảm phí bảo hiểm; hoàn phí nhận tái bảo hiểm; giảm phí nhận tái bảo hiểm; hoàn hoa hồng nhượng tái bảo hiểm; giảm hoa hồng nhượng tái bảo hiểm.
+
+Trường hợp các doanh nghiệp bảo hiểm tham gia đồng bảo hiểm, doanh thu để tính thu nhập chịu thuế của từng bên là tiền thu phí bảo hiểm gốc được phân bổ theo tỷ lệ đồng bảo hiểm cho mỗi bên chưa bao gồm thuế giá trị gia tăng.
+
+Đối với hợp đồng bảo hiểm thỏa thuận trả tiền theo từng kỳ thì doanh thu để tính thu nhập chịu thuế là số tiền phải thu phát sinh trong từng kỳ.
+
+Trường hợp có thực hiện các nghiệp vụ thu hộ giữa các doanh nghiệp trực thuộc hoặc giữa doanh nghiệp hạch toán phụ thuộc với trụ sở chính của doanh nghiệp bảo hiểm thì doanh thu để tính thu nhập chịu thuế không bao gồm phần doanh thu thu hộ.
+
+- Doanh thu hoạt động môi giới bảo hiểm: Các khoản thu hoa hồng môi giới bảo hiểm sau khi trừ các khoản hoa hồng môi giới bảo hiểm, giảm và hoàn hoa hồng môi giới bảo hiểm.
+
+m) Đối với hoạt động xây dựng, lắp đặt là giá trị công trình, giá trị hạng mục công trình hoặc giá trị khối lượng công trình xây dựng, lắp đặt nghiệm thu.
+
+- Trường hợp xây dựng, lắp đặt có bao thầu nguyên vật liệu, máy móc, thiết bị là số tiền từ hoạt động xây dựng, lắp đặt bao gồm cả giá trị nguyên vật liệu, máy móc, thiết bị.
+
+- Trường hợp xây dựng, lắp đặt không bao thầu nguyên vật liệu, máy móc, thiết bị là số tiền từ hoạt động xây dựng, lắp đặt không bao gồm giá trị nguyên vật liệu, máy móc, thiết bị.
+
+n) Đối với hoạt động kinh doanh dưới hình thức hợp đồng hợp tác kinh doanh:
+
+- Trường hợp các bên tham gia hợp đồng hợp tác kinh doanh phân chia kết quả kinh doanh bằng doanh thu bán hàng hóa, dịch vụ thì doanh thu tính thuế là doanh thu của từng bên được chia theo hợp đồng.
+
+- Trường hợp các bên tham gia hợp đồng hợp tác kinh doanh phân chia kết quả kinh doanh bằng sản phẩm thì doanh thu tính thuế là doanh thu của sản phẩm được chia cho từng bên theo hợp đồng.
+
+- Trường hợp các bên tham gia hợp đồng hợp tác kinh doanh phân chia kết quả kinh doanh bằng lợi nhuận trước thuế thu nhập doanh nghiệp thì doanh thu để xác định thu nhập trước thuế là số tiền bán hàng hóa, dịch vụ theo hợp đồng. Các bên tham gia hợp đồng hợp tác kinh doanh phải cử ra một bên làm đại diện có trách nhiệm xuất hóa đơn, ghi nhận doanh thu, chi phí, xác định lợi nhuận trước thuế thu nhập doanh nghiệp chia cho từng bên tham gia hợp đồng hợp tác kinh doanh. Mỗi bên tham gia hợp đồng hợp tác kinh doanh tự thực hiện nghĩa vụ thuế thu nhập doanh nghiệp của mình theo quy định hiện hành.
+
+- Trường hợp các bên tham gia hợp đồng hợp tác kinh doanh phân chia kết quả kinh doanh bằng lợi nhuận sau thuế thu nhập doanh nghiệp thì doanh thu để xác định thu nhập chịu thuế là số tiền bán hàng hóa, dịch vụ theo hợp đồng. Các bên tham gia hợp đồng hợp tác kinh doanh phải cử ra một bên làm đại diện có trách nhiệm xuất hóa đơn, ghi nhận doanh thu, chi phí và kê khai nộp thuế thu nhập doanh nghiệp thay cho các bên còn lại tham gia hợp đồng hợp tác kinh doanh.
+
+o) Đối với hoạt động kinh doanh trò chơi có thưởng (casino, trò chơi điện tử có thưởng, kinh doanh có đặt cược) là số tiền thu từ hoạt động này bao gồm cả thuế tiêu thụ đặc biệt trừ số tiền đã trả thưởng cho khách.
+
+p) Đối với hoạt động kinh doanh chứng khoán là các khoản thu từ dịch vụ môi giới, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, quản lý danh mục đầu tư, tư vấn tài chính và đầu tư chứng khoán, quản lý quỹ đầu tư, phát hành chứng chỉ quỹ, dịch vụ tổ chức thị trường và các dịch vụ chứng khoán khác theo quy định của pháp luật.
+
+q) Đối với dịch vụ tài chính phái sinh là số tiền thu từ việc cung ứng các dịch vụ tài chính phái sinh thực hiện trong kỳ tính thuế.
+
+(Điều này có nội dung liên quan đến Điều 6. Sửa đổi, bổ sung Thông tư số 78/2014/TT-BTC ngày 18/6/2014 của Bộ Tài chính hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp như sau: của Thông tư 119/2014/TT-BTC Sửa đổi, bổ sung một số điều Thông tư số 156/2013/TT-BTC ngày 06/11/2013, Thông tư số 111/2013/TT-BTC ngày 15/8/2013, Thông tư số 219/2013/TT-BTC ngày 31/12/2013, Thông tư số 08/2013/TT-BTC ngày 10/01/2013, Thông tư số 85/2011/TT-BTC ngày 17/6/2011,¬¬ Thông tư số 39/2014/TT-BTC ngày 31/3/2014 và Thông tư số 78/2014/TT-BTC ngày 18/6/2014 của Bộ Tài chính để cải cách, đơn giản các thủ tục hành chính về thuế ban hành ngày 25/08/2014; Điều 33.11.TT.4.5. Doanh thu)
 
 Điều 33.11.LQ.9. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 5 Điều 1 của Luật số 32/2013/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2014; khoản 3, khoản 4 Điều 1 của Luật số 71/2014/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2015; các nội dung quy định về tỷ giá khi xác định doanh thu, chi phí, giá tính thuế, thu nhập tính thuế, thu nhập chịu thuế và thuế nộp ngân sách nhà nước tại điều này bị bãi bỏ theo quy định tại điểm a khoản 2 Điều 6 của Luật số 71/2014/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.)
 
-**Mã phân cấp:** 3301100000000000200000900000000000000000
+1. Trừ các khoản chi quy định tại khoản 2 Điều này, doanh nghiệp được trừ mọi khoản chi khi xác định thu nhập chịu thuế nếu đáp ứng đủ các điều kiện sau đây:
 
-**ID:** dk_00053926
+a) Khoản chi thực tế phát sinh liên quan đến hoạt động sản xuất, kinh doanh của doanh nghiệp; khoản chi cho hoạt động giáo dục nghề nghiệp; khoản chi thực hiện nhiệm vụ quốc phòng, an ninh của doanh nghiệp theo quy định của pháp luật;
 
----
+b) Khoản chi có đủ hóa đơn, chứng từ theo quy định của pháp luật. Đối với hóa đơn mua hàng hóa, dịch vụ từng lần có giá trị từ hai mươi triệu đồng trở lên phải có chứng từ thanh toán không dùng tiền mặt, trừ các trường hợp không bắt buộc phải có chứng từ thanh toán không dùng tiền mặt theo quy định của pháp luật.
 
+2. Các khoản chi không được trừ khi xác định thu nhập chịu thuế bao gồm:
 
-### Điều 33.11.NĐ.2.9. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
+a) Khoản chi không đáp ứng đủ các điều kiện quy định tại khoản 1 Điều này, trừ phần giá trị tổn thất do thiên tai, dịch bệnh và trường hợp bất khả kháng khác không được bồi thường;
+
+b) Khoản tiền phạt do vi phạm hành chính;
+
+c) Khoản chi được bù đắp bằng nguồn kinh phí khác;
+
+d) Phần chi phí quản lý kinh doanh do doanh nghiệp nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam vượt mức tính theo phương pháp phân bổ do pháp luật Việt Nam quy định;
+
+đ) Phần chi vượt mức theo quy định của pháp luật về trích lập dự phòng;
+
+e) Phần chi trả lãi tiền vay vốn sản xuất, kinh doanh của đối tượng không phải là tổ chức tín dụng hoặc tổ chức kinh tế vượt quá 150% mức lãi suất cơ bản do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm vay;
+
+g) Khoản trích khấu hao tài sản cố định không đúng quy định của pháp luật;
+
+h) Khoản trích trước vào chi phí không đúng quy định của pháp luật;
+
+i) Tiền lương, tiền công của chủ doanh nghiệp tư nhân; thù lao trả cho sáng lập viên doanh nghiệp không trực tiếp tham gia điều hành sản xuất, kinh doanh; tiền lương, tiền công, các khoản hạch toán chi khác để chi trả cho người lao động nhưng thực tế không chi trả hoặc không có hóa đơn, chứng từ theo quy định của pháp luật;
+
+k) Phần chi trả lãi tiền vay vốn tương ứng với phần vốn điều lệ còn thiếu;
+
+l) Phần thuế giá trị gia tăng đầu vào đã được khấu trừ, thuế giá trị gia tăng nộp theo phương pháp khấu trừ, thuế thu nhập doanh nghiệp;
+
+m) ***(được bãi bỏ)***
+
+n) Khoản tài trợ, trừ khoản tài trợ cho giáo dục, y tế, nghiên cứu khoa học, khắc phục hậu quả thiên tai, làm nhà đại đoàn kết, nhà tình nghĩa, nhà cho các đối tượng chính sách theo quy định của pháp luật, khoản tài trợ theo chương trình của Nhà nước dành cho các địa phương thuộc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn;
+
+o) Phần trích nộp quỹ hưu trí tự nguyện hoặc quỹ có tính chất an sinh xã hội, mua bảo hiểm hưu trí tự nguyện cho người lao động vượt mức quy định theo quy định của pháp luật;
+
+p) Các khoản chi của hoạt động kinh doanh: ngân hàng, bảo hiểm, xổ số, chứng khoán và một số hoạt động kinh doanh đặc thù khác theo quy định của Bộ trưởng Bộ Tài chính.
+
+3. Khoản chi bằng ngoại tệ được trừ khi xác định thu nhập chịu thuế phải quy đổi ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh khoản chi bằng ngoại tệ.
+
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. )
 
 Điều 33.11.NĐ.2.9. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014, có nội dung được sửa đổi, bổ sung và bãi bỏ theo quy định tại Khoản 5, khoản 6 Điều 1, Khoản 3 Điều 6 Nghị định số 12/2015/NĐ-CP, có hiệu lực từ ngày 01 tháng 01 năm 2015; Khoản 5 Điều 1 Nghị định số 91/2014/ NĐ-CP, có hiệu lực kể từ ngày 15 tháng 11 năm 2014 và áp dụng cho kỳ tính thuế thu nhập doanh nghiệp từ năm 2014; Điều 2 Nghị định số 146/2017/NĐ-CP, có hiệu lực kể từ ngày 01 tháng 02 năm 2018.)
 
-**Mã phân cấp:** 330110000000000020000090000000000000000000402495202180000900
+1. Trừ các khoản chi quy định tại Khoản 2 Điều này, doanh nghiệp được trừ mọi khoản chi nếu đáp ứng đủ các điều kiện sau đây:
 
-**ID:** dk_00053927
+*a) Khoản chi thực tế phát sinh liên quan đến hoạt động sản xuất, kinh doanh của doanh nghiệp, bao gồm cả các khoản chi sau:*
 
----
+*- Khoản chi cho thực hiện nhiệm vụ giáo dục quốc phòng và an ninh, huấn luyện, hoạt động của lực lượng dân quân tự vệ và phục vụ các nhiệm vụ quốc phòng, an ninh khác theo quy định của pháp luật; khoản chi hỗ trợ phục vụ cho hoạt động của tổ chức đảng, tổ chức chính trị - xã hội trong doanh nghiệp;*
 
+*- Khoản chi cho hoạt động giáo dục nghề nghiệp, đào tạo nghề nghiệp cho người lao động theo quy định của pháp luật;*
 
-### Điều 33.11.TT.4.6. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
+*- Các khoản chi thực tế cho hoạt động phòng, chống HIV/AIDS nơi làm việc của doanh nghiệp, bao gồm: Chi phí đào tạo cán bộ phòng, chống HIV/AIDS của doanh nghiệp, chi phí tổ chức truyền thông phòng, chống HIV/AIDS cho người lao động của doanh nghiệp, phí thực hiện tư vấn, khám và xét nghiệm HIV, chi phí hỗ trợ người nhiễm HIV là người lao động của doanh nghiệp.*
+
+*- Khoản chi có tính chất phúc lợi chi trực tiếp cho người lao động mà doanh nghiệp có hóa đơn, chứng từ theo quy định như: Chi đám hiếu, hỷ của bản thân và gia đình người lao động; chi nghỉ mát, chi hỗ trợ điều trị; chi hỗ trợ bổ sung kiến thức học tập tại cơ sở đào tạo; chi hỗ trợ gia đình người lao động bị ảnh hưởng bởi thiên tai, địch họa, tai nạn, ốm đau; chi khen thưởng con cái của người lao động có thành tích tốt trong học tập; chi hỗ trợ chi phí đi lại ngày lễ, tết cho người lao động và những khoản chi có tính chất phúc lợi khác theo hướng dẫn của Bộ Tài chính; tổng số chi không quá 01 tháng lương bình quân thực tế thực hiện trong năm tính thuế.*
+
+b) Khoản chi có đủ hóa đơn, chứng từ theo quy định của pháp luật.
+
+Đối với các trường hợp: Mua hàng hóa là nông, lâm, thủy sản của người sản xuất, đánh bắt trực tiếp bán ra; mua sản phẩm thủ công làm bằng đay, cói, tre, nứa, lá, song, mây, rơm, vỏ dừa, sọ dừa hoặc nguyên liệu tận dụng từ sản phẩm nông nghiệp của người sản xuất thủ công trực tiếp bán ra; mua đất, đá, cát, sỏi của hộ gia đình, cá nhân tự khai thác trực tiếp bán ra, mua phế liệu của người trực tiếp thu nhặt, mua đồ dùng, tài sản, của hộ gia đình, cá nhân trực tiếp bán ra và dịch vụ mua của hộ gia đình, cá nhân không kinh doanh phải có chứng từ thanh toán chi trả tiền cho người bán và Bảng kê thu mua hàng hóa, dịch vụ do người đại diện theo pháp luật hoặc người được ủy quyền của doanh nghiệp kinh doanh ký và chịu trách nhiệm.
+
+c) Đối với hóa đơn mua hàng hóa, dịch vụ từng lần có giá trị từ hai mươi triệu đồng trở lên phải có chứng từ thanh toán không dùng tiền mặt, trừ các khoản chi của doanh nghiệp cho việc: Thực hiện nhiệm vụ quốc phòng, an ninh, cho hoạt động phòng, chống HIV/AIDS nơi làm việc, hỗ trợ phục vụ cho hoạt động của tổ chức đảng, tổ chức chính trị - xã hội trong doanh nghiệp quy định tại Điểm a Khoản 1 Điều này; cho việc thu mua hàng hóa, dịch vụ được lập Bảng kê quy định tại Điểm b Khoản 1 Điều này.
+
+Bộ Tài chính hướng dẫn cụ thể đối với trường hợp thanh toán theo hợp đồng mà thời điểm thanh toán khác với thời điểm ghi nhận chi phí theo quy định và các khoản chi không phải có chứng từ thanh toán không dùng tiền mặt khác.
+
+2. Các khoản chi không được trừ khi xác định thu nhập chịu thuế thực hiện theo quy định tại Khoản 2 Điều 9 Luật thuế thu nhập doanh nghiệp và Khoản 5 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp, một số trường hợp về khoản chi không được trừ được quy định như sau:
+
+a) Các khoản chi không đáp ứng đủ các điều kiện quy định tại Khoản 1 Điều này, trừ phần giá trị tổn thất do thiên tai, dịch bệnh, hỏa hoạn và trường hợp bất khả kháng khác không được bồi thường.
+
+Phần giá trị tổn thất do thiên tai, dịch bệnh, hỏa hoạn và trường hợp bất khả kháng khác không được bồi thường được xác định bằng tổng giá trị tổn thất trừ (-) phần giá trị doanh nghiệp bảo hiểm hoặc tổ chức, cá nhân khác phải bồi thường theo quy định của pháp luật;
+
+b) Phần chi phí quản lý kinh doanh do doanh nghiệp nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam vượt mức tính theo công thức sau:
+
+ Chi phí quản lý kinh doanh, do công ty ở nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam trong kỳ tính thuế
+
+ =
+
+ Doanh thu tính thuế của cơ sở thường trú tại Việt Nam trong kỳ tính thuế
+
+ x
+
+ Tổng số chi phí quản lý kinh doanh của công ty ở nước ngoài trong kỳ tính thuế
+
+ Tổng doanh thu của công ty ở nước ngoài, bao gồm cả doanh thu của các cơ sở thường trú ở các nước khác trong kỳ tính thuế
+
+c) Phần chi vượt mức theo quy định của pháp luật về trích lập dự phòng;
+
+*d) Phần trích khấu hao tài sản cố định không đúng quy định của Bộ Tài chính, bao gồm: Khấu hao đối với ô tô chở người từ 9 chỗ ngồi trở xuống (trừ: ô tô dùng cho kinh doanh vận tải hành khách, kinh doanh du lịch, khách sạn; ô tô dùng để làm mẫu và lái thử cho kinh doanh ô tô) tương ứng với phần nguyên giá vượt trên 1,6 tỷ đồng/xe; khấu hao của tàu bay dân dụng, du thuyền không sử dụng kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch, khách sạn.*
+
+đ) Các khoản trích trước vào chi phí không đúng với quy định của pháp luật.
+
+Các khoản trích trước được tính vào chi phí được trừ bao gồm: Trích trước về sửa chữa lớn tài sản cố định theo chu kỳ, các khoản trích trước đối với hoạt động đã hạch toán doanh thu nhưng còn tiếp tục phải thực hiện nghĩa vụ theo hợp đồng kể cả trường hợp cho thuê tài sản có thu tiền trước cho nhiều năm mà bên cho thuê hạch toán toàn bộ vào doanh thu của năm thu tiền, các khoản trích trước khác theo quy định của Bộ Tài chính;
+
+*e) Chi trả lãi tiền vay tương ứng với phần vốn điều lệ còn thiếu, theo tiến độ góp vốn ghi trong điều lệ của doanh nghiệp; lãi tiền vay trong quá trình đầu tư đã được ghi nhận vào giá trị đầu tư; lãi vay để triển khai thực hiện các hợp đồng tìm kiếm thăm dò và khai thác dầu khí.*
+
+*Trường hợp doanh nghiệp đã góp đủ vốn điều lệ, trong quá trình kinh doanh có khoản chi trả lãi tiền vay để đầu tư vào doanh nghiệp khác thì khoản chi này được tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+***g) (được bãi bỏ)***
+
+h) Phần chi phí được phép thu hồi vượt quá tỷ lệ quy định tại hợp đồng dầu khí được duyệt; trường hợp hợp đồng dầu khí không quy định về tỷ lệ thu hồi chi phí thì phần chi phí vượt trên 35% không được tính vào chi phí được trừ; các chi phí không được tính vào chi phí thu hồi gồm:
+
+- Các khoản chi quy định tại Khoản 2 Điều 9 Luật thuế thu nhập doanh nghiệp và Điểm 2 Khoản 5 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp;
+
+- Chi phí phát sinh trước khi hợp đồng dầu khí có hiệu lực, trừ trường hợp đã được thỏa thuận trong hợp đồng dầu khí hoặc theo quyết định của Thủ tướng Chính phủ;
+
+- Các loại hoa hồng dầu khí và các khoản chi khác không tính vào chi phí thu hồi theo hợp đồng;
+
+- Chi lãi đối với khoản đầu tư cho tìm kiếm, thăm dò, phát triển mỏ và khai thác dầu khí;
+
+- Tiền phạt, tiền bồi thường thiệt hại;
+
+i) Thuế giá trị gia tăng đầu vào đã được khấu trừ, thuế giá trị gia tăng đầu vào của phần giá trị xe ô tô dưới 9 chỗ ngồi vượt 1,6 tỷ đồng không được khấu trừ, thuế thu nhập doanh nghiệp và các khoản thuế, phí, lệ phí và thu khác không được tính vào chi phí theo quy định của Bộ Tài chính;
+
+k) Các khoản chi không tương ứng với doanh thu tính thuế, trừ một số trường hợp đặc thù theo hướng dẫn của Bộ Tài chính;
+
+l) Chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ cuối kỳ tính thuế, trừ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản nợ phải trả có gốc ngoại tệ cuối kỳ tính thuế, chênh lệch tỷ giá phát sinh trong quá trình đầu tư xây dựng cơ bản để hình thành tài sản cố định của doanh nghiệp mới thành lập mà tài sản cố định này chưa đưa vào sản xuất kinh doanh thực hiện theo hướng dẫn của Bộ Tài chính.
+
+Đối với khoản nợ phải thu, khoản cho vay có gốc ngoại tệ phát sinh trong kỳ, chênh lệch tỷ giá hối đoái được tính vào chi phí được trừ là khoản chênh lệch giữa tỷ giá tại thời điểm thu hồi nợ hoặc thu hồi khoản cho vay với tỷ giá tại thời điểm ghi nhận khoản nợ phải thu hoặc khoản cho vay ban đầu;
+
+m) Tiền lương, tiền công của chủ doanh nghiệp tư nhân; chủ công ty trách nhiệm hữu hạn một thành viên (do một cá nhân làm chủ), thù lao trả cho thành viên sáng lập doanh nghiệp mà những người này không trực tiếp tham gia điều hành sản xuất, kinh doanh; tiền lương, tiền công, các khoản hạch toán chi khác để trả cho người lao động nhưng thực tế không chi trả hoặc không có hóa đơn, chứng từ theo quy định của pháp luật; các khoản chi tiền thưởng, chi mua bảo hiểm nhân thọ cho người lao động không được ghi cụ thể điều kiện được hưởng và mức được hưởng tại một trong các hồ sơ sau: Hợp đồng lao động; Thỏa ước lao động tập thể; Quy chế tài chính của Công ty, Tổng công ty, Tập đoàn; Quy chế thưởng do Chủ tịch Hội đồng quản trị, Tổng giám đốc, Giám đốc quy định theo quy chế tài chính của Công ty, Tổng công ty. Chi tiền lương, tiền công và các khoản phụ cấp phải trả cho người lao động nhưng hết thời hạn nộp hồ sơ quyết toán thuế năm thực tế chưa chi trừ trường hợp doanh nghiệp có trích lập quỹ dự phòng để bổ sung vào quỹ tiền lương của năm sau liền kề nhằm bảo đảm việc trả lương không bị gián đoạn và không được sử dụng vào mục đích khác. Mức dự phòng hàng năm do doanh nghiệp quyết định nhưng không quá 17% quỹ tiền lương thực hiện (là tổng số tiền lương thực tế đã chi trả của năm quyết toán đó đến thời hạn cuối cùng nộp hồ sơ quyết toán theo quy định, không bao gồm số tiền trích lập quỹ dự phòng tiền lương của năm trước chi trong năm quyết toán thuế). Trường hợp năm trước doanh nghiệp có trích lập quỹ dự phòng tiền lương mà sau 6 tháng, kể từ ngày kết thúc năm tài chính doanh nghiệp chưa sử dụng hoặc sử dụng không hết quỹ dự phòng tiền lương thì doanh nghiệp phải ghi giảm chi phí của năm sau;
+
+n) Khoản tài trợ, trừ khoản tài trợ cho giáo dục, y tế, nghiên cứu khoa học, khắc phục hậu quả thiên tai, làm nhà đại đoàn kết, nhà tình nghĩa, nhà cho người nghèo, các đối tượng chính sách theo quy định của pháp luật, khoản tài trợ theo chương trình của Nhà nước dành cho các địa phương thuộc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.
+
+Tổ chức nhận khoản tài trợ cho nghiên cứu khoa học quy định tại điểm này là tổ chức khoa học công nghệ thành lập và hoạt động theo Luật khoa học công nghệ thực hiện nhiệm vụ khoa học công nghệ theo quy định của pháp luật về khoa học công nghệ.
+
+*o) Phần chi vượt mức 03 triệu đồng/tháng/người để trích nộp quỹ hưu trí tự nguyện, mua bảo hiểm hưu trí tự nguyện, bảo hiểm nhân thọ cho người lao động; phần vượt mức quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế để trích nộp các quỹ có tính chất an sinh xã hội (bảo hiểm xã hội, bảo hiểm hưu trí bổ sung bắt buộc), quỹ bảo hiểm y tế và quỹ bảo hiểm thất nghiệp cho người lao động;*
+
+*Khoản chi trích nộp quỹ hưu trí tự nguyện, quỹ có tính chất an sinh xã hội, mua bảo hiểm hưu trí tự nguyện, bảo hiểm nhân thọ cho người lao động được tính vào chi phí được trừ ngoài việc không vượt mức quy định tại khoản này còn phải được ghi cụ thể điều kiện hưởng và mức hưởng tại một trong các hồ sơ sau: Hợp đồng lao động; Thỏa ước lao động tập thể; Quy chế tài chính của Công ty, Tổng công ty, Tập đoàn; Quy chế thưởng do Chủ tịch Hội đồng quản trị Tổng giám đốc, Giám đốc quy định theo quy chế tài chính của Công ty, Tổng công ty;”.*
+
+p) Các khoản chi của hoạt động kinh doanh: Ngân hàng, bảo hiểm, xổ số, chứng khoán và một số hoạt động kinh doanh đặc thù khác theo quy định của Bộ Tài chính;
+
+q) Tiền chậm nộp thuế theo quy định của Luật quản lý thuế;
+
+r) Khoản chi liên quan trực tiếp đến việc phát hành cổ phiếu (trừ cổ phiếu thuộc loại nợ phải trả) và cổ tức của cổ phiếu (trừ cổ tức của cổ phiếu thuộc loại nợ phải trả), mua bán cổ phiếu quỹ và các khoản chi khác liên quan trực tiếp đến việc tăng, giảm vốn chủ sở hữu của doanh nghiệp.
+
+Bộ Tài chính hướng dẫn cụ thể về chi phí được trừ và không được trừ quy định tại Điều này.
+
+(Điều này có nội dung liên quan đến Điều 19.5.LQ.1. Phạm vi điều chỉnh của Luật 29/2013/QH13 Khoa học và công nghệ ban hành ngày 18/06/2013; Mục 3 XÓA NỢ TIỀN THUẾ, TIỀN CHẬM NỘP, TIỀN PHẠT)
 
 Điều 33.11.TT.4.6. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, được sửa đổi, bổ sung theo quy định tại Điều 4 Thông tư số 96/2015/TT-BTC, có hiệu lực kể từ ngày 06 tháng 8 năm 2015; khoản 1, khoản 2, khoản 3, khoản 4 Điều 3 Thông tư số 25/2018/TT-BTC, có hiệu lực kể từ ngày 01 tháng 5 năm 2018.)
 
-**Mã phân cấp:** 33011000000000002000009000000000000000000040249520218000090000802512600780000600
+*1. Trừ các khoản chi không được trừ nêu tại Khoản 2 Điều này, doanh nghiệp được trừ mọi khoản chi nếu đáp ứng đủ các điều kiện sau:*
 
-**ID:** dk_00053928
+*a) Khoản chi thực tế phát sinh liên quan đến hoạt động sản xuất, kinh doanh của doanh nghiệp.*
 
----
+*b) Khoản chi có đủ hóa đơn, chứng từ hợp pháp theo quy định của pháp luật.*
 
+*c) Khoản chi nếu có hóa đơn mua hàng hóa, dịch vụ từng lần có giá trị từ 20 triệu đồng trở lên (giá đã bao gồm thuế GTGT) khi thanh toán phải có chứng từ thanh toán không dùng tiền mặt.*
 
-### Điều 33.11.TT.7.3. Nguyên tắc chung trong trích lập các khoản dự phòng
+*Chứng từ thanh toán không dùng tiền mặt thực hiện theo quy định của các văn bản pháp luật về thuế giá trị gia tăng.*
+
+*Trường hợp mua hàng hóa, dịch vụ từng lần có giá trị từ hai mươi triệu đồng trở lên ghi trên hóa đơn mà đến thời điểm ghi nhận chi phí, doanh nghiệp chưa thanh toán thì doanh nghiệp được tính vào chi phí được trừ khi xác định thu nhập chịu thuế. Trường hợp khi thanh toán doanh nghiệp không có chứng từ thanh toán không dùng tiền mặt thì doanh nghiệp phải kê khai, điều chỉnh giảm chi phí đối với phần giá trị hàng hóa, dịch vụ không có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế phát sinh việc thanh toán bằng tiền mặt (kể cả trong trường hợp cơ quan thuế và các cơ quan chức năng đã có quyết định thanh tra, kiểm tra kỳ tính thuế có phát sinh khoản chi phí này).*
+
+*Đối với các hóa đơn mua hàng hóa, dịch vụ đã thanh toán bằng tiền mặt phát sinh trước thời điểm Thông tư số 78/2014/TT-BTC có hiệu lực thi hành thì không phải điều chỉnh lại theo quy định tại Điểm này.*
+
+*Ví dụ 7: Tháng 8 năm 2014 doanh nghiệp A có mua hàng hóa đã có hóa đơn và giá trị ghi trên hóa đơn là 30 triệu đồng nhưng chưa thanh toán. Trong kỳ tính thuế năm 2014, doanh nghiệp A đã tính vào chi phí được trừ khi xác định thu nhập chịu thuế đối với giá trị mua hàng hóa này. Sang năm 2015, doanh nghiệp A có thực hiện thanh toán giá trị mua hàng hóa này bằng tiền mặt do vậy doanh nghiệp A phải kê khai, điều chỉnh giảm chi phí đối với phần giá trị hàng hóa, dịch vụ vào kỳ tính thuế phát sinh việc thanh toán bằng tiền mặt (kỳ tính thuế năm 2015).*
+
+*Trường hợp doanh nghiệp mua hàng hóa, dịch vụ liên quan đến hoạt động sản xuất kinh doanh của doanh nghiệp và có hóa đơn in trực tiếp từ máy tính tiền theo quy định của pháp luật về hóa đơn; hóa đơn này nếu có giá trị từ 20 triệu đồng trở lên thì doanh nghiệp căn cứ vào hóa đơn này và chứng từ thanh toán không dùng tiền mặt của doanh nghiệp để tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*Trường hợp doanh nghiệp mua hàng hóa, dịch vụ liên quan đến hoạt động sản xuất kinh doanh của doanh nghiệp và có hóa đơn in trực tiếp từ máy tính tiền theo quy định của pháp luật về hóa đơn; hóa đơn này nếu có giá trị dưới 20 triệu đồng và có thanh toán bằng tiền mặt thì doanh nghiệp căn cứ vào hóa đơn này và chứng từ thanh toán bằng tiền mặt của doanh nghiệp để tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*2. Các khoản chi không được trừ khi xác định thu nhập chịu thuế bao gồm:*
+
+*2.1. Khoản chi không đáp ứng đủ các điều kiện quy định tại Khoản 1 Điều này.*
+
+*Trường hợp doanh nghiệp có chi phí liên quan đến phần giá trị tổn thất do thiên tai, dịch bệnh, hỏa hoạn và trường hợp bất khả kháng khác không được bồi thường thì khoản chi này được tính vào chi phí được trừ khi xác định thu nhập chịu thuế, cụ thể như sau:*
+
+*Doanh nghiệp phải tự xác định rõ tổng giá trị tổn thất do thiên tai, dịch bệnh, hỏa hoạn và trường hợp bất khả kháng khác theo quy định của pháp luật.*
+
+*Phần giá trị tổn thất do thiên tai, dịch bệnh, hỏa hoạn và trường hợp bất khả kháng khác không được bồi thường được xác định bằng tổng giá trị tổn thất trừ phần giá trị doanh nghiệp bảo hiểm hoặc tổ chức, cá nhân khác phải bồi thường theo quy định của pháp luật.*
+
+*a) Hồ sơ đối với tài sản, hàng hóa bị tổn thất do thiên tai, dịch bệnh, hỏa hoạn được tính vào chi phí được trừ như sau:*
+
+*- Biên bản kiểm kê giá trị tài sản, hàng hóa bị tổn thất do doanh nghiệp lập.*
+
+*Biên bản kiểm kê giá trị tài sản, hàng hóa tổn thất phải xác định rõ giá trị tài sản, hàng hóa bị tổn thất, nguyên nhân tổn thất, trách nhiệm của tổ chức, cá nhân về những tổn thất; chủng loại, số lượng, giá trị tài sản, hàng hóa có thể thu hồi được (nếu có); bảng kê xuất nhập tồn hàng hóa bị tổn thất có xác nhận do đại diện hợp pháp của doanh nghiệp ký và chịu trách nhiệm trước pháp luật.*
+
+*- Hồ sơ bồi thường thiệt hại được cơ quan bảo hiểm chấp nhận bồi thường (nếu có).*
+
+*- Hồ sơ quy định trách nhiệm của tổ chức, cá nhân phải bồi thường (nếu có).*
+
+*b) Hàng hóa bị hư hỏng do thay đổi quá trình sinh hóa tự nhiên, hàng hóa hết hạn sử dụng, không được bồi thường thì được tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*Hồ sơ đối với hàng hóa bị hư hỏng do thay đổi quá trình sinh hóa tự nhiên, hàng hóa hết hạn sử dụng, được tính vào chi phí được trừ như sau:*
+
+*- Biên bản kiểm kê giá trị hàng hóa bị hư hỏng do doanh nghiệp lập.*
+
+*Biên bản kiểm kê giá trị hàng hóa hư hỏng phải xác định rõ giá trị hàng hóa bị hư hỏng, nguyên nhân hư hỏng; chủng loại, số lượng, giá trị hàng hóa có thể thu hồi được (nếu có) kèm theo bảng kê xuất nhập tồn hàng hóa bị hư hỏng có xác nhận do đại diện hợp pháp của doanh nghiệp ký và chịu trách nhiệm trước pháp luật.*
+
+*- Hồ sơ bồi thường thiệt hại được cơ quan bảo hiểm chấp nhận bồi thường (nếu có).*
+
+*- Hồ sơ quy định trách nhiệm của tổ chức, cá nhân phải bồi thường (nếu có).*
+
+*c) Hồ sơ nêu trên được lưu tại doanh nghiệp và xuất trình với cơ quan thuế khi cơ quan thuế yêu cầu.*
+
+*2.2. Chi khấu hao tài sản cố định thuộc một trong các trường hợp sau:*
+
+*a) Chi khấu hao đối với tài sản cố định không sử dụng cho hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ.*
+
+*Riêng tài sản cố định phục vụ cho người lao động làm việc tại doanh nghiệp như: nhà nghỉ giữa ca, nhà ăn giữa ca, nhà thay quần áo, nhà vệ sinh, phòng hoặc trạm y tế để khám chữa bệnh, cơ sở đào tạo, dạy nghề, thư viện, nhà trẻ, khu thể thao và các thiết bị, nội thất đủ điều kiện là tài sản cố định lắp đặt trong các công trình nêu trên; bể chứa nước sạch, nhà để xe; xe đưa đón người lao động, nhà ở trực tiếp cho người lao động; chi phí xây dựng cơ sở vật chất, chi phí mua sắm máy, thiết bị là tài sản cố định dùng để tổ chức hoạt động giáo dục nghề nghiệp được trích khấu hao tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*b) Chi khấu hao đối với tài sản cố định không có giấy tờ chứng minh thuộc quyền sở hữu của doanh nghiệp (trừ tài sản cố định thuê mua tài chính).*
+
+*c) Chi khấu hao đối với tài sản cố định không được quản lý, theo dõi, hạch toán trong sổ sách kế toán của doanh nghiệp theo chế độ quản lý tài sản cố định và hạch toán kế toán hiện hành.*
+
+*d) Phần trích khấu hao vượt mức quy định hiện hành của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tải sản cố định.*
+
+*Doanh nghiệp thực hiện thông báo phương pháp trích khấu hao tài sản cố định mà doanh nghiệp lựa chọn áp dụng với cơ quan thuế trực tiếp quản lý trước khi thực hiện trích khấu hao (ví dụ: thông báo lựa chọn thực hiện phương pháp khấu hao đường thẳng...). Hàng năm doanh nghiệp trích khấu hao tài sản cố định theo quy định hiện hành của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định kể cả trường hợp khấu hao nhanh (nếu đáp ứng điều kiện).*
+
+*Doanh nghiệp hoạt động có hiệu quả kinh tế cao được trích khấu hao nhanh nhưng tối đa không quá 2 lần mức khấu hao xác định theo phương pháp đường thẳng để nhanh chóng đổi mới công nghệ đối với một số tài sản cố định theo quy định hiện hành của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định. Khi thực hiện trích khấu hao nhanh, doanh nghiệp phải đảm bảo kinh doanh có lãi.*
+
+*Tài sản cố định góp vốn, tài sản cố định điều chuyển khi chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình có đánh giá lại theo quy định thì doanh nghiệp nhận tài sản cố định này được tính khấu hao vào chi phí được trừ theo nguyên giá đánh giá lại. Đối với loại tài sản khác không đủ tiêu chuẩn là tài sản cố định có góp vốn, điều chuyển khi chia, tách, hợp nhất: sáp nhập, chuyển đổi loại hình và tài sản này có đánh giá lại theo quy định thì doanh nghiệp nhận tài sản này được tính vào chi phí hoặc phân bổ dần vào chi phí được trừ theo giá đánh giá lại.*
+
+*Đối với tài sản cố định tự làm nguyên giá tài sản cố định được trích khấu hao tính vào chi phí được trừ là tổng các chi phí sản xuất để hình thành nên tài sản đó.*
+
+*Đối với tài sản là công cụ, dụng cụ, bao bì luân chuyển, ... không đáp ứng đủ điều kiện xác định là tài sản cố định theo quy định thì chi phí mua tài sản nêu trên được phân bổ dần vào chi phí hoạt động sản xuất kinh doanh trong kỳ nhưng tối đa không quá 3 năm.*
+
+*đ) Khấu hao đối với tài sản cố định đã khấu hao hết giá trị.*
+
+*e) Một số trường hợp cụ thể được xác định như sau:*
+
+*- Không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế: Phần trích khấu hao tương ứng với nguyên giá vượt trên 1,6 tỷ đồng/xe đối với ô tô chở người từ 9 chỗ ngồi trở xuống (trừ: ô tô dùng cho kinh doanh vận tải hành khách, kinh doanh du lịch, khách sạn; ô tô dùng để làm mẫu và lái thử cho kinh doanh ô tô); phần trích khấu hao đối với tài sản cố định là tàu bay dân dụng, du thuyền không sử dụng kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch, khách sạn.*
+
+*Ô tô chở người từ 9 chỗ ngồi trở xuống chuyên kinh doanh vận tải hành khách, du lịch và khách sạn là các ô tô được đăng ký tên doanh nghiệp mà doanh nghiệp này trong Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh có đăng ký một trong các ngành nghề: vận tải hành khách, kinh doanh du lịch, khách sạn và được cấp phép kinh doanh theo quy định tại các văn bản pháp luật về kinh doanh vận tải, hành khách, du lịch, khách sạn.*
+
+*Tàu bay dân dụng và du thuyền không sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, khách du lịch là tàu bay dân dụng, du thuyền của các doanh nghiệp đăng ký và hạch toán trích khấu hao tài sản cố định nhưng trong Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp của doanh nghiệp không đăng ký ngành nghề vận tải hàng hóa, vận tải hành khách, kinh doanh du lịch, khách sạn.*
+
+*Trường hợp doanh nghiệp có chuyển nhượng, thanh lý xe ô tô chở người từ 9 cho ngồi trở xuống thì giá trị còn lại của xe được xác định bằng nguyên giá thực mua tài sản cố định trừ (-) số khấu hao lũy kế của tài sản cố định theo chế độ quản lý sử dụng và trích khấu hao tài sản cố định tính đến thời điểm chuyển nhượng, thanh lý xe.*
+
+*Ví dụ 8: Doanh nghiệp A có mua xe ô tô dưới 9 chỗ ngồi có nguyên giá là 6 tỷ đồng, công ty trích khấu hao 1 năm sau đó thực hiện thanh lý. Số khấu hao theo chế độ quản lý sử dụng và trích khấu hao tài sản cố định là 1 tỷ đồng (thời gian trích khấu hao là 6 năm theo văn bản về khấu hao tài sản cố định). Số trích khấu hao theo chính sách thuế được tính vào chi phí được trừ là 1,6 tỷ đồng/6 năm = 267 triệu đồng. Doanh nghiệp A thanh lý bán xe là 5 tỷ đồng.*
+
+*Thu nhập từ thanh lý xe: 5 tỷ đồng - (6 tỷ đồng - 1 tỷ đồng) = 0 đồng*
+
+*- Khấu hao đối với công trình trên đất vừa sử dụng cho sản xuất kinh doanh vừa sử dụng cho mục đích khác thì không được tính khấu hao vào chi phí được trừ đối với giá trị công trình trên đất tương ứng phần diện tích không sử dụng vào hoạt động sản xuất kinh doanh.*
+
+*Trường hợp doanh nghiệp có công trình trên đất như trụ sở văn phòng, nhà xưởng, cửa hàng phục vụ cho hoạt động sản xuất kinh doanh của doanh nghiệp thì doanh nghiệp được trích khấu hao tính vào chi phí được trừ khi xác định thu nhập chịu thuế theo đúng mức trích khấu hao và thời gian sử dụng tài sản cố định quy định hiện hành của Bộ Tài chính đối với các công trình này nếu đáp ứng các điều kiện như sau:*
+
+*+ Có giấy chứng nhận quyền sử dụng đất mang tên doanh nghiệp (trong trường hợp đất thuộc quyền sở hữu của doanh nghiệp) hoặc có hợp đồng thuê đất, mượn đất giữa doanh nghiệp với đơn vị, cá nhân có đất và đại diện doanh nghiệp phải chịu trách nhiệm trước pháp luật về tính chính xác của hợp đồng (trong trường hợp đất đi thuê hoặc đi mượn).*
+
+*+ Hóa đơn thanh toán khối lượng công trình xây dựng bàn giao kèm theo hợp đồng xây dựng công trình, thanh lý hợp đồng, quyết toán giá trị công trình xây dựng mang tên, địa chỉ và mã số thuế của doanh nghiệp.*
+
+*+ Công trình trên đất được quản lý, theo dõi hạch toán theo quy định hiện hành về quản lý tài sản cố định.*
+
+*- Trường hợp tài sản cố định thuộc quyền sở hữu của doanh nghiệp đang dùng cho sản xuất kinh doanh nhưng phải tạm thời dừng do sản xuất theo mùa vụ với thời gian dưới 09 tháng; tạm thời dừng để sửa chữa, để di dời di chuyển địa điểm, để bảo trì, bảo dưỡng theo định kỳ, với thời gian dưới 12 tháng, sau đó tài sản cố định tiếp tục đưa vào phục vụ cho hoạt động sản xuất kinh doanh thì trong khoảng thời gian tạm dừng đó, doanh nghiệp được trích khấu hao và khoản chi phí khấu hao tài sản cố định trong thời gian tạm dừng được tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*Doanh nghiệp phải lưu giữ và cung cấp đầy đủ hồ sơ, lý do của việc tạm dừng tài sản cố định khi cơ quan thuế yêu cầu.*
+
+*- Quyền sử dụng đất lâu dài không được trích khấu hao và phân bổ vào chi phí được trừ khi xác định thu nhập chịu thuế; Quyền sử dụng đất có thời hạn nếu có đầy đủ hóa đơn chứng từ và thực hiện đúng các thủ tục theo quy định của pháp luật, có tham gia vào hoạt động sản xuất kinh doanh thì được phân bổ dần vào chi phí được trừ theo thời hạn được phép sử dụng đất ghi trong giấy chứng nhận quyền sử dụng đất (bao gồm cả trường hợp dừng hoạt động để sửa chữa, đầu tư xây dựng mới).*
+
+*Trường hợp doanh nghiệp mua tài sản cố định hữu hình là nhà cửa, vật kiến trúc gắn liền với quyền sử dụng đất lâu dài thì giá trị quyền sử dụng đất phải xác định riêng và ghi nhận là tài sản cố định vô hình; Tài sản cố định hữu hình là nhà cửa, vật kiến trúc thì nguyên giá là giá mua thực tế phải trả cộng (+) các khoản chi phí liên quan trực tiếp đến việc đưa tài sản cố định hữu hình vào sử dụng. Giá trị quyền sử dụng đất được xác định theo giá ghi trên hợp đồng mua bất động sản (tài sản) phù hợp với giá thị trường nhưng không được thấp hơn giá đất tại bảng giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quy định tại thời điểm mua tài sản. Trường hợp doanh nghiệp mua tài sản cố định hữu hình là nhà cửa, vật kiến trúc gắn liền với quyền sử dụng đất lâu dài không tách riêng được giá trị quyền sử dụng đất thì giá trị quyền sử dụng được xác định theo giá do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quy định tại thời điểm mua tài sản.*
+
+*Trường hợp doanh nghiệp có chuyển nhượng một Phần vốn hoặc chuyển nhượng toàn bộ doanh nghiệp khác theo quy định của pháp luật, nếu có chuyển giao tài sản thì doanh nghiệp nhận chuyển nhượng chỉ được trích khấu hao tài sản cố định vào chi phí được trừ đối với các tài sản chuyển giao đủ Điều kiện trích khấu hao theo giá trị còn lại trên sổ sách kế toán tại doanh nghiệp chuyển nhượng.*
+
+*2.3. Phần chi vượt định mức tiêu hao nguyên liệu, vật liệu, nhiên liệu, năng lượng, hàng hóa đối với một số nguyên liệu, vật liệu, nhiên liệu, năng lượng, hàng hóa đã được Nhà nước ban hành định mức.*
+
+*2.4. Chi phí của doanh nghiệp mua hàng hóa, dịch vụ (không có hóa đơn, được phép lập Bảng kê thu mua hàng hóa, dịch vụ mua vào theo mẫu số 01/TNDN kèm theo Thông tư số 78/2014/TT-BTC) nhưng không lập Bảng kê kèm theo chứng từ thanh toán cho người bán hàng, cung cấp dịch vụ trong các trường hợp:*
+
+*- Mua hàng hóa là nông, lâm, thủy sản của người sản xuất, đánh bắt trực tiếp bán ra;*
+
+*- Mua sản phẩm thủ công làm bằng đay, cói, tre, nứa, lá, song, mây, rơm, vỏ dừa, sọ dừa hoặc nguyên liệu tận dụng từ sản phẩm nông nghiệp của người sản xuất thủ công không kinh doanh trực tiếp bán ra;*
+
+*- Mua đất, đá, cát, sỏi của hộ, cá nhân tự khai thác trực tiếp bán ra;*
+
+*- Mua phế liệu của người trực tiếp thu nhặt;*
+
+*- Mua tài sản, dịch vụ của hộ, cá nhân không kinh doanh trực tiếp bán ra;*
+
+*- Mua hàng hóa, dịch vụ của cá nhân, hộ kinh doanh (không bao gồm các trường hợp nêu trên) có mức doanh thu dưới ngưỡng doanh thu chịu thuế giá trị gia tăng (100 triệu đồng/năm).*
+
+*Bảng kê thu mua hàng hóa, dịch vụ do người đại diện theo pháp luật hoặc người được ủy quyền của doanh nghiệp ký và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực. Doanh nghiệp mua hàng hóa, dịch vụ được phép lập Bảng kê và được tính vào chi phí được trừ; Các khoản chi phí này không bắt buộc phải có chứng từ thanh toán không dùng tiền mặt. Trường hợp giá mua hàng hóa, dịch vụ trên bảng kê cao hơn giá thị trường tại thời điểm mua hàng thì cơ quan thuế căn cứ vào giá thị trường tại thời điểm mua hàng, dịch vụ cùng loại hoặc tương tự trên thị trường xác định lại mức giá để tính lại chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*2.5. Chi tiền thuê tài sản của cá nhân không có đầy đủ hồ sơ, chứng từ dưới đây:*
+
+*- Trường hợp doanh nghiệp thuê tài sản của cá nhân thì hồ sơ để xác định chi phí được trừ là hợp đồng thuê tài sản và chứng từ trả tiền thuê tài sản.*
+
+*- Trường hợp doanh nghiệp thuê tài sản của cá nhân mà tại hợp đồng thuê tài sản có thoả thuận doanh nghiệp nộp thuế thay cho cá nhân thì hồ sơ để xác định chi phí được trừ là hợp đồng thuê tài sản, chứng từ trả tiền thuê tài sản và chứng từ nộp thuế thay cho cá nhân.*
+
+*- Trường hợp doanh nghiệp thuê tài sản của cá nhân mà tại hợp đồng thuê tài sản có thỏa thuận tiền thuê tài sản chưa bao gồm thuế (thuế giá trị gia tăng, thuế thu nhập cá nhân) và doanh nghiệp nộp thuế thay cho cá nhân thì doanh nghiệp được tính vào chi phí được trừ tổng số tiền thuê tài sản bao gồm cả phần thuế nộp thay cho cá nhân.*
+
+*2.6. Chi tiền lương, tiền công, tiền thưởng cho người lao động thuộc một trong các trường hợp sau:*
+
+*a) Chi tiền lương, tiền công và các khoản phải trả khác cho người lao động doanh nghiệp đã hạch toán vào chi phí sản xuất kinh doanh trong kỳ nhưng thực tế không chi trả hoặc không có chứng từ thanh toán theo quy định của pháp luật.*
+
+*b) Các Khoản tiền lương, tiền thưởng cho người lao động không được ghi cụ thể Điều kiện được hưởng và mức được hưởng tại một trong các hồ sơ sau: Hợp đồng lao động; Thoả ước lao động tập thể; Quy chế tài chính của Công ty, Tổng công ty, Tập đoàn; Quy chế thưởng do Chủ tịch Hội đồng quản trị, Tổng giám đốc, Giám đốc quy định theo quy chế tài chính của Công ty, Tổng công ty.*
+
+*- Trường hợp doanh nghiệp ký hợp đồng lao động với người nước ngoài trong đó có ghi khoản chi về tiền học cho con của người nước ngoài học tại Việt Nam theo bậc học từ mầm non đến trung học phổ thông được doanh nghiệp trả có tính chất tiền lương, tiền công và có đầy đủ hóa đơn, chứng từ theo quy định thì được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp.*
+
+*- Trường hợp doanh nghiệp ký hợp đồng lao động với người lao động trong đó có ghi khoản chi về tiền nhà do doanh nghiệp trả cho người lao động, khoản chi trả này có tính chất tiền lương, tiền công và có đầy đủ hóa đơn, chứng từ theo quy định thì được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp.*
+
+*- Trường hợp doanh nghiệp Việt Nam ký hợp đồng với doanh nghiệp nước ngoài trong đó nêu rõ doanh nghiệp Việt Nam phải chịu các chi phí về chỗ ở cho các chuyên gia nước ngoài trong thời gian công tác ở Việt Nam thì tiền thuê nhà cho các chuyên gia nước ngoài làm việc tại Việt Nam do doanh nghiệp Việt Nam chi trả được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp.*
+
+*c) Chi tiền lương, tiền công và các khoản phụ cấp phải trả cho người lao động nhưng hết thời hạn nộp hồ sơ quyết toán thuế năm thực tế chưa chi trừ trường hợp doanh nghiệp có trích lập quỹ dự phòng để bổ sung vào quỹ tiền lương của năm sau liền kề. Mức dự phòng hàng năm do doanh nghiệp quyết định nhưng không quá 17% quỹ tiền lương thực hiện.*
+
+*Quỹ tiền lương thực hiện là tổng số tiền lương thực tế đã chi trả của năm quyết toán đó đến thời hạn cuối cùng nộp hồ sơ quyết toán theo quy định (không bao gồm số tiền trích lập quỹ dự phòng tiền lương của năm trước chi trong năm quyết toán thuế).*
+
+*Việc trích lập dự phòng tiền lương phải đảm bảo sau khi trích lập, doanh nghiệp không bị lỗ, nếu doanh nghiệp bị lỗ thì không được trích đủ 17%.*
+
+*Trường hợp năm trước doanh nghiệp có trích lập quỹ dự phòng tiền lương mà sau 6 tháng, kể từ ngày kết thúc năm tài chính doanh nghiệp chưa sử dụng hoặc sử dụng không hết quỹ dự phòng tiền lương thì doanh nghiệp phải tính giảm chi phí của năm sau.*
+
+*Ví dụ 9: Khi nộp hồ sơ quyết toán thuế năm 2014, DN A có trích quỹ dự phòng tiền lương là 10 tỷ đồng, đến ngày 30/06/2015 (đối với trường hợp doanh nghiệp áp dụng kỳ tính thuế theo năm dương lịch), DN A mới chi số tiền từ quỹ dự phòng tiền lương năm 2014 là 7 tỷ đồng thì DN A phải tính giảm chi phí tiền lương năm sau (năm 2015) là 3 tỷ đồng (10 tỷ - 7 tỷ). Khi lập hồ sơ quyết toán năm 2015 nếu DN A có nhu cầu trích lập thì tiếp tục trích lập quỹ dự phòng tiền lương theo quy định.*
+
+*d) Tiền lương, tiền công của chủ doanh nghiệp tư nhân, chủ công ty trách nhiệm hữu hạn một thành viên (do một cá nhân làm chủ); thù lao trả cho các sáng lập viên, thành viên của hội đồng thành viên, hội đồng quản trị mà những người này không trực tiếp tham gia điều hành sản xuất, kinh doanh.*
+
+*2.7. Phần chi trang phục bằng hiện vật cho người lao động không có hóa đơn, chứng từ. Phần chi trang phục bằng tiền ch*o *người lao động vượt quá 05 (năm) triệu đồng/người/năm.*
+
+*Trường hợp doanh nghiệp có chi trang phục cả bằng tiền và hiện vật cho người lao động để được tính vào chi phí được trừ thì mức chi tối đa đối với chi bằng tiền không vượt quá 05 (năm) triệu đồng/người/năm, bằng hiện vật phải có hóa đơn, chứng từ.*
+
+*Đối với những ngành kinh doanh có tính chất đặc thù thì chi phí này được thực hiện theo quy định cụ thể của Bộ Tài chính*
+
+*2.8. Chi thưởng sáng kiến, cải tiến mà doanh nghiệp không có quy chế quy định cụ thể về việc chi thưởng sáng kiến, cải tiến, không có hội đồng nghiệm thu sáng kiến, cải tiến.*
+
+*2.9. Chi phụ cấp tàu xe đi nghỉ phép không đúng theo quy định của Bộ Luật Lao động.*
+
+*Chi phụ cấp cho người lao động đi công tác, chi phí đi lại và tiền thuê chỗ ở cho người lao động đi công tác nếu có đầy đủ hóa đơn, chứng từ được tính vào chi phí được trừ khi xác định thu nhập chịu thuế. Trường hợp doanh nghiệp có khoán tiền đi lại, tiền ở, phụ cấp cho người lao động đi công tác và thực hiện đúng theo quy chế tài chính hoặc quy chế nội bộ của doanh nghiệp thì được tính vào chi phí được trừ khoản chi khoán tiền đi lại, tiền ở, tiền phụ cấp.*
+
+*Trường hợp doanh nghiệp cử người lao động đi công tác (bao gồm công tác trong nước và công tác nước ngoài) nếu có phát sinh chi phí từ 20 triệu đồng trở lên, chi phí mua vé máy bay mà các khoản chi phí này được thanh toán bằng thẻ ngân hàng của cá nhân thì đủ điều kiện là hình thức thanh toán không dùng tiền mặt và tính vào chi phí được trừ nếu đáp ứng đủ các điều kiện sau:*
+
+*- Có hóa đơn, chứng từ phù hợp do người cung cấp hàng hóa, dịch vụ giao xuất.*
+
+*- Doanh nghiệp có quyết định hoặc văn bản cử người lao động đi công tác.*
+
+*- Quy chế tài chính hoặc quy chế nội bộ của doanh nghiệp cho phép người lao động được phép thanh toán khoản công tác phí, mua vé máy bay bằng thẻ ngân hàng do cá nhân là chủ thẻ và khoản chi này sau đó được doanh nghiệp thanh toán lại cho người lao động.*
+
+*Trường hợp doanh nghiệp có mua vé máy bay qua website thương mại điện tử cho người lao động đi công tác để phục vụ hoạt động sản xuất kinh doanh của doanh nghiệp thì chứng từ làm căn cứ để tính vào chi phí được trừ là vé máy bay điện tử, thẻ lên máy bay (boarding pass) và chứng từ thanh toán không dùng tiền mặt của doanh nghiệp có cá nhân tham gia hành trình vận chuyển. Trường hợp doanh nghiệp không thu hồi được thẻ lên máy bay của người lao động thì chứng từ làm căn cứ để tính vào chi phí được trừ là vé máy bay điện tử, quyết định hoặc văn bản cử người lao động đi công tác và chứng từ thanh toán không dùng tiền mặt của doanh nghiệp có cá nhân tham gia hành trình vận chuyển.*
+
+*2.10. Các khoản chi được trừ sau đây nhưng nếu chi không đúng đối tượng, không đúng mục đích hoặc mức chi vượt quá quy định.*
+
+*a) Các khoản chi thêm cho lao động nữ được tính vào chi phí được trừ bao gồm:*
+
+*- Chi cho công tác đào tạo lại nghề cho lao động nữ trong trường hợp nghề cũ không còn phù hợp phải chuyển đổi sang nghề khác theo quy hoạch phát triển của doanh nghiệp.*
+
+*Khoản chi này bao gồm: học phí (nếu có) + chênh lệch tiền lương ngạch bậc (đảm bảo 100% lương cho người đi học).*
+
+*- Chi phí tiền lương và phụ cấp (nếu có) cho giáo viên dạy ở nhà trẻ, mẫu giáo do doanh nghiệp tổ chức và quản lý.*
+
+*- Chi phí tổ chức khám sức khoẻ thêm trong năm như khám bệnh nghề nghiệp, mãn tính hoặc phụ khoa cho nữ công nhân viên.*
+
+*- Chi bồi dưỡng cho lao động nữ sau khi sinh con lần thứ nhất hoặc lần thứ hai.*
+
+*- Phụ cấp làm thêm giờ cho lao động nữ trong trường hợp vì lý do khách quan người lao động nữ không nghỉ sau khi sinh con, nghỉ cho con bú mà ở lại làm việc cho doanh nghiệp được trả theo chế độ hiện hành; kể cả trường hợp trả lương theo sản phẩm mà lao động nữ vẫn làm việc trong thời gian không nghỉ theo chế độ.*
+
+*b) Các khoản chi thêm cho người dân tộc thiểu số được tính vào chi phí được trừ bao gồm: học phí đi học (nếu có) cộng chênh lệch tiền lương ngạch bậc (đảm bảo 100% lương cho người đi học); tiền hỗ trợ về nhà ở, bảo hiểm xã hội, bảo hiểm y tế cho người dân tộc thiểu số trong trường hợp chưa được Nhà nước hỗ trợ theo chế độ quy định.*
+
+*2.11. Phần chi vượt mức 03 triệu đồng/tháng/người để: Trích nộp quỹ hưu trí tự nguyện, mua bảo hiểm hưu trí tự nguyện, bảo hiểm nhân thọ cho người lao động; Phần vượt mức quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế để trích nộp các quỹ có tính chất an sinh xã hội (bảo hiểm xã hội, bảo hiểm hưu trí bổ sung bắt buộc), quỹ bảo hiểm y tế và quỹ bảo hiểm thất nghiệp cho người lao động.*
+
+*Khoản chi trích nộp quỹ hưu trí tự nguyện, quỹ có tính chất an sinh xã hội, mua bảo hiểm hưu trí tự nguyện, bảo hiểm nhân thọ cho người lao động được tính vào chi phí được trừ ngoài việc không vượt mức quy định tại điểm này còn phải được ghi cụ thể Điều kiện hưởng và mức hưởng tại một trong các hồ sơ sau: Hợp đồng lao động; Thỏa ước lao động tập thể; Quy chế tài chính của Công ty, Tổng công ty, Tập đoàn; Quy chế thưởng do Chủ tịch Hội đồng quản trị Tổng giám đốc, Giám đốc quy định theo quy chế tài chính của Công ty, Tổng công ty.*
+
+*Doanh nghiệp không được tính vào chi phí đối với các Khoản chi cho Chương trình tự nguyện nêu trên nếu doanh nghiệp không thực hiện đầy đủ các nghĩa vụ về bảo hiểm bắt buộc cho người lao động (kể cả trường hợp nợ tiền bảo hiểm bắt buộc).*
+
+*2.12. Khoản chi trả trợ cấp mất việc làm cho người lao động không theo đúng quy định hiện hành.*
+
+*2.13. Chi đóng góp hình thành nguồn chi phí quản lý cho cấp trên.*
+
+*2.14. Phần chi đóng góp vào các quỹ của Hiệp hội (các Hiệp hội này được thành lập theo quy định của pháp luật) vượt quá mức quy định của Hiệp hội.*
+
+*2.15. Chi trả tiền điện, tiền nước đối với những hợp đồng điện nước do chủ sở hữu là hộ gia đình, cá nhân cho thuê địa điểm sản xuất, kinh doanh ký trực tiếp với đơn vị cung cấp điện, nước không có đủ chứng từ thuộc một trong các trường hợp sau:*
+
+*a) Trường hợp doanh nghiệp thuê địa điểm sản xuất kinh doanh trực tiếp thanh toán tiền điện, nước cho nhà cung cấp điện, nước không có các hóa đơn thanh toán tiền điện, nước và hợp đồng thuê địa điểm sản xuất kinh doanh.*
+
+*b) Trường hợp doanh nghiệp thuê địa điểm sản xuất kinh doanh thanh toán tiền điện, nước với chủ sở hữu cho thuê địa điểm sản xuất kinh doanh không có chứng từ thanh toán tiền điện, nước đối với người cho thuê địa điểm sản xuất kinh doanh phù hợp với số lượng điện, nước thực tế tiêu thụ và hợp đồng thuê địa điểm sản xuất kinh doanh*
+
+*2.16. Phần chi phí thuê tài sản cố định vượt quá mức phân bổ theo số năm mà bên đi thuê trả tiền trước.*
+
+*Ví dụ 10: Doanh nghiệp A thuê tài sản cố định trong 4 năm với số tiền thuê là: 400 triệu đồng và thanh toán một lần. Chi phí thuê tài sản cố định được hạch toán vào chi phí hàng năm là 100 triệu đồng. Chi phí thuê tài sản cố định hàng năm vượt trên 100 triệu đồng thì phần vượt trên 100 triệu đồng không được tính vào chi phí hợp lý khi xác định thu nhập chịu thuế.*
+
+*Đối với chi phí sửa chữa tài sản cố định đi thuê mà trong hợp đồng thuê tài sản quy định bên đi thuê có trách nhiệm sửa chữa tài sản trong thời gian thuê thì chi phí sửa chữa tài sản cố định đi thuê được phép hạch toán vào chi phí hoặc phân bổ dần vào chi phí nhưng thời gian tối đa không quá 03 năm.*
+
+*Trường hợp doanh nghiệp có chi các khoản chi phí để có các tài sản không thuộc tài sản cố định: chi về mua và sử dụng các tài liệu kỹ thuật, bằng sáng chế, giấy phép chuyển giao công nghệ, nhãn hiệu thương mại, lợi thế kinh doanh, quyền sử dụng thương hiệu... thì các khoản chi này được phân bổ dần vào chi phí kinh doanh nhưng tối đa không quá 03 năm.*
+
+*Trường hợp doanh nghiệp có góp vốn bằng giá trị lợi thế kinh doanh, giá trị quyền sử dụng thương hiệu thì giá trị lợi thế kinh doanh, giá trị quyền sử dụng thương hiệu góp vốn không tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*2.17. Phần chi phí trả lãi tiền vay vốn sản xuất kinh doanh của đối tượng không phải là tổ chức tín dụng hoặc tổ chức kinh tế vượt quá 150% mức lãi suất cơ bản do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm vay.*
+
+*2.18. Chi trả lãi tiền vay tương ứng với phần vốn điều lệ (đối với doanh nghiệp tư nhân là vốn đầu tư) đã đăng ký còn thiếu theo tiến độ góp vốn ghi trong điều lệ của doanh nghiệp kể cả trường hợp doanh nghiệp đã đi vào sản xuất kinh doanh. Chi trả lãi tiền vay trong quá trình đầu tư đã được ghi nhận vào giá trị của tài sản, giá trị công trình đầu tư.*
+
+*Trường hợp doanh nghiệp đã góp đủ vốn điều lệ, trong quá trình kinh doanh có khoản chi trả lãi tiền vay để đầu tư vào doanh nghiệp khác thì khoản chi này được tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*Chi trả lãi tiền vay tương ứng với vốn điều lệ còn thiếu theo tiến độ góp vốn ghi trong điều lệ của doanh nghiệp không được trừ khi xác định thu nhập chịu thuế được xác định như sau:*
+
+*- Trường hợp số tiền vay nhỏ hơn hoặc bằng số vốn điều lệ còn thiếu thì toàn bộ lãi tiền vay là khoản chi không được trừ.*
+
+*- Trường hợp số tiền vay lớn hơn số vốn điều lệ còn thiếu theo tiến độ góp vốn:*
+
+*+ Nếu doanh nghiệp phát sinh nhiều khoản vay thì khoản chi trả lãi tiền vay không được trừ bằng tỷ lệ (%) giữa vốn điều lệ còn thiếu trên tổng số tiền vay nhân (x) tổng số lãi vay.*
+
+*+ Nếu doanh nghiệp chi phát sinh một khoản vay thì khoản chi trả lãi tiền không được trừ bằng số vốn điều lệ còn thiếu nhân (x) lãi suất của khoản vay nhân (x) thời gian góp vốn điều lệ còn thiếu.*
+
+*(Lãi vay thực hiện theo quy định tại điểm 2.17 Điều này)*
+
+*2.19. Trích, lập và sử dụng các khoản dự phòng không theo đúng hướng dẫn của Bộ Tài chính về trích lập dự phòng: dự phòng giảm giá hàng tồn kho, dự phòng tổn thất các khoản đầu tư tài chính, dự phòng nợ phải thu khó đòi, dự phòng bảo hành sản phẩm, hàng hóa, công trình xây lắp và dự phòng rủi ro nghề nghiệp của doanh nghiệp thẩm định giá, doanh nghiệp cung cấp dịch vụ kiểm toán độc lập.*
+
+*2.20. Các khoản chi phí trích trước theo kỳ hạn, theo chu kỳ mà đến hết kỳ hạn, hết chu kỳ chưa chi hoặc chi không hết.*
+
+*Các khoản trích trước bao gồm: trích trước về sửa chữa lớn tài sản cố định theo chu kỳ, các khoản trích trước đối với hoạt động đã tính doanh thu nhưng còn tiếp tục phải thực hiện nghĩa vụ theo hợp đồng (kể cả trường hợp doanh nghiệp có hoạt động cho thuê tài sản, hoạt động kinh doanh dịch vụ trong nhiều năm nhưng có thu tiền trước của khách hàng và đã tính toàn bộ vào doanh thu của năm thu tiền) và các khoản trích trước khác.*
+
+*Trường hợp doanh nghiệp có hoạt động sản xuất kinh doanh đã ghi nhận doanh thu tính thuế thu nhập doanh nghiệp nhưng chưa phát sinh đầy đủ chi phí thì được trích trước các khoản chi phí theo quy định vào chi phí được trừ tương ứng với doanh thu đã ghi nhận khi xác định thu nhập chịu thuế thu nhập doanh nghiệp. Khi kết thúc hợp đồng, doanh nghiệp phải tính toán xác định chính xác số chi phí thực tế căn cứ các hóa đơn, chứng từ hợp pháp thực tế đã phát sinh để điều chỉnh tăng chi phí (trường hợp chi phí thực tế phát sinh lớn hơn số đã trích trước) hoặc giảm chi phí (trường hợp chi phí thực tế phát sinh nhỏ hơn số đã trích trước) vào kỳ tính thuế kết thúc hợp đồng.*
+
+*Đối với những tài sản cố định việc sửa chữa có tính chu kỳ thì doanh nghiệp được trích trước chi phí sửa chữa theo dự toán vào chi phí hàng năm. Nếu số thực chi sửa chữa lớn hơn số trích theo dự toán thì doanh nghiệp được tính thêm vào chi phí được trừ số chênh lệch này.*
+
+*2.21. Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ cuối kỳ tính thuế bao gồm chênh lệch tỷ giá hối đoái do đánh giá lại số dư cuối năm là: tiền mặt, tiền gửi, tiền đang chuyển, các khoản nợ phải thu có gốc ngoại tệ (trừ lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản nợ phải trả có gốc ngoại tệ cuối kỳ tính thuế).*
+
+*Trong giai đoạn đầu tư xây dựng để hình thành tài sản cố định của doanh nghiệp mới thành lập, chưa đi vào hoạt động, chênh lệch tỷ giá hối đoái phát sinh khi thanh toán các khoản mục tiền tệ có gốc ngoại tệ để thực hiện đầu tư xây dựng và chênh lệch tỷ giá hối đoái phát sinh khi đánh giá lại các khoản nợ phải trả có gốc ngoại tệ cuối năm tài chính được phản ánh riêng biệt. Khi tài sản cố định hoàn thành đầu tư xây dựng đưa vào sử dụng thì chênh lệch tỷ giá hối đoái phát sinh trong giai đoạn đầu tư xây dựng (sau khi bù trừ số chênh lệch tăng và chênh lệch giảm) được phân bổ dần vào doanh thu hoạt động tài chính hoặc chi phí tài chính, thời gian phân bổ không quá 5 năm kể từ khi công trình đưa vào hoạt động.*
+
+*Trong giai đoạn sản xuất, kinh doanh, kể cả việc đầu tư xây dựng để hình thành tài sản cố định của doanh nghiệp đang hoạt động, chênh lệch tỷ giá hối đoái phát sinh từ các giao dịch bằng ngoại tệ của các khoản mục tiền tệ có gốc ngoại tệ sẽ được hạch toán vào doanh thu hoạt động tài chính hoặc chi phí tài chính trong năm tài chính.*
+
+*Đối với khoản nợ phải thu và khoản cho vay có gốc ngoại tệ phát sinh trong kỳ, chênh lệch tỷ giá hối đoái được tính vào chi phí được trừ là khoản chênh lệch giữa tỷ giá tại thời điểm phát sinh thu hồi nợ hoặc thu hồi khoản cho vay với tỷ giá tại thời điểm ghi nhận khoản nợ phải thu hoặc khoản cho vay ban đầu.*
+
+*2.22. Chi tài trợ cho giáo dục (bao gồm cả chi tài trợ cho hoạt động giáo dục nghề nghiệp) không đúng đối tượng quy định tại tiết a điểm này hoặc không có hồ sơ xác định khoản tài trợ nêu tại tiết b dưới đây:*
+
+*a) Tài trợ cho giáo dục gồm: tài trợ cho các trường học công lập, dân lập và tư thục thuộc hệ thống giáo dục quốc dân theo quy định của pháp luật về giáo dục mà khoản tài trợ này không phải là để góp vốn, mua cổ phần trong các trường học; Tài trợ cơ sở vật chất phục vụ giảng dạy; học tập và hoạt động của trường học; Tài trợ cho các hoạt động thường xuyên của trường; Tài trợ học bổng cho học sinh, sinh viên thuộc các cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở sở giáo dục đại học được quy định tại Luật Giáo dục (tài trợ trực tiếp cho học sinh, sinh viên hoặc thông qua các cơ sở giáo dục, thông qua các cơ quan, tổ chức có chức năng huy động tài trợ theo quy định của pháp luật); Tài trợ cho các cuộc thi về các môn học được giảng dạy trong trường học mà đối tượng tham gia dự thi là người học; tài trợ để thành lập các Quỹ khuyến học giáo dục theo quy định của pháp luật về giáo dục đào tạo.*
+
+*b) Hồ sơ xác định khoản tài trợ cho giáo dục gồm: Biên bản xác nhận khoản tài trợ có chữ ký của người đại diện cơ sở kinh doanh là nhà tài trợ, đại diện của cơ sở giáo dục hợp pháp là đơn vị nhận tài trợ, học sinh, sinh viên (hoặc cơ quan, tổ chức có chức năng huy động tài trợ) nhận tài trợ (theo mẫu số 03/TNDN ban hành kèm theo Thông tư số 78/2014/TT-BTC); kèm theo hóa đơn, chứng từ mua hàng hóa (nếu tài trợ bằng hiện vật) hoặc chứng từ chi tiền (nếu tài trợ bằng tiền).*
+
+*2.23. Chi tài trợ cho y tế không đúng đối tượng quy định tại tiết a điểm này hoặc không có hồ sơ xác định khoản tài trợ nêu tại tiết b dưới đây:*
+
+*a) Tài trợ cho y tế gồm: tài trợ cho các cơ sở y tế được thành lập theo quy định pháp luật về y tế mà khoản tài trợ này không phải là để góp vốn, mua cổ phần trong các bệnh viện, trung tâm y tế đó; tài trợ thiết bị y tế, dụng cụ y tế, thuốc chữa bệnh; tài trợ cho các hoạt động thường xuyên của bệnh viện, trung tâm y tế; chi tài trợ bằng tiền cho người bị bệnh thông qua một cơ quan, tổ chức có chức năng huy động tài trợ theo quy định của pháp luật.*
+
+*b) Hồ sơ xác định khoản tài trợ cho y tế gồm; Biên bản xác nhận khoản tài trợ có chữ ký của người đại diện doanh nghiệp là nhà tài trợ, đại diện của đơn vị nhận tài trợ (hoặc cơ quan, tổ chức có chức năng huy động tài trợ) theo mẫu số 04/TNDN ban hành kèm theo Thông tư số 78/2014/TT-BTC kèm theo hóa đơn, chứng từ mua hàng hóa (nếu tài trợ bằng hiện vật) hoặc chứng từ chi tiền (nếu tài trợ bằng tiền).*
+
+*2.24. Chi tài trợ cho việc khắc phục hậu quả thiên tai không đúng đối tượng quy định tại tiết a điểm này hoặc không có hồ sơ xác định khoản tài trợ nêu tại tiết b dưới đây:*
+
+*a) Tài trợ cho khắc phục hậu quả thiên tai gồm: tài trợ bằng tiền hoặc hiện vật để khắc phục hậu quả thiên tai trực tiếp cho tổ chức được thành lập và hoạt động theo quy định của pháp luật; cá nhân bị thiệt hại do thiên tai thông qua một cơ quan, tổ chức có chức năng huy động tài trợ theo quy định của pháp luật.*
+
+*b) Hồ sơ xác định khoản tài trợ cho việc khắc phục hậu quả thiên tai gồm: Biên bản xác nhận khoản tài trợ có chữ ký của người đại diện doanh nghiệp là nhà tài trợ, đại diện của tổ chức bị thiệt hại do thiên tai (hoặc cơ quan, tổ chức có chức năng huy động tài trợ) là đơn vị nhận tài trợ (theo mẫu số 05/TNDN ban hành kèm theo Thông tư số 78/2014/TT-BTC) kèm theo hóa đơn, chứng từ mua hàng hóa (nếu tài trợ bằng hiện vật) hoặc chứng từ chi tiền (nếu tài trợ bằng tiền).*
+
+*2.25. Chi tài trợ làm nhà cho người nghèo không đúng đối tượng quy định tại tiết a điểm này; Chi tài trợ làm nhà tình nghĩa, làm nhà cho người nghèo, làm nhà đại đoàn kết theo quy định của pháp luật không có hồ sơ xác định khoản tài trợ nêu tại tiết b dưới đây:*
+
+*a) Đối với chi tài trợ làm nhà cho người nghèo thì đối tượng nhận tài trợ là hộ nghèo theo quy định của Thủ tướng Chính phủ. Hình thức tài trợ: tài trợ bằng tiền hoặc hiện vật để xây nhà cho hộ nghèo bằng cách trực tiếp hoặc thông qua một cơ quan, tổ chức có chức năng huy động tài trợ theo quy định của pháp luật.*
+
+*b) Hồ sơ xác định khoản tài trợ làm nhà tình nghĩa, làm nhà cho người nghèo, làm nhà đại đoàn kết gồm: Biên bản xác nhận khoản tài trợ có chữ ký của người đại diện doanh nghiệp là nhà tài trợ, người được hưởng tài trợ là bên nhận tài trợ (theo mẫu số 06/TNDN ban hành kèm theo Thông tư số 78/2014/TT-BTC); văn bản xác nhận hộ nghèo của chính quyền địa phương (đối với tài trợ làm nhà cho người nghèo); hóa đơn, chứng từ mua hàng hóa (nếu tài trợ bằng hiện vật) hoặc chứng từ chi tiền (nếu tài trợ bằng tiền).*
+
+*Trường hợp bên nhận tài trợ là cơ quan, tổ chức có chức năng huy động tài trợ thì hồ sơ xác định khoản tài trợ bao gồm: Biên bản xác nhận khoản tài trợ có chữ ký của người đại diện doanh nghiệp là nhà tài trợ và cơ quan, tổ chức có chức năng huy động tài trợ là bên nhận tài trợ; hóa đơn, chứng từ mua hàng hóa (nếu tài trợ bằng hiện vật) hoặc chứng từ chi tiền (nếu tài trợ bằng tiền).*
+
+*2.26. Chi tài trợ nghiên cứu khoa học không đúng quy định; chi tài trợ cho các đối tượng chính sách không theo quy định của pháp luật; chi tài trợ không theo chương trình của Nhà nước dành cho các địa phương thuộc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.*
+
+*Chi tài trợ theo chương trình của Nhà nước là chương trình được Chính phủ quy định thực hiện ở các địa phương thuộc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn (bao gồm cả khoản tài trợ của doanh nghiệp cho việc xây dựng cầu mới dân sinh ở địa bàn kinh tế xã hội đặc biệt khó khăn theo Đề án được cấp có thẩm quyền phê duyệt).*
+
+*Chi tài trợ cho các đối tượng chính sách thực hiện theo quy định của pháp luật có liên quan.*
+
+*Hồ sơ xác định khoản tài trợ theo chương trình của Nhà nước dành cho các địa phương thuộc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; Tài trợ của doanh nghiệp cho việc xây dựng cầu mới dân sinh ở địa bàn kinh tế xã hội đặc biệt khó khăn theo Đề án được cấp có thẩm quyền phê duyệt; Tài trợ cho các đối tượng chính sách theo quy định của pháp luật gồm: Biên bản xác nhận khoản tài trợ có chữ ký của người đại diện doanh nghiệp là nhà tài trợ; người được hưởng tài trợ (hoặc cơ quan, tổ chức có chức năng huy động tài trợ) là bên nhận tài trợ (theo mẫu số 07/TNDN ban hành kèm theo Thông tư số 78/2014/TT-BTC); hóa đơn, chứng từ mua hàng hóa (nếu tài trợ bằng hiện vật) hoặc chứng từ chi tiền (nếu tài trợ bằng tiền).*
+
+*Các quy định về nghiên cứu khoa học và thủ tục, hồ sơ tài trợ cho nghiên cứu khoa học thực hiện theo quy định tại Luật khoa học và công nghệ và các văn bản quy phạm pháp luật hướng dẫn có liên quan.*
+
+*2.27. Phần chi phí quản lý kinh doanh do công ty ở nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam vượt mức chi phí tính theo công thức sau:*
+
+ *Chi phí quản lý kinh doanh do công ty ở nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam trong kỳ tính thuế*
+
+ *=*
+
+ *Doanh thu tính thuế của cơ sở thường trú tại Việt Nam trong kỳ tính thuế*
+
+ *x*
+
+ *Tổng số chi phí quản lý kinh doanh của công ty ở nước ngoài trong kỳ tính thuế*
+
+ *Tổng doanh thu của công ty ở nước ngoài, bao gồm cả doanh thu của các cơ sở thường trú ở các nước khác trong kỳ tính thuế*
+
+*Các khoản chi phí quản lý kinh doanh của công ty nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam chỉ được tính từ khi cơ sở thường trú tại Việt Nam được thành lập.*
+
+*Căn cứ để xác định chi phí và doanh thu của công ty ở nước ngoài là báo cáo tài chính của công ty ở nước ngoài đã được kiểm toán bởi một công ty kiểm toán độc lập trong đó thể hiện rõ doanh thu của công ty ở nước ngoài, chi phí quản lý của công ty ở nước ngoài, phần chi phí quản lý công ty ở nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam.*
+
+*Cơ sở thường trú của công ty ở nước ngoài tại Việt Nam chưa thực hiện chế độ kế toán, hóa đơn, chứng từ; chưa thực hiện nộp thuế theo phương pháp kê khai thì không được tính vào chi phí hợp lý khoản chi phí quản lý kinh doanh do công ty ở nước ngoài phân bổ.*
+
+*2.28. Các khoản chi được bù đắp bằng nguồn kinh phí khác; Các khoản chi đã được chi từ quỹ phát triển khoa học và công nghệ của doanh nghiệp; Chi phí mua thẻ hội viên sân gôn, chi phí chơi gôn.*
+
+*2.29. Phần chi phí liên quan đến việc thuê quản lý đối với hoạt động kinh doanh trò chơi điện tử có thưởng, kinh doanh casino vượt quá 4% doanh thu hoạt động kinh doanh trò chơi điện tử có thưởng, kinh doanh casino.*
+
+*2.30. Các khoản chi không tương ứng với doanh thu tính thuế, trừ các khoản chi sau:*
+
+*- Các khoản thực chi cho hoạt động phòng, chống HIV/AIDS tại nơi làm việc của doanh nghiệp, bao gồm: Chi phí đào tạo cán bộ phòng, chống HIV/AIDS của doanh nghiệp, chi phí tổ chức truyền thông phòng, chống HIV/AIDS cho người lao động của doanh nghiệp, phí thực hiện tư vấn, khám và xét nghiệm HIV, chi phí hỗ trợ người nhiễm HIV là người lao động của doanh nghiệp.*
+
+*- Khoản thực chi để thực hiện nhiệm vụ giáo dục quốc phòng và an ninh, huấn luyện, hoạt động của lực lượng dân quân tự vệ và phục vụ các nhiệm vụ quốc phòng, an ninh khác theo quy định của pháp luật có liên quan.*
+
+*- Khoản thực chi để hỗ trợ cho tổ chức Đảng, tổ chức chính trị xã hội trong doanh nghiệp.*
+
+*- Khoản chi cho hoạt động giáo dục nghề nghiệp và đào tạo nghề nghiệp cho người lao động bao gồm:*
+
+*+ Chi phí trả cho người dạy, tài liệu học tập, thiết bị dùng để hoạt động giáo dục nghề nghiệp, vật liệu thực hành, các chi phí khác hỗ trợ cho người học.*
+
+*+ Chi phí đào tạo của doanh nghiệp cho người lao động được tuyển dụng vào làm việc tại doanh nghiệp*
+
+*- Khoản chi có tính chất phúc lợi chi trực tiếp cho người lao động như: chi đám hiếu, hỷ của bản thân và gia đình người lao động; chi nghỉ mát, chi hỗ trợ Điều trị; chi hỗ trợ bổ sung kiến thức học tập tại cơ sở đào tạo; chi hỗ trợ gia đình người lao động bị ảnh hưởng bởi thiên tai, địch họa, tai nạn, ốm đau; chi khen thưởng con của người lao động có thành tích tốt trong học tập; chi hỗ trợ chi phí đi lại ngày lễ, tết cho người lao động; chi bảo hiểm tai nạn, bảo hiểm sức khỏe, bảo hiểm tự nguyện khác cho người lao động (trừ khoản chi mua bảo hiểm nhân thọ cho người lao động, bảo hiểm hưu trí tự nguyện cho người lao động hướng dẫn tại điểm 2.11 Điều này) và những khoản chi có tính chất phúc lợi khác. Tổng số chi có tính chất phúc lợi nêu trên không quá 01 tháng lương bình quân thực tế thực hiện trong năm tính thuế của doanh nghiệp.*
+
+*Việc xác định 01 tháng lương bình quân thực tế thực hiện trong năm tính thuế của doanh nghiệp được xác định bằng quỹ tiền lương thực hiện trong năm chia (:) 12 tháng. Trường hợp doanh nghiệp hoạt động không đủ 12 tháng thì: Việc xác định 01 tháng lương bình quân thực tế thực hiện trong năm tính thuế được xác định bằng quỹ tiền lương thực hiện trong năm chia (:) số tháng thực tế hoạt động trong năm.*
+
+*Quỹ tiền lương thực hiện là tổng số tiền lương thực tế đã chi trả của năm quyết toán đố đến thời hạn cuối cùng nộp hồ sơ quyết toán theo quy định (không bao gồm số tiền trích lập quỹ dự phòng tiền lương của năm trước chi trong năm quyết toán thuế).*
+
+*- Các khoản chi khác mang tính chất đặc thù, phù hợp theo từng ngành nghề, lĩnh vực theo văn bản hướng dẫn của Bộ Tài chính.*
+
+*2.31. Chi về đầu tư xây dựng cơ bản trong giai đoạn đầu tư để hình thành tài sản cố định.*
+
+*Khi bắt đầu hoạt động sản xuất kinh doanh, doanh nghiệp chưa phát sinh doanh thu nhưng có phát sinh các khoản chi thường xuyên để duy trì hoạt động sản xuất kinh doanh của doanh nghiệp (không phải là các khoản chi đầu tư xây dựng để hình thành tài sản cố định) mà các khoản chi này đáp ứng các điều kiện theo quy định thì khoản chi này được tính vào chi phí được trừ khi xác định thu nhập chịu thuế.*
+
+*Trường hợp trong giai đoạn đầu tư, doanh nghiệp có phát sinh khoản chi trả tiền vay thì khoản chi này được tính vào giá trị đầu tư. Trường hợp trong giai đoạn đầu tư xây dựng cơ bản, doanh nghiệp phát sinh cả khoản chi trả lãi tiền vay và thu từ lãi tiền gửi thì được bù trừ giữa khoản chi trả lãi tiền vay và thu từ lãi tiền gửi, sau khi bù trừ phần chênh lệch còn lại ghi giảm giá trị đầu tư.*
+
+*2.32. Chi ủng hộ địa phương; chi ủng hộ các đoàn thể, tổ chức xã hội; chi từ thiện (trừ khoản chi tài trợ cho giáo dục, y tế, khắc phục hậu quả thiên tai, làm nhà tình nghĩa, làm nhà cho người nghèo, làm nhà đại đoàn kết; tài trợ cho nghiên cứu khoa học, tài trợ cho các đối tượng chính sách theo quy định của pháp luật, tài trợ theo chương trình của Nhà nước dành cho các địa phương thuộc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn nêu tại điểm 2.22, 2.23, 2.24, 2.25, 2.26, Khoản 2 Điều này).*
+
+*2.33. Khoản chi liên quan trực tiếp đến việc phát hành cổ phiếu (trừ cổ phiếu thuộc loại nợ phải trả) và cổ tức của cổ phiếu (trừ cổ tức của cổ phiếu thuộc loại nợ phải trả), mua bán cổ phiếu quỹ và các khoản chi khác liên quan trực tiếp đến việc tăng, giảm vốn chủ sở hữu của doanh nghiệp.*
+
+*2.34. Số tiền cấp quyền khai thác khoáng sản vượt mức thực tế phát sinh của năm.*
+
+*Trường hợp nộp một lần, mức thực tế phát sinh của năm được xác định trên cơ sở tổng số tiền cấp quyền khai thác khoáng sản phân bổ cho số năm khai thác còn lại. Trường hợp nộp hàng năm, mức thực tế phát sinh là số tiền cấp quyền khai thác khoáng sản của năm mà doanh nghiệp đã nộp Ngân sách Nhà nước.*
+
+*2.35. Các khoản chi của hoạt động kinh doanh bảo hiểm, kinh doanh xổ số kinh doanh chứng khoán và một số hoạt động kinh doanh đặc thù khác không thực hiện đúng theo văn bản hướng dẫn riêng của Bộ Tài chính.*
+
+*2.36. Các khoản tiền phạt về vi phạm hành chính bao gồm: vi phạm luật giao thông, vi phạm chế độ đăng ký kinh doanh, vi phạm chế độ kế toán thống kê, vi phạm pháp luật về thuế bao gồm cả tiền chậm nộp thuế theo quy định của Luật Quản lý thuế và các khoản phạt về vi phạm hành chính khác theo quy định của pháp luật.*
+
+*2.37. Thuế giá trị gia tăng đầu vào đã được khấu trừ hoặc hoàn thuế; thuế giá trị gia tăng đầu vào của tài sản cố định là ô tô từ 9 chỗ ngồi trở xuống vượt mức quy định được khấu trừ theo quy định tại các văn bản pháp luật về thuế giá trị gia tăng; thuế thu nhập doanh nghiệp trừ trường hợp doanh nghiệp nộp thay thuế thu nhập doanh nghiệp của nhà thầu nước ngoài mà theo thỏa thuận tại hợp đồng nhà thầu, nhà thầu phụ nước ngoài, doanh thu nhà thầu, nhà thầu phụ nước ngoài nhận được không bao gồm thuế thu nhập doanh nghiệp; thuế thu nhập cá nhân trừ trường hợp doanh nghiệp ký hợp đồng lao động quy định tiền lương, tiền công trả cho người lao động không bao gồm thuế thu nhập cá nhân.*
+
+Mẫu số 06.TNDN.docx
+
+Mẫu số 01.TNDN.docx
+
+Mẫu số 02.TNDN.docx
+
+Mẫu số 03.TNDN.docx
+
+Mẫu số 04.TNDN.docx
+
+Mẫu số 05.TNDN.docx
+
+Mẫu số 07.TNDN.docx
+
+Mẫu số 08.TNDN.docx
+
+(Điều này có nội dung liên quan đến Chương VI TIỀN LƯƠNG của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012; Điều 33.11.TT.4.17. Căn cứ tính thuế; Điều 33.11.TT.4.21. Các trường hợp giảm thuế khác)
 
 Điều 33.11.TT.7.3. Nguyên tắc chung trong trích lập các khoản dự phòng
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 48/2019/TT-BTC, có hiệu lực thi hành kể từ ngày 10/10/2019)
 
-**Mã phân cấp:** 33011000000000002000009000000000000000000040249520218000090000802700300480000300
+1. Các khoản dự phòng quy định tại Thông tư này được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp trong kỳ báo cáo năm để bù đắp tổn thất có thể xảy ra trong kỳ báo cáo năm sau; đảm bảo cho doanh nghiệp phản ánh giá trị hàng tồn kho, các khoản đầu tư không cao hơn giá trên thị trường và giá trị của các khoản nợ phải thu không cao hơn giá trị có thể thu hồi được tại thời điểm lập báo cáo tài chính năm.
 
-**ID:** dk_00053929
+2. Thời điểm trích lập và hoàn nhập các khoản dự phòng là thời điểm lập báo cáo tài chính năm.
 
----
+3. Doanh nghiệp xem xét, quyết định việc xây dựng quy chế về quản lý vật tư, hàng hóa, quản lý danh mục đầu tư, quản lý công nợ đểhạn chế các rủi ro trong kinh doanh, trong đó xác định rõ trách nhiệm của từng bộ phận, từng người trong việc theo dõi, quản lý vật tư, hàng hóa, các khoản đầu tư, thu hồi công nợ.
 
+4. Doanh nghiệp không trích lập dự phòng rủi ro cho các khoản đầu tư ra nước ngoài.
 
-### Điều 33.11.TT.7.4. Dự phòng giảm giá hàng tồn kho
+Điều 33.11.TT.7.4. Dự phòng giảm giá hàng tồn kho
 
-*Nội dung chưa có sẵn*
+(Điều 4 Thông tư số 48/2019/TT-BTC, có hiệu lực thi hành kể từ ngày 10/10/2019)
 
-**Chỉ mục:** 4
+1. Đối tượng lập dự phòng bao gồm nguyên liệu, vật liệu, công cụ, dụng cụ, hàng hóa, hàng mua đang đi đường, hàng gửi đi bán, hàng hóa kho bảo thuế, thành phẩm (sau đây gọi tắt là hàng tồn kho) mà giá gốc ghi trên sổ kế toán cao hơn giá trị thuần có thể thực hiện được và đảm bảo điều kiện sau:
 
-**Mã phân cấp:** 33011000000000002000009000000000000000000040249520218000090000802700300480000400
+- Có hóa đơn, chứng từ hợp pháp theo quy định của Bộ Tài chính hoặc các bằng chứng hợp lý khác chứng minh giá vốn hàng tồn kho.
 
-**ID:** dk_00053930
+- Là hàng tồn kho thuộc quyền sở hữu của doanh nghiệp tại thời điểm lập báo cáo tài chính năm.
 
----
+2. Mức trích lập dự phòng tính theo công thức sau:
 
+ Mức trích dự phòng giảm giá hàng tồn kho
 
-### Điều 33.11.TT.7.5. Dự phòng tổn thất các khoản đầu tư
+ =
+
+ Lượng hàng tồn kho thực tế tại thời điểm lập báo cáo tài chính năm
+
+ x
+
+ Giá gốc hàng tồn kho theo sổ kế toán
+
+ -
+
+ Giá trị thuần có thể thực hiện được của hàng tồn kho
+
+Trong đó:
+
+- Giá gốc hàng tồn kho được xác định theo quy định tại Chuẩn mực kế toán số 02 - Hàng tồn kho ban hành kèm theo Quyết định số[149/2001/QĐ-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/quyet-dinh-149-2001-qd-btc-bon-04-chuan-muc-ke-toan-viet-nam-dot-1-hang-ton-khotai-san-co-dinh-huu-hinh-vo-hinh-doanh-thu-nhap-khac-48964.aspx)ngày 31/12/2001 của Bộ trưởng Bộ Tài chính và văn bản sửa đổi, bổ sung hoặc thay thế (nếu có).
+
+- Giá trị thuần có thể thực hiện được của hàng tồn kho do doanh nghiệp tự xác định là giá bán ước tính của hàng tồn kho trong kỳ sản xuất, kinh doanh bình thường tại thời điểm lập báo cáo tài chính năm trừ (-) chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ chúng.
+
+3. Tại thời điểm lập báo cáo tài chính năm, trên cơ sở tài liệu do doanh nghiệp thu thập chứng minh giá gốc hàng tồn kho cao hơn giá trị thuần có thể thực hiện được của hàng tồn kho thì căn cứ quy định tại khoản 1 và khoản 2 Điều này doanh nghiệp thực hiện trích lập dự phòng giảm giá hàng tồn kho như sau:
+
+a) Nếu số dự phòng phải trích lập bằng số dư khoản dự phòng giảm giá hàng tồn kho đã trích lập ở báo cáo năm trước đang ghi trên sổkế toán, doanh nghiệp không được trích lập bổ sung khoản dự phòng giảm giá hàng tồn kho;
+
+b) Nếu số dự phòng phải trích lập cao hơn số dư khoản dự phòng giảm giá hàng tồn kho đã trích lập ở báo cáo năm trước đang ghi trên sổkế toán, doanh nghiệp thực hiện trích thêm phần chênh lệch vào giá vốn hàng bán trong kỳ.
+
+c) Nếu số dự phòng phải trích lập thấp hơn số dư khoản dự phòng giảm giá hàng tồn kho đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp thực hiện hoàn nhập phần chênh lệch và ghi giảm giá vốn hàng bán trong kỳ.
+
+d) Mức lập dự phòng giảm giá hàng tồn kho được tính cho từng mặt hàng tồn kho bị giảm giá và tổng hợp toàn bộ vào bảng kê chi tiết. Bảng kê chi tiết là căn cứ để hạch toán vào giá vốn hàng bán (giá thành toàn bộ sản phẩm hàng hóatiêu thụ trong kỳ) của doanh nghiệp.
+
+4. Xử lý đối với hàng tồn kho đã trích lập dự phòng:
+
+a) Hàng tồn kho do thiên tai, dịch bệnh, hỏa hoạn, hư hỏng, lạc hậu mốt, lạc hậu kỹ thuật, lỗi thời do thay đổi quá trình sinh hóa tự nhiên, hết hạn sử dụng, không còn giá trị sử dụng phải được xử lý hủybỏ, thanh lý.
+
+b) Thẩm quyền xử lý:
+
+Doanh nghiệp thành lập Hội đồng xử lý hoặc thuê tổ chức tư vấn có chức năng thẩm định giá để xác định giá trị hàng tồn kho hủy bỏ, thanh lý. Biên bản kiểm kê xác định giá trị hàng tồn kho xử lý do doanh nghiệp lập xác định rõ giá trị hàng tồn kho bị hư hỏng, nguyên nhân hư hỏng, chủng loại, số lượng, giá trị hàng tồn kho có thểthu hồi được (nếu có).
+
+Hội đồng quản trị, Hội đồng thành viên, Chủ tịch công ty, Tổng giám đốc, Giám đốc, chủ doanh nghiệp tư nhân và chủ sở hữu của các tổ chức kinh tế khác căn cứ vào Biên bản của Hội đồng xử lý hoặc đề xuất của tổ chức tư vấn có chức năng thẩm định giá, các bằng chứng liên quan đến hàng tồn kho đểquyết định xử lý hủybỏ, thanh lý; quyết định xử lý trách nhiệm của những người liên quan đến hàng tồn kho đó và chịu trách nhiệm về quyết định của mình theo quy định của pháp luật.
+
+c) Khoản tổn thất thực tế của từng loại hàng tồn kho không thu hồi được là chênh lệch giữa giá trị ghi trên sổ kế toán trừ đi giá trị thu hồi từ người gây ra thiệt hại đền bù, từ cơ quan bảo hiểm bồi thường và từ bán thanh lý hàng tồn kho.
+
+Giá trị tổn thất thực tế của hàng tồn kho không thu hồi được đã có quyết định xử lý, sau khi bù đắp bằng nguồn dự phòng giảm giá hàng tồn kho, phần chênh lệch được hạch toán vào giá vốn hàng bán của doanh nghiệp.
+
+(Điều này có nội dung liên quan đến Điều 17.1.QĐ.2.1. Ban hành bốn (4) chuẩn mực kế toán Việt Nam (đợt 1) có số hiệu và tên gọi sauđây:)
 
 Điều 33.11.TT.7.5. Dự phòng tổn thất các khoản đầu tư
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 48/2019/TT-BTC, có hiệu lực thi hành kể từ ngày 10/10/2019, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 24/2022/TT-BTC có hiệu lực thi hành kể từ ngày 25/05/2022)
 
-**Mã phân cấp:** 33011000000000002000009000000000000000000040249520218000090000802700300480000500
+1. Các khoản đầu tư chứng khoán:
 
-**ID:** dk_00053931
+a) Đối tượng lập dự phòng là các loại chứng khoán do các tổ chức kinh tế trong nước phát hành theo quy định của pháp luật, thuộc sở hữu của doanh nghiệp, đang được niêm yết hoặc đăng ký giao dịch trên thị trường chứng khoán trong nước, được tự do mua bán trên thị trường và giá chứng khoán thực tế trên thị trường tại thời điểm lập báo cáo tài chính năm thấp hơn giá trị của khoản đầu tư chứng khoán đang hạch toán trên sổ kế toán.
+Đối tượng lập dự phòng nêu trên không bao gồm trái phiếu Chính phủ, trái phiếu được Chính phủ bảo lãnh, trái phiếu chính quyền địa phương.
 
----
+b) Mức trích lập dự phòng giảm giá đầu tư chứng khoán được tính theo công thức sau:
 
+ Mức trích dự phòng giảm giá đầu tư chứng khoán
 
-### Điều 33.11.TT.7.6. Dự phòng nợ phải thu khó đòi
+ =
 
-*Nội dung chưa có sẵn*
+ Giá trị khoản đầu tư chứng khoán đang hạch toán trên sổ kế toán của doanh nghiệp tại thời điểm lập báo cáo tài chính năm
 
-**Chỉ mục:** 6
+ -
 
-**Mã phân cấp:** 33011000000000002000009000000000000000000040249520218000090000802700300480000600
+ Số lượng chứng khoán doanh nghiệp đang sở hữu tại thời điểm lập báo cáo tài chính năm
 
-**ID:** dk_00053932
+ x
 
----
+ Giá chứng khoán thực tế trên thị trường
 
+- Đối với chứng khoán đã niêm yết (bao gồm cả cổ phiếu, chứng chỉ quỹ, chứng khoán phái sinh, chứng quyền có đảm bảo đã niêm yết): giá chứng khoán thực tế trên thị trường được tính theo giá đóng cửa tại ngày gần nhất có giao dịch tính đến thời điểm lập báo cáo tài chính năm.
 
-### Điều 33.11.TT.7.7. Dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng
+Trường hợp chứng khoán đã niêm yết trên thị trường mà không có giao dịch trong vòng 30 ngày trước ngày trích lập dự phòng thì doanh nghiệp xác định mức trích dự phòng cho từng khoản đầu tư chứng khoán theo quy định tại điểm b khoản 2 Điều này.
+
+Trường hợp tại ngày trích lập dự phòng, chứng khoán bị hủy niêm yết hoặc bị đình chỉ giao dịch hoặc bị ngừng giao dịch thì doanh nghiệp xác định mức trích dự phòng cho từng khoản đầu tư chứng khoán theo quy định tại điểm b khoản 2 Điều này.
+
+- Đối với cổ phiếu đã đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết và các doanh nghiệp nhà nước thực hiện cổ phần hóa dưới hình thức chào bán chứng khoán ra công chúng (Upcom) thì giá chứng khoán thực tế trên thị trường được xác định là giá tham chiếu bình quân trong 30 ngày giao dịch liền kề gần nhất trước thời điểm lập báo cáo tài chính năm do Sở Giao dịch chứng khoán công bố. Trường hợp cổ phiếu của công ty cổ phần đã đăng ký giao dịch trên thị trường Upcom mà không có giao dịch trong vòng 30 ngày trước thời điểm lập báo cáo tài chính năm thì doanh nghiệp xác định mức trích dự phòng cho từng khoản đầu tư chứng khoán theo quy định tại điểm b khoản 2 Điều này.
+
+- Đối với trái phiếu doanh nghiệp đã niêm yết, đăng ký giao dịch, giá trái phiếu trên thị trường là giá giao dịch gần nhất tại Sở Giao dịch chứng khoán trong vòng 10 ngày tính đến thời điểm lập báo cáo tài chính. Trường hợp không có giao dịch trong vòng 10 ngày tính đến thời điểm lập báo cáo tài chính năm thì doanh nghiệp không thực hiện trích lập dự phòng đối với khoản đầu tư này.
+
+c) Tại thời điểm lập báo cáo tài chính năm nếu giá trị đầu tư thực tế của khoản đầu tư chứng khoán đang hạch toán trên sổ kế toán của doanh nghiệp bị suy giảm so với giá thị trường thì doanh nghiệp phải trích lập dự phòng theo các quy định tại điểm a, điểm b khoản 1 Điều này và các quy định sau:
+
+- Nếu số dự phòng phải trích lập bằng số dư khoản dự phòng giảm giá đầu tư chứng khoán đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp không được trích lập bổ sung khoản dự phòng giảm giá đầu tư chứng khoán.
+
+- Nếu sốdự phòng phải trích lập cao hơn số dư khoản dự phòng giảm giá đầu tư chứng khoán đã trích lập ở báo cáo năm trước đang ghi trên sổkế toán, doanh nghiệp trích lập bổ sung số chênh lệch đó và ghi nhận vào chi phí trong kỳ.
+
+- Nếu số dự phòng phải trích lập kỳ này thấp hơn số dư khoản dự phòng giảm giá đầu tư chứng khoán đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp thực hiện hoàn nhập phần chênh lệch và ghi giảm chi phí trong kỳ.
+
+- Doanh nghiệp phải trích lập dự phòng riêng cho từng khoản đầu tư chứng khoán có biến động giảm giá tại thời điểm lập báo cáo tài chính năm và được tổng hợp vào bảng kê chi tiết dự phòng giảm giá các khoản đầu tư chứng khoán làm căn cứ hạch toán vào chi phí của doanh nghiệp.
+
+- Mức trích lập dự phòng của từng khoản đầu tư chứng khoán được xác định tại điểm b khoản 1 Điều này tối đa bằng giá trị đầu tư thực tế đang hạch toán trên sổ kế toán của doanh nghiệp.
+
+d) Đối với chứng khoán chưa niêm yết, chưa đăng ký giao dịch thì doanh nghiệp xác định mức trích dự phòng cho từng khoản đầu tư chứng khoán theo quy định tại điểm b khoản 2 Điều này.
+
+2. Các khoản đầu tư khác:
+
+a) Đối tượng: là các khoản đầu tư vào tổ chức kinh tế trong nước, không phải các khoản đầu tư chứng khoán theo quy định tại khoản 1 Điều này, doanh nghiệp đang sở hữu tại thời điểm lập báo cáo tài chính năm có cơ sở cho thấy có giá trị suy giảm so với giá trị đầu tưcủa doanh nghiệp.
+
+b) Mức trích lập:
+
+- Căn cứ báo cáo tài chính riêng của tổ chức kinh tế nhận vốn góp lập cùng thời điểm lập báo cáo tài chính năm của doanh nghiệp góp vốn, doanh nghiệp góp vốn xác định mức trích dự phòng cho từng khoản đầu tưnhưsau:
+
+ Mức trích dự phòng cho từng khoản đầutư
+
+ =
+
+ Tỷ lệ sở hữu vốn điều lệ thực góp (%) của doanh nghiệp tại tổchức kinh tế nhận vốn góp tại thời điểm trích lập dự phòng
+
+ X
+
+ Vốn đầu tưthực tế của các chủ sở hữu ở tổ chức kinh tế nhận vốn góp tại thời điểm trích lập dựphòng
+
+ -
+
+ Vốn chủ sở hữu của tổ chức kinh tế - nhận vốn góp tại thời điểm trích lập dự phòng
+
+Trong đó:
+
+- Vốn đầu tưthực tế của các chủ sở hữu ở tổ chức kinh tế nhận vốn góp tại thời điểm trích lập dự phòng được xác định trên Bảng cân đối kế toán năm của tổ chức kinh tế nhận vốn góp (mã số 411 và mã số 412 Bảng cân đối kế toán - ban hành kèm theo Thông tưsố 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính và văn bản sửa đổi, bổ sung hoặc thay thế - nếu có).
+
+- Vốn chủ sở hữu của tổ chức kinh tế nhận vốn góp tại thời điểm trích lập dự phòng được xác định trên Bảng cân đối kế toán năm của tổ chức kinh tế nhận vốn góp tại thời điểm trích lập dựphòng (mã số 410 Bảng cân đối kế toán - ban hành kèm theo Thông tưsố200/2014/TT-BTCngày 22/12/2014 của Bộ Tài chính và văn bản sửa đổi, bổ sung hoặc thay thế - nếu có).
+
+c) Tại thời điểm lập báo cáo tài chính năm nếu các khoản đầu tưvào tổ chức kinh tế có giá trị suy giảm so với giá trị đầu tưcủa doanh nghiệp thì doanh nghiệp thực hiện trích lập dự phòng theo các quy định tại điểm a, điểm b khoản 2 Điều này và các quy định sau:
+
+- Nếu số dự phòng phải trích lập bằng số dưkhoản dựphòng các khoản đầu tưvào đơn vị đã trích lập ở báo cáo năm trước đang ghi trên sổkế toán, doanh nghiệp không được trích lập bổ sung khoản dự phòng tổn thất các khoản đầu tư.
+
+- Nếu số dự phòng phải trích lập cao hơn số dưkhoản dự phòng các khoản đầu tưvào đơn vị đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp trích lập bổsung số chênh lệch đó và ghi nhận vào chi phí trong kỳ.
+
+- Nếu số dựphòng phải trích lập thấp hơn số dưkhoản dự phòng các khoản đầu tưvào đơn vị đã trích lập ở báo cáo năm trước đang ghi trên sổkế toán, doanh nghiệp thực hiện hoàn nhập phần chênh lệch và ghi giảm chi phí trong kỳ.
+
+- Doanh nghiệp phải lập dự phòng riêng cho từng khoản đầu tư và được tổng hợp vào bảng kê chi tiết dự phòng tổn thất đầu tư vào đơn vị khác làm căn cứ hạch toán vào chi phí của doanh nghiệp.
+
+- Mức trích lập dự phòng của từng khoản đầu tư được xác định tại điểm b khoản 2 Điều này tối đa bằng giá trị đầu tư thực tế đang hạch toán trên sổkế toán của doanh nghiệp.
+
+- Đối với khoản đầu tư của doanh nghiệp mua bán nợ góp vào các công ty cổ phần thông qua việc chuyển nợ thành vốn góp, khi trích lập dự phòng doanh nghiệp mua bán nợ được loại trừ khoản lỗ lũy kế tại công ty nhận vốn góp phát sinh trước thời điểm chuyển nợ thành vốn góp.
+
+- Trường hợp tổ chức kinh tế nhận vốn góp không lập báo cáo tài chính cùng thời điểm thì doanh nghiệp không được thực hiện trích lập dự phòng đối với khoản đầu tư này; ngoại trừ các trường hợp sau, doanh nghiệp được thực hiện trích lập dự phòng căn cứ theo báo cáo tài chính quý gần nhất của tổchức kinh tế nhận vốn góp:
+
++ Tổ chức kinh tế nhận vốn góp không lập báo cáo tài chính cùng thời điểm lập báo cáo tài chính năm của doanh nghiệp góp vốn do đã ngừng hoạt động và đang chờ xử lý (giải thể, phá sản).
+
++ Tổ chức kinh tế nhận vốn góp được phép lập báo cáo tài chính khác với thời điểm lập báo cáo tài chính năm của doanh nghiệp góp vốn và đã có thông báo cho cơ quan có thẩm quyền theo quy định của pháp luật về kế toán.
+
+3. Xử lý đối với các khoản đầu tư đã trích lập dự phòng:
+
+Khi chuyển nhượng khoản đầu tư đã được trích lập dự phòng theo quy định tại khoản 1 và khoản 2 Điều này, khoản chênh lệch giữa tiền thu từ chuyển nhượng khoản đầu tư với giá trị ghi trên sổ kếtoán được sử dụng nguồn dự phòng đã trích lập của khoản đầu tư này bù đắp; phần còn thiếu doanh nghiệp ghi nhận vào chi phí trong kỳ; phần còn thừa doanh nghiệp ghi giảm chi phí trong kỳ.
+
+(Điều này có nội dung liên quan đến Điều 17.1.TT.22.67. Tài khoản 411 – Vốn đầu tư của chủ sở hữu; Điều 17.1.TT.22.68. Tài khoản 412 – Chênh lệch đánh giá lại tài sản)
+
+Điều 33.11.TT.7.6. Dự phòng nợ phải thu khó đòi
+
+(Điều 6 Thông tư số 48/2019/TT-BTC, có hiệu lực thi hành kể từ ngày 10/10/2019)
+
+1. Đối tượng lập dự phòng là các khoản nợ phải thu (bao gồm cả các khoản doanh nghiệp đang cho vay và khoản trái phiếu chưa đăng ký giao dịch trên thị trường chứng khoán mà doanh nghiệp đang sở hữu) đã quá hạn thanh toán và các khoản nợ phải thu chưa đến hạn thanh toán nhưng có khả năng doanh nghiệp không thu hồi được đúng hạn, đồng thời đảm bảo điều kiện sau:
+
+a) Phải có chứng từ gốc chứng minh số tiền đối tượng nợ chưa trả, bao gồm:
+
+- Một trong số các chứng từ gốc sau: Hợp đồng kinh tế, khế ước vay nợ, cam kết nợ;
+
+- Bản thanh lý hợp đồng (nếu có);
+
+- Đối chiếu công nợ; trường hợp không có đối chiếu công nợ thì phải có văn bản đề nghị đối chiếu xác nhận công nợ hoặc văn bản đòi nợ do doanh nghiệp đã gửi (có dấu bưu điện hoặc xác nhận của đơn vị chuyển phát);
+
+- Bảng kê công nợ;
+
+- Các chứng từ khác có liên quan (nếu có).
+
+b) Có đủ căn cứ xác định là khoản nợ phải thu khó đòi:
+
+- Nợ phải thu đã quá thời hạn thanh toán từ 06 tháng trở lên (tính theo thời hạn trả nợ gốc ban đầu theo hợp đồng kinh tế, khế ước vay nợ hoặc các cam kết nợ khác, không tính đến thời gian gia hạn trả nợ giữa các bên), doanh nghiệp đã gửi đối chiếu xác nhận nợ hoặc đôn đốc thanh toán nhưng vẫn chưa thu hồi được nợ.
+
+- Nợ phải thu chưa đến hạn thanh toán nhưng doanh nghiệp thu thập được các bằng chứng xác định đối tượng nợ có khả năng không trả được nợ đúng hạn theo quy định tại điểm c khoản 2 Điều này.
+
+- Riêng đối với các khoản nợ mua của doanh nghiệp mua bán nợ (có đăng ký ngành nghề và hoạt động mua bán nợ theo đúng quy định của pháp luật), thời gian quá hạn được tính kểtừ ngày chuyển giao quyền chủ nợ giữa các bên (trên cơ sở biên bản hoặc thông báo bàn giao quyền chủ nợ) hoặc theo cam kết gần nhất (nếu có) giữa doanh nghiệp đối tượng nợ và doanh nghiệp mua bán nợ.
+
+2. Mức trích lập:
+
+a) Đối với nợ phải thu quá hạn thanh toán, mức trích lập dự phòng như sau:
+
+- 30% giá trị đối với khoản nợ phải thu quá hạn từ 6 tháng đến dưới 1 năm.
+
+- 50% giá trị đối với khoản nợ phải thu quá hạn từ 1 năm đến dưới 2 năm.
+
+- 70% giá trị đối với khoản nợ phải thu quá hạn từ 2 năm đến dưới 3 năm.
+
+- 100% giá trị đối với khoản nợ phải thu từ 3 năm trở lên.
+
+b) Đối với doanh nghiệp kinh doanh dịch vụ viễn thông và doanh nghiệp kinh doanh bán lẻ hàng hóa, khoản nợ phải thu cước dịch vụ viễn thông, công nghệ thông tin, truyền hình trả sau và khoản nợ phải thu do bán lẻ hàng hóa theo hình thức trả chậm/trả góp của các đối tượng nợ là cá nhân đã quá hạn thanh toán mức trích lập dự phòng như sau:
+
+- 30% giá trị đối với khoản nợ phải thu quá hạn từ 3 tháng đến dưới 6 tháng.
+
+- 50% giá trị đối với khoản nợ phải thu quá hạn từ 6 tháng đến dưới 9 tháng.
+
+- 70% giá trị đối với khoản nợ phải thu quá hạn từ 9 tháng đến dưới 12 tháng.
+
+- 100% giá trị đối với khoản nợ phải thu từ 12 tháng trở lên.
+
+c) Đối với các khoản nợ phải thu chưa đến hạn thanh toán nhưng doanh nghiệp thu thập được các bằng chứng xác định tổ chức kinh tế đã phá sản, đã mở thủ tục phá sản, đã bỏ trốn khỏi địa điểm kinh doanh; đối tượng nợ đang bị các cơ quan pháp luật truy tố, giam giữ, xét xử hoặc đang thi hành án hoặc đang mắc bệnh hiểm nghèo (có xác nhận của bệnh viện) hoặc đã chết hoặc khoản nợ đã được doanh nghiệp yêu cầu thi hành án nhưng không thể thực hiện được do đối tượng nợ bỏ trốn khỏi nơi cư trú; khoản nợ đã được doanh nghiệp khởi kiện đòi nợ nhưng bị đình chỉ giải quyết vụ án thì doanh nghiệp tự dự kiến mức tổn thất không thu hồi được (tối đa bằng giátrị khoản nợ đang theo dõi trên sổ kế toán) để trích lập dự phòng.
+
+3. Tại thời điểm lập báo cáo tài chính năm nếu các khoản nợ phải thu được xác định khó đòi, doanh nghiệp phải trích lập dự phòng theo quy định tại khoản 2 Điều này và các quy định sau:
+
+a) Nếu số dự phòng phải trích lập bằng số dư khoản dự phòng nợ phải thu khó đòi đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp không được trích lập bổ sung khoản dự phòng nợ phải thu khó đòi.
+
+b) Nếu số dự phòng phải trích lập cao hơn số dư khoản dự phòng nợ phải thu khó đòi đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp trích lập bổ sung số chênh lệch đó và ghi nhận vào chi phí trong kỳ.
+
+c) Nếu số dự phòng phải trích lập thấp hơn số dư khoản dự phòng nợ phải thu khó đòi đã trích lập ở báo cáo năm trước đang ghi trên sổkế toán, doanh nghiệp thực hiện hoàn nhập phần chênh lệch đó và ghi giảm chi phí trong kỳ.
+
+d) Doanh nghiệp phải dự kiến mức tổn thất có thể xảy ra hoặc tuổi nợ quá hạn của các khoản nợ và tiến hành lập dự phòng cho từng khoản nợ phải thu khó đòi, kèm theo các chứng cứ chứng minh các khoản nợ khó đòi nêu trên. Sau khi lập dự phòng cho từng khoản nợ phải thu khó đòi, doanh nghiệp tổng hợp toàn bộ khoản dự phòng các khoản nợ vào bảng kê chi tiết để làm căn cứ hạch toán vào chi phí của doanh nghiệp.
+
+đ) Đối với khoản nợ mua của doanh nghiệp mua bán nợ, căn cứ phương án mua, xử lý nợ và các nguyên tắc trích lập dự phòng tại Thông tư này để thực hiện trích lập dự phòng, số dự phòng được trích lập tối đa bằng số tiền mà doanh nghiệp đã bỏ ra đểmua khoản nợ, thời gian trích lập tối đa không quá thời gian tái cơ cấu doanh nghiệp, thu hồi nợ tại phương án mua, xử lý nợ.
+
+e) Doanh nghiệp không thực hiện trích lập dự phòng khoản nợ phải thu quá thời hạn thanh toán phát sinh từ khoản lợi nhuận, cổtức được chia do góp vốn đầu tư vào các doanh nghiệp khác.
+
+g) Khi trích lập dự phòng nợ phải thu khó đòi của một đối tượng nợ có phát sinh cả nợ phải thu và nợ phải trả, căn cứ biên bản đối chiếu công nợ giữa hai bên đểdoanh nghiệp trích lập dự phòng trên cơ sở số còn phải thu sau khi đã bù trừ khoản nợ phải trả của đối tượng này.
+
+Mức trích lập dự phòng của từng khoản nợ quá hạn được tính theo tỷ lệ (%) của khoản nợ quá hạn phải trích lập theo thời hạn quy định nhân (x) với tổng nợ còn phải thu sau khi đã bù trừ khoản nợ phải trả.
+
+Ví dụ: Công ty A có phát sinh các nghiệp vụ bán hàng cho Công ty B theo từng hợp đồng và đã quá hạn thanh toán như sau:
+
++ Bán lô hàng theo hợp đồng 01 cho Công ty B, giá trị hợp đồng là 5 triệu đồng, Công ty B chưa trả nợ, quá hạn 7 tháng.
+
++ Bán lô hàng theo hợp đồng 02 cho Công ty B, giá trị hợp đồng là 15 triệu đồng, Công ty B chưa trả nợ, quá hạn 13 tháng.
+
++ Bán lô hàng theo hợp đồng 03 cho Công ty B, giá trị hợp đồng là 10 triệu đồng, Công ty B chưa trả nợ, quá hạn 25 tháng.
+
+- Tổng nợ phải thu quá hạn của Công ty B: 30 triệu đồng.
+
+- Đồng thời, Công ty A có mua hàng của Công ty B, số tiền Công ty A phải trả cho Côngty B là: 10 triệu đồng.
+
+- Như vậy, số còn phải thu sau khi đã bù trừ khoản nợ phải trả đối với Công ty B là: 20 triệu đồng.
+
+- Mức trích lập dự phòng đối với nợ phải thu của lô hàng theo hợp đồng 01 là: 5/30x20 triệu đồngx30% = 1 triệu đồng.
+
+- Mức trích lập dự phòng đối với nợ phải thu của lô hàng theo hợp đồng 02 là: 15/30x20 triệu đồngx50% = 5 triệu đồng.
+
+- Mức trích lập dự phòng đối với nợ phải thu của lô hàng theo hợp đồng 03 là: 10/30x20 triệu đồngx70% = 4,67 triệu đồng.
+
+4. Xử lý tài chính các khoản nợ phải thu không có khả năng thu hồi:
+
+a) Nợ phải thu không có khả năng thu hồi là các khoản nợ phải thu đã quá thời hạn thanh toán hoặc chưa đến thời hạn thanh toán thuộc một trong những trường hợp sau:
+
+- Đối tượng nợ là doanh nghiệp, tổ chức đã hoàn thành việc phá sản theo quy định của pháp luật.
+
+- Đối tượng nợ là doanh nghiệp, tổ chức đã ngừng hoạt động hoặc giải thể.
+
+- Đối tượng nợ đã được cơ quan có thẩm quyền quyết định cho xóa nợ theo quy định của pháp luật.
+
+- Đối tượng nợ là cá nhân đã chết hoặc đang bị các cơ quan pháp luật truy tố, giam giữ, xét xử, đang thi hành án.
+
+- Khoản chênh lệch còn lại của các khoản nợ không thu hồi được sau khi đã xử lý trách nhiệm cá nhân, tập thể phải bồi thường vật chất.
+
+- Khoản nợ phải thu đã được trích lập 100% dự phòng theo quy định tại gạch đầu dòng thứ 4 điểm a khoản 2 Điều này mà sau 03 năm tính từ thời điểm doanh nghiệp trích lập đủ 100% dự phòng mà vẫn chưa thu hồi được nợ.
+
+- Khoản nợ phải thu đã được trích lập 100% dự phòng theo quy định tại gạch đầu dòng thứ 4 điểm b khoản 2 Điều này mà sau 01 năm tính từ thời điểm doanh nghiệptrích lập đủ 100% dự phòng mà vẫn chưa thu hồi được nợ.
+
+b) Nợ phải thu không có khả năng thu hồi quy định tại điểm a khoản 4 Điều này khi có đủ các tài liệu chứng minh, cụ thể như sau:
+
+- Sổ kế toán, chứng từ, tài liệu chứng minh khoản nợ chưa thu hồi được đến thời điểm xử lý nợ doanh nghiệp đang hạch toán nợ phải thu trên sổ kế toán của doanh nghiệp như: hợp đồng kinh tế; khế ước vay nợ; cam kết nợ; bản thanh lý hợp đồng (nếu có); đối chiếu công nợ (nếu có); văn bản đề nghị đối chiếu công nợ hoặc văn bản đòi nợ do doanh nghiệp đã gửi (có dấu bưu điện hoặc xác nhận của đơn vị chuyển phát); bảng kê công nợ và các chứng từ khác có liên quan.
+
+- Trường hợp đối với tổ chức kinh tế:
+
++ Đối tượng nợ đã phá sản: có quyết định của Tòa án tuyên bố phá sản doanh nghiệp theo Luật phá sản.
+
++ Đối tượng nợ đã ngừng hoạt động, giải thể: có văn bản xác nhận hoặc thông báo bằng văn bản/thông báo trên trang điện tử chính thức của cơ quan quyết định thành lập doanh nghiệp hoặc tổchức đăng ký kinh doanh hoặc cơ quan thuế quản lý trực tiếp về việc doanh nghiệp, tổchức đã ngừng hoạt động hoặc giải thể; hoặc khoản nợ đã được doanh nghiệp, tổchức khởi kiện ra tòa án theo quy định, có bản án, quyết định của tòa và có ý kiến xác nhận của cơ quan thi hành án về việc đối tượng nợ không có tài sản đểthi hành án.
+
++ Đối với khoản nợ phải thu nhưng đối tượng nợ đã được cơ quan có thẩm quyền quyết định cho xóanợ theo quy định của pháp luật; khoản chênh lệch thiệt hại được cơ quan có thẩm quyền quyết định cho bán nợ.
+
+- Trường hợp đối với cá nhân:
+
++ Giấy chứng tử (bản sao chứng thực hoặc bản sao từ sổ gốc) hoặc xác nhận của chính quyền địa phương đối với đối tượng nợ đã chết.
+
++ Lệnh truy nã; hoặc xác nhận của cơ quan pháp luật đối với đối tượng nợ đã bỏ trốn; hoặc xác nhận của cơ quan pháp luật về việc đối tượng nợ không còn ở nơi cư trú đối với khoản nợ phải thu cước dịch vụ viễn thông, công nghệ thông tin, truyền hình trả sau của các doanh nghiệp kinh doanh dịch vụ viễn thông; hoặc đang bị truy tố, đang thi hành án.
+
+- Các hồ sơ, tài liệu chứng minh khoản nợ phải thu đã được trích lập 100% dự phòng theo quy định tại gạch đầu dòng thứ 4 điểm a khoản 2 Điều này mà sau 03 năm tính từ thời điểm doanh nghiệp trích lập đủ 100% dự phòng mà vẫn chưa thu hồi được nợ hoặc khoản nợ phải thu đã được trích lập 100% dự phòng theo quy định tại gạch đầu dòng thứ 4 điểm b khoản 2 Điều này mà sau 01 năm tính từ thời điểm doanh nghiệp trích lập đủ 100% dự phòng mà vẫn chưa thu hồi được nợ.
+
+c) Xử lý tài chính:
+
+- Tổn thất thực tế của từng khoản nợ không thu hồi được là khoản chênh lệch giữa nợ phải thu ghi trên sổkế toán và số tiền đã thu hồi được (do người gây ra thiệt hại đền bù, do phát mại tài sản của đối tượng nợ hoặc người nợ, do được chia tài sản theo quyết định của tòa án hoặc các cơ quan có thẩm quyền khác).
+
+- Giá trị tổn thất thực tế của khoản nợ không có khả năng thu hồi, doanh nghiệp sử dụng nguồn dự phòng nợ phải thu khó đòi (nếu có) để bù đắp, phần chênh lệch thiếu hạch toán vào chi phí của doanh nghiệp.
+
+- Các khoản nợ phải thu không có khả năng thu hồi sau khi đã có quyết định xử lý theo quy định trên, doanh nghiệp phải theo dõi trong hệ thống quản trị của doanh nghiệp và trình bày trong thuyết minh báo cáo tài chính trong thời hạn tối thiểu là 10 năm kể từ ngày thực hiện xử lý và tiếp tục có các biện pháp để thu hồi nợ. Nếu thu hồi được nợ thì số tiền thu hồi sau khi trừ các chi phí có liên quan đến việc thu hồi nợ, doanh nghiệp hạch toán vào thu nhập.
+
+d) Khi xử lý khoản nợ phải thu không có khả năng thu hồi doanh nghiệp phải lập hồ sơ sau:
+
+- Biên bản của Hội đồng xử lý nợ của doanh nghiệp. Trong đó ghi rõ giá trị của từng khoản nợ phải thu, giá trị nợ đã thu hồi được, giá trị thiệt hại thực tế (sau khi đã trừ đi các khoản thu hồi được).
+
+- Bảng kê chi tiết các khoản nợ phải thu đã xóa để làm căn cứ hạch toán. Sổ kế toán, chứng từ, tài liệu chứng minh khoản nợ chưa thu hồi được, đến thời điểm xử lý nợ doanh nghiệp đang hạch toán nợ phải thu trên sổ kế toán của doanh nghiệp.
+
+- Các hồ sơ, tài liệu liên quan đến việc thực hiện trích lập dự phòng liên quan đến các khoản nợ phải thu không có khả năng thu hồi.
+
+đ) Thẩm quyền xử lý nợ:
+
+Hội đồng quản trị, Hội đồng thành viên, Chủ tịch công ty, Tổng giám đốc, Giám đốc, chủ doanh nghiệp tư nhân và chủ sở hữu của các tổchức kinh tế căn cứ vào Biên bản của Hội đồng xử lý do doanh nghiệp lập và các bằng chứng liên quan đến khoản nợ để quyết định xử lý những khoản nợ phải thu không thu hồi và chịu trách nhiệm về quyết định của mình trước pháp luật. Thành phần Hội đồng xử lý do doanh nghiệp tự quyết định.
 
 Điều 33.11.TT.7.7. Dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 48/2019/TT-BTC, có hiệu lực thi hành kể từ ngày 10/10/2019)
 
-**Mã phân cấp:** 33011000000000002000009000000000000000000040249520218000090000802700300480000700
+1. Đối tượng và điều kiện lập dự phòng: là những sản phẩm, hàng hóa, dịch vụ, công trình xây dựng do doanh nghiệp thực hiện đã bán, đã cung cấp hoặc đã bàn giao cho người mua còn trong thời hạn bảo hành và doanh nghiệp vẫn có nghĩa vụ phải tiếp tục sửa chữa, hoàn thiện, bảo hành theo hợp đồng hoặc cam kết với khách hàng.
 
-**ID:** dk_00053933
+2. Mức trích lập:
 
----
+Doanh nghiệp dự kiến mức tổn thất đểtrích lập dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng đã tiêu thụ và dịch vụ đã cung cấp trong năm và tiến hành lập dự phòng cho từng loại sản phẩm, hàng hóa, dịch vụ, công trình xây dựng có cam kết bảo hành.
 
+Tổng mức trích lập dự phòng bảo hành của các sản phẩm, hàng hóa, dịch vụ, công trình xây dựng theo cam kết với khách hàng nhưng tối đa không quá 05% tổng doanh thu tiêu thụ trong năm đối với các sản phẩm, hàng hóa, dịch vụ và không quá 05% trên giá trị hợp đồng đối với các công trình xây dựng.
 
-### Điều 33.11.LQ.10. Thuế suất
+3. Sau khi lập dự phòng cho từng loại sản phẩm, hàng hóa, dịch vụ, công trình xây dựng doanh nghiệp tổng hợp toàn bộ khoản dự phòng vào bảng kê chi tiết. Bảng kê chi tiết là căn cứ để hạch toán vào chi phí của doanh nghiệp trong kỳ.
 
-*Nội dung chưa có sẵn*
+4. Tại thời điểm lập báo cáo tài chính năm, căn cứ tình hình tiêu thụ, bàn giao sản phẩm, hàng hóa, dịch vụ, công trình xây dựng và các cam kết bảo hành tại hợp đồng hoặc các văn bản quy định liên quan, doanh nghiệp thực hiện trích lập dự phòng theo quy định tại khoản 1, khoản 2 và khoản 3 Điều này và các quy định sau:
 
-**Chỉ mục:** 10
+- Nếu số dự phòng phải trích lập bằng số dư khoản dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp không được trích lập bổ sung khoản dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng.
 
-**Mã phân cấp:** 3301100000000000200001000000000000000000
+- Nếu số dự phòng phải trích lập cao hơn số dư khoản dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp trích lập bổ sung số chênh lệch đó và ghi nhận vào chi phí trong kỳ.
 
-**ID:** dk_00053934
+- Nếu số dự phòng phải trích lập thấp hơn số dư khoản dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng đã trích lập ở báo cáo năm trước đang ghi trên sổ kế toán, doanh nghiệp thực hiện hoàn nhập phần chênh lệch đó và ghi giảm chi phí trong kỳ.
 
----
+- Hết thời hạn bảo hành, nếu sản phẩm, hàng hóa, dịch vụ, công trình xây dựng không phải bảo hành hoặc số dự phòng phải trả về bảo hành của sản phẩm, hàng hóa, dịch vụ, công trình xây dựng lớn hơn chi phí thực tế phát sinh thì số dư còn lại được hoàn nhập vào thu nhập trong kỳ của doanh nghiệp.
 
+Điều 33.11.LQ.10. Thuế suất
 
-### Điều 33.11.NĐ.2.10. Thuế suất
+(Điều 10 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, được sửa đổi, bổ sung theo quy định tại khoản 6 Điều 1 của Luật số 32/2013/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2014.)
 
-*Nội dung chưa có sẵn*
+1. Thuế suất thuế thu nhập doanh nghiệp là 22%, trừ trường hợp quy định tại khoản 2, khoản 3 Điều này và đối tượng được ưu đãi về thuế suất quy định tại Điều 13 của Luật này.
 
-**Chỉ mục:** 10
+Những trường hợp thuộc diện áp dụng thuế suất 22% quy định tại khoản này chuyển sang áp dụng thuế suất 20% kể từ ngày 01 tháng 01 năm 2016.
 
-**Mã phân cấp:** 330110000000000020000100000000000000000000402495202180001000
+2. Doanh nghiệp có tổng doanh thu năm không quá hai mươi tỷ đồng áp dụng thuế suất 20%.
 
-**ID:** dk_00053935
+Doanh thu làm căn cứ xác định doanh nghiệp thuộc đối tượng được áp dụng thuế suất 20% tại khoản này là doanh thu của năm trước liền kề.
 
----
+3. Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác dầu, khí và tài nguyên quý hiếm khác tại Việt Nam từ 32% đến 50% phù hợp với từng dự án, từng cơ sở kinh doanh.
 
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
 
-### Điều 33.11.TT.4.11. Thuế suất thuế thu nhập doanh nghiệp
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. ; Điều 33.11.LQ.13. Ưu đãi về thuế suất)
+
+Điều 33.11.NĐ.2.10. Thuế suất
+
+(Điều 10 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
+
+Thuế suất thuế thu nhập doanh nghiệp thực hiện theo quy định tại Khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp:
+
+1. Thuế suất thuế thu nhập doanh nghiệp là 22%, trừ trường hợp doanh nghiệp thuộc đối tượng áp dụng thuế suất 20% và thuế suất từ 32% đến 50% quy định tại Khoản 2, Khoản 3 Điều này và đối tượng được ưu đãi về thuế suất quy định tại Điều 15 và Điều 16 Nghị định này.
+
+Kể từ ngày 01 tháng 01 năm 2016, những trường hợp thuộc diện áp dụng thuế suất 22% quy định tại Khoản này áp dụng thuế suất 20%.
+
+2. Doanh nghiệp được thành lập và hoạt động theo quy định của pháp luật Việt Nam, kể cả hợp tác xã, đơn vị sự nghiệp hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ có tổng doanh thu năm không quá 20 tỷ đồng được áp dụng thuế suất 20%.
+
+Tổng doanh thu năm làm căn cứ xác định doanh nghiệp thuộc đối tượng được áp dụng thuế suất 20% quy định tại khoản này là tổng doanh thu bán hàng hóa, cung cấp dịch vụ của doanh nghiệp của năm trước liền kề.
+
+3. Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác dầu khí và tài nguyên quý hiếm khác tại Việt Nam từ 32% đến 50%. Đối với hoạt động tìm kiếm, thăm dò, khai thác dầu khí, căn cứ vào vị trí, điều kiện khai thác và trữ lượng mỏ, Thủ tướng Chính phủ quyết định mức thuế suất cụ thể phù hợp với từng dự án, từng cơ sở kinh doanh theo đề nghị của Bộ trưởng Bộ Tài chính. Đối với các mỏ tài nguyên bạch kim, vàng, bạc, thiếc, wonfram, antimoan, đá quý, đất hiếm áp dụng thuế suất là 50%, trường hợp các mỏ có từ 70% diện tích được giao trở lên ở địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn thuộc danh mục địa bàn ưu đãi thuế thu nhập doanh nghiệp ban hành kèm theo Nghị định này áp dụng thuế suất thuế thu nhập doanh nghiệp là 40%.
+
+(Điều này có nội dung liên quan đến Điều 1. của Luật 32/2013/QH13 Sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp ban hành ngày 19/06/2013; Điều 33.11.NĐ.2.15. Thuế suất ưu đãi; Điều 33.11.NĐ.2.16. Miễn thuế, giảm thuế; Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp)
 
 Điều 33.11.TT.4.11. Thuế suất thuế thu nhập doanh nghiệp
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
 
-**Mã phân cấp:** 33011000000000002000010000000000000000000040249520218000100000802512600780001100
+1. Kể từ ngày 01/01/2014, thuế suất thuế thu nhập doanh nghiệp là 22%, trừ trường hợp quy định tại khoản 2, khoản 3 Điều này và các trường hợp được áp dụng thuế suất ưu đãi.
 
-**ID:** dk_00053936
+Ví dụ: Doanh nghiệp áp dụng năm tài chính từ ngày 01/04/2013 đến ngày 31/03/2014. Trường hợp doanh nghiệp đang áp dụng thuế suất phổ thông, không được hưởng thuế suất ưu đãi thì khi quyết toán thuế TNDN, doanh nghiệp tính và phân bổ số thuế thu nhập doanh nghiệp phải nộp như sau:
 
----
+ Số thuế TNDN phải nộp
 
+ =
 
-### Điều 33.11.LQ.11. Phương pháp tính thuế
+ Thu nhập chịu thuế trong kỳ tính thuế
 
-*Nội dung chưa có sẵn*
+ x 9 tháng x 25% +
 
-**Chỉ mục:** 11
+ Thu nhập chịu thuế trong kỳ tính thuế
 
-**Mã phân cấp:** 3301100000000000200001100000000000000000
+ x 3 tháng x 22%
 
-**ID:** dk_00053937
+ 12 tháng
 
----
+ 12 tháng
 
+Kể từ ngày 01/01/2016, trường hợp thuộc diện áp dụng thuế suất 22% chuyển sang áp dụng thuế suất 20%.
 
-### Điều 33.11.NĐ.2.11. Phương pháp tính thuế
+2. Doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam (kể cả hợp tác xã, đơn vị sự nghiệp) hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ có tổng doanh thu năm không quá 20 tỷ đồng được áp dụng thuế suất 20%.
 
-*Nội dung chưa có sẵn*
+Tổng doanh thu năm làm căn cứ xác định doanh nghiệp thuộc đối tượng được áp dụng thuế suất 20% quy định tại khoản này là tổng doanh thu bán hàng hóa, cung cấp dịch vụ của năm trước liền kề được xác định căn cứ vào chỉ tiêu mã số [01] và chỉ tiêu mã số [08] trên Phụ lục kết quả hoạt động sản xuất kinh doanh của kỳ tính thuế năm trước liền kề theo Mẫu số 03-1A/TNDN kèm theo tờ khai quyết toán thuế TNDN số 03/TNDN ban hành kèm theo Thông tư số 156/2013/TT-BTC ngày 6/11/2013 của Bộ Tài chính về quản lý thuế.
 
-**Chỉ mục:** 11
+Ví dụ 14: Công ty A áp dụng kỳ tính thuế theo năm tài chính từ ngày 01 tháng 4 năm này đến hết ngày 31 tháng 3 năm sau, có doanh thu bán hàng hóa cung cấp dịch vụ mã [01] và doanh thu hoạt động tài chính mã [08] trên Phụ lục 03-1A/TNDN kèm theo tờ khai quyết toán thuế TNDN số 03/TNDN năm tài chính 2013 (từ ngày 01/04/2013 đến hết ngày 31/3/2014) không quá 20 tỷ đồng thì từ năm tài chính 2014 (từ ngày 01/04/2014 đến hết ngày 31/3/2015) Công ty A được áp dụng thuế suất thuế TNDN năm tài chính 2014 là 20%, nếu tổng doanh thu năm tài chính 2014 xác định theo hướng dẫn nêu trên mà trên 20 tỷ đồng thì năm tài chính 2015 (từ ngày 01/04/2015 đến hết ngày 31/3/2016) Công ty A áp dụng thuế suất thuế TNDN 22%.
 
-**Mã phân cấp:** 330110000000000020000110000000000000000000402495202180001100
+Đối với doanh nghiệp có năm trước liền kề không đủ 12 tháng, tổng doanh thu năm làm căn cứ xác định doanh nghiệp thuộc đối tượng được áp dụng thuế suất 20% quy định tại khoản này là tổng doanh thu bán hàng hóa, cung cấp dịch vụ của năm trước liền kề được xác định căn cứ vào chỉ tiêu mã số [01] và chỉ tiêu mã số [08] trên Phụ lục kết quả hoạt động sản xuất kinh doanh của kỳ tính thuế năm trước liền kề theo Mẫu số 03-1A/TNDN kèm theo tờ khai quyết toán thuế TNDN số 03/TNDN chia cho số tháng thực tế hoạt động sản xuất kinh doanh trong năm, nếu doanh thu bình quân của các tháng trong năm không vượt quá 1,67 tỷ đồng thì năm sau doanh nghiệp được áp dụng thuế suất thuế TNDN 20%.
 
-**ID:** dk_00053938
+Ví dụ 15: Công ty A áp dụng kỳ tính thuế theo năm dương lịch, năm dương lịch 2014 xin tạm nghỉ kinh doanh 3 tháng, bắt đầu kinh doanh từ ngày 01/4/2014 đến hết ngày 31/12/2014, có doanh thu bán hàng hóa cung cấp dịch vụ mã số [01] và doanh thu hoạt động tài chính mã [08] trên phụ lục 03-1A/TNDN kèm theo tờ khai quyết toán thuế TNDN số 03/TNDN năm 2014 là 18 tỷ đồng, doanh thu bình quân tháng năm 2014 là 18 tỷ đồng chia (:) 9 tháng bằng (=) 2 tỷ đồng thì năm 2015 Công ty A không được áp dụng thuế suất thuế TNDN 20%, phải áp dụng thuế suất thuế TNDN 22%, nếu doanh thu bình quân tháng năm 2014 không quá 1,67 tỷ đồng thì năm 2015 Công ty A áp dụng thuế suất thuế TNDN 20%.
 
----
+Trường hợp doanh nghiệp mới thành lập trong năm không đủ 12 tháng thì trong năm đó doanh nghiệp thực hiện kê khai tạm tính quý theo thuế suất 22% (trừ trường hợp thuộc diện được hưởng ưu đãi về thuế). Kết thúc năm tài chính nếu doanh thu bình quân của các tháng trong năm không vượt quá 1,67 tỷ đồng thì doanh nghiệp quyết toán thuế thu nhập doanh nghiệp phải nộp của năm tài chính theo thuế suất 20% (trừ các khoản thu nhập quy định tại Khoản 3 Điều 18 Thông tư này). Doanh thu được xác định căn cứ vào chỉ tiêu tổng doanh thu bán hàng hóa, cung cấp dịch vụ của doanh nghiệp chỉ tiêu mã số [01] và chỉ tiêu mã số [08] trên Phụ lục kết quả hoạt động sản xuất kinh doanh theo Mẫu số 03-1A/TNDN kèm theo tờ khai quyết toán thuế TNDN số 03/TNDN ban hành kèm theo Thông tư số 156/2013/TT-BTC ngày 6/11/2013 của Bộ Tài chính về quản lý thuế. Doanh thu bình quân của các tháng trong năm đầu tiên không vượt quá 1,67 tỷ đồng thì năm tiếp theo doanh nghiệp được áp dụng thuế suất thuế TNDN 20%.
 
+3. Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác dầu khí tại Việt Nam từ 32% đến 50%. Căn cứ vào vị trí khai thác, điều kiện khai thác và trữ lượng mỏ doanh nghiệp có dự án đầu tư tìm kiếm, thăm dò, khai thác dầu khí gửi hồ sơ dự án đầu tư đến Bộ Tài chính để trình Thủ tướng Chính phủ quyết định mức thuế suất cụ thể cho từng dự án, từng cơ sở kinh doanh.
 
-### Điều 33.11.TT.4.3. Phương pháp tính thuế
+Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác các mỏ tài nguyên quý hiếm (bao gồm: bạch kim, vàng, bạc, thiếc, wonfram, antimoan, đá quý, đất hiếm trừ dầu khí) áp dụng thuế suất 50%; Trường hợp các mỏ tài nguyên quý hiếm có từ 70% diện tích được giao trở lên ở địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn thuộc danh mục địa bàn ưu đãi thuế thu nhập doanh nghiệp ban hành kèm theo Nghị định số 218/2013/NĐ-CP của Chính phủ áp dụng thuế suất thuế thu nhập doanh nghiệp 40%.
 
-*Nội dung chưa có sẵn*
+Mẫu số 03.TNDN.docx
 
-**Chỉ mục:** 3
+Phu luc 03-1A-TNDN.doc
 
-**Mã phân cấp:** 33011000000000002000011000000000000000000040249520218000110000802512600780000300
+(Điều này có nội dung liên quan đến Điều 33.11.TT.4.18. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp)
 
-**ID:** dk_00053939
+Điều 33.11.LQ.11. Phương pháp tính thuế
 
----
+(Điều 11 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009)
 
+1. Số thuế thu nhập doanh nghiệp phải nộp trong kỳ tính thuế được tính bằng thu nhập tính thuế nhân với thuế suất; trường hợp doanh nghiệp đã nộp thuế thu nhập ở ngoài Việt Nam thì được trừ số thuế thu nhập đã nộp nhưng tối đa không quá số thuế thu nhập doanh nghiệp phải nộp theo quy định của Luật này.
 
-### Điều 33.11.LQ.12. Nơi nộp thuế
+2. Phương pháp tính thuế đối với doanh nghiệp quy định tại điểm c và điểm d khoản 2 Điều 2 của Luật này được thực hiện theo quy định của Chính phủ.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. ; Điều 33.11.LQ.2. Người nộp thuế)
 
-**Chỉ mục:** 12
+Điều 33.11.NĐ.2.11. Phương pháp tính thuế
 
-**Mã phân cấp:** 3301100000000000200001200000000000000000
+(Điều 11 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 8 Điều 1 Nghị định số 12/2015/ NĐ-CP, có hiệu lực từ ngày 01 tháng 01 năm 2015.)
 
-**ID:** dk_00053940
+*1. Số thuế thu nhập doanh nghiệp phải nộp trong kỳ tính thuế bằng thu nhập tính thuế nhân (x) với thuế suất.*
 
----
+*Doanh nghiệp Việt Nam đầu tư ở nước ngoài chuyển phần thu nhập sau khi đã nộp thuế thu nhập doanh nghiệp ở nước ngoài của doanh nghiệp về Việt Nam thì đối với các nước đã ký Hiệp định tránh đánh thuế hai lần thì thực hiện theo quy định của Hiệp định; đối với các nước chưa ký Hiệp định tránh đánh thuế hai lần thì trường hợp thuế thu nhập doanh nghiệp ở các nước mà doanh nghiệp đầu tư chuyển về có mức thuế suất thuế thu nhập doanh nghiệp thấp hơn thì thu phần chênh lệch so với số thuế thu nhập doanh nghiệp tính theo Luật Thuế thu nhập doanh nghiệp của Việt Nam.*
 
+2. Số thuế thu nhập doanh nghiệp phải nộp đối với chuyển nhượng bất động sản bằng thu nhập từ chuyển nhượng bất động sản nhân (x) với thuế suất 22%, từ ngày 01 tháng 01 năm 2016 mức thuế suất này là 20%.
 
-### Điều 33.11.NĐ.2.12. Nơi nộp thuế
+3. Đối với doanh nghiệp quy định tại các Điểm c, d Khoản 2 Điều 2 Luật thuế thu nhập doanh nghiệp, số thuế thu nhập doanh nghiệp phải nộp được tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ tại Việt Nam, cụ thể như sau:
 
-*Nội dung chưa có sẵn*
+a) Dịch vụ: 5%, riêng dịch vụ quản lý nhà hàng, khách sạn, casino: 10%; trường hợp cung ứng dịch vụ có gắn với hàng hóa thì hàng hóa được tính theo tỷ lệ 1%; trường hợp không tách riêng được giá trị hàng hóa với giá trị dịch vụ là 2%;
 
-**Chỉ mục:** 12
+b) Cung cấp và phân phối hàng hóa tại Việt Nam theo hình thức xuất nhập khẩu tại chỗ hoặc theo các điều khoản thương mại quốc tế (Incoterms) là 1%;
 
-**Mã phân cấp:** 330110000000000020000120000000000000000000402495202180001200
+c) Tiền bản quyền là 10%;
 
-**ID:** dk_00053941
+d) Thuê tàu bay (kể cả thuê động cơ, phụ tùng tàu bay), tàu biển là 2%;
 
----
+đ) Thuê giàn khoan, máy móc, thiết bị, phương tiện vận tải (trừ quy định tại Điểm d Khoản này) là 5%;
 
+e) Lãi tiền vay là 5%;
 
-### Điều 33.11.TT.4.12. Nguyên tắc xác định
+g) Chuyển nhượng chứng khoán, tái bảo hiểm ra nước ngoài là 0,1%;
 
-*Nội dung chưa có sẵn*
+h) Dịch vụ tài chính phái sinh là 2%;
 
-**Chỉ mục:** 12
+i) Xây dựng, vận tải và hoạt động khác là 2%.
 
-**Mã phân cấp:** 33011000000000002000012000000000000000000040249520218000120000802512600780001200
+4. Đối với hoạt động khai thác dầu khí có quy định việc hạch toán doanh thu, chi phí bằng ngoại tệ trong hợp đồng thì thu nhập tính thuế và số thuế phải nộp được xác định bằng ngoại tệ.
 
-**ID:** dk_00053942
+5. Đơn vị sự nghiệp, tổ chức khác không phải là doanh nghiệp thành lập và hoạt động theo quy định của pháp luật Việt Nam có hoạt động kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế thu nhập doanh nghiệp mà các đơn vị này hạch toán được doanh thu nhưng không xác định được chi phí, thu nhập của hoạt động kinh doanh thì kê khai nộp thuế thu nhập doanh nghiệp tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ, cụ thể như sau:
 
----
+a) Đối với dịch vụ (bao gồm cả lãi tiền gửi, lãi tiền cho vay): 5%. Riêng hoạt động giáo dục, y tế, biểu diễn nghệ thuật áp dụng mức thuế quy định tại Điểm c Khoản này;
 
+b) Đối với kinh doanh hàng hóa là 1%;
 
-### Điều 33.11.TT.4.13. Xác định số thuế phải nộp
+c) Đối với hoạt động khác là 2%.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 33.11.LQ.2. Người nộp thuế của Luật 14/2008/QH12 Thuế thu nhập doanh nghiệp ban hành ngày 03/06/2008; Điều 33.4.TT.11.77. Khai thuế, tính thuế trực tiếp của nhà cung cấp ở nước ngoài)
 
-**Chỉ mục:** 13
+Điều 33.11.TT.4.3. Phương pháp tính thuế
 
-**Mã phân cấp:** 33011000000000002000012000000000000000000040249520218000120000802512600780001300
+(Điều 3 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, được sửa đổi, bổ sung theo quy định tại Điều 1 Thông tư số 96/2015/TT-BTC, có hiệu lực kể từ ngày 06 tháng 8 năm 2015.)
 
-**ID:** dk_00053943
+*1. Số thuế thu nhập doanh nghiệp phải nộp trong kỳ tính thuế bằng thu nhập tính thuế trừ đi phần trích lập quỹ khoa học và công nghệ (nếu có) nhân với thuế suất thuế thu nhập doanh nghiệp.*
 
----
+*Thuế thu nhập doanh nghiệp phải nộp được xác định theo công thức sau:*
 
+ *Thuế TNDN phải nộp*
 
-### Điều 33.11.LQ.13. Ưu đãi về thuế suất
+ *= (*
 
-*Nội dung chưa có sẵn*
+ *Thu nhập tính thuế*
 
-**Chỉ mục:** 13
+ *-*
 
-**Mã phân cấp:** 3301100000000000300001300000000000000000
+ *Phần trích lập quỹ KH&CN (nếu có)*
 
-**ID:** dk_00053945
+ *) x*
 
----
+ *Thuế suất thuế TNDN*
 
+*- Doanh nghiệp Việt Nam đầu tư ở nước ngoài chuyển phần thu nhập sau khi đã nộp thuế thu nhập doanh nghiệp ở nước ngoài của doanh nghiệp về Việt Nam đối với các nước đã ký Hiệp định tránh đánh thuế hai lần thì thực hiện theo quy định của Hiệp định; đối với các nước chưa ký Hiệp định tránh đánh thuế hai lần thì trường hợp thuế thu nhập doanh nghiệp ở các nước mà doanh nghiệp đầu tư chuyển về có mức thuế suất thuế thu nhập doanh nghiệp thấp hơn thì thu phần chênh lệch so với số thuế thu nhập doanh nghiệp tính theo Luật thuế thu nhập doanh nghiệp của Việt Nam.*
 
-### Điều 33.11.NĐ.2.15. Thuế suất ưu đãi
+*- Doanh nghiệp Việt Nam đầu tư ra nước ngoài có thu nhập từ hoạt động sản xuất, kinh doanh tại nước ngoài thực hiện kê khai và nộp thuế thu nhập doanh nghiệp theo quy định của Luật Thuế thu nhập doanh nghiệp hiện hành của Việt Nam, kể cả trường hợp doanh nghiệp đang được hưởng ưu đãi miễn, giảm thuế thu nhập theo quy định của nước doanh nghiệp đầu tư. Mức thuế suất thuế thu nhập doanh nghiệp để tính và kê khai thuế đối với các khoản thu nhập từ nước ngoài là 22% (từ ngày 01/01/2016 là 20%), không áp dụng mức thuế suất ưu đãi (nếu có) mà doanh nghiệp Việt Nam đầu tư ra nước ngoài đang được hưởng theo Luật Thuế thu nhập doanh nghiệp hiện hành.*
 
-*Nội dung chưa có sẵn*
+*- Trường hợp khoản thu nhập từ dự án đầu tư tại nước ngoài đã chịu thuế thu nhập doanh nghiệp (hoặc một loại thuế có bản chất tương tự như thuế thu nhập doanh nghiệp) ở nước ngoài, khi tính thuế thu nhập doanh nghiệp phải nộp tại Việt Nam, doanh nghiệp Việt Nam đầu tư ra nước ngoài được trừ số thuế đã nộp ở nước ngoài hoặc đã được đối tác nước tiếp nhận đầu tư trả thay (kể cả thuế đối với tiền lãi cổ phần), nhưng số thuế được trừ không vượt quá số thuế thu nhập tính theo quy định của Luật thuế thu nhập doanh nghiệp của Việt Nam. Số thuế thu nhập doanh nghiệp Việt Nam đầu tư ra nước ngoài được miễn, giảm đối với phần lợi nhuận được hưởng từ dự án đầu tư ở nước ngoài theo luật pháp của nước doanh nghiệp đầu tư cũng được trừ khi xác định số thuế thu nhập doanh nghiệp phải nộp tại Việt Nam.*
 
-**Chỉ mục:** 15
+*- Trường hợp doanh nghiệp Việt Nam đầu tư ở nước ngoài có chuyển phần thu nhập về nước mà không thực hiện kê khai, nộp thuế đối với phần thu nhập chuyển về nước thì cơ quan thuế thực hiện ấn định thu nhập chịu thuế từ hoạt động sản xuất kinh doanh tại nước ngoài theo quy định của Luật Quản lý thuế.*
 
-**Mã phân cấp:** 330110000000000030000130000000000000000000402495202180001500
+*- Hồ sơ đính kèm khi kê khai và nộp thuế của doanh nghiệp Việt Nam đầu tư ra nước ngoài đối với khoản thu nhập từ dự án đầu tư tại nước ngoài bao gồm:*
 
-**ID:** dk_00053946
+*+ Bản chụp Tờ khai thuế thu nhập ở nước ngoài có xác nhận của người nộp thuế;*
 
----
+*+ Bản chụp chứng từ nộp thuế ở nước ngoài có xác nhận của người nộp thuế hoặc bản gốc xác nhận của cơ quan thuế nước ngoài về số thuế đã nộp hoặc bản chụp chứng từ có giá trị tương đương có xác nhận của người nộp thuế.*
 
+*- Khoản thu nhập từ dự án đầu tư tại nước ngoài được kê khai vào quyết toán thuế thu nhập doanh nghiệp của năm có chuyển phần thu nhập về nước theo quy định của pháp luật về đầu tư trực tiếp ra nước ngoài. Khoản thu nhập (lãi), khoản lỗ phát sinh từ dự án đầu tư ở nước ngoài không được trừ vào số lỗ, số thu nhập (lãi) phát sinh trong nước của doanh nghiệp khi tính thuế thu nhập doanh nghiệp.*
 
-### Điều 33.11.TT.4.18. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp
+2. Kỳ tính thuế được xác định theo năm dương lịch. Trường hợp doanh nghiệp áp dụng năm tài chính khác với năm dương lịch thì kỳ tính thuế xác định theo năm tài chính áp dụng. Kỳ tính thuế đầu tiên đối với doanh nghiệp mới thành lập và kỳ tính thuế cuối cùng đối với doanh nghiệp chuyển đổi loại hình doanh nghiệp, chuyển đổi hình thức sở hữu, sáp nhập, chia, tách, giải thể, phá sản được xác định phù hợp với kỳ kế toán theo quy định của pháp luật về kế toán.
+
+3. Trường hợp kỳ tính thuế năm đầu tiên của doanh nghiệp mới thành lập kể từ khi được cấp Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư và kỳ tính thuế năm cuối cùng đối với doanh nghiệp chuyển đổi loại hình doanh nghiệp, chuyển đổi hình thức sở hữu, hợp nhất, sáp nhập, chia, tách, giải thể, phá sản có thời gian ngắn hơn 03 tháng thì được cộng với kỳ tính thuế năm tiếp theo (đối với doanh nghiệp mới thành lập) hoặc kỳ tính thuế năm trước đó (đối với doanh nghiệp chuyển đổi loại hình doanh nghiệp, chuyển đổi hình thức sở hữu, hợp nhất, sáp nhập, chia, tách, giải thể, phá sản) để hình thành một kỳ tính thuế thu nhập doanh nghiệp. Kỳ tính thuế thu nhập doanh nghiệp năm đầu tiên hoặc kỳ tính thuế thu nhập doanh nghiệp năm cuối cùng không vượt quá 15 tháng.
+
+4. Trường hợp doanh nghiệp thực hiện chuyển đổi kỳ tính thuế thu nhập doanh nghiệp (bao gồm cả chuyển đổi kỳ tính thuế từ năm dương lịch sang năm tài chính hoặc ngược lại) thì kỳ tính thuế thu nhập doanh nghiệp của năm chuyển đổi không vượt quá 12 tháng. Doanh nghiệp đang trong thời gian được hưởng ưu đãi thuế thu nhập doanh nghiệp mà có thực hiện chuyển đổi kỳ tính thuế thì doanh nghiệp được lựa chọn: Ưu đãi trong năm chuyển đổi kỳ tính thuế hoặc nộp thuế theo mức thuế suất không được hưởng ưu đãi của năm chuyển đổi kỳ tính thuế và hưởng ưu đãi thuế sang năm tiếp theo.
+
+Ví dụ 1: Doanh nghiệp A (DN A) kỳ tính thuế thu nhập doanh nghiệp năm 2013 áp dụng theo năm dương lịch, đầu năm 2014 lựa chọn chuyển đổi sang năm tài chính từ ngày 01/4 năm này sang ngày 31/03 năm sau, thì kỳ tính thuế thu nhập doanh nghiệp năm chuyển đổi (năm chuyển đổi 2014) được tính từ ngày 01/01/2014 đến hết ngày 31/03/2014 (3 tháng), kỳ tính thuế thu nhập doanh nghiệp năm tiếp theo (năm tài chính 2014) được tính từ ngày 01/04/2014 đến hết ngày 31/03/2015.
+
+Ví dụ 2: Cũng trường hợp nêu trên nhưng DN A được hưởng ưu đãi thuế thu nhập doanh nghiệp (miễn thuế 2 năm, giảm 50% thuế TNDN trong 4 năm tiếp theo), năm 2012 bắt đầu được miễn thuế thì DN A sẽ hưởng ưu đãi thuế như sau (miễn thuế các năm 2012, 2013; giảm 50% thuế các năm 2014, 2015, 2016, 2017).
+
+Trường hợp doanh nghiệp lựa chọn giảm 50% thuế theo kỳ tính thuế năm chuyển đổi 2014 thì doanh nghiệp tiếp tục thực hiện giảm 50% thuế TNDN 3 năm tính thuế tiếp theo tính từ năm tài chính 2014 (năm tài chính 2014 từ 1/4/2014 đến 31/3/2015) đến hết năm tài chính 2016.
+
+Trường hợp doanh nghiệp lựa chọn không hưởng ưu đãi giảm 50% thuế TNDN đối với kỳ tính thuế TNDN năm chuyển đổi 2014 (kỳ tính thuế năm chuyển đổi 2014 kê khai nộp thuế theo mức thuế suất không được hưởng ưu đãi) thì doanh nghiệp được giảm 50% thuế TNDN từ năm tài chính 2014 (từ 1/4/2014 đến 31/3/2015) đến hết năm tài chính 2017.
+
+5. Đơn vị sự nghiệp, tổ chức khác không phải là doanh nghiệp thành lập và hoạt động theo quy định của pháp luật Việt Nam, doanh nghiệp nộp thuế giá trị gia tăng theo phương pháp trực tiếp có hoạt động kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế thu nhập doanh nghiệp mà các đơn vị này xác định được doanh thu nhưng không xác định được chi phí, thu nhập của hoạt động kinh doanh thì kê khai nộp thuế thu nhập doanh nghiệp tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ, cụ thể như sau:
+
++ Đối với dịch vụ (bao gồm cả lãi tiền gửi, lãi tiền cho vay): 5%.
+
+Riêng hoạt động giáo dục, y tế, biểu diễn nghệ thuật: 2%.
+
++ Đối với kinh doanh hàng hóa: 1 %.
+
++ Đối với hoạt động khác: 2%.
+
+Ví dụ 3: Đơn vị sự nghiệp A có phát sinh hoạt động cho thuê nhà, doanh thu cho thuê nhà một (01) năm là 100 triệu đồng, đơn vị không xác định được chi phí, thu nhập của hoạt động cho thuê nhà nêu trên do vậy đơn vị lựa chọn kê khai nộp thuế thu nhập doanh nghiệp tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ như sau:
+
+Số thuế TNDN phải nộp = 100.000.000 đồng x 5% = 5.000.000 đồng.
+
+6. Doanh nghiệp có doanh thu, chi phí và thu nhập khác bằng ngoại tệ thì phải quy đổi ngoại tệ ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước việt Nam công bố tại thời điểm phát sinh doanh thu, chi phí, thu nhập khác bằng ngoại tệ, trừ trường hợp pháp luật có quy định khác. Đối với loại ngoại tệ không có tỷ giá hối đoái với đồng Việt Nam thì phải quy đổi thông qua một loại ngoại tệ có tỷ giá hối đoái với đồng Việt Nam.
+
+(Điều này có nội dung liên quan đến Chương V ẤN ĐỊNH THUẾ)
+
+Điều 33.11.LQ.12. Nơi nộp thuế
+
+(Điều 12 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009)
+
+Doanh nghiệp nộp thuế tại nơi có trụ sở chính. Trường hợp doanh nghiệp có cơ sở sản xuất hạch toán phụ thuộc hoạt động tại địa bàn tỉnh, thành phố trực thuộc Trung ương khác với địa bàn nơi doanh nghiệp có trụ sở chính thì số thuế được tính nộp theo tỷ lệ chi phí giữa nơi có cơ sở sản xuất và nơi có trụ sở chính. Việc phân cấp, quản lý, sử dụng nguồn thu được thực hiện theo quy định của Luật ngân sách nhà nước.
+
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 26.3.LQ.1. Phạm vi điều chỉnh)
+
+Điều 33.11.NĐ.2.12. Nơi nộp thuế
+
+(Điều 12 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
+
+1. Doanh nghiệp nộp thuế tại địa phương nơi đóng trụ sở chính. Trường hợp doanh nghiệp có cơ sở sản xuất hạch toán phụ thuộc ở địa bàn tỉnh, thành phố trực thuộc Trung ương khác với địa phương nơi đóng trụ sở chính thì số thuế được tính nộp ở nơi có trụ sở chính và ở nơi có cơ sở sản xuất.
+
+Số thuế thu nhập doanh nghiệp tính nộp ở tỉnh, thành phố trực thuộc Trung ương nơi có cơ sở sản xuất hạch toán phụ thuộc được xác định bằng số thuế thu nhập doanh nghiệp phải nộp trong kỳ của doanh nghiệp nhân (x) với tỷ lệ giữa chi phí phát sinh tại cơ sở sản xuất hạch toán phụ thuộc với tổng chi phí của doanh nghiệp.
+
+Việc nộp thuế quy định tại Khoản này không áp dụng đối với công trình, hạng mục công trình hay cơ sở xây dựng hạch toán phụ thuộc.
+
+Việc phân cấp, quản lý, sử dụng nguồn thu về thuế thu nhập doanh nghiệp thực hiện theo quy định của Luật ngân sách nhà nước.
+
+2. Đơn vị hạch toán phụ thuộc các doanh nghiệp hạch toán toàn ngành có thu nhập ngoài hoạt động kinh doanh chính thì nộp thuế tại tỉnh, thành phố trực thuộc Trung ương nơi có hoạt động kinh doanh đó.
+
+3. Bộ Tài chính hướng dẫn về nơi nộp thuế quy định tại Điều này.
+
+(Điều này có nội dung liên quan đến Điều 26.3.LQ.9. Nguyên tắc phân cấp quản lý nguồn thu, nhiệm vụ chi và quan hệ giữa các cấp ngân sách)
+
+Điều 33.11.TT.4.12. Nguyên tắc xác định
+
+(Điều 12 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
+
+Doanh nghiệp nộp thuế tại nơi có trụ sở chính. Trường hợp doanh nghiệp có cơ sở sản xuất (bao gồm cả cơ sở gia công, lắp ráp) hạch toán phụ thuộc hoạt động tại địa bàn tỉnh, thành phố trực thuộc trung ương khác với địa bàn nơi doanh nghiệp đóng trụ sở chính thì số thuế được tính nộp ở nơi có trụ sở chính và ở nơi có cơ sở sản xuất.
+
+Việc phân bổ số thuế phải nộp quy định tại khoản này không áp dụng đối với trường hợp doanh nghiệp có các công trình, hạng mục công trình hay cơ sở xây dựng hạch toán phụ thuộc.
+
+Điều 33.11.TT.4.13. Xác định số thuế phải nộp
+
+(Điều 13 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
+
+Số thuế thu nhập doanh nghiệp tính nộp ở tỉnh, thành phố trực thuộc Trung ương nơi có cơ sở sản xuất hạch toán phụ thuộc được xác định bằng số thuế thu nhập doanh nghiệp phải nộp trong kỳ nhân (x) tỷ lệ chi phí của cơ sở sản xuất hạch toán phụ thuộc với tổng chi phí của doanh nghiệp.
+
+Tỷ lệ chi phí được xác định bằng tỷ lệ chi phí giữa tổng chi phí của cơ sở sản xuất hạch toán phụ thuộc với tổng chi phí của doanh nghiệp. Tỷ lệ chi phí được xác định như sau:
+
+ Tỷ lệ chi phí của cơ sở sản xuất hạch toán phụ thuộc
+
+ =
+
+ Tổng chi phí của cơ sở sản xuất hạch toán phụ thuộc
+
+ Tổng chi phí của doanh nghiệp
+
+Số liệu để xác định tỷ lệ chi phí được căn cứ vào số liệu quyết toán thuế thu nhập của doanh nghiệp năm trước liền kề năm tính thuế do doanh nghiệp tự xác định để làm căn cứ xác định số thuế phải nộp và được sử dụng để kê khai, nộp thuế thu nhập doanh nghiệp cho các năm sau.
+
+Trường hợp doanh nghiệp đang hoạt động có các cơ sở sản xuất hạch toán phụ thuộc ở các địa phương, số liệu để xác định tỷ lệ chi phí của trụ sở chính và các cơ sở sản xuất hạch toán phụ thuộc do doanh nghiệp tự xác định căn cứ theo số liệu quyết toán thuế thu nhập doanh nghiệp năm 2008 và tỷ lệ này được sử dụng ổn định từ năm 2009 trở đi.
+
+Trường hợp doanh nghiệp mới thành lập, doanh nghiệp đang hoạt động có thành lập thêm hoặc thu hẹp các cơ sở sản xuất hạch toán phụ thuộc ở các địa phương thì doanh nghiệp phải tự xác định tỷ lệ chi phí cho kỳ tính thuế đầu tiên đối với các trường hợp có sự thay đổi này. Từ kỳ tính thuế tiếp theo tỷ lệ chi phí được sử dụng ổn định theo nguyên tắc nêu trên.
+
+Đơn vị hạch toán phụ thuộc các doanh nghiệp hạch toán toàn ngành có thu nhập ngoài hoạt động kinh doanh chính thì nộp thuế tại tỉnh, thành phố trực thuộc Trung ương nơi phát sinh hoạt động sản xuất kinh doanh đó.
+
+Chương III
+
+ƯU ĐÃI THUẾ THU NHẬP DOANH NGHIỆP
+
+(Chương này có nội dung liên quan đến Điều 30. ; Điều 32. của )
+
+Điều 33.11.LQ.13. Ưu đãi về thuế suất
+
+(Điều 13 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, được sửa đổi, bổ sung theo quy định tại khoản 7 Điều 1 của Luật số 32/2013/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2014; khoản 5, khoản 6, khoản 7, khoản 8 Điều 1 của Luật số 71/2014/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.)
+
+1. Áp dụng thuế suất 10% trong thời gian mười lăm năm đối với:
+
+a) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, khu kinh tế, khu công nghệ cao;
+
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới, bao gồm: nghiên cứu khoa học và phát triển công nghệ; ứng dụng công nghệ cao thuộc danh mục công nghệ cao được ưu tiên đầu tư phát triển theo quy định của Luật công nghệ cao; ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đầu tư mạo hiểm cho phát triển công nghệ cao thuộc danh mục công nghệ cao được ưu tiên đầu tư phát triển theo quy định của Luật công nghệ cao; đầu tư xây dựng - kinh doanh cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đầu tư phát triển cơ sở hạ tầng đặc biệt quan trọng của Nhà nước theo quy định của pháp luật; sản xuất sản phẩm phần mềm; sản xuất vật liệu composit, các loại vật liệu xây dựng nhẹ, vật liệu quý hiếm; sản xuất năng lượng tái tạo, năng lượng sạch, năng lượng từ việc tiêu hủy chất thải; phát triển công nghệ sinh học; bảo vệ môi trường;
+
+c) Thu nhập của doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao theo quy định của Luật công nghệ cao;
+
+d) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới trong lĩnh vực sản xuất (trừ dự án sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt, dự án khai thác khoáng sản) đáp ứng một trong hai tiêu chí sau:
+
+- Dự án có quy mô vốn đầu tư tối thiểu sáu nghìn tỷ đồng, thực hiện giải ngân không quá ba năm kể từ ngày được cấp Giấy chứng nhận đầu tư và có tổng doanh thu tối thiểu đạt mười nghìn tỷ đồng/năm, chậm nhất sau ba năm kể từ năm có doanh thu;
+
+- Dự án có quy mô vốn đầu tư tối thiểu sáu nghìn tỷ đồng, thực hiện giải ngân không quá ba năm kể từ ngày được cấp Giấy chứng nhận đầu tư và sử dụng trên ba nghìn lao động.
+
+đ) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới sản xuất sản phẩm thuộc Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển đáp ứng một trong các tiêu chí sau:
+
+- Sản phẩm công nghiệp hỗ trợ cho công nghệ cao theo quy định của Luật công nghệ cao;
+
+- Sản phẩm công nghiệp hỗ trợ cho sản xuất sản phẩm các ngành: dệt - may; da - giầy; điện tử - tin học; sản xuất lắp ráp ô tô; cơ khí chế tạo mà các sản phẩm này tính đến ngày 01 tháng 01 năm 2015 trong nước chưa sản xuất được hoặc sản xuất được nhưng phải đáp ứng được tiêu chuẩn kỹ thuật của Liên minh Châu Âu (EU) hoặc tương đương.
+
+Chính phủ quy định Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển quy định tại điểm này;
+
+e) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư trong lĩnh vực sản xuất, trừ dự án sản xuất mặt hàng chịu thuế tiêu thụ đặc biệt và dự án khai thác khoáng sản, có quy mô vốn đầu tư tối thiểu mười hai nghìn tỷ đồng, sử dụng công nghệ phải được thẩm định theo quy định của Luật công nghệ cao, Luật khoa học và công nghệ*, *thực hiện giải ngân tổng vốn đầu tư đăng ký không quá năm năm kể từ ngày được phép đầu tư theo quy định của pháp luật về đầu tư.
+
+2. Áp dụng thuế suất 10% đối với:
+
+a) Thu nhập của doanh nghiệp từ thực hiện hoạt động xã hội hóa trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao và môi trường;
+
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư - kinh doanh nhà ở xã hội để bán, cho thuê, cho thuê mua đối với các đối tượng quy định tại Điều 53 của Luật nhà ở;
+
+c) Thu nhập của cơ quan báo chí từ hoạt động báo in, kể cả quảng cáo trên báo in theo quy định của Luật báo chí; thu nhập của cơ quan xuất bản từ hoạt động xuất bản theo quy định của Luật xuất bản;
+
+d) Thu nhập của doanh nghiệp từ: trồng, chăm sóc, bảo vệ rừng; nuôi trồng, chế biến nông sản, thủy sản ở địa bàn có điều kiện kinh tế - xã hội khó khăn; nuôi trồng lâm sản ở địa bàn có điều kiện kinh tế - xã hội khó khăn; sản xuất, nhân và lai tạo giống cây trồng, vật nuôi; sản xuất, khai thác và tinh chế muối, trừ sản xuất muối quy định tại khoản 1 Điều 4 của Luật này; đầu tư bảo quản nông sản sau thu hoạch, bảo quản nông sản, thủy sản và thực phẩm;
+
+đ) Thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp không thuộc địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, trừ thu nhập của hợp tác xã quy định tại khoản 1 Điều 4 của Luật này.
+
+3. Áp dụng thuế suất 20% trong thời gian mười năm đối với:
+
+a) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại địa bàn có điều kiện kinh tế - xã hội khó khăn;
+
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới, bao gồm: sản xuất thép cao cấp; sản xuất sản phẩm tiết kiệm năng lượng; sản xuất máy móc, thiết bị phục vụ cho sản xuất nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp; sản xuất thiết bị tưới tiêu; sản xuất, tinh chế thức ăn gia súc, gia cầm, thủy sản; phát triển ngành nghề truyền thống.
+
+Từ ngày 01 tháng 01 năm 2016, thu nhập của doanh nghiệp quy định tại khoản này được áp dụng thuế suất 17%.
+
+3a. Áp dụng thuế suất 15% đối với thu nhập của doanh nghiệp trồng trọt, chăn nuôi, chế biến trong lĩnh vực nông nghiệp và thủy sản không thuộc địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.
+
+4. Áp dụng thuế suất 20% đối với thu nhập của Quỹ tín dụng nhân dân và tổ chức tài chính vi mô.
+
+Từ ngày 01 tháng 01 năm 2016, thu nhập của Quỹ tín dụng nhân dân và tổ chức tài chính vi mô được áp dụng thuế suất 17%.
+
+5. Việc kéo dài thời gian áp dụng thuế suất ưu đãi được quy định như sau:
+
+a) Đối với dự án cần đặc biệt thu hút đầu tư có quy mô lớn và công nghệ cao thì thời gian áp dụng thuế suất ưu đãi có thể kéo dài thêm nhưng thời gian kéo dài thêm không quá mười lăm năm;
+
+b) Đối với dự án quy định tại điểm e khoản 1 Điều này đáp ứng một trong các tiêu chí sau:
+
+- Sản xuất sản phẩm hàng hóa có khả năng cạnh tranh toàn cầu, doanh thu đạt trên hai mươi nghìn tỷ đồng/năm chậm nhất sau năm năm kể từ khi có doanh thu từ dự án đầu tư;
+
+- Sử dụng thường xuyên trên sáu nghìn lao động;
+
+- Dự án đầu tư thuộc lĩnh vực hạ tầng kinh tế kỹ thuật, bao gồm: đầu tư phát triển nhà máy nước, nhà máy điện, hệ thống cấp thoát nước, cầu, đường bộ, đường sắt, cảng hàng không, cảng biển, cảng sông, sân bay, nhà ga, năng lượng mới, năng lượng sạch, công nghiệp tiết kiệm năng lượng, dự án lọc hóa dầu.
+
+Thủ tướng Chính phủ quyết định kéo dài thêm thời gian áp dụng thuế suất ưu đãi quy định tại điểm này nhưng thời gian kéo dài thêm không quá mười lăm năm.
+
+6. Thời gian áp dụng thuế suất ưu đãi quy định tại Điều này được tính từ năm đầu tiên dự án đầu tư mới của doanh nghiệp có doanh thu; đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được tính từ ngày được cấp giấy chứng nhận là doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao; đối với dự án ứng dụng công nghệ cao được tính từ ngày được cấp giấy chứng nhận dự án ứng dụng công nghệ cao.
+
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 53. Các hình thức phát triển nhà ở xã hội của Luật 65/2014/QH13 Nhà ở ban hành ngày 25/11/2014; Điều 4. Hướng dẫn thực hiện ưu đãi thuế thu nhập doanh nghiệp của Thông tư 83/2016/TT-BTC Hướng dẫn thực hiện ưu đãi đầu tư theo quy định của Luật đầu tư và Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư ban hành ngày 17/06/2016; Điều 33.11.LQ.10. Thuế suất; Điều 33.11.LQ.14. Ưu đãi về thời gian miễn thuế, giảm thuế; Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế của Luật 14/2008/QH12 Thuế thu nhập doanh nghiệp ban hành ngày 03/06/2008; Điều 19.3.LQ.6. Sản phẩm công nghệ cao được khuyến khích phát triển; Điều 19.3.LQ.18. Doanh nghiệp công nghệ cao; Điều 19.3.LQ.19. Doanh nghiệp nông nghiệp ứng dụng công nghệ cao; Điều 19.3.LQ.22. Các biện pháp thúc đẩy ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; Điều 19.3.LQ.24. Đầu tư mạo hiểm cho phát triển công nghệ cao của Luật 21/2008/QH12 Công nghệ cao ban hành ngày 13/11/2008; Điều 19.5.LQ.64. Chính sách thuế đối với hoạt động khoa học và công nghệ)
+
+Điều 33.11.NĐ.2.15. Thuế suất ưu đãi
+
+(Điều 15 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014, có nội dụng được sửa đổi, bổ sung theo quy định tại khoản 9, khoản 10, khoản 11, khoản 12, khoản 13, khoản 14, khoản 15 Điều 1 Nghị định số 12/2015/ NĐ-CP, có hiệu lực từ ngày 01 tháng 01 năm 2015.)
+
+1. Thuế suất ưu đãi 10% trong thời hạn 15 năm áp dụng đối với:
+
+a) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định này, khu kinh tế, khu công nghệ cao kể cả khu công nghệ thông tin tập trung được thành lập theo Quyết định của Thủ tướng Chính phủ;
+
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới thuộc các lĩnh vực: Nghiên cứu khoa học và phát triển công nghệ; ứng dụng công nghệ cao thuộc danh mục công nghệ cao được ưu tiên đầu tư phát triển theo quy định của Luật công nghệ cao; ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đầu tư mạo hiểm cho phát triển công nghệ cao thuộc danh mục công nghệ cao được ưu tiên phát triển theo quy định của pháp luật về công nghệ cao; đầu tư xây dựng - kinh doanh cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đầu tư phát triển nhà máy nước, nhà máy điện, hệ thống cấp thoát nước; cầu, đường bộ, đường sắt; cảng hàng không, cảng biển, cảng sông; sân bay, nhà ga và công trình cơ sở hạ tầng đặc biệt quan trọng khác do Thủ tướng Chính phủ quyết định; sản xuất sản phẩm phần mềm; sản xuất vật liệu composit, các loại vật liệu xây dựng nhẹ, vật liệu quý hiếm; sản xuất năng lượng tái tạo, năng lượng sạch, năng lượng từ việc tiêu hủy chất thải; phát triển công nghệ sinh học.
+
+Dự án đầu tư sản xuất sản phẩm phần mềm quy định tại Điểm này là dự án đầu tư sản xuất sản phẩm phần mềm thuộc danh mục sản phẩm phần mềm và đáp ứng quy trình về sản xuất sản phẩm phần mềm theo quy định của pháp luật;
+
+c) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới thuộc lĩnh vực bảo vệ môi trường, bao gồm: Sản xuất thiết bị xử lý ô nhiễm môi trường, thiết bị quan trắc và phân tích môi trường; xử lý ô nhiễm và bảo vệ môi trường; thu gom, xử lý nước thải, khí thải, chất thải rắn; tái chế, tái sử dụng chất thải;
+
+d) Doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
+
+Trường hợp doanh nghiệp đang hưởng ưu đãi thuế thu nhập doanh nghiệp hoặc đã hưởng hết ưu đãi thuế thu nhập doanh nghiệp theo quy định của các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp mà được cấp Giấy chứng nhận doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao thì mức ưu đãi đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được xác định bằng mức ưu đãi áp dụng cho doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao quy định tại Khoản 1 Điều 15 và Khoản 1 Điều 16 Nghị định này trừ đi thời gian ưu đãi đã hưởng (cả về thuế suất và thời gian miễn, giảm nếu có);
+
+*đ) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới trong lĩnh vực sản xuất (trừ dự án sản xuất mặt hàng chịu thuế tiêu thụ đặc biệt, dự án khai thác khoáng sản) đáp ứng một trong hai tiêu chí sau:*
+
+*- Dự án có quy mô vốn đầu tư tối thiểu 6 (sáu) nghìn tỷ đồng, thực hiện giải ngân không quá 3 năm kể từ thời điểm được phép đầu tư lần đầu theo quy định của pháp luật về đầu tư và có tổng doanh thu tối thiểu đạt 10 (mười) nghìn tỷ đồng/năm chậm nhất sau 3 năm kể từ năm có doanh thu.*
+
+*- Dự án có quy mô vốn đầu tư tối thiểu 6 (sáu) nghìn tỷ đồng, thực hiện giải ngân không quá 3 năm kể từ thời điểm được phép đầu tư lần đầu theo quy định của pháp luật về đầu tư và sử dụng thường xuyên trên 3.000 lao động chậm nhất sau 3 năm kể từ năm có doanh thu.*
+
+*Số lao động sử dụng thường xuyên được xác định theo quy định của pháp luật về lao động.*
+
+*e) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư trong lĩnh vực sản xuất, trừ dự án sản xuất mặt hàng chịu thuế tiêu thụ đặc biệt và dự án khai thác khoáng sản, có quy mô vốn đầu tư tối thiểu 12.000 (mười hai nghìn) tỷ đồng, sử dụng công nghệ phải được thẩm định theo quy định của Luật Công nghệ cao, Luật Khoa học và công nghệ, thực hiện giải ngân tổng vốn đầu tư đăng ký không quá 5 năm kể từ ngày được phép đầu tư theo quy định của pháp luật về đầu tư.*
+
+*g) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới sản xuất sản phẩm thuộc Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển đáp ứng một trong các tiêu chí sau:*
+
+*- Sản phẩm công nghiệp hỗ trợ cho công nghệ cao theo quy định của Luật Công nghệ cao;*
+
+*- Sản phẩm công nghiệp hỗ trợ cho sản xuất sản phẩm các ngành: Dệt - may; da - giầy; điện tử - tin học; sản xuất lắp ráp ô tô; cơ khí chế tạo mà các sản phẩm này tính đến ngày 01 tháng 01 năm 2015 trong nước chưa sản xuất được hoặc sản xuất được nhưng phải đáp ứng được tiêu chuẩn kỹ thuật của Liên minh Châu Âu (EU) hoặc tương đương.*
+
+*Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển được ưu đãi thuế quy định tại Khoản này thực hiện theo quy định của Chính phủ.*
+
+2. Áp dụng thuế suất 10% đối với các khoản thu nhập sau:
+
+*a) Phần thu nhập của doanh nghiệp từ thực hiện hoạt động xã hội hóa trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao, môi trường, giám định tư pháp.*
+
+*Danh mục loại hình, tiêu chí quy mô, tiêu chuẩn của các doanh nghiệp thực hiện xã hội hóa quy định tại Khoản này do Thủ tướng Chính phủ quy định;*
+
+b) Phần thu nhập từ hoạt động xuất bản của Nhà xuất bản theo quy định của Luật xuất bản;
+
+c) Phần thu nhập từ hoạt động báo in (kể cả quảng cáo trên báo in) của cơ quan báo chí theo quy định của Luật báo chí;
+
+d) Phần thu nhập của doanh nghiệp từ thực hiện dự án đầu tư - kinh doanh nhà ở xã hội để bán, cho thuê, cho thuê mua đối với các đối tượng quy định tại Điều 53 Luật nhà ở.
+
+Nhà ở xã hội quy định tại Khoản này là nhà ở do Nhà nước hoặc tổ chức, cá nhân thuộc các thành phần kinh tế đầu tư xây dựng và đáp ứng các tiêu chí về nhà ở, về giá bán nhà, về giá cho thuê, về giá cho thuê mua, về đối tượng, điều kiện được mua, được thuê, được thuê mua nhà ở xã hội theo quy định của pháp luật về nhà ở và việc xác định thu nhập được áp dụng thuế suất 10% quy định tại Khoản này không phụ thuộc vào thời điểm ký hợp đồng bán, cho thuê hoặc cho thuê mua nhà ở xã hội;
+
+*đ) Thu nhập của doanh nghiệp từ: Trồng, chăm sóc, bảo vệ rừng; thu nhập từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản ở địa bàn có điều kiện kinh tế xã hội khó khăn; nuôi trồng lâm sản ở địa bàn có điều kiện kinh tế xã hội khó khăn; sản xuất, nhân và lai tạo giống cây trồng, vật nuôi; sản xuất, khai thác và tinh chế muối, trừ sản xuất muối quy định tại Khoản 1 Điều 4 của Nghị định này; đầu tư bảo quản nông sản sau thu hoạch, bảo quản nông sản, thủy sản và thực phẩm, bao gồm cả đầu tư để trực tiếp bảo quản hoặc đầu tư để cho thuê bảo quản nông sản, thủy sản và thực phẩm;*
+
+e) Phần thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp không thuộc địa bàn kinh tế - xã hội khó khăn và địa bàn kinh tế - xã hội đặc biệt khó khăn, trừ thu nhập của hợp tác xã quy định tại Khoản 1 Điều 4 Nghị định này.
+
+3. Thuế suất 20% trong thời gian mười năm áp dụng đối với:
+
+a)Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại địa bàn có điều kiện kinh tế - xã hội khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định này
+
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới: Sản xuất thép cao cấp; sản xuất sản phẩm tiết kiệm năng lượng; sản xuất máy móc, thiết bị phục vụ cho sản xuất nông, lâm, ngư, diêm nghiệp; sản xuất thiết bị tưới tiêu; sản xuất, tinh chế thức ăn gia súc, gia cầm, thủy sản; phát triển ngành nghề truyền thống.
+
+Doanh nghiệp thực hiện dự án đầu tư mới vào các lĩnh vực, địa bàn ưu đãi thuế quy định tại các Điểm a, b Khoản này kể từ ngày 01 tháng 01 năm 2016 áp dụng thuế suất 17%.
+
+*3a. Áp dụng thuế suất 15% đối với thu nhập của doanh nghiệp trồng trọt, chăn nuôi, chế biến trong lĩnh vực nông nghiệp và thủy sản ở địa bàn không thuộc địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.*
+
+4. Thuế suất 20% đối với quỹ tín dụng nhân dân và tổ chức tài chính vi mô và kể từ ngày 01 tháng 01 năm 2016 áp dụng thuế suất là 17%.
+
+Đối với quỹ tín dụng nhân dân, tổ chức tài chính vi mô sau khi hết thời hạn áp dụng mức thuế suất 10% quy định tại Khoản 1 Điều này thì chuyển sang áp dụng mức thuế suất 20% (và kể từ ngày 01 tháng 01 năm 2016 là 17%). Tổ chức tài chính vi mô quy định tại Khoản này là tổ chức được thành lập và hoạt động theo quy định của Luật các tổ chức tín dụng.
+
+5. Đối với dự án thuộc đối tượng ưu đãi thuế quy định tại các Điểm b, c Khoản 1 Điều này có quy mô lớn và công nghệ cao hoặc mới cần đặc biệt thu hút đầu tư thì thời gian áp dụng thuế suất ưu đãi có thể kéo dài thêm nhưng tổng thời gian áp dụng thuế suất 10% không quá 30 năm. Thủ tướng Chính phủ quyết định việc kéo dài thêm thời gian áp dụng thuế suất ưu đãi 10% quy định tại Khoản này theo đề nghị của Bộ trưởng Bộ Tài chính.
+
+*5a. Dự án quy định tại Điểm e Khoản 1 Điều này được kéo dài thêm thời gian áp dụng thuế suất ưu đãi nhưng không quá 15 năm nếu đáp ứng một trong các tiêu chí:*
+
+*- Sản xuất sản phẩm hàng hóa có khả năng cạnh tranh toàn cầu, doanh thu đạt trên 20.000 tỷ đồng/năm chậm nhất sau năm năm kể từ khi có doanh thu từ dự án đầu tư;*
+
+*- Sử dụng thường xuyên trên 6.000 lao động được xác định theo quy định của pháp luật về lao động;*
+
+*- Dự án đầu tư thuộc lĩnh vực hạ tầng kinh tế kỹ thuật, bao gồm: Đầu tư phát triển nhà máy nước, nhà máy điện, hệ thống cấp thoát nước, cầu, đường bộ, đường sắt, cảng hàng không, cảng biển, cảng sông, sân bay, nhà ga, năng lượng mới, năng lượng sạch, công nghiệp tiết kiệm năng lượng, dự án lọc hóa dầu.*
+
+*Thủ tướng Chính phủ quyết định kéo dài thêm thời gian áp dụng thuế suất ưu đãi quy định tại Điểm này theo đề nghị của Bộ trưởng Bộ Tài chính.*
+
+6. Thời gian áp dụng thuế suất ưu đãi quy định tại Điều này được tính liên tục từ năm đầu tiên doanh nghiệp có doanh thu từ dự án đầu tư mới; đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được tính từ ngày được công nhận là doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao; đối với dự án ứng dụng công nghệ cao được tính từ ngày được cấp giấy chứng nhận dự án ứng dụng công nghệ cao.
+
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh của Luật 19/2012/QH13 Luật xuất bản ban hành ngày 20/11/2012; Điều 53. Các hình thức phát triển nhà ở xã hội của Luật 65/2014/QH13 Nhà ở ban hành ngày 25/11/2014; Điều 1. Phạm vi điều chỉnh của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Điều 19.3.LQ.1. Phạm vi điều chỉnh; Điều 19.3.LQ.18. Doanh nghiệp công nghệ cao; Điều 19.3.LQ.19. Doanh nghiệp nông nghiệp ứng dụng công nghệ cao; Điều 19.3.LQ.22. Các biện pháp thúc đẩy ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao của Luật 21/2008/QH12 Công nghệ cao ban hành ngày 13/11/2008; Điều 22.3.LQ.1. Phạm vi điều chỉnh; Điều 19.5.LQ.1. Phạm vi điều chỉnh; Điều 32.1.LQ.1. Phạm vi Điều chỉnh của Luật 103/2016/QH13 Báo chí ban hành ngày 05/04/2016; Điều 33.11.NĐ.2.4. Thu nhập được miễn thuế; Điều 33.11.NĐ.2.10. Thuế suất; Điều 33.11.NĐ.2.15. Thuế suất ưu đãi; Điều 33.11.NĐ.2.16. Miễn thuế, giảm thuế; Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp; Điều 14.3.QĐ.7.4. Nguyên tắc tổ chức tìm kiếm, cứu nạn giao thông đường thủy nội địa của Quyết định 51/2015/QĐ-TTg Về quy định tổ chức tìm kiếm, cứu nạn giao thông đường thủy nội địa ban hành ngày 14/10/2015; Điều 33.11.TT.4.18. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp; Điều 33.11.TT.4.19. Thuế suất ưu đãi)
 
 Điều 33.11.TT.4.18. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi bởi Điều 10 Thông tư số 96/2015/TT-BTC có hiệu lực thi hành kể từ ngày 06/08/2015; Điều 5 Thông tư số 130/2016/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 33011000000000003000013000000000000000000040249520218000150000802512600780001800
+1. Các ưu đãi về thuế thu nhập doanh nghiệp chỉ áp dụng đối với doanh nghiệp thực hiện chế độ kế toán, hóa đơn, chứng từ và nộp thuế thu nhập doanh nghiệp theo kê khai.
 
-**ID:** dk_00053947
+2. Trong thời gian đang được hưởng ưu đãi thuế thu nhập doanh nghiệp nếu doanh nghiệp thực hiện nhiều hoạt động sản xuất, kinh doanh thì doanh nghiệp phải tính riêng thu nhập từ hoạt động sản xuất, kinh doanh được hưởng ưu đãi thuế thu nhập doanh nghiệp (bao gồm mức thuế suất ưu đãi, mức miễn thuế, giảm thuế) và thu nhập từ hoạt động kinh doanh không được hưởng ưu đãi thuế để kê khai nộp thuế riêng.
 
----
+Trường hợp trong kỳ tính thuế, doanh nghiệp không tính riêng thu nhập từ hoạt động sản xuất kinh doanh được hưởng ưu đãi thuế và thu nhập từ hoạt động sản xuất kinh doanh không được hưởng ưu đãi thuế thì phần thu nhập của hoạt động sản xuất kinh doanh ưu đãi thuế xác định bằng (=) tổng thu nhập tính thuế nhân (x) với tỷ lệ phần trăm (%) doanh thu hoặc chi phí được trừ của hoạt động sản xuất kinh doanh ưu đãi thuế so với tổng doanh thu hoặc tổng chi phí được trừ của doanh nghiệp trong kỳ tính thuế.
 
+Trường hợp có khoản doanh thu hoặc chi phí được trừ không thể hạch toán riêng được thì khoản doanh thu hoặc chi phí được trừ đó xác định theo tỷ lệ giữa doanh thu hoặc chi phí được trừ của hoạt động sản xuất, kinh doanh hưởng ưu đãi thuế trên tổng doanh thu hoặc chi phí được trừ của doanh nghiệp.
 
-### Điều 33.11.TT.4.19. Thuế suất ưu đãi
+3. Không áp dụng ưu đãi thuế thu nhập doanh nghiệp và không áp dụng thuế suất 20% (bao gồm cả doanh nghiệp thuộc diện áp dụng thuế suất 20% theo quy định tại Khoản 2 Điều 11 Thông tư số 78/2014/TT-BTC) đối với các khoản thu nhập sau:
 
-*Nội dung chưa có sẵn*
+a) Thu nhập từ chuyển nhượng vốn, chuyển nhượng quyền góp vốn; thu nhập từ chuyển nhượng bất động sản (trừ thu nhập từ đầu tư kinh doanh nhà ở xã hội quy định tại điểm d Khoản 3 Điều 19 Thông tư số 78/2014/TT-BTC); thu nhập từ chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác khoáng sản; thu nhập nhận được từ hoạt động sản xuất, kinh doanh ở ngoài Việt Nam.
 
-**Chỉ mục:** 19
+b) Thu nhập từ hoạt động tìm kiếm, thăm dò, khai thác dầu, khí, tài nguyên quý hiếm khác và thu nhập từ hoạt động khai thác khoáng sản.
 
-**Mã phân cấp:** 33011000000000003000013000000000000000000040249520218000150000802512600780001900
+c) Thu nhập từ kinh doanh dịch vụ thuộc diện chịu thuế tiêu thụ đặc biệt theo quy định của Luật Thuế tiêu thụ đặc biệt.
 
-**ID:** dk_00053948
+4. Doanh nghiệp có dự án đầu tư được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về lĩnh vực ưu đãi đầu tư, địa bàn ưu đãi đầu tư xác định ưu đãi như sau:
 
----
+a) Doanh nghiệp có dự án đầu tư được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về lĩnh vực ưu đãi đầu tư thì các khoản thu nhập từ lĩnh vực ưu đãi đầu tư và các khoản thu nhập như thanh lý phế liệu, phế phẩm của sản phẩm thuộc lĩnh vực được ưu đãi đầu tư, chênh lệch tỷ giá liên quan trực tiếp đến doanh thu, chi phí của lĩnh vực được ưu đãi, lãi tiền gửi ngân hàng không kỳ hạn, các khoản thu nhập có liên quan trực tiếp khác cũng được hưởng ưu đãi thuế thu nhập doanh nghiệp.
 
+b) Doanh nghiệp có dự án đầu tư được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện ưu đãi về địa bàn (bao gồm cả khu công nghiệp, khu kinh tế, khu công nghệ cao) thì thu nhập được hưởng ưu đãi thuế thu nhập doanh nghiệp là toàn bộ thu nhập phát sinh từ hoạt động sản xuất kinh doanh trên địa bàn ưu đãi trừ các khoản thu nhập nêu tại điểm a, b, c Khoản 1 Điều này.
 
-### Điều 33.11.LQ.14. Ưu đãi về thời gian miễn thuế, giảm thuế
+- Doanh nghiệp có dự án đầu tư trong lĩnh vực kinh doanh vận tải được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện ưu đãi về địa bàn (bao gồm cả khu công nghiệp, khu kinh tế, khu công nghệ cao) thì doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp đối với thu nhập từ hoạt động dịch vụ vận tải căn cứ theo địa bàn thành lập dự án đầu tư thuộc địa bàn được hưởng ưu đãi thuế và có điểm đi hoặc điểm đến thuộc địa bàn thành lập dự án đầu tư.
+
+Ví dụ 15a: Năm 2015, doanh nghiệp thành lập mới tại địa bàn tỉnh Sơn La (thuộc địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn) hoạt động trong lĩnh vực kinh doanh dịch vụ vận tải. Doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn.
+
+Trong năm 2015, doanh nghiệp có nhiều tuyến xe chạy cố định (đi từ Sơn La đến thành phố Hà Nội và ngược lại; đi từ Sơn La đến thành phố Hạ Long và ngược lại) và tuyến xe chạy theo các hợp đồng (đi từ Sơn La đến thành phố Đà Nẵng và ngược lại; đi từ thành phố Hà Nội đến thành phố Đà Nẵng và ngược lại; đi từ thành phố Bắc Ninh đến Sơn La).
+
+Việc xác định ưu đãi thuế thu nhập doanh nghiệp đối với thu nhập từ hoạt động dịch vụ vận tải của doanh nghiệp căn cứ theo địa bàn thành lập dự án đầu tư (địa bàn tỉnh Sơn La - thuộc địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn) và có điểm đi hoặc điểm đến thuộc địa bàn thành lập dự án đầu tư (địa bàn tỉnh Sơn La), cụ thể như sau:
+
++ Thu nhập từ hoạt động dịch vụ vận tải đối với các tuyến xe được hưởng ưu đãi thuế thu nhập doanh nghiệp do có điểm đi hoặc điểm đến tại địa bàn tỉnh Sơn La: tuyến xe cố định (đi từ Sơn La đến thành phố Hà Nội và ngược lại; đi từ Sơn La đến thành phố Hạ Long và ngược lại) và tuyến xe chạy theo các hợp đồng (đi từ Sơn La đến thành phố Đà Nẵng và ngược lại; đi từ thành phố Bắc Ninh đến Sơn La).
+
++ Thu nhập từ hoạt động dịch vụ vận tải đối với tuyến xe không được hưởng ưu đãi thuế thu nhập doanh nghiệp do điểm đi hoặc điểm đến không thuộc địa bàn tỉnh Sơn La: tuyến xe đi từ thành phố Hà Nội đến thành phố Đà Nẵng và ngược lại.
+
+- Doanh nghiệp có dự án đầu tư được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn có phát sinh thu nhập ngoài địa bàn thực hiện dự án đầu tư thì:
+
+(i) Nếu khoản thu nhập này phát sinh tại địa bàn không thuộc địa bàn ưu đãi đầu tư thì không được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện địa bàn.
+
+(ii) Nếu khoản thu nhập này phát sinh tại địa bàn thuộc địa bàn ưu đãi đầu tư thì được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện địa bàn. Việc xác định ưu đãi thuế thu nhập doanh nghiệp đối với khoản thu nhập này được xác định theo từng địa bàn căn cứ theo thời gian và mức ưu đãi thuế thu nhập doanh nghiệp của doanh nghiệp tại địa bàn thực hiện dự án đầu tư.
+
+* Ví dụ 15b: Ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn (hoạt động trong lĩnh vực sản xuất):
+
+Năm 2015, doanh nghiệp có dự án đầu tư mới để thực hiện dự án sản xuất tại địa bàn tỉnh Hà Giang (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn). Doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn.
+
+Trong năm 2015, doanh nghiệp bắt đầu sản xuất sản phẩm tại địa bàn tỉnh Hà Giang và xuất bản sản phẩm tại tỉnh Hà Giang (địa bàn thực hiện dự án - địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn) và các tỉnh lân cận (ngoài địa bàn tỉnh Hà Giang) như tỉnh Cao Bằng (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn), thành phố Lào Cai (địa bàn có điều kiện kinh tế xã hội khó khăn), thành phố Hà Nội (không thuộc địa bàn ưu đãi). Do sản phẩm bán ra đều sản xuất tại tỉnh Hà Giang (địa bàn thực hiện dự án đầu tư) nên thu nhập từ sản phẩm bán ở tỉnh Hà Giang và các tỉnh khác đều được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện sản xuất tại địa bàn tỉnh Hà Giang.
+
+* Ví dụ 15c: Ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn (hoạt động trong lĩnh vực xây dựng):
+
+Năm 2015, doanh nghiệp thành lập mới tại địa bàn tỉnh Hà Giang (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn) hoạt động trong lĩnh vực xây dựng. Doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn.
+
+Trong năm 2015, doanh nghiệp thực hiện hoạt động xây dựng tại địa bàn tỉnh Hà Giang, đồng thời có hoạt động xây dựng tại các tỉnh lân cận như tỉnh Cao Bằng (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn), thành phố Lào Cai (địa bàn có điều kiện kinh tế xã hội khó khăn), thành phố Hà Nội (không thuộc địa bàn ưu đãi). Do hoạt động xây dựng thực hiện tại địa bàn tỉnh Hà Giang nên thu nhập từ hoạt động xây dựng tại địa bàn tỉnh Hà Giang được hưởng ưu đãi thuế thu nhập doanh nghiệp theo địa bàn tỉnh Hà Giang. Đối với thu nhập từ hoạt động xây dựng tại các tỉnh lân cận thì xác định ưu đãi thuế thu nhập doanh nghiệp như sau:
+
++ Đối với thu nhập tại địa bàn tỉnh Cao Bằng (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn): được hưởng ưu đãi thuế thu nhập doanh nghiệp theo mức và thời gian ưu đãi thuế còn lại của doanh nghiệp.
+
++ Đối với thu nhập tại địa bàn thành phố Lào Cai (địa bàn có điều kiện kinh tế xã hội khó khăn): được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện địa bàn có điều kiện kinh tế xã hội khó khăn theo mức và thời gian ưu đãi thuế thu nhập doanh nghiệp theo điều kiện tại địa bàn thành phố Lào Cai cho thời gian còn lại của doanh nghiệp.
+
++ Đối với thu nhập tại địa bàn thành phố Hà Nội (không thuộc địa bàn ưu đãi): không được hưởng ưu đãi thuế thu nhập doanh nghiệp do hoạt động xây dựng thực hiện tại địa bàn không thuộc địa bàn ưu đãi.
+
+* Ví dụ 15d: Ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn (hoạt động trong lĩnh vực dịch vụ):
+
+Năm 2015, doanh nghiệp thành lập mới tại địa bàn tỉnh Hà Giang (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn) hoạt động trong lĩnh vực dịch vụ. Doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn.
+
+Trong năm 2015, doanh nghiệp có hoạt động dịch vụ tại địa bàn tỉnh Hà Giang, đồng thời có hoạt động dịch vụ tại các tỉnh lân cận như tỉnh Cao Bằng (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn), thành phố Lào Cai (địa bàn có điều kiện kinh tế xã hội khó khăn), thành phố Hà Nội (không thuộc địa bàn ưu đãi). Do hoạt động dịch vụ thực hiện tại địa bàn tỉnh Hà Giang nên thu nhập từ hoạt động dịch vụ tại địa bàn tỉnh Hà Giang được hưởng ưu đãi thuế thu nhập doanh nghiệp theo địa bàn tỉnh Hà Giang. Đối với thu nhập từ hoạt động dịch vụ tại các tỉnh lân cận thì xác định ưu đãi thuế thu nhập doanh nghiệp như sau:
+
++ Đối với thu nhập tại địa bàn tỉnh Cao Bằng (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn): được hưởng ưu đãi thuế thu nhập doanh nghiệp theo mức và thời gian ưu đãi thuế còn lại của doanh nghiệp.
+
++ Đối với thu nhập tại địa bàn thành phố Lào Cai (địa bàn có điều kiện kinh tế xã hội khó khăn): được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện địa bàn có điều kiện kinh tế xã hội khó khăn theo mức và thời gian ưu đãi thuế thu nhập doanh nghiệp theo điều kiện tại địa bàn thành phố Lào Cai cho thời gian còn lại của doanh nghiệp.
+
++ Đối với thu nhập tại địa bàn thành phố Hà Nội (không thuộc địa bàn ưu đãi): không được hưởng ưu đãi thuế thu nhập doanh nghiệp do hoạt động dịch vụ thực hiện tại địa bàn không thuộc địa bàn ưu đãi.
+
+c) Doanh nghiệp thuộc diện áp dụng thuế suất 20% được áp dụng thuế suất 20% trên toàn bộ thu nhập của doanh nghiệp trừ các khoản thu nhập nêu tại điểm a, b, c Khoản 1 Điều này.
+
+5. Về dự án đầu tư mới:
+
+a) Dự án đầu tư mới được hưởng ưu đãi thuế thu nhập doanh nghiệp quy định tại Điều 15, Điều 16 Nghị định số 218/2013/NĐ-CP là:
+
+- Dự án được cấp Giấy chứng nhận đầu tư lần đầu từ ngày 01/01/2014 và phát sinh doanh thu của dự án đó sau khi được cấp Giấy chứng nhận đầu tư.
+
+- Dự án đầu tư trong nước gắn với việc thành lập doanh nghiệp mới có vốn đầu tư dưới 15 tỷ đồng Việt Nam và không thuộc Danh mục lĩnh vực đầu tư có điều kiện được cấp Giấy chứng nhận đăng ký doanh nghiệp từ ngày 01/01/2014.
+
+- Dự án đầu tư độc lập với dự án doanh nghiệp đang hoạt động (kể cả trường hợp dự án có vốn đầu tư dưới 15 tỷ đồng Việt Nam và không thuộc Danh mục lĩnh vực đầu tư có điều kiện) có Giấy chứng nhận đầu tư từ ngày 01/01/2014 để thực hiện dự án đầu tư độc lập này.
+
+- Văn phòng công chứng thành lập tại các địa bàn có điều kiện kinh tế xã hội khó khăn, đặc biệt khó khăn.
+
+Dự án đầu tư mới được hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định phải được cơ quan Nhà nước có thẩm quyền cấp Giấy phép đầu tư hoặc Giấy chứng nhận đầu tư hoặc được phép đầu tư theo quy định của pháp luật về đầu tư.
+
+b) Dự án đầu tư mới được hưởng ưu đãi thuế thu nhập doanh nghiệp theo diện đầu tư mới không bao gồm các các trường hợp sau:
+
+- Dự án đầu tư hình thành từ việc: chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức doanh nghiệp theo quy định của pháp luật;
+
+- Dự án đầu tư hình thành từ việc chuyển đổi chủ sở hữu (bao gồm cả trường hợp thực hiện dự án đầu tư mới nhưng vẫn kế thừa tài sản, địa điểm kinh doanh, ngành nghề kinh doanh của doanh nghiệp cũ để tiếp tục hoạt động sản xuất kinh doanh; mua lại dự án đầu tư đang hoạt động).
+
+Doanh nghiệp thành lập hoặc doanh nghiệp có dự án đầu tư từ việc chuyển đổi loại hình doanh nghiệp, chuyển đổi sở hữu, chia, tách, sáp nhập, hợp nhất được kế thừa các ưu đãi về thuế thu nhập doanh nghiệp của doanh nghiệp hoặc dự án đầu tư trước khi chuyển đổi, chia, tách, sáp nhập, hợp nhất trong thời gian còn lại nếu tiếp tục đáp ứng các điều kiện ưu đãi thuế thu nhập doanh nghiệp.
+
+c) Đối với doanh nghiệp đang được hưởng ưu đãi thuế thu nhập doanh nghiệp theo diện doanh nghiệp mới thành lập từ dự án đầu tư chỉ áp dụng đối với thu nhập từ hoạt động sản xuất kinh doanh đáp ứng điều kiện ưu đãi đầu tư ghi trong giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận đầu tư lần đầu của doanh nghiệp. Đối với doanh nghiệp đang hoạt động sản xuất kinh doanh nếu có sự thay đổi giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận đầu tư nhưng sự thay đổi đó không làm thay đổi việc đáp ứng các điều kiện ưu đãi thuế của dự án đó theo quy định thì doanh nghiệp tiếp tục được hưởng ưu đãi thuế cho thời gian còn lại hoặc ưu đãi theo diện đầu tư mở rộng nếu đáp ứng điều kiện ưu đãi theo quy định.
+
+d) Đối với dự án đầu tư được cấp phép đầu tư mà trong Hồ sơ đăng ký đầu tư lần đầu gửi cơ quan cấp phép đầu tư đã đăng ký số vốn đầu tư, phân kỳ đầu tư kèm tiến độ thực hiện đầu tư.; trường hợp các giai đoạn tiếp theo thực tế có thực hiện được coi là dự án thành phần của dự án đầu tư đã được cấp phép lần đầu nếu thực hiện theo tiến độ (trừ trường hợp bất khả kháng, khó khăn do nguyên nhân khách quan trong khâu giải phóng mặt bằng, giải quyết thủ tục hành chính của cơ quan Nhà nước, do thiên tai, hỏa hoạn hoặc khó khăn, bất khả kháng khác) thì các dự án thành phần của dự án đầu tư lần đầu được hưởng ưu đãi thuế cho thời gian còn lại của dự án đầu tư lần đầu tính từ thời điểm dự án thành phần có thu nhập được hưởng ưu đãi.
+
+Đối với dự án đầu tư được cấp phép đầu tư trước ngày 01/01/2014 mà có thực hiện phân kỳ đầu tư như trường hợp nêu trên thì dự án thành phần được hưởng ưu đãi thuế theo mức ưu đãi đang áp dụng đối với dự án đầu tư lần đầu cho thời gian ưu đãi còn lại tính từ ngày 01/01/2014.
+
+Thu nhập của các dự án thành phần của dự án đầu tư lần đầu trước ngày 01/01/2014 đã được hưởng ưu đãi về thuế thu nhập doanh nghiệp theo quy định tại các văn bản quy phạm pháp luật trước ngày 01/01/2014 thì không thực hiện điều chỉnh lại các ưu đãi thuế đã được hưởng trước ngày 01/01/2014.
+
+Trong thời gian triển khai các dự án thành phần theo từng giai đoạn nêu trên nếu nhà đầu tư được cơ quan quản lý Nhà nước về đầu tư (quy định tại Luật Đầu tư số 59/2005/QH11 ngày 29/11/2005 và các văn bản quy phạm pháp luật hướng dẫn thi hành) cho phép gia hạn thực hiện dự án và doanh nghiệp thực hiện theo đúng thời hạn đã được gia hạn thì cũng được hưởng ưu đãi thuế theo quy định nêu trên.
+
+đ) Doanh nghiệp hoạt động trong lĩnh vực xã hội hóa được thành lập do chuyển đổi loại hình doanh nghiệp theo quy định của pháp luật đáp ứng tiêu chí về cơ sở xã hội hóa theo Quyết định của Thủ tướng Chính phủ mà doanh nghiệp trước khi chuyển đổi chưa được hưởng ưu đãi thuế thu nhập doanh nghiệp theo lĩnh vực ưu đãi thuế thì được hưởng ưu đãi thuế như dự án đầu tư mới kể từ khi chuyển đổi.
+
+Trường hợp doanh nghiệp khi chuyển đổi loại hình doanh nghiệp đáp ứng tiêu chí về cơ sở xã hội hóa theo Quyết định của Thủ tướng Chính phủ đang được áp dụng thuế suất thuế thu nhập doanh nghiệp 10% đối với phần thu nhập từ xã hội hóa thì tiếp tục áp dụng mức thuế suất ưu đãi này.
+
+6. Về ưu đãi đối với đầu tư mở rộng
+
+a) Doanh nghiệp có dự án đầu tư phát triển dự án đầu tư đang hoạt động như mở rộng quy mô sản xuất, nâng cao công suất, đổi mới công nghệ sản xuất (gọi chung là dự án đầu tư mở rộng) thuộc lĩnh vực hoặc địa bàn ưu đãi thuế thu nhập doanh nghiệp theo quy định của Nghị định số 218/2013/NĐ-CP (bao gồm cả khu kinh tế, khu công nghệ cao, khu công nghiệp trừ khu công nghiệp nằm trên địa bàn các quận nội thành của đô thị loại đặc biệt, đô thị loại I trực thuộc trung ương và Khu công nghiệp nằm trên địa bàn các đô thị loại I trực thuộc tỉnh) nếu đáp ứng một trong ba tiêu chí quy định tại điểm này thì được lựa chọn hưởng ưu đãi thuế thu nhập doanh nghiệp theo dự án đang hoạt động cho thời gian còn lại (bao gồm mức thuế suất, thời gian miễn giảm nếu có) hoặc được áp dụng thời gian miễn thuế, giảm thuế đối với phần thu nhập tăng thêm do đầu tư mở rộng mang lại (không được hưởng mức thuế suất ưu đãi) bằng với thời gian miễn thuế, giảm thuế áp dụng đối với dự án đầu tư mới trên cùng địa bàn hoặc lĩnh vực ưu đãi thuế thu nhập doanh nghiệp. Trường hợp doanh nghiệp chọn hưởng ưu đãi thuế thu nhập doanh nghiệp theo dự án đang hoạt động cho thời gian còn lại thì dự án đầu tư mở rộng đó phải thuộc lĩnh vực hoặc địa bàn ưu đãi thuế thu nhập doanh nghiệp theo quy định của Nghị định số 218/2013/NĐ-CP đồng thời cũng thuộc lĩnh vực hoặc địa bàn với dự án đang hoạt động.
+
+Dự án đầu tư mở rộng quy định tại điểm này phải đáp ứng một trong các tiêu chí sau:
+
+- Nguyên giá tài sản cố định tăng thêm khi dự án đầu tư hoàn thành đi vào hoạt động đạt tối thiểu từ 20 tỷ đồng đối với dự án đầu tư mở rộng thuộc lĩnh vực hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định của Nghị định số 218/2013/NĐ-CP hoặc từ 10 tỷ đồng đối với các dự án đầu tư mở rộng thực hiện tại các địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn theo quy định của Nghị định số 218/2013/NĐ-CP.
+
+- Tỷ trọng nguyên giá tài sản cố định tăng thêm đạt tối thiểu từ 20% so với tổng nguyên giá tài sản cố định trước khi đầu tư.
+
+- Công suất thiết kế khi đầu tư mở rộng tăng thêm tối thiểu từ 20% so với công suất thiết kế theo luận chứng kinh tế kĩ thuật trước khi đầu tư ban đầu.
+
+Trường hợp doanh nghiệp chọn hưởng ưu đãi theo diện đầu tư mở rộng thì phần thu nhập tăng thêm do đầu tư mở rộng được hạch toán riêng. Trường hợp doanh nghiệp không hạch toán riêng được phần thu nhập tăng thêm do đầu tư mở rộng mang lại thì thu nhập từ hoạt động đầu tư mở rộng xác định theo tỷ lệ giữa nguyên giá tài sản cố định đầu tư mới đưa vào sử dụng cho sản xuất, kinh doanh trên tổng nguyên giá tài sản cố định của doanh nghiệp.
+
+Thời gian miễn thuế, giảm thuế quy định tại khoản này được tính từ năm dự án đầu tư mở rộng hoàn thành đưa vào sản xuất, kinh doanh có thu nhập; trường hợp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu từ dự án đầu tư mở rộng thì thời gian miễn thuế, giảm thuế được tính từ năm thứ tư dự án đầu tư phát sinh doanh thu.
+
+Trường hợp doanh nghiệp đang hoạt động có đầu tư nâng cấp, thay thế, đổi mới công nghệ của dự án đang hoạt động thuộc lĩnh vực hoặc địa bàn ưu đãi thuế theo quy định của Nghị định số 218/2013/NĐ-CP mà không đáp ứng một trong ba tiêu chí quy định tại điểm này thì ưu đãi thuế thực hiện theo dự án đang hoạt động cho thời gian còn lại (nếu có).
+
+Doanh nghiệp có dự án đầu tư đang được hưởng ưu đãi thuế mà giai đoạn năm 2009 - năm 2013 có đầu tư bổ sung máy móc, thiết bị thường xuyên trong quá trình sản xuất, kinh doanh không thuộc dự án đầu tư mở rộng nêu trên thì phần thu nhập tăng thêm do việc đầu tư bổ sung máy móc, thiết bị thường xuyên này cũng được hưởng ưu đãi thuế theo mức mà dự án đang áp dụng cho thời gian còn lại tính từ kỳ tính thuế năm 2014.
+
+Ưu đãi thuế quy định tại khoản này không áp dụng đối với các trường hợp đầu tư mở rộng do chia, tách, sáp nhập, chuyển đổi sở hữu (bao gồm cả trường hợp thực hiện dự án đầu tư nhưng vẫn kế thừa tài sản, địa điểm kinh doanh, ngành nghề kinh doanh của doanh nghiệp cũ để tiếp tục hoạt động sản xuất kinh doanh), mua lại doanh nghiệp hoặc mua lại dự án đầu tư đang hoạt động.
+
+Doanh nghiệp có dự án đầu tư từ việc chuyển đổi sở hữu, chia, tách, sáp nhập, hợp nhất được kế thừa các ưu đãi về thuế thu nhập doanh nghiệp của doanh nghiệp hoặc dự án đầu tư trước khi chuyển đổi, chia, tách, sáp nhập, hợp nhất trong thời gian còn lại nếu tiếp tục đáp ứng các điều kiện ưu đãi thuế thu nhập doanh nghiệp.
+
+a1) Đối với giai đoạn từ năm 2009 đến năm 2013, doanh nghiệp trong quá trình sản xuất, kinh doanh mà sử dụng quỹ khấu hao cơ bản tài sản cố định của doanh nghiệp; sử dụng lợi nhuận sau thuế tái đầu tư; sử dụng vốn trong phạm vi vốn đầu tư đã đăng ký với cơ quan quản lý nhà nước có thẩm quyền để đầu tư bổ sung máy móc thiết bị thường xuyên và không tăng công suất sản xuất kinh doanh theo đề án kinh doanh đã đăng ký hoặc được phê duyệt thì không phải đầu tư mở rộng.
+
+b) Doanh nghiệp đang hoạt động được hưởng ưu đãi thuế có đầu tư xây dựng dây chuyền sản xuất mới, mở rộng quy mô sản xuất, bổ sung ngành nghề sản xuất kinh doanh, nâng cao công suất (gọi chung là đầu tư mở rộng) không thuộc lĩnh vực, địa bàn ưu đãi thuế theo quy định của Nghị định số 218/2013/NĐ-CP về thuế thu nhập doanh nghiệp thì không được hưởng ưu đãi thuế thu nhập doanh nghiệp đối với phần thu nhập tăng thêm từ đầu tư mở rộng mang lại.
+
+Trường hợp trong kỳ tính thuế, doanh nghiệp không tính riêng được thu nhập tăng thêm do đầu tư mở rộng thì thu nhập tăng thêm do đầu tư mở rộng không áp dụng ưu đãi thuế thu nhập doanh nghiệp được lựa chọn xác định theo 1 trong 2 cách sau:
+
+Cách 1:
+
+ Phần thu nhập tăng thêm do đầu tư mở rộng không áp dụng ưu đãi thuế thu nhập doanh nghiệp
+
+ =
+
+ Tổng thu nhập tính thuế trong năm (không bao gồm thu nhập khác không được hưởng ưu đãi)
+
+ x
+
+ Giá trị tài sản cố định đầu tư mở rộng đưa vào sử dụng cho sản xuất, kinh doanh
+
+ Tổng nguyên giá tài sản cố định thực tế dùng cho sản xuất, kinh doanh
+
+Tổng nguyên giá tài sản cố định thực tế dùng cho sản xuất, kinh doanh gồm: giá trị tài sản cố định đầu tư mở rộng đã hoàn thành bàn giao đưa vào sử dụng và nguyên giá tài sản cố định hiện có đang dùng cho sản xuất kinh doanh theo số liệu cuối kỳ trên Bảng cân đối kế toán năm.
+
+Cách 2:
+
+ Phần thu nhập tăng thêm do đầu tư mở rộng không áp dụng ưu đãi thuế thu nhập doanh nghiệp
+
+ =
+
+ Tổng thu nhập tính thuế trong năm (không bao gồm thu nhập khác không được hưởng ưu đãi)
+
+ x
+
+ Giá trị vốn đầu tư mở rộng đưa vào sử dụng cho sản xuất, kinh doanh
+
+ Tổng vốn đầu tư thực tế dùng cho sản xuất, kinh doanh
+
+Tổng vốn đầu tư thực tế dùng cho sản xuất kinh doanh là tổng nguồn vốn tự có, vốn vay của doanh nghiệp dùng cho sản xuất kinh doanh theo số liệu cuối kỳ trên Bảng cân đối kế toán năm.
+
+Doanh nghiệp chỉ được áp dụng một cách phân bổ đối với thu nhập phát sinh của một hoạt động đầu tư mở rộng.
+
+Ví dụ 16: Công ty A là một doanh nghiệp sản xuất nhựa trong khu công nghiệp tại TP. Hồ Chí Minh (Khu công nghiệp không thuộc địa bàn hưởng ưu đãi) và đang được hưởng ưu đãi thuế TNDN: áp dụng thuế suất 15% trong 12 năm kể từ khi có doanh thu, miễn thuế TNDN 3 năm kể từ khi có thu nhập chịu thuế, giảm 50% thuế TNDN trong 7 năm tiếp theo, năm 2014 Công ty A có đầu tư mở rộng, tổng giá trị máy móc thiết bị đầu tư mới trong năm là 5 tỷ đồng. Biết rằng tổng giá trị TSCĐ cuối năm 2014 là 20 tỷ đồng, tổng thu nhập tính thuế phát sinh của năm 2014 là 1,2 tỷ đồng, trong đó thu nhập khác không được hưởng ưu đãi là 200 triệu đồng, thì:
+
+Thu nhập do đầu tư mở rộng không được hưởng ưu đãi là:
+
+ Phần thu nhập tăng thêm do đầu tư mở rộng không áp dụng ưu đãi thuế thu nhập doanh nghiệp
+
+ =
+
+ (1,2 tỷ đồng - 200 triệu đồng)
+
+ x
+
+ 5 tỷ đồng
+
+ 20 tỷ đồng
+
+ =
+
+ 250 triệu đồng
+
+Thu nhập tính thuế không được hưởng ưu đãi thuế TNDN năm 2014 là: 200 triệu đồng + 250 triệu đồng = 450 triệu đồng
+
+Thu nhập tính thuế được hưởng ưu đãi thuế TNDN năm 2014 là:
+
+1,2 tỷ đồng - 450 triệu đồng = 750 triệu đồng
+
+7. Trong cùng một kỳ tính thuế nếu có một khoản thu nhập thuộc diện áp dụng thuế suất thuế thu nhập doanh nghiệp ưu đãi và thời gian miễn thuế, giảm thuế theo nhiều trường hợp khác nhau thì doanh nghiệp tự lựa chọn một trong những trường hợp ưu đãi thuế thu nhập doanh nghiệp có lợi nhất.
+
+8. Trong thời gian được ưu đãi thuế thu nhập doanh nghiệp, nếu trong năm tính thuế mà doanh nghiệp không đáp ứng đủ một trong các điều kiện ưu đãi thuế quy định tại các Khoản 7, 8 và Khoản 12 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập nghiệp doanh nghiệp và quy định tại Điều 19 Nghị định số 218/2013/NĐ-CP thì doanh nghiệp không được hưởng ưu đãi trong năm tính thuế đó mà phải nộp thuế thu nhập doanh nghiệp theo mức thuế suất phổ thông và năm đó sẽ tính trừ vào thời gian được hưởng ưu đãi thuế của doanh nghiệp.
+
+8a. Trường hợp trong kỳ tính thuế đầu tiên mà dự án đầu tư của doanh nghiệp (bao gồm cả dự án đầu tư mới, dự án đầu tư mở rộng, doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao) có thời gian hoạt động sản xuất, kinh doanh được hưởng ưu đãi thuế dưới 12 (mười hai) tháng, doanh nghiệp được lựa chọn hưởng ưu đãi thuế đối với dự án đầu tư ngay từ kỳ tính thuế đầu tiên đó hoặc đăng ký với cơ quan thuế thời gian bắt đầu được hưởng ưu đãi thuế từ kỳ tính thuế tiếp theo. Trường hợp doanh nghiệp đăng ký thời gian ưu đãi thuế vào kỳ tính thuế tiếp theo thì phải xác định số thuế phải nộp của kỳ tính thuế đầu tiên để nộp vào Ngân sách Nhà nước theo quy định.
+
+9. Trường hợp trong cùng kỳ tính thuế, doanh nghiệp có phát sinh hoạt động kinh doanh được hưởng ưu đãi thuế bị lỗ, hoạt động kinh doanh không được hưởng ưu đãi thuế, thu nhập khác của các hoạt động kinh doanh (không bao gồm thu nhập từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư; thu nhập từ chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản theo quy định của pháp luật) có thu nhập (hoặc ngược lại) thì doanh nghiệp bù trừ vào thu nhập chịu thuế của các hoạt động có thu nhập do doanh nghiệp lựa chọn. Phần thu nhập còn lại sau khi bù trừ áp dụng mức thuế suất thuế thu nhập doanh nghiệp theo mức thuế suất của hoạt động còn thu nhập.
+
+Trường hợp trong các kỳ tính thuế trước, doanh nghiệp đang bị lỗ (nếu còn trong thời hạn chuyển lỗ) thì doanh nghiệp phải chuyển lỗ tương ứng với các hoạt động có thu nhập. Nếu doanh nghiệp không tách riêng được lỗ của từng hoạt động thì doanh nghiệp chuyển lỗ vào thu nhập của hoạt động được hưởng ưu đãi thuế thu nhập doanh nghiệp trước sau đó vẫn còn lỗ thì chuyển vào thu nhập của hoạt động không được hưởng ưu đãi thuế thu nhập doanh nghiệp (không bao gồm thu nhập từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư; thu nhập từ chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác khoáng sản theo quy định của pháp luật).
+
+Ví dụ 17: Trong kỳ tính thuế năm 2014, DN A có phát sinh:
+
+- Lỗ từ hoạt động sản xuất phần mềm được ưu đãi thuế là 1 tỷ đồng.
+
+- Lãi từ hoạt động kinh doanh máy tính không thuộc diện ưu đãi thuế là 1 tỷ đồng.
+
+- Lãi từ hoạt động chuyển nhượng chứng khoán (thu nhập khác của hoạt động kinh doanh) là 2 tỷ đồng.
+
+Trường hợp này DN A được lựa chọn bù trừ giữa lỗ từ hoạt động sản xuất phần mềm và lãi từ hoạt động kinh doanh máy tính hoặc lãi từ hoạt động chuyển nhượng chứng khoán; phần thu nhập còn lại sẽ nộp thuế TNDN theo thuế suất của phần có thu nhập.
+
+Cụ thể: Bù trừ lỗ 1 tỷ đồng sản xuất phần mềm với lãi 1 tỷ đồng của hoạt động kinh doanh máy tính hoặc hoạt động chuyển nhượng chứng khoán.
+
+=> DN còn thu nhập là 2 tỷ đồng và phải nộp thuế TNDN với mức thuế suất 22% (2 tỷ đồng x 22%).
+
+Ví dụ 18: Trong kỳ tính thuế năm 2014, DN B có phát sinh:
+
+- Lãi từ hoạt động sản xuất phần mềm được ưu đãi thuế là 2 tỷ đồng (hoạt động này đang áp dụng thuế suất thuế TNDN 10%).
+
+- Lãi từ hoạt động kinh doanh máy tính không thuộc diện ưu đãi thuế là 2 tỷ đồng.
+
+- Lỗ từ hoạt động kinh doanh chứng khoán (thu nhập khác của hoạt động kinh doanh) là 1 tỷ đồng.
+
+Kỳ tính thuế năm 2013, DN B có lỗ từ hoạt động kinh doanh máy tính là 1 tỷ đồng thì khi xác định thu nhập chịu thuế của năm 2014, DN B phải thực hiện chuyển lỗ như sau:
+
+Cụ thể:
+
+- Bù trừ giữa lãi và lỗ phát sinh trong năm 2014: doanh nghiệp lựa chọn bù trừ lỗ của hoạt động kinh doanh chứng khoán vào thu nhập của hoạt động kinh doanh máy tính, hoạt động kinh doanh máy tính còn lãi là (2 tỷ - 1 tỷ) = 1 tỷ đồng.
+
+- Chuyển lỗ của hoạt động kinh doanh máy tính năm 2013 để bù trừ với lãi của hoạt động kinh doanh máy tính năm 2014: (1 tỷ - 1 tỷ = 0 tỷ)
+
+Kê khai, tính và nộp thuế TNDN của hoạt động được ưu đãi thuế:
+
+2 tỷ đồng x 10% = 200 triệu đồng
+
+=> Thuế TNDN phải nộp là: 200 triệu đồng
+
+Ví dụ 19: Trong kỳ tính thuế năm 2014, DN C có phát sinh:
+
+- Lãi từ hoạt động sản xuất phần mềm được ưu đãi thuế là 2 tỷ đồng (hoạt động này đang áp dụng thuế suất thuế TNDN 10%).
+
+- Lãi từ hoạt động kinh doanh máy tính không thuộc diện ưu đãi thuế là 2 tỷ đồng.
+
+- Lỗ từ hoạt động kinh doanh chứng khoán (thu nhập khác của hoạt động kinh doanh) là 1 tỷ đồng.
+
+Kỳ tính thuế năm 2013, DN C có lỗ là 2 tỷ đồng tuy nhiên doanh nghiệp không tách riêng được khoản lỗ này là của hoạt động nào do vậy DN C phải thực hiện bù trừ lỗ vào thu nhập của hoạt động đang được ưu đãi trước (hoạt động sản xuất phần mềm).
+
+Cụ thể: - Bù trừ giữa lãi và lỗ phát sinh năm 2014: doanh nghiệp lựa chọn bù trừ lỗ hoạt động kinh doanh chứng khoán vào hoạt động kinh doanh máy tính, hoạt động kinh doanh máy tính còn lãi là (2 tỷ - 1 tỷ) = 1 tỷ đồng
+
+- Chuyển lỗ của năm 2013 để bù trừ với lãi của hoạt động sản xuất phần mềm năm 2014: 2 tỷ - 2 tỷ = 0 tỷ
+
+Kê khai nộp thuế TNDN với mức thuế suất 22% của hoạt động kinh doanh không được hưởng ưu đãi thuế, cụ thể: 1 tỷ x 22% = 220 triệu đồng.
+
+10. Doanh nghiệp trong thời gian đang được hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định, cơ quan có thẩm quyền kiểm tra, thanh tra kiểm tra phát hiện:
+
+- Tăng số thuế thu nhập doanh nghiệp được hưởng ưu đãi thuế so với đơn vị tự kê khai (kể cả trường hợp doanh nghiệp chưa kê khai để được hưởng ưu đãi thuế) thì doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định đối với số thuế thu nhập doanh nghiệp do kiểm tra, thanh tra phát hiện (bao gồm số thuế thu nhập doanh nghiệp tăng thêm và số thuế thu nhập doanh nghiệp thuộc đối tượng được ưu đãi thuế theo quy định đã kê khai nhưng chưa xác định số thuế được ưu đãi).
+
+- Giảm số thuế thu nhập doanh nghiệp được hưởng ưu đãi thuế so với đơn vị tự kê khai thì doanh nghiệp chỉ được hưởng ưu đãi thuế thu nhập doanh nghiệp theo theo quy định đối với số thuế thu nhập doanh nghiệp do kiểm tra, thanh tra phát hiện.
+
+- Tùy theo mức độ vi phạm của doanh nghiệp, cơ quan có thẩm quyền kiểm tra, thanh tra áp dụng các mức xử phạt vi phạm pháp luật về thuế theo quy định.
+
+(Điều này có nội dung liên quan đến Điều 33.12.LQ.2. Đối tượng chịu thuế; Điều 33.11.NĐ.2.15. Thuế suất ưu đãi; Điều 33.11.NĐ.2.16. Miễn thuế, giảm thuế; Điều 33.11.TT.4.11. Thuế suất thuế thu nhập doanh nghiệp; Điều 33.11.TT.4.19. Thuế suất ưu đãi)
+
+Điều 33.11.TT.4.19. Thuế suất ưu đãi
+
+(Điều 19 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi bởi Điều 11 Thông tư số 96/2015/TT-BTC có hiệu lực thi hành kể từ ngày 06/08/2015)
+
+1. Thuế suất ưu đãi 10% trong thời hạn mười lăm năm (15 năm) áp dụng đối với:
+
+a) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại: địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định số 218/2013/NĐ-CP, Khu kinh tế, Khu công nghệ cao kể cả khu công nghệ thông tin tập trung được thành lập theo Quyết định của Thủ tướng Chính phủ.
+
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới thuộc các lĩnh vực: nghiên cứu khoa học và phát triển công nghệ; ứng dụng công nghệ cao thuộc danh mục công nghệ cao được ưu tiên đầu tư phát triển theo quy định của Luật Công nghệ cao; ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đầu tư mạo hiểm cho phát triển công nghệ cao thuộc danh mục công nghệ cao được ưu tiên phát triển theo quy định của pháp luật về công nghệ cao; đầu tư xây dựng - kinh doanh cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đầu tư phát triển nhà máy nước, nhà máy điện, hệ thống cấp thoát nước; cầu, đường bộ, đường sắt; cảng hàng không, cảng biển, cảng sông; sân bay, nhà ga và công trình cơ sở hạ tầng đặc biệt quan trọng khác do Thủ tướng Chính phủ quyết định; sản xuất sản phẩm phần mềm; sản xuất vật liệu composit, các loại vật liệu xây dựng nhẹ, vật liệu quý hiếm; sản xuất năng lượng tái tạo, năng lượng sạch, năng lượng từ việc tiêu hủy chất thải; phát triển công nghệ sinh học.
+
+Dự án đầu tư phát triển nhà máy nước, nhà máy điện, hệ thống cấp thoát nước; cầu, đường bộ, đường sắt; cảng hàng không, cảng biển, cảng sông; sân bay, nhà ga phải phát sinh doanh thu, thu nhập từ quá trình hoạt động của các dự án đầu tư nêu trên thì mới thuộc diện được hưởng ưu đãi thuế. Trường hợp các doanh nghiệp thực hiện thi công, xây dựng các công trình này thì phần thu nhập từ hoạt động thi công, xây dựng không được hưởng ưu đãi thuế theo quy định này.
+
+c) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới thuộc lĩnh vực bảo vệ môi trường, bao gồm: sản xuất thiết bị xử lý ô nhiễm môi trường, thiết bị quan trắc và phân tích môi trường; xử lý ô nhiễm và bảo vệ môi trường; thu gom, xử lý nước thải, khi thải, chất thải rắn; tái chế, tái sử dụng chất thải.
+
+d) Doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao theo quy định của Luật công nghệ cao.
+
+Doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao theo quy định của Luật công nghệ cao được hưởng ưu đãi về thuế suất kể từ năm được cấp Giấy chứng nhận doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
+
+Doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được hưởng ưu đãi thuế thu nhập doanh nghiệp đối với thu nhập từ hoạt động công nghệ cao, ứng dụng công nghệ cao và các khoản thu nhập có liên quan trực tiếp từ hoạt động công nghệ cao, ứng dụng công nghệ cao do đáp ứng điều kiện về lĩnh vực ưu đãi đầu tư quy định tại khoản 4 Điều 18 Thông tư số 78/2014/TT-BTC (được sửa đổi, bổ sung tại điểm a khoản 2 Điều 10 Thông tư này).
+
+Trường hợp doanh nghiệp đang hưởng ưu đãi thuế thu nhập doanh nghiệp hoặc đã hưởng hết ưu đãi thuế thu nhập doanh nghiệp theo quy định của các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp mà được cấp Giấy chứng nhận doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao thì mức ưu đãi đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được xác định bằng mức ưu đãi áp dụng cho doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao quy định tại khoản 1 Điều 15 và khoản 1 Điều 16 Nghị định số 218/2013/NĐ-CP trừ đi thời gian ưu đãi đã hưởng đối với doanh nghiệp mới thành lập, dự án đầu tư mới thành lập (cả về thuế suất và thời gian miễn, giảm nếu có).
+
+đ) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới trong lĩnh vực sản xuất (trừ dự án sản xuất mặt hàng chịu thuế tiêu thụ đặc biệt, dự án khai thác khoáng sản) đáp ứng một trong hai tiêu chí sau:
+
+- Dự án có quy mô vốn đầu tư tối thiểu 6 (sáu) nghìn tỷ đồng, thực hiện giải ngân không quá 3 năm kể từ thời điểm được phép đầu tư lần đầu theo quy định của pháp luật đầu tư và có tổng doanh thu tối thiểu đạt 10 (mười) nghìn tỷ đồng/năm chậm nhất sau 3 năm kể từ năm có doanh thu từ dự án đầu tư (chậm nhất năm thứ 4 kể từ năm có doanh thu doanh nghiệp phải đạt tổng doanh thu tối thiểu 10 (mười) nghìn tỷ đồng/năm).
+
+- Dự án có quy mô vốn đầu tư tối thiểu 6 (sáu) nghìn tỷ đồng, thực hiện giải ngân không quá 3 năm kể từ thời điểm được phép đầu tư lần đầu theo quy định của pháp luật đầu tư và sử dụng thường xuyên trên 3.000 lao động chậm nhất sau 3 năm kể từ năm có doanh thu từ dự án đầu tư (chậm nhất năm thứ 4 kể từ năm có doanh thu doanh nghiệp phải đạt điều kiện sử dụng số lao động thường xuyên bình quân năm trên 3.000 lao động).
+
+Số lao động sử dụng thường xuyên bình quân năm được xác định theo hướng dẫn tại Thông tư số 40/2009/TT-BLĐTBXH ngày 03 tháng 12 năm 2009 của Bộ Lao động, Thương binh và Xã hội.
+
+Trường hợp dự án đầu tư không đáp ứng các tiêu chí quy định tại điểm này (không kể bị chậm tiến độ do nguyên nhân khách quan trong khâu giải phóng mặt bằng, giải quyết thủ tục hành chính của cơ quan nhà nước hoặc do thiên tai, địch họa, hỏa hoạn và được cơ quan cấp phép đầu tư chấp thuận, báo cáo Thủ tướng Chính phủ phê duyệt) thì doanh nghiệp không được hưởng ưu đãi thuế thu nhập doanh nghiệp, đồng thời doanh nghiệp phải kê khai, nộp số tiền thuế thu nhập doanh nghiệp đã kê khai hưởng ưu đãi của các năm trước (nếu có) và nộp tiền chậm nộp tiền thuế theo quy định, nhưng doanh nghiệp không bị xử phạt về hành vi khai sai theo quy định của pháp luật về quản lý thuế.
+
+e) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư trong lĩnh vực sản xuất, trừ dự án sản xuất mặt hàng chịu thuế tiêu thụ đặc biệt và dự án khai thác khoáng sản, có quy mô vốn đầu tư tối thiểu 12 (mười hai) nghìn tỷ đồng, sử dụng công nghệ phải được thẩm định theo quy định của Luật công nghệ cao, Luật khoa học và công nghệ, thực hiện giải ngân tổng vốn đầu tư đăng ký không quá 5 năm kể từ thời ngày được phép đầu tư theo quy định của pháp luật về đầu tư.
+
+g) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới sản xuất sản phẩm thuộc Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển đáp ứng một trong các tiêu chí sau:
+
+- Sản phẩm công nghiệp hỗ trợ cho công nghệ cao theo quy định của Luật công nghệ cao;
+
+- Sản phẩm công nghiệp hỗ trợ cho sản xuất sản phẩm các ngành: dệt - may; da - giầy; điện tử - tin học; sản xuất lắp ráp ô tô; cơ khí chế tạo mà các sản phẩm này tính đến ngày 01 tháng 01 năm 2015 trong nước chưa sản xuất được hoặc sản xuất được nhưng phải đáp ứng được tiêu chuẩn kỹ thuật của Liên minh Châu Âu (EU) hoặc tương đương.
+
+Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển được ưu đãi thuế thu nhập doanh nghiệp thực hiện theo Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển ban hành tại Quyết định số 1483/QĐ-TTg ngày 26 tháng 8 năm 2011 của Thủ tướng Chính phủ; khi các văn bản quy phạm pháp luật liên quan đến Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển có sửa đổi, bổ sung thì thực hiện theo các văn bản sửa đổi, bổ sung, thay thế có liên quan.
+
+2. Các trường hợp được kéo dài thời gian áp dụng thuế suất ưu đãi:
+
+a) Đối với dự án đầu tư quy định tại điểm b, điểm c Khoản 1 Điều này có quy mô lớn và công nghệ cao hoặc mới cần đặc biệt thu hút đầu tư.
+
+b) Đối với dự án quy định tại điểm e Khoản 1 Điều này đáp ứng một trong các tiêu chí sau:
+
+- Sản xuất sản phẩm hàng hóa có khả năng cạnh tranh toàn cầu, doanh thu đạt trên 20.000 tỷ đồng/năm chậm nhất sau 5 năm kể từ khi có doanh thu từ dự án đầu tư;
+
+- Sử dụng thường xuyên bình quân trên 6.000 lao động;
+
+- Dự án đầu tư thuộc lĩnh vực hạ tầng kinh tế kỹ thuật, bao gồm: đầu tư phát triển nhà máy nước, nhà máy điện, hệ thống cấp thoát nước, cầu, đường bộ, đường sắt, cảng hàng không, cảng biển, cảng sông, sân bay, nhà ga, năng lượng mới, năng lượng sạch, công nghiệp tiết kiệm năng lượng, dự án lọc hóa dầu.
+
+c) Căn cứ theo đề nghị của Bộ trưởng Bộ Tài chính, Thủ tướng Chính phủ quyết định kéo dài thêm thời gian áp dụng thuế suất ưu đãi quy định tại Khoản này nhưng thời gian kéo dài thêm không quá 15 (mười lăm) năm.
+
+3. Thuế suất ưu đãi 10% trong suốt thời gian hoạt động áp dụng đối với:
+
+a) Phần thu nhập của doanh nghiệp từ hoạt động xã hội hóa trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao và môi trường, giám định tư pháp (sau đây gọi chung là lĩnh vực xã hội hóa).
+
+Danh mục loại hình, tiêu chí quy mô, tiêu chuẩn của các doanh nghiệp thực hiện xã hội hoá được thực hiện theo danh mục do Thủ tướng Chính phủ quy định.
+
+b) Phần thu nhập của hoạt động xuất bản của Nhà xuất bản theo quy định của Luật Xuất bản.
+
+Hoạt động xuất bản bao gồm các lĩnh vực xuất bản, in và phát hành xuất bản phẩm theo quy định tại Luật Xuất bản.
+
+Xuất bản phẩm thực hiện theo quy định tại Điều 4 của Luật Xuất bản và Điều 2 Nghị định số 111/2005/NĐ-CP ngày 26/8/2005 của Chính phủ. Trường hợp các quy định của Luật Xuất bản, Nghị định số 111/2005/NĐ-CP và các văn bản quy phạm pháp luật có liên quan đến lĩnh vực xuất bản có sự thay đổi thì áp dụng theo các quy định mới tương ứng, phù hợp với các văn bản này.
+
+c) Phần thu nhập từ hoạt động báo in (kể cả quảng cáo trên báo in) của cơ quan báo chí theo quy định của Luật Báo chí.
+
+d) Phần thu nhập của doanh nghiệp từ thực hiện dự án đầu tư - kinh doanh nhà ở xã hội để bán, cho thuê, cho thuê mua đối với các đối tượng quy định tại Điều 53 Luật nhà ở.
+
+Nhà ở xã hội quy định tại điểm này là nhà ở do Nhà nước hoặc tổ chức, cá nhân thuộc các thành phần kinh tế đầu tư xây dựng và đáp ứng các tiêu chí về nhà ở, về giá bán nhà, về giá cho thuê, về giá cho thuê mua, về đối tượng, điều kiện được mua, được thuê, được thuê mua nhà ở xã hội theo quy định của pháp luật về nhà ở và việc xác định thu nhập được áp dụng thuế suất 10% quy định tại điểm này không phụ thuộc vào thời điểm ký hợp đồng bán, cho thuê hoặc cho thuê mua nhà ở xã hội.
+
+Trường hợp doanh nghiệp thực hiện đầu tư - kinh doanh nhà ở xã hội ký hợp đồng chuyển nhượng nhà có thu tiền ứng trước của khách hàng theo tiến độ trước ngày 01/01/2014 và còn tiếp tục thu tiền kể từ ngày 01/01/2014 (doanh nghiệp đã kê khai tạm nộp thuế thu nhập doanh nghiệp trên thu nhập hoặc theo tỷ lệ trên doanh thu thu được tiền) và có thời điểm bàn giao nhà kể từ ngày 01/01/2014 thì thu nhập từ hoạt động chuyển nhượng nhà này được áp dụng thuế suất 10%.
+
+Thu nhập từ đầu tư - kinh doanh nhà ở xã hội được áp dụng thuế suất 10% tại khoản này là thu nhập từ việc bán, cho thuê, cho thuê mua phát sinh từ ngày 01 tháng 01 năm 2014. Trường hợp doanh nghiệp không hạch toán riêng được phần thu nhập từ bán, cho thuê, cho thuê mua nhà ở xã hội phát sinh từ ngày 01 tháng 01 năm 2014 thì thu nhập được áp dụng thuế suất 10% được xác định theo tỷ lệ giữa doanh thu hoạt động bán, cho thuê, cho thuê mua nhà ở xã hội trên tổng doanh thu trong thời gian tương ứng của doanh nghiệp.
+
+e) Thu nhập của doanh nghiệp từ: trồng, chăm sóc, bảo vệ rừng; thu nhập từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản ở địa bàn kinh tế xã hội khó khăn; Nuôi trồng lâm sản ở địa bàn có điều kiện kinh tế xã hội khó khăn; Sản xuất, nhân và lai tạo giống cây trồng, vật nuôi; Sản xuất, khai thác và tinh chế muối trừ sản xuất muối quy định tại khoản 1 Điều 4 Nghị định số 218/2013/NĐ-CP; Đầu tư bảo quản nông sản sau thu hoạch, bảo quản nông, thủy sản và thực phẩm, bao gồm cả đầu tư để trực tiếp bảo quản hoặc đầu tư để cho thuê bảo quản nông sản, thủy sản và thực phẩm.
+
+f) Phần thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp không thuộc địa bàn kinh tế - xã hội khó khăn và địa bàn kinh tế - xã hội đặc biệt khó khăn.
+
+3a. Thuế suất 15% đối với thu nhập của doanh nghiệp từ trồng trọt, chăn nuôi, chế biến trong lĩnh vực nông nghiệp và thủy sản ở địa bàn không thuộc địa bàn có điều kiện kinh tế xã hội khó khăn hoặc địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn.
+
+4. Thuế suất ưu đãi 20% trong thời gian mười năm (10 năm) áp dụng đối với:
+
+a) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại địa bàn có điều kiện kinh tế - xã hội khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định số 218/2013/NĐ-CP của Chính phủ.
+
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới: sản xuất thép cao cấp; sản xuất sản phẩm tiết kiệm năng lượng; sản xuất máy móc, thiết bị phục vụ cho sản xuất nông, lâm, ngư, diêm nghiệp; sản xuất thiết bị tưới tiêu; sản xuất, tinh chế thức ăn gia súc, gia cầm, thủy sản; phát triển ngành nghề truyền thống (bao gồm xây dựng và phát triển các ngành nghề truyền thống về sản xuất hàng thủ công mỹ nghệ, chế biến nông sản thực phẩm, các sản phẩm văn hóa).
+
+Doanh nghiệp thực hiện dự án đầu tư mới vào các lĩnh vực, địa bàn ưu đãi thuế quy định tại khoản này kể từ ngày 01 tháng 01 năm 2016 áp dụng thuế suất 17%.
+
+5. Thuế suất ưu đãi 20% trong suốt thời gian hoạt động (từ ngày 1/1/2016 chuyển sang áp dụng thuế suất 17%) được áp dụng đối với Quỹ tín dụng nhân dân, Ngân hàng hợp tác xã và Tổ chức tài chính vi mô.
+
+Đối với Quỹ tín dụng nhân dân, Ngân hàng hợp tác xã và Tổ chức tài chính vi mô thành lập mới tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định số 218/2013/NĐ-CP của Chính phủ sau khi hết thời hạn áp dụng thuế suất 10% quy định tại điểm a Khoản 1 Điều này thì chuyển sang áp dụng mức thuế suất 20%; từ ngày 1/1/2016 chuyển sang áp dụng thuế suất 17%.
+
+Tổ chức tài chính vi mô quy định tại Khoản này là tổ chức được thành lập và hoạt động theo quy định của Luật các tổ chức tín dụng.
+
+6. Thời gian áp dụng thuế suất ưu đãi quy định tại Điều này được tính liên tục từ năm đầu tiên doanh nghiệp có doanh thu từ dự án đầu tư mới được hưởng ưu đãi thuế. Đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được tính từ năm được công nhận là doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao; đối với dự án ứng dụng công nghệ cao được tính từ năm được cấp giấy chứng nhận dự án ứng dụng công nghệ cao.
+
+PHỤ LỤC.docx
+
+(Điều này có nội dung liên quan đến Điều 4. Giải thích từ ngữ; Điều 6. Quản lý nhà nước về hoạt động xuất bản của Luật 19/2012/QH13 Luật xuất bản ban hành ngày 20/11/2012; Điều 53. Các hình thức phát triển nhà ở xã hội của Luật 65/2014/QH13 Nhà ở ban hành ngày 25/11/2014; Điều 19.3.LQ.1. Phạm vi điều chỉnh của Luật 21/2008/QH12 Công nghệ cao ban hành ngày 13/11/2008; Điều 22.3.LQ.1. Phạm vi điều chỉnh; Điều 19.5.LQ.1. Phạm vi điều chỉnh; Điều 33.11.NĐ.2.4. Thu nhập được miễn thuế; Điều 33.11.NĐ.2.15. Thuế suất ưu đãi; Điều 33.11.NĐ.2.16. Miễn thuế, giảm thuế của Nghị định 218/2013/NĐ-CP Quy định chit tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 26/12/2013; Điều 33.11.TT.4.4. Xác định thu nhập tính thuế; Điều 33.11.TT.4.18. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp; Điều 33.11.TT.4.20. Ưu đãi về thời gian miễn thuế, giảm thuế của Thông tư 78/2014/TT-BTC Hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 18/06/2014)
 
 Điều 33.11.LQ.14. Ưu đãi về thời gian miễn thuế, giảm thuế
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, được sửa đổi, bổ sung theo quy định tại khoản 8 Điều 1 của Luật số 32/2013/QH13 sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp, có hiệu lực kể từ ngày 01 tháng 01 năm 2014.)
 
-**Mã phân cấp:** 3301100000000000300001400000000000000000
+1. Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới quy định tại khoản 1, điểm a khoản 2 Điều 13 của Luật này và doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được miễn thuế tối đa không quá bốn năm và giảm 50% số thuế phải nộp tối đa không quá chín năm tiếp theo.
 
-**ID:** dk_00053949
+2. Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới quy định tại khoản 3 Điều 13 của Luật này và thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại khu công nghiệp, trừ khu công nghiệp thuộc địa bàn có điều kiện kinh tế - xã hội thuận lợi theo quy định của pháp luật được miễn thuế tối đa không quá hai năm và giảm 50% số thuế phải nộp tối đa không quá bốn năm tiếp theo.
 
----
+3. Thời gian miễn thuế, giảm thuế đối với thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới quy định tại khoản 1 và khoản 2 Điều này được tính từ năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư, trường hợp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu từ dự án thì thời gian miễn thuế, giảm thuế được tính từ năm thứ tư. Thời gian miễn thuế, giảm thuế đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao quy định tại điểm c khoản 1 Điều 13 của Luật này được tính từ ngày được cấp giấy chứng nhận là doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
 
+4. Doanh nghiệp có dự án đầu tư phát triển dự án đầu tư đang hoạt động thuộc lĩnh vực, địa bàn ưu đãi thuế thu nhập doanh nghiệp theo quy định của Luật này mở rộng quy mô sản xuất, nâng cao công suất, đổi mới công nghệ sản xuất (đầu tư mở rộng) nếu đáp ứng một trong ba tiêu chí quy định tại khoản này thì được lựa chọn hưởng ưu đãi thuế theo dự án đang hoạt động cho thời gian còn lại (nếu có) hoặc được miễn thuế, giảm thuế đối với phần thu nhập tăng thêm do đầu tư mở rộng. Thời gian miễn thuế, giảm thuế đối với thu nhập tăng thêm do đầu tư mở rộng quy định tại khoản này bằng với thời gian miễn thuế, giảm thuế áp dụng đối với dự án đầu tư mới trên cùng địa bàn, lĩnh vực ưu đãi thuế thu nhập doanh nghiệp.
 
-### Điều 33.11.NĐ.2.16. Miễn thuế, giảm thuế
+Dự án đầu tư mở rộng được hưởng ưu đãi quy định tại khoản này phải đáp ứng một trong các tiêu chí sau:
 
-*Nội dung chưa có sẵn*
+a) Nguyên giá tài sản cố định tăng thêm khi dự án đầu tư hoàn thành đi vào hoạt động đạt tối thiểu từ hai mươi tỷ đồng đối với dự án đầu tư mở rộng thuộc lĩnh vực hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định của Luật này hoặc từ mười tỷ đồng đối với các dự án đầu tư mở rộng thực hiện tại địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật;
 
-**Chỉ mục:** 16
+b) Tỷ trọng nguyên giá tài sản cố định tăng thêm đạt tối thiểu từ 20% so với tổng nguyên giá tài sản cố định trước khi đầu tư;
 
-**Mã phân cấp:** 330110000000000030000140000000000000000000402495202180001600
+c) Công suất thiết kế tăng thêm tối thiểu từ 20% so với công suất thiết kế trước khi đầu tư.
 
-**ID:** dk_00053950
+Trường hợp doanh nghiệp đang hoạt động có đầu tư mở rộng thuộc lĩnh vực, địa bàn ưu đãi thuế theo quy định của Luật này mà không đáp ứng một trong ba tiêu chí quy định tại khoản này thì áp dụng ưu đãi thuế theo dự án đang hoạt động cho thời gian còn lại (nếu có).
 
----
+Trường hợp doanh nghiệp được hưởng ưu đãi thuế theo diện đầu tư mở rộng thì phần thu nhập tăng thêm do đầu tư mở rộng được hạch toán riêng; trường hợp không hạch toán riêng được thì thu nhập từ hoạt động đầu tư mở rộng xác định theo tỷ lệ giữa nguyên giá tài sản cố định đầu tư mới đưa vào sử dụng cho sản xuất, kinh doanh trên tổng nguyên giá tài sản cố định của doanh nghiệp.
 
+Thời gian miễn thuế, giảm thuế quy định tại khoản này được tính từ năm dự án đầu tư hoàn thành đưa vào sản xuất, kinh doanh.
 
-### Điều 33.11.TT.4.8. Thu nhập được miễn thuế
+Ưu đãi thuế quy định tại khoản này không áp dụng đối với các trường hợp đầu tư mở rộng do sáp nhập, mua lại doanh nghiệp hoặc dự án đầu tư đang hoạt động.
 
-*Nội dung chưa có sẵn*
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
 
-**Chỉ mục:** 8
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 4. Hướng dẫn thực hiện ưu đãi thuế thu nhập doanh nghiệp của Thông tư 83/2016/TT-BTC Hướng dẫn thực hiện ưu đãi đầu tư theo quy định của Luật đầu tư và Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư ban hành ngày 17/06/2016; Điều 33.11.LQ.13. Ưu đãi về thuế suất; Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế của Luật 14/2008/QH12 Thuế thu nhập doanh nghiệp ban hành ngày 03/06/2008; Điều 19.3.LQ.18. Doanh nghiệp công nghệ cao; Điều 19.3.LQ.19. Doanh nghiệp nông nghiệp ứng dụng công nghệ cao; Điều 19.3.LQ.22. Các biện pháp thúc đẩy ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; Điều 19.3.LQ.24. Đầu tư mạo hiểm cho phát triển công nghệ cao của Luật 21/2008/QH12 Công nghệ cao ban hành ngày 13/11/2008; Điều 19.5.LQ.64. Chính sách thuế đối với hoạt động khoa học và công nghệ)
 
-**Mã phân cấp:** 33011000000000003000014000000000000000000040249520218000160000802512600780000800
+Điều 33.11.NĐ.2.16. Miễn thuế, giảm thuế
 
-**ID:** dk_00053951
+(Điều 16 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014, có nội dung được sửa đổi, bổ sung theo quy định tại Khoản 16 Điều 1 Nghị định số 12/2015/ NĐ-CP, có hiệu lực từ ngày 01 tháng 01 năm 2015; Khoản 6 Điều 1 Nghị định số 91/2014/ NĐ-CP , có hiệu lực kể từ ngày 15 tháng 11 năm 2014 và áp dụng cho kỳ tính thuế thu nhập doanh nghiệp từ năm 2014.)
 
----
+1. Miễn thuế 4 năm, giảm 50% số thuế phải nộp trong 9 năm tiếp theo đối với:
 
+*a) Thu nhập của doanh nghiệp quy định tại Khoản 1 Điều 15 Nghị định này.*
 
-### Điều 33.11.TT.4.20. Ưu đãi về thời gian miễn thuế, giảm thuế
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới trong lĩnh vực xã hội hóa thực hiện tại địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định này.
+
+2. Miễn thuế 4 năm, giảm 50% số thuế phải nộp trong 5 năm tiếp theo đối với thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới trong lĩnh vực xã hội hóa tại địa bàn không thuộc danh mục địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định này.
+
+*3. Miễn thuế 2 năm và giảm 50% số thuế phải nộp trong 4 năm tiếp theo đối với thu nhập từ thực hiện dự án đầu tư mới quy định tại Khoản 3 Điều 15 Nghị định này và thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại khu công nghiệp (trừ khu công nghiệp nằm trên địa bàn có điều kiện - kinh tế xã hội thuận lợi).*
+
+*Địa bàn có điều kiện - kinh tế xã hội thuận lợi quy định tại Khoản này là các quận nội thành của đô thị loại đặc biệt, đô thị loại I trực thuộc Trung ương và các đô thị loại I trực thuộc tỉnh, không bao gồm các quận của đô thị loại đặc biệt, đô thị loại I trực thuộc Trung ương và các đô thị loại I trực thuộc tỉnh mới được thành lập từ huyện kể từ ngày 01 tháng 01 năm 2009; trường hợp khu công nghiệp nằm trên cả địa bàn thuận lợi và địa bàn không thuận lợi thì việc xác định ưu đãi thuế đối với khu công nghiệp căn cứ vào vị trí thực tế của dự án đầu tư trên thực địa. Việc xác định đô thị loại đặc biệt, loại I quy định tại Khoản này thực hiện theo quy định của Chính phủ quy định về phân loại đô thị.*
+
+4. Thời gian miễn thuế, giảm thuế quy định tại Điều này được tính liên tục từ năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư mới được hưởng ưu đãi thuế, trường hợp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu từ dự án đầu tư mới thì thời gian miễn thuế, giảm thuế được tính từ năm thứ tư. Thời gian miễn thuế, giảm thuế đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao tại Khoản 1 Điều này được tính từ thời điểm được công nhận là doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
+
+Trường hợp, trong kỳ tính thuế đầu tiên mà dự án đầu tư mới của doanh nghiệp có thời gian hoạt động sản xuất, kinh doanh được miễn thuế, giảm thuế dưới 12 (mười hai) tháng, doanh nghiệp được lựa chọn hưởng miễn thuế, giảm thuế đối với dự án đầu tư mới ngay kỳ tính thuế đó hoặc đăng ký với cơ quan thuế thời gian bắt đầu được miễn thuế, giảm thuế từ kỳ tính thuế tiếp theo.
+
+5. Doanh nghiệp có dự án đầu tư phát triển dự án đầu tư đang hoạt động thuộc lĩnh vực, địa bàn ưu đãi thuế thu nhập doanh nghiệp theo quy định của Nghị định này mở rộng quy mô sản xuất, nâng cao công suất, đổi mới công nghệ sản xuất nếu đáp ứng một trong ba tiêu chí quy định tại Khoản này thì được lựa chọn hưởng ưu đãi thuế theo dự án đang hoạt động cho thời gian còn lại (nếu có) hoặc được miễn thuế, giảm thuế đối với phần thu nhập tăng thêm do đầu tư mở rộng mang lại. Thời gian miễn thuế, giảm thuế đối với thu nhập tăng thêm do đầu tư mở rộng quy định tại Khoản này bằng với thời gian miễn thuế, giảm thuế áp dụng đối với dự án đầu tư mới trên cùng địa bàn, lĩnh vực ưu đãi thuế thu nhập doanh nghiệp.
+
+Dự án đầu tư mở rộng quy định tại Khoản này phải đáp ứng một trong các tiêu chí sau:
+
+- Nguyên giá tài sản cố định tăng thêm khi dự án đầu tư hoàn thành đi vào hoạt động đạt tối thiểu từ 20 tỷ đồng đối với dự án đầu tư mở rộng thuộc lĩnh vực hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định của Nghị định này hoặc từ 10 tỷ đồng đối với các dự án đầu tư mở rộng thực hiện tại các địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn theo quy định của pháp luật về thuế thu nhập doanh nghiệp;
+
+- Tỷ trọng nguyên giá tài sản cố định tăng thêm đạt tối thiểu từ 20% so với tổng nguyên giá tài sản cố định trước khi đầu tư;
+
+- Công suất thiết kế tăng thêm tối thiểu từ 20% so với công suất thiết kế trước khi đầu tư.
+
+Trường hợp doanh nghiệp đang hoạt động có đầu tư nâng cấp, thay thế, đổi mới công nghệ của dự án đang hoạt động thuộc lĩnh vực, địa bàn ưu đãi thuế theo quy định của Nghị định này mà không đáp ứng một trong ba tiêu chí quy định tại Điểm này thì ưu đãi thuế thực hiện theo dự án đang hoạt động cho thời gian còn lại (nếu có).
+
+Trường hợp doanh nghiệp chọn hưởng ưu đãi thuế theo diện đầu tư mở rộng thì phần thu nhập tăng thêm do đầu tư mở rộng được hạch toán riêng; trường hợp không hạch toán riêng được thì thu nhập từ hoạt động đầu tư mở rộng xác định theo tỷ lệ giữa nguyên giá tài sản cố định đầu tư mới đưa vào sử dụng cho sản xuất, kinh doanh trên tổng nguyên giá tài sản cố định của doanh nghiệp.
+
+Thời gian miễn thuế, giảm thuế quy định tại Khoản này được tính từ năm dự án đầu tư mở rộng hoàn thành đưa vào sản xuất, kinh doanh có thu nhập; trường hợp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu từ dự án đầu tư mở rộng thì thời gian miễn thuế, giảm thuế được tính từ năm thứ tư.
+
+Ưu đãi thuế quy định tại Khoản này không áp dụng đối với các trường hợp đầu tư mở rộng do nhận sáp nhập, mua lại doanh nghiệp hoặc dự án đầu tư đang hoạt động.
+
+PHỤ LỤC.docx
+
+(Điều này có nội dung liên quan đến Điều 1. Quy định về địa bàn ưu đãi đầu tư, ưu đãi thuế thu nhập doanh nghiệp đối với các đơn vị hành chính mới thành lập do Chính phủ điều chỉnh địa giới hành chính như sau: của Nghị định 53/2010/NĐ-CP Quy định về địa bàn ưu đãi đầu tư, ưu đãi thuế thu nhập doanh nghiệp đối với đơn vị hành chính mới thành lập do chính phủ điều chỉnh địa giới hành chính ban hành ngày 19/05/2010; Điều 19.3.LQ.18. Doanh nghiệp công nghệ cao; Điều 19.3.LQ.19. Doanh nghiệp nông nghiệp ứng dụng công nghệ cao; Điều 19.3.LQ.22. Các biện pháp thúc đẩy ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; Điều 33.11.NĐ.2.10. Thuế suất; Điều 33.11.NĐ.2.15. Thuế suất ưu đãi; Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp; Điều 33.11.TT.4.18. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp; Điều 33.11.TT.4.19. Thuế suất ưu đãi)
+
+Điều 33.11.TT.4.8. Thu nhập được miễn thuế
+
+(Điều 8 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 1, khoản 2, khoản 3 Điều 6 Thông tư số 96/2015/TT-BTC, có hiệu lực kể từ ngày 06 tháng 8 năm 2015; Điều 3 Thông tư số 151/2014/TT-BTC, có hiệu lực kể từ ngày 15 tháng 11 năm 2014.)
+
+1. Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản, sản xuất muối của hợp tác xã; Thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp thực hiện ở địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; Thu nhập của doanh nghiệp từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; Thu nhập từ hoạt động đánh bắt hải sản.
+
+a) Thu nhập từ trồng trọt (bao gồm cả sản phẩm rừng trồng), chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản của hợp tác xã và của doanh nghiệp được ưu đãi thuế (bao gồm ưu đãi về thuế suất, miễn giảm thuế) quy định tại Thông tư này là thu nhập từ sản phẩm do doanh nghiệp, hợp tác xã tự trồng trọt, chăn nuôi, nuôi trồng và thu nhập từ chế biến nông sản, thủy sản (bao gồm cả trường hợp hợp tác xã, doanh nghiệp mua sản phẩm nông sản, thủy sản về chế biến).
+
+Thu nhập của sản phẩm, hàng hóa chế biến từ nông sản, thủy sản được ưu đãi thuế (bao gồm ưu đãi về thuế suất, miễn giảm thuế) quy định tại Thông tư này phải đáp ứng đồng thời các điều kiện sau:
+
+- Tỷ lệ giá trị nguyên vật liệu là nông sản, thủy sản trên chi phí sản xuất hàng hóa, sản phẩm (giá thành sản xuất hàng hóa, sản phẩm) từ 30% trở lên.
+
+- Sản phẩm, hàng hóa từ chế biến nông sản, thủy sản không thuộc diện chịu thuế tiêu thụ đặc biệt, trừ trường hợp do Thủ tướng Chính phủ quyết định theo đề xuất của Bộ Tài chính.
+
+Doanh nghiệp phải xác định riêng thu nhập sản phẩm, hàng hóa chế biến từ nông sản, thủy sản để được hưởng ưu đãi thuế thu nhập doanh nghiệp.
+
+Thu nhập miễn thuế tại Khoản này bao gồm cả thu nhập từ thanh lý các sản phẩm trồng trọt, chăn nuôi, nuôi trồng (trừ thanh lý vườn cây cao su), thu nhập từ việc bán phế liệu phế phẩm liên quan đến các sản phẩm trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản.
+
+Sản phẩm từ trồng trọt, chăn nuôi, nuôi trồng của hợp tác xã và của doanh nghiệp được xác định căn cứ theo mã ngành kinh tế cấp 1 của ngành nông nghiệp, lâm nghiệp và thủy sản quy định tại Hệ thống ngành kinh tế Việt Nam.
+
+2. Thu nhập từ việc thực hiện dịch vụ kỹ thuật trực tiếp phục vụ nông nghiệp gồm: thu nhập từ dịch vụ tưới, tiêu nước; cày, bừa đất; nạo vét kênh, mương nội đồng; dịch vụ phòng trừ sâu, bệnh cho cây trồng, vật nuôi; dịch vụ thu hoạch sản phẩm nông nghiệp.
+
+3. Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ theo quy định của pháp luật về khoa học và công nghệ được miễn thuế trong thời gian thực hiện hợp đồng nhưng tối đa không quá 03 năm kể từ ngày bắt đầu có doanh thu từ thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ;
+
+Thu nhập từ bán sản phẩm làm ra từ công nghệ mới lần đầu tiên áp dụng ở Việt Nam theo quy định của pháp luật và hướng dẫn của Bộ Khoa học và Công nghệ được miễn thuế tối đa không quá 05 năm kể từ ngày có doanh thu từ bán sản phẩm;
+
+Thu nhập từ bán sản phẩm sản xuất thử nghiệm trong thời gian sản xuất thử nghiệm theo quy định của pháp luật.
+
+a) Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ được miễn thuế phải đảm bảo các điều kiện sau;
+
+- Có chứng nhận đăng ký hoạt động nghiên cứu khoa học;
+
+- Được cơ quan quản lý Nhà nước về khoa học có thẩm quyền xác nhận là hợp đồng nghiên cứu khoa học và phát triển công nghệ.
+
+b) Thu nhập từ doanh thu bán sản phẩm làm ra từ công nghệ mới lần đầu tiên được áp dụng tại Việt Nam được miễn thuế phải đảm bảo công nghệ mới lần đầu tiên áp dụng tại Việt Nam được cơ quan quản lý Nhà nước về khoa học có thẩm quyền xác nhận.
+
+4. Thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ của doanh nghiệp có số lao động là người khuyết tật, người sau cai nghiện ma túy, người nhiễm HIV bình quân trong năm chiếm từ 30% trở lên trong tổng số lao động bình quân trong năm của doanh nghiệp.
+
+Thu nhập được miễn thuế quy định tại Khoản này không bao gồm thu nhập khác quy định tại Điều 7 Thông tư này.
+
+Doanh nghiệp thuộc điện được miễn thuế quy định tại Khoản này là doanh nghiệp có số lao động bình quân trong năm ít nhất từ 20 người trở lên và không bao gồm các doanh nghiệp hoạt động trong lĩnh vực tài chính, kinh doanh bất động sản.
+
+Doanh nghiệp có thu nhập được miễn thuế theo quy định tại Khoản này phải đáp ứng đủ các điều kiện sau:
+
+a) Đối với doanh nghiệp có sử dụng lao động là người khuyết tật (bao gồm cả thương binh, bệnh binh) phải có xác nhận của cơ quan y tế có thẩm quyền về số lao động là người khuyết tật.
+
+b) Đối với doanh nghiệp có sử dụng lao động là người sau cai nghiện ma túy phải có giấy chứng nhận hoàn thành cai nghiện của các cơ sở cai nghiện hoặc xác nhận của cơ quan có thẩm quyền liên quan.
+
+c) Đối với doanh nghiệp có sử dụng lao động là người nhiễm HIV phải có xác nhận của cơ quan y tế có thẩm quyền về số lao động là người nhiễm HIV.
+
+5. Thu nhập từ hoạt động dạy nghề dành riêng cho người dân tộc thiểu số, người khuyết tật, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội, người đang cai nghiện, người sau cai nghiện, người nhiễm HIV/AIDS. Trường hợp cơ sở dạy nghề có cả đối tượng khác thì phần thu nhập được miễn thuế được xác định tương ứng với tỷ lệ học viên là người dân tộc thiểu số, người khuyết tật, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội, người đang cai nghiện, người sau cai nghiện, người nhiễm HIV/AIDS trong tổng số học viên.
+
+Thu nhập từ hoạt động dạy nghề được miễn thuế tại Khoản này phải đáp ứng đủ các điều kiện sau:
+
+- Cơ sở dạy nghề được thành lập và hoạt động theo quy định của các văn bản hướng dẫn về dạy nghề.
+
+- Có danh sách các học viên là người dân tộc thiểu số, người khuyết tật, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội, người đang cai nghiện, người sau cai nghiện, người nhiễm HIV/AIDS.
+
+6. Thu nhập được chia từ hoạt động góp vốn, mua cổ phần, liên doanh, liên kết kinh tế với doanh nghiệp trong nước, sau khi bên nhận góp vốn, phát hành cổ phiếu, liên doanh, liên kết đã nộp thuế thu nhập doanh nghiệp theo quy định của Luật Thuế thu nhập doanh nghiệp, kể cả trường hợp bên nhận góp vốn, phát hành cổ phiếu, bên liên doanh, liên kết được hưởng ưu đãi thuế thu nhập doanh nghiệp.
+
+Ví dụ 11: Doanh nghiệp B nhận vốn góp của doanh nghiệp A. Thu nhập trước thuế tương ứng với phần vốn góp của doanh nghiệp A trong doanh nghiệp B là 100 triệu đồng.
+
+- Trường hợp 1: Doanh nghiệp B không được ưu đãi thuế thu nhập doanh nghiệp và doanh nghiệp B đã nộp đủ thuế thu nhập doanh nghiệp bao gồm cả khoản thu nhập của doanh nghiệp A nhận được thì thu nhập mà doanh nghiệp A nhận được từ hoạt động góp vốn là 78 triệu đồng [(100 triệu - (100 triệu x 22%)], doanh nghiệp A được miễn thuế thu nhập doanh nghiệp đối với 78 triệu đồng này.
+
+- Trường hợp 2: Doanh nghiệp B được giảm 50% số thuế thu nhập doanh nghiệp phải nộp và doanh nghiệp B đã nộp đủ thuế thu nhập doanh nghiệp bao gồm cả khoản thu nhập của doanh nghiệp A nhận được theo số thuế thu nhập được giảm thì thu nhập mà doanh nghiệp A nhận được từ hoạt động góp vốn là 89 triệu đồng [100 triệu - (100 triệu x 22% x 50%)], doanh nghiệp A được miễn thuế thu nhập doanh nghiệp đối với 89 triệu đồng này.
+
+- Trường hợp 3: Doanh nghiệp B được miễn thuế thu nhập doanh nghiệp thì thu nhập mà doanh nghiệp A nhận được từ hoạt động góp vốn là 100 triệu đồng, doanh nghiệp A được miễn thuế thu nhập doanh nghiệp đối với 100 triệu đồng này.
+
+7. Khoản tài trợ nhận được để sử dụng cho hoạt động giáo dục, nghiên cứu khoa học, văn hóa, nghệ thuật, từ thiện, nhân đạo và hoạt động xã hội khác tại Việt Nam.
+
+Trường hợp tổ chức nhận tài trợ sử dụng không đúng mục đích các khoản tài trợ trên thì tổ chức nhận tài trợ phải tính nộp thuế thu nhập doanh nghiệp tính trên phần sử dụng sai mục đích trong kỳ tính thuế phát sinh việc sử dụng sai mục đích.
+
+Tổ chức nhận tài trợ quy định tại Khoản này phải được thành lập và hoạt động theo quy định của pháp luật, thực hiện đúng quy định của pháp luật về kế toán thống kê.
+
+8. Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải (CERs) lần đầu của doanh nghiệp được cấp chứng chỉ giảm phát thải; các lần chuyển nhượng tiếp theo nộp thuế thu nhập doanh nghiệp theo quy định.
+
+Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải (CERs) được miễn thuế phải đảm bảo khi bán hoặc chuyển nhượng chứng chỉ giảm phát thải (CERs) phải được cơ quan có thẩm quyền về môi trường xác nhận theo quy định.
+
+9.Thu nhập từ thực hiện nhiệm vụ Nhà nước giao của Ngân hàng Phát triển Việt Nam trong hoạt động tín dụng đầu tư phát triển, tín dụng xuất khẩu; thu nhập từ hoạt động tín dụng cho người nghèo và các đối tượng chính sách khác của Ngân hàng chính sách xã hội; thu nhập của Công ty trách nhiệm hữu hạn một thành viên quản lý tài sản của các tổ chức tín dụng Việt Nam; thu nhập từ hoạt động có thu do thực hiện nhiệm vụ Nhà nước giao của các quỹ tài chính Nhà nước: Quỹ Bảo hiểm xã hội Việt Nam, tổ chức Bảo hiểm tiền gửi, Quỹ Bảo hiểm Y tế, Quỹ hỗ trợ học nghề, Quỹ hỗ trợ việc làm ngoài nước thuộc Bộ Lao động - Thương binh và Xã hội, Quỹ hỗ trợ nông dân, Quỹ trợ giúp pháp lý Việt Nam, Quỹ viễn thông công ích, Quỹ đầu tư phát triển địa phương, Quỹ Bảo vệ môi trường Việt Nam, Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa, Quỹ hỗ trợ phát triển Hợp tác xã, Quỹ hỗ trợ phụ nữ nghèo, Quỹ bảo hộ công dân và pháp nhân tại nước ngoài, Quỹ phát triển nhà, Quỹ phát triển doanh nghiệp nhỏ và vừa, Quỹ phát triển khoa học và công nghệ quốc gia, Quỹ đổi mới công nghệ quốc gia, Quỹ hỗ trợ vốn cho người lao động nghèo tự tạo việc làm, thu nhập từ thực hiện nhiệm vụ Nhà nước giao của Quỹ phát triển đất và quỹ khác của Nhà nước hoạt động không vì mục tiêu lợi nhuận do Chính phủ, Thủ tướng Chính phủ quy định hoặc quyết định được thành lập và hoạt động theo quy định của pháp luật.
+
+Trường hợp các đơn vị phát sinh các khoản thu nhập khác ngoài các khoản thu nhập từ hoạt động có thu do thực hiện nhiệm vụ Nhà nước giao phải tính và nộp thuế theo quy định.
+
+10. Phần thu nhập không chia:
+
+a) Phần thu nhập không chia của các cơ sở xã hội hóa trong lĩnh vực giáo dục - đào tạo, y tế và lĩnh vực xã hội hóa khác (bao gồm cả Văn phòng giám định tư pháp) để lại để đầu tư phát triển cơ sở đó theo quy định của pháp luật chuyên ngành về giáo dục - đào tạo, y tế và lĩnh vực xã hội hóa khác. Phần thu nhập không chia được miễn thuế của các cơ sở xã hội hóa quy định tại khoản này không bao gồm trường hợp đơn vị để lại để đầu tư mở rộng các ngành nghề, hoạt động kinh doanh khác không thuộc lĩnh vực giáo dục - đào tạo, y tế và lĩnh vực xã hội hóa khác.
+
+Cơ sở thực hiện xã hội hóa là:
+
+- Các cơ sở ngoài công lập được thành lập và có đủ điều kiện hoạt động theo quy định của cơ quan nhà nước có thẩm quyền trong các lĩnh vực xã hội hóa.
+
+- Các doanh nghiệp được thành lập để hoạt động trong các lĩnh vực xã hội hóa và có đủ điều kiện hoạt động theo quy định của cơ quan nhà nước có thẩm quyền.
+
+- Các cơ sở sự nghiệp công lập thực hiện góp vốn, huy động vốn, liên doanh, liên kết theo quy định của pháp luật thành lập các cơ sở hạch toán độc lập hoặc doanh nghiệp hoạt động trong các lĩnh vực xã hội hóa theo quyết định của cơ quan nhà nước có thẩm quyền.
+
+Cơ sở xã hội hóa phải đáp ứng danh mục loại hình, tiêu chí quy mô, tiêu chuẩn theo danh mục do Thủ tướng Chính phủ quy định.
+
+b) Phần thu nhập không chia của hợp tác xã để lại để hình thành tài sản của hợp tác xã.
+
+c) Trường hợp phần thu nhập không chia để lại theo quy định tại khoản này mà các đơn vị có chia hoặc chi sai mục đích sẽ bị truy thu thuế thu nhập doanh nghiệp theo mức thuế suất tại thời điểm chia hoặc chi sai mục đích và xử phạt vi phạm pháp luật về thuế theo quy định.
+
+11. Thu nhập từ chuyển giao công nghệ thuộc lĩnh vực ưu tiên chuyển giao cho tổ chức, cá nhân ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.
+
+Thủ tục chuyển giao công nghệ được thực hiện theo quy định tại Luật chuyển giao công nghệ, Nghị định số 133/2008/NĐ-CP ngày 31/12/2008 của Chính phủ quy định chi tiết thi hành và hướng dẫn thi hành một số điều của Luật chuyển giao công nghệ và các văn bản quy pháp luật hướng dẫn thi hành Luật chuyển giao công nghệ.
+
+Lĩnh vực ưu tiên chuyển giao công nghệ là các lĩnh vực thuộc danh mục công nghệ khuyến khích chuyển giao (ban hành kèm theo Nghị định số 133/2008/NĐ-CP) và các văn bản sửa đổi, bổ sung Nghị định này (nếu có).
+
+12. Thu nhập của văn phòng thừa phát lại (trừ các khoản thu nhập nhập từ các hoạt động khác ngoài hoạt động thừa phát lại) trong thời gian thực hiện thí điểm theo quy định của pháp luật về thi hành án dân sự.
+
+Văn phòng thừa phát lại và hoạt động thừa phát lại thực hiện theo quy định tại các văn bản quy pháp luật có liên quan về vấn đề này.
+
+(Điều này có nội dung liên quan đến Điều 33.12.LQ.3. Đối tượng không chịu thuế của Luật 27/2008/QH12 Thuế tiêu thụ đặc biệt ban hành ngày 14/11/2008; Điều 6.3.LQ.34. Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người khuyết tật của Luật 51/2010/QH12 Người khuyết tật ban hành ngày 17/06/2010; Chương III HỢP ĐỒNG CHUYỂN GIAO CÔNG NGHỆ; Điều 19.2.LQ.9. Công nghệ khuyến khích chuyển giao; Điều 19.2.LQ.39. Chính sách thuế để thúc đẩy hoạt động chuyển giao, ứng dụng, đổi mới công nghệ; Điều 19.2.LQ.49. Công nghệ khuyến khích chuyển giao cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn; Điều 19.2.NĐ.1.3. Danh mục công nghệ khuyến khích chuyển giao, Danh mục công nghệ hạn chế chuyển giao và Danh mục công nghệ cấm chuyển giao; Điều 19.2.NĐ.1.4. Giá và phương thức thanh toán chuyển giao công nghệ; Điều 33.11.TT.4.7. Thu nhập khác của Thông tư 78/2014/TT-BTC Hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 18/06/2014)
 
 Điều 33.11.TT.4.20. Ưu đãi về thời gian miễn thuế, giảm thuế
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 6 Thông tư số 151/2014/TT-BTC có hiệu lực thi hành kể từ ngày 15/11/2014; Điều 12, Điều 14 Thông tư số 96/2015/TT-BTC có hiệu lực thi hành kể từ ngày 06/08/2015)
 
-**Mã phân cấp:** 33011000000000003000014000000000000000000040249520218000160000802512600780002000
+1. Miễn thuế bốn năm, giảm 50% số thuế phải nộp trong chín năm tiếp theo đối với:
 
-**ID:** dk_00053952
+a)Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư quy định tại khoản 1 Điều 19 Thông tư số 78/2014/TT-BTC (được sửa đổi, bổ sung tại Khoản 1 Điều 11 Thông tư này).
 
----
+b) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới trong lĩnh vực xã hội hóa thực hiện tại địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định số 218/2013/NĐ-CP.
 
+2. Miễn thuế bốn năm, giảm 50% số thuế phải nộp trong năm năm tiếp theo đối với thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới trong lĩnh vực xã hội hóa thực hiện tại địa bàn không thuộc danh mục địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn quy định tại Phụ lục ban hành kèm theo Nghị định số 218/2013/NĐ-CP của Chính phủ.
 
-### Điều 33.11.TT.8.1. Cơ sở thực hiện xã hội hóa thành lập trước ngày Quyết định số 1470/QĐ-TTg ngày 22 tháng 7 năm 2016 của Thủ tướng Chính phủ có hiệu lực thi hành, có thu nhập từ hoạt động xã hội hóa, có trách nhiệm thực hiện nghĩa vụ thuế thu nhập doanh nghiệp như sau:
+3.Miễn thuế 2 năm và giảm 50% số thuế phải nộp trong 4 năm tiếp theo đối với thu nhập từ thực hiện dự án đầu tư mới quy định tại Khoản 4 Điều 19 Thông tư số 78/2014/TT-BTC ngày 18/6/2014 của Bộ Tài chính và thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới tại Khu công nghiệp (trừ Khu công nghiệp nằm trên địa bàn có điều kiện - kinh tế xã hội thuận lợi).
+
+Địa bàn có điều kiện - kinh tế xã hội thuận lợi quy định tại khoản này là các quận nội thành của đô thị loại đặc biệt, đô thị loại I trực thuộc trung ương và các đô thị loại I trực thuộc tỉnh, không bao gồm các quận của đô thị loại đặc biệt, đô thị loại I trực thuộc trung ương và các đô thị loại I trực thuộc tỉnh mới được thành lập từ huyện kể từ ngày 01/01/2009; trường hợp khu công nghiệp nằm trên cả địa bàn thuận lợi và địa bàn không thuận lợi thì việc xác định ưu đãi thuế đối với khu công nghiệp căn cứ vào vị trí thực tế của dự án đầu tư trên thực địa.
+
+Việc xác định đô thị loại đặc biệt, loại I quy định tại khoản này thực hiện theo quy định tại Nghị định 42/2009/NĐ-CP ngày 07/5/2009 của Chính phủ quy định về phân loại đô thị và văn bản sửa đổi Nghị định này (nếu có).
+
+4. Thời gian miễn thuế, giảm thuế quy định tại Điều này được tính liên tục từ năm đầu tiên doanh nghiệp có thu nhập chịu thuế từ dự án đầu tư mới được hưởng ưu đãi thuế. Trường hợp doanh nghiệp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu từ dự án đầu tư mới thì thời gian miễn thuế, giảm thuế được tính từ năm thứ tư dự án đầu tư mới phát sinh doanh thu.
+
+Ví dụ 20: Năm 2014, doanh nghiệp A có dự án đầu tư mới sản xuất sản phẩm phần mềm, nếu năm 2014 doanh nghiệp A đã có thu nhập chịu thuế từ dự án sản xuất sản phẩm phần mềm thì thời gian miễn giảm thuế được tính liên tục kể từ năm 2014. Trường hợp dự án đầu tư mới sản xuất sản phẩm phần mềm của doanh nghiệp A phát sinh doanh thu từ năm 2014, đến năm 2016 dự án đầu tư mới của doanh nghiệp A vẫn chưa có thu nhập chịu thuế thì thời gian miễn giảm thuế được tính liên tục kể từ năm 2017.
+
+Thời gian miễn thuế, giảm thuế đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao theo quy định nêu trên được tính từ năm được cấp Giấy chứng nhận công nhận là doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
+
+5.**(được bãi bỏ)**
+
+PHỤ LỤC.docx
+
+(Điều này có nội dung liên quan đến Điều 43.4.NĐ.1.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 33.11.TT.4.19. Thuế suất ưu đãi)
 
 Điều 33.11.TT.8.1. Cơ sở thực hiện xã hội hóa thành lập trước ngày Quyết định số 1470/QĐ-TTg ngày 22 tháng 7 năm 2016 của Thủ tướng Chính phủ có hiệu lực thi hành, có thu nhập từ hoạt động xã hội hóa, có trách nhiệm thực hiện nghĩa vụ thuế thu nhập doanh nghiệp như sau:
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 71/2021/TT-BTC Hướng dẫn về thuế thu nhập doanh nghiệp đối với cơ sở thực hiện xã hội hóa chưa truy thu theo Nghị quyết số 63/NQ-CP ngày 25 tháng 8 năm 2014 của Chính phủ ngày 17/08/2021 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/11/2021 )
 
-**Mã phân cấp:** 330110000000000030000140000000000000000000802774300710000100
+1. Cơ sở thực hiện xã hội hóa được hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định pháp luật và quyết định của Thủ tướng Chính phủ trong từng thời kỳ, cụ thể:
 
-**ID:** dk_00053953
+a) Trường hợp cơ sở thực hiện xã hội hóa đáp ứng được các điều kiện theo Danh mục chi tiết các loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao, môi trường ban hành kèm theo Quyết định số 1466/QĐ-TTg ngày 10 tháng 10 năm 2008 của Thủ tướng Chính phủ (sau đây viết tắt là Quyết định số 1466/QĐ-TTg) thì được hưởng ưu đãi về thuế thu nhập doanh nghiệp cho thời gian còn lại theo quy định của pháp luật thuế thu nhập doanh nghiệp kể từ khi đáp ứng được các điều kiện theo Quyết định số 1466/QĐ-TTg.
 
----
+b) Trường hợp cơ sở thực hiện xã hội hóa đáp ứng được các điều kiện theo Danh mục sửa đổi, bổ sung một số nội dung của Danh mục loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục và đào tạo, dạy nghề, y tế, văn hóa, thể thao, môi trường ban hành kèm theo Quyết định số 693/QĐ-TTg ngày 06 tháng 5 năm 2013 của Thủ tướng Chính phủ (sau đây viết tắt là Quyết định số 693/QĐ-TTg) thì được hưởng ưu đãi thuế thu nhập doanh nghiệp cho thời gian còn lại theo quy định của pháp luật thuế thu nhập doanh nghiệp kể từ khi đáp ứng được các điều kiện theo Quyết định số 693/QĐ-TTg.
 
+c) Trường hợp cơ sở thực hiện xã hội hóa đáp ứng được các điều kiện theo Danh mục sửa đổi, bổ sung một số nội dung của Danh mục loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục và đào tạo, dạy nghề, y tế, văn hóa, thể thao, môi trường ban hành kèm theo Quyết định số 1470/QĐ-TTg ngày 22 tháng 7 năm 2016 của Thủ tướng Chính phủ (sau đây viết tắt là Quyết định số 1470/QĐ-TTg) thì được hưởng ưu đãi thuế thu nhập doanh nghiệp cho thời gian còn lại theo quy định của pháp luật thuế thu nhập doanh nghiệp kể từ khi đáp ứng được các điều kiện theo Quyết định số 1470/QĐ-TTg.
 
-### Điều 33.11.LQ.15. Các trường hợp giảm thuế khác
+d) Trường hợp cơ sở thực hiện xã hội hóa đáp ứng được các điều kiện theo Danh mục chi tiết các loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao, môi trường trước thời điểm Quyết định số 1466/QĐ-TTg hoặc Quyết định số 693/QĐ-TTg hoặc Quyết định số 1470/QĐ-TTg có hiệu lực thi hành thì được hưởng ưu đãi về thuế thu nhập doanh nghiệp cho thời gian còn lại theo quy định của pháp luật thuế thu nhập doanh nghiệp từ thời điểm Quyết định số 1466/QĐ-TTg hoặc Quyết định số 693/QĐ-TTg hoặc Quyết định số 1470/QĐ-TTg có hiệu lực thi hành.
 
-*Nội dung chưa có sẵn*
+2. Cơ sở thực hiện xã hội hóa không đáp ứng các điều kiện theo quy định tại các Quyết định của Thủ tướng Chính phủ nêu tại khoản 1 Điều này thực hiện kê khai bổ sung số thuế thu nhập doanh nghiệp còn thiếu (nếu có), tự tính số thuế thu nhập doanh nghiệp phải nộp hoặc cơ quan thuế thực hiện truy thu số thuế thu nhập doanh nghiệp theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành đến thời điểm đáp ứng các điều kiện theo quy định tại các Quyết định của Thủ tướng Chính phủ.
 
-**Chỉ mục:** 15
+3. Cơ sở thực hiện xã hội hóa có thuế thu nhập doanh nghiệp phát sinh quy định tại khoản 2 Điều này không bị phạt vi phạm pháp luật về thuế và không tính tiền chậm nộp tính trên số tiền thuế thu nhập doanh nghiệp tạm thời chưa truy thu theo quy định tại Điều 24 Thông tư số 151/2014/TT-BTC ngày 10 tháng 10 năm 2014 của Bộ Tài chính đến thời điểm Thông tư này có hiệu lực thi hành. Kể từ ngày tiếp theo ngày Thông tư này có hiệu lực thi hành mà cơ sở thực hiện xã hội hóa chưa nộp số thuế thu nhập doanh nghiệp tạm thời chưa thu nêu trên thì phải nộp tiền chậm nộp tính trên số tiền thuế chưa nộp và xử phạt vi phạm pháp luật về thuế (nếu có).
 
-**Mã phân cấp:** 3301100000000000300001500000000000000000
+Điều 33.11.LQ.15. Các trường hợp giảm thuế khác
 
-**ID:** dk_00053954
+(Điều 15 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, có nội dung được bổ sung theo quy định tại khoản 9 Điều 1 của Luật số 32/2013/QH13 sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp, có hiệu lực kể từ ngày 01 tháng 01 năm 2014.)
 
----
+1. Doanh nghiệp sản xuất, xây dựng, vận tải sử dụng nhiều lao động nữ được giảm thuế thu nhập doanh nghiệp bằng số chi thêm cho lao động nữ.
 
+2. Doanh nghiệp sử dụng nhiều lao động là người dân tộc thiểu số được giảm thuế thu nhập doanh nghiệp bằng số chi thêm cho lao động là người dân tộc thiểu số.
 
-### Điều 33.11.NĐ.2.17. Giảm thuế đối với các trường hợp khác
+3. Doanh nghiệp thực hiện chuyển giao công nghệ thuộc lĩnh vực ưu tiên chuyển giao cho tổ chức, cá nhân ở địa bàn có điều kiện kinh tế - xã hội khó khăn được giảm 50% số thuế thu nhập doanh nghiệp tính trên phần thu nhập từ chuyển giao công nghệ.
+
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế của Luật 14/2008/QH12 Thuế thu nhập doanh nghiệp ban hành ngày 03/06/2008; Điều 19.5.LQ.64. Chính sách thuế đối với hoạt động khoa học và công nghệ; Điều 19.2.LQ.39. Chính sách thuế để thúc đẩy hoạt động chuyển giao, ứng dụng, đổi mới công nghệ; Điều 19.2.LQ.49. Công nghệ khuyến khích chuyển giao cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn)
 
 Điều 33.11.NĐ.2.17. Giảm thuế đối với các trường hợp khác
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
 
-**Mã phân cấp:** 330110000000000030000150000000000000000000402495202180001700
+1. Doanh nghiệp sản xuất, xây dựng, vận tải sử dụng từ 10 đến 100 lao động nữ, trong đó số lao động nữ chiếm trên 50% tổng số lao động có mặt thường xuyên hoặc sử dụng thường xuyên trên 100 lao động nữ mà số lao động nữ chiếm trên 30% tổng số lao động có mặt thường xuyên của doanh nghiệp được giảm thuế thu nhập doanh nghiệp bằng số chi thêm cho lao động nữ, gồm:
 
-**ID:** dk_00053955
+a) Chi đào tạo lại nghề;
 
----
+b) Chi phí tiền lương và phụ cấp (nếu có) cho cô giáo dạy ở nhà trẻ, mẫu giáo do doanh nghiệp tổ chức và quản lý;
 
+c) Chi khám sức khỏe thêm trong năm;
 
-### Điều 33.11.NĐ.3.2. Giảm thuế thu nhập doanh nghiệp
+d) Chi bồi dưỡng cho lao động nữ sau khi sinh con. Căn cứ quy định của pháp luật về lao động, Bộ Tài chính phối hợp với Bộ Lao động - Thương binh và Xã hội quy định cụ thể mức chi bồi dưỡng quy định tại Khoản này;
 
-*Nội dung chưa có sẵn*
+đ) Lương, phụ cấp trả cho thời gian lao động nữ được nghỉ sau khi sinh con, nghỉ cho con bú theo chế độ nhưng vẫn làm việc.
 
-**Chỉ mục:** 2
+2. Doanh nghiệp sử dụng lao động là người dân tộc thiểu số được giảm thuế thu nhập doanh nghiệp bằng số chi thêm cho lao động là người dân tộc thiểu số để đào tạo nghề, tiền hỗ trợ về nhà ở, bảo hiểm xã hội, bảo hiểm y tế cho người dân tộc thiểu số trong trường hợp chưa được Nhà nước hỗ trợ theo chế độ quy định.
 
-**Mã phân cấp:** 330110000000000030000150000000000000000000402741701140000200
+3. Doanh nghiệp thực hiện chuyển giao công nghệ thuộc lĩnh vực ưu tiên chuyển giao cho các tổ chức, cá nhân thuộc địa bàn có điều kiện kinh tế - xã hội khó khăn được giảm 50% số thuế thu nhập doanh nghiệp tính trên phần thu nhập từ chuyển giao công nghệ.
 
-**ID:** dk_00053956
+(Điều này có nội dung liên quan đến Điều 4. Thuế thu nhập doanh nghiệp: của Thông tư 128/2011/TT-BTC Hướng dẫn thuế giá trị gia tăng và thuế thu nhập doanh nghiệp đối với cơ sở y tế công lập ban hành ngày 12/09/2011)
 
----
+Điều 33.11.NĐ.3.2. Giảm thuế thu nhập doanh nghiệp
 
+(Điều 2 Nghị định số 114/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/08/2020)
 
-### Điều 33.11.NĐ.3.3. Kê khai giảm thuế
+1. Giảm 30% số thuế thu nhập doanh nghiệp phải nộp của kỳ tính thuế thu nhập doanh nghiệp năm 2020 đối với trường hợp doanh nghiệp có tổng doanh thu năm 2020 không quá 200 tỷ đồng.
 
-*Nội dung chưa có sẵn*
+2. Tổng doanh thu năm 2020 làm căn cứ xác định đối tượng áp dụng được giảm thuế theo quy định tại khoản 1 Điều này là tổng doanh thu trong kỳ tính thuế thu nhập doanh nghiệp năm 2020 của doanh nghiệp bao gồm toàn bộ tiền bán hàng, tiền gia công, tiền cung ứng dịch vụ kể cả trợ giá, phụ thu, phụ trội mà doanh nghiệp được hưởng theo quy định của Luật Thuế thu nhập doanh nghiệp và các văn bản hướng dẫn thi hành.
 
-**Chỉ mục:** 3
+Trường hợp doanh nghiệp mới thành lập, doanh nghiệp chuyển đổi loại hình doanh nghiệp, chuyển đổi hình thức sở hữu, hợp nhất, sáp nhập, chia, tách, giải thể, phá sản trong kỳ tính thuế thu nhập doanh nghiệp năm 2020 hoạt động không đủ 12 tháng thì tổng doanh thu năm 2020 được xác định bằng tổng doanh thu thực tế trong kỳ tính thuế thu nhập doanh nghiệp năm 2020 chia (:) cho số tháng doanh nghiệp thực tế hoạt động sản xuất, kinh doanh trong kỳ tính thuế thu nhập doanh nghiệp năm 2020 nhân (x) với 12 tháng. Trường hợp doanh nghiệp mới thành lập, doanh nghiệp chuyển đổi loại hình doanh nghiệp, chuyển đổi hình thức sở hữu, hợp nhất, sáp nhập, chia, tách, giải thể, phá sản trong tháng thì thời gian hoạt động được tính đủ tháng.
 
-**Mã phân cấp:** 330110000000000030000150000000000000000000402741701140000300
+3. Trường hợp doanh nghiệp dự kiến tổng doanh thu trong kỳ tính thuế thu nhập doanh nghiệp năm 2020 không quá 200 tỷ đồng thì doanh nghiệp xác định tạm nộp hàng quý bằng 70% số thuế thu nhập doanh nghiệp phải nộp của quý.
 
-**ID:** dk_00053957
+4. Kết thúc kỳ tính thuế thu nhập doanh nghiệp năm 2020, trường hợp tổng doanh thu năm 2020 của doanh nghiệp không quá 200 tỷ đồng thì doanh nghiệp thực hiện kê khai giảm thuế thu nhập doanh nghiệp của năm 2020 khi quyết toán thuế thu nhập doanh nghiệp theo quy định.
 
----
+Số thuế thu nhập doanh nghiệp được giảm của kỳ tính thuế thu nhập doanh nghiệp năm 2020 được tính trên toàn bộ thu nhập của doanh nghiệp, bao gồm cả các khoản thu nhập quy định tại khoản 3 Điều 18 Luật Thuế thu nhập doanh nghiệp.
 
+Số thuế thu nhập doanh nghiệp được giảm quy định tại Nghị định này được tính trên số thuế thu nhập doanh nghiệp phải nộp của kỳ tính thuế thu nhập doanh nghiệp năm 2020, sau khi đã trừ đi số thuế thu nhập doanh nghiệp mà doanh nghiệp đang được hưởng ưu đãi theo quy định của Luật Thuế thu nhập doanh nghiệp và các văn bản hướng dẫn thi hành.
 
-### Điều 33.11.TT.4.21. Các trường hợp giảm thuế khác
+5. Kỳ tính thuế thu nhập doanh nghiệp được xác định theo năm dương lịch, trường hợp doanh nghiệp áp dụng năm tài chính khác với năm dương lịch thì kỳ tính thuế thu nhập doanh nghiệp xác định theo năm tài chính áp dụng quy định tại Luật Thuế thu nhập doanh nghiệp và các văn bản hướng dẫn thi hành.
 
-*Nội dung chưa có sẵn*
+6. Trường hợp kỳ tính thuế năm đầu tiên của doanh nghiệp mới thành lập là năm 2019 hoặc kỳ tính thuế năm cuối cùng đối với doanh nghiệp chuyển đổi loại hình doanh nghiệp, chuyển đổi hình thức sở hữu, hợp nhất, sáp nhập, chia, tách, giải thể, phá sản là năm 2021 có thời gian ngắn hơn 03 tháng thì được cộng với kỳ tính thuế thu nhập doanh nghiệp năm 2020 để hình thành một kỳ tính thuế thu nhập doanh nghiệp. Việc xác định tổng doanh thu và số thuế được giảm trong trường hợp này chỉ áp dụng cho kỳ tính thuế thu nhập doanh nghiệp năm 2020 (12 tháng).
 
-**Chỉ mục:** 21
+(Điều này có nội dung liên quan đến Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế)
 
-**Mã phân cấp:** 330110000000000030000150000000000000000000802512600780002100
+Điều 33.11.NĐ.3.3. Kê khai giảm thuế
 
-**ID:** dk_00053958
+(Điều 3 Nghị định số 114/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/08/2020)
 
----
+1. Doanh nghiệp tự xác định số thuế thu nhập doanh nghiệp được giảm khi tạm nộp hàng quý và khi kê khai thuế thu nhập doanh nghiệp phải nộp trong kỳ tính thuế thu nhập doanh nghiệp năm 2020. Khi lập hồ sơ khai thuế, doanh nghiệp kê khai số thuế thu nhập doanh nghiệp được giảm trên các mẫu tờ khai ban hành kèm theo Thông tư số 151/2014/TT-BTC ngày 10 tháng 10 năm 2014 của Bộ Tài chính và các văn bản sửa đổi, bổ sung (nếu có) và trên Phụ lục thuế thu nhập doanh nghiệp được giảm theo Nghị quyết số 116/2020/QH14 ban hành kèm theo Nghị định này.
 
+2. Khi thực hiện quyết toán thuế thu nhập doanh nghiệp, trường hợp doanh nghiệp nộp thiếu so với số thuế phải tạm nộp quý thì doanh nghiệp nộp bổ sung số tiền thuế còn thiếu và tính tiền chậm nộp theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành. Trường hợp doanh nghiệp đã nộp thuế nhiều hơn so với số thuế phải nộp của kỳ tính thuế thu nhập doanh nghiệp năm 2020 thì xử lý số tiền thuế nộp thừa theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành.
 
-### Điều 33.11.NQ.1.2. Giảm thuế thu nhập doanh nghiệp
+3. Qua thanh tra, kiểm tra, cơ quan có thẩm quyền phát hiện doanh nghiệp không thuộc đối tượng được giảm thuế theo quy định của Nghị định này hoặc số thuế phải nộp của kỳ tính thuế thu nhập doanh nghiệp năm 2020 lớn hơn số thuế đã nộp theo quy định thì doanh nghiệp phải nộp số tiền thuế thiếu, tiền phạt và tiền chậm nộp kể từ ngày hết thời hạn nộp thuế theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành.
 
-*Nội dung chưa có sẵn*
+Trường hợp doanh nghiệp khai bổ sung hồ sơ khai thuế thu nhập doanh nghiệp của kỳ tính thuế năm 2020 hoặc thực hiện quyết định sau thanh tra, kiểm tra của cơ quan có thẩm quyền làm tăng số thuế thu nhập doanh nghiệp phải nộp thì số thuế tăng thêm được giảm 30% theo quy định của Nghị định này.
 
-**Chỉ mục:** 2
+Trường hợp doanh nghiệp khai bổ sung hồ sơ khai thuế thu nhập doanh nghiệp của kỳ tính thuế năm 2020 hoặc thực hiện quyết định sau thanh tra, kiểm tra của cơ quan có thẩm quyền làm giảm số thuế thu nhập doanh nghiệp phải nộp thì xử lý số tiền thuế nộp thừa (nếu có) theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành.
 
-**Mã phân cấp:** 3301100000000000300001560273190116000020
+Phụ lục NĐ 114.docx
 
-**ID:** dk_00053959
+(Điều này có nội dung liên quan đến Điều 33.4.LQ.60. Xử lý số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa)
 
----
+Điều 33.11.TT.4.21. Các trường hợp giảm thuế khác
 
+(Điều 21 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
 
-### Điều 33.11.LQ.16. Chuyển lỗ
+1. Doanh nghiệp hoạt động trong lĩnh vực sản xuất, xây dựng, vận tải sử dụng từ 10 đến 100 lao động nữ, trong đó số lao động nữ chiếm trên 50% tổng 150 lao động có mặt thường xuyên hoặc sử dụng thường xuyên trên 100 lao động nữ mà số lao động nữ chiếm trên 30% tổng số lao động có mặt thường xuyên của doanh nghiệp được giảm thuế thu nhập doanh nghiệp phải nộp tương ứng với số tiền thực chi thêm cho lao động nữ theo hướng dẫn tại tiết a điểm 2.9 Khoản 2 Điều 6 Thông tư này nếu hạch toán riêng được.
 
-*Nội dung chưa có sẵn*
+Các đơn vị sự nghiệp, cơ quan văn phòng thuộc các Tổng công ty không trực tiếp sản xuất kinh doanh thì không giảm thuế theo Khoản này.
 
-**Chỉ mục:** 16
+2. Doanh nghiệp sử dụng lao động là người dân tộc thiểu số được giảm thuế thu nhập doanh nghiệp phải nộp tương ứng với số tiền thực chi thêm cho lao động là người dân tộc thiểu số hướng dẫn tại tiết b điểm 2.9 Khoản 2 Điều 6 Thông tư này nếu hạch toán riêng được.
 
-**Mã phân cấp:** 3301100000000000300001600000000000000000
+3. Doanh nghiệp thực hiện chuyển giao công nghệ thuộc lĩnh vực ưu tiên chuyển giao cho các tổ chức, cá nhân thuộc địa bàn có điều kiện kinh tế - xã hội khó khăn được giảm 50% số thuế thu nhập doanh nghiệp phải nộp tính trên phần thu nhập từ chuyển giao công nghệ.
 
-**ID:** dk_00053960
+(Điều này có nội dung liên quan đến Điều 19.2.LQ.9. Công nghệ khuyến khích chuyển giao; Điều 19.2.LQ.39. Chính sách thuế để thúc đẩy hoạt động chuyển giao, ứng dụng, đổi mới công nghệ; Điều 19.2.NĐ.1.3. Danh mục công nghệ khuyến khích chuyển giao, Danh mục công nghệ hạn chế chuyển giao và Danh mục công nghệ cấm chuyển giao; Điều 33.11.TT.4.6. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế của Thông tư 78/2014/TT-BTC Hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 18/06/2014)
 
----
+Điều 33.11.NQ.1.2. Giảm thuế thu nhập doanh nghiệp
 
+(Điều 2 Nghị quyết số 116/2020/QH14, có hiệu lực thi hành kể từ ngày 03/08/2020)
 
-### Điều 33.11.NĐ.2.7. Xác định lỗ và chuyển lỗ
+1. Giảm 30% số thuế thu nhập doanh nghiệp phải nộp của năm 2020 đối với trường hợp doanh nghiệp có tổng doanh thu năm 2020 không quá 200 tỷ đồng.
 
-*Nội dung chưa có sẵn*
+2. Doanh nghiệp căn cứ quy định tại khoản 1 Điều này để tự xác định số thuế được giảm khi tạm nộp thuế thu nhập doanh nghiệp theo quý và quyết toán thuế thu nhập doanh nghiệp năm 2020.
 
-**Chỉ mục:** 7
+Điều 33.11.LQ.16. Chuyển lỗ
 
-**Mã phân cấp:** 330110000000000030000160000000000000000000402495202180000700
+(Điều 16 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, được sửa đổi, bổ sung theo quy định tại khoản 10 Điều 1 của Luật số 32/2013/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2014.)
 
-**ID:** dk_00053961
+1. Doanh nghiệp có lỗ được chuyển lỗ sang năm sau; số lỗ này được trừ vào thu nhập tính thuế. Thời gian được chuyển lỗ không quá năm năm, kể từ năm tiếp theo năm phát sinh lỗ.
 
----
+2. Doanh nghiệp có lỗ từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư sau khi đã thực hiện bù trừ theo quy định tại khoản 3 Điều 7 của Luật này nếu còn lỗ và doanh nghiệp có lỗ từ hoạt động chuyển nhượng quyền thăm dò, khai thác khoáng sản được chuyển lỗ sang năm sau vào thu nhập tính thuế của hoạt động đó. Thời gian chuyển lỗ theo quy định tại khoản 1 Điều này.
 
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. ; Điều 33.11.LQ.7. Xác định thu nhập tính thuế; Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế)
 
-### Điều 33.11.TT.4.9. Xác định lỗ và chuyển lỗ
+Điều 33.11.NĐ.2.7. Xác định lỗ và chuyển lỗ
 
-*Nội dung chưa có sẵn*
+(Điều 7 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
 
-**Chỉ mục:** 9
+1. Lỗ phát sinh trong kỳ tính thuế là số chênh lệch âm (-) về thu nhập tính thuế chưa bao gồm các khoản lỗ được kết chuyển từ các năm trước chuyển sang được xác định theo công thức quy định tại Khoản 1 Điều 6 Nghị định này.
 
-**Mã phân cấp:** 33011000000000003000016000000000000000000040249520218000070000802512600780000900
+2. Doanh nghiệp có lỗ thì được chuyển lỗ sang năm sau, số lỗ này được trừ vào thu nhập chịu thuế. Thời gian được chuyển lỗ tính liên tục không quá 5 năm, kể từ năm tiếp sau năm phát sinh lỗ.
 
-**ID:** dk_00053962
+3. Lỗ từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư (trừ dự án thăm dò, khai thác khoáng sản) sau khi đã thực hiện bù trừ với thu nhập chịu thuế của hoạt động này hoặc bù lỗ theo quy định tại Khoản 2 Điều 6 Nghị định này nếu còn lỗ và doanh nghiệp có lỗ từ hoạt động chuyển nhượng quyền thăm dò, khai thác khoáng sản được chuyển lỗ sang năm sau vào thu nhập tính thuế của hoạt động đó, thời gian chuyển lỗ tính liên tục không quá 5 năm, kể từ năm tiếp sau năm phát sinh lỗ.
 
----
+(Điều này có nội dung liên quan đến Điều 33.11.NĐ.2.6. Xác định thu nhập tính thuế)
 
+Điều 33.11.TT.4.9. Xác định lỗ và chuyển lỗ
 
-### Điều 33.11.LQ.17. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
+(Điều 9 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được sửa đổi, bổ sung theo quy định tại Điều 7 Thông tư số 96/2015/TT-BTC, có hiệu lực kể từ ngày 06 tháng 8 năm 2015.)
+
+1. Lỗ phát sinh trong kỳ tính thuế là số chênh lệch âm về thu nhập tính thuế chưa bao gồm các khoản lỗ được kết chuyển từ các năm trước chuyển sang.
+
+2. Doanh nghiệp sau khi quyết toán thuế mà bị lỗ thì chuyển toàn bộ và liên tục số lỗ vào thu nhập (thu nhập chịu thuế đã trừ thu nhập miễn thuế) của những năm tiếp theo. Thời gian chuyển lỗ tính liên tục không quá 5 năm, kể từ năm tiếp sau năm phát sinh lỗ.
+
+Doanh nghiệp tạm thời chuyển lỗ vào thu nhập của các quý của năm sau khi lập tờ khai tạm nộp quý và chuyển chính thức vào năm sau khi lập tờ khai quyết toán thuế năm.
+
+Ví dụ 12: Năm 2013 DN A có phát sinh lỗ là 10 tỷ đồng, năm 2014 DN A có phát sinh thu nhập là 12 tỷ đồng thì toàn bộ số lỗ phát sinh năm 2013 là 10 tỷ đồng, DN A phải chuyển toàn bộ vào thu nhập năm 2014.
+
+Ví dụ 13: Năm 2013 DN B có phát sinh lỗ là 20 tỷ đồng, năm 2014 DN B có phát sinh thu nhập là 15 tỷ đồng thì:
+
++ DN B phải chuyển toàn bộ số lỗ 15 tỷ đồng vào thu nhập năm 2014;
+
++ Số lỗ còn lại 5 tỷ đồng, DN B phải theo dõi và chuyển toàn bộ liên tục theo nguyên tắc chuyển lỗ của năm 2013 nêu trên vào các năm tiếp theo, nhưng tối đa không quá 5 năm, kể từ năm tiếp sau năm phát sinh lỗ.
+
+- Doanh nghiệp có số lỗ giữa các quý trong cùng một năm tài chính thì được bù trừ số lỗ của quý trước vào các quý tiếp theo của năm tài chính đó. Khi quyết toán thuế thu nhập doanh nghiệp, doanh nghiệp xác định số lỗ của cả năm và chuyển toàn bộ và liên tục số lỗ vào thu nhập chịu thuế của những năm tiếp sau năm phát sinh lỗ theo quy định nêu trên.
+
+- Doanh nghiệp tự xác định số lỗ được trừ vào thu nhập theo nguyên tắc nêu trên. Trường hợp trong thời gian chuyển lỗ có phát sinh tiếp số lỗ thì số lỗ phát sinh này (không bao gồm số lỗ của kỳ trước chuyển sang) sẽ được chuyển lỗ toàn bộ và liên tục không quá 5 năm, kể từ năm tiếp sau năm phát sinh lỗ.
+
+Trường hợp cơ quan có thẩm quyền kiểm tra, thanh tra quyết toán thuế thu nhập doanh nghiệp xác định số lỗ doanh nghiệp được chuyển khác với số lỗ do doanh nghiệp tự xác định thì số lỗ được chuyển xác định theo kết luận của cơ quan kiểm tra, thanh tra nhưng đảm bảo chuyển lỗ toàn bộ và liên tục không quá 5 năm, kể từ năm tiếp sau năm phát sinh lỗ theo quy định.
+
+Quá thời hạn 5 năm kể từ năm tiếp sau năm phát sinh lỗ, nếu số lỗ phát sinh chưa chuyển hết thì sẽ không được chuyển vào thu nhập của các năm tiếp sau.
+
+3. Doanh nghiệp chuyển đổi loại hình doanh nghiệp, sáp nhập, hợp nhất, chia, tách, giải thể, phá sản phải thực hiện quyết toán thuế với cơ quan thuế đến thời điểm có quyết định chuyển đổi loại hình doanh nghiệp, sáp nhập, hợp nhất, chia, tách, giải thể, phá sản của cơ quan có thẩm quyền (trừ trường hợp không phải quyết toán thuế theo quy định). Số lỗ của doanh nghiệp phát sinh trước khi chuyển đổi, sáp nhập, hợp nhất phải được theo dõi chi tiết theo năm phát sinh và bù trừ vào thu nhập cùng năm của doanh nghiệp sau khi chuyển đổi, sáp nhập, hợp nhất hoặc được tiếp tục chuyển vào thu nhập của các năm tiếp theo của doanh nghiệp sau khi chuyển đổi, sáp nhập, hợp nhất để đảm bảo nguyên tắc chuyển lỗ tính liên tục không quá 5 năm, kể từ năm tiếp sau năm phát sinh lỗ.
+
+Số lỗ của doanh nghiệp phát sinh trước khi chia, tách thành doanh nghiệp khác và đang còn trong thời gian chuyển lỗ theo quy định thì số lỗ này sẽ được phân bổ cho các doanh nghiệp sau khi chia, tách theo tỷ lệ vốn chủ sở hữu được chia, tách
 
 Điều 33.11.LQ.17. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 11 Điều 1 của Luật số 32/2013/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2014.)
 
-**Mã phân cấp:** 3301100000000000300001700000000000000000
+1. Doanh nghiệp thành lập và hoạt động theo quy định của pháp luật Việt Nam được trích tối đa 10% thu nhập tính thuế hàng năm để lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp. Riêng doanh nghiệp nhà nước, ngoài việc thực hiện trích Quỹ phát triển khoa học và công nghệ theo quy định của Luật này còn phải bảo đảm tỷ lệ trích Quỹ phát triển khoa học và công nghệ tối thiểu theo quy định của pháp luật về khoa học và công nghệ.
 
-**ID:** dk_00053963
+2. Trong thời hạn năm năm, kể từ khi trích lập, nếu Quỹ phát triển khoa học và công nghệ không được sử dụng hoặc sử dụng không hết 70% hoặc sử dụng không đúng mục đích thì doanh nghiệp phải nộp ngân sách nhà nước phần thuế thu nhập doanh nghiệp tính trên khoản thu nhập đã trích lập quỹ mà không sử dụng hoặc sử dụng không đúng mục đích và phần lãi phát sinh từ số thuế thu nhập doanh nghiệp đó.
 
----
+Thuế suất thuế thu nhập doanh nghiệp dùng để tính số thuế thu hồi là thuế suất áp dụng cho doanh nghiệp trong thời gian trích lập quỹ.
 
+Lãi suất tính lãi đối với số thuế thu hồi tính trên phần quỹ không sử dụng hết là lãi suất trái phiếu kho bạc loại kỳ hạn một năm áp dụng tại thời điểm thu hồi và thời gian tính lãi là hai năm.
 
-### Điều 33.11.NĐ.2.18. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
+Lãi suất tính lãi đối với số thuế thu hồi tính trên phần quỹ sử dụng sai mục đích là lãi phạt chậm nộp theo quy định của Luật quản lý thuế và thời gian tính lãi là khoảng thời gian kể từ khi trích lập quỹ đến khi thu hồi.
+
+3. Doanh nghiệp không được hạch toán các khoản chi từ Quỹ phát triển khoa học và công nghệ của doanh nghiệp vào chi phí được trừ khi xác định thu nhập chịu thuế trong kỳ tính thuế.
+
+4. Quỹ phát triển khoa học và công nghệ của doanh nghiệp chỉ được sử dụng cho đầu tư khoa học và công nghệ tại Việt Nam.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. của Luật 18-L/CTN Dầu khí ban hành ngày 06/07/1993; Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế của Luật 14/2008/QH12 Thuế thu nhập doanh nghiệp ban hành ngày 03/06/2008; Điều 19.5.LQ.1. Phạm vi điều chỉnh của Luật 29/2013/QH13 Khoa học và công nghệ ban hành ngày 18/06/2013; Điều 33.4.LQ.59. Xử lý đối với việc chậm nộp tiền thuế; Điều 33.11.NĐ.2.18. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp của Nghị định 218/2013/NĐ-CP Quy định chit tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 26/12/2013)
 
 Điều 33.11.NĐ.2.18. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
 
-**Mã phân cấp:** 330110000000000030000170000000000000000000402495202180001800
+Việc trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp được thực hiện theo quy định tại Điều 17 Luật thuế thu nhập doanh nghiệp và Khoản 11 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp.
 
-**ID:** dk_00053964
+1. Doanh nghiệp được thành lập, hoạt động theo quy định của pháp luật Việt Nam được trích tối đa 10% trên thu nhập tính thuế hàng năm để lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp. Riêng đối với doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ ngoài việc thực hiện trích quỹ phát triển khoa học và công nghệ theo quy định của Luật này còn phải đảm bảo tỷ lệ trích quỹ tối thiểu quy định tại Luật khoa học và công nghệ.
 
----
+Hàng năm, doanh nghiệp tự quyết định mức trích lập Quỹ phát triển khoa học theo quy định trên đây và lập Báo cáo trích, sử dụng Quỹ phát triển khoa học và công nghệ cùng tờ khai quyết toán thuế thu nhập doanh nghiệp.
 
+Mẫu Báo cáo trích lập, sử dụng Quỹ phát triển khoa học và công nghệ của doanh nghiệp do Bộ Tài chính quy định.
 
-### Điều 33.11.TT.9.2. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
+2. Doanh nghiệp đang hoạt động mà có thay đổi về hình thức sở hữu, hợp nhất, sáp nhập thì doanh nghiệp mới thành lập từ việc đổi hình thức sở hữu, hợp nhất, sáp nhập được kế thừa và chịu trách nhiệm về việc quản lý, sử dụng Quỹ phát triển khoa học và công nghệ của doanh nghiệp trước khi chuyển đổi, hợp nhất, sáp nhập.
+
+Doanh nghiệp có Quỹ phát triển khoa học và công nghệ chưa sử dụng hết khi chia, tách thì doanh nghiệp mới thành lập từ việc chia, tách được kế thừa và chịu trách nhiệm về việc quản lý, sử dụng Quỹ phát triển khoa học và công nghệ của doanh nghiệp trước khi chia, tách. Việc phân chia Quỹ phát triển khoa học và công nghệ do doanh nghiệp quyết định và đăng ký với cơ quan Thuế.
+
+(Điều này có nội dung liên quan đến Điều 33.11.LQ.17. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp; Mục 3 QUỸ HỖ TRỢ, ĐẦU TƯ CHO HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ)
 
 Điều 33.11.TT.9.2. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 67/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 23/12/2022)
 
-**Mã phân cấp:** 33011000000000003000017000000000000000000040249520218000180000802819000670000200
+1. Hằng năm, doanh nghiệp được trích theo tỷ lệ phần trăm (%) tính trên thu nhập tính thuế thu nhập doanh nghiệp để tạo nguồn Quỹ theo quy định tại khoản 1 Điều 17 Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12, khoản 1 Điều 18 Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp và khoản 1, khoản 2 Điều 9 Nghị định số 95/2014/NĐ-CP ngày 17/10/2014 của Chính phủ quy định về đầu tư và cơ chế tài chính đối với hoạt động khoa học và công nghệ, cụ thể:
 
-**ID:** dk_00053965
+a) Đối với doanh nghiệp nhà nước: Thực hiện trích từ 3% đến 10% thu nhập tính thuế thu nhập doanh nghiệp trong kỳ tính thuế. Tỷ lệ trích cụ thể căn cứ vào khả năng và nhu cầu chi cho các hoạt động khoa học và công nghệ của doanh nghiệp;
 
----
+b) Đối với các doanh nghiệp không thuộc đối tượng nêu tại điểm a khoản 1 Điều này: Doanh nghiệp tự quyết định mức trích cụ thể, nhưng tối đa không quá 10% thu nhập tính thuế thu nhập doanh nghiệp trong kỳ tính thuế.
 
+2. Khoản trích Quỹ được xác định theo từng kỳ tính thuế thu nhập doanh nghiệp và được trừ vào thu nhập tính thuế thu nhập doanh nghiệp khi xác định thuế thu nhập doanh nghiệp phải nộp trong kỳ tính thuế.
 
-### Điều 33.11.TT.9.3. Nguyên tắc sử dụng Quỹ
+(Điều này có nội dung liên quan đến Điều 19.5.NĐ.7.9. Trích lập quỹ phát triển khoa học và công nghệ của doanh nghiệp)
 
-*Nội dung chưa có sẵn*
+Điều 33.11.TT.9.3. Nguyên tắc sử dụng Quỹ
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 67/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 23/12/2022)
 
-**Mã phân cấp:** 33011000000000003000017000000000000000000040249520218000180000802819000670000300
+1. Quỹ chỉ được sử dụng cho hoạt động đầu tư nghiên cứu, phát triển khoa học và công nghệ của doanh nghiệp và các nội dung được phép chi Quỹ theo quy định của pháp luật.
 
-**ID:** dk_00053966
+2. Các khoản chi từ Quỹ phải có đầy đủ hoá đơn, chứng từ theo quy định. Đối với khoản chi từ Quỹ không có hóa đơn, chứng từ theo quy định phải thực hiện nghĩa vụ nộp ngân sách Nhà nước theo quy định tại khoản 1 Điều 4 Thông tư này.
 
----
+3. Doanh nghiệp không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp trong kỳ tính thuế đối với các khoản chi từ Quỹ và các khoản tiền chậm nộp, tiền lãi phát sinh từ số thuế thu nhập doanh nghiệp phải nộp xác định theo quy định tại khoản 1, khoản 2 Điều 4 Thông tư này.
 
+4. Việc sử dụng Quỹ được tính theo nguyên tắc khoản trích Quỹ trước thì sử dụng trước.
 
-### Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hăng năm
+5. Trường hợp trong năm, doanh nghiệp có nhu cầu sử dụng cho hoạt động khoa học và công nghệ vượt quá số tiền hiện có tại Quỹ thì được lựa chọn tính vào chi phí được trừ khi xác định thu nhập tính thuế thu nhập doanh nghiệp trong kỳ tính thuế hoặc trích trước Quỹ của các năm tiếp theo để bù vào số còn thiếu theo quy định tại khoản 7 Điều 10 Nghị định số 95/2014/NĐ-CP ngày 17/10/2014 của Chính phủ quy định về đầu tư và cơ chế tài chính đối với hoạt động khoa học và công nghệ.
+
+(Điều này có nội dung liên quan đến Điều 19.5.NĐ.7.10. Nội dung chi của quỹ phát triển khoa học và công nghệ của doanh nghiệp)
 
 Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hăng năm
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 67/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 23/12/2022)
 
-**Mã phân cấp:** 33011000000000003000017000000000000000000040249520218000180000802819000670000400
+1. Nghĩa vụ thuế khi doanh nghiệp sử dụng Quỹ không đúng mục đích
+Trường hợp doanh nghiệp sử dụng Quỹ không đúng mục đích thì doanh nghiệp phải nộp ngân sách Nhà nước phần thuế thu nhập doanh nghiệp tính trên khoản thu nhập đã trích tương ứng với khoản sử dụng không đúng mục đích và tiền lãi phát sinh từ số thuế thu nhập doanh nghiệp đó. Lãi suất tính tiền lãi phát sinh đối với số thuế thu nhập doanh nghiệp thu hồi tính trên phần Quỹ sử dụng không đúng mục đích là mức tính tiền chậm nộp theo quy định của Luật Quản lý thuế và các văn bản quy phạm pháp luật hướng dẫn thi hành. Thời gian tính lãi được tính liên tục kể từ ngày tiếp theo ngày trích Quỹ đến ngày liền kề trước ngày số thuế thu hồi nộp vào ngân sách Nhà nước.
 
-**ID:** dk_00053967
+2. Nghĩa vụ thuế khi doanh nghiệp không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hằng năm
 
----
+a) Trong thời hạn 05 (năm) năm, kể từ khi trích lập Quỹ theo quy định tại Điều 2 Thông tư này mà doanh nghiệp không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hằng năm thì doanh nghiệp phải nộp ngân sách Nhà nước phần thuế thu nhập doanh nghiệp tính trên khoản thu nhập đã trích nhưng không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hằng năm, đồng thời phải nộp tiền lãi phát sinh từ số thuế thu nhập doanh nghiệp đó. Tiền lãi phát sinh từ số thuế thu nhập doanh nghiệp phải nộp được xác định theo quy định tại điểm b khoản 2 Điều này.
+Trường hợp nhận điều chuyển Quỹ thì thời hạn 05 năm đối với khoản nhận điều chuyển Quỹ được xác định kể từ kỳ tính thuế thu nhập doanh nghiệp nhận điều chuyển Quỹ.
 
+b) Lãi suất tính tiền lãi phát sinh đối với số thuế thu nhập doanh nghiêp thu hồi tính trên phần Quỹ không sử dụng hết là lãi suất trái phiếu kho bạc loại kỳ hạn một năm áp dụng tại thời điểm thu hồi và thời gian tính lãi là hai năm theo quy định tại khoản 2 Điều 17 Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12.
 
-### Điều 33.11.TT.9.5. Quản lý tài sản hình thành từ Quỹ
+c) Số Quỹ đã sử dụng bao gồm: số tiền Quỹ chi đúng mục đích đã được quyêt toán theo quy định; số tiền đã tạm ứng và có đầy đủ hóa đơn, chứng từ nhưng chưa đủ điều kiện quyết toán để thực hiện các hoạt động của Quỹ; các khoản điều chuyển từ Quỹ của tổng công ty với doanh nghiệp thành viên, của công ty mẹ với công ty con hoặc ngược lại; và khoản tiền nộp về Quỹ phát triển khoa học và công nghệ quốc gia hoặc Quỹ phát triển khoa học và công nghệ của các Bộ chủ quản, tỉnh, thành phố (nếu có) theo quy định của Bộ Khoa học và Công nghệ.
+Việc điều chuyển giữa Quỹ của công ty mẹ, tổng công ty với Quỹ của công ty con, doanh nghiệp thành viên và ngược lại chỉ áp dụng đối với các công ty con hoặc doanh nghiệp thành viên mà công ty mẹ sở hữu 100% vốn và không bao gồm các trường hợp sau:
+- Doanh nghiệp có vốn đầu tư nước ngoài điều chuyển cho công ty mẹ ở nước ngoài;
+- Công ty mẹ ở Việt Nam điều chuyển cho công ty con ở nước ngoài.
+
+3. Trường hợp doanh nghiệp trích Quỹ và doanh nghiệp điều chuyển Quỹ không được ưu đãi thuế thu nhập doanh nghiệp thì thuế suất thuế thu nhập doanh nghiệp dùng để tính số thuế thu hồi là thuế suất áp dụng cho doanh nghiệp theo từng kỳ tính thuế của doanh nghiệp khi trích lập Quỹ hoặc thời điểm điều chuyển Quỹ.
+
+4. Việc xác định thuế thu nhập doanh nghiệp đối với trường hợp trích lập Quỹ trong thời gian doanh nghiệp đang được hưởng ưu đãi thuế thu nhập doanh nghiệp:
+
+a) Trường hợp doanh nghiệp có trích Quỹ trong thời gian đang được hưởng ưu đãi thuế thu nhập doanh nghiệp (áp dụng thuế suất ưu đãi, thời gian miễn thuế, giảm thuế), nếu doanh nghiệp sử dụng không đúng mục đích hoặc không sử dụng hoặc sử dụng không hết 70% đối với số Quỹ đã được trích trong thời gian doanh nghiệp đang được hưởng ưu đãi thuế thu nhập doanh nghiệp, thì số thuế thu nhập doanh nghiệp thu hồi được xác định theo mức ưu đãi thuế thu nhập doanh nghiệp tại thời điểm trích lập Quỹ.
+
+b) Trường hợp doanh nghiệp có trích Quỹ trong thời gian đang được hưởng ưu đãi thuế thu nhập doanh nghiệp, có nhận điều chuyển Quỹ từ doanh nghiệp khác (doanh nghiệp điều chuyển), nếu doanh nghiệp sử dụng không đúng mục đích hoặc không sử dụng hoặc sử dụng không hết 70% đối với số Quỹ đã trích và nhận điều chuyển, thì số thuế thu nhập doanh nghiệp thu hồi được xác định như sau:
+- Đối với số tiền trích lập Quỹ tại doanh nghiệp thì số thuế thu nhập doanh nghiệp thu hồi được xác định theo mức ưu đãi thuế thu nhập doanh nghiệp tại thời điểm trích lập Quỹ của doanh nghiệp.
+- Đối với số tiền doanh nghiệp nhận điều chuyển từ doanh nghiệp khác thì số thuế thu nhập doanh nghiệp thu hồi được xác định như sau:
++ Trường hợp tại thời điểm nhận điều chuyển Quỹ, doanh nghiệp điều chuyển không được hưởng ưu đãi thuế thu nhập doanh nghiệp thì số thuế thu nhập doanh nghiệp thu hồi được xác định theo mức thuế suất thuế thu nhập doanh nghiệp không được hưởng ưu đãi.
++ Trường hợp tại thời điểm nhận điều chuyển Quỹ, doanh nghiệp điều chuyển đang được hưởng ưu đãi thuế thu nhập doanh nghiệp thì số thuế thu nhập doanh nghiệp thu hồi được xác định theo mức ưu đãi thuế thu nhập doanh nghiệp của doanh nghiệp điều chuyển tại thời điểm điều chuyển.
+Việc xác định số tiền nhận điều chuyển sử dụng không đúng mục đích, chưa sử dụng hoặc sử dụng không hết 70% được phân bổ theo tỷ lệ giữa số tiền nhận điều chuyển với số Quỹ trong kỳ tính thuế (bao gồm cả số trích Quỹ và số tiền nhận điều chuyển).
+
+5. Doanh nghiệp tự tính, tự khai, tự nộp thuế thu nhập doanh nghiệp đối với số Quỹ sử dụng không đúng mục đích, không sử dụng hoặc sử dụng không hết 70% và tự chịu trách nhiệm trước pháp luật theo quy định của pháp luật quản lý thuế.
 
 Điều 33.11.TT.9.5. Quản lý tài sản hình thành từ Quỹ
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 67/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 23/12/2022)
 
-**Mã phân cấp:** 33011000000000003000017000000000000000000040249520218000180000802819000670000500
+1. Doanh nghiệp phải lập hồ sơ tài sản cố định được hình thành từ nguồn Quỹ để theo dõi quản lý theo quy định pháp luật và không được tính khấu hao tài sản cố định vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp, bao gồm các trường hợp sau:
 
-**ID:** dk_00053968
+a) Tài sản cố định hình thành để phục vụ hoạt động nghiên cứu khoa học và công nghệ của doanh nghiệp;
 
----
+b) Mua máy móc, thiết bị có kèm theo các đối tượng chuyển giao công nghệ theo quy định tại Điều 7 Luật Chuyển giao công nghệ để thay thế một phần hay toàn bộ công nghệ đã, đang sử dụng bằng công nghệ khác tiên tiến hơn nhằm nâng cao năng suất, chất lượng sản phẩm hoặc cải tiến phát triển sản phẩm mới của doanh nghiệp theo quy định tại điểm c khoản 3 Điều 10 Nghị định số 95/2014/NĐ-CP ngày 17/10/2014 của Chính phủ quy định về đầu tư và cơ chế tài chính đối với hoạt động khoa học và công nghệ;
 
+c) Mua máy móc, thiết bị cho đổi mới công nghệ, phục vụ trực tiếp hoạt động sản xuất, kinh doanh của doanh nghiệp trong 02 năm (năm 2022 và năm 2023) theo nội dung nêu tại điểm b khoản 3 Điều 3 Nghị quyết số 43/2022/QH15 ngày 11/01/2022 của Quốc hội về chính sách tài khóa, tiền tệ hỗ trợ Chương trình phục hồi và phát triển kinh tế - xã hội.
 
-### Điều 33.11.TT.9.6. Quản lý Quỹ trong trường hợp tổ chức lại doanh nghiệp
+2. Các tài sản cố định đã được đầu tư từ nguồn Quỹ, nếu doanh nghiệp có thực hiện sửa chữa, nâng cấp thì tiếp tục sử dụng nguồn Quỹ của doanh nghiệp để chi trả.
+
+3. Trường hợp tài sản cố định đã được hình thành từ nguồn Quỹ để phục vụ cho hoạt động nghiên cứu khoa học và công nghệ chưa hết hao mòn, nếu chuyển giao cho hoạt động sản xuất kinh doanh của doanh nghiệp thì phần giá trị còn lại của tài sản cố định tính vào thu nhập khác và phần giá trị còn lại của tài sản cố định đó được trích khấu hao, tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp.
+
+4. Trường hợp tài sản cố định đã được hình thành từ nguồn Quỹ chưa hết hao mòn vừa dùng cho hoạt động nghiên cứu khoa học và công nghệ, đồng thời dùng cho hoạt động sản xuất kinh doanh của doanh nghiệp thì doanh nghiệp tiếp tục theo dõi quản lý theo quy định của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định và không phải tính khấu hao tài sản cố định vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp.
+
+5. Trường hợp tài sản cố định được hình thành từ kết quả thực hiện nhiệm vụ khoa học và công nghệ của doanh nghiệp, sau đó được chuyển giao phục vụ cho hoạt động sản xuất kinh doanh của doanh nghiệp thì giá trị của tài sản cố định tính vào thu nhập khác và giá trị của tài sản cố định đó được trích khấu hao, tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp.
+
+6. Trường hợp tài sản cố định được mua từ nguồn Quỹ có thực hiện điều chuyển tài sản này, thì doanh nghiệp phải xác định giá trị còn lại để điều chỉnh tăng, giảm nguồn Quỹ khi điều chuyển tài sản.
+
+7. Đối với tài sản cố định đang sử dụng cho hoạt động sản xuất kinh doanh chuyển sang dùng cho hoạt động nghiên cứu khoa học và công nghệ, doanh nghiệp xác định giá trị còn lại của tài sản cố định để chi mua tài sản cố định từ nguồn Quỹ và theo dõi tài sản cố định theo quy định tại khoản 1 Điều này.
+
+8. Các trường hợp thanh lý tài sản phục vụ cho hoạt động khoa học và công nghệ của doanh nghiệp thực hiện theo quy định hiện hành.
+
+9. Các tài sản khác, doanh nghiệp phải tổ chức quản lý theo dõi theo quy định, đảm bảo sử dụng đúng mục đích.
+
+(Điều này có nội dung liên quan đến Điều 19.2.LQ.7. Quyền chuyển giao công nghệ của Luật 07/2017/QH14 Luật chuyển giao công nghệ ban hành ngày 19/06/2017; Điều 19.5.NĐ.7.10. Nội dung chi của quỹ phát triển khoa học và công nghệ của doanh nghiệp)
 
 Điều 33.11.TT.9.6. Quản lý Quỹ trong trường hợp tổ chức lại doanh nghiệp
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 67/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 23/12/2022)
 
-**Mã phân cấp:** 33011000000000003000017000000000000000000040249520218000180000802819000670000600
+1. Trường hợp doanh nghiệp có tổ chức lại doanh nghiệp mà dẫn tới hình thành một doanh nghiệp mới theo quy định pháp luật Việt Nam thì doanh nghiệp mới thành lập được kế thừa và chịu trách nhiệm về quản lý, sử dụng Quỹ của doanh nghiệp hoặc các doanh nghiệp trước khi tổ chức lại doanh nghiệp.
 
-**ID:** dk_00053969
-
----
-
-
-### Điều 33.11.TT.9.7. Báo cáo trích lập, điều chuyển và sử dụng Quỹ
+2. Trường hợp doanh nghiệp có tổ chức lại doanh nghiệp không thuộc các trường hợp nêu tại khoản 1 Điều này thì doanh nghiệp hoặc các doanh nghiệp sau khi tổ chức lại doanh nghiệp được kế thừa và chịu trách nhiệm về quản lý, sử dụng Quỹ của doanh nghiệp trước khi tổ chức lại doanh nghiệp. Việc phân chia Quỹ phát triển khoa học và công nghệ do (các) doanh nghiệp quyết định và thông báo với cơ quan thuế.
 
 Điều 33.11.TT.9.7. Báo cáo trích lập, điều chuyển và sử dụng Quỹ
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 67/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 23/12/2022)
 
-**Mã phân cấp:** 33011000000000003000017000000000000000000040249520218000180000802819000670000700
+1. Hằng năm, doanh nghiệp phải lập Báo cáo trích lập, điều chuyển và sử dụng Quỹ theo mẫu số 03-6/TNDN ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế.
 
-**ID:** dk_00053970
+2. Trường hợp các doanh nghiệp có sự điều chuyển nguồn giữa các Quỹ theo quy định tại điểm c khoản 2 Điều 4 Thông tư này thì doanh nghiệp nhận điều chuyển phải báo cáo tình hình nhận điều chuyển và sử dụng số tiền Quỹ được điều chuyển.
 
----
+3. Báo cáo trích lập, điều chuyển và sử dụng Quỹ được gửi đến cho các cơ quan theo quy định tại khoản 1, khoản 4 Điều 11 Nghị định số 95/2014/NĐ-CP ngày 17/10/2014 của Chính phủ quy định về đầu tư và cơ chế tài chính đối với hoạt động khoa học và công nghệ. Thời hạn nộp báo cáo cùng thời hạn nộp tờ khai quyết toán thuế thu nhập doanh nghiệp năm của doanh nghiệp.
 
+(Điều này có nội dung liên quan đến Điều 19.5.NĐ.7.11. Quản lý quỹ phát triển khoa học và công nghệ của doanh nghiệp của Nghị định 95/2014/NĐ-CP Quy định về đầu tư và cơ chế tài chính đối với hoạt động khoa học và công nghệ ban hành ngày 17/10/2014; Điều 33.4.TT.11.1. Phạm vi điều chỉnh)
 
-### Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế
+Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế
 
-*Nội dung chưa có sẵn*
+(Điều 18 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009, được sửa đổi, bổ sung theo quy định tại khoản 12 Điều 1 của Luật số 32/2013/QH13, có hiệu lực kể từ ngày 01 tháng 01 năm 2014.)
 
-**Chỉ mục:** 18
+1. Ưu đãi thuế thu nhập doanh nghiệp quy định tại các Điều 13, 14, 15, 16 và 17 của Luật này áp dụng đối với doanh nghiệp thực hiện chế độ kế toán, hóa đơn, chứng từ và nộp thuế theo kê khai.
 
-**Mã phân cấp:** 3301100000000000300001800000000000000000
+Ưu đãi thuế thu nhập doanh nghiệp theo diện dự án đầu tư mới quy định tại Điều 13 và Điều 14 của Luật này không áp dụng đối với các trường hợp chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức doanh nghiệp, chuyển đổi sở hữu và trường hợp khác theo quy định của pháp luật.
 
-**ID:** dk_00053971
+2. Doanh nghiệp phải hạch toán riêng thu nhập từ hoạt động sản xuất, kinh doanh được ưu đãi thuế quy định tại Điều 13 và Điều 14 của Luật này với thu nhập từ hoạt động sản xuất, kinh doanh không được ưu đãi thuế; trường hợp không hạch toán riêng được thì thu nhập từ hoạt động sản xuất, kinh doanh được ưu đãi thuế được xác định theo tỷ lệ giữa doanh thu của hoạt động sản xuất, kinh doanh được ưu đãi thuế trên tổng doanh thu của doanh nghiệp.
 
----
+3. Thuế suất 20% quy định tại khoản 2 Điều 10 và quy định về ưu đãi thuế tại khoản 1 và khoản 4 Điều 4, Điều 13 và Điều 14 của Luật này không áp dụng đối với:
 
+a) Thu nhập từ chuyển nhượng vốn, chuyển nhượng quyền góp vốn; thu nhập từ chuyển nhượng bất động sản, trừ nhà ở xã hội quy định tại Điều 13 của Luật này; thu nhập từ chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác khoáng sản; thu nhập từ hoạt động sản xuất, kinh doanh ở ngoài Việt Nam;
 
-### Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp
+b) Thu nhập từ hoạt động tìm kiếm, thăm dò, khai thác dầu, khí, tài nguyên quý hiếm khác và thu nhập từ hoạt động khai thác khoáng sản;
+
+c) Thu nhập từ kinh doanh dịch vụ thuộc diện chịu thuế tiêu thụ đặc biệt theo quy định của Luật thuế tiêu thụ đặc biệt;
+
+d) Trường hợp khác theo quy định của Chính phủ.
+
+4. Trong cùng một thời gian, nếu doanh nghiệp được hưởng nhiều mức ưu đãi thuế khác nhau đối với cùng một khoản thu nhập thì doanh nghiệp được lựa chọn áp dụng mức ưu đãi thuế có lợi nhất.
+
+(Điều này có nội dung liên quan đến Điều 4. Hướng dẫn thực hiện ưu đãi thuế thu nhập doanh nghiệp của Thông tư 83/2016/TT-BTC Hướng dẫn thực hiện ưu đãi đầu tư theo quy định của Luật đầu tư và Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư ban hành ngày 17/06/2016; Điều 30. ; Điều 32. ; Điều 33.11.LQ.4. Thu nhập được miễn thuế; Điều 33.11.LQ.13. Ưu đãi về thuế suất; Điều 33.11.LQ.14. Ưu đãi về thời gian miễn thuế, giảm thuế; Điều 33.11.LQ.15. Các trường hợp giảm thuế khác; Điều 33.11.LQ.16. Chuyển lỗ; Điều 33.11.LQ.17. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp; Điều 33.11.NĐ.3.2. Giảm thuế thu nhập doanh nghiệp của Nghị định 114/2020/NĐ-CP Nghị định quy định chi tiết thi hành Nghị quyết số 116/2020/QH14 của Quốc hội về giảm thuế thu nhập doanh nghiệp phải nộp của năm 2020 đối với doanh nghiệp, hợp tác xã, đơn vị sự nghiệp và tổ chức khác ban hành ngày 25/09/2020)
 
 Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014, có nội dung được sửa đổi, bổ sung theo quy định tại Khoản 17, khoản 18, khoản 19 Điều 1 Nghị định số 12/2015/NĐ-CP, có hiệu lực từ ngày 01 tháng 01 năm 2015; Khoản 7, khoản 8 Điều 1 Nghị định số 91/2014/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 11 năm 2014 và áp dụng cho kỳ tính thuế thu nhập doanh nghiệp từ năm 2014. )
 
-**Mã phân cấp:** 330110000000000030000180000000000000000000402495202180001900
+Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp thực hiện theo quy định tại Khoản 12 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp.
 
-**ID:** dk_00053972
+1. Doanh nghiệp phải hạch toán riêng thu nhập từ hoạt động sản xuất, kinh doanh được hưởng ưu đãi thuế thu nhập doanh nghiệp (bao gồm mức thuế suất ưu đãi hoặc miễn thuế, giảm thuế); trường hợp có khoản doanh thu hoặc chi phí được trừ không thể hạch toán riêng được thì khoản doanh thu hoặc chi phí được trừ đó xác định theo tỷ lệ giữa chi phí được trừ hoặc doanh thu của hoạt động sản xuất, kinh doanh hưởng ưu đãi thuế trên tổng chi phí được trừ hoặc doanh thu của doanh nghiệp.
 
----
+2. Không áp dụng ưu đãi thuế thu nhập doanh nghiệp quy định tại Khoản 1, Khoản 4 Điều 4 và Điều 15, Điều 16 Nghị định này và không áp dụng thuế suất 20% quy định tại Khoản 2 Điều 10 Nghị định này đối với các khoản thu nhập sau:
 
+a) Thu nhập từ chuyển nhượng vốn, chuyển nhượng quyền góp vốn; thu nhập từ chuyển nhượng bất động sản, trừ thu nhập từ đầu tư kinh doanh nhà ở xã hội quy định tại Điểm d Khoản 2 Điều 15 Nghị định này; thu nhập từ chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác khoáng sản; thu nhập nhận được từ hoạt động sản xuất, kinh doanh ở ngoài Việt Nam;
 
-### Điều 33.11.TT.4.22. Thủ tục thực hiện ưu đãi thuế thu nhập doanh nghiệp
+b) Thu nhập từ hoạt động tìm kiếm, thăm dò, khai thác dầu, khí, tài nguyên quý hiếm khác và thu nhập từ hoạt động khai thác khoáng sản;
+
+c) Thu nhập từ kinh doanh dịch vụ thuộc diện chịu thuế tiêu thụ đặc biệt theo quy định của Luật thuế tiêu thụ đặc biệt;
+
+d) Các khoản thu nhập khác quy định tại Khoản 2 Điều 3 Nghị định này không liên quan đến hoạt động sản xuất kinh doanh được hưởng ưu đãi thuế (đối với trường hợp đáp ứng điều kiện ưu đãi về lĩnh vực, ngành nghề quy định tại Điều 15, Điều 16 Nghị định này);
+
+*đ) Thu nhập của doanh nghiệp từ dự án đầu tư trong lĩnh vực kinh doanh thương mại, dịch vụ phát sinh ngoài khu kinh tế, khu công nghệ cao, khu công nghiệp và địa bàn ưu đãi thuế không áp dụng ưu đãi thuế thu nhập doanh nghiệp quy định tại Khoản 1, Khoản 4 Điều 4 và Điều 15, Điều 16 Nghị định này.*
+
+3. Trong cùng một thời gian, nếu doanh nghiệp được hưởng nhiều mức ưu đãi thuế khác nhau đối với cùng một khoản thu nhập thì doanh nghiệp được lựa chọn áp dụng mức ưu đãi thuế có lợi nhất.
+
+4. Trong thời gian được ưu đãi thuế thu nhập doanh nghiệp, nếu trong năm tính thuế mà doanh nghiệp không đáp ứng đủ một trong các điều kiện ưu đãi thuế quy định tại các Khoản 7, 8 và Khoản 12 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp và quy định tại Điều này thì năm tính thuế đó không được hưởng ưu đãi thuế mà phải nộp thuế theo mức thuế suất 22% và doanh nghiệp có tổng doanh thu năm không quá 20 tỷ đồng quy định tại Khoản 2 Điều 10 Nghị định này nộp theo thuế suất 20%. Kể từ ngày 01 tháng 01 năm 2016 mức thuế suất chung là 20%.
+
+Đối với dự án đầu tư quy định tại Điểm đ Khoản 1 Điều 15 Nghị định này, trường hợp sau 03 năm kể từ khi được cấp phép đầu tư (không kể bị chậm tiến độ do nguyên nhân khách quan trong khâu giải phóng mặt bằng, giải quyết thủ tục hành chính của cơ quan nhà nước hoặc do thiên tai, hỏa hoạn được cơ quan cấp Giấy chứng nhận đầu tư chấp thuận, báo cáo Thủ tướng Chính phủ phê duyệt) hoặc năm thứ tư kể từ năm có doanh thu mà dự án đầu tư của doanh nghiệp không đáp ứng các điều kiện nêu tại Điểm đ Khoản 1 Điều 15 Nghị định này thì không được hưởng ưu đãi thuế thu nhập doanh nghiệp, đồng thời doanh nghiệp phải kê khai, nộp số tiền thuế thu nhập doanh nghiệp đã kê khai hưởng ưu đãi của các năm trước (nếu có) theo quy định của pháp luật và không bị coi là hành vi khai sai theo quy định của pháp luật về quản lý thuế. Trong thời gian hưởng ưu đãi thuế thu nhập doanh nghiệp, nếu có năm tính thuế mà doanh nghiệp không đáp ứng đủ một trong các điều kiện ưu đãi thuế quy định tại Điểm đ Khoản 1 Điều 15 Nghị định này thì năm đó doanh nghiệp không được hưởng ưu đãi thuế thu nhập doanh nghiệp.
+
+*5. Dự án đầu tư mới (bao gồm cả văn phòng công chứng thành lập tại các địa bàn có điều kiện kinh tế xã hội khó khăn, địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn) được hưởng ưu đãi thuế quy định tại Khoản 1, Khoản 3 Điều 15 và Khoản 1, 2 và Khoản 3 Điều 16 Nghị định này là dự án thực hiện lần đầu hoặc dự án đầu tư độc lập với dự án đang thực hiện, trừ các trường hợp sau:*
+
+*a) Dự án đầu tư hình thành từ việc chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức doanh nghiệp theo quy định của pháp luật, trừ trường hợp quy định tại Khoản 6 Điều 19 Nghị định này;*
+
+*b) Dự án đầu tư hình thành từ việc chuyển đổi chủ sở hữu (bao gồm cả trường hợp thực hiện dự án đầu tư mới nhưng vẫn kế thừa tài sản, địa điểm kinh doanh, ngành nghề kinh doanh của doanh nghiệp cũ để tiếp tục hoạt động sản xuất kinh doanh).*
+
+*Dự án đầu tư mới được hưởng ưu đãi thuế theo quy định tại Điều 15, Điều 16 Nghị định này phải được cơ quan nhà nước có thẩm quyền cấp Giấy phép đầu tư hoặc Giấy chứng nhận đầu tư hoặc được phép đầu tư theo quy định của pháp luật về đầu tư.*
+
+*5a. Đối với dự án đầu tư được cấp phép đầu tư mà trong Hồ sơ đăng ký đầu tư lần đầu gửi cơ quan cấp phép đầu tư đã đăng ký số vốn đầu tư, phân kỳ đầu tư kèm tiến độ thực hiện đầu tư, ở các giai đoạn tiếp theo trường hợp thực tế thực hiện được coi là dự án thành phần của dự án đầu tư đã được cấp phép lần đầu nếu thực hiện theo tiến độ (trừ trường hợp khó khăn khách quan, bất khả kháng) thì được hưởng ưu đãi thuế theo mức ưu đãi đang áp dụng đối với dự án đầu tư lần đầu; đối với dự án đầu tư được cấp giấy phép đầu tư trước ngày 01 tháng 01 năm 2014 thì ưu đãi thuế được hưởng cho thời gian ưu đãi còn lại được tính từ ngày 01 tháng 01 năm 2014.*
+
+*Dự án đầu tư của doanh nghiệp đang được hưởng ưu đãi thuế mà giai đoạn 2009 - 2013 có đầu tư bổ sung máy móc, thiết bị thường xuyên trong quá trình sản xuất, kinh doanh thì phần thu nhập tăng thêm do việc đầu tư bổ sung máy móc, thiết bị thường xuyên này cũng được hưởng ưu đãi thuế theo mức mà dự án đang áp dụng cho thời gian còn lại.*
+
+*5b. Doanh nghiệp còn thời gian hưởng ưu đãi thuế theo điều kiện về tỷ lệ xuất khẩu nhưng bị ngừng ưu đãi thuế do thực hiện cam kết với Tổ chức thương mại thế giới (WTO) đối với hoạt động dệt, may từ ngày 11 tháng 01 năm 2007 và hoạt động khác từ ngày 01 tháng 01 năm 2012 thì được lựa chọn kết hợp không đồng thời, đồng bộ ưu đãi về thuế suất và thời gian miễn, giảm thuế để tiếp tục được hưởng ưu đãi thuế thu nhập doanh nghiệp cho thời gian còn lại kể từ năm 2007 đối với hoạt động dệt, may hoặc kể từ năm 2012 đối với hoạt động khác, tương ứng với các điều kiện ưu đãi thuế mà thực tế doanh nghiệp đáp ứng (ngoài điều kiện ưu đãi do đáp ứng điều kiện về tỷ lệ xuất khẩu, do sử dụng nguyên liệu trong nước) quy định tại các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp có hiệu lực trong thời gian từ ngày doanh nghiệp được cấp Giấy phép thành lập đến trước ngày Nghị định số 24/2007/NĐ-CP ngày 14 tháng 02 năm 2007 của Chính phủ quy định chi tiết thi hành Luật Thuế thu nhập doanh nghiệp có hiệu lực thi hành hoặc theo quy định tại các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp tại thời điểm bị điều chỉnh ưu đãi thuế do thực hiện cam kết WTO*.
+
+*6. Doanh nghiệp hoạt động trong lĩnh vực xã hội hóa được thành lập do chuyển đổi loại hình doanh nghiệp theo quy định của pháp luật đáp ứng tiêu chí về cơ sở xã hội hóa theo Quyết định của Thủ tướng Chính phủ mà doanh nghiệp trước khi chuyển đổi chưa được hưởng ưu đãi thuế thu nhập doanh nghiệp theo lĩnh vực ưu đãi thuế thì được hưởng ưu đãi như dự án đầu tư mới kể từ khi chuyển đổi.*
+
+(Điều này có nội dung liên quan đến Mục 3 THỦ TỤC CẤP, ĐIỀU CHỈNH VÀ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ ĐẦU TƯ - Chương IV của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Điều 33.12.LQ.2. Đối tượng chịu thuế của Luật 27/2008/QH12 Thuế tiêu thụ đặc biệt ban hành ngày 14/11/2008; Mục 2 HÀNH VI VI PHẠM HÀNH CHÍNH VỀ QUẢN LÝ THUẾ; Điều 33.11.NĐ.2.4. Thu nhập được miễn thuế; Điều 33.11.NĐ.2.10. Thuế suất; Điều 33.11.NĐ.2.15. Thuế suất ưu đãi; Điều 33.11.NĐ.2.16. Miễn thuế, giảm thuế; Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp)
 
 Điều 33.11.TT.4.22. Thủ tục thực hiện ưu đãi thuế thu nhập doanh nghiệp
 
-**Chỉ mục:** 22
+(Điều 22 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
 
-**Mã phân cấp:** 33011000000000003000018000000000000000000040249520218000190000802512600780002200
+Doanh nghiệp tự xác định các điều kiện ưu đãi thuế, mức thuế suất ưu đãi, thời gian miễn thuế, giảm thuế, số lỗ được trừ (-) vào thu nhập tính thuế để tự kê khai và tự quyết toán thuế với cơ quan thuế.
 
-**ID:** dk_00053973
+Cơ quan thuế khi kiểm tra, thanh tra đối với doanh nghiệp phải kiểm tra các điều kiện được hưởng ưu đãi thuế, số thuế thu nhập doanh nghiệp được miễn thuế, giảm thuế, số lỗ được trừ vào thu nhập chịu thuế theo đúng điều kiện thực tế mà doanh nghiệp đáp ứng được. Trường hợp doanh nghiệp không đảm bảo các điều kiện để áp dụng thuế suất ưu đãi và thời gian miễn thuế, giảm thuế thì cơ quan thuế xử lý truy thu thuế và xử phạt vi phạm hành chính về thuế theo quy định.
 
----
+Chương IV
 
+HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP TRONG MỘT SỐ LĨNH VỰC ĐẶC THÙ
 
-### Điều 33.11.TT.3.11. Doanh thu
+Mục 1
 
-*Nội dung chưa có sẵn*
+HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI ĐÀI TRUYỀN HÌNH VIỆT NAM VÀ CÁC ĐÀI TRUYỀN HÌNH, ĐÀI PHÁT THANH - TRUYỀN HÌNH TỈNH, THÀNH PHỐ
 
-**Chỉ mục:** 11
+Mục 2
 
-**Mã phân cấp:** 330110000000000035000030000000000000000000802388200090001100
+HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI CÁC CƠ QUAN BÁO CHÍ
 
-**ID:** dk_00053978
+Mục 3
 
----
+HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI LĨNH VỰC KINH DOANH BẢO HIỂM
 
+Điều 33.11.TT.3.11. Doanh thu
 
-### Điều 33.11.TT.3.12. Thời điểm xác định doanh thu
+(Điều 11 Thông tư số 09/2011/TT-BTC Hướng dẫn về thuế giá trị gia tăng, thuế thu nhập doanh nghiệp đối với lĩnh vực kinh doanh bảo hiểm ngày 21/01/2011 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07/03/2011 )
 
-*Nội dung chưa có sẵn*
+Doanh thu để tính thu nhập chịu thuế là toàn bộ số tiền thu được do cung ứng dịch vụ bảo hiểm và hàng hóa, dịch vụ khác, kể cả phụ thu và phí thu thêm mà doanh nghiệp bảo hiểm được hưởng chưa có thuế GTGT, bao gồm:
 
-**Chỉ mục:** 12
+1. Doanh thu từ hoạt động kinh doanh bảo hiểm:
 
-**Mã phân cấp:** 330110000000000035000030000000000000000000802388200090001200
+Đối với hoạt động kinh doanh bảo hiểm và tái bảo hiểm là số tiền phải thu về thu phí bảo hiểm gốc; thu phí nhận tái bảo hiểm; thu hoa hồng nhượng tái bảo hiểm; thu phí quản lý đơn bảo hiểm; thu phí về dịch vụ đại lý bao gồm giám định tổn thất, xét giải quyết bồi thường, yêu cầu người thứ ba bồi hoàn, xử lý hàng bồi thường 100% (không kể giám định hộ giữa các doanh nghiệp thành viên hạch toán nội bộ trong cùng một doanh nghiệp bảo hiểm hạch toán độc lập) sau khi đã trừ đi các khoản phải chi để giảm thu như: hoàn phí bảo hiểm; giảm phí bảo hiểm; hoàn phí nhận tái bảo hiểm; giảm phí nhận tái bảo hiểm; hoàn hoa hồng nhượng tái bảo hiểm; giảm hoa hồng nhượng tái bảo hiểm.
 
-**ID:** dk_00053979
+Trường hợp các doanh nghiệp bảo hiểm tham gia đồng bảo hiểm, doanh thu để tính thu nhập chịu thuế của từng bên là tiền thu phí bảo hiểm gốc được phân bổ theo tỷ lệ đồng bảo hiểm cho mỗi bên không bao gồm thuế GTGT.
 
----
+Đối với hợp đồng bảo hiểm thỏa thuận trả tiền theo từng kỳ thì doanh nghiệp để tính thu nhập chịu thuế là số tiền phải thu phát sinh trong từng kỳ.
 
+Trường hợp có thực hiện các nghiệp vụ thu hộ giữa các doanh nghiệp trực thuộc hoặc giữa doanh nghiệp hạch toán phụ thuộc với trụ sở chính của doanh nghiệp bảo hiểm thì doanh thu để tính thu nhập chịu thuế không bao gồm phần doanh thu thu hộ.
 
-### Điều 33.11.TT.3.13. Một số khoản chi được trừ
+2. Doanh thu hoạt động môi giới bảo hiểm: Các khoản thu hoa hồng môi giới bảo hiểm sau khi trừ các khoản hoa hồng môi giới bảo hiểm, giảm và hoàn hoa hồng môi giới bảo hiểm.
 
-*Nội dung chưa có sẵn*
+Điều 33.11.TT.3.12. Thời điểm xác định doanh thu
 
-**Chỉ mục:** 13
+(Điều 12 Thông tư số 09/2011/TT-BTC, có hiệu lực thi hành kể từ ngày 07/03/2011)
 
-**Mã phân cấp:** 330110000000000035000030000000000000000000802388200090001300
+- Thời điểm xác định doanh thu đối với hoạt động kinh doanh bảo hiểm là thời điểm phát sinh trách nhiệm của doanh nghiệp bảo hiểm với bên mua bảo hiểm theo quy định của Luật kinh doanh bảo hiểm không phân biệt đã thu được tiền hay chưa thu được tiền.
 
-**ID:** dk_00053980
+- Thời điểm xác định doanh thu đối với hoạt động môi giới bảo hiểm là thời điểm hợp đồng bảo hiểm phát sinh trách nhiệm bảo hiểm không phân biệt đã thu được tiền hay chưa thu được tiền.
 
----
+- Thời điểm xác định doanh thu đối với hoạt động tái bảo hiểm, hoa hồng nhượng tái bảo hiểm và các khoản thu khác phát sinh từ hoạt động nhượng tái bảo hiểm là thời điểm bản thanh toán về tái bảo hiểm được xác nhận. Thời điểm xác định doanh thu đối với hoạt động tái bảo hiểm cũng là thời điểm xác định chi phí của doanh nghiệp nhượng tái bảo hiểm.
 
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh.)
 
-### Điều 33.11.TT.5.7. Thu nhập chịu thuế TNDN
+Điều 33.11.TT.3.13. Một số khoản chi được trừ
 
-*Nội dung chưa có sẵn*
+(Điều 13 Thông tư số 09/2011/TT-BTC, có hiệu lực thi hành kể từ ngày 07/03/2011)
 
-**Chỉ mục:** 7
+Một số khoản chi được trừ đối với doanh nghiệp bảo hiểm được xác định cụ thể như sau:
 
-**Mã phân cấp:** 330110000000000035000050000000000000000000802517501035500700
+- Chi bồi thường theo hợp đồng bảo hiểm gốc (chi bồi thường bảo hiểm gốc đối với bảo hiểm phi nhân thọ, trả tiền bảo hiểm đối với bảo hiểm nhân thọ), hợp đồng tái bảo hiểm sau khi đã trừ đi các khoản phải thu để giảm chi như thu bồi thường nhượng tái bảo hiểm, thu đòi người thứ ba bồi hoàn, thu hàng đã xử lý, bồi thường 100%; 
 
-**ID:** dk_00053982
+Nguyên tắc chi bồi thường bảo hiểm gốc đối với các doanh nghiệp bảo hiểm phi nhân thọ: Theo đúng phạm vi bảo hiểm, điều kiện bảo hiểm quy định tại hợp đồng bảo hiểm đã được thỏa thuận giữa các bên và có bằng chứng chứng minh thiệt hại xảy ra.
 
----
+- Phí nhượng tái bảo hiểm;
 
+- Trích lập dự phòng nghiệp vụ theo quy định của pháp luật về kinh doanh bảo hiểm;
 
-### Điều 33.11.TT.5.10. Thuế thu nhập doanh nghiệp
+- Chi hoa hồng bảo hiểm, hoa hồng môi giới bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm;
 
-*Nội dung chưa có sẵn*
+- Chi giám định tổn thất theo quy định của pháp luật;
 
-**Chỉ mục:** 10
+- Chi phí về dịch vụ đại lý bao gồm giám định tổn thất, xét giải quyết bồi thường, yêu cầu người thứ ba bồi hoàn;
 
-**Mã phân cấp:** 330110000000000035000050000000000000000000802517501035501000
+- Chi xử lý hàng tổn thất đã được giải quyết bồi thường 100%;
 
-**ID:** dk_00053983
+- Chi quản lý đại lý bảo hiểm theo quy định của pháp luật về hoạt động bảo hiểm;
 
----
+- Chi đề phòng, hạn chế tổn thất theo quy định;
 
+Chi đề phòng hạn chế tổn thất phải đúng mục đích theo quy định của pháp luật, đảm bảo có đầy đủ hóa đơn, chứng từ hoặc bằng chứng chứng minh.
 
-### Điều 33.11.TT.5.13. Thuế thu nhập doanh nghiệp
+- Chi đánh giá rủi ro của đối tượng bảo hiểm bao gồm các khoản chi cho công tác thu thập thông tin, điều tra, thẩm định về đối tượng bảo hiểm;
 
-*Nội dung chưa có sẵn*
+- Khoản trích lập bắt buộc theo quy định của pháp luật về kinh doanh bảo hiểm;
 
-**Chỉ mục:** 13
+- Các khoản tiền thưởng theo hoạt động kinh doanh của doanh nghiệp cho người lao động ngoài tiền lương nhưng có ghi rõ chỉ tiêu thưởng trong hợp đồng lao động, hoặc thỏa ước lao động tập thể, hoặc quyết định của Hội đồng quản trị, hoặc Ban Giám đốc;
 
-**Mã phân cấp:** 330110000000000035000050000000000000000000802517501035501300
+- Các khoản chi, trích khác theo quy định của pháp luật về kinh doanh bảo hiểm.
 
-**ID:** dk_00053984
+Mục 4
 
----
+HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI TỔ CHỨC, CÁ NHÂN NƯỚC NGOÀI KINH DOANH TẠI VIỆT NAM HOẶC CÓ THU NHẬP PHÁT SINH TẠI VIỆT NAM
 
+Điều 33.11.TT.5.7. Thu nhập chịu thuế TNDN
 
-### Điều 33.11.TT.5.16. Thuế thu nhập doanh nghiệp
+(Điều 7 Thông tư số 103/2014/TT-BTC Hướng dẫn thực hiện nghĩa vụ thuế áp dụng đối với tổ chức, cá nhân nước ngoài kinh doanh tại Việt Nam hoặc có thu nhập tại Việt Nam ngày 06/08/2014 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/10/2014 )
 
-*Nội dung chưa có sẵn*
+1. Thu nhập chịu thuế TNDN của Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài là thu nhập phát sinh từ hoạt động cung cấp, phân phối hàng hóa; cung cấp dịch vụ, dịch vụ gắn với hàng hóa tại Việt Nam trên cơ sở hợp đồng nhà thầu, hợp đồng nhà thầu phụ (trừ trường hợp quy định tại Điều 2 Chương I).
 
-**Chỉ mục:** 16
+2. Trường hợp hàng hóa được cung cấp dưới hình thức: điểm giao nhận hàng hóa nằm trong lãnh thổ Việt Nam (trừ trường hợp quy định tại khoản 5 Điều 2 Chương I); hoặc việc cung cấp hàng hóa có kèm theo một số dịch vụ tiến hành tại Việt Nam như dịch vụ quảng cáo tiếp thị (marketing), hoạt động xúc tiến thương mại, dịch vụ sau bán hàng, dịch vụ lắp đặt, chạy thử, bảo hành, bảo dưỡng, thay thế và các dịch vụ khác đi kèm với việc cung cấp hàng hóa (bao gồm cả trường hợp dịch vụ kèm theo miễn phí), kể cả trường hợp việc cung cấp các dịch vụ nêu trên có hoặc không nằm trong giá trị của hợp đồng cung cấp hàng hóa thì thu nhập chịu thuế TNDN của Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài là toàn bộ giá trị hàng hóa, dịch vụ.
 
-**Mã phân cấp:** 330110000000000035000050000000000000000000802517501035501600
+Ví dụ 10:
 
-**ID:** dk_00053985
+Công ty A ở Việt Nam ký hợp đồng mua dây chuyền máy móc thiết bị cho Dự án Nhà máy xi măng với Công ty B ở nước ngoài. Tổng giá trị Hợp đồng là 100 triệu USD (không bao gồm thuế GTGT), bao gồm giá trị máy móc thiết bị là 80 triệu USD, giá trị dịch vụ hướng dẫn lắp đặt, giám sát lắp đặt, bảo hành, bảo dưỡng là 20 triệu USD.
 
----
+Nghĩa vụ thuế TNDN của Công ty B đối với Giá trị hợp đồng được xác định như sau:
 
+- Thuế TNDN được tính riêng đối với giá trị dây chuyền máy móc thiết bị nhập khẩu (80 triệu USD) và tính riêng đối với giá trị dịch vụ (20 triệu USD) theo từng tỷ lệ thuế TNDN theo quy định.
 
-### Điều 33.11.TT.6.2. Về chi phí thực hiện hoạt động quảng bá sản phẩm, phân loại rác tại nguồn
+- Trường hợp Hợp đồng không xác định cụ thể giá trị dây chuyền máy móc thiết bị và giá trị dịch vụ thì tính thuế TNDN trên tổng giá trị hợp đồng (100 triệu USD) với tỷ lệ thuế TNDN theo quy định.
+
+3. Thu nhập phát sinh tại Việt Nam của Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài là các khoản thu nhập nhận được dưới bất kỳ hình thức nào trên cơ sở hợp đồng nhà thầu, hợp đồng nhà thầu phụ (trừ trường hợp quy định tại Điều 2 Chương I), không phụ thuộc vào địa điểm tiến hành hoạt động kinh doanh của Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài. Thu nhập chịu thuế của Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài trong một số trường hợp cụ thể như sau:
+
+- Thu nhập từ chuyển quyền sở hữu, quyền sử dụng tài sản; chuyển nhượng quyền tham gia hợp đồng kinh tế/dự án tại Việt Nam, chuyển nhượng quyền tài sản tại Việt Nam.
+
+- Thu nhập từ tiền bản quyền là khoản thu nhập dưới bất kỳ hình thức nào được trả cho quyền sử dụng, chuyển quyền sở hữu trí tuệ và chuyển giao công nghệ, bản quyền phần mềm (bao gồm: các khoản tiền trả cho quyền sử dụng, chuyển giao quyền tác giả và quyền chủ sở hữu tác phẩm; chuyển giao quyền sở hữu công nghiệp; chuyển giao công nghệ, bản quyền phần mềm).
+
+“Quyền tác giả, quyền chủ sở hữu tác phẩm”, “Quyền sở hữu công nghiệp”, "Chuyển giao công nghệ" quy định tại Bộ Luật Dân sự, Luật Sở hữu trí tuệ, Luật Chuyển giao công nghệ và các văn bản hướng dẫn thi hành.
+
+- Thu nhập từ chuyển nhượng, thanh lý tài sản.
+
+- Thu nhập từ Lãi tiền vay: là thu nhập của Bên cho vay từ các khoản cho vay dưới bất kỳ dạng nào mà khoản vay đó có hay không được đảm bảo bằng thế chấp, người cho vay đó có hay không được hưởng lợi tức của người đi vay; thu nhập từ lãi tiền gửi (trừ lãi tiền gửi của các cá nhân người nước ngoài và lãi tiền gửi phát sinh từ tài khoản tiền gửi để duy trì hoạt động tại Việt Nam của cơ quan đại diện ngoại giao, cơ quan đại diện của tổ chức quốc tế, tổ chức phi chính phủ tại Việt Nam), kể cả các khoản thưởng đi kèm lãi tiền gửi (nếu có); thu nhập từ lãi trả chậm theo quy định của các hợp đồng; thu nhập từ lãi trái phiếu, chiết khấu giá trái phiếu (trừ trái phiếu thuộc diện miễn thuế), tín phiếu kho bạc; thu nhập từ lãi chứng chỉ tiền gửi.
+
+Lãi tiền vay bao gồm cả các khoản phí mà Bên Việt Nam phải trả theo quy định của hợp đồng.
+
+- Thu nhập từ chuyển nhượng chứng khoán.
+
+- Tiền phạt, tiền bồi thường thu được từ bên đối tác vi phạm hợp đồng.
+
+- Các khoản thu nhập khác theo quy định của pháp luật.
+
+Điều 33.11.TT.5.10. Thuế thu nhập doanh nghiệp
+
+(Điều 10 Thông tư số 103/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2014)
+
+Thực hiện theo quy định của Luật Thuế TNDN và các văn bản hướng dẫn thi hành.
+
+Điều 33.11.TT.5.13. Thuế thu nhập doanh nghiệp
+
+(Điều 13 Thông tư số 103/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2014)
+
+Căn cứ tính thuế là doanh thu tính thuế TNDN và tỷ lệ (%) thuế TNDN tính trên doanh thu tính thuế.
+
+ Số thuế TNDN phải nộp
+
+ =
+
+ Doanh thu tính thuế TNDN
+
+ x
+
+ Tỷ lệ thuế TNDN tính trên doanh thu tính thuế
+
+**1. Doanh thu tính thuế TNDN**
+
+a) Doanh thu tính thuế TNDN
+
+Doanh thu tính thuế TNDN là toàn bộ doanh thu không bao gồm thuế GTGT mà Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài nhận được, chưa trừ các khoản thuế phải nộp. Doanh thu tính thuế TNDN được tính bao gồm cả các khoản chi phí do Bên Việt Nam trả thay Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài (nếu có).
+
+b) Xác định doanh thu tính thuế TNDN đối với một số trường hợp cụ thể:
+
+b.1) Trường hợp, theo thỏa thuận tại hợp đồng nhà thầu, hợp đồng nhà thầu phụ, doanh thu Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài nhận được không bao gồm thuế TNDN phải nộp thì doanh thu tính thuế TNDN được xác định theo công thức sau:
+
+ Doanh thu tính thuế TNDN
+
+ =
+
+ Doanh thu không bao gồm thuế TNDN
+
+ 1 - Tỷ lệ thuế TNDN tính trên doanh thu tính thuế
+
+Ví dụ 18:
+
+Nhà thầu nước ngoài A cung cấp cho Bên Việt Nam dịch vụ giám sát khối lượng xây dựng nhà máy xi măng Z, giá hợp đồng chưa bao gồm thuế GTGT, thuế TNDN là 285.000 USD. Ngoài ra, Bên Việt Nam thu xếp chỗ ở và làm việc cho nhân viên quản lý của Nhà thầu nước ngoài với giá trị là 38.000 USD (chưa bao gồm thuế GTGT, TNDN). Theo Hợp đồng, Bên Việt Nam chịu trách nhiệm trả thuế TNDN, thuế GTGT thay cho nhà thầu nước ngoài. Việc xác định số thuế TNDN nhà thầu nước ngoài phải nộp như sau:
+
+Xác định doanh thu tính thuế:
+
+ Doanh thu tính thuế TNDN
+
+ =
+
+ 285.000 + 38.000
+
+ =
+
+ ## 340.000 USD
+
+ ## (1- 5%)
+
+b.2) Trường hợp Nhà thầu nước ngoài ký hợp đồng với Nhà thầu phụ Việt Nam hoặc Nhà thầu phụ nước ngoài thực hiện nộp thuế theo phương pháp kê khai hoặc Nhà thầu phụ nước ngoài nộp thuế theo phương pháp hỗn hợp để giao bớt một phần giá trị công việc hoặc hạng mục được quy định tại Hợp đồng nhà thầu ký với Bên Việt Nam và danh sách các Nhà thầu phụ Việt Nam, Nhà thầu phụ nước ngoài thực hiện phần công việc hoặc hạng mục tương ứng được liệt kê kèm theo Hợp đồng nhà thầu thì doanh thu tính thuế TNDN của Nhà thầu nước ngoài không bao gồm giá trị công việc do Nhà thầu phụ Việt Nam hoặc Nhà thầu phụ nước ngoài thực hiện.
+
+Trường hợp Nhà thầu nước ngoài ký hợp đồng với các nhà cung cấp tại Việt Nam để mua vật tư nguyên vật liệu, máy móc thiết bị để thực hiện hợp đồng nhà thầu và hàng hóa, dịch vụ để phục vụ cho tiêu dùng nội bộ, tiêu dùng các khoản không thuộc hạng mục, công việc mà Nhà thầu nước ngoài thực hiện theo hợp đồng nhà thầu thì giá trị hàng hóa, dịch vụ này không được trừ khi xác định doanh thu tính thuế TNDN của Nhà thầu nước ngoài.
+
+Ví dụ 19:
+
+Nhà thầu nước ngoài A ký hợp đồng xây dựng nhà máy xi măng Z với Bên Việt Nam với tổng giá trị hợp đồng là 9 triệu USD (giá chưa bao gồm thuế GTGT). Theo Hợp đồng nhà thầu, Nhà thầu nước ngoài A sẽ giao bớt phần giá trị xây lắp (được quy định tại Hợp đồng nhà thầu ký với Bên Việt Nam) cho Nhà thầu phụ Việt Nam B với giá trị là 01 triệu USD (giá chưa bao gồm thuế GTGT); ngoài ra, trong quá trình xây dựng Nhà máy xi măng Z để thực hiện hợp đồng nhà thầu, Nhà thầu nước ngoài A mua vật tư nguyên vật liệu (gạch, xi măng, cát…) thực hiện xây lắp và mua các loại hàng hóa, dịch vụ như thuê xe, khách sạn cho chuyên gia, mua văn phòng phẩm... phục vụ cho việc thực hiện hợp đồng.
+
+Doanh thu tính thuế TNDN của Nhà thầu nước ngoài A trong trường hợp này được xác định như sau:
+
+Doanh thu tính thuế TNDN = 9 triệu USD - 1 triệu USD = 8 triệu USD
+
+Doanh thu tính thuế TNDN của Nhà thầu nước ngoài A không được trừ các khoản vật tư nguyên vật liệu, hàng hóa, dịch vụ như thuê xe, thuê khách sạn cho chuyên gia, mua văn phòng phẩm...
+
+b.3) Trường hợp Nhà thầu nước ngoài ký hợp đồng với Nhà thầu phụ nước ngoài thực hiện nộp thuế theo phương pháp trực tiếp thì Bên Việt Nam khai nộp thuế TNDN thay cho Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài theo tỷ lệ (%) thuế TNDN tính trên doanh thu tính thuế tương ứng với ngành kinh doanh mà Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài đó thực hiện theo hợp đồng nhà thầu, hợp đồng nhà thầu phụ. Nhà thầu phụ nước ngoài không phải khai nộp thuế TNDN trên phần giá trị công việc Nhà thầu phụ nước ngoài thực hiện theo quy định tại hợp đồng nhà thầu phụ ký với Nhà thầu nước ngoài mà Bên Việt Nam đã khai nộp thay.
+
+b.4) Doanh thu tính thuế TNDN đối với trường hợp cho thuê máy móc, thiết bị, phương tiện vận tải là toàn bộ tiền cho thuê. Trường hợp doanh thu cho thuê máy móc, thiết bị, phương tiện vận tải bao gồm các chi phí do bên cho thuê trực tiếp chi trả như bảo hiểm phương tiện, bảo dưỡng, chứng nhận đăng kiểm, người điều khiển phương tiện, máy móc và chi phí vận chuyển máy móc thiết bị từ nước ngoài đến Việt Nam thì doanh thu tính thuế TNDN không bao gồm các khoản chi phí này nếu có chứng từ thực tế chứng minh.
+
+b.5) Doanh thu tính thuế TNDN của hãng hàng không nước ngoài là doanh thu bán vé hành khách, vận đơn hàng không và các khoản thu khác (trừ những khoản thu hộ Nhà nước hoặc tổ chức theo quy định của pháp luật) tại Việt Nam cho việc vận chuyển hành khách, hàng hóa và đối tượng vận chuyển khác được thực hiện trên các chuyến bay của chính hãng hàng không hoặc liên danh.
+
+Ví dụ 20:
+
+Hãng hàng không nước ngoài A trong quý I năm 2013 phát sinh doanh số là 100.000 USD, trong đó doanh số bán vé hành khách là 85.000 USD, doanh số bán vận đơn hàng hóa là 10.000 USD và doanh số bán MCO (chứng từ có giá) là 5.000 USD; đồng thời phát sinh khoản thu hộ Nhà nước (lệ phí sân bay) 1.000 USD, chi hoàn do khách trả lại vé 2.000 USD.
+
+Doanh thu tính thuế TNDN quý I năm 2013 của Hãng hàng không nước ngoài A được xác định như sau:
+
+Doanh thu tính thuế TNDN = 100.000 – (1.000 + 2.000) = 97.000 USD
+
+b.6) Doanh thu tính thuế TNDN của hãng vận tải biển nước ngoài là toàn bộ tiền cước thu được từ hoạt động vận chuyển hành khách, vận chuyển hàng hóa và các khoản phụ thu khác mà hãng vận tải biển được hưởng từ cảng xếp hàng của Việt Nam đến cảng cuối cùng bốc dỡ hàng hóa đó (bao gồm cả tiền cước của các lô hàng phải chuyển tải qua các cảng trung gian) và/hoặc tiền cước thu được do vận chuyển hàng hóa giữa các cảng Việt Nam.
+
+Tiền cước vận chuyển làm căn cứ tính thuế TNDN không bao gồm tiền cước đã tính thuế TNDN tại cảng Việt Nam đối với chủ tàu nước ngoài và tiền cước trả cho doanh nghiệp vận tải Việt Nam do đã tham gia vận chuyển hàng từ cảng Việt Nam đến một cảng trung gian.
+
+Ví dụ 21:
+
+Công ty A thực hiện làm đại lý cho Hãng vận tải biển X của nước ngoài. Theo hợp đồng đại lý vận tải, Công ty A thay mặt Hãng X nhận hàng vận chuyển ra nước ngoài, phát hành vận đơn, thu tiền cước vận chuyển...
+
+Doanh nghiệp B của Việt Nam thuê Hãng X (qua Công ty A) vận chuyển hàng từ Việt Nam sang Mỹ với số tiền vận chuyển là 100.000 USD.
+
+Công ty A đã thuê tàu biển của doanh nghiệp Việt Nam hoặc tàu biển nước ngoài chở hàng từ Việt Nam sang Singapore với tiền cước vận chuyển là 20.000 USD và từ Singapore hàng sẽ được vận chuyển tiếp sang Mỹ bằng tàu của Hãng X.
+
+Doanh thu chịu thuế TNDN của Hãng vận tải biển X của nước ngoài được xác định như sau:
+
+Doanh thu chịu thuế TNDN = 100.000 – 20.000 = 80.000 USD
+
+b.7) Đối với dịch vụ giao nhận, kho vận quốc tế từ Việt Nam đi nước ngoài, (không phân biệt người gửi hay người nhận trả tiền dịch vụ), doanh thu tính thuế TNDN là toàn bộ doanh thu Nhà thầu nước ngoài nhận được không bao gồm cước vận chuyển quốc tế phải trả cho hãng vận chuyển (hàng không, đường biển).
+
+b.8) Đối với dịch vụ chuyển phát quốc tế từ Việt Nam đi nước ngoài (không phân biệt người gửi hay người nhận trả tiền dịch vụ), doanh thu tính thuế TNDN là toàn bộ doanh thu Nhà thầu nước ngoài nhận được.
+
+Ví dụ 22:
+
+Công ty A ở nước ngoài cung cấp dịch vụ chuyển phát bưu phẩm từ nước ngoài về Việt Nam và ngược lại. Doanh thu tính thuế TNDN của Công ty A được xác định như sau:
+
++ Đối với dịch vụ chuyển phát từ nước ngoài về Việt Nam (không phân biệt người gửi ở nước ngoài hay người nhận tại Việt Nam trả tiền dịch vụ) không thuộc thu nhập chịu thuế TNDN;
+
++ Đối với dịch vụ chuyển phát từ Việt Nam ra nước ngoài (không phân biệt người gửi tại Việt Nam hay người nhận ở nước ngoài trả tiền dịch vụ), doanh thu tính thuế TNDN là toàn bộ doanh thu Công ty A nhận được.
+
+Ví dụ 23:
+
+Công ty B (Công ty Việt Nam) cung cấp dịch vụ chuyển phát bưu phẩm từ nước ngoài về Việt Nam và ngược lại. Để thực hiện dịch vụ này, Công ty B thanh toán (chia cước) cho Công ty C ở nước ngoài một khoản tiền là x USD. Thuế TNDN của Công ty C được xác định như sau:
+
++ Đối với dịch vụ chuyển phát từ nước ngoài về Việt Nam (không phân biệt người gửi ở nước ngoài hay người nhận tại Việt Nam trả tiền dịch vụ), khoản tiền x USD Công ty C nhận được không thuộc thu nhập chịu thuế TNDN;
+
++ Đối với dịch vụ chuyển phát từ Việt Nam ra nước ngoài (không phân biệt người gửi tại Việt Nam hay người nhận ở nước ngoài trả tiền dịch vụ), khoản tiền x USD Công ty C nhận được thuộc thu nhập chịu thuế TNDN; Công ty B có trách nhiệm khai, khấu trừ, nộp thay thuế TNDN trên số tiền x thanh toán cho Công ty C.
+
+b.9) Đối với tái bảo hiểm, doanh thu tính thuế TNDN xác định như sau:
+
+- Đối với hoạt động nhượng tái bảo hiểm ra nước ngoài, doanh thu tính thuế TNDN là số tiền phí nhượng tái bảo hiểm ra nước ngoài mà Nhà thầu nước ngoài nhận được (bao gồm hoa hồng tái bảo hiểm và chi phí bồi hoàn cho khách hàng theo thỏa thuận).
+
+- Đối với hoạt động nhận tái bảo hiểm từ nước ngoài, doanh thu tính thuế TNDN là khoản hoa hồng nhượng tái bảo hiểm mà Nhà thầu nước ngoài nhận được.
+
+b.10) Đối với chuyển nhượng chứng khoán, doanh thu tính thuế TNDN được xác định như sau:
+
+Đối với chuyển nhượng chứng khoán, chứng chỉ tiền gửi, doanh thu tính thuế thu nhập doanh nghiệp là tổng doanh thu bán chứng khoán, chứng chỉ tiền gửi tại thời điểm chuyển nhượng.
+
+b.11) Doanh thu tính thuế TNDN đối với giao dịch hoán đổi lãi suất là phần chênh lệch giữa lãi phải thu và lãi phải trả mà Nhà thầu nước ngoài nhận được trong 1 năm dương lịch. Việc xác định kỳ tính thuế theo năm dương lịch được thực hiện theo quy định tại Luật thuế TNDN, Luật Quản lý thuế và các văn bản hướng dẫn.
+
+Ví dụ 24:
+
+Ngân hàng A (A) có một khoản cho vay trị giá 10 triệu USD với lãi suất cố định là 5,2% tháng. Thời gian thực hiện hợp đồng là 3 năm từ 1/2/2012 đến 1/2/2015, kỳ hạn thanh toán 6 tháng 1 lần và thanh toán vào đầu kỳ.
+
+Trên cơ sở hợp đồng cho vay của A, A đàm phán với 1 ngân hàng B (B) ở nước ngoài để thực hiện hợp đồng hoán đổi lãi suất, cụ thể:
+
+- Thời hạn thực hiện hợp đồng là 3 năm từ 1/2/2012 đến 1/2/2015, kỳ hạn thanh toán 6 tháng 1 lần và thanh toán vào đầu kỳ.
+
+- Lãi suất thả nổi A phải trả cho B là libor + 0,25% và B phải trả cho A lãi suất cố định là 5,2%. Điều này có nghĩa nếu lãi suất libor + 0,25% cao hơn lãi suất cố định theo hợp đồng hoán đổi thì B nhận được chênh lệch lãi suất từ A tính bằng: (libor + 0,25%) - lãi phải trả tính theo lãi suất 5,2%. Ngược lại nếu lãi suất libor + 0,25% thấp hơn lãi suất cố định theo hợp đồng hoán đổi thì A nhận được chênh lệch lãi suất từ B tính bằng: 5,2% - lãi A nhận được tính theo lãi suất libor + 0,25%.
+
+ Thời điểm thanh toán
+
+ Lãi suất libor(%)
+
+ A phải trả cho B(%)
+
+ B phải trả cho A(%)
+
+ Sau khi bù trừ lãi A hoặc B nhận được (%)
+
+ Số tiền chênh lệch A hoặc B nhận được từng kỳ (1.000USD)
+
+ A
+
+ B
+
+ A
+
+ B
+
+ 1/2/2012- 31/7/2012
+
+ 4,80
+
+ 5,05
+
+ 5,20
+
+ 0,15
+
+ -
+
+ 15
+
+ 1/8/2012 - 31/1/2013
+
+ 5,00
+
+ 5,25
+
+ 5,20
+
+ 0,05
+
+ 5
+
+ 1/2/2013- 31/7/2013
+
+ 4,90
+
+ 5,15
+
+ 5,20
+
+ 0,05
+
+ -
+
+ 5
+
+ 1/8/2013 - 31/1/2014
+
+ 4,95
+
+ 5,20
+
+ 5,20
+
+ 0,00
+
+ -
+
+ -
+
+ 1/2/2014 - 31/7/2014
+
+ 4,90
+
+ 5,15
+
+ 5,20
+
+ 0,05
+
+ 5
+
+ 1/8/2014- 30/1/2015
+
+ 5,05
+
+ 5,30
+
+ 5,20
+
+ 0,10
+
+ 10
+
+Việc xác định doanh thu tính thuế TNDN đối với B như sau:
+
+- Năm 2012 (từ 01/01/2012 - 31/12/2012): Tổng số tiền B nhận được từ A là: (15.000 - 5.000) = 10.000 USD;
+
+- Năm 2013 (từ 01/01/2013 - 31/12/2013): Tổng số tiền B nhận được từ A là: (5.000 - 0) = 5.000 USD;
+
+- Năm 2014 (từ 01/01/2014 - 31/12/2014: B Không nhận được tiền mà phải thanh toán cho A là 5.000 USD (Doanh thu tính thuế = 0);
+
+- Năm 2015: Do hợp đồng thỏa thuận thanh toán vào đầu kỳ nên không phát sinh việc thanh toán bù trừ giữa A và B.
+
+b.12) Đối với tín phiếu kho bạc:
+
+Việc xác định doanh thu tính thuế TNDN đối với tín phiếu kho bạc được áp dụng đối với từng loại tín phiếu kho bạc do nhà đầu tư nắm giữ tại thời điểm tín phiếu đáo hạn.
+
+Doanh thu tính thuế TNDN đối với tín phiếu kho bạc được xác định như sau:
+
+ Doanh thu tính thuế TNDN
+
+ =
+
+ (
+
+ Mệnh giá tín phiếu kho bạc
+
+ -
+
+ Bình quân gia quyền giá mua số tín phiếu kho bạc mà nhà đầu tư nắm giữ vào ngày đáo hạn
+
+ )
+
+ x
+
+ Số lượng tín phiếu kho bạc mà nhà đầu tư nắm giữ vào ngày đáo hạn
+
+Việc tính giá mua bình quân gia quyền của số tín phiếu kho bạc mà nhà đầu tư nắm giữ tại thời điểm đáo hạn được thực hiện theo 3 bước:
+
+Bước 1: Xác định số lượng tín phiếu nắm giữ tại thời điểm đáo hạn.
+
+Bước 2: Xác định số lượng, thời điểm mua và giá mua tương ứng của các tín phiếu nắm giữ tại thời điểm đáo hạn (xác định ở bước 1) theo nguyên tắc tín phiếu nào mua trước thì được bán trước (nguyên tắc FIFO).
+
+Bước 3: Tính giá mua bình quân gia quyền theo công thức:
+
+=∑( số lượng tín phiếu nắm giữ tại thời điểm đáo hạn tại các thời điểm mua x giá mua tương ứng tại các thời điểm mua vào) ÷ Số lượng tín phiếu nắm giữ tại thời điểm đáo hạn.
+
+Ví dụ 25: Ngày 1/1/2015, Tín phiếu kho bạc X mệnh giá phát hành 100.000 đồng, kỳ hạn 06 tháng được phát hành với giá 89.000 đồng/ tín phiếu. Ngay sau khi phát hành, Tín phiếu được niêm yết và giao dịch trên HNX. Nhà đầu tư A thực hiện một số giao dịch sau từ ngày 2/1 đến ngày 1/7/2015 (ngày đáo hạn):
+
+ Ngày giao dịch
+
+ Mua/ Bán
+
+ Khối lượng
+
+ Giá
+
+ 2/1/2015
+
+ Mua
+
+ 100
+
+ 90.000
+
+ 1/2/2015
+
+ Mua
+
+ 100
+
+ 92.000
+
+ 1/3/2015
+
+ Bán
+
+ 70
+
+ 93.000
+
+ 1/4/2015
+
+ Mua
+
+ 40
+
+ 94.000
+
+ 1/5/2015
+
+ Bán
+
+ 20
+
+ 95.000
+
+Bước 1: Xác định số lượng tín phiếu nắm giữ tại thời điểm đáo hạn: (100 + 100 + 40) – (70 +20) = 150 tín phiếu
+
+Bước 2: Xác định số lượng, thời điểm mua và giá mua tương ứng của các tín phiếu nắm giữ tại thời điểm đáo hạn sau khi trừ đi số lượng tín phiếu tại các đợt bán tín phiếu theo nguyên tắc tín phiếu nào mua trước thì được bán trước (nguyên tắc FIFO): 150 tín phiếu nắm giữ tại thời điểm đáo hạn bao gồm:
+
++ 10 tín phiếu tại mức giá 90.000 mua vào ngày 2/1/2015.
+
++ 100 tín phiếu tại mức giá 92.000 mua vào ngày 1/2/2015.
+
++ 40 tín phiếu tại mức giá 94.000 mua vào ngày 1/4/2015.
+
+Bước 3: Tính giá mua bình quân gia quyền theo công thức:
+
+Bình quân gia quyền giá mua tín phiếu: [(40 x 94.000 + 100 x 92.000 + 10 x 90.000)/ 150] = 92.400 (đồng)
+
+Doanh thu tính thuế TNDN đối với số tín phiếu mà nhà đầu tư nhận được vào thời điểm đáo hạn: (100.000 – 92.400) x 150 = 1.140.000 (đồng).
+
+**2. Tỷ lệ (%) thuế TNDN tính trên doanh thu tính thuế**
+
+a) Tỷ lệ (%) thuế TNDN tính trên doanh thu tính thuế đối với ngành kinh doanh:
+
+ STT
+
+ # Ngành kinh doanh
+
+ Tỷ lệ (%) thuế TNDN tính trên doanh thu tính thuế
+
+ 1
+
+ Thương mại: phân phối, cung cấp hàng hóa, nguyên liệu, vật tư, máy móc, thiết bị; phân phối, cung cấp hàng hóa, nguyên liệu, vật tư, máy móc, thiết bị gắn với dịch vụ tại Việt Nam {bao gồm cả cung cấp hàng hóa theo hình thức xuất nhập khẩu tại chỗ (trừ trường hợp gia công hàng hóa cho tổ chức, cá nhân nước ngoài); cung cấp hàng hóa theo điều kiện giao hàng của Các điều khoản thương mại quốc tế - Incoterms}
+
+ 1
+
+ 2
+
+ Dịch vụ, cho thuê máy móc thiết bị, bảo hiểm, thuê giàn khoan
+
+ 5
+
+ Riêng:
+
+ - Dịch vụ quản lý nhà hàng, khách sạn, casino;
+
+ 10
+
+ - Dịch vụ tài chính phái sinh
+
+ 2
+
+ 3
+
+ Cho thuê tàu bay, động cơ tàu bay, phụ tùng tàu bay, tàu biển
+
+ 2
+
+ 4
+
+ Xây dựng, lắp đặt có bao thầu hoặc không bao thầu nguyên vật liệu, máy móc, thiết bị
+
+ 2
+
+ 5
+
+ Hoạt động sản xuất, kinh doanh khác, vận chuyển (bao gồm vận chuyển đường biển, vận chuyển hàng không)
+
+ 2
+
+ 6
+
+ Chuyển nhượng chứng khoán, chứng chỉ tiền gửi***,*** tái bảo hiểm ra nước ngoài, hoa hồng nhượng tái bảo hiểm
+
+ 0,1
+
+ 7
+
+ Lãi tiền vay
+
+ 5
+
+ 8
+
+ Thu nhập bản quyền
+
+ 10
+
+b) Tỷ lệ (%) thuế TNDN tính trên doanh thu tính thuế đối với một số trường hợp cụ thể:
+
+b.1) Đối với các hợp đồng nhà thầu, hợp đồng nhà thầu phụ bao gồm nhiều hoạt động kinh doanh khác nhau, việc áp dụng tỷ lệ thuế TNDN tính trên doanh thu tính thuế khi xác định số thuế TNDN phải nộp căn cứ vào doanh thu chịu thuế TNDN đối với từng hoạt động kinh doanh do Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài thực hiện theo quy định tại hợp đồng. Trường hợp không tách riêng được giá trị từng hoạt động kinh doanh thì áp dụng tỷ lệ thuế TNDN đối với ngành nghề kinh doanh có tỷ lệ thuế TNDN cao nhất cho toàn bộ giá trị hợp đồng.
+
+Riêng đối với hoạt động xây dựng, lắp đặt có bao thầu nguyên vật liệu hoặc máy móc, thiết bị đi kèm công trình xây dựng: Trường hợp hợp đồng nhà thầu tách riêng giá trị từng hoạt động kinh doanh thì từng phần giá trị công việc theo hợp đồng được áp dụng tỷ lệ % thuế TNDN trên doanh thu tương ứng với hoạt động kinh doanh đó. Trường hợp hợp đồng nhà thầu không tách riêng giá trị từng hoạt động kinh doanh thì thì tỷ lệ % thuế TNDN tính trên doanh thu tính thuế là 2% trên toàn bộ giá trị hợp đồng. Trường hợp Nhà thầu nước ngoài ký hợp đồng với các Nhà thầu phụ để giao lại toàn bộ các phần giá trị công việc hoặc hạng mục có bao thầu nguyên vật liệu hoặc máy móc, thiết bị, Nhà thầu nước ngoài chỉ thực hiện phần giá trị dịch vụ còn lại theo hợp đồng nhà thầu thì tỷ lệ % thuế TNDN tính trên doanh thu tính thuế TNDN được áp dụng đối với ngành nghề dịch vụ (5%).
+
+Ví dụ 26:
+
+Nhà thầu nước ngoài A ký hợp đồng với Bên Việt Nam để xây dựng một nhà máy điện X với giá trị là 75 triệu USD (giá chưa bao gồm thuế GTGT, nhưng đã bao gồm thuế TNDN).
+
+Trường hợp 1: Hợp đồng nhà thầu tách riêng từng hoạt động kinh doanh như sau:
+
++ Giá trị máy móc, thiết bị cung cấp cho công trình: 50 triệu USD.
+
+Trong đó:
+
+Giá trị máy móc, thiết bị: 45 triệu USD
+
+Giá trị dịch vụ bảo hành đi kèm máy móc, thiết bị: 5 triệu USD
+
++ Giá trị dịch vụ thiết kế dây chuyền công nghệ, thiết kế khác: 5 triệu USD.
+
++ Giá trị nhà xưởng, hệ thống phụ trợ khác, hoạt động xây dựng lắp đặt: 15 triệu USD.
+
++ Giá trị dịch vụ giám sát, hướng dẫn lắp đặt: 3 triệu USD.
+
++ Giá trị dịch vụ đào tạo kỹ thuật, vận hành thử: 2 triệu USD.
+
+Tỷ lệ % thuế TNDN được áp dụng như sau: đối với giá trị máy móc thiết bị 45 triệu USD: 1%; đối với giá trị hoạt động xây dựng, lắp đặt 15 triệu USD: 2%; đối với giá trị các dịch vụ còn lại (dịch vụ bảo hành, thiết kế, dịch vụ giám sát, hướng dẫn lắp đặt, dịch vụ đào tạo kỹ thuật, vận hành thử) 15 triệu USD: 5%.
+
+Trường hợp 2: Hợp đồng nhà thầu không tách riêng từng hoạt động kinh doanh thì tỷ lệ % thuế TNDN đối với toàn bộ giá trị hợp đồng 75 triệu áp dụng là 2%.
+
+Trường hợp 3: Nhà thầu nước ngoài A ký hợp đồng với các Nhà thầu phụ để giao lại các phần công việc có bao thầu nguyên vật liệu, Nhà thầu nước ngoài A chỉ thực hiện phần giá trị dịch vụ (ví dụ như giá trị dịch vụ giám sát, hướng dẫn lắp đặt) thì phần giá trị dịch vụ này áp dụng tỷ lệ % thuế TNDN là 5%.
+
+b.2) Đối với hợp đồng cung cấp máy móc thiết bị có kèm theo các dịch vụ thực hiện tại Việt Nam, nếu tách riêng được giá trị máy móc thiết bị và giá trị các dịch vụ thì tính thuế theo tỷ lệ thuế riêng của từng phần giá trị hợp đồng. Trường hợp trong hợp đồng không tách riêng được giá trị máy móc thiết bị và giá trị các dịch vụ thì áp dụng tỷ lệ thuế TNDN trên doanh thu tính thuế là 2%.
+
+Ví dụ 27:
+
+Nhà thầu nước ngoài A ký hợp đồng với Bên Việt Nam để cung cấp 1 dây chuyền máy móc, thiết bị với giá trị là 70 triệu USD. Giá trị hợp đồng bao gồm:
+
++ Giá trị máy móc, thiết bị cung cấp cho công trình: 60 triệu USD
+
++ Giá trị thiết kế dây chuyền công nghệ, thiết kế khác: 5 triệu USD
+
++ Giá trị dịch vụ giám sát, hướng dẫn lắp đặt: 3 triệu USD
+
++ Giá trị dịch vụ đào tạo kỹ thuật, vận hành thử: 2 triệu USD.
+
+Trong trường hợp tách riêng được phần giá trị máy móc thiết bị và giá trị dịch vụ này việc áp dụng tỷ lệ thuế TNDN như sau: đối với giá trị máy móc, thiết bị áp dụng tỷ lệ đối với ngành thương mại; đối với giá trị dịch vụ thiết kế, giám sát lắp đặt, đào tạo, vận hành thử áp dụng tỷ lệ đối với ngành dịch vụ.
+
+Trường hợp không tách riêng được thì áp dụng tỷ lệ thuế TNDN là 2% trên toàn bộ giá trị hợp đồng (70 triệu USD).
+
+**3.** Thuế TNDN đối với khoản tiền bồi thường thu được từ bên đối tác vi phạm hợp đồng đối với trường hợp khoản thu bồi thường lớn hơn giá trị thiệt hại, có thu nhập chịu thuế:
+
+Đối với khoản thu nhập từ tiền bồi thường thiệt hại thu được, nhà thầu nước ngoài được lựa chọn khai nộp thuế TNDN theo tỷ lệ thuế TNDN tính trên doanh thu tính thuế hoặc trên cơ sở kê khai doanh thu, chi phí với thuế suất là thuế suất phổ thông.
+
+(Điều này có nội dung liên quan đến Điều 33.11.TT.5.16. Thuế thu nhập doanh nghiệp)
+
+Điều 33.11.TT.5.16. Thuế thu nhập doanh nghiệp
+
+(Điều 16 Thông tư số 103/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2014)
+
+Thực hiện theo hướng dẫn tại Điều 13 Mục 3 Chương II.
+
+(Điều này có nội dung liên quan đến Điều 33.11.TT.5.13. Thuế thu nhập doanh nghiệp)
+
+Mục 5
+
+HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI HOẠT ĐỘNG BẢO VỆ MÔI TRƯỜNG
 
 Điều 33.11.TT.6.2. Về chi phí thực hiện hoạt động quảng bá sản phẩm, phân loại rác tại nguồn
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 212/2015/TT-BTC Thông tư hướng dẫn chính sách thuế thu nhập doanh nghiệp đối với hoạt động bảo vệ môi trường quy định tại Nghị định số 19/2015/NĐ-CP ngày 14/02/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường ngày 31/12/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 14/02/2016 )
 
-**Mã phân cấp:** 330110000000000035000060000000000000000000802568702125500200
+ 1. Chi phí quảng bá sản phẩm từ hoạt động bảo vệ môi trường, hoạt động thu hồi, xử lý sản phẩm thải bỏ; chi phí sản xuất và phổ biến các thể loại phim, chương trình truyền hình, phóng sự khoa học về bảo vệ môi trường và chi phí thực hiện việc cung cấp miễn phí các dụng cụ cho người dân thực hiện phân loại rác thải sinh hoạt, sản phẩm thải bỏ tại nguồn quy định tại khoản 1 Điều 48 Nghị định số 19/2015/NĐ-CP được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp theo số chi thực tế nếu đáp ứng các điều kiện:
 
-**ID:** dk_00053987
+ - Khoản chi có đủ hóa đơn, chứng từ hợp pháp theo quy định của pháp luật.
 
----
+ - Khoản chi nếu có hóa đơn mua hàng hóa, dịch vụ từng lần có giá trị từ 20 triệu đồng trở lên (giá đã bao gồm thuế GTGT) khi thanh toán phải có chứng từ thanh toán không dùng tiền mặt, trừ các trường hợp không có chứng từ thanh toán không dùng tiền mặt theo quy định tại Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ và các văn bản hướng dẫn.
 
+ 2. Chi phí quảng bá sản phẩm từ hoạt động bảo vệ môi trường, hoạt động thu hồi, xử lý sản phẩm thải bỏ quy định tại khoản 1 Điều này bao gồm:
 
-### Điều 33.11.TT.6.3. Về ưu đãi thuế thu nhập doanh nghiệp
+ a) Chi phí tổ chức các cuộc hội thảo khoa học thảo luận về cách thức sản xuất, tính năng, công dụng của các sản phẩm từ hoạt động bảo vệ môi trường, của hoạt động thu hồi, xử lý sản phẩm thải bỏ.
+
+ b) Chi phí nghiên cứu thị trường: thăm dò, khảo sát, phỏng vấn, thu thập, phân tích và đánh giá thông tin về sản phẩm từ hoạt động bảo vệ môi trường, về hoạt động thu hồi, xử lý sản phẩm thải bỏ.
+
+ c) Chi phí phát triển và hỗ trợ nghiên cứu thị trường.
+
+ d) Chi phí thuê tư vấn thực hiện công việc nghiên cứu, phát triển và hỗ trợ nghiên cứu thị trường.
+
+ đ) Chi phí trưng bày, giới thiệu sản phẩm và tổ chức hội chợ, triển lãm thương mại: chi phí mở phòng hoặc gian hàng trưng bày, giới thiệu sản phẩm; chi phí thuê không gian để trưng bày, giới thiệu sản phẩm; chi phí vật liệu, công cụ hỗ trợ trưng bày, giới thiệu sản phẩm; chi phí vận chuyển sản phẩm trưng bày, giới thiệu.
+
+ 3. Phim, chương trình truyền hình, phóng sự khoa học về bảo vệ môi trường quy định tại khoản 1 Điều này bao gồm:
+
+ a) Phim, chương trình truyền hình, phóng sự khoa học phổ cập và nâng cao ý thức bảo vệ môi trường và tiêu dùng bền vững cho cộng đồng đối với những sản phẩm thân thiện với môi trường được Bộ Tài nguyên và Môi trường gắn Nhãn xanh Việt Nam.
+
+ b) Phim, chương trình truyền hình, phóng sự khoa học phổ biến kiến thức về phân loại rác thải sinh hoạt, sản phẩm thải bỏ tại nguồn.
+
+ 4. Các dụng cụ được cấp miễn phí cho người dân quy định tại khoản 1 Điều này bao gồm: thùng đựng, túi đựng rác; thùng đựng, túi đựng sản phẩm thải bỏ; ủng, bao tay và dụng cụ chuyên dùng khác để phân loại rác thải sinh hoạt, sản phẩm thải bỏ tại nguồn.
+
+ Trường hợp doanh nghiệp cung cấp miễn phí dụng cụ cho người dân thực hiện phân loại rác thải sinh hoạt, sản phẩm thải bỏ tại nguồn quy định tại khoản này có phát kèm theo tờ rơi hướng dẫn về phân loại chất thải rắn hữu cơ và chất thải rắn vô cơ cùng với các dụng cụ nêu trên thì chi phí làm tờ rơi được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp.
+
+ Doanh nghiệp cung cấp miễn phí dụng cụ cho người dân quy định tại khoản này phải lập bảng kê chi tiết, trong đó ghi rõ họ tên người được cấp, địa chỉ cụ thể; số lượng, giá trị của từng loại dụng cụ; chữ ký của người được cấp; chữ ký của người đại diện theo pháp luật hoặc người được ủy quyền của doanh nghiệp.
+
+ Bảng kê cung cấp dụng cụ miễn phí do người đại diện theo pháp luật hoặc người được ủy quyền của doanh nghiệp ký và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của việc lập bảng kê.(Điều này có nội dung liên quan đến Điều 33.11.NĐ.2.1. Phạm vi điều chỉnh; Điều 21.1.NĐ.9.43. Ưu đãi về thuế thu nhập doanh nghiệp; Điều 21.1.NĐ.9.48. Hỗ trợ quảng bá sản phẩm, phân loại rác tại nguồn)
 
 Điều 33.11.TT.6.3. Về ưu đãi thuế thu nhập doanh nghiệp
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 212/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2016)
 
-**Mã phân cấp:** 330110000000000035000060000000000000000000802568702125500300
+ 1. Ưu đãi thuế thu nhập doanh nghiệp theo quy định tại Thông tư này được áp dụng đối với thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới:
 
-**ID:** dk_00053988
+ a) Xử lý nước thải sinh hoạt tập trung có công suất thiết kế từ 2.500m3 nước thải trở lên trong một ngày đêm đối với khu vực đô thị từ loại IV trở lên.
 
----
+ b) Thu gom, vận chuyển, xử lý chất thải rắn thông thường tập trung.
 
+ c) Xử lý, cải tạo các khu vực môi trường bị ô nhiễm tại các khu vực công cộng.
 
-### Điều 33.11.LQ.19. Hiệu lực thi hành
+ d) Ứng cứu, xử lý sự cố tràn dầu, sự cố hóa chất và sự cố môi trường khác.
 
-*Nội dung chưa có sẵn*
+ đ) Xây dựng hạ tầng kỹ thuật bảo vệ môi trường các khu, cụm công nghiệp làng nghề.
 
-**Chỉ mục:** 19
+ e) Dịch vụ hỏa táng, điện táng.
 
-**Mã phân cấp:** 3301100000000000400001900000000000000000
+ g) Giám định thiệt hại về môi trường; giám định sức khỏe môi trường; giám định về môi trường đối với hàng hóa, máy móc, thiết bị, công nghệ.
 
-**ID:** dk_00053990
+ h) Sản xuất ứng dụng sáng chế bảo vệ môi trường được nhà nước bảo hộ dưới hình thức cấp Bằng độc quyền sáng chế hoặc Bằng độc quyền giải pháp hữu ích.
 
----
+ i) Sản xuất các sản phẩm thân thiện với môi trường được Bộ Tài nguyên và Môi trường gắn Nhãn xanh Việt Nam; sản phẩm từ hoạt động tái chế, xử lý chất thải được cơ quan nhà nước có thẩm quyền chứng nhận.
 
+ k) Sản xuất xăng, nhiên liệu diezen và nhiên liệu sinh học được chứng nhận hợp quy; than sinh học; năng lượng từ sử dụng sức gió, ánh sáng mặt trời, thủy triều, địa nhiệt và các dạng năng lượng tái tạo khác.
 
-### Điều 33.11.LQ.20. Hướng dẫn thi hành
+ l) Sản xuất máy móc, thiết bị, phương tiện chuyên dùng sử dụng trực tiếp trong việc thu gom, vận chuyển, xử lý chất thải; quan trắc và phân tích môi trường; sản xuất năng lượng tái tạo; xử lý ô nhiễm môi trường; ứng phó, xử lý sự cố môi trường.
 
-*Nội dung chưa có sẵn*
+ 2. Về mức ưu đãi:
 
-**Chỉ mục:** 20
+ a) Về thuế suất:
 
-**Mã phân cấp:** 3301100000000000400002000000000000000000
+ Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới quy định tại khoản 1 Điều này được áp dụng thuế suất 10% trong 15 năm.
 
-**ID:** dk_00053991
+ Trường hợp dự án đầu tư có quy mô lớn và công nghệ cao hoặc mới cần đặc biệt thu hút đầu tư thì thời gian áp dụng thuế suất ưu đãi 10% có thể kéo dài thêm nhưng tổng thời gian áp dụng thuế suất 10% không quá 30 năm do Thủ tướng Chính phủ quyết định theo đề nghị của Bộ trưởng Bộ Tài chính.
 
----
+ Trường hợp doanh nghiệp đáp ứng các tiêu chí cơ sở thực hiện xã hội hóa trong lĩnh vực môi trường theo Quyết định của Thủ tướng Chính phủ, được áp dụng thuế suất ưu đãi 10% trong suốt thời gian hoạt động đối với phần thu nhập từ thực hiện hoạt động xã hội hóa.
 
+ Thời gian áp dụng thuế suất ưu đãi được tính liên tục từ năm đầu tiên doanh nghiệp có doanh thu từ dự án đầu tư.
 
-### Điều 33.11.NĐ.2.20. Hiệu lực thi hành
+ b) Về miễn, giảm thuế:
 
-*Nội dung chưa có sẵn*
+ Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư mới quy định tại khoản 1 Điều này được miễn thuế 04 năm, được giảm 50% số thuế phải nộp trong 09 năm tiếp theo.
 
-**Chỉ mục:** 20
+ Thời gian miễn thuế, giảm thuế được tính liên tục từ năm đầu tiên doanh nghiệp có thu nhập chịu thuế từ dự án đầu tư mới được hưởng ưu đãi thuế. Trường hợp doanh nghiệp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu từ dự án đầu tư mới thì thời gian miễn thuế, giảm thuế được tính từ năm thứ tư dự án đầu tư mới phát sinh doanh thu.
 
-**Mã phân cấp:** 3301100000000000400002040249520218000200
+ Năm miễn thuế, giảm thuế xác định phù hợp với kỳ tính thuế. Thời điểm bắt đầu tính thời gian miễn thuế, giảm thuế tính liên tục kể từ kỳ tính thuế đầu tiên doanh nghiệp bắt đầu có thu nhập chịu thuế (chưa trừ số lỗ các kỳ tính thuế trước chuyển sang).
 
-**ID:** dk_00053992
+ Trường hợp, trong kỳ tính thuế đầu tiên có thu nhập chịu thuế mà dự án đầu tư mới của doanh nghiệp có thời gian hoạt động sản xuất, kinh doanh được hưởng ưu đãi thuế dưới 12 (mười hai) tháng, doanh nghiệp được lựa chọn hưởng ưu đãi thuế đối với dự án đầu tư mới ngay kỳ tính thuế đầu tiên đó hoặc đăng ký với cơ quan thuế thời gian bắt đầu được hưởng ưu đãi thuế từ kỳ tính thuế tiếp theo. Trường hợp doanh nghiệp đăng ký thời gian ưu đãi thuế vào kỳ tính thuế tiếp theo thì phải xác định số thuế phải nộp của kỳ tính thuế đầu tiên để nộp vào Ngân sách Nhà nước theo quy định.
 
----
+ c) Về thời gian áp dụng thuế suất ưu đãi đối với một số dự án cụ thể:
 
+ - Đối với dự án đầu tư mới sản xuất ứng dụng sáng chế bảo vệ môi trường được nhà nước bảo hộ dưới hình thức cấp Bằng độc quyền sáng chế hoặc Bằng độc quyền giải pháp hữu ích thì thời gian áp dụng thuế suất ưu đãi tính từ năm được cấp Bằng độc quyền sáng chế hoặc Bằng độc quyền giải pháp hữu ích.
 
-### Điều 33.11.NĐ.2.21. Trách nhiệm thi hành
+ - Đối với dự án đầu tư mới sản xuất các sản phẩm thân thiện với môi trường được Bộ Tài nguyên và Môi trường gắn Nhãn xanh Việt Nam thì thời gian áp dụng thuế suất ưu đãi tính từ năm Bộ Tài nguyên và Môi trường gắn Nhãn xanh Việt Nam.
 
-*Nội dung chưa có sẵn*
+ - Đối với dự án đầu tư mới sản xuất sản phẩm từ hoạt động tái chế, xử lý chất thải được cơ quan nhà nước có thẩm quyền chứng nhận thì thời gian áp dụng thuế suất ưu đãi tính từ năm được cơ quan nhà nước có thẩm quyền chứng nhận sản phẩm được sản xuất từ hoạt động tái chế, xử lý chất thải.
 
-**Chỉ mục:** 21
+ Trường hợp, trong kỳ tính thuế đầu tiên mà các dự án đầu tư mới quy định tại điểm này của doanh nghiệp có thời gian hoạt động sản xuất, kinh doanh dưới 12 (mười hai) tháng, doanh nghiệp được lựa chọn áp dụng thuế suất ưu đãi ngay kỳ tính thuế đầu tiên đó hoặc đăng ký với cơ quan thuế thời gian bắt đầu được áp dụng thuế suất ưu đãi từ kỳ tính thuế tiếp theo. Trường hợp doanh nghiệp đăng ký thời gian áp dụng thuế suất ưu đãi vào kỳ tính thuế tiếp theo thì phải xác định số thuế phải nộp của kỳ tính thuế đầu tiên để nộp vào Ngân sách Nhà nước theo quy định.
 
-**Mã phân cấp:** 3301100000000000400002040249520218000210
+ 3. Trường hợp doanh nghiệp có dự án đầu tư mở rộng dự án đang hoạt động thuộc diện ưu đãi thuế thu nhập doanh nghiệp theo quy định tại khoản 1 Điều này, thực hiện xác định tiêu chí hưởng ưu đãi và áp dụng ưu đãi thuế đối với dự án đầu tư mở rộng theo quy định của pháp luật về thuế thu nhập doanh nghiệp.(Điều này có nội dung liên quan đến Điều 21.1.NĐ.9.43. Ưu đãi về thuế thu nhập doanh nghiệp)
 
-**ID:** dk_00053993
+Chương V
 
----
+ĐIỀU KHOẢN THI HÀNH
 
+(Chương này có nội dung liên quan đến Điều 30. ; Điều 32. của )
 
-### Điều 33.11.NĐ.3.4. Tổ chức thực hiện và hiệu lực thi hành
+Điều 33.11.LQ.19. Hiệu lực thi hành
+
+(Điều 19 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009)
+
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2009.
+
+2. Luật này thay thế Luật thuế thu nhập doanh nghiệp số 09/2003/QH11.
+
+3. Doanh nghiệp đang hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định của Luật thuế thu nhập doanh nghiệp số 09/2003/QH11 tiếp tục được hưởng các ưu đãi này cho thời gian còn lại theo quy định của Luật thuế thu nhập doanh nghiệp số 09/2003/QH11; trường hợp mức ưu đãi về thuế thu nhập doanh nghiệp bao gồm cả thuế suất ưu đãi và thời gian miễn thuế, giảm thuế thấp hơn mức ưu đãi theo quy định của Luật này thì được áp dụng ưu đãi thuế theo quy định của Luật này cho thời gian còn lại.
+
+4. Doanh nghiệp thuộc diện hưởng thời gian miễn thuế, giảm thuế theo quy định của Luật thuế thu nhập doanh nghiệp số 09/2003/QH11 mà chưa có thu nhập chịu thuế thì thời điểm bắt đầu tính thời gian miễn thuế, giảm thuế được tính theo quy định của Luật này và kể từ ngày Luật này có hiệu lực.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. )
+
+Điều 33.11.LQ.20. Hướng dẫn thi hành
+
+(Điều 20 Luật số 14/2008/QH12, có hiệu lực thi hành kể từ ngày 01/01/2009)
+
+Chính phủ quy định chi tiết và hướng dẫn thi hành các Điều 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18 và các nội dung cần thiết khác của Luật này theo yêu cầu quản lý.
+
+(Điều này có nội dung liên quan đến Điều 30. ; Điều 32. )
+
+Điều 33.11.NĐ.2.20. Hiệu lực thi hành
+
+(Điều 20 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 12/2015/NĐ-CP có hiệu lực thi hành kể từ ngày 01/01/2015; Điều 1 Nghị định số 57/2021/NĐ-CP có hiệu lực thi hành kể từ ngày 04/06/2021)
+
+1. Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2014 và áp dụng cho kỳ tính thuế từ năm 2014 trở đi.
+
+Bãi bỏ Nghị định số 124/2008/NĐ-CP ngày 11 tháng 12 năm 2008, số 122/2011/ NĐ-CP ngày 27 tháng 12 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế thu nhập doanh nghiệp và Điều 2, Điều 3 Nghị định số 92/2013/NĐ-CP ngày 13 tháng 8 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều có hiệu lực từ ngày 01 tháng 7 năm 2013 của Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp và Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng.
+
+2.Doanh nghiệp có dự án đầu tư được hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định của pháp luật thuế thu nhập doanh nghiệp tại thời điểm cấp phép hoặc cấp giấy chứng nhận đầu tư theo quy định của pháp luật về đầu tư. Trường hợp pháp luật thuế thu nhập doanh nghiệp có thay đổi mà doanh nghiệp đáp ứng điều kiện ưu đãi thuế theo quy định của pháp luật mới được sửa đổi, bổ sung thì doanh nghiệp được quyền lựa chọn hưởng ưu đãi về thuế suất và về thời gian miễn thuế, giảm thuế theo quy định của pháp luật tại thời điểm được phép đầu tư hoặc theo quy định của pháp luật mới được sửa đổi, bổ sung cho thời gian còn lại kể từ khi pháp luật thuế thu nhập doanh nghiệp sửa đổi, bổ sung có hiệu lực thi hành.
+
+a) Doanh nghiệp có dự án đầu tư mà tính đến hết kỳ tính thuế năm 2013 còn đang trong thời gian hưởng ưu đãi thuế thu nhập doanh nghiệp, kể cả trường hợp dự án đầu tư đã được cấp Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc Giấy chứng nhận đăng ký doanh nghiệp (đối với dự án đầu tư trong nước gắn với việc thành lập doanh nghiệp mới có vốn đầu tư dưới 15 tỷ đồng và không thuộc Danh mục lĩnh vực đầu tư có điều kiện) nhưng chưa được hưởng ưu đãi theo quy định của các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp trước thời điểm Nghị định này có hiệu lực thi hành thì được hưởng ưu đãi cho thời gian còn lại theo quy định của các văn bản quy phạm pháp luật đó. Trường hợp đang hưởng ưu đãi theo đầu tư mở rộng thì tiếp tục hưởng ưu đãi theo đầu tư mở rộng; trường hợp đang hưởng ưu đãi theo đầu tư mới thì tiếp tục hưởng ưu đãi theo đầu tư mới; trường hợp mức ưu đãi tại Nghị định này cao hơn mức ưu đãi đang hưởng (kể cả trường hợp thuộc diện nhưng chưa được hưởng) thì được chuyển sang áp dụng ưu đãi theo Nghị định này cho thời gian còn lại.
+
+b) Doanh nghiệp có dự án đầu tư mở rộng đã được cơ quan có thẩm quyền cấp phép đầu tư hoặc đã thực hiện đầu tư trong giai đoạn 2009 - 2013, tính đến hết kỳ tính thuế năm 2014 đáp ứng điều kiện ưu đãi thuế theo quy định của Luật số 32/2013/QH13 thì được hưởng ưu đãi thuế đối với đầu tư mở rộng theo quy định của Nghị định này cho thời gian còn lại kể từ kỳ tính thuế năm 2015;
+
+c) Doanh nghiệp thực hiện dự án đầu tư vào khu công nghiệp trong giai đoạn 2009 - 2013 thì được hưởng ưu đãi thuế theo quy định của Luật số 32/2013/QH13 cho thời gian còn lại kể từ kỳ tính thuế năm 2015.
+
+d) Doanh nghiệp có dự án đầu tư vào địa bàn mà trước ngày 01 tháng 01 năm 2015 chưa thuộc địa bàn ưu đãi thuế (khu công nghiệp, khu kinh tế, khu công nghệ cao và các địa bàn ưu đãi khác) nay thuộc địa bàn ưu đãi thuế quy định tại Nghị định này thì được hưởng ưu đãi thuế cho thời gian còn lại kể từ kỳ tính thuế năm 2015.
+
+đ) Doanh nghiệp có dự án đầu tư vào địa bàn được chuyển đổi thành địa bàn ưu đãi thuế sau ngày 01 tháng 01 năm 2015 thì được hưởng ưu đãi thuế cho thời gian còn lại kể từ khi chuyển đổi.
+
+e) Tính đến hết kỳ tính thuế năm 2015 trường hợp doanh nghiệp có dự án đầu tư đang được áp dụng thuế suất ưu đãi 20% quy định tại Khoản 3 Điều 15 Nghị định này thì kể từ 01 tháng 01 năm 2016 được chuyển sang áp dụng thuế suất 17% cho thời gian còn lại.
+
+Bộ Tài chính hướng dẫn việc xác định thời gian còn lại để hưởng ưu đãi thuế kể từ khi thực hiện quy định về ưu đãi thuế tại các văn bản pháp luật về đầu tư nước ngoài tại Việt Nam, về khuyến khích đầu tư trong nước và về thuế thu nhập doanh nghiệp ban hành trước ngày Nghị định này có hiệu lực thi hành.
+
+g) Doanh nghiệp có dự án đầu tư (đầu tư mới và đầu tư mở rộng) sản xuất sản phẩm thuộc Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển, thực hiện trước ngày 01 tháng 01 năm 2015, đáp ứng các điều kiện của dự án sản xuất sản phẩm công nghiệp hỗ trợ theo quy định tại Luật số 71/2014/QH13 và được cơ quan có thẩm quyền cấp Giấy xác nhận ưu đãi sản xuất sản phẩm công nghiệp hỗ trợ thì được hưởng ưu đãi về thuế thu nhập doanh nghiệp như sau:
+g1) Trường hợp doanh nghiệp có dự án sản xuất sản phẩm công nghiệp hỗ trợ mà thu nhập từ dự án này chưa được hưởng ưu đãi thuế thu nhập doanh nghiệp thì được hưởng ưu đãi về thuế thu nhập doanh nghiệp theo điều kiện dự án sản xuất sản phẩm công nghiệp hỗ trợ kể từ kỳ tính thuế được cơ quan có thẩm quyền cấp Giấy xác nhận ưu đãi sản xuất sản phẩm công nghiệp hỗ trợ.
+g2) Trường hợp doanh nghiệp có dự án sản xuất sản phẩm công nghiệp hỗ trợ mà thu nhập từ dự án này đã hưởng hết ưu đãi thuế thu nhập doanh nghiệp theo điều kiện ưu đãi khác (ngoài điều kiện ưu đãi đối với dự án sản xuất sản phẩm công nghiệp hỗ trợ) thì được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện dự án sản xuất sản phẩm công nghiệp hỗ trợ cho thời gian còn lại kể từ kỳ tính thuế được cơ quan có thẩm quyền cấp Giấy xác nhận ưu đãi sản xuất sản phẩm công nghiệp hỗ trợ.
+g3) Trường hợp doanh nghiệp có dự án sản xuất sản phẩm công nghiệp hỗ trợ mà thu nhập từ dự án này đang được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện ưu đãi khác (ngoài điều kiện ưu đãi đối với dự án sản xuất sản phẩm công nghiệp hỗ trợ) thì được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện dự án sản xuất sản phẩm công nghiệp hỗ trợ cho thời gian còn lại kể từ kỳ tính thuế được cơ quan có thẩm quyền cấp Giấy xác nhận ưu đãi sản xuất sản phẩm công nghiệp hỗ trợ.
+g4) Cách xác định thời gian ưu đãi còn lại nêu tại điểm g2 và g3 điểm này:
+Thời gian ưu đãi còn lại được xác định bằng thời gian ưu đãi thuế thu nhập doanh nghiệp theo điều kiện dự án sản xuất sản phẩm công nghiệp hỗ trợ trừ đi số năm miễn thuế, số năm giảm thuế, số năm hưởng thuế suất ưu đãi đã được hưởng ưu đãi theo điều kiện ưu đãi khác, cụ thể như sau:
+- Thời gian miễn thuế còn lại bằng thời gian miễn thuế theo điều kiện dự án sản xuất sản phẩm công nghiệp hỗ trợ trừ đi thời gian miễn thuế đã hưởng ưu đãi theo điều kiện ưu đãi khác;
+- Thời gian giảm thuế còn lại bằng thời gian giảm thuế theo điều kiện dự án sản xuất sản phẩm công nghiệp hỗ trợ trừ đi thời gian giảm thuế đã hưởng ưu đãi theo điều kiện ưu đãi khác;
+- Thời gian áp dụng thuế suất ưu đãi còn lại bằng thời gian ưu đãi thuế suất theo điều kiện dự án sản xuất sản phẩm công nghiệp hỗ trợ trừ đi thời gian ưu đãi thuế suất đã hưởng theo điều kiện ưu đãi khác (nếu có).
+g5) Các ví dụ cụ thể:
+Ví dụ 1: Năm 2010, doanh nghiệp thực hiện dự án đầu tư mở rộng tại địa bàn không thuộc danh mục địa bàn ưu đãi thuế. Trong kỳ tính thuế năm 2011, dự án phát sinh doanh thu và thu nhập chịu thuế. Tính đến hết kỳ tính thuế năm 2016, thu nhập từ dự án chưa được hưởng ưu đãi thuế thu nhập doanh nghiệp. Trong kỳ tính thuế năm 2017, dự án được cấp Giấy xác nhận ưu đãi sản xuất sản phẩm công nghiệp hỗ trợ. Theo đó, dự án được hưởng ưu đãi về thuế thu nhập doanh nghiệp theo điều kiện dự án đầu tư mở rộng sản xuất sản phẩm công nghiệp hỗ trợ theo quy định tại Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành kể từ kỳ tính thuế năm 2017. Thời gian ưu đãi được hưởng được xác định như sau: miễn thuế thu nhập doanh nghiệp 04 năm tính từ kỳ tính thuế năm 2017 đến năm 2020, giảm 50% số thuế thu nhập doanh nghiệp phải nộp trong 09 năm tiếp theo tính từ kỳ tính thuế năm 2021.
+Ví dụ 2: Năm 2010, doanh nghiệp thực hiện dự án đầu tư mới tại địa bàn Khu công nghiệp (không thuộc địa bàn các quận nội thành của đô thị loại đặc biệt, đô thị loại I trực thuộc trung ương và đô thị loại I trực thuộc tỉnh, các quận, đô thị này không bao gồm các quận của đô thị loại đặc biệt, đô thị loại I trực thuộc trung ương và các đô thị loại I trực thuộc tỉnh mới được thành lập từ huyện kể từ ngày 01 tháng 01 năm 2009). Trong kỳ tính thuế năm 2011, dự án phát sinh doanh thu. Trong kỳ tính thuế năm 2012, dự án phát sinh thu nhập chịu thuế. Trong kỳ tính thuế năm 2015, dự án được hưởng ưu đãi theo điều kiện địa bàn khu công nghiệp theo quy định của Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành cho thời gian còn lại từ năm 2015 (miễn thuế thu nhập doanh nghiệp 02 năm, giảm 50% số thuế thu nhập doanh nghiệp phải nộp trong 04 năm tiếp theo cho thời gian còn lại kể từ kỳ tính thuế năm 2015). Như vậy doanh nghiệp còn được giảm 50% số thuế thu nhập doanh nghiệp phải nộp trong 3 năm (từ năm 2015 đến năm 2017). Đến hết kỳ tính thuế năm 2017, dự án đã hưởng hết ưu đãi theo điều kiện địa bàn khu công nghiệp.
+Trong kỳ tính thuế năm 2018, dự án được cấp Giấy xác nhận ưu đãi sản xuất sản phẩm công nghiệp hỗ trợ. Theo đó, dự án được lựa chọn hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện dự án đầu tư mới sản xuất sản phẩm công nghiệp hỗ trợ cho thời gian còn lại kể từ kỳ tính thuế năm 2018. Thời gian ưu đãi còn lại được xác định như sau: thuế suất thuế thu nhập doanh nghiệp 10% trong thời hạn 15 năm kể từ kỳ tính thuế năm 2018; miễn thuế thu nhập doanh nghiệp 02 năm kể từ kỳ tính thuế năm 2018, giảm 50% số thuế thu nhập doanh nghiệp phải nộp trong 05 năm tiếp theo.
+Ví dụ 3: Năm 2014, doanh nghiệp thực hiện dự án đầu tư mới tại địa bàn có điều kiện kinh tế - xã hội khó khăn. Trong kỳ tính thuế năm 2014, dự án phát sinh doanh thu. Trong kỳ tính thuế năm 2015, dự án phát sinh thu nhập chịu thuế. Dự án được hưởng ưu đãi theo điều kiện địa bàn có điều kiện kinh tế - xã hội khó khăn, cụ thể: thuế suất 20% trong thời gian 10 năm tính từ kỳ tính thuế năm 2014 (kể từ kỳ tính thuế 2016 áp dụng thuế suất 17%); miễn thuế thu nhập doanh nghiệp 02 năm tính từ kỳ tính thuế 2015, giảm 50% số thuế phải nộp trong 04 năm tiếp theo. Tính đến hết kỳ tính thuế năm 2017, dự án đã hưởng ưu đãi: số năm thuế suất ưu đãi 04 năm, số năm miễn thuế thu nhập doanh nghiệp 02 năm, số năm giảm thuế thu nhập doanh nghiệp 01 năm.
+Trong kỳ tính thuế năm 2018, dự án được cấp Giấy xác nhận ưu đãi sản xuất sản phẩm công nghiệp hỗ trợ. Theo đó, dự án được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện dự án sản xuất sản phẩm công nghiệp hỗ trợ cho thời gian còn lại kể từ kỳ tính thuế năm 2018. Thời gian ưu đãi còn lại được xác định như sau: thuế suất thuế thu nhập doanh nghiệp 10% trong thời gian 11 năm kể từ kỳ tính thuế năm 2018; miễn thuế thu nhập doanh nghiệp 02 năm tính từ kỳ tính thuế năm 2018, giảm 50% số thuế thu nhập doanh nghiệp phải nộp trong 08 năm tiếp theo.
+
+3. Doanh nghiệp thành lập hoặc doanh nghiệp có dự án đầu tư từ việc chuyển đổi loại hình doanh nghiệp, chuyển đổi chủ sở hữu, chia, tách, sáp nhập, hợp nhất có trách nhiệm thực hiện nghĩa vụ nộp thuế thu nhập doanh nghiệp (kể cả tiền phạt nếu có), đồng thời được kế thừa các ưu đãi thuế thu nhập doanh nghiệp (kể cả các khoản lỗ chưa được kết chuyển) của doanh nghiệp hoặc dự án đầu tư trước khi chuyển đổi, chia, tách, sáp nhập, hợp nhất nếu tiếp tục đáp ứng các điều kiện ưu đãi thuế thu nhập doanh nghiệp, điều kiện chuyển lỗ theo quy định của pháp luật.
+
+4. Việc giải quyết những tồn tại về thuế, quyết toán thuế, miễn, giảm thuế trước ngày Nghị định này có hiệu lực thi hành thực hiện theo quy định của các văn bản pháp luật về thuế thu nhập doanh nghiệp, pháp luật về đầu tư nước ngoài tại Việt Nam, pháp luật về khuyến khích đầu tư trong nước và các văn bản quy phạm pháp luật khác ban hành trước ngày Nghị định này có hiệu lực thi hành.
+
+Điều 33.11.NĐ.2.21. Trách nhiệm thi hành
+
+(Điều 21 Nghị định số 218/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2014)
+
+1. Bộ Tài chính hướng dẫn thi hành Nghị định này.
+
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Nghị định này./.
 
 Điều 33.11.NĐ.3.4. Tổ chức thực hiện và hiệu lực thi hành
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 114/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/08/2020)
 
-**Mã phân cấp:** 3301100000000000400002040274170114000040
+1. Nghị định này có hiệu lực kể từ ngày Nghị quyết số 116/2020/QH14 có hiệu lực thi hành và áp dụng cho kỳ tính thuế thu nhập doanh nghiệp năm 2020.
 
-**ID:** dk_00053994
+2. Trong quá trình thực hiện nếu phát sinh vướng mắc giao Bộ Tài chính hướng dẫn thực hiện.
 
----
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các doanh nghiệp, tổ chức có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
+Điều 33.11.NQ.1.3. Điều khoản thi hành
 
-### Điều 33.11.NQ.1.3. Điều khoản thi hành
+(Điều 3 Nghị quyết số 116/2020/QH14, có hiệu lực thi hành kể từ ngày 03/08/2020)
 
-*Nội dung chưa có sẵn*
+1. Nghị quyết này có hiệu lực thi hành sau 45 ngày kể từ ngày ký và áp dụng cho kỳ tính thuế năm 2020.
 
-**Chỉ mục:** 3
+2. Chính phủ hướng dẫn thi hành Nghị quyết này.
 
-**Mã phân cấp:** 3301100000000000400002060273190116000030
+Điều 33.11.TT.4.23. Hiệu lực thi hành
 
-**ID:** dk_00053995
+(Điều 23 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014, có nội dung được bổ sung, có nội dung được sửa đổi bởi Điều 7 Thông tư số 151/2014/TT-BTC có hiệu lực thi hành kể từ ngày 15/11/2014; Điều 13 Thông tư số 96/2015/TT-BTC có hiệu lực thi hành kể từ ngày 06/08/2015)
 
----
+1. Thông tư này có hiệu lực từ ngày 02 tháng 08 năm 2014 và áp dụng cho kỳ tính thuế thu nhập doanh nghiệp từ năm 2014 trở đi.
 
+2. Doanh nghiệp có dự án đầu tư mà tính đến hết kỳ tính thuế năm 2013 còn đang trong thời gian thuộc diện được hưởng ưu đãi thuế thu nhập doanh nghiệp (bao gồm cả trường hợp đang được hưởng ưu đãi hoặc chưa được hưởng ưu đãi) theo quy định của các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp thì tiếp tục được hưởng cho thời gian còn lại theo quy định của các văn bản đó; trường hợp đáp ứng điều kiện ưu đãi thuế theo quy định của Nghị định số 218/2013/NĐ-CP về thuế thu nhập doanh nghiệp thì được lựa chọn ưu đãi thuộc diện đang được hưởng hoặc ưu đãi theo quy định của Nghị định số 218/2013/NĐ-CP về thuế thu nhập doanh nghiệp theo diện ưu đãi đối với dự án đầu tư mới (bao gồm mức thuế suất, thời gian miễn thuế, giảm thuế) cho thời gian còn lại nếu đang thuộc diện hưởng ưu đãi về thuế thu nhập doanh nghiệp theo diện doanh nghiệp thành lập mới từ dự án đầu tư hoặc theo diện ưu đãi đối với đầu tư mở rộng cho thời gian còn lại nếu đang thuộc diện được hưởng ưu đãi theo diện đầu tư mở rộng. Dự án đầu tư mở rộng được lựa chọn chuyển đổi ưu đãi theo quy định tại Khoản này là dự án đầu tư mở rộng triển khai từ ngày 31/12/2008 trở về trước và các dự án này đưa vào hoạt động sản xuất kinh doanh từ năm 2009 trở về trước.
 
-### Điều 33.11.TT.4.23. Hiệu lực thi hành
+Việc xác định thời gian còn lại để hưởng ưu đãi thuế được tính liên tục kể từ khi thực hiện quy định về ưu đãi thuế tại các văn bản pháp luật về đầu tư nước ngoài tại việt Nam, về khuyến khích đầu tư trong nước và về thuế thu nhập doanh nghiệp ban hành trước ngày Thông tư này có hiệu lực thi hành.
 
-*Nội dung chưa có sẵn*
+Khoảng thời gian còn lại bằng số năm doanh nghiệp còn được hưởng ưu đãi thuế (thuế suất ưu đãi, thời gian miễn thuế, giảm thuế) theo hướng dẫn tại Thông tư trừ đi số năm doanh nghiệp đã được hưởng ưu đãi (thuế suất ưu đãi, thời gian miễn thuế, giảm thuế) theo quy định của các văn bản quy phạm pháp luật trước đây về thuế thu nhập doanh nghiệp. Việc xác định khoảng thời gian ưu đãi còn lại nêu trên phải đảm bảo nguyên tắc:
 
-**Chỉ mục:** 23
+- Đến hết kỳ tính thuế năm 2013, doanh nghiệp đã hết thời gian được hưởng ưu đãi về thuế suất theo các văn bản quy phạm pháp luật trước đây về thuế thu nhập doanh nghiệp thì không được chuyển sang áp dụng ưu đãi về thuế (thuế suất ưu đãi, thời gian miễn thuế, giảm thuế) cho thời gian còn lại theo hướng dẫn tại Thông tư này.
 
-**Mã phân cấp:** 3301100000000000400002080251260078000230
+- Đến hết kỳ tính thuế năm 2013, doanh nghiệp đang trong thời gian được hưởng ưu đãi thuế (thuế suất ưu đãi, thời gian miễn thuế, giảm thuế) theo các văn bản quy phạm pháp luật trước đây về thuế thu nhập doanh nghiệp thì tiếp tục hưởng số năm được áp dụng thuế suất và mức thuế suất ưu đãi, thời gian miễn thuế, giảm thuế cho thời gian còn lại theo hướng dẫn tại Thông tư này.
 
-**ID:** dk_00053996
+- Đến hết kỳ tính thuế năm 2013, doanh nghiệp đang được hưởng thuế suất ưu đãi, nhưng vừa hết thời gian được miễn thuế theo các văn bản quy phạm pháp luật trước đây về thuế thu nhập doanh nghiệp thì không hưởng thời gian miễn thuế mà chỉ hưởng toàn bộ số năm giảm thuế theo hướng dẫn tại Thông tư này, tiếp tục hưởng số năm áp dụng thuế suất và mức thuế suất ưu đãi cho thời gian còn lại theo hướng dẫn tại Thông tư này.
 
----
+- Đến hết kỳ tính thuế năm 2013, doanh nghiệp đang được hưởng thuế suất ưu đãi, đang trong thời gian giảm thuế theo các văn bản quy phạm pháp luật trước đây về thuế thu nhập doanh nghiệp thì số năm giảm thuế còn lại bằng số năm giảm thuế theo hướng dẫn tại Thông tư này trừ (-) số năm doanh nghiệp đã giảm thuế đến hết kỳ tính thuế năm 2013, tiếp tục hưởng số năm áp dụng thuế suất và mức thuế suất ưu đãi cho thời gian còn lại theo hướng dẫn tại Thông tư này.
 
+- Đến hết kỳ tính thuế năm 2013, doanh nghiệp đã hết thời gian miễn thuế, giảm thuế theo các văn bản quy phạm pháp luật trước đây về thuế thu nhập doanh nghiệp thì không thuộc diện hưởng ưu đãi thuế (thuế suất ưu đãi, thời gian miễn thuế, giảm thuế) theo hướng dẫn tại Thông tư này.
 
-### Điều 33.11.TT.4.24. Trách nhiệm thi hành
+2a. Doanh nghiệp có dự án đầu tư mở rộng đã được cơ quan có thẩm quyền cấp phép đầu tư hoặc đã thực hiện đầu tư trong giai đoạn năm 2009 - năm 2013, tính đến kỳ tính thuế năm 2014 đáp ứng điều kiện ưu đãi thuế (lĩnh vực ưu đãi hoặc địa bàn ưu đãi bao gồm cả khu công nghiệp, khu kinh tế, khu công nghệ cao) theo quy định của Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành thì được hưởng ưu đãi thuế đối với đầu tư mở rộng theo quy định của Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành cho thời gian còn lại kể từ kỳ tính thuế năm 2015.
 
-*Nội dung chưa có sẵn*
+Doanh nghiệp có dự án đầu tư mở rộng sản xuất đến ngày 31/12/2008 đang đầu tư xây dựng dở dang, trong năm 2009 dự án vẫn tiếp tục quá trình đầu tư xây dựng dở dang và từ năm 2010 trở đi mới hoàn thành đi vào sản xuất, kinh doanh đáp ứng điều kiện ưu đãi thuế (lĩnh vực ưu đãi hoặc địa bàn ưu đãi bao gồm cả khu công nghiệp, khu kinh tế, khu công nghệ cao) theo quy định tại thời điểm quyết định thực hiện đầu tư mở rộng thì được lựa chọn hưởng ưu đãi đối với phần thu nhập tăng thêm từ đầu tư mở rộng theo quy định tại các văn bản quy phạm pháp luật tại thời điểm quyết định thực hiện đầu tư mở rộng hoặc theo quy định của Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành cho thời gian còn lại kể từ kỳ tính thuế năm 2015.
 
-**Chỉ mục:** 24
+2b.Doanh nghiệp thực hiện dự án đầu tư vào khu công nghiệp trong giai đoạn năm 2009 - năm 2013, tính đến kỳ tính thuế năm 2014 đáp ứng điều kiện ưu đãi thuế (lĩnh vực ưu đãi hoặc địa bàn ưu đãi) theo quy định của Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành thì được hưởng ưu đãi thuế theo quy định của Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành cho thời gian còn lại kể từ kỳ tính thuế năm 2015.
 
-**Mã phân cấp:** 3301100000000000400002080251260078000240
+2c. Doanh nghiệp có dự án đầu tư vào địa bàn mà trước ngày 01 tháng 01 năm 2015 chưa thuộc địa bàn ưu đãi thuế (bao gồm cả khu công nghiệp, khu kinh tế khu công nghệ cao), đến ngày 01 tháng 01 năm 2015 thuộc địa bàn ưu đãi thuế quy định tại Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành thì được hưởng ưu đãi thuế theo quy định tại Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành cho thời gian còn lại kể từ kỳ tính thuế năm 2015.
 
-**ID:** dk_00053997
+Trường hợp doanh nghiệp có dự án đầu tư vào địa bàn ưu đãi thuế nhưng được hưởng mức ưu đãi thấp hơn, đến ngày 01 tháng 01 năm 2015 đáp ứng điều kiện ưu đãi thuế về địa bàn được hưởng mức ưu đãi cao hơn quy định tại Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành thì được hưởng ưu đãi thuế theo quy định tại Luật số 32/2013/QH13, Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành cho thời gian còn lại kể từ kỳ tính thuế năm 2015.
 
----
+2d.Sau ngày 01 tháng 01 năm 2015 địa bàn nơi doanh nghiệp đang có dự án đầu tư được chuyển đổi thành địa bàn ưu đãi thuế thì doanh nghiệp được hưởng ưu đãi thuế cho thời gian còn lại kể từ kỳ tính thuế khi chuyển đổi.
 
+2d. Đối với các trường hợp chuyển đổi ưu đãi nêu tại khoản 2a, 2b, 2c Điều này đến kỳ tính thuế năm 2015 chưa có doanh thu từ dự án đầu tư thì thời gian áp dụng thuế suất ưu đãi được tính liên tục từ năm đầu tiên có doanh thu từ dự án đầu tư được hưởng ưu đãi thuế. Đối với các trường hợp chuyển đổi ưu đãi nêu tại khoản 2a, 2b, 2c nêu trên đến kỳ tính thuế năm 2015 chưa có thu nhập từ dự án đầu tư thì thời gian miễn thuế, giảm thuế được tính liên tục từ năm đầu tiên có thu nhập chịu thuế từ dự án đầu tư được hưởng ưu đãi thuế (nếu doanh nghiệp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu từ dự án đầu tư thì thời gian miễn thuế, giảm thuế được tính từ năm thứ tư dự án đầu tư phát sinh doanh thu).
 
-### Điều 33.11.TT.5.17. Hiệu lực thi hành
+3. Doanh nghiệp mới thành lập từ dự án đầu tư đã được cấp Giấy phép đầu tư hoặc Giấy chứng nhận đầu tư trước ngày 01/01/2014 nhưng đang trong quá trình đầu tư, chưa đi vào hoạt động, chưa phát sinh doanh thu thì được hưởng ưu đãi thuế thu nhập doanh nghiệp theo dự án đầu tư mới theo quy định tại Luật số 32/2013/QH13; Luật số 71/2014/QH13 và các văn bản hướng dẫn thi hành.
 
-*Nội dung chưa có sẵn*
+Doanh nghiệp thực hiện dự án đầu tư mở rộng trước thời điểm ngày 01/01/2014 và đưa dự án đầu tư mở rộng vào hoạt động sản xuất kinh doanh, phát sinh doanh thu kể từ ngày 01/01/2014 nếu dự án đầu tư mở rộng này thuộc lĩnh vực hoặc địa bàn ưu đãi thuế thu nhập doanh nghiệp theo quy định của Nghị định số 218/2013/NĐ-CP (bao gồm cả khu kinh tế, khu công nghệ cao, khu công nghiệp trừ khu công nghiệp nằm trên địa bàn các quận nội thành của đô thị loại đặc biệt, đô thị loại I trực thuộc trung ương và Khu công nghiệp nằm trên địa bàn các đô thị loại I trực thuộc tỉnh) thì được hưởng ưu đãi thuế thu nhập doanh nghiệp đối với phần thu nhập tăng thêm do đầu tư mở rộng mang lại theo hướng dẫn tại Thông tư số 78/2014/TT-BTC.
 
-**Chỉ mục:** 17
+4. Thông tư này thay thế Thông tư số 123/2012/TT-BTC ngày 27/7/2012 của Bộ Tài chính.
 
-**Mã phân cấp:** 3301100000000000400002080251750103550170
+5. Bãi bỏ các nội dung hướng dẫn về thuế thu nhập doanh nghiệp do Bộ Tài chính và các ngành ban hành không phù hợp với hướng dẫn tại Thông tư này.
 
-**ID:** dk_00053998
+6. Việc giải quyết những tồn tại về thuế, quyết toán thuế, miễn thuế, giảm thuế và xử lý vi phạm pháp luật về thuế thu nhập doanh nghiệp trước kỳ tính thuế năm 2014 thực hiện theo các quy định tương ứng hướng dẫn về thuế thu nhập doanh nghiệp ban hành trước kỳ tính thuế năm 2014.
 
----
+7. Trường hợp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam có tham gia ký kết một Hiệp định hoặc Điều ước quốc tế mà Hiệp định hoặc Điều ước quốc tế đó có quy định về việc nộp thuế thu nhập doanh nghiệp khác với nội dung hướng dẫn tại Thông tư này thì thực hiện theo quy định của Điều ước quốc tế đó.
 
+8. Doanh nghiệp còn thời gian hưởng ưu đãi thuế theo điều kiện về tỷ lệ xuất khẩu nhưng bị ngừng ưu đãi thuế do thực hiện cam kết với Tổ chức thương mại thế giới (WTO) đối với hoạt động dệt, may từ 11/01/2007 và hoạt động khác từ 01/01/2012 thì được lựa chọn kết hợp không đồng thời, không đồng bộ ưu đãi về thuế suất và thời gian miễn, giảm thuế để tiếp tục được hưởng ưu đãi thuế thu nhập doanh nghiệp cho thời gian còn lại kể từ năm 2007 đối với hoạt động dệt, may hoặc kể từ năm 2012 đối với hoạt động khác, tương ứng với các điều kiện ưu đãi thuế mà thực tế doanh nghiệp đáp ứng (ngoài điều kiện ưu đãi do đáp ứng điều kiện về tỷ lệ xuất khẩu, do sử dụng nguyên liệu trong nước) quy định tại các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp có hiệu lực trong thời gian từ ngày doanh nghiệp được cấp Giấy phép thành lập đến trước ngày Nghị định số 24/2007/NĐ-CP ngày 14/2/2007 của Chính phủ quy định chi tiết thi hành Luật thuế thu nhập doanh nghiệp có hiệu lực thi hành hoặc theo quy định tại các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp tại thời điểm bị điều chỉnh ưu đãi thuế do thực hiện cam kết WTO.
 
-### Điều 33.11.TT.6.4. Hiệu lực thi hành và tổ chức thực hiện
+Trường hợp doanh nghiệp đã lựa chọn phương án chuyển đổi theo văn bản trước đây (không phân biệt trường hợp doanh nghiệp đã hoặc chưa được kiểm tra, thanh tra thuế), nếu thực hiện chuyển đổi theo hướng dẫn tại Thông tư này có lợi hơn thì doanh nghiệp được phép lựa chọn chuyển đổi lại theo hướng dẫn tại Thông tư này. Doanh nghiệp thực hiện khai điều chỉnh, bổ sung theo quy định tại Luật Quản lý thuế và các văn bản hướng dẫn thi hành về quản lý thuế và không bị xử lý vi phạm pháp luật về thuế đối với hành vi khai sai do điều chỉnh lại. Trường hợp sau khi khai điều chỉnh, bổ sung doanh nghiệp có số tiền thuế đã nộp lớn hơn số thuế phải nộp thì được bù trừ với số thuế phải nộp của kỳ thuế tiếp theo hoặc được hoàn lại số đã nộp thừa theo quy định. Trường hợp doanh nghiệp đã thực hiện điều chỉnh theo cam kết WTO đối với hoạt động dệt may theo các văn bản trước đây nếu bị xử lý vi phạm pháp luật về thuế, tỉnh tiền chậm nộp và doanh nghiệp đã thực hiện nộp tiền phạt và tiền chậm nộp thì không thực hiện điều chỉnh lại.
+
+Điều 33.11.TT.4.24. Trách nhiệm thi hành
+
+(Điều 24 Thông tư số 78/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 02/08/2014)
+
+1. Cơ quan thuế các cấp có trách nhiệm phổ biến, hướng dẫn các doanh nghiệp thực hiện theo nội dung Thông tư này.
+
+2. Doanh nghiệp thuộc đối tượng điều chỉnh của Thông tư này thực hiện theo các hướng dẫn tại Thông tư này.
+
+Trong quá trình thực hiện nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết.
+
+Điều 33.11.TT.5.17. Hiệu lực thi hành
+
+(Điều 17 Thông tư số 103/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2014)
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/10/2014, thay thế Thông tư số 60/2012/TT-BTC ngày 12/4/2012 của Bộ Tài chính hướng dẫn thực hiện nghĩa vụ thuế áp dụng đối với tổ chức, cá nhân nước ngoài kinh doanh tại Việt Nam hoặc có thu nhập tại Việt Nam.
+
+2. Trường hợp các Hợp đồng, Hợp đồng thầu phụ được ký kết trước ngày Thông tư này có hiệu lực thì việc xác định nghĩa vụ thuế GTGT, thuế TNDN tiếp tục thực hiện như hướng dẫn tại các văn bản quy phạm pháp luật tương ứng tại thời điểm ký kết hợp đồng.
+
+3. Trường hợp tại Điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định về việc nộp thuế của Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài khác với các nội dung hướng dẫn tại Thông tư này thì thực hiện theo các quy định của Điều ước quốc tế đó.
+
+Trong quá trình thực hiện nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./.
 
 Điều 33.11.TT.6.4. Hiệu lực thi hành và tổ chức thực hiện
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 212/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2016)
 
-**Mã phân cấp:** 3301100000000000400002080256870212550040
+1. Thông tư này có hiệu lực thi hành sau 45 ngày kể từ ngày ký và áp dụng kể từ kỳ tính thuế năm 2016.
 
-**ID:** dk_00053999
+2. Bãi bỏ Thông tư số 230/2009/TT-BTC ngày 08/12/2009 của Bộ Tài chính hướng dẫn ưu đãi về thuế đối với hoạt động bảo vệ môi trường quy định tại Nghị định số 04/2009/NĐ-CP ngày 14/01/2009 của Chính phủ về ưu đãi, hỗ trợ hoạt động bảo vệ môi trường.
 
----
+3. Doanh nghiệp có dự án đầu tư thuộc hoạt động được hưởng ưu đãi thuế quy định tại Thông tư này mà tính đến thời điểm Thông tư này có hiệu lực thi hành, vẫn còn đang trong thời gian thuộc diện được hưởng ưu đãi thuế thu nhập doanh nghiệp (bao gồm cả trường hợp đang được hưởng ưu đãi hoặc chưa được hưởng ưu đãi) theo quy định của các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp thì được lựa chọn tiếp tục hưởng ưu đãi thuế theo quy định của văn bản quy phạm pháp luật đó hoặc hưởng ưu đãi thuế theo quy định tại Thông tư này cho thời gian còn lại.
 
+4. Cơ quan thuế các cấp có trách nhiệm phổ biến, hướng dẫn doanh nghiệp thực hiện Thông tư này.
 
-### Điều 33.11.TT.7.8. Hiệu lực thi hành
+5. Trong quá trình thực hiện trường hợp phát sinh vướng mắc, đề nghị tổ chức, cá nhân phản ảnh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./.
 
-*Nội dung chưa có sẵn*
+Điều 33.11.TT.7.8. Hiệu lực thi hành
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 48/2019/TT-BTC, có hiệu lực thi hành kể từ ngày 10/10/2019)
 
-**Mã phân cấp:** 3301100000000000400002080270030048000080
+1. Thông tư này có hiệu lực kể từ ngày 10 tháng 10 năm 2019 và áp dụng từ năm tài chính 2019.
 
-**ID:** dk_00054000
+2. Bãi bỏ Thông tư số 228/2009/TT-BTC ngày 07/12/2009 của Bộ Tài chính hướng dẫn chế độ trích lập và sử dụng các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư tài chính, nợ phải thu khó đòi và bảo hành sản phẩm, hàng hóa, công trình xây lắp tại doanh nghiệp; Thông tư số 34/2011/TT-BTC ngày 14/3/2011 của Bộ Tài chính về việc sửa đổi Thông tư số228/2009/TT-BTCngày 07/12/2009; Thông tư số 89/2013/TT-BTC ngày 28/06/2013 của Bộ Tài chính sửa đổi, bổ sung Thông tư số 228/2009/TT-BTCngày 7/12/2009 và các văn bản khác quy định về trích lập và sử dụng các khoản dự phòng trái với quy định của Thông tư này.
 
----
+3. Việc thực hiện trích lập các khoản dự phòng tại các doanh nghiệp hoạt động trong một số lĩnh vực đặc thù (bảo hiểm, chứng khoán, đầu tư kinh doanh vốn, mua bán nợ, bán lẻ hàng hóa trả chậm/trả góp) được thực hiện theo hướng dẫn tại Thông tư này và thực hiện theo quy định riêng (nếu có) phù hợp với đặc thù theo hướng dẫn của Bộ Tài chính.
 
+4. Các doanh nghiệp nhà nước và doanh nghiệp do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ thực hiện chuyển thành công ty cổ phần thực hiện xử lý các khoản dự phòng theo quy định của pháp luật về cổ phần hóa.
 
-### Điều 33.11.TT.7.9. Điều khoản thi hành
+5. Số dư dự phòng các khoản đầu tư ra nước ngoài mà doanh nghiệp đã trích lập đến trước thời điểm Thông tư này có hiệu lực thi hành (nếu có) được hoàn nhập, ghi giảm chi phí tại thời điểm lập báo cáo tài chính năm 2019.
 
-*Nội dung chưa có sẵn*
+Trong quá trình thực hiện nếu có vướng mắc đề nghị phản ánh kịp thời về Bộ Tài chính để nghiên cứu, bổ sung và sửa đổi.
 
-**Chỉ mục:** 2
+Điều 33.11.TT.7.9. Điều khoản thi hành
 
-**Mã phân cấp:** 3301100000000000400002080270030048000090
+(Điều 2 Thông tư số 24/2022/TT-BTC Sửa đổi, bổ sung một số điều của Thông tư số 48/2019/TT-BTC ngày 08 tháng 8 năm 2019 của Bộ trưởng Bộ Tài chính hướng dẫn việc trích lập và xử lý các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư, nợ phải thu khó đòi và bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng tại doanh nghiệp ngày 07/04/2022 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 25/05/2022 )
 
-**ID:** dk_00054001
+1. Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 5 năm 2022.
 
----
+2. Số dư dự phòng các khoản đầu tư trái phiếu Chính phủ, trái phiếu Chính phủ bảo lãnh, trái phiếu chính quyền địa phương mà doanh nghiệp đã trích lập đến trước thời điểm Thông tư này có hiệu lực thi hành (nếu có) được hoàn nhập, ghi giảm chi phí tại thời điểm lập báo cáo tài chính năm 2022.
 
+3. Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc, các tổ chức, cá nhân phản ánh về Bộ Tài chính để xem xét, giải quyết.
 
-### Điều 33.11.TT.8.2. Hiệu lực thi hành
+Điều 33.11.TT.8.2. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 71/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 01/11/2021)
 
-**Chỉ mục:** 2
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2021.
 
-**Mã phân cấp:** 3301100000000000400002080277430071000020
+2. Bãi bỏ [Điều 24](https://luatvietnam.vn/noi-dung-tham-chieu.html?DocItemId=239287) Thông tư số 151/2014/TT-BTC ngày 10 tháng 10 năm 2014 của Bộ Tài chính hướng dẫn thi hành Nghị định số 91/2014/NĐ-CP ngày 01 tháng 10 năm 2014 của Chính phủ về việc sửa đổi, bổ sung một số điều tại các Nghị định quy định về thuế.
 
-**ID:** dk_00054002
+Điều 33.11.TT.8.3. Tổ chức thực hiện
 
----
+(Điều 3 Thông tư số 71/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 01/11/2021)
 
+1. Cơ quan thuế các cấp có trách nhiệm phổ biến, hướng dẫn về thuế thu nhập doanh nghiệp đối với cơ sở thực hiện xã hội hoá chưa truy thu thực hiện theo nội dung Thông tư này.
 
-### Điều 33.11.TT.8.3. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3301100000000000400002080277430071000030
-
-**ID:** dk_00054003
-
----
-
-
-### Điều 33.11.TT.9.8. Hiệu lực thi hành và tổ chức thực hiện
+2. Trong quá trình thực hiện nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./.
 
 Điều 33.11.TT.9.8. Hiệu lực thi hành và tổ chức thực hiện
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 67/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 23/12/2022)
 
-**Mã phân cấp:** 3301100000000000400002080281900067000080
+1. Thông tư này có hiệu lực thi hành kể từ ngày 23 tháng 12 năm 2022 và áp dụng cho việc xác định nghĩa vụ thuế từ kỳ tính thuế thu nhập doanh nghiệp năm 2022.
 
-**ID:** dk_00054004
+2. Bãi bỏ [Điều 4,](https://luatvietnam.vn/noi-dung-tham-chieu.html?DocItemId=252215) [Điều 12,](https://luatvietnam.vn/noi-dung-tham-chieu.html?DocItemId=252289) [Điều 13,](https://luatvietnam.vn/noi-dung-tham-chieu.html?DocItemId=252296) [Điều 14,](https://luatvietnam.vn/noi-dung-tham-chieu.html?DocItemId=252303) [Điều 16,](https://luatvietnam.vn/noi-dung-tham-chieu.html?DocItemId=252334) [Điều 17 ](https://luatvietnam.vn/noi-dung-tham-chieu.html?DocItemId=252337)Thông tư liên tịch số 12/2016/TTLT-BKHCN-BTC ngày 28/6/2016 của Bộ Khoa học và Công nghệ và Bộ Tài chính hướng dẫn nội dung chi và quản lý Quỹ phát triển khoa học và công nghệ của doanh nghiệp.
 
----
+3. Nội dung chi, hướng dẫn sử dụng Quỹ và nộp Quỹ phát triển khoa học và công nghệ của doanh nghiệp về Quỹ phát triển khoa học và công nghệ quốc gia hoặc Quỹ phát triển khoa học và công nghệ của các Bộ chủ quản, tỉnh, thành phố thực hiện theo văn bản quy phạm pháp luật về khoa học và công nghệ và quy định của Bộ Khoa học và Công nghệ.
 
+4. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu bởi các nội dung có liên quan quy định trong Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng các văn bản quy phạm pháp luật mới thì áp dụng theo các văn bản mới.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](/thue-phi-le-phi-cac-khoan-thu-khac/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+5. Trong quá trình thực hiện nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./.
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 112
-- **Điều khoản thực tế:** 102
-- **Điều khoản có nội dung:** 31 (30.4%)
-- **ID đề mục:** db87752b26a54f348dc2bd8e6a823c21
+## Danh sách điều khoản
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 33011000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 3301100000000000100000100000000000000000
+
+Điều 33.11.LQ.1. Phạm vi điều chỉnh
+
+### 3301100000000000100000100005000000000000
+
+Điều 33.11.NQ.1.1. Đối tượng áp dụng
+
+### 3301100000000000100000101000000000000000
+
+Điều 33.11.NĐ.2.1. Phạm vi điều chỉnh
+
+### 3301100000000000100000101044550000000000
+
+Điều 33.11.NĐ.3.1. Đối tượng áp dụng
+
+### 3301100000000000100000103970000000000000
+
+Điều 33.11.TT.4.1. Phạm vi điều chỉnh
+
+### 3301100000000000100000180270030048000010
+
+Điều 33.11.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 3301100000000000100000180270030048000020
+
+Điều 33.11.TT.7.2. Giải thích từ ngữ
+
+### 3301100000000000100000180281900067000010
+
+Điều 33.11.TT.9.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 3301100000000000100000200000000000000000
+
+Điều 33.11.LQ.2. Người nộp thuế
+
+### 330110000000000010000020000000000000000000402495202180000200
+
+Điều 33.11.NĐ.2.2. Người nộp thuế
+
+### 33011000000000001000002000000000000000000040249520218000020000802512600780000200
+
+Điều 33.11.TT.4.2. Người nộp thuế
+
+### 3301100000000000100000300000000000000000
+
+Điều 33.11.LQ.3. Thu nhập chịu thuế
+
+### 330110000000000010000030000000000000000000402495202180000300
+
+Điều 33.11.NĐ.2.3. Thu nhập chịu thuế
+
+### 330110000000000010000030000000000000000000402495202180001300
+
+Điều 33.11.NĐ.2.13. Thu nhập từ chuyển nhượng bất động sản bao gồm thu nhập từ chuyển quyền sử dụng đất, chuyển nhượng quyền thuê đất; thu nhập từ cho thuê lại đất của doanh nghiệp kinh doanh bất động sản theo quy định của pháp luật về đất đai không phân biệt có hay không có kết cấu hạ tầng, công trình kiến trúc gắn liền với đất; thu nhập từ chuyển nhượng nhà, công trình xây dựng gắn liền với đất đai, kể cả các tài sản gắn liền với nhà, công trình xây dựng đó không phân biệt có hay không có chuyển nhượng quyền sử dụng đất, chuyển nhượng quyền thuê đất; thu nhập từ chuyển nhượng các tài sản khác gắn liền với đất đai.
+
+### 33011000000000001000003000000000000000000040249520218000130000802512600780001600
+
+Điều 33.11.TT.4.16. Đối tượng chịu thuế
+
+### 33011000000000001000003000000000000000000040249520218000130000802512600780001700
+
+Điều 33.11.TT.4.17. Căn cứ tính thuế
+
+### 330110000000000010000030000000000000000000402495202180001400
+
+Điều 33.11.NĐ.2.14. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định bằng doanh thu từ hoạt động chuyển nhượng bất động sản trừ giá vốn của bất động sản và các khoản chi phí được trừ liên quan đến hoạt động chuyển nhượng bất động sản.
+
+### 330110000000000010000030000000000000000000802512600780000700
+
+Điều 33.11.TT.4.7. Thu nhập khác
+
+### 330110000000000010000030000000000000000000802512600780001400
+
+Điều 33.11.TT.4.14. Thu nhập từ chuyển nhượng vốn
+
+### 330110000000000010000030000000000000000000802512600780001500
+
+Điều 33.11.TT.4.15. Thu nhập từ chuyển nhượng chứng khoán
+
+### 3301100000000000100000400000000000000000
+
+Điều 33.11.LQ.4. Thu nhập được miễn thuế
+
+### 330110000000000010000040000000000000000000402495202180000400
+
+Điều 33.11.NĐ.2.4. Thu nhập được miễn thuế
+
+### 3301100000000000100000500000000000000000
+
+Điều 33.11.LQ.5. Kỳ tính thuế
+
+### 33011000000000002000
+
+Chương II CĂN CỨ VÀ PHƯƠNG PHÁP TÍNH THUẾ
+
+### 3301100000000000200000600000000000000000
+
+Điều 33.11.LQ.6. Căn cứ tính thuế
+
+### 330110000000000020000060000000000000000000402495202180000500
+
+Điều 33.11.NĐ.2.5. Căn cứ tính thuế
+
+### 3301100000000000200000700000000000000000
+
+Điều 33.11.LQ.7. Xác định thu nhập tính thuế
+
+### 330110000000000020000070000000000000000000402495202180000600
+
+Điều 33.11.NĐ.2.6. Xác định thu nhập tính thuế
+
+### 33011000000000002000007000000000000000000040249520218000060000802512600780000400
+
+Điều 33.11.TT.4.4. Xác định thu nhập tính thuế
+
+### 3301100000000000200000800000000000000000
+
+Điều 33.11.LQ.8. Doanh thu
+
+### 330110000000000020000080000000000000000000402495202180000800
+
+Điều 33.11.NĐ.2.8. Doanh thu
+
+### 33011000000000002000008000000000000000000040249520218000080000802512600780000500
+
+Điều 33.11.TT.4.5. Doanh thu
+
+### 3301100000000000200000900000000000000000
+
+Điều 33.11.LQ.9. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
+
+### 330110000000000020000090000000000000000000402495202180000900
+
+Điều 33.11.NĐ.2.9. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
+
+### 33011000000000002000009000000000000000000040249520218000090000802512600780000600
+
+Điều 33.11.TT.4.6. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
+
+### 33011000000000002000009000000000000000000040249520218000090000802700300480000300
+
+Điều 33.11.TT.7.3. Nguyên tắc chung trong trích lập các khoản dự phòng
+
+### 33011000000000002000009000000000000000000040249520218000090000802700300480000400
+
+Điều 33.11.TT.7.4. Dự phòng giảm giá hàng tồn kho
+
+### 33011000000000002000009000000000000000000040249520218000090000802700300480000500
+
+Điều 33.11.TT.7.5. Dự phòng tổn thất các khoản đầu tư
+
+### 33011000000000002000009000000000000000000040249520218000090000802700300480000600
+
+Điều 33.11.TT.7.6. Dự phòng nợ phải thu khó đòi
+
+### 33011000000000002000009000000000000000000040249520218000090000802700300480000700
+
+Điều 33.11.TT.7.7. Dự phòng bảo hành sản phẩm, hàng hóa, dịch vụ, công trình xây dựng
+
+### 3301100000000000200001000000000000000000
+
+Điều 33.11.LQ.10. Thuế suất
+
+### 330110000000000020000100000000000000000000402495202180001000
+
+Điều 33.11.NĐ.2.10. Thuế suất
+
+### 33011000000000002000010000000000000000000040249520218000100000802512600780001100
+
+Điều 33.11.TT.4.11. Thuế suất thuế thu nhập doanh nghiệp
+
+### 3301100000000000200001100000000000000000
+
+Điều 33.11.LQ.11. Phương pháp tính thuế
+
+### 330110000000000020000110000000000000000000402495202180001100
+
+Điều 33.11.NĐ.2.11. Phương pháp tính thuế
+
+### 33011000000000002000011000000000000000000040249520218000110000802512600780000300
+
+Điều 33.11.TT.4.3. Phương pháp tính thuế
+
+### 3301100000000000200001200000000000000000
+
+Điều 33.11.LQ.12. Nơi nộp thuế
+
+### 330110000000000020000120000000000000000000402495202180001200
+
+Điều 33.11.NĐ.2.12. Nơi nộp thuế
+
+### 33011000000000002000012000000000000000000040249520218000120000802512600780001200
+
+Điều 33.11.TT.4.12. Nguyên tắc xác định
+
+### 33011000000000002000012000000000000000000040249520218000120000802512600780001300
+
+Điều 33.11.TT.4.13. Xác định số thuế phải nộp
+
+### 33011000000000003000
+
+Chương III ƯU ĐÃI THUẾ THU NHẬP DOANH NGHIỆP
+
+### 3301100000000000300001300000000000000000
+
+Điều 33.11.LQ.13. Ưu đãi về thuế suất
+
+### 330110000000000030000130000000000000000000402495202180001500
+
+Điều 33.11.NĐ.2.15. Thuế suất ưu đãi
+
+### 33011000000000003000013000000000000000000040249520218000150000802512600780001800
+
+Điều 33.11.TT.4.18. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp
+
+### 33011000000000003000013000000000000000000040249520218000150000802512600780001900
+
+Điều 33.11.TT.4.19. Thuế suất ưu đãi
+
+### 3301100000000000300001400000000000000000
+
+Điều 33.11.LQ.14. Ưu đãi về thời gian miễn thuế, giảm thuế
+
+### 330110000000000030000140000000000000000000402495202180001600
+
+Điều 33.11.NĐ.2.16. Miễn thuế, giảm thuế
+
+### 33011000000000003000014000000000000000000040249520218000160000802512600780000800
+
+Điều 33.11.TT.4.8. Thu nhập được miễn thuế
+
+### 33011000000000003000014000000000000000000040249520218000160000802512600780002000
+
+Điều 33.11.TT.4.20. Ưu đãi về thời gian miễn thuế, giảm thuế
+
+### 330110000000000030000140000000000000000000802774300710000100
+
+Điều 33.11.TT.8.1. Cơ sở thực hiện xã hội hóa thành lập trước ngày Quyết định số 1470/QĐ-TTg ngày 22 tháng 7 năm 2016 của Thủ tướng Chính phủ có hiệu lực thi hành, có thu nhập từ hoạt động xã hội hóa, có trách nhiệm thực hiện nghĩa vụ thuế thu nhập doanh nghiệp như sau:
+
+### 3301100000000000300001500000000000000000
+
+Điều 33.11.LQ.15. Các trường hợp giảm thuế khác
+
+### 330110000000000030000150000000000000000000402495202180001700
+
+Điều 33.11.NĐ.2.17. Giảm thuế đối với các trường hợp khác
+
+### 330110000000000030000150000000000000000000402741701140000200
+
+Điều 33.11.NĐ.3.2. Giảm thuế thu nhập doanh nghiệp
+
+### 330110000000000030000150000000000000000000402741701140000300
+
+Điều 33.11.NĐ.3.3. Kê khai giảm thuế
+
+### 330110000000000030000150000000000000000000802512600780002100
+
+Điều 33.11.TT.4.21. Các trường hợp giảm thuế khác
+
+### 3301100000000000300001560273190116000020
+
+Điều 33.11.NQ.1.2. Giảm thuế thu nhập doanh nghiệp
+
+### 3301100000000000300001600000000000000000
+
+Điều 33.11.LQ.16. Chuyển lỗ
+
+### 330110000000000030000160000000000000000000402495202180000700
+
+Điều 33.11.NĐ.2.7. Xác định lỗ và chuyển lỗ
+
+### 33011000000000003000016000000000000000000040249520218000070000802512600780000900
+
+Điều 33.11.TT.4.9. Xác định lỗ và chuyển lỗ
+
+### 3301100000000000300001700000000000000000
+
+Điều 33.11.LQ.17. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
+
+### 330110000000000030000170000000000000000000402495202180001800
+
+Điều 33.11.NĐ.2.18. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
+
+### 33011000000000003000017000000000000000000040249520218000180000802819000670000200
+
+Điều 33.11.TT.9.2. Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp
+
+### 33011000000000003000017000000000000000000040249520218000180000802819000670000300
+
+Điều 33.11.TT.9.3. Nguyên tắc sử dụng Quỹ
+
+### 33011000000000003000017000000000000000000040249520218000180000802819000670000400
+
+Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hăng năm
+
+### 33011000000000003000017000000000000000000040249520218000180000802819000670000500
+
+Điều 33.11.TT.9.5. Quản lý tài sản hình thành từ Quỹ
+
+### 33011000000000003000017000000000000000000040249520218000180000802819000670000600
+
+Điều 33.11.TT.9.6. Quản lý Quỹ trong trường hợp tổ chức lại doanh nghiệp
+
+### 33011000000000003000017000000000000000000040249520218000180000802819000670000700
+
+Điều 33.11.TT.9.7. Báo cáo trích lập, điều chuyển và sử dụng Quỹ
+
+### 3301100000000000300001800000000000000000
+
+Điều 33.11.LQ.18. Điều kiện áp dụng ưu đãi thuế
+
+### 330110000000000030000180000000000000000000402495202180001900
+
+Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp
+
+### 33011000000000003000018000000000000000000040249520218000190000802512600780002200
+
+Điều 33.11.TT.4.22. Thủ tục thực hiện ưu đãi thuế thu nhập doanh nghiệp
+
+### 33011000000000003500
+
+Chương IV HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP TRONG MỘT SỐ LĨNH VỰC ĐẶC THÙ
+
+### 3301100000000000350000100000000000000000
+
+Mục 1 HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI ĐÀI TRUYỀN HÌNH VIỆT NAM VÀ CÁC ĐÀI TRUYỀN HÌNH, ĐÀI PHÁT THANH - TRUYỀN HÌNH TỈNH, THÀNH PHỐ
+
+### 3301100000000000350000200000000000000000
+
+Mục 2 HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI CÁC CƠ QUAN BÁO CHÍ
+
+### 3301100000000000350000300000000000000000
+
+Mục 3 HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI LĨNH VỰC KINH DOANH BẢO HIỂM
+
+### 330110000000000035000030000000000000000000802388200090001100
+
+Điều 33.11.TT.3.11. Doanh thu
+
+### 330110000000000035000030000000000000000000802388200090001200
+
+Điều 33.11.TT.3.12. Thời điểm xác định doanh thu
+
+### 330110000000000035000030000000000000000000802388200090001300
+
+Điều 33.11.TT.3.13. Một số khoản chi được trừ
+
+### 3301100000000000350000500000000000000000
+
+Mục 4. HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI TỔ CHỨC, CÁ NHÂN NƯỚC NGOÀI KINH DOANH TẠI VIỆT NAM HOẶC CÓ THU NHẬP PHÁT SINH TẠI VIỆT NAM
+
+### 330110000000000035000050000000000000000000802517501035500700
+
+Điều 33.11.TT.5.7. Thu nhập chịu thuế TNDN
+
+### 330110000000000035000050000000000000000000802517501035501000
+
+Điều 33.11.TT.5.10. Thuế thu nhập doanh nghiệp
+
+### 330110000000000035000050000000000000000000802517501035501300
+
+Điều 33.11.TT.5.13. Thuế thu nhập doanh nghiệp
+
+### 330110000000000035000050000000000000000000802517501035501600
+
+Điều 33.11.TT.5.16. Thuế thu nhập doanh nghiệp
+
+### 3301100000000000350000600000000000000000
+
+Mục 5. HƯỚNG DẪN VỀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI HOẠT ĐỘNG BẢO VỆ MÔI TRƯỜNG
+
+### 330110000000000035000060000000000000000000802568702125500200
+
+Điều 33.11.TT.6.2. Về chi phí thực hiện hoạt động quảng bá sản phẩm, phân loại rác tại nguồn
+
+### 330110000000000035000060000000000000000000802568702125500300
+
+Điều 33.11.TT.6.3. Về ưu đãi thuế thu nhập doanh nghiệp
+
+### 33011000000000004000
+
+Chương V ĐIỀU KHOẢN THI HÀNH
+
+### 3301100000000000400001900000000000000000
+
+Điều 33.11.LQ.19. Hiệu lực thi hành
+
+### 3301100000000000400002000000000000000000
+
+Điều 33.11.LQ.20. Hướng dẫn thi hành
+
+### 3301100000000000400002040249520218000200
+
+Điều 33.11.NĐ.2.20. Hiệu lực thi hành
+
+### 3301100000000000400002040249520218000210
+
+Điều 33.11.NĐ.2.21. Trách nhiệm thi hành
+
+### 3301100000000000400002040274170114000040
+
+Điều 33.11.NĐ.3.4. Tổ chức thực hiện và hiệu lực thi hành
+
+### 3301100000000000400002060273190116000030
+
+Điều 33.11.NQ.1.3. Điều khoản thi hành
+
+### 3301100000000000400002080251260078000230
+
+Điều 33.11.TT.4.23. Hiệu lực thi hành
+
+### 3301100000000000400002080251260078000240
+
+Điều 33.11.TT.4.24. Trách nhiệm thi hành
+
+### 3301100000000000400002080251750103550170
+
+Điều 33.11.TT.5.17. Hiệu lực thi hành
+
+### 3301100000000000400002080256870212550040
+
+Điều 33.11.TT.6.4. Hiệu lực thi hành và tổ chức thực hiện
+
+### 3301100000000000400002080270030048000080
+
+Điều 33.11.TT.7.8. Hiệu lực thi hành
+
+### 3301100000000000400002080270030048000090
+
+Điều 33.11.TT.7.9. Điều khoản thi hành
+
+### 3301100000000000400002080277430071000020
+
+Điều 33.11.TT.8.2. Hiệu lực thi hành
+
+### 3301100000000000400002080277430071000030
+
+Điều 33.11.TT.8.3. Tổ chức thực hiện
+
+### 3301100000000000400002080281900067000080
+
+Điều 33.11.TT.9.8. Hiệu lực thi hành và tổ chức thực hiện
+

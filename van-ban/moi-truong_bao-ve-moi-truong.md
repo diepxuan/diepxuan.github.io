@@ -1,36 +1,10 @@
 ---
-layout: default
+layout: page
 title: Bảo vệ môi trường
 permalink: /van-ban/moi-truong/bao-ve-moi-truong/
-collection: subtopics
-slug: bao-ve-moi-truong
-parent: moi-truong
 ---
 
 # Bảo vệ môi trường
 
-**Đề mục:** Bảo vệ môi trường  
-**Chủ đề:** [Môi trường](/moi-truong/)  
-**Số điều khoản:** 0  
-**Điều khoản có nội dung:** 0/0 (0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
-
-
-## 🔙 Quay lại
-[← Danh sách đề mục của Môi trường](/moi-truong/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số điều khoản:** 0
-- **Điều khoản thực tế:** 0
-- **Điều khoản có nội dung:** 0 (0%)
-- **ID đề mục:** c20ba1def6cb4b919d2c05eabd8e0c2e
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+[Nội dung rỗng hoặc lỗi conversion]

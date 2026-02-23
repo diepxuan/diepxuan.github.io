@@ -1,816 +1,1798 @@
 ---
-layout: default
+layout: page
 title: Đăng ký biện pháp bảo đảm
 permalink: /van-ban/dan-su/dang-ky-bien-phap-bao-dam/
-collection: subtopics
-slug: dang-ky-bien-phap-bao-dam
-parent: dan-su
 ---
 
 # Đăng ký biện pháp bảo đảm
 
-**Đề mục:** Đăng ký biện pháp bảo đảm  
-**Chủ đề:** [Dân sự](/dan-su/)  
-**Số điều khoản:** 71  
-**Điều khoản có nội dung:** 60/60 (100.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+QUY ĐỊNH CHUNG
 
-### Điều 9.2.NĐ.1. Phạm vi điều chỉnh
+Điều 9.2.NĐ.1. Phạm vi điều chỉnh
+
+(Điều 1 Nghị định số 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ngày 30/11/2022 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/01/2023 )
 
 1. Nghị định này quy định về đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tài sản (sau đây gọi là biện pháp bảo đảm); quản lý nhà nước về đăng ký biện pháp bảo đảm.
 
-**Chỉ mục:** 1
+2. Đăng ký biện pháp bảo đảm, cung cấp thông tin về biện pháp bảo đảm bằng chứng khoán đã đăng ký tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam thực hiện theo quy định của pháp luật về chứng khoán. Đối với các vấn đề không quy định trong pháp luật về chứng khoán thì thực hiện theo quy định liên quan đến đăng ký biện pháp bảo đảm bằng động sản không phải là tàu bay, tàu biển tại Nghị định này.
 
-**Mã phân cấp:** 0900200000000000100000100000000000000000
+(Điều này có nội dung liên quan đến Chương V ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM ĐỐI VỚI CHỨNG KHOÁN ĐÃ ĐĂNG KÝ TẬP TRUNG TẠI TỔNG CÔNG TY LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM của Nghị định 155/2020/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Chứng khoán ban hành ngày 31/12/2020; Điều 9.1.LQ.298. Đăng ký biện pháp bảo đảm của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 14.4.LQ.39. Đăng ký thế chấp tàu biển Việt Nam của Bộ luật 95/2015/QH13 Hàng hải ban hành ngày 25/11/2015; Điều 32.2.LQ.9. Phạm vi và trách nhiệm cung cấp thông tin của Luật 104/2016/QH13 Tiếp cận thông tin ban hành ngày 06/04/2016; Điều 34.4.LQ.55. Quyền và nghĩa vụ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; Điều 34.4.LQ.62. Lưu ký chứng khoán; Điều 14.5.NĐ.7.1. Phạm vi điều chỉnh; Điều 34.4.NĐ.1.310. Điều khoản chuyển tiếp)
 
-**ID:** dk_00011695
+Điều 9.2.NĐ.2. Đối tượng áp dụng
 
----
-
-
-### Điều 9.2.NĐ.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến đăng ký, cung cấp thông tin về biện pháp bảo đảm, quản lý nhà nước về đăng ký biện pháp bảo đảm.
 
-**Chỉ mục:** 2
+Điều 9.2.NĐ.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 0900200000000000100000200000000000000000
-
-**ID:** dk_00011696
-
----
-
-
-### Điều 9.2.NĐ.3. Giải thích từ ngữ
+(Điều 3 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. Đăng ký biện pháp bảo đảm là việc cơ quan đăng ký ghi, cập nhật vào Sổ đăng ký hoặc vào Cơ sở dữ liệu về biện pháp bảo đảm về việc bên bảo đảm dùng tài sản để bảo đảm thực hiện nghĩa vụ của mình hoặc của người khác hoặc đồng thời bảo đảm thực hiện nghĩa vụ của mình và của người khác đối với bên nhận bảo đảm (sau đây gọi là đăng ký).
 
-**Mã phân cấp:** 0900200000000000100000300000000000000000
+2. Cung cấp thông tin về biện pháp bảo đảm là việc cơ quan đăng ký hoặc cơ quan khác có thẩm quyền quy định tại Nghị định này cung cấp thông tin về biện pháp bảo đảm đã được đăng ký theo yêu cầu của cơ quan, tổ chức, cá nhân có liên quan hoặc là việc cơ quan khác có thẩm quyền, người có thẩm quyền cung cấp thông tin liên quan đến tài sản cho cơ quan đăng ký.
 
-**ID:** dk_00011697
+3. Sổ đăng ký là sổ được cơ quan đăng ký dùng để ghi, cập nhật nội dung đăng ký. Sổ đăng ký có thể là sổ giấy, sổ điện tử hoặc đồng thời là sổ giấy và sổ điện tử, bao gồm:
 
----
+a) Sổ địa chính, Sổ đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai đối với biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất;
 
+b) Sổ đăng bạ tàu bay Việt Nam đối với biện pháp bảo đảm bằng tàu bay;
 
-### Điều 9.2.NĐ.4. Các trường hợp đăng ký
+c) Sổ đăng ký tàu biển quốc gia Việt Nam đối với biện pháp bảo đảm bằng tàu biển;
+
+d) Sổ theo quy định của pháp luật về khai thác, sử dụng tài nguyên biển đối với biện pháp bảo đảm bằng quyền sử dụng khu vực biển được giao để nuôi trồng thủy sản, tài sản gắn liền với khu vực biển được giao để nuôi trồng thủy sản (sau đây gọi là quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển).
+
+4. Cơ sở dữ liệu về biện pháp bảo đảm là tập hợp dữ liệu về biện pháp bảo đảm đã được đăng ký và được sắp xếp, tổ chức để truy cập, khai thác, quản lý thông qua phương tiện điện tử (sau đây gọi là Cơ sở dữ liệu).
+
+5. Hồ sơ đăng ký hợp lệ là hồ sơ có đầy đủ Phiếu yêu cầu đăng ký hợp lệ và giấy tờ khác thuộc thành phần hồ sơ theo quy định của Nghị định này.
+
+6. Phiếu yêu cầu đăng ký hợp lệ là phiếu được kê khai đầy đủ và đúng các nội dung phải kê khai theo mẫu tại Phụ lục ban hành kèm theo Nghị định này (sau đây gọi là Phụ lục).
+
+7. Giấy chứng nhận bao gồm:
+
+a) Giấy chứng nhận quyền sở hữu tài sản là động sản; giấy chứng nhận đăng ký xe cơ giới, xe máy chuyên dùng; giấy tờ khác xác nhận quyền sở hữu đối với tài sản là động sản theo quy định của pháp luật;
+
+b) Giấy chứng nhận đăng ký tàu biển Việt Nam;
+
+c) Giấy chứng nhận đăng ký quyền sở hữu tàu bay;
+
+d) Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sở hữu nhà ở hoặc Giấy chứng nhận quyền sở hữu công trình xây dựng được cấp theo quy định của pháp luật về đất đai, về nhà ở, về xây dựng;
+
+đ) Giấy tờ chứng nhận quyền sử dụng khu vực biển, quyền sở hữu tài sản gắn liền với khu vực biển theo quy định của pháp luật về khai thác, sử dụng tài nguyên biển.
+
+8. Hủy đăng ký là việc cơ quan đăng ký ghi, cập nhật vào Sổ đăng ký hoặc vào Cơ sở dữ liệu về việc không công nhận kết quả đăng ký kể từ thời điểm biện pháp bảo đảm được đăng ký do có căn cứ hủy.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 3. Giải thích từ ngữ; Điều 95. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất; Điều 97. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 43. Dữ liệu mở của cơ quan nhà nước của Luật 20/2023/QH15 Giao dịch điện tử ban hành ngày 22/06/2023; Điều 37. Cơ quan cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất khi người sử dụng đất thực hiện các quyền của người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, cấp đổi, cấp lại Giấy chứng nhận của Nghị định 43/2014/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Đất đai ban hành ngày 15/05/2014; Điều 17. Các trường hợp xác nhận thay đổi vào Giấy chứng nhận đã cấp khi đăng ký biến động đất đai, tài sản gắn liền với đất của Thông tư 23/2014/TT-BTNMT Về Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất ban hành ngày 19/05/2014; Điều 3.4.LQ.4. Giải thích từ ngữ của Luật 51/2005/QH11 Giao dịch điện tử ban hành ngày 29/11/2005; Điều 14.5.LQ.13. Đăng ký quốc tịch tàu bay; Điều 14.5.LQ.29. Đăng ký các quyền đối với tàu bay; Điều 14.4.LQ.24. Nội dung cơ bản của Sổ đăng ký tàu biển quốc gia Việt Nam; Điều 14.4.LQ.34. Giấy chứng nhận và tài liệu của tàu biển của Bộ luật 95/2015/QH13 Hàng hải ban hành ngày 25/11/2015; Điều 14.4.NĐ.9.3. Giải thích từ ngữ; Điều 14.4.NĐ.9.17. Quy định về đăng ký tàu biển công vụ, tàu ngầm, tàu lặn, kho chứa nổi, giàn di động của Nghị định 171/2016/NĐ-CP Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển ban hành ngày 27/12/2016; Điều 9.3.NĐ.3. Giải thích từ ngữ của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 9.2.NĐ.15. Từ chối đăng ký của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.4. Các trường hợp đăng ký
+
+(Điều 4 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Các trường hợp đăng ký bao gồm:
 
-**Chỉ mục:** 4
+a) Đăng ký thế chấp tài sản, cầm cố tài sản, bảo lưu quyền sở hữu theo quy định của Bộ luật Dân sự, luật khác liên quan;
 
-**Mã phân cấp:** 0900200000000000100000400000000000000000
+b) Đăng ký theo thỏa thuận giữa bên bảo đảm và bên nhận bảo đảm hoặc theo yêu cầu của bên nhận bảo đảm, trừ cầm giữ tài sản;
 
-**ID:** dk_00011698
+c) Đăng ký thông báo xử lý tài sản bảo đảm trong trường hợp một tài sản được dùng để bảo đảm thực hiện nhiều nghĩa vụ mà có nhiều bên cùng nhận bảo đảm hoặc trong trường hợp bên bảo đảm và bên nhận bảo đảm có thỏa thuận;
 
----
+d) Đăng ký thay đổi nội dung đã được đăng ký (sau đây gọi là đăng ký thay đổi); xóa đăng ký nội dung đã được đăng ký (sau đây gọi là xóa đăng ký) đối với trường hợp quy định tại các điểm a, b và c khoản này.
 
+2. Việc đăng ký được thực hiện tại cơ quan có thẩm quyền đăng ký quy định tại Điều 10 Nghị định này.
 
-### Điều 9.2.NĐ.5. Nguyên tắc đăng ký, cung cấp thông tin
+(Điều này có nội dung liên quan đến Điều 95. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 145. Thế chấp nhà ở thuộc sở hữu chung; Điều 146. Thế chấp nhà ở đang cho thuê; Điều 147. Thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai của Luật 65/2014/QH13 Nhà ở ban hành ngày 25/11/2014; Điều 14.5.LQ.28. Các quyền đối với tàu bay; Điều 14.5.LQ.29. Đăng ký các quyền đối với tàu bay; Điều 9.1.LQ.298. Đăng ký biện pháp bảo đảm của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 14.4.LQ.39. Đăng ký thế chấp tàu biển Việt Nam của Bộ luật 95/2015/QH13 Hàng hải ban hành ngày 25/11/2015; Điều 34.4.NĐ.1.169. Đối tượng, phạm vi và nguyên tắc thực hiện đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.5. Nguyên tắc đăng ký, cung cấp thông tin
+
+(Điều 5 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Người yêu cầu đăng ký phải kê khai trung thực và chịu trách nhiệm trước pháp luật về tính chính xác của thông tin kê khai.
 
-**Chỉ mục:** 5
+2. Cơ quan đăng ký phải thực hiện đúng thẩm quyền, nhiệm vụ, căn cứ, thủ tục và thời hạn; không làm phát sinh thủ tục khác với quy định của Nghị định này; không yêu cầu nộp thêm bất cứ giấy tờ nào hoặc không yêu cầu kê khai thêm bất cứ thông tin nào mà Nghị định này không quy định trong hồ sơ đăng ký; không yêu cầu sửa lại tên hợp đồng bảo đảm, nội dung thỏa thuận trong hợp đồng bảo đảm. Cơ quan đăng ký phải chịu trách nhiệm trước pháp luật trong trường hợp vi phạm nguyên tắc này.
 
-**Mã phân cấp:** 0900200000000000100000500000000000000000
+Cơ quan đăng ký không phải chịu trách nhiệm về tên hợp đồng bảo đảm, nội dung thỏa thuận trong hợp đồng bảo đảm; không phải chịu trách nhiệm về thực hiện đăng ký, hủy đăng ký, khôi phục việc đăng ký đã bị hủy theo nội dung bản án, quyết định có hiệu lực pháp luật của cơ quan có thẩm quyền, của người có thẩm quyền; không phải chịu trách nhiệm về việc đã đăng ký đối với tài sản bảo đảm là tài sản có tranh chấp hoặc tài sản thi hành án dân sự nhưng trước hoặc tại thời điểm ghi, cập nhật nội dung đăng ký vào Sổ đăng ký hoặc vào Cơ sở dữ liệu, cơ quan đăng ký không nhận được văn bản thụ lý hoặc văn bản chứng minh việc cơ quan có thẩm quyền thụ lý giải quyết tranh chấp hoặc giải quyết thi hành án dân sự.
 
-**ID:** dk_00011699
+3. Việc đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất; quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển hoặc đối với tàu bay, tàu biển phải đảm bảo nội dung được kê khai và các giấy tờ trong hồ sơ đăng ký phù hợp với thông tin trên Giấy chứng nhận, thông tin được lưu giữ tại cơ quan đăng ký, trừ trường hợp tài sản được quy định tại khoản 5 Điều này, khoản 1, khoản 3 Điều 36 và Điều 37 Nghị định này.
 
----
+4. Trường hợp đăng ký để bảo đảm thực hiện nghĩa vụ của người khác hoặc đồng thời để bảo đảm thực hiện nghĩa vụ của bên bảo đảm và của người khác thì bên bảo đảm phải là người có quyền sử dụng đất, quyền sử dụng khu vực biển hoặc là chủ sở hữu tài sản được dùng để bảo đảm, trừ trường hợp bảo lưu quyền sở hữu.
 
+Việc bảo đảm thực hiện nghĩa vụ quy định tại khoản này là do bên bảo đảm và bên nhận bảo đảm tự chịu trách nhiệm theo thỏa thuận trong hợp đồng bảo đảm hoặc theo quy định của pháp luật về dân sự.
 
-### Điều 9.2.NĐ.6. Hiệu lực của đăng ký
+5. Trường hợp đăng ký đối với tài sản hình thành trong tương lai; tài sản gắn liền với đất mà pháp luật không quy định phải đăng ký quyền sở hữu và cũng chưa được đăng ký quyền sở hữu theo yêu cầu; tài sản là cây hằng năm, công trình tạm; động sản không phải là tàu bay, tàu biển, chứng khoán đã đăng ký tập trung hoặc trường hợp đăng ký thông báo xử lý tài sản bảo đảm thì cơ quan đăng ký thực hiện việc đăng ký trên cơ sở thông tin được kê khai trên Phiếu yêu cầu đăng ký. Người yêu cầu đăng ký phải chịu trách nhiệm trước pháp luật về tính hợp pháp, tính chính xác của thông tin được kê khai trên Phiếu yêu cầu đăng ký.
+
+6. Thông tin về biện pháp bảo đảm đã được đăng ký được cung cấp theo yêu cầu hoặc theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 14.4.LQ.39. Đăng ký thế chấp tàu biển Việt Nam; Điều 32.2.LQ.3. Nguyên tắc bảo đảm quyền tiếp cận thông tin của Luật 104/2016/QH13 Tiếp cận thông tin ban hành ngày 06/04/2016; Điều 44.5.NĐ.12. Nguyên tắc thực hiện thủ tục hành chính của Nghị định 63/2010/NĐ-CP Về kiểm soát thủ tục hành chính ban hành ngày 08/06/2010; Điều 12.1.NĐ.8.9. Quyền của DATC của Nghị định 129/2020/NĐ-CP Về chức năng, nhiệm vụ và cơ chế hoạt động của Công ty trách nhiệm hữu hạn một thành viên Mua bán nợ Việt Nam ban hành ngày 27/10/2020; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất; Điều 9.2.NĐ.37. Giải quyết đăng ký trong trường hợp thông tin về tài sản bảo đảm trong hợp đồng bảo đảm bao gồm tài sản khác ngoài quyền sử dụng đất, tài sản gắn liền với đất; quyền sử dụng đất, tài sản gắn liền với đất là tài sản chung của vợ chồng, của các thành viên hộ gia đình, của nhóm người sử dụng đất hoặc thuộc doanh nghiệp tư nhân của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.6. Hiệu lực của đăng ký
+
+(Điều 6 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Hiệu lực của đăng ký được xác định như sau:
 
-**Chỉ mục:** 6
+a) Thời điểm có hiệu lực của đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất là thời điểm cơ quan đăng ký ghi, cập nhật nội dung đăng ký vào Sổ địa chính; đối với tài sản gắn liền với đất quy định tại điểm a và điểm b khoản 2 Điều 25 Nghị định này là thời điểm cơ quan đăng ký ghi, cập nhật nội dung đăng ký vào Sổ đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai; đối với tàu bay là thời điểm cơ quan đăng ký ghi, cập nhật nội dung đăng ký vào Sổ đăng bạ tàu bay Việt Nam; đối với tàu biển là thời điểm cơ quan đăng ký ghi, cập nhật nội dung đăng ký vào Sổ đăng ký tàu biển quốc gia Việt Nam; đối với động sản không phải là tàu bay, tàu biển, chứng khoán đã đăng ký tập trung hoặc đối với trường hợp quy định tại điểm đ khoản 1 Điều 44 Nghị định này là thời điểm nội dung đăng ký được cập nhật vào Cơ sở dữ liệu.
 
-**Mã phân cấp:** 0900200000000000100000600000000000000000
+Thời điểm có hiệu lực của đăng ký đối với quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển là thời điểm cơ quan đăng ký ghi, cập nhật nội dung đăng ký vào Sổ đăng ký hoặc vào Cơ sở dữ liệu theo quy định của pháp luật về khai thác, sử dụng tài nguyên biển;
 
-**ID:** dk_00011700
+b) Thời hạn có hiệu lực của đăng ký được tính từ thời điểm có hiệu lực của đăng ký đến thời điểm xóa đăng ký.
 
----
+Thời hạn có hiệu lực của đăng ký là căn cứ để xác định thời hạn có hiệu lực đối kháng của biện pháp bảo đảm với người thứ ba theo quy định của Bộ luật Dân sự, trừ trường hợp xác định hiệu lực đối kháng không chấm dứt quy định tại khoản 2 Điều này và trường hợp đăng ký thông báo xử lý tài sản bảo đảm quy định tại khoản 4 Điều này;
 
+c) Việc đăng ký thay đổi không làm thay đổi thời điểm có hiệu lực hoặc không làm chấm dứt hiệu lực của đăng ký, trừ trường hợp bổ sung tài sản bảo đảm hoặc bổ sung nghĩa vụ được bảo đảm hoặc thay đổi thông tin hoặc chỉnh lý thông tin có sai sót do lỗi của người yêu cầu đăng ký về số khung của phương tiện giao thông cơ giới đường bộ, thông tin khác quy định tại các khoản 3, 4, 7 và 8 Điều 45 Nghị định này thì thời điểm có hiệu lực đối với phần nội dung được thay đổi là thời điểm cơ quan đăng ký ghi, cập nhật nội dung thay đổi vào Sổ đăng ký hoặc vào Cơ sở dữ liệu.
 
-### Điều 9.2.NĐ.7. Ngôn ngữ sử dụng trong đăng ký, cung cấp thông tin
+Trường hợp đăng ký thay đổi bên bảo đảm, bên nhận bảo đảm do chuyển giao một phần quyền đòi nợ, chuyển giao một phần nghĩa vụ quy định tại khoản 3 Điều 18 Nghị định này thì không làm thay đổi hoặc không làm chấm dứt hiệu lực của đăng ký đối với nội dung đã được đăng ký thuộc phần quyền đòi nợ, phần nghĩa vụ mà các bên không có thỏa thuận về việc chuyển giao;
+
+d) Trường hợp xóa đăng ký thì hiệu lực của đăng ký chấm dứt kể từ thời điểm cơ quan đăng ký ghi, cập nhật nội dung được xóa vào Sổ đăng ký hoặc vào Cơ sở dữ liệu;
+
+đ) Trường hợp một tài sản được dùng để bảo đảm thực hiện nhiều nghĩa vụ thì việc đăng ký đối với nghĩa vụ tiếp theo không làm thay đổi hoặc không làm chấm dứt hiệu lực của đăng ký đối với nghĩa vụ đã được đăng ký trước đó;
+
+e) Trường hợp hủy đăng ký thì việc đăng ký không có hiệu lực. Trường hợp một phần nội dung đã được đăng ký bị hủy thì không làm thay đổi hoặc không làm chấm dứt hiệu lực của đăng ký đối với phần nội dung khác đã được đăng ký.
+
+Trường hợp việc đăng ký đã bị hủy nhưng sau đó được khôi phục theo quy định tại khoản 3 Điều 21 Nghị định này thì thời điểm có hiệu lực và thời hạn có hiệu lực của đăng ký trước khi bị hủy không thay đổi hoặc không chấm dứt.
+
+2. Hiệu lực đối kháng với người thứ ba của biện pháp bảo đảm đã được đăng ký tại cơ quan có thẩm quyền đăng ký ban đầu không chấm dứt trong trường hợp sau đây:
+
+a) Biện pháp bảo đảm bằng chứng khoán chưa đăng ký tập trung đã được đăng ký tại cơ quan có thẩm quyền quy định tại khoản 5 Điều 10 Nghị định này, sau đó tài sản này trở thành chứng khoán đăng ký tập trung theo quy định của pháp luật về chứng khoán, tiếp tục được dùng để bảo đảm thực hiện nghĩa vụ cho cùng bên hoặc các bên cùng nhận bảo đảm và được đăng ký tại cơ quan có thẩm quyền quy định tại khoản 4 Điều 10 Nghị định này;
+
+b) Biện pháp bảo đảm bằng chứng khoán đăng ký tập trung đã được đăng ký tại cơ quan có thẩm quyền quy định tại khoản 4 Điều 10 Nghị định này, sau đó tài sản này trở thành chứng khoán không đăng ký tập trung theo quy định của pháp luật về chứng khoán, tiếp tục được dùng để bảo đảm thực hiện nghĩa vụ cho cùng bên hoặc các bên cùng nhận bảo đảm và được đăng ký tại cơ quan có thẩm quyền quy định tại khoản 5 Điều 10 Nghị định này;
+
+c) Biện pháp bảo đảm bằng hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh, linh kiện, vật tư đã được đăng ký tại cơ quan có thẩm quyền quy định tại khoản 5 Điều 10 Nghị định này, sau đó được lắp ráp, được chế tạo, được gia công hoặc được chế biến theo hình thức khác tạo thành tài sản mới và tài sản này được dùng để bảo đảm thực hiện nghĩa vụ, được đăng ký tại cơ quan có thẩm quyền quy định tại khoản 1 hoặc khoản 2 hoặc khoản 3 hoặc khoản 6 Điều 10 Nghị định này mà phần giá trị của hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh hoặc giá trị của linh kiện, vật tư tiếp tục được dùng để bảo đảm thực hiện nghĩa vụ cho bên hoặc các bên cùng nhận bảo đảm ban đầu;
+
+d) Thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán, hợp đồng chuyển giao khác về quyền sở hữu đối với tài sản khác gắn liền với đất (sau đây gọi là hợp đồng mua bán tài sản khác gắn liền với đất) đã được đăng ký tại cơ quan có thẩm quyền quy định tại khoản 5 Điều 10 Nghị định này, sau đó được chuyển tiếp sang đăng ký thế chấp nhà ở, thế chấp tài sản khác gắn liền với đất quy định tại điểm b khoản 1, điểm b khoản 2 và khoản 5 Điều 26 Nghị định này.
+
+3. Trường hợp đăng ký trùng lặp quy định tại Điều 49 Nghị định này thì hiệu lực của đăng ký được xác định theo việc đăng ký được thực hiện sớm nhất.
+
+4. Đăng ký thông báo xử lý tài sản bảo đảm có hiệu lực kể từ thời điểm cơ quan đăng ký ghi, cập nhật nội dung thông báo vào Sổ đăng ký hoặc vào Cơ sở dữ liệu; chấm dứt hiệu lực kể từ thời điểm cơ quan đăng ký ghi, cập nhật nội dung thông báo được xóa vào Sổ đăng ký hoặc vào Cơ sở dữ liệu hoặc từ thời điểm biện pháp bảo đảm được xóa đăng ký.
+
+Hiệu lực của đăng ký quy định tại khoản này là để thông báo, công khai việc xử lý tài sản bảo đảm cho bên bảo đảm, bên cùng nhận bảo đảm hoặc cho tổ chức, cá nhân khác; không phải là căn cứ xác định hiệu lực đối kháng của biện pháp bảo đảm với người thứ ba.
+
+(Điều này có nội dung liên quan đến Điều 95. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất; Điều 188. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, thế chấp quyền sử dụng đất; góp vốn bằng quyền sử dụng đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 14.5.LQ.29. Đăng ký các quyền đối với tàu bay; Điều 9.1.LQ.298. Đăng ký biện pháp bảo đảm; Điều 9.1.LQ.503. Hiệu lực của việc chuyển quyền sử dụng đất của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 14.4.LQ.39. Đăng ký thế chấp tàu biển Việt Nam của Bộ luật 95/2015/QH13 Hàng hải ban hành ngày 25/11/2015; Điều 34.4.NĐ.1.169. Đối tượng, phạm vi và nguyên tắc thực hiện đăng ký biện pháp bảo đảm; Điều 9.3.NĐ.22. Hiệu lực của hợp đồng bảo đảm; Điều 9.3.NĐ.23. Hiệu lực đối kháng của biện pháp bảo đảm với người thứ ba của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi; Điều 9.2.NĐ.20. Xóa đăng ký; Điều 9.2.NĐ.21. Hủy đăng ký; Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai; Điều 9.2.NĐ.26. Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.44. Trường hợp đăng ký thuộc thẩm quyền của Trung tâm đăng ký giao dịch, tài sản; Điều 9.2.NĐ.45. Mô tả tài sản bảo đảm trên Phiếu yêu cầu đăng ký; Điều 9.2.NĐ.46. Hồ sơ đăng ký đối với động sản, cây hằng năm, công trình tạm; Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm; Điều 9.2.NĐ.49. Xử lý đối với đăng ký trùng lặp của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.7. Ngôn ngữ sử dụng trong đăng ký, cung cấp thông tin
+
+(Điều 7 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Biểu mẫu, tài liệu và việc kê khai trong đăng ký, cung cấp thông tin phải được lập bằng tiếng Việt hoặc bằng cả tiếng Việt và tiếng nước ngoài trong trường hợp pháp luật có quy định.
 
-**Chỉ mục:** 7
+Trường hợp hồ sơ đăng ký có tài liệu bằng tiếng nước ngoài thì phải kèm theo bản dịch tiếng Việt có công chứng hoặc có chứng thực chữ ký người dịch, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này.
 
-**Mã phân cấp:** 0900200000000000100000700000000000000000
+Trường hợp tài liệu trong hồ sơ đăng ký, Phiếu yêu cầu cung cấp thông tin được lập bằng tiếng Việt và tiếng nước ngoài thì bản tiếng Việt được sử dụng để đăng ký, cung cấp thông tin.
 
-**ID:** dk_00011701
+Trường hợp theo quy định của pháp luật liên quan, ngôn ngữ sử dụng trong đăng ký, cung cấp thông tin là cả tiếng Việt và tiếng nước ngoài mà tài liệu trong hồ sơ đăng ký, Phiếu yêu cầu cung cấp thông tin được lập theo hai ngôn ngữ này thì bản tiếng Việt và bản tiếng nước ngoài có giá trị sử dụng như nhau, nếu giữa hai bản này không thống nhất về nội dung thì sử dụng bản tiếng Việt.
 
----
+2. Trường hợp người yêu cầu đăng ký hoặc người yêu cầu cung cấp thông tin là người nước ngoài, tổ chức mang quốc tịch nước ngoài hoặc được thành lập theo quy định của pháp luật nước ngoài mà thông tin của chủ thể này không được viết bằng tiếng Anh hoặc bằng chữ Latinh khác thì kê khai theo họ, tên của cá nhân thể hiện trên hộ chiếu hoặc giấy tờ có giá trị thay hộ chiếu; tên của tổ chức thể hiện trên quyết định của cơ quan có thẩm quyền của nước ngoài cấp.
 
+3. Trường hợp tài sản bảo đảm có tên riêng không bằng tiếng Việt nhưng phù hợp với quy định của pháp luật liên quan của Cộng hòa xã hội chủ nghĩa Việt Nam hoặc phù hợp với quyết định có hiệu lực pháp luật của cơ quan có thẩm quyền của Cộng hòa xã hội chủ nghĩa Việt Nam thì kê khai theo tên riêng của tài sản.
 
-### Điều 9.2.NĐ.8. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin
+4. Giấy tờ, tài liệu quy định tại Điều này không phải hợp pháp hóa lãnh sự.
+
+Điều 9.2.NĐ.8. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin
+
+(Điều 8 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Người yêu cầu đăng ký bao gồm bên nhận bảo đảm, bên bảo đảm; Quản tài viên; doanh nghiệp quản lý, thanh lý tài sản trong trường hợp doanh nghiệp, hợp tác xã mất khả năng thanh toán cho người khác vay tài sản nhưng không thực hiện việc đăng ký (sau đây gọi là doanh nghiệp quản lý, thanh lý tài sản).
 
-**Chỉ mục:** 8
+2. Người yêu cầu đăng ký trong trường hợp đăng ký thay đổi bao gồm người quy định tại khoản 1 Điều này; bên nhận bảo đảm mới trong trường hợp thay đổi bên nhận bảo đảm; bên kế thừa trong trường hợp bên bảo đảm hoặc bên nhận bảo đảm là pháp nhân được tổ chức lại; bên bảo đảm mới trong trường hợp thay đổi bên bảo đảm và có sự đồng ý của bên nhận bảo đảm, trừ trường hợp bên bảo đảm mới là người thừa kế theo quy định của Bộ luật Dân sự hoặc là người khác được xác lập quyền theo quy định của luật.
 
-**Mã phân cấp:** 0900200000000000100000800000000000000000
+3. Người yêu cầu đăng ký trong trường hợp xóa đăng ký bao gồm người quy định tại khoản 1 và khoản 2 Điều này; người nhận chuyển nhượng hợp pháp tài sản bảo đảm là quyền sử dụng đất, quyền sử dụng khu vực biển, nhận chuyển giao hợp pháp quyền sở hữu tài sản bảo đảm khác (sau đây gọi là chuyển giao hợp pháp tài sản bảo đảm) mà không trở thành bên bảo đảm mới; cơ quan thi hành án dân sự, Chấp hành viên, cơ quan khác có thẩm quyền, người khác có thẩm quyền theo quy định của luật.
 
-**ID:** dk_00011702
+Trường hợp người nhận chuyển giao hợp pháp tài sản bảo đảm hoặc cơ quan có thẩm quyền, người có thẩm quyền quy định tại khoản này chỉ yêu cầu rút bớt một, một số tài sản bảo đảm để xóa đăng ký đối với tài sản này thì xác định là người yêu cầu đăng ký trong trường hợp đăng ký thay đổi.
 
----
+4. Đăng ký cầm cố tài sản, đặt cọc, ký cược hoặc ký quỹ trong trường hợp pháp luật về bảo đảm thực hiện nghĩa vụ có quy định hoặc có thỏa thuận trong hợp đồng bảo đảm thì người yêu cầu đăng ký là bên nhận bảo đảm, trừ trường hợp bên bảo đảm và bên nhận bảo đảm có thỏa thuận khác.
 
+5. Người yêu cầu đăng ký thông báo xử lý tài sản bảo đảm là bên nhận bảo đảm.
 
-### Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin
+6. Người yêu cầu cung cấp thông tin bao gồm người yêu cầu đăng ký quy định tại Điều này và cơ quan, tổ chức, cá nhân khác có nhu cầu thông tin về biện pháp bảo đảm.
+
+7. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin quy định tại Điều này có thể tự mình thực hiện việc đăng ký, thực hiện việc yêu cầu cung cấp thông tin hoặc thực hiện thông qua người đại diện hợp pháp.
+
+Trường hợp thực hiện thông qua người đại diện thì văn bản có nội dung về đại diện là tài liệu phải có trong hồ sơ đăng ký, hồ sơ cung cấp thông tin (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu), trừ trường hợp thực hiện việc đăng ký qua tài khoản đăng ký trực tuyến của người đại diện quy định tại khoản 2 Điều 24 Nghị định này.
+
+8. Trường hợp chi nhánh của pháp nhân, chi nhánh hoặc phòng giao dịch của pháp nhân là tổ chức tín dụng (sau đây gọi là chi nhánh của pháp nhân) được pháp nhân giao nhiệm vụ thực hiện chức năng của pháp nhân về yêu cầu đăng ký, về yêu cầu cung cấp thông tin theo điều lệ, quy chế hoạt động hoặc theo ủy quyền, chỉ định của người đại diện hợp pháp của pháp nhân thì chi nhánh này là người đứng tên người yêu cầu đăng ký, người yêu cầu cung cấp thông tin trên Phiếu yêu cầu đăng ký, Phiếu yêu cầu cung cấp thông tin. Trường hợp này, văn bản có nội dung về việc pháp nhân giao nhiệm vụ cho chi nhánh thực hiện chức năng của pháp nhân trong yêu cầu đăng ký, yêu cầu cung cấp thông tin là tài liệu phải có trong hồ sơ đăng ký, hồ sơ cung cấp thông tin (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu).
+
+9. Trường hợp bảo đảm thực hiện nghĩa vụ bằng tài sản thuộc doanh nghiệp tư nhân mà người yêu cầu đăng ký là bên bảo đảm thì có thể đứng tên người yêu cầu đăng ký là chủ doanh nghiệp tư nhân hoặc tên doanh nghiệp tư nhân.
+
+(Điều này có nội dung liên quan đến Điều 95. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 14.5.LQ.29. Đăng ký các quyền đối với tàu bay; Điều 37.2.LQ.16. Quyền, nghĩa vụ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản của Luật 51/2014/QH13 Phá sản ban hành ngày 19/06/2014; Điều 9.1.LQ.9. Thực hiện quyền dân sự; Điều 9.1.LQ.134. Đại diện; Điều 9.1.LQ.137. Đại diện theo pháp luật của pháp nhân; Điều 9.1.LQ.138. Đại diện theo ủy quyền; Điều 14.4.LQ.22. Trách nhiệm của chủ tàu về đăng ký tàu biển tại Việt Nam của Bộ luật 95/2015/QH13 Hàng hải ban hành ngày 25/11/2015; Điều 12.1.NĐ.8.9. Quyền của DATC của Nghị định 129/2020/NĐ-CP Về chức năng, nhiệm vụ và cơ chế hoạt động của Công ty trách nhiệm hữu hạn một thành viên Mua bán nợ Việt Nam ban hành ngày 27/10/2020; Điều 1.5.NĐ.3.7. Quyền và nghĩa vụ của tổ chức, cá nhân khi được giao khu vực biển của Nghị định 11/2021/NĐ-CP Quy định giao các khu vực biển nhất định cho tổ chức, cá nhân khai thác, sử dụng tài nguyên biển ban hành ngày 10/02/2021; Điều 9.3.NĐ.2. Đối tượng áp dụng; Điều 9.3.NĐ.4. Áp dụng pháp luật và thỏa thuận về bảo đảm thực hiện nghĩa vụ; Điều 9.3.NĐ.28. Thay đổi bên bảo đảm, bên nhận bảo đảm của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký; Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký; Điều 9.2.NĐ.24. Thủ tục đăng ký trực tuyến; Điều 9.2.NĐ.46. Hồ sơ đăng ký đối với động sản, cây hằng năm, công trình tạm của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin
+
+(Điều 9 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Quyền của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin:
 
-**Chỉ mục:** 9
+a) Nhận kết quả đăng ký, kết quả cung cấp thông tin; kiểm tra, đối chiếu thông tin được đăng ký, được cung cấp; đề nghị cơ quan đăng ký quy định tại khoản 2, khoản 3 hoặc khoản 5 Điều 10 Nghị định này cấp bản sao văn bản chứng nhận đăng ký đối với trường hợp đăng ký thuộc thẩm quyền của cơ quan này;
 
-**Mã phân cấp:** 0900200000000000100000900000000000000000
+b) Đề nghị cơ quan đăng ký trả lời bằng văn bản về việc từ chối đăng ký, từ chối hủy đăng ký, từ chối khôi phục việc đăng ký đã bị hủy hoặc từ chối cung cấp thông tin theo đúng quy định tại các điều 15, 18, 20, 21 hoặc 51 Nghị định này;
 
-**ID:** dk_00011703
+c) Yêu cầu cơ quan đăng ký chỉnh lý thông tin có sai sót trong nội dung đã được đăng ký do lỗi của cơ quan đăng ký hoặc yêu cầu đăng ký thay đổi thông tin có sai sót do lỗi của người yêu cầu đăng ký;
 
----
+d) Sử dụng kết quả đăng ký, kết quả cung cấp thông tin để thực hiện quyền, nghĩa vụ hợp pháp của mình tại cơ quan, tổ chức có thẩm quyền; để xác lập, thực hiện giao dịch dân sự;
 
+đ) Được miễn nghĩa vụ nộp phí, thanh toán giá dịch vụ, nghĩa vụ thanh toán khác trong trường hợp pháp luật về phí, lệ phí, pháp luật về giá, pháp luật khác có liên quan có quy định;
 
-### Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin
+e) Khiếu nại, tố cáo, khởi kiện hoặc yêu cầu bồi thường thiệt hại theo quy định của pháp luật liên quan trong trường hợp cơ quan đăng ký từ chối đăng ký, từ chối hủy đăng ký, từ chối khôi phục việc đăng ký đã bị hủy, từ chối cung cấp thông tin quy định tại điểm b khoản này hoặc từ chối thực hiện miễn nghĩa vụ nộp phí, thanh toán giá dịch vụ, nghĩa vụ thanh toán khác quy định tại điểm đ khoản này; đăng ký thay đổi, xóa đăng ký, hủy đăng ký hoặc khôi phục việc đăng ký đã bị hủy không có căn cứ quy định tại Nghị định này.
+
+2. Nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin:
+
+a) Kê khai, cung cấp trung thực, đầy đủ, chính xác về thông tin thuộc Phiếu yêu cầu đăng ký, Phiếu yêu cầu cung cấp thông tin và phải chịu trách nhiệm về thông tin này; chịu trách nhiệm về tên hợp đồng bảo đảm, nội dung thỏa thuận trong hợp đồng bảo đảm, giấy tờ, tài liệu khác trong hồ sơ đăng ký;
+
+b) Nộp phí, thanh toán giá dịch vụ, nghĩa vụ thanh toán khác theo quy định của pháp luật về phí, lệ phí, pháp luật về giá, pháp luật khác có liên quan; thanh toán phí chuyển khoản, phí sử dụng dịch vụ thanh toán khác không bằng tiền mặt (nếu có) trong trường hợp thực hiện việc nộp phí, giá dịch vụ, nghĩa vụ thanh toán khác bằng thanh toán không dùng tiền mặt; thanh toán cước phí dịch vụ bưu chính trong trường hợp hồ sơ đăng ký, giấy tờ, tài liệu, kết quả đăng ký, bản sao văn bản chứng nhận đăng ký, kết quả cung cấp thông tin được chuyển, trả thông qua dịch vụ bưu chính; thanh toán chi phí trong trường hợp trả kết quả đăng ký, bản sao văn bản chứng nhận đăng ký, kết quả cung cấp thông tin qua cách thức khác theo thỏa thuận giữa cơ quan đăng ký và người yêu cầu đăng ký, người yêu cầu cung cấp thông tin quy định tại khoản 1, điểm c khoản 2 Điều 17 và khoản 2 Điều 51 Nghị định này; cung cấp giấy tờ, tài liệu chứng minh thuộc trường hợp được miễn nghĩa vụ nộp phí, thanh toán giá dịch vụ, nghĩa vụ thanh toán khác quy định tại điểm đ khoản 1 và khoản 3 Điều này;
+
+c) Chịu trách nhiệm về hành vi của mình trong việc giả mạo tài liệu, chữ ký hoặc con dấu trong hồ sơ đăng ký;
+
+d) Chịu trách nhiệm bồi thường thiệt hại theo căn cứ quy định tại Bộ luật Dân sự, luật khác có liên quan trong trường hợp thuộc điểm c khoản này hoặc trong trường hợp không thực hiện việc đăng ký khi có căn cứ quy định tại Nghị định này mà gây thiệt hại cho cơ quan đăng ký, cho tổ chức, cá nhân khác.
+
+3. Trường hợp quy định tại điểm đ khoản 1 Điều này thì người yêu cầu đăng ký có quyền lựa chọn cung cấp một trong giấy tờ, tài liệu sau đây vào trong hồ sơ đăng ký: Hợp đồng bảo đảm hoặc hợp đồng tín dụng hoặc văn bản khác có thông tin về việc thuộc diện được miễn nghĩa vụ nộp phí đăng ký, thanh toán giá dịch vụ, nghĩa vụ thanh toán khác (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu). Việc nộp giấy tờ, tài liệu quy định tại khoản này chỉ thực hiện một lần trong đăng ký cùng một biện pháp bảo đảm.
+
+4. Tổ chức, cá nhân tự tra cứu thông tin quy định tại điểm b khoản 2 Điều 50 Nghị định này có quyền sử dụng mã số sử dụng cơ sở dữ liệu được cấp để tra cứu thông tin; có nghĩa vụ nộp phí cấp mã số sử dụng cơ sở dữ liệu theo quy định của pháp luật về phí, lệ phí.
+
+(Điều này có nội dung liên quan đến Điều 166. Quyền chung của người sử dụng đất; Điều 170. Nghĩa vụ chung của người sử dụng đất; Điều 33.3.LQ.4. Danh mục và thẩm quyền quy định phí, lệ phí của Luật 97/2015/QH13 Phí và lệ phí ban hành ngày 25/11/2015; Điều 32.2.LQ.8. Quyền và nghĩa vụ của công dân trong việc tiếp cận thông tin; Điều 32.2.LQ.15. Xử lý vi phạm của Luật 104/2016/QH13 Tiếp cận thông tin ban hành ngày 06/04/2016; Điều 44.5.NĐ.21. Quyền và nghĩa vụ của đối tượng thực hiện thủ tục hành chính của Nghị định 63/2010/NĐ-CP Về kiểm soát thủ tục hành chính ban hành ngày 08/06/2010; Điều 15.1.NĐ.16. Cá nhân, tổ chức có quyền yêu cầu cấp bản sao từ sổ gốc của Nghị định 23/2015/NĐ-CP Về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch ban hành ngày 16/02/2015; Điều 3.3.NĐ.7.22. Phương thức nộp phí, lệ phí của Nghị định 61/2018/NĐ-CP Về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính ban hành ngày 23/04/2018; Điều 3.4.NĐ.5.13. Thanh toán trực tuyến nghĩa vụ tài chính trong giải quyết thủ tục hành chính của Nghị định 45/2020/NĐ-CP Về thực hiện thủ tục hành chính trên môi trường điện tử ban hành ngày 08/04/2020; Điều 39.13.NĐ.81.54. Hành vi vi phạm quy định về đăng ký biện pháp bảo đảm của Nghị định 82/2020/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực bổ trợ tư pháp; hành chính tư pháp; hôn nhân và gia đình; thi hành án dân sự; phá sản doanh nghiệp, hợp tác xã ban hành ngày 15/07/2020; Điều 12.1.NĐ.8.9. Quyền của DATC; Điều 12.1.NĐ.8.10. Nghĩa vụ của DATC của Nghị định 129/2020/NĐ-CP Về chức năng, nhiệm vụ và cơ chế hoạt động của Công ty trách nhiệm hữu hạn một thành viên Mua bán nợ Việt Nam ban hành ngày 27/10/2020; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.17. Trả kết quả đăng ký; Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi; Điều 9.2.NĐ.20. Xóa đăng ký; Điều 9.2.NĐ.21. Hủy đăng ký; Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin; Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin; Điều 33.3.TT.159.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 33.3.TT.159.2. Người nộp phí; Điều 33.3.TT.159.4. Mức thu phí; Điều 33.3.TT.159.5. Kê khai, nộp phí; Điều 33.3.TT.159.7. Điều khoản thi hành của Thông tư 61/2023/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực đăng ký giao dịch bảo đảm ban hành ngày 28/09/2023)
+
+Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin
+
+(Điều 10 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Văn phòng đăng ký đất đai trực thuộc Sở Tài nguyên và Môi trường, Chi nhánh của Văn phòng đăng ký đất đai (sau đây gọi là Văn phòng đăng ký đất đai) thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất quy định tại Điều 25 Nghị định này.
 
-**Chỉ mục:** 10
+2. Cục Hàng không Việt Nam trực thuộc Bộ Giao thông vận tải thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tàu bay quy định tại Điều 38 Nghị định này.
 
-**Mã phân cấp:** 0900200000000000100001000000000000000000
+3. Cục Hàng hải Việt Nam trực thuộc Bộ Giao thông vận tải hoặc Chi cục Hàng hải, Cảng vụ Hàng hải theo phân cấp của Cục Hàng hải Việt Nam (sau đây gọi là Cơ quan đăng ký tàu biển Việt Nam) thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tàu biển, tài sản khác quy định tại Điều 41 Nghị định này.
 
-**ID:** dk_00011704
+4. Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng chứng khoán đã đăng ký tập trung theo quy định của pháp luật về chứng khoán.
 
----
+5. Trung tâm đăng ký giao dịch, tài sản của Cục Đăng ký quốc gia giao dịch bảo đảm thuộc Bộ Tư pháp (sau đây gọi là Trung tâm đăng ký giao dịch, tài sản) thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng động sản không phải là tàu bay, tàu biển, chứng khoán đã đăng ký tập trung (sau đây gọi là động sản) và trường hợp khác quy định tại Điều 44 Nghị định này.
 
+6. Việc xác định cơ quan có thẩm quyền đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển thực hiện theo quy định của pháp luật về khai thác, sử dụng tài nguyên biển.
 
-### Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin
+7. Việc xác định cơ quan có thẩm quyền cung cấp thông tin trong trường hợp tổ chức, cá nhân tự tra cứu thông tin thông qua mã số sử dụng cơ sở dữ liệu và trong hoạt động cung cấp thông tin giữa cơ quan có thẩm quyền, người có thẩm quyền với cơ quan đăng ký thực hiện theo quy định tại khoản 2 Điều 50 và Điều 52 Nghị định này.
+
+(Điều này có nội dung liên quan đến Điều 1. Thành lập Cục Đăng ký quốc gia giao dịch bảo đảm thuộc Bộ Tư pháp để thực hiện việc quản lý nhà nước về đăng ký giao dịch bảo đảm, tổ chức việc đăng ký, cung cấp thông tin về các giao dịch bảo đảm theo thẩm quyền. của Quyết định 104/2001/QĐ-TTg Về việc thành lập Cục Đăng ký quốc gia giao dịch bảo đảm thuộc Bộ Tư pháp. ban hành ngày 10/07/2001; Điều 34.4.LQ.55. Quyền và nghĩa vụ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; Điều 34.4.LQ.62. Lưu ký chứng khoán; Điều 5. Thực hiện dịch vụ trong lĩnh vực đất đai của ; Điều 14.4.NĐ.9.4. Cơ quan đăng ký tàu biển Việt Nam; Điều 14.4.NĐ.9.5. Nhiệm vụ của cơ quan đăng ký tàu biển Việt Nam; Điều 34.4.NĐ.1.169. Đối tượng, phạm vi và nguyên tắc thực hiện đăng ký biện pháp bảo đảm; Điều 1.5.NĐ.3.8. Thẩm quyền giao, công nhận, cho phép trả lại khu vực biển; gia hạn, sửa đổi, bổ sung Quyết định giao khu vực biển; thu hồi khu vực biển của Nghị định 11/2021/NĐ-CP Quy định giao các khu vực biển nhất định cho tổ chức, cá nhân khai thác, sử dụng tài nguyên biển ban hành ngày 10/02/2021; Điều 35.6.NĐ.39.2. Nhiệm vụ và quyền hạn của Nghị định 98/2022/NĐ-CP Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp ban hành ngày 29/11/2022; Điều 9.2.NĐ.4. Các trường hợp đăng ký; Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin; Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai; Điều 9.2.NĐ.38. Trường hợp đăng ký thuộc thẩm quyền của Cục Hàng không Việt Nam; Điều 9.2.NĐ.41. Trường hợp đăng ký thuộc thẩm quyền của Cơ quan đăng ký tàu biển Việt Nam; Điều 9.2.NĐ.44. Trường hợp đăng ký thuộc thẩm quyền của Trung tâm đăng ký giao dịch, tài sản; Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin; Điều 9.2.NĐ.52. Cơ quan có thẩm quyền, người có thẩm quyền trong hoạt động cung cấp thông tin của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin
+
+(Điều 11 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Đăng ký theo trường hợp và theo thẩm quyền quy định tại Điều 4 và Điều 10 Nghị định này; cấp bản sao văn bản chứng nhận đăng ký đối với trường hợp quy định tại điểm a khoản 1 Điều 9 Nghị định này; chỉnh lý thông tin có sai sót trong nội dung đã được đăng ký.
 
-**Chỉ mục:** 11
+2. Cung cấp thông tin về biện pháp bảo đảm.
 
-**Mã phân cấp:** 0900200000000000100001100000000000000000
+3. Từ chối đăng ký, từ chối cung cấp thông tin chỉ trong trường hợp có căn cứ quy định tại Điều 15 và Điều 51 Nghị định này.
 
-**ID:** dk_00011705
+4. Chuyển tài liệu liên quan cho cơ quan có thẩm quyền giải quyết theo quy định của pháp luật trong trường hợp phát hiện tài liệu, chữ ký, con dấu thuộc hồ sơ đăng ký có dấu hiệu giả mạo.
 
----
+5. Hủy đăng ký, khôi phục việc đăng ký đã bị hủy theo quy định tại Điều 21 Nghị định này.
 
+6. Cập nhật, lưu trữ thông tin trong hồ sơ lưu trữ, Cơ sở dữ liệu.
 
-### Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký
+7. Thu, nộp, quản lý và sử dụng phí, giá dịch vụ, nghĩa vụ thanh toán khác khi thực hiện đăng ký, cung cấp thông tin theo quy định của pháp luật về phí, lệ phí, pháp luật về giá, pháp luật khác có liên quan.
+
+8. Giải quyết khiếu nại, tố cáo theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 7. Về thu, nộp, quản lý và sử dụng tiền phí, lệ phí của Thông tư 85/2019/TT-BTC Hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành ngày 29/11/2019; Điều 28. Trách nhiệm của Nhà nước trong việc xây dựng, cung cấp thông tin đất đai của ; Điều 33.3.LQ.4. Danh mục và thẩm quyền quy định phí, lệ phí của Luật 97/2015/QH13 Phí và lệ phí ban hành ngày 25/11/2015; Điều 32.2.LQ.9. Phạm vi và trách nhiệm cung cấp thông tin của Luật 104/2016/QH13 Tiếp cận thông tin ban hành ngày 06/04/2016; Điều 44.5.NĐ.18. Trách nhiệm của cơ quan thực hiện thủ tục hành chính; Điều 44.5.NĐ.20. Trách nhiệm của cán bộ, công chức được phân công thực hiện thủ tục hành chính của Nghị định 63/2010/NĐ-CP Về kiểm soát thủ tục hành chính ban hành ngày 08/06/2010; Điều 15.1.NĐ.4. Thẩm quyền và trách nhiệm cấp bản sao từ sổ gốc của Nghị định 23/2015/NĐ-CP Về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch ban hành ngày 16/02/2015; Điều 22.3.NĐ.7.9. Cơ chế bảo đảm tiền vay của Nghị định 55/2015/NĐ-CP Về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn ban hành ngày 09/06/2015; Điều 14.4.NĐ.9.5. Nhiệm vụ của cơ quan đăng ký tàu biển Việt Nam; Điều 3.3.NĐ.7.21. Trách nhiệm của các cơ quan, tổ chức, cá nhân có liên quan trong việc giải quyết hồ sơ, kết quả bị sai, bị mất, bị thất lạc hoặc bị hư hỏng và trong chậm trả kết quả của Nghị định 61/2018/NĐ-CP Về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính ban hành ngày 23/04/2018; Điều 34.4.NĐ.1.173. Nhiệm vụ, quyền hạn, trách nhiệm của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về hoạt động đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.4. Các trường hợp đăng ký; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.21. Hủy đăng ký; Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin; Điều 2. Nhiệm vụ, quyền hạn của ; Điều 33.3.TT.36.2. Người nộp phí, lệ phí và tổ chức thu phí, lệ phí; Điều 33.3.TT.36.4. Kê khai, thu, nộp phí, lệ phí của tổ chức thu; Điều 33.3.TT.36.5. Quản lý và sử dụng phí của Thông tư 193/2016/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không ban hành ngày 08/11/2016; Điều 33.3.TT.159.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 33.3.TT.159.3. Tổ chức thu phí; Điều 33.3.TT.159.4. Mức thu phí; Điều 33.3.TT.159.5. Kê khai, nộp phí; Điều 33.3.TT.159.6. Quản lý và sử dụng phí; Điều 33.3.TT.159.7. Điều khoản thi hành của Thông tư 61/2023/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực đăng ký giao dịch bảo đảm ban hành ngày 28/09/2023)
+
+Chương II
+
+THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM
+
+Mục 1
+
+THỦ TỤC CHUNG
+
+Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký
+
+(Điều 12 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Phiếu yêu cầu đăng ký phải có chữ ký của người có thẩm quyền (sau đây gọi là chữ ký), con dấu (nếu có) của bên bảo đảm và bên nhận bảo đảm, trừ trường hợp sau đây:
 
-**Chỉ mục:** 12
+a) Hợp đồng bảo đảm hoặc văn bản sửa đổi, bổ sung hợp đồng bảo đảm có công chứng, chứng thực thì chỉ cần có chữ ký, con dấu (nếu có) của bên bảo đảm hoặc bên nhận bảo đảm;
 
-**Mã phân cấp:** 090020000000000020000010000000000000000001200000000000000000
+b) Hợp đồng bảo đảm hoặc văn bản sửa đổi, bổ sung hợp đồng bảo đảm có chỉ định cụ thể người yêu cầu đăng ký thì chỉ cần có chữ ký, con dấu (nếu có) của bên được chỉ định;
 
-**ID:** dk_00011708
+c) Đăng ký cầm cố tài sản, đặt cọc, ký cược hoặc ký quỹ trong trường hợp pháp luật về bảo đảm thực hiện nghĩa vụ có quy định hoặc có thỏa thuận trong hợp đồng bảo đảm thì chỉ cần có chữ ký, con dấu (nếu có) của bên nhận bảo đảm, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo đảm;
 
----
+d) Người yêu cầu đăng ký là Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thì chỉ cần có chữ ký, con dấu (nếu có) của chủ thể này;
 
+đ) Đăng ký thay đổi để thay đổi thông tin về bên nhận bảo đảm hoặc rút bớt tài sản bảo đảm thì chỉ cần có chữ ký, con dấu (nếu có) của bên nhận bảo đảm; đăng ký thay đổi bên nhận bảo đảm thì chỉ cần có chữ ký, con dấu (nếu có) của bên nhận bảo đảm mới, của bên nhận bảo đảm là người thừa kế theo quy định của Bộ luật Dân sự hoặc của bên kế thừa trong trường hợp bên nhận bảo đảm là pháp nhân được tổ chức lại;
 
-### Điều 9.2.NĐ.13. Cách thức nộp hồ sơ đăng ký
+e) Xóa đăng ký theo yêu cầu của bên nhận bảo đảm thì chỉ cần có chữ ký, con dấu (nếu có) của bên nhận bảo đảm;
+
+g) Xóa đăng ký thuộc trường hợp được quy định tại điểm k và điểm l khoản 1 Điều 20 Nghị định này thì chỉ cần có chữ ký, con dấu (nếu có) của bên bảo đảm;
+
+h) Đăng ký thay đổi để rút bớt tài sản bảo đảm hoặc xóa đăng ký theo yêu cầu của bên bảo đảm mà có văn bản có nội dung thể hiện việc bên nhận bảo đảm đồng ý xóa đăng ký hoặc xác nhận về việc hợp đồng bảo đảm đã chấm dứt, đã được thanh lý hoặc xác nhận về việc giải chấp hoặc văn bản khác thể hiện ý chí của bên nhận bảo đảm về việc đồng ý rút bớt tài sản bảo đảm, đồng ý xóa đăng ký thì chỉ cần có chữ ký, con dấu (nếu có) của bên bảo đảm;
+
+i) Đăng ký thay đổi để rút bớt tài sản bảo đảm hoặc xóa đăng ký theo yêu cầu của cơ quan thi hành án dân sự, của Chấp hành viên có thẩm quyền hoặc của cơ quan khác có thẩm quyền, của người khác có thẩm quyền theo quy định của luật thì chỉ cần có chữ ký của người có thẩm quyền của cơ quan thi hành án dân sự, của cơ quan khác có thẩm quyền hoặc của Chấp hành viên, của người khác có thẩm quyền và con dấu của cơ quan này;
+
+k) Đăng ký thay đổi để rút bớt tài sản bảo đảm hoặc xóa đăng ký theo yêu cầu của người nhận chuyển giao hợp pháp tài sản bảo đảm mà có hợp đồng đã có hiệu lực pháp luật về mua bán tài sản đấu giá, chuyển giao khác về quyền sở hữu tài sản bảo đảm hoặc có Văn bản xác nhận kết quả thi hành án của cơ quan thi hành án dân sự có thẩm quyền (sau đây gọi là Văn bản xác nhận kết quả thi hành án) thì chỉ cần có chữ ký, con dấu (nếu có) của người nhận chuyển giao hợp pháp tài sản bảo đảm;
+
+l) Chuyển tiếp đăng ký thế chấp quy định tại điểm b khoản 1, điểm b khoản 2 và khoản 5 Điều 26 Nghị định này mà hợp đồng thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất đã có nội dung về chuyển tiếp đăng ký thế chấp quy định tại khoản 3 và khoản 4 Điều 26 Nghị định này và đã được công chứng, chứng thực trong trường hợp luật quy định thì chỉ cần có chữ ký, con dấu (nếu có) của bên nhận bảo đảm;
+
+m) Đăng ký thông báo xử lý tài sản bảo đảm thì chỉ cần có chữ ký, con dấu (nếu có) của bên nhận bảo đảm.
+
+2. Trường hợp chi nhánh của pháp nhân đứng tên người yêu cầu đăng ký quy định tại khoản 8 Điều 8 Nghị định này thì chữ ký, con dấu (nếu có) của pháp nhân được thay thế bằng chữ ký, con dấu (nếu có) của chi nhánh. Trường hợp pháp nhân thay đổi thông tin về chi nhánh hoặc thay đổi chi nhánh thì chữ ký, con dấu (nếu có) của chi nhánh có thông tin thay đổi hoặc của chi nhánh mới được thay thế cho chữ ký, con dấu (nếu có) của chi nhánh được thay đổi.
+
+3. Trường hợp bảo đảm thực hiện nghĩa vụ bằng tài sản thuộc doanh nghiệp tư nhân thì chữ ký trên Phiếu yêu cầu đăng ký là chữ ký của chủ doanh nghiệp tư nhân, sử dụng con dấu của doanh nghiệp tư nhân (nếu có) nếu kê khai người yêu cầu đăng ký là doanh nghiệp tư nhân.
+
+4. Trường hợp bên bảo đảm hoặc bên nhận bảo đảm gồm nhiều người thì phải có đầy đủ chữ ký, con dấu (nếu có) của các chủ thể này, trừ trường hợp có văn bản thể hiện nội dung về việc một, một số bên bảo đảm hoặc bên nhận bảo đảm có quyền đại diện cho những người còn lại.
+
+5. Trường hợp bảo đảm thực hiện nghĩa vụ của người khác hoặc đồng thời bảo đảm thực hiện nghĩa vụ của bên bảo đảm và của người khác thì Phiếu yêu cầu đăng ký không cần chữ ký, con dấu (nếu có) của người có nghĩa vụ được bảo đảm.
+
+6. Trường hợp Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam hoặc chủ thể khác trở thành bên nhận bảo đảm mới mà thuộc diện không phải đăng ký thay đổi bên nhận bảo đảm quy định tại điểm a khoản 1 Điều 18 Nghị định này là người yêu cầu đăng ký thì chữ ký, con dấu (nếu có) của bên nhận bảo đảm trên Phiếu yêu cầu đăng ký là chữ ký, con dấu (nếu có) của chủ thể này. Trường hợp này, văn bản có căn cứ hoặc có nội dung về xác định bên nhận bảo đảm mới là tài liệu phải có trong hồ sơ đăng ký (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu).
+
+7. Trường hợp người yêu cầu đăng ký là cá nhân không biết chữ hoặc là người khuyết tật không thể ký thì thực hiện điểm chỉ thay cho ký trên Phiếu yêu cầu đăng ký.
+
+8. Trường hợp tổ chức, cá nhân quy định tại các khoản 1, 2, 3, 4, 5, 6 và 7 Điều này thực hiện đăng ký thông qua người đại diện thì chữ ký, con dấu (nếu có) của người đại diện trên Phiếu yêu cầu đăng ký thay thế cho chữ ký, con dấu (nếu có) hoặc điểm chỉ của người được đại diện. Trường hợp đã đăng ký mà có sự thay đổi về người đại diện thì người đại diện mới ký, đóng dấu (nếu có) trên Phiếu yêu cầu đăng ký.
+
+9. Trường hợp hồ sơ đăng ký được nộp qua hệ thống đăng ký trực tuyến thì chữ ký, con dấu quy định tại các khoản 1, 2, 3, 4, 5, 6 và 8 Điều này có thể được thay thế bằng chữ ký điện tử, con dấu điện tử.
+
+Chữ ký điện tử, con dấu điện tử có giá trị pháp lý như chữ ký, con dấu được sử dụng trên văn bản giấy (sau đây gọi là bản giấy).
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.134. Đại diện; Điều 9.1.LQ.136. Đại diện theo pháp luật của cá nhân; Điều 9.1.LQ.137. Đại diện theo pháp luật của pháp nhân; Điều 9.1.LQ.138. Đại diện theo ủy quyền; Điều 9.1.LQ.141. Phạm vi đại diện; Điều 9.1.LQ.298. Đăng ký biện pháp bảo đảm; Điều 9.1.LQ.323. Quyền của bên nhận thế chấp; Điều 9.1.LQ.365. Chuyển giao quyền yêu cầu; Điều 9.1.LQ.368. Chuyển giao quyền yêu cầu có biện pháp bảo đảm thực hiện nghĩa vụ của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 22.3.NĐ.4.13. Quyền và nghĩa vụ của Công ty Quản lý tài sản; Điều 34.4.NĐ.1.170. Hồ sơ, thủ tục thực hiện đăng ký, thay đổi, sửa chữa biện pháp bảo đảm; xóa đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.8. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi; Điều 9.2.NĐ.20. Xóa đăng ký; Điều 9.2.NĐ.26. Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.46. Hồ sơ đăng ký đối với động sản, cây hằng năm, công trình tạm; Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin)
+
+Điều 9.2.NĐ.13. Cách thức nộp hồ sơ đăng ký
+
+(Điều 13 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Hồ sơ đăng ký được nộp theo một trong các cách thức sau đây:
 
-**Chỉ mục:** 13
+a) Qua hệ thống đăng ký trực tuyến;
 
-**Mã phân cấp:** 090020000000000020000010000000000000000001300000000000000000
+b) Nộp bản giấy trực tiếp hoặc gửi qua dịch vụ bưu chính;
 
-**ID:** dk_00011709
+c) Qua thư điện tử.
 
----
+2. Cách thức nộp hồ sơ đăng ký quy định tại điểm a và điểm c khoản 1 Điều này đối với quyền sử dụng đất, tài sản gắn liền với đất, quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển hoặc đối với tàu bay, tàu biển thực hiện theo quy định của pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển, về hàng không hoặc pháp luật về hàng hải.
 
+3. Cách thức nộp hồ sơ đăng ký quy định tại điểm c khoản 1 Điều này đối với trường hợp đăng ký quy định tại Điều 44 Nghị định này được áp dụng đối với người đã được cấp tài khoản đăng ký trực tuyến.
 
-### Điều 9.2.NĐ.14. Tiếp nhận hồ sơ đăng ký
+(Điều này có nội dung liên quan đến Điều 60. Nộp hồ sơ và trả kết quả thực hiện thủ tục hành chính về đất đai của Nghị định 43/2014/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Đất đai ban hành ngày 15/05/2014; Điều 14.5.NĐ.7.5. Thủ tục đăng ký tàu bay mang quốc tịch Việt Nam; Điều 14.5.NĐ.7.6. Thủ tục đăng ký tạm thời tàu bay mang quốc tịch Việt Nam; Điều 14.5.NĐ.7.7. Thủ tục cấp lại giấy chứng nhận đăng ký quốc tịch tàu bay; Điều 14.5.NĐ.7.9. Thủ tục xóa đăng ký quốc tịch tàu bay; Điều 14.4.NĐ.9.9. Thủ tục đăng ký tàu biển không thời hạn; Điều 14.4.NĐ.9.10. Thủ tục đăng ký tàu biển có thời hạn; Điều 14.4.NĐ.9.11. Thủ tục đăng ký tàu biển tạm thời; Điều 14.4.NĐ.9.13. Thủ tục đăng ký tàu biển đang đóng; Điều 14.4.NĐ.9.14. Thủ tục đăng ký tàu biển loại nhỏ; Điều 14.4.NĐ.9.16. Thủ tục cấp lại giấy chứng nhận đăng ký tàu biển; Điều 14.4.NĐ.9.20. Thủ tục xóa đăng ký của Nghị định 171/2016/NĐ-CP Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển ban hành ngày 27/12/2016; Điều 3.3.NĐ.7.16. Cách thức tổ chức, cá nhân nộp hồ sơ, nhận kết quả giải quyết thủ tục hành chính; Điều 3.3.NĐ.7.17. Tiếp nhận hồ sơ thủ tục hành chính của Nghị định 61/2018/NĐ-CP Về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính ban hành ngày 23/04/2018; Điều 34.4.NĐ.1.170. Hồ sơ, thủ tục thực hiện đăng ký, thay đổi, sửa chữa biện pháp bảo đảm; xóa đăng ký biện pháp bảo đảm; Điều 1.5.NĐ.3.26. Hình thức tiếp nhận, trả kết quả giải quyết hồ sơ của Nghị định 11/2021/NĐ-CP Quy định giao các khu vực biển nhất định cho tổ chức, cá nhân khai thác, sử dụng tài nguyên biển ban hành ngày 10/02/2021; Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký; Điều 9.2.NĐ.44. Trường hợp đăng ký thuộc thẩm quyền của Trung tâm đăng ký giao dịch, tài sản; Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.14. Tiếp nhận hồ sơ đăng ký
+
+(Điều 14 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Trường hợp hồ sơ đăng ký được nộp bằng bản giấy mà hợp lệ thì người tiếp nhận ghi vào Sổ tiếp nhận, cấp Giấy tiếp nhận hồ sơ và hẹn trả kết quả.
 
-**Chỉ mục:** 14
+2. Trường hợp hồ sơ đăng ký được nộp qua hệ thống đăng ký trực tuyến, cơ quan đăng ký tiếp nhận yêu cầu, kiểm tra hồ sơ thông qua giao diện trực tuyến. Nếu hồ sơ đăng ký hợp lệ thì phản hồi tự động xác nhận về việc tổ chức, cá nhân đã gửi thành công và thông báo về thời điểm tiếp nhận hồ sơ hoặc thực hiện việc phản hồi này, thông báo này theo cách thức khác quy định tại khoản 2 Điều 17 Nghị định này.
 
-**Mã phân cấp:** 090020000000000020000010000000000000000001400000000000000000
+(Điều này có nội dung liên quan đến Điều 60. Nộp hồ sơ và trả kết quả thực hiện thủ tục hành chính về đất đai của Nghị định 43/2014/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Đất đai ban hành ngày 15/05/2014; Điều 14.5.NĐ.7.5. Thủ tục đăng ký tàu bay mang quốc tịch Việt Nam; Điều 14.5.NĐ.7.6. Thủ tục đăng ký tạm thời tàu bay mang quốc tịch Việt Nam; Điều 14.5.NĐ.7.7. Thủ tục cấp lại giấy chứng nhận đăng ký quốc tịch tàu bay; Điều 14.5.NĐ.7.9. Thủ tục xóa đăng ký quốc tịch tàu bay; Điều 14.4.NĐ.9.9. Thủ tục đăng ký tàu biển không thời hạn; Điều 14.4.NĐ.9.10. Thủ tục đăng ký tàu biển có thời hạn; Điều 14.4.NĐ.9.11. Thủ tục đăng ký tàu biển tạm thời; Điều 14.4.NĐ.9.13. Thủ tục đăng ký tàu biển đang đóng; Điều 14.4.NĐ.9.14. Thủ tục đăng ký tàu biển loại nhỏ; Điều 14.4.NĐ.9.16. Thủ tục cấp lại giấy chứng nhận đăng ký tàu biển; Điều 14.4.NĐ.9.20. Thủ tục xóa đăng ký của Nghị định 171/2016/NĐ-CP Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển ban hành ngày 27/12/2016; Điều 3.3.NĐ.7.16. Cách thức tổ chức, cá nhân nộp hồ sơ, nhận kết quả giải quyết thủ tục hành chính; Điều 3.3.NĐ.7.17. Tiếp nhận hồ sơ thủ tục hành chính của Nghị định 61/2018/NĐ-CP Về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính ban hành ngày 23/04/2018; Điều 34.4.NĐ.1.170. Hồ sơ, thủ tục thực hiện đăng ký, thay đổi, sửa chữa biện pháp bảo đảm; xóa đăng ký biện pháp bảo đảm; Điều 1.5.NĐ.3.26. Hình thức tiếp nhận, trả kết quả giải quyết hồ sơ của Nghị định 11/2021/NĐ-CP Quy định giao các khu vực biển nhất định cho tổ chức, cá nhân khai thác, sử dụng tài nguyên biển ban hành ngày 10/02/2021; Điều 9.2.NĐ.17. Trả kết quả đăng ký)
 
-**ID:** dk_00011710
+Điều 9.2.NĐ.15. Từ chối đăng ký
 
----
-
-
-### Điều 9.2.NĐ.15. Từ chối đăng ký
+(Điều 15 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Từ chối đăng ký được thực hiện khi có một trong các căn cứ sau đây:
 
-**Chỉ mục:** 15
+a) Không thuộc thẩm quyền của cơ quan đăng ký;
 
-**Mã phân cấp:** 090020000000000020000010000000000000000001500000000000000000
+b) Hồ sơ đăng ký không hợp lệ theo quy định tại khoản 5 Điều 3 Nghị định này;
 
-**ID:** dk_00011711
+c) Tài sản không đủ điều kiện dùng để bảo đảm thực hiện nghĩa vụ theo quy định của Luật Đất đai, Luật Nhà ở, luật khác có liên quan. Trường hợp tài sản có tranh chấp thì cơ quan đăng ký chỉ từ chối đăng ký khi đã nhận được văn bản thụ lý hoặc văn bản chứng minh việc thụ lý giải quyết tranh chấp của Tòa án hoặc của cơ quan khác có thẩm quyền;
 
----
+d) Thông tin trong hồ sơ đăng ký không phù hợp với thông tin được lưu giữ tại cơ quan đăng ký, trừ trường hợp quy định tại khoản 8 Điều 25, khoản 1 và khoản 3 Điều 36, Điều 37 Nghị định này;
 
+đ) Thông tin mô tả trên Phiếu yêu cầu đăng ký đối với tài sản quy định tại khoản 3 Điều 5 Nghị định này không phù hợp với thông tin trên Giấy chứng nhận, trừ trường hợp thông tin mô tả trên Phiếu yêu cầu đăng ký phù hợp với thông tin đang được lưu giữ tại cơ quan đăng ký do có việc thành lập bản đồ địa chính mới thay thế tài liệu, số liệu đo đạc đã sử dụng để cấp Giấy chứng nhận mà người sử dụng đất, chủ sở hữu tài sản gắn liền với đất chưa cấp đổi Giấy chứng nhận theo bản đồ địa chính mới;
 
-### Điều 9.2.NĐ.16. Thời hạn giải quyết hồ sơ đăng ký
+e) Thông tin của bên bảo đảm hoặc của bên nhận bảo đảm trong trường hợp đăng ký thông qua hệ thống đăng ký trực tuyến hoặc thông tin của người đại diện trong trường hợp đăng ký quy định tại khoản 2 Điều 24 Nghị định này không phù hợp với thông tin của tài khoản đăng ký trực tuyến được sử dụng;
+
+g) Yêu cầu đăng ký thay đổi hoặc xóa đăng ký đối với thông tin về biện pháp bảo đảm, về thông báo xử lý tài sản bảo đảm không được lưu giữ tại cơ quan đăng ký;
+
+h) Cơ quan đăng ký tự phát hiện tài liệu, chữ ký, con dấu trong hồ sơ đăng ký là giả mạo tài liệu, chữ ký, con dấu của mình hoặc nhận được thông tin kèm xác nhận của cơ quan có thẩm quyền về xác định tài liệu, chữ ký, con dấu trong hồ sơ đăng ký là giả mạo;
+
+i) Trước thời điểm ghi, cập nhật nội dung đăng ký vào Sổ đăng ký hoặc vào Cơ sở dữ liệu, cơ quan đăng ký nhận được văn bản của cơ quan thi hành án dân sự, của Chấp hành viên về việc thông báo kê biên tài sản thi hành án là tài sản bảo đảm hoặc về việc yêu cầu tạm dừng, dừng việc đăng ký đối với tài sản mà bên bảo đảm là người phải thi hành án theo quy định của pháp luật về thi hành án dân sự; nhận được văn bản của cơ quan có thẩm quyền tiến hành tố tụng, của người có thẩm quyền tiến hành tố tụng hoặc của cơ quan khác có thẩm quyền, của người khác có thẩm quyền về việc yêu cầu không thực hiện đăng ký theo quy định của luật.
+
+Quy định tại điểm này không áp dụng trong trường hợp Nghị quyết của Quốc hội về xử lý nợ xấu của các tổ chức tín dụng, luật có liên quan quy định khác;
+
+k) Người yêu cầu đăng ký không nộp phí đăng ký, trừ trường hợp pháp luật về phí, lệ phí, pháp luật khác có liên quan quy định khác.
+
+2. Cơ quan đăng ký chỉ được từ chối đăng ký khi có căn cứ quy định tại khoản 1 Điều này và phải chịu trách nhiệm theo quy định của pháp luật có liên quan trong trường hợp từ chối đăng ký không có căn cứ.
+
+Trường hợp có căn cứ từ chối đăng ký thì cơ quan đăng ký thực hiện việc từ chối trong ngày làm việc nhận được hồ sơ hoặc trong ngày làm việc nhận được văn bản của cơ quan có thẩm quyền, người có thẩm quyền quy định tại các điểm c, h và i khoản 1 Điều này, nếu thời điểm nhận sau 15 giờ cùng ngày thì có thể thực hiện trong ngày làm việc tiếp theo.
+
+Việc từ chối phải lập thành văn bản có nêu rõ căn cứ từ chối đăng ký. Trường hợp từ chối đăng ký theo căn cứ quy định tại các điểm b, d hoặc đ khoản 1 Điều này thì trong văn bản từ chối phải có hướng dẫn về nội dung cần được hoàn thiện, cần được bổ sung.
+
+3. Trường hợp đã đăng ký mà cơ quan đăng ký mới nhận được văn bản của cơ quan có thẩm quyền, người có thẩm quyền quy định tại điểm i khoản 1 Điều này thì cơ quan đăng ký thông báo bằng văn bản về việc đã thực hiện đăng ký cho cơ quan hoặc người có văn bản yêu cầu.
+
+4. Trường hợp người yêu cầu đăng ký khiếu nại văn bản, quyết định của cơ quan có thẩm quyền không phải là cơ quan đăng ký hoặc của người có thẩm quyền không phải là người có thẩm quyền của cơ quan đăng ký quy định tại các điểm c, h và i khoản 1 Điều này thì thực hiện theo quy định của pháp luật về tố tụng, về thi hành án dân sự, pháp luật khác có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 30.2.LQ.69. Tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản của Luật 26/2008/QH12 Thi hành án dân sự ban hành ngày 14/11/2008; Điều 188. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, thế chấp quyền sử dụng đất; góp vốn bằng quyền sử dụng đất; Điều 9.2.NĐ.3. Giải thích từ ngữ; Điều 9.2.NĐ.5. Nguyên tắc đăng ký, cung cấp thông tin; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin; Điều 9.2.NĐ.21. Hủy đăng ký; Điều 9.2.NĐ.24. Thủ tục đăng ký trực tuyến; Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất; Điều 9.2.NĐ.37. Giải quyết đăng ký trong trường hợp thông tin về tài sản bảo đảm trong hợp đồng bảo đảm bao gồm tài sản khác ngoài quyền sử dụng đất, tài sản gắn liền với đất; quyền sử dụng đất, tài sản gắn liền với đất là tài sản chung của vợ chồng, của các thành viên hộ gia đình, của nhóm người sử dụng đất hoặc thuộc doanh nghiệp tư nhân; Điều 9.2.NĐ.40. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với tàu bay; Điều 9.2.NĐ.43. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đốivới tàu biển; Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm; Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin)
+
+Điều 9.2.NĐ.16. Thời hạn giải quyết hồ sơ đăng ký
+
+(Điều 16 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Cơ quan đăng ký có trách nhiệm giải quyết hồ sơ đăng ký trong ngày làm việc nhận được hồ sơ hợp lệ; nếu thời điểm nhận hồ sơ sau 15 giờ cùng ngày thì có thể hoàn thành việc đăng ký trong ngày làm việc tiếp theo. Trường hợp cơ quan đăng ký có lý do chính đáng phải kéo dài thời gian giải quyết hồ sơ đăng ký thì thời hạn giải quyết hồ sơ không quá 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Trong trường hợp này, cơ quan đăng ký phải thông báo có nêu rõ lý do cho người yêu cầu đăng ký bằng bản giấy hoặc văn bản điện tử (sau đây gọi là bản điện tử) hoặc bằng hình thức khác thuận lợi cho người yêu cầu đăng ký và phù hợp với điều kiện của cơ quan đăng ký ngay khi có lý do chính đáng.
 
-**Chỉ mục:** 16
+2. Trường hợp hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất được nộp thông qua Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính, Trung tâm Phục vụ hành chính công cấp tỉnh (sau đây gọi là Bộ phận Một cửa), Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi là Ủy ban nhân dân cấp xã) thì thời hạn giải quyết hồ sơ được tính từ thời điểm Văn phòng đăng ký đất đai nhận được hồ sơ đăng ký hợp lệ.
 
-**Mã phân cấp:** 090020000000000020000010000000000000000001600000000000000000
+3. Thời gian không tính vào thời hạn quy định tại khoản 1 Điều này bao gồm:
 
-**ID:** dk_00011712
+a) Thời gian xảy ra sự kiện thiên tai, dịch bệnh, hỏa hoạn, sự cố hệ thống đăng ký trực tuyến, hỏng mạng lưới điện, mạng internet hoặc xảy ra sự kiện bất khả kháng khác theo văn bản hoặc theo quyết định của cơ quan có thẩm quyền dẫn đến cơ quan đăng ký không thể thực hiện được việc đăng ký theo thủ tục và thời hạn quy định tại Nghị định này. Trong trường hợp này, cơ quan đăng ký phải thông báo ngay trong ngày làm việc xảy ra sự kiện hoặc ngay trong ngày làm việc nhận được văn bản, quyết định của cơ quan có thẩm quyền theo hình thức niêm yết tại trụ sở cơ quan đăng ký và đăng tải trên trang thông tin điện tử của cơ quan quản lý nhà nước, của cơ quan đăng ký (nếu có) hoặc hình thức khác thuận lợi cho người yêu cầu đăng ký và phù hợp với điều kiện của cơ quan đăng ký;
 
----
+b) Thời gian cơ quan đăng ký thực hiện thủ tục quy định tại khoản 2 Điều 35 Nghị định này.
 
+(Điều này có nội dung liên quan đến Điều 61. Thời gian thực hiện thủ tục hành chính về đất đai; Điều 34.4.NĐ.1.170. Hồ sơ, thủ tục thực hiện đăng ký, thay đổi, sửa chữa biện pháp bảo đảm; xóa đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký; Điều 9.2.NĐ.24. Thủ tục đăng ký trực tuyến; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin)
 
-### Điều 9.2.NĐ.17. Trả kết quả đăng ký
+Điều 9.2.NĐ.17. Trả kết quả đăng ký
+
+(Điều 17 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Trường hợp đăng ký tại Trung tâm đăng ký giao dịch, tài sản thì kết quả đăng ký được trả bằng bản điện tử hoặc bản giấy theo đề nghị của người yêu cầu đăng ký. Việc cấp bản sao kết quả đăng ký thực hiện theo quy định tại Điều 22 Nghị định này.
 
-**Chỉ mục:** 17
+Việc trả kết quả đăng ký, bản sao kết quả đăng ký bằng bản giấy quy định tại khoản này và Điều 22 Nghị định này có thể thực hiện trực tiếp tại cơ quan đăng ký, qua dịch vụ bưu chính hoặc qua cách thức khác do cơ quan đăng ký và người yêu cầu đăng ký thỏa thuận phù hợp với quy định của pháp luật.
 
-**Mã phân cấp:** 090020000000000020000010000000000000000001700000000000000000
+2. Trường hợp không thuộc quy định tại khoản 1 Điều này, cơ quan đăng ký trả kết quả đăng ký theo một trong các cách thức sau đây:
 
-**ID:** dk_00011713
+a) Trực tiếp tại cơ quan đăng ký.
 
----
+Trường hợp nộp hồ sơ thông qua Bộ phận Một cửa hoặc Ủy ban nhân dân cấp xã thì Bộ phận Một cửa hoặc Ủy ban nhân dân cấp xã trả kết quả cho người yêu cầu đăng ký;
 
+b) Qua dịch vụ bưu chính;
 
-### Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi
+c) Qua cách thức điện tử trong trường hợp pháp luật có quy định; cách thức khác do cơ quan đăng ký và người yêu cầu đăng ký thỏa thuận phù hợp với quy định của pháp luật.
+
+3. Trường hợp thành phần hồ sơ đăng ký có bản gốc hoặc bản chính Giấy chứng nhận thì cơ quan đăng ký trả Giấy chứng nhận này cho người yêu cầu đăng ký cùng với kết quả đăng ký.
+
+4. Trường hợp kết quả đăng ký được trả bằng bản điện tử thì kết quả bằng bản điện tử có giá trị pháp lý như kết quả bằng bản giấy.
+
+(Điều này có nội dung liên quan đến Điều 60. Nộp hồ sơ và trả kết quả thực hiện thủ tục hành chính về đất đai của Nghị định 43/2014/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Đất đai ban hành ngày 15/05/2014; Điều 14.5.NĐ.7.5. Thủ tục đăng ký tàu bay mang quốc tịch Việt Nam; Điều 14.5.NĐ.7.6. Thủ tục đăng ký tạm thời tàu bay mang quốc tịch Việt Nam; Điều 14.5.NĐ.7.7. Thủ tục cấp lại giấy chứng nhận đăng ký quốc tịch tàu bay; Điều 14.5.NĐ.7.9. Thủ tục xóa đăng ký quốc tịch tàu bay; Điều 14.4.NĐ.9.9. Thủ tục đăng ký tàu biển không thời hạn; Điều 14.4.NĐ.9.10. Thủ tục đăng ký tàu biển có thời hạn; Điều 14.4.NĐ.9.11. Thủ tục đăng ký tàu biển tạm thời; Điều 14.4.NĐ.9.13. Thủ tục đăng ký tàu biển đang đóng; Điều 14.4.NĐ.9.14. Thủ tục đăng ký tàu biển loại nhỏ; Điều 14.4.NĐ.9.16. Thủ tục cấp lại giấy chứng nhận đăng ký tàu biển; Điều 14.4.NĐ.9.20. Thủ tục xóa đăng ký của Nghị định 171/2016/NĐ-CP Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển ban hành ngày 27/12/2016; Điều 3.3.NĐ.7.20. Trả hồ sơ, kết quả giải quyết thủ tục hành chính của Nghị định 61/2018/NĐ-CP Về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính ban hành ngày 23/04/2018; Điều 34.4.NĐ.1.170. Hồ sơ, thủ tục thực hiện đăng ký, thay đổi, sửa chữa biện pháp bảo đảm; xóa đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.14. Tiếp nhận hồ sơ đăng ký; Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký; Điều 9.2.NĐ.40. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với tàu bay; Điều 9.2.NĐ.43. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đốivới tàu biển; Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm; Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin)
+
+Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi
+
+(Điều 18 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Người yêu cầu đăng ký nộp hồ sơ đăng ký thay đổi khi có một trong các căn cứ sau đây:
 
-**Chỉ mục:** 18
+a) Thay đổi bên bảo đảm hoặc bên nhận bảo đảm do được rút bớt, được bổ sung, được thay thế, được kế thừa do pháp nhân được tổ chức lại, được thừa kế theo quy định của Bộ luật Dân sự hoặc được xác lập quyền theo quy định của luật, trừ trường hợp pháp luật về tổ chức, hoạt động của Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam hoặc chủ thể khác mà pháp luật khác có liên quan quy định về việc không phải đăng ký thay đổi bên nhận bảo đảm; thay đổi tên hoặc họ, tên của bên bảo đảm, thay đổi tên hoặc họ, tên của bên nhận bảo đảm;
 
-**Mã phân cấp:** 090020000000000020000010000000000000000001800000000000000000
+b) Bổ sung việc đăng ký đối với tài sản bảo đảm đã được thỏa thuận trong hợp đồng bảo đảm nhưng nội dung đã được đăng ký trước đó không bao gồm tài sản này;
 
-**ID:** dk_00011714
+c) Bổ sung tài sản mới, tài sản được thay thế mà tài sản này trở thành tài sản bảo đảm theo thỏa thuận trong văn bản thỏa thuận sửa đổi, bổ sung hợp đồng bảo đảm hoặc theo quy định của pháp luật và nội dung đã được đăng ký trước đó không bao gồm tài sản này;
 
----
+d) Rút bớt tài sản bảo đảm;
 
+đ) Tài sản bảo đảm là tài sản hình thành trong tương lai đã hình thành thuộc trường hợp được cấp giấy chứng nhận quyền sở hữu theo quy định của pháp luật;
 
-### Điều 9.2.NĐ.19. Chỉnh lý thông tin có sai sót trong nội dung đã được đăng ký
+e) Chỉnh lý thông tin có sai sót trong nội dung đã được kê khai trên Phiếu yêu cầu đăng ký do lỗi của người yêu cầu đăng ký;
+
+g) Bổ sung nghĩa vụ được bảo đảm trong trường hợp hợp đồng bảo đảm ban đầu không có nội dung về việc bảo đảm cho nghĩa vụ trong tương lai;
+
+h) Trường hợp khác theo yêu cầu của người yêu cầu đăng ký để thay đổi thông tin đã được kê khai trên Phiếu yêu cầu đăng ký.
+
+2. Trường hợp thay đổi bên bảo đảm hoặc bên nhận bảo đảm quy định tại điểm a khoản 1 Điều này do chuyển giao quyền đòi nợ, khoản phải thu, quyền yêu cầu thanh toán khác hoặc chuyển giao nghĩa vụ dân sự khác (sau đây gọi là chuyển giao quyền đòi nợ, chuyển giao nghĩa vụ) thì việc công chứng, chứng thực văn bản chuyển giao quyền đòi nợ, chuyển giao nghĩa vụ do bên chuyển giao và bên nhận chuyển giao thỏa thuận.
+
+3. Trường hợp thay đổi bên nhận bảo đảm quy định tại điểm a khoản 1 và khoản 2 Điều này liên quan đến nhiều biện pháp bảo đảm đã được đăng ký mà có cùng một bên nhận bảo đảm thì người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thay đổi và 01 Danh mục văn bản được kê khai theo Mẫu số 01đ hoặc Mẫu số 02đ tại Phụ lục tương ứng với biện pháp bảo đảm được đăng ký thay đổi.
+
+Trường hợp thay đổi bên bảo đảm, bên nhận bảo đảm do chuyển giao một phần quyền đòi nợ, chuyển giao một phần nghĩa vụ thì người yêu cầu đăng ký thực hiện đăng ký thay đổi bên bảo đảm, bên nhận bảo đảm trong phạm vi phần quyền đòi nợ, phần nghĩa vụ được chuyển giao.
+
+4. Trường hợp có căn cứ quy định tại các điểm b, c và g khoản 1 Điều này mà người yêu cầu đăng ký có đề nghị được đăng ký biện pháp bảo đảm mới thay cho việc đăng ký thay đổi thì cơ quan đăng ký thực hiện việc đăng ký theo yêu cầu.
+
+5. Cơ quan đăng ký, cơ quan, tổ chức khác có thẩm quyền không được yêu cầu đăng ký thay đổi hoặc yêu cầu xóa đăng ký đối với nội dung đã được đăng ký không thuộc phạm vi đăng ký thay đổi theo căn cứ quy định tại khoản 1 Điều này hoặc không thuộc phần quyền đòi nợ, phần nghĩa vụ được chuyển giao quy định tại khoản 3 Điều này.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 22.3.NĐ.4.13. Quyền và nghĩa vụ của Công ty Quản lý tài sản; Điều 9.3.NĐ.21. Biến động về tài sản bảo đảm; Điều 9.3.NĐ.28. Thay đổi bên bảo đảm, bên nhận bảo đảm của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký; Điều 9.2.NĐ.20. Xóa đăng ký; Điều 9.2.NĐ.32. Hồ sơ đăng ký thay đổi đối với quyền sử dụng đất, tài sản gắn liền với đất; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.19. Chỉnh lý thông tin có sai sót trong nội dung đã được đăng ký
+
+(Điều 19 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 Trường hợp thông tin trong nội dung đã được đăng ký không phù hợp với nội dung được kê khai trên Phiếu yêu cầu đăng ký do lỗi của cơ quan đăng ký thì cơ quan này có trách nhiệm chỉnh lý ngay khi phát hiện có thông tin sai sót để phù hợp với Phiếu yêu cầu đăng ký, đồng thời thông báo việc chỉnh lý bằng văn bản theo Mẫu số 07a, Mẫu số 07d, Mẫu số 10b hoặc Mẫu số 10c tại Phụ lục cho người yêu cầu đăng ký. Kết quả chỉnh lý không làm thay đổi hoặc không làm chấm dứt hiệu lực của đăng ký.
 
-**Chỉ mục:** 19
+Trường hợp chỉnh lý thông tin có sai sót trong nội dung đã được đăng ký do lỗi của người yêu cầu đăng ký thì việc chỉnh lý thông tin này được thực hiện theo thủ tục đăng ký thay đổi quy định tại Nghị định này.
 
-**Mã phân cấp:** 090020000000000020000010000000000000000001900000000000000000
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
 
-**ID:** dk_00011715
+(Điều này có nội dung liên quan đến Điều 86. Thủ tục đính chính Giấy chứng nhận, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng đã cấp; Điều 3.3.NĐ.7.21. Trách nhiệm của các cơ quan, tổ chức, cá nhân có liên quan trong việc giải quyết hồ sơ, kết quả bị sai, bị mất, bị thất lạc hoặc bị hư hỏng và trong chậm trả kết quả của Nghị định 61/2018/NĐ-CP Về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính ban hành ngày 23/04/2018)
 
----
+Điều 9.2.NĐ.20. Xóa đăng ký
 
-
-### Điều 9.2.NĐ.20. Xóa đăng ký
+(Điều 20 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Người yêu cầu đăng ký nộp hồ sơ xóa đăng ký khi thuộc một trong các trường hợp sau đây:
 
-**Chỉ mục:** 20
+a) Theo thỏa thuận giữa bên bảo đảm và bên nhận bảo đảm;
 
-**Mã phân cấp:** 090020000000000020000010000000000000000002000000000000000000
+b) Toàn bộ nghĩa vụ được bảo đảm bị chấm dứt;
 
-**ID:** dk_00011716
+c) Toàn bộ nội dung hoặc một phần nội dung hợp đồng bảo đảm bị hủy bỏ mà nội dung bị hủy bỏ có biện pháp bảo đảm đã được đăng ký;
 
----
+d) Biện pháp bảo đảm đã được đăng ký được thay thế bằng biện pháp bảo đảm khác theo thỏa thuận giữa bên bảo đảm và bên nhận bảo đảm;
 
+đ) Tài sản bảo đảm không còn do được góp vốn vào pháp nhân thương mại hoặc pháp nhân phi thương mại là doanh nghiệp xã hội; được thay thế, chuyển nhượng, chuyển giao, hợp nhất, sáp nhập, trộn lẫn; được chế biến dưới hình thức lắp ráp, chế tạo hoặc hình thức khác; bị thu hồi, tiêu hủy, tổn thất toàn bộ, phá dỡ, tịch thu hoặc thuộc trường hợp khác theo quy định của Bộ luật Dân sự, luật khác có liên quan.
 
-### Điều 9.2.NĐ.21. Hủy đăng ký
+Tài sản bảo đảm không còn thuộc trường hợp quy định tại điểm này mà có tài sản mới phát sinh hoặc có tài sản mới thay thế và tài sản này được dùng để bảo đảm thực hiện nghĩa vụ theo thỏa thuận trong hợp đồng bảo đảm hoặc theo quy định của pháp luật thì không thực hiện xóa đăng ký mà thực hiện đăng ký thay đổi theo trường hợp quy định tại các điểm b, c, d và đ khoản 1 Điều 18 Nghị định này;
+
+e) Tài sản bảo đảm đã được xử lý xong bởi bên nhận bảo đảm theo quy định của pháp luật về bảo đảm thực hiện nghĩa vụ hoặc đã được xử lý xong bởi cơ quan thi hành án dân sự theo quy định của pháp luật về thi hành án dân sự;
+
+g) Tài sản gắn liền với đất thuê trả tiền hàng năm đang là tài sản bảo đảm nhưng Nhà nước thu hồi đất mà không bồi thường về tài sản gắn liền với đất.
+
+Trường hợp tài sản thuộc điểm này mà có tài sản mới phát sinh hoặc có tài sản mới thay thế, được trao đổi do Nhà nước bồi thường về tài sản gắn liền với đất thì thực hiện đăng ký theo quy định tại điểm đ khoản này;
+
+h) Tài sản bảo đảm là tàu bay không còn đăng ký quốc tịch Việt Nam;
+
+i) Tài sản bảo đảm là cây hằng năm được thu hoạch, là công trình tạm bị phá dỡ mà nội dung đã được đăng ký không bao gồm hoa lợi hoặc tài sản khác có được từ việc thu hoạch cây hằng năm hoặc có được từ phá dỡ công trình tạm;
+
+k) Bên nhận thế chấp quyền sử dụng đất, tài sản gắn liền với đất của cá nhân, hộ gia đình sử dụng đất là tổ chức kinh tế không phải là tổ chức tín dụng trở thành doanh nghiệp có vốn đầu tư nước ngoài, là công dân Việt Nam trở thành công dân nước ngoài và không chuyển giao quyền nhận bảo đảm cho tổ chức, cá nhân khác có đủ điều kiện theo quy định của pháp luật Cộng hòa xã hội chủ nghĩa Việt Nam, trừ trường hợp Luật Đất đai, Luật Nhà ở, luật khác có liên quan quy định khác;
+
+l) Bên nhận bảo đảm là pháp nhân bị giải thể theo quy định của pháp luật;
+
+m) Bản án, quyết định có hiệu lực pháp luật của Tòa án có nội dung về việc yêu cầu cơ quan đăng ký thực hiện xóa đăng ký;
+
+n) Đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất đã được chuyển tiếp sang đăng ký thế chấp nhà ở, thế chấp tài sản khác gắn liền với đất quy định tại điểm b khoản 1, điểm b khoản 2 và khoản 5 Điều 26 Nghị định này.
+
+2. Trường hợp xóa đăng ký quy định tại điểm m khoản 1 Điều này mà không có người yêu cầu xóa đăng ký thì căn cứ vào nội dung bản án, quyết định của Tòa án, ngay trong ngày làm việc nhận được văn bản này, cơ quan đăng ký thực hiện ghi, cập nhật nội dung xóa đăng ký vào Sổ đăng ký hoặc vào Cơ sở dữ liệu.
+
+Chậm nhất 01 ngày làm việc kể từ ngày xóa đăng ký, cơ quan đăng ký thông báo bằng văn bản về việc xóa đăng ký theo Mẫu số 07a, Mẫu số 07d, Mẫu số 10b hoặc Mẫu số 10c tại Phụ lục cho Tòa án đã ban hành bản án, quyết định và cho bên bảo đảm, bên nhận bảo đảm, người khác đang giữ Giấy chứng nhận (nếu có); trong văn bản thông báo nêu rõ căn cứ xóa đăng ký, thời điểm chấm dứt hiệu lực của đăng ký.
+
+Trường hợp xóa đăng ký tại Văn phòng đăng ký đất đai thì trong văn bản thông báo phải thể hiện nội dung yêu cầu người giữ Giấy chứng nhận nộp lại giấy này để Văn phòng đăng ký đất đai ghi trên Giấy chứng nhận nội dung xóa đăng ký. Trường hợp Giấy chứng nhận không được nộp lại thì việc xóa đăng ký vẫn có hiệu lực pháp luật kể từ thời điểm Văn phòng đăng ký đất đai ghi, cập nhật nội dung được xóa vào Sổ đăng ký.
+
+Trường hợp xóa đăng ký quy định tại điểm m khoản 1 Điều này theo yêu cầu của người yêu cầu xóa đăng ký thì bản án, quyết định có hiệu lực của Tòa án là tài liệu phải có trong Hồ sơ đăng ký (01 bản chính hoặc 01 bản sao có chứng thực).
+
+3. Trường hợp xóa đăng ký quy định tại điểm n khoản 1 Điều này thì ngay trong ngày làm việc nhận được giấy tờ, tài liệu quy định tại điểm c khoản 5 Điều 35 Nghị định này, Trung tâm đăng ký giao dịch, tài sản chủ động xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán tài sản khác gắn liền với đất.
+
+Trường hợp đăng ký quy định tại điểm a khoản 2 Điều 6 Nghị định này thì ngay trong ngày nhận được kết quả đăng ký biện pháp bảo đảm bằng chứng khoán đã đăng ký tập trung, Trung tâm đăng ký giao dịch, tài sản chủ động xóa đăng ký biện pháp bảo đảm bằng chứng khoán chưa đăng ký tập trung.
+
+4. Trường hợp biện pháp bảo đảm đã được đăng ký mà tài sản bảo đảm được dùng để bảo đảm thực hiện nghĩa vụ khác thì khi đăng ký đối với nghĩa vụ mới, cơ quan đăng ký không được yêu cầu xóa đăng ký đối với biện pháp bảo đảm đã được đăng ký trước đó.
+
+5. Trường hợp xóa đăng ký liên quan đến nhiều biện pháp bảo đảm đã được đăng ký mà có cùng một bên nhận bảo đảm thì người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký kèm theo 01 Danh mục văn bản được kê khai theo Mẫu số 01đ hoặc Mẫu số 02đ tại Phụ lục tương ứng với biện pháp bảo đảm được xóa đăng ký.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 14.5.LQ.14. Xóa đăng ký quốc tịch tàu bay; Điều 39.13.LQ.126. Xử lý tang vật, phương tiện, giấy phép, chứng chỉ hành nghề bị tạm giữ theo thủ tục hành chính của Luật 15/2012/QH13 Xử lý vi phạm hành chính ban hành ngày 20/06/2012; Điều 9.3.NĐ.29. Quan hệ giữa hợp đồng bảo đảm với hợp đồng có nghĩa vụ được bảo đảm của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 39.13.NĐ.93.23. Xử lý tang vật, phương tiện bị chiếm đoạt, sử dụng trái phép để vi phạm hành chính thuộc trường hợp bị tịch thu của Nghị định 118/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính ban hành ngày 23/12/2021; Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký; Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi; Điều 9.2.NĐ.26. Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.33. Hồ sơ xóa đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.39. Hồ sơ đăng ký đối với tàu bay; Điều 9.2.NĐ.42. Hồ sơ đăng ký đối với tàu biển; Điều 9.2.NĐ.46. Hồ sơ đăng ký đối với động sản, cây hằng năm, công trình tạm của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.21. Hủy đăng ký
+
+(Điều 21 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Việc hủy đăng ký được thực hiện trong trường hợp sau đây:
 
-**Chỉ mục:** 21
+a) Biện pháp bảo đảm đã được đăng ký mà cơ quan đăng ký nhận được bản án, quyết định của Tòa án có hiệu lực pháp luật có quyết định về việc đăng ký phải bị hủy toàn bộ hoặc một phần;
 
-**Mã phân cấp:** 090020000000000020000010000000000000000002100000000000000000
+b) Biện pháp bảo đảm đã được đăng ký mà cơ quan đăng ký phát hiện thuộc trường hợp từ chối đăng ký quy định tại điểm a hoặc điểm h khoản 1 Điều 15 Nghị định này. Trường hợp quy định tại điểm h khoản 1 Điều 15 Nghị định này thì cơ quan đăng ký thực hiện việc hủy đối với toàn bộ nội dung đã được đăng ký;
 
-**ID:** dk_00011717
+c) Xử lý đăng ký trùng lặp quy định tại Điều 49 Nghị định này.
 
----
+2. Ngay trong ngày làm việc có căn cứ quy định tại khoản 1 Điều này, cơ quan đăng ký thực hiện:
 
+a) Ghi, cập nhật nội dung hủy đăng ký vào Sổ đăng ký hoặc vào Cơ sở dữ liệu;
 
-### Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký
+b) Thông báo bằng văn bản về việc hủy đăng ký theo Mẫu số 07a, Mẫu số 07d, Mẫu số 10b hoặc Mẫu số 10c tại Phụ lục cho Tòa án quy định tại điểm a khoản 1 Điều này và cho bên bảo đảm, bên nhận bảo đảm, người khác đang giữ Giấy chứng nhận (nếu có). Văn bản thông báo phải nêu rõ căn cứ hủy đăng ký và việc không công nhận kết quả đăng ký trên văn bản chứng nhận đăng ký đã cấp (nếu có) hoặc trên Phiếu yêu cầu đăng ký có chứng nhận của cơ quan đăng ký.
+
+Trường hợp hủy đăng ký tại Văn phòng đăng ký đất đai thì văn bản thông báo phải thể hiện nội dung yêu cầu người đang giữ Giấy chứng nhận nộp lại giấy này để Văn phòng đăng ký đất đai ghi trên Giấy chứng nhận nội dung đăng ký đã bị hủy. Trường hợp Giấy chứng nhận không được nộp lại thì việc hủy đăng ký vẫn có hiệu lực.
+
+3. Trường hợp việc đăng ký đã bị hủy theo quy định tại khoản 2 Điều này mà cơ quan đăng ký nhận được bản án hoặc quyết định có hiệu lực pháp luật của Tòa án, của cơ quan khác có thẩm quyền về việc khôi phục lại kết quả đăng ký đã bị hủy thì cơ quan đăng ký ghi, cập nhật lại nội dung đăng ký vào Sổ đăng ký hoặc vào Cơ sở dữ liệu.
+
+Trường hợp khôi phục việc đăng ký đã bị hủy tại Văn phòng đăng ký đất đai thì cơ quan này thông báo bằng văn bản cho người đang giữ Giấy chứng nhận nộp lại giấy này để Văn phòng đăng ký đất đai ghi trên Giấy chứng nhận về kết quả đăng ký được khôi phục. Trường hợp Giấy chứng nhận không được nộp lại thì việc khôi phục việc đăng ký đã bị hủy vẫn có hiệu lực.
+
+Trường hợp thực hiện việc hủy đăng ký theo quy định tại khoản 2 Điều này mà nội dung bị hủy chưa được ghi trên Giấy chứng nhận thì sau khi việc đăng ký đã bị hủy được khôi phục, Văn phòng đăng ký đất đai thông báo bằng văn bản cho người đang giữ Giấy chứng nhận biết về việc kết quả đăng ký ghi trên Giấy chứng nhận không bị thay đổi hoặc không bị chấm dứt hiệu lực của đăng ký.
+
+4. Trường hợp tài sản bảo đảm là tàu bay mà có căn cứ quy định tại điểm a khoản 1 Điều này thì thực hiện xóa đăng ký theo quy định của Luật Hàng không dân dụng Việt Nam.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.401. Hiệu lực của hợp đồng của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.49. Xử lý đối với đăng ký trùng lặp của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký
+
+(Điều 22 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Người yêu cầu đăng ký quy định tại các khoản 1, 2, 3, 4 hoặc 5 Điều 8 Nghị định này có quyền đề nghị cơ quan đăng ký đã cấp văn bản chứng nhận đăng ký thực hiện cấp bản sao văn bản chứng nhận này theo Mẫu số 08d, Mẫu số 11b hoặc Mẫu số 11c tại Phụ lục.
 
-**Chỉ mục:** 22
+2. Việc yêu cầu cấp bản sao văn bản chứng nhận đăng ký được thực hiện theo cách thức quy định tại Điều 13 Nghị định này.
 
-**Mã phân cấp:** 090020000000000020000010000000000000000002200000000000000000
+3. Thời hạn cấp bản sao văn bản chứng nhận đăng ký áp dụng quy định tại khoản 1 và khoản 3 Điều 16 Nghị định này; việc trả bản sao được thực hiện theo cách thức quy định tại Điều 17 Nghị định này.
 
-**ID:** dk_00011718
+Bản sao văn bản chứng nhận đăng ký bằng bản điện tử có giá trị pháp lý như bản giấy và có giá trị pháp lý như bản chính.
 
----
+4. Trường hợp người yêu cầu đăng ký có đề nghị Trung tâm đăng ký giao dịch, tài sản gửi bản sao văn bản chứng nhận đăng ký kèm theo Thông báo về việc đăng ký thế chấp hoặc về việc đăng ký thay đổi hoặc về việc xóa đăng ký đối với phương tiện giao thông cơ giới đường bộ, phương tiện thủy nội địa, phương tiện giao thông đường sắt, tàu cá, động sản khác đến cơ quan đăng ký quyền sở hữu, đăng ký quyền sử dụng hoặc đăng ký quyền lưu hành tài sản thì Trung tâm đăng ký giao dịch, tài sản có trách nhiệm gửi giấy tờ, tài liệu này đến cơ quan liên quan.
 
+Văn bản quy định tại khoản này có thể được cấp bằng bản giấy hoặc bản điện tử theo yêu cầu. Trường hợp bằng bản điện tử thì được kết nối, chia sẻ theo quy định tại khoản 4 Điều 53 và khoản 1 Điều 58 Nghị định này.
 
-### Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến
+Thông báo về việc đăng ký thế chấp hoặc về việc đăng ký thay đổi hoặc về việc xóa đăng ký thực hiện theo Mẫu số 12d tại Phụ lục.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 15.1.NĐ.2. Giải thích từ ngữ; Điều 15.1.NĐ.3. Giá trị pháp lý của bản sao được cấp từ sổ gốc, bản sao được chứng thực từ bản chính, chữ ký được chứng thực và hợp đồng, giao dịch được chứng thực; Điều 15.1.NĐ.4. Thẩm quyền và trách nhiệm cấp bản sao từ sổ gốc; Điều 15.1.NĐ.7. Thời hạn thực hiện yêu cầu chứng thực; Điều 15.1.NĐ.16. Cá nhân, tổ chức có quyền yêu cầu cấp bản sao từ sổ gốc của Nghị định 23/2015/NĐ-CP Về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch ban hành ngày 16/02/2015; Điều 3.4.NĐ.5.10. Yêu cầu cấp bản sao điện tử có giá trị pháp lý của Nghị định 45/2020/NĐ-CP Về thực hiện thủ tục hành chính trên môi trường điện tử ban hành ngày 08/04/2020; Điều 3.3.NĐ.9.4. Giá trị pháp lý của dữ liệu được chia sẻ; Điều 3.3.NĐ.9.5. Nguyên tắc chung về quản lý, kết nối và chia sẻ dữ liệu; Điều 3.3.NĐ.9.6. Thực hiện kết nối, chia sẻ dữ liệu; Điều 3.3.NĐ.9.7. Yêu cầu trong việc quản lý, kết nối, chia sẻ dữ liệu của Nghị định 47/2020/NĐ-CP Quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước ban hành ngày 09/04/2020; Điều 9.2.NĐ.8. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.13. Cách thức nộp hồ sơ đăng ký; Điều 9.2.NĐ.16. Thời hạn giải quyết hồ sơ đăng ký; Điều 9.2.NĐ.17. Trả kết quả đăng ký; Điều 9.2.NĐ.53. Nội dung cung cấp thông tin, hình thức, thời hạn cung cấp thông tin; Điều 9.2.NĐ.58. Tổ chức thực hiện của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến
+
+(Điều 23 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Tổ chức, cá nhân thực hiện đăng ký trực tuyến được cơ quan có thẩm quyền quy định tại khoản 3 Điều này cấp tài khoản đăng ký trực tuyến (sau đây gọi là tài khoản).
 
-**Chỉ mục:** 23
+Một tài khoản chỉ được cấp cho một tổ chức, cá nhân, có thể là tài khoản sử dụng thường xuyên hoặc tài khoản sử dụng một lần trong đăng ký theo yêu cầu của tổ chức, cá nhân. Tổ chức, cá nhân được cấp tài khoản chịu trách nhiệm trước pháp luật về tính chính xác, tính hợp pháp của thông tin phải kê khai để được cấp tài khoản và chịu trách nhiệm về việc sử dụng tài khoản.
 
-**Mã phân cấp:** 090020000000000020000010000000000000000002300000000000000000
+2. Tổ chức, cá nhân có thể yêu cầu cấp tài khoản thông qua giao diện đăng ký trực tuyến hoặc gửi văn bản đề nghị theo Mẫu số 01e tại Phụ lục đến cơ quan có thẩm quyền quy định tại khoản 3 Điều này.
 
-**ID:** dk_00011719
+3. Cục Đăng ký quốc gia giao dịch bảo đảm thuộc Bộ Tư pháp có thẩm quyền cấp tài khoản đối với trường hợp đăng ký quy định tại Điều 44 Nghị định này.
 
----
+Cơ quan có thẩm quyền cấp tài khoản đối với trường hợp đăng ký quy định tại các Điều 25, 38 và 41 Nghị định này hoặc trường hợp đăng ký biện pháp bảo đảm bằng quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển thực hiện theo quy định của pháp luật về đất đai, về hàng không, về hàng hải hoặc pháp luật về khai thác, sử dụng tài nguyên biển.
 
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
 
-### Điều 9.2.NĐ.24. Thủ tục đăng ký trực tuyến
+(Điều này có nội dung liên quan đến Điều 3.4.NĐ.5.3. Giải thích từ ngữ; Điều 3.4.NĐ.5.7. Đăng ký tài khoản; Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai; Điều 9.2.NĐ.38. Trường hợp đăng ký thuộc thẩm quyền của Cục Hàng không Việt Nam; Điều 9.2.NĐ.41. Trường hợp đăng ký thuộc thẩm quyền của Cơ quan đăng ký tàu biển Việt Nam; Điều 9.2.NĐ.44. Trường hợp đăng ký thuộc thẩm quyền của Trung tâm đăng ký giao dịch, tài sản; Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin; Điều 9.2.NĐ.56. Hiệu lực thi hành; Điều 9.2.NĐ.58. Tổ chức thực hiện)
+
+Điều 9.2.NĐ.24. Thủ tục đăng ký trực tuyến
+
+(Điều 24 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Người yêu cầu đăng ký sử dụng tài khoản để đăng nhập vào hệ thống đăng ký trực tuyến và kê khai thông tin, xác thực hồ sơ đăng ký theo quy trình trên giao diện đăng ký trực tuyến. Trường hợp pháp luật có quy định hồ sơ đăng ký phải đính kèm bản điện tử thì người yêu cầu đăng ký gửi đính kèm văn bản này, trừ trường hợp quy định tại khoản 5 Điều 46 Nghị định này.
 
-**Chỉ mục:** 24
+Người yêu cầu đăng ký thực hiện thanh toán phí đăng ký theo quy trình trên giao diện đăng ký trực tuyến hoặc theo phương thức thanh toán được quy định tại pháp luật về phí, lệ phí, pháp luật khác có liên quan.
 
-**Mã phân cấp:** 090020000000000020000010000000000000000002400000000000000000
+Hồ sơ đăng ký trực tuyến có giá trị pháp lý như hồ sơ đăng ký bằng bản giấy.
 
-**ID:** dk_00011720
+Thời hạn giải quyết hồ sơ đăng ký trực tuyến và trả kết quả đăng ký áp dụng quy định tại khoản 1 và khoản 3 Điều 16 Nghị định này.
 
----
+2. Trường hợp bên bảo đảm hoặc bên nhận bảo đảm thực hiện việc đăng ký trực tuyến thông qua tài khoản của người đại diện thì người đại diện phải kê khai thông tin mã số tài khoản của người được đại diện. Thông tin về biện pháp bảo đảm được đăng ký phải được cập nhật vào tài khoản của người được đại diện, không cập nhật vào tài khoản của người đại diện.
 
+3. Trường hợp có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này, cơ quan đăng ký thực hiện việc từ chối đăng ký thông qua giao diện đăng ký trực tuyến hoặc gửi thông báo bằng văn bản cho người yêu cầu đăng ký.
 
-### Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai
+4. Trường hợp pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển, về hàng không hoặc pháp luật về hàng hải có quy định khác về thủ tục đăng ký trực tuyến quy định tại khoản 1 và khoản 2 Điều này thì thực hiện theo quy định của pháp luật đó.
+
+(Điều này có nội dung liên quan đến Điều 3.4.NĐ.5.11. Quy trình tiếp nhận, giải quyết thủ tục hành chính trên môi trường điện tử; Điều 9.2.NĐ.8. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.16. Thời hạn giải quyết hồ sơ đăng ký; Điều 9.2.NĐ.46. Hồ sơ đăng ký đối với động sản, cây hằng năm, công trình tạm; Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin)
+
+Mục 2
+
+THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG QUYỀN SỬ DỤNG ĐẤT, TÀI SẢN GẮN LIỀN VỚI ĐẤT
+
+Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai
+
+(Điều 25 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Các trường hợp phải đăng ký:
 
-**Chỉ mục:** 25
+a) Thế chấp quyền sử dụng đất;
 
-**Mã phân cấp:** 090020000000000020000020000000000000000002500000000000000000
+b) Thế chấp nhà ở, tài sản khác gắn liền với đất trong trường hợp tài sản đã được chứng nhận quyền sở hữu trên Giấy chứng nhận;
 
-**ID:** dk_00011722
+c) Thế chấp dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án đầu tư khác có sử dụng đất đồng thời với quyền sử dụng đất được Nhà nước giao có thu tiền sử dụng đất, cho thuê theo hình thức trả tiền một lần cho cả thời gian thuê;
 
----
+d) Đăng ký thay đổi, xóa đăng ký đối với trường hợp quy định tại các điểm a, b và c khoản này.
 
+2. Các trường hợp đăng ký theo yêu cầu:
 
-### Điều 9.2.NĐ.26. Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất
+a) Thế chấp nhà ở hình thành trong tương lai, tài sản khác gắn liền với đất hình thành trong tương lai;
+
+b) Thế chấp tài sản gắn liền với đất đã hình thành không phải là nhà ở mà pháp luật không quy định phải đăng ký quyền sở hữu và cũng chưa được đăng ký quyền sở hữu theo yêu cầu, trừ trường hợp quy định tại khoản 9 Điều này;
+
+c) Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất sang đăng ký thế chấp đối với nhà ở, thế chấp đối với tài sản khác gắn liền với đất;
+
+d) Đăng ký thông báo xử lý tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất;
+
+đ) Đăng ký thay đổi, xóa đăng ký đối với trường hợp quy định tại các điểm a, b và d khoản này.
+
+3. Nhà ở hình thành trong tương lai, tài sản khác gắn liền với đất hình thành trong tương lai quy định tại Điều này bao gồm:
+
+a) Nhà ở, công trình xây dựng trong dự án đầu tư xây dựng nhà ở, nhà ở riêng lẻ theo quy định của Luật Nhà ở; công trình xây dựng không phải là nhà ở theo quy định của pháp luật về xây dựng, về kinh doanh bất động sản, pháp luật khác có liên quan đang trong quá trình đầu tư xây dựng, chưa được nghiệm thu đưa vào sử dụng;
+
+b) Rừng sản xuất là rừng trồng, cây lâu năm chưa hình thành hoặc đã hình thành nhưng bên thế chấp xác lập quyền sở hữu sau thời điểm xác lập hợp đồng thế chấp.
+
+4. Đăng ký bảo lưu quyền sở hữu nhà ở, tài sản khác gắn liền với đất hoặc đăng ký cầm cố tài sản gắn liền với đất thực hiện trong trường hợp Luật Đất đai có quy định.
+
+5. Trường hợp chủ đầu tư chỉ thế chấp tài sản gắn liền với đất thuộc dự án đầu tư mà không bao gồm quyền sử dụng đất hoặc thế chấp tài sản gắn liền với đất thuộc dự án đầu tư mà chủ đầu tư không đồng thời là người sử dụng đất hoặc thế chấp tài sản gắn liền với đất thuộc dự án đầu tư thực hiện trên đất thuê trả tiền thuê đất hàng năm thì thực hiện theo quy định về đăng ký đối với tài sản gắn liền với đất tại Nghị định này.
+
+6. Việc đăng ký có thể áp dụng đồng thời trong cùng một hồ sơ đăng ký đối với một, một số hoặc tất cả các loại tài sản quy định tại khoản 1 và khoản 2 Điều này và chỉ cần 01 Phiếu yêu cầu đăng ký trong cùng một hồ sơ đăng ký. Trường hợp một hoặc một số tài sản thuộc hồ sơ đăng ký này có Giấy chứng nhận riêng thì thực hiện thủ tục đăng ký trên Giấy chứng nhận cụ thể của từng tài sản.
+
+7. Trường hợp tổ chức, cá nhân đăng ký thế chấp nhà ở, tài sản khác gắn liền với đất hình thành trong tương lai thuộc quyền sở hữu của mình mà trước đó tài sản này thuộc dự án đầu tư đã được chủ đầu tư thế chấp và đăng ký thế chấp thì Văn phòng đăng ký đất đai chỉ thực hiện đăng ký nếu chủ đầu tư thuộc trường hợp quy định tại khoản 6 Điều 36 Nghị định này.
+
+8. Trường hợp thông tin trên Giấy chứng nhận không thống nhất với thông tin lưu giữ tại cơ quan đăng ký mà người yêu cầu đăng ký kê khai nội dung mô tả tài sản bảo đảm phù hợp với thông tin trên Giấy chứng nhận thì Văn phòng đăng ký đất đai thực hiện đăng ký theo nội dung kê khai trên Phiếu yêu cầu đăng ký, trừ trường hợp Luật Đất đai, Luật Nhà ở, luật khác có liên quan quy định khác.
+
+9. Trường hợp tài sản gắn liền với đất quy định tại Điều này là cây hằng năm theo quy định của Luật Trồng trọt, công trình tạm theo quy định của Luật Xây dựng thì thực hiện việc đăng ký theo quy định tại Mục 4 Chương này.
+
+(Điều này có nội dung liên quan đến Điều 118. Điều kiện của nhà ở tham gia giao dịch; Điều 147. Thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai; Điều 148. Điều kiện thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai của Luật 65/2014/QH13 Nhà ở ban hành ngày 25/11/2014; Điều 4. Quy định cụ thể loại cây lâu năm được chứng nhận quyền sở hữu; Điều 5. Danh mục loài cây trồng thuộc các loại cây lâu năm được chứng nhận quyền sở hữu trên địa bàn của Thông tư liên tịch 22/2016/TTLT-BNNPTNT-BTNMT Quy định loại cây lâu năm được chứng nhận quyền sở hữu ban hành ngày 30/06/2016; Điều 168. Thời điểm được thực hiện các quyền của người sử dụng đất; Điều 9.1.LQ.106. Đăng ký tài sản; Điều 9.1.LQ.295. Tài sản bảo đảm; Điều 9.1.LQ.298. Đăng ký biện pháp bảo đảm; Điều 9.1.LQ.310. Hiệu lực của cầm cố tài sản; Điều 9.1.LQ.319. Hiệu lực của thế chấp tài sản; Điều 9.1.LQ.325. Thế chấp quyền sử dụng đất mà không thế chấp tài sản gắn liền với đất; Điều 9.1.LQ.326. Thế chấp tài sản gắn liền với đất mà không thế chấp quyền sử dụng đất; Điều 9.1.LQ.331. Bảo lưu quyền sở hữu của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 24.4.LQ.2. Giải thích từ ngữ của Luật 31/2018/QH14 Trồng trọt ban hành ngày 19/11/2018; Điều 9.3.NĐ.10. Quyền sử dụng đất, tài sản gắn liền với đất của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Mục 4 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG ĐỘNG SẢN, CÂY HẰNG NĂM, CÔNG TRÌNH TẠM; Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến; Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất; Điều 9.2.NĐ.57. Điều khoản chuyển tiếp)
+
+Điều 9.2.NĐ.26. Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất
+
+(Điều 26 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Trường hợp đã đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở tại Trung tâm đăng ký giao dịch, tài sản mà có yêu cầu chuyển sang thế chấp nhà ở hình thành trong tương lai hoặc chuyển sang thế chấp nhà ở đã được cấp Giấy chứng nhận mà có cùng bên nhận bảo đảm thì người yêu cầu đăng ký có thể lựa chọn thực hiện:
 
-**Chỉ mục:** 26
+a) Xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở tại Trung tâm đăng ký giao dịch, tài sản và đăng ký thế chấp nhà ở hình thành trong tương lai hoặc đăng ký thế chấp nhà ở đã được cấp Giấy chứng nhận;
 
-**Mã phân cấp:** 090020000000000020000020000000000000000002600000000000000000
+b) Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sang thế chấp nhà ở hình thành trong tương lai hoặc thế chấp nhà ở đã được cấp Giấy chứng nhận.
 
-**ID:** dk_00011723
+2. Trường hợp đã đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở riêng lẻ theo quy định của Luật Nhà ở mà sau đó bên thế chấp được cấp Giấy chứng nhận, bên thế chấp và bên nhận thế chấp có thỏa thuận về việc tiếp tục thế chấp nhà ở đồng thời bổ sung thế chấp quyền sử dụng đất thì có thể lựa chọn thực hiện:
 
----
+a) Xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở và đăng ký thế chấp quyền sử dụng đất và nhà ở;
 
+b) Chuyển tiếp đăng ký theo quy định tại điểm b khoản 1 Điều này và đăng ký thế chấp quyền sử dụng đất.
 
-### Điều 9.2.NĐ.27. Hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất đã được chứng nhận quyền sở hữu
+3. Trường hợp có yêu cầu chuyển tiếp đăng ký quy định tại điểm b khoản 1 và điểm b khoản 2 Điều này thì hồ sơ chuyển tiếp đăng ký thế chấp bao gồm:
+
+a) Phiếu yêu cầu theo Mẫu số 05a tại Phụ lục (01 bản chính);
+
+b) Văn bản chứng nhận đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở (01 bản chính);
+
+c) Hợp đồng thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở (01 bản chính hoặc 01 bản sao có chứng thực);
+
+d) Hợp đồng thế chấp nhà ở hình thành trong tương lai (01 bản chính hoặc 01 bản sao có chứng thực) đối với chuyển tiếp sang thế chấp nhà ở hình thành trong tương lai, trừ trường hợp hợp đồng thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở đã có nội dung về chuyển tiếp sang thế chấp nhà ở hình thành trong tương lai.
+
+Hợp đồng thế chấp nhà ở (01 bản chính hoặc 01 bản sao có chứng thực) đối với chuyển tiếp sang thế chấp nhà ở đã được cấp Giấy chứng nhận, trừ trường hợp quy định tại khoản 4 Điều này;
+
+đ) Giấy chứng nhận (bản gốc) trong trường hợp chuyển tiếp sang đăng ký thế chấp nhà ở đã được cấp Giấy chứng nhận.
+
+4. Trường hợp chuyển tiếp sang đăng ký thế chấp nhà ở đã được cấp Giấy chứng nhận mà hợp đồng thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở đã có nội dung thỏa thuận về việc chuyển tiếp đăng ký sang thế chấp nhà ở trong trường hợp nhà ở này đã được cấp Giấy chứng nhận và hợp đồng này đã được công chứng, chứng thực thì người yêu cầu đăng ký không phải nộp hợp đồng thế chấp nhà ở, việc yêu cầu đăng ký thực hiện theo quy định tại điểm a và điểm l khoản 1 Điều 12 Nghị định này.
+
+Trường hợp nhà ở chưa được cấp Giấy chứng nhận thì người yêu cầu đăng ký có thể nộp đồng thời hồ sơ đăng ký biến động tài sản gắn liền với đất và hồ sơ chuyển tiếp đăng ký thế chấp nhà ở hoặc thực hiện đăng ký biến động tài sản gắn liền với đất trước khi chuyển tiếp đăng ký thế chấp nhà ở. Trường hợp hồ sơ chuyển tiếp đăng ký thế chấp nhà ở được nộp đồng thời với hồ sơ đăng ký biến động tài sản gắn liền với đất thì cơ quan đăng ký thực hiện theo quy định tại khoản 2 Điều 35 Nghị định này.
+
+5. Trường hợp đã đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán tài sản gắn liền với đất không phải là nhà ở mà có yêu cầu chuyển tiếp sang đăng ký thế chấp tài sản gắn liền với đất không phải là nhà ở thì áp dụng quy định tại các khoản 1, 2, 3 và 4 Điều này.
+
+Trường hợp chuyển tiếp đăng ký thế chấp đối với tài sản gắn liền với đất không phải là nhà ở đã hình thành mà pháp luật không quy định phải đăng ký quyền sở hữu và cũng chưa được đăng ký quyền sở hữu theo yêu cầu thì áp dụng quy định chuyển tiếp đăng ký thế chấp đối với nhà ở hình thành trong tương lai.
+
+6. Trường hợp chuyển tiếp đăng ký quy định tại điểm b khoản 1, điểm b khoản 2 và khoản 5 Điều này thì cơ quan, tổ chức có thẩm quyền không được yêu cầu xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở, quyền tài sản phát sinh từ hợp đồng mua bán tài sản khác gắn liền với đất khi thực hiện thủ tục công chứng, chứng thực hợp đồng thế chấp nhà ở, hợp đồng thế chấp tài sản khác gắn liền với đất và khi thực hiện thủ tục chuyển tiếp đăng ký thế chấp.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký; Điều 9.2.NĐ.20. Xóa đăng ký; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất)
+
+Điều 9.2.NĐ.27. Hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất đã được chứng nhận quyền sở hữu
+
+(Điều 27 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Phiếu yêu cầu theo Mẫu số 01a tại Phụ lục (01 bản chính).
 
-**Chỉ mục:** 27
+2. Hợp đồng bảo đảm hoặc hợp đồng bảo đảm có công chứng, chứng thực trong trường hợp Luật Đất đai, Luật Nhà ở, luật khác có liên quan quy định (01 bản chính hoặc 01 bản sao có chứng thực).
 
-**Mã phân cấp:** 090020000000000020000020000000000000000002700000000000000000
+3. Giấy chứng nhận (bản gốc), trừ trường hợp quy định tại khoản 2 Điều 35 Nghị định này.
 
-**ID:** dk_00011724
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
 
----
+(Điều này có nội dung liên quan đến Điều 7. Sửa đổi, bổ sung một số điều của Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 quy định về hồ sơ địa chính của Thông tư 33/2017/TT-BTNMT Quy định chi tiết Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành Luật đất đai ban hành ngày 29/09/2017; Điều 9.2.NĐ.28. Hồ sơ đăng ký đối với dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất; Điều 9.2.NĐ.29. Hồ sơ đăng ký đối với nhà ở, công trình xây dựng không phải là nhà ở, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng nhà ở; công trình xây dựng, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất; Điều 9.2.NĐ.30. Hồ sơ đăng ký đối với nhà ở hình thành trong tương lai, tài sản khác gắn liền với đất hình thành trong tương lai không thuộc dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất; Điều 9.2.NĐ.31. Hồ sơ đăng ký đối với tài sản gắn liền với đất đã hình thành không phải là nhà ở mà pháp luật không quy định phải đăng ký quyền sở hữu và cũng chưa được đăng ký quyền sở hữu theo yêu cầu; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 17. Các trường hợp xác nhận thay đổi vào Giấy chứng nhận đã cấp khi đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 18. Nội dung xác nhận thay đổi vào cấp Giấy chứng nhận đã cấp; Điều 9. Hồ sơ nộp khi thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 11. Việc nộp giấy tờ khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất)
 
+Điều 9.2.NĐ.28. Hồ sơ đăng ký đối với dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất
 
-### Điều 9.2.NĐ.28. Hồ sơ đăng ký đối với dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất
+(Điều 28 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Hồ sơ đăng ký đối với dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở bao gồm:
 
-**Chỉ mục:** 28
+a) Giấy tờ quy định tại khoản 1 và khoản 2 Điều 27 Nghị định này;
 
-**Mã phân cấp:** 090020000000000020000020000000000000000002800000000000000000
+b) Giấy chứng nhận (bản gốc) hoặc Quyết định giao đất, cho thuê đất do cơ quan có thẩm quyền cấp cho chủ đầu tư trong trường hợp tài sản bảo đảm là dự án đầu tư xây dựng nhà ở mà chưa có Giấy chứng nhận đối với quyền sử dụng đất (01 bản chính); Giấy chứng nhận (bản gốc) trong trường hợp tài sản bảo đảm là dự án đầu tư xây dựng công trình không phải là nhà ở;
 
-**ID:** dk_00011725
+c) Giấy phép xây dựng, trừ trường hợp được miễn giấy phép xây dựng theo quy định của Luật Xây dựng (01 bản chính hoặc 01 bản sao có chứng thực);
 
----
+d) Quyết định phê duyệt dự án hoặc quyết định đầu tư dự án hoặc Giấy phép đầu tư hoặc Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ về việc chấp thuận, cho phép thực hiện dự án đầu tư do cơ quan nhà nước có thẩm quyền cấp theo quy định của pháp luật về đầu tư (01 bản chính hoặc 01 bản sao có chứng thực);
 
+đ) Một trong các loại bản vẽ thiết kế theo quy định của pháp luật về xây dựng thể hiện được mặt bằng công trình của dự án đã được cơ quan có thẩm quyền phê duyệt (01 bản chính hoặc 01 bản sao có chứng thực).
 
-### Điều 9.2.NĐ.29. Hồ sơ đăng ký đối với nhà ở, công trình xây dựng không phải là nhà ở, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng nhà ở; công trình xây dựng, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất
+2. Hồ sơ đăng ký đối với dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất không thuộc trường hợp quy định tại khoản 1 Điều này bao gồm:
+
+a) Giấy tờ quy định tại khoản 1 và khoản 2 Điều 27 Nghị định này và điểm d khoản 1 Điều này;
+
+b) Giấy chứng nhận (bản gốc).
+
+(Điều này có nội dung liên quan đến Điều 148. Điều kiện thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai của Luật 65/2014/QH13 Nhà ở ban hành ngày 25/11/2014; Điều 7. Sửa đổi, bổ sung một số điều của Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 quy định về hồ sơ địa chính của Thông tư 33/2017/TT-BTNMT Quy định chi tiết Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành Luật đất đai ban hành ngày 29/09/2017; Điều 43.5.LQ.89. Đối tượng và các loại giấy phép xây dựng của Luật 50/2014/QH13 Xây dựng ban hành ngày 18/06/2014; Điều 9.2.NĐ.27. Hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất đã được chứng nhận quyền sở hữu; Điều 9.2.NĐ.29. Hồ sơ đăng ký đối với nhà ở, công trình xây dựng không phải là nhà ở, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng nhà ở; công trình xây dựng, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất; Điều 17. Các trường hợp xác nhận thay đổi vào Giấy chứng nhận đã cấp khi đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 18. Nội dung xác nhận thay đổi vào cấp Giấy chứng nhận đã cấp; Điều 9. Hồ sơ nộp khi thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 11. Việc nộp giấy tờ khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất)
+
+Điều 9.2.NĐ.29. Hồ sơ đăng ký đối với nhà ở, công trình xây dựng không phải là nhà ở, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng nhà ở; công trình xây dựng, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất
+
+(Điều 29 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Trường hợp bên bảo đảm là chủ đầu tư đồng thời là người sử dụng đất, hồ sơ đăng ký bao gồm:
 
-**Chỉ mục:** 29
+a) Giấy tờ quy định tại điểm a và điểm b khoản 1 Điều 28 Nghị định này;
 
-**Mã phân cấp:** 090020000000000020000020000000000000000002900000000000000000
+b) Giấy phép xây dựng (01 bản chính hoặc 01 bản sao có chứng thực) đối với tài sản bảo đảm là nhà ở hình thành trong tương lai, công trình xây dựng hình thành trong tương lai, trừ trường hợp được miễn giấy phép xây dựng theo quy định của Luật Xây dựng; một trong các loại bản vẽ thiết kế theo quy định của pháp luật về xây dựng thể hiện được mặt bằng của công trình xây dựng trong dự án đó đã được cơ quan có thẩm quyền phê duyệt (01 bản chính hoặc 01 bản sao có chứng thực).
 
-**ID:** dk_00011726
+2. Trường hợp bên bảo đảm là chủ đầu tư mà không đồng thời là người sử dụng đất, hồ sơ đăng ký bao gồm:
 
----
+a) Giấy tờ quy định tại điểm a và điểm d khoản 1 Điều 28 Nghị định này và tại điểm b khoản 1 Điều này;
 
+b) Văn bản thỏa thuận có công chứng, chứng thực giữa người sử dụng đất và chủ đầu tư về việc người sử dụng đất đồng ý cho việc thực hiện dự án (01 bản chính hoặc 01 bản sao có chứng thực).
 
-### Điều 9.2.NĐ.30. Hồ sơ đăng ký đối với nhà ở hình thành trong tương lai, tài sản khác gắn liền với đất hình thành trong tương lai không thuộc dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất
+3. Trường hợp bên bảo đảm là tổ chức, cá nhân nhận chuyển giao hợp pháp quyền sở hữu tài sản hình thành trong tương lai hoặc là bên nhận chuyển nhượng hợp đồng mua bán nhà ở, công trình xây dựng, tài sản khác gắn liền với đất, hồ sơ đăng ký bao gồm:
+
+a) Giấy tờ quy định tại khoản 1 và khoản 2 Điều 27 Nghị định này;
+
+b) Hợp đồng hoặc văn bản có nội dung về chuyển giao hợp pháp quyền sở hữu nhà ở, công trình xây dựng, tài sản khác gắn liền với đất được ký kết giữa bên bảo đảm với chủ đầu tư; hợp đồng hoặc văn bản chuyển nhượng hợp đồng mua bán nhà ở, công trình xây dựng, tài sản khác gắn liền với đất trong trường hợp bên bảo đảm là bên nhận chuyển nhượng hợp đồng (01 bản chính hoặc 01 bản sao có chứng thực).
+
+(Điều này có nội dung liên quan đến Điều 148. Điều kiện thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai của Luật 65/2014/QH13 Nhà ở ban hành ngày 25/11/2014; Điều 7. Sửa đổi, bổ sung một số điều của Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 quy định về hồ sơ địa chính của Thông tư 33/2017/TT-BTNMT Quy định chi tiết Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành Luật đất đai ban hành ngày 29/09/2017; Điều 9.2.NĐ.27. Hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất đã được chứng nhận quyền sở hữu; Điều 9.2.NĐ.28. Hồ sơ đăng ký đối với dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất; Điều 9. Hồ sơ nộp khi thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 11. Việc nộp giấy tờ khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất)
+
+Điều 9.2.NĐ.30. Hồ sơ đăng ký đối với nhà ở hình thành trong tương lai, tài sản khác gắn liền với đất hình thành trong tương lai không thuộc dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất
+
+(Điều 30 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Trường hợp bên bảo đảm đồng thời là người sử dụng đất, hồ sơ đăng ký bao gồm:
 
-**Chỉ mục:** 30
+a) Giấy tờ quy định tại khoản 1 và khoản 2 Điều 27 Nghị định này;
 
-**Mã phân cấp:** 090020000000000020000020000000000000000003000000000000000000
+b) Giấy chứng nhận đối với quyền sử dụng đất (bản gốc);
 
-**ID:** dk_00011727
+c) Giấy phép xây dựng (01 bản chính hoặc 01 bản sao có chứng thực) đối với trường hợp thế chấp nhà ở hình thành trong tương lai, công trình xây dựng hình thành trong tương lai, trừ trường hợp được miễn giấy phép theo quy định của Luật Xây dựng.
 
----
+2. Trường hợp bên bảo đảm không đồng thời là người sử dụng đất, hồ sơ đăng ký bao gồm:
 
+a) Giấy tờ quy định tại khoản 1 và khoản 2 Điều 27 Nghị định này và tại điểm c khoản 1 Điều này;
 
-### Điều 9.2.NĐ.31. Hồ sơ đăng ký đối với tài sản gắn liền với đất đã hình thành không phải là nhà ở mà pháp luật không quy định phải đăng ký quyền sở hữu và cũng chưa được đăng ký quyền sở hữu theo yêu cầu
+b) Văn bản thỏa thuận có công chứng, chứng thực giữa người sử dụng đất và chủ sở hữu tài sản gắn liền với đất về việc người sử dụng đất đồng ý cho xây dựng, tạo lập nhà ở, tài sản khác gắn liền với đất (01 bản chính hoặc 01 bản sao có chứng thực).
+
+(Điều này có nội dung liên quan đến Điều 147. Thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai; Điều 148. Điều kiện thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai của Luật 65/2014/QH13 Nhà ở ban hành ngày 25/11/2014; Điều 7. Sửa đổi, bổ sung một số điều của Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 quy định về hồ sơ địa chính của Thông tư 33/2017/TT-BTNMT Quy định chi tiết Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành Luật đất đai ban hành ngày 29/09/2017; Điều 43.5.LQ.89. Đối tượng và các loại giấy phép xây dựng của Luật 50/2014/QH13 Xây dựng ban hành ngày 18/06/2014; Điều 9.2.NĐ.27. Hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất đã được chứng nhận quyền sở hữu; Điều 17. Các trường hợp xác nhận thay đổi vào Giấy chứng nhận đã cấp khi đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 18. Nội dung xác nhận thay đổi vào cấp Giấy chứng nhận đã cấp; Điều 9. Hồ sơ nộp khi thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 11. Việc nộp giấy tờ khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất)
+
+Điều 9.2.NĐ.31. Hồ sơ đăng ký đối với tài sản gắn liền với đất đã hình thành không phải là nhà ở mà pháp luật không quy định phải đăng ký quyền sở hữu và cũng chưa được đăng ký quyền sở hữu theo yêu cầu
+
+(Điều 31 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Giấy tờ quy định tại khoản 1 và khoản 2 Điều 27 Nghị định này.
 
-**Chỉ mục:** 31
+2. Giấy chứng nhận đối với quyền sử dụng đất (bản gốc) hoặc văn bản thỏa thuận có công chứng, chứng thực giữa người sử dụng đất và chủ sở hữu tài sản gắn liền với đất về việc người sử dụng đất đồng ý cho xây dựng, tạo lập tài sản gắn liền với đất trong trường hợp bên bảo đảm không đồng thời là người sử dụng đất (01 bản chính hoặc 01 bản sao có chứng thực).
 
-**Mã phân cấp:** 090020000000000020000020000000000000000003100000000000000000
+3. Giấy phép xây dựng (01 bản chính hoặc 01 bản sao có chứng thực) trong trường hợp tài sản bảo đảm là công trình xây dựng, trừ trường hợp được miễn giấy phép theo quy định của Luật Xây dựng.
 
-**ID:** dk_00011728
+(Điều này có nội dung liên quan đến Điều 7. Sửa đổi, bổ sung một số điều của Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 quy định về hồ sơ địa chính của Thông tư 33/2017/TT-BTNMT Quy định chi tiết Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành Luật đất đai ban hành ngày 29/09/2017; Điều 43.5.LQ.89. Đối tượng và các loại giấy phép xây dựng của Luật 50/2014/QH13 Xây dựng ban hành ngày 18/06/2014; Điều 31. Chứng nhận quyền sở hữu nhà ở; Điều 9.2.NĐ.27. Hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất đã được chứng nhận quyền sở hữu; Điều 17. Các trường hợp xác nhận thay đổi vào Giấy chứng nhận đã cấp khi đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 18. Nội dung xác nhận thay đổi vào cấp Giấy chứng nhận đã cấp; Điều 8. Hồ sơ nộp khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu; Điều 9. Hồ sơ nộp khi thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 11. Việc nộp giấy tờ khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất)
 
----
+Điều 9.2.NĐ.32. Hồ sơ đăng ký thay đổi đối với quyền sử dụng đất, tài sản gắn liền với đất
 
-
-### Điều 9.2.NĐ.32. Hồ sơ đăng ký thay đổi đối với quyền sử dụng đất, tài sản gắn liền với đất
+(Điều 32 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Phiếu yêu cầu theo Mẫu số 02a tại Phụ lục (01 bản chính).
 
-**Chỉ mục:** 32
+2. Một trong các loại giấy tờ sau đây (01 bản chính hoặc 01 bản sao có chứng thực):
 
-**Mã phân cấp:** 090020000000000020000020000000000000000003200000000000000000
+a) Văn bản sửa đổi, bổ sung hợp đồng bảo đảm trong trường hợp đăng ký thay đổi theo thỏa thuận trong văn bản này;
 
-**ID:** dk_00011729
+b) Văn bản chuyển giao quyền đòi nợ, chuyển giao nghĩa vụ trong trường hợp đăng ký thay đổi do chuyển giao quyền đòi nợ, chuyển giao nghĩa vụ;
 
----
+c) Văn bản khác chứng minh có căn cứ đăng ký thay đổi đối với trường hợp không thuộc điểm a và điểm b khoản này.
 
+3. Giấy chứng nhận (bản gốc) trong trường hợp tài sản bảo đảm có Giấy chứng nhận.
 
-### Điều 9.2.NĐ.33. Hồ sơ xóa đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất
+4. Trường hợp đăng ký thay đổi quy định tại điểm b khoản 1 Điều 18 Nghị định này thì ngoài giấy tờ quy định tại khoản 1 Điều này, hồ sơ đăng ký còn có thêm Giấy chứng nhận đối với quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu đối với nhà ở, công trình xây dựng, tài sản khác gắn liền với đất trong trường hợp tài sản này đã được cấp Giấy chứng nhận.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 7. Sửa đổi, bổ sung một số điều của Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 quy định về hồ sơ địa chính của Thông tư 33/2017/TT-BTNMT Quy định chi tiết Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành Luật đất đai ban hành ngày 29/09/2017; Điều 81. Trình tự, thủ tục đăng ký, xóa đăng ký thế chấp bằng quyền sử dụng đất và xử lý quyền sử dụng đất đã thế chấp, để thu hồi nợ; Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi; Điều 17. Các trường hợp xác nhận thay đổi vào Giấy chứng nhận đã cấp khi đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 18. Nội dung xác nhận thay đổi vào cấp Giấy chứng nhận đã cấp; Điều 8. Hồ sơ nộp khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu; Điều 9. Hồ sơ nộp khi thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 11. Việc nộp giấy tờ khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất)
+
+Điều 9.2.NĐ.33. Hồ sơ xóa đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất
+
+(Điều 33 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Phiếu yêu cầu theo Mẫu số 03a tại Phụ lục (01 bản chính).
 
-**Chỉ mục:** 33
+2. Giấy chứng nhận (bản gốc) trong trường hợp tài sản bảo đảm có Giấy chứng nhận.
 
-**Mã phân cấp:** 090020000000000020000020000000000000000003300000000000000000
+3. Trường hợp người yêu cầu xóa đăng ký không phải là bên nhận bảo đảm và trên Phiếu yêu cầu không có chữ ký, con dấu (nếu có) của bên nhận bảo đảm thì ngoài giấy tờ, tài liệu quy định tại khoản 1 và khoản 2 Điều này còn nộp thêm giấy tờ, tài liệu sau đây (01 bản chính hoặc 01 bản sao có chứng thực):
 
-**ID:** dk_00011730
+a) Văn bản có nội dung thể hiện việc bên nhận bảo đảm đồng ý xóa đăng ký hoặc xác nhận về việc hợp đồng bảo đảm đã chấm dứt, đã được thanh lý hoặc xác nhận về việc giải chấp trong trường hợp người yêu cầu xóa đăng ký là bên bảo đảm;
 
----
+b) Hợp đồng hoặc văn bản khác đã có hiệu lực pháp luật chứng minh việc chuyển giao hợp pháp tài sản bảo đảm trong trường hợp người yêu cầu xóa đăng ký là người nhận chuyển giao hợp pháp tài sản bảo đảm, trừ trường hợp quy định tại điểm c khoản này;
 
+c) Hợp đồng mua bán tài sản đấu giá đã có hiệu lực pháp luật hoặc Văn bản xác nhận kết quả thi hành án trong trường hợp người yêu cầu xóa đăng ký là cơ quan thi hành án dân sự, Chấp hành viên hoặc người yêu cầu xóa đăng ký là người mua tài sản bảo đảm trong xử lý tài sản theo quy định của pháp luật về thi hành án dân sự;
 
-### Điều 9.2.NĐ.34. Hồ sơ đăng ký thông báo xử lý tài sản bảo đảm
+d) Văn bản của cơ quan có thẩm quyền có nội dung về việc bên nhận bảo đảm là tổ chức kinh tế không phải là tổ chức tín dụng trở thành doanh nghiệp có vốn đầu tư nước ngoài, là công dân Việt Nam trở thành công dân nước ngoài trong trường hợp xóa đăng ký quy định tại điểm k khoản 1 Điều 20 Nghị định này;
+
+đ) Văn bản xác nhận của cơ quan có thẩm quyền về việc giải thể pháp nhân trong trường hợp xóa đăng ký quy định tại điểm l khoản 1 Điều 20 Nghị định này.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 30.2.LQ.106. Đăng ký, chuyển quyền sở hữu, sử dụng tài sản của Luật 26/2008/QH12 Thi hành án dân sự ban hành ngày 14/11/2008; Điều 81. Trình tự, thủ tục đăng ký, xóa đăng ký thế chấp bằng quyền sử dụng đất và xử lý quyền sử dụng đất đã thế chấp, để thu hồi nợ; Điều 9.3.NĐ.58. Mua, nhận chuyển nhượng, nhận chuyển giao khác về quyền sở hữu tài sản bảo đảm của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 9.2.NĐ.20. Xóa đăng ký; Điều 17. Các trường hợp xác nhận thay đổi vào Giấy chứng nhận đã cấp khi đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 18. Nội dung xác nhận thay đổi vào cấp Giấy chứng nhận đã cấp)
+
+Điều 9.2.NĐ.34. Hồ sơ đăng ký thông báo xử lý tài sản bảo đảm
+
+(Điều 34 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Phiếu yêu cầu theo Mẫu số 04a tại Phụ lục (01 bản chính).
 
-**Chỉ mục:** 34
+2. Văn bản thông báo xử lý tài sản bảo đảm (01 bản chính).
 
-**Mã phân cấp:** 090020000000000020000020000000000000000003400000000000000000
+3. Trường hợp đăng ký thay đổi, xóa đăng ký thông báo xử lý tài sản bảo đảm thì hồ sơ đăng ký là Phiếu yêu cầu theo Mẫu số 04a tại Phụ lục (01 bản chính).
 
-**ID:** dk_00011731
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
 
----
+Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất
 
-
-### Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất
+(Điều 35 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Sau khi tiếp nhận hồ sơ đăng ký, trường hợp không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Văn phòng đăng ký đất đai ghi, cập nhật nội dung đăng ký theo đúng thứ tự tiếp nhận hồ sơ vào Sổ đăng ký và Giấy chứng nhận. Sau khi ghi vào Sổ đăng ký và Giấy chứng nhận thì chứng nhận nội dung đăng ký và thời điểm đăng ký (giờ, phút, ngày, tháng, năm) vào Phiếu yêu cầu đăng ký.
 
-**Chỉ mục:** 35
+Sổ đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai được lập theo Mẫu số 08a tại Phụ lục.
 
-**Mã phân cấp:** 090020000000000020000020000000000000000003500000000000000000
+2. Trường hợp nộp đồng thời hồ sơ đăng ký biện pháp bảo đảm với hồ sơ đăng ký biến động đất đai, tài sản gắn liền với đất hoặc với hồ sơ chứng nhận quyền sở hữu tài sản gắn liền với đất quy định tại khoản 1, khoản 7 Điều 36 và khoản 3 Điều 37 Nghị định này thì Văn phòng đăng ký đất đai thực hiện việc tiếp nhận cả hai hồ sơ; thực hiện thủ tục đăng ký đất đai, tài sản gắn liền với đất theo quy định của pháp luật về đất đai, sau đó thực hiện thủ tục đăng ký biện pháp bảo đảm theo quy định tại Nghị định này.
 
-**ID:** dk_00011732
+3. Trường hợp đăng ký thay đổi do nhà ở, tài sản khác gắn liền với đất là tài sản hình thành trong tương lai đã hình thành thuộc trường hợp quy định tại điểm đ khoản 1 Điều 18 Nghị định này thì bên bảo đảm nộp hồ sơ đăng ký thay đổi đồng thời với hồ sơ đề nghị chứng nhận quyền sở hữu tài sản. Trường hợp này Văn phòng đăng ký đất đai thực hiện việc tiếp nhận cả hai hồ sơ, sau khi hoàn thành thủ tục chứng nhận quyền sở hữu, Văn phòng đăng ký đất đai ghi, cập nhật vào Sổ địa chính, Giấy chứng nhận nội dung về việc tài sản gắn liền với đất đã hình thành được chứng nhận quyền sở hữu tiếp tục được dùng thế chấp.
 
----
+4. Trường hợp đăng ký thay đổi do rút bớt tài sản bảo đảm thì Văn phòng đăng ký đất đai ghi, cập nhật nội dung xóa đăng ký đối với tài sản được rút bớt vào Sổ đăng ký và Giấy chứng nhận.
 
+5. Trường hợp chuyển tiếp đăng ký quy định tại điểm b khoản 1, điểm b khoản 2 và khoản 5 Điều 26 Nghị định này thì Văn phòng đăng ký đất đai thực hiện như sau:
 
-### Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất
+a) Trường hợp chuyển tiếp sang đăng ký thế chấp nhà ở hình thành trong tương lai hoặc sang đăng ký thế chấp tài sản khác gắn liền với đất hình thành trong tương lai thì Văn phòng đăng ký đất đai ghi, cập nhật nội dung được đăng ký chuyển tiếp vào Sổ đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai. Thời điểm đăng ký được ghi theo thời điểm đăng ký thế chấp quyền tài sản thể hiện trên văn bản chứng nhận đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất;
+
+b) Trường hợp chuyển tiếp sang đăng ký thế chấp nhà ở đã được cấp Giấy chứng nhận hoặc sang đăng ký thế chấp tài sản khác gắn liền với đất đã được cấp Giấy chứng nhận thì Văn phòng đăng ký đất đai ghi, cập nhật nội dung được đăng ký chuyển tiếp vào Sổ địa chính và Giấy chứng nhận. Thời điểm đăng ký được ghi theo thời điểm đăng ký thế chấp quyền tài sản thể hiện trên văn bản chứng nhận đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất;
+
+c) Gửi bản sao Phiếu yêu cầu chuyển tiếp đăng ký thế chấp thể hiện nội dung quy định tại điểm a hoặc điểm b khoản này và giấy tờ quy định tại điểm b khoản 3 Điều 26 Nghị định này cho Trung tâm đăng ký giao dịch, tài sản để thực hiện xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán tài sản khác gắn liền với đất.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 7. Sửa đổi, bổ sung một số điều của Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 quy định về hồ sơ địa chính của Thông tư 33/2017/TT-BTNMT Quy định chi tiết Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành Luật đất đai ban hành ngày 29/09/2017; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.16. Thời hạn giải quyết hồ sơ đăng ký; Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi; Điều 9.2.NĐ.20. Xóa đăng ký; Điều 9.2.NĐ.26. Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.27. Hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất đã được chứng nhận quyền sở hữu; Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất; Điều 9.2.NĐ.37. Giải quyết đăng ký trong trường hợp thông tin về tài sản bảo đảm trong hợp đồng bảo đảm bao gồm tài sản khác ngoài quyền sử dụng đất, tài sản gắn liền với đất; quyền sử dụng đất, tài sản gắn liền với đất là tài sản chung của vợ chồng, của các thành viên hộ gia đình, của nhóm người sử dụng đất hoặc thuộc doanh nghiệp tư nhân; Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022; Điều 17. Các trường hợp xác nhận thay đổi vào Giấy chứng nhận đã cấp khi đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 18. Nội dung xác nhận thay đổi vào cấp Giấy chứng nhận đã cấp; Điều 8. Hồ sơ nộp khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu; Điều 9. Hồ sơ nộp khi thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất; Điều 11. Việc nộp giấy tờ khi thực hiện thủ tục đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; Điều 25. Tài liệu hồ sơ địa chính phải cập nhật, chỉnh lý biến động và căn cứ cập nhật, chỉnh lý)
+
+Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất
+
+(Điều 36 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Người yêu cầu đăng ký có thể nộp đồng thời hồ sơ đăng ký biện pháp bảo đảm với hồ sơ đăng ký biến động đất đai, tài sản gắn liền với đất hoặc thực hiện đăng ký biến động đất đai, tài sản gắn liền với đất trước khi đăng ký biện pháp bảo đảm trong trường hợp có sự thay đổi thông tin sau đây:
 
-**Chỉ mục:** 36
+a) Thay đổi về số hiệu tờ bản đồ, số hiệu thửa đất, địa chỉ thửa đất không phù hợp với thông tin trên Giấy chứng nhận do sắp xếp lại các đơn vị hành chính, dồn điền đổi thửa, đo đạc xác định lại hình dạng, kích thước, diện tích thửa đất;
 
-**Mã phân cấp:** 090020000000000020000020000000000000000003600000000000000000
+b) Thay đổi hiện trạng về loại nhà (hoặc loại công trình xây dựng), tên tòa nhà (hoặc tên công trình xây dựng), số tầng hoặc thông tin về tài sản khác gắn liền với đất dẫn đến không còn phù hợp với thông tin trên Giấy chứng nhận;
 
-**ID:** dk_00011733
+c) Thay đổi thông tin về tên hoặc họ, tên của bên bảo đảm, bao gồm cả thay đổi do có văn bản của cơ quan có thẩm quyền.
 
----
+2. Trường hợp Phiếu yêu cầu đăng ký không kê khai thông tin về hình dạng, kích thước hoặc diện tích của thửa đất, của nhà ở, của công trình xây dựng hoặc của tài sản khác gắn liền với đất mà những thông tin này trên Giấy chứng nhận có biến động thì người yêu cầu đăng ký không phải đăng ký thay đổi.
 
+3. Trường hợp có sự thay đổi thông tin quy định tại điểm b khoản 1 Điều này mà người yêu cầu đăng ký không thực hiện đăng ký biến động về tài sản theo quy định của pháp luật về đất đai thì Văn phòng đăng ký đất đai thực hiện việc đăng ký biện pháp bảo đảm trên cơ sở thông tin về tài sản bảo đảm trên Giấy chứng nhận được cấp và không chịu trách nhiệm về việc đã đăng ký biện pháp bảo đảm đối với tài sản bảo đảm không phù hợp với hiện trạng đã thay đổi; bên bảo đảm và bên nhận bảo đảm chịu trách nhiệm về việc đăng ký biện pháp bảo đảm đối với tài sản đã có thay đổi nhưng không thực hiện việc đăng ký biến động theo quy định của pháp luật về đất đai.
 
-### Điều 9.2.NĐ.37. Giải quyết đăng ký trong trường hợp thông tin về tài sản bảo đảm trong hợp đồng bảo đảm bao gồm tài sản khác ngoài quyền sử dụng đất, tài sản gắn liền với đất; quyền sử dụng đất, tài sản gắn liền với đất là tài sản chung của vợ chồng, của các thành viên hộ gia đình, của nhóm người sử dụng đất hoặc thuộc doanh nghiệp tư nhân
+4. Văn phòng đăng ký đất đai không yêu cầu thực hiện việc đăng ký thay đổi hoặc không yêu cầu thực hiện xóa đăng ký mà chỉ thực hiện việc xác nhận thay đổi trên Giấy chứng nhận hoặc cấp đổi Giấy chứng nhận theo quy định của pháp luật về đất đai đối với trường hợp có sự thay đổi thông tin của bên bảo đảm, trừ trường hợp thay đổi tên hoặc thay đổi về họ, tên; thay đổi thông tin về tài sản bảo đảm là thửa đất, nhà ở, công trình xây dựng hoặc tài sản khác gắn liền với đất so với thông tin trên Giấy chứng nhận do dồn điền đổi thửa, do đo đạc xác định lại diện tích, kích thước, do chia, tách, hợp nhất, sáp nhập mà không làm thay đổi quyền sử dụng, quyền sở hữu tài sản của bên bảo đảm đối với tài sản này.
+
+Trường hợp Giấy chứng nhận được cấp đổi, cấp sang Giấy chứng nhận mới thì Văn phòng đăng ký đất đai ghi lại nội dung đăng ký biện pháp bảo đảm vào Giấy chứng nhận mới được cấp.
+
+Trường hợp tài sản bảo đảm là nhà ở, công trình xây dựng hoặc tài sản khác gắn liền với đất là tài sản hình thành trong tương lai đã hình thành và có Giấy chứng nhận mà có yêu cầu đăng ký thay đổi thì Văn phòng đăng ký đất đai ghi lại nội dung đăng ký vào Giấy chứng nhận được cấp cho tài sản này.
+
+5. Trường hợp thay đổi bên bảo đảm hoặc thay đổi tên hoặc thay đổi họ, tên của người sử dụng đất, chủ sở hữu nhà ở, chủ sở hữu công trình xây dựng hoặc chủ sở hữu tài sản khác gắn liền với đất, bao gồm cả thay đổi do có văn bản của cơ quan có thẩm quyền mà có yêu cầu đăng ký thay đổi về thông tin này thì Văn phòng đăng ký đất đai không yêu cầu xóa đăng ký trước khi thực hiện đăng ký thay đổi.
+
+6. Trường hợp chủ đầu tư đã thế chấp và đăng ký thế chấp dự án đầu tư xây dựng nhà ở hoặc nhà ở hình thành trong tương lai, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất hoặc công trình xây dựng thuộc các dự án này thì trước khi ký hợp đồng bán nhà ở, công trình xây dựng trong dự án, chủ đầu tư phải giải chấp đối với tài sản được bán và thực hiện thủ tục đăng ký thay đổi để rút bớt tài sản thế chấp là nhà ở, công trình xây dựng, trừ trường hợp bên nhận thế chấp và bên mua tài sản có thỏa thuận về việc tiếp tục dùng tài sản để bảo đảm thực hiện nghĩa vụ thì thực hiện đăng ký thay đổi bên bảo đảm theo quy định tại điểm a khoản 1 Điều 18 Nghị định này.
+
+7. Trường hợp người sử dụng đất hoặc người thứ ba tạo lập công trình xây dựng hoặc tài sản khác gắn liền với đất không thuộc tài sản bảo đảm theo thỏa thuận trong hợp đồng bảo đảm và có nhu cầu bổ sung tài sản này để bảo đảm thực hiện nghĩa vụ thì phải thực hiện thủ tục chứng nhận quyền sở hữu trước khi đăng ký thay đổi để bổ sung tài sản bảo đảm nếu tài sản này thuộc trường hợp phải đăng ký quyền sở hữu, trừ trường hợp bảo đảm bằng tài sản hình thành trong tương lai. Người yêu cầu đăng ký có thể nộp đồng thời hồ sơ chứng nhận quyền sở hữu tài sản gắn liền với đất và hồ sơ đăng ký thay đổi.
+
+8. Thực hiện đăng ký thay đổi để rút bớt tài sản bị thu hồi, bị phá dỡ, bị tiêu hủy hoặc bị tịch thu và đồng thời bổ sung tài sản bảo đảm đối với quyền sử dụng đất, nhà ở, công trình xây dựng hoặc tài sản khác gắn liền với đất được thay thế, được trao đổi hoặc được tạo lập trong trường hợp sau đây:
+
+a) Tài sản được thay thế, được trao đổi bằng quyền sử dụng đất mới, nhà ở mới, công trình xây dựng mới hoặc tài sản mới khác gắn liền với đất cho bên bảo đảm theo quy định của pháp luật;
+
+b) Tài sản mới được tạo lập để thay thế cho tài sản bảo đảm là nhà ở, công trình xây dựng hoặc tài sản khác gắn liền với đất bị phá dỡ hoặc bị tiêu hủy theo thỏa thuận giữa bên bảo đảm và bên nhận bảo đảm;
+
+c) Tài sản mới được tạo lập do nhà ở, công trình xây dựng hoặc tài sản khác gắn liền với đất bị bên bảo đảm phá dỡ hoặc tiêu hủy và trong hợp đồng bảo đảm đã có thỏa thuận về tài sản mới được dùng để bảo đảm thực hiện nghĩa vụ.
+
+9. Trường hợp người sử dụng đất, chủ sở hữu nhà ở, chủ sở hữu công trình xây dựng hoặc chủ sở hữu tài sản khác gắn liền với đất có yêu cầu đăng ký biến động đất đai do đo đạc xác định lại diện tích, gia hạn thời hạn sử dụng đất trước khi chấm dứt thời hạn sử dụng đất, chuyển mục đích sử dụng đất hoặc trường hợp khác theo quy định của pháp luật về đất đai thì Văn phòng đăng ký đất đai không yêu cầu xóa đăng ký đối với nội dung biện pháp bảo đảm đã được đăng ký trước khi thực hiện thủ tục đăng ký biến động đất đai.
+
+10. Trường hợp người yêu cầu đăng ký nộp đồng thời hồ sơ đăng ký biến động đất đai và hồ sơ đăng ký biện pháp bảo đảm quy định tại khoản 1 Điều này hoặc nộp đồng thời hồ sơ đề nghị chứng nhận quyền sở hữu tài sản gắn liền với đất và hồ sơ đăng ký thay đổi quy định tại khoản 7 Điều này thì thực hiện theo thủ tục quy định tại khoản 2 Điều 35 Nghị định này.
+
+(Điều này có nội dung liên quan đến Điều 95. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất; Điều 9.3.NĐ.21. Biến động về tài sản bảo đảm của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 9.2.NĐ.5. Nguyên tắc đăng ký, cung cấp thông tin; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi; Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.37. Giải quyết đăng ký trong trường hợp thông tin về tài sản bảo đảm trong hợp đồng bảo đảm bao gồm tài sản khác ngoài quyền sử dụng đất, tài sản gắn liền với đất; quyền sử dụng đất, tài sản gắn liền với đất là tài sản chung của vợ chồng, của các thành viên hộ gia đình, của nhóm người sử dụng đất hoặc thuộc doanh nghiệp tư nhân của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022; Điều 7. Thể hiện thông tin về nhà ở và tài sản khác gắn liền với đất tại trang 2 của Giấy chứng nhận; Điều 9. Thể hiện nội dung Giấy chứng nhận trong trường hợp tài sản gắn liền với đất nằm chung trên nhiều thửa đất của nhiều người sử dụng; Điều 10. Thể hiện trên Giấy chứng nhận đối với trường hợp khu đất của một người sử dụng vào một mục đích nằm trên nhiều đơn vị hành chính; Điều 11. Thể hiện nội dung tại điểm Ghi chú trên Giấy chứng nhận; Điều 15. Mã vạch của Giấy chứng nhận; Điều 18. Nội dung xác nhận thay đổi vào cấp Giấy chứng nhận đã cấp)
+
+Điều 9.2.NĐ.37. Giải quyết đăng ký trong trường hợp thông tin về tài sản bảo đảm trong hợp đồng bảo đảm bao gồm tài sản khác ngoài quyền sử dụng đất, tài sản gắn liền với đất; quyền sử dụng đất, tài sản gắn liền với đất là tài sản chung của vợ chồng, của các thành viên hộ gia đình, của nhóm người sử dụng đất hoặc thuộc doanh nghiệp tư nhân
+
+(Điều 37 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 Văn phòng đăng ký đất đai không từ chối đăng ký theo căn cứ quy định tại điểm d khoản 1 Điều 15 Nghị định này và thực hiện việc đăng ký đối với trường hợp sau đây:
 
-**Chỉ mục:** 37
+1. Thông tin về tài sản bảo đảm trong hợp đồng bảo đảm không chỉ có quyền sử dụng đất, tài sản gắn liền với đất mà còn có tài sản khác nhưng trên Phiếu yêu cầu đăng ký chỉ kê khai thông tin về quyền sử dụng đất, tài sản gắn liền với đất.
 
-**Mã phân cấp:** 090020000000000020000020000000000000000003700000000000000000
+2. Thông tin về tài sản bảo đảm trong hợp đồng bảo đảm bao gồm cả quyền sử dụng đất và tài sản gắn liền với đất nhưng trên Phiếu yêu cầu đăng ký chỉ kê khai quyền sử dụng đất hoặc chỉ kê khai tài sản gắn liền với đất thì Văn phòng đăng ký đất đai thực hiện việc đăng ký đối với tài sản được kê khai trên Phiếu yêu cầu đăng ký.
 
-**ID:** dk_00011734
+3. Thông tin về tài sản bảo đảm trong hợp đồng bảo đảm và Phiếu yêu cầu đăng ký bao gồm cả quyền sử dụng đất, tài sản gắn liền với đất mà quyền sử dụng đất đủ điều kiện dùng để bảo đảm nhưng tài sản gắn liền với đất thuộc diện phải đăng ký quyền sở hữu theo quy định của pháp luật mà chưa được chứng nhận quyền sở hữu thì Văn phòng đăng ký đất đai thực hiện đăng ký đối với quyền sử dụng đất. Người yêu cầu đăng ký có thể nộp hồ sơ và yêu cầu đăng ký đối với tài sản gắn liền với đất theo quy định tại khoản 7 Điều 36 Nghị định này.
 
----
+Trường hợp người sử dụng đất được Nhà nước cho thuê đất trả tiền thuê đất hàng năm nhưng tài sản gắn liền với đất đã được chứng nhận quyền sở hữu hoặc tài sản gắn liền với đất là tài sản hình thành trong tương lai, tài sản gắn liền với đất mà pháp luật không quy định phải đăng ký quyền sở hữu và cũng chưa được đăng ký quyền sở hữu theo yêu cầu thì Văn phòng đăng ký đất đai thực hiện đăng ký biện pháp bảo đảm đối với tài sản gắn liền với đất.
 
+4. Tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất thuộc tài sản chung của vợ chồng mà Giấy chứng nhận chỉ ghi họ, tên của vợ hoặc của chồng là người sử dụng đất, chủ sở hữu nhà ở, tài sản khác gắn liền với đất nhưng thông tin về bên bảo đảm trong hợp đồng bảo đảm bao gồm cả vợ và chồng thì người yêu cầu đăng ký kê khai thông tin về bên bảo đảm trên Phiếu yêu cầu đăng ký bao gồm cả vợ và chồng.
 
-### Tiểu mục 1 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BAY
+5. Tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất là tài sản chung của các thành viên hộ gia đình mà Giấy chứng nhận chỉ ghi Hộ ông và họ, tên của chủ hộ hoặc Hộ bà và họ, tên của chủ hộ nhưng thông tin về bên bảo đảm trong hợp đồng bảo đảm có công chứng, chứng thực xác định ngoài họ, tên của chủ hộ hoặc của người đại diện hợp pháp của chủ hộ còn có họ, tên của thành viên khác của hộ gia đình có chung quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của hộ gia đình thì người yêu cầu đăng ký kê khai thông tin về bên bảo đảm trên Phiếu yêu cầu đăng ký bao gồm cả chủ hộ và thành viên của hộ gia đình được ghi trong hợp đồng bảo đảm.
 
-Tiểu mục 1 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BAY
+6. Bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất mà Giấy chứng nhận ghi tên doanh nghiệp tư nhân nhưng thông tin về bên bảo đảm trong hợp đồng bảo đảm là họ, tên của chủ doanh nghiệp tư nhân hoặc họ, tên của chủ doanh nghiệp tư nhân và vợ, chồng của chủ doanh nghiệp tư nhân thì người yêu cầu đăng ký kê khai thông tin về bên bảo đảm trên Phiếu yêu cầu đăng ký theo thông tin được ghi trong hợp đồng bảo đảm.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 9.2.NĐ.5. Nguyên tắc đăng ký, cung cấp thông tin; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất)
 
-**Mã phân cấp:** 090020000000000020000030000000000000000000100000000000000000
+Mục 3
 
-**ID:** dk_00011736
+THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BAY, TÀU BIỂN
 
----
+Tiểu mục 1
 
+THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BAY
 
-### Điều 9.2.NĐ.38. Trường hợp đăng ký thuộc thẩm quyền của Cục Hàng không Việt Nam
+Điều 9.2.NĐ.38. Trường hợp đăng ký thuộc thẩm quyền của Cục Hàng không Việt Nam
+
+(Điều 38 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Thế chấp tàu bay, cầm cố tàu bay.
 
-**Chỉ mục:** 38
+2. Bảo lưu quyền sở hữu tàu bay.
 
-**Mã phân cấp:** 09002000000000002000003000000000000000000010000000000000000003800000000000000000
+3. Đăng ký thông báo xử lý tài sản bảo đảm là tàu bay.
 
-**ID:** dk_00011737
+4. Đăng ký thay đổi, xóa đăng ký đối với trường hợp quy định tại các khoản 1, 2 và 3 Điều này.
 
----
+(Điều này có nội dung liên quan đến Chương I QUY ĐỊNH CHUNG của Nghị định 68/2015/NĐ-CP Quy định đăng ký quốc tịch và đăng ký các quyền đối với tàu bay ban hành ngày 18/08/2015; Điều 14.5.LQ.6. Chính sách phát triển hàng không dân dụng; Điều 14.5.LQ.8. Nội dung quản lý nhà nước về hàng không dân dụng; Điều 14.5.LQ.28. Các quyền đối với tàu bay; Điều 14.5.LQ.32. Thế chấp tàu bay; Điều 9.1.LQ.292. Biện pháp bảo đảm thực hiện nghĩa vụ; Điều 9.1.LQ.298. Đăng ký biện pháp bảo đảm; Điều 9.1.LQ.331. Bảo lưu quyền sở hữu của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
 
+Điều 9.2.NĐ.39. Hồ sơ đăng ký đối với tàu bay
 
-### Điều 9.2.NĐ.39. Hồ sơ đăng ký đối với tàu bay
+(Điều 39 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Hồ sơ đăng ký bao gồm:
 
-**Chỉ mục:** 39
+a) Phiếu yêu cầu theo Mẫu số 01b tại Phụ lục (01 bản chính);
 
-**Mã phân cấp:** 09002000000000002000003000000000000000000010000000000000000003900000000000000000
+b) Hợp đồng bảo đảm (01 bản chính hoặc 01 bản sao có chứng thực).
 
-**ID:** dk_00011738
+2. Hồ sơ đăng ký thay đổi bao gồm:
 
----
+a) Phiếu yêu cầu theo Mẫu số 02b tại Phụ lục (01 bản chính);
 
+b) Văn bản sửa đổi, bổ sung hợp đồng bảo đảm hoặc văn bản chuyển giao quyền đòi nợ, chuyển giao nghĩa vụ có bảo đảm bằng tàu bay trong trường hợp thay đổi bên bảo đảm, thay đổi bên nhận bảo đảm hoặc văn bản khác chứng minh có căn cứ thay đổi trong trường hợp không có văn bản sửa đổi, bổ sung hợp đồng bảo đảm (01 bản chính hoặc 01 bản sao có chứng thực);
 
-### Điều 9.2.NĐ.40. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với tàu bay
+c) Trường hợp đăng ký thay đổi để bổ sung tài sản bảo đảm đã được thỏa thuận trong hợp đồng bảo đảm nhưng nội dung đã đăng ký trước đó không bao gồm tài sản này thì hồ sơ đăng ký là Phiếu yêu cầu theo Mẫu số 02b tại Phụ lục (01 bản chính).
+
+3. Hồ sơ xóa đăng ký bao gồm Phiếu yêu cầu theo Mẫu số 03b tại Phụ lục (01 bản chính) và nộp thêm giấy tờ, tài liệu sau đây (01 bản chính hoặc 01 bản sao có chứng thực):
+
+a) Văn bản có nội dung thể hiện việc bên nhận bảo đảm đồng ý xóa đăng ký hoặc xác nhận về việc hợp đồng bảo đảm đã chấm dứt, đã được thanh lý hoặc xác nhận về việc giải chấp trong trường hợp người yêu cầu xóa đăng ký là bên bảo đảm và trên Phiếu yêu cầu không có chữ ký, con dấu (nếu có) của bên nhận bảo đảm;
+
+b) Hợp đồng mua bán tài sản đấu giá đã có hiệu lực pháp luật hoặc Văn bản xác nhận kết quả thi hành án trong trường hợp người yêu cầu xóa đăng ký là cơ quan thi hành án dân sự, Chấp hành viên hoặc người mua tài sản bảo đảm trong xử lý tài sản theo quy định của pháp luật về thi hành án dân sự;
+
+c) Hợp đồng hoặc văn bản khác không thuộc điểm b khoản này đã có hiệu lực pháp luật chứng minh việc chuyển giao hợp pháp tài sản bảo đảm trong trường hợp người yêu cầu xóa đăng ký là người nhận chuyển giao hợp pháp tài sản bảo đảm;
+
+d) Giấy chứng nhận xóa quốc tịch tàu bay trong trường hợp quy định tại điểm h khoản 1 Điều 20 Nghị định này;
+
+đ) Văn bản xác nhận của cơ quan có thẩm quyền về việc giải thể pháp nhân trong trường hợp quy định tại điểm l khoản 1 Điều 20 Nghị định này.
+
+4. Hồ sơ đăng ký thông báo xử lý tài sản bảo đảm bao gồm:
+
+a) Phiếu yêu cầu theo Mẫu số 04b tại Phụ lục (01 bản chính);
+
+b) Văn bản thông báo xử lý tài sản bảo đảm là tàu bay (01 bản chính);
+
+c) Trường hợp đăng ký thay đổi, xóa đăng ký thông báo xử lý tài sản bảo đảm thì hồ sơ đăng ký là Phiếu yêu cầu theo Mẫu số 04b tại Phụ lục (01 bản chính).
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 14.5.LQ.34. Các khoản nợ ưu tiên; Điều 30.2.LQ.87. Tài sản không được kê biên của Luật 26/2008/QH12 Thi hành án dân sự ban hành ngày 14/11/2008; Điều 37.5.LQ.420. Quyền yêu cầu Tòa án bắt giữ tàu bay, tàu biển của Bộ luật 92/2015/QH13 Tố tụng dân sự ban hành ngày 25/11/2015; Điều 9.3.NĐ.58. Mua, nhận chuyển nhượng, nhận chuyển giao khác về quyền sở hữu tài sản bảo đảm của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 9.2.NĐ.20. Xóa đăng ký)
+
+Điều 9.2.NĐ.40. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với tàu bay
+
+(Điều 40 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Sau khi tiếp nhận hồ sơ đăng ký, trường hợp không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Cục Hàng không Việt Nam ghi, cập nhật thời điểm đăng ký (giờ, phút, ngày, tháng, năm) và nội dung được đăng ký, nội dung được thay đổi, nội dung được xóa, nội dung thuộc thông báo xử lý tài sản bảo đảm vào Sổ đăng bạ tàu bay Việt Nam; cấp Giấy chứng nhận đăng ký theo Mẫu số 05b, Mẫu số 06b, Mẫu số 07b hoặc Mẫu số 08b tại Phụ lục cho người yêu cầu đăng ký theo cách thức quy định tại các khoản 2, 3 và 4 Điều 17 Nghị định này.
 
-**Chỉ mục:** 40
+2. Trường hợp đăng ký thay đổi do rút bớt tài sản bảo đảm thì Cục Hàng không Việt Nam ghi, cập nhật nội dung xóa đăng ký đối với tài sản được rút bớt vào Sổ đăng bạ tàu bay Việt Nam.
 
-**Mã phân cấp:** 09002000000000002000003000000000000000000010000000000000000004000000000000000000
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
 
-**ID:** dk_00011739
+(Điều này có nội dung liên quan đến Điều 14.5.NĐ.7.25. Sổ đăng bạ tàu bay Việt Nam; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.17. Trả kết quả đăng ký)
 
----
+Tiểu mục 2
 
+THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BIỂN
 
-### Tiểu mục 2 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BIỂN
+Điều 9.2.NĐ.41. Trường hợp đăng ký thuộc thẩm quyền của Cơ quan đăng ký tàu biển Việt Nam
 
-Tiểu mục 2 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BIỂN
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 090020000000000020000030000000000000000000200000000000000000
-
-**ID:** dk_00011740
-
----
-
-
-### Điều 9.2.NĐ.41. Trường hợp đăng ký thuộc thẩm quyền của Cơ quan đăng ký tàu biển Việt Nam
+(Điều 41 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Thế chấp tàu biển.
 
-**Chỉ mục:** 41
+2. Bảo lưu quyền sở hữu tàu biển.
 
-**Mã phân cấp:** 09002000000000002000003000000000000000000020000000000000000004100000000000000000
+3. Đăng ký thông báo xử lý tài sản bảo đảm là tàu biển.
 
-**ID:** dk_00011741
+4. Đăng ký thay đổi, xóa đăng ký đối với trường hợp quy định tại các khoản 1, 2 và 3 Điều này.
 
----
+5. Trường hợp tàu biển công vụ, tàu ngầm, tàu lặn, kho chứa nổi, giàn di động theo quy định của pháp luật về hàng hải được dùng để bảo đảm thực hiện nghĩa vụ và có yêu cầu đăng ký biện pháp bảo đảm đối với tài sản này thì thực hiện theo quy định về đăng ký đối với tàu biển tại Nghị định này.
 
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.292. Biện pháp bảo đảm thực hiện nghĩa vụ; Điều 9.1.LQ.298. Đăng ký biện pháp bảo đảm; Điều 9.1.LQ.331. Bảo lưu quyền sở hữu của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 14.4.LQ.25. Xóa đăng ký tàu biển Việt Nam; Điều 14.4.LQ.26. Quy định chi tiết về đăng ký, xóa đăng ký tàu biển Việt Nam; Điều 14.4.LQ.27. Đăng ký tàu biển công vụ, tàu ngầm, tàu lặn, kho chứa nổi và giàn di động; Điều 14.4.LQ.37. Thế chấp tàu biển Việt Nam; Điều 14.4.LQ.39. Đăng ký thế chấp tàu biển Việt Nam; Điều 14.4.NĐ.9.5. Nhiệm vụ của cơ quan đăng ký tàu biển Việt Nam; Điều 14.4.NĐ.9.19. Quy định chung về xóa đăng ký; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
 
-### Điều 9.2.NĐ.42. Hồ sơ đăng ký đối với tàu biển
+Điều 9.2.NĐ.42. Hồ sơ đăng ký đối với tàu biển
+
+(Điều 42 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Hồ sơ đăng ký bao gồm:
 
-**Chỉ mục:** 42
+a) Phiếu yêu cầu theo Mẫu số 01c tại Phụ lục (01 bản chính);
 
-**Mã phân cấp:** 09002000000000002000003000000000000000000020000000000000000004200000000000000000
+b) Hợp đồng bảo đảm (01 bản chính hoặc 01 bản sao có chứng thực).
 
-**ID:** dk_00011742
+2. Hồ sơ đăng ký thay đổi bao gồm:
 
----
+a) Phiếu yêu cầu theo Mẫu số 02c tại Phụ lục (01 bản chính);
 
+b) Văn bản sửa đổi, bổ sung hợp đồng bảo đảm hoặc văn bản chuyển giao quyền đòi nợ, chuyển giao nghĩa vụ có bảo đảm bằng tàu biển trong trường hợp thay đổi bên bảo đảm, thay đổi bên nhận bảo đảm hoặc văn bản khác chứng minh có căn cứ thay đổi trong trường hợp không có văn bản sửa đổi, bổ sung hợp đồng bảo đảm (01 bản chính hoặc 01 bản sao có chứng thực);
 
-### Điều 9.2.NĐ.43. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đốivới tàu biển
+c) Trường hợp đăng ký thay đổi để bổ sung việc đăng ký đối với tài sản bảo đảm đã được thỏa thuận trong hợp đồng bảo đảm nhưng nội dung đã đăng ký trước đó không bao gồm tài sản này thì hồ sơ đăng ký là Phiếu yêu cầu theo Mẫu số 02c tại Phụ lục (01 bản chính).
+
+3. Hồ sơ xóa đăng ký bao gồm Phiếu yêu cầu theo Mẫu số 03c tại Phụ lục (01 bản chính) và nộp thêm giấy tờ, tài liệu sau đây (01 bản chính hoặc 01 bản sao có chứng thực):
+
+a) Văn bản có nội dung thể hiện việc bên nhận bảo đảm đồng ý xóa đăng ký hoặc xác nhận về việc hợp đồng bảo đảm đã chấm dứt, đã được thanh lý hoặc xác nhận về việc giải chấp trong trường hợp người yêu cầu xóa đăng ký là bên bảo đảm và trên Phiếu yêu cầu không có chữ ký, con dấu (nếu có) của bên nhận bảo đảm;
+
+b) Hợp đồng mua bán tài sản đấu giá đã có hiệu lực pháp luật hoặc Văn bản xác nhận kết quả thi hành án trong trường hợp người yêu cầu xóa đăng ký là cơ quan thi hành án dân sự, Chấp hành viên hoặc người mua tài sản bảo đảm trong xử lý tài sản theo quy định của pháp luật về thi hành án dân sự;
+
+c) Hợp đồng hoặc văn bản khác không thuộc điểm b khoản này đã có hiệu lực pháp luật chứng minh về việc chuyển giao hợp pháp tài sản bảo đảm trong trường hợp người yêu cầu xóa đăng ký là người nhận chuyển giao hợp pháp tài sản bảo đảm;
+
+d) Văn bản xác nhận của cơ quan có thẩm quyền về việc giải thể pháp nhân trong trường hợp xóa đăng ký quy định tại điểm l khoản 1 Điều 20 Nghị định này.
+
+4. Hồ sơ đăng ký thông báo xử lý tài sản bảo đảm bao gồm:
+
+a) Phiếu yêu cầu theo Mẫu số 04c tại Phụ lục (01 bản chính);
+
+b) Văn bản thông báo xử lý tài sản bảo đảm là tàu biển (01 bản chính);
+
+c) Trường hợp đăng ký thay đổi, xóa đăng ký thông báo xử lý tài sản bảo đảm thì hồ sơ đăng ký là Phiếu yêu cầu theo Mẫu số 04c tại Phụ lục (01 bản chính).
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 14.4.NĐ.9.15. Thủ tục đăng ký nội dung thay đổi; Điều 14.4.NĐ.9.17. Quy định về đăng ký tàu biển công vụ, tàu ngầm, tàu lặn, kho chứa nổi, giàn di động; Điều 14.4.NĐ.9.18. Thủ tục đăng ký tàu biển công vụ, tàu ngầm, tàu lặn, kho chứa nổi, giàn di động; Điều 14.4.NĐ.9.20. Thủ tục xóa đăng ký; Điều 9.2.NĐ.20. Xóa đăng ký)
+
+Điều 9.2.NĐ.43. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đốivới tàu biển
+
+(Điều 43 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Sau khi tiếp nhận hồ sơ đăng ký, trường hợp không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Cơ quan đăng ký tàu biển Việt Nam ghi, cập nhật thời điểm đăng ký (giờ, phút, ngày, tháng, năm) và nội dung được đăng ký, nội dung được thay đổi, nội dung được xóa, nội dung thuộc thông báo xử lý tài sản bảo đảm vào Sổ đăng ký tàu biển quốc gia Việt Nam; cấp Giấy chứng nhận đăng ký theo Mẫu số 05c, Mẫu số 06c, Mẫu số 07c hoặc Mẫu số 08c tại Phụ lục cho người yêu cầu đăng ký theo cách thức quy định tại các khoản 2, 3 và 4 Điều 17 Nghị định này.
 
-**Chỉ mục:** 43
+2. Trường hợp đăng ký thay đổi do rút bớt tài sản bảo đảm thì Cơ quan đăng ký tàu biển Việt Nam ghi, cập nhật nội dung xóa đăng ký đối với tài sản được rút bớt vào Sổ đăng ký tàu biển quốc gia Việt Nam.
 
-**Mã phân cấp:** 09002000000000002000003000000000000000000020000000000000000004300000000000000000
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
 
-**ID:** dk_00011743
+(Điều này có nội dung liên quan đến Điều 14.4.LQ.24. Nội dung cơ bản của Sổ đăng ký tàu biển quốc gia Việt Nam; Điều 14.4.LQ.25. Xóa đăng ký tàu biển Việt Nam; Điều 14.4.LQ.27. Đăng ký tàu biển công vụ, tàu ngầm, tàu lặn, kho chứa nổi và giàn di động; Điều 14.4.NĐ.9.5. Nhiệm vụ của cơ quan đăng ký tàu biển Việt Nam; Điều 14.4.NĐ.9.6. Sổ đăng ký tàu biển quốc gia Việt Nam; Điều 14.4.NĐ.9.17. Quy định về đăng ký tàu biển công vụ, tàu ngầm, tàu lặn, kho chứa nổi, giàn di động; Điều 14.4.NĐ.9.18. Thủ tục đăng ký tàu biển công vụ, tàu ngầm, tàu lặn, kho chứa nổi, giàn di động; Điều 14.4.NĐ.9.20. Thủ tục xóa đăng ký; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.17. Trả kết quả đăng ký)
 
----
+Mục 4
 
+THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG ĐỘNG SẢN, CÂY HẰNG NĂM, CÔNG TRÌNH TẠM
 
-### Điều 9.2.NĐ.44. Trường hợp đăng ký thuộc thẩm quyền của Trung tâm đăng ký giao dịch, tài sản
+(Mục này có nội dung liên quan đến Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.44. Trường hợp đăng ký thuộc thẩm quyền của Trung tâm đăng ký giao dịch, tài sản
+
+(Điều 44 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Các trường hợp đăng ký theo yêu cầu hoặc theo quy định của pháp luật bao gồm:
 
-**Chỉ mục:** 44
+a) Thế chấp động sản;
 
-**Mã phân cấp:** 090020000000000020000040000000000000000004400000000000000000
+b) Bảo lưu quyền sở hữu động sản;
 
-**ID:** dk_00011745
+c) Cầm cố, đặt cọc, ký cược hoặc ký quỹ bằng động sản theo thỏa thuận hoặc theo yêu cầu của bên nhận bảo đảm;
 
----
+d) Biện pháp bảo đảm bằng chứng khoán chưa đăng ký tập trung; cổ tức, quyền tài sản phát sinh từ chứng khoán, trừ trường hợp cổ tức này hoặc quyền tài sản này là chứng khoán đã đăng ký tập trung;
 
+đ) Biện pháp bảo đảm bằng tài sản gắn liền với đất là cây hằng năm, công trình tạm;
 
-### Điều 9.2.NĐ.45. Mô tả tài sản bảo đảm trên Phiếu yêu cầu đăng ký
+e) Đăng ký thông báo xử lý tài sản bảo đảm quy định tại các điểm a, b, c, d và đ khoản này;
+
+g) Đăng ký thay đổi, xóa đăng ký đối với trường hợp quy định tại các điểm a, b, c, d, đ và e khoản này.
+
+2. Trường hợp đăng ký đối với quyền tài sản thì quyền này không bao gồm quyền sử dụng đất, quyền sở hữu nhà ở, quyền sở hữu tài sản khác gắn liền với đất; quyền sử dụng khu vực biển, quyền sở hữu tài sản gắn liền với khu vực biển; quyền sở hữu, quyền khác phải đăng ký đối với tàu bay theo quy định của pháp luật về hàng không, đối với tàu biển theo quy định của pháp luật về hàng hải; quyền sở hữu đối với chứng khoán đã đăng ký tập trung theo quy định của pháp luật về chứng khoán.
+
+3. Việc đăng ký đối với biện pháp cầm cố, đặt cọc, ký cược hoặc ký quỹ quy định tại điểm c khoản 1 Điều này thực hiện trong trường hợp pháp luật về bảo đảm thực hiện nghĩa vụ có quy định hoặc có thỏa thuận trong hợp đồng bảo đảm.
+
+4. Quy định tại Điều này cũng được áp dụng cho tổ chức, cá nhân có quốc tịch nước ngoài trong trường hợp có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với quy định của Bộ luật Dân sự.
+
+(Điều này có nội dung liên quan đến Điều 25. Bảo đảm thực hiện dự án của nhà đầu tư; Điều 26. Thủ tục bảo đảm thực hiện dự án của nhà đầu tư; Điều 49. Điều chỉnh dự án đầu tư trong trường hợp nhà đầu tư nhận chuyển nhượng dự án đầu tư là tài sản bảo đảm; Điều 75. Hồ sơ cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài đối với dự án thuộc diện chấp thuận chủ trương đầu tư ra nước ngoài; Điều 123. Bảo đảm thực hiện dự án đầu tư đối với dự án đầu tư thực hiện trước ngày Luật Đầu tư có hiệu lực thi hành của Nghị định 31/2021/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư ban hành ngày 26/03/2021; Điều 37.5.LQ.105. Ủy thác thu thập chứng cứ; Điều 37.5.LQ.106. Yêu cầu cơ quan, tổ chức, cá nhân cung cấp tài liệu, chứng cứ; Điều 37.5.LQ.107. Bảo quản tài liệu, chứng cứ; Điều 37.5.LQ.108. Đánh giá chứng cứ; Điều 37.5.LQ.292. Chuyển hồ sơ vụ án cho Viện kiểm sát nghiên cứu; Điều 37.5.LQ.298. Hỏi về việc kháng cáo, kháng nghị và xử lý việc thay đổi kháng cáo, kháng nghị tại phiên tòa; Điều 37.5.LQ.331. Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm; Điều 34.6.LQ.43. Bảo đảm thực hiện dự án đầu tư; Điều 34.4.NĐ.1.169. Đối tượng, phạm vi và nguyên tắc thực hiện đăng ký biện pháp bảo đảm; Điều 34.4.NĐ.1.310. Điều khoản chuyển tiếp; Điều 9.3.NĐ.10. Quyền sử dụng đất, tài sản gắn liền với đất; Điều 9.3.NĐ.21. Biến động về tài sản bảo đảm; Điều 9.3.NĐ.23. Hiệu lực đối kháng của biện pháp bảo đảm với người thứ ba; Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.13. Cách thức nộp hồ sơ đăng ký; Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến; Điều 9.2.NĐ.45. Mô tả tài sản bảo đảm trên Phiếu yêu cầu đăng ký)
+
+Điều 9.2.NĐ.45. Mô tả tài sản bảo đảm trên Phiếu yêu cầu đăng ký
+
+(Điều 45 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Việc mô tả tài sản bảo đảm phải xác định được phạm vi động sản được dùng để bảo đảm. Trường hợp tài sản thuộc một trong các khoản 2, 3, 4, 5, 6, 7 hoặc 8 Điều này thì việc mô tả tài sản bảo đảm phải có thêm thông tin được quy định tại khoản đó.
 
-**Chỉ mục:** 45
+Phạm vi động sản được dùng để bảo đảm có thể là một, một số hoặc toàn bộ động sản hiện có hoặc động sản hình thành trong tương lai. Trường hợp mô tả tài sản bảo đảm theo nội dung không giới hạn tài sản thì việc đăng ký chỉ có hiệu lực đối với tài sản không thuộc trường hợp quy định tại khoản 2 Điều 44 Nghị định này.
 
-**Mã phân cấp:** 090020000000000020000040000000000000000004500000000000000000
+Người yêu cầu đăng ký tự chịu trách nhiệm về thông tin mô tả tài sản bảo đảm.
 
-**ID:** dk_00011746
+2. Tài sản bảo đảm là phương tiện giao thông cơ giới đường bộ thì thông tin mô tả phải có số khung của phương tiện. Trường hợp tài sản này là tài sản hình thành trong tương lai mà không có thông tin về số khung thì phải mô tả rõ là tài sản hình thành trong tương lai, nếu là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh hoặc kho hàng thì mô tả theo thông tin quy định tại khoản 4 Điều này.
 
----
+3. Tài sản bảo đảm là tàu cá; phương tiện giao thông đường thủy nội địa; phương tiện giao thông đường sắt hoặc phương tiện chuyên dùng trên đường bộ, đường thủy, đường sắt thì thông tin mô tả phải có tên phương tiện, tên hoặc họ, tên chủ phương tiện hoặc tên hoặc họ, tên chủ sở hữu phương tiện, số đăng ký phương tiện (nếu có), cơ quan cấp Giấy chứng nhận ghi trên Giấy chứng nhận, nhãn hiệu (nếu có), cấp phương tiện (nếu có).
 
+4. Tài sản bảo đảm là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh, kho hàng không phải là phương tiện giao thông cơ giới đường bộ quy định tại khoản 2 Điều này thì thông tin mô tả phải kê khai theo giá trị hàng hóa hoặc theo tên, loại hàng hóa; đối với kho hàng thì phải có thêm thông tin về địa chỉ, số hiệu kho (nếu có) hoặc dấu hiệu khác của vị trí kho hàng (nếu có). Việc kê khai thông tin về kho hàng không bao gồm nhà kho, công trình xây dựng khác hoặc kho bãi được sử dụng cho việc chứa hoặc lưu trữ hàng hóa.
 
-### Điều 9.2.NĐ.46. Hồ sơ đăng ký đối với động sản, cây hằng năm, công trình tạm
+Tài sản bảo đảm được đăng ký là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh bao gồm cả quyền yêu cầu bên mua thanh toán tiền, số tiền thu được, tài sản hình thành từ số tiền thu được, tài sản được thay thế hoặc được trao đổi trong trường hợp hàng hóa luân chuyển được bán, được thay thế, được trao đổi, trừ trường hợp người yêu cầu đăng ký có yêu cầu khác.
+
+5. Tài sản bảo đảm là công trình tạm hoặc cây hằng năm thì thông tin mô tả phải thể hiện được loại tài sản là công trình tạm theo quy định của pháp luật về xây dựng hoặc là cây hằng năm theo quy định của pháp luật về trồng trọt. Trường hợp người yêu cầu đăng ký không có yêu cầu khác thì tài sản bảo đảm quy định tại khoản này bao gồm cả hoa lợi hoặc tài sản khác có được từ việc thu hoạch đối với cây hằng năm hoặc từ việc phá dỡ đối với công trình tạm.
+
+6. Tài sản bảo đảm là động sản đang được lắp đặt, đặt tại hoặc đặt trên đất, nhà ở, công trình xây dựng không phải là nhà ở thì thông tin mô tả phải thể hiện được tài sản bảo đảm là động sản, không phải là tài sản gắn liền với đất đai, nhà ở, công trình xây dựng.
+
+7. Tài sản bảo đảm là vật có vật phụ, vật đồng bộ hoặc vật đặc định thì việc mô tả phải thể hiện được đặc điểm theo quy định của Bộ luật Dân sự để xác định được vật này.
+
+8. Tài sản bảo đảm là quyền tài sản hoặc một phần quyền tài sản thì thông tin mô tả bao gồm tên quyền và căn cứ phát sinh quyền tài sản. Trường hợp căn cứ phát sinh quyền tài sản là hợp đồng thì thông tin mô tả về hợp đồng bao gồm tên hợp đồng, số hợp đồng (nếu có), thời điểm có hiệu lực của hợp đồng và các bên tham gia giao kết hợp đồng. Trường hợp quyền tài sản phát sinh từ căn cứ khác thì thông tin về căn cứ phát sinh quyền bao gồm tên căn cứ, tên chủ thể ban hành căn cứ, số của căn cứ (nếu có), thời điểm có hiệu lực hoặc thời điểm ký của chủ thể ban hành căn cứ.
+
+Trường hợp căn cứ phát sinh quyền có ghi rõ tên quyền tài sản thì việc mô tả về tên quyền phải phù hợp với thông tin này.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.295. Tài sản bảo đảm; Điều 9.3.NĐ.9. Mô tả tài sản bảo đảm; Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.44. Trường hợp đăng ký thuộc thẩm quyền của Trung tâm đăng ký giao dịch, tài sản; Điều 9.2.NĐ.48. Thay đổi thông tin về nội dung đã được đăng ký đối với động sản, cây hằng năm, công trình tạm)
+
+Điều 9.2.NĐ.46. Hồ sơ đăng ký đối với động sản, cây hằng năm, công trình tạm
+
+(Điều 46 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Hồ sơ đăng ký bao gồm Phiếu yêu cầu theo Mẫu số 01d tại Phụ lục (01 bản chính) và nộp thêm giấy tờ, tài liệu sau đây:
 
-**Chỉ mục:** 46
+a) Hợp đồng bảo đảm (01 bản chính hoặc 01 bản sao có chứng thực) trong trường hợp Phiếu yêu cầu đăng ký chỉ có chữ ký, con dấu (nếu có) của bên bảo đảm hoặc của bên nhận bảo đảm, trừ trường hợp quy định tại khoản 4 Điều 8 và điểm c khoản 1 Điều 12 Nghị định này;
 
-**Mã phân cấp:** 090020000000000020000040000000000000000004600000000000000000
+b) Hợp đồng bảo đảm bằng chứng khoán đã đăng ký tập trung có thỏa thuận về việc chứng khoán tiếp tục được dùng để bảo đảm thực hiện nghĩa vụ cho cùng bên hoặc các bên cùng nhận bảo đảm trong trường hợp trở thành chứng khoán không đăng ký tập trung (01 bản chính hoặc 01 bản sao có chứng thực) và văn bản xác nhận việc đăng ký biện pháp bảo đảm bằng chứng khoán đã đăng ký tập trung do Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam cấp (01 bản chính) trong trường hợp quy định tại điểm b khoản 2 Điều 6 Nghị định này. Trường hợp này, cơ quan đăng ký không yêu cầu các bên xác lập lại hợp đồng bảo đảm.
 
-**ID:** dk_00011747
+2. Hồ sơ đăng ký thay đổi bao gồm Phiếu yêu cầu theo Mẫu số 02d tại Phụ lục (01 bản chính) và nộp thêm hợp đồng bảo đảm hoặc văn bản sửa đổi, bổ sung hợp đồng bảo đảm hoặc văn bản chuyển giao quyền đòi nợ, chuyển giao nghĩa vụ có bảo đảm bằng động sản, cây hằng năm hoặc công trình tạm trong trường hợp thay đổi bên bảo đảm, thay đổi bên nhận bảo đảm hoặc văn bản khác chứng minh có căn cứ thay đổi trong trường hợp không có văn bản sửa đổi, bổ sung hợp đồng bảo đảm mà Phiếu yêu cầu đăng ký chỉ có chữ ký, con dấu (nếu có) của bên bảo đảm hoặc của bên nhận bảo đảm (01 bản chính hoặc 01 bản sao có chứng thực).
 
----
+3. Hồ sơ xóa đăng ký bao gồm Phiếu yêu cầu theo Mẫu số 03d tại Phụ lục (01 bản chính) và nộp thêm giấy tờ, tài liệu sau đây (01 bản chính hoặc 01 bản sao có chứng thực):
 
+a) Văn bản có nội dung thể hiện việc bên nhận bảo đảm đồng ý xóa đăng ký hoặc xác nhận về việc hợp đồng bảo đảm đã chấm dứt, đã được thanh lý hoặc xác nhận về việc giải chấp trong trường hợp người yêu cầu xóa đăng ký là bên bảo đảm và trên Phiếu yêu cầu không có chữ ký, con dấu (nếu có) của bên nhận bảo đảm;
 
-### Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm
+b) Hợp đồng mua bán tài sản đấu giá đã có hiệu lực pháp luật hoặc Văn bản xác nhận kết quả thi hành án trong trường hợp người yêu cầu xóa đăng ký là cơ quan thi hành án dân sự, Chấp hành viên hoặc người mua tài sản bảo đảm trong xử lý tài sản theo quy định của pháp luật về thi hành án dân sự;
+
+c) Hợp đồng hoặc văn bản khác không thuộc điểm b khoản này đã có hiệu lực pháp luật chứng minh về việc chuyển giao hợp pháp tài sản bảo đảm trong trường hợp người yêu cầu xóa đăng ký là người nhận chuyển giao hợp pháp tài sản bảo đảm;
+
+d) Văn bản xác nhận của cơ quan có thẩm quyền về việc giải thể pháp nhân trong trường hợp xóa đăng ký quy định tại điểm l khoản 1 Điều 20 Nghị định này.
+
+4. Hồ sơ đăng ký thông báo xử lý tài sản bảo đảm, đăng ký thay đổi, xóa đăng ký thông báo xử lý tài sản bảo đảm là Phiếu yêu cầu theo Mẫu số 04d tại Phụ lục (01 bản chính).
+
+5. Hồ sơ đăng ký trong trường hợp đăng ký thông qua hệ thống đăng ký trực tuyến bao gồm thông tin phải được kê khai thể hiện trên giao diện đăng ký trực tuyến.
+
+6. Trường hợp giấy tờ, tài liệu thuộc hồ sơ đăng ký quy định tại các khoản 1, 2, 3 và 4 Điều này được gửi qua thư điện tử thì phải được tạo lập hoặc được số hóa từ bản giấy và thể hiện chính xác, toàn vẹn nội dung của bản giấy theo định dạng “.pdf”.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 9.3.NĐ.58. Mua, nhận chuyển nhượng, nhận chuyển giao khác về quyền sở hữu tài sản bảo đảm; Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.8. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký; Điều 9.2.NĐ.20. Xóa đăng ký; Điều 9.2.NĐ.24. Thủ tục đăng ký trực tuyến)
+
+Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm
+
+(Điều 47 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Trường hợp hồ sơ đăng ký được nộp bằng bản giấy mà không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Trung tâm đăng ký giao dịch, tài sản ghi thời điểm nhận (giờ, phút, ngày, tháng, năm) vào Phiếu yêu cầu đăng ký, Sổ tiếp nhận; cập nhật thông tin trên Phiếu yêu cầu đăng ký vào Cơ sở dữ liệu và sao lưu các tài liệu trong hồ sơ đăng ký vào hệ thống đăng ký trực tuyến; cấp văn bản chứng nhận đăng ký theo Mẫu số 05d tại Phụ lục. Việc nhận văn bản chứng nhận đăng ký là bản giấy hoặc việc trả lại giấy tờ, tài liệu là bản giấy người yêu cầu đăng ký đã nộp có thể thực hiện tại trụ sở Trung tâm đăng ký giao dịch, tài sản hoặc qua dịch vụ bưu chính theo đề nghị của người yêu cầu đăng ký.
 
-**Chỉ mục:** 47
+2. Trường hợp hồ sơ đăng ký được nộp qua hệ thống đăng ký trực tuyến mà không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Trung tâm đăng ký giao dịch, tài sản xác nhận kết quả đăng ký; cấp văn bản chứng nhận đăng ký theo Mẫu số 05d tại Phụ lục theo cách thức quy định tại khoản 1 Điều 17 Nghị định này.
 
-**Mã phân cấp:** 090020000000000020000040000000000000000004700000000000000000
+3. Trường hợp đăng ký thay đổi do rút bớt tài sản bảo đảm thì Trung tâm đăng ký giao dịch, tài sản cập nhật nội dung xóa đăng ký đối với tài sản được rút bớt vào Cơ sở dữ liệu.
 
-**ID:** dk_00011748
+4. Trường hợp đăng ký thuộc điểm b khoản 2 Điều 6 Nghị định này, Trung tâm đăng ký giao dịch, tài sản ghi nhận thời điểm đăng ký theo thời điểm đăng ký thể hiện trên văn bản xác nhận việc đăng ký biện pháp bảo đảm bằng chứng khoán đã đăng ký tập trung.
 
----
+5. Trường hợp nhận được giấy tờ, tài liệu quy định tại điểm c khoản 5 Điều 35 Nghị định này thì sau khi xóa đăng ký, Trung tâm đăng ký giao dịch, tài sản gửi văn bản thông báo về việc xóa đăng ký theo Mẫu số 07d tại Phụ lục cho Văn phòng đăng ký đất đai.
 
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
 
-### Điều 9.2.NĐ.48. Thay đổi thông tin về nội dung đã được đăng ký đối với động sản, cây hằng năm, công trình tạm
+(Điều này có nội dung liên quan đến Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.17. Trả kết quả đăng ký; Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất; Điều 9.2.NĐ.56. Hiệu lực thi hành; Điều 9.2.NĐ.58. Tổ chức thực hiện)
+
+Điều 9.2.NĐ.48. Thay đổi thông tin về nội dung đã được đăng ký đối với động sản, cây hằng năm, công trình tạm
+
+(Điều 48 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Trường hợp tài sản bảo đảm là phương tiện giao thông cơ giới đường bộ hoặc tài sản khác phải đăng ký quyền sở hữu, quyền sử dụng, quyền lưu hành, quyền khác theo quy định của pháp luật có sự thay đổi thông tin mà thông tin đó thể hiện trên Giấy chứng nhận thì thông tin đăng ký thay đổi phải phù hợp với thông tin thể hiện trên Giấy chứng nhận được cấp mới hoặc được bổ sung.
 
-**Chỉ mục:** 48
+Trường hợp tài sản bảo đảm là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh, kho hàng thì không phải thực hiện đăng ký thay đổi khi có sự thay đổi thông tin về tài sản, trừ trường hợp rút bớt, bổ sung tài sản bảo đảm hoặc thuộc trường hợp quy định tại các khoản 2, 4 và 7 Điều 45 Nghị định này.
 
-**Mã phân cấp:** 090020000000000020000040000000000000000004800000000000000000
+2. Trường hợp đăng ký thay đổi về thời điểm có hiệu lực của hợp đồng bảo đảm thì thời điểm này không được sau thời điểm đăng ký biện pháp bảo đảm. Trường hợp thay đổi thời điểm có hiệu lực của hợp đồng bảo đảm sau thời điểm biện pháp bảo đảm đã được đăng ký thì thực hiện xóa đăng ký đối với nội dung đã được đăng ký và đăng ký mới biện pháp bảo đảm.
 
-**ID:** dk_00011749
+3. Trường hợp thông tin thuộc diện bắt buộc phải kê khai trên Phiếu yêu cầu đăng ký mà thay đổi thì phải thực hiện đăng ký thay đổi nội dung này.
 
----
+(Điều này có nội dung liên quan đến Điều 9.3.NĐ.6. Giữ, sử dụng, giao, nhận Giấy chứng nhận; Điều 9.3.NĐ.19. Hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh và kho hàng; Điều 9.3.NĐ.22. Hiệu lực của hợp đồng bảo đảm; Điều 9.3.NĐ.23. Hiệu lực đối kháng của biện pháp bảo đảm với người thứ ba; Điều 9.2.NĐ.45. Mô tả tài sản bảo đảm trên Phiếu yêu cầu đăng ký)
 
+Điều 9.2.NĐ.49. Xử lý đối với đăng ký trùng lặp
 
-### Điều 9.2.NĐ.49. Xử lý đối với đăng ký trùng lặp
+(Điều 49 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 Trường hợp có đăng ký trùng lặp đối với cùng một bên bảo đảm, cùng một bên nhận bảo đảm, cùng một tài sản bảo đảm, cùng một biện pháp bảo đảm và cùng một nghĩa vụ được bảo đảm thì Trung tâm đăng ký giao dịch, tài sản chủ động hủy đăng ký hoặc hủy đăng ký theo đề nghị của người yêu cầu đăng ký đối với việc đăng ký hoặc các việc đăng ký trùng lặp với việc đăng ký được thực hiện sớm nhất. Trường hợp Trung tâm đăng ký giao dịch, tài sản chủ động hủy đăng ký trùng lặp thì ngay trong ngày thực hiện việc hủy phải thông báo bằng bản giấy hoặc bản điện tử về căn cứ và hậu quả của việc hủy đăng ký trùng lặp cho người yêu cầu đăng ký.
 
-**Chỉ mục:** 49
+(Điều này có nội dung liên quan đến Điều 9.2.NĐ.6. Hiệu lực của đăng ký; Điều 9.2.NĐ.21. Hủy đăng ký)
 
-**Mã phân cấp:** 090020000000000020000040000000000000000004900000000000000000
+Chương III
 
-**ID:** dk_00011750
+CUNG CẤP THÔNG TIN VỀ BIỆN PHÁP BẢO ĐẢM
 
----
+Mục 1
 
+CUNG CẤP THÔNG TIN THEO YÊU CẦU CỦA TỔ CHỨC, CÁ NHÂN
 
-### Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin
+Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin
+
+(Điều 50 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Nội dung cung cấp thông tin là thông tin về biện pháp bảo đảm đã được đăng ký và trong phạm vi yêu cầu của tổ chức, cá nhân.
 
-**Chỉ mục:** 50
+2. Tổ chức, cá nhân yêu cầu cung cấp thông tin thực hiện theo một trong các phương thức sau:
 
-**Mã phân cấp:** 090020000000000030000010000000000000000005000000000000000000
+a) Đối với thông tin về biện pháp bảo đảm bằng tàu biển, động sản, cây hằng năm, công trình tạm, nộp Phiếu yêu cầu cung cấp thông tin theo Mẫu số 09d hoặc Mẫu số 12c tại Phụ lục đến cơ quan đăng ký theo thẩm quyền tương ứng quy định tại khoản 3 hoặc khoản 5 Điều 10 Nghị định này và theo cách thức quy định tại Điều 13 Nghị định này. Trường hợp Phiếu yêu cầu cung cấp thông tin được nộp qua hệ thống đăng ký trực tuyến thì áp dụng theo quy định trong nộp hồ sơ đăng ký tại Điều 24 Nghị định này.
 
-**ID:** dk_00011753
+Đối với thông tin về biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất, quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển hoặc đối với tàu bay thì việc yêu cầu cơ quan đăng ký cung cấp thông tin thực hiện theo quy định của pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển hoặc pháp luật về hàng không;
 
----
+b) Tự tra cứu thông tin trong Cơ sở dữ liệu thông qua mã số sử dụng cơ sở dữ liệu.
 
+Tổ chức, cá nhân tự tra cứu thông tin theo quy định tại điểm này có quyền yêu cầu cơ quan có thẩm quyền quy định tại khoản 3 Điều 23 Nghị định này cấp mã số sử dụng cơ sở dữ liệu qua giao diện đăng ký trực tuyến hoặc gửi yêu cầu bằng văn bản đến cơ quan này.
 
-### Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin
+Mã số sử dụng cơ sở dữ liệu có thể là mã số sử dụng thường xuyên hoặc mã số sử dụng một lần trong tra cứu thông tin.
+
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 28. Trách nhiệm của Nhà nước trong việc xây dựng, cung cấp thông tin đất đai; Điều 32.2.LQ.23. Thông tin được cung cấp theo yêu cầu; Điều 32.2.LQ.24. Hình thức yêu cầu cung cấp thông tin; Điều 32.2.LQ.25. Hình thức cung cấp thông tin theo yêu cầu; Điều 32.2.LQ.26. Tiếp nhận yêu cầu cung cấp thông tin; Điều 32.2.LQ.27. Giải quyết yêu cầu cung cấp thông tin; Điều 32.2.LQ.28. Từ chối yêu cầu cung cấp thông tin của Luật 104/2016/QH13 Tiếp cận thông tin ban hành ngày 06/04/2016; Điều 34.4.NĐ.1.171. Cung cấp thông tin về đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.13. Cách thức nộp hồ sơ đăng ký; Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến; Điều 9.2.NĐ.24. Thủ tục đăng ký trực tuyến; Điều 9.2.NĐ.56. Hiệu lực thi hành; Điều 9.2.NĐ.58. Tổ chức thực hiện của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022; Điều 11. Khai thác dữ liệu thông qua phiếu yêu cầu hoặc văn bản yêu cầu)
+
+Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin
+
+(Điều 51 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Cơ quan đăng ký từ chối cung cấp thông tin và thực hiện việc từ chối áp dụng theo quy định tại khoản 2 Điều 15 Nghị định này khi có một trong các căn cứ sau đây:
 
-**Chỉ mục:** 51
+a) Yêu cầu cung cấp thông tin không đúng thẩm quyền;
 
-**Mã phân cấp:** 090020000000000030000010000000000000000005100000000000000000
+b) Kê khai Phiếu yêu cầu cung cấp thông tin không đúng hướng dẫn kê khai trên Mẫu số 09d, Mẫu số 12c tại Phụ lục hoặc kê khai thông tin không đúng với quy định của pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển hoặc pháp luật về hàng không;
 
-**ID:** dk_00011754
+c) Người yêu cầu cung cấp thông tin không nộp phí, trừ trường hợp pháp luật về phí, lệ phí, pháp luật khác có liên quan quy định khác.
 
----
+2. Trường hợp không có căn cứ quy định tại khoản 1 Điều này, cơ quan đăng ký trả kết quả cung cấp thông tin cho người yêu cầu trong thời hạn quy định tại Điều 16 Nghị định này và theo cách thức quy định tại Điều 17 Nghị định này.
 
+3. Việc sử dụng chữ ký, con dấu trong cung cấp thông tin áp dụng theo quy định tại Điều 12 Nghị định này.
 
-### Điều 9.2.NĐ.52. Cơ quan có thẩm quyền, người có thẩm quyền trong hoạt động cung cấp thông tin
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 12. Trình tự, thủ tục cung cấp dữ liệu đất đai; Điều 13. Những trường hợp không cung cấp dữ liệu; Điều 15. Cơ quan cung cấp dữ liệu đất đai của Thông tư 34/2014/TT-BTNMT Quy định về xây dựng, quản lý, khai thác
+hệ thống thông tin đất đai ban hành ngày 30/06/2014; Điều 32.2.LQ.28. Từ chối yêu cầu cung cấp thông tin; Điều 32.2.LQ.29. Trình tự, thủ tục cung cấp thông tin trực tiếp tại trụ sở cơ quan cung cấp thông tin; Điều 32.2.LQ.31. Trình tự, thủ tục cung cấp thông tin qua dịch vụ bưu chính, fax của Luật 104/2016/QH13 Tiếp cận thông tin ban hành ngày 06/04/2016; Điều 14.5.NĐ.7.26. Cung cấp thông tin đăng ký trong Sổ đăng bạ tàu bay; Điều 14.4.NĐ.9.5. Nhiệm vụ của cơ quan đăng ký tàu biển Việt Nam của Nghị định 171/2016/NĐ-CP Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển ban hành ngày 27/12/2016; Điều 34.4.NĐ.1.170. Hồ sơ, thủ tục thực hiện đăng ký, thay đổi, sửa chữa biện pháp bảo đảm; xóa đăng ký biện pháp bảo đảm; Điều 34.4.NĐ.1.173. Nhiệm vụ, quyền hạn, trách nhiệm của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về hoạt động đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin; Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin; Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký; Điều 9.2.NĐ.15. Từ chối đăng ký; Điều 9.2.NĐ.16. Thời hạn giải quyết hồ sơ đăng ký; Điều 9.2.NĐ.17. Trả kết quả đăng ký)Mục 2
+
+HOẠT ĐỘNG CUNG CẤP THÔNG TIN GIỮA CƠ QUAN ĐĂNG KÝ VỚI CƠ QUAN CÓ THẨM QUYỀN, NGƯỜI CÓ THẨM QUYỀN
+
+Điều 9.2.NĐ.52. Cơ quan có thẩm quyền, người có thẩm quyền trong hoạt động cung cấp thông tin
+
+(Điều 52 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Cục Đăng ký quốc gia giao dịch bảo đảm thuộc Bộ Tư pháp; cơ quan có thẩm quyền quy định tại các khoản 1, 2, 3, 4 và 6 Điều 10 Nghị định này, trừ trường hợp pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển, về hàng không hoặc pháp luật về hàng hải có quy định khác.
 
-**Chỉ mục:** 52
+2. Cơ quan có thẩm quyền đăng ký quyền sở hữu, đăng ký quyền sử dụng hoặc đăng ký quyền lưu hành tài sản.
 
-**Mã phân cấp:** 090020000000000030000020000000000000000005200000000000000000
+3. Tòa án nhân dân, Trọng tài, Viện kiểm sát nhân dân, Cơ quan điều tra, người có thẩm quyền của các cơ quan này.
 
-**ID:** dk_00011756
+4. Cơ quan thi hành án dân sự, Chấp hành viên.
 
----
+5. Cơ quan nhà nước khác có thẩm quyền theo quy định của luật, người có thẩm quyền của cơ quan này.
 
+(Điều này có nội dung liên quan đến Điều 30.2.LQ.69. Tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản của Luật 26/2008/QH12 Thi hành án dân sự ban hành ngày 14/11/2008; Điều 37.5.LQ.7. Trách nhiệm cung cấp tài liệu, chứng cứ của cơ quan, tổ chức, cá nhân có thẩm quyền; Điều 37.5.LQ.139. Hiệu lực của quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời của Bộ luật 92/2015/QH13 Tố tụng dân sự ban hành ngày 25/11/2015; Điều 37.7.LQ.5. Trách nhiệm của cơ quan nhà nước, tổ chức và cá nhân trong đấu tranh phòng, chống tội phạm; Điều 34.4.LQ.62. Lưu ký chứng khoán; Điều 34.4.NĐ.1.171. Cung cấp thông tin về đăng ký biện pháp bảo đảm; Điều 34.4.NĐ.1.173. Nhiệm vụ, quyền hạn, trách nhiệm của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về hoạt động đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin; Điều 9.2.NĐ.53. Nội dung cung cấp thông tin, hình thức, thời hạn cung cấp thông tin của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
 
-### Điều 9.2.NĐ.53. Nội dung cung cấp thông tin, hình thức, thời hạn cung cấp thông tin
+Điều 9.2.NĐ.53. Nội dung cung cấp thông tin, hình thức, thời hạn cung cấp thông tin
+
+(Điều 53 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Hoạt động cung cấp thông tin giữa các cơ quan có thẩm quyền, người có thẩm quyền quy định tại Điều 52 Nghị định này không áp dụng đối với trường hợp cơ quan có thẩm quyền, người có thẩm quyền quy định tại các khoản 3, 4 và 5 Điều 52 Nghị định này tống đạt hoặc gửi Bản án, Quyết định có hiệu lực pháp luật để cơ quan đăng ký thi hành theo quy định của pháp luật về tố tụng, pháp luật về thi hành án dân sự, pháp luật khác liên quan.
 
-**Chỉ mục:** 53
+2. Thông tin cung cấp của cơ quan có thẩm quyền, của người có thẩm quyền quy định tại Điều 52 Nghị định này là để phối hợp thực hiện công tác quản lý nhà nước, giải quyết thủ tục hành chính, hỗ trợ hoạt động tố tụng, hoạt động thi hành án dân sự có liên quan, bao gồm:
 
-**Mã phân cấp:** 090020000000000030000020000000000000000005300000000000000000
+a) Thông tin liên quan đến bên bảo đảm, bên nhận bảo đảm, tài sản bảo đảm, thời điểm đăng ký hoặc thông tin khác được lưu tại Sổ đăng ký hoặc Cơ sở dữ liệu do cơ quan có thẩm quyền quy định tại khoản 1 Điều 52 Nghị định này cung cấp theo yêu cầu cho cơ quan có thẩm quyền, người có thẩm quyền quy định tại các khoản 2, 3, 4 và 5 Điều 52 Nghị định này;
 
-**ID:** dk_00011757
+b) Thông tin liên quan đến tài sản do cơ quan có thẩm quyền, người có thẩm quyền quy định tại các khoản 2, 3, 4 và 5 Điều 52 Nghị định này cung cấp cho cơ quan có thẩm quyền quy định tại khoản 1 Điều 52 Nghị định này.
 
----
+3. Việc cung cấp thông tin quy định tại khoản 2 Điều này thực hiện theo hình thức, thời hạn được ghi trong văn bản yêu cầu của cơ quan có thẩm quyền, của người có thẩm quyền và theo quy định của pháp luật về tố tụng, pháp luật về thi hành án dân sự hoặc pháp luật khác có liên quan, trừ trường hợp quy định tại khoản 4 Điều này.
 
+4. Trường hợp cơ quan có thẩm quyền, người có thẩm quyền quy định tại Điều 52 Nghị định này có yêu cầu cấp mã số sử dụng cơ sở dữ liệu để tra cứu thông tin trong Cơ sở dữ liệu đối với động sản thì Cục Đăng ký quốc gia giao dịch bảo đảm thuộc Bộ Tư pháp có trách nhiệm cấp mã số này cho cơ quan có thẩm quyền, người có thẩm quyền.
 
-### Điều 9.2.NĐ.54. Nội dung quản lý nhà nước về đăng ký biện pháp bảo đảm
+Trường hợp tài sản bảo đảm là phương tiện giao thông cơ giới đường bộ thì Bộ Tư pháp phối hợp với Bộ Công an thực hiện việc kết nối, chia sẻ dữ liệu số về đăng ký biện pháp bảo đảm bằng phương tiện giao thông cơ giới đường bộ thông qua Trục liên thông văn bản quốc gia theo quy định của pháp luật về quản lý, kết nối, chia sẻ dữ liệu.
+
+5. Việc cấp mã số sử dụng cơ sở dữ liệu để thực hiện cung cấp thông tin giữa cơ quan có thẩm quyền, người có thẩm quyền quy định tại Điều 52 Nghị định này đối với quyền sử dụng đất, tài sản gắn liền với đất, quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển hoặc đối với tàu bay, tàu biển thực hiện theo quy định của pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển, về hàng không hoặc của pháp luật về hàng hải.
+
+(Điều này có nội dung liên quan đến Điều 3.3.NĐ.9.4. Giá trị pháp lý của dữ liệu được chia sẻ; Điều 3.3.NĐ.9.5. Nguyên tắc chung về quản lý, kết nối và chia sẻ dữ liệu; Điều 3.3.NĐ.9.6. Thực hiện kết nối, chia sẻ dữ liệu; Điều 3.3.NĐ.9.7. Yêu cầu trong việc quản lý, kết nối, chia sẻ dữ liệu; Điều 3.3.NĐ.9.9. Nguyên tắc quản lý dữ liệu, cơ sở dữ liệu trong cơ quan nhà nước của Nghị định 47/2020/NĐ-CP Quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước ban hành ngày 09/04/2020; Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký; Điều 9.2.NĐ.52. Cơ quan có thẩm quyền, người có thẩm quyền trong hoạt động cung cấp thông tin; Điều 9.2.NĐ.56. Hiệu lực thi hành của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Chương IV
+
+QUẢN LÝ NHÀ NƯỚC VỀ ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM
+
+Điều 9.2.NĐ.54. Nội dung quản lý nhà nước về đăng ký biện pháp bảo đảm
+
+(Điều 54 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Xây dựng, thực hiện chiến lược, chính sách phát triển hệ thống đăng ký biện pháp bảo đảm trong phạm vi cả nước.
 
-**Chỉ mục:** 54
+2. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về đăng ký biện pháp bảo đảm.
 
-**Mã phân cấp:** 0900200000000000400005400000000000000000
+3. Tổ chức, quản lý hoạt động đăng ký biện pháp bảo đảm; xây dựng và quản lý các cơ quan đăng ký biện pháp bảo đảm; hướng dẫn, đào tạo, bồi dưỡng, tập huấn chuyên môn, nghiệp vụ về đăng ký biện pháp bảo đảm.
 
-**ID:** dk_00011759
+4. Xây dựng, vận hành và quản lý cơ sở dữ liệu; quản lý, kết nối, chia sẻ dữ liệu về đăng ký biện pháp bảo đảm.
 
----
+5. Tuyên truyền, phổ biến pháp luật về đăng ký biện pháp bảo đảm.
 
+6. Hợp tác quốc tế phù hợp với quy định của pháp luật về các nội dung liên quan đến quản lý nhà nước quy định tại Điều này.
 
-### Điều 9.2.NĐ.55. Nhiệm vụ, quyền hạn của các cơ quan trong quản lý nhà nước về đăng ký biện pháp bảo đảm
+7. Thống kê đăng ký biện pháp bảo đảm; tổng hợp và báo cáo cơ quan có thẩm quyền.
+
+8. Kiểm tra, thanh tra, theo dõi thi hành pháp luật về đăng ký biện pháp bảo đảm; giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về đăng ký biện pháp bảo đảm.
+
+9. Nhiệm vụ, quyền hạn khác quy định tại Nghị định này, pháp luật khác có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 9.2.NĐ.57. Điều khoản chuyển tiếp)
+
+Điều 9.2.NĐ.55. Nhiệm vụ, quyền hạn của các cơ quan trong quản lý nhà nước về đăng ký biện pháp bảo đảm
+
+(Điều 55 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Chính phủ thống nhất quản lý nhà nước về đăng ký biện pháp bảo đảm.
 
-**Chỉ mục:** 55
+2. Bộ Tư pháp giúp Chính phủ thực hiện thống nhất quản lý nhà nước về đăng ký biện pháp bảo đảm có nhiệm vụ, quyền hạn:
 
-**Mã phân cấp:** 0900200000000000400005500000000000000000
+a) Xây dựng, thực hiện chiến lược, chính sách phát triển hệ thống đăng ký biện pháp bảo đảm theo thẩm quyền;
 
-**ID:** dk_00011760
+b) Xây dựng văn bản quy phạm pháp luật về đăng ký biện pháp bảo đảm, trình cơ quan có thẩm quyền ban hành hoặc ban hành theo thẩm quyền;
 
----
+c) Hướng dẫn tổ chức thực hiện, hướng dẫn áp dụng pháp luật đối với các văn bản quy phạm pháp luật về đăng ký biện pháp bảo đảm; tuyên truyền, phổ biến pháp luật về đăng ký biện pháp bảo đảm;
 
+d) Quản lý nhà nước đối với cơ quan đăng ký biện pháp bảo đảm bằng động sản không phải là tàu bay, tàu biển, chứng khoán đã đăng ký tập trung, bằng cây hằng năm, công trình tạm; tổ chức bồi dưỡng nghiệp vụ, chuyên môn về đăng ký biện pháp bảo đảm bằng động sản không phải là tàu bay, tàu biển, chứng khoán đã đăng ký tập trung, bằng cây hằng năm, công trình tạm; đối với việc cấp tài khoản đăng ký trực tuyến, cấp mã số sử dụng cơ sở dữ liệu tại Cục Đăng ký quốc gia giao dịch bảo đảm; xây dựng, vận hành và quản lý hệ thống đăng ký trực tuyến, cơ sở dữ liệu về biện pháp bảo đảm bằng động sản không phải là tàu bay, tàu biển, chứng khoán đã đăng ký tập trung, bằng cây hằng năm, công trình tạm;
 
-### Điều 9.2.NĐ.56. Hiệu lực thi hành
+đ) Chủ trì, phối hợp với các bộ, cơ quan, tổ chức có liên quan tổ chức đào tạo nghiệp vụ, tập huấn, bồi dưỡng pháp luật về đăng ký biện pháp bảo đảm;
+
+e) Hợp tác quốc tế về đăng ký biện pháp bảo đảm;
+
+g) Kiểm tra, thanh tra, theo dõi thi hành pháp luật theo thẩm quyền về đăng ký, cung cấp thông tin về biện pháp bảo đảm; xử lý vi phạm và giải quyết theo thẩm quyền khiếu nại, tố cáo trong việc thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm theo thẩm quyền;
+
+h) Thống kê, tổng hợp, báo cáo Chính phủ về đăng ký, cung cấp thông tin về biện pháp bảo đảm trong phạm vi cả nước;
+
+i) Phối hợp trong thực hiện nhiệm vụ, quyền hạn của các bộ, cơ quan liên quan quy định tại điểm a khoản 3, các điểm a, b và c khoản 4, các điểm b, c và đ khoản 6 Điều này;
+
+k) Nhiệm vụ, quyền hạn khác được Chính phủ giao.
+
+3. Bộ Tài nguyên và Môi trường có nhiệm vụ, quyền hạn:
+
+a) Quản lý nhà nước về cơ sở dữ liệu đối với biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất, cơ sở dữ liệu đối với biện pháp bảo đảm bằng quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển; hướng dẫn và tổ chức bồi dưỡng về chuyên môn, nghiệp vụ đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đối với Văn phòng đăng ký đất đai; biện pháp bảo đảm bằng quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển đối với cơ quan đăng ký có thẩm quyền;
+
+b) Phối hợp với Bộ Tư pháp thực hiện nhiệm vụ nêu tại các điểm a, b, c, đ, g và k khoản 2 Điều này.
+
+4. Bộ Giao thông vận tải có nhiệm vụ, quyền hạn:
+
+a) Quản lý nhà nước đối với cơ quan đăng ký biện pháp bảo đảm bằng tàu bay, cơ quan đăng ký biện pháp bảo đảm bằng tàu biển; hướng dẫn và tổ chức bồi dưỡng nghiệp vụ, chuyên môn về đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển;
+
+b) Theo dõi thi hành pháp luật về đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển;
+
+c) Thực hiện quản lý nhà nước và tổ chức triển khai xây dựng cơ sở dữ liệu điện tử về tàu bay, tàu biển để tạo cơ sở cho việc thực hiện đăng ký trực tuyến, về cấp tài khoản đăng ký trực tuyến, về cấp mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm bằng tàu bay, tàu biển theo quy định của pháp luật về hàng không, về hàng hải;
+
+d) Kiểm tra, thanh tra, xử lý vi phạm và giải quyết theo thẩm quyền khiếu nại, tố cáo trong việc thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tàu bay, tàu biển;
+
+đ) Thực hiện chế độ báo cáo Bộ Tư pháp về việc đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển theo quy định của pháp luật về thống kê; phối hợp với Bộ Tư pháp thực hiện nhiệm vụ nêu tại các điểm a, b, c, đ, g, h và k khoản 2 Điều này.
+
+5. Bộ Tài chính có nhiệm vụ, quyền hạn:
+
+a) Quản lý nhà nước về việc đăng ký biện pháp bảo đảm bằng chứng khoán đã đăng ký tập trung theo thẩm quyền được quy định trong pháp luật về chứng khoán;
+
+b) Ban hành giá dịch vụ đăng ký biện pháp bảo đảm đối với chứng khoán do Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam cung cấp theo pháp luật về giá, pháp luật khác có liên quan;
+
+c) Kiểm tra, thanh tra, xử lý vi phạm và giải quyết theo thẩm quyền khiếu nại, tố cáo trong việc thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng chứng khoán đã đăng ký tập trung;
+
+d) Phối hợp với Bộ Tư pháp thực hiện nhiệm vụ nêu tại các điểm a, b, c, đ, g và k khoản 2 Điều này.
+
+6. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có nhiệm vụ, quyền hạn:
+
+a) Quản lý nhà nước đối với hoạt động đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương;
+
+b) Quản lý nhà nước đối với cơ quan đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương; tổ chức bồi dưỡng nghiệp vụ, chuyên môn về đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương;
+
+c) Hướng dẫn, tổ chức thực hiện, tuyên truyền, phổ biến pháp luật về đăng ký biện pháp bảo đảm tại địa phương;
+
+d) Tổ chức triển khai xây dựng cơ sở dữ liệu đất đai để tạo cơ sở cho việc thực hiện đăng ký trực tuyến biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương;
+
+đ) Kiểm tra công tác đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại Văn phòng đăng ký đất đai theo thẩm quyền;
+
+e) Thanh tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm theo thẩm quyền về đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương;
+
+g) Thực hiện chế độ báo cáo Bộ Tư pháp và Bộ Tài nguyên và Môi trường về việc đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất theo quy định của pháp luật về thống kê; phối hợp với Bộ Tư pháp thực hiện nhiệm vụ nêu tại các điểm a, b, c, đ, g, h và k khoản 2 Điều này.
+
+7. Sở Tư pháp chịu trách nhiệm giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện chức năng quản lý nhà nước đối với hoạt động đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương, chủ trì thực hiện nhiệm vụ, quyền hạn quy định tại các điểm c, đ và g khoản 6 Điều này; phối hợp với Sở Tài nguyên và Môi trường thực hiện nhiệm vụ, quyền hạn của Sở Tài nguyên và Môi trường quy định tại khoản 8 Điều này.
+
+8. Sở Tài nguyên và Môi trường chịu trách nhiệm giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chủ trì thực hiện nhiệm vụ, quyền hạn quy định tại các điểm b, d và e khoản 6 Điều này; phối hợp với Sở Tư pháp thực hiện nhiệm vụ, quyền hạn của Sở Tư pháp quy định tại khoản 7 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 124. Trách nhiệm xây dựng hệ thống thông tin đất đai của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 14.5.LQ.8. Nội dung quản lý nhà nước về hàng không dân dụng; Điều 14.4.LQ.9. Nội dung quản lý nhà nước về hàng hải của Bộ luật 95/2015/QH13 Hàng hải ban hành ngày 25/11/2015; Điều 34.4.NĐ.1.173. Nhiệm vụ, quyền hạn, trách nhiệm của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về hoạt động đăng ký biện pháp bảo đảm)
+
+Chương V
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 9.2.NĐ.56. Hiệu lực thi hành
+
+(Điều 56 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 01 năm 2023, trừ trường hợp quy định tại khoản 2 Điều này.
 
-**Chỉ mục:** 56
+2. Quy định tại Nghị định này về thực hiện thủ tục đăng ký trực tuyến đối với trường hợp tại khoản 4 Điều 47, về cấp tài khoản đăng ký trực tuyến tại Điều 23, về cấp mã số sử dụng cơ sở dữ liệu tại điểm b khoản 2 Điều 50 và về kết nối, chia sẻ dữ liệu số đăng ký biện pháp bảo đảm bằng phương tiện giao thông cơ giới đường bộ tại khoản 4 Điều 53 thuộc lĩnh vực đăng ký đối với động sản không phải là tàu bay, tàu biển, chứng khoán đã đăng ký tập trung có hiệu lực kể từ ngày 01 tháng 01 năm 2024; thuộc lĩnh vực đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển, tàu bay, tàu biển có hiệu lực từ thời điểm được quy định tại pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển, về hàng không hoặc pháp luật về hàng hải.
 
-**Mã phân cấp:** 0900200000000000500005600000000000000000
+3. Nghị định này thay thế Nghị định số 102/2017/NĐ-CP ngày 01 tháng 9 năm 2017 của Chính phủ về đăng ký biện pháp bảo đảm.
 
-**ID:** dk_00011762
+(Điều này có nội dung liên quan đến Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến; Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm; Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin; Điều 9.2.NĐ.53. Nội dung cung cấp thông tin, hình thức, thời hạn cung cấp thông tin; Điều 9.2.NĐ.57. Điều khoản chuyển tiếp)
 
----
+Điều 9.2.NĐ.57. Điều khoản chuyển tiếp
 
-
-### Điều 9.2.NĐ.57. Điều khoản chuyển tiếp
+(Điều 57 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Biện pháp bảo đảm được xác lập trước ngày Nghị định này có hiệu lực thi hành mà chưa đăng ký nhưng hợp đồng bảo đảm vẫn còn hiệu lực thì đăng ký theo quy định của Nghị định này.
 
-**Chỉ mục:** 57
+2. Biện pháp bảo đảm đã được đăng ký trước ngày Nghị định này có hiệu lực thi hành thì không phải đăng ký lại. Kể từ ngày Nghị định này có hiệu lực thi hành mà đăng ký thay đổi, xóa đăng ký, chỉnh lý thông tin có sai sót trong nội dung đã được đăng ký, đăng ký thông báo xử lý tài sản bảo đảm hoặc hủy đăng ký đối với biện pháp bảo đảm này thì thực hiện theo quy định của Nghị định này.
 
-**Mã phân cấp:** 0900200000000000500005700000000000000000
+3. Kể từ ngày Nghị định này có hiệu lực thi hành đến ngày 31 tháng 12 năm 2023, việc trao đổi thông tin về đăng ký biện pháp bảo đảm bằng phương tiện giao thông cơ giới đường bộ thực hiện theo quy định tại điểm a khoản 3 và điểm a khoản 4 Điều 63 Nghị định số 102/2017/NĐ-CP ngày 01 tháng 9 năm 2017 của Chính phủ về đăng ký biện pháp bảo đảm.
 
-**ID:** dk_00011763
+4. Trường hợp trước ngày có hiệu lực thi hành quy định tại khoản 2 Điều 56 Nghị định này, tổ chức, cá nhân đã được cơ quan có thẩm quyền cấp tài khoản đăng ký trực tuyến, mã số sử dụng cơ sở dữ liệu thì tổ chức, cá nhân tiếp tục sử dụng tài khoản đăng ký trực tuyến, mã số sử dụng cơ sở dữ liệu đã được cấp để thực hiện việc đăng ký hoặc thực hiện yêu cầu cung cấp thông tin theo quy định tại Nghị định này.
 
----
+5. Trường hợp trước ngày có hiệu lực thi hành quy định tại khoản 2 Điều 56 Nghị định này, tổ chức, cá nhân có yêu cầu cấp mới tài khoản đăng ký trực tuyến hoặc cấp mới mã số sử dụng cơ sở dữ liệu thì thực hiện theo quy định tại Điều 54 Nghị định số 102/2017/NĐ-CP ngày 01 tháng 9 năm 2017 của Chính phủ về đăng ký biện pháp bảo đảm, quy định khác có liên quan tại pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển, về hàng không hoặc pháp luật về hàng hải.
 
+6. Trường hợp Văn phòng đăng ký đất đai chưa được thành lập tại tỉnh, thành phố trực thuộc Trung ương thì Văn phòng Đăng ký quyền sử dụng đất hoặc cơ quan khác thực hiện chức năng của Văn phòng đăng ký đất đai tiếp tục thực hiện đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất quy định tại Điều 25 Nghị định này cho đến khi thành lập Văn phòng đăng ký đất đai.
 
-### Điều 9.2.NĐ.58. Tổ chức thực hiện
+(Điều này có nội dung liên quan đến Điều 37. Cơ quan cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất khi người sử dụng đất thực hiện các quyền của người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, cấp đổi, cấp lại Giấy chứng nhận của Nghị định 43/2014/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Đất đai ban hành ngày 15/05/2014; Điều 5. Thực hiện dịch vụ trong lĩnh vực đất đai; Điều 60. Nộp hồ sơ và trả kết quả thực hiện thủ tục hành chính về đất đai; Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai; Điều 9.2.NĐ.54. Nội dung quản lý nhà nước về đăng ký biện pháp bảo đảm; Điều 9.2.NĐ.56. Hiệu lực thi hành của Nghị định 99/2022/NĐ-CP Về đăng ký biện pháp bảo đàm ban hành ngày 30/11/2022)
+
+Điều 9.2.NĐ.58. Tổ chức thực hiện
+
+(Điều 58 Nghị định số 99/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 
 1. Bộ Tư pháp, Bộ Tài nguyên và Môi trường, Bộ Giao thông vận tải, Bộ Tài chính, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm:
 
-**Chỉ mục:** 58
+a) Phối hợp với Văn phòng Chính phủ, các bộ, cơ quan liên quan thực hiện việc quản lý, kết nối, chia sẻ dữ liệu số đối với thông tin về kết quả đăng ký biện pháp bảo đảm theo quy định của pháp luật về quản lý, kết nối, chia sẻ dữ liệu;
 
-**Mã phân cấp:** 0900200000000000500005800000000000000000
+b) Thực hiện việc khai thác, sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư, hệ thống định danh và xác thực điện tử trong hoạt động đăng ký, cung cấp thông tin về biện pháp bảo đảm theo quy định của pháp luật về quản lý, kết nối, chia sẻ dữ liệu.
 
-**ID:** dk_00011764
+2. Bộ Tư pháp phối hợp với Bộ Công an thực hiện việc kết nối, chia sẻ dữ liệu số về đăng ký biện pháp bảo đảm bằng phương tiện giao thông cơ giới đường bộ theo quy định của pháp luật về quản lý, kết nối, chia sẻ dữ liệu, hoàn thành trước ngày 31 tháng 12 năm 2023; có trách nhiệm hoàn thiện phần mềm đăng ký trực tuyến để thực hiện việc đăng ký quy định tại khoản 4 Điều 47 Nghị định này, để thực hiện việc cấp tài khoản đăng ký trực tuyến quy định tại Điều 23 Nghị định này và để thực hiện việc cấp mã số sử dụng cơ sở dữ liệu quy định tại điểm b khoản 2 Điều 50 Nghị định này, hoàn thành trước ngày 31 tháng 12 năm 2023.
 
----
+Trường hợp cần đảm bảo sự thống nhất trong thực hiện thủ tục đăng ký theo quy định tại Nghị định này liên quan đến thông tin thể hiện trên mẫu kèm theo Phụ lục, Bộ trưởng Bộ Tư pháp có trách nhiệm chủ trì, phối hợp với các bộ, cơ quan liên quan hướng dẫn theo thẩm quyền.
 
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Dân sự](/dan-su/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Phu luc_ban hành kèm theo NĐ so 99.2022.NĐ-CP.doc
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 71
-- **Điều khoản thực tế:** 60
-- **Điều khoản có nội dung:** 60 (100.0%)
-- **ID đề mục:** 176d1e2686ea43d0a30b0436225de492
+(Điều này có nội dung liên quan đến Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký; Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến; Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm; Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin)
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+## Danh sách điều khoản
 
----
+### 09002000000000001000
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Chương I QUY ĐỊNH CHUNG
+
+### 0900200000000000100000100000000000000000
+
+Điều 9.2.NĐ.1. Phạm vi điều chỉnh 1. Nghị định này quy định về đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tài sản (sau đây gọi là biện pháp bảo đảm); quản lý nhà nước về đăng ký biện pháp bảo đảm.
+
+### 0900200000000000100000200000000000000000
+
+Điều 9.2.NĐ.2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến đăng ký, cung cấp thông tin về biện pháp bảo đảm, quản lý nhà nước về đăng ký biện pháp bảo đảm.
+
+### 0900200000000000100000300000000000000000
+
+Điều 9.2.NĐ.3. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0900200000000000100000400000000000000000
+
+Điều 9.2.NĐ.4. Các trường hợp đăng ký 1. Các trường hợp đăng ký bao gồm:
+
+### 0900200000000000100000500000000000000000
+
+Điều 9.2.NĐ.5. Nguyên tắc đăng ký, cung cấp thông tin 1. Người yêu cầu đăng ký phải kê khai trung thực và chịu trách nhiệm trước pháp luật về tính chính xác của thông tin kê khai.
+
+### 0900200000000000100000600000000000000000
+
+Điều 9.2.NĐ.6. Hiệu lực của đăng ký 1. Hiệu lực của đăng ký được xác định như sau:
+
+### 0900200000000000100000700000000000000000
+
+Điều 9.2.NĐ.7. Ngôn ngữ sử dụng trong đăng ký, cung cấp thông tin 1. Biểu mẫu, tài liệu và việc kê khai trong đăng ký, cung cấp thông tin phải được lập bằng tiếng Việt hoặc bằng cả tiếng Việt và tiếng nước ngoài trong trường hợp pháp luật có quy định.
+
+### 0900200000000000100000800000000000000000
+
+Điều 9.2.NĐ.8. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin 1. Người yêu cầu đăng ký bao gồm bên nhận bảo đảm, bên bảo đảm; Quản tài viên; doanh nghiệp quản lý, thanh lý tài sản trong trường hợp doanh nghiệp, hợp tác xã mất khả năng thanh toán cho người khác vay tài sản nhưng không thực hiện việc đăng ký (sau đây gọi là doanh nghiệp quản lý, thanh lý tài sản).
+
+### 0900200000000000100000900000000000000000
+
+Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin 1. Quyền của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin:
+
+### 0900200000000000100001000000000000000000
+
+Điều 9.2.NĐ.10. Cơ quan đăng ký, cơ quan cung cấp thông tin 1. Văn phòng đăng ký đất đai trực thuộc Sở Tài nguyên và Môi trường, Chi nhánh của Văn phòng đăng ký đất đai (sau đây gọi là Văn phòng đăng ký đất đai) thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất quy định tại Điều 25 Nghị định này.
+
+### 0900200000000000100001100000000000000000
+
+Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin 1. Đăng ký theo trường hợp và theo thẩm quyền quy định tại Điều 4 và Điều 10 Nghị định này; cấp bản sao văn bản chứng nhận đăng ký đối với trường hợp quy định tại điểm a khoản 1 Điều 9 Nghị định này; chỉnh lý thông tin có sai sót trong nội dung đã được đăng ký.
+
+### 09002000000000002000
+
+Chương II THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM
+
+### 0900200000000000200000100000000000000000
+
+Mục 1 THỦ TỤC CHUNG
+
+### 090020000000000020000010000000000000000001200000000000000000
+
+Điều 9.2.NĐ.12. Chữ ký, con dấu trong đăng ký 1. Phiếu yêu cầu đăng ký phải có chữ ký của người có thẩm quyền (sau đây gọi là chữ ký), con dấu (nếu có) của bên bảo đảm và bên nhận bảo đảm, trừ trường hợp sau đây:
+
+### 090020000000000020000010000000000000000001300000000000000000
+
+Điều 9.2.NĐ.13. Cách thức nộp hồ sơ đăng ký 1. Hồ sơ đăng ký được nộp theo một trong các cách thức sau đây:
+
+### 090020000000000020000010000000000000000001400000000000000000
+
+Điều 9.2.NĐ.14. Tiếp nhận hồ sơ đăng ký 1. Trường hợp hồ sơ đăng ký được nộp bằng bản giấy mà hợp lệ thì người tiếp nhận ghi vào Sổ tiếp nhận, cấp Giấy tiếp nhận hồ sơ và hẹn trả kết quả.
+
+### 090020000000000020000010000000000000000001500000000000000000
+
+Điều 9.2.NĐ.15. Từ chối đăng ký 1. Từ chối đăng ký được thực hiện khi có một trong các căn cứ sau đây:
+
+### 090020000000000020000010000000000000000001600000000000000000
+
+Điều 9.2.NĐ.16. Thời hạn giải quyết hồ sơ đăng ký 1. Cơ quan đăng ký có trách nhiệm giải quyết hồ sơ đăng ký trong ngày làm việc nhận được hồ sơ hợp lệ; nếu thời điểm nhận hồ sơ sau 15 giờ cùng ngày thì có thể hoàn thành việc đăng ký trong ngày làm việc tiếp theo. Trường hợp cơ quan đăng ký có lý do chính đáng phải kéo dài thời gian giải quyết hồ sơ đăng ký thì thời hạn giải quyết hồ sơ không quá 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Trong trường hợp này, cơ quan đăng ký phải thông báo có nêu rõ lý do cho người yêu cầu đăng ký bằng bản giấy hoặc văn bản điện tử (sau đây gọi là bản điện tử) hoặc bằng hình thức khác thuận lợi cho người yêu cầu đăng ký và phù hợp với điều kiện của cơ quan đăng ký ngay khi có lý do chính đáng.
+
+### 090020000000000020000010000000000000000001700000000000000000
+
+Điều 9.2.NĐ.17. Trả kết quả đăng ký 1. Trường hợp đăng ký tại Trung tâm đăng ký giao dịch, tài sản thì kết quả đăng ký được trả bằng bản điện tử hoặc bản giấy theo đề nghị của người yêu cầu đăng ký. Việc cấp bản sao kết quả đăng ký thực hiện theo quy định tại Điều 22 Nghị định này.
+
+### 090020000000000020000010000000000000000001800000000000000000
+
+Điều 9.2.NĐ.18. Trường hợp đăng ký thay đổi 1. Người yêu cầu đăng ký nộp hồ sơ đăng ký thay đổi khi có một trong các căn cứ sau đây:
+
+### 090020000000000020000010000000000000000001900000000000000000
+
+Điều 9.2.NĐ.19. Chỉnh lý thông tin có sai sót trong nội dung đã được đăng ký Trường hợp thông tin trong nội dung đã được đăng ký không phù hợp với nội dung được kê khai trên Phiếu yêu cầu đăng ký do lỗi của cơ quan đăng ký thì cơ quan này có trách nhiệm chỉnh lý ngay khi phát hiện có thông tin sai sót để phù hợp với Phiếu yêu cầu đăng ký, đồng thời thông báo việc chỉnh lý bằng văn bản theo Mẫu số 07a, Mẫu số 07d, Mẫu số 10b hoặc Mẫu số 10c tại Phụ lục cho người yêu cầu đăng ký. Kết quả chỉnh lý không làm thay đổi hoặc không làm chấm dứt hiệu lực của đăng ký.
+
+### 090020000000000020000010000000000000000002000000000000000000
+
+Điều 9.2.NĐ.20. Xóa đăng ký 1. Người yêu cầu đăng ký nộp hồ sơ xóa đăng ký khi thuộc một trong các trường hợp sau đây:
+
+### 090020000000000020000010000000000000000002100000000000000000
+
+Điều 9.2.NĐ.21. Hủy đăng ký 1. Việc hủy đăng ký được thực hiện trong trường hợp sau đây:
+
+### 090020000000000020000010000000000000000002200000000000000000
+
+Điều 9.2.NĐ.22. Cấp bản sao văn bản chứng nhận đăng ký 1. Người yêu cầu đăng ký quy định tại các khoản 1, 2, 3, 4 hoặc 5 Điều 8 Nghị định này có quyền đề nghị cơ quan đăng ký đã cấp văn bản chứng nhận đăng ký thực hiện cấp bản sao văn bản chứng nhận này theo Mẫu số 08d, Mẫu số 11b hoặc Mẫu số 11c tại Phụ lục.
+
+### 090020000000000020000010000000000000000002300000000000000000
+
+Điều 9.2.NĐ.23. Cấp tài khoản đăng ký trực tuyến 1. Tổ chức, cá nhân thực hiện đăng ký trực tuyến được cơ quan có thẩm quyền quy định tại khoản 3 Điều này cấp tài khoản đăng ký trực tuyến (sau đây gọi là tài khoản).
+
+### 090020000000000020000010000000000000000002400000000000000000
+
+Điều 9.2.NĐ.24. Thủ tục đăng ký trực tuyến 1. Người yêu cầu đăng ký sử dụng tài khoản để đăng nhập vào hệ thống đăng ký trực tuyến và kê khai thông tin, xác thực hồ sơ đăng ký theo quy trình trên giao diện đăng ký trực tuyến. Trường hợp pháp luật có quy định hồ sơ đăng ký phải đính kèm bản điện tử thì người yêu cầu đăng ký gửi đính kèm văn bản này, trừ trường hợp quy định tại khoản 5 Điều 46 Nghị định này.
+
+### 0900200000000000200000200000000000000000
+
+Mục 2 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG QUYỀN SỬ DỤNG ĐẤT, TÀI SẢN GẮN LIỀN VỚI ĐẤT
+
+### 090020000000000020000020000000000000000002500000000000000000
+
+Điều 9.2.NĐ.25. Trường hợp đăng ký thuộc thẩm quyền của Văn phòng đăng ký đất đai 1. Các trường hợp phải đăng ký:
+
+### 090020000000000020000020000000000000000002600000000000000000
+
+Điều 9.2.NĐ.26. Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất 1. Trường hợp đã đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở tại Trung tâm đăng ký giao dịch, tài sản mà có yêu cầu chuyển sang thế chấp nhà ở hình thành trong tương lai hoặc chuyển sang thế chấp nhà ở đã được cấp Giấy chứng nhận mà có cùng bên nhận bảo đảm thì người yêu cầu đăng ký có thể lựa chọn thực hiện:
+
+### 090020000000000020000020000000000000000002700000000000000000
+
+Điều 9.2.NĐ.27. Hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất đã được chứng nhận quyền sở hữu 1. Phiếu yêu cầu theo Mẫu số 01a tại Phụ lục (01 bản chính).
+
+### 090020000000000020000020000000000000000002800000000000000000
+
+Điều 9.2.NĐ.28. Hồ sơ đăng ký đối với dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất 1. Hồ sơ đăng ký đối với dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở bao gồm:
+
+### 090020000000000020000020000000000000000002900000000000000000
+
+Điều 9.2.NĐ.29. Hồ sơ đăng ký đối với nhà ở, công trình xây dựng không phải là nhà ở, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng nhà ở; công trình xây dựng, tài sản khác gắn liền với đất hình thành trong tương lai thuộc dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất 1. Trường hợp bên bảo đảm là chủ đầu tư đồng thời là người sử dụng đất, hồ sơ đăng ký bao gồm:
+
+### 090020000000000020000020000000000000000003000000000000000000
+
+Điều 9.2.NĐ.30. Hồ sơ đăng ký đối với nhà ở hình thành trong tương lai, tài sản khác gắn liền với đất hình thành trong tương lai không thuộc dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình không phải là nhà ở, dự án đầu tư nông nghiệp, dự án phát triển rừng, dự án khác có sử dụng đất 1. Trường hợp bên bảo đảm đồng thời là người sử dụng đất, hồ sơ đăng ký bao gồm:
+
+### 090020000000000020000020000000000000000003100000000000000000
+
+Điều 9.2.NĐ.31. Hồ sơ đăng ký đối với tài sản gắn liền với đất đã hình thành không phải là nhà ở mà pháp luật không quy định phải đăng ký quyền sở hữu và cũng chưa được đăng ký quyền sở hữu theo yêu cầu 1. Giấy tờ quy định tại khoản 1 và khoản 2 Điều 27 Nghị định này.
+
+### 090020000000000020000020000000000000000003200000000000000000
+
+Điều 9.2.NĐ.32. Hồ sơ đăng ký thay đổi đối với quyền sử dụng đất, tài sản gắn liền với đất 1. Phiếu yêu cầu theo Mẫu số 02a tại Phụ lục (01 bản chính).
+
+### 090020000000000020000020000000000000000003300000000000000000
+
+Điều 9.2.NĐ.33. Hồ sơ xóa đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất 1. Phiếu yêu cầu theo Mẫu số 03a tại Phụ lục (01 bản chính).
+
+### 090020000000000020000020000000000000000003400000000000000000
+
+Điều 9.2.NĐ.34. Hồ sơ đăng ký thông báo xử lý tài sản bảo đảm 1. Phiếu yêu cầu theo Mẫu số 04a tại Phụ lục (01 bản chính).
+
+### 090020000000000020000020000000000000000003500000000000000000
+
+Điều 9.2.NĐ.35. Thủ tục giải quyết hồ sơ đăng ký đối với quyền sử dụng đất, tài sản gắn liền với đất, chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hoặc từ hợp đồng mua bán tài sản khác gắn liền với đất 1. Sau khi tiếp nhận hồ sơ đăng ký, trường hợp không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Văn phòng đăng ký đất đai ghi, cập nhật nội dung đăng ký theo đúng thứ tự tiếp nhận hồ sơ vào Sổ đăng ký và Giấy chứng nhận. Sau khi ghi vào Sổ đăng ký và Giấy chứng nhận thì chứng nhận nội dung đăng ký và thời điểm đăng ký (giờ, phút, ngày, tháng, năm) vào Phiếu yêu cầu đăng ký.
+
+### 090020000000000020000020000000000000000003600000000000000000
+
+Điều 9.2.NĐ.36. Thay đổi thông tin về bên bảo đảm, thay đổi về tài sản bảo đảm là quyền sử dụng đất, tài sản gắn liền với đất 1. Người yêu cầu đăng ký có thể nộp đồng thời hồ sơ đăng ký biện pháp bảo đảm với hồ sơ đăng ký biến động đất đai, tài sản gắn liền với đất hoặc thực hiện đăng ký biến động đất đai, tài sản gắn liền với đất trước khi đăng ký biện pháp bảo đảm trong trường hợp có sự thay đổi thông tin sau đây:
+
+### 090020000000000020000020000000000000000003700000000000000000
+
+Điều 9.2.NĐ.37. Giải quyết đăng ký trong trường hợp thông tin về tài sản bảo đảm trong hợp đồng bảo đảm bao gồm tài sản khác ngoài quyền sử dụng đất, tài sản gắn liền với đất; quyền sử dụng đất, tài sản gắn liền với đất là tài sản chung của vợ chồng, của các thành viên hộ gia đình, của nhóm người sử dụng đất hoặc thuộc doanh nghiệp tư nhân Văn phòng đăng ký đất đai không từ chối đăng ký theo căn cứ quy định tại điểm d khoản 1 Điều 15 Nghị định này và thực hiện việc đăng ký đối với trường hợp sau đây:
+
+### 0900200000000000200000300000000000000000
+
+Mục 3 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BAY, TÀU BIỂN
+
+### 090020000000000020000030000000000000000000100000000000000000
+
+Tiểu mục 1 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BAY
+
+### 09002000000000002000003000000000000000000010000000000000000003800000000000000000
+
+Điều 9.2.NĐ.38. Trường hợp đăng ký thuộc thẩm quyền của Cục Hàng không Việt Nam 1. Thế chấp tàu bay, cầm cố tàu bay.
+
+### 09002000000000002000003000000000000000000010000000000000000003900000000000000000
+
+Điều 9.2.NĐ.39. Hồ sơ đăng ký đối với tàu bay 1. Hồ sơ đăng ký bao gồm:
+
+### 09002000000000002000003000000000000000000010000000000000000004000000000000000000
+
+Điều 9.2.NĐ.40. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với tàu bay 1. Sau khi tiếp nhận hồ sơ đăng ký, trường hợp không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Cục Hàng không Việt Nam ghi, cập nhật thời điểm đăng ký (giờ, phút, ngày, tháng, năm) và nội dung được đăng ký, nội dung được thay đổi, nội dung được xóa, nội dung thuộc thông báo xử lý tài sản bảo đảm vào Sổ đăng bạ tàu bay Việt Nam; cấp Giấy chứng nhận đăng ký theo Mẫu số 05b, Mẫu số 06b, Mẫu số 07b hoặc Mẫu số 08b tại Phụ lục cho người yêu cầu đăng ký theo cách thức quy định tại các khoản 2, 3 và 4 Điều 17 Nghị định này.
+
+### 090020000000000020000030000000000000000000200000000000000000
+
+Tiểu mục 2 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BIỂN
+
+### 09002000000000002000003000000000000000000020000000000000000004100000000000000000
+
+Điều 9.2.NĐ.41. Trường hợp đăng ký thuộc thẩm quyền của Cơ quan đăng ký tàu biển Việt Nam 1. Thế chấp tàu biển.
+
+### 09002000000000002000003000000000000000000020000000000000000004200000000000000000
+
+Điều 9.2.NĐ.42. Hồ sơ đăng ký đối với tàu biển 1. Hồ sơ đăng ký bao gồm:
+
+### 09002000000000002000003000000000000000000020000000000000000004300000000000000000
+
+Điều 9.2.NĐ.43. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đốivới tàu biển 1. Sau khi tiếp nhận hồ sơ đăng ký, trường hợp không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Cơ quan đăng ký tàu biển Việt Nam ghi, cập nhật thời điểm đăng ký (giờ, phút, ngày, tháng, năm) và nội dung được đăng ký, nội dung được thay đổi, nội dung được xóa, nội dung thuộc thông báo xử lý tài sản bảo đảm vào Sổ đăng ký tàu biển quốc gia Việt Nam; cấp Giấy chứng nhận đăng ký theo Mẫu số 05c, Mẫu số 06c, Mẫu số 07c hoặc Mẫu số 08c tại Phụ lục cho người yêu cầu đăng ký theo cách thức quy định tại các khoản 2, 3 và 4 Điều 17 Nghị định này.
+
+### 0900200000000000200000400000000000000000
+
+Mục 4 THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG ĐỘNG SẢN, CÂY HẰNG NĂM, CÔNG TRÌNH TẠM
+
+### 090020000000000020000040000000000000000004400000000000000000
+
+Điều 9.2.NĐ.44. Trường hợp đăng ký thuộc thẩm quyền của Trung tâm đăng ký giao dịch, tài sản 1. Các trường hợp đăng ký theo yêu cầu hoặc theo quy định của pháp luật bao gồm:
+
+### 090020000000000020000040000000000000000004500000000000000000
+
+Điều 9.2.NĐ.45. Mô tả tài sản bảo đảm trên Phiếu yêu cầu đăng ký 1. Việc mô tả tài sản bảo đảm phải xác định được phạm vi động sản được dùng để bảo đảm. Trường hợp tài sản thuộc một trong các khoản 2, 3, 4, 5, 6, 7 hoặc 8 Điều này thì việc mô tả tài sản bảo đảm phải có thêm thông tin được quy định tại khoản đó.
+
+### 090020000000000020000040000000000000000004600000000000000000
+
+Điều 9.2.NĐ.46. Hồ sơ đăng ký đối với động sản, cây hằng năm, công trình tạm 1. Hồ sơ đăng ký bao gồm Phiếu yêu cầu theo Mẫu số 01d tại Phụ lục (01 bản chính) và nộp thêm giấy tờ, tài liệu sau đây:
+
+### 090020000000000020000040000000000000000004700000000000000000
+
+Điều 9.2.NĐ.47. Thủ tục giải quyết hồ sơ đăng ký, đăng ký thay đổi, xóa đăng ký đối với động sản, cây hằng năm, công trình tạm 1. Trường hợp hồ sơ đăng ký được nộp bằng bản giấy mà không có căn cứ từ chối đăng ký quy định tại khoản 1 Điều 15 Nghị định này thì Trung tâm đăng ký giao dịch, tài sản ghi thời điểm nhận (giờ, phút, ngày, tháng, năm) vào Phiếu yêu cầu đăng ký, Sổ tiếp nhận; cập nhật thông tin trên Phiếu yêu cầu đăng ký vào Cơ sở dữ liệu và sao lưu các tài liệu trong hồ sơ đăng ký vào hệ thống đăng ký trực tuyến; cấp văn bản chứng nhận đăng ký theo Mẫu số 05d tại Phụ lục. Việc nhận văn bản chứng nhận đăng ký là bản giấy hoặc việc trả lại giấy tờ, tài liệu là bản giấy người yêu cầu đăng ký đã nộp có thể thực hiện tại trụ sở Trung tâm đăng ký giao dịch, tài sản hoặc qua dịch vụ bưu chính theo đề nghị của người yêu cầu đăng ký.
+
+### 090020000000000020000040000000000000000004800000000000000000
+
+Điều 9.2.NĐ.48. Thay đổi thông tin về nội dung đã được đăng ký đối với động sản, cây hằng năm, công trình tạm 1. Trường hợp tài sản bảo đảm là phương tiện giao thông cơ giới đường bộ hoặc tài sản khác phải đăng ký quyền sở hữu, quyền sử dụng, quyền lưu hành, quyền khác theo quy định của pháp luật có sự thay đổi thông tin mà thông tin đó thể hiện trên Giấy chứng nhận thì thông tin đăng ký thay đổi phải phù hợp với thông tin thể hiện trên Giấy chứng nhận được cấp mới hoặc được bổ sung.
+
+### 090020000000000020000040000000000000000004900000000000000000
+
+Điều 9.2.NĐ.49. Xử lý đối với đăng ký trùng lặp Trường hợp có đăng ký trùng lặp đối với cùng một bên bảo đảm, cùng một bên nhận bảo đảm, cùng một tài sản bảo đảm, cùng một biện pháp bảo đảm và cùng một nghĩa vụ được bảo đảm thì Trung tâm đăng ký giao dịch, tài sản chủ động hủy đăng ký hoặc hủy đăng ký theo đề nghị của người yêu cầu đăng ký đối với việc đăng ký hoặc các việc đăng ký trùng lặp với việc đăng ký được thực hiện sớm nhất. Trường hợp Trung tâm đăng ký giao dịch, tài sản chủ động hủy đăng ký trùng lặp thì ngay trong ngày thực hiện việc hủy phải thông báo bằng bản giấy hoặc bản điện tử về căn cứ và hậu quả của việc hủy đăng ký trùng lặp cho người yêu cầu đăng ký.
+
+### 09002000000000003000
+
+Chương III CUNG CẤP THÔNG TIN VỀ BIỆN PHÁP BẢO ĐẢM
+
+### 0900200000000000300000100000000000000000
+
+Mục 1 CUNG CẤP THÔNG TIN THEO YÊU CẦU CỦA TỔ CHỨC, CÁ NHÂN
+
+### 090020000000000030000010000000000000000005000000000000000000
+
+Điều 9.2.NĐ.50. Nội dung cung cấp thông tin, phương thức yêu cầu cung cấp thông tin 1. Nội dung cung cấp thông tin là thông tin về biện pháp bảo đảm đã được đăng ký và trong phạm vi yêu cầu của tổ chức, cá nhân.
+
+### 090020000000000030000010000000000000000005100000000000000000
+
+Điều 9.2.NĐ.51. Thủ tục giải quyết yêu cầu cơ quan đăng ký cung cấp thông tin 1. Cơ quan đăng ký từ chối cung cấp thông tin và thực hiện việc từ chối áp dụng theo quy định tại khoản 2 Điều 15 Nghị định này khi có một trong các căn cứ sau đây:
+
+### 0900200000000000300000200000000000000000
+
+Mục 2 HOẠT ĐỘNG CUNG CẤP THÔNG TIN GIỮA CƠ QUAN ĐĂNG KÝ VỚI CƠ QUAN CÓ THẨM QUYỀN, NGƯỜI CÓ THẨM QUYỀN
+
+### 090020000000000030000020000000000000000005200000000000000000
+
+Điều 9.2.NĐ.52. Cơ quan có thẩm quyền, người có thẩm quyền trong hoạt động cung cấp thông tin 1. Cục Đăng ký quốc gia giao dịch bảo đảm thuộc Bộ Tư pháp; cơ quan có thẩm quyền quy định tại các khoản 1, 2, 3, 4 và 6 Điều 10 Nghị định này, trừ trường hợp pháp luật về đất đai, về khai thác, sử dụng tài nguyên biển, về hàng không hoặc pháp luật về hàng hải có quy định khác.
+
+### 090020000000000030000020000000000000000005300000000000000000
+
+Điều 9.2.NĐ.53. Nội dung cung cấp thông tin, hình thức, thời hạn cung cấp thông tin 1. Hoạt động cung cấp thông tin giữa các cơ quan có thẩm quyền, người có thẩm quyền quy định tại Điều 52 Nghị định này không áp dụng đối với trường hợp cơ quan có thẩm quyền, người có thẩm quyền quy định tại các khoản 3, 4 và 5 Điều 52 Nghị định này tống đạt hoặc gửi Bản án, Quyết định có hiệu lực pháp luật để cơ quan đăng ký thi hành theo quy định của pháp luật về tố tụng, pháp luật về thi hành án dân sự, pháp luật khác liên quan.
+
+### 09002000000000004000
+
+Chương IV QUẢN LÝ NHÀ NƯỚC VỀ ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM
+
+### 0900200000000000400005400000000000000000
+
+Điều 9.2.NĐ.54. Nội dung quản lý nhà nước về đăng ký biện pháp bảo đảm 1. Xây dựng, thực hiện chiến lược, chính sách phát triển hệ thống đăng ký biện pháp bảo đảm trong phạm vi cả nước.
+
+### 0900200000000000400005500000000000000000
+
+Điều 9.2.NĐ.55. Nhiệm vụ, quyền hạn của các cơ quan trong quản lý nhà nước về đăng ký biện pháp bảo đảm 1. Chính phủ thống nhất quản lý nhà nước về đăng ký biện pháp bảo đảm.
+
+### 09002000000000005000
+
+Chương V ĐIỀU KHOẢN THI HÀNH
+
+### 0900200000000000500005600000000000000000
+
+Điều 9.2.NĐ.56. Hiệu lực thi hành 1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 01 năm 2023, trừ trường hợp quy định tại khoản 2 Điều này.
+
+### 0900200000000000500005700000000000000000
+
+Điều 9.2.NĐ.57. Điều khoản chuyển tiếp 1. Biện pháp bảo đảm được xác lập trước ngày Nghị định này có hiệu lực thi hành mà chưa đăng ký nhưng hợp đồng bảo đảm vẫn còn hiệu lực thì đăng ký theo quy định của Nghị định này.
+
+### 0900200000000000500005800000000000000000
+
+Điều 9.2.NĐ.58. Tổ chức thực hiện 1. Bộ Tư pháp, Bộ Tài nguyên và Môi trường, Bộ Giao thông vận tải, Bộ Tài chính, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm:
+

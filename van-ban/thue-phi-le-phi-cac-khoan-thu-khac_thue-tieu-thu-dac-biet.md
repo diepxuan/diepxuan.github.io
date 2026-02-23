@@ -1,478 +1,1414 @@
 ---
-layout: default
+layout: page
 title: Thuế tiêu thụ đặc biệt
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tieu-thu-dac-biet/
-collection: subtopics
-slug: thue-tieu-thu-dac-biet
-parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---
 
 # Thuế tiêu thụ đặc biệt
 
-**Đề mục:** Thuế tiêu thụ đặc biệt  
-**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](/thue-phi-le-phi-cac-khoan-thu-khac/)  
-**Số điều khoản:** 38  
-**Điều khoản có nội dung:** 2/34 (5.9%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 33.12.LQ.1. Phạm vi điều chỉnh
+Điều 33.12.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 27/2008/QH12 Thuế tiêu thụ đặc biệt ngày 14/11/2008 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/04/2009 )
 
-**Chỉ mục:** 1
+Luật này quy định về đối tượng chịu thuế, đối tượng không chịu thuế, người nộp thuế, căn cứ tính thuế, hoàn thuế, khấu trừ thuế và giảm thuế tiêu thụ đặc biệt.
 
-**Mã phân cấp:** 3301200000000000100000100000000000000000
+Điều 33.12.NĐ.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054006
+(Điều 1 Nghị định số 108/2015/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật 
+Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt ngày 28/10/2015 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/2016 )Nghị định này quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt.
 
----
+Điều 33.12.TT.1.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 195/2015/TT-BTC Hướng dẫn thi hành Nghị định số 108/2015/NĐ-CP ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế tỉêu thụ đặc bỉệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt ngày 24/11/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2016 )
 
-### Điều 33.12.NĐ.1.1. Phạm vi điều chỉnh
+Thông tư này hướng dẫn thi hành Nghị định số 108/2015/NĐ-CP ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt.
 
-*Nội dung chưa có sẵn*
+Điều 33.12.LQ.2. Đối tượng chịu thuế
 
-**Chỉ mục:** 1
+(Điều 2 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 của Luật số 70/2014/QH13 sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt, có hiệu lực kể từ ngày 01/1/2016.)
 
-**Mã phân cấp:** 3301200000000000100000140256230108000010
+1. Hàng hóa:
 
-**ID:** dk_00054007
+a) Thuốc lá điếu, xì gà và chế phẩm khác từ cây thuốc lá dùng để hút, hít, nhai, ngửi, ngậm; 
 
----
+b) Rượu;
 
+c) Bia;
 
-### Điều 33.12.TT.1.1. Phạm vi điều chỉnh
+d) Xe ô tô dưới 24 chỗ, kể cả xe ô tô vừa chở người, vừa chở hàng loại có từ hai hàng ghế trở lên, có thiết kế vách ngăn cố định giữa khoang chở người và khoang chở hàng;
 
-*Nội dung chưa có sẵn*
+đ) Xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh trên 125cm3;
 
-**Chỉ mục:** 1
+e) Tàu bay, du thuyền;
 
-**Mã phân cấp:** 3301200000000000100000180256500195000010
+g) Xăng các loại;
 
-**ID:** dk_00054008
+h) Điều hoà nhiệt độ công suất từ 90.000 BTU trở xuống;
 
----
+i) Bài lá;
 
+k) Vàng mã, hàng mã.
 
-### Điều 33.12.LQ.2. Đối tượng chịu thuế
+2. Dịch vụ:
 
-*Nội dung chưa có sẵn*
+a) Kinh doanh vũ trường;
 
-**Chỉ mục:** 2
+b) Kinh doanh mát-xa (massage), ka-ra-ô-kê (karaoke);
 
-**Mã phân cấp:** 3301200000000000100000200000000000000000
+c) Kinh doanh ca-si-nô (casino); trò chơi điện tử có thưởng bao gồm trò chơi bằng máy giắc-pót (jackpot), máy sờ-lot (slot) và các loại máy tương tự; 
 
-**ID:** dk_00054009
+d) Kinh doanh đặt cược; 
 
----
+đ) Kinh doanh gôn (golf) bao gồm bán thẻ hội viên, vé chơi gôn;
 
+e) Kinh doanh xổ số.
 
-### Điều 33.12.NĐ.1.2. Đối tượng chịu thuế
+(Điều này có nội dung liên quan đến Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Điều 6. Hướng dẫn về ưu đãi thuế sử dụng đất phi nông nghiệp của Thông tư 83/2016/TT-BTC Hướng dẫn thực hiện ưu đãi đầu tư theo quy định của Luật đầu tư và Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư ban hành ngày 17/06/2016; Chương II CÁC BIỆN PHÁP HÀNH CHÍNH; Điều 33.11.NĐ.2.19. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp; Điều 33.12.NĐ.1.2. Đối tượng chịu thuế của Nghị định 108/2015/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật 
+Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt ban hành ngày 28/10/2015; Điều 33.11.TT.4.18. Điều kiện áp dụng ưu đãi thuế thu nhập doanh nghiệp của Thông tư 78/2014/TT-BTC Hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 18/06/2014; Điều 33.12.TT.1.2. Đối tượng chịu thuế của Thông tư 195/2015/TT-BTC Hướng dẫn thi hành Nghị định số 108/2015/NĐ-CP ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế tỉêu thụ đặc bỉệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt ban hành ngày 24/11/2015)Điều 33.12.NĐ.1.2. Đối tượng chịu thuế
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị định số 108/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Chỉ mục:** 2
+1. Đối tượng chịu thuế tiêu thụ đặc biệt thực hiện theo quy định tại Điều 2 của Luật Thuế tiêu thụ đặc biệt và Khoản 1 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt.
 
-**Mã phân cấp:** 330120000000000010000020000000000000000000402562301080000200
+a) Đối với tàu bay, du thuyền quy định tại Điểm e Khoản 1 Điều 2 Luật Thuế tiêu thụ đặc biệt là loại sử dụng cho mục đích dân dụng.
 
-**ID:** dk_00054010
+b) Đối với hàng mã quy định tại Điểm k Khoản 1 Điều 2 Luật Thuế tiêu thụ đặc biệt không bao gồm hàng mã là đồ chơi trẻ em, đồ dùng dạy học.
 
----
+c) Đối với kinh doanh đặt cược quy định tại Điểm d Khoản 2 Điều 2 của Luật Thuế tiêu thụ đặc biệt bao gồm: Đặt cược thể thao, giải trí và các hình thức đặt cược khác theo quy định của pháp luật.
 
+2. Đối tượng chịu thuế tiêu thụ đặc biệt đối với hàng hóa quy định tại Khoản 1 Điều 2 Luật Thuế tiêu thụ đặc biệt là các sản phẩm hàng hóa hoàn chỉnh, không bao gồm bộ linh kiện để lắp ráp các hàng hóa này.
 
-### Điều 33.12.TT.1.2. Đối tượng chịu thuế
+(Điều này có nội dung liên quan đến Điều 33.12.LQ.2. Đối tượng chịu thuế)
 
-*Nội dung chưa có sẵn*
+Điều 33.12.TT.1.2. Đối tượng chịu thuế
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 33012000000000001000002000000000000000000040256230108000020000802565001950000200
+Đối tượng chịu thuế tiêu thụ đặc biệt (TTĐB) được thực hiện theo quy định tại Điều 2 Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12 ngày 14 tháng 11 năm 2008, tại khoản 1 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt số 70/2014/QH13 ngày 26 tháng 11 năm 2014 và Điều 2 Nghị định số 108/2015/NĐ-CP ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt.
 
-**ID:** dk_00054011
+Đối với mặt hàng điều hòa nhiệt độ công suất từ 90.000 BTU trở xuống thuộc đối tượng chịu thuế TTĐB: trường hợp cơ sở sản xuất bán hoặc cơ sở nhập khẩu nhập tách riêng từng bộ phận là cục nóng hoặc cục lạnh thì hàng hóa bán ra hoặc nhập khẩu (cục nóng, cục lạnh) vẫn thuộc đối tượng chịu thuế TTĐB như đối với sản phẩm hoàn chỉnh (máy điều hòa nhiệt độ hoàn chỉnh).
 
----
+(Điều này có nội dung liên quan đến Điều 33.12.LQ.2. Đối tượng chịu thuế)
 
+Điều 33.12.LQ.3. Đối tượng không chịu thuế
 
-### Điều 33.12.LQ.3. Đối tượng không chịu thuế
+(Điều 3 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009, có nội dung được sửa đổi, bổ sung theo quy định tại  khoản 2 Điều 1 của Luật số 70/2014/QH13 sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt, có hiệu lực kể từ ngày 01/01/2016.)
 
-*Nội dung chưa có sẵn*
+Hàng hóa quy định tại khoản 1 Điều 2 của Luật này không thuộc diện chịu thuế tiêu thụ đặc biệt trong các trường hợp sau:  
 
-**Chỉ mục:** 3
+1. Hàng hóa do cơ sở sản xuất, gia công trực tiếp xuất khẩu hoặc bán, ủy thác cho cơ sở kinh doanh khác để xuất khẩu;
 
-**Mã phân cấp:** 3301200000000000100000300000000000000000
+2. Hàng hóa nhập khẩu bao gồm:            
 
-**ID:** dk_00054012
+a) Hàng viện trợ nhân đạo, viện trợ không hoàn lại; quà tặng cho cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị vũ trang nhân dân, quà biếu, quà tặng cho cá nhân tại Việt Nam theo mức quy định của Chính phủ;
 
----
+b) Hàng hóa vận chuyển quá cảnh hoặc mượn đường qua cửa khẩu, biên giới Việt Nam, hàng hóa chuyển khẩu theo quy định của Chính phủ;
 
+c) Hàng tạm nhập khẩu, tái xuất khẩu và tạm xuất khẩu, tái nhập khẩu không phải nộp thuế nhập khẩu, thuế xuất khẩu trong thời hạn theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu;
 
-### Điều 33.12.NĐ.1.3. Đối tượng không chịu thuế
+d) Đồ dùng của tổ chức, cá nhân nước ngoài theo tiêu chuẩn miễn trừ ngoại giao; hàng mang theo người trong tiêu chuẩn hành lý miễn thuế; hàng nhập khẩu để bán miễn thuế theo quy định của pháp luật; 
 
-*Nội dung chưa có sẵn*
+3. Tàu bay, du thuyền sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, khách du lịch và tàu bay sử dụng cho mục đích an ninh, quốc phòng;
 
-**Chỉ mục:** 3
+4. Xe ô tô cứu thương; xe ô tô chở phạm nhân; xe ô tô tang lễ; xe ô tô thiết kế vừa có chỗ ngồi, vừa có chỗ đứng chở được từ 24 người trở lên; xe ô tô chạy trong khu vui chơi, giải trí, thể thao không đăng ký lưu hành và không tham gia giao thông;
 
-**Mã phân cấp:** 330120000000000010000030000000000000000000402562301080000300
+5. Hàng hoá nhập khẩu từ nước ngoài vào khu phi thuế quan, hàng hoá từ nội địa bán vào khu phi thuế quan và chỉ sử dụng trong khu phi thuế quan, hàng hoá được mua bán giữa các khu phi thuế quan với nhau, trừ xe ô tô chở người dưới 24 chỗ.
 
-**ID:** dk_00054013
+(Điều này có nội dung liên quan đến Chương II CÁC BIỆN PHÁP HÀNH CHÍNH; Điều 33.12.NĐ.1.3. Đối tượng không chịu thuế của Nghị định 108/2015/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật 
+Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt ban hành ngày 28/10/2015; Điều 33.11.TT.4.8. Thu nhập được miễn thuế của Thông tư 78/2014/TT-BTC Hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp ban hành ngày 18/06/2014)Điều 33.12.NĐ.1.3. Đối tượng không chịu thuế
 
----
+(Điều 3 Nghị định số 108/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 1, Điều 1 Nghị định số [14/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-14-2019-nd-cp-huong-dan-luat-thue-tieu-thu-dac-biet-luat-thue-tieu-thu-dac-biet-sua-doi-280013.aspx) ngày 01 tháng 02 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số [108/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-108-2015-nd-cp-huong-dan-luat-thue-tieu-thu-dac-biet-sua-doi-294252.aspx) ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt, có hiệu lực thi hành kể từ ngày 20/3/2019.)
 
+Đối tượng không chịu thuế tiêu thụ đặc biệt thực hiện theo quy định tại Điều 3 của Luật Thuế tiêu thụ đặc biệt và Khoản 2 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt.
 
-### Điều 33.12.TT.1.3. Đối tượng không chịu thuế
+1. Đối với hàng hóa nhập khẩu thuộc diện không chịu thuế tiêu thụ đặc biệt quy định tại Điểm a Khoản 2 Điều 3 Luật Thuế tiêu thụ đặc biệt, bao gồm:
 
-*Nội dung chưa có sẵn*
+a) Hàng viện trợ nhân đạo, hàng viện trợ không hoàn lại, bao gồm cả hàng hóa nhập khẩu bằng nguồn vốn viện trợ không hoàn lại được cơ quan có thẩm quyền phê duyệt, hàng trợ giúp nhân đạo, hàng cứu trợ khẩn cấp nhằm khắc phục hậu quả chiến tranh, thiên tai, dịch bệnh;
 
-**Chỉ mục:** 3
+b) Quà tặng của các tổ chức, cá nhân ở nước ngoài cho các cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị vũ trang nhân dân;
 
-**Mã phân cấp:** 33012000000000001000003000000000000000000040256230108000030000802565001950000300
+c) Quà biếu, quà tặng cho cá nhân tại Việt Nam theo định mức quy định của pháp luật.
 
-**ID:** dk_00054014
+2. Đối với hàng quá cảnh, mượn đường qua cửa khẩu, biên giới Việt Nam, hàng chuyển khẩu quy định tại Điểm b Khoản 2 Điều 3 của Luật Thuế tiêu thụ đặc biệt, bao gồm:
 
----
+a) Hàng hóa được vận chuyển từ nước xuất khẩu đến nước nhập khẩu qua cửa khẩu Việt Nam nhưng không làm thủ tục nhập khẩu vào Việt Nam và không làm thủ tục xuất khẩu ra khỏi Việt Nam;
 
+b) Hàng hóa được vận chuyển từ nước xuất khẩu đến nước nhập khẩu qua cửa khẩu Việt Nam và đưa vào kho ngoại quan nhưng không làm thủ tục nhập khẩu vào Việt Nam và không làm thủ tục xuất khẩu ra khỏi Việt Nam;
 
-### Điều 33.12.LQ.4. Người nộp thuế
+c) Hàng quá cảnh, mượn đường qua cửa khẩu, biên giới Việt Nam trên cơ sở Hiệp định ký kết giữa Chính phủ Việt Nam với Chính phủ nước ngoài hoặc giữa cơ quan, người đại diện được Chính phủ Việt Nam và Chính phủ nước ngoài ủy quyền;
 
-*Nội dung chưa có sẵn*
+d) Hàng hóa được vận chuyển từ nước xuất khẩu đến nước nhập khẩu không qua cửa khẩu Việt Nam.
 
-**Chỉ mục:** 4
+3. Tàu bay, du thuyền sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, khách du lịch; tàu bay sử dụng cho mục đích: phun thuốc trừ sâu, chữa cháy, quay phim, chụp ảnh, đo đạc bản đồ, an ninh, quốc phòng.
 
-**Mã phân cấp:** 3301200000000000100000400000000000000000
+Trường hợp tàu bay, du thuyền không sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch; tàu bay không sử dụng cho mục đích: phun thuốc trừ sâu, chữa cháy, quay phim, chụp ảnh, đo đạc bản đồ, an ninh, quốc phòng thì phải chịu thuế tiêu thụ đặc biệt theo quy định của Luật thuế tiêu thụ đặc biệt và hướng dẫn của Bộ Tài chính.
 
-**ID:** dk_00054015
+4. Đối với xe ô tô quy định tại Khoản 4 Điều 3 của Luật Thuế tiêu thụ đặc biệt là các loại xe theo thiết kế của nhà sản xuất được sử dụng làm xe cứu thương, xe chở phạm nhân, xe tang lễ; xe thiết kế vừa có chỗ ngồi, vừa có chỗ đứng chở được từ 24 người trở lên; xe ô tô chạy trong khu vui chơi, giải trí, thể thao không đăng ký lưu hành và không tham gia giao thông và các loại xe chuyên dụng, xe không đăng ký lưu hành, không tham gia giao thông do Bộ Tài chính phối hợp với các Bộ, cơ quan liên quan quy định cụ thể.
 
----
+5. Đối với điều hòa nhiệt độ là loại có công suất từ 90.000 BTU trở xuống theo thiết kế của nhà sản xuất chỉ để lắp trên phương tiện vận tải, bao gồm ô tô, toa xe lửa, tàu, thuyền, tàu bay.
 
+6. Hàng hóa nhập khẩu từ nước ngoài vào khu phi thuế quan, hàng hóa từ nội địa bán vào khu phi thuế quan và chỉ sử dụng trong khu phi thuế quan, hàng hóa được mua bán giữa các khu phi thuế quan với nhau, trừ hai loại hàng hóa sau: Hàng hóa đưa vào khu được áp dụng quy chế khu phi thuế quan có dân cư sinh sống, không có hàng rào cứng và xe ô tô chở người dưới 24 chỗ.
 
-### Điều 33.12.TT.1.4. Người nộp thuế
+(Điều này có nội dung liên quan đến Điều 33.12.LQ.3. Đối tượng không chịu thuế)
 
-*Nội dung chưa có sẵn*
+Điều 33.12.TT.1.3. Đối tượng không chịu thuế
 
-**Chỉ mục:** 4
+(Điều 3 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 330120000000000010000040000000000000000000802565001950000400
+Hàng hóa quy định tại Điều 2 Thông tư này không thuộc diện chịu thuế TTĐB trong các trường hợp sau:
 
-**ID:** dk_00054016
+1. Hàng hóa do cơ sở sản xuất, gia công trực tiếp xuất khẩu hoặc bán, ủy thác cho cơ sở kinh doanh khác để xuất khẩu, bao gồm:
 
----
+1.1. Hàng hóa do các cơ sở sản xuất, gia công trực tiếp xuất khẩu ra nước ngoài bao gồm cả hàng hóa bán, gia công cho doanh nghiệp chế xuất, trừ ô tô dưới 24 chỗ ngồi bán cho doanh nghiệp chế xuất.
 
+Cơ sở có hàng hóa thuộc đối tượng không chịu thuế TTĐB quy định tại điểm này phải có hồ sơ chứng minh là hàng đã thực tế xuất khẩu, cụ thể như sau:
 
-### Điều 33.12.LQ.5. Căn cứ tính thuế
+- Hợp đồng bán hàng hoặc hợp đồng gia công cho nước ngoài.
 
-*Nội dung chưa có sẵn*
+- Hóa đơn bán hàng hóa xuất khẩu hoặc trả hàng, thanh toán tiền gia công.
 
-**Chỉ mục:** 5
+- Tờ khai hàng hóa xuất khẩu.
 
-**Mã phân cấp:** 3301200000000000200000500000000000000000
+- Chứng từ thanh toán qua ngân hàng.
 
-**ID:** dk_00054018
+Thanh toán qua ngân hàng là việc chuyển tiền từ tài khoản của bên nhập khẩu sang tài khoản mang tên bên xuất khẩu mở tại ngân hàng theo các hình thức thanh toán phù hợp với thỏa thuận trong hợp đồng và quy định của ngân hàng. Chứng từ thanh toán tiền là giấy báo Có của ngân hàng bên xuất khẩu về số tiền đã nhận được từ tài khoản của ngân hàng bên nhập khẩu. Trường hợp thanh toán chậm trả, phải có thỏa thuận ghi trong hợp đồng xuất khẩu, đến thời hạn thanh toán cơ sở kinh doanh phải có chứng từ thanh toán qua ngân hàng. Trường hợp ủy thác xuất khẩu thì bên nhận ủy thác xuất khẩu phải thanh toán với nước ngoài qua ngân hàng.
 
----
+1.2. Cơ sở sản xuất hàng hóa thuộc diện chịu thuế TTĐB nếu tạm xuất khẩu, tái nhập khẩu theo giấy phép tạm xuất khẩu, tái nhập khẩu, trong thời hạn chưa phải nộp thuế xuất khẩu, thuế nhập khẩu theo chế độ quy định thì khi tái nhập khẩu không phải nộp thuế TTĐB, nhưng khi cơ sở sản xuất bán hàng hóa này phải nộp thuế TTĐB.
 
+1.3. Hàng hóa do cơ sở sản xuất bán hoặc ủy thác cho cơ sở kinh doanh xuất khẩu để xuất khẩu theo hợp đồng kinh tế.
 
-### Điều 33.12.LQ.6. Giá tính thuế
+Cơ sở sản xuất có hàng hóa thuộc trường hợp không phải chịu thuế TTĐB quy định tại điểm này phải có hồ sơ chứng minh là hàng hóa đã thực tế xuất khẩu như sau:
 
-*Nội dung chưa có sẵn*
+- Hợp đồng mua bán hàng hóa để xuất khẩu hoặc hợp đồng ủy thác xuất khẩu đối với trường hợp ủy thác xuất khẩu giữa cơ sở sản xuất và cơ sở kinh doanh xuất khẩu.
 
-**Chỉ mục:** 6
+- Hóa đơn bán hàng, giao hàng ủy thác xuất khẩu.
 
-**Mã phân cấp:** 3301200000000000200000600000000000000000
+- Biên bản thanh lý (thanh lý toàn bộ hoặc từng phần) hợp đồng bán hàng hóa để xuất khẩu, biên bản thanh lý hợp đồng ủy thác xuất khẩu thể hiện rõ các nội dung sau:
 
-**ID:** dk_00054019
+Tên, số lượng, chủng loại, mặt hàng, giá bán của hàng hóa đã thực tế xuất khẩu; hình thức thanh toán; số tiền và số, ngày chứng từ thanh toán hàng hóa xuất khẩu qua ngân hàng của người mua nước ngoài cho cơ sở xuất khẩu; số tiền và số, ngày của chứng từ thanh toán giữa cơ sở sản xuất với cơ sở xuất khẩu hoặc cơ sở nhận ủy thác xuất khẩu; số, ngày của hợp đồng xuất khẩu, bản sao tờ khai Hải quan đối với hàng hóa xuất khẩu.
 
----
+Đối với hàng hóa cơ sở xuất khẩu mua, nhận ủy thác xuất khẩu để xuất khẩu nhưng không xuất khẩu mà tiêu thụ trong nước, cơ sở kinh doanh xuất khẩu phải kê khai, nộp thuế TTĐB đối với các hàng hóa này khi tiêu thụ (bán) trong nước.
 
+1.4. Hàng hóa mang ra nước ngoài để bán tại hội chợ triển lãm ở nước ngoài. Cơ sở có hàng hóa mang ra nước ngoài để bán tại hội chợ triển lãm phải có đủ thủ tục:
 
-### Điều 33.12.NĐ.1.4. Giá tính thuế
+- Giấy mời hoặc giấy đăng ký tham gia hội chợ triển lãm ở nước ngoài.
 
-*Nội dung chưa có sẵn*
+- Tờ khai hàng hóa xuất khẩu có xác nhận của cơ quan hải quan về hàng hóa đã xuất khẩu.
 
-**Chỉ mục:** 4
+- Bảng kê hàng bán tại hội chợ triển lãm.
 
-**Mã phân cấp:** 330120000000000020000060000000000000000000402562301080000400
+- Chứng từ thanh toán tiền đối với hàng hóa bán tại hội chợ triển lãm, trường hợp bán hàng thu tiền mặt có giá trị trên mức quy định thì phải khai báo với cơ quan Hải quan, có chứng từ nộp tiền vào ngân hàng theo quy định hiện hành.
 
-**ID:** dk_00054020
+2. Hàng hóa nhập khẩu trong các trường hợp sau:
 
----
+2.1. Hàng viện trợ nhân đạo, viện trợ không hoàn lại; quà tặng, quà biếu bao gồm:
 
+a) Hàng viện trợ nhân đạo và hàng viện trợ không hoàn lại, bao gồm cả hàng nhập khẩu bằng nguồn viện trợ không hoàn lại được cơ quan có thẩm quyền phê duyệt; hàng trợ giúp nhân đạo, cứu trợ khẩn cấp nhằm khắc phục hậu quả chiến tranh, thiên tai, dịch bệnh.
 
-### Điều 33.12.TT.1.5. Giá tính thuế tiêu thụ đặc biệt
+b) Quà tặng của các tổ chức, cá nhân ở nước ngoài cho các cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị vũ trang nhân dân.
 
-*Nội dung chưa có sẵn*
+c) Quà biếu, quà tặng cho cá nhân tại Việt Nam theo định mức quy định của pháp luật.
 
-**Chỉ mục:** 5
+2.2. Hàng hóa quá cảnh hoặc mượn đường qua cửa khẩu, biên giới Việt Nam, hàng hóa chuyển khẩu, bao gồm:
 
-**Mã phân cấp:** 33012000000000002000006000000000000000000040256230108000040000802565001950000500
+a) Hàng hóa được vận chuyển từ nước xuất khẩu đến nước nhập khẩu qua cửa khẩu Việt Nam nhưng không làm thủ tục nhập khẩu vào Việt Nam và không làm thủ tục xuất khẩu ra khỏi Việt Nam.
 
-**ID:** dk_00054021
+b) Hàng hóa được vận chuyển từ nước xuất khẩu đến nước nhập khẩu qua cửa khẩu Việt Nam và đưa vào kho ngoại quan, không làm thủ tục nhập khẩu vào Việt Nam và không làm thủ tục xuất khẩu ra khỏi Việt Nam.
 
----
+c) Hàng quá cảnh, mượn đường qua cửa khẩu, biên giới Việt Nam trên cơ sở Hiệp định đã ký kết giữa Chính phủ Việt Nam với Chính phủ nước ngoài hoặc giữa cơ quan, người đại diện được Chính phủ Việt Nam và Chính phủ nước ngoài ủy quyền.
 
+d) Hàng hóa được vận chuyển từ nước xuất khẩu đến nước nhập khẩu không qua cửa khẩu Việt Nam.
 
-### Điều 33.12.LQ.7. Thuế suất
+2.3. Hàng tạm nhập khẩu, tái xuất khẩu, nếu thực tái xuất khẩu trong thời hạn không phải nộp thuế nhập khẩu theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu thì không phải nộp thuế TTĐB tương ứng với số hàng thực tái xuất khẩu.
 
-*Nội dung chưa có sẵn*
+Hàng hóa tạm xuất khẩu, tái nhập khẩu, nếu thực tái nhập khẩu trong thời hạn không phải nộp thuế xuất khẩu theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu thì không phải nộp thuế TTĐB tương ứng với số hàng thực tái nhập khẩu.
 
-**Chỉ mục:** 7
+2.4. Hàng tạm nhập khẩu để dự hội chợ, triển lãm, nếu thực tái xuất khẩu trong thời hạn chưa phải nộp thuế nhập khẩu theo chế độ quy định.
 
-**Mã phân cấp:** 3301200000000000200000700000000000000000
+Hết thời gian hội chợ, triển lãm mà tổ chức, cá nhân không tái xuất hàng tạm nhập khẩu thì phải kê khai, nộp thuế TTĐB; nếu tổ chức, cá nhân không kê khai mà bị kiểm tra, phát hiện thì ngoài việc truy thu thuế TTĐB còn bị xử phạt theo quy định của pháp luật.
 
-**ID:** dk_00054022
+2.5. Đồ dùng của tổ chức, cá nhân nước ngoài theo tiêu chuẩn miễn trừ ngoại giao theo quy định của pháp luật về miễn trừ ngoại giao.
 
----
+2.6. Hàng mang theo người trong tiêu chuẩn hành lý miễn thuế nhập khẩu của cá nhân người Việt Nam và người nước ngoài khi xuất, nhập cảnh qua cửa khẩu Việt Nam.
 
+2.7. Hàng nhập khẩu để bán miễn thuế tại các cửa hàng bán hàng miễn thuế theo quy định của pháp luật.
 
-### Điều 33.12.NĐ.1.5. Thuế suất
+3. Hàng hóa nhập khẩu từ nước ngoài vào khu phi thuế quan, hàng hóa từ nội địa bán vào khu phi thuế quan và chỉ sử dụng trong khu phi thuế quan, hàng hóa được mua bán giữa các khu phi thuế quan với nhau, trừ hai loại hàng hóa sau: hàng hóa được đưa vào khu được áp dụng quy chế khu phi thuế quan có dân cư sinh sống, không có hàng rào cứng và xe ô tô chở người dưới 24 chỗ.
 
-*Nội dung chưa có sẵn*
+Hồ sơ, trình tự và thẩm quyền giải quyết không thu thuế TTĐB đối với các trường hợp quy định tại khoản 2, khoản 3 Điều này được thực hiện như quy định về giải quyết không thu thuế, miễn thuế nhập khẩu theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu.
 
-**Chỉ mục:** 5
+Cơ sở nhập khẩu các mặt hàng thuộc các trường hợp không phải chịu thuế TTĐB khi nhập khẩu theo quy định tại khoản 2, khoản 3 Điều này, nếu dùng vào mục đích khác thì phải kê khai, nộp thuế TTĐB khâu nhập khẩu với cơ quan hải quan theo hướng dẫn của Bộ Tài chính về thủ tục hải quan; kiểm tra giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu.
 
-**Mã phân cấp:** 330120000000000020000070000000000000000000402562301080000500
+4. Tàu bay, du thuyền sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch và tàu bay sử dụng cho mục đích an ninh, quốc phòng.
 
-**ID:** dk_00054023
+Trường hợp tàu bay, du thuyền thuộc diện không chịu thuế TTĐB nhưng sau đó không sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch và mục đích an ninh, quốc phòng thì phải chịu thuế TTĐB.
 
----
+Cơ sở kinh doanh có tàu bay, du thuyền nhập khẩu chuyển đổi mục đích nêu trên phải kê khai nộp thuế TTĐB với cơ quan hải quan theo hướng dẫn của Bộ Tài chính về thủ tục hải quan; kiểm tra giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu.
 
+Cơ sở kinh doanh có tàu bay, du thuyền được sản xuất trong nước chuyển đổi mục đích nêu trên phải kê khai nộp thuế TTĐB theo giá trị còn lại sau khi trừ giá trị đã khấu hao theo quy định với cơ quan thuế quản lý trực tiếp.
 
-### Điều 33.12.TT.1.6. Thuế suất thuế TTĐB
+5. Đối với xe ô tô quy định tại khoản 4 Điều 3 của Luật Thuế tiêu thụ đặc biệt là các loại xe theo thiết kế của nhà sản xuất được sử dụng làm xe cứu thương, xe chở phạm nhân, xe tang lễ; xe kiểm tra, kiểm soát tần số vô tuyến điện; xe bọc thép phóng thang; xe truyền hình lưu động; xe thiết kế vừa có chỗ ngồi, vừa có chỗ đứng chở được từ 24 người trở lên; xe ô tô chạy trong khu vui chơi, giải trí, thể thao không đăng ký lưu hành, không tham gia giao thông và các loại xe chuyên dụng, xe không đăng ký lưu hành, không tham gia giao thông do Bộ Tài chính phối hợp với các Bộ, cơ quan liên quan có hướng dẫn cụ thể.
 
-*Nội dung chưa có sẵn*
+Cơ sở kinh doanh nhập khẩu xe ô tô có thiết kế chỉ dùng để chạy trong khu vui chơi, giải trí, thể thao không đăng ký lưu hành và không tham gia giao thông thuộc đối tượng không chịu thuế TTĐB nêu tại khoản 5 Điều này phải xuất trình cho cơ quan hải quan nơi mở tờ khai nhập khẩu hồ sơ, thủ tục sau:
 
-**Chỉ mục:** 6
+- Bản sao Giấy chứng nhận đăng ký kinh doanh chứng minh cơ sở nhập khẩu có chức năng kinh doanh khu vui chơi, giải trí, thể thao (có chữ ký, đóng dấu của cơ sở nhập khẩu).
 
-**Mã phân cấp:** 33012000000000002000007000000000000000000040256230108000050000802565001950000600
+- Cơ sở kinh doanh nhập khẩu ghi rõ trên Tờ khai hàng hóa nhập khẩu nội dung: “xe ô tô được thiết kế, chế tạo chỉ dùng chạy trong khu vui chơi, giải trí, thể thao không đăng ký lưu hành và không tham gia giao thông”. Cơ sở nhập khẩu phải chịu trách nhiệm về tính chính xác của hồ sơ nhập khẩu.
 
-**ID:** dk_00054024
+Cơ quan hải quan nơi cơ sở kinh doanh nhập khẩu đăng ký mở Tờ khai hàng hóa nhập khẩu kiểm tra hàng hóa và không thu thuế TTĐB mặt hàng nêu trên, không cấp Tờ khai xác nhận nguồn gốc xe nhập khẩu cho cơ sở kinh doanh nhập khẩu.
 
----
+Trường hợp xe ô tô có thiết kế chỉ dùng chạy trong khu vui chơi, giải trí, thể thao không đăng ký lưu hành và không tham gia giao thông không phải chịu thuế TTĐB, cơ sở nhập khẩu đã làm thủ tục nhập khẩu như hướng dẫn tại khoản 5 Điều này với cơ quan hải quan, nếu thay đổi mục đích sử dụng so với khi nhập khẩu, không sử dụng trong khu vui chơi, giải trí, thể thao và là loại xe ô tô thuộc đối tượng chịu thuế TTĐB thì cơ sở nhập khẩu phải kê khai, nộp thuế TTĐB với cơ quan hải quan theo hướng dẫn của Bộ Tài chính về thủ tục hải quan; kiểm tra giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu. Trường hợp cơ sở nhập khẩu không khai báo với cơ quan hải quan nơi làm thủ tục nhập khẩu để nộp thuế TTĐB do thay đổi mục đích sử dụng so với khi nhập khẩu thì cơ sở nhập khẩu sẽ bị xử phạt theo quy định của Luật quản lý thuế và các văn bản hướng dẫn thi hành.
 
+6. Điều hòa nhiệt độ có công suất từ 90.000 BTU trở xuống, theo thiết kế của nhà sản xuất chỉ để lắp trên phương tiện vận tải, bao gồm ô tô, toa xe lửa, tàu, thuyền, tàu bay.
 
-### Điều 33.12.LQ.8. Hoàn thuế, khấu trừ thuế
+Trường hợp cơ sở kinh doanh nhập khẩu; ủy thác nhập khẩu hệ thống điều hòa trung tâm trên 90.000 BTU hoặc cơ sở kinh doanh nhập khẩu ký hợp đồng với nhà thầu lắp đặt thiết bị trong nước về việc cung cấp hệ thống điều hòa trung tâm trên 90.000 BTU; việc giao hàng tùy thuộc vào tiến độ thi công công trình (hệ thống điều hòa này được nhập khẩu thành nhiều lần, nhiều chuyến) để không phải tính nộp thuế TTĐB đối với từng lần nhập khẩu là các chi tiết của thiết bị nhập khẩu như cục nóng hoặc cục lạnh thì hồ sơ cần xuất trình với cơ quan hải quan gồm:
 
-*Nội dung chưa có sẵn*
+- Hợp đồng nhập khẩu (trường hợp ủy thác nhập khẩu phải có thêm hợp đồng ủy thác nhập khẩu) hoặc hợp đồng mua bán (bản chính hoặc bản sao có đóng dấu của doanh nghiệp nhập khẩu) hệ thống điều hòa trung tâm với nhà thầu thi công trong nước; trong hợp đồng phải thể hiện đây là thiết bị đồng bộ có công suất trên 90.000 BTU được nhập khẩu nguyên chiếc theo tiêu chuẩn của nhà sản xuất kèm theo bảng kê số lượng các chi tiết của thiết bị nhập khẩu.
 
-**Chỉ mục:** 8
+- Sơ đồ kết nối hệ thống điều hòa trung tâm có xác nhận của đơn vị nhập khẩu và nhà thầu thi công (trong trường hợp có nhà thầu thi công).
 
-**Mã phân cấp:** 3301200000000000300000800000000000000000
+- Chứng thư giám định về công suất và tính đồng bộ của thiết bị nhập khẩu, đồng thời các bộ phận tách rời (cục nóng, cục lạnh) hoặc nhóm các bộ phận tách rời của thiết bị không thể tự hoạt động độc lập do cơ quan giám định có thẩm quyền theo quy định của pháp luật cấp.
 
-**ID:** dk_00054026
+Trường hợp từng bộ phận tách rời hoặc một số bộ phận tách rời lắp được thành một máy điều hòa nhiệt độ hoàn chỉnh, có công suất từ 90.000 BTU trở xuống hoạt động độc lập không cần kết nối với hệ thống thì từng bộ phận này vẫn phải chịu thuế TTĐB.
 
----
+- Bản cam kết của cơ sở kinh doanh nhập khẩu về việc sử dụng hàng nhập khẩu đúng mục đích và tự chịu trách nhiệm trước pháp luật về cam kết của mình.
 
+Căn cứ vào hồ sơ xuất trình của cơ sở kinh doanh, cơ quan hải quan lập phiếu theo dõi trừ lùi như Phụ lục I được ban hành kèm theo Thông tư này để theo dõi quản lý.
 
-### Điều 33.12.NĐ.1.6. Hoàn thuế
+Điều 33.12.LQ.4. Người nộp thuế
 
-*Nội dung chưa có sẵn*
+(Điều 4 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009)
 
-**Chỉ mục:** 6
+Người**nộp thuế tiêu thụ đặc biệt là tổ chức, cá nhân sản xuất, nhập khẩu hàng hóa và kinh doanh dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt.
 
-**Mã phân cấp:** 330120000000000030000080000000000000000000402562301080000600
+Trường hợp tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu mua hàng hoá thuộc diện chịu thuế tiêu thụ đặc biệt của cơ sở sản xuất để xuất khẩu nhưng không xuất khẩu mà tiêu thụ trong nước thì tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu là người nộp thuế tiêu thụ đặc biệt.
 
-**ID:** dk_00054027
+Điều 33.12.TT.1.4. Người nộp thuế
 
----
+(Điều 4 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
+1. Người nộp thuế TTĐB là tổ chức, cá nhân có sản xuất, nhập khẩu hàng hóa và kinh doanh dịch vụ thuộc đối tượng chịu thuế TTĐB, bao gồm:
 
-### Điều 33.12.TT.1.7. Hoàn thuế
+1.1. Các tổ chức kinh doanh được thành lập và đăng ký kinh doanh theo Luật Doanh nghiệp, Luật Doanh nghiệp Nhà nước (nay là Luật Doanh nghiệp) và Luật Hợp tác xã.
 
-*Nội dung chưa có sẵn*
+1.2. Các tổ chức kinh tế của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức chính trị - xã hội - nghề nghiệp, đơn vị vũ trang nhân dân, tổ chức sự nghiệp và các tổ chức khác.
 
-**Chỉ mục:** 7
+1.3. Các doanh nghiệp có vốn đầu tư nước ngoài và bên nước ngoài tham gia hợp tác kinh doanh theo Luật đầu tư nước ngoài tại Việt Nam (nay là Luật đầu tư); các tổ chức, cá nhân nước ngoài hoạt động kinh doanh ở Việt Nam nhưng không thành lập pháp nhân tại Việt Nam.
 
-**Mã phân cấp:** 33012000000000003000008000000000000000000040256230108000060000802565001950000700
+1.4. Cá nhân, hộ gia đình, nhóm người kinh doanh độc lập và các đối tượng khác có hoạt động sản xuất, kinh doanh, nhập khẩu.
 
-**ID:** dk_00054028
+2. Cơ sở kinh doanh xuất khẩu mua hàng chịu thuế TTĐB của cơ sở sản xuất để xuất khẩu nhưng không xuất khẩu mà tiêu thụ trong nước thì cơ sở kinh doanh xuất khẩu là người nộp thuế TTĐB. Khi bán hàng hóa, cơ sở kinh doanh xuất khẩu phải kê khai và nộp đủ thuế TTĐB.
 
----
+Chương II
 
+CĂN CỨ TÍNH THUẾ
 
-### Điều 33.12.NĐ.1.7. Khấu trừ thuế
+Điều 33.12.LQ.5. Căn cứ tính thuế
 
-*Nội dung chưa có sẵn*
+(Điều 5 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009)
 
-**Chỉ mục:** 7
+Căn cứ tính thuế tiêu thụ đặc biệt là giá tính thuế của hàng hóa, dịch vụ chịu thuế và thuế suất. Số thuế tiêu thụ đặc biệt phải nộp bằng giá tính thuế tiêu thụ đặc biệt nhân với thuế suất thuế tiêu thụ đặc biệt.
 
-**Mã phân cấp:** 330120000000000030000080000000000000000000402562301080000700
+(Điều này có nội dung liên quan đến Điều 45.9.LQ.30. Nguồn hình thành và nguyên tắc sử dụng Quỹ; Chương II BIỆN PHÁP GIẢM MỨC TIÊU THỤ RƯỢU, BIA của Luật 44/2019/QH14 Luật phòng, chống tác hại của rượu, bia ban hành ngày 14/06/2019)
 
-**ID:** dk_00054029
+Điều 33.12.LQ.6. Giá tính thuế
 
----
+(Điều 6 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009, có nội dung được sửa đổi, bổ sung, bãi bỏ theo quy định tại  tại điểm d khoản 2 Điều 6 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01/01/2015; khoản 3 Điều 1 của Luật số 70/2014/QH13 sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt, có hiệu lực kể từ ngày 01/01/2016; khoản 1 Điều 2 của Luật số 106/2016/QH13 sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng, Luật thuế tiêu thụ đặc biệt và Luật quản lý thuế, có hiệu lực kể từ ngày 01/7/2016.)
 
+Giá tính thuế tiêu thụ đặc biệt đối với hàng hóa, dịch vụ là giá bán ra, giá cung ứng dịch vụ chưa có thuế tiêu thụ đặc biệt, chưa có thuế bảo vệ môi trường và chưa có thuế giá trị gia tăng được quy định như sau:
 
-### Điều 33.12.TT.1.8. Khấu trừ thuế
+1. Đối với hàng hóa sản xuất trong nước, hàng hóa nhập khẩu là giá do cơ sở sản xuất, cơ sở nhập khẩu bán ra.
 
-*Nội dung chưa có sẵn*
+Trường hợp hàng hóa chịu thuế tiêu thụ đặc biệt được bán cho cơ sở kinh doanh thương mại là cơ sở có quan hệ công ty mẹ, công ty con hoặc các công ty con trong cùng công ty mẹ với cơ sở sản xuất, cơ sở nhập khẩu hoặc cơ sở kinh doanh thương mại là cơ sở có mối quan hệ liên kết thì giá tính thuế tiêu thụ đặc biệt không được thấp hơn tỷ lệ phần trăm (%) so với giá bình quân của các cơ sở kinh doanh thương mại mua trực tiếp của cơ sở sản xuất, cơ sở nhập khẩu bán ra theo quy định của Chính phủ;
 
-**Chỉ mục:** 8
+2. Đối với hàng hóa nhập khẩu tại khâu nhập khẩu là giá tính thuế nhập khẩu cộng với thuế nhập khẩu. Trường hợp hàng hóa nhập khẩu được miễn, giảm thuế nhập khẩu thì giá tính thuế không bao gồm số thuế nhập khẩu được miễn, giảm. Hàng hóa chịu thuế tiêu thụ đặc biệt nhập khẩu được khấu trừ số thuế tiêu thụ đặc biệt đã nộp ở khâu nhập khẩu khi xác định số thuế tiêu thụ đặc biệt phải nộp bán ra;
 
-**Mã phân cấp:** 33012000000000003000008000000000000000000040256230108000070000802565001950000800
+3. Đối với hàng hóa gia công là giá tính thuế của hàng hóa bán ra của cơ sở giao gia công hoặc giá bán của sản phẩm cùng loại hoặc tương đương tại cùng thời điểm bán hàng;  
 
-**ID:** dk_00054030
+4. Đối với hàng hóa bán theo phương thức trả góp, trả chậm là giá bán theo phương thức bán trả tiền một lần của hàng hóa đó không bao gồm khoản lãi trả góp, lãi trả chậm;
 
----
+5. Đối với dịch vụ là giá cung ứng dịch vụ của cơ sở kinh doanh. Giá cung ứng dịch vụ đối với một số trường hợp được quy định như sau:
 
+a) Đối với kinh doanh gôn là giá bán thẻ hội viên, giá bán vé chơi gôn bao gồm cả tiền phí chơi gôn và tiền ký quỹ (nếu có);
 
-### Điều 33.12.LQ.9. Giảm thuế
+b) Đối với kinh doanh ca-si-nô, trò chơi điện tử có thưởng, kinh doanh đặt cược là doanh thu từ hoạt động này trừ số tiền đã trả thưởng cho khách;
 
-*Nội dung chưa có sẵn*
+c) Đối với kinh doanh vũ trường, mát-xa, ka-ra-ô-kê là doanh thu của các hoạt động kinh doanh trong vũ trường, cơ sở kinh doanh mát-xa, ka-ra-ô-kê;
 
-**Chỉ mục:** 9
+6. Đối với hàng hóa, dịch vụ dùng để trao đổi hoặc tiêu dùng nội bộ, biếu, tặng cho là giá tính thuế tiêu thụ đặc biệt của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh các hoạt động này.     
 
-**Mã phân cấp:** 3301200000000000300000900000000000000000
+Giá tính thuế tiêu thụ đặc biệt đối với hàng hóa, dịch vụ quy định tại Điều này bao gồm cả khoản thu thêm, được thu (nếu có) mà cơ sở kinh doanh được hưởng. 
 
-**ID:** dk_00054031
+Giá tính thuế được tính bằng Đồng Việt Nam. Trường hợp người nộp thuế có doanh thu bằng ngoại tệ thì phải quy đổi ngoại tệ ra Đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng nhà nước Việt Nam công bố tại thời điểm phát sinh doanh thu để xác định giá tính thuế.
 
----
+Chính phủ quy định cụ thể Điều này.
 
+Điều 33.12.NĐ.1.4. Giá tính thuế
 
-### Điều 33.12.TT.1.9. Giảm thuế
+(Điều 4 Nghị định số 108/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 1, khoản 2 Điều 2 Nghị định số [100/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-100-2016-nd-cp-huong-dan-luat-thue-gia-tri-gia-tang-thue-tieu-thu-dac-biet-quan-ly-thue-sua-doi-318277.aspx) ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng, Luật thuế tiêu thụ đặc biệt và Luật quản lý thuế, có hiệu lực kể từ ngày 01/7/2016. )
 
-*Nội dung chưa có sẵn*
+*1. Đối với hàng hóa sản xuất trong nước, hàng hóa nhập khẩu là giá do cơ sở sản xuất, cơ sở nhập khẩu bán ra. Trường hợp giá bán của cơ sở sản xuất, cơ sở nhập khẩu bán ra không theo giá giao dịch thông thường trên thị trường thì cơ quan thuế thực hiện ấn định thuế theo quy định của Luật quản lý thuế. Giá tính thuế tiêu thụ đặc biệt được xác định như sau:*
 
-**Chỉ mục:** 9
+ *Giá tính thuế tiêu thụ đặc biệt*
 
-**Mã phân cấp:** 330120000000000030000090000000000000000000802565001950000900
+ * *
 
-**ID:** dk_00054032
+ *=*
 
----
+ *Giá bán chưa có thuế giá trị gia tăng*
 
+ *-*
 
-### Điều 33.12.LQ.10. Hiệu lực thi hành
+ Thuế bảo vệ môi trường
+ (nếu có)
 
-*Nội dung chưa có sẵn*
+ *1 + Thuế suất thuế tiêu thụ đặc biệt*
 
-**Chỉ mục:** 10
+*a) Trường hợp cơ sở sản xuất, cơ sở nhập khẩu hàng hóa chịu thuế tiêu thụ đặc biệt bán hàng qua các cơ sở trực thuộc hạch toán phụ thuộc thì giá làm căn cứ tính thuế tiêu thụ đặc biệt là giá do cơ sở hạch toán phụ thuộc bán ra. Cơ sở sản xuất, cơ sở nhập khẩu bán hàng thông qua đại lý bán đúng giá do cơ sở sản xuất, cơ sở nhập khẩu quy định và chỉ hưởng hoa hồng thì giá bán làm căn cứ xác định giá tính thuế tiêu thụ đặc biệt là giá do cơ sở sản xuất, cơ sở nhập khẩu quy định chưa trừ hoa hồng.Trong đó, giá bán chưa có thuế giá trị gia tăng được xác định theo quy định của pháp luật về thuế giá trị gia tăng.*
 
-**Mã phân cấp:** 3301200000000000400001000000000000000000
+*b) Trường hợp hàng hóa chịu thuế tiêu thụ đặc biệt được bán cho các cơ sở kinh doanh thương mại là cơ sở có quan hệ công ty mẹ, công ty con hoặc các công ty con trong cùng công ty mẹ với cơ sở sản xuất, cơ sở nhập khẩu hoặc cơ sở kinh doanh thương mại là cơ sở có mối quan hệ liên kết thì giá bán làm căn cứ xác định giá tính thuế tiêu thụ đặc biệt không được thấp hơn tỷ lệ 7% so với giá bình quân của các cơ sở kinh doanh thương mại mua trực tiếp của cơ sở sản xuất, nhập khẩu bán ra. Trường hợp cơ sở sản xuất, cơ sở nhập khẩu thành lập nhiều cơ sở thương mại trung gian có quan hệ công ty mẹ, công ty con hoặc các công ty con trong cùng công ty mẹ hoặc có mối quan hệ liên kết thì giá bán làm căn cứ xác định giá tính thuế tiêu thụ đặc biệt không được thấp hơn tỷ lệ 7% so với giá bình quân của các cơ sở thương mại này bán cho cơ sở kinh doanh thương mại không có quan hệ công ty mẹ, công ty con, hoặc các công ty con trong cùng công ty mẹ, hoặc có mối quan hệ liên kết với cơ sở sản xuất, cơ sở nhập khẩu. Riêng mặt hàng xe ôtô giá bán bình quân của cơ sở kinh doanh thương mại để so sánh là giá bán xe ôtô chưa bao gồm các lựa chọn về trang thiết bị, phụ tùng mà cơ sở kinh doanh thương mại lắp đặt thêm theo yêu cầu của khách hàng.*
 
-**ID:** dk_00054034
+*Cơ sở sản xuất, cơ sở nhập khẩu và cơ sở kinh doanh thương mại có mối quan hệ liên kết theo quy định tại điểm này khi: Một doanh nghiệp nắm giữ trực tiếp hoặc gián tiếp ít nhất 20% vốn đầu tư của chủ sở hữu của doanh nghiệp kia.*
 
----
+*Trường hợp giá bán làm căn cứ xác định giá tính thuế tiêu thụ đặc biệt của cơ sở sản xuất, cơ sở nhập khẩu hàng hóa chịu thuế tiêu thụ đặc biệt thấp hơn tỷ lệ 7% so với giá bình quân của cơ sở kinh doanh thương mại bán ra thì giá tính thuế tiêu thụ đặc biệt là giá do cơ quan thuế ấn định theo quy định của pháp luật về quản lý thuế.*
 
+2. Đối với hàng nhập khẩu tại khâu nhập khẩu, giá tính thuế tiêu thụ đặc biệt được xác định như sau:
 
-### Điều 33.12.LQ.11. Hướng dẫn thi hành
+Giá tính thuế tiêu thụ đặc biệt = Giá tính thuế nhập khẩu + Thuế nhập khẩu.
 
-*Nội dung chưa có sẵn*
+Giá tính thuế nhập khẩu được xác định theo các quy định của pháp luật thuế xuất khẩu, thuế nhập khẩu. Trường hợp hàng hóa nhập khẩu được miễn, giảm thuế nhập khẩu thì giá tính thuế không bao gồm số thuế nhập khẩu được miễn, giảm.
 
-**Chỉ mục:** 11
+3. Đối với hàng hóa chịu thuế tiêu thụ đặc biệt, giá tính thuế không loại trừ giá trị vỏ bao bì, vỏ chai.
 
-**Mã phân cấp:** 3301200000000000400001100000000000000000
+Đối với mặt hàng bia chai nếu có đặt tiền cược vỏ chai, định kỳ hàng quý cơ sở sản xuất và khách hàng thực hiện quyết toán số tiền đặt cược vỏ chai mà số tiền đặt cược tương ứng với giá trị số vỏ chai không thu hồi được phải đưa vào doanh thu tính thuế tiêu thụ đặc biệt.
 
-**ID:** dk_00054035
+4. Đối với hàng hóa gia công thuộc diện chịu thuế tiêu thụ đặc biệt là giá bán hàng hóa của cơ sở giao gia công bán ra hoặc giá bán của sản phẩm cùng loại hoặc tương đương tại thời điểm bán.
 
----
+Trường hợp cơ sở giao gia công bán hàng cho cơ sở kinh doanh thương mại là cơ sở có quan hệ công ty mẹ, công ty con hoặc các công ty con trong cùng công ty mẹ với cơ sở sản xuất, cơ sở nhập khẩu hoặc cơ sở kinh doanh thương mại là cơ sở có mối quan hệ liên kết thì giá tính thuế được xác định theo quy định tại điểm b khoản 1 Điều này.
 
+5. Đối với hàng hóa sản xuất dưới hình thức hợp tác kinh doanh giữa cơ sở sản xuất và cơ sở sử dụng hoặc sở hữu thương hiệu (nhãn hiệu) hàng hóa, công nghệ sản xuất thì giá tính thuế tiêu thụ đặc biệt là giá bán ra của cơ sở sử dụng hoặc sở hữu thương hiệu hàng hóa, công nghệ sản xuất. Trường hợp cơ sở sản xuất theo giấy phép nhượng quyền và chuyển giao hàng hóa cho chi nhánh hoặc đại diện của công ty nước ngoài tại Việt Nam để tiêu thụ sản phẩm thì giá tính thuế tiêu thụ đặc biệt là giá bán ra của chi nhánh, đại diện công ty nước ngoài tại Việt Nam.
 
-### Điều 33.12.LQ.12.
+Trường hợp các cơ sở này bán hàng cho cơ sở kinh doanh thương mại là cơ sở có quan hệ công ty mẹ, công ty con hoặc các công ty con trong cùng công ty mẹ với cơ sở sản xuất, cơ sở nhập khẩu hoặc cơ sở kinh doanh thương mại là cơ sở có mối quan hệ liên kết thì giá tính thuế được xác định theo quy định tại điểm b khoản 1 Điều này.
 
-*Nội dung chưa có sẵn*
+6. Đối với hàng hóa bán theo phương thức trả góp, trả chậm, giá tính thuế tiêu thụ đặc biệt là giá bán của hàng hóa bán theo phương thức trả tiền một lần, không bao gồm khoản lãi trả góp, lãi trả chậm.
 
-**Chỉ mục:** 12
+7. Đối với dịch vụ, giá tính thuế tiêu thụ đặc biệt là giá cung ứng dịch vụ của cơ sở kinh doanh dịch vụ bán ra.
 
-**Mã phân cấp:** 3301200000000000400001110230840027000120
+a) Đối với kinh doanh gôn là doanh thu chưa có thuế giá trị gia tăng về bán thẻ hội viên, bán vé chơi gôn, bao gồm cả tiền bán vé tập gôn, tiền bảo dưỡng sân cỏ, hoạt động cho thuê xe (buggy) và thuê người giúp việc trong khi chơi gôn (caddy), tiền ký quỹ (nếu có) và các khoản thu khác do người chơi gôn, hội viên trả cho cơ sở kinh doanh gôn. Trường hợp cơ sở kinh doanh gôn có kinh doanh các loại hàng hóa, dịch vụ khác không thuộc đối tượng chịu thuế tiêu thụ đặc biệt như: Khách sạn, ăn uống, bán hàng hóa, hoặc các trò chơi thì các hàng hóa, dịch vụ đó không phải chịu thuế tiêu thụ đặc biệt;
 
-**ID:** dk_00054036
+b) Đối với kinh doanh ca-si-nô, trò chơi điện tử có thưởng, giá tính thuế tiêu thụ đặc biệt là doanh thu từ kinh doanh ca-si-nô, trò chơi điện tử có thưởng trừ (-) đi số tiền trả thưởng cho khách hàng;
 
----
+c) Đối với kinh doanh đặt cược giá tính thuế tiêu thụ đặc biệt là doanh thu bán vé đặt cược đã trừ tiền trả thưởng;
 
+d) Đối với kinh doanh vũ trường, mát-xa và ka-ra-ô-kê, giá tính thuế tiêu thụ đặc biệt là doanh thu của các hoạt động trong vũ trường, cơ sở mát-xa và ka-ra-ô-kê bao gồm cả doanh thu của dịch vụ ăn uống và các dịch vụ khác đi kèm;
 
-### Điều 33.12.NĐ.1.8. Hiệu lực và hướng dẫn thi hành
+đ) Đối với kinh doanh xổ số giá tính thuế tiêu thụ đặc biệt là doanh thu bán vé các loại hình xổ số được phép kinh doanh theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+8. Đối với hàng hóa, dịch vụ dùng để trao đổi, tiêu dùng nội bộ, biếu, tặng, cho, khuyến mại giá tính thuế tiêu thụ đặc biệt là giá tính thuế tiêu thụ đặc biệt của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh hoạt động trao đổi, tiêu dùng nội bộ, biếu, tặng, cho, khuyến mại các hàng hóa, dịch vụ này.
 
-**Chỉ mục:** 8
+9. Giá tính thuế tiêu thụ đặc biệt đối với hàng hóa, dịch vụ quy định tại Điều này bao gồm cả khoản thu thêm tính ngoài giá bán hàng hóa, giá cung ứng dịch vụ (nếu có) mà cơ sở sản xuất, kinh doanh được hưởng. Riêng đối với mặt hàng thuốc lá giá tính thuế tiêu thụ đặc biệt bao gồm cả khoản đóng góp bắt buộc và kinh phí hỗ trợ quy định tại Luật Phòng, chống tác hại của thuốc lá.
 
-**Mã phân cấp:** 3301200000000000400001140256230108000080
+Thời điểm phát sinh doanh thu đối với hàng hóa là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt đã thu được tiền hay chưa thu được tiền; đối với dịch vụ là thời điểm hoàn thành việc cung ứng dịch vụ hoặc thời điểm lập hóa đơn cung ứng dịch vụ, không phân biệt đã thu được tiền hay chưa thu được tiền.
 
-**ID:** dk_00054037
+Điều 33.12.TT.1.5. Giá tính thuế tiêu thụ đặc biệt
 
----
+(Điều 5 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 1, khoản 2 Điều 2 Thông tư số [130/2016/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-130-2016-tt-btc-huong-dan-100-2016-nd-cp-huong-dan-luat-thue-gia-tri-gia-tang-quan-ly-thue-321858.aspx) hướng dẫn Nghị định số100/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng, Luật Thuế tiêu thụ đặc biệt và Luật Quản lý thuế và sửa đổi một số điều tại các Thông tư về thuế, có hiệu lực kể từ ngày 01/7/2016.)
 
+Giá tính thuế TTĐB của hàng hóa, dịch vụ là giá bán hàng hóa, giá cung ứng dịch vụ của cơ sở sản xuất, kinh doanh chưa có thuế TTĐB, thuế bảo vệ môi trường (nếu có) và thuế giá trị gia tăng, được xác định cụ thể như sau:
 
-### Điều 33.12.NĐ.1.9. Hiệu lực và trách nhiệm thi hành
+1. Đối với hàng hóa sản xuất trong nước, hàng hóa nhập khẩu là giá do cơ sở sản xuất, cơ sở nhập khẩu bán ra. Trường hợp giá bán của cơ sở sản xuất, cơ sở nhập khẩu bán ra không theo giá giao dịch thông thường trên thị trường thì cơ quan thuế thực hiện ấn định thuế theo quy định của Luật quản lý thuế. Giá tính thuế tiêu thụ đặc biệt được xác định như sau:
+
+ Giá tính thuế TTĐB
+
+ =
+
+ Giá bán chưa có thuế GTGT
+
+ -
+
+ Thuế Bảo vệ môi trường (nếu có)
+
+ 1 + Thuế suất thuế TTĐB
+
+Trong đó: giá bán chưa có thuế giá trị gia tăng được xác định theo quy định của pháp luật về thuế giá trị gia tăng, thuế bảo vệ môi trường xác định theo quy định của pháp luật về thuế bảo vệ môi trường.
+
+a) Trường hợp cơ sở sản xuất, cơ sở nhập khẩu hàng hóa chịu thuế tiêu thụ đặc biệt bán hàng qua các cơ sở trực thuộc hạch toán phụ thuộc thì giá làm căn cứ tính thuế tiêu thụ đặc biệt là giá do cơ sở hạch toán phụ thuộc bán ra. Cơ sở sản xuất, cơ sở nhập khẩu bán hàng thông qua đại lý bán đúng giá do cơ sở sản xuất, cơ sở nhập khẩu quy định và chỉ hưởng hoa hồng thì giá bán làm căn cứ xác định giá tính thuế tiêu thụ đặc biệt là giá do cơ sở sản xuất, cơ sở nhập khẩu quy định chưa trừ hoa hồng.
+
+b) Trường hợp hàng hóa chịu thuế tiêu thụ đặc biệt được bán cho các cơ sở kinh doanh thương mại là cơ sở có quan hệ công ty mẹ, công ty con hoặc các công ty con trong cùng công ty mẹ với cơ sở sản xuất, cơ sở nhập khẩu hoặc cơ sở kinh doanh thương mại là cơ sở có mối quan hệ liên kết thì giá bán làm căn cứ xác định giá tính thuế tiêu thụ đặc biệt không được thấp hơn tỷ lệ 7% so với giá bình quân trong tháng của các cơ sở kinh doanh thương mại mua trực tiếp của cơ sở sản xuất, cơ sở nhập khẩu bán ra.
+
+Trường hợp cơ sở sản xuất, cơ sở nhập khẩu thành lập nhiều cơ sở thương mại trung gian có quan hệ công ty mẹ, công ty con hoặc các công ty con trong cùng công ty mẹ hoặc có mối quan hệ liên kết thì giá bán làm căn cứ xác định giá tính thuế tiêu thụ đặc biệt không được thấp hơn tỷ lệ 7% so với giá bình quân trong tháng của các cơ sở thương mại này bán cho cơ sở kinh doanh thương mại không có quan hệ công ty mẹ, công ty con, hoặc các công ty con trong cùng công ty mẹ, hoặc có mối quan hệ liên kết với cơ sở sản xuất, cơ sở nhập khẩu. Riêng mặt hàng xe ô tô giá bán bình quân của cơ sở kinh doanh thương mại để so sánh là giá bán xe chưa bao gồm các lựa chọn về trang thiết bị, phụ tùng mà cơ sở kinh doanh thương mại lắp đặt thêm theo yêu cầu của khách hàng.
+
+Cơ sở sản xuất, cơ sở nhập khẩu và cơ sở kinh doanh thương mại có mối quan hệ liên kết theo quy định tại điểm này khi: Một doanh nghiệp nắm giữ trực tiếp hoặc gián tiếp ít nhất 20% vốn đầu tư của chủ sở hữu của doanh nghiệp kia.
+
+Trường hợp giá bán làm căn cứ xác định giá tính thuế tiêu thụ đặc biệt của cơ sở sản xuất, cơ sở nhập khẩu hàng hóa chịu thuế tiêu thụ đặc biệt thấp hơn tỷ lệ 7% so với giá bình quân của cơ sở kinh doanh thương mại bán ra thì giá tính thuế tiêu thụ đặc biệt là giá do cơ quan thuế ấn định theo quy định của pháp luật về quản lý thuế.
+
+Ví dụ: Tổng công ty bia B là đơn vị sở hữu thương hiệu bia B, bán nguyên vật liệu chính cho các đơn vị sản xuất sản phẩm bia B là các đơn vị thành viên của Tổng Công ty bia B.
+
+Các đơn vị sản xuất bán sản phẩm bia B cho Công ty TNHH MTV thương mại bia B là công ty con của Tổng công ty bia B.
+
+Công ty TNHH MTV thương mại bia B bán sản phẩm bia B cho các Công ty cổ phần thương mại khu vực là công ty con của Công ty TNHH MTV thương mại bia B.
+
+Các công ty cổ phần thương mại khu vực ký hợp đồng bán sản phẩm bia B cho các đại lý cấp 1 (không có quan hệ công ty mẹ, công ty con với Tổng công ty bia B, Công ty TNHH MTV thương mại bia B, các công ty cổ phần thương mại khu vực); các đại lý cấp 1 bán sản phẩm bia B cho các đại lý cấp 2, nhà hàng, người tiêu dùng...
+
+Cơ sở sản xuất thực hiện tính, kê khai và nộp thuế TTĐB theo giá bán ra của các cơ sở sản xuất nhưng không được thấp hơn 7% so với giá bán bình quân trong tháng của cùng loại sản phẩm do các công ty cổ phần thương mại khu vực bán ra.
+
+2. Đối với hàng nhập khẩu tại khâu nhập khẩu, giá tính thuế tiêu thụ đặc biệt được xác định như sau:
+
+Giá tính thuế tiêu thụ đặc biệt = Giá tính thuế nhập khẩu + Thuế nhập khẩu. 
+
+Giá tính thuế nhập khẩu được xác định theo các quy định của pháp Luật Thuế xuất khẩu, thuế nhập khẩu. Trường hợp hàng hóa nhập khẩu được miễn, giảm thuế nhập khẩu thì giá tính thuế không bao gồm số thuế nhập khẩu được miễn, giảm.
+
+3. Đối với hàng hóa chịu thuế TTĐB, giá tính thuế TTĐB là giá chưa có thuế GTGT, thuế bảo vệ môi trường (nếu có), chưa có thuế TTĐB và không loại trừ giá trị vỏ bao bì.
+
+Đối với mặt hàng bia chai nếu có đặt tiền cược vỏ chai, định kỳ hàng quý cơ sở sản xuất và khách hàng thực hiện quyết toán số tiền đặt cược vỏ chai thì số tiền đặt cược tương ứng giá trị số vỏ chai không thu hồi được phải đưa vào doanh thu tính thuế TTĐB.
+
+Ví dụ 6: Đối với bia hộp, năm 2016 giá bán của 1 lít bia hộp chưa có thuế GTGT là 21.000 đồng, thuế suất thuế TTĐB mặt hàng bia là 55% thì giá tính thuế TTĐB được xác định như sau:
+
+ Giá tính thuế TTĐB 1 lít bia hộp
+
+ =
+
+ 21.000 đồng
+
+ =
+
+ 13.548 đồng
+
+ 1 + 55%
+
+Ví dụ 7: Quý II/2016, giá bán của một két bia chai Hà Nội chưa có thuế GTGT là 124.000 đồng/két, thì giá tính thuế TTĐB xác định như sau:
+
+ Giá tính thuế TTĐB 1 két bia
+
+ =
+
+ 124.000 đồng
+
+ =
+
+ 80.000 đồng
+
+ 1 + 55% 
+
+Ví dụ 8: Quý III/2016, Công ty bia A bán 1.000 chai bia cho khách hàng B và có thu tiền cược vỏ chai với mức 1.200 đồng/vỏ chai, tổng số tiền đặt cược là 1.200.000 đồng. Hết quý Công ty A và khách hàng B thực hiện quyết toán: số vỏ chai thu hồi là 800 vỏ chai, số vỏ chai không thu hồi được là 200 vỏ chai, căn cứ số lượng vỏ chai thu hồi, Công ty A trả lại cho khách hàng B số tiền là 960.000 đồng, số tiền đặt cược tương ứng số vỏ chai không thu hồi được là 240.000 đồng (200 vỏ chai x 1.200 đồng/vỏ chai) Công ty A phải đưa vào doanh thu tính thuế TTĐB.
+
+4. Đối với hàng hóa gia công là giá tính thuế của hàng hóa bán ra của cơ sở giao gia công hoặc giá bán của sản phẩm cùng loại hoặc tương đương tại cùng thời điểm bán hàng chưa có thuế GTGT, thuế bảo vệ môi trường (nếu có) và chưa có thuế TTĐB.
+
+Trường hợp cơ sở giao gia công bán hàng cho cơ sở kinh doanh thương mại thì giá tính thuế TTĐB được xác định theo hướng dẫn tại Điểm b Khoản 1 Điều này.
+
+5. Đối với hàng hóa sản xuất dưới hình thức hợp tác kinh doanh giữa cơ sở sản xuất và cơ sở sử dụng hoặc sở hữu thương hiệu (nhãn hiệu) hàng hóa, công nghệ sản xuất thì giá làm căn cứ tính thuế TTĐB là giá bán ra chưa có thuế GTGT và thuế bảo vệ môi trường (nếu có) của cơ sở sử dụng hoặc sở hữu thương hiệu hàng hóa, công nghệ sản xuất. Trường hợp cơ sở sản xuất theo giấy phép nhượng quyền và chuyển giao hàng hóa cho chi nhánh hoặc đại diện của công ty nước ngoài tại Việt Nam để tiêu thụ sản phẩm thì giá tính thuế TTĐB là giá bán ra của chi nhánh, đại diện công ty nước ngoài tại Việt Nam.
+
+Trường hợp các cơ sở này bán hàng cho cơ sở kinh doanh thương mại thì giá tính thuế được xác định theo hướng dẫn tại Điểm b Khoản 1 Điều này.
+
+6. Đối với hàng hóa bán theo phương thức trả góp, trả chậm, giá tính thuế TTĐB là giá bán chưa có thuế GTGT, thuế bảo vệ môi trường (nếu có) và chưa có thuế TTĐB của hàng hóa bán theo phương thức trả tiền một lần, không bao gồm khoản lãi trả góp, lãi trả chậm.
+
+7. Đối với hàng hóa, dịch vụ dùng để trao đổi, tiêu dùng nội bộ, biếu, tặng, cho, khuyến mại là giá tính thuế TTĐB của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh các hoạt động này.
+
+8. Đối với cơ sở kinh doanh xuất khẩu mua hàng chịu thuế TTĐB của cơ sở sản xuất để xuất khẩu nhưng không xuất khẩu mà bán trong nước thì giá tính thuế TTĐB trong trường hợp này là giá bán chưa có thuế TTĐB, thuế bảo vệ môi trường (nếu có) và chưa có thuế GTGT được xác định cụ thể như sau:
+
+ Giá tính thuế TTĐB
+
+ =
+
+ Giá bán trong nước của cơ sở xuất khẩu chưa có thuế GTGT
+
+ -
+
+ Thuế bảo vệ môi trường
+ (nếu có)
+
+ 1 + Thuế suất thuế TTĐB
+
+Trường hợp cơ sở kinh doanh xuất khẩu kê khai giá bán (đã có thuế GTGT, thuế bảo vệ môi trường (nếu có) và thuế TTĐB) làm căn cứ xác định giá tính thuế TTĐB thấp hơn 7% so với giá bán trên thị trường thì giá tính thuế TTĐB là giá do cơ quan thuế ấn định theo quy định của Luật quản lý thuế và các văn bản hướng dẫn thi hành.
+
+9. Đối với dịch vụ, giá tính thuế TTĐB là giá cung ứng dịch vụ của cơ sở kinh doanh chưa có thuế GTGT và chưa có thuế TTĐB, được xác định như sau:
+
+ Giá tính thuế TTĐB
+
+ =
+
+ Giá dịch vụ chưa có thuế GTGT
+
+ 1 + Thuế suất thuế TTĐB
+
+Giá dịch vụ chưa có thuế GTGT làm căn cứ xác định giá tính thuế TTĐB đối với một số dịch vụ quy định như sau:
+
+a) Đối với kinh doanh gôn (bao gồm cả kinh doanh sân tập gôn) là doanh thu chưa có thuế GTGT về bán thẻ hội viên, bán vé chơi gôn, bao gồm cả tiền bán vé tập gôn, tiền bảo dưỡng sân cỏ, hoạt động cho thuê xe (buggy) và thuê người giúp việc trong khi chơi gôn (caddy), tiền ký quỹ (nếu có) và các khoản thu khác liên quan đến chơi gôn do người chơi gôn, hội viên trả cho cơ sở kinh doanh gôn. Trường hợp khoản ký quỹ được trả lại người ký quỹ thì cơ sở sẽ được hoàn lại số thuế đã nộp bằng cách khấu trừ vào số phải nộp của kỳ tiếp theo, nếu không khấu trừ thì cơ sở sẽ được hoàn theo quy định. Trường hợp cơ sở kinh doanh gôn có kinh doanh các loại hàng hóa, dịch vụ khác không thuộc đối tượng chịu thuế tiêu thụ đặc biệt như: khách sạn, ăn uống, bán hàng hóa, hoặc các trò chơi thì các hàng hóa, dịch vụ đó không phải chịu thuế TTĐB.
+
+Ví dụ 9: Cơ sở kinh doanh gôn có tổ chức các hoạt động kinh doanh khách sạn, ăn uống, bán hàng hóa, hoặc các trò chơi không thuộc diện chịu thuế TTĐB thì các hàng hóa, dịch vụ này không phải chịu thuế TTĐB.
+
+b) Đối với kinh doanh ca-si-nô, trò chơi điện tử có thưởng, giá làm căn cứ xác định giá tính thuế TTĐB là doanh thu từ kinh doanh ca-si-nô, trò chơi điện tử có thưởng đã trừ tiền trả thưởng cho khách tức là bằng số tiền thu được (chưa có thuế GTGT) do đổi cho khách trước khi chơi tại quầy đổi tiền hoặc bàn chơi, máy chơi trừ đi số tiền đổi trả lại khách hàng.
+
+c) Đối với kinh doanh đặt cược, giá làm căn cứ xác định giá tính thuế TTĐB là doanh thu bán vé đặt cược trừ (-) tiền trả thưởng cho khách hàng (giá chưa có thuế GTGT), không bao gồm doanh số bán vé vào cửa xem các sự kiện giải trí gắn với hoạt động đặt cược.
+
+d) Đối với kinh doanh vũ trường, mát-xa và ka-ra-ô-kê, giá làm căn cứ xác định giá tính thuế TTĐB là doanh thu chưa có thuế GTGT của các hoạt động trong vũ trường, cơ sở mát-xa và ka-ra-ô-kê, bao gồm cả doanh thu của dịch vụ ăn uống và các dịch vụ khác đi kèm (ví dụ: tắm, xông hơi trong cơ sở mát-xa).
+
+Ví dụ 10: Doanh thu chưa có thuế GTGT kinh doanh vũ trường (bao gồm cả doanh thu dịch vụ ăn uống) của cơ sở kinh doanh A trong kỳ tính thuế là 100.000.000 đồng.
+
+ Giá tính thuế TTĐB
+
+ =
+
+ 100.000.000 đồng
+
+ =
+
+ 71.428.571 đồng
+
+ 1 + 40% 
+
+đ) Đối với kinh doanh xổ số, giá làm căn cứ xác định giá tính thuế TTĐB là doanh thu bán vé các loại hình xổ số được phép kinh doanh theo quy định của pháp luật (doanh thu chưa có thuế GTGT).
+
+10. Giá tính thuế TTĐB đối với hàng hóa, dịch vụ quy định từ khoản 1 đến khoản 9 Điều này bao gồm cả khoản thu thêm tính ngoài giá bán hàng hóa, giá cung ứng dịch vụ (nếu có) mà cơ sở sản xuất kinh doanh được hưởng. Riêng đối với mặt hàng thuốc lá giá tính thuế TTĐB bao gồm cả khoản đóng góp bắt buộc và kinh phí hỗ trợ quy định tại Luật phòng, chống tác hại của thuốc lá.
+
+Giá tính thuế được tính bằng đồng Việt Nam. Trường hợp người nộp thuế có phát sinh doanh thu, giá tính thuế bằng ngoại tệ thì phải quy đổi ra đồng Việt Nam theo tỷ giá giao dịch thực tế theo quy định của Luật quản lý thuế và các văn bản hướng dẫn thi hành.
+
+Đối với hàng hóa nhập khẩu: việc quy đổi tỷ giá giữa đồng Việt Nam với đồng tiền nước ngoài dùng để xác định trị giá tính thuế được thực hiện theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu.
+
+11. Trường hợp cơ sở sản xuất, kinh doanh không thực hiện hoặc thực hiện không đúng chế độ hóa đơn, chứng từ thì cơ quan thuế căn cứ vào tình hình sản xuất kinh doanh thực tế để ấn định doanh thu theo quy định của Luật Quản lý thuế và xác định số thuế TTĐB phải nộp.
+
+12. Thời điểm xác định thuế TTĐB như sau:
+
+- Đối với hàng hóa: thời điểm phát sinh doanh thu đối với hàng hóa là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt đã thu được tiền hay chưa thu được tiền.
+
+- Đối với dịch vụ: thời điểm phát sinh doanh thu là thời điểm hoàn thành việc cung ứng dịch vụ hoặc thời điểm lập hóa đơn cung ứng dịch vụ, không phân biệt đã thu được tiền hay chưa thu được tiền.
+
+- Đối với hàng hóa nhập khẩu là thời điểm đăng ký tờ khai hải quan.
+
+13. Cơ sở sản xuất, nhập khẩu hàng hóa, kinh doanh dịch vụ chịu thuế TTĐB phải thực hiện đúng chế độ kế toán, hóa đơn, chứng từ khi mua, bán hàng hóa, kinh doanh dịch vụ và vận chuyển hàng hóa theo quy định của pháp luật.
+
+Cơ sở sản xuất khi bán hàng hóa, giao hàng cho các chi nhánh, cơ sở phụ thuộc, đại lý đều phải sử dụng hóa đơn. Trường hợp chi nhánh, cửa hàng trực thuộc đặt trên cùng một tỉnh, thành phố với cơ sở sản xuất hoặc hàng xuất chuyển kho thì cơ sở được sử dụng phiếu xuất kho kiêm vận chuyển nội bộ kèm theo lệnh điều động nội bộ.
+
+Cơ sở sản xuất mặt hàng chịu thuế TTĐB có sử dụng nhãn hiệu hàng hóa phải đăng ký mẫu nhãn hiệu hàng hóa sử dụng theo quy định.
+
+Điều 33.12.LQ.7. Thuế suất
+
+(Điều 7 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 4 Điều 1 của Luật số 70/2014/QH13 sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt, có hiệu lực kể từ ngày 01/01/016, khoản 2 Điều 2 của Luật số 106/2016/QH13 sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng, Luật thuế tiêu thụ đặc biệt và Luật quản lý thuế, có hiệu lực kể từ ngày 01/7/2016.)
+
+Thuế suất thuế tiêu thụ đặc biệt đối với hàng hóa, dịch vụ được quy định theo Biểu thuế tiêu thụ đặc biệt sau đây:
+
+**BIỂU THUẾ TIÊU THỤ ĐẶC BIỆT**
+
+ **STT**
+
+ **Hàng hóa, dịch vụ**
+
+ **Thuế suất (%)**
+
+ I
+
+ Hàng hóa
+
+ 1
+
+ Thuốc lá điếu, xì gà và các chế phẩm khác từ cây thuốc lá
+
+ Từ ngày 01 tháng 01 năm 2016 đến hết ngày 31 tháng 12 năm 2018
+
+ 70
+
+ Từ ngày 01 tháng 01 năm 2019
+
+ 75
+
+ 2
+
+ Rượu
+
+ a) Rượu từ 20 độ trở lên
+
+ Từ ngày 01 tháng 01 năm 2016 đến hết ngày 31 tháng 12 năm 2016
+
+ 55
+
+ Từ ngày 01 tháng 01 năm 2017 đến hết ngày 31 tháng 12 năm 2017
+
+ 60
+
+ Từ ngày 01 tháng 01 năm 2018
+
+ 65
+
+ b) Rượu dưới 20 độ
+
+ Từ ngày 01 tháng 01 năm 2016 đến hết ngày 31 tháng 12 năm 2017
+
+ 30
+
+ Từ ngày 01 tháng 01 năm 2018
+
+ 35
+
+ 3
+
+ Bia
+
+ Từ ngày 01 tháng 01 năm 2016 đến hết ngày 31 tháng 12 năm 2016
+
+ 55
+
+ Từ ngày 01 tháng 01 năm 2017 đến hết ngày 31 tháng 12 năm 2017
+
+ 60
+
+ Từ ngày 01 tháng 01 năm 2018
+
+ 65
+
+ 4
+
+ Xe ô tô dưới 24 chỗ
+
+ a) Xe ô tô chở người từ 9 chỗ trở xuống, trừ loại quy định tại các điểm 4đ, 4e và 4g của Biểu thuế quy định tại Điều này
+
+ - Loại có dung tích xi lanh từ 1.500 cm3 trở xuống
+
+ + Từ ngày 01 tháng 7 năm 2016 đến hết ngày 31 tháng 12 năm 2017
+
+ 40
+
+ + Từ ngày 01 tháng 01 năm 2018
+
+ 35
+
+ - Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3
+
+ + Từ ngày 01 tháng 7 năm 2016 đến hết ngày 31 tháng 12 năm 2017
+
+ 45
+
+ + Từ ngày 01 tháng 01 năm 2018
+
+ 40
+
+ - Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3
+
+ 50
+
+ - Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3
+
+ + Từ ngày 01 tháng 7 năm 2016 đến hết ngày 31 tháng 12 năm 2017
+
+ 55
+
+ + Từ ngày 01 tháng 01 năm 2018
+
+ 60
+
+ - Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3
+
+ 90
+
+ - Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3
+
+ 110
+
+ - Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3
+
+ 130
+
+ - Loại có dung tích xi lanh trên 6.000 cm3
+
+ 150
+
+ b) Xe ô tô chở người từ 10 đến dưới 16 chỗ, trừ loại quy định tại các điểm 4đ, 4e và 4g của Biểu thuế quy định tại Điều này
+
+ 15
+
+ c) Xe ô tô chở người từ 16 đến dưới 24 chỗ, trừ loại quy định tại các điểm 4đ, 4e và 4g của Biểu thuế quy định tại Điều này
+
+ 10
+
+ d) Xe ô tô vừa chở người, vừa chở hàng, trừ loại quy định tại các điểm 4đ, 4e và 4g của Biểu thuế quy định tại Điều này
+
+ - Loại có dung tích xi lanh từ 2.500 cm3 trở xuống
+
+ 15
+
+ - Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3
+
+ 20
+
+ - Loại có dung tích xi lanh trên 3.000 cm3
+
+ 25
+
+ đ) Xe ô tô chạy bằng xăng kết hợp năng lượng điện, năng lượng sinh học, trong đó tỷ trọng xăng sử dụng không quá 70% số năng lượng sử dụng
+
+ Bằng 70% mức thuế suất áp dụng cho xe cùng loại quy định tại các điểm 4a, 4b, 4c và 4d của Biểu thuế quy định tại Điều này
+
+ e) Xe ô tô chạy bằng năng lượng sinh học
+
+ Bằng 50% mức thuế suất áp dụng cho xe cùng loại quy định tại các điểm 4a, 4b, 4c và 4d của Biểu thuế quy định tại Điều này
+
+ g) Xe ô tô chạy bằng điện
+
+ - Loại chở người từ 9 chỗ trở xuống
+
+ 15
+
+ - Loại chở người từ 10 đến dưới 16 chỗ
+
+ 10
+
+ - Loại chở người từ 16 đến dưới 24 chỗ
+
+ 5
+
+ - Loại thiết kế vừa chở người, vừa chở hàng
+
+ 10
+
+ h) Xe mô-tô-hôm (motorhome) không phân biệt dung tích xi lanh
+
+ - Từ ngày 01 tháng 7 năm 2016 đến hết ngày 31 tháng 12 năm 2017
+
+ 70
+
+ - Từ ngày 01 tháng 01 năm 2018
+
+ 75
+
+ 5
+
+ Xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh trên 125 cm3
+
+ 20
+
+ 6
+
+ Tàu bay
+
+ 30
+
+ 7
+
+ Du thuyền
+
+ 30
+
+ 8
+
+ Xăng các loại
+
+ a) Xăng
+
+ 10
+
+ b) Xăng E5
+
+ 8
+
+ c) Xăng E10
+
+ 7
+
+ 9
+
+ Điều hòa nhiệt độ công suất từ 90.000 BTU trở xuống
+
+ 10
+
+ 10
+
+ Bài lá
+
+ 40
+
+ 11
+
+ Vàng mã, hàng mã
+
+ 70
+
+ II
+
+ Dịch vụ
+
+ 1
+
+ Kinh doanh vũ trường
+
+ 40
+
+ 2
+
+ Kinh doanh mát-xa, ka-ra-ô-kê
+
+ 30
+
+ 3
+
+ Kinh doanh ca-si-nô, trò chơi điện tử có thưởng
+
+ 35
+
+ 4
+
+ Kinh doanh đặt cược
+
+ 30
+
+ 5
+
+ Kinh doanh gôn
+
+ 20
+
+ 6
+
+ Kinh doanh xổ số
+
+ 15
+
+Điều 33.12.NĐ.1.5. Thuế suất
+
+(Điều 5 Nghị định số 108/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+Thuế suất thuế tiêu thụ đặc biệt thực hiện theo Biểu thuế tiêu thụ đặc biệt quy định tại Khoản 4 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt.
+
+1. Đối với xe ô tô loại thiết kế vừa chở người vừa chở hàng quy định tại các Điểm 4d, 4g Biểu thuế tiêu thụ đặc biệt là loại có từ hai hàng ghế trở lên, có thiết kế vách ngăn cố định giữa khoang chở người và khoang chở hàng theo tiêu chuẩn quốc gia do Bộ Khoa học và Công nghệ quy định.
+
+2. Xe ôtô chạy bằng xăng kết hợp năng lượng sinh học hoặc điện quy định tại Điểm 4đ Biểu thuế tiêu thụ đặc biệt là loại xe được thiết kế theo tiêu chuẩn của nhà sản xuất có tỷ lệ xăng pha trộn không quá 70% tổng số nhiên liệu sử dụng và loại xe kết hợp động cơ điện với động cơ xăng có tỷ lệ xăng sử dụng theo tiêu chuẩn nhà sản xuất không quá 70% số năng lượng sử dụng so với loại xe chạy xăng tiết kiệm nhất, có cùng số chỗ ngồi và cùng dung tích xi lanh có mặt trên thị trường Việt Nam.
+
+3. Xe ô tô chạy bằng năng lượng sinh học, năng lượng điện quy định tại các Điểm 4e, 4g Biểu thuế tiêu thụ đặc biệt là loại xe được thiết kế theo tiêu chuẩn của nhà sản xuất chạy hoàn toàn bằng năng lượng sinh học, năng lượng điện.
+
+Điều 33.12.TT.1.6. Thuế suất thuế TTĐB
+
+(Điều 6 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 3 Điều 2 Thông tư số [130/2016/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-130-2016-tt-btc-huong-dan-100-2016-nd-cp-huong-dan-luat-thue-gia-tri-gia-tang-quan-ly-thue-321858.aspx) hướng dẫn Nghị định số [100/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-100-2016-nd-cp-huong-dan-luat-thue-gia-tri-gia-tang-thue-tieu-thu-dac-biet-quan-ly-thue-sua-doi-318277.aspx) ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng, Luật Thuế tiêu thụ đặc biệt và Luật Quản lý thuế và sửa đổi một số điều tại các Thông tư về thuế, có hiệu lực kể từ ngày 01/7/2016.)
+
+1. Thực hiện theo quy định tại Khoản 4 Điều 1 Luật số 70/2014/QH13 ngày 26 tháng 11 năm 2014 sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt, Khoản 2 Điều 2 Luật số 106/2016/QH13 ngày 06 tháng 4 năm 2016 sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng, Luật Thuế tiêu thụ đặc biệt và Luật quản lý thuế, Điều 5 Nghị định số 108/2015/NĐ-CP ngày 28/10/2015 của Chính phủ.
+
+Trường hợp cơ sở kinh doanh nhập khẩu ô tô trước ngày 01/7/2016 nhưng bán ra từ ngày 01/7/2016 thì khi bán ra cơ sở kinh doanh phải kê khai nộp thuế TTĐB theo mức thuế suất quy định tại Luật số 106/2016/QH13 sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng, Luật Thuế tiêu thụ đặc biệt và Luật quản lý thuế.
+
+2. Trường hợp cơ sở sản xuất nhiều loại hàng hóa và kinh doanh nhiều loại dịch vụ chịu thuế TTĐB có các mức thuế suất khác nhau thì phải kê khai nộp thuế TTĐB theo từng mức thuế suất quy định đối với từng loại hàng hóa, dịch vụ; nếu cơ sở sản xuất hàng hóa, kinh doanh dịch vụ không xác định được theo từng mức thuế suất thì phải tính và nộp thuế theo mức thuế suất cao nhất của hàng hóa, dịch vụ mà cơ sở có sản xuất, kinh doanh.
+
+Chương III
+
+HOÀN THUẾ, KHẤU TRỪ THUẾ, GIẢM THUẾ
+
+Điều 33.12.LQ.8. Hoàn thuế, khấu trừ thuế
+
+(Điều 8 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009)
+
+1. Người nộp thuế tiêu thụ đặc biệt được hoàn thuế đã nộp trong các trường hợp sau:
+
+a) Hàng tạm nhập khẩu, tái xuất khẩu;     
+
+b) Hàng hóa là nguyên liệu nhập khẩu để sản xuất, gia công hàng xuất khẩu;
+
+c) Quyết toán thuế khi sáp nhập, hợp nhất, chia, tách, giải thể, phá sản, chuyển đổi sở hữu, chuyển đổi doanh nghiệp, chấm dứt hoạt động có số thuế nộp thừa;         
+
+d) Có quyết định hoàn thuế của cơ quan có thẩm quyền theo quy định của pháp luật và trường hợp hoàn thuế tiêu thụ đặc biệt theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+
+Việc hoàn thuế tiêu thụ đặc biệt theo quy định tại điểm a và điểm b khoản này chỉ thực hiện đối với hàng hoá thực tế xuất khẩu.
+
+2. Người nộp thuế sản xuất hàng hóa thuộc đối tượng chịu thuế tiêu thụ đặc biệt bằng nguyên liệu đã nộp thuế tiêu thụ đặc biệt nếu có chứng từ hợp pháp thì được khấu trừ số thuế đã nộp đối với nguyên liệu khi xác định số thuế tiêu thụ đặc biệt phải nộp ở khâu sản xuất.
+
+Chính phủ quy định cụ thể Điều này.
+
+Điều 33.12.NĐ.1.6. Hoàn thuế
+
+(Điều 6 Nghị định số 108/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 2, Điều 1 Nghị định số [14/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-14-2019-nd-cp-huong-dan-luat-thue-tieu-thu-dac-biet-luat-thue-tieu-thu-dac-biet-sua-doi-280013.aspx) ngày 01 tháng 02 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số [108/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-108-2015-nd-cp-huong-dan-luat-thue-tieu-thu-dac-biet-sua-doi-294252.aspx) ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt, có hiệu lực thi hành kể từ ngày 20/3/2019.)
+
+Việc hoàn thuế tiêu thụ đặc biệt thực hiện theo quy định tại Điều 8 của Luật thuế tiêu thụ đặc biệt.
+
+1. Đối với hàng hóa tạm nhập khẩu, tái xuất khẩu quy định tại Điểm a Khoản 1 Điều 8 của Luật Thuế tiêu thụ đặc biệt gồm:
+
+a) Hàng hóa nhập khẩu đã nộp thuế tiêu thụ đặc biệt nhưng còn lưu kho, lưu bãi tại cửa khẩu và đang chịu sự giám sát của cơ quan Hải quan, được tái xuất ra nước ngoài;
+
+b) Hàng hóa nhập khẩu đã nộp thuế tiêu thụ đặc biệt để giao, bán hàng cho nước ngoài thông qua các đại lý tại Việt Nam; hàng hóa nhập khẩu để bán cho các phương tiện của các hãng nước ngoài trên các tuyến đường qua cảng Việt Nam hoặc các phương tiện của Việt Nam trên các tuyến đường vận tải quốc tế theo quy định của pháp luật;
+
+c) Hàng tạm nhập khẩu để tái xuất khẩu theo phương thức kinh doanh hàng tạm nhập, tái xuất khi tái xuất khẩu được hoàn lại số thuế tiêu thụ đặc biệt đã nộp tương ứng với số hàng thực tế tái xuất khẩu;
+
+d) Hàng nhập khẩu đã nộp thuế tiêu thụ đặc biệt nhưng tái xuất khẩu ra nước ngoài được hoàn lại số thuế tiêu thụ đặc biệt đã nộp đối với số hàng xuất trả lại nước ngoài;
+
+đ) Hàng tạm nhập khẩu để dự hội chợ, triển lãm, giới thiệu sản phẩm hoặc để phục vụ công việc khác trong thời hạn nhất định theo quy định của pháp luật và đã nộp thuế tiêu thụ đặc biệt, khi tái xuất khẩu được hoàn thuế.
+
+Trường hợp hàng tạm nhập khẩu để tái xuất khẩu, nếu đã thực tái xuất khẩu trong thời hạn nộp thuế theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu thì không phải nộp thuế tiêu thụ đặc biệt tương ứng với số hàng thực tế đã tái xuất.
+
+2. Hàng hóa là nguyên liệu nhập khẩu để sản xuất, gia công hàng xuất khẩu được hoàn lại số thuế tiêu thụ đặc biệt đã nộp tương ứng với số nguyên liệu dùng để sản xuất hàng hóa thực tế xuất khẩu.
+
+3. Thủ tục, hồ sơ, trình tự và thẩm quyền giải quyết hoàn thuế tiêu thụ đặc biệt:
+
+a) Thủ tục, hồ sơ, trình tự và thẩm quyền giải quyết hoàn thuế tiêu thụ đặc biệt đối với hàng hóa tạm nhập khẩu, tái xuất khẩu quy định tại khoản 1 Điều này được thực hiện như quy định về hoàn thuế nhập khẩu tại Điều 34 Nghị định số 134/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật thuế xuất khẩu, thuế nhập khẩu và các văn bản sửa đổi, bổ sung (nếu có).
+
+b) Thủ tục, hồ sơ, trình tự và thẩm quyền giải quyết hoàn thuế tiêu thụ đặc biệt đối với hàng hóa là nguyên liệu nhập khẩu để sản xuất, gia công hàng xuất khẩu quy định tại khoản 2 Điều này được thực hiện như quy định về hoàn thuế nhập khẩu tại Điều 36 Nghị định số 134/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật thuế xuất khẩu, thuế nhập khẩu và các văn bản sửa đổi, bổ sung (nếu có).
+
+Trường hợp tờ khai nhập khẩu có tiền thuế nhập khẩu, tiền thuế tiêu thụ đặc biệt đề nghị hoàn thì hồ sơ hoàn thuế nhập khẩu đồng thời là hồ sơ hoàn thuế tiêu thụ đặc biệt.
+
+4. Cơ sở sản xuất, kinh doanh quyết toán thuế khi sáp nhập, chia, tách, giải thể, phá sản, chuyển đổi hình thức sở hữu, giao, bán, khoán, cho thuê doanh nghiệp nhà nước có số thuế tiêu thụ đặc biệt nộp thừa.
+
+5. Việc hoàn thuế quy định tại Điểm d Khoản 1 Điều 8 Luật Thuế tiêu thụ đặc biệt gồm:
+
+a) Hoàn thuế theo quyết định của cơ quan có thẩm quyền theo quy định của pháp luật;
+
+b) Hoàn thuế theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;
+
+c) Hoàn thuế trong trường hợp số tiền thuế tiêu thụ đặc biệt đã nộp lớn hơn số tiền thuế tiêu thụ đặc biệt phải nộp theo quy định của pháp luật.
+
+Điều 33.12.TT.1.7. Hoàn thuế
+
+(Điều 7 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+Người nộp thuế TTĐB được hoàn thuế đã nộp trong các trường hợp sau đây:
+
+1. Hàng tạm nhập khẩu, tái xuất khẩu bao gồm:
+
+a) Hàng hóa nhập khẩu đã nộp thuế TTĐB nhưng còn lưu kho, lưu bãi tại cửa khẩu và đang chịu sự giám sát của cơ quan hải quan, được tái xuất ra nước ngoài;
+
+b) Hàng hóa nhập khẩu đã nộp thuế TTĐB để giao, bán hàng cho nước ngoài thông qua các đại lý tại Việt Nam; hàng hóa nhập khẩu để bán cho các phương tiện của các hãng nước ngoài trên các tuyến đường quốc tế qua cảng Việt Nam và các phương tiện của Việt Nam trên các tuyến đường quốc tế theo quy định của Chính phủ;
+
+c) Hàng tạm nhập khẩu để tái xuất khẩu theo phương thức kinh doanh hàng tạm nhập tái xuất khi tái xuất khẩu được hoàn lại số thuế TTĐB đã nộp tương ứng với số hàng tái xuất khẩu;
+
+d) Hàng nhập khẩu đã nộp thuế TTĐB nhưng tái xuất khẩu ra nước ngoài được hoàn lại số thuế TTĐB đã nộp đối với số hàng xuất trả lại nước ngoài;
+
+đ) Hàng tạm nhập khẩu để dự hội chợ, triển lãm, giới thiệu sản phẩm hoặc để phục vụ công việc khác trong thời hạn nhất định đã nộp thuế TTĐB, khi tái xuất khẩu được hoàn thuế;
+
+e) Hàng nhập khẩu đã nộp thuế TTĐB theo khai báo, nhưng thực tế nhập khẩu ít hơn so với khai báo; hàng nhập khẩu trong quá trình nhập khẩu bị hư hỏng, mất có lý do xác đáng, đã nộp thuế TTĐB;
+
+g) Đối với hàng nhập khẩu chưa phù hợp về chất lượng, chủng loại theo hợp đồng, giấy phép nhập khẩu (do phía chủ hàng nước ngoài gửi sai), có giám định của cơ quan có thẩm quyền kiểm nghiệm và xác nhận của chủ hàng nước ngoài mà được phép nhập khẩu thì cơ quan hải quan kiểm tra và xác nhận lại số thuế TTĐB phải nộp, nếu có số thuế đã nộp thừa thì được hoàn lại, nếu nộp thiếu thì phải nộp đủ số phải nộp.
+
+Trường hợp được phép xuất khẩu trả lại nước ngoài thì được hoàn lại số thuế TTĐB đã nộp đối với số hàng xuất trả lại nước ngoài.
+
+Trường hợp trả lại hàng cho bên nước ngoài trong thời hạn chưa phải nộp thuế nhập khẩu theo chế độ quy định thì cơ quan hải quan kiểm tra thủ tục và thực hiện việc không thu thuế TTĐB phù hợp với số hàng nhập khẩu trả lại nước ngoài.
+
+2. Hàng hóa là nguyên liệu nhập khẩu để sản xuất, gia công hàng xuất khẩu được hoàn lại số thuế TTĐB đã nộp tương ứng với số nguyên liệu dùng để sản xuất hàng hóa thực tế xuất khẩu.
+
+Việc hoàn thuế TTĐB theo quy định tại khoản 1, khoản 2 Điều này chỉ thực hiện đối với hàng hóa thực tế xuất khẩu và thủ tục, hồ sơ, trình tự, thẩm quyền giải quyết hoàn thuế TTĐB đối với hàng nhập khẩu được thực hiện theo quy định như đối với việc giải quyết hoàn thuế nhập khẩu theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu.
+
+3. Cơ sở sản xuất, kinh doanh quyết toán thuế khi sáp nhập, chia, tách, giải thể, phá sản, chuyển đổi hình thức sở hữu, giao, bán, khoán, cho thuê doanh nghiệp nhà nước có số thuế TTĐB nộp thừa, cơ sở có quyền đề nghị cơ quan thuế hoàn lại số thuế TTĐB nộp thừa.
+
+4. Hoàn thuế TTĐB trong các trường hợp:
+
+a) Hoàn thuế theo quyết định của cơ quan có thẩm quyền theo quy định của pháp luật;
+
+b) Hoàn thuế theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;
+
+c) Hoàn thuế trong trường hợp có số tiền thuế TTĐB đã nộp lớn hơn số tiền thuế TTĐB phải nộp theo quy định.
+
+Thủ tục, hồ sơ, trình tự, thẩm quyền giải quyết hoàn thuế TTĐB theo quy định tại khoản 3, khoản 4 Điều này được thực hiện theo quy định của Luật quản lý thuế và các văn bản hướng dẫn thi hành.
+
+Điều 33.12.NĐ.1.7. Khấu trừ thuế
+
+(Điều 7 Nghị định số 108/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, bổ sung theo quy định tại khoản 3, Điều 1 Nghị định số [14/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-14-2019-nd-cp-huong-dan-luat-thue-tieu-thu-dac-biet-luat-thue-tieu-thu-dac-biet-sua-doi-280013.aspx) ngày 01 tháng 02 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số [108/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-108-2015-nd-cp-huong-dan-luat-thue-tieu-thu-dac-biet-sua-doi-294252.aspx) ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt, có hiệu lực thi hành kể từ ngày 20/3/2019.)
+
+1. Người nộp thuế sản xuất hàng hóa thuộc đối tượng chịu thuế tiêu thụ đặc biệt bằng các nguyên liệu chịu thuế tiêu thụ đặc biệt được khấu trừ số thuế tiêu thụ đặc biệt đã nộp đối với nguyên liệu nhập khẩu (bao gồm cả số thuế tiêu thụ đặc biệt đã nộp theo Quyết định ấn định thuế của cơ quan hải quan, trừ trường hợp cơ quan hải quan xử phạt về gian lận, trốn thuế) hoặc đã trả đối với nguyên liệu mua trực tiếp từ cơ sở sản xuất trong nước khi xác định số thuế tiêu thụ đặc biệt phải nộp. Số thuế tiêu thụ đặc biệt được khấu trừ tương ứng với số thuế tiêu thụ đặc biệt của nguyên liệu đã sử dụng để sản xuất hàng hóa chịu thuế tiêu thụ đặc biệt bán ra.
+
+Riêng đối với xăng sinh học: Số thuế tiêu thụ đặc biệt được khấu trừ của kỳ khai thuế được căn cứ vào số thuế tiêu thụ đặc biệt đã nộp hoặc đã trả trên một đơn vị nguyên liệu mua vào của kỳ khai thuế trước liền kề của xăng khoáng để sản xuất xăng sinh học.
+
+Đối với các doanh nghiệp được phép sản xuất, pha chế xăng sinh học, việc kê khai nộp thuế, khấu trừ thuế tiêu thụ đặc biệt được thực hiện tại cơ quan thuế địa phương nơi doanh nghiệp đóng trụ sở chính. Số thuế tiêu thụ đặc biệt chưa được khấu trừ hết của xăng khoáng nguyên liệu dùng để sản xuất, pha chế xăng sinh học (bao gồm cả số thuế chưa được khấu trừ hết phát sinh kể từ kỳ khai thuế tháng 01 năm 2016) được bù trừ với số thuế tiêu thụ đặc biệt phải nộp của hàng hóa, dịch vụ khác phát sinh trong kỳ. Trường hợp sau khi bù trừ, còn số thuế tiêu thụ đặc biệt chưa được khấu trừ hết của xăng khoáng nguyên liệu dùng để sản xuất, pha chế xăng sinh học thì được khấu trừ vào kỳ tiếp theo hoặc hoàn trả.
+
+Hồ sơ, trình tự, thẩm quyền giải quyết hoàn trả thuế tiêu thụ đặc biệt như sau:
+
+- Cơ sở sản xuất, pha chế xăng sinh học lập giấy đề nghị hoàn trả khoản thu ngân sách nhà nước kiêm bù trừ với các khoản thuế phải nộp khác (nếu có) - Mẫu 01a/ĐNHT kèm theo Nghị định này.
+
+- Cơ sở sản xuất, pha chế xăng sinh học gửi hồ sơ đề nghị hoàn trả số thuế tiêu thụ đặc biệt chưa được khấu trừ hết đến cơ quan thuế địa phương nơi doanh nghiệp đóng trụ sở chính để được giải quyết hoàn trả theo quy định.
+
+- Trách nhiệm của cơ quan quản lý thuế trong việc giải quyết hồ sơ hoàn trả số thuế tiêu thụ đặc biệt theo quy định tại khoản này được thực hiện như quy định tại Điều 60 Luật Quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế và các văn bản sửa đổi, bổ sung (nếu có).
+
+- Căn cứ Lệnh hoàn trả khoản thu ngân sách nhà nước của Cơ quan thuế, Kho bạc nhà nước thực hiện chi hoàn trả thuế tiêu thụ đặc biệt của xăng khoáng nguyên liệu dùng để sản xuất, pha chế xăng sinh học. Nguồn hoàn trả thuế tiêu thụ đặc biệt được lấy từ số thu của ngân sách trung ương về thuế tiêu thụ đặc biệt.
+
+2. Người nộp thuế tiêu thụ đặc biệt đối với hàng hóa chịu thuế tiêu thụ đặc biệt nhập khẩu được khấu trừ số thuế tiêu thụ đặc biệt đã nộp ở khâu nhập khẩu bao gồm cả số thuế tiêu thụ đặc biệt đã nộp theo Quyết định ấn định thuế của cơ quan hải quan, trừ trường hợp cơ quan hải quan xử phạt về gian lận, trốn thuế khi xác định số thuế tiêu thụ đặc biệt phải nộp bán ra trong nước. Số thuế tiêu thụ đặc biệt được khấu trừ tương ứng với số thuế tiêu thụ đặc biệt của hàng hóa nhập khẩu chịu thuế tiêu thụ đặc biệt bán ra và chỉ được khấu trừ tối đa bằng tương ứng số thuế tiêu thụ đặc biệt tính được ở khâu bán ra trong nước. Phần chênh lệch không được khấu trừ giữa số thuế tiêu thụ đặc biệt đã nộp ở khâu nhập khẩu với số thuế tiêu thụ đặc biệt bán ra trong nước, người nộp thuế được hạch toán vào chi phí để tính thuế thu nhập doanh nghiệp.
+
+3. Điều kiện khấu trừ thuế tiêu thụ đặc biệt được quy định như sau:
+
+a) Đối với trường hợp nhập khẩu nguyên liệu chịu thuế tiêu thụ đặc biệt để sản xuất hàng hóa chịu thuế tiêu thụ đặc biệt và trường hợp nhập khẩu hàng hóa chịu thuế tiêu thụ đặc biệt thì chứng từ để làm căn cứ khấu trừ thuế tiêu thụ đặc biệt là chứng từ nộp thuế tiêu thụ đặc biệt khâu nhập khẩu.
+
+b) Đối với trường hợp mua nguyên liệu trực tiếp của nhà sản xuất trong nước:
+
+- Hợp đồng mua bán hàng hóa, trong hợp đồng phải có nội dung thể hiện hàng hóa do cơ sở bán hàng trực tiếp sản xuất; bản sao Giấy chứng nhận kinh doanh của cơ sở bán hàng (có chữ ký, đóng dấu của cơ sở bán hàng).
+
+- Chứng từ thanh toán qua ngân hàng.
+
+- Chứng từ để làm căn cứ khấu trừ thuế tiêu thụ đặc biệt là hóa đơn giá trị gia tăng khi mua hàng. Số thuế tiêu thụ đặc biệt mà đơn vị mua hàng đã trả khi mua nguyên liệu được xác định = giá tính thuế tiêu thụ đặc biệt nhân (x) thuế suất thuế tiêu thụ đặc biệt; trong đó:
+
+ Giá tính thuế TTĐB
+
+ =
+
+ Giá mua chưa có thuế GTGT (thể hiện trên hóa đơn GTGT)
+
+ -
+
+ Thuế bảo vệ môi trường (nếu có)
+
+ 1 + Thuế suất thuế TTĐB
+
+Việc khấu trừ tiền thuế tiêu thụ đặc biệt được thực hiện khi kê khai thuế tiêu thụ đặc biệt và số thuế tiêu thụ đặc biệt phải nộp được xác định theo công thức sau:
+
+ Số thuế tiêu thụ đặc biệt phải nộp
+
+ =
+
+ Số thuế tiêu thụ đặc biệt của hàng hóa chịu thuế tiêu thụ đặc biệt được bán ra trong kỳ
+
+ -
+
+ Số thuế tiêu thụ đặc biệt đã nộp đối với hàng hóa, nguyên liệu ở khâu nhập khẩu hoặc số thuế tiêu thụ đặc biệt đã trả ở khâu nguyên liệu mua vào tương ứng với số hàng hóa được bán ra trong kỳ
+
+Trường hợp chưa xác định được chính xác số thuế tiêu thụ đặc biệt đã nộp (hoặc đã trả) cho số nguyên vật liệu tương ứng với số sản phẩm tiêu thụ trong kỳ thì có thể căn cứ vào số liệu của kỳ trước để tính số thuế tiêu thụ đặc biệt được khấu trừ và sẽ xác định theo số thực tế vào cuối quý, cuối năm. Trong mọi trường hợp, số thuế tiêu thụ đặc biệt được phép khấu trừ tối đa không vượt quá số thuế tiêu thụ đặc biệt tính cho phần nguyên liệu theo tiêu chuẩn định mức kinh tế kỹ thuật của sản phẩm.
+
+4. Người nộp thuế tiêu thụ đặc biệt thực hiện nộp Tờ khai thuế tiêu thụ đặc biệt theo Mẫu số 01/TTĐB và Bảng xác định thuế tiêu thụ đặc biệt được khấu trừ (nếu có) theo Mẫu số 01-1/TTĐB được ban hành kèm theo Nghị định này.
+
+Mẫu số 01.TTĐB.docx
+
+Mẫu số 01-1.TTĐB.docx
+
+Mẫu số 01a.ĐNHT.docx
+
+(Điều này có nội dung liên quan đến Chương VIII THỦ TỤC HOÀN THUẾ)
+
+Điều 33.12.TT.1.8. Khấu trừ thuế
+
+(Điều 8 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, bổ sung theo quy định tại Điều 1 Thông tư số [20/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/xuat-nhap-khau/thong-tu-20-2017-tt-btc-sua-doi-khoan-2-dieu-8-195-2015-tt-btc-342347.aspx) sửa đổi, bổ sung Khoản 2 Điều 8 Thông tư số [195/2015/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-195-2015-tt-btc-huong-dan-108-2015-nd-cp-huong-dan-luat-thue-tieu-thu-dac-biet-291079.aspx) ngày 24/11/2015 của Bộ Tài chính (đã được sửa đổi, bổ sung theo Thông tư số [130/2016/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-130-2016-tt-btc-huong-dan-100-2016-nd-cp-huong-dan-luat-thue-gia-tri-gia-tang-quan-ly-thue-321858.aspx) ngày 12/8/2016 của Bộ Tài chính), có hiệu lực kể từ ngày 20/4/2017.)
+
+1. Người nộp thuế sản xuất hàng hóa thuộc đối tượng chịu thuế TTĐB bằng các nguyên liệu chịu thuế TTĐB được khấu trừ số thuế TTĐB đã nộp đối với nguyên liệu nhập khẩu hoặc đã trả đối với nguyên liệu mua trực tiếp từ cơ sở sản xuất trong nước khi xác định số thuế TTĐB phải nộp. Số thuế TTĐB được khấu trừ tương ứng với số thuế TTĐB của nguyên liệu đã sử dụng để sản xuất hàng hóa bán ra. Số thuế TTĐB chưa được khấu trừ hết trong kỳ thì được khấu trừ vào kỳ tiếp theo.
+
+Đối với xăng sinh học, số thuế TTĐB được khấu trừ của kỳ khai thuế được căn cứ vào số thuế TTĐB đã nộp hoặc đã trả trên một đơn vị nguyên liệu mua vào của kỳ khai thuế trước liền kề của xăng khoáng để sản xuất xăng sinh học.
+
+Ví dụ 11: Trong tháng 10, Tập đoàn AB nhập khẩu 5.000 lít xăng khoáng Ron 92 với số thuế TTĐB đã nộp ở khâu nhập khẩu là 5.000.000 đồng và mua của nhà máy lọc dầu D 3.000 lít xăng khoáng Ron 92 với số thuế TTĐB đã trả là 3.300.000 đồng, thực hiện pha chế giữa xăng khoáng và Etanol để nhập kho 2.000 lít xăng E5.
+
+Trong tháng 11, Tập đoàn AB bán xăng E5 cho các Công ty con, sản lượng xuất bán là 1.000 lít.
+
+Tỷ lệ xăng khoáng Ron 92 trong xăng sinh học là 95,06%, tỷ lệ Etanol trong xăng sinh học là 4,94%).
+
+Số thuế TTĐB được khấu trừ trong tháng 11 tính như sau :
+
+(5.000.000 đồng + 3.300.000 đồng)/8.000 lít x 95,06% x 1.000 lít = 986.247 đồng. Tương tự trong tháng 12, Tập đoàn AB bán xăng E5 từ nguồn pha chế của tháng 10 và tháng 11 thì số thuế TTĐB được khấu trừ cũng căn cứ vào số thuế TTĐB đã nộp, đã trả của nguyên liệu xăng khoáng nhập khẩu, mua của nhà máy lọc dầu D trong tháng 11 áp dụng cho toàn bộ lượng xăng sinh học bán trong tháng 12.
+
+2.Người nộp thuế TTĐB đối với hàng hóa chịu thuế TTĐB nhập khẩu được khấu trừ số thuế TTĐB đã nộp ở khâu nhập khẩu khi xác định số thuế TTĐB phải nộp bán ra trong nước. Số thuế TTĐB được khấu trừ tương ứng với số thuế TTĐB của hàng hóa chịu thuế TTĐB nhập khẩu bán ra và chỉ được khấu trừ tối đa bằng tương ứng số thuế TTĐB tính được ở khâu bán ra trong nước. Đối với số thuế TTĐB không được khấu trừ thuế, người nộp thuế được hạch toán vào chi phí để tính thuế thu nhập doanh nghiệp.
+
+Điều kiện khấu trừ thuế TTĐB được quy định như sau:
+
+- Đối với trường hợp nhập khẩu nguyên liệu chịu thuế TTĐB để sản xuất hàng hóa chịu thuế TTĐB và trường hợp nhập khẩu hàng hóa chịu thuế TTĐB thì chứng từ để làm căn cứ khấu trừ thuế TTĐB là chứng từ nộp thuế TTĐB khâu nhập khẩu.
+
+- Đối với trường hợp mua nguyên liệu trực tiếp của nhà sản xuất trong nước:
+
++ Hợp đồng mua bán hàng hóa, trong hợp đồng phải có nội dung thể hiện hàng hóa do cơ sở bán hàng trực tiếp sản xuất; Bản sao Giấy chứng nhận kinh doanh của cơ sở bán hàng (có chữ ký, đóng dấu của cơ sở bán hàng).
+
++ Chứng từ thanh toán qua ngân hàng.
+
++ Chứng từ để làm căn cứ khấu trừ thuế TTĐB là hóa đơn GTGT khi mua hàng. Số thuế TTĐB mà đơn vị mua hàng đã trả khi mua nguyên liệu được xác định = giá tính thuế TTĐB nhân (x) thuế suất thuế TTĐB; trong đó:
+
+ Giá tính thuế TTĐB
+
+ =
+
+ Giá mua chưa có thuế GTGT 
+
+ (thể hiện trên hóa đơn GTGT)
+
+ -
+
+ Thuế bảo vệ môi trường
+
+ (nếu có)
+
+ 1 + Thuế suất thuế TTĐB
+
+Việc khấu trừ tiền thuế TTĐB được thực hiện khi kê khai thuế TTĐB, thuế TTĐB phải nộp được xác định theo công thức sau:
+
+ Số thuế TTĐB phải nộp
+
+ =
+
+ Số thuế TTĐB của hàng hóa chịu thuế TTĐB được bán ra trong kỳ.
+
+ -
+
+ Số thuế TTĐB đã nộp đối với hàng hóa, nguyên liệu ở khâu nhập khẩu hoặc số thuế TTĐB đã trả ở khâu nguyên liệu mua vào tương ứng với số hàng hóa được bán ra trong kỳ.
+
+Trường hợp chưa xác định được chính xác số thuế TTĐB đã nộp (hoặc đã trả) cho số nguyên vật liệu tương ứng với số sản phẩm tiêu thụ trong kỳ thì có thể căn cứ vào số liệu của kỳ trước để tính số thuế TTĐB được khấu trừ và sẽ xác định theo số thực tế vào cuối quý, cuối năm. Trong mọi trường hợp, số thuế TTĐB được phép khấu trừ tối đa không vượt quá số thuế TTĐB tính cho phần nguyên liệu theo tiêu chuẩn định mức kinh tế kỹ thuật của sản phẩm. Cơ sở sản xuất phải đăng ký định mức kinh tế kỹ thuật của sản phẩm với cơ quan thuế trực tiếp quản lý cơ sở.
+
+Ví dụ 12: Trong kỳ kê khai thuế, cơ sở A phát sinh các nghiệp vụ sau:
+
++ Nhập khẩu 10.000 lít rượu nước, đã nộp thuế TTĐB khi nhập khẩu 250 triệu đồng (căn cứ biên lai nộp thuế TTĐB ở khâu nhập khẩu).
+
++ Xuất kho 8.000 lít để sản xuất 12.000 chai rượu.
+
++ Xuất bán 9.000 chai rượu, số thuế TTĐB phát sinh khi xuất bán của 9.000 chai rượu xuất bán là 350 triệu đồng.
+
++ Số thuế TTĐB đã nộp ở khâu nhập khẩu nước rượu phân bổ cho 9.000 chai rượu đã bán ra là 150 triệu đồng.
+
+Số thuế TTĐB cơ sở A phải nộp trong kỳ là:
+
+350 triệu đồng - 150 triệu đồng = 200 triệu đồng.
+
+Ví dụ 13: Trong kỳ kê khai thuế, cơ sở B phát sinh các nghiệp vụ sau:
+
++ Nhập khẩu 100 máy điều hòa nhiệt độ A công suất 12.000 BTU, đã nộp thuế TTĐB khi nhập khẩu 100 triệu đồng (căn cứ biên lai nộp thuế TTĐB ở khâu nhập khẩu).
+
++ Xuất bán 100 máy điều hòa nhiệt độ, số thuế TTĐB phát sinh khi bán ra trong nước là 120 triệu đồng.
+
+Số thuế TTĐB cơ sở B phải nộp trong kỳ là:
+
+120 triệu đồng - 100 triệu đồng = 20 triệu đồng.
+
+Ví dụ 14: Trong kỳ kê khai thuế, cơ sở B phát sinh các nghiệp vụ sau:
+
++ Nhập khẩu 100 máy điều hòa nhiệt độ X công suất 12.000 BTU, đã nộp thuế TTĐB khi nhập khẩu 100 triệu đồng (căn cứ biên lai nộp thuế TTĐB ở khâu nhập khẩu).
+
++ Xuất bán 100 máy điều hòa nhiệt độ, số thuế TTĐB phát sinh khi xuất bán 100 máy điều hòa nhiệt độ là 90 triệu đồng.
+
+Cơ sở B được khấu trừ số thuế TTĐB là 90 triệu đồng. Đối với số thuế TTĐB không được khấu trừ (10 triệu đồng), cơ sở B được hạch toán vào chi phí để tính thuế thu nhập doanh nghiệp.
+
+Đối với các doanh nghiệp được phép sản xuất xăng E5, E10, việc kê khai nộp thuế, khấu trừ thuế TTĐB được thực hiện tại cơ quan thuế địa phương nơi doanh nghiệp đóng trụ sở chính. Số thuế TTĐB chưa được khấu trừ hết trong kỳ của xăng E5, E10 được bù trừ với số thuế TTĐB phải nộp của hàng hóa, dịch vụ khác.
+
+Người nộp thuế TTĐB thực hiện nộp Tờ khai thuế TTĐB theo Mẫu số 01/TTĐB và Bảng xác định thuế TTĐB được khấu trừ (nếu có) của nguyên liệu mua vào, hàng hóa nhập khẩu (Mẫu số 01-1/TTĐB) được ban hành kèm theo Thông tư này.
+
+Điều 33.12.LQ.9. Giảm thuế
+
+(Điều 9 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009)
+
+Người nộp thuế sản xuất hàng hoá thuộc diện chịu thuế tiêu thụ đặc biệt gặp khó khăn do thiên tai, tai nạn bất ngờ được giảm thuế. 
+
+Mức giảm thuế được xác định trên cơ sở tổn thất thực tế do thiên tai, tai nạn bất ngờ gây ra nhưng không quá 30% số thuế phải nộp của năm xảy ra thiệt hại và không vượt quá giá trị tài sản bị thiệt hại sau khi được bồi thường (nếu có).
+
+(Điều này có nội dung liên quan đến Điều 33.12.TT.1.9. Giảm thuế)
+
+Điều 33.12.TT.1.9. Giảm thuế
+
+(Điều 9 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+Việc giảm thuế TTĐB được thực hiện theo quy định tại Điều 9 Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12.
+
+Thủ tục, hồ sơ giảm thuế được thực hiện theo quy định của Luật quản lý thuế và các văn bản hướng dẫn thi hành.
+
+(Điều này có nội dung liên quan đến Điều 33.12.LQ.9. Giảm thuế)
+
+Chương IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 33.12.LQ.10. Hiệu lực thi hành
+
+(Điều 10 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009)
+
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2009; các quy định đối với mặt hàng rượu và bia có hiệu lực thi hành từ ngày 01 tháng 01 năm 2010.
+
+2. Bãi bỏ các quy định tại Luật thuế tiêu thụ đặc biệt số 05/1998/QH10; Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt số 08/2003/QH11; Điều 1 của Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt và Luật thuế giá trị gia tăng số 57/2005/QH11, trừ các quy định đối với mặt hàng rượu và bia tiếp tục có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 2009.
+
+Điều 33.12.LQ.11. Hướng dẫn thi hành
+
+(Điều 11 Luật số 27/2008/QH12, có hiệu lực thi hành kể từ ngày 01/04/2009)
+
+Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật này; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước.
+
+*Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2008./.*
+
+Điều 33.12.LQ.12.
+
+(Điều 12 Luật số 70/2014/QH13 Sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt ngày 26/11/2014 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2016.
+
+*Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2014./.*
+
+Điều 33.12.NĐ.1.8. Hiệu lực và hướng dẫn thi hành
+
+(Điều 8 Nghị định số 108/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2016 và thay thế các Nghị định số 26/2009/NĐ-CP ngày 16 tháng 3 năm 2009 và số 113/2011/NĐ-CP ngày 08 tháng 12 năm 2011 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế tiêu thụ đặc biệt.
+
+2. Bộ Tài chính hướng dẫn thi hành Nghị định này.
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
 
 Điều 33.12.NĐ.1.9. Hiệu lực và trách nhiệm thi hành
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 100/2016/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng, Luật thuế tiêu thụ đặc biệt và Luật quản lý thuế ngày 01/07/2016 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3301200000000000400001140256230108000090
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016, trừ quy định tại khoản 2 Điều này.
 
-**ID:** dk_00054038
+2. Khoản 2 Điều 3 của Nghị định này có hiệu lực thi hành từ ngày 01 tháng 9 năm 2016.
 
----
+3. Bộ Tài chính hướng dẫn thi hành Nghị định này.
 
-
-### Điều 33.12.NĐ.1.10. Hiệu lực và trách nhiệm thi hành:
+4. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
 Điều 33.12.NĐ.1.10. Hiệu lực và trách nhiệm thi hành:
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 14/2019/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 108/2015/NĐ-CP ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt ngày 01/02/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 20/03/2019 )
 
-**Mã phân cấp:** 3301200000000000400001140256230108000100
+1. Nghị định này có hiệu lực thi hành từ ngày 20 tháng 3 năm 2019.
 
-**ID:** dk_00054039
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./
 
----
+Điều 33.12.TT.1.10. Hiệu lực thi hành
 
+(Điều 10 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 33.12.TT.1.10. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
 
-*Nội dung chưa có sẵn*
+2. Thông tư này thay thế Thông tư số 05/2012/TT-BTC ngày 05/01/2012 của Bộ Tài chính hướng dẫn thi hành Nghị định số 26/2009/NĐ-CP ngày 16/3/2009 và Nghị định số 113/2011/NĐ-CP ngày 08/12/2011 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế tiêu thụ đặc biệt.
 
-**Chỉ mục:** 10
+Điều 33.12.TT.1.11. Tổ chức thực hiện
 
-**Mã phân cấp:** 3301200000000000400001180256500195000100
+(Điều 11 Thông tư số 195/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**ID:** dk_00054040
+1. Cơ quan Thuế chịu trách nhiệm tổ chức thực hiện quản lý thu thuế TTĐB và hoàn, giảm thuế TTĐB đối với cơ sở kinh doanh.
 
----
+2. Cơ quan Hải quan chịu trách nhiệm tổ chức thực hiện quản lý thu thuế TTĐB, hoàn thuế TTĐB đối với hàng hóa nhập khẩu.
 
+3. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các đơn vị, cơ sở kinh doanh phản ánh về Bộ Tài chính để được giải quyết kịp thời./.
 
-### Điều 33.12.TT.1.11. Tổ chức thực hiện
+## Danh sách điều khoản
 
-*Nội dung chưa có sẵn*
+### 33012000000000001000
 
-**Chỉ mục:** 11
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-**Mã phân cấp:** 3301200000000000400001180256500195000110
+### 3301200000000000100000100000000000000000
 
-**ID:** dk_00054041
+Điều 33.12.LQ.1. Phạm vi điều chỉnh
 
----
+### 3301200000000000100000140256230108000010
 
+Điều 33.12.NĐ.1.1. Phạm vi điều chỉnh
 
-### Điều 33.12.TT.1.12.
+### 3301200000000000100000180256500195000010
 
-*Nội dung chưa có sẵn*
+Điều 33.12.TT.1.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 12
+### 3301200000000000100000200000000000000000
 
-**Mã phân cấp:** 3301200000000000400001200000000000000000
+Điều 33.12.LQ.2. Đối tượng chịu thuế
 
-**ID:** dk_00054042
+### 330120000000000010000020000000000000000000402562301080000200
 
----
+Điều 33.12.NĐ.1.2. Đối tượng chịu thuế
 
+### 33012000000000001000002000000000000000000040256230108000020000802565001950000200
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](/thue-phi-le-phi-cac-khoan-thu-khac/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 33.12.TT.1.2. Đối tượng chịu thuế
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 38
-- **Điều khoản thực tế:** 34
-- **Điều khoản có nội dung:** 2 (5.9%)
-- **ID đề mục:** 2e267ed0726e456eb9be4fd43101bdf7
+### 3301200000000000100000300000000000000000
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 33.12.LQ.3. Đối tượng không chịu thuế
 
----
+### 330120000000000010000030000000000000000000402562301080000300
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 33.12.NĐ.1.3. Đối tượng không chịu thuế
+
+### 33012000000000001000003000000000000000000040256230108000030000802565001950000300
+
+Điều 33.12.TT.1.3. Đối tượng không chịu thuế
+
+### 3301200000000000100000400000000000000000
+
+Điều 33.12.LQ.4. Người nộp thuế
+
+### 330120000000000010000040000000000000000000802565001950000400
+
+Điều 33.12.TT.1.4. Người nộp thuế
+
+### 33012000000000002000
+
+Chương II CĂN CỨ TÍNH THUẾ
+
+### 3301200000000000200000500000000000000000
+
+Điều 33.12.LQ.5. Căn cứ tính thuế
+
+### 3301200000000000200000600000000000000000
+
+Điều 33.12.LQ.6. Giá tính thuế
+
+### 330120000000000020000060000000000000000000402562301080000400
+
+Điều 33.12.NĐ.1.4. Giá tính thuế
+
+### 33012000000000002000006000000000000000000040256230108000040000802565001950000500
+
+Điều 33.12.TT.1.5. Giá tính thuế tiêu thụ đặc biệt
+
+### 3301200000000000200000700000000000000000
+
+Điều 33.12.LQ.7. Thuế suất
+
+### 330120000000000020000070000000000000000000402562301080000500
+
+Điều 33.12.NĐ.1.5. Thuế suất
+
+### 33012000000000002000007000000000000000000040256230108000050000802565001950000600
+
+Điều 33.12.TT.1.6. Thuế suất thuế TTĐB
+
+### 33012000000000003000
+
+Chương III HOÀN THUẾ, KHẤU TRỪ THUẾ, GIẢM THUẾ
+
+### 3301200000000000300000800000000000000000
+
+Điều 33.12.LQ.8. Hoàn thuế, khấu trừ thuế
+
+### 330120000000000030000080000000000000000000402562301080000600
+
+Điều 33.12.NĐ.1.6. Hoàn thuế
+
+### 33012000000000003000008000000000000000000040256230108000060000802565001950000700
+
+Điều 33.12.TT.1.7. Hoàn thuế
+
+### 330120000000000030000080000000000000000000402562301080000700
+
+Điều 33.12.NĐ.1.7. Khấu trừ thuế
+
+### 33012000000000003000008000000000000000000040256230108000070000802565001950000800
+
+Điều 33.12.TT.1.8. Khấu trừ thuế
+
+### 3301200000000000300000900000000000000000
+
+Điều 33.12.LQ.9. Giảm thuế
+
+### 330120000000000030000090000000000000000000802565001950000900
+
+Điều 33.12.TT.1.9. Giảm thuế
+
+### 33012000000000004000
+
+Chương IV ĐIỀU KHOẢN THI HÀNH
+
+### 3301200000000000400001000000000000000000
+
+Điều 33.12.LQ.10. Hiệu lực thi hành
+
+### 3301200000000000400001100000000000000000
+
+Điều 33.12.LQ.11. Hướng dẫn thi hành
+
+### 3301200000000000400001110230840027000120
+
+Điều 33.12.LQ.12.
+
+### 3301200000000000400001140256230108000080
+
+Điều 33.12.NĐ.1.8. Hiệu lực và hướng dẫn thi hành
+
+### 3301200000000000400001140256230108000090
+
+Điều 33.12.NĐ.1.9. Hiệu lực và trách nhiệm thi hành
+
+### 3301200000000000400001140256230108000100
+
+Điều 33.12.NĐ.1.10. Hiệu lực và trách nhiệm thi hành:
+
+### 3301200000000000400001180256500195000100
+
+Điều 33.12.TT.1.10. Hiệu lực thi hành
+
+### 3301200000000000400001180256500195000110
+
+Điều 33.12.TT.1.11. Tổ chức thực hiện
+
+### 3301200000000000400001200000000000000000
+
+Điều 33.12.TT.1.12.
+

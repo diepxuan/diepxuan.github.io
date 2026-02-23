@@ -1,3351 +1,4755 @@
 ---
-layout: default
+layout: page
 title: Tố cáo
 permalink: /van-ban/khieu-nai-to-cao/to-cao/
-collection: subtopics
-slug: to-cao
-parent: khieu-nai-to-cao
 ---
 
 # Tố cáo
 
-**Đề mục:** Tố cáo  
-**Chủ đề:** [Khiếu nại, tố cáo](/khieu-nai-to-cao/)  
-**Số điều khoản:** 270  
-**Điều khoản có nội dung:** 163/255 (63.9%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 18.5.LQ.1. Phạm vi điều chỉnh
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
-*Nội dung chưa có sẵn*
+Điều 18.5.LQ.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Luật số 25/2018/QH14 Tố cáo ngày 12/06/2018 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000100000100000000000000000
+Luật này quy định về tố cáo và giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ và hành vi vi phạm pháp luật khác về quản lý nhà nước trong các lĩnh vực; bảo vệ người tố cáo; trách nhiệm của cơ quan, tổ chức trong việc quản lý công tác giải quyết tố cáo.
 
-**ID:** dk_00024879
+(Điều này có nội dung liên quan đến Điều 41.11.LQ.6. Nội dung quản lý nhà nước về thể dục, thể thao; Điều 41.11.LQ.8. Khiếu nại, tố cáo trong hoạt động thể dục, thể thao; Điều 31.1.LQ.6. Quản lý nhà nước về thống kê; Điều 4.5.LQ.45. Giải quyết khiếu nại, tố cáo; Điều 30.1.LQ.38. Tố cáo hành vi vi phạm pháp luật trong thực hiện đặc xá; Điều 30.3.LQ.191. Quyền và nghĩa vụ của người tố cáo, người bị tố cáo trong thi hành án hình sự; Điều 8.5.LQ.9. Quyền và trách nhiệm của người bị bạo lực gia đình; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 30.4.NĐ.71. Giải quyết tố cáo)
 
----
+Điều 18.5.NĐ.2.1. Phạm vi điều chỉnh
 
+(Điều 1 Nghị định số 22/2019/NĐ-CP Quy định về tố cáo và giải quyết tố cáo trong Công an nhân dân ngày 25/02/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-### Điều 18.5.NĐ.2.1. Phạm vi điều chỉnh
+1. Nghị định này quy định về tố cáo và giải quyết tố cáo đối với hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ; tố cáo và giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự; trách nhiệm của Thủ trưởng, cán bộ, chiến sĩ Công an trong việc bảo vệ người tố cáo; quản lý công tác giải quyết tố cáo trong Công an nhân dân.
 
-*Nội dung chưa có sẵn*
+2. Tố cáo và giải quyết tố cáo hành vi vi phạm pháp luật trong tố tụng hình sự, thi hành án hình sự và hành vi vi phạm pháp luật có dấu hiệu tội phạm không thuộc phạm vi điều chỉnh của Nghị định này.
 
-**Chỉ mục:** 1
+Điều 18.5.NĐ.2.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1800500000000000100000140268390022000010
+(Điều 2 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**ID:** dk_00024880
+1. Nghị định này áp dụng đối với cá nhân trong việc thực hiện quyền tố cáo; cơ quan, đơn vị, tổ chức, cá nhân có hành vi bị tố cáo; cơ quan, đơn vị, cá nhân có thẩm quyền giải quyết tố cáo trong Công an nhân dân và các cơ quan, đơn vị, tổ chức, cá nhân khác có liên quan trong việc giải quyết tố cáo.
 
----
+2. Việc tố cáo của người nước ngoài đang cư trú tại Việt Nam và giải quyết tố cáo hành vi vi phạm pháp luật của cơ quan, tổ chức, cá nhân nước ngoài tại Việt Nam thuộc thẩm quyền giải quyết của Công an nhân dân được áp dụng theo quy định của Luật Tố cáo và Nghị định này, trừ trường hợp Điều ước quốc tế mà Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.
 
+Điều 18.5.NĐ.3.1. Phạm vi điều chỉnh
 
-### Điều 18.5.NĐ.2.2. Đối tượng áp dụng
+(Điều 1 Nghị định số 28/2019/NĐ-CP Quy định về tố cáo và giải quyết tố cáo trong Quân đội nhân dân ngày 20/03/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-*Nội dung chưa có sẵn*
+Nghị định này quy định về tố cáo và giải quyết tố cáo đối với hành vi vi phạm pháp luật của quân nhân, công nhân và viên chức quốc phòng trong việc thực hiện nhiệm vụ, công vụ và hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực quốc phòng của cơ quan, đơn vị, tổ chức, cá nhân; bảo vệ người tố cáo, người được bảo vệ; quản lý công tác giải quyết tố cáo trong Quân đội nhân dân.
 
-**Chỉ mục:** 2
+Điều 18.5.NĐ.3.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1800500000000000100000140268390022000020
+(Điều 2 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**ID:** dk_00024881
+Nghị định này áp dụng đối với:
 
----
+1. Quân nhân, công nhân và viên chức quốc phòng, công dân Việt Nam, cá nhân nước ngoài đang cư trú tại Việt Nam thực hiện quyền tố cáo.
 
+2. Quân nhân, công nhân và viên chức quốc phòng; cơ quan, đơn vị, tổ chức, cá nhân bị tố cáo có hành vi vi phạm pháp luật liên quan đến quốc phòng.
 
-### Điều 18.5.NĐ.3.1. Phạm vi điều chỉnh
+3. Người giải quyết tố cáo; cơ quan, đơn vị, tổ chức, cá nhân khác có liên quan đến giải quyết tố cáo trong Quân đội nhân dân.
 
-*Nội dung chưa có sẵn*
+4. Người tố cáo, người được bảo vệ liên quan đến tố cáo trong Quân đội nhân dân.
 
-**Chỉ mục:** 1
+5. Cơ quan, đơn vị, tổ chức, cá nhân có trách nhiệm bảo vệ người tố cáo trong Quân đội nhân dân.
 
-**Mã phân cấp:** 1800500000000000100000140268620028000010
+Điều 18.5.NĐ.4.1. Phạm vi điều chỉnh
 
-**ID:** dk_00024882
+(Điều 1 Nghị định số 31/2019/NĐ-CP Quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo ngày 10/04/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
----
+Nghị định này quy định chi tiết:
 
+1. Các chương, điều, khoản sau đây của Luật Tố cáo:
 
-### Điều 18.5.NĐ.3.2. Đối tượng áp dụng
+a) Điều 30 về thời hạn giải quyết tố cáo;
 
-*Nội dung chưa có sẵn*
+b) Điều 33 về rút tố cáo;
 
-**Chỉ mục:** 2
+c) Khoản 5 Điều 38 về giải quyết tố cáo đối với trường hợp quá thời hạn quy định mà chưa được giải quyết;
 
-**Mã phân cấp:** 1800500000000000100000140268620028000020
+d) Điều 40 về công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo;
 
-**ID:** dk_00024883
+đ) Chương VI về bảo vệ người tố cáo.
 
----
+2. Các biện pháp tổ chức thi hành Luật Tố cáo, bao gồm:
 
+a) Trình tự, thủ tục giải quyết tố cáo;
 
-### Điều 18.5.NĐ.4.1. Phạm vi điều chỉnh
+b) Xử lý thông tin có nội dung tố cáo và tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến;
 
-*Nội dung chưa có sẵn*
+c) Xử lý kỷ luật đối với cán bộ, công chức, viên chức có hành vi vi phạm.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 31.1.LQ.6. Quản lý nhà nước về thống kê)
 
-**Mã phân cấp:** 1800500000000000100000140268830031000010
+Điều 18.5.NĐ.4.2. Đối tượng áp dụng
 
-**ID:** dk_00024884
+(Điều 2 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
----
+Nghị định này áp dụng đối với cá nhân tố cáo; cơ quan, tổ chức, cá nhân có hành vi bị tố cáo; cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tố cáo và các cơ quan, tổ chức, cá nhân khác có liên quan trong việc giải quyết tố cáo, bảo vệ người tố cáo.
 
+Điều 18.5.TT.7.1. Phạm vi điều chỉnh
 
-### Điều 18.5.NĐ.4.2. Đối tượng áp dụng
+(Điều 1 Thông tư số 03/2020/TT-BNV Quy định chi tiết về thẩm quyền, trình tự, thủ tục, biện pháp bảo vệ vị trí công tác của người tố cáo là cán bộ, công chức, viên chức ngày 21/07/2020 của Bộ Nội vụ, có hiệu lực thi hành kể từ ngày 05/09/2020)
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định chi tiết về thẩm quyền, trình tự, thủ tục, biện pháp bảo vệ vị trí công tác của người tố cáo là cán bộ, công chức, viên chức.
 
-**Chỉ mục:** 2
+Điều 18.5.TT.7.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1800500000000000100000140268830031000020
+(Điều 2 Thông tư số 03/2020/TT-BNV, có hiệu lực thi hành kể từ ngày 05/09/2020)
 
-**ID:** dk_00024885
+1. Người tố cáo là cán bộ, công chức, viên chức.
 
----
+2. Cơ quan, tổ chức, đơn vị, cá nhân có liên quan đến việc tố cáo, giải quyết tố cáo.
 
+3. Cơ quan, tổ chức, đơn vị, cá nhân có trách nhiệm thực hiện các biện pháp bảo vệ người tố cáo.
 
-### Điều 18.5.TT.7.1. Phạm vi điều chỉnh
+Điều 18.5.TT.8.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 85/2020/TT-BCA Quy định việc tiếp nhận, xử lý, giải quyết tố cáo và quản lý công tác giải quyết tố cáo trong Công an nhân dân ngày 03/08/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Chỉ mục:** 1
+Thông tư này quy định việc tiếp nhận, xử lý thông tin tố cáo; giải quyết tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ trừ các hành vi vi phạm pháp luật trong hoạt động tố tụng hình sự, quản lý, thi hành tạm giữ, tạm giam, thi hành án hình sự và hành vi vi phạm pháp luật có dấu hiệu tội phạm; giải quyết tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự; giải quyết tố cáo cán bộ, chiến sĩ vi phạm các quy định của Bộ Công an; quản lý công tác giải quyết tố cáo trong Công an nhân dân.
 
-**Mã phân cấp:** 1800500000000000100000180273510003000010
+Điều 18.5.TT.8.2. Đối tượng áp dụng
 
-**ID:** dk_00024886
+(Điều 2 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
----
+1. Cơ quan, đơn vị, cá nhân có thẩm quyền tiếp nhận, phân loại, xử lý, giải quyết tố cáo và quản lý công tác giải quyết tố cáo trong Công an nhân dân.
 
+2. Người tố cáo, cơ quan, đơn vị, tổ chức, cá nhân bị tố cáo; cơ quan, đơn vị, tổ chức, cá nhân có liên quan đến việc giải quyết tố cáo trong Công an nhân dân.
 
-### Điều 18.5.TT.7.2. Đối tượng áp dụng
+Điều 18.5.TT.9.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 08/2020/TT-BLĐTBXH Thông tư hướng dẫn về bảo vệ việc làm của người tố cáo là người làm việc theo hợp đồng lao động ngày 15/10/2020 của Bộ Lao động - Thương binh và Xã hội, có hiệu lực thi hành kể từ ngày 01/12/2020)
 
-**Chỉ mục:** 2
+Thông tư này quy định về trình tự, thủ tục bảo vệ việc làm của người tố cáo là người làm việc theo hợp đồng lao động, thân nhân của người tố cáo bao gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người tố cáo là người làm việc theo hợp đồng lao động (sau đây gọi chung là người được bảo vệ); trách nhiệm của cơ quan, tổ chức, cá nhân trong việc bảo vệ việc làm của người được bảo vệ.
 
-**Mã phân cấp:** 1800500000000000100000180273510003000020
+Điều 18.5.TT.9.2. Đối tượng áp dụng
 
-**ID:** dk_00024887
+(Điều 2 Thông tư số 08/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/12/2020)
 
----
+Thông tư này áp dụng đối với:
 
+1. Người được bảo vệ; cơ quan, tổ chức, cá nhân có hành vi bị tố cáo; người giải quyết tố cáo.
 
-### Điều 18.5.TT.8.1. Phạm vi điều chỉnh
+2. Cơ quan có thẩm quyền áp dụng biện pháp bảo vệ việc làm và các cơ quan, tổ chức, cá nhân khác có liên quan trong việc bảo vệ việc làm của người được bảo vệ.
 
-*Nội dung chưa có sẵn*
+Điều 18.5.TT.10.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 129/2020/TT-BCA Quy định quy trình giải quyết tố cáo trong Công an nhân dân ngày 08/12/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000100000180273640085000010
+Thông tư này quy định quy trình giải quyết tố cáo, giải quyết lại vụ việc tố cáo trong Công an nhân dân, bao gồm việc thụ lý, xác minh, kết luận nội dung tố cáo; việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo và công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo.
 
-**ID:** dk_00024888
+Điều 18.5.TT.10.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
+1. Cơ quan, đơn vị Công an các cấp; Thủ trưởng cơ quan, đơn vị Công an; cơ quan, đơn vị, người được giao nhiệm vụ xác minh nội dung tố cáo trong Công an nhân dân.
 
-### Điều 18.5.TT.8.2. Đối tượng áp dụng
+2. Người tố cáo; cơ quan, đơn vị, tổ chức, cá nhân bị tố cáo (sau đây gọi chung là người bị tố cáo); cơ quan, tổ chức, đơn vị, cá nhân có liên quan đến nội dung tố cáo thuộc thẩm quyền giải quyết của Thủ trưởng cơ quan, đơn vị Công an các cấp.
 
-*Nội dung chưa có sẵn*
+Điều 18.5.TT.11.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Thông tư số 145/2020/TT-BCA Quy định thẩm quyền, trình tự, thủ tục, biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí ngày 29/12/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-**Mã phân cấp:** 1800500000000000100000180273640085000020
+Thông tư này quy định thẩm quyền, trình tự, thủ tục, biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng quy định tại Luật Phòng, chống tham nhũng và hành vi vi phạm về thực hành tiết kiệm, chống lãng phí quy định tại Luật Thực hành tiết kiệm, chống lãng phí (sau đây viết tắt là người tố cáo về hành vi tham nhũng, lãng phí).
 
-**ID:** dk_00024889
+Điều 18.5.TT.11.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
+1. Những người được bảo vệ quy định tại khoản 1 Điều 3 Thông tư này.
 
-### Điều 18.5.TT.9.1. Phạm vi điều chỉnh
+2. Người giải quyết tố cáo về hành vi tham nhũng, lãng phí.
 
-*Nội dung chưa có sẵn*
+3. Cơ quan Công an các cấp; cơ quan, tổ chức, đơn vị, cá nhân có trách nhiệm thực hiện các biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của những người được bảo vệ theo khoản 1 Điều 3 Thông tư này.
 
-**Chỉ mục:** 1
+Điều 18.5.LQ.2. Giải thích từ ngữ
 
-**Mã phân cấp:** 1800500000000000100000180274370008000010
+(Điều 2 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00024890
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
----
+1. *Tố cáo* là việc cá nhân theo thủ tục quy định của Luật này báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của bất kỳ cơ quan, tổ chức, cá nhân nào gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân, bao gồm:
 
+a) Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ;
 
-### Điều 18.5.TT.9.2. Đối tượng áp dụng
+b) Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực.
 
-*Nội dung chưa có sẵn*
+2. *Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ* là tố cáo về hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của các đối tượng sau đây:
 
-**Chỉ mục:** 2
+a) Cán bộ, công chức, viên chức; người khác được giao thực hiện nhiệm vụ, công vụ;
 
-**Mã phân cấp:** 1800500000000000100000180274370008000020
+b) Người không còn là cán bộ, công chức, viên chức nhưng đã thực hiện hành vi vi phạm pháp luật trong thời gian là cán bộ, công chức, viên chức; người không còn được giao thực hiện nhiệm vụ, công vụ nhưng đã thực hiện hành vi vi phạm pháp luật trong thời gian được giao thực hiện nhiệm vụ, công vụ;
 
-**ID:** dk_00024891
+c) Cơ quan, tổ chức.
 
----
+3. *Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực* là tố cáo về hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực của bất kỳ cơ quan, tổ chức, cá nhân nào về việc chấp hành quy định của pháp luật, trừ hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ.
 
+4. *Người tố cáo* là cá nhân thực hiện việc tố cáo.
 
-### Điều 18.5.TT.10.1. Phạm vi điều chỉnh
+5. *Người bị tố cáo* là cơ quan, tổ chức, cá nhân có hành vi bị tố cáo.
 
-*Nội dung chưa có sẵn*
+6. *Người giải quyết tố cáo* là cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tố cáo.
 
-**Chỉ mục:** 1
+7. *Giải quyết tố cáo* là việc thụ lý, xác minh, kết luận nội dung tố cáo và xử lý kết luận nội dung tố cáo của người giải quyết tố cáo.
 
-**Mã phân cấp:** 1800500000000000100000180274910129000010
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
-**ID:** dk_00024892
+Điều 18.5.NĐ.2.3. Giải thích từ ngữ
 
----
+(Điều 3 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 18.5.TT.10.2. Đối tượng áp dụng
+1. Cán bộ, chiến sĩ Công an là sĩ quan, hạ sĩ quan nghiệp vụ; sĩ quan, hạ sĩ quan chuyên môn kỹ thuật; hạ sĩ quan, chiến sĩ nghĩa vụ; học viên các học viện, trường Công an nhân dân; công nhân Công an; công dân được tạm tuyển và lao động hợp đồng trong Công an nhân dân.
 
-*Nội dung chưa có sẵn*
+2. Thủ trưởng cơ quan, đơn vị Công an là người giữ chức vụ cấp trưởng hoặc cấp phó được giao phụ trách cơ quan, đơn vị Công an khi chưa bổ nhiệm cấp trưởng.
 
-**Chỉ mục:** 2
+3. Quản lý nhà nước trong lĩnh vực an ninh, trật tự là quản lý nhà nước về bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội theo chức năng của Bộ Công an.
 
-**Mã phân cấp:** 1800500000000000100000180274910129000020
+4. Thực hiện nhiệm vụ, công vụ của cơ quan, đơn vị, cán bộ, chiến sĩ Công an là việc cơ quan, đơn vị, cán bộ, chiến sĩ Công an thực hiện nhiệm vụ, quyền hạn trong lĩnh vực bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội.
 
-**ID:** dk_00024893
+5. Người bị tố cáo trong Công an nhân dân là cơ quan, đơn vị, cán bộ, chiến sĩ Công an có hành vi bị tố cáo khi thực hiện nhiệm vụ, công vụ; người không còn là cán bộ, chiến sĩ Công an nhưng bị tố cáo về hành vi vi phạm pháp luật khi thực hiện nhiệm vụ, công vụ trong thời gian là cán bộ, chiến sĩ Công an; cơ quan, tổ chức, cá nhân khác có hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự.
 
----
+6. Người giải quyết tố cáo trong Công an nhân dân là cơ quan, đơn vị, cá nhân có thẩm quyền giải quyết tố cáo trong Công an nhân dân.
 
+7. Giải quyết tố cáo trong Công an nhân dân là việc thụ lý, xác minh, kết luận nội dung tố cáo và xử lý kết luận nội dung tố cáo của người giải quyết tố cáo trong Công an nhân dân.
 
-### Điều 18.5.TT.11.1. Phạm vi điều chỉnh
+Điều 18.5.NĐ.3.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 3 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Chỉ mục:** 1
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Mã phân cấp:** 1800500000000000100000180275120145000010
+1. Quân nhân bao gồm: Quân nhân tại ngũ và quân nhân dự bị.
 
-**ID:** dk_00024894
+a) Quân nhân tại ngũ là sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ theo quy định của Luật Sĩ quan Quân đội nhân dân Việt Nam; Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Luật Nghĩa vụ quân sự;
 
----
+b) Quân nhân dự bị là công dân Việt Nam được đăng ký vào ngạch dự bị động viên, gồm: Sĩ quan dự bị, quân nhân chuyên nghiệp dự bị và hạ sĩ quan, binh sĩ dự bị theo quy định của pháp luật.
 
+2. Người Chỉ huy là người đứng đầu trong cơ quan, đơn vị, gồm: Chỉ huy trưởng quân sự (người đứng đầu về hành chính quân sự), Chính ủy, Chính trị viên và cấp phó của người đứng đầu.
 
-### Điều 18.5.TT.11.2. Đối tượng áp dụng
+3. Người giải quyết tố cáo trong Quân đội nhân dân là người đứng đầu về hành chính quân sự của cơ quan, đơn vị có thẩm quyền giải quyết tố cáo theo quy định của Nghị định này.
 
-*Nội dung chưa có sẵn*
+4. Quản lý nhà nước về lĩnh vực quốc phòng là quản lý của Bộ Quốc phòng trong các lĩnh vực: Bảo vệ biên giới, vùng biển, đảo, quần đảo, vùng trời, không gian mạng quốc gia; xây dựng khu vực phòng thủ; phòng thủ dân sự; công nghiệp quốc phòng; quản lý, bảo vệ công trình quốc phòng, khu quân sự, đất quốc phòng và môi trường có liên quan đến hoạt động quốc phòng; cơ yếu; hoạt động hội nhập quốc tế và đối ngoại quốc phòng trong phạm vi quản lý của Bộ Quốc phòng; các dịch vụ công và các lĩnh vực quản lý khác theo quy định của pháp luật.
 
-**Chỉ mục:** 2
+Điều 18.5.TT.8.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 1800500000000000100000180275120145000020
+(Điều 3 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**ID:** dk_00024895
+1. *Tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ* là tố cáo cơ quan, đơn vị, cán bộ, chiến sĩ Công an có hành vi vi phạm pháp luật trong việc thực hiện chức năng, nhiệm vụ, quyền hạn được giao.
 
----
+2. *Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự* là tố cáo cơ quan, tổ chức, cá nhân có hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội theo chức năng của Bộ Công an.
 
+3. *Tố cáo cán bộ, chiến sĩ Công an vi phạm các quy định của Bộ Công an* là tố cáo cán bộ, chiến sĩ Công an vi phạm về phẩm chất đạo đức, quy tắc ứng xử, tiêu chuẩn cán bộ, chiến sĩ Công an và các quy định khác của Bộ Công an.
 
-### Điều 18.5.LQ.2. Giải thích từ ngữ
+Điều 18.5.TT.9.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư số 08/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/12/2020)
 
-**Chỉ mục:** 2
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-**Mã phân cấp:** 1800500000000000100000200000000000000000
+1. Người làm việc theo hợp đồng lao động là người lao động theo quy định của pháp luật lao động, bao gồm cả người làm việc theo chế độ hợp đồng lao động đối với một số công việc trong cơ quan nhà nước, đơn vị sự nghiệp.
 
-**ID:** dk_00024896
-
----
-
-
-### Điều 18.5.NĐ.2.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 1800500000000000100000240268390022000030
-
-**ID:** dk_00024897
-
----
-
-
-### Điều 18.5.NĐ.3.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 1800500000000000100000240268620028000030
-
-**ID:** dk_00024898
-
----
-
-
-### Điều 18.5.TT.8.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 1800500000000000100000280273640085000030
-
-**ID:** dk_00024899
-
----
-
-
-### Điều 18.5.TT.9.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 1800500000000000100000280274370008000030
-
-**ID:** dk_00024900
-
----
-
-
-### Điều 18.5.LQ.3. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
+2. Bảo vệ việc làm của người được bảo vệ là việc cơ quan có thẩm quyền tiến hành xem xét, ra quyết định áp dụng biện pháp cần thiết quy định tại khoản 2 Điều 57 Luật Tố cáo để bảo vệ việc làm cho người được bảo vệ.
 
 Điều 18.5.LQ.3. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000100000300000000000000000
+1. Tố cáo và giải quyết tố cáo được áp dụng theo quy định của Luật này và quy định khác của pháp luật có liên quan. Trường hợp luật khác có quy định về tố cáo và giải quyết tố cáo khác với quy định của Luật này thì áp dụng quy định của luật đó.
 
-**ID:** dk_00024901
+2. Việc tiếp nhận, giải quyết tố giác và tin báo về tội phạm được thực hiện theo quy định của pháp luật về tố tụng hình sự.
 
----
-
-
-### Điều 18.5.NĐ.3.4. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.3.4. Áp dụng pháp luật về tố cáo và giải quyết tố cáo)
 
 Điều 18.5.NĐ.3.4. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 1800500000000000100000340268620028000040
+1. Áp dụng pháp luật về tố cáo và giải quyết tố cáo trong Quân đội nhân dân thực hiện theo Điều 3 Luật Tố cáo năm 2018.
 
-**ID:** dk_00024902
+2. Tố cáo hành vi vi phạm pháp luật của quân nhân dự bị thực hiện nhiệm vụ trong thời gian tập trung huấn luyện, diễn tập hoặc kiểm tra tình trạng sẵn sàng động viên, sẵn sàng chiến đấu được áp dụng theo quy định của Luật Tố cáo và Nghị định này.
 
----
+3. Các quy định về tố cáo và giải quyết tố cáo trong Quân đội nhân dân không được quy định trong Nghị định này thực hiện theo quy định của Luật Tố cáo và các văn bản quy định chi tiết, hướng dẫn thi hành.
 
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.3. Áp dụng pháp luật về tố cáo và giải quyết tố cáo)
 
-### Điều 18.5.TT.10.3. Áp dụng pháp luật
+Điều 18.5.TT.10.3. Áp dụng pháp luật
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Chỉ mục:** 3
+1. Việc giải quyết tố cáo thông qua hoạt động của Đoàn thanh tra được thực hiện theo quy định của pháp luật về thanh tra và các quy định khác có liên quan.
 
-**Mã phân cấp:** 1800500000000000100000380274910129000030
+2. Việc giải quyết tố cáo cán bộ, chiến sĩ Công an nhân dân vi phạm phẩm chất đạo đức, quy tắc ứng xử, tiêu chuẩn cán bộ, chiến sĩ Công an nhân dân và các quy định khác của Bộ Công an thực hiện theo Thông tư này.
 
-**ID:** dk_00024903
+3. Biểu mẫu sử dụng trong giải quyết tố cáo quy định tại Thông tư này theo biểu mẫu quy định tại Thông tư số 60/2014/TT-BCA ngày 18 tháng 11 năm 2014 của Bộ trưởng Bộ Công an quy định biểu mẫu sử dụng trong hoạt động thanh tra, giải quyết khiếu nại, tố cáo và tiếp công dân của Công an nhân dân (Thông tư số 60/2014/TT-BCA) và Thông tư số 54/2017/TT-BCA ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Công an sửa đổi, bổ sung Điều 1 Thông tư số 60/2014/TT-BCA (Thông tư số 54/2017/TT-BCA).
 
----
+Trường hợp Thông tư số 60/2014/TT-BCA và Thông tư số 54/2017/TT-BCA được sửa đổi, bổ sung hoặc thay thế bằng thông tư mới của Bộ trưởng Bộ Công an thì sử dụng các biểu mẫu ban hành theo thông tư sửa đổi, bổ sung hoặc thông tư thay thế. Thanh tra Bộ Công an có trách nhiệm thông báo đến Công an các đơn vị, địa phương khi có sự thay đổi nêu trên.
 
+Điều 18.5.LQ.4. Nguyên tắc giải quyết tố cáo
 
-### Điều 18.5.LQ.4. Nguyên tắc giải quyết tố cáo
+(Điều 4 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-*Nội dung chưa có sẵn*
+1. Việc giải quyết tố cáo phải kịp thời, chính xác, khách quan, đúng thẩm quyền, trình tự, thủ tục và thời hạn theo quy định của pháp luật.
 
-**Chỉ mục:** 4
+2. Việc giải quyết tố cáo phải bảo đảm an toàn cho người tố cáo; bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo trong quá trình giải quyết tố cáo.
 
-**Mã phân cấp:** 1800500000000000100000400000000000000000
-
-**ID:** dk_00024904
-
----
-
-
-### Điều 18.5.TT.8.4. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.TT.8.4. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Mã phân cấp:** 1800500000000000100000480273640085000040
+1. Tố cáo của người nước ngoài và việc giải quyết tố cáo hành vi vi phạm pháp luật của cơ quan, tổ chức, người nước ngoài tại Việt Nam thuộc thẩm quyền giải quyết của Công an nhân dân được áp dụng theo quy định của Luật Tố cáo; Nghị định số 31/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo (gọi tắt là Nghị định số 31/2019/NĐ-CP); Nghị định số 22/2019/NĐ-CP ngày 25 tháng 02 năm 2019 của Chính phủ quy định về tố cáo và giải quyết tố cáo trong Công an nhân dân (gọi tắt là Nghị định số 22/2019/NĐ-CP) và Thông tư này.
 
-**ID:** dk_00024905
-
----
-
-
-### Điều 18.5.LQ.5. Trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo
+2. Trường hợp pháp luật khác có quy định về tố cáo và giải quyết tố cáo khác với quy định của Thông tư này thì áp dụng theo quy định của pháp luật đó.
 
 Điều 18.5.LQ.5. Trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000100000500000000000000000
+1. Cơ quan, tổ chức, cá nhân có thẩm quyền, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:
 
-**ID:** dk_00024906
+a) Tổ chức việc tiếp nhận và giải quyết tố cáo theo đúng quy định của pháp luật; áp dụng biện pháp cần thiết nhằm ngăn chặn thiệt hại có thể xảy ra; bảo đảm an toàn cho người tố cáo; xử lý nghiêm minh người có hành vi vi phạm pháp luật và chịu trách nhiệm trước pháp luật về quyết định của mình;
 
----
+b) Bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo khi chưa có kết luận nội dung tố cáo của người giải quyết tố cáo.
 
+2. Cơ quan, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo mà không tiếp nhận, không giải quyết tố cáo theo đúng quy định của pháp luật, thiếu trách nhiệm trong việc tiếp nhận, giải quyết tố cáo hoặc giải quyết tố cáo trái pháp luật thì phải bị xử lý nghiêm minh; nếu gây thiệt hại thì phải bồi thường, bồi hoàn theo quy định của pháp luật.
 
-### Điều 18.5.LQ.6. Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân có liên quan trong việc giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.LQ.6. Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân có liên quan trong việc giải quyết tố cáo
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000100000600000000000000000
+Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp với người giải quyết tố cáo; cung cấp thông tin, tài liệu có liên quan đến nội dung tố cáo theo quy định của pháp luật; áp dụng các biện pháp bảo vệ người tố cáo theo thẩm quyền; xử lý người có hành vi vi phạm pháp luật theo kết luận nội dung tố cáo; xử lý cơ quan, tổ chức, cá nhân có hành vi vi phạm pháp luật về tố cáo.
 
-**ID:** dk_00024907
-
----
-
-
-### Điều 18.5.LQ.7. Chấp hành quyết định xử lý hành vi vi phạm pháp luật bị tố cáo
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.LQ.7. Chấp hành quyết định xử lý hành vi vi phạm pháp luật bị tố cáo
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000100000700000000000000000
+Quyết định xử lý hành vi vi phạm pháp luật bị tố cáo của cơ quan, tổ chức, cá nhân có thẩm quyền phải được cơ quan, tổ chức, cá nhân có liên quan tôn trọng, nghiêm chỉnh chấp hành. Cơ quan, tổ chức, cá nhân có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm pháp luật bị tố cáo mà không chấp hành thì phải bị xử lý nghiêm minh theo quy định của pháp luật.
 
-**ID:** dk_00024908
-
----
-
-
-### Điều 18.5.LQ.8. Các hành vi bị nghiêm cấm trong tố cáo và giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.LQ.8. Các hành vi bị nghiêm cấm trong tố cáo và giải quyết tố cáo
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000100000800000000000000000
+1. Cản trở, gây khó khăn, phiền hà cho người tố cáo.
 
-**ID:** dk_00024909
+2. Thiếu trách nhiệm, phân biệt đối xử trong việc giải quyết tố cáo.
 
----
+3. Tiết lộ họ tên, địa chỉ, bút tích của người tố cáo và thông tin khác làm lộ danh tính của người tố cáo.
 
+4. Làm mất, làm sai lệch hồ sơ, tài liệu vụ việc tố cáo trong quá trình giải quyết tố cáo.
 
-### Điều 18.5.LQ.9. Quyền và nghĩa vụ của người tố cáo
+5. Không giải quyết hoặc cố ý giải quyết tố cáo trái pháp luật; lợi dụng chức vụ, quyền hạn trong việc giải quyết tố cáo để thực hiện hành vi trái pháp luật, sách nhiễu, gây phiền hà cho người tố cáo, người bị tố cáo.
 
-*Nội dung chưa có sẵn*
+6. Không thực hiện hoặc thực hiện không đầy đủ trách nhiệm bảo vệ người tố cáo.
 
-**Chỉ mục:** 9
+7. Can thiệp trái pháp luật, cản trở việc giải quyết tố cáo.
 
-**Mã phân cấp:** 1800500000000000200000900000000000000000
+8. Đe dọa, mua chuộc, trả thù, trù dập, xúc phạm người tố cáo.
 
-**ID:** dk_00024911
+9. Bao che người bị tố cáo.
 
----
+10. Cố ý tố cáo sai sự thật; cưỡng ép, lôi kéo, kích động, dụ dỗ, mua chuộc người khác tố cáo sai sự thật; sử dụng họ tên của người khác để tố cáo.
 
+11. Mua chuộc, hối lộ, đe dọa, trả thù, xúc phạm người giải quyết tố cáo.
 
-### Điều 18.5.NĐ.1.37. Quyền và nghĩa vụ của người tố cáo
+12. Lợi dụng quyền tố cáo để tuyên truyền chống Nhà nước, xâm phạm lợi ích của Nhà nước; gây rối an ninh, trật tự công cộng; xuyên tạc, vu khống, xúc phạm danh dự, nhân phẩm, uy tín của người khác.
+
+13. Đưa tin sai sự thật về việc tố cáo và giải quyết tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.166. Tội xâm phạm quyền khiếu nại, tố cáo; Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo; Điều 18.5.LQ.65. Xử lý hành vi vi phạm của người tố cáo và những người khác có liên quan; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
+
+Chương II
+
+QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI TỐ CÁO, NGƯỜI BỊ TỐ CÁO, NGƯỜI GIẢI QUYẾT TỐ CÁO
+
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
+
+Điều 18.5.LQ.9. Quyền và nghĩa vụ của người tố cáo
+
+(Điều 9 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+1. Người tố cáo có các quyền sau đây:
+
+a) Thực hiện quyền tố cáo theo quy định của Luật này;
+
+b) Được bảo đảm bí mật họ tên, địa chỉ, bút tích và thông tin cá nhân khác;
+
+c) Được thông báo về việc thụ lý hoặc không thụ lý tố cáo, chuyển tố cáo đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết, gia hạn giải quyết tố cáo, đình chỉ, tạm đình chỉ việc giải quyết tố cáo, tiếp tục giải quyết tố cáo, kết luận nội dung tố cáo;
+
+d) Tố cáo tiếp khi có căn cứ cho rằng việc giải quyết tố cáo của cơ quan, tổ chức, cá nhân có thẩm quyền không đúng pháp luật hoặc quá thời hạn quy định mà tố cáo chưa được giải quyết;
+
+đ) Rút tố cáo;
+
+e) Đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp bảo vệ người tố cáo;
+
+g) Được khen thưởng, bồi thường thiệt hại theo quy định của pháp luật.
+
+2. Người tố cáo có các nghĩa vụ sau đây:
+
+a) Cung cấp thông tin cá nhân quy định tại Điều 23 của Luật này;
+
+b) Trình bày trung thực về nội dung tố cáo; cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo mà mình có được;
+
+c) Chịu trách nhiệm trước pháp luật về nội dung tố cáo;
+
+d) Hợp tác với người giải quyết tố cáo khi có yêu cầu;
+
+đ) Bồi thường thiệt hại do hành vi cố ý tố cáo sai sự thật của mình gây ra.
+
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.166. Tội xâm phạm quyền khiếu nại, tố cáo; Điều 18.5.LQ.23. Tiếp nhận tố cáo; Điều 18.5.LQ.33. Rút tố cáo; Điều 34.11.PL.30. Quyền của tổ chức, cá nhân được kiểm tra; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.1.37. Quyền và nghĩa vụ của người tố cáo
 
-**Chỉ mục:** 37
+(Điều 37 Nghị định số 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ngày 27/02/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 180050000000000020000090000000000000000000402647600240003700
+1. Người tố cáo có quyền gửi đơn hoặc tố cáo trực tiếp với cơ quan, cá nhân có thẩm quyền theo quy định tại các Điều 39, 40, 41 và 42 Nghị định này đối với hành vi vi phạm pháp luật trong lĩnh vực lao động; giáo dục nghề nghiệp; hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; việc làm; an toàn, vệ sinh lao động.
 
-**ID:** dk_00024912
+2. Quyền và nghĩa vụ khác của người tố cáo được thực hiện theo quy định của pháp luật về tố cáo và quy định của pháp luật có liên quan.
 
----
-
-
-### Điều 18.5.NĐ.2.4. Tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ
+(Điều này có nội dung liên quan đến Điều 18.5.NĐ.1.39. Thẩm quyền của Chánh Thanh tra Sở Lao động - Thương binh và Xã hội; Điều 18.5.NĐ.1.40. Thẩm quyền của Cục trưởng Cục Quản lý lao động ngoài nước; Điều 18.5.NĐ.1.41. Thẩm quyền của Chánh Thanh tra Bộ Lao động - Thương binh và Xã hội; Điều 18.5.NĐ.1.42. Thẩm quyền giải quyết của Bộ trưởng Bộ Lao động - Thương binh và Xã hội)
 
 Điều 18.5.NĐ.2.4. Tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000020000090000000000000000000402683900220000400
-
-**ID:** dk_00024913
-
----
-
-
-### Điều 18.5.NĐ.4.21. Nguyên tắc xử lý kỷ luật đối với cán bộ, công chức, viên chức có hành vi vi phạm pháp luật tố cáo
+Cá nhân có quyền tố cáo với cơ quan, đơn vị, cá nhân có thẩm quyền trong Công an nhân dân về hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
 Điều 18.5.NĐ.4.21. Nguyên tắc xử lý kỷ luật đối với cán bộ, công chức, viên chức có hành vi vi phạm pháp luật tố cáo
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 180050000000000020000090000000000000000000402688300310002100
+1. Người có thẩm quyền giải quyết tố cáo, người tố cáo là cán bộ, công chức, viên chức có hành vi vi phạm pháp luật tố cáo thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật theo quy định của pháp luật và quy định tại Điều 22, Điều 23 Nghị định này hoặc truy cứu trách nhiệm hình sự. Trường hợp gây thiệt hại thì phải bồi thường theo quy định của pháp luật về trách nhiệm bồi thường của Nhà nước.
 
-**ID:** dk_00024914
+2. Nguyên tắc, thẩm quyền, trình tự, thủ tục xử lý kỷ luật và quy định khác có liên quan được thực hiện theo quy định của pháp luật về xử lý kỷ luật đối với cán bộ, công chức, viên chức.
 
----
-
-
-### Điều 18.5.NĐ.4.23. Xử lý kỷ luật đối với người tố cáo là cán bộ, công chức, viên chức
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo)
 
 Điều 18.5.NĐ.4.23. Xử lý kỷ luật đối với người tố cáo là cán bộ, công chức, viên chức
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 180050000000000020000090000000000000000000402688300310002300
+Cán bộ, công chức, viên chức biết rõ việc tố cáo là không đúng sự thật nhưng vẫn tố cáo nhiều lần hoặc biết vụ việc đã được cơ quan, người có thẩm quyền giải quyết đúng chính sách, pháp luật nhưng vẫn tố cáo nhiều lần mà không có bằng chứng chứng minh nội dung tố cáo; cưỡng ép, lôi kéo, kích động, dụ dỗ, mua chuộc người khác tố cáo sai sự thật; sử dụng họ tên của người khác để tố cáo gây mất đoàn kết nội bộ hoặc ảnh hưởng đến uy tín, hoạt động bình thường của cơ quan, tổ chức, đơn vị thì tùy theo tính chất, mức độ vi phạm sẽ bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự.
 
-**ID:** dk_00024915
-
----
-
-
-### Điều 18.5.LQ.10. Quyền và nghĩa vụ của người bị tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo)
 
 Điều 18.5.LQ.10. Quyền và nghĩa vụ của người bị tố cáo
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000200001000000000000000000
+1. Người bị tố cáo có các quyền sau đây:
 
-**ID:** dk_00024916
+a) Được thông báo về nội dung tố cáo, việc gia hạn giải quyết tố cáo, đình chỉ, tạm đình chỉ việc giải quyết tố cáo, tiếp tục giải quyết tố cáo;
 
----
+b) Được giải trình, đưa ra chứng cứ để chứng minh nội dung tố cáo là không đúng sự thật;
 
+c) Được nhận kết luận nội dung tố cáo;
 
-### Điều 18.5.NĐ.1.38. Quyền và nghĩa vụ của người bị tố cáo và người giải quyết tố cáo
+d) Được bảo đảm quyền và lợi ích hợp pháp khi chưa có kết luận nội dung tố cáo của người giải quyết tố cáo;
+
+đ) Yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý người cố ý tố cáo sai sự thật, người giải quyết tố cáo trái pháp luật;
+
+e) Được phục hồi danh dự, khôi phục quyền và lợi ích hợp pháp bị xâm phạm, được xin lỗi, cải chính công khai, được bồi thường thiệt hại do việc tố cáo, giải quyết tố cáo không đúng gây ra theo quy định của pháp luật;
+
+g) Khiếu nại quyết định xử lý của cơ quan, tổ chức, cá nhân có thẩm quyền theo quy định của pháp luật.
+
+2. Người bị tố cáo có các nghĩa vụ sau đây:
+
+a) Có mặt để làm việc theo yêu cầu của người giải quyết tố cáo;
+
+b) Giải trình về hành vi bị tố cáo; cung cấp thông tin, tài liệu liên quan khi cơ quan, tổ chức, cá nhân có thẩm quyền yêu cầu;
+
+c) Chấp hành nghiêm chỉnh quyết định xử lý theo kết luận nội dung tố cáo của cơ quan, tổ chức, cá nhân có thẩm quyền;
+
+d) Bồi thường thiệt hại, bồi hoàn do hành vi trái pháp luật của mình gây ra.
+
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.1.38. Quyền và nghĩa vụ của người bị tố cáo và người giải quyết tố cáo
 
-**Chỉ mục:** 38
+(Điều 38 Nghị định số 24/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 180050000000000020000100000000000000000000402647600240003800
+Quyền và nghĩa vụ của người bị tố cáo và người giải quyết tố cáo được thực hiện theo quy định của pháp luật về tố cáo và quy định của pháp luật có liên quan.
 
-**ID:** dk_00024917
-
----
-
-
-### Điều 18.5.LQ.11. Quyền và nghĩa vụ của người giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.11. Quyền và nghĩa vụ của người giải quyết tố cáo)
 
 Điều 18.5.LQ.11. Quyền và nghĩa vụ của người giải quyết tố cáo
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000200001100000000000000000
+1. Người giải quyết tố cáo có các quyền sau đây:
 
-**ID:** dk_00024918
+a) Yêu cầu người tố cáo đến làm việc, cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo mà người tố cáo có được;
 
----
+b) Yêu cầu người bị tố cáo đến làm việc, giải trình về hành vi bị tố cáo, cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo;
 
+c) Yêu cầu, đề nghị cơ quan, tổ chức, cá nhân khác cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo;
 
-### Điều 18.5.NĐ.4.22. Xử lý kỷ luật đối với người có thẩm quyền giải quyết tố cáo
+d) Tiến hành các biện pháp cần thiết để xác minh, thu thập thông tin, tài liệu làm căn cứ để giải quyết tố cáo theo quy định của Luật này và quy định khác của pháp luật có liên quan; áp dụng hoặc yêu cầu, kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp theo quy định của pháp luật để ngăn chặn, chấm dứt hành vi vi phạm pháp luật bị tố cáo;
+
+đ) Kết luận nội dung tố cáo;
+
+e) Xử lý kết luận nội dung tố cáo theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý theo quy định của pháp luật.
+
+2. Người giải quyết tố cáo có các nghĩa vụ sau đây:
+
+a) Bảo đảm khách quan, trung thực, đúng pháp luật trong việc giải quyết tố cáo;
+
+b) Áp dụng các biện pháp bảo vệ cần thiết theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền áp dụng các biện pháp bảo vệ người tố cáo;
+
+c) Không tiết lộ thông tin về việc giải quyết tố cáo; bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo khi chưa có kết luận nội dung tố cáo;
+
+d) Thông báo cho người tố cáo về việc thụ lý hoặc không thụ lý tố cáo, việc chuyển vụ việc tố cáo đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết, gia hạn giải quyết tố cáo, đình chỉ, tạm đình chỉ việc giải quyết tố cáo, tiếp tục giải quyết tố cáo, kết luận nội dung tố cáo;
+
+đ) Thông báo cho người bị tố cáo về nội dung tố cáo, gia hạn giải quyết tố cáo, đình chỉ, tạm đình chỉ việc giải quyết tố cáo, tiếp tục giải quyết tố cáo; gửi kết luận nội dung tố cáo cho người bị tố cáo;
+
+e) Chịu trách nhiệm trước pháp luật về việc giải quyết tố cáo;
+
+g) Bồi thường thiệt hại, bồi hoàn do hành vi giải quyết tố cáo trái pháp luật của mình gây ra.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.31. Xác minh nội dung tố cáo; Điều 18.5.NĐ.1.38. Quyền và nghĩa vụ của người bị tố cáo và người giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.13. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, bằng chứng liên quan đến nội dung tố cáo)
 
 Điều 18.5.NĐ.4.22. Xử lý kỷ luật đối với người có thẩm quyền giải quyết tố cáo
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 180050000000000020000110000000000000000000402688300310002200
+1. Hình thức kỷ luật khiển trách áp dụng đối với người có thẩm quyền giải quyết tố cáo khi có một trong các hành vi vi phạm pháp luật sau đây:
 
-**ID:** dk_00024919
+a) Lợi dụng chức vụ, quyền hạn trong việc giải quyết tố cáo để thực hiện hành vi trái pháp luật;
 
----
+b) Không thực hiện hoặc thực hiện không đầy đủ trách nhiệm bảo vệ người tố cáo dẫn đến việc người tố cáo bị trả thù, trù dập.
 
+2. Hình thức kỷ luật cảnh cáo áp dụng đối với người có thẩm quyền giải quyết tố cáo khi có một trong các hành vi vi phạm pháp luật sau đây:
 
-### Điều 18.5.TT.1.12. Trách nhiệm tham mưu, giải quyết tố cáo của người đứng đầu đơn vị thuộc Bộ Giáo dục và Đào tạo
+a) Tiết lộ họ, tên, địa chỉ, bút tích của người tố cáo và những thông tin khác làm lộ danh tính của người tố cáo;
+
+b) Cố ý không thụ lý tố cáo, không ban hành kết luận nội dung tố cáo; không quyết định xử lý tố cáo theo thẩm quyền hoặc không kiến nghị người có thẩm quyền xử lý tố cáo.
+
+3. Hình thức kỷ luật cách chức áp dụng đối với người có thẩm quyền giải quyết tố cáo khi có một trong các hành vi vi phạm pháp luật sau đây:
+
+a) Cố ý không giải quyết hoặc cố ý giải quyết tố cáo trái pháp luật gây mất ổn định, an ninh, trật tự xã hội;
+
+b) Cố ý bỏ qua các bằng chứng, bỏ lọt các thông tin, tài liệu, làm mất hoặc làm sai lệch hồ sơ vụ việc; bao che cho người bị tố cáo gây mất ổn định, an ninh, trật tự xã hội;
+
+c) Không áp dụng biện pháp bảo vệ người tố cáo thuộc thẩm quyền làm cho người tố cáo bị trả thù, trù dập dẫn đến thương tích hoặc tổn hại cho sức khỏe với tỷ lệ thương tật từ 61% trở lên hoặc bị chết.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo)
 
 Điều 18.5.TT.1.12. Trách nhiệm tham mưu, giải quyết tố cáo của người đứng đầu đơn vị thuộc Bộ Giáo dục và Đào tạo
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 40/2013/TT-BGDĐT, có hiệu lực thi hành kể từ ngày 10/02/2014, có nội dung được sửa đổi bởi Điều 1 Thông tư số 14/2021/TT-BGDĐT có hiệu lực thi hành kể từ ngày 05/07/2021)
 
-**Mã phân cấp:** 180050000000000020000110000000000000000000802494400401001200
+1. Trách nhiệm của Vụ trưởng, Chánh Văn phòng:
 
-**ID:** dk_00024920
+a) Đối với đơn tố cáo hành vi vi phạm pháp luật mà nội dung liên quan đến trách nhiệm thuộc chức năng, nhiệm vụ của đơn vị, người đứng đầu đơn vị có trách nhiệm cử công chức phối hợp với Thanh tra tham gia tất cả các giai đoạn của quy trình giải quyết tố cáo và theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo; 
 
----
+b) Trả lời các văn bản do Thanh tra gửi lấy ý kiến trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được văn bản đề nghị đối với nội dung lấy ý kiến về điều kiện thụ lý đơn tố cáo; trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được văn bản đề nghị đối với nội dung lấy ý kiến về kết quả xác minh và dự thảo kết luận nội dung tố cáo.
 
+Người đứng đầu đơn vị chịu trách nhiệm trước Bộ trưởng về thời hạn trả lời và ý kiến chuyên môn xác định điều kiện thụ lý đơn tố cáo; về nội dung kết luận liên quan đến chức năng, nhiệm vụ của đơn vị khi có văn bản lấy ý kiến của Thanh tra; việc theo dõi, đôn đốc thực hiện kết luận nội dung tố cáo liên quan đến chức năng, nhiệm vụ của đơn vị sau khi kết luận nội dung tố cáo được ban hành.
 
-### Điều 18.5.TT.1.13. Trách nhiệm giải quyết tố cáo của người đứng đầu các đơn vị sự nghiệp trực thuộc Bộ
+2. Trách nhiệm của Cục trưởng:
+
+a) Thụ lý, giải quyết đơn tố cáo theo quy định tại Thông tư này;
+
+b) Thực hiện các quy định tại khoản 1 Điều này.
+
+3. Trách nhiệm của Chánh Thanh tra:
+
+a) Thụ lý, xác minh nội dung tố cáo, kết luận nội dung tố cáo, xử lý kết luận nội dung tố cáo theo thẩm quyền;
+
+b) Chủ trì xem xét các kết luận nội dung tố cáo mà người đứng đầu các đơn vị chức năng thuộc Bộ và đơn vị trực thuộc Bộ Giáo dục và Đào tạo đã giải quyết nhưng có dấu hiệu vi phạm pháp luật; trường hợp có căn cứ cho rằng việc giải quyết tố cáo có vi phạm pháp luật thì kiến nghị Bộ trưởng xem xét, giải quyết lại;
+
+c) Chủ trì, phối hợp với các đơn vị thuộc Bộ Giáo dục và Đào tạo để tham mưu, đề xuất giải quyết tố cáo thuộc thẩm quyền giải quyết của Bộ trưởng; chịu trách nhiệm về việc giải quyết tố cáo đúng trình tự, thủ tục theo quy định của pháp luật về tố cáo; tổng hợp báo cáo kết quả theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo.
 
 Điều 18.5.TT.1.13. Trách nhiệm giải quyết tố cáo của người đứng đầu các đơn vị sự nghiệp trực thuộc Bộ
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 40/2013/TT-BGDĐT, có hiệu lực thi hành kể từ ngày 10/02/2014, có nội dung được sửa đổi bởi Điều 1 Thông tư số 25/2019/TT-BGDĐT có hiệu lực thi hành kể từ ngày 15/02/2020; Điều 1 Thông tư số 14/2021/TT-BGDĐT có hiệu lực thi hành kể từ ngày 05/07/2021)
 
-**Mã phân cấp:** 180050000000000020000110000000000000000000802494400401001300
+1. Người đứng đầu các đơn vị sự nghiệp trực thuộc Bộ có trách nhiệm giải quyết đối với tố cáo có nội dung thuộc chức năng, nhiệm vụ của đơn vị mình và tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của công chức, viên chức và người lao động do mình trực tiếp quản lý.
 
-**ID:** dk_00024921
+2. Giám đốc Đại học có trách nhiệm giải quyết đối với tố cáo có nội dung thuộc chức năng, nhiệm vụ của đơn vị mình; công chức, viên chức, người lao động do mình quản lý trực tiếp có hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ; người đứng đầu, cấp phó đơn vị thành viên trong việc thực hiện nhiệm vụ, công vụ.
 
----
+Người đứng đầu đơn vị thành viên có trách nhiệm giải quyết đối với tố cáo có nội dung thuộc chức năng, nhiệm vụ của đơn vị mình; tố cáo hành vi vi phạm của viên chức, người lao động do mình quản lý trực tiếp trong việc thực hiện nhiệm vụ, công vụ.
 
+2a. Người đứng đầu doanh nghiệp trực thuộc Bộ có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người đứng đầu, cấp phó của người đứng đầu đơn vị trực thuộc doanh nghiệp hoặc người khác do mình bổ nhiệm.
 
-### Điều 18.5.LQ.12. Nguyên tắc xác định thẩm quyền
+3. Tổ chức thanh tra, người được phân công làm công tác thanh tra của đại học, đơn vị thành viên hoặc đơn vị sự nghiệp khác chủ trì giúp Giám đốc Đại học, người đứng đầu đơn vị thụ lý, giải quyết tố cáo; làm đầu mối tổng hợp, báo cáo theo quy định.
 
-*Nội dung chưa có sẵn*
+Chương III
 
-**Chỉ mục:** 12
+GIẢI QUYẾT TỐ CÁO ĐỐI VỚI HÀNH VI VI PHẠM PHÁP LUẬT TRONG VIỆC THỰC HIỆN NHIỆM VỤ, CÔNG VỤ
 
-**Mã phân cấp:** 180050000000000030000010000000000000000001200000000000000000
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
-**ID:** dk_00024924
+Mục 1
 
----
+THẨM QUYỀN GIẢI QUYẾT TỐ CÁO
 
+(Mục này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
-### Điều 18.5.NĐ.1.43. Thẩm quyền giải quyết tố cáo về giáo dục nghề nghiệp, việc làm
+Điều 18.5.LQ.12. Nguyên tắc xác định thẩm quyền
+
+(Điều 12 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+1. Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, công chức, viên chức do người đứng đầu cơ quan, tổ chức có thẩm quyền quản lý cán bộ, công chức, viên chức đó giải quyết.
+
+Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức do người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết.
+
+2. Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, công chức, viên chức thuộc thẩm quyền quản lý của nhiều cơ quan, tổ chức do người đứng đầu cơ quan, tổ chức trực tiếp quản lý cán bộ, công chức, viên chức bị tố cáo chủ trì giải quyết; người đứng đầu cơ quan, tổ chức có liên quan phối hợp giải quyết.
+
+3. Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, công chức, viên chức xảy ra trong thời gian công tác trước đây nay đã chuyển sang cơ quan, tổ chức khác hoặc không còn là cán bộ, công chức, viên chức được xử lý như sau:
+
+a) Trường hợp người bị tố cáo là người đứng đầu hoặc cấp phó của người đứng đầu đã chuyển công tác sang cơ quan, tổ chức khác mà vẫn giữ chức vụ tương đương thì do người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đang quản lý người bị tố cáo phối hợp giải quyết;
+
+b) Trường hợp người bị tố cáo đã chuyển công tác sang cơ quan, tổ chức khác và giữ chức vụ cao hơn thì do người đứng đầu cơ quan, tổ chức đang quản lý người bị tố cáo chủ trì giải quyết; người đứng đầu cơ quan, tổ chức quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật phối hợp giải quyết.
+
+Trường hợp người bị tố cáo đã chuyển công tác sang cơ quan, tổ chức khác và là người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức đó thì do người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó chủ trì giải quyết; người đứng đầu cơ quan, tổ chức đã quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật phối hợp giải quyết;
+
+c) Trường hợp người bị tố cáo đã chuyển công tác sang cơ quan, tổ chức khác mà không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì do người đứng đầu cơ quan, tổ chức quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; người đứng đầu cơ quan, tổ chức đang quản lý người bị tố cáo phối hợp giải quyết;
+
+d) Trường hợp người bị tố cáo không còn là cán bộ, công chức, viên chức thì do người đứng đầu cơ quan, tổ chức quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; người đứng đầu cơ quan, tổ chức có liên quan phối hợp giải quyết.
+
+4. Tố cáo cán bộ, công chức, viên chức của cơ quan, tổ chức đã hợp nhất, sáp nhập, chia, tách do người đứng đầu cơ quan, tổ chức sau hợp nhất, sáp nhập, chia, tách mà người bị tố cáo đang công tác chủ trì giải quyết; người đứng đầu cơ quan, tổ chức có liên quan phối hợp giải quyết.
+
+5. Tố cáo cán bộ, công chức, viên chức của cơ quan, tổ chức đã bị giải thể do người đứng đầu cơ quan, tổ chức quản lý cơ quan, tổ chức trước khi bị giải thể giải quyết.
+
+6. Tố cáo cơ quan, tổ chức trong việc thực hiện nhiệm vụ, công vụ do người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.20. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức chính trị, tổ chức chính trị - xã hội; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.8.7. Xử lý thông tin tố cáo không thuộc thẩm quyền, trách nhiệm giải quyết của Công an nhân dân; Điều 18.5.TT.8.8. Thẩm quyền giải quyết tố cáo)
 
 Điều 18.5.NĐ.1.43. Thẩm quyền giải quyết tố cáo về giáo dục nghề nghiệp, việc làm
 
-**Chỉ mục:** 43
+(Điều 43 Nghị định số 24/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000120000000000000000000402647600240004300
-
-**ID:** dk_00024925
-
----
-
-
-### Điều 18.5.NĐ.1.44. Phân định thẩm quyền giải quyết tố cáo
+Tố cáo về giáo dục nghề nghiệp, việc làm được giải quyết theo quy định của pháp luật về tố cáo.
 
 Điều 18.5.NĐ.1.44. Phân định thẩm quyền giải quyết tố cáo
 
-**Chỉ mục:** 44
+(Điều 44 Nghị định số 24/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000120000000000000000000402647600240004400
+Tố cáo có nội dung liên quan đến chức năng quản lý nhà nước của nhiều cơ quan; tố cáo có nội dung thuộc thẩm quyền giải quyết của nhiều cơ quan; tố cáo hành vi vi phạm pháp luật có dấu hiệu tội phạm thì thực hiện theo quy định của pháp luật về tố cáo.
 
-**ID:** dk_00024926
+Điều 18.5.NĐ.3.5. Nguyên tắc xác định thẩm quyền
 
----
+(Điều 5 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
+1. Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của quân nhân, công nhân và viên chức quốc phòng do người đứng đầu về hành chính quân sự của cơ quan, đơn vị có thẩm quyền quản lý quân nhân, công nhân và viên chức quốc phòng giải quyết.
 
-### Điều 18.5.NĐ.3.5. Nguyên tắc xác định thẩm quyền
+2. Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người chỉ huy cơ quan, đơn vị do người đứng đầu về hành chính quân sự của cơ quan, đơn vị cấp trên trực tiếp giải quyết.
 
-*Nội dung chưa có sẵn*
+3. Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của quân nhân, công nhân và viên chức quốc phòng xảy ra trong thời gian công tác trước đây nay đã chuyển sang cơ quan, đơn vị khác hoặc không còn là quân nhân, công nhân và viên chức quốc phòng được xử lý như sau:
 
-**Chỉ mục:** 5
+a) Trường hợp người bị tố cáo là người chỉ huy cơ quan, đơn vị đã chuyển công tác sang cơ quan, đơn vị khác mà vẫn giữ chức vụ tương đương thì do người đứng đầu cơ quan, đơn vị cấp trên trực tiếp của cơ quan, đơn vị quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; người đứng đầu cơ quan, đơn vị cấp trên trực tiếp của cơ quan, đơn vị đang quản lý người bị tố cáo phối hợp giải quyết;
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000120000000000000000000402686200280000500
+b) Trường hợp người bị tố cáo đã chuyển công tác sang cơ quan, đơn vị khác và giữ chức vụ cao hơn thì do người đứng đầu cơ quan, đơn vị đang quản lý người bị tố cáo chủ trì giải quyết; người đứng đầu cơ quan, đơn vị quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật phối hợp giải quyết.
 
-**ID:** dk_00024927
+Trường hợp người bị tố cáo đã chuyển công tác sang cơ quan, đơn vị khác và là người chỉ huy cơ quan, đơn vị đó thì do người đứng đầu cơ quan, đơn vị cấp trên trực tiếp của cơ quan, đơn vị đó chủ trì giải quyết; người đứng đầu cơ quan, đơn vị đã quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật phối hợp giải quyết;
 
----
+c) Trường hợp người bị tố cáo đã chuyển công tác sang cơ quan, đơn vị khác mà không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì do người đứng đầu cơ quan, đơn vị quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; người đứng đầu cơ quan, đơn vị đang quản lý người bị tố cáo phối hợp giải quyết;
 
+d) Trường hợp người bị tố cáo vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ xảy ra trong thời gian công tác trước đây và người đó thuộc quyền quản lý của nhiều cơ quan, đơn vị, tổ chức thì người đứng đầu cơ quan, đơn vị quản lý trực tiếp quân nhân, công nhân và viên chức quốc phòng bị tố cáo chủ trì giải quyết; người đứng đầu cơ quan, đơn vị, tổ chức có liên quan phối hợp giải quyết;
 
-### Điều 18.5.LQ.13. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan hành chính nhà nước
+đ) Trường hợp người bị tố cáo không còn là quân nhân, công nhân và viên chức quốc phòng thì do người đứng đầu cơ quan, đơn vị quản lý người bị tố cáo tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; người đứng đầu cơ quan, đơn vị có liên quan phối hợp giải quyết.
+
+4. Tố cáo quân nhân, công nhân và viên chức quốc phòng của cơ quan, đơn vị đã hợp nhất, sáp nhập, chia, tách do người đứng đầu cơ quan, đơn vị sau hợp nhất, sáp nhập, chia, tách mà người bị tố cáo đang công tác chủ trì giải quyết; người đứng đầu cơ quan, đơn vị có liên quan phối hợp giải quyết.
+
+5. Tố cáo quân nhân, công nhân và viên chức quốc phòng của cơ quan, đơn vị đã bị giải thể do người đứng đầu cơ quan, đơn vị quản lý cơ quan, đơn vị trước khi bị giải thể giải quyết.
+
+6. Tố cáo cơ quan, đơn vị trong việc thực hiện nhiệm vụ, công vụ do người đứng đầu cơ quan, đơn vị cấp trên một cấp của cơ quan, đơn vị đó giải quyết.
 
 Điều 18.5.LQ.13. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan hành chính nhà nước
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000010000000000000000001300000000000000000
+1. Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của công chức do mình quản lý trực tiếp.
 
-**ID:** dk_00024928
+2. Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền sau đây:
 
----
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của Chủ tịch, Phó Chủ tịch Ủy ban nhân dân cấp xã, cán bộ, công chức, viên chức khác do mình bổ nhiệm, quản lý trực tiếp;
 
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do Ủy ban nhân dân cấp huyện quản lý trực tiếp.
 
-### Điều 18.5.NĐ.1.39. Thẩm quyền của Chánh Thanh tra Sở Lao động - Thương binh và Xã hội
+3. Người đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh có thẩm quyền sau đây:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu cơ quan, đơn vị trực thuộc cơ quan mình, công chức, viên chức khác do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp.
+
+4. Chủ tịch Ủy ban nhân dân cấp tỉnh có thẩm quyền sau đây:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của Chủ tịch, Phó Chủ tịch Ủy ban nhân dân cấp huyện, người đứng đầu, cấp phó của người đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, công chức, viên chức khác do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do Ủy ban nhân dân cấp tỉnh quản lý trực tiếp.
+
+5. Tổng cục trưởng, Cục trưởng và cấp tương đương thuộc Bộ, cơ quan ngang Bộ được phân cấp quản lý cán bộ, công chức, viên chức có thẩm quyền sau đây:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu cơ quan, đơn vị thuộc Tổng cục, Cục và cấp tương đương, công chức, viên chức khác do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp.
+
+6. Người đứng đầu cơ quan thuộc Chính phủ có thẩm quyền sau đây:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức thuộc cơ quan thuộc Chính phủ, công chức, viên chức khác do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp.
+
+7. Bộ trưởng, người đứng đầu cơ quan ngang Bộ có thẩm quyền sau đây:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu cơ quan, đơn vị thuộc Bộ, cơ quan ngang Bộ, cán bộ, công chức, viên chức khác do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp.
+
+8. Thủ tướng Chính phủ có thẩm quyền sau đây:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của Bộ trưởng, Thứ trưởng, người đứng đầu, cấp phó của người đứng đầu cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch, Phó Chủ tịch Ủy ban nhân dân cấp tỉnh, cán bộ, công chức, viên chức khác do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp.
+
+(Điều này có nội dung liên quan đến Điều 44.15.LQ.20. Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ)
 
 Điều 18.5.NĐ.1.39. Thẩm quyền của Chánh Thanh tra Sở Lao động - Thương binh và Xã hội
 
-**Chỉ mục:** 39
+(Điều 39 Nghị định số 24/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000402647600240003900
+Chánh Thanh tra Sở Lao động - Thương binh và Xã hội giải quyết tố cáo hành vi vi phạm pháp luật về lao động, an toàn, vệ sinh lao động thuộc phạm vi quản lý của Sở Lao động - Thương binh và Xã hội.
 
-**ID:** dk_00024929
-
----
-
-
-### Điều 18.5.NĐ.1.40. Thẩm quyền của Cục trưởng Cục Quản lý lao động ngoài nước
+(Điều này có nội dung liên quan đến Điều 18.5.NĐ.1.37. Quyền và nghĩa vụ của người tố cáo)
 
 Điều 18.5.NĐ.1.40. Thẩm quyền của Cục trưởng Cục Quản lý lao động ngoài nước
 
-**Chỉ mục:** 40
+(Điều 40 Nghị định số 24/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000402647600240004000
+Cục trưởng Cục Quản lý Lao động ngoài nước giải quyết tố cáo hành vi vi phạm pháp luật về hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng thuộc phạm vi quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội.
 
-**ID:** dk_00024930
-
----
-
-
-### Điều 18.5.NĐ.1.41. Thẩm quyền của Chánh Thanh tra Bộ Lao động - Thương binh và Xã hội
+(Điều này có nội dung liên quan đến Điều 18.5.NĐ.1.37. Quyền và nghĩa vụ của người tố cáo)
 
 Điều 18.5.NĐ.1.41. Thẩm quyền của Chánh Thanh tra Bộ Lao động - Thương binh và Xã hội
 
-**Chỉ mục:** 41
+(Điều 41 Nghị định số 24/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000402647600240004100
+Chánh Thanh tra Bộ Lao động - Thương binh và Xã hội xem xét, xử lý tố cáo mà Chánh Thanh tra Sở Lao động - Thương binh và Xã hội đã giải quyết nhưng vẫn có tố cáo tiếp hoặc quá thời hạn quy định mà tố cáo không được giải quyết; xử lý những vụ việc tố cáo được Bộ trưởng Bộ Lao động - Thương binh và Xã hội giao.
 
-**ID:** dk_00024931
-
----
-
-
-### Điều 18.5.NĐ.1.42. Thẩm quyền giải quyết của Bộ trưởng Bộ Lao động - Thương binh và Xã hội
+(Điều này có nội dung liên quan đến Điều 18.5.NĐ.1.37. Quyền và nghĩa vụ của người tố cáo)
 
 Điều 18.5.NĐ.1.42. Thẩm quyền giải quyết của Bộ trưởng Bộ Lao động - Thương binh và Xã hội
 
-**Chỉ mục:** 42
+(Điều 42 Nghị định số 24/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000402647600240004200
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội xem xét, xử lý tố cáo mà Cục trưởng Cục Quản lý lao động ngoài nước đã giải quyết nhưng vẫn có tố cáo tiếp hoặc quá thời hạn quy định mà tố cáo không được giải quyết.
 
-**ID:** dk_00024932
-
----
-
-
-### Điều 18.5.NĐ.2.5. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Công an nhân dân
+(Điều này có nội dung liên quan đến Điều 18.5.NĐ.1.37. Quyền và nghĩa vụ của người tố cáo)
 
 Điều 18.5.NĐ.2.5. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Công an nhân dân
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000402683900220000500
+1. Trưởng Công an phường, Trưởng đồn, Trưởng trạm Công an, Trưởng Công an thị trấn, Trưởng Công an xã thuộc biên chế của lực lượng Công an nhân dân (gọi chung là Trưởng Công an cấp xã) giải quyết tố cáo đối với cán bộ, chiến sĩ Công an thuộc quyền quản lý trực tiếp, trừ Phó Trưởng Công an cấp xã.
 
-**ID:** dk_00024933
+2. Trưởng Công an quận, huyện, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương (gọi chung là Trưởng Công an cấp huyện) giải quyết tố cáo đối với Trưởng Công an cấp xã, Phó Trưởng Công an cấp xã và cán bộ, chiến sĩ từ Đội trưởng trở xuống, trừ trường hợp thuộc thẩm quyền giải quyết của Trưởng Công an cấp xã; giải quyết tố cáo đơn vị Công an cấp xã, đội thuộc quyền quản lý trực tiếp.
 
----
+3. Trưởng phòng, Thủ trưởng đơn vị tương đương cấp phòng thuộc Công an tỉnh, thành phố trực thuộc Trung ương (gọi chung là Công an cấp tỉnh) giải quyết tố cáo đối với cán bộ, chiến sĩ từ Đội trưởng và tương đương trở xuống; giải quyết tố cáo đơn vị cấp đội hoặc tương đương cấp đội thuộc quyền quản lý trực tiếp.
 
+Giám thị trại giam, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng; Trưởng phòng, Thủ trưởng các đơn vị tương đương cấp phòng có con dấu riêng thuộc đơn vị cấp cục và tương đương thuộc cơ quan bộ giải quyết tố cáo đối với cán bộ, chiến sĩ từ Đội trưởng và tương đương trở xuống; giải quyết tố cáo đơn vị cấp đội hoặc tương đương cấp đội thuộc quyền quản lý trực tiếp.
 
-### Điều 18.5.TT.8.8. Thẩm quyền giải quyết tố cáo
+4. Giám đốc Công an cấp tỉnh giải quyết tố cáo đối với Trưởng phòng, Phó Trưởng phòng, Thủ trưởng, Phó Thủ trưởng đơn vị tương đương cấp phòng thuộc Công an cấp tỉnh, Trưởng Công an cấp huyện, Phó Trưởng Công an cấp huyện; giải quyết tố cáo đơn vị Công an cấp huyện, cấp phòng và đơn vị tương đương do Công an cấp tỉnh quản lý trực tiếp.
 
-*Nội dung chưa có sẵn*
+5. Cục trưởng, Thủ trưởng đơn vị tương đương cấp cục thuộc cơ quan bộ giải quyết tố cáo đối với cán bộ giữ chức vụ Trưởng phòng, Phó Trưởng phòng, Thủ trưởng, Phó Thủ trưởng đơn vị tương đương cấp phòng và cán bộ, chiến sĩ thuộc thẩm quyền giải quyết của Trưởng phòng, Thủ trưởng đơn vị tương đương cấp phòng nhưng không có con dấu riêng; giải quyết tố cáo đơn vị cấp phòng và tương đương cấp phòng thuộc quyền quản lý trực tiếp, đơn vị cấp đội hoặc tương đương cấp đội thuộc thẩm quyền giải quyết của Trưởng phòng, Thủ trưởng đơn vị tương đương cấp phòng nhưng không có con dấu riêng.
 
-**Chỉ mục:** 8
+6. Bộ trưởng giải quyết tố cáo đối với Cục trưởng, Phó Cục trưởng hoặc tương đương thuộc cơ quan bộ, Giám đốc, Phó Giám đốc Công an cấp tỉnh, cán bộ khác do Bộ trưởng trực tiếp quản lý (nếu có); giải quyết tố cáo đơn vị Công an cấp tỉnh, cấp cục và tương đương cấp cục.
 
-**Mã phân cấp:** 1800500000000000300000100000000000000000013000000000000000000040268390022000050000802736400850000800
+7. Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, chiến sĩ Công an thuộc thẩm quyền quản lý của nhiều cơ quan, đơn vị Công an do Thủ trưởng cơ quan, đơn vị Công an trực tiếp quản lý cán bộ, chiến sĩ Công an bị tố cáo chủ trì giải quyết; Thủ trưởng cơ quan, đơn vị có liên quan phối hợp giải quyết.
 
-**ID:** dk_00024934
+8. Tố cáo cán bộ, chiến sĩ hoặc cơ quan, đơn vị cấp dưới của cơ quan, đơn vị đã hợp nhất, sáp nhập, chia, tách do Thủ trưởng cơ quan, đơn vị sau hợp nhất, sáp nhập, chia, tách đang quản lý cán bộ, chiến sĩ, cơ quan, đơn vị đó chủ trì giải quyết; Thủ trưởng cơ quan, đơn vị có liên quan phối hợp giải quyết.
 
----
+Tố cáo cán bộ, chiến sĩ, cơ quan, đơn vị thuộc cơ quan, đơn vị trong Công an nhân dân đã bị giải thể do Thủ trưởng cơ quan, đơn vị quản lý cơ quan, đơn vị Công an trước khi bị giải thể giải quyết.
 
+9. Thẩm quyền giải quyết tố cáo cán bộ, chiến sĩ Công an có hành vi vi phạm pháp luật trong thực hiện nhiệm vụ, công vụ xảy ra trong thời gian trước đây nay đã chuyển cơ quan, đơn vị hoặc không còn là cán bộ, chiến sĩ Công an theo nguyên tắc sau:
 
-### Điều 18.5.TT.8.13. Tố cáo hành vi vi phạm pháp luật có liên quan đến thẩm quyền quản lý của nhiều cơ quan, đơn vị Công an
+a) Trường hợp cán bộ, chiến sĩ Công an bị tố cáo là Thủ trưởng, Phó Thủ trưởng cơ quan, đơn vị Công an đã chuyển công tác sang cơ quan, đơn vị Công an khác mà vẫn giữ chức vụ tương đương thì Thủ trưởng cơ quan, đơn vị Công an cấp trên trực tiếp của cơ quan, đơn vị cán bộ, chiến sĩ Công an đó công tác tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; Thủ trưởng cơ quan, đơn vị Công an cấp trên trực tiếp của cơ quan, đơn vị cán bộ, chiến sĩ Công an đang công tác phối hợp giải quyết;
+
+b) Trường hợp cán bộ, chiến sĩ Công an bị tố cáo đã chuyển công tác sang cơ quan, đơn vị Công an khác và giữ chức vụ cao hơn thì Thủ trưởng cơ quan, đơn vị Công an đang quản lý cán bộ, chiến sĩ Công an đó chủ trì giải quyết; Thủ trưởng cơ quan, đơn vị Công an quản lý cán bộ, chiến sĩ bị tố cáo tại thời điểm có hành vi vi phạm pháp luật phối hợp giải quyết.
+
+Trường hợp cán bộ, chiến sĩ Công an bị tố cáo đã chuyển công tác sang cơ quan, đơn vị Công an khác và giữ chức vụ Thủ trưởng, Phó Thủ trưởng cơ quan, đơn vị Công an đó thì Thủ trưởng cơ quan, đơn vị Công an cấp trên trực tiếp của cơ quan, đơn vị cán bộ, chiến sĩ đang công tác chủ trì giải quyết; Thủ trưởng cơ quan, đơn vị Công an đã quản lý cán bộ, chiến sĩ Công an bị tố cáo tại thời điểm có hành vi vi phạm pháp luật phối hợp giải quyết;
+
+c) Trường hợp cán bộ, chiến sĩ Công an bị tố cáo đã chuyển công tác sang cơ quan, đơn vị Công an khác mà không thuộc điểm a và điểm b khoản này thì Thủ trưởng cơ quan, đơn vị Công an quản lý cán bộ, chiến sĩ bị tố cáo tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; Thủ trưởng cơ quan, đơn vị Công an đang quản lý cán bộ, chiến sĩ bị tố cáo phối hợp giải quyết;
+
+d) Trường hợp người bị tố cáo không còn là cán bộ, chiến sĩ Công an thì Thủ trưởng cơ quan, đơn vị Công an có thẩm quyền giải quyết tố cáo đối với cán bộ, chiến sĩ Công an tại thời điểm có hành vi vi phạm pháp luật chủ trì giải quyết; người đứng đầu cơ quan, tổ chức có liên quan phối hợp giải quyết.
+
+10. Thẩm quyền giải quyết tố cáo cán bộ Công an biệt phái đến công tác tại cơ quan, tổ chức khác ngoài Công an nhân dân theo nguyên tắc sau:
+
+a) Trường hợp tố cáo về hành vi vi phạm pháp luật khi thực hiện nhiệm vụ, công vụ trong thời gian công tác trước khi biệt phái thì Thủ trưởng cơ quan, đơn vị Công an quản lý trực tiếp tại thời điểm có hành vi vi phạm pháp luật giải quyết, người đứng đầu cơ quan, tổ chức có liên quan phối hợp giải quyết;
+
+b) Trường hợp tố cáo về hành vi vi phạm pháp luật trong thời gian công tác tại cơ quan, tổ chức mới thì người đứng đầu cơ quan, tổ chức nơi cán bộ đó đang công tác giải quyết.
+
+11. Người có thẩm quyền giải quyết tố cáo trong Công an nhân dân quy định tại khoản 2, 3, 4, 5, 6 Điều này giải quyết tố cáo thuộc thẩm quyền của Thủ trưởng cơ quan, đơn vị Công an cấp dưới trực tiếp khi có căn cứ cho rằng việc giải quyết tố cáo có vi phạm pháp luật nghiêm trọng hoặc có dấu hiệu không khách quan. Căn cứ xác định việc vi phạm pháp luật nghiêm trọng, có dấu hiệu không khách quan trong giải quyết tố cáo theo quy định của Nghị định quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo.
+
+Điều 18.5.TT.8.8. Thẩm quyền giải quyết tố cáo
+
+(Điều 8 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
+
+ Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ thực hiện theo quy định tại Điều 5 Nghị định số 22/2019/NĐ-CP. Trường hợp người bị tố cáo là cán bộ Công an xã, thị trấn không thuộc biên chế lực lượng Công an nhân dân thì thực hiện theo quy định tại Điều 12 Luật Tố cáo.
+
+ Khi xét thấy cần thiết, Bộ trưởng Bộ Công an thụ lý, giải quyết tố cáo thuộc thẩm quyền giải quyết của cấp dưới có nội dung tố cáo phức tạp, gây dư luận xấu trong xã hội, ảnh hưởng nghiêm trọng đến uy tín của ngành Công an.(Điều này có nội dung liên quan đến Điều 18.5.LQ.12. Nguyên tắc xác định thẩm quyền)
 
 Điều 18.5.TT.8.13. Tố cáo hành vi vi phạm pháp luật có liên quan đến thẩm quyền quản lý của nhiều cơ quan, đơn vị Công an
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Mã phân cấp:** 1800500000000000300000100000000000000000013000000000000000000040268390022000050000802736400850001300
+ Tố cáo hành vi vi phạm pháp luật của cán bộ, chiến sĩ Công an trong thực hiện nhiệm vụ, công vụ có liên quan đến thẩm quyền quản lý của nhiều cơ quan, đơn vị Công an thực hiện theo quy định tại khoản 7 Điều 5 Nghị định số 22/2019/NĐ-CP.Điều 18.5.TT.11.7. Thẩm quyền quyết định áp dụng biện pháp bảo vệ của người có thẩm quyền giải quyết tố cáo trong Công an nhân dân
 
-**ID:** dk_00024935
+(Điều 7 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
----
+ 1. Người có thẩm quyền giải quyết tố cáo quy định tại khoản 1 Điều 5 Nghị định số 22/2019/NĐ-CP ngày 25/02/2019 của Chính phủ quy định về tố cáo và giải quyết tố cáo trong Công an nhân dân khi nhận được văn bản đề nghị áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 3 Thông tư này thì kịp thời quyết định áp dụng biện pháp bảo vệ đối với người được bảo vệ có địa chỉ nơi ở hoặc nơi có tài sản trong phạm vi địa bàn thuộc thẩm quyền.
 
+ Trường hợp người được bảo vệ có địa chỉ nơi ở hoặc nơi có tài sản ngoài địa bàn thuộc thẩm quyền thì người có thẩm quyền giải quyết tố cáo quy định tại khoản 1 Điều 5 Nghị định số 22/2019/NĐ-CP báo cáo Trưởng Công an cấp huyện để xử lý theo thẩm quyền.
 
-### Điều 18.5.TT.11.7. Thẩm quyền quyết định áp dụng biện pháp bảo vệ của người có thẩm quyền giải quyết tố cáo trong Công an nhân dân
+ 2. Người có thẩm quyền giải quyết tố cáo quy định tại khoản 2 Điều 5 Nghị định số 22/2019/NĐ-CP khi nhận được văn bản đề nghị áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 3 Thông tư này thì kịp thời quyết định áp dụng biện pháp bảo vệ đối với người được bảo vệ có địa chỉ nơi ở hoặc nơi có tài sản trong phạm vi địa bàn thuộc thẩm quyền hoặc chỉ đạo Trưởng Công an cấp xã có liên quan quyết định áp dụng biện pháp bảo vệ (trừ trường hợp người bị tố cáo là Trưởng Công an cấp xã).
 
-Điều 18.5.TT.11.7. Thẩm quyền quyết định áp dụng biện pháp bảo vệ của người có thẩm quyền giải quyết tố cáo trong Công an nhân dân
+ Trường hợp người được bảo vệ có địa chỉ nơi ở hoặc nơi có tài sản ngoài địa bàn thuộc thẩm quyền thì người có thẩm quyền giải quyết tố cáo quy định tại khoản 2 Điều 5 Nghị định số 22/2019/NĐ-CP đề nghị Trưởng Công an cấp huyện có liên quan quyết định áp dụng biện pháp bảo vệ, đồng thời báo cáo Giám đốc Công an cấp tỉnh để theo dõi, chỉ đạo.
 
-**Chỉ mục:** 7
+ 3. Người có thẩm quyền giải quyết tố cáo quy định tại khoản 3 Điều 5 Nghị định số 22/2019/NĐ-CP khi nhận được văn bản đề nghị áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo, người có thẩm quyền giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 3 Thông tư này thì kịp thời đề nghị Trưởng Công an cấp huyện có liên quan quyết định áp dụng biện pháp bảo vệ.
 
-**Mã phân cấp:** 1800500000000000300000100000000000000000013000000000000000000040268390022000050000802751201450000700
+ Trường hợp người được bảo vệ là phạm nhân tại trại giam, trại viên tại cơ sở giáo dục bắt buộc, học sinh tại trường giáo dưỡng: Khi nhận được văn bản đề nghị áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 3 Thông tư này thì Giám thị trại giam, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng kịp thời quyết định áp dụng biện pháp bảo vệ.
 
-**ID:** dk_00024936
+ 4. Người có thẩm quyền giải quyết tố cáo quy định tại khoản 4 Điều 5 Nghị định số 22/2019/NĐ-CP khi nhận được văn bản đề nghị áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 3 Thông tư này thì kịp thời quyết định áp dụng biện pháp bảo vệ đối với người được bảo vệ có địa chỉ nơi ở hoặc nơi có tài sản trong phạm vi địa bàn thuộc thẩm quyền hoặc chỉ đạo Trưởng Công an cấp huyện có liên quan quyết định áp dụng biện pháp bảo vệ. Thanh tra Công an cấp tỉnh có trách nhiệm tham mưu với Giám đốc Công an tỉnh để chỉ đạo một đồng chí Phó trưởng Công an cấp huyện hoặc đơn vị, cá nhân khác có thẩm quyền quyết định áp dụng biện pháp bảo vệ trong trường hợp người bị tố cáo là Trưởng Công an cấp huyện.
 
----
+ Trường hợp người được bảo vệ có địa chỉ nơi ở hoặc nơi có tài sản ngoài địa bàn thuộc thẩm quyền thì người có thẩm quyền giải quyết tố cáo quy định tại khoản 4 Điều 5 Nghị định số 22/2019/NĐ-CP đề nghị Giám đốc Công an cấp tỉnh có liên quan quyết định áp dụng biện pháp bảo vệ.
 
+ 5. Người có thẩm quyền giải quyết tố cáo quy định tại khoản 5, khoản 6 Điều 5 Nghị định số 22/2019/NĐ-CP khi nhận được văn bản đề nghị áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo, người giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 3 Thông tư này thì kịp thời đề nghị Giám đốc Công an cấp tỉnh có liên quan quyết định áp dụng biện pháp bảo vệ.
 
-### Điều 18.5.NĐ.3.6. Thẩm quyền giải quyết tố cáo trong việc thực hiện nhiệm vụ, công vụ
+ Trường hợp người được bảo vệ là cán bộ, chiến sĩ, phạm nhân tại trại giam, cán bộ, chiến sĩ, trại viên tại cơ sở giáo dục bắt buộc, cán bộ, chiến sĩ, học sinh tại trường giáo dưỡng và người bị tố cáo là Giám thị, Phó Giám thị trại giam, Giám đốc, Phó Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng, Phó Hiệu trưởng trường giáo dưỡng: Cục trưởng Cục Cảnh sát quản lý trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng khi nhận được văn bản đề nghị áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 3 Thông tư này thì kịp thời quyết định áp dụng biện pháp bảo vệ.
 
-Điều 18.5.NĐ.3.6. Thẩm quyền giải quyết tố cáo trong việc thực hiện nhiệm vụ, công vụ
+ Thanh tra Bộ Công an có trách nhiệm tham mưu Bộ trưởng Bộ Công an chỉ đạo Phó Giám đốc - Phó Bí thư Đảng ủy Công an cấp tỉnh hoặc đơn vị, cá nhân khác có thẩm quyền quyết định áp dụng biện pháp bảo vệ trong trường hợp người bị tố cáo là Giám đốc Công an cấp tỉnh.Điều 18.5.NĐ.3.6. Thẩm quyền giải quyết tố cáo trong việc thực hiện nhiệm vụ, công vụ
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000402686200280000600
+1. Trung đoàn trưởng, Lữ đoàn trưởng, Chỉ huy trưởng Ban chỉ huy Quân sự huyện, Đồn trưởng đồn Biên phòng và cấp tương đương có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của quân nhân, công nhân và viên chức quốc phòng do mình quản lý.
 
-**ID:** dk_00024937
+2. Cục trưởng, Sư đoàn trưởng, Chỉ huy trưởng Bộ chỉ huy Quân sự tỉnh, Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng tỉnh và cấp tương đương có thẩm quyền sau đây:
 
----
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người chỉ huy, quân nhân, công nhân và viên chức quốc phòng của cơ quan, đơn vị cấp dưới do mình quản lý trực tiếp;
 
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, đơn vị, tổ chức do mình quản lý trực tiếp.
 
-### Điều 18.5.TT.1.11. Thẩm quyền giải quyết tố cáo
+3. Giám đốc học viện, Hiệu trưởng nhà trường, Viện trưởng Viện nghiên cứu, Giám đốc bệnh viện và cấp tương đương có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, quân nhân, công nhân và viên chức quốc phòng trong việc thực hiện nhiệm vụ, công vụ do mình quản lý.
 
-*Nội dung chưa có sẵn*
+4. Tư lệnh Quân đoàn, Binh chủng, Binh đoàn,Tư lệnh vùng Hải quân, Tư lệnh vùng Cảnh sát biển và cấp tương đương có thẩm quyền:
 
-**Chỉ mục:** 11
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người chỉ huy cơ quan, đơn vị, tổ chức trực thuộc và cán bộ sĩ quan do mình bổ nhiệm, quản lý trực tiếp;
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000802494400401001100
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, đơn vị trực thuộc do mình quản lý trực tiếp.
 
-**ID:** dk_00024938
+5. Tư lệnh Quân khu, Quân chủng, Bộ đội Biên phòng, Bộ Tư lệnh Thủ đô Hà Nội, Bộ Tư lệnh Cảnh sát biển*,* Bộ Tư lệnh Tác chiến không gian mạng (Bộ Tư lệnh 86) và cấp tương đương, Trưởng ban Cơ yếu Chính phủ có thẩm quyền:
 
----
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người chỉ huy cơ quan, đơn vị, tổ chức trực thuộc và quân nhân do mình bổ nhiệm, quản lý trực tiếp;
 
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, đơn vị cấp Sư đoàn và tương đươngdo mình quản lý trực tiếp.
 
-### Điều 18.5.TT.2.17. Thẩm quyền giải quyết tố cáo của Bộ trưởng
+6. Tổng Tham mưu trưởng, Chủ nhiệm Tổng cục Chính trị, Chủ nhiệm các tổng cục, Tổng cục trưởng Tổng cục Tình báo, Cục trưởng và tương đương thuộc Bộ Quốc phòng có thẩm quyền:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người chỉ huy cơ quan, đơn vị, tổ chức trực thuộc và quân nhân do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, đơn vị, tổ chức trực thuộc do mình quản lý trực tiếp.
+
+7. Bộ trưởng Bộ Quốc phòng có thẩm quyền:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người chỉ huy cơ quan, đơn vị, tổ chức, quân nhân do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, đơn vị, tổ chức thuộc Bộ do mình quản lý trực tiếp;
+
+c) Giải quyết các tố cáo thuộc thẩm quyền của cấp dưới khi xét thấy cần thiết.
+
+Điều 18.5.TT.1.11. Thẩm quyền giải quyết tố cáo
+
+(Điều 11 Thông tư số 40/2013/TT-BGDĐT, có hiệu lực thi hành kể từ ngày 10/02/2014, có nội dung được sửa đổi bởi Điều 1 Thông tư số 25/2019/TT-BGDĐT có hiệu lực thi hành kể từ ngày 15/02/2020; Điều 1 Thông tư số 14/2021/TT-BGDĐT có hiệu lực thi hành kể từ ngày 05/07/2021)
+
+1. Thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo: 
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật của cơ quan, tổ chức, cá nhân có nội dung liên quan đến thẩm quyền quản lý nhà nước về giáo dục của Bộ Giáo dục và Đào tạo trừ trường hợp đã được phân cấp quản lý hoặc pháp luật có quy định khác; 
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp;
+
+c) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu đơn vị chức năng thuộc Bộ và đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo không phải cơ sở giáo dục đại học; của người đứng đầu đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo là cơ sở giáo dục đại học và các chức danh trong doanh nghiệp trực thuộc Bộ Giáo dục và Đào tạo gồm: Chủ tịch hội đồng thành viên, thành viên hội đồng thành viên, chủ tịch công ty, kiểm soát viên và công chức, viên chức Bộ trưởng Bộ Giáo dục và Đào tạo bổ nhiệm, quản lý trực tiếp.
+
+Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của chủ tịch hội đồng đại học vùng, chủ tịch hội đồng trường đại học và học viện trực thuộc Bộ Giáo dục và Đào tạo theo quy định của pháp luật.
+
+2. Thẩm quyền của Chánh thanh tra Bộ: giải quyết tố cáo hành vi vi phạm pháp luật của thanh tra viên, công chức thanh tra và thành viên Đoàn thanh tra do mình quyết định thành lập trong việc thực hiện pháp luật về thanh tra, khiếu nại, tố cáo, xử lý vi phạm hành chính.
+
+3. Thẩm quyền của Cục trưởng: giải quyết tố cáo đối với hành vi vi phạm pháp luật về giáo dục trong phạm vi chức năng, nhiệm vụ được giao.
+
+4. Thẩm quyền của người đứng đầu các đơn vị sự nghiệp trực thuộc Bộ: giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của công chức, viên chức, người lao động do mình tuyển dụng, bổ nhiệm, quản lý trực tiếp hoặc hành vi vi phạm pháp luật về giáo dục trong phạm vi chức năng, nhiệm vụ được giao.
+
+5. Trên cơ sở nguyên tắc xác định thẩm quyền giải quyết tố cáo quy định tại Điều 12, quy định về thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong đơn vị sự nghiệp công lập tại Điều 18 Luật Tố cáo ngày 12 tháng 6 năm 2018:
+
+a) Giám đốc đại học vùng xác định và quy định cụ thể đối tượng, thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ đối với phó giám đốc đại học vùng, thành viên hội đồng đại học vùng; đối với người đứng đầu và cấp phó người đứng đầu, chủ tịch hội đồng trường, thành viên hội đồng trường của trường đại học thành viên và các cá nhân, tổ chức, đơn vị trong đại học vùng, đơn vị thành viên để thực hiện thống nhất trong đại học vùng theo quy định;
+
+b) Người đứng đầu cơ sở giáo dục đại học trực thuộc Bộ Giáo dục và Đào tạo xác định và quy định cụ thể đối tượng, thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ đối với cấp phó người đứng đầu, thành viên hội đồng trường và các cá nhân, tổ chức, đơn vị trong cơ sở giáo dục đại học mình để thực hiện theo quy định.
 
 Điều 18.5.TT.2.17. Thẩm quyền giải quyết tố cáo của Bộ trưởng
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 39/2014/TT-BGTVT Quy định công tác tiếp công dân, giải quyết khiếu nại,
+giải quyết tố cáo của Bộ Giao thông vận tải ngày 12/09/2014 của Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 01/11/2014)1. Tố cáo hành vi vi phạm pháp luật, hành vi vi phạm về nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu cơ quan, đơn vị trực thuộc Bộ và những cán bộ, công chức do Bộ trưởng bổ nhiệm và quản lý trực tiếp.
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000802521200391501700
+2. Tố cáo hành vi vi phạm pháp luật có nội dung liên quan đến chức năng quản lý nhà nước của Bộ Giao thông vận tải.
 
-**ID:** dk_00024939
-
----
-
-
-### Điều 18.5.TT.2.18. Thẩm quyền giải quyết tố cáo của Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ
+3. Tố cáo mà Thủ trưởng các cơ quan, đơn vị thuộc Bộ đã giải quyết nhưng còn tố cáo tiếp và có cơ sở để xác định việc giải quyết tố cáo không đúng quy định của pháp luật.
 
 Điều 18.5.TT.2.18. Thẩm quyền giải quyết tố cáo của Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 39/2014/TT-BGTVT, có hiệu lực thi hành kể từ ngày 01/11/2014)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000802521200391501800
+1. Tố cáo hành vi vi phạm pháp luật, hành vi vi phạm về nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu đơn vị cấp dưới trực tiếp và những cán bộ, công chức, viên chức, người lao động do mình bổ nhiệm hoặc quản lý trực tiếp.
 
-**ID:** dk_00024940
+2. Tố cáo hành vi vi phạm pháp luật có nội dung liên quan đến chức năng quản lý nhà nước của cơ quan mình.
 
----
-
-
-### Điều 18.5.TT.4.17. Xác định thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức ngành Lao động - Thương binh và Xã hội trong việc thực hiện nhiệm vụ, công vụ
+3. Tố cáo mà Thủ trưởng các cơ quan, đơn vị cấp dưới đã giải quyết nhưng còn tố cáo tiếp và có cơ sở để xác định việc giải quyết tố cáo không đúng quy định của pháp luật.
 
 Điều 18.5.TT.4.17. Xác định thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức ngành Lao động - Thương binh và Xã hội trong việc thực hiện nhiệm vụ, công vụ
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 53/2015/TT-BLĐTBXH Hướng dẫn về quy trình tiếp công dân và xử lý đơn thuộc lĩnh vực quản lý nhà nước của ngành Lao động - Thương binh và Xã hội ngày 11/12/2015 của Bộ Lao động - Thương binh và Xã hội, có hiệu lực thi hành kể từ ngày 26/01/2016)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000802566700533001700
+1. Bộ trưởng Bộ Lao động - Thương binh và Xã hội có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, công chức, viên chức do mình bổ nhiệm, quản lý trực tiếp. Tùy từng nội dung đơn tố cáo, Bộ trưởng giao Thanh tra Bộ hoặc đơn vị thuộc Bộ tham mưu thụ lý, giải quyết.
 
-**ID:** dk_00024941
+2. Thủ trưởng đơn vị thuộc Bộ có thẩm quyền thụ lý giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, công chức, viên chức do mình bổ nhiệm, quản lý trực tiếp theo phân cấp của Bộ.
 
----
+3. Giám đốc Sở có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, công chức, viên chức do mình bổ nhiệm, quản lý trực tiếp.
 
-
-### Điều 18.5.TT.4.18. Xác định thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật trong các lĩnh vực quản lý nhà nước ngành Lao động - Thương binh và Xã hội
+4. Thủ trưởng đơn vị thuộc Sở có thẩm quyền thụ lý giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, công chức, viên chức do mình bổ nhiệm, quản lý trực tiếp theo phân cấp.
 
 Điều 18.5.TT.4.18. Xác định thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật trong các lĩnh vực quản lý nhà nước ngành Lao động - Thương binh và Xã hội
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 53/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 26/01/2016)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000130000000000000000000802566700533001800
+1. Đối với đơn tố cáo hành vi vi phạm pháp luật trong lĩnh vực lao động, giáo dục nghề nghiệp, đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, thẩm quyền giải quyết theo quy định tại Nghị định số 119/2014/NĐ-CP ngày 17/12/2014.
 
-**ID:** dk_00024942
-
----
-
-
-### Điều 18.5.LQ.14. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Tòa án nhân dân
+2. Đối với đơn tố cáo hành vi vi phạm pháp luật trong các lĩnh vực khác thuộc chức năng quản lý nhà nước của ngành Lao động - Thương binh và Xã hội mà không thuộc quy định tại khoản 1 Điều này, thẩm quyền giải quyết được xác định theo quy định tại Điều 31 Luật Tố cáo.
 
 Điều 18.5.LQ.14. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Tòa án nhân dân
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000010000000000000000001400000000000000000
+1. Chánh án Tòa án nhân dân cấp huyện có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của công chức do mình quản lý trực tiếp.
 
-**ID:** dk_00024943
+2. Chánh án Tòa án nhân dân cấp tỉnh có thẩm quyền sau đây:
 
----
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của Chánh án, Phó Chánh án Tòa án nhân dân cấp huyện, công chức khác do mình quản lý trực tiếp;
 
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của Tòa án nhân dân cấp huyện.
 
-### Điều 18.5.TT.6.22. Thẩm quyền giải quyết tố cáo
+3. Chánh án Tòa án nhân dân cấp cao có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của công chức do mình quản lý trực tiếp.
 
-*Nội dung chưa có sẵn*
+4. Chánh án Tòa án nhân dân tối cao có thẩm quyền sau đây:
 
-**Chỉ mục:** 22
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của Chánh án, Phó Chánh án Tòa án nhân dân cấp cao; Chánh án, Phó Chánh án Tòa án nhân dân cấp tỉnh; việc thực hiện nhiệm vụ, công vụ của công chức, viên chức khác do mình quản lý trực tiếp;
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000140000000000000000000802731800010002200
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp, của Tòa án nhân dân cấp cao, Tòa án nhân dân cấp tỉnh.
 
-**ID:** dk_00024944
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.6.26. Giải quyết việc tiếp nhận, xử lý thông tin có nội dung tố cáo; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ)
 
----
+Điều 18.5.TT.6.22. Thẩm quyền giải quyết tố cáo
 
+(Điều 22 Thông tư số 01/2020/TT-TANDTC Quy định về giải quyết khiếu nại, tố cáo trong Tòa án nhân dân ngày 18/06/2020 của Toà án nhân dân tối cao, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-### Điều 18.5.TT.6.23. Trách nhiệm của Thủ trưởng các đơn vị có chức năng thanh tra trong Tòa án nhân dân các cấp
+1. Chánh án Tòa án nhân dân có thẩm quyền giải quyết tố cáo hành vi vi phạm của các cơ quan, đơn vị thuộc Tòa án nhân dân; hành vi vi phạm của công chức hoặc người không phải là công chức do mình trực tiếp quản lý được giao thực hiện nhiệm vụ, công vụ theo quy định tại Điều 14 và Điều 21 của Luật Tố cáo.
+
+2. Trường hợp công chức hoặc người lao động được biệt phái thì thẩm quyền được xác định như sau:
+
+a) Trường hợp tố cáo về hành vi vi phạm pháp luật khi thực hiện nhiệm vụ, công vụ trong thời gian công tác trước khi biệt phái thì Chánh án Tòa án nhân dân quản lý trực tiếp tại thời điểm có hành vi vi phạm pháp luật giải quyết, Chánh án Tòa án nhân dân nơi công chức hoặc người lao động được biệt phái đến có trách nhiệm phối hợp giải quyết;
+
+b) Trường hợp tố cáo về hành vi vi phạm pháp luật trong thời gian công tác tại Tòa án nhân dân nơi công chức hoặc người lao động được biệt phái đến thì Chánh án Tòa án nhân dân nơi công chức hoặc người lao động đang công tác giải quyết.
+
+3. Đối với công chức hoặc người lao động đã chuyển công tác, sau đó mới xác định có hành vi vi phạm tại cơ quan, đơn vị đã công tác thì Chánh án Tòa án nhân dân quản lý trực tiếp công chức hoặc người lao động tại thời điểm có hành vi vi phạm pháp luật giải quyết, Chánh án Tòa án nhân dân nơi công chức hoặc người lao động đang công tác có trách nhiệm phối hợp giải quyết.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.21. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức)
 
 Điều 18.5.TT.6.23. Trách nhiệm của Thủ trưởng các đơn vị có chức năng thanh tra trong Tòa án nhân dân các cấp
 
-**Chỉ mục:** 23
+(Điều 23 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000140000000000000000000802731800010002300
+1. Trưởng ban Ban Thanh tra Tòa án nhân dân tối cao có trách nhiệm sau đây:
 
-**ID:** dk_00024945
+a) Tổ chức việc tiếp nhận, phân loại, đề xuất việc giải quyết tố cáo thuộc thẩm quyền của Chánh án Tòa án nhân dân tối cao;
 
----
+b) Xác minh nội dung tố cáo, báo cáo kết quả xác minh, kiến nghị biện pháp xử lý tố cáo thuộc thẩm quyền giải quyết của Chánh án Tòa án nhân dân tối cao theo chức năng, nhiệm vụ, quyền hạn được giao;
 
+c) Xem xét việc giải quyết tố cáo mà Chánh án Tòa án nhân dân cấp cao, Chánh án Tòa án nhân dân cấp cấp tỉnh đã giải quyết nhưng có dấu hiệu vi phạm pháp luật; trường hợp có căn cứ cho rằng việc giải quyết có vi phạm pháp luật thì kiến nghị Chánh án Tòa án nhân dân tối cao xem xét, giải quyết lại.
 
-### Điều 18.5.TT.6.38. Một số quy định khác về trình tự, thủ tục giải quyết tố cáo
+2. Người đứng đầu đơn vị có chức năng thanh tra tại Tòa án nhân dân cấp cao có trách nhiệm sau đây:
+
+a) Tổ chức việc tiếp nhận, phân loại, đề xuất việc giải quyết tố cáo thuộc thẩm quyền của Chánh án Tòa án nhân dân cấp cao;
+
+b) Xác minh nội dung tố cáo, báo cáo kết quả xác minh, kiến nghị biện pháp xử lý tố cáo thuộc thẩm quyền giải quyết của người đứng đầu cơ quan, đơn vị khi được giao.
+
+3. Người đứng đầu đơn vị có chức năng thanh tra tại Tòa án nhân dân cấp tỉnh có trách nhiệm sau đây:
+
+a) Tổ chức việc tiếp nhận, phân loại, đề xuất việc giải quyết tố cáo thuộc thẩm quyền của Chánh án Tòa án nhân dân cấp tỉnh;
+
+b) Xác minh nội dung tố cáo, báo cáo kết quả xác minh, kiến nghị biện pháp xử lý tố cáo thuộc thẩm quyền giải quyết của Chánh án Tòa án nhân dân cấp tỉnh khi được giao;
+
+c) Xem xét việc giải quyết tố cáo mà Chánh án Tòa án nhân dân cấp huyện đã giải quyết nhưng có dấu hiệu vi phạm pháp luật; trường hợp có căn cứ cho rằng việc giải quyết tố cáo có vi phạm pháp luật thì kiến nghị Chánh án Tòa án nhân dân cấp tỉnh xem xét, giải quyết lại.
+
+4. Người hoặc bộ phận được giao thực hiện chức năng thanh tra, giải quyết khiếu nại, tố cáo tại Tòa án nhân dân cấp huyện có trách nhiệm sau đây:
+
+a) Tổ chức việc tiếp nhận, phân loại, đề xuất việc giải quyết tố cáo thuộc thẩm quyền của Chánh án Tòa án nhân dân cấp huyện;
+
+b) Xác minh nội dung tố cáo, báo cáo kết quả xác minh, kiến nghị biện pháp xử lý tố cáo thuộc thẩm quyền giải quyết của Chánh án Tòa án nhân dân cấp huyện khi được giao.
 
 Điều 18.5.TT.6.38. Một số quy định khác về trình tự, thủ tục giải quyết tố cáo
 
-**Chỉ mục:** 38
+(Điều 38 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000140000000000000000000802731800010003800
-
-**ID:** dk_00024946
-
----
-
-
-### Điều 18.5.LQ.15. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Viện kiểm sát nhân dân
+Thời hạn giải quyết tố cáo, rút tố cáo, tạm đình chỉ, đình chỉ việc giải quyết tố cáo, việc tố cáo tiếp và giải quyết lại vụ việc tố cáo, giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết và một số quy định khác về trình tự, thủ tục giải quyết tố cáo chưa được quy định tại Thông tư này được thực hiện theo quy định của Luật Tố cáo và các văn bản hướng dẫn thi hành Luật Tố cáo.
 
 Điều 18.5.LQ.15. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Viện kiểm sát nhân dân
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000010000000000000000001500000000000000000
+1. Viện trưởng Viện kiểm sát nhân dân cấp huyện có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của công chức do mình quản lý trực tiếp.
 
-**ID:** dk_00024947
+2. Viện trưởng Viện kiểm sát nhân dân cấp tỉnh có thẩm quyền sau đây:
 
----
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân cấp huyện, công chức khác do mình quản lý trực tiếp;
 
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của Viện kiểm sát nhân dân cấp huyện.
 
-### Điều 18.5.LQ.16. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Kiểm toán nhà nước
+3. Viện trưởng Viện kiểm sát nhân dân cấp cao có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của công chức do mình quản lý trực tiếp.
+
+4. Viện trưởng Viện kiểm sát nhân dân tối cao có thẩm quyền sau đây:
+
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của Viện trưởng, Phó Viện trưởng Viện kiểm nhân dân cấp cao; Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân cấp tỉnh; việc thực hiện nhiệm vụ, công vụ của công chức, viên chức khác do mình quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp, của Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh.
+
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ)
 
 Điều 18.5.LQ.16. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Kiểm toán nhà nước
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000010000000000000000001600000000000000000
+Tổng Kiểm toán nhà nước có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của công chức, viên chức, đơn vị trong Kiểm toán nhà nước.
 
-**ID:** dk_00024948
-
----
-
-
-### Điều 18.5.LQ.17. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan khác của Nhà nước
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ)
 
 Điều 18.5.LQ.17. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan khác của Nhà nước
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000010000000000000000001700000000000000000
+1. Ủy ban Thường vụ Quốc hội giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của đại biểu Quốc hội hoạt động chuyên trách; giải quyết tố cáo hành vi vi phạm pháp luật của đại biểu Quốc hội khác khi thực hiện nhiệm vụ đại biểu Quốc hội; giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu Văn phòng Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội.
 
-**ID:** dk_00024949
+2. Thường trực Hội đồng nhân dân có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của đại biểu Hội đồng nhân dân hoạt động chuyên trách; giải quyết tố cáo hành vi vi phạm pháp luật của đại biểu Hội đồng nhân dân khác khi thực hiện nhiệm vụ đại biểu Hội đồng nhân dân, trừ Chủ tịch, Phó Chủ tịch Hội đồng nhân dân cấp mình.
 
----
+Cơ quan có thẩm quyền phê chuẩn việc bầu Chủ tịch, Phó Chủ tịch Hội đồng nhân dân có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của Chủ tịch, Phó Chủ tịch Hội đồng nhân dân.
 
+3. Người đứng đầu cơ quan khác của Nhà nước có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cán bộ, công chức, viên chức do mình bổ nhiệm, quản lý trực tiếp và của cơ quan, tổ chức do mình quản lý trực tiếp.
 
-### Điều 18.5.LQ.18. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong đơn vị sự nghiệp công lập
+Tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu cơ quan khác của Nhà nước do người có thẩm quyền bổ nhiệm người đó giải quyết.
+
+(Điều này có nội dung liên quan đến Điều 44.15.LQ.18. Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ)
 
 Điều 18.5.LQ.18. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong đơn vị sự nghiệp công lập
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000010000000000000000001800000000000000000
+1. Người đứng đầu đơn vị sự nghiệp công lập có thẩm quyền sau đây:
 
-**ID:** dk_00024950
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người đứng đầu, cấp phó của người đứng đầu tổ chức, đơn vị trực thuộc, công chức, viên chức do mình tuyển dụng, bổ nhiệm, quản lý trực tiếp;
 
----
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của tổ chức, đơn vị do mình quản lý trực tiếp.
 
+2. Người đứng đầu cơ quan nhà nước quản lý đơn vị sự nghiệp công lập có thẩm quyền sau đây:
 
-### Điều 18.5.LQ.19. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người có chức danh, chức vụ trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ
+a) Giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu, cấp phó của người đứng đầu đơn vị sự nghiệp công lập, công chức, viên chức do mình bổ nhiệm, quản lý trực tiếp;
+
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của đơn vị sự nghiệp công lập do mình quản lý trực tiếp.
+
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ)
 
 Điều 18.5.LQ.19. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người có chức danh, chức vụ trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019, có nội dung được sửa đổi bởi Điều 217 Luật số 59/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 180050000000000030000010000000000000000001900000000000000000
+1. Người đứng đầu doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ có thẩm quyền sau đây:
 
-**ID:** dk_00024951
+a) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người đứng đầu, cấp phó của người đứng đầu đơn vị trực thuộc hoặc người khác do mình bổ nhiệm;
 
----
+b) Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của đơn vị trực thuộc do mình quản lý trực tiếp.
 
+2. Người đứng đầu cơ quan nhà nước được giao quản lý doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của Chủ tịch Hội đồng thành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, kiểm soát viên do mình bổ nhiệm, quản lý trực tiếp trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ.
 
-### Điều 18.5.LQ.20. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức chính trị, tổ chức chính trị - xã hội
+(Điều này có nội dung liên quan đến Điều 12.1.LQ.88. Doanh nghiệp nhà nước; Điều 12.1.LQ.217. Điều khoản thi hành; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ của Thông tư 145/2020/TT-BCA Quy định thẩm quyền, trình tự, thủ tục, biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí ban hành ngày 29/12/2020)
 
 Điều 18.5.LQ.20. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức chính trị, tổ chức chính trị - xã hội
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000010000000000000000002000000000000000000
+Cơ quan trung ương của tổ chức chính trị, tổ chức chính trị - xã hội căn cứ vào nguyên tắc xác định thẩm quyền quy định tại Điều 12 của Luật này hướng dẫn về thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức mình; hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của tổ chức, đơn vị do mình quản lý.
 
-**ID:** dk_00024952
-
----
-
-
-### Điều 18.5.TT.12.15. Xử lý đơn tố cáo đối với đảng viên
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.12. Nguyên tắc xác định thẩm quyền; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ)
 
 Điều 18.5.TT.12.15. Xử lý đơn tố cáo đối với đảng viên
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 05/2021/TT-TTCP Quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh ngày 01/10/2021 của Thanh tra Chính phủ, có hiệu lực thi hành kể từ ngày 15/11/2021)
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000200000000000000000000802778800050001500
+ Đơn tố cáo đối với đảng viên vi phạm Điều lệ Đảng, chủ trương, nghị quyết, chỉ thị, quy định, quy chế, kết luận của Đảng được chuyển đến cơ quan có thẩm quyền để xử lý theo quy định của Đảng.Điều 18.5.TT.12.16. Xử lý đơn tố cáo hành vi vi phạm pháp luật gây thiệt hại hoặc đe dọa gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cá nhân, cơ quan, tổ chức
 
-**ID:** dk_00024953
+(Điều 16 Thông tư số 05/2021/TT-TTCP, có hiệu lực thi hành kể từ ngày 15/11/2021)
 
----
+ Đơn tố cáo hành vi vi phạm pháp luật gây thiệt hại hoặc đe dọa gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cá nhân, cơ quan, tổ chức thì người xử lý đơn phải kịp thời báo cáo, tham mưu, đề xuất để người đứng đầu cơ quan, tổ chức, đơn vị áp dụng biện pháp cần thiết theo thẩm quyền hoặc thông báo cho cơ quan, tổ chức, đơn vị có thẩm quyền kịp thời áp dụng biện pháp ngăn chặn theo quy định của pháp luật.Điều 18.5.LQ.21. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức
 
+(Điều 21 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 18.5.TT.12.16. Xử lý đơn tố cáo hành vi vi phạm pháp luật gây thiệt hại hoặc đe dọa gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cá nhân, cơ quan, tổ chức
+Người đứng đầu cơ quan, tổ chức, đơn vị quản lý trực tiếp người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người đó trong việc thực hiện nhiệm vụ, công vụ.
 
-Điều 18.5.TT.12.16. Xử lý đơn tố cáo hành vi vi phạm pháp luật gây thiệt hại hoặc đe dọa gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cá nhân, cơ quan, tổ chức
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.6.22. Thẩm quyền giải quyết tố cáo; Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ)
 
-**Chỉ mục:** 16
+Mục 2
 
-**Mã phân cấp:** 18005000000000003000001000000000000000000200000000000000000000802778800050001600
+HÌNH THỨC TỐ CÁO, TIẾP NHẬN,  XỬ LÝ BAN ĐẦU THÔNG TIN TỐ CÁO
 
-**ID:** dk_00024954
+(Mục này có nội dung liên quan đến Điều 37.6.LQ.341. Thủ tục giải quyết tố cáo của Luật 93/2015/QH13 Tố tụng hành chính ban hành ngày 25/11/2015; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
----
+Điều 18.5.LQ.22. Hình thức tố cáo
 
+(Điều 22 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 18.5.LQ.21. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức
+Việc tố cáo được thực hiện bằng đơn hoặc được trình bày trực tiếp tại cơ quan, tổ chức có thẩm quyền.
 
-Điều 18.5.LQ.21. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo; Điều 18.5.TT.8.9. Hình thức tố cáo)
 
-**Chỉ mục:** 21
+Điều 18.5.LQ.23. Tiếp nhận tố cáo
 
-**Mã phân cấp:** 180050000000000030000010000000000000000002100000000000000000
+(Điều 23 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00024955
+1. Trường hợp tố cáo được thực hiện bằng đơn thì trong đơn tố cáo phải ghi rõ ngày, tháng, năm tố cáo; họ tên, địa chỉ của người tố cáo, cách thức liên hệ với người tố cáo; hành vi vi phạm pháp luật bị tố cáo; người bị tố cáo và các thông tin khác có liên quan. Trường hợp nhiều người cùng tố cáo về cùng một nội dung thì trong đơn tố cáo còn phải ghi rõ họ tên, địa chỉ, cách thức liên hệ với từng người tố cáo; họ tên của người đại diện cho những người tố cáo.
 
----
+Người tố cáo phải ký tên hoặc điểm chỉ vào đơn tố cáo.
 
+2. Trường hợp người tố cáo đến tố cáo trực tiếp tại cơ quan, tổ chức có thẩm quyền thì người tiếp nhận hướng dẫn người tố cáo viết đơn tố cáo hoặc ghi lại nội dung tố cáo bằng văn bản và yêu cầu người tố cáo ký tên hoặc điểm chỉ xác nhận vào văn bản, trong đó ghi rõ nội dung theo quy định tại khoản 1 Điều này. Trường hợp nhiều người cùng tố cáo về cùng một nội dung thì người tiếp nhận hướng dẫn người tố cáo cử đại diện viết đơn tố cáo hoặc ghi lại nội dung tố cáo bằng văn bản và yêu cầu những người tố cáo ký tên hoặc điểm chỉ xác nhận vào văn bản.
 
-### Điều 18.5.LQ.22. Hình thức tố cáo
+3. Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tố cáo có trách nhiệm tổ chức việc tiếp nhận tố cáo. Người tố cáo có trách nhiệm tố cáo đến đúng địa chỉ tiếp nhận tố cáo mà cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tố cáo đã công bố.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 180050000000000030000020000000000000000002200000000000000000
-
-**ID:** dk_00024957
-
----
-
-
-### Điều 18.5.LQ.23. Tiếp nhận tố cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 180050000000000030000020000000000000000002300000000000000000
-
-**ID:** dk_00024958
-
----
-
-
-### Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.9. Quyền và nghĩa vụ của người tố cáo; Điều 18.5.LQ.29. Thụ lý tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 18005000000000003000002000000000000000000230000000000000000000402683900220000600
+1. Thủ trưởng Công an các cấp có trách nhiệm:
 
-**ID:** dk_00024959
+a) Tiếp nhận hoặc phân công cán bộ thuộc quyền quản lý tiếp nhận thông tin tố cáo;
 
----
+b) Bố trí địa điểm (đối với đơn vị Công an có trụ sở độc lập) và cán bộ tiếp công dân để tiếp nhận thông tin tố cáo.
 
+2. Thanh tra Công an các cấp hoặc người được Thủ trưởng Công an các cấp phân công tiếp nhận thông tin tố cáo có trách nhiệm giúp Thủ trưởng Công an cùng cấp tiếp nhận, phân loại, đề xuất xử lý thông tin tố cáo theo quy định của pháp luật.
 
-### Điều 18.5.TT.6.24. Giải quyết việc tiếp nhận tố cáo
+3. Thủ trưởng Công an các cấp và người được giao nhiệm vụ khi tiếp nhận thông tin tố cáo, xử lý như sau:
+
+a) Trường hợp tiếp nhận đơn tố cáo ghi rõ họ tên, địa chỉ, có chữ ký trực tiếp hoặc điểm chỉ của người tố cáo thì người tiếp nhận tố cáo phân loại, xử lý theo quy định tại Điều 24, Điều 26 của Luật Tố cáo; trường hợp người tố cáo đến tố cáo trực tiếp hoặc nhiều người đến tố cáo về cùng một nội dung thì người tiếp nhận thực hiện theo quy định tại khoản 2 Điều 23, Điều 24, Điều 26 Luật Tố cáo;
+
+b) Trường hợp tiếp nhận thông tin có nội dung tố cáo nhưng không rõ họ tên, địa chỉ của người tố cáo hoặc qua kiểm tra, xác minh không xác định được người tố cáo hoặc người tố cáo sử dụng họ tên của người khác để tố cáo hoặc thông tin có nội dung tố cáo được phản ánh không theo hình thức quy định tại Điều 22 của Luật Tố cáo thì xử lý theo quy định tại Điều 25 của Luật Tố cáo và Nghị định quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo;
+
+c) Trường hợp tiếp nhận thông tin tố cáo mà người tố cáo có căn cứ cho rằng việc giải quyết tố cáo không đúng quy định của pháp luật thì chuyển đơn hoặc hướng dẫn người tố cáo đến Thủ trưởng Công an cấp trên trực tiếp của người đã giải quyết tố cáo để xem xét, xử lý. Thủ trưởng Công an cấp trên trực tiếp của người đã giải quyết tố cáo xem xét, xử lý hoặc giải quyết theo quy định tại khoản 2, 3, 4 Điều 37 của Luật Tố cáo;
+
+d) Trường hợp tiếp nhận thông tin tố cáo về việc quá thời hạn theo quy định mà tố cáo chưa được giải quyết thì Thủ trưởng Công an cấp trên trực tiếp của người có thẩm quyền giải quyết tố cáo xử lý theo quy định tại khoản 2, 4 Điều 38 của Luật Tố cáo;
+
+đ) Trường hợp tiếp nhận, xử lý thông tin tố cáo nếu xét thấy hành vi bị tố cáo có dấu hiệu tội phạm hoặc cần áp dụng biện pháp ngăn chặn hành vi vi phạm thì xử lý theo quy định tại Điều 27 của Luật Tố cáo.
+
+4. Cơ quan, đơn vị, cán bộ, chiến sĩ Công an có thẩm quyền trong việc tiếp nhận, xử lý thông tin tố cáo mà không tiếp nhận, xử lý theo đúng quy định của pháp luật hoặc thiếu trách nhiệm trong việc tiếp nhận, xử lý thì phải bị xử lý nghiêm minh theo quy định của pháp luật và quy định của Bộ Công an.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.22. Hình thức tố cáo; Điều 18.5.LQ.24. Xử lý ban đầu thông tin tố cáo; Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo; Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến; Điều 18.5.LQ.27. Xử lý tố cáo có dấu hiệu của tội phạm, áp dụng biện pháp ngăn chặn hành vi vi phạm; Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo; Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết)
 
 Điều 18.5.TT.6.24. Giải quyết việc tiếp nhận tố cáo
 
-**Chỉ mục:** 24
+(Điều 24 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802731800010002400
+1. Việc tố cáo được thực hiện bằng đơn hoặc được trình bày trực tiếp tại địa điểm tiếp công dân của các Tòa án nhân dân.
 
-**ID:** dk_00024960
+2. Chánh án Tòa án nhân dân các cấp có trách nhiệm tiếp nhận hoặc phân công cơ quan, tổ chức, cá nhân thuộc quyền quản lý tiếp nhận tố cáo; bố trí địa điểm và cán bộ tiếp công dân để tiếp nhận tố cáo.
 
----
+3. Khi tiếp nhận tố cáo, người tiếp nhận xử lý như sau:
 
+a) Tố cáo được thực hiện bằng đơn thì thực hiện theo quy định tại khoản 1 Điều 23 của Luật Tố cáo. Trong trường hợp đơn tố cáo hoặc nội dung đơn tố cáo chưa rõ và thông tin, tài liệu, chứng cứ do người tố cáo cung cấp chưa đầy đủ, thì người tiếp nhận đề xuất người giải quyết tố cáo yêu cầu người tố cáo cung cấp bổ sung thông tin, tài liệu, chứng cứ để làm rõ nội dung tố cáo hoặc thông tin về người tố cáo;
 
-### Điều 18.5.TT.8.5. Tiếp nhận thông tin tố cáo
+b) Trường hợp người tố cáo đến tố cáo trực tiếp tại địa điểm tiếp công dân của Tòa án nhân dân thì thực hiện theo quy định tại khoản 2 Điều 23 của Luật Tố cáo. Trong trường hợp nhiều người cùng tố cáo về cùng một nội dung, cùng có mặt tại địa điểm tiếp công dân của Tòa án và cùng yêu cầu được trình bày nội dung tố cáo thì người tiếp nhận hướng dẫn những người tố cáo thống nhất cử một người đại diện trình bày nội dung tố cáo. Việc cử đại diện trình bày nội dung tố cáo được lập biên bản, có ký tên hoặc điểm chỉ của những người tố cáo.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 18.5.TT.6.26. Giải quyết việc tiếp nhận, xử lý thông tin có nội dung tố cáo; Điều 18.5.TT.6.27. Điều kiện thụ lý tố cáo)
 
-**Chỉ mục:** 5
+Điều 18.5.TT.8.5. Tiếp nhận thông tin tố cáo
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850000500
+(Điều 5 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**ID:** dk_00024961
+ Cá nhân, cơ quan, đơn vị Công an các cấp khi tiếp nhận thông tin tố cáo phải vào sổ và nhập vào hệ thống cơ sở dữ liệu (nếu có) để quản lý, theo dõi; đóng dấu “Đến” và ghi rõ ngày, tháng, năm nhận tố cáo. Cán bộ xử lý hoặc người có thẩm quyền giải quyết tố cáo có trách nhiệm bảo quản, không để hư hỏng, thất lạc, không làm thay đổi hình thức và nội dung đơn tố cáo, văn bản hoặc các tài liệu khác ghi thông tin tố cáo và giữ bí mật thông tin người tố cáo.Điều 18.5.TT.8.6. Xử lý ban đầu thông tin tố cáo thuộc thẩm quyền, trách nhiệm của Công an nhân dân
 
----
+(Điều 6 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
+ 1. Xử lý thông tin tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ:
 
-### Điều 18.5.TT.8.6. Xử lý ban đầu thông tin tố cáo thuộc thẩm quyền, trách nhiệm của Công an nhân dân
+ a) Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được thông tin tố cáo thuộc thẩm quyền giải quyết, Thủ trưởng cơ quan, đơn vị Công an phải tổ chức kiểm tra, xác minh họ, tên, địa chỉ của người tố cáo và điều kiện thụ lý tố cáo để quyết định việc thụ lý hoặc không thụ lý giải quyết tố cáo; trường hợp tố cáo thuộc thẩm quyền giải quyết và đủ điều kiện thụ lý theo quy định tại khoản 1 Điều 29 Luật Tố cáo thì thụ lý tố cáo, trường hợp tố cáo không đủ điều kiện thụ lý thì không thụ lý và phải thông báo bằng văn bản cho người tố cáo biết việc thụ lý hoặc không thụ lý; trường hợp phải kiểm tra, xác minh tại nhiều địa điểm hoặc phải ủy quyền cho cơ quan, tổ chức có thẩm quyền kiểm tra, xác minh thì thời hạn có thể dài hơn nhưng không quá 10 ngày làm việc;
 
-Điều 18.5.TT.8.6. Xử lý ban đầu thông tin tố cáo thuộc thẩm quyền, trách nhiệm của Công an nhân dân
+ b) Đối với tố cáo không thuộc thẩm quyền giải quyết của mình, nhưng thuộc trách nhiệm giải quyết của Công an nhân dân, thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được tố cáo, cơ quan, đơn vị tiếp nhận tố cáo phải chuyển đến Thủ trưởng cơ quan, đơn vị Công an có thẩm quyền giải quyết theo quy định tại Điều 5 Nghị định số 22/2019/NĐ-CP để xem xét, giải quyết; đồng thời thông báo bằng văn bản cho người tố cáo và cơ quan Thanh tra Công an cùng cấp với cơ quan, đơn vị có thẩm quyền giải quyết tố cáo biết;
 
-**Chỉ mục:** 6
+ c) Trường hợp đơn tố cáo không thuộc thẩm quyền giải quyết của mình và được gửi đồng thời cho nhiều cơ quan, đơn vị, cá nhân, trong đó có cơ quan, đơn vị, cá nhân có thẩm quyền giải quyết tố cáo trong Công an nhân dân hoặc đã được hướng dẫn nhưng người tố cáo vẫn gửi đơn tố cáo đến thì lưu đơn, không xử lý;
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850000600
+ d) Trường hợp người tố cáo không trực tiếp tố cáo mà ủy quyền cho người khác tố cáo hoặc có căn cứ xác định người tố cáo không đủ năng lực hành vi dân sự mà không có người đại diện theo quy định của pháp luật thì lưu đơn, không xử lý;
 
-**ID:** dk_00024962
+ đ) Trường hợp tố cáo đã được giải quyết đúng quy định của pháp luật, được kiểm tra, rà soát, thông báo bằng văn bản nhưng người tố cáo tiếp tục tố cáo mà không cung cấp thông tin, tình tiết mới thì không xem xét, xử lý và lưu đơn;
 
----
+ e) Trường hợp người tố cáo có căn cứ cho rằng việc giải quyết tố cáo không đúng quy định của pháp luật hoặc quá thời hạn quy định mà tố cáo không được giải quyết; cơ quan, đơn vị Công an cấp dưới có dấu hiệu không khách quan trong việc giải quyết tố cáo thì chuyển đơn hoặc hướng dẫn người tố cáo đến Thủ trưởng cơ quan, đơn vị Công an cấp trên trực tiếp của người giải quyết tố cáo để xem xét, xử lý theo quy định tại khoản 1 Điều 37, khoản 1, 5 Điều 38 Luật Tố cáo.
 
+ 2. Xử lý thông tin tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự:
 
-### Điều 18.5.TT.8.7. Xử lý thông tin tố cáo không thuộc thẩm quyền, trách nhiệm giải quyết của Công an nhân dân
+ a) Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thuộc thẩm quyền quản lý của cơ quan, đơn vị Công an cấp nào thì Thủ trưởng cơ quan, đơn vị Công an cấp đó có trách nhiệm xem xét, giải quyết;
+
+ b) Trường hợp tố cáo không thuộc thẩm quyền quản lý của cơ quan, đơn vị mình thì chuyển đến Thủ trưởng cơ quan, đơn vị Công an có thẩm quyền xem xét, giải quyết;
+
+ c) Cán bộ, chiến sĩ Công an không giữ chức vụ có thẩm quyền xử phạt vi phạm hành chính khi đang thi hành nhiệm vụ, công vụ nếu tiếp nhận thông tin tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay thuộc phạm vi nhiệm vụ của mình thì phải kịp thời báo cáo Thủ trưởng cơ quan, đơn vị mình biết và tiến hành ngay việc xác minh nội dung tố cáo, áp dụng biện pháp cần thiết để ngăn chặn, chấm dứt hành vi vi phạm pháp luật, đồng thời lập biên bản về hành vi vi phạm pháp luật.
+
+ 3. Xử lý thông tin tố cáo hành vi vi phạm pháp luật của cán bộ, chiến sĩ Công an trong tố tụng hình sự:
+
+ a) Tố cáo Phó Thủ trưởng, Điều tra viên, Cán bộ điều tra thuộc Cơ quan điều tra mà hành vi bị tố cáo không liên quan đến hành vi giữ người trong trường hợp khẩn cấp, bắt, tạm giữ, tạm giam trong giai đoạn điều tra thì chuyển đến Thủ trưởng Cơ quan điều tra cùng cấp của người bị tố cáo. Trường hợp người bị tố cáo là Thủ trưởng Cơ quan điều tra thì chuyển đến Thủ trưởng Cơ quan điều tra cấp trên trực tiếp xem xét, giải quyết theo quy định tại Điều 481 Bộ luật Tố tụng hình sự;
+
+ b) Tố cáo liên quan đến hành vi giữ người trong trường hợp khẩn cấp, bắt, tạm giữ, tạm giam trong giai đoạn điều tra của Thủ trưởng, Phó Thủ trưởng, Điều tra viên và Cán bộ điều tra thuộc Cơ quan điều tra thì chuyển ngay đến Viện trưởng Viện kiểm sát cùng cấp xem xét, giải quyết theo quy định tại khoản 4 Điều 481 Bộ luật Tố tụng hình sự;
+
+ c) Tố cáo hành vi tố tụng hình sự của cán bộ, chiến sĩ Công an được giao nhiệm vụ tiến hành một số hoạt động điều tra thì chuyển đến Viện kiểm sát có thẩm quyền thực hành quyền công tố, kiểm sát điều tra vụ việc liên quan để xem xét, giải quyết theo quy định tại khoản 1 Điều 481 Bộ luật Tố tụng hình sự.
+
+ 4. Tố cáo hành vi vi phạm pháp luật trong quản lý, thi hành tạm giữ, tạm giam của Thủ trưởng, Phó Thủ trưởng, cán bộ, chiến sĩ thuộc Cơ quan quản lý tạm giữ, tạm giam và Cơ quan thi hành tạm giữ, tạm giam cấp nào thì chuyển đến Viện trưởng Viện kiểm sát nhân dân cùng cấp xem xét, giải quyết.
+
+ 5. Xử lý thông tin tố cáo hành vi vi phạm pháp luật của cán bộ, chiến sĩ Công an trong thi hành án hình sự:
+
+ a) Tố cáo hành vi vi phạm pháp luật trong thi hành án hình sự của Phó Thủ trưởng, cán bộ, chiến sĩ Công an thuộc Cơ quan thi hành án hình sự cấp nào thì chuyển đến Thủ trưởng Cơ quan thi hành án hình sự Công an cấp đó xem xét, giải quyết;
+
+ b) Tố cáo hành vi vi phạm pháp luật trong thi hành án hình sự của Thủ trưởng Cơ quan thi hành án hình sự Công an cấp nào thì chuyển đến Thủ trưởng Công an cấp đó xem xét, giải quyết. Nếu người bị tố cáo là Thủ trưởng Cơ quan quản lý thi hành án hình sự thuộc Bộ Công an thì chuyển đến Bộ trưởng Bộ Công an xem xét, giải quyết.
+
+ 6. Tố cáo cán bộ, chiến sĩ Công an vi phạm các quy định khác của Bộ Công an thuộc thẩm quyền giải quyết của Thủ trưởng cơ quan, đơn vị Công an cấp nào thì chuyển đến Thủ trưởng Công an cấp đó hoặc Thủ trưởng Công an cấp có thẩm quyền theo quy định của Bộ Công an xem xét, giải quyết theo trình tự, thủ tục được quy định tại Điều 8 Nghị định số 22/2019/NĐ-CP và quy định của Thông tư này. Nguyên tắc xác định thẩm quyền giải quyết tố cáo thực hiện theo Điều 8 của Thông tư này, trừ những nội dung tố cáo thuộc lĩnh vực Bộ Công an có quy định khác.
+
+ 7. Tố cáo hành vi vi phạm pháp luật có dấu hiệu tội phạm phải chuyển ngay đến cơ quan điều tra có thẩm quyền giải quyết theo quy định của Bộ luật Tố tụng hình sự.(Điều này có nội dung liên quan đến Điều 37.7.LQ.481. Thẩm quyền và thời hạn giải quyết tố cáo; Điều 18.5.LQ.29. Thụ lý tố cáo; Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo; Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết của Luật 25/2018/QH14 Tố cáo ban hành ngày 12/06/2018; Điều 18.5.NĐ.2.8. Trình tự, thủ tục, thời hạn giải quyết tố cáo của Nghị định 22/2019/NĐ-CP Quy định về tố cáo và giải quyết tố cáo trong Công an nhân dân ban hành ngày 25/02/2019)
 
 Điều 18.5.TT.8.7. Xử lý thông tin tố cáo không thuộc thẩm quyền, trách nhiệm giải quyết của Công an nhân dân
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850000700
+ 1. Trong thời hạn 05 ngày làm việc, kể từ ngày cơ quan, đơn vị Công an nhận được thông tin tố cáo, nếu không thuộc thẩm quyền thì phải chuyển đến cơ quan, người có thẩm quyền xem xét, giải quyết như sau:
 
-**ID:** dk_00024963
+ a) Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức ngoài Công an nhân dân nhưng không có dấu hiệu tội phạm hoặc tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực, không thuộc trách nhiệm giải quyết của Công an thì chuyển đến người đứng đầu cơ quan, đơn vị có thẩm quyền quản lý cán bộ, công chức, viên chức đó xem xét, giải quyết theo quy định tại Điều 12 Luật Tố cáo hoặc chuyển đến cơ quan quản lý nhà nước có thẩm quyền theo quy định tại khoản 1 Điều 41 Luật Tố cáo và thông báo cho người tố cáo biết;
 
----
+ b) Trường hợp người tố cáo đến tố cáo trực tiếp thì hướng dẫn người tố cáo đến tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền xem xét, giải quyết.
 
+ 2. Trường hợp nhận được thông tin tố cáo không thuộc trách nhiệm giải quyết của Công an nhân dân mà tố cáo đó được gửi đồng thời đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết; tố cáo trùng nội dung đã được hướng dẫn chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết thì lưu đơn, không xử lý.(Điều này có nội dung liên quan đến Điều 18.5.LQ.12. Nguyên tắc xác định thẩm quyền; Điều 18.5.LQ.41. Nguyên tắc xác định thẩm quyền)
 
-### Điều 18.5.TT.8.9. Hình thức tố cáo
+Điều 18.5.TT.8.9. Hình thức tố cáo
 
-*Nội dung chưa có sẵn*
+(Điều 9 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Chỉ mục:** 9
+ 1. Việc tố cáo được thực hiện bằng đơn hoặc trình bày trực tiếp tại cơ quan, đơn vị Công an có thẩm quyền theo quy định tại Điều 22 và khoản 1, 2 Điều 23 Luật Tố cáo.
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850000900
-
-**ID:** dk_00024964
-
----
-
-
-### Điều 18.5.TT.8.14. Giải quyết tố cáo có nội dung khiếu nại
+ 2. Trường hợp phản ánh hành vi tham nhũng của cán bộ, chiến sĩ Công an qua phương tiện thông tin đại chúng, đường dây điện thoại nóng hoặc qua cổng thông tin điện tử thì xử lý theo quy định của Chính phủ và Bộ Công an về công tác phòng, chống tham nhũng.(Điều này có nội dung liên quan đến Điều 18.5.LQ.22. Hình thức tố cáo)
 
 Điều 18.5.TT.8.14. Giải quyết tố cáo có nội dung khiếu nại
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850001400
+ Trường hợp tố cáo có nội dung khiếu nại thì Thủ trưởng cơ quan, đơn vị Công an có thẩm quyền phải phân loại riêng nội dung tố cáo, nội dung khiếu nại để giải quyết theo trình tự, thủ tục giải quyết tố cáo và trình tự, thủ tục giải quyết khiếu nại. Trường hợp nội dung khiếu nại không thuộc thẩm quyền giải quyết của mình thì chuyển đến Thủ trưởng, người đứng đầu cơ quan, đơn vị có thẩm quyền xem xét, giải quyết theo quy định của pháp luật.Điều 18.5.TT.8.15. Tố cáo có nhiều nội dung, lĩnh vực, thuộc thẩm quyền giải quyết của nhiều cơ quan, đơn vị khác nhau
 
-**ID:** dk_00024965
+(Điều 15 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
----
+ Tố cáo có nhiều nội dung, lĩnh vực, thuộc thẩm quyền giải quyết của nhiều cơ quan, đơn vị khác nhau thì phân loại riêng nội dung tố cáo theo từng lĩnh vực để xử lý, giải quyết theo thẩm quyền, trình tự, thủ tục quy định của pháp luật về tố cáo ở lĩnh vực đó.Điều 18.5.TT.8.16. Trách nhiệm của Thủ trưởng Công an các cấp
 
+(Điều 16 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-### Điều 18.5.TT.8.15. Tố cáo có nhiều nội dung, lĩnh vực, thuộc thẩm quyền giải quyết của nhiều cơ quan, đơn vị khác nhau
+ Thủ trưởng Công an các cấp có trách nhiệm chỉ đạo công tác tiếp nhận, phân loại, xử lý, giải quyết và quản lý công tác giải quyết tố cáo thuộc phạm vi quản lý của mình.Điều 18.5.TT.8.17. Trách nhiệm của Cơ quan Thanh tra và cơ quan chức năng khác
 
-Điều 18.5.TT.8.15. Tố cáo có nhiều nội dung, lĩnh vực, thuộc thẩm quyền giải quyết của nhiều cơ quan, đơn vị khác nhau
+(Điều 17 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Chỉ mục:** 15
+ 1. Thanh tra Công an các cấp có trách nhiệm giúp Thủ trưởng Công an cùng cấp:
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850001500
+ a) Tiếp nhận, phân loại, xử lý; kiểm tra, xác minh, báo cáo kết quả xác minh nội dung tố cáo, kiến nghị biện pháp xử lý tố cáo thuộc thẩm quyền giải quyết của Thủ trưởng Công an cùng cấp khi được giao theo đúng quy định của pháp luật về tố cáo và quy định của Thông tư này;
 
-**ID:** dk_00024966
+ b) Đôn đốc, kiểm tra, hướng dẫn, nắm tình hình việc chấp hành pháp luật liên quan đến công tác tiếp nhận, xử lý, giải quyết và quản lý công tác giải quyết tố cáo thuộc thẩm quyền giải quyết của Thủ trưởng Công an cấp dưới;
 
----
+ c) Xem xét, kết luận việc giải quyết tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ và tố cáo khác mà Thủ trưởng Công an cấp dưới trực tiếp đã giải quyết nhưng có dấu hiệu vi phạm pháp luật, trừ tố cáo về tiêu chuẩn cán bộ;
 
+ d) Thực hiện công tác thanh tra đột xuất đối với đơn vị, cá nhân có dấu hiệu vi phạm pháp luật thuộc thẩm quyền quản lý của Thủ trưởng Công an cùng cấp theo yêu cầu của việc giải quyết tố cáo khi được giao.
 
-### Điều 18.5.TT.8.16. Trách nhiệm của Thủ trưởng Công an các cấp
+ 2. Cục Tổ chức cán bộ Bộ Công an có trách nhiệm:
 
-Điều 18.5.TT.8.16. Trách nhiệm của Thủ trưởng Công an các cấp
+ a) Tiếp nhận, phân loại, xử lý thông tin tố cáo từ các nguồn chuyển đến; kiểm tra, xác minh, báo cáo kết quả xác minh nội dung tố cáo, kiến nghị biện pháp xử lý tố cáo về tiêu chuẩn cán bộ, chiến sĩ Công an thuộc thẩm quyền giải quyết của Bộ trưởng Bộ Công an;
 
-**Chỉ mục:** 16
+ b) Phối hợp với Thanh tra Bộ Công an hoặc cơ quan chức năng cùng cấp xác minh, báo cáo kết quả xác minh nội dung tố cáo, kiến nghị biện pháp xử lý tố cáo vừa có nội dung liên quan đến tiêu chuẩn cán bộ, chiến sĩ Công an vừa có nội dung liên quan đến công tác chuyên môn của cán bộ, chiến sĩ Công an thuộc thẩm quyền giải quyết của Bộ trưởng Bộ Công an;
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850001600
+ c) Đôn đốc việc xác minh, kết luận việc giải quyết tố cáo liên quan đến tiêu chuẩn cán bộ, chiến sĩ Công an thuộc thẩm quyền giải quyết của Thủ trưởng Công an cấp dưới.
 
-**ID:** dk_00024967
+ 3. Cơ quan Tổ chức cán bộ Công an cấp tỉnh, đơn vị có chức năng làm công tác tổ chức cán bộ của đơn vị thuộc cơ quan bộ có trách nhiệm:
 
----
+ a) Tiếp nhận, phân loại, xử lý thông tin tố cáo từ các nguồn chuyển đến; kiểm tra, xác minh, báo cáo kết quả xác minh nội dung tố cáo, kiến nghị biện pháp xử lý tố cáo về tiêu chuẩn cán bộ, chiến sĩ Công an thuộc thẩm quyền giải quyết của Thủ trưởng Công an cùng cấp; thông báo kết quả xử lý tố cáo cho Cơ quan Thanh tra cùng cấp để theo dõi, quản lý;
 
+ b) Phối hợp với Cơ quan Thanh tra hoặc cơ quan chức năng cùng cấp xác minh, báo cáo kết quả xác minh nội dung tố cáo, kiến nghị biện pháp xử lý tố cáo vừa có nội dung liên quan đến tiêu chuẩn cán bộ, chiến sĩ Công an vừa có nội dung liên quan đến công tác chuyên môn của cán bộ, chiến sĩ Công an thuộc thẩm quyền giải quyết của Giám đốc Công an cấp tỉnh, Thủ trưởng đơn vị thuộc cơ quan bộ.
 
-### Điều 18.5.TT.8.17. Trách nhiệm của Cơ quan Thanh tra và cơ quan chức năng khác
+ 4. Văn phòng Bộ Công an, Phòng Tham mưu Công an cấp tỉnh có trách nhiệm:
 
-Điều 18.5.TT.8.17. Trách nhiệm của Cơ quan Thanh tra và cơ quan chức năng khác
+ a) Tiếp nhận và chuyển cho Cơ quan Thanh tra cùng cấp xử lý tố cáo từ các nguồn chuyển đến;
 
-**Chỉ mục:** 17
+ b) Tiếp nhận và chuyển đến Thủ trưởng cơ quan Công an có thẩm quyền giải quyết các tố cáo được phản ánh trên phương tiện thông tin đại chúng, cổng thông tin điện tử, đường dây điện thoại nóng (nếu có). Cơ quan Công an có thẩm quyền giải quyết phải thông báo kết quả giải quyết tố cáo trên cho cơ quan đã phản ánh, Cơ quan Thanh tra và Cơ quan Tổ chức cán bộ cùng cấp để thống nhất quản lý và phục vụ công tác quản lý cán bộ.
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850001700
+ 5. Cơ quan điều tra, Cơ quan quản lý tạm giữ, tạm giam, Cơ quan thi hành án hình sự các cấp trong Công an nhân dân có trách nhiệm tiếp nhận, giải quyết tố cáo thuộc lĩnh vực của mình và báo cáo Thủ trưởng cùng cấp kết quả giải quyết tố cáo; đồng thời thông báo cho Cơ quan Thanh tra cùng cấp để giúp Thủ trưởng theo dõi kết quả giải quyết.Điều 18.5.TT.10.7. Xử lý tố cáo không rõ họ tên, địa chỉ của người tố cáo
 
-**ID:** dk_00024968
+(Điều 7 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
----
+ Khi nhận được thông tin tố cáo quy định tại khoản 2 Điều 25 của Luật Tố cáo, Thủ trưởng cơ quan, đơn vị Công an có thẩm quyền giải quyết tố cáo tổ chức kiểm tra thông tin về người bị tố cáo, hành vi vi phạm pháp luật bị tố cáo, các vụ việc có dấu hiệu vi phạm pháp luật được nêu trong nội dung tố cáo và các thông tin khác có liên quan, nếu có tài liệu cụ thể về hành vi vi phạm pháp luật, người vi phạm và có cơ sở để xác minh thì tiến hành kiểm tra hoặc thanh tra đột xuất phục vụ công tác quản lý; nếu không có tài liệu cụ thể về hành vi vi phạm pháp luật hoặc không có cơ sở để xác minh thì không xem xét, xử lý.(Điều này có nội dung liên quan đến Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo)
 
+Điều 18.5.NĐ.3.7. Tiếp nhận, xử lý đơn tố cáo
 
-### Điều 18.5.TT.10.7. Xử lý tố cáo không rõ họ tên, địa chỉ của người tố cáo
+(Điều 7 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-Điều 18.5.TT.10.7. Xử lý tố cáo không rõ họ tên, địa chỉ của người tố cáo
+1. Tiếp nhận, xử lý đơn tố cáo thực hiện theo quy định tại các Điều 22, 23, 24, 25, 26, 27 Luật Tố cáo năm 2018.
 
-**Chỉ mục:** 7
+2. Tiếp nhận, xử lý đơn vừa có nội dung tố cáo,vừa có nội dung khiếu nại thực hiện theo khoản 3 Điều 25 Luật Tiếp công dân năm 2013.
 
-**Mã phân cấp:** 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802749101290000700
+(Điều này có nội dung liên quan đến Điều 18.4.LQ.25. Tiếp nhận và xử lý bước đầu khiếu nại, tố cáo, kiến nghị, phản ánh)
 
-**ID:** dk_00024969
+Điều 18.5.LQ.24. Xử lý ban đầu thông tin tố cáo
 
----
+(Điều 24 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+1. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được tố cáo, cơ quan, tổ chức, cá nhân có trách nhiệm vào sổ, phân loại, xử lý ban đầu thông tin tố cáo, kiểm tra, xác minh thông tin về người tố cáo và điều kiện thụ lý tố cáo; trường hợp phải kiểm tra, xác minh tại nhiều địa điểm hoặc phải ủy quyền cho cơ quan, tổ chức có thẩm quyền kiểm tra, xác minh thì thời hạn này có thể kéo dài hơn nhưng không quá 10 ngày làm việc.
 
-### Điều 18.5.NĐ.3.7. Tiếp nhận, xử lý đơn tố cáo
+Trường hợp đủ điều kiện thụ lý thì ra quyết định thụ lý tố cáo theo quy định tại Điều 29 của Luật này; trường hợp không đủ điều kiện thụ lý thì không thụ lý tố cáo và thông báo ngay cho người tố cáo biết lý do không thụ lý tố cáo.
 
-*Nội dung chưa có sẵn*
+2. Trường hợp tố cáo không thuộc thẩm quyền giải quyết của mình thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn tố cáo, phải chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết và thông báo cho người tố cáo. Trường hợp người tố cáo đến tố cáo trực tiếp thì cơ quan, tổ chức, cá nhân tiếp nhận tố cáo hướng dẫn người tố cáo đến tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết.
 
-**Chỉ mục:** 7
+3. Trường hợp tố cáo không thuộc thẩm quyền giải quyết của mình và được gửi đồng thời cho nhiều cơ quan, tổ chức, cá nhân, trong đó có cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết hoặc trường hợp đã hướng dẫn nhưng người tố cáo vẫn gửi tố cáo đến cơ quan, tổ chức, cá nhân không có thẩm quyền giải quyết thì cơ quan, tổ chức, cá nhân nhận được tố cáo không xử lý.
 
-**Mã phân cấp:** 18005000000000003000002000000000000000000230000000000000000000402686200280000700
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo)
 
-**ID:** dk_00024970
+Điều 18.5.TT.6.25. Phân loại và xử lý tố cáo
 
----
+(Điều 25 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
+1. Sau khi nhận được tố cáo, cơ quan, tổ chức, cá nhân có trách nhiệm vào sổ, phân loại, xử lý tố cáo theo quy định tại Điều 24 của Luật Tố cáo.
 
-### Điều 18.5.LQ.24. Xử lý ban đầu thông tin tố cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 180050000000000030000020000000000000000002400000000000000000
-
-**ID:** dk_00024971
-
----
-
-
-### Điều 18.5.TT.6.25. Phân loại và xử lý tố cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 18005000000000003000002000000000000000000240000000000000000000802731800010002500
-
-**ID:** dk_00024972
-
----
-
-
-### Điều 18.5.TT.12.14. Xử lý đơn tố cáo không thuộc thẩm quyền giải quyết
+2. Trường hợp tố cáo có nội dung tố cáo người giữ chức danh tư pháp (Chánh án, Phó Chánh án, Thẩm phán, Thẩm tra viên, Thư ký Tòa án) có hành vi vi phạm pháp luật trong hoạt động tố tụng thì bộ phận tiếp nhận, xử lý tố cáo báo cáo, đề xuất người có thẩm quyền xem xét, giải quyết theo quy định của pháp luật tố tụng hoặc chuyển cho cơ quan, tổ chức, cá nhân khác xem xét, giải quyết theo thẩm quyền.
 
 Điều 18.5.TT.12.14. Xử lý đơn tố cáo không thuộc thẩm quyền giải quyết
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 05/2021/TT-TTCP, có hiệu lực thi hành kể từ ngày 15/11/2021)
 
-**Mã phân cấp:** 18005000000000003000002000000000000000000240000000000000000000802778800050001400
+1. Đơn tố cáo không thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị mình thì người xử lý đơn đề xuất với người đứng đầu chuyển đơn và các thông tin, tài liệu kèm theo (nếu có) đến cơ quan, tổ chức, đơn vị có thẩm quyền giải quyết theo quy định của pháp luật. Việc chuyển đơn tố cáo được thực hiện theo Mẫu số 03 ban hành kèm theo Thông tư này. Việc chuyển đơn đến cơ quan có thẩm quyền chỉ thực hiện một lần đối với đơn tố cáo có cùng nội dung.
 
-**ID:** dk_00024973
+2. Đơn tố cáo thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị cấp dưới trực tiếp nhưng quá thời hạn theo quy định của Luật Tố cáo mà chưa được giải quyết thì người xử lý đơn đề xuất người đứng đầu cơ quan, tổ chức, đơn vị ra văn bản yêu cầu người đứng đầu cơ quan, tổ chức, đơn vị cấp dưới trực tiếp báo cáo về quá trình giải quyết tố cáo, lý do chậm giải quyết, xác định trách nhiệm giải quyết tố cáo và phải báo cáo kết quả giải quyết.
 
----
-
-
-### Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo
+Mau so 03 Phieu chuyen don to cao.docx
 
 Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000020000000000000000002500000000000000000
+1. Khi nhận được thông tin có nội dung tố cáo nhưng không rõ họ tên, địa chỉ của người tố cáo hoặc qua kiểm tra, xác minh không xác định được người tố cáo hoặc người tố cáo sử dụng họ tên của người khác để tố cáo hoặc thông tin có nội dung tố cáo được phản ánh không theo hình thức quy định tại Điều 22 của Luật này thì cơ quan, tổ chức, cá nhân có thẩm quyền không xử lý theo quy định của Luật này.
 
-**ID:** dk_00024974
+2. Trường hợp thông tin có nội dung tố cáo quy định tại khoản 1 Điều này có nội dung rõ ràng về người có hành vi vi phạm pháp luật, có tài liệu, chứng cứ cụ thể về hành vi vi phạm pháp luật và có cơ sở để thẩm tra, xác minh thì cơ quan, tổ chức, cá nhân tiếp nhận tiến hành việc thanh tra, kiểm tra theo thẩm quyền hoặc chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền để tiến hành việc thanh tra, kiểm tra phục vụ cho công tác quản lý.
 
----
-
-
-### Điều 18.5.TT.6.26. Giải quyết việc tiếp nhận, xử lý thông tin có nội dung tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.22. Hình thức tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo; Điều 18.5.NĐ.4.20. Xử lý thông tin có nội dung tố cáo và tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến; Điều 18.5.TT.10.7. Xử lý tố cáo không rõ họ tên, địa chỉ của người tố cáo)
 
 Điều 18.5.TT.6.26. Giải quyết việc tiếp nhận, xử lý thông tin có nội dung tố cáo
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 18005000000000003000002000000000000000000250000000000000000000802731800010002600
+1. Khi tiếp nhận, xử lý thông tin có nội dung tố cáo theo quy định tại khoản 1 Điều 25 của Luật Tố cáo thì cơ quan, tổ chức, cá nhân tiếp nhận xử lý như sau:
 
-**ID:** dk_00024975
+a) Người tiếp nhận vào sổ đăng ký, phân loại, nghiên cứu nội dung tố cáo, đánh giá tính chất, mức độ vụ việc, báo cáo kết quả xử lý bước đầu thông tin có nội dung tố cáo cho người giải quyết tố cáo trong thời hạn 03 ngày làm việc, kể từ ngày tiếp nhận thông tin có nội dung tố cáo;
 
----
+b) Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được báo cáo kết quả xử lý bước đầu thông tin có nội dung tố cáo nếu nội dung tố cáo thuộc thẩm quyền, trách nhiệm của mình thì người giải quyết tố cáo phải quyết định việc thẩm tra, xác minh nội dung tố cáo hoặc quyết định tiến hành thanh tra, kiểm tra theo thẩm quyền phục vụ cho công tác quản lý;
 
+c) Trường hợp thông tin có nội dung tố cáo không thuộc thẩm quyền, trách nhiệm của mình thì phải chuyển thông tin đến cơ quan, tổ chức, cá nhân có thẩm quyền xem xét, quyết định trong thời hạn 05 ngày làm việc, kể từ ngày tiếp nhận thông tin có nội dung tố cáo;
 
-### Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến
+d) Trình tự, thủ tục tiến hành thanh tra, kiểm tra và việc công khai kết quả thanh tra, kiểm tra được thực hiện theo quy định của pháp luật về thanh tra, kiểm tra và pháp luật khác có liên quan.
+
+2. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến thuộc trường hợp quy định tại điểm b khoản 1 Điều 26 của Luật Tố cáo thì xử lý như sau:
+
+a) Trường hợp tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến Tòa án nhân dân tối cao thì Ban Thanh tra Tòa án nhân dân tối cao phải tiến hành phân loại, đánh giá tính chất, mức độ vụ việc, nếu thuộc thẩm quyền, trách nhiệm của mình thì tham mưu cho Chánh án Tòa án nhân dân tối cao thực hiện thẩm tra, xác minh nội dung tố cáo, báo cáo kết quả thẩm tra, xác minh hoặc đề xuất Chánh án Tòa án nhân dân tối cao tiến hành thanh tra, kiểm tra theo thẩm quyền phục vụ cho công tác quản lý;
+
+b) Trường hợp tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến Tòa án nhân dân cấp cao, Tòa án nhân dân cấp tỉnh, Tòa án nhân dân cấp huyện thì đơn vị có chức năng thanh tra phải tiến hành phân loại, đánh giá tính chất, mức độ vụ việc, nếu thuộc thẩm quyền, trách nhiệm của mình thì tham mưu cho lãnh đạo Tòa án cùng cấp thực hiện thẩm tra, xác minh nội dung tố cáo, báo cáo kết quả thẩm tra, xác minh hoặc đề xuất lãnh đạo tiến hành thanh tra, kiểm tra theo thẩm quyền phục vụ cho công tác quản lý;
+
+c) Trình tự, thủ tục tiến hành thanh tra, kiểm tra và việc công khai kết quả thanh tra, kiểm tra được thực hiện theo quy định của pháp luật về thanh tra, kiểm tra và pháp luật khác có liên quan.
+
+3. Tiếp nhận, xử lý đơn kiến nghị, phản ánh, đề nghị, yêu cầu có nội dung tố cáo thì xử lý như sau:
+
+a) Đơn kiến nghị, phản ánh, đề nghị, yêu cầu có nội dung tố cáo thuộc thẩm quyền giải quyết của Tòa án nhân dân thì người xử lý đơn đề xuất người có thẩm quyền giải quyết theo quy định;
+
+b) Trường hợp đơn kiến nghị, phản ánh, đề nghị, yêu cầu không có nội dung tố cáo hoặc có nội dung tố cáo nhưng không thuộc thẩm quyền giải quyết của Tòa án nhân dân thì người xử lý đơn đề xuất người có thẩm quyền giải quyết trả lại đơn cho người gửi đơn hoặc chuyển đơn cho cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết theo quy định và thông báo cho người gửi đơn biết lý do không thụ lý giải quyết.
+
+4. Giải quyết việc tiếp nhận, xử lý tố cáo có dấu hiệu của tội phạm thì xử lý như sau:
+
+a) Trong quá trình tiếp nhận, xử lý tố cáo nếu thấy hành vi bị tố cáo có dấu hiệu tội phạm thì người tiếp nhận báo cáo ngay với người có thẩm quyền giải quyết tố cáo quy định tại Điều 14 của Luật Tố cáo và Điều 22 của Thông tư này xem xét, xử lý theo thẩm quyền. Sau khi xem xét nếu tố cáo có dấu hiệu của tội phạm thì người giải quyết tố cáo ban hành văn bản, chuyển hồ sơ, tài liệu đến Cơ quan điều tra hoặc Viện kiểm sát nhân dân có thẩm quyền để xử lý theo quy định của pháp luật.
+
+Trường hợp công chức, người lao động bị tố cáo thuộc quyền quản lý của Tòa án nhân dân cấp cao, Tòa án nhân dân cấp tỉnh, Tòa án nhân dân cấp huyện có dấu hiệu của tội phạm, khi chuyển hồ sơ cho Cơ quan điều tra hoặc Viện kiểm sát nhân dân, đồng thời báo cáo Chánh án Tòa án nhân dân tối cao (thông qua Ban Thanh tra).
+
+b) Sau khi chuyển hồ sơ, tài liệu có dấu hiệu tội phạm cho Cơ quan điều tra hoặc Viện kiểm sát nhân dân có thẩm quyền xử lý theo quy định của pháp luật, Tòa án nhân dân trực tiếp quản lý công chức, người lao động bị tố cáo phối hợp với Cơ quan điều tra hoặc Viện kiểm sát nhân dân để theo dõi, nắm tình hình, giải quyết hoặc đề xuất người có thẩm quyền xem xét, giải quyết, áp dụng các biện pháp ngăn chặn theo quy định của pháp luật.
+
+5. Tiếp nhận, xử lý tố cáo có nhiều nội dung hoặc thuộc thẩm quyền giải quyết của nhiều cơ quan, đơn vị trong Tòa án nhân dân thì xử lý như sau:
+
+a) Tố cáo có nhiều nội dung, trong đó có nội dung thuộc thẩm quyền giải quyết của Tòa án cấp mình, có nội dung thuộc thẩm quyền giải quyết của cơ quan khác, thì thụ lý nội dung thuộc thẩm quyền giải quyết của Tòa án cấp mình, đồng thời có văn bản hướng dẫn người tố cáo trình bày nội dung tố cáo khác gửi cơ quan có thẩm quyền giải quyết;
+
+b) Trường hợp tố cáo có nhiều nội dung nhưng đều thuộc thẩm quyền giải quyết của Tòa án cấp mình, mà từng nội dung này lại do các đơn vị khác nhau xem xét, thì đơn vị thực hiện chức năng thanh tra đề xuất Chánh án phân công đơn vị chủ trì, phối hợp với các đơn vị có liên quan trong việc giải quyết tố cáo, trả lời người tố cáo;
+
+c) Trường hợp đơn vừa có nội dung tố cáo, vừa có nội dung đề nghị xem xét giải quyết theo thủ tục giám đốc thẩm, tái thẩm thì xử lý như sau:
+
+Trường hợp đơn vừa có nội dung tố cáo, vừa có nội dung đề nghị xem xét giải quyết theo thủ tục giám đốc thẩm, tái thẩm thì đề xuất người có thẩm quyền xem xét giải quyết nội dung tố cáo theo quy định. Đối với nội dung đề nghị xem xét giải quyết theo thủ tục giám đốc thẩm, tái thẩm thì đề xuất người có thẩm quyền chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền để xem xét giải quyết theo quy định của pháp luật.
+
+Trường hợp đơn vừa có nội dung tố cáo, vừa có nội dung đề nghị xem xét giải quyết theo thủ tục giám đốc thẩm, tái thẩm nhưng hai nội dung này có liên quan thì đơn vị có chức năng thanh tra phối hợp với các đơn vị có chức năng giám đốc, kiểm tra để xem xét, giải quyết nội dung tố cáo theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.14. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Tòa án nhân dân; Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến; Điều 18.5.TT.6.24. Giải quyết việc tiếp nhận tố cáo)
 
 Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000020000000000000000002600000000000000000
+1. Khi nhận được tố cáo của cá nhân do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến thì cơ quan, tổ chức, cá nhân tiếp nhận có trách nhiệm tiến hành phân loại và xử lý như sau:
 
-**ID:** dk_00024976
+a) Trường hợp tố cáo thuộc thẩm quyền giải quyết và đủ điều kiện thụ lý thì thụ lý tố cáo; trường hợp không thuộc thẩm quyền giải quyết thì chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết;
 
----
+b) Trường hợp tố cáo không đủ điều kiện thụ lý theo quy định tại Điều 29 của Luật này thì không thụ lý; trường hợp tố cáo không đủ điều kiện thụ lý nhưng có nội dung, thông tin rõ ràng về người có hành vi vi phạm, có tài liệu, chứng cứ cụ thể về hành vi vi phạm pháp luật và có cơ sở để thẩm tra, xác minh thì cơ quan, tổ chức, cá nhân tiếp nhận tiến hành việc thanh tra, kiểm tra theo thẩm quyền phục vụ cho công tác quản lý.
 
+2. Kết quả xử lý tố cáo theo quy định tại khoản 1 Điều này được thông báo bằng văn bản cho cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền đã chuyển tố cáo trong thời hạn 20 ngày kể từ ngày nhận được tố cáo.
 
-### Điều 18.5.NĐ.4.20. Xử lý thông tin có nội dung tố cáo và tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.29. Thụ lý tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo; Điều 18.5.NĐ.4.20. Xử lý thông tin có nội dung tố cáo và tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến; Điều 18.5.TT.6.26. Giải quyết việc tiếp nhận, xử lý thông tin có nội dung tố cáo)
 
 Điều 18.5.NĐ.4.20. Xử lý thông tin có nội dung tố cáo và tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 18005000000000003000002000000000000000000260000000000000000000402688300310002000
+1. Khi nhận được thông tin có nội dung tố cáo theo quy định tại khoản 2 Điều 25 Luật Tố cáo hoặc tố cáo không đủ điều kiện thụ lý do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến theo quy định tại điểm b khoản 1 Điều 26 Luật Tố cáo thì cơ quan, tổ chức, cá nhân tiếp nhận phải tiến hành phân loại, đánh giá tính chất, mức độ vụ việc, nếu thuộc thẩm quyền, trách nhiệm của mình thì quyết định việc thanh tra, kiểm tra; nếu không thuộc thẩm quyền, trách nhiệm của mình thì phải chuyển thông tin đến cơ quan, tổ chức, cá nhân có thẩm quyền xem xét, quyết định việc thanh tra, kiểm tra.
 
-**ID:** dk_00024977
+2. Trình tự, thủ tục tiến hành thanh tra, kiểm tra và việc công khai kết quả thanh tra, kiểm tra được thực hiện theo quy định của pháp luật về thanh tra, kiểm tra và pháp luật khác có liên quan.
 
----
+3. Cơ quan, tổ chức, cá nhân có thẩm quyền nhận được thông tin có trách nhiệm thông báo kết quả xử lý tố cáo cho cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền đã chuyển thông tin đến biết kết quả xử lý tố cáo.
 
+**Mục 3. XỬ LÝ KỶ LUẬT ĐỐI VỚI CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC CÓ HÀNH VI VI PHẠM**
 
-### Điều 18.5.LQ.27. Xử lý tố cáo có dấu hiệu của tội phạm, áp dụng biện pháp ngăn chặn hành vi vi phạm
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo; Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến)
 
 Điều 18.5.LQ.27. Xử lý tố cáo có dấu hiệu của tội phạm, áp dụng biện pháp ngăn chặn hành vi vi phạm
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000020000000000000000002700000000000000000
+1. Trong quá trình tiếp nhận, xử lý tố cáo, nếu thấy hành vi bị tố cáo có dấu hiệu của tội phạm thì chuyển ngay hồ sơ, tài liệu đến Cơ quan điều tra hoặc Viện kiểm sát nhân dân có thẩm quyền để xử lý theo quy định của pháp luật.
 
-**ID:** dk_00024978
+2. Trường hợp hành vi bị tố cáo gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm, quyền và lợi ích hợp pháp khác của cá nhân thì cơ quan, tổ chức, cá nhân nhận được tố cáo phải áp dụng biện pháp cần thiết theo thẩm quyền hoặc thông báo ngay cho cơ quan Công an, cơ quan, tổ chức, cá nhân khác có thẩm quyền để ngăn chặn kịp thời hành vi vi phạm.
 
----
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo; Điều 18.5.NĐ.2.10. Thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự)
 
+Mục 3
 
-### Điều 18.5.LQ.28. Trình tự giải quyết tố cáo
+TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT TỐ CÁO
 
-*Nội dung chưa có sẵn*
+(Mục này có nội dung liên quan đến Điều 37.6.LQ.341. Thủ tục giải quyết tố cáo của Luật 93/2015/QH13 Tố tụng hành chính ban hành ngày 25/11/2015; Điều 39.5.NĐ.11. Xử lý vi phạm pháp luật về trật tự công cộng của Nghị định 38/2005/NĐ-CP Về việc quy định một số biện pháp bảo đảm trật tự công cộng ban hành ngày 18/03/2005; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
-**Chỉ mục:** 28
+Điều 18.5.LQ.28. Trình tự giải quyết tố cáo
 
-**Mã phân cấp:** 180050000000000030000030000000000000000002800000000000000000
+(Điều 28 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00024980
+1. Thụ lý tố cáo.
 
----
+2. Xác minh nội dung tố cáo.
 
+3. Kết luận nội dung tố cáo.
 
-### Điều 18.5.NĐ.1.45. Trình tự, thủ tục giải quyết tố cáo
+4. Xử lý kết luận nội dung tố cáo của người giải quyết tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.1.45. Trình tự, thủ tục giải quyết tố cáo
 
-**Chỉ mục:** 45
+(Điều 45 Nghị định số 24/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2018)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000280000000000000000000402647600240004500
+1. Trình tự, thủ tục tiếp nhận, phân loại, xác minh, kết luận về nội dung tố cáo, quyết định việc xử lý tố cáo hành vi vi phạm pháp luật trong lĩnh vực lao động; giáo dục nghề nghiệp; đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; việc làm; an toàn, vệ sinh lao động thực hiện theo quy định của pháp luật về tố cáo.
 
-**ID:** dk_00024981
+2. Trường hợp kết luận người bị tố cáo có hành vi vi phạm hành chính trong lĩnh vực lao động; giáo dục nghề nghiệp; đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; việc làm; an toàn, vệ sinh lao động thì việc xử lý hành vi vi phạm hành chính đó phải tuân thủ pháp luật về xử lý vi phạm hành chính.
 
----
+3. Hồ sơ giải quyết tố cáo được lập theo quy định của pháp luật về tố cáo.
 
-
-### Điều 18.5.NĐ.2.8. Trình tự, thủ tục, thời hạn giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.39. Hồ sơ giải quyết vụ việc tố cáo)
 
 Điều 18.5.NĐ.2.8. Trình tự, thủ tục, thời hạn giải quyết tố cáo
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000280000000000000000000402683900220000800
+Trình tự, thủ tục, thời hạn giải quyết tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ theo quy định tại các Điều 28, 29, 30, 31, khoản 1 Điều 32, 33, 34, 35, 36, 37, 38, 39 của Luật Tố cáo, Điều 13 Nghị định này và Nghị định quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo.
 
-**ID:** dk_00024982
-
----
-
-
-### Điều 18.5.TT.8.10. Trình tự, thủ tục, thời hạn giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.TT.8.6. Xử lý ban đầu thông tin tố cáo thuộc thẩm quyền, trách nhiệm của Công an nhân dân)
 
 Điều 18.5.TT.8.10. Trình tự, thủ tục, thời hạn giải quyết tố cáo
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000028000000000000000000040268390022000080000802736400850001000
+ 1. Trình tự, thủ tục, thời hạn giải quyết tố cáo trong Công an nhân dân được thực hiện theo quy định tại Điều 8 Nghị định số 22/2019/NĐ-CP và các quy định khác của Bộ Công an.
 
-**ID:** dk_00024983
+ 2. Trường hợp người tố cáo rút tố cáo thì xử lý theo quy định tại Điều 33 Luật Tố cáo và Điều 4 Nghị định số 31/2019/NĐ-CP. Trường hợp người tố cáo rút một phần nội dung tố cáo mà phần nội dung tố cáo đó không thuộc quy định tại khoản 3 Điều 33 Luật Tố cáo thì người giải quyết tố cáo trong Công an nhân dân ra thông báo bằng văn bản việc không giải quyết tố cáo đối với nội dung đó và tiếp tục giải quyết các nội dung tố cáo còn lại theo quy định của Luật Tố cáo. Trường hợp nhiều người cùng tố cáo mà một hoặc một số người tố cáo rút tố cáo, nếu nội dung tố cáo không thuộc quy định tại khoản 3 Điều 33 Luật Tố cáo thì người giải quyết tố cáo trong Công an nhân dân ra thông báo bằng văn bản chấp nhận việc rút tố cáo của người đó và tiếp tục giải quyết tố cáo theo quy định của Luật Tố cáo.
 
----
+ 3. Việc xác minh, kết luận, kiến nghị biện pháp xử lý tố cáo thực hiện theo quy định của pháp luật về tố cáo. Quyết định xử lý tố cáo chỉ ban hành khi người bị tố cáo có vi phạm, cần phải áp dụng hình thức kỷ luật hoặc các biện pháp xử lý theo quy định của pháp luật. Người giải quyết tố cáo phải thông báo kết quả giải quyết tố cáo bằng văn bản cho người tố cáo, người bị tố cáo và cơ quan, cá nhân có trách nhiệm. Kết luận nội dung tố cáo và quyết định xử lý hành vi vi phạm bị tố cáo (nếu có) phải được công khai theo quy định tại Điều 13 Nghị định số 22/2019/NĐ-CP.
 
-
-### Điều 18.5.NĐ.3.9. Trình tự, thủ tục giải quyết tố cáo trong việc thực hiện nhiệm vụ, công vụ
+ 4. Người giải quyết tố cáo có trách nhiệm giải quyết tố cáo theo đúng quy định của pháp luật; áp dụng biện pháp cần thiết nhằm ngăn chặn thiệt hại có thể xảy ra; bảo đảm an toàn cho người tố cáo, người thân của người tố cáo; xử lý nghiêm minh cơ quan, đơn vị, cán bộ, chiến sĩ Công an, cơ quan, tổ chức, cá nhân khác có hành vi vi phạm pháp luật và chịu trách nhiệm trước pháp luật về quyết định của mình.(Điều này có nội dung liên quan đến Điều 18.5.LQ.33. Rút tố cáo; Điều 18.5.NĐ.2.13. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm pháp luật bị tố cáo; Điều 18.5.NĐ.4.4. Rút tố cáo)
 
 Điều 18.5.NĐ.3.9. Trình tự, thủ tục giải quyết tố cáo trong việc thực hiện nhiệm vụ, công vụ
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000280000000000000000000402686200280000900
+Trình tự, thủ tục giải quyết tố cáo hành vi vi phạm pháp luật của quân nhân, công nhân và viên chức quốc phòng trong việc thực hiện nhiệm vụ, công vụ được thực hiện theo quy định tại các Điều 28, 29, 30, 31, khoản 1 Điều 32, các Điều 33, 34, 35, 36, 37, 38, 39, 40 của Luật Tố cáo năm 2018 và Nghị định của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo.
 
-**ID:** dk_00024984
+Điều 18.5.TT.2.19. Giải quyết tố cáo
 
----
+(Điều 19 Thông tư số 39/2014/TT-BGTVT, có hiệu lực thi hành kể từ ngày 01/11/2014)
 
+1. Cơ quan, đơn vị tham mưu giải quyết đơn tố cáo là cơ quan, đơn vị đầu mối tiếp nhận đơn thư quy định tại điểm a và điểm b khoản 1 Điều 8 của Thông tư này.
 
-### Điều 18.5.TT.2.19. Giải quyết tố cáo
+2. Cơ quan, đơn vị tham mưu giải quyết đơn tố cáo chủ trì phối hợp với cơ quan, đơn vị liên quan tiến hành xác minh, kết luận, kiến nghị giải quyết tố cáo.
 
-*Nội dung chưa có sẵn*
+3. Thẩm quyền ký quyết định xác minh, kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
 
-**Chỉ mục:** 19
+a) Bộ trưởng ký hoặc ủy quyền cho Thứ trưởng ký kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo thuộc thẩm quyền giải quyết của Bộ;
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000280000000000000000000802521200391501900
+b) Chánh Thanh tra Bộ ký quyết định xác minh nội dung tố cáo;
 
-**ID:** dk_00024985
+c) Thủ trưởng cơ quan, đơn vị có thẩm quyền giải quyết tố cáo ký quyết định xác minh, kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo.
 
----
+4. Quy trình giải quyết tố cáo thực hiện theo hướng dẫn của Thanh tra Chính phủ.
 
+Điều 18.5.LQ.29. Thụ lý tố cáo
 
-### Điều 18.5.LQ.29. Thụ lý tố cáo
+(Điều 29 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-*Nội dung chưa có sẵn*
+1. Người giải quyết tố cáo ra quyết định thụ lý tố cáo khi có đủ các điều kiện sau đây:
 
-**Chỉ mục:** 29
+a) Tố cáo được thực hiện theo quy định tại Điều 23 của Luật này;
 
-**Mã phân cấp:** 180050000000000030000030000000000000000002900000000000000000
+b) Người tố cáo có đủ năng lực hành vi dân sự; trường hợp không có đủ năng lực hành vi dân sự thì phải có người đại diện theo quy định của pháp luật;
 
-**ID:** dk_00024986
+c) Vụ việc thuộc thẩm quyền giải quyết tố cáo của cơ quan, tổ chức, cá nhân tiếp nhận tố cáo;
 
----
+d) Nội dung tố cáo có cơ sở để xác định người vi phạm, hành vi vi phạm pháp luật.
 
+Trường hợp tố cáo xuất phát từ vụ việc khiếu nại đã được giải quyết đúng thẩm quyền, trình tự, thủ tục theo quy định của pháp luật nhưng người khiếu nại không đồng ý mà chuyển sang tố cáo người đã giải quyết khiếu nại thì chỉ thụ lý tố cáo khi người tố cáo cung cấp được thông tin, tài liệu, chứng cứ để xác định người giải quyết khiếu nại có hành vi vi phạm pháp luật.
 
-### Điều 18.5.NĐ.4.9. Thụ lý tố cáo, thông báo việc thụ lý tố cáo
+2. Quyết định thụ lý tố cáo bao gồm các nội dung chính sau đây:
+
+a) Ngày, tháng, năm ra quyết định;
+
+b) Căn cứ ra quyết định;
+
+c) Nội dung tố cáo được thụ lý;
+
+d) Thời hạn giải quyết tố cáo.
+
+3. Trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định thụ lý tố cáo, người giải quyết tố cáo có trách nhiệm thông báo cho người tố cáo và thông báo về nội dung tố cáo cho người bị tố cáo biết.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.23. Tiếp nhận tố cáo; Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.9. Thụ lý tố cáo, thông báo việc thụ lý tố cáo; Điều 18.5.TT.8.6. Xử lý ban đầu thông tin tố cáo thuộc thẩm quyền, trách nhiệm của Công an nhân dân)
 
 Điều 18.5.NĐ.4.9. Thụ lý tố cáo, thông báo việc thụ lý tố cáo
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000290000000000000000000402688300310000900
+1. Trước khi thụ lý tố cáo, người giải quyết tố cáo tự mình hoặc giao cơ quan thanh tra nhà nước cùng cấp hoặc cơ quan, tổ chức, cá nhân khác xác minh thông tin về người tố cáo và điều kiện thụ lý tố cáo. Trường hợp người tố cáo không cư trú tại địa bàn quản lý hoặc gặp khó khăn trong việc xác minh thì người giải quyết tố cáo có thể ủy quyền cho cơ quan nhà nước ngang cấp hoặc cơ quan nhà nước cấp dưới xác minh thông tin cần thiết phục vụ việc ra quyết định thụ lý tố cáo. Việc thụ lý tố cáo được thực hiện theo quy định tại Điều 29 Luật Tố cáo. Quyết định thụ lý tố cáo được thực hiện theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định này.
 
-**ID:** dk_00024987
+2. Trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định thụ lý tố cáo, người giải quyết tố cáo có trách nhiệm thông báo cho người tố cáo và thông báo về nội dung tố cáo cho người bị tố cáo biết. Thông báo việc thụ lý tố cáo được thực hiện theo Mẫu số 05, thông báo về nội dung tố cáo cho người bị tố cáo thực hiện theo Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định này.
 
----
+Mau so 04 Quyet dinh thu ly to cao.docx
 
+Mau so 05 Thong bao viec thu ly to cao.docx
 
-### Điều 18.5.TT.4.16. Phân loại đơn tố cáo
+Mau so 06 Thong bao ve noi dung to cao.docx
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.29. Thụ lý tố cáo)
 
-**Chỉ mục:** 16
+Điều 18.5.TT.4.16. Phân loại đơn tố cáo
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802566700533001600
+(Điều 16 Thông tư số 53/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 26/01/2016)
 
-**ID:** dk_00024988
+Đơn tố cáo được phân thành hai loại:
 
----
+1. Đơn tố cáo đối với hành vi vi phạm pháp luật của cán bộ, công chức, viên chức ngành Lao động - Thương binh và Xã hội trong việc thực hiện nhiệm vụ, công vụ;
 
+2. Đơn tố cáo đối với hành vi vi phạm pháp luật trong các lĩnh vực quản lý nhà nước ngành Lao động - Thương binh và Xã hội.
 
-### Điều 18.5.TT.4.19. Xử lý đơn tố cáo
+Điều 18.5.TT.4.19. Xử lý đơn tố cáo
 
-*Nội dung chưa có sẵn*
+(Điều 19 Thông tư số 53/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 26/01/2016)
 
-**Chỉ mục:** 19
+1. Đối với đơn tố cáo thuộc thẩm quyền và không thuộc một trong các trường hợp không thụ lý, người xử lý đơn lập phiếu đề xuất thụ lý trình lãnh đạo phụ trách giao đơn vị chức năng giải quyết. Đơn vị tiếp nhận đơn tố cáo tham mưu người có thẩm quyền giải quyết tố cáo thực hiện đúng quy định tại Thông tư 06/2013/TT-TTCP ngày 30 tháng 9 năm 2013 của Thanh tra Chính phủ quy định về quy trình giải quyết tố cáo.
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802566700533001900
+2. Đối với đơn thuộc thẩm quyền nhưng thuộc trường hợp không thụ lý theo quy định tại khoản 2 Điều 20 Luật Tố cáo, cơ quan tiếp nhận thông báo bằng văn bản cho người tố cáo về việc không thụ lý giải quyết tố cáo theo Mẫu số 02-TC ban hành kèm theo Thông tư 06/2013/TT-TTCP ngày 30 tháng 9 năm 2013 của Thanh tra Chính phủ quy định về quy trình giải quyết tố cáo.
 
-**ID:** dk_00024989
+3. Đối với đơn tố cáo không thuộc thẩm quyền, đơn vị tiếp nhận đơn làm phiếu chuyển đơn theo Mẫu số 05-XLĐ ban hành kèm theo Thông tư số 07/2014/TT-TTCP ngày 31 tháng 10 năm 2014 đến cơ quan có thẩm quyền để xem xét, xử lý theo quy định của Luật Tố cáo.
 
----
+Điều 18.5.TT.4.20. Xử lý đơn tố cáo tiếp
 
+(Điều 20 Thông tư số 53/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 26/01/2016)
 
-### Điều 18.5.TT.4.20. Xử lý đơn tố cáo tiếp
+Giám đốc Sở giải quyết tố cáo đã được Chánh Thanh tra Sở, Thủ trưởng đơn vị thuộc Sở giải quyết nhưng không đúng pháp luật hoặc yêu cầu Chánh Thanh tra Sở, Thủ trưởng đơn vị thuộc Sở giải quyết đối với trường hợp quá thời hạn theo quy định mà không giải quyết.
 
-*Nội dung chưa có sẵn*
+Bộ trưởng giải quyết tố cáo đã được Chánh Thanh tra Bộ, Thủ trưởng đơn vị thuộc Bộ giải quyết nhưng không đúng pháp luật hoặc yêu cầu Chánh Thanh tra Bộ, Thủ trưởng đơn vị thuộc Bộ giải quyết đối với trường hợp quá thời hạn theo quy định mà không giải quyết.
 
-**Chỉ mục:** 20
+Việc tiếp nhận, xử lý tố cáo tiếp thực hiện theo quy định tại Điều 8 Thông tư 06/2013/TT-TTCP ngày 30 tháng 9 năm 2013 của Thanh tra Chính phủ quy định về quy trình giải quyết tố cáo.
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802566700533002000
+Điều 18.5.TT.6.27. Điều kiện thụ lý tố cáo
 
-**ID:** dk_00024990
+(Điều 27 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
----
+1. Người giải quyết tố cáo ra quyết định thụ lý tố cáo khi có đủ các điều kiện theo quy định tại khoản 1 Điều 29 của Luật Tố cáo và Điều 24 của Thông tư này.
 
+2. Trường hợp tố cáo xuất phát từ vụ việc khiếu nại theo quy định của pháp luật tố tụng; khiếu nại trong việc bắt giữ tàu biển; khiếu nại trong việc bắt giữ tàu bay; khiếu nại việc áp dụng các biện pháp xử lý hành chính tại Tòa án nhân dân; khiếu nại trong quá trình giải quyết phá sản hoặc đề nghị xem xét đơn theo thủ tục giám đốc thẩm, tái thẩm đã được giải quyết đúng thẩm quyền, trình tự, thủ tục theo quy định của pháp luật nhưng người khiếu nại, người đề nghị không đồng ý mà chuyển sang tố cáo người đã giải quyết khiếu nại, giám đốc thẩm, tái thẩm thì chỉ thụ lý tố cáo khi người tố cáo cung cấp được thông tin, tài liệu, chứng cứ để xác định người giải quyết khiếu nại, giám đốc thẩm, tái thẩm có hành vi vi phạm pháp luật.
 
-### Điều 18.5.TT.6.27. Điều kiện thụ lý tố cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802731800010002700
-
-**ID:** dk_00024991
-
----
-
-
-### Điều 18.5.TT.10.9. Tiếp nhận tố cáo, kiểm tra các điều kiện thụ lý tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.TT.6.24. Giải quyết việc tiếp nhận tố cáo)
 
 Điều 18.5.TT.10.9. Tiếp nhận tố cáo, kiểm tra các điều kiện thụ lý tố cáo
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802749101290000900
+ 1. Khi nhận nội dung tố cáo thuộc thẩm quyền, trong thời hạn 07 ngày làm việc, người giải quyết tố cáo phải tự mình hoặc giao cho cơ quan, đơn vị, cá nhân có chức năng tiến hành kiểm tra, xác minh về họ tên, địa chỉ người tố cáo; làm việc trực tiếp với người tố cáo và các cơ quan, tổ chức, cá nhân khác (nếu cần thiết) để xác định các điều kiện thụ lý tố cáo theo quy định tại Điều 29 Luật Tố cáo; trường hợp phải kiểm tra, xác minh tại nhiều địa điểm hoặc phải ủy quyền cho cơ quan, tổ chức có thẩm quyền kiểm tra, xác minh thì thời hạn kiểm tra có thể kéo dài hơn nhưng không quá 10 ngày làm việc. Việc ủy quyền kiểm tra, xác minh thực hiện theo quy định tại Điều 19 Thông tư này.
 
-**ID:** dk_00024992
+ 2. Trường hợp tố cáo không đủ điều kiện thụ lý thì người giải quyết tố cáo không thụ lý và thông báo ngay bằng văn bản theo mẫu quy định cho người tố cáo biết lý do không thụ lý tố cáo; trường hợp việc kiểm tra, xác minh các nội dung quy định tại khoản 1 Điều này được giao cho cơ quan, đơn vị, cá nhân có chức năng thì cơ quan, đơn vị, cá nhân đó báo cáo đề xuất trình người giải quyết tố cáo ký văn bản thông báo.
 
----
+ 3. Trường hợp không xác định được người tố cáo hoặc người tố cáo sử dụng họ tên của người khác để tố cáo hoặc tố cáo không đủ điều kiện thụ lý do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến thì người giải quyết tố cáo xử lý theo quy định tại Điều 7 Thông tư này và khoản 2 Điều 26, Luật Tố cáo.
 
+ 4. Trường hợp tố cáo đủ điều kiện thụ lý thì người giải quyết tố cáo ra quyết định thụ lý tố cáo, cơ quan, đơn vị, cá nhân có chức năng được giao kiểm tra, xác minh các nội dung quy định tại khoản 1 Điều này báo cáo, đề xuất, trình người giải quyết tố cáo ban hành quyết định thụ lý tố cáo.
 
-### Điều 18.5.TT.10.10. Ban hành quyết định thụ lý tố cáo, quyết định thành lập Đoàn xác minh hoặc Tổ xác minh nội dung tố cáo
+ 5. Trường hợp hành vi bị tố cáo đang diễn ra gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm, quyền và lợi ích hợp pháp khác của cá nhân thì người có thẩm quyền giải quyết tố cáo phải tự mình hoặc giao cho cơ quan, đơn vị, cá nhân có chức năng áp dụng ngay biện pháp cần thiết để ngăn chặn kịp thời hành vi vi phạm.Điều 18.5.TT.10.10. Ban hành quyết định thụ lý tố cáo, quyết định thành lập Đoàn xác minh hoặc Tổ xác minh nội dung tố cáo
 
-Điều 18.5.TT.10.10. Ban hành quyết định thụ lý tố cáo, quyết định thành lập Đoàn xác minh hoặc Tổ xác minh nội dung tố cáo
+(Điều 10 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Chỉ mục:** 10
+ 1. Người giải quyết tố cáo phải ban hành quyết định thụ lý tố cáo theo biểu mẫu quy định. Việc thay đổi, bổ sung nội dung quyết định thụ lý phải thực hiện bằng quyết định của người giải quyết tố cáo.
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802749101290001000
+ 2. Người giải quyết tố cáo tiến hành xác minh hoặc thành lập Đoàn xác minh hoặc Tổ xác minh (gọi chung là Tổ xác minh) có từ hai người trở lên, trong đó giao cho một người là Trưởng đoàn xác minh hoặc Tổ trưởng Tổ xác minh (gọi chung là Tổ trưởng Tổ xác minh); trường hợp người bị tố cáo thuộc diện quản lý của cấp ủy địa phương, nếu cần thiết, người giải quyết tố cáo hoặc Thủ trưởng cơ quan thanh tra hoặc cơ quan khác được giao xác minh đề nghị cấp ủy địa phương đó cử cán bộ Ủy ban kiểm tra Đảng tham gia Tổ xác minh. Quyết định thành lập Tổ xác minh phải nêu rõ họ tên, chức vụ của người ra quyết định; họ tên, chức vụ của Tổ trưởng và các thành viên Tổ xác minh; các nội dung cần xác minh. Quyết định thành lập Tổ xác minh thực hiện theo biểu mẫu quy định.
 
-**ID:** dk_00024993
+ 3. Trường hợp người giải quyết tố cáo giao nhiệm vụ cho cơ quan thanh tra cùng cấp hoặc cơ quan, đơn vị, cá nhân khác xác minh nội dung tố cáo thì phải có văn bản giao xác minh nội dung tố cáo. Văn bản giao xác minh nội dung tố cáo thực hiện theo quy định tại khoản 2 Điều 31 Luật Tố cáo. Thủ trưởng cơ quan thanh tra hoặc cơ quan, đơn vị, cá nhân khác được giao nhiệm vụ xác minh nội dung tố cáo có trách nhiệm thành lập Tổ xác minh theo quy định tại khoản 2 Điều này.
 
----
+ Người giải quyết tố cáo hoặc Thủ trưởng cơ quan thanh tra hoặc cơ quan, đơn vị, cá nhân khác được giao nhiệm vụ xác minh nội dung tố cáo không giao nhiệm vụ làm Tổ trưởng Tổ xác minh và thành viên Tổ xác minh cho những người có vợ hoặc chồng; bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi; bố, mẹ vợ (hoặc chồng); con đẻ, con nuôi, con rể, con dâu; anh, chị em ruột của bản thân hoặc của vợ hoặc chồng là người bị tố cáo hoặc có lợi ích liên quan trực tiếp đến người bị tố cáo.Điều 18.5.TT.10.13. Thông báo việc thụ lý tố cáo
 
+(Điều 13 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-### Điều 18.5.TT.10.13. Thông báo việc thụ lý tố cáo
+ 1. Trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định thụ lý tố cáo, người giải quyết tố cáo phải thông báo cho người tố cáo, người bị tố cáo về việc thụ lý tố cáo và các nội dung tố cáo được thụ lý.
 
-*Nội dung chưa có sẵn*
+ 2. Thông báo về việc thụ lý tố cáo cho người tố cáo được thực hiện bằng một trong hai hình thức sau:
 
-**Chỉ mục:** 13
+ a) Gửi quyết định thụ lý tố cáo.
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802749101290001300
+ b) Gửi văn bản thông báo về việc thụ lý tố cáo theo biểu mẫu quy định.
 
-**ID:** dk_00024994
+ 3. Thông báo về việc thụ lý tố cáo cho người bị tố cáo được thực hiện bằng một trong hai hình thức sau:
 
----
+ a) Gửi thông báo về nội dung bị tố cáo theo biểu mẫu quy định;
 
+ b) Công bố quyết định thụ lý tố cáo, quyết định thành lập Tổ xác minh nội dung tố cáo tại cơ quan, đơn vị quản lý cá nhân bị tố cáo hoặc cơ quan, đơn vị bị tố cáo; việc công bố được thực hiện theo quy định tại Điều 14 Thông tư này.Điều 18.5.TT.12.13. Xử lý đơn tố cáo thuộc thẩm quyền giải quyết
 
-### Điều 18.5.TT.12.13. Xử lý đơn tố cáo thuộc thẩm quyền giải quyết
+(Điều 13 Thông tư số 05/2021/TT-TTCP, có hiệu lực thi hành kể từ ngày 15/11/2021)
 
-Điều 18.5.TT.12.13. Xử lý đơn tố cáo thuộc thẩm quyền giải quyết
+Đơn tố cáo thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị mình và đủ điều kiện thụ lý theo quy định tại khoản 1 Điều 29 Luật Tố cáo thì người xử lý đơn báo cáo người đứng đầu để thụ lý giải quyết theo quy định. Việc đề xuất thụ lý giải quyết được thực hiện theo Mẫu số 01 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 13
+Mau so 01 Phieu de xuat thu ly don.docx
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802778800050001300
+Điều 18.5.LQ.30. Thời hạn giải quyết tố cáo
 
-**ID:** dk_00024995
+(Điều 30 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+1. Thời hạn giải quyết tố cáo là không quá 30 ngày kể từ ngày thụ lý tố cáo.
 
+2. Đối với vụ việc phức tạp thì có thể gia hạn giải quyết tố cáo một lần nhưng không quá 30 ngày.
 
-### Điều 18.5.LQ.30. Thời hạn giải quyết tố cáo
+3. Đối với vụ việc đặc biệt phức tạp thì có thể gia hạn giải quyết tố cáo hai lần, mỗi lần không quá 30 ngày.
 
-*Nội dung chưa có sẵn*
+4. Người giải quyết tố cáo quyết định bằng văn bản việc gia hạn giải quyết tố cáo và thông báo đến người tố cáo, người bị tố cáo, cơ quan, tổ chức, cá nhân có liên quan.
 
-**Chỉ mục:** 30
+5. Chính phủ quy định chi tiết Điều này.
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003000000000000000000
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.3. Thời hạn giải quyết tố cáo)
 
-**ID:** dk_00024996
+Điều 18.5.NĐ.4.3. Thời hạn giải quyết tố cáo
 
----
+(Điều 3 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
+1. Thời hạn giải quyết tố cáo được thực hiện theo quy định tại khoản 1 Điều 30 Luật Tố cáo. Việc gia hạn giải quyết tố cáo được áp dụng đối với vụ việc phức tạp và đặc biệt phức tạp theo quy định tại khoản 2 và khoản 3 Điều 30 Luật Tố cáo.
 
-### Điều 18.5.NĐ.4.3. Thời hạn giải quyết tố cáo
+2. Vụ việc phức tạp là vụ việc có một trong các tiêu chí sau đây:
 
-*Nội dung chưa có sẵn*
+a) Tố cáo về một nội dung nhưng phải xác minh từ 02 địa điểm trở lên;
 
-**Chỉ mục:** 3
+b) Tố cáo có từ 02 nội dung phải xác minh trở lên;
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000300000000000000000000402688300310000300
+c) Nhiều người tố cáo về cùng một nội dung hoặc nội dung tố cáo liên quan đến quyền và lợi ích của nhiều người;
 
-**ID:** dk_00024997
+d) Tố cáo có yếu tố nước ngoài: người tố cáo ở nước ngoài hoặc là người nước ngoài; hành vi bị tố cáo xảy ra ở nước ngoài; nội dung tố cáo phải xác minh ở nước ngoài;
 
----
+đ) Nội dung tố cáo liên quan đến trách nhiệm quản lý của nhiều cơ quan, tổ chức;
 
+e) Các cơ quan, tổ chức có liên quan trong quá trình giải quyết tố cáo còn ý kiến khác nhau;
 
-### Điều 18.5.LQ.31. Xác minh nội dung tố cáo
+g) Có tài liệu, chứng cứ mâu thuẫn với nhau cần có thời gian kiểm tra, xác minh, đánh giá hoặc tham khảo ý kiến của các cơ quan chuyên môn.
 
-*Nội dung chưa có sẵn*
+3. Vụ việc đặc biệt phức tạp là vụ việc có từ 02 tiêu chí trở lên được quy định tại khoản 2 Điều này.
 
-**Chỉ mục:** 31
+4. Việc gia hạn giải quyết tố cáo phải được thực hiện bằng quyết định của người giải quyết tố cáo, được gửi đến cơ quan, tổ chức, cá nhân có liên quan theo quy định tại khoản 4 Điều 30 Luật Tố cáo. Quyết định gia hạn giải quyết tố cáo được thực hiện theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này.
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003100000000000000000
+Mau so 01 Quyet dinh gia han giai quyet to cao.docx
 
-**ID:** dk_00024998
+(Điều này có nội dung liên quan đến Điều 22. Gia hạn giải quyết tố cáo của Thông tư 129/2020/TT-BCA Quy định quy trình giải quyết tố cáo trong Công an nhân dân ban hành ngày 08/12/2020; Điều 18.5.LQ.30. Thời hạn giải quyết tố cáo)
 
----
+Điều 18.5.LQ.31. Xác minh nội dung tố cáo
 
+(Điều 31 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 18.5.NĐ.3.10. Phối hợp xác minh nội dung tố cáo
+1. Người giải quyết tố cáo tiến hành xác minh hoặc giao cho cơ quan thanh tra cùng cấp hoặc cơ quan, tổ chức, cá nhân khác xác minh nội dung tố cáo (gọi chung là người xác minh nội dung tố cáo). Việc giao xác minh nội dung tố cáo phải thực hiện bằng văn bản.
+
+2. Văn bản giao xác minh nội dung tố cáo có các nội dung chính sau đây:
+
+a) Ngày, tháng, năm giao xác minh;
+
+b) Người được giao xác minh nội dung tố cáo;
+
+c) Họ tên, địa chỉ của người bị tố cáo; tên gọi, trụ sở của cơ quan, tổ chức bị tố cáo;
+
+d) Nội dung cần xác minh;
+
+đ) Thời gian tiến hành xác minh;
+
+e) Quyền và trách nhiệm của người được giao xác minh nội dung tố cáo.
+
+3. Người xác minh nội dung tố cáo phải tiến hành các biện pháp cần thiết để thu thập thông tin, tài liệu, làm rõ nội dung tố cáo. Thông tin, tài liệu thu thập phải được ghi chép thành văn bản, khi cần thiết thì lập thành biên bản, được lưu giữ trong hồ sơ vụ việc tố cáo.
+
+4. Trong quá trình xác minh, người xác minh nội dung tố cáo phải tạo điều kiện để người bị tố cáo giải trình, đưa ra các chứng cứ để chứng minh tính đúng, sai của nội dung cần xác minh.
+
+5. Người xác minh nội dung tố cáo được thực hiện các quyền và nghĩa vụ quy định tại các điểm a, b, c, d khoản 1 và các điểm a, b, c khoản 2 Điều 11 của Luật này theo phân công của người giải quyết tố cáo.
+
+6. Kết thúc việc xác minh nội dung tố cáo, người được giao xác minh phải có văn bản báo cáo người giải quyết tố cáo về kết quả xác minh nội dung tố cáo và kiến nghị biện pháp xử lý.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.11. Quyền và nghĩa vụ của người giải quyết tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.10. Xác minh nội dung tố cáo)
 
 Điều 18.5.NĐ.3.10. Phối hợp xác minh nội dung tố cáo
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000310000000000000000000402686200280001000
+Trong quá trình xác minh nội dung tố cáo, người giải quyết tố cáo có quyền yêu cầu hoặc kiến nghị người có thẩm quyền yêu cầu cơ quan, đơn vị, tổ chức trong và ngoài Quân đội nhân dân phối hợp xác minh nội dung tố cáo; việc yêu cầu, kiến nghị phối hợp xác minh bằng văn bản, nêu rõ nội dung cần phối hợp giải quyết.
 
-**ID:** dk_00024999
+Điều 18.5.NĐ.4.10. Xác minh nội dung tố cáo
 
----
+(Điều 10 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
+1. Người giải quyết tố cáo tự mình tiến hành xác minh hoặc thành lập Đoàn xác minh tố cáo hoặc Tổ xác minh tố cáo (sau đây gọi chung là Tổ xác minh). Trường hợp thành lập Tổ xác minh thì phải có từ hai người trở lên, trong đó giao cho một người làm Tổ trưởng. Quyết định thành lập Tổ xác minh được thực hiện theo Mẫu số 07 tại Phụ lục ban hành kèm theo Nghị định này.
 
-### Điều 18.5.NĐ.4.10. Xác minh nội dung tố cáo
+2. Trường hợp người giải quyết tố cáo giao cho cơ quan thanh tra cùng cấp hoặc cơ quan, tổ chức, cá nhân khác xác minh nội dung tố cáo thì văn bản giao xác minh nội dung tố cáo thực hiện theo quy định tại khoản 2 Điều 31 Luật Tố cáo. Thủ trưởng cơ quan thanh tra hoặc cơ quan, tổ chức, cá nhân khác được giao nhiệm vụ xác minh nội dung tố cáo có trách nhiệm thành lập Tổ xác minh theo quy định tại khoản 1 Điều này.
 
-*Nội dung chưa có sẵn*
+3. Người giải quyết tố cáo hoặc Thủ trưởng cơ quan thanh tra hoặc cơ quan, tổ chức, cá nhân khác được giao nhiệm vụ xác minh nội dung tố cáo không giao nhiệm vụ làm Tổ trưởng Tổ xác minh, thành viên Tổ xác minh đối với những người có vợ hoặc chồng, bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố mẹ bên vợ hoặc bên chồng, con đẻ, con nuôi, con rể, con dâu, anh ruột, chị ruột, em ruột là người bị tố cáo hoặc có lợi ích liên quan trực tiếp với người bị tố cáo.
 
-**Chỉ mục:** 10
+Tổ trưởng Tổ xác minh, thành viên Tổ xác minh có trách nhiệm báo cáo với người giao nhiệm vụ xác minh nếu thuộc trường hợp quy định tại khoản 2 Điều 5 Nghị định này.
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000310000000000000000000402688300310001000
+Mau so 07 Quyet dinh thanh lap Doan (To) xac minh noi dung to cao.docx
 
-**ID:** dk_00025000
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.31. Xác minh nội dung tố cáo)
 
----
+Điều 18.5.TT.6.29. Xác minh nội dung tố cáo
 
+(Điều 29 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-### Điều 18.5.TT.6.29. Xác minh nội dung tố cáo
+1. Người giải quyết tố cáo trực tiếp tiến hành xác minh hoặc quyết định thành lập Đoàn xác minh tố cáo hoặc Tổ xác minh tố cáo (sau đây gọi chung là Tổ xác minh). Quyết định thành lập Tổ xác minh phải có từ hai người trở lên, trong đó giao cho một người làm Tổ trưởng. Đơn vị có chức năng thanh tra có trách nhiệm tham mưu cho người giải quyết tố cáo về số lượng, thành viên Tổ xác minh.
 
-*Nội dung chưa có sẵn*
+2. Trường hợp người giải quyết tố cáo giao cho đơn vị có chức năng thanh tra cùng cấp hoặc cơ quan, tổ chức, cá nhân khác xác minh nội dung tố cáo thì việc giao xác minh nội dung tố cáo phải thực hiện bằng văn bản theo quy định tại khoản 2 Điều 31 của Luật Tố cáo. Thủ trưởng đơn vị có chức năng thanh tra hoặc cơ quan, tổ chức, cá nhân khác được giao nhiệm vụ xác minh nội dung tố cáo có trách nhiệm thành lập Tổ xác minh theo quy định tại khoản 1 Điều này.
 
-**Chỉ mục:** 29
+3. Người giải quyết tố cáo hoặc thủ trưởng đơn vị có chức năng thanh tra hoặc cơ quan, tổ chức, cá nhân khác được giao nhiệm vụ xác minh nội dung tố cáo không giao cho những người có vợ hoặc chồng, bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố mẹ bên vợ hoặc bên chồng, con đẻ, con nuôi, con rể, con dâu, anh ruột, chị ruột, em ruột của người bị tố cáo hoặc có lợi ích liên quan trực tiếp với người bị tố cáo làm Tổ trưởng Tổ xác minh hoặc thành viên Tổ xác minh.
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802731800010002900
-
-**ID:** dk_00025001
-
----
-
-
-### Điều 18.5.TT.6.30. Kế hoạch xác minh nội dung tố cáo
+4. Người giải quyết tố cáo hoặc người được giao thực hiện nhiệm vụ xác minh nội dung tố cáo không được tiết lộ họ, tên, địa chỉ, bút tích của người tố cáo và những thông tin khác làm lộ danh tính của người tố cáo.
 
 Điều 18.5.TT.6.30. Kế hoạch xác minh nội dung tố cáo
 
-**Chỉ mục:** 30
+(Điều 30 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802731800010003000
+1. Kế hoạch xác minh nội dung tố cáo do Tổ trưởng Tổ xác minh lập và trình người ra quyết định thành lập Tổ xác minh phê duyệt.
 
-**ID:** dk_00025002
+2. Kế hoạch xác minh nội dung tố cáo gồm:
 
----
+a) Căn cứ pháp lý để tiến hành xác minh;
 
+b) Mục đích, yêu cầu của việc xác minh;
 
-### Điều 18.5.TT.10.11. Lập hồ sơ giải quyết tố cáo và nhật ký Tổ xác minh
+c) Nội dung xác minh;
+
+d) Cơ quan, tổ chức, đơn vị, cá nhân phải làm việc để thu thập, xác minh các thông tin, tài liệu, chứng cứ;
+
+đ) Các điều kiện, phương tiện phục vụ cho việc xác minh;
+
+e) Dự kiến thời gian thực hiện từng công việc; nhiệm vụ cụ thể của từng thành viên; thời gian dự phòng để xử lý các công việc phát sinh;
+
+g) Việc báo cáo tiến độ thực hiện;
+
+h) Các nội dung khác có liên quan (nếu có).
 
 Điều 18.5.TT.10.11. Lập hồ sơ giải quyết tố cáo và nhật ký Tổ xác minh
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001100
+ 1. Ngay sau khi có quyết định thụ lý tố cáo, Tổ trưởng Tổ xác minh có trách nhiệm lập hồ sơ giải quyết tố cáo, trình người giải quyết tố cáo hoặc Thủ trưởng cơ quan thanh tra, cơ quan, đơn vị, cá nhân khác được giao xác minh nội dung tố cáo ký quyết định lập hồ sơ giải quyết tố cáo theo quy định của Bộ Công an về công tác hồ sơ thanh tra, giải quyết khiếu nại, tố cáo trong Công an nhân dân.
 
-**ID:** dk_00025003
+ 2. Tổ trưởng Tổ xác minh có trách nhiệm lập sổ nhật ký Tổ xác minh và ghi chép đầy đủ những hoạt động của Tổ xác minh trong quá trình giải quyết tố cáo.Điều 18.5.TT.10.12. Lập kế hoạch xác minh nội dung tố cáo
 
----
+(Điều 12 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
+ 1. Kế hoạch xác minh nội dung tố cáo do Tổ trưởng Tổ xác minh lập và trình người ra quyết định thành lập Tổ xác minh hoặc Thủ trưởng cơ quan, đơn vị được giao nhiệm vụ xác minh phê duyệt.
 
-### Điều 18.5.TT.10.12. Lập kế hoạch xác minh nội dung tố cáo
+ 2. Kế hoạch xác minh nội dung tố cáo gồm:
 
-Điều 18.5.TT.10.12. Lập kế hoạch xác minh nội dung tố cáo
+ a) Căn cứ quyết định thành lập Tổ xác minh của người có thẩm quyền để tiến hành xác minh;
 
-**Chỉ mục:** 12
+ b) Mục đích, yêu cầu của việc xác minh;
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001200
+ c) Nội dung xác minh: Xác định cụ thể từng nội dung tố cáo phải xác minh làm rõ; biện pháp và các bước tiến hành xác minh từng nội dung tố cáo phải chi tiết, cụ thể, phải xác định thứ tự các công việc cần thực hiện để đạt hiệu quả tốt nhất;
 
-**ID:** dk_00025004
+ d) Cơ quan, tổ chức, đơn vị, cá nhân cần phải làm việc để thu thập, xác minh các thông tin, tài liệu, chứng cứ; dự kiến thời gian thực hiện từng công việc;
 
----
+ đ) Lực lượng phối hợp xác minh (nếu có);
 
+ e) Các điều kiện, phương tiện cần thiết phục vụ cho việc xác minh;
 
-### Điều 18.5.TT.10.14. Công bố quyết định thụ lý tố cáo, quyết định thành lập Tổ xác minh nội dung tố cáo
+ g) Thời gian xác minh; việc báo cáo tiến độ thực hiện;
 
-Điều 18.5.TT.10.14. Công bố quyết định thụ lý tố cáo, quyết định thành lập Tổ xác minh nội dung tố cáo
+ h) Các nội dung khác có liên quan đến việc giải quyết tố cáo.
 
-**Chỉ mục:** 14
+ 3. Tổ trưởng Tổ xác minh tổ chức họp Tổ xác minh để thống nhất và triển khai kế hoạch xác minh, phân công các thành viên thực hiện những nhiệm vụ sau:
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001400
+ a) Chuẩn bị kế hoạch thu thập tài liệu, hồ sơ có liên quan được nêu trong kế hoạch xác minh;
 
-**ID:** dk_00025005
+ b) Chuẩn bị nội dung và kế hoạch làm việc với người tố cáo; dự thảo văn bản để trình người giải quyết tố cáo hoặc người ra quyết định thành lập tổ xác minh hoặc Tổ trưởng Tổ xác minh ký yêu cầu người tố cáo đến làm việc, cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo;
 
----
+ c) Chuẩn bị nội dung và kế hoạch làm việc với cơ quan, đơn vị, cá nhân bị tố cáo; dự thảo văn bản để trình người giải quyết tố cáo hoặc người ra quyết định thành lập tổ xác minh hoặc Tổ trưởng Tổ xác minh ký yêu cầu cơ quan, đơn vị, cá nhân bị tố cáo giải trình về hành vi bị tố cáo, cung cấp thông tin tài liệu liên quan đến nội dung tố cáo;
 
+ d) Chuẩn bị nội dung làm việc với cơ quan, tổ chức, cá nhân khác có liên quan đến nội dung tố cáo; chuẩn bị văn bản để trình người giải quyết tố cáo hoặc người ra quyết định thành lập Tổ xác minh hoặc Tổ trưởng Tổ xác minh ký yêu cầu, đề nghị cơ quan, tổ chức, cá nhân khác cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo;
 
-### Điều 18.5.TT.10.18. Thu thập, xử lý thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+ đ) Việc họp Tổ xác minh phải được lập thành biên bản để lưu hồ sơ hoặc ghi vào sổ nhật ký Tổ xác minh.Điều 18.5.TT.10.14. Công bố quyết định thụ lý tố cáo, quyết định thành lập Tổ xác minh nội dung tố cáo
 
-Điều 18.5.TT.10.18. Thu thập, xử lý thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+(Điều 14 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Chỉ mục:** 18
+ 1. Trường hợp thông báo về việc thụ lý tố cáo cho người bị tố cáo thực hiện theo quy định tại điểm b khoản 3 Điều 13 Thông tư này thì trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định thụ lý tố cáo, quyết định thành lập Tổ xác minh nội dung tố cáo, người giải quyết tố cáo hoặc Tổ trưởng Tổ xác minh chủ trì công bố Quyết định thụ lý tố cáo, Quyết định thành lập Tổ xác minh nội dung tố cáo; thành phần dự công bố gồm:
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001800
+ a) Đại diện lãnh đạo cơ quan thanh tra hoặc cơ quan khác được giao xác minh nội dung tố cáo; Tổ xác minh nội dung tố cáo;
 
-**ID:** dk_00025006
+ b) Tập thể lãnh đạo trong trường hợp đối tượng bị tố cáo là cơ quan, tổ chức, đơn vị;
 
----
+ c) Trường hợp người bị tố cáo là Đảng ủy viên, lãnh đạo cơ quan, tổ chức, đơn vị thì thành phần gồm: Tập thể Thường vụ hoặc Đảng ủy, tập thể lãnh đạo cơ quan, tổ chức, đơn vị của người bị tố cáo, đại diện các đoàn thể (nếu có) và người bị tố cáo;
 
+ d) Trường hợp người bị tố cáo là cán bộ không giữ chức vụ thì thành phần gồm: Đại diện lãnh đạo cơ quan, tổ chức, đơn vị của người bị tố cáo, đại diện các đoàn thể (nếu có) và người bị tố cáo.
 
-### Điều 18.5.TT.10.19. Ủy quyền xác minh
+ 2. Nội dung công bố:
 
-*Nội dung chưa có sẵn*
+ a) Tổ trưởng Tổ xác minh công bố toàn bộ nội dung Quyết định thụ lý tố cáo, Quyết định thành lập tổ xác minh nội dung tố cáo;
 
-**Chỉ mục:** 19
+ b) Yêu cầu người bị tố cáo giải trình về hành vi bị tố cáo và cung cấp hồ sơ, tài liệu liên quan đến nội dung tố cáo; yêu cầu, đề nghị cơ quan, tổ chức, cá nhân khác có liên quan cung cấp hồ sơ, tài liệu liên quan đến nội dung tố cáo;
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001900
+ c) Thông báo lịch làm việc của Tổ xác minh.
 
-**ID:** dk_00025007
+ 3. Việc công bố Quyết định thụ lý tố cáo, Quyết định thành lập Tổ xác minh nội dung tố cáo phải được lập thành biên bản, có chữ ký của Tổ trưởng Tổ xác minh, đại diện cơ quan, đơn vị quản lý người bị tố cáo và người bị tố cáo. Biên bản được lập thành ba bản, một bản giao cho người bị tố cáo, một bản giao cho đại diện cơ quan, tổ chức, đơn vị quản lý người bị tố cáo và một bản lưu trong hồ sơ giải quyết tố cáo.Điều 18.5.TT.10.18. Thu thập, xử lý thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
 
----
+(Điều 18 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
+ 1. Việc thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo phải căn cứ vào kế hoạch xác minh đã được phê duyệt và yêu cầu của việc giải quyết tố cáo. Khi tiếp nhận thông tin, tài liệu, chứng cứ do người tố cáo, người bị tố cáo, cơ quan, tổ chức, đơn vị, cá nhân có liên quan cung cấp trực tiếp thì Tổ xác minh phải lập biên bản giao nhận.
 
-### Điều 18.5.TT.10.24. Thông báo dự thảo báo cáo kết quả xác minh và hoàn chỉnh báo cáo chính thức
+ 2. Các thông tin, tài liệu, chứng cứ được thu thập trực tiếp phải thể hiện rõ nguồn gốc. Khi thu thập bản sao, Tổ xác minh phải đối chiếu với bản chính; nếu không có bản chính thì phải ghi rõ trong biên bản giao nhận. Các thông tin, tài liệu, chứng cứ do cơ quan, tổ chức, đơn vị, cá nhân cung cấp phải có xác nhận của cơ quan, tổ chức, đơn vị, cá nhân đã cung cấp. Trường hợp tài liệu cũ nát, không nguyên vẹn thì phải mô tả rõ tình trạng tài liệu trong biên bản giao nhận. Trường hợp tài liệu bằng chữ hoặc tiếng nước ngoài, tiếng dân tộc thiểu số thì phải được dịch ra chữ hoặc tiếng Việt.
 
-Điều 18.5.TT.10.24. Thông báo dự thảo báo cáo kết quả xác minh và hoàn chỉnh báo cáo chính thức
+ 3. Tổ xác minh phải kiểm tra tính xác thực và đánh giá về giá trị chứng minh của những thông tin, tài liệu, chứng cứ đã thu thập trên cơ sở tuân thủ các quy định của pháp luật, các nguyên tắc trong giải quyết tố cáo, chú trọng những thông tin, tài liệu, chứng cứ do người tố cáo cung cấp để tố cáo hành vi vi phạm và thông tin, tài liệu, chứng cứ do người bị tố cáo cung cấp để giải trình, chứng minh tính đúng, sai của nội dung tố cáo
 
-**Chỉ mục:** 24
+ 4. Các thông tin, tài liệu chứng cứ thu thập được trong quá trình giải quyết tố cáo phải được quản lý chặt chẽ, sử dụng đúng quy định; chỉ cung cấp hoặc công bố khi người có thẩm quyền cho phép. Trường hợp tài liệu, chứng cứ chưa có điều kiện để thu thập, xử lý ngay, Tổ xác minh tiến hành niêm phong tài liệu, chứng cứ và giao cho cơ quan, tổ chức, đơn vị, cá nhân có trách nhiệm bảo quản tạm thời.Điều 18.5.TT.10.19. Ủy quyền xác minh
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290002400
+(Điều 19 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**ID:** dk_00025008
+ 1. Trường hợp cần thiết, người giải quyết tố cáo hoặc người ra quyết định thành lập Tổ xác minh có thể ủy quyền xác minh cho cơ quan, tổ chức có thẩm quyền kiểm tra, xác minh thông tin về người tố cáo, điều kiện thụ lý tố cáo hoặc một số nội dung tố cáo khác. Việc ủy quyền xác minh được thực hiện bằng văn bản theo mẫu quy định; văn bản ủy quyền phải nêu rõ nội dung xác minh, thời hạn kết thúc.
 
----
+ 2. Cơ quan, tổ chức được ủy quyền xác minh phải bảo đảm bí mật thông tin về người tố cáo; thực hiện đầy đủ những việc được ủy quyền trong thời hạn nêu trong văn bản ủy quyền xác minh và chịu trách nhiệm trước pháp luật về kết quả thực hiện ủy quyền xác minh; trường hợp không thực hiện được việc ủy quyền xác minh thì phải có ngay văn bản nêu rõ lý do gửi người giải quyết tố cáo hoặc Thủ trưởng cơ quan đã ủy quyền.Điều 18.5.TT.10.24. Thông báo dự thảo báo cáo kết quả xác minh và hoàn chỉnh báo cáo chính thức
 
+(Điều 24 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-### Điều 18.5.TT.10.25. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo
+ 1. Tổ xác minh làm việc riêng với người tố cáo, người bị tố cáo để thông báo từng nội dung tố cáo và kết quả xác minh để họ nêu ý kiến của mình. Nếu người tố cáo, người bị tố cáo không đồng ý thì yêu cầu nêu rõ lý do và cung cấp tài liệu chứng cứ để chứng minh; nếu người tố cáo, người bị tố cáo không cung cấp được tài liệu gì mới thì Tổ xác minh kết luận theo tài liệu đã xác minh và chịu trách nhiệm về kết luận của mình; nếu có tài liệu mới cần xác minh thì Tổ trưởng xác minh phải báo cáo người ra quyết định thành lập tổ xác minh quyết định việc xác minh để làm rõ.
 
-Điều 18.5.TT.10.25. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo
+ 2. Nội dung làm việc với người tố cáo, người bị tố cáo phải được lập thành biên bản theo mẫu quy định; trường hợp có nhiều nội dung tố cáo thì phải nêu từng nội dung để họ có ý kiến và ký xác nhận vào từng nội dung. Trong trường hợp người tố cáo không yêu cầu phải giữ bí mật, ý kiến của người tố cáo và người bị tố cáo có mâu thuẫn thì có thể tổ chức đối chất.
 
-**Chỉ mục:** 25
+ 3. Sau khi thông báo dự thảo báo cáo kết quả xác minh với người tố cáo, người bị tố cáo, Tổ xác minh phải họp thống nhất lần cuối nội dung dự thảo báo cáo kết quả xác minh trước khi Tổ trưởng Tổ xác minh ký để báo cáo Thủ trưởng cơ quan được giao xác minh nội dung tố cáo hoặc người giải quyết tố cáo.
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290002500
+ 4. Trường hợp người tố cáo bổ sung nội dung tố cáo mới thì xử lý như sau:
 
-**ID:** dk_00025009
+ a) Nếu còn thời hạn giải quyết tố cáo thì Tổ trưởng Tổ xác minh báo cáo để người giải quyết tố cáo ra quyết định thụ lý tố cáo bổ sung tiếp tục xác minh, kết luận nội dung tố cáo.
 
----
+ b) Nếu thời hạn giải quyết tố cáo đã hết hoặc không đủ để xác minh, kết luận nhưng còn gia hạn giải quyết tố cáo được thì Tổ trưởng Tổ xác minh báo cáo để người giải quyết tố cáo ra quyết định gia hạn giải quyết tố cáo theo quy định tại Điều 22 Thông tư này và ra quyết định thụ lý tố cáo bổ sung tiếp tục xác minh, kết luận nội dung tố cáo.
 
+ c) Nếu thời hạn giải quyết tố cáo và gia hạn giải quyết tố cáo đã hết thì Tổ trưởng Tổ xác minh báo cáo người giải quyết tố cáo kết luận nội dung tố cáo. Các nội dung tố cáo mới sẽ được thụ lý, xác minh, kết luận theo trình tự, thủ tục giải quyết vụ việc tố cáo mới.Điều 18.5.TT.10.25. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo
 
-### Điều 18.5.NĐ.4.11. Làm việc trực tiếp với người tố cáo
+(Điều 25 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-Điều 18.5.NĐ.4.11. Làm việc trực tiếp với người tố cáo
+ Khi có căn cứ để tạm đình chỉ, đình chỉ giải quyết tố cáo, người giải quyết tố cáo ra quyết định tạm đình chỉ, đình chỉ giải quyết tố cáo. Căn cứ tạm đình chỉ, đình chỉ giải quyết tố cáo; việc tạm đình chỉ, đình chỉ, ra quyết định tiếp tục giải quyết tố cáo được thực hiện theo quy định tại Điều 34 Luật Tố cáo và khoản 4 Điều 15 Nghị định số 31/2019/NĐ-CP ngày 10/4/2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo.Điều 18.5.NĐ.4.11. Làm việc trực tiếp với người tố cáo
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000310000000000000000000402688300310001100
+1. Người giải quyết tố cáo, Tổ xác minh làm việc trực tiếp với người tố cáo; yêu cầu người tố cáo cung cấp thông tin, tài liệu, bằng chứng mà họ có được để làm rõ nội dung tố cáo.
 
-**ID:** dk_00025010
+Người tố cáo có trách nhiệm trình bày trung thực về nội dung tố cáo, hợp tác, cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo mà mình có được.
 
----
+2. Nội dung làm việc với người tố cáo phải lập thành biên bản, có chữ ký của người tố cáo, người chủ trì làm việc với người tố cáo. Biên bản được lập thành ít nhất 02 bản, giao 01 bản cho người tố cáo (nếu người tố cáo có yêu cầu) và lưu 01 bản trong hồ sơ giải quyết tố cáo. Trường hợp người tố cáo không ký biên bản làm việc thì người chủ trì làm việc với người tố cáo và thành viên khác của Tổ xác minh ký biên bản và ghi rõ việc người tố cáo không ký. Biên bản làm việc thực hiện theo Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị định này.
 
+3. Trường hợp không làm việc trực tiếp với người tố cáo vì lý do khách quan thì người giải quyết tố cáo, người ra quyết định thành lập Tổ xác minh hoặc Tổ trưởng Tổ xác minh có văn bản yêu cầu người tố cáo cung cấp thông tin, tài liệu, bằng chứng để làm rõ nội dung tố cáo.
 
-### Điều 18.5.TT.6.31. Thực hiện các biện pháp để thu thập thông tin, tài liệu, làm rõ nội dung tố cáo
+Mau so 08 Bien ban.docx
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo)
 
 Điều 18.5.TT.6.31. Thực hiện các biện pháp để thu thập thông tin, tài liệu, làm rõ nội dung tố cáo
 
-**Chỉ mục:** 31
+(Điều 31 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000110000802731800010003100
+1. Làm việc trực tiếp với người tố cáo như sau:
 
-**ID:** dk_00025011
+a) Người giải quyết tố cáo, Tổ xác minh làm việc trực tiếp với người tố cáo; yêu cầu người tố cáo cung cấp thông tin, tài liệu, chứng cứ để làm rõ nội dung tố cáo;
 
----
+b) Nội dung làm việc với người tố cáo phải lập thành biên bản, có chữ ký của người tố cáo, người chủ trì làm việc với người tố cáo. Biên bản lập thành ít nhất hai bản, một bản giao cho người tố cáo, một bản lưu hồ sơ giải quyết tố cáo; Trường hợp người tố cáo không ký biên bản làm việc thì người chủ trì làm việc với người tố cáo và thành viên khác của Tổ xác minh ký biên bản và ghi rõ việc người tố cáo không ký;
 
+c) Trong trường hợp không làm việc trực tiếp với người tố cáo vì lý do khách quan thì người giải quyết tố cáo, người ra quyết định thành lập Tổ xác minh hoặc Tổ trưởng Tổ xác minh có văn bản yêu cầu người tố cáo cung cấp thông tin, tài liệu, chứng cứ để làm rõ nội dung tố cáo. Thời gian yêu cầu cung cấp thông tin, tài liệu, chứng cứ phải trong thời hạn giải quyết tố cáo theo quy định của pháp luật.
 
-### Điều 18.5.TT.10.15. Tổ chức làm việc với người tố cáo để thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+2. Làm việc trực tiếp với người bị tố cáo như sau:
+
+a) Người giải quyết tố cáo, Tổ xác minh phải làm việc trực tiếp với người bị tố cáo; yêu cầu người bị tố cáo giải trình bằng văn bản về những nội dung bị tố cáo, cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung bị tố cáo, nội dung giải trình;
+
+b) Nội dung làm việc với người bị tố cáo phải được lập thành biên bản. Biên bản phải có chữ ký của người bị tố cáo và người chủ trì làm việc với người tố cáo và được lập thành ít nhất hai bản, một bản giao cho người bị tố cáo, một bản lưu hồ sơ giải quyết tố cáo;
+
+c) Trong trường hợp giải trình của người bị tố cáo chưa rõ; thông tin, tài liệu, chứng cứ do người bị tố cáo cung cấp chưa đầy đủ thì Tổ xác minh yêu cầu người bị tố cáo tiếp tục giải trình, cung cấp thông tin, tài liệu, chứng cứ về các vấn đề còn chưa rõ.
+
+3. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân liên quan cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo như sau:
+
+a) Để làm rõ nội dung tố cáo, người giải quyết tố cáo, người ra quyết định thành lập Tổ xác minh hoặc Tổ xác minh yêu cầu cơ quan, tổ chức, đơn vị, cá nhân liên quan cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo;
+
+b) Trong trường hợp cần thiết, Tổ xác minh trực tiếp làm việc với cơ quan, tổ chức, đơn vị, cá nhân liên quan để thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo. Nội dung làm việc được lập thành biên bản. Biên bản phải có chữ ký của đại diện Tổ xác minh, người đại diện cơ quan, tổ chức, đơn vị, cá nhân có liên quan; được lập thành ít nhất hai bản, giao một bản cho cơ quan, tổ chức, đơn vị, cá nhân có liên quan và lưu hồ sơ giải quyết tố cáo.
+
+4. Thu thập, xử lý thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo như sau:
+
+a) Việc yêu cầu cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo phải căn cứ vào kế hoạch xác minh đã được phê duyệt, yêu cầu của việc giải quyết tố cáo. Khi tiếp nhận thông tin, tài liệu, chứng cứ do người tố cáo, người bị tố cáo, cơ quan, tổ chức, đơn vị, cá nhân liên quan cung cấp trực tiếp thì Tổ xác minh phải lập Giấy biên nhận;
+
+b) Các thông tin, tài liệu, chứng cứ được thu thập trực tiếp phải thể hiện rõ nguồn gốc. Khi thu thập bản sao, Tổ xác minh phải đối chiếu với bản chính; trong trường hợp không có bản chính thì phải ghi rõ trong Giấy biên nhận. Các thông tin, tài liệu, chứng cứ do cơ quan, tổ chức, đơn vị cung cấp phải có xác nhận của cơ quan, tổ chức, đơn vị cung cấp. Thông tin, tài liệu, chứng cứ do cá nhân cung cấp phải có xác nhận của người cung cấp. Trong trường hợp tài liệu bị mất trang, mất chữ, quá cũ nát, quá mờ không đọc được chính xác nội dung thì người tiếp nhận tài liệu phải ghi rõ tình trạng của tài liệu đó trong Giấy biên nhận;
+
+c) Tổ xác minh phải kiểm tra tính xác thực của thông tin, tài liệu, chứng cứ đã thu thập được, chú trọng những thông tin, tài liệu, chứng cứ do người tố cáo cung cấp để tố cáo hành vi vi phạm và thông tin, tài liệu, chứng cứ do người bị tố cáo cung cấp để giải trình, chứng minh tính đúng, sai của nội dung tố cáo;
+
+d) Các thông tin, tài liệu, chứng cứ thu thập trong quá trình giải quyết tố cáo phải được quản lý chặt chẽ, sử dụng đúng quy định; chỉ cung cấp hoặc công bố khi người có thẩm quyền cho phép.
+
+5. Căn cứ kế hoạch xác minh, tình tiết vụ việc hoặc chỉ đạo của người ra quyết định thành lập Tổ xác minh thì Tổ xác minh tiến hành xác minh thực tế ở những địa điểm cần thiết để thu thập, kiểm tra, xác định tính chính xác, hợp pháp của các thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo.
+
+Việc xác minh thực tế phải lập thành biên bản ghi đầy đủ kết quả xác minh, ý kiến của những người tham gia xác minh và những người khác có liên quan. Biên bản phải có chữ ký của người xác minh, những người có liên quan và phải lưu trong hồ sơ giải quyết tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 18.5.NĐ.4.12. Làm việc trực tiếp với người bị tố cáo)
 
 Điều 18.5.TT.10.15. Tổ chức làm việc với người tố cáo để thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000110000802749101290001500
+ 1. Tổ xác minh gửi giấy mời hoặc các hình thức liên hệ khác, lựa chọn địa điểm thuận lợi để làm việc trực tiếp với người tố cáo; yêu cầu người tố cáo cung cấp thông tin, tài liệu, chứng cứ mà người tố cáo có được để làm rõ nội dung tố cáo. Người tố cáo có trách nhiệm trình bày trung thực về nội dung tố cáo, hợp tác, cung cấp thông tin tài liệu mà mình có được.
 
-**ID:** dk_00025012
+ 2. Quá trình làm việc với người tố cáo phải bảo đảm bí mật về buổi làm việc, không để những người không có trách nhiệm biết về địa điểm, nội dung làm việc (trừ trường hợp người tố cáo không cần giữ bí mật). Nội dung làm việc với người tố cáo phải được lập thành biên bản theo mẫu quy định, có chữ ký của người tố cáo, người chủ trì làm việc; biên bản được lập ít nhất thành hai bản, giao một bản cho người tố cáo (nếu người tố cáo có yêu cầu) và lưu một bản trong hồ sơ giải quyết tố cáo. Trường hợp người tố cáo không ký biên bản làm việc thì người chủ trì làm việc và các thành viên khác của Tổ xác minh tham gia buổi làm việc ký biên bản và ghi rõ lý do người tố cáo không ký.
 
----
+ 3. Trường hợp không làm việc trực tiếp được với người tố cáo vì lý do khách quan thì người giải quyết tố cáo, người ra quyết định thành lập Tổ xác minh hoặc Tổ trưởng Tổ xác minh có văn bản yêu cầu người tố cáo cung cấp thông tin, tài liệu, chứng cứ để làm rõ nội dung tố cáo.Điều 18.5.NĐ.4.12. Làm việc trực tiếp với người bị tố cáo
 
+(Điều 12 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-### Điều 18.5.NĐ.4.12. Làm việc trực tiếp với người bị tố cáo
+1. Người giải quyết tố cáo, Tổ xác minh phải làm việc trực tiếp với người bị tố cáo; yêu cầu người bị tố cáo giải trình bằng văn bản về những nội dung bị tố cáo, cung cấp thông tin, tài liệu, bằng chứng liên quan đến nội dung bị tố cáo, nội dung giải trình.
 
-Điều 18.5.NĐ.4.12. Làm việc trực tiếp với người bị tố cáo
+2. Nội dung làm việc với người bị tố cáo phải được lập thành biên bản theo Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị định này. Biên bản phải có chữ ký của người bị tố cáo, người chủ trì làm việc với người bị tố cáo và được lập thành ít nhất 02 bản, giao 01 bản cho người bị tố cáo (nếu người bị tố có yêu cầu) và lưu 01 bản trong hồ sơ giải quyết tố cáo.
 
-**Chỉ mục:** 12
+3. Trường hợp thông tin, tài liệu, bằng chứng do người bị tố cáo cung cấp chưa đầy đủ, việc giải trình của người bị tố cáo chưa rõ thì người giải quyết tố cáo, Tổ xác minh yêu cầu người bị tố cáo tiếp tục cung cấp thông tin, tài liệu, bằng chứng, giải trình về các vấn đề còn chưa rõ.
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000310000000000000000000402688300310001200
+Mau so 08 Bien ban.docx
 
-**ID:** dk_00025013
-
----
-
-
-### Điều 18.5.TT.6.28. Yêu cầu giải trình và cung cấp thông tin, tài liệu, chúng cứ liên quan đến nội dung tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.56. Biện pháp bảo vệ bí mật thông tin; Điều 18.5.TT.6.31. Thực hiện các biện pháp để thu thập thông tin, tài liệu, làm rõ nội dung tố cáo)
 
 Điều 18.5.TT.6.28. Yêu cầu giải trình và cung cấp thông tin, tài liệu, chúng cứ liên quan đến nội dung tố cáo
 
-**Chỉ mục:** 28
+(Điều 28 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000120000802731800010002800
+1. Sau khi thụ lý, người giải quyết tố cáo yêu cầu người tố cáo cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo; yêu cầu người bị tố cáo giải trình bằng văn bản và cung cấp thông tin, tài liệu, chứng cứ liên quan đến hành vi bị tố cáo. Thời hạn yêu cầu cung cấp thông tin, tài liệu, chứng cứ và văn bản giải trình phải trong thời hạn giải quyết tố cáo.
 
-**ID:** dk_00025014
-
----
-
-
-### Điều 18.5.TT.10.16. Làm việc với người bị tố cáo để thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+2. Sau khi nghiên cứu các thông tin, tài liệu, chứng cứ và văn bản giải trình, nếu thấy hành vi bị tố cáo không vi phạm pháp luật, người giải quyết tố cáo ban hành ngay kết luận nội dung tố cáo; nếu chưa đủ căn cứ cho việc giải quyết thì tiến hành xác minh làm rõ nội dung tố cáo.
 
 Điều 18.5.TT.10.16. Làm việc với người bị tố cáo để thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000120000802749101290001600
+ 1. Tổ xác minh phải làm việc trực tiếp với người bị tố cáo; yêu cầu giải trình bằng văn bản về những nội dung bị tố cáo, cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo, nội dung giải trình. Nội dung làm việc với người bị tố cáo phải được lập thành biên bản theo mẫu quy định, có chữ ký của người bị tố cáo (hoặc đại diện lãnh đạo của cơ quan, đơn vị bị tố cáo), người chủ trì làm việc và được lập thành 02 bản, giao một bản cho người bị tố cáo (nếu người bị tố cáo yêu cầu) và lưu một bản trong hồ sơ giải quyết tố cáo.
 
-**ID:** dk_00025015
+ 2. Trường hợp người bị tố cáo giải trình chưa rõ; thông tin, tài liệu, chứng cứ do người bị tố cáo cung cấp chưa đầy đủ thì Tổ xác minh yêu cầu người bị tố cáo tiếp tục giải trình, cung cấp thông tin, tài liệu, chứng cứ về các vấn đề chưa rõ.Điều 18.5.NĐ.4.13. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, bằng chứng liên quan đến nội dung tố cáo
 
----
+(Điều 13 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
+1. Người giải quyết tố cáo hoặc người ra quyết định thành lập Tổ xác minh hoặc Tổ xác minh yêu cầu cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, bằng chứng liên quan để làm rõ nội dung tố cáo.
 
-### Điều 18.5.NĐ.4.13. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, bằng chứng liên quan đến nội dung tố cáo
+2. Trường hợp cần thiết, Tổ xác minh trực tiếp làm việc với cơ quan, tổ chức, đơn vị, cá nhân để thu thập thông tin, tài liệu, bằng chứng liên quan đến nội dung tố cáo. Nội dung làm việc được lập thành biên bản theo Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị định này. Biên bản phải có chữ ký của đại diện Tổ xác minh, người đại diện cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, bằng chứng và được lập thành ít nhất 02 bản, giao 01 bản cho cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, bằng chứng và lưu 01 bản trong hồ sơ giải quyết tố cáo.
 
-Điều 18.5.NĐ.4.13. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, bằng chứng liên quan đến nội dung tố cáo
+3. Cơ quan, tổ chức, cá nhân có thông tin, tài liệu, bằng chứng có liên quan đến nội dung tố cáo phải cung cấp kịp thời, đầy đủ theo yêu cầu của người giải quyết tố cáo, người ra quyết định thành lập Tổ xác minh hoặc Tổ xác minh.
 
-**Chỉ mục:** 13
+Mau so 08 Bien ban.docx
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000310000000000000000000402688300310001300
-
-**ID:** dk_00025016
-
----
-
-
-### Điều 18.5.TT.10.17. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân khác cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.11. Quyền và nghĩa vụ của người giải quyết tố cáo)
 
 Điều 18.5.TT.10.17. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân khác cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000130000802749101290001700
+ 1. Người giải quyết tố cáo hoặc người ra quyết định thành lập tổ xác minh hoặc Tổ trưởng Tổ xác minh có văn bản yêu cầu cơ quan, tổ chức, đơn vị, cá nhân khác cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo.
 
-**ID:** dk_00025017
+ 2. Trường hợp cần thiết, Tổ xác minh trực tiếp làm việc với cơ quan, tổ chức, đơn vị, cá nhân khác để thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo. Nội dung làm việc phải được lập thành biên bản theo mẫu quy định, có chữ ký của đại diện Tổ xác minh, người đại diện cơ quan, tổ chức, đơn vị hoặc cá nhân cung cấp thông tin, tài liệu, chứng cứ và được lập thành hai bản, một bản giao cho cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, chứng cứ (nếu có yêu cầu) và một bản lưu hồ sơ giải quyết tố cáo.Điều 18.5.NĐ.4.14. Xác minh thực tế
 
----
+(Điều 14 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
+1. Căn cứ vào tình tiết vụ việc hoặc chỉ đạo của người ra quyết định thành lập Tổ xác minh, Tổ xác minh tiến hành xác minh thực tế ở những địa điểm cần thiết để thu thập, kiểm tra, xác định tính chính xác, hợp pháp của các thông tin, tài liệu, bằng chứng liên quan đến nội dung tố cáo.
 
-### Điều 18.5.NĐ.4.14. Xác minh thực tế
+2. Việc xác minh thực tế phải lập thành biên bản ghi đầy đủ kết quả xác minh, ý kiến của những người tham gia xác minh và những người khác có liên quan. Biên bản theo Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị định này phải có chữ ký của người xác minh, những người có liên quan và phải lưu trong hồ sơ giải quyết tố cáo.
 
-*Nội dung chưa có sẵn*
+Mau so 08 Bien ban.docx
 
-**Chỉ mục:** 14
+Điều 18.5.TT.10.20. Xác minh thực tế
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000310000000000000000000402688300310001400
+(Điều 20 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**ID:** dk_00025018
+ 1. Căn cứ kế hoạch xác minh, tình tiết vụ việc hoặc chỉ đạo của người ra quyết định thành lập Tổ xác minh, Tổ xác minh tiến hành xác minh thực tế ở những địa điểm cần thiết để thu thập, kiểm tra, xác định tính chính xác, hợp pháp của các thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo. Quá trình xác minh nếu xét thấy cần thiết, Tổ xác minh công khai sử dụng các phương tiện kỹ thuật như: Máy ghi âm, ghi hình và các phương tiện kỹ thuật khác để hỗ trợ việc xác minh.
 
----
+ 2. Việc xác minh thực tế phải lập thành biên bản ghi đầy đủ kết quả xác minh, ý kiến của những người tham gia xác minh và những người khác có liên quan. Biên bản phải có chữ ký của người xác minh, những người có liên quan và phải lưu trong hồ sơ giải quyết tố cáo.Điều 18.5.NĐ.4.15. Trưng cầu giám định
 
+(Điều 15 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-### Điều 18.5.TT.10.20. Xác minh thực tế
+1. Khi xét thấy cần có sự đánh giá về nội dung liên quan đến chuyên môn, kỹ thuật làm căn cứ cho việc kết luận nội dung tố cáo, xử lý hành vi vi phạm bị tố cáo thì người giải quyết tố cáo quyết định việc trưng cầu giám định.
 
-*Nội dung chưa có sẵn*
+2. Việc trưng cầu giám định được thực hiện bằng văn bản, trong đó nêu rõ tên cơ quan, tổ chức giám định; nội dung yêu cầu giám định; thời hạn đề nghị gửi kết luận giám định. Văn bản trưng cầu giám định được gửi cho người giải quyết tố cáo, người tố cáo và cơ quan, tổ chức, cá nhân có liên quan. Văn bản trưng cầu giám định thực hiện theo Mẫu số 09 tại Phụ lục ban hành kèm theo Nghị định này.
 
-**Chỉ mục:** 20
+Trường hợp giao cơ quan thanh tra nhà nước xác minh nội dung tố cáo thì người giải quyết tố cáo có thể ủy quyền cho cơ quan thanh tra nhà nước quyết định việc trưng cầu giám định.
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000140000802749101290002000
+3. Cơ quan, tổ chức giám định phải chịu trách nhiệm trước pháp luật về tính chính xác, khách quan, kịp thời của kết quả giám định.
 
-**ID:** dk_00025019
+4. Thời gian giám định không tính vào thời hạn giải quyết tố cáo.
 
----
+Mau so 09 Trung cau giam dinh.docx
 
+Điều 18.5.TT.10.21. Trưng cầu giám định
 
-### Điều 18.5.NĐ.4.15. Trưng cầu giám định
+(Điều 21 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-*Nội dung chưa có sẵn*
+ 1. Khi xét thấy cần có sự đánh giá về nội dung liên quan đến chuyên môn, kỹ thuật làm căn cứ cho việc kết luận nội dung tố cáo, xử lý hành vi vi phạm bị tố cáo thì người giải quyết tố cáo ra quyết định trưng cầu giám định hoặc ủy quyền Chánh Thanh tra cùng cấp được giao xác minh hoặc người ra quyết định thành lập Tổ xác minh ra quyết định trưng cầu giám định.
 
-**Chỉ mục:** 15
+ 2. Việc trưng cầu giám định thực hiện bằng văn bản trong đó nêu rõ tên cơ quan, tổ chức giám định; thông tin, tài liệu, chứng cứ cần giám định; nội dung yêu cầu giám định; thời hạn đề nghị gửi kết luận giám định.Điều 18.5.NĐ.4.16. Báo cáo kết quả xác minh nội dung tố cáo
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000310000000000000000000402688300310001500
+(Điều 16 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**ID:** dk_00025020
+1. Tổ trưởng Tổ xác minh phải báo cáo bằng văn bản về kết quả xác minh nội dung tố cáo với người ra quyết định thành lập Tổ xác minh. Văn bản báo cáo phải được các thành viên trong Tổ xác minh thảo luận, đóng góp ý kiến.
 
----
+2. Báo cáo của Tổ xác minh về kết quả xác minh nội dung tố cáo phải có các nội dung chính sau đây:
 
+a) Tóm tắt nội dung tố cáo;
 
-### Điều 18.5.TT.10.21. Trưng cầu giám định
+b) Kết quả xác minh từng nội dung tố cáo;
 
-*Nội dung chưa có sẵn*
+c) Nội dung giải trình của người bị tố cáo (nếu có);
 
-**Chỉ mục:** 21
+d) Đề xuất đánh giá về nội dung tố cáo là đúng, đúng một phần hoặc tố cáo sai sự thật; xác định trách nhiệm của từng cơ quan, tổ chức, cá nhân liên quan đến nội dung tố cáo;
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000150000802749101290002100
+đ) Kiến nghị xử lý đối với cơ quan, tổ chức, cá nhân có hành vi vi phạm; các biện pháp cần thiết để bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-**ID:** dk_00025021
+Báo cáo của Tổ xác minh về kết quả xác minh nội dung tố cáo được thực hiện theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định này.
 
----
+3. Trong quá trình xác minh, nếu phát hiện hành vi có dấu hiệu tội phạm thì Tổ trưởng Tổ xác minh báo cáo ngay với người ra quyết định thành lập Tổ xác minh. Người ra quyết định thành lập Tổ xác minh phải kịp thời báo cáo người giải quyết tố cáo xem xét, xử lý theo quy định của pháp luật.
 
+4. Thủ trưởng cơ quan, tổ chức được giao nhiệm vụ xác minh nội dung tố cáo phải báo cáo với người giải quyết tố cáo về kết quả xác minh nội dung tố cáo. Báo cáo kết quả xác minh nội dung tố cáo được thực hiện theo Mẫu số 11 tại Phụ lục ban hành kèm theo Nghị định này.
 
-### Điều 18.5.NĐ.4.16. Báo cáo kết quả xác minh nội dung tố cáo
+5. Trường hợp xác minh để giải quyết lại tố cáo thì ngoài những nội dung quy định tại khoản 2 Điều này, trong báo cáo của Tổ xác minh, báo cáo của cơ quan, tổ chức, cá nhân được giao nhiệm vụ xác minh còn phải nêu rõ những nội dung vi phạm pháp luật, sai lầm hoặc không phù hợp của việc giải quyết tố cáo trước đó (nếu có) và kiến nghị việc xử lý đối với cơ quan, tổ chức, đơn vị, cá nhân có hành vi vi phạm pháp luật trong quá trình giải quyết tố cáo trước đó (nếu có).
 
-Điều 18.5.NĐ.4.16. Báo cáo kết quả xác minh nội dung tố cáo
+6. Cơ quan, tổ chức, cá nhân được giao nhiệm vụ xác minh phải chịu trách nhiệm trước pháp luật và trước người giao nhiệm vụ xác minh về tính chính xác, khách quan của Báo cáo kết quả xác minh nội dung tố cáo.
 
-**Chỉ mục:** 16
+Mau so 10 Bao cao ket qua xac minh noi dung to cao cua Doan (To) xac minh.docx
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000310000000000000000000402688300310001600
+Mau so 11 Bao cao ket qua xac minh noi dung to cao cua co quan duoc giao xac minh noi dung to cao.docx
 
-**ID:** dk_00025022
-
----
-
-
-### Điều 18.5.TT.6.32. Báo cáo kết quả xác minh nội dung tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.39. Hồ sơ giải quyết vụ việc tố cáo)
 
 Điều 18.5.TT.6.32. Báo cáo kết quả xác minh nội dung tố cáo
 
-**Chỉ mục:** 32
+(Điều 32 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000160000802731800010003200
+1. Tổ trưởng Tổ xác minh phải báo cáo bằng văn bản về kết quả xác minh nội dung tố cáo với người ra quyết định thành lập Tổ xác minh. Báo cáo phải được các thành viên trong Tổ xác minh thảo luận, đóng góp ý kiến.
 
-**ID:** dk_00025023
+2. Báo cáo của Tổ xác minh về kết quả xác minh nội dung tố cáo phải có các nội dung chính sau:
 
----
+a) Tóm tắt nội dung tố cáo;
 
+b) Kết quả xác minh từng nội dung tố cáo;
 
-### Điều 18.5.TT.10.23. Dự thảo báo cáo kết quả xác minh nội dung tố cáo
+c) Nội dung giải trình của người bị tố cáo;
+
+d) Nhận xét, đánh giá về nội dung tố cáo được giao xác minh là tố cáo đúng, đúng một phần hoặc sai; việc người tố cáo cố ý tố cáo sai sự thật (nếu có);
+
+đ) Nhận xét, đánh giá về hành vi vi phạm pháp luật của người bị tố cáo, cơ quan, tổ chức, đơn vị, cá nhân khác (nếu có); nguyên nhân, trách nhiệm của người bị tố cáo, cơ quan, tổ chức, đơn vị, cá nhân có liên quan trong những nội dung tố cáo đúng hoặc đúng một phần;
+
+e) Thiệt hại về vật chất, tinh thần do hành vi vi phạm pháp luật gây ra; đối tượng bị thiệt hại;
+
+g) Những vấn đề còn có ý kiến khác nhau trong Tổ xác minh (nếu có);
+
+h) Kiến nghị với người có thẩm quyền áp dụng các biện pháp xử lý hành vi vi phạm pháp luật và buộc khắc phục hậu quả do hành vi vi phạm pháp luật gây ra.
+
+3. Trong quá trình xác minh, nếu phát hiện hành vi có dấu hiệu tội phạm thì Tổ trưởng Tổ xác minh báo cáo ngay với người ra quyết định thành lập Tổ xác minh. Người ra quyết định thành lập Tổ xác minh phải kịp thời xử lý theo thẩm quyền, báo cáo người có thẩm quyền xem xét, xử lý theo quy định của pháp luật.
+
+4. Thủ trưởng cơ quan, đơn vị được giao nhiệm vụ xác minh nội dung tố cáo phải báo cáo với người giải quyết tố cáo về kết quả xác minh nội dung tố cáo. Báo cáo phải có các nội dung chính sau:
+
+a) Nội dung tố cáo;
+
+b) Nội dung giải trình của người bị tố cáo;
+
+c) Phân tích, đánh giá thông tin, tài liệu, chứng cứ để chứng minh tính đúng, sai của nội dung tố cáo;
+
+d) Kết luận về nội dung tố cáo được giao xác minh là tố cáo đúng, đúng một phần hoặc sai; việc người tố cáo cố ý tố cáo sai sự thật (nếu có);
+
+đ) Kết luận về hành vi vi phạm pháp luật của người bị tố cáo, cơ quan, tổ chức, đơn vị, cá nhân khác (nếu có); nguyên nhân, trách nhiệm của người bị tố cáo, cơ quan, tổ chức, đơn vị, cá nhân có liên quan trong những nội dung tố cáo đúng hoặc đúng một phần;
+
+e) Kết luận về thiệt hại do hành vi vi phạm pháp luật gây ra; đối tượng bị thiệt hại;
+
+g) Những vấn đề còn có ý kiến khác nhau (nếu có);
+
+h) Kiến nghị với người có thẩm quyền áp dụng các biện pháp xử lý hành vi vi phạm pháp luật và buộc khắc phục hậu quả do hành vi vi phạm gây ra.
+
+5. Trường hợp xác minh để giải quyết lại tố cáo thì ngoài những nội dung quy định tại khoản 2 Điều này, trong báo cáo của Tổ xác minh, báo cáo của cơ quan, tổ chức, cá nhân được giao nhiệm vụ xác minh còn phải nêu rõ những nội dung vi phạm pháp luật, sai lầm hoặc không phù hợp của việc giải quyết tố cáo trước đó (nếu có) và kiến nghị việc xử lý đối với cơ quan, tổ chức, đơn vị, cá nhân có hành vi vi phạm pháp luật trong quá trình giải quyết tố cáo trước đó (nếu có).
+
+6. Đối với những vụ, việc phức tạp mà người được phân công xác minh nội dung tố cáo thuộc nhiều đơn vị nghiệp vụ tham gia thì các thành viên được phân công phải báo cáo lãnh đạo đơn vị nghiệp vụ của mình có quan điểm chính thức bằng văn bản gửi cho đơn vị chủ trì để tổng hợp báo cáo chung.
 
 Điều 18.5.TT.10.23. Dự thảo báo cáo kết quả xác minh nội dung tố cáo
 
-**Chỉ mục:** 23
+(Điều 23 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000031000000000000000000040268830031000160000802749101290002300
+ 1. Trước khi dự thảo báo cáo kết quả xác minh nội dung tố cáo, Tổ xác minh phải tổ chức họp để rà soát, đánh giá kết quả xác minh, đối chiếu những thông tin, tài liệu, chứng cứ đã thu thập được với những nội dung tố cáo trên cơ sở tuân thủ các quy định của pháp luật để xác định tính đúng, sai của nội dung tố cáo sau đó tiến hành dự thảo báo cáo kết quả xác minh theo mẫu quy định.
 
-**ID:** dk_00025024
+ 2. Báo cáo kết quả xác minh nội dung tố cáo gồm các nội dung sau:
 
----
+ a) Nội dung tố cáo và kết quả xác minh từng nội dung tố cáo;
 
+ b) Tài liệu, chứng cứ để chứng minh tính đúng, sai của nội dung tố cáo;
 
-### Điều 18.5.LQ.32. Trách nhiệm của Chánh thanh tra các cấp và Tổng Thanh tra Chính phủ
+ c) Nhận xét đánh giá về nội dung tố cáo được giao xác minh là đúng, đúng một phần hoặc sai; hành vi vi phạm pháp luật của người bị tố cáo, cơ quan, tổ chức, cá nhân có liên quan; thiệt hại về vật chất, tinh thần do hành vi vi phạm pháp luật gây ra; đối tượng bị thiệt hại; nguyên nhân, trách nhiệm của người bị tố cáo; cơ quan, tổ chức, cá nhân có liên quan;
 
-Điều 18.5.LQ.32. Trách nhiệm của Chánh thanh tra các cấp và Tổng Thanh tra Chính phủ
+ d) Kiến nghị với người có thẩm quyền áp dụng các biện pháp xử lý hành vi vi phạm pháp luật và buộc khắc phục hậu quả do hành vi vi phạm gây ra.
 
-**Chỉ mục:** 32
+ đ) Trường hợp xác minh giải quyết lại vụ việc tố cáo hoặc giải quyết tố cáo theo quy định tại khoản 5 Điều 38 Luật Tố cáo thì ngoài các nội dung nêu trên, dự thảo báo cáo kết quả xác minh phải nêu rõ nội dung vi phạm pháp luật, trách nhiệm, nguyên nhân vi phạm pháp luật của việc giải quyết tố cáo trước đó (nếu có); kiến nghị xử lý cơ quan, đơn vị, cá nhân có hành vi vi phạm pháp luật trong quá trình giải quyết tố cáo trước đó.
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003200000000000000000
+ 3. Tổ xác minh họp để thống nhất dự thảo báo cáo kết quả xác minh nội dung tố cáo và báo cáo người ra quyết định thành lập Tổ xác minh. Trường hợp các thành viên có ý kiến khác nhau nhưng không ảnh hưởng đến bản chất của việc kết luận thì Tổ trưởng Tổ xác minh quyết định và chịu trách nhiệm. Trường hợp các ý kiến khác nhau, ảnh hưởng đến việc kết luận thì phải báo cáo xin ý kiến người ra quyết định thành lập Tổ xác minh hoặc người giải quyết tố cáo. Trường hợp vụ việc phức tạp, cần thiết phải tham khảo ý kiến tư vấn của các cơ quan chuyên môn, cơ quan quản lý cấp trên hoặc cơ quan, tổ chức, đơn vị, cá nhân khác có liên quan thì người ra quyết định thành lập Tổ xác minh hoặc người giải quyết tố cáo quyết định.
 
-**ID:** dk_00025025
+ Nội dung họp Tổ xác minh phải được lập thành biên bản; biên bản phải ghi đầy đủ, cụ thể ý kiến tham gia của từng thành viên; những nội dung không đồng ý phải ghi rõ lý do, căn cứ không đồng ý và hướng giải quyết tiếp theo của việc không đồng ý đó.Điều 18.5.LQ.32. Trách nhiệm của Chánh thanh tra các cấp và Tổng Thanh tra Chính phủ
 
----
+(Điều 32 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+1. Chánh thanh tra Bộ, cơ quan ngang Bộ, Chánh thanh tra cấp tỉnh, Chánh thanh tra sở, Chánh thanh tra cấp huyện có trách nhiệm sau đây:
 
-### Điều 18.5.NĐ.3.17. Trách nhiệm của Chánh Thanh tra các cấp
+a) Xác minh nội dung tố cáo, báo cáo kết quả xác minh, kiến nghị biện pháp xử lý tố cáo thuộc thẩm quyền giải quyết của người đứng đầu cơ quan hành chính nhà nước cùng cấp khi được giao;
+
+b) Xem xét việc giải quyết tố cáo mà người đứng đầu cơ quan, tổ chức cấp dưới trực tiếp của cơ quan hành chính nhà nước cùng cấp đã giải quyết nhưng có dấu hiệu vi phạm pháp luật; trường hợp có căn cứ cho rằng việc giải quyết tố cáo có vi phạm pháp luật thì kiến nghị người đứng đầu cơ quan hành chính nhà nước cùng cấp xem xét, giải quyết lại.
+
+2. Tổng Thanh tra Chính phủ có trách nhiệm sau đây:
+
+a) Tiếp nhận, phân loại, đề xuất việc giải quyết tố cáo thuộc thẩm quyền của Thủ tướng Chính phủ;
+
+b) Xác minh nội dung tố cáo, báo cáo kết quả xác minh, kiến nghị biện pháp xử lý tố cáo thuộc thẩm quyền giải quyết của Thủ tướng Chính phủ khi được giao;
+
+c) Xem xét việc giải quyết tố cáo mà Bộ trưởng, người đứng đầu cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh đã giải quyết nhưng có dấu hiệu vi phạm pháp luật; trường hợp có căn cứ cho rằng việc giải quyết có vi phạm pháp luật thì kiến nghị Thủ tướng Chính phủ xem xét, giải quyết lại.
+
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.3.17. Trách nhiệm của Chánh Thanh tra các cấp
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000320000000000000000000402686200280001700
+1. Chánh Thanh tra Bộ Quốc phòng có trách nhiệm tham mưu, giúp Bộ trưởng Bộ Quốc phòng quản lý công tác giải quyết tố cáo và thực hiện theo quy định tại khoản 1 Điều 32 Luật Tố cáo năm 2018.
 
-**ID:** dk_00025026
+2. Chánh Thanh tra các cấp có trách nhiệm:
 
----
+a) Tham mưu, giúp người đứng đầu về hành chính quân sự cùng cấp, quản lý công tác giải quyết tố cáo trong phạm vi thẩm quyền phân cấp;
 
+b) Tiếp nhận, phân loại, xử lý đơn tố cáo; xác minh nội dung tố cáo, kết luận nội dung xác minh và kiến nghị biện pháp xử lý tố cáo thuộc thẩm quyền giải quyết của người đứng đầu về hành chính quân sự cùng cấp khi được giao;
 
-### Điều 18.5.LQ.33. Rút tố cáo
+c) Xem xét, kết luận việc giải quyết tố cáo mà người đứng đầu về hành chính quân sự của cơ quan, đơn vị cấp dưới trực tiếp của người đứng đầu cơ quan, đơn vị cùng cấp đã giải quyết nhưng có dấu hiệu vi phạm pháp luật; trường hợp kết luận việc giải quyết tố cáo có vi phạm pháp luật thì kiến nghị người đứng đầu về hành chính quân sự có thẩm quyền giải quyết tố cáo cùng cấp xem xét, giải quyết lại;
 
-*Nội dung chưa có sẵn*
+d) Thanh tra, kiểm tra trách nhiệm của người đứng đầu về hành chính quân sự của cơ quan, đơn vị cấp dưới trực tiếp của người đứng đầu về hành chính quân sự cùng cấp trong việc chấp hành pháp luật về tố cáo.
 
-**Chỉ mục:** 33
+3. Đối với cơ quan, đơn vị không có tổ chức thanh tra thì người có thẩm quyền giải quyết tố cáo giao cho cơ quan, đơn vị thuộc quyền quản lý trực tiếp, tham mưu về công tác quản lý và giải quyết tố cáo.
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003300000000000000000
+Điều 18.5.LQ.33. Rút tố cáo
 
-**ID:** dk_00025027
+(Điều 33 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+1. Người tố cáo có quyền rút toàn bộ nội dung tố cáo hoặc một phần nội dung tố cáo trước khi người giải quyết tố cáo ra kết luận nội dung tố cáo. Việc rút tố cáo phải được thực hiện bằng văn bản.
 
+2. Trường hợp người tố cáo rút một phần nội dung tố cáo thì phần còn lại được tiếp tục giải quyết theo quy định của Luật này; trường hợp người tố cáo rút toàn bộ nội dung tố cáo thì thực hiện theo quy định tại điểm a khoản 3 Điều 34 của Luật này. Trường hợp nhiều người cùng tố cáo mà có một hoặc một số người tố cáo rút tố cáo thì tố cáo vẫn tiếp tục được giải quyết theo quy định của Luật này. Người đã rút tố cáo không được hưởng quyền và không phải thực hiện nghĩa vụ quy định tại Điều 9 của Luật này, trừ trường hợp quy định tại khoản 4 Điều này.
 
-### Điều 18.5.NĐ.4.4. Rút tố cáo
+3. Trường hợp người tố cáo rút tố cáo mà người giải quyết tố cáo xét thấy hành vi bị tố cáo có dấu hiệu vi phạm pháp luật hoặc có căn cứ xác định việc rút tố cáo do bị đe dọa, mua chuộc hoặc người tố cáo lợi dụng việc tố cáo để vu khống, xúc phạm, gây thiệt hại cho người bị tố cáo thì vụ việc tố cáo vẫn phải được giải quyết.
 
-*Nội dung chưa có sẵn*
+4. Người tố cáo rút tố cáo nhưng có căn cứ xác định người tố cáo lợi dụng việc tố cáo để vu khống, xúc phạm, gây thiệt hại cho người bị tố cáo thì vẫn phải chịu trách nhiệm về hành vi tố cáo của mình, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**Chỉ mục:** 4
+5. Chính phủ quy định chi tiết Điều này.
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000330000000000000000000402688300310000400
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.9. Quyền và nghĩa vụ của người tố cáo; Điều 18.5.LQ.34. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.4. Rút tố cáo; Điều 18.5.TT.8.10. Trình tự, thủ tục, thời hạn giải quyết tố cáo)
 
-**ID:** dk_00025028
+Điều 18.5.NĐ.4.4. Rút tố cáo
 
----
+(Điều 4 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
+1. Người tố cáo có quyền rút một phần hoặc toàn bộ nội dung tố cáo trước khi người giải quyết tố cáo ra kết luận nội dung tố cáo. Việc rút tố cáo phải được thực hiện bằng văn bản, văn bản rút tố cáo phải ghi rõ ngày, tháng, năm; họ và tên, địa chỉ của người rút tố cáo; nội dung tố cáo được rút, có chữ ký hoặc điểm chỉ của người rút tố cáo. Trường hợp người tố cáo đến cơ quan, tổ chức có thẩm quyền trực tiếp rút tố cáo thì người tiếp nhận lập biên bản ghi lại việc rút tố cáo và người rút tố cáo phải ký tên hoặc điểm chỉ vào biên bản. Văn bản rút tố cáo được thực hiện theo Mẫu số 02, biên bản ghi nhận việc rút tố cáo được thực hiện theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định này.
 
-### Điều 18.5.TT.10.8. Xử lý việc rút tố cáo
+2. Trường hợp nhiều người cùng tố cáo mà có một hoặc một số người rút tố cáo thì từng người rút tố cáo thực hiện việc rút tố cáo theo quy định tại khoản 1 Điều này. Trường hợp tất cả những người tố cáo rút tố cáo thì người đại diện thực hiện việc rút tố cáo bằng văn bản hoặc người tiếp nhận lập biên bản ghi lại việc rút tố cáo có chữ ký hoặc điểm chỉ xác nhận của những người tố cáo hoặc của người đại diện.
 
-*Nội dung chưa có sẵn*
+3. Trường hợp người tố cáo rút tố cáo mà người giải quyết tố cáo xét thấy hành vi bị tố cáo có dấu hiệu vi phạm pháp luật hoặc có căn cứ xác định việc rút tố cáo do bị đe dọa, mua chuộc hoặc người tố cáo lợi dụng việc tố cáo để vu khống, xúc phạm, gây thiệt hại cho người bị tố cáo thì vụ việc tố cáo vẫn phải được giải quyết theo quy định tại khoản 3 Điều 33 Luật Tố cáo. Người giải quyết tố cáo áp dụng biện pháp theo thẩm quyền hoặc đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng biện pháp bảo vệ người tố cáo theo quy định của pháp luật; xử lý người có hành vi đe dọa, mua chuộc người tố cáo hoặc người lợi dụng việc tố cáo để vu khống, xúc phạm, gây thiệt hại cho người bị tố cáo theo quy định của pháp luật.
 
-**Chỉ mục:** 8
+Mau so 02 Don rut to cao.docx
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000033000000000000000000040268830031000040000802749101290000800
+Mau so 03 Bien ban ghi nhan viec rut to cao.docx
 
-**ID:** dk_00025029
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.33. Rút tố cáo; Điều 18.5.TT.8.10. Trình tự, thủ tục, thời hạn giải quyết tố cáo)
 
----
+Điều 18.5.TT.10.8. Xử lý việc rút tố cáo
 
+(Điều 8 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-### Điều 18.5.LQ.34. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo
+ 1. Trường hợp chưa ra quyết định thụ lý tố cáo mà người tố cáo có đơn rút một phần hoặc toàn bộ nội dung tố cáo thì người giải quyết tố cáo trực tiếp hoặc giao cho cơ quan thanh tra hoặc cơ quan, đơn vị, cá nhân khác làm việc với người tố cáo. Nếu xác định đơn rút tố cáo là của người tố cáo, việc rút tố cáo là tự nguyện và không thuộc một trong các trường hợp quy định tại khoản 3 Điều 33 Luật Tố cáo thì người giải quyết tố cáo xử lý như sau:
 
-Điều 18.5.LQ.34. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo
+ a) Trường hợp người tố cáo rút một phần nội dung tố cáo thì chỉ quyết định thụ lý nội dung tố cáo mà người tố cáo không rút;
 
-**Chỉ mục:** 34
+ b) Trường hợp rút toàn bộ nội dung tố cáo thì không thụ lý tố cáo;
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003400000000000000000
+ c) Trường hợp người tố cáo không đến làm việc thì ra văn bản thông báo không thụ lý một phần hoặc toàn bộ nội dung tố cáo và gửi về địa chỉ của người tố cáo.
 
-**ID:** dk_00025030
+ 2. Trường hợp người tố cáo rút tố cáo nhưng có căn cứ xác định người tố cáo cố ý tố cáo sai sự thật để vu khống, xúc phạm, gây thiệt hại cho người bị tố cáo thì tố cáo vẫn phải được giải quyết, người tố cáo phải chịu trách nhiệm về hành vi cố ý tố cáo sai sự thật của mình, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
----
+ Trường hợp người tố cáo rút tố cáo mà người giải quyết tố cáo xét thấy hành vi bị tố cáo có dấu hiệu vi phạm pháp luật hoặc có căn cứ xác định việc rút tố cáo do bị đe dọa, mua chuộc thì vụ việc tố cáo vẫn phải được giải quyết. Người giải quyết tố cáo áp dụng các biện pháp theo thẩm quyền hoặc đề nghị cơ quan, đơn vị, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp bảo vệ người tố cáo theo quy định; xử lý người có hành vi đe dọa, mua chuộc người tố cáo.
 
+ 3. Người tố cáo rút tố cáo không thuộc các trường hợp quy định tại khoản 1, khoản 2 Điều này thì thực hiện theo quy định tại khoản 1, khoản 2 Điều 33 Luật Tố cáo.Điều 18.5.LQ.34. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo
 
-### Điều 18.5.LQ.35. Kết luận nội dung tố cáo
+(Điều 34 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-*Nội dung chưa có sẵn*
+1. Người giải quyết tố cáo ra quyết định tạm đình chỉ việc giải quyết tố cáo khi có một trong các căn cứ sau đây:
 
-**Chỉ mục:** 35
+a) Cần đợi kết quả giải quyết của cơ quan, tổ chức, cá nhân khác hoặc đợi kết quả giải quyết vụ việc khác có liên quan;
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003500000000000000000
+b) Cần đợi kết quả giám định bổ sung, giám định lại.
 
-**ID:** dk_00025031
+2. Khi căn cứ tạm đình chỉ việc giải quyết tố cáo không còn thì người giải quyết tố cáo ra ngay quyết định tiếp tục giải quyết tố cáo; thời gian tạm đình chỉ việc giải quyết tố cáo không tính vào thời hạn giải quyết tố cáo.
 
----
+3. Người giải quyết tố cáo ra quyết định đình chỉ việc giải quyết tố cáo khi có một trong các căn cứ sau đây:
 
+a) Người tố cáo rút toàn bộ nội dung tố cáo, trừ trường hợp quy định tại khoản 3 Điều 33 của Luật này;
 
-### Điều 18.5.NĐ.4.17. Kết luận nội dung tố cáo
+b) Người bị tố cáo là cá nhân chết và nội dung tố cáo chỉ liên quan đến trách nhiệm của người bị tố cáo;
 
-*Nội dung chưa có sẵn*
+c) Vụ việc đã được giải quyết bằng bản án, quyết định của Tòa án đã có hiệu lực pháp luật hoặc quyết định đã có hiệu lực của cơ quan, tổ chức, cá nhân có thẩm quyền.
 
-**Chỉ mục:** 17
+4. Quyết định tạm đình chỉ, đình chỉ việc giải quyết tố cáo phải nêu rõ lý do, trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan và gửi đến người tố cáo, người bị tố cáo trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định.
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000350000000000000000000402688300310001700
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.33. Rút tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.1.14. Chế độ báo cáo, lưu trữ)
 
-**ID:** dk_00025032
+Điều 18.5.LQ.35. Kết luận nội dung tố cáo
 
----
+(Điều 35 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+1. Căn cứ vào nội dung tố cáo, giải trình của người bị tố cáo, kết quả xác minh nội dung tố cáo, tài liệu, chứng cứ có liên quan, người giải quyết tố cáo ban hành kết luận nội dung tố cáo.
 
-### Điều 18.5.TT.6.33. Thông báo dự thảo kết luận nội dung tố cáo
+2. Kết luận nội dung tố cáo phải có các nội dung chính sau đây:
+
+a) Kết quả xác minh nội dung tố cáo;
+
+b) Căn cứ pháp luật để xác định có hay không có hành vi vi phạm pháp luật;
+
+c) Kết luận về nội dung tố cáo là đúng, đúng một phần hoặc tố cáo sai sự thật; xác định trách nhiệm của từng cơ quan, tổ chức, cá nhân liên quan đến nội dung tố cáo;
+
+d) Các biện pháp xử lý theo thẩm quyền cần thực hiện; kiến nghị cơ quan, tổ chức, cá nhân khác áp dụng các biện pháp xử lý theo thẩm quyền đối với cơ quan, tổ chức, cá nhân có vi phạm pháp luật;
+
+đ) Kiến nghị cơ quan có thẩm quyền xem xét sửa đổi, bổ sung chính sách, pháp luật, áp dụng các biện pháp cần thiết để bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+
+3. Chậm nhất là 05 ngày làm việc kể từ ngày ban hành kết luận nội dung tố cáo, người giải quyết tố cáo gửi kết luận nội dung tố cáo đến người bị tố cáo, cơ quan, tổ chức quản lý người bị tố cáo và cơ quan, tổ chức, cá nhân có liên quan; thông báo về kết luận nội dung tố cáo đến người tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.17. Kết luận nội dung tố cáo)
+
+Điều 18.5.NĐ.4.17. Kết luận nội dung tố cáo
+
+(Điều 17 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
+
+1. Kết luận nội dung tố cáo được thực hiện theo Điều 35 Luật Tố cáo và theo Mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định này.
+
+2. Trường hợp giải quyết lại vụ việc tố cáo thì ngoài các nội dung quy định tại khoản 1 Điều này, người giải quyết tố cáo phải kết luận về những nội dung vi phạm pháp luật, sai lầm hoặc không phù hợp của việc giải quyết tố cáo trước đó (nếu có); xử lý theo thẩm quyền hoặc chỉ đạo, kiến nghị cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền xử lý đối với cơ quan, tổ chức, đơn vị, cá nhân có hành vi vi phạm pháp luật trong quá trình giải quyết tố cáo trước đó.
+
+Mau so 12 Ket luan noi dung to cao.docx
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.35. Kết luận nội dung tố cáo)
 
 Điều 18.5.TT.6.33. Thông báo dự thảo kết luận nội dung tố cáo
 
-**Chỉ mục:** 33
+(Điều 33 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000035000000000000000000040268830031000170000802731800010003300
+1. Trước khi ban hành kết luận nội dung tố cáo, trong trường hợp cần thiết, người giải quyết tố cáo tổ chức cuộc họp để thông báo trực tiếp hoặc gửi dự thảo kết luận nội dung tố cáo để người bị tố cáo biết và tiếp tục giải trình (nếu có).
 
-**ID:** dk_00025033
+Trường hợp tổ chức cuộc họp để thông báo trực tiếp dự thảo kết luận nội dung tố cáo thì người chủ trì cuộc họp là người giải quyết tố cáo hoặc Thủ trưởng cơ quan, tổ chức được giao xác minh tố cáo hoặc Tổ trưởng Tổ xác minh nội dung tố cáo. Việc thông báo trực tiếp phải lập thành biên bản. Biên bản phải có chữ ký của người chủ trì, người bị tố cáo. Trong trường hợp người bị tố cáo không ký biên bản thì người chủ trì phải ghi rõ sự việc đó trong biên bản.
 
----
-
-
-### Điều 18.5.TT.6.34. Ban hành kết luận nội dung tố cáo
+2. Nếu trong dự thảo kết luận nội dung tố cáo có thông tin thuộc bí mật nhà nước, thông tin có hại cho người tố cáo thì không thông báo thông tin đó.
 
 Điều 18.5.TT.6.34. Ban hành kết luận nội dung tố cáo
 
-**Chỉ mục:** 34
+(Điều 34 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000035000000000000000000040268830031000170000802731800010003400
+1. Việc ban hành kết luận nội dung tố cáo được thực hiện theo quy định tại khoản 1 Điều 35 của Luật Tố cáo.
 
-**ID:** dk_00025034
+2. Trường hợp thực hiện thông báo dự thảo kết luận nội dung tố cáo theo quy định tại Điều 33 của Thông tư này, người giải quyết tố cáo còn phải căn cứ vào kết quả thông báo dự thảo kết luận, ý kiến giải trình bổ sung (nếu có) của người bị tố cáo, cơ quan, tổ chức, cá nhân khác có liên quan để ban hành kết luận nội dung tố cáo.
 
----
+3. Kết luận nội dung tố cáo phải có các nội dung theo quy định tại khoản 2 Điều 35 của Luật Tố cáo và những nội dung sau:
 
+a) Nội dung tố cáo;
 
-### Điều 18.5.TT.10.26. Kết luận nội dung tố cáo, thông báo kết luận nội dung tố cáo
+b) Nội dung giải trình của người bị tố cáo;
+
+c) Phân tích, đánh giá thông tin, tài liệu, chứng cứ để chứng minh tính đúng, sai của nội dung tố cáo; căn cứ pháp luật để xác định có hay không có hành vi vi phạm pháp luật;
+
+d) Kết luận về thiệt hại do hành vi vi phạm pháp luật gây ra; đối tượng bị thiệt hại.
+
+4. Trong trường hợp giải quyết lại tố cáo thì ngoài các nội dung quy định tại khoản 3 Điều này, người giải quyết tố cáo phải kết luận về những nội dung vi phạm pháp luật, sai lầm hoặc không phù hợp của việc giải quyết tố cáo trước đó (nếu có).
 
 Điều 18.5.TT.10.26. Kết luận nội dung tố cáo, thông báo kết luận nội dung tố cáo
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000035000000000000000000040268830031000170000802749101290002600
+ 1. Căn cứ kết quả xác minh nội dung tố cáo, Tổ trưởng Tổ xác minh dự thảo kết luận nội dung tố cáo trình người giải quyết tố cáo ký. Trường hợp giao cơ quan thanh tra hoặc cơ quan, đơn vị, cá nhân khác xác minh nội dung tố cáo thì Thủ trưởng cơ quan được giao nhiệm vụ xác minh nội dung tố cáo phải báo cáo người có thẩm quyền giải quyết tố cáo về kết quả xác minh nội dung tố cáo và dự thảo kết luận nội dung tố cáo trình người giải quyết tố cáo ký.
 
-**ID:** dk_00025035
+ 2. Kết luận nội dung tố cáo phải có các nội dung sau:
 
----
+ a) Nội dung tố cáo; kết quả xác minh nội dung tố cáo;
 
+ b) Tài liệu, chứng cứ để chứng minh tính đúng, sai của nội dung tố cáo;
 
-### Điều 18.5.LQ.36. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
+ c) Kết luận từng nội dung tố cáo, trong đó nêu rõ nội dung tố cáo đúng, đúng một phần hoặc sai; việc cố ý tố cáo sai (nếu có); kết luận về hành vi vi phạm pháp luật của cơ quan, tổ chức, đơn vị, cá nhân bị tố cáo, cơ quan, tổ chức, cá nhân có liên quan; thiệt hại do hành vi vi phạm pháp luật gây ra; đối tượng bị thiệt hại; nguyên nhân, trách nhiệm của cơ quan, tổ chức, đơn vị, cá nhân bị tố cáo, cơ quan, tổ chức, cá nhân có liên quan trong nội dung tố cáo đúng, đúng một phần;
 
-Điều 18.5.LQ.36. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
+ d) Các biện pháp xử lý, buộc khắc phục hậu quả do hành vi vi phạm pháp luật gây ra theo thẩm quyền của người giải quyết tố cáo;
 
-**Chỉ mục:** 36
+ đ) Nội dung chỉ đạo cơ quan, tổ chức, đơn vị cá nhân thuộc quyền quản lý của người giải quyết tố cáo áp dụng biện pháp theo thẩm quyền để xử lý vi phạm, buộc khắc phục hậu quả do hành vi vi phạm pháp luật gây ra;
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003600000000000000000
+ e) Nội dung kiến nghị cơ quan, tổ chức, cá nhân khác áp dụng biện pháp theo thẩm quyền để xử lý vi phạm, buộc khắc phục hậu quả do hành vi vi phạm gây ra; sửa đổi, bổ sung chính sách, pháp luật, áp dụng các biện pháp cần thiết để bảo vệ lợi ích của nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-**ID:** dk_00025036
+ Văn bản kết luận nội dung tố cáo thực hiện theo biểu mẫu quy định.
 
----
+ 3. Trường hợp giải quyết lại vụ việc tố cáo hoặc giải quyết tố cáo thuộc thẩm quyền của Thủ trưởng cơ quan, đơn vị cấp dưới trực tiếp theo quy định tại khoản 5 Điều 38 Luật Tố cáo thì ngoài các nội dung quy định tại khoản 2 Điều này, người giải quyết tố cáo phải kết luận về nội dung vi phạm pháp luật, trách nhiệm, nguyên nhân vi phạm pháp luật của việc giải quyết tố cáo trước đó (nếu có); xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền xử lý đối với cơ quan, tổ chức, đơn vị, cá nhân có hành vi vi phạm pháp luật trong quá trình giải quyết tố cáo trước đó.
 
+ 4. Trong thời hạn 05 ngày làm việc kể từ ngày ban hành kết luận nội dung tố cáo, người giải quyết tố cáo gửi kết luận nội dung tố cáo đến người bị tố cáo, cơ quan, đơn vị quản lý người bị tố cáo và cơ quan, tổ chức, cá nhân có liên quan; thông báo về kết luận nội dung tố cáo đến người tố cáo.
 
-### Điều 18.5.NĐ.4.18. Xử lý kết luận nội dung tố cáo
+ 5. Trường hợp cơ quan, tổ chức, đơn vị, cá nhân bị tố cáo không đồng ý với kết luận nội dung tố cáo thì có quyền kiến nghị với Thủ trưởng cơ quan, đơn vị cấp trên trực tiếp của người đã giải quyết tố cáo. Nếu cơ quan, tổ chức, đơn vị, cá nhân bị tố cáo cung cấp thông tin, tài liệu, chứng cứ về việc giải quyết tố cáo có dấu hiệu vi phạm pháp luật thì Thủ trưởng cơ quan, đơn vị cấp trên trực tiếp của người đã kết luận nội dung tố cáo giao cho cơ quan thanh tra hoặc cơ quan chức năng cùng cấp xem xét, kiểm tra các căn cứ quy định tại khoản 3 Điều 37 Luật Tố cáo để xem xét, quyết định việc giải quyết lại vụ việc tố cáo; trường hợp cơ quan, tổ chức, đơn vị, cá nhân bị tố cáo không đồng ý nhưng không có tài liệu, chứng cứ gì mới thì không xem xét, giải quyết. Việc không xem xét, giải quyết được thông báo bằng văn bản cho cơ quan, tổ chức, đơn vị, cá nhân bị tố cáo, cơ quan, tổ chức, đơn vị, cá nhân có liên quan biết.Điều 18.5.LQ.36. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
 
-*Nội dung chưa có sẵn*
+(Điều 36 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 18
+1. Chậm nhất là 07 ngày làm việc kể từ ngày ban hành kết luận nội dung tố cáo, người giải quyết tố cáo căn cứ vào kết luận nội dung tố cáo tiến hành việc xử lý như sau:
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000360000000000000000000402688300310001800
+a) Trường hợp kết luận người bị tố cáo không vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ thì khôi phục quyền và lợi ích hợp pháp của người bị tố cáo bị xâm phạm do việc tố cáo không đúng sự thật gây ra, đồng thời xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý người cố ý tố cáo sai sự thật;
 
-**ID:** dk_00025037
+b) Trường hợp kết luận người bị tố cáo vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ thì áp dụng biện pháp xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý theo quy định của pháp luật.
 
----
+2. Trường hợp hành vi vi phạm của người bị tố cáo có dấu hiệu của tội phạm thì chuyển ngay hồ sơ vụ việc đến Cơ quan điều tra hoặc Viện kiểm sát nhân dân có thẩm quyền để xử lý theo quy định của pháp luật.
 
+3. Trong thời hạn 05 ngày làm việc kể từ ngày có kết quả xử lý, cơ quan, tổ chức, cá nhân có thẩm quyền xử lý kiến nghị trong kết luận nội dung tố cáo quy định tại khoản 1 và khoản 2 Điều này có trách nhiệm thông báo bằng văn bản cho người giải quyết tố cáo về kết quả xử lý.
 
-### Điều 18.5.TT.6.35. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.18. Xử lý kết luận nội dung tố cáo)
+
+Điều 18.5.NĐ.4.18. Xử lý kết luận nội dung tố cáo
+
+(Điều 18 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
+
+1. Việc xử lý kết luận nội dung tố cáo được thực hiện theo Điều 36 Luật Tố cáo. Người giải quyết tố cáo căn cứ vào tính chất, mức độ vi phạm xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý các hành vi vi phạm của cơ quan, tổ chức, cá nhân, khắc phục hậu quả xảy ra.
+
+2. Người giải quyết tố cáo có trách nhiệm theo dõi, đôn đốc hoặc giao cho cơ quan thanh tra nhà nước cùng cấp theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo.
+
+Trường hợp giao cho cơ quan thanh tra nhà nước cùng cấp theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo thì cơ quan thanh tra nhà nước phải định kỳ hàng tháng báo cáo với người giải quyết tố cáo về kết quả theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.36. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo)
 
 Điều 18.5.TT.6.35. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
 
-**Chỉ mục:** 35
+(Điều 35 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000036000000000000000000040268830031000180000802731800010003500
+1. Việc xử lý kết luận nội dung tố cáo được thực hiện theo quy định tại Điều 36 của Luật Tố cáo. Ngoài ra, căn cứ kết luận nội dung tố cáo về việc người bị tố cáo vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ thì xử lý như sau:
 
-**ID:** dk_00025038
+a) Trường hợp kết luận người bị tố cáo vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ thuộc thẩm quyền xử lý của mình thì người giải quyết tố cáo thực hiện các thủ tục để xử lý kỷ luật, áp dụng các biện pháp khác theo quy định của pháp luật để xử lý hành vi vi phạm, buộc khắc phục hậu quả do hành vi vi phạm gây ra;
 
----
+b) Trường hợp hành vi vi phạm pháp luật không thuộc trường hợp quy định tại điểm a, khoản này thì người giải quyết tố cáo kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý vi phạm, đồng thời gửi kèm hồ sơ về hành vi vi phạm đó.
 
+2. Người giải quyết tố cáo giao cho đơn vị có chức năng thanh tra cùng cấp theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo và báo cáo với người giải quyết tố cáo về kết quả theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo.
 
-### Điều 18.5.TT.10.27. Xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
+Đơn vị có chức năng thanh tra tại Tòa án nhân dân cấp cao, Tòa án nhân dân cấp tỉnh, Tòa án nhân dân cấp huyện khi báo cáo kết quả theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo cho người giải quyết tố cáo của cấp mình thì đồng thời báo cáo cho Tòa án nhân dân tối cao thông qua Ban Thanh tra để theo dõi, quản lý nhà nước về công tác giải quyết tố cáo trong các Tòa án nhân dân.
 
 Điều 18.5.TT.10.27. Xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
 
-**Chỉ mục:** 27
+(Điều 27 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000036000000000000000000040268830031000180000802749101290002700
+ 1. Trong thời hạn 07 ngày làm việc kể từ ngày ban hành kết luận nội dung tố cáo, căn cứ kết luận nội dung tố cáo, người giải quyết tố cáo xử lý tố cáo như sau:
 
-**ID:** dk_00025039
+ a) Trường hợp kết luận người bị tố cáo không vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ, các quy định khác của Bộ Công an hoặc không vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thì khôi phục hoặc kiến nghị cơ quan, đơn vị có thẩm quyền khôi phục quyền và lợi ích hợp pháp của người bị tố cáo bị xâm phạm do việc tố cáo không đúng sự thật gây ra đồng thời xử lý theo thẩm quyền hoặc kiến nghị cơ quan, đơn vị, tổ chức, cá nhân có thẩm quyền xử lý người cố ý tố cáo sai sự thật;
 
----
+ b) Trường hợp kết luận người bị tố cáo vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ, các quy định khác của Bộ Công an hoặc vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thuộc thẩm quyền xử lý của mình thì người giải quyết tố cáo tiến hành các thủ tục để xử lý kỷ luật, xử phạt vi phạm hành chính và áp dụng các biện pháp khác theo quy định của pháp luật;
 
+ c) Đối với hành vi vi phạm pháp luật quy định tại các điểm b khoản 1 Điều này mà không thuộc thẩm quyền xử lý của mình thì có văn bản kiến nghị cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền xử lý vi phạm, đồng thời gửi kèm hồ sơ về hành vi vi phạm đó;
 
-### Điều 18.5.NĐ.4.19. Trình tự, thủ tục giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+ d) Đối với hành vi vi phạm pháp luật có dấu hiệu của tội phạm thì có văn bản chuyển hồ sơ vụ việc đến Cơ quan điều tra có thẩm quyền để giải quyết theo quy định của pháp luật. Hồ sơ bàn giao cho Cơ quan điều tra là hồ sơ được lập trong quá trình giải quyết tố cáo phải được sao lại để lưu trữ theo quy định. Việc bàn giao hồ sơ được lập thành biên bản theo mẫu quy định;
 
-Điều 18.5.NĐ.4.19. Trình tự, thủ tục giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+ 2. Các văn bản kiến nghị xử lý tố cáo nêu tại điểm b, c khoản 1 Điều này phải ghi rõ thời gian hoàn thành các nội dung xử lý, trách nhiệm của cơ quan, tổ chức, đơn vị, cá nhân có liên quan trong việc tổ chức thực hiện; trong thời hạn 05 ngày làm việc kể từ ngày có kết quả xử lý, cơ quan, tổ chức, cá nhân có thẩm quyền xử lý kiến nghị được nêu tại điểm b, c khoản 1 Điều này có trách nhiệm thông báo bằng văn bản cho người giải quyết tố cáo và cơ quan thanh tra cấp trên trực tiếp để quản lý công tác giải quyết tố cáo.
 
-**Chỉ mục:** 19
+ 3. Nếu quá thời hạn mà kiến nghị xử lý tố cáo không được thực hiện thì người giải quyết tố cáo, Thủ trưởng cơ quan được giao xác minh nội dung tố cáo có văn bản đôn đốc cơ quan, tổ chức, đơn vị, cá nhân được giao thực hiện việc xử lý tố cáo. Sau khi đôn đốc mà kiến nghị xử lý tố cáo không được thực hiện thì báo cáo Thủ trưởng có thẩm quyền xử lý theo quy định của pháp luật và Bộ Công an.Điều 18.5.NĐ.4.19. Trình tự, thủ tục giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000360000000000000000000402688300310001900
+(Điều 19 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**ID:** dk_00025040
+Đối với tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay thì người giải quyết tố cáo thụ lý tố cáo; tự mình tiến hành xác minh nội dung tố cáo; kết luận nội dung tố cáo; xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý đối với cơ quan, tổ chức, cá nhân có hành vi vi phạm pháp luật bị tố cáo.
 
----
+**Mục 2. XỬ LÝ THÔNG TIN CÓ NỘI DUNG TỐ CÁO VÀ TỐ CÁO DO CƠ QUAN BÁO CHÍ, CƠ QUAN, TỔ CHỨC, CÁ NHÂN CÓ THẨM QUYỀN CHUYỂN ĐẾN**
 
-
-### Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.43. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay)
 
 Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003700000000000000000
+1. Trường hợp có căn cứ cho rằng việc giải quyết tố cáo là không đúng quy định của pháp luật thì người tố cáo có quyền tố cáo tiếp với người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của người đã giải quyết tố cáo.
 
-**ID:** dk_00025041
+2. Trong thời hạn 20 ngày kể từ ngày nhận được tố cáo tiếp, người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của người đã giải quyết tố cáo phải xem xét hồ sơ giải quyết vụ việc tố cáo trước đó; trường hợp cần thiết, làm việc trực tiếp với người tố cáo về nội dung tố cáo tiếp, thu thập thông tin, tài liệu, chứng cứ có liên quan để quyết định xử lý đối với tố cáo tiếp. Việc xử lý được thực hiện như sau:
 
----
+a) Trường hợp việc giải quyết tố cáo trước đó là đúng quy định của pháp luật thì không giải quyết lại vụ việc tố cáo, đồng thời thông báo bằng văn bản và nêu rõ lý do cho người tố cáo về việc không giải quyết lại;
 
+b) Trường hợp việc giải quyết tố cáo trước đó là không đúng thẩm quyền thì tiến hành giải quyết tố cáo theo thẩm quyền hoặc chuyển tố cáo đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tố cáo;
 
-### Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết
+c) Trường hợp việc giải quyết tố cáo trước đó có một trong các căn cứ quy định tại khoản 3 Điều này thì người đứng đầu cơ quan, tổ chức cấp trên trực tiếp giải quyết lại vụ việc tố cáo theo thời hạn, trình tự, thủ tục giải quyết tố cáo quy định tại Chương này.
+
+3. Việc giải quyết lại vụ việc tố cáo được thực hiện khi có một trong các căn cứ sau đây:
+
+a) Kết quả xác minh hoặc kết luận nội dung tố cáo thiếu chính xác hoặc thiếu khách quan;
+
+b) Bỏ sót, bỏ lọt thông tin, tài liệu, chứng cứ quan trọng trong khi xác minh hoặc kết luận nội dung tố cáo;
+
+c) Áp dụng không đúng pháp luật trong quá trình xác minh hoặc kết luận nội dung tố cáo.
+
+4. Kết luận nội dung giải quyết lại vụ việc tố cáo bao gồm các nội dung chính sau đây:
+
+a) Nội dung quy định tại khoản 2 Điều 35 của Luật này;
+
+b) Kết luận về những nội dung vi phạm trong quá trình giải quyết tố cáo của người đứng đầu cơ quan, tổ chức cấp dưới;
+
+c) Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc giải quyết tố cáo trước đó;
+
+d) Xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý đối với cơ quan, tổ chức, cá nhân có hành vi vi phạm pháp luật trong việc giải quyết tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.35. Kết luận nội dung tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo; Điều 18.5.NĐ.4.5. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp giải quyết vụ việc tố cáo thuộc thẩm quyền của cơ quan, tổ chức cấp dưới trong trường hợp quá thời hạn quy định mà chưa được giải quyết; Điều 18.5.NĐ.4.11. Làm việc trực tiếp với người tố cáo; Điều 18.5.TT.8.6. Xử lý ban đầu thông tin tố cáo thuộc thẩm quyền, trách nhiệm của Công an nhân dân; Điều 18.5.TT.10.5. Tố cáo tiếp và giải quyết lại vụ việc tố cáo)
 
 Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003800000000000000000
+1. Trường hợp quá thời hạn quy định tại Điều 30 của Luật này mà tố cáo chưa được giải quyết, người tố cáo có quyền tố cáo tiếp với người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của người giải quyết tố cáo.
 
-**ID:** dk_00025042
+2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được tố cáo tiếp, người đứng đầu cơ quan, tổ chức cấp trên trực tiếp có văn bản yêu cầu người giải quyết tố cáo báo cáo về quá trình giải quyết tố cáo, lý do về việc chậm giải quyết tố cáo và xác định trách nhiệm giải quyết tố cáo.
 
----
+3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản yêu cầu của người đứng đầu cơ quan, tổ chức cấp trên trực tiếp, người giải quyết tố cáo phải gửi báo cáo theo quy định tại khoản 2 Điều này; tiếp tục giải quyết tố cáo theo yêu cầu của cơ quan, tổ chức cấp trên trực tiếp và báo cáo kết quả giải quyết, trừ trường hợp quy định tại khoản 5 Điều này.
 
+4. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp theo dõi, đôn đốc việc giải quyết tố cáo; thông báo cho người tố cáo biết về việc xem xét, giải quyết tố cáo; áp dụng biện pháp xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý đối với người có thẩm quyền mà không giải quyết tố cáo theo đúng thời gian quy định.
 
-### Điều 18.5.NĐ.4.5. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp giải quyết vụ việc tố cáo thuộc thẩm quyền của cơ quan, tổ chức cấp dưới trong trường hợp quá thời hạn quy định mà chưa được giải quyết
+5. Trường hợp có căn cứ cho rằng việc giải quyết tố cáo có vi phạm pháp luật nghiêm trọng, có dấu hiệu không khách quan thì người đứng đầu cơ quan, tổ chức cấp trên trực tiếp giải quyết vụ việc tố cáo.
+
+Chính phủ quy định chi tiết khoản này.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.30. Thời hạn giải quyết tố cáo; Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo; Điều 18.5.NĐ.4.5. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp giải quyết vụ việc tố cáo thuộc thẩm quyền của cơ quan, tổ chức cấp dưới trong trường hợp quá thời hạn quy định mà chưa được giải quyết; Điều 18.5.TT.8.6. Xử lý ban đầu thông tin tố cáo thuộc thẩm quyền, trách nhiệm của Công an nhân dân)
 
 Điều 18.5.NĐ.4.5. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp giải quyết vụ việc tố cáo thuộc thẩm quyền của cơ quan, tổ chức cấp dưới trong trường hợp quá thời hạn quy định mà chưa được giải quyết
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000380000000000000000000402688300310000500
+1. Khi có căn cứ xác định việc giải quyết tố cáo của cơ quan, tổ chức cấp dưới có vi phạm pháp luật nghiêm trọng thì người đứng đầu cơ quan, tổ chức cấp trên trực tiếp phải giải quyết tố cáo trong những trường hợp sau đây:
 
-**ID:** dk_00025043
+a) Có vi phạm về trình tự, thủ tục giải quyết tố cáo dẫn đến kết luận tố cáo không chính xác, khách quan hoặc làm sai lệch hồ sơ vụ việc;
 
----
+b) Có một trong các căn cứ quy định tại khoản 3 Điều 37 Luật Tố cáo.
 
+2. Khi có dấu hiệu không khách quan trong việc giải quyết tố cáo của cơ quan, tổ chức cấp dưới thì người đứng đầu cơ quan, tổ chức cấp trên trực tiếp phải giải quyết tố cáo trong những trường hợp sau đây:
 
-### Điều 18.5.TT.10.5. Tố cáo tiếp và giải quyết lại vụ việc tố cáo
+a) Người bị tố cáo là vợ hoặc chồng, bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố mẹ bên vợ hoặc bên chồng, con đẻ, con nuôi, con rể, con dâu, anh ruột, chị ruột, em ruột của người được giao nhiệm vụ xác minh nội dung tố cáo, của người giải quyết tố cáo;
+
+b) Nội dung tố cáo có liên quan trực tiếp đến vợ hoặc chồng, bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố mẹ bên vợ hoặc bên chồng, con đẻ, con nuôi, con rể, con dâu, anh ruột, chị ruột, em ruột của người được giao nhiệm vụ xác minh nội dung tố cáo, của người giải quyết tố cáo;
+
+c) Người được giao nhiệm vụ xác minh nội dung tố cáo, người giải quyết tố cáo có lợi ích liên quan trực tiếp với người bị tố cáo.
+
+3. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp lấy vụ việc tố cáo để giải quyết theo quy định tại khoản 1, khoản 2 Điều này phải có văn bản yêu cầu cơ quan, tổ chức cấp dưới chấm dứt việc giải quyết và chuyển hồ sơ vụ việc cho cơ quan, tổ chức cấp trên.
+
+Khi nhận được hồ sơ vụ việc, thủ trưởng cơ quan, tổ chức cấp trên ra quyết định thụ lý tố cáo và thông báo bằng văn bản cho người tố cáo, người bị tố cáo, người đứng đầu cơ quan, tổ chức cấp dưới trực tiếp giải quyết vụ việc và các cơ quan, tổ chức, cá nhân có liên quan.
+
+Thời hạn giải quyết tố cáo được tính từ ngày ra quyết định thụ lý tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo; Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết; Điều 18.5.LQ.40. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo)
 
 Điều 18.5.TT.10.5. Tố cáo tiếp và giải quyết lại vụ việc tố cáo
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000038000000000000000000040268830031000050000802749101290000500
+ 1. Trong thời hạn 20 ngày kể từ ngày nhận được tố cáo tiếp đối với vụ việc tố cáo đã được giải quyết, người đứng đầu cơ quan, đơn vị cấp trên trực tiếp của người đã giải quyết tố cáo phải xem xét, xử lý theo quy định tại khoản 2 Điều 37 Luật Tố cáo và các quy định cụ thể sau đây:
 
-**ID:** dk_00025044
+ a) Trường hợp bỏ sót nội dung tố cáo được thụ lý thì yêu cầu người đã giải quyết tố cáo phải tiếp tục giải quyết, đồng thời báo cáo rõ lý do về việc bỏ sót nội dung tố cáo;
 
----
+ b) Trường hợp tố cáo đã được giải quyết đúng pháp luật nhưng có tình tiết mới chưa được phát hiện trong quá trình giải quyết tố cáo có thể làm thay đổi kết quả giải quyết tố cáo thì yêu cầu người đã giải quyết tố cáo tiếp tục giải quyết theo thẩm quyền.
 
-
-### Điều 18.5.TT.10.6. Giải quyết tố cáo thuộc thẩm quyền giải quyết của Thủ trưởng cơ quan, đơn vị Công an cấp dưới trực tiếp
+ 2. Khi có một trong các căn cứ được quy định tại khoản 3 Điều 37 Luật Tố cáo và điểm a khoản 1 Điều 5 Nghị định số 31/2019/NĐ-CP ngày 10/4/2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo thì Thủ trưởng cơ quan, đơn vị cấp trên tiến hành giải quyết lại vụ việc tố cáo. Việc giải quyết lại vụ việc tố cáo thực hiện theo quy trình quy định tại Thông tư này.(Điều này có nội dung liên quan đến Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo)
 
 Điều 18.5.TT.10.6. Giải quyết tố cáo thuộc thẩm quyền giải quyết của Thủ trưởng cơ quan, đơn vị Công an cấp dưới trực tiếp
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000038000000000000000000040268830031000050000802749101290000600
+ 1. Khi có căn cứ xác định việc giải quyết tố cáo của Thủ trưởng cơ quan, đơn vị Công an cấp dưới có vi phạm pháp luật hoặc có dấu hiệu không khách quan trong việc giải quyết tố cáo quy định tại khoản 1, khoản 2 Điều 5 Nghị định số 31/2019/NĐ-CP ngày 10/4/2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo thì Thủ trưởng cơ quan, đơn vị Công an cấp trên trực tiếp có văn bản yêu cầu Thủ trưởng cơ quan, đơn vị Công an cấp dưới chấm dứt việc giải quyết tố cáo, chuyển hồ sơ vụ việc để giải quyết tố cáo.
 
-**ID:** dk_00025045
+ 2. Khi tiếp nhận tố cáo thuộc các trường hợp quy định tại khoản 2 Điều 5 Nghị định số 31/2019/NĐ-CP ngày 10/4/2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo thì Thủ trưởng cơ quan, đơn vị có thẩm quyền giải quyết tố cáo báo cáo và chuyển vụ việc tố cáo đến Thủ trưởng cơ quan, đơn vị cấp trên trực tiếp để giải quyết tố cáo.
 
----
+ 3. Khi xét thấy cần thiết, Bộ trưởng Bộ Công an trực tiếp giải quyết tố cáo thuộc thẩm quyền giải quyết của Thủ trưởng cơ quan, đơn vị Công an cấp dưới đối với vụ việc tố cáo phức tạp hoặc đặc biệt phức tạp, gây dư luận xấu trong xã hội, ảnh hưởng nghiêm trọng đến uy tín của ngành Công an.
 
+ 4. Việc giải quyết tố cáo thực hiện theo quy định của pháp luật về tố cáo và quy trình quy định tại Thông tư này.Điều 18.5.LQ.39. Hồ sơ giải quyết vụ việc tố cáo
 
-### Điều 18.5.LQ.39. Hồ sơ giải quyết vụ việc tố cáo
+(Điều 39 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-*Nội dung chưa có sẵn*
+1. Việc giải quyết tố cáo phải được lập thành hồ sơ. Căn cứ vào vụ việc cụ thể, hồ sơ giải quyết vụ việc tố cáo bao gồm:
 
-**Chỉ mục:** 39
+a) Đơn tố cáo hoặc văn bản ghi nội dung tố cáo; báo cáo hoặc biên bản kiểm tra, xác minh thông tin cá nhân của người tố cáo, biên bản làm việc trực tiếp với người tố cáo để xác minh nội dung tố cáo;
 
-**Mã phân cấp:** 180050000000000030000030000000000000000003900000000000000000
+b) Quyết định thụ lý tố cáo; văn bản giao xác minh nội dung tố cáo;
 
-**ID:** dk_00025046
+c) Biên bản xác minh; kết quả giám định, thông tin, tài liệu, chứng cứ thu thập được trong quá trình xác minh;
 
----
+d) Văn bản giải trình của người bị tố cáo; biên bản làm việc với người bị tố cáo về nội dung giải trình;
 
+đ) Báo cáo kết quả xác minh nội dung tố cáo trong trường hợp người giải quyết tố cáo giao cho người khác tiến hành xác minh nội dung tố cáo;
 
-### Điều 18.5.TT.1.14. Chế độ báo cáo, lưu trữ
+e) Quyết định tạm đình chỉ việc giải quyết tố cáo; quyết định tiếp tục giải quyết tố cáo;
 
-*Nội dung chưa có sẵn*
+g) Kết luận nội dung tố cáo hoặc quyết định đình chỉ việc giải quyết tố cáo;
 
-**Chỉ mục:** 14
+h) Quyết định xử lý của người giải quyết tố cáo, văn bản kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng biện pháp xử lý;
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000390000000000000000000802494400401001400
+i) Các tài liệu khác có liên quan.
 
-**ID:** dk_00025047
+2. Đối với việc giải quyết lại vụ việc tố cáo, hồ sơ bao gồm những tài liệu quy định tại khoản 1 Điều này và các tài liệu sau đây:
 
----
+a) Đơn tố cáo tiếp hoặc văn bản ghi nội dung tố cáo tiếp; văn bản yêu cầu hoặc kiến nghị về việc giải quyết lại vụ việc tố cáo;
 
+b) Kết luận nội dung giải quyết lại vụ việc tố cáo;
 
-### Điều 18.5.TT.1.15. Cơ sở dữ liệu về giải quyết khiếu nại, giải quyết tố cáo và tiếp công dân
+c) Quyết định xử lý của người giải quyết lại vụ việc tố cáo;
 
-Điều 18.5.TT.1.15. Cơ sở dữ liệu về giải quyết khiếu nại, giải quyết tố cáo và tiếp công dân
+d) Các tài liệu khác có liên quan trong quá trình giải quyết lại vụ việc tố cáo.
 
-**Chỉ mục:** 15
+3. Hồ sơ giải quyết vụ việc tố cáo phải được đánh số thứ tự. Việc lưu trữ, khai thác, sử dụng hồ sơ giải quyết vụ việc tố cáo được thực hiện theo quy định của pháp luật, bảo đảm bí mật thông tin về người tố cáo.
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000390000000000000000000802494400401001500
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo của Luật 25/2018/QH14 Tố cáo ban hành ngày 12/06/2018; Điều 18.5.NĐ.1.45. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019; Điều 18.5.NĐ.4.16. Báo cáo kết quả xác minh nội dung tố cáo của Nghị định 31/2019/NĐ-CP Quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo ban hành ngày 10/04/2019)
 
-**ID:** dk_00025048
+Điều 18.5.TT.1.14. Chế độ báo cáo, lưu trữ
 
----
+(Điều 14 Thông tư số 40/2013/TT-BGDĐT, có hiệu lực thi hành kể từ ngày 10/02/2014)
 
+1. Chế độ báo cáo
 
-### Điều 18.5.TT.6.37. Lập và lưu trữ hồ sơ giải quyết tố cáo
+a) Các loại báo cáo: báo cáo định kỳ về công tác giải quyết khiếu nại, giải quyết tố cáo và tiếp công dân hàng quý, 6 tháng, 9 tháng và hàng năm; Báo cáo chuyên đề, báo cáo đột xuất theo yêu cầu của Lãnh đạo Bộ, của các cơ quan Trung ương;
+
+b) Nội dung, thời kỳ lấy số liệu, thời hạn gửi báo cáo về công tác giải quyết khiếu nại, giải quyết tố cáo thực hiện theo quy định tại Thông tư số 03/2013/TT-TTCP ngày 10/6/2013 của Thanh tra Chính Phủ quy định về chế độ báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.
+
+c) Các đơn vị trực thuộc Bộ Giáo dục và Đào tạo thực hiện chế độ báo cáo về công tác tiếp công dân, xử lý đơn và giải quyết khiếu nại tố cáo theo quý và báo cáo đột xuất theo yêu cầu của Lãnh đạo Bộ, của cơ quan nhà nước có thẩm quyền khác.
+
+2. Chế độ lưu trữ
+
+a) Đơn vị thực hiện việc giải quyết khiếu nại, giải quyết tố cáo lập hồ sơ, tổ chức lưu trữ theo quy định tại Điều 34 Luật Khiếu nại và Điều 39 Luật Tố cáo;
+
+b) Thanh tra Bộ tiếp nhận và lưu trữ hồ sơ do các đơn vị gửi đến gồm: đơn khiếu nại, đơn tố cáo; văn bản thụ lý; quyết định giải quyết khiếu nại, kết luận nội dung tố cáo; quyết định xử lý khiếu nại, quyết định xử lý tố cáo (nếu có).
+
+(Điều này có nội dung liên quan đến Điều 18.1.LQ.34. Hồ sơ giải quyết khiếu nại của Luật 02/2011/QH13 Khiếu nại ban hành ngày 11/11/2011; Điều 18.5.LQ.34. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo của Luật 25/2018/QH14 Tố cáo ban hành ngày 12/06/2018; Điều 2. Báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng; Điều 4. Trách nhiệm báo cáo về Thanh tra Chính phủ; Điều 5. Các loại báo cáo; Điều 6. Nội dung của báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng; Điều 9. Thời kỳ lấy số liệu, thời hạn gửi báo cáo; Điều 10. Hình thức báo cáo, phương thức gửi báo cáo của Thông tư 03/2013/TT-TTCP Quy định chế độ báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo 
+và phòng, chống tham nhũng ban hành ngày 10/06/2013)Điều 18.5.TT.1.15. Cơ sở dữ liệu về giải quyết khiếu nại, giải quyết tố cáo và tiếp công dân
+
+(Điều 15 Thông tư số 40/2013/TT-BGDĐT, có hiệu lực thi hành kể từ ngày 10/02/2014)
+
+1. Thanh tra Bộ chủ trì phối hợp với Cục Công nghệ thông tin triển khai, xây dựng cơ sở dữ liệu về giải quyết khiếu nại, giải quyết tố cáo của Bộ. Các đơn vị chức năng thuộc Bộ, đơn vị sự nghiệp trực thuộc Bộ có trách nhiệm thông báo kết quả xử lý đơn đến Thanh tra Bộ để theo dõi, tổng hợp chung; thực hiện việc cập nhật thông tin xử lý đơn trên hệ thống cơ sở dữ liệu về xử lý đơn, giải quyết khiếu nại, giải quyết tố cáo của Bộ.
+
+2. Cơ sở dữ liệu gồm có các nội dung cơ bản sau:
+
+a) Các quy định pháp luật về khiếu nại, tố cáo và tiếp công dân;
+
+b) Hướng dẫn nghiệp vụ giải quyết khiếu nại, tố cáo và tiếp công dân;
+
+c) Địa chỉ tiếp nhận đơn thư của Bộ và của các đơn vị trực thuộc Bộ;
+
+d) Nội dung các Quyết định giải quyết khiếu nại, Kết luận nội dung tố cáo theo quy định về công khai kết quả giải quyết khiếu nại, giải quyết tố cáo;
+
+đ) Các thông tin liên quan khác.
 
 Điều 18.5.TT.6.37. Lập và lưu trữ hồ sơ giải quyết tố cáo
 
-**Chỉ mục:** 37
+(Điều 37 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000390000000000000000000802731800010003700
+1. Người giải quyết tố cáo có trách nhiệm chỉ đạo, xây dựng hồ sơ giải quyết tố cáo theo quy định tại Điều 39 của Luật Tố cáo.
 
-**ID:** dk_00025049
+2. Trường hợp người giải quyết tố cáo giao cho đơn vị có chức năng thanh tra hoặc cơ quan, tổ chức, cá nhân khác thực hiện nhiệm vụ xác minh, thành lập tổ xác minh tố cáo thì đơn vị chủ trì hoặc Tổ trưởng Tổ xác minh có trách nhiệm giúp người giải quyết tố cáo lập hồ sơ giải quyết tố cáo.
 
----
-
-
-### Điều 18.5.LQ.40. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+3. Kể từ ngày hết thời hạn công khai kết luận nội dung tố cáo và quyết định xử lý hành vi vi phạm bị tố cáo theo quy định tại Điều 36 của Thông tư này thì người giải quyết tố cáo, đơn vị chủ trì hoặc tổ xác minh hoặc cá nhân có liên quan đến việc giải quyết tố cáo phải hoàn tất việc sắp xếp tài liệu, lập danh mục tài liệu và bàn giao hồ sơ cho tổ chức, cá nhân có trách nhiệm để lưu trữ theo quy định của pháp luật.
 
 Điều 18.5.LQ.40. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000030000030000000000000000004000000000000000000
+1. Trong thời hạn 07 ngày làm việc kể từ ngày ra kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo, người giải quyết tố cáo có trách nhiệm thực hiện việc công khai kết luận nội dung tố cáo, người có thẩm quyền xử lý kỷ luật, xử phạt vi phạm hành chính có trách nhiệm công khai quyết định xử lý hành vi vi phạm bị tố cáo.
 
-**ID:** dk_00025050
+2. Việc công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo được thực hiện bằng một hoặc một số hình thức sau đây:
 
----
+a) Công bố tại cuộc họp cơ quan, tổ chức nơi người bị tố cáo công tác;
 
+b) Niêm yết tại trụ sở làm việc hoặc nơi tiếp công dân của người đã giải quyết tố cáo, người đã ra quyết định xử lý hành vi vi phạm bị tố cáo;
 
-### Điều 18.5.NĐ.2.13. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm pháp luật bị tố cáo
+c) Đăng tải trên cổng thông tin điện tử hoặc mạng thông tin nội bộ của người đã giải quyết tố cáo, người đã ra quyết định xử lý hành vi vi phạm bị tố cáo;
+
+d) Thông báo trên phương tiện thông tin đại chúng.
+
+3. Việc công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo phải bảo đảm không làm tiết lộ thông tin về người tố cáo và những nội dung thuộc bí mật nhà nước.
+
+4. Chính phủ quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.5. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp giải quyết vụ việc tố cáo thuộc thẩm quyền của cơ quan, tổ chức cấp dưới trong trường hợp quá thời hạn quy định mà chưa được giải quyết; Điều 18.5.NĐ.4.6. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo)
 
 Điều 18.5.NĐ.2.13. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm pháp luật bị tố cáo
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000400000000000000000000402683900220001300
+Trong thời hạn 07 ngày làm việc, kể từ ngày ra kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm pháp luật bị tố cáo, người giải quyết tố cáo trong Công an nhân dân có trách nhiệm công khai kết luận nội dung tố cáo, người có thẩm quyền xử lý kỷ luật, xử phạt vi phạm hành chính trong Công an nhân dân có trách nhiệm công khai quyết định xử lý hành vi vi phạm pháp luật bị tố cáo. Căn cứ tình hình thực tế, tính chất vụ việc, yêu cầu của việc giải quyết tố cáo, người giải quyết tố cáo, người có thẩm quyền xử lý kỷ luật, xử phạt vi phạm hành chính quyết định việc công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm pháp luật bị tố cáo bằng một hoặc một số hình thức được quy định tại khoản 2 Điều 40 Luật Tố cáo và Nghị định quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo. Việc công khai phải đảm bảo bí mật về thông tin người tố cáo và những nội dung thuộc bí mật nhà nước.
 
-**ID:** dk_00025051
-
----
-
-
-### Điều 18.5.TT.10.28. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.45. Trách nhiệm của người bị tố cáo; Điều 18.5.LQ.46. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan; Điều 18.5.TT.8.10. Trình tự, thủ tục, thời hạn giải quyết tố cáo)
 
 Điều 18.5.TT.10.28. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
 
-**Chỉ mục:** 28
+(Điều 28 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000040000000000000000000040268390022000130000802749101290002800
+ 1. Trong thời hạn 07 ngày làm việc kể từ ngày ra kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo, người giải quyết tố cáo phải công khai kết luận nội dung tố cáo, người có thẩm quyền xử lý kỷ luật, xử phạt vi phạm hành chính phải công khai quyết định xử lý hành vi vi phạm trừ những nội dung thuộc bí mật nhà nước và thông tin về người tố cáo.
 
-**ID:** dk_00025052
+ 2. Việc công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo được thực hiện theo quy định tại khoản 2 Điều 6 Nghị định số 31/2019/NĐ-CP ngày 10/4/2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo.Điều 18.5.NĐ.4.6. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
 
----
+(Điều 6 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
+1. Kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo phải được công khai, trừ những nội dung thuộc bí mật nhà nước và thông tin về người tố cáo.
 
-### Điều 18.5.NĐ.4.6. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+2. Căn cứ vào tình hình thực tế, tính chất vụ việc, yêu cầu của việc giải quyết tố cáo, người giải quyết tố cáo, người có thẩm quyền xử lý kỷ luật, xử phạt vi phạm hành chính quyết định việc công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo theo quy định tại khoản 2 Điều 40 Luật Tố cáo bằng một hoặc một số hình thức sau đây:
 
-Điều 18.5.NĐ.4.6. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+a) Công bố tại cuộc họp ở cơ quan, tổ chức nơi người bị tố cáo công tác hoặc ở cơ quan, tổ chức của người giải quyết tố cáo hoặc ở cơ quan, tổ chức của người được giao xác minh với thành phần gồm người giải quyết tố cáo, người xác minh nội dung tố cáo, người bị tố cáo; người đứng đầu cơ quan, tổ chức, đơn vị nơi người bị tố cáo công tác, cơ quan, tổ chức, cá nhân khác có liên quan;
 
-**Chỉ mục:** 6
+b) Niêm yết tại trụ sở làm việc hoặc nơi tiếp công dân của người đã giải quyết tố cáo, người đã ra quyết định xử lý hành vi vi phạm bị tố cáo. Thời gian niêm yết ít nhất 15 ngày liên tục;
 
-**Mã phân cấp:** 18005000000000003000003000000000000000000400000000000000000000402688300310000600
+c) Đăng tải trên cổng thông tin điện tử hoặc mạng thông tin nội bộ của cơ quan đã giải quyết tố cáo, cơ quan người đã ra quyết định xử lý hành vi vi phạm bị tố cáo. Thời gian đăng tải trên cổng thông tin điện tử, trên mạng thông tin nội bộ của cơ quan giải quyết tố cáo ít nhất 15 ngày liên tục;
 
-**ID:** dk_00025053
+d) Thông báo trên phương tiện thông tin đại chúng, (bao gồm: báo in, báo nói, báo hình, báo điện tử) và cổng thông tin điện tử. Việc thông báo trên báo in, báo nói, báo hình phải được thực hiện ít nhất 02 lần liên tục; việc thông báo trên báo điện tử, cổng thông tin điện tử phải thực hiện ít nhất 15 ngày liên tục.
 
----
+**Mục 2. BẢO VỆ NGƯỜI TỐ CÁO**
 
-
-### Điều 18.5.TT.2.20. Công khai kết luận nội dung tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.40. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo)
 
 Điều 18.5.TT.2.20. Công khai kết luận nội dung tố cáo
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 39/2014/TT-BGTVT, có hiệu lực thi hành kể từ ngày 01/11/2014)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000040000000000000000000040268830031000060000802521200391502000
+1. Trong thời hạn 10 ngày, kể từ ngày ký kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo, người giải quyết tố cáo có trách nhiệm công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo bằng một trong các hình thức sau: Công bố tại cuộc họp cơ quan, tổ chức nơi người bị tố cáo công tác; niêm yết tại trụ sở làm việc hoặc nơi tiếp công dân của cơ quan, tổ chức đã giải quyết tố cáo; đưa lên Trang thông tin điện tử địa chỉ tPublic của Bộ Giao thông vận tải (trừ các nội dung thuộc bí mật nhà nước).
 
-**ID:** dk_00025054
-
----
-
-
-### Điều 18.5.TT.6.36. Thực hiện công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+2. Kết luận nội dung tố cáo phải được gửi cho cơ quan thanh tra và cơ quan cấp trên trực tiếp.
 
 Điều 18.5.TT.6.36. Thực hiện công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
 
-**Chỉ mục:** 36
+(Điều 36 Thông tư số 01/2020/TT-TANDTC, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000040000000000000000000040268830031000060000802731800010003600
+1. Việc công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo được thực hiện theo quy định tại Điều 40 của Luật Tố cáo và Điều 6 của Nghị định 31/2019/NĐ-CP ngày 10/4/2019 của Chính phủ về quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo.
 
-**ID:** dk_00025055
+2. Trường hợp công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo thực hiện bằng hình thức công bố tại cuộc họp theo quy định tại điểm a khoản 2 Điều 40 của Luật Tố cáo thì người giải quyết tố cáo phải thông báo bằng văn bản với cơ quan, tổ chức, cá nhân có liên quan biết trước 03 ngày làm việc.
 
----
-
-
-### Điều 18.5.TT.10.29. Kết thúc việc giải quyết tố cáo
+3. Trường hợp công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo thực hiện bằng hình thức thông báo trên phương tiện thông tin đại chúng thì người giải quyết tố cáo có thể lựa chọn một trong các hình thức thông báo trên phương tiện thông tin đại chúng (bao gồm: báo in, báo nói, báo hình, báo điện tử) và cổng thông tin điện tử để thực hiện việc công khai.
 
 Điều 18.5.TT.10.29. Kết thúc việc giải quyết tố cáo
 
-**Chỉ mục:** 29
+(Điều 29 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 1800500000000000300000300000000000000000040000000000000000000040268830031000060000802749101290002900
+ 1. Sau khi hoàn thành việc công khai kết luận nội dung tố cáo quy định tại Điều 28 Thông tư này thì kết thúc việc giải quyết tố cáo; Tổ trưởng Tổ xác minh có trách nhiệm tổ chức họp Tổ xác minh để đánh giá ưu, khuyết điểm rút kinh nghiệm qua giải quyết tố cáo.
 
-**ID:** dk_00025056
+ 2. Tổ trưởng Tổ xác minh làm thủ tục kết thúc hồ sơ, trình người giải quyết tố cáo hoặc Thủ trưởng cơ quan thanh tra, cơ quan, tổ chức khác được giao xác minh nội dung tố cáo ký quyết định kết thúc hồ sơ để nộp lưu theo quy định.Chương IV
 
----
+GIẢI QUYẾT TỐ CÁO ĐỐI VỚI HÀNH VI VI PHẠM PHÁP LUẬT VỀ QUẢN LÝ NHÀ NƯỚC TRONG CÁC LĨNH VỰC
 
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
-### Điều 18.5.LQ.41. Nguyên tắc xác định thẩm quyền
+Điều 18.5.LQ.41. Nguyên tắc xác định thẩm quyền
 
-*Nội dung chưa có sẵn*
+(Điều 41 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 41
+1. Tố cáo hành vi vi phạm pháp luật của cơ quan, tổ chức, cá nhân mà nội dung liên quan đến chức năng quản lý nhà nước của cơ quan nào thì cơ quan đó có trách nhiệm giải quyết.
 
-**Mã phân cấp:** 1800500000000000400004100000000000000000
+2. Tố cáo nhiều hành vi vi phạm pháp luật thuộc chức năng quản lý nhà nước của nhiều cơ quan thì các cơ quan trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp để thống nhất xác định cơ quan có thẩm quyền chủ trì giải quyết hoặc báo cáo cơ quan quản lý nhà nước cấp trên quyết định giao cho một cơ quan có thẩm quyền chủ trì giải quyết.
 
-**ID:** dk_00025058
+3. Tố cáo về hành vi vi phạm pháp luật thuộc thẩm quyền giải quyết của nhiều cơ quan thì cơ quan thụ lý đầu tiên có thẩm quyền giải quyết.
 
----
-
-
-### Điều 18.5.NĐ.2.9. Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.8.7. Xử lý thông tin tố cáo không thuộc thẩm quyền, trách nhiệm giải quyết của Công an nhân dân)
 
 Điều 18.5.NĐ.2.9. Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000040000410000000000000000000402683900220000900
-
-**ID:** dk_00025059
-
----
-
-
-### Điều 18.5.NĐ.2.10. Thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự
+Cá nhân có quyền tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự với cơ quan, đơn vị, cá nhân có thẩm quyền trong Công an nhân dân.
 
 Điều 18.5.NĐ.2.10. Thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000040000410000000000000000000402683900220001000
+1. Thủ trưởng cơ quan, đơn vị Công an các cấp có thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thuộc phạm vi quản lý được giao. Các cơ quan, đơn vị khác liên quan có trách nhiệm phối hợp.
 
-**ID:** dk_00025060
+2. Cán bộ, chiến sĩ Công an không giữ chức vụ có thẩm quyền xử phạt vi phạm hành chính trong khi thi hành công vụ có thẩm quyền giải quyết đối với tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự mà nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay thuộc phạm vi quản lý được giao.
 
----
+3. Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự có nội dung liên quan đến chức năng quản lý nhà nước của cơ quan khác ngoài Công an nhân dân, Thủ trưởng cơ quan, đơn vị Công an có thẩm quyền giải quyết tố cáo phải trao đổi với cơ quan chức năng có liên quan để thống nhất việc phân công chủ trì, phối hợp giải quyết tố cáo. Nếu không thống nhất được thì báo cáo Thủ trưởng cơ quan, đơn vị Công an cấp trên trực tiếp xem xét để báo cáo cơ quan quản lý nhà nước có thẩm quyền quyết định.
 
+Trong thời gian trao đổi, báo cáo nếu hành vi bị tố cáo thuộc trường hợp quy định tại khoản 2 Điều 27 Luật Tố cáo, Thủ trưởng cơ quan, đơn vị Công an có thẩm quyền giải quyết tố cáo phải áp dụng biện pháp cần thiết theo quy định hoặc thông báo ngay cho cơ quan, đơn vị Công an, tổ chức, cá nhân khác có thẩm quyền để ngăn chặn kịp thời hành vi vi phạm.
 
-### Điều 18.5.TT.8.11. Thẩm quyền giải quyết tố cáo
+4. Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự có dấu hiệu tội phạm do cơ quan tiến hành tố tụng giải quyết theo quy định của pháp luật về tố tụng hình sự.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.27. Xử lý tố cáo có dấu hiệu của tội phạm, áp dụng biện pháp ngăn chặn hành vi vi phạm)
 
-**Chỉ mục:** 11
+Điều 18.5.TT.8.11. Thẩm quyền giải quyết tố cáo
 
-**Mã phân cấp:** 18005000000000004000041000000000000000000040268390022000100000802736400850001100
+(Điều 11 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**ID:** dk_00025061
-
----
-
-
-### Điều 18.5.NĐ.3.12. Thẩm quyền giải quyết tố cáo trong quản lý nhà nước về quốc phòng
+ Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thực hiện theo quy định tại Điều 41 Luật Tố cáo và Điều 10 Nghị định số 22/2019/NĐ-CP.(Điều này có nội dung liên quan đến Điều 18.5.NĐ.2.12. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay)
 
 Điều 18.5.NĐ.3.12. Thẩm quyền giải quyết tố cáo trong quản lý nhà nước về quốc phòng
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 180050000000000040000410000000000000000000402686200280001200
+1. Người đứng đầu về hành chính quân sự của cơ quan, đơn vị có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực quốc phòng thuộc phạm vi quản lý được giao.
 
-**ID:** dk_00025062
-
----
-
-
-### Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo
+2. Người có thẩm quyền xử lý vi phạm hành chính trong lĩnh vực quản lý nhà nước về quốc phòng có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật thuộc phạm vi quản lý được giao, trừ trường hợp pháp luật có quy định khác.
 
 Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000400004200000000000000000
+1. Trình tự, thủ tục tiếp nhận, phân loại, xác minh, kết luận nội dung tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực được thực hiện theo quy định tại các điều 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 36, 37, 38, 39 và 40 của Luật này, trừ trường hợp quy định tại Điều 43 của Luật này.
 
-**ID:** dk_00025063
+Trường hợp kết luận người bị tố cáo vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực thì việc xử lý hành vi vi phạm đó còn phải tuân thủ quy định của pháp luật về xử lý vi phạm hành chính.
 
----
+2. Trường hợp pháp luật về xử lý vi phạm hành chính có quy định về thời hạn giải quyết khác với quy định tại Điều 30 của Luật này thì thời hạn giải quyết tố cáo không được vượt quá thời hạn xử lý vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính.
 
-
-### Điều 18.5.NĐ.2.11. Trình tự, thủ tục, thời hạn giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.22. Hình thức tố cáo; Điều 18.5.LQ.23. Tiếp nhận tố cáo; Điều 18.5.LQ.24. Xử lý ban đầu thông tin tố cáo; Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo; Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến; Điều 18.5.LQ.27. Xử lý tố cáo có dấu hiệu của tội phạm, áp dụng biện pháp ngăn chặn hành vi vi phạm; Điều 18.5.LQ.28. Trình tự giải quyết tố cáo; Điều 18.5.LQ.29. Thụ lý tố cáo; Điều 18.5.LQ.30. Thời hạn giải quyết tố cáo; Điều 18.5.LQ.31. Xác minh nội dung tố cáo; Điều 18.5.LQ.33. Rút tố cáo; Điều 18.5.LQ.34. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo; Điều 18.5.LQ.35. Kết luận nội dung tố cáo; Điều 18.5.LQ.36. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo; Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo; Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết; Điều 18.5.LQ.39. Hồ sơ giải quyết vụ việc tố cáo; Điều 18.5.LQ.40. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo; Điều 18.5.LQ.43. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay của Luật 25/2018/QH14 Tố cáo ban hành ngày 12/06/2018; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
 Điều 18.5.NĐ.2.11. Trình tự, thủ tục, thời hạn giải quyết tố cáo
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000040000420000000000000000000402683900220001100
+Trình tự, thủ tục, thời hạn giải quyết tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thực hiện theo quy định tại các Điều 28, 29, 30, 31, khoản 1 Điều 32, Điều 33, 34, 35, 36, 37, 38, 39 của Luật Tố cáo, Điều 13 Nghị định này và Nghị định quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo.
 
-**ID:** dk_00025064
-
----
-
-
-### Điều 18.5.TT.8.12. Trình tự, thủ tục giải quyết tố cáo
+Trường hợp kết luận người bị tố cáo vi phạm pháp luật trong quản lý nhà nước về an ninh, trật tự thì việc xử lý hành vi vi phạm đó còn phải tuân thủ các quy định pháp luật khác có liên quan.
 
 Điều 18.5.TT.8.12. Trình tự, thủ tục giải quyết tố cáo
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Mã phân cấp:** 18005000000000004000042000000000000000000040268390022000110000802736400850001200
+ Trình tự, thủ tục giải quyết tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thực hiện theo quy định tại Điều 42 Luật Tố cáo và Điều 11, Điều 12 Nghị định số 22/2019/NĐ-CP.Điều 18.5.NĐ.3.13. Trình tự, thủ tục giải quyết tố cáo trong quản lý nhà nước về quốc phòng
 
-**ID:** dk_00025065
+(Điều 13 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
----
+1. Trình tự, thủ tục tiếp nhận, phân loại, xử lý, xác minh, kết luận nội dung tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực quốc phòng thực hiện theo quy định tại các Điều 22, 23, 24, 25, 26, 27, 28, 29, 30, 31; khoản 1 Điều 32; các Điều 33, 34, 35, 36, 37, 38, 39, 40 của Luật Tố cáo năm 2018.
 
-
-### Điều 18.5.NĐ.3.13. Trình tự, thủ tục giải quyết tố cáo trong quản lý nhà nước về quốc phòng
-
-Điều 18.5.NĐ.3.13. Trình tự, thủ tục giải quyết tố cáo trong quản lý nhà nước về quốc phòng
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 180050000000000040000420000000000000000000402686200280001300
-
-**ID:** dk_00025066
-
----
-
-
-### Điều 18.5.LQ.43. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+2. Đối với tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực quốc phòng có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay thì việc giải quyết tố cáo được thực hiện theo Điều 43 Luật Tố cáo năm 2018.
 
 Điều 18.5.LQ.43. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000400004300000000000000000
+1. Đối với tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay thì việc giải quyết tố cáo được thực hiện theo trình tự sau đây:
 
-**ID:** dk_00025067
+a) Người có thẩm quyền tiếp nhận, xử lý thông tin tố cáo;
 
----
+b) Trường hợp tố cáo hành vi vi phạm pháp luật thuộc lĩnh vực mà mình quản lý, người giải quyết tố cáo tiến hành ngay việc xác minh nội dung tố cáo, áp dụng biện pháp cần thiết để ngăn chặn, chấm dứt hành vi vi phạm pháp luật và kịp thời lập biên bản về hành vi vi phạm pháp luật; việc xác minh, kiểm tra thông tin về người tố cáo được thực hiện trong trường hợp người giải quyết tố cáo thấy cần thiết cho quá trình xử lý hành vi bị tố cáo;
 
+c) Người giải quyết tố cáo ra quyết định xử lý hành vi vi phạm pháp luật theo thẩm quyền hoặc đề nghị cơ quan có thẩm quyền xử lý theo quy định của pháp luật.
 
-### Điều 18.5.NĐ.2.12. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+2. Hồ sơ giải quyết vụ việc tố cáo được lập chung cùng hồ sơ xử lý vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.19. Trình tự, thủ tục giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay)
 
 Điều 18.5.NĐ.2.12. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000040000430000000000000000000402683900220001200
+1. Đối với tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay thì việc giải quyết tố cáo được thực hiện theo trình tự sau đây:
 
-**ID:** dk_00025068
+a) Cán bộ, chiến sĩ Công an có thẩm quyền tiếp nhận, xử lý thông tin tố cáo;
 
----
+b) Trường hợp tố cáo hành vi vi phạm pháp luật thuộc lĩnh vực quản lý của cơ quan, đơn vị mình thì cán bộ, chiến sĩ Công an tiếp nhận tố cáo phải trực tiếp tiến hành hoặc báo cáo người có thẩm quyền giải quyết tố cáo tiến hành ngay việc xác minh nội dung tố cáo, áp dụng biện pháp cần thiết để ngăn chặn, chấm dứt hành vi vi phạm pháp luật và kịp thời lập biên bản về hành vi vi phạm pháp luật (nếu có); việc xác minh, kiểm tra thông tin về người tố cáo được thực hiện trong trường hợp người giải quyết tố cáo thấy cần thiết cho quá trình xử lý hành vi bị tố cáo;
 
+c) Thủ trưởng, cán bộ, chiến sĩ Công an giải quyết tố cáo ra quyết định xử lý hành vi vi phạm theo thẩm quyền hoặc đề nghị cơ quan có thẩm quyền xử lý theo quy định của pháp luật.
 
-### Điều 18.5.TT.10.4. Giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+2. Hồ sơ vụ việc tố cáo được lập chung cùng hồ sơ xử lý vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính.
+
+(Điều này có nội dung liên quan đến Điều 18.5.TT.8.11. Thẩm quyền giải quyết tố cáo)
 
 Điều 18.5.TT.10.4. Giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Mã phân cấp:** 18005000000000004000043000000000000000000040268390022000120000802749101290000400
+ Việc giải quyết tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay thực hiện theo quy định tại Điều 43 của Luật Tố cáo; không áp dụng trình tự, thủ tục giải quyết theo quy trình tại Thông tư này.Chương V
 
-**ID:** dk_00025069
+TRÁCH NHIỆM TỔ CHỨC THỰC HIỆN KẾT LUẬN NỘI DUNG TỐ CÁO
 
----
-
-
-### Điều 18.5.LQ.44. Trách nhiệm của người giải quyết tố cáo
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
 Điều 18.5.LQ.44. Trách nhiệm của người giải quyết tố cáo
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000500004400000000000000000
+1. Trên cơ sở kết luận nội dung tố cáo, căn cứ vào tính chất, mức độ vi phạm, người giải quyết tố cáo xử lý như sau:
 
-**ID:** dk_00025071
+a) Đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ, người giải quyết tố cáo xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý kỷ luật, buộc khắc phục hậu quả do hành vi vi phạm pháp luật gây ra, áp dụng các biện pháp xử lý khác theo quy định của pháp luật;
 
----
+b) Đối với hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực, người giải quyết tố cáo xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử phạt vi phạm hành chính, áp dụng các biện pháp xử lý khác theo quy định của pháp luật;
 
+c) Xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý người tố cáo cố ý tố cáo sai sự thật;
 
-### Điều 18.5.NĐ.2.14. Trách nhiệm tổ chức thực hiện kết luận nội dung tố cáo
+d) Đối với hành vi vi phạm pháp luật có dấu hiệu của tội phạm thì có văn bản chuyển hồ sơ đến Cơ quan điều tra hoặc Viện kiểm sát nhân dân có thẩm quyền.
+
+2. Thẩm quyền, trình tự, thủ tục xử lý kỷ luật, xử phạt vi phạm hành chính, áp dụng các biện pháp xử lý khác thực hiện theo quy định của pháp luật về cán bộ, công chức, viên chức, pháp luật về xử lý vi phạm hành chính và quy định khác của pháp luật có liên quan.
+
+3. Người giải quyết tố cáo có trách nhiệm theo dõi, đôn đốc hoặc giao cho cơ quan thanh tra nhà nước cùng cấp theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.2.14. Trách nhiệm tổ chức thực hiện kết luận nội dung tố cáo
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000050000440000000000000000000402683900220001400
+1. Người giải quyết tố cáo trong Công an nhân dân có trách nhiệm tổ chức thực hiện kết luận nội dung tố cáo theo quy định tại Điều 44 Luật Tố cáo.
 
-**ID:** dk_00025072
-
----
-
-
-### Điều 18.5.NĐ.3.11. Trách nhiệm tổ chức thực hiện kết luận nội dung tố cáo
+2. Người bị tố cáo, cơ quan, đơn vị, tổ chức, cá nhân có liên quan có trách nhiệm thực hiện kết luận nội dung tố cáo của người giải quyết tố cáo trong Công an nhân dân theo quy định tại Điều 45, 46 Luật Tố cáo.
 
 Điều 18.5.NĐ.3.11. Trách nhiệm tổ chức thực hiện kết luận nội dung tố cáo
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 180050000000000050000440000000000000000000402686200280001100
+Trách nhiệm của người giải quyết tố cáo, người bị tố cáo và cơ quan, tổ chức, cá nhân có liên quan trong tổ chức thực hiện kết luận nội dung tố cáo thực hiện theo quy định tại các Điều 44, 45, 46 của Luật Tố cáo năm 2018.
 
-**ID:** dk_00025073
+Điều 18.5.LQ.45. Trách nhiệm của người bị tố cáo
 
----
+(Điều 45 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+1. Thực hiện kịp thời, đúng thời hạn và đầy đủ các nghĩa vụ đã được xác định tại kết luận nội dung tố cáo.
 
-### Điều 18.5.LQ.45. Trách nhiệm của người bị tố cáo
+2. Trường hợp tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ, người bị tố cáo phải báo cáo và chịu trách nhiệm trước người giải quyết tố cáo, trước pháp luật về việc thực hiện kết luận nội dung tố cáo.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 45
-
-**Mã phân cấp:** 1800500000000000500004500000000000000000
-
-**ID:** dk_00025074
-
----
-
-
-### Điều 18.5.LQ.46. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.13. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm pháp luật bị tố cáo)
 
 Điều 18.5.LQ.46. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000500004600000000000000000
+1. Thực hiện kịp thời, đúng thời hạn và đầy đủ các nghĩa vụ có liên quan đã được xác định tại kết luận nội dung tố cáo.
 
-**ID:** dk_00025075
+2. Trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, phối hợp với người giải quyết tố cáo để xử lý hành vi vi phạm pháp luật bị tố cáo theo quy định của pháp luật.
 
----
+3. Chịu trách nhiệm trước pháp luật về việc thực hiện kết luận nội dung tố cáo liên quan đến trách nhiệm của mình.
 
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.2.13. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm pháp luật bị tố cáo)
 
-### Điều 18.5.LQ.47. Người được bảo vệ, phạm vi bảo vệ
+Chương VI
 
-*Nội dung chưa có sẵn*
+BẢO VỆ NGƯỜI TỐ CÁO
 
-**Chỉ mục:** 47
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019; Điều 18.5.TT.11.8. Trình tự, thủ tục bảo vệ của Thông tư 145/2020/TT-BCA Quy định thẩm quyền, trình tự, thủ tục, biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí ban hành ngày 29/12/2020)
 
-**Mã phân cấp:** 180050000000000060000010000000000000000004700000000000000000
+Mục 1
 
-**ID:** dk_00025078
+QUY ĐỊNH CHUNG
 
----
+(Mục này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
+Điều 18.5.LQ.47. Người được bảo vệ, phạm vi bảo vệ
 
-### Điều 18.5.NĐ.2.15. Trách nhiệm của người giải quyết tố cáo, Thủ trưởng, cán bộ, chiến sĩ Công an trong việc bảo vệ người tố cáo, người thân của người tố cáo
+(Điều 47 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+1. Bảo vệ người tố cáo là việc bảo vệ bí mật thông tin của người tố cáo; bảo vệ vị trí công tác, việc làm, tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo, vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người tố cáo (gọi chung là người được bảo vệ).
+
+2. Người tố cáo được bảo vệ bí mật thông tin cá nhân, trừ trường hợp người tố cáo tự tiết lộ.
+
+3. Khi có căn cứ về việc vị trí công tác, việc làm, tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người quy định tại khoản 1 Điều này đang bị xâm hại hoặc có nguy cơ bị xâm hại ngay tức khắc hay họ bị trù dập, phân biệt đối xử do việc tố cáo, người giải quyết tố cáo, cơ quan khác có thẩm quyền tự quyết định hoặc theo đề nghị của người tố cáo quyết định việc áp dụng biện pháp bảo vệ cần thiết.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.50. Đề nghị áp dụng biện pháp bảo vệ; Điều 18.5.LQ.51. Xem xét, quyết định bảo vệ người tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.9.4. Trình tự, thủ tục bảo vệ)
 
 Điều 18.5.NĐ.2.15. Trách nhiệm của người giải quyết tố cáo, Thủ trưởng, cán bộ, chiến sĩ Công an trong việc bảo vệ người tố cáo, người thân của người tố cáo
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 18005000000000006000001000000000000000000470000000000000000000402683900220001500
+1. Trong quá trình giải quyết tố cáo, người giải quyết tố cáo trong Công an nhân dân có trách nhiệm bảo vệ người tố cáo, người thân của người tố cáo (quy định tại khoản 1 Điều 47 Luật Tố cáo); phạm vi bảo vệ, trình tự thủ tục, các biện pháp bảo vệ thực hiện theo quy định tại khoản 2, 3 Điều 47, Điều 50, 51, 52, 53, 54, 55, 56, 57, 58 của Luật Tố cáo và các quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00025079
-
----
-
-
-### Điều 18.5.TT.11.3. Những người được bảo vệ, phạm vi, nội dung bảo vệ và căn cứ áp dụng biện pháp bảo vệ
+2. Trong phạm vi nhiệm vụ, quyền hạn của mình khi nhận được yêu cầu của người giải quyết tố cáo hoặc cơ quan, đơn vị có thẩm quyền, Thủ trưởng, cán bộ, chiến sĩ Công an các cấp có trách nhiệm áp dụng các biện pháp theo quy định của Luật Tố cáo và các quy định khác của pháp luật có liên quan để bảo vệ người tố cáo, người thân của người tố cáo.
 
 Điều 18.5.TT.11.3. Những người được bảo vệ, phạm vi, nội dung bảo vệ và căn cứ áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-**Mã phân cấp:** 1800500000000000600000100000000000000000047000000000000000000040268390022000150000802751201450000300
+ 1. Những người được bảo vệ gồm: Người tố cáo về hành vi tham nhũng, lãng phí; vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người tố cáo về hành vi tham nhũng, lãng phí (sau đây gọi chung là người được bảo vệ). Người được bảo vệ đang sinh sống, làm việc, học tập tại nước ngoài không thuộc phạm vi điều chỉnh của Thông tư này.
 
-**ID:** dk_00025080
+ 2. Phạm vi, nội dung bảo vệ người được bảo vệ, gồm: Bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm. Tài sản được bảo vệ là tài sản thuộc quyền sở hữu của người được bảo vệ. Tài sản của người được bảo vệ tại nước ngoài không thuộc phạm vi điều chỉnh của Thông tư này.
 
----
+ 3. Căn cứ áp dụng biện pháp bảo vệ: Khi có căn cứ về việc tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người quy định tại khoản 1 Điều này đang bị xâm hại hoặc có nguy cơ bị xâm hại ngay tức khắc do việc tố cáo về hành vi tham nhũng, lãng phí.Điều 18.5.TT.11.4. Quyền và nghĩa vụ của người được bảo vệ
 
+(Điều 4 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-### Điều 18.5.TT.11.4. Quyền và nghĩa vụ của người được bảo vệ
-
-Điều 18.5.TT.11.4. Quyền và nghĩa vụ của người được bảo vệ
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 1800500000000000600000100000000000000000047000000000000000000040268390022000150000802751201450000400
-
-**ID:** dk_00025081
-
----
-
-
-### Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ
+ Quyền và nghĩa vụ của người được bảo vệ thực hiện theo quy định tại Điều 48 Luật Tố cáo. Người có thẩm quyền giải quyết tố cáo, cơ quan Công an có thẩm quyền áp dụng biện pháp bảo vệ không chịu trách nhiệm về hậu quả xảy ra đối với tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ trong trường hợp người được bảo vệ tự đề nghị chấm dứt, từ chối áp dụng biện pháp bảo vệ hoặc không chấp hành các nghĩa vụ quy định tại khoản 2 Điều 48 Luật Tố cáo.(Điều này có nội dung liên quan đến Điều 18.5.LQ.48. Quyền và nghĩa vụ của người được bảo vệ)
 
 Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-**Mã phân cấp:** 1800500000000000600000100000000000000000047000000000000000000040268390022000150000802751201450000500
+ 1. Cơ quan Công an các cấp nơi người được bảo vệ có địa chỉ nơi ở hoặc nơi có tài sản, có trách nhiệm chủ trì, phối hợp với cơ quan, tổ chức, đơn vị, cá nhân có liên quan thực hiện việc bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ; quyết định huy động, sử dụng lực lượng, phương tiện, công cụ, biện pháp và các nội dung đề nghị, yêu cầu các cơ quan, tổ chức, đơn vị, cá nhân có liên quan phối hợp thực hiện việc bảo vệ. Các cơ quan, tổ chức, đơn vị, cá nhân có liên quan trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp theo đề nghị, yêu cầu của cơ quan Công an các cấp.
 
-**ID:** dk_00025082
+ 2. Người có thẩm quyền giải quyết tố cáo khi nhận được đề nghị áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo, người có thẩm quyền giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 3 Thông tư này, thì kịp thời đề nghị, yêu cầu cơ quan Công an cấp có thẩm quyền áp dụng biện pháp bảo vệ, thực hiện như sau:
 
----
+ a) Người có thẩm quyền giải quyết tố cáo quy định tại các khoản 6, 7, 8 Điều 13; khoản 4 Điều 14; khoản 4 Điều 15; Điều 16; khoản 1, 3 Điều 17 và Điều 20 Luật Tố cáo kịp thời đề nghị, yêu cầu áp dụng biện pháp bảo vệ đến Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương (gọi chung là Giám đốc Công an cấp tỉnh) có liên quan, đồng thời gửi Bộ trưởng Bộ Công an để chỉ đạo. Khi nhận được đề nghị, yêu cầu bảo vệ, Giám đốc Công an cấp tỉnh xem xét, quyết định áp dụng biện pháp bảo vệ hoặc chỉ đạo Công an các đơn vị trực thuộc có liên quan ra quyết định áp dụng biện pháp bảo vệ;
 
+ b) Người có thẩm quyền giải quyết tố cáo quy định tại các khoản 3, 4, 5 Điều 13; khoản 2, 3 Điều 14; khoản 2, 3 Điều 15; khoản 2 Điều 17 và Điều 18, Điều 19 Luật Tố cáo kịp thời đề nghị, yêu cầu áp dụng biện pháp bảo vệ đến Giám đốc Công an cấp tỉnh. Khi nhận được đề nghị, yêu cầu bảo vệ, Giám đốc Công an cấp tỉnh xem xét, quyết định áp dụng biện pháp bảo vệ hoặc chỉ đạo Công an các đơn vị trực thuộc có liên quan ra quyết định áp dụng biện pháp bảo vệ;
 
-### Điều 18.5.TT.11.8. Trình tự, thủ tục bảo vệ
+ c) Người có thẩm quyền giải quyết tố cáo quy định tại các khoản 2 Điều 13; khoản 1 Điều 14; khoản 1 Điều 15 và Điều 21 Luật Tố cáo kịp thời đề nghị, yêu cầu áp dụng biện pháp bảo vệ đến Trưởng Công an quận, huyện, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương (gọi chung là Trưởng Công an cấp huyện). Khi nhận được đề nghị, yêu cầu bảo vệ, Trưởng Công an cấp huyện xem xét, quyết định áp dụng biện pháp bảo vệ hoặc chỉ đạo Trưởng Công an phường, Trưởng đồn, Trưởng trạm Công an, Trưởng Công an thị trấn, Trưởng Công an xã thuộc biên chế của lực lượng Công an nhân dân (gọi chung là Trưởng Công an cấp xã) có liên quan quyết định áp dụng biện pháp bảo vệ;
 
-*Nội dung chưa có sẵn*
+ d) Người có thẩm quyền giải quyết tố cáo quy định tại khoản 1 Điều 13 Luật Tố cáo kịp thời đề nghị, yêu cầu áp dụng biện pháp bảo vệ đến Trưởng Công an cấp xã. Khi nhận được đề nghị, yêu cầu bảo vệ, Trưởng Công an cấp xã xem xét, quyết định áp dụng biện pháp bảo vệ;
 
-**Chỉ mục:** 8
+ đ) Trường hợp khẩn cấp có căn cứ xác định tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ có thể bị xâm hại ngay tức khắc sau khi thực hiện việc tố cáo về hành vi tham nhũng, lãng phí; người có thẩm quyền giải quyết tố cáo có trách nhiệm thực hiện ngay việc đề nghị, yêu cầu cơ quan Công an nơi gần nhất hoặc cơ quan Công an nơi có thể xảy ra hành vi xâm hại tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ áp dụng biện pháp bảo vệ cần thiết;
 
-**Mã phân cấp:** 1800500000000000600000100000000000000000047000000000000000000040268390022000150000802751201450000800
+ e) Trường hợp người được bảo vệ là phạm nhân tại trại giam; trại viên tại cơ sở giáo dục bắt buộc; học sinh tại trường giáo dưỡng: Người có thẩm quyền giải quyết tố cáo kịp thời đề nghị, yêu cầu áp dụng biện pháp bảo vệ đến Giám thị trại giam, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng.
 
-**ID:** dk_00025083
+ 3. Khi nhận được đề nghị, yêu cầu của người có thẩm quyền giải quyết tố cáo, văn bản đề nghị áp dụng biện pháp bảo vệ của người tố cáo về hành vi tham nhũng, lãng phí hoặc văn bản đề nghị của cơ quan, đơn vị có thẩm quyền; xét thấy đề nghị, yêu cầu là có căn cứ, trong phạm vi nhiệm vụ, quyền hạn của mình, trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị, yêu cầu Thủ trưởng Công an các cấp có thẩm quyền ra quyết định áp dụng biện pháp bảo vệ; chủ trì, phối hợp với cơ quan, tổ chức, đơn vị, cá nhân có liên quan thực hiện việc bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ. Trường hợp vụ việc có tính chất phức tạp, phải kiểm tra, xác minh tại nhiều địa điểm thì thời hạn ra quyết định áp dụng biện pháp bảo vệ có thể kéo dài hơn nhưng không quá 05 ngày làm việc.
 
----
+ Trường hợp không thuộc thẩm quyền thì Thủ trưởng Công an các cấp có trách nhiệm chuyển ngay đến cơ quan Công an có thẩm quyền xử lý theo quy định và thông báo bằng văn bản cho người có thẩm quyền giải quyết tố cáo, người tố cáo hoặc cơ quan, đơn vị có thẩm quyền biết việc chuyển đề nghị, yêu cầu.
 
+ 4. Trường hợp đề nghị, yêu cầu của người có thẩm quyền giải quyết tố cáo và người tố cáo về hành vi tham nhũng, lãng phí không có căn cứ hoặc xét thấy không cần thiết áp dụng biện pháp bảo vệ, trong thời hạn 03 ngày làm việc, Thủ trưởng Công an các cấp có thẩm quyền phải thông báo bằng văn bản và nêu rõ lý do cho cơ quan, đơn vị có thẩm quyền, người tố cáo hoặc gửi văn bản thông báo cho người giải quyết tố cáo biết để giải thích rõ lý do cho người tố cáo.(Điều này có nội dung liên quan đến Điều 18.5.LQ.13. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan hành chính nhà nước; Điều 18.5.LQ.14. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Tòa án nhân dân; Điều 18.5.LQ.15. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Viện kiểm sát nhân dân; Điều 18.5.LQ.16. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Kiểm toán nhà nước; Điều 18.5.LQ.17. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan khác của Nhà nước; Điều 18.5.LQ.18. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong đơn vị sự nghiệp công lập; Điều 18.5.LQ.19. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người có chức danh, chức vụ trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ; Điều 18.5.LQ.20. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức chính trị, tổ chức chính trị - xã hội; Điều 18.5.LQ.21. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức)
 
-### Điều 18.5.LQ.48. Quyền và nghĩa vụ của người được bảo vệ
+Điều 18.5.TT.11.8. Trình tự, thủ tục bảo vệ
+
+(Điều 8 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
+
+ 1. Trình tự, thủ tục bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí thực hiện theo quy định tại Mục 2 Chương VI Luật Tố cáo.
+
+ 2. Trường hợp người có thẩm quyền giải quyết tố cáo đã ra kết luận nội dung tố cáo hoặc quyết định đình chỉ việc giải quyết tố cáo thì phải thông báo ngay cho cơ quan Công an cấp có thẩm quyền để quyết định chấm dứt áp dụng biện pháp bảo vệ. Quyết định chấm dứt áp dụng biện pháp bảo vệ được gửi cho người được bảo vệ, người có thẩm quyền giải quyết tố cáo và cơ quan, tổ chức, đơn vị, cá nhân khác có liên quan.
+
+ 3. Sau thời gian người có thẩm quyền giải quyết tố cáo ra kết luận nội dung tố cáo hoặc quyết định đình chỉ việc giải quyết tố cáo, cơ quan Công an cấp có thẩm quyền quyết định chấm dứt áp dụng biện pháp bảo vệ, nếu người có thẩm quyền giải quyết tố cáo tiếp tục nhận được văn bản đề nghị của người tố cáo về hành vi tham nhũng, lãng phí và xét thấy có căn cứ, có tính xác thực xác định tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ tiếp tục bị xâm hại hoặc đe dọa xâm hại thì chuyển văn bản đến cơ quan Công an có thẩm quyền để xử lý theo quy định của pháp luật và thông báo bằng văn bản cho người tố cáo biết.(Điều này có nội dung liên quan đến Chương VI BẢO VỆ NGƯỜI TỐ CÁO)
 
 Điều 18.5.LQ.48. Quyền và nghĩa vụ của người được bảo vệ
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000060000010000000000000000004800000000000000000
+1. Người được bảo vệ có các quyền sau đây:
 
-**ID:** dk_00025084
+a) Được biết về các biện pháp bảo vệ;
 
----
+b) Được giải thích về quyền và nghĩa vụ khi được áp dụng biện pháp bảo vệ;
 
+c) Đề nghị thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ;
 
-### Điều 18.5.LQ.49. Cơ quan có thẩm quyền áp dụng biện pháp bảo vệ
+d) Từ chối áp dụng biện pháp bảo vệ;
+
+đ) Được bồi thường theo quy định của pháp luật về trách nhiệm bồi thường của Nhà nước trong trường hợp người tố cáo đã đề nghị người giải quyết tố cáo, cơ quan khác có thẩm quyền áp dụng biện pháp bảo vệ mà không áp dụng biện pháp bảo vệ hoặc áp dụng không kịp thời, không đúng quy định của pháp luật, gây thiệt hại về tính mạng, sức khỏe, tài sản, tinh thần cho người được bảo vệ.
+
+2. Người được bảo vệ có các nghĩa vụ sau đây:
+
+a) Chấp hành nghiêm chỉnh yêu cầu của cơ quan có thẩm quyền áp dụng biện pháp bảo vệ;
+
+b) Giữ bí mật thông tin về việc được bảo vệ;
+
+c) Thông báo kịp thời đến cơ quan áp dụng biện pháp bảo vệ về những vấn đề phát sinh trong thời gian được bảo vệ.
+
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.11.4. Quyền và nghĩa vụ của người được bảo vệ)
 
 Điều 18.5.LQ.49. Cơ quan có thẩm quyền áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000060000010000000000000000004900000000000000000
+1. Người giải quyết tố cáo có trách nhiệm bảo vệ bí mật thông tin, vị trí công tác, việc làm của người được bảo vệ thuộc quyền quản lý và những nội dung bảo vệ khác nếu thuộc thẩm quyền của mình; trường hợp không thuộc thẩm quyền thì yêu cầu hoặc đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp bảo vệ.
 
-**ID:** dk_00025085
+2. Cơ quan tiếp nhận, xác minh nội dung tố cáo có trách nhiệm bảo vệ bí mật thông tin của người tố cáo.
 
----
+3. Cơ quan Công an chủ trì, phối hợp với cơ quan, tổ chức có liên quan thực hiện việc bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ.
 
+4. Cơ quan quản lý nhà nước về cán bộ, công chức, viên chức, lao động, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với cơ quan, tổ chức có liên quan thực hiện việc bảo vệ vị trí công tác, việc làm của người được bảo vệ.
 
-### Điều 18.5.NĐ.3.14. Thẩm quyền áp dụng biện pháp bảo vệ
+5. Ủy ban nhân dân các cấp, Công đoàn các cấp, cơ quan, tổ chức khác, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan có thẩm quyền áp dụng biện pháp bảo vệ thực hiện việc bảo vệ bí mật thông tin, vị trí công tác, việc làm, tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ.
+
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.3.14. Thẩm quyền áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 18005000000000006000001000000000000000000490000000000000000000402686200280001400
+1. Người có thẩm quyền giải quyết tố cáo quy định tại Điều 6 Nghị định này có trách nhiệm bảo vệ bí mật thông tin, vị trí công tác, việc làm của người được bảo vệ thuộc quyền quản lý và những nội dung bảo vệ khác nếu thuộc thẩm quyền của mình; trường hợp không thuộc thẩm quyền thì yêu cầu hoặc đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp bảo vệ.
 
-**ID:** dk_00025086
+2. Cơ quan tiếp nhận, xác minh nội dung tố cáo có trách nhiệm bảo vệ bí mật thông tin của người tố cáo.
 
----
+3. Cơ quan Bảo vệ an ninh các cấp trong Quân đội có trách nhiệm chủ trì, phối hợp vớicơ quan công an, chính quyền địa phương, các tổ chức có liên quan thực hiện việc bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ.
 
+4. Cơ quan, đơn vị quản lý quân nhân, công nhân và viên chức quốc phòng trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với cơ quan, đơn vị có liên quan thực hiện việc bảo vệ vị trí công tác, việc làm của người được bảo vệ.
 
-### Điều 18.5.LQ.50. Đề nghị áp dụng biện pháp bảo vệ
+Mục 2
 
-*Nội dung chưa có sẵn*
+TRÌNH TỰ, THỦ TỤC BẢO VỆ
 
-**Chỉ mục:** 50
+(Mục này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
-**Mã phân cấp:** 180050000000000060000020000000000000000005000000000000000000
+Điều 18.5.LQ.50. Đề nghị áp dụng biện pháp bảo vệ
 
-**ID:** dk_00025088
+(Điều 50 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+1. Khi có căn cứ quy định tại khoản 3 Điều 47 của Luật này thì người tố cáo có văn bản đề nghị người giải quyết tố cáo áp dụng biện pháp bảo vệ.
 
+2. Văn bản đề nghị áp dụng biện pháp bảo vệ phải có các nội dung chính sau đây:
 
-### Điều 18.5.NĐ.3.15. Trình tự, thủ tục, thời hạn, các biện pháp bảo vệ, trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân trong việc bảo vệ người tố cáo, người được bảo vệ
+a) Ngày, tháng, năm đề nghị áp dụng biện pháp bảo vệ;
+
+b) Họ tên, địa chỉ của người tố cáo; họ tên, địa chỉ của người cần được bảo vệ;
+
+c) Lý do và nội dung đề nghị áp dụng biện pháp bảo vệ;
+
+d) Chữ ký hoặc điểm chỉ của người tố cáo.
+
+3. Trường hợp khẩn cấp, người tố cáo có thể trực tiếp đến đề nghị hoặc thông qua điện thoại đề nghị người giải quyết tố cáo áp dụng biện pháp bảo vệ ngay nhưng sau đó nội dung đề nghị phải được thể hiện bằng văn bản.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.47. Người được bảo vệ, phạm vi bảo vệ; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ)
 
 Điều 18.5.NĐ.3.15. Trình tự, thủ tục, thời hạn, các biện pháp bảo vệ, trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân trong việc bảo vệ người tố cáo, người được bảo vệ
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 18005000000000006000002000000000000000000500000000000000000000402686200280001500
+Trình tự, thủ tục, thời hạn, các biện pháp bảo vệ, trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân trong việc bảo vệ người tố cáo, người được bảo vệ thực hiện theo quy định tại các Điều 50, 51, 52, 53, 54, 55, 56, 57, 58 của Luật Tố cáo năm 2018 và các quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00025089
+Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ
 
----
+(Điều 5 Thông tư số 03/2020/TT-BNV, có hiệu lực thi hành kể từ ngày 05/09/2020)
 
+Trình tự, thủ tục bảo vệ được thực hiện theo quy định tại Mục 2 Chương VI Luật Tố cáo.
 
-### Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.50. Đề nghị áp dụng biện pháp bảo vệ; Điều 18.5.LQ.51. Xem xét, quyết định bảo vệ người tố cáo; Điều 18.5.LQ.52. Quyết định áp dụng biện pháp bảo vệ; Điều 18.5.LQ.53. Trách nhiệm của cơ quan, tổ chức, cá nhân; Điều 18.5.LQ.54. Thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ; Điều 18.5.LQ.55. Hồ sơ áp dụng biện pháp bảo vệ; Điều 18.5.LQ.57. Biện pháp bảo vệ vị trí công tác, việc làm; Điều 18.5.LQ.58. Biện pháp bảo vệ tính mạng, sức khoẻ, tài sản, danh dự, nhân phẩm)
 
-*Nội dung chưa có sẵn*
+Điều 18.5.TT.9.4. Trình tự, thủ tục bảo vệ
 
-**Chỉ mục:** 5
+(Điều 4 Thông tư số 08/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/12/2020, có nội dung được sửa đổi bởi Điều 1 Thông tư số 09/2021/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 01/11/2021)
 
-**Mã phân cấp:** 18005000000000006000002000000000000000000500000000000000000000802735100030000500
+Trình tự, thủ tục bảo vệ được thực hiện theo quy định tại Mục 2 Chương VI Luật Tố cáo.
 
-**ID:** dk_00025090
+Mau so 01 Van ban de nghi ap dung bien phap bao ve viec lam cua nguoi to cao.docx
 
----
+Mau so 02 Van bân de nghi ap dung bien phap bao ve viec lam cua nguoi giai quyet to cao.docx
 
-
-### Điều 18.5.TT.9.4. Trình tự, thủ tục bảo vệ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 18005000000000006000002000000000000000000500000000000000000000802743700080000400
-
-**ID:** dk_00025091
-
----
-
-
-### Điều 18.5.TT.11.6. Văn bản yêu cầu, đề nghị quyết định áp dụng biện pháp bảo vệ
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.47. Người được bảo vệ, phạm vi bảo vệ)
 
 Điều 18.5.TT.11.6. Văn bản yêu cầu, đề nghị quyết định áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-**Mã phân cấp:** 18005000000000006000002000000000000000000500000000000000000000802751201450000600
+ 1. Văn bản đề nghị áp dụng biện pháp bảo vệ của người tố cáo về hành vi tham nhũng, lãng phí thực hiện theo quy định tại khoản 2 Điều 50 Luật Tố cáo.
 
-**ID:** dk_00025092
+ 2. Văn bản yêu cầu, đề nghị của người có thẩm quyền giải quyết tố cáo gửi cơ quan Công an các cấp có thẩm quyền quyết định áp dụng biện pháp bảo vệ bao gồm các nội dung chính sau đây:
 
----
+ a) Ngày, tháng, năm ra văn bản đề nghị, yêu cầu;
 
+ b) Tên cơ quan Công an có thẩm quyền được đề nghị, yêu cầu quyết định áp dụng biện pháp bảo vệ;
 
-### Điều 18.5.LQ.51. Xem xét, quyết định bảo vệ người tố cáo
+ c) Họ tên, chức vụ, cơ quan, đơn vị của người có thẩm quyền giải quyết tố cáo;
 
-Điều 18.5.LQ.51. Xem xét, quyết định bảo vệ người tố cáo
+ d) Căn cứ, lý do đề nghị, yêu cầu áp dụng biện pháp bảo vệ;
 
-**Chỉ mục:** 51
+ d) Ngày, tháng, năm ra quyết định thụ lý tố cáo; thời hạn giải quyết tố cáo;
 
-**Mã phân cấp:** 180050000000000060000020000000000000000005100000000000000000
+ e) Họ tên, địa chỉ, số điện thoại của người được bảo vệ; những nội dung đề nghị, yêu cầu bảo vệ.
 
-**ID:** dk_00025093
+ 3. Khi gửi văn bản đề nghị, yêu cầu, người có thẩm quyền giải quyết tố cáo phải gửi kèm quyết định thụ lý tố cáo, văn bản đề nghị áp dụng biện pháp bảo vệ của người tố cáo về hành vi tham nhũng, lãng phí theo quy định tại khoản 2 Điều 50 Luật Tố cáo (bản chính) và các tài liệu khác có liên quan đến việc áp dụng biện pháp bảo vệ (nếu có).Điều 18.5.LQ.51. Xem xét, quyết định bảo vệ người tố cáo
 
----
+(Điều 51 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+1. Khi nhận được đề nghị áp dụng biện pháp bảo vệ và xét thấy đề nghị bảo vệ là có căn cứ, có tính xác thực hoặc trong quá trình giải quyết tố cáo, người giải quyết tố cáo thấy có căn cứ quy định tại khoản 3 Điều 47 của Luật này thì người giải quyết tố cáo kịp thời quyết định áp dụng biện pháp bảo vệ theo thẩm quyền hoặc đề nghị, yêu cầu cơ quan có thẩm quyền áp dụng biện pháp bảo vệ cần thiết.
 
-### Điều 18.5.LQ.52. Quyết định áp dụng biện pháp bảo vệ
+2. Khi nhận được yêu cầu hoặc đề nghị của người giải quyết tố cáo, cơ quan có thẩm quyền xem xét, quyết định việc áp dụng biện pháp bảo vệ.
+
+3. Trường hợp đề nghị của người tố cáo không có căn cứ hoặc xét thấy không cần thiết áp dụng biện pháp bảo vệ, cơ quan có thẩm quyền áp dụng biện pháp bảo vệ phải thông báo bằng văn bản và nêu rõ lý do cho người tố cáo hoặc gửi thông báo cho người giải quyết tố cáo để giải thích rõ lý do cho người tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.47. Người được bảo vệ, phạm vi bảo vệ; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ)
 
 Điều 18.5.LQ.52. Quyết định áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000060000020000000000000000005200000000000000000
+1. Cơ quan có thẩm quyền áp dụng biện pháp bảo vệ ra quyết định áp dụng biện pháp bảo vệ.
 
-**ID:** dk_00025094
+2. Quyết định áp dụng biện pháp bảo vệ bao gồm các nội dung chính sau đây:
 
----
+a) Ngày, tháng, năm ra quyết định;
 
+b) Căn cứ ra quyết định;
 
-### Điều 18.5.LQ.53. Trách nhiệm của cơ quan, tổ chức, cá nhân
+c) Họ tên, địa chỉ của người được bảo vệ;
+
+d) Nội dung, biện pháp bảo vệ; trách nhiệm của cơ quan, tổ chức, cá nhân thực hiện biện pháp bảo vệ;
+
+đ) Thời điểm bắt đầu thực hiện biện pháp bảo vệ.
+
+3. Quyết định áp dụng biện pháp bảo vệ được gửi cho người được bảo vệ, người giải quyết tố cáo và cơ quan, tổ chức, cá nhân khác có liên quan.
+
+4. Sau khi có quyết định áp dụng biện pháp bảo vệ, cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện biện pháp bảo vệ phải tổ chức thực hiện ngay việc bảo vệ; trường hợp cần thiết, phối hợp với cơ quan, tổ chức, cá nhân có liên quan để thực hiện việc bảo vệ.
+
+5. Thời gian bảo vệ được tính từ thời điểm bắt đầu thực hiện biện pháp bảo vệ cho đến khi việc áp dụng biện pháp bảo vệ được chấm dứt theo quy định tại khoản 2 Điều 54 của Luật này.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.54. Thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ)
 
 Điều 18.5.LQ.53. Trách nhiệm của cơ quan, tổ chức, cá nhân
 
-**Chỉ mục:** 53
+(Điều 53 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000060000020000000000000000005300000000000000000
+1. Cơ quan quyết định áp dụng biện pháp bảo vệ có trách nhiệm sau đây:
 
-**ID:** dk_00025095
+a) Chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan tổ chức việc áp dụng các biện pháp bảo vệ; chịu trách nhiệm về quyết định của mình;
 
----
+b) Lập, quản lý, lưu trữ và khai thác hồ sơ áp dụng biện pháp bảo vệ theo quy định của pháp luật;
 
+c) Theo dõi, giải quyết những vướng mắc phát sinh; gửi báo cáo đến cơ quan có thẩm quyền khi có yêu cầu.
 
-### Điều 18.5.NĐ.4.7. Trách nhiệm của người giải quyết tố cáo khi nhận được văn bản đề nghị áp dụng các biện pháp bảo vệ
+2. Cơ quan, tổ chức, cá nhân có liên quan trong việc áp dụng biện pháp bảo vệ có trách nhiệm sau đây:
+
+a) Thực hiện kịp thời, đầy đủ yêu cầu, đề nghị của cơ quan quyết định áp dụng biện pháp bảo vệ. Trường hợp không thực hiện được yêu cầu, đề nghị đó thì phải báo cáo hoặc thông báo ngay bằng văn bản và nêu rõ lý do đến cơ quan quyết định áp dụng biện pháp bảo vệ;
+
+b) Báo cáo hoặc thông báo bằng văn bản về kết quả thực hiện việc bảo vệ cho cơ quan quyết định áp dụng biện pháp bảo vệ.
+
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ)
 
 Điều 18.5.NĐ.4.7. Trách nhiệm của người giải quyết tố cáo khi nhận được văn bản đề nghị áp dụng các biện pháp bảo vệ
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 18005000000000006000002000000000000000000530000000000000000000402688300310000700
+1. Khi nhận được văn bản đề nghị áp dụng biện pháp bảo vệ (gọi tắt là đề nghị bảo vệ) của người tố cáo thì người giải quyết tố cáo có trách nhiệm xem xét, đánh giá căn cứ, tính xác thực của đề nghị bảo vệ và quyết định áp dụng biện pháp bảo vệ theo thẩm quyền quy định tại Điều 52 Luật Tố cáo. Trường hợp không thuộc thẩm quyền thì đề nghị hoặc yêu cầu cơ quan có thẩm quyền áp dụng biện pháp bảo vệ.
 
-**ID:** dk_00025096
-
----
-
-
-### Điều 18.5.TT.7.4. Thẩm quyền áp dụng biện pháp bảo vệ
+2. Trường hợp khẩn cấp, người giải quyết tố cáo đề nghị hoặc yêu cầu cơ quan có thẩm quyền áp dụng biện pháp bảo vệ ngay lập tức, sau đó gửi văn bản đến cơ quan có thẩm quyền áp dụng biện pháp bảo vệ.
 
 Điều 18.5.TT.7.4. Thẩm quyền áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 03/2020/TT-BNV, có hiệu lực thi hành kể từ ngày 05/09/2020)
 
-**Mã phân cấp:** 1800500000000000600000200000000000000000053000000000000000000040268830031000070000802735100030000400
+1. Người có thẩm quyền giải quyết tố cáo áp dụng biện pháp bảo vệ vị trí công tác của người tố cáo là cán bộ, công chức, viên chức thuộc quyền quản lý.
 
-**ID:** dk_00025097
+2. Cơ quan, tổ chức, đơn vị, cá nhân được người có thẩm quyền giải quyết tố cáo yêu cầu hoặc đề nghị thực hiện biện pháp bảo vệ vị trí công tác của người tố cáo là cán bộ, công chức, viên chức trong trường hợp người tố cáo đó không thuộc thẩm quyền quản lý của người có thẩm quyền giải quyết tố cáo.
 
----
+3. Tổ chức, đơn vị làm công tác tổ chức của cơ quan, tổ chức, đơn vị thực hiện biện pháp bảo vệ vị trí công tác có trách nhiệm chủ trì, phối hợp với tổ chức công đoàn, ban thanh tra nhân dân và các tổ chức khác cùng cấp trong việc thực hiện bảo vệ vị trí công tác của người tố cáo là cán bộ, công chức, viên chức.
 
-
-### Điều 18.5.NĐ.4.8. Trách nhiệm của cơ quan được đề nghị hoặc yêu cầu áp dụng biện pháp bảo vệ
+(Điều này có nội dung liên quan đến Điều 18.5.NĐ.4.8. Trách nhiệm của cơ quan được đề nghị hoặc yêu cầu áp dụng biện pháp bảo vệ)
 
 Điều 18.5.NĐ.4.8. Trách nhiệm của cơ quan được đề nghị hoặc yêu cầu áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Mã phân cấp:** 18005000000000006000002000000000000000000530000000000000000000402688300310000800
+Khi nhận được đề nghị hoặc yêu cầu của người giải quyết tố cáo thì cơ quan có thẩm quyền căn cứ vào chức năng, nhiệm vụ của mình xem xét, quyết định áp dụng biện pháp bảo vệ theo quy định tại Điều 52 Luật Tố cáo và thông báo bằng văn bản cho người giải quyết tố cáo, người được bảo vệ.
 
-**ID:** dk_00025098
-
----
-
-
-### Điều 18.5.TT.9.7. Trách nhiệm của người sử dụng người lao động
+(Điều này có nội dung liên quan đến Điều 18.5.TT.7.4. Thẩm quyền áp dụng biện pháp bảo vệ)
 
 Điều 18.5.TT.9.7. Trách nhiệm của người sử dụng người lao động
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 08/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/12/2020)
 
-**Mã phân cấp:** 1800500000000000600000200000000000000000053000000000000000000040268830031000080000802743700080000700
+1. Không được phân biệt đối xử về việc làm đối với người được bảo vệ.
 
-**ID:** dk_00025099
+2. Không được trả thù, trù dập, đe dọa làm ảnh hưởng đến việc làm, các khoản thu nhập và lợi ích hợp pháp khác từ việc làm của người được bảo vệ.
 
----
+3. Thực hiện kịp thời, đầy đủ các biện pháp bảo vệ việc làm cho người được bảo vệ theo yêu cầu, đề nghị của cơ quan quyết định áp dụng biện pháp bảo vệ.
 
+4. Báo cáo cơ quan quyết định áp dụng biện pháp bảo vệ việc làm và thông báo cho tổ chức đại diện người lao động tại cơ sở về kết quả thực hiện biện pháp bảo vệ.
 
-### Điều 18.5.TT.9.8. Trách nhiệm của tổ chức đại diện người lao động
+5. Cơ quan chủ quản của doanh nghiệp, cơ quan, đơn vị, tổ chức, cơ sở sản xuất, kinh doanh; người sử dụng lao động chính đối với trường hợp người được bảo vệ làm việc tại chi nhánh, văn phòng đại diện, đơn vị trực thuộc có trách nhiệm phối hợp, cung cấp thông tin, tài liệu, hồ sơ khi có yêu cầu của cơ quan có thẩm quyền bảo vệ việc làm trong quá trình tiếp nhận, xác minh và áp dụng các biện pháp bảo vệ việc làm.
 
 Điều 18.5.TT.9.8. Trách nhiệm của tổ chức đại diện người lao động
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 08/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/12/2020, có nội dung được sửa đổi bởi Điều 1 Thông tư số 09/2021/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 01/11/2021)
 
-**Mã phân cấp:** 1800500000000000600000200000000000000000053000000000000000000040268830031000080000802743700080000800
+1. Tổ chức đại diện người lao động tại cơ sở
 
-**ID:** dk_00025100
+a) Giám sát người sử dụng lao động trong việc chấp hành các biện pháp bảo vệ việc làm cho người được bảo vệ theo yêu cầu, đề nghị của cơ quan quyết định áp dụng biện pháp bảo vệ.
 
----
+b) Trường hợp người sử dụng lao động không chấp hành biện pháp bảo vệ việc làm cho người được bảo vệ thì Ban chấp hành công đoàn cơ sở hoặc Ban lãnh đạo của tổ chức của người lao động tại doanh nghiệp mà người lao động đó là thành viên phải có ý kiến bằng văn bản với người sử dụng lao động, đồng thời báo ngay sự việc với cơ quan ra quyết định áp dụng biện pháp bảo vệ và báo cáo tổ chức đại diện cấp trên trực tiếp của người lao động (nếu có) để kịp thời xử lý và có biện pháp bảo vệ việc làm cho người được bảo vệ.
 
+2. Liên đoàn lao động cấp huyện, cấp tỉnh
 
-### Điều 18.5.TT.9.9. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+a) Chỉ đạo Ban chấp hành công đoàn cơ sở giám sát người sử dụng lao động trong việc chấp hành các biện pháp bảo vệ việc làm cho người được bảo vệ.
+
+b) Giám sát cơ quan ra quyết định áp dụng biện pháp bảo vệ cùng cấp trong việc chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan tổ chức việc áp dụng các biện pháp bảo vệ việc làm cho người được bảo vệ.
+
+c) Phối hợp với Ủy ban nhân dân cùng cấp yêu cầu người sử dụng lao động chấp hành các biện pháp bảo vệ việc làm cho người được bảo vệ theo quyết định của cơ quan có thẩm quyền.
 
 Điều 18.5.TT.9.9. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 08/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/12/2020)
 
-**Mã phân cấp:** 1800500000000000600000200000000000000000053000000000000000000040268830031000080000802743700080000900
-
-**ID:** dk_00025101
-
----
-
-
-### Điều 18.5.LQ.54. Thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ
+Tổ chức chính trị, chính trị - xã hội và các cơ quan, tổ chức, cá nhân có liên quan trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan có thẩm quyền áp dụng biện pháp bảo vệ để cung cấp thông tin, tài liệu và thực hiện việc bảo vệ việc làm của người được bảo vệ.
 
 Điều 18.5.LQ.54. Thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 54
+(Điều 54 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000060000020000000000000000005400000000000000000
+1. Cơ quan đã ra quyết định áp dụng biện pháp bảo vệ có thể thay đổi, bổ sung việc áp dụng biện pháp bảo vệ nếu xét thấy cần thiết hoặc trên cơ sở đề nghị bằng văn bản của người được bảo vệ.
 
-**ID:** dk_00025102
+2. Việc áp dụng biện pháp bảo vệ chấm dứt trong các trường hợp sau đây:
 
----
+a) Người giải quyết tố cáo đã ra kết luận nội dung tố cáo hoặc quyết định đình chỉ việc giải quyết tố cáo;
 
+b) Cơ quan đã quyết định áp dụng biện pháp bảo vệ quyết định chấm dứt áp dụng biện pháp bảo vệ khi xét thấy căn cứ áp dụng biện pháp bảo vệ không còn hoặc theo đề nghị bằng văn bản của người được bảo vệ.
 
-### Điều 18.5.LQ.55. Hồ sơ áp dụng biện pháp bảo vệ
+3. Quyết định thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ được gửi cho người được bảo vệ, người giải quyết tố cáo và cơ quan, tổ chức, cá nhân khác có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.52. Quyết định áp dụng biện pháp bảo vệ; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ)
 
 Điều 18.5.LQ.55. Hồ sơ áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 55
+(Điều 55 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000060000020000000000000000005500000000000000000
+1. Việc bảo vệ người tố cáo phải được lập thành hồ sơ.
 
-**ID:** dk_00025103
+2. Căn cứ vào vụ việc cụ thể, hồ sơ áp dụng biện pháp bảo vệ bao gồm:
 
----
+a) Văn bản đề nghị áp dụng biện pháp bảo vệ của người tố cáo; yêu cầu hoặc đề nghị áp dụng biện pháp bảo vệ của người giải quyết tố cáo;
 
+b) Kết quả xác minh thông tin về đề nghị áp dụng biện pháp bảo vệ;
 
-### Điều 18.5.TT.11.9. Hồ sơ áp dụng biện pháp bảo vệ
+c) Quyết định áp dụng biện pháp bảo vệ;
 
-*Nội dung chưa có sẵn*
+d) Văn bản đề nghị thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ;
 
-**Chỉ mục:** 9
+đ) Quyết định thay đổi, bổ sung biện pháp bảo vệ;
 
-**Mã phân cấp:** 18005000000000006000002000000000000000000550000000000000000000802751201450000900
+e) Văn bản yêu cầu, đề nghị cơ quan, tổ chức, cá nhân có liên quan phối hợp áp dụng biện pháp bảo vệ;
 
-**ID:** dk_00025104
+g) Báo cáo kết quả thực hiện biện pháp bảo vệ;
 
----
+h) Quyết định chấm dứt việc áp dụng biện pháp bảo vệ;
 
+i) Tài liệu khác có liên quan đến việc áp dụng biện pháp bảo vệ.
 
-### Điều 18.5.LQ.56. Biện pháp bảo vệ bí mật thông tin
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ)
 
-*Nội dung chưa có sẵn*
+Điều 18.5.TT.11.9. Hồ sơ áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 56
+(Điều 9 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-**Mã phân cấp:** 180050000000000060000030000000000000000005600000000000000000
+ Hồ sơ áp dụng biện pháp bảo vệ thực hiện theo quy định tại Điều 55 Luật Tố cáo và quy định về công tác lưu trữ tài liệu hình thành phổ biến trong Công an nhân dân (nhóm hồ sơ về phòng, chống tham nhũng).Mục 3
 
-**ID:** dk_00025106
+CÁC BIỆN PHÁP BẢO VỆ
 
----
+(Mục này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
+Điều 18.5.LQ.56. Biện pháp bảo vệ bí mật thông tin
 
-### Điều 18.5.TT.7.6. Biện pháp bảo vệ
+(Điều 56 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-*Nội dung chưa có sẵn*
+Cơ quan, tổ chức, cá nhân có thẩm quyền khi tiếp nhận, chuyển đơn tố cáo, giải quyết tố cáo căn cứ vào tình hình cụ thể quyết định áp dụng biện pháp sau đây:
 
-**Chỉ mục:** 6
+1. Giữ bí mật họ tên, địa chỉ, bút tích và các thông tin cá nhân khác của người tố cáo trong quá trình khai thác, sử dụng thông tin, tài liệu do người tố cáo cung cấp;
 
-**Mã phân cấp:** 18005000000000006000003000000000000000000560000000000000000000802735100030000600
+2. Lược bỏ họ tên, địa chỉ, bút tích, các thông tin cá nhân khác của người tố cáo ra khỏi đơn tố cáo và các tài liệu, chứng cứ kèm theo để quản lý theo chế độ mật khi giao cơ quan, tổ chức, cá nhân xác minh nội dung tố cáo;
 
-**ID:** dk_00025107
+3. Bố trí thời gian, địa điểm, lựa chọn phương thức làm việc phù hợp để bảo vệ bí mật thông tin cho người tố cáo khi làm việc trực tiếp với người bị tố cáo, cơ quan, tổ chức, cá nhân có liên quan;
 
----
+4. Áp dụng biện pháp khác theo quy định của pháp luật;
 
+5. Đề nghị cơ quan, tổ chức, cá nhân có liên quan áp dụng biện pháp cần thiết để giữ bí mật thông tin của người tố cáo.
 
-### Điều 18.5.LQ.57. Biện pháp bảo vệ vị trí công tác, việc làm
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.12. Làm việc trực tiếp với người bị tố cáo; Điều 18.5.TT.7.6. Biện pháp bảo vệ)
+
+Điều 18.5.TT.7.6. Biện pháp bảo vệ
+
+(Điều 6 Thông tư số 03/2020/TT-BNV, có hiệu lực thi hành kể từ ngày 05/09/2020)
+
+1. Biện pháp bảo vệ vị trí công tác của người tố cáo là cán bộ, công chức, viên chức thực hiện theo quy định tại khoản 1 Điều 57 Luật Tố cáo.
+
+2. Không thực hiện việc điều động, luân chuyển, biệt phái, chuyển đổi vị trí việc làm, phân công công việc khác đối với người tố cáo là cán bộ, công chức, viên chức trong thời gian được bảo vệ, trừ các trường hợp sau:
+
+a) Thực hiện việc định kỳ chuyển đổi vị trí công tác theo quy định tại Chương V Nghị định số 59/2019/NĐ-CP ngày 01 tháng 7 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng;
+
+b) Được sự đồng ý của người tố cáo là cán bộ, công chức, viên chức;
+
+c) Theo yêu cầu bằng văn bản của cơ quan có thẩm quyền giải quyết tố cáo.
+
+3. Không xử lý kỷ luật người tố cáo là cán bộ, công chức, viên chức trong thời gian được bảo vệ, trừ trường hợp người đó có hành vi vi phạm không liên quan đến lĩnh vực tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.56. Biện pháp bảo vệ bí mật thông tin; Điều 18.5.LQ.57. Biện pháp bảo vệ vị trí công tác, việc làm; Điều 18.5.LQ.58. Biện pháp bảo vệ tính mạng, sức khoẻ, tài sản, danh dự, nhân phẩm)
 
 Điều 18.5.LQ.57. Biện pháp bảo vệ vị trí công tác, việc làm
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000060000030000000000000000005700000000000000000
+1. Biện pháp bảo vệ vị trí công tác, việc làm của người được bảo vệ là cán bộ, công chức, viên chức bao gồm:
 
-**ID:** dk_00025108
+a) Tạm đình chỉ, hủy bỏ một phần hoặc toàn bộ quyết định xử lý kỷ luật hoặc quyết định khác xâm phạm quyền và lợi ích hợp pháp của người được bảo vệ;
 
----
+b) Khôi phục vị trí công tác, vị trí việc làm, các khoản thu nhập và lợi ích hợp pháp khác từ việc làm cho người được bảo vệ;
 
+c) Xem xét bố trí công tác khác cho người được bảo vệ nếu có sự đồng ý của họ để tránh bị trù dập, phân biệt đối xử;
 
-### Điều 18.5.TT.7.3. Nội dung bảo vệ vị trí công tác
+d) Xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý theo quy định của pháp luật đối với người có hành vi trả thù, trù dập, đe dọa làm ảnh hưởng đến quyền và lợi ích hợp pháp của người được bảo vệ.
 
-*Nội dung chưa có sẵn*
+2. Biện pháp bảo vệ việc làm của người được bảo vệ là người làm việc theo hợp đồng lao động bao gồm:
 
-**Chỉ mục:** 3
+a) Yêu cầu người sử dụng lao động chấm dứt hành vi vi phạm; khôi phục vị trí việc làm, các khoản thu nhập và lợi ích hợp pháp khác từ việc làm cho người được bảo vệ;
 
-**Mã phân cấp:** 18005000000000006000003000000000000000000570000000000000000000802735100030000300
+b) Xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý hành vi vi phạm theo quy định của pháp luật.
 
-**ID:** dk_00025109
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ; Điều 18.5.TT.7.6. Biện pháp bảo vệ)
 
----
+Điều 18.5.TT.7.3. Nội dung bảo vệ vị trí công tác
 
+(Điều 3 Thông tư số 03/2020/TT-BNV, có hiệu lực thi hành kể từ ngày 05/09/2020)
 
-### Điều 18.5.LQ.58. Biện pháp bảo vệ tính mạng, sức khoẻ, tài sản, danh dự, nhân phẩm
+Bảo vệ vị trí công tác của người tố cáo là cán bộ, công chức, viên chức là việc bảo vệ công việc gắn với chức danh, chức vụ, vị trí việc làm của cán bộ, công chức; công việc hoặc nhiệm vụ gắn với chức danh nghề nghiệp hoặc chức vụ quản lý của viên chức trong quá trình giải quyết tố cáo.
 
 Điều 18.5.LQ.58. Biện pháp bảo vệ tính mạng, sức khoẻ, tài sản, danh dự, nhân phẩm
 
-**Chỉ mục:** 58
+(Điều 58 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 180050000000000060000030000000000000000005800000000000000000
+1. Đưa người được bảo vệ đến nơi an toàn.
 
-**ID:** dk_00025110
+2. Bố trí lực lượng, phương tiện, công cụ để trực tiếp bảo vệ an toàn tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm cho người được bảo vệ tại nơi cần thiết.
 
----
+3. Áp dụng biện pháp cần thiết để ngăn chặn, xử lý hành vi xâm hại hoặc đe dọa xâm hại đến tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ theo quy định của pháp luật.
 
+4. Yêu cầu người có hành vi xâm hại hoặc đe dọa xâm hại đến tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ chấm dứt hành vi vi phạm.
 
-### Điều 18.5.TT.11.10. Biện pháp bảo vệ
+5. Biện pháp khác theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ; Điều 18.5.TT.7.6. Biện pháp bảo vệ)
 
-**Chỉ mục:** 10
+Điều 18.5.TT.11.10. Biện pháp bảo vệ
 
-**Mã phân cấp:** 18005000000000006000003000000000000000000580000000000000000000802751201450001000
+(Điều 10 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-**ID:** dk_00025111
+ Căn cứ tình hình thực tế, cơ quan Công an cấp có thẩm quyền có thể áp dụng một hoặc một số biện pháp để bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người được bảo vệ theo quy định tại Điều 58 Luật Tố cáo.Chương VII
 
----
+TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG VIỆC QUẢN LÝ CÔNG TÁC GIẢI QUYẾT TỐ CÁO
 
-
-### Điều 18.5.LQ.59. Trách nhiệm của cơ quan quản lý nhà nước về công tác giải quyết tố cáo
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
 Điều 18.5.LQ.59. Trách nhiệm của cơ quan quản lý nhà nước về công tác giải quyết tố cáo
 
-**Chỉ mục:** 59
+(Điều 59 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000700005900000000000000000
+1. Chính phủ thống nhất quản lý nhà nước về công tác giải quyết tố cáo trong phạm vi cả nước; trực tiếp quản lý công tác giải quyết tố cáo của các cơ quan thuộc hệ thống hành chính nhà nước.
 
-**ID:** dk_00025113
+2. Thanh tra Chính phủ là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về công tác giải quyết tố cáo trong phạm vi thẩm quyền của Chính phủ.
 
----
+3. Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các cấp thực hiện quản lý nhà nước về công tác giải quyết tố cáo trong phạm vi nhiệm vụ, quyền hạn của mình.
 
-
-### Điều 18.5.NĐ.2.16. Quản lý công tác giải quyết tố cáo trong Công an nhân dân
+(Điều này có nội dung liên quan đến Chương IV QUẢN LÝ NHÀ NƯỚC VỀ CÔNG TÁC GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO TRONG TÒA ÁN NHÂN DÂN của Thông tư 01/2020/TT-TANDTC Quy định về giải quyết khiếu nại, tố cáo trong Tòa án nhân dân ban hành ngày 18/06/2020; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.2.16. Quản lý công tác giải quyết tố cáo trong Công an nhân dân
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000070000590000000000000000000402683900220001600
+1. Bộ trưởng Bộ Công an thực hiện quản lý nhà nước về công tác giải quyết tố cáo trong phạm vi quản lý của mình.
 
-**ID:** dk_00025114
+Chánh Thanh tra Bộ Công an giúp Bộ trưởng Bộ Công an thống nhất quản lý nhà nước về công tác giải quyết tố cáo đối với cơ quan, đơn vị, cán bộ, chiến sĩ trong toàn lực lượng Công an nhân dân; theo dõi kết quả giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thuộc phạm vi quản lý của Bộ Công an.
 
----
-
-
-### Điều 18.5.TT.8.18. Quản lý công tác giải quyết tố cáo
+2. Thủ trưởng Công an các cấp chịu trách nhiệm trước Thủ trưởng cấp trên trực tiếp về việc quản lý công tác giải quyết tố cáo trong phạm vi quản lý của mình.
 
 Điều 18.5.TT.8.18. Quản lý công tác giải quyết tố cáo
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Mã phân cấp:** 18005000000000007000059000000000000000000040268390022000160000802736400850001800
+ 1. Bộ trưởng Bộ Công an thực hiện quản lý nhà nước về công tác giải quyết tố cáo trong phạm vi quản lý của mình theo quy định tại Điều 59 của Luật Tố cáo.
 
-**ID:** dk_00025115
+ 2. Thủ trưởng Công an các cấp chịu trách nhiệm trước Thủ trưởng Công an cấp trên trực tiếp về việc quản lý công tác giải quyết tố cáo trong phạm vi quản lý của mình.
 
----
+ 3. Thanh tra Bộ Công an giúp Bộ trưởng thống nhất quản lý nhà nước về công tác giải quyết tố cáo đối với cơ quan, đơn vị, cán bộ, chiến sĩ trong toàn lực lượng Công an nhân dân; theo dõi kết quả giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự thuộc phạm vi quản lý của Bộ Công an; theo dõi kết quả giải quyết tố cáo thuộc lĩnh vực tố tụng hình sự, quản lý, thi hành tạm giữ, tạm giam và thi hành án hình sự trong toàn lực lượng Công an nhân dân.
 
+ 4. Thanh tra Công an các cấp giúp Thủ trưởng cùng cấp thống nhất quản lý về công tác giải quyết tố cáo đối với cơ quan, đơn vị, cán bộ, chiến sĩ của đơn vị, địa phương mình; theo dõi kết quả giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự, kết quả giải quyết tố cáo trong hoạt động tố tụng hình sự, quản lý, thi hành tạm giữ, tạm giam và thi hành án hình sự thuộc thẩm quyền của Thủ trưởng cùng cấp; khi có yêu cầu và theo định kỳ hàng tháng, quý, 6 tháng, năm có trách nhiệm giúp Thủ trưởng cùng cấp báo cáo kết quả giải quyết tố cáo lên Thủ trưởng cấp trên trực tiếp (qua Cơ quan Thanh tra cùng cấp với Thủ trưởng cấp trên trực tiếp).
 
-### Điều 18.5.NĐ.2.18. Trách nhiệm của Thanh tra Chính phủ về công tác giải quyết tố cáo trong Công an nhân dân
+ 5. Cục Tổ chức cán bộ Bộ Công an và Cơ quan Tổ chức cán bộ Công an các đơn vị, địa phương giúp Thủ trưởng cùng cấp thống nhất quản lý về công tác giải quyết tố cáo liên quan đến tiêu chuẩn cán bộ thuộc thẩm quyền của Thủ trưởng cùng cấp. Hàng tháng, quý, 6 tháng, năm, Cục Tổ chức cán bộ Bộ Công an có trách nhiệm báo cáo kết quả giải quyết tố cáo lên Bộ trưởng và thông báo cho Thanh tra Bộ Công an biết, theo dõi; Cơ quan Tổ chức cán bộ Công an các đơn vị, địa phương có trách nhiệm giúp Thủ trưởng cùng cấp báo cáo kết quả giải quyết tố cáo lên Thủ trưởng cấp trên trực tiếp (qua Cơ quan Thanh tra cùng cấp với Thủ trưởng cấp trên trực tiếp).
 
-Điều 18.5.NĐ.2.18. Trách nhiệm của Thanh tra Chính phủ về công tác giải quyết tố cáo trong Công an nhân dân
+ 6. Cơ quan An ninh điều tra, Cơ quan Cảnh sát điều tra, Cơ quan quản lý tạm giữ, tạm giam, Cơ quan Thi hành án hình sự các cấp trong Công an nhân dân giúp Thủ trưởng cùng cấp thống nhất quản lý về công tác giải quyết tố cáo thuộc lĩnh vực của mình. Hàng tháng, quý, 6 tháng, năm, Cơ quan An ninh điều tra, Cơ quan Cảnh sát điều tra, Cơ quan quản lý tạm giữ, tạm giam, Cơ quan quản lý thi hành án hình sự Bộ Công an có trách nhiệm báo cáo kết quả giải quyết tố cáo lên Bộ trưởng và thông báo cho Thanh tra Bộ Công an biết, theo dõi; Cơ quan An ninh điều tra, Cơ quan Cảnh sát điều tra, Cơ quan quản lý tạm giữ, tạm giam, Cơ quan thi hành án hình sự Công an cấp tỉnh, Cơ quan Cảnh sát điều tra, Cơ quan thi hành án hình sự Công an cấp huyện có trách nhiệm giúp Thủ trưởng cùng cấp báo cáo kết quả giải quyết tố cáo lên Thủ trưởng cấp trên trực tiếp (qua Cơ quan Thanh tra cùng cấp với Thủ trưởng cấp trên trực tiếp).Điều 18.5.NĐ.2.18. Trách nhiệm của Thanh tra Chính phủ về công tác giải quyết tố cáo trong Công an nhân dân
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000070000590000000000000000000402683900220001800
+1. Thanh tra Chính phủ có trách nhiệm thanh tra việc thực hiện chính sách, pháp luật và nhiệm vụ, quyền hạn của Bộ Công an về công tác giải quyết tố cáo trong Công an nhân dân.
 
-**ID:** dk_00025116
-
----
-
-
-### Điều 18.5.NĐ.3.16. Quản lý công tác giải quyết tố cáo
+2. Tổng thanh tra Chính phủ có trách nhiệm xem xét việc giải quyết tố cáo mà Bộ trưởng Bộ Công an đã giải quyết nhưng có dấu hiệu vi phạm pháp luật; trường hợp có căn cứ cho rằng việc giải quyết tố cáo có vi phạm pháp luật thì kiến nghị Thủ tướng Chính phủ xem xét, giải quyết lại.
 
 Điều 18.5.NĐ.3.16. Quản lý công tác giải quyết tố cáo
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 180050000000000070000590000000000000000000402686200280001600
+1. Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về công tác giải quyết tố cáo trong phạm vi quản lý của mình.
 
-**ID:** dk_00025117
+2. Người đứng đầu về hành chính quân sự các cấp có thẩm quyền giải quyết tố cáo chịu trách nhiệm quản lý công tác giải quyết tố cáo trong phạm vi cơ quan, đơn vị mình quản lý.
 
----
+3. Nội dung công tác quản lý giải quyết tố cáo:
 
+a) Ban hành và hướng dẫn thực hiện các văn bản quy phạm pháp luật về tố cáo và giải quyết tố cáo;
 
-### Điều 18.5.NĐ.3.18. Trách nhiệm của Thanh tra Chính phủ về công tác giải quyết tố cáo trong Quân đội nhân dân
+b) Tập huấn, bồi dưỡng nghiệp vụ cho cán bộ làm công tác giải quyết tố cáo;
+
+c) Tuyên truyền, phổ biến, giáo dục pháp luật về tố cáo;
+
+d) Thực hiện việc giải quyết tố cáo theo thẩm quyền;
+
+đ) Thanh tra, kiểm tra việc thực hiện các quy định của pháp luật về tố cáo đối với người đứng đầu về hành chính quân sự của cơ quan, đơn vị.
 
 Điều 18.5.NĐ.3.18. Trách nhiệm của Thanh tra Chính phủ về công tác giải quyết tố cáo trong Quân đội nhân dân
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 180050000000000070000590000000000000000000402686200280001800
+1. Thanh tra Chính phủ có trách nhiệm thanh tra việc thực hiện chính sách, pháp luật và nhiệm vụ, quyền hạn của Bộ Quốc phòng về công tác giải quyết tố cáo trong Quân đội nhân dân.
 
-**ID:** dk_00025118
-
----
-
-
-### Điều 18.5.LQ.60. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân, Kiểm toán nhà nước, cơ quan khác của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội
+2. Tổng Thanh tra Chính phủ có trách nhiệm xem xét việc giải quyết tố cáo mà Bộ trưởng Bộ Quốc phòng đã giải quyết nhưng có dấu hiệu vi phạm pháp luật; trường hợp có căn cứ cho rằng việc giải quyết có vi phạm pháp luật thì kiến nghị Thủ tướng Chính phủ xem xét, giải quyết lại.
 
 Điều 18.5.LQ.60. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân, Kiểm toán nhà nước, cơ quan khác của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000700006000000000000000000
+1. Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, cơ quan khác của Nhà nước, cơ quan của tổ chức chính trị, tổ chức chính trị - xã hội ở trung ương, trong phạm vi nhiệm vụ, quyền hạn của mình, quản lý công tác giải quyết tố cáo; hằng năm gửi báo cáo về công tác giải quyết tố cáo trong phạm vi quản lý của cơ quan, tổ chức mình đến Chính phủ để tổng hợp báo cáo Quốc hội.
 
-**ID:** dk_00025119
+2. Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, cấp huyện, cơ quan khác của Nhà nước, cơ quan của tổ chức chính trị, tổ chức chính trị - xã hội ở địa phương, trong phạm vi nhiệm vụ, quyền hạn của mình, quản lý công tác giải quyết tố cáo; hằng năm gửi báo cáo về công tác giải quyết tố cáo trong phạm vi quản lý của cơ quan, tổ chức mình đến Ủy ban nhân dân cùng cấp để tổng hợp báo cáo Hội đồng nhân dân.
 
----
+3. Căn cứ vào Luật này, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, cơ quan khác của Nhà nước không thuộc hệ thống hành chính nhà nước, cơ quan có thẩm quyền của tổ chức chính trị, tổ chức chính trị - xã hội hướng dẫn việc thực hiện pháp luật về tố cáo và giải quyết tố cáo trong phạm vi cơ quan, tổ chức mình phù hợp với đặc thù tổ chức, hoạt động của cơ quan, tổ chức mình.
 
-
-### Điều 18.5.LQ.61. Trách nhiệm thông tin, báo cáo trong công tác giải quyết tố cáo
+(Điều này có nội dung liên quan đến Chương III GIẢI QUYẾT TỐ CÁO TRONG TÒA ÁN NHÂN DÂN của Thông tư 01/2020/TT-TANDTC Quy định về giải quyết khiếu nại, tố cáo trong Tòa án nhân dân ban hành ngày 18/06/2020; Điều 35.3.LQ.13. Xem xét báo cáo; Điều 35.3.LQ.30. Giám sát việc giải quyết khiếu nại, tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.LQ.61. Trách nhiệm thông tin, báo cáo trong công tác giải quyết tố cáo
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000700006100000000000000000
+1. Hằng năm, Chính phủ báo cáo Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch nước và gửi báo cáo đến Ủy ban trung ương Mặt trận Tổ quốc Việt Nam về công tác giải quyết tố cáo.
 
-**ID:** dk_00025120
+2. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh báo cáo Chính phủ về công tác giải quyết tố cáo trong phạm vi quản lý của cơ quan mình theo định kỳ hoặc theo yêu cầu của Chính phủ.
 
----
+3. Hằng năm, Ủy ban nhân dân báo cáo Hội đồng nhân dân cùng cấp, cơ quan cấp trên trực tiếp và thông báo đến Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp về công tác giải quyết tố cáo trong phạm vi địa phương và lĩnh vực thuộc phạm vi quản lý của mình.
 
-
-### Điều 18.5.NĐ.2.17. Báo cáo công tác giải quyết tố cáo
+(Điều này có nội dung liên quan đến Điều 35.3.LQ.13. Xem xét báo cáo; Điều 35.3.LQ.30. Giám sát việc giải quyết khiếu nại, tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.2.17. Báo cáo công tác giải quyết tố cáo
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**Mã phân cấp:** 180050000000000070000610000000000000000000402683900220001700
+1. Bộ trưởng Bộ Công an báo cáo Chính phủ qua Thanh tra Chính phủ về công tác giải quyết tố cáo trong phạm vi quản lý của mình theo định kỳ hoặc theo yêu cầu của Chính phủ.
 
-**ID:** dk_00025121
-
----
-
-
-### Điều 18.5.TT.8.19. Báo cáo công tác giải quyết tố cáo
+2. Thủ trưởng Công an các cấp báo cáo Thủ trưởng cấp trên trực tiếp về công tác giải quyết tố cáo trong phạm vi quản lý của mình theo định kỳ hoặc theo yêu cầu.
 
 Điều 18.5.TT.8.19. Báo cáo công tác giải quyết tố cáo
 
-**Chỉ mục:** 19
+(Điều 19 Thông tư số 85/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 19/09/2020)
 
-**Mã phân cấp:** 18005000000000007000061000000000000000000040268390022000170000802736400850001900
+ 1. Báo cáo về tố cáo và giải quyết tố cáo phải được tập hợp vào nội dung báo cáo tình hình kết quả công tác thanh tra Công an nhân dân theo tháng, quý, 6 tháng, năm gửi Thủ trưởng cơ quan, đơn vị Công an có thẩm quyền. Chế độ báo cáo, thời hạn gửi báo cáo thực hiện theo quy định về chế độ báo cáo trong Công an nhân dân.
 
-**ID:** dk_00025122
+ 2. Báo cáo vụ việc phải gửi kịp thời theo yêu cầu của Thủ trưởng Công an cấp có thẩm quyền và quy định về chế độ báo cáo trong Công an nhân dân.Điều 18.5.NĐ.3.19. Báo cáo công tác giải quyết tố cáo
 
----
+(Điều 19 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
+1. Bộ trưởng Bộ Quốc phòng báo cáo Chính phủ về công tác giải quyết tố cáo trong Quân đội nhân dân theo định kỳ quý 1, 2, 3, 4 và 6 tháng, 9 tháng, năm hoặc yêu cầu của Chính phủ.
 
-### Điều 18.5.NĐ.3.19. Báo cáo công tác giải quyết tố cáo
+2. Người đứng đầu về hành chính quân sự của cơ quan, đơn vị các cấp có trách nhiệm báo cáo theo định kỳ quý 1, 2, 3, 4 và 6 tháng, 9 tháng, năm hoặc yêu cầu của cấp trên.
 
-Điều 18.5.NĐ.3.19. Báo cáo công tác giải quyết tố cáo
+Chương VIII
 
-**Chỉ mục:** 19
+KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
 
-**Mã phân cấp:** 180050000000000070000610000000000000000000402686200280001900
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
-**ID:** dk_00025123
+Điều 18.5.LQ.62. Khen thưởng
 
----
+(Điều 62 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+Người tố cáo trung thực, tích cực cộng tác với cơ quan, tổ chức, cá nhân có thẩm quyền trong việc phát hiện, ngăn chặn và xử lý hành vi vi phạm pháp luật thì được khen thưởng theo quy định của pháp luật.
 
-### Điều 18.5.LQ.62. Khen thưởng
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
-*Nội dung chưa có sẵn*
+Điều 18.5.TT.1.16. Khen thưởng
 
-**Chỉ mục:** 62
+(Điều 16 Thông tư số 40/2013/TT-BGDĐT, có hiệu lực thi hành kể từ ngày 10/02/2014)
 
-**Mã phân cấp:** 1800500000000000800006200000000000000000
-
-**ID:** dk_00025125
-
----
-
-
-### Điều 18.5.TT.1.16. Khen thưởng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 180050000000000080000620000000000000000000802494400401001600
-
-**ID:** dk_00025126
-
----
-
-
-### Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo
+Tổ chức, đơn vị, cá nhân thực hiện tốt quy định về giải quyết khiếu nại, tố cáo hoặc có thành tích trong việc giải quyết khiếu nại, tố cáo thì được khen thưởng theo quy định của pháp luật.
 
 Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo
 
-**Chỉ mục:** 63
+(Điều 63 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000800006300000000000000000
+Người giải quyết tố cáo có hành vi quy định tại Điều 8 của Luật này hoặc vi phạm các quy định khác của pháp luật trong việc giải quyết tố cáo thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường, bồi hoàn theo quy định của pháp luật.
 
-**ID:** dk_00025127
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.166. Tội xâm phạm quyền khiếu nại, tố cáo; Điều 18.5.LQ.8. Các hành vi bị nghiêm cấm trong tố cáo và giải quyết tố cáo; Điều 18.5.LQ.64. Xử lý hành vi vi phạm của người có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm bị tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám; Điều 18.5.NĐ.4.21. Nguyên tắc xử lý kỷ luật đối với cán bộ, công chức, viên chức có hành vi vi phạm pháp luật tố cáo; Điều 18.5.NĐ.4.22. Xử lý kỷ luật đối với người có thẩm quyền giải quyết tố cáo; Điều 18.5.NĐ.4.23. Xử lý kỷ luật đối với người tố cáo là cán bộ, công chức, viên chức)
 
----
+Điều 18.5.TT.1.17. Xử lý vi phạm
 
+(Điều 17 Thông tư số 40/2013/TT-BGDĐT, có hiệu lực thi hành kể từ ngày 10/02/2014)
 
-### Điều 18.5.TT.1.17. Xử lý vi phạm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 180050000000000080000630000000000000000000802494400401001700
-
-**ID:** dk_00025128
-
----
-
-
-### Điều 18.5.LQ.64. Xử lý hành vi vi phạm của người có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm bị tố cáo
+Người có trách nhiệm giải quyết khiếu nại, giải quyết tố cáo mà không giải quyết, thiếu trách nhiệm trong việc giải quyết hoặc cố tình giải quyết trái pháp luật phải bị xử lý nghiêm minh, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
 Điều 18.5.LQ.64. Xử lý hành vi vi phạm của người có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm bị tố cáo
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000800006400000000000000000
+Người có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm bị tố cáo nếu không chấp hành thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**ID:** dk_00025129
+Người đứng đầu cơ quan, tổ chức có thẩm quyền mà không áp dụng biện pháp cần thiết để xử lý kịp thời đối với người giải quyết tố cáo có hành vi vi phạm quy định tại Điều 63 của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
----
-
-
-### Điều 18.5.LQ.65. Xử lý hành vi vi phạm của người tố cáo và những người khác có liên quan
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.LQ.65. Xử lý hành vi vi phạm của người tố cáo và những người khác có liên quan
 
-**Chỉ mục:** 65
+(Điều 65 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000800006500000000000000000
+Người tố cáo và những người khác có liên quan có hành vi quy định tại Điều 8 của Luật này hoặc vi phạm các quy định khác của pháp luật về tố cáo và giải quyết tố cáo thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**ID:** dk_00025130
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.8. Các hành vi bị nghiêm cấm trong tố cáo và giải quyết tố cáo; Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
----
+Chương IX
 
+ĐIỀU KHOẢN THI HÀNH
 
-### Điều 18.5.LQ.66. Hiệu lực thi hành
+(Chương này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám của Nghị định 03/2019/NĐ-CP Về hoạt động viễn thám ban hành ngày 04/01/2019)
 
-*Nội dung chưa có sẵn*
+Điều 18.5.LQ.66. Hiệu lực thi hành
 
-**Chỉ mục:** 66
+(Điều 66 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 1800500000000000900006600000000000000000
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2019.
 
-**ID:** dk_00025132
+2. Luật Tố cáo số 03/2011/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
----
+3. Tố cáo đã được thụ lý, đang xem xét và chưa có kết luận trước ngày Luật này có hiệu lực thi hành thì được tiếp tục giải quyết theo quy định của Luật Tố cáo số 03/2011/QH13.
 
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
-### Điều 18.5.LQ.67. Quy định chi tiết
+Điều 18.5.LQ.67. Quy định chi tiết
 
-*Nội dung chưa có sẵn*
+(Điều 67 Luật số 25/2018/QH14, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 67
+Chính phủ quy định chi tiết Chương VI của Luật này và các điều, khoản được giao trong Luật; quy định về tố cáo và giải quyết tố cáo trong Quân đội nhân dân và Công an nhân dân.
 
-**Mã phân cấp:** 1800500000000000900006700000000000000000
-
-**ID:** dk_00025133
-
----
-
-
-### Điều 18.5.NĐ.3.8. Thụ lý tố cáo trong trường hợp người bị tố cáo đang thực hiện nhiệm vụ chiến đấu, phục vụ chiến đấu hoặc trong tình trạng khẩn cấp
+(Điều này có nội dung liên quan đến Điều 27.6.NĐ.24. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám)
 
 Điều 18.5.NĐ.3.8. Thụ lý tố cáo trong trường hợp người bị tố cáo đang thực hiện nhiệm vụ chiến đấu, phục vụ chiến đấu hoặc trong tình trạng khẩn cấp
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-**Mã phân cấp:** 180050000000000090000670000000000000000000402686200280000800
+Trường hợp người bị tố cáo đang thực hiện nhiệm vụ chiến đấu, phục vụ chiến đấu hoặc trong tình trạng khẩn cấp, người có thẩm quyền giải quyết tố cáo thông báo rõ lý do việc chưa thụ lý tố cáo. Ngay sau khi người bị tố cáo thực hiện xong nhiệm vụ, người có thẩm quyền giải quyết tố cáo phải thông báo thụ lý tố cáo bằng văn bản cho người tố cáo.
 
-**ID:** dk_00025134
+Điều 18.5.NĐ.2.19. Hiệu lực thi hành
 
----
+(Điều 19 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
+1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 4 năm 2019.
 
-### Điều 18.5.NĐ.2.19. Hiệu lực thi hành
+2. Nghị định số 91/2013/NĐ-CP ngày 12 tháng 8 năm 2013 của Chính phủ quy định về tố cáo và giải quyết tố cáo trong Công an nhân dân hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
 
-*Nội dung chưa có sẵn*
+3. Tố cáo đã được thụ lý, đang xác minh và chưa có kết luận trước ngày Nghị định này có hiệu lực thi hành thì tiếp tục giải quyết theo quy định của Nghị định số 91/2013/NĐ-CP ngày 12 tháng 8 năm 2013 của Chính phủ quy định về tố cáo và giải quyết tố cáo trong Công an nhân dân.
 
-**Chỉ mục:** 19
+Điều 18.5.NĐ.2.20. Trách nhiệm thi hành
 
-**Mã phân cấp:** 1800500000000000900006740268390022000190
+(Điều 20 Nghị định số 22/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/04/2019)
 
-**ID:** dk_00025135
+1. Bộ trưởng Bộ Công an có trách nhiệm hướng dẫn thi hành Nghị định này.
 
----
+2. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, đơn vị có liên quan chịu trách nhiệm thi hành Nghị định này.
 
+Điều 18.5.NĐ.3.20. Hiệu lực thi hành
 
-### Điều 18.5.NĐ.2.20. Trách nhiệm thi hành
+(Điều 20 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
-*Nội dung chưa có sẵn*
+1. Nghị định này có hiệu lực thi hành từ ngày 05 tháng 5 năm 2019.
 
-**Chỉ mục:** 20
+2. Nghị định số 220/2013/NĐ-CP ngày 27 tháng 12 năm 2013 của Chính phủ quy định về tố cáo và giải quyết tố cáo trong Quân đội nhân dân hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
 
-**Mã phân cấp:** 1800500000000000900006740268390022000200
+3. Tố cáo đã được thụ lý, đang xem xét và chưa có kết luận trước ngày Nghị định này có hiệu lực thi hành được tiếp tục áp dụng Nghị định số 220/2013/NĐ-CP và Luật Tố cáo số 03/2011/QH13 để giải quyết.
 
-**ID:** dk_00025136
+Điều 18.5.NĐ.3.21. Trách nhiệm thi hành
 
----
+(Điều 21 Nghị định số 28/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/05/2019)
 
+Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-### Điều 18.5.NĐ.3.20. Hiệu lực thi hành
+Điều 18.5.NĐ.4.24. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 24 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
-**Chỉ mục:** 20
+1. Nghị định này có hiệu lực thi hành từ ngày 28 tháng 5 năm 2019.
 
-**Mã phân cấp:** 1800500000000000900006740268620028000200
+2. Nghị định số [76/2012/NĐ-CP](https://thuvienphapluat.vn/van-ban/thu-tuc-to-tung/nghi-dinh-76-2012-nd-cp-huong-dan-luat-to-cao-149057.aspx) ngày 03 tháng 10 năm 2012 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tố cáo hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
 
-**ID:** dk_00025137
+Điều 18.5.NĐ.4.25. Trách nhiệm thi hành
 
----
+(Điều 25 Nghị định số 31/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 28/05/2019)
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
-### Điều 18.5.NĐ.3.21. Trách nhiệm thi hành
+ ***Nơi nhận:***
+ - Ban Bí thư Trung ương Đảng;
+ - Thủ tướng, các Phó Thủ tướng Chính phủ;
+ - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+ - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+ - Văn phòng Trung ương và các Ban của Đảng;
+ - Văn phòng Tổng Bí thư;
+ - Văn phòng Chủ tịch nước;
+ - Hội đồng dân tộc và các Ủy ban của Quốc hội;
+ - Văn phòng Quốc hội;
+ - Tòa án nhân dân tối cao;
+ - Viện kiểm sát nhân dân tối cao;
+ - Kiểm toán nhà nước;
+ - Ủy ban Giám sát tài chính Quốc gia;
+ - Ngân hàng Chính sách xã hội;
+ - Ngân hàng Phát triển Việt Nam;
+ - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+ - Cơ quan trung ương của các đoàn thể;
+ - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
+ - Lưu: VT, V.I (2b).
 
-*Nội dung chưa có sẵn*
+ TM. CHÍNH PHỦ
+ THỦ TƯỚNG
 
-**Chỉ mục:** 21
+ Nguyễn Xuân Phúc
 
-**Mã phân cấp:** 1800500000000000900006740268620028000210
+Điều 18.5.TT.7.7. Hiệu lực thi hành
 
-**ID:** dk_00025138
+(Điều 7 Thông tư số 03/2020/TT-BNV, có hiệu lực thi hành kể từ ngày 05/09/2020)
 
----
+1. Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 9 năm 2020.
 
+2. Bộ trưởng, Thủ trưởng các cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-### Điều 18.5.NĐ.4.24. Hiệu lực thi hành
+Điều 18.5.TT.9.10. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 10 Thông tư số 08/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/12/2020)
 
-**Chỉ mục:** 24
+Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 12 năm 2020.
 
-**Mã phân cấp:** 1800500000000000900006740268830031000240
+Điều 18.5.TT.9.11. Tổ chức thực hiện
 
-**ID:** dk_00025139
+(Điều 11 Thông tư số 08/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/12/2020)
 
----
+1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này.
 
+2. Trong quá trình triển khai thực hiện, nếu có vướng mắc đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Lao động - Thương binh và Xã hội để nghiên cứu, sửa đổi, bổ sung cho phù hợp.
 
-### Điều 18.5.NĐ.4.25. Trách nhiệm thi hành
+Điều 18.5.TT.10.30. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 30 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
-**Chỉ mục:** 25
+1. Thông tư này có hiệu lực kể từ ngày 22 tháng 01 năm 2021.
 
-**Mã phân cấp:** 1800500000000000900006740268830031000250
+2. Thông tư này thay thế Thông tư số 12/2015/TT-BCA ngày 02/3/2015 của Bộ trưởng Bộ Công an quy định quy trình giải quyết tố cáo trong Công an nhân dân.
 
-**ID:** dk_00025140
+Điều 18.5.TT.10.31. Trách nhiệm thi hành
 
----
+(Điều 31 Thông tư số 129/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2021)
 
+1. Thủ trưởng các đơn vị thuộc cơ quan Bộ, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thực hiện Thông tư này.
 
-### Điều 18.5.TT.7.7. Hiệu lực thi hành
+2. Thanh tra Bộ Công an có trách nhiệm hướng dẫn, kiểm tra, đôn đốc thực hiện Thông tư này. Thanh tra Công an các cấp có trách nhiệm hướng dẫn, kiểm tra, đôn đốc thực hiện Thông tư này trong phạm vi đơn vị, địa phương mình.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 1800500000000000900006780273510003000070
-
-**ID:** dk_00025141
-
----
-
-
-### Điều 18.5.TT.9.10. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 1800500000000000900006780274370008000100
-
-**ID:** dk_00025142
-
----
-
-
-### Điều 18.5.TT.9.11. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 1800500000000000900006780274370008000110
-
-**ID:** dk_00025143
-
----
-
-
-### Điều 18.5.TT.10.30. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 1800500000000000900006780274910129000300
-
-**ID:** dk_00025144
-
----
-
-
-### Điều 18.5.TT.10.31. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 1800500000000000900006780274910129000310
-
-**ID:** dk_00025145
-
----
-
-
-### Điều 18.5.TT.11.11. Kinh phí đảm bảo áp dụng biện pháp bảo vệ
+3. Trong quá trình thực hiện Thông tư này nếu có vướng mắc, Công an các đơn vị, địa phương báo cáo về Bộ Công an (qua Thanh tra Bộ Công an) để hướng dẫn./.
 
 Điều 18.5.TT.11.11. Kinh phí đảm bảo áp dụng biện pháp bảo vệ
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-**Mã phân cấp:** 1800500000000000900006780275120145000110
-
-**ID:** dk_00025146
-
----
-
-
-### Điều 18.5.TT.11.12. Hiệu lực, điều khoản chuyển tiếp, trách nhiệm thi hành
+Kinh phí áp dụng biện pháp bảo vệ được bảo đảm từ ngân sách Nhà nước. Công an các đơn vị, địa phương có trách nhiệm lập dự toán kinh phí áp dụng biện pháp bảo vệ tổng hợp chung vào dự toán ngân sách chi an ninh hằng năm và gửi về Bộ Công an (qua Cục Kế hoạch và tài chính) để tổng hợp gửi Bộ Tài chính theo quy định.
 
 Điều 18.5.TT.11.12. Hiệu lực, điều khoản chuyển tiếp, trách nhiệm thi hành
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 145/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2021)
 
-**Mã phân cấp:** 1800500000000000900006780275120145000120
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2021.
 
-**ID:** dk_00025147
+2. Các quy định dẫn chiếu trong Thông tư này khi được sửa đổi, bổ sung, thay thế thì nội dung dẫn chiếu cũng được điều chỉnh và thực hiện theo quy định đã được sửa đổi, bổ sung, thay thế.
 
----
+3. Thủ trưởng Công an các đơn vị trực thuộc Bộ, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
+4. Giao Thanh tra Bộ Công an chủ trì, theo dõi, kiểm tra, tổng hợp, báo cáo việc thực hiện Thông tư; Thủ trưởng Công an đơn vị trực thuộc Bộ giao đơn vị tham mưu, tổng hợp của đơn vị, Thủ trưởng Công an địa phương giao Thanh tra Công an địa phương chủ trì, theo dõi, kiểm tra, tổng hợp, báo cáo việc thực hiện Thông tư. Trong quá trình thực hiện, nếu có vướng mắc, Công an các đơn vị, địa phương; cơ quan, tổ chức, đơn vị, cá nhân có liên quan phản ánh về Bộ Công an (qua Thanh tra Bộ Công an) để tập hợp, báo cáo lãnh đạo Bộ xem xét, giải quyết.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Khiếu nại, tố cáo](/khieu-nai-to-cao/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+## Danh sách điều khoản
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 270
-- **Điều khoản thực tế:** 255
-- **Điều khoản có nội dung:** 163 (63.9%)
-- **ID đề mục:** bc9a9ade0c9f43cc8cc28c69773d163e
+### 18005000000000001000
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
----
+### 1800500000000000100000100000000000000000
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 18.5.LQ.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000140268390022000010
+
+Điều 18.5.NĐ.2.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000140268390022000020
+
+Điều 18.5.NĐ.2.2. Đối tượng áp dụng
+
+### 1800500000000000100000140268620028000010
+
+Điều 18.5.NĐ.3.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000140268620028000020
+
+Điều 18.5.NĐ.3.2. Đối tượng áp dụng
+
+### 1800500000000000100000140268830031000010
+
+Điều 18.5.NĐ.4.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000140268830031000020
+
+Điều 18.5.NĐ.4.2. Đối tượng áp dụng
+
+### 1800500000000000100000180273510003000010
+
+Điều 18.5.TT.7.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000180273510003000020
+
+Điều 18.5.TT.7.2. Đối tượng áp dụng
+
+### 1800500000000000100000180273640085000010
+
+Điều 18.5.TT.8.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000180273640085000020
+
+Điều 18.5.TT.8.2. Đối tượng áp dụng
+
+### 1800500000000000100000180274370008000010
+
+Điều 18.5.TT.9.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000180274370008000020
+
+Điều 18.5.TT.9.2. Đối tượng áp dụng
+
+### 1800500000000000100000180274910129000010
+
+Điều 18.5.TT.10.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000180274910129000020
+
+Điều 18.5.TT.10.2. Đối tượng áp dụng
+
+### 1800500000000000100000180275120145000010
+
+Điều 18.5.TT.11.1. Phạm vi điều chỉnh
+
+### 1800500000000000100000180275120145000020
+
+Điều 18.5.TT.11.2. Đối tượng áp dụng
+
+### 1800500000000000100000200000000000000000
+
+Điều 18.5.LQ.2. Giải thích từ ngữ
+
+### 1800500000000000100000240268390022000030
+
+Điều 18.5.NĐ.2.3. Giải thích từ ngữ
+
+### 1800500000000000100000240268620028000030
+
+Điều 18.5.NĐ.3.3. Giải thích từ ngữ
+
+### 1800500000000000100000280273640085000030
+
+Điều 18.5.TT.8.3. Giải thích từ ngữ
+
+### 1800500000000000100000280274370008000030
+
+Điều 18.5.TT.9.3. Giải thích từ ngữ
+
+### 1800500000000000100000300000000000000000
+
+Điều 18.5.LQ.3. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
+
+### 1800500000000000100000340268620028000040
+
+Điều 18.5.NĐ.3.4. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
+
+### 1800500000000000100000380274910129000030
+
+Điều 18.5.TT.10.3. Áp dụng pháp luật
+
+### 1800500000000000100000400000000000000000
+
+Điều 18.5.LQ.4. Nguyên tắc giải quyết tố cáo
+
+### 1800500000000000100000480273640085000040
+
+Điều 18.5.TT.8.4. Áp dụng pháp luật về tố cáo và giải quyết tố cáo
+
+### 1800500000000000100000500000000000000000
+
+Điều 18.5.LQ.5. Trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo
+
+### 1800500000000000100000600000000000000000
+
+Điều 18.5.LQ.6. Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân có liên quan trong việc giải quyết tố cáo
+
+### 1800500000000000100000700000000000000000
+
+Điều 18.5.LQ.7. Chấp hành quyết định xử lý hành vi vi phạm pháp luật bị tố cáo
+
+### 1800500000000000100000800000000000000000
+
+Điều 18.5.LQ.8. Các hành vi bị nghiêm cấm trong tố cáo và giải quyết tố cáo
+
+### 18005000000000002000
+
+Chương II QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI TỐ CÁO, NGƯỜI BỊ TỐ CÁO, NGƯỜI GIẢI QUYẾT TỐ CÁO
+
+### 1800500000000000200000900000000000000000
+
+Điều 18.5.LQ.9. Quyền và nghĩa vụ của người tố cáo
+
+### 180050000000000020000090000000000000000000402647600240003700
+
+Điều 18.5.NĐ.1.37. Quyền và nghĩa vụ của người tố cáo
+
+### 180050000000000020000090000000000000000000402683900220000400
+
+Điều 18.5.NĐ.2.4. Tố cáo hành vi vi phạm pháp luật của cơ quan, đơn vị, cán bộ, chiến sĩ Công an trong việc thực hiện nhiệm vụ, công vụ
+
+### 180050000000000020000090000000000000000000402688300310002100
+
+Điều 18.5.NĐ.4.21. Nguyên tắc xử lý kỷ luật đối với cán bộ, công chức, viên chức có hành vi vi phạm pháp luật tố cáo
+
+### 180050000000000020000090000000000000000000402688300310002300
+
+Điều 18.5.NĐ.4.23. Xử lý kỷ luật đối với người tố cáo là cán bộ, công chức, viên chức
+
+### 1800500000000000200001000000000000000000
+
+Điều 18.5.LQ.10. Quyền và nghĩa vụ của người bị tố cáo
+
+### 180050000000000020000100000000000000000000402647600240003800
+
+Điều 18.5.NĐ.1.38. Quyền và nghĩa vụ của người bị tố cáo và người giải quyết tố cáo
+
+### 1800500000000000200001100000000000000000
+
+Điều 18.5.LQ.11. Quyền và nghĩa vụ của người giải quyết tố cáo
+
+### 180050000000000020000110000000000000000000402688300310002200
+
+Điều 18.5.NĐ.4.22. Xử lý kỷ luật đối với người có thẩm quyền giải quyết tố cáo
+
+### 180050000000000020000110000000000000000000802494400401001200
+
+Điều 18.5.TT.1.12. Trách nhiệm tham mưu, giải quyết tố cáo của người đứng đầu đơn vị thuộc Bộ Giáo dục và Đào tạo
+
+### 180050000000000020000110000000000000000000802494400401001300
+
+Điều 18.5.TT.1.13. Trách nhiệm giải quyết tố cáo của người đứng đầu các đơn vị sự nghiệp trực thuộc Bộ
+
+### 18005000000000003000
+
+Chương III GIẢI QUYẾT TỐ CÁO ĐỐI VỚI HÀNH VI VI PHẠM PHÁP LUẬT TRONG VIỆC THỰC HIỆN NHIỆM VỤ, CÔNG VỤ
+
+### 1800500000000000300000100000000000000000
+
+Mục 1 THẨM QUYỀN GIẢI QUYẾT TỐ CÁO
+
+### 180050000000000030000010000000000000000001200000000000000000
+
+Điều 18.5.LQ.12. Nguyên tắc xác định thẩm quyền
+
+### 18005000000000003000001000000000000000000120000000000000000000402647600240004300
+
+Điều 18.5.NĐ.1.43. Thẩm quyền giải quyết tố cáo về giáo dục nghề nghiệp, việc làm
+
+### 18005000000000003000001000000000000000000120000000000000000000402647600240004400
+
+Điều 18.5.NĐ.1.44. Phân định thẩm quyền giải quyết tố cáo
+
+### 18005000000000003000001000000000000000000120000000000000000000402686200280000500
+
+Điều 18.5.NĐ.3.5. Nguyên tắc xác định thẩm quyền
+
+### 180050000000000030000010000000000000000001300000000000000000
+
+Điều 18.5.LQ.13. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan hành chính nhà nước
+
+### 18005000000000003000001000000000000000000130000000000000000000402647600240003900
+
+Điều 18.5.NĐ.1.39. Thẩm quyền của Chánh Thanh tra Sở Lao động - Thương binh và Xã hội
+
+### 18005000000000003000001000000000000000000130000000000000000000402647600240004000
+
+Điều 18.5.NĐ.1.40. Thẩm quyền của Cục trưởng Cục Quản lý lao động ngoài nước
+
+### 18005000000000003000001000000000000000000130000000000000000000402647600240004100
+
+Điều 18.5.NĐ.1.41. Thẩm quyền của Chánh Thanh tra Bộ Lao động - Thương binh và Xã hội
+
+### 18005000000000003000001000000000000000000130000000000000000000402647600240004200
+
+Điều 18.5.NĐ.1.42. Thẩm quyền giải quyết của Bộ trưởng Bộ Lao động - Thương binh và Xã hội
+
+### 18005000000000003000001000000000000000000130000000000000000000402683900220000500
+
+Điều 18.5.NĐ.2.5. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Công an nhân dân
+
+### 1800500000000000300000100000000000000000013000000000000000000040268390022000050000802736400850000800
+
+Điều 18.5.TT.8.8. Thẩm quyền giải quyết tố cáo
+
+### 1800500000000000300000100000000000000000013000000000000000000040268390022000050000802736400850001300
+
+Điều 18.5.TT.8.13. Tố cáo hành vi vi phạm pháp luật có liên quan đến thẩm quyền quản lý của nhiều cơ quan, đơn vị Công an
+
+### 1800500000000000300000100000000000000000013000000000000000000040268390022000050000802751201450000700
+
+Điều 18.5.TT.11.7. Thẩm quyền quyết định áp dụng biện pháp bảo vệ của người có thẩm quyền giải quyết tố cáo trong Công an nhân dân
+
+### 18005000000000003000001000000000000000000130000000000000000000402686200280000600
+
+Điều 18.5.NĐ.3.6. Thẩm quyền giải quyết tố cáo trong việc thực hiện nhiệm vụ, công vụ
+
+### 18005000000000003000001000000000000000000130000000000000000000802494400401001100
+
+Điều 18.5.TT.1.11. Thẩm quyền giải quyết tố cáo
+
+### 18005000000000003000001000000000000000000130000000000000000000802521200391501700
+
+Điều 18.5.TT.2.17. Thẩm quyền giải quyết tố cáo của Bộ trưởng
+
+### 18005000000000003000001000000000000000000130000000000000000000802521200391501800
+
+Điều 18.5.TT.2.18. Thẩm quyền giải quyết tố cáo của Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ
+
+### 18005000000000003000001000000000000000000130000000000000000000802566700533001700
+
+Điều 18.5.TT.4.17. Xác định thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức ngành Lao động - Thương binh và Xã hội trong việc thực hiện nhiệm vụ, công vụ
+
+### 18005000000000003000001000000000000000000130000000000000000000802566700533001800
+
+Điều 18.5.TT.4.18. Xác định thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật trong các lĩnh vực quản lý nhà nước ngành Lao động - Thương binh và Xã hội
+
+### 180050000000000030000010000000000000000001400000000000000000
+
+Điều 18.5.LQ.14. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Tòa án nhân dân
+
+### 18005000000000003000001000000000000000000140000000000000000000802731800010002200
+
+Điều 18.5.TT.6.22. Thẩm quyền giải quyết tố cáo
+
+### 18005000000000003000001000000000000000000140000000000000000000802731800010002300
+
+Điều 18.5.TT.6.23. Trách nhiệm của Thủ trưởng các đơn vị có chức năng thanh tra trong Tòa án nhân dân các cấp
+
+### 18005000000000003000001000000000000000000140000000000000000000802731800010003800
+
+Điều 18.5.TT.6.38. Một số quy định khác về trình tự, thủ tục giải quyết tố cáo
+
+### 180050000000000030000010000000000000000001500000000000000000
+
+Điều 18.5.LQ.15. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Viện kiểm sát nhân dân
+
+### 180050000000000030000010000000000000000001600000000000000000
+
+Điều 18.5.LQ.16. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Kiểm toán nhà nước
+
+### 180050000000000030000010000000000000000001700000000000000000
+
+Điều 18.5.LQ.17. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan khác của Nhà nước
+
+### 180050000000000030000010000000000000000001800000000000000000
+
+Điều 18.5.LQ.18. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong đơn vị sự nghiệp công lập
+
+### 180050000000000030000010000000000000000001900000000000000000
+
+Điều 18.5.LQ.19. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người có chức danh, chức vụ trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ
+
+### 180050000000000030000010000000000000000002000000000000000000
+
+Điều 18.5.LQ.20. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức chính trị, tổ chức chính trị - xã hội
+
+### 18005000000000003000001000000000000000000200000000000000000000802778800050001500
+
+Điều 18.5.TT.12.15. Xử lý đơn tố cáo đối với đảng viên
+
+### 18005000000000003000001000000000000000000200000000000000000000802778800050001600
+
+Điều 18.5.TT.12.16. Xử lý đơn tố cáo hành vi vi phạm pháp luật gây thiệt hại hoặc đe dọa gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cá nhân, cơ quan, tổ chức
+
+### 180050000000000030000010000000000000000002100000000000000000
+
+Điều 18.5.LQ.21. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức
+
+### 1800500000000000300000200000000000000000
+
+Mục 2 HÌNH THỨC TỐ CÁO, TIẾP NHẬN, XỬ LÝ BAN ĐẦU THÔNG TIN TỐ CÁO
+
+### 180050000000000030000020000000000000000002200000000000000000
+
+Điều 18.5.LQ.22. Hình thức tố cáo
+
+### 180050000000000030000020000000000000000002300000000000000000
+
+Điều 18.5.LQ.23. Tiếp nhận tố cáo
+
+### 18005000000000003000002000000000000000000230000000000000000000402683900220000600
+
+Điều 18.5.NĐ.2.6. Tiếp nhận, xử lý thông tin tố cáo
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802731800010002400
+
+Điều 18.5.TT.6.24. Giải quyết việc tiếp nhận tố cáo
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850000500
+
+Điều 18.5.TT.8.5. Tiếp nhận thông tin tố cáo
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850000600
+
+Điều 18.5.TT.8.6. Xử lý ban đầu thông tin tố cáo thuộc thẩm quyền, trách nhiệm của Công an nhân dân
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850000700
+
+Điều 18.5.TT.8.7. Xử lý thông tin tố cáo không thuộc thẩm quyền, trách nhiệm giải quyết của Công an nhân dân
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850000900
+
+Điều 18.5.TT.8.9. Hình thức tố cáo
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850001400
+
+Điều 18.5.TT.8.14. Giải quyết tố cáo có nội dung khiếu nại
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850001500
+
+Điều 18.5.TT.8.15. Tố cáo có nhiều nội dung, lĩnh vực, thuộc thẩm quyền giải quyết của nhiều cơ quan, đơn vị khác nhau
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850001600
+
+Điều 18.5.TT.8.16. Trách nhiệm của Thủ trưởng Công an các cấp
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802736400850001700
+
+Điều 18.5.TT.8.17. Trách nhiệm của Cơ quan Thanh tra và cơ quan chức năng khác
+
+### 1800500000000000300000200000000000000000023000000000000000000040268390022000060000802749101290000700
+
+Điều 18.5.TT.10.7. Xử lý tố cáo không rõ họ tên, địa chỉ của người tố cáo
+
+### 18005000000000003000002000000000000000000230000000000000000000402686200280000700
+
+Điều 18.5.NĐ.3.7. Tiếp nhận, xử lý đơn tố cáo
+
+### 180050000000000030000020000000000000000002400000000000000000
+
+Điều 18.5.LQ.24. Xử lý ban đầu thông tin tố cáo
+
+### 18005000000000003000002000000000000000000240000000000000000000802731800010002500
+
+Điều 18.5.TT.6.25. Phân loại và xử lý tố cáo
+
+### 18005000000000003000002000000000000000000240000000000000000000802778800050001400
+
+Điều 18.5.TT.12.14. Xử lý đơn tố cáo không thuộc thẩm quyền giải quyết
+
+### 180050000000000030000020000000000000000002500000000000000000
+
+Điều 18.5.LQ.25. Tiếp nhận, xử lý thông tin có nội dung tố cáo
+
+### 18005000000000003000002000000000000000000250000000000000000000802731800010002600
+
+Điều 18.5.TT.6.26. Giải quyết việc tiếp nhận, xử lý thông tin có nội dung tố cáo
+
+### 180050000000000030000020000000000000000002600000000000000000
+
+Điều 18.5.LQ.26. Tiếp nhận, xử lý tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến
+
+### 18005000000000003000002000000000000000000260000000000000000000402688300310002000
+
+Điều 18.5.NĐ.4.20. Xử lý thông tin có nội dung tố cáo và tố cáo do cơ quan báo chí, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển đến
+
+### 180050000000000030000020000000000000000002700000000000000000
+
+Điều 18.5.LQ.27. Xử lý tố cáo có dấu hiệu của tội phạm, áp dụng biện pháp ngăn chặn hành vi vi phạm
+
+### 1800500000000000300000300000000000000000
+
+Mục 3 TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT TỐ CÁO
+
+### 180050000000000030000030000000000000000002800000000000000000
+
+Điều 18.5.LQ.28. Trình tự giải quyết tố cáo
+
+### 18005000000000003000003000000000000000000280000000000000000000402647600240004500
+
+Điều 18.5.NĐ.1.45. Trình tự, thủ tục giải quyết tố cáo
+
+### 18005000000000003000003000000000000000000280000000000000000000402683900220000800
+
+Điều 18.5.NĐ.2.8. Trình tự, thủ tục, thời hạn giải quyết tố cáo
+
+### 1800500000000000300000300000000000000000028000000000000000000040268390022000080000802736400850001000
+
+Điều 18.5.TT.8.10. Trình tự, thủ tục, thời hạn giải quyết tố cáo
+
+### 18005000000000003000003000000000000000000280000000000000000000402686200280000900
+
+Điều 18.5.NĐ.3.9. Trình tự, thủ tục giải quyết tố cáo trong việc thực hiện nhiệm vụ, công vụ
+
+### 18005000000000003000003000000000000000000280000000000000000000802521200391501900
+
+Điều 18.5.TT.2.19. Giải quyết tố cáo
+
+### 180050000000000030000030000000000000000002900000000000000000
+
+Điều 18.5.LQ.29. Thụ lý tố cáo
+
+### 18005000000000003000003000000000000000000290000000000000000000402688300310000900
+
+Điều 18.5.NĐ.4.9. Thụ lý tố cáo, thông báo việc thụ lý tố cáo
+
+### 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802566700533001600
+
+Điều 18.5.TT.4.16. Phân loại đơn tố cáo
+
+### 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802566700533001900
+
+Điều 18.5.TT.4.19. Xử lý đơn tố cáo
+
+### 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802566700533002000
+
+Điều 18.5.TT.4.20. Xử lý đơn tố cáo tiếp
+
+### 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802731800010002700
+
+Điều 18.5.TT.6.27. Điều kiện thụ lý tố cáo
+
+### 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802749101290000900
+
+Điều 18.5.TT.10.9. Tiếp nhận tố cáo, kiểm tra các điều kiện thụ lý tố cáo
+
+### 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802749101290001000
+
+Điều 18.5.TT.10.10. Ban hành quyết định thụ lý tố cáo, quyết định thành lập Đoàn xác minh hoặc Tổ xác minh nội dung tố cáo
+
+### 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802749101290001300
+
+Điều 18.5.TT.10.13. Thông báo việc thụ lý tố cáo
+
+### 1800500000000000300000300000000000000000029000000000000000000040268830031000090000802778800050001300
+
+Điều 18.5.TT.12.13. Xử lý đơn tố cáo thuộc thẩm quyền giải quyết
+
+### 180050000000000030000030000000000000000003000000000000000000
+
+Điều 18.5.LQ.30. Thời hạn giải quyết tố cáo
+
+### 18005000000000003000003000000000000000000300000000000000000000402688300310000300
+
+Điều 18.5.NĐ.4.3. Thời hạn giải quyết tố cáo
+
+### 180050000000000030000030000000000000000003100000000000000000
+
+Điều 18.5.LQ.31. Xác minh nội dung tố cáo
+
+### 18005000000000003000003000000000000000000310000000000000000000402686200280001000
+
+Điều 18.5.NĐ.3.10. Phối hợp xác minh nội dung tố cáo
+
+### 18005000000000003000003000000000000000000310000000000000000000402688300310001000
+
+Điều 18.5.NĐ.4.10. Xác minh nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802731800010002900
+
+Điều 18.5.TT.6.29. Xác minh nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802731800010003000
+
+Điều 18.5.TT.6.30. Kế hoạch xác minh nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001100
+
+Điều 18.5.TT.10.11. Lập hồ sơ giải quyết tố cáo và nhật ký Tổ xác minh
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001200
+
+Điều 18.5.TT.10.12. Lập kế hoạch xác minh nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001400
+
+Điều 18.5.TT.10.14. Công bố quyết định thụ lý tố cáo, quyết định thành lập Tổ xác minh nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001800
+
+Điều 18.5.TT.10.18. Thu thập, xử lý thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290001900
+
+Điều 18.5.TT.10.19. Ủy quyền xác minh
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290002400
+
+Điều 18.5.TT.10.24. Thông báo dự thảo báo cáo kết quả xác minh và hoàn chỉnh báo cáo chính thức
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000100000802749101290002500
+
+Điều 18.5.TT.10.25. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo
+
+### 18005000000000003000003000000000000000000310000000000000000000402688300310001100
+
+Điều 18.5.NĐ.4.11. Làm việc trực tiếp với người tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000110000802731800010003100
+
+Điều 18.5.TT.6.31. Thực hiện các biện pháp để thu thập thông tin, tài liệu, làm rõ nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000110000802749101290001500
+
+Điều 18.5.TT.10.15. Tổ chức làm việc với người tố cáo để thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+
+### 18005000000000003000003000000000000000000310000000000000000000402688300310001200
+
+Điều 18.5.NĐ.4.12. Làm việc trực tiếp với người bị tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000120000802731800010002800
+
+Điều 18.5.TT.6.28. Yêu cầu giải trình và cung cấp thông tin, tài liệu, chúng cứ liên quan đến nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000120000802749101290001600
+
+Điều 18.5.TT.10.16. Làm việc với người bị tố cáo để thu thập thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+
+### 18005000000000003000003000000000000000000310000000000000000000402688300310001300
+
+Điều 18.5.NĐ.4.13. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân cung cấp thông tin, tài liệu, bằng chứng liên quan đến nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000130000802749101290001700
+
+Điều 18.5.TT.10.17. Yêu cầu cơ quan, tổ chức, đơn vị, cá nhân khác cung cấp thông tin, tài liệu, chứng cứ liên quan đến nội dung tố cáo
+
+### 18005000000000003000003000000000000000000310000000000000000000402688300310001400
+
+Điều 18.5.NĐ.4.14. Xác minh thực tế
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000140000802749101290002000
+
+Điều 18.5.TT.10.20. Xác minh thực tế
+
+### 18005000000000003000003000000000000000000310000000000000000000402688300310001500
+
+Điều 18.5.NĐ.4.15. Trưng cầu giám định
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000150000802749101290002100
+
+Điều 18.5.TT.10.21. Trưng cầu giám định
+
+### 18005000000000003000003000000000000000000310000000000000000000402688300310001600
+
+Điều 18.5.NĐ.4.16. Báo cáo kết quả xác minh nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000160000802731800010003200
+
+Điều 18.5.TT.6.32. Báo cáo kết quả xác minh nội dung tố cáo
+
+### 1800500000000000300000300000000000000000031000000000000000000040268830031000160000802749101290002300
+
+Điều 18.5.TT.10.23. Dự thảo báo cáo kết quả xác minh nội dung tố cáo
+
+### 180050000000000030000030000000000000000003200000000000000000
+
+Điều 18.5.LQ.32. Trách nhiệm của Chánh thanh tra các cấp và Tổng Thanh tra Chính phủ
+
+### 18005000000000003000003000000000000000000320000000000000000000402686200280001700
+
+Điều 18.5.NĐ.3.17. Trách nhiệm của Chánh Thanh tra các cấp
+
+### 180050000000000030000030000000000000000003300000000000000000
+
+Điều 18.5.LQ.33. Rút tố cáo
+
+### 18005000000000003000003000000000000000000330000000000000000000402688300310000400
+
+Điều 18.5.NĐ.4.4. Rút tố cáo
+
+### 1800500000000000300000300000000000000000033000000000000000000040268830031000040000802749101290000800
+
+Điều 18.5.TT.10.8. Xử lý việc rút tố cáo
+
+### 180050000000000030000030000000000000000003400000000000000000
+
+Điều 18.5.LQ.34. Tạm đình chỉ, đình chỉ việc giải quyết tố cáo
+
+### 180050000000000030000030000000000000000003500000000000000000
+
+Điều 18.5.LQ.35. Kết luận nội dung tố cáo
+
+### 18005000000000003000003000000000000000000350000000000000000000402688300310001700
+
+Điều 18.5.NĐ.4.17. Kết luận nội dung tố cáo
+
+### 1800500000000000300000300000000000000000035000000000000000000040268830031000170000802731800010003300
+
+Điều 18.5.TT.6.33. Thông báo dự thảo kết luận nội dung tố cáo
+
+### 1800500000000000300000300000000000000000035000000000000000000040268830031000170000802731800010003400
+
+Điều 18.5.TT.6.34. Ban hành kết luận nội dung tố cáo
+
+### 1800500000000000300000300000000000000000035000000000000000000040268830031000170000802749101290002600
+
+Điều 18.5.TT.10.26. Kết luận nội dung tố cáo, thông báo kết luận nội dung tố cáo
+
+### 180050000000000030000030000000000000000003600000000000000000
+
+Điều 18.5.LQ.36. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
+
+### 18005000000000003000003000000000000000000360000000000000000000402688300310001800
+
+Điều 18.5.NĐ.4.18. Xử lý kết luận nội dung tố cáo
+
+### 1800500000000000300000300000000000000000036000000000000000000040268830031000180000802731800010003500
+
+Điều 18.5.TT.6.35. Việc xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
+
+### 1800500000000000300000300000000000000000036000000000000000000040268830031000180000802749101290002700
+
+Điều 18.5.TT.10.27. Xử lý kết luận nội dung tố cáo của người giải quyết tố cáo
+
+### 18005000000000003000003000000000000000000360000000000000000000402688300310001900
+
+Điều 18.5.NĐ.4.19. Trình tự, thủ tục giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+
+### 180050000000000030000030000000000000000003700000000000000000
+
+Điều 18.5.LQ.37. Việc tố cáo tiếp, giải quyết lại vụ việc tố cáo
+
+### 180050000000000030000030000000000000000003800000000000000000
+
+Điều 18.5.LQ.38. Giải quyết tố cáo trong trường hợp quá thời hạn quy định mà chưa được giải quyết
+
+### 18005000000000003000003000000000000000000380000000000000000000402688300310000500
+
+Điều 18.5.NĐ.4.5. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp giải quyết vụ việc tố cáo thuộc thẩm quyền của cơ quan, tổ chức cấp dưới trong trường hợp quá thời hạn quy định mà chưa được giải quyết
+
+### 1800500000000000300000300000000000000000038000000000000000000040268830031000050000802749101290000500
+
+Điều 18.5.TT.10.5. Tố cáo tiếp và giải quyết lại vụ việc tố cáo
+
+### 1800500000000000300000300000000000000000038000000000000000000040268830031000050000802749101290000600
+
+Điều 18.5.TT.10.6. Giải quyết tố cáo thuộc thẩm quyền giải quyết của Thủ trưởng cơ quan, đơn vị Công an cấp dưới trực tiếp
+
+### 180050000000000030000030000000000000000003900000000000000000
+
+Điều 18.5.LQ.39. Hồ sơ giải quyết vụ việc tố cáo
+
+### 18005000000000003000003000000000000000000390000000000000000000802494400401001400
+
+Điều 18.5.TT.1.14. Chế độ báo cáo, lưu trữ
+
+### 18005000000000003000003000000000000000000390000000000000000000802494400401001500
+
+Điều 18.5.TT.1.15. Cơ sở dữ liệu về giải quyết khiếu nại, giải quyết tố cáo và tiếp công dân
+
+### 18005000000000003000003000000000000000000390000000000000000000802731800010003700
+
+Điều 18.5.TT.6.37. Lập và lưu trữ hồ sơ giải quyết tố cáo
+
+### 180050000000000030000030000000000000000004000000000000000000
+
+Điều 18.5.LQ.40. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+
+### 18005000000000003000003000000000000000000400000000000000000000402683900220001300
+
+Điều 18.5.NĐ.2.13. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm pháp luật bị tố cáo
+
+### 1800500000000000300000300000000000000000040000000000000000000040268390022000130000802749101290002800
+
+Điều 18.5.TT.10.28. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+
+### 18005000000000003000003000000000000000000400000000000000000000402688300310000600
+
+Điều 18.5.NĐ.4.6. Công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+
+### 1800500000000000300000300000000000000000040000000000000000000040268830031000060000802521200391502000
+
+Điều 18.5.TT.2.20. Công khai kết luận nội dung tố cáo
+
+### 1800500000000000300000300000000000000000040000000000000000000040268830031000060000802731800010003600
+
+Điều 18.5.TT.6.36. Thực hiện công khai kết luận nội dung tố cáo, quyết định xử lý hành vi vi phạm bị tố cáo
+
+### 1800500000000000300000300000000000000000040000000000000000000040268830031000060000802749101290002900
+
+Điều 18.5.TT.10.29. Kết thúc việc giải quyết tố cáo
+
+### 18005000000000004000
+
+Chương IV GIẢI QUYẾT TỐ CÁO ĐỐI VỚI HÀNH VI VI PHẠM PHÁP LUẬT VỀ QUẢN LÝ NHÀ NƯỚC TRONG CÁC LĨNH VỰC
+
+### 1800500000000000400004100000000000000000
+
+Điều 18.5.LQ.41. Nguyên tắc xác định thẩm quyền
+
+### 180050000000000040000410000000000000000000402683900220000900
+
+Điều 18.5.NĐ.2.9. Tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự
+
+### 180050000000000040000410000000000000000000402683900220001000
+
+Điều 18.5.NĐ.2.10. Thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực an ninh, trật tự
+
+### 18005000000000004000041000000000000000000040268390022000100000802736400850001100
+
+Điều 18.5.TT.8.11. Thẩm quyền giải quyết tố cáo
+
+### 180050000000000040000410000000000000000000402686200280001200
+
+Điều 18.5.NĐ.3.12. Thẩm quyền giải quyết tố cáo trong quản lý nhà nước về quốc phòng
+
+### 1800500000000000400004200000000000000000
+
+Điều 18.5.LQ.42. Trình tự, thủ tục giải quyết tố cáo
+
+### 180050000000000040000420000000000000000000402683900220001100
+
+Điều 18.5.NĐ.2.11. Trình tự, thủ tục, thời hạn giải quyết tố cáo
+
+### 18005000000000004000042000000000000000000040268390022000110000802736400850001200
+
+Điều 18.5.TT.8.12. Trình tự, thủ tục giải quyết tố cáo
+
+### 180050000000000040000420000000000000000000402686200280001300
+
+Điều 18.5.NĐ.3.13. Trình tự, thủ tục giải quyết tố cáo trong quản lý nhà nước về quốc phòng
+
+### 1800500000000000400004300000000000000000
+
+Điều 18.5.LQ.43. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+
+### 180050000000000040000430000000000000000000402683900220001200
+
+Điều 18.5.NĐ.2.12. Trình tự, thủ tục giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+
+### 18005000000000004000043000000000000000000040268390022000120000802749101290000400
+
+Điều 18.5.TT.10.4. Giải quyết tố cáo có nội dung rõ ràng, chứng cứ cụ thể, có cơ sở để xử lý ngay
+
+### 18005000000000005000
+
+Chương V TRÁCH NHIỆM TỔ CHỨC THỰC HIỆN KẾT LUẬN NỘI DUNG TỐ CÁO
+
+### 1800500000000000500004400000000000000000
+
+Điều 18.5.LQ.44. Trách nhiệm của người giải quyết tố cáo
+
+### 180050000000000050000440000000000000000000402683900220001400
+
+Điều 18.5.NĐ.2.14. Trách nhiệm tổ chức thực hiện kết luận nội dung tố cáo
+
+### 180050000000000050000440000000000000000000402686200280001100
+
+Điều 18.5.NĐ.3.11. Trách nhiệm tổ chức thực hiện kết luận nội dung tố cáo
+
+### 1800500000000000500004500000000000000000
+
+Điều 18.5.LQ.45. Trách nhiệm của người bị tố cáo
+
+### 1800500000000000500004600000000000000000
+
+Điều 18.5.LQ.46. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+
+### 18005000000000006000
+
+Chương VI BẢO VỆ NGƯỜI TỐ CÁO
+
+### 1800500000000000600000100000000000000000
+
+Mục 1 QUY ĐỊNH CHUNG
+
+### 180050000000000060000010000000000000000004700000000000000000
+
+Điều 18.5.LQ.47. Người được bảo vệ, phạm vi bảo vệ
+
+### 18005000000000006000001000000000000000000470000000000000000000402683900220001500
+
+Điều 18.5.NĐ.2.15. Trách nhiệm của người giải quyết tố cáo, Thủ trưởng, cán bộ, chiến sĩ Công an trong việc bảo vệ người tố cáo, người thân của người tố cáo
+
+### 1800500000000000600000100000000000000000047000000000000000000040268390022000150000802751201450000300
+
+Điều 18.5.TT.11.3. Những người được bảo vệ, phạm vi, nội dung bảo vệ và căn cứ áp dụng biện pháp bảo vệ
+
+### 1800500000000000600000100000000000000000047000000000000000000040268390022000150000802751201450000400
+
+Điều 18.5.TT.11.4. Quyền và nghĩa vụ của người được bảo vệ
+
+### 1800500000000000600000100000000000000000047000000000000000000040268390022000150000802751201450000500
+
+Điều 18.5.TT.11.5. Trách nhiệm thực hiện việc bảo vệ người được bảo vệ
+
+### 1800500000000000600000100000000000000000047000000000000000000040268390022000150000802751201450000800
+
+Điều 18.5.TT.11.8. Trình tự, thủ tục bảo vệ
+
+### 180050000000000060000010000000000000000004800000000000000000
+
+Điều 18.5.LQ.48. Quyền và nghĩa vụ của người được bảo vệ
+
+### 180050000000000060000010000000000000000004900000000000000000
+
+Điều 18.5.LQ.49. Cơ quan có thẩm quyền áp dụng biện pháp bảo vệ
+
+### 18005000000000006000001000000000000000000490000000000000000000402686200280001400
+
+Điều 18.5.NĐ.3.14. Thẩm quyền áp dụng biện pháp bảo vệ
+
+### 1800500000000000600000200000000000000000
+
+Mục 2 TRÌNH TỰ, THỦ TỤC BẢO VỆ
+
+### 180050000000000060000020000000000000000005000000000000000000
+
+Điều 18.5.LQ.50. Đề nghị áp dụng biện pháp bảo vệ
+
+### 18005000000000006000002000000000000000000500000000000000000000402686200280001500
+
+Điều 18.5.NĐ.3.15. Trình tự, thủ tục, thời hạn, các biện pháp bảo vệ, trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân trong việc bảo vệ người tố cáo, người được bảo vệ
+
+### 18005000000000006000002000000000000000000500000000000000000000802735100030000500
+
+Điều 18.5.TT.7.5. Trình tự, thủ tục bảo vệ
+
+### 18005000000000006000002000000000000000000500000000000000000000802743700080000400
+
+Điều 18.5.TT.9.4. Trình tự, thủ tục bảo vệ
+
+### 18005000000000006000002000000000000000000500000000000000000000802751201450000600
+
+Điều 18.5.TT.11.6. Văn bản yêu cầu, đề nghị quyết định áp dụng biện pháp bảo vệ
+
+### 180050000000000060000020000000000000000005100000000000000000
+
+Điều 18.5.LQ.51. Xem xét, quyết định bảo vệ người tố cáo
+
+### 180050000000000060000020000000000000000005200000000000000000
+
+Điều 18.5.LQ.52. Quyết định áp dụng biện pháp bảo vệ
+
+### 180050000000000060000020000000000000000005300000000000000000
+
+Điều 18.5.LQ.53. Trách nhiệm của cơ quan, tổ chức, cá nhân
+
+### 18005000000000006000002000000000000000000530000000000000000000402688300310000700
+
+Điều 18.5.NĐ.4.7. Trách nhiệm của người giải quyết tố cáo khi nhận được văn bản đề nghị áp dụng các biện pháp bảo vệ
+
+### 1800500000000000600000200000000000000000053000000000000000000040268830031000070000802735100030000400
+
+Điều 18.5.TT.7.4. Thẩm quyền áp dụng biện pháp bảo vệ
+
+### 18005000000000006000002000000000000000000530000000000000000000402688300310000800
+
+Điều 18.5.NĐ.4.8. Trách nhiệm của cơ quan được đề nghị hoặc yêu cầu áp dụng biện pháp bảo vệ
+
+### 1800500000000000600000200000000000000000053000000000000000000040268830031000080000802743700080000700
+
+Điều 18.5.TT.9.7. Trách nhiệm của người sử dụng người lao động
+
+### 1800500000000000600000200000000000000000053000000000000000000040268830031000080000802743700080000800
+
+Điều 18.5.TT.9.8. Trách nhiệm của tổ chức đại diện người lao động
+
+### 1800500000000000600000200000000000000000053000000000000000000040268830031000080000802743700080000900
+
+Điều 18.5.TT.9.9. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+
+### 180050000000000060000020000000000000000005400000000000000000
+
+Điều 18.5.LQ.54. Thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ
+
+### 180050000000000060000020000000000000000005500000000000000000
+
+Điều 18.5.LQ.55. Hồ sơ áp dụng biện pháp bảo vệ
+
+### 18005000000000006000002000000000000000000550000000000000000000802751201450000900
+
+Điều 18.5.TT.11.9. Hồ sơ áp dụng biện pháp bảo vệ
+
+### 1800500000000000600000300000000000000000
+
+Mục 3 CÁC BIỆN PHÁP BẢO VỆ
+
+### 180050000000000060000030000000000000000005600000000000000000
+
+Điều 18.5.LQ.56. Biện pháp bảo vệ bí mật thông tin
+
+### 18005000000000006000003000000000000000000560000000000000000000802735100030000600
+
+Điều 18.5.TT.7.6. Biện pháp bảo vệ
+
+### 180050000000000060000030000000000000000005700000000000000000
+
+Điều 18.5.LQ.57. Biện pháp bảo vệ vị trí công tác, việc làm
+
+### 18005000000000006000003000000000000000000570000000000000000000802735100030000300
+
+Điều 18.5.TT.7.3. Nội dung bảo vệ vị trí công tác
+
+### 180050000000000060000030000000000000000005800000000000000000
+
+Điều 18.5.LQ.58. Biện pháp bảo vệ tính mạng, sức khoẻ, tài sản, danh dự, nhân phẩm
+
+### 18005000000000006000003000000000000000000580000000000000000000802751201450001000
+
+Điều 18.5.TT.11.10. Biện pháp bảo vệ
+
+### 18005000000000007000
+
+Chương VII TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG VIỆC QUẢN LÝ CÔNG TÁC GIẢI QUYẾT TỐ CÁO
+
+### 1800500000000000700005900000000000000000
+
+Điều 18.5.LQ.59. Trách nhiệm của cơ quan quản lý nhà nước về công tác giải quyết tố cáo
+
+### 180050000000000070000590000000000000000000402683900220001600
+
+Điều 18.5.NĐ.2.16. Quản lý công tác giải quyết tố cáo trong Công an nhân dân
+
+### 18005000000000007000059000000000000000000040268390022000160000802736400850001800
+
+Điều 18.5.TT.8.18. Quản lý công tác giải quyết tố cáo
+
+### 180050000000000070000590000000000000000000402683900220001800
+
+Điều 18.5.NĐ.2.18. Trách nhiệm của Thanh tra Chính phủ về công tác giải quyết tố cáo trong Công an nhân dân
+
+### 180050000000000070000590000000000000000000402686200280001600
+
+Điều 18.5.NĐ.3.16. Quản lý công tác giải quyết tố cáo
+
+### 180050000000000070000590000000000000000000402686200280001800
+
+Điều 18.5.NĐ.3.18. Trách nhiệm của Thanh tra Chính phủ về công tác giải quyết tố cáo trong Quân đội nhân dân
+
+### 1800500000000000700006000000000000000000
+
+Điều 18.5.LQ.60. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân, Kiểm toán nhà nước, cơ quan khác của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội
+
+### 1800500000000000700006100000000000000000
+
+Điều 18.5.LQ.61. Trách nhiệm thông tin, báo cáo trong công tác giải quyết tố cáo
+
+### 180050000000000070000610000000000000000000402683900220001700
+
+Điều 18.5.NĐ.2.17. Báo cáo công tác giải quyết tố cáo
+
+### 18005000000000007000061000000000000000000040268390022000170000802736400850001900
+
+Điều 18.5.TT.8.19. Báo cáo công tác giải quyết tố cáo
+
+### 180050000000000070000610000000000000000000402686200280001900
+
+Điều 18.5.NĐ.3.19. Báo cáo công tác giải quyết tố cáo
+
+### 18005000000000008000
+
+Chương VIII KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
+
+### 1800500000000000800006200000000000000000
+
+Điều 18.5.LQ.62. Khen thưởng
+
+### 180050000000000080000620000000000000000000802494400401001600
+
+Điều 18.5.TT.1.16. Khen thưởng
+
+### 1800500000000000800006300000000000000000
+
+Điều 18.5.LQ.63. Xử lý hành vi vi phạm của người giải quyết tố cáo
+
+### 180050000000000080000630000000000000000000802494400401001700
+
+Điều 18.5.TT.1.17. Xử lý vi phạm
+
+### 1800500000000000800006400000000000000000
+
+Điều 18.5.LQ.64. Xử lý hành vi vi phạm của người có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm bị tố cáo
+
+### 1800500000000000800006500000000000000000
+
+Điều 18.5.LQ.65. Xử lý hành vi vi phạm của người tố cáo và những người khác có liên quan
+
+### 18005000000000009000
+
+Chương IX ĐIỀU KHOẢN THI HÀNH
+
+### 1800500000000000900006600000000000000000
+
+Điều 18.5.LQ.66. Hiệu lực thi hành
+
+### 1800500000000000900006700000000000000000
+
+Điều 18.5.LQ.67. Quy định chi tiết
+
+### 180050000000000090000670000000000000000000402686200280000800
+
+Điều 18.5.NĐ.3.8. Thụ lý tố cáo trong trường hợp người bị tố cáo đang thực hiện nhiệm vụ chiến đấu, phục vụ chiến đấu hoặc trong tình trạng khẩn cấp
+
+### 1800500000000000900006740268390022000190
+
+Điều 18.5.NĐ.2.19. Hiệu lực thi hành
+
+### 1800500000000000900006740268390022000200
+
+Điều 18.5.NĐ.2.20. Trách nhiệm thi hành
+
+### 1800500000000000900006740268620028000200
+
+Điều 18.5.NĐ.3.20. Hiệu lực thi hành
+
+### 1800500000000000900006740268620028000210
+
+Điều 18.5.NĐ.3.21. Trách nhiệm thi hành
+
+### 1800500000000000900006740268830031000240
+
+Điều 18.5.NĐ.4.24. Hiệu lực thi hành
+
+### 1800500000000000900006740268830031000250
+
+Điều 18.5.NĐ.4.25. Trách nhiệm thi hành
+
+### 1800500000000000900006780273510003000070
+
+Điều 18.5.TT.7.7. Hiệu lực thi hành
+
+### 1800500000000000900006780274370008000100
+
+Điều 18.5.TT.9.10. Hiệu lực thi hành
+
+### 1800500000000000900006780274370008000110
+
+Điều 18.5.TT.9.11. Tổ chức thực hiện
+
+### 1800500000000000900006780274910129000300
+
+Điều 18.5.TT.10.30. Hiệu lực thi hành
+
+### 1800500000000000900006780274910129000310
+
+Điều 18.5.TT.10.31. Trách nhiệm thi hành
+
+### 1800500000000000900006780275120145000110
+
+Điều 18.5.TT.11.11. Kinh phí đảm bảo áp dụng biện pháp bảo vệ
+
+### 1800500000000000900006780275120145000120
+
+Điều 18.5.TT.11.12. Hiệu lực, điều khoản chuyển tiếp, trách nhiệm thi hành
+

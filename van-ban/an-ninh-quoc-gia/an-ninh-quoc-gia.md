@@ -1,2649 +1,3785 @@
 ---
-layout: default
+layout: page
 title: An ninh quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/an-ninh-quoc-gia/
-collection: subtopics
-slug: an-ninh-quoc-gia
-parent: an-ninh-quoc-gia
 ---
 
 # An ninh quốc gia
 
-**Đề mục:** An ninh quốc gia  
-**Chủ đề:** [An ninh quốc gia](/an-ninh-quoc-gia/)  
-**Số điều khoản:** 206  
-**Điều khoản có nội dung:** 201/201 (100.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 1.1.LQ.1. Phạm vi điều chỉnh
+Điều 1.1.LQ.1. Phạm vi điều chỉnh
+
+(Điều 1 Luật số 32/2004/QH11 An ninh Quốc gia ngày 03/12/2004 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2005 )
 
 Luật này quy định về chính sách an ninh quốc gia; nguyên tắc, nhiệm vụ, biện pháp bảo vệ an ninh quốc gia; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, công dân trong bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 1.12.LQ.11. Biện pháp, chế độ cảnh vệ đối với người giữ chức vụ, chức danh cấp cao của Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Điều 1.11.LQ.1. Phạm vi điều chỉnh; Điều 1.6.LQ.16. Nhiệm vụ và quyền hạn của Công an nhân dân)
 
-**Mã phân cấp:** 0100100000000000100000100000000000000000
+Điều 1.1.LQ.2. Đối tượng áp dụng
 
-**ID:** dk_00000001
-
----
-
-
-### Điều 1.1.LQ.2. Đối tượng áp dụng
+(Điều 2 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Luật này áp dụng đối với cơ quan, tổ chức, công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam; cá nhân, tổ chức nước ngoài, tổ chức quốc tế cư trú, hoạt động trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam; trong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập quy định khác thì áp dụng theo điều ước quốc tế đó.
 
-**Chỉ mục:** 2
+Điều 1.1.NĐ.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0100100000000000100000200000000000000000
-
-**ID:** dk_00000002
-
----
-
-
-### Điều 1.1.NĐ.1.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 16/2006/NĐ-CP Quy định về việc khôi phục danh dự, đền bù, trợ cấp cho cơ quan, tổ chức, cá nhân bị thiệt hại do tham gia bảo vệ an ninh quốc gia ngày 25/01/2006 của Chính phủ, có hiệu lực thi hành kể từ ngày 22/02/2006 )
 
 Nghị định này quy định việc khôi phục danh dự đối với cơ quan, tổ chức, cá nhân bị tổn hại về danh dự; đền bù thiệt hại đối với cơ quan, tổ chức, cá nhân bị thiệt hại về tài sản; chế độ trợ cấp đối với cá nhân bị thương tích, bị tổn hại về sức khoẻ, bị thiệt hại về tính mạng do tham gia bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 1
+Cá nhân, cơ quan, tổ chức nước ngoài, tổ chức quốc tế bị tổn hại về danh dự, thiệt hại tài sản; người nước ngoài bị thương tích, bị tổn hại về sức khỏe, bị thiệt hại về tính mạng do tham gia bảo vệ an ninh quốc gia trên lãnh thổ Việt Nam được nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện khôi phục danh dự, đền bù thiệt hại và thực hiện chế độ trợ cấp theo quy định của Nghị định này.
 
-**Mã phân cấp:** 0100100000000000100000240220600016000010
+Trường hợp Điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng theo Điều ước quốc tế đó.
 
-**ID:** dk_00000003
+Điều 1.1.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
----
-
-
-### Điều 1.1.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+(Điều 1 Nghị định số 38/2006/NĐ-CP Về Bảo vệ dân phố ngày 17/04/2006 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/05/2006 )
 
 Nghị định này quy định về chức năng, nhiệm vụ, quyền hạn, nguyên tắc tổ chức, hoạt động và chế độ, chính sách đối với Bảo vệ dân phố.
 
-**Chỉ mục:** 1
+Điều 1.1.NĐ.3.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0100100000000000100000240221420038000010
-
-**ID:** dk_00000004
-
----
-
-
-### Điều 1.1.NĐ.3.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 127/2006/NĐ-CP Quy định về bảo đảm điều kiện cho hoạt động bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội ngày 27/10/2006 của Chính phủ, có hiệu lực thi hành kể từ ngày 27/11/2006 )
 
 Nghị định này quy định chi tiết thi hành một số điều của Luật An ninh quốc gia và Luật Công an nhân dân về việc bảo đảm điều kiện về ngân sách, cơ sở vật chất, huy động thành tựu khoa học và công nghệ, dự trữ quốc gia để phục vụ hoạt động bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội (sau đây gọi chung là an ninh, trật tự).
 
-**Chỉ mục:** 1
+Điều 1.1.NĐ.3.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0100100000000000100000240223350127000010
-
-**ID:** dk_00000005
-
----
-
-
-### Điều 1.1.NĐ.3.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
 Nghị định này áp dụng với cá nhân, tổ chức Việt Nam; cá nhân, tổ chức nước ngoài, tổ chức quốc tế đang hoạt động trên lãnh thổ Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng theo điều ước quốc tế đó.
 
-**Chỉ mục:** 2
+Điều 1.1.NĐ.4.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0100100000000000100000240223350127000020
-
-**ID:** dk_00000006
-
----
-
-
-### Điều 1.1.NĐ.4.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 35/2011/NĐ-CP Về biện pháp pháp luật bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội ngày 18/05/2011 của Chính phủ, có hiệu lực thi hành kể từ ngày 10/07/2011 )
 
 Nghị định này quy định nội dung, nguyên tắc, thẩm quyền, trách nhiệm và bảo đảm điều kiện cho việc áp dụng biện pháp pháp luật bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội (trong Nghị định này viết tắt là biện pháp pháp luật bảo vệ an ninh, trật tự).
 
-**Chỉ mục:** 1
+Điều 1.1.NĐ.4.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0100100000000000100000240239990035000010
-
-**ID:** dk_00000007
-
----
-
-
-### Điều 1.1.NĐ.4.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 Nghị định này áp dụng đối với cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự; cơ quan, tổ chức, công dân Việt Nam; cơ quan, tổ chức, cá nhân nước ngoài, tổ chức quốc tế cư trú, hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng điều ước quốc tế đó.
 
-**Chỉ mục:** 2
+Điều 1.1.NĐ.5.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0100100000000000100000240239990035000020
-
-**ID:** dk_00000008
-
----
-
-
-### Điều 1.1.NĐ.5.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 06/2013/NĐ-CP Quy định về bảo vệ cơ quan, doanh nghiệp ngày 09/01/2013 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/03/2013 )
 
 Nghị định này quy định về chức năng, nhiệm vụ, quyền hạn, tổ chức, hoạt động, chế độ, chính sách đối với lực lượng bảo vệ tại các cơ quan nhà nước, doanh nghiệp, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội được thành lập theo quy định của pháp luật Việt Nam (sau đây gọi chung là cơ quan, doanh nghiệp).
 
-**Chỉ mục:** 1
+Điều 1.1.NĐ.5.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0100100000000000100000240246010006000010
-
-**ID:** dk_00000009
-
----
-
-
-### Điều 1.1.NĐ.5.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
 Nghị định này áp dụng đối với cơ quan, doanh nghiệp Việt Nam; doanh nghiệp, tổ chức nước ngoài hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam và cơ quan, tổ chức, cá nhân có liên quan đến hoạt động bảo vệ cơ quan, doanh nghiệp. Các cơ quan, doanh nghiệp do Công an nhân dân và Quân đội nhân dân quản lý không thuộc đối tượng áp dụng của Nghị định này.
 
-**Chỉ mục:** 2
+Trường hợp Điều ước quốc tế mà Việt Nam là thành viên có quy định khác thì áp dụng theo quy định của Điều ước quốc tế đó.
 
-**Mã phân cấp:** 0100100000000000100000240246010006000020
+Điều 1.1.NĐ.6.1. Phạm vi điều chỉnh
 
-**ID:** dk_00000010
-
----
-
-
-### Điều 1.1.NĐ.6.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 06/2014/NĐ-CP Về biện pháp vận động quần chúng bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội ngày 21/01/2014 của Chính phủ, có hiệu lực thi hành kể từ ngày 08/03/2014 )
 
 Nghị định này quy định nguyên tắc, nội dung, hình thức, trình tự, thủ tục, thẩm quyền, trách nhiệm và bảo đảm điều kiện áp dụng biện pháp vận động quần chúng bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội (sau đây gọi chung là bảo vệ an ninh, trật tự); chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia công tác bảo vệ an ninh, trật tự.
 
-**Chỉ mục:** 1
+Điều 1.1.NĐ.6.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0100100000000000100000240249780006000010
-
-**ID:** dk_00000011
-
----
-
-
-### Điều 1.1.NĐ.6.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
 Nghị định này áp dụng đối với cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự; cơ quan, tổ chức Việt Nam, cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam (sau đây gọi chung là cơ quan, tổ chức); công dân Việt Nam, cá nhân nước ngoài cư trú, hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam (sau đây gọi chung là cá nhân). Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng quy định của điều ước quốc tế đó.
 
-**Chỉ mục:** 2
+Điều 1.1.TL.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Mã phân cấp:** 0100100000000000100000240249780006000020
-
-**ID:** dk_00000012
-
----
-
-
-### Điều 1.1.TL.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
+(Điều 1 Thông tư liên tịch số 02/2007/TTLT-BCA-BLĐTBXH-BTC Thông tư hướng dẫn thực hiện Nghị định số 38/2006/NĐ-CP ngày 17 tháng 4 năm 2006 của Chính phủ về bảo vệ dân phố ngày 01/03/2007 của Bộ Lao động - Thương Binh và Xã hội, Bộ Tài chính và Bộ Công an, có hiệu lực thi hành kể từ ngày 25/04/2007 )
 
 Thông tư này hướng dẫn về nhiệm vụ, quyền hạn, tổ chức hoạt động và chế độ chính sách đối với Bảo vệ dân phố.
 
-**Chỉ mục:** 1
+Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài cư trú, hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam phải tuân thủ các quy định của Nghị định số 38/2006/NĐ-CP và hướng dẫn của Thông tư này, trừ trường hợp Điều ước quốc tế mà Việt Nam là thành viên có quy định khác thì áp dụng Điều ước quốc tế đó.
 
-**Mã phân cấp:** 0100100000000000100000280224600002000010
+Điều 1.1.TT.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00000013
-
----
-
-
-### Điều 1.1.TT.1.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 46/2014/TT-BCA Quy định chi tiết một số điều của Nghị định số 06/2013/NĐ-CP ngày 09 tháng 01 năm 2013 quy định về bảo vệ cơ quan, doanh nghiệp ngày 16/10/2014 của Bộ Công an, có hiệu lực thi hành kể từ ngày 06/12/2014 )
 
 Thông tư này quy định chi tiết thi hành một số điều của Nghị định số 06/2013/NĐ-CP gồm: Nội dung các biện pháp nghiệp vụ bảo vệ; tổ chức, đơn vị sử dụng ngân sách nhà nước được thuê dịch vụ bảo vệ thường xuyên, lâu dài; công tác phối hợp giữa cơ quan Công an với các cơ quan, doanh nghiệp trong quản lý và kiểm tra việc thực hiện nhiệm vụ bảo vệ; huấn luyện nghiệp vụ bảo vệ; giấy chứng nhận nhân viên bảo vệ; trang bị, quản lý, sử dụng vũ khí thô sơ, công cụ hỗ trợ và các loại phương tiện đối với lực lượng bảo vệ cơ quan, doanh nghiệp.
 
-**Chỉ mục:** 1
+Điều 1.1.TT.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0100100000000000100000280252460046000010
-
-**ID:** dk_00000014
-
----
-
-
-### Điều 1.1.TT.1.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
 Thông tư này áp dụng đối với:
 
-**Chỉ mục:** 2
+1. Cơ quan, doanh nghiệp Việt Nam; doanh nghiệp, tổ chức nước ngoài hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-**Mã phân cấp:** 0100100000000000100000280252460046000020
+2. Lực lượng bảo vệ cơ quan, doanh nghiệp.
 
-**ID:** dk_00000015
+3. Công an các đơn vị, địa phương.
 
----
+4. Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động bảo vệ cơ quan, doanh nghiệp.
 
+Điều 1.1.TT.2.1. Phạm vi điều chỉnh
 
-### Điều 1.1.TT.2.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 08/2016/TT-BCA Quy định trang phục cho lực lượng bảo vệ cơ quan, doanh nghiệp ngày 06/02/2016 của Bộ Công an, có hiệu lực thi hành kể từ ngày 05/04/2016 )
 
 Thông tư này quy định chi tiết về mẫu, cấu tạo, màu sắc, kiểu dáng trang phục, sao hiệu, cấp hiệu, phù hiệu, ký hiệu, biển hiệu (sau đây gọi chung là trang phục); niên hạn, cấp phát và sử dụng trang phục của lực lượng bảo vệ tại các cơ quan nhà nước, doanh nghiệp, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội được thành lập theo quy định của pháp luật Việt Nam (sau đây gọi chung là cơ quan, doanh nghiệp).
 
-**Chỉ mục:** 1
+Điều 1.1.TT.2.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0100100000000000100000280257240008000010
-
-**ID:** dk_00000016
-
----
-
-
-### Điều 1.1.TT.2.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Thông tư này áp dụng đối với:
 
-**Chỉ mục:** 2
+a) Lực lượng bảo vệ tại các cơ quan, doanh nghiệp;
 
-**Mã phân cấp:** 0100100000000000100000280257240008000020
+b) Cơ quan, doanh nghiệp Việt Nam; doanh nghiệp, tổ chức nước ngoài hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
-**ID:** dk_00000017
+c) Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động bảo vệ cơ quan, doanh nghiệp.
 
----
+2. Các cơ quan, doanh nghiệp và lực lượng bảo vệ trong các cơ quan, doanh nghiệp do Công an nhân dân và Quân đội nhân dân quản lý không thuộc đối tượng áp dụng của Thông tư này.
 
+Điều 1.1.TL.2.1. Phạm vi điều chỉnh
 
-### Điều 1.1.TL.2.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA Hướng dẫn phối hợp công tác bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch ngày 04/05/2016 của Bộ Văn hóa - Thể thao và Du lịch và Bộ Công an, có hiệu lực thi hành kể từ ngày 25/06/2016 )
 
 Thông tư này quy định nguyên tắc, phương thức, nội dung và trách nhiệm phối hợp giữa cơ quan, đơn vị trong Công an nhân dân và cơ quan, tổ chức của ngành Văn hóa, Thể thao và Du lịch trong việc bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội (sau đây viết gọn là bảo đảm an ninh, trật tự) trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 41.5.TT.2.17. Khóa cập nhật kiến thức cho hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch quốc tế)
 
-**Mã phân cấp:** 0100100000000000100000280258120002000010
+Điều 1.1.TL.2.2. Đối tượng áp dụng
 
-**ID:** dk_00000018
-
----
-
-
-### Điều 1.1.TL.2.2. Đối tượng áp dụng
+(Điều 2 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
 Thông tư này áp dụng đối với cơ quan, đơn vị trong Công an nhân dân, cơ quan, tổ chức của ngành Văn hóa, Thể thao và Du lịch từ trung ương đến địa phương.
 
-**Chỉ mục:** 2
+Điều 1.1.TL.3.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0100100000000000100000280258120002000020
-
-**ID:** dk_00000019
-
----
-
-
-### Điều 1.1.TL.3.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA Quy định về phối hợp công tác bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính ngày 20/06/2016 của Bộ Công an và Bộ Tài chính, có hiệu lực thi hành kể từ ngày 05/08/2016 )
 
 Thông tư này quy định nguyên tắc, nội dung, phạm vi và trách nhiệm phối hợp ở các cơ quan, đơn vị thuộc và trực thuộc Bộ Tài chính và Bộ Công an trong thực hiện nhiệm vụ bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính.
 
-**Chỉ mục:** 1
+Điều 1.1.TL.3.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0100100000000000100000280258590085000010
-
-**ID:** dk_00000020
-
----
-
-
-### Điều 1.1.TL.3.2. Đối tượng áp dụng
+(Điều 2 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
 Thông tư này áp dụng đối với các cơ quan, đơn vị thuộc và trực thuộc Bộ Tài chính và Bộ Công an ở Trung ương và địa phương (sau đây gọi chung là hai bên) trong việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính.
 
-**Chỉ mục:** 2
+Điều 1.1.LQ.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 0100100000000000100000280258590085000020
-
-**ID:** dk_00000021
-
----
-
-
-### Điều 1.1.LQ.3. Giải thích từ ngữ
+(Điều 3 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. An ninh quốc gia là sự ổn định, phát triển bền vững của chế độ xã hội chủ nghĩa và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, sự bất khả xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc.
 
-**Mã phân cấp:** 0100100000000000100000300000000000000000
+2. Bảo vệ an ninh quốc gia là phòng ngừa, phát hiện, ngăn chặn, đấu tranh làm thất bại các hoạt động xâm phạm an ninh quốc gia.
 
-**ID:** dk_00000022
+3. Hoạt động xâm phạm an ninh quốc gia là những hành vi xâm phạm chế độ chính trị, chế độ kinh tế, nền văn hoá, an ninh, quốc phòng, đối ngoại, độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
 
----
+4. Nguy cơ đe doạ an ninh quốc gia là những nhân tố bên trong, bên ngoài lãnh thổ Việt Nam có khả năng thực tế gây nguy hại cho an ninh quốc gia của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
 
+5. Cơ quan chuyên trách bảo vệ an ninh quốc gia là cơ quan chỉ đạo, chỉ huy và đơn vị nghiệp vụ thuộc lực lượng vũ trang nhân dân được giao nhiệm vụ chuyên trách làm tham mưu, tổ chức, trực tiếp thực hiện nhiệm vụ bảo vệ an ninh quốc gia.
 
-### Điều 1.1.NĐ.1.2. Giải thích từ ngữ
+6. Cán bộ chuyên trách bảo vệ an ninh quốc gia là sĩ quan, hạ sĩ quan của cơ quan chuyên trách bảo vệ an ninh quốc gia được giao nhiệm vụ chuyên trách làm tham mưu, tổ chức, trực tiếp thực hiện nhiệm vụ bảo vệ an ninh quốc gia.
+
+7. Biện pháp nghiệp vụ là biện pháp công tác của cơ quan chuyên trách bảo vệ an ninh quốc gia được thực hiện theo quy định của pháp luật.
+
+8. Mục tiêu quan trọng về an ninh quốc gia là những đối tượng, địa điểm, công trình, cơ sở về chính trị, an ninh, quốc phòng, kinh tế, khoa học - kỹ thuật, văn hoá, xã hội thuộc danh mục cần được bảo vệ do pháp luật quy định.
+
+9. Nền an ninh nhân dân là sức mạnh về tinh thần, vật chất, sự đoàn kết và truyền thống dựng nước, giữ nước của toàn dân tộc được huy động vào sự nghiệp bảo vệ an ninh quốc gia, trong đó lực lượng chuyên trách bảo vệ an ninh quốc gia làm nòng cốt.
+
+10. Thế trận an ninh nhân dân là việc tổ chức, bố trí lực lượng bảo vệ an ninh quốc gia và các nguồn lực cần thiết để chủ động bảo vệ an ninh quốc gia.
+
+Điều 1.1.NĐ.1.2. Giải thích từ ngữ
+
+(Điều 2 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
 Trong Nghị định này các từ ngữ sau đây được hiểu như sau:
 
-**Chỉ mục:** 2
+1. Tham gia bảo vệ an ninh quốc gia là hoạt động của cơ quan, tổ chức, cá nhân trong công tác phòng ngừa, phát hiện, ngăn chặn, đấu tranh với các hoạt động xâm phạm an ninh quốc gia dưới sự quản lý, hướng dẫn, theo dõi của cơ quan chuyên trách bảo vệ an ninh quốc gia hoặc cá nhân tự giác tham gia.
 
-**Mã phân cấp:** 0100100000000000100000340220600016000020
+2. Tổn hại về danh dự là bị làm giảm hoặc làm mất đi sự coi trọng, đánh giá tốt đẹp của xã hội đối với cơ quan, tổ chức, cá nhân.
 
-**ID:** dk_00000023
+3. Đền bù vật chất là đền bù bằng tiền hoặc bằng hiện vật.
 
----
+4. Trợ cấp vật chất là trợ cấp bằng tiền hoặc hiện vật.
 
+Điều 1.1.NĐ.4.3. Giải thích từ ngữ
 
-### Điều 1.1.NĐ.4.3. Giải thích từ ngữ
-
-Trong Nghị định này, những từ ngữ sau đây được hiểu như sau:
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 0100100000000000100000340239990035000030
-
-**ID:** dk_00000024
-
----
-
-
-### Điều 1.1.NĐ.6.3. Giải thích từ ngữ
+(Điều 3 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 Trong Nghị định này, những từ ngữ sau đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. Biện pháp pháp luật bảo vệ an ninh, trật tự là cách thức, phương pháp xây dựng pháp luật, ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế và sử dụng pháp luật, điều ước quốc tế, thỏa thuận quốc tế để bảo vệ an ninh, trật tự.
 
-**Mã phân cấp:** 0100100000000000100000340249780006000030
+2. Cơ quan chuyên trách bảo vệ an ninh, trật tự là cơ quan chỉ đạo, chỉ huy và đơn vị nghiệp vụ thuộc Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ chuyên trách làm tham mưu, tổ chức, trực tiếp thực hiện nhiệm vụ bảo vệ an ninh, trật tự.
 
-**ID:** dk_00000025
+3. Cán bộ chuyên trách bảo vệ an ninh, trật tự là sỹ quan, hạ sỹ quan của cơ quan chuyên trách bảo vệ an ninh, trật tự thuộc Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ chuyên trách tham mưu, tổ chức, trực tiếp thực hiện nhiệm vụ bảo vệ an ninh, trật tự.
 
----
+Điều 1.1.NĐ.6.3. Giải thích từ ngữ
 
+(Điều 3 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
-### Điều 1.1.LQ.4. Chính sách an ninh quốc gia
+Trong Nghị định này, những từ ngữ sau đây được hiểu như sau:
+
+1. Biện pháp vận động quần chúng bảo vệ an ninh, trật tự là việc huy động và sử dụng sức mạnh của cơ quan, tổ chức, cá nhân tham gia công tác bảo vệ an ninh, trật tự.
+
+2. Cơ quan chuyên trách bảo vệ an ninh, trật tự là cơ quan chỉ đạo, chỉ huy và đơn vị nghiệp vụ thuộc Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ chuyên trách làm tham mưu, tổ chức, trực tiếp thực hiện nhiệm vụ bảo vệ an ninh, trật tự.
+
+3. Cán bộ chuyên trách bảo vệ an ninh, trật tự là sĩ quan, hạ sĩ quan của cơ quan chuyên trách bảo vệ an ninh, trật tự thuộc Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ chuyên trách tham mưu, tổ chức, trực tiếp thực hiện nhiệm vụ bảo vệ an ninh, trật tự.
+
+Điều 1.1.LQ.4. Chính sách an ninh quốc gia
+
+(Điều 4 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện chính sách hòa bình, hữu nghị, mở rộng giao lưu và hợp tác với tất cả các nước trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ của nhau, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.
 
-**Chỉ mục:** 4
+2. Nhà nước có chính sách xây dựng khối đại đoàn kết toàn dân tộc; phát triển kinh tế, văn hoá, xã hội, khoa học, công nghệ, an ninh, quốc phòng, đối ngoại vững mạnh, giữ vững ổn định chính trị để bảo đảm an ninh quốc gia.
 
-**Mã phân cấp:** 0100100000000000100000400000000000000000
+Điều 1.1.LQ.5. Nguyên tắc hoạt động bảo vệ an ninh quốc gia
 
-**ID:** dk_00000026
-
----
-
-
-### Điều 1.1.LQ.5. Nguyên tắc hoạt động bảo vệ an ninh quốc gia
+(Điều 5 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Tuân thủ Hiến pháp, pháp luật, bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
 
-**Chỉ mục:** 5
+2. Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước; huy động sức mạnh tổng hợp của hệ thống chính trị và toàn dân tộc, lực lượng chuyên trách bảo vệ an ninh quốc gia làm nòng cốt.
 
-**Mã phân cấp:** 0100100000000000100000500000000000000000
+3. Kết hợp chặt chẽ giữa nhiệm vụ bảo vệ an ninh quốc gia với nhiệm vụ xây dựng, phát triển kinh tế, văn hoá, xã hội; phối hợp có hiệu quả hoạt động an ninh, quốc phòng và đối ngoại.
 
-**ID:** dk_00000027
+4. Chủ động phòng ngừa, chủ động đấu tranh làm thất bại mọi âm mưu và hoạt động xâm phạm an ninh quốc gia.
 
----
+Điều 1.1.NĐ.2.3. Nguyên tắc hoạt động của Bảo vệ dân phố
 
-
-### Điều 1.1.NĐ.2.3. Nguyên tắc hoạt động của Bảo vệ dân phố
+(Điều 3 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 Bảo vệ dân phố chịu sự lãnh đạo toàn diện của Đảng uỷ phường, sự giám sát của Hội đồng nhân dân phường, sự quản lý điều hành của Ủy ban nhân dân phường và sự chỉ đạo, hướng dẫn trực tiếp công tác của Công an phường.
 
-**Chỉ mục:** 3
+Mọi hoạt động của Bảo vệ dân phố được thực hiện theo quy định của Nghị định này và các quy định khác của pháp luật. Nghiêm cấm mọi hành vi lợi dụng danh nghĩa của Bảo vệ dân phố để thực hiện hành vi trái pháp luật, xâm phạm đến quyền và lợi ích hợp pháp của công dân.
 
-**Mã phân cấp:** 010010000000000010000050000000000000000000402214200380000300
+Điều 1.1.NĐ.4.4. Nguyên tắc áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự
 
-**ID:** dk_00000028
-
----
-
-
-### Điều 1.1.NĐ.4.4. Nguyên tắc áp dụng biện pháp pháp luật  bảo vệ an ninh, trật tự
+(Điều 4 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 1. Cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi thực hiện biện pháp pháp luật bảo vệ an ninh, trật tự phải:
 
-**Chỉ mục:** 4
+a) Tuân thủ Hiến pháp, pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, thỏa thuận quốc tế mà cơ quan có thẩm quyền của nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký;
 
-**Mã phân cấp:** 010010000000000010000050000000000000000000402399900350000400
+b) Không được lợi dụng biện pháp pháp luật bảo vệ an ninh, trật tự để xâm phạm lợi ích Nhà nước, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
 
-**ID:** dk_00000029
+c) Thực hiện đúng chức năng, nhiệm vụ, quyền hạn và thẩm quyền do pháp luật quy định, bảo đảm tính hiệu quả;
 
----
+d) Kết hợp việc áp dụng biện pháp pháp luật với sức mạnh quần chúng, sức mạnh của hoạt động ngoại giao, kinh tế, nghiệp vụ, khoa học - kỹ thuật và vũ trang để bảo vệ an ninh, trật tự.
 
+2. Cơ quan, tổ chức, công dân Việt Nam; cơ quan, tổ chức, cá nhân nước ngoài, tổ chức quốc tế cư trú, hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam có trách nhiệm tôn trọng và thực hiện nghiêm chỉnh yêu cầu của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự; tạo điều kiện, giúp cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự thực hiện biện pháp pháp luật bảo vệ an ninh, trật tự.
 
-### Điều 1.1.NĐ.5.3. Nguyên tắc tổ chức và hoạt động của lực lượng bảo vệ cơ quan, doanh nghiệp
+Điều 1.1.NĐ.5.3. Nguyên tắc tổ chức và hoạt động của lực lượng bảo vệ cơ quan, doanh nghiệp
 
-1. Tổ chức bảo vệ cơ quan, doanh nghiệp do người đứng đầu cơ quan, doanh nghiệp quyết định thành lập; chịu sự chỉ đạo, điều hành trực tiếp của người đứng đầu cơ quan, doanh nghiệp và hướng dẫn, kiểm tra về nghiệp vụ bảo vệ của cơ quan Công an.
+(Điều 3 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**Chỉ mục:** 3
+ 1. Tổ chức bảo vệ cơ quan, doanh nghiệp do người đứng đầu cơ quan, doanh nghiệp quyết định thành lập; chịu sự chỉ đạo, điều hành trực tiếp của người đứng đầu cơ quan, doanh nghiệp và hướng dẫn, kiểm tra về nghiệp vụ bảo vệ của cơ quan Công an.
 
-**Mã phân cấp:** 010010000000000010000050000000000000000000402460100060000300
+ 2. Tổ chức và hoạt động của lực lượng bảo vệ cơ quan, doanh nghiệp phải thực hiện theo đúng quy định của Nghị định này và các quy định khác của pháp luật có liên quan. Nghiêm cấm mọi hành vi lợi dụng danh nghĩa bảo vệ cơ quan, doanh nghiệp để thực hiện hành vi trái pháp luật, xâm phạm đến quyền và lợi ích hợp pháp của tổ chức, cá nhân.Điều 1.1.NĐ.6.4. Nguyên tắc áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
 
-**ID:** dk_00000030
+(Điều 4 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
----
+ 1. Tuân thủ Hiến pháp, pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
+ 2. Kết hợp chặt chẽ giữa biện pháp vận động quần chúng với các biện pháp công tác khác để bảo vệ an ninh, trật tự.
 
-### Điều 1.1.NĐ.6.4. Nguyên tắc áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
+ 3. Không được lợi dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự để xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.Điều 1.1.LQ.6. Xây dựng lực lượng bảo vệ an ninh quốc gia
 
-1. Tuân thủ Hiến pháp, pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam.
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 010010000000000010000050000000000000000000402497800060000400
-
-**ID:** dk_00000031
-
----
-
-
-### Điều 1.1.LQ.6. Xây dựng lực lượng bảo vệ an ninh quốc gia
+(Điều 6 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Nhà nước xây dựng lực lượng chuyên trách bảo vệ an ninh quốc gia cách mạng, chính quy, tinh nhuệ, từng bước hiện đại làm nòng cốt thực hiện nhiệm vụ bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 6
+2. Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm xây dựng lực lượng công an xã, dân quân tự vệ, bảo vệ cơ quan, doanh nghiệp, bảo vệ dân phố, dân phòng tham gia hoạt động bảo vệ an ninh quốc gia theo quy định của pháp luật.
 
-**Mã phân cấp:** 0100100000000000100000600000000000000000
+(Điều này có nội dung liên quan đến Điều 39.16.LQ.32. Sửa đổi, bổ sung, bãi bỏ một số điều, khoản của các luật có liên quan; Điều 39.2.PL.5. Xây dựng lực lượng Công an xã)
 
-**ID:** dk_00000032
+Điều 1.1.NĐ.2.2. Vị trí, chức năng của Bảo vệ dân phố
 
----
-
-
-### Điều 1.1.NĐ.2.2. Vị trí, chức năng của Bảo vệ dân phố
+(Điều 2 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Bảo vệ dân phố là lực lượng quần chúng tự nguyện làm nòng cốt trong phong trào bảo vệ an ninh quốc gia và trật tự an toàn xã hội, được thành lập ở các phường, thị trấn (sau đây gọi chung là phường) nơi bố trí lực lượng Công an chính quy, do Ủy ban nhân dân phường quyết định thành lập.
 
-**Chỉ mục:** 2
+2. Bảo vệ dân phố có trách nhiệm làm nòng cốt trong việc thực hiện phong trào quần chúng, bảo vệ an ninh tổ quốc, thực hiện một số biện pháp công tác phòng ngừa đấu tranh chống tội phạm, tệ nạn xã hội và các hành vi vi phạm pháp luật khác theo quy định của pháp luật, nhằm bảo vệ Đảng, chính quyền, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của công dân trên địa bàn.
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402214200380000200
+Điều 1.1.NĐ.2.5. Nhiệm vụ của Bảo vệ dân phố
 
-**ID:** dk_00000033
-
----
-
-
-### Điều 1.1.NĐ.2.5. Nhiệm vụ của Bảo vệ dân phố
+(Điều 5 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Nắm tình hình an ninh, trật tự, phát hiện các vụ việc mâu thuẫn, tranh chấp trong nội bộ nhân dân, các vụ vi phạm hành chính, vi phạm trật tự an toàn xã hội trên địa bàn phường; phản ánh cho cơ quan Công an và Ủy ban nhân dân phường, có biện pháp phòng ngừa, ngăn chặn; tham gia hoà giải, giải quyết kịp thời không để những hậu quả xấu xảy ra.
 
-**Chỉ mục:** 5
+2. Phổ biến, tuyên truyền nâng cao cảnh giác, ý thức phòng ngừa tội phạm, tệ nạn xã hội và các hành vi vi phạm pháp luật về an ninh, trật tự nhằm vận động nhân dân trong phường tự giác chấp hành các chủ trương, chính sách của Đảng, pháp luật của Nhà nước, các quy tắc, quy ước, nội quy về bảo vệ an ninh, trật tự; tham gia xây dựng phường, cụm dân cư, hộ gia đình an toàn về an ninh, trật tự, không có tội phạm, tệ nạn xã hội.
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402214200380000500
+3. Đôn đốc, nhắc nhở nhân dân trong phường chấp hành các quy định của pháp luật về đăng ký, quản lý nhân khẩu, hộ khẩu; sử dụng, quản lý chứng minh nhân dân và giấy tờ tuỳ thân khác; quy định về đăng ký hoạt động ngành, nghề kinh doanh có điều kiện về an ninh trật tự; quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ; tham gia giữ gìn trật tự công cộng, trật tự an toàn giao thông, an toàn phòng cháy, chữa cháy.
 
-**ID:** dk_00000034
+4. Vận động nhân dân tham gia cảm hoá, giáo dục, giúp đỡ và quản lý những người đã chấp hành xong hình phạt tù, chấp hành xong quyết định đưa vào trường giáo dưỡng, cơ sở giáo dục, cơ sở chữa bệnh, trung tâm cai nghiện, người chưa thành niên phạm tội, người đang chấp hành hình phạt cải tạo không giam giữ. Phối hợp với các cơ quan, tổ chức được giao trách nhiệm quản lý, giáo dục, giúp đỡ những đối tượng đang trong diện quản lý, giáo dục tại phường. Vận động thuyết phục người thân của các đối tượng đang bị truy nã, trốn thi hành án, đối tượng phạm tội đang lẩn trốn để tác động họ ra đầu thú.
 
----
+5. Khi có vụ việc phức tạp về an ninh, trật tự xảy ra trong địa bàn, phải kịp thời có mặt và tìm mọi cách báo ngay cho Công an phường; bảo vệ hiện trường, tham gia sơ cứu người bị nạn, giải cứu con tin, bắt, giữ người phạm tội quả tang, tham gia chữa cháy, cứu tài sản và thực hiện các công việc khác theo sự phân công, hướng dẫn của Ủy ban nhân dân và Công an phường.
 
+6. Phối hợp với lực lượng dân phòng và bảo vệ chuyên trách các cơ quan, đơn vị, doanh nghiệp đóng trên địa bàn để bảo vệ an ninh, trật tự theo chỉ đạo của Ủy ban nhân dân và Công an phường. Tổ chức tuần tra kiểm soát và tham gia các hoạt động phòng ngừa, phát hiện, đấu tranh chống tội phạm, tệ nạn xã hội và các vi phạm khác về trật tự, an toàn xã hội theo quy định của pháp luật.
 
-### Điều 1.1.TL.1.2. Nhiệm vụ của bảo vệ dân phố
+Điều 1.1.TL.1.2. Nhiệm vụ của bảo vệ dân phố
+
+(Điều 2 Thông tư liên tịch số 02/2007/TTLT-BCA-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 25/04/2007)
 
 1. Nắm tình hình an ninh trật tự, phát hiện các vụ việc mâu thuẫn, tranh chấp trong nội bộ nhân dân, các vụ vi phạm hành chính, vi phạm trật tự an toàn xã hội trên địa bàn phường, phản ánh cho cơ quan Công an và Ủy ban nhân dân phường có biện pháp phòng ngừa, ngăn chặn, tham gia hòa giải, giải quyết kịp thời không để những hậu quả xấu xảy ra. Cụ thể là:
 
-**Chỉ mục:** 2
+1.1. Tình hình hoạt động của bị can, bị cáo đang tại ngoại; người chấp hành xong hình phạt tù; người bị kết án tù nhưng chưa có quyết định thi hành án hoặc được hoãn, tạm đình chỉ chấp hành hình phạt tù; người bị kết án phạt tù nhưng cho hưởng án treo; người bị cải tạo không giam giữ, người đang bị quản chế; người đang chấp hành biện pháp giáo dục tại xã, phường, thị trấn; người có quyết định đưa vào cơ sở giáo dục, cơ sở chữa bệnh, trường giáo dưỡng nhưng đang được hoãn, hoặc tạm đình chỉ thi hành; những người thuộc diện nói trên đã chấp hành xong bản án, quyết định của Tòa án, của cơ quan có thẩm quyền nhưng chưa được xóa án, chưa hết hạn được coi là chưa bị xử lý vi phạm hành chính theo quy định của pháp luật.
 
-**Mã phân cấp:** 01001000000000001000006000000000000000000040221420038000050000802246000020000200
+1.2. Các dấu hiệu tham nhũng, tiêu cực, hiện tượng tụ tập gây rối trật tự công cộng, khiếu kiện đông người, chia rẽ mất đoàn kết nội bộ nhân dân, lôi kéo, kích động quần chúng chống lại chủ trương, chính sách của Đảng, pháp luật của nhà nước; các vụ việc về an ninh, trật tự, các tệ nạn xã hội và các vi phạm pháp luật khác xảy ra trên địa bàn.
 
-**ID:** dk_00000035
+1.3. Tình hình có liên quan đến an ninh trật tự trong các cơ quan, đơn vị trường học, bệnh viện và các tổ chức chính trị - xã hội, tổ chức xã hội nghề nghiệp và trong nội bộ nhân dân; kịp thời báo cáo, phản ánh với chi bộ Đảng, chính quyền, Cảnh sát khu vực hoặc Đảng ủy, Ủy ban nhân dân, Công an phường biết để có biện pháp ngăn chặn.
 
----
+1.4. Tình hình biến động về dân cư, đặc biệt là những người ở nơi khác đến làm ăn, sinh sống chưa đăng ký thường trú, tạm trú. Tuyên truyền, vận động người dân thực hiện việc khai báo tạm trú, tạm vắng. Nắm thông tin về hộ khẩu, đối tượng có liên quan đến an ninh trật tự phản ánh cho Cảnh sát khu vực hoặc báo cáo chỉ huy Công an phường.
 
+1.5. Nắm tình hình cư trú, đi lại, quan hệ người nước ngoài trong địa bàn, phát hiện kịp thời những hoạt động vi phạm pháp luật để có biện pháp phối hợp ngăn chặn, xử lý theo chỉ đạo và hướng dẫn của Công an cấp trên.
 
-### Điều 1.1.NĐ.2.6. Quyền hạn của Bảo vệ dân phố
+2. Phổ biến, tuyên truyền nâng cao cảnh giác, ý thức phòng ngừa tội phạm, tệ nạn xã hội và các hành vi vi phạm pháp luật về an ninh trật tự nhằm vận động nhân dân trong phường tự giác chấp hành các chủ trương, chính sách của Đảng, Pháp luật của Nhà nước, các quy tắc, quy ước, nội quy về bảo vệ an ninh trật tự; tham gia xây dựng phường, cụm dân cư, hộ gia đình an toàn về an ninh trật tự, không có tội phạm, tệ nạn xã hội.
+
+Bằng nhiều hình thức (bản tin, gặp gỡ cá biệt, tờ rơi…) Bảo vệ dân phố thường xuyên phổ biến tuyên truyền, nâng cao cảnh giác, ý thức phòng chống tội phạm, tệ nạn xã hội và các hành vi vi phạm pháp luật khác về an ninh trật tự. Căn cứ vào tình hình thực tế khu vực, Bảo vệ dân phố thường xuyên đề xuất cấp ủy, chính quyền, Cảnh sách khu vực về nội dung, hình thức, biện pháp phát động, duy trì và đẩy mạnh phong trào quần chúng bảo vệ an ninh trật tự; kết hợp phát động phong trào với việc phối hợp giải quyết kịp thời những vấn đề bức xúc nổi lên của nhân dân thuộc phạm vi trách nhiệm, quyền hạn quy định.
+
+3. Đôn đốc, nhắc nhở nhân dân trong phường chấp hành các quy định của pháp luật về đăng ký, quản lý nhân khẩu, hộ khẩu; sử dụng, quản lý Chứng minh nhân dân và giấy tờ tùy thân khác; quy định về đăng ký hoạt động ngành, nghề kinh doanh có điều kiện về an ninh trật tự; quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ, tham gia giữ gìn trật tự công cộng, trật tự an toàn giao thông, an toàn phòng cháy chữa cháy.
+
+3.1. Thực hiện những quy định về công tác đăng ký, quản lý hộ khẩu; đặc biệt là các quy định về tạm trú, tạm vắng:
+
+a. Thường xuyên bố trí người trực tại địa điểm làm việc của Bảo vệ dân phố để tiếp nhận việc khai báo tạm trú, tạm vắng và tình hình liên quan đến an ninh trật tự do nhân dân phản ánh;
+
+b. Phối hợp cùng Cảnh sát khu vực kiểm tra hộ khẩu thường trú, tạm trú, nắm tình hình tạm vắng, kiểm tra giấy tờ tùy thân của những người đến làm ăn, sinh sống trên địa bàn để phục vụ công tác phòng ngừa, đấu tranh chống tội phạm và các hành vi vi phạm pháp luật khác.
+
+3.2. Đối với công tác đăng ký, quản lý các ngành, nghề kinh doanh có điều kiện về an ninh trật tự, quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ: Cần nắm vững các quy định về an ninh trật tự đối với các ngành nghề kinh doanh có điều kiện về an ninh trật tự để đôn đốc nhắc nhở các cơ sở, cá nhân tham gia hành nghề nghiêm túc thực hiện. Vận động nhân dân thu, nộp vũ khí, vật liệu nổ, công cụ hỗ trợ. Kịp thời phát hiện và phối hợp với lực lượng Cảnh sát khu vực, công an phường ngăn chặn và xử lý những trường hợp vi phạm theo quy định của nhà nước.
+
+3.3. Đối với công tác giữ gìn trật tự công cộng, trật tự an toàn giao thông, phòng cháy, chữa cháy:
+
+a. Theo chỉ đạo của Ủy ban nhân dân và hướng dẫn của Công an phường, Bảo vệ dân phố có kế hoạch tham gia công tác giữ gìn trật tự công cộng, trật tự an toàn giao thông, phòng cháy, chữa cháy. Tổ chức lực lượng quần chúng tham gia giữ gìn trật tự công cộng, trật tự an toàn giao thông, phòng cháy, chữa cháy;
+
+b. Nhắc nhở các trường hợp lấn chiếm lòng lề đường, vỉa hè và các vi phạm khác nhằm đảm bảo trật tự, an toàn, thông suốt trên các tuyến đường, lối đi trong địa bàn; phối hợp với các lực lượng xử lý các vi phạm theo quy định. Khi có hiện tượng ùn tắc giao thông, tụ tập gây rối trật tự công cộng, tụ tập đua xe trái phép cần có biện pháp chủ động hoặc phối hợp với lực lượng Công an có biện pháp giải quyết ùn tắc, giải tán đám đông, ngăn chặn hành vi quá khích, không để xảy ra hậu quả xấu;
+
+c. Thường xuyên kiểm tra, đôn đốc, nhắc nhở nhân dân trong khu vực chấp hành các quy định về phòng cháy, chữa cháy; có kế hoạch, phương an chủ động phòng chống cháy, nổ trong địa bàn.
+
+4. Vận động nhân dân tham gia cảm hóa, giáo dục, giúp đỡ và quản lý những người đã chấp hành xong hình phạt tù, chấp hành xong quyết định đưa vào trường giáo dưỡng, cơ sở giáo dục, cơ sở chữa bệnh, trung tâm cai nghiện, người chưa thành niên phạm tội, người đang chấp hành hình phạt cải tạo không giam giữ. Phối hợp với các cơ quan tổ chức được giao trách nhiệm quản lý, giáo dục giúp đỡ những đối tượng đang trong diện quản lý, giáo dục tại phường. Vận động, thuyết phục người thân của các đối tượng đang bị truy nã, trốn thi hành án, đối tượng phạm tội đang lẩn trốn để tác động họ ra đầu thú.
+
+4.1. Bảo vệ dân phố phải nắm được số lượng, lai lịch, hoàn cảnh của từng đối tượng trong địa bàn để vận động nhân dân tham gia cảm hóa giáo dục và trực tiếp tham gia cảm hóa giáo dục.
+
+4.2. Phối hợp với Cảnh sát khu vực, các tổ chức, đoàn thể quần chúng thực hiện tốt công tác vận động, thuyết phục, cảm hóa để họ chấp hành tốt pháp luật, quy định của nhà nước.
+
+4.3. Thuyết phục người thân của các đối tượng đang bị truy nã, trốn thi hành án, đối tượng phạm tội lẩn trốn để họ tác động người thân ra đầu thú với chính quyền để hưởng lượng khoan hồng của nhà nước.
+
+5. Khi có vụ việc phức tạp về ANTT xảy ra trong địa bàn, phải kịp thời có mặt và tìm mọi cách báo ngay cho Công an phường; bảo vệ hiện trường, tham gia sơ cứu người bị nạn, giải cứu con tin, bắt giữ người phạm pháp quả tang, tham gia chữa cháy, cứu tài sản và thực hiện các công việc khác theo sự phân công, hướng dẫn của Ủy ban nhân dân và Công an phường.
+
+5.1. Khi có vụ việc về an ninh trật tự xảy ra trong địa bàn, cụm dân cư, Bảo vệ dân phố phải kịp thời có mặt và tùy theo tính chất, mức độ của vụ việc để vận động nhân dân tham gia hỗ trợ giải quyết vụ việc; báo ngay cho Công an phường và thực hiện nhiệm vụ bảo vệ hiện trường; cấp cứu người bị nạn; bắt, tước hung khí, thu giữ tang vật của người vi phạm pháp luật, người gây ra vụ việc; áp giải đối tượng về trụ sở Công an phường để giải quyết.
+
+5.2. Khi tham gia giải quyết vụ việc phải nêu cao tinh thần cảnh giác, ý thức trách nhiệm, tính xung kích trong công việc; đồng thời chú ý bảo vệ lực lượng, chủ động không để đối tượng tấn công, ngăn chặn đối tượng tiếp tục hành động…
+
+6. Phối hợp với lực lượng dân phòng và bảo vệ chuyên trách các cơ quan, đơn vị, doanh nghiệp đóng trên địa bàn để bảo vệ an ninh trật tự theo chỉ đạo của Ủy ban nhân dân và Công an phường. Tổ chức tuần tra, kiểm soát và tham gia các hoạt động phòng ngừa, phát hiện, đấu tranh chống tội phạm, tệ nạn xã hội và các vi phạm khác về trật tự an toàn xã hội theo quy định của pháp luật.
+
+6.1. Bảo vệ dân phố cần chủ động có kế hoạch phối hợp với các lực lượng dân phòng và bảo vệ các cơ quan, đơn vị, doanh nghiệp đóng trên địa bàn phường tham mưu, đề xuất Ủy ban nhân dân phường xây dựng kế hoạch phối hợp hành động chống tội phạm, tệ nạn xã hội và các vi phạm pháp luật khác về trật tự an toàn xã hội.
+
+6.2. Có quy chế và thực hiện quy chế phối hợp tổ chức tuần tra kiểm soát giữa lực lượng Bảo vệ dân phố với lực lượng dân phòng và bảo vệ các cơ quan, đơn vị, doanh nghiệp trong khu vực, nhằm phát hiện, phòng ngừa, đấu tranh làm giảm tội phạm và tệ nạn xã hội ngay tại cơ sở. Xây dựng phường, cụm dân cư lành mạnh không có tội phạm và tệ nạn xã hội.
+
+Điều 1.1.NĐ.2.6. Quyền hạn của Bảo vệ dân phố
+
+(Điều 6 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Bắt, tước hung khí và áp giải người phạm tội quả tang, người đang bị truy nã, trốn thi hành án phạt tù đến trụ sở Công an phường theo quy định của pháp luật.
 
-**Chỉ mục:** 6
+2. Yêu cầu chấm dứt ngay hành vi vi phạm và báo cáo với Ủy ban nhân dân, Công an phường để có biện pháp xử lý theo quy định của pháp luật đối với những người đang có hành vi vi phạm trật tự công cộng, trật tự xây dựng, trật tự an toàn giao thông, các vi phạm quy định an toàn cháy nổ và những người vi phạm các quy định khác về trật tự, an toàn xã hội.
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402214200380000600
+3. Tham gia với lực lượng Công an hoặc lực lượng chức năng để truy bắt người phạm tội, người đang bị truy nã, trốn thi hành án; kiểm tra tạm trú, tạm vắng; kiểm tra giấy chứng minh nhân dân hoặc giấy tờ tuỳ thân khác của những người tạm trú, người có nghi vấn đến địa bàn khu phố được phân công phụ trách.
 
-**ID:** dk_00000036
+Điều 1.1.TL.1.3. Quyền hạn của bảo vệ dân phố
 
----
-
-
-### Điều 1.1.TL.1.3. Quyền hạn của bảo vệ dân phố
+(Điều 3 Thông tư liên tịch số 02/2007/TTLT-BCA-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 25/04/2007)
 
 1. Bắt, tước hung khí và áp giải người phạm pháp quả tang, người đang bị truy nã trốn thi hành án phạt tù đến trụ sở Công an phường theo đúng quy định của pháp luật:
 
-**Chỉ mục:** 3
+Bảo vệ dân phố chỉ được bắt người khi xác định đúng người đó đang phạm pháp quả tang hoặc đang có lệnh truy nã của cơ quan Công an. Việc tước bỏ hung khí phải đi liền với việc bắt đối tượng nếu thấy đối tượng có sử dụng hung khí và phải áp giải ngay đối tượng đến Công an phường để xử lý.
 
-**Mã phân cấp:** 01001000000000001000006000000000000000000040221420038000060000802246000020000300
+2. Yêu cầu chấm dứt ngay hành vi vi phạm và báo cáo với Ủy ban nhân dân, công an phường để có biện pháp xử lý theo quy định của pháp luật đối với những người đang có hành vi vi phạm trật tự công cộng, trật tự xây dựng, trật tự an toàn giao thông, các vi phạm quy định về an toàn cháy nổ và những người vi phạm các quy định khác về trật tự an toàn xã hội.
 
-**ID:** dk_00000037
+Khi thực hiện quyền hạn này, Bảo vệ dân phố phải có sự phối hợp với các lực lượng chức năng như Cảnh sát giao thông, Cảnh sát khu vực, Cảnh sát trật tự, Cảnh sát phòng cháy chữa cháy, Thanh tra giao thông công chính, Thanh tra xây dựng, Thanh tra y tế… Trong trường hợp không có các lực lượng trên, Bảo vệ dân phố có quyền nhắc nhở, yêu cầu cá nhân, tổ chức có vi phạm chấm dứt ngay hành vi vi phạm và kịp thời báo cáo cấp có thẩm quyền có biện pháp xử lý theo quy định của pháp luật.
 
----
+3. Tham gia với lực lượng Công an hoặc lực lượng chức năng để truy bắt người phạm tội, người đang bị truy nã,  trốn thi hành án; kiểm tra tạm trú, tạm vắng, kiểm tra chứng minh nhân dân hoặc giấy tờ tùy thân khác của những người tạm trú, người có nghi vấn đến địa bàn khu phố được phân công phụ trách.
 
+3.1. Theo sự phân công hướng dẫn của lực lượng Công an hoặc lực lượng chức năng khác, Bảo vệ dân phố được tham gia truy bắt người phạm tội, người đang bị truy nã, người trốn thi hành án hoặc kiểm tra tạm trú, tạm vắng, kiểm tra Giấy chứng minh nhân dân, giấy tờ tuỳ thân khác của người tạm trú, người có biểu hiện nghi vấn đến cư trú trên địa bàn.
 
-### Điều 1.1.NĐ.2.7. Tổ chức của Bảo vệ dân phố
+3.2. Nghiêm cấm Bảo vệ dân phố tự ý kiểm tra giấy tờ, hàng hóa, phương tiện hoặc vào nơi ở của công dân để kiểm tra, kiểm soát trái quy định của pháp luật.
+
+4. Ngoài các quyền theo quy định tại Điều 6 của Nghị định, Bảo vệ dân phố còn được sử dụng vũ khí thô sơ, công cụ hỗ trợ theo quy định tại Điểm 1 Điều 12 của Nghị định.
+
+Khi sử dụng quyền này, Bảo vệ dân phố cần chú ý: Việc sử dụng vũ khí thô sơ, công cụ hỗ trợ phải đảm bảo an toàn, đúng mục đích theo quy định của pháp luật. Phải được phép khi mang vũ khí thô sơ, công cụ hỗ trợ theo người.
+
+Điều 1.1.NĐ.2.7. Tổ chức của Bảo vệ dân phố
+
+(Điều 7 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 l. Mỗi cụm dân cư được thành lập một tổ Bảo vệ dân phố. Tổ trưởng và các tổ viên tổ Bảo vệ dân phố do đại diện các hộ gia đình trong cụm dân cư bầu ra. Tuỳ vào tình hình đặc điểm và số lượng dân cư trên địa bàn, mỗi tổ Bảo vệ dân phố có từ 3 đến 7 tổ viên.
 
-**Chỉ mục:** 7
+2. Mỗi phường được thành lập một Ban Bảo vệ dân phố. Ban Bảo vệ dân phố gồm Trưởng ban, các Phó trưởng ban và các Ủy viên. Ủy viên Ban Bảo vệ dân phố là tổ trưởng các tổ Bảo vệ dân phố ở các cụm dân cư. Trưởng ban, các Phó Trưởng Ban Bảo vệ dân phố do tập thể Ủy viên Ban Bảo vệ dân phố bầu ra bằng hình thức bỏ phiếu kín.
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402214200380000700
+3. Trưởng Công an phường có trách nhiệm tổ chức việc bầu Trưởng ban, Phó Trưởng ban, tổ trưởng và các tổ viên Bảo vệ dân phố và đề nghị Ủy ban nhân dân phường quyết định công nhận các chức danh trên.
 
-**ID:** dk_00000038
+Căn cứ vào kết quả bầu cử của Ban Bảo vệ dân phố và đề nghị của Trưởng Công an phường, Chủ tịch Ủy ban nhân dân phường ra quyết định thành lập Ban Bảo vệ dân phố, công nhận Trưởng ban, các Phó Trưởng ban, các Ủy viên, các Tổ trưởng và các tổ viên Bảo vệ dân phố.
 
----
+4. Nhiệm kỳ hoạt động của Ban Bảo vệ dân phố là 5 năm. Trong nhiệm kỳ hoạt động của Ban Bảo vệ dân phố, việc thay đổi, bãi miễn, bổ sung các chức danh của Ban Bảo vệ dân phố được thực hiện như sau:
 
+a) Nếu Trưởng ban, Phó Trưởng ban, tổ trưởng và các tổ viên Bảo vệ dân phố mà khuyết (do chết, không còn đảm bảo sức khỏe hoặc xin nghỉ việc) thì
+tổ chức bầu bổ sung vào các chức danh đó theo thủ tục chung được quy định tại khoản 2 Điều này;
 
-### Điều 1.1.TL.1.4. Tổ chức của bảo vệ dân phố
+b) Nếu Trưởng ban, Phó Trưởng Ban Bảo vệ dân phố không hoàn thành nhiệm vụ, không còn được tập thể Ban và nhân dân tín nhiệm hoặc vi phạm kỷ luật, pháp luật thì Trưởng Công an phường báo cáo đề xuất Chủ tịch Ủy ban nhân dân phường tổ chức họp tập thể Ban Bảo vệ dân phố để lấy ý kiến đề nghị bãi nhiệm và làm thủ tục bầu người khác thay thế;
+
+c) Tổ trưởng và các tổ viên Bảo vệ dân phố không hoàn thành nhiệm vụ, không còn được nhân dân tín nhiệm hoặc vi phạm kỷ luật, pháp luật thì Trưởng Ban Bảo vệ dân phố báo cáo đề xuất với Trưởng Công an phường tổ chức họp đại diện các hộ gia đình trong cụm dân cư đã bầu thành viên đó để lấy ý kiến đề nghị bãi nhiệm và bầu người khác thay thế;
+
+d) Việc công nhận và bãi nhiệm Trưởng ban, Phó Trưởng ban, tổ trưởng và các tổ viên mới của Ban Bảo vệ dân phố phải được Chủ tịch Ủy ban nhân dân phường ra quyết định bằng văn bản.
+
+Điều 1.1.TL.1.4. Tổ chức của bảo vệ dân phố
+
+(Điều 4 Thông tư liên tịch số 02/2007/TTLT-BCA-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 25/04/2007)
 
 1. Mỗi cụm dân cư (theo địa bàn công tác của Cảnh sát khu vực) thành lập một Tổ Bảo vệ dân phố do tổ trưởng phụ trách. Tùy theo đặc điểm tình hình và số lượng dân cư, mỗi Tổ Bảo vệ dân phố có từ 3 đến 7 tổ viên. Đối với tổ Bảo vệ dân phố có từ 5 tổ viên trở lên có thể bầu thêm 1 tổ phó giúp việc.
 
-**Chỉ mục:** 4
+Cảnh sát khu vực có trách nhiệm phối hợp với cấp ủy chi bộ đường phố, Ban điều hành cụm dân cư lựa chọn, giới thiệu người vào Tổ dân phố, dự kiến Tổ trưởng, tổ phó và tổ chức cuộc họp gồm cán bộ cơ sở, đại diện các hộ gia đình trong khu vực để bầu bằng hình thức biểu quyết. Trên cơ sở kết quả biểu quyết, Cảnh sát khu vực báo cáo trưởng công an phường để trưởng công an phường báo cáo Chủ tịch Ủy ban nhân dân phường ra quyết định công nhận.
 
-**Mã phân cấp:** 01001000000000001000006000000000000000000040221420038000070000802246000020000400
+2. Mỗi phường, thị trấn thành lập một Ban Bảo vệ dân phố gồm: Trưởng ban, từ 1 đến 2 Phó Trưởng ban và các ủy viên. Thành viên Ban Bảo vệ dân phố đồng thời là tổ trưởng tổ Bảo vệ dân phố ở các cụm dân cư. Số lượng thành viên Ban Bảo vệ dân phố tuỳ thuộc vào số lượng Tổ bảo vệ dân phố. Trưởng ban, các Phó Trưởng ban Bảo vệ dân phố do tập thể Ban Bảo vệ dân phố bầu ra bằng hình thức bỏ phiếu kín.
 
-**ID:** dk_00000039
+Trưởng Công an phường có trách nhiệm tổ chức cuộc họp Ban Bảo vệ dân phố để bầu Trưởng ban, Phó Trưởng ban; dự kiến nhân sự Trưởng ban, Phó trưởng ban để hội nghị Ban Bảo vệ dân phố bầu. Căn cứ kết quả bầu Trưởng ban, Phó trưởng ban, trưởng Công an phường làm văn bản báo cáo đề nghị Ủy ban nhân dân phường ra quyết định công nhận.
 
----
+3. Căn cứ kết quả bầu và báo cáo đề nghị của Trưởng Công an phường, Chủ tịch Ủy ban nhân dân phường ra quyết định thành lập Ban Bảo vệ dân phố, quyết định công nhận Trưởng ban, Phó Trưởng ban, các ủy viên, và các Tổ bảo vệ dân phố, tổ trưởng, tổ phó và tổ viên tổ bảo vệ dân phố.
 
+4. Nhiệm kỳ hoạt động của Ban Bảo vệ dân phố là 5 năm. Trong nhiệm kỳ, việc thay đổi, bãi nhiệm, bổ sung các chức danh của bảo vệ dân phố được thực hiện như sau:
 
-### Điều 1.1.NĐ.2.8. Điều kiện, tiêu chuẩn của Bảo vệ dân phố
+4.1. Nếu Trưởng ban, Phó trưởng ban và các ủy viên Ban Bảo vệ dân phố mà khuyết (do chết, không còn đảm bảo sức khỏe, xin nghỉ việc…) hoặc không hoàn thành nhiệm vụ, không còn được tập thể Ban và nhân dân tín nhiệm hoặc vi phạm kỷ luật, pháp luật… thì Trưởng Công an phường báo cáo đề xuất Chủ tịch Ủy ban nhân dân phường cho tổ chức cuộc họp tập thể Ban Bảo vệ dân phố để bầu bổ sung hoặc lấy ý kiến đề nghị bãi nhiệm và bầu người thay thế.
+
+4.2. Nếu tổ trưởng, tổ phó và các tổ viên Tổ Bảo vệ dân phố mà khuyết hoặc không hoàn thành nhiệm vụ, không còn được nhân dân tín nhiệm hoặc vi phạm kỷ luật, pháp luật thì Cảnh sát khu vực cùng với Trưởng Ban Bảo vệ dân phố báo cáo đề xuất với Trưởng Công an phường cho tổ chức cuộc họp gồm cán bộ cơ sở, đại diện các hộ gia đình trong cụm dân cư để bầu bổ sung hoặc lấy ý kiến đề nghị bãi nhiệm và bầu người khác thay thế.
+
+4.3. Việc công nhận và bãi nhiệm Trưởng ban, Phó Trưởng ban, tổ trưởng và các tổ viên Bảo vệ dân phố phải được Chủ tịch Ủy ban nhân dân phường ra quyết định bằng văn bản.
+
+Điều 1.1.NĐ.2.8. Điều kiện, tiêu chuẩn của Bảo vệ dân phố
+
+(Điều 8 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Công dân Việt Nam từ đủ 18 tuổi trở lên, cư trú ổn định tại địa bàn.
 
-**Chỉ mục:** 8
+2. Có lý lịch rõ ràng, bản thân và gia đình gương mẫu chấp hành các chủ trương, chính sách của Đảng, pháp luật của Nhà nước.
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402214200380000800
+3. Có sức khỏe, có điều kiện, nhiệt tình và tự nguyện tham gia các hoạt động xã hội; am hiểu pháp luật và phải được bồi dưỡng nghiệp vụ về bảo vệ an ninh, trật tự.
 
-**ID:** dk_00000040
+4. Không có tiền án, tiền sự, không phải là người đang chấp hành hình phạt tù nhưng cho hưởng án treo, quản chế hình sự hoặc đang chấp hành một trong các biện pháp xử lý hành chính khác.
 
----
+5. Quan hệ tốt với nhân dân, được quần chúng tín nhiệm và được nhân dân trong cụm dân cư giới thiệu, bầu ra.
 
+Điều 1.1.TL.1.5. Điều kiện, tiêu chuẩn tham gia lực lượng bảo vệ dân phố
 
-### Điều 1.1.TL.1.5. Điều kiện, tiêu chuẩn tham gia lực lượng bảo vệ dân phố
+(Điều 5 Thông tư liên tịch số 02/2007/TTLT-BCA-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 25/04/2007)
 
 Điều kiện, tiêu chuẩn tham gia lực lượng Bảo vệ dân phố được thực hiện theo quy định tại Điều 8, Nghị định số 38/2006/NĐ-CP. Cần lưu ý một số điểm sau đây:
 
-**Chỉ mục:** 5
+1. Cư trú ổn định tại địa bàn là người đã đăng ký thường trú, hoặc tạm trú có thời hạn từ 1 năm trở lên và thường xuyên sinh sống tại nơi đăng ký.
 
-**Mã phân cấp:** 01001000000000001000006000000000000000000040221420038000080000802246000020000500
+2. Không có tiền án, tiền sự bao gồm cả những người đã có quyết định xóa án hoặc đương nhiên xóa án; những người hết thời hạn thi hành quyết định xử lý vi phạm hành chính.
 
-**ID:** dk_00000041
+3. Đối với chức danh Trưởng ban Bảo vệ dân phố ngoài tiêu chuẩn chung quy định cho Bảo vệ dân phố cần có thêm tiêu chuẩn là có năng lực tổ chức thực hiện công tác phong trào quần chúng Bảo vệ an ninh Tổ quốc tại cơ sở.
 
----
+4. Ưu tiên lựa chọn Bảo vệ dân phố trong những người đã tham gia quân đội, Công an hoặc tham gia công tác trở về địa phương. Không đưa vào lực lượng Bảo vệ dân phố những người không đủ năng lực hành vi.
 
+Điều 1.1.NĐ.2.9. Lề lối làm việc của Bảo vệ dân phố
 
-### Điều 1.1.NĐ.2.9. Lề lối làm việc của Bảo vệ dân phố
+(Điều 9 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Trưởng Ban Bảo vệ dân phố chịu trách nhiệm quản lý tổ chức và điều hành mọi hoạt động của Ban Bảo vệ dân phố, thường xuyên báo cáo tình hình kết quả thực hiện các mặt công tác của Bảo vệ dân phố với Ủy ban nhân dân phường và Công an phường
 
-**Chỉ mục:** 9
+a) Phó Trưởng Ban Bảo vệ dân phố giúp việc Trưởng ban và thực hiện phần việc được phân công, thay thế Trưởng Ban Chỉ đạo điều hành mọi hoạt động của Ban khi được Trưởng ban uỷ quyền
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402214200380000900
+b) Ủy viên Ban Bảo vệ dân phố chịu sự lãnh đạo, quản lý trực tiếp của Trưởng ban, Phó trưởng Ban Bảo vệ dân phố và có trách nhiệm triển khai thực hiện các chủ trương, biện pháp, kế hoạch công tác của Bảo vệ dân phố ở cụm dân cư do mình phụ trách và thực hiện các nhiệm vụ khác về an ninh, trật tự do Trưởng ban, Phó Trưởng Ban Bảo vệ dân phố giao
 
-**ID:** dk_00000042
+2. Hàng tháng Ban Bảo vệ dân phố họp l lấn (trừ đột xuất) để kiểm điểm công tác đã làm và bàn chương trình công tác tháng tới
 
----
+3. Trong khi làm nhiệm vụ Bảo vệ dân phố phải đeo băng chức danh, biển hiệu theo quy định.
 
+(Điều này có nội dung liên quan đến Điều 1.1.TL.1.6. Lề lối làm việc, mối quan hệ công tác của bảo vệ dân phố)
 
-### Điều 1.1.TL.1.6. Lề lối làm việc, mối quan hệ công tác của bảo vệ dân phố
+Điều 1.1.TL.1.6. Lề lối làm việc, mối quan hệ công tác của bảo vệ dân phố
+
+(Điều 6 Thông tư liên tịch số 02/2007/TTLT-BCA-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 25/04/2007)
 
 1. Lề lối làm việc:
 
-**Chỉ mục:** 6
+Theo quy định tại Điều 9 của Nghị định. Khi thực hiện cần chú ý:
 
-**Mã phân cấp:** 01001000000000001000006000000000000000000040221420038000090000802246000020000600
+1.1. Hàng tháng các tổ trưởng tổ Bảo vệ dân phố phải tập hợp tình hình công tác an ninh trật tự và hoạt động của tổ Bảo vệ dân phố để báo cáo Ban Bảo vệ dân phố biết, cho ý kiến chỉ đạo.
 
-**ID:** dk_00000043
+1.2. Hàng tuần tổ Bảo vệ dân phố tổ chức họp để đánh giá kết quả và triển khai công tác giữ gìn an ninh trật tự trong khu vực có sự tham gia của cấp ủy, ban điều hành cụm dân cư, Cảnh sát khu vực để cùng phối hợp thực hiện.
 
----
+1.3. Hàng ngày Ban Bảo vệ dân phố và tổ Bảo vệ dân phố phải bố trí người có mặt tại địa điểm làm việc để thường trực giải quyết công việc theo quy định.
 
+2. Mối quan hệ công tác:
 
-### Điều 1.1.NĐ.2.10. Mối quan hệ công tác của Bảo vệ dân phố
+Theo quy định tại Điều 10 của Nghị định. Cần chú ý:
+
+2.1. Đối với cấp ủy chi bộ Đảng và Ban điều hành cụm dân cư: Tổ Bảo vệ dân phố chịu sự lãnh đạo điều hành chung của cấp ủy chi bộ và phối hợp với Ban điều hành cụm dân cư nhằm bảo đảm an ninh trật tự và xây dựng cụm dân cư văn hóa an toàn về mọi mặt, phòng chống các tệ nạn xã hội.
+
+1.2. Đối với Cảnh sát khu vực, Bảo vệ dân phố vừa chịu sự chỉ đạo, hướng dẫn về nghiệp vụ công tác giữ tìn an ninh trật tự, vừa phối hợp, giúp đỡ lực lượng Cảnh sát khu vực trong công tác.
+
+(Điều này có nội dung liên quan đến Điều 1.1.NĐ.2.9. Lề lối làm việc của Bảo vệ dân phố; Điều 1.1.NĐ.2.10. Mối quan hệ công tác của Bảo vệ dân phố)
+
+Điều 1.1.NĐ.2.10. Mối quan hệ công tác của Bảo vệ dân phố
+
+(Điều 10 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 l. Đối với Đảng ủy, Ủy ban nhân dân phường: Bảo vệ dân phố chịu sự lãnh đạo, điều hành, quản lý về tổ chức và chỉ đạo chung về công tác.
 
-**Chỉ mục:** 10
+2. Đối với Công an phường: Bảo vệ dân phố chịu sự chỉ đạo, hướng dẫn về nghiệp vụ bảo vệ an ninh, trật tự và tham gia phối hợp cùng Công an phường trong công tác giữ gìn an ninh, trật tự
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402214200380001000
+3. Đối với lực lượng dân quân tự vệ, lực lượng dân phòng, đoàn thể quần chúng và lực lượng bảo vệ chuyên trách các cơ quan, đơn vị, các tổ chức, doanh nghiệp đóng trên địa bàn phường: phối hợp để thực hiện nhiệm vụ bảo vệ an ninh trật tự trong địa bàn, theo chỉ đạo của Đảng uỷ và Ủy ban nhân dân phường.
 
-**ID:** dk_00000044
+(Điều này có nội dung liên quan đến Điều 1.1.TL.1.6. Lề lối làm việc, mối quan hệ công tác của bảo vệ dân phố)
 
----
+Điều 1.1.NĐ.5.4. Nghiệp vụ bảo vệ
 
+(Điều 4 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-### Điều 1.1.NĐ.5.4. Nghiệp vụ bảo vệ
+ 1. Nghiệp vụ bảo vệ là tổng hợp các biện pháp chuyên môn trang bị cho lực lượng bảo vệ nhằm bảo đảm an ninh, trật tự và an toàn cơ quan, doanh nghiệp. Biện pháp nghiệp vụ bảo vệ bao gồm:
 
-1. Nghiệp vụ bảo vệ là tổng hợp các biện pháp chuyên môn trang bị cho lực lượng bảo vệ nhằm bảo đảm an ninh, trật tự và an toàn cơ quan, doanh nghiệp. Biện pháp nghiệp vụ bảo vệ bao gồm:
+ a) Biện pháp hành chính;
 
-**Chỉ mục:** 4
+ b) Biện pháp quần chúng;
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402460100060000400
+ c) Biện pháp tuần tra, canh gác.
 
-**ID:** dk_00000045
+ 2. Bộ Công an quy định cụ thể các biện pháp nghiệp vụ quy định tại Khoản 1 Điều này.Điều 1.1.TT.1.3. Nội dung các biện pháp nghiệp vụ bảo vệ
 
----
-
-
-### Điều 1.1.TT.1.3. Nội dung các biện pháp nghiệp vụ bảo vệ
+(Điều 3 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
 1. Nội dung của biện pháp hành chính
 
-**Chỉ mục:** 3
+a) Tham mưu, đề xuất với người đứng đầu cơ quan, doanh nghiệp xây dựng, sửa đổi, bổ sung nội quy, quy định liên quan đến công tác bảo vệ an ninh, trật tự và an toàn tại cơ quan, doanh nghiệp.
 
-**Mã phân cấp:** 01001000000000001000006000000000000000000040246010006000040000802524600460000300
+b) Tổ chức thực hiện các quy định của nhà nước, các quy định của cơ quan, doanh nghiệp về công tác bảo vệ an ninh, trật tự và an toàn tại cơ quan, doanh nghiệp.
 
-**ID:** dk_00000046
+c) Phối hợp với các cơ quan chức năng kiểm tra việc chấp hành các quy định của pháp luật về cư trú, vũ khí, vật liệu nổ và công cụ hỗ trợ; công tác phòng cháy, chữa cháy và các quy định khác về bảo đảm an ninh, trật tự và an toàn tại cơ quan, doanh nghiệp.
 
----
+d) Khi được sự đồng ý của người đứng đầu cơ quan, doanh nghiệp, được phép khai thác tài liệu hành chính của cơ quan, doanh nghiệp phục vụ công tác bảo vệ an ninh, trật tự và an toàn tại cơ quan, doanh nghiệp.
 
+2. Nội dung của biện pháp quần chúng
 
-### Điều 1.1.NĐ.5.5. Huấn luyện nghiệp vụ bảo vệ
+a) Phối hợp với các tổ chức quần chúng trong cơ quan, doanh nghiệp tổ chức tuyên truyền, phổ biến pháp luật về công tác bảo đảm an ninh, trật tự và an toàn nhằm nâng cao nhận thức, ý thức cảnh giác, trách nhiệm và năng lực bảo vệ an ninh, trật tự, an toàn cho cán bộ, công nhân viên trong cơ quan, doanh nghiệp.
 
-Huấn luyện, bồi dưỡng nghiệp vụ bảo vệ do Công an cấp tỉnh hoặc cấp tương đương tổ chức và cấp giấy chứng nhận.
+b) Tham mưu, xây dựng và tổ chức triển khai thực hiện chương trình, kế hoạch phát động phong trào toàn dân bảo vệ an ninh Tổ quốc trong cơ quan, doanh nghiệp và hướng dẫn cán bộ, công nhân viên tích cực tham gia; xây dựng cơ quan, doanh nghiệp an toàn về an ninh, trật tự.
 
-**Chỉ mục:** 5
+c) Nắm tình hình liên quan đến an ninh, trật tự và an toàn trong cơ quan, doanh nghiệp thông qua gặp gỡ, trao đổi trực tiếp với cán bộ, công nhân viên, qua hình thức hòm thư tố giác tội phạm, số điện thoại đường dây nóng và vận động cán bộ, công nhân viên tự giác cung cấp thông tin; tranh thủ sự ủng hộ và vận động cán bộ, công nhân viên phối hợp giải quyết các vụ, việc phức tạp liên quan đến an ninh, trật tự, an toàn xảy ra trong cơ quan, doanh nghiệp.
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402460100060000500
+3. Nội dung của biện pháp tuần tra, canh gác
 
-**ID:** dk_00000047
+a) Tuần tra là hoạt động công khai của lực lượng bảo vệ được thực hiện trong một phạm vi theo hành lang bảo vệ đã được xác định trong phương án bảo vệ cơ quan, doanh nghiệp, bao gồm các nội dung sau:
 
----
+- Phát hiện đối tượng đột nhập từ bên ngoài vào phạm vi bên trong cơ quan, doanh nghiệp hoặc từ bên trong cơ quan, doanh nghiệp vượt ra ngoài để làm rõ mục đích, động cơ của đối tượng.
 
+- Phát hiện, ngăn chặn các hành vi vi phạm pháp luật hoặc vi phạm nội quy của cơ quan, doanh nghiệp xảy ra trong phạm vi cơ quan, doanh nghiệp quản lý.
 
-### Điều 1.1.NĐ.5.6. Tiêu chuẩn nhân viên bảo vệ
+b) Canh gác là hoạt động công khai của lực lượng bảo vệ được thực hiện tại một vị trí hoặc mục tiêu cụ thể thuộc phạm vi cơ quan, doanh nghiệp quản lý, bao gồm những nội dung sau:
 
-Công dân Việt Nam đủ 18 tuổi trở lên; có lý lịch rõ ràng; phẩm chất chính trị, đạo đức tốt; có trình độ học vấn tốt nghiệp trung học phổ thông trở lên (đối với miền núi, biên giới, hải đảo, vùng sâu, vùng xa có trình độ học vấn tốt nghiệp trung học cơ sở trở lên), có đầy đủ năng lực hành vi dân sự và đủ sức khỏe đáp ứng yêu cầu công tác bảo vệ. Ưu tiên tuyển dụng lực lượng bảo vệ là những người đã có thời gian công tác trong lực lượng Công an nhân dân và Quân đội nhân dân.
+- Kiểm soát người ra, vào vị trí hoặc mục tiêu.
 
-**Chỉ mục:** 6
+- Kiểm soát phương tiện di chuyển, đồ vật, hàng hóa được vận chuyển ra, vào vị trí hoặc mục tiêu. Nếu phát hiện có dấu hiệu vi phạm pháp luật hoặc vi phạm nội quy của cơ quan, doanh nghiệp thì được yêu cầu kiểm tra để làm rõ. Nếu phát hiện người phạm tội quả tang thì được quyền bắt và giải ngay đến cơ quan Công an, Viện Kiểm sát nhân dân hoặc Ủy ban nhân dân nơi gần nhất.
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402460100060000600
+- Phát hiện, ngăn chặn các đối tượng có hành vi gây rối an ninh, trật tự tại vị trí hoặc mục tiêu canh gác.
 
-**ID:** dk_00000048
+Điều 1.1.NĐ.5.5. Huấn luyện nghiệp vụ bảo vệ
 
----
+(Điều 5 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
+ Huấn luyện, bồi dưỡng nghiệp vụ bảo vệ do Công an cấp tỉnh hoặc cấp tương đương tổ chức và cấp giấy chứng nhận.Điều 1.1.NĐ.5.6. Tiêu chuẩn nhân viên bảo vệ
 
-### Điều 1.1.NĐ.5.9. Chức năng của lực lượng bảo vệ cơ quan, doanh nghiệp
+(Điều 6 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-1. Tham mưu giúp cấp ủy, lãnh đạo cơ quan, doanh nghiệp xây dựng và tổ chức thực hiện nội quy, kế hoạch công tác bảo vệ; bảo đảm an ninh, trật tự, an toàn cơ quan, doanh nghiệp; triển khai các yêu cầu công tác bảo vệ theo chỉ đạo, hướng dẫn của cơ quan Công an có thẩm quyền.
+ Công dân Việt Nam đủ 18 tuổi trở lên; có lý lịch rõ ràng; phẩm chất chính trị, đạo đức tốt; có trình độ học vấn tốt nghiệp trung học phổ thông trở lên (đối với miền núi, biên giới, hải đảo, vùng sâu, vùng xa có trình độ học vấn tốt nghiệp trung học cơ sở trở lên), có đầy đủ năng lực hành vi dân sự và đủ sức khỏe đáp ứng yêu cầu công tác bảo vệ. Ưu tiên tuyển dụng lực lượng bảo vệ là những người đã có thời gian công tác trong lực lượng Công an nhân dân và Quân đội nhân dân.Điều 1.1.NĐ.5.9. Chức năng của lực lượng bảo vệ cơ quan, doanh nghiệp
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402460100060000900
+ 1. Tham mưu giúp cấp ủy, lãnh đạo cơ quan, doanh nghiệp xây dựng và tổ chức thực hiện nội quy, kế hoạch công tác bảo vệ; bảo đảm an ninh, trật tự, an toàn cơ quan, doanh nghiệp; triển khai các yêu cầu công tác bảo vệ theo chỉ đạo, hướng dẫn của cơ quan Công an có thẩm quyền.
 
-**ID:** dk_00000049
+ 2. Tổ chức thực hiện các yêu cầu, nhiệm vụ, biện pháp công tác bảo vệ an ninh, trật tự, an toàn cơ quan, doanh nghiệp.Điều 1.1.NĐ.5.10. Nhiệm vụ của lực lượng bảo vệ cơ quan, doanh nghiệp
 
----
+(Điều 10 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
+ 1. Lực lượng bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị có nhiệm vụ:
 
-### Điều 1.1.NĐ.5.10. Nhiệm vụ của lực lượng bảo vệ cơ quan, doanh nghiệp
+ a) Thực hiện các biện pháp nghiệp vụ theo quy định của pháp luật và hướng dẫn nghiệp vụ bảo vệ của lực lượng Công an để phòng ngừa, phát hiện và ngăn chặn những hành vi vi phạm pháp luật, vi phạm nội quy bảo vệ cơ quan, doanh nghiệp; kịp thời đề xuất với người đứng đầu cơ quan, doanh nghiệp biện pháp xử lý;
 
-1. Lực lượng bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị có nhiệm vụ:
+ b) Trực tiếp kiểm soát người ra vào cơ quan, doanh nghiệp. Khi xảy ra các vụ việc có liên quan đến an ninh, trật tự và an toàn cơ quan, doanh nghiệp phải tổ chức bảo vệ hiện trường, bảo vệ tài sản của cơ quan, doanh nghiệp, cấp cứu nạn nhân, bắt người phạm tội quả tang và báo ngay cho cơ quan Công an nơi gần nhất;
 
-**Chỉ mục:** 10
+ c) Thực hiện các quy định về công tác phòng cháy, chữa cháy, giữ gìn trật tự công cộng;
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402460100060001000
+ d) Làm nòng cốt trong phong trào toàn dân bảo vệ an ninh Tổ quốc trong cơ quan, doanh nghiệp; xây dựng cơ quan, doanh nghiệp an toàn;
 
-**ID:** dk_00000050
+ đ) Phối hợp với Công an xã, phường, thị trấn nơi cơ quan, doanh nghiệp đóng trong công tác nắm tình hình, bảo đảm an ninh, trật tự, an toàn cơ quan, doanh nghiệp; đề xuất với người đứng đầu cơ quan, doanh nghiệp xây dựng nội quy bảo vệ cơ quan, doanh nghiệp, kế hoạch, biện pháp phòng, chống tội phạm và các hành vi vi phạm pháp luật khác trong cơ quan, doanh nghiệp;
 
----
+ e) Thực hiện các quy định về quản lý vũ khí thô sơ, công cụ hỗ trợ, vật liệu nổ, chất dễ cháy, chất độc hại (nếu có); giúp người đứng đầu cơ quan, doanh nghiệp trong việc phối hợp với cơ quan Công an để quản lý, giáo dục người có tiền án, tiền sự, người chấp hành xong các biện pháp xử lý vi phạm hành chính khác đang làm việc tại cơ quan, doanh nghiệp;
 
+ g) Phối hợp với các tổ chức quần chúng trong cơ quan, doanh nghiệp tuyên truyền, phổ biến pháp luật nhằm nâng cao ý thức cảnh giác cho mọi người; hướng dẫn các tổ chức quần chúng tham gia bảo vệ an ninh, trật tự, an toàn trong cơ quan, doanh nghiệp;
 
-### Điều 1.1.NĐ.5.11. Quyền hạn của lực lượng bảo vệ cơ quan, doanh nghiệp
+ h) Thực hiện những nhiệm vụ cụ thể khác để bảo vệ cơ quan, doanh nghiệp do người đứng đầu cơ quan, doanh nghiệp giao theo đúng quy định của pháp luật.
 
-1. Lực lượng bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị có quyền hạn sau:
+ 2. Lực lượng bảo vệ cơ quan, doanh nghiệp khác thực hiện các nhiệm vụ quy định tại Điểm a, b, c, d, đ, g, h Khoản 1 Điều này.(Điều này có nội dung liên quan đến Điều 39.16.LQ.5. Quan hệ công tác, phối hợp, hỗ trợ trong tổ chức, hoạt động, thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở)
 
-**Chỉ mục:** 11
+Điều 1.1.NĐ.5.11. Quyền hạn của lực lượng bảo vệ cơ quan, doanh nghiệp
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402460100060001100
+(Điều 11 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**ID:** dk_00000051
+ 1. Lực lượng bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị có quyền hạn sau:
 
----
+ a) Kiểm tra, đôn đốc các bộ phận, đơn vị và cán bộ, công nhân viên trong cơ quan, doanh nghiệp thực hiện các quy định của pháp luật về an ninh, trật tự và nội quy bảo vệ cơ quan, doanh nghiệp;
 
+ b) Trong khi làm nhiệm vụ, được kiểm tra giấy tờ, hàng hóa, phương tiện ra vào cơ quan, doanh nghiệp nếu có dấu hiệu vi phạm pháp luật hoặc vi phạm nội quy của cơ quan, doanh nghiệp;
 
-### Điều 1.1.NĐ.5.12. Tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp
+ c) Tiến hành công tác xác minh những vụ, việc xảy ra ở cơ quan, doanh nghiệp theo thẩm quyền mà người đứng đầu cơ quan, doanh nghiệp giao hoặc theo yêu cầu của cơ quan Công an có thẩm quyền;
 
-1. Tổ chức lực lượng bảo vệ tại các cơ quan, doanh nghiệp nhà nước, tổ chức chính trị nằm trong hệ thống tổ chức của các cơ quan, doanh nghiệp; tùy theo yêu cầu, quy mô, tính chất của cơ quan, doanh nghiệp mà thành lập phòng, ban, đội, tổ bảo vệ.
+ d) Từ chối thực hiện các yêu cầu trái pháp luật trong khi thi hành nhiệm vụ bảo vệ và phải báo cáo cơ quan chức năng để xử lý theo quy định của pháp luật.
 
-**Chỉ mục:** 12
+ 2. Lực lượng bảo vệ cơ quan, doanh nghiệp khác thực hiện quyền hạn quy định tại Điểm b, c, d Khoản 1 Điều này.(Điều này có nội dung liên quan đến Điều 1.1.NĐ.5.7. Trách nhiệm của người đứng đầu cơ quan, doanh nghiệp và cán bộ, công nhân viên trong cơ quan, doanh nghiệp)
 
-**Mã phân cấp:** 010010000000000010000060000000000000000000402460100060001200
+Điều 1.1.NĐ.5.12. Tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp
 
-**ID:** dk_00000052
+(Điều 12 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
----
+ 1. Tổ chức lực lượng bảo vệ tại các cơ quan, doanh nghiệp nhà nước, tổ chức chính trị nằm trong hệ thống tổ chức của các cơ quan, doanh nghiệp; tùy theo yêu cầu, quy mô, tính chất của cơ quan, doanh nghiệp mà thành lập phòng, ban, đội, tổ bảo vệ.
 
+ 2. Tổ chức lực lượng bảo vệ tại các cơ quan, doanh nghiệp khác do Hội đồng quản trị, Hội đồng thành viên hoặc người đứng đầu cơ quan, doanh nghiệp quyết định thành lập hoặc không thành lập, với hình thức phù hợp yêu cầu, quy mô, tính chất của cơ quan, doanh nghiệp.Điều 1.1.LQ.7. Bảo đảm điều kiện cho hoạt động bảo vệ an ninh quốc gia
 
-### Điều 1.1.LQ.7. Bảo đảm điều kiện cho hoạt động bảo vệ an ninh quốc gia
+(Điều 7 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Nhà nước bảo đảm ngân sách và cơ sở vật chất cho các hoạt động bảo vệ an ninh quốc gia trong mọi tình huống, ưu tiên các địa bàn chiến lược, xung yếu, quan trọng về an ninh quốc gia; có chính sách huy động thành tựu khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 7
+Điều 1.1.NĐ.2.12. Trang bị phương tiện đối với Bảo vệ dân phố
 
-**Mã phân cấp:** 0100100000000000100000700000000000000000
-
-**ID:** dk_00000053
-
----
-
-
-### Điều 1.1.NĐ.2.12. Trang bị phương tiện đối với Bảo vệ dân phố
+(Điều 12 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 l. Bảo vệ dân phố được trang bị và sử dụng vũ khí thô sơ, công cụ hỗ trợ theo quy định của pháp luật.
 
-**Chỉ mục:** 12
+2. Bảo vệ dân phố được trang bị giấy chứng nhận, biển hiệu, băng chức danh theo mẫu thống nhất và các phương tiện cần thiết khác theo quy định.
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402214200380001200
+Bộ Công an quy định và hướng dẫn cụ thể về trang bị phương tiện đối với Bảo vệ dân phố theo quy định của Điều này.
 
-**ID:** dk_00000054
+Điều 1.1.NĐ.2.13. Kinh phí hoạt động của Bảo vệ dân phố
 
----
-
-
-### Điều 1.1.NĐ.2.13. Kinh phí hoạt động của Bảo vệ dân phố
+(Điều 13 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Kinh phí hoạt động của bảo vệ dân phố được bảo đảm từ các nguồn sau:
 
-**Chỉ mục:** 13
+a) Ngân sách địa phương theo quy định của Luật Ngân sách nhà nước;
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402214200380001300
+b) Quỹ an ninh trật tự của địa phương;
 
-**ID:** dk_00000055
+c) Do tổ chức, cá nhân ủng hộ.
 
----
+2. Bộ Tài chính chủ trì phối hợp với Bộ Công an hướng dẫn việc quản lý và sử dụng kinh phí bảo đảm cho hoạt động của Bảo vệ dân phố.
 
+Điều 1.1.TL.1.7. Chế độ, chính sách, trang bị phương tiện và kinh phí đảm bảo hoạt động cho hoạt động của bảo vệ dân phố
 
-### Điều 1.1.TL.1.7. Chế độ, chính sách, trang bị phương tiện và kinh phí đảm bảo hoạt động cho hoạt động của bảo vệ dân phố
+(Điều 7 Thông tư liên tịch số 02/2007/TTLT-BCA-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 25/04/2007)
 
 1. Chế độ, chính sách đối với Bảo vệ dân phố
 
-**Chỉ mục:** 7
+1.1. Bảo vệ dân phố được hưởng phụ cấp hàng tháng do Ủy ban nhân dân phường chi trả. Mức phụ cấp do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương căn cứ vào điều kiện, khả năng cụ thể và cân đối ngân sách của từng địa phương để đề nghị Hội đồng nhân dân cùng cấp quyết định phê duyệt mức phụ cấp hàng tháng cho Bảo vệ dân phố theo từng chức danh: Trưởng ban, Phó trưởng ban, Tổ trưởng, tổ phó và các tổ viên tổ Bảo vệ dân phố. Trường hợp Bảo vệ dân phố giữ nhiều chức danh khác nhau thì phụ cấp sẽ được hưởng theo chức danh cao nhất.
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040221420038000130000802246000020000700
+1.2. Bảo vệ dân phố trong khi làm nhiệm vụ mà bị thương hoặc hy sinh theo quy định tại Điều 3, Điều 11 Nghị định số 54/2006/NĐ-CP ngày 26/5/2006 của Chính phủ hướng dẫn thi hành một số điều của Pháp lệnh ưu đãi người có công với cách mạng, thì được xem xét xác nhận là người được hưởng chính sách như thương binh hoặc liệt sỹ. Thủ tục hồ sơ xác nhận thực hiện theo hướng dẫn tại mục II, mục V phần I của Thông tư số 07/2006/TT-BLĐTBXH ngày 26/7/2006 của Bộ Lao động – Thương binh và Xã hội.
 
-**ID:** dk_00000056
+1.3. Bảo vệ dân phố được bồi dưỡng kiến thức pháp luật và nghiệp vụ về công tác bảo vệ an ninh trật tự. Trong thời gian tập trung bồi dưỡng kiến thức pháp luật và nghiệp vụ, Bảo vệ dân phố được hưởng chế độ phụ cấp đi lại, ăn ở như quy định đối với Công an xã.
 
----
+1.4. Tổ chức, cá nhân có thành tích xuất sắc trong việc xây dựng, hướng dẫn, chỉ đạo công tác cho Bảo vệ dân phố thì được khen thưởng theo quy định của Nhà nước. Tổ chức, cá nhân Bảo vệ dân phố được xét thi đua khen thưởng hàng năm, nếu có thành tích đột xuất thì được xét khen thưởng theo Luật thi đua khen thưởng.
 
+2. Trang bị phương tiện cho Bảo vệ dân phố
 
-### Điều 1.1.NĐ.3.3. Nguyên tắc bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự
+2.1. Vũ khí thô sơ, công cụ hỗ trợ trang bị cho Bảo vệ dân phố gồm: gậy, dùi cui cao su, roi điện, gậy điện…
 
-1. Căn cứ vào khả năng cân đối của ngân sách, Nhà nước bảo đảm điều kiện về ngân sách và cơ sở vật chất đáp ứng yêu cầu bào vệ an ninh, trật tự trong mọi tình huống, trong đó ưu tiên cho các địa bàn chiến lược, xung yếu, quan trọng về an ninh, trật tự.
+Bộ Công an (Tổng cục Cảnh sát) chủ trì phối hợp với các đơn vị có liên quan hướng dẫn việc trang bị, quản lý, sử dụng vũ khí thô sơ, công cụ hỗ trợ cho Bảo vệ dân phố theo đúng các quy định của pháp luật.
 
-**Chỉ mục:** 3
+2.2. Giấy chứng nhận, biển hiệu, băng chức danh của Bảo vệ dân phố:
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270000300
+2.2.1. Giấy chứng nhận, biển hiệu, băng chức danh của Bảo vệ dân phố do địa phương tự in theo mẫu thống nhất sau đây:
 
-**ID:** dk_00000057
+a. Giấy chứng nhận Bảo vệ dân phố (có mẫu kèm theo): hình chữ nhật, kích thước 6 x 9cm. Mặt trước: Nền màu đỏ, xung quanh có khung màu vàng, nét khung có kích thước 0,1cm và cách mép ngoài của giấy 0,5cm. Ở giữa, phía trên in hình huy hiệu Vì An Ninh Tổ Quốc, phía dưới, dòng thứ nhất in dòng chữ: "GIẤY CHỨNG NHẬN", mẫu chữ in hoa, nét 0,1cm màu vàng, chiều cao: 0,4cm. Dòng thứ 2 in: "BẢO VỆ DÂN PHỐ", mẫu chữ in hoa, nét đậm 0,2cm màu vàng, chiều cao 0,5cm. Mặt sau: Nền trắng, có hoa văn bảo vệ, hình huy hiệu Vì an ninh Tổ quốc và khung diềm màu xanh nhạt, nét trong mảnh, nét ngoài đậm. Góc trên bên phải của giấy in, để ghi tên địa phương, theo thứ tự từ trên xuống: phường, thị trấn; Quận, huyện; Tỉnh, thành phố; Số giấy chứng nhận (dùng 3 chữ số bắt đầu từ số 001 theo từng phường, thị trấn; Số giấy chứng nhận với số ghi trên biển hiệu là cùng một số); Phía dưới có khung, kích thước 3cmx4cm dùng để dán ảnh. Bên trái, theo trình tự từ trên xuống là: Quốc hiệu; chữ: CHỨNG NHẬN màu đỏ, chữ in hoa nét đậm 0,1cm, chiều cao 0,3cm; chữ: Ông, bà… dùng để ghi đầy đủ họ, tên, tên đệm của Bảo vệ dân phố; Tiếp theo là: Chức vụ… dùng để ghi rõ: trưởng ban, phó trưởng ban, ủy viên…; dòng Ban Bảo vệ dân phố, khu phố cụm dân cư: dùng để ghi tên khu phố hoặc cụm dân cư của Ban Bảo vệ dân phố đó (Ví dụ: Khu phố I hoặc cụm dân cư 15); dòng tiếp theo ghi nơi cấp giấy (phường, thị trấn) và ngày, tháng, năm cấp giấy; cuối cùng là: Chủ tịch Ủy ban nhân dân phường, thị trấn, dành cho Chủ tịch Ủy ban nhân dân phường ký, đóng dấu và ghi rõ họ, tên.
 
----
+Mẫu giấy Chứng nhận Bảo vệ dân phố:
 
+b. Biển hiệu Bảo vệ dân phố (có mẫu kèm theo): hình chữ nhật, màu trắng, kích thước 5cm x 8cm, in một mặt, xung quanh có khung màu đỏ, nét 0,1cm, cách mép ngoài biển hiệu 0,3cm; 1/3 phía trên có 2 dòng chữ, dòng thứ nhất in UBND phường, thị trấn dùng để ghi tên phường, thị trấn của Bảo vệ dân phố. Dòng thứ hai in chữ BẢO VỆ DÂN PHỐ, màu đỏ, chữ in hoa, nét đậm, chiều cao: 0,6cm. 2/3 phía dưới, bên phải có khung dùng để dán ảnh 3x4; Bên trái, dòng trên cùng để trống để ghi họ, tên Bảo vệ dân phố, kèm theo số hiệu (trùng với số của giấy chứng nhận), ví dụ: Nguyễn Văn Hải – 135, kiểu chữ in hoa, nét đậm, chiều cao 0,3cm; dòng thứ 2 ghi chức danh của Bảo vệ dân phố như: trưởng ban, phó trưởng ban, ủy viên…; dòng tiếp theo in: Ban Bảo vệ dân phố khu phố, cụm dân cư… dùng để ghi tên khu phố hoặc cụm dân cư của Bảo vệ dân phố đó.
 
-### Điều 1.1.NĐ.3.4. Nội dung bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự
+Mẫu biển hiệu Bảo vệ dân phố:
+
+c. Băng chức danh Bảo vệ dân phố màu đỏ, rộng 10cm, dài 40cm may tròn để lồng được vào tay áo, mép trên có băng cài để cài vào áo khi sử dụng. Phía trên và dưới của băng có viền màu vàng, nét 0,5cm, vòng hết chiều dài của băng chính giữa trên mặt của băng in hoặc thuê dòng chữ: "BẢO VỆ DÂN PHỐ" màu vàng, chữ in hoa nét đậm 0,5cm, chiều cao chữ 4cm; chiều rộng chữ 1,5cm, khoảng cách giữa các chữ trong một từ là: 0,2cm, khoảng cách giữa các từ là 0,6cm.
+
+2.2.2. Giấy chứng nhận, biển hiệu được cấp cho Bảo vệ dân phố. Khi không làm Bảo vệ dân phố nữa, người được cấp Giấy chứng nhận, Biển hiệu phải nộp lại cho Tổ, Ban Bảo vệ dân phố để nộp lại cho Ủy ban nhân dân phường. Khi mất hỏng phải báo với tổ, ban để truy tìm và đề nghị Ủy ban nhân dân phường xét cấp lại nếu không truy tìm được. Băng chức danh được để tại nơi làm việc của Tổ, Ban Bảo vệ dân phố. Khi làm nhiệm vụ, Bảo vệ dân phố phải mang đầy đủ Giấy chứng nhận, Biển hiệu, băng chức danh bảo vệ dân phố và có trách nhiệm bảo quản. Tuyệt đối không được cho người khác mượn, sử dụng Giấy chứng nhận, Biểu hiệu, Băng chức danh Bảo vệ dân phố.
+
+2.2.3. Giấy chứng nhận, Biển hiệu, Băng chức danh Bảo vệ dân phố chỉ được sử dụng trong khi làm nhiệm vụ. Khi sử dụng, Biểu hiệu được đeo ở giữa ngực bên trái, mép trên của biển hiệu ngang với cúc áo thứ nhất từ trên xuống. Băng chức danh được đeo ở giữa khuỷu trên tay trái, hàng chữ "BẢO VỆ DÂN PHỐ" được quay ra phía ngoài cánh tay.
+
+2.3. Ngoài Giấy chứng nhận, Biển hiệu, băng chức danh, Bảo vệ dân phố được trang bị các phương tiện cần thiết khác như: Đồng phục, còi, đèn pin, sổ ghi chép.
+
+2.4. Chủ tịch Ủy ban nhân dân cấp phường có trách nhiệm bố trí địa điểm làm việc cho Bảo vệ dân phố; cấp và quản lý việc cấp, thu hồi Giấy chứng nhận, biển hiệu và băng chức danh Bảo vệ dân phố; căn cứ số lượng Bảo vệ dân phố và nhu cầu trang bị, tập hợp số liệu trang bị vũ khí thô sơ, công cụ hỗ trợ, Giấy chứng nhận, biển số hiệu, Băng chức danh và các phương tiện cần thiết khác, báo cáo Chủ tịch Ủy ban nhân dân cấp quận để báo cáo Chủ tịch Ủy ban nhân dân cấp tỉnh duyệt cấp kinh phí cho việc trang bị vũ khí thô sơ, công cụ hỗ trợ, in Giấy chứng nhận, Biển hiệu, Băng chức danh và các phương tiện cần thiết khác phục vụ công tác của Bảo vệ dân phố.
+
+2.5. Giám đốc Công an cấp tỉnh có trách nhiệm tham mưu giúp Chủ tịch Ủy ban nhân dân cấp tỉnh trong việc trang bị vũ khí thô sơ, công cụ hỗ trợ, tổ chức in, cấp Giấy chứng nhận, biển hiệu, băng chức danh, đồng phục và các phương tiện cần thiết khác cho Bảo vệ dân phố theo quy định của Nghị định và Thông tư này.
+
+2.6. Bộ Công an (Tổng cục Hậu cần Công an nhân dân) có trách nhiệm nghiên cứu, hướng dẫn mẫu trang phục dành cho Bảo vệ dân phố để thực hiện thống nhất trong toàn quốc.
+
+3. Kinh phí bảo đảm hoạt động của Bảo vệ dân phố
+
+3.1. Nguồn kinh phí bảo đảm cho hoạt động của Bảo vệ dân phố gồm:
+
+a. Ngân sách địa phương theo quy định của Luật Ngân sách nhà nước;
+
+b. Quỹ an ninh trật tự của địa phương;
+
+c. Đóng góp ủng hộ của các tổ chức, cá nhân theo quy định của pháp luật.
+
+3.2. Quản lý sử dụng kinh phí:
+
+a. Việc trang bị phương tiện làm việc, cấp phát trang phục và chi trả chế độ phụ cấp cho Bảo vệ dân phố phải đảm bảo đúng chế độ, tiêu chuẩn, định mức chi được cấp có thẩm quyền quyết định.
+
+b. Công tác lập, chấp hành và quyết toán kinh phí bảo đảm cho hoạt động của Bảo vệ dân phố thực hiện theo quy định của Luật ngân sách nhà nước; Nghị định số 60/2003/NĐ-CP ngày 06/6/2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật ngân sách nhà nước; Nghị định số 10/2004/NĐ-CP ngày 07/01/2004 của Chính phủ quy định về quản lý, sử dụng ngân sách và tài sản của Nhà nước đối với một số hoạt động thuộc lĩnh vực quốc phòng, an ninh; và Thông tư số 60/2003/TT-BTC ngày 23/6/2003 của Bộ Tài chính quy định về quản lý ngân sách xã và các hoạt động tài chính khác của xã, phường, thị trấn.
+
+Hàng năm, Giám đốc Công an tỉnh, thành phố trực thuộc trung ương có trách nhiệm lập kế hoạch, báo cáo Chủ tịch UBND cùng cấp phê duyệt kinh phí trang bị vũ khí thô sơ, công cụ hỗ trợ theo quy định của Bộ Công an để phục vụ công tác của Bảo vệ dân phố.
+
+c. Căn cứ tình hình phát triển kinh tế - xã hội, nhiệm vụ đảm bảo an ninh quốc phòng và trật tự an toàn xã hội của từng thời kỳ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định việc huy động, quản lý và sử dụng quỹ an ninh, trật tự hoặc quỹ Quốc phòng, An ninh (theo Pháp lệnh dân quân tự vệ) trên địa bàn.
+
+Việc quản lý, sử dụng Quỹ và các khoản đóng góp của các tổ chức, cá nhân phải thực hiện công khai tài chính theo chế độ quy định hiện hành.
+
+Mẫu Biển hiệu bảo vệ dân phố.doc
+
+Mẫu Giấy chứng nhận bảo vệ dân phố.doc
+
+(Điều này có nội dung liên quan đến Điều 17. Điều kiện xác nhận liệt sĩ; Điều 27. Điều kiện xác nhận của Nghị định 31/2013/NĐ-CP Hướng dẫn Pháp lệnh ưu đãi người có công với cách mạng ban hành ngày 09/04/2013)
+
+Điều 1.1.NĐ.3.3. Nguyên tắc bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự
+
+(Điều 3 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
+
+ 1. Căn cứ vào khả năng cân đối của ngân sách, Nhà nước bảo đảm điều kiện về ngân sách và cơ sở vật chất đáp ứng yêu cầu bào vệ an ninh, trật tự trong mọi tình huống, trong đó ưu tiên cho các địa bàn chiến lược, xung yếu, quan trọng về an ninh, trật tự.
+
+ 2. Khi có nguy cơ đe doạ an ninh quốc gia nhưng chưa đến mức ban bố tình trạng khẩn cấp, mọi nguồn lực về nhân lực, tài chính, cơ sở vật chất và thành tựu khoa học, công nghệ của các tổ chức, cá nhân đều có thể được Nhà nước xem xét huy động cho hoạt động bảo vệ an ninh quốc gia.
+
+ Trong trường hợp cấp thiết, khi an ninh, trật tự bị xâm phạm nghiêm trọng, mọi phương tiện giao thông, thông tin và các phương tiện kỹ thuật khác của tổ chức, cá nhân và người điều khiển, sử dụng các phương tiện đó đều có thể được Nhà nước xem xét huy động phục vụ hoạt động bảo vệ trật tự an toàn xã hội.
+
+ 3. Nhà nước thực hiện chính sách đền bù kịp thời, thoả đáng theo thời giá thị trường và quy định của pháp luật đối với cá nhân, tổ chức có nguồn lực được huy động cho hoạt động bảo vệ an ninh, trật tự.
+
+ 4. Nghiêm cấm hành vi lợi dụng việc bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự vào mục đích trái pháp luật.Điều 1.1.NĐ.3.4. Nội dung bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự
+
+(Điều 4 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
 1. Bảo đảm điều kiện về ngân sách và cơ sở vật chất cho hoạt động bảo vệ an ninh, trật tự bao gồm: đầu tư tài chính, trang bị vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ, đất đai, trụ sở, công trình, cơ sở công nghiệp và các điều kiện vật chất, kỹ thuật khác cho hoạt động bảo vệ an ninh, trật tự.
 
-**Chỉ mục:** 4
+2. Huy động thành tựu khoa học, công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự bao gồm: chuyển giao công nghệ và kết quả nghiên cứu khoa học và phát triển công nghệ; bảo đảm cơ sở vật chất - kỹ thuật cho các cơ sở đào tạo và nghiên cứu khoa học của cơ quan chuyên trách bảo vệ an ninh, trật tự; bảo đảm tiềm lực thông tin, cơ sở dữ liệu, tư liệu khoa học và công nghệ; bổ sung lực lượng, đào tạo, bồi dưỡng nhân lực khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự.
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270000400
+3. Dự trữ quốc gia bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự bao gồm dự trữ dài hạn, trung hạn và hàng năm về ngân sách, hàng dự trữ quốc gia.
 
-**ID:** dk_00000058
+(Điều này có nội dung liên quan đến Điều 32. Bảo đảm kinh phí và cơ sở vật chất phục vụ hoạt động của Công an nhân dân của Luật 73/2014/QH13 Công an nhân dân ban hành ngày 27/11/2014)
 
----
+Điều 1.1.NĐ.3.5. Hình thức và phương thức huy động nguồn lực phục vụ hoạt động bảo vệ an ninh, trật tự
 
+(Điều 5 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-### Điều 1.1.NĐ.3.5. Hình thức và phương thức huy động nguồn lực phục vụ hoạt động bảo vệ an ninh, trật tự
+ 1. Việc huy động các nguồn lực của các tổ chức, cá nhân phục vụ hoạt động bảo vệ an ninh, trật tự được thực hiện theo hình thức trưng thu, trưng mua và trọng dụng.
 
-1. Việc huy động các nguồn lực của các tổ chức, cá nhân phục vụ hoạt động bảo vệ an ninh, trật tự được thực hiện theo hình thức trưng thu, trưng mua và trọng dụng.
+ 2. Việc huy động các nguồn lực của các tổ chức, cá nhân phục vụ hoạt động bảo vệ an ninh, trật tự được thực hiện theo phương thức:
 
-**Chỉ mục:** 5
+ a) Bắt buộc khi có các tình huống, yếu tố có ảnh hưởng trực tiếp đến an ninh, trật tự;
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270000500
+ b) Hợp đồng thoả thuận giữa cơ quan chuyên trách bảo vệ an ninh, trật tự với các tổ chức, cá nhân;
 
-**ID:** dk_00000059
+ c) Tự nguyện của các tổ chức, cá nhân trong việc giúp đỡ cơ quan chuyên trách bảo vệ an ninh, trật tự.
 
----
+ 3. Căn cứ từng trường hợp cụ thể, cơ quan có thẩm quyền quyết định việc áp dụng các phương thức huy động nguồn lực bảo vệ an ninh, trật tự.(Điều này có nội dung liên quan đến Điều 28.6.LQ.5. Điều kiện trưng mua, trưng dụng tài sản)
 
+Điều 1.1.NĐ.3.6. Quyền lợi của các tổ chức, cá nhân có nguồn lực được huy động cho hoạt động bảo vệ an ninh, trật tự
 
-### Điều 1.1.NĐ.3.6. Quyền lợi của các tổ chức, cá nhân có nguồn lực được huy động cho hoạt động bảo vệ an ninh, trật tự
+(Điều 6 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-1. Trường hợp nguồn lực của các tổ chức, cá nhân được huy động theo phương thức bắt buộc nhưng không phải trưng mua thì cơ quan chuyên trách bảo vệ an ninh, trật tự phải hoàn trả ngay cho cá nhân, tổ chức có nguồn lực được huy động khi tình huống, yếu tố có ảnh hưởng trực tiếp đến an ninh, trật tự không còn. Nếu xảy ra thiệt hại thì cơ quan chuyên trách bảo vệ an ninh, trật tự có trách nhiệm bồi thường theo quy định của pháp luật.
+ 1. Trường hợp nguồn lực của các tổ chức, cá nhân được huy động theo phương thức bắt buộc nhưng không phải trưng mua thì cơ quan chuyên trách bảo vệ an ninh, trật tự phải hoàn trả ngay cho cá nhân, tổ chức có nguồn lực được huy động khi tình huống, yếu tố có ảnh hưởng trực tiếp đến an ninh, trật tự không còn. Nếu xảy ra thiệt hại thì cơ quan chuyên trách bảo vệ an ninh, trật tự có trách nhiệm bồi thường theo quy định của pháp luật.
 
-**Chỉ mục:** 6
+ 2. Tổ chức, cá nhân có sáng kiến, thành tựu khoa học, công nghệ được huy động phục vụ hoạt động bảo vệ an ninh, trật tự được hưởng các quyền lợi về vật chất và tinh thần theo quy định của pháp luật.
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270000600
+ 3. Bộ Công an chủ trì, phối hợp với Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội, Bộ Nội vụ, Bộ Khoa học và Công nghệ, Bộ Giáo dục và Đào tạo, Bộ Tài chính và các cơ quan, tổ chức có liên quan quy định cụ thể chế độ, chính sách ưu đãi phù hợp đối với từng phương thức huy động nguồn lực phục vụ hoạt động bảo vệ an ninh, trật tự.Điều 1.1.NĐ.3.7. Bảo vệ bí mật Nhà nước trong bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự
 
-**ID:** dk_00000060
+(Điều 7 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
----
+ Các hoạt động bảo đảm điều kiện về ngân sách, cơ sở vật chất, dự trữ quốc gia cho hoạt động bảo vệ an ninh, trật tự và chính sách huy động thành tựu khoa học, công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự phải tuân thủ những quy định có liên quan về bảo vệ bí mật Nhà nước.(Điều này có nội dung liên quan đến Điều 5. của Pháp lệnh 30/2000/PL-UBTVQH10 Bảo vệ bí mật Nhà nước ban hành ngày 28/12/2000)
 
+Điều 1.1.NĐ.3.8. Ngân sách bảo đảm cho các hoạt động bảo vệ an ninh, trật tự
 
-### Điều 1.1.NĐ.3.7. Bảo vệ bí mật Nhà nước trong bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự
+(Điều 8 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-Các hoạt động bảo đảm điều kiện về ngân sách, cơ sở vật chất, dự trữ quốc gia cho hoạt động bảo vệ an ninh, trật tự và chính sách huy động thành tựu khoa học, công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự phải tuân thủ những quy định có liên quan về bảo vệ bí mật Nhà nước.
+ 1. Ngân sách Nhà nước bảo đảm cho các hoạt động bảo vệ an ninh, trật tự được cân đối, bố trí trong dự toán ngân sách hàng năm giao cho các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương và Ủy ban nhân dân các cấp theo quy định của Luật Ngân sách Nhà nước.
 
-**Chỉ mục:** 7
+ 2. Việc lập dự toán, sử dụng và quyết toán ngân sách Nhà nước bảo đảm cho các hoạt động bảo vệ an ninh, trật tự được thực hiện theo Luật Ngân sách Nhà nước.Điều 1.1.NĐ.3.9. Cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270000700
+(Điều 9 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-**ID:** dk_00000061
+ Cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự được Nhà nước bảo đảm, bao gồm: đất đai, trụ sở, công trình, trang thiết bị, vũ khí, công cụ hỗ trợ, phương tiện giao thông, phương tiện thông tin liên lạc, phương tiện kỹ thuật nghiệp vụ và các điều kiện vật chất, kỹ thuật khác.Điều 1.1.NĐ.3.10. Thẩm quyền trưng thu, trưng mua, trưng dụng cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự
 
----
+(Điều 10 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
+ 1. Thủ tướng Chính phủ có thẩm quyền quyết định trưng thu, trưng mua, trưng dụng đối với đất đai, công trình, thiết bị, phương tiện giao thông, thông tin liên lạc và người điều khiển sử dụng các phương tiện đó hoặc các tài sản khác của tổ chức, cá nhân.
 
-### Điều 1.1.NĐ.3.8. Ngân sách bảo đảm cho các hoạt động bảo vệ an ninh, trật tự
+ 2. Cơ quan chuyên trách bảo vệ an ninh, trật tự có thẩm quyền quyết định trưng dụng đối với các công trình, thiết bị, phương tiện giao thông, thông tin liên lạc và người điều khiển, sử dụng các phương tiện đó hoặc các tài sản khác của tổ chức, cá nhân.
 
-1. Ngân sách Nhà nước bảo đảm cho các hoạt động bảo vệ an ninh, trật tự được cân đối, bố trí trong dự toán ngân sách hàng năm giao cho các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương và Ủy ban nhân dân các cấp theo quy định của Luật Ngân sách Nhà nước.
+ 3. Trình tự, thủ tục trưng thu, trưng mua, trưng dụng được thực hiện theo quy định của pháp luật.Điều 1.1.NĐ.3.11. Sản xuất, cấp phát vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ phục vụ hoạt động bảo vệ an ninh, trật tự
 
-**Chỉ mục:** 8
+(Điều 11 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270000800
+ 1. Hàng năm, căn cứ vào yêu cầu nhiệm vụ bảo vệ an ninh, trật tự, cơ quan chuyên trách bảo vệ an ninh trật tự dự trù số lượng, chủng loại vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ cần thiết phục vụ hoạt động bảo vệ an ninh, trật tự, báo cáo Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quyết định cấp phát.
 
-**ID:** dk_00000062
+ 2. Căn cứ vào nhu cầu cấp phát và điều kiện thực tế, Bộ trưởng Bộ Công an quyết định việc sản xuất và cấp phát vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ trong lực lượng Công an nhân dân; Bộ trưởng Bộ Quốc phòng quyết định việc sản xuất và cấp phát vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ cho lực lượng chuyên trách bảo vệ an ninh, trật tự trong Quân đội nhân dân. Trường hợp vượt quá thẩm quyền thì Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc nhòng trình Thủ tướng Chính phủ quyết định.
 
----
+ Đối với vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ phục vụ cho hoạt động bảo vệ an ninh, trật tự mà trong nước chưa sản xuất được hoặc chưa đáp ứng đủ nhu cầu thì Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng trình Thủ tướng Chính phủ quyết định nhập khẩu.
 
+ 3. Thủ trưởng cơ quan chuyên trách bảo vệ an ninh, trật tự các cấp, theo thẩm quyền, có trách nhiệm ký duyệt kế hoạch cấp phát vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ cho các lực lượng thuộc quyền quản lý của mình để sử dụng theo chức năng, nhiệm vụ, quyền hạn được giao; tổ chức theo dõi, kiểm tra, quản lý chặt chẽ, chống mất mát, hư hỏng, sử dụng sai mục đích hoặc vi phạm pháp luật.
 
-### Điều 1.1.NĐ.3.9. Cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự
+ 4. Việc sản xuất, cấp phát vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ phải tuân thủ nghiêm ngặt các quy định của pháp luật và của Bộ Công an, Bộ Quốc phòng.(Điều này có nội dung liên quan đến Điều 12. Nghiên cứu, chế tạo, sản xuất, sửa chữa vũ khí; Điều 29. Nghiên cứu, chế tạo, sản xuất, sửa chữa công cụ hỗ trợ; Điều 32. Nhập khẩu, xuất khẩu, kinh doanh công cụ hỗ trợ của Pháp lệnh 16/2011/UBTVQH12 Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ban hành ngày 30/06/2011)
 
-Cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự được Nhà nước bảo đảm, bao gồm: đất đai, trụ sở, công trình, trang thiết bị, vũ khí, công cụ hỗ trợ, phương tiện giao thông, phương tiện thông tin liên lạc, phương tiện kỹ thuật nghiệp vụ và các điều kiện vật chất, kỹ thuật khác.
+Điều 1.1.NĐ.3.12. Thu hồi, thanh lý, tiêu huỷ vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ phục vụ hoạt động bảo vệ an ninh, trật tự
 
-**Chỉ mục:** 9
+(Điều 12 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270000900
+ 1. Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh, trật tự được giao quản lý, sử dựng vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ khi chuyển công tác khác hoặc về hưu, chuyển ngành, bị kỷ luật buộc thôi việc hoặc theo quyết định, mệnh lệnh, yêu cầu của người có thẩm quyền phải giao trả lại cho đơn vị chủ quản vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ đã được trang bị.
 
-**ID:** dk_00000063
+ 2. Đối với vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ hết hạn sử dụng hoặc kém chất lượng thì thủ trưởng cơ quan chuyên trách bảo vệ an ninh, trật tự các cấp phải lập biên bản thu hồi và đề nghị các cơ quan chức năng thuộc Bộ Công an hoặc Bộ Quốc phòng xem xét, quyết định hoặc đề xuất việc xử lý.
 
----
+ 3. Các cơ quan chức năng thuộc Bộ Công an, Bộ Quốc phòng chủ trì, phối hợp với các cơ quan có liên quan tổ chức việc thanh lý, tiêu huỷ hoặc trình cấp có thẩm quyền quyết định việc thanh lý, tiêu huỷ vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ theo trình tự, thủ tục pháp luật quy định và theo hướng dẫn của Bộ Công an, Bộ Quốc phòng về thu hồi, thanh lý, tiêu huỷ vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ.(Điều này có nội dung liên quan đến Điều 11. Giao nộp, tiếp nhận và xử lý vũ khí, vật liệu nổ, công cụ hỗ của Pháp lệnh 16/2011/UBTVQH12 Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ban hành ngày 30/06/2011)
 
+Điều 1.1.NĐ.3.13. Xây dựng, phát triển cơ sở hạ tầng thông tin phục vụ hoạt động bảo vệ an ninh, trật tự
 
-### Điều 1.1.NĐ.3.10. Thẩm quyền trưng thu, trưng mua, trưng dụng cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự
+(Điều 13 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-1. Thủ tướng Chính phủ có thẩm quyền quyết định trưng thu, trưng mua, trưng dụng đối với đất đai, công trình, thiết bị, phương tiện giao thông, thông tin liên lạc và người điều khiển sử dụng các phương tiện đó hoặc các tài sản khác của tổ chức, cá nhân.
+ 1. Bộ Công an, Bộ Quốc phòng, theo chức năng và nhiệm vụ, chủ trì, phối hợp với Bộ Bưu chính, Viễn thông, Bộ Khoa học và Công nghệ, Ban Cơ yếu Chính phủ xây dựng, phát triển, hiện đại hoá cơ sở hạ tầng thông tin của cơ quan chuyên trách bảo vệ an ninh, trật tự để đáp ứng yêu cầu bảo vệ an ninh, trật tự trong mọi tình huống.
 
-**Chỉ mục:** 10
+ 2. Bộ Công an, Bộ Bưu chính, Viễn thông, theo chức năng và nhiệm vụ, chủ trì, phối hợp với Bộ Khoa học và Công nghệ, Ban Cơ yếu Chính phủ xây dựng, ban hành, tổ chức thực hiện các quy định của pháp luật về bảo đảm an toàn mạng bưu chính, mạng viễn thông và an ninh thông tin của các cơ quan, tổ chức, cá nhân.
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001000
+ 3. Cơ quan, tổ chức, doanh nghiệp và cá nhân phải thực hiện các quy định của pháp luật về bảo đảm an ninh thông tin và an toàn mạng bưu chính, mạng viễn thông.Điều 1.1.NĐ.3.14. Đầu tư, phát triển xây dựng các cơ sở nghiên cứu khoa học, công nghệ, huấn luyện, đào tạo phục vụ hoạt động bảo vệ an ninh, trật tự
 
-**ID:** dk_00000064
+(Điều 14 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
----
+ 1. Bộ Công an, Bộ Quốc phòng, theo chức năng và nhiệm vụ, chủ trì, phối hợp với các Bộ, ngành hữu quan quy định cụ thể và tổ chức thực hiện chính sách ưu tiên đầu tư phát triển, hiện đại hoá các học viện, viện nghiên cứu, nhà trường và các cơ sở nghiên cứu, đào tạo khác thuộc lực lượng chuyên trách bảo vệ an ninh, trật tự; nghiên cứu, ứng dụng các thành tựu khoa học, kỹ thuật, công nghệ vào công tác bảo vệ an ninh, trật tự; tổ chức đào tạo, bồi dưỡng, huấn luyện các cán bộ, chuyên gia khoa học, kỹ thuật, nghiệp vụ có trình độ để đáp ứng nhu cầu công tác bảo vệ an ninh, trật tự; huấn luyện, bồi dưỡng kiến thức bảo đảm an ninh, trật tự cho cán bộ chủ chốt của các cơ quan, tổ chức khác.
 
+ 2. Nhà nước tăng cường cơ sở vật chất - kỹ thuật cho các cơ sở đào tạo và nghiên cứu khoa học của cơ quan chuyên trách bảo vệ an ninh, trật tự, bao gồm:
 
-### Điều 1.1.NĐ.3.11. Sản xuất, cấp phát vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ phục vụ hoạt động bảo vệ an ninh, trật tự
+ a) Xây dựng phòng thí nghiệm, trạm thử nghiệm, trạm quan trắc cấp quốc gia và các cơ sở vật chất kỹ thuật khác thuộc lĩnh vực chuyên môn của cơ quan chuyên trách bảo vệ an ninh, trật tự và giao Bộ Công an, Bộ Quốc phòng trực tiếp quản lý, sử dụng;
 
-1. Hàng năm, căn cứ vào yêu cầu nhiệm vụ bảo vệ an ninh, trật tự, cơ quan chuyên trách bảo vệ an ninh trật tự dự trù số lượng, chủng loại vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ cần thiết phục vụ hoạt động bảo vệ an ninh, trật tự, báo cáo Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quyết định cấp phát.
+ b) Đầu tư, bổ sung, sửa chữa và nâng cấp các phòng thí nghiệm, trạm quan trắc ở các cơ sở nghiên cứu và đào tạo của cơ quan chuyên trách bảo vệ an ninh, trật tự theo quy hoạch và kế hoạch hàng năm.
 
-**Chỉ mục:** 11
+ 3. Nhà nước có chính sách bổ sung lực lượng, đào tạo, bồi dưỡng nhân lực khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự, bao gồm:
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001100
+ a) Tuyển chọn, điều động cán bộ, công chức, nhân viên khoa học, công nghệ thuộc các ngành, nghề thích hợp vào phục vụ dài hạn hoặc ngắn hạn trong lực lượng chuyên trách bảo vệ an ninh, trật tự;
 
-**ID:** dk_00000065
+ b) Tổ chức đào tạo, bồi dưỡng về khoa học, công nghệ tại các cơ sở đào tạo của lực lượng chuyên trách bảo vệ an ninh, trật tự;
 
----
+ c) Ưu tiên, tạo điều kiện cho cơ quan chuyên trách bảo vệ an ninh, trật tự cử người đủ tiêu chuẩn đi học tập, bồi dưỡng nâng cao trình độ khoa học, công nghệ ở trong nước và nước ngoài, ngoài những loại hình đào tạo riêng của lực lượng chuyên trách bảo vệ an ninh, trật tự.Điều 1.1.NĐ.3.15. Việc ưu tiên bảo đảm điều kiện về cơ sở vật chất cho các địa bàn chiến lược, xung yếu
 
+(Điều 15 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-### Điều 1.1.NĐ.3.12. Thu hồi, thanh lý, tiêu huỷ vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ phục vụ hoạt động bảo vệ an ninh, trật tự
+ Bộ Công an chủ trì, phối hợp với các Bộ, ngành liên quan nghiên cứu, đề xuất cấp có thẩm quyền thực hiện chính sách ưu tiên trang bị vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ, đất đai, trụ sở, công trình và đầu tư xây dựng, củng cố các cơ sở công nghiệp, cơ sở nghiên cứu khoa học, công nghệ, hệ thống thông tin liên lạc và các điều kiện vật chất, kỹ thuật khác đảm bảo tăng cường hoạt động bảo vệ an ninh, trật tự trên địa bàn.Điều 1.1.NĐ.3.16. Dự trữ quốc gia để bảo đảm hoạt động bảo vệ an ninh, trật tự
 
-1. Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh, trật tự được giao quản lý, sử dựng vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ khi chuyển công tác khác hoặc về hưu, chuyển ngành, bị kỷ luật buộc thôi việc hoặc theo quyết định, mệnh lệnh, yêu cầu của người có thẩm quyền phải giao trả lại cho đơn vị chủ quản vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ đã được trang bị.
+(Điều 16 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-**Chỉ mục:** 12
+ Dự trữ quốc gia để bảo đảm hoạt động bảo vệ an ninh, trật tự, nằm trong chiến lược dự trữ quốc gia. Chính phủ có kế hoạch dự trữ dài hạn, trung hạn và hàng năm về ngân sách, hàng dự trữ quốc gia và các loại tài sản khác bảo đảm điều kiện cho các hoạt động bảo vệ an ninh, trật tự trong mọi tình huống.
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001200
+ Việc xác định danh mục hàng dự trữ, mức dự trữ, lập kế hoạch, dự toán ngân sách và tổ chức thực hiện, quản lý tài chính và ngân sách cho dự trữ quốc gia để bảo đảm cho hoạt động bảo vệ an ninh, trật tự được thực hiện theo các quy định tại Nghị định số 196/2004/NĐ-CP ngày 02 tháng 12 năm 2004 của Chính phủ quy định chi tiết thi hành Pháp lệnh Dự trữ quốc gia.Điều 1.1.NĐ.3.17. Chuyển giao công nghệ và kết quả nghiên cứu khoa bọc và phát triển công nghệ
 
-**ID:** dk_00000066
+(Điều 17 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
----
+ 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp, doanh nghiệp nhà nước, các tổ chức, cá nhân hoạt động khoa học và công nghệ có trách nhiệm chuyển giao kết quả nghiên cứu khoa học và phát triển công nghệ tiên tiến liên quan đến an ninh, trật tự cho cơ quan chuyên trách bảo vệ an ninh, trật tự theo các phương thức sau:
 
+ a) Chuyển giao theo phương thức bắt buộc đối với những tình huống, yếu tố có ảnh hưởng trực tiếp đến an ninh, trật tự;
 
-### Điều 1.1.NĐ.3.13. Xây dựng, phát triển cơ sở hạ tầng thông tin phục vụ hoạt động bảo vệ an ninh, trật tự
+ b) Chuyển giao theo phương thức hợp đồng đối với những trường hợp đặt hàng;
 
-1. Bộ Công an, Bộ Quốc phòng, theo chức năng và nhiệm vụ, chủ trì, phối hợp với Bộ Bưu chính, Viễn thông, Bộ Khoa học và Công nghệ, Ban Cơ yếu Chính phủ xây dựng, phát triển, hiện đại hoá cơ sở hạ tầng thông tin của cơ quan chuyên trách bảo vệ an ninh, trật tự để đáp ứng yêu cầu bảo vệ an ninh, trật tự trong mọi tình huống.
+ c) Chuyển giao theo phương thức tự nguyện đối với những trường hợp tự nguyện đóng góp, giúp đỡ.
 
-**Chỉ mục:** 13
+ 2. Hợp tác với các tổ chức khoa học, công nghệ trong Công an nhân dân và Quân đội nhân dân để ứng dụng các kỹ thuật tiên tiến nhằm giải quyết các nhiệm vụ bảo vệ an ninh, trật tự.
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001300
+ 3. Các cơ quan, tổ chức liên quan có trách nhiệm tạo điều kiện cho việc chuyển giao kết quả nghiên cứu khoa học và phát triển công nghệ tiên tiến liên quan đến an ninh, trật tự cho cơ quan chuyên trách bảo vệ an ninh, trật tự. Khi tiến hành các hoạt động về khoa học, công nghệ trong nước cũng như hợp tác quốc tế phải chú ý đến công nghệ cao, kỹ thuật tiên tiến để tạo ra các sản phẩm có nhiều công dụng, đáp ứng được yêu cầu, nhiệm vụ bảo vệ an ninh, trật tự.Điều 1.1.NĐ.3.18. Xây dựng, củng cố, tăng cường tiềm lực thông tin, cơ sở dữ liệu, tư liệu khoa học và công nghệ
 
-**ID:** dk_00000067
+(Điều 18 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
----
+ Các cơ quan, tổ chức liên quan có trách nhiệm phối hợp chặt chẽ với Bộ Công an, Bộ Quốc phòng xây dựng, củng cố, tăng cường tiềm lực thông tin, cơ sở dữ liệu, tư liệu khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự bao gồm:
 
+ 1. Trao đổi, cung cấp thông tin, tư liệu về các thành tựu khoa học và công nghệ mới trong và ngoài nước, đặc biệt các thông tin, tư liệu liên quan đến lĩnh vực an ninh, trật tự.
 
-### Điều 1.1.NĐ.3.14. Đầu tư, phát triển xây dựng các cơ sở nghiên cứu khoa học, công nghệ, huấn luyện, đào tạo phục vụ hoạt động bảo vệ an ninh, trật tự
+ 2. Phối hợp khai thác các nguồn dữ liệu khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự.
 
-1. Bộ Công an, Bộ Quốc phòng, theo chức năng và nhiệm vụ, chủ trì, phối hợp với các Bộ, ngành hữu quan quy định cụ thể và tổ chức thực hiện chính sách ưu tiên đầu tư phát triển, hiện đại hoá các học viện, viện nghiên cứu, nhà trường và các cơ sở nghiên cứu, đào tạo khác thuộc lực lượng chuyên trách bảo vệ an ninh, trật tự; nghiên cứu, ứng dụng các thành tựu khoa học, kỹ thuật, công nghệ vào công tác bảo vệ an ninh, trật tự; tổ chức đào tạo, bồi dưỡng, huấn luyện các cán bộ, chuyên gia khoa học, kỹ thuật, nghiệp vụ có trình độ để đáp ứng nhu cầu công tác bảo vệ an ninh, trật tự; huấn luyện, bồi dưỡng kiến thức bảo đảm an ninh, trật tự cho cán bộ chủ chốt của các cơ quan, tổ chức khác.
+ 3. Hỗ trợ xây dựng, sửa chữa và nâng cấp các cơ sở dữ liệu khoa học và công nghệ cho cơ quan chuyên trách bảo vệ an ninh, trật tự.
 
-**Chỉ mục:** 14
+ 4. Tạo điều kiện khai thác tốt các kho tư liệu sáng chế, hệ thống các tiêu chuẩn, quy chuẩn kỹ thuật, phương tiện đo lường và đánh giá các chỉ tiêu chất lượng nhà nước.Điều 1.1.NĐ.3.19. Khen thưởng, xử lý vi phạm và khiếu nại, tố cáo
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001400
+(Điều 19 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
-**ID:** dk_00000068
+ 1. Tổ chức và cá nhân có thành tích trong việc bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự theo Nghị định này thì được khen thưởng theo quy định của pháp luật.
 
----
+ 2. Tổ chức, cá nhân có hành vi vi phạm các quy định của Nghị định này thì tùy theo tính chất mức độ vi phạm sẽ bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.
 
+ 3. Mọi tổ chức, cá nhân có quyền khiếu nại, tố cáo với cơ quan Nhà nước có thẩm quyền về các hành vi xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân do cán bộ, cơ quan chuyên trách bảo vệ an ninh, trật tự thực hiện. Việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo được thực hiện theo quy định của Luật Khiếu nại, tố cáo.Điều 1.1.NĐ.4.9. Ngân sách bảo đảm cho việc áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự
 
-### Điều 1.1.NĐ.3.15. Việc ưu tiên bảo đảm điều kiện về cơ sở vật chất cho các địa bàn chiến lược, xung yếu
-
-Bộ Công an chủ trì, phối hợp với các Bộ, ngành liên quan nghiên cứu, đề xuất cấp có thẩm quyền thực hiện chính sách ưu tiên trang bị vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ, đất đai, trụ sở, công trình và đầu tư xây dựng, củng cố các cơ sở công nghiệp, cơ sở nghiên cứu khoa học, công nghệ, hệ thống thông tin liên lạc và các điều kiện vật chất, kỹ thuật khác đảm bảo tăng cường hoạt động bảo vệ an ninh, trật tự trên địa bàn.
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001500
-
-**ID:** dk_00000069
-
----
-
-
-### Điều 1.1.NĐ.3.16. Dự trữ quốc gia để bảo đảm hoạt động bảo vệ an ninh, trật tự
-
-Dự trữ quốc gia để bảo đảm hoạt động bảo vệ an ninh, trật tự, nằm trong chiến lược dự trữ quốc gia. Chính phủ có kế hoạch dự trữ dài hạn, trung hạn và hàng năm về ngân sách, hàng dự trữ quốc gia và các loại tài sản khác bảo đảm điều kiện cho các hoạt động bảo vệ an ninh, trật tự trong mọi tình huống.
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001600
-
-**ID:** dk_00000070
-
----
-
-
-### Điều 1.1.NĐ.3.17. Chuyển giao công nghệ và kết quả nghiên cứu khoa bọc và phát triển công nghệ
-
-1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp, doanh nghiệp nhà nước, các tổ chức, cá nhân hoạt động khoa học và công nghệ có trách nhiệm chuyển giao kết quả nghiên cứu khoa học và phát triển công nghệ tiên tiến liên quan đến an ninh, trật tự cho cơ quan chuyên trách bảo vệ an ninh, trật tự theo các phương thức sau:
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001700
-
-**ID:** dk_00000071
-
----
-
-
-### Điều 1.1.NĐ.3.18. Xây dựng, củng cố, tăng cường tiềm lực thông tin, cơ sở dữ liệu, tư liệu khoa học và công nghệ
-
-Các cơ quan, tổ chức liên quan có trách nhiệm phối hợp chặt chẽ với Bộ Công an, Bộ Quốc phòng xây dựng, củng cố, tăng cường tiềm lực thông tin, cơ sở dữ liệu, tư liệu khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự bao gồm:
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001800
-
-**ID:** dk_00000072
-
----
-
-
-### Điều 1.1.NĐ.3.19. Khen thưởng, xử lý vi phạm và khiếu nại, tố cáo
-
-1. Tổ chức và cá nhân có thành tích trong việc bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự theo Nghị định này thì được khen thưởng theo quy định của pháp luật.
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 010010000000000010000070000000000000000000402233501270001900
-
-**ID:** dk_00000073
-
----
-
-
-### Điều 1.1.NĐ.4.9. Ngân sách bảo đảm cho việc áp dụng biện  pháp pháp luật bảo vệ an ninh, trật tự
+(Điều 9 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 1. Ngân sách nhà nước bảo đảm cho việc áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự được bố trí trong dự toán ngân sách nhà nước của các Bộ, cơ quan ngang Bộ, cơ quan trung ương khác của Ủy ban nhân dân các cấp theo quy định của Luật Ngân sách nhà nước.
 
-**Chỉ mục:** 9
+2. Việc lập, chấp hành và quyết toán ngân sách nhà nước bảo đảm cho việc áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự theo quy định của Luật Ngân sách nhà nước và văn bản hướng dẫn thi hành.
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402399900350000900
+Điều 1.1.NĐ.5.15. Trang bị phương tiện đối với bảo vệ cơ quan, doanh nghiệp
 
-**ID:** dk_00000074
+(Điều 15 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
----
+ 1. Lực lượng bảo vệ cơ quan, doanh nghiệp được cấp trang phục, trang bị và sử dụng vũ khí thô sơ, công cụ hỗ trợ theo quy định của pháp luật.
 
+ 2. Lực lượng bảo vệ cơ quan, doanh nghiệp được cấp giấy chứng nhận, trang bị biển hiệu, băng chức danh và các phương tiện cần thiết khác theo quy định để phục vụ công tác bảo vệ.
 
-### Điều 1.1.NĐ.5.15. Trang bị phương tiện đối với bảo vệ cơ quan, doanh nghiệp
+ 3. Bộ Công an quy định và hướng dẫn cụ thể về trang bị phương tiện và quản lý, sử dụng trang bị phương tiện đối với lực lượng bảo vệ cơ quan, doanh nghiệp theo quy định của Điều này.Điều 1.1.TT.1.8. Trang bị, quản lý, sử dụng vũ khí thô sơ, công cụ hỗ trợ và các loại phương tiện đối với lực lượng bảo vệ cơ quan, doanh nghiệp
 
-1. Lực lượng bảo vệ cơ quan, doanh nghiệp được cấp trang phục, trang bị và sử dụng vũ khí thô sơ, công cụ hỗ trợ theo quy định của pháp luật.
+(Điều 8 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
-**Chỉ mục:** 15
+ 1. Căn cứ vào yêu cầu và tình hình thực tế hoạt động, lực lượng bảo vệ cơ quan, doanh nghiệp được xem xét, trang bị công cụ hỗ trợ, bao gồm: Dùi cui điện, dùi cui kim loại, dùi cui cao su, găng tay bắt dao.
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402460100060001500
+ Cơ quan, doanh nghiệp căn cứ vào số lượng nhân viên bảo vệ và yêu cầu thực tế để lập hồ sơ đề nghị cơ quan Cảnh sát quản lý hành chính về trật tự xã hội có thẩm quyền xem xét, cấp giấy phép. Cơ quan Cảnh sát quản lý hành chính về trật tự xã hội có thẩm quyền sau khi nhận được hồ sơ, tiến hành thẩm tra để cấp giấy phép mua, giấy phép sử dụng theo quy định của pháp luật.
 
-**ID:** dk_00000075
+ 2. Trường hợp cơ quan, doanh nghiệp có nhu cầu trang bị vũ khí thô sơ, phương tiện xịt hơi cay, động vật nghiệp vụ thì thực hiện theo quy định sau:
 
----
+ a) Cơ quan, doanh nghiệp ở địa phương nộp hồ sơ đề nghị cấp Giấy phép mua vũ khí thô sơ, công cụ hỗ trợ về Phòng Cảnh sát quản lý hành chính về trật tự xã hội thuộc Công an cấp tỉnh; cơ quan, doanh nghiệp thuộc Bộ, ngành ở Trung ương nộp hồ sơ về Cục Cảnh sát quản lý hành chính về trật tự xã hội. Trong hồ sơ phải gửi kèm phương án bảo vệ đối với mục tiêu thuộc cơ quan, doanh nghiệp quản lý và sự cần thiết phải trang bị vũ khí thô sơ, công cụ hỗ trợ nêu trên.
 
+ b) Cục Cảnh sát quản lý hành chính về trật tự xã hội có trách nhiệm tập hợp hồ sơ đề nghị của cơ quan, doanh nghiệp trong cả nước có nhu cầu trang bị và phối hợp với các đơn vị có chức năng bảo vệ an ninh nội bộ quy định tại Khoản 4 Điều 6 Thông tư này để báo cáo Bộ trưởng Bộ Công an xem xét, quyết định.
 
-### Điều 1.1.TT.1.8. Trang bị, quản lý, sử dụng vũ khí thô sơ, công cụ hỗ trợ và các loại phương tiện đối với lực lượng bảo vệ cơ quan, doanh nghiệp
+ 3. Quản lý, sử dụng vũ khí thô sơ
 
-1. Căn cứ vào yêu cầu và tình hình thực tế hoạt động, lực lượng bảo vệ cơ quan, doanh nghiệp được xem xét, trang bị công cụ hỗ trợ, bao gồm: Dùi cui điện, dùi cui kim loại, dùi cui cao su, găng tay bắt dao.
+ Việc quản lý, sử dụng vũ khí thô sơ phải tuân theo quy định tại Điều 16 Nghị định số 25/2012/NĐ-CP ngày 5/4/2012 quy định chi tiết thi hành một số điều của Pháp lệnh quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (sau đây viết gọn là Nghị định số 25/2012/NĐ-CP) và Điều 12 Thông tư số 30/2012/TT-BCA ngày 29/5/2012 của Bộ trưởng Bộ Công an quy định chi tiết thi hành một số điều của Pháp lệnh quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ và Nghị định quy định chi tiết thi hành một số điều của Pháp lệnh (sau đây viết gọn là Thông tư số 30/2012/TT-BCA).
 
-**Chỉ mục:** 8
+ 4. Quản lý, sử dụng công cụ hỗ trợ
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802524600460000800
+ a) Công cụ hỗ trợ khi chưa đưa vào sử dụng phải được bảo quản trong kho hoặc nơi cất giữ. Khi đưa vào kho hoặc nơi cất giữ phải sắp xếp hợp lý, để riêng từng chủng loại, nhãn hiệu. Các cơ quan, doanh nghiệp phải tiến hành kiểm tra, bảo dưỡng công cụ hỗ trợ được trang bị theo đúng định kỳ và quy trình bảo dưỡng của nhà sản xuất.
 
-**ID:** dk_00000076
+ Cơ quan, doanh nghiệp khi được phép trang bị, sử dụng công cụ hỗ trợ phải lập hồ sơ, sổ sách theo dõi. Công cụ hỗ trợ khi mang ra sử dụng phải được người đứng đầu cơ quan, doanh nghiệp đồng ý và ghi vào hồ sơ của cơ quan, doanh nghiệp.
 
----
+ b) Người được cơ quan, doanh nghiệp giao công cụ hỗ trợ phải được tập huấn về tính năng, tác dụng, kỹ năng sử dụng. Khi hoàn thành nhiệm vụ, người được giao công cụ hỗ trợ phải bàn giao lại cho người có trách nhiệm bảo quản công cụ hỗ trợ. Trường hợp bị mất công cụ hỗ trợ hoặc Giấy phép sử dụng công cụ hỗ trợ thì phải báo cáo ngay cho người đứng đầu cơ quan, doanh nghiệp trực tiếp quản lý biết. Cơ quan, doanh nghiệp bị mất Giấy phép, công cụ hỗ trợ phải báo cáo ngay bằng văn bản cho cơ quan Công an đã cấp Giấy phép sử dụng công cụ hỗ trợ biết để phối hợp giải quyết.
 
+ c) Khi sử dụng công cụ hỗ trợ, người được cơ quan, doanh nghiệp giao công cụ hỗ trợ phải tuân thủ theo quy định tại Điều 33 Pháp lệnh quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, Khoản 4 Điều 24 Nghị định số 25/2012/NĐ-CP và Khoản 2 Điều 18 Thông tư số 30/2012/TT-BCA.
 
-### Điều 1.1.TT.2.3. Yêu cầu đối với trang phục của lực Iượng bảo vệ cơ quan, doanh nghiệp
+ 5. Các loại phương tiện khác
+
+ Tùy theo yêu cầu thực tế công tác bảo vệ an ninh, trật tự, người đứng đầu cơ quan, doanh nghiệp quyết định việc trang bị và sử dụng các loại phương tiện khác, như phương tiện quan sát, máy kiểm soát người ra, vào tại cổng trụ sở cơ quan, doanh nghiệp, máy soi, máy bộ đàm, … và phải tuân theo các quy định của pháp luật có liên quan.(Điều này có nội dung liên quan đến Điều 33. Sử dụng công cụ hỗ trợ của Pháp lệnh 16/2011/UBTVQH12 Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ban hành ngày 30/06/2011; Điều 16. Quản lý, sử dụng vũ khí thô sơ; Điều 24. Quản lý, sử dụng công cụ hỗ trợ của Nghị định 25/2012/NĐ-CP Quy định chi tiết thi hành một số điều của Pháp lệnh Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ban hành ngày 05/04/2012; Điều 12. Quản lý, sử dụng vũ khí thô sơ; Điều 18. Quản lý, sử dụng công cụ hỗ trợ của Thông tư 30/2012/TT-BCA Quy định chi tiết thi hành một số điều của Pháp lệnh Quản lý, sử dụng vũ khí, vật liệu nổ 
+và công cụ hỗ trợ và Nghị định quy định chi tiết thi hành
+một số điều của Pháp lệnh ban hành ngày 29/05/2012)Điều 1.1.TT.2.3. Yêu cầu đối với trang phục của lực Iượng bảo vệ cơ quan, doanh nghiệp
+
+(Điều 3 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Bảo đảm tính thống nhất, đồng bộ và phù hợp với yêu cầu công tác của lực lượng bảo vệ cơ quan, doanh nghiệp.
 
-**Chỉ mục:** 3
+2. Bảo đảm chất lượng, chủng loại, mẫu mã theo quy định tại Thông tư này.
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080000300
+3. Bảo đảm được trang bị, sử dụng đúng đối tượng, đúng mục đích.
 
-**ID:** dk_00000077
+Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp
 
----
-
-
-### Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp
+(Điều 4 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 Ban hành kèm theo Thông tư này biểu mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp, cụ thể như sau:
 
-**Chỉ mục:** 4
+1. Sao hiệu (mẫu số 01).
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080000400
+2. Cấp hiệu (mẫu số 02).
 
-**ID:** dk_00000078
+3. Phù hiệu (mẫu số 03).
 
----
+4. Biển hiệu (mẫu số 04).
 
+5. Ký hiệu (mẫu số 05).
 
-### Điều 1.1.TT.2.5. Sao hiệu
+6. Mũ (mẫu số 06).
+
+7. Quần, áo xuân hè (mẫu số 07).
+
+8. Quần, áo thu đông (mẫu số 08).
+
+9. Caravat (mẫu số 09).
+
+10. Dây lưng (mẫu số 10).
+
+11. Bít tất (mẫu số 11).
+
+12. Giày da (mẫu số 12).
+
+13. Quần áo đi mưa (mẫu số 13).
+
+Mau so 01.doc
+
+Mau so 02.doc
+
+Mau so 03.doc
+
+Mau so 04.doc
+
+Mau so 05.doc
+
+Mau so 06.doc
+
+Mau so 07.doc
+
+Mau so 08.doc
+
+Mau so 09.doc
+
+Mau so 10.doc
+
+Mau so 11.doc
+
+Mau so 12.doc
+
+Mau so 13.doc
+
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.5. Sao hiệu; Điều 1.1.TT.2.6. Cấp hiệu; Điều 1.1.TT.2.7. Phù hiệu; Điều 1.1.TT.2.8. Biển hiệu; Điều 1.1.TT.2.9. Ký hiệu; Điều 1.1.TT.2.10. Mũ; Điều 1.1.TT.2.11. Quần áo xuân hè; Điều 1.1.TT.2.12. Quần áo thu đông, caravat; Điều 1.1.TT.2.13. Dây lưng, bít tất, giày da, quần áo đi mưa)
+
+Điều 1.1.TT.2.5. Sao hiệu
+
+(Điều 5 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kiểu dáng: Theo mẫu số 01 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 5
+2. Cấu tạo: Tấm lá chắn nằm giữa hai cành tùng bao quanh; phần lá chắn nổi cao hơn cành tùng, mặt lồi. Giữa tấm lá chắn là ngôi sao năm cánh, hai bên có hình bông lúa. Chữ “BẢO VỆ” trên nền dải lụa có hình bánh xe lịch sử. Sống lá nổi, các lá đánh tia theo chiều cong của lá, độ nổi của sống lá so với mép lá là 01 mm.
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080000500
+3. Màu sắc: Cành tùng mạ màu trắng; dải lụa, bánh xe, bông lúa, đường viền lá chắn, ngôi sao mạ hợp kim màu vàng; nền bông lúa, chữ “BẢO VỆ” màu xanh lam đậm; nền ngôi sao tia nổi sơn men kính màu đỏ đun.
 
-**ID:** dk_00000079
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
 
----
+Điều 1.1.TT.2.6. Cấp hiệu
 
-
-### Điều 1.1.TT.2.6. Cấp hiệu
+(Điều 6 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kiểu dáng: Theo mẫu số 02 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 6
+2. Cấu tạo: Nền cấp hiệu được may bằng băng dệt bên trong có cột nhựa. Giữa cấp hiệu thêu hình lá chắn, bao quanh lá chắn là hai bông lúa chéo cuống, giữa lá chắn là ngôi sao vàng năm cánh. Phía đầu vát nhọn của cấp hiệu có gắn cúc cấp hiệu bằng kim loại, cúc cấp hiệu được dập nổi ngôi sao năm cánh tâm giữa, bao quanh viền là hai bông lúa, chữ “BV” ở dưới. Phía đầu không vát nhọn của cấp hiệu có từ 01 đến 03 vạch ngang phân cấp, độ rộng của vạch ngang phân cấp là 06 mm, khoảng cách giữa hai vạch liền kề là 05 mm.
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080000600
+3. Màu sắc: Nền cấp hiệu màu xanh lam, viền xung quanh màu vàng sẫm. Hình lá chắn ở giữa cấp hiệu màu xanh dương; viền lá chắn, hai bông lúa, ngôi sao màu vàng. Cúc cấp hiệu màu trắng bạc. Vạch ngang phân cấp màu vàng tươi.
 
-**ID:** dk_00000080
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
 
----
+Điều 1.1.TT.2.7. Phù hiệu
 
-
-### Điều 1.1.TT.2.7. Phù hiệu
+(Điều 7 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kiểu dáng: Theo mẫu số 03 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 7
+2. Cấu tạo: Phù hiệu hình thoi, bên trong có cốt nhựa, tâm giữa phù hiệu có chữ “BV” bằng kim loại, phía sau phù hiệu có ghim để cài trên đầu cổ áo.
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080000700
+3. Màu sắc: Nền phù hiệu màu xanh lam, chữ “BV” màu trắng bạc.
 
-**ID:** dk_00000081
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
 
----
+Điều 1.1.TT.2.8. Biển hiệu
 
-
-### Điều 1.1.TT.2.8. Biển hiệu
+(Điều 8 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kiểu dáng: Theo mẫu số 04 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 8
+2. Cấu tạo: Biển hiệu được làm bằng giấy cứng, khổ 9 cm x 5,5 cm.
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080000800
+- Trên cùng là gạch ngang, trong đó: Bên trái là sao hiệu bảo vệ, bên phải có các dòng chữ tên cơ quan, doanh nghiệp chủ quản cấp trên (cỡ chữ 10 in hoa đậm), tên cơ quan, doanh nghiệp trực tiếp quản lý (cỡ chữ 12 in hoa đậm).
 
-**ID:** dk_00000082
+- Phía dưới gạch ngang biển hiệu: Bên trái là ảnh của người được cấp biển hiệu cỡ 2 cm x 3 cm. có đóng dấu giáp lai cơ quan, doanh nghiệp. Bên phải từ trên xuống là chữ “BẢO VỆ” cỡ chữ 16 in hoa đậm, họ tên, số hiệu người được cấp biển hiệu, ngày cấp biển hiệu cỡ chữ 14 in thường đậm.
 
----
+- Các chữ trong biển hiệu sử dụng phông chữ tiếng Việt Times New Roman - Unicode.
 
+- Biển hiệu được cài phía trên túi áo ngực bên trái.
 
-### Điều 1.1.TT.2.9. Ký hiệu
+3. Màu sắc: Nền biển hiệu màu vàng nhạt; đường viền, gạch ngang và chữ “BẢO VỆ” màu đỏ, các chữ còn lại màu đen.
+
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
+
+Điều 1.1.TT.2.9. Ký hiệu
+
+(Điều 9 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kiểu dáng: Theo mẫu số 05 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 9
+2. Cấu tạo: Ký hiệu hình tấm lá chắn, phía trên là dải lụa. Trên nên dải lụa có chữ “BẢO VỆ” nằm giữa, hai bên có ngôi sao năm cánh. Giữa ký hiệu là lá cờ đỏ sao vàng nằm ở trong hình tròn với các tia sáng bao quanh. Phía dưới là hình tượng nhà máy, cơ quan, công trường. Dưới cùng là hình nửa bánh xe có dòng chữ “CƠ QUAN” hoặc “DOANH NGHIỆP”.
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080000900
+3. Màu sắc: Lá cờ đỏ, sao vàng, các tia sáng bao quanh màu vàng sẫm: hình tượng nhà máy, cơ quan, công trường màu xanh lam.
 
-**ID:** dk_00000083
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
 
----
+Điều 1.1.TT.2.10. Mũ
 
-
-### Điều 1.1.TT.2.10. Mũ
+(Điều 10 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kiểu dáng: Theo mẫu số 06 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 10
+2. Cấu tạo:
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080001000
+a) Mũ kê-pi: Phông mũ hình tròn, mặt trước mũ có tán ôzê đeo sao hiệu bảo vệ, mỗi bên mang tán hai ôzê thoát khí. Phía trước trên lưỡi trai có dây trang trí bằng sợi tết kiểu đuôi sam màu vàng, mỗi đầu dây có một cúc kim loại mạ màu trắng gắn vào thành cầu mũ.
 
-**ID:** dk_00000084
+b) Mũ mềm: Mặt mũ được dựng bằng nhựa cứng, quả mũ gồm bốn mảnh, phông mũ có lót. Trán mũ có ôzê lắp sao hiệu bảo vệ, hai bên mang mũ mỗi bên có ba ôzê thoát khí, phía trong chân cầu may bằng vải giả da, phía sau mũ có dây điều chỉnh.
 
----
+c) Mũ cứng: Mũ hình ô van, cốt được làm từ bột giấy, ngoài bọc một lớp vải, trán mũ được tán một ôzê, hai bên má quả mũ mỗi bên tán hai ôzê thoát khí, trong lòng có quai, cầu mũ.
 
+3. Màu sắc: Mũ màu tím than. Riêng mũ kê-pi có dây trang trí màu vàng, cúc kim loại màu trắng.
 
-### Điều 1.1.TT.2.11. Quần áo xuân hè
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
+
+Điều 1.1.TT.2.11. Quần áo xuân hè
+
+(Điều 11 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kiểu dáng: Theo mẫu số 07 ban hành kèm theo Thông tư này, cụ thể như sau:
 
-**Chỉ mục:** 11
+a) Áo ngắn tay
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080001100
+- Áo nam: Áo kiểu cổ đứng. Thân trước ngực may hai túi ốp ngoài, bị túi may đố, nắp túi vát nhọn. Nẹp bong một hàng sáu chiếc cúc nhựa cùng màu vải, may bật vai đeo cấp hiệu. Thân sau cầu vai rời xếp hai ly. Tay ngắn cửa tay may lật ra ngoài, trên cánh tay trái may dán ký hiệu bảo vệ cơ quan hoặc doanh nghiệp. Gấu áo bằng.
 
-**ID:** dk_00000085
+- Áo nữ: Kiểu áo sơ mi chiết ly cổ bẻ. Thân trước may hai túi dưới ốp ngoài, miệng túi chéo. Nẹp bong một hàng bốn chiếc cúc nhựa cùng màu vải, may bật vai đeo cấp hiệu, lắp ken vai. Thân sau may chắp sống lưng. Tay ngắn kiểu bán mang, cửa tay may lật ra ngoài, trên cánh tay trái may dán ký hiệu bảo vệ cơ quan hoặc doanh nghiệp. Gấu áo bằng. May bọc vòng nách.
 
----
+b) Áo dài tay
 
+- Áo nam: Áo kiểu cổ đứng. Thân trước ngực may hai túi ốp ngoài, bị túi may đố, nắp túi vát nhọn. Nẹp bong một hàng sáu chiếc cúc nhựa cùng màu vải, may bật vai đeo cấp hiệu. Thân sau cầu vai rời xếp hai ly. Tay dài có măng séc cài cúc, may thép tay, cửa tay mỗi bên xếp hai ly lật về phía thép tay, trên cánh tay trái may dán ký hiệu bảo vệ cơ quan hoặc doanh nghiệp. Gấu áo bằng.
 
-### Điều 1.1.TT.2.12. Quần áo thu đông, caravat
+- Áo nữ: Kiểu áo sơ mi chiết ly cổ bẻ. Thân trước may hai túi dưới ốp ngoài, miệng túi chéo. Nẹp bong một hàng bốn chiếc cúc nhựa cùng màu vải, may bật vai đeo cấp hiệu, lắp ken vai. Thân sau may chắp sống lưng. Tay dài có măng séc cài cúc, may viền mở cửa tay, cửa tay mỗi bên xếp một ly lật về phía viền mở cửa tay, trên cánh tay trái may dán ký hiệu bảo vệ cơ quan hoặc doanh nghiệp. Gấu áo bằng. May bọc vòng nách.
+
+c) Quần xuân hè
+
+- Quần nam: Quần kiểu cạp rời, hai túi sườn chéo. Thân trước mỗi bên xếp một ly lật về phía dọc quần, cửa quần may khóa kéo. Thân sau mỗi bên may một chiết và bổ một túi viền. Cạp may sáu đỉa, đầu cạp may quai nhê có cài cúc. Gấu quần bằng.
+
+- Quần nữ: Quần kiểu cạp rời, hai túi sườn chéo. Thân trước mỗi bên xếp một ly lật về phía dọc quần, cửa quần may khóa kéo. Thân sau mỗi bên may một chiết. Cạp may sáu đỉa, đầu cạp may quai nhê có cài cúc. Gấu quần bằng.
+
+2. Màu sắc
+
+a) Áo màu xanh dương;
+
+b) Quần màu tím than.
+
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
+
+Điều 1.1.TT.2.12. Quần áo thu đông, caravat
+
+(Điều 12 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kiểu dáng: Theo mẫu số 08, mẫu số 09 ban hành kèm theo Thông tư này, cụ thể như sau:
 
-**Chỉ mục:** 12
+a) Áo sơ mi
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080001200
+- Áo nam: Áo kiểu cổ đứng. Thân trước bên trái ngực may một túi ốp ngoài, đáy túi lượn tròn; nẹp áo may gập vào trong, một hàng năm chiếc cúc nhựa cùng màu vải. Thân sau cầu vai rời xếp hai ly. Tay dài may măng séc, giữa thép tay đính một cúc, cửa tay mỗi bên xếp hai ly lật về phía thép tay. Gấu áo bằng.
 
-**ID:** dk_00000086
+- Áo nữ: Áo kiểu cổ đứng. Áo thiết kế eo. Thân trước nẹp áo may gập vào trong, một hàng năm chiếc cúc nhựa cùng màu vải. Thân sau cầu vai liền. Tay dài may măng séc, may viền mở cửa tay, cửa tay mỗi bên xếp một ly lật về phía mở cửa tay. Gấu áo bằng.
 
----
+b) Áo ngoài:
 
+- Áo nam: Áo kiểu veston, cổ bẻ hình chữ K. Thân trước may bốn túi ốp ngoài, bị túi may đố, nắp túi, vát nhọn, nẹp một hàng bốn chiếc cúc nhựa cùng màu vải, may bật vai đeo cấp hiệu, có ken vai. Thân sau may chắp sống lưng, xẻ sống. Tay kiểu hai mang, bác tay may lật ra ngoài, trên cánh tay trái may dán ký hiệu bảo vệ cơ quan hoặc doanh nghiệp. Bên trong có lót.
 
-### Điều 1.1.TT.2.13. Dây lưng, bít tất, giày da, quần áo đi mưa
+- Áo nữ: Áo kiểu veston, cổ bẻ hình chữ K. Thân trước phía dưới may hai túi ốp ngoài, bị túi may đố, nắp túi vát nhọn, nẹp một hàng bốn chiếc cúc nhựa cùng màu vải, may bật vai đeo cấp hiệu, có ken vai. Thân sau may chắp sống lưng, xẻ sống. Tay kiểu hai mang, bác tay may lật ra ngoài, trên cánh tay trái may dán ký hiệu bảo vệ cơ quan hoặc doanh nghiệp. Bên trong có lót.
+
+c) Áo ấm:
+
+- Áo nam: Áo gồm năm lớp, cổ bẻ, thắt đai lưng khóa nhựa, lớp lót chần bông được gắn với vỏ ngoài bằng khóa kéo. Thân trước ngực may hai túi ngực ốp ngoài, góc bị túi lượn tròn, nắp túi vát nhọn, xung quanh bị túi và nắp túi diễu hai đường song song. Phía dưới thân trước bổ hai túi cơi chéo, nẹp có một hàng năm chiếc cúc nhựa cùng màu vải. Bên trong có khóa kéo, bên ngoài có nẹp che khóa. Thân sau may cầu vai rời, sườn may đỉa luồn đai lưng. Tay kiểu hai mang, may cá tay, trên cánh tay trái may dán ký hiệu bảo vệ cơ quan, doanh nghiệp. Có ken vai, may bật vai đeo cấp hiệu.
+
+- Áo nữ: Áo gồm năm lớp, cổ bẻ, thắt đai lưng khóa nhựa, lớp lót chần bông được gắn với vỏ ngoài bằng khóa kéo. Áo thiết kế eo. Thân trước phía dưới bổ hai túi cơi chéo, nẹp có một hàng năm chiếc cúc nhựa cùng màu vải. Bên trong có khóa kéo, bên ngoài có nẹp che khóa. Thân sau may cầu vai rời, sườn may đỉa luồn đai lưng. Tay kiểu hai mang, may cá tay, trên cánh tay trái may dán ký hiệu bảo vệ cơ quan hoặc doanh nghiệp, có ken vai, may bật vai đeo cấp hiệu.
+
+d) Quần thu đông: Theo quy định tại Điểm c Khoản 1 Điều 11 Thông tư này;
+
+đ) Caravat: Thân caravat hình mái chèo, củ ấu có cốt nhựa định hình, sử dụng khóa kéo có chốt hãm.
+
+2. Màu sắc:
+
+a) Áo sơ mi màu xanh dương;
+
+b) Áo ngoài, áo ấm, quần màu tím than;
+
+c) Caravat màu tím than.
+
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
+
+Điều 1.1.TT.2.13. Dây lưng, bít tất, giày da, quần áo đi mưa
+
+(Điều 13 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Dây lưng
 
-**Chỉ mục:** 13
+a) Kiểu dáng Theo mẫu số 10 ban hành kèm theo Thông tư này;
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080001300
+b) Cấu tạo: Dây lưng được làm bằng da kíp măng, cuối dây bo tròn, mặt trong phía cuối dây có rãnh hãm khóa. Thân khóa bằng kim loại đúc gắn với dây bằng khóa chốt, mặt khóa dập nổi chữ “BV” nằm giữa trong hình tròn trên nền tia nổi mạ hợp kim;
 
-**ID:** dk_00000087
+c) Màu sắc: Dây lưng màu nâu, khóa dây lưng màu vàng
 
----
+2. Bít tất
 
+a) Kiểu dáng: Theo mẫu số 11 ban hành kèm theo Thông tư này;
 
-### Điều 1.1.TT.2.14. Niên hạn, cấp phát, sử dụng trang phục
+b) Cấu tạo: Bít tất dệt kiểu rip 2:1, cổ chun, gan bàn chân, gót mũi dệt kiểu single;
+
+c) Màu sắc: Tím than.
+
+3. Giày da
+
+a) Kiểu dáng: Theo mẫu số 12 ban hành kèm theo Thông tư này;
+
+b) Cấu tạo:
+
+- Giày da nam: Giày đa nam được làm từ da boxcal. Đế giày làm bằng cao su đúc định hình, mặt đế có hoa văn chống trơn trượt, gót giày có lõi nhựa tăng độ cứng, độ bền của gót giày. Dây buộc bằng sợi Polyester dệt kiểu ống có lõi.
+
+- Giày da nữ: Giày da nữ được làm từ da boxcal; da có độ mềm, độ đàn hồi. Đế giày làm bằng cao su đúc định hình, mặt đế có hoa văn chống trơn trượt, gót giày có lõi nhựa tăng độ cứng, độ bền của gót giày. Dây buộc bằng sợi Polyester dệt kiểu ống có lõi.
+
+c) Màu sắc: Đen.
+
+4. Quần áo đi mưa
+
+a) Kiểu dáng: Theo mẫu số 13 ban hành kèm theo Thông tư này;
+
+b) Cấu tạo:
+
+- Áo: Kiểu Jacket, cổ bẻ không chân. Thân trước bên trái may nẹp che khóa cài cúc, bên trong có khóa kéo lên hết đầu cổ. Thân sau cầu vai rời, bên trong có lớp vải lưới may liền thân để thoát khí, chân cầu vai và nẹp có gắn biển phản quang, trên nền phản quang có chữ “BẢO VỆ”. Tay áo kiểu một mang, cổ tay may bo chun. Mũ rời gắn với áo bằng cúc bấm. Các đường may có dán băng keo chống thấm.
+
+- Quần: Quần kiểu bà ba, cạp chun, dưới gấu có cúc bấm.
+
+c) Màu sắc:
+
+- Áo màu cỏ úa, biển phản quang màu vàng, chữ “BẢO VỆ” màu đỏ.
+
+- Quần màu cỏ úa.
+
+(Điều này có nội dung liên quan đến Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp)
+
+Điều 1.1.TT.2.14. Niên hạn, cấp phát, sử dụng trang phục
+
+(Điều 14 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Niên hạn trang phục:
 
-**Chỉ mục:** 14
+ **TT**
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000150000802572400080001400
+ **Tên trang phục**
 
-**ID:** dk_00000088
+ **Đơn vị**** tính**
 
----
+ **Số l****ượ****ng**
 
+ **Niên hạn (n****ăm****)**
 
-### Điều 1.1.NĐ.5.16. Kinh phí hoạt động của lực lượng bảo vệ cơ quan, doanh nghiệp
+ 1
 
-1. Kinh phí hoạt động của lực lượng bảo vệ tại các cơ quan, tổ chức được bảo đảm chung trong kinh phí hoạt động thường xuyên của các cơ quan, tổ chức đó.
+ Mũ kê pi
 
-**Chỉ mục:** 16
+ Cái
 
-**Mã phân cấp:** 010010000000000010000070000000000000000000402460100060001600
+ 1
 
-**ID:** dk_00000089
+ 3
 
----
+ 2
 
+ Mũ cứng
 
-### Điều 1.1.TT.2.15. Kinh phí bảo đảm trang bị trang phục cho lực lượng bảo vệ cơ quan, doanh nghiệp
+ Cái
+
+ 1
+
+ 3
+
+ 3
+
+ Mũ mềm
+
+ Cái
+
+ 1
+
+ 3
+
+ 4
+
+ Quần áo thu đông + ký hiệu
+
+ Bộ
+
+ 1
+
+ 2
+
+ 5
+
+ Quần áo xuân hè + ký hiệu
+
+ Bộ
+
+ 1
+
+ 1
+
+ 6
+
+ Áo ấm + ký hiệu
+
+ Cái
+
+ 1
+
+ 4
+
+ 7
+
+ Áo sơ mi
+
+ Cái
+
+ 1
+
+ 1
+
+ 8
+
+ Caravat
+
+ Cái
+
+ 1
+
+ 2
+
+ 9
+
+ Dây lưng
+
+ Cái
+
+ 1
+
+ 3
+
+ 10
+
+ Giày da
+
+ Đôi
+
+ 1
+
+ 1
+
+ 11
+
+ Bít tất
+
+ Đôi
+
+ 2
+
+ 1
+
+ 12
+
+ Cấp hiệu đồng bộ
+
+ Bộ
+
+ 1
+
+ 2
+
+ 13
+
+ Phù hiệu đồng bộ
+
+ Bộ
+
+ 1
+
+ 2
+
+ 14
+
+ Sao hiệu
+
+ Cái
+
+ 1
+
+ 3
+
+ 15
+
+ Quần áo mưa
+
+ Bộ
+
+ 1
+
+ 3
+
+2. Cấp phát, sử dụng trang phục:
+
+a) Tùy theo điều kiện thực tế và khí hậu của từng khu vực, Thủ trưởng các cơ quan, doanh nghiệp chủ động quyết định việc cấp phát, sử dụng trang phục cho phù hợp;
+
+b) Trong quá trình làm nhiệm vụ, nhân viên bảo vệ phải sử dụng trang phục theo đúng quy định tại Thông tư này.
+
+Điều 1.1.NĐ.5.16. Kinh phí hoạt động của lực lượng bảo vệ cơ quan, doanh nghiệp
+
+(Điều 16 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
+
+ 1. Kinh phí hoạt động của lực lượng bảo vệ tại các cơ quan, tổ chức được bảo đảm chung trong kinh phí hoạt động thường xuyên của các cơ quan, tổ chức đó.
+
+ 2. Kinh phí hoạt động của lực lượng bảo vệ tại các doanh nghiệp được tính trong chi phí quản lý của các doanh nghiệp.
+
+ 3. Tài trợ, ủng hộ hợp pháp của các tổ chức, cá nhân.Điều 1.1.TT.2.15. Kinh phí bảo đảm trang bị trang phục cho lực lượng bảo vệ cơ quan, doanh nghiệp
+
+(Điều 15 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Kinh phí bảo đảm trang bị trang phục cho lực lượng bảo vệ cơ quan được chi trong nguồn kinh phí hoạt động thường xuyên của cơ quan.
 
-**Chỉ mục:** 15
+2. Kinh phí bảo đảm trang phục cho lực lượng bảo vệ doanh nghiệp được tính trong chi phí hoạt động kinh doanh của doanh nghiệp.
 
-**Mã phân cấp:** 01001000000000001000007000000000000000000040246010006000160000802572400080001500
+Điều 1.1.NĐ.6.11. Kinh phí bảo đảm thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự
 
-**ID:** dk_00000090
+(Điều 11 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
----
+ 1. Nguồn kinh phí bảo đảm thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự:
 
+ a) Ngân sách nhà nước theo quy định của Luật ngân sách nhà nước;
 
-### Điều 1.1.NĐ.6.11. Kinh phí bảo đảm thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự
+ b) Đóng góp, tài trợ của các cơ quan, tổ chức, cá nhân theo quy định của pháp luật.
 
-1. Nguồn kinh phí bảo đảm thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự:
+ 2. Việc quản lý và sử dụng kinh phí bảo đảm thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự được thực hiện theo quy định của pháp luật.Điều 1.1.LQ.8. Trách nhiệm, nghĩa vụ bảo vệ an ninh quốc gia
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 010010000000000010000070000000000000000000402497800060001100
-
-**ID:** dk_00000091
-
----
-
-
-### Điều 1.1.LQ.8. Trách nhiệm, nghĩa vụ bảo vệ an ninh quốc gia
+(Điều 8 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Bảo vệ an ninh quốc gia là sự nghiệp của toàn dân. Cơ quan, tổ chức, công dân có trách nhiệm, nghĩa vụ bảo vệ an ninh quốc gia theo quy định của pháp luật.
 
-**Chỉ mục:** 8
+Điều 1.1.NĐ.2.4. Trách nhiệm của cán Bộ, đơn vị, tổ chức và cá nhân trong việc xây dựng, củng cố Bảo vệ dân phố
 
-**Mã phân cấp:** 0100100000000000100000800000000000000000
-
-**ID:** dk_00000092
-
----
-
-
-### Điều 1.1.NĐ.2.4. Trách nhiệm của cán Bộ, đơn vị, tổ chức và cá nhân trong việc xây dựng, củng cố Bảo vệ dân phố
+(Điều 4 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 Các Bộ, cơ quan ngang Bộ, cơ quan thuế Chính phủ, Ủy ban nhân dân các cấp, các đơn vị lực lượng vũ trang nhân dân, các tổ chức chính trị xã hội, tổ chức xã hội nghề nghiệp và mọi công dân có trách nhiệm tham gia xây dựng và giúp đỡ lực lượng Bảo vệ dân phố thực hiện nhiệm vụ.
 
-**Chỉ mục:** 4
+Điều 1.1.LQ.9. Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân trong hoạt động bảo vệ an ninh quốc gia
 
-**Mã phân cấp:** 010010000000000010000080000000000000000000402214200380000400
-
-**ID:** dk_00000093
-
----
-
-
-### Điều 1.1.LQ.9. Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân trong hoạt động bảo vệ an ninh quốc gia
+(Điều 9 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Nhà nước bảo vệ, giữ bí mật cho cán bộ, chiến sĩ thuộc lực lượng chuyên trách bảo vệ an ninh quốc gia và cơ quan, tổ chức, cá nhân tham gia bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 9
+2. Cơ quan, tổ chức, cá nhân trong hoạt động bảo vệ an ninh quốc gia có thành tích thì được khen thưởng, bị tổn hại về danh dự thì được khôi phục, bị thiệt hại về tài sản thì được đền bù; người bị thương tích, tổn hại về sức khỏe, bị thiệt hại về tính mạng thì bản thân và gia đình được hưởng chế độ, chính sách theo quy định của pháp luật.
 
-**Mã phân cấp:** 0100100000000000100000900000000000000000
+Điều 1.1.NĐ.1.3. Khôi phục danh dự, đền bù, trợ cấp
 
-**ID:** dk_00000094
+(Điều 3 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
----
+ 1. Việc khôi phục danh dự cho cơ quan, tổ chức, cá nhân bị tổn hại về danh dự (sau đây gọi chung là đối tượng bị tổn hại về danh dự) do tham gia bảo vệ an ninh quốc gia được cơ quan nhà nước có thẩm quyền thực hiện là thông báo cải chính, xin lỗi công khai trên các phương tiện thông tin đại chúng hoặc thông báo cải chính, xin lỗi trực tiếp đối tượng bị tổn hại về danh dự trong trường hợp cần giữ bí mật đối với cơ quan, tổ chức, cá nhân.
 
+ 2. Việc đền bù thiệt hại được cơ quan nhà nước có thẩm quyền thực hiện đối với cơ quan, tổ chức, cá nhân bị thiệt hại về tài sản (sau đây gọi chung là đối tượng bị thiệt hại về tài sản) do tham gia bảo vệ an ninh quốc gia nhưng không phải do người phạm tội xâm phạm an ninh quốc gia trực tiếp gây ra; trường hợp thiệt hại về tài sản do người phạm tội xâm phạm an ninh quốc gia gây ra thì được giải quyết theo quy định của Bộ luật Hình sự và Bộ luật Tố tụng hình sự.
 
-### Điều 1.1.NĐ.1.3. Khôi phục danh dự, đền bù, trợ cấp
+ 3. Chế độ trợ cấp thiệt hại được cơ quan nhà nước có thẩm quyền thực hiện trợ cấp cho người bị thương tích, bị tổn hại về sức khoẻ (sau đây gọi chung là người bị thiệt hại về sức khỏe), bị thiệt hại về tính mạng do tham gia bảo vệ an ninh quốc gia.Điều 1.1.NĐ.1.4. Quyền của cơ quan, tổ chức, cá nhân bị thiệt hại
 
-1. Việc khôi phục danh dự cho cơ quan, tổ chức, cá nhân bị tổn hại về danh dự (sau đây gọi chung là đối tượng bị tổn hại về danh dự) do tham gia bảo vệ an ninh quốc gia được cơ quan nhà nước có thẩm quyền thực hiện là thông báo cải chính, xin lỗi công khai trên các phương tiện thông tin đại chúng hoặc thông báo cải chính, xin lỗi trực tiếp đối tượng bị tổn hại về danh dự trong trường hợp cần giữ bí mật đối với cơ quan, tổ chức, cá nhân.
+(Điều 4 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-**Chỉ mục:** 3
+ 1. Cơ quan, tổ chức, cá nhân bị thiệt hại do tham gia bảo vệ an ninh quốc gia hoặc thông qua người đại diện hợp pháp của họ có quyền đề nghị cơ quan nhà nước có thẩm quyền khôi phục danh dự, đền bù thiệt hại về tài sản; thực hiện chế độ trợ cấp đối với người bị thiệt hại về tính mạng và sức khỏe.
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160000300
+ 2. Người tham gia bảo vệ an ninh quốc gia có thành tích xuất sắc mà bị thiệt hại về tính mạng, về sức khỏe thì bản thân hoặc gia đình người đó được hưởng chế độ ưu đãi người có công và được khen thưởng theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 9. Quyền, nghĩa vụ của người bị thiệt hại của Luật 35/2009/QH12 Trách nhiệm bồi thường của Nhà nước ban hành ngày 18/06/2009)
 
-**ID:** dk_00000095
+Điều 1.1.NĐ.1.5. Trách nhiệm xem xét, giải quyết việc khôi phục danh dự, đền bù, trợ cấp
 
----
+(Điều 5 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
+ 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm xem xét, quyết định kịp thời việc khôi phục danh dự, đền bù thiệt hại, trợ cấp cho đối tượng bị thiệt hại do tham gia bảo vệ an ninh quốc gia theo quy định của Nghị định này và quy định khác của pháp luật có liên quan.
 
-### Điều 1.1.NĐ.1.4. Quyền của cơ quan, tổ chức, cá nhân bị thiệt hại
+ 2. Cơ quan chuyên trách bảo vệ an ninh quốc gia phải chủ động rà soát, thống kê các trường hợp cần khôi phục danh dự, đền bù thiệt hại về tài sản, cần trợ cấp để xem xét, quyết định thực hiện việc khôi phục danh dự, đền bù và trợ cấp theo thẩm quyền hoặc đề nghị cấp có thẩm quyền xem xét, quyết định.
 
-1. Cơ quan, tổ chức, cá nhân bị thiệt hại do tham gia bảo vệ an ninh quốc gia hoặc thông qua người đại diện hợp pháp của họ có quyền đề nghị cơ quan nhà nước có thẩm quyền khôi phục danh dự, đền bù thiệt hại về tài sản; thực hiện chế độ trợ cấp đối với người bị thiệt hại về tính mạng và sức khỏe.
+ 3. Việc thực hiện khôi phục danh dự, đền bù thiệt hại và trợ cấp thiệt hại phải do cấp có thẩm quyền quyết định bằng văn bản. Những trường hợp đền bù thiệt hại, trợ cấp (bằng tiền hoặc bằng hiện vật) từ 10.000.000 (mười triệu) đồng trở lên phải lập Hội đồng Tư vấn để xem xét và quyết định.(Điều này có nội dung liên quan đến Điều 8. Nhiệm vụ, quyền hạn của cơ quan có trách nhiệm bồi thường của Luật 35/2009/QH12 Trách nhiệm bồi thường của Nhà nước ban hành ngày 18/06/2009)
 
-**Chỉ mục:** 4
+Điều 1.1.NĐ.1.6. Hình thức khôi phục danh dự
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160000400
+(Điều 6 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-**ID:** dk_00000096
+ 1. Việc khôi phục danh dự được thực hiện đối với đối tượng bị tổn hại về danh dự.
 
----
+ 2. Việc cải chính công khai, xin lỗi được tiến hành bằng thông báo trên các phương tiện thông tin đại chúng trung ương hoặc địa phương trong hai số báo hoặc hai lần trên phương tiện nghe, nhìn liên tiếp.
 
+ 3. Việc cải chính, xin lỗi bí mật được thông báo cho đối tượng bị tổn hại về danh dự, người đứng đầu cơ quan, tổ chức, chính quyền địa phương có liên quan và thông báo trực tiếp cho lãnh đạo có thẩm quyền của cơ quan, tổ chức, cá nhân được khôi phục danh dự.Điều 1.1.NĐ.1.7. Thẩm quyền quyết định và thủ tục giải quyết khôi phục danh dự
 
-### Điều 1.1.NĐ.1.5. Trách nhiệm xem xét, giải quyết việc khôi phục danh dự, đền bù, trợ cấp
+(Điều 7 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-1. Cơ quan nhà nước có thẩm quyền có trách nhiệm xem xét, quyết định kịp thời việc khôi phục danh dự, đền bù thiệt hại, trợ cấp cho đối tượng bị thiệt hại do tham gia bảo vệ an ninh quốc gia theo quy định của Nghị định này và quy định khác của pháp luật có liên quan.
+ 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia các cấp có trách nhiệm xem xét, quyết định việc khôi phục danh dự cho đối tượng bị tổn hại về danh dự do cơ quan mình quản lý. Trường hợp đối tượng bị tổn hại về danh dự không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý thì xem xét, đề nghị cơ quan có thẩm quyền xem xét, quyết định.
 
-**Chỉ mục:** 5
+ 2. Ủy ban nhân dân quận, huyện, thị xã, thành phố trực thuộc tỉnh (sau đây gọi chung là ủy ban nhân dân cấp huyện) có trách nhiệm xem xét, quyết định khôi phục danh dự cho đối tượng bị tổn hại về danh dự cư trú tại địa phương mình theo đề nghị của cơ quan chuyên trách bảo vệ an ninh quốc gia (trong các trường hợp đối tượng bị tổn hại về danh dự không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý).
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160000500
+ 3. Đối tượng bị tổn hại về danh dự có quyền đề nghị trực tiếp hoặc gửi đơn đến cơ quan chuyên trách bảo vệ an ninh quốc gia liên quan nơi mình cư trú, đề nghị được khôi phục danh dự. Đề nghị cần trình bày rõ nội dung sự việc, kèm theo giấy tờ, tài liệu, chứng cứ chứng minh (nếu có) để làm căn cứ xem xét, giải quyết. Trường hợp cần bổ sung tài liệu làm căn cứ xem xét, quyết định khôi phục danh dự thì cơ quan nhận đơn phải hướng dẫn đối tượng bị tổn hại về danh dự thu thập, cung cấp, bổ sung tài liệu hoặc tự thu thập, bổ sung.
 
-**ID:** dk_00000097
+ 4. Khi nhận được đề nghị hoặc đơn của đối tượng bị tổn hại về danh dự do tham gia bảo vệ an ninh quốc gia, trong thời hạn chậm nhất sau 15 ngày, cơ quan chuyên trách bảo vệ an ninh quốc gia nhận đề nghị hoặc đơn phải có trách nhiệm giải quyết theo các trường hợp sau:
 
----
+ a) Quyết định việc khôi phục danh dự cho đối tượng bị tổn hại về danh dự do cơ quan mình quản lý;
 
+ b) Chuyển đề nghị hoặc đơn và các tài liệu có liên quan (nếu có) cho cơ quan chuyên trách bảo vệ an ninh quốc gia nơi quản lý đối tượng bị tổn hại về danh dự để xem xét, quyết định việc khôi phục danh dự;
 
-### Điều 1.1.NĐ.1.6. Hình thức khôi phục danh dự
+ c) Xem xét, kết luận và kiến nghị ủy ban nhân dân cấp huyện, nơi đối tượng bị tổn hại về danh dự cư trú để xem xét, quyết định khôi phục danh dự (trong các trường hợp đối tượng bị tổn hại về danh dự không do cơ quan mình quản lý).
 
-1. Việc khôi phục danh dự được thực hiện đối với đối tượng bị tổn hại về danh dự.
+ 5. Cơ quan chuyên trách bảo vệ an ninh quốc gia nơi nhận đề nghị hoặc đơn có trách nhiệm thông báo cho đối tượng có đơn đề nghị khôi phục danh dự biết việc xử lý theo quy định tại điểm a, b, c khoản 4 Điều này. Nếu xét thấy không đủ cơ sở để tiến hành việc khôi phục danh dự cho đối tượng bị thiệt hại về danh dự thì phải có văn bản thông báo rõ lý do cho đối tượng bị thiệt hại đó.Điều 1.1.NĐ.1.8. Thiệt hại về tài sản được đền bù
 
-**Chỉ mục:** 6
+(Điều 8 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160000600
+ 1. Thiệt hại về tài sản được đền bù bao gồm:
 
-**ID:** dk_00000098
+ a) Tài sản bị mất;
 
----
+ b) Tài sản bị hủy hoại, bị hư hỏng mà không có khả năng khôi phục nguyên trạng;
 
+ c) Các chi phí hợp lý để ngăn chặn, hạn chế và khắc phục thiệt hại.
 
-### Điều 1.1.NĐ.1.7. Thẩm quyền quyết định và thủ tục giải quyết khôi phục danh dự
+ 2. Giá trị tài sản bị thiệt hại được xác định theo giá thị trường của tài sản đó tại địa phương vào thời điểm tài sản bị thiệt hại, trừ đi phần khấu hao tài sản.
 
-1. Cơ quan chuyên trách bảo vệ an ninh quốc gia các cấp có trách nhiệm xem xét, quyết định việc khôi phục danh dự cho đối tượng bị tổn hại về danh dự do cơ quan mình quản lý. Trường hợp đối tượng bị tổn hại về danh dự không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý thì xem xét, đề nghị cơ quan có thẩm quyền xem xét, quyết định.
+ 3. Nếu tài sản bị thiệt hại có khả năng phục hồi nguyên trạng thì được phục hồi, nếu không phục hồi được nguyên trạng thì được đền bù.Điều 1.1.NĐ.1.9. Thủ tục giải quyết đền bù thiệt hại về tài sản
 
-**Chỉ mục:** 7
+(Điều 9 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160000700
+ 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia các cấp có trách nhiệm xem xét, quyết định việc đền bù thiệt hại về tài sản cho đối tượng bị thiệt hại về tài sản do cơ quan mình trực tiếp quản lý. Trường hợp vụ việc do cơ quan, tổ chức khác phát hiện thì cơ quan, tổ chức đó có trách nhiệm chuyển giao cho cơ quan chuyên trách bảo vệ an ninh quốc gia có thẩm quyền những tài liệu có liên quan đến sự việc đã gây thiệt hại về tài sản để xem xét, quyết định việc đền bù.
 
-**ID:** dk_00000099
+ 2. Ủy ban nhân dân cấp huyện hoặc ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là ủy ban nhân dân cấp tỉnh) có trách nhiệm xem xét, ra quyết định việc đền bù thiệt hại về tài sản cho các đối tượng bị thiệt hại về tài sản tại địa phương mình theo đề nghị của cơ quan chuyên trách bảo vệ an ninh quốc gia (trong các trường hợp đối tượng bị thiệt hại về tài sản không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý).
 
----
+ 3. Đối tượng bị thiệt hại về tài sản có quyền đề nghị trực tiếp hoặc gửi đơn đến cơ quan chuyên trách bảo vệ an ninh quốc gia có liên quan đề nghị được đền bù thiệt hại. Đề nghị cần trình bày rõ nội dung sự việc đã gây ra thiệt hại, những tài sản bị thiệt hại, giá trị thiệt hại và mức đền bù, kèm theo giấy tờ, tài liệu chứng cứ chứng minh giá trị tài sản, giá trị tài sản bị thiệt hại và các tài liệu liên quan khác (nếu có) để làm căn cứ giúp cơ quan có trách nhiệm xem xét, quyết định việc đền bù. Trường hợp cần bổ sung tài liệu làm căn cứ xem xét, giải quyết đền bù thì cơ quan nhận đơn phải hướng dẫn người bị thiệt hại về tài sản thu thập, cung cấp, bổ sung tài liệu hoặc tự thu thập, bổ sung.
 
+ 4. Khi nhận được đề nghị hoặc đơn của đối tượng bị thiệt hại về tài sản do tham gia bảo vệ an ninh quốc gia, trong thời hạn chậm nhất sau 15 ngày, cơ quan chuyên trách bảo vệ an ninh quốc gia nhận đề nghị hoặc đơn có trách nhiệm giải quyết theo các trường hợp sau:
 
-### Điều 1.1.NĐ.1.8. Thiệt hại về tài sản được đền bù
+ a) Xem xét, quyết định hoặc đề nghị cơ quan có thẩm quyền quyết định việc đền bù thiệt hại về tài sản cho đối tượng bị thiệt hại về tài sản do cơ quan mình quản lý;
 
-1. Thiệt hại về tài sản được đền bù bao gồm:
+ b) Chuyển đề nghị hoặc đơn và các tài liệu có liên quan khác (nếu có) cho cơ quan chuyên trách bảo vệ an ninh quốc gia nơi quản lý đối tượng bị thiệt hại về tài sản để xem xét, quyết định đền bù thiệt hại;
 
-**Chỉ mục:** 8
+ c) Xem xét, kết luận và kiến nghị ủy ban nhân dân cấp huyện hoặc ủy ban nhân dân cấp tỉnh, nơi đối tượng bị thiệt hại về tài sản cư trú để xem xét, quyết định đền bù thiệt hại (trong các trường hợp đối tượng bị thiệt hại về tài sản không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý).
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160000800
+ 5. Cơ quan chuyên trách bảo vệ an ninh quốc gia có trách nhiệm thông báo cho đối tượng có đơn đề nghị đền bù thiệt hại về tài sản biết việc xử lý theo quy định tại điểm a, b, c khoản 4 Điều này. Nếu xét thấy không đủ cơ sở để tiến hành việc đền bù thiệt hại cho đối tượng bị thiệt hại về tài sản thì phải có văn bản thông báo rõ lý do cho đối tượng bị thiệt hại đó.
 
-**ID:** dk_00000100
+ 6. Trường hợp đền bù thiệt hại từ 10.000.000 (mười triệu) đồng trở lên, Thủ trưởng cơ quan có trách nhiệm đền bù thiệt hại quyết định thành lập Hội đồng Tư vấn để xem xét. Hội đồng Tư vấn gồm: Thủ trưởng cơ quan có trách nhiệm đền bù thiệt hại làm Chủ tịch Hội đồng, đại diện chính quyền địa phương hoặc cơ quan chuyên trách bảo vệ an ninh quốc gia, đại diện cơ quan tài chính, cơ quan chuyên ngành khoa học - kỹ thuật có liên quan.
 
----
+ Đối tượng bị thiệt hại về tài sản hoặc người đại diện hợp pháp của họ được mời tham dự cuộc họp của Hội đồng Tư vấn để phát biểu ý kiến; ý kiến của những người này được ghi vào biên bản.
 
+ Hội đồng Tư vấn có nhiệm vụ xem xét, kiểm tra, đánh giá thiệt hại và kiến nghị mức đền bù và kết luận theo đa số; biên bản họp Hội đồng Tư vấn là tài liệu để Thủ trưởng cơ quan có trách nhiệm đền bù thiệt hại theo thẩm quyền quy định tại khoản 4, khoản 5 Điều 10 của Nghị định này quyết định mức đền bù.Điều 1.1.NĐ.1.10. Thẩm quyền quyết định đền bù thiệt hại về tài sản
 
-### Điều 1.1.NĐ.1.9. Thủ tục giải quyết đền bù thiệt hại về tài sản
+(Điều 10 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-1. Cơ quan chuyên trách bảo vệ an ninh quốc gia các cấp có trách nhiệm xem xét, quyết định việc đền bù thiệt hại về tài sản cho đối tượng bị thiệt hại về tài sản do cơ quan mình trực tiếp quản lý. Trường hợp vụ việc do cơ quan, tổ chức khác phát hiện thì cơ quan, tổ chức đó có trách nhiệm chuyển giao cho cơ quan chuyên trách bảo vệ an ninh quốc gia có thẩm quyền những tài liệu có liên quan đến sự việc đã gây thiệt hại về tài sản để xem xét, quyết định việc đền bù.
+ 1. Những người sau đây có thẩm quyền quyết định đền bù thiệt hại về tài sản có giá trị đến dưới 5.000.000 (năm triệu) đồng đối với đối tượng bị thiệt hại về tài sản do đơn vị mình quản lý:
 
-**Chỉ mục:** 9
+ a) Trưởng phòng, Phó trưởng Phòng Nghiệp vụ an ninh thuộc công an tỉnh, thành phố trực thuộc Trung ương;
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160000900
+ b) Trưởng công an, Phó trưởng công an cấp huyện phụ trách an ninh;
 
-**ID:** dk_00000101
+ c) Chỉ huy trưởng, Phó Chỉ huy trưởng Bộ đội Biên phòng tỉnh, thành phố trực thuộc Trung ương; Trưởng phòng, Phó trưởng Phòng Bảo vệ an ninh quân đội thuộc các tổng cục, quân khu, quân đoàn, quân chủng, binh chủng trong Quân đội nhân dân.
 
----
+ 2. Những người sau đây có thẩm quyền quyết định đền bù thiệt hại về tài sản có giá trị đến dưới 10.000.000 (mười triệu) đồng đối với đối tượng bị thiệt hại về tài sản do cơ quan mình quản lý:
 
+ a) Tổng cục trưởng, Phó Tổng cục trưởng Tổng cục An ninh; Tổng cục trưởng, Phó Tổng cục trưởng Tổng cục Tình báo; Tư lệnh, Phó Tư lệnh Bộ Tư lệnh Cảnh vệ - Bộ Công an;
 
-### Điều 1.1.NĐ.1.10. Thẩm quyền quyết định đền bù thiệt hại về tài sản
+ b) Tổng cục trưởng, Phó Tổng cục trưởng Tổng cục Tình báo; Tư lệnh, Phó Tư lệnh Bộ Tư lệnh Bộ đội Biên phòng - Bộ Quốc phòng;
 
-1. Những người sau đây có thẩm quyền quyết định đền bù thiệt hại về tài sản có giá trị đến dưới 5.000.000 (năm triệu) đồng đối với đối tượng bị thiệt hại về tài sản do đơn vị mình quản lý:
+ c) Cục trưởng, Phó Cục trưởng Cục Nghiệp vụ thuộc Tổng cục An ninh, Tổng cục Tình báo - Bộ Công an;
 
-**Chỉ mục:** 10
+ d) Giám đốc, Phó Giám đốc phụ trách an ninh công an tỉnh, thành phố trực thuộc Trung ương;
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160001000
+ đ) Cục trưởng, Phó Cục trưởng Cục Nghiệp vụ thuộc Tổng cục Tình báo - Bộ Quốc phòng;
 
-**ID:** dk_00000102
+ e) Cục trưởng, Phó Cục trưởng Cục Cảnh sát biển; Cục trưởng, Phó Cục trưởng Cục Bảo vệ an ninh quân đội thuộc Tổng cục Chính trị; Cục trưởng, Phó Cục trưởng Cục Trinh sát Bộ Tư lệnh Bộ đội Biên phòng - Bộ Quốc phòng.
 
----
+ 3. Chủ tịch ủy ban nhân dân cấp huyện quyết định đền bù thiệt hại về tài sản có giá trị đến dưới 10.000.000 (mười triệu) đồng đối với các đối tượng bị thiệt hại về tài sản cư trú tại địa phương mình (trong các trường hợp đối tượng bị thiệt hại về tài sản không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý).
 
+ 4. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quyết định đền bù thiệt hại về tài sản có giá trị từ 10.000.000 (mười triệu) đồng trở lên đối với các đối tượng bị thiệt hại về tài sản do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý.
 
-### Điều 1.1.NĐ.1.11. Trợ cấp cho người bị thiệt hại về sức khoẻ
+ 5. Chủ tịch ủy ban nhân dân cấp tỉnh quyết định đền bù thiệt hại về tài sản có giá trị từ 10.000.000 (mười triệu) đồng trở lên đối với các đối tượng bị thiệt hại về tài sản cư trú tại địa phương mình (trong các trường hợp đối tượng bị thiệt hại về tài sản không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý).(Điều này có nội dung liên quan đến Điều 1.1.NĐ.1.15. Thủ tục giải quyết trợ cấp cho người bị thiệt hại về sức khoẻ, người bị thiệt hại về tính mạng)
 
-Trợ cấp cho người bị thiệt hại về sức khỏe bao gồm:
+Điều 1.1.NĐ.1.11. Trợ cấp cho người bị thiệt hại về sức khoẻ
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160001100
+ Trợ cấp cho người bị thiệt hại về sức khỏe bao gồm:
 
-**ID:** dk_00000103
+ 1. Chi phí hợp lý cho việc cứu chữa, bồi dưỡng, phục hồi sức khỏe và phục hồi chức năng bị mất, bị giảm sút của người bị thiệt hại.
 
----
+ 2. Trường hợp thu nhập thực tế của người bị thiệt hại do bị thương, thiệt hại về sức khỏe bị mất, giảm sút, không ổn định và không thể xác định được thì áp dụng mức lương tối thiểu do Nhà nước quy định để trợ cấp.(Điều này có nội dung liên quan đến Điều 1.1.NĐ.1.12. Thẩm quyền quyết định trợ cấp cho người bị thiệt hại về sức khoẻ)
 
+Điều 1.1.NĐ.1.12. Thẩm quyền quyết định trợ cấp cho người bị thiệt hại về sức khoẻ
 
-### Điều 1.1.NĐ.1.12. Thẩm quyền quyết định trợ cấp cho người bị thiệt hại về sức khoẻ
+(Điều 12 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-1. Cơ quan chuyên trách bảo vệ an ninh quốc gia có trách nhiệm xem xét, quyết định việc trợ cấp đối với người bị thiệt hại về sức khoẻ do cơ quan mình quản lý. Trường hợp vụ việc do cơ quan, tổ chức khác phát hiện thì cơ quan, tổ chức đó có trách nhiệm chuyển giao cho cơ quan chuyên trách bảo vệ an ninh quốc gia những tài liệu có liên quan đến sự việc đã gây ra thiệt hại để xem xét, quyết định việc trợ cấp.
+ 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia có trách nhiệm xem xét, quyết định việc trợ cấp đối với người bị thiệt hại về sức khoẻ do cơ quan mình quản lý. Trường hợp vụ việc do cơ quan, tổ chức khác phát hiện thì cơ quan, tổ chức đó có trách nhiệm chuyển giao cho cơ quan chuyên trách bảo vệ an ninh quốc gia những tài liệu có liên quan đến sự việc đã gây ra thiệt hại để xem xét, quyết định việc trợ cấp.
 
-**Chỉ mục:** 12
+ 2. Ủy ban nhân dân cấp huyện hoặc ủy ban nhân dân cấp tỉnh có trách nhiệm xem xét, quyết định việc trợ cấp cho người bị thiệt hại về sức khoẻ cư trú tại địa phương mình theo đề nghị của cơ quan chuyên trách bảo vệ an ninh quốc gia (trong các trường hợp người bị thiệt hại về tài sản không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý).
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160001200
+ 3. Người bị thiệt hại về sức khoẻ được người có thẩm quyền quy định tại Điều 10 Nghị định này xem xét, quyết định trợ cấp một lần bằng tiền; mức trợ cấp bao gồm các chi phí theo quy định tại Điều 11 Nghị định này, nhưng tối đa không vượt quá 50.000.000 (năm mươi triệu) đồng cho một trường hợp.
 
-**ID:** dk_00000104
+ 4. Trường hợp người bị thiệt hại về sức khỏe mất khả năng lao động thì Bộ Công an, Bộ Quốc phòng, ủy ban nhân dân cấp tỉnh đề nghị thực hiện hình thức trợ cấp thường xuyên. Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với Bộ Tài chính hướng dẫn thực hiện quy định này.(Điều này có nội dung liên quan đến Điều 1.1.NĐ.1.11. Trợ cấp cho người bị thiệt hại về sức khoẻ)
 
----
+Điều 1.1.NĐ.1.13. Trợ cấp cho trường hợp người bị thiệt hại về tính mạng
 
+(Điều 13 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-### Điều 1.1.NĐ.1.13. Trợ cấp cho trường hợp người bị thiệt hại về tính mạng
+ Trợ cấp một lần cho trường hợp người bị thiệt hại về tính mạng bao gồm:
 
-Trợ cấp một lần cho trường hợp người bị thiệt hại về tính mạng bao gồm:
+ 1. Chi phí hợp lý cho việc cứu chữa, bồi dưỡng, chăm sóc người bị thiệt hại về tính mạng trước khi chết.
 
-**Chỉ mục:** 13
+ 2. Chi phí hợp lý cho việc mai táng.
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160001300
+ 3. Trợ cấp cho gia đình hoặc người đại diện hợp pháp của người bị thiệt hại về tính mạng.Điều 1.1.NĐ.1.14. Thẩm quyền quyết định trợ cấp cho trường hợp người bị thiệt hại về tính mạng
 
-**ID:** dk_00000105
+(Điều 14 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
----
+ 1. Theo đề nghị của Thủ trưởng cơ quan chuyên trách bảo vệ an ninh quốc gia, Giám đốc Sở Lao động - Thương binh và Xã hội nơi có người bị thiệt hại về tính mạng xem xét, quyết định trợ cấp cho người bị thiệt hại về tính mạng không quá 10.000.000 (mười triệu) đồng cho một trường hợp.
 
+ 2. Theo đề nghị của Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Lao động - Thương binh và Xã hội quyết định trợ cấp cho người bị thiệt hại về tính mạng từ 10.000.000 (mười triệu) đồng trở lên, nhưng tối đa không được vượt quá 60.000.000 (sáu mươi triệu) đồng cho một trường hợp.(Điều này có nội dung liên quan đến Điều 1.1.NĐ.1.15. Thủ tục giải quyết trợ cấp cho người bị thiệt hại về sức khoẻ, người bị thiệt hại về tính mạng)
 
-### Điều 1.1.NĐ.1.14. Thẩm quyền quyết định trợ cấp cho trường hợp người bị thiệt hại về tính mạng
+Điều 1.1.NĐ.1.15. Thủ tục giải quyết trợ cấp cho người bị thiệt hại về sức khoẻ, người bị thiệt hại về tính mạng
 
-1. Theo đề nghị của Thủ trưởng cơ quan chuyên trách bảo vệ an ninh quốc gia, Giám đốc Sở Lao động - Thương binh và Xã hội nơi có người bị thiệt hại về tính mạng xem xét, quyết định trợ cấp cho người bị thiệt hại về tính mạng không quá 10.000.000 (mười triệu) đồng cho một trường hợp.
+(Điều 15 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-**Chỉ mục:** 14
+ 1. Người bị thiệt hại về sức khỏe, gia đình của người thiệt hại về tính mạng do tham gia bảo vệ an ninh quốc gia hoặc người đại diện hợp pháp của họ có quyền đề nghị trực tiếp hoặc gửi đơn đến cơ quan chuyên trách bảo vệ an ninh quốc gia nơi mình cư trú, đề nghị được trợ cấp. Đơn cần trình bày rõ nội dung sự việc đã gây ra thiệt hại, những thương tích, tổn hại về sức khoẻ, thiệt hại về tính mạng, kèm theo giấy tờ, hóa đơn chứng từ xác nhận các chi phí, giấy tờ chứng tử trong trường hợp chết và các giấy tờ liên quan khác để làm căn cứ giúp cơ quan có trách nhiệm xem xét, quyết định trợ cấp. Trường hợp cần bổ sung tài liệu làm căn cứ xem xét, giải quyết trợ cấp thì cơ quan nhận đơn phải hướng dẫn người bị thiệt hại thu thập, cung cấp bổ sung tài liệu, hoặc tự mình thu thập, bổ sung.
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160001400
+ 2. Khi nhận được đề nghị trực tiếp hoặc đơn đề nghị trợ cấp của người bị thiệt hại về sức khỏe, gia đình người bị thiệt hại về tính mạng do tham gia bảo vệ an ninh quốc gia hoặc người đại diện hợp pháp của họ, trong thời hạn chậm nhất sau 15 ngày, cơ quan chuyên trách bảo vệ an ninh quốc gia nhận đề nghị hoặc đơn có trách nhiệm giải quyết theo các trường hợp sau:
 
-**ID:** dk_00000106
+ a) Xem xét, quyết định hoặc đề nghị cấp trên có thẩm quyền xem xét, quyết định việc trợ cấp cho người bị thiệt hại về sức khỏe do cơ quan mình trực tiếp quản lý;
 
----
+ b) Chuyển đề nghị hoặc đơn và các tài liệu có liên quan khác (nếu có) cho cơ quan chuyên trách bảo vệ an ninh quốc gia nơi quản lý người bị thiệt hại về sức khỏe để xem xét, quyết định việc trợ cấp;
 
+ c) Xem xét, kết luận và kiến nghị ủy ban nhân dân cấp huyện hoặc ủy ban nhân dân cấp tỉnh, nơi người bị thiệt hại sức khỏe cư trú để xem xét, quyết định đền bù thiệt hại (trong các trường hợp người bị thiệt hại về sức khỏe không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý);
 
-### Điều 1.1.NĐ.1.15. Thủ tục giải quyết trợ cấp cho người bị thiệt hại về sức khoẻ, người bị thiệt hại về tính mạng
+ d) Thu thập tài liệu, điều tra xác minh, kết luận, đề nghị hoặc chuyển cho cơ quan chuyên trách bảo vệ an ninh quốc gia trực tiếp quản lý người bị thiệt hại về tính mạng để xác minh kết luận đề nghị Sở Lao động - Thương binh và Xã hội hoặc Bộ Lao động - Thương binh và Xã hội xem xét, quyết định trợ cấp;
 
-1. Người bị thiệt hại về sức khỏe, gia đình của người thiệt hại về tính mạng do tham gia bảo vệ an ninh quốc gia hoặc người đại diện hợp pháp của họ có quyền đề nghị trực tiếp hoặc gửi đơn đến cơ quan chuyên trách bảo vệ an ninh quốc gia nơi mình cư trú, đề nghị được trợ cấp. Đơn cần trình bày rõ nội dung sự việc đã gây ra thiệt hại, những thương tích, tổn hại về sức khoẻ, thiệt hại về tính mạng, kèm theo giấy tờ, hóa đơn chứng từ xác nhận các chi phí, giấy tờ chứng tử trong trường hợp chết và các giấy tờ liên quan khác để làm căn cứ giúp cơ quan có trách nhiệm xem xét, quyết định trợ cấp. Trường hợp cần bổ sung tài liệu làm căn cứ xem xét, giải quyết trợ cấp thì cơ quan nhận đơn phải hướng dẫn người bị thiệt hại thu thập, cung cấp bổ sung tài liệu, hoặc tự mình thu thập, bổ sung.
+ đ) Cơ quan chuyên trách bảo vệ an ninh quốc gia nhận đơn đề nghị có trách nhiệm thông báo cho người có đơn đề nghị trợ cấp biết việc xử lý theo quy định tại điểm a, b, c, d khoản 2 Điều này. Nếu xét thấy không đủ cơ sở để tiến hành việc trợ cấp cho người bị thiệt hại thì phải có văn bản thông báo rõ lý do cho người bị thiệt hại đó biết.
 
-**Chỉ mục:** 15
+ 3. Trường hợp mức trợ cấp cho người bị thiệt hại về tính mạng, sức khỏe từ 10.000.000 (mười triệu) đồng trở lên thì Thủ trưởng cơ quan có trách nhiệm quyết định việc trợ cấp thành lập Hội đồng Tư vấn để xem xét, quyết định việc trợ cấp. Hội đồng Tư vấn bao gồm: Thủ trưởng cơ quan có trách nhiệm quyết định trợ cấp làm Chủ tịch Hội đồng, đại diện chính quyền địa phương hoặc cơ quan chuyên trách bảo vệ an ninh quốc gia, đại diện cơ quan tài chính, cơ quan y tế, lao động - thương binh và xã hội.
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160001500
+ Người bị thiệt hại về sức khoẻ, gia đình người bị thiệt hại về tính mạng và người đại diện hợp pháp của họ được mời tham dự cuộc họp của Hội đồng Tư vấn để phát biểu ý kiến; ý kiến của những người này được ghi vào biên bản.
 
-**ID:** dk_00000107
+ Hội đồng Tư vấn có nhiệm vụ đánh giá mức độ tổn hại về sức khoẻ, thiệt hại về tính mạng. Đánh giá thiệt hại căn cứ vào kết luận giám định pháp y, kết luận giám định pháp y tâm thần, kết luận giám định thương tật, các giấy tờ, tài liệu khác có liên quan và quy định của cơ quan có thẩm quyền về tiêu chuẩn thương tật để đánh giá thiệt hại và kiến nghị mức trợ cấp. Hội đồng Tư vấn thảo luận và kết luận theo đa số; biên bản họp Hội đồng Tư vấn là tài liệu để Thủ trưởng cơ quan có thẩm quyền theo quy định tại khoản 4 khoản 5 Điều 10 hoặc khoản 2 Điều 14 Nghị định này quyết định mức trợ cấp.(Điều này có nội dung liên quan đến Điều 1.1.NĐ.1.10. Thẩm quyền quyết định đền bù thiệt hại về tài sản; Điều 1.1.NĐ.1.14. Thẩm quyền quyết định trợ cấp cho trường hợp người bị thiệt hại về tính mạng)
 
----
+Điều 1.1.NĐ.1.16. Kinh phí để đền bù thiệt hại và trợ cấp
 
+(Điều 16 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-### Điều 1.1.NĐ.1.16. Kinh phí để đền bù thiệt hại và trợ cấp
+ 1. Kinh phí để đền bù thiệt hại và trợ cấp do ngân sách nhà nước bảo đảm.
 
-1. Kinh phí để đền bù thiệt hại và trợ cấp do ngân sách nhà nước bảo đảm.
+ 2. Bộ Tài chính chủ trì, phối hợp với Bộ Công an, Bộ Quốc phòng và các cơ quan liên quan hướng dẫn thực hiện quy định tại khoản 1 Điều này.Điều 1.1.NĐ.1.17. Giải quyết khiếu nại, tố cáo
 
-**Chỉ mục:** 16
+(Điều 17 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160001600
+ Việc giải quyết khiếu nại, tố cáo về hành vi vi phạm các quy định của Nghị định này và quy định khác của pháp luật có liên quan được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.Điều 1.1.NĐ.2.11. Chế độ chính sách đối với Bảo vệ dân phố
 
-**ID:** dk_00000108
-
----
-
-
-### Điều 1.1.NĐ.1.17. Giải quyết khiếu nại, tố cáo
-
-Việc giải quyết khiếu nại, tố cáo về hành vi vi phạm các quy định của Nghị định này và quy định khác của pháp luật có liên quan được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 010010000000000010000090000000000000000000402206000160001700
-
-**ID:** dk_00000109
-
----
-
-
-### Điều 1.1.NĐ.2.11. Chế độ chính sách đối với Bảo vệ dân phố
+(Điều 11 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Bảo vệ dân phố được hưởng phụ cấp hàng tháng do Ủy ban nhân dân phường chi trả. Căn cứ vào điều kiện cụ thể và cân đối nguồn ngân sách của từng địa phương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định mức phụ cấp cho từng chức danh Bảo vệ dân phố ở địa phương mình.
 
-**Chỉ mục:** 11
+2. Bảo vệ dân phố trong khi làm nhiệm vụ mà bị hy sinh, bị thương theo quy định của Pháp lệnh Ưu đãi người có công với cách mạng ngày 29 tháng 6 năm 2005 của Ủy ban Thường vụ Quốc hội thì được xem xét công nhận là liệt sỹ hoặc người được hưởng chính sách như thương binh.
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402214200380001100
+3. Bảo vệ dân phố được bồi dưỡng kiến thức pháp luật và nghiệp vụ về công tác bảo vệ an ninh, trật tự theo quy định của Bộ Công an. Trong thời gian tập trung bồi dưỡng kiến thức pháp luật và nghiệp vụ về công tác bảo vệ an ninh, trật tự Bảo vệ dân phố được hưởng chế độ phụ cấp đi lại, ăn ở như quy định đối với Công an xã.
 
-**ID:** dk_00000110
+Điều 1.1.NĐ.5.13. Chế độ, chính sách đối với nhân viên bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị
 
----
+(Điều 13 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
+ 1. Nhân viên bảo vệ khi hết thời hạn thử việc, được đánh giá đạt yêu cầu thì được xem xét tuyển dụng, được hưởng lương và các quyền lợi, chế độ, chính sách theo quy định của pháp luật.
 
-### Điều 1.1.NĐ.5.13. Chế độ, chính sách đối với nhân viên bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị
+ 2. Trong khi thi hành nhiệm vụ, nếu bị thương, bị hy sinh thì được xem xét và có thể được công nhận hưởng chế độ như thương binh, liệt sĩ và các hình thức khen thưởng khác theo quy định của pháp luật về ưu đãi người có công với cách mạng và pháp luật về thi đua, khen thưởng.Điều 1.1.NĐ.5.14. Chế độ, chính sách của nhân viên bảo vệ tại cơ quan, doanh nghiệp khác
 
-1. Nhân viên bảo vệ khi hết thời hạn thử việc, được đánh giá đạt yêu cầu thì được xem xét tuyển dụng, được hưởng lương và các quyền lợi, chế độ, chính sách theo quy định của pháp luật.
+(Điều 14 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**Chỉ mục:** 13
+ Chế độ, chính sách của nhân viên bảo vệ tại các cơ quan, doanh nghiệp khác do Hội đồng quản trị, Hội đồng thành viên hoặc người đứng đầu cơ quan, doanh nghiệp quyết định thông qua hợp đồng lao động trên cơ sở quy định của pháp luật.Điều 1.1.NĐ.6.10. Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia công tác bảo vệ an ninh, trật tự
 
-**Mã phân cấp:** 010010000000000010000090000000000000000000402460100060001300
+(Điều 10 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
-**ID:** dk_00000111
+ 1. Cơ quan, tổ chức tham gia công tác bảo vệ an ninh, trật tự được bảo vệ về danh dự, tài sản; cá nhân tham gia công tác bảo vệ an ninh, trật tự được bảo vệ về tính mạng, sức khỏe, danh dự, nhân phẩm và tài sản theo quy định của pháp luật.
 
----
+ 2. Cơ quan, tổ chức, cá nhân tham gia công tác bảo vệ an ninh, trật tự có thành tích thì được khen thưởng theo quy định của pháp luật về thi đua, khen thưởng.
 
+ 3. Cơ quan, tổ chức, cá nhân do tham gia công tác bảo vệ an ninh, trật tự mà bị tổn hại về danh dự thì được khôi phục, bị thiệt hại về tài sản thì được đền bù; cá nhân bị chết do trực tiếp tham gia công tác bảo vệ an ninh, trật tự thì được xem xét công nhận là liệt sĩ, nếu bị thương làm suy giảm khả năng lao động từ 21% trở lên thì được xem xét để hưởng chính sách như thương binh theo quy định của pháp luật về ưu đãi người có công với cách mạng.Điều 1.1.LQ.10. Tuyên truyền, giáo dục bảo vệ an ninh quốc gia
 
-### Điều 1.1.NĐ.5.14. Chế độ, chính sách của nhân viên bảo vệ tại cơ quan, doanh nghiệp khác
-
-Chế độ, chính sách của nhân viên bảo vệ tại các cơ quan, doanh nghiệp khác do Hội đồng quản trị, Hội đồng thành viên hoặc người đứng đầu cơ quan, doanh nghiệp quyết định thông qua hợp đồng lao động trên cơ sở quy định của pháp luật.
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 010010000000000010000090000000000000000000402460100060001400
-
-**ID:** dk_00000112
-
----
-
-
-### Điều 1.1.NĐ.6.10. Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia công tác bảo vệ an ninh, trật tự
-
-1. Cơ quan, tổ chức tham gia công tác bảo vệ an ninh, trật tự được bảo vệ về danh dự, tài sản; cá nhân tham gia công tác bảo vệ an ninh, trật tự được bảo vệ về tính mạng, sức khỏe, danh dự, nhân phẩm và tài sản theo quy định của pháp luật.
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 010010000000000010000090000000000000000000402497800060001000
-
-**ID:** dk_00000113
-
----
-
-
-### Điều 1.1.LQ.10. Tuyên truyền, giáo dục bảo vệ an ninh quốc gia
+(Điều 10 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Chính phủ, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Uỷ ban nhân dân các cấp có trách nhiệm tổ chức, chỉ đạo công tác tuyên truyền, giáo dục bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 10
+2. Cơ quan thông tin, tuyên truyền có trách nhiệm tổ chức tuyên truyền, phổ biến pháp luật và nâng cao ý thức bảo vệ an ninh quốc gia cho toàn dân.
 
-**Mã phân cấp:** 0100100000000000100001000000000000000000
+3. Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, giáo dục, vận động công dân Việt Nam, người Việt Nam định cư ở nước ngoài bảo vệ an ninh quốc gia.
 
-**ID:** dk_00000114
+4. Giáo dục bảo vệ an ninh quốc gia là một nội dung giáo dục quốc dân. Cơ quan quản lý nhà nước về giáo dục và đào tạo có trách nhiệm đưa nội dung giáo dục bảo vệ an ninh quốc gia vào chương trình dạy học trong nhà trường và các cơ sở giáo dục khác phù hợp với ngành học, cấp học.
 
----
+Điều 1.1.LQ.11. Hợp tác quốc tế trong lĩnh vực bảo vệ an ninh quốc gia
 
-
-### Điều 1.1.LQ.11. Hợp tác quốc tế trong lĩnh vực bảo vệ an ninh quốc gia
+(Điều 11 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện chính sách hợp tác quốc tế đa phương, song phương với các nước, các tổ chức quốc tế trong hoạt động bảo vệ an ninh quốc gia phù hợp với pháp luật Việt Nam và pháp luật quốc tế; thực hiện các điều ước quốc tế liên quan đến lĩnh vực bảo vệ an ninh quốc gia mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập.
 
-**Chỉ mục:** 11
+Điều 1.1.LQ.12. Chính sách xử lý các hành vi xâm phạm an ninh quốc gia
 
-**Mã phân cấp:** 0100100000000000100001100000000000000000
-
-**ID:** dk_00000115
-
----
-
-
-### Điều 1.1.LQ.12. Chính sách xử lý các hành vi xâm phạm an ninh quốc gia
+(Điều 12 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Mọi hành vi xâm phạm an ninh quốc gia đều phải bị xử lý nghiêm minh, kịp thời theo đúng quy định của pháp luật. Người chủ mưu, cầm đầu, chỉ huy, ngoan cố chống đối thì bị nghiêm trị.
 
-**Chỉ mục:** 12
+2. Người bị ép buộc, lừa gạt, lôi kéo nhận làm việc cho tổ chức, cá nhân để hoạt động xâm phạm an ninh quốc gia mà tự thú, thành khẩn khai báo thì được khoan hồng; nếu lập công thì được khen thưởng.
 
-**Mã phân cấp:** 0100100000000000100001200000000000000000
+3. Người nước ngoài có hành vi xâm phạm an ninh quốc gia của Việt Nam ở ngoài lãnh thổ Việt Nam có thể bị xử lý theo pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam trong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập có quy định.
 
-**ID:** dk_00000116
+(Điều này có nội dung liên quan đến Chương XIII CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA)
 
----
+Điều 1.1.LQ.13. Các hành vi bị nghiêm cấm
 
-
-### Điều 1.1.LQ.13. Các hành vi bị nghiêm cấm
+(Điều 13 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Tổ chức, hoạt động, câu kết, xúi giục, khống chế, kích động, mua chuộc, lừa gạt, lôi kéo người khác nhằm chống chính quyền nhân dân, xóa bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam, chia cắt đất nước, phá hoại khối đại đoàn kết toàn dân tộc.
 
-**Chỉ mục:** 13
+2. Nhận nhiệm vụ của tổ chức, cá nhân để hoạt động xâm phạm an ninh quốc gia hoặc tham gia, giúp sức, cung cấp tài chính, vũ khí, phương tiện cho các tổ chức, cá nhân hoạt động xâm phạm an ninh quốc gia.
 
-**Mã phân cấp:** 0100100000000000100001300000000000000000
+3. Thu thập, tàng trữ, vận chuyển, mua bán, sử dụng, tiết lộ, cung cấp, tán phát trái phép tin tức, tài liệu, vật phẩm thuộc bí mật nhà nước.
 
-**ID:** dk_00000117
+4. Xâm phạm mục tiêu quan trọng về an ninh quốc gia.
 
----
+5. Chống lại hoặc cản trở cơ quan, tổ chức, cá nhân thực hiện nhiệm vụ bảo vệ an ninh quốc gia.
 
+6. Lợi dụng việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia để xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
 
-### Điều 1.1.LQ.14. Nhiệm vụ bảo vệ an ninh quốc gia
+7. Hành vi khác xâm phạm an ninh quốc gia được quy định tại Bộ luật hình sự và các văn bản pháp luật có liên quan.
+
+Chương II
+
+BẢO VỆ AN NINH QUỐC GIA
+
+Điều 1.1.LQ.14. Nhiệm vụ bảo vệ an ninh quốc gia
+
+(Điều 14 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Bảo vệ chế độ chính trị và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc.
 
-**Chỉ mục:** 14
+2. Bảo vệ an ninh về tư tưởng và văn hoá, khối đại đoàn kết toàn dân tộc, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-**Mã phân cấp:** 0100100000000000200001400000000000000000
+3. Bảo vệ an ninh trong các lĩnh vực kinh tế, quốc phòng, đối ngoại và các lợi ích khác của quốc gia.
 
-**ID:** dk_00000119
+4. Bảo vệ bí mật nhà nước và các mục tiêu quan trọng về an ninh quốc gia.
 
----
+5. Phòng ngừa, phát hiện, ngăn chặn, đấu tranh làm thất bại và loại trừ các hoạt động xâm phạm an ninh quốc gia, nguy cơ đe doạ an ninh quốc gia.
 
+(Điều này có nội dung liên quan đến Điều 4. Điều kiện xác định mục tiêu; Điều 7. Trách nhiệm của Bộ Công an trong công tác bảo vệ mục tiêu của Nghị định 137/2009/NĐ-CP Quy định các mục tiêu quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội do lực lượng Cảnh sát nhân dân có trách nhiệm vũ trang canh gác bảo vệ và trách nhiệm của cơ quan, tổ chức có liên quan ban hành ngày 23/04/2009; Điều 1.1.LQ.18. Trách nhiệm của cơ quan, tổ chức trong bảo vệ an ninh quốc gia; Điều 1.1.LQ.32. Trách nhiệm của Bộ Ngoại giao trong quản lý nhà nước về an ninh quốc gia; Điều 1.1.LQ.33. Trách nhiệm của các bộ, cơ quan ngang bộ trong quản lý nhà nước về an ninh quốc gia; Điều 39.14.LQ.9. Nhiệm vụ của Cảnh sát cơ động)
 
-### Điều 1.1.LQ.15. Các biện pháp cơ bản bảo vệ an ninh quốc gia
+Điều 1.1.LQ.15. Các biện pháp cơ bản bảo vệ an ninh quốc gia
+
+(Điều 15 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Các biện pháp cơ bản bảo vệ an ninh quốc gia bao gồm vận động quần chúng, pháp luật, ngoại giao, kinh tế, khoa học - kỹ thuật, nghiệp vụ, vũ trang.
 
-**Chỉ mục:** 15
+2. Nội dung, điều kiện, thẩm quyền, trình tự, thủ tục và trách nhiệm áp dụng các biện pháp quy định tại khoản 1 Điều này do pháp luật quy định.
 
-**Mã phân cấp:** 0100100000000000200001500000000000000000
+Điều 1.1.NĐ.4.5. Nội dung biện pháp pháp luật bảo vệ an ninh, trật tự
 
-**ID:** dk_00000120
-
----
-
-
-### Điều 1.1.NĐ.4.5. Nội dung biện pháp pháp luật bảo vệ an  ninh, trật tự
+(Điều 5 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 1. Đưa yêu cầu bảo vệ an ninh, trật tự vào xây dựng pháp luật, ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế, hoàn thiện thể chế.
 
-**Chỉ mục:** 5
+2. Phát hiện, ngăn chặn, xử lý hành vi lợi dụng hoạt động xây dựng pháp luật, hợp tác quốc tế về pháp luật để xâm hại đến chế độ chính trị, kinh tế, văn hóa, xã hội của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-**Mã phân cấp:** 010010000000000020000150000000000000000000402399900350000500
+3. Sử dụng pháp luật, điều ước quốc tế, thỏa thuận quốc tế để quản lý nhà nước về bảo vệ an ninh, trật tự và thực hiện các biện pháp phòng ngừa, phát hiện, điều tra, xử lý vi phạm pháp luật về bảo vệ an ninh, trật tự.
 
-**ID:** dk_00000121
+Điều 1.1.NĐ.6.5. Nội dung biện pháp vận động quần chúng bảo vệ an ninh, trật tự
 
----
+(Điều 5 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
+ 1. Tham mưu, đề xuất cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền chủ trương, quy định, kế hoạch huy động và sử dụng sức mạnh của cơ quan, tổ chức, cá nhân trong công tác bảo vệ an ninh, trật tự; xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc.
 
-### Điều 1.1.NĐ.6.5. Nội dung biện pháp vận động quần chúng bảo vệ an ninh, trật tự
+ 2. Tuyên truyền, phổ biến, hướng dẫn cơ quan, tổ chức, cá nhân nâng cao nhận thức, ý thức chấp hành pháp luật, ý thức trách nhiệm trong công tác bảo vệ an ninh, trật tự; xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc.
 
-1. Tham mưu, đề xuất cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền chủ trương, quy định, kế hoạch huy động và sử dụng sức mạnh của cơ quan, tổ chức, cá nhân trong công tác bảo vệ an ninh, trật tự; xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc.
+ 3. Tổ chức, động viên, hướng dẫn cơ quan, tổ chức, cá nhân tham gia công tác bảo vệ an ninh, trật tự; xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc.
 
-**Chỉ mục:** 5
+ 4. Chỉ đạo, hướng dẫn, kiểm tra việc xây dựng, thành lập và hoạt động của các mô hình tổ chức quần chúng bảo vệ an ninh, trật tự ở cơ sở.(Điều này có nội dung liên quan đến Điều 1.1.NĐ.6.6. Thẩm quyền, trách nhiệm của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự)
 
-**Mã phân cấp:** 010010000000000020000150000000000000000000402497800060000500
+Điều 1.1.NĐ.6.7. Hình thức, trình tự, thủ tục áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
 
-**ID:** dk_00000122
+(Điều 7 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
----
+ 1. Vận động quần chúng bảo vệ an ninh, trật tự được thực hiện bằng hình thức công khai hoặc bí mật, vận động rộng rãi, vận động tập trung hoặc vận động cá biệt.
 
+ 2. Hình thức, trình tự, thủ tục áp dụng biện pháp vận động quần chúng trong các lĩnh vực công tác cụ thể được thực hiện theo quy định của Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng và quy định của pháp luật có liên quan.Điều 1.1.LQ.16. Xây dựng nền an ninh nhân dân và thế trận an ninh nhân dân
 
-### Điều 1.1.NĐ.6.7. Hình thức, trình tự, thủ tục áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
-
-1. Vận động quần chúng bảo vệ an ninh, trật tự được thực hiện bằng hình thức công khai hoặc bí mật, vận động rộng rãi, vận động tập trung hoặc vận động cá biệt.
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 010010000000000020000150000000000000000000402497800060000700
-
-**ID:** dk_00000123
-
----
-
-
-### Điều 1.1.LQ.16. Xây dựng nền an ninh nhân dân và thế trận an ninh nhân dân
+(Điều 16 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Vận động toàn dân tham gia phong trào bảo vệ an ninh Tổ quốc; giáo dục, động viên cán bộ, công chức, người lao động và mọi công dân tham gia xây dựng địa phương, cơ quan, tổ chức vững mạnh; xây dựng khối đại đoàn kết toàn dân tộc; nâng cao đời sống vật chất và tinh thần của nhân dân.
 
-**Chỉ mục:** 16
+2. Xây dựng và tổ chức thực hiện chiến lược, chính sách, kế hoạch bảo vệ an ninh quốc gia gắn với xây dựng, củng cố hệ thống chính trị, phát triển kinh tế, văn hoá, xã hội, đối ngoại và kết hợp chặt chẽ với xây dựng nền quốc phòng toàn dân.
 
-**Mã phân cấp:** 0100100000000000200001600000000000000000
+3. Tăng cường pháp chế xã hội chủ nghĩa, xây dựng, hoàn thiện hệ thống pháp luật về bảo vệ an ninh quốc gia; xác định cụ thể nhiệm vụ, quyền hạn, trách nhiệm, nghĩa vụ của cơ quan, tổ chức, cá nhân trong bảo vệ an ninh quốc gia.
 
-**ID:** dk_00000124
+4. Xây dựng lực lượng bảo vệ an ninh quốc gia vững mạnh; xây dựng các phương án và tổ chức, bố trí lực lượng, phương tiện cần thiết để chủ động bảo vệ an ninh quốc gia trong mọi tình huống.
 
----
+(Điều này có nội dung liên quan đến Điều 28.6.LQ.5. Điều kiện trưng mua, trưng dụng tài sản)
 
+Điều 1.1.LQ.17. Quyền và nghĩa vụ của công dân trong bảo vệ an ninh quốc gia
 
-### Điều 1.1.LQ.17. Quyền và nghĩa vụ của công dân trong bảo vệ an ninh quốc gia
+(Điều 17 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Tham gia lực lượng bảo vệ an ninh quốc gia và thực hiện nhiệm vụ bảo vệ an ninh quốc gia theo quy định của pháp luật.
 
-**Chỉ mục:** 17
+2. Tố cáo hành vi xâm phạm an ninh quốc gia, hành vi lợi dụng việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
 
-**Mã phân cấp:** 0100100000000000200001700000000000000000
+3. Phát hiện, kiến nghị với chính quyền hoặc cơ quan chuyên trách bảo vệ an ninh quốc gia khắc phục sơ hở, thiếu sót trong việc thực hiện pháp luật về bảo vệ an ninh quốc gia.
 
-**ID:** dk_00000125
+4. Phát hiện, cung cấp kịp thời thông tin, tài liệu liên quan đến hoạt động xâm phạm an ninh quốc gia cho chính quyền hoặc cơ quan chuyên trách bảo vệ an ninh quốc gia nơi gần nhất.
 
----
+5. Thực hiện yêu cầu của cơ quan chuyên trách bảo vệ an ninh quốc gia theo quy định của pháp luật.
 
+6. Giúp đỡ, tạo điều kiện cho cơ quan và người có trách nhiệm tiến hành các biện pháp phòng ngừa, phát hiện, ngăn chặn, đấu tranh với hoạt động xâm phạm an ninh quốc gia.
 
-### Điều 1.1.NĐ.2.20. Trách nhiệm của các cơ quan đoàn thể, đơn vị, tổ chức và mọi công dân
+Điều 1.1.NĐ.2.20. Trách nhiệm của các cơ quan đoàn thể, đơn vị, tổ chức và mọi công dân
+
+(Điều 20 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam các cấp; các đơn vị, tổ chức và mọi công dân có trách nhiệm giám sát, giúp đỡ, tạo điều kiện để lực lượng Bảo vệ dân phố hoàn thành nhiệm vụ của mình.
 
-**Chỉ mục:** 20
+Điều 1.1.NĐ.6.9. Trách nhiệm của cá nhân trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
 
-**Mã phân cấp:** 010010000000000020000170000000000000000000402214200380002000
+(Điều 9 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
-**ID:** dk_00000126
+ 1. Chấp hành và thực hiện nghiêm chỉnh yêu cầu của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự theo quy định của pháp luật.
 
----
+ 2. Nâng cao nhận thức, ý thức chấp hành pháp luật; chủ động phòng ngừa, phát hiện, tố giác, đấu tranh chống tội phạm và các vi phạm pháp luật khác về an ninh, trật tự.
 
+ 3. Tham gia các mô hình tổ chức quần chúng bảo vệ an ninh, trật tự ở cơ sở theo năng lực, điều kiện của bản thân; tham gia xây dựng khu dân cư, xã, phường, thị trấn, cơ quan, tổ chức, doanh nghiệp, nhà trường đạt tiêu chuẩn an toàn về an ninh, trật tự; đoàn kết xây dựng đời sống văn hóa ở khu dân cư theo quy định của pháp luật.Điều 1.1.LQ.18. Trách nhiệm của cơ quan, tổ chức trong bảo vệ an ninh quốc gia
 
-### Điều 1.1.NĐ.6.9. Trách nhiệm của cá nhân trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
-
-1. Chấp hành và thực hiện nghiêm chỉnh yêu cầu của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự theo quy định của pháp luật.
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 010010000000000020000170000000000000000000402497800060000900
-
-**ID:** dk_00000127
-
----
-
-
-### Điều 1.1.LQ.18. Trách nhiệm của cơ quan, tổ chức trong bảo vệ an ninh quốc gia
+(Điều 18 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức thực hiện các nhiệm vụ quy định tại Điều 14 của Luật này và các quy định khác của pháp luật về bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 18
+2. Thực hiện các biện pháp bảo vệ an ninh chính trị nội bộ, huy động sức mạnh của cơ quan, tổ chức để thực hiện nhiệm vụ bảo vệ an ninh quốc gia; đưa nhiệm vụ bảo vệ an ninh quốc gia vào chương trình, kế hoạch và các hoạt động chuyên môn của cơ quan, tổ chức.
 
-**Mã phân cấp:** 0100100000000000200001800000000000000000
+3. Giáo dục, động viên mọi thành viên của cơ quan, tổ chức mình và nhân dân tham gia bảo vệ an ninh quốc gia.
 
-**ID:** dk_00000128
+4. Phát hiện, cung cấp kịp thời thông tin, tài liệu liên quan đến hoạt động xâm phạm an ninh quốc gia cho cơ quan chuyên trách bảo vệ an ninh quốc gia hoặc chính quyền nơi gần nhất.
 
----
+5. Thực hiện yêu cầu của cơ quan chuyên trách bảo vệ an ninh quốc gia theo quy định của pháp luật.
 
+(Điều này có nội dung liên quan đến Điều 1.1.LQ.14. Nhiệm vụ bảo vệ an ninh quốc gia)
 
-### Điều 1.1.NĐ.4.6. Thẩm quyền, trách nhiệm của cơ quan, tổ  chức, cá nhân trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự
+Điều 1.1.NĐ.4.6. Thẩm quyền, trách nhiệm của cơ quan, tổ chức, cá nhân trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự
+
+(Điều 6 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 1. Trong phạm vi nhiệm vụ, quyền hạn của mình tổ chức thực hiện các nội dung biện pháp pháp luật bảo vệ an ninh, trật tự quy định tại Điều 5 Nghị định này và các quy định khác của pháp luật có liên quan đến bảo vệ an ninh, trật tự.
 
-**Chỉ mục:** 6
+2. Kịp thời cung cấp cho cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự thông tin, tài liệu liên quan đến hoạt động xây dựng pháp luật, ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế, sử dụng pháp luật có nội dung ảnh hưởng xấu đến bảo vệ an ninh, trật tự; lợi ích Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân.
 
-**Mã phân cấp:** 010010000000000020000180000000000000000000402399900350000600
+3. Trong quá trình lập hồ sơ đề nghị xây dựng luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội, nghị định của Chính phủ, quyết định của Thủ tướng Chính phủ, ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế, các Bộ, cơ quan ngang Bộ có trách nhiệm gửi hồ sơ đó đến Bộ Công an để lấy ý kiến về sự phù hợp với yêu cầu bảo vệ an ninh, trật tự.
 
-**ID:** dk_00000129
+Trong quá trình soạn thảo pháp luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội, nghị định của Chính phủ, quyết định của Thủ tướng Chính phủ, ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế có liên quan đến an ninh, trật tự, các Bộ, cơ quan ngang Bộ phải gửi hồ sơ xây dựng văn bản quy phạm pháp luật, ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế đó đến Bộ Công an để lấy ý kiến về tác động của văn bản đối với yêu cầu bảo vệ an ninh, trật tự.
 
----
+4. Thực hiện các yêu cầu, quyết định của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự; cơ quan, người có thẩm quyền khác trong việc áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự theo quy định của pháp luật.
 
+(Điều này có nội dung liên quan đến Chương II KÝ KẾT ĐIỀU ƯỚC QUỐC TẾ; Chương II KÝ KẾT THỎA THUẬN QUỐC TẾ)
 
-### Điều 1.1.NĐ.5.7. Trách nhiệm của người đứng đầu cơ quan, doanh nghiệp và cán bộ, công nhân viên trong cơ quan, doanh nghiệp
+Điều 1.1.NĐ.5.7. Trách nhiệm của người đứng đầu cơ quan, doanh nghiệp và cán bộ, công nhân viên trong cơ quan, doanh nghiệp
 
-1. Trách nhiệm của người đứng đầu cơ quan, doanh nghiệp nhà nước, tổ chức chính trị:
+(Điều 7 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**Chỉ mục:** 7
+ 1. Trách nhiệm của người đứng đầu cơ quan, doanh nghiệp nhà nước, tổ chức chính trị:
 
-**Mã phân cấp:** 010010000000000020000180000000000000000000402460100060000700
+ a) Chịu trách nhiệm toàn diện về việc bảo đảm an ninh, trật tự, an toàn tài sản của cơ quan, doanh nghiệp; chỉ đạo xây dựng, tổ chức, kiểm tra thực hiện kế hoạch, nội quy bảo vệ cơ quan, doanh nghiệp; chỉ đạo lực lượng bảo vệ cơ quan, doanh nghiệp thường xuyên phối hợp với lực lượng Công an, chính quyền địa phương trong việc triển khai kế hoạch, phương án bảo vệ; xây dựng lực lượng bảo vệ cơ quan, doanh nghiệp trong sạch, vững mạnh;
 
-**ID:** dk_00000130
+ b) Căn cứ yêu cầu, tính chất, quy mô của cơ quan, doanh nghiệp để quyết định hình thức tổ chức lực lượng bảo vệ của cơ quan, doanh nghiệp mình cho phù hợp; bảo đảm điều kiện về cơ sở vật chất, nơi làm việc, trang thiết bị, phương tiện nghiệp vụ phục vụ cho hoạt động của lực lượng bảo vệ;
 
----
+ c) Chủ trì, phối hợp với cơ quan Công an có thẩm quyền tổ chức đào tạo, bồi dưỡng, huấn luyện chuyên môn nghiệp vụ cho lực lượng bảo vệ; tổ chức thực hiện các văn bản chỉ đạo, hướng dẫn nghiệp vụ của Bộ Công an về công tác bảo đảm an ninh, trật tự tại cơ quan, doanh nghiệp.
 
+ 2. Người đứng đầu các tổ chức, đơn vị sử dụng ngân sách nhà nước không được thuê dịch vụ bảo vệ thường xuyên, lâu dài (trừ một số lĩnh vực theo quy định của Bộ Công an). Trong trường hợp cần huy động lực lượng, phương tiện bảo vệ an ninh, trật tự, an toàn hội nghị, hội thảo hoặc trường hợp cần thiết khác, được thuê dịch vụ bảo vệ của các doanh nghiệp kinh doanh dịch vụ bảo vệ theo công việc hoặc thời vụ.
 
-### Điều 1.1.NĐ.6.8. Trách nhiệm của cơ quan, tổ chức trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
+ 3. Người đứng đầu cơ quan, doanh nghiệp khác thực hiện trách nhiệm quy định tại Điểm a, b, c Khoản 1 Điều này và Khoản 2 Điều 11 Nghị định này.
 
-1. Phối hợp với cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự trong thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự.
+ 4. Cán bộ, công nhân viên trong cơ quan, doanh nghiệp có trách nhiệm tham gia xây dựng, giúp đỡ và tạo điều kiện thuận lợi cho lực lượng bảo vệ thực hiện nhiệm vụ.(Điều này có nội dung liên quan đến Điều 1.1.NĐ.5.11. Quyền hạn của lực lượng bảo vệ cơ quan, doanh nghiệp)
 
-**Chỉ mục:** 8
+Điều 1.1.NĐ.6.8. Trách nhiệm của cơ quan, tổ chức trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
 
-**Mã phân cấp:** 010010000000000020000180000000000000000000402497800060000800
+(Điều 8 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
-**ID:** dk_00000131
+ 1. Phối hợp với cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự trong thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự.
 
----
+ 2. Tạo điều kiện để các cá nhân trong cơ quan, tổ chức mình tham gia bảo vệ an ninh, trật tự theo quy định của pháp luật.Điều 1.1.LQ.19. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong bảo vệ an ninh quốc gia
 
-
-### Điều 1.1.LQ.19. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong bảo vệ an ninh quốc gia
+(Điều 19 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, động viên nhân dân xây dựng khối đại đoàn kết toàn dân tộc, nghiêm chỉnh chấp hành pháp luật về bảo vệ an ninh quốc gia; giám sát việc thực hiện pháp luật về bảo vệ an ninh quốc gia của tổ chức, cá nhân.
 
-**Chỉ mục:** 19
+Điều 1.1.LQ.20. Bảo vệ an ninh quốc gia khi có tình trạng khẩn cấp, tình trạng chiến tranh
 
-**Mã phân cấp:** 0100100000000000200001900000000000000000
-
-**ID:** dk_00000132
-
----
-
-
-### Điều 1.1.LQ.20. Bảo vệ an ninh quốc gia khi có tình trạng khẩn cấp, tình trạng chiến tranh
+(Điều 20 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Khi có tình trạng khẩn cấp, tình trạng chiến tranh, việc bảo vệ an ninh quốc gia được thực hiện theo quy định của pháp luật về tình trạng khẩn cấp, tình trạng chiến tranh.
 
-**Chỉ mục:** 20
+Hội đồng quốc phòng và an ninh có trách nhiệm động viên mọi lực lượng và khả năng của đất nước để bảo vệ Tổ quốc; thực hiện những nhiệm vụ và quyền hạn đặc biệt do Quốc hội giao.
 
-**Mã phân cấp:** 0100100000000000200002000000000000000000
+Điều 1.1.LQ.21. Áp dụng một số biện pháp cần thiết khi có nguy cơ đe doạ an ninh quốc gia nhưng chưa đến mức ban bố tình trạng khẩn cấp
 
-**ID:** dk_00000133
-
----
-
-
-### Điều 1.1.LQ.21. Áp dụng một số biện pháp cần thiết khi có nguy cơ đe doạ an ninh quốc gia nhưng chưa đến mức ban bố tình trạng khẩn cấp
+(Điều 21 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Khi có nguy cơ đe doạ an ninh quốc gia nhưng chưa đến mức ban bố tình trạng khẩn cấp, Thủ tướng Chính phủ được quyết định áp dụng một số biện pháp sau đây:
 
-**Chỉ mục:** 21
+a) Tăng cường bảo vệ các mục tiêu quan trọng;
 
-**Mã phân cấp:** 0100100000000000200002100000000000000000
+b) Tổ chức các trạm canh gác để hạn chế hoặc kiểm soát người, phương tiện hoạt động vào những giờ nhất định, tại những khu vực nhất định;
 
-**ID:** dk_00000134
+c) Thực hiện kiểm soát đặc biệt tại các cửa khẩu, các chuyến vận chuyển bằng đường hàng không, đường biển, đường thuỷ nội địa, đường sắt và đường bộ;
 
----
+d) Hạn chế hoặc tạm ngừng việc vận chuyển, sử dụng chất cháy, chất nổ, chất độc, hoá chất độc hại, chất phóng xạ thuộc quyền sử dụng hợp pháp của cơ quan, tổ chức, cá nhân; kiểm soát chặt chẽ việc vận chuyển, sử dụng các loại vũ khí, công cụ hỗ trợ;
 
+đ) Cấm, giải tán hoặc hạn chế các cuộc tụ tập đông người và những hoạt động của cá nhân, tổ chức xét thấy có hại cho an ninh quốc gia;
 
-### Điều 1.1.LQ.22. Các cơ quan chuyên trách bảo vệ an ninh quốc gia
+e) Hạn chế hoặc tạm ngừng hoạt động của nhà hát, rạp chiếu phim và nơi sinh hoạt công cộng khác;
+
+g) Kiểm soát việc sử dụng các phương tiện thông tin liên lạc tại một địa phương hay khu vực nhất định;
+
+h) Buộc người có hành vi gây nguy hại cho an ninh quốc gia rời khỏi các khu vực quan trọng về chính trị, kinh tế, an ninh, quốc phòng hoặc không được rời khỏi nơi cư trú;
+
+i) Huy động nhân lực, vật lực để thực hiện nhiệm vụ bảo vệ an ninh quốc gia.
+
+2. Cơ quan, tổ chức, cá nhân phải chấp hành các mệnh lệnh, quyết định của cơ quan và người thi hành các biện pháp quy định tại khoản 1 Điều này.
+
+Chương III
+
+CƠ QUAN CHUYÊN TRÁCH BẢO VỆ AN NINH QUỐC GIA
+
+Điều 1.1.LQ.22. Các cơ quan chuyên trách bảo vệ an ninh quốc gia
+
+(Điều 22 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Các cơ quan chuyên trách bảo vệ an ninh quốc gia bao gồm:
 
-**Chỉ mục:** 22
+a) Cơ quan chỉ đạo, chỉ huy và các đơn vị an ninh, tình báo, cảnh vệ Công an nhân dân;
 
-**Mã phân cấp:** 0100100000000000300002200000000000000000
+b) Cơ quan chỉ đạo, chỉ huy và các đơn vị bảo vệ an ninh quân đội, tình báo Quân đội nhân dân;
 
-**ID:** dk_00000136
+c) Bộ đội biên phòng, cảnh sát biển là cơ quan chuyên trách bảo vệ an ninh quốc gia ở khu vực biên giới trên đất liền và khu vực biên giới trên biển.
 
----
+2. Tổ chức bộ máy, nhiệm vụ, quyền hạn cụ thể, phạm vi trách nhiệm hoạt động và quan hệ phối hợp của các cơ quan quy định tại khoản 1 Điều này do pháp luật quy định.
 
+(Điều này có nội dung liên quan đến Điều 28.6.LQ.24. Thẩm quyền quyết định trưng dụng tài sản; Điều 1.12.LQ.4. Vị trí, chức năng của lực lượng Cảnh vệ; Điều 25.2.LQ.13. Vị trí, chức năng của Bộ đội Biên phòng; Điều 25.2.LQ.14. Nhiệm vụ của Bộ đội Biên phòng)
 
-### Điều 1.1.LQ.23. Nhiệm vụ của cơ quan chuyên trách bảo vệ an ninh quốc gia
+Điều 1.1.LQ.23. Nhiệm vụ của cơ quan chuyên trách bảo vệ an ninh quốc gia
+
+(Điều 23 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia thực hiện nhiệm vụ quy định tại Điều 14 của Luật này.
 
-**Chỉ mục:** 23
+2. Các nhiệm vụ cụ thể của cơ quan chuyên trách bảo vệ an ninh quốc gia:
 
-**Mã phân cấp:** 0100100000000000300002300000000000000000
+a) Tổ chức thu thập thông tin, phân tích, đánh giá, dự báo tình hình và đề xuất các chủ trương, giải pháp, phương án bảo vệ an ninh quốc gia;
 
-**ID:** dk_00000137
+b) Hướng dẫn, kiểm tra cơ quan, tổ chức và công dân thực hiện quyền, nghĩa vụ, trách nhiệm bảo vệ an ninh quốc gia, bảo vệ bí mật nhà nước, xây dựng cơ quan, đơn vị an toàn, xây dựng phong trào bảo vệ an ninh Tổ quốc;
 
----
+c) Tổ chức, chỉ đạo công tác phòng ngừa, phát hiện, ngăn chặn, đấu tranh với các hoạt động xâm phạm an ninh quốc gia;
 
+d) Nghiên cứu, ứng dụng khoa học và công nghệ vào công tác bảo vệ an ninh quốc gia;
 
-### Điều 1.1.LQ.24. Quyền hạn, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh quốc gia
+đ) Thực hiện hợp tác với các nước, các tổ chức quốc tế theo điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập trong phòng, chống hoạt động xâm phạm an ninh quốc gia.
+
+Điều 1.1.LQ.24. Quyền hạn, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh quốc gia
+
+(Điều 24 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia được quyền:
 
-**Chỉ mục:** 24
+a) Sử dụng các biện pháp nghiệp vụ theo quy định của pháp luật;
 
-**Mã phân cấp:** 0100100000000000300002400000000000000000
+b) Yêu cầu cơ quan, tổ chức, cá nhân cung cấp thông tin, tài liệu, đồ vật khi có căn cứ xác định liên quan đến hoạt động xâm phạm an ninh quốc gia;
 
-**ID:** dk_00000138
+c) Yêu cầu cơ quan, tổ chức tài chính, kho bạc, ngân hàng kiểm tra, phong toả tài khoản, nguồn tài chính liên quan đến hoạt động xâm phạm an ninh quốc gia;
 
----
+d) Yêu cầu cơ quan, tổ chức bưu chính, viễn thông, hải quan bóc mở hoặc giao thư tín, điện tín, bưu phẩm, bưu kiện, hàng hoá để kiểm tra khi có căn cứ xác định trong đó có thông tin, tài liệu, chất nổ, vũ khí, vật phẩm khác có nguy hại cho an ninh quốc gia;
 
+đ) Kiểm tra phương tiện giao thông, phương tiện thông tin, máy tính, mạng máy tính, đồ vật, tài liệu, hàng hoá, chỗ ở, nơi làm việc hoặc các cơ sở khác của cơ quan, tổ chức, cá nhân khi có căn cứ xác định liên quan đến hoạt động xâm phạm an ninh quốc gia;
 
-### Điều 1.1.NĐ.4.7. Thẩm quyền, trách nhiệm của cơ quan  chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an  ninh, trật tự
+e) Trưng dụng theo quy định của pháp luật phương tiện thông tin, phương tiện giao thông, phương tiện khác và người đang sử dụng, điều khiển phương tiện đó trong trường hợp cấp bách để thực hiện nhiệm vụ bảo vệ an ninh quốc gia hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra;
+
+g) Tạm đình chỉ hoặc đình chỉ việc sử dụng phương tiện thông tin liên lạc hoặc các hoạt động khác trên lãnh thổ Việt Nam khi có căn cứ xác định các hoạt động này gây nguy hại cho an ninh quốc gia; yêu cầu ngừng các chuyến vận chuyển bằng các loại phương tiện giao thông của Việt Nam hoặc các phương tiện giao thông của nước ngoài trên lãnh thổ Việt Nam để bảo vệ an ninh quốc gia và bảo đảm an toàn cho các phương tiện đó;
+
+h) Áp dụng các biện pháp cần thiết để bảo vệ người cộng tác, người tố giác, người làm chứng, người bị hại trong các vụ án xâm phạm an ninh quốc gia.
+
+2. Thủ trưởng cơ quan chuyên trách bảo vệ an ninh quốc gia quyết định việc sử dụng các quyền hạn quy định tại khoản 1 Điều này theo thủ tục, thẩm quyền do Chính phủ quy định và chịu trách nhiệm trước pháp luật về các quyết định của mình.
+
+3. Cơ quan chuyên trách bảo vệ an ninh quốc gia có trách nhiệm:
+
+a) Tiến hành các hoạt động bảo vệ an ninh quốc gia trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình theo quy định của pháp luật;
+
+b) Tuân thủ các quy định của pháp luật về bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân; trong trường hợp vì yêu cầu bảo vệ an ninh quốc gia phải hạn chế các quyền và lợi ích đó thì phải được người có thẩm quyền quyết định;
+
+c) Giữ bí mật về sự giúp đỡ của cơ quan, tổ chức, cá nhân đối với công tác bảo vệ an ninh quốc gia.
+
+(Điều này có nội dung liên quan đến Điều 1.1.LQ.25. Quyền hạn, trách nhiệm của cán bộ chuyên trách bảo vệ an ninh quốc gia; Điều 28.6.LQ.24. Thẩm quyền quyết định trưng dụng tài sản)
+
+Điều 1.1.NĐ.4.7. Thẩm quyền, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự
+
+(Điều 7 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 1. Thu thập thông tin, phân tích, đánh giá tình hình, tham mưu và xây dựng chiến lược, chủ trương, chính sách, pháp luật, giải pháp, phương pháp về sử dụng biện pháp pháp luật bảo vệ an ninh, trật tự.
 
-**Chỉ mục:** 7
+2. Tổ chức, chỉ đạo công tác phòng ngừa, phát hiện, ngăn chặn, đấu tranh chống hoạt động phá hoại, xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc; thông qua pháp luật để chuyển hóa chế độ chính trị, kinh tế, văn hóa, xã hội của nước Cộng hòa xã hội chủ nghĩa Việt Nam; gây rối loạn an ninh, trật tự, xâm phạm lợi ích Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân.
 
-**Mã phân cấp:** 010010000000000030000240000000000000000000402399900350000700
+3. Yêu cầu hoặc đề nghị cơ quan có thẩm quyền quyết định chấm dứt hoặc tạm ngừng hoạt động xây dựng pháp luật, ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế, sử dụng pháp luật của cơ quan, tổ chức, cá nhân có ảnh hưởng xấu đến bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc; chế độ chính trị, kinh tế, văn hóa, xã hội của nước Cộng hòa xã hội chủ nghĩa Việt Nam; trật tự, an toàn xã hội; lợi ích Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân.
 
-**ID:** dk_00000139
+4. Sử dụng biện pháp nghiệp vụ và các biện pháp cần thiết khác để thực hiện biện pháp pháp luật bảo vệ an ninh, trật tự theo quy định của pháp luật.
 
----
+5. Hướng dẫn, kiểm tra cơ quan, tổ chức, cá nhân thực hiện biện pháp pháp luật bảo vệ an ninh, trật tự.
 
+(Điều này có nội dung liên quan đến Điều 1.1.NĐ.4.8. Thẩm quyền, trách nhiệm của thủ trưởng, cán bộ chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự)
 
-### Điều 1.1.NĐ.6.6. Thẩm quyền, trách nhiệm của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
+Điều 1.1.NĐ.6.6. Thẩm quyền, trách nhiệm của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự
 
-1. Cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự có thẩm quyền:
+(Điều 6 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
-**Chỉ mục:** 6
+ 1. Cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự có thẩm quyền:
 
-**Mã phân cấp:** 010010000000000030000240000000000000000000402497800060000600
+ a) Thực hiện các nội dung của biện pháp vận động quần chúng bảo vệ an ninh, trật tự quy định tại Điều 5 Nghị định này;
 
-**ID:** dk_00000140
+ b) Sử dụng các biện pháp công tác cần thiết theo quy định của pháp luật để thực hiện các nội dung của biện pháp vận động quần chúng bảo vệ an ninh, trật tự.
 
----
+ 2. Cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng có trách nhiệm:
 
+ a) Thực hiện các biện pháp cần thiết theo quy định của pháp luật để bảo vệ danh dự, tài sản của các cơ quan, tổ chức; tính mạng, sức khỏe, danh dự, nhân phẩm và tài sản của cá nhân trong áp dụng biện pháp vận động quần chúng;
 
-### Điều 1.1.LQ.25. Quyền hạn, trách nhiệm của cán bộ chuyên trách bảo vệ an ninh quốc gia
+ b) Thực hiện theo thẩm quyền hoặc đề xuất cấp có thẩm quyền thực hiện chế độ, chính sách đối với cơ quan, tổ chức, cá nhân có thành tích hoặc bị thiệt hại trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 1.1.LQ.25. Quyền hạn, trách nhiệm của cán bộ chuyên trách bảo vệ an ninh quốc gia; Điều 1.1.NĐ.6.5. Nội dung biện pháp vận động quần chúng bảo vệ an ninh, trật tự)
+
+Điều 1.1.LQ.25. Quyền hạn, trách nhiệm của cán bộ chuyên trách bảo vệ an ninh quốc gia
+
+(Điều 25 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Cán bộ chuyên trách bảo vệ an ninh quốc gia trong khi thực hiện nhiệm vụ được quyền:
 
-**Chỉ mục:** 25
+a) Thực hiện các quyền quy định tại khoản 1 Điều 24 của Luật này theo quyết định của người có thẩm quyền của cơ quan chuyên trách bảo vệ an ninh quốc gia;
 
-**Mã phân cấp:** 0100100000000000300002500000000000000000
+b) Giữ bí mật về nhân thân, lai lịch, nhiệm vụ và phương tiện thực hiện nhiệm vụ;
 
-**ID:** dk_00000141
+c) Miễn thủ tục hải quan đối với tài liệu, phương tiện nghiệp vụ mang theo khi nhập cảnh, xuất cảnh qua biên giới, cửa khẩu;
 
----
+d) Xuất trình giấy chứng minh an ninh trong trường hợp cần thiết để yêu cầu cơ quan, tổ chức, cá nhân giúp đỡ.
 
+2. Chính phủ quy định cụ thể trình tự, thủ tục, thẩm quyền thực hiện các quy định tại khoản 1 Điều này.
 
-### Điều 1.1.NĐ.4.8. Thẩm quyền, trách nhiệm của thủ trưởng,  cán bộ chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật  bảo vệ an ninh, trật tự
+3. Cán bộ chuyên trách bảo vệ an ninh quốc gia có trách nhiệm chấp hành nghiêm chỉnh pháp luật của Nhà nước, các quy tắc nghiệp vụ chuyên môn, kỷ luật của lực lượng vũ trang nhân dân và chịu trách nhiệm trước pháp luật về những việc làm của mình.
+
+(Điều này có nội dung liên quan đến Điều 1.1.LQ.24. Quyền hạn, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh quốc gia; Điều 1.1.NĐ.6.6. Thẩm quyền, trách nhiệm của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự)
+
+Điều 1.1.NĐ.4.8. Thẩm quyền, trách nhiệm của thủ trưởng, cán bộ chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự
+
+(Điều 8 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 1. Thủ trưởng cơ quan chuyên trách bảo vệ an ninh, trật tự trong phạm vi nhiệm vụ, quyền hạn của mình quyết định việc sử dụng thẩm quyền, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự quy định tại Điều 7 Nghị định này; phân công cán bộ thuộc quyền quản lý, chỉ huy của mình thực hiện nhiệm vụ do mình quyết định hoặc thủ trưởng đơn vị cấp trên quyết định.
 
-**Chỉ mục:** 8
+2. Cán bộ chuyên trách bảo vệ an ninh, trật tự có trách nhiệm thực hiện nhiệm vụ theo sự phân công, chỉ huy của thủ trưởng đơn vị mình.
 
-**Mã phân cấp:** 010010000000000030000250000000000000000000402399900350000800
+3. Trong khi thực hiện nhiệm vụ, thủ trưởng, cán bộ chuyên trách bảo vệ an ninh, trật tự phải nghiêm chỉnh chấp hành pháp luật, các quy tắc nghiệp vụ chuyên môn, kỷ luật của lực lượng Công an nhân dân, Quân đội nhân dân và chịu trách nhiệm trước pháp luật về hành vi, quyết định của mình.
 
-**ID:** dk_00000142
+(Điều này có nội dung liên quan đến Điều 1.1.NĐ.4.7. Thẩm quyền, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự)
 
----
+Điều 1.1.LQ.26. Trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ của cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia
 
-
-### Điều 1.1.LQ.26. Trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ của cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia
+(Điều 26 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia được trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ để thực hiện nhiệm vụ bảo vệ an ninh quốc gia theo quy định của pháp luật.
 
-**Chỉ mục:** 26
+Điều 1.1.LQ.27. Chế độ quản lý thông tin, tài liệu, đồ vật về bảo vệ an ninh quốc gia
 
-**Mã phân cấp:** 0100100000000000300002600000000000000000
-
-**ID:** dk_00000143
-
----
-
-
-### Điều 1.1.LQ.27. Chế độ quản lý thông tin, tài liệu, đồ vật về bảo vệ an ninh quốc gia
+(Điều 27 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Thông tin, tài liệu, đồ vật liên quan đến cơ quan chuyên trách bảo vệ an ninh quốc gia hoặc do cơ quan này thu thập được thuộc bí mật nhà nước và được quản lý theo quy định của pháp luật về bảo vệ bí mật nhà nước.
 
-**Chỉ mục:** 27
+2. Thông tin, tài liệu, đồ vật quy định tại khoản 1 Điều này có giá trị lịch sử, khoa học và công nghệ đã được công bố theo quy định của pháp luật thì có thể được chuyển giao cho cơ quan lưu trữ nhà nước quản lý.
 
-**Mã phân cấp:** 0100100000000000300002700000000000000000
+Điều 1.1.LQ.28. Chế độ, chính sách đối với cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia
 
-**ID:** dk_00000144
-
----
-
-
-### Điều 1.1.LQ.28. Chế độ, chính sách đối với cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia
+(Điều 28 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia được tuyển chọn, bồi dưỡng, đào tạo, được phong, thăng hàm, cấp lực lượng vũ trang nhân dân và hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.
 
-**Chỉ mục:** 28
+Chương IV
 
-**Mã phân cấp:** 0100100000000000300002800000000000000000
+QUẢN LÝ NHÀ NƯỚC VỀ AN NINH QUỐC GIA
 
-**ID:** dk_00000145
+Điều 1.1.LQ.29. Nội dung quản lý nhà nước về an ninh quốc gia
 
----
-
-
-### Điều 1.1.LQ.29. Nội dung quản lý nhà nước về an ninh quốc gia
+(Điều 29 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Xây dựng và tổ chức thực hiện chiến lược, chính sách, kế hoạch, phương án bảo vệ an ninh quốc gia và bảo đảm điều kiện cần thiết cho hoạt động bảo vệ an ninh quốc gia; ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 29
+2. Tổ chức, chỉ đạo, hướng dẫn hoạt động thu thập, phát hiện, điều tra, xử lý thông tin, tài liệu, hành vi liên quan đến hoạt động xâm phạm an ninh quốc gia.
 
-**Mã phân cấp:** 0100100000000000400002900000000000000000
+3. Chỉ đạo, hướng dẫn thực hiện các biện pháp bảo vệ an ninh quốc gia.
 
-**ID:** dk_00000147
+4. Tổ chức bộ máy, trang bị phương tiện, đào tạo cán bộ làm công tác bảo vệ an ninh quốc gia; bồi dưỡng kiến thức bảo vệ an ninh quốc gia cho cán bộ chủ chốt của các cơ quan, tổ chức; xây dựng và tổ chức thực hiện chương trình giáo dục về bảo vệ an ninh quốc gia; xây dựng và thực hiện chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia bảo vệ an ninh quốc gia.
 
----
+5. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo trong hoạt động bảo vệ an ninh quốc gia.
 
+6. Hợp tác quốc tế về bảo vệ an ninh quốc gia.
 
-### Điều 1.1.NĐ.2.14. Khen thưởng
+Điều 1.1.NĐ.2.14. Khen thưởng
+
+(Điều 14 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Tổ chức, cá nhân có thành tích trong việc xây dựng lực lượng Bảo vệ dân phố thì được khen thưởng theo quy định của Nhà nước.
 
-**Chỉ mục:** 14
+2. Bảo vệ dân phố lập thành tích xuất sắc trong công tác thì được xét khen thưởng theo quy định như đối với Công an xã.
 
-**Mã phân cấp:** 010010000000000040000290000000000000000000402214200380001400
+Điều 1.1.NĐ.2.15. Kỷ luật
 
-**ID:** dk_00000148
-
----
-
-
-### Điều 1.1.NĐ.2.15. Kỷ luật
+(Điều 15 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 Bảo vệ dân phố lợi dụng chức vụ, quyền hạn vi phạm pháp luật hoặc mưu cầu lợi ích cá nhân, ảnh hưởng xấu đến an ninh, trật tự, uy tín của tổ chức thì tuỳ theo tính chất, mức độ vi phạm sẽ bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; trường hợp gây thiệt hại thì phải bồi thường cho người bị hại theo quy định của pháp luật
 
-**Chỉ mục:** 15
+Điều 1.1.NĐ.2.16. Khiếu nại, tố cá
 
-**Mã phân cấp:** 010010000000000040000290000000000000000000402214200380001500
-
-**ID:** dk_00000149
-
----
-
-
-### Điều 1.1.NĐ.2.16. Khiếu nại, tố cá
+(Điều 16 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 1. Mọi tổ chức, cá nhân có quyền khiếu nại với cơ quan Nhà nước cấp có thẩm quyền về các hành vi của Trưởng ban, các Phó Trưởng ban, các Ủy viên và tổ viên Bảo vệ dân phố trong khi làm nhiệm vụ.
 
-**Chỉ mục:** 16
+2. Mọi tổ chức, cá nhân có quyền và nghĩa vụ tố cáo Bảo vệ dân phố có hành vi lợi dụng chức vụ quyền hạn trong khi thi hành nhiệm vụ vi phạm pháp luật hoặc mưu cầu lợi ích cá nhân gây ảnh hưởng xấu đến an ninh trật tự ở cơ sở.
 
-**Mã phân cấp:** 010010000000000040000290000000000000000000402214200380001600
+Việc khiếu nại, tố cáo của tổ chức, cá nhân đối với Bảo vệ dân phố được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.
 
-**ID:** dk_00000150
+Điều 1.1.LQ.30. Thống nhất quản lý nhà nước về an ninh quốc gia
 
----
-
-
-### Điều 1.1.LQ.30. Thống nhất quản lý nhà nước về an ninh quốc gia
+(Điều 30 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 1. Chính phủ thống nhất quản lý nhà nước về bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 30
+2. Bộ Công an chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia.
 
-**Mã phân cấp:** 0100100000000000400003000000000000000000
+Điều 1.1.TL.2.3. Nguyên tắc phối hợp
 
-**ID:** dk_00000151
+(Điều 3 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
----
+ 1. Tuân thủ quy định của pháp luật, nguyên tắc hoạt động của mỗi ngành.
 
+ 2. Bảo đảm sự chỉ đạo thống nhất từ Trung ương đến địa phương.
 
-### Điều 1.1.TL.2.3. Nguyên tắc phối hợp
+ 3. Chủ động, tích cực, chặt chẽ, thường xuyên, kịp thời và có hiệu quả.
 
-1. Tuân thủ quy định của pháp luật, nguyên tắc hoạt động của mỗi ngành.
+ 4. Phối hợp trong phạm vi, chức năng, nhiệm vụ, quyền hạn của mỗi cơ quan, trường hợp vượt quá thẩm quyền phải báo cáo cơ quan quản lý cấp trên để phối hợp giải quyết.
 
-**Chỉ mục:** 3
+ 5. Không làm cản trở đến hoạt động thường xuyên của mỗi cơ quan.(Điều này có nội dung liên quan đến Điều 1.6.LQ.12. Trách nhiệm của Chính phủ và Bộ, ngành trung ương đối với hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật và xây dựng Công an nhân dân)
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802581200020000300
+Điều 1.1.TL.2.4. Phương thức phối hợp
 
-**ID:** dk_00000152
+(Điều 4 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
----
+ 1. Trao đổi thông tin.
 
+ 2. Tổ chức các cuộc họp, hội thảo, hội nghị sơ kết, hội nghị tổng kết.
 
-### Điều 1.1.TL.2.4. Phương thức phối hợp
+ 3. Thành lập các đoàn công tác, kiểm tra liên ngành.
 
-1. Trao đổi thông tin.
+ 4. Hình thức khác theo sự thống nhất của các bên.(Điều này có nội dung liên quan đến Điều 1.6.LQ.12. Trách nhiệm của Chính phủ và Bộ, ngành trung ương đối với hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật và xây dựng Công an nhân dân)
 
-**Chỉ mục:** 4
+Điều 1.1.TL.2.5. Phối hợp trao đổi thông tin
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802581200020000400
+(Điều 5 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
-**ID:** dk_00000153
+ 1. Nguyên tắc trao đổi thông tin:
 
----
+ a) Mọi hoạt động trao đổi thông tin liên quan đến bảo đảm an ninh, trật tự trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch phải bảo đảm các yêu cầu về chính trị, pháp luật, nghiệp vụ và nguyên tắc hoạt động của mỗi ngành;
 
+ b) Việc trao đổi thông tin được các đơn vị chuyên môn của các bên trực tiếp thực hiện.
 
-### Điều 1.1.TL.2.5. Phối hợp trao đổi thông tin
+ 2. Nội dung trao đổi thông tin:
 
-1. Nguyên tắc trao đổi thông tin:
+ a) Thông tin về chương trình và nội dung xây dựng văn bàn quy phạm pháp luật liên quan đến an ninh, trật tự;
 
-**Chỉ mục:** 5
+ b) Thông tin về tình hình an ninh, trật tự, các phương thức, thủ đoạn hoạt động của các thế lực thù địch chống đối và các loại tội phạm thường lợi dụng lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch để hoạt động; thông tin về chủ trương, chính sách về bảo đảm an ninh, trật tự;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802581200020000500
+ c) Thông tin về tổ chức, cá nhân ngành Văn hóa, Thể thao và Du lịch có tham gia các hoạt động phức tạp về chính trị, an ninh, trật tự, lợi dụng dân chủ nhân quyền, tín ngưỡng, tôn giáo để tuyên truyền xuyên tạc chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước và những thông tin khác có liên quan đến công tác bảo vệ nội bộ ngành Văn hóa, Thể thao và Du lịch;
 
-**ID:** dk_00000154
+ d) Thông tin bảo vệ bí mật nhà nước bao gồm:
 
----
+ - Thông tin về cá nhân hoặc cơ quan, tổ chức cung cấp tin, nhận tin; loại tin, phạm vi, mục đích sử dụng tin trong trường hợp cung cấp tin thuộc phạm vi bí mật nhà nước độ Mật trong ngành Văn hóa, Thể thao, Du lịch cho cá nhân hoặc cơ quan, tổ chức nước ngoài;
 
+ - Thông tin về tài liệu, vật mang bí mật nhà nước bị mất, hư hỏng, đánh tráo, bị lộ, lọt hoặc xảy ra hành vi vi phạm pháp luật về bảo vệ bí mật nhà nước;
 
-### Điều 1.1.TL.2.6. Phối hợp thực hiện công tác quản lý nhà nước trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch
+ đ) Thông tin liên quan đến công tác quản lý nhà nước của ngành Văn hóa, Thể thao và Du lịch bao gồm:
 
-1. Nội dung phối hợp bao gồm:
+ - Thông tin về những đề nghị, kiến nghị, khiếu nại, tố cáo của các tổ chức, cá nhân tham gia hoạt động văn hóa, gia đình, thể dục, thể thao và du lịch;
 
-**Chỉ mục:** 6
+ - Thông tin về hoạt động đối ngoại ở quy mô quốc gia và quốc tế; đoàn Việt Nam ra nước ngoài, đoàn nước ngoài vào Việt Nam; các tổ chức, cá nhân nước ngoài vào Việt Nam, tổ chức cá nhân Việt Nam ra nước ngoài học tập, nghiên cứu, giảng dạy, huấn luyện, biểu diễn và hợp tác trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802581200020000600
+ - Thông tin về tổ chức, cá nhân đề nghị cấp phép, hồ sơ đề nghị cấp phép trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch có yếu tố nước ngoài;
 
-**ID:** dk_00000155
+ - Thông tin về cá nhân được xét phong tặng danh hiệu Nghệ sĩ nhân dân, Nghệ sĩ ưu tú, Nghệ nhân nhân dân, Nghệ nhân ưu tú, tác giả, các đồng tác giả có tác phẩm được xét tặng “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước về văn học, nghệ thuật”; người Việt Nam định cư ở nước ngoài và người nước ngoài được xét tặng Kỷ niệm chương “Vì sự nghiệp văn hóa, thể thao và du lịch” và các hình thức khen thưởng khác trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch;
 
----
+ - Danh mục phim, xuất bản phẩm, bản ghi âm, ghi hình ca múa nhạc, sân khấu bị đình chỉ phát hành, cấm phát hành;
 
+ - Thông tin về di vật, cổ vật, bảo vật quốc gia và chủ sở hữu trong trường hợp đưa ra nước ngoài hoặc đưa vào trong nước; thông tin về di vật, cổ vật nghi bị trộm cắp, mua bán trái phép từ Việt Nam ra nước ngoài và từ nước ngoài vào Việt Nam trên cơ sở hệ thống thông tin cơ sở dữ liệu cổ vật bị mất cắp của tổ chức INTERPOL; việc làm bản sao di vật, cổ vật, bảo vật quốc gia;
 
-### Điều 1.1.TL.2.7. Phối hợp trong bảo vệ bí mật nhà nước, bảo đảm an toàn thông tin mạng trong ngành Văn hóa, Thể thao và Du lịch
+ - Thông tin về công tác bảo vệ và phát huy giá trị các di tích, quần thể di tích đuợc xếp hạng; các điểm, khu vực được xác định là khu di tích đang được nghiên cứu, xem xét trình cơ quan có thẩm quyền quyết định; các hoạt động khảo cổ trong lãnh thổ đất liền và biển đảo thuộc chủ quyền Việt Nam;
 
-1. Trách nhiệm của cơ quan công an
+ - Thông tin về chương trình, nội dung, thời gian, địa điểm tổ chức lễ hội, giải thi đấu thể thao, sự kiện văn hóa, gia đình, thể dục, thể thao và du lịch;
 
-**Chỉ mục:** 7
+ - Thông tin về các hành vi vi phạm pháp luật về quảng cáo, hoạt động quảng cáo có yếu tố nước ngoài;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802581200020000700
+ - Thông tin về số vụ bạo lực gia đình; nạn nhân bạo lực gia đình được phát hiện và tư vấn, hỗ trợ; người gây bạo lực gia đình được phát hiện, được tư vấn tại cơ sở tư vấn phòng, chống bạo lực gia đình; số cơ sở tư vấn, trợ giúp nạn nhân bạo lực gia đình;
 
-**ID:** dk_00000156
+ - Thông tin về các môn thể thao, phương pháp luyện tập thể thao, hoạt động của các môn phái thể thao mới có ảnh hưởng đến tình hình an ninh, trật tự;
 
----
+ - Thông tin về những địa bàn cụ thể không được tổ chức cho khách du lịch đến; những địa bàn trọng điểm về quốc phòng và an ninh cần được tham khảo ý kiến của cơ quan công an trước khi mở tuyến, điểm du lịch mới tới những khu vực này;
 
+ - Thông tin về khách du lịch nhập cảnh, xuất cảnh;
 
-### Điều 1.1.TL.2.8. Phối hợp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc
+ - Thông tin về tình hình tội phạm liên quan đến lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch; kinh nghiệm của các nước trong việc bảo vệ an ninh, trật tự trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch;
 
-1. Trách nhiệm của cơ quan công an
+ - Thông tin về kết quả điều tra, kết luận thanh tra, kiểm tra và xử lý vi phạm pháp luật trong lĩnh vực văn hóa, thể thao, du lịch và gia đình;
 
-**Chỉ mục:** 8
+ - Thông tin về các tổ chức, cá nhân là người Việt Nam hoạt động trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch khi ra nước ngoài có những biểu hiện làm phương hại đến an ninh quốc gia hoặc ảnh hưởng đến hình ảnh của Việt Nam với bạn bè quốc tế;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802581200020000800
+ - Thông tin về các chuyên gia nước ngoài đến tư vấn, nghiên cứu khoa học...liên quan đến lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch;
 
-**ID:** dk_00000157
+ - Thông tin về dự án đầu tư xây dựng các công trình văn hóa, thể thao và du lịch liên quan đến an ninh quốc gia, trật tự an toàn xã hội; thông tin về tổ chức, cá nhân nước ngoài đang có nhu cầu, chủ trương, kế hoạch hợp tác với Việt Nam trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch;
 
----
+ - Các thông tin khác có liên quan.
 
+ 3. Trách nhiệm của các bên
 
-### Điều 1.1.TL.2.9. Phối hợp bảo đảm an ninh, trật tự trong việc tổ chức các sự kiện văn hóa, gia đình, thể dục, thể thao và du lịch
+ a) Các cơ quan chủ động hoặc theo đề nghị có trách nhiệm cung cấp thông tin quy định tại Khoản 2 Điều này; trường hợp từ chối cung cấp thông tin, cơ quan được đề nghị có trách nhiệm trả lời bằng văn bản và nêu rõ lý do từ chối;
 
-1. Cơ quan công an có trách nhiệm chủ trì thực hiện nhiệm vụ sau đây nhằm bảo đảm an ninh, trật tự tại nơi diễn ra các sự kiện:
+ b) Cơ quan tiếp nhận thông tin có trách nhiệm xem xét, xử lý thông tin và phản hồi kết quả xử lý thông tin.(Điều này có nội dung liên quan đến Điều 1.6.LQ.12. Trách nhiệm của Chính phủ và Bộ, ngành trung ương đối với hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật và xây dựng Công an nhân dân; Điều 41.5.TT.2.17. Khóa cập nhật kiến thức cho hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch quốc tế)
 
-**Chỉ mục:** 9
+Điều 1.1.TL.2.6. Phối hợp thực hiện công tác quản lý nhà nước trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802581200020000900
+(Điều 6 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
-**ID:** dk_00000158
+ 1. Nội dung phối hợp bao gồm:
 
----
+ a) Về di sản văn hóa
 
+ - Phát hiện, ngăn chặn, xử lý theo thẩm quyền hành vi chiếm đoạt, làm sai lệch di tích, hủy hoại hoặc nguy cơ hủy hoại di sản văn hóa, đào bới trái phép địa điểm khảo cổ, xây dựng trái phép, lấn chiếm đất đai thuộc di tích và các hành vi lợi dụng việc bảo vệ và phát huy giá trị di sản văn hóa để trục lợi;
 
-### Điều 1.1.TL.3.3. Nguyên tắc phối hợp
+ - Phát hiện, ngăn chặn, xử lý theo thẩm quyền hành vi trộm cắp, mua bán, trao đổi, vận chuyển, đào bới, trục vớt trái phép di vật, cổ vật, bảo vật quốc gia thuộc di tích và di vật, cổ vật có nguồn gốc bất hợp pháp; đưa trái phép di vật, cổ vật, bảo vật quốc gia ra nước ngoài;
 
-1. Tuân thủ đường lối, chủ trương của Đảng, chính sách pháp luật của nhà nước, phù hợp với phạm vi chức năng, nhiệm vụ và quyền hạn của hai bên và tạo điều kiện thuận lợi để hoàn thành tốt nhiệm vụ được giao.
+ - Xây dựng và chỉ đạo thực thi phương án bảo vệ cụ thể đối với địa điểm khảo cổ, khu vực bảo vệ di tích, di vật, cổ vật, bảo vật quốc gia được lưu giữ tại các di tích, các bảo tàng công lập hoặc được triển lãm, trưng bày, nghiên cứu hoặc bảo quản trong nước và nước ngoài; hỗ trợ bảo vệ đối với di vật, cổ vật, bảo vật quốc gia thuộc bảo tàng ngoài công lập và sở hữu tư nhân theo yêu cầu của chủ sở hữu hợp pháp.
 
-**Chỉ mục:** 3
+ b) Về nghệ thuật biểu diễn, mỹ thuật, nhiếp ảnh, triển lãm
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850000300
+ - Thẩm định các chương trình nghệ thuật phục vụ nhiệm vụ chính trị cấp quốc gia, kỷ niệm các ngày lễ lớn của đất nước cần tham khảo ý kiến của cơ quan Công an;
 
-**ID:** dk_00000159
+ - Phối hợp xử lý trong trường hợp phát sinh các hình thức nghệ thuật biểu diễn, trưng bày, triển lãm văn hóa nghệ thuật, nhiếp ảnh không phù hợp thuần phong mỹ tục, ảnh hưởng xấu đến tình hình an ninh, trật tự.
 
----
+ c) Về văn học
 
+ Phát hiện, ngăn chặn, xử lý theo thẩm quyền tổ chức, cá nhân sáng tác, lưu giữ, truyền bá tác phẩm văn học có nội dung vi phạm pháp luật. Những tác phẩm văn học có yếu tố nước ngoài cần tham khảo ý kiến của cơ quan Công an trước khi xuất bản.
 
-### Điều 1.1.TL.3.4. Phối hợp xây dựng, ban hành chính sách, văn bản quy phạm pháp luật liên quan đến bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính
+ d) Về điện ảnh
 
-1. Bộ Tài chính phối hợp với Bộ Công an xây dựng, ban hành hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật liên quan đến bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính; lấy ý kiến của Bộ Công an về sự phù hợp, về tác động của văn bản đối với yêu cầu bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội.
+ - Thẩm định phim tham dự liên hoan phim quốc tế, liên hoan phim, tuần phim nước ngoài tại Việt Nam, kịch bản phim có yếu tố nước ngoài cần tham khảo ý kiến của cơ quan công an;
 
-**Chỉ mục:** 4
+ - Xử lý theo thẩm quyền các trường hợp sản xuất, nhập khẩu, phát hành, phổ biến và lưu trữ phim vi phạm quy định của pháp luật.
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850000400
+ đ) Về quảng cáo, kinh doanh dịch vụ văn hóa công cộng
 
-**ID:** dk_00000160
+ - Phát hiện, ngăn chặn và xử lý theo thẩm quyền các vi phạm pháp luật trong lĩnh vực quảng cáo;
 
----
+ - Giám sát việc tuân thủ pháp luật về hoạt động quảng cáo có yếu tố nước ngoài tại Việt Nam.
 
+ e) Về thư viện
 
-### Điều 1.1.TL.3.5. Phối hợp trao đổi, cung cấp thông tin
+ - Phát hiện, ngăn chặn và xử lý theo thẩm quyền hành vi đánh tráo, hủy hoại tài liệu thư viện, tàng trữ trái phép hoặc lợi dụng thư viện để truyền bá tài liệu có nội dung quy định tại Khoản 1 Điều 5 Pháp lệnh thư viện.
 
-1. Nguyên tắc trao đổi, cung cấp thông tin:
+ g) Về quyền tác giả, quyền liên quan
 
-**Chỉ mục:** 5
+ - Phát hiện, ngăn chặn và xử lý theo thẩm quyền các vi phạm pháp luật trong lĩnh vực quyền tác giả, quyền liên quan;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850000500
+ - Lập cơ sở dữ liệu về các hành vi vi phạm trong lĩnh vực bảo hộ quyền tác giả, quyền liên quan và tăng cường công tác thực thi bảo hộ quyền tác giả, quyền liên quan.
 
-**ID:** dk_00000161
+ h) Về phòng, chống bạo lực gia đình
 
----
+ - Phát hiện, ngăn chặn và xử lý kịp thời các hành vi bạo lực gia đình theo quy đinh của pháp luật, bảo vệ an toàn tính mạng, sức khỏe, nhân phẩm, quyền và lợi ích hợp pháp khác khi có yêu cầu;
 
+ - Thiết lập đường dây nóng để tư vấn, bảo vệ nạn nhân bạo lực gia đình, ngăn chặn, xử lý kịp thời các hành vi bạo lực gia đình; phối hợp theo dõi thi hành pháp luật về xử lý vi phạm hành chính trong lĩnh vực phòng, chống bạo lực gia đình.
 
-### Điều 1.1.TL.3.6. Phối hợp trong công tác bảo vệ bí mật nhà nước
+ i) Về thể dục, thể thao
 
-1. Phối hợp xây dựng danh mục bí mật nhà nước:
+ - Phát hiện, ngăn chặn và xử lý theo thẩm quyền hành vi cá độ, bạo lực, gây rối trật tự công cộng, gian lận và các hành vi tiêu cực khác trong hoạt động thể dục, thể thao;
 
-**Chỉ mục:** 6
+ - Ngăn chặn và xử lý các môn phái phản động, các phương pháp bị cấm trong tập luyện và thi đấu thể thao;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850000600
+ - Quản lý các đoàn cán bộ, vận động viên thể thao Việt Nam ra nước ngoài công tác, tập huấn và thi đấu khi có yêu cầu.
 
-**ID:** dk_00000162
+ k) Về du lịch
 
----
+ - Bảo đảm an ninh, trật tự, bảo vệ môi trường du lịch, an toàn tính mạng, tài sản, quyền và lợi ích hợp pháp của khách du lịch và của các cơ quan, doanh nghiệp du lịch Việt Nam ở nước ngoài;
 
+ - Xây dựng kế hoạch, phương án và triển khai các biện pháp nghiệp vụ tại các địa bàn, tuyến, điểm du lịch để bảo đảm an ninh, trật tự cho các hoạt động kinh doanh và khách du lịch trên địa bàn;
 
-### Điều 1.1.TL.3.7. Phối hợp kiểm tra, thanh tra
+ - Hướng dẫn, tạo điều kiện cho các tổ chức, cá nhân hoạt động, kinh doanh du lịch phù hợp pháp luật; hướng dẫn khách du lịch thực hiện đúng quy định về cư trú, đi lại tại Việt Nam và các quy định khác liên quan đến an ninh, trật tự và xử lý theo thẩm quyền các hành vi vi phạm pháp luật.
 
-1. Hai bên có trách nhiệm phối hợp trong công tác kiểm tra, thanh tra nhằm phòng ngừa, phát hiện và xử lý các hành vi vi phạm pháp luật:
+ 2. Trách nhiệm của các bên
 
-**Chỉ mục:** 7
+ a) Trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, cơ quan nhà nước về văn hóa, thể thao và du lịch và cơ quan công an có trách nhiệm chủ trì hoặc phối hơp thực hiện nội dung quy định tại Khoản 1 Điều này;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850000700
+ b) Cơ quan chủ trì có trách nhiệm chủ động xây dựng phương án, kế hoạch và đề xuất các giải pháp thực hiện;
 
-**ID:** dk_00000163
+ c) Cơ quan phối hợp có trách nhiệm phối hợp chặt chẽ để thực hiện nhiệm vụ theo đề nghị của cơ quan chủ trì, trường họp cần thiết cử người tham gia thực hiện các nhiệm vụ phối hợp đã được thống nhất.(Điều này có nội dung liên quan đến Điều 1.6.LQ.12. Trách nhiệm của Chính phủ và Bộ, ngành trung ương đối với hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật và xây dựng Công an nhân dân; Điều 41.5.TT.2.17. Khóa cập nhật kiến thức cho hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch quốc tế)
 
----
+Điều 1.1.TL.2.7. Phối hợp trong bảo vệ bí mật nhà nước, bảo đảm an toàn thông tin mạng trong ngành Văn hóa, Thể thao và Du lịch
 
+(Điều 7 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
-### Điều 1.1.TL.3.8. Phối hợp giải quyết khiếu nại, tố cáo và điều tra, xử lý các vụ việc vi phạm pháp luật trong lĩnh vực tài chính
+ 1. Trách nhiệm của cơ quan công an
 
-1. Các cơ quan chức năng của hai bên phối hợp xác minh giải quyết khiếu nại, tố cáo của công dân về những vấn đề phức tạp liên quan đến lĩnh vực Tài chính và Công an. Trường hợp chuyển đơn thư khiếu nại, tố cáo để giải quyết theo thẩm quyền, các cơ quan chức năng của hai bên có trách nhiệm trao đổi những thông tin liên quan trong quá trình xác minh, giải quyết đơn thư khiếu nại, tố cáo và thông báo bằng văn bản kết quả giải quyết đơn thư cho cơ quan chuyển đơn theo quy định của pháp luật.
+ a) Phối hợp, hỗ trợ đơn vị có liên quan thuộc ngành Văn hóa, Thể thao và Du lịch trong việc triển khai thực hiện pháp luật về bảo vệ bí mật nhà nước, pháp luật về an toàn thông tin mạng;
 
-**Chỉ mục:** 8
+ b) Xây dựng và phối hợp triển khai phương án bảo vệ tài liệu, vật mang bí mật nhà nước độ Tối mật, Tuyệt mật trong việc vận chuyển, giao nhận, cất giữ theo đề nghị của cơ quan nhà nước về văn hóa, thể thao và du lịch;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850000800
+ c) Phối hợp với cơ quan quản lý nhà nước về văn hóa, thể thao và du lịch thực hiện điều tra, xác minh, xử lý các vụ lộ, lọt, mất bí mật nhà nước liên quan.
 
-**ID:** dk_00000164
+ 2. Trách nhiệm của cơ quan nhà nước về văn hóa, thể thao và du lịch
 
----
+ a) Triển khai thực hiện quy định của pháp luật về bảo vệ bí mật nhà nước, pháp luật về an toàn thông tin mạng;
 
+ b) Cung cấp thông tin, tài liệu cho các đơn vị Công an phục vụ công tác xác minh, điều tra và xử lý các vụ lộ, lọt, mất bí mật nhà nước, các vụ vi phạm pháp luật về an ninh mạng;
 
-### Điều 1.1.TL.3.9. Phối hợp trong kiểm tra, kiểm soát, phát hiện, bắt giữ, điều tra xử lý, bàn giao vụ việc vi phạm pháp luật liên quan đến lĩnh vực hải quan
+ c) Phối hợp với cơ quan Công an bổ sung, sửa đổi danh mục bảo vệ bí mật nhà nước của ngành; xây dựng và triển khai phương án bảo đảm an toàn trong vận chuyển, mang ra nước ngoài hoặc tiêu hủy tài liệu, vật có mức độ tối mật, tuyệt mật.(Điều này có nội dung liên quan đến Điều 1.6.LQ.12. Trách nhiệm của Chính phủ và Bộ, ngành trung ương đối với hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật và xây dựng Công an nhân dân)
 
-1. Về kiểm tra, kiểm soát:
+Điều 1.1.TL.2.8. Phối hợp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc
 
-**Chỉ mục:** 9
+(Điều 8 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850000900
+ 1. Trách nhiệm của cơ quan công an
 
-**ID:** dk_00000165
+ a) Hướng dẫn cơ quan, doanh nghiệp trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch về nội dung, hình thức phát động phong trào toàn dân bảo vệ an ninh Tổ quốc; xây dựng chế độ, nội quy bảo vệ cơ quan; công tác phòng ngừa, phát hiện tội phạm, bảo vệ bí mật nhà nước, an toàn thông tin mạng; củng cố, kiện toàn tổ chức, bồi dưỡng, tập huấn nghiệp vụ cho lực lượng bảo vệ cơ quan, doanh nghiệp và các quy định, hoạt động liên quan đến an ninh, trật tự;
 
----
+ b) Hướng dẫn hoạt động đấu tranh phản bác lại luận điệu sai trái của các thế lực thù địch và phần tử xấu.
 
+ 2. Trách nhiệm của cơ quan nhà nước về văn hóa, thể thao và du lịch
 
-### Điều 1.1.TL.3.10. Phối hợp trong kiểm tra, kiểm soát, phát hiện, bắt giữ, bàn giao vụ việc vi phạm pháp luật liên quan đến lĩnh vực thuế
+ a) Phối hợp với cơ quan công an cùng cấp tổ chức các buổi phát động phong trào toàn dân bảo vệ an ninh Tổ quốc trong cơ quan; lồng ghép tuyên truyền, vận động nhân dân bảo vệ an ninh Tổ quốc với các hoạt động văn hóa, gia đình, thể dục, thể thao và du lịch;
 
-1. Về kiểm tra, kiểm soát:
+ b) Phối hợp với cơ quan công an tổ chức các buổi phổ biến chuyên đề nhằm nâng cao ý thức cảnh giác của cán bộ, công chức, viên chức, người lao động về âm mưu, thủ đoạn chống phá của các thế lực thù địch và phần tử xấu.(Điều này có nội dung liên quan đến Điều 1.6.LQ.12. Trách nhiệm của Chính phủ và Bộ, ngành trung ương đối với hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật và xây dựng Công an nhân dân)
 
-**Chỉ mục:** 10
+Điều 1.1.TL.2.9. Phối hợp bảo đảm an ninh, trật tự trong việc tổ chức các sự kiện văn hóa, gia đình, thể dục, thể thao và du lịch
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850001000
+(Điều 9 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
-**ID:** dk_00000166
+ 1. Cơ quan công an có trách nhiệm chủ trì thực hiện nhiệm vụ sau đây nhằm bảo đảm an ninh, trật tự tại nơi diễn ra các sự kiện:
 
----
+ a) Xây dựng và triển khai phương án bảo đảm an ninh, trật tự tại nơi diễn ra các sự kiện; bảo vệ lãnh đạo Đảng, Nhà nước, khách mời quốc tế, quần chúng nhân dân tham dự sự kiện;
 
+ b) Xây dựng, triển khai các phương án phòng cháy, chữa cháy và cứu hộ, cứu nạn;
 
-### Điều 1.1.TL.3.11. Phối hợp bảo vệ an ninh và an toàn tài sản, hệ thống thông tin tại các cơ quan tài chính, bảo vệ hội nghị, hội thảo, sự kiện chính trị quan trọng của ngành tài chính
+ c) Quản lý, kiểm soát chặt chẽ vũ khí, vật liệu nổ, các loại pháo, công cụ hỗ trợ, vật cấm khác;
 
-1. Bộ Tài chính có trách nhiệm tổ chức công tác bảo vệ trật tự, an ninh, an toàn tài sản, hệ thống thông tin ở các cơ quan, đơn vị trong ngành tài chính; cung cấp cho Bộ Công an thông tin về các hệ thống thông tin của Bộ Tài chính, các biện pháp đảm bảo an toàn, an ninh thông tin đang áp dụng, chính sách và chiến lược của ngành Tài chính trừ các thông tin thuộc Danh mục bí mật nhà nước độ Mật, Tuyệt mật, Tối mật của ngành tài chính; xây dựng kế hoạch và triển khai các biện pháp bảo đảm an toàn, an ninh thông tin theo hướng dẫn của Bộ Công an; trao đổi việc phối hợp trong các hoạt động hợp tác quốc tế cũng như khi xuất hiện nguy cơ bị tấn công hoặc xảy ra sự cố thâm nhập đối với cơ sở hạ tầng thông tin của Bộ; phối hợp với Bộ Công an trong việc xác định khu vực cấm, địa điểm cấm đối với kho dự trữ quốc gia.
+ d) Hướng dẫn, kiểm tra điều kiện an toàn phòng cháy, chữa cháy; bố trí lực lượng Cảnh sát phòng cháy, chữa cháy thường trực bảo vệ các khu vực và tại địa điểm tổ chức sự kiện;
 
-**Chỉ mục:** 11
+ đ) Tăng cường lực lượng bảo đàm trật tự an toàn giao thông và trật tự công cộng trên các tuyến giao thông, nơi diễn ra các sự kiện;
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850001100
+ e) Giám sát, hướng dẫn cá nhân, khách mời quốc tế tham dự sự kiện tuân thủ quy định của pháp luật nhằm bảo đảm an ninh, trật tự;
 
-**ID:** dk_00000167
+ g) Kiểm tra, phát hiện, ngăn chặn, xử lý kịp thời tình trạng quá khích và các mâu thuẫn có nguy cơ dẫn đến bạo lực, gây rối trật tự công cộng, hành vi đánh bạc, mê tín dị đoan, lưu hành và phát tán văn hóa phẩm đồi trụy, tài liệu tuyên truyền chống phá Nhà nước, kinh doanh văn hóa phẩm trái pháp luật.
 
----
+ 2. Cơ quan nhà nước về văn hóa, thể thao và du lịch có trách nhiệm phối hợp với cơ quan công an xây dựng và triển khai phương án bảo đảm an ninh, an toàn cho các sự kiện.(Điều này có nội dung liên quan đến Điều 1.6.LQ.12. Trách nhiệm của Chính phủ và Bộ, ngành trung ương đối với hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật và xây dựng Công an nhân dân; Điều 39.5.NĐ.9. Các biện pháp bảo đảm trật tự công cộng; Điều 41.5.TT.2.17. Khóa cập nhật kiến thức cho hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch quốc tế)
 
+Điều 1.1.TL.3.3. Nguyên tắc phối hợp
 
-### Điều 1.1.TL.3.12. Phối hợp trong công tác phòng, chống rửa tiền, phòng, chống khủng bố và tài trợ khủng bố
+(Điều 3 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-1. Về công tác phòng, chống rửa tiền
+ 1. Tuân thủ đường lối, chủ trương của Đảng, chính sách pháp luật của nhà nước, phù hợp với phạm vi chức năng, nhiệm vụ và quyền hạn của hai bên và tạo điều kiện thuận lợi để hoàn thành tốt nhiệm vụ được giao.
 
-**Chỉ mục:** 12
+ 2. Bảo đảm sự chỉ đạo, điều hành tập trung, thống nhất của lãnh đạo Bộ Tài chính và lãnh đạo Bộ Công an về công tác bảo đảm an ninh, trật tự, phòng, chống tội phạm trong lĩnh vực tài chính theo chức năng, nhiệm vụ được pháp luật quy định.
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850001200
+ 3. Bảo đảm nhanh chóng, chính xác, khách quan, đầy đủ, hiệu quả, đáp ứng yêu cầu nghiệp vụ, mọi vướng mắc phát sinh trong quá trình phối hợp phải được giải quyết kịp thời.
 
-**ID:** dk_00000168
+ 4. Đảm bảo nguyên tắc ngang cấp, quan hệ phối hợp cấp nào trước hết do cấp đó phối hợp thực hiện. Các cơ quan, đơn vị thuộc hai bên có thể ký Quy chế phối hợp ngang cấp trong từng lĩnh vực cụ thể theo nguyên tắc phối hợp chung quy định tại Thông tư này.
 
----
+ 5. Trong quá trình phối hợp, việc sử dụng trang thiết bị, phương tiện kỹ thuật hoặc áp dụng biện pháp nghiệp vụ trong phát hiện hành vi vi phạm phải đảm bảo an toàn về người, tài sản, bảo đảm bí mật theo quy định.Điều 1.1.TL.3.4. Phối hợp xây dựng, ban hành chính sách, văn bản quy phạm pháp luật liên quan đến bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính
 
+(Điều 4 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-### Điều 1.1.TL.3.13. Phối hợp trong công tác phòng, chống lợi dụng hoạt động tài trợ của nước ngoài để xâm phạm an ninh quốc gia
+ 1. Bộ Tài chính phối hợp với Bộ Công an xây dựng, ban hành hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật liên quan đến bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính; lấy ý kiến của Bộ Công an về sự phù hợp, về tác động của văn bản đối với yêu cầu bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội.
 
-1. Bộ Tài chính phối hợp Bộ Công an nghiên cứu, ban hành các quy định nhằm kiểm soát chặt chẽ hoạt động tài chính của các tổ chức phi Chính phủ nước ngoài, tổ chức quốc tế, tổ chức tài chính quốc tế tại Việt Nam.
+ 2. Bộ Công an chủ động đề nghị Bộ Tài chính sửa đổi, ban hành mới hoặc trình cấp có thẩm quyền sửa đổi, ban hành mới chính sách, pháp luật liên quan đến an ninh quốc gia, trật tự an toàn xã hội trong lĩnh vực tài chính. Đối với các văn bản liên quan đến an ninh, trật tự do Bộ Tài chính gửi lấy ý kiến, Bộ Công an chỉ đạo các đơn vị chức năng thực hiện theo đúng quy định tại Nghị định số 35/2011/NĐ-CP ngày 18/5/2011 về biện pháp pháp luật bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội và văn bản sửa đổi, bổ sung, thay thế (nếu có).Điều 1.1.TL.3.5. Phối hợp trao đổi, cung cấp thông tin
 
-**Chỉ mục:** 13
+(Điều 5 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850001300
+ 1. Nguyên tắc trao đổi, cung cấp thông tin:
 
-**ID:** dk_00000169
+ a) Thông tin yêu cầu trao đổi, cung cấp phải xuất phát từ nhu cầu công tác quản lý, nghiệp vụ, phù hợp với chức năng, nhiệm vụ, quyền hạn của mỗi bên. Việc trao đổi, cung cấp thông tin phải được cấp có thẩm quyền cho phép.
 
----
+ b) Đối với các thông tin liên quan đến an ninh, bí mật nhà nước trong lĩnh vực tài chính, hai bên thống nhất chỉ cung cấp các thông tin đó nếu bảo đảm yêu cầu về chính trị, pháp luật, nghiệp vụ, bí mật nhà nước. Thông tin cung cấp, trao đổi phải được sử dụng đúng mục đích, tuân thủ các nguyên tắc an ninh và quy định của pháp luật.
 
+ c) Thông tin được trao đổi, cung cấp phải bảo đảm kịp thời, chính xác và đầy đủ.
 
-### Điều 1.1.TL.3.14. Phát động phong trào toàn dân bảo vệ an ninh Tổ quốc, đảm bảo an ninh trật tự, phòng chống cháy nổ tại trụ sở các cơ quan tài chính
+ d) Thông tin được trao đổi, cung cấp giữa các bên ngang cấp, được thực hiện trực tiếp qua các đơn vị chuyên môn đầu mối được hai bên chỉ định hoặc trực tiếp giữa các bộ phận đơn vị chức năng; đối với các vụ việc có tính chất nghiêm trọng, phức tạp, vượt quá thẩm quyền, báo cáo cơ quan cấp trên quản lý trực tiếp để phối hợp giải quyết.
 
-1. Đối với ngành công an
+ 2. Nội dung trao đổi, cung cấp thông tin:
 
-**Chỉ mục:** 14
+ a) Thông tin về tình hình chính trị, thời sự, âm mưu của các thế lực thù địch và các đối tượng khác có liên quan đến công tác bảo vệ an ninh, trật tự an toàn xã hội trong lĩnh vực tài chính:
 
-**Mã phân cấp:** 010010000000000040000300000000000000000000802585900850001400
+ Hai bên cung cấp, trao đổi thông tin liên quan đến diễn biến thời sự trong nước và quốc tế có tác động đến an ninh chính trị nội bộ, an ninh kinh tế; âm mưu, phương thức, thủ đoạn hoạt động của các thế lực thù địch, các loại tội phạm; âm mưu, phương thức, thủ đoạn của các đối tượng khủng bố, rửa tiền; thông tin, tài liệu liên quan đến hoạt động xây dựng pháp luật ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế, sử dụng pháp luật có nội dung ảnh hưởng xấu đến bảo vệ an ninh, trật tự, lợi ích Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân; thông tin về tình hình hoạt động, tư cách pháp nhân của các tổ chức, cá nhân trong và ngoài nước hoạt động trong lĩnh vực tài chính; các thông tin khác có liên quan.
 
-**ID:** dk_00000170
+ b) Thông tin phục vụ nhiệm vụ bảo vệ chính trị nội bộ:
 
----
+ - Thông tin về cán bộ, công chức, viên chức hai bên có biểu hiện, hành vi vi phạm quy định của pháp luật về phòng, chống tham nhũng, có dấu hiệu tiêu cực hoặc có hành vi vi phạm pháp luật khác để có biện pháp giáo dục, phòng ngừa, ngăn chặn và xử lý kịp thời.
 
+ - Thông tin phục vụ công tác xác minh, điều tra và xử lý các vụ lộ, lọt tài liệu bí mật nhà nước.
 
-### Điều 1.1.LQ.31. Trách nhiệm của Bộ Quốc phòng trong quản lý nhà nước về an ninh quốc gia
+ - Thông tin về cán bộ, công chức, viên chức trong ngành tài chính có liên quan đến các hành vi vi phạm pháp luật bị xử lý, khởi tố hình sự.
+
+ - Thông tin về cán bộ, công chức, viên chức trong ngành tài chính bị cấm xuất cảnh, tạm thời chưa được xuất cảnh.
+
+ c) Thông tin liên quan đến công tác quản lý nhà nước của hai ngành:
+
+ - Các chủ trương, chính sách mới các văn bản quy phạm pháp luật liên quan đến hoạt động của hai bên.
+
+ - Tình hình hoạt động, kết quả xử lý các vấn đề trọng điểm, phức tạp có liên quan đến an ninh, trật tự trong lĩnh vực tài chính.
+
+ - Thông tin phục vụ công tác phòng ngừa, đấu tranh chống các hành vi vi phạm pháp luật trong lĩnh vực tài chính và các thông tin khác có liên quan.
+
+ d) Thông tin liên quan đến các hành vi vi phạm pháp luật về quản lý tài chính:
+
+ - Các cá nhân, tổ chức có hành vi hoặc có dấu hiệu vi phạm chính sách, chế độ tài chính đặc biệt là hành vi vi phạm pháp luật về tài chính trong lập, chấp hành, quyết toán ngân sách, hành vi làm thất thoát vốn và tài sản nhà nước; hành vi trốn tránh trách nhiệm thanh toán nợ, chiếm đoạt tài sản công; hành vi trốn thuế, chiếm đoạt tiền thuế, tiền hoàn thuế, buôn lậu, trục lợi bảo hiểm, thao túng thị trường chứng khoán, khám phá các vụ án số đề, làm giả vé số và những vi phạm pháp luật khác trong lĩnh vực tài chính.
+
+ - Các hành vi vi phạm pháp luật về tài chính có dấu hiệu phạm tội được phát hiện qua công tác quản lý tài chính và điều tra của cơ quan công an; kết quả điều tra và xử lý các vụ án kinh tế, có liên quan đến cán bộ, công chức ngành Tài chính.
+
+ - Tình hình, phương thức, thủ đoạn hoạt động mới của tội phạm kinh tế, tội phạm sử dụng công nghệ cao; các sơ hở, thiếu sót trong quản lý kinh tế, tài chính; dự báo tội phạm trong lĩnh vực tài chính.
+
+ - Thông tin dữ liệu về đối tượng bị truy tố, khởi tố trong lĩnh vực tài chính, đối tượng buôn lậu, trốn thuế, gian lận thuế, buôn bán, vận chuyển trái phép ma tuý, hàng giả, vi phạm sở hữu trí tuệ, khủng bố, rửa tiền; hoạt động chuyển tiền ra nước ngoài có dấu hiệu vi phạm pháp luật.
+
+ - Thông tin về đối tượng nghi vấn vi phạm pháp luật, thông tin liên quan đến các đối tác nước ngoài đang và sẽ hoạt động tại Việt Nam có dấu hiệu tiêu cực ảnh hưởng đến an ninh trong nước và an ninh quốc tế trong lĩnh vực tài chính; tư cách pháp nhân và năng lực tài chính của các đối tác nước ngoài theo yêu cầu của Bộ Tài chính.
+
+ - Thông tin kết quả điều tra và xử lý các vụ việc vi phạm pháp luật trong lĩnh vực tài chính.
+
+ đ) Hai bên trao đổi, cung cấp cho nhau thông tin về hành khách, thuyền viên bị truy tố, xét xử hoặc bị xử lý hành chính, thông tin liên quan đến hàng hóa, phương tiện vận tải trọng điểm, danh sách đen, kinh nghiệm tổ chức đấu tranh, phát hiện, ngăn chặn, xử lý vi phạm, tội phạm, thông tin về các tiến bộ và ứng dụng công nghệ thông tin, khoa học kỹ thuật được sử dụng trong công tác phòng chống vi phạm, tội phạm thuộc thẩm quyền xử lý của hai bên và các thông tin khác có liên quan đến công tác bảo vệ an ninh, trật tự, phòng, chống tội phạm trong lĩnh vực tài chính. Các thông tin nghiệp vụ phục vụ quá trình xác minh, điều tra, xử lý vi phạm, thanh tra, kiểm tra trong lĩnh vực tài chính.
+
+ e) Hai bên trao đổi thông tin về hoạt động tài chính của tổ chức, cá nhân người nước ngoài có dấu hiệu hoạt động ảnh hưởng đến an ninh chính trị tại Việt Nam; thông tin về hoạt động tài trợ, hỗ trợ tài chính của các tổ chức, cá nhân nước ngoài cho các tổ chức, cá nhân hoạt động của Việt Nam.
+
+ 3. Hình thức trao đổi, cung cấp thông tin:
+
+ a) Thông tin được trao đổi bằng văn bản hoặc qua phương tiện thông tin, liên lạc (fax, tài liệu giấy, thư điện tử hoặc chuyển giao dữ liệu được lưu trữ bằng các phương tiện khác) tùy theo tính chất từng vụ việc cụ thể.
+
+ b) Trường hợp đột xuất, hai bên liên hệ gặp trực tiếp, trao đổi và có thông báo trước về nội dung và thành viên tham gia.
+
+ 4. Thời hạn trao đổi, cung cấp thông tin:
+
+ Thông tin được trao đổi, cung cấp trong thời hạn tối đa bảy (07) ngày làm việc kể từ ngày nhận được đề nghị cung cấp thông tin. Trường hợp cần thiết, đặc biệt hai bên thống nhất với nhau cụ thể về thời hạn trao đổi thông tin.Điều 1.1.TL.3.6. Phối hợp trong công tác bảo vệ bí mật nhà nước
+
+(Điều 6 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Phối hợp xây dựng danh mục bí mật nhà nước:
+
+ a) Bộ Tài chính đề xuất danh mục bí mật nhà nước độ Tối mật, Tuyệt mật của ngành tài chính, gửi Bộ Công an để thẩm định trước khi trình Thủ tướng Chính phủ xem xét, quyết định.
+
+ b) Bộ Công an chủ trì, phối hợp với Bộ Tài chính ban hành danh mục bí mật nhà nước độ Mật của ngành tài chính.
+
+ 2. Phối hợp trong công tác bảo vệ bí mật nhà nước:
+
+ a) Bộ Tài chính có trách nhiệm ban hành, tổ chức triển khai quy chế bảo vệ bí mật nhà nước của ngành tài chính; phổ biến, tuyên truyền, bồi dưỡng kiến thức pháp luật về công tác bảo vệ bí mật nhà nước, tổ chức kiểm tra về công tác bảo vệ bí mật nhà nước trong ngành tài chính.
+
+ b) Bộ Công an phối hợp với Bộ Tài chính soạn thảo, ban hành các quy định về công tác bảo vệ bí mật nhà nước trong lĩnh vực tài chính; phối hợp bảo vệ bí mật nhà nước trong việc vận chuyển, giao nhận, cất trữ tài liệu mật ngành tài chính; phối hợp kiểm tra công tác bảo vệ bí mật nhà nước theo quy định của pháp luật; kiến nghị khắc phục sơ hở, thiếu sót trong công tác bảo vệ bí mật nhà nước của ngành tài chính; phối hợp thực hiện giải mật các tài liệu, văn bản có nội dung bí mật nhà nước trong lĩnh vực tài chính.
+
+ c) Bộ Tài chính có trách nhiệm cung cấp thông tin, tài liệu cho Bộ Công an phục vụ công tác xác minh, điều tra và xử lý các vụ lộ, lọt tin, tài liệu, số liệu trong danh mục bí mật nhà nước của ngành tài chính.
+
+ d) Bộ Công an phối hợp với Bộ Tài chính tổ chức bồi dưỡng cho các cán bộ, công chức ngành tài chính kiến thức, nghiệp vụ chuyên môn phục vụ công tác bảo vệ bí mật nhà nước hàng năm và yêu cầu trong tình hình mới.Điều 1.1.TL.3.7. Phối hợp kiểm tra, thanh tra
+
+(Điều 7 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Hai bên có trách nhiệm phối hợp trong công tác kiểm tra, thanh tra nhằm phòng ngừa, phát hiện và xử lý các hành vi vi phạm pháp luật:
+
+ a) Bộ Công an phối hợp với Bộ Tài chính trong công tác kiểm tra việc chấp hành các quy định về quản lý tài chính, ngân sách đối với các cơ quan công an. Bộ Tài chính phối hợp với Bộ Công an trong công tác kiểm tra, thanh tra các quy định về bảo đảm an ninh, bảo vệ bí mật nhà nước đối với cơ quan tài chính.
+
+ b) Thủ trưởng các cơ quan tài chính, công an kịp thời xem xét, chỉ đạo thực hiện các kiến nghị qua công tác thanh tra, kiểm tra và trả lời bằng văn bản về việc thực hiện các yêu cầu, kiến nghị.
+
+ 2. Bộ Tài chính có trách nhiệm chỉ đạo tổ chức kiểm tra hoặc thanh tra khi nhận được thông tin do Bộ Công an gửi đến về các dấu hiệu vi phạm của cơ quan, đơn vị hoặc cán bộ, công chức ngành tài chính; cung cấp thông tin và thông báo kết quả xử lý bằng văn bản cho cơ quan công an về vụ việc vi phạm; phối hợp với cơ quan công an làm rõ mức độ vi phạm khi có yêu cầu.
+
+ 3. Khi phát hiện các hành vi vi phạm có dấu hiệu phạm tội qua công tác thanh tra, kiểm tra tài chính, cơ quan tài chính kịp thời chuyển hồ sơ đến cơ quan công an để tiến hành điều tra làm rõ vụ việc. Cơ quan công an có trách nhiệm xem xét kiến nghị do cơ quan tài chính chuyển đến và thông báo bằng văn bản cho cơ quan tài chính về kết quả xử lý kiến nghị theo thời hạn quy định.Điều 1.1.TL.3.8. Phối hợp giải quyết khiếu nại, tố cáo và điều tra, xử lý các vụ việc vi phạm pháp luật trong lĩnh vực tài chính
+
+(Điều 8 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Các cơ quan chức năng của hai bên phối hợp xác minh giải quyết khiếu nại, tố cáo của công dân về những vấn đề phức tạp liên quan đến lĩnh vực Tài chính và Công an. Trường hợp chuyển đơn thư khiếu nại, tố cáo để giải quyết theo thẩm quyền, các cơ quan chức năng của hai bên có trách nhiệm trao đổi những thông tin liên quan trong quá trình xác minh, giải quyết đơn thư khiếu nại, tố cáo và thông báo bằng văn bản kết quả giải quyết đơn thư cho cơ quan chuyển đơn theo quy định của pháp luật.
+
+ 2. Cơ quan tài chính cử giám định viên tư pháp trong lĩnh vực tài chính có trình độ, năng lực chuyên môn cần thiết, phẩm chất chính trị theo đề nghị của cơ quan công an để tiến hành giám định tư pháp trong lĩnh vực tài chính; kịp thời chuyển kết quả cho cơ quan công an theo đúng quy định của pháp luật.
+
+ 3. Cơ quan công an có trách nhiệm trao đổi những thông tin phù hợp quy định của pháp luật, không ảnh hưởng đến quá trình điều tra, cung cấp thông tin, tài liệu có liên quan đến đối tượng giám định cho giám định viên tư pháp trong lĩnh vực tài chính theo quy định của pháp luật; thực hiện giám định theo đề nghị của cơ quan tài chính (giám định liên quan đến việc thực hiện giám định, định giá của cơ quan tài chính, giám định về con dấu, chữ ký, chữ viết) theo quy định của pháp luật; hỗ trợ đào tạo kỹ năng, nghiệp vụ giám định viên, phối hợp đánh giá chất lượng giám định viên bảo đảm hoạt động điều tra các vụ việc phức tạp trong lĩnh vực tài chính tạo điều kiện cho cơ quan tài chính thực hiện tốt chức năng theo luật định; kiểm tra, ngăn chặn các hành vi vi phạm pháp luật về tài chính; điều tra làm rõ những nội dung có liên quan đến tình hình quản lý tài chính của các đối tác nước ngoài khi có dấu hiệu vi phạm pháp luật theo đề nghị của cơ quan tài chính.
+
+ 4. Cơ quan tài chính khi xem xét hành vi vi phạm để quyết định xử phạt vi phạm hành chính, nếu xét thấy hành vi vi phạm có dấu hiệu tội phạm, trong thời hạn theo quy định của pháp luật, cơ quan tài chính phải chuyển ngay hồ sơ vụ vi phạm cho cơ quan công an xử lý theo thẩm quyền.
+
+ Trong quá trình thi hành quyết định xử phạt vi phạm hành chính, nếu hành vi vi phạm được phát hiện có dấu hiệu phạm tội mà chưa hết thời hiệu truy cứu trách nhiệm hình sự, cơ quan tài chính phải ra quyết định tạm đình chỉ thi hành quyết định đó và trong thời hạn 03 ngày, kể từ ngày tạm đình chỉ phải chuyển hồ sơ vụ vi phạm cho cơ quan tiến hành tố tụng hình sự; trường hợp đã thi hành xong quyết định xử phạt thì người đã ra quyết định xử phạt vi phạm hành chính phải chuyển hồ sơ vụ vi phạm cho cơ quan tiến hành tố tụng hình sự.
+
+ Cơ quan tiến hành tố tụng hình sự có trách nhiệm xem xét, kết luận vụ việc và trả lời kết quả giải quyết bằng văn bản cho cơ quan tài chính đã chuyển hồ sơ trong thời hạn theo quy định của pháp luật tố tụng hình sự; trường hợp không khởi tố vụ án hình sự thì trong thời hạn 03 ngày, kể từ ngày có quyết định không khởi tố vụ án hình sự, cơ quan tiến hành tố tụng phải trả hồ sơ vụ việc cho người có thẩm quyền xử phạt đã chuyển hồ sơ đến.
+
+ 5. Đối với vụ việc do cơ quan tiến hành tố tụng hình sự thụ lý, giải quyết, nhưng sau đó lại có quyết định không khởi tố vụ án hình sự, quyết định hủy bỏ quyết định khởi tố vụ án hình sự, quyết định đình chỉ điều tra hoặc quyết định đình chỉ vụ án, nếu hành vi có dấu hiệu vi phạm hành chính, thì trong thời hạn 03 ngày, kể từ ngày ra quyết định, cơ quan tiến hành tố tụng hình sự phải chuyển các quyết định nêu trên kèm theo hồ sơ, tang vật, phương tiện của vụ vi phạm và đề nghị xử phạt vi phạm hành chính đến cho cơ quan tài chính để xử lý theo thẩm quyền theo Luật Xử lý vi phạm hành chính.
+
+ 6. Cơ quan công an cùng cấp có trách nhiệm bảo đảm trật tự an toàn trong quá trình thi hành quyết định cưỡng chế xử phạt vi phạm hành chính trong lĩnh vực tài chính khi nhận được đề nghị của cơ quan tài chính.Điều 1.1.TL.3.9. Phối hợp trong kiểm tra, kiểm soát, phát hiện, bắt giữ, điều tra xử lý, bàn giao vụ việc vi phạm pháp luật liên quan đến lĩnh vực hải quan
+
+(Điều 9 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Về kiểm tra, kiểm soát:
+
+ a) Cơ quan hải quan, cơ quan công an quản lý trên cùng địa bàn căn cứ tình hình thực tế, yêu cầu nhiệm vụ để xây dựng kế hoạch và tổ chức phối hợp kiểm tra, kiểm soát ở trên địa bàn nhằm phát hiện, đấu tranh, ngăn chặn và điều tra, xử lý đối với các hành vi buôn lậu, vận chuyển trái phép hàng hóa, tiền tệ qua biên giới; gian lận thương mại, trốn thuế; buôn bán, vận chuyển trái phép vũ khí, chất nổ, chất cháy, chất độc; nhập khẩu công nghệ, máy móc, thiết bị phế thải hoặc không đảm bảo tiêu chuẩn bảo vệ môi trường, hàng giả và các hành vi vi phạm khác có liên quan đến công tác hải quan.
+
+ b) Quá trình kiểm tra, kiểm soát phát hiện hành vi vi phạm pháp luật về Hải quan thuộc thẩm quyền của bên nào thì bên đó chủ trì xử lý. Trong phạm vi địa bàn hoạt động hải quan, cơ quan hải quan chịu trách nhiệm kiểm tra, giám sát, kiểm soát hải quan đối với hàng hóa, phương tiện vận tải để chủ động phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới và xử lý các vi phạm pháp luật về hải quan. Nếu vụ việc, hành vi vi phạm mà hai bên cùng có thẩm quyền xử lý thì bên nào phát hiện hành vi vi phạm trước, bên đó chủ trì xử lý, giải quyết.
+
+ Trong trường hợp cần sự hỗ trợ, tăng cường về lực lượng, phương tiện và các biện pháp chuyên môn, nghiệp vụ của một bên thì bên kia có trách nhiệm phối hợp thực hiện nhằm đảm bảo việc xử lý các vi phạm được nhanh chóng, đúng pháp luật. Kết quả kiểm tra, kiểm soát phải được thống nhất xử lý, đồng thời báo cáo lãnh đạo cấp trên của hai bên.
+
+ c) Thời gian, tổ chức lực lượng, trang thiết bị phương tiện kiểm tra, kiểm soát do hai bên cùng cấp thống nhất, quyết định.
+
+ 2. Về phát hiện, ngăn chặn, điều tra xử lý, bàn giao vụ việc vi phạm
+
+ a) Cơ quan hải quan, cơ quan công an có trách nhiệm phối hợp trong việc phát hiện, ngăn chặn, điều tra, xử lý vụ việc, hành vi vi phạm liên quan đến lĩnh vực Hải quan, nhất là những vụ việc phức tạp, liên tỉnh, liên vùng, có yếu tố nước ngoài và các chuyên án, chuyên đề lớn. Khi yêu cầu phối hợp, bên chủ trì vụ việc có trách nhiệm cung cấp thông tin, hồ sơ, tài liệu, thu thập mẫu vật cho bên được yêu cầu phối hợp. Bên tiếp nhận thông tin, hồ sơ, tài liệu, vật chứng có trách nhiệm giữ bí mật, quản lý, sử dụng đúng mục đích, theo đúng quy định của pháp luật.
+
+ Hình thức yêu cầu phối hợp, thời gian, phương thức cung cấp thông tin, hồ sơ, tài liệu, thu thập mẫu vật và cách thức phối hợp do hai bên thống nhất.
+
+ b) Trong trường hợp một bên phát hiện vi phạm nhưng không thuộc thẩm quyền xử lý của mình thì thực hiện các biện pháp ngăn chặn hành vi vi phạm theo quy định của pháp luật và bàn giao cho bên có thẩm quyền để điều tra, xử lý. Việc bàn giao phải thực hiện đúng trình tự, thủ tục pháp luật quy định.
+
+ Đối với các vụ việc đã được bàn giao, bên tiếp nhận vụ việc phải thông báo bằng văn bản cho bên bàn giao biết kết quả điều tra, xử lý trong thời hạn theo quy định pháp luật.
+
+ c) Trong quá trình phát hiện, ngăn chặn, điều tra, xử lý vi phạm, nếu có nghi vấn móc nối nội bộ, hay gây cản trở thì lãnh đạo đơn vị hai bên trao đổi trực tiếp hoặc báo cáo lãnh đạo cấp trên của mỗi bên để chỉ đạo.
+
+ d) Khi tiếp nhận hồ sơ, vụ án hình sự do cơ quan hải quan bàn giao hoặc thông tin, vụ việc do cơ quan hải quan chuyển giao để khởi tố vụ án, cơ quan công an có trách nhiệm tiếp nhận, điều tra, xử lý theo thẩm quyền và theo quy định của pháp luật đồng thời có trách nhiệm thông báo kết quả xử lý kịp thời cho cơ quan hải quan.
+
+ 3. Cơ quan hải quan, cơ quan công an có trách nhiệm phối hợp trong công tác đào tạo, huấn luyện, bồi dưỡng nâng cao năng lực nghiệp vụ, chuyên môn cho cán bộ, công chức mỗi bên thông qua việc cử cán bộ tham gia các lớp tập huấn, bồi dưỡng nghiệp vụ; hỗ trợ đào tạo nghiệp vụ điều tra tội phạm, phòng chống ma tuý, khủng bố, huấn luyện, sử dụng chó nghiệp vụ tại các Trường, Học viện của Bộ Công an; cung cấp tài liệu, giáo trình giảng dạy, hỗ trợ trang thiết bị, phương tiện, địa điểm giảng dạy, đào tạo, nghiên cứu.Điều 1.1.TL.3.10. Phối hợp trong kiểm tra, kiểm soát, phát hiện, bắt giữ, bàn giao vụ việc vi phạm pháp luật liên quan đến lĩnh vực thuế
+
+(Điều 10 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Về kiểm tra, kiểm soát:
+
+ a) Cơ quan thuế, cơ quan công an trên cùng địa bàn căn cứ tình hình thực tế và nhiệm vụ được giao để xây dựng kế hoạch và tổ chức phối hợp kiểm tra, kiểm soát ở trên địa bàn nhằm phát hiện, đấu tranh, ngăn chặn các hành vi vi phạm, tội phạm trong lĩnh vực thuế.
+
+ b) Quá trình kiểm tra phát hiện hành vi vi phạm pháp luật về thuế thuộc thẩm quyền của bên nào thì bên đó chủ trì xử lý. Nếu vụ việc vi phạm mà hai bên cùng có thẩm quyền xử lý thì bên nào phát hiện hành vi vi phạm pháp luật trước, bên đó chủ trì xử lý, giải quyết.
+
+ Trong trường hợp cần sự hỗ trợ, tăng cường về lực lượng, phương tiện và các biện pháp chuyên môn, nghiệp vụ của một bên thì bên kia có trách nhiệm phối hợp thực hiện nhằm đảm bảo việc xử lý các vi phạm được nhanh chóng, đúng pháp luật. Kết quả kiểm tra, kiểm soát phải được thống nhất xử lý, đồng thời báo cáo lãnh đạo cấp trên của hai bên.
+
+ c) Thời gian, tổ chức lực lượng, trang thiết bị phương tiện kiểm tra, xác minh do hai bên cùng cấp thống nhất, quyết định.
+
+ 2. Về phát hiện, ngăn chặn, điều tra, xử lý, bàn giao vụ việc vi phạm:
+
+ a) Cơ quan thuế, cơ quan công an có trách nhiệm phối hợp trong việc phòng ngừa, phát hiện, ngăn chặn, điều tra, xử lý vụ việc, hành vi vi phạm pháp luật liên quan đến lĩnh vực thuế, nhất là những vụ việc phức tạp, liên tỉnh, liên vùng, có yếu tố nước ngoài và các chuyên án, chuyên đề lớn. Khi yêu cầu phối hợp, bên chủ trì vụ việc có trách nhiệm cung cấp thông tin, hồ sơ, tài liệu cho bên được yêu cầu phối hợp. Bên tiếp nhận thông tin, hồ sơ, tài liệu có trách nhiệm giữ bí mật, quản lý, sử dụng đúng mục đích, theo đúng quy định của pháp luật.
+
+ Hình thức yêu cầu phối hợp, thời gian, phương thức cung cấp tin, hồ sơ, tài liệu và cách thức phối hợp do hai bên thống nhất.
+
+ b) Trong trường hợp một bên phát hiện vi phạm nhưng không thuộc thẩm quyền xử lý của mình thì thực hiện các biện pháp ngăn chặn hành vi vi phạm theo quy định của pháp luật và trao đổi cho bên có thẩm quyền để điều tra, xử lý. Việc bàn giao phải thực hiện đúng trình tự, thủ tục pháp luật quy định.
+
+ c) Trong quá trình phát hiện, ngăn chặn, điều tra, xử lý vi phạm, nếu có nghi vấn móc nối nội bộ, hay gây cản trở trong công tác xử lý thì lãnh đạo đơn vị báo cáo lãnh đạo cấp trên của mình chỉ đạo và trao đổi thông tin để kịp thời chấn chỉnh, ngăn chặn sai phạm.
+
+ 3. Cơ quan thuế, cơ quan hải quan và cơ quan quản lý xuất nhập cảnh phối hợp quản lý việc tạm hoãn xuất nhập cảnh đối với các cá nhân, người nước ngoài chưa hoàn thành nghĩa vụ thuế.
+
+ 4. Cơ quan thuế, cơ quan công an có trách nhiệm phối hợp trong công tác đào tạo, tập huấn, bồi dưỡng nâng cao năng lực nghiệp vụ, chuyên môn cho cán bộ, công chức mỗi bên thông qua việc cử cán bộ tham dự các lớp tập huấn, bồi dưỡng nghiệp vụ; hỗ trợ đào tạo nghiệp vụ điều tra tội phạm tại các trường, học viện, cơ sở đào tạo của Bộ Công an và Bộ Tài chính; cung cấp tài liệu, giáo trình giảng dạy, hỗ trợ trang thiết bị, phương tiện, địa điểm giảng dạy, đào tạo nghiên cứu.
+
+ 5. Cơ quan thuế, cơ quan công an có trách nhiệm phối hợp trong công tác trao đổi thông tin, tài liệu về:
+
+ a) Chủ trương, chính sách mới của Nhà nước về lĩnh vực thuế, chức năng, nhiệm vụ, quyền hạn của mỗi lực lượng liên quan đến công tác phòng, chống các hành vi vi phạm pháp luật về thuế.
+
+ b) Cơ quan thuế cung cấp thông tin theo đề nghị của cơ quan công an về hành vi vi phạm pháp luật về thuế; cơ quan công an có trách nhiệm cung cấp, trao đổi thông tin theo đề nghị của cơ quan thuế về các hành vi vi phạm pháp luật về thuế có dấu hiệu tội phạm, thông tin hoạt động của tổ chức, cá nhân có vi phạm về thuế. Thông tin về kết quả xử lý các hồ sơ vụ việc vi phạm pháp luật về thuế có dấu hiệu tội phạm được cơ quan thuế chuyển giao cho cơ quan công an để điều tra theo thẩm quyền.Điều 1.1.TL.3.11. Phối hợp bảo vệ an ninh và an toàn tài sản, hệ thống thông tin tại các cơ quan tài chính, bảo vệ hội nghị, hội thảo, sự kiện chính trị quan trọng của ngành tài chính
+
+(Điều 11 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Bộ Tài chính có trách nhiệm tổ chức công tác bảo vệ trật tự, an ninh, an toàn tài sản, hệ thống thông tin ở các cơ quan, đơn vị trong ngành tài chính; cung cấp cho Bộ Công an thông tin về các hệ thống thông tin của Bộ Tài chính, các biện pháp đảm bảo an toàn, an ninh thông tin đang áp dụng, chính sách và chiến lược của ngành Tài chính trừ các thông tin thuộc Danh mục bí mật nhà nước độ Mật, Tuyệt mật, Tối mật của ngành tài chính; xây dựng kế hoạch và triển khai các biện pháp bảo đảm an toàn, an ninh thông tin theo hướng dẫn của Bộ Công an; trao đổi việc phối hợp trong các hoạt động hợp tác quốc tế cũng như khi xuất hiện nguy cơ bị tấn công hoặc xảy ra sự cố thâm nhập đối với cơ sở hạ tầng thông tin của Bộ; phối hợp với Bộ Công an trong việc xác định khu vực cấm, địa điểm cấm đối với kho dự trữ quốc gia.
+
+ 2. Bộ Công an chỉ đạo các đơn vị nghiệp vụ phối hợp đảm bảo an ninh, an toàn tiền, tài sản trong hệ thống trụ sở Kho bạc nhà nước, các Sở giao dịch chứng khoán, hàng hóa dự trữ quốc gia và hệ thống kho dự trữ quốc gia; phối hợp bảo vệ an ninh trật tự tại các cơ quan tài chính khi có khả năng xảy ra tụ tập gây rối, mất an ninh trật tự tại các cơ quan tài chính.
+
+ 3. Bộ Công an phối hợp với Bộ Tài chính bảo vệ hệ thống thông tin của ngành tài chính chống lại hoạt động tấn công phá hoại, lấy cắp thông tin, dữ liệu đảm bảo hệ thống thông tin được xây dựng và duy trì theo phương thức an toàn đáp ứng nhu cầu phát triển và thực hiện nhiệm vụ chính trị của Bộ Tài chính.
+
+ 4. Căn cứ tính chất, mức độ quan trọng của từng sự kiện và yêu cầu của Bộ Tài chính, Bộ Công an sẽ chỉ đạo các đơn vị nghiệp vụ, công an địa phương liên quan phối hợp triển khai công tác đảm bảo an ninh, an toàn các hội nghị, hội thảo, sự kiện chính trị quan trọng của ngành tài chính, các đoàn công tác nước ngoài sang thăm và làm việc với Bộ Tài chính.Điều 1.1.TL.3.12. Phối hợp trong công tác phòng, chống rửa tiền, phòng, chống khủng bố và tài trợ khủng bố
+
+(Điều 12 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Về công tác phòng, chống rửa tiền
+
+ a) Bộ Công an có trách nhiệm phối hợp với Bộ Tài chính thu thập, tiếp nhận và xử lý thông tin về tội phạm liên quan đến rửa tiền trong lĩnh vực tài chính; thường xuyên trao đổi thông tin, tài liệu và tổ chức tập huấn về phương thức thủ đoạn hoạt động mới của tội phạm rửa tiền trong và ngoài nước; chỉ đạo đơn vị nghiệp vụ phát hiện, điều tra và xử lý tội phạm về rửa tiền trong lĩnh vực tài chính; thường xuyên phối hợp lập và trao đổi danh sách tổ chức, cá nhân có dấu hiệu vi phạm pháp luật trong lĩnh vực tài chính.
+
+ b) Bộ Tài chính có trách nhiệm phối hợp với Bộ Công an triển khai các biện pháp phòng, chống rửa tiền trong lĩnh vực kinh doanh bảo hiểm, chứng khoán, xổ số, trò chơi có thưởng (đặt cược, trò chơi điện tử có thưởng và casino); khi phát hiện các dấu hiệu liên quan tội phạm rửa tiền, kịp thời trao đổi với Bộ Công an để có biện pháp xử lý; thanh tra, giám sát hoạt động phòng, chống rửa tiền đối với đối tượng báo cáo thuộc lĩnh vực kinh doanh bảo hiểm, chứng khoán, xổ số, trò chơi có thưởng; chỉ đạo cơ quan hải quan cung cấp thông tin thu thập được về việc vận chuyển tiền mặt, kim loại quý, đá quý và công cụ chuyển nhượng qua biên giới phục vụ công tác phòng, chống rửa tiền.
+
+ 2. Về công tác phòng, chống khủng bố và tài trợ khủng bố
+
+ a) Bộ Công an có trách nhiệm phối hợp với Bộ Tài chính xây dựng, triển khai phương án, kế hoạch phòng, chống khủng bố và tài trợ khủng bố tại trụ sở các cơ quan tài chính; phối hợp tổ chức tập huấn, đào tạo nghiệp vụ phòng, chống khủng bố và tài trợ khủng bố cho cán bộ ngành tài chính; chỉ đạo đơn vị nghiệp vụ xác minh, điều tra, xử lý các vụ việc liên quan đến khủng bố và tài trợ khủng bố nhằm vào trụ sở các cơ quan tài chính; huy động lực lượng, phương tiện tham gia xử lý khi vụ việc khủng bố, tài trợ khủng bố xảy ra.
+
+ b) Bộ Tài chính và Bộ Công an cung cấp thông tin tài liệu phục vụ công tác xác minh, điều tra các vụ việc khủng bố, nghi liên quan khủng bố, tài trợ khủng bố, phá hoại có liên quan đến ngành tài chính.Điều 1.1.TL.3.13. Phối hợp trong công tác phòng, chống lợi dụng hoạt động tài trợ của nước ngoài để xâm phạm an ninh quốc gia
+
+(Điều 13 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Bộ Tài chính phối hợp Bộ Công an nghiên cứu, ban hành các quy định nhằm kiểm soát chặt chẽ hoạt động tài chính của các tổ chức phi Chính phủ nước ngoài, tổ chức quốc tế, tổ chức tài chính quốc tế tại Việt Nam.
+
+ 2. Hai bên trao đổi thông tin về hoạt động tài chính của tổ chức, cá nhân người nước ngoài có dấu hiệu hoạt động ảnh hưởng đến an ninh chính trị tại Việt Nam; thông tin về hoạt động tài trợ, hỗ trợ tài chính của các tổ chức, cá nhân nước ngoài cho các tổ chức, cá nhân hoạt động tại Việt Nam; thông tin về số liệu vay nợ nước ngoài, viện trợ ODA của nước ngoài cho Việt Nam.
+
+ 3. Bộ Tài chính phối hợp với Bộ Công an tham mưu cho Chính phủ trong công tác quản lý nhà nước về tài chính đối với nguồn viện trợ của các tổ chức phi chính phủ nước ngoài theo các quy định tại Nghị định số 12/2012/NĐ-CP ngày 01/3/2012 về đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam và Nghị định 93/2009/NĐ-CP ngày 22/10/2009 ban hành Quy chế quản lý và sử dụng viện trợ phi chính phủ nước ngoài và văn bản sửa đổi, bổ sung, thay thế (nếu có).(Điều này có nội dung liên quan đến Điều 1. Ban hành kèm theo Nghị định này Quy chế quản lý và sử dụng viện trợ phi Chính phủ nước ngoài. của Nghị định 93/2009/NĐ-CP Ban hành Quy chế quản lý và sử dụng viện trợ phi Chính phủ nước ngoài ban hành ngày 22/10/2009; Điều 27. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan Trung ương của Nghị định 12/2012/NĐ-CP Về đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam ban hành ngày 01/03/2012)
+
+Điều 1.1.TL.3.14. Phát động phong trào toàn dân bảo vệ an ninh Tổ quốc, đảm bảo an ninh trật tự, phòng chống cháy nổ tại trụ sở các cơ quan tài chính
+
+(Điều 14 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Đối với ngành công an
+
+ Hàng năm ban hành văn bản hướng dẫn về công tác xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc; bảo đảm an ninh trật tự, phòng chống tội phạm (lừa đảo, trộm, cướp, lạm dụng tín nhiệm chiếm đoạt tài sản…), phòng chống cháy nổ tại trụ sở các cơ quan tài chính; phối hợp huấn luyện, bồi dưỡng lực lượng bảo vệ cơ quan theo Nghị định 06/2013/NĐ-CP ngày 09/01/2013 của Chính phủ quy định về bảo vệ cơ quan, doanh nghiệp; tham gia bồi dưỡng kiến thức quốc phòng, an ninh cho cán bộ, công chức Bộ Tài chính theo quy định của Luật Giáo dục quốc phòng và an ninh, định kỳ phối hợp kiểm tra, đôn đốc, đánh giá chất lượng các nội dung công tác trên.
+
+ 2. Đối với ngành tài chính
+
+ Căn cứ tình hình thực tiễn tại từng đơn vị, địa phương, hàng năm xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc; bảo đảm an ninh, trật tự, phòng, chống cháy nổ tại trụ sở cơ quan. Phối hợp với ngành công an trong công tác huấn luyện, bồi dưỡng lực lượng bảo vệ chuyên trách đảm bảo số lượng, chất lượng theo quy định.
+
+ 3. Phối hợp tổ chức các buổi sinh hoạt chính trị, tuyên truyền, phổ biến giáo dục pháp luật.
+
+ 4. Phối hợp thực hiện công tác thi đua, khen thưởng hàng năm.Điều 1.1.LQ.31. Trách nhiệm của Bộ Quốc phòng trong quản lý nhà nước về an ninh quốc gia
+
+(Điều 31 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Bộ Quốc phòng trong phạm vi nhiệm vụ, quyền hạn của mình chịu trách nhiệm trước Chính phủ phối hợp với Bộ Công an thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia; chỉ đạo các lực lượng thuộc quyền phối hợp chặt chẽ với lực lượng Công an nhân dân và chính quyền địa phương để bảo vệ an ninh quốc gia theo quy định của pháp luật.
 
-**Chỉ mục:** 31
+Quy chế phối hợp giữa Bộ Công an với Bộ Quốc phòng trong việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia do Thủ tướng Chính phủ quy định.
 
-**Mã phân cấp:** 0100100000000000400003100000000000000000
+Điều 1.1.LQ.32. Trách nhiệm của Bộ Ngoại giao trong quản lý nhà nước về an ninh quốc gia
 
-**ID:** dk_00000171
-
----
-
-
-### Điều 1.1.LQ.32. Trách nhiệm của Bộ Ngoại giao trong quản lý nhà nước về an ninh quốc gia
+(Điều 32 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Bộ Ngoại giao trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định tại Điều 14 của Luật này, các quy định khác của pháp luật có liên quan và phối hợp với Bộ Công an, Bộ Quốc phòng, các cơ quan hữu quan khác để bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 32
+Quy chế phối hợp giữa Bộ Công an với Bộ Ngoại giao trong việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia do Thủ tướng Chính phủ quy định.
 
-**Mã phân cấp:** 0100100000000000400003200000000000000000
+(Điều này có nội dung liên quan đến Điều 1.1.LQ.14. Nhiệm vụ bảo vệ an ninh quốc gia)
 
-**ID:** dk_00000172
+Điều 1.1.LQ.33. Trách nhiệm của các bộ, cơ quan ngang bộ trong quản lý nhà nước về an ninh quốc gia
 
----
-
-
-### Điều 1.1.LQ.33. Trách nhiệm của các bộ, cơ quan ngang bộ trong quản lý nhà nước về an ninh quốc gia
+(Điều 33 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định tại Điều 14 của Luật này, các quy định khác của pháp luật có liên quan và phối hợp với các cơ quan hữu quan để bảo vệ an ninh quốc gia.
 
-**Chỉ mục:** 33
+(Điều này có nội dung liên quan đến Điều 1.1.LQ.14. Nhiệm vụ bảo vệ an ninh quốc gia)
 
-**Mã phân cấp:** 0100100000000000400003300000000000000000
+Điều 1.1.NĐ.2.17. Trách nhiệm của Bộ Công an
 
-**ID:** dk_00000173
-
----
-
-
-### Điều 1.1.NĐ.2.17. Trách nhiệm của Bộ Công an
+(Điều 17 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 Bộ Công an có trách nhiệm giúp Chính phủ chỉ đạo, hướng dẫn, kiểm tra việc xây dựng lực lượng và hoạt động của Bảo vệ dân phố; quy định chương trình nội dung bồi dưỡng tập huấn nghiệp vụ về công tác bảo vệ an ninh trật tự và pháp luật; việc trang thiết bị cho Bảo vệ dân phố theo quy định của pháp luật.
 
-**Chỉ mục:** 17
+Hàng năm, Công an các cấp có trách nhiệm tham mưu đề xuất Ủy ban nhân dân cùng cấp mở hội nghị sơ kết, tổng kết thi đua về công tác Bảo vệ dân phố để rút kinh nghiệm, nhân điển hình tiên tiến nhằm động viên, khen thưởng những cá nhân, đơn vị làm tốt phong trào bảo vệ an ninh Tổ quốc.
 
-**Mã phân cấp:** 010010000000000040000330000000000000000000402214200380001700
+Điều 1.1.NĐ.2.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
 
-**ID:** dk_00000174
-
----
-
-
-### Điều 1.1.NĐ.2.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
+(Điều 18 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 Bộ Lao động - Thương binh và Xã hội có trách nhiệm chủ trì, phối hợp với Bộ Công an và các Bộ, ngành liên quan hướng dẫn việc thực hiện chế độ, chính sách cho Bảo vệ dân phố khi bị thương, bị hy sinh trong khi làm nhiệm vụ.
 
-**Chỉ mục:** 18
+Điều 1.1.NĐ.5.8. Trách nhiệm của Bộ Công an
 
-**Mã phân cấp:** 010010000000000040000330000000000000000000402214200380001800
-
-**ID:** dk_00000175
-
----
-
-
-### Điều 1.1.NĐ.5.8. Trách nhiệm của Bộ Công an
+(Điều 8 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
 1. Quy định việc phối hợp với các cơ quan, doanh nghiệp trong công tác quản lý và kiểm tra việc thực hiện nhiệm vụ bảo vệ tại các cơ quan, doanh nghiệp.
 
-**Chỉ mục:** 8
+2. Quy định nội dung huấn luyện nghiệp vụ bảo vệ, mẫu giấy chứng nhận nhân viên bảo vệ, mẫu trang phục, phù hiệu, biển hiệu cho lực lượng bảo vệ cơ quan, doanh nghiệp.
 
-**Mã phân cấp:** 010010000000000040000330000000000000000000402460100060000800
+3. Chỉ đạo, hướng dẫn nghiệp vụ bảo vệ cho lực lượng bảo vệ cơ quan, doanh nghiệp.
 
-**ID:** dk_00000176
+Điều 1.1.TT.1.4. Tổ chức, đơn vị sử dụng ngân sách nhà nước được thuê dịch vụ bảo vệ thường xuyên, lâu dài
 
----
+(Điều 4 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
+ 1. Nhà trường và các cơ sở giáo dục khác theo quy định của Luật Giáo dục; các cơ sở khám bệnh, chữa bệnh theo quy định của Luật khám bệnh, chữa bệnh (trừ các trung tâm Chữa bệnh - Giáo dục - Lao động xã hội thuộc quản lý của ngành Lao động - Thương binh và Xã hội và các trường học, trung tâm giáo dục của ngành Công an, Quân đội).
 
-### Điều 1.1.TT.1.4. Tổ chức, đơn vị sử dụng ngân sách nhà nước được thuê dịch vụ bảo vệ thường xuyên, lâu dài
+ 2. Nơi sử dụng để sản xuất, cung ứng dịch vụ, kho tàng, bến, bãi; các cơ sở, trung tâm văn hóa, thể thao, giải trí (trừ các công trình thuộc danh mục công trình quan trọng liên quan đến an ninh quốc gia theo quy định tại Nghị định số 126/2008/NĐ-CP ngày 11/12/2008 và danh mục các mục tiêu quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội do lực lượng Cảnh sát nhân dân có trách nhiệm vũ trang canh gác bảo vệ ban hành kèm theo Nghị định số 37/2009/NĐ-CP ngày 23/4/2009 và Thông tư số 20/2010/TT-BCA ngày 23/6/2010 của Bộ trưởng Bộ Công an quy định chi tiết thi hành một số điều của Nghị định số 37/2009/NĐ-CP ngày 23/4/2009).(Điều này có nội dung liên quan đến Điều 45.6.LQ.41. Các hình thức tổ chức của cơ sở khám bệnh, chữa bệnh)
 
-1. Nhà trường và các cơ sở giáo dục khác theo quy định của Luật Giáo dục; các cơ sở khám bệnh, chữa bệnh theo quy định của Luật khám bệnh, chữa bệnh (trừ các trung tâm Chữa bệnh - Giáo dục - Lao động xã hội thuộc quản lý của ngành Lao động - Thương binh và Xã hội và các trường học, trung tâm giáo dục của ngành Công an, Quân đội).
+Điều 1.1.TT.1.5. Công tác phối hợp giữa cơ quan Công an với các cơ quan, doanh nghiệp trong quản lý và kiểm tra việc thực hiện nhiệm vụ bảo vệ
 
-**Chỉ mục:** 4
+(Điều 5 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
-**Mã phân cấp:** 01001000000000004000033000000000000000000040246010006000080000802524600460000400
+ Các đơn vị Công an có chức năng bảo vệ an ninh nội bộ (An ninh chính trị nội bộ, An ninh tài chính, tiền tệ, đầu tư, An ninh kinh tế tổng hợp, An ninh nông nghiệp nông thôn, An ninh thông tin truyền thông, Bảo vệ chính trị III) có trách nhiệm phối hợp với các đơn vị có liên quan và người đứng đầu cơ quan, doanh nghiệp tổ chức quản lý và kiểm tra việc thực hiện nhiệm vụ của lực lượng bảo vệ, cụ thể:
 
-**ID:** dk_00000177
+ 1. Hướng dẫn cơ quan, doanh nghiệp xây dựng, tổ chức thực hiện chương trình, kế hoạch, phương án, nội quy, quy chế bảo vệ cơ quan, doanh nghiệp.
 
----
+ 2. Hướng dẫn công tác bảo vệ tại cơ quan, doanh nghiệp trong các ngày lễ, tết, các sự kiện chính trị lớn hoặc theo đề nghị của cơ quan, doanh nghiệp.
 
+ 3. Hướng dẫn công tác phòng ngừa, phát hiện và xử lý các vụ việc liên quan đến an ninh, trật tự xảy ra tại cơ quan, doanh nghiệp.
 
-### Điều 1.1.TT.1.5. Công tác phối hợp giữa cơ quan Công an với các cơ quan, doanh nghiệp trong quản lý và kiểm tra việc thực hiện nhiệm vụ bảo vệ
+ 4. Phối hợp kiểm tra việc thực hiện nhiệm vụ của nhân viên bảo vệ; việc quản lý, sử dụng vũ khí thô sơ, công cụ hỗ trợ và các loại phương tiện trang bị cho lực lượng bảo vệ.
 
-Các đơn vị Công an có chức năng bảo vệ an ninh nội bộ (An ninh chính trị nội bộ, An ninh tài chính, tiền tệ, đầu tư, An ninh kinh tế tổng hợp, An ninh nông nghiệp nông thôn, An ninh thông tin truyền thông, Bảo vệ chính trị III) có trách nhiệm phối hợp với các đơn vị có liên quan và người đứng đầu cơ quan, doanh nghiệp tổ chức quản lý và kiểm tra việc thực hiện nhiệm vụ của lực lượng bảo vệ, cụ thể:
+ 5. Hướng dẫn tổ chức sơ kết, tổng kết, đánh giá công tác bảo vệ cơ quan, doanh nghiệp và xây dựng cơ quan, doanh nghiệp đạt tiêu chuẩn an toàn về an ninh, trật tự; đề xuất hình thức khen thưởng đối với tập thể, cá nhân có thành tích xuất sắc trong công tác bảo vệ an ninh, trật tự tại cơ quan, doanh nghiệp.(Điều này có nội dung liên quan đến Điều 1.1.TT.1.6. Công tác huấn luyện nghiệp vụ bảo vệ)
 
-**Chỉ mục:** 5
+Điều 1.1.TT.1.6. Công tác huấn luyện nghiệp vụ bảo vệ
 
-**Mã phân cấp:** 01001000000000004000033000000000000000000040246010006000080000802524600460000500
-
-**ID:** dk_00000178
-
----
-
-
-### Điều 1.1.TT.1.6. Công tác huấn luyện nghiệp vụ bảo vệ
+(Điều 6 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
 1. Hàng năm, các cơ quan, doanh nghiệp nếu có nhu cầu đào tạo, huấn luyện nghiệp vụ bảo vệ cho nhân viên bảo vệ, chủ động xây dựng kế hoạch và thông báo cho đơn vị Công an có chức năng bảo vệ an ninh nội bộ quy định tại Điều 5 Thông tư này để biết và phối hợp thực hiện. Ngoài việc huấn luyện cho số nhân viên bảo vệ chưa qua đào tạo, các đơn vị Công an có chức năng bảo vệ an ninh nội bộ căn cứ vào tình hình thực tế để chủ động phối hợp với các cơ quan, doanh nghiệp tổ chức lớp học để bổ sung và cập nhật kiến thức mới về chuyên môn nghiệp vụ cho nhân viên bảo vệ.
 
-**Chỉ mục:** 6
+2. Nội dung huấn luyện nghiệp vụ bảo vệ
 
-**Mã phân cấp:** 01001000000000004000033000000000000000000040246010006000080000802524600460000600
+a) Kiến thức cơ bản về pháp luật; đạo đức, tác phong nghề nghiệp.
 
-**ID:** dk_00000179
+b) Các biện pháp nghiệp vụ bảo vệ.
 
----
+c) Hướng dẫn, huấn luyện cách sử dụng vũ khí thô sơ, công cụ hỗ trợ, vật liệu nổ, chất dễ cháy, chất độc hại và các loại phương tiện chuyên dùng được trang bị cho lực lượng bảo vệ.
 
+d) Kiến thức cơ bản về phòng cháy, chữa cháy và cấp cứu người bị nạn.
 
-### Điều 1.1.TT.1.7. Giấy chứng nhận nhân viên bảo vệ
+đ) Các nội dung khác phù hợp với quy định của pháp luật và yêu cầu thực tế trong hoạt động bảo vệ của cơ quan, doanh nghiệp.
+
+3. Tổng cục An ninh chủ trì, phối hợp với các đơn vị có liên quan biên soạn nội dung, chương trình huấn luyện nghiệp vụ bảo vệ.
+
+4. Phân cấp huấn luyện và cấp Giấy chứng nhận huấn luyện nghiệp vụ bảo vệ cho lực lượng bảo vệ cơ quan, doanh nghiệp, cụ thể như sau:
+
+a) Lực lượng bảo vệ tại các cơ quan, doanh nghiệp thuộc các Bộ, ngành ở Trung ương do các Cục: An ninh chính trị nội bộ, An ninh tài chính, tiền tệ, đầu tư, An ninh kinh tế tổng hợp, An ninh nông nghiệp nông thôn, An ninh thông tin truyền thông, Bảo vệ chính trị III của Bộ Công an tổ chức huấn luyện và cấp Giấy chứng nhận.
+
+b) Lực lượng bảo vệ tại các cơ quan, doanh nghiệp ở địa phương do các Phòng: An ninh chính trị nội bộ, An ninh kinh tế, An ninh tài chính, tiền tệ, đầu tư thuộc Công an tỉnh, thành phố trực thuộc Trung ương nơi cơ quan, doanh nghiệp đặt trụ sở tổ chức huấn luyện và cấp Giấy chứng nhận.
+
+5. Trách nhiệm phối hợp tổ chức huấn luyện nghiệp vụ bảo vệ
+
+a) Các đơn vị có liên quan của Bộ Công an, Công an các tỉnh, thành phố trực thuộc Trung ương, Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phối hợp với Tổng cục An ninh để xây dựng nội dung, chương trình huấn luyện và bố trí giáo viên giảng dạy tại các lớp huấn luyện nghiệp vụ cho lực lượng bảo vệ cơ quan, doanh nghiệp.
+
+b) Cơ quan, doanh nghiệp cử nhân viên tham gia huấn luyện nghiệp vụ bảo vệ phải chịu trách nhiệm về kinh phí huấn luyện, bố trí địa điểm, tổ chức và quản lý lớp học.
+
+6. Giấy chứng nhận huấn luyện nghiệp vụ bảo vệ
+
+a) Giấy chứng nhận huấn luyện nghiệp vụ bảo vệ được cấp cho nhân viên bảo vệ cơ quan, doanh nghiệp khi đã tham gia lớp bồi dưỡng nghiệp vụ và đạt kết quả kiểm tra theo quy định.
+
+b) Giấy chứng nhận huấn luyện nghiệp vụ bảo vệ có giá trị sử dụng trong thời hạn 05 năm kể từ ngày cấp. Hết thời hạn này, nhân viên bảo vệ phải được huấn luyện để cấp lại Giấy chứng nhận. Giấy chứng nhận cũ được thu hồi, tiêu hủy.
+
+c) Trường hợp Giấy chứng nhận huấn luyện nghiệp vụ bảo vệ bị rách, cũ nát hoặc mất, người đã được cấp Giấy chứng nhận phải báo cáo cơ quan, doanh nghiệp trực tiếp quản lý để đề nghị cơ quan có thẩm quyền quy định tại Khoản 4 Điều này làm thủ tục đổi hoặc cấp lại.
+
+Thời hạn cấp, đổi, cấp lại Giấy chứng nhận huấn luyện nghiệp vụ bảo vệ là 05 ngày làm việc, kể từ ngày kiểm tra xong hoặc kể từ ngày nhận được đơn đề nghị.
+
+d) Giấy chứng nhận huấn luyện nghiệp vụ bảo vệ được làm bằng chất liệu giấy trắng khổ 21cm x 15cm, nền màu vàng nhạt, đường viền và chữ “GIẤY CHỨNG NHẬN” màu đỏ, các chữ còn lại màu đen. Phía trên là dòng chữ **“CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**” có cỡ chữ 11, kiểu chữ Times New Roman, in hoa, in đậm và **“Độc lập – Tự do – Hạnh phúc” **có cỡ chữ 12, kiểu chữ Times New Roman, in đậm. Tên “**GIẤY CHỨNG NHẬN” **có cỡ chữ 12, kiểu chữ Times New Roman, in hoa, in đậm. Các chữ còn lại in thường, cỡ chữ 14, kiểu chữ Times New Roman; cụ thể theo mẫu.
+
+Giay chung nhan_huan luyen nghiep vu bao ve.doc
+
+(Điều này có nội dung liên quan đến Điều 1.1.TT.1.5. Công tác phối hợp giữa cơ quan Công an với các cơ quan, doanh nghiệp trong quản lý và kiểm tra việc thực hiện nhiệm vụ bảo vệ)
+
+Điều 1.1.TT.1.7. Giấy chứng nhận nhân viên bảo vệ
+
+(Điều 7 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
 1. Nhân viên bảo vệ được sử dụng Giấy chứng nhận nhân viên bảo vệ do cơ quan, doanh nghiệp trực tiếp quản lý cấp và phải mang theo khi thi hành nhiệm vụ.
 
-**Chỉ mục:** 7
+Cơ quan, doanh nghiệp có trách nhiệm quy định việc cấp, đổi, cấp lại, thu hồi và quản lý Giấy chứng nhận nhân viên bảo vệ.
 
-**Mã phân cấp:** 01001000000000004000033000000000000000000040246010006000080000802524600460000700
+2. Người được cấp Giấy chứng nhận nhân viên bảo vệ có trách nhiệm giữ gìn, bảo quản và không được cho người khác mượn; nếu bị mất hoặc hư hỏng phải báo cáo ngay với người phụ trách bảo vệ trực tiếp để báo cáo người đứng đầu cơ quan, doanh nghiệp có biện pháp xử lý kịp thời. Khi không làm nhân viên bảo vệ phải trả lại Giấy chứng nhận nhân viên bảo vệ cho cơ quan, doanh nghiệp đã cấp.
 
-**ID:** dk_00000180
+3. Giấy chứng nhận nhân viên bảo vệ được làm bằng chất liệu giấy trắng khổ 9cm x 6cm, cụ thể:
 
----
+a) Mặt trước có nền màu nâu, xung quanh có khung màu vàng, nét khung có kích thước 0,1cm và cách mép ngoài của giấy 0,5cm, chữ màu vàng nhạt. Phía trên là dòng chữ **“CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**” có cỡ chữ 11, kiểu chữ Times New Roman, in hoa, in đậm và **“Độc lập – Tự do – Hạnh phúc” **có cỡ chữ 12, kiểu chữ Times New Roman, in đậm. Tên “**GIẤY CHỨNG NHẬN NHÂN VIÊN BẢO VỆ” **có cỡ chữ 12, kiểu chữ Times New Roman, in hoa, in đậm đặt ở chính giữa, nét đậm 0,2cm, chiều cao 0,5cm được chia ra làm 02 dòng, dòng trên là** “GIẤY CHỨNG NHẬN”, **dòng dưới là** “NHÂN VIÊN BẢO VỆ”**.
 
+b) Mặt sau có nền màu vàng nhạt; trên cùng là tên của cơ quan, doanh nghiệp cấp Giấy chứng nhận (1) có cỡ chữ 12, kiểu chữ Times New Roman, in hoa, in đậm. Dòng chữ **“CHỨNG NHẬN” **có cỡ chữ 11, kiểu chữ Times New Roman, in hoa, in đậm; các chữ còn lại có màu đen, in thường, cỡ chữ 14, kiểu chữ Times New Roman; cụ thể theo mẫu.
 
-### Điều 1.1.LQ.34. Trách nhiệm của Uỷ ban nhân dân các cấp trong quản lý nhà nước về an ninh quốc gia
+Giay chung nhan_nhan vien bao ve.doc
+
+Điều 1.1.LQ.34. Trách nhiệm của Uỷ ban nhân dân các cấp trong quản lý nhà nước về an ninh quốc gia
+
+(Điều 34 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia tại địa phương; thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
 
-**Chỉ mục:** 34
+(Điều này có nội dung liên quan đến Điều 1.1.CT.1.9. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương của Chỉ thị 16/2005/CT-TTg Về việc tổ chức triển khai thi hành Luật An ninh quốc gia ban hành ngày 11/05/2005)
 
-**Mã phân cấp:** 0100100000000000400003400000000000000000
+Điều 1.1.NĐ.2.19. Trách nhiệm của Ủy ban nhân dân các cấp
 
-**ID:** dk_00000181
-
----
-
-
-### Điều 1.1.NĐ.2.19. Trách nhiệm của Ủy ban nhân dân các cấp
+(Điều 19 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
 Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định cụ thể mức phụ cấp hàng tháng đối với các chức danh Bảo vệ dân phố, chế độ phụ cấp đi lại, ăn, ở khi Bảo vệ dân phố được bồi dưỡng pháp luật và nghiệp vụ.
 
-**Chỉ mục:** 19
+Ủy ban nhân dân các cấp chỉ đạo, quản lý tổ chức và hoạt động của Bảo vệ dân phố theo thẩm quyền và sự hướng dẫn, kiểm tra của Công an cấp trên; bố trí địa điểm làm việc; đảm bảo kinh phí hoạt động; trang bị phương tiện, trang phục và thực hiện các chế độ, chính sách đối với Bảo vệ dân phố theo quy định pháp luật.
 
-**Mã phân cấp:** 010010000000000040000340000000000000000000402214200380001900
+Chương V
 
-**ID:** dk_00000182
+ĐIỀU KHOẢN THI HÀNH
 
----
+Điều 1.1.LQ.35. Hiệu lực thi hành
 
-
-### Điều 1.1.LQ.35. Hiệu lực thi hành
+(Điều 35 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2005.
 
-**Chỉ mục:** 35
+Những quy định trước đây trái với Luật này đều bãi bỏ.
 
-**Mã phân cấp:** 0100100000000000500003500000000000000000
+Điều 1.1.LQ.36. Hướng dẫn thi hành
 
-**ID:** dk_00000184
-
----
-
-
-### Điều 1.1.LQ.36. Hướng dẫn thi hành
+(Điều 36 Luật số 32/2004/QH11, có hiệu lực thi hành kể từ ngày 01/07/2005)
 
 Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này.
 
-**Chỉ mục:** 36
+*Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XI, kỳ họp thứ 6 thông qua ngày 03 tháng 12 năm 2004.*
 
-**Mã phân cấp:** 0100100000000000500003600000000000000000
+Điều 1.1.NĐ.1.18. Hiệu lực thi hành
 
-**ID:** dk_00000185
-
----
-
-
-### Điều 1.1.NĐ.1.18. Hiệu lực thi hành
+(Điều 18 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
 Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
-**Chỉ mục:** 18
+Điều 1.1.NĐ.1.19. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0100100000000000500003640220600016000180
-
-**ID:** dk_00000186
-
----
-
-
-### Điều 1.1.NĐ.1.19. Trách nhiệm thi hành
+(Điều 19 Nghị định số 16/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 22/02/2006)
 
 Bộ Công an, Bộ Quốc phòng, Bộ Lao động - Thương Binh và Xã hội chịu trách nhiệm hướng dẫn, kiểm tra, đôn đốc việc thi hành Nghị định này.
 
-**Chỉ mục:** 19
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**Mã phân cấp:** 0100100000000000500003640220600016000190
+Điều 1.1.NĐ.2.21. Hiệu lực thi hành
 
-**ID:** dk_00000187
+(Điều 21 Nghị định số 38/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2006)
 
----
+Nghị định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Những quy định trước đây về Bảo vệ dân phố trái với Nghị định này đều bãi bỏ.
+Bộ trưởng Bộ Công an có trách nhiệm hướng dẫn chi tiết thi hành Nghị định này.
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-### Điều 1.1.NĐ.2.21. Hiệu lực thi hành
+Điều 1.1.NĐ.3.20. Hiệu lực thi hành
 
-Nghị định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Những quy định trước đây về Bảo vệ dân phố trái với Nghị định này đều bãi bỏ. Bộ trưởng Bộ Công an có trách nhiệm hướng dẫn chi tiết thi hành Nghị định này.
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 0100100000000000500003640221420038000210
-
-**ID:** dk_00000188
-
----
-
-
-### Điều 1.1.NĐ.3.20. Hiệu lực thi hành
+(Điều 20 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
 Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
-**Chỉ mục:** 20
+Điều 1.1.NĐ.3.21. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0100100000000000500003640223350127000200
-
-**ID:** dk_00000189
-
----
-
-
-### Điều 1.1.NĐ.3.21. Trách nhiệm thi hành
+(Điều 21 Nghị định số 127/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/11/2006)
 
 1. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, theo chức năng và nhiệm vụ, chịu trách nhiệm chủ trì, phối hợp với Bộ trưởng Bộ Tài chính, Bộ trưởng Bộ Kế hoạch và Đầu tư và các Bộ, ngành liên quan hướng dẫn, kiểm tra, đôn đốc việc thi hành Nghị định này.
 
-**Chỉ mục:** 21
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định định này.
 
-**Mã phân cấp:** 0100100000000000500003640223350127000210
+Điều 1.1.NĐ.4.10. Hiệu lực thi hành
 
-**ID:** dk_00000190
-
----
-
-
-### Điều 1.1.NĐ.4.10. Hiệu lực thi hành
+(Điều 10 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 Nghị định này có hiệu lực thi hành kể từ ngày 10 tháng 7 năm 2011.
 
-**Chỉ mục:** 10
+Điều 1.1.NĐ.4.11. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0100100000000000500003640239990035000100
-
-**ID:** dk_00000191
-
----
-
-
-### Điều 1.1.NĐ.4.11. Trách nhiệm thi hành
+(Điều 11 Nghị định số 35/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/07/2011)
 
 1. Bộ trưởng Bộ Công an chịu trách nhiệm chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, kiểm tra, đôn đốc việc thực hiện Nghị định này.
 
-**Chỉ mục:** 11
+2. Bộ trưởng Bộ Quốc phòng có trách nhiệm hướng dẫn, kiểm tra, đôn đốc việc thực hiện Nghị định này trong Quân đội nhân dân.
 
-**Mã phân cấp:** 0100100000000000500003640239990035000110
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**ID:** dk_00000192
+Điều 1.1.NĐ.5.17. Hiệu lực thi hành
 
----
-
-
-### Điều 1.1.NĐ.5.17. Hiệu lực thi hành
+(Điều 17 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
 1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2013 và thay thế Nghị định số 73/2001/NĐ-CP ngày 05 tháng 10 năm 2001 về hoạt động và tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp.
 
-**Chỉ mục:** 17
+2. Đối với các cơ quan, doanh nghiệp thuộc diện không được thuê dịch vụ bảo vệ thường xuyên, lâu dài theo quy định của Nghị định này, nhưng thực tế đã và đang có hợp đồng thuê dịch vụ bảo vệ thì khi hết thời hạn hợp đồng đã ký, phải thực hiện đúng theo các quy định của Nghị định này.
 
-**Mã phân cấp:** 0100100000000000500003640246010006000170
+Điều 1.1.NĐ.5.18. Trách nhiệm thi hành
 
-**ID:** dk_00000193
-
----
-
-
-### Điều 1.1.NĐ.5.18. Trách nhiệm thi hành
+(Điều 18 Nghị định số 06/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
 1. Bộ trưởng Bộ Công an có trách nhiệm hướng dẫn chi tiết thi hành Nghị định này.
 
-**Chỉ mục:** 18
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**Mã phân cấp:** 0100100000000000500003640246010006000180
+Điều 1.1.NĐ.6.12. Hiệu lực thi hành
 
-**ID:** dk_00000194
-
----
-
-
-### Điều 1.1.NĐ.6.12. Hiệu lực thi hành
+(Điều 12 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
 Nghị định này có hiệu lực thi hành kể từ ngày 08 tháng 3 năm 2014.
 
-**Chỉ mục:** 12
+Điều 1.1.NĐ.6.13. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0100100000000000500003640249780006000120
-
-**ID:** dk_00000195
-
----
-
-
-### Điều 1.1.NĐ.6.13. Trách nhiệm thi hành
+(Điều 13 Nghị định số 06/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2014)
 
 1. Bộ trưởng Bộ Công an chịu trách nhiệm chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, kiểm tra, đôn đốc việc thực hiện Nghị định này.
 
-**Chỉ mục:** 13
+2. Bộ trưởng Bộ Quốc phòng có trách nhiệm phối hợp với Bộ Công an hướng dẫn, kiểm tra, đôn đốc việc thực hiện Nghị định này trong Quân đội nhân dân.
 
-**Mã phân cấp:** 0100100000000000500003640249780006000130
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**ID:** dk_00000196
+Điều 1.1.TL.1.8. Tổ chức thực hiện
 
----
-
-
-### Điều 1.1.TL.1.8. Tổ chức thực hiện
+(Điều 8 Thông tư liên tịch số 02/2007/TTLT-BCA-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 25/04/2007)
 
 1. Bộ Công an có trách nhiệm chỉ đạo, hướng dẫn các đơn vị, địa phương tổ chức thực hiện các nội dung quy định tại Thông tư này.
 
-**Chỉ mục:** 8
+2. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp chịu trách nhiệm thi hành Thông tư này.
 
-**Mã phân cấp:** 0100100000000000500003680224600002000080
+3. Thông tư này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Các quy định trước đây trái với Thông tư này đều bãi bỏ.
 
-**ID:** dk_00000197
+Quá trình tổ chức thực hiện nếu có vướng mắc, đề nghị phản ánh về Bộ Công an, Bộ Lao động – Thương binh và Xã hội, Bộ Tài chính để nghiên cứu hướng dẫn.
 
----
+Điều 1.1.TT.1.9. Hiệu lực thi hành
 
+(Điều 9 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
-### Điều 1.1.TT.1.9. Hiệu lực thi hành
+Thông tư này có hiệu lực thi hành kể từ ngày  06  tháng  12  năm 2014 và thay thế Thông tư số 10/2002/TT-BCA ngày 26/8/2002 của Bộ trưởng Bộ Công an hướng dẫn thực hiện Nghị định số 73/2001/NĐ-CP ngày 05/10/2001 về hoạt động và tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp.
 
-Thông tư này có hiệu lực thi hành kể từ ngày 06 tháng 12 năm 2014 và thay thế Thông tư số 10/2002/TT-BCA ngày 26/8/2002 của Bộ trưởng Bộ Công an hướng dẫn thực hiện Nghị định số 73/2001/NĐ-CP ngày 05/10/2001 về hoạt động và tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp.
+Điều 1.1.TT.1.10. Tổ chức thực hiện
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 0100100000000000500003680252460046000090
-
-**ID:** dk_00000198
-
----
-
-
-### Điều 1.1.TT.1.10. Tổ chức thực hiện
+(Điều 10 Thông tư số 46/2014/TT-BCA, có hiệu lực thi hành kể từ ngày 06/12/2014)
 
 1. Tổng cục trưởng Tổng cục An ninh có trách nhiệm theo dõi, hướng dẫn, kiểm tra, đôn đốc việc thực hiện Thông tư này.
 
-**Chỉ mục:** 10
+2. Định kỳ vào cuối quý II và quý IV hàng năm, Công an các đơn vị, địa phương báo cáo Bộ Công an (qua Tổng cục An ninh) về tình hình, kết quả triển khai thực hiện Nghị định số 06/2013/NĐ-CP và Thông tư này.
 
-**Mã phân cấp:** 0100100000000000500003680252460046000100
+3. Các Tổng cục trưởng, Thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, Giám đốc Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**ID:** dk_00000199
+Trong quá trình thực hiện Thông tư này, nếu có khó khăn, vướng mắc, Công an các đơn vị, địa phương, các tổ chức, cá nhân có liên quan báo cáo về Bộ Công an (qua Tổng cục An ninh) để kịp thời hướng dẫn.
 
----
+Điều 1.1.TT.2.16. Hiệu lực thi hành
 
-
-### Điều 1.1.TT.2.16. Hiệu lực thi hành
+(Điều 16 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 4 năm 2016. Các quy định trước đây về trang phục cho lực lượng bảo vệ cơ quan, doanh nghiệp trái với quy định tại Thông tư này đều bãi bỏ.
 
-**Chỉ mục:** 16
+(Điều này có nội dung liên quan đến Điều 1.3.TT.1.8. Trang phục, phù hiệu, giấy chứng nhận, biển hiệu của lực lượng bảo vệ của cơ quan, tổ chức quản lý công trình)
 
-**Mã phân cấp:** 0100100000000000500003680257240008000160
+Điều 1.1.TT.2.17. Trách nhiệm thi hành
 
-**ID:** dk_00000200
-
----
-
-
-### Điều 1.1.TT.2.17. Trách nhiệm thi hành
+(Điều 17 Thông tư số 08/2016/TT-BCA, có hiệu lực thi hành kể từ ngày 05/04/2016)
 
 1. Tổng cục Hậu cần - Kỹ thuật Bộ Công an chủ trì, phối hợp với Tổng cục An ninh Bộ Công an chịu trách nhiệm hướng dẫn, kiểm tra, đôn đốc việc thực hiện Thông tư này.
 
-**Chỉ mục:** 17
+2. Công an các đơn vị, địa phương có trách nhiệm hướng dẫn, kiểm tra, giám sát các cơ quan, doanh nghiệp thuộc địa phương mình quản lý, định kỳ vào cuối quý II và quý IV hàng năm báo cáo về Bộ Công an (qua Tổng cục Hậu cần - Kỹ thuật) về tình hình, kết quả thực hiện Thông tư này.
 
-**Mã phân cấp:** 0100100000000000500003680257240008000170
+3. Các đồng chí Tổng cục trưởng, Thủ trưởng đơn vị trực thuộc Bộ Công an, Giám đốc Công an, Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các cơ quan, doanh nghiệp, các tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này.
 
-**ID:** dk_00000201
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, Công an các đơn vị, địa phương, các cơ quan, tổ chức, cá nhân có liên quan báo cáo về Bộ Công an (qua Tổng cục Hậu cần - Kỹ thuật) để có hướng dẫn kịp thời.
 
----
+Điều 1.1.TL.2.10. Trách nhiệm thi hành
 
-
-### Điều 1.1.TL.2.10. Trách nhiệm thi hành
+(Điều 10 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
 1. Căn cứ quy định tại Thông tư liên tịch này và đặc điểm, tình hình bảo đảm an ninh, trật tự trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch của từng địa phương, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chỉ đạo xây dựng Quy chế phối hợp bảo đảm an ninh quốc gia trật tự, an toàn xã hội giữa cơ quan công an và cơ quan nhà nước về văn hóa, thể thao và du lịch trên địa bàn.
 
-**Chỉ mục:** 10
+2. Thủ trưởng cơ quan, đơn vị liên quan thuộc Bộ Văn hóa, Thể thao và Du lịch, Bộ Công an, thủ trưởng cơ quan nhà nước về văn hóa, thể thao và du lịch, thủ trưởng cơ quan công an các cấp ở địa phương và các tổ chức, cá nhân có liên quan trong phạm vi, nhiệm vụ, quyền hạn được giao có trách nhiệm phổ biến, tổ chức triển khai thi hành, định kỳ hàng năm báo cáo cơ quan có thẩm quyền về tình hình thực hiện Thông tư liên tịch này.
 
-**Mã phân cấp:** 0100100000000000500003680258120002000100
+3. Giao Vụ Pháp chế Bộ Văn hóa, Thể thao và Du lịch và Tổng cục An ninh Bộ Công an là hai đơn vị thường trực theo dõi, đôn đốc, tổng hợp tình hình, báo cáo định kỳ hàng năm, tham mưu Lãnh đạo Bộ Công an và Bộ Văn hóa, Thể thao và Du lịch tổ chức sơ kết, tổng kết việc thực hiện Thông tư liên tịch này trong phạm vi toàn ngành Văn hóa, Thể thao và Du lịch, ngành Công an.
 
-**ID:** dk_00000202
+4. Căn cứ quy định tại Thông tư liên tịch này, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm chỉ đạo Ủy ban nhân dân cấp dưới, Công an, Cảnh sát phòng cháy, chữa cháy các tỉnh, thành phố trực thuộc Trung ương, Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao, Sở Du lịch triển khai xây dựng kế hoạch phối hợp công tác đảm bảo an ninh, trật tự trong hoạt động văn hóa, gia đình, thể dục, thể thao và du lịch tại địa phương.
 
----
+Điều 1.1.TL.2.11. Hiệu lực thi hành
 
-
-### Điều 1.1.TL.2.11. Hiệu lực thi hành
+(Điều 11 Thông tư liên tịch số 02/2016/TTLT-BVHTTDL-BCA, có hiệu lực thi hành kể từ ngày 25/06/2016)
 
 1. Thông tư này có hiệu lực thi hành từ ngày 25 tháng 6 năm 2016.
 
-**Chỉ mục:** 11
+2. Thông tư liên tịch 06/2009/TTLT-BCA-BVHTTDL ngày 22 tháng 7 năm 2009 của Bộ trưởng Bộ Công an và Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn phối hợp công tác bảo vệ an ninh quốc gia và trật tự, an toàn xã hội trong hoạt động du lịch hết hiệu lực thi hành kể từ ngày Thông tư liên tịch này có hiệu lực thi hành.
 
-**Mã phân cấp:** 0100100000000000500003680258120002000110
+3. Trong quá trình thực hiện Thông tư liên tịch này, nếu phát sinh vướng mắc, đề nghị kịp thời phản ánh về Bộ Công an (qua Tổng cục An ninh), Bộ Văn hoá, Thể thao và Du lịch (qua Vụ Pháp chế) để tổng hợp, phối hợp nghiên cứu, kịp thời giải quyết.
 
-**ID:** dk_00000203
+Điều 1.1.TL.3.15. Trách nhiệm thi hành
 
----
-
-
-### Điều 1.1.TL.3.15. Trách nhiệm thi hành
+(Điều 15 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
 1. Bộ Tài chính và Bộ Công an trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm quán triệt, phổ biến, hướng dẫn, kiểm tra, đôn đốc việc thực hiện Thông tư liên tịch này trong các cơ quan, đơn vị thuộc Bộ; có trách nhiệm xây dựng kế hoạch phối hợp hàng năm để thực hiện ở cấp trung ương.
 
-**Chỉ mục:** 15
+2.  Lãnh đạo Bộ Tài chính chỉ đạo các đơn vị trực thuộc và Lãnh đạo Bộ Công an chỉ đạo Công an các tỉnh, thành phố trực thuộc Trung ương căn cứ quy định tại Thông tư này, kế hoạch phối hợp hàng năm để triển khai công tác phối hợp tại đơn vị, địa phương.
 
-**Mã phân cấp:** 0100100000000000500003680258590085000150
+ 3. Bộ Tài chính giao Vụ Pháp chế là đơn vị thường trực, Vụ Tổ chức Cán bộ và các đơn vị liên quan chịu trách nhiệm tổ chức thực hiện. Bộ Công an giao Văn phòng Bộ là đơn vị thường trực, Tổng cục An ninh (Cục An ninh, tài chính, tiền tệ, đầu tư) làm đầu mối và chịu trách nhiệm thực hiện. Các đơn vị trên có trách nhiệm tham mưu, giúp việc cho lãnh đạo hai Bộ trong việc tổ chức, hướng dẫn triển khai thực hiện các nội dung của Thông tư này.
 
-**ID:** dk_00000204
+4. Định kỳ hàng năm, Bộ Tài chính và Bộ Công an phối hợp xem xét, tổng kết đánh giá hoạt động và đề xuất kế hoạch hoạt động của năm sau phù hợp với tình hình thực tiễn nhằm thực hiện hiệu quả công tác phối hợp để trình cấp có thẩm quyền phê duyệt.
 
----
+5. Trường hợp nảy sinh vấn đề vướng mắc trong công tác phối hợp, Vụ Pháp chế Bộ Tài chính, Văn phòng Bộ Công an, Tổng Cục An ninh phải báo cáo ngay lãnh đạo hai Bộ để kịp thời chỉ đạo xử lý.
 
+Điều 1.1.TL.3.16. Hiệu lực thi hành
 
-### Điều 1.1.TL.3.16. Hiệu lực thi hành
+(Điều 16 Thông tư liên tịch số 85/2016/TTLT-BTC-BCA, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
 1. Thông tư liên tịch này có hiệu lực kể từ ngày 05 tháng 8 năm 2016 và thay thế Thông tư liên tịch số 148/1999/TTLT-BTC-BCA ngày 20/12/1999 của Bộ Tài chính và Bộ Công an về quan hệ phối hợp công tác bảo đảm an ninh, trật tự trong một số hoạt động thuộc lĩnh vực tài chính.
 
-**Chỉ mục:** 16
+2. Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan phản ánh về Bộ Tài chính, Bộ Công an để phối hợp xem xét, hướng dẫn, sửa đổi cho phù hợp.
 
-**Mã phân cấp:** 0100100000000000500003680258590085000160
+## Danh sách điều khoản
 
-**ID:** dk_00000205
+### 01001000000000001000
 
----
+Chương I Những quy định chung
 
+### 0100100000000000100000100000000000000000
 
-## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](/an-ninh-quoc-gia/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 1.1.LQ.1. Phạm vi điều chỉnh Luật này quy định về chính sách an ninh quốc gia; nguyên tắc, nhiệm vụ, biện pháp bảo vệ an ninh quốc gia; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, công dân trong bảo vệ an ninh quốc gia.
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 206
-- **Điều khoản thực tế:** 201
-- **Điều khoản có nội dung:** 201 (100.0%)
-- **ID đề mục:** 55323c64e78f4537afcd6a3c2af3c71d
+### 0100100000000000100000200000000000000000
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 1.1.LQ.2. Đối tượng áp dụng Luật này áp dụng đối với cơ quan, tổ chức, công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam; cá nhân, tổ chức nước ngoài, tổ chức quốc tế cư trú, hoạt động trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam; trong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập quy định khác thì áp dụng theo điều ước quốc tế đó.
 
----
+### 0100100000000000100000240220600016000010
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 1.1.NĐ.1.1. Phạm vi điều chỉnh Nghị định này quy định việc khôi phục danh dự đối với cơ quan, tổ chức, cá nhân bị tổn hại về danh dự; đền bù thiệt hại đối với cơ quan, tổ chức, cá nhân bị thiệt hại về tài sản; chế độ trợ cấp đối với cá nhân bị thương tích, bị tổn hại về sức khoẻ, bị thiệt hại về tính mạng do tham gia bảo vệ an ninh quốc gia.
+
+### 0100100000000000100000240221420038000010
+
+Điều 1.1.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng Nghị định này quy định về chức năng, nhiệm vụ, quyền hạn, nguyên tắc tổ chức, hoạt động và chế độ, chính sách đối với Bảo vệ dân phố.
+
+### 0100100000000000100000240223350127000010
+
+Điều 1.1.NĐ.3.1. Phạm vi điều chỉnh Nghị định này quy định chi tiết thi hành một số điều của Luật An ninh quốc gia và Luật Công an nhân dân về việc bảo đảm điều kiện về ngân sách, cơ sở vật chất, huy động thành tựu khoa học và công nghệ, dự trữ quốc gia để phục vụ hoạt động bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội (sau đây gọi chung là an ninh, trật tự).
+
+### 0100100000000000100000240223350127000020
+
+Điều 1.1.NĐ.3.2. Đối tượng áp dụng Nghị định này áp dụng với cá nhân, tổ chức Việt Nam; cá nhân, tổ chức nước ngoài, tổ chức quốc tế đang hoạt động trên lãnh thổ Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng theo điều ước quốc tế đó.
+
+### 0100100000000000100000240239990035000010
+
+Điều 1.1.NĐ.4.1. Phạm vi điều chỉnh Nghị định này quy định nội dung, nguyên tắc, thẩm quyền, trách nhiệm và bảo đảm điều kiện cho việc áp dụng biện pháp pháp luật bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội (trong Nghị định này viết tắt là biện pháp pháp luật bảo vệ an ninh, trật tự).
+
+### 0100100000000000100000240239990035000020
+
+Điều 1.1.NĐ.4.2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự; cơ quan, tổ chức, công dân Việt Nam; cơ quan, tổ chức, cá nhân nước ngoài, tổ chức quốc tế cư trú, hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng điều ước quốc tế đó.
+
+### 0100100000000000100000240246010006000010
+
+Điều 1.1.NĐ.5.1. Phạm vi điều chỉnh Nghị định này quy định về chức năng, nhiệm vụ, quyền hạn, tổ chức, hoạt động, chế độ, chính sách đối với lực lượng bảo vệ tại các cơ quan nhà nước, doanh nghiệp, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội được thành lập theo quy định của pháp luật Việt Nam (sau đây gọi chung là cơ quan, doanh nghiệp).
+
+### 0100100000000000100000240246010006000020
+
+Điều 1.1.NĐ.5.2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, doanh nghiệp Việt Nam; doanh nghiệp, tổ chức nước ngoài hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam và cơ quan, tổ chức, cá nhân có liên quan đến hoạt động bảo vệ cơ quan, doanh nghiệp. Các cơ quan, doanh nghiệp do Công an nhân dân và Quân đội nhân dân quản lý không thuộc đối tượng áp dụng của Nghị định này.
+
+### 0100100000000000100000240249780006000010
+
+Điều 1.1.NĐ.6.1. Phạm vi điều chỉnh Nghị định này quy định nguyên tắc, nội dung, hình thức, trình tự, thủ tục, thẩm quyền, trách nhiệm và bảo đảm điều kiện áp dụng biện pháp vận động quần chúng bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội (sau đây gọi chung là bảo vệ an ninh, trật tự); chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia công tác bảo vệ an ninh, trật tự.
+
+### 0100100000000000100000240249780006000020
+
+Điều 1.1.NĐ.6.2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự; cơ quan, tổ chức Việt Nam, cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam (sau đây gọi chung là cơ quan, tổ chức); công dân Việt Nam, cá nhân nước ngoài cư trú, hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam (sau đây gọi chung là cá nhân). Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng quy định của điều ước quốc tế đó.
+
+### 0100100000000000100000280224600002000010
+
+Điều 1.1.TL.1.1. Phạm vi điều chỉnh và đối tượng áp dụng Thông tư này hướng dẫn về nhiệm vụ, quyền hạn, tổ chức hoạt động và chế độ chính sách đối với Bảo vệ dân phố.
+
+### 0100100000000000100000280252460046000010
+
+Điều 1.1.TT.1.1. Phạm vi điều chỉnh Thông tư này quy định chi tiết thi hành một số điều của Nghị định số 06/2013/NĐ-CP gồm: Nội dung các biện pháp nghiệp vụ bảo vệ; tổ chức, đơn vị sử dụng ngân sách nhà nước được thuê dịch vụ bảo vệ thường xuyên, lâu dài; công tác phối hợp giữa cơ quan Công an với các cơ quan, doanh nghiệp trong quản lý và kiểm tra việc thực hiện nhiệm vụ bảo vệ; huấn luyện nghiệp vụ bảo vệ; giấy chứng nhận nhân viên bảo vệ; trang bị, quản lý, sử dụng vũ khí thô sơ, công cụ hỗ trợ và các loại phương tiện đối với lực lượng bảo vệ cơ quan, doanh nghiệp.
+
+### 0100100000000000100000280252460046000020
+
+Điều 1.1.TT.1.2. Đối tượng áp dụng Thông tư này áp dụng đối với:
+
+### 0100100000000000100000280257240008000010
+
+Điều 1.1.TT.2.1. Phạm vi điều chỉnh Thông tư này quy định chi tiết về mẫu, cấu tạo, màu sắc, kiểu dáng trang phục, sao hiệu, cấp hiệu, phù hiệu, ký hiệu, biển hiệu (sau đây gọi chung là trang phục); niên hạn, cấp phát và sử dụng trang phục của lực lượng bảo vệ tại các cơ quan nhà nước, doanh nghiệp, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội được thành lập theo quy định của pháp luật Việt Nam (sau đây gọi chung là cơ quan, doanh nghiệp).
+
+### 0100100000000000100000280257240008000020
+
+Điều 1.1.TT.2.2. Đối tượng áp dụng 1. Thông tư này áp dụng đối với:
+
+### 0100100000000000100000280258120002000010
+
+Điều 1.1.TL.2.1. Phạm vi điều chỉnh Thông tư này quy định nguyên tắc, phương thức, nội dung và trách nhiệm phối hợp giữa cơ quan, đơn vị trong Công an nhân dân và cơ quan, tổ chức của ngành Văn hóa, Thể thao và Du lịch trong việc bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội (sau đây viết gọn là bảo đảm an ninh, trật tự) trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch.
+
+### 0100100000000000100000280258120002000020
+
+Điều 1.1.TL.2.2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan, đơn vị trong Công an nhân dân, cơ quan, tổ chức của ngành Văn hóa, Thể thao và Du lịch từ trung ương đến địa phương.
+
+### 0100100000000000100000280258590085000010
+
+Điều 1.1.TL.3.1. Phạm vi điều chỉnh Thông tư này quy định nguyên tắc, nội dung, phạm vi và trách nhiệm phối hợp ở các cơ quan, đơn vị thuộc và trực thuộc Bộ Tài chính và Bộ Công an trong thực hiện nhiệm vụ bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính.
+
+### 0100100000000000100000280258590085000020
+
+Điều 1.1.TL.3.2. Đối tượng áp dụng Thông tư này áp dụng đối với các cơ quan, đơn vị thuộc và trực thuộc Bộ Tài chính và Bộ Công an ở Trung ương và địa phương (sau đây gọi chung là hai bên) trong việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính.
+
+### 0100100000000000100000300000000000000000
+
+Điều 1.1.LQ.3. Giải thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0100100000000000100000340220600016000020
+
+Điều 1.1.NĐ.1.2. Giải thích từ ngữ Trong Nghị định này các từ ngữ sau đây được hiểu như sau:
+
+### 0100100000000000100000340239990035000030
+
+Điều 1.1.NĐ.4.3. Giải thích từ ngữ Trong Nghị định này, những từ ngữ sau đây được hiểu như sau:
+
+### 0100100000000000100000340249780006000030
+
+Điều 1.1.NĐ.6.3. Giải thích từ ngữ Trong Nghị định này, những từ ngữ sau đây được hiểu như sau:
+
+### 0100100000000000100000400000000000000000
+
+Điều 1.1.LQ.4. Chính sách an ninh quốc gia 1. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện chính sách hòa bình, hữu nghị, mở rộng giao lưu và hợp tác với tất cả các nước trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ của nhau, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.
+
+### 0100100000000000100000500000000000000000
+
+Điều 1.1.LQ.5. Nguyên tắc hoạt động bảo vệ an ninh quốc gia 1. Tuân thủ Hiến pháp, pháp luật, bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+
+### 010010000000000010000050000000000000000000402214200380000300
+
+Điều 1.1.NĐ.2.3. Nguyên tắc hoạt động của Bảo vệ dân phố Bảo vệ dân phố chịu sự lãnh đạo toàn diện của Đảng uỷ phường, sự giám sát của Hội đồng nhân dân phường, sự quản lý điều hành của Ủy ban nhân dân phường và sự chỉ đạo, hướng dẫn trực tiếp công tác của Công an phường.
+
+### 010010000000000010000050000000000000000000402399900350000400
+
+Điều 1.1.NĐ.4.4. Nguyên tắc áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự 1. Cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi thực hiện biện pháp pháp luật bảo vệ an ninh, trật tự phải:
+
+### 010010000000000010000050000000000000000000402460100060000300
+
+Điều 1.1.NĐ.5.3. Nguyên tắc tổ chức và hoạt động của lực lượng bảo vệ cơ quan, doanh nghiệp 1. Tổ chức bảo vệ cơ quan, doanh nghiệp do người đứng đầu cơ quan, doanh nghiệp quyết định thành lập; chịu sự chỉ đạo, điều hành trực tiếp của người đứng đầu cơ quan, doanh nghiệp và hướng dẫn, kiểm tra về nghiệp vụ bảo vệ của cơ quan Công an.
+
+### 010010000000000010000050000000000000000000402497800060000400
+
+Điều 1.1.NĐ.6.4. Nguyên tắc áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự 1. Tuân thủ Hiến pháp, pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+### 0100100000000000100000600000000000000000
+
+Điều 1.1.LQ.6. Xây dựng lực lượng bảo vệ an ninh quốc gia 1. Nhà nước xây dựng lực lượng chuyên trách bảo vệ an ninh quốc gia cách mạng, chính quy, tinh nhuệ, từng bước hiện đại làm nòng cốt thực hiện nhiệm vụ bảo vệ an ninh quốc gia.
+
+### 010010000000000010000060000000000000000000402214200380000200
+
+Điều 1.1.NĐ.2.2. Vị trí, chức năng của Bảo vệ dân phố 1. Bảo vệ dân phố là lực lượng quần chúng tự nguyện làm nòng cốt trong phong trào bảo vệ an ninh quốc gia và trật tự an toàn xã hội, được thành lập ở các phường, thị trấn (sau đây gọi chung là phường) nơi bố trí lực lượng Công an chính quy, do Ủy ban nhân dân phường quyết định thành lập.
+
+### 010010000000000010000060000000000000000000402214200380000500
+
+Điều 1.1.NĐ.2.5. Nhiệm vụ của Bảo vệ dân phố 1. Nắm tình hình an ninh, trật tự, phát hiện các vụ việc mâu thuẫn, tranh chấp trong nội bộ nhân dân, các vụ vi phạm hành chính, vi phạm trật tự an toàn xã hội trên địa bàn phường; phản ánh cho cơ quan Công an và Ủy ban nhân dân phường, có biện pháp phòng ngừa, ngăn chặn; tham gia hoà giải, giải quyết kịp thời không để những hậu quả xấu xảy ra.
+
+### 01001000000000001000006000000000000000000040221420038000050000802246000020000200
+
+Điều 1.1.TL.1.2. Nhiệm vụ của bảo vệ dân phố 1. Nắm tình hình an ninh trật tự, phát hiện các vụ việc mâu thuẫn, tranh chấp trong nội bộ nhân dân, các vụ vi phạm hành chính, vi phạm trật tự an toàn xã hội trên địa bàn phường, phản ánh cho cơ quan Công an và Ủy ban nhân dân phường có biện pháp phòng ngừa, ngăn chặn, tham gia hòa giải, giải quyết kịp thời không để những hậu quả xấu xảy ra. Cụ thể là:
+
+### 010010000000000010000060000000000000000000402214200380000600
+
+Điều 1.1.NĐ.2.6. Quyền hạn của Bảo vệ dân phố 1. Bắt, tước hung khí và áp giải người phạm tội quả tang, người đang bị truy nã, trốn thi hành án phạt tù đến trụ sở Công an phường theo quy định của pháp luật.
+
+### 01001000000000001000006000000000000000000040221420038000060000802246000020000300
+
+Điều 1.1.TL.1.3. Quyền hạn của bảo vệ dân phố 1. Bắt, tước hung khí và áp giải người phạm pháp quả tang, người đang bị truy nã trốn thi hành án phạt tù đến trụ sở Công an phường theo đúng quy định của pháp luật:
+
+### 010010000000000010000060000000000000000000402214200380000700
+
+Điều 1.1.NĐ.2.7. Tổ chức của Bảo vệ dân phố l. Mỗi cụm dân cư được thành lập một tổ Bảo vệ dân phố. Tổ trưởng và các tổ viên tổ Bảo vệ dân phố do đại diện các hộ gia đình trong cụm dân cư bầu ra. Tuỳ vào tình hình đặc điểm và số lượng dân cư trên địa bàn, mỗi tổ Bảo vệ dân phố có từ 3 đến 7 tổ viên.
+
+### 01001000000000001000006000000000000000000040221420038000070000802246000020000400
+
+Điều 1.1.TL.1.4. Tổ chức của bảo vệ dân phố 1. Mỗi cụm dân cư (theo địa bàn công tác của Cảnh sát khu vực) thành lập một Tổ Bảo vệ dân phố do tổ trưởng phụ trách. Tùy theo đặc điểm tình hình và số lượng dân cư, mỗi Tổ Bảo vệ dân phố có từ 3 đến 7 tổ viên. Đối với tổ Bảo vệ dân phố có từ 5 tổ viên trở lên có thể bầu thêm 1 tổ phó giúp việc.
+
+### 010010000000000010000060000000000000000000402214200380000800
+
+Điều 1.1.NĐ.2.8. Điều kiện, tiêu chuẩn của Bảo vệ dân phố 1. Công dân Việt Nam từ đủ 18 tuổi trở lên, cư trú ổn định tại địa bàn.
+
+### 01001000000000001000006000000000000000000040221420038000080000802246000020000500
+
+Điều 1.1.TL.1.5. Điều kiện, tiêu chuẩn tham gia lực lượng bảo vệ dân phố Điều kiện, tiêu chuẩn tham gia lực lượng Bảo vệ dân phố được thực hiện theo quy định tại Điều 8, Nghị định số 38/2006/NĐ-CP. Cần lưu ý một số điểm sau đây:
+
+### 010010000000000010000060000000000000000000402214200380000900
+
+Điều 1.1.NĐ.2.9. Lề lối làm việc của Bảo vệ dân phố 1. Trưởng Ban Bảo vệ dân phố chịu trách nhiệm quản lý tổ chức và điều hành mọi hoạt động của Ban Bảo vệ dân phố, thường xuyên báo cáo tình hình kết quả thực hiện các mặt công tác của Bảo vệ dân phố với Ủy ban nhân dân phường và Công an phường
+
+### 01001000000000001000006000000000000000000040221420038000090000802246000020000600
+
+Điều 1.1.TL.1.6. Lề lối làm việc, mối quan hệ công tác của bảo vệ dân phố 1. Lề lối làm việc:
+
+### 010010000000000010000060000000000000000000402214200380001000
+
+Điều 1.1.NĐ.2.10. Mối quan hệ công tác của Bảo vệ dân phố l. Đối với Đảng ủy, Ủy ban nhân dân phường: Bảo vệ dân phố chịu sự lãnh đạo, điều hành, quản lý về tổ chức và chỉ đạo chung về công tác.
+
+### 010010000000000010000060000000000000000000402460100060000400
+
+Điều 1.1.NĐ.5.4. Nghiệp vụ bảo vệ 1. Nghiệp vụ bảo vệ là tổng hợp các biện pháp chuyên môn trang bị cho lực lượng bảo vệ nhằm bảo đảm an ninh, trật tự và an toàn cơ quan, doanh nghiệp. Biện pháp nghiệp vụ bảo vệ bao gồm:
+
+### 01001000000000001000006000000000000000000040246010006000040000802524600460000300
+
+Điều 1.1.TT.1.3. Nội dung các biện pháp nghiệp vụ bảo vệ 1. Nội dung của biện pháp hành chính
+
+### 010010000000000010000060000000000000000000402460100060000500
+
+Điều 1.1.NĐ.5.5. Huấn luyện nghiệp vụ bảo vệ Huấn luyện, bồi dưỡng nghiệp vụ bảo vệ do Công an cấp tỉnh hoặc cấp tương đương tổ chức và cấp giấy chứng nhận.
+
+### 010010000000000010000060000000000000000000402460100060000600
+
+Điều 1.1.NĐ.5.6. Tiêu chuẩn nhân viên bảo vệ Công dân Việt Nam đủ 18 tuổi trở lên; có lý lịch rõ ràng; phẩm chất chính trị, đạo đức tốt; có trình độ học vấn tốt nghiệp trung học phổ thông trở lên (đối với miền núi, biên giới, hải đảo, vùng sâu, vùng xa có trình độ học vấn tốt nghiệp trung học cơ sở trở lên), có đầy đủ năng lực hành vi dân sự và đủ sức khỏe đáp ứng yêu cầu công tác bảo vệ. Ưu tiên tuyển dụng lực lượng bảo vệ là những người đã có thời gian công tác trong lực lượng Công an nhân dân và Quân đội nhân dân.
+
+### 010010000000000010000060000000000000000000402460100060000900
+
+Điều 1.1.NĐ.5.9. Chức năng của lực lượng bảo vệ cơ quan, doanh nghiệp 1. Tham mưu giúp cấp ủy, lãnh đạo cơ quan, doanh nghiệp xây dựng và tổ chức thực hiện nội quy, kế hoạch công tác bảo vệ; bảo đảm an ninh, trật tự, an toàn cơ quan, doanh nghiệp; triển khai các yêu cầu công tác bảo vệ theo chỉ đạo, hướng dẫn của cơ quan Công an có thẩm quyền.
+
+### 010010000000000010000060000000000000000000402460100060001000
+
+Điều 1.1.NĐ.5.10. Nhiệm vụ của lực lượng bảo vệ cơ quan, doanh nghiệp 1. Lực lượng bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị có nhiệm vụ:
+
+### 010010000000000010000060000000000000000000402460100060001100
+
+Điều 1.1.NĐ.5.11. Quyền hạn của lực lượng bảo vệ cơ quan, doanh nghiệp 1. Lực lượng bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị có quyền hạn sau:
+
+### 010010000000000010000060000000000000000000402460100060001200
+
+Điều 1.1.NĐ.5.12. Tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp 1. Tổ chức lực lượng bảo vệ tại các cơ quan, doanh nghiệp nhà nước, tổ chức chính trị nằm trong hệ thống tổ chức của các cơ quan, doanh nghiệp; tùy theo yêu cầu, quy mô, tính chất của cơ quan, doanh nghiệp mà thành lập phòng, ban, đội, tổ bảo vệ.
+
+### 0100100000000000100000700000000000000000
+
+Điều 1.1.LQ.7. Bảo đảm điều kiện cho hoạt động bảo vệ an ninh quốc gia Nhà nước bảo đảm ngân sách và cơ sở vật chất cho các hoạt động bảo vệ an ninh quốc gia trong mọi tình huống, ưu tiên các địa bàn chiến lược, xung yếu, quan trọng về an ninh quốc gia; có chính sách huy động thành tựu khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh quốc gia.
+
+### 010010000000000010000070000000000000000000402214200380001200
+
+Điều 1.1.NĐ.2.12. Trang bị phương tiện đối với Bảo vệ dân phố l. Bảo vệ dân phố được trang bị và sử dụng vũ khí thô sơ, công cụ hỗ trợ theo quy định của pháp luật.
+
+### 010010000000000010000070000000000000000000402214200380001300
+
+Điều 1.1.NĐ.2.13. Kinh phí hoạt động của Bảo vệ dân phố 1. Kinh phí hoạt động của bảo vệ dân phố được bảo đảm từ các nguồn sau:
+
+### 01001000000000001000007000000000000000000040221420038000130000802246000020000700
+
+Điều 1.1.TL.1.7. Chế độ, chính sách, trang bị phương tiện và kinh phí đảm bảo hoạt động cho hoạt động của bảo vệ dân phố 1. Chế độ, chính sách đối với Bảo vệ dân phố
+
+### 010010000000000010000070000000000000000000402233501270000300
+
+Điều 1.1.NĐ.3.3. Nguyên tắc bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự 1. Căn cứ vào khả năng cân đối của ngân sách, Nhà nước bảo đảm điều kiện về ngân sách và cơ sở vật chất đáp ứng yêu cầu bào vệ an ninh, trật tự trong mọi tình huống, trong đó ưu tiên cho các địa bàn chiến lược, xung yếu, quan trọng về an ninh, trật tự.
+
+### 010010000000000010000070000000000000000000402233501270000400
+
+Điều 1.1.NĐ.3.4. Nội dung bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự 1. Bảo đảm điều kiện về ngân sách và cơ sở vật chất cho hoạt động bảo vệ an ninh, trật tự bao gồm: đầu tư tài chính, trang bị vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ, đất đai, trụ sở, công trình, cơ sở công nghiệp và các điều kiện vật chất, kỹ thuật khác cho hoạt động bảo vệ an ninh, trật tự.
+
+### 010010000000000010000070000000000000000000402233501270000500
+
+Điều 1.1.NĐ.3.5. Hình thức và phương thức huy động nguồn lực phục vụ hoạt động bảo vệ an ninh, trật tự 1. Việc huy động các nguồn lực của các tổ chức, cá nhân phục vụ hoạt động bảo vệ an ninh, trật tự được thực hiện theo hình thức trưng thu, trưng mua và trọng dụng.
+
+### 010010000000000010000070000000000000000000402233501270000600
+
+Điều 1.1.NĐ.3.6. Quyền lợi của các tổ chức, cá nhân có nguồn lực được huy động cho hoạt động bảo vệ an ninh, trật tự 1. Trường hợp nguồn lực của các tổ chức, cá nhân được huy động theo phương thức bắt buộc nhưng không phải trưng mua thì cơ quan chuyên trách bảo vệ an ninh, trật tự phải hoàn trả ngay cho cá nhân, tổ chức có nguồn lực được huy động khi tình huống, yếu tố có ảnh hưởng trực tiếp đến an ninh, trật tự không còn. Nếu xảy ra thiệt hại thì cơ quan chuyên trách bảo vệ an ninh, trật tự có trách nhiệm bồi thường theo quy định của pháp luật.
+
+### 010010000000000010000070000000000000000000402233501270000700
+
+Điều 1.1.NĐ.3.7. Bảo vệ bí mật Nhà nước trong bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự Các hoạt động bảo đảm điều kiện về ngân sách, cơ sở vật chất, dự trữ quốc gia cho hoạt động bảo vệ an ninh, trật tự và chính sách huy động thành tựu khoa học, công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự phải tuân thủ những quy định có liên quan về bảo vệ bí mật Nhà nước.
+
+### 010010000000000010000070000000000000000000402233501270000800
+
+Điều 1.1.NĐ.3.8. Ngân sách bảo đảm cho các hoạt động bảo vệ an ninh, trật tự 1. Ngân sách Nhà nước bảo đảm cho các hoạt động bảo vệ an ninh, trật tự được cân đối, bố trí trong dự toán ngân sách hàng năm giao cho các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương và Ủy ban nhân dân các cấp theo quy định của Luật Ngân sách Nhà nước.
+
+### 010010000000000010000070000000000000000000402233501270000900
+
+Điều 1.1.NĐ.3.9. Cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự Cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự được Nhà nước bảo đảm, bao gồm: đất đai, trụ sở, công trình, trang thiết bị, vũ khí, công cụ hỗ trợ, phương tiện giao thông, phương tiện thông tin liên lạc, phương tiện kỹ thuật nghiệp vụ và các điều kiện vật chất, kỹ thuật khác.
+
+### 010010000000000010000070000000000000000000402233501270001000
+
+Điều 1.1.NĐ.3.10. Thẩm quyền trưng thu, trưng mua, trưng dụng cơ sở vật chất phục vụ hoạt động bảo vệ an ninh, trật tự 1. Thủ tướng Chính phủ có thẩm quyền quyết định trưng thu, trưng mua, trưng dụng đối với đất đai, công trình, thiết bị, phương tiện giao thông, thông tin liên lạc và người điều khiển sử dụng các phương tiện đó hoặc các tài sản khác của tổ chức, cá nhân.
+
+### 010010000000000010000070000000000000000000402233501270001100
+
+Điều 1.1.NĐ.3.11. Sản xuất, cấp phát vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ phục vụ hoạt động bảo vệ an ninh, trật tự 1. Hàng năm, căn cứ vào yêu cầu nhiệm vụ bảo vệ an ninh, trật tự, cơ quan chuyên trách bảo vệ an ninh trật tự dự trù số lượng, chủng loại vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ cần thiết phục vụ hoạt động bảo vệ an ninh, trật tự, báo cáo Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quyết định cấp phát.
+
+### 010010000000000010000070000000000000000000402233501270001200
+
+Điều 1.1.NĐ.3.12. Thu hồi, thanh lý, tiêu huỷ vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ phục vụ hoạt động bảo vệ an ninh, trật tự 1. Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh, trật tự được giao quản lý, sử dựng vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ khi chuyển công tác khác hoặc về hưu, chuyển ngành, bị kỷ luật buộc thôi việc hoặc theo quyết định, mệnh lệnh, yêu cầu của người có thẩm quyền phải giao trả lại cho đơn vị chủ quản vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ đã được trang bị.
+
+### 010010000000000010000070000000000000000000402233501270001300
+
+Điều 1.1.NĐ.3.13. Xây dựng, phát triển cơ sở hạ tầng thông tin phục vụ hoạt động bảo vệ an ninh, trật tự 1. Bộ Công an, Bộ Quốc phòng, theo chức năng và nhiệm vụ, chủ trì, phối hợp với Bộ Bưu chính, Viễn thông, Bộ Khoa học và Công nghệ, Ban Cơ yếu Chính phủ xây dựng, phát triển, hiện đại hoá cơ sở hạ tầng thông tin của cơ quan chuyên trách bảo vệ an ninh, trật tự để đáp ứng yêu cầu bảo vệ an ninh, trật tự trong mọi tình huống.
+
+### 010010000000000010000070000000000000000000402233501270001400
+
+Điều 1.1.NĐ.3.14. Đầu tư, phát triển xây dựng các cơ sở nghiên cứu khoa học, công nghệ, huấn luyện, đào tạo phục vụ hoạt động bảo vệ an ninh, trật tự 1. Bộ Công an, Bộ Quốc phòng, theo chức năng và nhiệm vụ, chủ trì, phối hợp với các Bộ, ngành hữu quan quy định cụ thể và tổ chức thực hiện chính sách ưu tiên đầu tư phát triển, hiện đại hoá các học viện, viện nghiên cứu, nhà trường và các cơ sở nghiên cứu, đào tạo khác thuộc lực lượng chuyên trách bảo vệ an ninh, trật tự; nghiên cứu, ứng dụng các thành tựu khoa học, kỹ thuật, công nghệ vào công tác bảo vệ an ninh, trật tự; tổ chức đào tạo, bồi dưỡng, huấn luyện các cán bộ, chuyên gia khoa học, kỹ thuật, nghiệp vụ có trình độ để đáp ứng nhu cầu công tác bảo vệ an ninh, trật tự; huấn luyện, bồi dưỡng kiến thức bảo đảm an ninh, trật tự cho cán bộ chủ chốt của các cơ quan, tổ chức khác.
+
+### 010010000000000010000070000000000000000000402233501270001500
+
+Điều 1.1.NĐ.3.15. Việc ưu tiên bảo đảm điều kiện về cơ sở vật chất cho các địa bàn chiến lược, xung yếu Bộ Công an chủ trì, phối hợp với các Bộ, ngành liên quan nghiên cứu, đề xuất cấp có thẩm quyền thực hiện chính sách ưu tiên trang bị vũ khí, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật nghiệp vụ, đất đai, trụ sở, công trình và đầu tư xây dựng, củng cố các cơ sở công nghiệp, cơ sở nghiên cứu khoa học, công nghệ, hệ thống thông tin liên lạc và các điều kiện vật chất, kỹ thuật khác đảm bảo tăng cường hoạt động bảo vệ an ninh, trật tự trên địa bàn.
+
+### 010010000000000010000070000000000000000000402233501270001600
+
+Điều 1.1.NĐ.3.16. Dự trữ quốc gia để bảo đảm hoạt động bảo vệ an ninh, trật tự Dự trữ quốc gia để bảo đảm hoạt động bảo vệ an ninh, trật tự, nằm trong chiến lược dự trữ quốc gia. Chính phủ có kế hoạch dự trữ dài hạn, trung hạn và hàng năm về ngân sách, hàng dự trữ quốc gia và các loại tài sản khác bảo đảm điều kiện cho các hoạt động bảo vệ an ninh, trật tự trong mọi tình huống.
+
+### 010010000000000010000070000000000000000000402233501270001700
+
+Điều 1.1.NĐ.3.17. Chuyển giao công nghệ và kết quả nghiên cứu khoa bọc và phát triển công nghệ 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp, doanh nghiệp nhà nước, các tổ chức, cá nhân hoạt động khoa học và công nghệ có trách nhiệm chuyển giao kết quả nghiên cứu khoa học và phát triển công nghệ tiên tiến liên quan đến an ninh, trật tự cho cơ quan chuyên trách bảo vệ an ninh, trật tự theo các phương thức sau:
+
+### 010010000000000010000070000000000000000000402233501270001800
+
+Điều 1.1.NĐ.3.18. Xây dựng, củng cố, tăng cường tiềm lực thông tin, cơ sở dữ liệu, tư liệu khoa học và công nghệ Các cơ quan, tổ chức liên quan có trách nhiệm phối hợp chặt chẽ với Bộ Công an, Bộ Quốc phòng xây dựng, củng cố, tăng cường tiềm lực thông tin, cơ sở dữ liệu, tư liệu khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh, trật tự bao gồm:
+
+### 010010000000000010000070000000000000000000402233501270001900
+
+Điều 1.1.NĐ.3.19. Khen thưởng, xử lý vi phạm và khiếu nại, tố cáo 1. Tổ chức và cá nhân có thành tích trong việc bảo đảm điều kiện cho hoạt động bảo vệ an ninh, trật tự theo Nghị định này thì được khen thưởng theo quy định của pháp luật.
+
+### 010010000000000010000070000000000000000000402399900350000900
+
+Điều 1.1.NĐ.4.9. Ngân sách bảo đảm cho việc áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự 1. Ngân sách nhà nước bảo đảm cho việc áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự được bố trí trong dự toán ngân sách nhà nước của các Bộ, cơ quan ngang Bộ, cơ quan trung ương khác của Ủy ban nhân dân các cấp theo quy định của Luật Ngân sách nhà nước.
+
+### 010010000000000010000070000000000000000000402460100060001500
+
+Điều 1.1.NĐ.5.15. Trang bị phương tiện đối với bảo vệ cơ quan, doanh nghiệp 1. Lực lượng bảo vệ cơ quan, doanh nghiệp được cấp trang phục, trang bị và sử dụng vũ khí thô sơ, công cụ hỗ trợ theo quy định của pháp luật.
+
+### 01001000000000001000007000000000000000000040246010006000150000802524600460000800
+
+Điều 1.1.TT.1.8. Trang bị, quản lý, sử dụng vũ khí thô sơ, công cụ hỗ trợ và các loại phương tiện đối với lực lượng bảo vệ cơ quan, doanh nghiệp 1. Căn cứ vào yêu cầu và tình hình thực tế hoạt động, lực lượng bảo vệ cơ quan, doanh nghiệp được xem xét, trang bị công cụ hỗ trợ, bao gồm: Dùi cui điện, dùi cui kim loại, dùi cui cao su, găng tay bắt dao.
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080000300
+
+Điều 1.1.TT.2.3. Yêu cầu đối với trang phục của lực Iượng bảo vệ cơ quan, doanh nghiệp 1. Bảo đảm tính thống nhất, đồng bộ và phù hợp với yêu cầu công tác của lực lượng bảo vệ cơ quan, doanh nghiệp.
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080000400
+
+Điều 1.1.TT.2.4. Quy định về mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp Ban hành kèm theo Thông tư này biểu mẫu trang phục của lực lượng bảo vệ cơ quan, doanh nghiệp, cụ thể như sau:
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080000500
+
+Điều 1.1.TT.2.5. Sao hiệu 1. Kiểu dáng: Theo mẫu số 01 ban hành kèm theo Thông tư này.
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080000600
+
+Điều 1.1.TT.2.6. Cấp hiệu 1. Kiểu dáng: Theo mẫu số 02 ban hành kèm theo Thông tư này.
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080000700
+
+Điều 1.1.TT.2.7. Phù hiệu 1. Kiểu dáng: Theo mẫu số 03 ban hành kèm theo Thông tư này.
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080000800
+
+Điều 1.1.TT.2.8. Biển hiệu 1. Kiểu dáng: Theo mẫu số 04 ban hành kèm theo Thông tư này.
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080000900
+
+Điều 1.1.TT.2.9. Ký hiệu 1. Kiểu dáng: Theo mẫu số 05 ban hành kèm theo Thông tư này.
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080001000
+
+Điều 1.1.TT.2.10. Mũ 1. Kiểu dáng: Theo mẫu số 06 ban hành kèm theo Thông tư này.
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080001100
+
+Điều 1.1.TT.2.11. Quần áo xuân hè 1. Kiểu dáng: Theo mẫu số 07 ban hành kèm theo Thông tư này, cụ thể như sau:
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080001200
+
+Điều 1.1.TT.2.12. Quần áo thu đông, caravat 1. Kiểu dáng: Theo mẫu số 08, mẫu số 09 ban hành kèm theo Thông tư này, cụ thể như sau:
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080001300
+
+Điều 1.1.TT.2.13. Dây lưng, bít tất, giày da, quần áo đi mưa 1. Dây lưng
+
+### 01001000000000001000007000000000000000000040246010006000150000802572400080001400
+
+Điều 1.1.TT.2.14. Niên hạn, cấp phát, sử dụng trang phục 1. Niên hạn trang phục:
+
+### 010010000000000010000070000000000000000000402460100060001600
+
+Điều 1.1.NĐ.5.16. Kinh phí hoạt động của lực lượng bảo vệ cơ quan, doanh nghiệp 1. Kinh phí hoạt động của lực lượng bảo vệ tại các cơ quan, tổ chức được bảo đảm chung trong kinh phí hoạt động thường xuyên của các cơ quan, tổ chức đó.
+
+### 01001000000000001000007000000000000000000040246010006000160000802572400080001500
+
+Điều 1.1.TT.2.15. Kinh phí bảo đảm trang bị trang phục cho lực lượng bảo vệ cơ quan, doanh nghiệp 1. Kinh phí bảo đảm trang bị trang phục cho lực lượng bảo vệ cơ quan được chi trong nguồn kinh phí hoạt động thường xuyên của cơ quan.
+
+### 010010000000000010000070000000000000000000402497800060001100
+
+Điều 1.1.NĐ.6.11. Kinh phí bảo đảm thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự 1. Nguồn kinh phí bảo đảm thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự:
+
+### 0100100000000000100000800000000000000000
+
+Điều 1.1.LQ.8. Trách nhiệm, nghĩa vụ bảo vệ an ninh quốc gia Bảo vệ an ninh quốc gia là sự nghiệp của toàn dân. Cơ quan, tổ chức, công dân có trách nhiệm, nghĩa vụ bảo vệ an ninh quốc gia theo quy định của pháp luật.
+
+### 010010000000000010000080000000000000000000402214200380000400
+
+Điều 1.1.NĐ.2.4. Trách nhiệm của cán Bộ, đơn vị, tổ chức và cá nhân trong việc xây dựng, củng cố Bảo vệ dân phố Các Bộ, cơ quan ngang Bộ, cơ quan thuế Chính phủ, Ủy ban nhân dân các cấp, các đơn vị lực lượng vũ trang nhân dân, các tổ chức chính trị xã hội, tổ chức xã hội nghề nghiệp và mọi công dân có trách nhiệm tham gia xây dựng và giúp đỡ lực lượng Bảo vệ dân phố thực hiện nhiệm vụ.
+
+### 0100100000000000100000900000000000000000
+
+Điều 1.1.LQ.9. Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân trong hoạt động bảo vệ an ninh quốc gia 1. Nhà nước bảo vệ, giữ bí mật cho cán bộ, chiến sĩ thuộc lực lượng chuyên trách bảo vệ an ninh quốc gia và cơ quan, tổ chức, cá nhân tham gia bảo vệ an ninh quốc gia.
+
+### 010010000000000010000090000000000000000000402206000160000300
+
+Điều 1.1.NĐ.1.3. Khôi phục danh dự, đền bù, trợ cấp 1. Việc khôi phục danh dự cho cơ quan, tổ chức, cá nhân bị tổn hại về danh dự (sau đây gọi chung là đối tượng bị tổn hại về danh dự) do tham gia bảo vệ an ninh quốc gia được cơ quan nhà nước có thẩm quyền thực hiện là thông báo cải chính, xin lỗi công khai trên các phương tiện thông tin đại chúng hoặc thông báo cải chính, xin lỗi trực tiếp đối tượng bị tổn hại về danh dự trong trường hợp cần giữ bí mật đối với cơ quan, tổ chức, cá nhân.
+
+### 010010000000000010000090000000000000000000402206000160000400
+
+Điều 1.1.NĐ.1.4. Quyền của cơ quan, tổ chức, cá nhân bị thiệt hại 1. Cơ quan, tổ chức, cá nhân bị thiệt hại do tham gia bảo vệ an ninh quốc gia hoặc thông qua người đại diện hợp pháp của họ có quyền đề nghị cơ quan nhà nước có thẩm quyền khôi phục danh dự, đền bù thiệt hại về tài sản; thực hiện chế độ trợ cấp đối với người bị thiệt hại về tính mạng và sức khỏe.
+
+### 010010000000000010000090000000000000000000402206000160000500
+
+Điều 1.1.NĐ.1.5. Trách nhiệm xem xét, giải quyết việc khôi phục danh dự, đền bù, trợ cấp 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm xem xét, quyết định kịp thời việc khôi phục danh dự, đền bù thiệt hại, trợ cấp cho đối tượng bị thiệt hại do tham gia bảo vệ an ninh quốc gia theo quy định của Nghị định này và quy định khác của pháp luật có liên quan.
+
+### 010010000000000010000090000000000000000000402206000160000600
+
+Điều 1.1.NĐ.1.6. Hình thức khôi phục danh dự 1. Việc khôi phục danh dự được thực hiện đối với đối tượng bị tổn hại về danh dự.
+
+### 010010000000000010000090000000000000000000402206000160000700
+
+Điều 1.1.NĐ.1.7. Thẩm quyền quyết định và thủ tục giải quyết khôi phục danh dự 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia các cấp có trách nhiệm xem xét, quyết định việc khôi phục danh dự cho đối tượng bị tổn hại về danh dự do cơ quan mình quản lý. Trường hợp đối tượng bị tổn hại về danh dự không do cơ quan chuyên trách bảo vệ an ninh quốc gia quản lý thì xem xét, đề nghị cơ quan có thẩm quyền xem xét, quyết định.
+
+### 010010000000000010000090000000000000000000402206000160000800
+
+Điều 1.1.NĐ.1.8. Thiệt hại về tài sản được đền bù 1. Thiệt hại về tài sản được đền bù bao gồm:
+
+### 010010000000000010000090000000000000000000402206000160000900
+
+Điều 1.1.NĐ.1.9. Thủ tục giải quyết đền bù thiệt hại về tài sản 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia các cấp có trách nhiệm xem xét, quyết định việc đền bù thiệt hại về tài sản cho đối tượng bị thiệt hại về tài sản do cơ quan mình trực tiếp quản lý. Trường hợp vụ việc do cơ quan, tổ chức khác phát hiện thì cơ quan, tổ chức đó có trách nhiệm chuyển giao cho cơ quan chuyên trách bảo vệ an ninh quốc gia có thẩm quyền những tài liệu có liên quan đến sự việc đã gây thiệt hại về tài sản để xem xét, quyết định việc đền bù.
+
+### 010010000000000010000090000000000000000000402206000160001000
+
+Điều 1.1.NĐ.1.10. Thẩm quyền quyết định đền bù thiệt hại về tài sản 1. Những người sau đây có thẩm quyền quyết định đền bù thiệt hại về tài sản có giá trị đến dưới 5.000.000 (năm triệu) đồng đối với đối tượng bị thiệt hại về tài sản do đơn vị mình quản lý:
+
+### 010010000000000010000090000000000000000000402206000160001100
+
+Điều 1.1.NĐ.1.11. Trợ cấp cho người bị thiệt hại về sức khoẻ Trợ cấp cho người bị thiệt hại về sức khỏe bao gồm:
+
+### 010010000000000010000090000000000000000000402206000160001200
+
+Điều 1.1.NĐ.1.12. Thẩm quyền quyết định trợ cấp cho người bị thiệt hại về sức khoẻ 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia có trách nhiệm xem xét, quyết định việc trợ cấp đối với người bị thiệt hại về sức khoẻ do cơ quan mình quản lý. Trường hợp vụ việc do cơ quan, tổ chức khác phát hiện thì cơ quan, tổ chức đó có trách nhiệm chuyển giao cho cơ quan chuyên trách bảo vệ an ninh quốc gia những tài liệu có liên quan đến sự việc đã gây ra thiệt hại để xem xét, quyết định việc trợ cấp.
+
+### 010010000000000010000090000000000000000000402206000160001300
+
+Điều 1.1.NĐ.1.13. Trợ cấp cho trường hợp người bị thiệt hại về tính mạng Trợ cấp một lần cho trường hợp người bị thiệt hại về tính mạng bao gồm:
+
+### 010010000000000010000090000000000000000000402206000160001400
+
+Điều 1.1.NĐ.1.14. Thẩm quyền quyết định trợ cấp cho trường hợp người bị thiệt hại về tính mạng 1. Theo đề nghị của Thủ trưởng cơ quan chuyên trách bảo vệ an ninh quốc gia, Giám đốc Sở Lao động - Thương binh và Xã hội nơi có người bị thiệt hại về tính mạng xem xét, quyết định trợ cấp cho người bị thiệt hại về tính mạng không quá 10.000.000 (mười triệu) đồng cho một trường hợp.
+
+### 010010000000000010000090000000000000000000402206000160001500
+
+Điều 1.1.NĐ.1.15. Thủ tục giải quyết trợ cấp cho người bị thiệt hại về sức khoẻ, người bị thiệt hại về tính mạng 1. Người bị thiệt hại về sức khỏe, gia đình của người thiệt hại về tính mạng do tham gia bảo vệ an ninh quốc gia hoặc người đại diện hợp pháp của họ có quyền đề nghị trực tiếp hoặc gửi đơn đến cơ quan chuyên trách bảo vệ an ninh quốc gia nơi mình cư trú, đề nghị được trợ cấp. Đơn cần trình bày rõ nội dung sự việc đã gây ra thiệt hại, những thương tích, tổn hại về sức khoẻ, thiệt hại về tính mạng, kèm theo giấy tờ, hóa đơn chứng từ xác nhận các chi phí, giấy tờ chứng tử trong trường hợp chết và các giấy tờ liên quan khác để làm căn cứ giúp cơ quan có trách nhiệm xem xét, quyết định trợ cấp. Trường hợp cần bổ sung tài liệu làm căn cứ xem xét, giải quyết trợ cấp thì cơ quan nhận đơn phải hướng dẫn người bị thiệt hại thu thập, cung cấp bổ sung tài liệu, hoặc tự mình thu thập, bổ sung.
+
+### 010010000000000010000090000000000000000000402206000160001600
+
+Điều 1.1.NĐ.1.16. Kinh phí để đền bù thiệt hại và trợ cấp 1. Kinh phí để đền bù thiệt hại và trợ cấp do ngân sách nhà nước bảo đảm.
+
+### 010010000000000010000090000000000000000000402206000160001700
+
+Điều 1.1.NĐ.1.17. Giải quyết khiếu nại, tố cáo Việc giải quyết khiếu nại, tố cáo về hành vi vi phạm các quy định của Nghị định này và quy định khác của pháp luật có liên quan được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.
+
+### 010010000000000010000090000000000000000000402214200380001100
+
+Điều 1.1.NĐ.2.11. Chế độ chính sách đối với Bảo vệ dân phố 1. Bảo vệ dân phố được hưởng phụ cấp hàng tháng do Ủy ban nhân dân phường chi trả. Căn cứ vào điều kiện cụ thể và cân đối nguồn ngân sách của từng địa phương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định mức phụ cấp cho từng chức danh Bảo vệ dân phố ở địa phương mình.
+
+### 010010000000000010000090000000000000000000402460100060001300
+
+Điều 1.1.NĐ.5.13. Chế độ, chính sách đối với nhân viên bảo vệ cơ quan, doanh nghiệp nhà nước, tổ chức chính trị 1. Nhân viên bảo vệ khi hết thời hạn thử việc, được đánh giá đạt yêu cầu thì được xem xét tuyển dụng, được hưởng lương và các quyền lợi, chế độ, chính sách theo quy định của pháp luật.
+
+### 010010000000000010000090000000000000000000402460100060001400
+
+Điều 1.1.NĐ.5.14. Chế độ, chính sách của nhân viên bảo vệ tại cơ quan, doanh nghiệp khác Chế độ, chính sách của nhân viên bảo vệ tại các cơ quan, doanh nghiệp khác do Hội đồng quản trị, Hội đồng thành viên hoặc người đứng đầu cơ quan, doanh nghiệp quyết định thông qua hợp đồng lao động trên cơ sở quy định của pháp luật.
+
+### 010010000000000010000090000000000000000000402497800060001000
+
+Điều 1.1.NĐ.6.10. Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia công tác bảo vệ an ninh, trật tự 1. Cơ quan, tổ chức tham gia công tác bảo vệ an ninh, trật tự được bảo vệ về danh dự, tài sản; cá nhân tham gia công tác bảo vệ an ninh, trật tự được bảo vệ về tính mạng, sức khỏe, danh dự, nhân phẩm và tài sản theo quy định của pháp luật.
+
+### 0100100000000000100001000000000000000000
+
+Điều 1.1.LQ.10. Tuyên truyền, giáo dục bảo vệ an ninh quốc gia 1. Chính phủ, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Uỷ ban nhân dân các cấp có trách nhiệm tổ chức, chỉ đạo công tác tuyên truyền, giáo dục bảo vệ an ninh quốc gia.
+
+### 0100100000000000100001100000000000000000
+
+Điều 1.1.LQ.11. Hợp tác quốc tế trong lĩnh vực bảo vệ an ninh quốc gia Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện chính sách hợp tác quốc tế đa phương, song phương với các nước, các tổ chức quốc tế trong hoạt động bảo vệ an ninh quốc gia phù hợp với pháp luật Việt Nam và pháp luật quốc tế; thực hiện các điều ước quốc tế liên quan đến lĩnh vực bảo vệ an ninh quốc gia mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập.
+
+### 0100100000000000100001200000000000000000
+
+Điều 1.1.LQ.12. Chính sách xử lý các hành vi xâm phạm an ninh quốc gia 1. Mọi hành vi xâm phạm an ninh quốc gia đều phải bị xử lý nghiêm minh, kịp thời theo đúng quy định của pháp luật. Người chủ mưu, cầm đầu, chỉ huy, ngoan cố chống đối thì bị nghiêm trị.
+
+### 0100100000000000100001300000000000000000
+
+Điều 1.1.LQ.13. Các hành vi bị nghiêm cấm 1. Tổ chức, hoạt động, câu kết, xúi giục, khống chế, kích động, mua chuộc, lừa gạt, lôi kéo người khác nhằm chống chính quyền nhân dân, xóa bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam, chia cắt đất nước, phá hoại khối đại đoàn kết toàn dân tộc.
+
+### 01001000000000002000
+
+Chương II BẢO VỆ AN NINH QUỐC GIA
+
+### 0100100000000000200001400000000000000000
+
+Điều 1.1.LQ.14. Nhiệm vụ bảo vệ an ninh quốc gia 1. Bảo vệ chế độ chính trị và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc.
+
+### 0100100000000000200001500000000000000000
+
+Điều 1.1.LQ.15. Các biện pháp cơ bản bảo vệ an ninh quốc gia 1. Các biện pháp cơ bản bảo vệ an ninh quốc gia bao gồm vận động quần chúng, pháp luật, ngoại giao, kinh tế, khoa học - kỹ thuật, nghiệp vụ, vũ trang.
+
+### 010010000000000020000150000000000000000000402399900350000500
+
+Điều 1.1.NĐ.4.5. Nội dung biện pháp pháp luật bảo vệ an ninh, trật tự 1. Đưa yêu cầu bảo vệ an ninh, trật tự vào xây dựng pháp luật, ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế, hoàn thiện thể chế.
+
+### 010010000000000020000150000000000000000000402497800060000500
+
+Điều 1.1.NĐ.6.5. Nội dung biện pháp vận động quần chúng bảo vệ an ninh, trật tự 1. Tham mưu, đề xuất cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền chủ trương, quy định, kế hoạch huy động và sử dụng sức mạnh của cơ quan, tổ chức, cá nhân trong công tác bảo vệ an ninh, trật tự; xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc.
+
+### 010010000000000020000150000000000000000000402497800060000700
+
+Điều 1.1.NĐ.6.7. Hình thức, trình tự, thủ tục áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự 1. Vận động quần chúng bảo vệ an ninh, trật tự được thực hiện bằng hình thức công khai hoặc bí mật, vận động rộng rãi, vận động tập trung hoặc vận động cá biệt.
+
+### 0100100000000000200001600000000000000000
+
+Điều 1.1.LQ.16. Xây dựng nền an ninh nhân dân và thế trận an ninh nhân dân 1. Vận động toàn dân tham gia phong trào bảo vệ an ninh Tổ quốc; giáo dục, động viên cán bộ, công chức, người lao động và mọi công dân tham gia xây dựng địa phương, cơ quan, tổ chức vững mạnh; xây dựng khối đại đoàn kết toàn dân tộc; nâng cao đời sống vật chất và tinh thần của nhân dân.
+
+### 0100100000000000200001700000000000000000
+
+Điều 1.1.LQ.17. Quyền và nghĩa vụ của công dân trong bảo vệ an ninh quốc gia 1. Tham gia lực lượng bảo vệ an ninh quốc gia và thực hiện nhiệm vụ bảo vệ an ninh quốc gia theo quy định của pháp luật.
+
+### 010010000000000020000170000000000000000000402214200380002000
+
+Điều 1.1.NĐ.2.20. Trách nhiệm của các cơ quan đoàn thể, đơn vị, tổ chức và mọi công dân Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam các cấp; các đơn vị, tổ chức và mọi công dân có trách nhiệm giám sát, giúp đỡ, tạo điều kiện để lực lượng Bảo vệ dân phố hoàn thành nhiệm vụ của mình.
+
+### 010010000000000020000170000000000000000000402497800060000900
+
+Điều 1.1.NĐ.6.9. Trách nhiệm của cá nhân trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự 1. Chấp hành và thực hiện nghiêm chỉnh yêu cầu của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự theo quy định của pháp luật.
+
+### 0100100000000000200001800000000000000000
+
+Điều 1.1.LQ.18. Trách nhiệm của cơ quan, tổ chức trong bảo vệ an ninh quốc gia 1. Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức thực hiện các nhiệm vụ quy định tại Điều 14 của Luật này và các quy định khác của pháp luật về bảo vệ an ninh quốc gia.
+
+### 010010000000000020000180000000000000000000402399900350000600
+
+Điều 1.1.NĐ.4.6. Thẩm quyền, trách nhiệm của cơ quan, tổ chức, cá nhân trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự 1. Trong phạm vi nhiệm vụ, quyền hạn của mình tổ chức thực hiện các nội dung biện pháp pháp luật bảo vệ an ninh, trật tự quy định tại Điều 5 Nghị định này và các quy định khác của pháp luật có liên quan đến bảo vệ an ninh, trật tự.
+
+### 010010000000000020000180000000000000000000402460100060000700
+
+Điều 1.1.NĐ.5.7. Trách nhiệm của người đứng đầu cơ quan, doanh nghiệp và cán bộ, công nhân viên trong cơ quan, doanh nghiệp 1. Trách nhiệm của người đứng đầu cơ quan, doanh nghiệp nhà nước, tổ chức chính trị:
+
+### 010010000000000020000180000000000000000000402497800060000800
+
+Điều 1.1.NĐ.6.8. Trách nhiệm của cơ quan, tổ chức trong áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự 1. Phối hợp với cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự trong thực hiện biện pháp vận động quần chúng bảo vệ an ninh, trật tự.
+
+### 0100100000000000200001900000000000000000
+
+Điều 1.1.LQ.19. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong bảo vệ an ninh quốc gia Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, động viên nhân dân xây dựng khối đại đoàn kết toàn dân tộc, nghiêm chỉnh chấp hành pháp luật về bảo vệ an ninh quốc gia; giám sát việc thực hiện pháp luật về bảo vệ an ninh quốc gia của tổ chức, cá nhân.
+
+### 0100100000000000200002000000000000000000
+
+Điều 1.1.LQ.20. Bảo vệ an ninh quốc gia khi có tình trạng khẩn cấp, tình trạng chiến tranh Khi có tình trạng khẩn cấp, tình trạng chiến tranh, việc bảo vệ an ninh quốc gia được thực hiện theo quy định của pháp luật về tình trạng khẩn cấp, tình trạng chiến tranh.
+
+### 0100100000000000200002100000000000000000
+
+Điều 1.1.LQ.21. Áp dụng một số biện pháp cần thiết khi có nguy cơ đe doạ an ninh quốc gia nhưng chưa đến mức ban bố tình trạng khẩn cấp 1. Khi có nguy cơ đe doạ an ninh quốc gia nhưng chưa đến mức ban bố tình trạng khẩn cấp, Thủ tướng Chính phủ được quyết định áp dụng một số biện pháp sau đây:
+
+### 01001000000000003000
+
+Chương III CƠ QUAN CHUYÊN TRÁCH BẢO VỆ AN NINH QUỐC GIA
+
+### 0100100000000000300002200000000000000000
+
+Điều 1.1.LQ.22. Các cơ quan chuyên trách bảo vệ an ninh quốc gia 1. Các cơ quan chuyên trách bảo vệ an ninh quốc gia bao gồm:
+
+### 0100100000000000300002300000000000000000
+
+Điều 1.1.LQ.23. Nhiệm vụ của cơ quan chuyên trách bảo vệ an ninh quốc gia 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia thực hiện nhiệm vụ quy định tại Điều 14 của Luật này.
+
+### 0100100000000000300002400000000000000000
+
+Điều 1.1.LQ.24. Quyền hạn, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh quốc gia 1. Cơ quan chuyên trách bảo vệ an ninh quốc gia được quyền:
+
+### 010010000000000030000240000000000000000000402399900350000700
+
+Điều 1.1.NĐ.4.7. Thẩm quyền, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự 1. Thu thập thông tin, phân tích, đánh giá tình hình, tham mưu và xây dựng chiến lược, chủ trương, chính sách, pháp luật, giải pháp, phương pháp về sử dụng biện pháp pháp luật bảo vệ an ninh, trật tự.
+
+### 010010000000000030000240000000000000000000402497800060000600
+
+Điều 1.1.NĐ.6.6. Thẩm quyền, trách nhiệm của cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự 1. Cơ quan, cán bộ chuyên trách bảo vệ an ninh, trật tự khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh, trật tự có thẩm quyền:
+
+### 0100100000000000300002500000000000000000
+
+Điều 1.1.LQ.25. Quyền hạn, trách nhiệm của cán bộ chuyên trách bảo vệ an ninh quốc gia 1. Cán bộ chuyên trách bảo vệ an ninh quốc gia trong khi thực hiện nhiệm vụ được quyền:
+
+### 010010000000000030000250000000000000000000402399900350000800
+
+Điều 1.1.NĐ.4.8. Thẩm quyền, trách nhiệm của thủ trưởng, cán bộ chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự 1. Thủ trưởng cơ quan chuyên trách bảo vệ an ninh, trật tự trong phạm vi nhiệm vụ, quyền hạn của mình quyết định việc sử dụng thẩm quyền, trách nhiệm của cơ quan chuyên trách bảo vệ an ninh, trật tự trong áp dụng biện pháp pháp luật bảo vệ an ninh, trật tự quy định tại Điều 7 Nghị định này; phân công cán bộ thuộc quyền quản lý, chỉ huy của mình thực hiện nhiệm vụ do mình quyết định hoặc thủ trưởng đơn vị cấp trên quyết định.
+
+### 0100100000000000300002600000000000000000
+
+Điều 1.1.LQ.26. Trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ của cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia được trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ để thực hiện nhiệm vụ bảo vệ an ninh quốc gia theo quy định của pháp luật.
+
+### 0100100000000000300002700000000000000000
+
+Điều 1.1.LQ.27. Chế độ quản lý thông tin, tài liệu, đồ vật về bảo vệ an ninh quốc gia 1. Thông tin, tài liệu, đồ vật liên quan đến cơ quan chuyên trách bảo vệ an ninh quốc gia hoặc do cơ quan này thu thập được thuộc bí mật nhà nước và được quản lý theo quy định của pháp luật về bảo vệ bí mật nhà nước.
+
+### 0100100000000000300002800000000000000000
+
+Điều 1.1.LQ.28. Chế độ, chính sách đối với cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia được tuyển chọn, bồi dưỡng, đào tạo, được phong, thăng hàm, cấp lực lượng vũ trang nhân dân và hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.
+
+### 01001000000000004000
+
+Chương IV QUẢN LÝ NHÀ NƯỚC VỀ AN NINH QUỐC GIA
+
+### 0100100000000000400002900000000000000000
+
+Điều 1.1.LQ.29. Nội dung quản lý nhà nước về an ninh quốc gia 1. Xây dựng và tổ chức thực hiện chiến lược, chính sách, kế hoạch, phương án bảo vệ an ninh quốc gia và bảo đảm điều kiện cần thiết cho hoạt động bảo vệ an ninh quốc gia; ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về bảo vệ an ninh quốc gia.
+
+### 010010000000000040000290000000000000000000402214200380001400
+
+Điều 1.1.NĐ.2.14. Khen thưởng 1. Tổ chức, cá nhân có thành tích trong việc xây dựng lực lượng Bảo vệ dân phố thì được khen thưởng theo quy định của Nhà nước.
+
+### 010010000000000040000290000000000000000000402214200380001500
+
+Điều 1.1.NĐ.2.15. Kỷ luật Bảo vệ dân phố lợi dụng chức vụ, quyền hạn vi phạm pháp luật hoặc mưu cầu lợi ích cá nhân, ảnh hưởng xấu đến an ninh, trật tự, uy tín của tổ chức thì tuỳ theo tính chất, mức độ vi phạm sẽ bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; trường hợp gây thiệt hại thì phải bồi thường cho người bị hại theo quy định của pháp luật
+
+### 010010000000000040000290000000000000000000402214200380001600
+
+Điều 1.1.NĐ.2.16. Khiếu nại, tố cá 1. Mọi tổ chức, cá nhân có quyền khiếu nại với cơ quan Nhà nước cấp có thẩm quyền về các hành vi của Trưởng ban, các Phó Trưởng ban, các Ủy viên và tổ viên Bảo vệ dân phố trong khi làm nhiệm vụ.
+
+### 0100100000000000400003000000000000000000
+
+Điều 1.1.LQ.30. Thống nhất quản lý nhà nước về an ninh quốc gia 1. Chính phủ thống nhất quản lý nhà nước về bảo vệ an ninh quốc gia.
+
+### 010010000000000040000300000000000000000000802581200020000300
+
+Điều 1.1.TL.2.3. Nguyên tắc phối hợp 1. Tuân thủ quy định của pháp luật, nguyên tắc hoạt động của mỗi ngành.
+
+### 010010000000000040000300000000000000000000802581200020000400
+
+Điều 1.1.TL.2.4. Phương thức phối hợp 1. Trao đổi thông tin.
+
+### 010010000000000040000300000000000000000000802581200020000500
+
+Điều 1.1.TL.2.5. Phối hợp trao đổi thông tin 1. Nguyên tắc trao đổi thông tin:
+
+### 010010000000000040000300000000000000000000802581200020000600
+
+Điều 1.1.TL.2.6. Phối hợp thực hiện công tác quản lý nhà nước trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch 1. Nội dung phối hợp bao gồm:
+
+### 010010000000000040000300000000000000000000802581200020000700
+
+Điều 1.1.TL.2.7. Phối hợp trong bảo vệ bí mật nhà nước, bảo đảm an toàn thông tin mạng trong ngành Văn hóa, Thể thao và Du lịch 1. Trách nhiệm của cơ quan công an
+
+### 010010000000000040000300000000000000000000802581200020000800
+
+Điều 1.1.TL.2.8. Phối hợp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc 1. Trách nhiệm của cơ quan công an
+
+### 010010000000000040000300000000000000000000802581200020000900
+
+Điều 1.1.TL.2.9. Phối hợp bảo đảm an ninh, trật tự trong việc tổ chức các sự kiện văn hóa, gia đình, thể dục, thể thao và du lịch 1. Cơ quan công an có trách nhiệm chủ trì thực hiện nhiệm vụ sau đây nhằm bảo đảm an ninh, trật tự tại nơi diễn ra các sự kiện:
+
+### 010010000000000040000300000000000000000000802585900850000300
+
+Điều 1.1.TL.3.3. Nguyên tắc phối hợp 1. Tuân thủ đường lối, chủ trương của Đảng, chính sách pháp luật của nhà nước, phù hợp với phạm vi chức năng, nhiệm vụ và quyền hạn của hai bên và tạo điều kiện thuận lợi để hoàn thành tốt nhiệm vụ được giao.
+
+### 010010000000000040000300000000000000000000802585900850000400
+
+Điều 1.1.TL.3.4. Phối hợp xây dựng, ban hành chính sách, văn bản quy phạm pháp luật liên quan đến bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính 1. Bộ Tài chính phối hợp với Bộ Công an xây dựng, ban hành hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật liên quan đến bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trong lĩnh vực tài chính; lấy ý kiến của Bộ Công an về sự phù hợp, về tác động của văn bản đối với yêu cầu bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội.
+
+### 010010000000000040000300000000000000000000802585900850000500
+
+Điều 1.1.TL.3.5. Phối hợp trao đổi, cung cấp thông tin 1. Nguyên tắc trao đổi, cung cấp thông tin:
+
+### 010010000000000040000300000000000000000000802585900850000600
+
+Điều 1.1.TL.3.6. Phối hợp trong công tác bảo vệ bí mật nhà nước 1. Phối hợp xây dựng danh mục bí mật nhà nước:
+
+### 010010000000000040000300000000000000000000802585900850000700
+
+Điều 1.1.TL.3.7. Phối hợp kiểm tra, thanh tra 1. Hai bên có trách nhiệm phối hợp trong công tác kiểm tra, thanh tra nhằm phòng ngừa, phát hiện và xử lý các hành vi vi phạm pháp luật:
+
+### 010010000000000040000300000000000000000000802585900850000800
+
+Điều 1.1.TL.3.8. Phối hợp giải quyết khiếu nại, tố cáo và điều tra, xử lý các vụ việc vi phạm pháp luật trong lĩnh vực tài chính 1. Các cơ quan chức năng của hai bên phối hợp xác minh giải quyết khiếu nại, tố cáo của công dân về những vấn đề phức tạp liên quan đến lĩnh vực Tài chính và Công an. Trường hợp chuyển đơn thư khiếu nại, tố cáo để giải quyết theo thẩm quyền, các cơ quan chức năng của hai bên có trách nhiệm trao đổi những thông tin liên quan trong quá trình xác minh, giải quyết đơn thư khiếu nại, tố cáo và thông báo bằng văn bản kết quả giải quyết đơn thư cho cơ quan chuyển đơn theo quy định của pháp luật.
+
+### 010010000000000040000300000000000000000000802585900850000900
+
+Điều 1.1.TL.3.9. Phối hợp trong kiểm tra, kiểm soát, phát hiện, bắt giữ, điều tra xử lý, bàn giao vụ việc vi phạm pháp luật liên quan đến lĩnh vực hải quan 1. Về kiểm tra, kiểm soát:
+
+### 010010000000000040000300000000000000000000802585900850001000
+
+Điều 1.1.TL.3.10. Phối hợp trong kiểm tra, kiểm soát, phát hiện, bắt giữ, bàn giao vụ việc vi phạm pháp luật liên quan đến lĩnh vực thuế 1. Về kiểm tra, kiểm soát:
+
+### 010010000000000040000300000000000000000000802585900850001100
+
+Điều 1.1.TL.3.11. Phối hợp bảo vệ an ninh và an toàn tài sản, hệ thống thông tin tại các cơ quan tài chính, bảo vệ hội nghị, hội thảo, sự kiện chính trị quan trọng của ngành tài chính 1. Bộ Tài chính có trách nhiệm tổ chức công tác bảo vệ trật tự, an ninh, an toàn tài sản, hệ thống thông tin ở các cơ quan, đơn vị trong ngành tài chính; cung cấp cho Bộ Công an thông tin về các hệ thống thông tin của Bộ Tài chính, các biện pháp đảm bảo an toàn, an ninh thông tin đang áp dụng, chính sách và chiến lược của ngành Tài chính trừ các thông tin thuộc Danh mục bí mật nhà nước độ Mật, Tuyệt mật, Tối mật của ngành tài chính; xây dựng kế hoạch và triển khai các biện pháp bảo đảm an toàn, an ninh thông tin theo hướng dẫn của Bộ Công an; trao đổi việc phối hợp trong các hoạt động hợp tác quốc tế cũng như khi xuất hiện nguy cơ bị tấn công hoặc xảy ra sự cố thâm nhập đối với cơ sở hạ tầng thông tin của Bộ; phối hợp với Bộ Công an trong việc xác định khu vực cấm, địa điểm cấm đối với kho dự trữ quốc gia.
+
+### 010010000000000040000300000000000000000000802585900850001200
+
+Điều 1.1.TL.3.12. Phối hợp trong công tác phòng, chống rửa tiền, phòng, chống khủng bố và tài trợ khủng bố 1. Về công tác phòng, chống rửa tiền
+
+### 010010000000000040000300000000000000000000802585900850001300
+
+Điều 1.1.TL.3.13. Phối hợp trong công tác phòng, chống lợi dụng hoạt động tài trợ của nước ngoài để xâm phạm an ninh quốc gia 1. Bộ Tài chính phối hợp Bộ Công an nghiên cứu, ban hành các quy định nhằm kiểm soát chặt chẽ hoạt động tài chính của các tổ chức phi Chính phủ nước ngoài, tổ chức quốc tế, tổ chức tài chính quốc tế tại Việt Nam.
+
+### 010010000000000040000300000000000000000000802585900850001400
+
+Điều 1.1.TL.3.14. Phát động phong trào toàn dân bảo vệ an ninh Tổ quốc, đảm bảo an ninh trật tự, phòng chống cháy nổ tại trụ sở các cơ quan tài chính 1. Đối với ngành công an
+
+### 0100100000000000400003100000000000000000
+
+Điều 1.1.LQ.31. Trách nhiệm của Bộ Quốc phòng trong quản lý nhà nước về an ninh quốc gia Bộ Quốc phòng trong phạm vi nhiệm vụ, quyền hạn của mình chịu trách nhiệm trước Chính phủ phối hợp với Bộ Công an thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia; chỉ đạo các lực lượng thuộc quyền phối hợp chặt chẽ với lực lượng Công an nhân dân và chính quyền địa phương để bảo vệ an ninh quốc gia theo quy định của pháp luật.
+
+### 0100100000000000400003200000000000000000
+
+Điều 1.1.LQ.32. Trách nhiệm của Bộ Ngoại giao trong quản lý nhà nước về an ninh quốc gia Bộ Ngoại giao trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định tại Điều 14 của Luật này, các quy định khác của pháp luật có liên quan và phối hợp với Bộ Công an, Bộ Quốc phòng, các cơ quan hữu quan khác để bảo vệ an ninh quốc gia.
+
+### 0100100000000000400003300000000000000000
+
+Điều 1.1.LQ.33. Trách nhiệm của các bộ, cơ quan ngang bộ trong quản lý nhà nước về an ninh quốc gia Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định tại Điều 14 của Luật này, các quy định khác của pháp luật có liên quan và phối hợp với các cơ quan hữu quan để bảo vệ an ninh quốc gia.
+
+### 010010000000000040000330000000000000000000402214200380001700
+
+Điều 1.1.NĐ.2.17. Trách nhiệm của Bộ Công an Bộ Công an có trách nhiệm giúp Chính phủ chỉ đạo, hướng dẫn, kiểm tra việc xây dựng lực lượng và hoạt động của Bảo vệ dân phố; quy định chương trình nội dung bồi dưỡng tập huấn nghiệp vụ về công tác bảo vệ an ninh trật tự và pháp luật; việc trang thiết bị cho Bảo vệ dân phố theo quy định của pháp luật.
+
+### 010010000000000040000330000000000000000000402214200380001800
+
+Điều 1.1.NĐ.2.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội Bộ Lao động - Thương binh và Xã hội có trách nhiệm chủ trì, phối hợp với Bộ Công an và các Bộ, ngành liên quan hướng dẫn việc thực hiện chế độ, chính sách cho Bảo vệ dân phố khi bị thương, bị hy sinh trong khi làm nhiệm vụ.
+
+### 010010000000000040000330000000000000000000402460100060000800
+
+Điều 1.1.NĐ.5.8. Trách nhiệm của Bộ Công an 1. Quy định việc phối hợp với các cơ quan, doanh nghiệp trong công tác quản lý và kiểm tra việc thực hiện nhiệm vụ bảo vệ tại các cơ quan, doanh nghiệp.
+
+### 01001000000000004000033000000000000000000040246010006000080000802524600460000400
+
+Điều 1.1.TT.1.4. Tổ chức, đơn vị sử dụng ngân sách nhà nước được thuê dịch vụ bảo vệ thường xuyên, lâu dài 1. Nhà trường và các cơ sở giáo dục khác theo quy định của Luật Giáo dục; các cơ sở khám bệnh, chữa bệnh theo quy định của Luật khám bệnh, chữa bệnh (trừ các trung tâm Chữa bệnh - Giáo dục - Lao động xã hội thuộc quản lý của ngành Lao động - Thương binh và Xã hội và các trường học, trung tâm giáo dục của ngành Công an, Quân đội).
+
+### 01001000000000004000033000000000000000000040246010006000080000802524600460000500
+
+Điều 1.1.TT.1.5. Công tác phối hợp giữa cơ quan Công an với các cơ quan, doanh nghiệp trong quản lý và kiểm tra việc thực hiện nhiệm vụ bảo vệ Các đơn vị Công an có chức năng bảo vệ an ninh nội bộ (An ninh chính trị nội bộ, An ninh tài chính, tiền tệ, đầu tư, An ninh kinh tế tổng hợp, An ninh nông nghiệp nông thôn, An ninh thông tin truyền thông, Bảo vệ chính trị III) có trách nhiệm phối hợp với các đơn vị có liên quan và người đứng đầu cơ quan, doanh nghiệp tổ chức quản lý và kiểm tra việc thực hiện nhiệm vụ của lực lượng bảo vệ, cụ thể:
+
+### 01001000000000004000033000000000000000000040246010006000080000802524600460000600
+
+Điều 1.1.TT.1.6. Công tác huấn luyện nghiệp vụ bảo vệ 1. Hàng năm, các cơ quan, doanh nghiệp nếu có nhu cầu đào tạo, huấn luyện nghiệp vụ bảo vệ cho nhân viên bảo vệ, chủ động xây dựng kế hoạch và thông báo cho đơn vị Công an có chức năng bảo vệ an ninh nội bộ quy định tại Điều 5 Thông tư này để biết và phối hợp thực hiện. Ngoài việc huấn luyện cho số nhân viên bảo vệ chưa qua đào tạo, các đơn vị Công an có chức năng bảo vệ an ninh nội bộ căn cứ vào tình hình thực tế để chủ động phối hợp với các cơ quan, doanh nghiệp tổ chức lớp học để bổ sung và cập nhật kiến thức mới về chuyên môn nghiệp vụ cho nhân viên bảo vệ.
+
+### 01001000000000004000033000000000000000000040246010006000080000802524600460000700
+
+Điều 1.1.TT.1.7. Giấy chứng nhận nhân viên bảo vệ 1. Nhân viên bảo vệ được sử dụng Giấy chứng nhận nhân viên bảo vệ do cơ quan, doanh nghiệp trực tiếp quản lý cấp và phải mang theo khi thi hành nhiệm vụ.
+
+### 0100100000000000400003400000000000000000
+
+Điều 1.1.LQ.34. Trách nhiệm của Uỷ ban nhân dân các cấp trong quản lý nhà nước về an ninh quốc gia Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia tại địa phương; thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
+
+### 010010000000000040000340000000000000000000402214200380001900
+
+Điều 1.1.NĐ.2.19. Trách nhiệm của Ủy ban nhân dân các cấp Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định cụ thể mức phụ cấp hàng tháng đối với các chức danh Bảo vệ dân phố, chế độ phụ cấp đi lại, ăn, ở khi Bảo vệ dân phố được bồi dưỡng pháp luật và nghiệp vụ.
+
+### 01001000000000005000
+
+Chương V ĐIỀU KHOẢN THI HÀNH
+
+### 0100100000000000500003500000000000000000
+
+Điều 1.1.LQ.35. Hiệu lực thi hành Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2005.
+
+### 0100100000000000500003600000000000000000
+
+Điều 1.1.LQ.36. Hướng dẫn thi hành Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này.
+
+### 0100100000000000500003640220600016000180
+
+Điều 1.1.NĐ.1.18. Hiệu lực thi hành Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
+
+### 0100100000000000500003640220600016000190
+
+Điều 1.1.NĐ.1.19. Trách nhiệm thi hành Bộ Công an, Bộ Quốc phòng, Bộ Lao động - Thương Binh và Xã hội chịu trách nhiệm hướng dẫn, kiểm tra, đôn đốc việc thi hành Nghị định này.
+
+### 0100100000000000500003640221420038000210
+
+Điều 1.1.NĐ.2.21. Hiệu lực thi hành Nghị định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Những quy định trước đây về Bảo vệ dân phố trái với Nghị định này đều bãi bỏ. Bộ trưởng Bộ Công an có trách nhiệm hướng dẫn chi tiết thi hành Nghị định này.
+
+### 0100100000000000500003640223350127000200
+
+Điều 1.1.NĐ.3.20. Hiệu lực thi hành Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
+
+### 0100100000000000500003640223350127000210
+
+Điều 1.1.NĐ.3.21. Trách nhiệm thi hành 1. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, theo chức năng và nhiệm vụ, chịu trách nhiệm chủ trì, phối hợp với Bộ trưởng Bộ Tài chính, Bộ trưởng Bộ Kế hoạch và Đầu tư và các Bộ, ngành liên quan hướng dẫn, kiểm tra, đôn đốc việc thi hành Nghị định này.
+
+### 0100100000000000500003640239990035000100
+
+Điều 1.1.NĐ.4.10. Hiệu lực thi hành Nghị định này có hiệu lực thi hành kể từ ngày 10 tháng 7 năm 2011.
+
+### 0100100000000000500003640239990035000110
+
+Điều 1.1.NĐ.4.11. Trách nhiệm thi hành 1. Bộ trưởng Bộ Công an chịu trách nhiệm chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, kiểm tra, đôn đốc việc thực hiện Nghị định này.
+
+### 0100100000000000500003640246010006000170
+
+Điều 1.1.NĐ.5.17. Hiệu lực thi hành 1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2013 và thay thế Nghị định số 73/2001/NĐ-CP ngày 05 tháng 10 năm 2001 về hoạt động và tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp.
+
+### 0100100000000000500003640246010006000180
+
+Điều 1.1.NĐ.5.18. Trách nhiệm thi hành 1. Bộ trưởng Bộ Công an có trách nhiệm hướng dẫn chi tiết thi hành Nghị định này.
+
+### 0100100000000000500003640249780006000120
+
+Điều 1.1.NĐ.6.12. Hiệu lực thi hành Nghị định này có hiệu lực thi hành kể từ ngày 08 tháng 3 năm 2014.
+
+### 0100100000000000500003640249780006000130
+
+Điều 1.1.NĐ.6.13. Trách nhiệm thi hành 1. Bộ trưởng Bộ Công an chịu trách nhiệm chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, kiểm tra, đôn đốc việc thực hiện Nghị định này.
+
+### 0100100000000000500003680224600002000080
+
+Điều 1.1.TL.1.8. Tổ chức thực hiện 1. Bộ Công an có trách nhiệm chỉ đạo, hướng dẫn các đơn vị, địa phương tổ chức thực hiện các nội dung quy định tại Thông tư này.
+
+### 0100100000000000500003680252460046000090
+
+Điều 1.1.TT.1.9. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 06 tháng 12 năm 2014 và thay thế Thông tư số 10/2002/TT-BCA ngày 26/8/2002 của Bộ trưởng Bộ Công an hướng dẫn thực hiện Nghị định số 73/2001/NĐ-CP ngày 05/10/2001 về hoạt động và tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp.
+
+### 0100100000000000500003680252460046000100
+
+Điều 1.1.TT.1.10. Tổ chức thực hiện 1. Tổng cục trưởng Tổng cục An ninh có trách nhiệm theo dõi, hướng dẫn, kiểm tra, đôn đốc việc thực hiện Thông tư này.
+
+### 0100100000000000500003680257240008000160
+
+Điều 1.1.TT.2.16. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 4 năm 2016. Các quy định trước đây về trang phục cho lực lượng bảo vệ cơ quan, doanh nghiệp trái với quy định tại Thông tư này đều bãi bỏ.
+
+### 0100100000000000500003680257240008000170
+
+Điều 1.1.TT.2.17. Trách nhiệm thi hành 1. Tổng cục Hậu cần - Kỹ thuật Bộ Công an chủ trì, phối hợp với Tổng cục An ninh Bộ Công an chịu trách nhiệm hướng dẫn, kiểm tra, đôn đốc việc thực hiện Thông tư này.
+
+### 0100100000000000500003680258120002000100
+
+Điều 1.1.TL.2.10. Trách nhiệm thi hành 1. Căn cứ quy định tại Thông tư liên tịch này và đặc điểm, tình hình bảo đảm an ninh, trật tự trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch của từng địa phương, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chỉ đạo xây dựng Quy chế phối hợp bảo đảm an ninh quốc gia trật tự, an toàn xã hội giữa cơ quan công an và cơ quan nhà nước về văn hóa, thể thao và du lịch trên địa bàn.
+
+### 0100100000000000500003680258120002000110
+
+Điều 1.1.TL.2.11. Hiệu lực thi hành 1. Thông tư này có hiệu lực thi hành từ ngày 25 tháng 6 năm 2016.
+
+### 0100100000000000500003680258590085000150
+
+Điều 1.1.TL.3.15. Trách nhiệm thi hành 1. Bộ Tài chính và Bộ Công an trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm quán triệt, phổ biến, hướng dẫn, kiểm tra, đôn đốc việc thực hiện Thông tư liên tịch này trong các cơ quan, đơn vị thuộc Bộ; có trách nhiệm xây dựng kế hoạch phối hợp hàng năm để thực hiện ở cấp trung ương.
+
+### 0100100000000000500003680258590085000160
+
+Điều 1.1.TL.3.16. Hiệu lực thi hành 1. Thông tư liên tịch này có hiệu lực kể từ ngày 05 tháng 8 năm 2016 và thay thế Thông tư liên tịch số 148/1999/TTLT-BTC-BCA ngày 20/12/1999 của Bộ Tài chính và Bộ Công an về quan hệ phối hợp công tác bảo đảm an ninh, trật tự trong một số hoạt động thuộc lĩnh vực tài chính.
+

@@ -1,673 +1,955 @@
 ---
-layout: default
+layout: page
 title: Đặc xá
 permalink: /van-ban/thi-hanh-an/dac-xa/
-collection: subtopics
-slug: dac-xa
-parent: thi-hanh-an
 ---
 
 # Đặc xá
 
-**Đề mục:** Đặc xá  
-**Chủ đề:** [Thi hành án](/thi-hanh-an/)  
-**Số điều khoản:** 58  
-**Điều khoản có nội dung:** 49/49 (100.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 30.1.LQ.1. Phạm vi điều chỉnh
+Điều 30.1.LQ.1. Phạm vi điều chỉnh
+
+(Điều 1 Luật số 30/2018/QH14 Luật Đặc xá ngày 19/11/2018 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2019 )
 
 Luật này quy định về nguyên tắc, thời điểm, trình tự, thủ tục, thẩm quyền, trách nhiệm thực hiện đặc xá; điều kiện, quyền và nghĩa vụ của người được đề nghị đặc xá; quyền và nghĩa vụ của người được đặc xá.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.62. Miễn chấp hành hình phạt)
 
-**Mã phân cấp:** 3000100000000000100000100000000000000000
+Điều 30.1.LQ.2. Đối tượng áp dụng
 
-**ID:** dk_00048481
-
----
-
-
-### Điều 30.1.LQ.2. Đối tượng áp dụng
+(Điều 2 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Người bị kết án phạt tù có thời hạn, tù chung thân.
 
-**Chỉ mục:** 2
+2. Cơ quan, tổ chức, công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam; người nước ngoài cư trú ở Việt Nam, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam có liên quan đến hoạt động đặc xá.
 
-**Mã phân cấp:** 3000100000000000100000200000000000000000
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.62. Miễn chấp hành hình phạt)
 
-**ID:** dk_00048482
+Điều 30.1.NĐ.1.1. Phạm vi điều chỉnh
 
----
-
-
-### Điều 30.1.NĐ.1.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 52/2019/NĐ-CP Quy định chi tiết một số điều của Luật Đặc xá ngày 14/06/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/08/2019 )
 
 Nghị định này quy định chi tiết Điều 11, Điều 19, khoản 1 Điều 21 của Luật Đặc xá về thực hiện Quyết định về đặc xá, điều kiện, hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá đối với người nước ngoài, trình tự, thủ tục lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá và thẩm định hồ sơ đề nghị đặc xá.
 
-**Chỉ mục:** 1
+Điều 30.1.NĐ.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3000100000000000100000240269480052000010
-
-**ID:** dk_00048483
-
----
-
-
-### Điều 30.1.NĐ.1.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
 
 1. Người đang chấp hành án phạt tù có thời hạn, người bị kết án phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn, người đang được tạm đình chỉ chấp hành án phạt tù (sau đây gọi chung là người bị kết án phạt tù).
 
-**Chỉ mục:** 2
+2. Cơ quan, tổ chức, công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam; người nước ngoài cư trú ở Việt Nam, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam có liên quan đến hoạt động đặc xá.
 
-**Mã phân cấp:** 3000100000000000100000240269480052000020
+Điều 30.1.LQ.3. Giải thích từ ngữ
 
-**ID:** dk_00048484
-
----
-
-
-### Điều 30.1.LQ.3. Giải thích từ ngữ
+(Điều 3 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. Đặc xá là sự khoan hồng đặc biệt của Nhà nước do Chủ tịch nước quyết định tha tù trước thời hạn cho người bị kết án phạt tù có thời hạn, tù chung thân nhân sự kiện trọng đại, ngày lễ lớn của đất nước hoặc trong trường hợp đặc biệt.
 
-**Mã phân cấp:** 3000100000000000100000300000000000000000
+2. Quyết định về đặc xá là văn bản do Chủ tịch nước ban hành quy định thời điểm đặc xá, đối tượng, điều kiện của người được đề nghị đặc xá nhân sự kiện trọng đại, ngày lễ lớn của đất nước và trách nhiệm của cơ quan, tổ chức trong việc thực hiện đặc xá.
 
-**ID:** dk_00048485
+3. Quyết định đặc xá là văn bản của Chủ tịch nước quyết định tha tù trước thời hạn cho người bị kết án phạt tù có thời hạn, tù chung thân.
 
----
+4. Hội đồng tư vấn đặc xá là tổ chức liên ngành bao gồm đại diện lãnh đạo các cơ quan, tổ chức có liên quan do Chủ tịch nước quyết định thành lập để triển khai thực hiện Quyết định về đặc xá và tham mưu, tư vấn cho Chủ tịch nước trong việc thực hiện hoạt động đặc xá.
 
+5. Tổ thẩm định liên ngành là tổ chức liên ngành bao gồm đại diện các cơ quan, tổ chức có liên quan do Hội đồng tư vấn đặc xá quyết định thành lập để thẩm định danh sách, hồ sơ của người được đề nghị đặc xá.
 
-### Điều 30.1.LQ.4. Nguyên tắc thực hiện đặc xá
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.62. Miễn chấp hành hình phạt của Bộ luật 100/2015/QH13 Hình sự ban hành ngày 27/11/2015; Điều 16.1.NQ.3.1. Tha tù trước thời hạn có điều kiện)
+
+Điều 30.1.LQ.4. Nguyên tắc thực hiện đặc xá
+
+(Điều 4 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Tuân thủ Hiến pháp, pháp luật; bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
 
-**Chỉ mục:** 4
+2. Bảo đảm dân chủ, công bằng, khách quan, công khai, minh bạch.
 
-**Mã phân cấp:** 3000100000000000100000400000000000000000
+3. Bảo đảm yêu cầu về đối nội, đối ngoại, an ninh quốc gia, trật tự, an toàn xã hội.
 
-**ID:** dk_00048486
+Điều 30.1.LQ.5. Thời điểm đặc xá
 
----
-
-
-### Điều 30.1.LQ.5. Thời điểm đặc xá
+(Điều 5 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Chủ tịch nước xem xét, quyết định về đặc xá nhân sự kiện trọng đại, ngày lễ lớn của đất nước.
 
-**Chỉ mục:** 5
+2. Chủ tịch nước xem xét, quyết định đặc xá trong trường hợp đặc biệt để đáp ứng yêu cầu đối nội, đối ngoại của Nhà nước mà không phụ thuộc vào thời điểm quy định tại khoản 1 Điều này.
 
-**Mã phân cấp:** 3000100000000000100000500000000000000000
+Điều 30.1.LQ.6. Chính sách của Nhà nước trong đặc xá
 
-**ID:** dk_00048487
-
----
-
-
-### Điều 30.1.LQ.6. Chính sách của Nhà nước trong đặc xá
+(Điều 6 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 Nhà nước động viên, khuyến khích người bị kết án phạt tù ăn năn hối cải, tích cực học tập, lao động cải tạo để được hưởng đặc xá; tạo điều kiện thuận lợi cho người được đặc xá hòa nhập cộng đồng, ổn định cuộc sống, phấn đấu trở thành người có ích cho xã hội, phòng ngừa tái phạm tội, vi phạm pháp luật.
 
-**Chỉ mục:** 6
+Điều 30.1.LQ.7. Các hành vi bị nghiêm cấm trong thực hiện đặc xá
 
-**Mã phân cấp:** 3000100000000000100000600000000000000000
-
-**ID:** dk_00048488
-
----
-
-
-### Điều 30.1.LQ.7. Các hành vi bị nghiêm cấm trong thực hiện đặc xá
+(Điều 7 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Lợi dụng, lạm dụng chức vụ, quyền hạn để đề nghị đặc xá cho người không đủ điều kiện được đặc xá; không đề nghị đặc xá cho người đủ điều kiện được đặc xá; cản trở người bị kết án phạt tù thực hiện quyền được đề nghị đặc xá.
 
-**Chỉ mục:** 7
+2. Đưa hối lộ, nhận hối lộ, môi giới hối lộ, nhũng nhiễu trong việc thực hiện đặc xá.
 
-**Mã phân cấp:** 3000100000000000100000700000000000000000
+3. Cấp, xác nhận giấy tờ, tài liệu liên quan đến người được đề nghị đặc xá trái quy định của pháp luật.
 
-**ID:** dk_00048489
+4. Từ chối cấp, xác nhận giấy tờ, tài liệu mà theo quy định của pháp luật người được đề nghị đặc xá phải được cấp, xác nhận.
 
----
+5. Giả mạo giấy tờ, tài liệu liên quan đến người được đề nghị đặc xá.
 
+Chương II
 
-### Điều 30.1.LQ.8. Trình tự, thủ tục trình Chủ tịch nước ban hành Quyết định về đặc xá
+ĐẶC XÁ NHÂN SỰ KIỆN TRỌNG ĐẠI, NGÀY LỄ LỚN CỦA ĐẤT NƯỚC
+
+Mục 1
+
+TRÌNH TỰ, THỦ TỤC TRÌNH CHỦ TỊCH NƯỚC BAN HÀNH, CÔNG BỐ QUYẾT ĐỊNH VỀ ĐẶC XÁ; THÀNH LẬP HỘI ĐỒNG TƯ VẤN ĐẶC XÁ, TỔ THẨM ĐỊNH LIÊN NGÀNH
+
+Điều 30.1.LQ.8. Trình tự, thủ tục trình Chủ tịch nước ban hành Quyết định về đặc xá
+
+(Điều 8 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 Theo yêu cầu của Chủ tịch nước hoặc trong trường hợp Chính phủ đề nghị đặc xá được Chủ tịch nước chấp nhận, Chính phủ chủ trì, phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan có liên quan nghiên cứu, xây dựng tờ trình của Chính phủ và dự thảo Quyết định về đặc xá. Tờ trình và dự thảo Quyết định về đặc xá phải được trình Chủ tịch nước chậm nhất là 60 ngày trước thời điểm đặc xá để Chủ tịch nước xem xét, ban hành Quyết định về đặc xá.
 
-**Chỉ mục:** 8
+Điều 30.1.LQ.9. Công bố, thông báo, niêm yết Quyết định về đặc xá
 
-**Mã phân cấp:** 300010000000000020000010000000000000000000800000000000000000
-
-**ID:** dk_00048492
-
----
-
-
-### Điều 30.1.LQ.9. Công bố, thông báo, niêm yết Quyết định về đặc xá
+(Điều 9 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Văn phòng Chủ tịch nước chủ trì, phối hợp với các cơ quan có liên quan tổ chức công bố ngay Quyết định về đặc xá. Quyết định về đặc xá được thông báo trên phương tiện thông tin đại chúng.
 
-**Chỉ mục:** 9
+2. Sau khi được công bố, Quyết định về đặc xá được niêm yết tại trại giam, trại tạm giam, nhà tạm giữ.
 
-**Mã phân cấp:** 300010000000000020000010000000000000000000900000000000000000
+Điều 30.1.LQ.10. Thành lập Hội đồng tư vấn đặc xá, Tổ thẩm định liên ngành
 
-**ID:** dk_00048493
-
----
-
-
-### Điều 30.1.LQ.10. Thành lập Hội đồng tư vấn đặc xá, Tổ thẩm định liên ngành
+(Điều 10 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Khi có Quyết định về đặc xá, Chủ tịch nước quyết định thành lập Hội đồng tư vấn đặc xá bao gồm Chủ tịch là Phó Thủ tướng Chính phủ và các ủy viên là đại diện lãnh đạo các cơ quan, tổ chức sau đây:
 
-**Chỉ mục:** 10
+a) Tòa án nhân dân tối cao;
 
-**Mã phân cấp:** 300010000000000020000010000000000000000001000000000000000000
+b) Viện kiểm sát nhân dân tối cao;
 
-**ID:** dk_00048494
+c) Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
 
----
+d) Bộ Công an;
 
+đ) Bộ Quốc phòng;
 
-### Điều 30.1.LQ.11. Điều kiện của người được đề nghị đặc xá
+e) Bộ Tư pháp;
+
+g) Bộ Ngoại giao;
+
+h) Văn phòng Chính phủ;
+
+i) Văn phòng Chủ tịch nước;
+
+k) Cơ quan, tổ chức khác có liên quan do Chủ tịch nước quyết định khi thấy cần thiết.
+
+2. Thường trực Hội đồng tư vấn đặc xá là Bộ Công an.
+
+Thường trực Hội đồng tư vấn đặc xá giúp Hội đồng tư vấn đặc xá thực hiện trách nhiệm quy định tại Điều 35 của Luật này.
+
+3. Tổ thẩm định liên ngành do Hội đồng tư vấn đặc xá quyết định thành lập, bao gồm đại diện các cơ quan, tổ chức sau đây:
+
+a) Tòa án nhân dân tối cao;
+
+b) Viện kiểm sát nhân dân tối cao;
+
+c) Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+
+d) Bộ Công an;
+
+đ) Bộ Quốc phòng;
+
+e) Bộ Tư pháp;
+
+g) Cơ quan, tổ chức khác có liên quan do Hội đồng tư vấn đặc xá quyết định khi thấy cần thiết.
+
+Mục 2
+
+ĐIỀU KIỆN, QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI ĐƯỢC ĐỀ NGHỊ ĐẶC XÁ
+
+Điều 30.1.LQ.11. Điều kiện của người được đề nghị đặc xá
+
+(Điều 11 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Người đang chấp hành án phạt tù có thời hạn, người bị kết án phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn được đề nghị đặc xá phải có đủ các điều kiện sau đây:
 
-**Chỉ mục:** 11
+a) Có nhiều tiến bộ, có ý thức cải tạo tốt và được xếp loại chấp hành án phạt tù khá hoặc tốt theo quy định của pháp luật về thi hành án hình sự;
 
-**Mã phân cấp:** 300010000000000020000020000000000000000001100000000000000000
+b) Đã chấp hành án phạt tù được một thời gian do Chủ tịch nước quyết định nhưng ít nhất là một phần ba thời gian đối với trường hợp bị phạt tù có thời hạn, nếu trước đó đã được giảm thời hạn chấp hành án phạt tù thì thời hạn được giảm không được tính vào thời gian đã chấp hành án phạt tù; đã chấp hành án phạt tù ít nhất là 14 năm đối với trường hợp bị phạt tù chung thân đã được giảm xuống tù có thời hạn, nếu sau khi đã được giảm xuống tù có thời hạn mà tiếp tục được giảm thời hạn chấp hành án phạt tù thì thời hạn được giảm sau đó không được tính vào thời gian đã chấp hành án phạt tù.
 
-**ID:** dk_00048496
+Người bị kết án về tội phá hoại việc thực hiện các chính sách kinh tế - xã hội; tội phá hoại chính sách đoàn kết; tội tổ chức, cưỡng ép, xúi giục người khác trốn đi nước ngoài hoặc trốn ở lại nước ngoài nhằm chống chính quyền nhân dân; tội trốn đi nước ngoài hoặc trốn ở lại nước ngoài nhằm chống chính quyền nhân dân; người bị kết án từ 10 năm tù trở lên về một trong các tội quy định tại Chương các tội xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của con người của Bộ luật Hình sự do cố ý hoặc người bị kết án từ 07 năm tù trở lên về tội cướp tài sản; tội bắt cóc nhằm chiếm đoạt tài sản; tội sản xuất trái phép chất ma túy; tội mua bán trái phép chất ma túy; tội chiếm đoạt chất ma túy của Bộ luật Hình sự đã chấp hành án phạt tù được một thời gian do Chủ tịch nước quyết định nhưng ít nhất là một phần hai thời gian đối với trường hợp bị kết án phạt tù có thời hạn, nếu trước đó đã được giảm thời hạn chấp hành án phạt tù thì thời hạn được giảm không được tính vào thời gian đã chấp hành án phạt tù; đã chấp hành án phạt tù ít nhất là 17 năm đối với trường hợp bị phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn, nếu sau khi đã được giảm xuống tù có thời hạn mà tiếp tục được giảm thời hạn chấp hành án phạt tù thì thời hạn được giảm sau đó không được tính vào thời gian đã chấp hành án phạt tù;
 
----
+c) Đã chấp hành xong hình phạt bổ sung là phạt tiền, đã nộp án phí;
 
+d) Đã thi hành xong nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác đối với người bị kết án phạt tù về các tội phạm tham nhũng hoặc tội phạm khác do Chủ tịch nước quyết định trong mỗi lần đặc xá;
 
-### Điều 30.1.NĐ.1.4. Các điều kiện của người được đề nghị đặc xá
+đ) Đã thi hành xong hoặc thi hành được một phần nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác nhưng do lâm vào hoàn cảnh kinh tế đặc biệt khó khăn thuộc trường hợp chưa có điều kiện thi hành tiếp phần còn lại theo quy định của pháp luật về thi hành án dân sự đối với người bị kết án phạt tù không thuộc trường hợp quy định tại điểm d khoản này.
 
-1. Người bị kết án phạt tù có nhiều tiến bộ, có ý thức cải tạo tốt và được xếp loại chấp hành án phạt tù khá hoặc tốt theo quy định của pháp luật về thi hành án hình sự quy định tại điểm a khoản 1 Điều 11 Luật Đặc xá là người đã chấp hành nghiêm Nội quy trại giam, trại tạm giam, nhà tạm giữ, tích cực học tập, lao động, cải tạo và các quý đã đủ thời gian xếp loại trong quá trình chấp hành án phạt tù được xếp loại khá hoặc tốt.
+Trường hợp phải thi hành nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác đối với tài sản không thuộc sở hữu của Nhà nước thì phải được người được thi hành án đồng ý hoãn thi hành án hoặc không yêu cầu thi hành án đối với tài sản này;
 
-**Chỉ mục:** 4
+e) Khi được đặc xá không làm ảnh hưởng xấu đến an ninh, trật tự;
 
-**Mã phân cấp:** 30001000000000002000002000000000000000000110000000000000000000402694800520000400
+g) Không thuộc một trong các trường hợp quy định tại Điều 12 của Luật này.
 
-**ID:** dk_00048497
+2. Người đang được tạm đình chỉ chấp hành án phạt tù được đề nghị đặc xá phải có đủ các điều kiện sau đây:
 
----
+a) Có nhiều tiến bộ, có ý thức cải tạo tốt và được xếp loại chấp hành án phạt tù khá hoặc tốt theo quy định của pháp luật về thi hành án hình sự trong thời gian chấp hành án phạt tù trước khi có quyết định tạm đình chỉ;
 
+b) Đã có thời gian chấp hành án phạt tù quy định tại điểm b khoản 1 Điều này;
 
-### Điều 30.1.LQ.12. Các trường hợp không được đề nghị đặc xá
+c) Các điều kiện quy định tại các điểm c, d, đ, e và g khoản 1 Điều này;
+
+d) Chấp hành nghiêm chỉnh pháp luật trong thời gian được tạm đình chỉ chấp hành án phạt tù.
+
+3. Người có đủ các điều kiện quy định tại các điểm a, c, d, đ, e và g khoản 1, các điểm a, c và d khoản 2 Điều này được Chủ tịch nước quyết định thời gian đã chấp hành án phạt tù ngắn hơn so với thời gian quy định tại điểm b khoản 1 Điều này khi thuộc một trong các trường hợp sau đây:
+
+a) Đã lập công lớn trong thời gian chấp hành án phạt tù, có xác nhận của trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện hoặc cơ quan có thẩm quyền khác;
+
+b) Người có công với cách mạng theo quy định của pháp luật về ưu đãi người có công với cách mạng; người được tặng thưởng danh hiệu Dũng sĩ trong kháng chiến chống Mỹ cứu nước; người được tặng thưởng danh hiệu “Anh hùng Lao động”; người được tặng thưởng một trong các loại Huân chương, Huy chương Kháng chiến; cha, mẹ, vợ, chồng, con của liệt sĩ và người có công nuôi dưỡng liệt sĩ khi còn nhỏ; con của Bà mẹ Việt Nam anh hùng; cha, mẹ, vợ, chồng, con của người có công giúp đỡ cách mạng được tặng Kỷ niệm chương “Tổ quốc ghi công” hoặc Bằng “Có công với nước”;
+
+c) Người đang mắc bệnh hiểm nghèo, người đang ốm đau thường xuyên mà không tự phục vụ bản thân;
+
+d) Khi phạm tội là người dưới 18 tuổi, trừ trường hợp quy định tại khoản 4 Điều này;
+
+đ) Người từ đủ 70 tuổi trở lên;
+
+e) Có hoàn cảnh gia đình đặc biệt khó khăn và bản thân là lao động duy nhất trong gia đình;
+
+g) Phụ nữ có thai hoặc có con dưới 36 tháng tuổi đang ở với mẹ trong trại giam, trại tạm giam, nhà tạm giữ;
+
+h) Người khuyết tật nặng hoặc khuyết tật đặc biệt nặng theo quy định của pháp luật về người khuyết tật; người có khó khăn trong nhận thức, làm chủ hành vi theo quy định của pháp luật về dân sự;
+
+i) Trường hợp khác do Chủ tịch nước quyết định.
+
+4. Người dưới 18 tuổi đang chấp hành án phạt tù có đủ điều kiện quy định tại điểm a và điểm g khoản 1 Điều này hoặc người dưới 18 tuổi đang được tạm đình chỉ chấp hành án phạt tù có đủ điều kiện quy định tại điểm g khoản 1, điểm a và điểm d khoản 2 Điều này được Chủ tịch nước quyết định thời gian đã chấp hành án phạt tù ngắn hơn so với thời gian quy định tại điểm b khoản 1 Điều này.
+
+5. Chính phủ quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh của Luật 41/2019/QH14 Luật thi hành án hình sự ban hành ngày 14/06/2019; Điều 6.3.LQ.1. Phạm vi điều chỉnh; Điều 9.1.LQ.1. Phạm vi điều chỉnh; Chương XIV CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI; Điều 16.1.LQ.168. Tội cướp tài sản; Điều 16.1.LQ.169. Tội bắt cóc nhằm chiếm đoạt tài sản; Điều 16.1.LQ.248. Tội sản xuất trái phép chất ma túy; Điều 16.1.LQ.251. Tội mua bán trái phép chất ma túy; Điều 16.1.LQ.252. Tội chiếm đoạt chất ma túy; Điều 6.5.PL.1. Phạm vi điều chỉnh; Điều 6.5.NĐ.2.1. Phạm vi điều chỉnh; Điều 6.5.TT.3.1. Phạm vi điều chỉnh)
+
+Điều 30.1.NĐ.1.4. Các điều kiện của người được đề nghị đặc xá
+
+(Điều 4 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
+
+ 1. Người bị kết án phạt tù có nhiều tiến bộ, có ý thức cải tạo tốt và được xếp loại chấp hành án phạt tù khá hoặc tốt theo quy định của pháp luật về thi hành án hình sự quy định tại điểm a khoản 1 Điều 11 Luật Đặc xá là người đã chấp hành nghiêm Nội quy trại giam, trại tạm giam, nhà tạm giữ, tích cực học tập, lao động, cải tạo và các quý đã đủ thời gian xếp loại trong quá trình chấp hành án phạt tù được xếp loại khá hoặc tốt.
+
+ 2. Người bị kết án phạt tù đã thi hành xong nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác quy định tại điểm đ khoản 1 Điều 11 Luật Đặc xá là người thuộc một trong các trường hợp sau:
+
+ a) Đã thi hành xong nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác theo bản án, quyết định của Tòa án;
+
+ b) Có quyết định đình chỉ thi hành án của Thủ trưởng cơ quan thi hành án dân sự có thẩm quyền;
+
+ c) Có văn bản đề nghị của người được thi hành án hoặc đại diện hợp pháp của người được thi hành án về việc không phải thi hành nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác theo bản án, quyết định của Tòa án đối với tài sản không thuộc sở hữu nhà nước.
+
+ 3. Người bị kết án phạt tù đã thi hành được một phần nghĩa vụ tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác nhưng do lâm vào hoàn cảnh kinh tế đặc biệt khó khăn thuộc trường hợp chưa có điều kiện thi hành tiếp phần còn lại là trường hợp người đó và gia đình không còn tài sản để thi hành án hoặc có tài sản nhưng giá trị tài sản chỉ đủ để thanh toán chi phí cưỡng chế thi hành án hoặc tài sản theo quy định của pháp luật không được kê biên, xử lý để thi hành án và không có thu nhập hoặc có thu nhập chỉ bảo đảm cuộc sống tối thiểu cho người phải thi hành án, người mà họ có trách nhiệm nuôi dưỡng.
+
+ 4. Người bị kết án phạt tù đã lập công lớn trong thời gian chấp hành án phạt tù quy định tại điểm a khoản 3 Điều 11 Luật Đặc xá là người thuộc một trong các trường hợp sau:
+
+ a) Đã có hành động giúp trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện, cơ quan có thẩm quyền tiến hành tố tụng hình sự phát hiện, truy bắt, điều tra, xử lý tội phạm;
+
+ b) Cứu được tính mạng người khác hoặc tài sản lớn (có giá trị từ 50 triệu đồng trở lên) của Nhà nước, của tập thể, của công dân trong thiên tai, hỏa hoạn;
+
+ c) Có những phát minh, sáng kiến có giá trị lớn hoặc thành tích đặc biệt xuất sắc khác được trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện xác nhận.
+
+ Người đã có quyết định thi hành án phạt tù lập công lớn trong thời gian chờ đưa đến trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện để chấp hành án phạt tù cũng được coi là lập công lớn trong thời gian chấp hành án phạt tù.
+
+ 5. Người bị kết án phạt tù đang mắc bệnh hiểm nghèo quy định tại điểm c khoản 3 Điều 11 Luật Đặc xá là người mắc một trong các bệnh: Ung thư giai đoạn cuối; liệt; lao nặng kháng thuốc; xơ gan cổ trướng; suy tim độ III trở lên; suy thận độ IV trở lên; bệnh HIV giai đoạn lâm sàng IV đang có nhiễm trùng cơ hội, không có khả năng tự phục vụ bản thân và có tiên lượng xấu, nguy cơ tử vong cao hoặc mắc bệnh khác mà được Hội đồng giám định y khoa hoặc bệnh viện cấp tỉnh, cấp quân khu trở lên kết luận bằng văn bản là không tự phục vụ bản thân, nguy cơ tử vong cao.
+
+ 6. Người bị kết án phạt tù đang ốm đau thường xuyên mà không tự phục vụ bản thân quy định tại điểm c khoản 3 Điều 11 Luật Đặc xá là người đang phải nằm điều trị tại bệnh xá, bệnh viện liên tục từ 03 tháng trở lên hoặc không liên tục nhưng phải nằm điều trị tại bệnh viện từ ba lần trở lên, mỗi lần từ 01 tháng trở lên, không tự phục vụ bản thân, có kết luận bằng văn bản của Hội đồng giám định y khoa hoặc bệnh viện cấp tỉnh, cấp quân khu trở lên.
+
+ 7. Người bị kết án phạt tù có hoàn cảnh gia đình đặc biệt khó khăn và bản thân là lao động duy nhất trong gia đình quy định tại điểm e khoản 3 Điều 11 Luật Đặc xá là trường hợp gia đình của người bị kết án phạt tù đang lâm vào hoàn cảnh kinh tế đặc biệt khó khăn do tai nạn, ốm đau, thiên tai, hỏa hoạn hoặc sự kiện bất khả kháng khác dẫn đến không còn tài sản gì đáng kể, không có thu nhập hoặc thu nhập dưới mức chuẩn hộ nghèo hoặc có bố đẻ, mẹ đẻ, vợ, chồng, con ốm nặng kéo dài, không có người chăm sóc mà người đó là lao động duy nhất trong gia đình, được Ủy ban nhân dân cấp xã nơi gia đình người đó cư trú xác nhận là đúng.Điều 30.1.LQ.12. Các trường hợp không được đề nghị đặc xá
+
+(Điều 12 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 Người có đủ điều kiện quy định tại Điều 11 của Luật này không được đề nghị đặc xá khi thuộc một trong các trường hợp sau đây:
 
-**Chỉ mục:** 12
+1. Bị kết án phạt tù về tội phản bội Tổ quốc; tội hoạt động nhằm lật đổ chính quyền nhân dân; tội gián điệp; tội xâm phạm an ninh lãnh thổ; tội bạo loạn; tội khủng bố nhằm chống chính quyền nhân dân; tội phá hoại cơ sở vật chất - kỹ thuật của nước Cộng hòa xã hội chủ nghĩa Việt Nam; tội làm, tàng trữ, phát tán hoặc tuyên truyền thông tin, tài liệu, vật phẩm nhằm chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; tội phá rối an ninh; tội chống phá cơ sở giam giữ; tội khủng bố hoặc một trong các tội quy định tại Chương các tội phá hoại hòa bình, chống loài người và tội phạm chiến tranh của Bộ luật Hình sự;
 
-**Mã phân cấp:** 300010000000000020000020000000000000000001200000000000000000
+2. Bản án, phần bản án hoặc quyết định của Tòa án đối với người đó đang bị kháng nghị theo thủ tục giám đốc thẩm, tái thẩm theo hướng tăng nặng trách nhiệm hình sự;
 
-**ID:** dk_00048498
+3. Đang bị truy cứu trách nhiệm hình sự về hành vi phạm tội khác;
 
----
+4. Trước đó đã được đặc xá;
 
+5. Có từ 02 tiền án trở lên;
 
-### Điều 30.1.LQ.13. Quyền và nghĩa vụ của người được đề nghị đặc xá
+6. Trường hợp khác do Chủ tịch nước quyết định.
+
+Điều 30.1.LQ.13. Quyền và nghĩa vụ của người được đề nghị đặc xá
+
+(Điều 13 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Được phổ biến chính sách, pháp luật về đặc xá; thông báo Quyết định về đặc xá, văn bản hướng dẫn của cơ quan có thẩm quyền về điều kiện của người được đề nghị đặc xá và thông tin khác về đặc xá liên quan đến người được đề nghị đặc xá.
 
-**Chỉ mục:** 13
+2. Liên hệ với thân nhân để thu thập giấy tờ, tài liệu cần thiết cho việc hoàn thiện hồ sơ đề nghị đặc xá.
 
-**Mã phân cấp:** 300010000000000020000020000000000000000001300000000000000000
+3. Đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền cấp, xác nhận giấy tờ, tài liệu cần thiết cho việc hoàn thiện hồ sơ đề nghị đặc xá.
 
-**ID:** dk_00048499
+4. Cung cấp giấy tờ, tài liệu theo yêu cầu của cơ quan có thẩm quyền đề nghị đặc xá; khai báo đầy đủ, trung thực thông tin về cá nhân liên quan đến việc đề nghị đặc xá.
 
----
+5. Khiếu nại, tố cáo theo quy định tại Chương V của Luật này.
 
+Mục 3
 
-### Điều 30.1.LQ.14. Hồ sơ đề nghị đặc xá
+TRÌNH TỰ, THỦ TỤC ĐỀ NGHỊ ĐẶC XÁ, THỰC HIỆN QUYẾT ĐỊNH ĐẶC XÁ
+
+Điều 30.1.LQ.14. Hồ sơ đề nghị đặc xá
+
+(Điều 14 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Đơn đề nghị đặc xá.
 
-**Chỉ mục:** 14
+2. Tài liệu chứng minh về cá nhân, hoàn cảnh gia đình của người được đề nghị đặc xá.
 
-**Mã phân cấp:** 300010000000000020000030000000000000000001400000000000000000
+3. Tài liệu chứng minh đã chấp hành xong hình phạt bổ sung là phạt tiền, đã nộp án phí. Trường hợp được miễn chấp hành hình phạt tiền, miễn nộp án phí phải có quyết định của Tòa án có thẩm quyền.
 
-**ID:** dk_00048501
+Người bị kết án phạt tù về các tội phạm quy định tại điểm d khoản 1 Điều 11 của Luật này phải có tài liệu chứng minh đã thi hành xong nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác.
 
----
+Người thuộc trường hợp quy định tại điểm đ khoản 1 Điều 11 của Luật này phải có tài liệu chứng minh đã thi hành xong hoặc có tài liệu chứng minh đã thi hành được một phần nghĩa vụ trả lại tài sản, bồi thường thiệt hại hoặc nghĩa vụ dân sự khác và có quyết định của cơ quan thi hành án dân sự có thẩm quyền về việc chưa có điều kiện thi hành án. Trường hợp người được thi hành án đồng ý hoãn thi hành án hoặc không yêu cầu thi hành án đối với tài sản không thuộc sở hữu của Nhà nước thì phải có văn bản của người được thi hành án có xác nhận của cơ quan có thẩm quyền.
 
+Người thuộc trường hợp quy định tại điểm c khoản 3 Điều 11 của Luật này phải có kết luận của Hội đồng giám định y khoa, Bệnh viện cấp tỉnh hoặc cấp quân khu trở lên.
 
-### Điều 30.1.NĐ.1.5. Hồ sơ đề nghị đặc xá
+Người thuộc trường hợp quy định tại điểm e khoản 3 Điều 11 của Luật này phải có xác nhận của Ủy ban nhân dân cấp xã nơi gia đình người đó cư trú.
 
-Hồ sơ đề nghị đặc xá bao gồm các văn bản, tài liệu quy định tại Điều 14 Luật Đặc xá, cụ thể như sau:
+Người thuộc trường hợp quy định tại điểm h khoản 3 Điều 11 của Luật này phải có Giấy xác nhận khuyết tật của Ủy ban nhân dân cấp xã nơi người khuyết tật cư trú; quyết định của Tòa án có thẩm quyền tuyên bố có khó khăn trong nhận thức, làm chủ hành vi.
 
-**Chỉ mục:** 5
+4. Bản cam kết không vi phạm pháp luật, chấp hành đầy đủ hình phạt bổ sung không phải là hình phạt tiền, nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác sau khi được đặc xá.
 
-**Mã phân cấp:** 30001000000000002000003000000000000000000140000000000000000000402694800520000500
+5. Văn bản đề nghị đặc xá của Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu.
 
-**ID:** dk_00048502
+Trường hợp người được đề nghị đặc xá là người đang được tạm đình chỉ chấp hành án phạt tù thì phải có văn bản đề nghị đặc xá của Tòa án nhân dân cấp tỉnh, Tòa án quân sự cấp quân khu và văn bản nhận xét của Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý người đó về việc chấp hành nghiêm chỉnh pháp luật trong thời gian được tạm đình chỉ chấp hành án phạt tù.
 
----
+(Điều này có nội dung liên quan đến Chương III MỐI QUAN HỆ CÔNG TÁC CỦA HỘI ĐỒNG GIÁM ĐỊNH Y KHOA CÁC CẤP; Chương II HOẠT ĐỘNG CỦA HỘI ĐỒNG GIÁM ĐỊNH Y KHOA; Chương I TỔ CHỨC HỘI ĐỒNG GIÁM ĐỊNH Y KHOA CÁC CẤPMục 1. HỘI ĐỒNG GIÁM ĐỊNH Y KHOA của Thông tư 01/2023/TT-BYT quy định chi tiết về hoạt động và mối quan hệ công tác của Hội đồng Giám định y khoa các cấp ban hành ngày 01/02/2023)
 
+Điều 30.1.NĐ.1.5. Hồ sơ đề nghị đặc xá
 
-### Điều 30.1.LQ.15. Trình tự, thủ tục lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá
+(Điều 5 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
+
+ Hồ sơ đề nghị đặc xá bao gồm các văn bản, tài liệu quy định tại Điều 14 Luật Đặc xá, cụ thể như sau:
+
+ 1. Đơn đề nghị đặc xá của người bị kết án phạt tù theo mẫu của Hội đồng tư vấn đặc xá ban hành trong mỗi đợt đặc xá.
+
+ 2. Bản cam kết của người bị kết án phạt tù về việc không vi phạm pháp luật, tiếp tục chấp hành nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác nếu chưa thi hành xong và chấp hành các hình phạt bổ sung khác (nếu có) theo mẫu của Hội đồng tư vấn đặc xá như: Cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định; cấm cư trú; quản chế; tước một số quyền công dân; tịch thu tài sản; trục xuất.
+
+ 3. Đối với trường hợp người bị kết án phạt tù là người đã lập công lớn trong thời gian chấp hành án phạt tù, người có công với cách mạng, thân nhân của người có công với cách mạng; người đang mắc bệnh hiểm nghèo, người đang ốm đau thường xuyên mà không tự phục vụ bản thân; khi phạm tội là người dưới 18 tuổi; người dưới 18 tuổi đang chấp hành án phạt tù; người từ đủ 70 tuổi trở lên; phụ nữ có thai hoặc có con dưới 36 tháng tuổi đang ở với mẹ trong trại giam, trại tạm giam, nhà tạm giữ; người có hoàn cảnh gia đình đặc biệt khó khăn và bản thân là lao động duy nhất trong gia đình; người khuyết tật nặng hoặc khuyết tật đặc biệt nặng; người có khó khăn trong nhận thức, làm chủ hành vi thì phải có tài liệu chứng minh sau đây tương ứng với từng trường hợp:
+
+ a) Bản tường trình về lập công của người bị kết án phạt tù; đề nghị bằng văn bản khen thưởng cho người bị kết án phạt tù của cán bộ trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện hoặc Cơ quan điều tra sử dụng người bị kết án phạt tù để phục vụ công tác điều tra; xác nhận hoặc bản sao quyết định khen thưởng về việc người bị kết án phạt tù lập công lớn trong quá trình chấp hành án phạt tù của Giám thị trại giam, Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện hoặc Cơ quan điều tra sử dụng người bị kết án phạt tù để phục vụ công tác điều tra;
+
+ b) Tài liệu chứng minh người bị kết án phạt tù là người có công với cách mạng theo quy định của pháp luật về ưu đãi người có công với cách mạng; bản sao quyết định tặng thưởng danh hiệu Anh hùng Lao động, Dũng sĩ trong kháng chiến chống Mỹ cứu nước; bản sao Huân chương, Huy chương Kháng chiến;
+
+ Trường hợp người bị kết án phạt tù là cha, mẹ, vợ, chồng, con của liệt sĩ, người có công giúp đỡ cách mạng được tặng Kỷ niệm chương “Tổ quốc ghi công” hoặc Bằng “Có công với nước” hoặc người có công nuôi dưỡng liệt sĩ khi còn nhỏ phải có giấy xác nhận hoặc bản sao giấy tờ chứng minh do Ủy ban nhân dân cấp xã nơi người bị kết án phạt tù cư trú trước khi phạm tội hoặc đơn vị nơi người bị kết án phạt tù đã công tác, học tập trước khi phạm tội xác nhận. Trường hợp người bị kết án phạt tù là bố nuôi, mẹ nuôi, con nuôi hợp pháp của liệt sĩ, người có công giúp đỡ cách mạng được tặng Kỷ niệm chương “Tổ quốc ghi công” hoặc Bằng “Có công với nước” hoặc con nuôi hợp pháp của “Bà mẹ Việt Nam anh hùng” phải có xác nhận hoặc bản sao Giấy chứng nhận nuôi con nuôi của Ủy ban nhân dân cấp xã nơi người bị kết án phạt tù cư trú hoặc Ủy ban nhân dân cấp xã nơi liệt sĩ cư trú trước khi hy sinh, nơi cư trú của Bà mẹ Việt Nam anh hùng;
+
+ c) Kết luận của Hội đồng giám định y khoa hoặc bản sao bệnh án, kết luận của bệnh viện cấp tỉnh, cấp quân khu trở lên đối với người bị kết án phạt tù đang mắc bệnh hiểm nghèo hoặc đang ốm đau thường xuyên, người bị kết án phạt tù đang có thai;
+
+ Các tài liệu chứng minh người bị kết án phạt tù bị bệnh hiểm nghèo hoặc ốm đau thường xuyên chỉ có giá trị trong thời gian 06 tháng, tính đến ngày Hội đồng xét đề nghị đặc xá của trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện họp xem xét, lập hồ sơ đề nghị đặc xá;
+
+ d) Bản sao giấy khai sinh hoặc bản trích sao phần bản án đối với người bị kết án phạt tù khi phạm tội là người dưới 18 tuổi, người dưới 18 tuổi đang chấp hành án phạt tù, người từ đủ 70 tuổi trở lên;
+
+ đ) Bản sao giấy khai sinh hoặc bản sao giấy chứng sinh của con để xác định người bị kết án phạt tù là phụ nữ có con dưới 36 tháng tuổi đang ở với mẹ trong trại giam, trại tạm giam, nhà tạm giữ;
+
+ e) Bản sao giấy xác nhận khuyết tật nặng, đặc biệt nặng do Ủy ban nhân dân cấp xã nơi người bị kết án phạt tù cư trú trước khi thi hành án hoặc Ủy ban nhân dân cấp xã nơi người bị kết án phạt tù chấp hành án; bản sao Quyết định của Tòa án có thẩm quyền tuyên bố người bị kết án phạt tù có khó khăn trong nhận thức, làm chủ hành vi theo quy định của pháp luật dân sự;
+
+ g) Văn bản của cơ quan thi hành án dân sự có thẩm quyền xác nhận người bị kết án phạt tù đã thi hành được một phần nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác theo bản án, quyết định của Tòa án nhưng lâm vào hoàn cảnh kinh tế đặc biệt khó khăn thuộc trường hợp chưa có điều kiện thi hành tiếp phần còn lại theo quy định của pháp luật về thi hành án dân sự và quyết định về việc chưa có điều kiện thi hành án.
+
+ 4. Bản chính hoặc bản sao văn bản, tài liệu thể hiện việc người bị kết án chấp hành xong hình phạt bổ sung là phạt tiền, nộp án phí, nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác như: Các biên lai, hóa đơn, chứng từ thể hiện việc này hoặc Quyết định miễn hình phạt tiền, miễn nộp án phí của Tòa án, Quyết định đình chỉ thi hành án của Thủ trưởng cơ quan thi hành án dân sự có thẩm quyền hoặc văn bản thỏa thuận của người được thi hành án hoặc đại diện hợp pháp của người đó về việc không phải thi hành nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác theo bản án, Quyết định của Tòa án được Ủy ban nhân dân cấp xã nơi cư trú hoặc cơ quan thi hành án dân sự đang thụ lý vụ việc đó xác nhận hoặc các văn bản, tài liệu khác thể hiện việc này.
+
+ 5. Bản chính hoặc bản sao văn bản của người được thi hành án đồng ý cho người bị kết án phạt tù hoãn thi hành hoặc không phải thi hành nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác đối với tài sản không thuộc sở hữu của Nhà nước.
+
+ 6. Đối với người bị kết án phạt tù là người nước ngoài phải có bản sao Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế và thị thực nhập cảnh (nếu có).
+
+ 7. Văn bản đề nghị đặc xá của Hội đồng xét, đề nghị đặc xá của trại giam, trại tạm giam, Cơ quan thi hành án hình sự Công an cấp huyện, Tòa án nhân dân cấp tỉnh hoặc Tòa án quân sự cấp quân khu theo mẫu do Hội đồng tư vấn đặc xá ban hành trong mỗi đợt đặc xá.
+
+ 8. Đối với người bị kết án phạt tù đang được tạm đình chỉ chấp hành án phạt tù thì ngoài các tài liệu quy định tại khoản 1, 2, 3, 4, 5, 6, 7 của Điều này còn phải có quyết định tạm đình chỉ chấp hành án phạt tù; văn bản nhận xét của Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý người đó về việc chấp hành nghiêm chỉnh pháp luật trong thời gian được tạm đình chỉ chấp hành án phạt tù.Điều 30.1.LQ.15. Trình tự, thủ tục lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá
+
+(Điều 15 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Ngay sau khi Quyết định về đặc xá được công bố, thông báo trên phương tiện thông tin đại chúng, trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện phải niêm yết, phổ biến cho người đang chấp hành án phạt tù biết.
 
-**Chỉ mục:** 15
+Trong thời hạn 05 ngày kể từ ngày Quyết định về đặc xá được niêm yết, phổ biến, người đang chấp hành án phạt tù có thời hạn, tù chung thân nhưng đã được giảm xuống tù có thời hạn căn cứ vào quy định tại Điều 11 và Điều 12 của Luật này làm đơn đề nghị đặc xá.
 
-**Mã phân cấp:** 300010000000000020000030000000000000000001500000000000000000
+2. Trong thời hạn 10 ngày kể từ ngày Quyết định về đặc xá được niêm yết, phổ biến, việc lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá thực hiện như sau:
 
-**ID:** dk_00048503
+a) Giám thị trại giam thuộc Bộ Công an lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá gửi Tổ thẩm định liên ngành;
 
----
+b) Giám thị trại tạm giam thuộc Bộ Công an lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá, báo cáo Thủ trưởng cơ quan quản lý trực tiếp để gửi Tổ thẩm định liên ngành;
 
+c) Giám thị trại tạm giam thuộc Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá, báo cáo Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh để gửi Tổ thẩm định liên ngành;
 
-### Điều 30.1.NĐ.1.7. Trình tự, thủ tục lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá
+d) Người bị kết án phạt tù đang chấp hành án tại trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện bị trích xuất để phục vụ điều tra, truy tố, xét xử nhưng không bị truy cứu trách nhiệm hình sự về hành vi phạm tội khác, nếu đủ điều kiện được đề nghị đặc xá thì Giám thị trại giam, Giám thị trại tạm giam hoặc Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện đang quản lý hồ sơ gốc của người đó lập hồ sơ đề nghị đặc xá. Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện nhận người bị trích xuất nhưng không quản lý hồ sơ gốc có trách nhiệm phối hợp với cơ quan đang quản lý hồ sơ gốc của người đó lập hồ sơ đề nghị đặc xá;
 
-1. Trong thời hạn 05 ngày kể từ ngày Quyết định về đặc xá được niêm yết, phổ biến, Giám thị trại giam, Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện tổ chức cho người bị kết án phạt tù viết Đơn đề nghị đặc xá và Bản cam kết theo mẫu.
+đ) Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng hoặc Thủ trưởng cơ quan thi hành án hình sự cấp quân khu lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá, báo cáo Thủ trưởng cơ quan quản lý thi hành án hình sự Bộ Quốc phòng để gửi Tổ thẩm định liên ngành.
 
-**Chỉ mục:** 7
+3. Trong thời hạn 15 ngày kể từ ngày Quyết định về đặc xá được công bố, thông báo trên phương tiện thông tin đại chúng, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu đã ra quyết định tạm đình chỉ chấp hành án phạt tù có trách nhiệm thông báo Quyết định về đặc xá cho người đang được tạm đình chỉ chấp hành án phạt tù, lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá gửi Tổ thẩm định liên ngành.
 
-**Mã phân cấp:** 30001000000000002000003000000000000000000150000000000000000000402694800520000700
+Trường hợp người đang được tạm đình chỉ chấp hành án phạt tù cư trú ở địa phương ngoài phạm vi địa giới hành chính của Tòa án đã ra quyết định tạm đình chỉ thì Tòa án đã ra quyết định tạm đình chỉ thông báo cho Tòa án nhân dân cấp huyện, Tòa án quân sự khu vực nơi người đang được tạm đình chỉ cư trú lập danh sách, hồ sơ của người được đề nghị đặc xá, chuyển đến Tòa án đã ra quyết định tạm đình chỉ để tổng hợp, gửi Tổ thẩm định liên ngành.
 
-**ID:** dk_00048504
+4. Giám thị trại giam, Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện, Chánh án Tòa án nhân dân cấp tỉnh và Chánh án Tòa án quân sự cấp quân khu có trách nhiệm thông báo, niêm yết công khai danh sách người được đề nghị đặc xá.
 
----
+5. Giám thị trại giam thuộc Bộ Công an, Bộ Quốc phòng, Thủ trưởng cơ quan quản lý trực tiếp trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu thông báo bằng văn bản cho Viện kiểm sát có thẩm quyền quy định tại Điều 30 của Luật này về kết quả lập danh sách, hồ sơ của người được đề nghị đặc xá để kiểm sát trước khi gửi Tổ thẩm định liên ngành.
 
+6. Giám thị trại giam thuộc Bộ Công an, Thủ trưởng cơ quan quản lý trực tiếp trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan quản lý thi hành án hình sự Bộ Quốc phòng, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu căn cứ kết quả thẩm định của Tổ thẩm định liên ngành lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá và danh sách, hồ sơ của người không đủ điều kiện đề nghị đặc xá gửi Thường trực Hội đồng tư vấn đặc xá.
 
-### Điều 30.1.LQ.16. Thẩm định hồ sơ đề nghị đặc xá
+7. Bộ Công an, Bộ Quốc phòng, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, trong phạm vi nhiệm vụ, quyền hạn của mình, hướng dẫn thực hiện Điều này.
+
+Điều 30.1.NĐ.1.7. Trình tự, thủ tục lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá
+
+(Điều 7 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
+
+ 1. Trong thời hạn 05 ngày kể từ ngày Quyết định về đặc xá được niêm yết, phổ biến, Giám thị trại giam, Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện tổ chức cho người bị kết án phạt tù viết Đơn đề nghị đặc xá và Bản cam kết theo mẫu.
+
+ 2. Sau khi nhận được đơn đề nghị đặc xá của người đủ điều kiện được đề nghị đặc xá, Giám thị trại giam, Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện tổ chức cho tập thể đội (tổ) phạm nhân họp bình xét, bỏ phiếu kín, giới thiệu người được đề nghị đặc xá nếu có đội (tổ) phạm nhân. Cán bộ quản giáo phụ trách đội (tổ) phạm nhân có trách nhiệm tổng hợp kết quả cuộc họp bằng biên bản và đề xuất ý kiến về việc đề nghị đặc xá đối với người bị kết án phạt tù do mình phụ trách.
+
+ 3. Căn cứ quy định của pháp luật về đặc xá, Quyết định về đặc xá và kết quả cuộc họp của đội (tổ) phạm nhân, Giám thị trại giam, Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá.Điều 30.1.LQ.16. Thẩm định hồ sơ đề nghị đặc xá
+
+(Điều 16 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Tổ thẩm định liên ngành thẩm định danh sách, hồ sơ của người được đề nghị đặc xá trong thời hạn 15 ngày kể từ ngày người có thẩm quyền quy định tại khoản 2 và khoản 3 Điều 15 của Luật này gửi danh sách, hồ sơ cho Tổ thẩm định liên ngành.
 
-**Chỉ mục:** 16
+2. Tổ thẩm định liên ngành tổng hợp kết quả thẩm định, lập biên bản thẩm định kèm theo danh sách người đủ điều kiện được đề nghị đặc xá, danh sách người không đủ điều kiện đề nghị đặc xá, gửi cho người có thẩm quyền quy định tại khoản 2 và khoản 3 Điều 15 của Luật này để hoàn thiện danh sách, hồ sơ người đủ điều kiện được đề nghị đặc xá theo kết quả thẩm định và chuyển đến Thường trực Hội đồng tư vấn đặc xá hoặc báo cáo cơ quan có thẩm quyền chuyển đến Thường trực Hội đồng tư vấn đặc xá theo quy định tại khoản 6 Điều 15 của Luật này.
 
-**Mã phân cấp:** 300010000000000020000030000000000000000001600000000000000000
+Điều 30.1.NĐ.1.8. Thẩm định hồ sơ đề nghị đặc xá
 
-**ID:** dk_00048505
+(Điều 8 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
 
----
+ 1. Tổ thẩm định liên ngành trực tiếp làm việc với Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự Bộ Quốc phòng, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu để nghe báo cáo kết quả xét đề nghị đặc xá và thẩm định hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá.
 
+ 2. Khi thẩm định hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá, thành viên tổ thẩm định liên ngành phải đối chiếu văn bản đề nghị đặc xá với hồ sơ gốc của người đang chấp hành án phạt tù có thời hạn, người bị kết án phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn và hồ sơ của người đang được tạm đình chỉ chấp hành án phạt tù bảo đảm chính xác, đúng đối tượng, điều kiện.
 
-### Điều 30.1.NĐ.1.8. Thẩm định hồ sơ đề nghị đặc xá
+ 3. Sau khi thẩm định từng hồ sơ, thành viên Tổ thẩm định liên ngành có trách nhiệm ghi rõ vào phần ý kiến của Tổ thẩm định liên ngành trong văn bản đề nghị đặc xá. Trường hợp không đủ điều kiện đề nghị đặc xá phải ghi rõ lý do.
 
-1. Tổ thẩm định liên ngành trực tiếp làm việc với Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự Bộ Quốc phòng, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu để nghe báo cáo kết quả xét đề nghị đặc xá và thẩm định hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá.
+ Trường hợp còn vướng mắc hoặc phải cân nhắc kỹ thì thành viên Tổ thẩm định liên ngành báo cáo và đưa ra Tổ thẩm định liên ngành thống nhất, quyết định. Trường hợp không thống nhất được thì phải lấy biểu quyết của các thành viên, ghi rõ tỷ lệ đồng ý đề nghị đặc xá và tỷ lệ không đồng ý đề nghị đặc xá của các thành viên vào phần ý kiến của Tổ thẩm định liên ngành trong văn bản đề nghị đặc xá.Điều 30.1.LQ.17. Thẩm tra, duyệt, kiểm tra hồ sơ đề nghị đặc xá và trình Chủ tịch nước danh sách đề nghị đặc xá
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 30001000000000002000003000000000000000000160000000000000000000402694800520000800
-
-**ID:** dk_00048506
-
----
-
-
-### Điều 30.1.LQ.17. Thẩm tra, duyệt, kiểm tra hồ sơ đề nghị đặc xá và trình Chủ tịch nước danh sách đề nghị đặc xá
+(Điều 17 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Thường trực Hội đồng tư vấn đặc xá tập hợp danh sách, hồ sơ người đủ điều kiện được đề nghị đặc xá, người không đủ điều kiện đề nghị đặc xá do người có thẩm quyền quy định tại khoản 6 Điều 15 của Luật này lập theo kết quả thẩm định của Tổ thẩm định liên ngành và chuyển danh sách kèm theo văn bản đề nghị đặc xá đến các ủy viên Hội đồng tư vấn đặc xá để thẩm tra.
 
-**Chỉ mục:** 17
+2. Ủy viên Hội đồng tư vấn đặc xá nghiên cứu, thẩm tra danh sách, văn bản đề nghị đặc xá; trường hợp cần thiết có thể yêu cầu Thường trực Hội đồng tư vấn đặc xá giải trình, gửi hồ sơ, cung cấp tài liệu bổ sung. Thường trực Hội đồng tư vấn đặc xá có trách nhiệm tổng hợp ý kiến của ủy viên Hội đồng tư vấn đặc xá, trình Hội đồng tư vấn đặc xá xem xét, quyết định.
 
-**Mã phân cấp:** 300010000000000020000030000000000000000001700000000000000000
+3. Hội đồng tư vấn đặc xá tổ chức duyệt danh sách, hồ sơ đề nghị đặc xá do Thường trực Hội đồng tư vấn đặc xá trình; tổng hợp và lập danh sách người đủ điều kiện được đề nghị đặc xá để trình Chủ tịch nước xem xét, quyết định.
 
-**ID:** dk_00048507
+4. Văn phòng Chủ tịch nước rà soát, kiểm tra danh sách, hồ sơ những người được Hội đồng tư vấn đặc xá đề nghị, trình Chủ tịch nước quyết định.
 
----
+Điều 30.1.LQ.18. Thực hiện Quyết định đặc xá
 
-
-### Điều 30.1.LQ.18. Thực hiện Quyết định đặc xá
+(Điều 18 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Văn phòng Chủ tịch nước chủ trì, phối hợp với các cơ quan có liên quan tổ chức công bố Quyết định đặc xá. Quyết định đặc xá được thông báo trên phương tiện thông tin đại chúng.
 
-**Chỉ mục:** 18
+Quyết định đặc xá và danh sách người được đặc xá được niêm yết tại trại giam, trại tạm giam, nhà tạm giữ nơi người được đặc xá đang chấp hành án và thông báo bằng văn bản đến Ủy ban nhân dân cấp xã, đơn vị quân đội nơi người đó về cư trú, làm việc; trường hợp người được đặc xá là người đang được tạm đình chỉ chấp hành án phạt tù thì thông báo bằng văn bản đến Ủy ban nhân dân cấp xã nơi người đó cư trú hoặc đơn vị quân đội được giao quản lý người đó.
 
-**Mã phân cấp:** 300010000000000020000030000000000000000001800000000000000000
+2. Giám thị trại giam, Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu tổ chức công bố và thực hiện Quyết định đặc xá đối với người được đặc xá.
 
-**ID:** dk_00048508
+3. Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng; Giám thị trại giam thuộc quân khu cấp Giấy chứng nhận đặc xá cho người đang chấp hành án phạt tù tại trại giam, trại tạm giam được đặc xá.
 
----
+Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh cấp Giấy chứng nhận đặc xá cho người đang chấp hành án phạt tù tại trại tạm giam Công an cấp tỉnh, nhà tạm giữ Công an cấp huyện được đặc xá.
 
+Thủ trưởng cơ quan thi hành án hình sự cấp quân khu cấp Giấy chứng nhận đặc xá cho người đang chấp hành án phạt tù tại trại tạm giam cấp quân khu được đặc xá.
 
-### Điều 30.1.NĐ.1.3. Thực hiện Quyết định về đặc xá
+Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu cấp Giấy chứng nhận đặc xá cho người đang được tạm đình chỉ chấp hành án phạt tù được đặc xá.
 
-Khi có Quyết định về đặc xá và Quyết định thành lập Hội đồng tư vấn đặc xá của Chủ tịch nước, Bộ Công an chủ trì, phối hợp với Bộ Quốc phòng, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan, tổ chức liên quan giúp Chính phủ, Hội đồng tư vấn đặc xá triển khai thực hiện Quyết định về đặc xá, Quyết định thành lập Hội đồng tư vấn đặc xá.
+4. Người đã cấp Giấy chứng nhận đặc xá có trách nhiệm gửi bản sao giấy chứng nhận đó đến Trung tâm lý lịch tư pháp quốc gia, Tòa án đã ra quyết định thi hành án, cơ quan chịu trách nhiệm thi hành các hình phạt bổ sung, cơ quan thi hành án dân sự đã ra quyết định chưa có điều kiện thi hành án, cơ quan thi hành án hình sự Công an cấp huyện, Ủy ban nhân dân cấp xã, tổ chức, đơn vị quân đội nơi người được đặc xá về cư trú, làm việc, cơ quan nhận người bị trích xuất.
 
-**Chỉ mục:** 3
+Trường hợp không xác định được nơi người được đặc xá về cư trú thì cơ quan đã cấp Giấy chứng nhận đặc xá có trách nhiệm liên hệ với Ủy ban nhân dân cấp xã hoặc tổ chức, đơn vị quân đội để tiếp nhận người được đặc xá và gửi bản sao giấy chứng nhận đến Ủy ban nhân dân cấp xã nơi người đó sẽ về cư trú hoặc cơ quan, tổ chức, đơn vị quân đội nơi người đó về làm việc.
 
-**Mã phân cấp:** 30001000000000002000003000000000000000000180000000000000000000402694800520000300
+(Điều này có nội dung liên quan đến Điều 30.3.TT.15.8. Tiếp nhận thông báo về phạm nhân trước khi hết thời hạn chấp hành án phạt tù, được đặc xá)
 
-**ID:** dk_00048509
+Điều 30.1.NĐ.1.3. Thực hiện Quyết định về đặc xá
 
----
+(Điều 3 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
 
+ Khi có Quyết định về đặc xá và Quyết định thành lập Hội đồng tư vấn đặc xá của Chủ tịch nước, Bộ Công an chủ trì, phối hợp với Bộ Quốc phòng, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan, tổ chức liên quan giúp Chính phủ, Hội đồng tư vấn đặc xá triển khai thực hiện Quyết định về đặc xá, Quyết định thành lập Hội đồng tư vấn đặc xá.Điều 30.1.LQ.19. Thực hiện Quyết định đặc xá đối với người nước ngoài
 
-### Điều 30.1.LQ.19. Thực hiện Quyết định đặc xá đối với người nước ngoài
+(Điều 19 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Khi có Quyết định đặc xá đối với người nước ngoài, Bộ Công an, Bộ Quốc phòng chủ trì phối hợp với Bộ Ngoại giao thông báo cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân biết và đề nghị phối hợp thực hiện Quyết định đặc xá.
 
-**Chỉ mục:** 19
+2. Chính phủ quy định chi tiết Điều này.
 
-**Mã phân cấp:** 300010000000000020000030000000000000000001900000000000000000
+Điều 30.1.NĐ.1.6. Thực hiện Quyết định đặc xá đối với người nước ngoài
 
-**ID:** dk_00048510
+(Điều 6 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
 
----
+ 1. Khi có Quyết định đặc xá đối với người nước ngoài, Cơ quan quản lý thi hành án hình sự thuộc Bộ Công an, Bộ Quốc phòng chủ trì, phối hợp với Cục Lãnh sự, Bộ Ngoại giao thông báo ngay cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân biết và đề nghị phối hợp thực hiện Quyết định đặc xá.
 
+ 2. Sau khi công bố Quyết định đặc xá, trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện trả tự do cho người nước ngoài theo Quyết định đặc xá và thông báo cho Cục Lãnh sự, Bộ Ngoại giao hoặc cơ quan khác được Bộ Ngoại giao ủy quyền để thông báo cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân biết.
 
-### Điều 30.1.NĐ.1.6. Thực hiện Quyết định đặc xá đối với người nước ngoài
+ 3. Người nước ngoài được đặc xá trong thời gian chờ làm các thủ tục xuất cảnh theo quy định của pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam được Thủ trưởng Cơ quan quản lý thi hành án hình sự thuộc Bộ Công an, Bộ Quốc phòng xem xét, quyết định cho lưu trú tại cơ sở lưu trú.
 
-1. Khi có Quyết định đặc xá đối với người nước ngoài, Cơ quan quản lý thi hành án hình sự thuộc Bộ Công an, Bộ Quốc phòng chủ trì, phối hợp với Cục Lãnh sự, Bộ Ngoại giao thông báo ngay cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân biết và đề nghị phối hợp thực hiện Quyết định đặc xá.
+ Quyết định người nước ngoài được đặc xá lưu trú tại cơ sở lưu trú được gửi tới Cục Lãnh sự, Bộ Ngoại giao hoặc cơ quan khác được Bộ Ngoại giao ủy quyền để thông báo cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân và được thực hiện ngay.
 
-**Chỉ mục:** 6
+ 4. Trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện có trách nhiệm bàn giao người nước ngoài được đặc xá cho cơ sở lưu trú theo quy định của pháp luật về thi hành án hình sự và quyết định người nước ngoài được đặc xá lưu trú tại cơ sở lưu trú.
 
-**Mã phân cấp:** 30001000000000002000003000000000000000000190000000000000000000402694800520000600
+ 5. Việc tổ chức quản lý và các chế độ đối với người nước ngoài được đặc xá lưu trú tại cơ sở lưu trú thực hiện theo quy định về tổ chức quản lý và các chế độ đối với người lưu trú trong thời gian chờ xuất cảnh theo quy định của pháp luật về thi hành án hình sự.
 
-**ID:** dk_00048511
+ 6. Khi đã đầy đủ các thủ tục xuất cảnh, Cơ quan quản lý thi hành án hình sự thuộc Bộ Công an, Bộ Quốc phòng chủ trì, phối hợp với Cục Lãnh sự, Bộ Ngoại giao hoặc cơ quan khác được Bộ Ngoại giao ủy quyền thông báo và đề nghị cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân biết để phối hợp thực hiện.Điều 30.1.LQ.20. Quyền và nghĩa vụ của người được đặc xá
 
----
-
-
-### Điều 30.1.LQ.20. Quyền và nghĩa vụ của người được đặc xá
+(Điều 20 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Người được đặc xá có quyền sau đây:
 
-**Chỉ mục:** 20
+a) Được cấp Giấy chứng nhận đặc xá;
 
-**Mã phân cấp:** 300010000000000020000030000000000000000002000000000000000000
+b) Được chính quyền địa phương, cơ quan, tổ chức, đơn vị có liên quan giúp đỡ để hòa nhập với gia đình và cộng đồng, tạo điều kiện về việc làm, ổn định cuộc sống;
 
-**ID:** dk_00048512
+c) Được hưởng các quyền khác như người đã chấp hành xong án phạt tù theo quy định của pháp luật.
 
----
+2. Người được đặc xá có nghĩa vụ sau đây:
 
+a) Xuất trình Giấy chứng nhận đặc xá với Ủy ban nhân dân cấp xã hoặc tổ chức, đơn vị quân đội nơi người đó về cư trú hoặc làm việc;
 
-### Điều 30.1.LQ.21. Quy định chi tiết, hướng dẫn về hồ sơ đề nghị đặc xá, trình tự, thủ tục lập danh sách, thẩm định, thẩm tra hồ sơ đề nghị đặc xá
+b) Thực hiện đầy đủ các nghĩa vụ đã cam kết;
+
+c) Nghiêm chỉnh chấp hành pháp luật.
+
+3. Người được đặc xá là người nước ngoài có các quyền quy định tại điểm a và điểm c khoản 1 Điều này, phải thực hiện các nghĩa vụ quy định tại điểm b và điểm c khoản 2 Điều này.
+
+Điều 30.1.LQ.21. Quy định chi tiết, hướng dẫn về hồ sơ đề nghị đặc xá, trình tự, thủ tục lập danh sách, thẩm định, thẩm tra hồ sơ đề nghị đặc xá
+
+(Điều 21 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Chính phủ quy định chi tiết về hồ sơ đề nghị đặc xá, trình tự, thủ tục lập danh sách, thẩm định, thẩm tra danh sách, hồ sơ đề nghị đặc xá và thực hiện Quyết định về đặc xá.
 
-**Chỉ mục:** 21
+2. Bộ Công an, Bộ Quốc phòng, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và cơ quan, tổ chức có liên quan, trong phạm vi nhiệm vụ, quyền hạn của mình, hướng dẫn, phối hợp thực hiện việc lập danh sách, xét duyệt hồ sơ đề nghị đặc xá.
 
-**Mã phân cấp:** 300010000000000020000030000000000000000002100000000000000000
+Chương III
 
-**ID:** dk_00048513
+ĐẶC XÁ TRONG TRƯỜNG HỢP ĐẶC BIỆT
 
----
+Điều 30.1.LQ.22. Người được đặc xá trong trường hợp đặc biệt
 
-
-### Điều 30.1.LQ.22. Người được đặc xá trong trường hợp đặc biệt
+(Điều 22 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 Trong trường hợp đặc biệt để đáp ứng yêu cầu về đối nội, đối ngoại của Nhà nước, Chủ tịch nước quyết định đặc xá cho người đang chấp hành án phạt tù có thời hạn, người đang được hoãn chấp hành án phạt tù, người đang được tạm đình chỉ chấp hành án phạt tù, người đang chấp hành án phạt tù chung thân mà không phụ thuộc vào các điều kiện quy định tại Điều 11 và Điều 12 của Luật này.
 
-**Chỉ mục:** 22
+Điều 30.1.LQ.23. Trình tự, thủ tục lập hồ sơ đề nghị đặc xá trong trường hợp đặc biệt
 
-**Mã phân cấp:** 3000100000000000300002200000000000000000
-
-**ID:** dk_00048515
-
----
-
-
-### Điều 30.1.LQ.23. Trình tự, thủ tục lập hồ sơ đề nghị đặc xá trong trường hợp đặc biệt
+(Điều 23 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Theo yêu cầu của Chủ tịch nước hoặc trong trường hợp Chính phủ đề nghị đặc xá được Chủ tịch nước chấp nhận, Chính phủ chủ trì, phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan, tổ chức có liên quan lập hồ sơ đề nghị đặc xá trình Chủ tịch nước xem xét, quyết định.
 
-**Chỉ mục:** 23
+2. Bộ Công an chịu trách nhiệm lập hồ sơ đề nghị đặc xá của người đang chấp hành án phạt tù có thời hạn, tù chung thân báo cáo Chính phủ để trình Chủ tịch nước xem xét, quyết định.
 
-**Mã phân cấp:** 3000100000000000300002300000000000000000
+Tòa án nhân dân tối cao chịu trách nhiệm lập hồ sơ đề nghị đặc xá của người đang được hoãn chấp hành án phạt tù, người đang được tạm đình chỉ chấp hành án phạt tù gửi Chính phủ để trình Chủ tịch nước xem xét, quyết định.
 
-**ID:** dk_00048516
+3. Văn phòng Chủ tịch nước rà soát, kiểm tra hồ sơ của người được đề nghị đặc xá trình Chủ tịch nước quyết định.
 
----
+Điều 30.1.LQ.24. Thực hiện Quyết định đặc xá trong trường hợp đặc biệt
 
-
-### Điều 30.1.LQ.24. Thực hiện Quyết định đặc xá trong trường hợp đặc biệt
+(Điều 24 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tổ chức thực hiện Quyết định đặc xá trong trường hợp đặc biệt.
 
-**Chỉ mục:** 24
+2. Việc thực hiện Quyết định đặc xá đối với người nước ngoài trong trường hợp đặc biệt được áp dụng theo quy định tại Điều 19 của Luật này.
 
-**Mã phân cấp:** 3000100000000000300002400000000000000000
+3. Người được đặc xá trong trường hợp đặc biệt có các quyền và nghĩa vụ quy định tại Điều 20 của Luật này.
 
-**ID:** dk_00048517
+Chương IV
 
----
+TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG VIỆC THỰC HIỆN ĐẶC XÁ
 
+Điều 30.1.LQ.25. Trách nhiệm của Chính phủ
 
-### Điều 30.1.LQ.25. Trách nhiệm của Chính phủ
+(Điều 25 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Đề nghị Chủ tịch nước đặc xá nhân sự kiện trọng đại, ngày lễ lớn của đất nước và trong trường hợp đặc biệt.
 
-**Chỉ mục:** 25
+2. Chỉ đạo việc tổ chức tuyên truyền, phổ biến về ý nghĩa, mục đích và nội dung của hoạt động đặc xá.
 
-**Mã phân cấp:** 3000100000000000400002500000000000000000
+3. Chỉ đạo Bộ Công an, Bộ Quốc phòng, các cơ quan khác của Chính phủ và Ủy ban nhân dân các cấp thực hiện đặc xá theo quy định của Luật này.
 
-**ID:** dk_00048519
+Điều 30.1.LQ.26. Trách nhiệm của Văn phòng Chủ tịch nước
 
----
-
-
-### Điều 30.1.LQ.26. Trách nhiệm của Văn phòng Chủ tịch nước
+(Điều 26 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Rà soát, kiểm tra danh sách, hồ sơ những người được Hội đồng tư vấn đặc xá hoặc Chính phủ đề nghị, trình Chủ tịch nước quyết định.
 
-**Chỉ mục:** 26
+2. Chủ trì, phối hợp với các cơ quan có liên quan tổ chức công bố Quyết định về đặc xá, Quyết định đặc xá.
 
-**Mã phân cấp:** 3000100000000000400002600000000000000000
+3. Thực hiện nhiệm vụ khác về đặc xá được Chủ tịch nước giao.
 
-**ID:** dk_00048520
+Điều 30.1.LQ.27. Trách nhiệm của Bộ Công an
 
----
-
-
-### Điều 30.1.LQ.27. Trách nhiệm của Bộ Công an
+(Điều 27 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Chủ trì phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Bộ Tư pháp và các cơ quan có liên quan kiểm tra hoạt động đặc xá tại các trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp tỉnh, cấp huyện.
 
-**Chỉ mục:** 27
+2. Hướng dẫn, kiểm tra, đôn đốc Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an và Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh thực hiện việc lập danh sách, hồ sơ đề nghị đặc xá, tổ chức thực hiện Quyết định về đặc xá, Quyết định đặc xá theo quy định của Luật này.
 
-**Mã phân cấp:** 3000100000000000400002700000000000000000
+3. Chỉ đạo công an các cấp phối hợp với cơ quan, tổ chức có liên quan trong việc quản lý, giáo dục và giúp đỡ người được đặc xá trở về địa phương, hòa nhập cộng đồng, ổn định cuộc sống và phòng ngừa tái phạm tội, vi phạm pháp luật.
 
-**ID:** dk_00048521
+Điều 30.1.LQ.28. Trách nhiệm của Bộ Quốc phòng
 
----
-
-
-### Điều 30.1.LQ.28. Trách nhiệm của Bộ Quốc phòng
+(Điều 28 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 Hướng dẫn, kiểm tra, đôn đốc Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu thực hiện việc lập danh sách, hồ sơ đề nghị đặc xá, tổ chức thực hiện Quyết định về đặc xá, Quyết định đặc xá theo quy định của Luật này.
 
-**Chỉ mục:** 28
+Điều 30.1.LQ.29. Trách nhiệm của Tòa án nhân dân tối cao
 
-**Mã phân cấp:** 3000100000000000400002800000000000000000
-
-**ID:** dk_00048522
-
----
-
-
-### Điều 30.1.LQ.29. Trách nhiệm của Tòa án nhân dân tối cao
+(Điều 29 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Phối hợp với Chính phủ, Viện kiểm sát nhân dân tối cao, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp và các cơ quan, tổ chức có liên quan trong hoạt động đặc xá.
 
-**Chỉ mục:** 29
+2. Hướng dẫn, kiểm tra, đôn đốc Tòa án nhân dân cấp tỉnh, Tòa án nhân dân cấp huyện, Tòa án quân sự cấp quân khu, Tòa án quân sự khu vực lập danh sách, hồ sơ đề nghị đặc xá, tổ chức thực hiện Quyết định về đặc xá, Quyết định đặc xá theo quy định của Luật này.
 
-**Mã phân cấp:** 3000100000000000400002900000000000000000
+Điều 30.1.LQ.30. Trách nhiệm của Viện kiểm sát nhân dân tối cao
 
-**ID:** dk_00048523
-
----
-
-
-### Điều 30.1.LQ.30. Trách nhiệm của Viện kiểm sát nhân dân tối cao
+(Điều 30 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Trực tiếp kiểm sát việc lập hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá tại trại giam, trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng quy định tại khoản 1, các điểm a, b, d và đ khoản 2, khoản 4 Điều 15 và Điều 18 của Luật này. Khi xét thấy cần thiết, trực tiếp kiểm sát việc lập hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá tại trại tạm giam thuộc Công an cấp tỉnh, trại tạm giam cấp quân khu, cơ quan thi hành án hình sự Công an cấp tỉnh, Tòa án nhân dân cấp tỉnh, Tòa án quân sự cấp quân khu thuộc thẩm quyền kiểm sát của Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát quân sự cấp quân khu quy định tại khoản 2 Điều này.
 
-**Chỉ mục:** 30
+2. Hướng dẫn, kiểm tra, đôn đốc Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát quân sự cấp quân khu thực hiện kiểm sát việc lập hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá tại trại tạm giam thuộc Công an cấp tỉnh, trại tạm giam cấp quân khu, cơ quan thi hành án hình sự Công an cấp tỉnh, Tòa án nhân dân cấp tỉnh, Tòa án quân sự cấp quân khu quy định tại khoản 1, các điểm c, d và đ khoản 2, khoản 3 và khoản 4 Điều 15 và Điều 18 của Luật này.
 
-**Mã phân cấp:** 3000100000000000400003000000000000000000
+3. Thực hiện, hướng dẫn việc thực hiện quyền yêu cầu, kiến nghị khi kiểm sát việc lập hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá; kiểm sát việc giải quyết khiếu nại theo quy định tại Điều 37 của Luật này.
 
-**ID:** dk_00048524
+Điều 30.1.LQ.31. Trách nhiệm của Bộ Tư pháp
 
----
-
-
-### Điều 30.1.LQ.31. Trách nhiệm của Bộ Tư pháp
+(Điều 31 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Chỉ đạo cơ quan thi hành án dân sự phối hợp với trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp tỉnh, cấp huyện, cơ quan thi hành án hình sự cấp quân khu, Tòa án nhân dân cấp tỉnh, Tòa án nhân dân cấp huyện, Tòa án quân sự cấp quân khu, Tòa án quân sự khu vực, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện, Viện kiểm sát quân sự cấp quân khu, Viện kiểm sát quân sự khu vực trong việc:
 
-**Chỉ mục:** 31
+a) Cung cấp thông tin, giấy tờ có liên quan đến nghĩa vụ thi hành phần dân sự trong bản án, quyết định hình sự của người đủ điều kiện được đề nghị đặc xá;
 
-**Mã phân cấp:** 3000100000000000400003100000000000000000
+b) Nhận, chuyển giao giấy tờ, tiền, tài sản mà người phải thi hành hình phạt tiền, tịch thu tài sản, bồi thường thiệt hại và các nghĩa vụ dân sự khác đã nộp.
 
-**ID:** dk_00048525
+2. Phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Bộ Công an, Bộ Quốc phòng và các cơ quan, tổ chức khác thực hiện các hoạt động khác liên quan đến công tác đặc xá theo quy định của Luật này.
 
----
+Điều 30.1.LQ.32. Trách nhiệm của Bộ Ngoại giao
 
-
-### Điều 30.1.LQ.32. Trách nhiệm của Bộ Ngoại giao
+(Điều 32 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Đề xuất Chính phủ trình Chủ tịch nước xem xét, quyết định đặc xá cho đối tượng quy định tại Điều 22 của Luật này là người nước ngoài theo quy định tại Điều 23 của Luật này.
 
-**Chỉ mục:** 32
+2. Phối hợp với Bộ Công an, Bộ Quốc phòng và các Bộ, ngành có liên quan thực hiện tuyên truyền đối ngoại về công tác đặc xá; phối hợp thực hiện Quyết định đặc xá đối với người được đặc xá là người nước ngoài và thực hiện các hoạt động khác liên quan đến công tác đặc xá theo quy định của Luật này.
 
-**Mã phân cấp:** 3000100000000000400003200000000000000000
+Điều 30.1.LQ.33. Trách nhiệm của Ủy ban nhân dân các cấp, cơ quan, tổ chức có liên quan
 
-**ID:** dk_00048526
-
----
-
-
-### Điều 30.1.LQ.33. Trách nhiệm của Ủy ban nhân dân các cấp, cơ quan, tổ chức có liên quan
+(Điều 33 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Tuyên truyền, phổ biến, giáo dục pháp luật về đặc xá, Quyết định về đặc xá.
 
-**Chỉ mục:** 33
+2. Cung cấp thông tin, tài liệu có liên quan đến nhân thân; cấp giấy chứng nhận, xác nhận về việc chấp hành chính sách, pháp luật, hoàn cảnh gia đình hoặc giấy tờ, tài liệu cần thiết khác của người đủ điều kiện được đề nghị đặc xá.
 
-**Mã phân cấp:** 3000100000000000400003300000000000000000
+3. Tiếp nhận, giúp đỡ người được đặc xá trở về hòa nhập với gia đình và cộng đồng, tạo điều kiện về việc làm, ổn định cuộc sống, trở thành người có ích cho xã hội, phòng ngừa tái phạm tội, vi phạm pháp luật.
 
-**ID:** dk_00048527
+4. Chính phủ quy định chi tiết khoản 3 Điều này.
 
----
+Điều 30.1.LQ.34. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận
 
-
-### Điều 30.1.LQ.34. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận
+(Điều 34 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Phối hợp với các cơ quan, tổ chức có liên quan tuyên truyền, phổ biến pháp luật về đặc xá, Quyết định về đặc xá.
 
-**Chỉ mục:** 34
+2. Phối hợp với chính quyền địa phương giúp đỡ người được đặc xá trở về hòa nhập với gia đình và cộng đồng, tạo điều kiện về việc làm, ổn định cuộc sống, trở thành người có ích cho xã hội, phòng ngừa tái phạm tội, vi phạm pháp luật.
 
-**Mã phân cấp:** 3000100000000000400003400000000000000000
+3. Giám sát việc thực hiện pháp luật về đặc xá theo quy định của pháp luật.
 
-**ID:** dk_00048528
+Điều 30.1.LQ.35. Trách nhiệm của Hội đồng tư vấn đặc xá
 
----
-
-
-### Điều 30.1.LQ.35. Trách nhiệm của Hội đồng tư vấn đặc xá
+(Điều 35 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Tổ chức triển khai thực hiện Quyết định về đặc xá.
 
-**Chỉ mục:** 35
+2. Thẩm tra, duyệt hồ sơ đề nghị đặc xá, danh sách người đủ điều kiện được đề nghị đặc xá, danh sách người không đủ điều kiện đề nghị đặc xá do Thường trực Hội đồng tư vấn đặc xá trình.
 
-**Mã phân cấp:** 3000100000000000400003500000000000000000
+3. Tổng hợp, lập danh sách người đủ điều kiện được đề nghị đặc xá trình Chủ tịch nước xem xét, quyết định.
 
-**ID:** dk_00048529
+4. Thực hiện nhiệm vụ khác về đặc xá được Chủ tịch nước giao.
 
----
+Chương V
 
+KHIẾU NẠI, TỐ CÁO TRONG THỰC HIỆN ĐẶC XÁ
 
-### Điều 30.1.LQ.36. Khiếu nại về việc lập danh sách người đủ điều kiện được đề nghị đặc xá nhân sự kiện trọng đại, ngày lễ lớn của đất nước
+Điều 30.1.LQ.36. Khiếu nại về việc lập danh sách người đủ điều kiện được đề nghị đặc xá nhân sự kiện trọng đại, ngày lễ lớn của đất nước
+
+(Điều 36 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Người có đơn xin đặc xá có quyền khiếu nại về việc người đó có đủ điều kiện được đề nghị đặc xá nhưng không được Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu đưa vào danh sách người đủ điều kiện được đề nghị đặc xá.
 
-**Chỉ mục:** 36
+2. Người khiếu nại có thể tự mình hoặc thông qua người đại diện hợp pháp khiếu nại đến người có thẩm quyền quy định tại khoản 1 Điều 37 của Luật này.
 
-**Mã phân cấp:** 3000100000000000500003600000000000000000
+3. Thời hạn khiếu nại là 05 ngày kể từ ngày thông báo, niêm yết danh sách người đủ điều kiện được đề nghị đặc xá quy định tại khoản 4 Điều 15 của Luật này.
 
-**ID:** dk_00048531
+Điều 30.1.LQ.37. Thẩm quyền và thời hạn giải quyết khiếu nại
 
----
-
-
-### Điều 30.1.LQ.37. Thẩm quyền và thời hạn giải quyết khiếu nại
+(Điều 37 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng, Thủ trưởng cơ quan quản lý trực tiếp trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu có trách nhiệm giải quyết khiếu nại trong thời hạn 05 ngày kể từ ngày nhận được khiếu nại.
 
-**Chỉ mục:** 37
+Quyết định giải quyết khiếu nại phải được gửi ngay cho người khiếu nại và Viện kiểm sát đã thực hiện kiểm sát việc lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá quy định tại Luật này.
 
-**Mã phân cấp:** 3000100000000000500003700000000000000000
+2. Trường hợp không đồng ý với quyết định giải quyết khiếu nại của người có thẩm quyền quy định tại khoản 1 Điều này thì trong thời hạn 05 ngày kể từ ngày nhận được Quyết định giải quyết khiếu nại, người khiếu nại có quyền tiếp tục khiếu nại đến Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Chánh án Tòa án nhân dân tối cao; Viện kiểm sát quy định tại khoản 1 Điều này có quyền kiến nghị đến Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Chánh án Tòa án nhân dân tối cao.
 
-**ID:** dk_00048532
+Trong thời hạn 05 ngày kể từ ngày nhận được khiếu nại, kiến nghị, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Chánh án Tòa án nhân dân tối cao có trách nhiệm giải quyết, nếu chấp nhận khiếu nại, kiến nghị thì đưa vào danh sách người đủ điều kiện được đề nghị đặc xá; nếu không chấp nhận thì đưa vào danh sách người không đủ điều kiện đề nghị đặc xá; đồng thời thông báo bằng văn bản cho người khiếu nại, Viện kiểm sát kiến nghị.
 
----
+Điều 30.1.LQ.38. Tố cáo hành vi vi phạm pháp luật trong thực hiện đặc xá
 
-
-### Điều 30.1.LQ.38. Tố cáo hành vi vi phạm pháp luật trong thực hiện đặc xá
+(Điều 38 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 Cá nhân có quyền tố cáo hành vi vi phạm pháp luật trong thực hiện đặc xá. Việc tố cáo và giải quyết tố cáo trong thực hiện đặc xá được thực hiện theo quy định của pháp luật về tố cáo.
 
-**Chỉ mục:** 38
+(Điều này có nội dung liên quan đến Điều 18.5.LQ.1. Phạm vi điều chỉnh)
 
-**Mã phân cấp:** 3000100000000000500003800000000000000000
+Chương VI
 
-**ID:** dk_00048533
+ĐIỀU KHOẢN THI HÀNH
 
----
+Điều 30.1.LQ.39. Hiệu lực thi hành
 
-
-### Điều 30.1.LQ.39. Hiệu lực thi hành
+(Điều 39 Luật số 30/2018/QH14, có hiệu lực thi hành kể từ ngày 01/07/2019)
 
 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2019.
 
-**Chỉ mục:** 39
+2. Luật Đặc xá số 07/2007/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
-**Mã phân cấp:** 3000100000000000600003900000000000000000
+Điều 30.1.NĐ.1.9. Hiệu lực thi hành
 
-**ID:** dk_00048535
-
----
-
-
-### Điều 30.1.NĐ.1.9. Hiệu lực thi hành
+(Điều 9 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
 
 Nghị định này có hiệu lực thi hành từ ngày 01 tháng 8 năm 2019.
 
-**Chỉ mục:** 9
+Nghị định số 76/2008/NĐ-CP ngày 04 tháng 7 năm 2008 của Chính phủ quy định chi tiết một số điều của Luật Đặc xá năm 2007 hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
 
-**Mã phân cấp:** 3000100000000000600003940269480052000090
+Điều 30.1.NĐ.1.10. Trách nhiệm thi hành
 
-**ID:** dk_00048536
-
----
-
-
-### Điều 30.1.NĐ.1.10. Trách nhiệm thi hành
+(Điều 10 Nghị định số 52/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/08/2019)
 
 Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**Chỉ mục:** 10
+## Danh sách điều khoản
 
-**Mã phân cấp:** 3000100000000000600003940269480052000100
+### 30001000000000001000
 
-**ID:** dk_00048537
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
----
+### 3000100000000000100000100000000000000000
 
+Điều 30.1.LQ.1. Phạm vi điều chỉnh Luật này quy định về nguyên tắc, thời điểm, trình tự, thủ tục, thẩm quyền, trách nhiệm thực hiện đặc xá; điều kiện, quyền và nghĩa vụ của người được đề nghị đặc xá; quyền và nghĩa vụ của người được đặc xá.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Thi hành án](/thi-hanh-an/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 3000100000000000100000200000000000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 58
-- **Điều khoản thực tế:** 49
-- **Điều khoản có nội dung:** 49 (100.0%)
-- **ID đề mục:** 4062b86eef5c4ea4af0945d8b23978d2
+Điều 30.1.LQ.2. Đối tượng áp dụng 1. Người bị kết án phạt tù có thời hạn, tù chung thân.
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 3000100000000000100000240269480052000010
 
----
+Điều 30.1.NĐ.1.1. Phạm vi điều chỉnh Nghị định này quy định chi tiết Điều 11, Điều 19, khoản 1 Điều 21 của Luật Đặc xá về thực hiện Quyết định về đặc xá, điều kiện, hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá đối với người nước ngoài, trình tự, thủ tục lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá và thẩm định hồ sơ đề nghị đặc xá.
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 3000100000000000100000240269480052000020
+
+Điều 30.1.NĐ.1.2. Đối tượng áp dụng 1. Người đang chấp hành án phạt tù có thời hạn, người bị kết án phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn, người đang được tạm đình chỉ chấp hành án phạt tù (sau đây gọi chung là người bị kết án phạt tù).
+
+### 3000100000000000100000300000000000000000
+
+Điều 30.1.LQ.3. Giải thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
+### 3000100000000000100000400000000000000000
+
+Điều 30.1.LQ.4. Nguyên tắc thực hiện đặc xá 1. Tuân thủ Hiến pháp, pháp luật; bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+
+### 3000100000000000100000500000000000000000
+
+Điều 30.1.LQ.5. Thời điểm đặc xá 1. Chủ tịch nước xem xét, quyết định về đặc xá nhân sự kiện trọng đại, ngày lễ lớn của đất nước.
+
+### 3000100000000000100000600000000000000000
+
+Điều 30.1.LQ.6. Chính sách của Nhà nước trong đặc xá Nhà nước động viên, khuyến khích người bị kết án phạt tù ăn năn hối cải, tích cực học tập, lao động cải tạo để được hưởng đặc xá; tạo điều kiện thuận lợi cho người được đặc xá hòa nhập cộng đồng, ổn định cuộc sống, phấn đấu trở thành người có ích cho xã hội, phòng ngừa tái phạm tội, vi phạm pháp luật.
+
+### 3000100000000000100000700000000000000000
+
+Điều 30.1.LQ.7. Các hành vi bị nghiêm cấm trong thực hiện đặc xá 1. Lợi dụng, lạm dụng chức vụ, quyền hạn để đề nghị đặc xá cho người không đủ điều kiện được đặc xá; không đề nghị đặc xá cho người đủ điều kiện được đặc xá; cản trở người bị kết án phạt tù thực hiện quyền được đề nghị đặc xá.
+
+### 30001000000000002000
+
+Chương II ĐẶC XÁ NHÂN SỰ KIỆN TRỌNG ĐẠI, NGÀY LỄ LỚN CỦA ĐẤT NƯỚC
+
+### 3000100000000000200000100000000000000000
+
+Mục 1 TRÌNH TỰ, THỦ TỤC TRÌNH CHỦ TỊCH NƯỚC BAN HÀNH, CÔNG BỐ QUYẾT ĐỊNH VỀ ĐẶC XÁ; THÀNH LẬP HỘI ĐỒNG TƯ VẤN ĐẶC XÁ, TỔ THẨM ĐỊNH LIÊN NGÀNH
+
+### 300010000000000020000010000000000000000000800000000000000000
+
+Điều 30.1.LQ.8. Trình tự, thủ tục trình Chủ tịch nước ban hành Quyết định về đặc xá Theo yêu cầu của Chủ tịch nước hoặc trong trường hợp Chính phủ đề nghị đặc xá được Chủ tịch nước chấp nhận, Chính phủ chủ trì, phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan có liên quan nghiên cứu, xây dựng tờ trình của Chính phủ và dự thảo Quyết định về đặc xá. Tờ trình và dự thảo Quyết định về đặc xá phải được trình Chủ tịch nước chậm nhất là 60 ngày trước thời điểm đặc xá để Chủ tịch nước xem xét, ban hành Quyết định về đặc xá.
+
+### 300010000000000020000010000000000000000000900000000000000000
+
+Điều 30.1.LQ.9. Công bố, thông báo, niêm yết Quyết định về đặc xá 1. Văn phòng Chủ tịch nước chủ trì, phối hợp với các cơ quan có liên quan tổ chức công bố ngay Quyết định về đặc xá. Quyết định về đặc xá được thông báo trên phương tiện thông tin đại chúng.
+
+### 300010000000000020000010000000000000000001000000000000000000
+
+Điều 30.1.LQ.10. Thành lập Hội đồng tư vấn đặc xá, Tổ thẩm định liên ngành 1. Khi có Quyết định về đặc xá, Chủ tịch nước quyết định thành lập Hội đồng tư vấn đặc xá bao gồm Chủ tịch là Phó Thủ tướng Chính phủ và các ủy viên là đại diện lãnh đạo các cơ quan, tổ chức sau đây:
+
+### 3000100000000000200000200000000000000000
+
+Mục 2 ĐIỀU KIỆN, QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI ĐƯỢC ĐỀ NGHỊ ĐẶC XÁ
+
+### 300010000000000020000020000000000000000001100000000000000000
+
+Điều 30.1.LQ.11. Điều kiện của người được đề nghị đặc xá 1. Người đang chấp hành án phạt tù có thời hạn, người bị kết án phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn được đề nghị đặc xá phải có đủ các điều kiện sau đây:
+
+### 30001000000000002000002000000000000000000110000000000000000000402694800520000400
+
+Điều 30.1.NĐ.1.4. Các điều kiện của người được đề nghị đặc xá 1. Người bị kết án phạt tù có nhiều tiến bộ, có ý thức cải tạo tốt và được xếp loại chấp hành án phạt tù khá hoặc tốt theo quy định của pháp luật về thi hành án hình sự quy định tại điểm a khoản 1 Điều 11 Luật Đặc xá là người đã chấp hành nghiêm Nội quy trại giam, trại tạm giam, nhà tạm giữ, tích cực học tập, lao động, cải tạo và các quý đã đủ thời gian xếp loại trong quá trình chấp hành án phạt tù được xếp loại khá hoặc tốt.
+
+### 300010000000000020000020000000000000000001200000000000000000
+
+Điều 30.1.LQ.12. Các trường hợp không được đề nghị đặc xá Người có đủ điều kiện quy định tại Điều 11 của Luật này không được đề nghị đặc xá khi thuộc một trong các trường hợp sau đây:
+
+### 300010000000000020000020000000000000000001300000000000000000
+
+Điều 30.1.LQ.13. Quyền và nghĩa vụ của người được đề nghị đặc xá 1. Được phổ biến chính sách, pháp luật về đặc xá; thông báo Quyết định về đặc xá, văn bản hướng dẫn của cơ quan có thẩm quyền về điều kiện của người được đề nghị đặc xá và thông tin khác về đặc xá liên quan đến người được đề nghị đặc xá.
+
+### 3000100000000000200000300000000000000000
+
+Mục 3 TRÌNH TỰ, THỦ TỤC ĐỀ NGHỊ ĐẶC XÁ, THỰC HIỆN QUYẾT ĐỊNH ĐẶC XÁ
+
+### 300010000000000020000030000000000000000001400000000000000000
+
+Điều 30.1.LQ.14. Hồ sơ đề nghị đặc xá 1. Đơn đề nghị đặc xá.
+
+### 30001000000000002000003000000000000000000140000000000000000000402694800520000500
+
+Điều 30.1.NĐ.1.5. Hồ sơ đề nghị đặc xá Hồ sơ đề nghị đặc xá bao gồm các văn bản, tài liệu quy định tại Điều 14 Luật Đặc xá, cụ thể như sau:
+
+### 300010000000000020000030000000000000000001500000000000000000
+
+Điều 30.1.LQ.15. Trình tự, thủ tục lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá 1. Ngay sau khi Quyết định về đặc xá được công bố, thông báo trên phương tiện thông tin đại chúng, trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện phải niêm yết, phổ biến cho người đang chấp hành án phạt tù biết.
+
+### 30001000000000002000003000000000000000000150000000000000000000402694800520000700
+
+Điều 30.1.NĐ.1.7. Trình tự, thủ tục lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá 1. Trong thời hạn 05 ngày kể từ ngày Quyết định về đặc xá được niêm yết, phổ biến, Giám thị trại giam, Giám thị trại tạm giam, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện tổ chức cho người bị kết án phạt tù viết Đơn đề nghị đặc xá và Bản cam kết theo mẫu.
+
+### 300010000000000020000030000000000000000001600000000000000000
+
+Điều 30.1.LQ.16. Thẩm định hồ sơ đề nghị đặc xá 1. Tổ thẩm định liên ngành thẩm định danh sách, hồ sơ của người được đề nghị đặc xá trong thời hạn 15 ngày kể từ ngày người có thẩm quyền quy định tại khoản 2 và khoản 3 Điều 15 của Luật này gửi danh sách, hồ sơ cho Tổ thẩm định liên ngành.
+
+### 30001000000000002000003000000000000000000160000000000000000000402694800520000800
+
+Điều 30.1.NĐ.1.8. Thẩm định hồ sơ đề nghị đặc xá 1. Tổ thẩm định liên ngành trực tiếp làm việc với Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự Bộ Quốc phòng, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu để nghe báo cáo kết quả xét đề nghị đặc xá và thẩm định hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá.
+
+### 300010000000000020000030000000000000000001700000000000000000
+
+Điều 30.1.LQ.17. Thẩm tra, duyệt, kiểm tra hồ sơ đề nghị đặc xá và trình Chủ tịch nước danh sách đề nghị đặc xá 1. Thường trực Hội đồng tư vấn đặc xá tập hợp danh sách, hồ sơ người đủ điều kiện được đề nghị đặc xá, người không đủ điều kiện đề nghị đặc xá do người có thẩm quyền quy định tại khoản 6 Điều 15 của Luật này lập theo kết quả thẩm định của Tổ thẩm định liên ngành và chuyển danh sách kèm theo văn bản đề nghị đặc xá đến các ủy viên Hội đồng tư vấn đặc xá để thẩm tra.
+
+### 300010000000000020000030000000000000000001800000000000000000
+
+Điều 30.1.LQ.18. Thực hiện Quyết định đặc xá 1. Văn phòng Chủ tịch nước chủ trì, phối hợp với các cơ quan có liên quan tổ chức công bố Quyết định đặc xá. Quyết định đặc xá được thông báo trên phương tiện thông tin đại chúng.
+
+### 30001000000000002000003000000000000000000180000000000000000000402694800520000300
+
+Điều 30.1.NĐ.1.3. Thực hiện Quyết định về đặc xá Khi có Quyết định về đặc xá và Quyết định thành lập Hội đồng tư vấn đặc xá của Chủ tịch nước, Bộ Công an chủ trì, phối hợp với Bộ Quốc phòng, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan, tổ chức liên quan giúp Chính phủ, Hội đồng tư vấn đặc xá triển khai thực hiện Quyết định về đặc xá, Quyết định thành lập Hội đồng tư vấn đặc xá.
+
+### 300010000000000020000030000000000000000001900000000000000000
+
+Điều 30.1.LQ.19. Thực hiện Quyết định đặc xá đối với người nước ngoài 1. Khi có Quyết định đặc xá đối với người nước ngoài, Bộ Công an, Bộ Quốc phòng chủ trì phối hợp với Bộ Ngoại giao thông báo cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân biết và đề nghị phối hợp thực hiện Quyết định đặc xá.
+
+### 30001000000000002000003000000000000000000190000000000000000000402694800520000600
+
+Điều 30.1.NĐ.1.6. Thực hiện Quyết định đặc xá đối với người nước ngoài 1. Khi có Quyết định đặc xá đối với người nước ngoài, Cơ quan quản lý thi hành án hình sự thuộc Bộ Công an, Bộ Quốc phòng chủ trì, phối hợp với Cục Lãnh sự, Bộ Ngoại giao thông báo ngay cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân biết và đề nghị phối hợp thực hiện Quyết định đặc xá.
+
+### 300010000000000020000030000000000000000002000000000000000000
+
+Điều 30.1.LQ.20. Quyền và nghĩa vụ của người được đặc xá 1. Người được đặc xá có quyền sau đây:
+
+### 300010000000000020000030000000000000000002100000000000000000
+
+Điều 30.1.LQ.21. Quy định chi tiết, hướng dẫn về hồ sơ đề nghị đặc xá, trình tự, thủ tục lập danh sách, thẩm định, thẩm tra hồ sơ đề nghị đặc xá 1. Chính phủ quy định chi tiết về hồ sơ đề nghị đặc xá, trình tự, thủ tục lập danh sách, thẩm định, thẩm tra danh sách, hồ sơ đề nghị đặc xá và thực hiện Quyết định về đặc xá.
+
+### 30001000000000003000
+
+Chương III ĐẶC XÁ TRONG TRƯỜNG HỢP ĐẶC BIỆT
+
+### 3000100000000000300002200000000000000000
+
+Điều 30.1.LQ.22. Người được đặc xá trong trường hợp đặc biệt Trong trường hợp đặc biệt để đáp ứng yêu cầu về đối nội, đối ngoại của Nhà nước, Chủ tịch nước quyết định đặc xá cho người đang chấp hành án phạt tù có thời hạn, người đang được hoãn chấp hành án phạt tù, người đang được tạm đình chỉ chấp hành án phạt tù, người đang chấp hành án phạt tù chung thân mà không phụ thuộc vào các điều kiện quy định tại Điều 11 và Điều 12 của Luật này.
+
+### 3000100000000000300002300000000000000000
+
+Điều 30.1.LQ.23. Trình tự, thủ tục lập hồ sơ đề nghị đặc xá trong trường hợp đặc biệt 1. Theo yêu cầu của Chủ tịch nước hoặc trong trường hợp Chính phủ đề nghị đặc xá được Chủ tịch nước chấp nhận, Chính phủ chủ trì, phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan, tổ chức có liên quan lập hồ sơ đề nghị đặc xá trình Chủ tịch nước xem xét, quyết định.
+
+### 3000100000000000300002400000000000000000
+
+Điều 30.1.LQ.24. Thực hiện Quyết định đặc xá trong trường hợp đặc biệt 1. Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tổ chức thực hiện Quyết định đặc xá trong trường hợp đặc biệt.
+
+### 30001000000000004000
+
+Chương IV TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG VIỆC THỰC HIỆN ĐẶC XÁ
+
+### 3000100000000000400002500000000000000000
+
+Điều 30.1.LQ.25. Trách nhiệm của Chính phủ 1. Đề nghị Chủ tịch nước đặc xá nhân sự kiện trọng đại, ngày lễ lớn của đất nước và trong trường hợp đặc biệt.
+
+### 3000100000000000400002600000000000000000
+
+Điều 30.1.LQ.26. Trách nhiệm của Văn phòng Chủ tịch nước 1. Rà soát, kiểm tra danh sách, hồ sơ những người được Hội đồng tư vấn đặc xá hoặc Chính phủ đề nghị, trình Chủ tịch nước quyết định.
+
+### 3000100000000000400002700000000000000000
+
+Điều 30.1.LQ.27. Trách nhiệm của Bộ Công an 1. Chủ trì phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Bộ Tư pháp và các cơ quan có liên quan kiểm tra hoạt động đặc xá tại các trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp tỉnh, cấp huyện.
+
+### 3000100000000000400002800000000000000000
+
+Điều 30.1.LQ.28. Trách nhiệm của Bộ Quốc phòng Hướng dẫn, kiểm tra, đôn đốc Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu thực hiện việc lập danh sách, hồ sơ đề nghị đặc xá, tổ chức thực hiện Quyết định về đặc xá, Quyết định đặc xá theo quy định của Luật này.
+
+### 3000100000000000400002900000000000000000
+
+Điều 30.1.LQ.29. Trách nhiệm của Tòa án nhân dân tối cao 1. Phối hợp với Chính phủ, Viện kiểm sát nhân dân tối cao, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp và các cơ quan, tổ chức có liên quan trong hoạt động đặc xá.
+
+### 3000100000000000400003000000000000000000
+
+Điều 30.1.LQ.30. Trách nhiệm của Viện kiểm sát nhân dân tối cao 1. Trực tiếp kiểm sát việc lập hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá tại trại giam, trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng quy định tại khoản 1, các điểm a, b, d và đ khoản 2, khoản 4 Điều 15 và Điều 18 của Luật này. Khi xét thấy cần thiết, trực tiếp kiểm sát việc lập hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá tại trại tạm giam thuộc Công an cấp tỉnh, trại tạm giam cấp quân khu, cơ quan thi hành án hình sự Công an cấp tỉnh, Tòa án nhân dân cấp tỉnh, Tòa án quân sự cấp quân khu thuộc thẩm quyền kiểm sát của Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát quân sự cấp quân khu quy định tại khoản 2 Điều này.
+
+### 3000100000000000400003100000000000000000
+
+Điều 30.1.LQ.31. Trách nhiệm của Bộ Tư pháp 1. Chỉ đạo cơ quan thi hành án dân sự phối hợp với trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp tỉnh, cấp huyện, cơ quan thi hành án hình sự cấp quân khu, Tòa án nhân dân cấp tỉnh, Tòa án nhân dân cấp huyện, Tòa án quân sự cấp quân khu, Tòa án quân sự khu vực, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện, Viện kiểm sát quân sự cấp quân khu, Viện kiểm sát quân sự khu vực trong việc:
+
+### 3000100000000000400003200000000000000000
+
+Điều 30.1.LQ.32. Trách nhiệm của Bộ Ngoại giao 1. Đề xuất Chính phủ trình Chủ tịch nước xem xét, quyết định đặc xá cho đối tượng quy định tại Điều 22 của Luật này là người nước ngoài theo quy định tại Điều 23 của Luật này.
+
+### 3000100000000000400003300000000000000000
+
+Điều 30.1.LQ.33. Trách nhiệm của Ủy ban nhân dân các cấp, cơ quan, tổ chức có liên quan 1. Tuyên truyền, phổ biến, giáo dục pháp luật về đặc xá, Quyết định về đặc xá.
+
+### 3000100000000000400003400000000000000000
+
+Điều 30.1.LQ.34. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận 1. Phối hợp với các cơ quan, tổ chức có liên quan tuyên truyền, phổ biến pháp luật về đặc xá, Quyết định về đặc xá.
+
+### 3000100000000000400003500000000000000000
+
+Điều 30.1.LQ.35. Trách nhiệm của Hội đồng tư vấn đặc xá 1. Tổ chức triển khai thực hiện Quyết định về đặc xá.
+
+### 30001000000000005000
+
+Chương V KHIẾU NẠI, TỐ CÁO TRONG THỰC HIỆN ĐẶC XÁ
+
+### 3000100000000000500003600000000000000000
+
+Điều 30.1.LQ.36. Khiếu nại về việc lập danh sách người đủ điều kiện được đề nghị đặc xá nhân sự kiện trọng đại, ngày lễ lớn của đất nước 1. Người có đơn xin đặc xá có quyền khiếu nại về việc người đó có đủ điều kiện được đề nghị đặc xá nhưng không được Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu đưa vào danh sách người đủ điều kiện được đề nghị đặc xá.
+
+### 3000100000000000500003700000000000000000
+
+Điều 30.1.LQ.37. Thẩm quyền và thời hạn giải quyết khiếu nại 1. Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng, Thủ trưởng cơ quan quản lý trực tiếp trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu có trách nhiệm giải quyết khiếu nại trong thời hạn 05 ngày kể từ ngày nhận được khiếu nại.
+
+### 3000100000000000500003800000000000000000
+
+Điều 30.1.LQ.38. Tố cáo hành vi vi phạm pháp luật trong thực hiện đặc xá Cá nhân có quyền tố cáo hành vi vi phạm pháp luật trong thực hiện đặc xá. Việc tố cáo và giải quyết tố cáo trong thực hiện đặc xá được thực hiện theo quy định của pháp luật về tố cáo.
+
+### 30001000000000006000
+
+Chương VI ĐIỀU KHOẢN THI HÀNH
+
+### 3000100000000000600003900000000000000000
+
+Điều 30.1.LQ.39. Hiệu lực thi hành 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2019.
+
+### 3000100000000000600003940269480052000090
+
+Điều 30.1.NĐ.1.9. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 8 năm 2019.
+
+### 3000100000000000600003940269480052000100
+
+Điều 30.1.NĐ.1.10. Trách nhiệm thi hành Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
+

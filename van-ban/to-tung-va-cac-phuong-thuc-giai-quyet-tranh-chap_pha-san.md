@@ -1,2766 +1,4377 @@
 ---
-layout: default
+layout: page
 title: Phá sản
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/pha-san/
-collection: subtopics
-slug: pha-san
-parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Phá sản
 
-**Đề mục:** Phá sản  
-**Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp](/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
-**Số điều khoản:** 224  
-**Điều khoản có nội dung:** 164/210 (78.1%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 37.2.LQ.1. Phạm vi điều chỉnh
+Điều 37.2.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 51/2014/QH13 Phá sản ngày 19/06/2014 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Chỉ mục:** 1
+Luật này quy định về trình tự, thủ tục nộp đơn, thụ lý và mở thủ tục phá sản; xác định nghĩa vụ về tài sản và biện pháp bảo toàn tài sản trong quá trình giải quyết phá sản; thủ tục phục hồi hoạt động kinh doanh; tuyên bố phá sản và thi hành quyết định tuyên bố phá sản.
 
-**Mã phân cấp:** 3700200000000000100000100000000000000000
+(Điều này có nội dung liên quan đến Điều 41.11.LQ.51. Trình tự, thủ tục đăng ký kinh doanh, tạm ngừng kinh doanh, chia, tách, hợp nhất, sáp nhập, chuyển đổi, giải thể, phá sản câu lạc bộ thể thao chuyên nghiệp; Điều 207. Phá sản doanh nghiệp của Luật 68/2014/QH13 Doanh nghiệp ban hành ngày 26/11/2014; Điều 9.1.LQ.95. Phá sản pháp nhân; Điều 33.4.LQ.67. Hoàn thành nghĩa vụ nộp thuế trong trường hợp giải thể, phá sản, chấm dứt hoạt động; Điều 33.4.LQ.83. Các trường hợp được khoanh tiền thuế nợ; Điều 34.4.NĐ.1.210. Hồ sơ, thủ tục thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán và tất toán tài sản của khách hàng của công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam; Điều 41.5.TT.2.6. Trình tự, thủ tục thu hồi giấy phép kinh doanh dịch vụ lữ hành trong trường hợp doanh nghiệp chấm dứt hoạt động kinh doanh dịch vụ lữ hành, giải thể hoặc phá sản)
 
-**ID:** dk_00060511
+Điều 37.2.LQ.2. Đối tượng áp dụng
 
----
+(Điều 2 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+Luật này áp dụng đối với doanh nghiệp và hợp tác xã, liên hiệp hợp tác xã (sau đây gọi chung là hợp tác xã) được thành lập và hoạt động theo quy định của pháp luật.
 
-### Điều 37.2.LQ.2. Đối tượng áp dụng
+(Điều này có nội dung liên quan đến Điều 207. Phá sản doanh nghiệp của Luật 68/2014/QH13 Doanh nghiệp ban hành ngày 26/11/2014)
 
-*Nội dung chưa có sẵn*
+Điều 37.2.NĐ.1.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006, có nội dung bị bãi bỏ bởi Điều 29 Nghị định số 22/2015/NĐ-CP có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 3700200000000000100000200000000000000000
+Nghị định này quy định về:
 
-**ID:** dk_00060512
+1. Tiêu chí xác định danh mục doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh; doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm, dịch vụ công ích thiết yếu (sau đây gọi chung là doanh nghiệp đặc biệt).
 
----
+2. Việc áp dụng Luật Phá sản đối với doanh nghiệp đặc biệt.
 
+4. Việc áp dụng Luật Phá sản đối với các tổ chức tín dụng và các doanh nghiệp hoạt động trong lĩnh vực tài chính thực hiện theo quy định riêng của Chính phủ.
 
-### Điều 37.2.NĐ.1.1. Phạm vi điều chỉnh
+Điều 37.2.NĐ.1.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006, có nội dung bị bãi bỏ bởi Điều 29 Nghị định số 22/2015/NĐ-CP có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Chỉ mục:** 1
+Đối tượng áp dụng của Nghị định này bao gồm:
 
-**Mã phân cấp:** 3700200000000000100000240222270067000010
+1. Doanh nghiệp, hợp tác xã được thành lập và đăng ký kinh doanh theo quy định của pháp luật, đáp ứng các tiêu chí và thuộc danh mục quy định tại các Điều 3, 4 và 5 Chương II của Nghị định này.
 
-**ID:** dk_00060513
-
----
-
-
-### Điều 37.2.NĐ.1.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3700200000000000100000240222270067000020
-
-**ID:** dk_00060514
-
----
-
-
-### Điều 37.2.NĐ.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
+3. Cơ quan, tổ chức và cá nhân có liên quan đến việc giải quyết yêu cầu phá sản doanh nghiệp, hợp tác xã.
 
 Điều 37.2.NĐ.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 22/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản ngày 16/02/2015 của Chính phủ, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 3700200000000000100000240253690022000010
+1. Nghị định này quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, hành nghề quản lý, thanh lý tài sản, chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và quản lý nhà nước đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
-**ID:** dk_00060515
+2. Nghị định này áp dụng đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, cơ quan quản lý nhà nước về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và tổ chức, cá nhân khác có liên quan đến hoạt động hành nghề quản lý, thanh lý tài sản.
 
----
+Điều 37.2.NQ.1.1. Phạm vi điều chỉnh
 
+(Điều 1 Nghị quyết số 03/2016/NQ-HĐTP NGHỊ QUYẾT Hướng dẫn thi hành một số quy định của Luật phá sản ngày 26/08/2016 của Tòa án nhân dân tối cao, có hiệu lực thi hành kể từ ngày 26/08/2016)
 
-### Điều 37.2.NQ.1.1. Phạm vi điều chỉnh
+Nghị quyết này hướng dẫn thi hành một số quy định tại Điều 8, khoản 14 Điều 9, Điều 70 và Điều 104 của Luật phá sản.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.8. Thẩm quyền giải quyết phá sản của Tòa án nhân dân; Điều 37.2.LQ.9. Nhiệm vụ, quyền hạn của Thẩm phán tiến hành thủ tục phá sản; Điều 37.2.LQ.70. Áp dụng biện pháp khẩn cấp tạm thời; Điều 37.2.LQ.104. Quyết định tuyên bố tổ chức tín dụng phá sản)
 
-**Chỉ mục:** 1
+Điều 37.2.QĐ.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3700200000000000100000260259260003000010
+(Điều 1 Quyết định số 01/2005/QĐ-TANDTC Về Quy chế làm việc của Tổ Thẩm phán phụ trách tiến hành thủ tục phá sản ngày 27/04/2005 của Toà án nhân dân tối cao, có hiệu lực thi hành kể từ ngày 04/06/2005)
 
-**ID:** dk_00060516
+Quy chế này quy định nguyên tắc và chế độ làm việc của Tổ Thẩm phán phụ trách tiến hành thủ tục phá sản (sau đây viết tắt là Tổ Thẩm phán), trừ Tổ Thẩm phán do Chánh án Toà án cấp trên trực tiếp chỉ định để xem xét, giải quyết khiếu nại, kháng nghị quyết định mở thủ tục thanh lý tài sản, quyết định tuyên bố doanh nghiệp bị phá sản.
 
----
+Điều 37.2.TT.1.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 01/2015/TT-CA Quy định về quy chế làm việc của các tổ thẩm phán trong quá trình giải quyết vụ việc phá sản ngày 08/10/2015 của Tòa án nhân dân tối cao, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-### Điều 37.2.QĐ.1.1. Phạm vi điều chỉnh
+Thông tư này quy định về thành lập, nhiệm vụ, quyền hạn, nguyên tắc hoạt động, chế độ làm việc, cơ chế phối hợp của Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản, Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản, Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
 
-*Nội dung chưa có sẵn*
+Điều 37.2.LQ.3. Áp dụng Luật phá sản
 
-**Chỉ mục:** 1
+(Điều 3 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100000280217870001000010
+1. Luật phá sản được áp dụng khi giải quyết phá sản đối với doanh nghiệp, hợp tác xã được thành lập trên lãnh thổ Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-**ID:** dk_00060517
+2. Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.
 
----
+(Điều này có nội dung liên quan đến Điều 207. Phá sản doanh nghiệp của Luật 68/2014/QH13 Doanh nghiệp ban hành ngày 26/11/2014)
 
+Điều 37.2.LQ.4. Giải thích từ ngữ
 
-### Điều 37.2.TT.1.1. Phạm vi điều chỉnh
+(Điều 4 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 1
+1. *Doanh nghiệp, hợp tác xã mất khả năng thanh toán* là doanh nghiệp, hợp tác xã không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 03 tháng kể từ ngày đến hạn thanh toán.
 
-**Mã phân cấp:** 3700200000000000100000280256030001000010
+2. *Phá sản* là tình trạng của doanh nghiệp, hợp tác xã mất khả năng thanh toán và bị Tòa án nhân dân ra quyết định tuyên bố phá sản.
 
-**ID:** dk_00060518
+3. * Chủ nợ* là cá nhân, cơ quan, tổ chức có quyền yêu cầu doanh nghiệp, hợp tác xã thực hiện nghĩa vụ thanh toán khoản nợ, bao gồm chủ nợ không có bảo đảm, chủ nợ có bảo đảm một phần và chủ nợ có bảo đảm.
 
----
+4. *Chủ nợ không có bảo đảm* là cá nhân, cơ quan, tổ chức có quyền yêu cầu doanh nghiệp, hợp tác xã phải thực hiện nghĩa vụ thanh toán khoản nợ không được bảo đảm bằng tài sản của doanh nghiệp, hợp tác xã hoặc của người thứ ba.
 
+5. *Chủ nợ có bảo đảm* là cá nhân, cơ quan, tổ chức có quyền yêu cầu doanh nghiệp, hợp tác xã phải thực hiện nghĩa vụ thanh toán khoản nợ được bảo đảm bằng tài sản của doanh nghiệp, hợp tác xã hoặc của người thứ ba.
 
-### Điều 37.2.LQ.3. Áp dụng Luật phá sản
+6. *Chủ nợ có bảo đảm một phần* là cá nhân, cơ quan, tổ chức có quyền yêu cầu doanh nghiệp, hợp tác xã phải thực hiện nghĩa vụ thanh toán khoản nợ được bảo đảm bằng tài sản của doanh nghiệp, hợp tác xã hoặc của người thứ ba mà giá trị tài sản bảo đảm thấp hơn khoản nợ đó.
 
-*Nội dung chưa có sẵn*
+7. *Quản tài viên* là cá nhân hành nghề quản lý, thanh lý tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán trong quá trình giải quyết phá sản.
 
-**Chỉ mục:** 3
+8. *Doanh nghiệp quản lý, thanh lý tài sản* là doanh nghiệp hành nghề quản lý, thanh lý tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán trong quá trình giải quyết phá sản.
 
-**Mã phân cấp:** 3700200000000000100000300000000000000000
+9. *Người tiến hành thủ tục phá sản* là Chánh án Tòa án nhân dân, Thẩm phán; Viện trưởng Viện kiểm sát nhân dân, Kiểm sát viên; Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên trong quá trình giải quyết phá sản.
 
-**ID:** dk_00060519
+10. *Người tham gia thủ tục phá sản* là chủ nợ; người lao động; doanh nghiệp, hợp tác xã mất khả năng thanh toán; cổ đông, nhóm cổ đông; thành viên hợp tác xã hoặc hợp tác xã thành viên của liên hiệp hợp tác xã; người mắc nợ của doanh nghiệp, hợp tác xã và những người khác có quyền lợi, nghĩa vụ liên quan trong quá trình giải quyết phá sản.
 
----
+11. *Lệ phí nộp đơn yêu cầu mở thủ tục phá sản* (sau đây gọi là lệ phí phá sản) là khoản tiền mà người yêu cầu mở thủ tục phá sản phải nộp để Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản.
 
+12. *Chi phí phá sản* là khoản tiền phải chi trả cho việc giải quyết phá sản, bao gồm chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, chi phí kiểm toán, chi phí đăng báo và các chi phí khác theo quy định của pháp luật.
 
-### Điều 37.2.LQ.4. Giải thích từ ngữ
+13. *Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản* là khoản tiền phải chi trả cho việc giải quyết phá sản của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
-*Nội dung chưa có sẵn*
+14. *Tạm ứng chi phí phá sản* là khoản tiền do Tòa án nhân dân quyết định để đăng báo, tạm ứng chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3700200000000000100000400000000000000000
-
-**ID:** dk_00060520
-
----
-
-
-### Điều 37.2.LQ.5. Người có quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản
+(Điều này có nội dung liên quan đến Điều 207. Phá sản doanh nghiệp của Luật 68/2014/QH13 Doanh nghiệp ban hành ngày 26/11/2014)
 
 Điều 37.2.LQ.5. Người có quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100000500000000000000000
+1. Chủ nợ không có bảo đảm, chủ nợ có bảo đảm một phần có quyền nộp đơn yêu cầu mở thủ tục phá sản khi hết thời hạn 03 tháng kể từ ngày khoản nợ đến hạn mà doanh nghiệp, hợp tác xã không thực hiện nghĩa vụ thanh toán.
 
-**ID:** dk_00060521
+2. Người lao động, công đoàn cơ sở, công đoàn cấp trên trực tiếp cơ sở ở những nơi chưa thành lập công đoàn cơ sở có quyền nộp đơn yêu cầu mở thủ tục phá sản khi hết thời hạn 03 tháng kể từ ngày phải thực hiện nghĩa vụ trả lương, các khoản nợ khác đến hạn đối với người lao động mà doanh nghiệp, hợp tác xã không thực hiện nghĩa vụ thanh toán.
 
----
+3. Người đại diện theo pháp luật của doanh nghiệp, hợp tác xã có nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản khi doanh nghiệp, hợp tác xã mất khả năng thanh toán.
 
+4. Chủ doanh nghiệp tư nhân, Chủ tịch Hội đồng quản trị của công ty cổ phần, Chủ tịch Hội đồng thành viên của công ty trách nhiệm hữu hạn hai thành viên trở lên, chủ sở hữu công ty trách nhiệm hữu hạn một thành viên, thành viên hợp danh của công ty hợp danh có nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản khi doanh nghiệp mất khả năng thanh toán.
 
-### Điều 37.2.LQ.6. Thông báo doanh nghiệp, hợp tác xã mất khả năng thanh toán
+5. Cổ đông hoặc nhóm cổ đông sở hữu từ 20% số cổ phần phổ thông trở lên trong thời gian liên tục ít nhất 06 tháng có quyền nộp đơn yêu cầu mở thủ tục phá sản khi công ty cổ phần mất khả năng thanh toán. Cổ đông hoặc nhóm cổ đông sở hữu dưới 20% số cổ phần phổ thông trong thời gian liên tục ít nhất 06 tháng có quyền nộp đơn yêu cầu mở thủ tục phá sản khi công ty cổ phần mất khả năng thanh toán trong trường hợp Điều lệ công ty quy định.
+
+6. Thành viên hợp tác xã hoặc người đại diện theo pháp luật của hợp tác xã thành viên của liên hiệp hợp tác xã có quyền nộp đơn yêu cầu mở thủ tục phá sản khi hợp tác xã, liên hiệp hợp tác xã mất khả năng thanh toán.
+
+(Điều này có nội dung liên quan đến Điều 39.13.NĐ.80.68. Hành vi vi phạm trách nhiệm thông báo doanh nghiệp, hợp tác xã mất khả năng thanh toán; Điều 39.13.NĐ.80.76. Hành vi vi phạm quy định về tham gia hội nghị chủ nợ; Điều 33.3.NQ.1.11. Không phải nộp tiền tạm ứng án phí, tạm ứng lệ phí Tòa án; không phải chịu án phí, lệ phí Tòa án)
 
 Điều 37.2.LQ.6. Thông báo doanh nghiệp, hợp tác xã mất khả năng thanh toán
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100000600000000000000000
+1. Cá nhân, cơ quan, tổ chức khi phát hiện doanh nghiệp, hợp tác xã mất khả năng thanh toán có trách nhiệm thông báo bằng văn bản cho những người có quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản quy định tại Điều 5 của Luật này.
 
-**ID:** dk_00060522
-
----
-
-
-### Điều 37.2.LQ.7. Trách nhiệm cung cấp tài liệu, chứng cứ của cá nhân, cơ quan, tổ chức có liên quan
+2. Cá nhân, cơ quan, tổ chức thông báo phải bảo đảm tính chính xác của thông báo. Trường hợp cá nhân, cơ quan, tổ chức cố ý thông báo sai mà gây thiệt hại cho doanh nghiệp, hợp tác xã thì phải bồi thường thiệt hại và chịu trách nhiệm trước pháp luật.
 
 Điều 37.2.LQ.7. Trách nhiệm cung cấp tài liệu, chứng cứ của cá nhân, cơ quan, tổ chức có liên quan
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100000700000000000000000
+1. Cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ tài liệu, chứng cứ có liên quan đến vụ việc phá sản có trách nhiệm cung cấp đầy đủ, kịp thời tài liệu, chứng cứ liên quan đến vụ việc phá sản trong thời hạn 15 ngày kể từ ngày nhận được yêu cầu của chủ nợ, doanh nghiệp, hợp tác xã, Tòa án nhân dân, Viện kiểm sát nhân dân, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
-**ID:** dk_00060523
-
----
-
-
-### Điều 37.2.LQ.8. Thẩm quyền giải quyết phá sản của Tòa án nhân dân
+2. Cá nhân, cơ quan, tổ chức không cung cấp được tài liệu, chứng cứ theo quy định tại khoản 1 Điều này phải trả lời bằng văn bản và nêu rõ lý do, nếu cố ý không cung cấp tài liệu, chứng cứ mà không có lý do chính đáng thì bị xử lý theo quy định của pháp luật.
 
 Điều 37.2.LQ.8. Thẩm quyền giải quyết phá sản của Tòa án nhân dân
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100000800000000000000000
+1. Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Toà án nhân dân cấp tỉnh) có thẩm quyền giải quyết phá sản đối với doanh nghiệp đăng ký kinh doanh hoặc đăng ký doanh nghiệp, hợp tác xã đăng ký kinh doanh hoặc đăng ký hợp tác xã tại tỉnh đó và thuộc một trong các trường hợp sau:
 
-**ID:** dk_00060524
+a) Vụ việc phá sản có tài sản ở nước ngoài hoặc người tham gia thủ tục phá sản ở nước ngoài;
 
----
+b) Doanh nghiệp, hợp tác xã mất khả năng thanh toán có chi nhánh, văn phòng đại diện ở nhiều huyện, quận, thị xã, thành phố thuộc tỉnh khác nhau;
 
+c) Doanh nghiệp, hợp tác xã mất khả năng thanh toán có bất động sản ở nhiều huyện, quận, thị xã, thành phố thuộc tỉnh khác nhau;
 
-### Điều 37.2.NQ.1.2. Về tài sản ở nước ngoài, người tham gia thủ tục phá sản ở nước ngoài quy định tại điểm a khoản 1 Điều 8 của Luật phá sản
+d) Vụ việc phá sản thuộc thẩm quyền của Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Toà án nhân dân cấp huyện) mà Tòa án nhân dân cấp tỉnh lấy lên để giải quyết do tính chất phức tạp của vụ việc.
+
+2. Tòa án nhân dân cấp huyện có thẩm quyền giải quyết phá sản đối với doanh nghiệp, hợp tác xã có trụ sở chính tại huyện, quận, thị xã, thành phố thuộc tỉnh đó và không thuộc trường hợp quy định tại khoản 1 Điều này.
+
+3. Tòa án nhân dân tối cao hướng dẫn thi hành Điều này.
+
+(Điều này có nội dung liên quan đến Điều 15.4.LQ.36. Nguồn thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã; Điều 37.2.NQ.1.1. Phạm vi điều chỉnh; Điều 37.2.NQ.1.2. Về tài sản ở nước ngoài, người tham gia thủ tục phá sản ở nước ngoài quy định tại điểm a khoản 1 Điều 8 của Luật phá sản; Điều 37.2.NQ.1.3. Về vụ việc phá sản có tính chất phức tạp theo quy định tại điểm d khoản 1 Điều 8 của Luật phá sản và thẩm quyền giải quyết; Điều 37.2.TT.1.2. Thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản)
 
 Điều 37.2.NQ.1.2. Về tài sản ở nước ngoài, người tham gia thủ tục phá sản ở nước ngoài quy định tại điểm a khoản 1 Điều 8 của Luật phá sản
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết số 03/2016/NQ-HĐTP, có hiệu lực thi hành kể từ ngày 26/08/2016)
 
-**Mã phân cấp:** 370020000000000010000080000000000000000000602592600030000200
+ 1. Tài sản ở nước ngoài là tài sản được xác định theo quy định của Bộ luật dân sự ở ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam vào thời điểm Tòa án thụ lý đơn yêu cầu mở thủ tục phá sản.
 
-**ID:** dk_00060525
+ 2. Người tham gia thủ tục phá sản ở nước ngoài gồm:
 
----
+ a) Cá nhân không có mặt tại Việt Nam vào thời điểm Tòa án thụ lý đơn yêu cầu mở thủ tục phá sản;
 
-
-### Điều 37.2.NQ.1.3. Về vụ việc phá sản có tính chất phức tạp theo quy định tại điểm d khoản 1 Điều 8 của Luật phá sản và thẩm quyền giải quyết
+ b) Pháp nhân không có trụ sở, chi nhánh, văn phòng đại diện hoặc không có người đại diện theo quy định của pháp luật tại Việt Nam vào thời điểm Tòa án thụ lý đơn yêu cầu mở thủ tục phá sản.(Điều này có nội dung liên quan đến Điều 37.2.LQ.8. Thẩm quyền giải quyết phá sản của Tòa án nhân dân)
 
 Điều 37.2.NQ.1.3. Về vụ việc phá sản có tính chất phức tạp theo quy định tại điểm d khoản 1 Điều 8 của Luật phá sản và thẩm quyền giải quyết
 
-**Chỉ mục:** 3
+(Điều 3 Nghị quyết số 03/2016/NQ-HĐTP, có hiệu lực thi hành kể từ ngày 26/08/2016)
 
-**Mã phân cấp:** 370020000000000010000080000000000000000000602592600030000300
+ 1. Vụ việc phá sản có tính chất phức tạp là vụ việc không thuộc một trong các trường hợp quy định tại các điểm a, b, c khoản 1 Điều 8 của Luật phá sản và doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00060526
+ a) Có từ trên 300 (ba trăm) lao động trở lên hoặc có vốn điều lệ từ trên 100.000.000.000 (một trăm tỷ đồng) trở lên;
 
----
+ b) Là tổ chức tín dụng; doanh nghiệp, hợp tác xã cung ứng các sản phẩm, dịch vụ công ích; doanh nghiệp quốc phòng, an ninh theo quy định của pháp luật;
 
+ c) Là tập đoàn kinh tế, tổng công ty Nhà nước; doanh nghiệp có vốn đầu tư nước ngoài;
 
-### Điều 37.2.NĐ.1.3. Tiêu chí xác định danh mục doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh
+ d) Có khoản nợ được Nhà nước bảo đảm hoặc có liên quan đến việc thực hiện các điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, văn bản thỏa thuận về đầu tư với cơ quan, tổ chức nước ngoài;
+
+ đ) Có giao dịch bị yêu cầu tuyên bố là vô hiệu theo quy định tại Điều 59 của Luật phá sản.
+
+ 2. Tòa án nhân dân cấp tỉnh tự mình hoặc theo đề nghị của Tòa án nhân dân cấp huyện lấy lên để giải quyết phá sản đối với vụ việc thuộc một trong các trường hợp được hướng dẫn tại khoản 1 Điều này.
+
+ 3. Tòa án nhân dân cấp huyện sau khi nhận đơn yêu cầu mở thủ tục phá sản thuộc một trong các trường hợp được hướng dẫn tại khoản 1 Điều này thì căn cứ vào điểm c khoản 1 Điều 32 của Luật phá sản làm văn bản đề nghị gửi kèm đơn yêu cầu mở thủ tục phá sản, tài liệu, chứng cứ cho Tòa án nhân dân cấp tỉnh có thẩm quyền xem xét thụ lý, giải quyết; đồng thời, thông báo bằng văn bản cho người nộp đơn yêu cầu mở thủ tục phá sản và Viện kiểm sát nhân dân cùng cấp.
+
+ 4. Trường hợp Tòa án nhân dân cấp huyện đã thụ lý đơn yêu cầu mở thủ tục phá sản đúng thẩm quyền nhưng trong quá trình giải quyết phá sản có sự thay đổi nơi cư trú, địa chỉ của người tham gia thủ tục phá sản hoặc xuất hiện tình tiết mới làm cho vụ việc phá sản thuộc một trong các trường hợp quy định tại khoản 1 Điều 8 của Luật phá sản và hướng dẫn tại khoản 1 Điều này thì Tòa án nhân dân cấp huyện vẫn tiếp tục giải quyết.(Điều này có nội dung liên quan đến Điều 37.2.LQ.8. Thẩm quyền giải quyết phá sản của Tòa án nhân dân; Điều 37.2.LQ.59. Giao dịch bị coi là vô hiệu)
 
 Điều 37.2.NĐ.1.3. Tiêu chí xác định danh mục doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670000300
+ Doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh áp dụng quy định của Nghị định này là những doanh nghiệp đáp ứng các tiêu chí sau đây:
 
-**ID:** dk_00060527
+ 1. Được thành lập để trực tiếp thực hiện các nhiệm vụ mang tính ổn định, thường xuyên trong những lĩnh vực, địa bàn trực tiếp phục vụ quốc phòng, an ninh và bảo đảm bí mật quốc gia.
 
----
+ 2. Do Nhà nước sở hữu 100% vốn điều lệ.
 
+ 3. Được Nhà nước đặt hàng hoặc giao kế hoạch ổn định, thường xuyên sản xuất cung ứng một hoặc một số sản phẩm, dịch vụ công ích, thực hiện nhiệm vụ quốc phòng, an ninh quy định tại Danh mục A Phụ lục ban hành kèm theo Nghị định số 31/2005/NĐ-CP ngày 11 tháng 03 năm 2005 của Chính phủ về sản xuất và cung ứng sản phẩm, dịch vụ công ích.
 
-### Điều 37.2.NĐ.1.4. Tiêu chí xác định danh mục doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm dịch vụ công ích thiết yếu
+ 4. Có vị trí quan trọng và việc phá sản đối với doanh nghiệp đó có ảnh hưởng trực tiếp đến quốc phòng, an ninh, trật tự xã hội.Điều 37.2.NĐ.1.4. Tiêu chí xác định danh mục doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm dịch vụ công ích thiết yếu
 
-Điều 37.2.NĐ.1.4. Tiêu chí xác định danh mục doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm dịch vụ công ích thiết yếu
+(Điều 4 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
-**Chỉ mục:** 4
+ Các doanh nghiệp, hợp tác xã thuộc danh mục thường xuyên, trực tiếp cung ứng sản phẩm, dịch vụ công ích thiết yếu được áp dụng quy định của Nghị định này phải đáp ứng các tiêu chí sau đây:
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670000400
+ 1. Trực tiếp cung ứng sản phẩm, dịch vụ thiết yếu đối với đời sống kinh tế - xã hội của đất nước, cộng đồng dân cư của một khu vực lãnh thổ. Trường hợp cung ứng sản phẩm dịch vụ thiết yếu đối với cộng đồng dân cư của một khu vực lãnh thổ thì phải đáp ứng thêm điều kiện không có doanh nghiệp, hợp tác xã khác cung ứng sản phẩm, dịch vụ đó tại địa bàn.
 
-**ID:** dk_00060528
+ 2. Được cơ quan nhà nước có thẩm quyền đặt hàng, giao kế hoạch theo giá hoặc phí do nhà nước quy định.Điều 37.2.NĐ.1.5. Lập và công bố danh mục doanh nghiệp đặc biệt
 
----
+(Điều 5 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
+ 1. Căn cứ vào các tiêu chí quy định tại Điều 3 và Điều 4 của Nghị định này, định kỳ hàng năm hoặc trong trường hợp cần thiết:
 
-### Điều 37.2.NĐ.1.5. Lập và công bố danh mục doanh nghiệp đặc biệt
+ a) Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, Trưởng ban Ban Cơ yếu Chính phủ lập và công bố danh mục doanh nghiệp đặc biệt; bổ sung hoặc xoá tên doanh nghiệp trong danh mục doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh, cơ yếu;
 
-Điều 37.2.NĐ.1.5. Lập và công bố danh mục doanh nghiệp đặc biệt
+ b) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ quản lý ngành, lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh lập và công bố danh mục doanh nghiệp đặc biệt; bổ sung hoặc xoá tên doanh nghiệp trong danh mục doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm dịch vụ công ích thiết yếu thuộc ngành, lĩnh vực hoặc địa bàn do mình quản lý.
 
-**Chỉ mục:** 5
+ 2. Đối với các doanh nghiệp thành viên thuộc tổng công ty nhà nước, công ty con thuộc nhóm công ty mẹ - công ty con hoặc tập đoàn kinh tế thì Hội đồng quản trị của tổng công ty nhà nước hoặc của công ty mẹ thuộc nhóm công ty mẹ - công ty con hoặc tập đoàn kinh tế lập danh sách các doanh nghiệp thường xuyên, trực tiếp cung ứng sản phẩm dịch vụ công ích thiết yếu và đề nghị Bộ trưởng bộ quản lý các ngành, lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh công nhận là doanh nghiệp đặc biệt.Điều 37.2.NĐ.1.6. Thông báo về việc có đơn yêu cầu mở thủ tục phá sản
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670000500
+(Điều 6 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
-**ID:** dk_00060529
+ 1. Khi có đơn yêu cầu mở thủ tục phá sản của các đối tượng quy định tại các Điều 13, 14, 15, 16, 17 và 18 của Luật Phá sản đối với doanh nghiệp đặc biệt, Toà án nhận đơn yêu cầu mở thủ tục phá sản phải thông báo cho:
 
----
+ a) Bộ Quốc phòng, Bộ Công an, Ban Cơ yếu Chính phủ, nếu là doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh, cơ yếu;
 
+ b) Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ quản lý nhà nước về ngành, lĩnh vực và Ủy ban nhân dân cấp tỉnh, nếu là doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm, dịch vụ công ích thiết yếu do mình đặt hàng hoặc giao kế hoạch;
 
-### Điều 37.2.NĐ.1.6. Thông báo về việc có đơn yêu cầu mở thủ tục phá sản
+ c) Chủ sở hữu của doanh nghiệp đặc biệt (trừ trường hợp người nộp đơn là đại diện hợp pháp của doanh nghiệp).
 
-Điều 37.2.NĐ.1.6. Thông báo về việc có đơn yêu cầu mở thủ tục phá sản
+ 2. Khi thực hiện chức năng, nhiệm vụ, nếu nhận thấy doanh nghiệp đặc biệt không có khả năng thanh toán được các khoản nợ đến hạn thì Toà án, Viện kiểm sát, cơ quan thanh tra, cơ quan quản lý vốn, tổ chức kiểm toán hoặc cơ quan quyết định thành lập doanh nghiệp mà không phải là chủ sở hữu nhà nước của doanh nghiệp này phải thông báo bằng văn bản cho các đối tượng quy định tại khoản 1 Điều này.Điều 37.2.NĐ.1.7. Trách nhiệm của cơ quan nhà nước và của doanh nghiệp đặc biệt
 
-**Chỉ mục:** 6
+(Điều 7 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670000600
+ 1. Khi nhận được thông báo của Toà án, của các cơ quan nhà nước có liên quan về việc mất khả năng thanh toán của các doanh nghiệp, hợp tác xã do mình đưa vào danh mục các doanh nghiệp đặc biệt hoặc có thông tin về nguy cơ mất khả năng thanh toán của các doanh nghiệp này, các đối tượng quy định tại khoản 1 Điều 6 của Nghị định này có trách nhiệm như sau:
 
-**ID:** dk_00060530
+ a) Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, Trưởng ban Ban Cơ yếu Chính phủ yêu cầu doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh, cơ yếu lập báo cáo bằng văn bản về nguy cơ mất khả năng thanh toán của doanh nghiệp;
 
----
+ b) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ quản lý ngành, lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh yêu cầu doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm, dịch vụ công ích thiết yếu do mình đặt hàng hoặc giao kế hoạch phải lập báo cáo bằng văn bản về nguy cơ mất khả năng thanh toán của doanh nghiệp.
 
+ 2. Trường hợp nhận thấy nguy cơ mất khả năng thanh toán, trước khi quyết định việc nộp đơn yêu cầu mở thủ tục phá sản, doanh nghiệp đặc biệt phải lập báo cáo bằng văn bản về nguy cơ không có khả năng thanh toán của doanh nghiệp do đại diện hợp pháp của doanh nghiệp ký và gửi cho chủ sở hữu và cơ quan quản lý nhà nước có liên quan quy định tại khoản 1 Điều 6 của Nghị định này.
 
-### Điều 37.2.NĐ.1.7. Trách nhiệm của cơ quan nhà nước và của doanh nghiệp đặc biệt
+ 3. Báo cáo về nguy cơ mất khả năng thanh toán được lập theo quy định của Nghị định này và quy định có liên quan của pháp luật, nhưng tối thiểu phải có các nội dung sau đây:
 
-Điều 37.2.NĐ.1.7. Trách nhiệm của cơ quan nhà nước và của doanh nghiệp đặc biệt
+ a) Thực trạng tài chính của doanh nghiệp;
 
-**Chỉ mục:** 7
+ b) Nguyên nhân dẫn đến nguy cơ mất khả năng thanh toán và các biện pháp đã áp dụng để khắc phục;
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670000700
+ c) Dự kiến các biện pháp cần được áp dụng để khắc phục, bao gồm cả biện pháp chuyển giao toàn bộ các hoạt động cho doanh nghiệp tương ứng khác hoặc sáp nhập vào doanh nghiệp khác;
 
-**ID:** dk_00060531
+ d) Trách nhiệm của các cá nhân liên quan.Điều 37.2.NĐ.1.8. Áp dụng biện pháp cần thiết phục hồi khả năng thanh toán và hoạt động kinh doanh
 
----
+(Điều 8 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
+ 1. Trong thời hạn 15 (mười lăm) ngày, kể từ ngày nhận được báo cáo, căn cứ vào thẩm quyền do pháp luật quy định và các quy định tại Nghị định này:
 
-### Điều 37.2.NĐ.1.8. Áp dụng biện pháp cần thiết phục hồi khả năng thanh toán và hoạt động kinh doanh
+ a) Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, Trưởng ban Ban Cơ yếu Chính phủ phải quyết định áp dụng hoặc không áp dụng các biện pháp cần thiết theo quy định của pháp luật nhằm phục hồi khả năng thanh toán nợ đến hạn và hoạt động kinh doanh của doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh, cơ yếu. Trong trường hợp việc áp dụng các biện pháp cần thiết phục hồi khả năng thanh toán nợ đến hạn và hoạt động kinh doanh của doanh nghiệp vượt quá khả năng, thẩm quyền của Bộ Quốc phòng, Bộ Công an, Ban Cơ yếu Chính phủ thì Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, Trưởng ban Ban Cơ yếu Chính phủ phải báo cáo để Thủ tướng Chính phủ xem xét, quyết định các biện pháp cần thiết nhằm phục hồi khả năng thanh toán nợ đến hạn và hoạt động kinh doanh của doanh nghiệp;
 
-Điều 37.2.NĐ.1.8. Áp dụng biện pháp cần thiết phục hồi khả năng thanh toán và hoạt động kinh doanh
+ b) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ quản lý ngành, lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh, chủ sở hữu doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm, dịch vụ công ích thiết yếu phải quyết định áp dụng hoặc không áp dụng các biện pháp cần thiết nhằm phục hồi khả năng thanh toán nợ đến hạn và hoạt động kinh doanh của doanh nghiệp, hợp tác xã này.
 
-**Chỉ mục:** 8
+ 2. Trường hợp quyết định chấm dứt áp dụng các biện pháp cần thiết nhằm phục hồi khả năng thanh toán nợ đến hạn và hoạt động kinh doanh hoặc sau khi đã áp dụng các biện pháp cần thiết phục hồi khả năng thanh toán và hoạt động kinh doanh mà doanh nghiệp vẫn không phục hồi được và không thanh toán được các khoản nợ đến hạn khi chủ nợ có yêu cầu thì Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, Trưởng ban Ban Cơ yếu Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ quản lý ngành, lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh, chủ sở hữu doanh nghiệp hoặc hợp tác xã, Hội đồng quản trị của tổng công ty nhà nước hoặc của công ty mẹ có doanh nghiệp thành viên hoặc công ty con là doanh nghiệp đặc biệt phải thông báo bằng văn bản cho Toà án, đối tượng nộp đơn và các chủ nợ biết về việc không áp dụng hoặc chấm dứt áp dụng các biện pháp phục hồi khả năng thanh toán và hoạt động kinh doanh của doanh nghiệp, hợp tác xã.Điều 37.2.NĐ.1.9. Thụ lý đơn yêu cầu mở thủ tục phá sản đối với doanh nghiệp đặc biệt
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670000800
+(Điều 9 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
-**ID:** dk_00060532
+ Tòa án chỉ thụ lý đơn yêu cầu mở thủ tục phá sản đối với doanh nghiệp đặc biệt sau khi đã nhận được văn bản thông báo của các cơ quan, tổ chức hoặc cá nhân sau đây:
 
----
+ 1. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, Trưởng ban Ban cơ yếu Chính phủ thông báo không áp dụng hoặc chấm dứt áp dụng các biện pháp phục hồi khả năng thanh toán và hoạt động kinh doanh của doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh, cơ yếu mà doanh nghiệp đó vẫn không phục hồi được và không có khả năng thanh toán nợ đến hạn.
 
+ 2. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ quản lý ngành, lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh, Hội đồng quản trị tổng công ty nhà nước hoặc của công ty mẹ có doanh nghiệp thành viên hoặc công ty con là doanh nghiệp đặc biệt, chủ sở hữu doanh nghiệp, hợp tác xã thông báo không áp dụng hoặc chấm dứt áp dụng các biện pháp phục hồi khả năng thanh toán và hoạt động kinh doanh của doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm, dịch vụ công ích thiết yếu mà doanh nghiệp, hợp tác xã đó vẫn không phục hồi được và không có khả năng thanh toán nợ đến hạn.Điều 37.2.NĐ.1.10. Thủ tục phá sản
 
-### Điều 37.2.NĐ.1.9. Thụ lý đơn yêu cầu mở thủ tục phá sản đối với doanh nghiệp đặc biệt
+(Điều 10 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
-Điều 37.2.NĐ.1.9. Thụ lý đơn yêu cầu mở thủ tục phá sản đối với doanh nghiệp đặc biệt
+ Sau khi nhận được thông báo không áp dụng hoặc chấm dứt áp dụng các biện pháp phục hồi khả năng thanh toán và hoạt động kinh doanh theo quy định tại Điều 8 và Điều 9 của Nghị định này và thực hiện các thủ tục quy định tại Điều 22 và Điều 23 Luật Phá sản thì Thẩm phán phải quyết định theo một trong hai trường hợp sau:
 
-**Chỉ mục:** 9
+ 1. Quyết định mở thủ tục phá sản và thực hiện các trình tự, thủ tục phá sản theo quy định của Luật Phá sản, Nghị định này và các quy định pháp luật khác có liên quan đối với các trường hợp sau:
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670000900
+ a) Doanh nghiệp đặc biệt không được nhà nước áp dụng biện pháp cần thiết để phục hồi khả năng thanh toán và hoạt động kinh doanh;
 
-**ID:** dk_00060533
+ b) Doanh nghiệp đặc biệt đã được nhà nước áp dụng biện pháp cần thiết để phục hồi khả năng thanh toán và hoạt động kinh doanh mà vẫn không phục hồi được và không có khả năng thanh toán được các khoản nợ đến hạn nhưng có quá nửa số chủ nợ không có bảo đảm đại diện cho từ hai phần ba tổng số nợ không có bảo đảm trở lên đề nghị tổ chức Hội nghị chủ nợ.
 
----
+ 2. Quyết định mở thủ tục phá sản và thực hiện ngay thủ tục thanh lý tài sản của doanh nghiệp đối với trường hợp doanh nghiệp đặc biệt đã được Nhà nước áp dụng biện pháp cần thiết để phục hồi khả năng thanh toán và hoạt động kinh doanh, nhưng vẫn không phục hồi được, không thanh toán được các khoản nợ đến hạn khi chủ nợ có yêu cầu và không có đủ quá nửa số chủ nợ không có bảo đảm đại diện cho từ 2/3 (hai phần ba) tổng số nợ không có bảo đảm trở lên đề nghị tổ chức Hội nghị chủ nợ. Thủ tục thanh lý và tuyên bố phá sản được thực hiện theo quy định của Luật Phá sản, Nghị định này và các quy định pháp luật khác có liên quan.Điều 37.2.NĐ.1.12. Thanh lý tài sản của doanh nghiệp đặc biệt
 
+(Điều 12 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
-### Điều 37.2.NĐ.1.10. Thủ tục phá sản
+ 1. Việc thanh lý tài sản của doanh nghiệp đặc biệt thực hiện theo phương thức và thứ tự ưu tiên như sau:
 
-*Nội dung chưa có sẵn*
+ a) Bán đấu giá toàn bộ doanh nghiệp cho đối tượng hoạt động trong cùng ngành nghề lĩnh vực để tiếp tục kinh doanh;
 
-**Chỉ mục:** 10
+ b) Bán đấu giá toàn bộ doanh nghiệp cho các đối tượng khác trong trường hợp không có đối tượng hoạt động trong cùng ngành nghề lĩnh vực tham gia đấu giá mua doanh nghiệp để tiếp tục kinh doanh;
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670001000
+ c) Bán theo phương thức trực tiếp toàn bộ doanh nghiệp cho đối tượng hoạt động trong cùng ngành nghề lĩnh vực để tiếp tục kinh doanh trong trường hợp chỉ có một người đăng ký mua;
 
-**ID:** dk_00060534
+ d) Bán đấu giá từng tài sản riêng lẻ được thực hiện trong trường hợp không thực hiện được theo phương thức bán đấu giá toàn bộ doanh nghiệp;
 
----
+ đ) Bán tài sản theo phương thức trực tiếp được thực hiện trong trường hợp không thực hiện được theo phương thức bán đấu giá từng tài sản hoặc giá trị tài sản dưới mức phải bán theo phương thức đấu giá theo quy định của pháp luật.
 
+ 2. Những doanh nghiệp hoặc tài sản trong lĩnh vực quốc phòng an ninh, cơ yếu không được bán đấu giá thì bán trực tiếp cho đối tượng hoạt động trong cùng ngành nghề lĩnh vực để tiếp tục kinh doanh. Danh mục doanh nghiệp hoặc tài sản không bán đấu giá cho các đối tượng hoạt động ngoài lĩnh vực quốc phòng, an ninh, cơ yếu do Bộ Quốc phòng, Bộ Công an, Ban Cơ yếu Chính phủ quy định.
 
-### Điều 37.2.NĐ.1.12. Thanh lý tài sản của doanh nghiệp đặc biệt
+ 3. Việc bán toàn bộ doanh nghiệp thuộc sở hữu nhà nước thực hiện theo quy định về bán doanh nghiệp theo Nghị định số 80/2005/NĐ-CP ngày 22 tháng 06 năm 2005 của Chính phủ về giao, bán, khoán kinh doanh, cho thuê công ty nhà nước; bán đấu giá công ty nhà nước theo Quyết định số 330/2005/QĐ-TTg ngày 13 tháng 12 năm 2005 của Thủ tướng Chính phủ. Việc bán toàn bộ doanh nghiệp không thuộc sở hữu nhà nước theo hướng dẫn của Bộ Tài chính. Việc bán đấu giá tài sản thực hiện theo quy định tại Nghị định số 05/2005/NĐ-CP ngày 18 tháng 01 năm 2005 của Chính phủ về bán đấu giá tài sản.Điều 37.2.NĐ.1.13. Thanh toán nợ có bảo đảm và hoàn trả lại tài sản cho Nhà nước
 
-Điều 37.2.NĐ.1.12. Thanh lý tài sản của doanh nghiệp đặc biệt
+(Điều 13 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
-**Chỉ mục:** 12
+ Doanh nghiệp đặc biệt phải thực hiện các nghĩa vụ về tài sản sau đây trước khi phân chia giá trị tài sản của doanh nghiệp:
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670001200
+ 1. Thanh toán các khoản nợ được bảo đảm bằng tài sản thế chấp hoặc cầm cố được xác lập trước khi Toà án thụ lý đơn yêu cầu mở thủ tục phá sản cho các chủ nợ có bảo đảm theo quy định tại Điều 35 của Luật Phá sản.
 
-**ID:** dk_00060535
+ 2. Hoàn trả lại cho nhà nước giá trị tài sản đã được sử dụng khi áp dụng biện pháp cần thiết để phục hồi khả năng thanh toán và hoạt động kinh doanh theo quy định tại Điều 36 của Luật Phá sản.Điều 37.2.NĐ.1.14. Thứ tự phân chia tài sản
 
----
+(Điều 14 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
+ Sau khi thực hiện các nghĩa vụ về tài sản theo quy định tại Điều 13 của Nghị định này, giá trị tài sản của doanh nghiệp đặc biệt được phân chia theo thứ tự quy định tại Điều 37 của Luật Phá sản.Điều 37.2.LQ.9. Nhiệm vụ, quyền hạn của Thẩm phán tiến hành thủ tục phá sản
 
-### Điều 37.2.NĐ.1.13. Thanh toán nợ có bảo đảm và hoàn trả lại tài sản cho Nhà nước
+(Điều 9 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-Điều 37.2.NĐ.1.13. Thanh toán nợ có bảo đảm và hoàn trả lại tài sản cho Nhà nước
+1. Xác minh, thu thập tài liệu, chứng cứ liên quan đến việc giải quyết yêu cầu mở thủ tục phá sản trong trường hợp cần thiết.
 
-**Chỉ mục:** 13
+2. Quyết định mở hoặc không mở thủ tục phá sản.
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670001300
+3. Quyết định chỉ định hoặc thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
-**ID:** dk_00060536
+4. Giám sát hoạt động của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
----
+5. Quyết định việc thực hiện kiểm toán doanh nghiệp, hợp tác xã mất khả năng thanh toán trong trường hợp cần thiết.
 
+6. Quyết định việc bán tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán sau khi mở thủ tục phá sản để bảo đảm chi phí phá sản.
 
-### Điều 37.2.NĐ.1.14. Thứ tự phân chia tài sản
+7. Quyết định áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+8. Áp dụng biện pháp cấm đi khỏi nơi cư trú, yêu cầu cơ quan có thẩm quyền dẫn giải đại diện của doanh nghiệp, hợp tác xã mất khả năng thanh toán theo quy định của pháp luật.
 
-**Chỉ mục:** 14
+9. Tổ chức Hội nghị chủ nợ.
 
-**Mã phân cấp:** 37002000000000001000008000000000000000000060259260003000030000402222700670001400
+10. Quyết định công nhận Nghị quyết của Hội nghị chủ nợ về phương án phục hồi hoạt động kinh doanh.
 
-**ID:** dk_00060537
+11. Quyết định đình chỉ tiến hành thủ tục phá sản.
 
----
+12. Quyết định tuyên bố phá sản đối với doanh nghiệp, hợp tác xã mất khả năng thanh toán.
 
+13. Áp dụng biện pháp xử phạt hành chính, đề nghị cơ quan có thẩm quyền xử lý về hình sự theo quy định của pháp luật.
 
-### Điều 37.2.LQ.9. Nhiệm vụ, quyền hạn của Thẩm phán tiến hành thủ tục phá sản
+14. Tham khảo quyết định giải quyết phá sản trước đó trong vụ việc phá sản tương tự theo hướng dẫn của Tòa án nhân dân tối cao.
 
-Điều 37.2.LQ.9. Nhiệm vụ, quyền hạn của Thẩm phán tiến hành thủ tục phá sản
+15. Phải từ chối giải quyết phá sản nếu thuộc một trong các trường hợp quy định tại khoản 1 Điều 10 của Luật này.
 
-**Chỉ mục:** 9
+16. Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
 
-**Mã phân cấp:** 3700200000000000100000900000000000000000
-
-**ID:** dk_00060538
-
----
-
-
-### Điều 37.2.NQ.1.4. Về tham khảo quyết định giải quyết phá sản trước đó trong vụ việc phá sản tương tự quy định tại khoản 14 Điều 9 của Luật phá sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.10. Từ chối hoặc thay đổi Thẩm phán trong quá trình giải quyết phá sản; Điều 37.2.NQ.1.1. Phạm vi điều chỉnh; Điều 37.2.NQ.1.4. Về tham khảo quyết định giải quyết phá sản trước đó trong vụ việc phá sản tương tự quy định tại khoản 14 Điều 9 của Luật phá sản)
 
 Điều 37.2.NQ.1.4. Về tham khảo quyết định giải quyết phá sản trước đó trong vụ việc phá sản tương tự quy định tại khoản 14 Điều 9 của Luật phá sản
 
-**Chỉ mục:** 4
+(Điều 4 Nghị quyết số 03/2016/NQ-HĐTP, có hiệu lực thi hành kể từ ngày 26/08/2016)
 
-**Mã phân cấp:** 370020000000000010000090000000000000000000602592600030000400
+ 1. Khi giải quyết vụ việc phá sản, Thẩm phán phải nghiên cứu, áp dụng án lệ đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao công nhận theo hướng dẫn tại Nghị quyết số 03/2015/NQ-HĐTP ngày 28-10-2015 của Hội đồng Thẩm phán Tòa án nhân dân tối cao về quy trình lựa chọn, công bố và áp dụng án lệ đối với vụ việc phá sản tương tự.
 
-**ID:** dk_00060539
-
----
-
-
-### Điều 37.2.LQ.10. Từ chối hoặc thay đổi Thẩm phán trong quá trình giải quyết phá sản
+ 2. Thẩm phán có thể tham khảo quyết định giải quyết vụ việc phá sản của Tòa án đã có hiệu lực pháp luật, có tính chất tương tự với vụ việc phá sản đang giải quyết để bảo đảm áp dụng thống nhất pháp luật trong giải quyết phá sản.(Điều này có nội dung liên quan đến Điều 37.2.LQ.9. Nhiệm vụ, quyền hạn của Thẩm phán tiến hành thủ tục phá sản)
 
 Điều 37.2.LQ.10. Từ chối hoặc thay đổi Thẩm phán trong quá trình giải quyết phá sản
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001000000000000000000
+1. Thẩm phán phải từ chối tham gia giải quyết phá sản hoặc bị thay đổi trong những trường hợp sau:
 
-**ID:** dk_00060540
+a) Đồng thời là người tham gia thủ tục phá sản; người đại diện, người thân thích của người tham gia thủ tục phá sản trong vụ việc phá sản đó;
 
----
+b) Đã tham gia với tư cách Kiểm sát viên, Quản tài viên, người bảo vệ quyền và lợi ích hợp pháp của người tham gia thủ tục phá sản, người giám định, thẩm định giá, định giá, người phiên dịch trong vụ việc phá sản đó;
 
+c) Cùng trong một Tổ Thẩm phán giải quyết phá sản đó và là người thân thích với nhau;
 
-### Điều 37.2.LQ.11. Cá nhân, doanh nghiệp hành nghề quản lý, thanh lý tài sản
+d) Đã tham gia ra quyết định tuyên bố phá sản đối với vụ việc phá sản đó;
+
+đ) Có căn cứ rõ ràng cho rằng Thẩm phán có thể không vô tư trong khi làm nhiệm vụ.
+
+2. Việc thay đổi Thẩm phán do Chánh án Tòa án nhân dân quyết định. Trường hợp Thẩm phán phụ trách việc phá sản là Chánh án thì việc thay đổi Thẩm phán do Tòa án nhân dân cấp trên trực tiếp quyết định. Quyết định thay đổi Thẩm phán của Chánh án là quyết định cuối cùng.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.9. Nhiệm vụ, quyền hạn của Thẩm phán tiến hành thủ tục phá sản; Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.TT.1.3. Thành lập Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản và Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản)
 
 Điều 37.2.LQ.11. Cá nhân, doanh nghiệp hành nghề quản lý, thanh lý tài sản
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001100000000000000000
+Cá nhân, doanh nghiệp được hành nghề quản lý, thanh lý tài sản trong quá trình giải quyết phá sản gồm:
 
-**ID:** dk_00060541
+1. Quản tài viên;
 
----
+2. Doanh nghiệp quản lý, thanh lý tài sản.
 
-
-### Điều 37.2.NĐ.2.2. Nguyên tắc hành nghề quản lý, thanh lý tài sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.2. Nguyên tắc hành nghề quản lý, thanh lý tài sản
 
-**Chỉ mục:** 2
+(Điều 2 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000110000000000000000000402536900220000200
+1. Tuân thủ Hiến pháp và pháp luật.
 
-**ID:** dk_00060542
+2. Tuân theo Quy tắc đạo đức nghề nghiệp Quản tài viên.
 
----
+3. Bảo đảm tính độc lập về chuyên môn, nghiệp vụ, tính trung thực, minh bạch, khách quan.
 
+4. Chịu trách nhiệm trước pháp luật về hoạt động hành nghề.
 
-### Điều 37.2.NĐ.2.3. Những hành vi bị nghiêm cấm đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.7. Nghĩa vụ của Quản tài viên trong hoạt động hành nghề)
 
 Điều 37.2.NĐ.2.3. Những hành vi bị nghiêm cấm đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000110000000000000000000402536900220000300
+1. Những hành vi bị nghiêm cấm đối với Quản tài viên:
 
-**ID:** dk_00060543
+a) Cho thuê, cho mượn hoặc cho cá nhân, tổ chức khác sử dụng chứng chỉ hành nghề Quản tài viên của mình để hành nghề quản lý, thanh lý tài sản;
 
----
+b) Gợi ý hoặc nhận bất kỳ một khoản tiền hoặc lợi ích vật chất từ người tham gia thủ tục phá sản hoặc lợi dụng danh nghĩa Quản tài viên để thu lợi từ cá nhân, tổ chức ngoài chi phí Quản tài viên được nhận theo quy định của pháp luật;
 
+c) Lợi dụng nhiệm vụ, quyền hạn để thông đồng với cá nhân, tổ chức nhằm mục đích vụ lợi;
 
-### Điều 37.2.NĐ.2.8. Hình thức hành nghề của Quản tài viên
+d) Tiết lộ thông tin về tổ chức, hoạt động của doanh nghiệp, hợp tác xã mất khả năng thanh toán mà Quản tài viên biết được trong khi hành nghề, trừ trường hợp được doanh nghiệp, hợp tác xã đồng ý bằng văn bản hoặc pháp luật có quy định khác;
+
+đ) Các hành vi khác trái với quy định của pháp luật, Quy tắc đạo đức nghề nghiệp Quản tài viên.
+
+2. Những hành vi bị nghiêm cấm đối với doanh nghiệp quản lý, thanh lý tài sản:
+
+a) Thông đồng, móc nối với doanh nghiệp, hợp tác xã mất khả năng thanh toán để làm sai lệch các nội dung liên quan đến hoạt động hành nghề quản lý, thanh lý tài sản;
+
+b) Gợi ý hoặc nhận bất kỳ một khoản tiền hoặc lợi ích vật chất từ người tham gia thủ tục phá sản hoặc lợi dụng nhiệm vụ, quyền hạn của doanh nghiệp để thu lợi từ cá nhân, tổ chức ngoài chi phí doanh nghiệp quản lý, thanh lý tài sản được nhận theo quy định của pháp luật;
+
+c) Cho cá nhân, tổ chức khác sử dụng tên, Giấy chứng nhận đăng ký doanh nghiệp của mình để hành nghề quản lý, thanh lý tài sản;
+
+d) Tiết lộ thông tin về tổ chức, hoạt động của doanh nghiệp, hợp tác xã mất khả năng thanh toán mà doanh nghiệp biết được trong khi hành nghề, trừ trường hợp được doanh nghiệp, hợp tác xã đồng ý bằng văn bản hoặc pháp luật có quy định khác;
+
+đ) Các hành vi khác trái với quy định của pháp luật.
 
 Điều 37.2.NĐ.2.8. Hình thức hành nghề của Quản tài viên
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000110000000000000000000402536900220000800
+1. Các hình thức hành nghề của Quản tài viên bao gồm:
 
-**ID:** dk_00060544
+a) Hành nghề với tư cách cá nhân;
 
----
+b) Hành nghề trong doanh nghiệp quản lý, thanh lý tài sản bằng việc thành lập hoặc tham gia thành lập hoặc làm việc theo hợp đồng cho doanh nghiệp quản lý, thanh lý tài sản.
 
+2. Tại cùng một thời điểm, người có chứng chỉ hành nghề Quản tài viên chỉ được đăng ký hành nghề quản lý, thanh lý tài sản ở một doanh nghiệp quản lý, thanh lý tài sản hoặc đăng ký hành nghề với tư cách cá nhân.
 
-### Điều 37.2.NĐ.2.27. Khiếu nại, tố cáo
+3. Quản tài viên hành nghề với tư cách cá nhân đăng ký nộp thuế theo quy định của pháp luật về thuế.
 
-*Nội dung chưa có sẵn*
+Điều 37.2.NĐ.2.27. Khiếu nại, tố cáo
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000110000000000000000000402536900220002700
+1. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền khiếu nại đối với quyết định, hành vi hành chính của cơ quan thi hành án dân sự và các cơ quan, tổ chức khác khi có căn cứ cho rằng quyết định, hành vi hành chính đó xâm phạm quyền, lợi ích hợp pháp của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản. Việc giải quyết khiếu nại tuân theo quy định của pháp luật về khiếu nại, pháp luật về thi hành án.
 
-**ID:** dk_00060545
+2. Cá nhân có quyền tố cáo với cơ quan nhà nước có thẩm quyền về các hành vi vi phạm pháp luật về phá sản, Quy tắc đạo đức nghề nghiệp Quản tài viên. Việc giải quyết tố cáo tuân theo quy định của pháp luật về tố cáo.
 
----
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.LQ.41. Tạm đình chỉ giải quyết yêu cầu doanh nghiệp, hợp tác xã mất khả năng thanh toán thực hiện nghĩa vụ về tài sản; Điều 37.2.LQ.72. Giải quyết việc đình chỉ thi hành án dân sự, giải quyết vụ việc)
 
+Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên
 
-### Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên
+(Điều 12 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+1. Những người sau đây được cấp chứng chỉ hành nghề Quản tài viên:
 
-**Chỉ mục:** 12
+a) Luật sư;
 
-**Mã phân cấp:** 3700200000000000100001200000000000000000
+b) Kiểm toán viên;
 
-**ID:** dk_00060546
+c) Người có trình độ cử nhân luật, kinh tế, kế toán, tài chính, ngân hàng và có kinh nghiệm 05 năm trở lên về lĩnh vực được đào tạo.
 
----
+2. Điều kiện được hành nghề Quản tài viên:
 
+a) Có năng lực hành vi dân sự đầy đủ;
 
-### Điều 37.2.NĐ.2.4. Cấp chứng chỉ hành nghề Quản tài viên
+b) Có phẩm chất đạo đức tốt, có ý thức trách nhiệm, liêm khiết, trung thực, khách quan;
+
+c) Có chứng chỉ hành nghề Quản tài viên.
+
+3. Chính phủ quy định chi tiết việc cấp chứng chỉ hành nghề Quản tài viên và việc quản lý nhà nước đối với Quản tài viên.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.4. Cấp chứng chỉ hành nghề Quản tài viên; Điều 37.2.NĐ.2.9. Đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân; Điều 37.2.NĐ.2.22. Trách nhiệm của Bộ Tư pháp; Điều 37.2.NĐ.2.23. Trách nhiệm của các Bộ, cơ quan ngang Bộ; Điều 37.2.NĐ.2.24. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Điều 37.2.NĐ.2.25. Xử lý vi phạm đối với các hành vi xâm phạm quyền, lợi ích hợp pháp của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.26. Xử lý vi phạm đối với cá nhân, tổ chức hành nghề quản lý, thanh lý tài sản bất hợp pháp; Điều 37.2.NĐ.2.27. Khiếu nại, tố cáo)
 
 Điều 37.2.NĐ.2.4. Cấp chứng chỉ hành nghề Quản tài viên
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220000400
+1. Người thuộc trường hợp quy định tại Khoản 1 Điều 12 của Luật Phá sản muốn hành nghề quản lý, thanh lý tài sản thì lập hồ sơ đề nghị cấp chứng chỉ hành nghề Quản tài viên. Hồ sơ gồm:
 
-**ID:** dk_00060547
+a) Đơn đề nghị cấp chứng chỉ hành nghề Quản tài viên theo mẫu TP-QTV-01 ban hành kèm theo Nghị định này;
 
----
+b) Bản chụp Thẻ luật sư đối với luật sư; bản chụp Chứng chỉ kiểm toán viên đối với kiểm toán viên; bản chụp bằng cử nhân luật, kinh tế, kế toán, tài chính, ngân hàng đối với người có trình độ cử nhân luật, kinh tế, kế toán, tài chính, ngân hàng;
 
+c) Giấy tờ chứng minh có ít nhất 05 năm kinh nghiệm trong lĩnh vực được đào tạo có xác nhận của cơ quan, tổ chức nơi người có trình độ cử nhân luật, kinh tế, kế toán, tài chính, ngân hàng làm việc;
 
-### Điều 37.2.NĐ.2.5. Cấp lại chứng chỉ hành nghề Quản tài viên
+d) 2 ảnh màu cỡ 3cm x 4cm.
+
+Trong trường hợp cần thiết, Bộ Tư pháp yêu cầu người đề nghị cấp chứng chỉ hành nghề Quản tài viên nộp Phiếu lý lịch tư pháp.
+
+2. Luật sư nước ngoài đã được cấp Giấy phép hành nghề luật sư tại Việt Nam theo quy định của pháp luật về luật sư, kiểm toán viên là người nước ngoài theo quy định của pháp luật về kiểm toán muốn hành nghề quản lý, thanh lý tài sản thì lập hồ sơ đề nghị cấp chứng chỉ hành nghề Quản tài viên. Hồ sơ gồm:
+
+a) Đơn đề nghị cấp chứng chỉ hành nghề Quản tài viên theo mẫu TP-QTV-02 ban hành kèm theo Nghị định này;
+
+b) Bản chụp Giấy phép hành nghề luật sư tại Việt Nam đối với luật sư nước ngoài do Bộ Tư pháp cấp; bản chụp Chứng chỉ kiểm toán viên đối với kiểm toán viên là người nước ngoài do Bộ Tài chính cấp;
+
+c) Bản tóm tắt lý lịch (tự khai);
+
+d) 2 ảnh màu cỡ 3cm x 4cm.
+
+3. Người đề nghị cấp chứng chỉ hành nghề Quản tài viên gửi 01 bộ hồ sơ theo đường bưu điện hoặc trực tiếp đến Bộ Tư pháp và nộp lệ phí theo quy định của pháp luật.
+
+Trường hợp người đề nghị cấp chứng chỉ hành nghề Quản tài viên nộp hồ sơ trực tiếp tại Bộ Tư pháp thì xuất trình bản chính giấy tờ quy định tại Điểm b Khoản 1 và Điểm b Khoản 2 Điều này để đối chiếu.
+
+Trường hợp người đề nghị cấp chứng chỉ hành nghề Quản tài viên gửi hồ sơ qua đường bưu điện đến Bộ Tư pháp khi có yêu cầu thì xuất trình bản chính giấy tờ quy định tại Điểm b Khoản 1 và Điểm b Khoản 2 Điều này.
+
+Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tư pháp có trách nhiệm cấp chứng chỉ hành nghề Quản tài viên cho người đề nghị theo mẫu TP-QTV-08 ban hành kèm theo Nghị định này; trong trường hợp từ chối phải thông báo lý do bằng văn bản.
+
+Người bị từ chối cấp chứng chỉ hành nghề Quản tài viên có quyền khiếu nại, khởi kiện theo quy định của pháp luật.
+
+4. Người thuộc một trong những trường hợp sau đây thì không được cấp chứng chỉ hành nghề Quản tài viên:
+
+a) Không đủ điều kiện hành nghề Quản tài viên theo quy định tại Điểm a, Điểm b Khoản 2 Điều 12 của Luật Phá sản;
+
+b) Các trường hợp quy định tại Điều 14 của Luật Phá sản.
+
+Bieu mau TP-QTV-01_Don de nghi cap chung chi hanh nghe Quan tai vien dinh kem theo.doc
+
+Bieu mau TP-QTV-02_Don de nghi cap chung chi hanh nghe Quan tai vien dinh kem theo.doc
+
+Bieu mau TP-QTV-08_Chung chi hanh nghe Quan tai vien dinh kem theo.doc
+
+(Điều này có nội dung liên quan đến Điều 4. Mức thu phí, lệ phí; Điều 5. Kê khai, nộp phí, lệ phí của Thông tư 224/2016/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định tiêu chuẩn, điều kiện hành nghề, hoạt động quản lý, thanh lý tài sản; lệ phí cấp chứng chỉ hành nghề quản tài viên ban hành ngày 10/11/2016; Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.LQ.14. Cá nhân không được hành nghề quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.5. Cấp lại chứng chỉ hành nghề Quản tài viên
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220000500
+1. Người đã được cấp chứng chỉ hành nghề Quản tài viên nếu bị mất chứng chỉ hoặc chứng chỉ bị hư hỏng không thể sử dụng được thì được xem xét, cấp lại chứng chỉ hành nghề Quản tài viên.
 
-**ID:** dk_00060548
+2. Hồ sơ đề nghị cấp lại chứng chỉ hành nghề Quản tài viên gồm:
 
----
+a) Đơn đề nghị cấp lại chứng chỉ hành nghề Quản tài viên theo mẫu TP-QTV-03 ban hành kèm theo Nghị định này;
 
+b) 2 ảnh màu cỡ 3cm x 4cm.
 
-### Điều 37.2.NĐ.2.7. Nghĩa vụ của Quản tài viên trong hoạt động hành nghề
+3. Người đề nghị cấp lại chứng chỉ hành nghề Quản tài viên gửi 01 bộ hồ sơ theo đường bưu điện hoặc trực tiếp đến Bộ Tư pháp và nộp lệ phí cấp lại theo quy định của pháp luật. Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tư pháp có trách nhiệm cấp lại chứng chỉ hành nghề Quản tài viên cho người đề nghị.
+
+Bieu mau TP-QTV-03_Don de nghi cap lai chung chi hanh nghe Quan tai vien dinh kem theo.doc
 
 Điều 37.2.NĐ.2.7. Nghĩa vụ của Quản tài viên trong hoạt động hành nghề
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220000700
+1. Tuân thủ nguyên tắc hành nghề quản lý, thanh lý tài sản quy định tại Điều 2 của Nghị định này.
 
-**ID:** dk_00060549
+2. Chịu trách nhiệm về hoạt động nghề nghiệp của mình theo quy định của pháp luật về phá sản.
 
----
+3. Ký báo cáo, văn bản về kết quả thực hiện quyền, nghĩa vụ của mình theo quy định của pháp luật về phá sản.
 
+4. Mua bảo hiểm trách nhiệm nghề nghiệp theo quy định của pháp luật đối với trường hợp Quản tài viên hành nghề với tư cách cá nhân.
 
-### Điều 37.2.NĐ.2.9. Đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân
+5. Báo cáo Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi đăng ký hành nghề về hoạt động hành nghề quản lý, thanh lý tài sản theo hướng dẫn của Bộ Tư pháp.
+
+6. Các nghĩa vụ khác theo quy định của Luật Phá sản và pháp luật có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.16. Quyền, nghĩa vụ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.2. Nguyên tắc hành nghề quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.9. Đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220000900
+1. Người có chứng chỉ hành nghề Quản tài viên đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân tại Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi người đó thường trú.
 
-**ID:** dk_00060550
+Người đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân phải có địa chỉ giao dịch.
 
----
+2. Người đề nghị đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân gửi 01 bộ hồ sơ qua đường bưu điện hoặc trực tiếp đến Sở Tư pháp và nộp lệ phí đăng ký hành nghề theo quy định của pháp luật. Hồ sơ gồm:
 
+a) Giấy đề nghị đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân theo mẫu TP-QTV-04 ban hành kèm theo Nghị định này;
 
-### Điều 37.2.NĐ.2.14. Lập, công bố danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản
+b) Bản chụp chứng chỉ hành nghề Quản tài viên.
+
+Trong trường hợp cần thiết, Sở Tư pháp yêu cầu người đề nghị đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân nộp Phiếu lý lịch tư pháp.
+
+Trường hợp người đề nghị đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân nộp hồ sơ trực tiếp tại Sở Tư pháp thì xuất trình bản chính giấy tờ quy định tại Điểm b Khoản 2 Điều này để đối chiếu.
+
+Trường hợp người đề nghị đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân gửi hồ sơ qua đường bưu điện đến Sở Tư pháp khi có yêu cầu thì xuất trình bản chính giấy tờ quy định tại Điểm b Khoản 2 Điều này.
+
+3. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp quyết định ghi tên người đề nghị đăng ký vào danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản và thông báo bằng văn bản cho người đó; trong trường hợp từ chối thì phải thông báo lý do bằng văn bản. Người bị từ chối có quyền khiếu nại, khởi kiện theo quy định của pháp luật.
+
+Trong thời hạn 03 ngày làm việc, kể từ ngày quyết định ghi tên người đề nghị đăng ký vào danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản, Sở Tư pháp gửi danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản cho Bộ Tư pháp.
+
+Văn bản ghi tên vào danh sách Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản là căn cứ chứng minh tư cách hành nghề quản lý, thanh lý tài sản của Quản tài viên hành nghề với tư cách cá nhân.
+
+4. Người đề nghị đăng ký được hành nghề quản lý, thanh lý tài sản kể từ ngày được Sở Tư pháp quyết định ghi tên vào danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản. Quản tài viên hành nghề quản lý, thanh lý tài sản trên toàn lãnh thổ Việt Nam.
+
+Trường hợp Quản tài viên hành nghề với tư cách cá nhân chấm dứt việc hành nghề quản lý, thanh lý tài sản thì phải gửi văn bản thông báo cho Sở Tư pháp. Sở Tư pháp quyết định xóa tên Quản tài viên đó khỏi danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản và báo cáo Bộ Tư pháp.
+
+5. Những người sau đây không được đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân:
+
+a) Không đủ điều kiện quy định tại Điều 12 của Luật phá sản;
+
+b) Thuộc một trong các trường hợp quy định tại Điều 14 của Luật Phá sản;
+
+c) Người đang bị cấm hành nghề quản lý, thanh lý tài sản theo bản án hay quyết định của Tòa án đã có hiệu lực.
+
+6. Luật sư, kiểm toán viên được đồng thời hành nghề quản lý, thanh lý tài sản theo quy định của pháp luật về phá sản.
+
+Bieu mau TP-QTV-04_Giay de nghi dang ky hanh nghe quan ly-thanh ly tai san voi tu cach ca nhan dinh kem theo.doc
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.LQ.14. Cá nhân không được hành nghề quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.12. Đăng ký hành nghề quản lý, thanh lý tài sản đối với doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.14. Lập, công bố danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220001400
+1. Sở Tư pháp lập và công bố danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản tại địa phương mình theo mẫu TP-QTV-06 ban hành kèm theo Nghị định này. Danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản được đăng tải trên Cổng thông tin điện tử của Sở Tư pháp và gửi báo cáo Bộ Tư pháp.
 
-**ID:** dk_00060551
+2. Bộ Tư pháp lập và công bố danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản trên phạm vi toàn quốc theo mẫu TP-QTV-07 ban hành kèm theo Nghị định này. Danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản được đăng tải trên Cổng thông tin điện tử của Bộ Tư pháp.
 
----
+Bieu mau TP-QTV-06_(So Tu phap) Danh sach Quan tai vien_doanh nghiep hanh nghe quan ly thanh ly tai san dinh kem theo.doc
 
+Bieu mau TP-QTV-07_(Bo Tu phap) Danh sach Quan tai vien_doanh nghiep hanh nghe quan ly thanh ly tai san dinh kem theo.doc
 
-### Điều 37.2.NĐ.2.15. Thay đổi thông tin đăng ký hành nghề của Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.15. Thay đổi thông tin đăng ký hành nghề của Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220001500
+1. Khi có thay đổi về địa chỉ giao dịch trong hồ sơ đăng ký hành nghề quản lý, thanh lý tài sản thì trong thời hạn 07 ngày, kể từ ngày thay đổi, Quản tài viên hành nghề với tư cách cá nhân gửi văn bản đề nghị điều chỉnh thông tin đăng ký hành nghề quản lý, thanh lý tài sản qua đường bưu điện hoặc trực tiếp đến Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi Quản tài viên đăng ký hành nghề.
 
-**ID:** dk_00060552
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Quản tài viên, Sở Tư pháp thay đổi thông tin về địa chỉ giao dịch của Quản tài viên trong danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản.
 
----
+2. Khi có thay đổi tên, địa chỉ trụ sở, văn phòng đại diện, chi nhánh, người đại diện theo pháp luật, danh sách Quản tài viên hành nghề trong doanh nghiệp quản lý, thanh lý tài sản thì trong thời hạn 07 ngày làm việc, kể từ ngày được bổ sung vào hồ sơ đăng ký doanh nghiệp theo quy định của pháp luật về doanh nghiệp, doanh nghiệp quản lý, thanh lý tài sản gửi văn bản đề nghị điều chỉnh thông tin đăng ký hành nghề quản lý, thanh lý tài sản qua đường bưu điện hoặc trực tiếp đến Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi doanh nghiệp đăng ký hành nghề.
 
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản của doanh nghiệp, Sở Tư pháp thay đổi thông tin về tên, địa chỉ trụ sở, văn phòng đại diện, chi nhánh, người đại diện theo pháp luật, danh sách Quản tài viên hành nghề trong doanh nghiệp trong danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản.
 
-### Điều 37.2.NĐ.2.16. Thông báo tham gia vụ việc phá sản của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+Trong trường hợp doanh nghiệp quản lý, thanh lý tài sản bổ sung Quản tài viên hành nghề trong doanh nghiệp thì doanh nghiệp phải đăng ký hành nghề cho người được bổ sung. Trình tự, thủ tục đăng ký cho những người được bổ sung vào danh sách Quản tài viên hành nghề trong doanh nghiệp được thực hiện theo quy định tại Khoản 2, Khoản 3 Điều 12 của Nghị định này.
+
+3. Trong thời hạn 03 ngày làm việc, kể từ ngày thay đổi thông tin đăng ký hành nghề quy định tại Khoản 1 và Khoản 2 Điều này, Sở Tư pháp gửi báo cáo Bộ Tư pháp về việc thay đổi đó.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.12. Đăng ký hành nghề quản lý, thanh lý tài sản đối với doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.16. Thông báo tham gia vụ việc phá sản của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220001600
+1. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản chỉ định của Thẩm phán tiến hành thủ tục phá sản, Quản tài viên hành nghề với tư cách cá nhân gửi văn bản thông báo tham gia vụ việc phá sản cho Thẩm phán, trong đó ghi rõ tên, số, ngày cấp chứng chỉ hành nghề Quản tài viên; trong trường hợp từ chối tham gia vụ việc phá sản thì Quản tài viên phải thông báo bằng văn bản.
 
-**ID:** dk_00060553
+2. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản chỉ định của Thẩm phán tiến hành thủ tục phá sản, doanh nghiệp quản lý, thanh lý tài sản gửi văn bản cử Quản tài viên hành nghề trong doanh nghiệp của mình đại diện cho doanh nghiệp tham gia vụ việc phá sản cho Thẩm phán, trong đó ghi rõ tên, số, ngày cấp chứng chỉ hành nghề Quản tài viên của Quản tài viên hoặc các Quản tài viên được cử; trong trường hợp từ chối tham gia vụ việc phá sản thì doanh nghiệp phải thông báo bằng văn bản.
 
----
+3. Trong trường hợp Quản tài viên được doanh nghiệp quản lý, thanh lý tài sản cử theo quy định tại Khoản 2 Điều này bị tạm đình chỉ hành nghề quản lý, thanh lý tài sản theo quy định tại Điều 20 của Nghị định này thì trong thời hạn 03 ngày làm việc, kể từ ngày Quản tài viên được cử bị tạm đình chỉ hành nghề, doanh nghiệp quản lý, thanh lý tài sản cử Quản tài viên khác hành nghề trong doanh nghiệp thay thế.
 
+Trường hợp doanh nghiệp quản lý, thanh lý tài sản không thể cử Quản tài viên hành nghề trong doanh nghiệp thay thế thì thông báo bằng văn bản cho Thẩm phán tiến hành thủ tục phá sản để chỉ định Quản tài viên khác hoặc doanh nghiệp quản lý, thanh lý tài sản khác.
 
-### Điều 37.2.NĐ.2.17. Trách nhiệm báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đối với Chấp hành viên; đề xuất thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.13. Nghĩa vụ của doanh nghiệp quản lý, thanh lý tài sản trong hoạt động hành nghề; Điều 37.2.NĐ.2.20. Tạm đình chỉ hành nghề đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.17. Trách nhiệm báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đối với Chấp hành viên; đề xuất thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220001700
+1. Khi tổ chức việc định giá tài sản theo quy định tại Điều 122 của Luật Phá sản, bán tài sản theo quy định tại Điều 124 của Luật Phá sản, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản báo cáo Chấp hành viên trong các trường hợp sau đây:
 
-**ID:** dk_00060554
+a) Việc lựa chọn tổ chức thẩm định giá, tổ chức bán đấu giá tài sản để ký hợp đồng định giá tài sản, ký hợp đồng bán đấu giá tài sản;
 
----
+b) Việc thay đổi tổ chức thẩm định giá, tổ chức bán đấu giá tài sản;
 
+c) Không lựa chọn được tổ chức thẩm định giá, tổ chức bán đấu giá tài sản;
 
-### Điều 37.2.NĐ.2.19. Các trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải từ chối thực hiện hoạt động quản lý, thanh lý tài sản
+d) Bán đấu giá tài sản không thành.
+
+Hình thức báo cáo thực hiện theo quy định tại Khoản 2 Điều 49 của Luật Phá sản.
+
+2. Khi nhận được báo cáo việc lựa chọn, thay đổi tổ chức thẩm định giá của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản quy định tại Điểm a, Điểm b Khoản 1 Điều này, nếu phát hiện Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có hành vi vi phạm quy định của pháp luật về phá sản, pháp luật về định giá tài sản dẫn đến sai lệch kết quả định giá tài sản, Chấp hành viên yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thực hiện việc định giá lại tài sản, trừ trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đó bị thay đổi theo quy định tại Khoản 1 và Khoản 2 Điều 18 của Nghị định này.
+
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản theo quy định tại Điểm c Khoản 1 Điều này, Chấp hành viên quyết định việc lựa chọn tổ chức thẩm định giá, tổ chức bán đấu giá tài sản.
+
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản theo quy định tại Điểm d Khoản 1 Điều này, Chấp hành viên quyết định việc thanh lý tài sản.
+
+3. Trong trường hợp Chấp hành viên phát hiện Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có hành vi vi phạm quyền, nghĩa vụ theo quy định của pháp luật về phá sản, Quy tắc đạo đức nghề nghiệp Quản tài viên thì Chấp hành viên đề xuất Thẩm phán thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.LQ.49. Giám sát hoạt động của doanh nghiệp, hợp tác xã sau khi có quyết định mở thủ tục phá sản; Điều 37.2.LQ.122. Định giá tài sản; Điều 37.2.LQ.124. Bán tài sản; Điều 4.1.LQ.4. Tài sản đấu giá; Điều 4.1.LQ.52. Đấu giá không thành; Điều 4.1.LQ.56. Lựa chọn tổ chức đấu giá tài sản; Điều 37.2.NĐ.2.18. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.19. Các trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải từ chối thực hiện hoạt động quản lý, thanh lý tài sản
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220001900
+Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải từ chối thực hiện hoạt động quản lý, thanh lý tài sản trong các trường hợp sau đây:
 
-**ID:** dk_00060555
+1. Là người có liên quan với doanh nghiệp, hợp tác xã mất khả năng thanh toán theo quy định của pháp luật về doanh nghiệp.
 
----
+2. Khi có căn cứ cho rằng Thẩm phán tiến hành thủ tục phá sản, cơ quan thi hành án dân sự có yêu cầu trái với quy định của pháp luật, nguyên tắc hành nghề quản lý, thanh lý tài sản hoặc không phù hợp với Quy tắc đạo đức nghề nghiệp Quản tài viên.
 
+3. Trường hợp khác theo quy định của pháp luật.
 
-### Điều 37.2.NĐ.2.20. Tạm đình chỉ hành nghề đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.20. Tạm đình chỉ hành nghề đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220002000
+1. Quản tài viên bị tạm đình chỉ hành nghề nếu thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00060556
+a) Đang bị truy cứu trách nhiệm hình sự;
 
----
+b) Đang bị áp dụng biện pháp xử lý hành chính;
 
+c) Quản tài viên là luật sư bị tước quyền sử dụng chứng chỉ hành nghề luật sư theo quy định của pháp luật về xử lý vi phạm hành chính trong lĩnh vực tư pháp hoặc bị xử lý kỷ luật bằng hình thức tạm đình chỉ tư cách thành viên Đoàn luật sư theo quy định của pháp luật về luật sư;
 
-### Điều 37.2.NĐ.2.22. Trách nhiệm của Bộ Tư pháp
+d) Quản tài viên là kiểm toán viên hành nghề bị tước quyền sử dụng Giấy chứng nhận đăng ký hành nghề kiểm toán, bị đình chỉ hành nghề kiểm toán theo quy định của pháp luật về xử lý vi phạm hành chính trong lĩnh vực kiểm toán độc lập; quản tài viên là kiểm toán viên bị tước quyền sử dụng chứng chỉ kiểm toán viên theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+2. Doanh nghiệp quản lý, thanh lý tài sản bị tạm đình chỉ hành nghề quản lý, thanh lý tài sản trong các trường hợp sau đây:
 
-**Chỉ mục:** 22
+a) Công ty hợp danh thay đổi thành viên hợp danh mà không bảo đảm điều kiện quy định tại Điểm a Khoản 2 Điều 13 của Luật Phá sản; doanh nghiệp tư nhân thay đổi chủ doanh nghiệp mà không đảm bảo điều kiện quy định tại Điểm b Khoản 2 Điều 13 của Luật Phá sản;
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220002200
+b) Thành viên hợp danh của công ty hợp danh bị tạm đình chỉ hành nghề quản lý, thanh lý tài sản quy định tại Khoản 1 Điều này dẫn đến công ty hợp danh không bảo đảm điều kiện quy định tại Điểm a Khoản 2 Điều 13 của Luật Phá sản; chủ doanh nghiệp tư nhân bị tạm đình chỉ hành nghề quản lý, thanh lý tài sản quy định tại Khoản 1 Điều này dẫn đến doanh nghiệp tư nhân không bảo đảm điều kiện quy định tại Điểm b Khoản 2 Điều 13 của Luật Phá sản.
 
-**ID:** dk_00060557
+3. Thời gian tạm đình chỉ hành nghề quản lý, thanh lý tài sản đối với trường hợp quy định tại Điểm a, Điểm b Khoản 1 và Khoản 2 Điều này tối đa là 12 tháng. Trong trường hợp thời gian tạm đình chỉ nêu trên đã hết mà lý do tạm đình chỉ hành nghề quản lý, thanh lý tài sản vẫn còn thì thời gian tạm đình chỉ tiếp tục được kéo dài, mỗi lần không quá 12 tháng.
 
----
+Thời gian tạm đình chỉ hành nghề quản lý, thanh lý tài sản đối với trường hợp quy định tại Điểm c Khoản 1 Điều này thực hiện theo quyết định xử phạt vi phạm hành chính của cơ quan có thẩm quyền hoặc quyết định xử lý kỷ luật của Ban chủ nhiệm Đoàn luật sư.
 
+Thời gian tạm đình chỉ hành nghề quản lý, thanh lý tài sản đối với trường hợp quy định tại Điểm đ Khoản 1 Điều này thực hiện theo quyết định xử phạt vi phạm hành chính của cơ quan có thẩm quyền.
 
-### Điều 37.2.NĐ.2.23. Trách nhiệm của các Bộ, cơ quan ngang Bộ
+4. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được hủy bỏ quyết định tạm đình chỉ hành nghề quản lý, thanh lý tài sản trước thời hạn trong các trường hợp sau đây:
+
+a) Có quyết định đình chỉ điều tra, đình chỉ vụ án hoặc bản án đã có hiệu lực của Tòa án tuyên không có tội đối với Quản tài viên quy định tại Điểm a Khoản 1 Điều này;
+
+b) Quản tài viên không còn bị áp dụng biện pháp xử lý hành chính theo quy định của pháp luật về xử lý vi phạm hành chính quy định tại Điểm b Khoản 1 Điều này;
+
+c) Công ty hợp danh đáp ứng điều kiện quy định tại Điểm a Khoản 2 Điều 13 của Luật Phá sản; doanh nghiệp tư nhân đáp ứng điều kiện quy định tại Điểm b Khoản 2 Điều 13 của Luật Phá sản quy định tại Khoản 2 Điều này.
+
+5. Sở Tư pháp có thẩm quyền tạm đình chỉ, gia hạn, hủy bỏ việc tạm đình chỉ hoạt động hành nghề quản lý, thanh lý tài sản đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
+
+6. Quyết định tạm đình chỉ, gia hạn và hủy bỏ việc tạm đình chỉ hành nghề quản lý, thanh lý tài sản được gửi cho Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, Tòa án nhân dân tỉnh, thành phố trực thuộc Trung ương nơi Quản tài viên hành nghề với tư cách cá nhân có địa chỉ giao dịch hoặc nơi doanh nghiệp quản lý, thanh lý tài sản mà Quản tài viên bị tạm đình chỉ đang hành nghề có trụ sở, Bộ Tư pháp và công bố trên Cổng thông tin điện tử của Sở Tư pháp.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.16. Thông báo tham gia vụ việc phá sản của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.18. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
+
+Điều 37.2.NĐ.2.22. Trách nhiệm của Bộ Tư pháp
+
+(Điều 22 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
+
+Bộ Tư pháp là cơ quan giúp Chính phủ thực hiện thống nhất quản lý nhà nước về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hành nghề quản lý, thanh lý tài sản trong phạm vi cả nước, có nhiệm vụ, quyền hạn sau đây:
+
+1. Soạn thảo, trình cơ quan nhà nước có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy định chi tiết và hướng dẫn thi hành pháp luật về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hành nghề quản lý, thanh lý tài sản.
+
+2. Cấp, thu hồi, cấp lại chứng chỉ hành nghề Quản tài viên.
+
+3. Ban hành Quy tắc đạo đức nghề nghiệp Quản tài viên, các mẫu văn bản, giấy tờ trong lĩnh vực quản lý, thanh lý tài sản.
+
+4. Lập, công bố và quản lý danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản trong phạm vi cả nước; xây dựng cơ sở dữ liệu về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
+
+5. Kiểm tra, thanh tra về hoạt động hành nghề quản lý, thanh lý tài sản.
+
+6. Thực hiện các biện pháp hỗ trợ phát triển nghề quản lý, thanh lý tài sản.
+
+7. Hợp tác quốc tế về Quản tài viên và hành nghề quản lý, thanh lý tài sản.
+
+8. Giải quyết khiếu nại, tố cáo và xử lý vi phạm về hoạt động hành nghề quản lý, thanh lý tài sản.
+
+9. Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.23. Trách nhiệm của các Bộ, cơ quan ngang Bộ
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220002300
+1. Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Tư pháp trong công tác quản lý nhà nước về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hành nghề quản lý, thanh lý tài sản.
 
-**ID:** dk_00060558
+2. Bộ trưởng Bộ Tài chính quy định về việc thu nộp, quản lý và sử dụng lệ phí cấp, cấp lại chứng chỉ hành nghề Quản tài viên; lệ phí đăng ký hành nghề quản lý, thanh lý tài sản.
 
----
-
-
-### Điều 37.2.NĐ.2.24. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.24. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220002400
+1. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện quản lý nhà nước về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hành nghề quản lý, thanh lý tài sản tại địa phương, có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00060559
+a) Tổ chức đăng ký hành nghề quản lý, thanh lý tài sản và quản lý Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản tại địa phương;
 
----
+b) Kiểm tra, thanh tra và xử lý vi phạm đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hoạt động hành nghề quản lý, thanh lý tài sản trong phạm vi địa phương theo thẩm quyền;
 
+c) Giải quyết khiếu nại, tố cáo về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hoạt động hành nghề quản lý, thanh lý tài sản theo thẩm quyền;
 
-### Điều 37.2.NĐ.2.25. Xử lý vi phạm đối với các hành vi xâm phạm quyền, lợi ích hợp pháp của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+d) Hàng năm báo cáo Bộ Tư pháp về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hoạt động hành nghề quản lý, thanh lý tài sản tại địa phương;
+
+đ) Thực hiện các biện pháp hỗ trợ phát triển nghề quản lý, thanh lý tài sản tại địa phương;
+
+e) Các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+2. Sở Tư pháp giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện chức năng quản lý nhà nước về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hoạt động hành nghề quản lý, thanh lý tài sản tại địa phương, có nhiệm vụ, quyền hạn sau đây:
+
+a) Đăng ký hành nghề, công bố danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản tại địa phương;
+
+b) Tạm đình chỉ, gia hạn, hủy bỏ việc tạm đình chỉ hành nghề quản lý, thanh lý tài sản đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; xóa tên Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản khỏi danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản;
+
+c) Rà soát, thống kê và báo cáo số liệu về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, hoạt động hành nghề quản lý, thanh lý tài sản tại địa phương; rà soát, phát hiện các trường hợp thuộc diện thu hồi chứng chỉ hành nghề Quản tài viên tại địa phương và đề nghị Bộ trưởng Bộ Tư pháp thu hồi chứng chỉ hành nghề Quản tài viên theo quy định;
+
+d) Kiểm tra, thanh tra và xử lý vi phạm đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hoạt động hành nghề quản lý, thanh lý tài sản trong phạm vi địa phương theo thẩm quyền;
+
+đ) Giải quyết khiếu nại, tố cáo về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hoạt động hành nghề quản lý, thanh lý tài sản theo thẩm quyền;
+
+e) Báo cáo Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Bộ Tư pháp về Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và hoạt động hành nghề quản lý, thanh lý tài sản tại địa phương định kỳ hàng năm và theo yêu cầu của cơ quan có thẩm quyền;
+
+g) Các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.25. Xử lý vi phạm đối với các hành vi xâm phạm quyền, lợi ích hợp pháp của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220002500
+Người có hành vi xâm phạm quyền, lợi ích hợp pháp của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản hoặc cản trở Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản hành nghề thì tùy theo tính chất, mức độ vi phạm bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**ID:** dk_00060560
-
----
-
-
-### Điều 37.2.NĐ.2.26. Xử lý vi phạm đối với cá nhân, tổ chức hành nghề quản lý, thanh lý tài sản bất hợp pháp
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.26. Xử lý vi phạm đối với cá nhân, tổ chức hành nghề quản lý, thanh lý tài sản bất hợp pháp
 
-**Chỉ mục:** 26
+(Điều 26 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000120000000000000000000402536900220002600
+1. Cá nhân không đủ điều kiện hành nghề quản lý, thanh lý tài sản mà hành nghề quản lý, thanh lý tài sản dưới bất kỳ hình thức nào thì bị buộc phải chấm dứt hành vi vi phạm, bị phạt tiền theo quy định của pháp luật về xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**ID:** dk_00060561
+2. Tổ chức không đủ điều kiện hành nghề quản lý, thanh lý tài sản mà hành nghề quản lý, thanh lý tài sản dưới bất kỳ hình thức nào thì bị buộc phải chấm dứt hành vi vi phạm, bị xử lý theo quy định của pháp luật về xử lý vi phạm hành chính; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
----
-
-
-### Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001300000000000000000
+1. Các loại doanh nghiệp sau đây được hành nghề quản lý, thanh lý tài sản trong quá trình giải quyết phá sản:
 
-**ID:** dk_00060562
+a) Công ty hợp danh;
 
----
+b) Doanh nghiệp tư nhân.
 
+2. Điều kiện để doanh nghiệp hành nghề quản lý, thanh lý tài sản:
 
-### Điều 37.2.NĐ.2.10. Doanh nghiệp quản lý, thanh lý tài sản
+a) Công ty hợp danh có tối thiểu hai thành viên hợp danh là Quản tài viên, Tổng giám đốc hoặc Giám đốc của công ty hợp danh là Quản tài viên;
+
+b) Doanh nghiệp tư nhân có chủ doanh nghiệp là Quản tài viên, đồng thời là Giám đốc.
+
+3. Chính phủ quy định chi tiết việc hành nghề quản lý, thanh lý tài sản và việc quản lý nhà nước đối với doanh nghiệp quản lý, thanh lý tài sản.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.10. Từ chối hoặc thay đổi Thẩm phán trong quá trình giải quyết phá sản; Điều 37.2.LQ.11. Cá nhân, doanh nghiệp hành nghề quản lý, thanh lý tài sản; Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên; Điều 37.2.NĐ.2.12. Đăng ký hành nghề quản lý, thanh lý tài sản đối với doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.14. Lập, công bố danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.15. Thay đổi thông tin đăng ký hành nghề của Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.16. Thông báo tham gia vụ việc phá sản của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.17. Trách nhiệm báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đối với Chấp hành viên; đề xuất thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.19. Các trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải từ chối thực hiện hoạt động quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.20. Tạm đình chỉ hành nghề đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.22. Trách nhiệm của Bộ Tư pháp; Điều 37.2.NĐ.2.23. Trách nhiệm của các Bộ, cơ quan ngang Bộ; Điều 37.2.NĐ.2.24. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Điều 37.2.NĐ.2.25. Xử lý vi phạm đối với các hành vi xâm phạm quyền, lợi ích hợp pháp của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.26. Xử lý vi phạm đối với cá nhân, tổ chức hành nghề quản lý, thanh lý tài sản bất hợp pháp; Điều 37.2.NĐ.2.27. Khiếu nại, tố cáo)
 
 Điều 37.2.NĐ.2.10. Doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000130000000000000000000402536900220001000
+1. Doanh nghiệp quản lý, thanh lý tài sản được thành lập và hoạt động theo hình thức quy định tại Khoản 1 Điều 13 của Luật Phá sản. Việc thành lập, tổ chức, quản lý và hoạt động của doanh nghiệp quản lý, thanh lý tài sản tuân theo quy định của pháp luật về doanh nghiệp và pháp luật về phá sản.
 
-**ID:** dk_00060563
+2. Chi nhánh, văn phòng đại diện của doanh nghiệp quản lý, thanh lý tài sản được thành lập và hoạt động theo quy định của pháp luật về doanh nghiệp.
 
----
+Doanh nghiệp quản lý, thanh lý tài sản cử ít nhất 01 Quản tài viên hành nghề trong doanh nghiệp mình hành nghề tại chi nhánh.
 
+Văn phòng đại diện của doanh nghiệp quản lý, thanh lý tài sản không được hành nghề quản lý, thanh lý tài sản.
 
-### Điều 37.2.NĐ.2.11. Thành viên hợp danh của công ty hợp danh, chủ doanh nghiệp tư nhân quản lý, thanh lý tài sản
+Trong thời hạn 07 ngày làm việc, kể từ ngày được cấp Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, doanh nghiệp quản lý, thanh lý tài sản gửi văn bản thông báo cho Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi doanh nghiệp có trụ sở chính; trong trường hợp doanh nghiệp thành lập chi nhánh, văn phòng đại diện tại tỉnh, thành phố trực thuộc Trung ương khác với nơi doanh nghiệp đặt trụ sở chính thì doanh nghiệp gửi văn bản thông báo cho Sở Tư pháp nơi chi nhánh, văn phòng đại diện đó có trụ sở.
+
+3. Sở Tư pháp lập danh sách chi nhánh, văn phòng đại diện của doanh nghiệp quản lý, thanh lý tài sản tại địa phương, công bố trên Cổng thông tin điện tử của Sở Tư pháp và gửi báo cáo Bộ Tư pháp.
 
 Điều 37.2.NĐ.2.11. Thành viên hợp danh của công ty hợp danh, chủ doanh nghiệp tư nhân quản lý, thanh lý tài sản
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000130000000000000000000402536900220001100
+1. Thành viên hợp danh của công ty hợp danh quản lý, thanh lý tài sản là Quản tài viên không được đồng thời làm chủ doanh nghiệp tư nhân hoặc thành viên hợp danh của công ty hợp danh hành nghề quản lý, thanh lý tài sản khác để hành nghề quản lý, thanh lý tài sản, trừ trường hợp được sự nhất trí của các thành viên hợp danh còn lại.
 
-**ID:** dk_00060564
+2. Khi thay đổi thành viên hợp danh của công ty hợp danh quy định tại Điểm a Khoản 2 Điều 13 của Luật Phá sản hoặc thay đổi chủ doanh nghiệp tư nhân quy định tại Điểm b Khoản 2 Điều 13 của Luật Phá sản thì chậm nhất là 10 ngày sau khi thực hiện việc thay đổi, công ty hợp danh, doanh nghiệp tư nhân phải đăng ký hành nghề quản lý, thanh lý tài sản cho thành viên hợp danh mới hoặc chủ doanh nghiệp tư nhân mới. Trình tự, thủ tục đăng ký được thực hiện theo quy định tại Khoản 2, Khoản 3 Điều 12 của Nghị định này. Thành viên hợp danh mới của công ty hợp danh, chủ doanh nghiệp tư nhân mới phải tuân theo quy định tại Khoản 1 Điều này.
 
----
-
-
-### Điều 37.2.NĐ.2.12. Đăng ký hành nghề quản lý, thanh lý tài sản đối với doanh nghiệp quản lý, thanh lý tài sản
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.12. Đăng ký hành nghề quản lý, thanh lý tài sản đối với doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.12. Đăng ký hành nghề quản lý, thanh lý tài sản đối với doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000130000000000000000000402536900220001200
+1. Doanh nghiệp quản lý, thanh lý tài sản có đủ điều kiện quy định tại Khoản 2 Điều 13 của Luật Phá sản sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp đăng ký hành nghề quản lý, thanh lý tài sản với Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi doanh nghiệp có trụ sở.
 
-**ID:** dk_00060565
+Doanh nghiệp quản lý, thanh lý tài sản đăng ký hành nghề quản lý, thanh lý tài sản cho các Quản tài viên hành nghề trong doanh nghiệp của mình. Người thuộc trường hợp quy định tại Khoản 5 Điều 9 của Nghị định này thì không được đăng ký hành nghề quản lý, thanh lý tài sản trong doanh nghiệp quản lý, thanh lý tài sản.
 
----
+2. Doanh nghiệp quản lý, thanh lý tài sản gửi 01 bộ hồ sơ đề nghị đăng ký hành nghề quản lý, thanh lý tài sản qua đường bưu điện hoặc trực tiếp đến Sở Tư pháp và nộp lệ phí đăng ký hành nghề theo quy định của pháp luật. Hồ sơ gồm:
 
+a) Giấy đề nghị đăng ký hành nghề quản lý, thanh lý tài sản theo mẫu TP-QTV-05 ban hành kèm theo Nghị định này;
 
-### Điều 37.2.NĐ.2.13. Nghĩa vụ của doanh nghiệp quản lý, thanh lý tài sản trong hoạt động hành nghề
+b) Bản chụp Giấy chứng nhận đăng ký doanh nghiệp;
+
+c) Bản chụp chứng chỉ hành nghề Quản tài viên của thành viên hợp danh, Tổng giám đốc hoặc Giám đốc của công ty hợp danh quy định tại Điểm a Khoản 2 Điều 13 của Luật Phá sản; bản chụp chứng chỉ hành nghề Quản tài viên của những người khác hành nghề quản lý, thanh lý tài sản trong công ty hợp danh (nếu có); bản chụp chứng chỉ hành nghề Quản tài viên của chủ doanh nghiệp tư nhân quy định tại Điểm b Khoản 2 Điều 13 của Luật Phá sản; bản chụp chứng chỉ hành nghề Quản tài viên của những người khác hành nghề quản lý, thanh lý tài sản trong doanh nghiệp tư nhân (nếu có).
+
+Trong trường hợp cần thiết, Sở Tư pháp yêu cầu doanh nghiệp đề nghị đăng ký hành nghề quản lý, thanh lý tài sản nộp Phiếu lý lịch tư pháp của những người quy định tại Điểm c Khoản 2 Điều này.
+
+Trường hợp doanh nghiệp nộp hồ sơ đề nghị đăng ký hành nghề quản lý, thanh lý tài sản trực tiếp tại Sở Tư pháp thì xuất trình bản chính giấy tờ quy định tại Điểm b, Điểm c Khoản 2 Điều này để đối chiếu.
+
+Trường hợp doanh nghiệp gửi hồ sơ đề nghị đăng ký hành nghề quản lý, thanh lý tài sản qua đường bưu điện đến Sở Tư pháp khi có yêu cầu thì phải xuất trình bản chính giấy tờ quy định tại Điểm b, Điểm c Khoản 2 Điều này.
+
+3. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp quyết định ghi tên doanh nghiệp vào danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản và thông báo bằng văn bản cho doanh nghiệp đó; trong trường hợp từ chối phải thông báo lý do bằng văn bản. Doanh nghiệp bị từ chối có quyền khiếu nại, khởi kiện theo quy định của pháp luật.
+
+Trong thời hạn 03 ngày làm việc, kể từ ngày quyết định ghi tên doanh nghiệp vào danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản, Sở Tư pháp gửi danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản cho Bộ Tư pháp.
+
+4. Doanh nghiệp quản lý, thanh lý tài sản được hành nghề quản lý, thanh lý tài sản kể từ ngày được Sở Tư pháp quyết định ghi tên vào danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản. Trường hợp doanh nghiệp quản lý, thanh lý tài sản chấm dứt hoạt động, chấm dứt hành nghề quản lý, thanh lý tài sản thì phải gửi văn bản thông báo cho Sở Tư pháp. Sở Tư pháp quyết định xóa tên doanh nghiệp đó khỏi danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản và báo cáo Bộ Tư pháp.
+
+Bieu mau TP-QTV-05_Giay de nghi dang ky hanh nghe quan ly-thanh ly tai san dinh kem theo.doc
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.9. Đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân; Điều 37.2.NĐ.2.11. Thành viên hợp danh của công ty hợp danh, chủ doanh nghiệp tư nhân quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.15. Thay đổi thông tin đăng ký hành nghề của Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.13. Nghĩa vụ của doanh nghiệp quản lý, thanh lý tài sản trong hoạt động hành nghề
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000130000000000000000000402536900220001300
+1. Quản lý Quản tài viên hành nghề trong doanh nghiệp.
 
-**ID:** dk_00060566
+2. Chịu trách nhiệm trước pháp luật đối với hoạt động nghề nghiệp do Quản tài viên mà doanh nghiệp cử quy định tại Khoản 2, Khoản 3 Điều 16 của Nghị định này.
 
----
+3. Người đại diện theo pháp luật của doanh nghiệp quản lý, thanh lý tài sản có trách nhiệm xem xét, ký các văn bản do Quản tài viên hành nghề trong doanh nghiệp mình thực hiện.
 
+4. Mua bảo hiểm trách nhiệm nghề nghiệp cho các Quản tài viên hành nghề trong doanh nghiệp theo quy định của pháp luật.
 
-### Điều 37.2.LQ.14. Cá nhân không được hành nghề quản lý, thanh lý tài sản
+5. Báo cáo Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi đăng ký hành nghề về hoạt động hành nghề quản lý, thanh lý tài sản theo hướng dẫn của Bộ Tư pháp.
+
+6. Các nghĩa vụ khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.16. Quyền, nghĩa vụ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.16. Thông báo tham gia vụ việc phá sản của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.14. Cá nhân không được hành nghề quản lý, thanh lý tài sản
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001400000000000000000
+1. Cán bộ, công chức, viên chức; sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sĩ quan, hạ sĩ quan chuyên nghiệp trong cơ quan, đơn vị thuộc Công an nhân dân.
 
-**ID:** dk_00060567
+2. Người đang bị truy cứu trách nhiệm hình sự; người đã bị kết án nhưng chưa được xóa án tích; người đang bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.
 
----
+3. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự.
 
-
-### Điều 37.2.LQ.15. Thu hồi chứng chỉ hành nghề Quản tài viên
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.4. Cấp chứng chỉ hành nghề Quản tài viên; Điều 37.2.NĐ.2.9. Đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân)
 
 Điều 37.2.LQ.15. Thu hồi chứng chỉ hành nghề Quản tài viên
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001500000000000000000
+1. Người đã được cấp chứng chỉ hành nghề Quản tài viên mà thuộc một trong các trường hợp sau đây thì bị thu hồi chứng chỉ hành nghề Quản tài viên:
 
-**ID:** dk_00060568
+a) Là cán bộ, công chức, viên chức; sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sĩ quan, hạ sĩ quan chuyên nghiệp trong cơ quan, đơn vị thuộc Công an nhân dân;
 
----
+b) Bị kết án và bản án đã có hiệu lực pháp luật;
 
+c) Bị thu hồi chứng chỉ hành nghề luật sư, kiểm toán viên;
 
-### Điều 37.2.NĐ.2.6. Thu hồi chứng chỉ hành nghề Quản tài viên
+d) Bị thay đổi theo quy định tại điểm a và điểm b khoản 1 Điều 46 của Luật này trong hai vụ việc phá sản trở lên.
+
+2. Chính phủ quy định chi tiết việc thu hồi chứng chỉ hành nghề Quản tài viên.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.46. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.6. Thu hồi chứng chỉ hành nghề Quản tài viên
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000150000000000000000000402536900220000600
+1. Bộ trưởng Bộ Tư pháp quyết định thu hồi chứng chỉ hành nghề Quản tài viên nếu người đã được cấp chứng chỉ hành nghề Quản tài viên thuộc một trong các trường hợp quy định tại Khoản 1 Điều 15 của Luật Phá sản.
 
-**ID:** dk_00060569
+2. Khi phát hiện hoặc có căn cứ cho rằng người đã được cấp chứng chỉ hành nghề Quản tài viên thuộc một trong các trường hợp quy định tại Khoản 1 Điều 15 của Luật Phá sản thì cá nhân, cơ quan, tổ chức có văn bản đề nghị Bộ trưởng Bộ Tư pháp thu hồi chứng chỉ hành nghề Quản tài viên của người đó.
 
----
+3. Trong thời hạn 30 ngày, kể từ ngày nhận được văn bản đề nghị thu hồi chứng chỉ hành nghề Quản tài viên, Bộ trưởng Bộ Tư pháp xem xét, quyết định thu hồi chứng chỉ hành nghề Quản tài viên. Người bị thu hồi chứng chỉ hành nghề Quản tài viên có quyền khiếu nại, khởi kiện theo quy định của pháp luật.
 
+Quyết định thu hồi chứng chỉ hành nghề Quản tài viên được gửi cho người bị thu hồi chứng chỉ, Tòa án nhân dân, Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi Quản tài viên hành nghề với tư cách cá nhân có địa chỉ giao dịch hoặc nơi doanh nghiệp quản lý, thanh lý tài sản mà người bị thu hồi chứng chỉ hành nghề có trụ sở và được đăng trên Cổng thông tin điện tử của Bộ Tư pháp.
 
-### Điều 37.2.LQ.16. Quyền, nghĩa vụ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+4. Quản tài viên bị thu hồi chứng chỉ hành nghề Quản tài viên thì bị xóa tên khỏi danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản.
 
 Điều 37.2.LQ.16. Quyền, nghĩa vụ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001600000000000000000
+1. Quản lý tài sản, giám sát hoạt động kinh doanh, thanh lý tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán, gồm:
 
-**ID:** dk_00060570
+a) Xác minh, thu thập, quản lý tài liệu, chứng cứ liên quan đến hoạt động của doanh nghiệp, hợp tác xã;
 
----
+b) Lập bảng kê tài sản, danh sách chủ nợ, danh sách người mắc nợ;
 
+c) Bảo quản tài sản; ngăn chặn việc bán, chuyển giao tài sản mà không được phép của Thẩm phán; ngăn chặn việc tẩu tán tài sản; tối đa hóa giá trị tài sản của doanh nghiệp, hợp tác xã khi bán, thanh lý tài sản;
 
-### Điều 37.2.LQ.17. Nhiệm vụ, quyền hạn của cơ quan thi hành án dân sự
+d) Giám sát hoạt động kinh doanh của doanh nghiệp, hợp tác xã theo quy định của pháp luật;
+
+đ) Được thuê cá nhân, tổ chức thực hiện công việc theo quy định của pháp luật;
+
+e) Đề xuất với Thẩm phán về việc bán tài sản của doanh nghiệp, hợp tác xã để bảo đảm chi phí phá sản;
+
+g) Bán tài sản theo quyết định của Thẩm phán để bảo đảm chi phí phá sản;
+
+h) Tổ chức việc định giá, thanh lý tài sản theo quy định của Luật này; báo cáo cơ quan thi hành án dân sự, thông báo đến người tham gia thủ tục phá sản có liên quan về việc giao cho cá nhân, tổ chức thực hiện thanh lý tài sản;
+
+i) Gửi các khoản tiền thu được vào tài khoản do Tòa án nhân dân, cơ quan thi hành án dân sự có thẩm quyền mở tại ngân hàng.
+
+2. Đại diện cho doanh nghiệp, hợp tác xã trong trường hợp doanh nghiệp, hợp tác xã không có người đại diện theo pháp luật.
+
+3. Báo cáo về tình trạng tài sản, công nợ và hoạt động của doanh nghiệp, hợp tác xã, tham gia xây dựng kế hoạch phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã mất khả năng thanh toán.
+
+4. Đề nghị Thẩm phán tiến hành các công việc sau:
+
+a) Thu thập tài liệu, chứng cứ;
+
+b) Tuyên bố giao dịch vô hiệu và quyết định thu hồi tài sản của doanh nghiệp, hợp tác xã bị bán hoặc chuyển giao bất hợp pháp;
+
+c) Áp dụng biện pháp khẩn cấp tạm thời; áp dụng biện pháp xử phạt hành chính; chuyển hồ sơ sang cơ quan có thẩm quyền xử lý về hình sự theo quy định của pháp luật.
+
+5. Được hưởng thù lao và thực hiện trách nhiệm bảo hiểm nghề nghiệp theo quy định của pháp luật.
+
+6. Báo cáo việc thực hiện nhiệm vụ, quyền hạn của mình theo yêu cầu của Thẩm phán, cơ quan thi hành án dân sự; chịu trách nhiệm trước Thẩm phán, cơ quan thi hành án dân sự và pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.7. Nghĩa vụ của Quản tài viên trong hoạt động hành nghề; Điều 37.2.NĐ.2.13. Nghĩa vụ của doanh nghiệp quản lý, thanh lý tài sản trong hoạt động hành nghề; Điều 9.2.NĐ.8. Người yêu cầu đăng ký, người yêu cầu cung cấp thông tin)
 
 Điều 37.2.LQ.17. Nhiệm vụ, quyền hạn của cơ quan thi hành án dân sự
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001700000000000000000
+1. Thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời, quyết định tuyên bố giao dịch vô hiệu, quyết định tuyên bố phá sản và các quyết định khác theo quy định của Luật này.
 
-**ID:** dk_00060571
+2. Yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản tổ chức thực hiện việc định giá, thanh lý tài sản; thực hiện việc thanh lý tài sản trong trường hợp quy định tại khoản 4 Điều 121 của Luật này.
 
----
+3. Giám sát hoạt động của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản khi thực hiện thanh lý tài sản của doanh nghiệp, hợp tác xã phá sản; yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản báo cáo việc thanh lý tài sản.
 
+4. Đề xuất Tòa án nhân dân thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản trong quá trình thực hiện việc thanh lý tài sản của doanh nghiệp, hợp tác xã phá sản theo quy định tại Điều 46 của Luật này.
 
-### Điều 37.2.LQ.18. Quyền, nghĩa vụ của người tham gia thủ tục phá sản
+5. Phân chia tài sản của doanh nghiệp, hợp tác xã theo quyết định của Tòa án nhân dân.
+
+6. Quyết định kết thúc việc thi hành quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
+
+7. Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật về thi hành án dân sự.
 
 Điều 37.2.LQ.18. Quyền, nghĩa vụ của người tham gia thủ tục phá sản
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001800000000000000000
+1. Thực hiện yêu cầu của Thẩm phán, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và cơ quan thi hành án dân sự theo quy định của pháp luật về phá sản.
 
-**ID:** dk_00060572
+2. Cung cấp tài liệu, chứng cứ có liên quan đến việc giải quyết phá sản.
 
----
+3. Yêu cầu cá nhân, cơ quan, tổ chức đang lưu giữ, quản lý tài liệu, chứng cứ cung cấp tài liệu, chứng cứ liên quan đến quyền và lợi ích hợp pháp của mình để giao nộp cho Tòa án nhân dân.
 
+4. Đề nghị Thẩm phán, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản xác minh, thu thập tài liệu, chứng cứ mà tự mình không thể thực hiện được hoặc trưng cầu giám định, định giá, thẩm định giá tài sản; đề nghị Thẩm phán quyết định kiểm toán doanh nghiệp, hợp tác xã mất khả năng thanh toán; đề nghị Thẩm phán triệu tập người làm chứng.
 
-### Điều 37.2.LQ.19. Quyền, nghĩa vụ của người nộp đơn yêu cầu mở thủ tục phá sản
+5. Được biết và ghi chép, sao chụp tài liệu, chứng cứ do người tham gia thủ tục phá sản khác xuất trình hoặc do Thẩm phán thu thập.
+
+6. Đề nghị áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời.
+
+7. Nhận thông báo hợp lệ để thực hiện quyền, nghĩa vụ của mình.
+
+8. Tự bảo vệ hoặc nhờ người khác bảo vệ quyền và lợi ích hợp pháp cho mình.
+
+9. Tham gia Hội nghị chủ nợ.
+
+10. Đề nghị thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản theo quy định tại Điều 46 của Luật này.
+
+11. Đề nghị Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bổ sung chủ nợ, người mắc nợ vào danh sách chủ nợ, danh sách người mắc nợ.
+
+12. Đề xuất với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản về việc thu hồi các khoản tiền, tài sản của người mắc nợ.
+
+13. Phải có mặt theo yêu cầu của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, giấy triệu tập của Tòa án nhân dân và chấp hành các quyết định của Tòa án nhân dân trong quá trình giải quyết phá sản.
+
+14. Tham gia vào việc quản lý, thanh lý tài sản theo yêu cầu của Thẩm phán, cơ quan thi hành án dân sự, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
+
+15. Đề nghị xem xét lại quyết định của Tòa án nhân dân theo quy định của Luật này.
+
+16. Trường hợp cá nhân tham gia thủ tục phá sản chết thì người thừa kế hợp pháp của họ thực hiện quyền, nghĩa vụ theo quy định tại Điều này.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.19. Quyền, nghĩa vụ của người nộp đơn yêu cầu mở thủ tục phá sản; Điều 37.2.LQ.46. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.19. Quyền, nghĩa vụ của người nộp đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100001900000000000000000
+1. Quyền, nghĩa vụ của người tham gia thủ tục phá sản theo quy định tại Điều 18 của Luật này.
 
-**ID:** dk_00060573
+2. Đề xuất với Tòa án nhân dân tên Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản trước khi mở thủ tục phá sản.
 
----
+3. Nộp lệ phí phá sản, tạm ứng chi phí phá sản, trừ trường hợp không phải nộp lệ phí phá sản, tạm ứng chi phí phá sản.
 
+4. Việc nộp đơn yêu cầu mở thủ tục phá sản phải trung thực.
 
-### Điều 37.2.LQ.20. Quyền, nghĩa vụ của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.18. Quyền, nghĩa vụ của người tham gia thủ tục phá sản)
 
 Điều 37.2.LQ.20. Quyền, nghĩa vụ của doanh nghiệp, hợp tác xã mất khả năng thanh toán
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100002000000000000000000
+1. Quyền, nghĩa vụ của người tham gia thủ tục phá sản theo quy định tại Điều 18 của Luật này.
 
-**ID:** dk_00060574
+2. Được đưa ra ý kiến về việc chấp nhận hoặc bác bỏ một phần hoặc toàn bộ yêu cầu của người nộp đơn yêu cầu mở thủ tục phá sản.
 
----
-
-
-### Điều 37.2.LQ.21. Kiểm sát việc tuân theo pháp luật trong quá trình giải quyết phá sản
+3. Phải thông báo công khai về quyết định mở thủ tục phá sản ngay sau khi nhận được quyết định mở thủ tục phá sản.
 
 Điều 37.2.LQ.21. Kiểm sát việc tuân theo pháp luật trong quá trình giải quyết phá sản
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100002100000000000000000
+1. Viện kiểm sát nhân dân kiểm sát việc tuân theo pháp luật trong quá trình giải quyết phá sản, thực hiện các quyền yêu cầu, kiến nghị, kháng nghị theo quy định của Luật này.
 
-**ID:** dk_00060575
+2. Viện kiểm sát nhân dân tham gia các phiên họp xem xét kiến nghị, kháng nghị của Viện kiểm sát nhân dân; kiểm sát các quyết định giải quyết phá sản của Tòa án nhân dân.
 
----
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.4. Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân)
 
+Điều 37.2.LQ.22. Lệ phí phá sản
 
-### Điều 37.2.LQ.22. Lệ phí phá sản
+(Điều 22 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+Người nộp đơn yêu cầu mở thủ tục phá sản phải nộp lệ phí phá sản theo quy định của pháp luật về án phí, lệ phí Tòa án nhân dân. Trường hợp người nộp đơn quy định tại khoản 2 Điều 5 và điểm a khoản 1 Điều 105 của Luật này không phải nộp lệ phí phá sản.
 
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3700200000000000100002200000000000000000
-
-**ID:** dk_00060576
-
----
-
-
-### Điều 37.2.LQ.23. Chi phí phá sản, tạm ứng chi phí phá sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.105. Tuyên bố doanh nghiệp, hợp tác xã phá sản theo thủ tục rút gọn)
 
 Điều 37.2.LQ.23. Chi phí phá sản, tạm ứng chi phí phá sản
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100002300000000000000000
+1. Chi phí phá sản được thanh toán từ giá trị tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán.
 
-**ID:** dk_00060577
+2. Người nộp đơn yêu cầu mở thủ tục phá sản phải nộp tạm ứng chi phí phá sản, trừ trường hợp người nộp đơn quy định tại khoản 2 Điều 5 và điểm a khoản 1 Điều 105 của Luật này.
 
----
+3. Tòa án nhân dân giao cho Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bán một số tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán để bảo đảm chi phí phá sản. Việc định giá, định giá lại và bán tài sản được thực hiện theo quy định tại các điều 122, 123 và 124 của Luật này.
 
-
-### Điều 37.2.LQ.24. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+4. Tòa án nhân dân quyết định mức tạm ứng chi phí phá sản, mức chi phí phá sản trong từng trường hợp cụ thể theo quy định của pháp luật và quyết định việc hoàn trả tạm ứng chi phí phá sản, trừ trường hợp người nộp đơn yêu cầu mở thủ tục phá sản vi phạm quy định tại khoản 4 Điều 19 của Luật này.
 
 Điều 37.2.LQ.24. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100002400000000000000000
+1. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được tính dựa trên thời gian, công sức và kết quả thực hiện nhiệm vụ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
-**ID:** dk_00060578
-
----
-
-
-### Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+2. Chính phủ quy định chi tiết về chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
 Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000010000240000000000000000000402536900220002100
+1. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được thanh toán từ giá trị tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bao gồm thù lao Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản và chi phí khác.
 
-**ID:** dk_00060579
+2. Thù lao được tính dựa trên các căn cứ sau đây:
 
----
+a) Thời gian Quản tài viên sử dụng để thực hiện nhiệm vụ;
 
+b) Công sức của Quản tài viên trong việc thực hiện nhiệm vụ;
 
-### Điều 37.2.LQ.25. Việc yêu cầu, cấp, thông báo văn bản trong giải quyết phá sản
+c) Kết quả thực hiện nhiệm vụ của Quản tài viên.
+
+3. Thù lao được tính dựa trên một hoặc các phương thức sau đây:
+
+a) Giờ làm việc của Quản tài viên;
+
+b) Mức thù lao trọn gói;
+
+c) Mức thù lao tính theo tỷ lệ phần trăm tổng giá trị tài sản của doanh nghiệp, hợp tác xã bị tuyên bố phá sản thu được sau khi thanh lý.
+
+4. Mức thù lao được xác định cụ thể như sau:
+
+a) Đối với trường hợp Tòa án nhân dân ra quyết định đình chỉ tiến hành thủ tục phá sản theo quy định tại Điều 86 của Luật Phá sản thì mức thù lao do Thẩm phán tiến hành thủ tục phá sản và Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thỏa thuận trên cơ sở xem xét, áp dụng căn cứ quy định tại Khoản 2 và phương thức quy định Khoản 3 Điều này;
+
+b) Đối với trường hợp doanh nghiệp, hợp tác xã bị tuyên bố phá sản theo quy định tại Khoản 3 Điều 80, Khoản 4 Điều 83, Khoản 7 Điều 91 của Luật Phá sản thì mức thù lao được xác định như sau:
+
+ **TT**
+
+ **Tổng giá trị tài sản thu được sau khi thanh lý**
+
+ **Mức thù lao**
+
+ 1
+
+ Dưới 100 triệu đồng
+
+ 5% tổng giá trị tài sản thu được sau khi thanh lý
+
+ 2
+
+ Từ 100 triệu đồng đến 500 triệu đồng
+
+ 5 tháng lương cơ sở theo quy định của pháp luật về lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang + 4% của phần giá trị tài sản thu được sau khi thanh lý vượt quá 100 triệu đồng
+
+ 3
+
+ Từ trên 500 triệu đồng đến 1 tỷ đồng
+
+ 20 tháng lương cơ sở theo quy định của pháp luật về lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang + 3% của phần giá trị tài sản thu được sau khi thanh lý vượt quá 500 triệu đồng
+
+ 4
+
+ Từ trên 1 tỷ đồng đến 10 tỷ đồng
+
+ 36 tháng lương cơ sở theo quy định của pháp luật về lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang + 2% của phần giá trị tài sản thu được sau khi thanh lý vượt quá 1 tỷ đồng
+
+ 5
+
+ Từ trên 10 tỷ đến 50 tỷ đồng
+
+ Mức thù lao đối với tổng giá trị tài sản thu được sau khi thanh lý đến 10 tỷ đồng xác định theo mục 4 của Bảng này + 0,5% của phần giá trị tài sản thu được sau khi thanh lý vượt quá 10 tỷ đồng
+
+ 6
+
+ Từ trên 50 tỷ đồng
+
+ Mức thù lao đối với tổng giá trị tài sản thu được sau khi thanh lý đến 50 tỷ đồng xác định theo mục 5 của Bảng này + 0,3% của phần giá trị tài sản thu được sau khi thanh lý vượt quá 50 tỷ đồng.
+
+c) Đối với trường hợp doanh nghiệp, hợp tác xã bị tuyên bố phá sản theo quy định tại Điểm b hoặc Điểm c Khoản 1 Điều 95 của Luật Phá sản thì thù lao bao gồm mức thù lao được xác định theo từng trường hợp quy định tại Điểm b Khoản 4 Điều này cộng với thù lao giám sát hoạt động kinh doanh của doanh nghiệp trong quá trình doanh nghiệp, hợp tác xã mất khả năng thanh toán thực hiện phương án phục hồi kinh doanh. Thù lao giám sát hoạt động kinh doanh của doanh nghiệp do Thẩm phán và Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thỏa thuận trên cơ sở căn cứ quy định tại Khoản 2 và phương thức quy định tại Khoản 3 Điều này;
+
+d) Đối với trường hợp doanh nghiệp, hợp tác xã thuộc trường hợp thực hiện xong phương án phục hồi kinh doanh quy định tại Điểm a Khoản 1 Điều 95 của Luật Phá sản thì mức thù lao do Thẩm phán tiến hành thủ tục phá sản và Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thỏa thuận trên cơ sở căn cứ quy định tại Khoản 2 và phương thức quy định tại khoản 3 Điều này.
+
+5. Trong trường hợp Hội nghị chủ nợ và Quản tài viên hoặc doanh nghiệp quản lý, thanh lý tài sản có thỏa thuận khác về mức thù lao quy định tại Khoản 4 Điều này thì mức thù lao được áp dụng theo thỏa thuận đó.
+
+6. Trong trường hợp phá sản tổ chức tín dụng theo quy định tại Chương VIII của Luật Phá sản thì thù lao Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được xác định theo quy định tại Điểm a, Điểm b Khoản 4 Điều này.
+
+7. Chi phí khác của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bao gồm tiền tàu xe, lưu trú và các chi phí hợp lý khác cho việc thực hiện hoạt động quản lý, thanh lý tài sản. Việc thanh, quyết toán chi phí khác của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được thực hiện theo quy định của pháp luật hiện hành.
+
+8. Thẩm phán tiến hành thủ tục phá sản căn cứ vào từng vụ việc cụ thể quyết định mức tạm ứng chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản nhận chi phí tạm ứng thực hiện việc thanh, quyết toán theo quy định của pháp luật về tài chính, kế toán.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.80. Hoãn Hội nghị chủ nợ; Điều 37.2.LQ.83. Nghị quyết của Hội nghị chủ nợ; Điều 37.2.LQ.86. Đình chỉ tiến hành thủ tục phá sản; Điều 37.2.LQ.91. Nội dung và trình tự Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh; Điều 37.2.LQ.95. Đình chỉ thủ tục phục hồi hoạt động kinh doanh; Điều 37.2.LQ.104. Quyết định tuyên bố tổ chức tín dụng phá sản)
 
 Điều 37.2.LQ.25. Việc yêu cầu, cấp, thông báo văn bản trong giải quyết phá sản
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000100002500000000000000000
+Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan thi hành án dân sự, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có nghĩa vụ thực hiện việc yêu cầu, cấp, thông báo văn bản cho người tham gia thủ tục phá sản theo quy định của Luật này và pháp luật về tố tụng dân sự.
 
-**ID:** dk_00060580
+Chương II
 
----
-
-
-### Điều 37.2.LQ.26. Đơn yêu cầu mở thủ tục phá sản của chủ nợ
+ĐƠN VÀ THỤ LÝ ĐƠN YÊU CẦU MỞ THỦ TỤC PHÁ SẢN
 
 Điều 37.2.LQ.26. Đơn yêu cầu mở thủ tục phá sản của chủ nợ
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200002600000000000000000
+1. Khi yêu cầu Tòa án nhân dân mở thủ tục phá sản, chủ nợ quy định tại khoản 1 Điều 5 của Luật này phải làm đơn yêu cầu mở thủ tục phá sản.
 
-**ID:** dk_00060582
+2. Đơn yêu cầu mở thủ tục phá sản phải có các nội dung chủ yếu sau:
 
----
+a) Ngày, tháng, năm;
 
+b) Tên Tòa án nhân dân có thẩm quyền giải quyết phá sản;
 
-### Điều 37.2.LQ.27. Đơn yêu cầu mở thủ tục phá sản của người lao động, đại diện công đoàn
+c) Tên, địa chỉ của người làm đơn;
+
+d) Tên, địa chỉ của doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản;
+
+đ) Khoản nợ đến hạn.
+
+Kèm theo đơn phải có chứng cứ để chứng minh khoản nợ đến hạn.
+
+3. Trường hợp có đề xuất chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thì đơn yêu cầu mở thủ tục phá sản ghi rõ tên, địa chỉ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
+
+(Điều này có nội dung liên quan đến Điều 37.2.QĐ.1.2. Nguyên tắc làm việc của Tổ Thẩm phán)
 
 Điều 37.2.LQ.27. Đơn yêu cầu mở thủ tục phá sản của người lao động, đại diện công đoàn
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200002700000000000000000
+1. Khi yêu cầu Tòa án nhân dân mở thủ tục phá sản, người lao động, đại diện công đoàn quy định tại khoản 2 Điều 5 của Luật này phải làm đơn yêu cầu mở thủ tục phá sản.
 
-**ID:** dk_00060583
+2. Đơn yêu cầu mở thủ tục phá sản phải có các nội dung chủ yếu sau:
 
----
+a) Ngày, tháng, năm;
 
+b) Tên Tòa án nhân dân có thẩm quyền giải quyết phá sản;
 
-### Điều 37.2.LQ.28. Đơn yêu cầu mở thủ tục phá sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+c) Tên, địa chỉ của người làm đơn;
+
+d) Tên, địa chỉ của doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản;
+
+đ) Tổng số tiền lương và các khoản nợ khác đã đến hạn mà doanh nghiệp, hợp tác xã không trả cho người lao động.
+
+Kèm theo đơn phải có chứng cứ để chứng minh lương và các khoản nợ khác đến hạn.
+
+3. Trường hợp có đề xuất chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thì đơn yêu cầu mở thủ tục phá sản ghi rõ tên, địa chỉ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
+
+4. Kể từ ngày nộp đơn, người lao động, đại diện công đoàn có quyền, nghĩa vụ như chủ nợ theo quy định của Luật này.
 
 Điều 37.2.LQ.28. Đơn yêu cầu mở thủ tục phá sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200002800000000000000000
+1. Doanh nghiệp, hợp tác xã theo quy định tại khoản 3 và khoản 4 Điều 5 của Luật này phải làm đơn yêu cầu mở thủ tục phá sản.
 
-**ID:** dk_00060584
+2. Đơn yêu cầu mở thủ tục phá sản phải có các nội dung chủ yếu sau:
 
----
+a) Ngày, tháng, năm;
 
+b) Tên Tòa án nhân dân có thẩm quyền giải quyết phá sản;
 
-### Điều 37.2.LQ.29. Đơn yêu cầu mở thủ tục phá sản của cổ đông hoặc nhóm cổ đông của công ty cổ phần, thành viên hợp tác xã hoặc hợp tác xã thành viên của liên hiệp hợp tác xã
+c) Tên, địa chỉ của doanh nghiệp, hợp tác xã;
+
+d) Tên, địa chỉ của người làm đơn;
+
+đ) Căn cứ yêu cầu mở thủ tục phá sản.
+
+3. Đơn yêu cầu mở thủ tục phá sản phải kèm theo các giấy tờ, tài liệu sau:
+
+a) Báo cáo tài chính của doanh nghiệp, hợp tác xã trong 03 năm gần nhất. Trường hợp doanh nghiệp, hợp tác xã được thành lập và hoạt động chưa đủ 03 năm thì kèm theo báo cáo tài chính của doanh nghiệp, hợp tác xã trong toàn bộ thời gian hoạt động;
+
+b) Bản giải trình nguyên nhân dẫn đến tình trạng mất khả năng thanh toán; báo cáo kết quả thực hiện các biện pháp khôi phục doanh nghiệp, hợp tác xã mà vẫn không khắc phục được tình trạng mất khả năng thanh toán;
+
+c) Bảng kê chi tiết tài sản, địa điểm có tài sản của doanh nghiệp, hợp tác xã;
+
+d) Danh sách chủ nợ, danh sách người mắc nợ, trong đó phải ghi rõ tên, địa chỉ của chủ nợ, người mắc nợ, khoản nợ, khoản cho vay có bảo đảm, không có bảo đảm, có bảo đảm một phần đến hạn hoặc chưa đến hạn;
+
+đ) Giấy tờ, tài liệu liên quan đến việc thành lập doanh nghiệp, hợp tác xã;
+
+e) Kết quả thẩm định giá, định giá giá trị tài sản còn lại (nếu có).
+
+4. Trường hợp có đề xuất chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thì đơn yêu cầu mở thủ tục phá sản ghi rõ tên, địa chỉ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
+
+5. Những người theo quy định tại khoản 3 và khoản 4 Điều 5 của Luật này không nộp đơn yêu cầu mở thủ tục phá sản khi doanh nghiệp, hợp tác xã mất khả năng thanh toán thì phải chịu trách nhiệm trước pháp luật. Trường hợp có thiệt hại phát sinh sau thời điểm doanh nghiệp, hợp tác xã mất khả năng thanh toán do việc không nộp đơn yêu cầu mở thủ tục phá sản gây ra thì phải bồi thường.
+
+(Điều này có nội dung liên quan đến Điều 37.2.QĐ.1.2. Nguyên tắc làm việc của Tổ Thẩm phán)
 
 Điều 37.2.LQ.29. Đơn yêu cầu mở thủ tục phá sản của cổ đông hoặc nhóm cổ đông của công ty cổ phần, thành viên hợp tác xã hoặc hợp tác xã thành viên của liên hiệp hợp tác xã
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200002900000000000000000
+1. Khi yêu cầu Tòa án nhân dân mở thủ tục phá sản, cổ đông hoặc nhóm cổ đông của công ty cổ phần, thành viên hợp tác xã hoặc người đại diện theo pháp luật của hợp tác xã thành viên của liên hiệp hợp tác xã quy định tại khoản 5 và khoản 6 Điều 5 của Luật này phải làm đơn yêu cầu mở thủ tục phá sản.
 
-**ID:** dk_00060585
-
----
-
-
-### Điều 37.2.LQ.30. Phương thức nộp đơn yêu cầu mở thủ tục phá sản
+2. Đơn yêu cầu mở thủ tục phá sản phải có các nội dung theo quy định tại khoản 2 Điều 28 của Luật này và gửi kèm các tài liệu (nếu có) theo quy định tại khoản 3 và khoản 4 Điều 28 của Luật này.
 
 Điều 37.2.LQ.30. Phương thức nộp đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003000000000000000000
+1. Người có yêu cầu mở thủ tục phá sản phải nộp đơn và tài liệu, chứng cứ kèm theo đến Tòa án nhân dân có thẩm quyền bằng một trong các phương thức sau:
 
-**ID:** dk_00060586
+a) Nộp trực tiếp tại Tòa án nhân dân;
 
----
+b) Gửi đến Tòa án nhân dân qua bưu điện.
 
-
-### Điều 37.2.LQ.31. Phân công Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+2. Ngày nộp đơn yêu cầu mở thủ tục phá sản được tính từ ngày Tòa án nhân dân nhận đơn hoặc ngày có dấu bưu điện nơi gửi.
 
 Điều 37.2.LQ.31. Phân công Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003100000000000000000
+1. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn yêu cầu mở thủ tục phá sản, Chánh án Tòa án nhân dân phân công một Thẩm phán hoặc Tổ Thẩm phán gồm 03 Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản.
 
-**ID:** dk_00060587
+2. Chánh án Tòa án nhân dân tối cao quy định về quy chế làm việc của Tổ Thẩm phán quy định tại khoản 1 Điều này.
 
----
-
-
-### Điều 37.2.QĐ.1.2. Nguyên tắc làm việc của Tổ Thẩm phán
+(Điều này có nội dung liên quan đến Điều 37.2.TT.1.2. Thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản)
 
 Điều 37.2.QĐ.1.2. Nguyên tắc làm việc của Tổ Thẩm phán
 
-**Chỉ mục:** 2
+(Điều 2 Quyết định số 01/2005/QĐ-TANDTC, có hiệu lực thi hành kể từ ngày 04/06/2005)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802178700010000200
+1. Tổ Thẩm phán do một Thẩm phán được giao làm Tổ trưởng phụ trách.
 
-**ID:** dk_00060588
+2. Mỗi thành viên của Tổ Thẩm phán thực hiện nhiệm vụ, quyền hạn theo quy định của Luật phá sản, của Quy chế này và chịu trách nhiệm trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình.
 
----
+3. Tổ Thẩm phán phải giải quyết tập thể và quyết định theo đa số các vấn đề sau đây:
 
+a. Kiến nghị Viện kiểm sát nhân dân cùng cấp để xem xét việc khởi tố về hình sự (khoản 3 Điều 8 của Luật phá sản);
 
-### Điều 37.2.QĐ.1.3. Phân công nhiệm vụ trong Tổ Thẩm phán
+b. Quyết định chuyển việc giải quyết phá sản cho Toà án có thẩm quyền (khoản 1 Điều 26 của Luật phá sản);
+
+c. Quyết định mở hoặc không mở thủ tục phá sản (Điều 28 của Luật phá sản);
+
+d. Xác định giá trị của nghĩa vụ không phải là tiền (Điều 38 của Luật phá sản);
+
+đ. Giải quyết tranh chấp về tài sản thuê hoặc mượn khi doanh nghiệp, hợp tác xã bị áp dụng thủ tục thanh lý (Điều 40 của Luật phá sản);
+
+e. Giải quyết yêu cầu tuyên bố giao dịch vô hiệu (Điều 44 của Luật phá sản);
+
+g. Quyết định đình chỉ thực hiện hợp đồng đang có hiệu lực (Điều 45 của Luật phá sản);
+
+h. Quyết định áp dụng biện pháp khẩn cấp tạm thời (Điều 55 của Luật phá sản);
+
+i. Giải quyết vụ án bị đình chỉ trong thủ tục phá sản (Điều 58 của Luật phá sản);
+
+k. Quyết định mở thủ tục thanh lý tài sản (Điều 78, Điều 79, Điều 80 của Luật phá sản);
+
+l. Quyết định đình chỉ thủ tục thanh lý tài sản khi doanh nghiệp, hợp tác xã không còn tài sản để thực hiện phương án phân chia tài sản hoặc khi phương án phân chia tài sản đã được thực hiện xong (Điều 85 của Luật phá sản);
+
+m. Quyết định tuyên bố doanh nghiệp, hợp tác xã bị phá sản (Điều 86 và Điều 87 của Luật phá sản);
+
+n. Quyết định về các vấn đề khác trong quá trình tiến hành thủ tục phá sản theo đề nghị của thành viên Tổ Thẩm phán.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.26. Đơn yêu cầu mở thủ tục phá sản của chủ nợ; Điều 37.2.LQ.28. Đơn yêu cầu mở thủ tục phá sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán; Điều 37.2.LQ.38. Thủ tục nộp lệ phí phá sản, tạm ứng chi phí phá sản; Điều 37.2.LQ.40. Thông báo việc thụ lý đơn yêu cầu mở thủ tục phá sản; Điều 37.2.LQ.44. Giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản)
 
 Điều 37.2.QĐ.1.3. Phân công nhiệm vụ trong Tổ Thẩm phán
 
-**Chỉ mục:** 3
+(Điều 3 Quyết định số 01/2005/QĐ-TANDTC, có hiệu lực thi hành kể từ ngày 04/06/2005)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802178700010000300
+ Ngay sau khi có quyết định mở thủ tục phá sản, Tổ trưởng Tổ Thẩm phán phải tổ chức họp Tổ Thẩm phán để phân công nhiệm vụ cho từng Thẩm phán như sau:
 
-**ID:** dk_00060589
+ 1. Tổ trưởng Tổ Thẩm phán điều hành và phụ trách chung toàn bộ hoạt động của Tổ Thẩm phán, triệu tập và chủ trì các Hội nghị chủ nợ. Tổ trưởng Tổ Thẩm phán chịu trách nhiệm và báo cáo trước Chánh án về hoạt động của Tổ Thẩm phán.
 
----
+ 2. Một Thẩm phán được giao nhiệm vụ thu thập tài liệu, chứng cứ để lập hồ sơ giải quyết yêu cầu mở thủ tục phá sản.
 
+ 3. Một Thẩm phán được giao nhiệm vụ giám sát, kiểm tra hoạt động kinh doanh của doanh nghiệp, hợp tác xã trong quá trình tiến hành thủ tục phá sản; giám sát việc thanh toán các khoản nợ mới phát sinh từ hoạt động kinh doanh của doanh nghiệp, hợp tác xã và trả lương cho người lao động trong quá trình tiến hành thủ tục phá sản.Điều 37.2.QĐ.1.4. Hoạt động của Tổ Thẩm phán khi có một thành viên vắng mặt
 
-### Điều 37.2.QĐ.1.4. Hoạt động của Tổ Thẩm phán khi có một thành viên vắng mặt
+(Điều 4 Quyết định số 01/2005/QĐ-TANDTC, có hiệu lực thi hành kể từ ngày 04/06/2005)
 
-Điều 37.2.QĐ.1.4. Hoạt động của Tổ Thẩm phán khi có một thành viên vắng mặt
+ Trong trường hợp có một Thẩm phán vắng mặt, thì hai Thẩm phán còn lại vẫn có thể thảo luận và quyết định các vấn đề quy định tại khoản 3 Điều 2 của Quy chế này, nhưng quyết định chỉ có giá trị khi cả hai Thẩm phán đều thống nhất ý kiến với nhau.Điều 37.2.TT.1.2. Thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 4
+(Điều 2 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802178700010000400
+1. Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản quy định tại khoản 1 Điều 31 của Luật phá sản được thành lập ở Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Tòa án nhân dân cấp huyện), Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Tòa án nhân dân cấp tỉnh) để giải quyết đơn yêu cầu mở thủ tục phá sản.
 
-**ID:** dk_00060590
+2. Trong thời hạn giải quyết đơn yêu cầu mở thủ tục phá sản, thẩm quyền thành lập Tổ Thẩm phán được xác định như sau:
 
----
+a) Chánh án Tòa án nhân dân cấp huyện căn cứ vào tính chất của vụ việc phá sản thuộc một trong các trường hợp quy định tại khoản 2 Điều 8 của Luật phá sản quyết định thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản.
 
+b) Chánh án Tòa án nhân dân cấp tỉnh căn cứ vào tính chất của vụ việc phá sản thuộc một trong các trường hợp quy định tại các điểm a, b, c khoản 1 Điều 8 của Luật phá sản quyết định thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản.
 
-### Điều 37.2.TT.1.2. Thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+Chánh án Tòa án nhân dân cấp tỉnh phải thành lập Tổ Thẩm phán giải quyết đơn khi thuộc trường hợp quy định tại điểm d khoản 1 Điều 8 của Luật phá sản.
 
-Điều 37.2.TT.1.2. Thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+3. Chánh án hoặc Phó Chánh án được Chánh án ủy nhiệm của Tòa án nhân dân đang giải quyết vụ việc phá sản phải ban hành quyết định thành lập Tổ Thẩm phán gồm 03 Thẩm phán và giao cho một Thẩm phán làm Tổ trưởng.
 
-**Chỉ mục:** 2
+4. Việc thay đổi, bổ sung Thẩm phán để thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản được thực hiện khi thuộc một trong các trường hợp sau đây:
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010000200
+a) Trong quá trình giải quyết đơn yêu cầu mở thủ tục phá sản mà Thẩm phán không tiếp tục thực hiện được nhiệm vụ của mình vì lý do sức khỏe, nghỉ hưu, chuyển công tác, chưa được bổ nhiệm lại khi hết nhiệm kỳ, sự kiện bất khả kháng hoặc trở ngại khách quan khác hoặc thuộc trường hợp phải từ chối hoặc thay đổi quy định tại khoản 1 Điều 10 của Luật phá sản, thì việc thay đổi Thẩm phán thực hiện theo quy định tại khoản 2 Điều 10 của Luật phá sản;
 
-**ID:** dk_00060591
+b) Trường hợp Thẩm phán đang giải quyết đơn yêu cầu mở thủ tục phá sản nhận thấy vụ việc phá sản thuộc trường hợp phải thành lập Tổ Thẩm phán được hướng dẫn tại khoản 2 Điều này thì báo cáo Chánh án Tòa án nhân dân phân công bổ sung hai Thẩm phán để thành lập Tổ Thẩm phán;
 
----
+c) Trường hợp Tổ Thẩm phán đang giải quyết đơn yêu cầu mở thủ tục phá sản mà Tổ trưởng Tổ Thẩm phán nhận thấy vụ việc phá sản không thuộc trường hợp phải thành lập Tổ Thẩm phán được hướng dẫn tại khoản 2 Điều này mà chỉ cần một Thẩm phán giải quyết thì Tổ trưởng Tổ Thẩm phán báo cáo Chánh án Tòa án nhân dân để xem xét, quyết định việc phân công một Thẩm phán giải quyết thay cho Tổ Thẩm phán.
 
+5. Việc thay đổi, bổ sung Thẩm phán phải được xem xét, quyết định trong thời hạn 03 ngày làm việc kể từ ngày nhận được yêu cầu, đề nghị và phải được gửi ngay cho người tiến hành thủ tục phá sản, người tham gia thủ tục phá sản.
 
-### Điều 37.2.TT.1.3. Thành lập Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản và Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.8. Thẩm quyền giải quyết phá sản của Tòa án nhân dân; Điều 37.2.LQ.31. Phân công Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản)
 
 Điều 37.2.TT.1.3. Thành lập Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản và Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010000300
+1. Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản của Tòa án nhân dân cấp huyện được thành lập ở Tòa án nhân dân cấp tỉnh; Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản của Tòa án nhân dân cấp tỉnh được thành lập ở Tòa án nhân dân cấp cao có thẩm quyền theo lãnh thổ quy định tại khoản 3 Điều 44 của Luật phá sản.
 
-**ID:** dk_00060592
+2. Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản của Tòa án nhân dân cấp huyện được thành lập ở Tòa án nhân dân cấp tỉnh; Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản của Tòa án nhân dân cấp tỉnh được thành lập ở Tòa án nhân dân cấp cao có thẩm quyền theo lãnh thổ quy định tại khoản 1 Điều 112 của Luật phá sản.
 
----
+3. Chánh án Tòa án nhân dân có thẩm quyền quy định tại khoản 1 và khoản 2 Điều này phải ban hành quyết định thành lập Tổ thẩm phán gồm 03 Thẩm phán và giao cho một Thẩm phán làm Tổ trưởng.
 
+4. Việc thay đổi Thẩm phán để thành lập Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản; Tổ thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản được thực hiện như sau:
 
-### Điều 37.2.TT.1.4. Nhiệm vụ, quyền hạn của các Tổ Thẩm phán
+a) Trong quá trình giải quyết mà Thẩm phán không tiếp tục thực hiện được nhiệm vụ của mình vì lý do sức khỏe, nghỉ hưu, chuyển công tác, chưa được bổ nhiệm lại khi hết nhiệm kỳ, sự kiện bất khả kháng hoặc trở ngại khách quan khác hoặc thuộc trường hợp phải từ chối hoặc thay đổi quy định tại khoản 1 Điều 10 của Luật phá sản, thì việc thay đổi Thẩm phán thực hiện theo quy định tại khoản 2 Điều 10 của Luật phá sản;
+
+b) Việc quyết định thay đổi Thẩm phán phải được xem xét, quyết định trong thời hạn 03 ngày làm việc kể từ ngày nhận được yêu cầu, đề nghị và phải được gửi cho người tiến hành thủ tục phá sản, người tham gia thủ tục phá sản.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.10. Từ chối hoặc thay đổi Thẩm phán trong quá trình giải quyết phá sản; Điều 37.2.LQ.44. Giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản; Điều 37.2.LQ.112. Giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản)
 
 Điều 37.2.TT.1.4. Nhiệm vụ, quyền hạn của các Tổ Thẩm phán
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010000400
+1. Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản thực hiện nhiệm vụ, quyền hạn của Thẩm phán theo quy định tại Điều 9 của Luật phá sản, các quy định khác của pháp luật phá sản và quy định tại Thông tư này. Tổ Thẩm phán bắt đầu thực hiện nhiệm vụ, quyền hạn kể từ khi có quyết định thành lập của Chánh án theo quy định tại khoản 3 Điều 2 của Thông tư này và chấm dứt việc thực hiện nhiệm vụ, quyền hạn sau khi đã giải quyết xong vụ việc phá sản hoặc sau khi có quyết định của Chánh án Tòa án nhân dân quy định tại điểm c khoản 4 Điều 2 của Thông tư này.
 
-**ID:** dk_00060593
+2. Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản thực hiện nhiệm vụ, quyền hạn theo quy định tại Điều 44 của Luật phá sản, các quy định khác của pháp luật phá sản và quy định tại Thông tư này. Tổ Thẩm phán bắt đầu thực hiện nhiệm vụ, quyền hạn kể từ khi có quyết định thành lập của Chánh án theo quy định tại khoản 3 Điều 3 của Thông tư này và chấm dứt việc thực hiện nhiệm vụ, quyền hạn sau khi đã giải quyết xong đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản quy định tại Điều 44 của Luật phá sản.
 
----
-
-
-### Điều 37.2.TT.1.5. Nguyên tắc hoạt động của các Tổ Thẩm phán
+3. Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản thực hiện nhiệm vụ, quyền hạn theo quy định tại Điều 112 của Luật phá sản, các quy định khác của pháp luật phá sản và quy định tại Thông tư này. Tổ Thẩm phán bắt đầu thực hiện nhiệm vụ, quyền hạn kể từ khi có quyết định thành lập của Chánh án theo quy định tại khoản 3 Điều 3 của Thông tư này và chấm dứt việc thực hiện nhiệm vụ, quyền hạn sau khi đã giải quyết xong đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản quy định tại Điều 112 của Luật phá sản.
 
 Điều 37.2.TT.1.5. Nguyên tắc hoạt động của các Tổ Thẩm phán
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010000500
+1. Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản xem xét, thảo luận tập thể và quyết định theo đa số đối với những loại việc quy định tại khoản 1 Điều 7 của Thông tư này và chịu trách nhiệm trước pháp luật về nhiệm vụ, quyền hạn được giao.
 
-**ID:** dk_00060594
+2. Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản xem xét, thảo luận tập thể và quyết định theo đa số đối với những loại việc quy định tại khoản 1 Điều 13 của Thông tư này và chịu trách nhiệm trước pháp luật về nhiệm vụ, quyền hạn được giao.
 
----
+3. Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản xem xét, thảo luận tập thể và quyết định theo đa số đối với những loại việc quy định tại khoản 1 Điều 17 của Thông tư này và chịu trách nhiệm trước pháp luật về nhiệm vụ, quyền hạn được giao.
 
+4. Tổ trưởng Tổ Thẩm phán thay mặt Tổ Thẩm phán điều hành, phụ trách chung hoạt động của Tổ Thẩm phán. Tổ trưởng Tổ Thẩm phán báo cáo Tổ thẩm phán và chịu trách nhiệm trước Tổ thẩm phán, trước pháp luật về nhiệm vụ, quyền hạn được giao. Khi thực hiện nhiệm vụ, quyền hạn của Tổ thẩm phán Tổ trưởng Tổ thẩm phán ký thay mặt Tổ thẩm phán và đóng dấu Tòa án.
 
-### Điều 37.2.TT.1.6. Nguyên tắc phối hợp giữa Tổ Thẩm phán với Viện kiểm sát nhân dân, Cơ quan thi hành án dân sự, Kiểm sát viên, Chấp hành viên, Quản tài viên và doanh nghiệp quản lý, thanh lý tài sản
+5. Thành viên Tổ Thẩm phán thực hiện nhiệm vụ, quyền hạn theo sự phân công của Tổ trưởng Tổ thẩm phán. Thành viên Tổ thẩm phán báo cáo và chịu trách nhiệm trước Tổ Thẩm phán, Tổ trưởng Tổ Thẩm phán và trước pháp luật về nhiệm vụ, quyền hạn được giao. Khi thực hiện nhiệm vụ, quyền hạn được phân công, thành viên Tổ Thẩm phán ký thay Tổ trưởng Tổ Thẩm phán và đóng dấu Tòa án.
+
+6. Các thành viên Tổ Thẩm phán có trách nhiệm nghiên cứu hồ sơ vụ việc phá sản và thực hiện nhiệm vụ, quyền hạn khác của Thẩm phán, Tổ Thẩm phán theo quy định của pháp luật phá sản.
 
 Điều 37.2.TT.1.6. Nguyên tắc phối hợp giữa Tổ Thẩm phán với Viện kiểm sát nhân dân, Cơ quan thi hành án dân sự, Kiểm sát viên, Chấp hành viên, Quản tài viên và doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010000600
+1. Tổ trưởng Tổ Thẩm phán, thành viên Tổ Thẩm phán thực hiện đúng nhiệm vụ, quyền hạn theo quy định của pháp luật phá sản khi phối hợp với Viện kiểm sát nhân dân, Cơ quan thi hành án dân sự, Kiểm sát viên, Chấp hành viên, Quản tài viên và doanh nghiệp quản lý, thanh lý tài sản.
 
-**ID:** dk_00060595
-
----
-
-
-### Điều 37.2.TT.1.7. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+2. Việc phối hợp giữa Tổ trưởng Tổ Thẩm phán, thành viên Tổ Thẩm phán với Viện kiểm sát nhân dân, Cơ quan thi hành án dân sự, Kiểm sát viên, Chấp hành viên, Quản tài viên và doanh nghiệp quản lý, thanh lý tài sản phải bảo đảm giải quyết vụ việc phá sản được nhanh chóng, kịp thời, vô tư, khách quan, đúng pháp luật.
 
 Điều 37.2.TT.1.7. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010000700
+1. Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản thực hiện các nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00060596
+a) Quyết định mở hoặc không mở thủ tục phá sản quy định tại Điều 42 của Luật phá sản;
 
----
+b) Xác định giá trị nghĩa vụ về tài sản quy định tại Điều 51 của Luật phá sản;
 
+c) Xử lý khoản nợ có bảo đảm quy định tại Điều 53 của Luật phá sản;
 
-### Điều 37.2.TT.1.8. Phương thức thực hiện nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+d) Quyết định tuyên bố giao dịch vô hiệu quy định tại Điều 60 của Luật phá sản;
+
+đ) Quyết định tạm đình chỉ, đình chỉ thực hiện hợp đồng đang có hiệu lực quy định tại Điều 61 của Luật phá sản;
+
+e) Quyết định áp dụng biện pháp khẩn cấp tạm thời quy định tại Điều 70 của Luật phá sản;
+
+g) Quyết định đình chỉ tiến hành thủ tục phá sản quy định tại Điều 86 của Luật phá sản;
+
+h) Quyết định đình chỉ thủ tục phục hồi hoạt động kinh doanh quy định tại Điều 95 của Luật phá sản;
+
+i) Xử lý tranh chấp tài sản trước khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản quy định tại Điều 114 của Luật phá sản;
+
+k) Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản quy định tại các điều 105, 106 và 107 của Luật phá sản;
+
+l) Áp dụng biện pháp xử phạt hành chính; đề nghị cơ quan có thẩm quyền xử lý về hình sự quy định tại khoản 13 Điều 9 và Điều 129 của Luật phá sản.
+
+2. Các nhiệm vụ, quyền hạn khác của Tổ Thẩm phán được thực hiện theo quy định tại Điều 9 của Thông tư này.
 
 Điều 37.2.TT.1.8. Phương thức thực hiện nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010000800
+1. Khi xem xét, giải quyết các vấn đề quy định tại khoản 1 Điều 7 của Thông tư này, Tổ trưởng Tổ Thẩm phán phải tổ chức phiên họp để thảo luận tập thể và quyết định theo đa số. Phiên họp của Tổ Thẩm phán phải có đủ các thành viên Tổ Thẩm phán, trường hợp có thành viên Tổ Thẩm phán vắng mặt thì phải hoãn phiên họp.
 
-**ID:** dk_00060597
+2. Trình tự, thủ tục phiên họp của Tổ Thẩm phán được thực hiện như sau:
 
----
+a) Tổ trưởng Tổ Thẩm phán khai mạc và chủ trì phiên họp. Thư ký Tòa án ghi biên bản phiên họp;
 
+b) Thành viên của Tổ Thẩm phán báo cáo kết quả thực hiện nhiệm vụ được giao trước Tổ thẩm phán. Tổ trưởng Tổ Thẩm phán trình bày tóm tắt nội dung vụ việc, quá trình giải quyết và các nội dung cần thảo luận, ra quyết định theo quy định tại khoản 1 Điều 7 của Thông tư này;
 
-### Điều 37.2.TT.1.9. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+c) Trong trường hợp cần thiết, Tổ Thẩm phán có thể triệu tập Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản để họ trình bày ý kiến;
+
+d) Các thành viên của Tổ Thẩm phán thảo luận và biểu quyết về các nội dung cần ra quyết định.
+
+3. Khi thảo luận và biểu quyết phải có biên bản ghi lại ý kiến đã thảo luận và quyết định của Tổ Thẩm phán. Biên bản phiên họp của Tổ Thẩm phán phải được các thành viên của Tổ Thẩm phán, Thư ký Tòa án ghi biên bản ký, ghi rõ họ tên. Thành viên Tổ Thẩm phán có ý kiến thiểu số có quyền trình bày ý kiến của mình bằng văn bản riêng hoặc ghi trong biên bản phiên họp.
+
+4. Quyết định của Tổ Thẩm phán phải được đa số thành viên của Tổ Thẩm phán biểu quyết tán thành. Quyết định này phải được lập thành văn bản và được Tổ trưởng Tổ Thẩm phán ký thay mặt Tổ Thẩm phán và đóng dấu Tòa án.
 
 Điều 37.2.TT.1.9. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010000900
+1. Các nhiệm vụ, quyền hạn của Tổ Thẩm phán sau đây do Tổ trưởng Tổ Thẩm phán thay mặt Tổ Thẩm phán thực hiện:
 
-**ID:** dk_00060598
+a) Xử lý đơn yêu cầu mở thủ tục phá sản, thụ lý đơn yêu cầu mở thủ tục phá sản quy định tại Điều 32 và Điều 39 của Luật phá sản;
 
----
+b) Xác minh, thu thập tài liệu, chứng cứ liên quan đến việc giải quyết yêu cầu mở thủ tục phá sản trong trường hợp cần thiết quy định tại khoản 1 Điều 9 của Luật phá sản;
 
+c) Quyết định việc bán tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán sau khi mở thủ tục phá sản để bảo đảm chi phí phá sản quy định tại khoản 6 Điều 9 và khoản 3 Điều 23 của Luật phá sản;
 
-### Điều 37.2.TT.1.10. Cơ chế phối hợp giữa Tổ Thẩm phán với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+d) Quyết định chỉ định hoặc thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản quy định tại khoản 3 Điều 9, Điều 45 và Điều 46 của Luật phá sản;
+
+đ) Giám sát hoạt động kinh doanh của doanh nghiệp, hợp tác xã sau khi có quyết định mở thủ tục phá sản quy định tại Điều 47 của Luật phá sản;
+
+e) Quyết định áp dụng biện pháp cấm đi khỏi nơi cư trú, yêu cầu cơ quan có thẩm quyền dẫn giải đại diện của doanh nghiệp, hợp tác xã mất khả năng thanh toán theo quy định của pháp luật quy định tại khoản 8 Điều 9 của Luật phá sản;
+
+g) Ủy thác tư pháp trong việc giải quyết phá sản quy định tại Điều 50 của Luật phá sản;
+
+h) Tổ chức Hội nghị chủ nợ quy định tại khoản 9 Điều 9, các điều 75, 80, 81 và 91 của Luật phá sản;
+
+i) Quyết định công nhận Nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã quy định tại Điều 92 của Luật phá sản;
+
+k) Giám sát thực hiện phương án phục hồi hoạt động kinh doanh quy định tại Điều 93 của Luật phá sản;
+
+l) Giám sát hoạt động của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản quy định tại khoản 4 Điều 9 của Luật phá sản;
+
+m) Quyết định việc thực hiện kiểm toán doanh nghiệp, hợp tác xã mất khả năng thanh toán trong trường hợp cần thiết quy định tại khoản 5 Điều 9 của Luật phá sản;
+
+n) Các nhiệm vụ, quyền hạn khác của Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản theo quy định của pháp luật, trừ các nhiệm vụ, quyền hạn quy định tại khoản 1 Điều 7 của Thông tư này.
+
+2. Thành viên Tổ Thẩm phán thay mặt Tổ Thẩm phán thực hiện nhiệm vụ, quyền hạn quy định tại khoản 1 Điều này theo sự phân công bằng văn bản của Tổ trưởng Tổ Thẩm phán.
 
 Điều 37.2.TT.1.10. Cơ chế phối hợp giữa Tổ Thẩm phán với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001000
+1. Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán được phân công có trách nhiệm chỉ định, thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản theo quy định tại Điều 45 và Điều 46 của Luật phá sản. Trường hợp thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thì phải có quyết định thay đổi theo quy định tại khoản 2 Điều 46 của Luật phá sản, trong đó nêu rõ lý do thay đổi.
 
-**ID:** dk_00060599
+2. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thực hiện việc đề xuất, đề nghị, yêu cầu, báo cáo quy định tại khoản 2 Điều 47, các điều 16, 49, 53, 59, 60, 63, 70, 87, 93, 115 và 127 của Luật phá sản bằng văn bản và gửi Tổ trưởng Tổ thẩm phán hoặc thành viên Tổ thẩm phán được phân công xem xét giải quyết trong thời hạn pháp luật phá sản quy định.
 
----
+Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán xem xét giải quyết trong thời hạn pháp luật phá sản quy định. Trường hợp pháp luật phá sản không quy định thời hạn thì Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán được phân công phải xem xét, quyết định trong thời hạn 07 ngày làm việc kể từ ngày nhận được đề xuất, đề nghị, yêu cầu, báo cáo. Kết quả giải quyết của Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán phải được gửi ngay cho Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
+3. Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán được Tổ trưởng phân công giám sát hoạt động của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản báo cáo định kỳ hàng tháng, hàng quý hoặc hàng năm trước ngày 15 của tháng tiếp theo của kỳ báo cáo; việc báo cáo phải bằng văn bản được gửi theo hình thức trực tiếp, qua bưu điện.
 
-### Điều 37.2.TT.1.11. Cơ chế phối hợp giữa Tổ Thẩm phán với Viện kiểm sát nhân dân, Kiểm sát viên
+Trong trường hợp cần thiết, Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán được phân công có quyền yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản báo cáo trực tiếp hoặc bằng văn bản về việc thực hiện nhiệm vụ, quyền hạn của mình. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được yêu cầu báo cáo thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải thực hiện việc báo cáo cho Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ thẩm phán được phân công.
+
+4. Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán được phân công có thẩm quyền áp dụng biện pháp xử phạt hành chính theo quy định của pháp luật đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có hành vi vi phạm pháp luật theo quy định tại khoản 2 Điều 129 của Luật phá sản và Luật xử lý vi phạm hành chính. Quyết định xử phạt hành chính phải được gửi cho Viện kiểm sát nhân dân cùng cấp, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đăng ký hành nghề trong thời hạn 05 ngày kể từ ngày ban hành quyết định.
 
 Điều 37.2.TT.1.11. Cơ chế phối hợp giữa Tổ Thẩm phán với Viện kiểm sát nhân dân, Kiểm sát viên
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001100
+1. Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán được Tổ trưởng Tổ thẩm phán phân công gửi cho Viện kiểm sát nhân dân cùng cấp các văn bản tố tụng trong quá trình giải quyết đơn yêu cầu mở thủ tục phá sản theo quy định tại các điều 35, 36, 40, 43, 84, 85, 86, 92, 95, 109 và 114 của Luật phá sản.
 
-**ID:** dk_00060600
-
----
-
-
-### Điều 37.2.TT.1.12. Cơ chế phối hợp giữa Tổ Thẩm phán với Cơ quan thi hành án dân sự, Chấp hành viên
+2. Khi giải quyết vụ việc phá sản, trong thời hạn 07 ngày kể từ ngày phát hiện hành vi vi phạm pháp luật hình sự, Tổ trưởng Tổ thẩm phán hoặc thành viên Tổ Thẩm phán được phân công phải gửi văn bản đề nghị và các tài liệu có liên quan (nếu có) cho Viện kiểm sát nhân dân có thẩm quyền để khởi tố vụ án hình sự.
 
 Điều 37.2.TT.1.12. Cơ chế phối hợp giữa Tổ Thẩm phán với Cơ quan thi hành án dân sự, Chấp hành viên
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001200
+1. Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán được phân công có trách nhiệm gửi cho Cơ quan thi hành án dân sự quyết định mở hoặc không mở thủ tục phá sản, quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản và các quyết định khác theo quy định tại khoản 1 Điều 40, khoản 1 Điều 43, Điều 60, 86, 95, 109, và 114 của Luật phá sản.
 
-**ID:** dk_00060601
-
----
-
-
-### Điều 37.2.TT.1.13. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
+2. Khi nhận được văn bản yêu cầu, đề nghị của Chấp hành viên theo quy định tại khoản 1 Điều 115, Điều 125 của Luật phá sản, khoản 2 Điều 179 của Luật Thi hành án dân sự, Tổ trưởng Tổ thẩm phán phải xem xét, giải quyết trong thời hạn pháp luật phá sản quy định và gửi ngay kết quả giải quyết cho Chấp hành viên, Cơ quan thi hành án dân sự có thẩm quyền.
 
 Điều 37.2.TT.1.13. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001300
+1. Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản phải tổ chức phiên họp để thảo luận và quyết định theo đa số khi ra một trong các quyết định quy định tại Điều 44 của Luật phá sản như sau:
 
-**ID:** dk_00060602
+a) Giữ nguyên quyết định mở hoặc không mở thủ tục phá sản;
 
----
+b) Hủy quyết định không mở thủ tục phá sản và giao cho Tòa án nhân dân đã ra quyết định không mở thủ tục phá sản xem xét ra quyết định mở thủ tục phá sản;
 
+c) Hủy quyết định mở thủ tục phá sản và thông báo cho Tòa án nhân dân đã ra quyết định mở thủ tục phá sản và những người tham gia thủ tục phá sản.
 
-### Điều 37.2.TT.1.14. Trình tự, thủ tục phiên họp giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
+2. Các nhiệm vụ, quyền hạn khác của Tổ Thẩm phán được thực hiện theo quy định tại Điều 15 của Thông tư này.
 
 Điều 37.2.TT.1.14. Trình tự, thủ tục phiên họp giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001400
+1. Tổ trưởng Tổ Thẩm phán phải tổ chức phiên họp giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản trong thời hạn quy định tại khoản 5 Điều 44 của Luật phá sản. Phiên họp của Tổ Thẩm phán phải có đủ các thành viên Tổ Thẩm phán, trường hợp có thành viên Tổ Thẩm phán vắng mặt thì phải hoãn phiên họp.
 
-**ID:** dk_00060603
+2. Tổ trưởng Tổ Thẩm phán khai mạc và chủ trì phiên họp. Thư ký Tòa án ghi biên bản phiên họp.
 
----
+3. Một thành viên của Tổ Thẩm phán trình bày tóm tắt nội dung vụ việc phá sản, quá trình giải quyết vụ việc phá sản và đề nghị của người đề nghị xem xét lại (nếu có). Kiểm sát viên phát biểu ý kiến của Viện kiểm sát nhân dân về quyết định kháng nghị trong trường hợp Viện kiểm sát nhân dân có kháng nghị.
 
+4. Trường hợp có người tham gia thủ tục phá sản được Tòa án triệu tập tham gia phiên họp thì họ có quyền trình bày ý kiến của mình về đề nghị xem xét lại quyết định mở hoặc không mở thủ tục phá sản, quyết định kháng nghị quyết định mở hoặc không mở thủ tục phá sản.
 
-### Điều 37.2.TT.1.15. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
+5. Kiểm sát viên phát biểu ý kiến của Viện kiểm sát nhân dân về đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản.
+
+6. Tổ Thẩm phán thảo luận và biểu quyết tại phòng họp kín về việc giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản. Khi thảo luận và biểu quyết tại phòng họp kín phải có biên bản ghi lại ý kiến đã thảo luận và quyết định của Tổ Thẩm phán. Biên bản phiên họp của Tổ Thẩm phán phải được các thành viên của Tổ Thẩm phán, Thư ký Tòa án ghi biên bản ký, ghi rõ họ tên. Thành viên Tổ thẩm phán có ý kiến thiểu số có quyền trình bày ý kiến của mình bằng văn bản riêng hoặc ghi trong biên bản phiên họp.
+
+Trong trường hợp có nhiều tình tiết phức tạp mà không thể ra quyết định ngay thì Tổ Thẩm phán có thể quyết định kéo dài thời gian thảo luận và biểu quyết nhưng không quá 05 ngày làm việc, kể từ ngày mở phiên họp.
+
+7. Quyết định của Tổ Thẩm phán phải được đa số thành viên của Tổ Thẩm phán biểu quyết tán thành. Quyết định này phải được lập thành văn bản, được Tổ trưởng Tổ thẩm phán ký thay mặt Tổ thẩm phán và đóng dấu Tòa án.
 
 Điều 37.2.TT.1.15. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001500
+1. Các nhiệm vụ, quyền hạn của Tổ thẩm phán sau đây do Tổ trưởng Tổ thẩm phán thay mặt Tổ Thẩm phán thực hiện:
 
-**ID:** dk_00060604
+a) Tiếp nhận hồ sơ vụ việc phá sản kèm theo đơn đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản;
 
----
+b) Xác minh, thu thập tài liệu, chứng cứ liên quan đến việc giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản trong trường hợp cần thiết;
 
+c) Gửi tài liệu, chứng cứ bổ sung cho Viện kiểm sát nhân dân cùng cấp;
 
-### Điều 37.2.TT.1.16. Cơ chế phối hợp giữa Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản với Viện kiểm sát nhân dân, Kiểm sát viên
+d) Tổ chức nghiên cứu hồ sơ vụ việc phá sản, đơn đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản;
+
+đ) Quyết định mở phiên họp xem xét, giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản;
+
+e) Gửi quyết định của Tổ Thẩm phán theo quy định tại khoản 7 Điều 44 của Luật phá sản cho Viện kiểm sát nhân dân cùng cấp, người nộp đơn, doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản;
+
+g) Thực hiện các nhiệm vụ, quyền hạn khác để giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản theo quy định của pháp luật phá sản.
+
+2. Thành viên Tổ Thẩm phán thay mặt Tổ Thẩm phán thực hiện nhiệm vụ, quyền hạn quy định tại khoản 1 Điều này theo sự phân công bằng văn bản của Tổ trưởng Tổ Thẩm phán.
 
 Điều 37.2.TT.1.16. Cơ chế phối hợp giữa Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản với Viện kiểm sát nhân dân, Kiểm sát viên
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001600
+1. Tổ trưởng Tổ Thẩm phán hoặc thành viên Tổ Thẩm phán được Tổ trưởng Tổ thẩm phán phân công có trách nhiệm:
 
-**ID:** dk_00060605
+a) Gửi ngay bản sao tài liệu, chứng cứ bổ sung và quyết định mở phiên họp xem xét, giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản cho Viện kiểm sát nhân dân cùng cấp;
 
----
+b) Gửi quyết định của Tổ Thẩm phán theo quy định tại khoản 7 Điều 44 của Luật phá sản cho Viện kiểm sát nhân dân cùng cấp trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định.
 
-
-### Điều 37.2.TT.1.17. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+2. Tổ trưởng Tổ Thẩm phán thông báo cho Viện kiểm sát nhân dân cùng cấp để cử Kiểm sát viên tham gia phiên họp. Trường hợp Kiểm sát viên không tham gia phiên họp thì Tổ trưởng Tổ Thẩm phán hoãn phiên họp và thông báo bằng văn bản cho Viện trưởng Viện kiểm sát nhân dân cùng cấp.
 
 Điều 37.2.TT.1.17. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001700
+1. Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản phải tổ chức phiên họp để thảo luận và quyết định theo đa số khi ra một trong các quyết định quy định tại Điều 112 của Luật phá sản như sau:
 
-**ID:** dk_00060606
+a) Không chấp nhận đơn đề nghị, kháng nghị và giữ nguyên quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản;
 
----
+b) Sửa quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản;
 
+c) Hủy quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản và giao hồ sơ cho Tòa án nhân dân cấp dưới có thẩm quyền giải quyết lại.
 
-### Điều 37.2.TT.1.18. Trình tự, thủ tục phiên họp giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+2. Các nhiệm vụ, quyền hạn khác của Tổ Thẩm phán được thực hiện theo quy định tại Điều 19 của Thông tư này.
 
 Điều 37.2.TT.1.18. Trình tự, thủ tục phiên họp giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001800
+1. Tổ trưởng Tổ Thẩm phán phải tổ chức phiên họp giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản trong thời hạn quy định tại khoản 3 Điều 112 của Luật phá sản. Phiên họp của Tổ thẩm phán phải có đủ các thành viên Tổ thẩm phán, trường hợp có thành viên Tổ thẩm phán vắng mặt thì phải hoãn phiên họp.
 
-**ID:** dk_00060607
+2. Tổ trưởng Tổ thẩm phán khai mạc và chủ trì phiên họp. Thư ký Tòa án ghi biên bản phiên họp.
 
----
+3. Một thành viên của Tổ Thẩm phán trình bày tóm tắt nội dung vụ việc phá sản, quá trình giải quyết vụ việc phá sản và đề nghị của người đề nghị xem xét lại (nếu có). Kiểm sát viên phát biểu ý kiến của Viện kiểm sát nhân dân về quyết định kháng nghị trong trường hợp Viện kiểm sát nhân dân có kháng nghị.
 
+4. Trường hợp có người tham gia thủ tục phá sản được Tòa án triệu tập tham gia phiên họp thì họ được trình bày ý kiến của mình về đề nghị xem xét lại quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản, quyết định kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
 
-### Điều 37.2.TT.1.19. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+5. Kiểm sát viên phát biểu ý kiến của Viện kiểm sát nhân dân về đề nghị xem xét lại, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
+
+6. Tổ Thẩm phán thảo luận và biểu quyết tại phòng họp kín về việc giải quyết đơn đề nghị xem xét lại, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản. Khi thảo luận và biểu quyết tại phòng họp kín phải có biên bản ghi lại ý kiến đã thảo luận và quyết định của Tổ thẩm phán. Biên bản phiên họp của Tổ Thẩm phán phải được các thành viên của Tổ Thẩm phán, Thư ký Tòa án ghi biên bản ký, ghi rõ họ tên. Thành viên Tổ thẩm phán có ý kiến thiểu số có quyền trình bày ý kiến của mình bằng văn bản riêng hoặc ghi trong biên bản phiên họp.
+
+Trong trường hợp có nhiều tình tiết phức tạp mà không thể ra quyết định ngay thì Tổ Thẩm phán có thể quyết định kéo dài thời gian thảo luận và biểu quyết nhưng không quá 05 ngày làm việc, kể từ ngày mở phiên họp.
+
+7. Quyết định của Tổ Thẩm phán phải được đa số thành viên của Tổ Thẩm phán biểu quyết tán thành. Quyết định này được lập thành văn bản và được Tổ trưởng Tổ Thẩm phán ký thay mặt Tổ Thẩm phán và đóng dấu Tòa án.
 
 Điều 37.2.TT.1.19. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 19
+(Điều 19 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010001900
+1. Các nhiệm vụ, quyền hạn của Tổ Thẩm phán sau đây do Tổ trưởng Tổ Thẩm phán thay mặt Tổ Thẩm phán thực hiện:
 
-**ID:** dk_00060608
+a) Tiếp nhận hồ sơ vụ việc phá sản kèm theo đơn đề nghị xem xét lại, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản;
 
----
+b) Xác minh, thu thập tài liệu, chứng cứ liên quan đến việc giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản trong trường hợp cần thiết;
 
+c) Gửi tài liệu, chứng cứ bổ sung cho Viện kiểm sát nhân dân cùng cấp;
 
-### Điều 37.2.TT.1.20. Cơ chế phối hợp giữa Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản với Viện kiểm sát nhân dân, Kiểm sát viên
+d) Tổ chức nghiên cứu hồ sơ vụ việc phá sản, đơn đề nghị xem xét lại, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản;
+
+đ) Quyết định mở phiên họp xem xét, giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản;
+
+e) Gửi quyết định của Tổ Thẩm phán theo quy định tại khoản 3 Điều 112 của Luật phá sản cho Viện kiểm sát nhân dân cùng cấp, người nộp đơn, doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản;
+
+g) Thực hiện các nhiệm vụ, quyền hạn khác để giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản theo quy định của pháp luật phá sản.
+
+2. Thành viên Tổ Thẩm phán thay mặt Tổ Thẩm phán thực hiện nhiệm vụ, quyền hạn quy định tại khoản 1 Điều này theo sự phân công bằng văn bản của Tổ trưởng Tổ Thẩm phán.
 
 Điều 37.2.TT.1.20. Cơ chế phối hợp giữa Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản với Viện kiểm sát nhân dân, Kiểm sát viên
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-**Mã phân cấp:** 370020000000000020000310000000000000000000802560300010002000
+1. Tổ trưởng Tổ thẩm phán hoặc thành viên Tổ Thẩm phán được Tổ trưởng Tổ Thẩm phán phân công có trách nhiệm:
 
-**ID:** dk_00060609
+a) Gửi ngay bản sao tài liệu, chứng cứ bổ sung và quyết định mở phiên họp xem xét, giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản cho Viện kiểm sát nhân dân cùng cấp;
 
----
+b) Gửi quyết định của Tổ Thẩm phán theo quy định tại khoản 3 Điều 112 của Luật phá sản cho Viện kiểm sát nhân dân cùng cấp, người nộp đơn, doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục tuyên bố phá sản trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định.
 
-
-### Điều 37.2.LQ.32. Xử lý đơn yêu cầu mở thủ tục phá sản
+2. Tổ trưởng Tổ Thẩm phán thông báo cho Viện kiểm sát nhân dân cùng cấp để cử Kiểm sát viên tham gia phiên họp. Trường hợp Kiểm sát viên không tham gia phiên họp thì Tổ trưởng Tổ Thẩm phán hoãn phiên họp và thông báo bằng văn bản cho Viện trưởng Viện kiểm sát nhân dân cùng cấp.
 
 Điều 37.2.LQ.32. Xử lý đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003200000000000000000
+1. Trong thời hạn 03 ngày làm việc kể từ ngày được phân công, Thẩm phán phải xem xét đơn yêu cầu và xử lý như sau:
 
-**ID:** dk_00060610
+a) Trường hợp đơn yêu cầu mở thủ tục phá sản hợp lệ, Thẩm phán thông báo cho người nộp đơn yêu cầu mở thủ tục phá sản về việc nộp lệ phí phá sản, tạm ứng chi phí phá sản, trừ trường hợp không phải nộp lệ phí phá sản, tạm ứng chi phí phá sản;
 
----
+b) Trường hợp đơn yêu cầu mở thủ tục phá sản không đủ các nội dung quy định tại Điều 26, Điều 27, Điều 28 hoặc Điều 29 của Luật này thì Thẩm phán thông báo cho người nộp đơn sửa đổi, bổ sung đơn;
 
+c) Chuyển đơn yêu cầu mở thủ tục phá sản cho Tòa án nhân dân có thẩm quyền nếu thuộc thẩm quyền giải quyết của Tòa án nhân dân khác;
 
-### Điều 37.2.LQ.33. Chuyển đơn yêu cầu mở thủ tục phá sản cho Tòa án nhân dân có thẩm quyền và giải quyết đề nghị xem xét lại việc chuyển đơn
+d) Trả lại đơn yêu cầu mở thủ tục phá sản.
+
+2. Thông báo việc xử lý đơn yêu cầu mở thủ tục phá sản phải bằng văn bản và gửi cho người nộp đơn và doanh nghiệp, hợp tác xã mất khả năng thanh toán biết.
 
 Điều 37.2.LQ.33. Chuyển đơn yêu cầu mở thủ tục phá sản cho Tòa án nhân dân có thẩm quyền và giải quyết đề nghị xem xét lại việc chuyển đơn
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003300000000000000000
+1. Tòa án nhân dân xử lý đơn theo quy định tại điểm c khoản 1 Điều 32 của Luật này có trách nhiệm chuyển đơn yêu cầu mở thủ tục phá sản và tài liệu, chứng cứ kèm theo cho Tòa án nhân dân có thẩm quyền và thông báo cho người nộp đơn yêu cầu mở thủ tục phá sản biết.
 
-**ID:** dk_00060611
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định chuyển đơn thì người nộp đơn hoặc Tòa án nhân dân được chuyển đơn có quyền đề nghị Chánh án Tòa án nhân dân cấp trên trực tiếp xem xét lại việc chuyển đơn.
 
----
-
-
-### Điều 37.2.LQ.34. Thông báo sửa đổi, bổ sung đơn yêu cầu mở thủ tục phá sản
+3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn đề nghị, Chánh án Tòa án nhân dân cấp trên trực tiếp giải quyết đề nghị xem xét lại việc chuyển đơn. Quyết định của Chánh án Tòa án nhân dân cấp trên trực tiếp là quyết định cuối cùng.
 
 Điều 37.2.LQ.34. Thông báo sửa đổi, bổ sung đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003400000000000000000
-
-**ID:** dk_00060612
-
----
-
-
-### Điều 37.2.LQ.35. Trả lại đơn yêu cầu mở thủ tục phá sản
+Đơn yêu cầu mở thủ tục phá sản không đủ nội dung quy định tại Điều 26, Điều 27, Điều 28 hoặc Điều 29 của Luật này thì Tòa án nhân dân thông báo cho người nộp đơn biết để sửa đổi, bổ sung. Thời hạn sửa đổi, bổ sung do Tòa án nhân dân ấn định, nhưng không quá 10 ngày làm việc kể từ ngày người nộp đơn nhận được thông báo; trường hợp đặc biệt, Tòa án nhân dân có thể gia hạn nhưng không quá 15 ngày.
 
 Điều 37.2.LQ.35. Trả lại đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 35
+(Điều 35 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003500000000000000000
+1. Tòa án nhân dân quyết định trả lại đơn yêu cầu mở thủ tục phá sản trong các trường hợp sau:
 
-**ID:** dk_00060613
+a) Người nộp đơn không đúng theo quy định tại Điều 5 của Luật này;
 
----
+b) Người nộp đơn không thực hiện việc sửa đổi, bổ sung đơn yêu cầu mở thủ tục phá sản theo quy định tại Điều 34 của Luật này;
 
+c) Tòa án nhân dân khác đã mở thủ tục phá sản đối với doanh nghiệp, hợp tác xã mất khả năng thanh toán;
 
-### Điều 37.2.LQ.36. Đề nghị xem xét lại, kiến nghị việc trả lại đơn yêu cầu mở thủ tục phá sản
+d) Người nộp đơn yêu cầu mở thủ tục phá sản rút đơn yêu cầu theo quy định tại khoản 2 Điều 37 của Luật này;
+
+đ) Người nộp đơn không nộp lệ phí phá sản, tạm ứng chi phí phá sản, trừ trường hợp không phải nộp lệ phí phá sản, tạm ứng chi phí phá sản.
+
+2. Quyết định trả lại đơn yêu cầu mở thủ tục phá sản của Tòa án nhân dân phải nêu rõ lý do trả lại đơn. Tòa án nhân dân có trách nhiệm gửi quyết định này cho người nộp đơn yêu cầu mở thủ tục phá sản, Viện kiểm sát nhân dân cùng cấp trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định.
 
 Điều 37.2.LQ.36. Đề nghị xem xét lại, kiến nghị việc trả lại đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003600000000000000000
+1. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định trả lại đơn yêu cầu mở thủ tục phá sản của Tòa án nhân dân, người yêu cầu mở thủ tục phá sản có quyền đề nghị xem xét lại, Viện kiểm sát nhân dân cùng cấp có quyền kiến nghị với Chánh án Tòa án nhân dân đã ra quyết định trả lại đơn yêu cầu.
 
-**ID:** dk_00060614
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn đề nghị xem xét lại, kiến nghị đối với quyết định trả lại đơn yêu cầu mở thủ tục phá sản, Chánh án Tòa án nhân dân đã ra quyết định trả lại đơn yêu cầu phải ra một trong các quyết định sau:
 
----
+a) Giữ nguyên quyết định trả lại đơn yêu cầu mở thủ tục phá sản;
 
+b) Huỷ quyết định trả lại đơn yêu cầu mở thủ tục phá sản và thụ lý đơn theo quy định của Luật này.
 
-### Điều 37.2.LQ.37. Thương lượng giữa chủ nợ nộp đơn yêu cầu mở thủ tục phá sản với doanh nghiệp, hợp tác xã mất khả năng thanh toán
+3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định giải quyết đơn đề nghị xem xét lại, kiến nghị đối với quyết định trả lại đơn yêu cầu mở thủ tục phá sản, người yêu cầu mở thủ tục phá sản có quyền đề nghị xem xét lại, Viện kiểm sát nhân dân có quyền kiến nghị với Chánh án Tòa án nhân dân cấp trên trực tiếp xem xét, giải quyết.
+
+4. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được đơn yêu cầu xem xét lại, kiến nghị về việc trả lại đơn yêu cầu mở thủ tục phá sản, Chánh án Tòa án nhân dân cấp trên trực tiếp phải ra một trong các quyết định sau:
+
+a) Giữ nguyên quyết định trả lại đơn yêu cầu mở thủ tục phá sản;
+
+b) Huỷ quyết định trả lại đơn yêu cầu mở thủ tục phá sản và yêu cầu Tòa án nhân dân thụ lý đơn theo quy định của Luật này.
+
+5. Quyết định giải quyết đề nghị xem xét lại, kiến nghị của Chánh án Tòa án nhân dân cấp trên trực tiếp là quyết định cuối cùng. Quyết định này phải được gửi cho người yêu cầu, Viện kiểm sát nhân dân cùng cấp, Viện kiểm sát nhân dân đã kiến nghị và Tòa án nhân dân đã ra quyết định trả lại đơn yêu cầu.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân)
 
 Điều 37.2.LQ.37. Thương lượng giữa chủ nợ nộp đơn yêu cầu mở thủ tục phá sản với doanh nghiệp, hợp tác xã mất khả năng thanh toán
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003700000000000000000
+1. Trong thời hạn 03 ngày làm việc kể từ ngày Tòa án nhân dân nhận đơn yêu cầu mở thủ tục phá sản hợp lệ, doanh nghiệp, hợp tác xã mất khả năng thanh toán và chủ nợ nộp đơn yêu cầu mở thủ tục phá sản có quyền đề nghị bằng văn bản gửi Tòa án nhân dân để các bên thương lượng việc rút đơn.
 
-**ID:** dk_00060615
+Tòa án nhân dân ấn định thời gian thương lượng nhưng không quá 20 ngày kể từ ngày nhận được đơn yêu cầu mở thủ tục phá sản hợp lệ.
 
----
+2. Trường hợp các bên thỏa thuận được với nhau về việc rút đơn yêu cầu mở thủ tục phá sản thì Tòa án nhân dân trả lại đơn yêu cầu mở thủ tục phá sản.
 
+3. Trường hợp thương lượng không thành hoặc hết thời hạn thương lượng mà các bên không tiến hành thương lượng thì Tòa án nhân dân thông báo cho người nộp đơn nộp lệ phí phá sản, tạm ứng chi phí phá sản và thụ lý đơn yêu cầu mở thủ tục phá sản theo quy định của Luật này.
 
-### Điều 37.2.LQ.38. Thủ tục nộp lệ phí phá sản, tạm ứng chi phí phá sản
+4. Việc thương lượng của các bên theo quy định tại Điều này không được trái với quy định của pháp luật về phá sản.
 
 Điều 37.2.LQ.38. Thủ tục nộp lệ phí phá sản, tạm ứng chi phí phá sản
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003800000000000000000
+1. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn yêu cầu mở thủ tục phá sản hợp lệ, Tòa án nhân dân dự tính số tiền tạm ứng chi phí phá sản và thông báo cho người yêu cầu mở thủ tục phá sản để nộp lệ phí phá sản, tạm ứng chi phí phá sản.
 
-**ID:** dk_00060616
+Trường hợp có đề nghị thương lượng thì việc thông báo cho người yêu cầu mở thủ tục phá sản để nộp lệ phí phá sản, tạm ứng chi phí phá sản thực hiện theo quy định tại khoản 3 Điều 37 của Luật này.
 
----
+2. Trong thời hạn 15 ngày kể từ ngày nhận được thông báo về việc nộp lệ phí phá sản, tạm ứng chi phí phá sản, người nộp đơn yêu cầu mở thủ tục phá sản phải thực hiện việc nộp lệ phí phá sản, tạm ứng chi phí phá sản như sau:
 
+a) Nộp lệ phí phá sản cho cơ quan thi hành án dân sự;
 
-### Điều 37.2.LQ.39. Thụ lý đơn yêu cầu mở thủ tục phá sản
+b) Nộp tạm ứng chi phí phá sản vào tài khoản do Tòa án nhân dân mở tại ngân hàng.
+
+(Điều này có nội dung liên quan đến Điều 37.2.QĐ.1.2. Nguyên tắc làm việc của Tổ Thẩm phán)
 
 Điều 37.2.LQ.39. Thụ lý đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200003900000000000000000
-
-**ID:** dk_00060617
-
----
-
-
-### Điều 37.2.LQ.40. Thông báo việc thụ lý đơn yêu cầu mở thủ tục phá sản
+Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản khi nhận được biên lai nộp lệ phí phá sản, biên lai nộp tạm ứng chi phí phá sản. Trường hợp không phải nộp lệ phí phá sản, tạm ứng chi phí phá sản thì thời điểm thụ lý được tính từ ngày Tòa án nhân dân nhận đơn yêu cầu mở thủ tục phá sản hợp lệ.
 
 Điều 37.2.LQ.40. Thông báo việc thụ lý đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200004000000000000000000
+1. Trong thời hạn 03 ngày làm việc kể từ ngày thụ lý đơn, Tòa án nhân dân phải thông báo bằng văn bản cho người nộp đơn yêu cầu mở thủ tục phá sản, doanh nghiệp, hợp tác xã mất khả năng thanh toán, các cơ quan, tổ chức đang giải quyết vụ việc liên quan đến doanh nghiệp, hợp tác xã mất khả năng thanh toán do các bên cung cấp và Viện kiểm sát nhân dân cùng cấp về việc thụ lý đơn yêu cầu mở thủ tục phá sản.
 
-**ID:** dk_00060618
+Trường hợp người nộp đơn yêu cầu mở thủ tục phá sản là người đại diện theo pháp luật của doanh nghiệp, hợp tác xã mất khả năng thanh toán thì Tòa án nhân dân phải thông báo cho các chủ nợ do doanh nghiệp, hợp tác xã cung cấp.
 
----
+2. Trường hợp người nộp đơn không phải là doanh nghiệp, hợp tác xã mất khả năng thanh toán thì trong thời hạn 15 ngày kể từ ngày nhận được thông báo của Tòa án nhân dân, doanh nghiệp, hợp tác xã mất khả năng thanh toán phải xuất trình cho Tòa án nhân dân các giấy tờ, tài liệu theo quy định tại khoản 3 Điều 28 của Luật này.
 
-
-### Điều 37.2.LQ.41. Tạm đình chỉ giải quyết yêu cầu doanh nghiệp, hợp tác xã mất khả năng thanh toán thực hiện nghĩa vụ về tài sản
+(Điều này có nội dung liên quan đến Điều 37.2.QĐ.1.2. Nguyên tắc làm việc của Tổ Thẩm phán)
 
 Điều 37.2.LQ.41. Tạm đình chỉ giải quyết yêu cầu doanh nghiệp, hợp tác xã mất khả năng thanh toán thực hiện nghĩa vụ về tài sản
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000200004100000000000000000
+Trong thời hạn 05 ngày làm việc kể từ ngày Tòa án nhân dân thụ lý vụ việc phá sản, việc tạm đình chỉ thực hiện nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán được thực hiện như sau:
 
-**ID:** dk_00060619
+1. Cơ quan thi hành án dân sự phải tạm đình chỉ thi hành án dân sự về tài sản mà doanh nghiệp, hợp tác xã là người phải thi hành án, trừ bản án, quyết định buộc doanh nghiệp, hợp tác xã mất khả năng thanh toán bồi thường về tính mạng, sức khỏe, danh dự hoặc trả lương cho người lao động. Việc tạm đình chỉ được thực hiện theo quy định của pháp luật về thi hành án dân sự;
 
----
+2. Tòa án nhân dân, Trọng tài phải tạm đình chỉ việc giải quyết vụ việc dân sự, kinh doanh, thương mại, lao động có liên quan đến nghĩa vụ tài sản mà doanh nghiệp, hợp tác xã là một bên đương sự. Thủ tục tạm đình chỉ được thực hiện theo quy định của pháp luật về tố tụng dân sự và pháp luật về trọng tài thương mại.
 
+Tòa án nhân dân phải tách và tạm đình chỉ giải quyết phần dân sự trong vụ án hình sự, hành chính liên quan đến nghĩa vụ tài sản mà doanh nghiệp, hợp tác xã là một bên đương sự. Thủ tục tách và tạm đình chỉ được thực hiện theo quy định của pháp luật về tố tụng hình sự, tố tụng hành chính;
 
-### Điều 37.2.LQ.42. Quyết định mở hoặc không mở thủ tục phá sản
+3. Cơ quan, tổ chức có thẩm quyền tạm đình chỉ việc xử lý tài sản bảo đảm của doanh nghiệp, hợp tác xã đối với các chủ nợ có bảo đảm.
+
+Trường hợp tài sản bảo đảm có nguy cơ bị phá hủy hoặc bị giảm đáng kể về giá trị thì xử lý theo quy định tại khoản 2 và khoản 3 Điều 53 của Luật này.
+
+(Điều này có nội dung liên quan đến Điều 37.5.LQ.214. Tạm đình chỉ giải quyết vụ án dân sự; Điều 37.2.NĐ.2.27. Khiếu nại, tố cáo)
+
+Chương III
+
+MỞ THỦ TỤC PHÁ SẢN
 
 Điều 37.2.LQ.42. Quyết định mở hoặc không mở thủ tục phá sản
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300004200000000000000000
+1. Trong thời hạn 30 ngày kể từ ngày thụ lý đơn yêu cầu mở thủ tục phá sản, Thẩm phán phải ra quyết định mở hoặc không mở thủ tục phá sản, trừ trường hợp quy định tại Điều 105 của Luật này.
 
-**ID:** dk_00060621
+2. Thẩm phán ra quyết định mở thủ tục phá sản khi doanh nghiệp, hợp tác xã mất khả năng thanh toán.
 
----
+3. Trường hợp cần thiết, trước khi ra quyết định mở thủ tục phá sản, Thẩm phán có thể triệu tập phiên họp với sự tham gia của người nộp đơn yêu cầu mở thủ tục phá sản, chủ doanh nghiệp hoặc đại diện hợp pháp của doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản, cá nhân, tổ chức có liên quan để xem xét, kiểm tra các căn cứ chứng minh doanh nghiệp, hợp tác xã mất khả năng thanh toán.
 
+4. Quyết định mở thủ tục phá sản phải có các nội dung chủ yếu sau:
 
-### Điều 37.2.LQ.43. Thông báo quyết định mở hoặc không mở thủ tục phá sản
+a) Ngày, tháng, năm;
+
+b) Tên của Tòa án nhân dân; họ và tên Thẩm phán tiến hành thủ tục phá sản;
+
+c) Ngày và số thụ lý đơn yêu cầu mở thủ tục phá sản; tên, địa chỉ của người làm đơn yêu cầu;
+
+d) Tên, địa chỉ của doanh nghiệp, hợp tác xã mất khả năng thanh toán;
+
+đ) Thời gian, địa điểm khai báo của các chủ nợ và hậu quả pháp lý của việc không khai báo.
+
+5. Tòa án nhân dân ra quyết định không mở thủ tục phá sản nếu xét thấy doanh nghiệp, hợp tác xã không thuộc trường hợp quy định tại khoản 2 Điều này.
+
+Trong trường hợp này, người nộp đơn yêu cầu mở thủ tục phá sản được trả lại tiền tạm ứng chi phí phá sản; yêu cầu doanh nghiệp, hợp tác xã mất khả năng thanh toán thực hiện nghĩa vụ về tài sản đã bị tạm đình chỉ theo quy định tại Điều 41 của Luật này được tiếp tục giải quyết.
+
+6. Quyết định mở hoặc không mở thủ tục phá sản có hiệu lực thi hành kể từ ngày ra quyết định.
 
 Điều 37.2.LQ.43. Thông báo quyết định mở hoặc không mở thủ tục phá sản
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300004300000000000000000
+1. Quyết định mở thủ tục phá sản của Tòa án nhân dân phải được gửi cho người nộp đơn, doanh nghiệp, hợp tác xã mất khả năng thanh toán, chủ nợ, Viện kiểm sát nhân dân cùng cấp, cơ quan thi hành án dân sự, cơ quan thuế, cơ quan đăng ký kinh doanh nơi doanh nghiệp, hợp tác xã có trụ sở chính và đăng trên Cổng thông tin đăng ký doanh nghiệp quốc gia, Cổng thông tin điện tử của Tòa án nhân dân và 02 số báo địa phương liên tiếp nơi doanh nghiệp, hợp tác xã mất khả năng thanh toán có trụ sở chính.
 
-**ID:** dk_00060622
+2. Quyết định không mở thủ tục phá sản của Tòa án nhân dân phải được gửi cho người nộp đơn, doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản và Viện kiểm sát nhân dân cùng cấp.
 
----
-
-
-### Điều 37.2.LQ.44. Giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
+3. Thời hạn gửi và thông báo quyết định mở hoặc không mở thủ tục phá sản là 03 ngày làm việc kể từ ngày Tòa án nhân dân ra quyết định.
 
 Điều 37.2.LQ.44. Giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300004400000000000000000
+1. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được quyết định mở hoặc không mở thủ tục phá sản, người tham gia thủ tục phá sản có quyền đề nghị xem xét lại, Viện kiểm sát nhân dân cùng cấp có quyền kháng nghị quyết định mở hoặc không mở thủ tục phá sản.
 
-**ID:** dk_00060623
+2. Ngay sau khi nhận được đơn đề nghị xem xét lại, kháng nghị, Tòa án nhân dân đã ra quyết định mở hoặc không mở thủ tục phá sản gửi hồ sơ vụ việc phá sản cho Tòa án nhân dân cấp trên trực tiếp giải quyết.
 
----
+3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ vụ việc phá sản kèm theo đơn đề nghị xem xét lại, kháng nghị, Tòa án nhân dân cấp trên trực tiếp chỉ định Tổ Thẩm phán gồm 03 Thẩm phán xem xét, giải quyết đề nghị xem xét lại, kháng nghị và gửi hồ sơ vụ việc phá sản cho Viện kiểm sát nhân dân cùng cấp.
 
+4. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ vụ việc phá sản do Tòa án nhân dân chuyển đến, Viện kiểm sát nhân dân cùng cấp phải trả lại hồ sơ cho Tòa án nhân dân.
 
-### Điều 37.2.LQ.45. Chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+5. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ vụ việc phá sản do Viện kiểm sát nhân dân cùng cấp trả lại, Tổ Thẩm phán phải tổ chức phiên họp để xem xét, giải quyết đề nghị xem xét lại, kháng nghị.
+
+6. Phiên họp của Tổ Thẩm phán có Viện kiểm sát nhân dân tham gia và có Thư ký Tòa án nhân dân ghi biên bản phiên họp. Trong trường hợp cần thiết có thể triệu tập người khác để hỏi thêm về những vấn đề chưa rõ.
+
+7. Tổ Thẩm phán có quyền ra một trong các quyết định sau:
+
+a) Giữ nguyên quyết định mở hoặc không mở thủ tục phá sản;
+
+b) Huỷ quyết định không mở thủ tục phá sản và giao cho Tòa án nhân dân đã ra quyết định không mở thủ tục phá sản xem xét ra quyết định mở thủ tục phá sản;
+
+c) Hủy quyết định mở thủ tục phá sản và thông báo cho Tòa án nhân dân đã ra quyết định mở thủ tục phá sản và những người tham gia thủ tục phá sản.
+
+8. Quyết định của Tổ Thẩm phán là quyết định cuối cùng và có hiệu lực thi hành.
+
+9. Chánh án Tòa án nhân dân tối cao quy định về Quy chế làm việc của Tổ Thẩm phán giải quyết đơn đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân; Điều 37.2.QĐ.1.2. Nguyên tắc làm việc của Tổ Thẩm phán; Điều 37.2.TT.1.3. Thành lập Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản và Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản)
 
 Điều 37.2.LQ.45. Chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 45
+(Điều 45 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300004500000000000000000
+1. Trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định mở thủ tục phá sản, Thẩm phán có trách nhiệm chỉ định Quản tài viên hoặc doanh nghiệp quản lý, thanh lý tài sản.
 
-**ID:** dk_00060624
+2. Căn cứ chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản:
 
----
+a) Cá nhân có chứng chỉ hành nghề Quản tài viên; doanh nghiệp quản lý, thanh lý tài sản;
 
+b) Đề xuất chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản của người nộp đơn yêu cầu mở thủ tục phá sản;
 
-### Điều 37.2.LQ.46. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+c) Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản không có lợi ích liên quan đến vụ việc phá sản;
+
+d) Tính chất của việc giải quyết đơn yêu cầu mở thủ tục phá sản;
+
+đ) Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản không phải là người thân thích của người tham gia thủ tục phá sản.
+
+3. Văn bản chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải có nội dung chủ yếu sau:
+
+a) Ngày, tháng, năm;
+
+b) Tên, địa chỉ của chủ nợ; doanh nghiệp, hợp tác xã mất khả năng thanh toán;
+
+c) Tên, địa chỉ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản;
+
+d) Tóm tắt nội dung yêu cầu mở thủ tục phá sản;
+
+đ) Căn cứ để chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản;
+
+e) Tạm ứng chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản;
+
+g) Nhiệm vụ, quyền hạn cụ thể của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản;
+
+h) Thẩm phán ký tên và đóng dấu của Tòa án nhân dân.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.28. Điều khoản chuyển tiếp)
 
 Điều 37.2.LQ.46. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300004600000000000000000
+1. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có thể bị Thẩm phán quyết định thay đổi nếu thuộc một trong các trường hợp sau:
 
-**ID:** dk_00060625
+a) Vi phạm nghĩa vụ theo quy định của Luật này;
 
----
+b) Có căn cứ chứng minh Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản không khách quan trong khi thực hiện nhiệm vụ;
 
+c) Trường hợp bất khả kháng mà Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản không thực hiện được nhiệm vụ.
 
-### Điều 37.2.NĐ.2.18. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+2. Quyết định thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải bằng văn bản, trong đó phải ghi rõ việc xử lý tạm ứng chi phí của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bị thay đổi và gửi ngay cho Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản.
+
+3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền làm đơn đề nghị Chánh án Tòa án nhân dân có thẩm quyền xem xét lại quyết định.
+
+4. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn đề nghị xem xét lại quyết định thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, Chánh án Tòa án nhân dân xem xét, ban hành một trong các quyết định sau:
+
+a) Không chấp nhận đề nghị xem xét lại quyết định thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản;
+
+b) Hủy bỏ quyết định thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
+
+5. Quyết định của Chánh án Tòa án nhân dân quy định tại khoản 4 Điều này là quyết định cuối cùng.
+
+6. Trường hợp thay đổi theo quy định tại điểm a và điểm b khoản 1 Điều này thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải trả lại toàn bộ tiền tạm ứng chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản. Trường hợp thay đổi theo quy định tại điểm c khoản 1 Điều này thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được thanh toán chi phí tương ứng với phần công việc đã thực hiện.
+
+7. Trong thời hạn 03 ngày làm việc kể từ ngày có quyết định thay đổi, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bị thay đổi phải thực hiện bàn giao toàn bộ công việc đã thực hiện cho Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản mới.
+
+8. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bị thay đổi trong trường hợp quy định tại điểm a và điểm b khoản 1 Điều này hoặc không thực hiện bàn giao theo quy định tại khoản 7 Điều này thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.15. Thu hồi chứng chỉ hành nghề Quản tài viên; Điều 37.2.LQ.18. Quyền, nghĩa vụ của người tham gia thủ tục phá sản; Điều 37.2.NĐ.2.18. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.NĐ.2.18. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 370020000000000030000460000000000000000000402536900220001800
+1. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có thể bị Thẩm phán quyết định thay đổi nếu thuộc một trong các trường hợp quy định tại Khoản 1 Điều 46 của Luật Phá sản.
 
-**ID:** dk_00060626
+2. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bị Thẩm phán thay đổi nếu thuộc trường hợp bị tạm đình chỉ hành nghề quản lý, thanh lý tài sản theo quy định tại Điều 20 của Nghị định này.
 
----
+3. Trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bị thay đổi theo quy định tại Khoản 1 Điều này thì việc hoàn trả tiền tạm ứng, việc thanh toán chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, việc bàn giao công việc được thực hiện theo quy định tại Khoản 6, Khoản 7 và Khoản 8 Điều 46 của Luật Phá sản.
 
+Trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bị thay đổi theo quy định tại Khoản 2 Điều này thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải trả lại toàn bộ tiền tạm ứng chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được thanh toán chi phí tương ứng với phần công việc đã thực hiện. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thực hiện bàn giao công việc theo quy định tại Khoản 7 và Khoản 8 Điều 46 của Luật Phá sản.
 
-### Điều 37.2.LQ.47. Hoạt động kinh doanh của doanh nghiệp, hợp tác xã sau khi có quyết định mở thủ tục phá sản
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.46. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.17. Trách nhiệm báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đối với Chấp hành viên; đề xuất thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NĐ.2.20. Tạm đình chỉ hành nghề đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.47. Hoạt động kinh doanh của doanh nghiệp, hợp tác xã sau khi có quyết định mở thủ tục phá sản
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300004700000000000000000
+1. Sau khi có quyết định mở thủ tục phá sản, doanh nghiệp, hợp tác xã vẫn tiếp tục hoạt động kinh doanh, nhưng phải chịu sự giám sát của Thẩm phán và Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
-**ID:** dk_00060627
-
----
-
-
-### Điều 37.2.LQ.48. Hoạt động của doanh nghiệp, hợp tác xã bị cấm sau khi có quyết định mở thủ tục phá sản
+2. Trường hợp xét thấy người đại diện theo pháp luật của doanh nghiệp, hợp tác xã không có khả năng điều hành, doanh nghiệp, hợp tác xã có dấu hiệu vi phạm khoản 1 Điều 48 của Luật này thì Thẩm phán ra quyết định thay đổi người đại diện theo pháp luật của doanh nghiệp, hợp tác xã đó theo đề nghị của Hội nghị chủ nợ hoặc Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
 Điều 37.2.LQ.48. Hoạt động của doanh nghiệp, hợp tác xã bị cấm sau khi có quyết định mở thủ tục phá sản
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300004800000000000000000
+1. Sau khi có quyết định mở thủ tục phá sản, cấm doanh nghiệp, hợp tác xã thực hiện các hoạt động sau:
 
-**ID:** dk_00060628
+a) Cất giấu, tẩu tán, tặng cho tài sản;
 
----
+b) Thanh toán khoản nợ không có bảo đảm, trừ khoản nợ không có bảo đảm phát sinh sau khi mở thủ tục phá sản và trả lương cho người lao động trong doanh nghiệp, hợp tác xã quy định tại điểm c khoản 1 Điều 49 của Luật này;
 
+c) Từ bỏ quyền đòi nợ;
 
-### Điều 37.2.LQ.49. Giám sát hoạt động của doanh nghiệp, hợp tác xã sau khi có quyết định mở thủ tục phá sản
+d) Chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bằng tài sản của doanh nghiệp, hợp tác xã.
+
+2. Giao dịch quy định tại khoản 1 Điều này là vô hiệu và xử lý theo quy định tại Điều 60 của Luật này.
 
 Điều 37.2.LQ.49. Giám sát hoạt động của doanh nghiệp, hợp tác xã sau khi có quyết định mở thủ tục phá sản
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300004900000000000000000
+1. Sau khi có quyết định mở thủ tục phá sản, doanh nghiệp, hợp tác xã phải báo cáo Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản trước khi thực hiện các hoạt động sau:
 
-**ID:** dk_00060629
+a) Hoạt động liên quan đến việc vay, cầm cố, thế chấp, bảo lãnh, mua bán, chuyển nhượng, cho thuê tài sản; bán, chuyển đổi cổ phần; chuyển quyền sở hữu tài sản;
 
----
+b) Chấm dứt thực hiện hợp đồng có hiệu lực;
 
+c) Thanh toán khoản nợ phát sinh sau khi mở thủ tục phá sản; trả lương cho người lao động trong doanh nghiệp, hợp tác xã.
 
-### Điều 37.2.LQ.50. Ủy thác tư pháp trong việc giải quyết phá sản
+2. Hình thức báo cáo gồm báo cáo trực tiếp, thư bảo đảm, thư thường, thư điện tử, fax, telex.
+
+3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được báo cáo của doanh nghiệp, hợp tác xã thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có trách nhiệm trả lời cho doanh nghiệp, hợp tác xã việc được thực hiện hoặc không được thực hiện các hoạt động quy định tại khoản 1 Điều này và phải chịu trách nhiệm về việc trả lời của mình. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải báo cáo Thẩm phán về nội dung trả lời của mình.
+
+4. Các hoạt động quy định tại khoản 1 Điều này được thực hiện mà không có sự đồng ý của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thì bị đình chỉ thực hiện, khôi phục lại tình trạng ban đầu và giải quyết hậu quả theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.17. Trách nhiệm báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đối với Chấp hành viên; đề xuất thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 39.13.NĐ.80.72. Hành vi vi phạm quy định về hoạt động của doanh nghiệp, hợp tác xã khi đã có quyết định mở thủ tục phá sản)
 
 Điều 37.2.LQ.50. Ủy thác tư pháp trong việc giải quyết phá sản
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000300005000000000000000000
+1. Trong quá trình giải quyết phá sản, Tòa án nhân dân có thể ra quyết định ủy thác để Tòa án nhân dân khác thu hồi tài sản, lấy lời khai của những người tham gia thủ tục phá sản, thẩm định tại chỗ, định giá tài sản hoặc biện pháp khác để thu thập tài liệu, chứng cứ liên quan đến vụ việc phá sản.
 
-**ID:** dk_00060630
+2. Trong quyết định ủy thác phải ghi rõ tên, địa chỉ của người tham gia thủ tục phá sản liên quan đến việc ủy thác và công việc ủy thác cụ thể.
 
----
+3. Tòa án nhân dân nhận được quyết định ủy thác có trách nhiệm thực hiện công việc cụ thể được ủy thác trong thời hạn 30 ngày kể từ ngày nhận được quyết định ủy thác và thông báo kết quả bằng văn bản cho Tòa án nhân dân đã ra quyết định ủy thác; trường hợp không thực hiện được việc ủy thác thì phải thông báo bằng văn bản nêu rõ lý do của việc không thực hiện được việc ủy thác cho Toà án nhân dân đã ra quyết định ủy thác.
 
+Chương IV
 
-### Điều 37.2.LQ.51. Xác định giá trị nghĩa vụ về tài sản
+NGHĨA VỤ VỀ TÀI SẢN
 
 Điều 37.2.LQ.51. Xác định giá trị nghĩa vụ về tài sản
 
-**Chỉ mục:** 51
+(Điều 51 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000400005100000000000000000
+1. Nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã được xác lập trước khi Tòa án nhân dân ra quyết định mở thủ tục phá sản được xác định vào thời điểm ra quyết định mở thủ tục phá sản.
 
-**ID:** dk_00060632
+2. Nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã được xác lập sau khi Tòa án nhân dân ra quyết định mở thủ tục phá sản được xác định vào thời điểm ra quyết định tuyên bố phá sản.
 
----
-
-
-### Điều 37.2.LQ.52. Xác định tiền lãi đối với khoản nợ
+3. Trường hợp nghĩa vụ về tài sản quy định tại khoản 1 và khoản 2 Điều này không phải là tiền thì Tòa án nhân dân xác định giá trị nghĩa vụ về tài sản đó bằng tiền.
 
 Điều 37.2.LQ.52. Xác định tiền lãi đối với khoản nợ
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000400005200000000000000000
+1. Kể từ ngày ra quyết định mở thủ tục phá sản, các khoản nợ được tiếp tục tính lãi theo thỏa thuận nhưng được tạm dừng việc trả lãi.
 
-**ID:** dk_00060633
+Trường hợp Thẩm phán ra quyết định đình chỉ tiến hành thủ tục phá sản theo quy định tại Điều 86 của Luật này, đình chỉ thủ tục phục hồi hoạt động kinh doanh theo quy định tại điểm a khoản 1 Điều 95 của Luật này thì việc tạm dừng trả lãi chấm dứt, các bên tiếp tục thực hiện việc trả lãi theo thỏa thuận.
 
----
+2. Đối với khoản nợ mới phát sinh sau khi mở thủ tục phá sản đến thời điểm tuyên bố doanh nghiệp, hợp tác xã phá sản thì tiền lãi của khoản nợ đó được xác định theo thỏa thuận nhưng không trái với quy định của pháp luật.
 
+3. Kể từ ngày ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản thì khoản nợ không được tiếp tục tính lãi.
 
-### Điều 37.2.LQ.53. Xử lý khoản nợ có bảo đảm
+Điều 37.2.LQ.53. Xử lý khoản nợ có bảo đảm
 
-*Nội dung chưa có sẵn*
+(Điều 53 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Chỉ mục:** 53
+1. Sau khi mở thủ tục phá sản, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đề xuất Thẩm phán về việc xử lý khoản nợ có bảo đảm đã được tạm đình chỉ theo quy định tại khoản 3 Điều 41 của Luật này, Thẩm phán xem xét và xử lý cụ thể như sau:
 
-**Mã phân cấp:** 3700200000000000400005300000000000000000
+a) Trường hợp tài sản bảo đảm được sử dụng để thực hiện thủ tục phục hồi kinh doanh thì việc xử lý đối với tài sản bảo đảm theo Nghị quyết của Hội nghị chủ nợ;
 
-**ID:** dk_00060634
+b) Trường hợp không thực hiện thủ tục phục hồi kinh doanh hoặc tài sản bảo đảm không cần thiết cho việc thực hiện thủ tục phục hồi kinh doanh thì xử lý theo thời hạn quy định trong hợp đồng đối với hợp đồng có bảo đảm đã đến hạn. Đối với hợp đồng có bảo đảm chưa đến hạn thì trước khi tuyên bố doanh nghiệp, hợp tác xã phá sản, Tòa án nhân dân đình chỉ hợp đồng và xử lý các khoản nợ có bảo đảm. Việc xử lý khoản nợ có bảo đảm theo quy định tại khoản 3 Điều này.
 
----
+2. Trường hợp tài sản bảo đảm có nguy cơ bị phá hủy hoặc bị giảm đáng kể về giá trị thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đề nghị Thẩm phán cho xử lý ngay tài sản bảo đảm đó theo quy định tại khoản 3 Điều này.
 
+3. Việc xử lý tài sản bảo đảm theo quy định tại điểm b khoản 1 và khoản 2 Điều này được thực hiện như sau:
 
-### Điều 37.2.LQ.54. Thứ tự phân chia tài sản
+a) Đối với khoản nợ có bảo đảm được xác lập trước khi Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản được thanh toán bằng tài sản bảo đảm đó;
 
-*Nội dung chưa có sẵn*
+b) Trường hợp giá trị tài sản bảo đảm không đủ thanh toán số nợ thì phần nợ còn lại sẽ được thanh toán trong quá trình thanh lý tài sản của doanh nghiệp, hợp tác xã; nếu giá trị tài sản bảo đảm lớn hơn số nợ thì phần chênh lệch được nhập vào giá trị tài sản của doanh nghiệp, hợp tác xã.
 
-**Chỉ mục:** 54
+Điều 37.2.LQ.54. Thứ tự phân chia tài sản
 
-**Mã phân cấp:** 3700200000000000400005400000000000000000
+(Điều 54 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**ID:** dk_00060635
+1. Trường hợp Thẩm phán ra quyết định tuyên bố phá sản thì tài sản của doanh nghiệp, hợp tác xã được phân chia theo thứ tự sau:
 
----
+a) Chi phí phá sản;
 
+b) Khoản nợ lương, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế đối với người lao động, quyền lợi khác theo hợp đồng lao động và thoả ước lao động tập thể đã ký kết;
 
-### Điều 37.2.LQ.55. Nghĩa vụ về tài sản trong trường hợp nghĩa vụ liên đới hoặc bảo lãnh
+c) Khoản nợ phát sinh sau khi mở thủ tục phá sản nhằm mục đích phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã;
+
+d) Nghĩa vụ tài chính đối với Nhà nước; khoản nợ không có bảo đảm phải trả cho chủ nợ trong danh sách chủ nợ; khoản nợ có bảo đảm chưa được thanh toán do giá trị tài sản bảo đảm không đủ thanh toán nợ.
+
+2. Trường hợp giá trị tài sản của doanh nghiệp, hợp tác xã sau khi đã thanh toán đủ các khoản quy định tại khoản 1 Điều này mà vẫn còn thì phần còn lại này thuộc về:
+
+a) Thành viên hợp tác xã, hợp tác xã thành viên;
+
+b) Chủ doanh nghiệp tư nhân;
+
+c) Chủ sở hữu công ty trách nhiệm hữu hạn một thành viên;
+
+d) Thành viên của công ty trách nhiệm hữu hạn hai thành viên trở lên, cổ đông của công ty cổ phần;
+
+đ) Thành viên của Công ty hợp danh.
+
+3. Nếu giá trị tài sản không đủ để thanh toán theo quy định tại khoản 1 Điều này thì từng đối tượng cùng một thứ tự ưu tiên được thanh toán theo tỷ lệ phần trăm tương ứng với số nợ.
+
+(Điều này có nội dung liên quan đến Điều 30.2.LQ.47. Thanh toán tiền, trả tài sản thi hành án)
 
 Điều 37.2.LQ.55. Nghĩa vụ về tài sản trong trường hợp nghĩa vụ liên đới hoặc bảo lãnh
 
-**Chỉ mục:** 55
+(Điều 55 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000400005500000000000000000
+1. Trường hợp nhiều doanh nghiệp, hợp tác xã có nghĩa vụ liên đới về một khoản nợ mà một hoặc tất cả các doanh nghiệp, hợp tác xã đó mất khả năng thanh toán thì chủ nợ có quyền đòi bất cứ doanh nghiệp, hợp tác xã nào trong số các doanh nghiệp, hợp tác xã đó thực hiện việc trả nợ cho mình theo quy định của pháp luật.
 
-**ID:** dk_00060636
+2. Trường hợp người bảo lãnh mất khả năng thanh toán thì việc bảo lãnh được giải quyết như sau:
 
----
+a) Nếu nghĩa vụ bảo lãnh phát sinh thì bên bảo lãnh phải thực hiện nghĩa vụ bảo lãnh. Trường hợp bên bảo lãnh không thanh toán đầy đủ trong phạm vi bảo lãnh thì bên nhận bảo lãnh có quyền yêu cầu bên được bảo lãnh thanh toán phần còn thiếu;
 
+b) Nếu nghĩa vụ bảo lãnh chưa phát sinh thì bên được bảo lãnh phải thay thế biện pháp bảo đảm khác, trừ trường hợp người được bảo lãnh và người nhận bảo lãnh có thỏa thuận khác.
 
-### Điều 37.2.LQ.56. Trả lại tài sản thuê hoặc mượn khi doanh nghiệp, hợp tác xã bị tuyên bố phá sản
+3. Trường hợp người được bảo lãnh hoặc cả người bảo lãnh và người được bảo lãnh đều mất khả năng thanh toán thì người bảo lãnh phải chịu trách nhiệm thay cho người được bảo lãnh theo quy định của pháp luật.
 
 Điều 37.2.LQ.56. Trả lại tài sản thuê hoặc mượn khi doanh nghiệp, hợp tác xã bị tuyên bố phá sản
 
-**Chỉ mục:** 56
+(Điều 56 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000400005600000000000000000
+1. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được quyết định tuyên bố phá sản, chủ sở hữu tài sản cho doanh nghiệp, hợp tác xã thuê hoặc mượn để dùng vào hoạt động kinh doanh phải xuất trình giấy tờ chứng minh quyền sở hữu, hợp đồng cho thuê hoặc cho mượn với cơ quan thi hành án dân sự để nhận lại tài sản của mình.
 
-**ID:** dk_00060637
+2. Trường hợp doanh nghiệp, hợp tác xã bị tuyên bố phá sản đã trả trước tiền thuê nhưng chưa hết thời hạn thuê thì người cho thuê chỉ được nhận lại tài sản sau khi đã thanh toán số tiền thuê tương ứng với thời gian thuê còn lại để cơ quan thi hành án dân sự nhập vào khối tài sản của doanh nghiệp, hợp tác xã đó.
 
----
+3. Trường hợp doanh nghiệp, hợp tác xã bị tuyên bố phá sản đã chuyển nhượng tài sản thuê hoặc mượn cho người khác mà không đòi lại được thì người cho thuê hoặc cho mượn có quyền yêu cầu bồi thường đối với tài sản đó như khoản nợ không có bảo đảm.
 
+Điều 37.2.LQ.57. Trả lại tài sản nhận bảo đảm
 
-### Điều 37.2.LQ.57. Trả lại tài sản nhận bảo đảm
+(Điều 57 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+Doanh nghiệp, hợp tác xã mất khả năng thanh toán chỉ trả lại tài sản nhận bảo đảm cho cá nhân, tổ chức đã giao tài sản cho doanh nghiệp, hợp tác xã để bảo đảm thực hiện nghĩa vụ của mình đối với doanh nghiệp, hợp tác xã trước khi Tòa án nhân dân mở thủ tục phá sản trong trường hợp cá nhân, tổ chức đó đã thực hiện nghĩa vụ đối với doanh nghiệp, hợp tác xã.
 
-**Chỉ mục:** 57
+Điều 37.2.LQ.58. Nhận lại hàng hoá đã bán
 
-**Mã phân cấp:** 3700200000000000400005700000000000000000
+(Điều 58 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**ID:** dk_00060638
+Người bán đã gửi hàng hóa cho người mua là doanh nghiệp, hợp tác xã mất khả năng thanh toán nhưng chưa được thanh toán và người mua cũng chưa nhận được hàng hóa thì người bán được nhận lại hàng hoá đó. Nếu doanh nghiệp, hợp tác xã mất khả năng thanh toán đã nhận hàng hóa đó và không thể trả lại được thì người bán trở thành chủ nợ không có bảo đảm.
 
----
+Chương V
 
+CÁC BIỆN PHÁP BẢO TOÀN TÀI SẢN
 
-### Điều 37.2.LQ.58. Nhận lại hàng hoá đã bán
+Điều 37.2.LQ.59. Giao dịch bị coi là vô hiệu
 
-*Nội dung chưa có sẵn*
+(Điều 59 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Chỉ mục:** 58
+1. Giao dịch của doanh nghiệp, hợp tác xã mất khả năng thanh toán được thực hiện trong thời gian 06 tháng trước ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản bị coi là vô hiệu nếu thuộc một trong các trường hợp sau:
 
-**Mã phân cấp:** 3700200000000000400005800000000000000000
+a) Giao dịch liên quan đến chuyển nhượng tài sản không theo giá thị trường;
 
-**ID:** dk_00060639
+b) Chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bằng tài sản của doanh nghiệp, hợp tác xã;
 
----
+c) Thanh toán hoặc bù trừ có lợi cho một chủ nợ đối với khoản nợ chưa đến hạn hoặc với số tiền lớn hơn khoản nợ đến hạn;
 
+d) Tặng cho tài sản;
 
-### Điều 37.2.LQ.59. Giao dịch bị coi là vô hiệu
+đ) Giao dịch ngoài mục đích hoạt động kinh doanh của doanh nghiệp, hợp tác xã;
 
-*Nội dung chưa có sẵn*
+e) Giao dịch khác với mục đích tẩu tán tài sản của doanh nghiệp, hợp tác xã.
 
-**Chỉ mục:** 59
+2. Giao dịch của doanh nghiệp, hợp tác xã mất khả năng thanh toán quy định tại khoản 1 Điều này được thực hiện với những người liên quan trong thời gian 18 tháng trước ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản thì bị coi là vô hiệu.
 
-**Mã phân cấp:** 3700200000000000500005900000000000000000
+3. Những người liên quan quy định tại khoản 2 Điều này bao gồm:
 
-**ID:** dk_00060641
+a) Công ty mẹ, người quản lý công ty mẹ và người có thẩm quyền bổ nhiệm người quản lý đối với công ty con;
 
----
+b) Công ty con đối với công ty mẹ; doanh nghiệp do hợp tác xã thành lập đối với hợp tác xã;
 
+c) Người hoặc nhóm người có khả năng chi phối việc ra quyết định của cơ quan quản lý doanh nghiệp, hợp tác xã đối với hoạt động của doanh nghiệp, hợp tác xã đó;
 
-### Điều 37.2.LQ.60. Tuyên bố giao dịch vô hiệu
+d) Người quản lý doanh nghiệp, hợp tác xã đối với doanh nghiệp, hợp tác xã;
 
-*Nội dung chưa có sẵn*
+đ) Vợ, chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh, chị, em ruột của người quản lý doanh nghiệp, hợp tác xã hoặc của thành viên, cổ đông sở hữu phần vốn góp hay cổ phần chi phối;
 
-**Chỉ mục:** 60
+e) Cá nhân được uỷ quyền đại diện cho những người quy định tại các điểm a, b, c, d và đ khoản này;
 
-**Mã phân cấp:** 3700200000000000500006000000000000000000
+g) Doanh nghiệp trong đó những người quy định tại các điểm a, b, c, d, đ, e và h khoản này có sở hữu đến mức chi phối việc ra quyết định của cơ quan quản lý ở doanh nghiệp đó;
 
-**ID:** dk_00060642
+h) Nhóm người thoả thuận cùng phối hợp để thâu tóm phần vốn góp, cổ phần hoặc lợi ích ở công ty hoặc để chi phối việc ra quyết định của công ty.
 
----
+4. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có trách nhiệm xem xét giao dịch của doanh nghiệp, hợp tác xã mất khả năng thanh toán, nếu phát hiện giao dịch quy định tại khoản 1 và khoản 2 Điều này thì đề nghị Tòa án nhân dân xem xét tuyên bố giao dịch vô hiệu.
 
+(Điều này có nội dung liên quan đến Điều 37.2.NQ.1.3. Về vụ việc phá sản có tính chất phức tạp theo quy định tại điểm d khoản 1 Điều 8 của Luật phá sản và thẩm quyền giải quyết)
 
-### Điều 37.2.LQ.61. Tạm đình chỉ, đình chỉ thực hiện hợp đồng đang có hiệu lực
+Điều 37.2.LQ.60. Tuyên bố giao dịch vô hiệu
+
+(Điều 60 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
+
+1. Trong thời hạn 10 ngày làm việc kể từ ngày Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản yêu cầu tuyên bố giao dịch vô hiệu hoặc Tòa án nhân dân phát hiện giao dịch quy định tại khoản 1 và khoản 2 Điều 59 của Luật này thì Tòa án nhân dân ra một trong các quyết định sau:
+
+a) Không chấp nhận yêu cầu của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản;
+
+b) Tuyên bố giao dịch vô hiệu, hủy bỏ các biện pháp bảo đảm và giải quyết hậu quả của giao dịch vô hiệu theo quy định của pháp luật.
+
+2. Quyết định tuyên bố giao dịch vô hiệu có hiệu lực thi hành kể từ ngày ra quyết định.
+
+3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định tuyên bố giao dịch vô hiệu, doanh nghiệp, hợp tác xã mất khả năng thanh toán, bên giao kết với doanh nghiệp, hợp tác xã có quyền làm đơn đề nghị Chánh án Tòa án nhân dân xem xét lại quyết định tuyên bố giao dịch vô hiệu.
+
+4. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được đơn đề nghị xem xét lại quyết định tuyên bố giao dịch vô hiệu, Chánh án Tòa án nhân dân đã ra quyết định tuyên bố giao dịch vô hiệu phải ra một trong các quyết định sau:
+
+a) Không chấp nhận đề nghị xem xét lại quyết định tuyên bố giao dịch vô hiệu;
+
+b) Hủy bỏ quyết định tuyên bố giao dịch vô hiệu. Trường hợp có tranh chấp thì được giải quyết theo quy định tại Chương X của Luật này.
+
+5. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được quyết định quy định tại điểm b khoản 1 Điều này, cơ quan thi hành án dân sự có trách nhiệm chủ động tổ chức thi hành quyết định theo quy định của pháp luật về thi hành án dân sự.
 
 Điều 37.2.LQ.61. Tạm đình chỉ, đình chỉ thực hiện hợp đồng đang có hiệu lực
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500006100000000000000000
+1. Trong thời hạn 05 ngày làm việc kể từ ngày Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản, nếu xét thấy việc thực hiện hợp đồng đang có hiệu lực và đang được thực hiện hoặc chưa được thực hiện sẽ có khả năng gây bất lợi cho doanh nghiệp, hợp tác xã thì chủ nợ, doanh nghiệp, hợp tác xã mất khả năng thanh toán có quyền yêu cầu Tòa án nhân dân ra quyết định tạm đình chỉ thực hiện hợp đồng, trừ trường hợp xử lý các khoản nợ có bảo đảm theo quy định tại Điều 53 của Luật này.
 
-**ID:** dk_00060643
+2. Văn bản yêu cầu Tòa án nhân dân ra quyết định tạm đình chỉ thực hiện hợp đồng quy định tại khoản 1 Điều này phải có nội dung chủ yếu sau:
 
----
+a) Ngày, tháng, năm;
 
+b) Tên, địa chỉ của người có yêu cầu;
 
-### Điều 37.2.LQ.62. Thanh toán, bồi thường thiệt hại khi hợp đồng bị đình chỉ thực hiện
+c) Số, tên hợp đồng; ngày, tháng, năm giao kết hợp đồng;
+
+d) Bên giao kết với doanh nghiệp, hợp tác xã trong hợp đồng;
+
+đ) Nội dung cụ thể của hợp đồng;
+
+e) Căn cứ của việc yêu cầu tạm đình chỉ thực hiện hợp đồng.
+
+3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản yêu cầu, nếu chấp nhận thì Tòa án nhân dân ra quyết định tạm đình chỉ thực hiện hợp đồng; nếu không chấp nhận thì thông báo bằng văn bản cho người yêu cầu biết.
+
+4. Trong thời hạn 05 ngày làm việc kể từ ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản, Tòa án nhân dân phải xem xét các hợp đồng bị tạm đình chỉ quy định tại khoản 1 Điều này để ra một trong các quyết định sau:
+
+a) Tiếp tục thực hiện hợp đồng nếu việc thực hiện hợp đồng đang có hiệu lực và đang được thực hiện hoặc nếu được thực hiện sẽ không gây bất lợi cho doanh nghiệp, hợp tác xã;
+
+b) Đình chỉ thực hiện hợp đồng và giải quyết hậu quả theo quy định tại Điều 62 của Luật này.
+
+5. Trường hợp Tòa án nhân dân quyết định không mở thủ tục phá sản thì Tòa án nhân dân đã quyết định tạm đình chỉ thực hiện hợp đồng theo quy định tại khoản 1 Điều này quyết định hủy bỏ quyết định tạm đình chỉ.
 
 Điều 37.2.LQ.62. Thanh toán, bồi thường thiệt hại khi hợp đồng bị đình chỉ thực hiện
 
-**Chỉ mục:** 62
+(Điều 62 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500006200000000000000000
+1. Khi hợp đồng bị đình chỉ thực hiện, nếu tài sản mà doanh nghiệp, hợp tác xã mất khả năng thanh toán nhận được từ hợp đồng vẫn còn tồn tại trong khối tài sản của doanh nghiệp, hợp tác xã thì bên giao kết hợp đồng với doanh nghiệp, hợp tác xã có quyền đòi lại tài sản và thanh toán số tiền đã nhận của doanh nghiệp, hợp tác xã; nếu tài sản đó không còn thì bên giao kết có quyền như một chủ nợ không có bảo đảm đối với phần chưa được thanh toán.
 
-**ID:** dk_00060644
+2. Trường hợp việc đình chỉ thực hiện hợp đồng gây thiệt hại cho bên giao kết hợp đồng với doanh nghiệp, hợp tác xã thì bên giao kết có quyền như một chủ nợ không có bảo đảm đối với khoản thiệt hại.
 
----
+Điều 37.2.LQ.63. Bù trừ nghĩa vụ
 
+(Điều 63 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 37.2.LQ.63. Bù trừ nghĩa vụ
+1. Sau khi Tòa án nhân dân có quyết định mở thủ tục phá sản, chủ nợ và doanh nghiệp, hợp tác xã mất khả năng thanh toán được thực hiện việc bù trừ nghĩa vụ đối với hợp đồng được xác lập trước khi có quyết định mở thủ tục phá sản.
 
-*Nội dung chưa có sẵn*
+2. Việc thực hiện bù trừ nghĩa vụ theo quy định tại khoản 1 Điều này phải được sự đồng ý của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản báo cáo Thẩm phán về việc thực hiện bù trừ nghĩa vụ.
 
-**Chỉ mục:** 63
+3. Phương pháp bù trừ nghĩa vụ:
 
-**Mã phân cấp:** 3700200000000000500006300000000000000000
+a) Trường hợp các bên có nghĩa vụ về tài sản tương đương với nhau thì không phải thực hiện nghĩa vụ đối với nhau và nghĩa vụ được xem là chấm dứt, trừ trường hợp pháp luật có quy định khác;
 
-**ID:** dk_00060645
+b) Trường hợp các bên có nghĩa vụ về tài sản không tương đương với nhau mà phần chênh lệch giá trị tài sản lớn hơn thuộc về doanh nghiệp, hợp tác xã thì bên giao kết hợp đồng với doanh nghiệp, hợp tác xã phải thanh toán phần giá trị tài sản chênh lệch để gộp vào khối tài sản của doanh nghiệp, hợp tác xã;
 
----
-
-
-### Điều 37.2.LQ.64. Tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+c) Trường hợp các bên có nghĩa vụ về tài sản không tương đương với nhau mà phần chênh lệch giá trị tài sản lớn hơn thuộc về bên giao kết hợp đồng với doanh nghiệp, hợp tác xã thì bên giao kết hợp đồng với doanh nghiệp, hợp tác xã trở thành chủ nợ không có bảo đảm đối với phần giá trị tài sản chênh lệch.
 
 Điều 37.2.LQ.64. Tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500006400000000000000000
+1. Tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán gồm:
 
-**ID:** dk_00060646
+a) Tài sản và quyền tài sản mà doanh nghiệp, hợp tác xã có tại thời điểm Tòa án nhân dân quyết định mở thủ tục phá sản;
 
----
+b) Tài sản và quyền tài sản có được sau ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản;
 
+c) Giá trị của tài sản bảo đảm vượt quá khoản nợ có bảo đảm mà doanh nghiệp, hợp tác xã phải thanh toán cho chủ nợ có bảo đảm;
 
-### Điều 37.2.LQ.65. Kiểm kê tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+d) Giá trị quyền sử dụng đất của doanh nghiệp, hợp tác xã được xác định theo quy định của pháp luật về đất đai;
+
+đ) Tài sản thu hồi từ hành vi cất giấu, tẩu tán tài sản của doanh nghiệp, hợp tác xã;
+
+e) Tài sản và quyền tài sản có được do thu hồi từ giao dịch vô hiệu;
+
+g) Các tài sản khác theo quy định của pháp luật.
+
+2. Tài sản của doanh nghiệp tư nhân, công ty hợp danh mất khả năng thanh toán gồm:
+
+a) Tài sản quy định tại khoản 1 Điều này;
+
+b) Tài sản của chủ doanh nghiệp tư nhân, thành viên hợp danh không trực tiếp dùng vào hoạt động kinh doanh; trường hợp chủ doanh nghiệp tư nhân, thành viên hợp danh có tài sản thuộc sở hữu chung thì phần tài sản của chủ doanh nghiệp tư nhân, thành viên hợp danh đó được chia theo quy định của pháp luật về dân sự và quy định của pháp luật có liên quan.
+
+3. Trường hợp hợp tác xã bị tuyên bố phá sản thì việc xử lý tài sản không chia được thực hiện theo quy định của pháp luật về hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản)
 
 Điều 37.2.LQ.65. Kiểm kê tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
 
-**Chỉ mục:** 65
+(Điều 65 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500006500000000000000000
+1. Trong thời hạn 30 ngày kể từ ngày nhận được quyết định mở thủ tục phá sản, doanh nghiệp, hợp tác xã mất khả năng thanh toán phải tiến hành kiểm kê tài sản và xác định giá trị tài sản đó; trong trường hợp cần thiết thì phải có văn bản đề nghị Thẩm phán gia hạn, nhưng không quá hai lần, mỗi lần không quá 30 ngày. Việc xác định giá trị tài sản của doanh nghiệp, hợp tác xã phải được thực hiện theo quy định của pháp luật.
 
-**ID:** dk_00060647
+2. Trường hợp đại diện hợp pháp của doanh nghiệp, hợp tác xã vắng mặt thì người được Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản chỉ định làm đại diện của doanh nghiệp, hợp tác xã thực hiện công việc kiểm kê và xác định giá trị tài sản của doanh nghiệp, hợp tác xã.
 
----
+3. Bảng kiểm kê tài sản đã được xác định giá trị phải gửi ngay cho Tòa án nhân dân tiến hành thủ tục phá sản.
 
+4. Trường hợp xét thấy việc kiểm kê, xác định giá trị tài sản của doanh nghiệp, hợp tác xã quy định tại khoản 1 Điều này là không chính xác thì Tòa án nhân dân yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản tổ chức kiểm kê, xác định lại giá trị một phần hoặc toàn bộ tài sản của doanh nghiệp, hợp tác xã. Giá trị tài sản được xác định, định giá theo giá thị trường tại thời điểm kiểm kê.
 
-### Điều 37.2.LQ.66. Gửi giấy đòi nợ
+5. Trường hợp đại diện doanh nghiệp, hợp tác xã và những người khác không hợp tác về việc kiểm kê tài sản hoặc cố tình làm sai lệch việc kiểm kê tài sản thì bị xử lý theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản)
 
-**Chỉ mục:** 66
+Điều 37.2.LQ.66. Gửi giấy đòi nợ
 
-**Mã phân cấp:** 3700200000000000500006600000000000000000
+(Điều 66 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**ID:** dk_00060648
+1. Trong thời hạn 30 ngày kể từ ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản, chủ nợ phải gửi giấy đòi nợ cho Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
----
+2. Giấy đòi nợ phải có các nội dung sau:
 
+a) Tên, địa chỉ, quốc tịch, căn cước của chủ nợ hoặc đại diện chủ nợ;
 
-### Điều 37.2.LQ.67. Lập danh sách chủ nợ
+b) Tổng số nợ phải trả, bao gồm khoản nợ, số nợ đến hạn và khoản tiền lãi đến hạn nhưng chưa thanh toán; số nợ chưa đến hạn; số nợ có bảo đảm và phương thức bảo đảm; số nợ không có bảo đảm mà doanh nghiệp, hợp tác xã phải trả; khoản tiền bồi thường theo hợp đồng (nếu có).
 
-*Nội dung chưa có sẵn*
+3. Kèm theo giấy đòi nợ là tài liệu, chứng cứ chứng minh về khoản nợ đó. Giấy đòi nợ phải do chủ nợ hoặc người đại diện hợp pháp của chủ nợ ký tên.
 
-**Chỉ mục:** 67
+4. Trường hợp bất khả kháng hoặc có trở ngại khách quan thì thời gian có sự kiện bất khả kháng hoặc có trở ngại khách quan không tính vào thời hạn quy định tại khoản 1 Điều này.
 
-**Mã phân cấp:** 3700200000000000500006700000000000000000
+(Điều này có nội dung liên quan đến Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản)
 
-**ID:** dk_00060649
+Điều 37.2.LQ.67. Lập danh sách chủ nợ
 
----
+(Điều 67 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+1. Trong thời hạn 15 ngày kể từ ngày hết hạn gửi giấy đòi nợ, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải lập danh sách chủ nợ, thu thập tài liệu liên quan đến khoản nợ và niêm yết công khai danh sách chủ nợ. Danh sách chủ nợ phải ghi rõ tên, địa chỉ, quốc tịch, căn cước của chủ nợ hoặc đại diện chủ nợ, số nợ của mỗi chủ nợ, trong đó phân định rõ khoản nợ có bảo đảm, nợ không có bảo đảm, nợ đến hạn, nợ chưa đến hạn.
 
-### Điều 37.2.LQ.68. Lập danh sách người mắc nợ
+2. Danh sách chủ nợ phải được niêm yết công khai tại trụ sở Tòa án nhân dân tiến hành thủ tục phá sản, trụ sở chính của doanh nghiệp, hợp tác xã và đăng trên Cổng thông tin đăng ký doanh nghiệp, Cổng thông tin điện tử của Tòa án nhân dân và phải gửi cho chủ nợ đã gửi giấy đòi nợ trong 10 ngày làm việc kể từ ngày niêm yết.
 
-*Nội dung chưa có sẵn*
+3. Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thời hạn niêm yết, chủ nợ và doanh nghiệp, hợp tác xã mất khả năng thanh toán có quyền đề nghị Thẩm phán xem xét lại danh sách chủ nợ. Trường hợp bất khả kháng hoặc có trở ngại khách quan thì thời gian có sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn quy định tại khoản này.
 
-**Chỉ mục:** 68
+4. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn đề nghị xem xét lại, Thẩm phán phải xem xét, giải quyết đề nghị, nếu thấy đề nghị có căn cứ thì sửa đổi, bổ sung vào danh sách chủ nợ.
 
-**Mã phân cấp:** 3700200000000000500006800000000000000000
+(Điều này có nội dung liên quan đến Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản)
 
-**ID:** dk_00060650
+Điều 37.2.LQ.68. Lập danh sách người mắc nợ
 
----
+(Điều 68 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+1. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải lập danh sách những người mắc nợ doanh nghiệp, hợp tác xã mất khả năng thanh toán. Danh sách người mắc nợ phải ghi rõ tên, địa chỉ, quốc tịch, căn cước của người mắc nợ hoặc đại diện người mắc nợ, số nợ của mỗi người mắc nợ, trong đó phân định rõ khoản nợ có bảo đảm, nợ không có bảo đảm, nợ đến hạn, nợ chưa đến hạn.
 
-### Điều 37.2.LQ.69. Đăng ký giao dịch bảo đảm của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+2. Trong thời hạn 45 ngày kể từ ngày ra quyết định mở thủ tục phá sản, danh sách người mắc nợ phải được niêm yết công khai tại trụ sở Tòa án nhân dân tiến hành thủ tục phá sản, trụ sở chính của doanh nghiệp, hợp tác xã và phải gửi cho người mắc nợ trong 10 ngày làm việc kể từ ngày niêm yết.
+
+3. Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thời hạn niêm yết, người mắc nợ và doanh nghiệp, hợp tác xã mất khả năng thanh toán có quyền đề nghị Thẩm phán xem xét lại danh sách người mắc nợ.
+
+4. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị xem xét lại, Thẩm phán phải xem xét, giải quyết đề nghị, nếu thấy đề nghị có căn cứ thì sửa đổi, bổ sung vào danh sách người mắc nợ.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản)
 
 Điều 37.2.LQ.69. Đăng ký giao dịch bảo đảm của doanh nghiệp, hợp tác xã mất khả năng thanh toán
 
-**Chỉ mục:** 69
+(Điều 69 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500006900000000000000000
-
-**ID:** dk_00060651
-
----
-
-
-### Điều 37.2.LQ.70. Áp dụng biện pháp khẩn cấp tạm thời
+Doanh nghiệp, hợp tác xã mất khả năng thanh toán cho người khác vay tài sản mà theo quy định của pháp luật phải đăng ký giao dịch bảo đảm nhưng chưa đăng ký thì doanh nghiệp, hợp tác xã phải thực hiện ngay việc đăng ký; trường hợp doanh nghiệp, hợp tác xã không thực hiện thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải thực hiện việc đăng ký giao dịch bảo đảm.
 
 Điều 37.2.LQ.70. Áp dụng biện pháp khẩn cấp tạm thời
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500007000000000000000000
+1. Trong quá trình giải quyết yêu cầu mở thủ tục phá sản, người có quyền, nghĩa vụ nộp đơn theo quy định tại Điều 5 của Luật này, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền yêu cầu Tòa án nhân dân có thẩm quyền tiến hành thủ tục phá sản ra quyết định áp dụng một hoặc một số biện pháp khẩn cấp tạm thời để bảo toàn tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán, bảo đảm quyền, lợi ích hợp pháp của người lao động sau đây:
 
-**ID:** dk_00060652
+a) Cho bán hàng hoá dễ bị hư hỏng, hàng hoá sắp hết thời hạn sử dụng, hàng hoá không bán đúng thời điểm sẽ khó có khả năng tiêu thụ; cho thu hoạch, cho bán hoa màu hoặc sản phẩm, hàng hoá khác;
 
----
+b) Kê biên, niêm phong tài sản của doanh nghiệp, hợp tác xã;
 
+c) Phong toả tài khoản của doanh nghiệp, hợp tác xã tại ngân hàng; phong tỏa tài sản ở nơi gửi giữ;
 
-### Điều 37.2.NQ.1.5. Về biện pháp khẩn cấp tạm thời quy định tại Điều 70 của Luật phá sản
+d) Niêm phong kho, quỹ, thu giữ và quản lý sổ kế toán, tài liệu liên quan của doanh nghiệp, hợp tác xã;
+
+đ) Cấm chuyển dịch quyền về tài sản đối với tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán;
+
+e) Cấm thay đổi hiện trạng đối với tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán;
+
+g) Cấm hoặc buộc doanh nghiệp, hợp tác xã, cá nhân, tổ chức khác có liên quan thực hiện một số hành vi nhất định;
+
+h) Buộc người sử dụng lao động tạm ứng tiền lương, tiền công, tiền bồi thường, trợ cấp tai nạn lao động hoặc bệnh nghề nghiệp cho người lao động;
+
+i) Các biện pháp khẩn cấp tạm thời khác theo quy định của pháp luật.
+
+2. Người yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải có văn bản yêu cầu gửi đến Tòa án nhân dân có thẩm quyền. Văn bản yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải có các nội dung chủ yếu sau:
+
+a) Ngày, tháng, năm;
+
+b) Tên, địa chỉ của người có yêu cầu áp dụng biện pháp khẩn cấp tạm thời;
+
+c) Tên, địa chỉ của người bị yêu cầu áp dụng biện pháp khẩn cấp tạm thời;
+
+d) Lý do cần phải áp dụng biện pháp khẩn cấp tạm thời;
+
+đ) Biện pháp khẩn cấp tạm thời cần được áp dụng và các yêu cầu cụ thể.
+
+Tùy theo yêu cầu áp dụng biện pháp khẩn cấp tạm thời mà người yêu cầu phải cung cấp cho Tòa án nhân dân chứng cứ để chứng minh cho sự cần thiết phải áp dụng biện pháp khẩn cấp tạm thời đó.
+
+3. Thủ tục áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời, giải quyết đề nghị xem xét lại việc áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời và thi hành quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời thực hiện theo quy định của Luật này, pháp luật về tố tụng dân sự và pháp luật về thi hành án dân sự.
+
+4. Tòa án nhân dân tối cao hướng dẫn thi hành Điều này.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NQ.1.1. Phạm vi điều chỉnh; Điều 37.2.NQ.1.5. Về biện pháp khẩn cấp tạm thời quy định tại Điều 70 của Luật phá sản)
 
 Điều 37.2.NQ.1.5. Về biện pháp khẩn cấp tạm thời quy định tại Điều 70 của Luật phá sản
 
-**Chỉ mục:** 5
+(Điều 5 Nghị quyết số 03/2016/NQ-HĐTP, có hiệu lực thi hành kể từ ngày 26/08/2016)
 
-**Mã phân cấp:** 370020000000000050000700000000000000000000602592600030000500
+ 1. Trong quá trình giải quyết yêu cầu mở thủ tục phá sản, người có quyền, nghĩa vụ nộp đơn theo quy định tại Điều 5 của Luật phá sản, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền yêu cầu Tòa án nhân dân có thẩm quyền giải quyết phá sản ra quyết định áp dụng một hoặc một số biện pháp khẩn cấp tạm thời quy định tại khoản 1 Điều 70 của Luật phá sản để bảo toàn tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán; bảo đảm quyền, lợi ích hợp pháp của người lao động; bảo đảm cho việc giải quyết vụ việc phá sản.
 
-**ID:** dk_00060653
+ Trường hợp do tình thế khẩn cấp, để ngăn chặn hậu quả nghiêm trọng có thể xảy ra thì việc áp dụng biện pháp khẩn cấp tạm thời có thể tiến hành đồng thời với việc nộp đơn yêu cầu mở thủ tục phá sản.
 
----
+ 2. Các biện pháp khẩn cấp tạm thời được áp dụng như sau:
 
+ a) Quyết định cho bán hàng hóa dễ bị hư hỏng, hàng hóa sắp hết thời hạn sử dụng, hàng hóa không bán đúng thời điểm sẽ khó có khả năng tiêu thụ khi hàng hóa là thực phẩm tươi sống, dễ bị phân hủy, khó bảo quản; hàng hóa dễ cháy, nổ (xăng, dầu, khí hóa lỏng và các chất dễ cháy, nổ khác); thuốc chữa bệnh, thuốc thú y, thuốc bảo vệ thực vật mà hạn sử dụng còn dưới 60 ngày; thực phẩm đã qua chế biến và các loại hàng hóa khác mà hạn sử dụng còn dưới 30 ngày; hàng hóa có tính chất thời vụ (hàng tiêu dùng theo mùa, phục vụ lễ, tết), hàng điện tử cao cấp (các loại máy tính, điện thoại thông minh) và các loại hàng hóa, vật phẩm khác nếu không xử lý ngay sẽ bị hư hỏng, không bán được hoặc hết thời hạn sử dụng;
 
-### Điều 37.2.LQ.71. Xử lý việc tạm đình chỉ thi hành án dân sự, giải quyết vụ việc
+ b) Quyết định cho thu hoạch, cho bán hoa màu hoặc sản phẩm, hàng hóa khác khi hoa màu ở thời kỳ thu hoạch; sản phẩm, hàng hóa khác không thể bảo quản được lâu dài;
+
+ c) Kê biên tài sản của doanh nghiệp, hợp tác xã khi có căn cứ cho thấy có hành vi tẩu tán, hủy hoại tài sản hoặc tài sản có khả năng bị mất mát hoặc mất giá trị. Trường hợp tài sản bị kê biên cần được giữ nguyên trạng, đầy đủ, bí mật thì biện pháp kê biên phải được tiến hành đồng thời với niêm phong.
+
+ Việc kê biên, niêm phong tài sản phải được lập biên bản và giao trách nhiệm quản lý tài sản cho doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản; Quản tài viên; doanh nghiệp quản lý, thanh lý tài sản; người đang chiếm hữu, sử dụng tài sản hợp pháp hoặc được thu giữ, bảo quản tại cơ quan thi hành án dân sự có thẩm quyền (đối với trường hợp tài sản đang được bảo quản tại cơ quan thi hành án dân sự) cho đến khi có quyết định của Tòa án;
+
+ d) Quyết định phong tỏa tài khoản của doanh nghiệp, hợp tác xã tại ngân hàng khi doanh nghiệp, hợp tác xã có tài khoản tại ngân hàng, kho bạc Nhà nước, tổ chức tín dụng khác;
+
+ đ) Quyết định phong tỏa tài sản ở nơi gửi giữ khi doanh nghiệp, hợp tác xã có tài sản được gửi giữ bởi cá nhân, tổ chức khác;
+
+ e) Quyết định niêm phong kho, quỹ, thu giữ và quản lý sổ kế toán, tài liệu liên quan của doanh nghiệp, hợp tác xã khi cần thiết phải giữ nguyên trạng kho, quỹ, sổ kế toán, tài liệu đó;
+
+ g) Quyết định cấm chuyển dịch quyền về tài sản đối với tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán khi có căn cứ cho thấy có hành vi chuyển dịch quyền về tài sản đối với tài sản đó;
+
+ h) Quyết định cấm thay đổi hiện trạng đối với tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán khi có căn cứ cho thấy có hành vi tháo gỡ, lắp ghép hoặc có hành vi khác làm thay đổi hiện trạng tài sản đó dẫn đến việc làm giảm sút hoặc mất giá trị của tài sản;
+
+ i) Quyết định cấm hoặc buộc doanh nghiệp, hợp tác xã, cá nhân, tổ chức khác có liên quan thực hiện một số hành vi nhất định khi có căn cứ cho thấy việc thực hiện hoặc không thực hiện một hoặc một số hành vi nhất định của họ sẽ làm ảnh hưởng đến việc giải quyết vụ việc phá sản, quyền và lợi ích hợp pháp của người khác có liên quan;
+
+ k) Quyết định buộc người sử dụng lao động tạm ứng tiền lương, tiền công, tiền bồi thường, trợ cấp tai nạn lao động hoặc bệnh nghề nghiệp cho người lao động khi cần bảo vệ quyền, lợi ích hợp pháp của người lao động về tiền lương, tiền công, tiền bồi thường, trợ cấp tai nạn lao động hoặc bệnh nghề nghiệp theo quy định của pháp luật về lao động, pháp luật về an toàn, vệ sinh lao động;
+
+ l) Quyết định áp dụng biện pháp khẩn cấp tạm thời khác theo quy định của pháp luật khi biện pháp đó được quy định tại luật khác ngoài quy định tại các điểm a, b, c, d, đ, e, g và h khoản 1 Điều 70 của Luật phá sản.
+
+ 3. Thủ tục áp dụng, thay đổi, hủy bỏ, thi hành biện pháp khẩn cấp tạm thời; hiệu lực của quyết định áp dụng, thay đổi, huỷ bỏ biện pháp khẩn cấp tạm thời; khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị về quyết định áp dụng, thay đổi, huỷ bỏ hoặc không áp dụng, thay đổi, huỷ bỏ biện pháp khẩn cấp tạm thời được thực hiện theo quy định của Luật phá sản, pháp luật về tố tụng dân sự và pháp luật về thi hành án dân sự.
+
+ 4. Tòa án ra ngay quyết định hủy bỏ biện pháp khẩn cấp tạm thời khi thuộc một trong các trường hợp sau đây:
+
+ a) Căn cứ của việc áp dụng biện pháp khẩn cấp tạm thời không còn;
+
+ b) Tòa án ra quyết định không mở thủ tục phá sản;
+
+ c) Tòa án ra quyết định đình chỉ tiến hành thủ tục phá sản;
+
+ d) Tòa án ra quyết định đình chỉ thủ tục phục hồi kinh doanh theo quy định tại điểm a khoản 1 Điều 95 của Luật phá sản;
+
+ đ) Người yêu cầu áp dụng biện pháp khẩn cấp tạm thời đề nghị hủy bỏ;
+
+ e) Quyết định áp dụng biện pháp khẩn cấp tạm thời không đúng theo quy định của pháp luật.
+
+ 5. Trách nhiệm do áp dụng biện pháp khẩn cấp tạm thời không đúng:
+
+ a) Người yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời phải chịu trách nhiệm trước pháp luật về yêu cầu của mình; trường hợp yêu cầu áp dụng biện pháp khẩn cấp tạm thời không đúng mà gây thiệt hại cho người bị áp dụng biện pháp khẩn cấp tạm thời hoặc cho người thứ ba thì phải bồi thường theo quy định của pháp luật dân sự;
+
+ b) Tòa án áp dụng biện pháp khẩn cấp tạm thời không đúng mà gây thiệt hại cho người bị áp dụng biện pháp khẩn cấp tạm thời hoặc cho người thứ ba thì Tòa án phải bồi thường theo quy định tại khoản 2 và khoản 3 Điều 113 của Bộ luật tố tụng dân sự;
+
+ c) Cá nhân, cơ quan, tổ chức có hành vi vi phạm pháp luật trong quá trình áp dụng biện pháp khẩn cấp tạm thời thì bị xử lý trách nhiệm theo quy định tại Điều 129 của Luật phá sản.(Điều này có nội dung liên quan đến Điều 37.2.LQ.70. Áp dụng biện pháp khẩn cấp tạm thời)
 
 Điều 37.2.LQ.71. Xử lý việc tạm đình chỉ thi hành án dân sự, giải quyết vụ việc
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500007100000000000000000
+1. Trường hợp Tòa án nhân dân ra quyết định không mở thủ tục phá sản, Tòa án nhân dân, Trọng tài, cơ quan thi hành án dân sự đã ra quyết định tạm đình chỉ theo quy định tại Điều 41 của Luật này ban hành quyết định hủy bỏ quyết định tạm đình chỉ.
 
-**ID:** dk_00060654
+2. Trường hợp Tòa án nhân dân ra quyết định mở thủ tục phá sản, Tòa án nhân dân, Trọng tài, cơ quan thi hành án dân sự đã ra quyết định tạm đình chỉ theo quy định tại Điều 41 của Luật này phải ra quyết định đình chỉ và chuyển hồ sơ vụ việc cho Tòa án nhân dân đang tiến hành thủ tục phá sản để giải quyết.
 
----
-
-
-### Điều 37.2.LQ.72. Giải quyết việc đình chỉ thi hành án dân sự, giải quyết vụ việc
+3. Trường hợp Tòa án nhân dân ra quyết định đình chỉ tiến hành thủ tục phá sản theo quy định tại khoản 1 Điều 86 của Luật này và đình chỉ thủ tục phục hồi hoạt động kinh doanh quy định tại điểm a khoản 1 Điều 95 của Luật này thì Tòa án nhân dân, Trọng tài, cơ quan thi hành án dân sự ra quyết định hủy bỏ quyết định đình chỉ quy định tại khoản 2 Điều này và giải quyết theo quy định của pháp luật.
 
 Điều 37.2.LQ.72. Giải quyết việc đình chỉ thi hành án dân sự, giải quyết vụ việc
 
-**Chỉ mục:** 72
+(Điều 72 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500007200000000000000000
+1. Trường hợp đình chỉ thi hành án theo quy định tại khoản 2 Điều 71 của Luật này thì tùy từng trường hợp, Tòa án nhân dân đang tiến hành thủ tục phá sản xử lý như sau:
 
-**ID:** dk_00060655
+a) Trường hợp bản án, quyết định của Tòa án nhân dân đã có hiệu lực pháp luật và không có quyết định kê biên tài sản của doanh nghiệp, hợp tác xã để bảo đảm thi hành án thì người được thi hành án được thanh toán như một chủ nợ không có bảo đảm;
 
----
+b) Trường hợp bản án, quyết định của Tòa án nhân dân đã có hiệu lực pháp luật và có quyết định kê biên tài sản của doanh nghiệp, hợp tác xã để bảo đảm thi hành án thì người được thi hành án được thanh toán như một chủ nợ có bảo đảm.
 
+2. Trường hợp đình chỉ giải quyết vụ việc theo quy định tại khoản 2 Điều 71 của Luật này thì ngay sau khi nhận được hồ sơ vụ việc do Tòa án nhân dân ra quyết định đình chỉ việc giải quyết vụ việc chuyển đến, Tòa án nhân dân đang tiến hành thủ tục phá sản phải xem xét, quyết định nghĩa vụ tài sản mà doanh nghiệp, hợp tác xã mất khả năng thanh toán phải thực hiện hoặc nghĩa vụ tài sản mà đương sự khác phải thực hiện đối với doanh nghiệp, hợp tác xã như sau:
 
-### Điều 37.2.LQ.73. Nghĩa vụ của ngân hàng nơi doanh nghiệp, hợp tác xã có tài khoản
+a) Trường hợp doanh nghiệp, hợp tác xã mất khả năng thanh toán phải thực hiện nghĩa vụ về tài sản thì người được doanh nghiệp, hợp tác xã thực hiện nghĩa vụ về tài sản có quyền yêu cầu được thanh toán trong khối tài sản của doanh nghiệp, hợp tác xã như một chủ nợ;
+
+b) Trường hợp bên đương sự phải thực hiện nghĩa vụ về tài sản đối với doanh nghiệp, hợp tác xã mất khả năng thanh toán thì phải thanh toán cho doanh nghiệp, hợp tác xã giá trị tương ứng với nghĩa vụ tài sản đó.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.27. Khiếu nại, tố cáo)
 
 Điều 37.2.LQ.73. Nghĩa vụ của ngân hàng nơi doanh nghiệp, hợp tác xã có tài khoản
 
-**Chỉ mục:** 73
+(Điều 73 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000500007300000000000000000
+Kể từ ngày Tòa án nhân dân ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản, nghiêm cấm ngân hàng mà doanh nghiệp, hợp tác xã bị tuyên bố phá sản có tài khoản thực hiện việc thanh toán các khoản nợ của doanh nghiệp, hợp tác xã bị tuyên bố phá sản, trừ trường hợp có sự đồng ý bằng văn bản của Tòa án nhân dân hoặc cơ quan thi hành án dân sự.
 
-**ID:** dk_00060656
+Điều 37.2.LQ.74. Nghĩa vụ của người lao động
 
----
+(Điều 74 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+Kể từ ngày Tòa án nhân dân quyết định mở thủ tục phá sản, người lao động có nghĩa vụ bảo vệ tài sản của doanh nghiệp, hợp tác xã; không được thực hiện hành vi nhằm che giấu, tẩu tán tài sản của doanh nghiệp, hợp tác xã.
 
-### Điều 37.2.LQ.74. Nghĩa vụ của người lao động
+Chương VI
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 74
-
-**Mã phân cấp:** 3700200000000000500007400000000000000000
-
-**ID:** dk_00060657
-
----
-
-
-### Điều 37.2.LQ.75. Triệu tập và gửi thông báo triệu tập Hội nghị chủ nợ
+HỘI NGHỊ CHỦ NỢ
 
 Điều 37.2.LQ.75. Triệu tập và gửi thông báo triệu tập Hội nghị chủ nợ
 
-**Chỉ mục:** 75
+(Điều 75 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000600007500000000000000000
+1. Thời hạn Thẩm phán triệu tập Hội nghị chủ nợ là 20 ngày kể từ ngày kết thúc việc kiểm kê tài sản trong trường hợp việc kiểm kê tài sản kết thúc sau việc lập danh sách chủ nợ hoặc kể từ ngày kết thúc việc lập danh sách chủ nợ trong trường hợp việc kiểm kê tài sản kết thúc trước việc lập danh sách chủ nợ, trừ trường hợp không phải tổ chức Hội nghị chủ nợ theo quy định tại Điều 105 của Luật này.
 
-**ID:** dk_00060659
+2. Thông báo triệu tập Hội nghị chủ nợ và tài liệu khác có liên quan phải được gửi cho người có quyền tham gia Hội nghị chủ nợ và người có nghĩa vụ tham gia Hội nghị chủ nợ quy định tại Điều 77 và Điều 78 của Luật này, chậm nhất là 15 ngày trước ngày khai mạc Hội nghị. Giấy triệu tập Hội nghị chủ nợ phải ghi rõ thời gian và địa điểm tổ chức Hội nghị chủ nợ, chương trình, nội dung Hội nghị chủ nợ.
 
----
-
-
-### Điều 37.2.LQ.76. Nguyên tắc tiến hành Hội nghị chủ nợ
+3. Thông báo triệu tập Hội nghị chủ nợ, tài liệu gửi bằng phương thức giao trực tiếp, thư bảo đảm, thư thường, fax, telex, thư điện tử hoặc bằng phương thức khác có ghi nhận việc gửi này.
 
 Điều 37.2.LQ.76. Nguyên tắc tiến hành Hội nghị chủ nợ
 
-**Chỉ mục:** 76
+(Điều 76 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000600007600000000000000000
+1. Tôn trọng thoả thuận của người tham gia thủ tục phá sản nếu thỏa thuận đó không vi phạm điều cấm của pháp luật và không trái đạo đức xã hội.
 
-**ID:** dk_00060660
+2. Bình đẳng về quyền và nghĩa vụ của người tham gia thủ tục phá sản.
 
----
+3. Công khai trong việc tiến hành Hội nghị chủ nợ.
 
+Điều 37.2.LQ.77. Quyền tham gia Hội nghị chủ nợ
 
-### Điều 37.2.LQ.77. Quyền tham gia Hội nghị chủ nợ
+(Điều 77 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+Những người sau đây có quyền tham gia Hội nghị chủ nợ:
 
-**Chỉ mục:** 77
+1. Chủ nợ có tên trong danh sách chủ nợ. Chủ nợ có thể uỷ quyền bằng văn bản cho người khác tham gia Hội nghị chủ nợ và người được uỷ quyền có quyền, nghĩa vụ như chủ nợ;
 
-**Mã phân cấp:** 3700200000000000600007700000000000000000
+2. Đại diện cho người lao động, đại diện công đoàn được người lao động uỷ quyền; trường hợp này đại diện cho người lao động, đại diện công đoàn có quyền, nghĩa vụ như chủ nợ;
 
-**ID:** dk_00060661
+3. Người bảo lãnh sau khi đã trả nợ thay cho doanh nghiệp, hợp tác xã mất khả năng thanh toán; trường hợp này người bảo lãnh trở thành chủ nợ không có bảo đảm.
 
----
+Điều 37.2.LQ.78. Nghĩa vụ tham gia Hội nghị chủ nợ
 
+(Điều 78 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 37.2.LQ.78. Nghĩa vụ tham gia Hội nghị chủ nợ
+1. Người nộp đơn yêu cầu mở thủ tục phá sản quy định tại Điều 5 của Luật này, chủ doanh nghiệp hoặc người đại diện hợp pháp của doanh nghiệp, hợp tác xã mất khả năng thanh toán có nghĩa vụ tham gia Hội nghị chủ nợ; trường hợp không tham gia được thì phải uỷ quyền bằng văn bản cho người khác tham gia Hội nghị chủ nợ và người được uỷ quyền có quyền, nghĩa vụ như người uỷ quyền.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 78
-
-**Mã phân cấp:** 3700200000000000600007800000000000000000
-
-**ID:** dk_00060662
-
----
-
-
-### Điều 37.2.LQ.79. Điều kiện hợp lệ của Hội nghị chủ nợ
+2. Trường hợp người đại diện doanh nghiệp, hợp tác xã mất khả năng thanh toán cố ý vắng mặt không có lý do chính đáng thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có văn bản đề nghị Tòa án nhân dân xử lý theo quy định của pháp luật.
 
 Điều 37.2.LQ.79. Điều kiện hợp lệ của Hội nghị chủ nợ
 
-**Chỉ mục:** 79
+(Điều 79 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000600007900000000000000000
+1. Có số chủ nợ tham gia đại diện cho ít nhất 51% tổng số nợ không có bảo đảm.
 
-**ID:** dk_00060663
+Chủ nợ không tham gia Hội nghị chủ nợ nhưng có ý kiến bằng văn bản gửi cho Thẩm phán trước ngày tổ chức Hội nghị chủ nợ, trong đó ghi rõ ý kiến về những nội dung quy định tại khoản 1 Điều 83 của Luật này thì được coi như chủ nợ tham gia Hội nghị chủ nợ.
 
----
+2. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được phân công giải quyết đơn yêu cầu mở thủ tục phá sản phải tham gia Hội nghị chủ nợ.
 
+Điều 37.2.LQ.80. Hoãn Hội nghị chủ nợ
 
-### Điều 37.2.LQ.80. Hoãn Hội nghị chủ nợ
+(Điều 80 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+1. Hội nghị chủ nợ được hoãn nếu không đáp ứng các điều kiện quy định tại Điều 79 của Luật này; trường hợp hoãn Hội nghị chủ nợ thì Thẩm phán lập biên bản và ghi ý kiến của người tham gia Hội nghị chủ nợ. Thẩm phán phải thông báo ngay trong ngày hoãn Hội nghị chủ nợ cho người tham gia thủ tục phá sản về việc hoãn Hội nghị chủ nợ.
 
-**Chỉ mục:** 80
+2. Trong thời hạn 30 ngày kể từ ngày hoãn Hội nghị chủ nợ, Thẩm phán phải triệu tập lại Hội nghị chủ nợ.
 
-**Mã phân cấp:** 3700200000000000600008000000000000000000
+3. Trường hợp triệu tập lại Hội nghị chủ nợ theo quy định tại khoản 2 Điều này mà vẫn không đáp ứng quy định tại Điều 79 của Luật này thì Thẩm phán lập biên bản và quyết định tuyên bố phá sản.
 
-**ID:** dk_00060664
-
----
-
-
-### Điều 37.2.LQ.81. Nội dung và trình tự Hội nghị chủ nợ
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.81. Nội dung và trình tự Hội nghị chủ nợ
 
-**Chỉ mục:** 81
+(Điều 81 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000600008100000000000000000
+1. Hội nghị chủ nợ được tiến hành như sau:
 
-**ID:** dk_00060665
+a) Thẩm phán được phân công phụ trách khai mạc Hội nghị chủ nợ;
 
----
+b) Hội nghị chủ nợ biểu quyết thông qua việc cử Thư ký Hội nghị chủ nợ theo đề xuất của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản để ghi biên bản Hội nghị chủ nợ;
 
+c) Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản báo cáo về sự có mặt, vắng mặt của người tham gia Hội nghị chủ nợ theo thông báo triệu tập của Tòa án nhân dân, lý do vắng mặt và kiểm tra căn cước của người tham gia Hội nghị chủ nợ;
 
-### Điều 37.2.LQ.82. Ban đại diện chủ nợ
+d) Thẩm phán thông báo với Hội nghị chủ nợ về những người tham gia Hội nghị chủ nợ và nội dung việc giải quyết đơn yêu cầu mở thủ tục phá sản;
 
-*Nội dung chưa có sẵn*
+đ) Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thông báo cho Hội nghị chủ nợ về tình hình kinh doanh, thực trạng tài chính của doanh nghiệp, hợp tác xã mất khả năng thanh toán; kết quả kiểm kê tài sản, danh sách chủ nợ, danh sách người mắc nợ và các nội dung khác nếu xét thấy cần thiết;
 
-**Chỉ mục:** 82
+e) Chủ doanh nghiệp hoặc người đại diện hợp pháp của doanh nghiệp, hợp tác xã trình bày ý kiến về nội dung do Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đã thông báo cho Hội nghị, đề xuất phương án, giải pháp tổ chức lại hoạt động kinh doanh, khả năng và thời hạn thanh toán nợ;
 
-**Mã phân cấp:** 3700200000000000600008200000000000000000
+g) Chủ nợ hoặc người đại diện hợp pháp của chủ nợ trình bày về những vấn đề cụ thể yêu cầu giải quyết, lý do, mục đích và căn cứ của việc yêu cầu giải quyết phá sản;
 
-**ID:** dk_00060666
+h) Người có liên quan hoặc người đại diện hợp pháp của họ trình bày ý kiến của mình về những vấn đề có liên quan đến quyền, nghĩa vụ của họ trong việc giải quyết yêu cầu mở thủ tục phá sản;
 
----
+i) Người làm chứng trình bày ý kiến; người giám định, đại diện cơ quan thẩm định giá trình bày kết luận giám định, kết quả định giá; người thực hiện biện pháp bổ trợ tư pháp khác giải thích những vấn đề còn chưa rõ hoặc có mâu thuẫn;
 
+k) Trường hợp có người vắng mặt thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản cho công bố ý kiến bằng văn bản, tài liệu, chứng cứ do người đó cung cấp;
 
-### Điều 37.2.LQ.83. Nghị quyết của Hội nghị chủ nợ
+l) Hội nghị chủ nợ thảo luận về các nội dung do Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đã thông báo và ý kiến của những người tham gia Hội nghị chủ nợ;
 
-*Nội dung chưa có sẵn*
+m) Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia Hội nghị chủ nợ có quyền đề nghị Thẩm phán ra quyết định thay người đại diện hợp pháp của doanh nghiệp, hợp tác xã mất khả năng thanh toán;
 
-**Chỉ mục:** 83
+n) Các chủ nợ có quyền thành lập Ban đại diện chủ nợ.
 
-**Mã phân cấp:** 3700200000000000600008300000000000000000
+2. Nghị quyết của Hội nghị chủ nợ được thông qua khi có quá nửa tổng số chủ nợ không có bảo đảm có mặt và đại diện cho từ 65% tổng số nợ không có bảo đảm trở lên biểu quyết tán thành. Nghị quyết của Hội nghị chủ nợ có hiệu lực ràng buộc đối với tất cả các chủ nợ.
 
-**ID:** dk_00060667
+Điều 37.2.LQ.82. Ban đại diện chủ nợ
 
----
+(Điều 82 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+1. Ban đại diện chủ nợ có từ 03 đến 05 thành viên do các chủ nợ bầu tại Hội nghị chủ nợ, gồm Chủ tịch, Phó Chủ tịch và Ủy viên.
 
-### Điều 37.2.LQ.84. Gửi Nghị quyết Hội nghị chủ nợ
+2. Ban đại diện chủ nợ thay mặt cho các chủ nợ thực hiện giám sát việc thực hiện Nghị quyết của Hội nghị chủ nợ, đề xuất với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản về việc thực hiện Nghị quyết của Hội nghị chủ nợ. Trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản không thực hiện đề xuất thì Ban đại diện chủ nợ có quyền thông báo bằng văn bản với Thẩm phán phụ trách giải quyết phá sản.
 
-*Nội dung chưa có sẵn*
+Điều 37.2.LQ.83. Nghị quyết của Hội nghị chủ nợ
 
-**Chỉ mục:** 84
+(Điều 83 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000600008400000000000000000
+1. Hội nghị chủ nợ có quyền đưa ra Nghị quyết trong đó có một trong các kết luận sau:
 
-**ID:** dk_00060668
+a) Đề nghị đình chỉ giải quyết yêu cầu mở thủ tục phá sản nếu thuộc trường hợp quy định tại khoản 1 Điều 86 của Luật này;
 
----
+b) Đề nghị áp dụng biện pháp phục hồi hoạt động kinh doanh đối với doanh nghiệp, hợp tác xã;
 
+c) Đề nghị tuyên bố phá sản doanh nghiệp, hợp tác xã.
 
-### Điều 37.2.LQ.85. Đề nghị, kiến nghị xem xét lại và giải quyết đề nghị, kiến nghị xem xét lại Nghị quyết của Hội nghị chủ nợ
+2. Nghị quyết Hội nghị chủ nợ phải có các nội dung chủ yếu sau:
+
+a) Ngày, tháng, năm;
+
+b) Tên Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản;
+
+c) Tên, địa chỉ của người yêu cầu mở thủ tục phá sản;
+
+d) Tên, địa chỉ của doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản;
+
+đ) Tên, địa chỉ của người có liên quan;
+
+e) Ý kiến của người tham gia Hội nghị chủ nợ;
+
+g) Ý kiến của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản về yêu cầu của người tham gia Hội nghị chủ nợ;
+
+h) Kết luận Hội nghị chủ nợ, kết quả biểu quyết.
+
+3. Nghị quyết của Hội nghị chủ nợ có chữ ký của Thẩm phán, Quản tài viên, đại diện doanh nghiệp quản lý, thanh lý tài sản và thông báo trước Hội nghị chủ nợ.
+
+4. Trường hợp Hội nghị chủ nợ không thông qua được Nghị quyết theo quy định tại khoản 2 Điều 81 của Luật này thì Tòa án nhân dân tuyên bố doanh nghiệp, hợp tác xã phá sản.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
+
+Điều 37.2.LQ.84. Gửi Nghị quyết Hội nghị chủ nợ
+
+(Điều 84 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
+
+Trong thời hạn 03 ngày làm việc kể từ ngày tổ chức Hội nghị chủ nợ, Tòa án nhân dân gửi Nghị quyết Hội nghị chủ nợ cho Viện kiểm sát nhân dân cùng cấp và người có quyền, nghĩa vụ tham gia Hội nghị chủ nợ quy định tại Điều 77 và Điều 78 của Luật này.
 
 Điều 37.2.LQ.85. Đề nghị, kiến nghị xem xét lại và giải quyết đề nghị, kiến nghị xem xét lại Nghị quyết của Hội nghị chủ nợ
 
-**Chỉ mục:** 85
+(Điều 85 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000600008500000000000000000
+1. Trường hợp không đồng ý với Nghị quyết của Hội nghị chủ nợ, trong thời hạn 05 ngày làm việc kể từ ngày nhận được Nghị quyết của Hội nghị chủ nợ, người có quyền, nghĩa vụ tham gia Hội nghị chủ nợ quy định tại Điều 77 và Điều 78 của Luật này có quyền gửi đơn đề nghị, Viện kiểm sát nhân dân cùng cấp có quyền kiến nghị với Chánh án Tòa án nhân dân đang giải quyết phá sản xem xét lại Nghị quyết của Hội nghị chủ nợ.
 
-**ID:** dk_00060669
+2. Văn bản đề nghị, kiến nghị có các nội dung chủ yếu sau:
 
----
+a) Ngày, tháng, năm;
 
+b) Tên, địa chỉ của người đề nghị, Viện kiểm sát kiến nghị;
 
-### Điều 37.2.LQ.86. Đình chỉ tiến hành thủ tục phá sản
+c) Nội dung đề nghị, kiến nghị.
+
+3. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị, kiến nghị, Chánh án Tòa án nhân dân đang giải quyết phá sản xem xét và ra một trong các quyết định sau:
+
+a) Không chấp nhận đề nghị, kiến nghị;
+
+b) Tổ chức lại Hội nghị chủ nợ.
+
+4. Trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định, quyết định giải quyết đề nghị, kiến nghị được gửi cho Viện kiểm sát nhân dân cùng cấp và người có quyền, nghĩa vụ tham gia Hội nghị chủ nợ quy định tại Điều 77, Điều 78 của Luật này.
+
+5. Quyết định giải quyết theo quy định tại khoản 3 Điều này là quyết định cuối cùng.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân)
 
 Điều 37.2.LQ.86. Đình chỉ tiến hành thủ tục phá sản
 
-**Chỉ mục:** 86
+(Điều 86 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000600008600000000000000000
+1. Kể từ ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản đến trước ngày ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản, nếu doanh nghiệp, hợp tác xã không mất khả năng thanh toán thì Tòa án nhân dân ra quyết định đình chỉ tiến hành thủ tục phá sản.
 
-**ID:** dk_00060670
+Doanh nghiệp, hợp tác xã phải hoàn trả tạm ứng chi phí phá sản cho người nộp đơn, trừ trường hợp người nộp đơn yêu cầu mở thủ tục phá sản vi phạm quy định tại khoản 4 Điều 19 của Luật này.
 
----
+2. Quyết định đình chỉ tiến hành thủ tục phá sản phải được gửi cho những người được thông báo quyết định mở thủ tục phá sản quy định tại khoản 1 Điều 43 của Luật này trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định.
 
+Trong thời hạn 15 ngày kể từ ngày nhận được quyết định, người tham gia thủ tục phá sản có quyền đề nghị xem xét lại, Viện kiểm sát nhân dân cùng cấp có quyền kiến nghị với Chánh án Tòa án nhân dân đang giải quyết thủ tục phá sản về quyết định đình chỉ tiến hành thủ tục phá sản.
 
-### Điều 37.2.LQ.87. Xây dựng phương án phục hồi hoạt động kinh doanh
+3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị xem xét lại, kiến nghị quy định tại khoản 2 Điều này, Chánh án Tòa án nhân dân đang giải quyết thủ tục phá sản phải xem xét, giải quyết kiến nghị, đề nghị xem xét lại quyết định đình chỉ tiến hành thủ tục phá sản và ra một trong các quyết định sau:
+
+a) Giữ nguyên quyết định đình chỉ tiến hành thủ tục phá sản;
+
+b) Hủy quyết định đình chỉ tiến hành thủ tục phá sản và giao cho Thẩm phán tiến hành giải quyết phá sản.
+
+4. Quyết định giải quyết đề nghị, kiến nghị xem xét lại quyết định đình chỉ tiến hành thủ tục phá sản phải gửi cho những người được thông báo quyết định mở thủ tục phá sản quy định tại khoản 1 Điều 43 của Luật này trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
+
+Chương VII
+
+THỦ TỤC PHỤC HỒI HOẠT ĐỘNG KINH DOANH
 
 Điều 37.2.LQ.87. Xây dựng phương án phục hồi hoạt động kinh doanh
 
-**Chỉ mục:** 87
+(Điều 87 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700008700000000000000000
+1. Trong thời hạn 30 ngày kể từ ngày Hội nghị chủ nợ thông qua nghị quyết có nội dung áp dụng thủ tục phục hồi hoạt động kinh doanh thì doanh nghiệp, hợp tác xã mất khả năng thanh toán phải xây dựng phương án phục hồi hoạt động kinh doanh và gửi cho Thẩm phán, chủ nợ, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản cho ý kiến.
 
-**ID:** dk_00060672
+2. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã thì chủ nợ, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản gửi ý kiến cho doanh nghiệp, hợp tác xã để hoàn thiện phương án phục hồi hoạt động kinh doanh báo cáo Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, chủ nợ, Ban đại diện chủ nợ (nếu có).
 
----
+3. Ngay sau khi nhận được phương án phục hồi hoạt động kinh doanh theo quy định tại khoản 2 Điều này, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có nhiệm vụ báo cáo Thẩm phán.
 
-
-### Điều 37.2.LQ.88. Nội dung phương án phục hồi hoạt động kinh doanh
+4. Trong thời hạn 15 ngày kể từ ngày nhận được phương án phục hồi hoạt động kinh doanh của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, Thẩm phán xem xét trước khi đưa phương án ra Hội nghị chủ nợ xem xét thông qua.
 
 Điều 37.2.LQ.88. Nội dung phương án phục hồi hoạt động kinh doanh
 
-**Chỉ mục:** 88
+(Điều 88 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700008800000000000000000
+1. Phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã mất khả năng thanh toán phải nêu rõ các biện pháp để phục hồi hoạt động kinh doanh; các điều kiện, thời hạn và kế hoạch thanh toán các khoản nợ.
 
-**ID:** dk_00060673
+2. Các biện pháp để phục hồi hoạt động kinh doanh gồm:
 
----
+a) Huy động vốn;
 
+b) Giảm nợ, miễn nợ, hoãn nợ;
 
-### Điều 37.2.LQ.89. Thời hạn thực hiện phương án phục hồi hoạt động kinh doanh
+c) Thay đổi mặt hàng sản xuất, kinh doanh;
+
+d) Đổi mới công nghệ sản xuất;
+
+đ) Tổ chức lại bộ máy quản lý, sáp nhập hoặc chia tách bộ phận sản xuất;
+
+e) Bán cổ phần cho chủ nợ và những người khác;
+
+g) Bán hoặc cho thuê tài sản;
+
+h) Các biện pháp khác không trái quy định của pháp luật.
 
 Điều 37.2.LQ.89. Thời hạn thực hiện phương án phục hồi hoạt động kinh doanh
 
-**Chỉ mục:** 89
+(Điều 89 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700008900000000000000000
+1. Thời hạn để thực hiện phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã mất khả năng thanh toán theo Nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh.
 
-**ID:** dk_00060674
-
----
-
-
-### Điều 37.2.LQ.90. Điều kiện hợp lệ của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã
+2. Trường hợp Hội nghị chủ nợ không xác định được thời hạn thực hiện phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã mất khả năng thanh toán thì thời hạn thực hiện phương án phục hồi hoạt động kinh doanh là không quá 03 năm kể từ ngày Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh.
 
 Điều 37.2.LQ.90. Điều kiện hợp lệ của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã
 
-**Chỉ mục:** 90
+(Điều 90 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700009000000000000000000
+1. Có số chủ nợ tham gia đại diện cho ít nhất 51% số nợ không có bảo đảm.
 
-**ID:** dk_00060675
+Chủ nợ không tham gia Hội nghị chủ nợ nhưng có ý kiến bằng văn bản gửi cho Thẩm phán trước ngày tổ chức Hội nghị chủ nợ, trong đó ghi rõ ý kiến cụ thể về việc thông qua hoặc không thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã thì coi như chủ nợ tham gia Hội nghị chủ nợ.
 
----
-
-
-### Điều 37.2.LQ.91. Nội dung và trình tự Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh
+2. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được phân công giải quyết đơn yêu cầu mở thủ tục phá sản phải tham gia Hội nghị chủ nợ.
 
 Điều 37.2.LQ.91. Nội dung và trình tự Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh
 
-**Chỉ mục:** 91
+(Điều 91 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700009100000000000000000
+1. Trong thời hạn 10 ngày làm việc kể từ ngày quyết định đưa phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã mất khả năng thanh toán ra Hội nghị chủ nợ, Thẩm phán triệu tập Hội nghị chủ nợ để xem xét, thông qua phương án phục hồi hoạt động kinh doanh.
 
-**ID:** dk_00060676
+2. Hội nghị chủ nợ được tiến hành như sau:
 
----
+a) Thẩm phán được phân công phụ trách khai mạc Hội nghị chủ nợ;
 
+b) Hội nghị chủ nợ biểu quyết thông qua việc cử Thư ký Hội nghị chủ nợ theo đề xuất của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản để ghi biên bản Hội nghị chủ nợ;
 
-### Điều 37.2.LQ.92. Công nhận nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã
+c) Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản báo cáo về sự có mặt, vắng mặt của người tham gia Hội nghị chủ nợ theo thông báo triệu tập của Tòa án nhân dân, lý do vắng mặt và kiểm tra căn cước của người tham gia Hội nghị chủ nợ;
+
+d) Thẩm phán thông báo với Hội nghị chủ nợ về những người tham gia Hội nghị chủ nợ;
+
+đ) Đại diện doanh nghiệp, hợp tác xã trình bày phương án phục hồi hoạt động kinh doanh;
+
+e) Người tham gia Hội nghị chủ nợ trình bày ý kiến của mình về phương án phục hồi hoạt động kinh doanh;
+
+g) Hội nghị chủ nợ thảo luận và biểu quyết thông qua phương án phục hồi hoạt động kinh doanh.
+
+3. Hội nghị chủ nợ được hoãn một lần trong trường hợp không đáp ứng điều kiện hợp lệ. Việc tổ chức lại Hội nghị chủ nợ được thực hiện theo quy định tại Điều 90 và Điều 91 của Luật này.
+
+4. Nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh khi được quá nửa tổng số chủ nợ không có bảo đảm có mặt và đại diện cho từ 65% tổng số nợ không có bảo đảm trở lên biểu quyết tán thành.
+
+Trường hợp phương án phục hồi hoạt động kinh doanh có sử dụng tài sản bảo đảm thì phải quy định rõ thời gian sử dụng tài sản có bảo đảm, phương án xử lý tài sản bảo đảm và phải được chủ nợ có bảo đảm bằng tài sản đó đồng ý.
+
+5. Nghị quyết của Hội nghị chủ nợ có hiệu lực ràng buộc đối với tất cả các chủ nợ.
+
+6. Trường hợp không tổ chức lại được Hội nghị chủ nợ hoặc Hội nghị chủ nợ không thông qua được Nghị quyết theo khoản 5 Điều này thì Tòa án nhân dân tuyên bố doanh nghiệp, hợp tác xã phá sản.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.92. Công nhận nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã
 
-**Chỉ mục:** 92
+(Điều 92 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700009200000000000000000
+1. Thẩm phán ra quyết định công nhận nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã mất khả năng thanh toán. Nghị quyết này có hiệu lực đối với tất cả người tham gia thủ tục phá sản có liên quan.
 
-**ID:** dk_00060677
+Kể từ ngày nghị quyết này có hiệu lực thì những điều cấm, chịu sự giám sát đối với hoạt động kinh doanh của doanh nghiệp, hợp tác xã quy định tại Điều 48 và Điều 49 của Luật này chấm dứt.
 
----
-
-
-### Điều 37.2.LQ.93. Giám sát thực hiện phương án phục hồi hoạt động kinh doanh
+2. Tòa án nhân dân gửi quyết định công nhận nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh cho doanh nghiệp, hợp tác xã mất khả năng thanh toán, chủ nợ, Viện kiểm sát nhân dân cùng cấp trong thời hạn 07 ngày làm việc kể từ ngày ra quyết định.
 
 Điều 37.2.LQ.93. Giám sát thực hiện phương án phục hồi hoạt động kinh doanh
 
-**Chỉ mục:** 93
+(Điều 93 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700009300000000000000000
+1. Sau khi Thẩm phán ra quyết định công nhận nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã mất khả năng thanh toán, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, chủ nợ giám sát hoạt động kinh doanh của doanh nghiệp, hợp tác xã.
 
-**ID:** dk_00060678
-
----
-
-
-### Điều 37.2.LQ.94. Sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh
+2. Sáu tháng một lần, doanh nghiệp, hợp tác xã phải lập báo cáo về tình hình thực hiện phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã cho Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có trách nhiệm báo cáo Thẩm phán và thông báo cho chủ nợ.
 
 Điều 37.2.LQ.94. Sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh
 
-**Chỉ mục:** 94
+(Điều 94 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700009400000000000000000
+1. Trong quá trình thực hiện phương án phục hồi hoạt động kinh doanh, các chủ nợ và doanh nghiệp, hợp tác xã có quyền thoả thuận về việc sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh.
 
-**ID:** dk_00060679
+2. Thoả thuận về việc sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã được chấp nhận khi được quá nửa tổng số chủ nợ không có bảo đảm có mặt và đại diện cho từ 65% tổng số nợ không có bảo đảm trở lên biểu quyết tán thành.
 
----
+3. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản gửi văn bản đề nghị Thẩm phán ra quyết định công nhận sự thoả thuận về sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã.
 
-
-### Điều 37.2.LQ.95. Đình chỉ thủ tục phục hồi hoạt động kinh doanh
+Quyết định công nhận sự thỏa thuận về việc sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã được gửi cho doanh nghiệp, hợp tác xã mất khả năng thanh toán và chủ nợ trong thời hạn 07 ngày làm việc kể từ ngày ra quyết định.
 
 Điều 37.2.LQ.95. Đình chỉ thủ tục phục hồi hoạt động kinh doanh
 
-**Chỉ mục:** 95
+(Điều 95 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700009500000000000000000
+1. Thẩm phán ra quyết định đình chỉ thủ tục phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã mất khả năng thanh toán nếu thuộc một trong các trường hợp sau:
 
-**ID:** dk_00060680
+a) Doanh nghiệp, hợp tác xã đã thực hiện xong phương án phục hồi hoạt động kinh doanh;
 
----
+b) Doanh nghiệp, hợp tác xã không thực hiện được phương án phục hồi hoạt động kinh doanh;
 
+c) Hết thời hạn thực hiện phương án phục hồi hoạt động kinh doanh nhưng doanh nghiệp, hợp tác xã vẫn mất khả năng thanh toán.
 
-### Điều 37.2.LQ.96. Hậu quả pháp lý của việc đình chỉ thủ tục phục hồi hoạt động kinh doanh
+2. Tòa án nhân dân thông báo công khai quyết định đình chỉ thủ tục phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã theo quy định tại khoản 1 Điều 43 của Luật này.
+
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.96. Hậu quả pháp lý của việc đình chỉ thủ tục phục hồi hoạt động kinh doanh
 
-**Chỉ mục:** 96
+(Điều 96 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000700009600000000000000000
+1. Trường hợp quy định tại điểm a khoản 1 Điều 95 của Luật này thì doanh nghiệp, hợp tác xã được coi là không còn mất khả năng thanh toán. Thẩm phán phụ trách giải quyết yêu cầu mở thủ tục phá sản có trách nhiệm ra thông báo bằng văn bản về việc chấm dứt quyền và nghĩa vụ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản.
 
-**ID:** dk_00060681
+2. Trường hợp quy định tại điểm b và điểm c khoản 1 Điều 95 của Luật này, Thẩm phán ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
 
----
+Chương VIII
 
-
-### Điều 37.2.LQ.97. Áp dụng quy định về thủ tục phá sản tổ chức tín dụng
+THỦ TỤC PHÁ SẢN TỔ CHỨC TÍN DỤNG
 
 Điều 37.2.LQ.97. Áp dụng quy định về thủ tục phá sản tổ chức tín dụng
 
-**Chỉ mục:** 97
+(Điều 97 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000800009700000000000000000
-
-**ID:** dk_00060683
-
----
-
-
-### Điều 37.2.LQ.98. Quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản
+Thủ tục phá sản đối với tổ chức tín dụng thực hiện theo quy định tại Chương này. Những nội dung không quy định tại Chương này thì áp dụng theo quy định tương ứng của Luật này, trừ quy định tại Chương VI và Chương VII của Luật này.
 
 Điều 37.2.LQ.98. Quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản
 
-**Chỉ mục:** 98
+(Điều 98 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000800009800000000000000000
+Sau khi Ngân hàng Nhà nước Việt Nam có văn bản chấm dứt kiểm soát đặc biệt hoặc văn bản chấm dứt áp dụng hoặc không áp dụng biện pháp phục hồi khả năng thanh toán mà tổ chức tín dụng vẫn mất khả năng thanh toán thì những người sau đây có quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản:
 
-**ID:** dk_00060684
+1. Người quy định tại các khoản 1, 2, 5 và 6 Điều 5 của Luật này;
 
----
-
-
-### Điều 37.2.LQ.99. Thụ lý đơn yêu cầu mở thủ tục phá sản đối với tổ chức tín dụng
+2. Tổ chức tín dụng có nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản; trường hợp tổ chức tín dụng không nộp đơn yêu cầu mở thủ tục phá sản thì Ngân hàng Nhà nước Việt Nam nộp đơn yêu cầu mở thủ tục phá sản đối với tổ chức tín dụng đó.
 
 Điều 37.2.LQ.99. Thụ lý đơn yêu cầu mở thủ tục phá sản đối với tổ chức tín dụng
 
-**Chỉ mục:** 99
+(Điều 99 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000800009900000000000000000
+Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản tổ chức tín dụng khi đã có văn bản chấm dứt kiểm soát đặc biệt hoặc văn bản chấm dứt áp dụng hoặc không áp dụng biện pháp phục hồi khả năng thanh toán của Ngân hàng Nhà nước Việt Nam mà tổ chức tín dụng vẫn mất khả năng thanh toán.
 
-**ID:** dk_00060685
+Điều 37.2.LQ.100. Hoàn trả khoản vay đặc biệt
 
----
+(Điều 100 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+Tổ chức tín dụng được vay đặc biệt của Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng khác theo quy định của Luật các tổ chức tín dụng mà bị tuyên bố phá sản thì phải hoàn trả khoản vay đặc biệt này cho Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng khác trước khi thực hiện việc phân chia tài sản theo quy định tại Điều 101 của Luật này.
 
-### Điều 37.2.LQ.100. Hoàn trả khoản vay đặc biệt
+Điều 37.2.LQ.101. Thứ tự phân chia tài sản
 
-*Nội dung chưa có sẵn*
+(Điều 101 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Chỉ mục:** 100
+1. Việc phân chia giá trị tài sản của tổ chức tín dụng thực hiện theo thứ tự như sau:
 
-**Mã phân cấp:** 3700200000000000800010000000000000000000
+a) Chi phí phá sản;
 
-**ID:** dk_00060686
+b) Khoản nợ lương, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế đối với người lao động, quyền lợi khác theo hợp đồng lao động và thoả ước lao động tập thể đã ký kết;
 
----
+c) Khoản tiền gửi; khoản tiền tổ chức bảo hiểm tiền gửi phải trả cho người gửi tiền tại tổ chức tín dụng phá sản theo quy định của pháp luật về bảo hiểm tiền gửi và hướng dẫn của Ngân hàng Nhà nước Việt Nam;
 
+d) Nghĩa vụ tài chính đối với Nhà nước; khoản nợ không có bảo đảm phải trả cho chủ nợ trong danh sách chủ nợ; khoản nợ có bảo đảm chưa được thanh toán do giá trị tài sản bảo đảm không đủ thanh toán nợ.
 
-### Điều 37.2.LQ.101. Thứ tự phân chia tài sản
+2. Trường hợp giá trị tài sản của tổ chức tín dụng sau khi đã thanh toán đủ khoản nợ quy định tại khoản 1 Điều này mà vẫn còn thì phần còn lại này thuộc về:
 
-*Nội dung chưa có sẵn*
+a) Thành viên của tổ chức tín dụng là hợp tác xã;
 
-**Chỉ mục:** 101
+b) Chủ sở hữu của tổ chức tín dụng là công ty trách nhiệm hữu hạn một thành viên;
 
-**Mã phân cấp:** 3700200000000000800010100000000000000000
+c) Thành viên góp vốn của tổ chức tín dụng là công ty trách nhiệm hữu hạn hai thành viên trở lên; cổ đông của tổ chức tín dụng là công ty cổ phần.
 
-**ID:** dk_00060687
-
----
-
-
-### Điều 37.2.LQ.102. Trả lại tài sản nhận ủy thác, nhận giữ hộ khi tổ chức tín dụng bị tuyên bố phá sản và thanh lý tài sản phá sản
+3. Trường hợp giá trị tài sản không đủ để thanh toán theo quy định tại khoản 1 Điều này thì các đối tượng thuộc cùng một thứ tự ưu tiên được thanh toán theo tỷ lệ phần trăm tương ứng với số nợ.
 
 Điều 37.2.LQ.102. Trả lại tài sản nhận ủy thác, nhận giữ hộ khi tổ chức tín dụng bị tuyên bố phá sản và thanh lý tài sản phá sản
 
-**Chỉ mục:** 102
+(Điều 102 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000800010200000000000000000
-
-**ID:** dk_00060688
-
----
-
-
-### Điều 37.2.LQ.103. Giao dịch của tổ chức tín dụng trong giai đoạn kiểm soát đặc biệt
+Trong thời hạn 10 ngày làm việc kể từ ngày nhận được quyết định tuyên bố tổ chức tín dụng phá sản, chủ sở hữu tài sản ủy thác cho tổ chức tín dụng, gửi tổ chức tín dụng giữ hộ, giao tổ chức tín dụng quản lý thông qua hợp đồng ủy thác, giữ hộ, quản lý tài sản phải xuất trình giấy tờ chứng minh quyền sở hữu và hồ sơ, giấy tờ liên quan với cơ quan thi hành án dân sự để nhận lại tài sản của mình.
 
 Điều 37.2.LQ.103. Giao dịch của tổ chức tín dụng trong giai đoạn kiểm soát đặc biệt
 
-**Chỉ mục:** 103
+(Điều 103 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000800010300000000000000000
-
-**ID:** dk_00060689
-
----
-
-
-### Điều 37.2.LQ.104. Quyết định tuyên bố tổ chức tín dụng phá sản
+Giao dịch của tổ chức tín dụng thực hiện trong giai đoạn Ngân hàng Nhà nước Việt Nam áp dụng biện pháp kiểm soát đặc biệt hoặc áp dụng biện pháp phục hồi khả năng thanh toán dưới sự kiểm soát của Ngân hàng Nhà nước Việt Nam sẽ không áp dụng quy định về giao dịch vô hiệu quy định tại Điều 59 của Luật này.
 
 Điều 37.2.LQ.104. Quyết định tuyên bố tổ chức tín dụng phá sản
 
-**Chỉ mục:** 104
+(Điều 104 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000800010400000000000000000
+Trong thời hạn 30 ngày kể từ ngày Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản lập xong danh sách chủ nợ, danh sách người mắc nợ, bảng kê tài sản của tổ chức tín dụng, Tòa án nhân dân ra quyết định tuyên bố tổ chức tín dụng phá sản.
 
-**ID:** dk_00060690
+Tòa án nhân dân tối cao hướng dẫn thi hành Điều này.
 
----
-
-
-### Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản; Điều 37.2.NQ.1.1. Phạm vi điều chỉnh; Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản)
 
 Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản
 
-**Chỉ mục:** 6
+(Điều 6 Nghị quyết số 03/2016/NQ-HĐTP, có hiệu lực thi hành kể từ ngày 26/08/2016)
 
-**Mã phân cấp:** 370020000000000080001040000000000000000000602592600030000600
+ 1. Trong thời hạn 30 ngày, kể từ ngày Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản lập xong danh sách chủ nợ, danh sách người mắc nợ, bảng kê tài sản của tổ chức tín dụng, Thẩm phán (Tổ Thẩm phán) phải tiến hành các hoạt động sau đây trước khi ra quyết định tuyên bố tổ chức tín dụng phá sản:
 
-**ID:** dk_00060691
+ a) Kiểm tra lại việc lập danh sách chủ nợ, danh sách người mắc nợ, bảng kê tài sản của tổ chức tín dụng bảo đảm được thực hiện đúng theo quy định tại Điều 64, Điều 65, Điều 67 và Điều 68 của Luật phá sản;
 
----
+ b) Kiểm tra việc hoàn trả khoản vay đặc biệt mà tổ chức tín dụng đã được vay của Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng khác theo quy định của Luật tổ chức tín dụng.
 
+ 2. Quyết định tuyên bố tổ chức tín dụng phá sản phải ghi rõ các nội dung quy định tại Điều 108 của Luật phá sản và quyết định việc hoàn trả khoản vay đặc biệt của Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng khác (nếu có).
 
-### Điều 37.2.LQ.105. Tuyên bố doanh nghiệp, hợp tác xã phá sản theo thủ tục rút gọn
+ 3. Trong thời hạn 10 ngày làm việc, kể từ ngày ra quyết định tuyên bố tổ chức tín dụng phá sản, quyết định này phải được gửi cho Ngân hàng Nhà nước Việt Nam và chi nhánh Ngân hàng Nhà nước tỉnh, thành phố nơi tổ chức tín dụng đặt trụ sở chính; đồng thời, việc gửi và thông báo quyết định tuyên bố phá sản được thực hiện theo quy định tại Điều 109 của Luật phá sản.(Điều này có nội dung liên quan đến Điều 37.2.LQ.64. Tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán; Điều 37.2.LQ.65. Kiểm kê tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán; Điều 37.2.LQ.66. Gửi giấy đòi nợ; Điều 37.2.LQ.67. Lập danh sách chủ nợ; Điều 37.2.LQ.68. Lập danh sách người mắc nợ; Điều 37.2.LQ.104. Quyết định tuyên bố tổ chức tín dụng phá sản)
+
+Chương IX
+
+TUYÊN BỐ DOANH NGHIỆP, HỢP TÁC XÃ PHÁ SẢN
+
+(Chương này có nội dung liên quan đến Điều 9.1.LQ.95. Phá sản pháp nhân; Điều 9.1.LQ.384. Chấm dứt nghĩa vụ trong trường hợp phá sản của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 12.1.LQ.214. Phá sản doanh nghiệp của Luật 59/2020/QH14 doanh nghiệp ban hành ngày 17/06/2020)
 
 Điều 37.2.LQ.105. Tuyên bố doanh nghiệp, hợp tác xã phá sản theo thủ tục rút gọn
 
-**Chỉ mục:** 105
+(Điều 105 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900010500000000000000000
+1 Tòa án nhân dân giải quyết phá sản theo thủ tục rút gọn đối với các trường hợp sau:
 
-**ID:** dk_00060693
+a) Người nộp đơn yêu cầu mở thủ tục phá sản theo quy định tại khoản 3, khoản 4 Điều 5 của Luật này mà doanh nghiệp, hợp tác xã mất khả năng thanh toán không còn tiền, tài sản khác để nộp lệ phí phá sản, tạm ứng chi phí phá sản;
 
----
+b) Sau khi thụ lý đơn yêu cầu mở thủ tục phá sản mà doanh nghiệp, hợp tác xã mất khả năng thanh toán không còn tài sản để thanh toán chi phí phá sản.
 
+2. Trường hợp Tòa án nhân dân xét thấy doanh nghiệp, hợp tác xã thuộc trường hợp quy định tại khoản 1 Điều này, Tòa án nhân dân thông báo cho người tham gia thủ tục phá sản biết về việc Tòa án giải quyết theo thủ tục rút gọn.
 
-### Điều 37.2.LQ.106. Quyết định tuyên bố phá sản khi Hội nghị chủ nợ không thành
+3. Trong thời hạn 30 ngày kể từ ngày Tòa án nhân dân thông báo theo quy định tại khoản 2 Điều này, Tòa án nhân dân xem xét, tuyên bố doanh nghiệp, hợp tác xã phá sản đối với những trường hợp quy định tại khoản 1 Điều này hoặc tiếp tục giải quyết theo thủ tục thông thường và thông báo cho người tham gia thủ tục phá sản biết.
+
+4. Trường hợp Tòa án nhân dân ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản theo quy định tại điểm b khoản 1 Điều này thì người nộp đơn không được hoàn lại lệ phí phá sản, tiền tạm ứng chi phí phá sản đã nộp.
+
+(Điều này có nội dung liên quan đến Điều 55. Giải quyết yêu cầu tuyên bố phá sản đối với hợp tác xã, liên hiệp hợp tác xã của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012; Điều 37.2.LQ.22. Lệ phí phá sản; Điều 33.3.NQ.1.11. Không phải nộp tiền tạm ứng án phí, tạm ứng lệ phí Tòa án; không phải chịu án phí, lệ phí Tòa án)
 
 Điều 37.2.LQ.106. Quyết định tuyên bố phá sản khi Hội nghị chủ nợ không thành
 
-**Chỉ mục:** 106
+(Điều 106 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900010600000000000000000
+Trong thời hạn 15 ngày kể từ ngày nhận được báo cáo kết quả họp Hội nghị chủ nợ, Tòa án nhân dân ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản trong các trường hợp quy định tại khoản 3 Điều 80, khoản 4 Điều 83 và khoản 6 Điều 91 của Luật này.
 
-**ID:** dk_00060694
-
----
-
-
-### Điều 37.2.LQ.107. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản sau khi có Nghị quyết của Hội nghị chủ nợ
+(Điều này có nội dung liên quan đến Điều 55. Giải quyết yêu cầu tuyên bố phá sản đối với hợp tác xã, liên hiệp hợp tác xã của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012)
 
 Điều 37.2.LQ.107. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản sau khi có Nghị quyết của Hội nghị chủ nợ
 
-**Chỉ mục:** 107
+(Điều 107 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900010700000000000000000
+1. Trong thời hạn 15 ngày kể từ ngày nhận được nghị quyết của Hội nghị chủ nợ đề nghị tuyên bố phá sản theo quy định tại điểm c khoản 1 Điều 83 của Luật này thì Tòa án nhân dân xem xét quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
 
-**ID:** dk_00060695
+2. Sau khi Hội nghị chủ nợ thông qua nghị quyết có nội dung áp dụng thủ tục phục hồi hoạt động kinh doanh nhưng thuộc một trong các trường hợp sau đây thì Tòa án nhân dân ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản:
 
----
+a) Doanh nghiệp, hợp tác xã không xây dựng được phương án phục hồi hoạt động kinh doanh trong thời hạn quy định tại khoản 1 Điều 87 của Luật này;
 
+b) Hội nghị chủ nợ không thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã;
 
-### Điều 37.2.LQ.108. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+c) Doanh nghiệp, hợp tác xã không thực hiện được phương án phục hồi hoạt động kinh doanh.
+
+(Điều này có nội dung liên quan đến Điều 55. Giải quyết yêu cầu tuyên bố phá sản đối với hợp tác xã, liên hiệp hợp tác xã của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012)
 
 Điều 37.2.LQ.108. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 108
+(Điều 108 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900010800000000000000000
+1. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản phải có các nội dung chủ yếu sau:
 
-**ID:** dk_00060696
+a) Ngày, tháng, năm;
 
----
+b) Tên của Tòa án nhân dân; họ và tên Thẩm phán phụ trách tiến hành thủ tục phá sản;
 
+c) Tên, địa chỉ của doanh nghiệp, hợp tác xã bị tuyên bố phá sản;
 
-### Điều 37.2.LQ.109. Gửi và thông báo quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+d) Căn cứ của việc tuyên bố phá sản;
+
+đ) Chấm dứt hoạt động của doanh nghiệp, hợp tác xã phá sản; đình chỉ giao dịch liên quan đến doanh nghiệp, hợp tác xã; chấm dứt thực hiện nghĩa vụ tính lãi đối với doanh nghiệp, hợp tác xã; giải quyết hậu quả của giao dịch bị đình chỉ; tuyên bố giao dịch vô hiệu và giải quyết hậu quả của giao dịch vô hiệu; chấm dứt hợp đồng lao động với người lao động, giải quyết quyền lợi của người lao động;
+
+e) Chấm dứt quyền hạn của đại diện doanh nghiệp, hợp tác xã;
+
+g) Thanh lý tài sản và bán đấu giá tài sản còn lại của doanh nghiệp, hợp tác xã;
+
+h) Phương án phân chia giá trị tài sản trước và sau khi tuyên bố phá sản của doanh nghiệp, hợp tác xã theo thứ tự phân chia tài sản quy định tại Điều 54 của Luật này;
+
+i) Chuyển yêu cầu giải quyết tranh chấp cho Tòa án nhân dân có thẩm quyền;
+
+k) Cấm đảm nhiệm chức vụ sau khi doanh nghiệp, hợp tác xã bị tuyên bố phá sản theo quy định tại Điều 130 của Luật này;
+
+l) Giải quyết vấn đề khác theo quy định pháp luật.
+
+2. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản có hiệu lực thi hành kể từ ngày ra quyết định.
+
+(Điều này có nội dung liên quan đến Điều 15.4.LQ.36. Nguồn thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã; Điều 55. Giải quyết yêu cầu tuyên bố phá sản đối với hợp tác xã, liên hiệp hợp tác xã của Luật 23/2012/QH13 Hợp tác xã ban hành ngày 20/11/2012)
 
 Điều 37.2.LQ.109. Gửi và thông báo quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 109
+(Điều 109 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900010900000000000000000
+1. Trong thời hạn 10 ngày làm việc kể từ ngày ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản, Tòa án nhân dân phải thông báo theo quy định tại khoản 1 Điều 43 của Luật này; đồng thời gửi trích lục tuyên bố phá sản trong trường hợp quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản có nội dung cấm cá nhân đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã cho Sở Tư pháp nơi Tòa án nhân dân có trụ sở.
 
-**ID:** dk_00060697
-
----
-
-
-### Điều 37.2.LQ.110. Nghĩa vụ về tài sản sau khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+2. Trong thời hạn 10 ngày làm việc kể từ ngày ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản, Tòa án nhân dân phải gửi quyết định cho cơ quan đăng ký kinh doanh để xoá tên doanh nghiệp, hợp tác xã trong sổ đăng ký kinh doanh; trong trường hợp Tòa án nhân dân tối cao ra quyết định giải quyết đề nghị xem xét lại, kiến nghị theo quy định tại Điều 113 của Luật này thì thời hạn có thể kéo dài hơn, nhưng không quá 15 ngày kể từ ngày Chánh án Tòa án nhân dân tối cao ra quyết định.
 
 Điều 37.2.LQ.110. Nghĩa vụ về tài sản sau khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 110
+(Điều 110 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900011000000000000000000
+1. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản quy định tại các điều 105, 106 và 107 của Luật này không miễn trừ nghĩa vụ về tài sản của chủ doanh nghiệp tư nhân, thành viên hợp danh của công ty hợp danh đối với chủ nợ chưa được thanh toán nợ, trừ trường hợp người tham gia thủ tục phá sản có thoả thuận khác hoặc pháp luật có quy định khác.
 
-**ID:** dk_00060698
-
----
-
-
-### Điều 37.2.LQ.111. Đề nghị xem xét lại, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+2. Nghĩa vụ về tài sản phát sinh sau khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản được giải quyết theo quy định của pháp luật về thi hành án dân sự và quy định khác của pháp luật có liên quan.
 
 Điều 37.2.LQ.111. Đề nghị xem xét lại, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 111
+(Điều 111 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900011100000000000000000
+1. Những người được thông báo quy định tại khoản 1 Điều 109 của Luật này có quyền đề nghị xem xét lại, Viện kiểm sát nhân dân cùng cấp có quyền kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
 
-**ID:** dk_00060699
+2. Thời hạn đề nghị xem xét lại, kháng nghị là 15 ngày kể từ ngày nhận được quyết định hoặc được thông báo hợp lệ quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
 
----
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị xem xét lại, kháng nghị, Tòa án nhân dân đã ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản phải gửi hồ sơ vụ việc phá sản kèm theo đơn đề nghị, kháng nghị cho Tòa án nhân dân cấp trên trực tiếp để xem xét, giải quyết.
 
-
-### Điều 37.2.LQ.112. Giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+(Điều này có nội dung liên quan đến Điều 15.4.LQ.36. Nguồn thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã; Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân)
 
 Điều 37.2.LQ.112. Giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 112
+(Điều 112 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900011200000000000000000
+1. Ngay sau khi nhận được hồ sơ về phá sản kèm theo đơn đề nghị, kháng nghị, Tòa án nhân dân cấp trên trực tiếp chỉ định một tổ gồm 03 Thẩm phán xem xét, giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản và gửi hồ sơ vụ việc phá sản cho Viện kiểm sát nhân dân cùng cấp.
 
-**ID:** dk_00060700
+2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ vụ việc phá sản do Tòa án nhân dân chuyển đến, Viện kiểm sát nhân dân cùng cấp phải trả lại hồ sơ cho Tòa án nhân dân.
 
----
+3. Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ vụ việc phá sản kèm theo đơn đề nghị, kháng nghị, Tổ Thẩm phán phải tổ chức phiên họp và ra một trong các quyết định sau:
 
+a) Không chấp nhận đơn đề nghị, kháng nghị và giữ nguyên quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản;
 
-### Điều 37.2.LQ.113. Xem xét đơn đề nghị, kiến nghị theo thủ tục đặc biệt
+b) Sửa quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản;
+
+c) Huỷ quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản và giao hồ sơ cho Tòa án nhân dân cấp dưới có thẩm quyền giải quyết lại.
+
+4. Phiên họp của Tổ Thẩm phán có Viện kiểm sát nhân dân tham gia và có Thư ký Tòa án nhân dân ghi biên bản phiên họp; trường hợp cần thiết, Tòa án nhân dân triệu tập người đề nghị, người khác có liên quan tham gia phiên họp để trình bày ý kiến.
+
+5. Quyết định giải quyết đơn đề nghị, kháng nghị của Tòa án nhân dân cấp trên trực tiếp có hiệu lực pháp luật kể từ ngày ra quyết định.
+
+(Điều này có nội dung liên quan đến Điều 15.4.LQ.36. Nguồn thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã; Điều 37.2.TT.1.3. Thành lập Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản và Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản)
 
 Điều 37.2.LQ.113. Xem xét đơn đề nghị, kiến nghị theo thủ tục đặc biệt
 
-**Chỉ mục:** 113
+(Điều 113 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000000900011300000000000000000
+1. Trong thời hạn 15 ngày kể từ ngày Tòa án nhân dân cấp trên trực tiếp ra quyết định giải quyết đề nghị, kiến nghị theo Điều 112 của Luật này mà có đơn đề nghị xem xét lại của người tham gia thủ tục phá sản, kiến nghị của Viện kiểm sát nhân dân tối cao hoặc kiến nghị của Tòa án nhân dân thì Chánh án Tòa án nhân dân tối cao xem xét lại quyết định đó khi có một trong các căn cứ sau:
 
-**ID:** dk_00060701
+a) Có vi phạm nghiêm trọng pháp luật về phá sản;
 
----
+b) Phát hiện tình tiết mới có thể làm thay đổi cơ bản nội dung quyết định tuyên bố phá sản mà Tòa án nhân dân, người tham gia thủ tục phá sản không thể biết được khi Tòa án nhân dân ra quyết định.
 
+2. Trường hợp có căn cứ quy định tại khoản 1 Điều này, Tòa án nhân dân tối cao yêu cầu Tòa án nhân dân đã ra quyết định giải quyết đề nghị, kiến nghị theo Điều 112 của Luật này chuyển hồ sơ vụ việc phá sản cho Tòa án nhân dân tối cao để xem xét giải quyết.
 
-### Điều 37.2.LQ.114. Xử lý tranh chấp tài sản trước khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+3. Trong thời hạn 30 ngày kể từ ngày nhận được đơn đề nghị, kiến nghị, Chánh án Tòa án nhân dân tối cao có quyền ra một trong các quyết định sau:
+
+a) Không chấp nhận đề nghị xem xét lại, kiến nghị và giữ nguyên quyết định của Tòa án nhân dân cấp dưới;
+
+b) Huỷ quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản của Tòa án nhân dân cấp dưới, quyết định giải quyết đề nghị xem xét lại, kiến nghị của Tòa án nhân dân cấp trên trực tiếp và giao hồ sơ về phá sản cho Tòa án nhân dân cấp dưới giải quyết lại.
+
+4. Quyết định giải quyết đơn đề nghị, kiến nghị của Chánh án Tòa án nhân dân tối cao là quyết định cuối cùng và có hiệu lực pháp luật kể từ ngày ra quyết định.
+
+(Điều này có nội dung liên quan đến Điều 15.4.LQ.36. Nguồn thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã; Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân)
+
+Chương X
+
+XỬ LÝ TÀI SẢN DOANH NGHIỆP, HỢP TÁC XÃ CÓ TRANH CHẤP
+
+(Chương này có nội dung liên quan đến của ; Điều 33.4.LQ.67. Hoàn thành nghĩa vụ nộp thuế trong trường hợp giải thể, phá sản, chấm dứt hoạt động của Luật 38/2019/QH14 Luật Quản lý thuế ban hành ngày 13/06/2019; Điều 21. Xử lý tài sản không chia của hợp tác xã, liên hiệp hợp tác xã khi giải thể, phá sản của Nghị định 193/2013/NĐ-CP Quy định chi tiết một số điều của Luật Hợp tác xã ban hành ngày 21/11/2013; Điều 9.3.NĐ.4. Áp dụng pháp luật và thỏa thuận về bảo đảm thực hiện nghĩa vụ; Điều 9.3.NĐ.7. Quyền truy đòi tài sản bảo đảm của Nghị định 21/2021/NĐ-CP Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ ban hành ngày 19/03/2021; Điều 3. Nguyên tắc xử lý tài sản hình thành từ nhiều nguồn vốn khi HTX giải thể, phá sản của Thông tư 31/2018/TT-BTC Hướng dẫn việc xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã, liên hiệp hợp tác xã giải thể, phá sản ban hành ngày 30/03/2018; Điều 41.6.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 41.6.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng của Thông tư 05/2023/TT-BVHTTDL quy định tiêu chí phân loại phim và thực hiện hiển thị mức phân loại phim, cảnh báo ban hành ngày 05/04/2023)
 
 Điều 37.2.LQ.114. Xử lý tranh chấp tài sản trước khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 114
+(Điều 114 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001000011400000000000000000
+1. Trong quá trình giải quyết phá sản của doanh nghiệp, hợp tác xã mà phát sinh tranh chấp về tài sản trước khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản, Tòa án nhân dân đang giải quyết vụ việc phá sản phải xem xét tách phần tài sản đang tranh chấp để giải quyết bằng vụ án khác theo quy định của pháp luật về tố tụng dân sự.
 
-**ID:** dk_00060703
+2. Sau khi có bản án, quyết định có hiệu lực của Tòa án nhân dân giải quyết tranh chấp tài sản theo quy định tại khoản 1 Điều này thì Tòa án nhân dân giải quyết phá sản xử lý tài sản như sau:
 
----
+a) Trước khi có quyết định tuyên bố phá sản thì tài sản có được từ bản án, quyết định có hiệu lực được nhập vào tài sản của doanh nghiệp, hợp tác xã;
 
+b) Sau khi có quyết định tuyên bố phá sản thì tài sản có được từ bản án, quyết định có hiệu lực được phân chia theo quyết định tuyên bố phá sản trước đó.
 
-### Điều 37.2.LQ.115. Xử lý trường hợp có tranh chấp tài sản trong quá trình thi hành quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+3. Việc tách tài sản đang tranh chấp thành vụ án khác theo quy định tại khoản 1 Điều này được thông báo theo quy định tại khoản 1 Điều 43 của Luật này.
+
+4. Khi doanh nghiệp, hợp tác xã bị tuyên bố phá sản thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đại diện cho doanh nghiệp, hợp tác xã tham gia giải quyết tranh chấp về tài sản.
 
 Điều 37.2.LQ.115. Xử lý trường hợp có tranh chấp tài sản trong quá trình thi hành quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 115
+(Điều 115 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001000011500000000000000000
+1. Quá trình thực hiện việc thanh lý tài sản theo quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản mà có tranh chấp hoặc không thể thi hành được thì Chấp hành viên, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản đề nghị Tòa án nhân dân đã giải quyết vụ việc phá sản xem xét.
 
-**ID:** dk_00060704
+2. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị của Chấp hành viên, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản, Tòa án nhân dân phải xem xét ra một trong các văn bản sau:
 
----
+a) Văn bản trả lời không chấp nhận đề nghị của Chấp hành viên, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản;
 
+b) Chuyển đơn đề nghị đến người có thẩm quyền để xem xét kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản theo quy định của pháp luật.
 
-### Điều 37.2.LQ.116. Người tham gia thủ tục phá sản là người nước ngoài
+3. Trường hợp Chấp hành viên, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, người tham gia thủ tục phá sản không đồng ý với văn bản trả lời quy định tại điểm a khoản 2 Điều này thì có quyền đề nghị người có thẩm quyền xem xét kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản theo quy định của pháp luật.
+
+4. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đại diện cho doanh nghiệp, hợp tác xã tham gia giải quyết tranh chấp về tài sản.
+
+Chương XI
+
+THỦ TỤC PHÁ SẢN CÓ YẾU TỐ NƯỚC NGOÀI
 
 Điều 37.2.LQ.116. Người tham gia thủ tục phá sản là người nước ngoài
 
-**Chỉ mục:** 116
+(Điều 116 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001100011600000000000000000
-
-**ID:** dk_00060706
-
----
-
-
-### Điều 37.2.LQ.117. Ủy thác tư pháp của Tòa án nhân dân Việt Nam đối với cơ quan có thẩm quyền của nước ngoài
+Người tham gia thủ tục phá sản là người nước ngoài phải thực hiện theo quy định của pháp luật về phá sản của Việt Nam.
 
 Điều 37.2.LQ.117. Ủy thác tư pháp của Tòa án nhân dân Việt Nam đối với cơ quan có thẩm quyền của nước ngoài
 
-**Chỉ mục:** 117
+(Điều 117 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001100011700000000000000000
+1. Trong quá trình giải quyết vụ việc phá sản có yếu tố nước ngoài, Tòa án nhân dân thực hiện uỷ thác tư pháp theo hiệp định tương trợ tư pháp mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại.
 
-**ID:** dk_00060707
-
----
-
-
-### Điều 37.2.LQ.118. Thủ tục công nhận và cho thi hành quyết định giải quyết phá sản của Tòa án nước ngoài
+2. Thủ tục ủy thác tư pháp được thực hiện theo quy định của pháp luật về tố tụng dân sự, pháp luật về tương trợ tư pháp.
 
 Điều 37.2.LQ.118. Thủ tục công nhận và cho thi hành quyết định giải quyết phá sản của Tòa án nước ngoài
 
-**Chỉ mục:** 118
+(Điều 118 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001100011800000000000000000
+Việc công nhận và cho thi hành quyết định giải quyết phá sản của Tòa án nước ngoài được thực hiện theo quy định của hiệp định tương trợ tư pháp mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và quy định khác của pháp luật về tương trợ tư pháp.
 
-**ID:** dk_00060708
+Chương XII
 
----
-
-
-### Điều 37.2.LQ.119. Thẩm quyền thi hành quyết định tuyên bố phá sản
+THI HÀNH QUYẾT ĐỊNH TUYÊN BỐ DOANH NGHIỆP, HỢP TÁC XÃ PHÁ SẢN
 
 Điều 37.2.LQ.119. Thẩm quyền thi hành quyết định tuyên bố phá sản
 
-**Chỉ mục:** 119
+(Điều 119 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001200011900000000000000000
-
-**ID:** dk_00060710
-
----
-
-
-### Điều 37.2.LQ.120. Thủ tục thi hành quyết định tuyên bố phá sản
+Thẩm quyền thi hành quyết định tuyên bố phá sản được thực hiện theo quy định của Luật này, pháp luật về thi hành án dân sự và quy định khác của pháp luật có liên quan.
 
 Điều 37.2.LQ.120. Thủ tục thi hành quyết định tuyên bố phá sản
 
-**Chỉ mục:** 120
+(Điều 120 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001200012000000000000000000
+1. Trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định tuyên bố phá sản, cơ quan thi hành án dân sự có trách nhiệm chủ động ra quyết định thi hành, phân công Chấp hành viên thi hành quyết định tuyên bố phá sản.
 
-**ID:** dk_00060711
+2. Sau khi nhận được quyết định phân công của Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên thực hiện các nhiệm vụ sau:
 
----
+a) Mở một tài khoản tại ngân hàng đứng tên cơ quan thi hành án dân sự có thẩm quyền thi hành quyết định tuyên bố phá sản để gửi các khoản tiền thu hồi được của doanh nghiệp, hợp tác xã phá sản;
 
+b) Giám sát Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thực hiện thanh lý tài sản;
 
-### Điều 37.2.LQ.121. Yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản tổ chức thực hiện thanh lý tài sản
+c) Thực hiện cưỡng chế để thu hồi tài sản, giao tài sản cho người mua được tài sản trong vụ việc phá sản theo quy định của pháp luật về thi hành án dân sự;
+
+d) Sau khi nhận được báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản về kết quả thanh lý tài sản, Chấp hành viên thực hiện phương án phân chia tài sản theo quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản.
 
 Điều 37.2.LQ.121. Yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản tổ chức thực hiện thanh lý tài sản
 
-**Chỉ mục:** 121
+(Điều 121 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001200012100000000000000000
+1. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được quyết định phân công của Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên có văn bản yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thực hiện việc thanh lý tài sản.
 
-**ID:** dk_00060712
+2. Văn bản yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản tổ chức thực hiện thanh lý tài sản có các nội dung chủ yếu sau:
 
----
+a) Ngày, tháng, năm;
 
+b) Tên của Chấp hành viên yêu cầu;
 
-### Điều 37.2.LQ.122. Định giá tài sản
+c) Tên của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thực hiện việc thanh lý tài sản;
 
-*Nội dung chưa có sẵn*
+d) Tên, địa chỉ của doanh nghiệp, hợp tác xã phá sản;
 
-**Chỉ mục:** 122
+đ) Phương thức thanh lý tài sản cụ thể theo quy định tại các điều 122, 123 và 124 của Luật này.
 
-**Mã phân cấp:** 3700200000000001200012200000000000000000
+3. Văn bản yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản thực hiện việc thanh lý tài sản phải được gửi cho Tòa án nhân dân, Viện kiểm sát nhân dân, người tham gia thủ tục phá sản.
 
-**ID:** dk_00060713
+4. Tài sản mà Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản không thực hiện được việc thanh lý sau 02 năm kể từ ngày nhận được văn bản yêu cầu của Chấp hành viên theo quy định tại khoản 2 Điều này thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải chấm dứt việc thanh lý tài sản và bàn giao toàn bộ giấy tờ, tài sản của doanh nghiệp, hợp tác xã phá sản cho cơ quan thi hành án dân sự xử lý, thanh lý tài sản theo quy định của pháp luật.
 
----
+Điều 37.2.LQ.122. Định giá tài sản
 
+(Điều 122 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 37.2.LQ.123. Định giá lại tài sản
+1. Trong thời hạn 10 ngày làm việc kể từ ngày ra quyết định tuyên bố phá sản, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải tổ chức định giá tài sản theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+Khi ký hợp đồng dịch vụ với tổ chức thẩm định giá thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản không được ký hợp đồng thẩm định giá với cá nhân, tổ chức mà mình có quyền, lợi ích liên quan.
 
-**Chỉ mục:** 123
+2. Trường hợp tài sản thanh lý có nguy cơ bị phá hủy hoặc bị giảm đáng kể về giá trị thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản xác định giá trị tài sản và thanh lý theo quy định của pháp luật.
 
-**Mã phân cấp:** 3700200000000001200012300000000000000000
+(Điều này có nội dung liên quan đến Điều 37.2.NĐ.2.17. Trách nhiệm báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đối với Chấp hành viên; đề xuất thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
-**ID:** dk_00060714
+Điều 37.2.LQ.123. Định giá lại tài sản
 
----
+(Điều 123 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+1. Việc định giá lại tài sản được thực hiện khi có vi phạm nghiêm trọng quy định tại Điều 122 của Luật này dẫn đến sai lệch kết quả định giá tài sản.
 
-### Điều 37.2.LQ.124. Bán tài sản
+2. Thẩm phán quyết định định giá lại đối với trường hợp bán tài sản theo quy định tại khoản 3 Điều 23 của Luật này. Chấp hành viên quyết định định giá lại đối với trường hợp thanh lý tài sản.
 
-*Nội dung chưa có sẵn*
+Điều 37.2.LQ.124. Bán tài sản
 
-**Chỉ mục:** 124
+(Điều 124 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001200012400000000000000000
+1. Tài sản được bán theo các hình thức sau:
 
-**ID:** dk_00060715
+a) Bán đấu giá;
 
----
+b) Bán không qua thủ tục đấu giá.
 
+2. Việc bán đấu giá đối với tài sản là động sản có giá trị từ trên 10.000.000 đồng và bất động sản được thực hiện theo quy định của pháp luật về bán đấu giá tài sản.
 
-### Điều 37.2.LQ.125. Thu hồi lại tài sản trong trường hợp có vi phạm
+Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền thoả thuận với tổ chức bán đấu giá trong thời hạn không quá 05 ngày làm việc kể từ ngày định giá. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản ký hợp đồng dịch vụ bán đấu giá tài sản với tổ chức bán đấu giá.
+
+Trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản không thoả thuận được thì Chấp hành viên lựa chọn tổ chức bán đấu giá để ký hợp đồng dịch vụ bán đấu giá tài sản.
+
+Việc ký hợp đồng dịch vụ bán đấu giá tài sản được tiến hành trong thời hạn 10 ngày kể từ ngày thẩm định giá.
+
+Việc bán đấu giá đối với động sản phải được thực hiện trong thời hạn là 30 ngày, đối với bất động sản là 45 ngày kể từ ngày ký hợp đồng dịch vụ bán đấu giá tài sản.
+
+3. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bán đấu giá tài sản thanh lý trong các trường hợp sau:
+
+a) Tại tỉnh, thành phố trực thuộc trung ương nơi có tài sản chưa có tổ chức bán đấu giá hoặc có nhưng tổ chức bán đấu giá từ chối ký hợp đồng dịch vụ bán đấu giá tài sản;
+
+b) Động sản có giá trị từ 2.000.000 đồng đến 10.000.000 đồng.
+
+Việc bán đấu giá đối với động sản phải được thực hiện trong thời hạn là 30 ngày, đối với bất động sản là 45 ngày kể từ ngày định giá hoặc từ ngày nhận được văn bản của tổ chức bán đấu giá từ chối bán đấu giá.
+
+4. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản bán không qua thủ tục bán đấu giá đối với tài sản có giá trị dưới 2.000.000 đồng hoặc tài sản quy định tại khoản 2 Điều 122 của Luật này.
+
+Việc bán tài sản phải được thực hiện trong thời hạn không quá 05 ngày làm việc kể từ ngày ban hành quyết định thi hành quyết định tuyên bố phá sản hoặc quyết định bán tài sản.
+
+5. Thủ tục bán đấu giá được thực hiện theo quy định của pháp luật về bán đấu giá tài sản.
+
+(Điều này có nội dung liên quan đến Điều 4.1.LQ.4. Tài sản đấu giá; Điều 37.2.NĐ.2.17. Trách nhiệm báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đối với Chấp hành viên; đề xuất thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.125. Thu hồi lại tài sản trong trường hợp có vi phạm
 
-**Chỉ mục:** 125
+(Điều 125 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001200012500000000000000000
+1. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, Chấp hành viên đề nghị Tòa án nhân dân ra quyết định thu hồi lại tài sản của doanh nghiệp, hợp tác xã do thực hiện giao dịch dân sự vô hiệu theo quy định tại Điều 59 của Luật này. Việc thu hồi tài sản được thực hiện theo quy định của pháp luật về thi hành án dân sự.
 
-**ID:** dk_00060716
-
----
-
-
-### Điều 37.2.LQ.126. Đình chỉ thi hành quyết định tuyên bố phá sản
+2. Trường hợp có tranh chấp về thu hồi lại tài sản hay phần chênh lệch giá trị tài sản của doanh nghiệp, hợp tác xã thì được xử lý theo quy định tại Điều 115 của Luật này.
 
 Điều 37.2.LQ.126. Đình chỉ thi hành quyết định tuyên bố phá sản
 
-**Chỉ mục:** 126
+(Điều 126 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001200012600000000000000000
+Thủ trưởng cơ quan thi hành án dân sự quyết định đình chỉ thi hành quyết định tuyên bố phá sản trong các trường hợp sau:
 
-**ID:** dk_00060717
+1. Doanh nghiệp, hợp tác xã bị tuyên bố phá sản không có tài sản để thanh lý, phân chia;
 
----
+2. Hoàn thành việc phân chia tài sản của doanh nghiệp, hợp tác xã bị tuyên bố phá sản;
 
-
-### Điều 37.2.LQ.127. Xử lý tài sản của doanh nghiệp, hợp tác xã phát sinh sau khi quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+3. Thủ trưởng cơ quan thi hành án dân sự báo cáo Tòa án nhân dân đã giải quyết phá sản và thông báo cho cá nhân, cơ quan, tổ chức có liên quan về việc đình chỉ thi hành quyết định tuyên bố phá sản.
 
 Điều 37.2.LQ.127. Xử lý tài sản của doanh nghiệp, hợp tác xã phát sinh sau khi quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 127
+(Điều 127 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001200012700000000000000000
+1. Sau khi quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản mà phát hiện giao dịch dân sự vô hiệu theo quy định tại Điều 59 của Luật này thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền yêu cầu Tòa án nhân dân tuyên bố giao dịch vô hiệu, xử lý hậu quả của giao dịch vô hiệu và phân chia tài sản của doanh nghiệp, hợp tác xã theo quy định tại Điều 54 của Luật này.
 
-**ID:** dk_00060718
+2. Sau khi quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản mà phát hiện tài sản của doanh nghiệp, hợp tác xã chưa chia thì Tòa án nhân dân đã tuyên bố phá sản xem xét và quyết định phân chia tài sản theo quy định tại Điều 54 của Luật này.
 
----
-
-
-### Điều 37.2.LQ.128. Giải quyết khiếu nại việc thi hành Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+3. Cơ quan thi hành án dân sự tổ chức thực hiện quyết định phân chia tài sản theo quy định tại khoản 2 Điều này.
 
 Điều 37.2.LQ.128. Giải quyết khiếu nại việc thi hành Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
 
-**Chỉ mục:** 128
+(Điều 128 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001200012800000000000000000
+Việc khiếu nại, giải quyết khiếu nại về việc thi hành quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản được thực hiện theo pháp luật về thi hành án dân sự.
 
-**ID:** dk_00060719
+Chương XIII
 
----
-
-
-### Điều 37.2.LQ.129. Trách nhiệm do vi phạm pháp luật về phá sản
+XỬ LÝ VI PHẠM
 
 Điều 37.2.LQ.129. Trách nhiệm do vi phạm pháp luật về phá sản
 
-**Chỉ mục:** 129
+(Điều 129 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001300012900000000000000000
+1. Cá nhân, cơ quan, tổ chức có hành vi vi phạm pháp luật trong quá trình giải quyết vụ việc phá sản thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**ID:** dk_00060721
+2. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có hành vi vi phạm pháp luật trong quá trình giải quyết vụ việc phá sản thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt hành chính; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Trường hợp Quản tài viên, cá nhân của doanh nghiệp quản lý, thanh lý tài sản vi phạm pháp luật hình sự thì có thể bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
----
-
-
-### Điều 37.2.LQ.130. Cấm đảm nhiệm chức vụ sau khi doanh nghiệp, hợp tác xã bị tuyên bố phá sản
+(Điều này có nội dung liên quan đến Điều 39.13.NĐ.80.70. Hành vi vi phạm trách nhiệm của người nộp đơn yêu cầu mở thủ tục phá sản; Điều 39.13.NĐ.80.71. Hành vi vi phạm quy định về thông báo tình trạng phá sản; Điều 39.13.NĐ.80.72. Hành vi vi phạm quy định về hoạt động của doanh nghiệp, hợp tác xã khi đã có quyết định mở thủ tục phá sản; Điều 39.13.NĐ.80.73. Hành vi vi phạm quy định về thời hạn và nghĩa vụ kiểm kê tài sản; Điều 39.13.NĐ.80.74. Hành vi vi phạm quy định về nghĩa vụ của ngân hàng nơi doanh nghiệp, hợp tác xã bị áp dụng thủ tục thanh lý có tài khoản; Điều 39.13.NĐ.80.75. Hành vi vi phạm quy định về nghĩa vụ của người lao động liên quan đến thủ tục phá sản; Điều 39.13.NĐ.80.76. Hành vi vi phạm quy định về tham gia hội nghị chủ nợ; Điều 39.13.NĐ.80.77. Hành vi vi phạm quy định về giám sát thực hiện phương án phục hồi hoạt động kinh doanh; Điều 39.13.NĐ.80.78. Hành vi vi phạm quy định về hồ sơ đề nghị cấp chứng chỉ hành nghề quản tài viên; đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân; đăng ký hành nghề quản lý, thanh lý tài sản đối với doanh nghiệp quản lý, thanh lý tài sản; Điều 39.13.NĐ.80.79. Hành vi vi phạm quy định về hoạt động hành nghề quản lý, thanh lý tài sản; Điều 39.13.NĐ.80.80. Hành vi vi phạm quy định về hoạt động của doanh nghiệp quản lý, thanh lý tài sản)
 
 Điều 37.2.LQ.130. Cấm đảm nhiệm chức vụ sau khi doanh nghiệp, hợp tác xã bị tuyên bố phá sản
 
-**Chỉ mục:** 130
+(Điều 130 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001300013000000000000000000
+1. Người giữ chức vụ Chủ tịch, Tổng giám đốc, Giám đốc, thành viên Hội đồng quản trị của doanh nghiệp 100% vốn nhà nước bị tuyên bố phá sản không được đảm đương các chức vụ đó ở bất kỳ doanh nghiệp nhà nước nào kể từ ngày doanh nghiệp 100% vốn nhà nước bị tuyên bố phá sản.
 
-**ID:** dk_00060722
+2. Người đại diện phần vốn góp của Nhà nước ở doanh nghiệp có vốn nhà nước mà doanh nghiệp đó bị tuyên bố phá sản không được đảm đương các chức vụ quản lý ở bất kỳ doanh nghiệp nào có vốn của Nhà nước.
 
----
+3. Người giữ chức vụ quản lý của doanh nghiệp, hợp tác xã bị tuyên bố phá sản mà cố ý vi phạm quy định tại khoản 1 Điều 18, khoản 5 Điều 28, khoản 1 Điều 48 của Luật này thì Thẩm phán xem xét, quyết định về việc không được quyền thành lập doanh nghiệp, hợp tác xã, làm người quản lý doanh nghiệp, hợp tác xã trong thời hạn 03 năm kể từ ngày Tòa án nhân dân có quyết định tuyên bố phá sản.
 
+4. Quy định tại các khoản 1, 2 và 3 Điều này không áp dụng trong trường hợp doanh nghiệp, hợp tác xã phá sản với lý do bất khả kháng.
 
-### Điều 37.2.LQ.131. Điều khoản chuyển tiếp
+(Điều này có nội dung liên quan đến Điều 15.4.LQ.36. Nguồn thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã; Điều 15.4.LQ.37. Cung cấp, tiếp nhận thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã)
 
-*Nội dung chưa có sẵn*
+Chương XIV
 
-**Chỉ mục:** 131
+ĐIỀU KHOẢN THI HÀNH
 
-**Mã phân cấp:** 3700200000000001400013100000000000000000
+Điều 37.2.LQ.131. Điều khoản chuyển tiếp
 
-**ID:** dk_00060724
+(Điều 131 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
----
+1. Kể từ ngày Luật này có hiệu lực, tài sản của doanh nghiệp, hợp tác xã được phát hiện sau khi có quyết định tuyên bố phá sản theo Luật Phá sản số 21/2004/QH11 thì xử lý theo quy định tại Điều 127 của Luật này.
 
+2. Đối với quyết định tuyên bố phá sản được ban hành theo quy định của Luật Phá sản số 21/2004/QH11 trước ngày Luật này có hiệu lực mà có khiếu nại, kháng nghị, đến ngày Luật này có hiệu lực chưa được giải quyết thì giải quyết theo thủ tục quy định tại khoản 2 Điều 111, Điều 112 và Điều 113 của Luật này.
 
-### Điều 37.2.NĐ.2.28. Điều khoản chuyển tiếp
+3. Đối với yêu cầu mở thủ tục phá sản đã được Tòa án nhân dân thụ lý trước ngày Luật này có hiệu lực mà chưa ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản thì áp dụng quy định của Luật này để tiếp tục giải quyết.
 
-*Nội dung chưa có sẵn*
+4. Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao hướng dẫn thi hành Điều này.
 
-**Chỉ mục:** 28
+Điều 37.2.NĐ.2.28. Điều khoản chuyển tiếp
 
-**Mã phân cấp:** 3700200000000001400013140253690022000280
+(Điều 28 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**ID:** dk_00060725
+1. Đối với yêu cầu mở thủ tục phá sản đã được Tòa án nhân dân thụ lý trước ngày 01 tháng 01 năm 2015 mà đã thành lập Tổ quản lý, thanh lý tài sản theo quy định của Luật Phá sản số 21/2004/QH11, nếu đến ngày 01 tháng 01 năm 2015 mà Tổ quản lý, thanh lý tài sản chưa thực hiện xong nhiệm vụ, quyền hạn của mình thì Tổ quản lý, thanh lý tài sản tiếp tục thực hiện nhiệm vụ, quyền hạn đối với vụ việc phá sản đó.
 
----
+Trường hợp Thẩm phán tiến hành thủ tục phá sản chỉ định được Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản theo quy định của Luật Phá sản số 51/2014/QH13 và Nghị định này đối với yêu cầu mở thủ tục phá sản nêu trên thì Tổ quản lý, thanh lý tài sản chấm dứt hoạt động và bị giải thể theo quy định của Luật Phá sản số 21/2004/QH11. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản tiếp tục thực hiện nhiệm vụ quản lý, thanh lý tài sản đối với vụ việc phá sản đó, trừ phần công việc mà Tổ quản lý, thanh lý tài sản đã thực hiện trong phạm vi nhiệm vụ, quyền hạn theo quy định của Luật Phá sản số 21/2004/QH11. Kết quả công việc do Tổ quản lý, thanh lý tài sản thực hiện được công nhận và có giá trị sử dụng theo quy định của Luật Phá sản số 51/2014/QH13.
 
+2. Đối với yêu cầu mở thủ tục phá sản đã được Tòa án nhân dân thụ lý trước ngày 01 tháng 01 năm 2015 mà chưa thành lập Tổ quản lý, thanh lý tài sản theo quy định của Luật Phá sản số 21/2004/QH11, đến ngày 01 tháng 01 năm 2015, Thẩm phán tiến hành thủ tục phá sản chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản theo quy định của Luật Phá sản số 51/2014/QH13 và Nghị định này.
 
-### Điều 37.2.LQ.132. Hiệu lực thi hành
+(Điều này có nội dung liên quan đến Điều 37.2.LQ.45. Chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản)
 
-*Nội dung chưa có sẵn*
+Điều 37.2.LQ.132. Hiệu lực thi hành
 
-**Chỉ mục:** 132
+(Điều 132 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001400013200000000000000000
+1. Luật này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2015.
 
-**ID:** dk_00060726
+2. Luật Phá sản số 21/2004/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
----
-
-
-### Điều 37.2.LQ.133. Quy định chi tiết và hướng dẫn thi hành
+(Điều này có nội dung liên quan đến Điều 207. Phá sản doanh nghiệp của Luật 68/2014/QH13 Doanh nghiệp ban hành ngày 26/11/2014)
 
 Điều 37.2.LQ.133. Quy định chi tiết và hướng dẫn thi hành
 
-**Chỉ mục:** 133
+(Điều 133 Luật số 51/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 3700200000000001400013300000000000000000
+Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật.
 
-**ID:** dk_00060727
+Điều 37.2.NĐ.1.34. Hiệu lực thi hành
 
----
+(Điều 34 Nghị định số 67/2006/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/08/2006)
 
+1. Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
-### Điều 37.2.NĐ.1.34. Hiệu lực thi hành
+2. Bộ Quốc phòng, Bộ Công an, Ban Cơ yếu Chính phủ, Bộ Kế hoạch và Đầu tư phối hợp với Toà án nhân dân tối cao và các Bộ, ngành liên quan hướng dẫn thực hiện Nghị định này.
 
-*Nội dung chưa có sẵn*
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**Chỉ mục:** 34
+Điều 37.2.NĐ.2.29. Hiệu lực thi hành
 
-**Mã phân cấp:** 3700200000000001400013340222270067000340
+(Điều 29 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**ID:** dk_00060728
+1. Nghị định này có hiệu lực thi hành kể từ ngày 06 tháng 4 năm 2015.
 
----
+2. Bãi bỏ các quy định về Tổ quản lý, thanh lý tài sản của các văn bản quy phạm pháp luật sau đây:
 
+a) Khoản 3 Điều 1, Khoản 2 Điều 2, Điều 11 và Chương III Nghị định số 67/2006/NĐ-CP ngày 11 tháng 7 năm 2006 của Chính phủ hướng dẫn việc áp dụng Luật Phá sản đối với doanh nghiệp đặc biệt và tổ chức, hoạt động của Tổ quản lý, thanh lý tài sản.
 
-### Điều 37.2.NĐ.2.29. Hiệu lực thi hành
+b) Điều 6, Điều 7, Khoản 1 Điều 17, Khoản 3 Điều 27, Khoản 3 Điều 31 và Khoản 2, Khoản 3 Điều 40 của Nghị định số 05/2010/NĐ-CP ngày 18 tháng 01 năm 2010 của Chính phủ quy định việc áp dụng Luật Phá sản đối với các tổ chức tín dụng.
 
-*Nội dung chưa có sẵn*
+Điều 37.2.NĐ.2.30. Trách nhiệm thi hành
 
-**Chỉ mục:** 29
+(Điều 30 Nghị định số 22/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 06/04/2015)
 
-**Mã phân cấp:** 3700200000000001400013340253690022000290
+1. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**ID:** dk_00060729
+2. Bộ trưởng Bộ Tư pháp chịu trách nhiệm hướng dẫn thi hành Nghị định này.
 
----
+Điều 37.2.NQ.1.7. Hiệu lực thi hành
 
+(Điều 7 Nghị quyết số 03/2016/NQ-HĐTP, có hiệu lực thi hành kể từ ngày 26/08/2016)
 
-### Điều 37.2.NĐ.2.30. Trách nhiệm thi hành
+1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 01 tháng 8 năm 2016 và có hiệu lực thi hành kể từ ngày 16 tháng 9 năm 2016.
 
-*Nội dung chưa có sẵn*
+2. Đối với yêu cầu mở thủ tục phá sản mà Tòa án đã thụ lý trước ngày Nghị quyết này có hiệu lực thi hành nhưng chưa giải quyết thì áp dụng Nghị quyết này để giải quyết.
 
-**Chỉ mục:** 30
+Đối với quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản của Tòa án đã có hiệu lực pháp luật trước ngày Nghị quyết này có hiệu lực thi hành thì không áp dụng hướng dẫn tại Nghị quyết này để làm căn cứ kháng nghị.
 
-**Mã phân cấp:** 3700200000000001400013340253690022000300
+Điều 37.2.QĐ.1.5. Hiệu lực thi hành
 
-**ID:** dk_00060730
+(Điều 5 Quyết định số 01/2005/QĐ-TANDTC, có hiệu lực thi hành kể từ ngày 04/06/2005)
 
----
+Quyết định này có hiệu lực sau mười lăm ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 426/QĐ ngày 1/7/1994 của Chánh án Toà án nhân dân tối cao về Quy chế làm việc của Tập thể Thẩm phán phụ trách việc giải quyết yêu cầu tuyên bố phá sản doanh nghiệp.
 
+Điều 37.2.TT.1.21. Hiệu lực thi hành
 
-### Điều 37.2.NQ.1.7. Hiệu lực thi hành
+(Điều 21 Thông tư số 01/2015/TT-CA, có hiệu lực thi hành kể từ ngày 26/11/2015)
 
-*Nội dung chưa có sẵn*
+1. Thông tư này có hiệu lực từ ngày 26 tháng 11 năm 2015.
 
-**Chỉ mục:** 7
+2. Trong quá trình thực hiện Thông tư này, nếu có vướng mắc cần giải thích hoặc hướng dẫn bổ sung thì đề nghị phản ánh kịp thời về Tòa án nhân dân tối cao để có giải thích hoặc hướng dẫn bổ sung kịp thời.
 
-**Mã phân cấp:** 3700200000000001400013360259260003000070
+## Danh sách điều khoản
 
-**ID:** dk_00060731
+### 37002000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
+### 3700200000000000100000100000000000000000
 
-### Điều 37.2.QĐ.1.5. Hiệu lực thi hành
+Điều 37.2.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3700200000000000100000200000000000000000
 
-**Chỉ mục:** 5
+Điều 37.2.LQ.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3700200000000001400013380217870001000050
+### 3700200000000000100000240222270067000010
 
-**ID:** dk_00060732
+Điều 37.2.NĐ.1.1. Phạm vi điều chỉnh
 
----
+### 3700200000000000100000240222270067000020
 
+Điều 37.2.NĐ.1.2. Đối tượng áp dụng
 
-### Điều 37.2.TT.1.21. Hiệu lực thi hành
+### 3700200000000000100000240253690022000010
 
-*Nội dung chưa có sẵn*
+Điều 37.2.NĐ.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 21
+### 3700200000000000100000260259260003000010
 
-**Mã phân cấp:** 3700200000000001400013380256030001000210
+Điều 37.2.NQ.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00060733
+### 3700200000000000100000280217870001000010
 
----
+Điều 37.2.QĐ.1.1. Phạm vi điều chỉnh
 
+### 3700200000000000100000280256030001000010
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Tố tụng và các phương thức giải quyết tranh chấp](/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 37.2.TT.1.1. Phạm vi điều chỉnh
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 224
-- **Điều khoản thực tế:** 210
-- **Điều khoản có nội dung:** 164 (78.1%)
-- **ID đề mục:** 3e04457782d74a50b5ed42a1231c6f80
+### 3700200000000000100000300000000000000000
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 37.2.LQ.3. Áp dụng Luật phá sản
 
----
+### 3700200000000000100000400000000000000000
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 37.2.LQ.4. Giải thích từ ngữ
+
+### 3700200000000000100000500000000000000000
+
+Điều 37.2.LQ.5. Người có quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000100000600000000000000000
+
+Điều 37.2.LQ.6. Thông báo doanh nghiệp, hợp tác xã mất khả năng thanh toán
+
+### 3700200000000000100000700000000000000000
+
+Điều 37.2.LQ.7. Trách nhiệm cung cấp tài liệu, chứng cứ của cá nhân, cơ quan, tổ chức có liên quan
+
+### 3700200000000000100000800000000000000000
+
+Điều 37.2.LQ.8. Thẩm quyền giải quyết phá sản của Tòa án nhân dân
+
+### 370020000000000010000080000000000000000000602592600030000200
+
+Điều 37.2.NQ.1.2. Về tài sản ở nước ngoài, người tham gia thủ tục phá sản ở nước ngoài quy định tại điểm a khoản 1 Điều 8 của Luật phá sản
+
+### 370020000000000010000080000000000000000000602592600030000300
+
+Điều 37.2.NQ.1.3. Về vụ việc phá sản có tính chất phức tạp theo quy định tại điểm d khoản 1 Điều 8 của Luật phá sản và thẩm quyền giải quyết
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670000300
+
+Điều 37.2.NĐ.1.3. Tiêu chí xác định danh mục doanh nghiệp đặc biệt trực tiếp phục vụ quốc phòng, an ninh
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670000400
+
+Điều 37.2.NĐ.1.4. Tiêu chí xác định danh mục doanh nghiệp, hợp tác xã thường xuyên, trực tiếp cung ứng sản phẩm dịch vụ công ích thiết yếu
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670000500
+
+Điều 37.2.NĐ.1.5. Lập và công bố danh mục doanh nghiệp đặc biệt
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670000600
+
+Điều 37.2.NĐ.1.6. Thông báo về việc có đơn yêu cầu mở thủ tục phá sản
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670000700
+
+Điều 37.2.NĐ.1.7. Trách nhiệm của cơ quan nhà nước và của doanh nghiệp đặc biệt
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670000800
+
+Điều 37.2.NĐ.1.8. Áp dụng biện pháp cần thiết phục hồi khả năng thanh toán và hoạt động kinh doanh
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670000900
+
+Điều 37.2.NĐ.1.9. Thụ lý đơn yêu cầu mở thủ tục phá sản đối với doanh nghiệp đặc biệt
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670001000
+
+Điều 37.2.NĐ.1.10. Thủ tục phá sản
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670001200
+
+Điều 37.2.NĐ.1.12. Thanh lý tài sản của doanh nghiệp đặc biệt
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670001300
+
+Điều 37.2.NĐ.1.13. Thanh toán nợ có bảo đảm và hoàn trả lại tài sản cho Nhà nước
+
+### 37002000000000001000008000000000000000000060259260003000030000402222700670001400
+
+Điều 37.2.NĐ.1.14. Thứ tự phân chia tài sản
+
+### 3700200000000000100000900000000000000000
+
+Điều 37.2.LQ.9. Nhiệm vụ, quyền hạn của Thẩm phán tiến hành thủ tục phá sản
+
+### 370020000000000010000090000000000000000000602592600030000400
+
+Điều 37.2.NQ.1.4. Về tham khảo quyết định giải quyết phá sản trước đó trong vụ việc phá sản tương tự quy định tại khoản 14 Điều 9 của Luật phá sản
+
+### 3700200000000000100001000000000000000000
+
+Điều 37.2.LQ.10. Từ chối hoặc thay đổi Thẩm phán trong quá trình giải quyết phá sản
+
+### 3700200000000000100001100000000000000000
+
+Điều 37.2.LQ.11. Cá nhân, doanh nghiệp hành nghề quản lý, thanh lý tài sản
+
+### 370020000000000010000110000000000000000000402536900220000200
+
+Điều 37.2.NĐ.2.2. Nguyên tắc hành nghề quản lý, thanh lý tài sản
+
+### 370020000000000010000110000000000000000000402536900220000300
+
+Điều 37.2.NĐ.2.3. Những hành vi bị nghiêm cấm đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000110000000000000000000402536900220000800
+
+Điều 37.2.NĐ.2.8. Hình thức hành nghề của Quản tài viên
+
+### 370020000000000010000110000000000000000000402536900220002700
+
+Điều 37.2.NĐ.2.27. Khiếu nại, tố cáo
+
+### 3700200000000000100001200000000000000000
+
+Điều 37.2.LQ.12. Điều kiện hành nghề Quản tài viên
+
+### 370020000000000010000120000000000000000000402536900220000400
+
+Điều 37.2.NĐ.2.4. Cấp chứng chỉ hành nghề Quản tài viên
+
+### 370020000000000010000120000000000000000000402536900220000500
+
+Điều 37.2.NĐ.2.5. Cấp lại chứng chỉ hành nghề Quản tài viên
+
+### 370020000000000010000120000000000000000000402536900220000700
+
+Điều 37.2.NĐ.2.7. Nghĩa vụ của Quản tài viên trong hoạt động hành nghề
+
+### 370020000000000010000120000000000000000000402536900220000900
+
+Điều 37.2.NĐ.2.9. Đăng ký hành nghề quản lý, thanh lý tài sản với tư cách cá nhân
+
+### 370020000000000010000120000000000000000000402536900220001400
+
+Điều 37.2.NĐ.2.14. Lập, công bố danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản
+
+### 370020000000000010000120000000000000000000402536900220001500
+
+Điều 37.2.NĐ.2.15. Thay đổi thông tin đăng ký hành nghề của Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản
+
+### 370020000000000010000120000000000000000000402536900220001600
+
+Điều 37.2.NĐ.2.16. Thông báo tham gia vụ việc phá sản của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000120000000000000000000402536900220001700
+
+Điều 37.2.NĐ.2.17. Trách nhiệm báo cáo của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đối với Chấp hành viên; đề xuất thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000120000000000000000000402536900220001900
+
+Điều 37.2.NĐ.2.19. Các trường hợp Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải từ chối thực hiện hoạt động quản lý, thanh lý tài sản
+
+### 370020000000000010000120000000000000000000402536900220002000
+
+Điều 37.2.NĐ.2.20. Tạm đình chỉ hành nghề đối với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000120000000000000000000402536900220002200
+
+Điều 37.2.NĐ.2.22. Trách nhiệm của Bộ Tư pháp
+
+### 370020000000000010000120000000000000000000402536900220002300
+
+Điều 37.2.NĐ.2.23. Trách nhiệm của các Bộ, cơ quan ngang Bộ
+
+### 370020000000000010000120000000000000000000402536900220002400
+
+Điều 37.2.NĐ.2.24. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+
+### 370020000000000010000120000000000000000000402536900220002500
+
+Điều 37.2.NĐ.2.25. Xử lý vi phạm đối với các hành vi xâm phạm quyền, lợi ích hợp pháp của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000120000000000000000000402536900220002600
+
+Điều 37.2.NĐ.2.26. Xử lý vi phạm đối với cá nhân, tổ chức hành nghề quản lý, thanh lý tài sản bất hợp pháp
+
+### 3700200000000000100001300000000000000000
+
+Điều 37.2.LQ.13. Doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000130000000000000000000402536900220001000
+
+Điều 37.2.NĐ.2.10. Doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000130000000000000000000402536900220001100
+
+Điều 37.2.NĐ.2.11. Thành viên hợp danh của công ty hợp danh, chủ doanh nghiệp tư nhân quản lý, thanh lý tài sản
+
+### 370020000000000010000130000000000000000000402536900220001200
+
+Điều 37.2.NĐ.2.12. Đăng ký hành nghề quản lý, thanh lý tài sản đối với doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000130000000000000000000402536900220001300
+
+Điều 37.2.NĐ.2.13. Nghĩa vụ của doanh nghiệp quản lý, thanh lý tài sản trong hoạt động hành nghề
+
+### 3700200000000000100001400000000000000000
+
+Điều 37.2.LQ.14. Cá nhân không được hành nghề quản lý, thanh lý tài sản
+
+### 3700200000000000100001500000000000000000
+
+Điều 37.2.LQ.15. Thu hồi chứng chỉ hành nghề Quản tài viên
+
+### 370020000000000010000150000000000000000000402536900220000600
+
+Điều 37.2.NĐ.2.6. Thu hồi chứng chỉ hành nghề Quản tài viên
+
+### 3700200000000000100001600000000000000000
+
+Điều 37.2.LQ.16. Quyền, nghĩa vụ của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 3700200000000000100001700000000000000000
+
+Điều 37.2.LQ.17. Nhiệm vụ, quyền hạn của cơ quan thi hành án dân sự
+
+### 3700200000000000100001800000000000000000
+
+Điều 37.2.LQ.18. Quyền, nghĩa vụ của người tham gia thủ tục phá sản
+
+### 3700200000000000100001900000000000000000
+
+Điều 37.2.LQ.19. Quyền, nghĩa vụ của người nộp đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000100002000000000000000000
+
+Điều 37.2.LQ.20. Quyền, nghĩa vụ của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+
+### 3700200000000000100002100000000000000000
+
+Điều 37.2.LQ.21. Kiểm sát việc tuân theo pháp luật trong quá trình giải quyết phá sản
+
+### 3700200000000000100002200000000000000000
+
+Điều 37.2.LQ.22. Lệ phí phá sản
+
+### 3700200000000000100002300000000000000000
+
+Điều 37.2.LQ.23. Chi phí phá sản, tạm ứng chi phí phá sản
+
+### 3700200000000000100002400000000000000000
+
+Điều 37.2.LQ.24. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000010000240000000000000000000402536900220002100
+
+Điều 37.2.NĐ.2.21. Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 3700200000000000100002500000000000000000
+
+Điều 37.2.LQ.25. Việc yêu cầu, cấp, thông báo văn bản trong giải quyết phá sản
+
+### 37002000000000002000
+
+Chương II ĐƠN VÀ THỤ LÝ ĐƠN YÊU CẦU MỞ THỦ TỤC PHÁ SẢN
+
+### 3700200000000000200002600000000000000000
+
+Điều 37.2.LQ.26. Đơn yêu cầu mở thủ tục phá sản của chủ nợ
+
+### 3700200000000000200002700000000000000000
+
+Điều 37.2.LQ.27. Đơn yêu cầu mở thủ tục phá sản của người lao động, đại diện công đoàn
+
+### 3700200000000000200002800000000000000000
+
+Điều 37.2.LQ.28. Đơn yêu cầu mở thủ tục phá sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+
+### 3700200000000000200002900000000000000000
+
+Điều 37.2.LQ.29. Đơn yêu cầu mở thủ tục phá sản của cổ đông hoặc nhóm cổ đông của công ty cổ phần, thành viên hợp tác xã hoặc hợp tác xã thành viên của liên hiệp hợp tác xã
+
+### 3700200000000000200003000000000000000000
+
+Điều 37.2.LQ.30. Phương thức nộp đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000200003100000000000000000
+
+Điều 37.2.LQ.31. Phân công Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+
+### 370020000000000020000310000000000000000000802178700010000200
+
+Điều 37.2.QĐ.1.2. Nguyên tắc làm việc của Tổ Thẩm phán
+
+### 370020000000000020000310000000000000000000802178700010000300
+
+Điều 37.2.QĐ.1.3. Phân công nhiệm vụ trong Tổ Thẩm phán
+
+### 370020000000000020000310000000000000000000802178700010000400
+
+Điều 37.2.QĐ.1.4. Hoạt động của Tổ Thẩm phán khi có một thành viên vắng mặt
+
+### 370020000000000020000310000000000000000000802560300010000200
+
+Điều 37.2.TT.1.2. Thành lập Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+
+### 370020000000000020000310000000000000000000802560300010000300
+
+Điều 37.2.TT.1.3. Thành lập Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản và Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 370020000000000020000310000000000000000000802560300010000400
+
+Điều 37.2.TT.1.4. Nhiệm vụ, quyền hạn của các Tổ Thẩm phán
+
+### 370020000000000020000310000000000000000000802560300010000500
+
+Điều 37.2.TT.1.5. Nguyên tắc hoạt động của các Tổ Thẩm phán
+
+### 370020000000000020000310000000000000000000802560300010000600
+
+Điều 37.2.TT.1.6. Nguyên tắc phối hợp giữa Tổ Thẩm phán với Viện kiểm sát nhân dân, Cơ quan thi hành án dân sự, Kiểm sát viên, Chấp hành viên, Quản tài viên và doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000020000310000000000000000000802560300010000700
+
+Điều 37.2.TT.1.7. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+
+### 370020000000000020000310000000000000000000802560300010000800
+
+Điều 37.2.TT.1.8. Phương thức thực hiện nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+
+### 370020000000000020000310000000000000000000802560300010000900
+
+Điều 37.2.TT.1.9. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đơn yêu cầu mở thủ tục phá sản
+
+### 370020000000000020000310000000000000000000802560300010001000
+
+Điều 37.2.TT.1.10. Cơ chế phối hợp giữa Tổ Thẩm phán với Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000020000310000000000000000000802560300010001100
+
+Điều 37.2.TT.1.11. Cơ chế phối hợp giữa Tổ Thẩm phán với Viện kiểm sát nhân dân, Kiểm sát viên
+
+### 370020000000000020000310000000000000000000802560300010001200
+
+Điều 37.2.TT.1.12. Cơ chế phối hợp giữa Tổ Thẩm phán với Cơ quan thi hành án dân sự, Chấp hành viên
+
+### 370020000000000020000310000000000000000000802560300010001300
+
+Điều 37.2.TT.1.13. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
+
+### 370020000000000020000310000000000000000000802560300010001400
+
+Điều 37.2.TT.1.14. Trình tự, thủ tục phiên họp giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
+
+### 370020000000000020000310000000000000000000802560300010001500
+
+Điều 37.2.TT.1.15. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
+
+### 370020000000000020000310000000000000000000802560300010001600
+
+Điều 37.2.TT.1.16. Cơ chế phối hợp giữa Tổ Thẩm phán giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản với Viện kiểm sát nhân dân, Kiểm sát viên
+
+### 370020000000000020000310000000000000000000802560300010001700
+
+Điều 37.2.TT.1.17. Nhiệm vụ, quyền hạn của Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 370020000000000020000310000000000000000000802560300010001800
+
+Điều 37.2.TT.1.18. Trình tự, thủ tục phiên họp giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 370020000000000020000310000000000000000000802560300010001900
+
+Điều 37.2.TT.1.19. Nhiệm vụ, quyền hạn của Tổ trưởng Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 370020000000000020000310000000000000000000802560300010002000
+
+Điều 37.2.TT.1.20. Cơ chế phối hợp giữa Tổ Thẩm phán giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản với Viện kiểm sát nhân dân, Kiểm sát viên
+
+### 3700200000000000200003200000000000000000
+
+Điều 37.2.LQ.32. Xử lý đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000200003300000000000000000
+
+Điều 37.2.LQ.33. Chuyển đơn yêu cầu mở thủ tục phá sản cho Tòa án nhân dân có thẩm quyền và giải quyết đề nghị xem xét lại việc chuyển đơn
+
+### 3700200000000000200003400000000000000000
+
+Điều 37.2.LQ.34. Thông báo sửa đổi, bổ sung đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000200003500000000000000000
+
+Điều 37.2.LQ.35. Trả lại đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000200003600000000000000000
+
+Điều 37.2.LQ.36. Đề nghị xem xét lại, kiến nghị việc trả lại đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000200003700000000000000000
+
+Điều 37.2.LQ.37. Thương lượng giữa chủ nợ nộp đơn yêu cầu mở thủ tục phá sản với doanh nghiệp, hợp tác xã mất khả năng thanh toán
+
+### 3700200000000000200003800000000000000000
+
+Điều 37.2.LQ.38. Thủ tục nộp lệ phí phá sản, tạm ứng chi phí phá sản
+
+### 3700200000000000200003900000000000000000
+
+Điều 37.2.LQ.39. Thụ lý đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000200004000000000000000000
+
+Điều 37.2.LQ.40. Thông báo việc thụ lý đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000200004100000000000000000
+
+Điều 37.2.LQ.41. Tạm đình chỉ giải quyết yêu cầu doanh nghiệp, hợp tác xã mất khả năng thanh toán thực hiện nghĩa vụ về tài sản
+
+### 37002000000000003000
+
+Chương III MỞ THỦ TỤC PHÁ SẢN
+
+### 3700200000000000300004200000000000000000
+
+Điều 37.2.LQ.42. Quyết định mở hoặc không mở thủ tục phá sản
+
+### 3700200000000000300004300000000000000000
+
+Điều 37.2.LQ.43. Thông báo quyết định mở hoặc không mở thủ tục phá sản
+
+### 3700200000000000300004400000000000000000
+
+Điều 37.2.LQ.44. Giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản
+
+### 3700200000000000300004500000000000000000
+
+Điều 37.2.LQ.45. Chỉ định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 3700200000000000300004600000000000000000
+
+Điều 37.2.LQ.46. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 370020000000000030000460000000000000000000402536900220001800
+
+Điều 37.2.NĐ.2.18. Thay đổi Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản
+
+### 3700200000000000300004700000000000000000
+
+Điều 37.2.LQ.47. Hoạt động kinh doanh của doanh nghiệp, hợp tác xã sau khi có quyết định mở thủ tục phá sản
+
+### 3700200000000000300004800000000000000000
+
+Điều 37.2.LQ.48. Hoạt động của doanh nghiệp, hợp tác xã bị cấm sau khi có quyết định mở thủ tục phá sản
+
+### 3700200000000000300004900000000000000000
+
+Điều 37.2.LQ.49. Giám sát hoạt động của doanh nghiệp, hợp tác xã sau khi có quyết định mở thủ tục phá sản
+
+### 3700200000000000300005000000000000000000
+
+Điều 37.2.LQ.50. Ủy thác tư pháp trong việc giải quyết phá sản
+
+### 37002000000000004000
+
+Chương IV NGHĨA VỤ VỀ TÀI SẢN
+
+### 3700200000000000400005100000000000000000
+
+Điều 37.2.LQ.51. Xác định giá trị nghĩa vụ về tài sản
+
+### 3700200000000000400005200000000000000000
+
+Điều 37.2.LQ.52. Xác định tiền lãi đối với khoản nợ
+
+### 3700200000000000400005300000000000000000
+
+Điều 37.2.LQ.53. Xử lý khoản nợ có bảo đảm
+
+### 3700200000000000400005400000000000000000
+
+Điều 37.2.LQ.54. Thứ tự phân chia tài sản
+
+### 3700200000000000400005500000000000000000
+
+Điều 37.2.LQ.55. Nghĩa vụ về tài sản trong trường hợp nghĩa vụ liên đới hoặc bảo lãnh
+
+### 3700200000000000400005600000000000000000
+
+Điều 37.2.LQ.56. Trả lại tài sản thuê hoặc mượn khi doanh nghiệp, hợp tác xã bị tuyên bố phá sản
+
+### 3700200000000000400005700000000000000000
+
+Điều 37.2.LQ.57. Trả lại tài sản nhận bảo đảm
+
+### 3700200000000000400005800000000000000000
+
+Điều 37.2.LQ.58. Nhận lại hàng hoá đã bán
+
+### 37002000000000005000
+
+Chương V CÁC BIỆN PHÁP BẢO TOÀN TÀI SẢN
+
+### 3700200000000000500005900000000000000000
+
+Điều 37.2.LQ.59. Giao dịch bị coi là vô hiệu
+
+### 3700200000000000500006000000000000000000
+
+Điều 37.2.LQ.60. Tuyên bố giao dịch vô hiệu
+
+### 3700200000000000500006100000000000000000
+
+Điều 37.2.LQ.61. Tạm đình chỉ, đình chỉ thực hiện hợp đồng đang có hiệu lực
+
+### 3700200000000000500006200000000000000000
+
+Điều 37.2.LQ.62. Thanh toán, bồi thường thiệt hại khi hợp đồng bị đình chỉ thực hiện
+
+### 3700200000000000500006300000000000000000
+
+Điều 37.2.LQ.63. Bù trừ nghĩa vụ
+
+### 3700200000000000500006400000000000000000
+
+Điều 37.2.LQ.64. Tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+
+### 3700200000000000500006500000000000000000
+
+Điều 37.2.LQ.65. Kiểm kê tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+
+### 3700200000000000500006600000000000000000
+
+Điều 37.2.LQ.66. Gửi giấy đòi nợ
+
+### 3700200000000000500006700000000000000000
+
+Điều 37.2.LQ.67. Lập danh sách chủ nợ
+
+### 3700200000000000500006800000000000000000
+
+Điều 37.2.LQ.68. Lập danh sách người mắc nợ
+
+### 3700200000000000500006900000000000000000
+
+Điều 37.2.LQ.69. Đăng ký giao dịch bảo đảm của doanh nghiệp, hợp tác xã mất khả năng thanh toán
+
+### 3700200000000000500007000000000000000000
+
+Điều 37.2.LQ.70. Áp dụng biện pháp khẩn cấp tạm thời
+
+### 370020000000000050000700000000000000000000602592600030000500
+
+Điều 37.2.NQ.1.5. Về biện pháp khẩn cấp tạm thời quy định tại Điều 70 của Luật phá sản
+
+### 3700200000000000500007100000000000000000
+
+Điều 37.2.LQ.71. Xử lý việc tạm đình chỉ thi hành án dân sự, giải quyết vụ việc
+
+### 3700200000000000500007200000000000000000
+
+Điều 37.2.LQ.72. Giải quyết việc đình chỉ thi hành án dân sự, giải quyết vụ việc
+
+### 3700200000000000500007300000000000000000
+
+Điều 37.2.LQ.73. Nghĩa vụ của ngân hàng nơi doanh nghiệp, hợp tác xã có tài khoản
+
+### 3700200000000000500007400000000000000000
+
+Điều 37.2.LQ.74. Nghĩa vụ của người lao động
+
+### 37002000000000006000
+
+Chương VI HỘI NGHỊ CHỦ NỢ
+
+### 3700200000000000600007500000000000000000
+
+Điều 37.2.LQ.75. Triệu tập và gửi thông báo triệu tập Hội nghị chủ nợ
+
+### 3700200000000000600007600000000000000000
+
+Điều 37.2.LQ.76. Nguyên tắc tiến hành Hội nghị chủ nợ
+
+### 3700200000000000600007700000000000000000
+
+Điều 37.2.LQ.77. Quyền tham gia Hội nghị chủ nợ
+
+### 3700200000000000600007800000000000000000
+
+Điều 37.2.LQ.78. Nghĩa vụ tham gia Hội nghị chủ nợ
+
+### 3700200000000000600007900000000000000000
+
+Điều 37.2.LQ.79. Điều kiện hợp lệ của Hội nghị chủ nợ
+
+### 3700200000000000600008000000000000000000
+
+Điều 37.2.LQ.80. Hoãn Hội nghị chủ nợ
+
+### 3700200000000000600008100000000000000000
+
+Điều 37.2.LQ.81. Nội dung và trình tự Hội nghị chủ nợ
+
+### 3700200000000000600008200000000000000000
+
+Điều 37.2.LQ.82. Ban đại diện chủ nợ
+
+### 3700200000000000600008300000000000000000
+
+Điều 37.2.LQ.83. Nghị quyết của Hội nghị chủ nợ
+
+### 3700200000000000600008400000000000000000
+
+Điều 37.2.LQ.84. Gửi Nghị quyết Hội nghị chủ nợ
+
+### 3700200000000000600008500000000000000000
+
+Điều 37.2.LQ.85. Đề nghị, kiến nghị xem xét lại và giải quyết đề nghị, kiến nghị xem xét lại Nghị quyết của Hội nghị chủ nợ
+
+### 3700200000000000600008600000000000000000
+
+Điều 37.2.LQ.86. Đình chỉ tiến hành thủ tục phá sản
+
+### 37002000000000007000
+
+Chương VII THỦ TỤC PHỤC HỒI HOẠT ĐỘNG KINH DOANH
+
+### 3700200000000000700008700000000000000000
+
+Điều 37.2.LQ.87. Xây dựng phương án phục hồi hoạt động kinh doanh
+
+### 3700200000000000700008800000000000000000
+
+Điều 37.2.LQ.88. Nội dung phương án phục hồi hoạt động kinh doanh
+
+### 3700200000000000700008900000000000000000
+
+Điều 37.2.LQ.89. Thời hạn thực hiện phương án phục hồi hoạt động kinh doanh
+
+### 3700200000000000700009000000000000000000
+
+Điều 37.2.LQ.90. Điều kiện hợp lệ của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã
+
+### 3700200000000000700009100000000000000000
+
+Điều 37.2.LQ.91. Nội dung và trình tự Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh
+
+### 3700200000000000700009200000000000000000
+
+Điều 37.2.LQ.92. Công nhận nghị quyết của Hội nghị chủ nợ thông qua phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã
+
+### 3700200000000000700009300000000000000000
+
+Điều 37.2.LQ.93. Giám sát thực hiện phương án phục hồi hoạt động kinh doanh
+
+### 3700200000000000700009400000000000000000
+
+Điều 37.2.LQ.94. Sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh
+
+### 3700200000000000700009500000000000000000
+
+Điều 37.2.LQ.95. Đình chỉ thủ tục phục hồi hoạt động kinh doanh
+
+### 3700200000000000700009600000000000000000
+
+Điều 37.2.LQ.96. Hậu quả pháp lý của việc đình chỉ thủ tục phục hồi hoạt động kinh doanh
+
+### 37002000000000008000
+
+Chương VIII THỦ TỤC PHÁ SẢN TỔ CHỨC TÍN DỤNG
+
+### 3700200000000000800009700000000000000000
+
+Điều 37.2.LQ.97. Áp dụng quy định về thủ tục phá sản tổ chức tín dụng
+
+### 3700200000000000800009800000000000000000
+
+Điều 37.2.LQ.98. Quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản
+
+### 3700200000000000800009900000000000000000
+
+Điều 37.2.LQ.99. Thụ lý đơn yêu cầu mở thủ tục phá sản đối với tổ chức tín dụng
+
+### 3700200000000000800010000000000000000000
+
+Điều 37.2.LQ.100. Hoàn trả khoản vay đặc biệt
+
+### 3700200000000000800010100000000000000000
+
+Điều 37.2.LQ.101. Thứ tự phân chia tài sản
+
+### 3700200000000000800010200000000000000000
+
+Điều 37.2.LQ.102. Trả lại tài sản nhận ủy thác, nhận giữ hộ khi tổ chức tín dụng bị tuyên bố phá sản và thanh lý tài sản phá sản
+
+### 3700200000000000800010300000000000000000
+
+Điều 37.2.LQ.103. Giao dịch của tổ chức tín dụng trong giai đoạn kiểm soát đặc biệt
+
+### 3700200000000000800010400000000000000000
+
+Điều 37.2.LQ.104. Quyết định tuyên bố tổ chức tín dụng phá sản
+
+### 370020000000000080001040000000000000000000602592600030000600
+
+Điều 37.2.NQ.1.6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản
+
+### 37002000000000009000
+
+Chương IX TUYÊN BỐ DOANH NGHIỆP, HỢP TÁC XÃ PHÁ SẢN
+
+### 3700200000000000900010500000000000000000
+
+Điều 37.2.LQ.105. Tuyên bố doanh nghiệp, hợp tác xã phá sản theo thủ tục rút gọn
+
+### 3700200000000000900010600000000000000000
+
+Điều 37.2.LQ.106. Quyết định tuyên bố phá sản khi Hội nghị chủ nợ không thành
+
+### 3700200000000000900010700000000000000000
+
+Điều 37.2.LQ.107. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản sau khi có Nghị quyết của Hội nghị chủ nợ
+
+### 3700200000000000900010800000000000000000
+
+Điều 37.2.LQ.108. Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 3700200000000000900010900000000000000000
+
+Điều 37.2.LQ.109. Gửi và thông báo quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 3700200000000000900011000000000000000000
+
+Điều 37.2.LQ.110. Nghĩa vụ về tài sản sau khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 3700200000000000900011100000000000000000
+
+Điều 37.2.LQ.111. Đề nghị xem xét lại, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 3700200000000000900011200000000000000000
+
+Điều 37.2.LQ.112. Giải quyết đơn đề nghị, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 3700200000000000900011300000000000000000
+
+Điều 37.2.LQ.113. Xem xét đơn đề nghị, kiến nghị theo thủ tục đặc biệt
+
+### 37002000000000010000
+
+Chương X XỬ LÝ TÀI SẢN DOANH NGHIỆP, HỢP TÁC XÃ CÓ TRANH CHẤP
+
+### 3700200000000001000011400000000000000000
+
+Điều 37.2.LQ.114. Xử lý tranh chấp tài sản trước khi có quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 3700200000000001000011500000000000000000
+
+Điều 37.2.LQ.115. Xử lý trường hợp có tranh chấp tài sản trong quá trình thi hành quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 37002000000000011000
+
+Chương XI THỦ TỤC PHÁ SẢN CÓ YẾU TỐ NƯỚC NGOÀI
+
+### 3700200000000001100011600000000000000000
+
+Điều 37.2.LQ.116. Người tham gia thủ tục phá sản là người nước ngoài
+
+### 3700200000000001100011700000000000000000
+
+Điều 37.2.LQ.117. Ủy thác tư pháp của Tòa án nhân dân Việt Nam đối với cơ quan có thẩm quyền của nước ngoài
+
+### 3700200000000001100011800000000000000000
+
+Điều 37.2.LQ.118. Thủ tục công nhận và cho thi hành quyết định giải quyết phá sản của Tòa án nước ngoài
+
+### 37002000000000012000
+
+Chương XII THI HÀNH QUYẾT ĐỊNH TUYÊN BỐ DOANH NGHIỆP, HỢP TÁC XÃ PHÁ SẢN
+
+### 3700200000000001200011900000000000000000
+
+Điều 37.2.LQ.119. Thẩm quyền thi hành quyết định tuyên bố phá sản
+
+### 3700200000000001200012000000000000000000
+
+Điều 37.2.LQ.120. Thủ tục thi hành quyết định tuyên bố phá sản
+
+### 3700200000000001200012100000000000000000
+
+Điều 37.2.LQ.121. Yêu cầu Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản tổ chức thực hiện thanh lý tài sản
+
+### 3700200000000001200012200000000000000000
+
+Điều 37.2.LQ.122. Định giá tài sản
+
+### 3700200000000001200012300000000000000000
+
+Điều 37.2.LQ.123. Định giá lại tài sản
+
+### 3700200000000001200012400000000000000000
+
+Điều 37.2.LQ.124. Bán tài sản
+
+### 3700200000000001200012500000000000000000
+
+Điều 37.2.LQ.125. Thu hồi lại tài sản trong trường hợp có vi phạm
+
+### 3700200000000001200012600000000000000000
+
+Điều 37.2.LQ.126. Đình chỉ thi hành quyết định tuyên bố phá sản
+
+### 3700200000000001200012700000000000000000
+
+Điều 37.2.LQ.127. Xử lý tài sản của doanh nghiệp, hợp tác xã phát sinh sau khi quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 3700200000000001200012800000000000000000
+
+Điều 37.2.LQ.128. Giải quyết khiếu nại việc thi hành Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản
+
+### 37002000000000013000
+
+Chương XIII XỬ LÝ VI PHẠM
+
+### 3700200000000001300012900000000000000000
+
+Điều 37.2.LQ.129. Trách nhiệm do vi phạm pháp luật về phá sản
+
+### 3700200000000001300013000000000000000000
+
+Điều 37.2.LQ.130. Cấm đảm nhiệm chức vụ sau khi doanh nghiệp, hợp tác xã bị tuyên bố phá sản
+
+### 37002000000000014000
+
+Chương XIV ĐIỀU KHOẢN THI HÀNH
+
+### 3700200000000001400013100000000000000000
+
+Điều 37.2.LQ.131. Điều khoản chuyển tiếp
+
+### 3700200000000001400013140253690022000280
+
+Điều 37.2.NĐ.2.28. Điều khoản chuyển tiếp
+
+### 3700200000000001400013200000000000000000
+
+Điều 37.2.LQ.132. Hiệu lực thi hành
+
+### 3700200000000001400013300000000000000000
+
+Điều 37.2.LQ.133. Quy định chi tiết và hướng dẫn thi hành
+
+### 3700200000000001400013340222270067000340
+
+Điều 37.2.NĐ.1.34. Hiệu lực thi hành
+
+### 3700200000000001400013340253690022000290
+
+Điều 37.2.NĐ.2.29. Hiệu lực thi hành
+
+### 3700200000000001400013340253690022000300
+
+Điều 37.2.NĐ.2.30. Trách nhiệm thi hành
+
+### 3700200000000001400013360259260003000070
+
+Điều 37.2.NQ.1.7. Hiệu lực thi hành
+
+### 3700200000000001400013380217870001000050
+
+Điều 37.2.QĐ.1.5. Hiệu lực thi hành
+
+### 3700200000000001400013380256030001000210
+
+Điều 37.2.TT.1.21. Hiệu lực thi hành
+
