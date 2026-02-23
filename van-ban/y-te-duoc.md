@@ -9,37 +9,85 @@ slug: y-te-duoc
 # Y tế, dược
 
 **Chủ đề:** Y tế, dược  
-**Số đề mục:** 10  
+**STT:** 45  
+**Số đề mục:** 12  
 **Số điều khoản:** 3,851  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[An toàn thực phẩm](/van-ban/y-te-duoc/an-toan-thuc-pham/)** - 949 điều khoản
-2. **[Bảo vệ sức khỏe nhân dân](/van-ban/y-te-duoc/bao-ve-suc-khoe-nhan-dan/)** - 102 điều khoản
-3. **[Dược](/van-ban/y-te-duoc/duoc/)** - 1,118 điều khoản
-4. **[Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác](/van-ban/y-te-duoc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac/)** - 103 điều khoản
-5. **[Phòng, chống bệnh truyền nhiễm](/van-ban/y-te-duoc/phong-chong-benh-truyen-nhiem/)** - 446 điều khoản
-6. **[Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người](/van-ban/y-te-duoc/phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam-mien-dich-mac-phai-o-nguoi/)** - 538 điều khoản
-7. **[Phòng, chống tác hại của rượu, bia](/van-ban/y-te-duoc/phong-chong-tac-hai-cua-ruou-bia/)** - 126 điều khoản
-8. **[Phòng, chống tác hại của thuốc lá](/van-ban/y-te-duoc/phong-chong-tac-hai-cua-thuoc-la/)** - 261 điều khoản
-9. **[Quản lý trang thiết bị y tế](/van-ban/y-te-duoc/quan-ly-trang-thiet-bi-y-te/)** - 140 điều khoản
-10. **[Điều kiện sản xuất mỹ phẩm](/van-ban/y-te-duoc/dieu-kien-san-xuat-my-pham/)** - 68 điều khoản
+### [An toàn thực phẩm](/y-te-duoc/an-toan-thuc-pham/)
+- **Số điều khoản:** 949
+- **Điều khoản có nội dung:** 943/949 (99.4%)
+- **STT:** 1
+
+### [Điều kiện sản xuất mỹ phẩm](/y-te-duoc/dieu-kien-san-xuat-my-pham/)
+- **Số điều khoản:** 68
+- **Điều khoản có nội dung:** 65/68 (95.6%)
+- **STT:** 10
+
+### [Phòng, chống tác hại của rượu, bia](/y-te-duoc/phong-chong-tac-hai-cua-ruou-bia/)
+- **Số điều khoản:** 126
+- **Điều khoản có nội dung:** 101/126 (80.2%)
+- **STT:** 11
+
+### [Quản lý trang thiết bị y tế](/y-te-duoc/quan-ly-trang-thiet-bi-y-te/)
+- **Số điều khoản:** 140
+- **Điều khoản có nội dung:** 100/140 (71.4%)
+- **STT:** 12
+
+### [Bảo vệ sức khỏe nhân dân](/y-te-duoc/bao-ve-suc-khoe-nhan-dan/)
+- **Số điều khoản:** 102
+- **Điều khoản có nội dung:** 88/102 (86.3%)
+- **STT:** 2
+
+### [Cơ chế hoạt động, cơ chế tài chính đối với các đơn vị sự nghiệp y tế công lập và giá dịch vụ khám bệnh, chữa bệnh của các cơ sở khám bệnh, chữa bệnh công lập](/y-te-duoc/co-che-hoat-dong-co-che-tai-chinh-doi-voi-cac-don-vi-su-nghiep-y-te-cong-lap-va-gia-dich-vu-kham-benh-chua-benh-cua-cac-co-so-kham-benh-chua-benh-cong-lap/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 3
+
+### [Dược](/y-te-duoc/duoc/)
+- **Số điều khoản:** 1,118
+- **Điều khoản có nội dung:** 1106/1118 (98.9%)
+- **STT:** 4
+
+### [Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác](/y-te-duoc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac/)
+- **Số điều khoản:** 103
+- **Điều khoản có nội dung:** 58/103 (56.3%)
+- **STT:** 5
+
+### [Khám bệnh, chữa bệnh](/y-te-duoc/kham-benh-chua-benh/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 6
+
+### [Phòng, chống bệnh truyền nhiễm](/y-te-duoc/phong-chong-benh-truyen-nhiem/)
+- **Số điều khoản:** 446
+- **Điều khoản có nội dung:** 319/446 (71.5%)
+- **STT:** 7
+
+### [Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người](/y-te-duoc/phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam-mien-dich-mac-phai-o-nguoi/)
+- **Số điều khoản:** 538
+- **Điều khoản có nội dung:** 333/538 (61.9%)
+- **STT:** 8
+
+### [Phòng, chống tác hại của thuốc lá](/y-te-duoc/phong-chong-tac-hai-cua-thuoc-la/)
+- **Số điều khoản:** 261
+- **Điều khoản có nội dung:** 182/261 (69.7%)
+- **STT:** 9
 
 
 ## 🔙 Quay lại
 [← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
-- **Tổng số đề mục:** 10
+- **Tổng số đề mục:** 12
 - **Tổng số điều khoản:** 3,851
-- **ID chủ đề:** 607817d9-0840-4986-b41f-5f3e9ae650c2
+- **ID chủ đề:** 607817d908404986b41f5f3e9ae650c2
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

@@ -9,28 +9,35 @@ slug: van-thu-luu-tru
 # Văn thư lưu trữ
 
 **Chủ đề:** Văn thư lưu trữ  
-**Số đề mục:** 1  
+**STT:** 42  
+**Số đề mục:** 2  
 **Số điều khoản:** 56  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Công tác văn thư](/van-ban/van-thu-luu-tru/cong-tac-van-thu/)** - 56 điều khoản
+### [Công tác văn thư](/van-thu-luu-tru/cong-tac-van-thu/)
+- **Số điều khoản:** 56
+- **Điều khoản có nội dung:** 49/56 (87.5%)
+- **STT:** 1
+
+### [Lưu trữ](/van-thu-luu-tru/luu-tru/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 2
 
 
 ## 🔙 Quay lại
 [← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
-- **Tổng số đề mục:** 1
+- **Tổng số đề mục:** 2
 - **Tổng số điều khoản:** 56
-- **ID chủ đề:** 1c1f149f-f1bf-4ddb-9f6b-b2adbf17d410
+- **ID chủ đề:** 1c1f149ff1bf4ddb9f6bb2adbf17d410
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

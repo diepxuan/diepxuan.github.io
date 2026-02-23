@@ -9,31 +9,55 @@ slug: buu-chinh-vien-thong
 # Bưu chính, viễn thông
 
 **Chủ đề:** Bưu chính, viễn thông  
-**Số đề mục:** 4  
+**STT:** 3  
+**Số đề mục:** 6  
 **Số điều khoản:** 2,040  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[An toàn thông tin mạng](/van-ban/buu-chinh-vien-thong/an-toan-thong-tin-mang/)** - 307 điều khoản
-2. **[Bưu chính](/van-ban/buu-chinh-vien-thong/buu-chinh/)** - 364 điều khoản
-3. **[Công nghệ thông tin](/van-ban/buu-chinh-vien-thong/cong-nghe-thong-tin/)** - 1,101 điều khoản
-4. **[Tần số vô tuyến điện](/van-ban/buu-chinh-vien-thong/tan-so-vo-tuyen-dien/)** - 268 điều khoản
+### [An toàn thông tin mạng](/buu-chinh-vien-thong/an-toan-thong-tin-mang/)
+- **Số điều khoản:** 307
+- **Điều khoản có nội dung:** 301/307 (98.0%)
+- **STT:** 1
+
+### [Bưu chính](/buu-chinh-vien-thong/buu-chinh/)
+- **Số điều khoản:** 364
+- **Điều khoản có nội dung:** 360/364 (98.9%)
+- **STT:** 2
+
+### [Công nghệ thông tin](/buu-chinh-vien-thong/cong-nghe-thong-tin/)
+- **Số điều khoản:** 1,101
+- **Điều khoản có nội dung:** 1096/1101 (99.5%)
+- **STT:** 3
+
+### [Giao dịch điện tử](/buu-chinh-vien-thong/giao-dich-dien-tu/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 4
+
+### [Tần số vô tuyến điện](/buu-chinh-vien-thong/tan-so-vo-tuyen-dien/)
+- **Số điều khoản:** 268
+- **Điều khoản có nội dung:** 164/268 (61.2%)
+- **STT:** 5
+
+### [Viễn thông](/buu-chinh-vien-thong/vien-thong/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 6
 
 
 ## 🔙 Quay lại
 [← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
-- **Tổng số đề mục:** 4
+- **Tổng số đề mục:** 6
 - **Tổng số điều khoản:** 2,040
-- **ID chủ đề:** c124612e-a23f-4199-8747-55fe4e8a8c89
+- **ID chủ đề:** c124612ea23f4199874755fe4e8a8c89
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

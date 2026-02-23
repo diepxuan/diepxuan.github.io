@@ -9,17 +9,37 @@ slug: chinh-sach-xa-hoi
 # Chính sách xã hội
 
 **Chủ đề:** Chính sách xã hội  
+**STT:** 6  
 **Số đề mục:** 5  
 **Số điều khoản:** 895  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội](/van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi/)** - 59 điều khoản
-2. **[Người cao tuổi](/van-ban/chinh-sach-xa-hoi/nguoi-cao-tuoi/)** - 166 điều khoản
-3. **[Người khuyết tật](/van-ban/chinh-sach-xa-hoi/nguoi-khuyet-tat/)** - 187 điều khoản
-4. **[Phòng, chống mại dâm](/van-ban/chinh-sach-xa-hoi/phong-chong-mai-dam/)** - 104 điều khoản
-5. **[Ưu đãi người có công với cách mạng](/van-ban/chinh-sach-xa-hoi/uu-dai-nguoi-co-cong-voi-cach-mang/)** - 379 điều khoản
+### [Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội](/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi/)
+- **Số điều khoản:** 59
+- **Điều khoản có nội dung:** 54/59 (91.5%)
+- **STT:** 1
+
+### [Người cao tuổi](/chinh-sach-xa-hoi/nguoi-cao-tuoi/)
+- **Số điều khoản:** 166
+- **Điều khoản có nội dung:** 122/166 (73.5%)
+- **STT:** 2
+
+### [Người khuyết tật](/chinh-sach-xa-hoi/nguoi-khuyet-tat/)
+- **Số điều khoản:** 187
+- **Điều khoản có nội dung:** 136/187 (72.7%)
+- **STT:** 3
+
+### [Phòng, chống mại dâm](/chinh-sach-xa-hoi/phong-chong-mai-dam/)
+- **Số điều khoản:** 104
+- **Điều khoản có nội dung:** 68/104 (65.4%)
+- **STT:** 4
+
+### [Ưu đãi người có công với cách mạng](/chinh-sach-xa-hoi/uu-dai-nguoi-co-cong-voi-cach-mang/)
+- **Số điều khoản:** 379
+- **Điều khoản có nội dung:** 295/379 (77.8%)
+- **STT:** 5
 
 
 ## 🔙 Quay lại
@@ -28,13 +48,11 @@ slug: chinh-sach-xa-hoi
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5
 - **Tổng số điều khoản:** 895
-- **ID chủ đề:** e4b6a170-8415-42a5-9ee2-f8eb147f5d15
+- **ID chủ đề:** e4b6a170841542a59ee2f8eb147f5d15
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

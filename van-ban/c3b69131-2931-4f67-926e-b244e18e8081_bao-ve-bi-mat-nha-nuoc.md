@@ -1,0 +1,1311 @@
+---
+layout: default
+title: Bảo vệ bí mật nhà nước
+permalink: /van-ban/c3b69131-2931-4f67-926e-b244e18e8081/bao-ve-bi-mat-nha-nuoc/
+collection: subtopics
+slug: bao-ve-bi-mat-nha-nuoc
+parent: c3b69131-2931-4f67-926e-b244e18e8081
+---
+
+# Bảo vệ bí mật nhà nước
+
+**Đề mục:** Bảo vệ bí mật nhà nước  
+**Chủ đề:** [c3b69131-2931-4f67-926e-b244e18e8081](/c3b69131-2931-4f67-926e-b244e18e8081/)  
+**Số điều khoản:** 90  
+**Điều khoản có nội dung:** 85/85 (100.0%)  
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
+
+## 📜 Nội dung Điều khoản
+
+
+### Điều 1.2.LQ.1. Phạm vi điều chỉnh
+
+### Điều 1.2.LQ.1. Phạm vi điều chỉnh
+
+Luật này quy định về bí mật nhà nước, hoạt động bảo vệ bí mật nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.
+
+**Chỉ mục:** 1
+
+**Mã phân cấp:** 0100200000000000100000100000000000000000
+
+**ID:** dk_00000207
+
+---
+
+
+### Điều 1.2.NĐ.1.1. Phạm vi điều chỉnh
+
+### Điều 1.2.NĐ.1.1. Phạm vi điều chỉnh
+
+Nghị định này quy định chi tiết một số điều của Luật Bảo vệ bí mật nhà nước về xác định bí mật nhà nước và độ mật của bí mật nhà nước; sao, chụp tài liệu, vật chứa bí mật nhà nước; giao, nhận tài liệu, vật chứa bí mật nhà nước; mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ; địa điểm tổ chức, phương án bảo vệ và sử dụng phương tiện, thiết bị tại hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước; chế độ báo cáo về công tác bảo vệ bí mật nhà nước và phân công người thực hiện nhiệm vụ bảo vệ bí mật nhà nước.
+
+**Chỉ mục:** 1
+
+**Mã phân cấp:** 0100200000000000100000140272070026000010
+
+**ID:** dk_00000208
+
+---
+
+
+### Điều 1.2.TT.1.1. Phạm vi và đối tượng áp dụng
+
+### Điều 1.2.TT.1.1. Phạm vi và đối tượng áp dụng
+
+1. Thông tư này quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm thực hiện nhiệm vụ chuyên môn thuộc công tác bảo vệ bí mật nhà nước.
+
+**Chỉ mục:** 1
+
+**Mã phân cấp:** 0100200000000000100000180248180110000010
+
+**ID:** dk_00000209
+
+---
+
+
+### Điều 1.2.TT.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### Điều 1.2.TT.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+1. Thông tư này quy định về biểu mẫu và việc sử dụng biểu mẫu trong công tác bảo vệ bí mật nhà nước.
+
+**Chỉ mục:** 1
+
+**Mã phân cấp:** 0100200000000000100000180272180024000010
+
+**ID:** dk_00000210
+
+---
+
+
+### Điều 1.2.TT.3.1. Phạm vi điều chỉnh
+
+### Điều 1.2.TT.3.1. Phạm vi điều chỉnh
+
+Thông tư này quy định về xác định bí mật nhà nước và độ mật của bí mật nhà nước; sao, chụp, thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước; vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước: mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ; cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước; cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài; tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước; điều chỉnh độ mật; giải mật; tiêu hủy tài liệu, vật chứa bí mật nhà nước; phân công công chức (viên chức) thực hiện nhiệm vụ bảo vệ bí mật nhà nước; chế độ báo cáo công tác bảo vệ bí mật nhà nước; trách nhiệm của người đứng đầu các cơ quan, đơn vị trong tổ chức thực hiện công tác bảo vệ bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê.
+
+**Chỉ mục:** 1
+
+**Mã phân cấp:** 0100200000000000100000180274220007000010
+
+**ID:** dk_00000211
+
+---
+
+
+### Điều 1.2.TT.3.2. Đối tượng áp dụng
+
+### Điều 1.2.TT.3.2. Đối tượng áp dụng
+
+Thông tư này áp dụng đối với các cơ quan, đơn vị, tổ chức, cá nhân có liên quan đến công tác bảo vệ bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê.
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 0100200000000000100000180274220007000020
+
+**ID:** dk_00000212
+
+---
+
+
+### Điều 1.2.TT.4.1. Phạm vi điều chỉnh
+
+### Điều 1.2.TT.4.1. Phạm vi điều chỉnh
+
+Thông tư này quy định về xác định bí mật nhà nước và độ mật của bí mật nhà nước; sao, chụp, thống kê, lưu giữ, bảo quản, vận chuyển, giao, nhận, mang ra khỏi nơi lưu giữ, tiêu hủy tài liệu, vật chứa bí mật nhà nước; cung cấp, chuyển giao bí mật nhà nước; tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước; gia hạn thời hạn bảo vệ bí mật nhà nước; điều chỉnh độ mật; giải mật; trách nhiệm của Công an các đơn vị, địa phương; phân công cán bộ thực hiện nhiệm vụ bảo vệ bí mật nhà nước; chế độ thông tin, báo cáo về công tác bảo vệ bí mật nhà nước.
+
+**Chỉ mục:** 1
+
+**Mã phân cấp:** 0100200000000000100000180278260104000010
+
+**ID:** dk_00000213
+
+---
+
+
+### Điều 1.2.TT.4.2. Đối tượng áp dụng
+
+### Điều 1.2.TT.4.2. Đối tượng áp dụng
+
+Thông tư này áp dụng đối với sĩ quan, hạ sĩ quan, chiến sĩ, học viên Công an nhân dân (sau đây gọi chung là cán bộ, chiến sĩ); đơn vị Công an cấp đội, đồn, trạm, tiểu đoàn, xã, phường, thị trấn trở lên (sau đây gọi tắt là đơn vị Công an nhân dân) và cơ quan, tổ chức, cá nhân có liên quan.
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 0100200000000000100000180278260104000020
+
+**ID:** dk_00000214
+
+---
+
+
+### Điều 1.2.LQ.2. Giải thích từ ngữ
+
+### Điều 1.2.LQ.2. Giải thích từ ngữ
+
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 0100200000000000100000200000000000000000
+
+**ID:** dk_00000215
+
+---
+
+
+### Điều 1.2.LQ.3. Nguyên tắc bảo vệ bí mật nhà nước
+
+### Điều 1.2.LQ.3. Nguyên tắc bảo vệ bí mật nhà nước
+
+1. Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước; phục vụ nhiệm vụ xây dựng và bảo vệ Tổ quốc, phát triển kinh tế - xã hội, hội nhập quốc tế của đất nước; bảo vệ lợi ích quốc gia, dân tộc, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 0100200000000000100000300000000000000000
+
+**ID:** dk_00000216
+
+---
+
+
+### Điều 1.2.LQ.4. Hợp tác quốc tế về bảo vệ bí mật nhà nước
+
+### Điều 1.2.LQ.4. Hợp tác quốc tế về bảo vệ bí mật nhà nước
+
+1. Hợp tác quốc tế về bảo vệ bí mật nhà nước được thực hiện theo nguyên tắc tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 0100200000000000100000400000000000000000
+
+**ID:** dk_00000217
+
+---
+
+
+### Điều 1.2.LQ.5. Các hành vi bị nghiêm cấm trong bảo vệ bí mật nhà nước
+
+### Điều 1.2.LQ.5. Các hành vi bị nghiêm cấm trong bảo vệ bí mật nhà nước
+
+1. Làm lộ, chiếm đoạt, mua, bán bí mật nhà nước; làm sai lệch, hư hỏng, mất tài liệu, vật chứa bí mật nhà nước.
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 0100200000000000100000500000000000000000
+
+**ID:** dk_00000218
+
+---
+
+
+### Điều 1.2.TT.3.17. Khen thưởng, kỷ luật
+
+### Điều 1.2.TT.3.17. Khen thưởng, kỷ luật
+
+1. Cơ quan, đơn vị, cá nhân có thành tích xuất sắc trong công tác bảo vệ bí mật nhà nước được khen thưởng theo quy định hiện hành.
+
+**Chỉ mục:** 17
+
+**Mã phân cấp:** 010020000000000010000050000000000000000000802742200070001700
+
+**ID:** dk_00000219
+
+---
+
+
+### Điều 1.2.LQ.6. Kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước
+
+### Điều 1.2.LQ.6. Kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước
+
+1. Kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước do ngân sách nhà nước bảo đảm.
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 0100200000000000100000600000000000000000
+
+**ID:** dk_00000220
+
+---
+
+
+### Điều 1.2.TT.1.2. Nguồn kinh phí
+
+### Điều 1.2.TT.1.2. Nguồn kinh phí
+
+1. Nguồn kinh phí thực hiện nhiệm vụ chuyên môn thuộc công tác bảo vệ bí mật nhà nước do ngân sách nhà nước bảo đảm theo phân cấp hiện hành và được bố trí trong dự toán kinh phí được giao hàng năm của cơ quan, tổ chức theo quy định của Luật Ngân sách nhà nước và các văn bản pháp luật khác có liên quan.
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 010020000000000010000060000000000000000000802481801100000200
+
+**ID:** dk_00000221
+
+---
+
+
+### Điều 1.2.TT.1.3. Nội dung chi phục vụ nhiệm vụ chuyên môn công tác bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.1.3. Nội dung chi phục vụ nhiệm vụ chuyên môn công tác bảo vệ bí mật nhà nước
+
+1. Chi soạn thảo các văn bản quy phạm pháp luật về bảo vệ bí mật nhà nước.
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 010020000000000010000060000000000000000000802481801100000300
+
+**ID:** dk_00000222
+
+---
+
+
+### Điều 1.2.TT.1.4. Mức chi
+
+### Điều 1.2.TT.1.4. Mức chi
+
+1. Mức chi cụ thể theo phụ lục kèm theo Thông tư.
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 010020000000000010000060000000000000000000802481801100000400
+
+**ID:** dk_00000223
+
+---
+
+
+### Điều 1.2.TT.1.5. Lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm thực hiện nhiệm vụ chuyên môn cho công tác bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.1.5. Lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm thực hiện nhiệm vụ chuyên môn cho công tác bảo vệ bí mật nhà nước
+
+1. Hàng năm, căn cứ vào yêu cầu công tác bảo vệ bí mật nhà nước và căn cứ nội dung chi, mức chi quy định tại Thông tư này, các cơ quan, đơn vị được giao thực hiện nhiệm vụ chuyên môn thuộc công tác bảo vệ bí mật nhà nước lập dự toán kinh phí bảo đảm cho công tác bảo vệ bí mật nhà nước tổng hợp chung trong dự toán ngân sách nhà nước hàng năm của cơ quan, đơn vị mình gửi cơ quan có thẩm quyền theo quy định.
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 010020000000000010000060000000000000000000802481801100000500
+
+**ID:** dk_00000224
+
+---
+
+
+### Điều 1.2.LQ.7. Phạm vi bí mật nhà nước
+
+### Điều 1.2.LQ.7. Phạm vi bí mật nhà nước
+
+Phạm vi bí mật nhà nước là giới hạn thông tin quan trọng trong các lĩnh vực sau đây chưa công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc:
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 0100200000000000200000700000000000000000
+
+**ID:** dk_00000226
+
+---
+
+
+### Điều 1.2.LQ.8. Phân loại bí mật nhà nước
+
+### Điều 1.2.LQ.8. Phân loại bí mật nhà nước
+
+Căn cứ vào tính chất quan trọng của nội dung thông tin, mức độ nguy hại nếu bị lộ, bị mất, bí mật nhà nước được phân loại thành 03 độ mật, bao gồm:
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 0100200000000000200000800000000000000000
+
+**ID:** dk_00000227
+
+---
+
+
+### Điều 1.2.LQ.9. Ban hành danh mục bí mật nhà nước
+
+### Điều 1.2.LQ.9. Ban hành danh mục bí mật nhà nước
+
+1. Căn cứ vào quy định tại Điều 7 và Điều 8 của Luật này, Thủ tướng Chính phủ ban hành danh mục bí mật nhà nước.
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 0100200000000000200000900000000000000000
+
+**ID:** dk_00000228
+
+---
+
+
+### Điều 1.2.LQ.10. Xác định bí mật nhà nước và độ mật của bí mật nhà nước
+
+### Điều 1.2.LQ.10. Xác định bí mật nhà nước và độ mật của bí mật nhà nước
+
+1. Việc xác định bí mật nhà nước và độ mật của bí mật nhà nước phải căn cứ vào danh mục bí mật nhà nước và quy định của Luật này.
+
+**Chỉ mục:** 10
+
+**Mã phân cấp:** 0100200000000000300001000000000000000000
+
+**ID:** dk_00000230
+
+---
+
+
+### Điều 1.2.NĐ.1.2. Xác định bí mật nhà nước và độ mật của bí mật nhà nước
+
+### Điều 1.2.NĐ.1.2. Xác định bí mật nhà nước và độ mật của bí mật nhà nước
+
+1. Người soạn thảo, tạo ra thông tin thuộc danh mục bí mật nhà nước phải đề xuất người đứng đầu cơ quan, tổ chức xác định bí mật nhà nước, độ mật của bí mật nhà nước, nơi nhận, số lượng bản phát hành, được phép hoặc không được phép sao, chụp tài liệu, vật chứa bí mật nhà nước tại Tờ trình, Phiếu trình duyệt ký văn bản hoặc văn bản xác định độ mật của vật, địa điểm, lời nói, hoạt động chứa bí mật nhà nước và có trách nhiệm bảo vệ nội dung bí mật nhà nước trong quá trình soạn thảo, tạo ra. Tài liệu bí mật nhà nước phải thể hiện nơi nhận, số lượng bản phát hành, tên người soạn thảo, được phép hoặc không được phép sao, chụp ở mục nơi nhận của tài liệu. Trường hợp văn bản điện tử, người soạn thảo phải tạo dấu chỉ độ mật trên văn bản sau khi được người có thẩm quyền xác định bí mật nhà nước và độ mật của bí mật nhà nước; văn bản điện tử khi in ra để phát hành phải đóng dấu độ mật theo quy định.
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 010020000000000030000100000000000000000000402720700260000200
+
+**ID:** dk_00000231
+
+---
+
+
+### Điều 1.2.TT.3.3. Xác định bí mật nhà nước và độ mật của bí mật nhà nước
+
+### Điều 1.2.TT.3.3. Xác định bí mật nhà nước và độ mật của bí mật nhà nước
+
+1. Người đứng đầu các cơ quan, đơn vị trong ngành Kế hoạch, Đầu tư và Thống kê ban hành, phát hành tài liệu hoặc tạo ra vật chứa bí mật nhà nước có trách nhiệm xác định bí mật nhà nước và độ mật của bí mật nhà nước.
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 010020000000000030000100000000000000000000802742200070000300
+
+**ID:** dk_00000232
+
+---
+
+
+### Điều 1.2.TT.4.3. Xác định bí mật nhà nước và độ mật của bí mật nhà nước
+
+### Điều 1.2.TT.4.3. Xác định bí mật nhà nước và độ mật của bí mật nhà nước
+
+1. Người đứng đầu hoặc cấp phó được ủy quyền của đơn vị Công an nhân dân ban hành, phát hành tài liệu hoặc tạo ra vật chứa bí mật nhà nước có trách nhiệm xác định bí mật nhà nước và độ mật của bí mật nhà nước.
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 010020000000000030000100000000000000000000802782601040000300
+
+**ID:** dk_00000233
+
+---
+
+
+### Điều 1.2.LQ.11. Sao, chụp tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.LQ.11. Sao, chụp tài liệu, vật chứa bí mật nhà nước
+
+1. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ Tuyệt mật bao gồm:
+
+**Chỉ mục:** 11
+
+**Mã phân cấp:** 0100200000000000300001100000000000000000
+
+**ID:** dk_00000234
+
+---
+
+
+### Điều 1.2.NĐ.1.3. Sao, chụp tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.NĐ.1.3. Sao, chụp tài liệu, vật chứa bí mật nhà nước
+
+1. Sao tài liệu bí mật nhà nước là việc chép lại hoặc tạo ra bản khác theo đúng nội dung bản gốc hoặc bản chính của tài liệu. Chụp tài liệu, vật chứa bí mật nhà nước là việc ghi lại bằng hình ảnh tài liệu, vật chứa bí mật nhà nước.
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 010020000000000030000110000000000000000000402720700260000300
+
+**ID:** dk_00000235
+
+---
+
+
+### Điều 1.2.TT.3.4. Sao, chụp tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.TT.3.4. Sao, chụp tài liệu, vật chứa bí mật nhà nước
+
+1. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ “Tuyệt mật” gồm:
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 010020000000000030000110000000000000000000802742200070000400
+
+**ID:** dk_00000236
+
+---
+
+
+### Điều 1.2.TT.4.4. Sao, chụp tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.TT.4.4. Sao, chụp tài liệu, vật chứa bí mật nhà nước
+
+1. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ Tuyệt mật gồm:
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 010020000000000030000110000000000000000000802782601040000400
+
+**ID:** dk_00000237
+
+---
+
+
+### Điều 1.2.LQ.12. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.LQ.12. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước
+
+1. Tài liệu, vật chứa bí mật nhà nước khi tiếp nhận, phát hành phải được thống kê theo trình tự thời gian và độ mật.
+
+**Chỉ mục:** 12
+
+**Mã phân cấp:** 0100200000000000300001200000000000000000
+
+**ID:** dk_00000238
+
+---
+
+
+### Điều 1.2.TT.3.5. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.TT.3.5. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước
+
+1. Tài liệu, vật chứa bí mật nhà nước được lưu giữ theo hồ sơ chuyên đề, đối tượng, lĩnh vực, có bảng thống kê chi tiết kèm theo, phải được bảo vệ bằng biện pháp thích hợp, bảo đảm an toàn do người đừng đầu đơn vị có thẩm quyền quy định.
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 010020000000000030000120000000000000000000802742200070000500
+
+**ID:** dk_00000239
+
+---
+
+
+### Điều 1.2.TT.4.5. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.TT.4.5. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước
+
+1. Hằng năm, các đơn vị Công an nhân dân phải thống kê tài liệu, vật chứa bí mật nhà nước đã tiếp nhận, phát hành theo trình tự thời gian và từng độ mật.
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 010020000000000030000120000000000000000000802782601040000500
+
+**ID:** dk_00000240
+
+---
+
+
+### Điều 1.2.LQ.13. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.LQ.13. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước
+
+1. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước ở trong nước do người làm công tác liên quan đến bí mật nhà nước, người làm công tác giao liên hoặc văn thư của cơ quan, tổ chức thực hiện.
+
+**Chỉ mục:** 13
+
+**Mã phân cấp:** 0100200000000000300001300000000000000000
+
+**ID:** dk_00000241
+
+---
+
+
+### Điều 1.2.NĐ.1.4. Giao, nhận tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.NĐ.1.4. Giao, nhận tài liệu, vật chứa bí mật nhà nước
+
+1. Việc giao tài liệu, vật chứa bí mật nhà nước được thực hiện như sau:
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 010020000000000030000130000000000000000000402720700260000400
+
+**ID:** dk_00000242
+
+---
+
+
+### Điều 1.2.TT.3.6. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.TT.3.6. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước
+
+1. Việc vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước do công chức, viên chức làm công tác liên quan trực tiếp đến bí mật nhà nước của các cơ quan, đơn vị trong ngành kế hoạch, đầu tư và thống kê thực hiện. Công chức, viên chức làm công tác liên quan trực tiếp đến bí mật nhà nước chỉ vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước khi được Người đứng đầu cơ quan, đơn vị chỉ đạo.
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 010020000000000030000130000000000000000000802742200070000600
+
+**ID:** dk_00000243
+
+---
+
+
+### Điều 1.2.TT.4.6. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.TT.4.6. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước
+
+1. Việc vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước do cán bộ, chiến sĩ làm công tác liên quan trực tiếp đến bí mật nhà nước; giao liên, văn thư Bộ Công an; giao liên, văn thư Công an các đơn vị, địa phương thực hiện. Cán bộ, chiến sĩ làm công tác liên quan trực tiếp đến bí mật nhà nước chỉ vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước khi được lãnh đạo, chỉ huy đơn vị Công an nhân dân chỉ đạo.
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 010020000000000030000130000000000000000000802782601040000600
+
+**ID:** dk_00000244
+
+---
+
+
+### Điều 1.2.LQ.14. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ
+
+### Điều 1.2.LQ.14. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ
+
+1. Việc mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ để phục vụ công tác ở trong nước phải được người đứng đầu hoặc cấp phó được ủy quyền của người đứng đầu cơ quan, tổ chức trực tiếp quản lý bí mật nhà nước cho phép.
+
+**Chỉ mục:** 14
+
+**Mã phân cấp:** 0100200000000000300001400000000000000000
+
+**ID:** dk_00000245
+
+---
+
+
+### Điều 1.2.NĐ.1.5. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ
+
+### Điều 1.2.NĐ.1.5. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ
+
+1. Người mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ phục vụ công tác trong nước, nước ngoài phải có văn bản xin phép người có thẩm quyền theo quy định tại khoản 1, khoản 2 Điều 14 của Luật Bảo vệ bí mật nhà nước. Khi kết thúc nhiệm vụ phải báo cáo người có thẩm quyền cho phép mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ về việc quản lý, sử dụng bí mật nhà nước và nộp lại cơ quan, tổ chức.
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 010020000000000030000140000000000000000000402720700260000500
+
+**ID:** dk_00000246
+
+---
+
+
+### Điều 1.2.TT.3.7. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ
+
+### Điều 1.2.TT.3.7. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ
+
+1. Việc mang tài liệu, vật chứa bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê ra khỏi nơi lưu giữ để phục vụ công tác ở trong nước phải được người đứng đầu hoặc cấp phó được ủy quyền của người đứng đầu cơ quan, đơn vị trực tiếp quản lý bí mật nhà nước cho phép.
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 010020000000000030000140000000000000000000802742200070000700
+
+**ID:** dk_00000247
+
+---
+
+
+### Điều 1.2.TT.4.7. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ
+
+### Điều 1.2.TT.4.7. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ
+
+1. Việc mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ để phục vụ công tác ở trong nước phải được người đứng đầu hoặc cấp phó được ủy quyền của người đứng đầu đơn vị Công an nhân dân trực tiếp quản lý bí mật nhà nước cho phép.
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 010020000000000030000140000000000000000000802782601040000700
+
+**ID:** dk_00000248
+
+---
+
+
+### Điều 1.2.LQ.15. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước
+
+### Điều 1.2.LQ.15. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước
+
+1. Người có thẩm quyền quy định tại các khoản 1, 2 và 3 Điều 11 của Luật này quyết định việc cung cấp, chuyển giao bí mật nhà nước.
+
+**Chỉ mục:** 15
+
+**Mã phân cấp:** 0100200000000000300001500000000000000000
+
+**ID:** dk_00000249
+
+---
+
+
+### Điều 1.2.TT.3.8. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước
+
+### Điều 1.2.TT.3.8. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước
+
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước được quy định như sau:
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 010020000000000030000150000000000000000000802742200070000800
+
+**ID:** dk_00000250
+
+---
+
+
+### Điều 1.2.TT.4.8. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước
+
+### Điều 1.2.TT.4.8. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước
+
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước được quy định như sau:
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 010020000000000030000150000000000000000000802782601040000800
+
+**ID:** dk_00000251
+
+---
+
+
+### Điều 1.2.LQ.16. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài
+
+### Điều 1.2.LQ.16. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài
+
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài được quy định như sau:
+
+**Chỉ mục:** 16
+
+**Mã phân cấp:** 0100200000000000300001600000000000000000
+
+**ID:** dk_00000252
+
+---
+
+
+### Điều 1.2.TT.3.9. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài
+
+### Điều 1.2.TT.3.9. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài
+
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài được quy định như sau:
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 010020000000000030000160000000000000000000802742200070000900
+
+**ID:** dk_00000253
+
+---
+
+
+### Điều 1.2.TT.4.9. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài
+
+### Điều 1.2.TT.4.9. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài
+
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài được quy định như sau:
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 010020000000000030000160000000000000000000802782601040000900
+
+**ID:** dk_00000254
+
+---
+
+
+### Điều 1.2.LQ.17. Hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước của cơ quan, tổ chức Việt Nam
+
+### Điều 1.2.LQ.17. Hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước của cơ quan, tổ chức Việt Nam
+
+1. Việc tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước của cơ quan, tổ chức Việt Nam phải bảo đảm các yêu cầu sau đây:
+
+**Chỉ mục:** 17
+
+**Mã phân cấp:** 0100200000000000300001700000000000000000
+
+**ID:** dk_00000255
+
+---
+
+
+### Điều 1.2.NĐ.1.6. Địa điểm, phương án bảo vệ và phương tiện, thiết bị sử dụng tại hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước
+
+### Điều 1.2.NĐ.1.6. Địa điểm, phương án bảo vệ và phương tiện, thiết bị sử dụng tại hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước
+
+1. Hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước được tổ chức trong phòng họp kín tại trụ sở làm việc của cơ quan, tổ chức. Trường hợp tổ chức ở ngoài trụ sở làm việc, người đứng đầu cơ quan, tổ chức quyết định tổ chức hội nghị, hội thảo, cuộc họp có trách nhiệm đề nghị cơ quan Bộ Công an, Công an cấp tỉnh kiểm tra an ninh, an toàn trong và ngoài khu vực diễn ra hội nghị, hội thảo, cuộc họp; hội nghị, hội thảo, cuộc họp do Bộ Quốc phòng, Ban Cơ yếu Chính phủ chủ trì tổ chức do cơ quan chức năng của Bộ Quốc phòng, Ban Cơ yếu Chính phủ thực hiện.
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 010020000000000030000170000000000000000000402720700260000600
+
+**ID:** dk_00000256
+
+---
+
+
+### Điều 1.2.TT.3.10. Tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê
+
+### Điều 1.2.TT.3.10. Tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê
+
+1. Thẩm quyền quyết định tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước:
+
+**Chỉ mục:** 10
+
+**Mã phân cấp:** 010020000000000030000170000000000000000000802742200070001000
+
+**ID:** dk_00000257
+
+---
+
+
+### Điều 1.2.TT.4.10. Tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước trong Công an nhân dân
+
+### Điều 1.2.TT.4.10. Tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước trong Công an nhân dân
+
+1. Thẩm quyền quyết định tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước
+
+**Chỉ mục:** 10
+
+**Mã phân cấp:** 010020000000000030000170000000000000000000802782601040001000
+
+**ID:** dk_00000258
+
+---
+
+
+### Điều 1.2.LQ.18. Hội nghị, hội thảo, cuộc họp có yếu tố nước ngoài tổ chức tại Việt Nam có nội dung bí mật nhà nước
+
+### Điều 1.2.LQ.18. Hội nghị, hội thảo, cuộc họp có yếu tố nước ngoài tổ chức tại Việt Nam có nội dung bí mật nhà nước
+
+1. Việc tổ chức hội nghị, hội thảo, cuộc họp có yếu tố nước ngoài tại Việt Nam có nội dung bí mật nhà nước phải bảo đảm các yêu cầu sau đây:
+
+**Chỉ mục:** 18
+
+**Mã phân cấp:** 0100200000000000300001800000000000000000
+
+**ID:** dk_00000259
+
+---
+
+
+### Điều 1.2.LQ.19. Thời hạn bảo vệ bí mật nhà nước
+
+### Điều 1.2.LQ.19. Thời hạn bảo vệ bí mật nhà nước
+
+1. Thời hạn bảo vệ bí mật nhà nước là khoảng thời gian được tính từ ngày xác định độ mật của bí mật nhà nước đến hết thời hạn sau đây:
+
+**Chỉ mục:** 19
+
+**Mã phân cấp:** 0100200000000000300001900000000000000000
+
+**ID:** dk_00000260
+
+---
+
+
+### Điều 1.2.LQ.20. Gia hạn thời hạn bảo vệ bí mật nhà nước
+
+### Điều 1.2.LQ.20. Gia hạn thời hạn bảo vệ bí mật nhà nước
+
+1. Thời hạn bảo vệ bí mật nhà nước được gia hạn nếu việc giải mật gây nguy hại đến lợi ích quốc gia, dân tộc.
+
+**Chỉ mục:** 20
+
+**Mã phân cấp:** 0100200000000000300002000000000000000000
+
+**ID:** dk_00000261
+
+---
+
+
+### Điều 1.2.TT.4.11. Gia hạn thời hạn bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.4.11. Gia hạn thời hạn bảo vệ bí mật nhà nước
+
+1. Thời hạn bảo vệ bí mật nhà nước được gia hạn nếu việc giải mật gây nguy hại đến lợi ích quốc gia, dân tộc.
+
+**Chỉ mục:** 11
+
+**Mã phân cấp:** 010020000000000030000200000000000000000000802782601040001100
+
+**ID:** dk_00000262
+
+---
+
+
+### Điều 1.2.LQ.21. Điều chỉnh độ mật
+
+### Điều 1.2.LQ.21. Điều chỉnh độ mật
+
+1. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của bí mật nhà nước.
+
+**Chỉ mục:** 21
+
+**Mã phân cấp:** 0100200000000000300002100000000000000000
+
+**ID:** dk_00000263
+
+---
+
+
+### Điều 1.2.TT.3.11. Điều chỉnh độ mật
+
+### Điều 1.2.TT.3.11. Điều chỉnh độ mật
+
+1. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của bí mật nhà nước.
+
+**Chỉ mục:** 11
+
+**Mã phân cấp:** 010020000000000030000210000000000000000000802742200070001100
+
+**ID:** dk_00000264
+
+---
+
+
+### Điều 1.2.TT.4.12. Điều chỉnh độ mật
+
+### Điều 1.2.TT.4.12. Điều chỉnh độ mật
+
+1. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của bí mật nhà nước.
+
+**Chỉ mục:** 12
+
+**Mã phân cấp:** 010020000000000030000210000000000000000000802782601040001200
+
+**ID:** dk_00000265
+
+---
+
+
+### Điều 1.2.LQ.22. Giải mật
+
+### Điều 1.2.LQ.22. Giải mật
+
+1. Giải mật là xóa bỏ độ mật của bí mật nhà nước.
+
+**Chỉ mục:** 22
+
+**Mã phân cấp:** 0100200000000000300002200000000000000000
+
+**ID:** dk_00000266
+
+---
+
+
+### Điều 1.2.TT.3.12. Giải mật
+
+### Điều 1.2.TT.3.12. Giải mật
+
+1. Giải mật là xóa bỏ độ mật của bí mật nhà nước.
+
+**Chỉ mục:** 12
+
+**Mã phân cấp:** 010020000000000030000220000000000000000000802742200070001200
+
+**ID:** dk_00000267
+
+---
+
+
+### Điều 1.2.TT.4.13. Giải mật
+
+### Điều 1.2.TT.4.13. Giải mật
+
+1. Giải mật là xóa bỏ độ mật của bí mật nhà nước.
+
+**Chỉ mục:** 13
+
+**Mã phân cấp:** 010020000000000030000220000000000000000000802782601040001300
+
+**ID:** dk_00000268
+
+---
+
+
+### Điều 1.2.LQ.23. Tiêu hủy tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.LQ.23. Tiêu hủy tài liệu, vật chứa bí mật nhà nước
+
+1. Tiêu hủy tài liệu, vật chứa bí mật nhà nước trong trường hợp sau đây:
+
+**Chỉ mục:** 23
+
+**Mã phân cấp:** 0100200000000000300002300000000000000000
+
+**ID:** dk_00000269
+
+---
+
+
+### Điều 1.2.TT.3.13. Tiêu hủy tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.TT.3.13. Tiêu hủy tài liệu, vật chứa bí mật nhà nước
+
+1. Các trường hợp tiến hành thực hiện việc tiêu hủy tài liệu, vật chứa bí mật nhà nước gồm:
+
+**Chỉ mục:** 13
+
+**Mã phân cấp:** 010020000000000030000230000000000000000000802742200070001300
+
+**ID:** dk_00000270
+
+---
+
+
+### Điều 1.2.TT.4.14. Tiêu huỷ tài liệu, vật chứa bí mật nhà nước
+
+### Điều 1.2.TT.4.14. Tiêu huỷ tài liệu, vật chứa bí mật nhà nước
+
+1. Tiêu hủy tài liệu, vật chứa bí mật nhà nước trong trường hợp sau đây:
+
+**Chỉ mục:** 14
+
+**Mã phân cấp:** 010020000000000030000230000000000000000000802782601040001400
+
+**ID:** dk_00000271
+
+---
+
+
+### Điều 1.2.LQ.24. Trách nhiệm bảo vệ bí mật nhà nước của cơ quan, tổ chức
+
+### Điều 1.2.LQ.24. Trách nhiệm bảo vệ bí mật nhà nước của cơ quan, tổ chức
+
+1. Chính phủ thống nhất quản lý nhà nước về bảo vệ bí mật nhà nước.
+
+**Chỉ mục:** 24
+
+**Mã phân cấp:** 0100200000000000400002400000000000000000
+
+**ID:** dk_00000273
+
+---
+
+
+### Điều 1.2.NĐ.1.7. Phân công người thực hiện nhiệm vụ bảo vệ bí mật nhà nước
+
+### Điều 1.2.NĐ.1.7. Phân công người thực hiện nhiệm vụ bảo vệ bí mật nhà nước
+
+1. Văn phòng Trung ương và ban đảng; cơ quan trung ương của tổ chức chính trị - xã hội; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao; Kiểm toán Nhà nước; Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phân công người thực hiện nhiệm vụ chuyên trách bảo vệ bí mật nhà nước tại văn phòng hoặc đơn vị hành chính, tổng hợp.
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 010020000000000040000240000000000000000000402720700260000700
+
+**ID:** dk_00000274
+
+---
+
+
+### Điều 1.2.TT.3.14. Phân công công chức (viên chức) thực hiện nhiệm vụ bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.3.14. Phân công công chức (viên chức) thực hiện nhiệm vụ bảo vệ bí mật nhà nước
+
+1. Bộ Kế hoạch và Đầu tư có trách nhiệm phân công công chức thực hiện nhiệm vụ chuyên trách bảo vệ bí mật nhà nước tại cơ quan Bộ,
+
+**Chỉ mục:** 14
+
+**Mã phân cấp:** 01002000000000004000024000000000000000000040272070026000070000802742200070001400
+
+**ID:** dk_00000275
+
+---
+
+
+### Điều 1.2.TT.4.16. Phân công cán bộ thực hiện nhiệm vụ bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.4.16. Phân công cán bộ thực hiện nhiệm vụ bảo vệ bí mật nhà nước
+
+1. Tại cơ quan Bộ
+
+**Chỉ mục:** 16
+
+**Mã phân cấp:** 01002000000000004000024000000000000000000040272070026000070000802782601040001600
+
+**ID:** dk_00000276
+
+---
+
+
+### Điều 1.2.TT.2.2. Biểu mẫu sử dụng trong công tác bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.2.2. Biểu mẫu sử dụng trong công tác bảo vệ bí mật nhà nước
+
+1. Văn bản xác định độ mật đối với vật, địa điểm, lời nói, hoạt động, hình thức khác chứa bí mật nhà nước: Mẫu số 01.
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 010020000000000040000240000000000000000000802721800240000200
+
+**ID:** dk_00000277
+
+---
+
+
+### Điều 1.2.TT.2.3. Sử dụng biểu mẫu
+
+### Điều 1.2.TT.2.3. Sử dụng biểu mẫu
+
+1. Cơ quan, tổ chức, cá nhân khi sử dụng biểu mẫu quy định tại Điều 2 Thông tư này phải bảo đảm đầy đủ nội dung, thống nhất về hình thức, kích thước được quy định cụ thể tại các biểu mẫu.
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 010020000000000040000240000000000000000000802721800240000300
+
+**ID:** dk_00000278
+
+---
+
+
+### Điều 1.2.TT.4.15. Trách nhiệm của Công an các đơn vị, địa phương về công tác bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.4.15. Trách nhiệm của Công an các đơn vị, địa phương về công tác bảo vệ bí mật nhà nước
+
+1. Cục An ninh chính trị nội bộ có trách nhiệm tham mưu giúp Bộ:
+
+**Chỉ mục:** 15
+
+**Mã phân cấp:** 010020000000000040000240000000000000000000802782601040001500
+
+**ID:** dk_00000279
+
+---
+
+
+### Điều 1.2.LQ.25. Trách nhiệm của người đứng đầu cơ quan, tổ chức trực tiếp quản lý bí mật nhà nước
+
+### Điều 1.2.LQ.25. Trách nhiệm của người đứng đầu cơ quan, tổ chức trực tiếp quản lý bí mật nhà nước
+
+1. Ban hành nội quy bảo vệ bí mật nhà nước trong cơ quan, tổ chức, trừ cơ quan, tổ chức quy định tại khoản 3 Điều 24 của Luật này.
+
+**Chỉ mục:** 25
+
+**Mã phân cấp:** 0100200000000000400002500000000000000000
+
+**ID:** dk_00000280
+
+---
+
+
+### Điều 1.2.NĐ.1.8. Chế độ báo cáo về công tác bảo vệ bí mật nhà nước
+
+### Điều 1.2.NĐ.1.8. Chế độ báo cáo về công tác bảo vệ bí mật nhà nước
+
+1. Người đứng đầu cơ quan, tổ chức quy định tại khoản 1 Điều 7 của Nghị định này phải thực hiện chế độ báo cáo về công tác bảo vệ bí mật nhà nước trong phạm vi quản lý gửi Bộ Công an để tổng hợp báo cáo Thủ tướng Chính phủ theo thời hạn như sau:
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 010020000000000040000250000000000000000000402720700260000800
+
+**ID:** dk_00000281
+
+---
+
+
+### Điều 1.2.TT.3.15. Chế độ báo cáo công tác bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.3.15. Chế độ báo cáo công tác bảo vệ bí mật nhà nước
+
+1. Các đơn vị thuộc và trực thuộc Bộ Kế hoạch và Đầu tư:
+
+**Chỉ mục:** 15
+
+**Mã phân cấp:** 01002000000000004000025000000000000000000040272070026000080000802742200070001500
+
+**ID:** dk_00000282
+
+---
+
+
+### Điều 1.2.TT.4.17. Chế độ thông tin, báo cáo về công tác bảo vệ bí mật nhà nước
+
+### Điều 1.2.TT.4.17. Chế độ thông tin, báo cáo về công tác bảo vệ bí mật nhà nước
+
+1. Định kỳ sáu tháng, một năm, Công an các đơn vị, địa phương báo cáo công tác bảo vệ bí mật nhà nước gửi về Bộ (qua Cục An ninh chính trị nội bộ).
+
+**Chỉ mục:** 17
+
+**Mã phân cấp:** 01002000000000004000025000000000000000000040272070026000080000802782601040001700
+
+**ID:** dk_00000283
+
+---
+
+
+### Điều 1.2.TT.3.16. Trách nhiệm của Người đứng đầu các cơ quan, đơn vị trong tổ chức thực hiện công tác bảo vệ bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê
+
+### Điều 1.2.TT.3.16. Trách nhiệm của Người đứng đầu các cơ quan, đơn vị trong tổ chức thực hiện công tác bảo vệ bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê
+
+1. Văn phòng Bộ Kế hoạch và Đầu tư có trách nhiệm:
+
+**Chỉ mục:** 16
+
+**Mã phân cấp:** 010020000000000040000250000000000000000000802742200070001600
+
+**ID:** dk_00000284
+
+---
+
+
+### Điều 1.2.LQ.26. Trách nhiệm của người tiếp cận, người trực tiếp quản lý bí mật nhà nước
+
+### Điều 1.2.LQ.26. Trách nhiệm của người tiếp cận, người trực tiếp quản lý bí mật nhà nước
+
+1. Người tiếp cận bí mật nhà nước có trách nhiệm sau đây:
+
+**Chỉ mục:** 26
+
+**Mã phân cấp:** 0100200000000000400002600000000000000000
+
+**ID:** dk_00000285
+
+---
+
+
+### Điều 1.2.LQ.27. Hiệu lực thi hành
+
+### Điều 1.2.LQ.27. Hiệu lực thi hành
+
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020, trừ trường hợp quy định tại khoản 2 Điều này.
+
+**Chỉ mục:** 27
+
+**Mã phân cấp:** 0100200000000000500002700000000000000000
+
+**ID:** dk_00000287
+
+---
+
+
+### Điều 1.2.NĐ.1.9. Hiệu lực thi hành
+
+### Điều 1.2.NĐ.1.9. Hiệu lực thi hành
+
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020.
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 0100200000000000500002740272070026000090
+
+**ID:** dk_00000288
+
+---
+
+
+### Điều 1.2.TT.1.6. Điều khoản thi hành
+
+### Điều 1.2.TT.1.6. Điều khoản thi hành
+
+Thông tư này có hiệu lực kể từ ngày 01 tháng 10 năm 2013.
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 0100200000000000500002780248180110000060
+
+**ID:** dk_00000289
+
+---
+
+
+### Điều 1.2.TT.2.4. Hiệu lực thi hành
+
+### Điều 1.2.TT.2.4. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020.
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 0100200000000000500002780272180024000040
+
+**ID:** dk_00000290
+
+---
+
+
+### Điều 1.2.TT.3.18. Hiệu lực thi hành
+
+### Điều 1.2.TT.3.18. Hiệu lực thi hành
+
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2020 và thay thế Quyết định số 995/2008/QĐ-BKH ngày 05 tháng 8 năm 2008 của Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Quy chế bảo vệ bí mật nhà nước trong ngành Kế hoạch và Đầu tư.
+
+**Chỉ mục:** 18
+
+**Mã phân cấp:** 0100200000000000500002780274220007000180
+
+**ID:** dk_00000291
+
+---
+
+
+### Điều 1.2.TT.3.19. Trách nhiệm thi hành
+
+### Điều 1.2.TT.3.19. Trách nhiệm thi hành
+
+1. Thủ trưởng các đơn vị thuộc và trực thuộc Bộ; Giám đốc Sở Kế hoạch và Đầu tư các tỉnh, thành phố trực thuộc trung ương và cơ quan, đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+**Chỉ mục:** 19
+
+**Mã phân cấp:** 0100200000000000500002780274220007000190
+
+**ID:** dk_00000292
+
+---
+
+
+### Điều 1.2.TT.4.18. Hiệu lực thi hành
+
+### Điều 1.2.TT.4.18. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 23 tháng 12 năm 2021 và thay thế Thông tư số 38/2020/TT-BCA ngày 17 tháng 4 năm 2020 của Bộ trưởng Bộ Công an quy định về công tác bảo vệ bí mật nhà nước trong Công an nhân dân.
+
+**Chỉ mục:** 18
+
+**Mã phân cấp:** 0100200000000000500002780278260104000180
+
+**ID:** dk_00000293
+
+---
+
+
+### Điều 1.2.TT.4.19. Trách nhiệm thi hành
+
+### Điều 1.2.TT.4.19. Trách nhiệm thi hành
+
+1. Cục An ninh chính trị nội bộ chịu trách nhiệm hướng dẫn, theo dõi, kiểm tra, đôn đốc việc thực hiện Thông tư này.
+
+**Chỉ mục:** 19
+
+**Mã phân cấp:** 0100200000000000500002780278260104000190
+
+**ID:** dk_00000294
+
+---
+
+
+### Điều 1.2.LQ.28. Điều khoản chuyển tiếp
+
+### Điều 1.2.LQ.28. Điều khoản chuyển tiếp
+
+Bí mật nhà nước đã được xác định trước ngày 01 tháng 01 năm 2019 được xác định thời hạn bảo vệ theo quy định tại khoản 1 Điều 19 của Luật này. Cơ quan, tổ chức đã xác định bí mật nhà nước có trách nhiệm xác định thời hạn bảo vệ đối với bí mật nhà nước đó bảo đảm kết thúc trước ngày 01 tháng 7 năm 2021.
+
+**Chỉ mục:** 28
+
+**Mã phân cấp:** 0100200000000000500002800000000000000000
+
+**ID:** dk_00000295
+
+---
+
+
+## 🔙 Quay lại
+[← Danh sách đề mục của c3b69131-2931-4f67-926e-b244e18e8081](/c3b69131-2931-4f67-926e-b244e18e8081/)  
+[← Danh sách tất cả Chủ đề](/van-ban/)
+
+## 📊 Thống kê
+- **Tổng số điều khoản:** 90
+- **Điều khoản thực tế:** 85
+- **Điều khoản có nội dung:** 85 (100.0%)
+- **ID đề mục:** 84a4b90e6b0741ca919d759cfb657f3f
+
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+
+---
+
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
