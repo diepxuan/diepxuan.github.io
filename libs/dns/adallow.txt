@@ -32,6 +32,7 @@ web.facebook.com
 ! VNPT Camera
 apionehome.vnpt-technology.vn
 a1-cube.vnpt-technology.vn
+blogspot.com
 ! Uniview camera
 cloud.uniview.com
 push.uniview.com
