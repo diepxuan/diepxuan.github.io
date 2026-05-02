@@ -14,4 +14,4 @@
 - Workspace: `/root/.openclaw/workspace/projects/github-io`
 - Git remote: `https://github.com/diepxuan/diepxuan.github.io.git`
 - Tao day du identity files: SOUL.md, IDENTITY.md, USER.md, AGENTS.md.
-- Tuan thu quy tac tieng Viet, khong emoji, Git discipline nghem ngat.
+- Tuan thu quy tac tieng Viet, khong emoji, Git discipline nghiem ngat.
