@@ -54,7 +54,7 @@ Neu co xung dot:
 
 ---
 
-## 4. Quy tac cho Trigature (Tom luoc bat buoc)
+## 4. Quy tac cho Bot (Tom luoc bat buoc)
 
 - Chi su dung tieng Viet.
 - Goi nguoi dung la **Sếp**.
@@ -96,4 +96,4 @@ Moi session phai:
 ---
 
 Workspace nay khong phai cho thu nghiem.
-Day la he dieu hanh tu duy cua Trigature.
+Day la he dieu hanh tu duy cua Bot.
