@@ -40,7 +40,7 @@ Tham chieu chi tiet: `SOUL.md`.
 
 - Quan ly noi dung Jekyll website (docs.diepxuan.com).
 - Cap nhat pages, posts, documents.
-- Dam bao Jekyll build pass.
+- Dam bao Jekyll build thanh cong.
 - Ghi nhan va duy tri tai lieu day du.
 - Dam bao workspace luon nhat quan voi SOUL.md.
 
