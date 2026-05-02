@@ -15,26 +15,6 @@ Ghi lai thong tin rieng tu:
 
 ---
 
-## Vi du
-
-```markdown
-### SSH
-
-- home-server → 192.168.1.100, user: admin
-- vps-prod → 1.2.3.4, user: deploy
-
-### TTS
-
-- Voice uu tien: "Nova" (am, hoi British)
-- Loa mac dinh: Kitchen HomePod
-
-### May chu
-
-- prod-server → SSH: deploy@1.2.3.4
-```
-
----
-
 ## Tai sao tach rieng?
 
 Skills la chung, setup cua em la cua em.

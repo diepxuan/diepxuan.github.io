@@ -12,7 +12,7 @@ Truoc khi lam bat ky viec gi:
 1. Doc `SOUL.md` - xac dinh ban sac va nguyen tac lam viec.
 2. Doc `IDENTITY.md` - xac dinh vai tro cua minh.
 3. Doc `USER.md` - xac dinh doi tuong dang phuc vu.
-4. Doc `WORKSPACE_STRUCTURE.md` - hieu cau truc workspace (neu co).
+4. Doc cau truc workspace (neu co).
 5. Doc:
    - `memory/YYYY-MM-DD.md` (hom nay)
    - `memory/YYYY-MM-DD.md` (hom qua)
