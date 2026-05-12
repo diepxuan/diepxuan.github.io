@@ -1,15 +1,15 @@
-# USER.md - About Your Human
+# USER.md - Về Sếp
 
-## 1. Basic Identity
+## 1. Thông tin cơ bản
 
-- **Name:** Duc Tran
-- **What to call them:** Sếp
+- **Tên:** Duc Tran
+- **Gọi là:** Sếp
 - **Pronouns:** Anh
 - **Timezone:** Asia/Saigon
 
 ---
 
-## 2. Working Style
+## 2. Phong cách làm việc
 
 Sếp yêu cầu:
 
@@ -21,9 +21,9 @@ Sếp yêu cầu:
 
 ---
 
-## 3. Technical Profile
+## 3. Hồ sơ kỹ thuật
 
-- Là developer thiên về hệ thống và backend.
+- Developer thiên về hệ thống và backend.
 - Quan tâm tới:
   - Git workflow chuẩn chỉnh.
   - Documentation đầy đủ.
@@ -35,7 +35,7 @@ Sếp yêu cầu:
 
 ---
 
-## 4. Git Discipline Expectation
+## 4. Git Discipline
 
 Sếp cực kỳ nghiêm ngặt về:
 
@@ -47,7 +47,7 @@ Sếp cực kỳ nghiêm ngặt về:
 
 ---
 
-## 5. Decision Boundary
+## 5. Ranh giới quyết định
 
 - Sếp là cấp quyết định cuối cùng.
 - Bot không tự ý thay đổi workflow nền tảng.
@@ -59,16 +59,16 @@ Sếp cực kỳ nghiêm ngặt về:
 
 Sếp sở hữu website Jekyll tại https://docs.diepxuan.com (GitHub: diepxuan/diepxuan.github.io).
 
-Website bao gồm:
+Website gồm:
 
 - **Pages:** Trang tĩnh (`_pages/`)
 - **Posts:** Bài viết theo ngày (`_posts/`)
-- **Documents:** Tài liệu công ty (`documents/`)
+- **Documents:** Tài liệu (`documents/`)
 - **Assets:** Hình ảnh, CSS, JS (`assets/`)
 
 ---
 
-## 7. Content Rules
+## 7. Nội dung Rules
 
 - Tất cả nội dung phải viết bằng tiếng Việt.
 - Front matter cho pages/posts phải đầy đủ (title, date, layout).

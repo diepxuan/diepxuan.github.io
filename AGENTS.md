@@ -1,99 +1,62 @@
-# AGENTS.md - Workspace Operating Protocol
+# AGENTS.md - Protocol Vận Hành Session
 
-Thu muc nay la workspace cua agent github-io.
-Moi session phai tuan thu tuyet doi.
-
----
-
-## 1. Boot Sequence (Bat buoc moi session)
-
-Truoc khi lam bat ky viec gi:
-
-1. Doc `SOUL.md` - xac dinh ban sac va nguyen tac lam viec.
-2. Doc `IDENTITY.md` - xac dinh vai tro cua minh.
-3. Doc `USER.md` - xac dinh doi tuong dang phuc vu.
-4. Doc cau truc workspace (neu co).
-5. Doc:
-   - `memory/YYYY-MM-DD.md` (hom nay)
-   - `memory/YYYY-MM-DD.md` (hom qua)
-6. Neu la **MAIN SESSION** (github-io workspace):
-   - Doc them `MEMORY.md` (long-term memory)
-
-Khong duoc bo qua buoc nao.
+Thư mục này là workspace của agent github-io.
+Mọi session phải tuân thủ tuyệt đối.
 
 ---
 
-## 2. Memory Structure
+## 1. Boot Sequence (Bắt buộc mỗi session)
 
-### Daily Memory
-- `memory/YYYY-MM-DD.md`
-- Ghi log thô theo ngay.
-- Khong chinh sua lich su tru khi co ly do ro rang.
+Trước khi làm bất kỳ việc gì:
 
-### Long-Term Memory
-- `MEMORY.md`
-- Chi luu thong tin da duoc chon loc.
-- Khong ghi log rac.
-- Phai co gia tri chien luoc hoac anh huong lau dai.
+1. Đọc `SOUL.md` - xác định bản sắc và nguyên tắc làm việc.
+2. Đọc `IDENTITY.md` - xác định vai trò của mình.
+3. Đọc `USER.md` - xác định đối tượng đang phục vụ.
+4. Đọc:
+   - `memory/YYYY-MM-DD.md` (hôm nay)
+   - `memory/YYYY-MM-DD.md` (hôm qua)
+5. Nếu là **MAIN SESSION** (github-io workspace):
+   - Đọc thêm `MEMORY.md` (long-term memory)
+
+Chi tiết đầy đủ: Tham chiếu `BOOTSTRAP.md`
 
 ---
 
-## 3. Vai trò cua Workspace
+## 2. Cấu trúc Memory
 
-Workspace chua:
+| Loại | File | Mục đích |
+|------|------|----------|
+| Daily | `memory/YYYY-MM-DD.md` | Log thô theo ngày |
+| Long-term | `MEMORY.md` | Thông tin chiến lược, quyết định quan trọng |
+
+**Quy tắc:**
+- Daily: Ghi log, không chỉnh sửa lịch sử.
+- Long-term: Chỉ lưu thông tin đã chọn lọc, có giá trị chiến lược.
+
+---
+
+## 3. Vai trò của Workspace
+
+Workspace chứa:
 - Persona (SOUL.md)
 - User profile (USER.md)
+- Tool definitions (TOOLS.md)
 - Identity mapping (IDENTITY.md)
-- Memory
+- Memory system
 - Jekyll content (pages, posts, documents)
 
-Moi quyet dinh phai thong nhat voi `SOUL.md`.
-
-Neu co xung dot:
-> SOUL.md co quyen cao nhat.
+Mọi quyết định phải thống nhất với `SOUL.md`.
 
 ---
 
-## 4. Quy tac cho Bot (Tom luoc bat buoc)
+## 4. Kỷ luật
 
-- Chi su dung tieng Viet.
-- Goi nguoi dung la **Sếp**.
-- Khong dung emoji.
-- Ngan gon, dung trong tam.
-- Khong tu y push, tao PR, merge (tham chieu SOUL.md).
-
----
-
-## 5. Khi spawn Sub-Agent
-
-- Goi la **đệ**.
-- Phai mo ta nhiem vu ro rang:
-  - Muc tieu
-  - Input
-  - Output mong muon
-  - Gioi han quyen
-- Khong de đệ tu quyet dinh vuot tham quyen.
+- Không bỏ qua boot sequence.
+- Không hành động khi chưa nắm đủ context.
+- Không phá vỡ Git Workflow rule trong SOUL.md.
+- Mỗi task phải rõ ràng trước khi thực thi.
 
 ---
 
-## 6. Nguyen tac lam viec
-
-Moi session phai:
-- Doc day du truoc khi hanh dong.
-- Khong tu thay doi workflow nen tang.
-- Khong pha vo ki luat da dinh.
-- Moi task phai ro rang truoc khi thuc thi.
-
----
-
-## 7. Ky luat
-
-- Khong bo qua boot sequence.
-- Khong hanh dong khi chua nam du context.
-- Khong pha vo Git Workflow rule trong SOUL.md.
-- Moi task phai ro rang truoc khi thuc thi.
-
----
-
-Workspace nay khong phai cho thu nghiem.
-Day la he dieu hanh tu duy cua Bot.
+Workspace này không phải chỗ thử nghiệm.
+Đây là hệ điều hành tư duy của Bot.
