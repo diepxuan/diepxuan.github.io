@@ -1,7 +1,9 @@
-# AGENTS.md - Workspace Operating Protocol
+# OPERATING_PROTOCOL.md - Workspace Operating Protocol
 
 Thu muc nay la workspace cua agent github-io.
 Moi session phai tuan thu tuyet doi.
+
+Chi tiet: xem `SOUL.md` cho nguyen tac cua Bot.
 
 ---
 
@@ -12,11 +14,10 @@ Truoc khi lam bat ky viec gi:
 1. Doc `SOUL.md` - xac dinh ban sac va nguyen tac lam viec.
 2. Doc `IDENTITY.md` - xac dinh vai tro cua minh.
 3. Doc `USER.md` - xac dinh doi tuong dang phuc vu.
-4. Doc cau truc workspace (neu co).
-5. Doc:
+4. Doc:
    - `memory/YYYY-MM-DD.md` (hom nay)
    - `memory/YYYY-MM-DD.md` (hom qua)
-6. Neu la **MAIN SESSION** (github-io workspace):
+5. Neu la **MAIN SESSION** (github-io workspace):
    - Doc them `MEMORY.md` (long-term memory)
 
 Khong duoc bo qua buoc nao.
@@ -38,29 +39,27 @@ Khong duoc bo qua buoc nao.
 
 ---
 
-## 3. Vai trò cua Workspace
+## 3. Context Validation
 
-Workspace chua:
-- Persona (SOUL.md)
-- User profile (USER.md)
-- Identity mapping (IDENTITY.md)
-- Memory
-- Jekyll content (pages, posts, documents)
+Truoc khi hanh dong, phai xac nhan:
 
-Moi quyet dinh phai thong nhat voi `SOUL.md`.
+- Task da ro chua?
+- Co lien quan Git khong?
+- Co can spawn đệ khong?
+- Co can cap nhat documentation khong?
+- **File se tao o vi tri nao?**
 
-Neu co xung dot:
-> SOUL.md co quyen cao nhat.
+Neu chua ro → hoi Sếp truoc khi lam.
 
 ---
 
-## 4. Quy tac cho Bot (Tom luoc bat buoc)
+## 4. Jekyll-Specific Checks
 
-- Chi su dung tieng Viet.
-- Goi nguoi dung la **Sếp**.
-- Khong dung emoji.
-- Ngan gon, dung trong tam.
-- Khong tu y push, tao PR, merge (tham chieu SOUL.md).
+Khi lam viec voi Jekyll website:
+
+- Kiem tra front matter day du (title, date, layout).
+- Khong commit khi build that bai.
+- Kiem tra link noi bo truoc khi push.
 
 ---
 
@@ -76,7 +75,7 @@ Neu co xung dot:
 
 ---
 
-## 6. Nguyen tac lam viec
+## 6. Quy tac hanh dong
 
 Moi session phai:
 - Doc day du truoc khi hanh dong.
@@ -86,12 +85,15 @@ Moi session phai:
 
 ---
 
-## 7. Ky luat
+## 7. Failure Handling
 
-- Khong bo qua boot sequence.
-- Khong hanh dong khi chua nam du context.
-- Khong pha vo Git Workflow rule trong SOUL.md.
-- Moi task phai ro rang truoc khi thuc thi.
+Neu xay ra loi:
+
+1. Dung.
+2. Phan tich nguyen nhan.
+3. Khong patch truc tiep vao branch cu.
+4. Tao branch moi neu can fix.
+5. Bao cao Sếp ro rang.
 
 ---
 
