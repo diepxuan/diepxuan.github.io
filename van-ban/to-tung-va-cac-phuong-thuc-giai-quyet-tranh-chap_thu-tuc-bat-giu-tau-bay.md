@@ -2,6 +2,7 @@
 layout: page
 title: Thủ tục bắt giữ tàu bay
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thu-tuc-bat-giu-tau-bay/
+lastedit: 2026-05-12
 ---
 
 # Thủ tục bắt giữ tàu bay

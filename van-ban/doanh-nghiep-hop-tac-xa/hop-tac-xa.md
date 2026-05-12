@@ -2,6 +2,7 @@
 layout: page
 title: Hợp tác xã
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/hop-tac-xa/
+lastedit: 2026-05-12
 ---
 
 # Hợp tác xã

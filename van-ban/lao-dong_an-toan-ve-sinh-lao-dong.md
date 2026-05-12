@@ -2,6 +2,7 @@
 layout: page
 title: An toàn, vệ sinh lao động
 permalink: /van-ban/lao-dong/an-toan-ve-sinh-lao-dong/
+lastedit: 2026-05-12
 ---
 
 # An toàn, vệ sinh lao động

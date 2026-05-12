@@ -2,6 +2,7 @@
 layout: page
 title: Tài nguyên, môi trường biển và hải đảo
 permalink: /van-ban/tai-nguyen/tai-nguyen-moi-truong-bien-va-hai-dao/
+lastedit: 2026-05-12
 ---
 
 # Tài nguyên, môi trường biển và hải đảo

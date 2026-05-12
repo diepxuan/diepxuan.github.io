@@ -2,6 +2,7 @@
 layout: page
 title: Trưng cầu ý dân
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/trung-cau-y-dan/
+lastedit: 2026-05-12
 ---
 
 # Trưng cầu ý dân

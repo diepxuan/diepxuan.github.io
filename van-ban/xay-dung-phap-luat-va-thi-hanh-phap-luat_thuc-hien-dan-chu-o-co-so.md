@@ -2,6 +2,7 @@
 layout: page
 title: Thực hiện dân chủ ở cơ sở
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/thuc-hien-dan-chu-o-co-so/
+lastedit: 2026-05-12
 ---
 
 # Thực hiện dân chủ ở cơ sở

@@ -2,6 +2,7 @@
 layout: page
 title: Biên phòng Việt Nam
 permalink: /van-ban/quoc-phong/bien-phong-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Biên phòng Việt Nam

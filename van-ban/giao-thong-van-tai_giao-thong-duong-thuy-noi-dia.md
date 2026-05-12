@@ -2,6 +2,7 @@
 layout: page
 title: Giao thông đường thủy nội địa
 permalink: /van-ban/giao-thong-van-tai/giao-thong-duong-thuy-noi-dia/
+lastedit: 2026-05-12
 ---
 
 # Giao thông đường thủy nội địa

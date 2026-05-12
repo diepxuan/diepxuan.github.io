@@ -2,6 +2,7 @@
 layout: page
 title: Phòng, chống bệnh truyền nhiễm
 permalink: /van-ban/y-te-duoc/phong-chong-benh-truyen-nhiem/
+lastedit: 2026-05-12
 ---
 
 # Phòng, chống bệnh truyền nhiễm

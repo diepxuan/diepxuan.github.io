@@ -2,6 +2,7 @@
 layout: page
 title: Quản lý sản xuất, kinh doanh muối
 permalink: /van-ban/nong-nghiep-nong-thon/quan-ly-san-xuat-kinh-doanh-muoi/
+lastedit: 2026-05-12
 ---
 
 # Quản lý sản xuất, kinh doanh muối

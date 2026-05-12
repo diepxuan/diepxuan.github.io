@@ -2,6 +2,7 @@
 layout: page
 title: Thực hiện nếp sống văn minh trong việc cưới, việc tang
 permalink: /van-ban/van-hoa-the-thao-du-lich/thuc-hien-nep-song-van-minh-trong-viec-cuoi-viec-tang/
+lastedit: 2026-05-12
 ---
 
 # Thực hiện nếp sống văn minh trong việc cưới, việc tang

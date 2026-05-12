@@ -2,6 +2,7 @@
 layout: page
 title: Tổ chức chính trị - xã hội, hội
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/
+lastedit: 2026-05-12
 ---
 
 # Tổ chức chính trị - xã hội, hội

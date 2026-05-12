@@ -2,6 +2,7 @@
 layout: page
 title: Cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/co-quan-dai-dien-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-o-nuoc-ngoai/
+lastedit: 2026-05-12
 ---
 
 # Cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài

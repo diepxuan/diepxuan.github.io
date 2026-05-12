@@ -2,6 +2,7 @@
 layout: page
 title: Phá sản
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/pha-san/
+lastedit: 2026-05-12
 ---
 
 # Phá sản

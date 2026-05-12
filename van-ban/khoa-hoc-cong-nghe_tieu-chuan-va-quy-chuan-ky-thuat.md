@@ -2,6 +2,7 @@
 layout: page
 title: Tiêu chuẩn và quy chuẩn kỹ thuật
 permalink: /van-ban/khoa-hoc-cong-nghe/tieu-chuan-va-quy-chuan-ky-thuat/
+lastedit: 2026-05-12
 ---
 
 # Tiêu chuẩn và quy chuẩn kỹ thuật

@@ -2,6 +2,7 @@
 layout: page
 title: Khoa học và công nghệ
 permalink: /van-ban/khoa-hoc-cong-nghe/khoa-hoc-va-cong-nghe/
+lastedit: 2026-05-12
 ---
 
 # Khoa học và công nghệ

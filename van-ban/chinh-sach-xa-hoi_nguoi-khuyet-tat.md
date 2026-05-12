@@ -2,6 +2,7 @@
 layout: page
 title: Người khuyết tật
 permalink: /van-ban/chinh-sach-xa-hoi/nguoi-khuyet-tat/
+lastedit: 2026-05-12
 ---
 
 # Người khuyết tật

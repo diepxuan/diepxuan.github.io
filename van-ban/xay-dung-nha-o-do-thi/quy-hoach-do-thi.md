@@ -2,6 +2,7 @@
 layout: page
 title: Quy hoạch đô thị
 permalink: /van-ban/xay-dung-nha-o-do-thi/quy-hoach-do-thi/
+lastedit: 2026-05-12
 ---
 
 # Quy hoạch đô thị

@@ -2,6 +2,7 @@
 layout: page
 title: Xuất cảnh, nhập cảnh của công dân Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/xuat-canh-nhap-canh-cua-cong-dan-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Xuất cảnh, nhập cảnh của công dân Việt Nam

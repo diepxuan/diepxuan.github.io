@@ -2,6 +2,7 @@
 layout: page
 title: Công nghệ thông tin
 permalink: /van-ban/buu-chinh-vien-thong/cong-nghe-thong-tin/
+lastedit: 2026-05-12
 ---
 
 # Công nghệ thông tin

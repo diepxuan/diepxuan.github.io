@@ -2,6 +2,7 @@
 layout: page
 title: Hàm, cấp ngoại giao
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/ham-cap-ngoai-giao/
+lastedit: 2026-05-12
 ---
 
 # Hàm, cấp ngoại giao

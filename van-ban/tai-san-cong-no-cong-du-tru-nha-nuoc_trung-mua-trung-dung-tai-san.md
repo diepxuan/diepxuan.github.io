@@ -2,6 +2,7 @@
 layout: page
 title: Trưng mua, trưng dụng tài sản
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/trung-mua-trung-dung-tai-san/
+lastedit: 2026-05-12
 ---
 
 # Trưng mua, trưng dụng tài sản

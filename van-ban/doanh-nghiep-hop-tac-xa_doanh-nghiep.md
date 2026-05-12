@@ -2,6 +2,7 @@
 layout: page
 title: Doanh nghiệp
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/doanh-nghiep/
+lastedit: 2026-05-12
 ---
 
 # Doanh nghiệp

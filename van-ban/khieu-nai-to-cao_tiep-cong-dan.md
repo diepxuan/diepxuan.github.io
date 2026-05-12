@@ -2,6 +2,7 @@
 layout: page
 title: Tiếp công dân
 permalink: /van-ban/khieu-nai-to-cao/tiep-cong-dan/
+lastedit: 2026-05-12
 ---
 
 # Tiếp công dân

@@ -2,6 +2,7 @@
 layout: page
 title: Quản lý nợ công
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-no-cong/
+lastedit: 2026-05-12
 ---
 
 # Quản lý nợ công

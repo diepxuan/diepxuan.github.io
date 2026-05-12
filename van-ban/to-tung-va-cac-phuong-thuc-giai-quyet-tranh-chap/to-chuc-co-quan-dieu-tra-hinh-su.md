@@ -2,6 +2,7 @@
 layout: page
 title: Tổ chức cơ quan điều tra hình sự
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-chuc-co-quan-dieu-tra-hinh-su/
+lastedit: 2026-05-12
 ---
 
 # Tổ chức cơ quan điều tra hình sự

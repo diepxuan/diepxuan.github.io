@@ -2,6 +2,7 @@
 layout: page
 title: Điều ước quốc tế
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dieu-uoc-quoc-te/
+lastedit: 2026-05-12
 ---
 
 # Điều ước quốc tế

@@ -2,6 +2,7 @@
 layout: page
 title: Kiểm soát thủ tục hành chính
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-soat-thu-tuc-hanh-chinh/
+lastedit: 2026-05-12
 ---
 
 # Kiểm soát thủ tục hành chính

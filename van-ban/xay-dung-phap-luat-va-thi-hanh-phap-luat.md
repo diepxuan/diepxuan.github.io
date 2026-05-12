@@ -2,6 +2,7 @@
 layout: page
 title: Xây dựng pháp luật và thi hành pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/
+lastedit: 2026-05-12
 ---
 
 # Xây dựng pháp luật và thi hành pháp luật

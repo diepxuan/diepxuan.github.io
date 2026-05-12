@@ -2,6 +2,7 @@
 layout: page
 title: Quản lý, sử dụng tài sản công
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-su-dung-tai-san-cong/
+lastedit: 2026-05-12
 ---
 
 # Quản lý, sử dụng tài sản công

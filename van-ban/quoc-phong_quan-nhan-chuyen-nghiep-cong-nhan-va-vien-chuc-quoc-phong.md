@@ -2,6 +2,7 @@
 layout: page
 title: Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
 permalink: /van-ban/quoc-phong/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong/
+lastedit: 2026-05-12
 ---
 
 # Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng

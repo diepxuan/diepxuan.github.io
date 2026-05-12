@@ -2,6 +2,7 @@
 layout: page
 title: Các công cụ chuyển nhượng
 permalink: /van-ban/ngan-hang-tien-te/cac-cong-cu-chuyen-nhuong/
+lastedit: 2026-05-12
 ---
 
 # Các công cụ chuyển nhượng

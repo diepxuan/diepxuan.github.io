@@ -2,6 +2,7 @@
 layout: page
 title: Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-dai-dien-cua-cac-to-chuc-hop-tac-nghien-cuu-cua-nuoc-ngoai-tai-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam

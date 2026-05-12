@@ -2,6 +2,7 @@
 layout: page
 title: Bảo vệ sức khỏe nhân dân
 permalink: /van-ban/y-te-duoc/bao-ve-suc-khoe-nhan-dan/
+lastedit: 2026-05-12
 ---
 
 # Bảo vệ sức khỏe nhân dân

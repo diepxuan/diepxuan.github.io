@@ -2,6 +2,7 @@
 layout: page
 title: Tiếp cận thông tin
 permalink: /van-ban/thong-tin-bao-chi-xuat-ban/tiep-can-thong-tin/
+lastedit: 2026-05-12
 ---
 
 # Tiếp cận thông tin

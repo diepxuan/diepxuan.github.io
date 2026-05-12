@@ -2,6 +2,7 @@
 layout: page
 title: Hàng hải Việt Nam
 permalink: /van-ban/giao-thong-van-tai/hang-hai-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Hàng hải Việt Nam

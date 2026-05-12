@@ -2,6 +2,7 @@
 layout: page
 title: Phổ biến, giáo dục pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/pho-bien-giao-duc-phap-luat/
+lastedit: 2026-05-12
 ---
 
 # Phổ biến, giáo dục pháp luật

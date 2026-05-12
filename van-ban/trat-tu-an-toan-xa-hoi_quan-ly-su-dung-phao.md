@@ -2,6 +2,7 @@
 layout: page
 title: Quản lý, sử dụng pháo
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-su-dung-phao/
+lastedit: 2026-05-12
 ---
 
 # Quản lý, sử dụng pháo

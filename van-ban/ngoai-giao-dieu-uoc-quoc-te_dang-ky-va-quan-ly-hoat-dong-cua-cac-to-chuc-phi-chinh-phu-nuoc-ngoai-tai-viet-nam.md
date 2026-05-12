@@ -2,6 +2,7 @@
 layout: page
 title: Đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua-cac-to-chuc-phi-chinh-phu-nuoc-ngoai-tai-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam

@@ -2,6 +2,7 @@
 layout: page
 title: Lao động
 permalink: /van-ban/lao-dong/
+lastedit: 2026-05-12
 ---
 
 # Lao động

@@ -2,6 +2,7 @@
 layout: page
 title: Một số chính sách đối với người Việt Nam ở nước ngoài
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/mot-so-chinh-sach-doi-voi-nguoi-viet-nam-o-nuoc-ngoai/
+lastedit: 2026-05-12
 ---
 
 # Một số chính sách đối với người Việt Nam ở nước ngoài

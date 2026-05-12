@@ -2,6 +2,7 @@
 layout: page
 title: Hoạt động viễn thám
 permalink: /van-ban/tai-nguyen/hoat-dong-vien-tham/
+lastedit: 2026-05-12
 ---
 
 # Hoạt động viễn thám

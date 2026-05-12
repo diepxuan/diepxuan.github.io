@@ -2,6 +2,7 @@
 layout: page
 title: Lực lượng dự bị động viên
 permalink: /van-ban/quoc-phong/luc-luong-du-bi-dong-vien/
+lastedit: 2026-05-12
 ---
 
 # Lực lượng dự bị động viên

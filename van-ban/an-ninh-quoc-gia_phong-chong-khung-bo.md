@@ -2,6 +2,7 @@
 layout: page
 title: Phòng, chống khủng bố
 permalink: /van-ban/an-ninh-quoc-gia/phong-chong-khung-bo/
+lastedit: 2026-05-12
 ---
 
 # Phòng, chống khủng bố

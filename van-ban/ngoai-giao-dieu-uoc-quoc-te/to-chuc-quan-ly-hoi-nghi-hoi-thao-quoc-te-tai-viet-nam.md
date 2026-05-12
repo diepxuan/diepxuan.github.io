@@ -2,6 +2,7 @@
 layout: page
 title: Tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/to-chuc-quan-ly-hoi-nghi-hoi-thao-quoc-te-tai-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam

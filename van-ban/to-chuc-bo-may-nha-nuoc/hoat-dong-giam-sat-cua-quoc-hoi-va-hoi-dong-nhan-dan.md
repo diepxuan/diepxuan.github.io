@@ -2,6 +2,7 @@
 layout: page
 title: Hoạt động giám sát của Quốc hội và Hội đồng nhân dân
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan/
+lastedit: 2026-05-12
 ---
 
 # Hoạt động giám sát của Quốc hội và Hội đồng nhân dân

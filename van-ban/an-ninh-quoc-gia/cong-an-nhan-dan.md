@@ -2,6 +2,7 @@
 layout: page
 title: Công an nhân dân
 permalink: /van-ban/an-ninh-quoc-gia/cong-an-nhan-dan/
+lastedit: 2026-05-12
 ---
 
 # Công an nhân dân
