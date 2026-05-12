@@ -102,11 +102,10 @@ Thêm task dưới đây để Bot kiểm tra định kỳ.
 
 ## Quy tac thuc hien
 
-- Chi thuc hien nhung task tren khi het han interval.
-- Neu gap van de, reply HEARTBEAT_OK va ghi log vao MEMORY.md.
-- **Tao PR cho moi thay doi noi dung** de Sếp review truoc khi merge.
-- **Khong tu y viet code** - cho Sếp review truoc khi thuc hien refactor.
-- Moi task = 1 branch moi = 1 PR moi.
+- Chỉ thực hiện những task trên khi hết hạn interval.
+- Nếu gặp vấn đề, reply HEARTBEAT_OK và ghi log vào MEMORY.md.
+- **Tạo PR cho mọi thay đổi nội dung** để Sếp review trước khi merge.
+- Mỗi task = 1 branch mới = 1 PR mới.
 - Chi ghi nhan vao MEMORY.md khi chua duoc phep tao PR.
 
 ## Interval Schedule
@@ -122,11 +121,13 @@ Thêm task dưới đây để Bot kiểm tra định kỳ.
 ## Refactor Priority
 
 Uu tien refactor theo thu tu:
-1. Van ban chua co front matter `lastedit` (chua tung edit)
-2. Van ban co `lastedit` cu nhat
-3. Van ban thieu noi dung hoac khong day du
-4. Van ban chua co muc luc
-5. Van ban cau truc chua ro rang
+1. Van ban chua co trong van-ban/ (moi)
+2. Van ban chua co front matter `lastedit` (chua tung edit)
+3. Van ban co `lastedit` cu nhat
+4. Van ban thieu noi dung hoac khong day du
+5. Van ban chua co muc luc
+6. Van ban co thong tin cu hoac loi thoi gian
+7. Van ban cau truc chua ro rang
 
 ## Front matter example
 
