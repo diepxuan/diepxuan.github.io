@@ -14,7 +14,7 @@ Thêm task dưới đây để Bot kiểm tra định kỳ.
     Theo dõi tình hình luật mới của Việt Nam.
 
     1. Tìm kiếm:
-       - "dự án luật" OR "lúp tán" Việt Nam 2026
+       - "dự án luật" Việt Nam 2026
        - "thông tư mới" OR "quyết định mới" tháng này
     2. Kiểm tra các lĩnh vực: kinh tế, pháp lý, xã hội
     3. Nếu có luật đang được thảo luận hoặc ban hành:
