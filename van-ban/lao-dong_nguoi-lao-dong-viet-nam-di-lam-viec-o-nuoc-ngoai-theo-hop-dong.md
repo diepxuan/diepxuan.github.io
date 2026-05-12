@@ -2,6 +2,7 @@
 layout: page
 title: Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 permalink: /van-ban/lao-dong/nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong/
+lastedit: 2026-05-12
 ---
 
 # Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng

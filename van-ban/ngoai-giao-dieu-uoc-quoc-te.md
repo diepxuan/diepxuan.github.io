@@ -2,6 +2,7 @@
 layout: page
 title: Ngoại giao, điều ước quốc tế
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/
+lastedit: 2026-05-12
 ---
 
 # Ngoại giao, điều ước quốc tế

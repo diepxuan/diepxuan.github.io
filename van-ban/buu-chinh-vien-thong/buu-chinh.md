@@ -2,6 +2,7 @@
 layout: page
 title: Bưu chính
 permalink: /van-ban/buu-chinh-vien-thong/buu-chinh/
+lastedit: 2026-05-12
 ---
 
 # Bưu chính

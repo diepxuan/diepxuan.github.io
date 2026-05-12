@@ -2,6 +2,7 @@
 layout: page
 title: Phòng, chống tác hại của rượu, bia
 permalink: /van-ban/y-te-duoc/phong-chong-tac-hai-cua-ruou-bia/
+lastedit: 2026-05-12
 ---
 
 # Phòng, chống tác hại của rượu, bia

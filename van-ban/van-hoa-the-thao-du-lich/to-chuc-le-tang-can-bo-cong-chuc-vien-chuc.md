@@ -2,6 +2,7 @@
 layout: page
 title: Tổ chức lễ tang cán bộ, công chức, viên chức
 permalink: /van-ban/van-hoa-the-thao-du-lich/to-chuc-le-tang-can-bo-cong-chuc-vien-chuc/
+lastedit: 2026-05-12
 ---
 
 # Tổ chức lễ tang cán bộ, công chức, viên chức

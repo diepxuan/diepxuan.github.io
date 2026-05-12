@@ -2,6 +2,7 @@
 layout: page
 title: Năng lượng nguyên tử
 permalink: /van-ban/khoa-hoc-cong-nghe/nang-luong-nguyen-tu/
+lastedit: 2026-05-12
 ---
 
 # Năng lượng nguyên tử

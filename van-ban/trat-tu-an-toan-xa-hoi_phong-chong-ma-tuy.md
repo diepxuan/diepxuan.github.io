@@ -2,6 +2,7 @@
 layout: page
 title: Phòng, chống ma túy
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/phong-chong-ma-tuy/
+lastedit: 2026-05-12
 ---
 
 # Phòng, chống ma túy

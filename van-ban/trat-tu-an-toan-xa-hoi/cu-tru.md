@@ -2,6 +2,7 @@
 layout: page
 title: Cư trú
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/cu-tru/
+lastedit: 2026-05-12
 ---
 
 # Cư trú

@@ -2,6 +2,7 @@
 layout: page
 title: Tổ chức và hoạt động của Thừa phát lại
 permalink: /van-ban/thi-hanh-an/to-chuc-va-hoat-dong-cua-thua-phat-lai/
+lastedit: 2026-05-12
 ---
 
 # Tổ chức và hoạt động của Thừa phát lại

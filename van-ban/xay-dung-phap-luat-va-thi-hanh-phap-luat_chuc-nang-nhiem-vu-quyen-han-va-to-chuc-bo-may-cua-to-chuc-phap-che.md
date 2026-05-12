@@ -2,6 +2,7 @@
 layout: page
 title: Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to-chuc-phap-che/
+lastedit: 2026-05-12
 ---
 
 # Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế

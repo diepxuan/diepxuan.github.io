@@ -2,6 +2,7 @@
 layout: page
 title: Quốc tịch Việt Nam
 permalink: /van-ban/hanh-chinh-tu-phap/quoc-tich-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Quốc tịch Việt Nam

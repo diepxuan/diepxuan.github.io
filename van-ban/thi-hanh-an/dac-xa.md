@@ -2,6 +2,7 @@
 layout: page
 title: Đặc xá
 permalink: /van-ban/thi-hanh-an/dac-xa/
+lastedit: 2026-05-12
 ---
 
 # Đặc xá

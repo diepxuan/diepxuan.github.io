@@ -2,6 +2,7 @@
 layout: page
 title: Tài sản công, nợ công, dự trữ nhà nước
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/
+lastedit: 2026-05-12
 ---
 
 # Tài sản công, nợ công, dự trữ nhà nước

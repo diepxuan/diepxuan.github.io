@@ -2,6 +2,7 @@
 layout: page
 title: Người cao tuổi
 permalink: /van-ban/chinh-sach-xa-hoi/nguoi-cao-tuoi/
+lastedit: 2026-05-12
 ---
 
 # Người cao tuổi

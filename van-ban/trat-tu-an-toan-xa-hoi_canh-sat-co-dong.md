@@ -2,6 +2,7 @@
 layout: page
 title: Cảnh sát cơ động
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/canh-sat-co-dong/
+lastedit: 2026-05-12
 ---
 
 # Cảnh sát cơ động

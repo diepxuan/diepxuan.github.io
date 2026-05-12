@@ -2,6 +2,7 @@
 layout: page
 title: Điện ảnh
 permalink: /van-ban/van-hoa-the-thao-du-lich/dien-anh/
+lastedit: 2026-05-12
 ---
 
 # Điện ảnh

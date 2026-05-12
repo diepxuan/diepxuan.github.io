@@ -2,6 +2,7 @@
 layout: page
 title: Mặt trận Tổ quốc Việt Nam
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/mat-tran-to-quoc-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Mặt trận Tổ quốc Việt Nam

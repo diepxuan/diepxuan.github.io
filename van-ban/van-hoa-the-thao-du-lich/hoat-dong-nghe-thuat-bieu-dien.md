@@ -2,6 +2,7 @@
 layout: page
 title: Hoạt động nghệ thuật biểu diễn
 permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-nghe-thuat-bieu-dien/
+lastedit: 2026-05-12
 ---
 
 # Hoạt động nghệ thuật biểu diễn

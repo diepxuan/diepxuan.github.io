@@ -2,6 +2,7 @@
 layout: page
 title: Giáo dục quốc phòng và an ninh
 permalink: /van-ban/quoc-phong/giao-duc-quoc-phong-va-an-ninh/
+lastedit: 2026-05-12
 ---
 
 # Giáo dục quốc phòng và an ninh

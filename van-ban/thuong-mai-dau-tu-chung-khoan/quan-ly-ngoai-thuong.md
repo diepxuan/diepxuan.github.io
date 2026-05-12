@@ -2,6 +2,7 @@
 layout: page
 title: Quản lý ngoại thương
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/quan-ly-ngoai-thuong/
+lastedit: 2026-05-12
 ---
 
 # Quản lý ngoại thương

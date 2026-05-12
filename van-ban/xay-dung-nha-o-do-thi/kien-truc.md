@@ -2,6 +2,7 @@
 layout: page
 title: Kiến trúc
 permalink: /van-ban/xay-dung-nha-o-do-thi/kien-truc/
+lastedit: 2026-05-12
 ---
 
 # Kiến trúc

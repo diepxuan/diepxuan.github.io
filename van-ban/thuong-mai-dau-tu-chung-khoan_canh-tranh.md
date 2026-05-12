@@ -2,6 +2,7 @@
 layout: page
 title: Cạnh tranh
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/canh-tranh/
+lastedit: 2026-05-12
 ---
 
 # Cạnh tranh

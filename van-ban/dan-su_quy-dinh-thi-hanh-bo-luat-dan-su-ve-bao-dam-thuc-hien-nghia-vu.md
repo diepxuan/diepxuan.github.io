@@ -2,6 +2,7 @@
 layout: page
 title: Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ
 permalink: /van-ban/dan-su/quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien-nghia-vu/
+lastedit: 2026-05-12
 ---
 
 # Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ

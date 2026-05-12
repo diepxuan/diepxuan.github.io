@@ -2,6 +2,7 @@
 layout: page
 title: Tín ngưỡng, tôn giáo
 permalink: /van-ban/ton-giao-tin-nguong/tin-nguong-ton-giao/
+lastedit: 2026-05-12
 ---
 
 # Tín ngưỡng, tôn giáo

@@ -2,6 +2,7 @@
 layout: page
 title: Tổ chức Quốc hội
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/to-chuc-quoc-hoi/
+lastedit: 2026-05-12
 ---
 
 # Tổ chức Quốc hội

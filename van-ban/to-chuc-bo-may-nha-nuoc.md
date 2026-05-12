@@ -2,6 +2,7 @@
 layout: page
 title: Tổ chức bộ máy nhà nước
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/
+lastedit: 2026-05-12
 ---
 
 # Tổ chức bộ máy nhà nước

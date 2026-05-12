@@ -2,6 +2,7 @@
 layout: page
 title: Hòa giải, đối thoại tại Tòa án
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/hoa-giai-doi-thoai-tai-toa-an/
+lastedit: 2026-05-12
 ---
 
 # Hòa giải, đối thoại tại Tòa án

@@ -2,6 +2,7 @@
 layout: page
 title: Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh/
+lastedit: 2026-05-12
 ---
 
 # Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính

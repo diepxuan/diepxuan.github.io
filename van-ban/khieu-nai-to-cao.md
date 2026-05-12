@@ -2,6 +2,7 @@
 layout: page
 title: Khiếu nại, tố cáo
 permalink: /van-ban/khieu-nai-to-cao/
+lastedit: 2026-05-12
 ---
 
 # Khiếu nại, tố cáo

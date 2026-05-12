@@ -2,6 +2,7 @@
 layout: page
 title: Quản lý thuế
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/quan-ly-thue/
+lastedit: 2026-05-12
 ---
 
 # Quản lý thuế

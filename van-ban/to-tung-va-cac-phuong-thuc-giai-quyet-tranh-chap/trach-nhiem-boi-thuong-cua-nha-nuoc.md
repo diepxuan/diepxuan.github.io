@@ -2,6 +2,7 @@
 layout: page
 title: Trách nhiệm bồi thường của Nhà nước
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/trach-nhiem-boi-thuong-cua-nha-nuoc/
+lastedit: 2026-05-12
 ---
 
 # Trách nhiệm bồi thường của Nhà nước

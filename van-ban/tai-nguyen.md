@@ -2,6 +2,7 @@
 layout: page
 title: Tài nguyên
 permalink: /van-ban/tai-nguyen/
+lastedit: 2026-05-12
 ---
 
 # Tài nguyên

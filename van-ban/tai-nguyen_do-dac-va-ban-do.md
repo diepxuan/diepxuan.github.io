@@ -2,6 +2,7 @@
 layout: page
 title: Đo đạc và bản đồ
 permalink: /van-ban/tai-nguyen/do-dac-va-ban-do/
+lastedit: 2026-05-12
 ---
 
 # Đo đạc và bản đồ

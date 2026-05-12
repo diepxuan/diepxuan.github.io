@@ -2,6 +2,7 @@
 layout: page
 title: Điều kiện sản xuất mỹ phẩm
 permalink: /van-ban/y-te-duoc/dieu-kien-san-xuat-my-pham/
+lastedit: 2026-05-12
 ---
 
 # Điều kiện sản xuất mỹ phẩm

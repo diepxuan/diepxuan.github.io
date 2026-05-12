@@ -2,6 +2,7 @@
 layout: page
 title: Cựu chiến binh
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/cuu-chien-binh/
+lastedit: 2026-05-12
 ---
 
 # Cựu chiến binh

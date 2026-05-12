@@ -2,6 +2,7 @@
 layout: page
 title: Phòng, chống thiên tai
 permalink: /van-ban/nong-nghiep-nong-thon/phong-chong-thien-tai/
+lastedit: 2026-05-12
 ---
 
 # Phòng, chống thiên tai

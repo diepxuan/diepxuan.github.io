@@ -2,6 +2,7 @@
 layout: page
 title: Quản lý trang thiết bị y tế
 permalink: /van-ban/y-te-duoc/quan-ly-trang-thiet-bi-y-te/
+lastedit: 2026-05-12
 ---
 
 # Quản lý trang thiết bị y tế

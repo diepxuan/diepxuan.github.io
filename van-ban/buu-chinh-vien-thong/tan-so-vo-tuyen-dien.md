@@ -2,6 +2,7 @@
 layout: page
 title: Tần số vô tuyến điện
 permalink: /van-ban/buu-chinh-vien-thong/tan-so-vo-tuyen-dien/
+lastedit: 2026-05-12
 ---
 
 # Tần số vô tuyến điện

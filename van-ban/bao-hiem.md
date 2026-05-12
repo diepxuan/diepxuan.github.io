@@ -2,6 +2,7 @@
 layout: page
 title: Bảo hiểm
 permalink: /van-ban/bao-hiem/
+lastedit: 2026-05-12
 ---
 
 # Bảo hiểm

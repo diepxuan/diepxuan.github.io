@@ -2,6 +2,7 @@
 layout: page
 title: Dược
 permalink: /van-ban/y-te-duoc/duoc/
+lastedit: 2026-05-12
 ---
 
 # Dược

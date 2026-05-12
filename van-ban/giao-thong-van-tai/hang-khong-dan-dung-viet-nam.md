@@ -2,6 +2,7 @@
 layout: page
 title: Hàng không dân dụng Việt Nam
 permalink: /van-ban/giao-thong-van-tai/hang-khong-dan-dung-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Hàng không dân dụng Việt Nam

@@ -2,6 +2,7 @@
 layout: page
 title: Tố tụng hành chính
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-hanh-chinh/
+lastedit: 2026-05-12
 ---
 
 # Tố tụng hành chính

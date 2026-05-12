@@ -2,6 +2,7 @@
 layout: page
 title: Lý lịch tư pháp
 permalink: /van-ban/hanh-chinh-tu-phap/ly-lich-tu-phap/
+lastedit: 2026-05-12
 ---
 
 # Lý lịch tư pháp

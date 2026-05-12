@@ -2,6 +2,7 @@
 layout: page
 title: Tổ chức Viện kiểm sát nhân dân
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/to-chuc-vien-kiem-sat-nhan-dan/
+lastedit: 2026-05-12
 ---
 
 # Tổ chức Viện kiểm sát nhân dân

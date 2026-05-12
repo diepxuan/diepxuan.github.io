@@ -2,6 +2,7 @@
 layout: page
 title: Chuyển giao công nghệ
 permalink: /van-ban/khoa-hoc-cong-nghe/chuyen-giao-cong-nghe/
+lastedit: 2026-05-12
 ---
 
 # Chuyển giao công nghệ

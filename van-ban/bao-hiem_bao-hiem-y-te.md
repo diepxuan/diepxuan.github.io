@@ -2,6 +2,7 @@
 layout: page
 title: Bảo hiểm y tế
 permalink: /van-ban/bao-hiem/bao-hiem-y-te/
+lastedit: 2026-05-12
 ---
 
 # Bảo hiểm y tế

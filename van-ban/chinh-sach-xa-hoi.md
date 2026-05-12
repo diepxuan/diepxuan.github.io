@@ -2,6 +2,7 @@
 layout: page
 title: Chính sách xã hội
 permalink: /van-ban/chinh-sach-xa-hoi/
+lastedit: 2026-05-12
 ---
 
 # Chính sách xã hội

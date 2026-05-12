@@ -2,6 +2,7 @@
 layout: page
 title: Quy chế đặt tên, đổi tên đường, phố và công trình công cộng
 permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-va-cong-trinh-cong-cong/
+lastedit: 2026-05-12
 ---
 
 # Quy chế đặt tên, đổi tên đường, phố và công trình công cộng
