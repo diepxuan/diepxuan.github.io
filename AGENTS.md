@@ -1,43 +1,43 @@
-# AGENTS.md - Session Operating Protocol
+# AGENTS.md - Protocol Vận Hành Session
 
-Thu muc nay la workspace cua agent github-io.
-Moi session phai tuan thu tuyet doi.
-
----
-
-## 1. Boot Sequence (Bat buoc moi session)
-
-Truoc khi lam bat ky viec gi:
-
-1. Doc `SOUL.md` - xac dinh ban sac va nguyen tac lam viec.
-2. Doc `IDENTITY.md` - xac dinh vai tro cua minh.
-3. Doc `USER.md` - xac dinh doi tuong dang phuc vu.
-4. Doc:
-   - `memory/YYYY-MM-DD.md` (hom nay)
-   - `memory/YYYY-MM-DD.md` (hom qua)
-5. Neu la **MAIN SESSION** (github-io workspace):
-   - Doc them `MEMORY.md` (long-term memory)
-
-Chi tiet day du: Tham chieu `BOOTSTRAP.md`
+Thư mục này là workspace của agent github-io.
+Mọi session phải tuân thủ tuyệt đối.
 
 ---
 
-## 2. Memory Structure
+## 1. Boot Sequence (Bắt buộc mỗi session)
 
-| Loai | File | Muc dich |
+Trước khi làm bất kỳ việc gì:
+
+1. Đọc `SOUL.md` - xác định bản sắc và nguyên tắc làm việc.
+2. Đọc `IDENTITY.md` - xác định vai trò của mình.
+3. Đọc `USER.md` - xác định đối tượng đang phục vụ.
+4. Đọc:
+   - `memory/YYYY-MM-DD.md` (hôm nay)
+   - `memory/YYYY-MM-DD.md` (hôm qua)
+5. Nếu là **MAIN SESSION** (github-io workspace):
+   - Đọc thêm `MEMORY.md` (long-term memory)
+
+Chi tiết đầy đủ: Tham chiếu `BOOTSTRAP.md`
+
+---
+
+## 2. Cấu trúc Memory
+
+| Loại | File | Mục đích |
 |------|------|----------|
-| Daily | `memory/YYYY-MM-DD.md` | Log thô theo ngay |
-| Long-term | `MEMORY.md` | Thong tin chien luoc, quyet dinh quan trong |
+| Daily | `memory/YYYY-MM-DD.md` | Log thô theo ngày |
+| Long-term | `MEMORY.md` | Thông tin chiến lược, quyết định quan trọng |
 
-**Quy tac:**
-- Daily: Ghi log, khong chinh sua lich su.
-- Long-term: Chi luu thong tin da duoc chon loc, co gia tri chien luoc.
+**Quy tắc:**
+- Daily: Ghi log, không chỉnh sửa lịch sử.
+- Long-term: Chỉ lưu thông tin đã chọn lọc, có giá trị chiến lược.
 
 ---
 
-## 3. Vai trò cua Workspace
+## 3. Vai trò của Workspace
 
-Workspace chua:
+Workspace chứa:
 - Persona (SOUL.md)
 - User profile (USER.md)
 - Tool definitions (TOOLS.md)
@@ -45,18 +45,18 @@ Workspace chua:
 - Memory system
 - Jekyll content (pages, posts, documents)
 
-Moi quyet dinh phai thong nhat voi `SOUL.md`.
+Mọi quyết định phải thống nhất với `SOUL.md`.
 
 ---
 
-## 4. Ky luat
+## 4. Kỷ luật
 
-- Khong bo qua boot sequence.
-- Khong hanh dong khi chua nam du context.
-- Khong pha vo Git Workflow rule trong SOUL.md.
-- Moi task phai ro rang truoc khi thuc thi.
+- Không bỏ qua boot sequence.
+- Không hành động khi chưa nắm đủ context.
+- Không phá vỡ Git Workflow rule trong SOUL.md.
+- Mỗi task phải rõ ràng trước khi thực thi.
 
 ---
 
-Workspace nay khong phai cho thu nghiem.
-Day la he dieu hanh tu duy cua Bot.
+Workspace này không phải chỗ thử nghiệm.
+Đây là hệ điều hành tư duy của Bot.

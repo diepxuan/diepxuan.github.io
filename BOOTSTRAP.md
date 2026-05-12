@@ -1,89 +1,89 @@
-# BOOTSTRAP.md - Session Initialization Protocol
+# BOOTSTRAP.md - Protocol Khởi Động Session
 
-File nay dinh nghia quy trinh khoi dong bat buoc cho moi session.
-
----
-
-## 1. Muc tieu
-
-Dam bao:
-- Khong mat context.
-- Khong vi pham SOUL.md.
-- Khong pha vo Git discipline.
-- Khong hanh dong khi chua hieu du he thong.
+File này định nghĩa quy trình khởi động bắt buộc cho mỗi session.
 
 ---
 
-## 2. Startup Sequence (Bat buoc)
+## 1. Mục tiêu
+
+Đảm bảo:
+- Không mất context.
+- Không vi phạm SOUL.md.
+- Không phá vỡ Git discipline.
+- Không hành động khi chưa hiểu đủ hệ thống.
+
+---
+
+## 2. Startup Sequence (Bắt buộc)
 
 ```
-1. SOUL.md        → Ban sac cot loi
-2. IDENTITY.md    → Vi tri trong he thong
-3. AGENTS.md      → Protocol van hanh
-4. USER.md        → Doi tuong phuc vu
+1. SOUL.md        → Bản sắc cốt lõi
+2. IDENTITY.md    → Vị trí trong hệ thống
+3. AGENTS.md      → Protocol vận hành
+4. USER.md        → Đối tượng phục vụ
 5. memory/        → Daily context
 6. MEMORY.md      → Long-term context (MAIN SESSION only)
 ```
 
-Chi sau khi hoan tat moi duoc xu ly task.
+Chỉ sau khi hoàn tất mới được xử lý task.
 
 ---
 
 ## 3. Context Validation
 
-Truoc khi hanh dong, xac nhan:
-- [ ] Task da ro chua?
-- [ ] Co lien quan Git khong?
-- [ ] Co can spawn đệ khong?
-- [ ] Co can update documentation khong?
-- [ ] **File se tao o vi tri nao?**
+Trước khi hành động, xác nhận:
+- [ ] Task đã rõ chưa?
+- [ ] Có liên quan Git không?
+- [ ] Có cần spawn đệ không?
+- [ ] Có cần update documentation không?
+- [ ] **File sẽ tạo ở vị trí nào?**
 
-Neu chua ro → hoi Sếp.
+Nếu chưa rõ → hỏi Sếp.
 
 ---
 
 ## 4. Jekyll-Specific Checks
 
-Khi lam viec voi Jekyll website:
+Khi làm việc với Jekyll website:
 
-- Kiem tra front matter day du (title, date, layout).
-- Khong commit khi build that bai.
-- Kiem tra link noi bo truoc khi push.
+- Kiểm tra front matter đầy đủ (title, date, layout).
+- Không commit khi build thất bại.
+- Kiểm tra link nội bộ trước khi push.
 
 ---
 
 ## 5. Execution Guard
 
-Cam:
-- Bo qua boot sequence.
-- Tu y push, tao PR, sua PR cu.
-- Vi pham nguyen tac 1 task = 1 branch = 1 PR.
+Cấm:
+- Bỏ qua boot sequence.
+- Tự ý push, tạo PR, sửa PR cũ.
+- Vi phạm nguyên tắc 1 task = 1 branch = 1 PR.
 
-Tham chieu chi tiet: SOUL.md Section 5
+Tham chiếu chi tiết: SOUL.md Section 5
 
 ---
 
 ## 6. Documentation Trigger
 
-Tao/cap nhat tai lieu khi:
-- Co feature moi.
-- Co thay doi cau truc/behavior.
-- Co fix bug anh huong logic.
+Tạo/cập nhật tài liệu khi:
+- Có feature mới.
+- Có thay đổi cấu trúc/behavior.
+- Có fix bug ảnh hưởng logic.
 
-Tham chieu chi tiet: SOUL.md Section 4
+Tham chiếu chi tiết: SOUL.md Section 4
 
 ---
 
 ## 7. Failure Handling
 
-Neu xay ra loi:
-1. Dung.
-2. Phan tich nguyen nhan.
-3. Khong patch truc tiep vao branch cu.
-4. Tao branch moi neu can fix.
-5. Bao cao Sếp ro rang.
+Nếu xảy ra lỗi:
+1. Dừng.
+2. Phân tích nguyên nhân.
+3. Không patch trực tiếp vào branch cũ.
+4. Tạo branch mới nếu cần fix.
+5. Báo cáo Sếp rõ ràng.
 
 ---
 
-BOOTSTRAP.md la lop bao ve he thong.
-Khong duoc bo qua.
+BOOTSTRAP.md là lớp bảo vệ hệ thống.
+Không được bỏ qua.

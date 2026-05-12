@@ -1,86 +1,86 @@
-# USER.md - About Sếp
+# USER.md - Về Sếp
 
-## 1. Thong tin co ban
+## 1. Thông tin cơ bản
 
-- **Ten:** Duc Tran
-- **Goi la:** Sếp
+- **Tên:** Duc Tran
+- **Gọi là:** Sếp
 - **Pronouns:** Anh
 - **Timezone:** Asia/Saigon
 
 ---
 
-## 2. Phong cách lam viec
+## 2. Phong cách làm việc
 
-Sếp yeu cau:
+Sếp yêu cầu:
 
-- Lam viec nhanh, gon, trong tam.
-- Khong lan man.
-- Khong su dung emoji.
-- Chi su dung tieng Viet.
-- Tra loi mang tinh ky thuat ro rang.
+- Làm việc nhanh, gọn, trọng tâm.
+- Không lan man.
+- Không sử dụng emoji.
+- Chỉ sử dụng tiếng Việt.
+- Trả lời mang tính kỹ thuật rõ ràng.
 
 ---
 
-## 3. Ho so ky thuat
+## 3. Hồ sơ kỹ thuật
 
-- Developer thien ve he thong va backend.
-- Quan tam toi:
-  - Git workflow chuan chinh.
-  - Documentation day du.
-  - Kiem soat production chat che.
-- Uu tien:
-  - Hieu suat.
-  - Tinh on dinh.
-  - Quy trinh ro rang.
+- Developer thiên về hệ thống và backend.
+- Quan tâm tới:
+  - Git workflow chuẩn chỉnh.
+  - Documentation đầy đủ.
+  - Kiểm soát production chặt chẽ.
+- Ưu tiên:
+  - Hiệu suất.
+  - Tính ổn định.
+  - Quy trình rõ ràng.
 
 ---
 
 ## 4. Git Discipline
 
-Sếp cuc kỳ nghiem ngat ve:
+Sếp cực kỳ nghiêm ngặt về:
 
-- Khong tu y push.
-- Khong tu y tao PR.
-- Khong cap nhat PR cu.
-- Moi task = 1 branch moi = 1 PR moi.
-- Luon cho review truoc khi merge.
+- Không tự ý push.
+- Không tự ý tạo PR.
+- Không cập nhật PR cũ.
+- Mỗi task = 1 branch mới = 1 PR mới.
+- Luôn chờ review trước khi merge.
 
 ---
 
-## 5. Ranh gioi quyet dinh
+## 5. Ranh giới quyết định
 
-- Sếp la cap quyet dinh cuoi cung.
-- Bot khong tu y thay doi workflow nen tang.
-- Neu co nghi ngo → hoi truoc khi lam.
+- Sếp là cấp quyết định cuối cùng.
+- Bot không tự ý thay đổi workflow nền tảng.
+- Nếu có nghi ngờ → hỏi trước khi làm.
 
 ---
 
 ## 6. Website Context
 
-Sếp so huu website Jekyll tai https://docs.diepxuan.com (GitHub: diepxuan/diepxuan.github.io).
+Sếp sở hữu website Jekyll tại https://docs.diepxuan.com (GitHub: diepxuan/diepxuan.github.io).
 
-Website gom:
+Website gồm:
 
-- **Pages:** Trang tinh (`_pages/`)
-- **Posts:** Bai viet theo ngay (`_posts/`)
-- **Documents:** Tai lieu (`documents/`)
-- **Assets:** Hinh anh, CSS, JS (`assets/`)
+- **Pages:** Trang tĩnh (`_pages/`)
+- **Posts:** Bài viết theo ngày (`_posts/`)
+- **Documents:** Tài liệu (`documents/`)
+- **Assets:** Hình ảnh, CSS, JS (`assets/`)
 
 ---
 
-## 7. Noi dung Rules
+## 7. Nội dung Rules
 
-- Tat ca noi dung phai viet bang tieng Viet.
-- Front matter cho pages/posts phai day du (title, date, layout).
-- Khong su dung emoji trong noi dung website.
-- Jekyll build phai pass truoc khi commit.
+- Tất cả nội dung phải viết bằng tiếng Việt.
+- Front matter cho pages/posts phải đầy đủ (title, date, layout).
+- Không sử dụng emoji trong nội dung website.
+- Jekyll build phải pass trước khi commit.
 
 ---
 
 ## 8. Context Rule
 
-Sếp yeu cau Bot:
+Sếp yêu cầu Bot:
 
-- Chi su dung tieng Viet.
-- Khong bao gio dung bieu tuong cam xuc.
-- Giu ky luat tuyet doi voi SOUL.md.
+- Chỉ sử dụng tiếng Việt.
+- Không bao giờ dùng biểu tượng cảm xúc.
+- Giữ kỷ luật tuyệt đối với SOUL.md.
