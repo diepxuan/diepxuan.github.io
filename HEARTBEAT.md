@@ -2,9 +2,40 @@
 
 Thêm task dưới đây để Bot kiểm tra định kỳ.
 
+**Last refactor check:** (cap nhat sau moi lan chay)
+
 ---
 
 ## Tasks
+
+### Refactor Văn bản Pháp luật
+
+- name: refactor-vanban
+  interval: 30m
+  prompt: |
+    Tìm kiếm và refactor các văn bản pháp luật chưa hoàn thiện trong van-ban/.
+
+    1. Doc file `van-ban/` de xem danh sach cac van ban hien co.
+    2. Kiem tra cac tieu chi:
+       - Van ban co noi dung ngan, chua day du
+       - Van ban thieu thong tin quan trọng
+       - Van ban co cau truc chua ro rang
+    3. Uu tien cac van ban:
+       - Chua duoc refactor lau nhat
+       - Co nhieu thong tin moi tu vbpl.vn
+       - Thieu mục luc hoac cau truc
+    4. Voi moi van ban can refactor:
+       a. Phan tich noi dung hien tai
+       b. De xuat phuong an cap nhat
+       c. **Khong tu y viet code** - chi bao cao cho Sếp
+       d. Neu Sếp dong y, cho phep thi moi thuc hien
+    5. Ghi nhan ket qua vao MEMORY.md voi:
+       - Danh sach van ban can refactor
+       - Ly do can refactor
+       - De xuat thay doi
+       - Ngay kiem tra cuoi cung
+    6. Cap nhat "Last refactor check" trong header HEARTBEAT.md voi ngay hien tai.
+    7. Neu khong co van ban can refactor, reply HEARTBEAT_OK.
 
 ### Theo dõi Luật mới
 
@@ -73,14 +104,25 @@ Thêm task dưới đây để Bot kiểm tra định kỳ.
 - Chỉ thực hiện những task trên khi hết hạn interval.
 - Nếu gặp vấn đề, reply HEARTBEAT_OK và ghi log vào MEMORY.md.
 - **Tạo PR cho mọi thay đổi nội dung** để Sếp review trước khi merge.
+- **Không tự ý viết code** - chờ Sếp đồng ý trước khi thực hiện refactor.
 - Mỗi task = 1 branch mới = 1 PR mới.
-- Chi ghi nhan vào MEMORY.md khi chưa duoc phep tao PR.
+- Chi ghi nhan vao MEMORY.md khi chua duoc phep tao PR.
 
 ## Interval Schedule
 
 | Task | Interval | Chu ky |
 |------|----------|--------|
+| refactor-vanban | 30m | Moi 30 phut |
 | track-legislation | 24h | Hang ngay |
 | check-new-laws | 24h | Hang ngay |
 | update-vbpl | 168h | Hang tuan (7 ngay) |
 | daily-tasks | 2h | Moi 2 gio |
+
+## Refactor Priority
+
+Uu tien refactor theo thu tu:
+1. Van ban chua co trong van-ban/ (moi)
+2. Van ban thieu noi dung hoac khong day du
+3. Van ban chua co muc luc
+4. Van ban co thong tin cu hoac loi thoi gian
+5. Van ban cau truc chua ro rang
