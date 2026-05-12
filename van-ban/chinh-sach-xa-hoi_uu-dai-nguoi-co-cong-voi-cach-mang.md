@@ -2,6 +2,7 @@
 layout: page
 title: Ưu đãi người có công với cách mạng
 permalink: /van-ban/chinh-sach-xa-hoi/uu-dai-nguoi-co-cong-voi-cach-mang/
+lastedit: 2026-05-12
 ---
 
 # Ưu đãi người có công với cách mạng

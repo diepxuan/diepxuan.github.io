@@ -2,6 +2,7 @@
 layout: page
 title: Thuế bảo vệ môi trường
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-bao-ve-moi-truong/
+lastedit: 2026-05-12
 ---
 
 # Thuế bảo vệ môi trường

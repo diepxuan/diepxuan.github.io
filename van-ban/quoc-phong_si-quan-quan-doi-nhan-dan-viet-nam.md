@@ -2,6 +2,7 @@
 layout: page
 title: Sĩ quan Quân đội nhân dân Việt Nam
 permalink: /van-ban/quoc-phong/si-quan-quan-doi-nhan-dan-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Sĩ quan Quân đội nhân dân Việt Nam

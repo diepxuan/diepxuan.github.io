@@ -2,6 +2,7 @@
 layout: page
 title: Nghĩa vụ quân sự
 permalink: /van-ban/quoc-phong/nghia-vu-quan-su/
+lastedit: 2026-05-12
 ---
 
 # Nghĩa vụ quân sự

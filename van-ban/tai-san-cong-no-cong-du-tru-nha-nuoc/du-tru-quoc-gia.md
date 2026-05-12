@@ -2,6 +2,7 @@
 layout: page
 title: Dự trữ quốc gia
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/du-tru-quoc-gia/
+lastedit: 2026-05-12
 ---
 
 # Dự trữ quốc gia

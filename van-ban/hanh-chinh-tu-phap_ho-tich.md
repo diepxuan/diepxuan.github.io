@@ -2,6 +2,7 @@
 layout: page
 title: Hộ tịch
 permalink: /van-ban/hanh-chinh-tu-phap/ho-tich/
+lastedit: 2026-05-12
 ---
 
 # Hộ tịch

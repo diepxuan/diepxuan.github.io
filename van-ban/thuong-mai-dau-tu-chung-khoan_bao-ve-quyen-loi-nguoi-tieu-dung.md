@@ -2,6 +2,7 @@
 layout: page
 title: Bảo vệ quyền lợi người tiêu dùng
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/bao-ve-quyen-loi-nguoi-tieu-dung/
+lastedit: 2026-05-12
 ---
 
 # Bảo vệ quyền lợi người tiêu dùng

@@ -2,6 +2,7 @@
 layout: page
 title: Thuế, phí, lệ phí, các khoản thu khác
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/
+lastedit: 2026-05-12
 ---
 
 # Thuế, phí, lệ phí, các khoản thu khác

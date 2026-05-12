@@ -2,6 +2,7 @@
 layout: page
 title: Ngân hàng, tiền tệ
 permalink: /van-ban/ngan-hang-tien-te/
+lastedit: 2026-05-12
 ---
 
 # Ngân hàng, tiền tệ

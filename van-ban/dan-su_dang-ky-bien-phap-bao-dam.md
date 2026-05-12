@@ -2,6 +2,7 @@
 layout: page
 title: Đăng ký biện pháp bảo đảm
 permalink: /van-ban/dan-su/dang-ky-bien-phap-bao-dam/
+lastedit: 2026-05-12
 ---
 
 # Đăng ký biện pháp bảo đảm

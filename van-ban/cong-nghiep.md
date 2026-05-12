@@ -2,6 +2,7 @@
 layout: page
 title: Công nghiệp
 permalink: /van-ban/cong-nghiep/
+lastedit: 2026-05-12
 ---
 
 # Công nghiệp

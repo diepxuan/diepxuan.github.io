@@ -2,6 +2,7 @@
 layout: page
 title: Thỏa thuận quốc tế
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/thoa-thuan-quoc-te/
+lastedit: 2026-05-12
 ---
 
 # Thỏa thuận quốc tế

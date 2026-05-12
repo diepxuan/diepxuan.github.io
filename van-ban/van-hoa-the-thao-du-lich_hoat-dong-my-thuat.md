@@ -2,6 +2,7 @@
 layout: page
 title: Hoạt động mỹ thuật
 permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-my-thuat/
+lastedit: 2026-05-12
 ---
 
 # Hoạt động mỹ thuật

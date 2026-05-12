@@ -2,6 +2,7 @@
 layout: page
 title: Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng
 permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-cong/
+lastedit: 2026-05-12
 ---
 
 # Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng

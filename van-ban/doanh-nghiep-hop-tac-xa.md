@@ -2,6 +2,7 @@
 layout: page
 title: Doanh nghiệp, hợp tác xã
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/
+lastedit: 2026-05-12
 ---
 
 # Doanh nghiệp, hợp tác xã

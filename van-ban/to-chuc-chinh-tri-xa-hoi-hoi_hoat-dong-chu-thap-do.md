@@ -2,6 +2,7 @@
 layout: page
 title: Hoạt động chữ thập đỏ
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/hoat-dong-chu-thap-do/
+lastedit: 2026-05-12
 ---
 
 # Hoạt động chữ thập đỏ

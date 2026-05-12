@@ -2,6 +2,7 @@
 layout: page
 title: Đấu giá tài sản
 permalink: /van-ban/bo-tro-tu-phap/dau-gia-tai-san/
+lastedit: 2026-05-12
 ---
 
 # Đấu giá tài sản

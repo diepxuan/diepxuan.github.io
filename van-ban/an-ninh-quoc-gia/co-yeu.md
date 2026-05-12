@@ -2,6 +2,7 @@
 layout: page
 title: Cơ yếu
 permalink: /van-ban/an-ninh-quoc-gia/co-yeu/
+lastedit: 2026-05-12
 ---
 
 # Cơ yếu

@@ -2,6 +2,7 @@
 layout: page
 title: Ngoại hối
 permalink: /van-ban/ngan-hang-tien-te/ngoai-hoi/
+lastedit: 2026-05-12
 ---
 
 # Ngoại hối

@@ -2,6 +2,7 @@
 layout: page
 title: Thi hành tạm giữ, tạm giam
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thi-hanh-tam-giu-tam-giam/
+lastedit: 2026-05-12
 ---
 
 # Thi hành tạm giữ, tạm giam

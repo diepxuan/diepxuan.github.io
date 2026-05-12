@@ -2,6 +2,7 @@
 layout: page
 title: Bình đẳng giới
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/binh-dang-gioi/
+lastedit: 2026-05-12
 ---
 
 # Bình đẳng giới

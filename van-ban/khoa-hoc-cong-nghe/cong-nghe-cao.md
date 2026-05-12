@@ -2,6 +2,7 @@
 layout: page
 title: Công nghệ cao
 permalink: /van-ban/khoa-hoc-cong-nghe/cong-nghe-cao/
+lastedit: 2026-05-12
 ---
 
 # Công nghệ cao

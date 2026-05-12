@@ -2,6 +2,7 @@
 layout: page
 title: Quản lý thị trường
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/quan-ly-thi-truong/
+lastedit: 2026-05-12
 ---
 
 # Quản lý thị trường

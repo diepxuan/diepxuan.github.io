@@ -2,6 +2,7 @@
 layout: page
 title: Biển Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/bien-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Biển Việt Nam

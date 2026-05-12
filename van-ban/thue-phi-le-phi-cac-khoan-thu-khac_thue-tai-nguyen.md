@@ -2,6 +2,7 @@
 layout: page
 title: Thuế tài nguyên
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen/
+lastedit: 2026-05-12
 ---
 
 # Thuế tài nguyên

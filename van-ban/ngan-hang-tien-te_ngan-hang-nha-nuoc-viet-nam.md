@@ -2,6 +2,7 @@
 layout: page
 title: Ngân hàng Nhà nước Việt Nam
 permalink: /van-ban/ngan-hang-tien-te/ngan-hang-nha-nuoc-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Ngân hàng Nhà nước Việt Nam

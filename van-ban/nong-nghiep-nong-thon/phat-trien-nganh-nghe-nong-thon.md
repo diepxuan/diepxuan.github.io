@@ -2,6 +2,7 @@
 layout: page
 title: Phát triển ngành nghề nông thôn
 permalink: /van-ban/nong-nghiep-nong-thon/phat-trien-nganh-nghe-nong-thon/
+lastedit: 2026-05-12
 ---
 
 # Phát triển ngành nghề nông thôn

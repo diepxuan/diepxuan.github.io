@@ -2,6 +2,7 @@
 layout: page
 title: Hỗ trợ doanh nghiệp nhỏ và vừa
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/ho-tro-doanh-nghiep-nho-va-vua/
+lastedit: 2026-05-12
 ---
 
 # Hỗ trợ doanh nghiệp nhỏ và vừa

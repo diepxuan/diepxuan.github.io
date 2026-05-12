@@ -2,6 +2,7 @@
 layout: page
 title: Thuế xuất khẩu, thuế nhập khẩu
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-xuat-khau-thue-nhap-khau/
+lastedit: 2026-05-12
 ---
 
 # Thuế xuất khẩu, thuế nhập khẩu

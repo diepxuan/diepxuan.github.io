@@ -2,6 +2,7 @@
 layout: page
 title: Kiểm toán độc lập
 permalink: /van-ban/ke-toan-kiem-toan/kiem-toan-doc-lap/
+lastedit: 2026-05-12
 ---
 
 # Kiểm toán độc lập

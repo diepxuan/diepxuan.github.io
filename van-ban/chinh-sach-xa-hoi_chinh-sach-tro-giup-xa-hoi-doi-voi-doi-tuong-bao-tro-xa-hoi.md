@@ -2,6 +2,7 @@
 layout: page
 title: Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội
 permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi/
+lastedit: 2026-05-12
 ---
 
 # Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội

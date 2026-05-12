@@ -2,6 +2,7 @@
 layout: page
 title: An toàn thực phẩm
 permalink: /van-ban/y-te-duoc/an-toan-thuc-pham/
+lastedit: 2026-05-12
 ---
 
 # An toàn thực phẩm

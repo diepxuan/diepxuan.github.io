@@ -2,6 +2,7 @@
 layout: page
 title: Hóa chất
 permalink: /van-ban/cong-nghiep/hoa-chat/
+lastedit: 2026-05-12
 ---
 
 # Hóa chất

@@ -2,6 +2,7 @@
 layout: page
 title: Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký
 permalink: /van-ban/hanh-chinh-tu-phap/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky/
+lastedit: 2026-05-12
 ---
 
 # Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký

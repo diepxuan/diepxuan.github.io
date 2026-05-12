@@ -2,6 +2,7 @@
 layout: page
 title: Chứng minh nhân dân
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/chung-minh-nhan-dan/
+lastedit: 2026-05-12
 ---
 
 # Chứng minh nhân dân

@@ -2,6 +2,7 @@
 layout: page
 title: Công an xã
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
+lastedit: 2026-05-12
 ---
 
 # Công an xã

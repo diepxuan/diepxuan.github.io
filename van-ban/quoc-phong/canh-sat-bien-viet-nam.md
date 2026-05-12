@@ -2,6 +2,7 @@
 layout: page
 title: Cảnh sát biển Việt Nam
 permalink: /van-ban/quoc-phong/canh-sat-bien-viet-nam/
+lastedit: 2026-05-12
 ---
 
 # Cảnh sát biển Việt Nam

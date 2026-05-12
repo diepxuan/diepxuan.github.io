@@ -2,6 +2,7 @@
 layout: page
 title: Chất lượng sản phẩm, hàng hóa
 permalink: /van-ban/khoa-hoc-cong-nghe/chat-luong-san-pham-hang-hoa/
+lastedit: 2026-05-12
 ---
 
 # Chất lượng sản phẩm, hàng hóa

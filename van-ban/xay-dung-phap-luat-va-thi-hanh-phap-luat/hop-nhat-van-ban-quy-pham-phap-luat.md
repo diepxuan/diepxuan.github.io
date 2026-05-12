@@ -2,6 +2,7 @@
 layout: page
 title: Hợp nhất văn bản quy phạm pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/hop-nhat-van-ban-quy-pham-phap-luat/
+lastedit: 2026-05-12
 ---
 
 # Hợp nhất văn bản quy phạm pháp luật

@@ -2,6 +2,7 @@
 layout: page
 title: Thuế sử dụng đất phi nông nghiệp
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-su-dung-dat-phi-nong-nghiep/
+lastedit: 2026-05-12
 ---
 
 # Thuế sử dụng đất phi nông nghiệp

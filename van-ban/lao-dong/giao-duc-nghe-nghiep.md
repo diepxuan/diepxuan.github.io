@@ -2,6 +2,7 @@
 layout: page
 title: Giáo dục nghề nghiệp
 permalink: /van-ban/lao-dong/giao-duc-nghe-nghiep/
+lastedit: 2026-05-12
 ---
 
 # Giáo dục nghề nghiệp

@@ -2,6 +2,7 @@
 layout: page
 title: Dân quân tự vệ
 permalink: /van-ban/quoc-phong/dan-quan-tu-ve/
+lastedit: 2026-05-12
 ---
 
 # Dân quân tự vệ

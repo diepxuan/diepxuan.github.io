@@ -2,6 +2,7 @@
 layout: page
 title: Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác
 permalink: /van-ban/y-te-duoc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac/
+lastedit: 2026-05-12
 ---
 
 # Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác

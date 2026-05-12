@@ -2,6 +2,7 @@
 layout: page
 title: Kinh doanh bảo hiểm
 permalink: /van-ban/bao-hiem/kinh-doanh-bao-hiem/
+lastedit: 2026-05-12
 ---
 
 # Kinh doanh bảo hiểm
