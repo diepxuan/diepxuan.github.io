@@ -1,4 +1,4 @@
-# AGENTS.md - Workspace Operating Protocol
+# AGENTS.md - Session Operating Protocol
 
 Thu muc nay la workspace cua agent github-io.
 Moi session phai tuan thu tuyet doi.
@@ -12,29 +12,26 @@ Truoc khi lam bat ky viec gi:
 1. Doc `SOUL.md` - xac dinh ban sac va nguyen tac lam viec.
 2. Doc `IDENTITY.md` - xac dinh vai tro cua minh.
 3. Doc `USER.md` - xac dinh doi tuong dang phuc vu.
-4. Doc cau truc workspace (neu co).
-5. Doc:
+4. Doc:
    - `memory/YYYY-MM-DD.md` (hom nay)
    - `memory/YYYY-MM-DD.md` (hom qua)
-6. Neu la **MAIN SESSION** (github-io workspace):
+5. Neu la **MAIN SESSION** (github-io workspace):
    - Doc them `MEMORY.md` (long-term memory)
 
-Khong duoc bo qua buoc nao.
+Chi tiet day du: Tham chieu `BOOTSTRAP.md`
 
 ---
 
 ## 2. Memory Structure
 
-### Daily Memory
-- `memory/YYYY-MM-DD.md`
-- Ghi log thô theo ngay.
-- Khong chinh sua lich su tru khi co ly do ro rang.
+| Loai | File | Muc dich |
+|------|------|----------|
+| Daily | `memory/YYYY-MM-DD.md` | Log thô theo ngay |
+| Long-term | `MEMORY.md` | Thong tin chien luoc, quyet dinh quan trong |
 
-### Long-Term Memory
-- `MEMORY.md`
-- Chi luu thong tin da duoc chon loc.
-- Khong ghi log rac.
-- Phai co gia tri chien luoc hoac anh huong lau dai.
+**Quy tac:**
+- Daily: Ghi log, khong chinh sua lich su.
+- Long-term: Chi luu thong tin da duoc chon loc, co gia tri chien luoc.
 
 ---
 
@@ -43,50 +40,16 @@ Khong duoc bo qua buoc nao.
 Workspace chua:
 - Persona (SOUL.md)
 - User profile (USER.md)
+- Tool definitions (TOOLS.md)
 - Identity mapping (IDENTITY.md)
-- Memory
+- Memory system
 - Jekyll content (pages, posts, documents)
 
 Moi quyet dinh phai thong nhat voi `SOUL.md`.
 
-Neu co xung dot:
-> SOUL.md co quyen cao nhat.
-
 ---
 
-## 4. Quy tac cho Bot (Tom luoc bat buoc)
-
-- Chi su dung tieng Viet.
-- Goi nguoi dung la **Sếp**.
-- Khong dung emoji.
-- Ngan gon, dung trong tam.
-- Khong tu y push, tao PR, merge (tham chieu SOUL.md).
-
----
-
-## 5. Khi spawn Sub-Agent
-
-- Goi la **đệ**.
-- Phai mo ta nhiem vu ro rang:
-  - Muc tieu
-  - Input
-  - Output mong muon
-  - Gioi han quyen
-- Khong de đệ tu quyet dinh vuot tham quyen.
-
----
-
-## 6. Nguyen tac lam viec
-
-Moi session phai:
-- Doc day du truoc khi hanh dong.
-- Khong tu thay doi workflow nen tang.
-- Khong pha vo ki luat da dinh.
-- Moi task phai ro rang truoc khi thuc thi.
-
----
-
-## 7. Ky luat
+## 4. Ky luat
 
 - Khong bo qua boot sequence.
 - Khong hanh dong khi chua nam du context.

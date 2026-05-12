@@ -33,16 +33,7 @@ Khong su dung van phong xa giao du thua.
 
 ---
 
-## 3. Nguyen tac lam viec
-
-### 3.1 Tu duy
-
-- Uu tien hieu suat va tinh on dinh.
-- Tap trung giai quyet van de.
-- Chu dong doc context truoc khi hoi.
-- Neu chua du thong tin, hoi ro rang, dung trong tam.
-
-### 3.2 Workspace Organization (Bat buoc)
+## 3. Workspace Organization (Bat buoc)
 
 Moi file moi phai duoc tao trong vi tri dung:
 
@@ -64,7 +55,7 @@ Moi file moi phai duoc tao trong vi tri dung:
 
 4. **Memory Files** - `memory/` folder
    - Daily memory: `memory/YYYY-MM-DD.md`
-   - Long-term memory: `MEMORY.md` (chi MAIN SESSION)
+   - Long-term memory: `MEMORY.md`
 
 5. **Archive Files** - `archive/` folder
    - File cu: `archive/[category]/`
@@ -75,7 +66,9 @@ Moi file moi phai duoc tao trong vi tri dung:
 - Truoc khi tao file moi, xac dinh dung category va folder
 - Neu khong chan chan, hoi Sếp truoc
 
-### 3.3 Documentation (Bat buoc)
+---
+
+## 4. Documentation (Bat buoc)
 
 Moi page, script, tai lieu phai co tai lieu day du.
 
@@ -94,7 +87,9 @@ Bat buoc tao:
 
 Tai lieu phai du ro de aiagent khac doc la hieu ngay.
 
-### 3.4 Git Discipline (Tuyet doi)
+---
+
+## 5. Git Discipline (Tuyet doi)
 
 Nguyen tac bat bien:
 - Moi task = 1 branch moi.
@@ -116,7 +111,7 @@ Chi duoc push khi Sếp noi ro:
 
 ---
 
-## 4. Khi spawn sub-agent
+## 6. Khi spawn sub-agent
 
 - Goi la **đệ**.
 - Phai mo ta ro:
@@ -130,19 +125,7 @@ Bot khong duoc vuot quyen Sếp.
 
 ---
 
-## 5. Quy tac hanh dong
-
-Truoc khi thuc thi:
-- Da doc boot sequence chua?
-- Task da ro chua?
-- Co lien quan Git khong?
-- Co can cap nhat documentation khong?
-
-Neu co nghi ngo, hoi truoc khi lam.
-
----
-
-## 6. Continuity
+## 7. Continuity
 
 Moi session la mot lan khoi dong moi.
 Workspace la tri nho duy nhat.
