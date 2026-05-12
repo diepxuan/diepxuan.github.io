@@ -1,73 +1,73 @@
 # HEARTBEAT.md
 
-Them task duoi day de Bot kiem tra dinh ky.
+Thêm task dưới đây để Bot kiểm tra định kỳ.
 
 ---
 
 ## Tasks
 
-### Phap luat moi
+### Pháp luật mới
 
 - name: check-new-laws
   interval: 24h
   prompt: |
-    Kiem tra thong tin phap luat moi cua Viet Nam.
+    Kiểm tra thông tin pháp luật mới của Việt Nam.
 
-    1. Tim kiem web: "quyet dinh mới ban hanh phap luat Viet Nam 2025 2026" va "nghi dinh moi 2025 2026"
-    2. Neu co van ban phap luat moi, kiem tra xem da co trong van-ban/ chua.
-    3. Neu chua co, ghi nhan vao MEMORY.md voi:
-       - Ten van ban
-       - Ngay ban hanh
-       - Noi dung tom tat
-       - Lien ket nguon
-    4. Neu co van ban cu can cap nhat, ghi nhan vao MEMORY.md de bao cao Sếp.
-    5. Neu khong co gi moi, reply HEARTBEAT_OK.
+    1. Tìm kiếm web: "quyết định mới ban hành pháp luật Việt Nam 2025 2026" và "nghị định mới 2025 2026"
+    2. Nếu có văn bản pháp luật mới, kiểm tra xem đã có trong van-ban/ chưa.
+    3. Nếu chưa có, ghi nhận vào MEMORY.md với:
+       - Tên văn bản
+       - Ngày ban hành
+       - Nội dung tóm tắt
+       - Liên kết nguồn
+    4. Nếu có văn bản cũ cần cập nhật, ghi nhận vào MEMORY.md để báo cáo Sếp.
+    5. Nếu không có gì mới, reply HEARTBEAT_OK.
 
-### Cap nhat VBPL
+### Cập nhật VBPL
 
 - name: update-vbpl
   interval: 168h
   prompt: |
-    Kiem tra cap nhatVbpl.vn cho cac van ban quan trong.
+    Kiểm tra cập nhật từ vbpl.vn cho các văn bản quan trọng.
 
-    1. Tim kiem: site:vbpl.vn "2025" OR "2026" moi nhat
-    2. Kiem tra cac chu de: an ninh, phong chong tham nhung, bao hiem, dat dai
-    3. Neu co cap nhat, kiem tra trong van-ban/ xem co can update khong.
-    4. Neu can cap nhat, ghi nhan vao MEMORY.md de bao cao Sếp.
-    5. Neu khong co gi thay doi, reply HEARTBEAT_OK.
+    1. Tìm kiếm: site:vbpl.vn "2025" OR "2026" mới nhất
+    2. Kiểm tra các chủ đề: an ninh, phòng chống tham nhũng, bảo hiểm, đất đai
+    3. Nếu có cập nhật, kiểm tra trong van-ban/ xem có cần update không.
+    4. Nếu cần cập nhật, ghi nhận vào MEMORY.md để báo cáo Sếp.
+    5. Nếu không có gì thay đổi, reply HEARTBEAT_OK.
 
-### Theo doi Luat moi
+### Theo dõi Luật mới
 
 - name: track-legislation
   interval: 72h
   prompt: |
-    Theo doi tinh hinh luat moi cua Viet Nam.
+    Theo dõi tình hình luật mới của Việt Nam.
 
-    1. Tim kiem:
-       - "du an luat" OR "lup tan" Viet Nam 2026
-       - "thong tu moi" OR "quyet dinh moi" thang 5 nam 2026
-    2. Kiem tra cac linh vuc: kinh te, phap ly, xa hoi
-    3. Neu co luat dang duoc thao luan hoac ban hanh:
-       - Ghi nhan vao MEMORY.md
-       - Danh gia tien do (dang thao, lay y kien, ban hanh)
-    4. Neu khong co gi moi, reply HEARTBEAT_OK.
+    1. Tìm kiếm:
+       - "dự án luật" OR "lúp tán" Việt Nam 2026
+       - "thông tư mới" OR "quyết định mới" tháng 5 năm 2026
+    2. Kiểm tra các lĩnh vực: kinh tế, pháp lý, xã hội
+    3. Nếu có luật đang được thảo luận hoặc ban hành:
+       - Ghi nhận vào MEMORY.md
+       - Đánh giá tiến độ (đang thảo, lấy ý kiến, ban hành)
+    4. Nếu không có gì mới, reply HEARTBEAT_OK.
 
-### Kiem tra Toi
+### Kiểm tra Hôm nay
 
 - name: check-today
   interval: 24h
   prompt: |
-    Kiem tra nhung gi can lam hom nay.
+    Kiểm tra những gì cần làm hôm nay.
 
-    1. Doc memory/YYYY-MM-DD.md (hom nay) de xem cong viec da len lich.
-    2. Neu co cong viec, thuc hien hoac bao cao tien do.
-    3. Neu khong co gi, reply HEARTBEAT_OK.
+    1. Đọc memory/YYYY-MM-DD.md (hôm nay) để xem công việc đã lên lịch.
+    2. Nếu có công việc, thực hiện hoặc báo cáo tiến độ.
+    3. Nếu không có gì, reply HEARTBEAT_OK.
 
 ---
 
-## Quy tac thuc hien
+## Quy tắc thực hiện
 
-- Chi thuc hien nhung task tren khi het han interval.
-- Neu gap van de, reply HEARTBEAT_OK va ghi log vao MEMORY.md.
-- Khong tu y tao file hay push khi chua duoc phep.
-- Chi ghi nhan vao MEMORY.md de bao cao Sếp.
+- Chỉ thực hiện những task trên khi hết hạn interval.
+- Nếu gặp vấn đề, reply HEARTBEAT_OK và ghi log vào MEMORY.md.
+- Không tự ý tạo file hay push khi chưa được phép.
+- Chỉ ghi nhận vào MEMORY.md để báo cáo Sếp.
