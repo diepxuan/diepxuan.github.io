@@ -7,239 +7,120 @@ lastedit: 2026-05-13
 
 # Thanh tra
 
-*Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;*
+## Luật Thanh tra 2022 số 11/2022/QH15
 
-*Quốc hội ban hành Luật thanh tra.*
+**Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;**
 
-## CHƯƠNG I. NHỮNG QUY ĐỊNH CHUNG
+**Quốc hội ban hành Luật Thanh tra.**
 
-### Điều 1. Phạm vi điều chỉnh
+### Chương I: NHỮNG QUY ĐỊNH CHUNG
 
-Luật này quy định về tổ chức, hoạt động thanh tra nhà nước và thanh tra nhân dân.
+**Điều 1. Phạm vi điều chỉnh**
 
-### Điều 2. Mục đích hoạt động thanh tra
+Luật này quy định về tổ chức và hoạt động thanh tra.
 
-Mục đích hoạt động thanh tra nhằm phát hiện sơ hở trong cơ chế quản lý, chính sách, pháp luật để kiến nghị với cơ quan nhà nước có thẩm quyền biện pháp khắc phục; phòng ngừa, phát hiện và xử lý hành vi vi phạm pháp luật; giúp cơ quan, tổ chức, cá nhân thực hiện đúng quy định của pháp luật; phát huy nhân tố tích cực; góp phần nâng cao hiệu lực, hiệu quả hoạt động quản lý nhà nước; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
-
-### Điều 3. Giải thích từ ngữ
+**Điều 2. Giải thích từ ngữ**
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-1. **Thanh tra nhà nước** là hoạt động xem xét, đánh giá, xử lý theo trình tự, thủ tục do pháp luật quy định của cơ quan nhà nước có thẩm quyền đối với việc thực hiện chính sách, pháp luật, nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân. Thanh tra nhà nước bao gồm thanh tra hành chính và thanh tra chuyên ngành.
-2. **Thanh tra hành chính** là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền đối với cơ quan, tổ chức, cá nhân trực thuộc trong việc thực hiện chính sách, pháp luật, nhiệm vụ, quyền hạn được giao.
-3. **Thanh tra chuyên ngành** là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền theo ngành, lĩnh vực đối với cơ quan, tổ chức, cá nhân trong việc chấp hành pháp luật chuyên ngành, quy định về chuyên môn kỹ thuật, quy tắc quản lý thuộc ngành, lĩnh vực đó.
-4. **Định hướng chương trình thanh tra** là văn bản xác định phương hướng hoạt động thanh tra trong 01 năm của ngành thanh tra do Thủ tướng Chính phủ phê duyệt theo đề nghị của Tổng Thanh tra Chính phủ.
-5. **Kế hoạch thanh tra** là văn bản xác định nhiệm vụ chủ yếu về thanh tra của cơ quan thực hiện chức năng thanh tra trong 01 năm do Thủ trưởng cơ quan thực hiện chức năng thanh tra xây dựng.
-6. **Cơ quan được giao thực hiện chức năng thanh tra chuyên ngành** là cơ quan thực hiện nhiệm vụ quản lý nhà nước theo ngành, lĩnh vực, bao gồm tổng cục, cục thuộc bộ, chi cục thuộc sở được giao thực hiện chức năng thanh tra chuyên ngành.
-7. **Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành** là công chức được phân công thực hiện nhiệm vụ thanh tra của cơ quan được giao thực hiện chức năng thanh tra chuyên ngành.
-8. **Thanh tra nhân dân** là hình thức giám sát của nhân dân thông qua Ban thanh tra nhân dân đối với việc thực hiện chính sách, pháp luật, việc giải quyết khiếu nại, tố cáo, việc thực hiện pháp luật về dân chủ ở cơ sở.
+1. _Thanh tra_ là hoạt động xem xét, đánh giá, xử lý theo trình tự, thủ tục do pháp luật quy định của cơ quan thực hiện chức năng thanh tra đối với việc thực hiện chính sách, pháp luật, nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân. Hoạt động thanh tra bao gồm thanh tra hành chính và thanh tra chuyên ngành.
 
-### Điều 4. Cơ quan thực hiện chức năng thanh tra
+2. _Thanh tra hành chính_ là thanh tra việc thực hiện chính sách, pháp luật, nhiệm vụ, quyền hạn được giao của cơ quan, tổ chức, cá nhân thuộc quyền quản lý của cơ quan quản lý nhà nước.
 
-1. Cơ quan thanh tra nhà nước, bao gồm:
-   - Thanh tra Chính phủ;
-   - Thanh tra bộ, cơ quan ngang bộ;
-   - Thanh tra tỉnh, thành phố trực thuộc trung ương;
-   - Thanh tra sở;
-   - Thanh tra huyện, quận, thị xã, thành phố thuộc tỉnh.
-2. Cơ quan được giao thực hiện chức năng thanh tra chuyên ngành.
+3. _Thanh tra chuyên ngành_ là thanh tra việc chấp hành pháp luật chuyên ngành, quy định về chuyên môn - kỹ thuật, quy tắc quản lý của cơ quan, tổ chức, cá nhân thuộc phạm vi quản lý theo ngành, lĩnh vực.
 
-### Điều 5. Chức năng của cơ quan thanh tra nhà nước
+4. _Định hướng chương trình thanh tra_ là văn bản xác định phương hướng và trọng tâm hoạt động thanh tra trong 01 năm do Thủ tướng Chính phủ phê duyệt theo đề nghị của Tổng Thanh tra Chính phủ.
 
-Cơ quan thanh tra nhà nước trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện và giúp cơ quan nhà nước có thẩm quyền thực hiện quản lý nhà nước về công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng; tiến hành thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng theo quy định của pháp luật.
+5. _Kế hoạch thanh tra_ là văn bản xác định nhiệm vụ chủ yếu về thanh tra trong 01 năm do cơ quan nhà nước có thẩm quyền ban hành để thực hiện Định hướng chương trình thanh tra và phục vụ yêu cầu quản lý.
 
-### Điều 6. Hoạt động thanh tra
+6. _Kế hoạch tiến hành thanh tra_ là kế hoạch tiến hành một cuộc thanh tra do Trưởng đoàn thanh tra xây dựng và được người ra quyết định thanh tra phê duyệt.
 
-Hoạt động thanh tra do Đoàn thanh tra, Thanh tra viên và người được giao thực hiện nhiệm vụ thanh tra chuyên ngành thực hiện.
+7. _Phạm vi thanh tra_ là giới hạn cụ thể về nội dung thanh tra, đối tượng thanh tra và thời kỳ thanh tra được xác định trong quyết định thanh tra.
 
-### Điều 7. Nguyên tắc hoạt động thanh tra
+8. _Nội dung thanh tra_ là việc thực hiện chính sách, pháp luật, nhiệm vụ, quyền hạn được giao, quy định về chuyên môn - kỹ thuật, quy tắc quản lý thuộc ngành, lĩnh vực của đối tượng thanh tra và của cơ quan, tổ chức, cá nhân có liên quan.
 
-1. Tuân theo pháp luật; bảo đảm chính xác, khách quan, trung thực, công khai, dân chủ, kịp thời.
-2. Không trùng lặp về phạm vi, đối tượng, nội dung, thời gian thanh tra giữa các cơ quan thực hiện chức năng thanh tra.
+9. _Đối tượng thanh tra_ là cơ quan, tổ chức, cá nhân chịu sự thanh tra được xác định trong quyết định thanh tra.
 
-### Điều 8. Trách nhiệm của Thủ trưởng cơ quan nhà nước
+10. _Thời kỳ thanh tra_ là khoảng thời gian thực hiện chính sách, pháp luật, nhiệm vụ, quyền hạn được giao, quy định về chuyên môn - kỹ thuật, quy tắc quản lý thuộc ngành, lĩnh vực của đối tượng thanh tra được xem xét, đánh giá trong một cuộc thanh tra.
 
-Thủ tướng Chính phủ, Bộ trưởng, Chủ tịch UBND cấp tỉnh, Thủ trưởng cơ quan chuyên môn thuộc UBND cấp tỉnh, Chủ tịch UBND cấp huyện, Thủ trưởng cơ quan được giao thực hiện chức năng thanh tra chuyên ngành trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức, chỉ đạo hoạt động thanh tra.
+11. _Thời hạn thanh tra_ là khoảng thời gian được tính từ ngày công bố quyết định thanh tra đến ngày kết thúc việc tiến hành thanh tra trực tiếp.
 
-### Điều 9. Trách nhiệm và quyền của đối tượng thanh tra
+12. _Kết luận thanh tra_ là văn bản do Thủ trưởng cơ quan thực hiện chức năng thanh tra ký ban hành để đánh giá, kết luận và kiến nghị về nội dung đã thanh tra.
 
-Cơ quan, tổ chức, cá nhân là đối tượng thanh tra có trách nhiệm thực hiện yêu cầu, kiến nghị, quyết định về thanh tra, có quyền giải trình về nội dung thanh tra.
+13. _Thẩm định dự thảo kết luận thanh tra_ là việc xem xét, đánh giá để đưa ra nhận xét, kiến nghị nhằm hoàn thiện dự thảo kết luận thanh tra.
 
-### Điều 10. Trách nhiệm phối hợp
+14. _Giám sát hoạt động của Đoàn thanh tra_ là việc theo dõi, xem xét, đánh giá việc chấp hành pháp luật, tuân thủ chuẩn mực đạo đức, quy tắc ứng xử, ý thức kỷ luật và việc thực hiện nhiệm vụ được giao của Trưởng đoàn thanh tra, thành viên khác của Đoàn thanh tra trong thời hạn thanh tra.
 
-Cơ quan thực hiện chức năng thanh tra có trách nhiệm phối hợp với cơ quan Công an, Viện kiểm sát, cơ quan, tổ chức hữu quan trong việc phòng ngừa, phát hiện, xử lý hành vi vi phạm pháp luật.
+15. _Quyết định xử lý về thanh tra_ bao gồm quyết định của người tiến hành thanh tra để thực hiện quyền trong hoạt động thanh tra và quyết định của Thủ trưởng cơ quan quản lý nhà nước có thẩm quyền, Thủ trưởng cơ quan thực hiện chức năng thanh tra để thực hiện kết luận thanh tra.
 
-### Điều 11. Ban thanh tra nhân dân
+16. _Người tiến hành thanh tra_ bao gồm người ra quyết định thanh tra, Trưởng đoàn thanh tra và thành viên khác của Đoàn thanh tra.
 
-1. Ban thanh tra nhân dân được thành lập ở xã, phường, thị trấn do Ủy ban Mặt trận Tổ quốc Việt Nam hướng dẫn tổ chức.
-2. Ban thanh tra nhân dân được thành lập ở cơ quan nhà nước, đơn vị sự nghiệp công lập, doanh nghiệp nhà nước do Ban chấp hành Công đoàn cơ sở hướng dẫn tổ chức.
+17. _Cơ quan thực hiện chức năng thanh tra_ bao gồm cơ quan thanh tra và cơ quan được giao thực hiện chức năng thanh tra chuyên ngành.
 
-### Điều 12. Các hành vi bị nghiêm cấm
+18. _Cơ quan thanh tra_ là cơ quan được thành lập theo quy định của Luật này.
 
-1. Lợi dụng chức vụ, quyền hạn thanh tra để thực hiện hành vi trái pháp luật.
-2. Thanh tra không đúng thẩm quyền, phạm vi, nội dung.
-3. Cố ý không ra quyết định thanh tra khi phát hiện có dấu hiệu vi phạm; kết luận sai sự thật.
-4. Tiết lộ thông tin, tài liệu về nội dung thanh tra khi chưa có kết luận chính thức.
-5. Cung cấp thông tin không chính xác; chiếm đoạt, tiêu hủy tài liệu liên quan.
-6. Chống đối, cản trở, mua chuộc, đe dọa, trả thù người làm nhiệm vụ thanh tra.
-7. Can thiệp trái pháp luật vào hoạt động thanh tra.
-8. Đưa, nhận, môi giới hối lộ.
+### Chương II: CƠ QUAN THANH TRA
 
-## CHƯƠNG II. TỔ CHỨC, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN THANH TRA
+**Mục 1. THANH TRA CHÍNH PHỦ**
 
-### Mục 1. THANH TRA CHÍNH PHỦ
+**Điều 3. Thanh tra Chính phủ, Tổng Thanh tra Chính phủ**
 
-### Điều 13. Tổ chức của Thanh tra Chính phủ
+Thanh tra Chính phủ là cơ quan của Chính phủ, có chức năng giúp Thủ tướng Chính phủ quản lý nhà nước về công tác thanh tra. Thanh tra Chính phủ thực hiện chức năng thanh tra theo quy định của Luật này.
 
-1. Thanh tra Chính phủ là cơ quan của Chính phủ, chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.
-2. Thanh tra Chính phủ có Tổng Thanh tra Chính phủ, các Phó Tổng Thanh tra Chính phủ và Thanh tra viên.
-3. Tổng Thanh tra Chính phủ là thành viên Chính phủ, là người đứng đầu ngành thanh tra.
+**Điều 4. Nhiệm vụ, quyền hạn của Thanh tra Chính phủ**
 
-### Điều 14. Nhiệm vụ, quyền hạn của Thanh tra Chính phủ
+1. Chủ trì, phối hợp với các cơ quan nhà nước có thẩm quyền xây dựng, trình Thủ tướng Chính phủ phê duyệt định hướng chương trình thanh tra hành chính;
 
-1. Trong quản lý nhà nước: xây dựng chiến lược, định hướng chương trình, văn bản quy phạm pháp luật về thanh tra; lập kế hoạch thanh tra; chỉ đạo nghiệp vụ; hợp tác quốc tế.
-2. Trong hoạt động thanh tra: thanh tra việc thực hiện chính sách, pháp luật của bộ, cơ quan thuộc Chính phủ, UBND cấp tỉnh; thanh tra vụ việc phức tạp do Thủ tướng giao.
+2. Xây dựng kế hoạch thanh tra hành chính của Thanh tra Chính phủ;
 
-### Điều 15. Nhiệm vụ, quyền hạn của Tổng Thanh tra Chính phủ
+3. Tổ chức thực hiện theo định hướng chương trình thanh tra hành chính và kế hoạch thanh tra hành chính.
 
-1. Lãnh đạo, chỉ đạo công tác thanh tra; trình Thủ tướng phê duyệt Định hướng chương trình thanh tra.
-2. Quyết định thanh tra khi phát hiện có dấu hiệu vi phạm pháp luật; đề nghị đình chỉ văn bản trái pháp luật.
+### Chương III: BẢO ĐẢM HOẠT ĐỘNG THANH TRA
 
-### Mục 2. THANH TRA BỘ
+**Điều 5. Lực lượng thanh tra**
 
-### Điều 16. Tổ chức của Thanh tra bộ
+Lực lượng thanh tra bao gồm Thanh tra viên và người được giao thực hiện nhiệm vụ thanh tra chuyên ngành.
 
-1. Thanh tra bộ là cơ quan của bộ, giúp Bộ trưởng quản lý nhà nước về công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.
-2. Thanh tra bộ có Chánh Thanh tra, Phó Chánh Thanh tra và Thanh tra viên.
+**Điều 6. Thanh tra viên**
 
-### Điều 17. Nhiệm vụ, quyền hạn của Thanh tra bộ
+Thanh tra viên là công chức được bổ nhiệm vào ngạch Thanh tra viên, thực hiện chức năng thanh tra.
 
-1. Xây dựng kế hoạch thanh tra; hướng dẫn nghiệp vụ; tổng hợp báo cáo công tác thanh tra.
-2. Thanh tra việc thực hiện chính sách, pháp luật của cơ quan thuộc phạm vi quản lý của bộ.
+### Chương IV: TRÌNH TỰ, THỦ TỤC TIẾN HÀNH THANH TRA
 
-### Mục 3. THANH TRA TỈNH
+**Mục 1. QUY ĐỊNH CHUNG**
 
-### Điều 18. Tổ chức của Thanh tra tỉnh
+**Điều 7. Hình thức thanh tra**
 
-1. Thanh tra tỉnh là cơ quan chuyên môn thuộc UBND cấp tỉnh, có trách nhiệm giúp UBND cùng cấp quản lý nhà nước về công tác thanh tra.
-2. Thanh tra tỉnh có Chánh Thanh tra, Phó Chánh Thanh tra và Thanh tra viên.
+Hoạt động thanh tra được thực hiện dưới hình thức:
 
-### Điều 19. Nhiệm vụ, quyền hạn của Thanh tra tỉnh
+1. Thanh tra theo kế hoạch;
 
-1. Xây dựng kế hoạch thanh tra; chỉ đạo nghiệp vụ thanh tra hành chính đối với Thanh tra sở, Thanh tra huyện.
-2. Thanh tra việc thực hiện chính sách, pháp luật của sở, UBND cấp huyện.
+2. Thanh tra đột xuất;
 
-### Mục 4. THANH TRA SỞ
+3. Thanh tra chuyên đề.
 
-### Điều 20-22
+**Điều 8. Tiến hành thanh tra**
 
-Thanh tra sở giúp Giám đốc sở tiến hành thanh tra hành chính và thanh tra chuyên ngành, giải quyết khiếu nại, tố cáo, phòng, chống tham nhũng.
+1. Việc tiến hành thanh tra phải tuân thủ các nguyên tắc, trình tự, thủ tục theo quy định của Luật này.
 
-### Mục 5. THANH TRA HUYỆN
+2. Trưởng đoàn thanh tra có trách nhiệm bảo đảm tiến hành thanh tra đúng pháp luật, bảo vệ bí mật nhà nước, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-### Điều 23-25
+### Chương V: XỬ LÝ KẾT QUẢ THANH TRA
 
-Thanh tra huyện là cơ quan chuyên môn thuộc UBND cấp huyện, giúp UBND cùng cấp quản lý nhà nước về công tác thanh tra.
+**Điều 9. Ban hành kết luận thanh tra**
 
-### Mục 6. CƠ QUAN ĐƯỢC GIAO THỰC HIỆN CHỨC NĂNG THANH TRA CHUYÊN NGÀNH
+Trong thời hạn 15 ngày kể từ ngày nhận được dự thảo kết luận thanh tra, người ra quyết định ký ban hành kết luận thanh tra và chịu trách nhiệm về kết luận, kiến nghị của mình.
 
-### Điều 26-27
+### Chương VI: ĐIỀU KHOẢN THI HÀNH
 
-Cơ quan được giao thực hiện chức năng thanh tra chuyên ngành không thành lập cơ quan thanh tra độc lập. Hoạt động thanh tra do người được giao thực hiện nhiệm vụ thanh tra chuyên ngành.
+**Điều 10. Hiệu lực thi hành**
 
-## CHƯƠNG III. THANH TRA VIÊN, NGƯỜI ĐƯỢC GIAO THỰC HIỆN NHIỆM VỤ THANH TRA CHUYÊN NGÀNH
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
 
-### Điều 28. Thanh tra viên
-
-1. Thanh tra viên là công chức, sĩ quan được bổ nhiệm vào ngạch thanh tra để thực hiện nhiệm vụ thanh tra.
-2. Thanh tra viên phải tuân thủ pháp luật, chịu trách nhiệm trước pháp luật.
-
-### Điều 29. Tiêu chuẩn của Thanh tra viên
-
-Phẩm chất đạo đức tốt, tốt nghiệp đại học, có văn bằng hoặc chứng chỉ về nghiệp vụ thanh tra, có ít nhất 02 năm làm công tác thanh tra.
-
-### Điều 30. Ngạch Thanh tra viên
-
-Thanh tra viên, Thanh tra viên chính, Thanh tra viên cao cấp.
-
-### Điều 31. Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành
-
-Phải là công chức của cơ quan được giao thực hiện chức năng thanh tra chuyên ngành, có chuyên môn, nghiệp vụ phù hợp.
-
-### Điều 32. Cộng tác viên thanh tra
-
-Cơ quan thanh tra nhà nước có quyền trưng tập cộng tác viên thanh tra.
-
-## CHƯƠNG IV. HOẠT ĐỘNG THANH TRA
-
-### Mục 1. QUY ĐỊNH CHUNG
-
-### Điều 33. Định hướng chương trình thanh tra, kế hoạch thanh tra
-
-Chậm nhất ngày 15/10 hàng năm, Tổng Thanh tra Chính phủ trình Thủ tướng phê duyệt Định hướng chương trình thanh tra.
-
-### Điều 34. Hình thức thanh tra
-
-Hoạt động thanh tra được thực hiện theo kế hoạch, thanh tra thường xuyên hoặc thanh tra đột xuất.
-
-### Điều 35. Căn cứ ra quyết định thanh tra
-
-Kế hoạch thanh tra; theo yêu cầu của Thủ trưởng cơ quan quản lý; khi phát hiện có dấu hiệu vi phạm; yêu cầu giải quyết khiếu nại, tố cáo, phòng chống tham nhũng.
-
-### Điều 36. Công khai kết luận thanh tra
-
-Kết luận thanh tra phải được công khai, trừ trường hợp pháp luật có quy định khác.
-
-### Điều 37. Xử lý kết luận thanh tra
-
-Trong thời hạn 15 ngày kể từ ngày kết luận thanh tra, Thủ trưởng cơ quan quản lý nhà nước có trách nhiệm tổ chức chỉ đạo việc thực hiện kết luận thanh tra.
-
-### Mục 2. HOẠT ĐỘNG THANH TRA HÀNH CHÍNH
-
-### Điều 38-45
-
-Quy định về thẩm quyền ra quyết định, nội dung quyết định thanh tra, thời hạn thanh tra hành chính, nhiệm vụ quyền hạn của Trưởng đoàn thanh tra, báo cáo kết quả thanh tra, kết luận thanh tra hành chính.
-
-### Mục 3. HOẠT ĐỘNG THANH TRA CHUYÊN NGÀNH
-
-### Điều 46-51
-
-Quy định về quyết định thanh tra chuyên ngành, nhiệm vụ quyền hạn của Trưởng đoàn thanh tra chuyên ngành, thành viên Đoàn thanh tra, Thanh tra viên khi tiến hành thanh tra độc lập.
-
-### Mục 4. QUYỀN VÀ NGHĨA VỤ CỦA ĐỐI TƯỢNG THANH TRA
-
-### Điều 52-53
-
-Đối tượng thanh tra có quyền giải trình, khiếu nại, yêu cầu bồi thường; có nghĩa vụ chấp hành quyết định thanh tra, cung cấp thông tin, tài liệu.
-
-### Mục 5. HỒ SƠ THANH TRA, TRÁCH NHIỆM CỦA CƠ QUAN ĐIỀU TRA
-
-### Điều 54-55
-
-Quy định về hồ sơ thanh tra và trách nhiệm của cơ quan điều tra trong việc tiếp nhận hồ sơ vi phạm.
-
-## CHƯƠNG V. ĐIỀU KIỆN BẢO ĐẢM HOẠT ĐỘNG THANH TRA
-
-### Điều 56-59
-
-Kinh phí hoạt động do ngân sách nhà nước bảo đảm. Chế độ, chính sách, thẻ thanh tra do Chính phủ và Tổng Thanh tra Chính phủ quy định.
-
-## CHƯƠNG VI. THANH TRA NHÂN DÂN
-
-### Điều 60-72
-
-Quy định về tổ chức Ban thanh tra nhân dân ở xã, phường, thị trấn và ở cơ quan nhà nước, đơn vị sự nghiệp công lập, doanh nghiệp nhà nước; nhiệm vụ, quyền hạn; trách nhiệm của Chủ tịch UBND cấp xã.
-
-## CHƯƠNG VII. ĐIỀU KHOẢN THI HÀNH
-
-### Điều 73. Hiệu lực thi hành
-
-Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012. Luật Thanh tra số 28/2004/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.
-
-### Điều 74. Quy định chi tiết và hướng dẫn thi hành
-
-Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật.
+2. Luật Thanh tra 2010 hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
 ---
 
-*Nguồn: Luật số 56/2010/QH12 của Quốc hội. Ngày thông qua: 15/11/2010. Chủ tịch Quốc hội: Nguyễn Phú Trọng.*
+*Luật Thanh tra số 11/2022/QH15, được Quốc hội khóa XV thông qua ngày 14/11/2022, có hiệu lực từ ngày 01/07/2023, thay thế Luật Thanh tra 2010.*
+
+*Nguồn: thuvienphapluat.vn*
