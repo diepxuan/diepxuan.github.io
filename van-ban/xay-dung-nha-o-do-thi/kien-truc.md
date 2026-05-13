@@ -2,9 +2,25 @@
 layout: page
 title: Kiến trúc
 permalink: /van-ban/xay-dung-nha-o-do-thi/kien-truc/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Kiến+trúc) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Kiến+trúc) | [LuatVietnam](https://luatvietnam.vn/search?q=Kiến+trúc) |
+
+---
+
+## VĂN BẢN
 # Kiến trúc
 
 

@@ -5,6 +5,22 @@ permalink: /van-ban/khieu-nai-to-cao/thanh-tra/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thanh+tra) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thanh+tra) | [LuatVietnam](https://luatvietnam.vn/search?q=Thanh+tra) |
+
+---
+
+## VĂN BẢN
 # Thanh tra
 
 ## Luật Thanh tra 2022 số 11/2022/QH15

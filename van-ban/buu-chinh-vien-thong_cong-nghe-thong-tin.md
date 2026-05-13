@@ -2,9 +2,25 @@
 layout: page
 title: Công nghệ thông tin
 permalink: /van-ban/buu-chinh-vien-thong/cong-nghe-thong-tin/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Công+nghệ+thông+tin) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Công+nghệ+thông+tin) | [LuatVietnam](https://luatvietnam.vn/search?q=Công+nghệ+thông+tin) |
+
+---
+
+## VĂN BẢN
 # Công nghệ thông tin
 
 

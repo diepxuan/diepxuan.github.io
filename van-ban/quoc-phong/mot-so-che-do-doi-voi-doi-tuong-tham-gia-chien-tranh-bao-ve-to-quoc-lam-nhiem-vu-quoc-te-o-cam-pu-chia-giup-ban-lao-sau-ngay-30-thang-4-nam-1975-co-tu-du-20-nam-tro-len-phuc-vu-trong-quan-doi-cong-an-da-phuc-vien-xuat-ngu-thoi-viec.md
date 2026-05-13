@@ -2,9 +2,25 @@
 layout: page
 title: Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc
 permalink: /van-ban/quoc-phong/mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-bao-ve-to-quoc-lam-nhiem-vu-quoc-te-o-cam-pu-chia-giup-ban-lao-sau-ngay-30-thang-4-nam-1975-co-tu-du-20-nam-tro-len-phuc-vu-trong-quan-doi-cong-an-da-phuc-vien-xuat-ngu-thoi-viec/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Một+số+chế+độ+đối+với+đối+tượng+tham+gia+chiến+tranh+bảo+vệ+Tổ+quốc,+làm+nhiệm+vụ+quốc+tế+ở+Căm-pu-chia,+giúp+bạn+Lào+sau+ngày+30+tháng+4+năm+1975+có+từ+đủ+20+năm+trở+lên+phục+vụ+trong+quân+đội,+công+an+đã+phục+viên,+xuất+ngũ,+thôi+việc) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Một+số+chế+độ+đối+với+đối+tượng+tham+gia+chiến+tranh+bảo+vệ+Tổ+quốc,+làm+nhiệm+vụ+quốc+tế+ở+Căm-pu-chia,+giúp+bạn+Lào+sau+ngày+30+tháng+4+năm+1975+có+từ+đủ+20+năm+trở+lên+phục+vụ+trong+quân+đội,+công+an+đã+phục+viên,+xuất+ngũ,+thôi+việc) | [LuatVietnam](https://luatvietnam.vn/search?q=Một+số+chế+độ+đối+với+đối+tượng+tham+gia+chiến+tranh+bảo+vệ+Tổ+quốc,+làm+nhiệm+vụ+quốc+tế+ở+Căm-pu-chia,+giúp+bạn+Lào+sau+ngày+30+tháng+4+năm+1975+có+từ+đủ+20+năm+trở+lên+phục+vụ+trong+quân+đội,+công+an+đã+phục+viên,+xuất+ngũ,+thôi+việc) |
+
+---
+
+## VĂN BẢN
 # Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc
 
 

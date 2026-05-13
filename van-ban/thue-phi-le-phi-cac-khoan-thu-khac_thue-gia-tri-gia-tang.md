@@ -5,6 +5,22 @@ permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-gia-tri-gia-tang/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thuế+giá+trị+gia+tăng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thuế+giá+trị+gia+tăng) | [LuatVietnam](https://luatvietnam.vn/search?q=Thuế+giá+trị+gia+tăng) |
+
+---
+
+## VĂN BẢN
 **Luật số: 48/2024/QH15**
 
 _Nguồn: Luật Thuế giá trị gia tăng số 48/2024/QH15 ngày 26/11/2024 của Quốc hội, có hiệu lực từ 01/07/2025._

@@ -2,9 +2,25 @@
 layout: page
 title: Người khuyết tật
 permalink: /van-ban/chinh-sach-xa-hoi/nguoi-khuyet-tat/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Người+khuyết+tật) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Người+khuyết+tật) | [LuatVietnam](https://luatvietnam.vn/search?q=Người+khuyết+tật) |
+
+---
+
+## VĂN BẢN
 # Người khuyết tật
 
 
