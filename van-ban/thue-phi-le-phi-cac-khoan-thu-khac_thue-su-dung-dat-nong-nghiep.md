@@ -2,9 +2,25 @@
 layout: page
 title: Thuế sử dụng đất nông nghiệp
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-su-dung-dat-nong-nghiep/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thuế+sử+dụng+đất+nông+nghiệp) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thuế+sử+dụng+đất+nông+nghiệp) | [LuatVietnam](https://luatvietnam.vn/search?q=Thuế+sử+dụng+đất+nông+nghiệp) |
+
+---
+
+## VĂN BẢN
 # Thuế sử dụng đất nông nghiệp
 
 

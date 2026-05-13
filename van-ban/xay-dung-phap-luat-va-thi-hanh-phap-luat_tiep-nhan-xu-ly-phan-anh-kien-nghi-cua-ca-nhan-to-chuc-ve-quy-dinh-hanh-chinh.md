@@ -2,9 +2,25 @@
 layout: page
 title: Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Tiếp+nhận,+xử+lý+phản+ánh,+kiến+nghị+của+cá+nhân,+tổ+chức+về+quy+định+hành+chính) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Tiếp+nhận,+xử+lý+phản+ánh,+kiến+nghị+của+cá+nhân,+tổ+chức+về+quy+định+hành+chính) | [LuatVietnam](https://luatvietnam.vn/search?q=Tiếp+nhận,+xử+lý+phản+ánh,+kiến+nghị+của+cá+nhân,+tổ+chức+về+quy+định+hành+chính) |
+
+---
+
+## VĂN BẢN
 # Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính
 
 

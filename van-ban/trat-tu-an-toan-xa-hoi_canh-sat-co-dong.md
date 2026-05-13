@@ -2,9 +2,25 @@
 layout: page
 title: Cảnh sát cơ động
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/canh-sat-co-dong/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Cảnh+sát+cơ+động) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Cảnh+sát+cơ+động) | [LuatVietnam](https://luatvietnam.vn/search?q=Cảnh+sát+cơ+động) |
+
+---
+
+## VĂN BẢN
 # Cảnh sát cơ động
 
 

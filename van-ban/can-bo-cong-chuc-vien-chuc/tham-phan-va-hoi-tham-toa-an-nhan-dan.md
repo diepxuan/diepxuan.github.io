@@ -5,6 +5,22 @@ permalink: /van-ban/can-bo-cong-chuc-vien-chuc/tham-phan-va-hoi-tham-toa-an-nhan
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thẩm+phán+và+Hội+thẩm+Tòa+án+nhân+dân) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thẩm+phán+và+Hội+thẩm+Tòa+án+nhân+dân) | [LuatVietnam](https://luatvietnam.vn/search?q=Thẩm+phán+và+Hội+thẩm+Tòa+án+nhân+dân) |
+
+---
+
+## VĂN BẢN
 # Thẩm phán và Hội thẩm Tòa án nhân dân
 
 ## Luật Tổ chức Tòa án nhân dân 2024 số 34/2024/QH15

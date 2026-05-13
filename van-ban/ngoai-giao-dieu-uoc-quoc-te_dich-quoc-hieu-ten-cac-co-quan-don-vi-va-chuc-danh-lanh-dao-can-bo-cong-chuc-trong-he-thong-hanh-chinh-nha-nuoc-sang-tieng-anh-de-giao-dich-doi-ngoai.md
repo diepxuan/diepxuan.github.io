@@ -2,9 +2,25 @@
 layout: page
 title: Dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ công chức trong hệ thống hành chính nhà nước sang tiếng Anh để giao dịch đối ngoại
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dich-quoc-hieu-ten-cac-co-quan-don-vi-va-chuc-danh-lanh-dao-can-bo-cong-chuc-trong-he-thong-hanh-chinh-nha-nuoc-sang-tieng-anh-de-giao-dich-doi-ngoai/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Dịch+Quốc+hiệu,+tên+các+cơ+quan,+đơn+vị+và+chức+danh+lãnh+đạo,+cán+bộ+công+chức+trong+hệ+thống+hành+chính+nhà+nước+sang+tiếng+Anh+để+giao+dịch+đối+ngoại) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Dịch+Quốc+hiệu,+tên+các+cơ+quan,+đơn+vị+và+chức+danh+lãnh+đạo,+cán+bộ+công+chức+trong+hệ+thống+hành+chính+nhà+nước+sang+tiếng+Anh+để+giao+dịch+đối+ngoại) | [LuatVietnam](https://luatvietnam.vn/search?q=Dịch+Quốc+hiệu,+tên+các+cơ+quan,+đơn+vị+và+chức+danh+lãnh+đạo,+cán+bộ+công+chức+trong+hệ+thống+hành+chính+nhà+nước+sang+tiếng+Anh+để+giao+dịch+đối+ngoại) |
+
+---
+
+## VĂN BẢN
 # Dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ công chức trong hệ thống hành chính nhà nước sang tiếng Anh để giao dịch đối ngoại
 
 

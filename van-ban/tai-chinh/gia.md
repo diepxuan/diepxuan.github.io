@@ -5,6 +5,22 @@ permalink: /van-ban/tai-chinh/gia/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Giá) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Giá) | [LuatVietnam](https://luatvietnam.vn/search?q=Giá) |
+
+---
+
+## VĂN BẢN
 # Giá
 
 ## Luật Giá 2023 (số 16/2023/QH15)

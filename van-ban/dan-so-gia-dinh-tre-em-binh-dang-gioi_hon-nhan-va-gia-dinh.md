@@ -2,9 +2,25 @@
 layout: page
 title: Hôn nhân và gia đình
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/hon-nhan-va-gia-dinh/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Hôn+nhân+và+gia+đình) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Hôn+nhân+và+gia+đình) | [LuatVietnam](https://luatvietnam.vn/search?q=Hôn+nhân+và+gia+đình) |
+
+---
+
+## VĂN BẢN
 # Hôn nhân và gia đình
 
 
