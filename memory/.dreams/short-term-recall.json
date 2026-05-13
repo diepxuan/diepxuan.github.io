@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-12T23:56:21.684Z",
+  "entries": {
+    "memory:memory/2026-05-12.md:1:41": {
+      "key": "memory:memory/2026-05-12.md:1:41",
+      "path": "memory/2026-05-12.md",
+      "startLine": 1,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "# 2026-05-12 - Daily Memory ## Task: Refactor Văn bản Pháp luật ### 2026-05-12 14:56 UTC - **Task**: Bổ sung nội dung cho `van-ban/an-ninh-quoc-gia/du-lieu.md` - **Status**: Đã hoàn thành - **Ghi chú**: Đã bổ sung từ Điều 16 đến Điều 24 (Chương V). File now có đầy đủ nội dung từ Điều 1 đến Điều 24. - **lastedit**: `2026-05-12 14:56` - **PR**: Chờ Sếp review ### 2026-05-12 15:00 UTC - **Task**: Refactor toàn bộ văn bản pháp luật trong `van-ban/` - **Status**: Đang thực hiện - **Ghi chú**: - Đã kiểm tra 642 file trong `van-ban/` - 639 file có `lastedit: 2026-05-12` (chưa có giờ phút) - 1 file (`du-lieu.md`) có `lastedit: 2026-05-12 14:56` - Nhiều file chỉ có tiêu đề và front matte",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.47508132159709926,
+      "maxScore": 0.47508132159709926,
+      "firstRecalledAt": "2026-05-12T23:56:21.684Z",
+      "lastRecalledAt": "2026-05-12T23:56:21.684Z",
+      "queryHashes": [
+        "1f97d77aacd6"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "van-ban",
+        "du-lieu.md",
+        "task",
+        "refactor",
+        "văn",
+        "bản",
+        "pháp",
+        "luật"
+      ]
+    },
+    "memory:memory/2026-05-12.md:32:49": {
+      "key": "memory:memory/2026-05-12.md:32:49",
+      "path": "memory/2026-05-12.md",
+      "startLine": 32,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "### 2026-05-12 14:33 UTC - **Task**: Thêm `lastedit: 2026-05-12 14:33` cho 640+ văn bản - **Status**: Đã hoàn thành - PR #61 - **Ghi chú**: Đã cập nhật front matter `lastedit` cho toàn bộ văn bản trong `van-ban/`. ### 2026-05-12 12:55 UTC - **Task**: Phát hiện văn bản placeholder, tạo PR - **Status**: Đã hoàn thành - PR #60 - **Ghi chú**: Đã phát hiện và xử lý các văn bản placeholder. ### 2026-05-12 17:58 UTC - **Task**: Thêm `lastedit: 2026-05-12` cho 640+ văn bản - **Status**: Đã hoàn thành - PR #59 - **Ghi chú**: Bắt đầu theo dõi `lastedit` để ưu tiên refactor.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.45001286566257476,
+      "maxScore": 0.45001286566257476,
+      "firstRecalledAt": "2026-05-12T23:56:21.684Z",
+      "lastRecalledAt": "2026-05-12T23:56:21.684Z",
+      "queryHashes": [
+        "1f97d77aacd6"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "van-ban",
+        "utc",
+        "task",
+        "thêm",
+        "lastedit",
+        "cho",
+        "văn",
+        "bản"
+      ]
+    }
+  }
+}
