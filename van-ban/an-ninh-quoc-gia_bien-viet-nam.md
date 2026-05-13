@@ -2,9 +2,25 @@
 layout: page
 title: Biển Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/bien-viet-nam/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Biển+Việt+Nam) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Biển+Việt+Nam) | [LuatVietnam](https://luatvietnam.vn/search?q=Biển+Việt+Nam) |
+
+---
+
+## VĂN BẢN
 # Biển Việt Nam
 
 

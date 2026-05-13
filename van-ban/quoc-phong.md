@@ -2,9 +2,25 @@
 layout: page
 title: Quốc phòng
 permalink: /van-ban/quoc-phong/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Quốc+phòng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Quốc+phòng) | [LuatVietnam](https://luatvietnam.vn/search?q=Quốc+phòng) |
+
+---
+
+## VĂN BẢN
 # Quốc phòng
 
 ## Danh sách đề mục

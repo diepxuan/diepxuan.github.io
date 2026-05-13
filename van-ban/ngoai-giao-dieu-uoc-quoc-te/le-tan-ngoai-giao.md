@@ -5,6 +5,22 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/le-tan-ngoai-giao/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Lễ+tân+ngoại+giao) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Lễ+tân+ngoại+giao) | [LuatVietnam](https://luatvietnam.vn/search?q=Lễ+tân+ngoại+giao) |
+
+---
+
+## VĂN BẢN
 # Lễ tân ngoại giao
 
 Nội dung dưới đây dựa trên **Nghị định 18/2022/NĐ-CP** ngày 18/02/2022 của Chính phủ về nghi lễ đối ngoại — văn bản hiện hành thay thế Nghị định 50/2011/NĐ-CP.

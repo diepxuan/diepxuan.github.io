@@ -2,9 +2,25 @@
 layout: page
 title: Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-quoc-gia/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Bảo+vệ+công+trình+quan+trọng+liên+quan+đến+an+ninh+quốc+gia) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Bảo+vệ+công+trình+quan+trọng+liên+quan+đến+an+ninh+quốc+gia) | [LuatVietnam](https://luatvietnam.vn/search?q=Bảo+vệ+công+trình+quan+trọng+liên+quan+đến+an+ninh+quốc+gia) |
+
+---
+
+## VĂN BẢN
 # Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia
 
 

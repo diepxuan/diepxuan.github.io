@@ -2,9 +2,25 @@
 layout: page
 title: Quyền ưu đãi, miễn trừ dành cho cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại diện của tổ chức quốc tế tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/quyen-uu-dai-mien-tru-danh-cho-co-quan-dai-dien-ngoai-giao-co-quan-lanh-su-va-co-quan-dai-dien-cua-to-chuc-quoc-te-tai-viet-nam/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Quyền+ưu+đãi,+miễn+trừ+dành+cho+cơ+quan+đại+diện+ngoại+giao,+cơ+quan+lãnh+sự+và+cơ+quan+đại+diện+của+tổ+chức+quốc+tế+tại+Việt+Nam) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Quyền+ưu+đãi,+miễn+trừ+dành+cho+cơ+quan+đại+diện+ngoại+giao,+cơ+quan+lãnh+sự+và+cơ+quan+đại+diện+của+tổ+chức+quốc+tế+tại+Việt+Nam) | [LuatVietnam](https://luatvietnam.vn/search?q=Quyền+ưu+đãi,+miễn+trừ+dành+cho+cơ+quan+đại+diện+ngoại+giao,+cơ+quan+lãnh+sự+và+cơ+quan+đại+diện+của+tổ+chức+quốc+tế+tại+Việt+Nam) |
+
+---
+
+## VĂN BẢN
 # Quyền ưu đãi, miễn trừ dành cho cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại diện của tổ chức quốc tế tại Việt Nam
 
 

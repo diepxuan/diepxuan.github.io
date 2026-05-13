@@ -2,9 +2,25 @@
 layout: page
 title: Ưu đãi người có công với cách mạng
 permalink: /van-ban/chinh-sach-xa-hoi/uu-dai-nguoi-co-cong-voi-cach-mang/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Ưu+đãi+người+có+công+với+cách+mạng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Ưu+đãi+người+có+công+với+cách+mạng) | [LuatVietnam](https://luatvietnam.vn/search?q=Ưu+đãi+người+có+công+với+cách+mạng) |
+
+---
+
+## VĂN BẢN
 # Ưu đãi người có công với cách mạng
 
 

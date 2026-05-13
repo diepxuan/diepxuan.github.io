@@ -2,9 +2,25 @@
 layout: page
 title: Hoạt động giám sát của Quốc hội và Hội đồng nhân dân
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Hoạt+động+giám+sát+của+Quốc+hội+và+Hội+đồng+nhân+dân) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Hoạt+động+giám+sát+của+Quốc+hội+và+Hội+đồng+nhân+dân) | [LuatVietnam](https://luatvietnam.vn/search?q=Hoạt+động+giám+sát+của+Quốc+hội+và+Hội+đồng+nhân+dân) |
+
+---
+
+## VĂN BẢN
 # Hoạt động giám sát của Quốc hội và Hội đồng nhân dân
 
 

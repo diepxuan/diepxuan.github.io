@@ -5,6 +5,22 @@ permalink: /van-ban/moi-truong/bao-ve-moi-truong/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Bảo+vệ+môi+trường) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Bảo+vệ+môi+trường) | [LuatVietnam](https://luatvietnam.vn/search?q=Bảo+vệ+môi+trường) |
+
+---
+
+## VĂN BẢN
 **Luật số: 72/2020/QH14**
 
 _Nguồn: Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17/11/2020 của Quốc hội, có hiệu lực từ 01/01/2022._

@@ -2,9 +2,25 @@
 layout: page
 title: Phòng, chống ma túy
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/phong-chong-ma-tuy/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Phòng,+chống+ma+túy) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Phòng,+chống+ma+túy) | [LuatVietnam](https://luatvietnam.vn/search?q=Phòng,+chống+ma+túy) |
+
+---
+
+## VĂN BẢN
 # Phòng, chống ma túy
 
 

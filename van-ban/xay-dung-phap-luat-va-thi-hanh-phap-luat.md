@@ -2,9 +2,25 @@
 layout: page
 title: Xây dựng pháp luật và thi hành pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Xây+dựng+pháp+luật+và+thi+hành+pháp+luật) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Xây+dựng+pháp+luật+và+thi+hành+pháp+luật) | [LuatVietnam](https://luatvietnam.vn/search?q=Xây+dựng+pháp+luật+và+thi+hành+pháp+luật) |
+
+---
+
+## VĂN BẢN
 # Xây dựng pháp luật và thi hành pháp luật
 
 ## Danh sách đề mục
