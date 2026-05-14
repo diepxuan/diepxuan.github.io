@@ -9,13 +9,13 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
+| **Số hiệu** | 604/VBHN-BVHTTDL |
+| **Loại văn bản** | Văn bản hợp nhất |
+| **Nơi ban hành** | Bộ Văn hóa, Thể thao và Du lịch |
+| **Người ký** | Nguyễn Ngọc Thiện |
+| **Ngày ban hành** | 21/02/2019 |
+| **Ngày hiệu lực** | 21/02/2019 |
+| **Trạng thái** | Còn hiệu lực |
 | **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Hoạt+động+văn+hóa+và+kinh+doanh+dịch+vụ+văn+hóa+công+cộng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Hoạt+động+văn+hóa+và+kinh+doanh+dịch+vụ+văn+hóa+công+cộng) | [LuatVietnam](https://luatvietnam.vn/search?q=Hoạt+động+văn+hóa+và+kinh+doanh+dịch+vụ+văn+hóa+công+cộng) |
 
 ---
