@@ -2,21 +2,21 @@
 layout: page
 title: Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-su-dung-von-nha-nuoc-dau-tu-vao-san-xuat-kinh-doanh-tai-doanh-nghiep/
-lastedit: 2026-05-13
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Quản+lý,+sử+dụng+vốn+nhà+nước+đầu+tư+vào+sản+xuất,+kinh+doanh+tại+doanh+nghiệp) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Quản+lý,+sử+dụng+vốn+nhà+nước+đầu+tư+vào+sản+xuất,+kinh+doanh+tại+doanh+nghiệp) | [LuatVietnam](https://luatvietnam.vn/search?q=Quản+lý,+sử+dụng+vốn+nhà+nước+đầu+tư+vào+sản+xuất,+kinh+doanh+tại+doanh+nghiệp) |
+| **Số hiệu** | 69/2014/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Quốc hội |
+| **Ngày ban hành** | 26/11/2014 |
+| **Ngày hiệu lực** | 01/07/2015 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Quan-ly-su-dung-von-Nha-nuoc-dau-tu-vao-san-xuat-kinh-doanh-tai-doanh-nghiep-2014-259731.aspx) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Quản+lý,+sử+dụng+vốn+nhà+nước+đầu+tư+vào+sản+xuất,+kinh+doanh+tại+doanh+nghiệp) | [LuatVietnam](https://luatvietnam.vn/search?q=Quản+lý,+sử+dụng+vốn+nhà+nước+đầu+tư+vào+sản+xuất,+kinh+doanh+tại+doanh+nghiệp) |
 
 ---
 
