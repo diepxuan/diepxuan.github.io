@@ -2,21 +2,21 @@
 layout: page
 title: Ngân sách nhà nước
 permalink: /van-ban/tai-chinh/ngan-sach-nha-nuoc/
-lastedit: 2026-05-13
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
+| **Số hiệu** | 89/2025/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Trần Thanh Mẫn |
+| **Ngày ban hành** | 25/06/2025 |
 | **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Ngân+sách+nhà+nước) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Ngân+sách+nhà+nước) | [LuatVietnam](https://luatvietnam.vn/search?q=Ngân+sách+nhà+nước) |
+| **Trạng thái** | Chưa có hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=214601) |
 
 ---
 
