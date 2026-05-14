@@ -9,14 +9,18 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thực+hiện+dân+chủ+trong+hoạt+động+của+cơ+quan+hành+chính+nhà+nước+và+đơn+vị+sự+nghiệp+công+lập) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thực+hiện+dân+chủ+trong+hoạt+động+của+cơ+quan+hành+chính+nhà+nước+và+đơn+vị+sự+nghiệp+công+lập) | [LuatVietnam](https://luatvietnam.vn/search?q=Thực+hiện+dân+chủ+trong+hoạt+động+của+cơ+quan+hành+chính+nhà+nước+và+đơn+vị+sự+nghiệp+công+lập) |
+| **Số hiệu** | 04/2015/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Nguyễn Tấn Dũng |
+| **Ngày ban hành** | 09/01/2015 |
+| **Ngày hiệu lực** | 01/03/2015 |
+| **Trạng thái** | Hết hiệu lực (thay thế bởi Luật Thực hiện dân chủ ở cơ sở 2022) |
+| **Nguồn** | [Chinhphu.vn](https://vanban.chinhphu.vn/?docid=178482) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/van-ban/04-2015-ND-CP-178482.aspx) |
+
+---
+
+**Lưu ý:** Nghị định 04/2015/NĐ-CP đã hết hiệu lực từ ngày 01/07/2023, được thay thế bởi Luật Thực hiện dân chủ ở cơ sở 12/2022/QH15.
 
 ---
 
