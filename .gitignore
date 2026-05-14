@@ -49,3 +49,6 @@ build/
 dist/
 *.egg-info/
 
+
+# Local agent memory
+memory/
