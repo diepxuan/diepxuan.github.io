@@ -9,14 +9,14 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Giá) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Giá) | [LuatVietnam](https://luatvietnam.vn/search?q=Giá) |
+| **Số hiệu** | 16/2023/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Vương Đình Huệ |
+| **Ngày ban hành** | 19/06/2023 |
+| **Ngày hiệu lực** | 01/07/2024 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=208367) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Giá) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Giá) | [LuatVietnam](https://luatvietnam.vn/search?q=Giá) |
 
 ---
 

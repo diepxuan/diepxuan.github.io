@@ -9,13 +9,13 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
+| **Số hiệu** | 21/2015/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Nguyễn Tấn Dũng |
+| **Ngày ban hành** | 14/02/2015 |
+| **Ngày hiệu lực** | 15/04/2015 |
+| **Trạng thái** | Còn hiệu lực |
 | **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Nhuận+bút,+thù+lao+đối+với+tác+phẩm+điện+ảnh,+mỹ+thuật,+nhiếp+ảnh,+sân+khấu+và+các+loại+hình+nghệ+thuật+biểu+diễn+khác) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Nhuận+bút,+thù+lao+đối+với+tác+phẩm+điện+ảnh,+mỹ+thuật,+nhiếp+ảnh,+sân+khấu+và+các+loại+hình+nghệ+thuật+biểu+diễn+khác) | [LuatVietnam](https://luatvietnam.vn/search?q=Nhuận+bút,+thù+lao+đối+với+tác+phẩm+điện+ảnh,+mỹ+thuật,+nhiếp+ảnh,+sân+khấu+và+các+loại+hình+nghệ+thuật+biểu+diễn+khác) |
 
 ---
