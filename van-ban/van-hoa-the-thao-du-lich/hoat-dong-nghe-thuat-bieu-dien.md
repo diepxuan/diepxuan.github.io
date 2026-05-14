@@ -9,13 +9,13 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
+| **Số hiệu** | 144/2020/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Nguyễn Xuân Phúc |
+| **Ngày ban hành** | 14/12/2020 |
+| **Ngày hiệu lực** | 01/02/2021 |
+| **Trạng thái** | Còn hiệu lực |
 | **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Hoạt+động+nghệ+thuật+biểu+diễn) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Hoạt+động+nghệ+thuật+biểu+diễn) | [LuatVietnam](https://luatvietnam.vn/search?q=Hoạt+động+nghệ+thuật+biểu+diễn) |
 
 ---

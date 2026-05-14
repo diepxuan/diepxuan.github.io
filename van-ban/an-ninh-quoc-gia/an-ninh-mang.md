@@ -9,14 +9,14 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Số hiệu** | 24/2018/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Thị Kim Ngân |
+| **Ngày ban hành** | 12/06/2018 |
+| **Ngày hiệu lực** | 01/01/2019 |
 | **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=An+ninh+mạng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=An+ninh+mạng) | [LuatVietnam](https://luatvietnam.vn/search?q=An+ninh+mạng) |
+| **Nguồn** | [Chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=206114) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=An+ninh+mạng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=An+ninh+mạng) | [LuatVietnam](https://luatvietnam.vn/search?q=An+ninh+mạng) |
 
 ---
 

@@ -9,14 +9,14 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Số hiệu** | 06/2003/QH11 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Văn An |
+| **Ngày ban hành** | 26/06/2003 |
+| **Ngày hiệu lực** | 01/01/2004 |
 | **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Biên+giới+quốc+gia) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Biên+giới+quốc+gia) | [LuatVietnam](https://luatvietnam.vn/search?q=Biên+giới+quốc+gia) |
+| **Nguồn** | [Chinhphu.vn](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=93588) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Biên+giới+quốc+gia) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Biên+giới+quốc+gia) | [LuatVietnam](https://luatvietnam.vn/search?q=Biên+giới+quốc+gia) |
 
 ---
 

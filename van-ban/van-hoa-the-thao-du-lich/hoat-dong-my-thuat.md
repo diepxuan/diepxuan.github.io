@@ -9,13 +9,13 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
+| **Số hiệu** | 113/2013/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Nguyễn Tấn Dũng |
+| **Ngày ban hành** | 02/10/2013 |
+| **Ngày hiệu lực** | 01/12/2013 |
+| **Trạng thái** | Còn hiệu lực |
 | **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Hoạt+động+mỹ+thuật) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Hoạt+động+mỹ+thuật) | [LuatVietnam](https://luatvietnam.vn/search?q=Hoạt+động+mỹ+thuật) |
 
 ---

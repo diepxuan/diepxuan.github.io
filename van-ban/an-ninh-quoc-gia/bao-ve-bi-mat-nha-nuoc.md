@@ -9,14 +9,14 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Số hiệu** | 117/2025/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Trần Thanh Mẫn |
+| **Ngày ban hành** | 10/12/2025 |
+| **Ngày hiệu lực** | 01/03/2026 |
 | **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Bảo+vệ+bí+mật+nhà+nước) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Bảo+vệ+bí+mật+nhà+nước) | [LuatVietnam](https://luatvietnam.vn/search?q=Bảo+vệ+bí+mật+nhà+nước) |
+| **Nguồn** | [Chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216500) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Bảo+vệ+bí+mật+nhà+nước) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Bảo+vệ+bí+mật+nhà+nước) | [LuatVietnam](https://luatvietnam.vn/search?q=Bảo+vệ+bí+mật+nhà+nước) |
 
 ---
 
