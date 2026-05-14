@@ -1,0 +1,269 @@
+# Metadata Crawl Log
+
+## Batch 2 (2026-05-14)
+
+- ❌ `van-ban/an-ninh-quoc-gia.md`: Không tìm thấy docid
+- ❌ `van-ban/bao-hiem.md`: Không tìm thấy docid
+- ❌ `van-ban/bao-hiem/bao-hiem-y-te.md`: Không tìm thấy docid
+- ❌ `van-ban/bao-hiem/kinh-doanh-bao-hiem.md`: Không tìm thấy docid
+- ❌ `van-ban/bo-tro-tu-phap.md`: Không tìm thấy docid
+- ❌ `van-ban/bo-tro-tu-phap/dau-gia-tai-san.md`: Không tìm thấy docid
+- ❌ `van-ban/bo-tro-tu-phap/giam-dinh-tu-phap.md`: Không tìm thấy docid
+- ❌ `van-ban/bo-tro-tu-phap/luat-su.md`: Không tìm thấy docid
+- ❌ `van-ban/bo-tro-tu-phap/tro-giup-phap-ly.md`: Không tìm thấy docid
+- ❌ `van-ban/bo-tro-tu-phap/tu-van-phap-luat.md`: Không tìm thấy docid
+- ❌ `van-ban/buu-chinh-vien-thong.md`: Không tìm thấy docid
+- ❌ `van-ban/buu-chinh-vien-thong/an-toan-thong-tin-mang.md`: Không tìm thấy docid
+- ❌ `van-ban/buu-chinh-vien-thong/buu-chinh.md`: Không tìm thấy docid
+- ❌ `van-ban/buu-chinh-vien-thong/cong-nghe-thong-tin.md`: Không tìm thấy docid
+- ⏭️ `van-ban/buu-chinh-vien-thong/tan-so-vo-tuyen-dien.md`: Skipped (known pattern)
+- ❌ `van-ban/buu-chinh-vien-thong/vien-thong.md`: Không tìm thấy docid
+- ❌ `van-ban/can-bo-cong-chuc-vien-chuc.md`: Không tìm thấy docid
+- ❌ `van-ban/can-bo-cong-chuc-vien-chuc/tham-phan-va-hoi-tham-toa-an-nhan-dan.md`: Không tìm thấy docid
+- ⏭️ `van-ban/can-bo-cong-chuc-vien-chuc/vien-chuc.md`: Skipped (known pattern)
+- ❌ `van-ban/chinh-sach-xa-hoi.md`: Không tìm thấy docid
+- ⏭️ `van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi.md`: Skipped (known pattern)
+- ❌ `van-ban/chinh-sach-xa-hoi/nguoi-cao-tuoi.md`: Không tìm thấy docid
+- ❌ `van-ban/chinh-sach-xa-hoi/nguoi-khuyet-tat.md`: Không tìm thấy docid
+- ❌ `van-ban/chinh-sach-xa-hoi/phong-chong-mai-dam.md`: Không tìm thấy docid
+- ❌ `van-ban/chinh-sach-xa-hoi/uu-dai-nguoi-co-cong-voi-cach-mang.md`: Không tìm thấy docid
+- ❌ `van-ban/cong-nghiep.md`: Không tìm thấy docid
+- ❌ `van-ban/cong-nghiep/dau-khi.md`: Không tìm thấy docid
+- ❌ `van-ban/cong-nghiep/hoa-chat.md`: Không tìm thấy docid
+- ⏭️ `van-ban/cong-nghiep/khuyen-cong.md`: Skipped (known pattern)
+- ⏭️ `van-ban/cong-nghiep/su-dung-nang-luong-tiet-kiem-va-hieu-qua.md`: Skipped (known pattern)
+- ❌ `van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi.md`: Không tìm thấy docid
+- ❌ `van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/binh-dang-gioi.md`: Không tìm thấy docid
+- ❌ `van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/dan-so.md`: Không tìm thấy docid
+- ❌ `van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/hon-nhan-va-gia-dinh.md`: Không tìm thấy docid
+- ❌ `van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/tre-em.md`: Không tìm thấy docid
+- ❌ `van-ban/dan-su.md`: Không tìm thấy docid
+- ❌ `van-ban/dan-su/dan-su.md`: Không tìm thấy docid
+- ❌ `van-ban/dan-su/dang-ky-bien-phap-bao-dam.md`: Không tìm thấy docid
+- ❌ `van-ban/dan-su/quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien-nghia-vu.md`: Không tìm thấy docid
+- ❌ `van-ban/doanh-nghiep-hop-tac-xa.md`: Không tìm thấy docid
+- ❌ `van-ban/doanh-nghiep-hop-tac-xa/doanh-nghiep.md`: Không tìm thấy docid
+- ❌ `van-ban/doanh-nghiep-hop-tac-xa/ho-tro-doanh-nghiep-nho-va-vua.md`: Không tìm thấy docid
+- ❌ `van-ban/doanh-nghiep-hop-tac-xa/hop-tac-xa.md`: Không tìm thấy docid
+- ❌ `van-ban/giao-duc-dao-tao.md`: Không tìm thấy docid
+- ⏭️ `van-ban/giao-duc-dao-tao/giao-duc-dai-hoc.md`: Skipped (known pattern)
+- ❌ `van-ban/giao-duc-dao-tao/giao-duc.md`: Không tìm thấy docid
+- ❌ `van-ban/giao-thong-van-tai.md`: Không tìm thấy docid
+- ⏭️ `van-ban/giao-thong-van-tai/duong-sat.md`: Skipped (known pattern)
+- ⏭️ `van-ban/giao-thong-van-tai/giao-thong-duong-thuy-noi-dia.md`: Skipped (known pattern)
+- ⏭️ `van-ban/giao-thong-van-tai/hang-hai-viet-nam.md`: Skipped (known pattern)
+- ❌ `van-ban/giao-thong-van-tai/hang-khong-dan-dung-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/hanh-chinh-tu-phap.md`: Không tìm thấy docid
+- ❌ `van-ban/hanh-chinh-tu-phap/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky.md`: Không tìm thấy docid
+- ❌ `van-ban/hanh-chinh-tu-phap/ho-tich.md`: Không tìm thấy docid
+- ❌ `van-ban/hanh-chinh-tu-phap/ly-lich-tu-phap.md`: Không tìm thấy docid
+- ❌ `van-ban/hanh-chinh-tu-phap/nuoi-con-nuoi.md`: Không tìm thấy docid
+- ❌ `van-ban/hanh-chinh-tu-phap/quoc-tich-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/hinh-su.md`: Không tìm thấy docid
+- ❌ `van-ban/hinh-su/hinh-su.md`: Không tìm thấy docid
+- ❌ `van-ban/ke-toan-kiem-toan.md`: Không tìm thấy docid
+- ❌ `van-ban/ke-toan-kiem-toan/ke-toan.md`: Không tìm thấy docid
+- ❌ `van-ban/ke-toan-kiem-toan/kiem-toan-doc-lap.md`: Không tìm thấy docid
+- ❌ `van-ban/khieu-nai-to-cao.md`: Không tìm thấy docid
+- ❌ `van-ban/khieu-nai-to-cao/khieu-nai.md`: Không tìm thấy docid
+- ❌ `van-ban/khieu-nai-to-cao/phong-chong-tham-nhung.md`: Không tìm thấy docid
+- ❌ `van-ban/khieu-nai-to-cao/thanh-tra.md`: Không tìm thấy docid
+- ❌ `van-ban/khieu-nai-to-cao/tiep-cong-dan.md`: Không tìm thấy docid
+- ⏭️ `van-ban/khieu-nai-to-cao/to-cao.md`: Skipped (known pattern)
+- ❌ `van-ban/khoa-hoc-cong-nghe.md`: Không tìm thấy docid
+- ❌ `van-ban/khoa-hoc-cong-nghe/chat-luong-san-pham-hang-hoa.md`: Không tìm thấy docid
+- ⏭️ `van-ban/khoa-hoc-cong-nghe/chuyen-giao-cong-nghe.md`: Skipped (known pattern)
+- ⏭️ `van-ban/khoa-hoc-cong-nghe/cong-nghe-cao.md`: Skipped (known pattern)
+- ❌ `van-ban/khoa-hoc-cong-nghe/do-luong.md`: Không tìm thấy docid
+- ❌ `van-ban/khoa-hoc-cong-nghe/khoa-hoc-va-cong-nghe.md`: Không tìm thấy docid
+- ⏭️ `van-ban/khoa-hoc-cong-nghe/nang-luong-nguyen-tu.md`: Skipped (known pattern)
+- ❌ `van-ban/khoa-hoc-cong-nghe/so-huu-tri-tue.md`: Không tìm thấy docid
+- ⏭️ `van-ban/khoa-hoc-cong-nghe/tieu-chuan-va-quy-chuan-ky-thuat.md`: Skipped (known pattern)
+- ❌ `van-ban/lao-dong.md`: Không tìm thấy docid
+- ⏭️ `van-ban/lao-dong/an-toan-ve-sinh-lao-dong.md`: Skipped (known pattern)
+- ⏭️ `van-ban/lao-dong/giao-duc-nghe-nghiep.md`: Skipped (known pattern)
+- ❌ `van-ban/lao-dong/lao-dong.md`: Không tìm thấy docid
+- ⏭️ `van-ban/lao-dong/nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong.md`: Skipped (known pattern)
+- ⏭️ `van-ban/lao-dong/viec-lam.md`: Skipped (known pattern)
+- ❌ `van-ban/moi-truong.md`: Không tìm thấy docid
+- ❌ `van-ban/moi-truong/bao-ve-moi-truong.md`: Không tìm thấy docid
+- ❌ `van-ban/moi-truong/da-dang-sinh-hoc.md`: Không tìm thấy docid
+- ❌ `van-ban/ngan-hang-tien-te.md`: Không tìm thấy docid
+- ❌ `van-ban/ngan-hang-tien-te/bao-hiem-tien-gui.md`: Không tìm thấy docid
+- ❌ `van-ban/ngan-hang-tien-te/cac-cong-cu-chuyen-nhuong.md`: Không tìm thấy docid
+- ❌ `van-ban/ngan-hang-tien-te/ngan-hang-nha-nuoc-viet-nam.md`: Không tìm thấy docid
+- ⏭️ `van-ban/ngan-hang-tien-te/ngoai-hoi.md`: Skipped (known pattern)
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/co-quan-dai-dien-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-o-nuoc-ngoai.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua-cac-to-chuc-phi-chinh-phu-nuoc-ngoai-tai-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/dich-quoc-hieu-ten-cac-co-quan-don-vi-va-chuc-danh-lanh-dao-can-bo-cong-chuc-trong-he-thong-hanh-chinh-nha-nuoc-sang-tieng-anh-de-giao-dich-doi-ngoai.md`: Không tìm thấy docid
+- ⏭️ `van-ban/ngoai-giao-dieu-uoc-quoc-te/dieu-uoc-quoc-te.md`: Skipped (known pattern)
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/ham-cap-ngoai-giao.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-dai-dien-cua-cac-to-chuc-hop-tac-nghien-cuu-cua-nuoc-ngoai-tai-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/le-tan-ngoai-giao.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/mot-so-chinh-sach-doi-voi-nguoi-viet-nam-o-nuoc-ngoai.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/quyen-uu-dai-mien-tru-danh-cho-co-quan-dai-dien-ngoai-giao-co-quan-lanh-su-va-co-quan-dai-dien-cua-to-chuc-quoc-te-tai-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/thoa-thuan-quoc-te.md`: Không tìm thấy docid
+- ❌ `van-ban/ngoai-giao-dieu-uoc-quoc-te/to-chuc-quan-ly-hoi-nghi-hoi-thao-quoc-te-tai-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/nong-nghiep-nong-thon.md`: Không tìm thấy docid
+- ❌ `van-ban/nong-nghiep-nong-thon/bao-ve-va-kiem-dich-thuc-vat.md`: Không tìm thấy docid
+- ❌ `van-ban/nong-nghiep-nong-thon/chan-nuoi.md`: Không tìm thấy docid
+- ❌ `van-ban/nong-nghiep-nong-thon/de-dieu.md`: Không tìm thấy docid
+- ❌ `van-ban/nong-nghiep-nong-thon/lam-nghiep.md`: Không tìm thấy docid
+- ❌ `van-ban/nong-nghiep-nong-thon/phat-trien-nganh-nghe-nong-thon.md`: Không tìm thấy docid
+- ⏭️ `van-ban/nong-nghiep-nong-thon/phong-chong-thien-tai.md`: Skipped (known pattern)
+- ❌ `van-ban/nong-nghiep-nong-thon/quan-ly-san-xuat-kinh-doanh-muoi.md`: Không tìm thấy docid
+- ❌ `van-ban/nong-nghiep-nong-thon/thu-y.md`: Không tìm thấy docid
+- ❌ `van-ban/nong-nghiep-nong-thon/thuy-loi.md`: Không tìm thấy docid
+- ⏭️ `van-ban/nong-nghiep-nong-thon/thuy-san.md`: Skipped (known pattern)
+- ⏭️ `van-ban/nong-nghiep-nong-thon/trong-trot.md`: Skipped (known pattern)
+- ❌ `van-ban/quoc-phong.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/bien-phong-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/canh-sat-bien-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/dan-quan-tu-ve.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/giao-duc-quoc-phong-va-an-ninh.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/luc-luong-du-bi-dong-vien.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-bao-ve-to-quoc-lam-nhiem-vu-quoc-te-o-cam-pu-chia-giup-ban-lao-sau-ngay-30-thang-4-nam-1975-co-tu-du-20-nam-tro-len-phuc-vu-trong-quan-doi-cong-an-da-phuc-vien-xuat-ngu-thoi-viec.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/nghia-vu-quan-su.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/quoc-phong.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/si-quan-quan-doi-nhan-dan-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/quoc-phong/thuc-hien-che-do-huu-tri-doi-voi-quan-nhan-truc-tiep-tham-gia-khang-chien-chong-my-cuu-nuoc-tu-ngay-30-thang-4-nam-1975-tro-ve-truoc-co-20-nam-tro-len-phuc-vu-quan-doi-da-phuc-vien-xuat-ngu.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-chinh.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-chinh/gia.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-chinh/hai-quan.md`: Không tìm thấy docid
+- ⏭️ `van-ban/tai-chinh/ngan-sach-nha-nuoc.md`: Skipped (known pattern)
+- ❌ `van-ban/tai-chinh/thuc-hanh-tiet-kiem-chong-lang-phi.md`: Không tìm thấy docid
+- ⏭️ `van-ban/tai-nguyen.md`: Skipped (known pattern)
+- ⏭️ `van-ban/tai-nguyen/do-dac-va-ban-do.md`: Skipped (known pattern)
+- ❌ `van-ban/tai-nguyen/hoat-dong-vien-tham.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-nguyen/khi-tuong-thuy-van.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-nguyen/tai-nguyen-moi-truong-bien-va-hai-dao.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/du-tru-quoc-gia.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-no-cong.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-su-dung-tai-san-cong.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-su-dung-von-nha-nuoc-dau-tu-vao-san-xuat-kinh-doanh-tai-doanh-nghiep.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-va-su-dung-nguon-ho-tro-phat-trien-chinh-thuc-oda-va-nguon-von-vay-uu-dai-cua-cac-nha-tai-tro.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-va-su-dung-vien-tro-khong-hoan-lai-khong-thuoc-ho-tro-phat-trien-chinh-thuc-cua-cac-co-quan-to-chuc-ca-nhan-nuoc-ngoai-danh-cho-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/trung-mua-trung-dung-tai-san.md`: Không tìm thấy docid
+- ❌ `van-ban/thi-hanh-an.md`: Không tìm thấy docid
+- ❌ `van-ban/thi-hanh-an/dac-xa.md`: Không tìm thấy docid
+- ❌ `van-ban/thi-hanh-an/thi-hanh-an-dan-su.md`: Không tìm thấy docid
+- ❌ `van-ban/thi-hanh-an/thi-hanh-an-hinh-su.md`: Không tìm thấy docid
+- ❌ `van-ban/thi-hanh-an/to-chuc-va-hoat-dong-cua-thua-phat-lai.md`: Không tìm thấy docid
+- ❌ `van-ban/thong-ke.md`: Không tìm thấy docid
+- ⏭️ `van-ban/thong-ke/thong-ke.md`: Skipped (known pattern)
+- ❌ `van-ban/thong-tin-bao-chi-xuat-ban.md`: Không tìm thấy docid
+- ❌ `van-ban/thong-tin-bao-chi-xuat-ban/bao-chi.md`: Không tìm thấy docid
+- ❌ `van-ban/thong-tin-bao-chi-xuat-ban/tiep-can-thong-tin.md`: Không tìm thấy docid
+- ⏭️ `van-ban/thong-tin-bao-chi-xuat-ban/xuat-ban.md`: Skipped (known pattern)
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac.md`: Không tìm thấy docid
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/chi-phi-to-tung.md`: Không tìm thấy docid
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/phi-va-le-phi.md`: Không tìm thấy docid
+- ⏭️ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/quan-ly-thue.md`: Skipped (known pattern)
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-bao-ve-moi-truong.md`: Không tìm thấy docid
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-gia-tri-gia-tang.md`: Không tìm thấy docid
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-su-dung-dat-nong-nghiep.md`: Không tìm thấy docid
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-su-dung-dat-phi-nong-nghiep.md`: Không tìm thấy docid
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen.md`: Không tìm thấy docid
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-thu-nhap-ca-nhan.md`: Không tìm thấy docid
+- ⏭️ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-thu-nhap-doanh-nghiep.md`: Skipped (known pattern)
+- ⏭️ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tieu-thu-dac-biet.md`: Skipped (known pattern)
+- ❌ `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-xuat-khau-thue-nhap-khau.md`: Không tìm thấy docid
+- ❌ `van-ban/thuong-mai-dau-tu-chung-khoan.md`: Không tìm thấy docid
+- ❌ `van-ban/thuong-mai-dau-tu-chung-khoan/bao-ve-quyen-loi-nguoi-tieu-dung.md`: Không tìm thấy docid
+- ❌ `van-ban/thuong-mai-dau-tu-chung-khoan/canh-tranh.md`: Không tìm thấy docid
+- ❌ `van-ban/thuong-mai-dau-tu-chung-khoan/chung-khoan.md`: Không tìm thấy docid
+- ❌ `van-ban/thuong-mai-dau-tu-chung-khoan/dau-tu.md`: Không tìm thấy docid
+- ❌ `van-ban/thuong-mai-dau-tu-chung-khoan/quan-ly-ngoai-thuong.md`: Không tìm thấy docid
+- ❌ `van-ban/thuong-mai-dau-tu-chung-khoan/quan-ly-thi-truong.md`: Không tìm thấy docid
+- ❌ `van-ban/thuong-mai-dau-tu-chung-khoan/thuong-mai.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-bo-may-nha-nuoc.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-bo-may-nha-nuoc/bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hoi-dong-nhan-dan.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-bo-may-nha-nuoc/hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-bo-may-nha-nuoc/mat-tran-to-quoc-viet-nam.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-bo-may-nha-nuoc/to-chuc-quoc-hoi.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-bo-may-nha-nuoc/to-chuc-vien-kiem-sat-nhan-dan.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-chinh-tri-xa-hoi-hoi.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-chinh-tri-xa-hoi-hoi/cong-doan.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-chinh-tri-xa-hoi-hoi/cuu-chien-binh.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-chinh-tri-xa-hoi-hoi/hoat-dong-chu-thap-do.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-chinh-tri-xa-hoi-hoi/quyen-lap-hoi-va-to-chuc-hoat-dong-quan-ly-hoi.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-chinh-tri-xa-hoi-hoi/thanh-nien.md`: Không tìm thấy docid
+- ❌ `van-ban/to-chuc-chinh-tri-xa-hoi-hoi/to-chuc-hoat-dong-cua-quy-xa-hoi-quy-tu-thien.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/hoa-giai-doi-thoai-tai-toa-an.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/hoa-giai-o-co-so.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/pha-san.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thi-hanh-tam-giu-tam-giam.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thu-tuc-bat-giu-tau-bay.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thu-tuc-bat-giu-tau-bien.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-chuc-co-quan-dieu-tra-hinh-su.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-dan-su.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-hanh-chinh.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-hinh-su.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/trach-nhiem-boi-thuong-cua-nha-nuoc.md`: Không tìm thấy docid
+- ❌ `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/trong-tai-thuong-mai.md`: Không tìm thấy docid
+- ❌ `van-ban/ton-giao-tin-nguong.md`: Không tìm thấy docid
+- ❌ `van-ban/ton-giao-tin-nguong/tin-nguong-ton-giao.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/canh-sat-co-dong.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/canh-sat-moi-truong.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/chung-minh-nhan-dan.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/cu-tru.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/dieu-kien-ve-an-ninh-trat-tu-doi-voi-mot-so-nganh-nghe-kinh-doanh-co-dieu-kien.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong-cong.md`: Không tìm thấy docid
+- ⏭️ `van-ban/trat-tu-an-toan-xa-hoi/phong-chong-ma-tuy.md`: Skipped (known pattern)
+- ⏭️ `van-ban/trat-tu-an-toan-xa-hoi/quan-ly-su-dung-phao.md`: Skipped (known pattern)
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau.md`: Không tìm thấy docid
+- ❌ `van-ban/trat-tu-an-toan-xa-hoi/xu-ly-vi-pham-hanh-chinh.md`: Không tìm thấy docid
+- ❌ `van-ban/tuong-tro-tu-phap.md`: Không tìm thấy docid
+- ❌ `van-ban/tuong-tro-tu-phap/tuong-tro-tu-phap.md`: Không tìm thấy docid
+- ❌ `van-ban/van-hoa-the-thao-du-lich.md`: Không tìm thấy docid
+- ❌ `van-ban/van-hoa-the-thao-du-lich/cong-bo-pho-bien-tac-pham-ra-nuoc-ngoai.md`: Không tìm thấy docid
+- ⏭️ `van-ban/van-hoa-the-thao-du-lich/dien-anh.md`: Skipped (known pattern)
+- ⏭️ `van-ban/van-hoa-the-thao-du-lich/du-lich.md`: Skipped (known pattern)
+- ⏭️ `van-ban/van-hoa-the-thao-du-lich/hoat-dong-my-thuat.md`: Skipped (known pattern)
+- ⏭️ `van-ban/van-hoa-the-thao-du-lich/hoat-dong-nghe-thuat-bieu-dien.md`: Skipped (known pattern)
+- ❌ `van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-cong.md`: Không tìm thấy docid
+- ⏭️ `van-ban/van-hoa-the-thao-du-lich/nhuan-but-thu-lao-doi-voi-tac-pham-dien-anh-my-thuat-nhiep-anh-san-khau-va-cac-loai-hinh-nghe-thuat-bieu-dien-khac.md`: Skipped (known pattern)
+- ❌ `van-ban/van-hoa-the-thao-du-lich/quang-cao.md`: Không tìm thấy docid
+- ❌ `van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-va-cong-trinh-cong-cong.md`: Không tìm thấy docid
+- ❌ `van-ban/van-hoa-the-thao-du-lich/the-duc-the-thao.md`: Không tìm thấy docid
+- ⏭️ `van-ban/van-hoa-the-thao-du-lich/thu-vien.md`: Skipped (known pattern)
+- ❌ `van-ban/van-hoa-the-thao-du-lich/thuc-hien-nep-song-van-minh-trong-viec-cuoi-viec-tang.md`: Không tìm thấy docid
+- ❌ `van-ban/van-hoa-the-thao-du-lich/to-chuc-le-tang-can-bo-cong-chuc-vien-chuc.md`: Không tìm thấy docid
+- ❌ `van-ban/van-thu-luu-tru.md`: Không tìm thấy docid
+- ❌ `van-ban/van-thu-luu-tru/cong-tac-van-thu.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-nha-o-do-thi.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-nha-o-do-thi/kien-truc.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-nha-o-do-thi/quy-hoach-do-thi.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to-chuc-phap-che.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/hop-nhat-van-ban-quy-pham-phap-luat.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-soat-thu-tuc-hanh-chinh.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-tra-va-xu-ly-van-ban-quy-pham-phap-luat.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/phap-dien-he-thong-quy-pham-phap-luat.md`: Không tìm thấy docid
+- ⏭️ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/pho-bien-giao-duc-phap-luat.md`: Skipped (known pattern)
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/theo-doi-tinh-hinh-thi-hanh-phap-luat.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/thuc-hien-dan-chu-o-co-so.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/thuc-hien-dan-chu-trong-hoat-dong-cua-co-quan-hanh-chinh-nha-nuoc-va-don-vi-su-nghiep-cong-lap.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh.md`: Không tìm thấy docid
+- ❌ `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/trung-cau-y-dan.md`: Không tìm thấy docid
+- ⏭️ `van-ban/y-te-duoc.md`: Skipped (known pattern)
+- ⏭️ `van-ban/y-te-duoc/an-toan-thuc-pham.md`: Skipped (known pattern)
+- ❌ `van-ban/y-te-duoc/bao-ve-suc-khoe-nhan-dan.md`: Không tìm thấy docid
+- ❌ `van-ban/y-te-duoc/co-che-hoat-dong-co-che-tai-chinh-doi-voi-cac-don-vi-su-nghiep-y-te-cong-lap-va-gia-dich-vu-kham-benh-chua-benh-cua-cac-co-so-kham-benh-chua-benh-cong-lap.md`: Không tìm thấy docid
+- ❌ `van-ban/y-te-duoc/dieu-kien-san-xuat-my-pham.md`: Không tìm thấy docid
+- ⏭️ `van-ban/y-te-duoc/duoc.md`: Skipped (known pattern)
+- ❌ `van-ban/y-te-duoc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac.md`: Không tìm thấy docid
+- ⏭️ `van-ban/y-te-duoc/phong-chong-benh-truyen-nhiem.md`: Skipped (known pattern)
+- ❌ `van-ban/y-te-duoc/phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam-mien-dich-mac-phai-o-nguoi.md`: Không tìm thấy docid
+- ❌ `van-ban/y-te-duoc/phong-chong-tac-hai-cua-ruou-bia.md`: Không tìm thấy docid
+- ❌ `van-ban/y-te-duoc/phong-chong-tac-hai-cua-thuoc-la.md`: Không tìm thấy docid
+- ❌ `van-ban/y-te-duoc/quan-ly-trang-thiet-bi-y-te.md`: Không tìm thấy docid
+
+---
+**Summary:** 0 success, 218 fail, 44 skipped
