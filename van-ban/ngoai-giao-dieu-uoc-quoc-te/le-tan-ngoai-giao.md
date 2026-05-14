@@ -9,14 +9,14 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Lễ+tân+ngoại+giao) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Lễ+tân+ngoại+giao) | [LuatVietnam](https://luatvietnam.vn/search?q=Lễ+tân+ngoại+giao) |
+| **Số hiệu** | 18/2022/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Phạm Minh Chính |
+| **Ngày ban hành** | 18/02/2022 |
+| **Ngày hiệu lực** | 01/04/2022 |
+| **Trạng thái** | Còn hiệu lực (thay thế Nghị định 50/2011/NĐ-CP) |
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=205337) |
 
 ---
 
