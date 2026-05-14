@@ -1,0 +1,246 @@
+/* ========================================
+   Tai lieu Phap Luat - Modern CSS
+   docs.diepxuan.com
+   ======================================== */
+
+/* --- Variables --- */
+:root {
+  --color-primary: #1e3a5f;
+  --color-primary-light: #2d4a6f;
+  --color-primary-dark: #0f1f33;
+  --color-accent: #0d9488;
+  --color-accent-light: #14b8a6;
+  --color-accent-dark: #0a7068;
+  --color-bg: #f0f4f8;
+  --color-surface: #ffffff;
+  --color-border: #e2e8f0;
+  --color-text: #1e293b;
+  --color-text-secondary: #64748b;
+  --color-text-muted: #94a3b8;
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1);
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+}
+
+/* --- Reset --- */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  scroll-behavior: smooth;
+}
+
+/* --- Typography --- */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: var(--color-primary);
+  line-height: 1.3;
+}
+h1 { font-size: 2.5rem; margin: 0 0 1.5rem; }
+h2 { font-size: 1.75rem; margin: 2rem 0 1rem; }
+h3 { font-size: 1.25rem; margin: 1.5rem 0 0.75rem; }
+h4 { font-size: 1.1rem; margin: 1.25rem 0 0.5rem; }
+a { color: var(--color-accent); text-decoration: none; }
+a:hover { color: var(--color-accent-dark); text-decoration: underline; }
+p { margin: 0.75rem 0; }
+ul, ol { padding-left: 1.5rem; margin: 0.75rem 0; }
+li { margin: 0.4rem 0; }
+
+/* --- Layout --- */
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  flex: 1;
+}
+.content {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+}
+
+/* --- Category Grid (van-ban/index) --- */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+.category-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+  color: var(--color-text);
+}
+.category-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--color-accent);
+  text-decoration: none;
+  color: var(--color-text);
+}
+.category-icon {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1.25rem;
+  line-height: 1;
+  font-weight: 700;
+}
+.category-info { flex: 1; min-width: 0; }
+.category-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 0.25rem;
+  line-height: 1.4;
+}
+.category-count {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+/* --- Metadata Table --- */
+.meta-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.9rem;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+.meta-table th, .meta-table td {
+  padding: 0.65rem 0.9rem;
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+  vertical-align: top;
+}
+.meta-table th {
+  background: var(--color-bg);
+  color: var(--color-primary);
+  font-weight: 600;
+  white-space: nowrap;
+  width: 160px;
+}
+.meta-table tr:last-child td { border-bottom: none; }
+
+/* --- Tables --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+th, td {
+  padding: 0.75rem;
+  border: 1px solid var(--color-border);
+  text-align: left;
+}
+th { background: var(--color-bg); font-weight: 600; color: var(--color-primary); }
+tr:nth-child(even) { background: #fafafa; }
+
+/* --- Code --- */
+pre, code {
+  background: var(--color-bg);
+  border-radius: var(--radius-sm);
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.875rem;
+}
+pre { padding: 1rem; overflow-x: auto; margin: 1rem 0; }
+code { padding: 0.15rem 0.4rem; }
+
+/* --- Footer --- */
+footer {
+  background: var(--color-primary-dark);
+  color: white;
+  padding: 2rem 1.5rem;
+  margin-top: auto;
+}
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.footer-links { display: flex; gap: 1.5rem; }
+.footer-links a { color: #94a3b8; }
+.footer-links a:hover { color: white; }
+.copyright { color: #64748b; font-size: 0.85rem; }
+
+/* --- Post Previews (news/posts) --- */
+.post-preview {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  background: white;
+  transition: box-shadow 0.2s;
+}
+.post-preview:hover { box-shadow: var(--shadow-md); }
+.post-preview h3 { margin-top: 0; }
+.post-meta { color: var(--color-text-muted); font-size: 0.85rem; margin-bottom: 0.75rem; }
+.post-excerpt { color: var(--color-text-secondary); margin-bottom: 1rem; }
+.read-more {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1.5px solid var(--color-accent);
+  border-radius: var(--radius-sm);
+  color: var(--color-accent);
+  font-weight: 500;
+  transition: background 0.2s, color 0.2s;
+}
+.read-more:hover {
+  background: var(--color-accent);
+  color: white;
+  text-decoration: none;
+}
+
+/* --- Posts Table --- */
+.posts-table { overflow-x: auto; margin: 1.5rem 0; }
+.posts-table table {
+  background: white;
+  box-shadow: var(--shadow-sm);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+.posts-table tr:hover { background: var(--color-bg) !important; }
+.posts-table a { color: var(--color-primary); }
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .container { padding: 1rem; }
+  .content { padding: 1.25rem; border-radius: var(--radius-md); }
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.4rem; }
+  .category-grid { grid-template-columns: 1fr; }
+  .footer-content { flex-direction: column; text-align: center; }
+  .footer-links { flex-wrap: wrap; justify-content: center; gap: 1rem; }
+  .meta-table { font-size: 0.85rem; }
+  .meta-table th { width: 130px; }
+}
