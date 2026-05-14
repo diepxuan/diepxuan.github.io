@@ -1,4 +1,17 @@
+---
+layout: page
+title: Theo dõi pháp luật mới
+permalink: /documents/LEGISLATION_TRACKING/
+description: Backlog văn bản pháp luật mới phát hiện từ nguồn chính thức để ưu tiên cập nhật website.
+---
+
 # Báo cáo theo dõi pháp luật mới - 2026-05-14
+
+<div class="grid grid-3" style="margin: 1.5rem 0;">
+  <div class="stat"><strong>18</strong><span>Văn bản mới đáng chú ý</span></div>
+  <div class="stat"><strong>4</strong><span>Nhóm ưu tiên cập nhật</span></div>
+  <div class="stat"><strong>Chính phủ</strong><span>Nguồn crawl ưu tiên</span></div>
+</div>
 
 ## Mục đích
 

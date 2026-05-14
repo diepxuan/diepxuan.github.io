@@ -4,45 +4,40 @@ title: Tin tức
 permalink: /news/
 ---
 
-<h1>Tin tức Kỹ thuật & Bài viết</h1>
-<p>Cập nhật mới nhất, hướng dẫn và tài liệu kỹ thuật từ đội ngũ Điệp Xuân.</p>
+# Tin tức kỹ thuật và bài viết
 
-<h2>📰 Bài viết gần đây</h2>
+Cập nhật hướng dẫn, ghi chú vận hành và tài liệu kỹ thuật từ hệ thống Điệp Xuân.
+
+<div class="grid grid-3" style="margin: 1.5rem 0;">
+  <div class="card">
+    <span class="badge">Mạng</span>
+    <h3>Mạng và truy cập</h3>
+    <p>Cấu hình MikroTik, VPN, DDNS, WireGuard và bảo mật mạng.</p>
+  </div>
+  <div class="card">
+    <span class="badge">Hệ thống</span>
+    <h3>Quản trị hệ thống</h3>
+    <p>Windows, Proxmox, máy chủ, lưu trữ và quy trình vận hành.</p>
+  </div>
+  <div class="card">
+    <span class="badge">Phát triển</span>
+    <h3>Công cụ phát triển</h3>
+    <p>Ghi chú workflow, tài liệu kỹ thuật và thực hành tốt.</p>
+  </div>
+</div>
+
+## Bài viết gần đây
 
 {% for post in site.posts %}
-<div class="post-preview">
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p class="post-meta">{{ post.date | date: "%d %B, %Y" }}</p>
-  <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-  <a href="{{ post.url }}" class="read-more">Đọc thêm →</a>
+<div class="card" style="margin-bottom: 1rem;">
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  <p class="footer-muted">{{ post.date | date: "%d-%m-%Y" }}</p>
+  <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+  <a class="button button-secondary" style="color: var(--primary); border-color: var(--border);" href="{{ post.url | relative_url }}">Đọc thêm</a>
 </div>
 {% endfor %}
 
-<h2>📁 Danh mục</h2>
-
-<h3>Mạng</h3>
-<ul>
-  <li>Cấu hình MikroTik</li>
-  <li>VPN và truy cập từ xa</li>
-  <li>Bảo mật mạng</li>
-</ul>
-
-<h3>Quản trị Hệ thống</h3>
-<ul>
-  <li>Cập nhật và quản lý Windows</li>
-  <li>Ảo hóa Proxmox</li>
-  <li>Bảo trì máy chủ</li>
-</ul>
-
-<h3>Phát triển</h3>
-<ul>
-  <li>Công cụ và quy trình làm việc</li>
-  <li>Thực hành tốt nhất</li>
-  <li>Hướng dẫn kỹ thuật</li>
-</ul>
-
-<h2>🔍 Tìm kiếm Bài viết</h2>
-<p>Duyệt theo danh mục hoặc sử dụng bảng mục lục bên dưới:</p>
+## Bảng bài viết
 
 <div class="posts-table">
   <table>
@@ -56,7 +51,7 @@ permalink: /news/
     <tbody>
       {% for post in site.posts %}
       <tr>
-        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+        <td><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
         <td>{{ post.date | date: "%d-%m-%Y" }}</td>
         <td>{{ post.categories | join: ", " }}</td>
       </tr>
@@ -65,23 +60,9 @@ permalink: /news/
   </table>
 </div>
 
-<h2>📝 Đóng góp</h2>
-<p>Muốn đóng góp một bài viết?</p>
+## Đóng góp
 
-<ol>
-  <li>Fork <a href="https://github.com/diepxuan/diepxuan.github.io">repository</a></li>
-  <li>Thêm bài viết của bạn vào thư mục <code>_posts/</code></li>
-  <li>Theo quy ước đặt tên: <code>YYYY-MM-DD-tiêu-đề.md</code></li>
-  <li>Gửi pull request</li>
-</ol>
-
-<h2>📬 Cập nhật</h2>
-<ul>
-  <li>Kiểm tra trang này thường xuyên cho các bài viết mới</li>
-  <li>Theo dõi cập nhật repository trên GitHub</li>
-  <li>Liên hệ tác giả cho các câu hỏi cụ thể</li>
-</ul>
-
-<hr>
-
-<p><em>Lưu trữ tin tức - Tất cả tài liệu và hướng dẫn kỹ thuật</em></p>
+1. Fork repository `diepxuan/diepxuan.github.io`.
+2. Thêm bài viết vào thư mục `_posts/`.
+3. Theo quy ước đặt tên `YYYY-MM-DD-tieu-de.md`.
+4. Gửi pull request để review.
