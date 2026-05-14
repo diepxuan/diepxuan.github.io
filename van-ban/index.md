@@ -102,7 +102,6 @@ Tong cong **286 van ban** phap luat Vietnamese, duoc phan loai theo 41 chu de.
     {icon:'b', name:'Tai nguyen', href:'/van-ban/tai-nguyen/', n:4},
     {icon:'c', name:'Tai san cong, no cong, du tru nha nuoc', href:'/van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/', n:7},
     {icon:'d', name:'Thi dua, khen thuong', href:'/van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/', n:0},
-    {icon:'e', name:'Buu chinh, vien thong (nhap)', href:'/van-ban/buu-chinh-vien-thong/', n:5},
     {icon:'f', name:'Thi hanh an', href:'/van-ban/thi-hanh-an/', n:4},
     {icon:'g', name:'Thong ke', href:'/van-ban/thong-ke/', n:1},
     {icon:'h', name:'Thong tin, bao chi, xuat ban', href:'/van-ban/thong-tin-bao-chi-xuat-ban/', n:4},
@@ -120,7 +119,7 @@ Tong cong **286 van ban** phap luat Vietnamese, duoc phan loai theo 41 chu de.
     {icon:'t', name:'Xay dung phap luat va thi hanh phap luat', href:'/van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/', n:11},
     {icon:'u', name:'Y te, duoc', href:'/van-ban/y-te-duoc/', n:11},
   ];
-  const grid = document.querySelector('.vb-grid');
+  const grid = document.querySelector('.category-grid');
   if (grid) {
     groups.filter(g=>g.n>0).forEach(g=>{
       const card = document.createElement('a');
