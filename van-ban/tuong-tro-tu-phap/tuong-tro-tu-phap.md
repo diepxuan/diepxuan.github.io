@@ -9,14 +9,14 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Tương+trợ+tư+pháp) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Tương+trợ+tư+pháp) | [LuatVietnam](https://luatvietnam.vn/search?q=Tương+trợ+tư+pháp) |
+| **Số hiệu** | 08/2007/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** |  |
+| **Ngày ban hành** | 21/11/2007 |
+| **Ngày hiệu lực** | 01/07/2008 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=75251) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Tương+trợ+tư+pháp) | [LuatVietnam](https://luatvietnam.vn/search?q=Tương+trợ+tư+pháp) |
 
 ---
 
@@ -2244,663 +2244,498 @@ Trong quá trình thực hiện Thông tư liên tịch này, nếu có vướng
 
 ## Danh sách điều khoản
 
-### 40001000000000001000
 
 Chương I NHỮNG QUY ĐỊNH CHUNG
 
-### 4000100000000000100000000000000000000000
 
 Điều 40.1.LQ.1. Phạm vi điều chỉnh
 
-### 4000100000000000100000200000000000000000
 
 Điều 40.1.LQ.2. Đối tượng áp dụng
 
-### 4000100000000000100000228640000000000000
 
 Điều 40.1.LQ.3. Áp dụng pháp luật
 
-### 400010000000000010000022864000000000000000802598000120000400
 
 Điều 40.1.TL.3.4. Áp dụng pháp luật nước ngoài trong tương trợ tư pháp về dân sự
 
-### 4000100000000000100000240230000092000010
 
 Điều 40.1.NĐ.1.1. Phạm vi điều chỉnh
 
-### 4000100000000000100000280244740144000010
 
 Điều 40.1.TT.1.1. Phạm vi, đối tượng điều chỉnh
 
-### 4000100000000000100000280246450001000010
 
 Điều 40.1.TL.1.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-### 4000100000000000100000280246450001000030
 
 Điều 40.1.TL.1.3. Giải thích từ ngữ
 
-### 4000100000000000100000280248200002000010
 
 Điều 40.1.TL.2.1. Phạm vi điều chỉnh
 
-### 4000100000000000100000280259800012000010
 
 Điều 40.1.TL.3.1. Phạm vi điều chỉnh
 
-### 4000100000000000100000280259800012000020
 
 Điều 40.1.TL.3.2. Đối tượng áp dụng
 
-### 4000100000000000100000280259800012000030
 
 Điều 40.1.TL.3.3. Giải thích từ ngữ
 
-### 4000100000000000100000300000000000000000
 
 Điều 40.1.LQ.4. Nguyên tắc tương trợ tư pháp
 
-### 400010000000000010000030000000000000000000402300000920000200
 
 Điều 40.1.NĐ.1.2. Nguyên tắc trả chi phí thực hiện tương trợ tư pháp
 
-### 400010000000000010000030000000000000000000402300000920000500
 
 Điều 40.1.NĐ.1.5. Bảo đảm kinh phí của nhà nước thực hiện tương trợ tư pháp
 
-### 40001000000000001000003000000000000000000040230000092000050000802447401440000200
 
 Điều 40.1.TT.1.2. Nguồn kinh phí thực hiện công tác tương trợ tư pháp
 
-### 40001000000000001000003000000000000000000040230000092000050000802447401440000300
 
 Điều 40.1.TT.1.3. Nội dung chi hỗ trợ công tác tương trợ tư pháp
 
-### 40001000000000001000003000000000000000000040230000092000050000802447401440000400
 
 Điều 40.1.TT.1.4. Mức chi hỗ trợ công tác tương trợ tư pháp
 
-### 40001000000000001000003000000000000000000040230000092000050000802447401440000500
 
 Điều 40.1.TT.1.5. Lập dự toán, quản lý, sử dụng và quyết toán kinh phí bảo đảm công tác tương trợ tư pháp
 
-### 400010000000000010000030000000000000000000802464500010000200
 
 Điều 40.1.TL.1.2. Nguyên tắc tiếp nhận, chuyển giao
 
-### 400010000000000010000030000000000000000000802598000120000500
 
 Điều 40.1.TL.3.5. Áp dụng nguyên tắc có đi có lại trong tương trợ tư pháp về dân sự
 
-### 4000100000000000100000500000000000000000
 
 Điều 40.1.LQ.5. Ngôn ngữ trong tương trợ tư pháp
 
-### 4000100000000000100000600000000000000000
 
 Điều 40.1.LQ.6. Uỷ thác tư pháp và hình thức thực hiện tương trợ tư pháp
 
-### 4000100000000000100000700000000000000000
 
 Điều 40.1.LQ.7. Hợp pháp hóa lãnh sự và việc công nhận giấy tờ, tài liệu ủy thác tư pháp
 
-### 4000100000000000100000800000000000000000
 
 Điều 40.1.LQ.8. Triệu tập và bảo vệ người làm chứng, người giám định
 
-### 4000100000000000100000900000000000000000
 
 Điều 40.1.LQ.9. Việc giao nhận tài liệu, đồ vật và tiền
 
-### 40001000000000002000
 
 Chương II TƯƠNG TRỢ TƯ PHÁP VỀ DÂN SỰ
 
-### 4000100000000000200001000000000000000000
 
 Điều 40.1.LQ.10. Phạm vi tương trợ tư pháp về dân sự
 
-### 4000100000000000200001100000000000000000
 
 Điều 40.1.LQ.11. Hồ sơ ủy thác tư pháp về dân sự
 
-### 4000100000000000200001112890000000000000
 
 Điều 40.1.LQ.12. Văn bản ủy thác tư pháp về dân sự
 
-### 4000100000000000200001124970000000000000
 
 Điều 40.1.LQ.13. Yêu cầu nước ngoài tương trợ tư pháp về dân sự
 
-### 4000100000000000200001136300000000000000
 
 Điều 40.1.LQ.14. Thủ tục yêu cầu nước ngoài tương trợ tư pháp về dân sự
 
-### 400010000000000020000113630000000000000000802598000120001000
 
 Điều 40.1.TL.3.10. Thẩm quyền yêu cầu ủy thác tư pháp của Việt Nam
 
-### 400010000000000020000113630000000000000000802598000120001100
 
 Điều 40.1.TL.3.11. Hồ sơ ủy thác tư pháp của Việt Nam
 
-### 400010000000000020000113630000000000000000802598000120001200
 
 Điều 40.1.TL.3.12. Điều kiện hợp lệ của hồ sơ ủy thác tư pháp của Việt Nam
 
-### 400010000000000020000113630000000000000000802598000120001300
 
 Điều 40.1.TL.3.13. Trình tự, thủ tục nhận và gửi hồ sơ ủy thác tư pháp của Việt Nam tại Bộ Tư pháp
 
-### 400010000000000020000113630000000000000000802598000120001400
 
 Điều 40.1.TL.3.14. Trình tự, thủ tục nhận và gửi hồ sơ ủy thác tư pháp của Việt Nam tại Bộ Ngoại giao và cơ quan đại diện của Việt Nam ở nước ngoài
 
-### 400010000000000020000113630000000000000000802598000120001500
 
 Điều 40.1.TL.3.15. Thông báo kết quả, tiến độ thực hiện ủy thác tư pháp của Việt Nam
 
-### 400010000000000020000113630000000000000000802598000120001600
 
 Điều 40.1.TL.3.16. Xử lý kết quả ủy thác tư pháp tại các cơ quan có thẩm quyền yêu cầu ủy thác tư pháp của Việt Nam
 
-### 4000100000000000200001306250000000000000
 
 Điều 40.1.LQ.15. Thủ tục tiếp nhận và xử lý ủy thác tư pháp về dân sự của nước ngoài
 
-### 400010000000000020000130625000000000000000802598000120001700
 
 Điều 40.1.TL.3.17. Thẩm quyền thực hiện ủy thác tư pháp của nước ngoài
 
-### 400010000000000020000130625000000000000000802598000120001800
 
 Điều 40.1.TL.3.18. Hồ sơ ủy thác tư pháp của nước ngoài
 
-### 400010000000000020000130625000000000000000802598000120001900
 
 Điều 40.1.TL.3.19. Nhận và kiểm tra tính hợp lệ của hồ sơ ủy thác tư pháp của nước ngoài
 
-### 400010000000000020000130625000000000000000802598000120002000
 
 Điều 40.1.TL.3.20. Trình tự, thủ tục và thời hạn thực hiện ủy thác tư pháp của nước ngoài
 
-### 400010000000000020000130625000000000000000802598000120002100
 
 Điều 40.1.TL.3.21. Trình tự, thủ tục và thời hạn thông báo kết quả thực hiện ủy thác tư pháp của nước ngoài
 
-### 4000100000000000200001600000000000000000
 
 Điều 40.1.LQ.16. Chi phí thực hiện tương trợ tư pháp về dân sự
 
-### 400010000000000020000160000000000000000000402300000920000300
 
 Điều 40.1.NĐ.1.3. Quản lý và sử dụng chi phí thực hiện tương trợ tư pháp về dân sự
 
-### 400010000000000020000160000000000000000000402300000920000400
 
 Điều 40.1.NĐ.1.4. Hỗ trợ chi phí thực hiện ủy thác tư pháp về dân sự
 
-### 40001000000000002000016000000000000000000040230000092000040000802598000120000600
 
 Điều 40.1.TL.3.6. Chi phí thực hiện ủy thác tư pháp về dân sự
 
-### 40001000000000002000016000000000000000000040230000092000040000802598000120000700
 
 Điều 40.1.TL.3.7. Thu, nộp chi phí thực tế thực hiện ủy thác tư pháp của Việt Nam
 
-### 40001000000000002000016000000000000000000040230000092000040000802598000120000800
 
 Điều 40.1.TL.3.8. Trình tự chuyển và thanh toán tạm ứng chi phí thực tế thực thiện uỷ thác tư pháp của Việt Nam
 
-### 40001000000000002000016000000000000000000040230000092000040000802598000120000900
 
 Điều 40.1.TL.3.9. Thu, nộp chi phí thực tế thực hiện ủy thác tư pháp của nước ngoài
 
-### 40001000000000003000
 
 Chương III TƯƠNG TRỢ TƯ PHÁP VỀ HÌNH SỰ
 
-### 4000100000000000300001700000000000000000
 
 Điều 40.1.LQ.17. Phạm vi tương trợ tư pháp về hình sự
 
-### 4000100000000000300001800000000000000000
 
 Điều 40.1.LQ.18. Hồ sơ ủy thác tư pháp về hình sự
 
-### 4000100000000000300001900000000000000000
 
 Điều 40.1.LQ.19. Văn bản ủy thác tư pháp về hình sự
 
-### 4000100000000000300002000000000000000000
 
 Điều 40.1.LQ.20. Yêu cầu nước ngoài tương trợ tư pháp về hình sự
 
-### 4000100000000000300002100000000000000000
 
 Điều 40.1.LQ.21. Từ chối hoặc hoãn thực hiện ủy thác tư pháp về hình sự của nước ngoài
 
-### 4000100000000000300002200000000000000000
 
 Điều 40.1.LQ.22. Thủ tục ủy thác tư pháp về hình sự cho nước ngoài
 
-### 4000100000000000300002300000000000000000
 
 Điều 40.1.LQ.23. Thủ tục tiếp nhận và xử lý ủy thác tư pháp về hình sự của nước ngoài
 
-### 4000100000000000300002400000000000000000
 
 Điều 40.1.LQ.24. Tống đạt giấy triệu tập người làm chứng, người giám định
 
-### 4000100000000000300002500000000000000000
 
 Điều 40.1.LQ.25. Dẫn giải người đang chấp hành hình phạt tù để cung cấp chứng cứ
 
-### 4000100000000000300002600000000000000000
 
 Điều 40.1.LQ.26. Cung cấp thông tin
 
-### 4000100000000000300002700000000000000000
 
 Điều 40.1.LQ.27. Việc sử dụng thông tin, chứng cứ trong tương trợ tư pháp về hình sự
 
-### 4000100000000000300002800000000000000000
 
 Điều 40.1.LQ.28. Yêu cầu truy cứu trách nhiệm hình sự; giao hồ sơ, vật chứng của vụ án cho nước ngoài
 
-### 400010000000000030000280000000000000000000802482000020000200
 
 Điều 40.1.TL.2.2. Điều kiện tiếp nhận, chuyển giao hồ sơ, vật chứng
 
-### 400010000000000030000280000000000000000000802482000020000300
 
 Điều 40.1.TL.2.3. Nguyên tắc chuyển giao hồ sơ, vật chứng
 
-### 400010000000000030000280000000000000000000802482000020000400
 
 Điều 40.1.TL.2.4. Áp dụng nguyên tắc có đi có lại
 
-### 400010000000000030000280000000000000000000802482000020000500
 
 Điều 40.1.TL.2.5. Lập hồ sơ yêu cầu nước ngoài tiếp tục truy cứu trách nhiệm hình sự đối với người phạm tội
 
-### 400010000000000030000280000000000000000000802482000020000600
 
 Điều 40.1.TL.2.6. Xử lý vụ án có đồng phạm đang bị điều tra, truy tố hoặc xét xử tại Việt Nam
 
-### 400010000000000030000280000000000000000000802482000020000700
 
 Điều 40.1.TL.2.7. Hình thức chuyển hồ sơ đến Viện kiểm sát nhân dân tối cao
 
-### 400010000000000030000280000000000000000000802482000020000800
 
 Điều 40.1.TL.2.8. Trách nhiệm của Viện kiểm sát nhân dân tối cao trong việc tiếp nhận, xử lý hồ sơ
 
-### 400010000000000030000280000000000000000000802482000020000900
 
 Điều 40.1.TL.2.9. Việc tiếp nhận, chuyển giao vật chứng giữa các cơ quan có thẩm quyền của Việt Nam
 
-### 400010000000000030000280000000000000000000802482000020001000
 
 Điều 40.1.TL.2.10. Trách nhiệm liên hệ, chuyển giao hồ sơ, vật chứng cho nước ngoài
 
-### 400010000000000030000280000000000000000000802482000020001100
 
 Điều 40.1.TL.2.11. Thủ tục chuyển giao vật chứng cho nước ngoài
 
-### 400010000000000030000280000000000000000000802482000020001200
 
 Điều 40.1.TL.2.12. Hình thức chuyển giao hồ sơ, vật chứng cho nước ngoài
 
-### 400010000000000030000280000000000000000000802482000020001300
 
 Điều 40.1.TL.2.13. Chi phí chuyển giao hồ sơ, vật chứng cho nước ngoài
 
-### 4000100000000000300002900000000000000000
 
 Điều 40.1.LQ.29. Xử lý yêu cầu của nước ngoài về truy cứu trách nhiệm hình sự công dân Việt Nam tại Việt Nam
 
-### 4000100000000000300003000000000000000000
 
 Điều 40.1.LQ.30. Thực hiện ủy thác tư pháp của nước ngoài về điều tra đối với công dân nước ngoài tại Việt Nam
 
-### 4000100000000000300003100000000000000000
 
 Điều 40.1.LQ.31. Chi phí thực hiện tương trợ tư pháp về hình sự
 
-### 40001000000000004000
 
 Chương IV DẪN ĐỘ
 
-### 4000100000000000400003200000000000000000
 
 Điều 40.1.LQ.32. Dẫn độ để truy cứu trách nhiệm hình sự hoặc thi hành án
 
-### 4000100000000000400003300000000000000000
 
 Điều 40.1.LQ.33. Trường hợp bị dẫn độ
 
-### 4000100000000000400003400000000000000000
 
 Điều 40.1.LQ.34. Không truy cứu trách nhiệm hình sự, dẫn độ cho nước thứ ba
 
-### 4000100000000000400003500000000000000000
 
 Điều 40.1.LQ.35. Từ chối dẫn độ cho nước ngoài
 
-### 4000100000000000400003600000000000000000
 
 Điều 40.1.LQ.36. Hồ sơ yêu cầu dẫn độ
 
-### 4000100000000000400003700000000000000000
 
 Điều 40.1.LQ.37. Văn bản yêu cầu dẫn độ và tài liệu kèm theo
 
-### 4000100000000000400003800000000000000000
 
 Điều 40.1.LQ.38. Tiếp nhận yêu cầu dẫn độ
 
-### 4000100000000000400003900000000000000000
 
 Điều 40.1.LQ.39. Xem xét yêu cầu dẫn độ của nhiều nước đối với một người
 
-### 4000100000000000400004000000000000000000
 
 Điều 40.1.LQ.40. Quyết định dẫn độ
 
-### 4000100000000000400004100000000000000000
 
 Điều 40.1.LQ.41. Các biện pháp ngăn chặn để dẫn độ
 
-### 4000100000000000400004200000000000000000
 
 Điều 40.1.LQ.42. Thi hành quyết định dẫn độ
 
-### 4000100000000000400004300000000000000000
 
 Điều 40.1.LQ.43. Áp giải người bị dẫn độ
 
-### 4000100000000000400004400000000000000000
 
 Điều 40.1.LQ.44. Hoãn thi hành quyết định dẫn độ và dẫn độ tạm thời
 
-### 4000100000000000400004500000000000000000
 
 Điều 40.1.LQ.45. Dẫn độ lại
 
-### 4000100000000000400004600000000000000000
 
 Điều 40.1.LQ.46. Chuyển giao đồ vật, vật chứng liên quan đến vụ án
 
-### 4000100000000000400004700000000000000000
 
 Điều 40.1.LQ.47. Quá cảnh
 
-### 4000100000000000400004800000000000000000
 
 Điều 40.1.LQ.48. Chi phí về dẫn độ
 
-### 40001000000000005000
 
 Chương V CHUYỂN GIAO NGƯỜI ĐANG CHẤP HÀNH HÌNH PHẠT TÙ
 
-### 4000100000000000500004900000000000000000
 
 Điều 40.1.LQ.49. Căn cứ chuyển giao người đang chấp hành hình phạt tù
 
-### 4000100000000000500005000000000000000000
 
 Điều 40.1.LQ.50. Điều kiện tiếp nhận, chuyển giao người đang chấp hành hình phạt tù
 
-### 400010000000000050000500000000000000000000802464500010000600
 
 Điều 40.1.TL.1.6. Điều kiện tiếp nhận người đang chấp hành án phạt tù
 
-### 400010000000000050000500000000000000000000802464500010000800
 
 Điều 40.1.TL.1.8. Xác định quốc tịch Việt Nam của người đang chấp hành án phạt tù
 
-### 400010000000000050000500000000000000000000802464500010001000
 
 Điều 40.1.TL.1.10. Xác minh sự đồng ý của người được chuyển giao
 
-### 400010000000000050000500000000000000000000802464500010001200
 
 Điều 40.1.TL.1.12. Thông báo về quyền được yêu cầu chuyển giao
 
-### 400010000000000050000500000000000000000000802464500010001400
 
 Điều 40.1.TL.1.14. Xác định sự đồng ý chuyển giao của người đang chấp hành án phạt tù
 
-### 400010000000000050000500000000000000000000802464500010001500
 
 Điều 40.1.TL.1.15. Trình tự, thủ tục xem xét quyết định chuyển giao, từ chối chuyển giao
 
-### 4000100000000000500005100000000000000000
 
 Điều 40.1.LQ.51. Từ chối chuyển giao người đang chấp hành hình phạt tù
 
-### 4000100000000000500005200000000000000000
 
 Điều 40.1.LQ.52. Hồ sơ yêu cầu chuyển giao người đang chấp hành hình phạt tù
 
-### 400010000000000050000520000000000000000000802464500010000700
 
 Điều 40.1.TL.1.7. Hồ sơ đề nghị tiếp nhận chuyển giao
 
-### 400010000000000050000520000000000000000000802464500010001300
 
 Điều 40.1.TL.1.13. Hồ sơ yêu cầu chuyển giao
 
-### 4000100000000000500005300000000000000000
 
 Điều 40.1.LQ.53. Văn bản yêu cầu chuyển giao người đang chấp hành hình phạt tù và tài liệu kèm theo
 
-### 4000100000000000500005400000000000000000
 
 Điều 40.1.LQ.54. Tiếp nhận yêu cầu chuyển giao người đang chấp hành hình phạt tù
 
-### 400010000000000050000540000000000000000000802464500010000500
 
 Điều 40.1.TL.1.5. Tiếp nhận, chuyển giao theo nguyên tắc “có đi có lại”
 
-### 400010000000000050000540000000000000000000802464500010000900
 
 Điều 40.1.TL.1.9. Trình tự, thủ tục nhận yêu cầu chuyển giao; xem xét, quyết định việc tiếp nhận
 
-### 4000100000000000500005500000000000000000
 
 Điều 40.1.LQ.55. Quyết định chuyển giao người đang chấp hành hình phạt tù tại Việt Nam cho nước ngoài
 
-### 400010000000000050000550000000000000000000802464500010001600
 
 Điều 40.1.TL.1.16. Quyết định bảo lưu bản án, quyết định của Tòa án nước Cộng hòa xã hội chủ nghĩa Việt Nam
 
-### 4000100000000000500005600000000000000000
 
 Điều 40.1.LQ.56. Thẩm quyền quyết định tiếp nhận người đang chấp hành hình phạt tù ở nước ngoài về Việt Nam
 
-### 4000100000000000500005700000000000000000
 
 Điều 40.1.LQ.57. Thi hành quyết định chuyển giao người đang chấp hành hình phạt tù
 
-### 400010000000000050000570000000000000000000802464500010001100
 
 Điều 40.1.TL.1.11. Tổ chức tiếp nhận người đang chấp hành án phạt tù
 
-### 400010000000000050000570000000000000000000802464500010001700
 
 Điều 40.1.TL.1.17. Thực hiện việc chuyển giao
 
-### 4000100000000000500005800000000000000000
 
 Điều 40.1.LQ.58. Tiếp tục chấp hành hình phạt tại Việt Nam
 
-### 400010000000000050000580000000000000000000802464500010001800
 
 Điều 40.1.TL.1.18. Thông báo về việc giảm thời hạn chấp hành án phạt tù, đặc xá, đại xá cho người đang chấp hành án phạt tù đã được chuyển giao
 
-### 400010000000000050000580000000000000000000802464500010001900
 
 Điều 40.1.TL.1.19. Chuyển đổi hình phạt
 
-### 400010000000000050000580000000000000000000802464500010002000
 
 Điều 40.1.TL.1.20. Thực hiện chế độ đối với người đang chấp hành án phạt tù được chuyển giao về Việt Nam
 
-### 400010000000000050000580000000000000000000802464500010002100
 
 Điều 40.1.TL.1.21. Thông báo về tình hình chấp hành án của người đang chấp hành án phạt tù
 
-### 400010000000000050000580000000000000000000802464500010002200
 
 Điều 40.1.TL.1.22. Thực hiện quyết định đặc xá hoặc giảm thời hạn chấp hành án phạt tù của nước chuyển giao đối với người đang chấp hành án phạt tù
 
-### 4000100000000000500005900000000000000000
 
 Điều 40.1.LQ.59. Áp giải người được chuyển giao
 
-### 4000100000000000500006000000000000000000
 
 Điều 40.1.LQ.60. Chi phí về chuyển giao người đang chấp hành hình phạt tù
 
-### 40001000000000006000
 
 Chương VI TRÁCH NHIỆM CỦA CÁC CƠ QUAN NHÀ NƯỚC TRONG HOẠT ĐỘNG TƯƠNG TRỢ TƯ PHÁP
 
-### 4000100000000000600006100000000000000000
 
 Điều 40.1.LQ.61. Trách nhiệm của Chính phủ trong hoạt động tương trợ tư pháp
 
-### 4000100000000000600006200000000000000000
 
 Điều 40.1.LQ.62. Trách nhiệm của Bộ Tư pháp
 
-### 400010000000000060000620000000000000000000402300000920000600
 
 Điều 40.1.NĐ.1.6. Nhiệm vụ và quyền hạn của Bộ Tư pháp trong hoạt động tương trợ tư pháp
 
-### 400010000000000060000620000000000000000000402300000920000800
 
 Điều 40.1.NĐ.1.8. Báo cáo Chính phủ, Quốc hội về hoạt động tương trợ tư pháp
 
-### 400010000000000060000620000000000000000000402300000920000900
 
 Điều 40.1.NĐ.1.9. Họp liên ngành định kỳ
 
-### 400010000000000060000620000000000000000000802482000020001700
 
 Điều 40.1.TL.2.17. Trách nhiệm của Bộ Tư pháp
 
-### 400010000000000060000620000000000000000000802598000120002200
 
 Điều 40.1.TL.3.22. Trách nhiệm của Bộ Tư pháp
 
-### 400010000000000060000620000000000000000000802598000120002500
 
 Điều 40.1.TL.3.25. Trách nhiệm của cơ quan, tổ chức có thẩm quyền của Việt Nam trong hoạt động tương trợ tư pháp về dân sự
 
-### 4000100000000000600006300000000000000000
 
 Điều 40.1.LQ.63. Trách nhiệm của Tòa án nhân dân tối cao
 
-### 400010000000000060000630000000000000000000402300000920000700
 
 Điều 40.1.NĐ.1.7. Thông báo về tình hình thực hiện hoạt động tương trợ tư pháp
 
-### 400010000000000060000630000000000000000000802482000020001500
 
 Điều 40.1.TL.2.15. Trách nhiệm của Tòa án nhân dân tối cao
 
-### 400010000000000060000630000000000000000000802598000120002400
 
 Điều 40.1.TL.3.24. Trách nhiệm của Tòa án nhân dân tối cao
 
-### 4000100000000000600006400000000000000000
 
 Điều 40.1.LQ.64. Trách nhiệm của Viện kiểm sát nhân dân tối cao
 
-### 400010000000000060000640000000000000000000802482000020001400
 
 Điều 40.1.TL.2.14. Trách nhiệm của Viện kiểm sát nhân dân tối cao
 
-### 4000100000000000600006500000000000000000
 
 Điều 40.1.LQ.65. Trách nhiệm của Bộ Công an
 
-### 400010000000000060000650000000000000000000802464500010000400
 
 Điều 40.1.TL.1.4. Thẩm quyền của cơ quan, tổ chức trong hoạt động chuyển giao, tiếp nhận
 
-### 400010000000000060000650000000000000000000802482000020001600
 
 Điều 40.1.TL.2.16. Trách nhiệm của Bộ Công an
 
-### 4000100000000000600006600000000000000000
 
 Điều 40.1.LQ.66. Trách nhiệm của Bộ Ngoại giao
 
-### 400010000000000060000660000000000000000000802482000020001800
 
 Điều 40.1.TL.2.18. Trách nhiệm của Bộ Ngoại giao
 
-### 400010000000000060000660000000000000000000802598000120002300
 
 Điều 40.1.TL.3.23. Trách nhiệm của Bộ Ngoại giao
 
-### 4000100000000000600006700000000000000000
 
 Điều 40.1.LQ.67. Trách nhiệm của cơ quan đại diện của Việt Nam ở nước ngoài
 
-### 4000100000000000600006800000000000000000
 
 Điều 40.1.LQ.68. Trách nhiệm của Tòa án nhân dân cấp tỉnh
 
-### 4000100000000000600006900000000000000000
 
 Điều 40.1.LQ.69. Trách nhiệm của Viện kiểm sát nhân dân cấp tỉnh
 
-### 4000100000000000600007000000000000000000
 
 Điều 40.1.LQ.70. Trách nhiệm của cơ quan điều tra
 
-### 40001000000000007000
 
 Chương VII ĐIỀU KHOẢN THI HÀNH
 
-### 4000100000000000700007100000000000000000
 
 Điều 40.1.LQ.71. Hiệu lực thi hành
 
-### 4000100000000000700007200000000000000000
 
 Điều 40.1.LQ.72. Hướng dẫn thi hành
 
-### 4000100000000000700007240230000092000100
 
 Điều 40.1.NĐ.1.10. Điều khoản thi hành
 
-### 4000100000000000700007280244740144000060
 
 Điều 40.1.TT.1.6. Điều khoản thi hành
 
-### 4000100000000000700007280246450001000230
 
 Điều 40.1.TL.1.23. Hiệu lực của Thông tư liên tịch
 
-### 4000100000000000700007280246450001000240
 
 Điều 40.1.TL.1.24. Tổ chức thực hiện
 
-### 4000100000000000700007280248200002000190
 
 Điều 40.1.TL.2.19. Hiệu lực thi hành
 
-### 4000100000000000700007280259800012000260
 
 Điều 40.1.TL.3.26. Hiệu lực thi hành
 
-### 4000100000000000700007280259800012000270
 
 Điều 40.1.TL.3.27. Tổ chức thực hiện
 
