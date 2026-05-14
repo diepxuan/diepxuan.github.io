@@ -9,13 +9,13 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
+| **Số hiệu** | 16/2016/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Nguyễn Tấn Dũng |
+| **Ngày ban hành** | 16-03-2016 |
+| **Ngày hiệu lực** | 02-05-2016 |
+| **Trạng thái** | Đang hiệu lực (thay thế Nghị định 38/2013/NĐ-CP) |
 | **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Quản+lý+và+sử+dụng+nguồn+hỗ+trợ+phát+triển+chính+thức+(ODA)+và+nguồn+vốn+vay+ưu+đãi+của+các+nhà+tài+trợ) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Quản+lý+và+sử+dụng+nguồn+hỗ+trợ+phát+triển+chính+thức+(ODA)+và+nguồn+vốn+vay+ưu+đãi+của+các+nhà+tài+trợ) | [LuatVietnam](https://luatvietnam.vn/search?q=Quản+lý+và+sử+dụng+nguồn+hỗ+trợ+phát+triển+chính+thức+(ODA)+và+nguồn+vốn+vay+ưu+đãi+của+các+nhà+tài+trợ) |
 
 ---
