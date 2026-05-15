@@ -2,21 +2,21 @@
 layout: page
 title: Thuế bảo vệ môi trường
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-bao-ve-moi-truong/
-lastedit: 2026-05-13
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thuế+bảo+vệ+môi+trường) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thuế+bảo+vệ+môi+trường) | [LuatVietnam](https://luatvietnam.vn/search?q=Thuế+bảo+vệ+môi+trường) |
+| **Số hiệu** | 57/2010/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 15/11/2010 |
+| **Ngày hiệu lực** | 01/01/2012 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=98568) |
 
 ---
 

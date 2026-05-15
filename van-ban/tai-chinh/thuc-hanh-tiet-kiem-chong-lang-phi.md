@@ -2,7 +2,7 @@
 layout: page
 title: Thực hành tiết kiệm, chống lãng phí
 permalink: /van-ban/tai-chinh/thuc-hanh-tiet-kiem-chong-lang-phi/
-lastedit: 2026-05-15
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN

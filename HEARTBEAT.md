@@ -8,7 +8,7 @@ Tất cả tasks được trigger bởi cron jobs. Agent đọc HEARTBEAT.md khi
 
 | Task | Lần chạy cuối | Lần chạy tiếp theo | Trạng thái |
 |------|---------------|--------------------|------------|
-| refactor-vanban | 2026-05-15 00:23 ICT | 2026-05-15 00:53 ICT | ✅ Đang chạy |
+| refactor-vanban | 2026-05-15 03:23 ICT | 2026-05-15 03:53 ICT | ✅ Đang chạy |
 | track-legislation | 2026-05-14 08:00 ICT | 2026-05-15 08:00 ICT | ✅ Đang chạy |
 | check-new-laws | 2026-05-14 08:00 ICT | 2026-05-15 08:00 ICT | ✅ Đang chạy |
 | update-vbpl | 2026-05-14 08:00 ICT | 2026-05-21 08:00 ICT | ✅ Đang chạy |
@@ -177,6 +177,29 @@ File `documents/LEGISLATION_TRACKING.md` là backlog pháp luật mới dùng ch
 - Không push trực tiếp main
 - Không merge PR tự động
 - Chỉ ghi nhận MEMORY.md khi chưa được phép tạo PR
+
+## Quy tắc tránh Artifact trong PR
+
+Khi refactor-vanban chạy nhiều lần, PR có thể chứa nhiều commit từ các lần chạy trước (artifact). Áp dụng nguyên tắc sau:
+
+1. **Mỗi heartbeat run = 1 branch mới từ main**
+   - Tạo branch mới thay vì tiếp tục commit vào branch cũ
+   - Không push thêm commit vào PR đã mở
+
+2. **Trước khi tạo PR:**
+   - Kiểm tra `git log` branch hiện tại
+   - Nếu chứa commit từ heartbeat trước đó → tạo branch mới từ main
+   - Chỉ commit các file thuộc phạm vi thay đổi
+
+3. **Nếu PR đã mở cần sửa:**
+   - Đóng PR cũ
+   - Tạo branch mới từ main với nội dung sạch
+   - Tạo PR mới thay thế
+
+4. **Checklist trước khi push:**
+   - [ ] Branch được tạo từ main
+   - [ ] Chỉ chứa file thuộc phạm vi thay đổi
+   - [ ] Không chứa file từ heartbeat run trước đó
 
 ## Nguồn dữ liệu
 
