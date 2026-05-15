@@ -2,21 +2,21 @@
 layout: page
 title: Xây dựng, nhà ở, đô thị
 permalink: /van-ban/xay-dung-nha-o-do-thi/
-lastedit: 2026-05-13
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Số hiệu** | - |
+| **Loại văn bản** | Trang tổng hợp |
+| **Nơi ban hành** | - |
+| **Người ký** | - |
+| **Ngày ban hành** | - |
+| **Ngày hiệu lực** | - |
 | **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Xây+dựng,+nhà+ở,+đô+thị) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Xây+dựng,+nhà+ở,+đô+thị) | [LuatVietnam](https://luatvietnam.vn/search?q=Xây+dựng,+nhà+ở,+đô+thị) |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/) |
 
 ---
 
