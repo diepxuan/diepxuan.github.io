@@ -2,21 +2,21 @@
 layout: page
 title: Thanh niên
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/thanh-nien/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thanh+niên) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thanh+niên) | [LuatVietnam](https://luatvietnam.vn/search?q=Thanh+niên) |
+| **Số hiệu** | 57/2020/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Thị Kim Ngân |
+| **Ngày ban hành** | 16/06/2020 |
+| **Ngày hiệu lực** | 01/01/2021 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=200445) |
 
 ---
 
