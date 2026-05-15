@@ -2,21 +2,21 @@
 layout: page
 title: Bổ trợ tư pháp
 permalink: /van-ban/bo-tro-tu-phap/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Bổ+trợ+tư+pháp) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Bổ+trợ+tư+pháp) | [LuatVietnam](https://luatvietnam.vn/search?q=Bổ+trợ+tư+pháp) |
+| **Số hiệu** | - |
+| **Loại văn bản** | Trang tổng hợp |
+| **Nơi ban hành** | - |
+| **Người ký** | - |
+| **Ngày ban hành** | - |
+| **Ngày hiệu lực** | - |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn) |
 
 ---
 
