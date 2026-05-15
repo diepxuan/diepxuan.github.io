@@ -57,6 +57,35 @@ Sau khi PR được merge:
    - Ngày `lastedit` mới
    - Link PR
 
+## Lưu ý quan trọng về PR và Artifact
+
+### Vấn đề Artifact trong PR
+
+Khi task refactor-vanban chạy nhiều lần trên cùng branch, PR có thể chứa nhiều commit từ các lần chạy trước đó (artifact). Điều này gây khó khăn cho review vì PR chứa file không thuộc phạm vi mong muốn.
+
+### Nguyên tắc tạo PR sach
+
+1. **Mỗi heartbeat run = 1 branch mới từ main**
+   - Không tiếp tục commit vào branch cũ đã tạo PR
+   - Nếu cần tiếp tục refactor, tạo branch mới từ main
+
+2. **Nếu branch cũ đã có PR:**
+   - Đóng PR cũ (nếu chưa merge)
+   - Tạo branch mới từ main với nội dung sạch
+   - Không push thêm commit vào PR đã mở
+
+3. **Xử lý khi cần sửa PR đang mở:**
+   - Tạo branch mới từ main
+   - Chỉ commit các file cần thay đổi
+   - Tạo PR mới thay thế
+
+### Checklist trước khi tạo PR
+
+- [ ] Branch được tạo từ main (không phải từ branch heartbeat cũ)
+- [ ] Chỉ chứa các file thuộc phạm vi thay đổi
+- [ ] Không chứa file từ các heartbeat run trước đó
+- [ ] Mô tả PR rõ ràng về nội dung thay đổi
+
 ## Ví dụ
 
 ### File: `van-ban/an-ninh-quoc-gia/du-lieu.md`
