@@ -75,9 +75,10 @@ Khi task refactor-vanban chạy nhiều lần trên cùng branch, PR có thể c
    - Không push thêm commit vào PR đã mở
 
 3. **Xử lý khi cần sửa PR đang mở:**
-   - Tạo branch mới từ main
-   - Chỉ commit các file cần thay đổi
+   - Tạo branch mới từ main với nội dung sạch
    - Tạo PR mới thay thế
+   - Ghi chú vào nội dung PR cũ nguyên nhân bỏ qua PR này và link đến PR mới để sếp review so sánh
+   - không tự ý đóng PR
 
 ### Checklist trước khi tạo PR
 
