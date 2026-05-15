@@ -2,7 +2,7 @@
 layout: page
 title: Biên giới quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/bien-gioi-quoc-gia/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -15,8 +15,8 @@ lastedit: 2026-05-13
 | **Người ký** | Nguyễn Văn An |
 | **Ngày ban hành** | 26/06/2003 |
 | **Ngày hiệu lực** | 01/01/2004 |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Chinhphu.vn](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=93588) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Biên+giới+quốc+gia) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Biên+giới+quốc+gia) | [LuatVietnam](https://luatvietnam.vn/search?q=Biên+giới+quốc+gia) |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=93588) |
 
 ---
 
