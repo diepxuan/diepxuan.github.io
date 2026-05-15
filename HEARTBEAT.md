@@ -6,6 +6,14 @@ Tất cả tasks được trigger bởi cron jobs. Agent đọc HEARTBEAT.md khi
 
 ## Execution Tracking
 
+| Task | Lần chạy cuối | Lần chạy tiếp theo | Trạng thái |
+|------|---------------|--------------------|------------|
+| refactor-vanban | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ✅ Đang chạy |
+| track-legislation | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ⚠️ Quá hạn |
+| check-new-laws | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ⚠️ Quá hạn |
+| update-vbpl | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ✅ Đang chạy |
+| daily-tasks | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ✅ Đang chạy |
+
 source: `.heartbeat-state.json`
 
 > **Lưu ý:** State thực tế được lưu trong `.heartbeat-state.json`. Mỗi lần chạy, agent cập nhật `.heartbeat-state.json` thay vì HEARTBEAT.md.
