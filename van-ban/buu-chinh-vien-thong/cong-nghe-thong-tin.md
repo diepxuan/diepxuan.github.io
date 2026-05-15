@@ -9,14 +9,14 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Công+nghệ+thông+tin) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Công+nghệ+thông+tin) | [LuatVietnam](https://luatvietnam.vn/search?q=Công+nghệ+thông+tin) |
+| **Số hiệu** | 67/2018/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 19/06/2018
+| **Ngày hiệu lực** | 01/07/2019
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=200601)|
 
 ---
 
