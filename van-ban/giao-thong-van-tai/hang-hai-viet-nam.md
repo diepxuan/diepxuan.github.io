@@ -2,21 +2,21 @@
 layout: page
 title: Hàng hải Việt Nam
 permalink: /van-ban/giao-thong-van-tai/hang-hai-viet-nam/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Hàng+hải+Việt+Nam) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Hàng+hải+Việt+Nam) | [LuatVietnam](https://luatvietnam.vn/search?q=Hàng+hải+Việt+Nam) |
+| **Số hiệu** | 95/2015/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 25/11/2015 |
+| **Ngày hiệu lực** | 01/07/2017 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://chinhphu.vn/default.aspx?pageid=27160&docid=183192) |
 
 ---
 
