@@ -2,7 +2,7 @@
 layout: page
 title: Thuế giá trị gia tăng
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-gia-tri-gia-tang/
-lastedit: 2026-05-15
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -16,7 +16,7 @@ lastedit: 2026-05-15
 | **Ngày ban hành** | 26/11/2024 |
 | **Ngày hiệu lực** | 01/07/2025 |
 | **Trạng thái** | Còn hiệu lực |
-| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=212476) |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=212476&classid=1&orggroupid=1) |
 
 ---
 

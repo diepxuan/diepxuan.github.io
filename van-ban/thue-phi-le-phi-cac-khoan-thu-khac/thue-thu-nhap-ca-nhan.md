@@ -2,7 +2,7 @@
 layout: page
 title: Thuế thu nhập cá nhân
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-thu-nhap-ca-nhan/
-lastedit: 2026-05-15
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN

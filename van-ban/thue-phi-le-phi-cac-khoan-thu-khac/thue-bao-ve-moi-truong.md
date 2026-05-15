@@ -2,7 +2,7 @@
 layout: page
 title: Thuế bảo vệ môi trường
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-bao-ve-moi-truong/
-lastedit: 2026-05-15
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -16,7 +16,7 @@ lastedit: 2026-05-15
 | **Ngày ban hành** | 15/11/2010 |
 | **Ngày hiệu lực** | 01/01/2012 |
 | **Trạng thái** | Còn hiệu lực |
-| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=98568) |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=98568) |
 
 ---
 

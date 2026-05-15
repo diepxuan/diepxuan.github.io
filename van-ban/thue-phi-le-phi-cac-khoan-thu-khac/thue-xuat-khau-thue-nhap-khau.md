@@ -2,21 +2,21 @@
 layout: page
 title: Thuế xuất khẩu, thuế nhập khẩu
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-xuat-khau-thue-nhap-khau/
-lastedit: 2026-05-13
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thuế+xuất+khẩu,+thuế+nhập+khẩu) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thuế+xuất+khẩu,+thuế+nhập+khẩu) | [LuatVietnam](https://luatvietnam.vn/search?q=Thuế+xuất+khẩu,+thuế+nhập+khẩu) |
+| **Số hiệu** | 107/2016/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 06/04/2016 |
+| **Ngày hiệu lực** | 01/09/2016 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=184599) |
 
 ---
 

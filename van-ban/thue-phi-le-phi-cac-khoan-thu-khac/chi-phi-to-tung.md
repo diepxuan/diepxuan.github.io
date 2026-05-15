@@ -2,21 +2,21 @@
 layout: page
 title: Chi phí tố tụng
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/chi-phi-to-tung/
-lastedit: 2026-05-13
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Chi+phí+tố+tụng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Chi+phí+tố+tụng) | [LuatVietnam](https://luatvietnam.vn/search?q=Chi+phí+tố+tụng) |
+| **Số hiệu** | 02/2012/UBTVQH13 |
+| **Loại văn bản** | Pháp lệnh |
+| **Nơi ban hành** | Ủy ban Thường vụ Quốc hội |
+| **Người ký** | Chủ tịch Ủy ban Thường vụ Quốc hội |
+| **Ngày ban hành** | 28/03/2012 |
+| **Ngày hiệu lực** | 01/01/2013 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=214546) |
 
 ---
 

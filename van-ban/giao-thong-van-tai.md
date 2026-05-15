@@ -2,21 +2,21 @@
 layout: page
 title: Giao thông, vận tải
 permalink: /van-ban/giao-thong-van-tai/
-lastedit: 2026-05-13
+lastedit: 2026-05-14
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Số hiệu** | - |
+| **Loại văn bản** | Trang tổng hợp |
+| **Nơi ban hành** | - |
+| **Người ký** | - |
+| **Ngày ban hành** | - |
+| **Ngày hiệu lực** | - |
 | **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Giao+thông,+vận+tải) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Giao+thông,+vận+tải) | [LuatVietnam](https://luatvietnam.vn/search?q=Giao+thông,+vận+tải) |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/) |
 
 ---
 
