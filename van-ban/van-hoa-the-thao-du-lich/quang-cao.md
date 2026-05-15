@@ -2,21 +2,21 @@
 layout: page
 title: Quảng cáo
 permalink: /van-ban/van-hoa-the-thao-du-lich/quang-cao/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Quảng+cáo) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Quảng+cáo) | [LuatVietnam](https://luatvietnam.vn/search?q=Quảng+cáo) |
+| **Số hiệu** | 75/2025/QH15 |
+| **Loại văn bản** | Luật (sửa đổi) |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 16/06/2025 |
+| **Ngày hiệu lực** | 01/01/2026 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=214561) |
 
 ---
 
