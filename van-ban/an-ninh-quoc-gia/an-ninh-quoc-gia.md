@@ -2,7 +2,7 @@
 layout: page
 title: An ninh quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/an-ninh-quoc-gia/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -15,8 +15,8 @@ lastedit: 2026-05-13
 | **Người ký** | Nguyễn Văn An |
 | **Ngày ban hành** | 14/12/2004 |
 | **Ngày hiệu lực** | 01/07/2005 |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Chinhphu.vn](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=13661) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=An+ninh+quốc+gia) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=An+ninh+quốc+gia) | [LuatVietnam](https://luatvietnam.vn/search?q=An+ninh+quốc+gia) |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=13661) |
 
 ---
 

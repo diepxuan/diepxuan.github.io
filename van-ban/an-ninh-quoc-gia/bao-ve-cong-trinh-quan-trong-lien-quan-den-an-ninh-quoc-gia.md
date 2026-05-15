@@ -2,21 +2,21 @@
 layout: page
 title: Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-quoc-gia/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
+| **Số hiệu** | 32/2007/PL-UBTVQH11 |
+| **Loại văn bản** | Pháp lệnh |
+| **Nơi ban hành** | Ủy ban Thường vụ Quốc hội |
+| **Người ký** | Chủ tịch Ủy ban Thường vụ Quốc hội |
+| **Ngày ban hành** | 28/03/2007 |
 | **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Bảo+vệ+công+trình+quan+trọng+liên+quan+đến+an+ninh+quốc+gia) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Bảo+vệ+công+trình+quan+trọng+liên+quan+đến+an+ninh+quốc+gia) | [LuatVietnam](https://luatvietnam.vn/search?q=Bảo+vệ+công+trình+quan+trọng+liên+quan+đến+an+ninh+quốc+gia) |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://chinhphu.vn/default.aspx?pageid=27160&docid=55815) |
 
 ---
 

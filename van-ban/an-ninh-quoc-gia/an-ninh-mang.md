@@ -2,7 +2,7 @@
 layout: page
 title: An ninh mạng
 permalink: /van-ban/an-ninh-quoc-gia/an-ninh-mang/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -15,8 +15,8 @@ lastedit: 2026-05-13
 | **Người ký** | Nguyễn Thị Kim Ngân |
 | **Ngày ban hành** | 12/06/2018 |
 | **Ngày hiệu lực** | 01/01/2019 |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=206114) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=An+ninh+mạng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=An+ninh+mạng) | [LuatVietnam](https://luatvietnam.vn/search?q=An+ninh+mạng) |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=206114) |
 
 ---
 

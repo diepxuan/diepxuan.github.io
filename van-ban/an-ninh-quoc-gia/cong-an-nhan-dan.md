@@ -2,21 +2,21 @@
 layout: page
 title: Công an nhân dân
 permalink: /van-ban/an-ninh-quoc-gia/cong-an-nhan-dan/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Công+an+nhân+dân) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Công+an+nhân+dân) | [LuatVietnam](https://luatvietnam.vn/search?q=Công+an+nhân+dân) |
+| **Số hiệu** | 37/2018/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Thị Kim Ngân |
+| **Ngày ban hành** | 20/11/2018 |
+| **Ngày hiệu lực** | 01/07/2019 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=206105) |
 
 ---
 

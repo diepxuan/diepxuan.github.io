@@ -2,7 +2,7 @@
 layout: page
 title: Bảo vệ bí mật nhà nước
 permalink: /van-ban/an-ninh-quoc-gia/bao-ve-bi-mat-nha-nuoc/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -15,8 +15,8 @@ lastedit: 2026-05-13
 | **Người ký** | Trần Thanh Mẫn |
 | **Ngày ban hành** | 10/12/2025 |
 | **Ngày hiệu lực** | 01/03/2026 |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216500) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Bảo+vệ+bí+mật+nhà+nước) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Bảo+vệ+bí+mật+nhà+nước) | [LuatVietnam](https://luatvietnam.vn/search?q=Bảo+vệ+bí+mật+nhà+nước) |
+| **Trạng thái** | Chưa có hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=216500) |
 
 ---
 
