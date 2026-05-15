@@ -8,7 +8,7 @@ Tất cả tasks được trigger bởi cron jobs. Agent đọc HEARTBEAT.md khi
 
 | Task | Lần chạy cuối | Lần chạy tiếp theo | Trạng thái |
 |------|---------------|--------------------|------------|
-| refactor-vanban | 2026-05-15 01:23 ICT | 2026-05-15 01:53 ICT | ✅ Đang chạy |
+| refactor-vanban | 2026-05-15 02:23 ICT | 2026-05-15 02:53 ICT | ✅ Đang chạy |
 | track-legislation | 2026-05-14 08:00 ICT | 2026-05-15 08:00 ICT | ✅ Đang chạy |
 | check-new-laws | 2026-05-14 08:00 ICT | 2026-05-15 08:00 ICT | ✅ Đang chạy |
 | update-vbpl | 2026-05-14 08:00 ICT | 2026-05-21 08:00 ICT | ✅ Đang chạy |
