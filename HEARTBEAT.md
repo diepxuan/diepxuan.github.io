@@ -8,11 +8,11 @@ Tất cả tasks được trigger bởi cron jobs. Agent đọc HEARTBEAT.md khi
 
 | Task | Lần chạy cuối | Lần chạy tiếp theo | Trạng thái |
 |------|---------------|--------------------|------------|
-| refactor-vanban | 2026-05-15 11:22 ICT | 2026-05-15 11:52 ICT | ✅ Đang chạy |
-| track-legislation | 2026-05-14 08:00 ICT | 2026-05-15 08:00 ICT | ⚠️ Qua hạn |
-| check-new-laws | 2026-05-14 08:00 ICT | 2026-05-15 08:00 ICT | ⚠️ Qua hạn |
-| update-vbpl | 2026-05-14 08:00 ICT | 2026-05-21 08:00 ICT | ✅ Đang chạy |
-| daily-tasks | 2026-05-14 12:00 ICT | 2026-05-15 12:00 ICT | ✅ Đang chạy |
+| refactor-vanban | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ✅ Đang chạy |
+| track-legislation | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ⚠️ Quá hạn |
+| check-new-laws | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ⚠️ Quá hạn |
+| update-vbpl | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ✅ Đang chạy |
+| daily-tasks | *(xem .heartbeat-state.json)* | *(xem .heartbeat-state.json)* | ✅ Đang chạy |
 
 > **Lưu ý:** File này là tài liệu tham khảo. State thực tế được lưu trong `.heartbeat-state.json` (trong `.gitignore`). Sau mỗi lần chạy, agent cập nhật `.heartbeat-state.json` thay vì HEARTBEAT.md.
 
