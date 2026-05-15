@@ -4,7 +4,7 @@ Tất cả tasks được trigger bởi cron jobs. Agent đọc HEARTBEAT.md khi
 
 ---
 
-## Execution Tracking
+## Execution Tracking (source: `.heartbeat-state.json`)
 
 | Task | Lần chạy cuối | Lần chạy tiếp theo | Trạng thái |
 |------|---------------|--------------------|------------|
@@ -13,6 +13,8 @@ Tất cả tasks được trigger bởi cron jobs. Agent đọc HEARTBEAT.md khi
 | check-new-laws | 2026-05-14 08:00 ICT | 2026-05-15 08:00 ICT | ⚠️ Qua hạn |
 | update-vbpl | 2026-05-14 08:00 ICT | 2026-05-21 08:00 ICT | ✅ Đang chạy |
 | daily-tasks | 2026-05-14 12:00 ICT | 2026-05-15 12:00 ICT | ✅ Đang chạy |
+
+> **Lưu ý:** File này là tài liệu tham khảo. State thực tế được lưu trong `.heartbeat-state.json`. Sau mỗi lần chạy, agent cập nhật `.heartbeat-state.json` thay vì HEARTBEAT.md.
 
 ---
 
