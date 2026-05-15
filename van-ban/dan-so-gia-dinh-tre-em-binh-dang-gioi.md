@@ -2,21 +2,21 @@
 layout: page
 title: Dân số, gia đình, trẻ em, bình đẳng giới
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Dân+số,+gia+đình,+trẻ+em,+bình+đẳng+giới) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Dân+số,+gia+đình,+trẻ+em,+bình+đẳng+giới) | [LuatVietnam](https://luatvietnam.vn/search?q=Dân+số,+gia+đình,+trẻ+em,+bình+đẳng+giới) |
+| **Số hiệu** | - |
+| **Loại văn bản** | Trang tổng hợp |
+| **Nơi ban hành** | - |
+| **Người ký** | - |
+| **Ngày ban hành** | - |
+| **Ngày hiệu lực** | - |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn) |
 
 ---
 
