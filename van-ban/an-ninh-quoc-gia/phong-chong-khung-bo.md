@@ -2,21 +2,21 @@
 layout: page
 title: Phòng, chống khủng bố
 permalink: /van-ban/an-ninh-quoc-gia/phong-chong-khung-bo/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Phòng,+chống+khủng+bố) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Phòng,+chống+khủng+bố) | [LuatVietnam](https://luatvietnam.vn/search?q=Phòng,+chống+khủng+bố) |
+| **Số hiệu** | 28/2013/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 12/06/2013 |
+| **Ngày hiệu lực** | 01/10/2013 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://chinhphu.vn/default.aspx?pageid=27160&docid=169361) |
 
 ---
 
