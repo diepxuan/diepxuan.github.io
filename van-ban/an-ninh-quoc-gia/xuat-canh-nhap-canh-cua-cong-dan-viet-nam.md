@@ -2,21 +2,21 @@
 layout: page
 title: Xuất cảnh, nhập cảnh của công dân Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/xuat-canh-nhap-canh-cua-cong-dan-viet-nam/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Xuất+cảnh,+nhập+cảnh+của+công+dân+Việt+Nam) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Xuất+cảnh,+nhập+cảnh+của+công+dân+Việt+Nam) | [LuatVietnam](https://luatvietnam.vn/search?q=Xuất+cảnh,+nhập+cảnh+của+công+dân+Việt+Nam) |
+| **Số hiệu** | 49/2019/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 22/11/2019 |
+| **Ngày hiệu lực** | 01/07/2020 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198548) |
 
 ---
 
