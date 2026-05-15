@@ -2,21 +2,21 @@
 layout: page
 title: Giao thông đường thủy nội địa
 permalink: /van-ban/giao-thong-van-tai/giao-thong-duong-thuy-noi-dia/
-lastedit: 2026-05-15
+lastedit: 2026-05-13
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | 56/VBHN-VPQH |
-| **Loại văn bản** | Văn bản hợp nhất |
-| **Nơi ban hành** | Văn phòng Quốc hội |
-| **Người ký** | - |
-| **Ngày ban hành** | 23/03/2026 |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Còn hiệu lực |
-| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=217296) |
+| **Số hiệu** | 23/2017/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 14/06/2017
+| **Ngày hiệu lực** | 01/01/2018
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=199401)|
 
 ---
 

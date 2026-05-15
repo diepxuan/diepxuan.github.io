@@ -2,21 +2,21 @@
 layout: page
 title: Thống kê
 permalink: /van-ban/thong-ke/thong-ke/
-lastedit: 2026-05-15
+lastedit: 2026-05-13
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | 89/2015/QH13 |
-| **Loại văn bản** | Luật |
-| **Nơi ban hành** | Quốc hội |
-| **Người ký** | Nguyễn Sinh Hùng |
-| **Ngày ban hành** | 23/11/2015 |
-| **Ngày hiệu lực** | 01/07/2016 |
-| **Trạng thái** | Còn hiệu lực |
-| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=183199) |
+| **Số hiệu** | 32/2023/QH15
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 20/06/2023
+| **Ngày hiệu lực** | 01/01/2025
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=212301)|
 
 ---
 

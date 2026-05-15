@@ -9,14 +9,14 @@ lastedit: 2026-05-13
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Quản+lý+thuế) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Quản+lý+thuế) | [LuatVietnam](https://luatvietnam.vn/search?q=Quản+lý+thuế) |
+| **Số hiệu** | 38/2021/QH15
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 23/06/2021
+| **Ngày hiệu lực** | 01/07/2021
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=207460)|
 
 ---
 

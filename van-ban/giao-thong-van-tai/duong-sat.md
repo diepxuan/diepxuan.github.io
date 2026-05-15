@@ -2,21 +2,21 @@
 layout: page
 title: Đường sắt
 permalink: /van-ban/giao-thong-van-tai/duong-sat/
-lastedit: 2026-05-15
+lastedit: 2026-05-13
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | 95/2025/QH15 |
-| **Loại văn bản** | Luật |
-| **Nơi ban hành** | Quốc hội |
-| **Người ký** | Chủ tịch Quốc hội |
-| **Ngày ban hành** | 27/06/2025 |
-| **Ngày hiệu lực** | 01/01/2026 |
-| **Trạng thái** | Chưa có hiệu lực |
-| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=214604) |
+| **Số hiệu** | 35/2019/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 14/06/2019
+| **Ngày hiệu lực** | 01/07/2020
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=202293)|
 
 ---
 

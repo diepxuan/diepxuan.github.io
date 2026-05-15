@@ -2,21 +2,21 @@
 layout: page
 title: Du lịch
 permalink: /van-ban/van-hoa-the-thao-du-lich/du-lich/
-lastedit: 2026-05-15
+lastedit: 2026-05-13
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | 09/2017/QH14 |
-| **Loại văn bản** | Luật |
-| **Nơi ban hành** | Quốc hội |
-| **Người ký** | Nguyễn Thị Kim Ngân |
-| **Ngày ban hành** | 19/06/2017 |
-| **Ngày hiệu lực** | 01/01/2018 |
-| **Trạng thái** | Còn hiệu lực |
-| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=190290) |
+| **Số hiệu** | 03/2024/QH15
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 26/01/2024
+| **Ngày hiệu lực** | 01/07/2024
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=213601)|
 
 ---
 
