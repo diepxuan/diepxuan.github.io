@@ -174,6 +174,7 @@ File `documents/LEGISLATION_TRACKING.md` là backlog pháp luật mới dùng ch
 - Nếu gặp vấn đề → HEARTBEAT_OK + ghi log MEMORY.md
 - **Tạo PR cho mọi thay đổi nội dung** → Sếp review trước merge
 - Mỗi task = 1 branch mới = 1 PR mới
+- **Branch phải được tạo từ main** (git checkout -b <branch> khi đang ở main)
 - Không push trực tiếp main
 - Không merge PR tự động
 - Chỉ ghi nhận MEMORY.md khi chưa được phép tạo PR
@@ -183,11 +184,12 @@ File `documents/LEGISLATION_TRACKING.md` là backlog pháp luật mới dùng ch
 Khi refactor-vanban chạy nhiều lần, PR có thể chứa nhiều commit từ các lần chạy trước (artifact). Áp dụng nguyên tắc sau:
 
 1. **Mỗi heartbeat run = 1 branch mới từ main**
-   - Tạo branch mới thay vì tiếp tục commit vào branch cũ
+   - Luôn checkout ve main va pull truoc khi tao branch
+   - Tạo branch mới: `git checkout main && git pull && git checkout -b <branch>`
    - Không push thêm commit vào PR đã mở
 
 2. **Trước khi tạo PR:**
-   - Kiểm tra `git log` branch hiện tại
+   - Kiểm tra `git log` branch hiện tại để đảm bảo chỉ có commit của run hiện tại
    - Nếu chứa commit từ heartbeat trước đó → tạo branch mới từ main
    - Chỉ commit các file thuộc phạm vi thay đổi
 
