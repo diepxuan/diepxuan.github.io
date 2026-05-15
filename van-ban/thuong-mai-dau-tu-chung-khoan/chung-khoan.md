@@ -2,21 +2,21 @@
 layout: page
 title: Chứng khoán
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/chung-khoan/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Chứng+khoán) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Chứng+khoán) | [LuatVietnam](https://luatvietnam.vn/search?q=Chứng+khoán) |
+| **Số hiệu** | 54/2019/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 26/11/2019 |
+| **Ngày hiệu lực** | 01/01/2021 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198541) |
 
 ---
 
