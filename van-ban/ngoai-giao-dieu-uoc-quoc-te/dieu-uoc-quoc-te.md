@@ -2,21 +2,21 @@
 layout: page
 title: Điều ước quốc tế
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dieu-uoc-quoc-te/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Điều+ước+quốc+tế) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Điều+ước+quốc+tế) | [LuatVietnam](https://luatvietnam.vn/search?q=Điều+ước+quốc+tế) |
+| **Số hiệu** | 108/2016/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 09/04/2016 |
+| **Ngày hiệu lực** | 01/07/2016 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=184571) |
 
 ---
 
