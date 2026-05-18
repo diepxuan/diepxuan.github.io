@@ -2,21 +2,21 @@
 layout: page
 title: Đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua-cac-to-chuc-phi-chinh-phu-nuoc-ngoai-tai-viet-nam/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Đăng+ký+và+quản+lý+hoạt+động+của+các+tổ+chức+phi+chính+phủ+nước+ngoài+tại+Việt+Nam) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Đăng+ký+và+quản+lý+hoạt+động+của+các+tổ+chức+phi+chính+phủ+nước+ngoài+tại+Việt+Nam) | [LuatVietnam](https://luatvietnam.vn/search?q=Đăng+ký+và+quản+lý+hoạt+động+của+các+tổ+chức+phi+chính+phủ+nước+ngoài+tại+Việt+Nam) |
+| **Số hiệu** | 58/2022/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Thủ tướng Chính phủ |
+| **Ngày ban hành** | 25/08/2022 |
+| **Ngày hiệu lực** | 01/11/2022 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=206483) |
 
 ---
 
