@@ -2,21 +2,21 @@
 layout: page
 title: Dân sự
 permalink: /van-ban/dan-su/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Dân+sự) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Dân+sự) | [LuatVietnam](https://luatvietnam.vn/search?q=Dân+sự) |
+| **Số hiệu** | - |
+| **Loại văn bản** | Trang tổng hợp |
+| **Nơi ban hành** | - |
+| **Người ký** | - |
+| **Ngày ban hành** | - |
+| **Ngày hiệu lực** | - |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn) |
 
 ---
 
