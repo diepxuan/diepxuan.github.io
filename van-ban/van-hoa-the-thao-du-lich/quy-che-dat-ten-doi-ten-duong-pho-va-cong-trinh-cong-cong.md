@@ -2,21 +2,21 @@
 layout: page
 title: Quy chế đặt tên, đổi tên đường, phố và công trình công cộng
 permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-va-cong-trinh-cong-cong/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
+| **Số hiệu** | - |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
 | **Người ký** | Đang cập nhật |
 | **Ngày ban hành** | Đang cập nhật |
 | **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Quy+chế+đặt+tên,+đổi+tên+đường,+phố+và+công+trình+công+cộng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Quy+chế+đặt+tên,+đổi+tên+đường,+phố+và+công+trình+công+cộng) | [LuatVietnam](https://luatvietnam.vn/search?q=Quy+chế+đặt+tên,+đổi+tên+đường,+phố+và+công+trình+công+cộng) |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn) |
 
 ---
 
