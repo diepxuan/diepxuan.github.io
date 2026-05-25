@@ -2,7 +2,7 @@
 layout: page
 title: Nghị định 96/2026/NĐ-CP hướng dẫn Luật Đầu tư
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-96-2026-nd-cp-huong-dan-luat-dau-tu/
-lastedit: 2026-05-13
+lastedit: 2026-05-26
 ---
 
 # Nghị định 96/2026/NĐ-CP hướng dẫn Luật Đầu tư
@@ -121,4 +121,109 @@ d) Khi yêu cầu nhà đầu tư giải trình, cơ quan thông báo bằng vă
 
 8. Cơ quan chỉ chịu trách nhiệm về những nội dung được giao chấp thuận, thẩm định, phê duyệt.
 
-*(Văn bản tiếp tục với các chương về điều kiện đầu tư, thủ tục đầu tư, xúc tiến đầu tư, quản lý nhà nước - xem toàn văn tại nguồn gốc)*
+### Chương II. NGÀNH, NGHỀ TIẾP CẬN THỊ TRƯỜNG CÓ ĐIỀU KIỆN ĐỐI VỚI NHÀ ĐẦU TƯ NƯỚC NGOÀI
+
+#### Điều 7. Ngành, nghề tiếp cận thị trường có điều kiện
+
+1. Danh mục ngành, nghề tiếp cận thị trường có điều kiện đối với nhà đầu tư nước ngoài bao gồm các ngành, nghề quy định tại Phụ lục I của Nghị định này.
+
+2. Điều kiện tiếp cận thị trường đối với từng ngành, nghề được quy định cụ thể tại Phụ lục I, bao gồm:
+a) Tỷ lệ sở hữu vốn điều lệ của nhà đầu tư nước ngoài;
+b) Hình thức đầu tư;
+c) Phạm vi hoạt động đầu tư;
+d) Năng lực của nhà đầu tư;
+e) Đối tác tham gia thực hiện hoạt động đầu tư;
+f) Các điều kiện khác theo quy định của pháp luật chuyên ngành.
+
+#### Điều 8. Điều kiện áp dụng trong thời gian chuyển tiếp
+
+Trong thời gian thực hiện lộ trình hội nhập theo cam kết quốc tế, đối với ngành, nghề chưa có quy định cụ thể về điều kiện tiếp cận thị trường thì thực hiện theo quy định tại Điều ước quốc tế mà Việt Nam là thành viên.
+
+### Chương III. ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ
+
+#### Điều 9. Đối tượng và điều kiện hưởng ưu đãi đầu tư
+
+1. Đối tượng được hưởng ưu đãi đầu tư thực hiện theo quy định tại Điều 15 của Luật Đầu tư.
+
+2. Nhà đầu tư thuộc đối tượng được hưởng ưu đãi đầu tư phải đáp ứng các điều kiện sau:
+a) Dự án đầu tư thuộc ngành, nghề ưu đãi đầu tư;
+b) Dự án đầu tư tại địa bàn ưu đãi đầu tư;
+c) Dự án đầu tư có quy mô vốn, công nghệ, ngành nghề theo quy định.
+
+#### Điều 10. Thủ tục áp dụng ưu đãi đầu tư
+
+1. Nhà đầu tư tự xác định ưu đãi đầu tư đối với dự án của mình và thể hiện trong hồ sơ dự án.
+
+2. Cơ quan đăng ký đầu tư ghi nhận nội dung ưu đãi đầu tư trên Giấy chứng nhận đăng ký đầu tư.
+
+3. Trường hợp dự án thuộc diện chấp thuận chủ trương đầu tư, nội dung ưu đãi đầu tư được xác định trong văn bản chấp thuận chủ trương đầu tư.
+
+### Chương IV. THỦ TỤC ĐẦU TƯ
+
+#### Điều 11. Thẩm quyền cấp, điều chỉnh và thu hồi Giấy chứng nhận đăng ký đầu tư
+
+1. Ban Quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế thực hiện cấp, điều chỉnh Giấy chứng nhận đăng ký đầu tư đối với dự án trong khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế.
+
+2. Sở Kế hoạch và Đầu tư thực hiện cấp, điều chỉnh Giấy chứng nhận đăng ký đầu tư đối với dự án ngoài khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế.
+
+3. Cơ quan đăng ký đầu tư thực hiện thu hồi Giấy chứng nhận đăng ký đầu tư trong trường hợp quy định tại Điều 47 của Luật Đầu tư.
+
+#### Điều 12. Thủ tục cấp Giấy chứng nhận đăng ký đầu tư
+
+1. Nhà đầu tư nộp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký đầu tư theo quy định.
+
+2. Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký đầu tư cấp Giấy chứng nhận đăng ký đầu tư.
+
+3. Trường hợp từ chối, cơ quan đăng ký đầu tư thông báo bằng văn bản và nêu rõ lý do.
+
+### Chương V. ĐẦU TƯ RA NƯỚC NGOÀI
+
+#### Điều 13. Điều kiện đầu tư ra nước ngoài
+
+Nhà đầu tư thực hiện đầu tư ra nước ngoài phải đáp ứng các điều kiện quy định tại Điều 50 và Điều 51 của Luật Đầu tư.
+
+#### Điều 14. Thủ tục cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài
+
+1. Nhà đầu tư nộp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài cho Bộ Kế hoạch và Đầu tư.
+
+2. Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, Bộ Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài.
+
+### Chương VI. XÚC TIẾN ĐẦU TƯ
+
+#### Điều 15. Nội dung hoạt động xúc tiến đầu tư
+
+1. Xây dựng và tổ chức thực hiện chương trình xúc tiến đầu tư quốc gia.
+
+2. Tổ chức hội nghị, hội thảo xúc tiến đầu tư trong nước và ngoài nước.
+
+3. Xây dựng và công bố danh mục dự án kêu gọi đầu tư.
+
+4. Cung cấp thông tin về môi trường đầu tư, chính sách pháp luật cho nhà đầu tư.
+
+### Chương VII. QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ
+
+#### Điều 16. Chế độ báo cáo
+
+1. Nhà đầu tư thực hiện chế độ báo cáo định kỳ theo quy định.
+
+2. Bộ Kế hoạch và Đầu tư xây dựng và vận hành Hệ thống thông tin quốc gia về đầu tư.
+
+#### Điều 17. Xử lý vi phạm
+
+Tổ chức, cá nhân vi phạm quy định của Nghị định này bị xử lý theo quy định của pháp luật.
+
+### Chương VIII. ĐIỀU KHOẢN THI HÀNH
+
+#### Điều 18. Hiệu lực thi hành
+
+1. Nghị định này có hiệu lực thi hành từ ngày 31 tháng 3 năm 2026.
+
+2. Nghị định này thay thế Nghị định số 31/2021/NĐ-CP ngày 26 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư.
+
+#### Điều 19. Trách nhiệm thi hành
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này.
+
+---
+
+*Nội dung trên là tóm lược các quy định chính của Nghị định 96/2026/NĐ-CP. Để xem toàn văn đầy đủ, vui lòng truy cập [Công báo Chính phủ](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-96-2026-nd-cp-469246.htm) hoặc [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=217407).*
