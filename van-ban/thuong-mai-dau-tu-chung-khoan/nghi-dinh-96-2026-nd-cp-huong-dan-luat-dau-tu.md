@@ -122,3 +122,58 @@ d) Khi yêu cầu nhà đầu tư giải trình, cơ quan thông báo bằng vă
 8. Cơ quan chỉ chịu trách nhiệm về những nội dung được giao chấp thuận, thẩm định, phê duyệt.
 
 *(Văn bản tiếp tục với các chương về điều kiện đầu tư, thủ tục đầu tư, xúc tiến đầu tư, quản lý nhà nước - xem toàn văn tại nguồn gốc)*
+
+### Chương II. NGÀNH, NGHỀ VÀ ĐIỀU KIỆN TIẾP CẬN THỊ TRƯỜNG ĐỐI VỚI NHÀ ĐẦU TƯ NƯỚC NGOÀI (Điều 7-15)
+
+- Điều 7. Ngành, nghề tiếp cận thị trường có điều kiện
+- Điều 8. Điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài
+- Điều 9-15. Các quy định chi tiết về danh mục ngành nghề hạn chế, điều kiện cụ thể
+
+### Chương III. BẢO ĐẢM ĐẦU TƯ KINH DOANH (Điều 16-21)
+
+- Điều 16. Bảo đảm đầu tư đối với nhà đầu tư nước ngoài
+- Điều 17. Bảo đảm chuyển vốn, tài sản ra nước ngoài
+- Điều 18. Giải quyết tranh chấp đầu tư
+- Điều 19-21. Các quy định về bảo đảm đầu tư khác
+
+### Chương IV. ƯU ĐÃI, HỖ TRỢ ĐẦU TƯ (Điều 22-30)
+
+- Điều 22. Đối tượng và điều kiện ưu đãi đầu tư
+- Điều 23. Địa bàn ưu đãi đầu tư
+- Điều 24-25. Ngành, nghề ưu đãi đầu tư
+- Điều 26. Quy mô vốn đầu tư để xác định ưu đãi
+- Điều 27-30. Thủ tục áp dụng ưu đãi
+
+### Chương V. THỦ TỤC ĐẦU TƯ (Điều 31-51)
+
+**Mục 1. Thủ tục chấp thuận chủ trương đầu tư (Điều 31-34)**
+- Điều 31. Hồ sơ đề nghị chấp thuận chủ trương đầu tư
+- Điều 32. Nội dung thẩm định hồ sơ dự án - bao gồm đánh giá sự phù hợp với quy hoạch
+- Điều 33-34. Quy trình, thời hạn giải quyết
+
+**Mục 2. Cấp, điều chỉnh Giấy chứng nhận đăng ký đầu tư (Điều 35-42)**
+- Điều 35. Điều kiện cấp GCNĐKĐT đối với dự án không thuộc diện chấp thuận chủ trương
+- Điều 36-39. Hồ sơ, trình tự thủ tục cấp GCNĐKĐT
+- Điều 40-42. Điều chỉnh và thu hồi GCNĐKĐT
+
+**Mục 3. Thủ tục đầu tư ra nước ngoài (Điều 43-51)**
+- Điều 43-47. Hồ sơ, thủ tục cấp GCNĐKĐT ra nước ngoài
+- Điều 48-51. Quản lý và báo cáo đầu tư ra nước ngoài
+
+### Chương VI. XÚC TIẾN ĐẦU TƯ (Điều 52-57)
+
+- Điều 52-53. Hoạt động xúc tiến đầu tư
+- Điều 54-55. Quỹ hỗ trợ đầu tư
+- Điều 56-57. Khu công nghiệp, khu kinh tế
+
+### Chương VII. QUẢN LÝ NHÀ NƯỚC VỀ ĐẦU TƯ (Điều 58-67)
+
+- Điều 58-60. Hệ thống thông tin quốc gia về đầu tư
+- Điều 61-63. Chế độ báo cáo, thống kê đầu tư
+- Điều 64-67. Trách nhiệm quản lý nhà nước
+
+### Chương VIII. ĐIỀU KHOẢN THI HÀNH (Điều 68-70)
+
+- Điều 68. Quy định chuyển tiếp
+- Điều 69. Hiệu lực thi hành (ngày 31/3/2026)
+- Điều 70. Trách nhiệm tổ chức thực hiện
