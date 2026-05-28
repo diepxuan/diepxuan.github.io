@@ -2,21 +2,21 @@
 layout: page
 title: Theo dõi tình hình thi hành pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/theo-doi-tinh-hinh-thi-hanh-phap-luat/
-lastedit: 2026-05-13
+lastedit: 2026-05-29
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | 03/2012/QH13
-| **Loại văn bản** | Luật
-| **Nơi ban hành** | Quốc hội
-| **Người ký** | 
-| **Ngày ban hành** | 16/04/2012
-| **Ngày hiệu lực** | 01/01/2013
+| **Số hiệu** | 59/2012/NĐ-CP
+| **Loại văn bản** | Nghị định
+| **Nơi ban hành** | Chính phủ
+| **Người ký** | Nguyễn Tấn Dũng
+| **Ngày ban hành** | 23/07/2012
+| **Ngày hiệu lực** | 01/10/2012
 | **Trạng thái** | Còn hiệu lực
-| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=114625)|
+| **Nguồn** | thuvienphapluat.vn|
 
 ---
 
