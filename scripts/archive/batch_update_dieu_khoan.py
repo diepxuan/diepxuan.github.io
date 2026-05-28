@@ -18,7 +18,7 @@ from datetime import datetime
 DB_CONFIG = {
     'host': 'mysql.diepxuan.corp',
     'user': 'vbpl',
-    'password': 'G]9E9S_TahIFVbq-',
+    'password': '<redacted>',
     'database': 'vbpl',
     'charset': 'utf8mb4'
 }

@@ -11,7 +11,7 @@ DB_CONFIG = {
     'port': 3306,
     'database': 'vbpl',
     'user': 'vbpl',
-    'password': 'G]9E9S_TahIFVbq-',
+    'password': '<redacted>',
     'charset': 'utf8mb4'
 }
 

@@ -10,6 +10,7 @@ Thư mục này chứa các scripts để xử lý dữ liệu văn bản pháp 
 **Script hợp nhất duy nhất** - Tạo markdown files từ database với cấu trúc URL đúng.
 
 ```bash
+export VBPL_DB_PASSWORD='<set locally>'
 python3 vanban_generator.py
 ```
 

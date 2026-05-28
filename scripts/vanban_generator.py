@@ -21,13 +21,17 @@ VB_PATH = os.path.join(BASE_DIR, "van-ban")
 
 # MySQL database configuration
 DB_CONFIG = {
-    'host': 'mysql.diepxuan.corp',
-    'port': 3306,
-    'database': 'vbpl',
-    'user': 'vbpl',
-    'password': 'G]9E9S_TahIFVbq-',
+    'host': os.getenv('VBPL_DB_HOST', 'mysql.diepxuan.corp'),
+    'port': int(os.getenv('VBPL_DB_PORT', '3306')),
+    'database': os.getenv('VBPL_DB_DATABASE', 'vbpl'),
+    'user': os.getenv('VBPL_DB_USER', 'vbpl'),
+    'password': os.getenv('VBPL_DB_PASSWORD'),
     'charset': 'utf8mb4'
 }
+
+if not DB_CONFIG['password']:
+    print('Missing required environment variable: VBPL_DB_PASSWORD')
+    sys.exit(1)
 
 def slugify(text):
     """Convert text to URL-friendly slug"""

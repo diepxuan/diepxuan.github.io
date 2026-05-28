@@ -26,7 +26,7 @@ DB_CONFIG = {
     'port': 3306,
     'database': 'vbpl',
     'user': 'vbpl',
-    'password': 'G]9E9S_TahIFVbq-',
+    'password': '<redacted>',
     'charset': 'utf8mb4'
 }
 
@@ -434,7 +434,7 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 ### 3. Query Database với Nội dung
 ```sql
 -- Kết nối MySQL database
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' vbpl
+mysql -h mysql.diepxuan.corp -u vbpl -p vbpl
 
 -- Tìm các đề mục theo nội dung
 SELECT dm.text, dmc.html_content 
