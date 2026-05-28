@@ -13,14 +13,14 @@
 
 #### **Option A: Laravel User (Existing)**
 - **Username**: `laravel`
-- **Password**: `d72a5c40fc31c537deb8917fa192873a`
+- **Password**: `<redacted - set via local env>`
 - **Database**: `laravel` (existing Laravel application database)
 - **Purpose**: General Laravel application access
 - **Status**: Not verified (based on Portal .env file)
 
 #### **Option B: VBPL User (Van-Ban Specific) - ✅ VERIFIED**
 - **Username**: `vbpl`
-- **Password**: `G]9E9S_TahIFVbq-`
+- **Password**: `<redacted - set via local env>`
 - **Database**: `vbpl` (existing and verified)
 - **Purpose**: Dedicated access for van-ban/pháp điển project
 - **Permissions**: ALL PRIVILEGES on `vbpl` database
@@ -37,26 +37,26 @@ mysql -h mysql.diepxuan.corp -P 3306 -u laravel -p laravel
 mysql -h mysql.diepxuan.corp -u laravel -p
 
 # With explicit password (not recommended for scripts)
-mysql -h mysql.diepxuan.corp -u laravel -p'd72a5c40fc31c537deb8917fa192873a' laravel
+mysql -h mysql.diepxuan.corp -u laravel -p laravel
 ```
 
 #### **Using VBPL user (✅ VERIFIED):**
 ```bash
 # Standard connection với database vbpl
-mysql -h mysql.diepxuan.corp -P 3306 -u vbpl -p'G]9E9S_TahIFVbq-' vbpl
+mysql -h mysql.diepxuan.corp -P 3306 -u vbpl -p vbpl
 
 # Hoặc connect rồi chọn database
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-'
+mysql -h mysql.diepxuan.corp -u vbpl -p
 # Sau đó trong mysql shell: USE vbpl;
 
 # Test connection (verified working)
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' -e "SELECT 'VBPL Connected' AS status;"
+mysql -h mysql.diepxuan.corp -u vbpl -p -e "SELECT 'VBPL Connected' AS status;"
 
 # Kiểm tra databases accessible
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' -e "SHOW DATABASES;"
+mysql -h mysql.diepxuan.corp -u vbpl -p -e "SHOW DATABASES;"
 
 # Kiểm tra tables trong database vbpl (hiện tại empty)
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' -e "USE vbpl; SHOW TABLES;"
+mysql -h mysql.diepxuan.corp -u vbpl -p -e "USE vbpl; SHOW TABLES;"
 ```
 
 ### 3. **Host Information**
@@ -94,7 +94,7 @@ DB_HOST=mysql.diepxuan.corp
 DB_PORT=3306
 DB_DATABASE=laravel
 DB_USERNAME=laravel
-DB_PASSWORD=d72a5c40fc31c537deb8917fa192873a
+DB_PASSWORD=<set-in-local-env>
 ```
 
 ## 🗄️ CẤU TRÚC DATABASE
@@ -127,7 +127,7 @@ DB_HOST=mysql.diepxuan.corp
 DB_PORT=3306
 DB_DATABASE=laravel
 DB_USERNAME=laravel
-DB_PASSWORD=d72a5c40fc31c537deb8917fa192873a
+DB_PASSWORD=<set-in-local-env>
 ```
 
 #### **For VBPL user (van-ban specific) - ✅ VERIFIED:**
@@ -137,7 +137,7 @@ DB_HOST=mysql.diepxuan.corp
 DB_PORT=3306
 DB_DATABASE=vbpl          # ✅ Database name: vbpl (verified)
 DB_USERNAME=vbpl          # ✅ Username: vbpl (verified)
-DB_PASSWORD=G]9E9S_TahIFVbq-  # ✅ Password (verified)
+DB_PASSWORD=<set-in-local-env>  # ✅ Password (verified)
 ```
 
 ### 2. **Laravel configuration**
@@ -209,21 +209,21 @@ mysql -h mysql.diepxuan.corp -u laravel -p -e "SELECT VERSION();"
 #### **Test VBPL user (✅ VERIFIED WORKING):**
 ```bash
 # Test connection với VBPL user (verified)
-mysqladmin -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' ping
+mysqladmin -h mysql.diepxuan.corp -u vbpl -p ping
 
 # Kiểm tra version và user (verified)
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' -e "SELECT VERSION();"
+mysql -h mysql.diepxuan.corp -u vbpl -p -e "SELECT VERSION();"
 # Kết quả: 10.11.11-MariaDB-0+deb12u1
 
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' -e "SELECT USER();"
+mysql -h mysql.diepxuan.corp -u vbpl -p -e "SELECT USER();"
 # Kết quả: vbpl@openclaw.diepxuan.corp
 
 # Kiểm tra databases accessible (verified)
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' -e "SHOW DATABASES;"
+mysql -h mysql.diepxuan.corp -u vbpl -p -e "SHOW DATABASES;"
 # Kết quả: information_schema, vbpl
 
 # Test full functionality (verified)
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' vbpl -e "
+mysql -h mysql.diepxuan.corp -u vbpl -p vbpl -e "
   CREATE TABLE IF NOT EXISTS test_connection (
     id INT PRIMARY KEY AUTO_INCREMENT, 
     message VARCHAR(100)
@@ -270,7 +270,7 @@ DROP DATABASE IF EXISTS vbpl;
 DROP USER IF EXISTS 'vbpl'@'%';
 
 -- Tạo lại user và database
-CREATE USER 'vbpl'@'%' IDENTIFIED BY 'G]9E9S_TahIFVbq-';
+CREATE USER 'vbpl'@'%' IDENTIFIED BY '${VBPL_DB_PASSWORD}';
 CREATE DATABASE vbpl CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 GRANT ALL PRIVILEGES ON vbpl.* TO 'vbpl'@'%';
 FLUSH PRIVILEGES;
@@ -311,7 +311,7 @@ SHOW GLOBAL STATUS LIKE 'Connections';
 
 #### **Option 1: Sử dụng VBPL user (✅ VERIFIED & RECOMMENDED)**
 - **Username**: `vbpl` (✅ verified exists)
-- **Password**: `G]9E9S_TahIFVbq-` (✅ verified working)
+- **Password**: `<redacted - set via local env>` (✅ verified working)
 - **Database**: `vbpl` (✅ verified exists, currently empty)
 - **Permissions**: ALL PRIVILEGES (✅ verified)
 - **Ưu điểm**: Dedicated user, better security isolation, ready to use
@@ -319,7 +319,7 @@ SHOW GLOBAL STATUS LIKE 'Connections';
 
 #### **Option 2: Sử dụng Laravel user**
 - **Username**: `laravel`
-- **Password**: `d72a5c40fc31c537deb8917fa192873a`
+- **Password**: `<redacted - set via local env>`
 - **Database**: `laravel` (existing - not verified)
 - **Ưu điểm**: Đã có sẵn, không cần setup thêm
 - **Status**: Chưa verified - dựa trên Portal .env file

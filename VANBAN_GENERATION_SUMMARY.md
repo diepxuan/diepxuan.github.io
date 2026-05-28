@@ -67,7 +67,7 @@ van-ban/
 ### 1. Query Database
 ```sql
 -- Kết nối MySQL
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' vbpl
+mysql -h mysql.diepxuan.corp -u vbpl -p vbpl
 
 -- Tìm kiếm nội dung
 SELECT dm.text, SUBSTRING(dmc.html_content, 1, 500) as preview

@@ -259,12 +259,12 @@ Do file jsonData.js 24MB quá lớn, cần script để:
 - **Host**: `mysql.diepxuan.corp:3306`
 - **Database**: `vbpl`
 - **Username**: `vbpl`
-- **Password**: `G]9E9S_TahIFVbq-`
+- **Password**: `<redacted - set via local env>`
 - **Status**: ✅ Đã verify - user có ALL PRIVILEGES trên database
 
 ### Connection Test
 ```bash
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' vbpl
+mysql -h mysql.diepxuan.corp -u vbpl -p vbpl
 ```
 
 ## LƯU Ý QUAN TRỌNG

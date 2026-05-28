@@ -13,20 +13,20 @@
 # Connection command
 mysql -h mysql.diepxuan.corp -P 3306 -u laravel -p laravel
 
-# Password: d72a5c40fc31c537deb8917fa192873a
+# Password: ${DB_PASSWORD}
 ```
 
 ### Option 2: VBPL User (Van-Ban Specific) - **VERIFIED**
 ```bash
 # Connection command với user vbpl và database vbpl
-mysql -h mysql.diepxuan.corp -P 3306 -u vbpl -p'G]9E9S_TahIFVbq-' vbpl
+mysql -h mysql.diepxuan.corp -P 3306 -u vbpl -p vbpl
 
 # Hoặc connect rồi chọn database
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-'
+mysql -h mysql.diepxuan.corp -u vbpl -p
 # Sau đó: USE vbpl;
 
 # Test connection
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' -e "SELECT 'VBPL Connected' AS status;"
+mysql -h mysql.diepxuan.corp -u vbpl -p -e "SELECT 'VBPL Connected' AS status;"
 ```
 
 ## 📋 ENVIRONMENT VARIABLES
@@ -38,7 +38,7 @@ DB_HOST=mysql.diepxuan.corp
 DB_PORT=3306
 DB_DATABASE=laravel
 DB_USERNAME=laravel
-DB_PASSWORD=d72a5c40fc31c537deb8917fa192873a
+DB_PASSWORD=<set-in-local-env>
 ```
 
 ### VBPL User (Van-Ban Specific) - **VERIFIED**
@@ -48,7 +48,7 @@ DB_HOST=mysql.diepxuan.corp
 DB_PORT=3306
 DB_DATABASE=vbpl          # ✅ Database name: vbpl
 DB_USERNAME=vbpl          # ✅ Username: vbpl
-DB_PASSWORD=G]9E9S_TahIFVbq-  # ✅ Password verified
+DB_PASSWORD=<set-in-local-env>  # ✅ Password verified
 ```
 
 ## 🌐 HOST INFORMATION
