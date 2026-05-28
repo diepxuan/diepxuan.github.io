@@ -2,21 +2,21 @@
 layout: page
 title: Ngân hàng, tiền tệ
 permalink: /van-ban/ngan-hang-tien-te/
-lastedit: 2026-05-13
+lastedit: 2026-05-28
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Ngân+hàng,+tiền+tệ) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Ngân+hàng,+tiền+tệ) | [LuatVietnam](https://luatvietnam.vn/search?q=Ngân+hàng,+tiền+tệ) |
+| **Số hiệu** | 20/2021/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Vương Đình Huệ |
+| **Ngày ban hành** | 17/11/2021 |
+| **Ngày hiệu lực** | 01/01/2023 (một số điều 01/03/2022) |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=209183) |
 
 ---
 
