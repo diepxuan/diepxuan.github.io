@@ -2,7 +2,7 @@
 layout: page
 title: "Thi dua, khen thuong cac danh hieu vinh du nha nuoc"
 permalink: /van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/
-lastedit: 2026-05-25
+lastedit: 2026-05-28
 ---
 
 # Thi dua, khen thuong cac danh hieu vinh du nha nuoc
@@ -17,8 +17,8 @@ Chủ đề Thi đua, khen thưởng và các danh hiệu vinh dự nhà nước
 |-----|---------|--------------|-------|
 | 1 | **Luật Thi đua, khen thưởng** số 06/2022/QH15 | 01/01/2024 | Luật nền tảng quy định về thi đua, khen thưởng và danh hiệu vinh dự nhà nước |
 | 2 | **Luật số 06/2026/QH16** | 2026 | Luật sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng |
-| 3 | **Nghị định 98/2023/NĐ-CP** | 31/12/2023 | Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng |
-| 4 | **Nghị định 152/2025/NĐ-CP** | 14/06/2025 | Phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng |
+| 3 | **Nghị định 98/2023/NĐ-CP** | 01/01/2024 | Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng |
+| 4 | **Nghị định 152/2025/NĐ-CP** | 01/07/2025 | Phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng |
 | 5 | **Quyết định 01/2026/QĐ-TTg** | 2026 | Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng |
 
 ### Văn bản hướng dẫn
