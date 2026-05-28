@@ -1,58 +1,37 @@
-# Tài liệu Công ty
+# Danh mục tài liệu công ty
 
-Phần này chứa các tài liệu và file quan trọng của công ty.
+Tài liệu này mô tả các file đang được lưu trong `documents/`.
 
-## 📁 Cấu trúc Tài liệu
+## File hiện có
 
-```
-documents/
-├── WEBHD_INTERNET_UM_v1.0.docx    # Hướng dẫn Sử dụng (Dịch vụ Internet)
-├── TonKho/20251130.xlsx           # Báo cáo Tồn kho (30 Tháng 11 2025)
-├── README.md                      # README repository gốc
-└── index.md                       # Trang chủ Jekyll gốc
-```
+### `WEBHD_INTERNET_UM_v1.0.docx`
 
-## 📄 Chi tiết File
+- Loại: Microsoft Word
+- Nội dung: Hướng dẫn sử dụng dịch vụ Internet
+- Trạng thái: Lưu bản gốc để tải về
 
-### 1. WEBHD_INTERNET_UM_v1.0.docx
-- **Loại**: Tài liệu Microsoft Word
-- **Kích thước**: 1.05 MB
-- **Nội dung**: Hướng dẫn sử dụng cho dịch vụ Internet
-- **Cập nhật lần cuối**: Không xác định
-- **Truy cập**: Tải về và mở bằng Microsoft Word hoặc phần mềm tương thích
+### `TonKho/20251130.xlsx`
 
-### 2. TonKho/20251130.xlsx
-- **Loại**: Bảng tính Microsoft Excel
-- **Kích thước**: 53.8 KB
-- **Nội dung**: Báo cáo tồn kho ngày 30 Tháng 11 2025
-- **Cập nhật lần cuối**: 30 Tháng 11 2025
-- **Truy cập**: Tải về và mở bằng Microsoft Excel hoặc phần mềm tương thích
+- Loại: Microsoft Excel
+- Nội dung: Báo cáo tồn kho ngày 30/11/2025
+- Trạng thái: Lưu bản gốc để tải về
 
-## 🔗 Cách Truy cập
+### `LEGISLATION_TRACKING.md`
 
-### Tải trực tiếp
-- [WEBHD_INTERNET_UM_v1.0.docx](WEBHD_INTERNET_UM_v1.0.docx)
-- [TonKho/20251130.xlsx](TonKho/20251130.xlsx)
+- Loại: Markdown
+- Nội dung: Backlog theo dõi văn bản pháp luật mới
+- Trạng thái: Dùng cho các task heartbeat và refactor văn bản
 
-### Lịch sử Git
-Tất cả tài liệu được kiểm soát phiên bản bằng Git. Bạn có thể xem lịch sử thay đổi:
-```bash
-git log --oneline -- documents/
-```
+## Truy cập
 
-## 📝 Ghi chú
-- Các tài liệu này dành cho sử dụng nội bộ công ty
-- File nhị phân (Word/Excel) được lưu trữ nguyên bản để tương thích
-- Xem xét chuyển đổi sang Markdown/PDF để xem tốt hơn trên web trong tương lai
-- Cập nhật thường xuyên nên được commit để duy trì phiên bản hiện tại
+- Trang web: `https://docs.diepxuan.com/documents/`
+- File trực tiếp: truy cập qua đường dẫn tương ứng trong thư mục `documents/`
+- Lịch sử thay đổi: dùng Git để xem diff và commit history
 
-## 🚀 Cải thiện Tương lai
-1. Chuyển đổi tài liệu sang Markdown để xem trên web
-2. Thêm metadata tài liệu (tác giả, phiên bản, ngày)
-3. Triển khai chức năng tìm kiếm tài liệu
-4. Thêm danh mục và thẻ cho tài liệu
-5. Tạo trình xem tài liệu trên web
+## Ghi chú vận hành
 
----
+- File nhị phân được giữ nguyên để bảo toàn định dạng.
+- Khi thêm file mới, cập nhật `documents/index.md` và README liên quan.
+- Không lưu credential hoặc tài liệu nhạy cảm chưa xử lý trong repo.
 
-*Cập nhật lần cuối: 2026-02-21*
+Cập nhật lần cuối: 2026-05-28
