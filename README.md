@@ -130,6 +130,12 @@ This website now includes a **Documents** section containing important company f
 - **Version Control**: Git-tracked for change history
 - **Future Plans**: Convert to Markdown for better web viewing
 
+## Build & Deployment
+
+- Jekyll build được thực hiện trên GitHub Actions/GitHub Pages, không yêu cầu chạy local trong workspace agent.
+- Khi thay đổi nội dung, vẫn cần kiểm tra cấu trúc Markdown/front matter trước khi commit.
+- Trạng thái build chính thức lấy từ GitHub Actions sau khi branch/PR được đẩy lên GitHub.
+
 ---
 
-*Website last updated: 2026-02-21*
+*Website last updated: 2026-05-28*
