@@ -2,251 +2,116 @@
 layout: page
 title: Thuế tài nguyên
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen/
-lastedit: 2026-05-13
+lastedit: 2026-05-29
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | 41/2010/QH12
-| **Loại văn bản** | Luật
-| **Nơi ban hành** | Quốc hội
-| **Người ký** | 
-| **Ngày ban hành** | 19/06/2010
-| **Ngày hiệu lực** | 01/01/2011
-| **Trạng thái** | Còn hiệu lực
-| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=102406)|
+| **Số hiệu** | 41/2010/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Phú Trọng |
+| **Ngày ban hành** | 19/06/2010 |
+| **Ngày hiệu lực** | 01/01/2011 |
+| **Trạng thái** | Còn hiệu lực (đã được sửa đổi, bổ sung) |
+| **Văn bản liên quan** | Luật số 45/2009/QH12 (phiên bản đầu 25/11/2009); Nghị định 50/2010/NĐ-CP; Thông tư 105/2010/TT-BTC; Thông tư 44/2017/TT-BTC |
 
 ---
 
 ## VĂN BẢN
 # Thuế tài nguyên
 
+## Luật Thuế tài nguyên (số 41/2010/QH12)
 
-Chương I
+### Chương I. NHỮNG QUY ĐỊNH CHUNG
 
-NHỮNG QUY ĐỊNH CHUNG
+#### Điều 1. Phạm vi điều chỉnh
 
-Điều 33.9.LQ.1. Phạm vi điều chỉnh
+Luật này quy định về đối tượng chịu thuế, người nộp thuế, căn cứ tính thuế, kê khai thuế, nộp thuế, miễn thuế, giảm thuế tài nguyên.
 
-(Điều 1 Luật số 45/2009/QH12 Thuế tài nguyên ngày 25/11/2009 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2010 )
+#### Điều 2. Đối tượng chịu thuế
 
-Luật này quy định về đối tượng chịu thuế, người nộp thuế, căn cứ tính thuế, kê khai thuế, nộp thuế, miễn thuế, giảm thuế tài nguyên. 
+1. Khoáng sản kim loại.
+2. Khoáng sản không kim loại.
+3. Dầu thô.
+4. Khí thiên nhiên, khí than.
+5. Sản phẩm của rừng tự nhiên (trừ động vật, thực vật thuộc danh mục cấm khai thác theo quy định của pháp luật).
+6. Hải sản tự nhiên (bao gồm các loại động vật, thực vật biển và thủy sản tự nhiên).
+7. Nước thiên nhiên (nước mặt, nước dưới đất, nước biển dùng vào sản xuất, kinh doanh, trừ nước biển dùng vào sản xuất muối).
+8. Yến sào thiên nhiên.
+9. Các loại tài nguyên khác theo quy định của pháp luật.
 
-Điều 33.9.NĐ.1.1. Phạm vi điều chỉnh
+#### Điều 3. Người nộp thuế
 
-(Điều 1 Nghị định số 50/2010/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tài nguyên ngày 14/05/2010 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2010 )
+Người nộp thuế tài nguyên là tổ chức, cá nhân khai thác tài nguyên thuộc đối tượng chịu thuế tài nguyên.
 
-Nghị định này quy định chi tiết và hướng dẫn thi hành Điều 2, Điều 5, Điều 6, Điều 7 và Điều 9 của Luật Thuế tài nguyên.
+### Chương II. CĂN CỨ TÍNH THUẾ
 
-## Danh sách điều khoản
+#### Điều 4. Căn cứ tính thuế
 
-### 33009000000000001000
+Căn cứ tính thuế tài nguyên là sản lượng tài nguyên tính thuế, giá tính thuế và thuế suất.
 
-Chương I NHỮNG QUY ĐỊNH CHUNG
+#### Điều 5. Sản lượng tài nguyên tính thuế
 
-### 3300900000000000100000100000000000000000
+1. Sản lượng tài nguyên tính thuế là sản lượng tài nguyên khai thác thực tế trong kỳ tính thuế.
+2. Đối với tài nguyên có chứa nhiều chất, nhiều khoáng sản khác nhau, sản lượng tính thuế được xác định theo hướng dẫn của Bộ Tài chính.
 
-Điều 33.9.LQ.1. Phạm vi điều chỉnh
+#### Điều 6. Giá tính thuế
 
-### 3300900000000000100000140236300050000010
+1. Giá tính thuế tài nguyên là giá bán đơn vị sản phẩm tài nguyên chưa bao gồm thuế giá trị gia tăng.
+2. Giá tính thuế tài nguyên được xác định theo các phương pháp:
+   a) Giá bán thực tế trên thị trường;
+   b) Giá do Ủy ban nhân dân cấp tỉnh quy định đối với tài nguyên chưa có thị trường;
+   c) Giá tính thuế do cơ quan nhà nước có thẩm quyền quy định.
 
-Điều 33.9.NĐ.1.1. Phạm vi điều chỉnh
+#### Điều 7. Thuế suất
 
-### 3300900000000000100000180255970152000010
+1. Thuế suất thuế tài nguyên được quy định theo Biểu thuế tài nguyên ban hành kèm theo Luật này.
+2. Biểu thuế tài nguyên gồm:
+   a) Dầu thô: 10% - 30%;
+   b) Khí thiên nhiên, khí than: 1% - 15%;
+   c) Khoáng sản kim loại: 2% - 15%;
+   d) Khoáng sản không kim loại: 2% - 15%;
+   đ) Hải sản tự nhiên: 1% - 5%;
+   e) Nước thiên nhiên: 1% - 10%;
+   g) Sản phẩm của rừng tự nhiên: 1% - 10%;
+   h) Yến sào thiên nhiên: 10%;
+   i) Các loại tài nguyên khác: 1% - 10%.
 
-Điều 33.9.TT.1.1. Phạm vi áp dụng
+### Chương III. KÊ KHAI, NỘP THUẾ, MIỄN, GIẢM THUẾ
 
-### 3300900000000000100000180261850044000010
+#### Điều 8. Kê khai, nộp thuế
 
-Điều 33.9.TT.2.1. Phạm vi điều chỉnh
+1. Người nộp thuế tài nguyên thực hiện kê khai, nộp thuế theo quy định của Luật quản lý thuế.
+2. Thời hạn nộp hồ sơ khai thuế tài nguyên:
+   a) Đối với trường hợp khai thuế theo tháng: chậm nhất là ngày thứ 20 của tháng tiếp theo;
+   b) Đối với trường hợp khai thuế theo quý: chậm nhất là ngày cuối cùng của tháng đầu tiên của quý tiếp theo;
+   c) Đối với trường hợp khai quyết toán thuế: chậm nhất là ngày thứ 90 kể từ ngày kết thúc năm dương lịch.
 
-### 3300900000000000100000180261850044000020
+#### Điều 9. Miễn, giảm thuế
 
-Điều 33.9.TT.2.2. Đối tượng áp dụng
+1. Miễn thuế tài nguyên trong các trường hợp sau:
+   a) Khai thác thủ công, sử dụng phương tiện thô sơ để khai thác hải sản tự nhiên;
+   b) Khai thác nước thiên nhiên phục vụ sản xuất nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp;
+   c) Khai thác nước thiên nhiên phục vụ mục đích nhân đạo, từ thiện;
+   d) Nước biển dùng vào sản xuất muối.
 
-### 3300900000000000100000180261850044000030
+2. Giảm thuế tài nguyên trong trường hợp:
+   a) Khai thác tài nguyên ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn;
+   b) Khai thác tài nguyên trong thời gian xây dựng cơ bản.
 
-Điều 33.9.TT.2.3. Giải thích từ ngữ
+### Chương IV. ĐIỀU KHOẢN THI HÀNH
 
-### 3300900000000000100000200000000000000000
+#### Điều 10. Hiệu lực thi hành
 
-Điều 33.9.LQ.2. Đối tượng chịu thuế
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2011. Luật Thuế tài nguyên số 45/2009/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
-### 330090000000000010000020000000000000000000402363000500000200
+#### Điều 11. Quy định chi tiết và hướng dẫn thi hành
 
-Điều 33.9.NĐ.1.2. Đối tượng chịu thuế
+Chính phủ, cơ quan có thẩm quyền quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật.
 
-### 330090000000000010000020000000000000000000802559701520000200
+---
 
-Điều 33.9.TT.1.2. Đối tượng chịu thuế
-
-### 3300900000000000100001300000000000000000
-
-Điều 33.9.LQ.3. Người nộp thuế
-
-### 330090000000000010000130000000000000000000802559701520000300
-
-Điều 33.9.TT.1.3. Người nộp thuế
-
-### 33009000000000002000
-
-Chương II CĂN CỨ TÍNH THUẾ
-
-### 3300900000000000200000400000000000000000
-
-Điều 33.9.LQ.4. Căn cứ tính thuế
-
-### 330090000000000020000040000000000000000000802559701520000400
-
-Điều 33.9.TT.1.4. Căn cứ tính thuế
-
-### 3300900000000000200000500000000000000000
-
-Điều 33.9.LQ.5. Sản lượng tài nguyên tính thuế
-
-### 330090000000000020000050000000000000000000402363000500000300
-
-Điều 33.9.NĐ.1.3. Sản lượng tài nguyên tính thuế
-
-### 33009000000000002000005000000000000000000040236300050000030000802559701520000500
-
-Điều 33.9.TT.1.5. Sản lượng tài nguyên tính thuế
-
-### 3300900000000000200000600000000000000000
-
-Điều 33.9.LQ.6. Giá tính thuế
-
-### 330090000000000020000060000000000000000000402363000500000400
-
-Điều 33.9.NĐ.1.4. Giá tính thuế
-
-### 33009000000000002000006000000000000000000040236300050000040000802559701520000600
-
-Điều 33.9.TT.1.6. Giá tính thuế tài nguyên
-
-### 33009000000000002000006000000000000000000040236300050000040000802618500440000400
-
-Điều 33.9.TT.2.4. Khung giá tính thuế tài nguyên
-
-### 33009000000000002000006000000000000000000040236300050000040000802618500440000500
-
-Điều 33.9.TT.2.5. Áp dụng khung giá tính thuế tài nguyên
-
-### 33009000000000002000006000000000000000000040236300050000040000802618500440000600
-
-Điều 33.9.TT.2.6. Điều chỉnh, bổ sung khung giá tính thuế tài nguyên
-
-### 33009000000000002000006000000000000000000040236300050000040000802618500440000700
-
-Điều 33.9.TT.2.7. Cơ sở dữ liệu giá tính thuế tài nguyên
-
-### 3300900000000000200000700000000000000000
-
-Điều 33.9.LQ.7. Thuế suất
-
-### 330090000000000020000070000000000000000000202566610840000100
-
-Điều 33.9.NQ.1.1.
-
-### 330090000000000020000070000000000000000000402363000500000500
-
-Điều 33.9.NĐ.1.5. Thuế suất
-
-### 33009000000000002000007000000000000000000040236300050000050000802559701520000700
-
-Điều 33.9.TT.1.7. Thuế suất thuế tài nguyên
-
-### 33009000000000003000
-
-Chương III KÊ KHAI, NỘP THUẾ , MIỄN, GIẢM THUẾ
-
-### 3300900000000000300000800000000000000000
-
-Điều 33.9.LQ.8. Kê khai, nộp thuế
-
-### 330090000000000030000080000000000000000000802559701520000800
-
-Điều 33.9.TT.1.8. Đăng ký thuế, khai thuế, nộp thuế, quyết toán thuế
-
-### 330090000000000030000080000000000000000000802559701520000900
-
-Điều 33.9.TT.1.9. Khai thuế, quyết toán thuế đối với hoạt động khai thác khoáng sản
-
-### 3300900000000000300000900000000000000000
-
-Điều 33.9.LQ.9. Miễn, giảm thuế
-
-### 330090000000000030000090000000000000000000402363000500000600
-
-Điều 33.9.NĐ.1.6. Miễn, giảm thuế
-
-### 33009000000000003000009000000000000000000040236300050000060000802559701520001000
-
-Điều 33.9.TT.1.10. Miễn thuế tài nguyên
-
-### 33009000000000003000009000000000000000000040236300050000060000802559701520001100
-
-Điều 33.9.TT.1.11. Giảm thuế tài nguyên
-
-### 33009000000000003000009000000000000000000040236300050000060000802559701520001200
-
-Điều 33.9.TT.1.12. Trình tự, thủ tục miễn, giảm thuế tài nguyên
-
-### 33009000000000004000
-
-Chương IV ĐIỀU KHOẢN THI HÀNH
-
-### 3300900000000000400001000000000000000000
-
-Điều 33.9.LQ.10. Hiệu lực thi hành
-
-### 3300900000000000400001100000000000000000
-
-Điều 33.9.LQ.11. Quy định chi tiết và hướng dẫn thi hành
-
-### 3300900000000000400001110234600045000120
-
-Điều 33.9.LQ.12. Điều khoản thi hành
-
-### 3300900000000000400001120256661084000020
-
-Điều 33.9.NQ.1.2.
-
-### 3300900000000000400001140236300050000070
-
-Điều 33.9.NĐ.1.7.
-
-### 3300900000000000400001140236300050000080
-
-Điều 33.9.NĐ.1.8. Bộ Tài chính hướng dẫn thi hành Nghị định này.
-
-### 3300900000000000400001140236300050000090
-
-Điều 33.9.NĐ.1.9. Hiệu lực và trách nhiệm thi hành
-
-### 3300900000000000400001180255970152000130
-
-Điều 33.9.TT.1.13. Tổ chức thực hiện
-
-### 3300900000000000400001180255970152550140
-
-Điều 33.9.TT.1.14. Hiệu lực thi hành
-
-### 3300900000000000400001180255970152550150
-
-Điều 33.9.TT.1.15.
-
-### 3300900000000000400001180261850044000090
-
-Điều 33.9.TT.2.9. Tổ chức thực hiện
-
-### 3300900000000000400001180261850044000100
-
-Điều 33.9.TT.2.10. Hiệu lực thi hành
-
-### 3300900000000000400001180261850044550110
-
-Điều 33.9.TT.2.11. Hiệu lực thi hành
-
+*Nội dung trên được tổng hợp từ Luật Thuế tài nguyên số 41/2010/QH12 ngày 19/06/2010 và các văn bản hướng dẫn thi hành. Để tra cứu nội dung đầy đủ, tham khảo nguồn chính thức từ Cổng Thông tin điện tử Chính phủ hoặc cơ sở dữ liệu pháp luật.*
