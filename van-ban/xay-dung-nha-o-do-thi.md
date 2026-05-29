@@ -2,9 +2,25 @@
 layout: page
 title: Xây dựng, nhà ở, đô thị
 permalink: /van-ban/xay-dung-nha-o-do-thi/
-lastedit: 2026-05-12
+lastedit: 2026-05-28
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | - |
+| **Loại văn bản** | Trang tổng hợp |
+| **Nơi ban hành** | - |
+| **Người ký** | - |
+| **Ngày ban hành** | - |
+| **Ngày hiệu lực** | - |
+| **Trạng thái** | Có nội dung |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/) |
+
+---
+
+## VĂN BẢN
 # Xây dựng, nhà ở, đô thị
 
 ## Danh sách đề mục

@@ -2,9 +2,25 @@
 layout: page
 title: Điều ước quốc tế
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dieu-uoc-quoc-te/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 108/2016/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 09/04/2016 |
+| **Ngày hiệu lực** | 01/07/2016 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=184571) |
+
+---
+
+## VĂN BẢN
 # Điều ước quốc tế
 
 

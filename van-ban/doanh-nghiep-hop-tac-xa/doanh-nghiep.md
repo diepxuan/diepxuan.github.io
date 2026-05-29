@@ -2,9 +2,25 @@
 layout: page
 title: Doanh nghiệp
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/doanh-nghiep/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 59/2020/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 17/06/2020
+| **Ngày hiệu lực** | 01/01/2021
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=205001)|
+
+---
+
+## VĂN BẢN
 # Doanh nghiệp
 
 

@@ -2,9 +2,25 @@
 layout: page
 title: Năng lượng nguyên tử
 permalink: /van-ban/khoa-hoc-cong-nghe/nang-luong-nguyen-tu/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 28/2008/QH12
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 03/06/2008
+| **Ngày hiệu lực** | 01/01/2009
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=73001)|
+
+---
+
+## VĂN BẢN
 # Năng lượng nguyên tử
 
 

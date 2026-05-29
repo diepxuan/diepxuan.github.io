@@ -27,11 +27,11 @@ Chi tiết đầy đủ: Tham chiếu `BOOTSTRAP.md`
 | Loại | File | Mục đích |
 |------|------|----------|
 | Daily | `memory/YYYY-MM-DD.md` | Log thô theo ngày |
-| Long-term | `MEMORY.md` | Thông tin chiến lược, quyết định quan trọng |
+| Long-term | local-only / ignored | Thông tin chiến lược, quyết định quan trọng |
 
 **Quy tắc:**
 - Daily: Ghi log, không chỉnh sửa lịch sử.
-- Long-term: Chỉ lưu thông tin đã chọn lọc, có giá trị chiến lược.
+- Long-term: Chỉ lưu thông tin đã chọn lọc, có giá trị chiến lược; không commit file memory local vào repo.
 
 ---
 

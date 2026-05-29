@@ -2,9 +2,25 @@
 layout: page
 title: Giáo dục
 permalink: /van-ban/giao-duc-dao-tao/giao-duc/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 43/2019/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 14/06/2019
+| **Ngày hiệu lực** | 01/01/2020
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=202401)|
+
+---
+
+## VĂN BẢN
 # Giáo dục
 
 

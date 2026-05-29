@@ -2,9 +2,25 @@
 layout: page
 title: Thuế sử dụng đất nông nghiệp
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-su-dung-dat-nong-nghiep/
-lastedit: 2026-05-12
+lastedit: 2026-05-28
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 50/2010/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Phú Trọng |
+| **Ngày ban hành** | 15/11/2010 |
+| **Ngày hiệu lực** | 01/01/2012 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=102424) |
+
+---
+
+## VĂN BẢN
 # Thuế sử dụng đất nông nghiệp
 
 

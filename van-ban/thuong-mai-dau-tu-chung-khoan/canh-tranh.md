@@ -2,9 +2,25 @@
 layout: page
 title: Cạnh tranh
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/canh-tranh/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 23/2018/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 12/06/2018 |
+| **Ngày hiệu lực** | 01/07/2019 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=206113) |
+
+---
+
+## VĂN BẢN
 # Cạnh tranh
 
 

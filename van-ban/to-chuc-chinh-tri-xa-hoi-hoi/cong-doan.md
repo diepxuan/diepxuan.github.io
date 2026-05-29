@@ -2,9 +2,25 @@
 layout: page
 title: Công đoàn
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/cong-doan/
-lastedit: 2026-05-13
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 50/2024/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 27/11/2024 |
+| **Ngày hiệu lực** | 01/07/2025 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=212478) |
+
+---
+
+## VĂN BẢN
 # Công đoàn
 
 ## QUỐC HỘI - CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM

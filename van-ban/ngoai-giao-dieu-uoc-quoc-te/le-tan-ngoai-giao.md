@@ -5,6 +5,22 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/le-tan-ngoai-giao/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 18/2022/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Phạm Minh Chính |
+| **Ngày ban hành** | 18/02/2022 |
+| **Ngày hiệu lực** | 01/04/2022 |
+| **Trạng thái** | Còn hiệu lực (thay thế Nghị định 50/2011/NĐ-CP) |
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=205337) |
+
+---
+
+## VĂN BẢN
 # Lễ tân ngoại giao
 
 Nội dung dưới đây dựa trên **Nghị định 18/2022/NĐ-CP** ngày 18/02/2022 của Chính phủ về nghi lễ đối ngoại — văn bản hiện hành thay thế Nghị định 50/2011/NĐ-CP.

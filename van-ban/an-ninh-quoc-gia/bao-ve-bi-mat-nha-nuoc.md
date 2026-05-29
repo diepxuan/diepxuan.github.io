@@ -2,9 +2,25 @@
 layout: page
 title: Bảo vệ bí mật nhà nước
 permalink: /van-ban/an-ninh-quoc-gia/bao-ve-bi-mat-nha-nuoc/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 117/2025/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Trần Thanh Mẫn |
+| **Ngày ban hành** | 10/12/2025 |
+| **Ngày hiệu lực** | 01/03/2026 |
+| **Trạng thái** | Chưa có hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=216500) |
+
+---
+
+## VĂN BẢN
 # Bảo vệ bí mật nhà nước
 
 

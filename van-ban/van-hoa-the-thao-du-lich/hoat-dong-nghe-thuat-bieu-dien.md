@@ -2,9 +2,25 @@
 layout: page
 title: Hoạt động nghệ thuật biểu diễn
 permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-nghe-thuat-bieu-dien/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 144/2020/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Nguyễn Xuân Phúc |
+| **Ngày ban hành** | 14/12/2020 |
+| **Ngày hiệu lực** | 01/02/2021 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Hoạt+động+nghệ+thuật+biểu+diễn) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Hoạt+động+nghệ+thuật+biểu+diễn) | [LuatVietnam](https://luatvietnam.vn/search?q=Hoạt+động+nghệ+thuật+biểu+diễn) |
+
+---
+
+## VĂN BẢN
 # Hoạt động nghệ thuật biểu diễn
 
 

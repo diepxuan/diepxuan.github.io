@@ -5,6 +5,22 @@ permalink: /van-ban/khieu-nai-to-cao/thanh-tra/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 60/2012/QH12
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 15/06/2012
+| **Ngày hiệu lực** | 15/09/2012
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=121574)|
+
+---
+
+## VĂN BẢN
 # Thanh tra
 
 ## Luật Thanh tra 2022 số 11/2022/QH15

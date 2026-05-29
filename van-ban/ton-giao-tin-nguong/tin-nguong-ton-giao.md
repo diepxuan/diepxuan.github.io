@@ -2,9 +2,25 @@
 layout: page
 title: Tín ngưỡng, tôn giáo
 permalink: /van-ban/ton-giao-tin-nguong/tin-nguong-ton-giao/
-lastedit: 2026-05-12
+lastedit: 2026-05-14
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 02/2016/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 18/11/2016 |
+| **Ngày hiệu lực** | 01/01/2018 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=200970) |
+
+---
+
+## VĂN BẢN
 # Tín ngưỡng, tôn giáo
 
 

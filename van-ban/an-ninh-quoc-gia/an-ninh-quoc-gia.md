@@ -2,9 +2,25 @@
 layout: page
 title: An ninh quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/an-ninh-quoc-gia/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 32/2004/QH11 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Văn An |
+| **Ngày ban hành** | 14/12/2004 |
+| **Ngày hiệu lực** | 01/07/2005 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=13661) |
+
+---
+
+## VĂN BẢN
 # An ninh quốc gia
 
 

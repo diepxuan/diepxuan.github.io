@@ -2,9 +2,25 @@
 layout: page
 title: Đa dạng sinh học
 permalink: /van-ban/moi-truong/da-dang-sinh-hoc/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 20/2008/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Phú Trọng |
+| **Ngày ban hành** | 13/11/2008 |
+| **Ngày hiệu lực** | 01/07/2009 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=81137) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Đa+dạng+sinh+học) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Đa+dạng+sinh+học) | [LuatVietnam](https://luatvietnam.vn/search?q=Đa+dạng+sinh+học) |
+
+---
+
+## VĂN BẢN
 # Đa dạng sinh học
 
 

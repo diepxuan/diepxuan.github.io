@@ -2,9 +2,25 @@
 layout: page
 title: Dữ liệu
 permalink: /van-ban/an-ninh-quoc-gia/du-lieu/
-lastedit: 2026-05-12 14:56
+lastedit: 2026-05-13 14:56
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 60/2024/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Trần Thanh Mẫn |
+| **Ngày ban hành** | 30/11/2024 |
+| **Ngày hiệu lực** | 01/07/2025 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=212488) |
+
+---
+
+## VĂN BẢN
 # Dữ liệu
 
 Chương I

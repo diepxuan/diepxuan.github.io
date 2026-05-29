@@ -2,9 +2,25 @@
 layout: page
 title: Biên giới quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/bien-gioi-quoc-gia/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 06/2003/QH11 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Văn An |
+| **Ngày ban hành** | 26/06/2003 |
+| **Ngày hiệu lực** | 01/01/2004 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=93588) |
+
+---
+
+## VĂN BẢN
 # Biên giới quốc gia
 
 

@@ -2,9 +2,25 @@
 layout: page
 title: Ngoại hối
 permalink: /van-ban/ngan-hang-tien-te/ngoai-hoi/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 28/2017/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 21/06/2017
+| **Ngày hiệu lực** | 01/01/2018
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=199601)|
+
+---
+
+## VĂN BẢN
 # Ngoại hối
 
 

@@ -2,9 +2,25 @@
 layout: page
 title: Ngân hàng, tiền tệ
 permalink: /van-ban/ngan-hang-tien-te/
-lastedit: 2026-05-12
+lastedit: 2026-05-28
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 20/2021/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Vương Đình Huệ |
+| **Ngày ban hành** | 17/11/2021 |
+| **Ngày hiệu lực** | 01/01/2023 (một số điều 01/03/2022) |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=209183) |
+
+---
+
+## VĂN BẢN
 # Ngân hàng, tiền tệ
 
 ## Danh sách đề mục

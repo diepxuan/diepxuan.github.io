@@ -5,6 +5,22 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-tra-va-xu-ly-v
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 04/2014/QH13
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 20/03/2014
+| **Ngày hiệu lực** | 01/07/2014
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=125950)|
+
+---
+
+## VĂN BẢN
 # Kiểm tra và xử lý văn bản quy phạm pháp luật
 
 Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;

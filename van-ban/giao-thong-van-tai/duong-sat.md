@@ -2,9 +2,25 @@
 layout: page
 title: Đường sắt
 permalink: /van-ban/giao-thong-van-tai/duong-sat/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 35/2019/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 14/06/2019
+| **Ngày hiệu lực** | 01/07/2020
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=202293)|
+
+---
+
+## VĂN BẢN
 # Đường sắt
 
 

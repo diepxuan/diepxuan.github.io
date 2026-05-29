@@ -30,9 +30,9 @@ Với mỗi file cần bổ sung:
 1. Đọc nội dung hiện tại
 2. Xác định phần còn thiếu (nếu có)
 3. Tìm nội dung từ nguồn chính thức:
-   - `vbpl.vn`
-   - `thuvienphapluat.vn`
-   - `luatviệtonline.vn`
+   - Nguồn chính: `vanban.chinhphu.vn`
+   - PDF đính kèm: `datafiles.chinhphu.vn`
+   - Nguồn phụ chỉ dùng để đối chiếu khi truy cập được: `vbpl.vn`, `thuvienphapluat.vn`, `luatvietnam.vn`
 4. Bổ sung nội dung vào file
 5. Cập nhật front matter `lastedit: YYYY-MM-DD HH:mm` (UTC)
 
@@ -57,6 +57,36 @@ Sau khi PR được merge:
    - Ngày `lastedit` mới
    - Link PR
 
+## Lưu ý quan trọng về PR và Artifact
+
+### Vấn đề Artifact trong PR
+
+Khi task refactor-vanban chạy nhiều lần trên cùng branch, PR có thể chứa nhiều commit từ các lần chạy trước đó (artifact). Điều này gây khó khăn cho review vì PR chứa file không thuộc phạm vi mong muốn.
+
+### Nguyên tắc tạo PR sach
+
+1. **Mỗi heartbeat run = 1 branch mới từ main**
+   - Không tiếp tục commit vào branch cũ đã tạo PR
+   - Nếu cần tiếp tục refactor, tạo branch mới từ main
+
+2. **Nếu branch cũ đã có PR:**
+   - Không tự ý đóng PR cũ
+   - Tạo branch mới từ main với nội dung sạch nếu cần thay thế
+   - Ghi chú rõ trong PR mới để Sếp quyết định xử lý PR cũ
+   - Không push thêm commit vào PR đã mở nếu Sếp chưa yêu cầu
+
+3. **Xử lý khi cần sửa PR đang mở:**
+   - Tạo branch mới từ main
+   - Chỉ commit các file cần thay đổi
+   - Tạo PR mới thay thế
+
+### Checklist trước khi tạo PR
+
+- [ ] Branch được tạo từ main (không phải từ branch heartbeat cũ)
+- [ ] Chỉ chứa các file thuộc phạm vi thay đổi
+- [ ] Không chứa file từ các heartbeat run trước đó
+- [ ] Mô tả PR rõ ràng về nội dung thay đổi
+
 ## Ví dụ
 
 ### File: `van-ban/an-ninh-quoc-gia/du-lieu.md`
@@ -71,4 +101,4 @@ Sau khi PR được merge:
 - **Không tự ý push**. Chỉ push khi Sếp nói rõ: "Em tạo PR đi".
 - **Mỗi file = 1 branch = 1 PR**.
 - **Ghi nhận vào memory** trước khi tạo PR nếu chưa được phép.
-- **Tìm nội dung từ nguồn chính thức** (vbpl.vn, thuvienphapluat.vn).
+- **Tìm nội dung từ nguồn chính thức**: ưu tiên `vanban.chinhphu.vn` và PDF từ `datafiles.chinhphu.vn`; nguồn khác chỉ dùng để đối chiếu khi truy cập được.

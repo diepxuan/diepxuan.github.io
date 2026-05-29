@@ -2,9 +2,25 @@
 layout: page
 title: Chính sách xã hội
 permalink: /van-ban/chinh-sach-xa-hoi/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | - |
+| **Loại văn bản** | Trang tổng hợp |
+| **Nơi ban hành** | - |
+| **Người ký** | - |
+| **Ngày ban hành** | - |
+| **Ngày hiệu lực** | - |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn) |
+
+---
+
+## VĂN BẢN
 # Chính sách xã hội
 
 ## Danh sách đề mục

@@ -2,9 +2,25 @@
 layout: page
 title: Cảnh vệ
 permalink: /van-ban/an-ninh-quoc-gia/canh-ve/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 25/2005/PL-UBTVQH11 |
+| **Loại văn bản** | Pháp lệnh |
+| **Nơi ban hành** | Ủy ban Thường vụ Quốc hội |
+| **Người ký** | Nguyễn Văn An |
+| **Ngày ban hành** | 02/04/2005 |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=14749) |
+
+---
+
+## VĂN BẢN
 # Cảnh vệ
 
 

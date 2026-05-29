@@ -2,9 +2,25 @@
 layout: page
 title: Giao thông, vận tải
 permalink: /van-ban/giao-thong-van-tai/
-lastedit: 2026-05-12
+lastedit: 2026-05-28
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | - |
+| **Loại văn bản** | Trang tổng hợp |
+| **Nơi ban hành** | - |
+| **Người ký** | - |
+| **Ngày ban hành** | - |
+| **Ngày hiệu lực** | - |
+| **Trạng thái** | Có nội dung |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/) |
+
+---
+
+## VĂN BẢN
 # Giao thông, vận tải
 
 ## Danh sách đề mục

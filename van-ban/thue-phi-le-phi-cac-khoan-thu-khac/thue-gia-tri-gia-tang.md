@@ -2,9 +2,25 @@
 layout: page
 title: Thuế giá trị gia tăng
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-gia-tri-gia-tang/
-lastedit: 2026-05-13
+lastedit: 2026-05-14
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 48/2024/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 26/11/2024 |
+| **Ngày hiệu lực** | 01/07/2025 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=212476&classid=1&orggroupid=1) |
+
+---
+
+## VĂN BẢN
 # Thuế giá trị gia tăng
 
 **Luật số: 48/2024/QH15**

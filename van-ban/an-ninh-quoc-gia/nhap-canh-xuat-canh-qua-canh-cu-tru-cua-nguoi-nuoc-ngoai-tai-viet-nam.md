@@ -2,9 +2,25 @@
 layout: page
 title: Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ngoai-tai-viet-nam/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 47/2014/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 16/06/2014 |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=217302) |
+
+---
+
+## VĂN BẢN
 # Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam
 
 

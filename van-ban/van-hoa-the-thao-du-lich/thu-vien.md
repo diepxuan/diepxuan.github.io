@@ -2,9 +2,25 @@
 layout: page
 title: Thư viện
 permalink: /van-ban/van-hoa-the-thao-du-lich/thu-vien/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 46/2019/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Thị Kim Ngân |
+| **Ngày ban hành** | 21/11/2019 |
+| **Ngày hiệu lực** | 01/07/2020 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198547) |
+
+---
+
+## VĂN BẢN
 # Thư viện
 
 

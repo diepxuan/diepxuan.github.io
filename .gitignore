@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.heartbeat-state.json
 
 # Archive directory
 van-ban/phap-dien/scripts/archive/
@@ -49,3 +50,8 @@ build/
 dist/
 *.egg-info/
 
+
+# Local agent memory
+memory/
+.heartbeat-state.json
+MEMORY.md

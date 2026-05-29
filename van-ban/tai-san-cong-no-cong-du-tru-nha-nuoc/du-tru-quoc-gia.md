@@ -2,9 +2,25 @@
 layout: page
 title: Dự trữ quốc gia
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/du-tru-quoc-gia/
-lastedit: 2026-05-12
+lastedit: 2026-05-28
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 22/2024/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Trần Thanh Mẫn |
+| **Ngày ban hành** | 29/11/2024 |
+| **Ngày hiệu lực** | 01/07/2025 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=208367) |
+
+---
+
+## VĂN BẢN
 # Dự trữ quốc gia
 
 

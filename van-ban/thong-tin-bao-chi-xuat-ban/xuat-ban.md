@@ -2,9 +2,25 @@
 layout: page
 title: Xuất bản
 permalink: /van-ban/thong-tin-bao-chi-xuat-ban/xuat-ban/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 19/2012/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 20/06/2012 |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://chinhphu.vn/default.aspx?pageid=27160&docid=164963) |
+
+---
+
+## VĂN BẢN
 # Xuất bản
 
 

@@ -2,9 +2,25 @@
 layout: page
 title: Khoa học và công nghệ
 permalink: /van-ban/khoa-hoc-cong-nghe/khoa-hoc-va-cong-nghe/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 29/2018/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 19/06/2018
+| **Ngày hiệu lực** | 01/01/2019
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=200501)|
+
+---
+
+## VĂN BẢN
 # Khoa học và công nghệ
 
 

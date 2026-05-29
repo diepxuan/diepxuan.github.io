@@ -2,9 +2,25 @@
 layout: page
 title: Thuế tài nguyên
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 41/2010/QH12
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 19/06/2010
+| **Ngày hiệu lực** | 01/01/2011
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=102406)|
+
+---
+
+## VĂN BẢN
 # Thuế tài nguyên
 
 

@@ -5,6 +5,22 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/theo-doi-tinh-hinh-
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 03/2012/QH13
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 16/04/2012
+| **Ngày hiệu lực** | 01/01/2013
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=114625)|
+
+---
+
+## VĂN BẢN
 # Theo dõi tình hình thi hành pháp luật
 
 **CHÍNH PHỦ**

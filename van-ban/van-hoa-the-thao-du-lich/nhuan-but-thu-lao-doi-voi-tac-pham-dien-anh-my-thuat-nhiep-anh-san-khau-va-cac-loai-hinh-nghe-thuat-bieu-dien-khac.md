@@ -2,9 +2,25 @@
 layout: page
 title: Nhuận bút, thù lao đối với tác phẩm điện ảnh, mỹ thuật, nhiếp ảnh, sân khấu và các loại hình nghệ thuật biểu diễn khác
 permalink: /van-ban/van-hoa-the-thao-du-lich/nhuan-but-thu-lao-doi-voi-tac-pham-dien-anh-my-thuat-nhiep-anh-san-khau-va-cac-loai-hinh-nghe-thuat-bieu-dien-khac/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 21/2015/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Nguyễn Tấn Dũng |
+| **Ngày ban hành** | 14/02/2015 |
+| **Ngày hiệu lực** | 15/04/2015 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Nhuận+bút,+thù+lao+đối+với+tác+phẩm+điện+ảnh,+mỹ+thuật,+nhiếp+ảnh,+sân+khấu+và+các+loại+hình+nghệ+thuật+biểu+diễn+khác) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Nhuận+bút,+thù+lao+đối+với+tác+phẩm+điện+ảnh,+mỹ+thuật,+nhiếp+ảnh,+sân+khấu+và+các+loại+hình+nghệ+thuật+biểu+diễn+khác) | [LuatVietnam](https://luatvietnam.vn/search?q=Nhuận+bút,+thù+lao+đối+với+tác+phẩm+điện+ảnh,+mỹ+thuật,+nhiếp+ảnh,+sân+khấu+và+các+loại+hình+nghệ+thuật+biểu+diễn+khác) |
+
+---
+
+## VĂN BẢN
 # Nhuận bút, thù lao đối với tác phẩm điện ảnh, mỹ thuật, nhiếp ảnh, sân khấu và các loại hình nghệ thuật biểu diễn khác
 
 

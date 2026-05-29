@@ -5,6 +5,22 @@ permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/dau-tu/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 31/2021/QH15
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 29/11/2021
+| **Ngày hiệu lực** | 01/01/2022
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=209472)|
+
+---
+
+## VĂN BẢN
 # Đầu tư
 
 ## Luật Đầu tư 2020 số 61/2020/QH14

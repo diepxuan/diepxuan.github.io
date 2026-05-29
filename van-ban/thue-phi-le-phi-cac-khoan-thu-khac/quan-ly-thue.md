@@ -2,9 +2,25 @@
 layout: page
 title: Quản lý thuế
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/quan-ly-thue/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 38/2021/QH15
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 23/06/2021
+| **Ngày hiệu lực** | 01/07/2021
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=207460)|
+
+---
+
+## VĂN BẢN
 # Quản lý thuế
 
 

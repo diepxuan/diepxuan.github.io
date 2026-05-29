@@ -2,9 +2,25 @@
 layout: page
 title: Kiểm toán độc lập
 permalink: /van-ban/ke-toan-kiem-toan/kiem-toan-doc-lap/
-lastedit: 2026-05-12
+lastedit: 2026-05-14
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 67/2011/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 29/03/2011 |
+| **Ngày hiệu lực** | 01/01/2012 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=100155) |
+
+---
+
+## VĂN BẢN
 # Kiểm toán độc lập
 
 

@@ -2,9 +2,25 @@
 layout: page
 title: Hàng không dân dụng Việt Nam
 permalink: /van-ban/giao-thong-van-tai/hang-khong-dan-dung-viet-nam/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 66/2014/QH13
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 24/06/2014
+| **Ngày hiệu lực** | 01/01/2015
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=168001)|
+
+---
+
+## VĂN BẢN
 # Hàng không dân dụng Việt Nam
 
 

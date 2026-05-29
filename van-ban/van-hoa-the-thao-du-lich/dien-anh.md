@@ -2,9 +2,25 @@
 layout: page
 title: Điện ảnh
 permalink: /van-ban/van-hoa-the-thao-du-lich/dien-anh/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 05/2022/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 15/06/2022 |
+| **Ngày hiệu lực** | 01/01/2023 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=206169) |
+
+---
+
+## VĂN BẢN
 # Điện ảnh
 
 

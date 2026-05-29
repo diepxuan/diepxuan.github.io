@@ -2,9 +2,25 @@
 layout: page
 title: Bảo vệ quyền lợi người tiêu dùng
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/bao-ve-quyen-loi-nguoi-tieu-dung/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 19/2023/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 20/06/2023 |
+| **Ngày hiệu lực** | 01/07/2024 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=208363) |
+
+---
+
+## VĂN BẢN
 # Bảo vệ quyền lợi người tiêu dùng
 
 

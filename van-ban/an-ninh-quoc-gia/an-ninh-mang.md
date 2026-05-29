@@ -2,9 +2,25 @@
 layout: page
 title: An ninh mạng
 permalink: /van-ban/an-ninh-quoc-gia/an-ninh-mang/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 24/2018/QH14 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Thị Kim Ngân |
+| **Ngày ban hành** | 12/06/2018 |
+| **Ngày hiệu lực** | 01/01/2019 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=206114) |
+
+---
+
+## VĂN BẢN
 # An ninh mạng
 
 

@@ -2,9 +2,25 @@
 layout: page
 title: Dược
 permalink: /van-ban/y-te-duoc/duoc/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 44/2005/QH11
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 14/06/2005
+| **Ngày hiệu lực** | 01/10/2005
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=56372)|
+
+---
+
+## VĂN BẢN
 # Dược
 
 

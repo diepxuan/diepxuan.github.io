@@ -5,6 +5,22 @@ permalink: /van-ban/tai-chinh/gia/
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 16/2023/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Vương Đình Huệ |
+| **Ngày ban hành** | 19/06/2023 |
+| **Ngày hiệu lực** | 01/07/2024 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=208367) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Giá) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Giá) | [LuatVietnam](https://luatvietnam.vn/search?q=Giá) |
+
+---
+
+## VĂN BẢN
 # Giá
 
 ## Luật Giá 2023 (số 16/2023/QH15)

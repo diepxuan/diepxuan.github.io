@@ -2,9 +2,25 @@
 layout: page
 title: Cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/co-quan-dai-dien-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-o-nuoc-ngoai/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 33/2009/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 18/06/2009 |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=91023) |
+
+---
+
+## VĂN BẢN
 # Cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài
 
 

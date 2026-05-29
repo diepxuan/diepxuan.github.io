@@ -2,9 +2,25 @@
 layout: page
 title: Viên chức
 permalink: /van-ban/can-bo-cong-chuc-vien-chuc/vien-chuc/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 52/2014/QH13
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 26/11/2014
+| **Ngày hiệu lực** | 01/01/2015
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=168271)|
+
+---
+
+## VĂN BẢN
 # Viên chức
 
 

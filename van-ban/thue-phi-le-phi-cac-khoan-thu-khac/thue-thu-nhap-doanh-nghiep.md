@@ -2,9 +2,25 @@
 layout: page
 title: Thuế thu nhập doanh nghiệp
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-thu-nhap-doanh-nghiep/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 67/2025/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 14/06/2025 |
+| **Ngày hiệu lực** | 01/10/2025 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=214607) |
+
+---
+
+## VĂN BẢN
 # Thuế thu nhập doanh nghiệp
 
 

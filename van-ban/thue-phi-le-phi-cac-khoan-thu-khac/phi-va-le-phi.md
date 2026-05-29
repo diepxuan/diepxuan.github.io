@@ -2,9 +2,25 @@
 layout: page
 title: Phí và lệ phí
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/phi-va-le-phi/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 97/2015/QH13
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 25/06/2015
+| **Ngày hiệu lực** | 01/01/2016
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=178801)|
+
+---
+
+## VĂN BẢN
 # Phí và lệ phí
 
 

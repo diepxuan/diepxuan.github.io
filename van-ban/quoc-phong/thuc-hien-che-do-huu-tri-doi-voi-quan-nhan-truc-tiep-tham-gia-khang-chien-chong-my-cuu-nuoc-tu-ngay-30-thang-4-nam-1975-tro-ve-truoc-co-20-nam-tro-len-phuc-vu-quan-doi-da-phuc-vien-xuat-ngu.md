@@ -2,9 +2,25 @@
 layout: page
 title: Thực hiện chế độ hưu trí đối với quân nhân trực tiếp tham gia kháng chiến chống Mỹ cứu nước từ ngày 30 tháng 4 năm 1975 trở về trước có 20 năm trở lên phục vụ quân đội đã phục viên, xuất ngũ
 permalink: /van-ban/quoc-phong/thuc-hien-che-do-huu-tri-doi-voi-quan-nhan-truc-tiep-tham-gia-khang-chien-chong-my-cuu-nuoc-tu-ngay-30-thang-4-nam-1975-tro-ve-truoc-co-20-nam-tro-len-phuc-vu-quan-doi-da-phuc-vien-xuat-ngu/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thực+hiện+chế+độ+hưu+trí+đối+với+quân+nhân+trực+tiếp+tham+gia+kháng+chiến+chống+Mỹ+cứu+nước+từ+ngày+30+tháng+4+năm+1975+trở+về+trước+có+20+năm+trở+lên+phục+vụ+quân+đội+đã+phục+viên,+xuất+ngũ) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thực+hiện+chế+độ+hưu+trí+đối+với+quân+nhân+trực+tiếp+tham+gia+kháng+chiến+chống+Mỹ+cứu+nước+từ+ngày+30+tháng+4+năm+1975+trở+về+trước+có+20+năm+trở+lên+phục+vụ+quân+đội+đã+phục+viên,+xuất+ngũ) | [LuatVietnam](https://luatvietnam.vn/search?q=Thực+hiện+chế+độ+hưu+trí+đối+với+quân+nhân+trực+tiếp+tham+gia+kháng+chiến+chống+Mỹ+cứu+nước+từ+ngày+30+tháng+4+năm+1975+trở+về+trước+có+20+năm+trở+lên+phục+vụ+quân+đội+đã+phục+viên,+xuất+ngũ) |
+
+---
+
+## VĂN BẢN
 # Thực hiện chế độ hưu trí đối với quân nhân trực tiếp tham gia kháng chiến chống Mỹ cứu nước từ ngày 30 tháng 4 năm 1975 trở về trước có 20 năm trở lên phục vụ quân đội đã phục viên, xuất ngũ
 
 

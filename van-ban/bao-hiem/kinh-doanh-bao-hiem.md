@@ -2,9 +2,25 @@
 layout: page
 title: Kinh doanh bảo hiểm
 permalink: /van-ban/bao-hiem/kinh-doanh-bao-hiem/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 08/2022/QH15
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 09/01/2022
+| **Ngày hiệu lực** | 01/01/2023
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=204201)|
+
+---
+
+## VĂN BẢN
 # Kinh doanh bảo hiểm
 
 

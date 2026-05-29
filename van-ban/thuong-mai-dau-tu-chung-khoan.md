@@ -2,9 +2,25 @@
 layout: page
 title: Thương mại, đầu tư, chứng khoán
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | Đang cập nhật |
+| **Loại văn bản** | Đang cập nhật |
+| **Nơi ban hành** | Đang cập nhật |
+| **Người ký** | Đang cập nhật |
+| **Ngày ban hành** | Đang cập nhật |
+| **Ngày hiệu lực** | Đang cập nhật |
+| **Trạng thái** | Đang cập nhật |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thương+mại,+đầu+tư,+chứng+khoán) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thương+mại,+đầu+tư,+chứng+khoán) | [LuatVietnam](https://luatvietnam.vn/search?q=Thương+mại,+đầu+tư,+chứng+khoán) |
+
+---
+
+## VĂN BẢN
 # Thương mại, đầu tư, chứng khoán
 
 ## Danh sách đề mục

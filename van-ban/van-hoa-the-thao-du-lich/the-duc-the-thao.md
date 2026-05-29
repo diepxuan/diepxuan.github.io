@@ -2,9 +2,25 @@
 layout: page
 title: Thể dục, thể thao
 permalink: /van-ban/van-hoa-the-thao-du-lich/the-duc-the-thao/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 77/2006/QH11 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Văn An |
+| **Ngày ban hành** | 29/11/2006 |
+| **Ngày hiệu lực** | 01/07/2007 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Thể+dục,+thể+thao) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Thể+dục,+thể+thao) | [LuatVietnam](https://luatvietnam.vn/search?q=Thể+dục,+thể+thao) |
+
+---
+
+## VĂN BẢN
 # Thể dục, thể thao
 
 

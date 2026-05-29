@@ -2,9 +2,25 @@
 layout: page
 title: Báo chí
 permalink: /van-ban/thong-tin-bao-chi-xuat-ban/bao-chi/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 126/2025/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 10/12/2025 |
+| **Ngày hiệu lực** | 01/07/2026 |
+| **Trạng thái** | Chưa có hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=216507) |
+
+---
+
+## VĂN BẢN
 # Báo chí
 
 

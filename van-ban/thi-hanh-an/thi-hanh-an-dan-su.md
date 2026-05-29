@@ -2,9 +2,25 @@
 layout: page
 title: Thi hành án dân sự
 permalink: /van-ban/thi-hanh-an/thi-hanh-an-dan-su/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 24/2017/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 14/06/2017
+| **Ngày hiệu lực** | 01/01/2018
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=199501)|
+
+---
+
+## VĂN BẢN
 # Thi hành án dân sự
 
 

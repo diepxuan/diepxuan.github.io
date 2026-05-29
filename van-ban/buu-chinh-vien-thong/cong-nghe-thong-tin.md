@@ -2,9 +2,25 @@
 layout: page
 title: Công nghệ thông tin
 permalink: /van-ban/buu-chinh-vien-thong/cong-nghe-thong-tin/
-lastedit: 2026-05-12
+lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 67/2018/QH14
+| **Loại văn bản** | Luật
+| **Nơi ban hành** | Quốc hội
+| **Người ký** | 
+| **Ngày ban hành** | 19/06/2018
+| **Ngày hiệu lực** | 01/07/2019
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=200601)|
+
+---
+
+## VĂN BẢN
 # Công nghệ thông tin
 
 

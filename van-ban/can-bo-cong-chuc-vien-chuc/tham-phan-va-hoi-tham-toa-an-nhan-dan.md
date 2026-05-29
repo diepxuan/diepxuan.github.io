@@ -5,6 +5,22 @@ permalink: /van-ban/can-bo-cong-chuc-vien-chuc/tham-phan-va-hoi-tham-toa-an-nhan
 lastedit: 2026-05-13
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+D/2017/QĐ-TANDTC
+| **Loại văn bản** | Quyết định
+| **Nơi ban hành** | Tòa án nhân dân tối cao
+| **Người ký** | Nguyễn Hòa Bình
+M/03/2017
+A/07/2017
+| **Trạng thái** | Còn hiệu lực
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=153455)|
+
+---
+
+## VĂN BẢN
 # Thẩm phán và Hội thẩm Tòa án nhân dân
 
 ## Luật Tổ chức Tòa án nhân dân 2024 số 34/2024/QH15

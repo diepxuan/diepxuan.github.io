@@ -2,9 +2,25 @@
 layout: page
 title: Đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua-cac-to-chuc-phi-chinh-phu-nuoc-ngoai-tai-viet-nam/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 58/2022/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Thủ tướng Chính phủ |
+| **Ngày ban hành** | 25/08/2022 |
+| **Ngày hiệu lực** | 01/11/2022 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=206483) |
+
+---
+
+## VĂN BẢN
 # Đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam
 
 

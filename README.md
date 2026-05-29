@@ -1,135 +1,65 @@
-# Networking
+# docs.diepxuan.com
 
+Kho nội dung Jekyll cho website tài liệu tại `https://docs.diepxuan.com`.
 
-| Interface | Cluster              | thd                  | kct1            |
-| --------- | -------------------- | -------------------- | --------------- |
-| VPN       | 10.20.1.0/24         | 10.20.1.1            | 10.20.1.2       |
-| ROUTER    |                      | thd1 192.168.1.0/24  | 192.168.12.0/24 |
-|           |                      | thd2 192.168.1.0/24  |                 |
-| LAN       | 10.10.0.0/24         | 10.10.1.0/24         | 10.10.1.0/24    |
-| Tailscale |                      | 100.67.131.1         |                 |
+## Mục đích
 
+Dự án dùng để quản lý và xuất bản:
 
-# Diagrams
+- Bài viết kỹ thuật trong `_posts/`.
+- Tài liệu nội bộ trong `documents/`.
+- Hệ thống văn bản pháp luật trong `van-ban/`.
+- Tài liệu vận hành agent và quy trình bảo trì nội dung.
 
-```mermaid
-flowchart TD
+## Cấu trúc thư mục chính
 
-subgraph KCT1[Khu lang nghe]
-end
-subgraph VP[Van Phong]
-    subgraph Master
-    direction LR
-    thd1router-."DHCP".->
-    thd1router2
-    thd1router2-."DHCP".->thd1client
-    thd1router2-."DHCP".->thd1camera
-    end
-    subgraph Slave
-    direction LR
-    thd2router-."192.168.1.0/24".->
-    thd2lan((clients))
-    end
-    subgraph Server
-    direction LR
-        subgraph SDN[Vitual NetWork]
-        vnet
-        end
-        subgraph pve1[Proxmox 10.10.0.1/24]
-        direction TB
-        100 ~~~
-        103 ~~~
-        105 ~~~
-        107 ~~~
-        109 ~~~
-        110
-        end
-        subgraph pve2[Proxmox 10.10.0.2/24]
-        direction TB
-        101 ~~~
-        102 ~~~
-        104 ~~~
-        106 ~~~
-        111
-        end
-    mikrotik
-    pve1-.112.->mikrotik
-    pve2-.112.->mikrotik
-    %% pve1==>SDN
-    %% pve2==>SDN
-    vnet-."10.0.0.50".->mikrotik
-    vnet-."10.0.0.52".->103
-    vnet-."10.0.0.53".->107
-    vnet-."10.0.0.54".->110
-    vnet-."10.0.0.55".->111
-    vnet-."10.0.0.56".->106
-    vnet-."10.0.0.57".->104
-    vnet-."10.0.0.58".->101
-    vnet-."10.0.0.59".->100
-    vnet-."10.0.0.60".->102
-    end
-    thd1router-."192.168.1.10".->mikrotik
-    thd2router-."192.168.1.10".->mikrotik
-end
-internet(((Internet)))
-internet<-..->VP
-internet<-..->KCT1
+| Đường dẫn | Mục đích |
+|---|---|
+| `_posts/` | Bài viết Jekyll theo ngày. |
+| `documents/` | Tài liệu nội bộ và trang chỉ mục tài liệu. |
+| `van-ban/` | Nội dung văn bản pháp luật, phân nhóm theo lĩnh vực. |
+| `docs/` | Tài liệu kỹ thuật phụ trợ cho dữ liệu, schema, vận hành. |
+| `scripts/` | Script hỗ trợ crawl, sinh nội dung, kiểm tra dữ liệu. |
+| `archive/` | Nơi lưu tài liệu cũ hoặc báo cáo đã hết hiệu lực nếu cần giữ lịch sử. |
+| `memory/` | Memory local của agent, không dùng làm nội dung public. |
 
-thd1router[(Router 192.168.1.0/24)]
-thd1router2[(Router 192.168.11.0/24)]
-thd1client((client 192.168.11.0/24))
-thd1camera((camera 192.168.11.0/24))
-thd2router[(Router 192.168.1.0/24)]
+## Build và triển khai
 
-vnet[(vnet 10.0.0.0/24)]
+- Jekyll build được thực hiện trên GitHub Actions/GitHub Pages.
+- Workspace agent không bắt buộc chạy build local.
+- Trạng thái build chính thức lấy từ GitHub Actions sau khi branch hoặc PR được đẩy lên GitHub.
+- Trước khi commit vẫn cần kiểm tra Markdown, front matter và phạm vi diff.
 
-100[(100 DC1)]
-101[(101 immich)]
-102[(102 SQL1)]
-103[(103 technitiumdns)]
-104[(104 magento)]
-105[(105 Xpemology)]
-106[(106 portal)]
-107[(107 adguard)]
-109[(109 go2rtc)]
-110[(110 opensearch)]
-111[(111 DC)]
-mikrotik[(MikroTik 10.10.1.0/24)]
+## Quy tắc nội dung
 
-style VP fill:none
-style Master fill:none
-style Slave fill:none
-style Server fill:none
-style SDN fill:none
-```
+- Nội dung website ưu tiên tiếng Việt.
+- Không dùng biểu tượng cảm xúc trong tài liệu mới.
+- Page/post cần front matter đầy đủ khi được render bởi Jekyll.
+- Không commit credential, token, password hoặc file state local.
+- Với văn bản pháp luật, ưu tiên nguồn chính thức `vanban.chinhphu.vn` và file PDF từ `datafiles.chinhphu.vn`.
 
----
+## Quy trình thay đổi
 
-# 📄 Company Documents
+1. Cập nhật từ `main`.
+2. Tạo branch mới đúng phạm vi task.
+3. Chỉ sửa các file thuộc scope.
+4. Commit theo Conventional Commits.
+5. Push branch và tạo PR để Sếp review.
+6. Chỉ merge khi Sếp yêu cầu rõ.
 
-This website now includes a **Documents** section containing important company files:
+## Tài liệu liên quan
 
-## Available Documents
+- `AGENTS.md`: giao thức vận hành agent trong workspace.
+- `SOUL.md`: nguyên tắc cốt lõi và kỷ luật làm việc.
+- `HEARTBEAT.md`: mô tả các task tự động và backlog pháp luật.
+- `REFACTOR_GUIDE.md`: hướng dẫn refactor từng file trong `van-ban/`.
+- `documents/LEGISLATION_TRACKING.md`: backlog văn bản pháp luật mới.
+- `docs/VANBAN_DATA_STRUCTURE.md`: cấu trúc dữ liệu văn bản pháp luật.
 
-### User Manuals
-- **Internet Services Manual** (`/documents/WEBHD_INTERNET_UM_v1.0.docx`) - Complete guide for Internet services
+## Ghi chú bảo mật
 
-### Inventory & Reports
-- **Inventory Report** (`/documents/TonKho/20251130.xlsx`) - Stock tracking spreadsheet (Nov 2025)
+- Không lưu thông tin đăng nhập trong repo.
+- Các cấu hình nhạy cảm phải đi qua biến môi trường hoặc secret store.
+- File local như `.heartbeat-state.json` và long-term memory của agent không được commit.
 
-## Access Documents
-
-- **Web Interface**: Visit https://docs.diepxuan.com/documents/
-- **Direct Links**: Click on document names above to download
-- **Git Repository**: All documents are version-controlled in the `documents/` directory
-- **Domain**: docs.diepxuan.com (primary website domain)
-
-## Document Management
-
-- **Location**: All documents are stored in `/documents/` directory
-- **Version Control**: Git-tracked for change history
-- **Future Plans**: Convert to Markdown for better web viewing
-
----
-
-*Website last updated: 2026-02-21*
+Cập nhật lần cuối: 2026-05-28

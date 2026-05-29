@@ -10,6 +10,7 @@ Thư mục này chứa các scripts để xử lý dữ liệu văn bản pháp 
 **Script hợp nhất duy nhất** - Tạo markdown files từ database với cấu trúc URL đúng.
 
 ```bash
+export VBPL_DB_PASSWORD='<set locally>'
 python3 vanban_generator.py
 ```
 
@@ -26,7 +27,7 @@ python3 vanban_generator.py
 - Host: `mysql.diepxuan.corp`
 - Database: `vbpl`
 - User: `vbpl`
-- Password: `G]9E9S_TahIFVbq-`
+- Password: `${VBPL_DB_PASSWORD}`
 
 ## 🗑️ Scripts dư thừa (CÓ THỂ XOÁ)
 
@@ -147,7 +148,7 @@ find van-ban -name "*.md" | wc -l
 ### Lỗi kết nối database:
 ```bash
 # Test connection
-mysql -h mysql.diepxuan.corp -u vbpl -p'G]9E9S_TahIFVbq-' vbpl -e "SELECT 'Connected'"
+mysql -h mysql.diepxuan.corp -u vbpl -p vbpl -e "SELECT 'Connected'"
 ```
 
 ### Lỗi Python packages:

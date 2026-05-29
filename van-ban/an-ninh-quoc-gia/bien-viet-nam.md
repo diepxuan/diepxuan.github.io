@@ -2,9 +2,25 @@
 layout: page
 title: Biển Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/bien-viet-nam/
-lastedit: 2026-05-12
+lastedit: 2026-05-15
 ---
 
+## THÔNG TIN VĂN BẢN
+
+| Thuộc tính | Nội dung |
+|---|---|
+| **Số hiệu** | 18/2012/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 21/06/2012 |
+| **Ngày hiệu lực** | 01/01/2013 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=163056) |
+
+---
+
+## VĂN BẢN
 # Biển Việt Nam
 
 
