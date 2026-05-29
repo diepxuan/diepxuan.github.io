@@ -2,21 +2,21 @@
 layout: page
 title: Viễn thông
 permalink: /van-ban/buu-chinh-vien-thong/vien-thong/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Viễn+thông) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Viễn+thông) | [LuatVietnam](https://luatvietnam.vn/search?q=Viễn+thông) |
+| **Số hiệu** | 24/2023/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 24/11/2023 |
+| **Ngày hiệu lực** | 01/07/2024 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://xaydungchinhsach.chinhphu.vn/luat-vien-thong.html) |
 
 ---
 
