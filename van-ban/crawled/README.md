@@ -20,35 +20,35 @@
 - **Crawled at**: 2026-02-23T04:20:36
 
 #### Quốc hội
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=1
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=1
 - **Crawled at**: 2026-02-23T04:20:36
 
 #### Chính phủ
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=2
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=2
 - **Crawled at**: 2026-02-23T04:20:36
 
 #### Thủ tướng Chính phủ
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=3
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=3
 - **Crawled at**: 2026-02-23T04:20:36
 
 #### Bộ/Cơ quan ngang bộ
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=4
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=4
 - **Crawled at**: 2026-02-23T04:20:36
 
 #### Liên bộ
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=5
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=5
 - **Crawled at**: 2026-02-23T04:20:36
 
 #### UBND tỉnh/thành phố
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=6
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=6
 - **Crawled at**: 2026-02-23T04:20:36
 
 #### Hiến pháp
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=1
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&typegroupid=1
 - **Crawled at**: 2026-02-23T04:20:36
 
 #### Sắc lệnh - Sắc luật
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=2
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&typegroupid=2
 - **Crawled at**: 2026-02-23T04:20:36
 
 
@@ -58,11 +58,12 @@ Documents are automatically collected by GitHub Actions:
 - **Schedule**: Weekly (Monday, 9:00 AM GMT+7)
 - **Data sources**:
   - vanban.chinhphu.vn (Government Documents)
-  - thuvienphapluat.vn (Legal Library)
-  - moj.gov.vn (Ministry of Justice) - planned
+  - datafiles.chinhphu.vn (PDF attachments)
+  - thuvienphapluat.vn, vbpl.vn, luatvietnam.vn: only for cross-checking when accessible
 
 ## Notes
 
-1. Data is automatically collected, may not be complete
-2. Check original link for full content
-3. Report issues at GitHub repository
+1. Data is automatically collected and may not be complete.
+2. Check `vanban.chinhphu.vn` or attached PDF for authoritative content.
+3. Some third-party legal sites may be blocked by WAF, Cloudflare, or login walls.
+4. Report issues through the GitHub repository workflow.

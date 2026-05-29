@@ -30,9 +30,9 @@ Với mỗi file cần bổ sung:
 1. Đọc nội dung hiện tại
 2. Xác định phần còn thiếu (nếu có)
 3. Tìm nội dung từ nguồn chính thức:
-   - `vbpl.vn`
-   - `thuvienphapluat.vn`
-   - `luatviệtonline.vn`
+   - Nguồn chính: `vanban.chinhphu.vn`
+   - PDF đính kèm: `datafiles.chinhphu.vn`
+   - Nguồn phụ chỉ dùng để đối chiếu khi truy cập được: `vbpl.vn`, `thuvienphapluat.vn`, `luatvietnam.vn`
 4. Bổ sung nội dung vào file
 5. Cập nhật front matter `lastedit: YYYY-MM-DD HH:mm` (UTC)
 
@@ -70,9 +70,10 @@ Khi task refactor-vanban chạy nhiều lần trên cùng branch, PR có thể c
    - Nếu cần tiếp tục refactor, tạo branch mới từ main
 
 2. **Nếu branch cũ đã có PR:**
-   - Đóng PR cũ (nếu chưa merge)
-   - Tạo branch mới từ main với nội dung sạch
-   - Không push thêm commit vào PR đã mở
+   - Không tự ý đóng PR cũ
+   - Tạo branch mới từ main với nội dung sạch nếu cần thay thế
+   - Ghi chú rõ trong PR mới để Sếp quyết định xử lý PR cũ
+   - Không push thêm commit vào PR đã mở nếu Sếp chưa yêu cầu
 
 3. **Xử lý khi cần sửa PR đang mở:**
    - Tạo branch mới từ main
@@ -100,4 +101,4 @@ Khi task refactor-vanban chạy nhiều lần trên cùng branch, PR có thể c
 - **Không tự ý push**. Chỉ push khi Sếp nói rõ: "Em tạo PR đi".
 - **Mỗi file = 1 branch = 1 PR**.
 - **Ghi nhận vào memory** trước khi tạo PR nếu chưa được phép.
-- **Tìm nội dung từ nguồn chính thức** (vbpl.vn, thuvienphapluat.vn).
+- **Tìm nội dung từ nguồn chính thức**: ưu tiên `vanban.chinhphu.vn` và PDF từ `datafiles.chinhphu.vn`; nguồn khác chỉ dùng để đối chiếu khi truy cập được.
