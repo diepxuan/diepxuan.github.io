@@ -106,4 +106,31 @@ a) Khai thuế theo quý: chậm nhất ngày cuối cùng của tháng đầu t
 b) Khai thuế theo tháng: chậm nhất ngày thứ 20 của tháng tiếp theo;
 c) Khai quyết toán thuế TNCN theo năm: chậm nhất ngày 31/03 của năm dương lịch tiếp theo.
 
-*(Nghị định còn các chương về quản lý thuế, xử lý tiền thuế, trách nhiệm của các bên - xem toàn văn tại nguồn chính thức)*
+### Chương IV. TRÁCH NHIỆM CỦA CÁC CHỦ QUẢN NỀN TẢNG THƯƠNG MẠI ĐIỆN TỬ, NỀN TẢNG SỐ (Điều 10-15)
+
+- Điều 10. Trách nhiệm khấu trừ, kê khai thay, nộp thay thuế
+- Điều 11. Cung cấp thông tin của hộ kinh doanh, cá nhân kinh doanh
+- Điều 12. Phạm vi áp dụng khấu trừ đối với tổ chức hợp tác kinh doanh
+- Điều 13. Trách nhiệm của tổ chức ký hợp đồng đại lý bán đúng giá
+- Điều 14. Hóa đơn điện tử
+- Điều 15. Trách nhiệm của chủ sở hữu sàn giao dịch thương mại điện tử
+
+### Chương V. XỬ LÝ TIỀN THUẾ, TIỀN CHẬM NỘP, TIỀN PHẠT (Điều 16-20)
+
+- Điều 16. Xử lý tiền thuế, tiền phạt nộp thừa
+- Điều 17. Xử lý tiền thuế, tiền chậm nộp
+- Điều 18. Trình tự xử lý
+- Điều 19-20. Các trường hợp đặc thù
+
+### Chương VI. TỔ CHỨC THỰC HIỆN (Điều 21-24)
+
+- Điều 21. Trách nhiệm của Bộ Tài chính
+- Điều 22. Trách nhiệm của cơ quan thuế các cấp
+- Điều 23. Trách nhiệm của UBND các tỉnh, thành phố
+- Điều 24. Hiệu lực thi hành (ngày 05/3/2026)
+
+---
+
+*Nghị định 68/2026/NĐ-CP ban hành ngày 05/3/2026, có hiệu lực cùng ngày.*
+
+*Lưu ý: Nghị định 141/2026/NĐ-CP đã sửa đổi, bổ sung một số điều của Nghị định 68/2026/NĐ-CP (xem văn bản sửa đổi để biết chi tiết).*
