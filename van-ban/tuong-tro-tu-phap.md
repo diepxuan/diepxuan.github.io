@@ -2,21 +2,23 @@
 layout: page
 title: Tương trợ tư pháp
 permalink: /van-ban/tuong-tro-tu-phap/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
+| **Số hiệu** | 102/2025/QH15 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
 | **Ngày ban hành** | Đang cập nhật |
 | **Ngày hiệu lực** | Đang cập nhật |
 | **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Tương+trợ+tư+pháp) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Tương+trợ+tư+pháp) | [LuatVietnam](https://luatvietnam.vn/search?q=Tương+trợ+tư+pháp) |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=216572&classid=1&typegroupid=3) |
+
+> Luật Tương trợ tư pháp về dân sự số 102/2025/QH15 là luật mới nhất, thay thế Luật Tương trợ tư pháp số 08/2007/QH12.
 
 ---
 

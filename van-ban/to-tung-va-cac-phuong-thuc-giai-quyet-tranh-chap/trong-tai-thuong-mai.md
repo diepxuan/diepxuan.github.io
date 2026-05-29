@@ -2,21 +2,21 @@
 layout: page
 title: Trọng tài thương mại
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/trong-tai-thuong-mai/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Trọng+tài+thương+mại) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Trọng+tài+thương+mại) | [LuatVietnam](https://luatvietnam.vn/search?q=Trọng+tài+thương+mại) |
+| **Số hiệu** | 54/2010/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 17/06/2010 |
+| **Ngày hiệu lực** | 01/01/2011 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=98345) |
 
 ---
 
