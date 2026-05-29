@@ -2,21 +2,21 @@
 layout: page
 title: Văn thư lưu trữ
 permalink: /van-ban/van-thu-luu-tru/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Văn+thư+lưu+trữ) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Văn+thư+lưu+trữ) | [LuatVietnam](https://luatvietnam.vn/search?q=Văn+thư+lưu+trữ) |
+| **Số hiệu** | 30/2020/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Thủ tướng Chính phủ |
+| **Ngày ban hành** | 05/03/2020 |
+| **Ngày hiệu lực** | 05/03/2020 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn) |
 
 ---
 
