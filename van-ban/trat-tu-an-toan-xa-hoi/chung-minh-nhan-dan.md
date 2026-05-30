@@ -2,21 +2,23 @@
 layout: page
 title: Chứng minh nhân dân
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/chung-minh-nhan-dan/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Chứng+minh+nhân+dân) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Chứng+minh+nhân+dân) | [LuatVietnam](https://luatvietnam.vn/search?q=Chứng+minh+nhân+dân) |
+| **Số hiệu** | 25/2023/QH15 (Luật Căn cước thay thế CMND) |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 27/11/2023 |
+| **Ngày hiệu lực** | 01/07/2024 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/co-phai-doi-can-cuoc-cong-dan-sang-the-can-cuoc-chung-minh-nhan-dan-con-han-duoc-su-dung-den-khi-nao-119231127135809515.htm) |
+
+> Chứng minh nhân dân (CMND) đã được thay thế bởi Luật Căn cước công dân 2014 (số 59/2014/QH13) và sau đó là Luật Căn cước 2023 (số 25/2023/QH15). CMND còn hạn được sử dụng đến hết thời hạn ghi trên thẻ. Thẻ căn cước công dân, chứng minh nhân dân hết giá trị sử dụng kể từ ngày 01/01/2025.
 
 ---
 
