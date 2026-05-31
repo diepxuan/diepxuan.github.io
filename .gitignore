@@ -55,3 +55,4 @@ dist/
 memory/
 .heartbeat-state.json
 MEMORY.md
+.stignore
