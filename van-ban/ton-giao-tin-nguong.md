@@ -2,21 +2,23 @@
 layout: page
 title: Tôn giáo, tín ngưỡng
 permalink: /van-ban/ton-giao-tin-nguong/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Tôn+giáo,+tín+ngưỡng) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Tôn+giáo,+tín+ngưỡng) | [LuatVietnam](https://luatvietnam.vn/search?q=Tôn+giáo,+tín+ngưỡng) |
+| **Số hiệu** | 07/2026/QH16 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch nước (Lệnh công bố số 07/2026/L-CTN ngày 26/4/2026) |
+| **Ngày ban hành** | 23/04/2026 |
+| **Ngày hiệu lực** | 01/01/2027 |
+| **Trạng thái** | Chưa có hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn) |
+
+> Luật Tín ngưỡng, tôn giáo số 07/2026/QH16 được Quốc hội khóa XVI thông qua ngày 23/4/2026 tại Kỳ họp thứ Nhất, thay thế Luật Tín ngưỡng, tôn giáo năm 2016. Luật có hiệu lực từ ngày 01/01/2027.
 
 ---
 
