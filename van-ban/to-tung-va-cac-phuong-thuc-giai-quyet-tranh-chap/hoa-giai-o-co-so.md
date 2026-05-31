@@ -2,21 +2,23 @@
 layout: page
 title: Hòa giải ở cơ sở
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/hoa-giai-o-co-so/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Hòa+giải+ở+cơ+sở) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Hòa+giải+ở+cơ+sở) | [LuatVietnam](https://luatvietnam.vn/search?q=Hòa+giải+ở+cơ+sở) |
+| **Số hiệu** | 35/2013/QH13 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 20/06/2013 |
+| **Ngày hiệu lực** | 01/01/2014 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=172588) |
+
+> Luật Hòa giải ở cơ sở số 35/2013/QH13. Hướng dẫn thi hành: Nghị định 15/2014/NĐ-CP.
 
 ---
 
