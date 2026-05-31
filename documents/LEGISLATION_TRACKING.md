@@ -12,12 +12,12 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 
 ## Văn bản mới đáng chú ý
 
-| Số hiệu | Ngày ban hành | Trích yếu | Nhóm |
-|---|---:|---|---|
-| 148/2026/NĐ-CP | 12/05/2026 | Sửa đổi, bổ sung Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại | Đối ngoại / thông tin |
-| 48/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản | An ninh mạng |
-| 47/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng cho hệ thống thông tin lưu trữ tài liệu điện tử trong cơ quan Đảng, Nhà nước | An ninh mạng |
-| 47/2026/TT-BTC | 12/05/2026 | Quy định mẫu biểu báo cáo thông tin về nợ công và tính toán chỉ tiêu rủi ro danh mục nợ Chính phủ | Tài chính / nợ công |
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---|---|
+| 148/2026/NĐ-CP | 12/05/2026 | Sửa đổi, bổ sung Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại | Đối ngoại / thông tin | Chưa có | Ưu tiên sau an ninh mạng |
+| 48/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản | An ninh mạng | Chưa có | Ưu tiên 1; heartbeat phải crawl nguồn chính thức và chuẩn bị PR |
+| 47/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng cho hệ thống thông tin lưu trữ tài liệu điện tử trong cơ quan Đảng, Nhà nước | An ninh mạng | Chưa có | Ưu tiên 1; heartbeat phải crawl nguồn chính thức và chuẩn bị PR |
+| 47/2026/TT-BTC | 12/05/2026 | Quy định mẫu biểu báo cáo thông tin về nợ công và tính toán chỉ tiêu rủi ro danh mục nợ Chính phủ | Tài chính / nợ công | Chưa có | Ưu tiên sau nhóm an ninh mạng |
 | 25/2026/TT-BCT | 11/05/2026 | Quy định quản lý chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo dùng ngân sách nhà nước của Bộ Công Thương | Khoa học công nghệ |
 | 147/2026/NĐ-CP | 07/05/2026 | Hướng dẫn cơ chế, chính sách đặc thù tháo gỡ khó khăn cho các dự án tồn đọng, kéo dài theo Nghị quyết 29/2026/QH16 | Đầu tư / dự án tồn đọng |
 | 146/2026/NĐ-CP | 06/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp | Lâm nghiệp |
@@ -60,8 +60,10 @@ Chưa thấy trang chuyên biệt cho các văn bản mới sau:
 
 ## Cách sử dụng
 
-- Dùng báo cáo này làm backlog cho các heartbeat `check-new-laws` và `update-vbpl`.
+- Dùng báo cáo này làm backlog cho heartbeat `Legislation Backlog Ingestion` trong `HEARTBEAT.md`.
+- Không để `track-legislation` hoặc `check-new-laws` quá hạn mà chỉ ghi nhận trạng thái; nếu quá hạn từ 7 ngày trở lên phải xử lý item ưu tiên cao nhất ngay.
 - Khi tạo nội dung mới, mỗi nhóm văn bản nên đi một branch/PR riêng.
+- Nhóm ưu tiên hiện tại là **An ninh mạng** gồm `48/2026/TT-BCA` và `47/2026/TT-BCA`; heartbeat phải crawl nguồn chính thức và chuẩn bị PR cho nhóm này trước các nhóm khác.
 - Nguồn crawl ưu tiên vẫn là `vanban.chinhphu.vn` và PDF đính kèm từ `datafiles.chinhphu.vn`.
 
 ## Troubleshooting
