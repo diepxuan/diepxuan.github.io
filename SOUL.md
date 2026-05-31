@@ -55,7 +55,7 @@ Mọi file mới phải được tạo trong vị trí đúng:
 
 4. **Memory Files** - `memory/` folder
    - Daily memory: `memory/YYYY-MM-DD.md`
-   - Long-term memory: `MEMORY.md`
+   - Long-term memory: local-only/ignored, không commit vào repo
 
 5. **Archive Files** - `archive/` folder
    - File cũ: `archive/[category]/`

@@ -2,21 +2,21 @@
 layout: page
 title: Trưng mua, trưng dụng tài sản
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/trung-mua-trung-dung-tai-san/
-lastedit: 2026-05-13
+lastedit: 2026-05-28
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Trưng+mua,+trưng+dụng+tài+sản) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Trưng+mua,+trưng+dụng+tài+sản) | [LuatVietnam](https://luatvietnam.vn/search?q=Trưng+mua,+trưng+dụng+tài+sản) |
+| **Số hiệu** | 15/2008/QH12 |
+| **Loại văn bản** | Luật |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Nguyễn Phú Trọng |
+| **Ngày ban hành** | 14/11/2008 |
+| **Ngày hiệu lực** | 01/01/2010 |
+| **Trạng thái** | Còn hiệu lực |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=102423) |
 
 ---
 

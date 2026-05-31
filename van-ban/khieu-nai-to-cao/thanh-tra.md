@@ -2,21 +2,23 @@
 layout: page
 title: Thanh tra
 permalink: /van-ban/khieu-nai-to-cao/thanh-tra/
-lastedit: 2026-05-13
+lastedit: 2026-05-29
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | 60/2012/QH12
+| **Số hiệu** | 11/2022/QH15
 | **Loại văn bản** | Luật
 | **Nơi ban hành** | Quốc hội
-| **Người ký** | 
-| **Ngày ban hành** | 15/06/2012
-| **Ngày hiệu lực** | 15/09/2012
+| **Người ký** | Vương Đình Huệ
+| **Ngày ban hành** | 14/11/2022
+| **Ngày hiệu lực** | 01/07/2023
 | **Trạng thái** | Còn hiệu lực
-| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=121574)|
+| **Nguồn** | thuvienphapluat.vn
+
+**Văn bản liên quan:** Nghị định 43/2023/NĐ-CP; Nghị định 44/2023/NĐ-CP; Thông tư 03/2023/TT-TTCP|
 
 ---
 
@@ -135,8 +137,32 @@ Trong thời hạn 15 ngày kể từ ngày nhận được dự thảo kết lu
 
 2. Luật Thanh tra 2010 hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
+### Chương VII: TIẾP CÔNG DÂN, XỬ LÝ KHIẾU NẠI, TỐ CÁO, KIẾN NGHỊ, PHẢN ÁNH TRONG HOẠT ĐỘNG THANH TRA
+
+#### Điều 11. Tiếp công dân
+
+Cơ quan thực hiện chức năng thanh tra có trách nhiệm tổ chức tiếp công dân theo quy định của pháp luật về tiếp công dân.
+
+#### Điều 12. Xử lý khiếu nại, tố cáo
+
+Việc giải quyết khiếu nại, tố cáo trong hoạt động thanh tra thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.
+
+### Chương VIII. TRÁCH NHIỆM CỦA CÁC CƠ QUAN TRONG HOẠT ĐỘNG THANH TRA
+
+#### Điều 13-14. Trách nhiệm của Thủ trưởng cơ quan quản lý nhà nước; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+
+Thủ trưởng cơ quan quản lý nhà nước trong phạm vi nhiệm vụ, quyền hạn có trách nhiệm chỉ đạo, tổ chức thực hiện kết luận thanh tra và xử lý kịp thời các vấn đề phát hiện qua thanh tra.
+
+### Chương IX. ĐIỀU KHOẢN THI HÀNH (Điều 15-16)
+
+#### Điều 15. Hiệu lực thi hành
+
+Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023. Luật Thanh tra số 56/2010/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực.
+
+#### Điều 16. Quy định chi tiết
+
+Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật.
+
 ---
 
-*Luật Thanh tra số 11/2022/QH15, được Quốc hội khóa XV thông qua ngày 14/11/2022, có hiệu lực từ ngày 01/07/2023, thay thế Luật Thanh tra 2010.*
-
-*Nguồn: thuvienphapluat.vn*
+*Luật Thanh tra số 11/2022/QH15, được Quốc hội khóa XV thông qua ngày 14/11/2022, có hiệu lực từ ngày 01/07/2023, thay thế Luật Thanh tra số 56/2010/QH12. Toàn văn 16 Chương, tham khảo tại nguồn chính thức.*

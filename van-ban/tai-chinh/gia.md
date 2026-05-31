@@ -2,7 +2,7 @@
 layout: page
 title: Giá
 permalink: /van-ban/tai-chinh/gia/
-lastedit: 2026-05-13
+lastedit: 2026-05-29
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -16,7 +16,7 @@ lastedit: 2026-05-13
 | **Ngày ban hành** | 19/06/2023 |
 | **Ngày hiệu lực** | 01/07/2024 |
 | **Trạng thái** | Còn hiệu lực |
-| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=208367) | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Giá) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Giá) | [LuatVietnam](https://luatvietnam.vn/search?q=Giá) |
+| **Nguồn** | [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=208367) | [PDF gốc](https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/7/luat16_2023.pdf) |
 
 ---
 
@@ -25,7 +25,9 @@ lastedit: 2026-05-13
 
 ## Luật Giá 2023 (số 16/2023/QH15)
 
-### Chương 1. NHỮNG QUY ĐỊNH CHUNG
+**Chú thích:** Luật Giá 2023 gồm 8 Chương, 75 Điều. Nội dung dưới đây là tổng hợp các quy định chính, tham khảo PDF gốc để tra cứu toàn văn.
+
+### Chương I. NHỮNG QUY ĐỊNH CHUNG (Điều 1-7)
 
 #### Điều 1. Phạm vi điều chỉnh
 
@@ -40,22 +42,7 @@ Luật này quy định về nguyên tắc, chính sách của Nhà nước về
 
 #### Điều 3. Giải thích từ ngữ
 
-1. Giá là biểu hiện bằng tiền của giá trị hàng hóa được xác định theo quy định của Luật giá, pháp luật về giá đối với hàng hóa do Nhà nước định giá hoặc theo cơ chế thị trường.
-2. Định giá là việc xác định giá của hàng hóa.
-3. Quản lý giá là hoạt động của cơ quan nhà nước có thẩm quyền để tổ chức thực hiện các biện pháp nhằm bảo đảm cho giá hàng hóa hình thành theo đúng quy định của pháp luật.
-4. Hàng hóa là sản phẩm hoặc công việc, dịch vụ được giao kết trong hợp đồng mua bán hàng hóa, cung ứng dịch vụ.
-5. Dịch vụ định giá là hoạt động cung cấp thông tin, tư vấn và kết quả xác định giá của hàng hóa theo yêu cầu của bên có yêu cầu định giá, do bên định giá độc lập, khách quan về mặt chuyên môn và chịu trách nhiệm theo quy định của pháp luật thực hiện.
-6. Bên có yêu cầu định giá là tổ chức, cá nhân có nhu cầu xác định giá trị bằng tiền của tài sản và bên định giá quy định tại điểm c khoản này.
-7. Bên định giá là tổ chức cung cấp dịch vụ định giá.
-8. Thẩm định giá là việc cơ quan, tổ chức, cá nhân có chức năng thẩm định giá xem định thẩm tra kết quả xác định giá của tổ chức, cá nhân định giá hoặc tự mình xác định giá trị bằng tiền của tài sản theo quy định của Luật giá và quy định khác của pháp luật có liên quan.
-9. Khung giá là quy định mức giá cao nhất và mức giá thấp nhất làm căn cứ để xác định giá hàng hóa.
-10. Mức giá cụ thể là mức giá chính xác cho một hàng hóa tương ứng với tiêu chuẩn kỹ thuật và điều kiện giao hàng cụ thể.
-11. Công thức xác định giá là quy định phương pháp và các yếu tố cấu thành được sử dụng để tính toán, xác định giá hàng hóa.
-12. Giá tính thuế là giá quy đổi của hàng hóa xuất khẩu, hàng hóa nhập khẩu được xác định theo quy định của pháp luật về thuế xuất khẩu và thuế nhập khẩu, pháp luật về thuế giá trị gia tăng và pháp luật về thuế tiêu thụ đặc biệt.
-13. Giá dịch vụ là giá của dịch vụ trong quá trình mua bán hàng hóa được xác định theo quy định của pháp luật về giá.
-14. Lấn biên giá là việc điều chỉnh giá mua bán hàng hóa so với giá quy định, giá hướng dẫn hoặc giá niêm yết theo nguyên tắc quy định tại Luật giá.
-15. Phí là khoản tiền mà tổ chức, cá nhân phải trả khi thực hiện một hoặc một số dịch vụ hành chính, dịch vụ công do cơ quan nhà nước có thẩm quyền ban hành hoặc được cơ quan nhà nước có thẩm quyền cho phép nhằm bù đắp một phần chi phí.
-16. Lệ phí là khoản tiền mà tổ chức, cá nhân phải nộp khi thực hiện một hoặc một số thủ tục hành chính theo quy định của Luật phí và lệ phí.
+Giải thích các thuật ngữ: giá, định giá, quản lý giá, hàng hóa, dịch vụ định giá, thẩm định giá, khung giá, mức giá cụ thể, công thức xác định giá, giá tính thuế, giá dịch vụ, lấn biên giá, phí, lệ phí.
 
 #### Điều 4. Hàng hóa do Nhà nước định giá, đặt hàng, đấu thầu theo giá
 
@@ -64,52 +51,143 @@ Luật này quy định về nguyên tắc, chính sách của Nhà nước về
 
 #### Điều 5. Giá hình thành theo thị trường
 
-1. Giá hình thành theo thị trường là giá của hàng hóa do tổ chức, cá nhân tự định giá theo quy định của pháp luật về giá.
-2. Giá hàng hóa được hình thành trên cơ sở quan hệ cung cầu trên thị trường.
-3. Khi có biến động bất thường về thị trường, Nhà nước áp dụng biện pháp bình ổn giá theo quy định tại Luật này.
+Giá hình thành theo thị trường là giá của hàng hóa do tổ chức, cá nhân tự định giá theo quy định. Khi có biến động bất thường, Nhà nước áp dụng biện pháp bình ổn giá.
 
 #### Điều 6. Bình ổn giá
 
-1. Chính phủ, Thủ tướng Chính phủ quy định hoặc ủy quyền cho Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh áp dụng biện pháp bình ổn giá.
-2. Việc áp dụng biện pháp bình ổn giá thực hiện trong trường hợp giá hàng hóa trên thị trường biến động bất thường.
-3. Các biện pháp bình ổn giá bao gồm:
-   a) Thực hiện việc đăng ký mức giá, khai báo chi phí;
-   b) Kê khai hàng hóa;
-   c) Điều chỉnh mức lợi nhuận.
+Chính phủ, Thủ tướng Chính phủ quy định hoặc ủy quyền áp dụng biện pháp bình ổn giá khi thị trường biến động bất thường. Các biện pháp: đăng ký mức giá, kê khai hàng hóa, điều chỉnh mức lợi nhuận.
 
 #### Điều 7. Đăng ký giá
 
-Tổ chức, cá nhân sản xuất, kinh doanh hàng hóa thuộc danh mục phải đăng ký giá với cơ quan nhà nước có thẩm quyền theo quy định của Chính phủ.
+Tổ chức, cá nhân sản xuất, kinh doanh hàng hóa thuộc danh mục phải đăng ký giá với cơ quan nhà nước có thẩm quyền.
 
-#### Điều 8. Kê khai giá
+### Chương II. QUYỀN, NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN KINH DOANH HÀNG HÓA, DỊCH VỤ VÀ NGƯỜI TIÊU DÙNG TRONG LĨNH VỰC GIÁ (Điều 8-11)
 
-1. Tổ chức, cá nhân sản xuất, kinh doanh hàng hóa thuộc diện kê khai giá phải kê khai giá với cơ quan nhà nước có thẩm quyền.
-2. Thời hạn, nội dung, hình thức kê khai giá do Bộ Tài chính quy định.
+#### Điều 8. Quyền của tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ
 
-#### Điều 9. Nguyên tắc quản lý giá, định giá
+Quyền tự định giá hàng hóa, dịch vụ; quyền tham gia góp ý chính sách giá; quyền yêu cầu cơ quan nhà nước giải thích các quy định về giá.
 
-1. Việc quản lý giá, định giá phải tuân thủ nguyên tắc khách quan, trung thực, công khai, minh bạch.
-2. Định giá phải đúng phương pháp, đúng trình tự, thủ tục theo quy định.
-3. Cơ quan nhà nước, người có thẩm quyền quyết định giá chịu trách nhiệm trước pháp luật về quyết định giá của mình.
+#### Điều 9. Nghĩa vụ của tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ
 
-#### Điều 10. Chính sách của Nhà nước về giá
+Niêm yết giá; thực hiện đăng ký giá, kê khai giá; chịu trách nhiệm về giá do mình định; tuân thủ các quyết định về giá của cơ quan nhà nước có thẩm quyền.
 
-1. Nhà nước quản lý, điều tiết giá thị trường thông qua các chính sách và biện pháp kinh tế.
-2. Nhà nước áp dụng biện pháp bình ổn giá, can thiệp vào giá thị trường theo quy định của Luật này.
-3. Nhà nước khuyến khích tổ chức, cá nhân hoạt động dịch vụ định giá.
+#### Điều 10. Quyền và nghĩa vụ của người tiêu dùng trong lĩnh vực giá
 
-#### Điều 11. Các hành vi bị nghiêm cấm
+Quyền được biết giá, được yêu cầu giải thích về giá; nghĩa vụ thanh toán đúng giá niêm yết.
 
-1. Định giá không đúng phương pháp, trình tự, thủ tục theo quy định.
-2. Lợi dụng vị trí công tác để sách nhiễu, gây phiền hà, tham nhũng trong quản lý giá.
-3. Che giấu, làm sai lệch thông tin, tài liệu trong định giá.
+#### Điều 11. Quyền và nghĩa vụ của tổ chức đại diện người tiêu dùng
+
+Giám sát việc thực hiện pháp luật về giá; kiến nghị cơ quan nhà nước về các hành vi vi phạm.
+
+### Chương III. NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN QUẢN LÝ NHÀ NƯỚC VỀ GIÁ, THẨM ĐỊNH GIÁ (Điều 12-16)
 
 #### Điều 12. Trách nhiệm quản lý nhà nước về giá
 
 1. Bộ Tài chính chịu trách nhiệm trước Chính phủ thực hiện chức năng quản lý nhà nước về giá.
-2. Các Bộ, cơ quan ngang Bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Tài chính trong quản lý nhà nước về giá.
-3. Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về giá tại địa phương.
+2. Các Bộ, cơ quan ngang Bộ có trách nhiệm phối hợp với Bộ Tài chính.
+3. UBND cấp tỉnh thực hiện quản lý nhà nước về giá tại địa phương.
+
+#### Điều 13. Nhiệm vụ, quyền hạn của Chính phủ
+
+Ban hành và tổ chức thực hiện chính sách giá quốc gia; phê duyệt danh mục hàng hóa do Nhà nước định giá; quyết định biện pháp bình ổn giá.
+
+#### Điều 14. Nhiệm vụ, quyền hạn của Bộ Tài chính
+
+Chủ trì xây dựng pháp luật về giá; hướng dẫn thực hiện; quản lý giá đối với hàng hóa thuộc thẩm quyền; tổ chức thanh tra, kiểm tra.
+
+#### Điều 15. Nhiệm vụ, quyền hạn của Bộ, cơ quan ngang Bộ
+
+Quản lý giá hàng hóa, dịch vụ thuộc lĩnh vực phụ trách theo phân công của Chính phủ.
+
+#### Điều 16. Nhiệm vụ, quyền hạn của UBND cấp tỉnh
+
+Quản lý giá hàng hóa, dịch vụ tại địa phương; định giá hàng hóa theo phân cấp.
+
+### Chương IV. HOẠT ĐỘNG QUẢN LÝ, ĐIỀU TIẾT GIÁ CỦA NHÀ NƯỚC (Điều 17-33)
+
+**Mục 1. Bình ổn giá (Điều 17-20)**
+- Điều 17. Nguyên tắc bình ổn giá
+- Điều 18. Hàng hóa thuộc diện bình ổn giá
+- Điều 19. Biện pháp bình ổn giá
+- Điều 20. Quỹ bình ổn giá
+
+**Mục 2. Định giá (Điều 21-24)**
+- Điều 21. Nguyên tắc định giá
+- Điều 22. Phương pháp định giá
+- Điều 23. Thẩm quyền định giá
+- Điều 24. Trình tự, thủ tục định giá
+
+**Mục 3. Hiệp thương giá (Điều 25-27)**
+- Điều 25. Nguyên tắc hiệp thương giá
+- Điều 26. Nội dung hiệp thương giá
+- Điều 27. Tổ chức hiệp thương giá
+
+**Mục 4. Kê khai giá, niêm yết giá, giá tham chiếu (Điều 28-30)**
+- Điều 28. Kê khai giá
+- Điều 29. Niêm yết giá
+- Điều 30. Giá tham chiếu
+
+**Mục 5. Kiểm tra yếu tố hình thành giá (Điều 31-33)**
+- Điều 31. Nội dung kiểm tra yếu tố hình thành giá
+- Điều 32. Thẩm quyền kiểm tra
+- Điều 33. Xử lý kết quả kiểm tra
+
+### Chương V. TỔNG HỢP, PHÂN TÍCH, DỰ BÁO GIÁ THỊ TRƯỜNG, CƠ SỞ DỮ LIỆU VỀ GIÁ (Điều 34-39)
+
+#### Điều 34. Tổng hợp, phân tích, dự báo giá thị trường
+
+Cơ quan quản lý nhà nước về giá có trách nhiệm thực hiện tổng hợp, phân tích, dự báo giá thị trường phục vụ công tác quản lý.
+
+#### Điều 35. Cơ sở dữ liệu về giá
+
+Xây dựng và quản lý cơ sở dữ liệu về giá quốc gia; kết nối, chia sẻ thông tin giữa các cơ quan.
+
+#### Điều 36-39. Các quy định về thu thập, xử lý thông tin
+
+Quy định về cơ chế thu thập thông tin giá thị trường; công bố thông tin; trách nhiệm cung cấp thông tin của tổ chức, cá nhân.
+
+### Chương VI. THẨM ĐỊNH GIÁ (Điều 40-66)
+
+**Mục 1. Quy định chung về thẩm định giá (Điều 40-43)**
+- Điều 40. Nguyên tắc thẩm định giá
+- Điều 41. Phạm vi thẩm định giá
+- Điều 42. Quyền và nghĩa vụ của tổ chức thẩm định giá
+- Điều 43. Tiêu chuẩn thẩm định giá
+
+**Mục 2. Dịch vụ thẩm định giá (Điều 44-58)**
+- Quy định về hợp đồng thẩm định giá; quy trình thực hiện; hồ sơ thẩm định giá; chứng thư thẩm định giá; trách nhiệm của thẩm định viên; quyền và nghĩa vụ của doanh nghiệp thẩm định giá.
+
+**Mục 3. Thẩm định giá của Nhà nước (Điều 59-66)**
+- Thẩm định giá tài sản nhà nước; thẩm định giá phục vụ cổ phần hóa; thẩm định giá trong đầu tư công; khiếu nại, giải quyết khiếu nại về thẩm định giá.
+
+### Chương VII. THANH TRA CHUYÊN NGÀNH VỀ GIÁ, KIỂM TRA VIỆC CHẤP HÀNH PHÁP LUẬT VỀ GIÁ, THẨM ĐỊNH GIÁ (Điều 67-72)
+
+#### Điều 67. Thanh tra chuyên ngành về giá
+
+Thanh tra Bộ Tài chính thực hiện thanh tra chuyên ngành về giá theo quy định.
+
+#### Điều 68. Kiểm tra việc chấp hành pháp luật về giá
+
+Cơ quan quản lý nhà nước về giá thực hiện kiểm tra việc chấp hành pháp luật về giá đối với tổ chức, cá nhân.
+
+#### Điều 69-72. Các quy định về xử lý vi phạm
+
+Xử lý vi phạm hành chính; bồi thường thiệt hại; áp dụng biện pháp khắc phục hậu quả.
+
+### Chương VIII. ĐIỀU KHOẢN THI HÀNH (Điều 73-75)
+
+#### Điều 73. Hiệu lực thi hành
+
+Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2024. Luật Giá số 11/2012/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực.
+
+#### Điều 74. Quy định chi tiết
+
+Chính phủ quy định chi tiết các điều, khoản được giao trong Luật.
+
+#### Điều 75. Quy định chuyển tiếp
+
+Các văn bản quy phạm pháp luật ban hành trước ngày Luật này có hiệu lực phải được rà soát, sửa đổi, bổ sung cho phù hợp.
 
 ---
 
-*Nội dung đầy đủ của Luật Giá 2023 bao gồm 68 Điều, 10 Chương, quy định chi tiết về quản lý giá, thẩm quyền định giá, bình ổn giá và tổ chức thực hiện. Tham khảo văn bản gốc tại Luật Giá số 16/2023/QH15 được Quốc hội thông qua năm 2023.*
+*Nội dung trên được tổng hợp từ Luật Giá số 16/2023/QH15 ngày 19/06/2023, có hiệu lực từ 01/07/2024. Toàn văn 75 Điều, 8 Chương tham khảo tại [PDF gốc](https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/7/luat16_2023.pdf) hoặc [Cổng TTĐT Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=208367).*
