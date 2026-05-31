@@ -2,21 +2,23 @@
 layout: page
 title: Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to-chuc-phap-che/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Chức+năng,+nhiệm+vụ,+quyền+hạn+và+tổ+chức+bộ+máy+của+tổ+chức+pháp+chế) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Chức+năng,+nhiệm+vụ,+quyền+hạn+và+tổ+chức+bộ+máy+của+tổ+chức+pháp+chế) | [LuatVietnam](https://luatvietnam.vn/search?q=Chức+năng,+nhiệm+vụ,+quyền+hạn+và+tổ+chức+bộ+máy+của+tổ+chức+pháp+chế) |
+| **Số hiệu** | 55/2011/NĐ-CP |
+| **Loại văn bản** | Nghị định |
+| **Nơi ban hành** | Chính phủ |
+| **Người ký** | Thủ tướng Chính phủ |
+| **Ngày ban hành** | 04/07/2011 |
+| **Ngày hiệu lực** | 04/07/2011 |
+| **Trạng thái** | Còn hiệu lực (được sửa đổi bởi Nghị định 56/2024/NĐ-CP) |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=210258) |
+
+> Nghị định 55/2011/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế. Được sửa đổi, bổ sung bởi Nghị định 56/2024/NĐ-CP.
 
 ---
 
