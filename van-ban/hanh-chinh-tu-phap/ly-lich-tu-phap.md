@@ -2,21 +2,23 @@
 layout: page
 title: Lý lịch tư pháp
 permalink: /van-ban/hanh-chinh-tu-phap/ly-lich-tu-phap/
-lastedit: 2026-05-13
+lastedit: 2026-05-30
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | Đang cập nhật |
-| **Loại văn bản** | Đang cập nhật |
-| **Nơi ban hành** | Đang cập nhật |
-| **Người ký** | Đang cập nhật |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
-| **Nguồn** | [Thư Viện Pháp Luật](https://thuvienphapluat.vn/Search.aspx?keyword=Lý+lịch+tư+pháp) | [VBPL](https://vbpl.vn/TW/Pages/vbsearch.aspx?txtKeyword=Lý+lịch+tư+pháp) | [LuatVietnam](https://luatvietnam.vn/search?q=Lý+lịch+tư+pháp) |
+| **Số hiệu** | 107/2025/QH15 |
+| **Loại văn bản** | Luật (sửa đổi) |
+| **Nơi ban hành** | Quốc hội |
+| **Người ký** | Chủ tịch Quốc hội |
+| **Ngày ban hành** | 05/12/2025 |
+| **Ngày hiệu lực** | 01/07/2026 |
+| **Trạng thái** | Chưa có hiệu lực |
+| **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=97887) |
+
+> Luật sửa đổi, bổ sung một số điều của Luật Lý lịch tư pháp số 107/2025/QH15 được Quốc hội thông qua ngày 05/12/2025, có hiệu lực từ 01/07/2026. Luật chuyển thẩm quyền quản lý lý lịch tư pháp từ Bộ Tư pháp sang Bộ Công an.
 
 ---
 
