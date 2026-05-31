@@ -2,21 +2,21 @@
 layout: page
 title: Kiểm tra và xử lý văn bản quy phạm pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-tra-va-xu-ly-van-ban-quy-pham-phap-luat/
-lastedit: 2026-05-13
+lastedit: 2026-05-29
 ---
 
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
 |---|---|
-| **Số hiệu** | 04/2014/QH13
+| **Số hiệu** | 80/2015/QH13
 | **Loại văn bản** | Luật
 | **Nơi ban hành** | Quốc hội
-| **Người ký** | 
-| **Ngày ban hành** | 20/03/2014
-| **Ngày hiệu lực** | 01/07/2014
-| **Trạng thái** | Còn hiệu lực
-| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=125950)|
+| **Người ký** | Nguyễn Thị Kim Ngân
+| **Ngày ban hành** | 22/06/2015
+| **Ngày hiệu lực** | 01/07/2016
+| **Trạng thái** | Còn hiệu lực (đã sửa đổi, bổ sung 2020, 2025)
+| **Nguồn** | [thuvienphapluat.vn](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-ban-hanh-van-ban-quy-pham-phap-luat-2015-282382.aspx)|
 
 ---
 
