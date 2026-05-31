@@ -84,7 +84,7 @@ Nguyên tắc sửa:
 - Không thêm nội dung suy đoán.
 - Không copy từ nguồn phụ không chính thức khi chưa đối chiếu.
 
-### Bước 5: Tạo branch và commit local
+### Bước 5: Tạo branch, commit và PR
 
 ```bash
 git checkout main
@@ -96,13 +96,15 @@ git diff --stat
 git diff --name-only
 git add <files-trong-scope>
 git commit -m "<type>: <mo-ta-ngan>"
+git push -u origin <branch>
+gh pr create --base main --head <branch> --title "<type>: <mo-ta-ngan>" --body-file /tmp/pr-body.md
 ```
 
-Không push/tạo PR nếu Sếp chưa nói rõ: `Em tạo PR đi`.
+Nếu refactor chạy từ heartbeat hoặc Sếp yêu cầu review qua PR, không dừng ở branch local; phải tạo PR sau khi kiểm tra đạt yêu cầu.
 
 ---
 
-## 3. Checklist trước khi báo READY_FOR_PR
+## 3. Checklist trước khi báo PR_CREATED
 
 - [ ] Branch được tạo từ `origin/main` mới nhất.
 - [ ] Không có PR mở khác chạm cùng file, hoặc đã nêu rõ đây là branch thay thế.
@@ -110,8 +112,9 @@ Không push/tạo PR nếu Sếp chưa nói rõ: `Em tạo PR đi`.
 - [ ] Nguồn chính thức đã được ghi nhận trong báo cáo/PR body.
 - [ ] `git diff --check` pass.
 - [ ] Không có credential, token, memory local, `.heartbeat-state.json` trong diff.
-- [ ] Commit local đã tạo.
-- [ ] Chưa push nếu chưa được phép.
+- [ ] Commit đã tạo.
+- [ ] Branch đã push.
+- [ ] PR đã mở để Sếp review.
 
 ---
 
@@ -136,9 +139,10 @@ Không tự đóng PR cũ trừ khi Sếp giao rõ trong phiên hiện tại.
 ## 5. Mẫu báo cáo
 
 ```text
-Kết quả: READY_FOR_PR
+Kết quả: PR_CREATED
 Branch: fix/vanban-metadata-dau-tu-20260601
 Commit: abc1234 fix: sửa metadata Luật Đầu tư
+PR: https://github.com/diepxuan/diepxuan.github.io/pull/<number>
 
 Phạm vi:
 - van-ban/thuong-mai-dau-tu-chung-khoan/dau-tu.md
@@ -155,5 +159,5 @@ Kiểm tra:
 - git diff --check: pass
 - git diff --stat: 1 file changed
 
-Chưa push. Nếu đồng ý, Sếp nói: Em tạo PR đi
+Sếp review PR và quyết định merge/đóng/sửa thêm
 ```

@@ -56,8 +56,14 @@ Khi làm việc với Jekyll website:
 
 Cấm:
 - Bỏ qua boot sequence.
-- Tự ý push, tạo PR, sửa PR cũ.
+- Tự ý push, tạo PR, sửa PR cũ khi chưa có task hoặc quyền rõ ràng.
 - Vi phạm nguyên tắc 1 task = 1 branch = 1 PR.
+- Tự merge/close PR khi chưa có lệnh rõ.
+
+Bắt buộc:
+- Nếu Sếp giao task cần review qua PR, phải tạo branch mới, commit, push và mở PR sau khi kiểm tra.
+- Nếu heartbeat tạo/cập nhật nội dung hoặc tài liệu, đầu ra hoàn tất phải là PR để Sếp review, không chỉ là branch local.
+- Nếu heartbeat không thể tạo PR, phải báo `BLOCKED` và nêu nguyên nhân cụ thể.
 
 Tham chiếu chi tiết: SOUL.md Section 5
 
