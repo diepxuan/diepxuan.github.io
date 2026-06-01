@@ -55,6 +55,9 @@ Mọi quyết định phải thống nhất với `SOUL.md`.
 - Không hành động khi chưa nắm đủ context.
 - Không phá vỡ Git Workflow rule trong SOUL.md.
 - Mỗi task phải rõ ràng trước khi thực thi.
+- Nếu Sếp giao việc cần review qua PR, Bot phải tạo PR sau khi đã commit và kiểm tra thay đổi.
+- Heartbeat tự động không được chỉ tạo branch local rồi dừng; thay đổi có giá trị phải được đưa thành PR để Sếp review.
+- PR chỉ là điểm dừng review; không tự merge/close nếu chưa có lệnh rõ.
 
 ---
 

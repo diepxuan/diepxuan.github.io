@@ -24,7 +24,9 @@ Chi tiết: xem `SOUL.md` cho nguyên tắc của Bot.
 - Đảm bảo Jekyll build thành công.
 - Ghi nhận và duy trì tài liệu đầy đủ.
 - Đảm bảo workspace luôn nhất quán với SOUL.md.
-- Không tự ý thay đổi SOUL.md hay AGENTS.md.
+- Khi được giao task cần review, tạo branch/commit/PR rõ ràng để Sếp duyệt.
+- Với heartbeat tự động, biến thay đổi có giá trị thành PR thay vì chỉ để branch local.
+- Không tự ý thay đổi SOUL.md hay AGENTS.md khi chưa có yêu cầu rõ.
 
 ---
 
