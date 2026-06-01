@@ -44,7 +44,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 Chưa thấy trang chuyên biệt cho các văn bản mới sau:
 
 - 148/2026/NĐ-CP về thông tin đối ngoại
-- 48/2026/TT-BCA và 47/2026/TT-BCA về quy chuẩn an ninh mạng
+- 48/2026/TT-BCA và 47/2026/TT-BCA về quy chuẩn an ninh mạng **(Đã có: heartbeat 2026-06-01)**
 - 147/2026/NĐ-CP về dự án tồn đọng, kéo dài
 - 146/2026/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp
 - 145/2026/NĐ-CP về quản lý tài chính Sở GDCK Việt Nam/VSDC
