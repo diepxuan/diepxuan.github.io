@@ -56,7 +56,7 @@ Không dùng `HEARTBEAT_OK` chung chung nếu không có thông tin kiểm chứ
 
 ### 1.4. Task quá hạn phải tự nâng cấp mức xử lý
 
-Nếu `track-legislation`, `check-new-laws` hoặc task backlog pháp luật quá hạn:
+Nếu `Task B: Legislation Backlog Group Crawl` hoặc task backlog pháp luật quá hạn:
 
 - Quá hạn dưới 24 giờ: chạy ngay trong lượt heartbeat kế tiếp.
 - Quá hạn từ 24 giờ đến dưới 7 ngày: bỏ qua cooldown, ưu tiên trước task refactor thông thường.
@@ -293,14 +293,9 @@ Mục tiêu:
 
 Luật chọn nhóm và item:
 
-1. Thứ tự nhóm là thứ tự xuất hiện trong bảng backlog, từ trên xuống dưới.
-2. Chọn nhóm đầu tiên còn ít nhất một item `Chưa có`, `Cần cập nhật` hoặc `Blocked` có thể retry.
-3. Trong nhóm được chọn, xử lý item theo thứ tự xuất hiện trong backlog.
-4. Ưu tiên trạng thái theo thứ tự: `Chưa có` → `Cần cập nhật` → `Blocked` có thể retry.
-5. Không nhảy sang nhóm dưới nếu nhóm trên còn item xử lý được.
-6. Nếu một item bị `Blocked`, phải ghi rõ URL đã thử, nguyên nhân, điều kiện retry và tiếp tục item kế tiếp trong cùng nhóm nếu có.
-7. Chỉ chuyển sang nhóm kế tiếp khi nhóm hiện tại đã hoàn tất theo quy tắc ở mục 6.
-8. Có thể xử lý nhiều item cùng nhóm trong một PR nếu cùng chủ đề, cùng nguồn/cơ quan, tổng diff nhỏ và không vượt giới hạn phạm vi.
+- Áp dụng luật chọn nhóm backlog ở Bước 3.
+- Áp dụng trạng thái item và điều kiện hoàn tất nhóm ở mục 6.
+- Task B không được định nghĩa luật chọn nhóm riêng để tránh lệch với chu kỳ heartbeat chuẩn.
 
 Quy trình bắt buộc:
 
