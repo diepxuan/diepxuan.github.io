@@ -14,7 +14,7 @@ lastedit: 2026-05-15
 | **Nơi ban hành** | Ủy ban Thường vụ Quốc hội |
 | **Người ký** | Chủ tịch Ủy ban Thường vụ Quốc hội |
 | **Ngày ban hành** | 28/03/2007 |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Ngày hiệu lực** | 01/10/2007 |
 | **Trạng thái** | Còn hiệu lực |
 | **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://chinhphu.vn/default.aspx?pageid=27160&docid=55815) |
 
