@@ -14,9 +14,9 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---|---|
-| 148/2026/NĐ-CP | 12/05/2026 | Sửa đổi, bổ sung Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại | Đối ngoại / thông tin | Chưa có | Ưu tiên sau an ninh mạng |
-| 48/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản | An ninh mạng | Chưa có | Ưu tiên 1; heartbeat phải crawl nguồn chính thức và chuẩn bị PR |
-| 47/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng cho hệ thống thông tin lưu trữ tài liệu điện tử trong cơ quan Đảng, Nhà nước | An ninh mạng | Chưa có | Ưu tiên 1; heartbeat phải crawl nguồn chính thức và chuẩn bị PR |
+| 148/2026/NĐ-CP | 12/05/2026 | Sửa đổi, bổ sung Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại | Đối ngoại / thông tin | **Đã có** | `van-ban/ngoai-giao/nghi-dinh-148-2026-nd-cp-quan-ly-thong-tin-doi-ngoai.md` |
+| 48/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản | An ninh mạng | **Đã có** | `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` (PR #151) |
+| 47/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng cho hệ thống thông tin lưu trữ tài liệu điện tử trong cơ quan Đảng, Nhà nước | An ninh mạng | **Đã có** | `van-ban/an-ninh-quoc-gia/quy-chuan-an-ninh-mang-he-thong-luu-tru-tai-lieu-dien-tu.md` (PR #151) |
 | 47/2026/TT-BTC | 12/05/2026 | Quy định mẫu biểu báo cáo thông tin về nợ công và tính toán chỉ tiêu rủi ro danh mục nợ Chính phủ | Tài chính / nợ công | Chưa có | Ưu tiên sau nhóm an ninh mạng |
 | 25/2026/TT-BCT | 11/05/2026 | Quy định quản lý chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo dùng ngân sách nhà nước của Bộ Công Thương | Khoa học công nghệ | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
 | 147/2026/NĐ-CP | 07/05/2026 | Hướng dẫn cơ chế, chính sách đặc thù tháo gỡ khó khăn cho các dự án tồn đọng, kéo dài theo Nghị quyết 29/2026/QH16 | Đầu tư / dự án tồn đọng | Chưa có | Ưu tiên 3 cùng nhóm đất đai / dự án tồn đọng |
@@ -25,10 +25,10 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 03/2026/TT-BNG | 06/05/2026 | Phân cấp thẩm quyền chứng nhận lãnh sự, hợp pháp hóa lãnh sự cho UBND cấp tỉnh | Ngoại giao | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
 | 145/2026/NĐ-CP | 05/05/2026 | Cơ chế quản lý tài chính, đánh giá, xếp loại doanh nghiệp đối với Sở GDCK Việt Nam, VSDC | Chứng khoán | Chưa có | Ưu tiên 4 nếu mở rộng nhóm tài chính - chứng khoán |
 | 144/2026/NĐ-CP | 05/05/2026 | Sửa đổi Nghị định 181/2025/NĐ-CP hướng dẫn Luật Thuế giá trị gia tăng | Thuế | Chưa có | Ưu tiên 2 cùng nhóm thuế / thương mại |
-| 143/2026/NĐ-CP | 05/05/2026 | Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện Hiệp định CEPA Việt Nam - UAE giai đoạn 2026-2027 | Thuế / thương mại | Có liên quan | Đã có trang liên quan nhóm thuế xuất khẩu, thuế nhập khẩu; cần đối chiếu trước khi tạo mới |
+| 143/2026/NĐ-CP | 05/05/2026 | Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện Hiệp định CEPA Việt Nam - UAE giai đoạn 2026-2027 | Thuế / thương mại CEPA | **Cần cập nhật** | Cần đối chiếu `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-xuat-khau-thue-nhap-khau.md`; ghi chú cũ "Có liên quan" không phải trạng thái kết thúc hợp lệ |
 | 24/2026/TT-BCT | 05/05/2026 | Quy tắc xuất xứ hàng hóa trong Hiệp định CEPA Việt Nam - UAE | Thương mại | Chưa có | Ưu tiên 2 cùng nhóm thuế / thương mại |
 | 22/2026/QĐ-TTg | 01/05/2026 | Sửa đổi chế độ bồi dưỡng giám định tư pháp | Tư pháp | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
-| 142/2026/NĐ-CP | 30/04/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Trí tuệ nhân tạo | Khoa học công nghệ | Đã có | Đã có trang chuyên biệt trong nhóm khoa học công nghệ |
+| 142/2026/NĐ-CP | 30/04/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Trí tuệ nhân tạo | Khoa học công nghệ | **Đã có** | `van-ban/khoa-hoc-cong-nghe/nghi-dinh-142-2026-nd-cp-huong-dan-luat-tri-tue-nhan-tao.md` |
 | 21/2026/QĐ-TTg | 30/04/2026 | Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược | Khoa học công nghệ | Chưa có | Chờ xử lý theo backlog nhóm khoa học công nghệ |
 | 141/2026/NĐ-CP | 29/04/2026 | Sửa đổi chính sách thuế đối với hộ kinh doanh, cá nhân kinh doanh và hướng dẫn Luật Thuế TNDN | Thuế | Chưa có | Ưu tiên 2 cùng nhóm thuế / thương mại |
 | 29/2026/QH16 | 24/04/2026 | Cơ chế đặc thù xử lý vi phạm đất đai trước Luật Đất đai 2024 và tháo gỡ dự án tồn đọng, kéo dài | Đất đai / đầu tư | Chưa có | Ưu tiên 3 cùng nhóm đất đai / dự án tồn đọng |
