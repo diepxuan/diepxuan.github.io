@@ -14,7 +14,7 @@ lastedit: 2026-05-15
 | **Nơi ban hành** | Quốc hội |
 | **Người ký** | Chủ tịch Quốc hội |
 | **Ngày ban hành** | 16/06/2014 |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Ngày hiệu lực** | 01/01/2015 |
 | **Trạng thái** | Còn hiệu lực |
 | **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=217302) |
 
