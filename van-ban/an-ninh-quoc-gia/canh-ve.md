@@ -14,7 +14,7 @@ lastedit: 2026-05-15
 | **Nơi ban hành** | Ủy ban Thường vụ Quốc hội |
 | **Người ký** | Nguyễn Văn An |
 | **Ngày ban hành** | 02/04/2005 |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Ngày hiệu lực** | 17/04/2005 |
 | **Trạng thái** | Còn hiệu lực |
 | **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=14749) |
 
