@@ -23,13 +23,12 @@ lastedit: 2026-06-04
 | **Ngày ban hành** | 05/05/2026 |
 | **Ngày hiệu lực** | 05/05/2026 |
 | **Căn cứ pháp lý** | Luật Thương mại; Luật Quản lý ngoại thương; Hiệp định Đối tác kinh tế toàn diện (CEPA) giữa Việt Nam và UAE |
-| **Thay thế** | Các quy định trước đây về quy tắc xuất xứ hàng hóa CEPA |
 
 ## TÓM TẮT NỘI DUNG
 
 Thông tư 24/2026/TT-BCT quy định chi tiết về quy tắc xuất xứ hàng hóa trong Hiệp định Đối tác kinh tế toàn diện (CEPA) giữa Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam và Chính phủ Các Tiểu vương quốc Ả-rập Thống nhất (UAE).
 
-Thông tư hướng dẫn cụ thể các tiêu chí xuất xứ, phương pháp tính hàm lượng giá trị, quy định về xuất xứ thuần túy, chuyển đổi quốc gia (substitution), và thủ tục chứng nhận xuất xứ để hưởng ưu đãi thuế quan theo CEPA.
+Thông tư hướng dẫn cụ thể các tiêu chí xuất xứ, phương pháp tính hàm lượng giá trị, quy định về xuất xứ thuần túy, tiêu chí chuyển đổi mã số hàng hóa, hàm lượng giá trị và thủ tục chứng nhận xuất xứ để hưởng ưu đãi thuế quan theo CEPA.
 
 ## PHẠM VI ĐIỀU CHỈNH
 
@@ -46,7 +45,7 @@ Thông tư áp dụng cho:
 Hàng hóa được coi là có xuất xứ Việt Nam hoặc UAE khi đáp ứng một trong các tiêu chí:
 
 - **Xuất xứ thuần túy** (Wholly obtained): sản phẩm hoàn toàn thu được từ nguyên liệu tại một hoặc cả hai Bên.
-- **Chuyển đổi đủ** (Substantial transformation): trải qua quá trình chế biến làm thay đổi bản chất hoặc tính năng sản phẩm, thỏa mãn quy tắc chuyển đổi danh nghĩa hoặc quy tắc hàm lượng giá trị.
+- **Chuyển đổi mã số hàng hóa**: hàng hóa trải qua quá trình sản xuất đáp ứng tiêu chí thay đổi mã số HS ở cấp độ quy định hoặc đáp ứng tiêu chí hàm lượng giá trị.
 
 ### 2. Phương pháp tính hàm lượng giá trị
 
@@ -62,9 +61,9 @@ Thông tư quy định hai phương pháp:
 - Thời hạn hiệu lực của C/O: 12 tháng kể từ ngày cấp.
 - Trường hợp hàng hóa quá cảnh qua nước thứ ba không làm mất hiệu lực C/O nếu đáp ứng điều kiện.
 
-### 4. Miễn chứng minh xuất xứ
+### 4. Chứng từ chứng nhận xuất xứ
 
-Trong một số trường hợp, bên nhập khẩu có thể được miễn chứng minh xuất xứ theo quy định tại Phụ lục của Hiệp định CEPA.
+Hàng hóa muốn hưởng ưu đãi thuế quan theo CEPA vẫn phải có chứng từ chứng nhận xuất xứ theo quy định. Một số lô hàng trị giá nhỏ có thể áp dụng cơ chế chứng nhận đơn giản hơn, nhưng không đồng nghĩa với miễn toàn bộ nghĩa vụ chứng minh xuất xứ.
 
 ## ĐỐI TƯỢNG KHÔNG ĐƯỢC HƯỞNG ƯU ĐÃI
 
@@ -82,7 +81,6 @@ Trong một số trường hợp, bên nhập khẩu có thể được miễn c
 ## SỬA ĐỔI, BỔ SUNG LIÊN QUAN
 
 - **24/2026/TT-BCT** là văn bản hướng dẫn chi tiết quy tắc xuất xứ theo cam kết CEPA.
-- Các văn bản trước đây về quy tắc xuất xứ hàng hóa CEPA (nếu có) được thay thế hoặc điều chỉnh phù hợp.
 - Liên quan: Thông tư liên tịch về thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu theo CEPA.
 
 ## THAM KHẢO
