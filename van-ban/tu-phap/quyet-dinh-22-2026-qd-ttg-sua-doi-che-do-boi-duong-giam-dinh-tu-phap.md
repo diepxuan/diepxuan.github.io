@@ -19,10 +19,10 @@ lastedit: 2026-06-04
 | **Số hiệu** | 22/2026/QĐ-TTg |
 | **Loại văn bản** | Quyết định |
 | **Cơ quan ban hành** | Thủ tướng Chính phủ |
-| **Người ký** | Thủ tướng Chính phủ |
+| **Người ký** | Lê Tiến Châu |
 | **Ngày ban hành** | 01/05/2026 |
 | **Ngày hiệu lực** | 01/05/2026 |
-| **Thay thế** | Quyết định 08/2025/QĐ-TTg (về phần được sửa đổi) |
+| **Sửa đổi, bổ sung** | Quyết định 08/2025/QĐ-TTg |
 
 ## TÓM TẮT
 
