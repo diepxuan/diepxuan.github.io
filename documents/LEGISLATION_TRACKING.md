@@ -29,7 +29,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 24/2026/TT-BCT | 05/05/2026 | Quy tắc xuất xứ hàng hóa trong Hiệp định CEPA Việt Nam - UAE | Thương mại | Chưa có | Ưu tiên 2 cùng nhóm thuế / thương mại |
 | 22/2026/QĐ-TTg | 01/05/2026 | Sửa đổi chế độ bồi dưỡng giám định tư pháp | Tư pháp | Đã có | `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md`; heartbeat 2026-06-04 |
 | 142/2026/NĐ-CP | 30/04/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Trí tuệ nhân tạo | Khoa học công nghệ | Đã có | Đã có trang chuyên biệt trong nhóm khoa học công nghệ |
-| 21/2026/QĐ-TTg | 30/04/2026 | Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược | Khoa học công nghệ | Chưa có | Chờ xử lý theo backlog nhóm khoa học công nghệ |
+| 21/2026/QĐ-TTg | 30/04/2026 | Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược | Khoa học công nghệ | Đã có | `van-ban/khoa-hoc-cong-nghe/quyet-dinh-21-2026-qd-ttg-danh-muc-cong-nghe-chien-luoc.md`; heartbeat 2026-06-04 |
 | 141/2026/NĐ-CP | 29/04/2026 | Sửa đổi chính sách thuế đối với hộ kinh doanh, cá nhân kinh doanh và hướng dẫn Luật Thuế TNDN | Thuế | Chưa có | Ưu tiên 2 cùng nhóm thuế / thương mại |
 | 29/2026/QH16 | 24/04/2026 | Cơ chế đặc thù xử lý vi phạm đất đai trước Luật Đất đai 2024 và tháo gỡ dự án tồn đọng, kéo dài | Đất đai / đầu tư | Đã có | `van-ban/dat-dai-dau-tu/nghi-quyet-29-2026-qh16-co-che-dac-thu-dat-dai-du-an-ton-dong.md`; heartbeat 2026-06-04 |
 
