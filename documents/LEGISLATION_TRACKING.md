@@ -14,7 +14,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---|---|
-| 148/2026/NĐ-CP | 12/05/2026 | Sửa đổi, bổ sung Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại | Đối ngoại / thông tin | Chưa có | Ưu tiên sau an ninh mạng |
+| 148/2026/NĐ-CP | 12/05/2026 | Sửa đổi, bổ sung Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại | Đối ngoại / thông tin | Đã có | `van-ban/ngoai-giao/nghi-dinh-148-2026-nd-cp-quan-ly-thong-tin-doi-ngoai.md`; heartbeat 2026-06-02 |
 | 48/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản | An ninh mạng | Đã có | `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md`; heartbeat 2026-05-31 |
 | 47/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng cho hệ thống thông tin lưu trữ tài liệu điện tử trong cơ quan Đảng, Nhà nước | An ninh mạng | Đã có | `van-ban/an-ninh-quoc-gia/quy-chuan-an-ninh-mang-he-thong-luu-tru-tai-lieu-dien-tu.md`; heartbeat 2026-05-31 |
 | 47/2026/TT-BTC | 12/05/2026 | Quy định mẫu biểu báo cáo thông tin về nợ công và tính toán chỉ tiêu rủi ro danh mục nợ Chính phủ | Tài chính / nợ công | Đã có | `van-ban/tai-chinh/no-cong/mau-bieu-bao-cao-no-cong-47-2026-tt-btc.md`; heartbeat 2026-06-05 |
@@ -43,7 +43,6 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 
 Chưa thấy trang chuyên biệt cho các văn bản mới sau:
 
-- 148/2026/NĐ-CP về thông tin đối ngoại
 - 147/2026/NĐ-CP về dự án tồn đọng, kéo dài
 - 146/2026/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp
 - 145/2026/NĐ-CP về quản lý tài chính Sở GDCK Việt Nam/VSDC
