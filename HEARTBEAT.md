@@ -229,21 +229,35 @@ Báo cáo phải gồm:
 
 ## 4. Các task heartbeat
 
-### Task A: PR Hygiene (12h)
+### Task A: crawl-vanban (30m)
+
+Crawl dữ liệu mới chưa có trong `van-ban/`:
+
+- Quét `vanban.chinhphu.vn` để phát hiện văn bản mới ban hành.
+- So sánh với danh sách file hiện có trong `van-ban/`.
+- Với văn bản chưa có: tạo file mới theo template, lấy metadata từ nguồn chính thức.
+- Cập nhật `documents/LEGISLATION_TRACKING.md` nếu có thay đổi.
+- Commit, push, mở PR.
+
+Nếu không phát hiện văn bản mới, báo cáo `NO_ACTION`.
+
+### Task B: PR Hygiene (6h)
 
 Kiểm tra PR mở, phát hiện conflict/trùng/sai metadata.
 
-### Task B: Legislation Backlog Group Crawl (24h)
-
-Xử lý nhóm backlog đầu tiên còn item trong `documents/LEGISLATION_TRACKING.md`.
-
-### Task C: Metadata Repair (24h)
+### Task C: Metadata Repair (6h)
 
 Sửa metadata sai trong file `van-ban/`.
 
-### Task D: Content Completion (168h)
+### Task D: Content Completion (30m)
 
 Bổ sung nội dung thiếu cho văn bản quan trọng.
+
+Quy tắc fallback:
+
+- Nếu Content Completion không phát hiện nội dung mới cần cập nhật, thực hiện crawl dữ liệu mới (giống Task A).
+- Cùng nguồn, cùng cơ chế, chỉ khác điểm khởi đầu: "cập nhật nội dung cũ" → "thêm văn bản mới".
+- Commit và PR tách riêng theo từng task, không gộp.
 
 ---
 
