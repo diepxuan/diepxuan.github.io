@@ -12,10 +12,10 @@ lastedit: 2026-05-30
 | **Số hiệu** | 102/2025/QH15 |
 | **Loại văn bản** | Luật |
 | **Nơi ban hành** | Quốc hội |
-| **Người ký** | Chủ tịch Quốc hội |
-| **Ngày ban hành** | Đang cập nhật |
-| **Ngày hiệu lực** | Đang cập nhật |
-| **Trạng thái** | Đang cập nhật |
+| **Người ký** | Trần Thanh Mẫn (Chủ tịch Quốc hội) |
+| **Ngày ban hành** | 26/11/2025 |
+| **Ngày hiệu lực** | 01/07/2026 |
+| **Trạng thái** | Chưa có hiệu lực |
 | **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=216572&classid=1&typegroupid=3) |
 
 > Luật Tương trợ tư pháp về dân sự số 102/2025/QH15 là luật mới nhất, thay thế Luật Tương trợ tư pháp số 08/2007/QH12.
