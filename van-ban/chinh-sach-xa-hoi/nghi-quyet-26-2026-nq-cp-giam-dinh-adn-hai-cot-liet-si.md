@@ -60,7 +60,7 @@ Nghị quyết 26/2026/NQ-CP quy định cơ chế, chính sách đặc thù nh�
 ## THỜI HẠN THỰC HIỆN
 
 - Nghị quyết có hiệu lực từ ngày 06/5/2026.
-- Thực hiện đến hết ngày 31/7/2026.
+- Thực hiện đến hết ngày 31/7/2027.
 
 ## THAM KHẢO
 
