@@ -21,7 +21,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 25/2026/TT-BCT | 11/05/2026 | Quy định quản lý chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo dùng ngân sách nhà nước của Bộ Công Thương | Khoa học công nghệ | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
 | 147/2026/NĐ-CP | 07/05/2026 | Hướng dẫn cơ chế, chính sách đặc thù tháo gỡ khó khăn cho các dự án tồn đọng, kéo dài theo Nghị quyết 29/2026/QH16 | Đầu tư / dự án tồn đọng | Chưa có | Ưu tiên 3 cùng nhóm đất đai / dự án tồn đọng |
 | 146/2026/NĐ-CP | 06/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp | Lâm nghiệp | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
-| 26/2026/NQ-CP | 06/05/2026 | Cơ chế đặc thù tháo gỡ khó khăn trong lấy mẫu, giám định, xác định danh tính hài cốt liệt sĩ bằng ADN | Chính sách xã hội | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
+| 26/2026/NQ-CP | 06/05/2026 | Cơ chế đặc thù tháo gỡ khó khăn trong lấy mẫu, giám định, xác định danh tính hài cốt liệt sĩ bằng ADN | Chính sách xã hội | Đã có | `van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si.md`; heartbeat 2026-06-04 |
 | 03/2026/TT-BNG | 06/05/2026 | Phân cấp thẩm quyền chứng nhận lãnh sự, hợp pháp hóa lãnh sự cho UBND cấp tỉnh | Ngoại giao | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
 | 145/2026/NĐ-CP | 05/05/2026 | Cơ chế quản lý tài chính, đánh giá, xếp loại doanh nghiệp đối với Sở GDCK Việt Nam, VSDC | Chứng khoán | Chưa có | Ưu tiên 4 nếu mở rộng nhóm tài chính - chứng khoán |
 | 144/2026/NĐ-CP | 05/05/2026 | Sửa đổi Nghị định 181/2025/NĐ-CP hướng dẫn Luật Thuế giá trị gia tăng | Thuế | Chưa có | Ưu tiên 2 cùng nhóm thuế / thương mại |
