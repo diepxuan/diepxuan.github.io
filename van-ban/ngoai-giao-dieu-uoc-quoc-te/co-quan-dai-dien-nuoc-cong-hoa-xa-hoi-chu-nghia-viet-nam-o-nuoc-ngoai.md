@@ -12,9 +12,9 @@ lastedit: 2026-05-15
 | **Số hiệu** | 33/2009/QH12 |
 | **Loại văn bản** | Luật |
 | **Nơi ban hành** | Quốc hội |
-| **Người ký** | Chủ tịch Quốc hội |
+| **Người ký** | Nguyễn Phú Trọng |
 | **Ngày ban hành** | 18/06/2009 |
-| **Ngày hiệu lực** | Đang cập nhật |
+| **Ngày hiệu lực** | 02/09/2009 |
 | **Trạng thái** | Còn hiệu lực |
 | **Nguồn** | [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=91023) |
 
