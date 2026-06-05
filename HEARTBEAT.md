@@ -1,173 +1,285 @@
-# HEARTBEAT.md - Heartbeat tasks cho agent
+# HEARTBEAT.md - Quy trình heartbeat hiệu quả
 
-File này chứa các task định kỳ dùng cho heartbeat poll.
-Dùng `tasks:` blocks để OpenClaw chỉ chạy task khi đến interval.
+HEARTBEAT.md định nghĩa cách agent tự động rà soát, chọn việc, tạo thay đổi sạch và chuẩn bị PR cho Sếp review.
 
-## Heartbeat Config (khuyến nghị)
+Mục tiêu chính:
+
+- Mỗi lần heartbeat phải tạo giá trị kiểm chứng được.
+- Không chạy vòng lặp chỉ đọc memory rồi báo OK.
+- Không gom nhiều việc không liên quan vào một PR.
+- Không làm lại việc đã có PR, đã merge hoặc đã bị thay thế.
+- Không push, tạo PR, merge hoặc đóng PR nếu chưa được Sếp cho phép rõ.
+
+---
+
+## 1. State Management
+
+Heartbeat sử dụng 3 nguồn state để xác định phần nào đã làm, phần nào chưa làm.
+
+### 1.1. PR đang mở (Primary Source of Truth)
+
+PR đang mở là source of truth chính cho work in progress:
+
+```bash
+gh pr list --state open --limit 100 --json number,title,headRefName,baseRefName,mergeable,mergeStateStatus,url
+```
+
+- PR đang mở = item đang xử lý → không tạo PR trùng trên file đó.
+- PR đã merge → item hoàn tất → cập nhật tracking.
+- PR bị đóng/thay thế → item chưa hoàn tất hoặc có lỗi → xử lý lại.
+
+### 1.2. Session State (OpenClaw Internal)
+
+OpenClaw tự động track:
+
+- `heartbeatTaskState`: last-run timestamp cho mỗi `tasks:` block.
+- Session freshness, idle expiry.
+- Không cần em quản lý thủ công.
+
+### 1.3. Local State: .heartbeat-state.json
+
+File local để track thông tin bổ sung không có trong PR hoặc session:
 
 ```json
 {
-  "heartbeat": {
-    "every": "30m",
-    "lightContext": true,
-    "isolatedSession": true,
-    "activeHours": { "start": "08:00", "end": "22:00", "timezone": "Asia/Saigon" }
+  "last_runs": {
+    "pr-hygiene": "2026-06-05T12:00:00+07:00",
+    "legislation-crawl": "2026-06-05T08:00:00+07:00",
+    "metadata-repair": "2026-06-04T20:00:00+07:00",
+    "content-completion": "2026-06-01T10:00:00+07:00"
+  },
+  "next_runs": {
+    "pr-hygiene": "2026-06-06T00:00:00+07:00",
+    "legislation-crawl": "2026-06-06T08:00:00+07:00"
+  },
+  "last_result": {
+    "pr-hygiene": "NO_ACTION",
+    "legislation-crawl": "PR_CREATED"
+  },
+  "no_action_streak": {
+    "metadata-repair": 2
+  },
+  "notes": {
+    "legislation-crawl": "Nhóm Thuế/Thương mại: 2 item còn lại, cần retry khi có nguồn mới"
   }
 }
 ```
 
-- `lightContext: true` - chỉ inject HEARTBEAT.md, giảm token.
-- `isolatedSession: true` - mỗi heartbeat chạy trong session mới, không gửi lịch sử chat.
-- `activeHours` - giới hạn heartbeat 8h-22h theo giờ Việt Nam.
+**Quy tắc:**
 
-## Response Contract
+- Không commit `.heartbeat-state.json`.
+- Không dùng state để thay thế việc kiểm tra thực tế.
+- State chỉ là cache để tránh quét lại toàn bộ.
+- Luôn verify với PR đang mở và git diff trước khi hành động.
 
-- Nếu không có task nào cần attention, reply `HEARTBEAT_OK`.
-- Nếu có thay đổi thực chất, tạo PR và báo cáo ngắn gọn bằng tiếng Việt.
-- Không tự merge/close PR nếu chưa có lệnh rõ từ Sếp.
+### 1.4. Luồng xác định state
 
-## Nguyên tắc chung
+```
+1. Kiểm tra PR đang mở (gh pr list)
+   ├── Có PR → Item đang xử lý, bỏ qua trùng
+   └── Không có PR → Tiếp tục
 
-- Chạy trong repo `diepxuan/diepxuan.github.io`.
-- Trước khi làm: `git checkout main && git fetch origin --prune && git pull --ff-only origin main && git status --short --branch`.
-- Không làm trực tiếp trên `main` nếu có thay đổi file.
-- Không tạo nhiều PR trùng cùng scope/file.
+2. Kiểm tra documents/LEGISLATION_TRACKING.md
+   ├── Item có file → Đã có
+   ├── Item có PR đang mở → Đang xử lý
+   └── Item chưa xử lý → Chọn nhóm đầu tiên còn việc
 
----
+3. Kiểm tra .heartbeat-state.json (optional)
+   └── Track notes, no_action_streak, last run
 
-tasks:
-
-- name: pr-hygiene
-  interval: 12h
-  prompt: |
-    Bạn đang chạy task PR Hygiene cho repo diepxuan/diepxuan.github.io.
-
-    Mục tiêu:
-    - Kiểm tra toàn bộ PR đang mở.
-    - Phát hiện PR trùng, conflict, sai metadata, thiếu nguồn chính thức hoặc đã lỗi thời.
-    - Không tạo PR mới nếu còn PR mở cùng scope/file cần xử lý.
-
-    Các bước bắt buộc:
-    1. Sync main: git checkout main && git fetch origin --prune && git pull --ff-only origin main && git status --short --branch
-    2. Liệt kê PR mở: gh pr list --state open --limit 100 --json number,title,headRefName,baseRefName,mergeable,mergeStateStatus,changedFiles,updatedAt,url
-    3. Với từng PR, đọc metadata, diff, comments.
-    4. Phân loại: NEEDS_REVIEW, PR_NEEDS_UPDATE, PR_CONFLICT, PR_BLOCKED, PR_DUPLICATE.
-
-    Đầu ra báo cáo:
-    - Kết quả: NO_ACTION, NEEDS_REVIEW, PR_NEEDS_UPDATE, PR_CONFLICT, PR_BLOCKED.
-    - Danh sách PR và phân loại.
-    - Nếu blocked: blocker và bước tiếp theo.
-
-- name: legislation-crawl
-  interval: 24h
-  prompt: |
-    Bạn đang chạy task Legislation Backlog Group Crawl cho repo diepxuan/diepxuan.github.io.
-
-    Mục tiêu:
-    - Đọc documents/LEGISLATION_TRACKING.md.
-    - Chọn nhóm backlog đầu tiên còn item xử lý được theo thứ tự từ trên xuống dưới.
-    - Crawl nguồn chính thức, tạo/cập nhật file văn bản trong van-ban/.
-    - Mở PR nếu có thay đổi thực chất.
-
-    Quy tắc chọn item:
-    - Trạng thái cần xử lý: Chưa có, Cần cập nhật, Blocked có thể retry.
-    - Không dùng Có liên quan như trạng thái kết thúc.
-    - Chỉ xử lý một nhóm backlog trong một lượt.
-    - Mặc định không quá 3 file nội dung mới trong một PR.
-
-    Nguồn ưu tiên:
-    1. vanban.chinhphu.vn
-    2. PDF/tệp đính kèm từ datafiles.chinhphu.vn
-    3. Website cơ quan nhà nước chuyên ngành
-
-    Các bước bắt buộc:
-    1. Sync main và kiểm tra working tree sạch.
-    2. Kiểm tra PR mở để tránh trùng scope/file.
-    3. Đọc documents/LEGISLATION_TRACKING.md và chọn nhóm đầu tiên còn việc.
-    4. Xác minh: số hiệu, loại văn bản, cơ quan ban hành, ngày ban hành, ngày hiệu lực, nguồn chính thức, PDF.
-    5. Tạo branch refactor/<nhom-backlog>-<yyyymmdd> từ origin/main.
-    6. Tạo/cập nhật file trong van-ban/.
-    7. Cập nhật documents/LEGISLATION_TRACKING.md: item đã có file = Đã có, ghi đường dẫn.
-    8. Validate: git diff --check && git diff --stat && git status --short --branch
-    9. Commit, push, mở PR.
-
-    Đầu ra báo cáo:
-    - Kết quả: PR_CREATED, NEEDS_REVIEW, BLOCKED hoặc NO_ACTION.
-    - Nhóm backlog đã chọn, item đã xử lý, nguồn đã dùng.
-    - File đã tạo/sửa, branch, commit, PR URL.
-
-- name: metadata-repair
-  interval: 24h
-  prompt: |
-    Bạn đang chạy task Metadata Repair cho repo diepxuan/diepxuan.github.io.
-
-    Mục tiêu:
-    - Tìm một file van-ban/ có metadata sai, thiếu hoặc mâu thuẫn.
-    - Xác minh bằng nguồn chính thức và sửa tối thiểu.
-    - Mở PR nếu có thay đổi.
-
-    Phạm vi metadata cần kiểm tra:
-    - Số hiệu, loại văn bản, cơ quan ban hành/nơi ban hành, người ký.
-    - Ngày ban hành, ngày hiệu lực, trạng thái hiệu lực.
-    - Nguồn chính thức/PDF gốc.
-    - Quan hệ thay thế/sửa đổi/bổ sung.
-
-    Các bước bắt buộc:
-    1. Sync main và kiểm tra working tree sạch.
-    2. Kiểm tra PR mở để tránh sửa trùng file.
-    3. Chọn một file hoặc nhóm file rất nhỏ cùng chủ đề.
-    4. Xác minh với vanban.chinhphu.vn, datafiles.chinhphu.vn hoặc nguồn nhà nước chuyên ngành.
-    5. Tạo branch fix/<metadata-scope>-<yyyymmdd>.
-    6. Sửa tối thiểu, chạy git diff --check.
-    7. Commit, push, mở PR.
-
-    Đầu ra báo cáo:
-    - Kết quả: PR_CREATED, BLOCKED hoặc NO_ACTION.
-    - File đã kiểm tra/sửa, metadata đã sửa, nguồn xác minh.
-
-- name: content-completion
-  interval: 168h
-  prompt: |
-    Bạn đang chạy task Content Completion cho repo diepxuan/diepxuan.github.io.
-
-    Mục tiêu:
-    - Bổ sung nội dung thiếu cho một văn bản quan trọng đã có nguồn chính thức.
-    - Ưu tiên item trong documents/LEGISLATION_TRACKING.md hoặc được Sếp chỉ định.
-    - Không mở rộng scope sang nhóm văn bản khác.
-
-    Điều kiện chạy:
-    - Có nguồn chính thức đủ tin cậy.
-    - Có phạm vi rõ: full text, cấu trúc chương/điều, tóm tắt nội dung, hoặc metadata mở rộng.
-    - Không chạy chỉ vì file có lastedit cũ hoặc dung lượng nhỏ.
-
-    Các bước bắt buộc:
-    1. Sync main và kiểm tra working tree sạch.
-    2. Kiểm tra PR mở để tránh trùng file.
-    3. Xác minh nguồn chính thức và PDF/tệp đính kèm.
-    4. Tạo branch refactor/<content-scope>-<yyyymmdd>.
-    5. Bổ sung nội dung trong file van-ban/ tương ứng.
-    6. Cập nhật documents/LEGISLATION_TRACKING.md nếu item liên quan còn Chưa có/Cần cập nhật/Có liên quan.
-    7. Chạy git diff --check.
-    8. Commit, push, mở PR.
-
-    Đầu ra báo cáo:
-    - Kết quả: PR_CREATED, NEEDS_REVIEW, BLOCKED hoặc NO_ACTION.
-    - File đã cập nhật, nguồn đã dùng, tóm tắt nội dung bổ sung.
+4. Kiểm tra session state (OpenClaw auto)
+   └── heartbeatTaskState cho tasks: blocks
+```
 
 ---
 
-## Mẫu báo cáo cuối
+## 2. Nguyên tắc vận hành
+
+### 2.1. Heartbeat phải có đầu ra rõ ràng
+
+Mỗi lượt chạy chỉ được kết thúc bằng một trong bốn kết quả:
+
+1. **PR_CREATED**
+   - Có branch sạch.
+   - Có commit.
+   - Diff đã kiểm tra.
+   - Đã push branch và mở PR để Sếp review.
+   - Đây là kết quả bắt buộc khi heartbeat đã tạo/cập nhật nội dung hoặc tài liệu.
+
+2. **NEEDS_REVIEW**
+   - Có phát hiện đáng chú ý nhưng chưa đủ chắc để sửa.
+   - Cần Sếp quyết định phạm vi, nguồn dữ liệu hoặc hướng xử lý.
+
+3. **BLOCKED**
+   - Không thể tiếp tục vì lỗi công cụ, thiếu nguồn chính thức, conflict hoặc dữ liệu không đáng tin.
+   - Phải ghi rõ blocker và bước xử lý đề xuất.
+
+4. **NO_ACTION**
+   - Không có việc đủ điều kiện xử lý.
+   - Phải ghi rõ đã kiểm tra gì và vì sao không làm.
+
+### 2.2. Không dùng memory làm task queue chính
+
+- `memory/YYYY-MM-DD.md` chỉ dùng làm nhật ký local hoặc context phụ.
+- Không quét memory mỗi 2 giờ để tìm việc mơ hồ.
+- Task queue chính là:
+  1. PR đang mở trên GitHub.
+  2. `documents/LEGISLATION_TRACKING.md`.
+  3. Các file `van-ban/` có metadata thiếu hoặc nguồn lỗi.
+
+### 2.3. Task quá hạn phải tự nâng cấp mức xử lý
+
+Nếu `Task B: Legislation Backlog Group Crawl` hoặc task backlog pháp luật quá hạn:
+
+- Quá hạn dưới 24 giờ: chạy ngay trong lượt heartbeat kế tiếp.
+- Quá hạn từ 24 giờ đến dưới 7 ngày: bỏ qua cooldown, ưu tiên trước task refactor thông thường.
+- Quá hạn từ 7 ngày trở lên: coi là **OVERDUE_CRITICAL**.
+
+Với `OVERDUE_CRITICAL`, heartbeat không được kết thúc `NO_ACTION` nếu backlog còn nhóm có item xử lý được. Phải tạo một trong hai đầu ra:
+
+1. `PR_CREATED`: đã crawl nhóm backlog đầu tiên còn việc, tạo/cập nhật file, commit, push branch và mở PR cho Sếp review.
+2. `BLOCKED`: nêu rõ nhóm, item, lỗi nguồn/công cụ và điều kiện retry.
+
+---
+
+## 3. Chu kỳ heartbeat chuẩn
+
+Mỗi lượt heartbeat chạy theo đúng thứ tự dưới đây.
+
+### Bước 1: Sync và kiểm tra môi trường
+
+```bash
+git checkout main
+git fetch origin --prune
+git pull --ff-only origin main
+git status --short --branch
+```
+
+### Bước 2: Kiểm tra PR đang mở (Primary Source of Truth)
+
+```bash
+gh pr list --state open --limit 100 --json number,title,headRefName,baseRefName,mergeable,mergeStateStatus,changedFiles,updatedAt,url
+```
+
+Mục tiêu: tránh tạo thêm PR trùng, conflict hoặc lỗi thời.
+
+Phân loại PR:
+- **mergeable + đúng nội dung**: báo `NEEDS_REVIEW` để Sếp quyết merge.
+- **conflict nhưng còn giá trị**: tạo branch thay thế từ `main`, cherry-pick/copy đúng phần cần giữ, push và mở PR thay thế.
+- **trùng PR đã merge**: báo đề xuất đóng, không tự đóng nếu chưa được giao rõ.
+- **sai metadata hoặc nguồn không đáng tin**: không merge; báo lỗi cụ thể.
+
+### Bước 3: Chọn đúng một đơn vị công việc
+
+Thứ tự ưu tiên:
+
+1. Nếu có task backlog quá hạn `OVERDUE_CRITICAL`: xử lý ngay nhóm backlog đầu tiên còn việc.
+2. Sửa hoặc thay thế PR đang mở bị conflict nhưng còn giá trị.
+3. Hoàn tất nhóm backlog đầu tiên còn item `Chưa có`, `Cần cập nhật` hoặc `Blocked` có thể retry.
+4. Sửa metadata sai rõ ràng trong một file `van-ban/`.
+5. Bổ sung nội dung thiếu cho một file `van-ban/` có nguồn chính thức.
+6. Nếu không có việc đủ dữ kiện: `NO_ACTION`.
+
+Luật chọn nhóm backlog:
+
+1. Đọc `documents/LEGISLATION_TRACKING.md` và lấy thứ tự nhóm theo thứ tự xuất hiện từ trên xuống dưới.
+2. Chọn nhóm đầu tiên còn item chưa hoàn tất. Không nhảy sang nhóm dưới nếu nhóm trên còn item xử lý được.
+3. Trong nhóm đã chọn, ưu tiên item theo thứ tự: `Chưa có` → `Cần cập nhật` → `Blocked` có thể retry.
+4. Chỉ chuyển sang nhóm kế tiếp khi toàn bộ item trong nhóm hiện tại đã `Đã có`, `Bỏ qua` hoặc `Blocked` không thể retry.
+5. Không được trả `NO_ACTION` nếu còn bất kỳ nhóm nào có item xử lý được.
+
+Giới hạn phạm vi:
+
+- Mỗi heartbeat xử lý tối đa **một nhóm backlog**.
+- Trong nhóm đó, có thể xử lý nhiều item nếu cùng chủ đề, cùng nguồn/cơ quan hoặc diff vẫn nhỏ, dễ review.
+- Mặc định không quá 3 file nội dung trong một heartbeat.
+- Nếu nhóm có nhiều hơn 3 item hợp lệ, chia thành nhiều heartbeat/PR.
+
+### Bước 4: Xác minh nguồn trước khi sửa
+
+Nguồn ưu tiên:
+1. `vanban.chinhphu.vn`
+2. PDF/tệp đính kèm từ `datafiles.chinhphu.vn`
+3. Nguồn cơ quan nhà nước chuyên ngành
+
+### Bước 5: Tạo branch sạch và commit
+
+```bash
+git checkout main
+git pull --ff-only origin main
+git checkout -b <type>/<scope>-<yyyymmdd>
+```
+
+Sau khi sửa:
+```bash
+git diff --check
+git add <files-trong-scope>
+git commit -m "<type>: <mo-ta-ngan>"
+```
+
+### Bước 6: Báo cáo kết quả
+
+Báo cáo phải gồm:
+- Kết quả: `PR_CREATED`, `NEEDS_REVIEW`, `BLOCKED` hoặc `NO_ACTION`.
+- File đã kiểm tra/sửa.
+- Nguồn đã dùng.
+- Branch, commit và PR URL nếu có.
+
+---
+
+## 4. Các task heartbeat
+
+### Task A: PR Hygiene (12h)
+
+Kiểm tra PR mở, phát hiện conflict/trùng/sai metadata.
+
+### Task B: Legislation Backlog Group Crawl (24h)
+
+Xử lý nhóm backlog đầu tiên còn item trong `documents/LEGISLATION_TRACKING.md`.
+
+### Task C: Metadata Repair (24h)
+
+Sửa metadata sai trong file `van-ban/`.
+
+### Task D: Content Completion (168h)
+
+Bổ sung nội dung thiếu cho văn bản quan trọng.
+
+---
+
+## 5. Quy tắc tạo PR
+
+Heartbeat được phép push branch và mở PR khi:
+- Task thuộc phạm vi đã được định nghĩa.
+- Branch tạo mới từ `origin/main`.
+- Có commit thực chất.
+- `git diff --check` pass.
+- Không có PR mở khác cùng phạm vi/file.
+
+---
+
+## 6. Nguồn dữ liệu
+
+| Nguồn | Trạng thái | Cách dùng |
+|-|-|-|
+| `vanban.chinhphu.vn` | Ưu tiên | Metadata, trang chi tiết |
+| `datafiles.chinhphu.vn` | Ưu tiên | PDF/tệp đính kèm |
+| Website cơ quan nhà nước | Dự phòng | Đối chiếu |
+| `luatvietnam.vn` | Không ổn định | Không làm nguồn chính |
+
+---
+
+## 7. Mẫu báo cáo
 
 ```
 Kết quả: PR_CREATED
-Task: <task name>
-Nhóm: <nhom backlog nếu có>
+Task: Legislation Backlog Group Crawl
+Nhóm backlog: Thuế / thương mại
 
 Đã làm:
 - Kiểm tra PR mở: <kết quả>
 - Xác minh nguồn: <nguồn đã dùng>
-- Xử lý: <item đã làm>
-- Cập nhật file: <danh sách file>
+- Xử lý item: <danh sách item>
 
 Kiểm tra:
 - git diff --check: pass
@@ -183,4 +295,4 @@ Cần Sếp quyết:
 
 ---
 
-Ghi chú: HEARTBEAT.md chỉ chứa task/prompt định kỳ. State runtime nếu cần phải lưu local-only, không commit vào repo.
+HEARTBEAT.md phải giữ vai trò là quy trình tạo giá trị, không phải nhật ký chạy cron.
