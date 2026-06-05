@@ -15,8 +15,8 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---|---|
 | 148/2026/NĐ-CP | 12/05/2026 | Sửa đổi, bổ sung Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại | Đối ngoại / thông tin | Chưa có | Ưu tiên sau an ninh mạng |
-| 48/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản | An ninh mạng | Chưa có | Ưu tiên 1; heartbeat phải crawl nguồn chính thức và chuẩn bị PR |
-| 47/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng cho hệ thống thông tin lưu trữ tài liệu điện tử trong cơ quan Đảng, Nhà nước | An ninh mạng | Chưa có | Ưu tiên 1; heartbeat phải crawl nguồn chính thức và chuẩn bị PR |
+| 48/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản | An ninh mạng | Đã có | `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md`; heartbeat 2026-05-31 |
+| 47/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng cho hệ thống thông tin lưu trữ tài liệu điện tử trong cơ quan Đảng, Nhà nước | An ninh mạng | Đã có | `van-ban/an-ninh-quoc-gia/quy-chuan-an-ninh-mang-he-thong-luu-tru-tai-lieu-dien-tu.md`; heartbeat 2026-05-31 |
 | 47/2026/TT-BTC | 12/05/2026 | Quy định mẫu biểu báo cáo thông tin về nợ công và tính toán chỉ tiêu rủi ro danh mục nợ Chính phủ | Tài chính / nợ công | Đã có | `van-ban/tai-chinh/no-cong/mau-bieu-bao-cao-no-cong-47-2026-tt-btc.md`; heartbeat 2026-06-05 |
 | 25/2026/TT-BCT | 11/05/2026 | Quy định quản lý chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo dùng ngân sách nhà nước của Bộ Công Thương | Khoa học công nghệ | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
 | 147/2026/NĐ-CP | 07/05/2026 | Hướng dẫn cơ chế, chính sách đặc thù tháo gỡ khó khăn cho các dự án tồn đọng, kéo dài theo Nghị quyết 29/2026/QH16 | Đầu tư / dự án tồn đọng | Chưa có | Ưu tiên 3 cùng nhóm đất đai / dự án tồn đọng |
@@ -44,26 +44,22 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 Chưa thấy trang chuyên biệt cho các văn bản mới sau:
 
 - 148/2026/NĐ-CP về thông tin đối ngoại
-- 48/2026/TT-BCA và 47/2026/TT-BCA về quy chuẩn an ninh mạng **(Đã có: heartbeat 2026-06-01)**
 - 147/2026/NĐ-CP về dự án tồn đọng, kéo dài
 - 146/2026/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp
 - 145/2026/NĐ-CP về quản lý tài chính Sở GDCK Việt Nam/VSDC
 - 144/2026/NĐ-CP và 141/2026/NĐ-CP về thuế
-- 29/2026/QH16 về đất đai và dự án tồn đọng
 
 ## Đề xuất ưu tiên cập nhật tiếp theo
 
-1. **An ninh mạng**: 48/2026/TT-BCA, 47/2026/TT-BCA vì phù hợp nhóm `an-ninh-quoc-gia/` và website đang có nội dung an ninh mạng.
-2. **Thuế / thương mại**: 143/2026/NĐ-CP, 144/2026/NĐ-CP, 141/2026/NĐ-CP vì có tác động rộng tới kinh doanh.
-3. **Đất đai / dự án tồn đọng**: 29/2026/QH16 và 147/2026/NĐ-CP vì là cơ chế đặc thù mới.
-4. **Chứng khoán**: 145/2026/NĐ-CP nếu mở rộng nhóm tài chính - chứng khoán.
+1. **Thuế / thương mại**: 143/2026/NĐ-CP, 144/2026/NĐ-CP, 141/2026/NĐ-CP vì có tác động rộng tới kinh doanh.
+2. **Đất đai / dự án tồn đọng**: 147/2026/NĐ-CP vì là cơ chế đặc thù mới.
+3. **Chứng khoán**: 145/2026/NĐ-CP nếu mở rộng nhóm tài chính - chứng khoán.
 
 ## Cách sử dụng
 
 - Dùng báo cáo này làm backlog cho heartbeat `Legislation Backlog Ingestion` trong `HEARTBEAT.md`.
 - Không để `track-legislation` hoặc `check-new-laws` quá hạn mà chỉ ghi nhận trạng thái; nếu quá hạn từ 7 ngày trở lên phải xử lý item ưu tiên cao nhất ngay.
 - Khi tạo nội dung mới, mỗi nhóm văn bản nên đi một branch/PR riêng.
-- Nhóm ưu tiên hiện tại là **An ninh mạng** gồm `48/2026/TT-BCA` và `47/2026/TT-BCA`; heartbeat phải crawl nguồn chính thức và chuẩn bị PR cho nhóm này trước các nhóm khác.
 - Nguồn crawl ưu tiên vẫn là `vanban.chinhphu.vn` và PDF đính kèm từ `datafiles.chinhphu.vn`.
 
 ## Troubleshooting
