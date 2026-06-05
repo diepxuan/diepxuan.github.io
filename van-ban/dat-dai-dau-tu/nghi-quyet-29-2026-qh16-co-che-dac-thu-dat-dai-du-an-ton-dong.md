@@ -21,7 +21,7 @@ lastedit: 2026-06-04
 | **Cơ quan ban hành** | Quốc hội |
 | **Người ký** | Trần Thanh Mẫn (Chủ tịch Quốc hội) |
 | **Ngày ban hành** | 24/04/2026 |
-| **Ngày hiệu lực** | 24/04/2026 |
+| **Ngày hiệu lực** | 01/06/2026 |
 | **Căn cứ pháp lý** | Luật Đất đai số 31/2024/QH15; Luật Đầu tư sửa đổi |
 
 ## TÓM TẮT
