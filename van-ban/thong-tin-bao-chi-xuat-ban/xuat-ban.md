@@ -12,7 +12,7 @@ lastedit: 2026-05-15
 | **Số hiệu** | 19/2012/QH13 |
 | **Loại văn bản** | Luật |
 | **Nơi ban hành** | Quốc hội |
-| **Người ký** | Nguyễn Sinh Hùng - Chủ tịch Quốc hội |
+| **Người ký** | Nguyễn Sinh Hùng |
 | **Ngày ban hành** | 20/11/2012 |
 | **Ngày hiệu lực** | 01/07/2013 |
 | **Trạng thái** | Còn hiệu lực |
