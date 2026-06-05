@@ -26,7 +26,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 145/2026/NĐ-CP | 05/05/2026 | Cơ chế quản lý tài chính, đánh giá, xếp loại doanh nghiệp đối với Sở GDCK Việt Nam, VSDC | Chứng khoán | Chưa có | Ưu tiên 4 nếu mở rộng nhóm tài chính - chứng khoán |
 | 144/2026/NĐ-CP | 05/05/2026 | Sửa đổi Nghị định 181/2025/NĐ-CP hướng dẫn Luật Thuế giá trị gia tăng | Thuế | Chưa có | Ưu tiên 2 cùng nhóm thuế / thương mại |
 | 143/2026/NĐ-CP | 05/05/2026 | Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện Hiệp định CEPA Việt Nam - UAE giai đoạn 2026-2027 | Thuế / thương mại | Có liên quan | Đã có trang liên quan nhóm thuế xuất khẩu, thuế nhập khẩu; cần đối chiếu trước khi tạo mới |
-| 24/2026/TT-BCT | 05/05/2026 | Quy tắc xuất xứ hàng hóa trong Hiệp định CEPA Việt Nam - UAE | Thương mại | Chưa có | Ưu tiên 2 cùng nhóm thuế / thương mại |
+| 24/2026/TT-BCT | 05/05/2026 | Quy tắc xuất xứ hàng hóa trong Hiệp định CEPA Việt Nam - UAE | Thương mại | Đã có | `van-ban/thuong-mai-dau-tu-chung-khoan/thong-tu-24-2026-tt-bct-quy-tac-xuat-xu-hang-hoa-cepa.md`; heartbeat 2026-06-04 |
 | 22/2026/QĐ-TTg | 01/05/2026 | Sửa đổi chế độ bồi dưỡng giám định tư pháp | Tư pháp | Đã có | `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md`; heartbeat 2026-06-04 |
 | 142/2026/NĐ-CP | 30/04/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Trí tuệ nhân tạo | Khoa học công nghệ | Đã có | Đã có trang chuyên biệt trong nhóm khoa học công nghệ |
 | 21/2026/QĐ-TTg | 30/04/2026 | Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược | Khoa học công nghệ | Đã có | `van-ban/khoa-hoc-cong-nghe/quyet-dinh-21-2026-qd-ttg-danh-muc-cong-nghe-chien-luoc.md`; heartbeat 2026-06-04 |
