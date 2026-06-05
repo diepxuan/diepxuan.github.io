@@ -12,12 +12,14 @@ lastedit: 2026-06-05
 | **Số hiệu** | 47/2026/TT-BTC |
 | **Loại văn bản** | Thông tư |
 | **Cơ quan ban hành** | Bộ Tài chính |
-| **Người ký** | Bộ trưởng Bộ Tài chính |
+| **Người ký** | Trần Quốc Phương |
 | **Ngày ban hành** | 12/05/2026 |
 | **Ngày hiệu lực** | 12/05/2026 |
 | **Trạng thái** | Còn hiệu lực |
 | **Văn bản thay thế** | Thông tư 84/2018/TT-BTC; Thông tư 05/2024/TT-BTC |
-| **Nguồn** | [Thư viện Pháp luật](https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/toan-van-thong-tu-472026ttbtc-quy-dinh-mau-bao-cao-no-cong-va-chi-tieu-rui-ro-tu-ngay-1252026-chi-t-268602.html) |
+| **Nguồn chính thức** | [Cổng Thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?docid=218073&pageid=27160) |
+| **Tệp đính kèm** | [47-btc.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/47-btc.pdf) |
+| **Nguồn tham khảo** | [Thư viện Pháp luật](https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/toan-van-thong-tu-472026ttbtc-quy-dinh-mau-bao-cao-no-cong-va-chi-tieu-rui-ro-tu-ngay-1252026-chi-t-268602.html) |
 
 ---
 
