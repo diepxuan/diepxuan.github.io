@@ -236,6 +236,7 @@ Crawl dữ liệu mới chưa có trong `van-ban/`:
 - Quét `vanban.chinhphu.vn` để phát hiện văn bản mới ban hành.
 - So sánh với danh sách file hiện có trong `van-ban/`.
 - Với văn bản chưa có: tạo file mới theo template, lấy metadata từ nguồn chính thức.
+- **Nếu có file PDF đính kèm, bắt buộc chạy Signed PDF OCR Pipeline (mục 8) để lấy nội dung.**
 - Cập nhật `documents/LEGISLATION_TRACKING.md` nếu có thay đổi.
 - Commit, push, mở PR.
 
@@ -247,11 +248,11 @@ Kiểm tra PR mở, phát hiện conflict/trùng/sai metadata.
 
 ### Task C: Metadata Repair (6h)
 
-Sửa metadata sai trong file `van-ban/`.
+Sửa metadata sai trong file `van-ban/`. **Nếu file nguồn là PDF (đặc biệt PDF signed), bắt buộc chạy Signed PDF OCR Pipeline (mục 8) để đối chiếu metadata với nội dung gốc.**
 
 ### Task D: Content Completion (30m)
 
-Bổ sung nội dung thiếu cho văn bản quan trọng.
+Bổ sung nội dung thiếu cho văn bản quan trọng. **Bắt buộc chạy Signed PDF OCR Pipeline (mục 8) cho mọi file PDF đính kèm để lấy nội dung bổ sung.**
 
 Quy tắc fallback:
 
@@ -310,3 +311,61 @@ Cần Sếp quyết:
 ---
 
 HEARTBEAT.md phải giữ vai trò là quy trình tạo giá trị, không phải nhật ký chạy cron.
+
+---
+
+## 8. Signed PDF OCR Pipeline
+
+### 8.1. Khi nào cần dùng
+
+Khi crawl văn bản từ `vanban.chinhphu.vn` hoặc nguồn chính thức khác, **mọi file PDF đính kèm đều phải được OCR** để lấy nội dung, không được bỏ qua bước này.
+
+Đặc biệt bắt buộc với **PDF có chữ ký số CAdES-BES** (`pdftotext` chỉ trích được metadata chữ ký, không lấy được nội dung văn bản).
+
+### 8.2. Pipeline chuẩn
+
+```bash
+# Bước 1: Tải PDF từ datafiles.chinhphu.vn
+curl -sL "https://datafiles.chinhphu.vn/.../<file>.pdf" -o /tmp/<file>.pdf
+
+# Bước 2: Convert từng trang PDF thành ảnh PPM (200 DPI)
+pdftoppm -r 200 /tmp/<file>.pdf /tmp/p
+
+# Bước 3: OCR từng ảnh bằng tesseract với gói tiếng Việt
+cd /tmp && for f in p-*.ppm; do tesseract "$f" "${f%.ppm}" -l vie; done
+
+# Bước 4: Gộp kết quả thành một file toàn văn
+cat /tmp/p-*.txt > /tmp/<file>-ocr.txt
+```
+
+### 8.3. Yêu cầu môi trường
+
+- `pdftoppm` (gói `poppler-utils`)
+- `tesseract-ocr` với gói ngôn ngữ `tesseract-ocr-vie`
+- Đủ dung lượng `/tmp` (PDF trung bình 5-15MB, sau convert còn ~26MB/trang)
+
+### 8.4. Lỗi OCR thường gặp và cách xử lý
+
+| Lỗi | Ví dụ | Cách xử lý |
+|------|-------|------------|
+| Số bị đọc thành chữ | `Dieu 11` → `Dieu I1` | Đối chiếu lại bằng metadata gốc từ vanban.chinhphu.vn |
+| Ký tự đặc biệt | `đ)` → `o`) | So sánh ngữ cảnh để sửa |
+| Mất dấu ngoặc kép | `BM-09` → `BM-09` | Bổ sung thủ công khi viết nội dung |
+| Ngắt dòng giữa từ | `khoa` newline `học` | Gộp lại khi viết lại nội dung |
+
+### 8.5. Quy trình áp dụng trong các task
+
+Khi thực hiện **Task A (crawl-vanban)**, **Task C (Metadata Repair)**, **Task D (Content Completion)**, nếu file PDF đính kèm tồn tại:
+
+1. Tải PDF về `/tmp/`
+2. Chạy Signed PDF OCR Pipeline (mục 8.2)
+3. Dùng output OCR làm nguồn nội dung chính để cập nhật file
+4. Ghi chú phương pháp vào PR description
+
+**Không tạo task riêng cho OCR.** OCR là công cụ bắt buộc của mọi task có liên quan đến PDF.
+
+### 8.6. Lưu trữ output OCR
+
+- Output OCR tạm thời lưu tại `/tmp/<file>-ocr.txt`
+- Không commit file OCR output vào repo (file lớn, nhiễu, dễ lỗi chính tả)
+- Nội dung đã sửa và bổ sung mới commit vào repo dưới dạng Markdown
