@@ -19,6 +19,10 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 47/2026/TT-BCA | 12/05/2026 | Ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng cho hệ thống thông tin lưu trữ tài liệu điện tử trong cơ quan Đảng, Nhà nước | An ninh mạng | Đã có | `van-ban/an-ninh-quoc-gia/quy-chuan-an-ninh-mang-he-thong-luu-tru-tai-lieu-dien-tu.md`; heartbeat 2026-05-31 |
 | 47/2026/TT-BTC | 12/05/2026 | Quy định mẫu biểu báo cáo thông tin về nợ công và tính toán chỉ tiêu rủi ro danh mục nợ Chính phủ | Tài chính / nợ công | Đã có | `van-ban/tai-chinh/no-cong/mau-bieu-bao-cao-no-cong-47-2026-tt-btc.md`; heartbeat 2026-06-05 |
 | 25/2026/TT-BCT | 11/05/2026 | Quy định quản lý chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo dùng ngân sách nhà nước của Bộ Công Thương | Khoa học công nghệ | Đã có | `van-ban/khoa-hoc-cong-nghe/thong-tu-25-2026-tt-bct-quan-ly-nhiem-vu-khoa-hoc-cong-nghe.md`; heartbeat 2026-06-06 |
+| 50/2026/NĐ-CP | 31/01/2026 | Quy định chi tiết Nghị quyết 254/2025/QH15 về tiền sử dụng đất, tiền thuê đất (hướng dẫn thi hành Luật Đất đai) | Đất đai | Chưa có | Phát hiện bởi heartbeat 2026-06-06; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/50-ndcp.signed.pdf` |
+| 49/2026/NĐ-CP | 31/01/2026 | Quy định chi tiết và hướng dẫn một số điều của Nghị quyết 254/2025/QH15 tháo gỡ khó khăn trong tổ chức thi hành Luật Đất đai | Đất đai | Chưa có | Phát hiện bởi heartbeat 2026-06-06; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/49-2026ndcp.signed.pdf` |
+| 129/2026/NĐ-CP | 06/04/2026 | Quy định về quản lý, sử dụng ngân sách nhà nước đối với một số hoạt động đối ngoại | Tài chính / Đối ngoại | Chưa có | Phát hiện bởi heartbeat 2026-06-06; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/129-ndcp.signed.pdf` |
+| 23/2026/TT-BKHCN | 28/05/2026 | Quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước lĩnh vực KHCN&ĐMST&CDS cho hoạt động tiêu chuẩn, quy chuẩn kỹ thuật | Khoa học công nghệ | Chưa có | Phát hiện bởi heartbeat 2026-06-06; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/5/23-bkhcn.pdf` |
 | 147/2026/NĐ-CP | 07/05/2026 | Hướng dẫn cơ chế, chính sách đặc thù tháo gỡ khó khăn cho các dự án tồn đọng, kéo dài theo Nghị quyết 29/2026/QH16 | Đầu tư / dự án tồn đọng | Đã có | `van-ban/dat-dai-dau-tu/nghi-dinh-147-2026-nd-cp-co-che-dac-thu-du-an-ton-dong.md`; heartbeat 2026-06-06 |
 | 146/2026/NĐ-CP | 06/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp | Lâm nghiệp | Đã có | `van-ban/nong-nghiep-nong-thon/nghi-dinh-146-2026-nd-cp-xu-phat-vi-pham-linh-vuc-lam-nghiep.md`; heartbeat 2026-06-06 |
 | 26/2026/NQ-CP | 06/05/2026 | Cơ chế đặc thù tháo gỡ khó khăn trong lấy mẫu, giám định, xác định danh tính hài cốt liệt sĩ bằng ADN | Chính sách xã hội | Đã có | `van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si.md`; heartbeat 2026-06-04 |
@@ -46,18 +50,22 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 - `van-ban/cong-nghiep/hoa-chat.md`
 - `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-xuat-khau-thue-nhap-khau.md`
 
-Chưa thấy trang chuyên biệt cho các văn bản mới sau:
+Chưa thấy trang chuyên biệt cho các văn bản mới sau (heartbeat 2026-06-06):
 
-- 147/2026/NĐ-CP về dự án tồn đọng, kéo dài
-- 146/2026/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp
-- 145/2026/NĐ-CP về quản lý tài chính Sở GDCK Việt Nam/VSDC
-- 144/2026/NĐ-CP và 141/2026/NĐ-CP về thuế
+- 50/2026/NĐ-CP và 49/2026/NĐ-CP về tiền sử dụng đất, tiền thuê đất / hướng dẫn NQ 254
+- 129/2026/NĐ-CP về ngân sách cho hoạt động đối ngoại
+- 23/2026/TT-BKHCN về dự toán kinh phí tiêu chuẩn/quy chuẩn kỹ thuật
+- 192/2026/NĐ-CP, 37/2026/NĐ-CP, 58/2026/NĐ-CP, 20/2026/NĐ-CP (đang chờ crawl chi tiết)
+- 03/2026/TT-BNG phân cấp chứng nhận lãnh sự
 
 ## Đề xuất ưu tiên cập nhật tiếp theo
 
-1. **Thuế / thương mại**: 143/2026/NĐ-CP, 144/2026/NĐ-CP, 141/2026/NĐ-CP vì có tác động rộng tới kinh doanh.
-2. **Đất đai / dự án tồn đọng**: 147/2026/NĐ-CP vì là cơ chế đặc thù mới.
-3. **Chứng khoán**: 145/2026/NĐ-CP nếu mở rộng nhóm tài chính - chứng khoán.
+1. **Đất đai**: 50/2026/NĐ-CP và 49/2026/NĐ-CP — cặp NĐ hướng dẫn NQ 254/QH15 về tiền sử dụng đất, tiền thuê đất, có hiệu lực rộng.
+2. **Tài chính / Đối ngoại**: 129/2026/NĐ-CP — quản lý ngân sách cho hoạt động đối ngoại.
+3. **Khoa học công nghệ**: 23/2026/TT-BKHCN — quy định dự toán kinh phí cho tiêu chuẩn/quy chuẩn kỹ thuật.
+4. **Thuế / thương mại**: 143/2026/NĐ-CP, 144/2026/NĐ-CP, 141/2026/NĐ-CP, 68/2026/NĐ-CP vì có tác động rộng tới kinh doanh.
+5. **Đất đai / dự án tồn đọng**: 147/2026/NĐ-CP vì là cơ chế đặc thù mới.
+6. **Chứng khoán**: 145/2026/NĐ-CP nếu mở rộng nhóm tài chính - chứng khoán.
 
 ## Cách sử dụng
 
