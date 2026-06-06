@@ -193,7 +193,8 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 
 ### 4.3. Nguyên tắc quan trọng
 
-
-- KHÔNG tự động tạo PR - phải chờ Sếp review
-- KHÔNG tự động merge - phải chờ Sếp duyệt
+- Bột tự gọi đệ #1 và đệ #4 song song khi không còn task/ không biết làm gì
+- KHÔNG tự động tạo PR
+- KHÔNG tự động merge
 - Crawl liên tục, nếu có thắc mắc có nên crawl hay không thì gọi Đệ #4 review rồi Bột tự quyết định
+- Gọi nhiều đệ thực hiện song song
