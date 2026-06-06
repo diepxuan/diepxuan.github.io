@@ -29,7 +29,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 03/2026/TT-BNG | 06/05/2026 | Phân cấp thẩm quyền chứng nhận lãnh sự, hợp pháp hóa lãnh sự cho UBND cấp tỉnh | Ngoại giao | Chưa có | Chờ xử lý theo backlog sau nhóm ưu tiên cao |
 | 192/2026/NĐ-CP | 12/05/2026 | (chờ crawl chi tiết) | Hệ thống văn bản | Chưa có | Phát hiện bởi heartbeat 2026-06-06 |
 | 68/2026/NĐ-CP | 05/03/2026 | Quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh | Thuế / hộ kinh doanh | Đã có | Phát hiện bởi heartbeat 2026-06-06; liên quan đến 141/2026/NĐ-CP |
-| 37/2026/NĐ-CP | 2026 | Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa | Chất lượng sản phẩm | Chưa có | Phát hiện bởi heartbeat 2026-06-06 |
+| 37/2026/NĐ-CP | 23/01/2026 | Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa | Chất lượng sản phẩm | Đã có | `van-ban/khoa-hoc-cong-nghe/nghi-dinh-37-2026-nd-cp-chat-luong-san-pham-hang-hoa.md`; heartbeat 2026-06-07; người ký Phó Thủ tướng Nguyễn Chí Dũng |
 | 58/2026/NĐ-CP | 2026 | Sửa đổi, bổ sung một số điều của các nghị định liên quan đến quy định điều kiện về an ninh, trật tự đối với một số ngành, nghề đầu tư kinh doanh có điều kiện; quản lý và sử dụng con dấu; quản lý, sử dụng pháo | An ninh trật tự | Chưa có | Phát hiện bởi heartbeat 2026-06-06 |
 | 20/2026/NĐ-CP | 2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị quyết số 198/2025/QH15 về một số cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân | Kinh tế tư nhân | Chưa có | Phát hiện bởi heartbeat 2026-06-06 |
 | 145/2026/NĐ-CP | 05/05/2026 | Cơ chế quản lý tài chính, đánh giá, xếp loại doanh nghiệp đối với Sở GDCK Việt Nam, VSDC | Chứng khoán | Đã có | `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-145-2026-nd-cp-co-che-quan-ly-tai-chinh-vnx-vsdc.md`; heartbeat 2026-06-06 |
@@ -55,7 +55,7 @@ Chưa thấy trang chuyên biệt cho các văn bản mới sau (heartbeat 2026-
 - 50/2026/NĐ-CP và 49/2026/NĐ-CP về tiền sử dụng đất, tiền thuê đất / hướng dẫn NQ 254
 - 129/2026/NĐ-CP về ngân sách cho hoạt động đối ngoại
 - 23/2026/TT-BKHCN về dự toán kinh phí tiêu chuẩn/quy chuẩn kỹ thuật
-- 192/2026/NĐ-CP, 37/2026/NĐ-CP, 58/2026/NĐ-CP, 20/2026/NĐ-CP (đang chờ crawl chi tiết)
+- 192/2026/NĐ-CP, 58/2026/NĐ-CP, 20/2026/NĐ-CP (đang chờ crawl chi tiết); 37/2026/NĐ-CP đã hoàn thiện 2026-06-07
 - 03/2026/TT-BNG phân cấp chứng nhận lãnh sự
 
 ## Đề xuất ưu tiên cập nhật tiếp theo
