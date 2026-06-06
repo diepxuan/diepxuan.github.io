@@ -27,7 +27,6 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
 3. **Chạy theo yêu cầu** - không tự động, chỉ chạy khi Bot yêu cầu
 4. **Hết khi Bot quyết định** - Bot có thể dừng lại bất kỳ lúc nào
 5. **Áp dụng OCR Pipeline** (mục 3) cho mỗi file PDF có chữ ký số
-6. **Mỗi văn bản = 1 PR riêng**
 
 ### 2.2. Các đệ theo chức năng
 
@@ -62,9 +61,8 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
   1. Lấy metadata từ vanban.chinhphu.vn (số hiệu, ngày ban hành, người ký, ngày hiệu lực, trích yếu, căn cứ pháp luật)
   2. Nếu có PDF có chữ ký số -> áp dụng Signed PDF OCR Pipeline (mục 3)
   3. Merge metadata + nội dung OCR thành 1 file Markdown hoàn chỉnh
-  4. KHÔNG tạo PR, KHÔNG commit - lưu file vào thư mục tạm `/tmp/review/` để Bot review
-- Output: File Markdown hoàn chỉnh trong `/tmp/review/`, báo cáo cho Bot
-- Bot review nội dung, sau đó quyết định tạo PR thủ công
+  4. Lưu file hoàn chỉnh vào `van-ban/` và tạo branch riêng để Bot review
+- Output: 1 PR mới file, chờ Bot review và merge
 
 **Đệ #4: Content Reviewer**
 
@@ -90,8 +88,8 @@ Vòng lặp (Bot quyết định khi nào chạy):
 3. Bot gọi Đệ #2 (Auditor) -> Nhận báo cáo các văn bản chưa hoàn thiện (phân loại theo danh mục)
 4. Bot quyết định:
    - Văn bản nào cần hoàn thiện? -> Chọn và gọi Đệ #3
-5. Bot gọi Đệ #3 (Full Crawler) -> Nhận file hoàn chỉnh (KHÔNG tạo PR)
-6. Bot review nội dung
+5. Bot gọi Đệ #3 (Full Crawler) -> Nhận 1 PR mới (file hoàn chỉnh)
+6. Bot review nội dung và merge PR
 7. Sau khi duyệt, Bot gọi Đệ #4 (Reviewer) -> Nhận báo cáo (5 văn bản/lần)
 8. Bot quyết định:
    - File OK -> kết thúc
@@ -104,7 +102,7 @@ Vòng lặp (Bot quyết định khi nào chạy):
 |----|-----------|----------|--------|
 | #1 | Discovery & Tracking | 5 văn bản/lần | Cập nhật tracking, báo cáo |
 | #2 | Content Auditor | Báo cáo theo danh mục | Danh sách chưa hoàn thiện |
-| #3 | Full Content Crawler | KHÔNG tạo PR, KHÔNG commit | File hoàn chỉnh (chờ review) |
+| #3 | Full Content Crawler | 1 văn bản / lần | 1 PR mới, chờ review |
 | #4 | Content Reviewer | 5 văn bản/lần, toàn bộ van-ban | Danh sách cần review |
 
 ---
