@@ -1,6 +1,6 @@
 # HEARTBEAT - github-io workspace
 
-File này định nghĩa các task định kỳ mà Bot phải thực hiện.
+File này định nghĩa các task định kỳ mà Bột phải thực hiện.
 Mỗi task có interval, mô tả, và quy trình rõ ràng.
 
 ---
@@ -9,12 +9,12 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
 
 | Task | Interval | Mục đích |
 |------|----------|----------|
-| `crawl-vanban` | 30m | Đánh thức Bot để gọi đệ thực hiện phương án crawl văn bản pháp luật |
+| `crawl-vanban` | 30m | Đánh thức Bột để gọi đệ thực hiện phương án crawl văn bản pháp luật |
 
 **Quy tắc bắt buộc:**
 - Chỉ có DUY NHẤT 1 task này, chạy mỗi 30 phút.
-- Mục đích: đánh thức Bot, KHÔNG tự động thực hiện bất kỳ hành động nào.
-- Khi task chạy, Bot sẽ đọc lại phương án ở mục 2 và quyết định có gọi đệ hay không.
+- Mục đích: đánh thức Bột, KHÔNG tự động thực hiện bất kỳ hành động nào.
+- Khi task chạy, Bột sẽ đọc lại phương án ở mục 2 và quyết định có gọi đệ hay không.
 
 ---
 
@@ -23,9 +23,9 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
 ### 2.1. Nguyên tắc tổng quan
 
 1. **Phân tách theo chức năng** - mỗi đệ thực hiện một chức năng riêng biệt
-2. **Bot là người ra quyết định** - Bot quyết định gọi đệ nào, khi nào
-3. **Chạy theo yêu cầu** - không tự động, chỉ chạy khi Bot yêu cầu
-4. **Hết khi Bot quyết định** - Bot có thể dừng lại bất kỳ lúc nào
+2. **Bột là người ra quyết định** - Bột quyết định gọi đệ nào, khi nào
+3. **Chạy theo yêu cầu** - không tự động, chỉ chạy khi Bột yêu cầu
+4. **Hết khi Bột quyết định** - Bột có thể dừng lại bất kỳ lúc nào
 5. **Áp dụng OCR Pipeline** (mục 3) cho mỗi file PDF có chữ ký số
 
 ### 2.2. Các đệ theo chức năng
@@ -39,8 +39,8 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
   3. Phát hiện văn bản chưa có -> thêm vào `documents/LEGISLATION_TRACKING.md` với trạng thái "Chưa có"
   4. Phát hiện file trong `van-ban/` chưa hoàn thiện (metadata "Đang cập nhật", file <10k chars, lastedit cũ) -> đánh dấu trong tracking
 - Giới hạn: 5 văn bản/lần
-- Output: Báo cáo cho Bot, cập nhật `documents/LEGISLATION_TRACKING.md`
-- Bot quyết định: tìm thêm văn bản mới hay dừng lại
+- Output: Báo cáo cho Bột, cập nhật `documents/LEGISLATION_TRACKING.md`
+- Bột quyết định: tìm thêm văn bản mới hay dừng lại
 
 **Đệ #2: Content Auditor**
 
@@ -51,8 +51,8 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
   3. Báo cáo từng danh mục văn bản riêng biệt (theo từng nhóm chủ đề)
   4. Phân tích tình trạng: metadata thiếu, nội dung thiếu, OCR cần thiết
   5. Ưu tiên theo nhóm chủ đề và độ quan trọng
-- Output: Báo cáo cho Bot các văn bản cần hoàn thiện, phân loại theo từng danh mục
-- Bot quyết định: gọi Đệ #3 để hoàn thiện văn bản nào
+- Output: Báo cáo cho Bột các văn bản cần hoàn thiện, phân loại theo từng danh mục
+- Bột quyết định: gọi Đệ #3 để hoàn thiện văn bản nào
 
 **Đệ #3: Full Content Crawler**
 
@@ -61,8 +61,8 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
   1. Lấy metadata từ vanban.chinhphu.vn (số hiệu, ngày ban hành, người ký, ngày hiệu lực, trích yếu, căn cứ pháp luật)
   2. Nếu có PDF có chữ ký số -> áp dụng Signed PDF OCR Pipeline (mục 3)
   3. Merge metadata + nội dung OCR thành 1 file Markdown hoàn chỉnh
-  4. Lưu file hoàn chỉnh vào `van-ban/` và tạo branch riêng để Bot review
-- Output: 1 PR mới file, chờ Bot review và merge
+  4. Lưu file hoàn chỉnh vào `van-ban/` và tạo branch riêng để Bột review
+- Output: 1 PR mới file, chờ Bột review và merge
 
 **Đệ #4: Content Reviewer**
 
@@ -73,25 +73,25 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
   3. Review liên tục 5 văn bản/lần, toàn bộ nội dung trong van-ban
   4. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
   5. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
-- Output: Báo cáo cho Bot các văn bản cần review
-- Bot quyết định: File OK -> không cần xử lý; File cần bổ sung -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp
+- Output: Báo cáo cho Bột các văn bản cần review
+- Bột quyết định: File OK -> không cần xử lý; File cần bổ sung -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp
 
 ### 2.3. Quy trình thực thi
 
 ```
-Vòng lặp (Bot quyết định khi nào chạy):
+Vòng lặp (Bột quyết định khi nào chạy):
 
-1. Bot gọi Đệ #1 (Discovery) -> Nhận báo cáo (tối đa 5 văn bản/lần)
-2. Bot quyết định:
+1. Bột gọi Đệ #1 (Discovery) -> Nhận báo cáo (tối đa 5 văn bản/lần)
+2. Bột quyết định:
    - Tìm thêm văn bản mới? -> Lặp lại từ 1
    - Dừng lại? -> Sang bước 3
-3. Bot gọi Đệ #2 (Auditor) -> Nhận báo cáo các văn bản chưa hoàn thiện (phân loại theo danh mục)
-4. Bot quyết định:
+3. Bột gọi Đệ #2 (Auditor) -> Nhận báo cáo các văn bản chưa hoàn thiện (phân loại theo danh mục)
+4. Bột quyết định:
    - Văn bản nào cần hoàn thiện? -> Chọn và gọi Đệ #3
-5. Bot gọi Đệ #3 (Full Crawler) -> Nhận 1 PR mới (file hoàn chỉnh)
-6. Bot review nội dung và merge PR
-7. Sau khi duyệt, Bot gọi Đệ #4 (Reviewer) -> Nhận báo cáo (5 văn bản/lần)
-8. Bot quyết định:
+5. Bột gọi Đệ #3 (Full Crawler) -> Nhận 1 PR mới (file hoàn chỉnh)
+6. Bột review nội dung và merge PR
+7. Sau khi duyệt, Bột gọi Đệ #4 (Reviewer) -> Nhận báo cáo (5 văn bản/lần)
+8. Bột quyết định:
    - File OK -> kết thúc
    - File cần sửa -> gọi Đệ #3 hoặc sửa trực tiếp
 ```
@@ -185,15 +185,15 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 
 ### 4.2. Hành vi khi task chạy
 
-- Bot đọc HEARTBEAT.md, đặc biệt mục 2
-- Bot kiểm tra PR đang mở
-- Bot quyết định: gọi đệ nào (dựa trên tình trạng hiện tại)
-- Bot báo cáo cho Sếp các hành động đã thực hiện
+- Bột đọc HEARTBEAT.md, đặc biệt mục 2
+- Bột kiểm tra PR đang mở
+- Bột quyết định: gọi đệ nào (dựa trên tình trạng hiện tại)
+- Bột báo cáo cho Sếp các hành động đã thực hiện
 - Nếu không có gì cần làm: reply `HEARTBEAT_OK`
 
 ### 4.3. Nguyên tắc quan trọng
 
-- KHÔNG tự động gọi đệ - Bot phải tự quyết định
+- KHÔNG tự động gọi đệ - Bột phải tự quyết định
 - KHÔNG tự động tạo PR - phải chờ Sếp review
 - KHÔNG tự động merge - phải chờ Sếp duyệt
 - Mỗi hành động crawl đều phải thông báo cho Sếp
