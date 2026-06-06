@@ -1,328 +1,121 @@
-# HEARTBEAT.md - Quy trình heartbeat hiệu quả
+# HEARTBEAT - github-io workspace
 
-HEARTBEAT.md định nghĩa cách agent tự động rà soát, chọn việc, tạo thay đổi sạch và chuẩn bị PR cho Sếp review.
-
-Mục tiêu chính:
-
-- Mỗi lần heartbeat phải tạo giá trị kiểm chứng được.
-- Không chạy vòng lặp chỉ đọc memory rồi báo OK.
-- Không gom nhiều việc không liên quan vào một PR.
-- Không làm lại việc đã có PR, đã merge hoặc đã bị thay thế.
-- Không push, tạo PR, merge hoặc đóng PR nếu chưa được Sếp cho phép rõ.
+File này định nghĩa các task định kỳ mà Bột phải thực hiện.
+Mỗi task có interval, mô tả, và quy trình rõ ràng.
 
 ---
 
-## 1. State Management
+## 1. Task tổng quan
 
-Heartbeat sử dụng 3 nguồn state để xác định phần nào đã làm, phần nào chưa làm.
+| Task | Interval | Mục đích |
+|------|----------|----------|
+| `crawl-vanban` | 30m | Đánh thức Bột để gọi đệ thực hiện phương án crawl văn bản pháp luật |
 
-### 1.1. PR đang mở (Primary Source of Truth)
-
-PR đang mở là source of truth chính cho work in progress:
-
-```bash
-gh pr list --state open --limit 100 --json number,title,headRefName,baseRefName,mergeable,mergeStateStatus,url
-```
-
-- PR đang mở = item đang xử lý → không tạo PR trùng trên file đó.
-- PR đã merge → item hoàn tất → cập nhật tracking.
-- PR bị đóng/thay thế → item chưa hoàn tất hoặc có lỗi → xử lý lại.
-
-### 1.2. Session State (OpenClaw Internal)
-
-OpenClaw tự động track:
-
-- `heartbeatTaskState`: last-run timestamp cho mỗi `tasks:` block.
-- Session freshness, idle expiry.
-- Không cần em quản lý thủ công.
-
-### 1.3. Local State: .heartbeat-state.json
-
-File local để track thông tin bổ sung không có trong PR hoặc session:
-
-```json
-{
-  "last_runs": {
-    "pr-hygiene": "2026-06-05T12:00:00+07:00",
-    "legislation-crawl": "2026-06-05T08:00:00+07:00",
-    "metadata-repair": "2026-06-04T20:00:00+07:00",
-    "content-completion": "2026-06-01T10:00:00+07:00"
-  },
-  "next_runs": {
-    "pr-hygiene": "2026-06-06T00:00:00+07:00",
-    "legislation-crawl": "2026-06-06T08:00:00+07:00"
-  },
-  "last_result": {
-    "pr-hygiene": "NO_ACTION",
-    "legislation-crawl": "PR_CREATED"
-  },
-  "no_action_streak": {
-    "metadata-repair": 2
-  },
-  "notes": {
-    "legislation-crawl": "Nhóm Thuế/Thương mại: 2 item còn lại, cần retry khi có nguồn mới"
-  }
-}
-```
-
-**Quy tắc:**
-
-- Không commit `.heartbeat-state.json`.
-- Không dùng state để thay thế việc kiểm tra thực tế.
-- State chỉ là cache để tránh quét lại toàn bộ.
-- Luôn verify với PR đang mở và git diff trước khi hành động.
-
-### 1.4. Luồng xác định state
-
-```
-1. Kiểm tra PR đang mở (gh pr list)
-   ├── Có PR → Item đang xử lý, bỏ qua trùng
-   └── Không có PR → Tiếp tục
-
-2. Kiểm tra documents/LEGISLATION_TRACKING.md
-   ├── Item có file → Đã có
-   ├── Item có PR đang mở → Đang xử lý
-   └── Item chưa xử lý → Chọn nhóm đầu tiên còn việc
-
-3. Kiểm tra .heartbeat-state.json (optional)
-   └── Track notes, no_action_streak, last run
-
-4. Kiểm tra session state (OpenClaw auto)
-   └── heartbeatTaskState cho tasks: blocks
-```
+**Quy tắc bắt buộc:**
+- Chỉ có DUY NHẤT 1 task này, chạy mỗi 30 phút.
+- Mục đích: đánh thức Bột, KHÔNG tự động thực hiện bất kỳ hành động nào.
+- Khi task chạy, Bột sẽ đọc lại phương án ở mục 2 và quyết định có gọi đệ hay không.
 
 ---
 
-## 2. Nguyên tắc vận hành
+## 2. Phương án crawl văn bản pháp luật
 
-### 2.1. Heartbeat phải có đầu ra rõ ràng
+### 2.1. Nguyên tắc tổng quan
 
-Mỗi lượt chạy chỉ được kết thúc bằng một trong bốn kết quả:
+1. **Phân tách theo chức năng** - mỗi đệ thực hiện một chức năng riêng biệt
+2. **Bột là người ra quyết định** - Bột quyết định gọi đệ nào, khi nào
+3. **Chạy theo yêu cầu** - không tự động, chỉ chạy khi Bột yêu cầu
+4. **Hết khi Bột quyết định** - Bột có thể dừng lại bất kỳ lúc nào
+5. **Áp dụng OCR Pipeline** (mục 3) cho mỗi file PDF có chữ ký số
 
-1. **PR_CREATED**
-   - Có branch sạch.
-   - Có commit.
-   - Diff đã kiểm tra.
-   - Đã push branch và mở PR để Sếp review.
-   - Đây là kết quả bắt buộc khi heartbeat đã tạo/cập nhật nội dung hoặc tài liệu.
+### 2.2. Các đệ theo chức năng
 
-2. **NEEDS_REVIEW**
-   - Có phát hiện đáng chú ý nhưng chưa đủ chắc để sửa.
-   - Cần Sếp quyết định phạm vi, nguồn dữ liệu hoặc hướng xử lý.
+**Đệ #1: Discovery & Tracking**
 
-3. **BLOCKED**
-   - Không thể tiếp tục vì lỗi công cụ, thiếu nguồn chính thức, conflict hoặc dữ liệu không đáng tin.
-   - Phải ghi rõ blocker và bước xử lý đề xuất.
+- Mục đích: Tìm kiếm văn bản pháp luật trên vanban.chinhphu.vn và các nguồn chính thức
+- Quy trình:
+  1. Quét vanban.chinhphu.vn theo các nhóm chủ đề (Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán...)
+  2. So sánh với danh sách đã có trong `documents/LEGISLATION_TRACKING.md` và `van-ban/`
+  3. Phát hiện văn bản chưa có -> thêm vào `documents/LEGISLATION_TRACKING.md` với trạng thái "Chưa có"
+  4. Phát hiện file trong `van-ban/` chưa hoàn thiện (metadata "Đang cập nhật", file <10k chars, lastedit cũ) -> đánh dấu trong tracking
+- Giới hạn: 5 văn bản/lần
+- Output: Báo cáo cho Bột, cập nhật `documents/LEGISLATION_TRACKING.md`
+- Bột quyết định: tìm thêm văn bản mới hay dừng lại
 
-4. **NO_ACTION**
-   - Không có việc đủ điều kiện xử lý.
-   - Phải ghi rõ đã kiểm tra gì và vì sao không làm.
+**Đệ #2: Content Auditor**
 
-### 2.2. Không dùng memory làm task queue chính
+- Mục đích: Duyệt các văn bản trong `documents/LEGISLATION_TRACKING.md` đã được đánh dấu là "Chưa hoàn thiện"
+- Quy trình:
+  1. Đọc `documents/LEGISLATION_TRACKING.md`
+  2. Liệt kê các văn bản có trạng thái "Chưa có" hoặc "Chưa hoàn thiện"
+  3. Báo cáo từng danh mục văn bản riêng biệt (theo từng nhóm chủ đề)
+  4. Phân tích tình trạng: metadata thiếu, nội dung thiếu, OCR cần thiết
+  5. Ưu tiên theo nhóm chủ đề và độ quan trọng
+- Output: Báo cáo cho Bột các văn bản cần hoàn thiện, phân loại theo từng danh mục
+- Bột quyết định: gọi Đệ #3 để hoàn thiện văn bản nào
 
-- `memory/YYYY-MM-DD.md` chỉ dùng làm nhật ký local hoặc context phụ.
-- Không quét memory mỗi 2 giờ để tìm việc mơ hồ.
-- Task queue chính là:
-  1. PR đang mở trên GitHub.
-  2. `documents/LEGISLATION_TRACKING.md`.
-  3. Các file `van-ban/` có metadata thiếu hoặc nguồn lỗi.
+**Đệ #3: Full Content Crawler**
 
-### 2.3. Task quá hạn phải tự nâng cấp mức xử lý
+- Mục đích: Kết hợp metadata + OCR để tạo file hoàn chỉnh
+- Quy trình (cho mỗi văn bản được yêu cầu):
+  1. Lấy metadata từ vanban.chinhphu.vn (số hiệu, ngày ban hành, người ký, ngày hiệu lực, trích yếu, căn cứ pháp luật)
+  2. Nếu có PDF có chữ ký số -> áp dụng Signed PDF OCR Pipeline (mục 3)
+  3. Merge metadata + nội dung OCR thành 1 file Markdown hoàn chỉnh
+  4. Lưu file hoàn chỉnh vào `van-ban/` và tạo branch riêng để Bột review
+- Output: 1 PR mới file, chờ Bột review và merge
 
-Nếu `Task B: Legislation Backlog Group Crawl` hoặc task backlog pháp luật quá hạn:
+**Đệ #4: Content Reviewer**
 
-- Quá hạn dưới 24 giờ: chạy ngay trong lượt heartbeat kế tiếp.
-- Quá hạn từ 24 giờ đến dưới 7 ngày: bỏ qua cooldown, ưu tiên trước task refactor thông thường.
-- Quá hạn từ 7 ngày trở lên: coi là **OVERDUE_CRITICAL**.
+- Mục đích: Duyệt các văn bản đã có đầy đủ nội dung hoặc được đánh dấu "Hoàn thiện" trong tracking
+- Quy trình:
+  1. Quét `van-ban/` để tìm file có nội dung đầy đủ
+  2. Đọc `documents/LEGISLATION_TRACKING.md` để lấy các văn bản "Hoàn thiện"
+  3. Review liên tục 5 văn bản/lần, toàn bộ nội dung trong van-ban
+  4. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
+  5. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
+- Output: Báo cáo cho Bột các văn bản cần review
+- Bột quyết định: File OK -> không cần xử lý; File cần bổ sung -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp
 
-Với `OVERDUE_CRITICAL`, heartbeat không được kết thúc `NO_ACTION` nếu backlog còn nhóm có item xử lý được. Phải tạo một trong hai đầu ra:
-
-1. `PR_CREATED`: đã crawl nhóm backlog đầu tiên còn việc, tạo/cập nhật file, commit, push branch và mở PR cho Sếp review.
-2. `BLOCKED`: nêu rõ nhóm, item, lỗi nguồn/công cụ và điều kiện retry.
-
----
-
-## 3. Chu kỳ heartbeat chuẩn
-
-Mỗi lượt heartbeat chạy theo đúng thứ tự dưới đây.
-
-### Bước 1: Sync và kiểm tra môi trường
-
-```bash
-git checkout main
-git fetch origin --prune
-git pull --ff-only origin main
-git status --short --branch
-```
-
-### Bước 2: Kiểm tra PR đang mở (Primary Source of Truth)
-
-```bash
-gh pr list --state open --limit 100 --json number,title,headRefName,baseRefName,mergeable,mergeStateStatus,changedFiles,updatedAt,url
-```
-
-Mục tiêu: tránh tạo thêm PR trùng, conflict hoặc lỗi thời.
-
-Phân loại PR:
-- **mergeable + đúng nội dung**: báo `NEEDS_REVIEW` để Sếp quyết merge.
-- **conflict nhưng còn giá trị**: tạo branch thay thế từ `main`, cherry-pick/copy đúng phần cần giữ, push và mở PR thay thế.
-- **trùng PR đã merge**: báo đề xuất đóng, không tự đóng nếu chưa được giao rõ.
-- **sai metadata hoặc nguồn không đáng tin**: không merge; báo lỗi cụ thể.
-
-### Bước 3: Chọn đúng một đơn vị công việc
-
-Thứ tự ưu tiên:
-
-1. Nếu có task backlog quá hạn `OVERDUE_CRITICAL`: xử lý ngay nhóm backlog đầu tiên còn việc.
-2. Sửa hoặc thay thế PR đang mở bị conflict nhưng còn giá trị.
-3. Hoàn tất nhóm backlog đầu tiên còn item `Chưa có`, `Cần cập nhật` hoặc `Blocked` có thể retry.
-4. Sửa metadata sai rõ ràng trong một file `van-ban/`.
-5. Bổ sung nội dung thiếu cho một file `van-ban/` có nguồn chính thức.
-6. Nếu không có việc đủ dữ kiện: `NO_ACTION`.
-
-Luật chọn nhóm backlog:
-
-1. Đọc `documents/LEGISLATION_TRACKING.md` và lấy thứ tự nhóm theo thứ tự xuất hiện từ trên xuống dưới.
-2. Chọn nhóm đầu tiên còn item chưa hoàn tất. Không nhảy sang nhóm dưới nếu nhóm trên còn item xử lý được.
-3. Trong nhóm đã chọn, ưu tiên item theo thứ tự: `Chưa có` → `Cần cập nhật` → `Blocked` có thể retry.
-4. Chỉ chuyển sang nhóm kế tiếp khi toàn bộ item trong nhóm hiện tại đã `Đã có`, `Bỏ qua` hoặc `Blocked` không thể retry.
-5. Không được trả `NO_ACTION` nếu còn bất kỳ nhóm nào có item xử lý được.
-
-Giới hạn phạm vi:
-
-- Mỗi heartbeat xử lý tối đa **một nhóm backlog**.
-- Trong nhóm đó, có thể xử lý nhiều item nếu cùng chủ đề, cùng nguồn/cơ quan hoặc diff vẫn nhỏ, dễ review.
-- Mặc định không quá 3 file nội dung trong một heartbeat.
-- Nếu nhóm có nhiều hơn 3 item hợp lệ, chia thành nhiều heartbeat/PR.
-
-### Bước 4: Xác minh nguồn trước khi sửa
-
-Nguồn ưu tiên:
-1. `vanban.chinhphu.vn`
-2. PDF/tệp đính kèm từ `datafiles.chinhphu.vn`
-3. Nguồn cơ quan nhà nước chuyên ngành
-
-### Bước 5: Tạo branch sạch và commit
-
-```bash
-git checkout main
-git pull --ff-only origin main
-git checkout -b <type>/<scope>-<yyyymmdd>
-```
-
-Sau khi sửa:
-```bash
-git diff --check
-git add <files-trong-scope>
-git commit -m "<type>: <mo-ta-ngan>"
-```
-
-### Bước 6: Báo cáo kết quả
-
-Báo cáo phải gồm:
-- Kết quả: `PR_CREATED`, `NEEDS_REVIEW`, `BLOCKED` hoặc `NO_ACTION`.
-- File đã kiểm tra/sửa.
-- Nguồn đã dùng.
-- Branch, commit và PR URL nếu có.
-
----
-
-## 4. Các task heartbeat
-
-### Task A: crawl-vanban (30m)
-
-Crawl dữ liệu mới chưa có trong `van-ban/`:
-
-- Quét `vanban.chinhphu.vn` để phát hiện văn bản mới ban hành.
-- So sánh với danh sách file hiện có trong `van-ban/`.
-- Với văn bản chưa có: tạo file mới theo template, lấy metadata từ nguồn chính thức.
-- **Nếu có file PDF đính kèm, bắt buộc chạy Signed PDF OCR Pipeline (mục 8) để lấy nội dung.**
-- Cập nhật `documents/LEGISLATION_TRACKING.md` nếu có thay đổi.
-- Commit, push, mở PR.
-
-Nếu không phát hiện văn bản mới, báo cáo `NO_ACTION`.
-
-### Task B: PR Hygiene (6h)
-
-Kiểm tra PR mở, phát hiện conflict/trùng/sai metadata.
-
-### Task C: Metadata Repair (6h)
-
-Sửa metadata sai trong file `van-ban/`. **Nếu file nguồn là PDF (đặc biệt PDF signed), bắt buộc chạy Signed PDF OCR Pipeline (mục 8) để đối chiếu metadata với nội dung gốc.**
-
-### Task D: Content Completion (30m)
-
-Bổ sung nội dung thiếu cho văn bản quan trọng. **Bắt buộc chạy Signed PDF OCR Pipeline (mục 8) cho mọi file PDF đính kèm để lấy nội dung bổ sung.**
-
-Quy tắc fallback:
-
-- Nếu Content Completion không phát hiện nội dung mới cần cập nhật, thực hiện crawl dữ liệu mới (giống Task A).
-- Cùng nguồn, cùng cơ chế, chỉ khác điểm khởi đầu: "cập nhật nội dung cũ" → "thêm văn bản mới".
-- Commit và PR tách riêng theo từng task, không gộp.
-
----
-
-## 5. Quy tắc tạo PR
-
-Heartbeat được phép push branch và mở PR khi:
-- Task thuộc phạm vi đã được định nghĩa.
-- Branch tạo mới từ `origin/main`.
-- Có commit thực chất.
-- `git diff --check` pass.
-- Không có PR mở khác cùng phạm vi/file.
-
----
-
-## 6. Nguồn dữ liệu
-
-| Nguồn | Trạng thái | Cách dùng |
-|-|-|-|
-| `vanban.chinhphu.vn` | Ưu tiên | Metadata, trang chi tiết |
-| `datafiles.chinhphu.vn` | Ưu tiên | PDF/tệp đính kèm |
-| Website cơ quan nhà nước | Dự phòng | Đối chiếu |
-| `luatvietnam.vn` | Không ổn định | Không làm nguồn chính |
-
----
-
-## 7. Mẫu báo cáo
+### 2.3. Quy trình thực thi
 
 ```
-Kết quả: PR_CREATED
-Task: Legislation Backlog Group Crawl
-Nhóm backlog: Thuế / thương mại
+Vòng lặp (Bột quyết định khi nào chạy):
 
-Đã làm:
-- Kiểm tra PR mở: <kết quả>
-- Xác minh nguồn: <nguồn đã dùng>
-- Xử lý item: <danh sách item>
-
-Kiểm tra:
-- git diff --check: pass
-- git diff --stat: <summary>
-
-Branch: <branch>
-Commit: <sha> <message>
-PR: <url>
-
-Cần Sếp quyết:
-- Review PR.
+1. Bột gọi Đệ #1 (Discovery) -> Nhận báo cáo (tối đa 5 văn bản/lần)
+2. Bột quyết định:
+   - Tìm thêm văn bản mới? -> Lặp lại từ 1
+   - Dừng lại? -> Sang bước 3
+3. Bột gọi Đệ #2 (Auditor) -> Nhận báo cáo các văn bản chưa hoàn thiện (phân loại theo danh mục)
+4. Bột quyết định:
+   - Văn bản nào cần hoàn thiện? -> Chọn và gọi Đệ #3
+5. Bột gọi Đệ #3 (Full Crawler) -> Nhận 1 PR mới (file hoàn chỉnh)
+6. Bột review nội dung và merge PR
+7. Sau khi duyệt, Bột gọi Đệ #4 (Reviewer) -> Nhận báo cáo (5 văn bản/lần)
+8. Bột quyết định:
+   - File OK -> kết thúc
+   - File cần sửa -> gọi Đệ #3 hoặc sửa trực tiếp
 ```
 
+### 2.4. Tóm tắt các đệ
+
+| Đệ | Chức năng | Giới hạn | Output |
+|----|-----------|----------|--------|
+| #1 | Discovery & Tracking | 5 văn bản/lần | Cập nhật tracking, báo cáo |
+| #2 | Content Auditor | Báo cáo theo danh mục | Danh sách chưa hoàn thiện |
+| #3 | Full Content Crawler | 1 văn bản / lần | 1 PR mới, chờ review |
+| #4 | Content Reviewer | 5 văn bản/lần, toàn bộ van-ban | Danh sách cần review |
+
 ---
 
-HEARTBEAT.md phải giữ vai trò là quy trình tạo giá trị, không phải nhật ký chạy cron.
+## 3. Signed PDF OCR Pipeline
 
----
+### 3.1. Khi nào cần dùng
 
-## 8. Signed PDF OCR Pipeline
+Khi crawl văn bản từ `vanban.chinhphu.vn` hoặc nguồn chính thức khác, mọi file PDF đính kèm đều phải được OCR để lấy nội dung, không được bỏ qua bước này.
 
-### 8.1. Khi nào cần dùng
+Đặc biệt bắt buộc với PDF có chữ ký số CAdES-BES (`pdftotext` chỉ trích được metadata chữ ký, không lấy được nội dung văn bản).
 
-Khi crawl văn bản từ `vanban.chinhphu.vn` hoặc nguồn chính thức khác, **mọi file PDF đính kèm đều phải được OCR** để lấy nội dung, không được bỏ qua bước này.
-
-Đặc biệt bắt buộc với **PDF có chữ ký số CAdES-BES** (`pdftotext` chỉ trích được metadata chữ ký, không lấy được nội dung văn bản).
-
-### 8.2. Pipeline chuẩn
+### 3.2. Pipeline chuẩn
 
 ```bash
 # Bước 1: Tải PDF từ datafiles.chinhphu.vn
@@ -338,13 +131,13 @@ cd /tmp && for f in p-*.ppm; do tesseract "$f" "${f%.ppm}" -l vie; done
 cat /tmp/p-*.txt > /tmp/<file>-ocr.txt
 ```
 
-### 8.3. Yêu cầu môi trường
+### 3.3. Yêu cầu môi trường
 
 - `pdftoppm` (gói `poppler-utils`)
 - `tesseract-ocr` với gói ngôn ngữ `tesseract-ocr-vie`
 - Đủ dung lượng `/tmp` (PDF trung bình 5-15MB, sau convert còn ~26MB/trang)
 
-### 8.4. Lỗi OCR thường gặp và cách xử lý
+### 3.4. Lỗi OCR thường gặp và cách xử lý
 
 | Lỗi | Ví dụ | Cách xử lý |
 |------|-------|------------|
@@ -353,19 +146,54 @@ cat /tmp/p-*.txt > /tmp/<file>-ocr.txt
 | Mất dấu ngoặc kép | `BM-09` → `BM-09` | Bổ sung thủ công khi viết nội dung |
 | Ngắt dòng giữa từ | `khoa` newline `học` | Gộp lại khi viết lại nội dung |
 
-### 8.5. Quy trình áp dụng trong các task
+### 3.5. Quy trình áp dụng trong các task
 
-Khi thực hiện **Task A (crawl-vanban)**, **Task C (Metadata Repair)**, **Task D (Content Completion)**, nếu file PDF đính kèm tồn tại:
+Khi thực hiện Đệ #3 (Full Content Crawler) hoặc các task khác có liên quan đến PDF:
 
 1. Tải PDF về `/tmp/`
-2. Chạy Signed PDF OCR Pipeline (mục 8.2)
+2. Chạy Signed PDF OCR Pipeline (mục 3.2)
 3. Dùng output OCR làm nguồn nội dung chính để cập nhật file
-4. Ghi chú phương pháp vào PR description
+4. Ghi chú phương pháp vào file Markdown
 
-**Không tạo task riêng cho OCR.** OCR là công cụ bắt buộc của mọi task có liên quan đến PDF.
+Không tạo task riêng cho OCR. OCR là công cụ bắt buộc của mọi task có liên quan đến PDF.
 
-### 8.6. Lưu trữ output OCR
+### 3.6. Lưu trữ output OCR
 
 - Output OCR tạm thời lưu tại `/tmp/<file>-ocr.txt`
 - Không commit file OCR output vào repo (file lớn, nhiễu, dễ lỗi chính tả)
 - Nội dung đã sửa và bổ sung mới commit vào repo dưới dạng Markdown
+
+---
+
+## 4. Kích hoạt task
+
+### 4.1. Cấu hình cron
+
+Cron job gọi task `crawl-vanban` mỗi 30 phút:
+
+```json
+{
+  "name": "crawl-vanban",
+  "schedule": { "kind": "every", "everyMs": 1800000 },
+  "sessionTarget": "current",
+  "payload": {
+    "kind": "agentTurn",
+    "message": "HEARTBEAT: Đọc HEARTBEAT.md. Kiểm tra task 'crawl-vanban' (interval 30m). Nếu đến giờ chạy, thực hiện theo mô tả: đọc lại phương án ở mục 2, quyết định có gọi đệ nào hay không, báo cáo cho Sếp. Nếu không có gì cần làm, reply HEARTBEAT_OK."
+  }
+}
+```
+
+### 4.2. Hành vi khi task chạy
+
+- Bột đọc HEARTBEAT.md, đặc biệt mục 2
+- Bột kiểm tra PR đang mở
+- Bột quyết định: gọi đệ nào (dựa trên tình trạng hiện tại)
+- Bột báo cáo cho Sếp các hành động đã thực hiện
+- Nếu không có gì cần làm: reply `HEARTBEAT_OK`
+
+### 4.3. Nguyên tắc quan trọng
+
+
+- KHÔNG tự động tạo PR - phải chờ Sếp review
+- KHÔNG tự động merge - phải chờ Sếp duyệt
+- Crawl liên tục, nếu có thắc mắc có nên crawl hay không thì gọi Đệ #4 review rồi Bột tự quyết định
