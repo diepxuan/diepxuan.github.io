@@ -45,6 +45,7 @@ Sếp cực kỳ nghiêm ngặt về:
 - Heartbeat tự động có thay đổi thực chất phải tạo PR để Sếp review, không chỉ tạo branch local.
 - Không cập nhật PR cũ nếu Sếp chưa yêu cầu.
 - Mỗi task = 1 branch mới = 1 PR mới.
+- Heartbeat `crawl-vanban` là ngoại lệ: dùng một PR active để cập nhật liên tục; chỉ tạo PR mới khi chưa có PR active hoặc PR active gặp sự cố.
 - Luôn chờ review trước khi merge.
 
 ---
