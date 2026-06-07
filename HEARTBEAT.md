@@ -194,7 +194,25 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 ### 4.3. Nguyên tắc quan trọng
 
 - Bột tự gọi đệ #1 và đệ #4 song song khi không còn task/ không biết làm gì
-- KHÔNG tự động tạo PR
+- Bột tự quyết định mọi hành động trong vòng lặp cron (không hỏi Sếp, không chờ phê duyệt giữa các bước)
+- Báo cáo tổng hợp cho Sếp sau khi hoàn thành chuỗi công việc (hoặc khi có PR cần review)
+- KHÔNG tự động tạo PR ngoài luật 4.4.1 (Đệ #3 tạo PR theo quy trình, BỘT chờ Sếp review)
 - KHÔNG tự động merge
 - Crawl liên tục, nếu có thắc mắc có nên crawl hay không thì gọi Đệ #4 review rồi Bột tự quyết định
 - Gọi nhiều đệ thực hiện song song
+
+### 4.4. Hành vi mặc định của Bột khi cron chạy (cập nhật 2026-06-07)
+
+Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
+
+1. Đọc `HEARTBEAT.md` mục 2 và `documents/LEGISLATION_TRACKING.md`.
+2. Kiểm tra PR đang mở.
+3. **Tự quyết định** theo luật ưu tiên:
+   - Có file chưa hoàn thiện + văn bản đó không có PR mở → gọi Đệ #3 để tạo PR mới (mỗi lần 1 văn bản). Văn bản đang có PR mở thì BỎ QUA, chuyển sang văn bản tiếp theo.
+   - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
+   - Có PR mở → vẫn tiếp tục vòng lặp với văn bản khác; PR đang mở chỉ loại trừ văn bản đó khỏi review/crawl tiếp theo. Trong báo cáo liệt kê danh sách PR đang chờ Sếp review.
+   - Tracking đầy đủ + không có file cần refactor + không có PR → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
+4. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR chờ review).
+5. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
+
+**Không hỏi Sếp giữa chừng. Không dừng để chờ phản hồi.**
