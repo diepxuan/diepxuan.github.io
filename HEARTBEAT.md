@@ -116,8 +116,10 @@ Quy tắc:
 
 1. Nếu chưa có PR heartbeat active đang mở:
    - checkout từ `origin/main`;
-   - tạo branch dạng `heartbeat/crawl-vanban-YYYYMMDD`;
-   - mở 1 PR làm việc để Sếp review.
+   - tạo branch dạng `heartbeat/crawl-vanban-YYYYMMDD` (chưa mở PR);
+   - đợi Đệ #3 tạo file và commit lên branch đó;
+   - push branch lên origin;
+   - mở 1 PR làm việc từ branch đã có commit để Sếp review.
 2. Nếu đã có PR heartbeat active đang mở:
    - checkout branch của PR đó;
    - tiếp tục commit các văn bản/tác vụ mới vào cùng PR;
