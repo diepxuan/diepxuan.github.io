@@ -49,7 +49,7 @@ Nghị định 161/2026/NĐ-CP quy định mức lương cơ sở áp dụng cho
 
 ## NỘI DUNG TOÀN VĂN
 
-**Số: 161/2026/NĐ-CP**  
+**Số: 161/2026/NĐ-CP**
 **Hà Nội, ngày 15 tháng 5 năm 2026**
 
 ### NGHỊ ĐỊNH
