@@ -79,3 +79,79 @@ Chưa thấy trang chuyên biệt cho các văn bản mới sau (heartbeat 2026-
 - `web_search` Brave đang có lúc chuyển provider sang MiniMax và lỗi thiếu API key; fallback dùng `firecrawl_search`.
 - Trang danh sách `vanban.chinhphu.vn` nhiều nội dung nhiễu; cần parse phần bảng `TẤT CẢ VĂN BẢN`.
 - Không dùng `vbpl.vn`, `luatvietnam.vn`, `thuvienphapluat.vn` làm nguồn chính vì WAF/Cloudflare/login wall.
+
+---
+
+# Cập nhật 2026-06-07 (phiên Đệ #1 Discovery)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+Phát hiện 14 văn bản mới qua web search Brave + Gemini trong 14 nhóm chủ đề (Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Giáo dục, Y tế, Lao động, Tài nguyên, Môi trường, Giao thông, Xây dựng, Tài chính, Ngân hàng). Phiên này ưu tiên 5 văn bản tác động rộng nhất:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---|---|
+| 161/2026/NĐ-CP | 15/05/2026 | Quy định mức lương cơ sở 2.530.000 đ/tháng từ 01/7/2026 đối với cán bộ, công chức, viên chức và lực lượng vũ trang | Lao động / Tiền lương | Đã có | `van-ban/lao-dong/nghi-dinh-161-2026.md`; heartbeat 2026-06-07 Đệ #3; PDF đã OCR bằng Signed PDF OCR Pipeline (CAdES-BES); người ký Phạm Thị Thanh Trà (Phó Thủ tướng, ký thay Thủ tướng); URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218107` |
+| 162/2026/NĐ-CP | 15/05/2026 (dự kiến) | Điều chỉnh lương hưu, trợ cấp BHXH và trợ cấp hằng tháng (hiệu lực 15/5/2026) | Lao động / BHXH | Chưa có | Phát hiện bởi heartbeat 2026-06-07; liên quan nhóm `van-ban/lao-dong/` |
+| 182/2026/NĐ-CP | 23/05/2026 (dự kiến) | Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ QLGD và nhân sự hỗ trợ GD công tác tại cơ sở GD công lập (hiệu lực 07/7/2026; mức phụ cấp áp dụng từ 01/01/2026) | Giáo dục | Chưa có | Phát hiện bởi heartbeat 2026-06-07; liên quan `van-ban/giao-duc-dao-tao/` |
+| 165/2026/NĐ-CP | 2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng bệnh (chuyển đổi mạnh từ "chữa bệnh" sang "phòng bệnh chủ động") | Y tế | Chưa có | Phát hiện bởi heartbeat 2026-06-07; liên quan `van-ban/y-te-duoc/` |
+| 19/2026/TT-BNNMT | 2026 | Quy định kỹ thuật thực hiện lồng ghép nội dung đo đạc lập bản đồ địa chính, đăng ký đất đai, lập hồ sơ địa chính và xây dựng cơ sở dữ liệu quốc gia về đất đai | Đất đai / Tài nguyên - Môi trường | Chưa có | Phát hiện bởi heartbeat 2026-06-07; URL: `https://vanban.chinhphu.vn/?docid=217452&pageid=27160`; phù hợp nhóm `tai-nguyen` (đo đạc, bản đồ địa chính) |
+
+### Văn bản phát hiện thêm (chưa đưa vào backlog ưu tiên, chờ phiên sau)
+
+- 54/2026/NĐ-CP (Xây dựng) — sửa đổi NĐ về nhà ở, kinh doanh BĐS — URL: `https://vanban.chinhphu.vn/?docid=216924&pageid=27160`
+- 91/2026/NĐ-CP (Giáo dục) — chi tiết Luật Giáo dục đại học 2026
+- 88/2026/NĐ-CP (Giáo dục) — quản lý dữ liệu giáo dục và đào tạo
+- 93/2026/NĐ-CP (Giáo dục) — chi tiết Luật Nhà giáo
+- 95/2026/NĐ-CP (Giáo dục) — chi tiết Luật GD nghề nghiệp
+- 66/2026/NĐ-CP (Giáo dục) — chi tiết Luật Giáo dục
+- 105/2026/NĐ-CP (Lao động) — Luật Công đoàn về tài chính công đoàn
+- 07/2026/NĐ-CP (Lao động) — sửa đổi chế độ tiền lương CBCCVC
+- 20/2026/TT-BTC (Tài chính) — chi tiết Luật Thuế TNDN và NĐ 320/2025 — URL: `https://vanban.chinhphu.vn/?docid=217191&pageid=27160`
+- 19/2026/QH16 (Thuế) — thuế BVMT, GTGT, TTĐB đối với xăng dầu, nhiên liệu bay — URL: `https://vanban.chinhphu.vn/?classid=1&docid=218005&orggroupid=1&pageid=27160`
+
+## File trong `van-ban/` cần refactor (metadata "Đang cập nhật" hoặc file < 10k chars với lastedit > 7 ngày)
+
+Phát hiện 2 nhóm:
+
+### Nhóm A: File stub có "Đang cập nhật" trong metadata (152 file)
+
+Tiêu biểu (ưu tiên cao theo nhóm thuộc 14 chủ đề):
+
+| File | Nhóm | Vấn đề |
+|---|---|---|
+| `van-ban/bao-hiem/bao-hiem-y-te.md` | Y tế | Toàn bộ metadata = "Đang cập nhật" (7 markers); nội dung bám sát Luật BHYT 25/2008/QH12 |
+| `van-ban/bo-tro-tu-phap/dau-gia-tai-san.md` | Tư pháp | Stub với 7 markers "Đang cập nhật" |
+| `van-ban/bo-tro-tu-phap/giam-dinh-tu-phap.md` | Tư pháp | Stub với 7 markers "Đang cập nhật" |
+| `van-ban/bo-tro-tu-phap/luat-su.md` | Tư pháp | Stub với 7 markers "Đang cập nhật" |
+| `van-ban/buu-chinh-vien-thong/buu-chinh.md` | Bưu chính - Viễn thông | Stub với 7 markers "Đang cập nhật" |
+
+> Tổng số: 152 file có metadata stub. Không crawl trong phiên này (theo ràng buộc task).
+
+### Nhóm B: File < 10k chars, lastedit > 7 ngày, KHÔNG có "Đang cập nhật"
+
+| File | Lastedit | Size | Ghi chú |
+|---|---|---:|---|
+| `van-ban/cong-nghiep/quan-ly-phan-bon.md` | 2026-05-13 | 8570 B | Stub thiếu nội dung; cần crawl chi tiết |
+| `van-ban/ngoai-giao-dieu-uoc-quoc-te/dich-quoc-hieu-ten-cac-co-quan-don-vi-va-chuc-danh-lanh-dao-can-bo-cong-chuc-trong-he-thong-hanh-chinh-nha-nuoc-sang-tieng-anh-de-giao-dich-doi-ngoai.md` | 2026-05-15 | 4876 B | Stub rất ngắn |
+| `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/thuc-hien-dan-chu-trong-hoat-dong-cua-co-quan-hanh-chinh-nha-nuoc-va-don-vi-su-nghiep-cong-lap.md` | 2026-05-26 | 3183 B | Stub rất ngắn |
+| `van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/index.md` | 2026-05-28 | 2875 B | Index trống, mới chỉ có 1 file con |
+| `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen.md` | 2026-05-29 | 5793 B | Stub thiếu nội dung |
+| `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-tra-va-xu-ly-van-ban-quy-pham-phap-luat.md` | 2026-05-29 | 7115 B | Stub thiếu nội dung |
+| `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/theo-doi-tinh-hinh-thi-hanh-phap-luat.md` | 2026-05-29 | 7399 B | Stub thiếu nội dung |
+
+## Ghi chú xử lý
+
+- 5 văn bản mới trong bảng chính sẽ được crawl chi tiết trong các phiên "Đệ #3 (Full Content Crawler)" tiếp theo.
+- Các văn bản "chờ phiên sau" (54/91/88/93/95/66/105/07/20-TT-BTC/19-QH16) sẽ được Đệ #1 Discovery ưu tiên trong các phiên kế tiếp (giới hạn 5/phiên).
+- File refactor nhóm A (152 file stub) cần chiến lược crawl tổng thể, KHÔNG xử lý trong 1 phiên.
+- File refactor nhóm B (7 file) có thể ưu tiên crawl trong phiên kế tiếp kết hợp với crawl văn bản mới cùng nhóm chủ đề.
+- Ngày phát hiện: 2026-06-07 20:30 ICT
+- Phiên thực hiện: agent:github-io:subagent:606227c4-8342-47c9-8765-7e21835a8cff (Đệ #1 Discovery respawn)
+
+---
+
+# Cập nhật 2026-06-07 (phiên Đệ #3 Full Content Crawler)
+
+- Hoàn thiện `van-ban/lao-dong/nghi-dinh-161-2026.md` (Nghị định 161/2026/NĐ-CP — mức lương cơ sở 2.530.000 đ/tháng từ 01/7/2026): đã lấy metadata từ vanban.chinhphu.vn (docid 218107) và OCR PDF chữ ký số CAdES-BES bằng Signed PDF OCR Pipeline (HEARTBEAT.md mục 3) trên 7 trang; sửa lỗi OCR thủ công dựa trên metadata; file 17.5 KB, đầy đủ 7 Điều.
+- Commit & push vào PR heartbeat active #199 (`docs/heartbeat-active-pr-flow`).
+- Phiên thực hiện: agent:github-io:subagent:8876ca31-2b33-412b-84e3-9d99fa051c3f (Đệ #3 Full Content Crawler)

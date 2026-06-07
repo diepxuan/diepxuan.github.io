@@ -109,6 +109,7 @@ Cấm tuyệt đối:
 Ngoại lệ được phép:
 - Khi Sếp giao rõ một task phải có PR để review, Bot được tạo branch, commit, push branch và mở PR cho đúng task đó.
 - Với heartbeat tự động, nếu task tạo/cập nhật nội dung hoặc tài liệu và kết quả đã kiểm tra đạt yêu cầu, heartbeat phải mở PR để Sếp review thay vì chỉ tạo branch local.
+- Riêng heartbeat `crawl-vanban`: được phép duy trì một PR làm việc active và push thêm commit vào PR đó cho đến khi Sếp review/merge/close. Nếu PR active gặp sự cố không thể tiếp tục an toàn, tạo PR heartbeat mới từ `main` và tiếp tục trên PR mới. Không áp dụng mô hình mỗi file một PR cho heartbeat này.
 
 Không được tự merge/close PR, trừ khi Sếp yêu cầu rõ trong phiên hiện tại.
 

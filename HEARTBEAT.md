@@ -61,8 +61,9 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
   1. Lấy metadata từ vanban.chinhphu.vn (số hiệu, ngày ban hành, người ký, ngày hiệu lực, trích yếu, căn cứ pháp luật)
   2. Nếu có PDF có chữ ký số -> áp dụng Signed PDF OCR Pipeline (mục 3)
   3. Merge metadata + nội dung OCR thành 1 file Markdown hoàn chỉnh
-  4. Lưu file hoàn chỉnh vào `van-ban/` và tạo branch riêng để Bột review
-- Output: 1 PR mới file, chờ Bột review và merge
+  4. Lưu file hoàn chỉnh vào `van-ban/` trên branch của PR heartbeat active
+  5. Commit kết quả vào PR heartbeat active với message rõ văn bản/tác vụ
+- Output: File hoàn chỉnh + commit cập nhật vào PR heartbeat active, chờ Sếp review
 
 **Đệ #4: Content Reviewer**
 
@@ -90,8 +91,8 @@ Vòng lặp (Bột quyết định khi nào chạy):
 3. Bột gọi Đệ #2 (Auditor) -> Nhận báo cáo các văn bản chưa hoàn thiện (phân loại theo danh mục)
 4. Bột quyết định:
    - Văn bản nào cần hoàn thiện? -> Chọn và gọi Đệ #3
-5. Bột gọi Đệ #3 (Full Crawler) -> Nhận 1 PR mới (file hoàn chỉnh)
-6. Bột review nội dung và merge PR
+5. Bột xác định/tạo PR heartbeat active, rồi gọi Đệ #3 (Full Crawler) -> Nhận file hoàn chỉnh + commit trong PR active
+6. Bột push cập nhật vào cùng PR heartbeat active và báo cáo Sếp chờ review
 7. Sau khi duyệt, Bột gọi Đệ #4 (Reviewer) -> Nhận báo cáo (5 văn bản/lần)
 8. Bột quyết định:
    - File OK -> kết thúc
@@ -104,8 +105,35 @@ Vòng lặp (Bột quyết định khi nào chạy):
 |----|-----------|----------|--------|
 | #1 | Discovery & Tracking | 5 văn bản/lần | Cập nhật tracking, báo cáo |
 | #2 | Content Auditor | Báo cáo theo danh mục | Danh sách chưa hoàn thiện |
-| #3 | Full Content Crawler | 1 văn bản / lần | 1 PR mới, chờ review |
+| #3 | Full Content Crawler | 1 văn bản / lần | Cập nhật PR heartbeat active, chờ review |
 | #4 | Content Reviewer | 5 văn bản/lần, toàn bộ van-ban | Danh sách cần review |
+
+### 2.5. Chính sách PR heartbeat active
+
+Heartbeat `crawl-vanban` dùng mô hình **một PR làm việc active**, không tạo PR theo từng file/văn bản.
+
+Quy tắc:
+
+1. Nếu chưa có PR heartbeat active đang mở:
+   - checkout từ `origin/main`;
+   - tạo branch dạng `heartbeat/crawl-vanban-YYYYMMDD` (chưa mở PR);
+   - đợi Đệ #3 tạo file và commit lên branch đó;
+   - push branch lên origin;
+   - mở 1 PR làm việc từ branch đã có commit để Sếp review.
+2. Nếu đã có PR heartbeat active đang mở:
+   - checkout branch của PR đó;
+   - tiếp tục commit các văn bản/tác vụ mới vào cùng PR;
+   - push thường, không force-push.
+3. Mỗi văn bản/tác vụ phải là commit riêng hoặc nhóm commit nhỏ, message rõ scope.
+4. Không tự merge/close PR heartbeat active khi chưa có lệnh rõ từ Sếp.
+5. Nếu PR active gặp sự cố không thể tiếp tục an toàn, ví dụ branch hỏng, conflict nặng, PR bị đóng, mất trạng thái, không xác định được PR active, push thất bại hoặc worktree không an toàn:
+   - không force-push để cứu PR cũ;
+   - tạo PR heartbeat mới từ `origin/main`;
+   - ghi rõ trong PR body/comment: `Tiếp tục heartbeat sau sự cố`, kèm PR cũ nếu xác định được;
+   - từ đó tiếp tục làm việc trên PR mới.
+6. Nếu có nhiều PR heartbeat đang mở, chọn PR mới nhất còn an toàn để tiếp tục; nếu không xác định chắc chắn, tạo PR mới từ `origin/main` và báo cáo Sếp.
+
+PR heartbeat active là ngoại lệ được Sếp cho phép so với luật `mỗi file/mỗi task = 1 PR`. Ngoại lệ này chỉ áp dụng cho cron `crawl-vanban`.
 
 ---
 
@@ -198,7 +226,7 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 - Bột tự gọi đệ #1 và đệ #4 song song khi không còn task/ không biết làm gì
 - Bột tự quyết định mọi hành động trong vòng lặp cron (không hỏi Sếp, không chờ phê duyệt giữa các bước)
 - Báo cáo tổng hợp cho Sếp sau khi hoàn thành chuỗi công việc (hoặc khi có PR cần review)
-- KHÔNG tự động tạo PR ngoài luật 4.4.1 (Đệ #3 tạo PR theo quy trình, BỘT chờ Sếp review)
+- KHÔNG tự động tạo PR rời theo từng file/văn bản. Chỉ tạo PR heartbeat mới khi chưa có PR active hoặc khi PR active gặp sự cố theo mục 2.5
 - KHÔNG tự động merge
 - Crawl liên tục, nếu có thắc mắc có nên crawl hay không thì gọi Đệ #4 review rồi Bột tự quyết định
 - Gọi nhiều đệ thực hiện song song
@@ -208,9 +236,9 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
 
 1. Đọc `HEARTBEAT.md` mục 2 và `documents/LEGISLATION_TRACKING.md`.
-2. Kiểm tra PR đang mở.
+2. Kiểm tra PR heartbeat active đang mở theo mục 2.5.
 3. **Tự quyết định** theo luật ưu tiên:
-   - Có file chưa hoàn thiện trong tracking → gọi Đệ #3 để tạo PR mới (mỗi lần 1 văn bản). Văn bản đang có PR mở thì BỎ QUA, chuyển sang văn bản tiếp theo.
+   - Có file chưa hoàn thiện trong tracking → xác định/tạo PR heartbeat active theo mục 2.5, rồi gọi Đệ #3 xử lý 1 văn bản và commit/push vào PR active. Văn bản đã nằm trong PR active/open thì BỎ QUA, chuyển sang văn bản tiếp theo.
    - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
    - Tracking đầy đủ + không có file cần refactor → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
 4. **Quản lý vòng đời đệ theo mục 4.5** (chạy trước bước 5 để ghi kết quả kill/spawn vào báo cáo cuối).
@@ -221,7 +249,7 @@ Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
 
 ### 4.5. Quản lý vòng đời đệ
 
-Khi cron `crawl-vanban` chạy, Bộtn kiểm tra trạng thái đệ đang chạy:
+Khi cron `crawl-vanban` chạy, Bột kiểm tra trạng thái đệ đang chạy:
 
 - Đệ đang chạy > 1 tiếng mà chưa có completion event → coi là stale.
 - Hành động:
