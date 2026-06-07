@@ -5,7 +5,7 @@ permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-144-2026/
 lastedit: 2026-06-07
 ---
 
-## THONG TIN VAN BAN
+## THÔNG TIN VĂN BẢN
 
 | Thuoc tinh | Noi dung |
 |---|---|
@@ -21,7 +21,7 @@ lastedit: 2026-06-07
 
 ---
 
-## TRICH YEU
+## TRÍCH YẾU
 
 Nghị định sửa đổi, bổ sung một số điều của Nghị định số 181/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế giá trị gia tăng đã được sửa đổi, bổ sung một số điều bởi Nghị định số 359/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ.
 
@@ -35,7 +35,7 @@ Nghị định sửa đổi, bổ sung một số điều của Nghị định s
 
 ---
 
-## NOI DUNG CHI TIET (trich tu OCR toan van PDF)
+## NỘI DUNG CHI TIẾT (trich tu OCR toan van PDF)
 
 ### Điều 1. Sửa đổi, bổ sung một số điểm, khoản của Điều 4
 
