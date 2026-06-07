@@ -66,15 +66,17 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
 
 **Đệ #4: Content Reviewer**
 
-- Mục đích: Duyệt các văn bản đã có đầy đủ nội dung hoặc được đánh dấu "Hoàn thiện" trong tracking
+- Mục đích: Duyệt các văn bản đã có đầy đủ nội dung hoặc được đánh dấu "Hoàn thiện" trong tracking. **Đồng thời chịu trách nhiệm phát hiện file cần refactor trong `van-ban/`** (metadata "Đang cập nhật", file < 10KB, lastedit > 7 ngày).
 - Quy trình:
   1. Quét `van-ban/` để tìm file có nội dung đầy đủ
-  2. Đọc `documents/LEGISLATION_TRACKING.md` để lấy các văn bản "Hoàn thiện"
-  3. Review liên tục 5 văn bản/lần, toàn bộ nội dung trong van-ban
-  4. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
-  5. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
-- Output: Báo cáo cho Bột các văn bản cần review
-- Bột quyết định: File OK -> không cần xử lý; File cần bổ sung -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp
+  2. Quét `van-ban/` để phát hiện file cần refactor (metadata "Đang cập nhật", < 10KB, lastedit > 7 ngày) - đánh dấu trong `documents/LEGISLATION_TRACKING.md`
+  3. Đọc `documents/LEGISLATION_TRACKING.md` để lấy các văn bản "Hoàn thiện"
+  4. Review liên tục 5 văn bản/lần, toàn bộ nội dung trong van-ban
+  5. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
+  6. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
+- Output: Báo cáo cho Bột các văn bản cần review + danh sách file cần refactor
+- Bột quyết định: File OK -> không cần xử lý; File cần bổ sung/refactor -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp
+- Lưu ý: Đệ #4 KHÔNG cần kiểm tra PR đang mở. PR là output, không ảnh hưởng quyết định review.
 
 ### 2.3. Quy trình thực thi
 
@@ -208,11 +210,29 @@ Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
 1. Đọc `HEARTBEAT.md` mục 2 và `documents/LEGISLATION_TRACKING.md`.
 2. Kiểm tra PR đang mở.
 3. **Tự quyết định** theo luật ưu tiên:
-   - Có file chưa hoàn thiện + văn bản đó không có PR mở → gọi Đệ #3 để tạo PR mới (mỗi lần 1 văn bản). Văn bản đang có PR mở thì BỎ QUA, chuyển sang văn bản tiếp theo.
+   - Có file chưa hoàn thiện trong tracking → gọi Đệ #3 để tạo PR mới (mỗi lần 1 văn bản). Văn bản đang có PR mở thì BỎ QUA, chuyển sang văn bản tiếp theo.
    - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
-   - Có PR mở → vẫn tiếp tục vòng lặp với văn bản khác; PR đang mở chỉ loại trừ văn bản đó khỏi review/crawl tiếp theo. Trong báo cáo liệt kê danh sách PR đang chờ Sếp review.
-   - Tracking đầy đủ + không có file cần refactor + không có PR → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
-4. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR chờ review).
+   - Tracking đầy đủ + không có file cần refactor → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
+4. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR đang chờ review).
 5. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
+6. Quản lý vòng đời đệ theo mục 4.5.
 
 **Không hỏi Sếp giữa chừng. Không dừng để chờ phản hồi.**
+
+### 4.5. Quản lý vòng đời đệ
+
+Khi cron `crawl-vanban` chạy, Bộtn kiểm tra trạng thái đệ đang chạy:
+
+- Đệ đang chạy > 1 tiếng mà chưa có completion event → coi là stale.
+- Hành động:
+  1. Ghi `memory/YYYY-MM-DD.md` (stale: <taskName> at <time>).
+  2. Kill session qua `sessions_send` với message `"STOP"` hoặc tool `subagents` kill.
+  3. Spawn lại đệ mới.
+- Mỗi cron chỉ kill/spawn tối đa 1 đệ stale (tránh thrash).
+- Ghi log kết quả vào báo cáo cuối.
+
+**Tracking trạng thái đệ trong `memory/YYYY-MM-DD.md`:**
+
+- Trước khi spawn: ghi `running: <taskName> at <time>`.
+- Khi có completion event: ghi `done: <taskName> at <time>`.
+- Cron sau: nếu có `running` > 1 tiếng mà không có `done` tương ứng → stale.
