@@ -5,7 +5,7 @@ permalink: /van-ban/nong-nghiep-nong-thon/nghi-dinh-146-2026-nd-cp-xu-phat-vi-ph
 lastedit: 2026-06-07
 ---
 
-## THONG TIN VAN BAN
+## THÔNG TIN VĂN BẢN
 
 | Thuoc tinh | Noi dung |
 |---|---|
@@ -21,13 +21,13 @@ lastedit: 2026-06-07
 
 ---
 
-## TRICH YEU
+## TRÍCH YẾU
 
 Quy dinh xu phat vi pham hanh chinh trong linh vuc lam nghiep. Nghi dinh cap nhat va thay the Nghi dinh so 35/2019/ND-CP, dong thoi sua doi mot phan Nghi dinh 07/2022/ND-CP.
 
 ---
 
-## NOI DUNG CHI TIET
+## NỘI DUNG CHI TIẾT
 
 ### Chuong I - Quy dinh chung (trich tu OCR toan van PDF)
 
