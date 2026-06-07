@@ -433,7 +433,7 @@ Trường hợp Ủy ban nhân dân cấp tỉnh quyết định việc áp dụ
 
 **e)** Sửa đổi, bổ sung điểm a và điểm b khoản 2 như sau:
 
-> **"a)** Căn cứ quyết định giao đất, quyết định cho phép chuyển mục đích sử dụng đất, quyết định chuyển hình thức sử dụng đất, đơn đề nghị (văn bản) công nhận quyền sử dụng đất của hộ gia đình, cá nhân và các hồ sơ khác theo quy định của pháp luật về đất đai, Văn phòng đăng ký đất đai hoặc bộ phận một cửa liên thông hoặc cơ quan ký hợp đồng BT (trong trường hợp giao đất, cho thuê đất để thanh toán hợp đồng BT) hoặc cơ quan, người có thẩm quyền được giao nhiệm vụ lập Phiếu chuyển thông tin chuyển Phiếu chuyển thông tin cho cơ quan thuế để..."
+> **"a)** Căn cứ quyết định giao đất, quyết định cho phép chuyển mục đích sử dụng đất, quyết định chuyển hình thức sử dụng đất, đơn đề nghị (văn bản) công nhận quyền sử dụng đất của hộ gia đình, cá nhân và các hồ sơ khác theo quy định của pháp luật về đất đai, Văn phòng đăng ký đất đai hoặc bộ phận một cửa liên thông hoặc cơ quan ký hợp đồng BT (trong trường hợp giao đất, cho thuê đất để thanh toán hợp đồng BT) hoặc cơ quan, người có thẩm quyền được giao nhiệm vụ lập Phiếu chuyển thông tin chuyển Phiếu chuyển thông tin cho cơ quan thuế để tính tiền sử dụng đất theo quy định của pháp luật về cấp giấy chứng nhận."
 
 **đ)** Sửa đổi, bổ sung khoản 6 như sau:
 
@@ -453,7 +453,7 @@ Trường hợp Ủy ban nhân dân cấp tỉnh quyết định việc áp dụ
 
 **13.** Sửa đổi, bổ sung khoản 1 Điều 29 như sau:
 
-> **"1.** Trường hợp cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất, căn cứ giá đất cụ thể do Chủ tịch Ủy ban nhân dân cấp có thẩm quyền quyết định, giá đất tại Bảng giá đất, hệ số điều chỉnh giá đất, chi phí xây dựng hạ tầng (nếu có), mức tỷ lệ phần trăm (%) để tính đơn giá thuê đất, mức đơn giá thuê đất đối với công trình ngầm, mức đơn giá thuê đất có mặt nước, Phiếu chuyển thông tin do Văn phòng đăng ký đất đai hoặc bộ phận một cửa liên thông hoặc cơ quan ký hợp đồng BT (trong trường hợp giao đất, cho thuê đất để thanh toán hợp đồng BT) hoặc cơ quan, người có thẩm quyền được giao nhiệm vụ lập Phiếu chuyển thông tin chuyển đến, Thuế tỉnh, thành phố (đối với tổ chức, người gốc Việt Nam định cư ở nước ngoài, tổ chức có vốn đầu tư nước ngoài), Thuế cơ sở (đối với các trường hợp còn lại) xác định đơn giá thuê đất trả tiền thuê đất hằng năm, đơn..."
+> **"1.** Trường hợp cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất, căn cứ giá đất cụ thể do Chủ tịch Ủy ban nhân dân cấp có thẩm quyền quyết định, giá đất tại Bảng giá đất, hệ số điều chỉnh giá đất, chi phí xây dựng hạ tầng (nếu có), mức tỷ lệ phần trăm (%) để tính đơn giá thuê đất, mức đơn giá thuê đất đối với công trình ngầm, mức đơn giá thuê đất có mặt nước, Phiếu chuyển thông tin do Văn phòng đăng ký đất đai hoặc bộ phận một cửa liên thông hoặc cơ quan ký hợp đồng BT (trong trường hợp giao đất, cho thuê đất để thanh toán hợp đồng BT) hoặc cơ quan, người có thẩm quyền được giao nhiệm vụ lập Phiếu chuyển thông tin chuyển đến, Thuế tỉnh, thành phố (đối với tổ chức, người gốc Việt Nam định cư ở nước ngoài, tổ chức có vốn đầu tư nước ngoài), Thuế cơ sở (đối với các trường hợp còn lại) xác định đơn giá thuê đất trả tiền thuê đất hằng năm, đơn giá thuê đất trả tiền thuê đất một lần cho cả thời gian thuê."
 
 **14.** Sửa đổi, bổ sung khoản 1 Điều 30 (bổ sung thêm nội dung về giá đất và tỷ lệ tính đơn giá thuê đất tương ứng với mục đích sử dụng đất).
 
@@ -499,7 +499,7 @@ Trường hợp Ủy ban nhân dân cấp tỉnh quyết định việc áp dụ
 
 **a)** Sửa đổi, bổ sung điểm a khoản 2 như sau:
 
-> **"a)** Xác định địa điểm, vị trí, diện tích, loại đất, mục đích sử dụng đất, thời điểm tính tiền sử dụng đất, tiền thuê đất (bao gồm thời điểm bàn giao đất thực tế đối với trường hợp tính tiền nộp bổ sung quy định tại khoản 2 Điều 50, khoản 9 Điều 51 Nghị định này), thời hạn thuê đất, đơn giá thuê đất theo quy định tại khoản..."
+> **"a)** Xác định địa điểm, vị trí, diện tích, loại đất, mục đích sử dụng đất, thời điểm tính tiền sử dụng đất, tiền thuê đất (bao gồm thời điểm bàn giao đất thực tế đối với trường hợp tính tiền nộp bổ sung quy định tại khoản 2 Điều 50, khoản 9 Điều 51 Nghị định này), thời hạn thuê đất, đơn giá thuê đất theo quy định tại khoản 2 Điều 29 Nghị định này, giá đất cụ thể, giá đất tại bảng giá đất, hệ số điều chỉnh giá đất trong các trường hợp phát sinh nghĩa vụ về tiền sử dụng đất, tiền thuê đất, tiền nộp bổ sung theo quy định tại Nghị định này (bao gồm cả trường hợp xác định khoản tiền sử dụng đất, tiền thuê đất của loại đất trước khi chuyển mục đích, trước khi điều chỉnh quy hoạch chi tiết, điều chỉnh quyết định giao đất, cho thuê đất); Phiếu chuyển thông tin (thông tin về người sử dụng đất, diện tích đất, vị trí đất, mục đích sử dụng đất, nguồn gốc sử dụng đất và giá đất; đối tượng, diện tích miễn tiền thuê đất một số năm, giảm tiền sử dụng đất, tiền thuê đất; thời gian miễn một số năm, thời gian giảm, mức giảm tiền sử dụng đất, tiền thuê đất, chi phí xây dựng hạ tầng (nếu có) do Cơ quan có chức năng quản lý về xây dựng xác định theo quy định của pháp luật về xây dựng)."
 
 **22.** Sửa đổi, bổ sung khoản 6 Điều 48 như sau:
 
@@ -517,27 +517,25 @@ Trường hợp Ủy ban nhân dân cấp tỉnh quyết định việc áp dụ
 
 **24.** Thay thế, bãi bỏ một số từ, cụm từ như sau:
 
-**a)** Thay thế các cụm từ: "Giá đất ở quy định tại Bảng giá đất" tại điểm a khoản 1, điểm a khoản 2, điểm a, điểm b khoản 3, điểm a, điểm b khoản 4 Điều 10; điểm a, điểm b khoản 1, điểm a, điểm b khoản 2, điểm a, điểm b khoản 3, điểm a khoản 4 Điều 11; điểm a khoản 3 Điều 12 và cụm từ "Giá đất của loại đất được công nhận quy định tại bảng giá đất" tại điểm b khoản 1, điểm b khoản 2, điểm c, điểm... bằng cụm từ "Giá đất ở theo quy định tại Điều 5 Nghị định này".
+**a)** Thay thế các cụm từ: "Giá đất ở quy định tại Bảng giá đất" tại điểm a khoản 1, điểm a khoản 2, điểm a, điểm b khoản 3, điểm a, điểm b khoản 4 Điều 10; điểm a, điểm b khoản 1, điểm a, điểm b khoản 2, điểm a, điểm b khoản 3, điểm a khoản 4 Điều 11; điểm a khoản 3 Điều 12 và cụm từ "Giá đất của loại đất được công nhận quy định tại bảng giá đất" tại điểm b khoản 1, điểm b khoản 2, điểm c, điểm d khoản 3, điểm c, điểm d khoản 4 Điều 10; điểm c khoản 1, điểm c khoản 2, điểm c khoản 3, điểm b khoản 4 Điều 11 thành cụm từ "Giá đất tính tiền sử dụng đất".
 
-**b)** Thay thế cụm từ "giá đất trong bảng giá đất" bằng cụm từ "giá đất theo quy định tại Điều 5 Nghị định này" tại một số khoản, điểm của Nghị định số 103/2024/NĐ-CP.
+Thay thế cụm từ "Ủy ban nhân dân cấp xã" tại khoản 2 Điều 52 Nghị định số 103/2024/NĐ-CP (được sửa đổi, bổ sung tại điểm a khoản 2 Điều 1 Nghị định số 291/2025/NĐ-CP) thành cụm từ "Chủ tịch Ủy ban nhân dân cấp xã".
 
-*(Doạn 24 chi tiết: Thay thế và bãi bỏ một số từ, cụm từ trong các Điều 10, 11, 12, 14, 15, 17, 19, 20, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 35, 36, 37, 39, 40, 41, 42, 45, 47, 48, 51 của Nghị định số 103/2024/NĐ-CP.)*
+**b)** Bỏ cụm từ ", dịch vụ phi hàng không" tại điểm a khoản 1 Điều 40 Nghị định số 103/2024/NĐ-CP.
 
-**25.** Bãi bỏ khoản 2 Điều 49; bãi bỏ Phụ lục I và các mẫu biểu ban hành kèm theo Nghị định số 103/2024/NĐ-CP; bãi bỏ đoạn "Trong thời hạn 05 ngày làm việc" tại khoản 5 Điều 50, đoạn "Thời hạn 05 ngày làm việc" tại điểm c khoản 6 Điều 50 Nghị định số 103/2024/NĐ-CP.
+*(Đoạn 24 chi tiết: Thay thế và bãi bỏ một số từ, cụm từ trong các Điều 10, 11, 12, 40, 52 của Nghị định số 103/2024/NĐ-CP. Nội dung cụ thể của từng thay thế xem tại bản gốc PDF khoản 24, trang 29.)*
 
-**26.** Bổ sung Phụ lục I (gồm các mẫu: Mẫu số 01a, Mẫu số 01b - Thông báo nộp tiền sử dụng đất; Mẫu số 02a, Mẫu số 02b - Thông báo nộp tiền thuê đất) ban hành kèm theo Nghị định này.
+#### Điều 14. Điều khoản thi hành
 
-#### Điều 14. Sửa đổi, bổ sung Nghị định số 291/2025/NĐ-CP
+**1.** Nghị định này có hiệu lực thi hành từ ngày 31 tháng 01 năm 2026.
 
-Bổ sung Điều 4a vào Nghị định số 291/2025/NĐ-CP ngày 19 tháng 12 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 103/2024/NĐ-CP về tiền sử dụng đất, tiền thuê đất:
+**2.** Trong trường hợp các văn bản quy phạm pháp luật dẫn chiếu tại Nghị định này được sửa đổi, bổ sung, thay thế thì thực hiện theo quy định tương ứng tại văn bản sửa đổi, bổ sung, thay thế đó.
 
-> **"Điều 4a. Chuyển tiếp**
->
-> Đối với trường hợp đã có quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, chuyển hình thức sử dụng đất trước ngày Nghị định này có hiệu lực thi hành mà chưa ban hành thông báo nộp tiền sử dụng đất, tiền thuê đất; chưa xác định tiền sử dụng đất, tiền thuê đất phải nộp hoặc đang thực hiện thủ tục kê khai, tính tiền sử dụng đất, tiền thuê đất thì tiếp tục áp dụng quy định pháp luật tại thời điểm ban hành quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, chuyển hình thức sử dụng đất."
+**3.** Bãi bỏ Điều 3, khoản 4 Điều 18, khoản 7 và khoản 8 Điều 19, Điều 23, khoản 6 Điều 39, khoản 4 Điều 40 Nghị định số 103/2024/NĐ-CP.
 
-#### Điều 15. Trách nhiệm thi hành
+Bãi bỏ Quyết định về việc giảm tiền thuê đất thực hiện theo Mẫu số 02 tại Phụ lục II ban hành kèm theo Nghị định số 103/2024/NĐ-CP.
 
-Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi chức năng, nhiệm vụ của mình chịu trách nhiệm hướng dẫn và thi hành Nghị định này.
+**4.** Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi chức năng, nhiệm vụ của mình chịu trách nhiệm hướng dẫn và thi hành Nghị định này.
 
 ---
 
@@ -596,19 +594,21 @@ Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ qu
 - **Hạn chót nộp hồ sơ đề nghị tính lại: 01/01/2027** (sau ngày này không được áp dụng).
 - Hộ gia đình, cá nhân phải **cam kết** lựa chọn thửa đất trong đơn đề nghị chuyển mục đích sử dụng đất.
 
-### Sửa đổi, bổ sung Nghị định 103/2024/NĐ-CP và 291/2025/NĐ-CP (Điều 13, 14)
+### Sửa đổi, bổ sung Nghị định 103/2024/NĐ-CP (Điều 13)
 
-Nghị định sửa đổi 24+ điều của Nghị định 103/2024/NĐ-CP (đã được sửa đổi tại NĐ 291/2025/NĐ-CP), bao gồm:
+Nghị định sửa đổi 24 khoản của các Điều khác nhau trong Nghị định 103/2024/NĐ-CP (đã được sửa đổi tại NĐ 291/2025/NĐ-CP), bao gồm:
 - Điều 5: Giá đất tính tiền sử dụng đất (theo Bảng giá đất, hệ số điều chỉnh giá đất, giá đất cụ thể, giá đấu giá).
 - Điều 6, 7, 8: Công thức tính tiền sử dụng đất khi chuyển mục đích (có bảng công thức chi tiết).
 - Điều 10, 11, 12, 16, 17, 19, 21, 26, 29, 30, 34, 37, 38, 39, 41, 42, 44, 48, 50.
-- Bổ sung Phụ lục I (mẫu thông báo nộp tiền sử dụng đất, tiền thuê đất).
+- Khoản 24: Thay thế, bãi bỏ một số từ, cụm từ tại các Điều 10, 11, 12, 40, 52 của Nghị định 103/2024/NĐ-CP.
+
+*Không có Điều 14 "Sửa đổi, bổ sung Nghị định số 291/2025/NĐ-CP" như bản crawl trước đó. Điều 14 chính thức của Nghị định 50/2026/NĐ-CP là **Điều khoản thi hành** (gồm 4 khoản: hiệu lực thi hành, áp dụng văn bản dẫn chiếu, danh mục bãi bỏ một số điều/khoản của NĐ 103, trách nhiệm thi hành).*
 
 ### Chuyển tiếp - các mốc thời gian quan trọng
 
 | Mốc thời gian | Sự kiện |
 |---|---|
-| **01/01/2026** | Nghị định có hiệu lực |
+| **31/01/2026** | Nghị định có hiệu lực |
 | **01/01/2027** | Hạn cuối UBND cấp tỉnh hoàn thành điều chỉnh thông báo nộp tiền thuê đất (đ/v đơn vị sự nghiệp công lập) |
 | **01/01/2027** | Hạn cuối hộ gia đình, cá nhân nộp văn bản đề nghị tính lại tiền sử dụng đất (Điều 6) |
 
@@ -639,7 +639,7 @@ Nghị định sửa đổi 24+ điều của Nghị định 103/2024/NĐ-CP (đ
   - Một số footnote về Phụ lục I (Mẫu số 01a, 01b) đã được trích rõ trong nội dung.
 - **Điểm đặc biệt:** Đây là Nghị định dài (30 trang), phần lớn nội dung là các sửa đổi, bổ sung Nghị định 103/2024/NĐ-CP và Nghị định 291/2025/NĐ-CP, với nhiều công thức tính toán phức tạp. File Markdown đã tái cấu trúc các bảng công thức từ bản gốc OCR.
 - **Có hiệu lực từ:** 31/01/2026 (ngày ban hành = ngày có hiệu lực, không có khoảng trống chuyển tiếp).
-- **Lưu ý về Lỗi OCR ở phần cuối Điều 13:** Một số chi tiết nhỏ về sửa đổi khoản 24, 25, 26 đã được trích theo bản OCR; có thể có sai sót nhỏ về số điều chính xác, cần đối chiếu PDF gốc nếu cần độ chính xác tuyệt đối.
+- **Lưu ý về Lỗi OCR ở phần cuối Điều 13:** Bản crawl trước có một số sai sót ở phần cuối (thừa khoản 25, 26 không tồn tại, nhầm "Điều 14. Sửa đổi NĐ 291" thay vì "Điều 14. Điều khoản thi hành"). Đã sửa lại theo OCR trang 29–30: Điều 13 chỉ có 24 khoản; Điều 14 gồm 4 khoản (hiệu lực, văn bản dẫn chiếu, bãi bỏ, trách nhiệm).
 
 ---
 
