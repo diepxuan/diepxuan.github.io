@@ -196,7 +196,7 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 - Bột tự gọi đệ #1 và đệ #4 song song khi không còn task/ không biết làm gì
 - Bột tự quyết định mọi hành động trong vòng lặp cron (không hỏi Sếp, không chờ phê duyệt giữa các bước)
 - Báo cáo tổng hợp cho Sếp sau khi hoàn thành chuỗi công việc (hoặc khi có PR cần review)
-- KHÔNG tự động tạo PR
+- KHÔNG tự động tạo PR ngoài luật 4.4.1 (Đệ #3 tạo PR theo quy trình, BỘT chờ Sếp review)
 - KHÔNG tự động merge
 - Crawl liên tục, nếu có thắc mắc có nên crawl hay không thì gọi Đệ #4 review rồi Bột tự quyết định
 - Gọi nhiều đệ thực hiện song song
