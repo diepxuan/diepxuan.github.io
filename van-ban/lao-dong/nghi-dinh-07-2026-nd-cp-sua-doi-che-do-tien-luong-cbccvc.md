@@ -14,15 +14,15 @@ co_quan_ban_hanh: "Chính phủ"
 
 ## Thông tin chung
 
-| Thuộc tính | Giá trị |
+| Thuoc tinh | Gia tri |
 |---|---|
-| Số hiệu | 07/2026/NĐ-CP |
-| Ngày ban hành | 10/01/2026 |
-| Ngày hiệu lực | 10/01/2026 |
-| Người ký | Phạm Thị Thanh Trà |
-| Cơ quan ban hành | Chính phủ |
-| Loại văn bản | Nghị định |
-| Trích yếu | Sửa đổi, bổ sung một số điều cua Nghị định 204/2004/NĐ-CP ngay 14/12/2004 cua Chính phủ ve chế độ tiền lương đối với cán bộ, công chức, viên chức va lực lượng vũ trang được sửa đổi, bổ sung boi Nghị định 76/2009/NĐ-CP, Nghị định 14/2012/NĐ-CP, Nghị định 17/2013/NĐ-CP va Nghị định 117/2016/NĐ-CP |
+| So hieu | 07/2026/NĐ-CP |
+| Ngay ban hanh | 10/01/2026 |
+| Ngay hieu luc | 10/01/2026 |
+| Nguoi ky | Pham Thi Thanh Tra |
+| Co quan ban hanh | Chinh phu |
+| Loai van ban | Nghi dinh |
+| Trich yeu | Sua doi, bo sung mot so dieu cua Nghi dinh 204/2004/NĐ-CP ngay 14/12/2004 cua Chinh phu ve che do tien luong doi voi can bo, cong chuc, vien chuc va luc luong vu trang duoc sua doi, bo sung boi Nghi dinh 76/2009/NĐ-CP, Nghi dinh 14/2012/NĐ-CP, Nghi dinh 17/2013/NĐ-CP va Nghi dinh 117/2016/NĐ-CP |
 
 ## Căn cứ pháp luật
 
@@ -30,14 +30,14 @@ co_quan_ban_hanh: "Chính phủ"
 - Luật Tổ chức chính quyền địa phương số 72/2023/QH15
 - Luật Cán bộ, công chức số 80/2025/QH15
 - Luật Viên chức số 58/2010/QH12
-- Luật sửa đổi, bổ sung một số điều cua Luat Can bo, cong chuc va Luật Viên chức số 52/2019/QH14
+- Luat sua doi, bo sung mot so dieu cua Luat Can bo, cong chuc va Luật Viên chức số 52/2019/QH14
 - Luật Thanh tra số 84/2025/QH15
 
 ## Nội dung chi tiết
 
 > Lưu ý biên tập: Bản này đã được khôi phục dấu tiếng Việt và sửa các lỗi OCR đã phát hiện trong review, nhưng các bảng hệ số cần tiếp tục đối chiếu trực tiếp PDF chính thức trước khi sử dụng như căn cứ pháp lý.
 
-### Điều 1. Sửa đổi, bổ sung, bãi bỏ một số điểm, khoản của Bảng phụ cấp chức vụ lãnh đạo (bầu cử, bổ nhiệm) trong các cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước; cơ quan, đơn vị thuộc Quân đội nhân dân và Công an nhân dân ban hành kèm theo Nghị định 204/2004/NĐ-CP
+### Điều 1. Sửa đổi, bổ sung, bãi bỏ mot so diem, khoan cua Bang phu cap chuc vu lanh dao (bau cu, bo nhiem) trong cac co quan nha nuoc, don vi su nghiep cua Nha nuoc; co quan, don vi thuoc Quan doi nhan dan va Cong an nhan dan ban hanh kem theo Nghi dinh 204/2004/NĐ-CP
 
 **1. Sửa đổi, bổ sung điểm a khoản 4 Mục I:**
 
@@ -46,7 +46,7 @@ Hệ số phụ cấp chức vụ lãnh đạo của Cục thuộc Bộ:
 | STT | Chức danh lãnh đạo | Cục loại 1 | Cục loại 2 |
 |---|---|---|---|
 | 1 | Cục trưởng | Cần đối chiếu PDF gốc | Cần đối chiếu PDF gốc |
-| 2 | Phó Cục trưởng - Trưởng cơ quan khu vực, Chi cục trưởng hoặc tương đương tại thành phố Hà Nội, TP.HCM | 0,40 | 0,40 |
+| 2 | Pho Cục trưởng - Truong co quan khu vuc, Chi cuc truong hoac tuong duong tai thanh pho Ha Noi, TP.HCM | 0,40 | 0,40 |
 | 3 | Trưởng ban, Trưởng phòng, Chánh Văn phòng - Trưởng cơ quan khu vực, Chi cục trưởng hoặc tương đương tại các tỉnh, thành phố còn lại | 0,30 | 0,30 |
 | 4 | Phó Trưởng ban, Phó Trưởng phòng, Phó Chánh văn phòng - Phó Trưởng cơ quan khu vực, Phó Chi cục trưởng hoặc tương đương tại thành phố Hà Nội, TP.HCM | 0,25 | 0,25 |
 | 5 | Phó Trưởng cơ quan khu vực, Phó Chi cục trưởng hoặc tương đương tại các tỉnh, thành phố còn lại | 0,20 | 0,20 |
@@ -58,7 +58,7 @@ Hệ số phụ cấp chức vụ lãnh đạo của Cục thuộc Bộ:
 | STT | Chức danh lãnh đạo | Hệ số (Hà Nội, TP.HCM) | Hệ số (các tỉnh, thành phố còn lại) |
 |---|---|---|---|
 | 1 | Chủ tịch Ủy ban nhân dân | 0,70 | 0,60 |
-| 2 | Phó Chủ tịch Ủy ban nhân dân | 0,60 | 0,40 |
+| 2 | Pho Chủ tịch Ủy ban nhân dân | 0,60 | 0,40 |
 | 3 | Trưởng phòng chuyên môn thuộc Ủy ban nhân dân và tương đương | 0,35 | 0,25 |
 | 4 | Phó trưởng phòng chuyên môn thuộc Ủy ban nhân dân và tương đương | 0,20 | 0,15 |
 
@@ -67,44 +67,44 @@ Hệ số phụ cấp chức vụ lãnh đạo của Cục thuộc Bộ:
 a) Thanh tra thuộc Bộ, cơ quan ngang Bộ:
 
 - Chánh Thanh tra: cần đối chiếu PDF gốc
-- Pho Chánh Thanh tra: hệ số 0,50
+- Pho Chánh Thanh tra: he so 0,50
 - Phó Trưởng phòng: cần đối chiếu PDF gốc
 
 b) Thanh tra thuộc Cục thuộc Bộ:
 
 - Chánh Thanh tra: 0,70 (Cục loại 1), 0,60 (Cục loại 2)
-- Pho Chánh Thanh tra: hệ số 0,40 (Cục loại 1), 0,30 (Cục loại 2)
+- Pho Chánh Thanh tra: he so 0,40 (Cục loại 1), 0,30 (Cục loại 2)
 - Phó Trưởng phòng: cần đối chiếu PDF gốc
 
-**4. Bãi bỏ:** khoản 3, điểm e khoản 4, khoản 5, khoản 9, khoản 10, điểm 11.3 khoản 11, điểm 11.4 khoản 11, khoản 12, khoản 13 va khoản 14 Mục I.
+**4. Bãi bỏ:** khoan 3, diem e khoan 4, khoan 5, khoan 9, khoan 10, diem 11.3 khoan 11, diem 11.4 khoan 11, khoan 12, khoan 13 va khoan 14 Muc I.
 
 ### Điều 2. Hiệu lực thi hành
 
-1. Nghị định nay co hieu luc thi hanh từ ngày 10 thang 01 nam 2026.
-2. Chế độ phụ cấp quy định tại Nghị định nay được áp dụng kể từ ngày 01 thang 01 nam 2026.
-3. Bãi bỏ quy định về phụ cấp chức vụ lãnh đạo của chức danh Chủ tịch Ủy ban nhân dân cấp xã va Phó Chủ tịch Ủy ban nhân dân cấp xã tai Nghị định 33/2023/NĐ-CP quy dinh ve can bo, cong chuc cấp xã va người hoạt động không chuyên trách o cấp xã, o thon, to dan pho.
+1. Nghi dinh nay co hieu luc thi hanh tu ngay 10 thang 01 nam 2026.
+2. Che do phu cap quy dinh tai Nghi dinh nay duoc ap dung ke tu ngay 01 thang 01 nam 2026.
+3. Bai bo quy dinh ve phu cap chuc vu lanh dao cua chuc danh Chủ tịch Ủy ban nhân dân cap xa va Pho Chủ tịch Ủy ban nhân dân cap xa tai Nghi dinh 33/2023/NĐ-CP quy dinh ve can bo, cong chuc cap xa va nguoi hoat dong không chuyên trách o cap xa, o thon, to dan pho.
 
-### Điều 3. Điều khoản chuyen tiep
+### Dieu 3. Dieu khoan chuyen tiep
 
-1. **Đối với chức danh lãnh đạo cua Ủy ban nhân dân xa, phuong, dac khu đang bảo lưu phụ cấp chức vụ lãnh đạo:**
+1. **Doi voi chuc danh lanh dao cua Uy ban nhan dan xa, phuong, dac khu dang bao luu phu cap chuc vu lanh dao:**
 
-   a) Trường hợp bảo lưu hệ số phụ cấp chức vụ lãnh đạo cao hơn hệ số phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định nay: Tiếp tục hưởng phụ cấp chức vụ lãnh đạo bảo lưu đến hết thời gian quy định, sau thời gian này hưởng phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định nay.
+   a) Truong hop bao luu he so phu cap chuc vu lanh dao cao hon he so phu cap chuc vu lanh dao quy dinh tai khoan 2 Dieu 1 Nghi dinh nay: Tiep tuc huong phu cap chuc vu lanh dao bao luu den het thoi gian quy dinh, sau thoi gian nay huong phu cap chuc vu lanh dao quy dinh tai khoan 2 Dieu 1 Nghi dinh nay.
 
-   b) Trường hợp trong khoảng thoi gian từ ngày 01/07/2025 đến trước ngày 01/01/2026 chưa được áp dụng hệ số phụ cấp chức vụ lãnh đạo hoặc được bảo lưu phụ cấp chức vụ lãnh đạo thấp hơn: Truy lĩnh phụ cấp chức vụ lãnh đạo va truy nộp bảo hiểm xã hội theo hệ số phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định nay hoặc phần chênh lệch, ke từ ngày giu chức danh lãnh đạo cua Ủy ban nhân dân xa, phuong, dac khu.
+   b) Truong hop trong khoang thoi gian tu ngay 01/07/2025 den truoc ngay 01/01/2026 chua duoc ap dung he so phu cap chuc vu lanh dao hoac duoc bao luu phu cap chuc vu lanh dao thap hon: Truy linh phu cap chuc vu lanh dao va truy nop bao hiem xa hoi theo he so phu cap chuc vu lanh dao quy dinh tai khoan 2 Dieu 1 Nghi dinh nay hoac phan chenh lech, ke tu ngay giu chuc danh lanh dao cua Uy ban nhan dan xa, phuong, dac khu.
 
-2. **Đối với chức danh lãnh đạo cua Cuc thuoc Bo khi chưa có quyết định phân loại Cuc:**
+2. **Doi voi chuc danh lanh dao cua Cuc thuoc Bo khi chua co quyet dinh phan loai Cuc:**
 
-   a) Áp dụng hệ số phu cap chuc vu của Cục loại 2 quy định tại khoản 1 Điều 1 Nghị định nay.
+   a) Ap dung he so phu cap chuc vu cua Cục loại 2 quy dinh tai khoan 1 Dieu 1 Nghi dinh nay.
 
-   b) Trường hợp bảo lưu phụ cấp chức vụ lãnh đạo cao hơn: Tiếp tục hưởng đến hết thời gian quy định, sau do ap dung quy dinh moi. Trường hợp chưa được áp dụng hoac bảo lưu thấp hơn: duoc huong phụ cấp chức vụ lãnh đạo cua Cuc thuoc Bo theo nguyên tắc tai điểm b khoản 1 Điều nay.
+   b) Truong hop bao luu phu cap chuc vu lanh dao cao hon: Tiep tuc huong den het thoi gian quy dinh, sau do ap dung quy dinh moi. Truong hop chua duoc ap dung hoac bao luu thap hon: duoc huong phu cap chuc vu lanh dao cua Cuc thuoc Bo theo nguyen tac tai diem b khoan 1 Dieu nay.
 
-### Điều 4. Trách nhiệm thi hành
+### Dieu 4. Trach nhiem thi hanh
 
-Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thu truong co quan thuoc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định nay.
+Cac Bo truong, Thu truong co quan ngang bo, Thu truong co quan thuoc Chinh phu, Chủ tịch Ủy ban nhân dân tinh, thanh pho truc thuoc trung uong chiu trach nhiem thi hanh Nghi dinh nay.
 
-## Ghi chú
+## Ghi chu
 
-- **Phương pháp trích xuất:** OCR bằng Tesseract (ngôn ngữ: vie) từ PDF có chữ ký số CAdES-BES
+- **Phuong phap trich xuat:** OCR bang Tesseract (ngon ngu: vie) tu PDF co chu ky so CAdES-BES
 - **PDF URL:** https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/07-ndcp.signed.pdf
-- **Văn bản gốc:** https://vanban.chinhphu.vn/?classid=1&docid=216606&pageid=27160
+- **Van ban goc:** https://vanban.chinhphu.vn/?classid=1&docid=216606&pageid=27160
 - **Timestamp:** 2026-06-08T08:56:00+07:00
