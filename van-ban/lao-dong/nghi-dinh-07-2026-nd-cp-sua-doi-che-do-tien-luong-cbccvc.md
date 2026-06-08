@@ -131,7 +131,7 @@ Nơi nhận:
 
 ## Ghi chú
 
-- **Phương pháp trich xuất:** OCR bang Tesseract (ngon ngu: vie) tu PDF co chu ky so CAdES-BES, doi chieu voi van ban chinh thuc tren xaydungchinhsach.chinhphu.vn
+- **Phương pháp trích xuất:** OCR bằng Tesseract (ngôn ngữ: vie) từ PDF có chữ ký số CAdES-BES, đối chiếu với văn bản chính thức trên xaydungchinhsach.chinhphu.vn
 - **PDF URL:** https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/07-ndcp.signed.pdf
-- **Van ban goc:** https://vanban.chinhphu.vn/?classid=1&docid=216606&pageid=27160
+- **Văn bản gốc:** https://vanban.chinhphu.vn/?classid=1&docid=216606&pageid=27160
 - **Timestamp:** 2026-06-09T07:30:00+07:00
