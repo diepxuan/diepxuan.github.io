@@ -31,7 +31,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 68/2026/NĐ-CP | 05/03/2026 | Quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh | Thuế / hộ kinh doanh | Đã có | Phát hiện bởi heartbeat 2026-06-06; liên quan đến 141/2026/NĐ-CP |
 | 37/2026/NĐ-CP | 23/01/2026 | Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa | Chất lượng sản phẩm | Đã có | `van-ban/khoa-hoc-cong-nghe/nghi-dinh-37-2026-nd-cp-chat-luong-san-pham-hang-hoa.md`; heartbeat 2026-06-07; người ký Phó Thủ tướng Nguyễn Chí Dũng |
 | 58/2026/NĐ-CP | 2026 | Sửa đổi, bổ sung một số điều của các nghị định liên quan đến quy định điều kiện về an ninh, trật tự đối với một số ngành, nghề đầu tư kinh doanh có điều kiện; quản lý và sử dụng con dấu; quản lý, sử dụng pháo | An ninh trật tự | Chưa có | Phát hiện bởi heartbeat 2026-06-06 |
-| 20/2026/NĐ-CP | 2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị quyết số 198/2025/QH15 về một số cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân | Kinh tế tư nhân | Chưa có | Phát hiện bởi heartbeat 2026-06-06 |
+| 20/2026/NĐ-CP | 15/01/2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị quyết số 198/2025/QH15 về một số cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân | Kinh tế tư nhân | Đã có | `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-20-2026-nd-cp-co-che-dac-thu-phat-trien-kinh-te-tu-nhan.md`; heartbeat 2026-06-08; PDF OCR 23 trang |
 | 145/2026/NĐ-CP | 05/05/2026 | Cơ chế quản lý tài chính, đánh giá, xếp loại doanh nghiệp đối với Sở GDCK Việt Nam, VSDC | Chứng khoán | Đã có | `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-145-2026-nd-cp-co-che-quan-ly-tai-chinh-vnx-vsdc.md`; heartbeat 2026-06-06 |
 | 144/2026/NĐ-CP | 05/05/2026 | Sửa đổi Nghị định 181/2025/NĐ-CP hướng dẫn Luật Thuế giá trị gia tăng | Thuế | Đã có | `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-144-2026-nd-cp-sua-doi-thue-gtgt.md`; heartbeat 2026-06-06 |
 | 143/2026/NĐ-CP | 05/05/2026 | Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện Hiệp định CEPA Việt Nam - UAE giai đoạn 2026-2027 | Thuế / thương mại | Có liên quan | Đã có trang liên quan nhóm thuế xuất khẩu, thuế nhập khẩu; cần đối chiếu trước khi tạo mới |
@@ -108,6 +108,106 @@ Phát hiện 14 văn bản mới qua web search Brave + Gemini trong 14 nhóm ch
 - 07/2026/NĐ-CP (Lao động) — sửa đổi chế độ tiền lương CBCCVC
 - 20/2026/TT-BTC (Tài chính) — chi tiết Luật Thuế TNDN và NĐ 320/2025 — URL: `https://vanban.chinhphu.vn/?docid=217191&pageid=27160`
 - 19/2026/QH16 (Thuế) — thuế BVMT, GTGT, TTĐB đối với xăng dầu, nhiên liệu bay — URL: `https://vanban.chinhphu.vn/?classid=1&docid=218005&orggroupid=1&pageid=27160`
+
+## Văn bản phát hiện thêm (chưa đưa vào backlog ưu tiên, chờ phiên sau)
+
+- 54/2026/NĐ-CP (Xây dựng) — sửa đổi NĐ về nhà ở, kinh doanh BĐS — URL: `https://vanban.chinhphu.vn/?docid=216924&pageid=27160`
+- 91/2026/NĐ-CP (Giáo dục) — chi tiết Luật Giáo dục đại học 2026
+- 88/2026/NĐ-CP (Giáo dục) — quản lý dữ liệu giáo dục và đào tạo
+- 93/2026/NĐ-CP (Giáo dục) — chi tiết Luật Nhà giáo
+- 95/2026/NĐ-CP (Giáo dục) — chi tiết Luật GD nghề nghiệp
+- 66/2026/NĐ-CP (Giáo dục) — chi tiết Luật Giáo dục
+- 105/2026/NĐ-CP (Lao động) — Luật Công đoàn về tài chính công đoàn
+- 07/2026/NĐ-CP (Lao động) — sửa đổi chế độ tiền lương CBCCVC
+- 20/2026/TT-BTC (Tài chính) — chi tiết Luật Thuế TNDN và NĐ 320/2025 — URL: `https://vanban.chinhphu.vn/?docid=217191&pageid=27160`
+- 19/2026/QH16 (Thuế) — thuế BVMT, GTGT, TTĐB đối với xăng dầu, nhiên liệu bay — URL: `https://vanban.chinhphu.vn/?classid=1&docid=218005&orggroupid=1&pageid=27160`
+
+---
+
+# Cập nhật 2026-06-09 (phiên Đệ #1 Discovery — 4 nhóm ưu tiên)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-07) và `van-ban/` xác nhận: 162/2026/NĐ-CP đã có file. Phiên này phát hiện và thêm 4 văn bản mới chưa từng được ghi nhận, ưu tiên tác động rộng nhất:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---|---|
+| 13/2026/TT-BNV | 29/05/2026 | Hướng dẫn thực hiện mức lương cơ sở 2.530.000 đ/tháng đối với 9 nhóm đối tượng hưởng lương, phụ cấp trong cơ quan, tổ chức, đơn vị sự nghiệp công lập của Đảng, Nhà nước, Mặt trận Tổ quốc, tổ chức chính trị - xã hội (hiệu lực 01/7/2026) | Lao động / Tiền lương | **Chưa có** | Phát hiện bởi Đệ #1 Discovery 2026-06-09; Web search tổng hợp vanban.chinhphu.vn + luatvietnam.vn + chinhphu.vn; hướng dẫn chi tiết cho NĐ 161/2026/NĐ-CP; liên quan `van-ban/lao-dong/nghi-dinh-161-2026.md` và `van-ban/lao-dong/nghi-dinh-162-2026-nd-cp-dieu-chinh-luong-huu-tro-cap-bhxh-tro-cap-hang-thang.md` |
+| 91/2026/NĐ-CP | 2026 | Quy định chi tiết một số điều của Luật Giáo dục đại học (sửa đổi 2026) | Giáo dục | **Chưa có** | Phát hiện bởi Đệ #1 Discovery 2026-06-09; từ danh sách chờ phiên sau (2026-06-07); tác động rộng đến hệ thống ĐH; liên quan `van-ban/giao-duc-dao-tao/giao-duc-dai-hoc.md` và 88/2026/NĐ-CP (quản lý dữ liệu GD) |
+| 14/2026/TT-BNV | 29/05/2026 | Quy định chi tiết việc điều chỉnh lương hưu, trợ cấp BHXH và trợ cấp hằng tháng (hiệu lực 01/7/2026) | Lao động / BHXH | **Chưa có** | Phát hiện bởi Đệ #1 Discovery 2026-06-09; Web search; hướng dẫn chi tiết NĐ 162/2026/NĐ-CP; thay thế Thông tư 06/2023/TT-BLĐTBXH; liên quan `van-ban/lao-dong/nghi-dinh-162-2026-nd-cp-dieu-chinh-luong-huu-tro-cap-bhxh-tro-cap-hang-thang.md` |
+| 19/2026/QH16 | 2026 | Sửa đổi quy định về thuế bảo vệ môi trường, thuế giá trị gia tăng, thuế tiêu thụ đặc biệt đối với xăng dầu, nhiên liệu bay | Thuế | **Chưa có** | Phát hiện bởi Đệ #1 Discovery 2026-06-09; từ danh sách chờ phiên sau (2026-06-07); tác động rộng đến ngành năng lượng, hàng không; URL: `https://vanban.chinhphu.vn/?classid=1&docid=218005&orggroupid=1&pageid=27160`; liên quan `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-bao-ve-moi-truong.md` và `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tieu-thu-dac-biet.md` |
+| 07/2026/NĐ-CP | 2026 | Sửa đổi chế độ tiền lương đối với cán bộ, công chức, viên chức | Lao động / Tiền lương | **Chưa có** | Phát hiện bởi Đệ #1 Discovery 2026-06-09; từ danh sách chờ phiên sau (2026-06-07); tác động trực tiếp đến toàn bộ CBCCVC nhà nước; thuộc nhóm ưu tiên Lao động |
+
+### Cập nhật trạng thái từ "Chưa có" → "Đã có"
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái mới | Ghi chú |
+|---|---:|---|---|---|---|
+| 162/2026/NĐ-CP | 15/05/2026 | Điều chỉnh lương hưu, trợ cấp BHXH và trợ cấp hằng tháng (hiệu lực 01/7/2026) | Lao động / BHXH | **Đã có** | `van-ban/lao-dong/nghi-dinh-162-2026-nd-cp-dieu-chinh-luong-huu-tro-cap-bhxh-tro-cap-hang-thang.md`; đầy đủ toàn văn 6 Điều / 2 Chương; file 17+ KB; đã OCR và đối chiếu chéo |
+
+## File trong `van-ban/` cần refactor (bổ sung từ phiên 2026-06-09)
+
+### Nhóm C: File thuộc 4 nhóm ưu tiên — stub cần ưu tiên crawl khi xử lý nhóm
+
+| File | Nhóm | Lastedit | Size | Vấn đề |
+|---|---|---:|---:|---|
+| `van-ban/giao-duc-dao-tao/giao-duc.md` | Giáo dục | 2026-05-13 | >200 KB | **Index tổng hợp** — nội dung 200+ KB tổng hợp nhiều NĐ cũ; KHÔNG có trạng thái "Đang cập nhật" nhưng lastedit 2026-05-13 cho thấy chưa cập nhật các NĐ-CP 2026 mới (91/66/88/93/95); cần xác minh xem 182/2026/NĐ-CP đã được tích hợp vào index chưa |
+| `van-ban/giao-duc-dao-tao/giao-duc-dai-hoc.md` | Giáo dục | — | — | Stub tổng hợp — chưa có trang chuyên biệt cho Luật GD đại học sửa đổi 2026 và 91/2026/NĐ-CP mới |
+| `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen.md` | Thuế | 2026-05-29 | 5793 B | Stub thiếu nội dung — 19/2026/QH16 sửa đổi thuế liên quan tài nguyên (xăng dầu) cần tích hợp khi crawl mới |
+| `van-ban/tai-chinh/gia.md` | Tài chính | 2026-05-29 | ~10 KB | Stub thiếu — chỉ tổng hợp Luật Giá 16/2023/QH15 (75 Điều), chưa có NĐ hướng dẫn mới |
+| `van-ban/lao-dong/lao-dong.md` | Lao động | — | — | Index tổng hợp — cần xác minh đã tích hợp 13/2026/TT-BNV, 14/2026/TT-BNV, 07/2026/NĐ-CP chưa |
+
+### File thuộc nhóm B cũ — cần refactor (nhắc lại từ phiên 2026-06-07)
+
+| File | Lastedit | Size | Ghi chú |
+|---|---|---:|---|
+| `van-ban/cong-nghiep/quan-ly-phan-bon.md` | 2026-05-13 | 8570 B | Stub thiếu nội dung |
+| `van-ban/ngoai-giao-dieu-uoc-quoc-te/dich-quoc-hieu...sang-tieng-anh-de-giao-dich-doi-ngoai.md` | 2026-05-15 | 4876 B | Stub rất ngắn |
+| `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/thuc-hien-dan-chu-trong-hoat-dong-cua-co-quan-hanh-chinh-nha-nuoc-va-don-vi-su-nghiep-cong-lap.md` | 2026-05-26 | 3183 B | Stub rất ngắn |
+| `van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/index.md` | 2026-05-28 | 2875 B | Index trống |
+| `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen.md` | 2026-05-29 | 5793 B | Stub thiếu nội dung |
+| `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-tra-va-xu-ly-van-ban-quy-pham-phap-luat.md` | 2026-05-29 | 7115 B | Stub thiếu nội dung |
+| `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/theo-doi-tinh-hinh-thi-hanh-phap-luat.md` | 2026-05-29 | 7399 B | Stub thiếu nội dung |
+
+## Đối chiếu nhanh với `van-ban/` (phiên 2026-06-09)
+
+**Đã xác nhận:**
+- `van-ban/lao-dong/nghi-dinh-162-2026-nd-cp-dieu-chinh-luong-huu-tro-cap-bhxh-tro-cap-hang-thang.md` — file tồn tại, nội dung đầy đủ → chuyển 162/2026/NĐ-CP sang "Đã có"
+- `van-ban/giao-duc-dao-tao/nghi-dinh-182-2026-nd-cp-quy-dinh-che-do-phu-cap-uu-dai-doi-voi-nha-giao-can-bo-quan-ly-giao-duc.md` — file tồn tại → 182/2026/NĐ-CP đã đúng trạng thái "Đã có"
+- `van-ban/lao-dong/nghi-dinh-161-2026.md` — file tồn tại → 161/2026/NĐ-CP đã đúng trạng thái "Đã có"
+
+**Chưa có file chuyên biệt (cần tạo mới):**
+- 13/2026/TT-BNV — hướng dẫn lương cơ sở (Lao động)
+- 14/2026/TT-BNV — hướng dẫn lương hưu (Lao động)
+- 91/2026/NĐ-CP — chi tiết Luật GD đại học 2026 (Giáo dục)
+- 19/2026/QH16 — sửa thuế xăng dầu, nhiên liệu bay (Thuế)
+- 07/2026/NĐ-CP — sửa đổi tiền lương CBCCVC (Lao động)
+
+**Cần refactor index (đánh dấu ưu tiên):**
+- `van-ban/giao-duc-dao-tao/giao-duc.md` — chưa tích hợp 182/2026 và chưa chuẩn bị 91/66/88/93/95
+- `van-ban/giao-duc-dao-tao/giao-duc-dai-hoc.md` — stub chưa có NĐ-CP 2026
+- `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen.md` — stub nhỏ cần bổ sung 19/2026/QH16
+- `van-ban/tai-chinh/gia.md` — stub cần hướng dẫn Luật Giá mới
+- `van-ban/lao-dong/lao-dong.md` — cần tích hợp 13/2026, 14/2026, 07/2026
+
+## Đề xuất ưu tiên phiên tiếp theo
+
+1. **Lao động**: 13/2026/TT-BNV và 14/2026/TT-BNV — hướng dẫn chi tiết cho cặp NĐ 161+162, có hiệu lực 01/7/2026 — ưu tiên cao nhất vì thời gian thực thi gần.
+2. **Giáo dục**: 91/2026/NĐ-CP (chi tiết Luật GD đại học) — tác động hệ thống ĐH cả nước.
+3. **Thuế**: 19/2026/QH16 — sửa thuế xăng dầu, nhiên liệu bay; tác động rộng ngành năng lượng, hàng không.
+4. **Lao động**: 07/2026/NĐ-CP — sửa đổi tiền lương CBCCVC; bổ sung sau 13/2026/TT-BNV và 14/2026/TT-BNV.
+5. **Giáo dục**: Refactor index `giao-duc.md` sau khi đã có đủ NĐ-CP 2026.
+6. **Thuế**: Refactor `thue-tai-nguyen.md` sau khi crawl 19/2026/QH16 xong.
+
+## Ghi chú xử lý
+
+- 5 văn bản mới (13/TT-BNV, 14/TT-BNV, 91/NĐ-CP, 19/QH16, 07/NĐ-CP) sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- File refactor nhóm C (5 file thuộc 4 nhóm ưu tiên) cần ưu tiên xử lý khi đã có nội dung văn bản mới để tích hợp.
+- File refactor nhóm B (7 file từ phiên 2026-06-07) giữ nguyên ưu tiên thấp hơn nhóm C.
+- Nguồn: Web search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, chinhphu.vn, laodong.vn.
+- Ngày phát hiện: 2026-06-09 05:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:f18c30f5-b5a0-43d0-85e8-6fb153782f83 (Đệ #1 Discovery 2026-06-09)
+
+---
 
 ## File trong `van-ban/` cần refactor (metadata "Đang cập nhật" hoặc file < 10k chars với lastedit > 7 ngày)
 
