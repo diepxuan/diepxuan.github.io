@@ -28,7 +28,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 192/2026/NĐ-CP | 30/05/2026 | Phụ cấp đặc thù y tế; hỗ trợ nhân viên y tế thôn, tổ dân phố và cô đỡ thôn, bản | Y tế | Đã có | `van-ban/y-te-duoc/nghi-dinh-192-2026-nd-cp-phu-cap-y-te-thon-ban.md`; heartbeat 2026-06-08; OCR 13 trang CAdES-BES; 416 dòng, 5 Chương 10 Điều |
 | 68/2026/NĐ-CP | 05/03/2026 | Quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh | Thuế / hộ kinh doanh | Đã có | Phát hiện bởi heartbeat 2026-06-06; liên quan đến 141/2026/NĐ-CP |
 | 37/2026/NĐ-CP | 23/01/2026 | Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa | Chất lượng sản phẩm | Đã có | `van-ban/khoa-hoc-cong-nghe/nghi-dinh-37-2026-nd-cp-chat-luong-san-pham-hang-hoa.md`; heartbeat 2026-06-07; người ký Phó Thủ tướng Nguyễn Chí Dũng |
-| 58/2026/NĐ-CP | 2026 | Sửa đổi, bổ sung một số điều của các nghị định liên quan đến quy định điều kiện về an ninh, trật tự đối với một số ngành, nghề đầu tư kinh doanh có điều kiện; quản lý và sử dụng con dấu; quản lý, sử dụng pháo | An ninh trật tự | Chưa có | Phát hiện bởi heartbeat 2026-06-06 |
+| 58/2026/NĐ-CP | 13/02/2026 | Sửa đổi, bổ sung một số điều của các nghị định liên quan đến quy định điều kiện về an ninh, trật tự đối với một số ngành, nghề đầu tư kinh doanh có điều kiện; quản lý và sử dụng con dấu; quản lý, sử dụng pháo | An ninh trật tự | Đã có | `van-ban/an-ninh-quoc-gia/nghi-dinh-58-2026-nd-cp-sua-doi-an-ninh-trat-tu.md`; heartbeat 2026-06-09; PDF OCR 90 trang
 | 20/2026/NĐ-CP | 15/01/2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị quyết số 198/2025/QH15 về một số cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân | Kinh tế tư nhân | Đã có | `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-20-2026-nd-cp-co-che-dac-thu-phat-trien-kinh-te-tu-nhan.md`; heartbeat 2026-06-08; PDF OCR 23 trang |
 | 145/2026/NĐ-CP | 05/05/2026 | Cơ chế quản lý tài chính, đánh giá, xếp loại doanh nghiệp đối với Sở GDCK Việt Nam, VSDC | Chứng khoán | Đã có | `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-145-2026-nd-cp-co-che-quan-ly-tai-chinh-vnx-vsdc.md`; heartbeat 2026-06-06 |
 | 144/2026/NĐ-CP | 05/05/2026 | Sửa đổi Nghị định 181/2025/NĐ-CP hướng dẫn Luật Thuế giá trị gia tăng | Thuế | Đã có | `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-144-2026-nd-cp-sua-doi-thue-gtgt.md`; heartbeat 2026-06-06 |
@@ -211,6 +211,40 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-07) và `van-
 - Nguồn: Web search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, chinhphu.vn, laodong.vn.
 - Ngày phát hiện: 2026-06-09 05:31 ICT
 - Phiên thực hiện: agent:github-io:subagent:f18c30f5-b5a0-43d0-85e8-6fb153782f83 (Đệ #1 Discovery 2026-06-09)
+
+---
+
+# Cập nhật 2026-06-09 (phiên Đệ #1 Discovery — lần 2)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên trước): phát hiện 5 văn bản mới chưa từng được ghi nhận. Ưu tiên tác động rộng nhất (NĐ-CP, NQ-QH16, TT liên tịch):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---|---|
+| 46/2026/NĐ-CP | 26/01/2026 | Quy định chi tiết thi hành một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật An toàn thực phẩm (tạm ngưng đến 16/04/2026 theo NQ 09/2026/NQ-CP) | Y tế / An toàn thực phẩm | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=216827&pageid=27160`; phân công QLNN ATTP xuyên suốt từ sản xuất đến tiêu thụ; ghi nhãn thực phẩm biến đổi gen; truy xuất nguồn gốc; hiệu lực từ 16/04/2026 |
+| 31/2026/QH16 | 01/06/2026 | Kỳ họp thứ Nhất, Quốc hội khóa XVI — thông qua 09 luật và 05 nghị quyết quy phạm pháp luật (hiệu lực từ 01/07/2026) | Đa ngành | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217715`; bao gồm nhiều luật mới có tác động rộng: Luật Viên chức, Luật Ban hành VBQPPL sửa đổi, v.v. |
+| 27/2026/QH16 | 01/06/2026 | Kế hoạch đầu tư công trung hạn giai đoạn 2026-2030, tổng vốn 8.220.000 tỷ đồng | Tài chính / Đầu tư | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217702`; quyết định phân bổ vốn đầu tư công 5 năm, tác động toàn bộ nền kinh tế |
+| 26/2026/TT-BTC | 2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của NĐ 73/2026/NĐ-CP về Luật Ngân sách nhà nước | Tài chính / Ngân sách | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=217323&pageid=27160`; Thông tư hướng dẫn Luật Ngân sách NSNN sửa đổi |
+| 04/2026/TT-NHNN | 31/03/2026 | Hướng dẫn một số nội dung về hoạt động bảo hiểm tiền gửi (hiệu lực 01/05/2026) | Ngân hàng | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217448`; Thông tư NHNN về hoạt động BHTG, liên quan trực tiếp đến quyền lợi người gửi tiền |
+
+### Văn bản phát hiện thêm (chờ phiên sau)
+
+- 06/2026/NĐ-CP — Quy định về tổ chức và hoạt động của Ngân hàng Chính sách xã hội (URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216603`)
+- 55/2026/NĐ-CP — Sửa đổi xử phạt hành chính lĩnh vực tài sản công, tiết kiệm chống lãng phí (URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216927`)
+- 75/2026/NĐ-CP — Quy định chế độ tự chủ, tự chịu trách nhiệm về quản lý sử dụng kinh phí quản lý hành chính (URL: `https://vanban.chinhphu.vn/?docid=217217&pageid=27160`)
+- 28/2026/TT-BCA — Quy định về phát ngôn và cung cấp thông tin cho báo chí của Công an nhân dân (hiệu lực 12/05/2026)
+- 08/2026/TT-BYT — Hướng dẫn giám định tư pháp trong lĩnh vực y tế (hiệu lực 01/05/2026)
+
+## Ghi chú xử lý
+
+- 5 văn bản mới sẽ được crawl chi tiết trong phiên Đệ #3 Full Content Crawler tiếp theo.
+- Ưu tiên cao: 31/2026/QH16 (luật mới) và 27/2026/QH16 (đầu tư công trung hạn) vì tác động nền kinh tế rộng nhất.
+- 46/2026/NĐ-CP quan trọng vì hướng dẫn Luật ATTP mới, ảnh hưởng toàn ngành thực phẩm.
+- 04/2026/TT-NHNN liên quan trực tiếp đến hệ thống ngân hàng và BHTG.
+- Nguồn: Web search Brave + Gemini tổng hợp vanban.chinhphu.vn.
+- Ngày phát hiện: 2026-06-09 04:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:d7797d86-b02a-49ba-b621-98a02e5d9869 (Đệ #1 Discovery 2026-06-09 lần 2)
 
 ---
 
