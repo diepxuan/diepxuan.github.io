@@ -134,6 +134,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-07) và `van-
 | 14/2026/TT-BNV | 29/05/2026 | Quy định chi tiết việc điều chỉnh lương hưu, trợ cấp BHXH và trợ cấp hằng tháng (hiệu lực 01/7/2026) | Lao động / BHXH | **Chưa có** | Phát hiện bởi Đệ #1 Discovery 2026-06-09; Web search; hướng dẫn chi tiết NĐ 162/2026/NĐ-CP; thay thế Thông tư 06/2023/TT-BLĐTBXH; liên quan `van-ban/lao-dong/nghi-dinh-162-2026-nd-cp-dieu-chinh-luong-huu-tro-cap-bhxh-tro-cap-hang-thang.md` |
 | 19/2026/QH16 | 12/04/2026 | Sửa đổi quy định về thuế bảo vệ môi trường, thuế giá trị gia tăng, thuế tiêu thụ đặc biệt đối với xăng dầu, nhiên liệu bay | Thuế | Đã có | `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-quyet-19-2026-qh16-sua-doi-thue-xang-dau.md`; heartbeat 2026-06-08; OCR 2 trang scanned PDF; hiệu lực 16/4-30/6/2026 |
 | 07/2026/NĐ-CP | 10/01/2026 | Sửa đổi chế độ tiền lương đối với cán bộ, công chức, viên chức | Lao động / Tiền lương | Đã có | `van-ban/lao-dong/nghi-dinh-07-2026-nd-cp-sua-doi-che-do-tien-luong-cbccvc.md`; heartbeat 2026-06-08; OCR 5 trang CAdES-BES |
+| 88/2026/NĐ-CP | 28/03/2026 | Quy định quản lý dữ liệu giáo dục và đào tạo | Giáo dục | Đã có | `van-ban/giao-duc-dao-tao/nghi-dinh-88-2026-nd-cp-quan-ly-du-lieu-giao-duc.md`; heartbeat 2026-06-08; OCR 15 trang CAdES-BES |
 
 ### Cập nhật trạng thái từ "Chưa có" → "Đã có"
 
