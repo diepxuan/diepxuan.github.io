@@ -135,6 +135,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-07) và `van-
 | 19/2026/QH16 | 12/04/2026 | Sửa đổi quy định về thuế bảo vệ môi trường, thuế giá trị gia tăng, thuế tiêu thụ đặc biệt đối với xăng dầu, nhiên liệu bay | Thuế | Đã có | `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-quyet-19-2026-qh16-sua-doi-thue-xang-dau.md`; heartbeat 2026-06-08; OCR 2 trang scanned PDF; hiệu lực 16/4-30/6/2026 |
 | 07/2026/NĐ-CP | 10/01/2026 | Sửa đổi chế độ tiền lương đối với cán bộ, công chức, viên chức | Lao động / Tiền lương | Đã có | `van-ban/lao-dong/nghi-dinh-07-2026-nd-cp-sua-doi-che-do-tien-luong-cbccvc.md`; heartbeat 2026-06-08; OCR 5 trang CAdES-BES |
 | 88/2026/NĐ-CP | 28/03/2026 | Quy định quản lý dữ liệu giáo dục và đào tạo | Giáo dục | Đã có | `van-ban/giao-duc-dao-tao/nghi-dinh-88-2026-nd-cp-quan-ly-du-lieu-giao-duc.md`; heartbeat 2026-06-08; OCR 15 trang CAdES-BES |
+| 93/2026/NĐ-CP | 31/03/2026 | Quy định chi tiết một số điều của Luật Nhà giáo | Giáo dục | Đã có | `van-ban/giao-duc-dao-tao/nghi-dinh-93-2026-nd-cp-chi-tiet-luat-nha-giao.md`; heartbeat 2026-06-08; web crawl (PDF 404); 21KB, 8 chương 28 điều |
 
 ### Cập nhật trạng thái từ "Chưa có" → "Đã có"
 
