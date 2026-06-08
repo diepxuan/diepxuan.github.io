@@ -53,7 +53,7 @@ Chưa thấy trang chuyên biệt cho các văn bản mới sau (heartbeat 2026-
 - 50/2026/NĐ-CP và 49/2026/NĐ-CP về tiền sử dụng đất, tiền thuê đất / hướng dẫn NQ 254
 - 129/2026/NĐ-CP về ngân sách cho hoạt động đối ngoại — đã có trang chuyên biệt trong PR heartbeat 2026-06-08
 - 23/2026/TT-BKHCN về dự toán kinh phí tiêu chuẩn/quy chuẩn kỹ thuật — đã có trang tóm tắt/cấu trúc lại trong PR heartbeat 2026-06-08
-- 192/2026/NĐ-CP, 58/2026/NĐ-CP (đang chờ crawl chi tiết); 20/2026/NĐ-CP đã có trang trong PR heartbeat 2026-06-08; 37/2026/NĐ-CP đã hoàn thiện 2026-06-07
+- 58/2026/NĐ-CP (đang chờ crawl chi tiết); 20/2026/NĐ-CP đã có trang trong PR heartbeat 2026-06-08; 37/2026/NĐ-CP đã hoàn thiện 2026-06-07
 - 03/2026/TT-BNG phân cấp chứng nhận lãnh sự
 
 ## Đề xuất ưu tiên cập nhật tiếp theo
