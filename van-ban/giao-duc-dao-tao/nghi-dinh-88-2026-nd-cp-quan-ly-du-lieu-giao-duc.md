@@ -351,5 +351,5 @@ Nghị định này có hiệu lực thi hành từ ngày 15 tháng 5 năm 2026.
 - Nghị định được ký ngày 28/03/2026 bởi Phó Thủ tướng Chính phủ **Lê Thành Long**.
 - PDF đính kèm là bản scanned (Kodak Alaris Inc.) có chữ ký số CAdES-BES, đã được OCR bằng Tesseract.
 - Có 5 chương, 25 Điều.
-- Điểm đáng chú ý: Dữ liệu hồ học tập suốt đời lưu trữ vĩnh viễn; cấp mã số hoàn thành trước 01/01/2027; tạo lập dữ liệu từ 01/01/2027.
+- Điểm đáng chú ý: Dữ liệu hồ sơ học tập suốt đời lưu trữ vĩnh viễn; cấp mã số hoàn thành trước 01/01/2027; tạo lập dữ liệu từ 01/01/2027.
 - Nguồn: [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=217356)

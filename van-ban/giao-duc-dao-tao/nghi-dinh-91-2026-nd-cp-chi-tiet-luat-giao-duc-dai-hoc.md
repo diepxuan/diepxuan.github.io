@@ -1,12 +1,17 @@
 ---
 title: "Nghị định 91/2026/NĐ-CP - Quy định chi tiết và biện pháp tổ chức, hướng dẫn thi hành một số điều của Luật Giáo dục đại học"
-date: 2026-03-30
-layout: document
+date: 30/03/2026
+layout: van-ban
 so_hieu: "91/2026/NĐ-CP"
-ngay_ban_hanh: "2026-03-30"
-ngay_hieu_luc: "2026-03-30"
+ngay_ban_hanh: "30/03/2026"
+ngay_hieu_luc: "30/03/2026"
 nguoi_ky: "Lê Thành Long"
 trich_yeu: "Quy định chi tiết và biện pháp tổ chức, hướng dẫn thi hành một số điều của Luật Giáo dục đại học"
+loai_van_ban: "Nghị định"
+co_quan_ban_hanh: "Chính phủ"
+ngon_ngu: "vi"
+source: "https://vanban.chinhphu.vn"
+pdf_url: "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/91-ndcp.signed.pdf"
 ---
 
 # Nghị định 91/2026/NĐ-CP
