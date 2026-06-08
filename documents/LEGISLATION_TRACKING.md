@@ -137,6 +137,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-07) và `van-
 | 88/2026/NĐ-CP | 28/03/2026 | Quy định quản lý dữ liệu giáo dục và đào tạo | Giáo dục | Đã có | `van-ban/giao-duc-dao-tao/nghi-dinh-88-2026-nd-cp-quan-ly-du-lieu-giao-duc.md`; heartbeat 2026-06-08; OCR 15 trang CAdES-BES |
 | 93/2026/NĐ-CP | 31/03/2026 | Quy định chi tiết một số điều của Luật Nhà giáo | Giáo dục | Đã có | `van-ban/giao-duc-dao-tao/nghi-dinh-93-2026-nd-cp-chi-tiet-luat-nha-giao.md`; heartbeat 2026-06-08; web crawl (PDF 404); 21KB, 8 chương 28 điều |
 | 95/2026/NĐ-CP | 2026 | Quy định chi tiết một số điều của Luật Giáo dục nghề nghiệp | Giáo dục | Đã có | `van-ban/giao-duc-dao-tao/nghi-dinh-95-2026-nd-cp-chi-tiet-luat-giao-duc-nghe-nghiep.md`; heartbeat 2026-06-08; pdftotext 12 trang; 18KB, 5 chương 20 điều |
+| 66/2026/NĐ-CP | 02/03/2026 | Quy định chi tiết một số điều của Luật Giáo dục | Giáo dục | Đã có | `van-ban/giao-duc-dao-tao/nghi-dinh-66-2026-nd-cp-chi-tiet-luat-giao-duc.md`; heartbeat 2026-06-08; OCR 30 trang CAdES-BES; 60KB, 15 Điều, thay thế NĐ 84/2020 |
 
 ### Cập nhật trạng thái từ "Chưa có" → "Đã có"
 
