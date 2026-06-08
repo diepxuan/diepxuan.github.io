@@ -115,7 +115,7 @@ Nghị định này áp dụng đối với cơ quan nhà nước, người sử
 
 ### Chương II: QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 254/2025/QH15
 
-#### Điều 3. Bồi thường, hỗ trợ, tái định cư, thu hồi đất đối với diện tích đất còn lại không thỏa thuận được của dự án sử dụng đất thông qua thỏa thuận nhận quyền sử dụng đất quy định tại điểm b khoản 2 và điểm d khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15
+#### Điều 3. Bồi thường, hỗ trợ, tái định cư, thu hồi đất đối với diện tích đất còn lại không thỏa thuận được của dự án sử dụng đất thông qua thỏa thuận nhận quyền sử dụng đất quy định tại điểm b khoản 2 và điểm đ khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15
 
 **1.** Quy định về xác định diện tích đất thỏa thuận nhận quyền sử dụng đất trong phạm vi dự án:
 
@@ -142,7 +142,7 @@ Nghị định này áp dụng đối với cơ quan nhà nước, người sử
   - Có chi phí đầu tư vào đất;
   - Có tài sản gắn liền với đất và chi phí đầu tư vào đất.
 
-**3.** Hội đồng nhân dân cấp tỉnh xem xét, thông qua việc thu hồi phần diện tích đất còn lại không thỏa thuận được quy định tại điểm b khoản 2 và điểm d khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15. Trường hợp dự án thuộc diện phải chấp thuận chủ trương đầu tư hoặc quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư hoặc quyết định chấp thuận nhà đầu tư thì Hội đồng nhân dân cấp tỉnh xem xét việc thu hồi phần diện tích đất còn lại không thỏa thuận được sau khi dự án đã được chấp thuận chủ trương đầu tư hoặc quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư hoặc đã có quyết định chấp thuận nhà đầu tư theo quy định của pháp luật.
+**3.** Hội đồng nhân dân cấp tỉnh xem xét, thông qua việc thu hồi phần diện tích đất còn lại không thỏa thuận được quy định tại điểm b khoản 2 và điểm đ khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15. Trường hợp dự án thuộc diện phải chấp thuận chủ trương đầu tư hoặc quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư hoặc quyết định chấp thuận nhà đầu tư thì Hội đồng nhân dân cấp tỉnh xem xét việc thu hồi phần diện tích đất còn lại không thỏa thuận được sau khi dự án đã được chấp thuận chủ trương đầu tư hoặc quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư hoặc đã có quyết định chấp thuận nhà đầu tư theo quy định của pháp luật.
 
 **4.** Quy định về xác định số tiền chênh lệch giữa số tiền trung bình của giá đất đã thỏa thuận trên một đơn vị diện tích đất của loại đất đã thỏa thuận với số tiền theo phương án bồi thường, hỗ trợ, tái định cư tính trên một đơn vị diện tích của loại đất thu hồi trong phạm vi dự án như sau:
 
@@ -179,7 +179,7 @@ Trong đó:
 - T_tb: Số tiền trung bình tính trên một đơn vị diện tích đất của loại đất đã thỏa thuận.
 - T_pa: Số tiền theo phương án bồi thường, hỗ trợ, tái định cư tính trên một đơn vị diện tích của loại đất thu hồi.
 
-**5.** Việc giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với dự án quy định tại điểm b khoản 2 và điểm d khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15 được thực hiện đồng thời trong cùng một quyết định và thể hiện rõ diện tích cho phép chuyển mục đích sử dụng đất; diện tích giao đất, cho thuê đất từ quỹ đất do Nhà nước thu hồi đối với diện tích đất còn lại không thỏa thuận được; diện tích giao đất, cho thuê đất từ quỹ đất do cơ quan, tổ chức của Nhà nước quản lý.
+**5.** Việc giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với dự án quy định tại điểm b khoản 2 và điểm đ khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15 được thực hiện đồng thời trong cùng một quyết định và thể hiện rõ diện tích cho phép chuyển mục đích sử dụng đất; diện tích giao đất, cho thuê đất từ quỹ đất do Nhà nước thu hồi đối với diện tích đất còn lại không thỏa thuận được; diện tích giao đất, cho thuê đất từ quỹ đất do cơ quan, tổ chức của Nhà nước quản lý.
 
 Trường hợp giao đất, cho thuê đất theo tiến độ của dự án đầu tư hoặc theo tiến độ thu hồi đất, bồi thường, hỗ trợ, tái định cư quy định tại khoản 1 Điều 4 Nghị quyết số 254/2025/QH15 thì việc giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thực hiện đồng thời trong cùng một quyết định đối với phần diện tích dự án thực hiện theo tiến độ.
 
@@ -820,7 +820,7 @@ Các trường hợp đang xác định giá đất cụ thể trước ngày Ng
 
 #### I. Về bồi thường, hỗ trợ, tái định cư, thu hồi đất
 
-**1.** Bồi thường, hỗ trợ, tái định cư, thu hồi đất đối với phần diện tích còn lại không thỏa thuận được của dự án sử dụng đất thông qua thỏa thuận về nhận quyền sử dụng đất quy định tại điểm b khoản 2 và điểm d khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15:
+**1.** Bồi thường, hỗ trợ, tái định cư, thu hồi đất đối với phần diện tích còn lại không thỏa thuận được của dự án sử dụng đất thông qua thỏa thuận về nhận quyền sử dụng đất quy định tại điểm b khoản 2 và điểm đ khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15:
 
 **a)** Trước khi thực hiện trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất đối với phần diện tích đất còn lại không thỏa thuận được thì cơ quan, người có thẩm quyền phải thực hiện các công việc sau đây:
 

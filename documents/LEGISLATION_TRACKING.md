@@ -20,7 +20,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 47/2026/TT-BTC | 12/05/2026 | Quy định mẫu biểu báo cáo thông tin về nợ công và tính toán chỉ tiêu rủi ro danh mục nợ Chính phủ | Tài chính / nợ công | Đã có | `van-ban/tai-chinh/no-cong/mau-bieu-bao-cao-no-cong-47-2026-tt-btc.md`; heartbeat 2026-06-05 |
 | 25/2026/TT-BCT | 11/05/2026 | Quy định quản lý chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo dùng ngân sách nhà nước của Bộ Công Thương | Khoa học công nghệ | Đã có | `van-ban/khoa-hoc-cong-nghe/thong-tu-25-2026-tt-bct-quan-ly-nhiem-vu-khoa-hoc-cong-nghe.md`; heartbeat 2026-06-06 |
 | 129/2026/NĐ-CP | 06/04/2026 | Quy định về quản lý, sử dụng ngân sách nhà nước đối với một số hoạt động đối ngoại | Tài chính / Đối ngoại | Đã có | `van-ban/tai-chinh/ngan-sach-doi-ngoai/nghi-dinh-129-2026-nd-cp-quan-ly-ngan-sach-doi-ngoai.md`; heartbeat 2026-06-08; PDF OCR 13 trang |
-| 23/2026/TT-BKHCN | 28/05/2026 | Quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước lĩnh vực KHCN&ĐMST&CDS cho hoạt động tiêu chuẩn, quy chuẩn kỹ thuật | Khoa học công nghệ | Đã có | `van-ban/khoa-hoc-cong-nghe/thong-tu-23-2026-tt-bkhcns-kinh-phi-tieu-chuan-quy-chuan.md`; heartbeat 2026-06-08; pdftotext 32 trang |
+| 23/2026/TT-BKHCN | 28/05/2026 | Quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước lĩnh vực KHCN&ĐMST&CDS cho hoạt động tiêu chuẩn, quy chuẩn kỹ thuật | Khoa học công nghệ | Đã có | `van-ban/khoa-hoc-cong-nghe/thong-tu-23-2026-tt-bkhcns-kinh-phi-tieu-chuan-quy-chuan.md`; heartbeat 2026-06-08; bản tóm tắt/cấu trúc lại từ pdftotext 32 trang; cần bổ sung toàn văn nếu dùng làm văn bản đầy đủ |
 | 147/2026/NĐ-CP | 07/05/2026 | Hướng dẫn cơ chế, chính sách đặc thù tháo gỡ khó khăn cho các dự án tồn đọng, kéo dài theo Nghị quyết 29/2026/QH16 | Đầu tư / dự án tồn đọng | Đã có | `van-ban/dat-dai-dau-tu/nghi-dinh-147-2026-nd-cp-co-che-dac-thu-du-an-ton-dong.md`; heartbeat 2026-06-06 |
 | 146/2026/NĐ-CP | 06/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp | Lâm nghiệp | Đã có | `van-ban/nong-nghiep-nong-thon/nghi-dinh-146-2026-nd-cp-xu-phat-vi-pham-linh-vuc-lam-nghiep.md`; heartbeat 2026-06-06 |
 | 26/2026/NQ-CP | 06/05/2026 | Cơ chế đặc thù tháo gỡ khó khăn trong lấy mẫu, giám định, xác định danh tính hài cốt liệt sĩ bằng ADN | Chính sách xã hội | Đã có | `van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si.md`; heartbeat 2026-06-04 |
@@ -51,9 +51,9 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 Chưa thấy trang chuyên biệt cho các văn bản mới sau (heartbeat 2026-06-06):
 
 - 50/2026/NĐ-CP và 49/2026/NĐ-CP về tiền sử dụng đất, tiền thuê đất / hướng dẫn NQ 254
-- 129/2026/NĐ-CP về ngân sách cho hoạt động đối ngoại
-- 23/2026/TT-BKHCN về dự toán kinh phí tiêu chuẩn/quy chuẩn kỹ thuật
-- 192/2026/NĐ-CP, 58/2026/NĐ-CP, 20/2026/NĐ-CP (đang chờ crawl chi tiết); 37/2026/NĐ-CP đã hoàn thiện 2026-06-07
+- 129/2026/NĐ-CP về ngân sách cho hoạt động đối ngoại — đã có trang chuyên biệt trong PR heartbeat 2026-06-08
+- 23/2026/TT-BKHCN về dự toán kinh phí tiêu chuẩn/quy chuẩn kỹ thuật — đã có trang tóm tắt/cấu trúc lại trong PR heartbeat 2026-06-08
+- 192/2026/NĐ-CP, 58/2026/NĐ-CP (đang chờ crawl chi tiết); 20/2026/NĐ-CP đã có trang trong PR heartbeat 2026-06-08; 37/2026/NĐ-CP đã hoàn thiện 2026-06-07
 - 03/2026/TT-BNG phân cấp chứng nhận lãnh sự
 
 ## Đề xuất ưu tiên cập nhật tiếp theo
@@ -255,5 +255,5 @@ Tiêu biểu (ưu tiên cao theo nhóm thuộc 14 chủ đề):
 
 ## Cập nhật 2026-06-08 (phiên Đệ #3 Full Content Crawler)
 
-- Hoàn thiện `van-ban/khoa-hoc-cong-nghe/thong-tu-23-2026-tt-bkhcn.md` (Thông tư 23/2026/TT-BKHCN — quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước lĩnh vực KHCN&ĐMST&CDS cho hoạt động tiêu chuẩn, quy chuẩn kỹ thuật): đã lấy metadata từ vanban.chinhphu.vn (docid 218327) và OCR PDF chữ ký số CAdES-BES bằng Signed PDF OCR Pipeline trên 8 trang; file 16.5 KB, đầy đủ 7 Điều.
+- Hoàn thiện `van-ban/khoa-hoc-cong-nghe/thong-tu-23-2026-tt-bkhcns-kinh-phi-tieu-chuan-quy-chuan.md` (Thông tư 23/2026/TT-BKHCN — quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước lĩnh vực KHCN&ĐMST&CDS cho hoạt động tiêu chuẩn, quy chuẩn kỹ thuật): metadata chính thức từ vanban.chinhphu.vn docid 218278, PDF 32 trang / 32 Điều; file hiện là bản tóm tắt/cấu trúc lại, chưa phải toàn văn nguyên văn.
 - Phiên thực hiện: agent:github-io:subagent:bca2d895-588b-4957-9c1a-260bd7334e86 (Đệ #3 Full Content Crawler)

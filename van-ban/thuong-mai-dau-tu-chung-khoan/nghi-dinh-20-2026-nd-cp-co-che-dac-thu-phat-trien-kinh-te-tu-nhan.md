@@ -34,6 +34,8 @@ co_quan_ban_hanh: "Chính phủ"
 
 ## Nội dung chi tiết
 
+> Lưu ý biên tập: Bản dưới đây là nội dung đã OCR, làm sạch và cấu trúc hóa để tra cứu. Một số phần phức tạp/phụ lục được tóm tắt; cần đối chiếu PDF chính thức khi dùng làm căn cứ pháp lý đầy đủ.
+
 ### Chương I - QUY ĐỊNH CHUNG
 
 #### Điều 1. Phạm vi điều chỉnh
