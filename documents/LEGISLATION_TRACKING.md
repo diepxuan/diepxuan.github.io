@@ -90,7 +90,7 @@ Phát hiện 14 văn bản mới qua web search Brave + Gemini trong 14 nhóm ch
 |---|---:|---|---|---|---|
 | 161/2026/NĐ-CP | 15/05/2026 | Quy định mức lương cơ sở 2.530.000 đ/tháng từ 01/7/2026 đối với cán bộ, công chức, viên chức và lực lượng vũ trang | Lao động / Tiền lương | Đã có | `van-ban/lao-dong/nghi-dinh-161-2026.md`; heartbeat 2026-06-07 Đệ #3; PDF đã OCR bằng Signed PDF OCR Pipeline (CAdES-BES); người ký Phạm Thị Thanh Trà (Phó Thủ tướng, ký thay Thủ tướng); URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218107` |
 | 182/2026/NĐ-CP | 23/05/2026 | Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ QLGD và nhân sự hỗ trợ GD công tác tại cơ sở GD công lập (hiệu lực 07/7/2026; mức phụ cấp áp dụng từ 01/01/2026) | Giáo dục | **Đã có** | `van-ban/giao-duc-dao-tao/nghi-dinh-182-2026-nd-cp-quy-dinh-che-do-phu-cap-uu-dai-doi-voi-nha-giao-can-bo-quan-ly-giao-duc.md`; heartbeat 2026-06-08; docid 218228 |
-| 165/2026/NĐ-CP | 2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng bệnh (chuyển đổi mạnh từ "chữa bệnh" sang "phòng bệnh chủ động") | Y tế | Chưa có | Phát hiện bởi heartbeat 2026-06-07; liên quan `van-ban/y-te-duoc/` |
+| 165/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết và hướng dẫn thi hành Luật Phòng bệnh (chuyển đổi mạnh từ "chữa bệnh" sang "phòng bệnh chủ động") | Y tế | Đã có | `van-ban/y-te-duoc/nghi-dinh-165-2026-nd-cp-phong-benh.md`; heartbeat 2026-06-08; OCR 38 trang CAdES-BES; 1509 dòng, 5 Chương |
 
 ### Văn bản phát hiện thêm (chưa đưa vào backlog ưu tiên, chờ phiên sau)
 
