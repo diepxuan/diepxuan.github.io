@@ -35,8 +35,6 @@ co_quan_ban_hanh: "Chính phủ"
 
 ## Nội dung chi tiết
 
-> Lưu ý biên tập: Bản này đã được khôi phục dấu tiếng Việt và sửa các lỗi OCR đã phát hiện trong review, nhưng các bảng hệ số cần tiếp tục đối chiếu trực tiếp PDF chính thức trước khi sử dụng như căn cứ pháp lý.
-
 ### Điều 1. Sửa đổi, bổ sung, bãi bỏ một số điểm, khoản của Bảng phụ cấp chức vụ lãnh đạo (bầu cử, bổ nhiệm) trong các cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước; cơ quan, đơn vị thuộc Quân đội nhân dân và Công an nhân dân ban hành kèm theo Nghị định 204/2004/NĐ-CP
 
 **1. Sửa đổi, bổ sung điểm a khoản 4 Mục I:**
@@ -45,38 +43,49 @@ Hệ số phụ cấp chức vụ lãnh đạo của Cục thuộc Bộ:
 
 | STT | Chức danh lãnh đạo | Cục loại 1 | Cục loại 2 |
 |---|---|---|---|
-| 1 | Cục trưởng | Cần đối chiếu PDF gốc | Cần đối chiếu PDF gốc |
-| 2 | Phó Cục trưởng - Trưởng cơ quan khu vực, Chi cục trưởng hoặc tương đương tại thành phố Hà Nội, TP.HCM | 0,40 | 0,40 |
-| 3 | Trưởng ban, Trưởng phòng, Chánh Văn phòng - Trưởng cơ quan khu vực, Chi cục trưởng hoặc tương đương tại các tỉnh, thành phố còn lại | 0,30 | 0,30 |
-| 4 | Phó Trưởng ban, Phó Trưởng phòng, Phó Chánh văn phòng - Phó Trưởng cơ quan khu vực, Phó Chi cục trưởng hoặc tương đương tại thành phố Hà Nội, TP.HCM | 0,25 | 0,25 |
-| 5 | Phó Trưởng cơ quan khu vực, Phó Chi cục trưởng hoặc tương đương tại các tỉnh, thành phố còn lại | 0,20 | 0,20 |
+| 1 | Cục trưởng | 1,10 | 1,00 |
+| 2 | Phó Cục trưởng | 0,90 | 0,80 |
+| 3 | Trưởng cơ quan khu vực, Chi cục trưởng hoặc tương đương tại thành phố Hà Nội, Thành phố Hồ Chí Minh | 0,80 | 0,70 |
+| 4 | - Trưởng ban, Trưởng phòng, Chánh Văn phòng - Trưởng cơ quan khu vực, Chi cục trưởng hoặc tương đương tại các tỉnh, thành phố còn lại | 0,70 | 0,60 |
+| 5 | Phó Trưởng cơ quan khu vực, Phó Chi cục trưởng hoặc tương đương tại thành phố Hà Nội, Thành phố Hồ Chí Minh | 0,60 | 0,50 |
+| 6 | - Phó Trưởng ban, Phó Trưởng phòng, Phó Chánh văn phòng - Phó Trưởng cơ quan khu vực, Phó Chi cục trưởng hoặc tương đương tại các tỉnh, thành phố còn lại | 0,50 | 0,40 |
+| 7 | Trưởng phòng, Đội trưởng hoặc tương đương thuộc cơ quan khu vực, Chi cục và tương đương tại thành phố Hà Nội, Thành phố Hồ Chí Minh | 0,40 | 0,40 |
+| 8 | Trưởng phòng, Đội trưởng hoặc tương đương thuộc cơ quan khu vực, Chi cục và tương đương tại các tỉnh, thành phố còn lại | 0,30 | 0,30 |
+| 9 | Phó Trưởng phòng, Phó Đội trưởng hoặc tương đương thuộc cơ quan khu vực, Chi cục và tương đương tại thành phố Hà Nội, Thành phố Hồ Chí Minh | 0,25 | 0,25 |
+| 10 | Phó Trưởng phòng, Phó Đội trưởng hoặc tương đương thuộc cơ quan khu vực, Chi cục và tương đương tại các tỉnh, thành phố còn lại | 0,20 | 0,20 |
 
 **2. Bổ sung khoản 8a vào sau khoản 8 Mục I:**
 
 Ủy ban nhân dân xã, phường, đặc khu trực thuộc tỉnh, thành phố:
 
-| STT | Chức danh lãnh đạo | Hệ số (Hà Nội, TP.HCM) | Hệ số (các tỉnh, thành phố còn lại) |
+| STT | Chức danh lãnh đạo | Xã, phường, đặc khu trực thuộc thành phố Hà Nội, TP.HCM | Xã, phường, đặc khu trực thuộc tỉnh, thành phố còn lại |
 |---|---|---|---|
 | 1 | Chủ tịch Ủy ban nhân dân | 0,70 | 0,60 |
-| 2 | Phó Chủ tịch Ủy ban nhân dân | 0,60 | 0,40 |
+| 2 | Phó Chủ tịch Ủy ban nhân dân | 0,60 | 0,50 |
 | 3 | Trưởng phòng chuyên môn thuộc Ủy ban nhân dân và tương đương | 0,35 | 0,25 |
 | 4 | Phó trưởng phòng chuyên môn thuộc Ủy ban nhân dân và tương đương | 0,20 | 0,15 |
 
 **3. Sửa đổi điểm 11.1 khoản 11 Mục I:**
 
+11.1. Thanh tra thuộc Bộ, cơ quan ngang Bộ, Thanh tra thuộc Cục thuộc Bộ
+
 a) Thanh tra thuộc Bộ, cơ quan ngang Bộ:
 
-- Chánh Thanh tra: cần đối chiếu PDF gốc
-- Phó Chánh Thanh tra: hệ số 0,50
-- Phó Trưởng phòng: cần đối chiếu PDF gốc
+| STT | Chức danh lãnh đạo | Hệ số |
+|---|---|---|
+| 1 | Chánh Thanh tra | 1,00 |
+| 2 | Phó Chánh Thanh tra | 0,80 |
+| 3 | Trưởng phòng | 0,60 |
+| 4 | Phó Trưởng phòng | 0,40 |
 
 b) Thanh tra thuộc Cục thuộc Bộ:
 
-- Chánh Thanh tra: 0,70 (Cục loại 1), 0,60 (Cục loại 2)
-- Phó Chánh Thanh tra: hệ số 0,40 (Cục loại 1), 0,30 (Cục loại 2)
-- Phó Trưởng phòng: cần đối chiếu PDF gốc
+| STT | Chức danh lãnh đạo | Cục loại 1 | Cục loại 2 |
+|---|---|---|---|
+| 1 | Chánh Thanh tra | 0,70 | 0,60 |
+| 2 | Phó Chánh Thanh tra | 0,50 | 0,40 |
 
-**4. Bãi bỏ:** khoản 3, điểm e khoản 4, khoản 5, khoản 9, khoản 10, điểm 11.3 khoản 11, điểm 11.4 khoản 11, khoản 12, khoản 13 và khoản 14 Mục I.
+**4. Bãi bỏ:** khoản 3, điểm c khoản 4, khoản 5, khoản 9, khoản 10, điểm 11.3 khoản 11, điểm 11.4 khoản 11, khoản 12, khoản 13 và khoản 14 Mục I.
 
 ### Điều 2. Hiệu lực thi hành
 
@@ -88,23 +97,41 @@ b) Thanh tra thuộc Cục thuộc Bộ:
 
 1. **Đối với chức danh lãnh đạo của Ủy ban nhân dân xã, phường, đặc khu đang bảo lưu phụ cấp chức vụ lãnh đạo:**
 
-   a) Trường hợp bảo lưu hệ số phụ cấp chức vụ lãnh đạo cao hơn hệ số phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định này: Tiếp tục hưởng phụ cấp chức vụ lãnh đạo bảo lưu đến hết thời gian quy định, sau thời gian này hưởng phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định này.
+   a) Trường hợp bảo lưu hệ số phụ cấp chức vụ lãnh đạo mà hệ số phụ cấp chức vụ lãnh đạo bảo lưu cao hơn hệ số phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định này thì thực hiện theo nguyên tắc: Tiếp tục hưởng phụ cấp chức vụ lãnh đạo bảo lưu đến hết thời gian quy định, sau thời gian này hưởng phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định này.
 
-   b) Trường hợp trong khoảng thời gian từ ngày 01/07/2025 đến trước ngày 01/01/2026 chưa được áp dụng hệ số phụ cấp chức vụ lãnh đạo hoặc được bảo lưu phụ cấp chức vụ lãnh đạo thấp hơn: Truy lĩnh phụ cấp chức vụ lãnh đạo và truy nộp bảo hiểm xã hội theo hệ số phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định này hoặc phần chênh lệch, kể từ ngày giữ chức danh lãnh đạo của Ủy ban nhân dân xã, phường, đặc khu.
+   b) Trường hợp trong khoảng thời gian từ ngày 01 tháng 7 năm 2025 đến trước ngày 01 tháng 01 năm 2026 chưa được áp dụng hệ số phụ cấp chức vụ lãnh đạo hoặc được bảo lưu phụ cấp chức vụ lãnh đạo thấp hơn phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định này thì thực hiện theo nguyên tắc: Truy lĩnh phụ cấp chức vụ lãnh đạo và truy nộp bảo hiểm xã hội theo hệ số phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định này hoặc phần chênh lệch giữa hệ số phụ cấp chức vụ lãnh đạo quy định tại khoản 2 Điều 1 Nghị định này so với hệ số phụ cấp chức vụ lãnh đạo bảo lưu, kể từ ngày giữ chức danh lãnh đạo của Ủy ban nhân dân xã, phường, đặc khu.
 
 2. **Đối với chức danh lãnh đạo của Cục thuộc Bộ khi chưa có quyết định phân loại Cục:**
 
    a) Áp dụng hệ số phụ cấp chức vụ của Cục loại 2 quy định tại khoản 1 Điều 1 Nghị định này.
 
-   b) Trường hợp bảo lưu phụ cấp chức vụ lãnh đạo cao hơn: Tiếp tục hưởng đến hết thời gian quy định, sau đó áp dụng quy định mới. Trường hợp chưa được áp dụng hoặc bảo lưu thấp hơn: được hưởng phụ cấp chức vụ lãnh đạo của Cục thuộc Bộ theo nguyên tắc tại điểm b khoản 1 Điều này.
+   b) Trường hợp giữ chức danh lãnh đạo được bảo lưu phụ cấp chức vụ lãnh đạo (do sắp xếp tổ chức bộ máy từ ngày 01 tháng 3 năm 2025 theo quy định tại Nghị định của Chính phủ) cao hơn phụ cấp chức vụ lãnh đạo của Cục thuộc Bộ tại khoản 1 Điều 1 Nghị định này thì tiếp tục hưởng phụ cấp chức vụ lãnh đạo bảo lưu đến hết thời gian quy định; sau thời gian này áp dụng phụ cấp chức vụ lãnh đạo quy định tại khoản 1 Điều 1 Nghị định này và điểm a khoản này. Trường hợp chưa được áp dụng phụ cấp chức vụ lãnh đạo hoặc được bảo lưu phụ cấp chức vụ lãnh đạo thấp hơn phụ cấp chức vụ lãnh đạo của Cục thuộc Bộ theo quy định tại khoản 1 Điều 1 Nghị định này và điểm a khoản này thì được hưởng phụ cấp chức vụ lãnh đạo của Cục thuộc Bộ theo nguyên tắc tại điểm b khoản 1 Điều này.
 
 ### Điều 4. Trách nhiệm thi hành
 
-Các Bộ trưởng, Thứ trưởng cơ quan ngang bộ, Thứ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này.
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này.
+
+Nơi nhận:
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: VT, KTTH (2b).
 
 ## Ghi chú
 
-- **Phương pháp trích xuất:** OCR bằng Tesseract (ngôn ngữ: vie) từ PDF có chữ ký số CAdES-BES
+- **Phương pháp trich xuất:** OCR bang Tesseract (ngon ngu: vie) tu PDF co chu ky so CAdES-BES, doi chieu voi van ban chinh thuc tren xaydungchinhsach.chinhphu.vn
 - **PDF URL:** https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/07-ndcp.signed.pdf
-- **Văn bản gốc:** https://vanban.chinhphu.vn/?classid=1&docid=216606&pageid=27160
-- **Timestamp:** 2026-06-08T08:56:00+07:00
+- **Van ban goc:** https://vanban.chinhphu.vn/?classid=1&docid=216606&pageid=27160
+- **Timestamp:** 2026-06-09T07:30:00+07:00
