@@ -190,13 +190,13 @@ Chính phủ ban hành Nghị định quy định chế độ phụ cấp ưu đ
 
 **Điều 5. Cách tính phụ cấp ưu đãi theo nghề**
 
-Mức tiền phụ cấp ưu đãi theo nghề hằng tháng được tính như sau:
+Mức tiền phụ cấp ưu đãi theo nghề hằng tháng đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục được tính như sau:
 
-**Mức tiền phụ cấp ưu đãi = (Hệ số lương hiện hưởng + Phụ cấp chức vụ lãnh đạo + Phụ cấp thâm niên vượt khung (nếu có) + Hệ số chênh lệch bảo lưu (nếu có)) x Mức lương cơ sở x Mức phụ cấp ưu đãi theo nghề**
+**Mức tiền phụ cấp ưu đãi theo nghề hằng tháng** = **(Hệ số lương hiện hưởng + Phụ cấp chức vụ lãnh đạo + Phụ cấp thâm niên vượt khung (nếu có) + Hệ số chênh lệch bảo lưu (nếu có))** x **Mức lương cơ sở** x **Mức phụ cấp ưu đãi theo nghề**
 
-Trường hợp trong tháng có thời gian không được tính hưởng phụ cấp ưu đãi theo nghề, mức tiền phụ cấp được tính theo công thức trong PDF chính thức trên cơ sở 22 ngày làm việc tiêu chuẩn và số ngày không được tính hưởng phụ cấp trong tháng.
+Đối với trường hợp trong tháng có thời gian không được tính hưởng phụ cấp ưu đãi theo nghề (theo quy định tại Điều 6 Nghị định này) thì mức tiền phụ cấp ưu đãi theo nghề đối với thời gian còn lại của tháng được tính như sau:
 
-> Cần bổ sung công thức nguyên văn từ PDF chính thức khi hoàn thiện bản toàn văn.
+**Mức tiền phụ cấp ưu đãi theo nghề** = Mức tiền phụ cấp ưu đãi theo nghề hằng tháng / 22 ngày (số ngày làm việc tiêu chuẩn trong 01 tháng) x (22 ngày - số ngày không được tính hưởng phụ cấp ưu đãi theo nghề trong tháng)
 
 **Điều 6. Thời gian không được tính hưởng phụ cấp ưu đãi theo nghề**
 
@@ -306,7 +306,11 @@ Văn bản được số hóa bằng **Signed PDF OCR Pipeline** (HEARTBEAT.md m
 
 ### Lưu ý về Điều 5 (Cách tính)
 
-Công thức tính phụ cấp trong OCR có phần scramble ở phần tử số. Nội dung chính xác: `Mức tiền = (Hệ số lương + Phụ cấp chức vụ + Phụ cấp thâm niên vượt khung + Chênh lệch bảo lưu) x Lương cơ sở x Tỷ lệ phụ cấp ưu đãi`. Vui lòng đối chiếu với PDF gốc nếu cần công thức chính xác.
+Công thức tính phụ cấp đã được bổ sung đầy đủ từ PDF chính thức:
+- Công thức tính hằng tháng: **(Hệ số lương + Phụ cấp chức vụ + Phụ cấp thâm niên vượt khung + Chênh lệch bảo lưu) x Lương cơ sở x Tỷ lệ phụ cấp ưu đãi**
+- Công thức tính theo ngày: **= Mức tiền hằng tháng / 22 ngày x (22 - số ngày không tính hưởng)**
+
+Vui lòng đối chiếu với PDF gốc nếu cần công thức chính xác.
 
 ### Mốc thời gian
 
