@@ -159,7 +159,7 @@ Quy định chi tiết về:
 
 ### Điều 23. Sửa đổi, bổ sung Điều 85
 
-- Đơn vị gửi hồ sơ đến cơ quan quản lý nhà ở cấp_province (không gửi qua Bộ Xây dựng)
+- Đơn vị gửi hồ sơ đến cơ quan quản lý nhà ở cấp tỉnh (không gửi qua Bộ Xây dựng)
 
 ### Điều 24. Bổ sung Điều 86a - Giá dịch vụ nhà chung cư
 
