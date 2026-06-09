@@ -5,7 +5,7 @@ date: 2026-04-12
 doc_type: "Nghị quyết"
 doc_number: "19/2026/QH16"
 issuing_body: "Quốc hội"
-signer: "Tran Thanh Man"
+signer: "Trần Thanh Mẫn"
 effective_date: "2026-04-16"
 expiry_date: "2026-06-30"
 status: "Hiệu lực"
@@ -108,7 +108,7 @@ Nghị quyết này được Quốc hội nước Cộng hòa xã hội chủ ng
 - **Ưu tiên áp dụng:** Khi có sự khác biệt giữa Nghị quyết này với các văn bản quy phạm pháp luật khác về cùng lĩnh vực thuế, thực hiện theo Nghị quyết này.
 - **Nguồn PDF:** Bản scanned (HP Scan), 2 trang, PDF 1.7, 720KB. Không có chữ ký số CAdES-BES. Đã OCR bằng tesseract -l vie (pdftoppm -r 300). CrossRef với bản text từ thuvienphapluat.vn và binhthanhtax.gov.vn để xác minh nội dung.
 - **Phạm vi áp dụng:** Nghị quyết áp dụng cho xăng (trừ etanol), dầu diezel, dầu hỏa, dầu mazut và nhiên liệu bay. Etanol và các loại nhiên liệu khác không nằm trong phạm vi.
-- **Liên quan:** Nghị quyết nàythuộc về giải pháp ứng phó với biến động giá xăng dầu thế giới, giảm chi phí nhiên liệu cho doanh nghiệp, vận tải và sản xuất. Xem thêm Công điện 09/CĐ-CT (hỏa tốc) triển khai Nghị quyết 19/2026/QH16.
+- **Liên quan:** Nghị quyết này thuộc về giải pháp ứng phó với biến động giá xăng dầu thế giới, giảm chi phí nhiên liệu cho doanh nghiệp, vận tải và sản xuất. Xem thêm Công điện 09/CĐ-CT (hỏa tốc) triển khai Nghị quyết 19/2026/QH16.
 
 ---
 

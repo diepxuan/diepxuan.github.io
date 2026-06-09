@@ -29,7 +29,7 @@ lastedit: 2026-06-07
 
 - Luật Tổ chức Chính phủ số 63/2025/QH15;
 - Luật Tổ chức chính quyền địa phương số 72/2025/QH15;
-- Luật Bảo hiểm xã hội số 41/2024/QH15 được sửa đổi, bổ sung bởi Luật số 73/2025/QH15, Luật số 84/2025/QH15, Luật số 13/2025/QH15 và Luật số 142/2025/QH15;
+- Luật Bảo hiểm xã hội số 41/2024/QH15 được sửa đổi, bổ sung bởi Luật số 73/2025/QH15, Luật số 84/2025/QH15, Luật số 113/2025/QH15 và Luật số 142/2025/QH15;
 - Luật An toàn, vệ sinh lao động số 84/2015/QH13 được sửa đổi, bổ sung bởi Luật số 41/2024/QH15;
 - Nghị quyết số 245/2025/QH15 của Quốc hội về dự toán ngân sách nhà nước năm 2026;
 - Nghị quyết số 265/2025/QH15 của Quốc hội về Nghị quyết kỳ họp thứ 10, Quốc hội khoá XV;
@@ -75,7 +75,7 @@ Nghị định 162/2026/NĐ-CP điều chỉnh mức lương hưu, trợ cấp b
 
 *Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;*
 
-*Căn cứ Luật Bảo hiểm xã hội số 41/2024/QH15 được sửa đổi, bổ sung bởi Luật số 73/2025/QH15, Luật số 84/2025/QH15, Luật số 13/2025/QH15 và Luật số 142/2025/QH15;*
+*Căn cứ Luật Bảo hiểm xã hội số 41/2024/QH15 được sửa đổi, bổ sung bởi Luật số 73/2025/QH15, Luật số 84/2025/QH15, Luật số 113/2025/QH15 và Luật số 142/2025/QH15;*
 
 *Căn cứ Luật An toàn, vệ sinh lao động số 84/2015/QH13 được sửa đổi, bổ sung bởi Luật số 41/2024/QH15;*
 

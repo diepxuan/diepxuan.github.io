@@ -203,9 +203,9 @@ Xét tuyển nhà giáo được thực hiện theo 02 vòng như sau:
 - a) Nhà giáo thuộc danh sách biên chế dôi dư khi thực hiện sắp xếp lại cơ sở giáo dục hoặc do biến động về quy mô lớp học, môn học, ngành, nghề đào tạo;
 - b) Nhà giáo có nguyện vọng được điều động đến công tác tại vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn;
 - c) Nhà giáo đã hoàn thành thời gian được điều động đến công tác tại vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quyết định điều động của cơ quan có thẩm quyền;
-- đ) Nhà giáo có năng lực chuyên môn, nghiệp vụ tốt, có nhiều kinh nghiệm trong giảng dạy, giáo dục hoặc quản lý, có khả năng hỗ trợ nâng cao chất lượng cho cơ sở giáo dục hoặc hỗ trợ chuyên môn cho cơ quan quản lý giáo dục;
+- d) Nhà giáo có năng lực chuyên môn, nghiệp vụ tốt, có nhiều kinh nghiệm trong giảng dạy, giáo dục hoặc quản lý, có khả năng hỗ trợ nâng cao chất lượng cho cơ sở giáo dục hoặc hỗ trợ chuyên môn cho cơ quan quản lý giáo dục;
 - đ) Nhà giáo được quy hoạch hoặc bổ nhiệm chức vụ cán bộ quản lý cơ sở giáo dục được điều động nhằm bố trí, sắp xếp đội ngũ phù hợp với yêu cầu nhiệm vụ hoặc nhằm bảo đảm không giữ chức vụ quá thời gian theo quy định của pháp luật chuyên ngành;
-- e) Nhà giáo không thuộc đối tượng tại điểm a, b, c, đ và đ khoản này được cơ quan có thẩm quyền điều động có thời hạn để hỗ trợ các cơ sở giáo dục đang thiếu nhà giáo hoặc đáp ứng yêu cầu, nhiệm vụ chuyên môn của cơ quan quản lý giáo dục.
+- e) Nhà giáo không thuộc đối tượng tại điểm a, b, c, d và đ khoản này được cơ quan có thẩm quyền điều động có thời hạn để hỗ trợ các cơ sở giáo dục đang thiếu nhà giáo hoặc đáp ứng yêu cầu, nhiệm vụ chuyên môn của cơ quan quản lý giáo dục.
 
 **3. Chế độ, chính sách đối với nhà giáo khi thực hiện điều động:**
 
@@ -295,7 +295,7 @@ Trường hợp hồ sơ nhà giáo quy định tại điểm này đã được
 - a) Người có tài năng theo quy định tại Điều 4 Nghị định số 179/2024/NĐ-CP ngày 31 tháng 12 năm 2024 của Chính phủ quy định về chính sách thu hút, trọng dụng người có tài năng làm việc trong cơ quan, tổ chức, đơn vị của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội;
 - b) Giáo sư, phó giáo sư hoặc người được công nhận đạt tiêu chuẩn chức danh giáo sư, phó giáo sư;
 - c) Người đạt thành tích cao cấp quốc gia, quốc tế trong các lĩnh vực văn hóa, nghệ thuật, thể dục thể thao, các ngành, nghề truyền thống;
-- đ) Là Nghệ nhân ưu tú, Nghệ sĩ ưu tú, Thầy thuốc ưu tú, Nghệ nhân nhân dân, Nghệ sĩ nhân dân, Thầy thuốc nhân dân; người có chứng chỉ kỹ năng nghề quốc gia bậc 4 trở lên hoặc có chứng nhận kỹ năng nghề xuất sắc, đạt giải nhất, nhì, ba, khuyến khích tại các kỳ thi, cuộc thi kỹ năng nghề khu vực, quốc tế;
+- d) Là Nghệ nhân ưu tú, Nghệ sĩ ưu tú, Thầy thuốc ưu tú, Nghệ nhân nhân dân, Nghệ sĩ nhân dân, Thầy thuốc nhân dân; người có chứng chỉ kỹ năng nghề quốc gia bậc 4 trở lên hoặc có chứng nhận kỹ năng nghề xuất sắc, đạt giải nhất, nhì, ba, khuyến khích tại các kỳ thi, cuộc thi kỹ năng nghề khu vực, quốc tế;
 - đ) Người đến làm việc tại vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn;
 - e) Nhà giáo làm nhiệm vụ giảng dạy, giáo dục, nghiên cứu khoa học trong một số lĩnh vực trọng yếu, thiết yếu theo nhu cầu phát triển kinh tế - xã hội;
 - g) Nhà giáo giảng dạy các ngành, nghề khó tuyển sinh nhưng xã hội có nhu cầu; các ngành, nghề đặc thù thuộc lĩnh vực nghệ thuật, thể thao, y tế, quốc phòng và an ninh.
@@ -320,7 +320,7 @@ Trường hợp hồ sơ nhà giáo quy định tại điểm này đã được
 - a) Thời gian nghỉ hè hằng năm của nhà giáo trong các cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, trường chuyên biệt là 08 tuần, bao gồm cả nghỉ phép hằng năm;
 - b) Thời gian nghỉ hè hằng năm của nhà giáo trong các cơ sở giáo dục thường xuyên tối thiểu là 04 tuần, tối đa là 08 tuần, bao gồm cả nghỉ phép hằng năm;
 - c) Thời gian nghỉ hè hằng năm của nhà giáo trong trường dự bị đại học là 08 tuần, bao gồm cả nghỉ phép hằng năm;
-- đ) Thời gian nghỉ hè hằng năm của nhà giáo giảng dạy chương trình giáo dục trung học nghề, giảng dạy trình độ trung cấp và giảng dạy trình độ cao đẳng là 06 tuần; của nhà giáo giảng dạy trình độ sơ cấp là 04 tuần, bao gồm cả nghỉ phép hằng năm;
+- d) Thời gian nghỉ hè hằng năm của nhà giáo giảng dạy chương trình giáo dục trung học nghề, giảng dạy trình độ trung cấp và giảng dạy trình độ cao đẳng là 06 tuần; của nhà giáo giảng dạy trình độ sơ cấp là 04 tuần, bao gồm cả nghỉ phép hằng năm;
 - đ) Thời gian nghỉ hè hằng năm của nhà giáo trong cơ sở giáo dục đại học, trường chính trị và các cơ sở đào tạo, bồi dưỡng được thực hiện theo quy chế tổ chức và hoạt động của cơ sở giáo dục;
 - e) Trong trường hợp đột xuất, khẩn cấp để phòng chống thiên tai, dịch bệnh hoặc trường hợp cấp bách, thời gian nghỉ hè của nhà giáo quy định tại điểm a, điểm b khoản này do Bộ trưởng Bộ Giáo dục và Đào tạo quyết định theo thẩm quyền; thời gian nghỉ hè của nhà giáo quy định tại điểm c, d, đ khoản này do người đứng đầu cơ sở giáo dục quyết định;
 - g) Trong thời gian nghỉ hè, nhà giáo được hưởng nguyên lương và phụ cấp theo quy định.

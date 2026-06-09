@@ -72,7 +72,7 @@ b) Thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực
 
 c) Trình tự cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm theo quy định tại khoản 2 Điều 36 Luật An toàn thực phẩm;
 
-đ) Trình tự, thủ tục và phương thức kiểm tra nhà nước về an toàn thực phẩm nhập khẩu quy định tại Điều 40 Luật An toàn thực phẩm;
+d) Trình tự, thủ tục và phương thức kiểm tra nhà nước về an toàn thực phẩm nhập khẩu quy định tại Điều 40 Luật An toàn thực phẩm;
 
 e) Quảng cáo, ghi nhãn thực phẩm quy định tại Chương VII Luật An toàn thực phẩm;
 
@@ -82,7 +82,7 @@ h) Bảo đảm an toàn thực phẩm trong kinh doanh và sử dụng phụ gi
 
 i) Kiểm nghiệm thực phẩm phục vụ quản lý nhà nước mục 1 Chương VIII Luật An toàn thực phẩm;
 
-j) Truy xuất nguồn gốc thực phẩm quy định tại mục 4 Chương VIII Luật An toàn thực phẩm.
+k) Truy xuất nguồn gốc thực phẩm quy định tại mục 4 Chương VIII Luật An toàn thực phẩm.
 
 ### Điều 2. Đối tượng áp dụng
 
@@ -187,7 +187,7 @@ b) Tên, địa chỉ của tổ chức, cá nhân được ủy quyền;
 
 c) Phạm vi ủy quyền (đứng tên công bố và cùng chịu trách nhiệm về tất cả những vấn đề có liên quan đến sản phẩm);
 
-đ) Tên sản phẩm được ủy quyền.
+d) Tên sản phẩm được ủy quyền.
 
 3. Người ủy quyền có trách nhiệm thông báo bằng văn bản tới cơ quan quản lý nhà nước có thẩm quyền trong trường hợp có thay đổi về các nội dung ủy quyền.
 

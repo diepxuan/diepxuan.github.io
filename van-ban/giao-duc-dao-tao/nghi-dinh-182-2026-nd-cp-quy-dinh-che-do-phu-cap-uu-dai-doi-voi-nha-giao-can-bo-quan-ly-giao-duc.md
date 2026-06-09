@@ -298,7 +298,6 @@ Văn bản được số hóa bằng **Signed PDF OCR Pipeline** (HEARTBEAT.md m
 | tróng các | trong các |
 | sô tiết | số tiết |
 | §. | Mức (số) |
-| (©), (đ) | (c), (d) (khoản a/b/c/d) |
 | bản (nhiều biến thể) | bản |
 | nghệ nghiệp | nghề nghiệp |
 | giáo đục | giáo dục |

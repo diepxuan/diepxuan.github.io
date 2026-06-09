@@ -546,7 +546,7 @@ Mức cho vay, thời hạn cho vay được quy định theo từng chương tr
 2. Lãi suất nợ quá hạn được tính bằng 130% lãi suất khi cho vay hoặc theo quy định của cấp có thẩm quyền theo từng chương trình, chính sách tín dụng.
 
 ### Mục 3
-### DỊCH VỤ THANH TOÁN, NGOẠI HÓA VÀ NGÂN QUỸ
+### DỊCH VỤ THANH TOÁN, NGOẠI HỐI VÀ NGÂN QUỸ
 
 ### Điều 33. Mở tài khoản
 

@@ -144,7 +144,7 @@ Quốc hội đã hoàn thành toàn bộ nội dung chương trình đề ra, b
 
 **Nội dung chính:**
 - Không quy định cứng ngưỡng doanh thu không phải nộp thuế TNCN và mức doanh thu không chịu thuế GTGT tại Luật
-- Giao Chính phủ căn cứu chỉ số kinh tế vĩ mô để quy định mức phù hợp
+- Giao Chính phủ căn cứ chỉ số kinh tế vĩ mô để quy định mức phù hợp
 - Kéo dài thời gian áp dụng thuế suất hiện hành đối với xe ô tô pin đến hết 2030
 - Khuyến khích, tạo động lực phát triển cho hộ, cá nhân kinh doanh và doanh nghiệp quy mô nhỏ
 

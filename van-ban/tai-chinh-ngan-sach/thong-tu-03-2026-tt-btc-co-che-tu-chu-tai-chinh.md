@@ -37,7 +37,7 @@ Căn cứ Luật Tổ chức chính phủ số 63/2025/QH15;
 
 Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;
 
-Căn cứ Luật Ngân sách nhà nước số 89/2025/QH13;
+Căn cứ Luật Ngân sách nhà nước số 89/2025/QH15;
 
 Căn cứ Nghị định số 29/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính đã được sửa đổi, bổ sung tại Nghị định số 166/2025/NĐ-CP;
 
