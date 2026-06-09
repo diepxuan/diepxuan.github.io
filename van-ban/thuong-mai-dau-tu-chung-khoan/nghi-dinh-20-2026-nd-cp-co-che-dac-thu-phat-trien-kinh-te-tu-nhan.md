@@ -339,7 +339,7 @@ Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan th
 
 ### Phụ lục
 
-Nghị định đính kèm 02 phụ lục:
+Nghị định đính kèm 03 phụ lục:
 
 - **Phụ lục I:** Văn bản đề nghị hoàn trả khoản hỗ trợ giảm tiền thuê lại đất (mẫu cho chủ đầu tư)
 - **Phụ lục II:** Giấy xác nhận thông tin của doanh nghiệp thuê lại đất tại khu công nghiệp, cụm công nghiệp, vườn ươm công nghệ (mẫu cho doanh nghiệp)
