@@ -68,10 +68,22 @@ Nghị định quy định chi tiết một số điều của Luật Giáo dụ
 ## Chương I: Quy định chung
 
 ### Điều 1. Phạm vi điều chỉnh
-Xem thông tin chi tiết ở trên.
+
+Nghị định này quy định chi tiết một số điều của Luật Giáo dục nghề nghiệp, bao gồm:
+
+1. Khoản 5 Điều 7 về đặt tên, đổi tên của cơ sở giáo dục nghề nghiệp, việc tổ chức dưới các tên gọi khác nhau của trường trung học nghề.
+
+2. Khoản 4 Điều 15 về điều kiện, thủ tục, thẩm quyền thành lập, cấp phép hoạt động, tổ chức tuyển sinh, đình chỉ hoạt động, giải thể phân hiệu của cơ sở giáo dục nghề nghiệp.
+
+3. Khoản 5 Điều 24 về chính sách khen thưởng, tôn vinh người dạy nghề đóng góp tiêu biểu trong giảng dạy, nghiên cứu, hướng dẫn thực hành và gắn kết đào tạo với doanh nghiệp.
+
+4. Khoản 5 Điều 41 về điều kiện, trình tự, thủ tục, thẩm quyền, cơ chế kiểm tra, giám sát đối với hoạt động hợp tác, liên kết đào tạo với nước ngoài.
 
 ### Điều 2. Đối tượng áp dụng
-Xem thông tin chi tiết ở trên.
+
+1. Nghị định này áp dụng đối với cơ sở giáo dục nghề nghiệp và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động giáo dục nghề nghiệp.
+
+2. Quy định về hợp tác, liên kết đào tạo với nước ngoài không áp dụng đối với cơ sở giáo dục nghề nghiệp của lực lượng vũ trang nhân dân.
 
 ---
 
