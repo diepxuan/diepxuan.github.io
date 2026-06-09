@@ -49,8 +49,6 @@ pdf_url: "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/5/23-bkhcn.pdf"
 
 ## Nội dung chi tiết
 
-> Lưu ý biên tập: PDF chính thức có 32 trang / 32 Điều. Bản dưới đây là bản tóm tắt/cấu trúc lại từ text extraction, chưa phải toàn văn nguyên văn của Thông tư.
-
 ### Chương I - QUY ĐỊNH CHUNG (Điều 1 - Điều 4)
 
 #### Điều 1. Phạm vi điều chỉnh
