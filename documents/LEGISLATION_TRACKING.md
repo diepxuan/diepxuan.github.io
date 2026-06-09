@@ -429,3 +429,38 @@ Tất cả 5 văn bản đều không có trong `LEGISLATION_TRACKING.md` (đã 
 
 - Hoàn thiện `van-ban/khoa-hoc-cong-nghe/thong-tu-23-2026-tt-bkhcns-kinh-phi-tieu-chuan-quy-chuan.md` (Thông tư 23/2026/TT-BKHCN — quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước lĩnh vực KHCN&ĐMST&CDS cho hoạt động tiêu chuẩn, quy chuẩn kỹ thuật): metadata chính thức từ vanban.chinhphu.vn docid 218278, PDF 32 trang / 32 Điều; file hiện là bản tóm tắt/cấu trúc lại, chưa phải toàn văn nguyên văn.
 - Phiên thực hiện: agent:github-io:subagent:bca2d895-588b-4957-9c1a-260bd7334e86 (Đệ #3 Full Content Crawler)
+
+---
+
+# Cập nhật 2026-06-09 (phiên Đệ #1 Discovery — lần 6)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên lần 5): phát hiện 5 văn bản mới chưa từng được ghi nhận. Ưu tiên tác động rộng nhất:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 15/2026/TT-BYT | 17/05/2026 | Quy định chi tiết một số điều Luật Phòng bệnh — phân loại bệnh truyền nhiễm A/B/C, hệ thống thông tin giám sát, giám sát dựa vào sự kiện | Y tế | 218141 | **Chưa có** | URL: `https://chinhphu.vn/?pageid=27160&docid=218141&classid=1&typegroupid=6`; hiệu lực 01/07/2026; Bộ trưởng Đào Hồng Lan ký; 432 dòng; chuyển đổi mô hình từ "chữa bệnh" sang "phòng bệnh chủ động"; bổ sung NĐ 165/2026/NĐ-CP đã có |
+| 193/2026/NĐ-CP | 01/06/2026 | Quy định quyết toán vốn đầu tư dự án — thay thế quy định cũ, điều chỉnh cơ chế quyết toán cho dự án đầu tư công | Đầu tư | — | **Chưa có** | Cần xác minh docid trên vanban.chinhphu.vn; hiệu lực 01/07/2026; liên quan trực tiếp 96/2026/NĐ-CP (Luật Đầu tư) đã có |
+| 07/2026/TT-NHNN | 06/05/2026 | Sửa đổi, bổ sung quy định về hoạt động môi giới tiền tệ của ngân hàng thương mại và chi nhánh ngân hàng nước ngoài | Ngân hàng | — | **Chưa có** | Hiệu lực 20/06/2026; tác động toàn bộ hệ thống NHTM; cần xác minh docid |
+| 18/2026/TT-BTC | 2026 | Quy định gửi mẫu số 01/BK-STK (tài khoản ngân hàng) để kê khai thuế, hỗ trợ hộ kinh doanh và tổ chức tín dụng | Tài chính / Thuế | — | **Chưa có** | Cần xác minh ngày ban hành và docid; liên quan NĐ 141/2026/NĐ-CP và 68/2026/NĐ-CP đã có |
+| 982/QĐ-TTg | 04/06/2026 | Phê duyệt Đề án hỗ trợ, phát triển doanh nghiệp công nghệ số vươn ra toàn cầu đến năm 2030, tầm nhìn đến 2045 | KHCN / Công nghệ số | — | **Chưa có** | QĐ Thủ tướng; tác động chiến lược ngành CN số; cần xác minh docid |
+
+### Văn bản phát hiện thêm (chờ phiên sau)
+
+- **29/2026/TT-BCT** (Năng lượng) — quy định vận hành thị trường bán buôn điện cạnh tranh, BESS
+- **30/2026/TT-BKHCN** (KHCN / An ninh) — Danh mục và kiểm soát hàng hóa lưỡng dụng
+- **37/2026/TT-BCA** (Giao thông) — đăng ký xe VNeID, tích hợp dữ liệu chứng nhận đăng ký xe
+- **08/2026/TT-BKHCN** (Viễn thông) — xác thực sinh trắc học ảnh khuôn mặt khi thuê bao đổi thiết bị
+- **141/NQ-CP** (Thương mại) — Chính sách sửa Luật Thương mại, Cạnh tranh, QLNT, BVNL người tiêu dùng
+- **28/2026/TT-BCA** (An ninh) — phát ngôn và cung cấp thông tin cho báo chí của CAND
+
+## Ghi chú xử lý
+
+- 5 văn bản mới sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **15/2026/TT-BYT** (Y tế — Luật Phòng bệnh; đã có docid chính thức 218141; hiệu lực 01/07/2026).
+- Thứ hai: **193/2026/NĐ-CP** (Đầu tư — quyết toán vốn đầu tư; hiệu lực 01/07/2026).
+- Thứ ba: **07/2026/TT-NHNN** (Ngân hàng — môi giới tiền tệ; hiệu lực 20/06/2026 — sớm nhất).
+- Nguồn: Web search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, cafef.vn, baophapluat.vn, vietnamplus.vn.
+- Ngày phát hiện: 2026-06-09 08:55 ICT
+- Phiên thực hiện: agent:github-io:subagent:913503df-75c0-4c00-8359-f4962742e8e0 (Đệ #1 Discovery 2026-06-09 lần 6)
