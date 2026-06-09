@@ -2,7 +2,7 @@
 layout: page
 title: "Nghị định 182/2026/NĐ-CP quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý giáo dục và nhân sự hỗ trợ giáo dục"
 permalink: /van-ban/giao-duc-dao-tao/nghi-dinh-182-2026/
-lastedit: 2026-06-08
+lastedit: 2026-06-09
 ---
 
 # Nghị định 182/2026/NĐ-CP quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý giáo dục và nhân sự hỗ trợ giáo dục
