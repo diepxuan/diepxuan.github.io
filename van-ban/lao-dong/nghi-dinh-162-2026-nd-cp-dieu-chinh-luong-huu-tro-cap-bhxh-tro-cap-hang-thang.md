@@ -58,7 +58,7 @@ Nghị định 162/2026/NĐ-CP điều chỉnh mức lương hưu, trợ cấp b
 4. **Phân bổ nguồn kinh phí rõ ràng** (Điều 3): Ngân sách nhà nước bảo đảm cho người hưởng BHXH trước 01/01/1995 và một số nhóm đặc thù; Quỹ BHXH bảo đảm cho người tham gia BHXH từ 01/01/1995 trở đi.
 5. **Cơ chế phối hợp liên bộ** (Điều 4): Bộ Nội vụ hướng dẫn chi tiết đối tượng điều chỉnh thuộc khối hành chính - xã hội; Bộ Quốc phòng, Bộ Công an hướng dẫn cho đối tượng thuộc lực lượng vũ trang; Bộ Tài chính chỉ đạo BHXH Việt Nam tổ chức chi trả; UBND cấp tỉnh chịu trách nhiệm tổ chức thực hiện tại địa phương.
 
-**Bối cảnh:** Nghị định 162/2026/NĐ-CP thay thế Nghị định 75/2024/NĐ-CP (lần điều chỉnh trước đó với mức tăng 15% từ 01/7/2024). So với chu kỳ điều chỉnh trước (8% từ 01/7/2024 cùng với mức lương cơ sở 2.340.000 đồng), lần này mức tăng 8% kết hợp với mức lương cơ sở mới 2.530.000 đồng (Nghị định 161/2026/NĐ-CP) tạo sức mua thực tế tăng đáng kể cho nhóm hưởng lương hưu, trợ cấp BHXH, trợ cấp hằng tháng.
+**Bối cảnh:** Nghị định 162/2026/NĐ-CP thay thế Nghị định 75/2024/NĐ-CP (lần điều chỉnh trước đó với mức tăng 15% từ 01/7/2024). Lần điều chỉnh này kết hợp mức tăng 8% với mức lương cơ sở mới 2.530.000 đồng (Nghị định 161/2026/NĐ-CP), tạo sức mua thực tế tăng đáng kể cho nhóm hưởng lương hưu, trợ cấp BHXH, trợ cấp hằng tháng.
 
 ---
 

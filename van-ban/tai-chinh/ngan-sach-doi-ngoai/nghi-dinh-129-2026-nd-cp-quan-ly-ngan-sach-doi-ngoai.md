@@ -11,11 +11,11 @@ ngay_ban_hanh: 2026-04-06
 ngay_hieu_luc: 2026-04-06
 nguoi_ky: "Hồ Đức Phớc"
 trich_yeu: "Quy định về quản lý, sử dụng ngân sách nhà nước đối với một số hoạt động đối ngoại"
-source: "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Nghi-dinh-129-2026-ND-CP-quan-ly-su-dung-ngan-sach-Nha-nuoc-mot-so-hoat-dong-doi-ngoai-700619.aspx"
+source: "https://vanban.chinhphu.vn/?docid=217584&pageid=27160"
 lastedit: 2026-06-08
 ---
 
-> **Phương pháp crawl:** PDF có chữ ký số CAdES-BES từ `datafiles.chinhphu.vn` đã được OCR bằng pipeline `pdftoppm -r 200` + `tesseract -l vie` (chạy tuần tự). Nội dung dưới đây đã được đối chiếu với metadata từ vanban.chinhphu.vn và thuvienphapluat.vn.
+> **Phương pháp crawl:** PDF có chữ ký số CAdES-BES từ `datafiles.chinhphu.vn` đã được OCR bằng pipeline `pdftoppm -r 200` + `tesseract -l vie` (chạy tuần tự). Nội dung dưới đây đã được đối chiếu với nguồn chính thức từ vanban.chinhphu.vn và PDF đính kèm trên datafiles.chinhphu.vn; thuvienphapluat.vn chỉ dùng làm nguồn tham khảo phụ.
 
 ## THÔNG TIN VĂN BẢN
 
@@ -31,6 +31,9 @@ lastedit: 2026-06-08
 | **Trích yếu** | Quy định về quản lý, sử dụng ngân sách nhà nước đối với một số hoạt động đối ngoại |
 | **Lĩnh vực** | Tài chính nhà nước — Ngân sách nhà nước — Đối ngoại |
 | **Chữ ký số** | CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ (E=thongtinchinhphu@chinhphu.vn), ký ngày 08/04/2026 16:24:35 +07:00 |
+| **Nguồn chính thức** | https://vanban.chinhphu.vn/?docid=217584&pageid=27160 |
+| **Tệp đính kèm** | https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/129-ndcp.signed.pdf |
+| **Nguồn tham khảo** | Thư Viện Pháp Luật |
 
 ### Căn cứ pháp lý
 

@@ -66,7 +66,7 @@ Nghị định 49/2026/NĐ-CP là văn bản **hướng dẫn chính** Nghị qu
 
 ---
 
-## NỘI DUNG TOÀN VĂN
+## NỘI DUNG CHI TIẾT
 
 **Số: 49/2026/NĐ-CP**
 **Hà Nội, ngày 31 tháng 01 năm 2026**
@@ -97,7 +97,7 @@ Nghị định 49/2026/NĐ-CP là văn bản **hướng dẫn chính** Nghị qu
 
 **1.** Nghị định này quy định:
 
-**a)** Quy định chi tiết và hướng dẫn một số điều của Nghị quyết số 254/2025/QH15, gồm: điểm b khoản 2, điểm c khoản 3, điểm d khoản 10, điểm d khoản 13 và khoản 14 Điều 3; khoản 11 Điều 4; khoản 8 Điều 7; khoản 3 Điều 8; khoản 4 Điều 9; khoản 4 và khoản 7 Điều 11; điểm b khoản 3 Điều 12;
+**a)** Quy định chi tiết và hướng dẫn một số điều của Nghị quyết số 254/2025/QH15, gồm: điểm b khoản 2, điểm c khoản 3, điểm d khoản 10, điểm đ khoản 13 và khoản 14 Điều 3; khoản 11 Điều 4; khoản 8 Điều 7; khoản 3 Điều 8; khoản 4 Điều 9; khoản 4 và khoản 7 Điều 11; điểm b khoản 3 Điều 12;
 
 **b)** Sửa đổi, bổ sung một số điều của các nghị định liên quan đến tổ chức thi hành Luật Đất đai;
 

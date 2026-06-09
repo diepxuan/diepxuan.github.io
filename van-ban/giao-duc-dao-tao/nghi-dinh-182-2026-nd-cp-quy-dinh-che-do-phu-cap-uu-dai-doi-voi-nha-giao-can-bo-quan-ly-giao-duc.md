@@ -15,10 +15,10 @@ lastedit: 2026-06-09
 | **Loại văn bản** | Nghị định |
 | **Cơ quan ban hành** | Chính phủ |
 | **Nơi ban hành** | Hà Nội |
-| **Người ký** | Thủ tướng Chính phủ (Phó Thủ tướng ký thay, theo chế độ) |
+| **Người ký** | Phạm Thị Thanh Trà (Phó Thủ tướng Chính phủ ký thay Thủ tướng) |
 | **Ngày ban hành** | 22/05/2026 |
 | **Ngày có hiệu lực** | 07/07/2026 (các mức phụ cấp áp dụng từ 01/01/2026) |
-| **Số trang** | 4 trang |
+| **Số trang** | 9 trang |
 | **Trạng thái** | Sắp có hiệu lực |
 | **Nguồn tham chiếu** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218228) |
 | **PDF gốc** | [182-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/5/182-ndcp.signed.pdf) (PDF chữ ký số CAdES-BES, đã OCR) |

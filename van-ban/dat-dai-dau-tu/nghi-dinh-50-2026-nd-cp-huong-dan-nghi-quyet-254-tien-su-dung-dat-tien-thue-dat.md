@@ -150,7 +150,7 @@ Trường hợp giá đất tính tiền thuê đất là giá đất cụ thể
 
 #### Điều 5. Tính tiền sử dụng đất, tiền thuê đất đối với trường hợp sử dụng đất quy định tại điểm b khoản 2 và điểm đ khoản 13 Điều 3 Nghị quyết số 254/2025/QH15
 
-Trường hợp sử dụng đất quy định tại điểm a khoản 3 và điểm d khoản 13 Điều 3 Nghị quyết số 254/2025/QH15 và được cơ quan nhà nước có thẩm quyền giao đất, cho thuê đất hoặc cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư mà có phần diện tích đất được Nhà nước thu hồi và giao cho người sử dụng đất để thực hiện dự án thì tính tiền sử dụng đất, tiền thuê đất theo quy định tại khoản 4 Điều 7, khoản 3 Điều 34 Nghị định số 103/2024/NĐ-CP; trong đó, tiền sử dụng đất, tiền thuê đất của loại đất sau khi chuyển mục đích sử dụng đất và tiền sử dụng đất, tiền thuê đất của loại đất trước khi chuyển mục đích sử dụng đất (sau đây gọi là **tiền đất trước khi chuyển mục đích sử dụng đất**) được tính trên toàn bộ diện tích đất của dự án (bao gồm diện tích đất do nhà đầu tư tự nhận thỏa thuận nhận chuyển nhượng và diện tích đất Nhà nước thu hồi và giao cho nhà đầu tư, phần diện tích đất khác (nếu có)).
+Trường hợp sử dụng đất quy định tại điểm a khoản 3 và điểm đ khoản 13 Điều 3 Nghị quyết số 254/2025/QH15 và được cơ quan nhà nước có thẩm quyền giao đất, cho thuê đất hoặc cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư mà có phần diện tích đất được Nhà nước thu hồi và giao cho người sử dụng đất để thực hiện dự án thì tính tiền sử dụng đất, tiền thuê đất theo quy định tại khoản 4 Điều 7, khoản 3 Điều 34 Nghị định số 103/2024/NĐ-CP; trong đó, tiền sử dụng đất, tiền thuê đất của loại đất sau khi chuyển mục đích sử dụng đất và tiền sử dụng đất, tiền thuê đất của loại đất trước khi chuyển mục đích sử dụng đất (sau đây gọi là **tiền đất trước khi chuyển mục đích sử dụng đất**) được tính trên toàn bộ diện tích đất của dự án (bao gồm diện tích đất do nhà đầu tư tự nhận thỏa thuận nhận chuyển nhượng và diện tích đất Nhà nước thu hồi và giao cho nhà đầu tư, phần diện tích đất khác (nếu có)).
 
 Đối với diện tích đất Nhà nước thu hồi và giao cho nhà đầu tư thì tiền đất trước khi chuyển mục đích sử dụng đất của diện tích đất Nhà nước thu hồi là chi phí bồi thường, hỗ trợ và tái định cư theo phương án được cơ quan nhà nước có thẩm quyền phê duyệt theo quy định của pháp luật. Đối với phần diện tích đất khác mà nhà đầu tư được giao đất, cho thuê đất theo pháp luật đất đai (nếu có) thì tiền đất trước khi chuyển mục đích sử dụng đất bằng không (=0).
 
@@ -364,7 +364,7 @@ Trường hợp Ủy ban nhân dân cấp tỉnh quyết định việc áp dụ
 
 **d)** Bổ sung khoản 5 như sau:
 
-> **"5.** Trường hợp sử dụng đất quy định tại điểm a khoản 3 và điểm d khoản 13 Điều 3 Nghị quyết số 254/2025/QH15 và được cơ quan nhà nước có thẩm quyền giao đất có thu tiền sử dụng đất hoặc cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư mà có phần diện tích đất được Nhà nước thu hồi và giao cho người sử dụng đất để thực hiện dự án thì tính tiền sử dụng đất theo quy định tại Điều 5 Nghị định của Chính phủ quy định chi tiết một số điều của Nghị quyết số 254/2025/QH15 ngày 11 tháng 12 năm 2025 của Quốc hội quy định một số cơ chế, chính sách tháo gỡ khó khăn, vướng mắc trong tổ chức thi hành Luật Đất đai về tiền sử dụng đất, tiền thuê đất."
+> **"5.** Trường hợp sử dụng đất quy định tại điểm a khoản 3 và điểm đ khoản 13 Điều 3 Nghị quyết số 254/2025/QH15 và được cơ quan nhà nước có thẩm quyền giao đất có thu tiền sử dụng đất hoặc cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư mà có phần diện tích đất được Nhà nước thu hồi và giao cho người sử dụng đất để thực hiện dự án thì tính tiền sử dụng đất theo quy định tại Điều 5 Nghị định của Chính phủ quy định chi tiết một số điều của Nghị quyết số 254/2025/QH15 ngày 11 tháng 12 năm 2025 của Quốc hội quy định một số cơ chế, chính sách tháo gỡ khó khăn, vướng mắc trong tổ chức thi hành Luật Đất đai về tiền sử dụng đất, tiền thuê đất."
 
 **4.** Sửa đổi, bổ sung Điều 8 như sau:
 
@@ -463,7 +463,7 @@ Trường hợp Ủy ban nhân dân cấp tỉnh quyết định việc áp dụ
 
 **15.** Bổ sung khoản 4a vào Điều 34 như sau:
 
-> **"4a.** Trường hợp sử dụng đất quy định tại điểm a khoản 3 và điểm d khoản 13 Điều 3 Nghị quyết số 254/2025/QH15 và được cơ quan nhà nước có thẩm quyền cho thuê đất hoặc cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư mà có phần diện tích đất được Nhà nước thu hồi và giao cho người sử dụng đất để thực hiện dự án thì tính tiền thuê đất theo quy định tại Điều 5 Nghị định của Chính phủ về quy định chi tiết một số điều của Nghị quyết số 254/2025/QH15 ngày 11 tháng 12 năm 2025 của Quốc hội quy định một số cơ chế, chính sách tháo gỡ khó khăn, vướng mắc trong tổ chức thi hành Luật Đất đai về tiền sử dụng đất, tiền thuê đất."
+> **"4a.** Trường hợp sử dụng đất quy định tại điểm a khoản 3 và điểm đ khoản 13 Điều 3 Nghị quyết số 254/2025/QH15 và được cơ quan nhà nước có thẩm quyền cho thuê đất hoặc cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư mà có phần diện tích đất được Nhà nước thu hồi và giao cho người sử dụng đất để thực hiện dự án thì tính tiền thuê đất theo quy định tại Điều 5 Nghị định của Chính phủ về quy định chi tiết một số điều của Nghị quyết số 254/2025/QH15 ngày 11 tháng 12 năm 2025 của Quốc hội quy định một số cơ chế, chính sách tháo gỡ khó khăn, vướng mắc trong tổ chức thi hành Luật Đất đai về tiền sử dụng đất, tiền thuê đất."
 
 **16.** Sửa đổi, bổ sung điểm a khoản 2 Điều 37 như sau:
 
@@ -527,7 +527,7 @@ Thay thế cụm từ "Ủy ban nhân dân cấp xã" tại khoản 2 Điều 52
 
 **b)** Bỏ cụm từ ", dịch vụ phi hàng không" tại điểm a khoản 1 Điều 40 Nghị định số 103/2024/NĐ-CP.
 
-*(Đoạn 24 chi tiết: Thay thế và bãi bỏ một số từ, cụm từ trong các Điều 10, 11, 12, 40, 52 của Nghị định số 103/2024/NĐ-CP. Nội dung cụ thể của từng thay thế xem tại bản gốc PDF khoản 24, trang 29.)*
+*Ghi chú biên tập: khoản 24 Điều 13 thay thế và bãi bỏ một số từ, cụm từ trong các Điều 10, 11, 12, 40, 52 của Nghị định số 103/2024/NĐ-CP. Phần này đang được trình bày dạng tóm tắt, cần đối chiếu PDF chính thức khi dùng làm căn cứ pháp lý đầy đủ.*
 
 #### Điều 14. Điều khoản thi hành
 
