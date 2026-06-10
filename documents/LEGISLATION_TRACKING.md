@@ -587,6 +587,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên lần 8): phá
 - Phiên thực hiện: agent:github-io:subagent:adde4100-4ad0-4547-8fd2-3c04cc7147e3 (Đệ #1 Discovery 2026-06-09 lần 9)
 
 | 12/2026/TT-BTC | 10/02/2026 | Quy định trình tự, thủ tục giám định chi phí KCB BHYT, biểu mẫu thanh toán, quyết toán và biện pháp thi hành NĐ 188/2025/NĐ-CP hướng dẫn Luật BHYT | Y tế / Bảo hiểm | **Đã có** | `van-ban/y-te-duoc/thong-tu-12-2026-tt-btc-giam-dinh-chi-phi-kcb-bhyt.md`; heartbeat 2026-06-10; web content only (PDF not found on datafiles) |
+| 49/2026/NĐ-CP | 31/01/2026 | Chi tiết và hướng dẫn NQ 254/2025/QH15 về bồi thường, hỗ trợ, tái định cư, thu hồi đất; sửa đổi NĐ 88, 101, 102/2024/NĐ-CP; phân cấp đất đai; 22 Điều, 5 Chương | Đất đai | **Đã có** | `van-ban/dat-dai/nghi-dinh-49-2026-nd-cp-huong-dan-nq-254-dat-dai.md`; heartbeat 2026-06-10; PDF Word; 1261 dòng; 1190 dòng Markdown |
 | 50/2026/NĐ-CP | 31/01/2026 | Quy định chi tiết NQ 254/2025/QH15 về tiền sử dụng đất, tiền thuê đất — căn cứ tính, chuyển mục đích, miễn giảm, xử lý chuyển tiếp | Đất đai | **Đã có** | `van-ban/dat-dai/nghi-dinh-50-2026-nd-cp-tien-su-dung-dat-tien-thue-dat.md`; heartbeat 2026-06-10; PDF Word 30 trang; 1395 dòng; 14 Điều, 3 Chương |
 
 ---
