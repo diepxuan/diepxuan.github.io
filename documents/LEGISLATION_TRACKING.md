@@ -129,7 +129,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-07) và `van-
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---|---|
 | 13/2026/TT-BNV | 29/05/2026 | Hướng dẫn thực hiện mức lương cơ sở 2.530.000 đ/tháng đối với 9 nhóm đối tượng hưởng lương, phụ cấp trong cơ quan, tổ chức, đơn vị sự nghiệp công lập của Đảng, Nhà nước, Mặt trận Tổ quốc, tổ chức chính trị - xã hội (hiệu lực 01/7/2026) | Lao động / Tiền lương | Đã có | `van-ban/lao-dong/thong-tu-13-2026-tt-bnv-huong-dan-luong-co-so.md`; heartbeat 2026-06-08; pdftotext 5 trang |
-| 91/2026/NĐ-CP | 2026 | Quy định chi tiết một số điều của Luật Giáo dục đại học (sửa đổi 2026) | Giáo dục | Đã có | `van-ban/giao-duc-dao-tao/nghi-dinh-91-2026-nd-cp-chi-tiet-luat-giao-duc-dai-hoc.md`; heartbeat 2026-06-08; OCR PDF 24 trang CAdES-BES |
+| 91/2026/NĐ-CP | 2026 | Chi tiết Luật GD đại học 2026 | Giáo dục | 217408 | **Đã có** | `van-ban/giao-duc-dao-tao/nghi-dinh-91-2026-nd-cp-chi-tiet-luat-giao-duc-dai-hoc.md`; 254 dòng, 18KB; 15 Điều + phụ lục. **05/30 ICT: Đệ #3 xác nhận file hoàn chỉnh.** |
 | 14/2026/TT-BNV | 29/05/2026 | Quy định chi tiết việc điều chỉnh lương hưu, trợ cấp BHXH và trợ cấp hằng tháng (hiệu lực 01/7/2026) | Lao động / BHXH | **Đã có** | `van-ban/lao-dong/thong-tu-14-2026-tt-bnv-dieu-chinh-luong-huu-tro-cap-bhxh.md`; heartbeat 2026-06-08; web scraping 5 Điều + phụ lục; thay thế TT 06/2023/TT-BLĐTBXH; tăng 8% + hỗ trợ nhóm thấp |
 | 105/2026/NĐ-CP | 31/03/2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Công đoàn về tài chính công đoàn | Lao động / Công đoàn | Đã có | `van-ban/lao-dong/nghi-dinh-105-2026-nd-cp-tai-chinh-cong-doan.md`; heartbeat 2026-06-08; OCR 16 trang CAdES-BES; 363 dòng, 6 Chương 18 Điều; thay thế NĐ 191/2013/NĐ-CP |
 | 03/2026/TT-BTC | 01/01/2026 | Sửa đổi, bổ sung TT 56/2022 về cơ chế tự chủ tài chính đơn vị sự nghiệp công lập | Tài chính | Đã có | `van-ban/tai-chinh-ngan-sach/thong-tu-03-2026-tt-btc-co-che-tu-chu-tai-chinh.md`; heartbeat 2026-06-08; OCR 4 trang; 140 dòng, 12 Điều; sửa TT 56/2022 |
@@ -662,7 +662,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-10): phát hi
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 203/2026/NĐ-CP | 08/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 37/2025/NĐ-CP về thuế thu nhập doanh nghiệp — miễn/giảm thuế TNDN cho thu nhập tái đầu tư, ưu đãi cho DN chuyển đổi công nghệ, tăng cường quản lý giá chuyển nhượng | Thuế / TNDN | — | **Chưa có** | Hiệu lực 20/6/2026; tác động rộng doanh nghiệp; cần xác minh docid trên vanban.chinhphu.vn |
+| 203/2026/NĐ-CP | 08/06/2026 | Sửa đổi NĐ 37/2025/NĐ-CP về thuế TNDN | Thuế / TNDN | — | **Chưa công bố** | **05/30 ICT 2026-06-11: Đệ #3 xác nhận KHÔNG tìm thấy. Web search 0 kết quả. Có thể chưa ban hành. Hiệu lực 20/6/2026 — chờ công bố.** |
 | 204/2026/NĐ-CP | 09/06/2026 | Quy định chi tiết về điều kiện cấp Giấy phép xây dựng và quản lý xây dựng công trình | Xây dựng / Phát triển đô thị | — | **Chưa có** | Cần xác minh docid; hiệu lực 01/08/2026; tác động toàn bộ hoạt động xây dựng |
 | 35/2026/TT-BKHCN | 27/05/2026 | Ban hành Tiêu chuẩn quốc gia về hệ thống quản lý an toàn thông tin theo ISO/IEC 27001:2022 — áp dụng cho tổ chức thuộc mọi quy mô và loại hình | Khoa học công nghệ / An ninh mạng | — | **Chưa có** | Hiệu lực 01/08/2026; cần xác minh docid; tác động toàn bộ tổ chức DN Việt Nam |
 | 42/2026/TT-BGDĐT | 25/05/2026 | Quy định chuẩn chương trình đào tạo ngành Sư phạm — tiêu chuẩn đầu ra, nội dung, phương pháp đào tạo, đánh giá cho giáo viên mầm non, tiểu học, trung học cơ sở, trung học phổ thông | Giáo dục / Nhà giáo | — | **Chưa có** | Hiệu lực 01/08/2026; tác động hệ thống sư phạm toàn quốc; cần xác minh docid |
@@ -684,8 +684,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-10): phát hi
 
 ## Đề xuất ưu tiên phiên tiếp theo
 
-1. **Thuế**: 203/2026/NĐ-CP (sửa đổi thuế TNDN — hiệu lực 20/6/2026; cần crawl sớm)
-2. **Xây dựng**: 204/2026/NĐ-CP (Giấy phép xây dựng — tác động toàn bộ xây dựng)
+1. **Xây dựng**: 204/2026/NĐ-CP (Giấy phép xây dựng — tác động toàn bộ xây dựng)
 3. **Khoa học công nghệ**: 35/2026/TT-BKHCN (ISO 27001:2022 — an ninh mạng toàn quốc)
 4. **Giáo dục**: 42/2026/TT-BGDĐT (Chuẩn SP — tác động hệ thống sư phạm)
 5. **Tài chính**: 44/2026/TT-BTC (phí kiểm tra hàng nhập khẩu — hiệu lực 01/7/2026)
