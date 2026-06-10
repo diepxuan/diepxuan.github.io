@@ -19,21 +19,6 @@ pdf-goc: "[190-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/202
 lastedit: 2026-06-11
 trang-thai: Hoàn thiện
 ---
-
-Cơ quan: VẤN PHÒNG CHÍNH PHÙ
-
-Thời gian ký: 05.06.2026 16:57:22 +07:00 .. „7T 7rpr&)
-
-CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-——— Độc lập - Tự do - Hạnh phúc
-
-Người ký: CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
-#. thongtinchinhphu@chinhphu.vn
-
-Số: 190/2026/NĐ-CP Hà Nội, ngày 29 tháng 5 năm 2026
-tông tron gi PHỦ ï
-
-NGHỊ ĐỊNH
 “Quy định chỉ tiết một số điều của Luật Tình trạng khẩn cấp
 
 Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;

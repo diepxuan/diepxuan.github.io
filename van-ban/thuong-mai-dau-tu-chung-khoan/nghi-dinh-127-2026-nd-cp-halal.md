@@ -26,19 +26,6 @@ pdf-goc: "[127-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/202
 lastedit: 2026-06-11
 trang-thai: Hoàn thiện
 ---
-
-Người ký: CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
-Email: thongtinchinhphu@2chinhphu.vn
-Cơ quan: VẤN PHONG CHÍNH PHU
-
-Thời gian ký: 08.04.2026 16:24:27 +07:00 T86 )
-
-CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
-
-Số: 127/2026/NĐ-CP Hà Nội, ngày 06 tháng 4 năm 2026
-
-NGHỊ ĐỊNH
 Quy định về quản lý chất lượng và chính sách
 phát triển sản phẩm, dịch vụ Halal
 
