@@ -5,9 +5,16 @@ date: 2026-04-24 00:00:00 +0700
 categories: [van-ban, da-nganh]
 tags: [nghi-quyet, quoc-hoi, ky-hop-thu-nhat, quoc-hoi-khoa-xvi, luat-thu-do, luat-tiep-can-thong-tin, luat-ho-tich, thue, cong-chung, tro-giup-phap-ly]
 permalink: /van-ban/da-nganh/nghi-quyet-31-2026-qh16-ky-hop-thu-nhat/
+so_hieu: 31/2026/QH16
+ngay_ban_hanh: 24/04/2026
+ngay_hieu_luc: 08/06/2026
+nguoi_ky: Trần Thanh Mẫn
+trich_yeu: Kỳ họp thứ Nhất, Quốc hội khóa XVI — thông qua 09 luật và 05 nghị quyết quy phạm pháp luật
+co_quan_ban_hanh: Quốc hội
+loai_van_ban: Nghị quyết
 description: Nghị quyết 31/2026/QH16 — Kỳ họp thứ Nhất, Quốc hội khóa XVI, thông qua 09 luật và 05 nghị quyết quy phạm pháp luật, có hiệu lực từ 01/07/2026.
 source: https://luatvietnam.vn/chinh-sach/nghi-quyet-31-2026-qh16-quy-dinh-moi-tu-quoc-hoi-khoa-xvi-co-hieu-luc-08-06-2026-434118-d1.html
-lastedit: 2026-06-09
+lastedit: 2026-06-10
 ---
 
 # Nghị quyết 31/2026/QH16 — Kỳ họp thứ Nhất, Quốc hội khóa XVI
