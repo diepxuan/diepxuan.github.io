@@ -581,3 +581,55 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên lần 8): phá
 - Nguồn: Web search Brave + Gemini tổng hợp vanban.chinhphu.vn, baochinhphu.vn, luatvietnam.vn, thanhtra.com.vn, xaydungchinhsach.chinhphu.vn.
 - Ngày phát hiện: 2026-06-09 10:00 ICT
 - Phiên thực hiện: agent:github-io:subagent:adde4100-4ad0-4547-8fd2-3c04cc7147e3 (Đệ #1 Discovery 2026-06-09 lần 9)
+
+---
+
+# Cập nhật 2026-06-11 (phiên Đệ #1 Discovery — 4 nhóm chủ đề ưu tiên)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+Quét 4 nhóm chủ đề: Hành chính-Tư pháp (154-160), Chống tham nhũng (164), Y tế (163), Giáo dục-Lao động (159). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-10): phát hiện 5 văn bản mới chưa từng được ghi nhận. Ưu tiên hiệu lực 01/7/2026.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 169/2026/NĐ-CP | 15/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực hải quan — phạt đến 80 triệu đồng vận chuyển hàng tạm ngừng xuất khẩu, phạt đến 50 triệu không khai báo ngoại tệ, vàng; thay thế NĐ 128/2020/NĐ-CP | Thuế / Hải quan | 218154 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218154`; hiệu lực 01/7/2026; thay thế NĐ 128/2020/NĐ-CP; đồng bộ với Luật Xử lý VPHA và Luật Quản lý thuế 108/2025/QH15 |
+| 158/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Tương trợ tư pháp về dân sự — thay thế NĐ 92/2008/NĐ-CP; quy trình, thủ tục tương trợ tư pháp giữa TAND các nước | Tư pháp / Tương trợ tư pháp | 218105 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218105`; hiệu lực 01/7/2026; thay thế NĐ 92/2008/NĐ-CP |
+| 159/2026/NĐ-CP | 15/05/2026 | Quy định về giảng viên đồng cơ hữu trong cơ sở giáo dục nghề nghiệp, đại học công lập — phải có trình độ tiến sĩ (ĐH công lập), thạc sĩ (cao đẳng); mỗi viên chức chỉ là giảng viên đồng cơ hữu của một cơ sở | Giáo dục / Lao động | 218164 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218164`; hiệu lực 01/7/2026; tác động hệ thống ĐH/cao đẳng công lập toàn quốc |
+| 163/2026/NĐ-CP | 15/05/2026 | Chi tiết Luật Phòng, chống ma túy — bổ sung giám sát điện tử đối với người cai nghiện tự nguyện tại gia đình, cộng đồng; thiết bị định vị do Bộ Công an trang cấp; thời hạn 01 năm | Y tế | 218256 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218256`; hiệu lực 01/7/2026 |
+| 164/2026/NĐ-CP | 15/05/2026 | Quy định kiểm soát tài sản, thu nhập của người có chức vụ — mở rộng đối tượng kê khai từ Trưởng phòng và tương đương; nâng ngưỡng tài sản phải kê khai từ 50 triệu lên 150 triệu đồng; kê khai không trung thực trên 20 tỷ → cách chức; thay thế NĐ 130/2020/NĐ-CP | Hành chính / Chống tham nhũng | 218184 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218184`; hiệu lực 01/7/2026; thay thế NĐ 130/2020/NĐ-CP |
+
+### Các văn bản phát hiện khác trong 4 nhóm (chờ phiên sau)
+
+- **154/2026/NĐ-CP** (Hành chính / Tư pháp) — chi tiết Luật Tiếp công dân; hiệu lực 01/7/2026; docid 218230 — đã có trong tracking (2026-06-10 cuối ngày)
+- **155/2026/NĐ-CP** (Hành chính / Tư pháp) — sửa đổi NĐ 124/2020 về Luật Khiếu nại; hiệu lực 01/7/2026; docid 218183 — đã có trong tracking
+- **156/2026/NĐ-CP** (Hành chính / Tư pháp) — sửa đổi NĐ 31/2019 về Luật Tố cáo; hiệu lực 01/7/2026; docid 218102 — đã có trong tracking
+- **160/2026/NĐ-CP** (Tư pháp / Thi hành án) — cơ sở dữ liệu thi hành án hình sự; hiệu lực 01/7/2026; docid 218108 — đã ghi nhận trong "phát hiện thêm" từ 2026-06-10 nhưng chưa tạo entry riêng; cần xác minh trạng thái trong phiên kế tiếp
+- **60/2026/TT-BTC** (Tài chính) — kinh phí ngân sách Chương trình mục tiêu quốc gia nông thôn mới, giảm nghèo — **KHÔNG TÌM THẤY** trên vanban.chinhphu.vn; search nhiều nguồn không có kết quả; có thể là phát hiện sai — ghi nhận "Chưa xác minh được" và loại khỏi tracking
+
+## Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-10)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|---|
+| 169/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 158/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 159/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 163/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 164/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+## Đề xuất ưu tiên phiên tiếp theo
+
+1. **Hành chính / Chống tham nhũng**: 164/2026/NĐ-CP — mở rộng kê khai tài sản từ Trưởng phòng, nâng ngưỡng 50→150 triệu, cách chức khi kê khai không trung thực >20 tỷ; tác động toàn bộ hệ thống công vụ; hiệu lực 01/7/2026.
+2. **Hành chính / Tư pháp**: 158/2026/NĐ-CP (Tương trợ tư pháp dân sự) — thay thế NĐ 92/2008; hiệu lực 01/7/2026.
+3. **Y tế**: 163/2026/NĐ-CP (Phòng chống ma túy — giám sát điện tử) — biện pháp giám sát mới bằng thiết bị định vị; hiệu lực 01/7/2026.
+4. **Giáo dục / Lao động**: 159/2026/NĐ-CP (Giảng viên đồng cơ hữu) — siết tiêu chuẩn tiến sĩ/thạc sĩ; tác động ĐH/cao đẳng công lập toàn quốc; hiệu lực 01/7/2026.
+5. **Thuế / Hải quan**: 169/2026/NĐ-CP — xử phạt hành chính hải quan mới; thay thế NĐ 128/2020; hiệu lực 01/7/2026.
+
+## Ghi chú xử lý
+
+- 5 văn bản mới trong bảng chính sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **164/2026/NĐ-CP** (Chống tham nhũng — kiểm soát tài sản; tác động hệ thống công vụ toàn quốc; hiệu lực 01/7/2026).
+- **169/2026/NĐ-CP** là văn bản THAY THẾ (không phải sửa đổi) — thay thế hoàn toàn NĐ 128/2020/NĐ-CP về xử phạt hành chính hải quan.
+- **60/2026/TT-BTC** (ghi nhận sai 2026-06-10 bổ sung lần 2): Không tìm thấy văn bản này trên vanban.chinhphu.vn sau nhiều lần search; ghi nhận "Chưa có" nhưng **loại khỏi tracking** vì không xác minh được tồn tại; nếu có văn bản về kinh phí NTM giai đoạn 2026-2035 thì đó là Thông tư 23/2026/TT-BNNMT (docid 218259) hoặc QĐ 16/2026/QĐ-TTg (docid 217834) — không phải 60/2026/TT-BTC.
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, chinhphu.vn.
+- Ngày phát hiện: 2026-06-11 04:03 ICT
+- Phiên thực hiện: agent:github-io:subagent:4263ddab-5de3-45be-84e3-e69fdb40b497 (Đệ #1 Discovery 2026-06-11)
