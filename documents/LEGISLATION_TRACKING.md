@@ -1,4 +1,39 @@
-# Cập nhật 2026-06-10 (phiên Đệ #1 Discovery — cuối ngày)
+## Cập nhật 2026-06-10 (phiên Đệ #1 Discovery — bổ sung lần 2)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét bổ sung các văn bản tháng 6/2026 qua web search + web_fetch vanban.chinhphu.vn. So sánh với documents/LEGISLATION_TRACKING.md (đến 2026-06-10 cuối ngày): phát hiện 3 văn bản mới chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 200/2026/NĐ-CP | 05/06/2026 | Quy định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước và chào bán trái phiếu doanh nghiệp ra thị trường quốc tế — doanh nghiệp tự vay tự trả, hạch toán riêng vốn huy động | Chứng khoán / Tài chính | 218389 | **Chưa có** | URL: https://vanban.chinhphu.vn/?pageid=27160&docid=218389; tác động thị trường trái phiếu doanh nghiệp |
+| 169/2026/NĐ-CP | 15/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực hải quan — phạt đến 80 triệu đồng vận chuyển hàng tạm ngừng xuất khẩu, phạt đến 50 triệu không khai báo ngoại tệ, vàng; thay thế NĐ 128/2020/NĐ-CP | Thuế / Hải quan | 218xxx | **Chưa có** | URL cần xác minh trên vanban.chinhphu.vn; hiệu lực 01/7/2026 |
+| 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026-2035 | Tài chính / Ngân sách | 218xxx | **Chưa có** | URL cần xác minh trên vanban.chinhphu.vn; hiệu lực 31/5/2026 |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-10)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|---|
+| 200/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 169/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 60/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Chứng khoán / Tài chính**: 200/2026/NĐ-CP — quy định mới về trái phiếu doanh nghiệp; tác động trực tiếp thị trường tài chính.
+2. **Hải quan**: 169/2026/NĐ-CP — xử phạt hành chính hải quan mới; hiệu lực 01/7/2026.
+3. **Tài chính / Ngân sách**: 60/2026/TT-BTC — hướng dẫn kinh phí Chương trình mục tiêu quốc gia.
+
+## Ghi chú xử lý
+
+- 3 văn bản mới sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **200/2026/NĐ-CP** (trái phiếu doanh nghiệp — tác động thị trường tài chính rộng).
+- 169/2026/NĐ-CP cùng đợt hiệu lực 01/7/2026 với nhóm 153-157.
+- Nguồn: web_search Brave + Gemini + web_fetch vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn.
+- Ngày phát hiện: 2026-06-10 21:30 ICT
+- Phiên thực hiện: agent:github-io:subagent bổ sung 2026-06-10
+
+---# Cập nhật 2026-06-10 (phiên Đệ #1 Discovery — cuối ngày)
 
 ## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
 
@@ -6,7 +41,7 @@ Quét toàn bộ dải NĐ-CP 151–202 từ vanban.chinhphu.vn + luatvietnam.vn
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 153/2026/NĐ-CP | 14/05/2026 | Sửa đổi, bổ sung NĐ 01/2015/NĐ-CP về phạm vi địa bàn hải quan và trách nhiệm phối hợp phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới | Hải quan / Thương mại | 218083 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218083`; hiệu lực 05/7/2026 |
+| 153/2026/NĐ-CP | 14/05/2026 | Sửa đổi, bổ sung NĐ 01/2015/NĐ-CP | Hải quan / Thương mại | 218083 | Đã có |** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218083`; hiệu lực 05/7/2026 |
 | 154/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tiếp công dân | Hành chính / Tư pháp | 218230 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218230`; hiệu lực 01/7/2026 |
 | 155/2026/NĐ-CP | 15/05/2026 | Sửa đổi, bổ sung NĐ 124/2020/NĐ-CP quy định chi tiết Luật Khiếu nại — bổ sung 7 trường hợp vụ việc khiếu nại phức tạp | Hành chính / Tư pháp | 218183 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218183`; hiệu lực 01/7/2026; bổ sung 155/2026 bổ sung NQ 27 |
 | 156/2026/NĐ-CP | 15/05/2026 | Sửa đổi, bổ sung NĐ 31/2019/NĐ-CP quy định chi tiết Luật Tố cáo — quy định hành vi vi phạm trong giải quyết tố cáo bị buộc thôi việc | Hành chính / Tư pháp | 218102 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218102`; hiệu lực 01/7/2026 |
@@ -26,7 +61,7 @@ Quét toàn bộ dải NĐ-CP 151–202 từ vanban.chinhphu.vn + luatvietnam.vn
 
 | Số hiệu | Trong tracking? | Trạng thái |
 |---|---|
-| 153/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 153/2026/NĐ-CP | 14/05/2026 | Sửa đổi, bổ sung NĐ 01/2015/NĐ-CP | Hải quan / Thương mại | 218083 | Đã có | |
 | 154/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 155/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 156/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
