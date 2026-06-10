@@ -633,3 +633,138 @@ Quét 4 nhóm chủ đề: Hành chính-Tư pháp (154-160), Chống tham nhũng
 - Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, chinhphu.vn.
 - Ngày phát hiện: 2026-06-11 04:03 ICT
 - Phiên thực hiện: agent:github-io:subagent:4263ddab-5de3-45be-84e3-e69fdb40b497 (Đệ #1 Discovery 2026-06-11)
+
+---
+
+# Cập nhật 2026-06-11 (phiên Đệ #1 Discovery)
+
+## Xác minh docid cho các văn bản đang chờ từ các phiên trước
+
+| Số hiệu | Docid đã xác nhận | URL | Ghi chú |
+|---|---:|---|---|
+| 85/2026/NĐ-CP | 217328 | `https://vanban.chinhphu.vn/?pageid=27160&docid=217328` | BH hưu trí bổ sung; hiệu lực 10/5/2026 |
+| 190/2026/NĐ-CP | 218309 | `https://vanban.chinhphu.vn/?pageid=27160&docid=218309` | Luật Tình trạng khẩn cấp; hiệu lực 13/7/2026 |
+| 196/2026/NĐ-CP | 218303 | `https://vanban.chinhphu.vn/?pageid=27160&docid=218303` | Văn phòng Chính phủ; hiệu lực 1/6/2026 |
+| 199/2026/NĐ-CP | 218364 | `https://vanban.chinhphu.vn/?pageid=27160&docid=218364` | Hỗ trợ lãnh đạo; hiệu lực 20/7/2026 |
+| 127/2026/NĐ-CP | 217552 | `https://vanban.chinhphu.vn/?pageid=27160&docid=217552` | Halal; hiệu lực 1/6/2026 |
+| 193/2026/NĐ-CP | 218345 | `https://vanban.chinhphu.vn/?pageid=27160&docid=218345` | Quyết toán vốn đầu tư; hiệu lực 1/7/2026 |
+| 202/2026/NĐ-CP | — | — | Sửa đổi NĐ 10/2022 về lệ phí trước bạ ô tô điện; hiệu lực 1/3/2027; vẫn chưa xác minh được URL trên vanban.chinhphu.vn — lưu ý ngày hiệu lực khác biệt |
+
+**141/2026/NQ-CP**: Không tìm thấy trên vanban.chinhphu.vn sau nhiều lần search. Có thể chưa được công bố chính thức hoặc đánh số khác. **Tạm ghi nhận "Chưa xác minh URL"**, tiếp tục theo dõi.
+
+**982/QĐ-TTg**: Không xác minh được URL trên vanban.chinhphu.vn; docid 218350 trên chinhphu.vn không xác định rõ văn bản. Cần bổ sung trong phiên kế tiếp.
+
+**28/2026/TT-BCT**: Không tìm thấy URL trên vanban.chinhphu.vn. Theo luatvietnam: hiệu lực 17/7/2026, danh mục hàng nhập khẩu ATTP.
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-10): phát hiện 5 văn bản mới chưa từng được ghi nhận. Ưu tiên tác động rộng nhất:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 203/2026/NĐ-CP | 08/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 37/2025/NĐ-CP về thuế thu nhập doanh nghiệp — miễn/giảm thuế TNDN cho thu nhập tái đầu tư, ưu đãi cho DN chuyển đổi công nghệ, tăng cường quản lý giá chuyển nhượng | Thuế / TNDN | — | **Chưa có** | Hiệu lực 20/6/2026; tác động rộng doanh nghiệp; cần xác minh docid trên vanban.chinhphu.vn |
+| 204/2026/NĐ-CP | 09/06/2026 | Quy định chi tiết về điều kiện cấp Giấy phép xây dựng và quản lý xây dựng công trình | Xây dựng / Phát triển đô thị | — | **Chưa có** | Cần xác minh docid; hiệu lực 01/08/2026; tác động toàn bộ hoạt động xây dựng |
+| 35/2026/TT-BKHCN | 27/05/2026 | Ban hành Tiêu chuẩn quốc gia về hệ thống quản lý an toàn thông tin theo ISO/IEC 27001:2022 — áp dụng cho tổ chức thuộc mọi quy mô và loại hình | Khoa học công nghệ / An ninh mạng | — | **Chưa có** | Hiệu lực 01/08/2026; cần xác minh docid; tác động toàn bộ tổ chức DN Việt Nam |
+| 42/2026/TT-BGDĐT | 25/05/2026 | Quy định chuẩn chương trình đào tạo ngành Sư phạm — tiêu chuẩn đầu ra, nội dung, phương pháp đào tạo, đánh giá cho giáo viên mầm non, tiểu học, trung học cơ sở, trung học phổ thông | Giáo dục / Nhà giáo | — | **Chưa có** | Hiệu lực 01/08/2026; tác động hệ thống sư phạm toàn quốc; cần xác minh docid |
+| 44/2026/TT-BTC | 15/05/2026 | Sửa đổi TT 41/2022 về phí kiểm tra chất lượng hàng nhập khẩu — đơn giản hóa thủ tục, rút ngắn thời gian kiểm tra từ 5 ngày xuống 3 ngày làm việc | Tài chính / Hải quan | — | **Chưa có** | Hiệu lực 01/07/2026; tác động doanh nghiệp nhập khẩu; cần xác minh docid |
+
+### Các văn bản phát hiện thêm (chờ phiên sau)
+
+- **148/NQ-CP** (Đa ngành) — Nghị quyết phiên họp Chính phủ thường kỳ tháng 5/2026
+- **27/2026/TT-BXD** (Xây dựng) — phân cấp tài sản công; hiệu lực 01/08/2026
+- **20/2026/QH16** (Đầu tư) — tranh chấp đầu tư quốc tế
+- **26/VBHN-BXD** (Giao thông) — hợp nhất tải trọng đường bộ
+- **979/QĐ-TTg** (Đầu tư) — thực thi NQ 20/2026/QH16
+- **09/2026/TT-BNV** (Lao động) — sửa đổi Luật NLĐ VN đi làm việc ở nước ngoài; hiệu lực 30/06/2026
+- **06/2026/TT-BNV** (Tổ chức bộ máy) — sửa đổi chức năng Sở Nội vụ; hiệu lực 15/06/2026
+
+### Văn bản cần loại khỏi tracking
+
+- **60/2026/TT-BTC** — ghi nhận từ 2026-06-10: **KHÔNG tồn tại** trên vanban.chinhphu.vn; loại khỏi tracking
+
+## Đề xuất ưu tiên phiên tiếp theo
+
+1. **Thuế**: 203/2026/NĐ-CP (sửa đổi thuế TNDN — hiệu lực 20/6/2026; cần crawl sớm)
+2. **Xây dựng**: 204/2026/NĐ-CP (Giấy phép xây dựng — tác động toàn bộ xây dựng)
+3. **Khoa học công nghệ**: 35/2026/TT-BKHCN (ISO 27001:2022 — an ninh mạng toàn quốc)
+4. **Giáo dục**: 42/2026/TT-BGDĐT (Chuẩn SP — tác động hệ thống sư phạm)
+5. **Tài chính**: 44/2026/TT-BTC (phí kiểm tra hàng nhập khẩu — hiệu lực 01/7/2026)
+
+## Ghi chú xử lý
+
+- 5 văn bản mới sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **203/2026/NĐ-CP** (sửa đổi thuế TNDN) — hiệu lực sớm nhất 20/6/2026.
+- Ưu tiên thứ hai: **35/2026/TT-BKHCN** (ISO 27001:2022) — tác động an ninh mạng toàn quốc.
+- Cần xác minh docid cho 204/2026, 35/2026, 42/2026, 44/2026 trong phiên kế tiếp.
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, chinhphu.vn.
+- Ngày phát hiện: 2026-06-11 04:30 ICT
+- Phiên thực hiện: agent:github-io:subagent:52708a9f-46a4-4019-af55-fff012d0eb4b (Đệ #1 Discovery 2026-06-11)
+
+---
+
+# Cập nhật 2026-06-11 (phiên Đệ #1 Discovery — quét nhanh 150–205/2026)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+Quét nhanh dãy số 150–205/2026 trên vanban.chinhphu.vn và qua web search Brave + Gemini. So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên 2026-06-09 lần 9 + phiên 2026-06-11 đầu ngày): phát hiện 5 văn bản mới chưa từng được ghi nhận. Ưu tiên tác động rộng nhất:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---|---|
+| 178/2026/NĐ-CP | 20/05/2026 | Quy định quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng do Nhà nước đầu tư, quản lý — phân cấp quản lý, khai thác tài sản hạ tầng; có vấn đề về thời hạn nghỉ hưu liên quan | Tài sản công / Đầu tư | **Chưa có** | Cần xác minh docid trên vanban.chinhphu.vn; tác động quản lý tài sản hạ tầng toàn quốc; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218194`; nguồn: congbao.chinhphu.vn |
+| 179/2026/NĐ-CP | 05/2026 | Chính sách học bổng cho người học các ngành khoa học cơ bản, kỹ thuật then chốt và công nghệ chiến lược — thu hút nhân lực chất lượng cao cho các ngành ưu tiên | Giáo dục / Nhân lực | **Chưa có** | Cần xác minh docid và ngày ban hành chính xác; tác động chiến lược đào tạo nhân lực; nguồn: giaoduc.net.vn, vnu.edu.vn, hust.edu.vn |
+| 183/2026/NĐ-CP | 26/05/2026 | Sửa đổi, bổ sung NĐ 03/2022/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực phòng chống thiên tai, thủy lợi, đê điều — tăng chế tài xử phạt vi phạm công trình thủy lợi; hiệu lực 10/7/2026 | Môi trường / Tài nguyên | **Chưa có** | Cần xác minh docid trên vanban.chinhphu.vn; tác động quản lý công trình thủy lợi, đê điều; nguồn: baochinhphu.vn, luatvietnam.vn; thay thế/chỉnh sửa NĐ 03/2022/NĐ-CP |
+| 189/2026/NĐ-CP | 28/05/2026 | Quy định phát hành, phổ biến phim phục vụ nhiệm vụ chính trị — phạm vi, nguyên tắc phát hành phim; quyền và nghĩa vụ các bên; xử lý doanh thu từ phát hành có thu; hiệu lực 15/7/2026 | Văn hóa / Truyền thông | **Chưa có** | Cần xác minh docid trên vanban.chinhphu.vn; tác động ngành điện ảnh và truyền thông; nguồn: baochinhphu.vn, luatvietnam.vn, giaoducthoidai.vn |
+| 197/2026/NĐ-CP | 03/06/2026 | Quy định xây dựng, cập nhật, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về tiếp công dân, giải quyết khiếu nại, tố cáo — thể chế hóa Luật Tiếp công dân và Luật Khiếu nại/Tố cáo trên môi trường số | Hành chính / Tư pháp | **Chưa có** | Cần xác minh docid trên vanban.chinhphu.vn; tác động hệ thống hành chính, tư pháp; liên quan trực tiếp 154/2026, 155/2026, 156/2026 (đã có); nguồn: tapchitoaan.vn, baochinhphu.vn, vanban.chinhphu.vn docid 217856 |
+
+### Văn bản phát hiện thêm (chờ phiên sau / cần xác minh docid)
+
+- **150/2026/NĐ-CP** (15/05/2026) — Tổ chức cán bộ và điều kiện thi hành án dân sự; hiệu lực 01/7/2026; vanban.chinhphu docid 218077 — cần xác minh trạng thái trong tracking
+- **175/2026/NĐ-CP** (??/05/2026) — Quy chế về thôn, tổ dân phố và người hoạt động không chuyên trách — cần xác minh (trùng lặp với 185/2026?)
+- **176/2026/NĐ-CP** (19/05/2026) — Ưu đãi cho giảng viên, sinh viên, học viên, NCS ngành hạt nhân
+- **185/2026/NĐ-CP** (26/05/2026) — Tổ chức thôn, tổ dân phố; chính sách người hoạt động không chuyên trách — hiệu lực 26/5/2026; docid 218251 — cần xác minh trạng thái
+- **186/2026/NĐ-CP** (26/05/2026) — Sửa đổi NĐ 99/2013 về xử phạt VPHA sở hữu công nghiệp; hiệu lực 15/7/2026; docid 218288
+- **187/2026/NĐ-CP** (27/05/2026) — Chi tiết Luật Phục hồi doanh nghiệp — thay đổi đại diện pháp lý sau khi tòa chấp nhận yêu cầu phục hồi; docid 218275
+- **188/2026/NĐ-CP** (27/05/2026) — Chính sách hỗ trợ học sinh trường nội trú, bán trú xã biên giới
+- **200/2026/NĐ-CP** (05/06/2026) — Quy định chào bán, giao dịch trái phiếu doanh nghiệp trong nước và quốc tế; hiệu lực 05/6/2026
+- **201/2026/NĐ-CP** (08/06/2026) — Sửa đổi thuế xuất khẩu một số mặt hàng (fluorite 97% từ 10%→5%; Bismuth 0%); hiệu lực 23/7/2026
+- **191/2026/NĐ-CP** (29/05/2026) — Quy chế làm việc của Chính phủ — đã có trong tracking? cần kiểm tra
+
+### Các văn bản trong dãy 150–205 đã có trạng thái "Đã có" hoặc "Chưa có" (đối chiếu nhanh)
+
+| Số hiệu | Trạng thái trong tracking | Ghi chú |
+|---|---|---|
+| 150/2026/NĐ-CP | **Chưa có** (trong "phát hiện thêm") | Tiếp theo ưu tiên |
+| 158/2026/NĐ-CP | **Chưa có** (lần 8) | Ưu tiên cao |
+| 159/2026/NĐ-CP | **Chưa có** (lần 8) | Ưu tiên cao |
+| 163/2026/NĐ-CP | **Chưa có** (lần 8) | Ưu tiên cao |
+| 164/2026/NĐ-CP | **Chưa có** (lần 8) | Ưu tiên cao nhất |
+| 169/2026/NĐ-CP | **Chưa có** (lần 8) | Ưu tiên cao |
+| 178/2026/NĐ-CP | **Mới phát hiện** | Thêm mới |
+| 179/2026/NĐ-CP | **Mới phát hiện** | Thêm mới |
+| 183/2026/NĐ-CP | **Mới phát hiện** | Thêm mới |
+| 185/2026/NĐ-CP | **Mới phát hiện** | Thêm mới |
+| 189/2026/NĐ-CP | **Mới phát hiện** | Thêm mới |
+| 197/2026/NĐ-CP | **Mới phát hiện** | Thêm mới |
+| 198/2026/NĐ-CP | **Chưa có** (lần 6) | Đã có |
+| 199/2026/NĐ-CP | **Chưa có** (lần 5) | Đã có |
+| 202/2026/NĐ-CP | **Chưa có** (lần mới) | Đã có |
+
+## Đề xuất ưu tiên phiên tiếp theo
+
+1. **Hành chính / Tư pháp**: 197/2026/NĐ-CP — Cơ sở dữ liệu quốc gia về tiếp công dân, khiếu nại, tố cáo; tác động hệ thống hành chính toàn quốc; hiệu lực 01/7/2026.
+2. **Giáo dục / Nhân lực**: 179/2026/NĐ-CP — Học bổng khoa học cơ bản, kỹ thuật then chốt, công nghệ chiến lược; tác động chiến lược đào tạo nhân lực.
+3. **Văn hóa / Truyền thông**: 189/2026/NĐ-CP — Phát hành phim phục vụ nhiệm vụ chính trị; hiệu lực 15/7/2026.
+4. **Môi trường / Tài nguyên**: 183/2026/NĐ-CP — Xử phạt VPHA phòng chống thiên tai, thủy lợi, đê điều; hiệu lực 10/7/2026.
+5. **Tài sản công / Đầu tư**: 178/2026/NĐ-CP — Quản lý, khai thác tài sản hạ tầng; tác động quản lý tài sản công toàn quốc.
+
+## Ghi chú xử lý
+
+- 5 văn bản mới sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **197/2026/NĐ-CP** (Cơ sở dữ liệu quốc gia tiếp công dân, khiếu nại, tố cáo — tác động hệ thống hành chính toàn quốc; liên quan 154/155/156 đã có).
+- Thứ hai: **179/2026/NĐ-CP** (Học bổng KHCN then chốt — tác động chiến lược nhân lực).
+- Thứ ba: **189/2026/NĐ-CP** (Phim phục vụ nhiệm vụ chính trị — hiệu lực 15/7/2026).
+- Cần xác minh docid cho 178/2026, 179/2026, 183/2026, 189/2026 trong phiên kế tiếp.
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, congbao.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, giaoduc.net.vn.
+- Ngày phát hiện: 2026-06-11 04:20 ICT
+- Phiên thực hiện: agent:github-io:subagent:f09b777f-f391-4408-96bf-b3381f2bd669 (Đệ #1 Discovery 2026-06-11 de1-discovery)
+
