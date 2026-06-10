@@ -663,10 +663,10 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-10): phát hi
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 203/2026/NĐ-CP | 08/06/2026 | Sửa đổi NĐ 37/2025/NĐ-CP về thuế TNDN | Thuế / TNDN | — | **Chưa công bố** | **05/30 ICT 2026-06-11: Đệ #3 xác nhận KHÔNG tìm thấy. Web search 0 kết quả. Có thể chưa ban hành. Hiệu lực 20/6/2026 — chờ công bố.** |
-| 204/2026/NĐ-CP | 09/06/2026 | Quy định chi tiết về điều kiện cấp Giấy phép xây dựng và quản lý xây dựng công trình | Xây dựng / Phát triển đô thị | — | **Chưa có** | Cần xác minh docid; hiệu lực 01/08/2026; tác động toàn bộ hoạt động xây dựng |
-| 35/2026/TT-BKHCN | 27/05/2026 | Ban hành Tiêu chuẩn quốc gia về hệ thống quản lý an toàn thông tin theo ISO/IEC 27001:2022 — áp dụng cho tổ chức thuộc mọi quy mô và loại hình | Khoa học công nghệ / An ninh mạng | — | **Chưa có** | Hiệu lực 01/08/2026; cần xác minh docid; tác động toàn bộ tổ chức DN Việt Nam |
-| 42/2026/TT-BGDĐT | 25/05/2026 | Quy định chuẩn chương trình đào tạo ngành Sư phạm — tiêu chuẩn đầu ra, nội dung, phương pháp đào tạo, đánh giá cho giáo viên mầm non, tiểu học, trung học cơ sở, trung học phổ thông | Giáo dục / Nhà giáo | — | **Chưa có** | Hiệu lực 01/08/2026; tác động hệ thống sư phạm toàn quốc; cần xác minh docid |
-| 44/2026/TT-BTC | 15/05/2026 | Sửa đổi TT 41/2022 về phí kiểm tra chất lượng hàng nhập khẩu — đơn giản hóa thủ tục, rút ngắn thời gian kiểm tra từ 5 ngày xuống 3 ngày làm việc | Tài chính / Hải quan | — | **Chưa có** | Hiệu lực 01/07/2026; tác động doanh nghiệp nhập khẩu; cần xác minh docid |
+| 204/2026/NĐ-CP | 09/06/2026 | Quy định chi tiết về điều kiện cấp Giấy phép xây dựng và quản lý xây dựng công trình | Xây dựng / Phát triển đô thị | — | **Chưa xác minh được** | **PHÁT HIỆN SAI từ 2026-06-11 sớm.** Sau nhiều lần search (Brave + Gemini, 10+ nguồn) trên vanban.chinhphu.vn, luatvietnam.vn, chinhphu.vn, baochinhphu.vn, xaydungchinhsach: **KHÔNG tồn tại Nghị định 204/2026/NĐ-CP về giấy phép xây dựng.** Tất cả NĐ 2026 đều đã được kiểm tra (không có số 204). Giấy phép xây dựng được điều chỉnh bởi Nghị quyết 66.18/2026/NQ-CP (rút ngắn thủ tục), Luật Xây dựng 135/2025/QH15 (hiệu lực 01/7/2026), và các Nghị định hướng dẫn 140/2025, 144/2025. **Loại khỏi tracking.** |
+| 35/2026/TT-BKHCN | 27/05/2026 | Ban hành Tiêu chuẩn quốc gia về hệ thống quản lý an toàn thông tin theo ISO/IEC 27001:2022 — áp dụng cho tổ chức thuộc mọi quy mô và loại hình | Khoa học công nghệ / An ninh mạng | — | **Chưa xác minh được** | **PHÁT HIỆN SAI từ 2026-06-11 sớm.** Sau nhiều lần search (Brave + Gemini, 10+ nguồn) trên vanban.chinhphu.vn, luatvietnam.vn, chinhphu.vn, isocert.org.vn, tcvn.gov.vn, tất cả Bộ KHCN TT 2026 đều kiểm tra: **KHÔNG tồn tại Thông tư 35/2026/TT-BKHCN về ISO 27001.** Các TT-BKHCN năm 2026 (04, 05, 07, 08, 13, 14, 22) đều không liên quan. Có TCVN ISO/IEC 27001:2009 (do Bộ KHCN công bố từ trước), nhưng không phải TT 35/2026. Chứng nhận ISO 27001:2022 hiện do các tổ chức tư nhân thực hiện, không phải văn bản pháp luật bắt buộc. **Loại khỏi tracking.** |
+| 42/2026/TT-BGDĐT | 29/05/2026 | Hướng dẫn thực hiện một số nội dung tiêu chí thuộc Bộ tiêu chí quốc gia về xã nông thôn mới giai đoạn 2026-2030 thuộc phạm vi quản lý nhà nước của Bộ GDĐT | Giáo dục | 218423 | **Chưa xác minh** | **PHÁT HIỆN SAI từ 2026-06-11 sớm.** Docid 218423 đã xác minh trên vanban.chinhphu.vn (trùng với NQ 66.18/2026/NQ-CP). TT 42/2026/TT-BGDĐT thực tế là **Hướng dẫn tiêu chí xã nông thôn mới 2026-2030**, KHÔNG phải "chuẩn chương trình đào tạo ngành Sư phạm". Tài liệu trên luatvietnam.vn đã xác nhận toàn văn. **Loại khỏi tracking vì mô tả sai đối tượng.** Nội dung đúng: hướng dẫn tiêu chí giáo dục trong NTM giai đoạn 2026-2030 (xã nhóm 1/2/3, tỷ lệ trường đạt chuẩn quốc gia, tỷ lệ học sinh hoàn thành THPT...). URL: `https://luatvietnam.vn/giao-duc/thong-tu-42-2026-tt-bgddt-huong-dan-tieu-chi-quoc-gia-ve-xa-nong-thon-moi-2026-2030-436694-d1.html` |
+| 44/2026/TT-BTC | 22/04/2026 | Quy định mẫu báo cáo giám sát, đánh giá đầu tư; chế độ báo cáo trực tuyến và quản lý vận hành hệ thống thông tin về giám sát, đánh giá đầu tư | Tài chính | 218414 | **Chưa xác minh** | **PHÁT HIỆN SAI từ 2026-06-11 sớm.** Docid 218414 đã xác minh trên vanban.chinhphu.vn (trùng với NQ 66.18/2026/NQ-CP). TT 44/2026/TT-BTC thực tế là **Quy định mẫu báo cáo giám sát đầu tư**, KHÔNG phải "sửa đổi TT 41/2022 về phí kiểm tra chất lượng hàng nhập khẩu". Tài liệu trên luatvietnam.vn đã xác nhận toàn văn. **Loại khỏi tracking vì mô tả sai đối tượng.** Nội dung đúng: quy định mẫu báo cáo theo NĐ 19/2026/NĐ-CP và NĐ 96/2026/NĐ-CP, chế độ báo cáo trực tuyến trên Hệ thống thông tin nghiệp vụ (https://nghiepvugiamsatdautu.mof.gov.vn). URL: `https://luatvietnam.vn/tai-chinh/thong-tu-44-2026-tt-btc-quy-dinh-mau-bao-cao-giam-sat-danh-gia-dau-tu-432959-d1.html` |
 
 ### Các văn bản phát hiện thêm (chờ phiên sau)
 
@@ -696,8 +696,59 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-10): phát hi
 - Ưu tiên thứ hai: **35/2026/TT-BKHCN** (ISO 27001:2022) — tác động an ninh mạng toàn quốc.
 - Cần xác minh docid cho 204/2026, 35/2026, 42/2026, 44/2026 trong phiên kế tiếp.
 - Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, chinhphu.vn.
-- Ngày phát hiện: 2026-06-11 04:30 ICT
-- Phiên thực hiện: agent:github-io:subagent:52708a9f-46a4-4019-af55-fff012d0eb4b (Đệ #1 Discovery 2026-06-11)
+- Ngày phát hiện: 2026-06-11 05:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:a4b860a8-80d2-4afc-82dd-426800dc2ebe (Đệ #1 Discovery 2026-06-11 phiên xác minh)
+
+---
+
+# Cập nhật 2026-06-11 (phiên Đệ #1 Discovery — xác minh 4 docid pending)
+
+## Tóm tắt kết quả xác minh 4 văn bản đang chờ từ phiên 2026-06-11 sớm
+
+**Tất cả 4 văn bản được phát hiện là PHÁT HIỆN SAI.** Không có văn bản nào tồn tại với mô tả đã ghi nhận.
+
+| Số hiệu | Trạng thái trước | Kết quả xác minh | Xử lý |
+|---|:---:|---|---|
+| 204/2026/NĐ-CP | Chưa có | **KHÔNG tồn tại** trên vanban.chinhphu.vn; toàn bộ NĐ-CP 2026 (150-210+) đã kiểm tra; giấy phép xây dựng thuộc NQ 66.18/2026, Luật XDVN 135/2025, NĐ 140/2025, 144/2025 | Loại khỏi tracking |
+| 35/2026/TT-BKHCN | Chưa có | **KHÔNG tồn tại** trên vanban.chinhphu.vn; toàn bộ TT-BKHCN 2026 (04, 05, 07, 08, 13, 14, 22...) đã kiểm tra; không có TT nào về ISO 27001:2022 | Loại khỏi tracking |
+| 42/2026/TT-BGDĐT | Chưa có | **ĐÚNG số hiệu, SAI mô tả.** TT 42/2026/TT-BGDĐT tồn tại nhưng là "Hướng dẫn tiêu chí xã nông thôn mới 2026-2030" chứ KHÔNG phải "chuẩn chương trình đào tạo sư phạm". Docid 218423 trùng với NQ 66.18/2026/NQ-CP | Loại khỏi tracking (mô tả sai); lưu ý TT 42/2026 thực tế thuộc nhóm NTM |
+| 44/2026/TT-BTC | Chưa có | **ĐÚNG số hiệu, SAI mô tả.** TT 44/2026/TT-BTC tồn tại nhưng là "Mẫu báo cáo giám sát, đánh giá đầu tư" chứ KHÔNG phải "sửa đổi phí kiểm tra hàng nhập khẩu". Docid 218414 trùng với NQ 66.18/2026/NQ-CP | Loại khỏi tracking (mô tả sai); ghi nhận nội dung đúng là giám sát đầu tư theo NĐ 19/2026, 96/2026 |
+
+### Chi tiết docid trùng lặp
+
+Cả docid 218423 và 218414 trên vanban.chinhphu.vn đều trùng với **Nghị quyết 66.18/2026/NQ-CP** của Chính phủ (rút ngắn thủ tục cấp giấy phép xây dựng, có hiệu lực 01/7/2026). Có thể 42/2026/TT-BGDĐT và 44/2026/TT-BTC có docid khác chưa xác định được.
+
+### Nguyên nhân phát hiện sai
+
+- Thông tin từ nguồn chưa kiểm chứng kỹ (có thể từ danh sách dự thảo/tham vấn chưa ban hành)
+- Số hiệu giả định không khớp với văn bản thực tế
+- Docid giả định trùng với NQ-CP khác đã xác minh
+
+### Không phát hiện văn bản mới trong 5 nhóm ưu tiên
+
+Ngoài việc xác minh 4 văn bản pending, phiên này quét 5 nhóm ưu tiên và **KHÔNG phát hiện văn bản mới** nào chưa có trong tracking. Các văn bản thực tế trong nhóm:
+- **Thuế**: 203/2026/NĐ-CP (sửa đổi thuế TNDN) — không tìm thấy, có thể chưa ban hành
+- **Xây dựng**: Luật XDVN 135/2025 (hiệu lực 01/7/2026), NQ 66.18/2026, NĐ 140/2025, 144/2025, 54/2026, 14/2026 — đã có trong tracking
+- **KHCN**: TT-BKHCN 04, 05, 07, 08, 13, 14, 22, 30 (2026) — đã có trong tracking
+- **Giáo dục**: TT-BGDĐT 24, 26, 30, 42 (2026) — chuẩn nghề nghiệp, chương trình PPP, NTM — đã có/trong tracking
+- **Tài chính**: TT-BTC 35, 36, 44 (2026) — tiếp khách, quy hoạch, giám sát đầu tư — đã có/trong tracking
+
+## Khuyến nghị cho các phiên tiếp theo
+
+1. **Cần xác minh trực tiếp docid trên vanban.chinhphu.vn** trước khi ghi nhận văn bản mới (không dựa vào số hiệu giả định)
+2. **Kiểm tra chéo với luatvietnam.vn** để xác nhận nội dung thực của văn bản
+3. **Loại bỏ các entry trùng docid** (218423, 218414) — đều trùng với NQ 66.18/2026/NQ-CP
+4. **Lưu ý nguồn phát hiện sai** (không nên dùng nguồn chưa xác minh làm căn cứ ghi nhận)
+5. **Tập trung xác minh các văn bản "Chưa có" còn tồn đọng** trong tracking, ưu tiên hiệu lực sắp tới (01/7, 01/8/2026)
+
+## Ghi chú xử lý
+
+- Tất cả 4 văn bản sai đã được loại khỏi tracking (trạng thái ghi rõ "PHÁT HIỆN SAI").
+- Không tìm thấy văn bản mới nào trong 5 nhóm ưu tiên.
+- Ưu tiên các phiên tiếp theo: xác minh các văn bản "Chưa có" còn tồn đọng (178, 179, 183, 185, 189, 197, 202...)
+- Nguồn: web_search Brave + Gemini, web_fetch vanban.chinhphu.vn + luatvietnam.vn.
+- Ngày phát hiện: 2026-06-11 05:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:a4b860a8-80d2-4afc-82dd-426800dc2ebe (Đệ #1 Discovery 2026-06-11 phiên xác minh)
 
 ---
 
