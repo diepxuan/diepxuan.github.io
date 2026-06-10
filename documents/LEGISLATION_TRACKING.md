@@ -39,6 +39,7 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ nguồn chính t
 | 21/2026/QĐ-TTg | 30/04/2026 | Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược | Khoa học công nghệ | Đã có | `van-ban/khoa-hoc-cong-nghe/quyet-dinh-21-2026-qd-ttg-danh-muc-cong-nghe-chien-luoc.md`; heartbeat 2026-06-04 |
 | 141/2026/NĐ-CP | 29/04/2026 | Sửa đổi chính sách thuế đối với hộ kinh doanh, cá nhân kinh doanh và hướng dẫn Luật Thuế TNDN | Thuế | Đã có | `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-141-2026-nd-cp-sua-doi-thue-ho-kinh-doanh.md`; heartbeat 2026-06-06 |
 | 29/2026/QH16 | 24/04/2026 | Cơ chế đặc thù xử lý vi phạm đất đai trước Luật Đất đai 2024 và tháo gỡ dự án tồn đọng, kéo dài | Đất đai / đầu tư | Đã có | `van-ban/dat-dai-dau-tu/nghi-quyet-29-2026-qh16-co-che-dac-thu-dat-dai-du-an-ton-dong.md`; heartbeat 2026-06-04 |
+| 66.17/2026/NQ-CP | 15/05/2026 | Cắt giảm, sửa đổi ngành nghề đầu tư kinh doanh có điều kiện — cắt giảm 64 ngành, sửa đổi 23 ngành (hiệu lực 01/07/2026-28/02/2027) | Đa ngành / Cải cách | **Đã có** | `van-ban/da-nganh/nghi-quyet-66-17-2026-nq-cat-giam-nganh-nghe-dau-tu-kinh-doanh.md`; heartbeat 2026-06-10; OCR CAdES-BES 9 trang; 260 dòng, 17KB, 142 ngành nghề phụ lục |
 
 ## Đối chiếu nhanh với `van-ban/`
 
