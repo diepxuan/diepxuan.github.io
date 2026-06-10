@@ -644,3 +644,60 @@ Tất cả 5 văn bản mới đều chưa từng được ghi nhận trong trac
 - Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, chinhphu.vn, luatvietnam.vn, tuyenquang.gov.vn, seaworld.vn.
 - Ngày phát hiện: 2026-06-10 15:01 ICT
 - Phiên thực hiện: agent:github-io:subagent:9118ab22-7cfd-47ea-abb2-9bca72853726 (Đệ #1 Discovery 2026-06-10)
+
+---
+
+# Cập nhật 2026-06-11 (phiên Đệ #1 Discovery — 8 nhóm chủ đề)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+Quét 8 nhóm chủ đề: Thuế, Đất đai, KHCN, Y tế, Tài chính, Lao động, Giáo dục, Thương mại/Đầu tư. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-10): phát hiện 5 văn bản mới chưa từng được ghi nhận.
+
+> **Lưu ý**: Văn bản số cao nhất trên vanban.chinhphu.vn tính đến 2026-06-10 dừng ở ~202/2026/NĐ-CP. Không có NĐ-CP 203–210 hay NQ-CP 149–202 trong phạm vi ngày 10/6/2026. Toàn bộ docid trên 218XXX vẫn nằm trong nhóm đã tracking.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 185/2026/NĐ-CP | 26/05/2026 | Quy định về tổ chức, hoạt động của thôn, tổ dân phố và chế độ, chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố — thay thế NĐ 27/2018; quy định số lượng, chức danh, phụ cấp, hỗ trợ; cơ sở pháp lý cho mô hình chính quyền địa phương 2 cấp | Lao động / Hành chính | — | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-185-2026-nd-cp-quy-dinh-ve-to-chuc-hoat-dong-cua-thon-to-dan-pho-chinh-sach-voi-nguoi-hoat-dong-khong-chuyen-trach-o-thon-to-dan-pho-119260526172229782.htm`; tác động toàn bộ hệ thống thôn, tổ dân phố cả nước; bổ sung Chỉ thị 21/CT-TTg (cùng nhóm) |
+| 199/2026/NĐ-CP | 05/06/2026 | Quy định chính sách hỗ trợ phục vụ hàng tháng đối với các chức danh, chức vụ lãnh đạo thuộc diện Bộ Chính trị, Ban Bí thư quản lý; cấp bậc hàm trong Công an nhân dân và Quân đội nhân dân — hiệu lực 20/7/2026 | Lao động / Tổ chức bộ máy | — | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-199-2026-nd-cp-quy-dinh-chinh-sach-ho-tro-phuc-vu-doi-voi-cac-chuc-danh-chuc-vu-lanh-dao-119260606134920003.htm`; Phó TT Phạm Gia Túc ký thay TT; tác động lãnh đạo cấp cao QP, CAND |
+| 21/CT-TTg | 20/05/2026 | Chỉ thị của Thủ tướng Chính phủ về sắp xếp thôn, tổ dân phố và bố trí, sử dụng, chế độ, chính sách đối với người hoạt động không chuyên trách ở cấp xã, thôn, tổ dân phố — hoàn thành phương án trước 30/6/2026 | Lao động / Hành chính | — | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/chi-thi-21-ct-ttg-cua-thu-tuong-chinh-phu-ve-sap-xep-thon-to-dan-pho-va-nguoi-hoat-dong-khong-chuyen-trach-119260520170214822.htm`; bổ sung 185/2026/NĐ-CP (cùng nhóm); ảnh hưởng cấp xã toàn quốc |
+| Công văn 5691/BNV-TCBC | 06/06/2026 | Hướng dẫn về đơn vị sự nghiệp công lập cung ứng các dịch vụ sự nghiệp công cơ bản, thiết yếu đa ngành, đa lĩnh vực ở cấp xã — UBND cấp xã được quyết định thành lập, giải thể đơn vị sự nghiệp công lập thuộc cấp xã; biên chế giai đoạn 2027–2031 xác định theo vị trí việc làm | Lao động / Hành chính | — | **Chưa có** | URL: `https://luatvietnam.vn/hanh-chinh/cong-van-5691-bnv-tcbc-2026-huong-dan-don-vi-su-nghiep-cong-lap-cung-ung-dich-vu-cong-co-ban-cap-xa-436787-d6.html`; văn bản hành chính mới nhất phát hiện (06/6/2026); tác động cấp xã toàn quốc |
+| 148/NQ-CP | 08/06/2026 | Nghị quyết phiên họp Chính phủ thường kỳ tháng 5/2026 — đẩy mạnh giải ngân đầu tư công, đảm bảo cung ứng điện/xăng dầu, phát triển nhà ở xã hội, phát triển thị trường chứng khoán, tinh gọn bộ máy | Kinh tế vĩ mô / Đa ngành | 218349? | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218349` (placeholder); tác động toàn diện kinh tế vĩ mô; cần xác minh docid chính thức |
+
+### Các văn bản phát hiện khác nhóm còn lại (chưa tạo entry — chờ phiên sau)
+
+- **Thuế**: Không có văn bản mới nổi bật ngoài 144/2026/NĐ-CP (sửa thuế GTGT, đã có); 19/QH16, 25/NQ-CP (đã có trong tracking)
+- **Đất đai**: 49/2026/NĐ-CP và 50/2026/NĐ-CP (hướng dẫn NQ 254) — đã có trong tracking 2026-06-10; 147/2026/NĐ-CP (dự án tồn đọng) — đã có
+- **KHCN**: 05/2026/TT-BKHCN (AI ethics) — đã có trong tracking 2026-06-09 lần 3; 08/2026/TT-BKHCN (xác thực sinh trắc học) — đã có
+- **Y tế**: 165/2026/NĐ-CP (Luật Phòng bệnh) — đã có; 15/2026/TT-BYT (phân loại bệnh truyền nhiễm) — đã có; 18/2026/TT-BYT (dược chất kiểm soát) — đã có
+- **Tài chính**: 26/2026/TT-BTC (nguồn ngân sách) — đã có; 03/2026/TT-BTC (tự chủ tài chính) — đã có; 202/2026/NĐ-CP (ô tô điện) — đã có; 75/2026/NĐ-CP (tự chủ hành chính) — Chưa có trong tracking
+- **Lao động**: 161/2026/NĐ-CP (lương cơ sở) — đã có; 13/2026/TT-BNV, 14/2026/TT-BNV — đã có; 162/2026/NĐ-CP — đã có
+- **Giáo dục**: 182/2026/NĐ-CP (phụ cấp nhà giáo) — đã có; 40/2026/TT-BGDĐT (đánh giá rèn luyện SV) — đã có; 66/91/88/93/95/2026/NĐ-CP — đã có
+- **Thương mại/Đầu tư**: 96/2026/NĐ-CP (Luật Đầu tư) — đã có; 127/2026/NĐ-CP (Halal) — đã có; 28/2026/TT-BCT (ATTP nhập khẩu) — đã có; 29/2026/TT-BCT (thị trường điện) — đã có
+
+## Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-10)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|---|---|
+| 185/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 199/2026/NĐ-CP | Có ("Chưa có") | Giữ nguyên, cập nhật ghi chú đầy đủ |
+| 21/CT-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| Công văn 5691/BNV-TCBC | **KHÔNG** | Thêm mới — Chưa có |
+| 148/NQ-CP | Không rõ (trùng lặp giữa phiên) | Thêm mới — Chưa có |
+
+## Đề xuất ưu tiên phiên tiếp theo
+
+1. **Lao động / Hành chính**: 185/2026/NĐ-CP — khung pháp lý thôn tổ dân phố mới, tác động 11.000+ thôn/xã toàn quốc; Chỉ thị 21/CT-TTg cùng nhóm nên crawl chung.
+2. **Kinh tế vĩ mô**: 148/NQ-CP — nghị quyết phiên họp Chính phủ tháng 5; chỉ đạo đầu tư công, điện, nhà ở xã hội.
+3. **Hành chính / Lao động**: Công văn 5691/BNV-TCBC — văn bản hành chính mới nhất, hướng dẫn đơn vị sự nghiệp cấp xã.
+4. **Tổ chức bộ máy**: 199/2026/NĐ-CP — chính sách lãnh đạo QP/CAND.
+5. **Tài chính**: 75/2026/NĐ-CP (tự chủ hành chính) — Chưa có trong tracking, cần xác minh.
+
+## Ghi chú xử lý
+
+- 5 văn bản mới trên sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **185/2026/NĐ-CP + 21/CT-TTg** (cùng nhóm thôn tổ dân phố; ảnh hưởng trực tiếp đời sống hơn 60 triệu dân nông thôn).
+- **148/NQ-CP** là nghị quyết vĩ mô, cần xác minh docid chính thức trước khi crawl.
+- Công văn 5691/BNV-TCBC là văn bản hành chính (không phải VBQPPL bắt buộc tracking theo SOUL.md), nhưng vì có ngày ban hành mới nhất (06/6) và tác động cấp xã nên được thêm vào.
+- Nguồn: web_search Brave tổng hợp vanban.chinhphu.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, luatvietnam.vn, vietnamplus.vn.
+- Ngày phát hiện: 2026-06-11 09:45 ICT
+- Phiên thực hiện: agent:github-io:subagent:91151c71-c4b5-41d3-a51d-eece4b58f748 (Đệ #1 Discovery 2026-06-11)
