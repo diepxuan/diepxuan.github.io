@@ -1,3 +1,57 @@
+# Cập nhật 2026-06-10 (phiên Đệ #1 Discovery — cuối ngày)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+Quét toàn bộ dải NĐ-CP 151–202 từ vanban.chinhphu.vn + luatvietnam.vn + chinhphu.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-11): phát hiện 5 văn bản mới chưa từng được ghi nhận. Ưu tiên tác động rộng nhất (hiệu lực 01/7/2026):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 153/2026/NĐ-CP | 14/05/2026 | Sửa đổi, bổ sung NĐ 01/2015/NĐ-CP về phạm vi địa bàn hải quan và trách nhiệm phối hợp phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới | Hải quan / Thương mại | 218083 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218083`; hiệu lực 05/7/2026 |
+| 154/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tiếp công dân | Hành chính / Tư pháp | 218230 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218230`; hiệu lực 01/7/2026 |
+| 155/2026/NĐ-CP | 15/05/2026 | Sửa đổi, bổ sung NĐ 124/2020/NĐ-CP quy định chi tiết Luật Khiếu nại — bổ sung 7 trường hợp vụ việc khiếu nại phức tạp | Hành chính / Tư pháp | 218183 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218183`; hiệu lực 01/7/2026; bổ sung 155/2026 bổ sung NQ 27 |
+| 156/2026/NĐ-CP | 15/05/2026 | Sửa đổi, bổ sung NĐ 31/2019/NĐ-CP quy định chi tiết Luật Tố cáo — quy định hành vi vi phạm trong giải quyết tố cáo bị buộc thôi việc | Hành chính / Tư pháp | 218102 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218102`; hiệu lực 01/7/2026 |
+| 157/2026/NĐ-CP | — | Quy định thanh toán, quyết toán vốn ngân sách nhà nước để cấp bù lãi suất cho các ngân hàng thương mại thực hiện chính sách tín dụng ưu đãi của nhà nước | Tài chính / Tín dụng ưu đãi | 218158 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218158`; tác động chính sách tín dụng ưu đãi nông nghiệp, xuất khẩu |
+
+### Các văn bản phát hiện thêm (chưa tạo entry — chờ phiên sau)
+
+- **158/2026/NĐ-CP** (Tư pháp / Tương trợ tư pháp) — chi tiết Luật Tương trợ tư pháp về dân sự; thay thế NĐ 92/2008/NĐ-CP; hiệu lực 01/7/2026; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218105`
+- **159/2026/NĐ-CP** (Giáo dục / Lao động) — quy định giảng viên đồng cơ hữu trong trường cao đẳng, đại học công lập; hiệu lực 01/7/2026; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218164`
+- **160/2026/NĐ-CP** (Tư pháp / Thi hành án) — cơ sở dữ liệu thi hành án hình sự; hiệu lực 01/7/2026; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218108`
+- **163/2026/NĐ-CP** (Y tế) — chi tiết Luật Phòng, chống ma túy; giám sát điện tử trong cai nghiện; hiệu lực 01/7/2026; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218256`
+- **164/2026/NĐ-CP** (Hành chính / Chống tham nhũng) — kiểm soát tài sản, thu nhập người giữ chức vụ; kê khai tài sản bắt đầu từ Trưởng phòng và tương đương; hiệu lực 01/7/2026; URL: `https://luatvietnam.vn/linh-vuc-khac/tu-01-7-2026-truong-phong-co-quan-nha-nuoc-co-phai-ke-khai-tai-san-khong-883-109358-article.html`
+- **151/2026/NĐ-CP** (Tư pháp) — tổ chức và hoạt động của Văn phòng thi hành án dân sự, Thừa hành viên; hiệu lực 01/7/2026
+- **152/2026/NĐ-CP** (Tư pháp) — chi tiết Luật Thi hành án dân sự; hiệu lực 01/7/2026
+
+## Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-11)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|---|
+| 153/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 154/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 155/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 156/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 157/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+## Đề xuất ưu tiên phiên tiếp theo
+
+1. **Hành chính / Tư pháp**: 154/2026/NĐ-CP, 155/2026/NĐ-CP, 156/2026/NĐ-CP — cùng nhóm tiếp công dân, khiếu nại, tố cáo; hiệu lực 01/7/2026; tác động toàn bộ hệ thống hành chính.
+2. **Hải quan / Thương mại**: 153/2026/NĐ-CP — sửa đổi cơ chế phòng chống buôn lậu; hiệu lực 05/7/2026.
+3. **Tài chính**: 157/2026/NĐ-CP — thanh toán lãi suất ưu đãi; tác động chính sách tín dụng ưu đãi nông nghiệp, xuất khẩu.
+4. **Chống tham nhũng**: 164/2026/NĐ-CP — mở rộng kê khai tài sản; tác động rộng hệ thống công vụ.
+5. **Tư pháp**: 151/2026/NĐ-CP, 152/2026/NĐ-CP, 158/2026/NĐ-CP, 160/2026/NĐ-CP — nhóm thi hành án, tương trợ tư pháp.
+
+## Ghi chú xử lý
+
+- 5 văn bản mới trong bảng chính sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **154/2026/NĐ-CP, 155/2026/NĐ-CP, 156/2026/NĐ-CP** (cùng nhóm hành chính-tư pháp; ảnh hưởng trực tiếp công dân và cơ quan nhà nước; hiệu lực 01/7/2026 — rất gần).
+- 153/2026/NĐ-CP (hải quan) cũng cùng đợt hiệu lực 01/7–05/7.
+- Dải 151–164: tổng cộng 14 NĐ-CP mới chưa được tracking đầy đủ (161–162, 165, 182, 185, 191, 192, 196, 199, 202 đã có; 163–164, 151–152, 158, 159, 160 cần bổ sung).
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, chinhphu.vn, baochinhphu.vn, congbao.chinhphu.vn.
+- Ngày phát hiện: 2026-06-10 18:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:7620d9aa-4008-4fe5-a0b1-c8d873fb0314 (Đệ #1 Discovery 2026-06-10 cuối ngày)
+
+---
+
 # Báo cáo theo dõi pháp luật mới - 2026-05-14
 
 ## Mục đích
