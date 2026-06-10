@@ -29,8 +29,6 @@ trang-thai: Hoàn thiện
 Quy định về quản lý chất lượng và chính sách
 phát triển sản phẩm, dịch vụ Halal
 
-GỔNG THÔN TIN BIỆN TỬ CHÍNH PHÙ
-
 Căn cứ Luật Tổ chúc Chính phủ số 63/2025/QH15;
 Căn cứ Luật Tổ chức chính quyên địa phương số 72/2025/QH15;
 

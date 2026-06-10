@@ -28,7 +28,7 @@ Theo đề nghị của Bộ trưởng Bộ Quốc phòng,
 Chính phủ ban hành Nghị định quy định chỉ tiết một số điều của Luật
 Tình trạng khẩn cấp. .
 
-Chương ]
+Chương I
 QUY ĐỊNH CHUNG
 
 Điều 1. Phạm vi điều chỉnh
