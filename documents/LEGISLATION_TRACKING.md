@@ -586,6 +586,8 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên lần 8): phá
 - Ngày phát hiện: 2026-06-09 10:00 ICT
 - Phiên thực hiện: agent:github-io:subagent:adde4100-4ad0-4547-8fd2-3c04cc7147e3 (Đệ #1 Discovery 2026-06-09 lần 9)
 
+| 50/2026/NĐ-CP | 31/01/2026 | Quy định chi tiết NQ 254/2025/QH15 về tiền sử dụng đất, tiền thuê đất — căn cứ tính, chuyển mục đích, miễn giảm, xử lý chuyển tiếp | Đất đai | **Đã có** | `van-ban/dat-dai/nghi-dinh-50-2026-nd-cp-tien-su-dung-dat-tien-thue-dat.md`; heartbeat 2026-06-10; PDF Word 30 trang; 1395 dòng; 14 Điều, 3 Chương |
+
 ---
 
 # Cập nhật 2026-06-10 (phiên Đệ #1 Discovery — 5 nhóm chủ đề)
