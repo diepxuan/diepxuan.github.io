@@ -585,3 +585,58 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên lần 8): phá
 - Nguồn: Web search Brave + Gemini tổng hợp vanban.chinhphu.vn, baochinhphu.vn, luatvietnam.vn, thanhtra.com.vn, xaydungchinhsach.chinhphu.vn.
 - Ngày phát hiện: 2026-06-09 10:00 ICT
 - Phiên thực hiện: agent:github-io:subagent:adde4100-4ad0-4547-8fd2-3c04cc7147e3 (Đệ #1 Discovery 2026-06-09 lần 9)
+
+---
+
+# Cập nhật 2026-06-10 (phiên Đệ #1 Discovery — 5 nhóm chủ đề)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+Quét 9 nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Tài chính, Giao thông, Ngoại giao. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-09 lần 9): phát hiện 5 văn bản mới chưa từng được ghi nhận.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---|---|
+| 125/2026/NĐ-CP | — | Quy định về hoạt động khoa học, công nghệ và đổi mới sáng tạo trong cơ sở giáo dục đại học — khung pháp lý cho nghiên cứu khoa học, chuyển giao công nghệ tại các trường ĐH | Khoa học công nghệ | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=217673&pageid=27160`; tác động hệ thống giáo dục đại học |
+| 13/VBHN-BNNMT | 26/02/2026 | Văn bản hợp nhất quy định chi tiết thi hành Luật Lâm nghiệp — hợp nhất các Nghị định hướng dẫn Luật Lâm nghiệp | Lâm nghiệp | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217341`; thay thế các NĐ cũ về lâm nghiệp |
+| 13/VBHN-BTC | 22/04/2026 | Văn bản hợp nhất hướng dẫn giám sát giao dịch chứng khoán trên thị trường chứng khoán — cập nhật quy trình giám sát theo Luật Chứng khoán sửa đổi | Chứng khoán | **Chưa có** | Công báo số 294 ngày 31/5/2026; tác động SSC, VSDC, các CTCK |
+| 02/2026/TT-BNG | 09/05/2026 | Quy định phân cấp nhiệm vụ, quyền hạn của Bộ Ngoại giao trong các lĩnh vực: văn bản pháp định, tổ chức, NGO nước ngoài, biên giới, điều ước, quốc tịch, xuất nhập cảnh, lãnh sự, nhập tịch, nhận con nuôi | Ngoại giao | **Chưa có** | Hiệu lực từ ngày ký; tác động toàn bộ hệ thống Bộ Ngoại giao và các cơ quan đại diện |
+| 26/VBHN-BXD | 06/06/2026 | Văn bản hợp nhất Thông tư 12/2025/TT-BXD và Thông tư 19/2026/TT-BXD về tải trọng, khổ giới hạn đường bộ; lưu hành xe; hàng siêu trường siêu trọng; xếp hàng hóa; cấp giấy phép lưu hành — thay thế Thông tư 39/2024/TT-BGTVT | Giao thông / Xây dựng | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217235`; tác động ngành vận tải, logistics, đường bộ |
+
+### Văn bản phát hiện thêm các nhóm còn lại (chưa có trong 5 văn bản ưu tiên, chờ phiên sau)
+
+- **Thuế**: Không có văn bản mới 2026 nổi bật ngoài các văn bản đã tracking; cần check 19/QH16 (sửa thuế xăng dầu) và 25/NQ-CP (kéo dài thuế nhập khẩu 0%) — đã có trong tracking
+- **Đất đai**: 50/2026/NĐ-CP (hướng dẫn NQ 254 về tiền sử dụng đất, tiền thuê đất) — chưa có trong tracking; URL: `https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-50-2026-nd-cp-quy-dinh-chi-tiet-nghi-quyet-254-2025-qh15-thao-go-kho-khan-vuong-mac-ve-tien-su-dung-dat-tien-thue-dat-119260202161658051.htm`
+- **Y tế**: 12/2026/TT-BTC (giám định chi phí KCB BHYT, hướng dẫn NĐ 188/2025/NĐ-CP) — chưa có trong tracking; URL: `https://vanban.chinhphu.vn/?classid=1&docid=216997&orggroupid=4&pageid=27160`
+- **Tài chính**: 26/2026/TT-BTC (hướng dẫn NĐ 73/2026/NĐ-CP về Luật Ngân sách nhà nước) — đã có trong tracking (docid 217323); văn bản hợp nhất 27/VBHN-BTC (Hệ thống Mục lục NSNN)
+- **Giao thông**: Đã thêm 26/VBHN-BXD trong 5 văn bản ưu tiên; 861/QĐ-BXD (đính chính TT 20/2026/TT-BXD về cảng thủy nội địa)
+
+## Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-09 lần 9)
+
+Tất cả 5 văn bản mới đều chưa từng được ghi nhận trong tracking. Các văn bản đã có trong tracking nhưng cần xác minh trạng thái:
+
+- **50/2026/NĐ-CP** (Đất đai) — "Đề xuất ưu tiên" trong tracking đến 2026-05-14 nhưng chưa được thêm entry; phiên này ghi nhận phát hiện nhưng chưa đưa vào 5 văn bản ưu tiên vì giới hạn
+- **125/2026/NĐ-CP** (KHCN) — chưa từng được ghi nhận; thêm mới
+- **13/VBHN-BNNMT** (Lâm nghiệp) — chưa từng được ghi nhận; thêm mới
+- **13/VBHN-BTC** (Chứng khoán) — ghi chú trong phiên 2026-06-09 lần mới ("Văn bản hợp nhất 13/VBHN-BTC — chưa tạo entry, chờ phiên sau"); thêm mới
+- **02/2026/TT-BNG** (Ngoại giao) — ghi nhận trong phiên lần 4 là "thông tư phân cấp" nhưng chưa tạo entry riêng; thêm mới
+- **26/VBHN-BXD** (Giao thông) — đã được ghi nhận trong phiên lần 9 nhưng chưa tạo entry với trạng thái; thêm mới
+
+## Đề xuất ưu tiên phiên tiếp theo
+
+1. **Đất đai**: 50/2026/NĐ-CP — cặp NĐ hướng dẫn NQ 254/QH15 về tiền sử dụng đất, tiền thuê đất; tác động rộng toàn quốc; đã được đề xuất từ 2026-05-14 nhưng chưa xử lý.
+2. **Y tế**: 12/2026/TT-BTC — giám định chi phí KCB BHYT; liên quan trực tiếp người dân và hệ thống y tế.
+3. **Chứng khoán**: 13/VBHN-BTC — hướng dẫn giám sát giao dịch; cần đối chiếu với 145/2026/NĐ-CP (cơ chế tài chính VNX/VSDC) đã có.
+4. **Lâm nghiệp**: 13/VBHN-BNNMT — hợp nhất hướng dẫn Luật Lâm nghiệp; bổ sung 146/2026/NĐ-CP (xử phạt vi phạm lâm nghiệp) đã có.
+5. **Giao thông**: 26/VBHN-BXD — giấy phép lưu hành xe; tác động trực tiếp ngành logistics và vận tải đường bộ.
+
+## Ghi chú xử lý
+
+- 5 văn bản mới trong bảng chính sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **125/2026/NĐ-CP** (KHCN trong cơ sở GDĐH — khung pháp lý mới cho nghiên cứu tại trường ĐH).
+- Thứ hai: **13/VBHN-BNNMT** (Lâm nghiệp — văn bản hợp nhất).
+- Thứ ba: **13/VBHN-BTC** (Chứng khoán — giám sát giao dịch).
+- **02/2026/TT-BNG**: tác động toàn bộ hệ thống Bộ Ngoại giao, các cơ quan đại diện Việt Nam ở nước ngoài.
+- **26/VBHN-BXD**: tác động ngành vận tải, logistics, giao thông đường bộ.
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, chinhphu.vn, luatvietnam.vn, tuyenquang.gov.vn, seaworld.vn.
+- Ngày phát hiện: 2026-06-10 15:01 ICT
+- Phiên thực hiện: agent:github-io:subagent:9118ab22-7cfd-47ea-abb2-9bca72853726 (Đệ #1 Discovery 2026-06-10)
