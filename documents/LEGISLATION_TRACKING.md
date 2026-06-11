@@ -924,3 +924,55 @@ Quét nhanh dãy số 150–205/2026 trên vanban.chinhphu.vn và qua web search
 - Ngày phát hiện: 2026-06-11 04:20 ICT
 - Phiên thực hiện: agent:github-io:subagent:f09b777f-f391-4408-96bf-b3381f2bd669 (Đệ #1 Discovery 2026-06-11 de1-discovery)
 
+---
+
+# Cập nhật 2026-06-11 (phiên Đệ #1 Discovery — quét dãy 191–210)
+
+## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+Quét dãy 191–210/2026 trên vanban.chinhphu.vn và qua web search. So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên 2026-06-11 quét nhanh 150–205): phát hiện **5 văn bản mới** chưa từng được ghi nhận.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 191/2026/NĐ-CP | 29/05/2026 | Ban hành Quy chế làm việc của Chính phủ — thay thế NĐ 39/2014; quy định trình tự, thủ tục, phân công, phối hợp trong hoạt động của Chính phủ | Hành chính | 218297 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218297`; Thủ tướng Lê Minh Hưng ký; hiệu lực 29/5/2026; thay thế NĐ 39/2014/NĐ-CP |
+| 175/2026/NĐ-CP | 15/05/2026 | Quy định về tổ chức, hoạt động của chương trình, dự án tài chính vi mô của tổ chức chính trị - xã hội, tổ chức phi chính phủ | Tài chính / Vi mô | 218165 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218165`; hiệu lực 01/7/2026; tác động chương trình tài chính vi mô cho người nghèo |
+| 176/2026/NĐ-CP | 19/05/2026 | Quy định chính sách ưu đãi đối với giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân — miễn học phí, hỗ trợ sinh hoạt phí, ưu tiên nhiệm vụ KHCN quốc tế | Giáo dục / KHCN | 218231 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218231`; hiệu lực 07/7/2026; tác động đào tạo nhân lực điện hạt nhân |
+| 177/2026/NĐ-CP | 19/05/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Giám định tư pháp — thủ tục, thẩm quyền, chế độ giám định viên | Tư pháp | 218189 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218189`; hiệu lực 01/5/2026; thay thế NĐ 74/2014 |
+| 202/2026/NĐ-CP | 08/06/2026 | Sửa đổi, bổ sung NĐ 10/2022/NĐ-CP về lệ phí trước bạ — kéo dài miễn 100% lệ phí trước bạ lần đầu cho ô tô điện chạy pin (BEV) đến hết 31/12/2030; phân loại theo Bộ Xây dựng; thay thế NĐ 51/2025 | Tài chính / Ô tô điện | — | **Chưa có** | Chưa xác minh docid trên vanban.chinhphu.vn; hiệu lực **01/3/2027** (không phải 01/7/2026); tác động rộng ngành ô tô điện; nguồn: luatvietnam.vn, baochinhphu.vn, vietnamnet.vn |
+
+### Các văn bản phát hiện thêm (chờ phiên sau / cần xác minh docid)
+
+- **186/2026/NĐ-CP** (15/7/2026) — Sửa đổi NĐ 99/2013 về xử phạt VPHA sở hữu công nghiệp — docid 218288 — cần xác minh trạng thái trong tracking
+- **187/2026/NĐ-CP** (27/5/2026) — Chi tiết Luật Phục hồi doanh nghiệp — thay đổi đại diện pháp lý sau khi tòa chấp nhận — docid 218275 — cần xác minh
+- **188/2026/NĐ-CP** (27/5/2026) — Chính sách hỗ trợ học sinh trường nội trú, bán trú xã biên giới — cần xác minh docid
+- **203/2026/NĐ-CP** — tạm loại khỏi tracking (chưa xác minh tồn tại)
+- **207, 208, 209, 210, 211, 212, 213, 214, 215/2026/NĐ-CP** — **KHÔNG tìm thấy** trên vanban.chinhphu.vn sau nhiều lần search; có thể chưa ban hành — loại khỏi tracking
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 191/2026/NĐ-CP | **Mới** — Chưa có | docid 218297 xác minh; thay thế NĐ 39/2014 |
+| 175/2026/NĐ-CP | **Mới** — Chưa có | docid 218165 xác minh; tài chính vi mô |
+| 176/2026/NĐ-CP | **Mới** — Chưa có | docid 218231 xác minh; điện hạt nhân |
+| 177/2026/NĐ-CP | **Mới** — Chưa có | docid 218189 xác minh; giám định tư pháp |
+| 202/2026/NĐ-CP | **Mới** — Chưa có | chưa xác minh docid; hiệu lực 01/3/2027 |
+
+## Đề xuất ưu tiên phiên tiếp theo
+
+1. **Hành chính**: 191/2026/NĐ-CP — Quy chế làm việc của Chính phủ; thay thế NĐ 39/2014; hiệu lực 29/5/2026 (đã có hiệu lực).
+2. **Tư pháp**: 177/2026/NĐ-CP — Chi tiết Luật Giám định tư pháp; hiệu lực 01/5/2026 (đã có hiệu lực).
+3. **Giáo dục / KHCN**: 176/2026/NĐ-CP — Ưu đãi điện hạt nhân; hiệu lực 07/7/2026.
+4. **Tài chính**: 175/2026/NĐ-CP — Tài chính vi mô; hiệu lực 01/7/2026.
+5. **Tài chính**: 202/2026/NĐ-CP — Lệ phí trước bạ ô tô điện; hiệu lực 01/3/2027 (ưu tiên thấp vì chưa có hiệu lực).
+
+## Ghi chú xử lý
+
+- 5 văn bản mới sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- Ưu tiên cao nhất: **191/2026/NĐ-CP** (Quy chế làm việc Chính phủ — văn bản hệ thống, tác động toàn bộ bộ máy nhà nước; đã có hiệu lực từ 29/5/2026).
+- **202/2026/NĐ-CP** cần xác minh docid trong phiên kế tiếp; hiệu lực 01/3/2027 nên ưu tiên thấp.
+- **203–215/2026/NĐ-CP**: Tất cả không tìm thấy trên vanban.chinhphu.vn; loại khỏi tracking.
+- Nguồn: web_fetch vanban.chinhphu.vn (docid 218297, 218165, 218231, 218189) + web_search Brave + Gemini.
+- Ngày phát hiện: 2026-06-11 09:08 ICT
+- Phiên thực hiện: agent:github-io:subagent:805601ec-eb55-4893-aefb-3236f619bcbd (Đệ #1 Discovery 2026-06-11)
+
