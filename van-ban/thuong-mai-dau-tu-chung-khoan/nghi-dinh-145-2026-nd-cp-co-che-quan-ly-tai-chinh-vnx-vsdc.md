@@ -53,13 +53,17 @@ Quy dinh mot so noi dung ve co che quan ly tai chinh, danh gia, xep loai doanh n
 
 **Dieu 2. Nguyen tac ap dung phap luat**
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+1. Ngoài các quy định nêu tại Nghị định này, Sở Giao dịch Chứng khoán Việt Nam và Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam thực hiện quản lý tài chính, đánh giá, xếp loại theo quy định tại Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp và các văn bản hướng dẫn.
+
+2. Trường hợp có sự khác biệt giữa quy định tại Nghị định này và quy định tại các văn bản hướng dẫn Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp thì thực hiện theo quy định của Nghị định này.
 
 ### Chuong II - Co che quan ly tai chinh, danh gia xep loai
 
 **Dieu 3. Hoat dong dau tu**
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+1. Sở Giao dịch Chứng khoán Việt Nam và Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam thực hiện hoạt động đầu tư theo quy định của pháp luật quản lý và đầu tư vốn nhà nước tại doanh nghiệp.
+
+2. Ngoài việc tuân thủ quy định của pháp luật quản lý và đầu tư vốn nhà nước tại doanh nghiệp theo quy định tại khoản 1 Điều này, Sở Giao dịch Chứng khoán Việt Nam và Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam phải xác định rõ các xung đột lợi ích có thể phát sinh khi thực hiện đầu tư, biện pháp để kiểm soát xung đột lợi ích và báo cáo cấp có thẩm quyền quyết định đầu tư xem xét, quyết định trước khi thực hiện hoạt động đầu tư. Thẩm quyền quyết định đầu tư thực hiện theo quy định của pháp luật quản lý và đầu tư vốn nhà nước tại doanh nghiệp, Điều lệ tổ chức và hoạt động của Sở Giao dịch Chứng khoán Việt Nam, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam và quy định của pháp luật có liên quan.
 
 **Dieu 4. Doanh thu**
 
@@ -76,29 +80,51 @@ Quy dinh mot so noi dung ve co che quan ly tai chinh, danh gia, xep loai doanh n
 
 **Dieu 5. Chi phi**
 
-1. So Giao dich Chung khoan Viet Nam, Tong cong ty Luu ky va Bu tru chung khoan Viet Nam quan ly chi phi theo quy dinh cua phap luat quan ly va dau tu von nha nuoc tai doanh nghiep, phap luat ve thue va quy dinh cua phap luat khac co lien quan.
+1. Sở Giao dịch Chứng khoán Việt Nam, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam quản lý chi phí theo quy định của pháp luật quản lý và đầu tư vốn nhà nước tại doanh nghiệp, pháp luật về thuế và quy định của pháp luật khác có liên quan.
 
-2. Tong cong ty Luu ky va Bu tru chung khoan Viet Nam duoc tinh vao chi phi khi xac dinh thu nhap chiu thue doi voi mot so khoan chi phi dac thu sau day:
+2. Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam được tính vào chi phí khi xác định thu nhập chịu thuế đối với một số khoản chi phí đặc thù sau đây:
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+a) Chi trích lập Quỹ phòng ngừa rủi ro nghiệp vụ theo quy định của pháp luật chứng khoán. Việc trích Quỹ phòng ngừa rủi ro nghiệp vụ được thực hiện hàng quý. Trong năm tài chính nếu không sử dụng hết, số dư của Quỹ được chuyển sang năm sau để sử dụng tiếp.
+
+b) Chi phí chuyển công ty con của Sở Giao dịch Chứng khoán Việt Nam đối với hoạt động giao dịch chuyển quyền sở hữu chứng khoán không qua hệ thống giao dịch chứng khoán.
 
 **Dieu 6. Danh gia, xep loai doanh nghiep**
 
 So Giao dich Chung khoan Viet Nam, Tong cong ty Luu ky va Bu tru chung khoan Viet Nam thuc hien danh gia, xep loai doanh nghiep theo quy dinh cua phap luat ve danh gia, xep loai doanh nghiep do Nha nuoc nam giu 100% von dieu le.
 
-**Dieu 7. Quan ly doi voi cong ty do So Giao dich Chung khoan Viet Nam**
+**Dieu 7. Quan ly doi voi cong ty do So Giao dich Chung khoan Viet Nam và Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam nắm giữ 100% vốn điều lệ**
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+1. Sở Giao dịch Chứng khoán Việt Nam và Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam thực hiện quản lý đối với các công ty do mình nắm giữ 100% vốn điều lệ theo quy định của pháp luật doanh nghiệp, pháp luật quản lý và đầu tư vốn nhà nước tại doanh nghiệp, pháp luật chứng khoán và quy định tại Nghị định này.
+
+2. Sở Giao dịch Chứng khoán Việt Nam và Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam cho ý kiến về việc ban hành quy chế tài chính của công ty con. Quy chế quản lý tài chính của công ty con phải bao gồm các nội dung cơ bản sau:
+
+a) Vốn điều lệ, huy động vốn và đầu tư vốn ra bên ngoài.
+
+b) Đầu tư, cho thuê, thuê mua, thế chấp, cầm cố, mua, bán tài sản cố định, quản lý tài sản.
+
+c) Doanh thu và chi phí của công ty con. Trong đó, công ty con của Sở Giao dịch Chứng khoán Việt Nam được hạch toán vào doanh thu hoạt động tài chính đối với lãi tiền gửi phát sinh liên quan đến hoạt động đấu giá chứng khoán; công ty con của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam được tính vào chi phí khi xác định thu nhập chịu thuế đối với chi trích lập Quỹ phòng ngừa rủi ro nghiệp vụ theo quy định của pháp luật chứng khoán.
+
+d) Phân phối lợi nhuận sau thuế và trích lập các quỹ.
+
+đ) Các nội dung khác theo yêu cầu quản lý.
+
+3. Sở Giao dịch Chứng khoán Việt Nam và Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam có trách nhiệm xây dựng, ban hành quy chế, quy trình và thực hiện giám sát nội bộ, giám sát tài chính và kiểm tra, đánh giá hiệu quả hoạt động đối với các công ty do mình nắm giữ 100% vốn điều lệ theo các quy chế, quy trình, phù hợp với quy định tại Nghị định này và pháp luật quản lý và đầu tư vốn nhà nước tại doanh nghiệp.
 
 ### Chuong III - Trach nhiem cua cac co quan
 
 **Dieu 8. Trach nhiem cua So Giao dich Chung khoan Viet Nam va Tong cong ty Luu ky va Bu tru chung khoan Viet Nam**
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+1. Tuân thủ quy định về cơ chế quản lý tài chính và đánh giá, xếp loại doanh nghiệp, tuân thủ chế độ báo cáo và công khai thông tin theo quy định tại Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp, Luật Chứng khoán, các văn bản hướng dẫn và Nghị định này.
+
+2. Chịu sự giám sát, kiểm tra của cơ quan đại diện chủ sở hữu và chịu sự giám sát, thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền đối với công tác tài chính.
+
+3. Thực hiện giám sát, kiểm tra, quản lý vốn của doanh nghiệp mình đầu tư tại công ty con; thực hiện giám sát nội bộ theo quy định của pháp luật quản lý và đầu tư vốn nhà nước tại doanh nghiệp.
 
 **Dieu 9. Trach nhiem cua Bo Tai chinh**
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+1. Thực hiện quyền và trách nhiệm của cơ quan đại diện chủ sở hữu đối với Sở Giao dịch Chứng khoán Việt Nam, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam theo quy định của Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp, các văn bản hướng dẫn và Nghị định này.
+
+2. Đánh giá việc chấp hành chế độ, chính sách để trình Chính phủ ban hành, sửa đổi, bổ sung, thay thế quy định về cơ chế quản lý tài chính, đánh giá, xếp loại doanh nghiệp đối với Sở Giao dịch Chứng khoán Việt Nam, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam.
 
 **Dieu 10. Hieu luc thi hanh va to chuc thuc hien**
 
