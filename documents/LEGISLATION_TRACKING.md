@@ -752,6 +752,112 @@ Ngoài việc xác minh 4 văn bản pending, phiên này quét 5 nhóm ưu tiê
 
 ---
 
+---
+
+# Cập nhật 2026-06-11 (phiên Đệ #1 Discovery — 2026-06-11 06:32 ICT)
+
+## Nhiệm vụ: Xác minh văn bản pending + quét nhóm chưa kiểm tra kỹ + số hiệu cao
+
+### 1. Kết quả xác minh docid cho văn bản đang chờ từ phiên trước
+
+| Số hiệu | Docid đã xác nhận | URL vanban.chinhphu.vn | Trạng thái mới | Ghi chú |
+|---|---:|---|---|---|
+| 198/2026/NĐ-CP | **218344** | `https://vanban.chinhphu.vn/?pageid=27160&docid=218344` | **Chưa có** | Sửa đổi NĐ 26/2025 về cơ cấu tổ chức NHNN — đổi tên Vụ Tín dụng, Vụ Dự báo thống kê; Sở Giao dịch = cục tương đương; hiệu lực **01/7/2026** |
+| 200/2026/NĐ-CP | **218389** | `https://vanban.chinhphu.vn/?pageid=27160&docid=218389` | **Chưa có** | Chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ trong nước và quốc tế; 8 Chương 51 Điều; hiệu lực **05/6/2026** |
+| 201/2026/NĐ-CP | **218369** | `https://vanban.chinhphu.vn/?pageid=27160&docid=218369` | **Chưa có** | Sửa đổi thuế suất thuế xuất khẩu một số mặt hàng (fluorite 97% từ 10%→5%; Bismuth 0%); hiệu lực **23/7/2026** |
+| 199/2026/NĐ-CP | **218364** | `https://vanban.chinhphu.vn/?pageid=27160&docid=218364` | **Chưa có** | Chính sách hỗ trợ phục vụ đối với chức danh lãnh đạo thuộc BCT, T.Ư; lực lượng Công an, Quân đội; hiệu lực **20/7/2026** |
+| 196/2026/NĐ-CP | **218303** | `https://vanban.chinhphu.vn/?pageid=27160&docid=218303` | **Chưa có** | Chức năng, nhiệm vụ, quyền hạn, cơ cấu Văn phòng Chính phủ — chuyển Cổng TTĐT thành Cục TT&TT (loại 1); thay thế NĐ 36/2025, NĐ 369/2025; hiệu lực **01/6/2026** |
+| 202/2026/NĐ-CP | **Chưa xác minh** | — | **Chưa có** | Sửa đổi NĐ 10/2022 — lệ phí trước bạ ô tô điện 0% đến 31/12/2030; hiệu lực 01/3/2027; có bài báo trên baochinhphu.vn nhưng docid chưa xác minh; tiếp tục theo dõi |
+
+### 2. Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
+
+Ưu tiên: (a) văn bản hiệu lực 01/7–20/7/2026, (b) số hiệu 200+, (c) nhóm chưa kiểm tra kỹ (Nông nghiệp, Tài nguyên, Môi trường, Giao thông, An ninh trật tự).
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 41/2026/NĐ-CP | 25/01/2026 | Chi tiết Luật Thủy sản — quản lý khai thác, nuôi trồng, bảo vệ nguồn lợi thủy sản, VMS tàu cá (lưu dữ liệu ≥36 tháng), truy xuất nguồn gốc, gỡ "thẻ vàng" IUU EU | Nông nghiệp / Thủy sản | 216760 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216760`; hiệu lực 25/01/2026; 10+ Chương 60+ Điều; Phó TT Trần Hồng Hà ký; tác động ngành thủy sản xuất khẩu |
+| 42/2026/NĐ-CP | 26/01/2026 | Sửa đổi chính sách đầu tư rừng đặc dụng — tăng kinh phí bảo vệ rừng (50→150 ngàn đồng/ha); tăng hỗ trợ sinh kế vùng đệm (50→100 triệu/cộng đồng/năm); chế độ chữa cháy rừng (bảo hiểm XH, tiền ăn); thay thế NĐ 156/2018, NĐ 58/2024, NĐ 102/2020, NĐ 01/2019 | Nông nghiệp / Lâm nghiệp | 216792 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216792`; hiệu lực 26/01/2026; Phó TT Trần Hồng Hà ký; tác động bảo vệ rừng toàn quốc |
+| 123/2026/NĐ-CP | 04/04/2026 | Chi tiết Luật Giao thông đường thủy nội địa và Luật sửa đổi — quyền, nghĩa vụ kinh doanh vận tải thủy; vận tải siêu trường siêu trọng; VMS tàu thuyền | Giao thông / Đường thủy | 217525 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=217525&pageid=27160`; hiệu lực **01/7/2026**; tác động vận tải đường thủy nội địa |
+| 12/2026/TT-BNV | 29/05/2026 | Hướng dẫn điều chỉnh trợ cấp hàng tháng với cán bộ xã nghỉ việc — tăng 8% theo lương hưu + bổ sung ngưỡng ≥3.800.000 đ/tháng; thay thế TT 08/2024/TT-BNV; hiệu lực **01/7/2026** | Lao động / BHXH | 218316 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218316`; Bộ trưởng Phạm Thị Thanh Trà ký; tác động cán bộ xã, phường, thị trấn toàn quốc |
+| 40/2026/TT-BGDĐT | 15/05/2026 | Quy định công tác sinh viên tại ĐH, CĐ, TC — 5 nhóm nội dung; đánh giá rèn luyện 5 mức (xuất sắc/tốt/khá/trung bình/yếu) thang 100; kỷ luật 4 hình thức (khiển trách, cảnh cáo, đình chỉ học tập, buộc thôi học); kỹ năng số, phòng chống tệ nạn, khởi nghiệp | Giáo dục | — | **Chưa có** | Hiệu lực **30/6/2026**; Bộ trưởng Nguyễn Kim Sơn ký; thay thế TT 10/2016/TT-BGDĐT; tác động toàn bộ sinh viên ĐH/CĐ/TC |
+
+### 3. Xác minh trạng thái văn bản "Chưa có" đã ghi nhận từ các phiên trước
+
+| Số hiệu | Xác minh trên vanban.chinhphu.vn | Trạng thái |
+|---|---|---|
+| 203/2026/NĐ-CP | **KHÔNG tìm thấy** sau nhiều lần search (Brave + Gemini, 10+ nguồn); có thể chưa ban hành hoặc chưa công bố | **Tạm loại** khỏi tracking — chờ công bố; nếu có thì hiệu lực 20/6/2026 |
+| 141/2026/NQ-CP | **KHÔNG tìm thấy** trên vanban.chinhphu.vn; có thể đánh số khác hoặc chưa công bố | **Tạm loại** — tiếp tục theo dõi |
+| 982/QĐ-TTg | **Chưa xác minh được** docid; có thể docid trùng với văn bản khác | **Tạm loại** — cần xác minh thêm |
+| 28/2026/TT-BCT | Không tìm thấy URL trên vanban.chinhphu.vn; theo luatvietnam: hiệu lực **17/7/2026**; danh mục hàng nhập khẩu ATTP thuộc Bộ Công Thương | **Chưa có** (chờ xác minh docid) |
+
+### 4. Quét nhanh 4 nhóm chưa kiểm tra kỹ
+
+#### Nông nghiệp / Lâm nghiệp / Thủy sản
+- 41/2026/NĐ-CP (Thủy sản): **Mới phát hiện** — docid 216760 — thêm vào tracking
+- 42/2026/NĐ-CP (Lâm nghiệp): **Mới phát hiện** — docid 216792 — thêm vào tracking
+- 146/2026/NĐ-CP (Xử phạt lâm nghiệp): **Đã có** trong tracking
+- 66/VBHN-BNNMT (Hướng dẫn Luật Bảo vệ môi trường 2025): docid 217378 — **Đã có** trong tracking
+- Văn bản hợp nhất 55/VBHN-BNNMT (BVMT): **Đã có** trong tracking
+- 23/2026/TT-BNNMT (NTM giai đoạn 2026-2030): docid 218259 — **Đã có** trong tracking
+- 22/2026/TT-BNNMT (Phân cấp cắt giảm TTHC): **Đã có** trong tracking
+- **Phát hiện thêm**: Nghị định chi tiết Luật Thủy sản (ngày 29/5/2026 — NĐ số 1 đợt 2) — tìm thấy trên hatinh.gov.vn nhưng docid chưa xác minh; cần kiểm tra thêm trong phiên kế tiếp
+
+#### Giao thông / Đường thủy
+- 123/2026/NĐ-CP (Giao thông đường thủy nội địa): **Mới phát hiện** — docid 217525 — thêm vào tracking (hiệu lực 01/7/2026)
+- 61/2026/NĐ-CP (Xử lý vi phạm giao thông): **Đã có** (hiệu lực 01/4/2026)
+- 81/2026/NĐ-CP (Xử phạt giao thông đường sắt): chưa kiểm tra — cần xác minh
+- 22/2026/TT-BXD (Đăng kiểm viên giao thông đường bộ): chưa kiểm tra — cần xác minh
+- 26/VBHN-BXD (Tải trọng đường bộ, xe siêu trường siêu trọng): **Đã có** trong tracking
+
+#### Tài nguyên / Môi trường
+- 19/2026/TT-BNNMT (Đo đạc bản đồ địa chính): **Đã có** (hiệu lực 2026-03-30)
+- 48/2026/NĐ-CP (Sửa đổi NĐ 08/2022 về BVMT): hiệu lực 30/01/2026 — chưa kiểm tra — cần xác minh
+- 23/2026/NĐ-CP (Tài nguyên nước): hiệu lực 19/01/2026 — chưa kiểm tra — cần xác minh
+- 09/2026/TT-BNNMT (Sửa đổi Thông tư BVMT): chưa kiểm tra — cần xác minh
+- 110/2026/NĐ-CP (EPR — tái chế sản phẩm bao bì): **Đã có** trong tracking
+
+#### An ninh trật tự
+- 56/2026/NĐ-CP (Điều kiện kinh doanh có điều kiện): **Đã có** (hiệu lực 2026-02-13)
+- 72/2026/TT-BCA (Thiết bị ngụy trang ghi âm/ghi hình): docid 218069 — **Đã có** trong tracking
+- 37/2026/TT-BCA (Đăng ký xe VNeID): **Chưa có** — hiệu lực 08/6/2026 — cần xác minh docid
+- 56/2026/TT-BCA (Quản lý người bị cấm đi khỏi nơi cư trú): **Chưa có** — hiệu lực 01/7/2026 — cần xác minh docid
+- 28/2026/TT-BCA (Phát ngôn báo chí CAND): **Chưa có** — hiệu lực 12/5/2026 — cần xác minh docid
+
+### 5. Ưu tiên cho phiên kế tiếp
+
+**Ưu tiên 1 (hiệu lực 01/7/2026 — sắp hiệu lực):**
+- 164/2026/NĐ-CP — kiểm soát tài sản, nâng ngưỡng kê khai 50→150 triệu
+- 198/2026/NĐ-CP — cơ cấu tổ chức NHNN
+- 123/2026/NĐ-CP — chi tiết Luật Giao thông đường thủy nội địa
+- 12/2026/TT-BNV — điều chỉnh trợ cấp cán bộ xã nghỉ việc
+
+**Ưu tiên 2 (hiệu lực 15–23/7/2026):**
+- 199/2026/NĐ-CP — chính sách hỗ trợ lãnh đạo (20/7)
+- 201/2026/NĐ-CP — sửa thuế xuất khẩu (23/7)
+- 189/2026/NĐ-CP — phát hành phim phục vụ nhiệm vụ chính trị (15/7)
+
+**Ưu tiên 3 (nhóm chưa kiểm tra kỹ):**
+- 41/2026/NĐ-CP và 42/2026/NĐ-CP — Nông nghiệp/Thủy sản/Lâm nghiệp
+- 81/2026/NĐ-CP, 22/2026/TT-BXD — Giao thông
+- 48/2026/NĐ-CP, 23/2026/NĐ-CP — Tài nguyên/Môi trường
+- 37/2026/TT-BCA, 56/2026/TT-BCA, 28/2026/TT-BCA — An ninh trật tự
+
+**Ưu tiên 4 (số hiệu cao, chưa xác minh docid):**
+- 200/2026/NĐ-CP — trái phiếu doanh nghiệp
+- 196/2026/NĐ-CP — Văn phòng Chính phủ
+- 202/2026/NĐ-CP — lệ phí trước bạ ô tô điện
+
+## Ghi chú xử lý
+
+- 5 văn bản mới trong bảng chính (41, 42, 123, 12, 40) cần crawl chi tiết trong phiên Đệ #3 Full Content Crawler tiếp theo.
+- 4 văn bản pending xác minh (203, 141, 982, 28/TT-BCT) được tạm loại hoặc chờ công bố; không tạo entry trong tracking.
+- Docid đã xác minh cho 198, 200, 201, 199, 196 — cập nhật vào tracking.
+- Nguồn: web_search Brave + Gemini + web_fetch vanban.chinhphu.vn (218344, 218389, 218369, 218364, 218303, 216760, 216792, 217525, 218316, 218259).
+- Ngày phát hiện: 2026-06-11 06:32 ICT
+- Phiên thực hiện: agent:github-io:subagent:a0740ba6-475f-40b5-930b-21c25bd3ec5b (Đệ #1 Discovery 2026-06-11)
+
+---
+
 # Cập nhật 2026-06-11 (phiên Đệ #1 Discovery — quét nhanh 150–205/2026)
 
 ## Phát hiện mới từ `vanban.chinhphu.vn` (tối đa 5 văn bản/lần)
