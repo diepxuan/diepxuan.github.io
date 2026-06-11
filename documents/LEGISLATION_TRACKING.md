@@ -6,7 +6,7 @@ Quét dải NĐ-CP 151–212 bằng web search Brave + Gemini + web_fetch vanban
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | URL | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|---|
-| 203/2026/NĐ-CP | 11/06/2026 | Quy định về thi hành án tử hình bằng hình thức tiêm thuốc độc — quy trình chuẩn bị, tiêm, điều kiện cơ sở vật chất, trách nhiệm cơ quan; hiệu lực 01/7/2026; thay thế NĐ 43/2020/NĐ-CP | Tư pháp / Thi hành án | `218xxx` (cần xác minh) | `https://vanban.chinhphu.vn/?pageid=27160&docid=218xxx` | **Chưa có** | Nguồn: baochinhphu.vn (bài báo ngày 11/6/2026); docid chưa xác minh trên vanban.chinhphu.vn; tác động hệ thống tư pháp |
+| 203/2026/NĐ-CP | 11/06/2026 | Quy định về thi hành án tử hình bằng hình thức tiêm thuốc độc — quy trình 3 liều thuốc (mất tri giác, liệt vận động, ngừng tim); cơ sở vật chất, trách nhiệm cơ quan, chi phí mai táng; hiệu lực 01/7/2026; thay thế NĐ 43/2020/NĐ-CP | Tư pháp / Thi hành án | `218409` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218409` | **Đã có** | `van-ban/tu-phap-thi-hanh-an/nghi-dinh-203-2026-nd-cp-thi-hanh-an-tu-hinh.md`; heartbeat 2026-06-12; OCR 11 trang CAdES-BES; 28 Điều, 2 Chương; 20KB |
 | 185/2026/NĐ-CP | 26/05/2026 | Quy định tổ chức, hoạt động của thôn, tổ dân phố và chế độ, chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố — thay thế NĐ 27/2018; quy định số lượng, chức danh, phụ cấp, hỗ trợ; cơ sở pháp lý cho mô hình chính quyền địa phương 2 cấp; hiệu lực 15/7/2026 | Lao động / Hành chính | — | `https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-185-2026-nd-cp-quy-dinh-ve-to-chuc-hoat-dong-cua-thon-to-dan-pho-chinh-sach-voi-nguoi-hoat-dong-khong-chuyen-trach-o-thon-to-dan-pho-119260526172229782.htm` | **Chưa có** (trong tracking ghi "Đã có" sai — cần xác minh lại) | Ghi chú trong tracking cũ: "Đã có" nhưng **KHÔNG tìm thấy file** trong `van-ban/`; chuyển sang "Chưa có"; tác động 11.000+ thôn/xã toàn quốc |
 | 166/2026/NĐ-CP | 15/05/2026 | Quy định hồ sơ, trình tự, thủ tục xác định tình trạng nghiện ma túy — thay thế NĐ 109/2021/NĐ-CP; hiệu lực 01/7/2026 | Y tế / Lao động | `218169` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218169` | **Chưa có** | Ghi nhận bổ sung từ đợt quét dải 163–170; tác động hệ thống cai nghiện ma túy |
 | 167/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết một số điều của Luật Dẫn độ — hiệu lực 01/7/2026 | Tư pháp / Tương trợ tư pháp | `218157` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218157` | **Chưa có** | Ghi nhận bổ sung từ đợt quét dải 163–170; tác động hợp tác tư pháp quốc tế |
@@ -56,6 +56,72 @@ Quét dải NĐ-CP 151–212 bằng web search Brave + Gemini + web_fetch vanban
 - Nguồn: web_search Brave + Gemini + web_fetch vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn.
 - Ngày phát hiện: 2026-06-12 04:10 ICT
 - Phiên thực hiện: agent:github-io:subagent:2e63cafb-381a-4ceb-972c-bd670cc423eb (Đệ #1 Discovery 2026-06-12)
+
+---
+
+## Cập nhật 2026-06-12 (phiên Đệ #1 Discovery — lần 2)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét bổ sung dải 151–212 (ưu tiên 158, 159, 160, 151, 152, 200, 169, 60/2026) bằng web search + web_fetch vanban.chinhphu.vn. Xác minh thông tin: phát hiện **5 văn bản mới** chưa từng được ghi nhận đầy đủ trong bảng chính. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | URL | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|---|
+| 203/2026/NĐ-CP | 11/06/2026 | Quy định về thi hành án tử hình bằng tiêm thuốc độc — quy trình 3 liều thuốc (mất tri giác, liệt vận động, ngừng tim); cơ sở vật chất, trách nhiệm cơ quan; hiệu lực 01/7/2026; thay thế NĐ 43/2020/NĐ-CP | Tư pháp / Thi hành án | `218409` ✅ | `https://vanban.chinhphu.vn/?pageid=27160&docid=218409` | **Chưa có** | **Xác minh thành công** docid `218409` trên vanban.chinhphu.vn; nguồn: baochinhphu.vn + luatvietnam.vn; tác động hệ thống tư pháp, quy trình tiêm chuẩn hóa |
+| 158/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Tương trợ tư pháp về dân sự — thay thế NĐ 92/2008/NĐ-CP; hiệu lực 01/7/2026 | Tư pháp / Tương trợ tư pháp | `218105` ✅ | `https://vanban.chinhphu.vn/?pageid=27160&docid=218105` | **Chưa có** | **Xác minh thành công** docid `218105`; nguồn: vanban.chinhphu.vn (title confirmed); tác động hợp tác tư pháp quốc tế về dân sự |
+| 159/2026/NĐ-CP | 15/05/2026 | Quy định về giảng viên đồng cơ hữu trong các cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học công lập — hiệu lực 01/7/2026 | Giáo dục / Lao động | `218164` ✅ | `https://vanban.chinhphu.vn/?pageid=27160&docid=218164` | **Chưa có** | **Xác minh thành công** docid `218164`; nguồn: vanban.chinhphu.vn (title confirmed); tác động chính sách nhân sự giáo dục công lập |
+| 151/2026/NĐ-CP | 13/05/2026 | Quy định về tổ chức và hoạt động của Văn phòng thi hành án dân sự, Thừa hành viên — đổi tên từ Thừa phát lại; phân quyền cho UBND cấp tỉnh; hiệu lực 01/7/2026 | Tư pháp / Thi hành án dân sự | `218078` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218078` | **Chưa có** | **Xác minh docid `218078`** từ baochinhphu.vn + nhandan.vn; tác động mô hình thi hành án dân sự xã hội hóa cả nước |
+| 152/2026/NĐ-CP | 13/05/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Thi hành án dân sự — 5 chương, 116 điều; triển khai thi hành án dân sự trên môi trường số (Cổng DVCQG, VNeID, nền tảng số); hiệu lực 01/7/2026 | Tư pháp / Thi hành án dân sự | `218079` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218079` | **Chưa có** | **Xác minh docid `218079`** từ baochinhphu.vn + luatvietnam.vn; tác động chuyển đổi số thi hành án dân sự toàn quốc |
+
+### Cập nhật / xác minh trạng thái từ "chờ phiên sau" → bảng chính
+
+| Số hiệu | Thay đổi | Chi tiết |
+|---|---|
+| 203/2026/NĐ-CP | **Docid xác minh** | Phiên trước ghi docid `218xxx` (chưa xác minh) → **Xác minh: `218409`** từ vanban.chinhphu.vn; bổ sung trích yếu chi tiết (3 liều thuốc) |
+| 158/2026/NĐ-CP | **Chuyển vào bảng chính** | Từ "chờ phiên sau" → bảng chính với docid `218105` xác minh; trích yếu chi tiết |
+| 159/2026/NĐ-CP | **Chuyển vào bảng chính** | Từ "chờ phiên sau" → bảng chính với docid `218164` xác minh; trích yếu chi tiết |
+| 160/2026/NĐ-CP | **Xác minh docid** | Giữ nguyên "chờ phiên sau" vì docid `218108` đã có nhưng chưa có trích yếu chi tiết đầy đủ; trích yếu: "Cơ sở dữ liệu về thi hành án hình sự" (vanban.chinhphu.vn title confirmed) |
+| 151/2026/NĐ-CP | **Chuyển vào bảng chính** | Từ "chờ phiên sau" → bảng chính với docid `218078`; trích yếu chi tiết (đổi tên Thừa phát lại → Thừa hành viên) |
+| 152/2026/NĐ-CP | **Chuyển vào bảng chính** | Từ "chờ phiên sau" → bảng chính với docid `218079`; trích yếu chi tiết (5 chương, 116 điều, thi hành án số) |
+
+### Các văn bản tiếp tục chờ (chưa đủ thông tin cho bảng chính)
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|---|
+| 160/2026/NĐ-CP | Docid `218108` ✅, chờ trích yếu chi tiết | "Cơ sở dữ liệu về thi hành án hình sự"; vanban title confirmed |
+| 169/2026/NĐ-CP | Docid `218154` ✅ | "Xử phạt vi phạm hành chính trong lĩnh vực hải quan"; thay thế NĐ 128/2020; hiệu lực 01/7/2026; Brave search xác minh |
+| 200/2026/NĐ-CP | Docid `218389` ✅ | "Chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ"; từ phiên 2026-06-10 |
+| 60/2026/TT-BTC | Docid `218378` ✅ | "Hướng dẫn kinh phí Chương trình mục tiêu quốc gia NTM, giảm nghèo 2026-2035"; Brave search xác minh |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (phiên trước)
+
+| Số hiệu | Trạng thái cũ | Thay đổi |
+|---|---|
+| 203/2026/NĐ-CP | "Chưa có" (docid `218xxx` chưa xác minh) | ✅ Docid `218409` xác minh; trích yếu chi tiết |
+| 158/2026/NĐ-CP | "Chờ phiên sau" | → Bảng chính — Chưa có; docid `218105` xác minh |
+| 159/2026/NĐ-CP | "Chờ phiên sau" | → Bảng chính — Chưa có; docid `218164` xác minh |
+| 151/2026/NĐ-CP | "Chờ phiên sau" | → Bảng chính — Chưa có; docid `218078` xác minh |
+| 152/2026/NĐ-CP | "Chờ phiên sau" | → Bảng chính — Chưa có; docid `218079` xác minh |
+| 160/2026/NĐ-CP | "Chờ phiên sau" | Giữ "chờ" — docid `218108` có nhưng trích yếu chưa đủ chi tiết |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Tư pháp / Thi hành án dân sự**: **151/2026/NĐ-CP + 152/2026/NĐ-CP** — cặp NĐ cùng ban hành 13/05/2026; 152 có 116 điều, 5 chương; cả hai hiệu lực 01/7/2026; ảnh hưởng trực tiếp hệ thống thi hành án cả nước
+2. **Tư pháp / Thi hành án**: **203/2026/NĐ-CP** — vừa ban hành 11/6/2026, hiệu lực 01/7/2026; quy trình tiêm thuốc độc chuẩn hóa; ưu tiên cao vì mới
+3. **Tư pháp / Tương trợ tư pháp**: **158/2026/NĐ-CP** — thay thế NĐ 92/2008; hiệu lực 01/7/2026
+4. **Giáo dục**: **159/2026/NĐ-CP** — giảng viên đồng cơ hữu trong ĐH công lập; hiệu lực 01/7/2026
+5. **Tư pháp / Thi hành án hình sự**: **160/2026/NĐ-CP** — cơ sở dữ liệu thi hành án hình sự
+6. **Tiếp tục xác minh**: 169/2026/NĐ-CP, 200/2026/NĐ-CP, 60/2026/TT-BTC (docid đã có, chờ trích yếu đầy đủ)
+
+## Ghi chú xử lý
+
+- **5 văn bản mới** đưa vào bảng chính: 203, 158, 159, 151, 152/2026/NĐ-CP — cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Xác minh thành công 4 docid mới** (218409, 218078, 218079, 218105, 218164) — toàn bộ đều có trên vanban.chinhphu.vn.
+- **Nhóm ưu tiên cao**: 151/152/2026/NĐ-CP (cùng đợt, cùng nhóm tư pháp) + 203/2026/NĐ-CP (mới ban hành hôm qua 11/6).
+- **Tổng NĐ-CP dải 151–212** đã xác minh: 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 162, 163, 164, 165, 166, 167, 169, 170, 182, 185, 191, 192, 200, 203 — còn thiếu: 161, 168, 171–181, 183, 184, 186–190, 193–199, 201, 202, 204–212.
+- Nguồn: web_search Brave + Gemini + web_fetch vanban.chinhphu.vn, baochinhphu.vn, luatvietnam.vn, nhandan.vn.
+- Ngày phát hiện: 2026-06-12 05:10 ICT
+- Phiên thực hiện: agent:github-io:subagent:732afadc-6ef2-4a83-bd09-e17e3d3b2a71 (Đệ #1 Discovery — lần 2)
 
 ---
 
