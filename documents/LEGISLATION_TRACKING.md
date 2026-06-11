@@ -448,7 +448,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến phiên lần 3): phá
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---|---|
-| 198/2026/NĐ-CP | 03/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 26/2025/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam | Ngân hàng / Tài chính | **Chưa có** | Cần crawl chi tiết; tác động hệ thống thể chế ngân hàng trung ương |
+| 198/2026/NĐ-CP | 03/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 26/2025/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam | Ngân hàng / Tài chính | **Chưa có** | Stub 198 file; 105 dong; can bo sung PDF OCR |
 | 29/2026/TT-BCT | 06/06/2026 | Quy định vận hành thị trường bán buôn điện cạnh tranh, bổ sung quy định về hệ thống pin lưu trữ năng lượng (BESS) | Năng lượng / Thương mại | **Chưa có** | Cần crawl chi tiết; tác động ngành điện lực, năng lượng tái tạo |
 | 30/2026/TT-BKHCN | 06/06/2026 | Danh mục và kiểm soát hàng hóa lưỡng dụng | Khoa học công nghệ / An ninh | **Chưa có** | Cần crawl chi tiết; hiệu lực 06/06/2026; liên quan xuất nhập khẩu công nghệ |
 | 37/2026/TT-BCA | 24/04/2026 | Sửa đổi, bổ sung quy định về đăng ký, kiểm định phương tiện; tích hợp dữ liệu chứng nhận đăng ký xe trên VNeID và VNeTraffic | Giao thông / Công nghệ | **Đã có** | `van-ban/giao-thong-van-tai/thong-tu-37-2026-tt-bca-dang-ky-xe-vneid.md`; heartbeat 2026-06-10; OCR 5 trang scan; 239 dòng, 4 Chương/8 Điều; hiệu lực 08/06/2026 |
