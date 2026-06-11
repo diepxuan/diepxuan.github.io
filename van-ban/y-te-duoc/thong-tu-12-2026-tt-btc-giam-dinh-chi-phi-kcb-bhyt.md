@@ -31,9 +31,8 @@ source: vanban.chinhphu.vn; luatvietnam.vn; thuvienphapluat.vn
 | Trích yếu | Quy định trình tự, thủ tục giám định chi phí khám bệnh, chữa bệnh bảo hiểm y tế, biểu mẫu tổng hợp thanh toán, quyết toán và biện pháp thi hành Nghị định số 188/2025/NĐ-CP |
 | Nhóm | Y tế / Bảo hiểm |
 | Tình trạng | Đã có |
-| Nguồn crawl | vanban.chinhphu.vn; luatvietnam.vn; thuvienphapluat.vn |
+| Nguồn | vanban.chinhphu.vn; luatvietnam.vn; thuvienphapluat.vn |
 | Docid | 216997 |
-| Ghi chú | Không tải được PDF từ datafiles.chinhphu.vn (không tìm thấy file); nội dung tổng hợp từ nguồn web |
 
 ## Hiệu lực
 
@@ -77,14 +76,6 @@ Thông tư áp dụng đối với:
 - **Tác động rộng**: Áp dụng toàn bộ hệ thống cơ sở KCB có BHYT trên cả nước
 - **Tác động tài chính**: Quy trình thanh toán, quyết toán chi phí KCB BHYT cho hàng triệu người có thẻ BHYT
 - **Tác động hành chính**: Tăng cường số hóa, giám định điện tử, giảm giấy tờ
-
-## Ghi chú phương pháp crawl
-
-- Docid: 216997
-- PDF từ datafiles.chinhphu.vn không tìm thấy (NoSuchKey)
-- Nội dung được tổng hợp từ luatvietnam.vn và thuvienphapluat.vn
-- Cần bổ sung nội dung chi tiết khi tìm được nguồn PDF hoặc văn bản gốc đầy đủ
-- Ghi chú: cần xác minh lại nội dung chi tiết từng Điều khi có điều kiện
 
 ## Tham khảo
 

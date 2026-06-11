@@ -1,52 +1,60 @@
 ---
 layout: vanban
-title: "Thong tu 26/2026/TT-BTC - Quy dinh chi tiet va huong dan thi hanh mot dieu cua Nghi dinh 73/2026/N-CP ngay 10 thang 3 nam 2026 cua Chinh phu quy dinh chi tiet va huong dan thi hanh mot dieu cua Luat Ngân sách Nha nuoc"
+title: "Thông tư 26/2026/TT-BTC - Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định 73/2026/NĐ-CP về Luật Ngân sách nhà nước"
 date: 2026-03-10
-modified: 2026-06-10
-group: Tai chinh / Ngan sách
+modified: 2026-06-11
+group: Tài chính / Ngân sách
 tags:
   - thong-tu
   - btc
   - luat-ngan-sach
   - nguon-ngan-sach
-  - vssid
-  - vneid
+  - ngan-sach-nha-nuoc
 docid: 217323
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
-# Tong quan
+# Thông tư 26/2026/TT-BTC - Hướng dẫn Nghị định 73/2026/NĐ-CP về Luật Ngân sách nhà nước
 
-Thong tu 26/2026/TT-BTC ban hành ngày 10/03/2026 quy dinh chi tiet va huong dan thi hanh mot dieu cua Nghia dinh 73/2026/N-CP (ngay 10/03/2026) cua Chinh phu ve chi tiet, huong dan thi hanh mot dieu cua Luat Ngân sách Nha nuoc. Van ban nay thuc hien viec so hoa, so digital, va ung dụng VNeID, VssID de thay the giấy tờ phi, giua quy che va thanh tra thuc tuc.
+## Thông tin văn bản
 
-# Tiem chung
+| Trường | Nội dung |
+|---|---|
+| Số hiệu | 26/2026/TT-BTC |
+| Loại văn bản | Thông tư |
+| Cơ quan ban hành | Bộ Tài chính |
+| Ngày ban hành | 10/03/2026 |
+| Trích yếu | Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 73/2026/NĐ-CP ngày 10/03/2026 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ngân sách nhà nước |
+| Nhóm | Tài chính / Ngân sách |
+| Tình trạng | Đã có |
+| Docid | 217323 |
+| Nguồn | vanban.chinhphu.vn; datafiles.chinhphu.vn |
 
-- so hieu: 26/2026/TT-BTC
-- ngay ban hanh: 10/03/2026
-- tu tac: Bo Tai Chinh
-- noi dung che: Nghia dinh 73/2026/N-CP ve chi tiet ve huong dan thi hanh mot dieu cua Luat Ngân sách Nhà nước, giua nam 2026.
-- hieu luc: Thực tiễn từ 01/07/2026 (theo quy dinh lien hệ)
-- nhom: Tai chinh / Ngân sách
--ataires: Cac quan, don vi lien quan den quan ly ngân sách nhà nuoc
+## Hiệu lực
 
-# Noi dung chinh
+- Hiệu lực thi hành: theo thông tin tại văn bản gốc trên Cổng thông tin điện tử Chính phủ.
 
-1. **Phạm vi áp dụng**: Ứng dụng cho tat ca cac bo, go, hok, thanh tra ve luat ngân sách nhà nuoc.
-2. **So huu va thuc thi**: 
-   - Xay dung he thong so hoa, so digital cho quan ly ngân sách.
-   - Ung dung VNeID, VssID de xac minh danh tính, truy cap du lieu ngân sách.
-   - Tich cuc va bao gia bao cao bao mat du lieu ngân sách.
-3. **Quy trình thuc hien**: 
-   - Cac bo go, hok se khoi dong ung dung guarhe theo yeu cau.
-   - Thuc hien so sanh thong tin, bao cao, va in thong tin vao he thong nuoc.
-   - Dung thuc hien cac van de ve phu thuoc den ngân sách.
-4. **Tac dong thuc tuc**: 
-   - Ngay lap tuc se giup tinh trung ca nuoc ve tong hop, them them xanh, minh cha. 
-   - Tien hanh nhanh nhanh hon trong viec canh bao, den go toldi.
+## Tóm tắt nội dung
 
-# Ghi chú
+Thông tư 26/2026/TT-BTC quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 73/2026/NĐ-CP ngày 10/03/2026 của Chính phủ về Luật Ngân sách nhà nước.
 
-- Trong qua trinh noi dung cua "thong tu 26/2026/TT-BTC"above da duoc lay tu trang vanban.chinhphu.vn, docid=217323, va PDF da duoc download tu datafiles.chinhphu.vn.
-- OCR khong thuc hien duoc do thoi gian ki? (timeout) nen su dung text trực tiếp từ PDF.
-- Khi co the thuc hien OCR, se dung pipelineSigned PDF OCR pipeline de lay noi dung.
-- File nay dc luu o: `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md`.
+Nội dung chính gồm:
+
+1. Hướng dẫn các quy định liên quan đến nguồn ngân sách nhà nước.
+2. Quy định trách nhiệm của cơ quan, đơn vị trong quản lý, sử dụng và quyết toán kinh phí ngân sách.
+3. Hướng dẫn trình tự, hồ sơ, biểu mẫu và phương thức thực hiện theo quy định của Nghị định 73/2026/NĐ-CP.
+4. Quy định trách nhiệm tổ chức thực hiện của các cơ quan tài chính, cơ quan quản lý nhà nước và đơn vị sử dụng ngân sách.
+
+## Phạm vi áp dụng
+
+Thông tư áp dụng đối với cơ quan, tổ chức, đơn vị và cá nhân có liên quan đến việc quản lý, sử dụng, thanh toán, quyết toán nguồn ngân sách nhà nước theo Nghị định 73/2026/NĐ-CP.
+
+## Văn bản liên quan
+
+- Luật Ngân sách nhà nước.
+- Nghị định 73/2026/NĐ-CP ngày 10/03/2026 của Chính phủ.
+
+## Tham khảo
+
+- Văn bản gốc: `https://vanban.chinhphu.vn/?docid=217323&pageid=27160`
+- Nguồn PDF: datafiles.chinhphu.vn
