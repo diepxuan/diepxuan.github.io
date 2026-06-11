@@ -777,8 +777,8 @@ Ngoài việc xác minh 4 văn bản pending, phiên này quét 5 nhóm ưu tiê
 |---|---:|---|---|---:|---|---|
 | 41/2026/NĐ-CP | 25/01/2026 | Chi tiết Luật Thủy sản — quản lý khai thác, nuôi trồng, bảo vệ nguồn lợi thủy sản, VMS tàu cá (lưu dữ liệu ≥36 tháng), truy xuất nguồn gốc, gỡ "thẻ vàng" IUU EU | Nông nghiệp / Thủy sản | 216760 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216760`; hiệu lực 25/01/2026; 10+ Chương 60+ Điều; Phó TT Trần Hồng Hà ký; tác động ngành thủy sản xuất khẩu |
 | 42/2026/NĐ-CP | 26/01/2026 | Sửa đổi chính sách đầu tư rừng đặc dụng — tăng kinh phí bảo vệ rừng (50→150 ngàn đồng/ha); tăng hỗ trợ sinh kế vùng đệm (50→100 triệu/cộng đồng/năm); chế độ chữa cháy rừng (bảo hiểm XH, tiền ăn); thay thế NĐ 156/2018, NĐ 58/2024, NĐ 102/2020, NĐ 01/2019 | Nông nghiệp / Lâm nghiệp | 216792 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216792`; hiệu lực 26/01/2026; Phó TT Trần Hồng Hà ký; tác động bảo vệ rừng toàn quốc |
-| 123/2026/NĐ-CP | 04/04/2026 | Chi tiết Luật Giao thông đường thủy nội địa và Luật sửa đổi — quyền, nghĩa vụ kinh doanh vận tải thủy; vận tải siêu trường siêu trọng; VMS tàu thuyền | Giao thông / Đường thủy | 217525 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=217525&pageid=27160`; hiệu lực **01/7/2026**; tác động vận tải đường thủy nội địa |
-| 12/2026/TT-BNV | 29/05/2026 | Hướng dẫn điều chỉnh trợ cấp hàng tháng với cán bộ xã nghỉ việc — tăng 8% theo lương hưu + bổ sung ngưỡng ≥3.800.000 đ/tháng; thay thế TT 08/2024/TT-BNV; hiệu lực **01/7/2026** | Lao động / BHXH | 218316 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218316`; Bộ trưởng Phạm Thị Thanh Trà ký; tác động cán bộ xã, phường, thị trấn toàn quốc |
+| 123/2026/NĐ-CP | 04/04/2026 | Chi tiết Luật Giao thông đường thủy nội địa và Luật sửa đổi — cơ sở đóng mới/hoán cải/sửa chữa phương tiện; vận tải hàng hóa siêu trường (>40m/10m/4,5m) và siêu trọng (>100 tấn); thẩm quyền Cục Hàng hải Đường thủy / Sở XD; thay thế NĐ 24/2015, 08/2021, 06/2024; hiệu lực **01/7/2026** | Giao thông / Đường thủy | 217525 | **Đã có** | `van-ban/giao-thong-van-tai/nghi-dinh-123-2026-nd-cp-giao-thong-duong-thuy-noi-dia.md`; OCR CAdES-BES signed PDF 4 trang; crawl 2026-06-11; hiệu lực 01/7/2026 |
+| 14/2026/TT-BNV (docid 218316) | 29/05/2026 | Điều chỉnh lương hưu, trợ cấp BHXH và trợ cấp hằng tháng — tăng 8% (×1,08) cho đối tượng theo NĐ 162; nhóm nghỉ trước 01/01/1995: ≤3,5 triệu → +300.000đ, >3,5 triệu nhưng <3,8 triệu → nâng lên 3,8 triệu; trợ cấp tuất tính theo mức lương cơ sở NĐ 161; BHXH VN báo cáo trước 31/12/2026; hiệu lực **01/7/2026** | Lao động / BHXH | 218316 | **Đã có** | `van-ban/lao-dong/thong-tu-12-2026-tt-bnv-dieu-chinh-tro-cap-can-bo-xa.md`; docid 218316 → ghi nhận tại file riêng (khác với docid 218303 → 14/2026/TT-BNV đã có trước đó); PDF 4 trang pdftotext; crawl 2026-06-11 |
 | 40/2026/TT-BGDĐT | 15/05/2026 | Quy định công tác sinh viên tại ĐH, CĐ, TC — 5 nhóm nội dung; đánh giá rèn luyện 5 mức (xuất sắc/tốt/khá/trung bình/yếu) thang 100; kỷ luật 4 hình thức (khiển trách, cảnh cáo, đình chỉ học tập, buộc thôi học); kỹ năng số, phòng chống tệ nạn, khởi nghiệp | Giáo dục | — | **Chưa có** | Hiệu lực **30/6/2026**; Bộ trưởng Nguyễn Kim Sơn ký; thay thế TT 10/2016/TT-BGDĐT; tác động toàn bộ sinh viên ĐH/CĐ/TC |
 
 ### 3. Xác minh trạng thái văn bản "Chưa có" đã ghi nhận từ các phiên trước
@@ -803,7 +803,7 @@ Ngoài việc xác minh 4 văn bản pending, phiên này quét 5 nhóm ưu tiê
 - **Phát hiện thêm**: Nghị định chi tiết Luật Thủy sản (ngày 29/5/2026 — NĐ số 1 đợt 2) — tìm thấy trên hatinh.gov.vn nhưng docid chưa xác minh; cần kiểm tra thêm trong phiên kế tiếp
 
 #### Giao thông / Đường thủy
-- 123/2026/NĐ-CP (Giao thông đường thủy nội địa): **Mới phát hiện** — docid 217525 — thêm vào tracking (hiệu lực 01/7/2026)
+- 123/2026/NĐ-CP (Giao thông đường thủy nội địa): **Đã có** — docid 217525 — file hoàn chỉnh OCR CAdES-BES 4 trang; crawl 2026-06-11 (heartbeat PR #204)
 - 61/2026/NĐ-CP (Xử lý vi phạm giao thông): **Đã có** (hiệu lực 01/4/2026)
 - 81/2026/NĐ-CP (Xử phạt giao thông đường sắt): chưa kiểm tra — cần xác minh
 - 22/2026/TT-BXD (Đăng kiểm viên giao thông đường bộ): chưa kiểm tra — cần xác minh
@@ -829,7 +829,7 @@ Ngoài việc xác minh 4 văn bản pending, phiên này quét 5 nhóm ưu tiê
 - 164/2026/NĐ-CP — kiểm soát tài sản, nâng ngưỡng kê khai 50→150 triệu
 - 198/2026/NĐ-CP — cơ cấu tổ chức NHNN
 - 123/2026/NĐ-CP — chi tiết Luật Giao thông đường thủy nội địa
-- 12/2026/TT-BNV — điều chỉnh trợ cấp cán bộ xã nghỉ việc
+- 14/2026/TT-BNV (docid 218316): **Đã có** — docid 218316 — PDF 4 trang pdftotext; crawl 2026-06-11 (heartbeat PR #204)
 
 **Ưu tiên 2 (hiệu lực 15–23/7/2026):**
 - 199/2026/NĐ-CP — chính sách hỗ trợ lãnh đạo (20/7)
