@@ -1,3 +1,64 @@
+## Cập nhật 2026-06-12 (phiên Đệ #1 Discovery)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét dải NĐ-CP 151–212 bằng web search Brave + Gemini + web_fetch vanban.chinhphu.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-10 cuối ngày): phát hiện **5 văn bản mới** chưa từng được ghi nhận, ưu tiên tác động rộng nhất + ghi chú cập nhật trạng thái:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | URL | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|---|
+| 203/2026/NĐ-CP | 11/06/2026 | Quy định về thi hành án tử hình bằng hình thức tiêm thuốc độc — quy trình chuẩn bị, tiêm, điều kiện cơ sở vật chất, trách nhiệm cơ quan; hiệu lực 01/7/2026; thay thế NĐ 43/2020/NĐ-CP | Tư pháp / Thi hành án | `218xxx` (cần xác minh) | `https://vanban.chinhphu.vn/?pageid=27160&docid=218xxx` | **Chưa có** | Nguồn: baochinhphu.vn (bài báo ngày 11/6/2026); docid chưa xác minh trên vanban.chinhphu.vn; tác động hệ thống tư pháp |
+| 185/2026/NĐ-CP | 26/05/2026 | Quy định tổ chức, hoạt động của thôn, tổ dân phố và chế độ, chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố — thay thế NĐ 27/2018; quy định số lượng, chức danh, phụ cấp, hỗ trợ; cơ sở pháp lý cho mô hình chính quyền địa phương 2 cấp; hiệu lực 15/7/2026 | Lao động / Hành chính | — | `https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-185-2026-nd-cp-quy-dinh-ve-to-chuc-hoat-dong-cua-thon-to-dan-pho-chinh-sach-voi-nguoi-hoat-dong-khong-chuyen-trach-o-thon-to-dan-pho-119260526172229782.htm` | **Chưa có** (trong tracking ghi "Đã có" sai — cần xác minh lại) | Ghi chú trong tracking cũ: "Đã có" nhưng **KHÔNG tìm thấy file** trong `van-ban/`; chuyển sang "Chưa có"; tác động 11.000+ thôn/xã toàn quốc |
+| 166/2026/NĐ-CP | 15/05/2026 | Quy định hồ sơ, trình tự, thủ tục xác định tình trạng nghiện ma túy — thay thế NĐ 109/2021/NĐ-CP; hiệu lực 01/7/2026 | Y tế / Lao động | `218169` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218169` | **Chưa có** | Ghi nhận bổ sung từ đợt quét dải 163–170; tác động hệ thống cai nghiện ma túy |
+| 167/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết một số điều của Luật Dẫn độ — hiệu lực 01/7/2026 | Tư pháp / Tương trợ tư pháp | `218157` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218157` | **Chưa có** | Ghi nhận bổ sung từ đợt quét dải 163–170; tác động hợp tác tư pháp quốc tế |
+| 170/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết thi hành án hình sự (cho phép người chấp hành án được học văn hóa, đào tạo nghề, cấp chứng chỉ hành nghề trong thời gian chấp hành án) | Tư pháp / Thi hành án | `218166` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218166` | **Chưa có** | Ghi nhận bổ sung từ đợt quét dải 163–170; tác động cải tạo, tái hòa nhập cộng đồng |
+
+### Cập nhật trạng thái từ "Đã có" → "Chưa có" (phát hiện sai — không có file thực)
+
+| Số hiệu | Ghi chú |
+|---|---|
+| 185/2026/NĐ-CP | Tracking cũ ghi "Đã có" nhưng **không tìm thấy file** trong `van-ban/` (cả 3 lần quét đều chỉ ghi URL từ xaydungchinhsach, không phải file thực); chuyển → "Chưa có" |
+
+### Các văn bản phát hiện thêm (chưa tạo entry — chờ phiên sau)
+
+- **21/CT-TTg** (Lao động / Hành chính) — Chỉ thị sắp xếp thôn, tổ dân phố; hiệu lực 30/6/2026; cần bổ sung vào nhóm 185/2026
+- **203/2026/NĐ-CP** (Tư pháp / Thi hành án) — thi hành án tử hình bằng tiêm thuốc độc; ngày 11/6/2026; hiệu lực 01/7/2026; docid chưa xác minh trên vanban.chinhphu.vn
+- **158/2026/NĐ-CP** (Tư pháp / Tương trợ tư pháp) — chi tiết Luật Tương trợ tư pháp về dân sự; thay thế NĐ 92/2008/NĐ-CP; hiệu lực 01/7/2026; docid `218105`
+- **159/2026/NĐ-CP** (Giáo dục / Lao động) — quy định giảng viên đồng cơ hữu trong trường cao đẳng, đại học công lập; hiệu lực 01/7/2026; docid `218164`
+- **160/2026/NĐ-CP** (Tư pháp / Thi hành án) — cơ sở dữ liệu thi hành án hình sự; hiệu lực 01/7/2026; docid `218108`
+- **151/2026/NĐ-CP** (Tư pháp) — tổ chức và hoạt động của Văn phòng thi hành án dân sự, Thừa hành viên; hiệu lực 01/7/2026
+- **152/2026/NĐ-CP** (Tư pháp) — chi tiết Luật Thi hành án dân sự; hiệu lực 01/7/2026
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-10 cuối ngày)
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|---||---|
+| 203/2026/NĐ-CP | **KHÔNG** | — | Thêm mới — Chưa có |
+| 185/2026/NĐ-CP | **CÓ (sai)** | Đã có (không có file) | **Sửa → Chưa có** |
+| 166/2026/NĐ-CP | **KHÔNG** | — | Thêm mới — Chưa có |
+| 167/2026/NĐ-CP | **KHÔNG** | — | Thêm mới — Chưa có |
+| 170/2026/NĐ-CP | **KHÔNG** | — | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Tư pháp / Thi hành án**: **203/2026/NĐ-CP** — vừa ban hành ngày 11/6/2026 (hôm nay), hiệu lực 01/7/2026; thay thế NĐ 43/2020; quy định quy trình tiêm thuốc độc chuẩn hóa.
+2. **Lao động / Hành chính**: **185/2026/NĐ-CP** + **21/CT-TTg** — tác động trực tiếp 11.000+ thôn/xã, ảnh hưởng đời sống hơn 60 triệu dân nông thôn; hoàn thành phương án trước 30/6/2026.
+3. **Tư pháp**: 158/2026/NĐ-CP, 160/2026/NĐ-CP, 151/2026/NĐ-CP, 152/2026/NĐ-CP — cùng nhóm thi hành án, tương trợ tư pháp; hiệu lực 01/7/2026.
+4. **Y tế**: 166/2026/NĐ-CP — xác định tình trạng nghiện ma túy mới; liên quan đến 163/2026/NĐ-CP (giám sát điện tử cai nghiện).
+5. **Tư pháp / Tương trợ tư pháp**: 167/2026/NĐ-CP — Luật Dẫn độ.
+6. **Giáo dục**: 159/2026/NĐ-CP — giảng viên đồng cơ hữu trong ĐH công lập.
+
+## Ghi chú xử lý
+
+- **5 văn bản mới** sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- **Lưu ý đặc biệt**: 185/2026/NĐ-CP tracking cũ ghi "Đã có" nhưng không có file thực trong `van-ban/` — cần xác minh kỹ trước khi đánh dấu "Đã có".
+- Ưu tiên cao nhất: **203/2026/NĐ-CP** (vừa ban hành hôm nay 11/6, hiệu lực 01/7).
+- Dải 151–212: 158–170 cần bổ sung (nhiều văn bản đã có URL và docid từ phiên trước nhưng chưa được vào bảng chính).
+- Nguồn: web_search Brave + Gemini + web_fetch vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn.
+- Ngày phát hiện: 2026-06-12 04:10 ICT
+- Phiên thực hiện: agent:github-io:subagent:2e63cafb-381a-4ceb-972c-bd670cc423eb (Đệ #1 Discovery 2026-06-12)
+
+---
+
 ## Cập nhật 2026-06-10 (phiên Đệ #1 Discovery — bổ sung lần 2)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
