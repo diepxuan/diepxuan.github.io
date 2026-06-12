@@ -167,6 +167,9 @@ Lỗi thường gặp:
 | `Chương VIH` | `Chương VIII` |
 | `Chương 1H` | `Chương III` |
 | `Chương IIl` | `Chương III` |
+| `Chương IIH` | `Chương III` |
+| `Chương VIIH` | `Chương VIII` |
+| `Chương VIHI` | `Chương VIII` |
 
 ---
 
@@ -256,10 +259,14 @@ text = path.read_text(encoding="utf-8")
 lines = text.splitlines()
 
 patterns = [
-    "ø", "©", "§", "†", "®", "µ", "�",
+    "ø", "©", "§", "†", "®", "µ", "¬", "¶", "�",
+    ".©)", "c©)", "gø)", "€©)", "__©",
     "Điền", "Điều:", "„ Điều",
     "Chương VỊ", "Chương VIH", "Chương 1H",
-    "ngày l", "ngày L",
+    "Chương IH", "Chương IIl", "Chương IIH", "Chương VIIH", "Chương VIHI",
+    "ngày l", "ngày L", "ngày l7", "ngày L5",
+    "khoản I", "Điều 2§", "Điều §",
+    "§.", "§0", "§2", "§5", "§9", "®Z",
     "tthủ tục",
     "thâm quyền", "thấm quyền",
     "giây tờ", "pháp ly",
@@ -274,7 +281,9 @@ patterns = [
     "SỬA ĐỎI", "BỎ SUNG",
     "Một SÓ", "MỘT SÓ",
     "ĐIÊU KHOÁN", "THỊ HÀNH",
-    "NoSuchKey", "timeout", "pipelineSigned", "above",
+    "NoSuchKey", "timeout", "LLM idle timeout",
+    "pipelineSigned", "above", "crawl failed",
+    "nội dung lấy tạm", "cần bổ sung khi có PDF", "file này được lưu ở",
 ]
 
 issues = []
@@ -326,6 +335,17 @@ if nums:
     print(f"Duplicate: {duplicate}")
 else:
     print("No article heading found")
+
+suspicious = []
+for i, line in enumerate(lines, 1):
+    if re.match(r"^(\*\*)?Điều\s+\d+", line) or any(x in line for x in ["Điều:", "Điền", "„ Điều"]):
+        if not re.match(r"^### Điều\s+\d+\.", line):
+            suspicious.append((i, line[:160]))
+
+if suspicious:
+    print("Suspicious article headings:")
+    for line_no, context in suspicious[:50]:
+        print(f"L{line_no}: {context}")
 ```
 
 ---
@@ -339,15 +359,35 @@ import re
 path = Path("duong-dan-file.md")
 lines = path.read_text(encoding="utf-8").splitlines()
 
+def roman_to_int(value):
+    table = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
+    total = 0
+    prev = 0
+    for ch in reversed(value):
+        cur = table[ch]
+        if cur < prev:
+            total -= cur
+        else:
+            total += cur
+            prev = cur
+    return total
+
 chapters = []
 for i, line in enumerate(lines, 1):
     m = re.match(r"^## Chương\s+([IVXLCDM]+)", line)
     if m:
-        chapters.append((m.group(1), i, line))
+        chapters.append((m.group(1), roman_to_int(m.group(1)), i, line))
 
 print(f"Chapters: {len(chapters)}")
-for roman, line_no, title in chapters:
-    print(f"L{line_no}: {roman} - {title}")
+for roman, number, line_no, title in chapters:
+    print(f"L{line_no}: {roman} ({number}) - {title}")
+
+nums = [x[1] for x in chapters]
+if nums:
+    duplicate = sorted({n for n in nums if nums.count(n) > 1})
+    out_of_order = [(chapters[i-1][1], chapters[i][1], chapters[i][2]) for i in range(1, len(chapters)) if chapters[i][1] <= chapters[i-1][1]]
+    print(f"Duplicate chapters: {duplicate}")
+    print(f"Out-of-order chapters: {out_of_order}")
 
 bad_patterns = [
     "Chương VỊ",
@@ -355,6 +395,9 @@ bad_patterns = [
     "Chương 1H",
     "Chương IH",
     "Chương IIl",
+    "Chương IIH",
+    "Chương VIIH",
+    "Chương VIHI",
     "- ## Chương",
     "„ ## Chương",
 ]
@@ -391,7 +434,8 @@ Mỗi agent crawl văn bản phải làm theo thứ tự:
 - OCR issues = 0.
 - Missing Điều = [].
 - Duplicate Điều = [].
-- Heading Chương không sai số La Mã.
+- Không có suspicious article headings.
+- Heading Chương không sai số La Mã, không trùng và không sai thứ tự.
 - Không có ghi chú crawler/debug trong file public.
 - Không có đoạn không dấu bất thường hoặc câu vô nghĩa.
 - `git diff --check` pass.
