@@ -9,7 +9,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 | 46/2026/TT-BGDĐT | 10/06/2026 | Ban hành Điều lệ trường trung học nghề — quy định tổ chức, hoạt động trường trung học nghề tích hợp (văn hóa THPT + chuyên môn nghề) dành cho học sinh tốt nghiệp THCS; mục tiêu đào tạo nguồn nhân lực, tạo điều kiện vào lao động hoặc học lên; hiệu lực 10/6/2026 | Giáo dục / GD nghề nghiệp | — | **Chưa có** | Tác động trực tiếp hệ thống GD nghề nghiệp; mở rộng con đường học tập sau THCS cho hàng triệu học sinh; nguồn: luatvietnam.vn, giaoduc.net.vn, thuvienphapluat.vn |
 | 56/2026/TT-BCA | 01/07/2026 (hiệu lực) | Quy định quản lý, theo dõi người bị cấm đi khỏi nơi cư trú — cụ thể hóa BLTTHS và Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú năm 2025; Trưởng Công an cấp xã phân công cán bộ quản lý, theo dõi, kiểm tra; lập biên bản nếu vi phạm; hiệu lực 01/7/2026 | An ninh trật tự / Tố tụng hình sự | — | **Chưa có** | Nguồn: baomoi.com, tapchitoaan.vn, congbao.chinhphu.vn (file PDF bocongan.gov.vn); tác động hệ thống CA cấp xã toàn quốc |
 | 19/2026/TT-NHNN | 19/05/2026 | Quy định phân cấp trong thực hiện thủ tục hành chính quy định tại NĐ 94/2025/NĐ-CP về cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng; hiệu lực 30/6/2026 | Ngân hàng / Tài chính | — | **Chưa có** | Tác động Sandbox ngân hàng; nguồn: pbgdplthainguyen.gov.vn, lsvn.vn |
-| 35/2026/TT-BTC | 31/03/2026 | Quy định chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước — thay thế TT 71/2018/TT-BTC; hiệu lực 18/5/2026 | Tài chính / Đối ngoại | — | **Chưa có** | File đã tồn tại tại `van-ban/tai-chinh-ngan-sach/thong-tu-35-2026-tt-btc.md` nhưng chưa được ghi nhận trong tracking; cần xác minh nội dung đầy đủ; tác động quản lý chi tiêu ngân sách tiếp khách |
+| 35/2026/TT-BTC | 31/03/2026 | Quy định chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước — thay thế TT 71/2018/TT-BTC; hiệu lực 18/5/2026 | Tài chính / Đối ngoại | — | **Chưa có** | Đã loại bỏ placeholder chưa xác minh khỏi PR#204; cần crawl lại từ nguồn chính thức trước khi tạo file public |
 | 31/2026/TT-BCT | 11/06/2026 | Quy định truy xuất nguồn gốc sản phẩm, hàng hóa thuộc phạm vi quản lý của Bộ Công Thương — truy xuất điện tử bắt buộc đối với nhóm hàng rủi ro cao; thương nhân thành lập mới từ 1/1/2027 phải thực hiện ngay; hiệu lực 01/7/2026 | Thương mại / Công nghiệp | — | **Chưa có** | Vừa ban hành ngày 11/6/2026 (hôm nay); tác động rộng chuỗi cung ứng, an toàn thực phẩm, hàng tiêu dùng; nguồn: thuehaiquan.tapchikinhtetaichinh.vn, vietnam.vn |
 
 ### Xác minh các văn bản ưu tiên từ nhiệm vụ
@@ -19,7 +19,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 | 185/2026/NĐ-CP | `van-ban/lao-dong/nghi-dinh-185-2026-nd-cp-thon-to-dan-pho.md` | **ĐÃ CÓ** file đầy đủ — front matter có đầy đủ metadata (so_hieu, ngay_ban_hanh, nguoi_ky, thay_the, source), lastedit 2026-06-10 | Chưa có (ghi sai) | **Đã có** |
 | 56/2026/TT-BCA | Không tìm thấy | **Chưa có** — quy định quản lý theo dõi người bị cấm đi khỏi nơi cư trú; PDF tại bocongan.gov.vn; hiệu lực 01/7/2026 | — | Chưa có |
 | 29/2026/TT-BCA | Không tìm thấy | **Chưa có** — không tìm thấy trong web search; có thể chưa ban hành hoặc số hiệu khác | — | Chưa có (chờ xác minh) |
-| 35/2026/TT-BTC | `van-ban/tai-chinh-ngan-sach/thong-tu-35-2026-tt-btc.md` | **ĐÃ CÓ** file nhưng chưa được ghi nhận trong LEGISLATION_TRACKING.md | — | Ghi nhận mới — Chưa có (file có nhưng chưa track) |
+| 35/2026/TT-BTC | Không | Placeholder chưa xác minh đã bị loại khỏi PR#204 theo OCR Quality Gate | — | Chưa có — cần crawl lại từ nguồn chính thức |
 
 ### Văn bản phát hiện thêm (chưa tạo entry — chờ phiên sau)
 
@@ -37,7 +37,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 | 46/2026/TT-BGDĐT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 56/2026/TT-BCA | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 19/2026/TT-NHNN | **KHÔNG** | Không | — | Thêm mới — Chưa có |
-| 35/2026/TT-BTC | **KHÔNG** | Có (file tồn tại) | — | Thêm mới — Chưa có (file có nhưng chưa track) |
+| 35/2026/TT-BTC | **KHÔNG** | Không | — | Thêm mới — Chưa có; placeholder chưa xác minh đã bị loại khỏi PR#204 |
 | 31/2026/TT-BCT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 185/2026/NĐ-CP | **CÓ (ghi sai)** | Có | Chưa có | **Sửa → Đã có** |
 | 29/2026/TT-BCA | **KHÔNG** | Không | — | Chưa có (chờ xác minh — có thể chưa ban hành) |
@@ -55,7 +55,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 
 - **5 văn bản mới** đưa vào bảng chính: 46/2026/TT-BGDĐT, 56/2026/TT-BCA, 19/2026/TT-NHNN, 35/2026/TT-BTC, 31/2026/TT-BCT — cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
 - **185/2026/NĐ-CP**: File tồn tại đầy đủ → chuyển từ "Chưa có (ghi sai)" → **Đã có** trong tracking.
-- **35/2026/TT-BTC**: File đã tồn tại nhưng chưa bao giờ được ghi nhận trong LEGISLATION_TRACKING.md → ghi nhận bổ sung.
+- **35/2026/TT-BTC**: Placeholder chưa xác minh đã bị loại khỏi PR#204; giữ trạng thái **Chưa có**, cần crawl lại từ nguồn chính thức trước khi tạo file public.
 - **29/2026/TT-BCA**: Không tìm thấy bằng web search — có thể chưa ban hành, số hiệu sai, hoặc thuộc nhóm văn bản hạn chế công khai; chờ phiên sau xác minh thêm.
 - Nguồn: web_search Brave + Gemini + web_fetch vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, giaoduc.net.vn, congbao.chinhphu.vn.
 - Ngày phát hiện: 2026-06-12 13:30 ICT

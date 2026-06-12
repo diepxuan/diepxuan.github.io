@@ -553,7 +553,7 @@ chịu sự quản lý của cơ quan nhà nước có thẩm quyền, văn phò
 dân sự nơi đang hành nghề và tô chức xã hội - nghề nghiệp nơi Thừa hành viên
 là thành viên.
 
-: ` Chương IH „ ˆ
+## Chương III
 VÁN PHÓNG THI HÀNH AN DÁN SỰ
 
 
@@ -699,7 +699,7 @@ mình.
 
 4. Hồ sơ lưu trữ của văn phòng thi hành án dân sự bị chấm dứt hoạt động
 theo quy định tại khoản 1 Điều này được thực hiện theo quy định tại khoản 3
-### Điều 50. Nghị định này.
+Điều 50. Nghị định này.
 
 5. Thủ tục chuyển giao hồ sơ của văn phòng thi hành án đân sự chấm đứt
 hoạt động thực hiện theo quy định của Bộ trưởng Bộ Tư pháp.
@@ -725,7 +725,7 @@ theo yêu cầu của Ủy ban nhân dân cấp tỉnh và Bộ Tư pháp.
 công tác thanh tra, kiêm tra, kiêm sát, giám sát, quản lý tài chính, thuê theo quy
 định của pháp luật.
 
-- - 
+- -
 
 ## Chương IV
 THÁM QUYEN, PHẠM VI, THU TỤC THỰC HIỆN
@@ -1795,7 +1795,7 @@ khác có liên quan.
 7. Thừa phát lại từ đủ 69 tuổi trở lên tại thời điểm Nghị định này có hiệu
 lực thi hành được tiếp tục hành nghề cho đến ngày 01 tháng 7 năm 2027. Từ
 sau ngày 01 tháng 7 năm 2027 sẽ đương nhiên miễn nhiệm theo quy định tại
-### Điều 11. Nghị định này.
+Điều 11. Nghị định này.
 38
 
 

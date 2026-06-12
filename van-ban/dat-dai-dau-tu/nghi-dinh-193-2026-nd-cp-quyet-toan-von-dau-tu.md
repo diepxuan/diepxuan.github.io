@@ -125,7 +125,7 @@ nước ngoài: Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an,
 Ngoại giao quy định việc lập báo cáo quyết toán, thẩm tra, phê duyệt quyết
 toán vốn đầu tư phù hợp với yêu cầu đặc thù quản lý ngành và chịu trách
 nhiệm về quy định của mình.
-### Điều 2. Đối tượng áp dụng
+Điều 2. Đối tượng áp dụng
 
 Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan
 đến quyết toán vốn đầu tư dự án thuộc phạm vi điều chỉnh tại Điều 1 Nghị
@@ -792,7 +792,7 @@ luận, kiến nghị của các cơ quan thanh tra, kiểm tra, Kiểm toán nh
 tra (nếu có).
 
 8. Nhận xét, đánh giá, kiến nghị.
-### Điều 19. Hồ sơ trình phê duyệt quyết toán
+Điều 19. Hồ sơ trình phê duyệt quyết toán
 
 1. Cơ quan chủ trì thẩm tra quyết toán lập hồ sơ trình duyệt quyết toán
 vốn đầu tư dự án để trình người có thẩm quyền phê duyệt quyết toán sau khi
@@ -1174,7 +1174,7 @@ vốn đầu tư dự án theo đề nghị của chủ đầu tư.
 nghị của chủ đầu tư, cơ quan chủ trì thẩm tra quyết toán theo đúng quy định
 tại khoản 2 Điều 20 Nghị định này.
 
-### Điều 21. , Nhiệm vụ của bề cơ quan trung ương và Ủy ban nhân dân
+Điều 21. , Nhiệm vụ của bề cơ quan trung ương và Ủy ban nhân dân
 cấp tỉnh; cấp xã, cơ quan. cấp trên của chủ đầu tư, các cơ quan, tô chức”
 khác có liên quan
 
@@ -1299,7 +1299,7 @@ khoản 1 Điều 53; điểm a, c khoản 2 Điều 53; khoản 4 Điều 53.
 
 b) Điều 30, Điều 31, Điều 32; Điều 33, Điều 34, Điều 35, Điều 36, Điều
 37, Điều 38, Điều 39, Điều 40, Điều 41, Điều 42, Điều 43, Điều 44, Điều 45,
-### Điều 46. , Điều 47.
+Điều 46. , Điều 47.
 
 c) Cụm từ “quyết toán vốn đầu tư dự án hoàn thành” tại khoản 2, khoản
 4 Điều 48; khoản 5, điểm a khoản 6 Điều 50.

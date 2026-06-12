@@ -233,7 +233,7 @@ cấp tỉnh.
 quy định.
 
 5. Tổng kết công tác thi hành án tử hình của Công an nhân dân.
-### Điều 11. Trách nhiệm của Cơ quan thi hành án hình sự Công an cấp tỉnh
+Điều 11. Trách nhiệm của Cơ quan thi hành án hình sự Công an cấp tỉnh
 1. Tham gia Hội đồng thi hành án tử hình.
 
 2. Giúp Giám đốc Công an cấp tỉnh xây dựng kế hoạch, phương án, dự
@@ -323,7 +323,7 @@ chiến sĩ trực tiếp thi hành án tử hình trong Quân đội nhân dân
 quy định.
 
 5. Tổng kết công tác thi hành án tử hình của Quân đội nhân dân.
-### Điều 15. Trách nhiệm của Cơ quan thi hành án hình sự cấp quân khu
+Điều 15. Trách nhiệm của Cơ quan thi hành án hình sự cấp quân khu
 1. Tham gia Hội đồng thi hành án tử hình.
 
 2. Giúp Tư lệnh cấp quân khu xây dựng kế hoạch, phương án, dự toán
@@ -366,7 +366,7 @@ Công an nhân dân.
 về thi hành án tử hình.
 
 9. Tổng kết, báo cáo, thống kê nhà nước về thi hành án tử hình.
-### Điều 17. Trách nhiệm của Bộ Quốc phòng
+Điều 17. Trách nhiệm của Bộ Quốc phòng
 
 1. Chịu trách nhiệm chỉ đạo và tổ chức thực hiện việc thi hành án tử hình
 bằng tiêm thuốc độc trong Quân đội nhân dân.

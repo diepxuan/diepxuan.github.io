@@ -57,7 +57,7 @@ NHỮNG QUY ĐỊNH CHUNG
  Phạm vi điều chỉnh
 
 1. Quy định chi tiết Điều 11, Điều 12, Điều 17, Điều 19, khoản 3 Điều 26,
-### Điều 28. , Điều 30, Điều 34 của Luật Tương trợ tư pháp về dân sự.
+Điều 28. , Điều 30, Điều 34 của Luật Tương trợ tư pháp về dân sự.
 
 2. Quy định biện pháp quản lý nhà nước trong lĩnh vực tương trợ tư pháp
 vệ dân sự.
@@ -283,7 +283,7 @@ Tương trợ tư pháp về dân sự là bản chính hoặc bản sao.
 
 4. Hồ sơ phải lập riêng cho từng đương sự, từng địa chỉ, từng phạm vi
 tương trợ tư pháp về dân sự.
-### Điều 12.
+Điều 12.
 
  Nhận và chuyển thực hiện hồ sơ yêu cầu tương trợ tư pháp
 về dân sự của nước ngoài
@@ -310,7 +310,7 @@ tư pháp về dân sự của nước ngoài, Bộ Tư pháp vào sô hồ sơ 
 tư pháp về dân sự của nước ngoài, xem xét, kiểm tra điều kiện hợp lệ của hồ sơ'
 theo quy định tại Điều 11 của Nghị định này, các trường hợp từ chối thực hiện
 yêu câu tương trợ tư pháp về dân sự theo quy định tại các khoản 1 và khoản 2
-### Điều 27. của Luật Tương trợ tư pháp về dân sự và thực hiện một trong các công |
+Điều 27. của Luật Tương trợ tư pháp về dân sự và thực hiện một trong các công |
 việc sau đây:
 
 a) Trường hợp hồ sơ hợp lệ và không thuộc trường hợp từ chối thực hiện
@@ -385,7 +385,7 @@ quyền của nước ngoài có để nghị khác.
 4. Trường hợp việc thực hiện yêu cầu tương trợ tư pháp về dân sự của
 nước ngoài làm phát sinh chi phí thực tế, cơ quan có thâm quyên của Việt Nam
 chỉ thực hiện sau khi đã thu đủ chi phí thực tê.
-### Điều 14.
+Điều 14.
 
  Trình tự, thủ tục và thời hạn thông báo kết quả thực hiện
 yêu cầu tương trợ tư pháp về dân sự của nước ngoài
@@ -643,7 +643,7 @@ việc thực hiện tương trợ tư pháp vê dân sự;
 d) Kiến nghị (nếu có).
 ## Chương V
 ĐIÊU KHOẢN THI HÀNH
-### Điều 24.
+Điều 24.
 
  Hiệu lực thi hành
 

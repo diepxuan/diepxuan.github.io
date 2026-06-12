@@ -821,7 +821,7 @@ soát lại theo quy định tại Thông tư này. Trường hợp không còn 
 ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp đề sửa đổi, bỗ sung cho
 
 phù hợp.
-### Điều 22. Tổ chức thực hiện
+Điều 22. Tổ chức thực hiện
 
 1. Các bộ, cơ quan trung ương, Ủy ban nhân dân các tỉnh, thành phó chỉ
 đạo các cơ quan đơn vị được giao dự toán chỉ Chương trình quản lý, sử dụng và

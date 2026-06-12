@@ -13,10 +13,10 @@ tags: [giao-thong, duong-thuy-noi-dia, noi-dung-chi-tiet, hieu-luc-2026-07-01]
 
 ## Quy định chi tiết một số điều Luật Giao thông đường thủy nội địa và Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa
 
-**Số:** 123/2026/NĐ-CP  
-**Ngày ban hành:** 04/04/2026  
-**Ngày hiệu lực:** 01/07/2026  
-**Cơ quan ban hành:** Chính phủ  
+**Số:** 123/2026/NĐ-CP
+**Ngày ban hành:** 04/04/2026
+**Ngày hiệu lực:** 01/07/2026
+**Cơ quan ban hành:** Chính phủ
 **Người ký:** Thủ tướng Chính phủ (theo đề nghị của Bộ trưởng Bộ Xây dựng)
 
 ---

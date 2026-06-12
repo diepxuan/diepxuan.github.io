@@ -40,9 +40,9 @@ Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam;
 
 Chính phủ ban hành Nghị định quy định về tổ chức, hoạt động của chương trình, dự án tài chính vi mô của tổ chức chính trị - xã hội, tổ chức phi chính phủ.
 
-### Điều 1. Nghị định này thay thế Quyết định số 20/2017/QĐ-TTg ngày 12 tháng 6 năm 2017 của Thủ tướng Chính phủ quy định về hoạt động của chương trình, dự án tài chính vi mô của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức phi chính phủ.
+Điều 1. Nghị định này thay thế Quyết định số 20/2017/QĐ-TTg ngày 12 tháng 6 năm 2017 của Thủ tướng Chính phủ quy định về hoạt động của chương trình, dự án tài chính vi mô của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức phi chính phủ.
 
-### Điều 2. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
+Điều 2. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
 
 ### Điều 3. Các thành viên Chính phủ, Thủ tướng Chính phủ, Thống đốc Ngân hàng Nhà nước Việt Nam và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 

@@ -259,7 +259,7 @@ phân phối.
 1. Sản phẩm Halal lưu thông trên thị trường Việt Nam phải bảo đảm:
 
 a) Đáp ứng các yêu cầu quy định trong tiêu chuẩn công bố áp dụng theo
-### Điều 6. của Nghị định này và phải tuân thủ đầy đủ các quy định của pháp tuậi
+Điều 6. của Nghị định này và phải tuân thủ đầy đủ các quy định của pháp tuậi
 Việt Nam có liên quan;
 
 b) Nguyên liệu và phụ gia phải là Halal, không chứa thành phần Haram
@@ -687,7 +687,7 @@ nhân sản xuất, kinh doanh sản phẩm, dịch vụ Halal được thực h
 phủ về hoạt động kiểm tra chuyên ngành và quy định của pháp luật về chật
 
 lượng sản phẩm, hàng hóa. Ị
-### Điều 19. Trình tự, thủ tục kiểm tra tổ chức chứng nhận Halal
+Điều 19. Trình tự, thủ tục kiểm tra tổ chức chứng nhận Halal
 
 Trình tự, thủ tục kiểm tra việc chấp hành pháp luật đối với tổ chức chứng
 nhận Halal được thực hiện theo các quy định tại Nghị định số 217/2025/NĐ-CP
