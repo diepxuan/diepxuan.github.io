@@ -50,6 +50,10 @@ Khi làm việc với Jekyll website:
 - Không commit khi build thất bại.
 - Kiểm tra link nội bộ trước khi push.
 
+### OCR văn bản pháp luật
+
+Khi task liên quan crawl/OCR/review/sửa văn bản pháp luật trong `van-ban/`, bắt buộc đọc `documents/OCR_QUALITY_GATE.md` trước khi xử lý file.
+
 ---
 
 ## 5. Execution Guard
