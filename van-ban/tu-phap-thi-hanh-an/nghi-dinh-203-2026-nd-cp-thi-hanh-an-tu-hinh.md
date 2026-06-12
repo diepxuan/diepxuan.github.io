@@ -32,14 +32,13 @@ Chính phủ ban hành Nghị định quy định về thi hành án tử hình 
 
 Thời gian ký: 11.06.2026 16:00:51 +07:00
 
-T19.
 
 CHÍNH PHỦ _ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
 Số: 203/2026/NĐ-CP Hà Nội, ngày 11 tháng 6 năm 2026
 
-¡ 6ÔNG THÔNG TIN ĐIỆN TỪ CHÍNH PHÙ
+CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
 
 NGHỊ ĐỊNH .
 Quy định về thi hành án tử hình bằng tiêm thuốc độc
@@ -47,7 +46,7 @@ Quy định về thi hành án tử hình bằng tiêm thuốc độc
 Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15 được sửa đổi, bổ sung
 một số điều bởi Luật số 137/2025/QH15,
 
-Căn cứ Luật Thi hành án hình sự số 12 7⁄2025QHI5,
+Căn cứ Luật Thi hành án hình sự số 127/2025/QH15,
 Theo đề nghị của Bộ trưởng Bộ Công an, .
 Chính phủ ban hành Nghị định quy định về thi hành án tử hình bằng tiêm
 
@@ -183,7 +182,7 @@ dùng cho 01 người.
 Bộ Công an, Bộ Quôc phòng.
 
 4. Bảo quản thuốc theo điều kiện ghi trên nhãn liều thuốc, hướng dẫn của
-đơn vị cung câp. Việc bàn giao thuốc phải được lập biên bản giao, nhận; niêm.
+đơn vị cung cấp. Việc bàn giao thuốc phải được lập biên bản giao, nhận; niêm.
 phong, quản lý chặt chế theo quy định của pháp luật.
 
 ### Điều 9. Cơ sở vật chất và trang thiết bị, phương tiện sử dụng cho thi
@@ -214,7 +213,7 @@ VÀ ỦY BAN NHÂN DÂN CÁC CÁP TRONG THI HÀNH ÁN TỬ HÌNH
 
 Mục Í
 TRÁCH NHIỆM CỦA CƠ QUAN CÓ THẲM QUYÊN _.
-THUỘC CÔNG AN NHÂN DÂN TRƠNG THI HÀNH ÁN TỪ HÌNH
+THUỘC CÔNG AN NHÂN DÂN TRONG THI HÀNH ÁN TỬ HÌNH
 
 ### Điều 10. Trách nhiệm của Cơ quan quản lý thi hành án bình sự Bộ
 Công an
@@ -226,7 +225,7 @@ Công an
 của pháp luật về thi hành án tử hình cho Cơ quan thi hành án hình sự Công an
 cấp tỉnh.
 
-3. Phối hợp với cơ quan y tế tô chức đào tạo, tập huấn nghiệp vụ thi hành
+3. Phối hợp với cơ quan y tế tổ chức đào tạo, tập huấn nghiệp vụ thi hành
 án tử hình cho cán bộ, chiến sĩ trực tiếp thi hành án tử hình trong Công an nhân dân.
 
 4. Thực hiện chế độ thống kê, báo cáo về công tác thi hành án tử hình theo
@@ -238,7 +237,7 @@ quy định.
 
 2. Giúp Giám đốc Công an cấp tỉnh xây dựng kế hoạch, phương án, dự
 toán kinh phí và phân công nhiệm vụ, tổ chức, điều động, bô trí lực lượng,
-phương tiện, cơ sở vật chất khác bảo đảm tuyệt đối an toàn cho việc tô chức thi
+phương tiện, cơ sở vật chất khác bảo đảm tuyệt đối an toàn cho việc tổ chức thi
 hành án tử hình.
 
 3. Lập Đội thi hành án tử hình để làm nhiệm vụ thi hành án tử hình gồm
@@ -256,7 +255,7 @@ thi hành án tử hình là người nước ngoài.
 táng trong trường hợp cơ quan thi hành án hình sự chưa có nơi lưu giữ.
 
 7. Làm thủ tục khai tử tại Ủy ban nhân dân cấp xã nơi thi hành án tử hình;
-tổ chức mai táng, vẽ sơ đồ mộ và đặt bia trên mộ của người đã bị thị hành án
+tổ chức mai táng, vẽ sơ đồ mộ và đặt bia trên mộ của người đã bị thi hành án
 tử hình; thông báo cho gia đình hoặc người đại diện hợp pháp của họ biết.
 
 8. Phối hợp với cơ quan chức năng về ngoại giao, biên phòng, y tế và các
@@ -271,7 +270,7 @@ hình sự Bộ Công an.
 11. Thực hiện các quy định khác về thi hành án tử hình theo quy định của
 pháp luật.
 
-### Điều 12. Trách nhiệm của Công an cấp xã nơi tỗ chức thi hành án tử
+### Điều 12. Trách nhiệm của Công an cấp xã nơi tổ chức thi hành án tử
 hình và nơi mai táng :
 
 1. Tham gia bảo đảm an nỉnh, trật tự trên địa bàn nơi tổ chức thi hành án.
@@ -448,7 +447,7 @@ phương phối hợp bảo đảm an ninh, trật tự, an toàn cho việc thi
 
 1. Ủy ban nhân dân cấp xã nơi tổ chức thi hành án tử hình có trách nhiệm
 bảo đảm an ninh, trật tự nơi thi hành án tử hình; cử đại diện chứng kiến việc thí
-hành án tử hình; thực hiện thủ tục đăng ký khai tử cho người đã bị thị hành án
+hành án tử hình; thực hiện thủ tục đăng ký khai tử cho người đã bị thi hành án
 tử hình; phối hợp với Cơ : quan thi hành án hình sự Công an cấp tỉnh hoặc Cơ
 quan thi hành án hình sự cấp quân khu trong việc mai táng và quản lý mộ của
 người đã bị thi hành án tử hình.
@@ -483,12 +482,12 @@ liên quan đến Nghị định này cũng sẽ được thay đổi theo các 
 ### Điều 24. Trách nhiệm thi hành
 
 1. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng trong phạm vi chức
-năng, nhiệm vụ, quyên hạn được giao có trách nhiệm tổ chức thực biện và
+năng, nhiệm vụ, quyền hạn được giao có trách nhiệm tổ chức thực biện và
 hướng dẫn, kiểm tra việc thi hành Nghị định này.
 11
 
 2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân
-dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tô chức có liên quan
+dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức có liên quan
 chịu trách nhiệm thi hành Nghị định này. l
 
 Nơi nhận:
