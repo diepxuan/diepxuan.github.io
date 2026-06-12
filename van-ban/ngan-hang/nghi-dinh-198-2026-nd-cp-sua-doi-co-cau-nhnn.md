@@ -39,7 +39,7 @@ Sửa đổi, bổ sung một số điều của Nghị định số 26/2025/NĐ
 - Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam;
 - Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 26/2025/NĐ-CP ngày 24 tháng 02 năm 2025.
 
-**Điều 1.** Sửa đổi, bổ sung Điều 3 Nghị định số 26/2025/NĐ-CP ngày 24/02/2025 như sau:
+### Điều 1. Sửa đổi, bổ sung Điều 3 Nghị định số 26/2025/NĐ-CP ngày 24/02/2025 như sau:
 
 > "**Điều 3. Cơ cấu tổ chức**
 >
@@ -74,11 +74,11 @@ Sửa đổi, bổ sung một số điều của Nghị định số 26/2025/NĐ
 >
 > Thống đốc Ngân hàng Nhà nước ban hành quyết định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các tổ chức, đơn vị thuộc Ngân hàng Nhà nước theo quy định của pháp luật."
 
-**Điều 2.** Hiệu lực thi hành
+### Điều 2. Hiệu lực thi hành
 
 Nghị định này có hiệu lực thi hành từ ngày **01 tháng 7 năm 2026**.
 
-**Điều 3.** Trách nhiệm thi hành
+### Điều 3. Trách nhiệm thi hành
 
 Thống đốc Ngân hàng Nhà nước, các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này./.
 
