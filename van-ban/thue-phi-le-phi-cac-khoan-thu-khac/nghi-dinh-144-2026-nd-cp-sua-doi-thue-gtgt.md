@@ -59,19 +59,27 @@ Nghi dinh sua doi, bo sung mot so dieu cua Nghi dinh so 181/2025/ND-CP ngay 01/7
 
 **Dieu 3. Sua doi, bo sung mot so diem cua khoan 2 Dieu 23**
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+1. Sua doi, bo sung diem a nhu sau:
 
-**Dieu 4. Sua doi, bo sung diem d khoan 2 Dieu 26**
+> a) Tong doanh thu cua hang hoa, dich vu ban ra bao gom doanh thu cua hang hoa, dich vu chiu thue gia tri gia tang; doanh thu cua hang hoa, dich vu khong chiu thue gia tri gia tang; gia tri gia tang cua hoat dong mua, ban, che tac va, bạc, đa quy (tru truong hop gia tri gia tang am (-)) va doanh thu cua hang hoa, dich vu quy dinh tai khoan 2 Dieu 40 Nghi dinh nay (neu co).
+> Rieng doanh thu cua to chuc tin dung, chi nhanh ngan hang nuoc ngoai duoc xac dinh theo quy dinh cua phap luat ve cac to chuc tin dung; doanh thu cua hoat dong ve chung khoan va thi truong chung khoan duoc xac dinh theo quy dinh cua phap luat ve chung khoan; doanh thu cua hoat dong kinh doanh bao hiem duoc xac dinh theo quy dinh cua phap luat ve kinh doanh bao hiem.
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+2. Bo sung diem c vao sau diem b nhu sau:
+
+> c) Doanh thu cua hang hoa, dich vu chiu thue gia tri gia tang quy dinh tai khoan nay bao gom ca doanh thu cua hang hoa khong phai ke khai, tinh nop thue gia tri gia tang (neu co) quy dinh tai khoan 1 Dieu 3 Luat Thue gia tri gia tang so 48/2024/QH15 da duoc sua doi, bo sung boi Luat so 149/2025/QH15.
+
+**Dieu 4. Sua doi, bo sung diem g khoan 2 Dieu 26**
+
+> g) Doi voi hang hoa, dich vu mua tra cham, tra gon co gia tri hang hoa, dich vu mua tu 05 trieu dong tro len, co so kinh doanh can cu vao hop dong mua hang hoa, dich vu bang van ban, hoa don gia tri gia tang va chung tu thanh toan khong dung tien mat cua hang hoa, dich vu mua tra cham, tra gon de khau tru thue gia tri gia tang dau vao. Truong hop chua co chung tu thanh toan khong dung tien mat do chua den thoi diem thanh toan theo hop dong, phu luc hop dong thi co so kinh doanh van duoc khau tru thue gia tri gia tang dau vao. Den thoi diem thanh toan theo hop dong, phu luc hop dong, co so kinh doanh khong co chung tu thanh toan khong dung tien mat thi co so kinh doanh phai ke khai, dieu chinh giam so thue gia tri gia tang dau vao duoc khau tru doi voi phan gia tri hang hoa, dich vu khong co chung tu thanh toan khong dung tien mat vao ky tinh thue phat sinh nghia vu thanh toan theo hop dong, phu luc hop dong. Truong hop sau khi dieu chinh, co so kinh doanh co chung tu thanh toan khong dung tien mat thi co so kinh doanh duoc ke khai, khau tru so thue gia tri gia tang dau vao doi voi phan gia tri hang hoa, dich vu co chung tu thanh toan khong dung tien mat vao ky tinh thue co chung tu thanh toan khong dung tien mat.
 
 **Dieu 5. Thay the Danh muc (Phu luc I, Phu luc II)**
 
 Thay the Danh muc cac san pham xuat khau la tai nguyen, khoang san khong khuyen khich xuat khau (Phu luc I) va han che xuat khau (Phu luc II) theo quy dinh tai Nghi dinh nay.
 
-**Dieu 6. Dieu khoan thi hành**
+**Dieu 6. Dieu khoan thi hanh**
 
-(Noi dung chi tiet se duoc cap nhat them tu OCR toan van PDF)
+1. Nghi dinh nay co hieu luc thi hanh ke tu ngay 20 thang 6 nam 2026.
+2. Cac Bo truong, Thu truong co quan ngang bo, Chu tich Uy ban nhan dan cac tinh, thanh pho truc thuoc trung uong va cac to chuc, ca nhan co lien quan chiu trac nhiem thi hanh Nghi dinh nay.
 
 ---
 

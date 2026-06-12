@@ -95,6 +95,7 @@ Viec ra soat cac dieu kien de xu ly du an da duoc cap giay chung nhan khong dung
 - [vanban.chinhphu.vn - Trang chi tiet](https://vanban.chinhphu.vn/?pageid=27160&docid=218049)
 - [PDF goc - 147-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/147-ndcp.signed.pdf)
 - [baochinhphu.vn](https://baochinhphu.vn/co-che-dac-thu-thao-go-vuong-mac-du-an-ton-dong-xu-ly-vi-pham-dat-dai-truoc-nam-2025-10226050914294597.htm)
+- [xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-147-2026-nd-cp-huong-dan-thuc-hien-co-che-dac-thu-thao-go-vuong-mac-du-an-ton-dong-xu-ly-vi-pham-dat-dai-119260510130331407.htm)-dai-truoc-nam-2025-10226050914294597.htm)
 - [xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-147-2026-nd-cp-huong-dan-thuc-hien-co-che-dac-thu-thao-go-vuong-mac-du-an-ton-dong-xu-ly-vi-pham-dat-dai-119260510130331407.htm)
 
 ---
