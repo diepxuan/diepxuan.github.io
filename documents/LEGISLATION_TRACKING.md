@@ -963,3 +963,51 @@ Quét đa nguồn (Brave search, web_fetch vanban.chinhphu.vn, baochinhphu.vn):
 - Nguồn: web_fetch trực tiếp vanban.chinhphu.vn (3 docid xác minh), web_search Brave + Gemini.
 - Ngày phát hiện: 2026-06-12 06:31 ICT
 - Phiên thực hiện: agent:github-io:subagent:098cbd45-2e24-43d9-b098-88b4cbb9b77a (Đệ #1 Discovery — lần 3)
+
+---
+
+## Cập nhật 2026-06-12 (phiên Đệ #1 Discovery — lần 4)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét ưu tiên dải 151–212: 151/2026/NĐ-CP (docid 218078), 158/2026/NĐ-CP (docid 218105), 159/2026/NĐ-CP (docid 218164), 160/2026/NĐ-CP (docid 218108), 185/2026/NĐ-CP (file đã tìm thấy trong van-ban/). So sánh với `documents/LEGISLATION_TRACKING.md` (đến lần 3): phát hiện **5 văn bản** trong đó 1 văn bản chuyển trạng thái "Chưa có" → "Đã có", 4 văn bản mới được bổ sung đầy đủ trích yếu.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | URL | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|---|
+| 151/2026/NĐ-CP | 13/05/2026 | Quy định về tổ chức và hoạt động của Văn phòng thi hành án dân sự (VPTHADS), Thừa hành viên — thay thế NĐ 08/2020/NĐ-CP; đổi tên Thừa phát lại → Thừa hành viên, Văn phòng Thừa phát lại → VPTHADS; cho phép mở chi nhánh; phân quyền cho UBND cấp tỉnh; mở rộng giá trị pháp lý vi bằng; số hóa thi hành án dân sự (VNeID, nền tảng số); miễn kiểm tra tập sự cho Chấp hành viên cũ; hiệu lực 01/7/2026; thay thế NĐ 08/2020/NĐ-CP | Tư pháp / Thi hành án dân sự | `218078` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218078` | **Chưa có** | **Trích yếu đầy đủ xác minh** từ vanban.chinhphu.vn + baochinhphu.vn; 16 điểm mới; tác động toàn bộ hệ thống thi hành án dân sự ngoài công lập cả nước |
+| 158/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Tương trợ tư pháp về dân sự — hướng dẫn hồ sơ, trình tự, thủ tục (20 ngày kiểm tra hồ sơ); quy định chi phí (tạm ứng 3 triệu đồng tại cơ quan THADS cấp tỉnh); phân định trách nhiệm Bộ Tư pháp (đầu mối), Bộ Ngoại giao, cơ quan đại diện VN ở nước ngoài, cơ quan THADS; miễn hợp pháp hóa lãnh sự hồ sơ từ nước ngoài; hiệu lực 01/7/2026; thay thế NĐ 92/2008/NĐ-CP | Tư pháp / Tương trợ tư pháp | `218105` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218105` | **Chưa có** | **Trích yếu đầy đủ xác minh** từ vanban.chinhphu.vn + baochinhphu.vn; tác động hợp tác tư pháp quốc tế về dân sự; nâng cao hiệu quả Luật 102/2025/QH15 |
+| 159/2026/NĐ-CP | 15/05/2026 | Quy định về giảng viên đồng cơ hữu trong các cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học công lập — nguyên tắc quản lý và sử dụng; mỗi viên chức chỉ được là giảng viên đồng cơ hữu của một cơ sở giáo dục tại cùng một thời điểm; hiệu lực 01/7/2026 | Giáo dục / Lao động | `218164` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218164` | **Chưa có** | **Trích yếu đầy đủ xác minh** từ vanban.chinhphu.vn + baochinhphu.vn; tác động chính sách nhân sự giáo dục công lập |
+| 160/2026/NĐ-CP | 15/05/2026 | Quy định cơ sở dữ liệu về thi hành án hình sự — Bộ Công an chủ trì xây dựng, quản lý, vận hành cơ sở dữ liệu tập trung, thống nhất, dùng chung toàn quốc; chi tiết khoản 2 Điều 154 Luật Thi hành án hình sự; dữ liệu gồm thông tin người chấp hành án, bản án, quyết định, lý lịch, số định danh cá nhân; cập nhật trong 24 giờ; kết nối đồng bộ tự động khi đáp ứng điều kiện kỹ thuật; hiệu lực 01/7/2026; 5 chương, 21 điều | Tư pháp / Thi hành án hình sự | `218108` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218108` | **Chưa có** | **Trích yếu đầy đủ xác minh** từ vanban.chinhphu.vn + baochinhphu.vn; tác động số hóa thi hành án hình sự toàn quốc; Bộ Công an chủ trì |
+| 185/2026/NĐ-CP | 26/05/2026 | Quy định về tổ chức, hoạt động của thôn, tổ dân phố và chế độ, chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố — thay thế NĐ 27/2018/NĐ-CP; quy định số lượng, chức danh, phụ cấp, hỗ trợ; cơ sở pháp lý cho mô hình chính quyền địa phương 2 cấp; hiệu lực 15/7/2026 | Lao động / Hành chính | — | `https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-185-2026-nd-cp-quy-dinh-ve-to-chuc-hoat-dong-cua-thon-to-dan-pho-chinh-sach-voi-nguoi-hoat-dong-khong-chuyen-trach-o-thon-to-dan-pho-119260526172229782.htm` | **Chưa có → Đã có** | **Cập nhật trạng thái**: tracking cũ ghi "Chưa có" (sau khi sửa từ "Đã có" sai) → phát hiện file `van-ban/lao-dong/nghi-dinh-185-2026-nd-cp-thon-to-dan-pho.md` tồn tại, 15815 bytes, 207 dòng, lastedit 2026-06-10; chuyển → "Đã có" |
+
+### Cập nhật trạng thái từ "Chưa có" → "Đã có" (phát hiện file trong van-ban/)
+
+| Số hiệu | Thay đổi | Chi tiết |
+|---|---|
+| 185/2026/NĐ-CP | **Chưa có → Đã có** | Từ "Chưa có" (sau khi sửa từ "Đã có" sai trong lần trước) → phát hiện file tồn tại: `van-ban/lao-dong/nghi-dinh-185-2026-nd-cp-thon-to-dan-pho.md`; 15815 bytes, 207 dòng, lastedit 2026-06-10; URL gốc: xaydungchinhsach.chinhphu.vn |
+
+### Xác minh dải 201–212: không có văn bản mới
+
+Quét đa nguồn (Brave search + Gemini + web_fetch vanban.chinhphu.vn):
+
+- **201–212/2026**: Không tìm thấy văn bản nào. Dải trống. Văn bản cao nhất vẫn là 203/2026/NĐ-CP (docid 218409, thi hành án tử hình bằng tiêm thuốc độc, ban hành 11/6/2026, hiệu lực 01/7/2026).
+- 203/2026/NĐ-CP đã có file `van-ban/tu-phap-thi-hanh-an/nghi-dinh-203-2026-nd-cp-thi-hanh-an-tu-hinh.md`.
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Tư pháp / Thi hành án dân sự**: **151/2026/NĐ-CP** — trích yếu đầy đủ xác minh; đổi tên Thừa phát lại → Thừa hành viên; 16 điểm mới; hiệu lực 01/7/2026; tác động toàn bộ hệ thống thi hành án dân sự ngoài công lập
+2. **Tư pháp / Tương trợ tư pháp**: **158/2026/NĐ-CP** — trích yếu đầy đủ xác minh; hướng dẫn chi tiết Luật Tương trợ tư pháp về dân sự; thay thế NĐ 92/2008; hiệu lực 01/7/2026
+3. **Tư pháp / Thi hành án hình sự**: **160/2026/NĐ-CP** — trích yếu đầy đủ xác minh; cơ sở dữ liệu thi hành án hình sự tập trung; Bộ Công an chủ trì; hiệu lực 01/7/2026
+4. **Giáo dục**: **159/2026/NĐ-CP** — trích yếu đầy đủ xác minh; giảng viên đồng cơ hữu; hiệu lực 01/7/2026
+5. **Tiếp tục theo dõi dải 201–212**: hiện không có văn bản mới; cần quét lại khi có thêm NĐ-CP ban hành
+
+## Ghi chú xử lý
+
+- **4 văn bản trích yếu đầy đủ xác minh**: 151, 158, 159, 160/2026/NĐ-CP — cần crawl nội dung trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **1 văn bản chuyển trạng thái "Đã có"**: 185/2026/NĐ-CP — file đã tồn tại trong `van-ban/lao-dong/` từ 2026-06-10.
+- **Dải 200–212**: 200, 203, 192 có file hoặc trạng thái; 201–212 còn trống; 203/2026/NĐ-CP (thi hành án tử hình) là văn bản cao nhất, đã có file.
+- **152/2026/NĐ-CP** (docid 218079, thi hành án dân sự) đã có file 323KB trong `van-ban/tu-phap-thi-hanh-an/`.
+- **154/2026/NĐ-CP** (tiếp công dân) đã có file 1155 dòng trong `van-ban/hanh-chinh-tu-phap/`.
+- Nguồn: web_search Brave + Gemini, web_fetch vanban.chinhphu.vn (docid 218078, 218105, 218164, 218108 xác nhận title), baochinhphu.vn, doanhnghiepcuocsong.vn, thuaphatlaibenthanh.vn, luatvietnam.vn, baophapluat.vn.
+- Ngày phát hiện: 2026-06-12 07:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:b7df2d86-1bf7-4aec-82b3-fed9fc0a513e (Đệ #1 Discovery — lần 4)
