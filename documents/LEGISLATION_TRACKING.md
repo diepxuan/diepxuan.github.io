@@ -1011,3 +1011,44 @@ Quét đa nguồn (Brave search + Gemini + web_fetch vanban.chinhphu.vn):
 - Nguồn: web_search Brave + Gemini, web_fetch vanban.chinhphu.vn (docid 218078, 218105, 218164, 218108 xác nhận title), baochinhphu.vn, doanhnghiepcuocsong.vn, thuaphatlaibenthanh.vn, luatvietnam.vn, baophapluat.vn.
 - Ngày phát hiện: 2026-06-12 07:31 ICT
 - Phiên thực hiện: agent:github-io:subagent:b7df2d86-1bf7-4aec-82b3-fed9fc0a513e (Đệ #1 Discovery — lần 4)
+
+---
+
+## Cập nhật 2026-06-12 (phiên Đệ #1 Discovery — lần 6)
+
+### Phát hiện mới từ `vanban.chinhphu.vn` + nguồn chính thức (tối đa 5 văn bản/lần)
+
+Quét ưu tiên dải 151–212: 151/2026/NĐ-CP (docid 218078), 158/2026/NĐ-CP (docid 218105), 159/2026/NĐ-CP (docid 218164), 160/2026/NĐ-CP (docid 218108), 185/2026/NĐ-CP (đã có file). Kiểm tra văn bản mới tuần 2026-06-12. So sánh với `documents/LEGISLATION_TRACKING.md` (đến lần 5): phát hiện **4 văn bản** chưa từng được ghi nhận trong tracking.
+
+> **Lưu ý**: Các ưu tiên 151, 158, 159, 160, 185 đã được xác minh đầy đủ trích yếu ở lần 4. Lần này tập trung xác minh thêm trạng thái và tìm văn bản mới chưa từng tracking (TT-BCA, TT-BTC mới).
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | URL | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|---|
+| 71/2026/TT-BCA | 25/05/2026 | Hướng dẫn thực hiện tạm hoãn xuất cảnh, chưa cho nhập cảnh — căn cứ Luật Xuất cảnh, nhập cảnh 49/2019/QH14 (sửa 118/2025/QH15), Luật Nhập cảnh 47/2014/QH13 (sửa 103/2025/QH15); quy định phạm vi điều chỉnh, trình tự thủ tục gia hạn, hủy bỏ, giải tỏa quyết định tạm hoãn xuất cảnh và chưa cho nhập cảnh; không điều chỉnh đối với lý do an ninh quốc gia, trật tự, an toàn xã hội | An ninh / Xuất nhập cảnh | — | `https://luatvietnam.vn/xuat-nhap-canh/thong-tu-71-2026-tt-bca-huong-dan-tam-hoan-xuat-canh-chua-cho-nhap-canh-436903-d1.html` | **Chưa có** | **Phát hiện mới** từ web_search tuần 2026-06-12; nguồn: luatvietnam.vn (toàn văn xác minh); căn cứ Luật sửa đổi 118/2025/QH15 + 103/2025/QH15; hiệu lực 01/7/2026; tác động trực tiếp công dân và người nước ngoài |
+| 56/2026/TT-BCA | — | Quy định việc quản lý, theo dõi người bị cấm đi khỏi nơi cư trú — hiệu lực 01/7/2026 | An ninh / Trật tự xã hội | — | `https://tapchitoaan.vn/bo-cong-an-ban-hanh-thong-tu-ve-quy-dinh-quan-ly-theo-doi-nguoi-bi-cam-di-khoi-noi-cu-tru15728.html` | **Chưa có** | **Phát hiện mới** từ web_search tuần 2026-06-12; nguồn: tapchitoaan.vn; cần xác minh ngày ban hành chính xác và trích yếu đầy đủ; hiệu lực 01/7/2026 |
+| 29/2026/TT-BCA | — | Quy định về trình tự, thủ tục thực hiện nội dung chi và một số nội dung quản lý, điều hành Quỹ phòng, chống tội phạm trung ương | An ninh / Tài chính | — | — | **Chưa có** | **Phát hiện mới** từ web_search tuần 2026-06-12; cần xác minh ngày ban hành, trích yếu đầy đủ, URL chính thức |
+| 35/2026/TT-BTC | — | Quy định về chế độ tiếp khách nước ngoài và tổ chức hội nghị quốc tế — được nhắc đến trong ngữ cảnh Thông tư 60/2026/TT-BTC | Tài chính / Ngoại giao | — | — | **Chưa có** | **Phát hiện mới** từ web_search tuần 2026-06-12; cần xác minh ngày ban hành chính xác, trích yếu đầy đủ, URL vanban.chinhphu.vn |
+
+### Xác minh dải 201–212: không có văn bản mới
+
+- **201–212/2026**: Không tìm thấy văn bản nào mới trong dải này. 203/2026/NĐ-CP (thi hành án tử hình bằng tiêm thuốc độc, ban hành 11/6/2026) vẫn là văn bản cao nhất trong dải 151–212.
+- Văn bản cao nhất tính đến 2026-06-12: **203/2026/NĐ-CP** (docid 218409).
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **An ninh / Xuất nhập cảnh**: **71/2026/TT-BCA** — trích yếu xác minh từ toàn văn luatvietnam.vn; căn cứ Luật sửa đổi 118/2025/QH15 + 103/2025/QH15; hiệu lực 01/7/2026; tác động trực tiếp kiểm soát xuất nhập cảnh
+2. **An ninh / Trật tự xã hội**: **56/2026/TT-BCA** — quản lý người bị cấm đi khỏi nơi cư trú; hiệu lực 01/7/2026; cần xác minh ngày + trích yếu đầy đủ
+3. **An ninh / Tài chính**: **29/2026/TT-BCA** — Quỹ phòng chống tội phạm trung ương; cần xác minh ngày + trích yếu
+4. **Tài chính / Ngoại giao**: **35/2026/TT-BTC** — tiếp khách nước ngoài, hội nghị quốc tế; cần xác minh ngày + trích yếu
+5. **Tiếp tục theo dõi dải 201–212**: hiện không có văn bản mới; cần quét lại khi có thêm NĐ-CP ban hành
+
+## Ghi chú xử lý
+
+- **4 văn bản mới phát hiện**: 71, 56, 29/2026/TT-BCA, 35/2026/TT-BTC — tất cả đều chưa có trong tracking.
+- **71/2026/TT-BCA** là văn bản có trích yếu xác minh nhất (toàn văn luatvietnam.vn), cần crawl nội dung trong các phiên Đệ #3 Full Content Crawler.
+- **56, 29/2026/TT-BCA** và **35/2026/TT-BTC** cần xác minh thêm ngày ban hành và trích yếu đầy đủ.
+- Các văn bản ưu tiên 151, 158, 159, 160/2026/NĐ-CP đã xác minh trích yếu đầy đủ ở lần 4; chờ crawl nội dung.
+- **Dải 200–212**: 200, 203, 192 có file hoặc trạng thái; 201–212 còn trống; 203/2026/NĐ-CP là văn bản cao nhất.
+- Nguồn: web_search Brave + Gemini, web_fetch luatvietnam.vn (toàn văn 71/2026/TT-BCA), tapchitoaan.vn, baochinhphu.vn, vietnamplus.vn.
+- Ngày phát hiện: 2026-06-12 09:32 ICT
+- Phiên thực hiện: agent:github-io:subagent:e3dd11dd-4a1b-4e4a-87bc-736b2aeaa705 (Đệ #1 Discovery — lần 6)
