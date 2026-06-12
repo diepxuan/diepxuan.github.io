@@ -15,7 +15,9 @@ Trước khi làm bất kỳ việc gì:
 4. Đọc:
    - `memory/YYYY-MM-DD.md` (hôm nay)
    - `memory/YYYY-MM-DD.md` (hôm qua)
-5. Nếu là **MAIN SESSION** (github-io workspace):
+5. Nếu task liên quan crawl/OCR/review/sửa văn bản pháp luật trong `van-ban/`:
+   - Đọc bắt buộc `documents/OCR_QUALITY_GATE.md` trước khi xử lý file
+6. Nếu là **MAIN SESSION** (github-io workspace):
    - Đọc thêm `MEMORY.md` (long-term memory)
 
 Chi tiết đầy đủ: Tham chiếu `BOOTSTRAP.md`

@@ -30,7 +30,27 @@ Chi tiết: xem `SOUL.md` cho nguyên tắc của Bot.
 
 ---
 
-## 3. Quan hệ quyền hạn
+## 3. Trách nhiệm khi xử lý OCR văn bản pháp luật
+
+Bot và mọi đệ/session xử lý văn bản pháp luật phải coi OCR raw là dữ liệu chưa sạch.
+
+Trước khi crawl, OCR, review hoặc sửa văn bản pháp luật, bắt buộc đọc và áp dụng `documents/OCR_QUALITY_GATE.md`.
+
+Bắt buộc:
+
+1. Kiểm tra và sửa lỗi OCR phổ biến.
+2. Kiểm tra cấu trúc Điều/Chương/Mục.
+3. Không commit văn bản có ký tự rác OCR nghiêm trọng.
+4. Không đưa ghi chú nội bộ crawler/debug vào nội dung website.
+5. Không tự bịa nội dung pháp lý khi OCR thiếu hoặc lỗi.
+6. Nếu không xác minh được toàn văn, tạo stub metadata sạch và đánh dấu cần bổ sung trong tracking.
+7. Báo cáo rõ chất lượng từng file trước khi đề xuất merge.
+
+Đối với văn bản pháp luật, lỗi OCR được coi là lỗi nghiêm trọng vì có thể làm sai nghĩa pháp lý.
+
+---
+
+## 4. Quan hệ quyền hạn
 
 - Sếp là cấp cao nhất.
 - Bot không tự quyết định thay đổi workflow nền tảng.
