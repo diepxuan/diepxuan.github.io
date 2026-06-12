@@ -1,3 +1,60 @@
+## Cập nhật 2026-06-12 (phiên Đệ #1 Discovery — lần 5)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét bổ sung Thông tư mới từ vanban.chinhphu.vn + web_search + web_fetch: 60/2026/TT-BTC (docid 218378), 09/2026/TT-BNV, 07/2026/TT-NHNN, 40/2026/TT-BGDĐT. So sánh với `van-ban/` (2026-06-12): phát hiện **3 văn bản mới** chưa có file riêng trong hệ thống. Ưu tiên tác động rộng nhất:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | URL | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|---|
+| 09/2026/TT-BNV | 25/05/2026 | Sửa đổi Điều 7 Thông tư 21/2021/TT-BLĐTBXH — mức trần giá dịch vụ môi giới khi đưa người lao động Việt Nam đi làm việc ở nước ngoài: không vượt quá 0,5 tháng tiền lương/12 tháng làm việc; hợp đồng từ 36 tháng trở lên: không vượt quá 1,5 tháng tiền lương; thay thế nhiều phụ lục, biểu mẫu theo Phụ lục X; hiệu lực 30/6/2026 | Lao động / Xuất khẩu lao động | `218xxx` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218xxx` | **Chưa có** | Không có file riêng trong `van-ban/` — chỉ tham chiếu trong nhóm `lao-dong/nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong.md`; cần tạo file riêng; tác động thị trường xuất khẩu lao động |
+| 07/2026/TT-NHNN | 06/05/2026 | Sửa đổi, bổ sung quy định về hoạt động môi giới tiền tệ của ngân hàng thương mại và chi nhánh ngân hàng nước ngoài — yêu cầu tổ chức tín dụng ban hành quy định nội bộ chặt chẽ về quy trình, thủ tục, trách nhiệm, quyền hạn nhân sự và quản lý rủi ro; gửi quy định nội bộ cho NHNN trong 10 ngày kể từ ngày ban hành; hiệu lực 20/6/2026 | Ngân hàng / Thị trường tiền tệ | `218xxx` | `https://vanban.chinhphu.vn/?pageid=27160&docid=218xxx` | **Chưa có** | Không có file trong `van-ban/`; docid chưa xác minh trên vanban.chinhphu.vn; tác động hệ thống ngân hàng thương mại và thị trường tiền tệ |
+| 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí chi thường xuyên ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026–2035, giai đoạn I: 2026–2030 | Tài chính / Ngân sách | `218378` ✅ | `https://vanban.chinhphu.vn/?docid=218378&pageid=27160` | **Chưa có** | Xác minh thành công docid `218378` trên vanban.chinhphu.vn; không có file trong `van-ban/`; tác động ngân sách 60+ tỉnh/thành, hàng nghìn xã/phường; nguồn: Brave search |
+
+### Cập nhật / xác minh trạng thái (từ "chờ phiên sau" hoặc chưa rõ)
+
+| Số hiệu | Thay đổi | Chi tiết |
+|---|---|
+| 40/2026/TT-BGDĐT | **Xác minh đã có file riêng** | File: `van-ban/giao-duc-dao-tao/thong-tu-40-2026-tt-bgd-dt-cong-tac-sinh-vien.md` — đã tồn tại; chuyển từ "Chưa có (cần xác minh)" → **Đã có** |
+| 09/2026/TT-BNV | **Phát hiện mới — Chưa có file riêng** | Sửa đổi TT 21/2021/TT-BLĐTBXH; mức trần phí môi giới xuất khẩu lao động; hiệu lực 30/6/2026 |
+| 07/2026/TT-NHNN | **Phát hiện mới — Chưa có** | Sửa đổi quy định môi giới tiền tệ ngân hàng thương mại; hiệu lực 20/6/2026 |
+| 60/2026/TT-BTC | **Phát hiện mới — Chưa có** | Hướng dẫn kinh phí NTM, giảm nghèo, DTTS&MN giai đoạn 2026–2035; docid `218378` xác minh |
+
+### Văn bản tiếp tục chờ xác minh (chưa đủ thông tin)
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|---|
+| 09/2026/TT-BNV | Docid chưa xác minh | Mức trần phí môi giới xuất khẩu lao động; hiệu lực 30/6/2026; nguồn: luatvietnam.vn, baomoi.com |
+| 07/2026/TT-NHNN | Docid chưa xác minh | Môi giới tiền tệ ngân hàng TM; hiệu lực 20/6/2026; nguồn: web search baochinhphu.vn |
+| 169/2026/NĐ-CP | Docid `218154` ✅, trích yếu chưa đầy đủ | "Xử phạt vi phạm hành chính trong lĩnh vực hải quan"; thay thế NĐ 128/2020; hiệu lực 01/7/2026 |
+| 200/2026/NĐ-CP | Docid `218389` ✅, trích yếu chưa đầy đủ | "Chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ"; từ phiên 2026-06-10 |
+| 160/2026/NĐ-CP | Docid `218108` ✅, trích yếu chưa đầy đủ | "Cơ sở dữ liệu về thi hành án hình sự"; hiệu lực 01/7/2026 |
+
+### Tổng kết dải 151–212 (cập nhật 2026-06-12)
+
+Đã xác minh đầy đủ: 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 162, 163, 164, 165, 166, 167, 169, 170, 182, 185, 191, 192, 200, 203
+Đã xác minh docid nhưng chưa có file: 158, 159, 160, 169, 200
+Đã xác minh docid nhưng chưa crawl nội dung đầy đủ: 151, 152, 153, 154, 155, 156, 157, 163, 164, 165, 166, 167, 170, 185
+Còn thiếu: 161, 168, 171–181, 183, 184, 186–190, 193–199, 201, 202, 204–212
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Tài chính / Ngân sách**: **60/2026/TT-BTC** — docid `218378` xác minh; hướng dẫn kinh phí NTM giai đoạn 2026–2035; tác động ngân sách cả nước
+2. **Lao động / Xuất khẩu lao động**: **09/2026/TT-BNV** — mức trần phí môi giới; hiệu lực 30/6/2026 (rất gần)
+3. **Ngân hàng**: **07/2026/TT-NHNN** — môi giới tiền tệ; hiệu lực 20/6/2026
+4. **Tư pháp / Thi hành án dân sự**: 151/2026/NĐ-CP, 152/2026/NĐ-CP — hiệu lực 01/7/2026; cần xác minh đã có file trong `van-ban/` chưa
+5. **Tiếp tục xác minh**: 169/2026, 200/2026, 160/2026/NĐ-CP (docid có, cần trích yếu đầy đủ + crawl)
+
+## Ghi chú xử lý
+
+- **3 văn bản mới** được ghi nhận: 09/2026/TT-BNV, 07/2026/TT-NHNN, 60/2026/TT-BTC — chưa có file trong `van-ban/`, cần tạo file riêng trong các phiên tiếp theo.
+- **40/2026/TT-BGDĐT**: xác minh **Đã có** file riêng trong `van-ban/`, không cần tạo mới.
+- **Lưu ý đặc biệt**: 60/2026/TT-BTC có docid `218378` xác minh rõ ràng trên vanban.chinhphu.vn, nên ưu tiên xuống Đệ #3 Full Content Crawler.
+- Nguồn: web_search Brave + Gemini + web_fetch vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn.
+- Ngày phát hiện: 2026-06-12 09:01 ICT
+- Phiên thực hiện: agent:github-io:subagent (Đệ #1 Discovery — lần 5)
+
+---
+
 ## Cập nhật 2026-06-12 (phiên Đệ #1 Discovery)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
