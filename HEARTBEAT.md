@@ -61,11 +61,13 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
 - Quy trình (cho mỗi văn bản được yêu cầu):
   1. Lấy metadata từ vanban.chinhphu.vn (số hiệu, ngày ban hành, người ký, ngày hiệu lực, trích yếu, căn cứ pháp luật)
   2. Nếu có PDF có chữ ký số -> áp dụng Signed PDF OCR Pipeline (mục 3)
-  3. Đọc `documents/OCR_QUALITY_GATE.md`, chạy scan OCR + scan Điều/Chương trước khi xem file là hoàn chỉnh
-  4. Merge metadata + nội dung OCR thành 1 file Markdown hoàn chỉnh
-  5. Sửa lỗi OCR chắc chắn; lỗi không chắc phải đối chiếu nguồn hoặc đánh dấu stub/chưa hoàn thiện trong tracking
-  6. Lưu file hoàn chỉnh vào `van-ban/` trên branch của PR heartbeat active
-  7. Commit kết quả vào PR heartbeat active với message rõ văn bản/tác vụ
+  3. Merge metadata + nội dung OCR thành 1 file Markdown hoàn chỉnh
+  4. Đọc `documents/OCR_QUALITY_GATE.md`
+  5. Chạy scan OCR + scan Điều/Chương trên file Markdown cuối cùng sẽ được commit
+  6. Sửa lỗi OCR chắc chắn; lỗi không chắc phải đối chiếu nguồn hoặc đánh dấu stub/chưa hoàn thiện trong tracking
+  7. Chạy lại quality gate sau khi sửa; chỉ lưu/commit khi artifact cuối đã pass hoặc đã được đánh dấu stub/chưa hoàn thiện
+  8. Lưu file hoàn chỉnh vào `van-ban/` trên branch của PR heartbeat active
+  9. Commit kết quả vào PR heartbeat active với message rõ văn bản/tác vụ
 - Output: File hoàn chỉnh đã qua OCR quality gate + commit cập nhật vào PR heartbeat active, chờ Sếp review
 
 **Đệ #4: Content Reviewer**

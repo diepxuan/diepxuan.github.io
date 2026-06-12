@@ -267,6 +267,13 @@ patterns = [
     "hỗ sơ", "Hồ SƠ",
     "hợp, lệ", "hợp. lệ",
     "bạ tầng", "ph��p",
+    "khủ công nghệ", "công bế",
+    "kế từ ngày", "kê từ ngày",
+    "bao gôm", "xúc tiễn", "xúc tiên",
+    "quôc gia", "hăng năm",
+    "SỬA ĐỎI", "BỎ SUNG",
+    "Một SÓ", "MỘT SÓ",
+    "ĐIÊU KHOÁN", "THỊ HÀNH",
     "NoSuchKey", "timeout", "pipelineSigned", "above",
 ]
 
