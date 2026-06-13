@@ -6,6 +6,25 @@ Thư mục này chứa các scripts để xử lý dữ liệu văn bản pháp 
 
 ## 🎯 Script chính (DUY NHẤT CẦN DÙNG)
 
+### `ocr_pdf.py`
+**OCR pipeline cho PDF văn bản pháp luật** - Tự động hóa toàn bộ quy trình OCR với kiểm tra chất lượng.
+
+```bash
+python3 scripts/ocr_pdf.py /tmp/<file>.pdf /tmp/<file>-ocr.txt [dpi=150]
+```
+
+**Chức năng:**
+1. Kiểm tra kích thước PDF (file < 0.1 MB = có vấn đề, dừng)
+2. Convert PDF thành ảnh PNG với DPI tùy chọn
+3. Skip trang blank (< 5KB sau convert)
+4. OCR từng trang bằng tesseract với gói tiếng Việt
+5. Gộp kết quả thành file toàn văn
+
+**Kiểm tra chất lượng:**
+- PDF < 0.1 MB: Cảnh báo, ghi log lỗi vào output
+- Trang < 5KB: Skip tự động
+- Trang blank/small: Ghi log cảnh báo
+
 ### `vanban_generator.py`
 **Script hợp nhất duy nhất** - Tạo markdown files từ database với cấu trúc URL đúng.
 
