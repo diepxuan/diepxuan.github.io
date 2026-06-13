@@ -1,5 +1,5 @@
 ---
-layout: van-ban
+layout: vanban
 title: "Nghị định 199/2026/NĐ-CP về hỗ trợ phục vụ lãnh đạo Công an, Quân đội"
 so_hieu: 199/2026/NĐ-CP
 ngay_ban_hanh: 05/06/2026

@@ -267,7 +267,7 @@ pháp luật.
 ### Điều 12. Trách nhiệm của Công an cấp xã nơi tổ chức thi hành án tử
 hình và nơi mai táng :
 
-1. Tham gia bảo đảm an nỉnh, trật tự trên địa bàn nơi tổ chức thi hành án.
+1. Tham gia bảo đảm an ninh, trật tự trên địa bàn nơi tổ chức thi hành án.
 tử hình và nơi mai táng.
 
 2. Kịp thời phát hiện, ngăn chặn và xử lý các trường hợp vi phạm pháp
