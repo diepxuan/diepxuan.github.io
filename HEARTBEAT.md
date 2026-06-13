@@ -98,7 +98,7 @@ Vòng lặp (Bột quyết định khi nào chạy):
 4. Bột quyết định:
    - Văn bản nào cần hoàn thiện? -> Chọn và gọi Đệ #3
 5. Bột xác định/tạo PR heartbeat active, rồi gọi Đệ #3 (Full Crawler) -> Nhận file hoàn chỉnh + commit trong PR active
-6. Bột push cập nhật vào cùng PR heartbeat active và báo cáo Sếp chờ review
+6. Bột push cập nhật vào cùng PR heartbeat active, cập nhật PR title/body/comment theo mục 2.6, rồi báo cáo Sếp chờ review
 7. Sau khi duyệt, Bột gọi Đệ #4 (Reviewer) -> Nhận báo cáo (5 văn bản/lần)
 8. Bột quyết định:
    - File OK -> kết thúc
@@ -140,6 +140,95 @@ Quy tắc:
 6. Nếu có nhiều PR heartbeat đang mở, chọn PR mới nhất còn an toàn để tiếp tục; nếu không xác định chắc chắn, tạo PR mới từ `origin/main` và báo cáo Sếp.
 
 PR heartbeat active là ngoại lệ được Sếp cho phép so với luật `mỗi file/mỗi task = 1 PR`. Ngoại lệ này chỉ áp dụng cho cron `crawl-vanban`.
+
+### 2.6. Bắt buộc cập nhật nội dung PR sau mỗi lần push
+
+Khi heartbeat có commit mới và push vào PR heartbeat active, Bột không được chỉ cập nhật branch. Bột phải cập nhật đồng thời nội dung PR để Sếp review được trạng thái mới nhất.
+
+Quy trình bắt buộc sau mỗi lần push:
+
+1. Re-query PR active bằng `gh pr view` để lấy:
+   - số PR;
+   - title hiện tại;
+   - head/base branch;
+   - changed files;
+   - additions/deletions;
+   - `mergeable` và `mergeStateStatus`.
+2. Cập nhật PR body bằng trạng thái tổng hợp mới nhất:
+   - mục tiêu PR;
+   - phạm vi hiện tại;
+   - danh sách văn bản/file đã thêm hoặc sửa;
+   - commit mới nhất;
+   - nguồn dữ liệu/PDF đã dùng;
+   - kết quả OCR Quality Gate, scan Điều/Chương, placeholder/source check;
+   - rủi ro còn lại và phần cần Sếp review.
+3. Post thêm một PR comment cho lần heartbeat vừa chạy:
+   - thời gian chạy theo Asia/Saigon;
+   - commit vừa push;
+   - file thay đổi;
+   - validation đã chạy;
+   - ghi chú review.
+4. Nếu scope thực tế của PR đã thay đổi lớn so với title/body cũ, cập nhật title/body cho khớp diff hiện tại trước khi báo cáo Sếp.
+5. Re-query PR lần cuối sau khi cập nhật body/comment và báo cáo Sếp kèm link PR/comment.
+
+Nếu cập nhật PR body hoặc PR comment thất bại, Bột phải báo lỗi rõ trong báo cáo cuối. Không được báo `xong` khi branch đã push nhưng nội dung PR chưa được cập nhật.
+
+Template PR body heartbeat:
+
+```md
+## Tổng quan
+
+PR heartbeat active cho task `crawl-vanban`.
+
+## Phạm vi hiện tại
+
+- Branch: `<branch>`
+- Base: `<base>`
+- Số file thay đổi: `<n>`
+- Additions/deletions: `+x / -y`
+
+## Cập nhật mới nhất
+
+- Thời gian: `<YYYY-MM-DD HH:mm Asia/Saigon>`
+- Commit mới: `<sha>`
+- Văn bản/tác vụ:
+  - `<file/path.md>` — `<mô tả>`
+
+## Validation
+
+- `git diff --check`: pass/fail
+- OCR Quality Gate: pass/fail/not applicable
+- Scan Điều/Chương: pass/fail/not applicable
+- Placeholder/source check: pass/fail/not applicable
+
+## Cần Sếp review
+
+- `<file>` — `<điểm cần chú ý>`
+
+## Lịch sử heartbeat
+
+- `<time>` — `<commit>` — `<summary>`
+```
+
+Template PR comment heartbeat:
+
+```md
+Heartbeat update `<YYYY-MM-DD HH:mm Asia/Saigon>`
+
+Đã push commit `<sha>` vào PR active.
+
+Thay đổi:
+- `<file>`: `<mô tả>`
+
+Validation:
+- `git diff --check`: pass
+- OCR Quality Gate: pass/not applicable
+- Điều/Chương: pass/not applicable
+- Placeholder/source check: pass
+
+Ghi chú review:
+- `<điểm cần Sếp xem>`
+```
 
 ---
 
@@ -273,8 +362,9 @@ Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
    - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
    - Tracking đầy đủ + không có file cần refactor → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
 4. **Quản lý vòng đời đệ theo mục 4.5** (chạy trước bước 5 để ghi kết quả kill/spawn vào báo cáo cuối).
-5. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR đang chờ review, kết quả kill/spawn đệ stale).
-6. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
+5. Nếu có commit/push vào PR active, bắt buộc cập nhật PR title/body/comment theo mục 2.6 trước khi báo cáo Sếp.
+6. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR đang chờ review, link comment PR mới nhất nếu có, kết quả kill/spawn đệ stale).
+7. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
 
 **Không hỏi Sếp giữa chừng. Không dừng để chờ phản hồi.**
 
