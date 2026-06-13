@@ -1,22 +1,24 @@
 ---
 layout: van-ban
-title: "Nghị định 199/2026/NĐ-CP — Quy định chính sách hỗ trợ phục vụ đối với các chức danh, chức vụ lãnh đạo thuộc diện Bộ Chính trị, Ban Bí thư quản lý và các chức danh theo cấp bậc hàm trong Công an nhân dân, cấp bậc quân hàm trong Quân đội nhân dân"
-date: 2026-06-05 00:00:00 +0700
-categories: [van-ban, lao-dong, to-chuc-bo-may]
-tags: [nghi-dinh, ho-tro-phuc-vu, che-do-luong, lanh-dao, bo-chinh-tri, quan-doi, cong-an]
-permalink: /van-ban/lao-dong/nghi-dinh-199-2026-nd-cp-ho-tro-phuc-vu-lanh-dao-cong-an-quan-doi/
+title: "Nghị định 199/2026/NĐ-CP về hỗ trợ phục vụ lãnh đạo Công an, Quân đội"
 so_hieu: 199/2026/NĐ-CP
-ngay_ban_hanh: "05/06/2026"
-ngay_hieu_luc: "20/07/2026"
+ngay_ban_hanh: 05/06/2026
+ngay_hieu_luc: 20/07/2026
 nguoi_ky: Nguyễn Văn Thắng
-trich_yeu: Quy định chính sách hỗ trợ phục vụ đối với các chức danh, chức vụ lãnh đạo thuộc diện Bộ Chính trị, Ban Bí thư quản lý; các chức danh theo cấp bậc hàm trong Công an nhân dân và cấp bậc quân hàm trong Quân đội nhân dân
 co_quan_ban_hanh: Chính phủ
 loai_van_ban: Nghị định
-thay_the: "269/2005/QĐ-TTg"
-ngon_ngu: vi
+linh_vuc: Lao động, Quốc phòng, Công an
+group: lao-dong
+docid: 218364
 source: https://vanban.chinhphu.vn/?pageid=27160&docid=218364
-lastedit: 2026-06-13
-description: Nghị định 199/2026/NĐ-CP quy định chính sách hỗ trợ phục vụ đối với các chức danh, chức vụ lãnh đạo Công an, Quân đội và diện Bộ Chính trị, Ban Bí thư quản lý. Thay thế QĐ 269/2005/QĐ-TTg. Hiệu lực 20/7/2026.
+pdf_goc: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/199-ndcp.signed.pdf
+phuong_phap_so_hoa: "Tesseract OCR trên 3 trang PNG (pdftoppm -r 300) từ PDF ký số CAdES-BES (datafiles.chinhphu.vn). Sửa lỗi OCR thủ công."
+trich_yeu: "Quy định chính sách hỗ trợ phục vụ đối với các chức danh, chức vụ lãnh đạo thuộc diện Bộ Chính trị, Ban Bí thư quản lý; các chức danh theo cấp bậc hàm trong Công an nhân dân và cấp bậc quân hàm trong Quân đội nhân dân"
+thay_the: Quyết định 269/2005/QĐ-TTg
+date: 2026-06-05
+modified: 2026-06-14
+trang_thai: hoan-thien
+description: "Nghị định 199/2026/NĐ-CP quy định chính sách hỗ trợ phục vụ đối với các chức danh, chức vụ lãnh đạo Công an, Quân đội và diện Bộ Chính trị, Ban Bí thư quản lý. Thay thế QĐ 269/2005/QĐ-TTg. Hiệu lực 20/7/2026."
 ---
 
 # Nghị định 199/2026/NĐ-CP
