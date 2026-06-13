@@ -1031,3 +1031,44 @@ Danh sách file nghi ngờ cần review tiếp (lọc từ quét van-ban/):
 - Ngày review: 2026-06-13 14:57 ICT
 - Phiên thực hiện: agent:github-io:subagent:01898d0c-d239-4d2b-a0ae-4f9ed2832ba2 (Đệ #4 Content Reviewer 2026-06-13)
 
+
+---
+## Cập nhật 2026-06-13 (phiên Đệ #1 Discovery — lần 13)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét toàn bộ docid 218XXX trên vanban.chinhphu.vn + thuvienphapluat.vn + baomoi.com/báo chính thức (tuần 8-12/6/2026). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-13 lần 12): phát hiện **3 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---|---|
+| 201/2026/NĐ-CP | 08/06/2026 | Sửa đổi, bổ sung thuế suất thuế xuất khẩu một số mặt hàng tại Biểu thuế xuất khẩu kèm NĐ 26/2023/NĐ-CP — cụ thể: Khoáng fluorite (HS 2529.22.00, CaF₂ >97%) giảm thuế suất từ 10% xuống 5%; tác động ngành khoáng sản xuất khẩu | Thuế / Xuất khẩu | **Chưa có** | Nguồn: baomoi.com (báo Chính phủ tuần 6-12/6); tác động ngành khai khoáng xuất khẩu; cần xác minh docid trên vanban.chinhphu.vn |
+| 197/2026/NĐ-CP | ~08/06/2026 | Quy định cơ sở dữ liệu quốc gia về tiếp công dân, xử lý đơn, giải quyết khiếu nại, tố cáo — thẩm quyền, phạm vi khai thác dữ liệu; quy định quyền truy cập của Tổng Bí thư, Chủ tịch nước, Thủ tướng, Chủ tịch QH | Hành chính / Tư pháp | **Chưa có** | Nguồn: baomoi.com (báo Chính phủ); tác động toàn bộ hệ thống tiếp công dân, khiếu nại, tố cáo cả nước; cần xác minh ngày ban hành và docid |
+| 1033/QĐ-TTg | ~08/06/2026 | Phê duyệt Chương trình phát triển kinh tế số và xã hội số giai đoạn 2026-2030 — mục tiêu xây dựng nền kinh tế số năng động dựa trên nền tảng số, dữ liệu và AI; kiến tạo xã hội số văn minh, an toàn và bao trùm; Phó Thủ tướng Hồ Quốc Dũng ký | KHCN / Kinh tế số | **Chưa có** | Nguồn: baomoi.com (báo Chính phủ); tác động chiến lược toàn nền kinh tế số; cần xác minh ngày ký và docid chính thức |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-13 lần 12)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 201/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 197/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 1033/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Thuế / Xuất khẩu**: **201/2026/NĐ-CP** — sửa thuế suất xuất khẩu khoáng fluorite; tác động ngành khai khoáng xuất khẩu; cần xác minh xem có mặt hàng khác không.
+2. **Hành chính / Tư pháp**: **197/2026/NĐ-CP** — CSDL quốc gia tiếp công dân, khiếu nại, tố cáo; tác động hệ thống hành chính toàn quốc.
+3. **KHCN / Kinh tế số**: **1033/QĐ-TTg** — chương trình kinh tế số 2026-2030; tác động chiến lược toàn nền kinh tế số.
+4. **Tư pháp**: Các văn bản đã tracking từ lần 11 và 12 (203, 199, 193, 45, 28 NĐ-CP/TT-BGDĐT/TT-BXD) — ưu tiên cao, cần crawl chi tiết.
+5. **Năng lượng**: 28/2026/NQ-CP (khai thác than) đã có từ lần 11.
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- **201/2026/NĐ-CP**: Từ báo cáo tuần 6-12/6 của báo Chính phủ trên baomoi.com; cần xác minh docid; chỉ có 1 mặt hàng được đề cập (fluorite) — có thể còn mặt hàng khác trong NĐ.
+- **197/2026/NĐ-CP**: Từ báo cáo tuần 6-12/6; tác động cơ sở dữ liệu hành chính quốc gia; cần xác minh ngày ban hành chính xác.
+- **1033/QĐ-TTg**: Từ báo cáo tuần 6-12/6; Phó TT Hồ Quốc Dũng ký; liên quan đến chương trình chuyển đổi số quốc gia.
+- Không tìm thấy NĐ-CP 203-212 trên vanban.chinhphu.vn — 203-212 chưa được ban hành hoặc chưa công bố tính đến 2026-06-13.
+- Các văn bản 203, 199, 193, 45, 28 từ lần 12 chưa crawl → tiếp tục ưu tiên.
+- Nguồn: baomoi.com (báo Chính phủ tuần 6-12/6), vanban.chinhphu.vn docid 218XXX, thuvienphapluat.vn.
+- Ngày phát hiện: 2026-06-13 17:00 ICT
+- Phiên thực hiện: agent:github-io:subagent:cbb8fd29-cfef-4f21-bcea-86d2c1abd028 (Đệ #1 Discovery 2026-06-13 lần 13)
