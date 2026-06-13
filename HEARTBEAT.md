@@ -158,7 +158,7 @@ Khi crawl văn bản từ `vanban.chinhphu.vn` hoặc nguồn chính thức khá
 curl -sL "https://datafiles.chinhphu.vn/.../<file>.pdf" -o /tmp/<file>.pdf
 
 # Bước 2: Convert từng trang PDF thành ảnh PPM (200 DPI)
-pdftoppm -r 200 /tmp/<file>.pdf /tmp/p
+pdftoppm -r 150 /tmp/<file>.pdf /tmp/p
 
 # Bước 3: OCR từng ảnh bằng tesseract với gói tiếng Việt
 cd /tmp && for f in p-*.ppm; do tesseract "$f" "${f%.ppm}" -l vie; done
@@ -171,9 +171,23 @@ cat /tmp/p-*.txt > /tmp/<file>-ocr.txt
 
 - `pdftoppm` (gói `poppler-utils`)
 - `tesseract-ocr` với gói ngôn ngữ `tesseract-ocr-vie`
-- Đủ dung lượng `/tmp` (PDF trung bình 5-15MB, sau convert còn ~26MB/trang)
+- `scripts/ocr_pdf.py` - script tự động hóa pipeline (ưu tiên dùng)
+- Dung lượng `/tmp`: PDF trung bình 5-15MB, sau convert còn ~15MB/trang (150 DPI)
 
-### 3.4. Lỗi OCR thường gặp và cách xử lý
+### 3.4. Kiểm tra chất lượng PDF trước OCR
+
+| Kiểm tra | Ngưỡng | Hành động |
+|----------|--------|-----------|
+| Kích thước file PDF | < 0.1 MB | Dừng, tìm nguồn PDF khác hoặc đánh dấu stub |
+| Số trang | < 1 trang với văn bản dài | Cảnh báo, kiểm tra nguồn khác |
+| Kích thước trang sau convert | < 5 KB | Skip trang (blank/missing), ghi log |
+
+**Nếu PDF không đạt ngưỡng:**
+- Không commit nội dung OCR từ PDF đó
+- Tìm docid khác trên vanban.chinhphu.vn, hoặc nguồn khác (luatvietnam.vn, giaoduc.net.vn)
+- Nếu không tìm được nguồn đáng tin cậy, đánh dấu file là "Chưa hoàn thiện" trong tracking
+
+### 3.5. Lỗi OCR thường gặp và cách xử lý
 
 | Lỗi | Ví dụ | Cách xử lý |
 |------|-------|------------|
@@ -181,24 +195,30 @@ cat /tmp/p-*.txt > /tmp/<file>-ocr.txt
 | Ký tự đặc biệt | `đ)` → `o`) | So sánh ngữ cảnh để sửa |
 | Mất dấu ngoặc kép | `BM-09` → `BM-09` | Bổ sung thủ công khi viết nội dung |
 | Ngắt dòng giữa từ | `khoa` newline `học` | Gộp lại khi viết lại nội dung |
+| Trang blank/missing | PDF < 0.1 MB | Tìm nguồn khác, đánh dấu stub |
 
-### 3.5. Quy trình áp dụng trong các task
+### 3.6. Quy trình áp dụng trong các task
 
 Khi thực hiện Đệ #3 (Full Content Crawler) hoặc các task khác có liên quan đến PDF:
 
-1. Tải PDF về `/tmp/`
-2. Chạy Signed PDF OCR Pipeline (mục 3.2)
-3. Dùng output OCR làm nguồn nội dung chính để cập nhật file
-4. Đọc `documents/OCR_QUALITY_GATE.md`
-5. Chạy scan OCR, scan Điều, scan Chương/Mục
-6. Sửa lỗi OCR chắc chắn; lỗi không chắc phải đối chiếu nguồn
-7. Chỉ commit Markdown khi OCR issues nghiêm trọng = 0, hoặc đánh dấu file là stub/chưa hoàn thiện trong tracking
+1. **Tải PDF về `/tmp/`**
+2. **Kiểm tra chất lượng PDF trước OCR (mục 3.4)**
+   - Nếu kích thước < 0.1 MB → dừng, tìm nguồn khác
+3. Ưu tiên: `scripts/ocr_pdf.py` trước; nếu lỗi → fallback sang pipeline thủ công (mục 3.2)
+4. Kiểm tra kích thước từng trang sau convert, skip trang < 5KB
+5. Dùng output OCR làm nguồn nội dung chính để cập nhật file
+6. Đọc `documents/OCR_QUALITY_GATE.md`
+7. Chạy scan OCR, scan Điều, scan Chương/Mục
+8. Sửa lỗi OCR chắc chắn; lỗi không chắc phải đối chiếu nguồn
+9. **Chỉ commit Markdown khi:**
+   - OCR issues nghiêm trọng = 0
+   - Hoặc đánh dấu file là stub/chưa hoàn thiện trong tracking
 
 Không tạo task riêng cho OCR. OCR và OCR Quality Gate là công cụ bắt buộc của mọi task có liên quan đến PDF.
 
 Không ghi chú phương pháp, log OCR, timeout hoặc debug note vào file Markdown public. Các ghi chú kỹ thuật chỉ ghi trong báo cáo heartbeat/PR/memory.
 
-### 3.6. Lưu trữ output OCR
+### 3.7. Lưu trữ output OCR
 
 - Output OCR tạm thời lưu tại `/tmp/<file>-ocr.txt`
 - Không commit file OCR output vào repo (file lớn, nhiễu, dễ lỗi chính tả)

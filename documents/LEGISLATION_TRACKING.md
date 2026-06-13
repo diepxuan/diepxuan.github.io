@@ -1,3 +1,46 @@
+## Cập nhật 2026-06-13 (phiên Đệ #1 Discovery — lần 11)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét dải NĐ-CP 203–212 + kiểm tra Thông tư tuần 06–13/6/2026 qua web search Brave + Gemini + web_fetch vanban.chinhphu.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-12): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 204/2026/NĐ-CP | 11/06/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực thú y — phạt tiền đến 50 triệu đồng (cá nhân) / 100 triệu đồng (tổ chức); không đeo rọ mõm cho chó nơi công cộng phạt 1–2 triệu đồng; kinh doanh thú y không phép phạt đến 100 triệu; hiệu lực 01/8/2026 | Nông nghiệp / Thú y | — | **Chưa có** | Nguồn: baotintuc.vn, sggp.org.vn, vietnamplus.vn, baochinhphu.vn; tác động ngành thú y, chủ nuôi động vật toàn quốc |
+| 28/2026/NQ-CP | 09/06/2026 | Cơ chế đặc thù cho phép khai thác than vượt không quá 15% công suất giấy phép nhằm bảo đảm an ninh năng lượng quốc gia — sản lượng vượt chỉ phục vụ sản xuất điện; phải đăng ký với UBND cấp tỉnh và Bộ NN&MT; hiệu lực 09/6/2026 đến 31/12/2027 | Năng lượng / Tài nguyên | 218385 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218385`; nguồn: luatvietnam.vn, baochinhphu.vn, vtv.vn, moit.gov.vn; tác động ngành than, điện lực |
+| 63/2026/TT-BTC | 05/06/2026 | Quy định nội dung và mức chi hoạt động thi kỹ năng nghề trong nước và quốc tế — thay thế TT liên tịch 43/2012/TTLT-BTC-BLĐTBXH; định mức chi xây dựng đề thi, chấm thi, huấn luyện đội tuyển quốc gia; hiệu lực 05/6/2026 | Giáo dục nghề nghiệp / Tài chính | — | **Chưa có** | URL: `https://luatvietnam.vn/giao-duc/thong-tu-63-2026-tt-btc-quy-dinh-noi-dung-va-muc-chi-hoat-dong-thi-ky-nang-nghe-437238-d1.html`; nguồn: luatvietnam.vn, bacninh.gov.vn; tác động hệ thống thi nghề quốc gia và quốc tế |
+| 30/2026/TT-BCT | 10/06/2026 | Quy định phương pháp xác định giá dịch vụ phát điện đối với nhà máy điện BOT chưa ký hợp đồng mua bán điện — IRR không vượt quá 12%; hướng dẫn Luật Điện lực 2024; hiệu lực 28/7/2026 | Năng lượng / Thương mại | — | **Chưa có** | URL: `https://moit.gov.vn/tin-tuc/bo-cong-thuong-ban-hanh-thong-tu-moi-ve-gia-dich-vu-phat-dien-nha-may-bot.html`; nguồn: moit.gov.vn, petrotimes.vn; tác động các dự án điện BOT chưa ký HĐMBĐ |
+| 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026–2035 | Tài chính / Ngân sách | — | **Chưa có** | URL: `https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-60-2026-TT-BTC-huong-dan-quan-ly-kinh-phi-Ngan-sach-xay-dung-nong-thon-moi-709846.aspx`; nguồn: thuvienphapluat.vn, langson.gov.vn; hiệu lực 31/5/2026 |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-12)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 204/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 28/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 63/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 30/2026/TT-BCT | **KHÔNG** | Thêm mới — Chưa có |
+| 60/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Nông nghiệp / Thú y**: **204/2026/NĐ-CP** — xử phạt thú y mới; hiệu lực 01/8/2026; tác động ngành thú y và chủ nuôi động vật.
+2. **Năng lượng**: **28/2026/NQ-CP** — cơ chế đặc thù khai thác than; hiệu lực ngay 09/6/2026; tác động an ninh năng lượng quốc gia.
+3. **Năng lượng**: **30/2026/TT-BCT** — giá điện BOT mới; hiệu lực 28/7/2026; tác động đàm phán HĐMBĐ điện.
+4. **Giáo dục nghề nghiệp / Tài chính**: **63/2026/TT-BTC** — thi kỹ năng nghề; hiệu lực ngay 05/6/2026.
+5. **Tài chính / Ngân sách**: **60/2026/TT-BTC** — kinh phí Chương trình mục tiêu quốc gia; hiệu lực 31/5/2026.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** sẽ được crawl chi tiết trong các phiên "Đệ #3 Full Content Crawler" tiếp theo.
+- **28/2026/NQ-CP** đã xác minh docid chính thức **218385** trên vanban.chinhphu.vn.
+- 28/2026/NQ-CP (khai thác than) và 30/2026/TT-BCT (giá điện BOT) cùng nhóm năng lượng — ưu tiên crawl chung.
+- **204/2026/NĐ-CP** có hiệu lực 01/8/2026 (sớm hơn nhóm 01/7/2026); ưu tiên cao trong nhóm nông nghiệp.
+- Nguồn: web_search Brave + Gemini + web_fetch vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, moit.gov.vn, thuvienphapluat.vn, vtv.vn.
+- Ngày phát hiện: 2026-06-13 13:00 ICT
+- Phiên thực hiện: agent:github-io:subagent:58b1bfa1-e1ef-473b-bdef-580705ae0e66 (Đệ #1 Discovery 2026-06-13)
+
+---
 ## Cập nhật 2026-06-12 (phiên Đệ #1 Discovery — lần 10)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
