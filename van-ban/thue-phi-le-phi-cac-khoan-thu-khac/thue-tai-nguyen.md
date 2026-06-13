@@ -5,6 +5,8 @@ permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen/
 lastedit: 2026-05-29
 ---
 
+> **Liên kết:** Xem thêm Nghị quyết 19/2026/QH16 về sửa đổi thuế xăng dầu, nhiên liệu bay.
+
 ## THÔNG TIN VĂN BẢN
 
 | Thuộc tính | Nội dung |
