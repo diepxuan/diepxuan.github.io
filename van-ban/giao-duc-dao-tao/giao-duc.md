@@ -12,7 +12,7 @@ lastedit: 2026-05-13
 | **Số hiệu** | 43/2019/QH14
 | **Loại văn bản** | Luật
 | **Nơi ban hành** | Quốc hội
-| **Người ký** |
+| **Người ký** | 
 | **Ngày ban hành** | 14/06/2019
 | **Ngày hiệu lực** | 01/01/2020
 | **Trạng thái** | Còn hiệu lực
@@ -272,7 +272,7 @@ b) Tổ chức và cá nhân có liên quan.
 
 3. Cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp được giao nhiệm vụ bồi dưỡng thì thực hiện theo các quy định tại Nghị định này và các quy định của pháp luật có liên quan.
 
-Điều 13.1.QĐ.7.1.
+Điều 13.1.QĐ.7.1. 
 
 (Điều 1 Quyết định số 82/2005/QĐ-TTg Về chế độ ưu đãi đối với học sinh, sinh viên các bộ môn nghệ thuật truyền thống và đặc thù trong các trường văn hoá - nghệ thuật ngày 18/04/2005 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 07/05/2005)
 
@@ -6671,3 +6671,4 @@ Chương IX ĐIỀU KHOẢN THI HÀNH
 ### 1300100000000000900011580287640009000170
 
 Điều 13.1.TT.185.17. Điều khoản thi hành
+
