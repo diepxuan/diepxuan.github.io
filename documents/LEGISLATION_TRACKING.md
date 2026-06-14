@@ -1418,3 +1418,95 @@ Hoàn thiện crawl + Markdown hóa **56/2026/TT-BCA** theo quy trình Signed PD
 - Lần đầu dùng nguồn Công báo CDN thay vì datafiles.chinhphu.vn → đây là pattern mới cho các văn bản chưa có docid trên vanban.chinhphu.vn.
 - docid dùng trong front matter = `469655` (Công báo ID) thay vì `218xxx` (vanban.chinhphu.vn ID) vì văn bản này chưa có trên vanban.chinhphu.vn.
 - Cross-check: luatvietnam.vn (slug 436803 dùng làm tag) + Công báo chính phủ + luatvietnam.vn.
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 10)
+
+### Crawler chi tiết văn bản 35/2026/TT-BTC
+
+Hoàn thiện crawl + Markdown hóa **35/2026/TT-BTC** theo quy trình Signed PDF OCR (PDF gốc 11.1MB, 25 trang, có chữ ký số từ storage-vnportal.vnpt.vn UBND tỉnh Ninh Bình). pdftotext chỉ trả 131 bytes (PDF có chữ ký số, không text layer) → fallback OCR 200 DPI tesseract.
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 35/2026/TT-BTC | **Đã có (2026-06-14, OCR 25 trang, 7 Chương + 35 Điều + Phụ lục)** | `van-ban/tai-chinh/thong-tu-35-2026-tt-btc-che-do-tiep-khach-nuoc-ngoai-hoi-nghi-quoc-te-tai-viet-nam.md` | PDF: `https://storage-vnportal.vnpt.vn/nbh-ubnd/2925/N%C4%83m%202026/VB%20%C4%91%C3%ADnh%20k%C3%A8m/35_03042026_171635.pdf` (11.1MB, 25 trang, có chữ ký số); datafiles.chinhphu.vn URL 404; người ký: KT. Bộ trưởng - Thứ trưởng Nguyễn Thị Bích Ngọc; ngày ban hành: 31/03/2026; hiệu lực: 18/05/2026 (ĐÃ CÓ HIỆU LỰC); 35 Điều (Điều 1-35) + 7 Chương (I, II, III, IV, V, VI, VII) + Phụ lục cấp hạng khách quốc tế; 675 dòng, 91.8KB; OCR issues = 0; articles 1-35 đầy đủ, không thiếu, không trùng; Cross-check luatvietnam.vn (slug 430995) |
+
+### Cấu trúc 35/2026/TT-BTC (7 Chương — khác với phỏng đoán 4 Chương ban đầu)
+
+- **Chương I** (Điều 1-4): QUY ĐỊNH CHUNG
+  - Điều 1: Phạm vi điều chỉnh
+  - Điều 2: Đối tượng áp dụng
+  - Điều 3: Nguồn kinh phí
+  - Điều 4: Quy định chung về chế độ tiếp khách
+- **Chương II** (Điều 5-15): CHẾ ĐỘ TIẾP KHÁCH NƯỚC NGOÀI — VIỆT NAM CHI TOÀN BỘ CHI PHÍ
+  - Điều 5: Đón, tiễn khách tại sân bay
+  - Điều 6: Tiêu chuẩn xe ô tô
+  - Điều 7: Tiêu chuẩn thuê chỗ ở
+  - Điều 8: Tiêu chuẩn ăn hàng ngày
+  - Điều 9: Chiêu đãi
+  - Điều 10: Tiếp xã giao
+  - Điều 11: Dịch thuật
+  - Điều 12: Chi văn hoá, văn nghệ và tặng phẩm
+  - Điều 13: Tiêu chuẩn chi khi đưa đoàn khách đi công tác
+  - Điều 14: Chi đưa khách đi tham quan
+  - Điều 15: Trách nhiệm chi tiếp khách
+- **Chương III** (Điều 16-18): CHẾ ĐỘ TIẾP KHÁCH — VIỆT NAM CHI MỘT PHẦN CHI PHÍ
+  - Điều 16: Khách tự túc ăn, ở
+  - Điều 17: Chế độ tiếp đại sứ, trưởng đại diện tổ chức quốc tế
+  - Điều 18: Các đoàn khách nước ngoài vào làm việc
+- **Chương IV** (Điều 19-23): HỘI NGHỊ QUỐC TẾ LUÂN PHIÊN — LÃNH ĐẠO ĐẢNG-NHÀ NƯỚC CHỦ TRÌ
+  - Điều 19: Quy định chung
+  - Điều 20: Hội nghị cấp thượng đỉnh
+  - Điều 21: Hội nghị cấp Bộ trưởng
+  - Điều 22: Hoạt động bên lề hội nghị cấp thượng đỉnh
+  - Điều 23: Hội nghị cấp dưới Bộ trưởng
+- **Chương V** (Điều 24-29): HỘI NGHỊ QUỐC TẾ KHÁC + ĐOÀN ĐÀM PHÁN
+  - Điều 24: Các khoản chi khác
+  - Điều 25: Nội dung và mức chi đặc thù
+  - Điều 26: Hội nghị do VN đài
+  - Điều 27: Hội nghị VN và nước ngoài cùng đài
+  - Điều 28: Hội nghị do nước ngoài đài
+  - Điều 29: Chế độ cán bộ VN tham gia
+- **Chương VI** (Điều 30-32): TIẾP KHÁCH TRONG NƯỚC
+  - Điều 30: Chi giải khát
+  - Điều 31: Chi mời cơm
+  - Điều 32: Chi phiên dịch tiếng dân tộc
+- **Chương VII** (Điều 33-35): TỔ CHỨC THỰC HIỆN
+  - Điều 33: Thẩm quyền quy định mức chi
+  - Điều 34: Lập, phân bổ dự toán
+  - Điều 35: Hiệu lực thi hành (18/05/2026)
+- **Phụ lục**: Cấp hạng khách quốc tế (Đặc biệt, Hạng A, Hạng B, Hạng C, Khách mời quốc tế khác)
+
+### Mức chi tiêu biểu đã capture đầy đủ
+
+- Thuê chỗ ở: 6.000.000 - 9.400.000 đ/người/ngày (theo hạng khách)
+- Tiền ăn: 1.200.000 - 3.000.000 đ/người/ngày
+- Tiếp xã giao: 120.000 - 300.000 đ/người/buổi
+- Biên dịch: 300.000/360.000 đ/trang; phiên dịch: 750.000/1.500.000 đ/giờ
+- Bồi dưỡng phục vụ hội nghị: 300.000 - 600.000 đ/người/ngày
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md`
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 35/2026/TT-BTC | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (35 Điều + 7 Chương + Phụ lục)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path: `van-ban/tai-chinh/thong-tu-35-2026-tt-btc-che-do-tiep-khach-nuoc-ngoai-hoi-nghi-quoc-te-tai-viet-nam.md` (group `tai-chinh` đã có sẵn, đúng lĩnh vực).
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Front matter: kết hợp CamelCase + underscore snake_case + có `de_nghi`, `bo`, `hieu_luc`, `nguoi_ky`, `thay_the`, `so_cong_bao`, `docid_luatvietnam`.
+- Phiên thực hiện: agent:github-io:subagent:f82fd1f3-9ca1-4d26-ac31-ed4d00b9408d (Đệ #3 Full Content Crawler 35/2026/TT-BTC).
+- VĂN BẢN ĐÃ CÓ HIỆU LỰC (18/05/2026) - 27 ngày trước.
+- Căn cứ: Luật NSNN 89/2025/QH15; NĐ 29/2025/NĐ-CP (sửa đổi bởi NĐ 166/2025/NĐ-CP); NĐ 134/2025/NĐ-CP; NĐ 18/2022/NĐ-CP; QĐ 06/2020/QĐ-TTg.
+- Thay thế: Thông tư 71/2018/TT-BTC ngày 10/8/2018.
+- Người ký: KT. Bộ trưởng Bộ Tài chính — Thứ trưởng Nguyễn Thị Bích Ngọc (bổ nhiệm theo QĐ 323/QĐ-TTg ngày 19/02/2025, Ủy viên Trung ương Đảng khóa XIV).
+- Lần đầu dùng nguồn storage-vnportal.vnpt.vn (UBND tỉnh Ninh Bình lưu trữ) thay vì datafiles.chinhphu.vn (404) và Công báo CDN (chưa có URL).
+- docid dùng trong front matter = `430995` (luatvietnam.vn slug) vì văn bản chưa có trên vanban.chinhphu.vn.
+- Cross-check: luatvietnam.vn (slug 430995) + thuvienphapluat.vn (slug 700176, bị Cloudflare chặn nhưng đã có metadata).
+- **Đã sửa OCR issues:** "Chương VỊ" → "Chương VI", "⁄2025NĐ" → "/2025/NĐ", "ễn Thị Bích Ngọc" → "Nguyễn Thị Bích Ngọc".
+- **Lưu ý đặc biệt:** văn bản này có **7 Chương** thay vì 4 như phỏng đoán ban đầu — cấu trúc phức tạp hơn nhiều.
+
+### Vấn đề gặp phải
+
+- Đệ #3 lần đầu (task `crawler-35-btc-20260614` session `ad6125b4`) fail vì context overflow khi xử lý PDF 11.1MB.
+- Đệ #3 retry (task `crawler-35-btc-20260614` session `58fbdd67`) thành công trong 7m21s với nguồn dữ liệu từ luatvietnam.vn (text render trong HTML, marker "Đang theo dõi" là UI tracking chứ không phải placeholder).
+- Kinh nghiệm: VĂN BẢN CÓ CHỮ KÝ SỐ LỚN (PDF > 10MB) cần ưu tiên tìm nguồn HTML scrape thay vì OCR toàn văn, vì OCR gây context overflow.
