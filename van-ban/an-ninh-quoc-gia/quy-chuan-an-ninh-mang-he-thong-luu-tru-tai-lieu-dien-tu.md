@@ -121,7 +121,7 @@ Thông tư này có hiệu lực thi hành kể từ ngày **01 tháng 7 năm 20
 
 Trong quá trình thực hiện Thông tư, nếu có khó khăn, vướng mắc, Công an các đơn vị, địa phương, tổ chức, cá nhân có liên quan báo cáo về Bộ Công an (qua Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) để kịp thời hướng dẫn.
 
-### Nơi nhận:
+## NƠI NHẬN
 
 - Các đồng chí Thứ trưởng Bộ Công an;
 - Văn phòng Chính phủ;
