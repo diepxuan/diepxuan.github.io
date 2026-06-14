@@ -61,3 +61,4 @@ MEMORY.md
 /.tmp-*
 /.p*-thumb.png
 /.ocr-*
+/.cache/
