@@ -2,7 +2,7 @@
 layout: van-ban
 title: "Thông tư 03/2026/TT-BNG - Phân cấp thẩm quyền chứng nhận lãnh sự, hợp pháp hóa lãnh sự cho UBND cấp tỉnh"
 date: 2026-05-06
-so-hieu: 03/2026/TT-BNG
+so_hieu: 03/2026/TT-BNG
 loai-van-ban: Thông tư
 co-quan-ban-hanh: Bộ Ngoại giao
 ngay-ban-hanh: 2026-05-06

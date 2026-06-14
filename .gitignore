@@ -56,3 +56,9 @@ memory/
 .heartbeat-state.json
 MEMORY.md
 .stignore
+
+# Temporary OCR / crawler artifacts (root only)
+/.tmp-*
+/.p*-thumb.png
+/.ocr-*
+/.cache/
