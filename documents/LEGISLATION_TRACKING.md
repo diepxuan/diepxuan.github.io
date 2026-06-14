@@ -1182,3 +1182,40 @@ Hoàn thiện crawl + Markdown hóa **28/2026/NQ-CP** theo quy trình Signed PDF
 - File cũ stub đã xóa; file mới có đầy đủ 7 Điều + căn cứ pháp lý + nơi nhận.
 - Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
 - Phiên thực hiện: agent:github-io:subagent:a8e4fe33-3d87-45f8-ba10-23b970879cb4 (Đệ #3 Full Content Crawler 28/2026/NQ-CP).
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 4)
+
+### Crawler chi tiết văn bản 30/2026/TT-BCT
+
+Hoàn thiện crawl + Markdown hóa **30/2026/TT-BCT** theo quy trình Signed PDF OCR (PDF gốc tại datafiles.chinhphu.vn, 5.3MB, KHÔNG có chữ ký số → `pdftotext` chỉ trả 21 bytes vì PDF là bản scan) + fallback OCR toàn trang (21 trang PNG @ 200 DPI) + cross-check với luatvietnam.vn, moit.gov.vn, baophapluat.vn.
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 30/2026/TT-BCT | **Đã có (2026-06-14, OCR fallback từ PDF gốc, cross-check đa nguồn)** | `van-ban/dau-tu/thong-tu-30-2026-tt-bct-phuong-phap-xac-dinh-gia-dich-vu-phat-dien-nha-may-dien-bot.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218414`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/30-bct.pdf` (5.3MB, 21 trang, PDF scan từ HP Scan + iText); người ký: Nguyễn Hoàng Long (Thứ trưởng Bộ Công Thương); ngày ban hành: 10/6/2026; hiệu lực: 28/7/2026 (còn 44 ngày); 16 Điều + 4 Chương (I, II, III, IV); 642 dòng, 43KB; OCR issues = 0; articles 1-16 đầy đủ, không thiếu, không trùng; IRR tối đa 12% (Điều 3 khoản 1b) |
+
+### Cấu trúc 30/2026/TT-BCT
+
+- **Chương I** (Điều 1-2): Quy định chung — phạm vi điều chỉnh, giải thích từ ngữ
+- **Chương II** (Điều 3-8): Phương pháp xác định giá năm cơ sở
+  - **Điều 3**: Nguyên tắc xác định giá dịch vụ phát điện (IRR ≤ 12%)
+  - **Điều 4**: Phương pháp xác định giá công suất, giá điện năng năm cơ sở
+  - **Điều 5-6**: Phương pháp xây dựng giá cố định bình quân + vận hành bảo dưỡng cố định
+  - **Điều 7-8**: Phương pháp xác định giá nhiên liệu biến đổi + vận hành bảo dưỡng biến đổi
+- **Chương III** (Điều 9-11): Điều chỉnh giá dịch vụ phát điện từng năm trong HĐMBĐ, phương pháp xác định giá tại thời điểm thanh toán, tiền điện thanh toán
+- **Chương IV** (Điều 12-16): Trách nhiệm Cục Điện lực, bên mua điện, bên bán điện; điều chỉnh giá; hiệu lực thi hành
+- **Phụ lục**: Biểu mẫu 1, 2 (dạng bảng biểu phức tạp, đệ #3 ghi chú ngắn thay vì OCR dạng bảng để tránh sai nghĩa)
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-13)
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 30/2026/TT-BCT | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (16 Điều + 4 Chương)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path dùng slug `thong-tu-30-2026-tt-bct-phuong-phap-xac-dinh-gia-dich-vu-phat-dien-nha-may-dien-bot` (chuẩn SEO).
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Front matter: dùng underscore snake_case (`so_hieu`, `ngay_ban_hanh`, `nguoi_ky`, `chuc_vu_nguoi_ky`, `co_quan_ban_hanh`, `linh_vuc`, `trang_thai`) + có thêm `trich_yeu`, `pdf_goc`. Cấu trúc hơi khác với các file khác (thường dùng `Số hiệu` CamelCase) — Sếp có thể chuẩn hóa sau nếu muốn.
+- Phiên thực hiện: agent:github-io:subagent:301b4572-6e11-4c68-a93d-b07c523558e8 (Đệ #3 Full Content Crawler 30/2026/TT-BCT).
+- IRR 12% — đây là điểm quan trọng nhất của Thông tư: giới hạn tỷ suất sinh lợi nội tại tối đa 12% cho dự án BOT nhà máy điện.
+- Áp dụng cho nhà máy điện BOT chưa ký hợp đồng mua bán điện.
