@@ -50,7 +50,7 @@ Thông tư này quy định về việc loại khỏi biên chế và xử lý t
 - Nghị định số 165/2016/NĐ-CP của Chính phủ quy định về quản lý, sử dụng ngân sách nhà nước đối với một số hoạt động thuộc lĩnh vực quốc phòng, an ninh; được sửa đổi, bổ sung bởi Nghị định số 01/2020/NĐ-CP của Chính phủ.
 - Theo đề nghị của Cục trưởng Cục Tài chính.
 
-## VĂN BẢN
+## NỘI DUNG
 
 Bộ trưởng Bộ Quốc phòng ban hành Thông tư quy định loại khỏi biên chế và xử lý tài sản công trong Bộ Quốc phòng.
 
