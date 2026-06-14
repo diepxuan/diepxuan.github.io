@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vanban
 title: "Nghị định 75/2026/NĐ-CP quy định chế độ tự chủ, tự chịu trách nhiệm về quản lý, sử dụng kinh phí quản lý hành chính"
 permalink: /van-ban/quan-ly-hanh-chinh/nghi-dinh-75-2026-nd-cp-che-do-tu-chu-quan-ly-kinh-phi-hanh-chinh/
 date: 2026-03-16
