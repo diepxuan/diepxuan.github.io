@@ -296,7 +296,7 @@ Quét toàn bộ dải NĐ-CP 151–202 từ vanban.chinhphu.vn + luatvietnam.vn
 | 153/2026/NĐ-CP | 14/05/2026 | Sửa đổi, bổ sung NĐ 01/2015/NĐ-CP | Hải quan / Thương mại | 218083 | Đã có | |
 | 154/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có | **Đã có (45 Điều + 10 Chương)** (2026-06-14) |
 | 155/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có | **Đã có (23 Điều + 0 Chương)** (2026-06-14) |
-| 156/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 156/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có | **Đã có (11 Điều)** (2026-06-14) |
 | 157/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có | **Đã có (10 Điều + 4 Mẫu biểu)** (2026-06-14) |
 
 ## Đề xuất ưu tiên phiên tiếp theo
