@@ -270,11 +270,12 @@ Quét toàn bộ dải NĐ-CP 151–202 từ vanban.chinhphu.vn + luatvietnam.vn
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 153/2026/NĐ-CP | 14/05/2026 | Sửa đổi, bổ sung NĐ 01/2015/NĐ-CP | Hải quan / Thương mại | 218083 | Đã có |** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218083`; hiệu lực 05/7/2026 |
+| 153/2026/NĐ-CP | 14/05/2026 | Sửa đổi, bổ sung NĐ 01/2015/NĐ-CP | Hải quan / Thương mại | 218083 | Đã có |** |
+| 157/2026/NĐ-CP | 15/05/2026 | Quy định thanh toán, quyết toán vốn NSNN để cấp bù lãi suất cho NHTM thực hiện chính sách tín dụng ưu đãi (nông nghiệp, xuất khẩu); hiệu lực 01/7/2026 | Tài chính / Tín dụng ưu đãi | 218158 | **Đã có (2026-06-14)** | File: `van-ban/tai-chinh/nghi-dinh-157-2026-nd-cp-cap-bu-lai-suat-tin-dung-uu-dai.md`; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218158`; người ký: Nguyễn Văn Thắng (Thủ tướng CP); 10 Điều (1-10), 0 Chương, 4 Phụ lục (Mẫu 01-04); 455 dòng, 33KB; OCR issues = 0 | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218083`; hiệu lực 05/7/2026 |
 | 154/2026/NĐ-CP | 15/05/2026 | Quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tiếp công dân | Hành chính / Tư pháp | 218230 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218230`; hiệu lực 01/7/2026 |
 | 155/2026/NĐ-CP | 15/05/2026 | Sửa đổi, bổ sung NĐ 124/2020/NĐ-CP quy định chi tiết Luật Khiếu nại — bổ sung 7 trường hợp vụ việc khiếu nại phức tạp | Hành chính / Tư pháp | 218183 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218183`; hiệu lực 01/7/2026; bổ sung 155/2026 bổ sung NQ 27 |
 | 156/2026/NĐ-CP | 15/05/2026 | Sửa đổi, bổ sung NĐ 31/2019/NĐ-CP quy định chi tiết Luật Tố cáo — quy định hành vi vi phạm trong giải quyết tố cáo bị buộc thôi việc | Hành chính / Tư pháp | 218102 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218102`; hiệu lực 01/7/2026 |
-| 157/2026/NĐ-CP | — | Quy định thanh toán, quyết toán vốn ngân sách nhà nước để cấp bù lãi suất cho các ngân hàng thương mại thực hiện chính sách tín dụng ưu đãi của nhà nước | Tài chính / Tín dụng ưu đãi | 218158 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218158`; tác động chính sách tín dụng ưu đãi nông nghiệp, xuất khẩu |
+| 157/2026/NĐ-CP | — | Quy định thanh toán, quyết toán vốn ngân sách nhà nước để cấp bù lãi suất cho các ngân hàng thương mại thực hiện chính sách tín dụng ưu đãi của nhà nước | Tài chính / Tín dụng ưu đãi | 218158 | **Đã có (2026-06-14)** | File: `van-ban/tai-chinh/nghi-dinh-157-2026-nd-cp-cap-bu-lai-suat-tin-dung-uu-dai.md`; 10 Điều, 4 Mẫu biểu |
 
 ### Các văn bản phát hiện thêm (chưa tạo entry — chờ phiên sau)
 
@@ -294,7 +295,7 @@ Quét toàn bộ dải NĐ-CP 151–202 từ vanban.chinhphu.vn + luatvietnam.vn
 | 154/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 155/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 156/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
-| 157/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 157/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có | **Đã có (10 Điều + 4 Mẫu biểu)** (2026-06-14) |
 
 ## Đề xuất ưu tiên phiên tiếp theo
 
