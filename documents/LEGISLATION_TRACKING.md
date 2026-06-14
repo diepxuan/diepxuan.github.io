@@ -1,3 +1,54 @@
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 2)
+
+### Crawler chi tiết văn bản 204/2026/NĐ-CP
+
+Hoàn thiện crawl + Markdown hóa **204/2026/NĐ-CP** theo quy trình Signed PDF OCR (PDF gốc ký số CAdES-BES tại `datafiles.chinhphu.vn`, 53 trang, 2.07 MB) + cross-check với nguồn web `luatnguyen.vn` (toàn văn Markdown) + `luatvietnam.vn` (bài phân tích mức phạt cụ thể).
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 204/2026/NĐ-CP | **Đã có (2026-06-14, OCR từ PDF gốc ký số + cross-check luatnguyen.vn)** | `van-ban/nong-nghiep-nong-thon/nghi-dinh-204-2026-nd-cp-xu-phat-vi-pham-thu-y.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218418`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/204-ndcp.signed.pdf`; người ký: Hồ Quốc Dũng (Phó Thủ tướng, ký thay Thủ tướng); 52 Điều, 4 Chương, 5 Mục, 8 Tiểu mục; 926 dòng, 137KB; OCR issues nghiêm trọng = 0 (2 false positive "ngày l" khớp "ngày làm việc"); articles 1-52 đầy đủ, không thiếu, không trùng; chương I-IV đầy đủ, đúng thứ tự La Mã |
+
+### Cấu trúc văn bản 204/2026/NĐ-CP
+
+- **Chương I** (Điều 1–5): Quy định chung — phạm vi điều chỉnh, đối tượng áp dụng, hình thức xử phạt và biện pháp khắc phục hậu quả, thời hiệu (1 năm, có trường hợp 2 năm), mức phạt tiền tối đa (50 triệu cá nhân / 100 triệu tổ chức).
+- **Chương II** (Điều 6–40): Hành vi vi phạm, hình thức, mức xử phạt và biện pháp khắc phục hậu quả. Chia 5 Mục:
+  - Mục 1 (Điều 6–10): Phòng, chống dịch bệnh động vật (gồm 3 Tiểu mục: quy định chung, trên cạn, thủy sản).
+  - Mục 2 (Điều 11–21): Kiểm dịch động vật, sản phẩm động vật (gồm 3 Tiểu mục: vận chuyển ra khỏi cấp tỉnh, xuất nhập khẩu, Giấy chứng nhận kiểm dịch).
+  - Mục 3 (Điều 22–25): Kiểm soát giết mổ; sơ chế, chế biến; vệ sinh thú y.
+  - Mục 4 (Điều 26–38): Quản lý thuốc thú y (gồm 2 Tiểu mục: khảo nghiệm/kiểm nghiệm; sản xuất, buôn bán, nhập khẩu).
+  - Mục 5 (Điều 39–40): Hành nghề thú y.
+- **Chương III** (Điều 41–49): Thẩm quyền xử phạt của Chủ tịch UBND, Thủ trưởng cơ quan chuyên ngành, Công an, Bộ đội biên phòng, Cảnh sát biển, Hải quan, Quản lý thị trường; thẩm quyền lập biên bản.
+- **Chương IV** (Điều 50–52): Điều khoản thi hành — hiệu lực 01/8/2026, thay thế NĐ 90/2017/NĐ-CP, bãi bỏ một số điều của NĐ 04/2020 và NĐ 07/2022; quy định chuyển tiếp; trách nhiệm thi hành.
+
+### Một số điểm đáng chú ý
+
+- Mức phạt tiền tối đa: **50.000.000 đồng (cá nhân) / 100.000.000 đồng (tổ chức)** — tổ chức gấp 02 lần cá nhân cùng hành vi.
+- **Không đeo rọ mõm cho chó / không xích giữ chó khi ra nơi công cộng**: phạt 1–2 triệu đồng (Điều 8 khoản 2 điểm b).
+- **Không tiêm phòng vắc-xin phòng bệnh Dại** cho động vật bắt buộc: phạt 1–2 triệu đồng (Điều 8 khoản 2 điểm a).
+- **Vứt động vật mắc bệnh chết / sản phẩm ra môi trường**: phạt 5–6 triệu đồng (Điều 6 khoản 6).
+- **Sử dụng thuốc thú y không có Giấy chứng nhận lưu hành tại Việt Nam**: phạt 6–8 triệu đồng.
+- **Sử dụng thuốc thú y trong Danh mục cấm**: phạt 8–10 triệu đồng.
+- **Hành nghề thú y không có Chứng chỉ**: phạt 6–7 triệu đồng.
+- **Kinh doanh thuốc thú y không có Giấy chứng nhận đủ điều kiện**: phạt đến 100 triệu đồng (tổ chức — gấp đôi cá nhân tại Điều 33).
+- Thời hiệu xử phạt: 1 năm (mặc định), 2 năm (một số hành vi nghiêm trọng quy định tại các điều 15, 16, 17, 20, 21, 29, 30, 31, 33, 34, 35, 36, 37).
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-14 lần 1)
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 204/2026/NĐ-CP | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13, ghi "Chưa có") | Chưa có | **Đã có** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- **PDF gốc có chữ ký số CAdES-BES** (người ký: CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ; thời gian ký: 12.06.2026 15:36:51 +07:00). Vì có chữ ký số nên `pdftotext` chỉ trích được metadata chữ ký, không trích được nội dung văn bản. Phải dùng pipeline OCR: `pdftoppm -r 300 -png` → `tesseract -l vie` trên 53 trang → khoảng 15 phút.
+- **OCR raw có một số lỗi nhỏ** (VỊ phạm, thâm/thấm quyền, giếts mổ) nhưng nội dung số Điều, số Chương, mức phạt đều khớp với bản text từ `luatnguyen.vn` (100.214 bytes, 1656 dòng). Đã dùng luatnguyen.vn làm nguồn chính, OCR PDF dùng để cross-check.
+- **Nguồn ưu tiên văn bản**: luatnguyen.vn (Markdown dễ parse) > OCR PDF gốc (có chữ ký số) > luatvietnam.vn (chỉ có bài phân tích, không có toàn văn).
+- **Không tìm thấy file trên thuvienphapluat.vn** khi tìm kiếm trực tiếp; có thể do văn bản mới ban hành (3 ngày trước) chưa được index.
+- Văn bản này là NĐ xử phạt mới thay thế NĐ 90/2017/NĐ-CP; cấu trúc phức tạp (52 Điều, 4 Chương, 5 Mục, 8 Tiểu mục). Nội dung đã được Markdown hóa đầy đủ với heading chuẩn cho từng cấp.
+- Phiên thực hiện: agent:github-io:subagent:24d2ca9a-a354-488d-911e-075e29afcd9b (Đệ #3 Full Content Crawler 204/2026/NĐ-CP).
+
+---
+
 ## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 1)
 
 ### Crawler chi tiết văn bản 201/2026/NĐ-CP
