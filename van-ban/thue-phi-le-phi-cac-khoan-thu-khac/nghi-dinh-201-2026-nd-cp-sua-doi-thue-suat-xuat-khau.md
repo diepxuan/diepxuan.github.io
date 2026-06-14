@@ -18,13 +18,16 @@ lastedit: 2026-06-14
 | **Người ký** | Nguyễn Văn Thắng (Phó Thủ tướng, ký thay Thủ tướng) |
 | **Ngày ban hành** | 08/06/2026 |
 | **Ngày có hiệu lực** | 23/07/2026 |
-| **Số trang** | 2 trang (văn bản 2 trang + phụ lục bảng thuế) |
+| **Số trang** | 5 trang PDF (2 trang văn bản + 1 trang chữ ký số + 2 trang phụ lục bảng thuế) |
 | **Số Điều** | 3 Điều (không có Chương/Mục) |
 | **Trạng thái** | Sắp có hiệu lực (còn 39 ngày từ 14/06/2026) |
+| **DocID** | 218369 (vanban.chinhphu.vn) |
+| **PDF gốc** | [201-ndcp.signed.pdf (CAdES-BES, datafiles.chinhphu.vn)](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/201-ndcp.signed.pdf) |
 | **Văn bản được sửa đổi** | Phụ lục I - Biểu thuế xuất khẩu theo Danh mục mặt hàng chịu thuế ban hành kèm theo Nghị định số 26/2023/NĐ-CP |
 | **Nhóm** | Thuế phí, lệ phí, các khoản thu khác / Xuất khẩu - Nhập khẩu |
 | **Lĩnh vực** | Thuế xuất khẩu khoáng sản, kim loại (tràng thạch, fluorite, bismut) |
-| **Nguồn** | [luatvietnam.vn](https://luatvietnam.vn/thue/nghi-dinh-201-2026-nd-cp-sua-doi-thue-suat-xuat-khau-theo-nghi-dinh-26-2023-nd-cp-436911-d1.html); [thuviennhadat.vn](https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/nghi-dinh-201-2026-nd-cp-sua-doi-thue-suat-thue-xuat-khau-tai-nghi-dinh-26-2023-nd-cp-709788.html); [thuehaiquan.tapchikinhtetaichinh.vn](https://thuehaiquan.tapchikinhtetaichinh.vn/sua-doi-thue-suat-xuat-khau-va-tham-quyen-quan-ly-mot-so-mat-hang-tu-ngay-2372026-158583.html) |
+| **Nguồn chính** | [vanban.chinhphu.vn (docid 218369)](https://vanban.chinhphu.vn/?pageid=27160&docid=218369); PDF: [201-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/201-ndcp.signed.pdf) (CAdES-BES) |
+| **Nguồn tham khảo** | [luatvietnam.vn](https://luatvietnam.vn/thue/nghi-dinh-201-2026-nd-cp-sua-doi-thue-suat-xuat-khau-theo-nghi-dinh-26-2023-nd-cp-436911-d1.html); [thuviennhadat.vn](https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/nghi-dinh-201-2026-nd-cp-sua-doi-thue-suat-thue-xuat-khau-tai-nghi-dinh-26-2023-nd-cp-709788.html); [thuehaiquan.tapchikinhtetaichinh.vn](https://thuehaiquan.tapchikinhtetaichinh.vn/sua-doi-thue-suat-xuat-khau-va-tham-quyen-quan-ly-mot-so-mat-hang-tu-ngay-2372026-158583.html) |
 
 ### Căn cứ pháp lý
 
@@ -207,5 +210,6 @@ Theo thông tin từ Bộ Tài chính, các điều chỉnh tại Nghị định
 - [Thư viện nhà đất — Nghị định 201/2026/NĐ-CP](https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/nghi-dinh-201-2026-nd-cp-sua-doi-thue-suat-thue-xuat-khau-tai-nghi-dinh-26-2023-nd-cp-709788.html)
 - [VietnamPlus — Điều chỉnh thuế suất thuế xuất khẩu của một số mặt hàng](https://www.vietnamplus.vn/dieu-chinh-thue-suat-thue-xuat-khau-cua-mot-so-mat-hang-post1115366.vnp)
 - [Sở Công Thương Đồng Nai — Sửa đổi thuế suất thuế xuất khẩu một số mặt hàng](https://sct.dongnai.gov.vn/vi/news/Tin-tuyen-truyen/sua-doi-thue-suat-thue-xuat-khau-mot-so-mat-hang-53784.html)
-- [Diễn đàn Cẩm nang XNK Logistics](https://diendan.camnangxnk-logistics.net/threads/201-2026-nd-cp-v-v-sua-doi-bo-sung-thue-suat-thue-xuat-khau-cua-mot-so-mat-hang-tai-bieu-thue-xuat-khau-theo-danh-muc-mat-hang-chiu-thue-ban-hanh-kem.22561/)
+- [vanban.chinhphu.vn (docid 218369)](https://vanban.chinhphu.vn/?pageid=27160&docid=218369)
+- [PDF chính thức: 201-ndcp.signed.pdf (CAdES-BES, datafiles.chinhphu.vn)](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/201-ndcp.signed.pdf)
 - [Nghị định 26/2023/NĐ-CP (văn bản được sửa đổi)](https://vanban.chinhphu.vn/?pageid=27160&docid=208020)
