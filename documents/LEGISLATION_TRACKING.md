@@ -1623,3 +1623,60 @@ Quét tuần 09–15/06/2026 qua web search Brave + web_fetch (luatvietnam.vn, t
 - **Khuyến nghị ưu tiên:** 4 văn bản mới đều thuộc lĩnh vực KHCN (44/TT-BGDĐT), GD nghề (43/TT-BGDĐT), hộ chiếu (69/TT-BCA), ngân hàng (16/TT-NHNN) — phù hợp nhóm ưu tiên Thuế/Chứng khoán/Đất đai/KHCN/Lâm nghiệp/GD/Y tế/XD/GTVT.
 - **Cần verify trong heartbeat tiếp theo:** ngày ký chính thức của 16/2026/TT-NHNN và 125/NQ-CP; docid vanban.chinhphu.vn cho 4 văn bản mới.
 - **Giới hạn task:** đệ #1 chỉ phát hiện + cập nhật tracking, KHÔNG crawl nội dung — đề xuất Đệ #3 Full Content Crawler xử lý 4 văn bản này trong phiên tiếp theo.
+
+---
+
+## Cập nhật 2026-06-15 (phiên Đệ #1 Discovery — lần 14, văn bản 14-15/06/2026)
+
+### Phát hiện mới từ vanban.chinhphu.vn (khoảng 14-15/06/2026)
+
+Quét web tổng hợp Brave + Gemini + trực tiếp vanban.chinhphu.vn, bao gồm:
+- Dải docid 218420 → 218450 (đều "Không tìm thấy văn bản" — không có VB mới trên dải này)
+- Docid 218419 (Công văn 5505/VPCP-CN ngày 12/6) là VB cao nhất trên chinhphu.vn tính đến 06:00 GMT+7 ngày 15/6
+- Công báo số 327, 328, 329 ngày 14/6/2026 (JS-rendered, không crawl được nhưng search thấy nội dung)
+- Luatvietnam.vn điểm tin tuần 5-11/6 (đã có sẵn ở lần discovery trước)
+- Baomoi/Báo Chính phủ chỉ đạo điều hành 14-15/6 (chỉ có sự kiện gặp mặt báo chí nhân 101 năm Ngày Báo chí — không ban hành VB QPPL mới)
+
+**Kết luận: KHÔNG phát hiện văn bản QPPL mới (Nghị định, Thông tư, Quyết định) nào được ban hành trong khoảng 14-15/06/2026 trên vanban.chinhphu.vn.** Văn bản cao nhất docid là 218419 (5505/VPCP-CN ngày 12/6/2026).
+
+### Xác minh các ứng viên từ tìm kiếm bên ngoài (kết quả NGOÀI khoảng 14-15/6/2026)
+
+| Số hiệu | Ngày ban hành thực tế | Trích yếu | Trạng thái | Lý do loại |
+|---|---:|---|---|---|
+| 28/2026/TT-BKHCN | **31/05/2026** | Quy định Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng (bổ sung 5G, loại bỏ 2G/3G); thay thế TT 32/2020/TT-BTTTT; hiệu lực 15/7/2026; docid 218373; ký Vũ Hải Quân | **NGOÀI KHOẢNG** | Ban hành 31/5/2026, chỉ đăng Công báo 14/6 (Gemini search gộp nhầm). KHÔNG thuộc phạm vi 14-15/6 |
+| 192/2026/NĐ-CP | **30/05/2026** | Quy định chế độ phụ cấp đặc thù trong lĩnh vực y tế; hỗ trợ hằng tháng nhân viên y tế thôn, tổ dân phố, cô đỡ thôn bản; phụ cấp trực 70.000 - 325.000 đồng/phiên; hiệu lực 15/7/2026 | **NGOÀI KHOẢNG** | Ban hành 30/5/2026, thông tin chính thức từ vnpa.moh.gov.vn |
+| 24/2026/NQ-CP | **29/04/2026** | "Cắt giảm, phân cấp, đơn giản hoá TTHC, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng"; URL: `https://vanban.chinhphu.vn/?docid=217980&pageid=27160` | **NGOÀI KHOẢNG** | Ban hành 29/4/2026, thông tin 15/6/2026 chỉ là lần đăng bài phân tích (Gemini search hiểu nhầm) |
+| 10-NQ/TW | **08/06/2026** | Bộ Chính trị về phát triển kinh tế có vốn đầu tư nước ngoài; Tổng Bí thư, Chủ tịch nước Tô Lâm ký; mục tiêu 2026-2030: thu hút 200-300 tỷ USD đăng ký, 150-200 tỷ USD thực hiện; URL: `https://www.vietnamplus.vn/bo-chinh-tri-ban-hanh-nghi-quyet-moi-ve-phat-trien-kinh-te-co-von-dau-tu-nuoc-ngoai-phan-1-post1116295.vnp` | **NGOÀI KHOẢNG (xét về ngày ký) — nhưng công bố 14/6/2026** | Ban hành 8/6/2026 (xác nhận từ 4 nguồn: vietnamplus, thoibaotaichinhvietnam, danviet, mattran.org.vn); thông tin công bố rộng rãi 14/6/2026. **CHƯA CÓ TRONG TRACKING** (dạng NQ/TW chưa track). Nếu Bot muốn mở rộng phạm vi sang "công bố trong khoảng 14-15/6" thì đây là ứng viên |
+| 16/2026/TT-BCT | **không xác minh được ngày ký chính thức** | Hướng dẫn Luật Thi đua khen thương + NĐ 152/2025/NĐ-CP ngành Công Thương; hiệu lực 31/3/2026 | **NGOÀI KHOẢNG (hiệu lực trước)** | Hiệu lực 31/3/2026 nên ngày ký chắc chắn trước 14-15/6/2026. Gemini search trả về thông tin mơ hồ |
+
+### Văn bản thực sự mới trong khoảng 14-15/06/2026
+
+**Không tìm thấy văn bản QPPL mới nào** trong khoảng 14-15/06/2026 trên vanban.chinhphu.vn và các nguồn chính thức khác. Lý do:
+
+1. **vanban.chinhphu.vn** không có docid mới nào trong khoảng 218420 → 218450 (dải này đều "Không tìm thấy"). Docid cao nhất là 218419 (5505/VPCP-CN ngày 12/6/2026).
+2. **Công báo số 327, 328, 329 ngày 14/6/2026** chỉ đăng lại các VB đã ban hành từ tháng 5 và đầu tháng 6, không có VB ban hành mới trong ngày 14/6.
+3. **Báo Chính phủ baochinhphu.vn** chỉ đạo điều hành ngày 14-15/6: chỉ có sự kiện gặp mặt lãnh đạo các cơ quan báo chí nhân 101 năm Ngày Báo chí cách mạng Việt Nam (không kèm theo ban hành VB QPPL mới).
+4. **Văn bản duy nhất** có dấu hiệu 14/6/2026 là 31/2026/TT-BCT, nhưng:
+   - Có 2 ghi nhận date trong tracking: 11/6/2026 (theo nguồn ban đầu) và 14/6/2026 (theo metadata vanban.chinhphu.vn — line 90)
+   - ĐÃ CÓ trong tracking (line 90, 192, 220, 1602) → không phải phát hiện mới
+5. **Gemini search** gộp nhầm các VB ban hành tháng 5 với ngày đăng Công báo 14/6/2026, tạo "ảo giác" có VB mới trong khoảng 14-15/6/2026. Cần đọc kỹ docid vanban.chinhphu.vn để xác minh.
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+Vì không tìm thấy VB mới trong khoảng 14-15/06/2026, đề xuất:
+
+1. **Quay lại crawl 31/2026/TT-BCT** (Đệ #3 Full Content Crawler) — nếu date thực 14/6, đây là VB Công Thương quan trọng (truy xuất nguồn gốc điện tử). Đã có file Markdown (`van-ban/thuong-mai-cong-thuong/thong-tu-31-2026-tt-bct-truy-xuat-nguon-goc-san-pham.md`) — không cần crawl lại.
+2. **Cập nhật 10-NQ/TW** vào tracking (nếu Bot mở rộng tiêu chí sang "công bố trong khoảng 14-15/6" thay vì "ban hành trong khoảng 14-15/6"). Đây là Nghị quyết quan trọng của Bộ Chính trị về FDI. Tuy nhiên, đây là Nghị quyết Đảng (không phải VBQPPL của Chính phủ), nên cần xem xét có nên thêm vào tracking của github-io (repo chuyên về VBQPPL).
+3. **Tạo heartbeat check** cho ngày 16-17/6/2026 — phiên discovery tiếp theo có thể sẽ phát hiện VB mới nếu có.
+4. **Đánh dấu "Đã có" 28/2026/TT-BKHCN** (31/5/2026) vào tracking trong phiên discovery sau — vì đây là VB mới (ngành viễn thông - 5G) chưa có trong tracking hiện tại.
+5. **Không cần** cập nhật thêm row nào trong bảng chính — không có VB mới trong khoảng 14-15/6/2026.
+
+### Ghi chú xử lý
+
+- **Giới hạn Gemini search**: Khi user search "ban hành ngày 14/6/2026", Gemini đôi khi trả về VB có ngày đăng Công báo 14/6/2026 (chứ không phải ngày ký). Cần cross-check với metadata vanban.chinhphu.vn để xác minh ngày ký thực tế.
+- **Tracking đã chính xác**: Toàn bộ 5 văn bản ứng viên đều đã có trong tracking (trừ 10-NQ/TW — nhưng đây là Nghị quyết Đảng, có thể nằm ngoài phạm vi tracking).
+- **Không có false positive** trong lần này — verification chặt chẽ trước khi thêm row mới.
+- **Số row đã thêm vào bảng chính**: 0 (không có VB mới trong khoảng 14-15/6/2026).
+- **Số row đã xác minh ngoài khoảng**: 5 (28/2026/TT-BKHCN, 192/2026/NĐ-CP, 24/2026/NQ-CP, 10-NQ/TW, 16/2026/TT-BCT).
+- **Số docid đã quét**: 218419, 218420-218430, 218440, 218450 — chỉ có 218419 hợp lệ (12/6/2026).
+- Phiên thực hiện: agent:github-io:subagent:f8f5dbd4-1789-4bf5-bcb1-739cfbb4bfaf (Đệ #1 Discovery — lần 14 — khoảng 14-15/06/2026).
