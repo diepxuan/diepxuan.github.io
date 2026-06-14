@@ -28,8 +28,8 @@ trang_thai: "Còn hiệu lực"
 
 # Thông tư 30/2026/TT-BKHCN
 
-**BỘ KHOA HỌC VÀ CÔNG NGHỆ**  
-**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
+**BỘ KHOA HỌC VÀ CÔNG NGHỆ**
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập - Tự do - Hạnh phúc**
 
 ---
@@ -181,5 +181,5 @@ Các nhóm hàng hóa lưỡng dụng chính trong Danh mục:
 - Cổng thông tin điện tử Chính phủ; Cổng thông tin điện tử Bộ Khoa học và Công nghệ;
 - Lưu: VT, CNCNTT (10B).
 
-**BỘ TRƯỞNG**  
+**BỘ TRƯỞNG**
 *Vũ Hải Quân*
