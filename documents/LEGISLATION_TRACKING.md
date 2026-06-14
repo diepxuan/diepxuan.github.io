@@ -1299,3 +1299,38 @@ Hoàn thiện crawl + Markdown hóa **60/2026/TT-BTC** theo quy trình Signed PD
 - Áp dụng cho Chương trình mục tiêu quốc gia giai đoạn 2026-2030.
 - Căn cứ: Luật NSNN 89/2025/QH15, NQ 257/2025/QH15, QĐ 16/2026/QĐ-TTg.
 - Lỗi OCR đã sửa: `Chương Ï` → `Chương I`, `BNNMITT` → `BNNMT`, `ĐIÊU KHOẢN` → `ĐIỀU KHOẢN`, v.v.
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 7)
+
+### Crawler chi tiết văn bản 19/2026/TT-NHNN
+
+Hoàn thiện crawl + Markdown hóa **19/2026/TT-NHNN** theo quy trình Signed PDF OCR (PDF gốc tại datafiles.chinhphu.vn, 1MB, 3 trang, có chữ ký số che số ngày ở Điều 4) + OCR 200dpi + cross-check với luatvietnam.vn.
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 19/2026/TT-NHNN | **Đã có (2026-06-14, OCR fallback từ PDF gốc, cross-check luatvietnam.vn)** | `van-ban/ngan-hang/thong-tu-19-2026-tt-nhnn-phan-cap-thu-tuc-hanh-chinh-thu-nghiem.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218234`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/5/19-nhnn.pdf` (1MB, 3 trang, có chữ ký số CAdES-BES); người ký: Phạm Tiến Dũng (KT. Thống đốc - Phó Thống đốc); ngày ban hành: 19/05/2026; hiệu lực: 30/06/2026 (theo metadata chính thức, OCR không đọc được số ngày ở Điều 4 vì chữ ký số che); 6 Điều (Điều 1-6); 129 dòng, 7.2KB; OCR issues = 0; articles 1-6 đầy đủ, không thiếu, không trùng |
+
+### Cấu trúc 19/2026/TT-NHNN
+
+- **Điều 1**: Phạm vi điều chỉnh
+- **Điều 2**: Đối tượng áp dụng
+- **Điều 3**: Nội dung phân cấp (Open-API, chấm điểm tín dụng, sandbox)
+- **Điều 4**: Hiệu lực thi hành
+- **Điều 5**: Điều khoản chuyển tiếp
+- **Điều 6**: Tổ chức thực hiện
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md`
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 19/2026/TT-NHNN | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (6 Điều)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path: `van-ban/ngan-hang/thong-tu-19-2026-tt-nhnn-phan-cap-thu-tuc-hanh-chinh-thu-nghiem.md` (group `ngan-hang` đã có sẵn, đúng lĩnh vực).
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Front matter: kết hợp CamelCase + underscore snake_case (`so_hieu`, `loai_van_ban`, ...) — khác format các file khác, đề xuất chuẩn hóa sau.
+- Phiên thực hiện: agent:github-io:subagent:480fb042-dc46-4f8c-9fd0-7e35e048a0ab (Đệ #3 Full Content Crawler 19/2026/TT-NHNN).
+- Văn bản quy định phân cấp thủ tục hành chính tại Nghị định 94/2025/NĐ-CP (Cơ chế thử nghiệm có kiểm soát / sandbox trong lĩnh vực ngân hàng).
+- Căn cứ: Nghị định 94/2025/NĐ-CP, Luật Các tổ chức tín dụng 2024.
+- Lưu ý: chữ ký số CAdES-BES che số ngày hiệu lực trong PDF, phải cross-check luatvietnam.vn.
