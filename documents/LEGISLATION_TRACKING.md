@@ -1,3 +1,29 @@
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 1)
+
+### Crawler chi tiết văn bản 201/2026/NĐ-CP
+
+Hoàn thiện crawl + Markdown hóa **201/2026/NĐ-CP** theo quy trình Signed PDF OCR / Web extract (nội dung lấy từ thuviennhadat.vn + cross-check thuehaiquan + luatvietnam vì datafiles.chinhphu.vn và vanban.chinhphu.vn đều là trang JS-rendered không crawl được bằng curl/web_fetch thông thường).
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 201/2026/NĐ-CP | **Đã có (2026-06-14, Markdown từ nguồn web chính thức + 2 cross-check)** | `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-201-2026-nd-cp-sua-doi-thue-suat-xuat-khau.md` | URL: `https://luatvietnam.vn/thue/nghi-dinh-201-2026-nd-cp-sua-doi-thue-suat-xuat-khau-theo-nghi-dinh-26-2023-nd-cp-436911-d1.html`; 3 Điều (không có Chương), 1 Phụ lục bảng thuế (2 nhóm: 25.29 và 81.06); 211 dòng, 14KB; OCR issues = 0; articles 1-3 đầy đủ, không thiếu, không trùng |
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-13)
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 201/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có | **Đã có** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- Nội dung văn bản 201/2026/NĐ-CP đã được cross-check qua 3 nguồn: luatvietnam.vn (lược bớt còn 1/3 do paywall), thuviennhadat.vn (toàn văn đầy đủ — dùng làm nguồn chính), thuehaiquan.tapchikinhtetaichinh.vn (bài phân tích + bảng tóm tắt khớp 100% với văn bản).
+- **Không tìm được PDF gốc** từ datafiles.chinhphu.vn hoặc vanban.chinhphu.vn — cả hai đều là trang .NET WebForm + JS-render, không có JSON API public. Curl chỉ lấy được HTML skeleton.
+- **Không tìm được docid** trên vanban.chinhphu.vn (lướt dải 218420–218450 không thấy; nhiều khả năng docid nằm ngoài phạm vi này hoặc chưa được index public). Tạm thời để trống trường docid; phiên sau sẽ dùng browser-automation hoặc mở rộng range dò tìm.
+- Văn bản này là NĐ sửa đổi biểu thuế nên cấu trúc gọn: 3 Điều + 1 Phụ lục bảng. Nội dung Phụ lục đã được bóc tách đầy đủ 2 nhóm hàng (25.29 và 81.06), 15 dòng thuế chi tiết.
+- Có thêm phần **TÓM TẮT NỘI DUNG ĐIỀU CHỈNH** trong file Markdown — so sánh thuế suất cũ/mới, xu hướng chính sách, phạm vi áp dụng (dựa trên thông tin từ Bộ Tài chính đăng tải qua các báo: vietnamplus, congthuong, sct.dongnai).
+- Phiên thực hiện: agent:github-io:subagent:f4b99710-63e0-4d55-9a1a-589948dd06f9 (Đệ #3 Full Content Crawler 201/2026/NĐ-CP).
+
+---
 ## Cập nhật 2026-06-13 (phiên Đệ #1 Discovery — lần 12)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
