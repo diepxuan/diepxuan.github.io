@@ -1583,7 +1583,7 @@ Quét tuần 09–15/06/2026 qua web search Brave + web_fetch (luatvietnam.vn, t
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 44/2026/TT-BGDĐT | 09/06/2026 | Quy định trình tự, thủ tục xây dựng, thẩm định, ban hành, quản lý, tổ chức thực hiện và đánh giá chương trình khoa học, công nghệ và đổi mới sáng tạo của Bộ GD&ĐT; hiệu lực 25/7/2026 | Giáo dục / Khoa học công nghệ | [Đã có](van-ban/giao-duc/thong-tu-44-2026-tt-bgddt-trinh-tu-thu-tuc-chuong-trinh-khcn-doi-moi-sang-tao.md) | **Đã có (2026-06-15, web HTPL)** | Tác động hệ thống quản lý KHCN cấp Bộ; nguồn: thuvienphapluat.vn (2 bài: 273501 + 138094047); người ký: Lê Quân (Thứ trưởng KT. Bộ trưởng); file slug dự kiến: `thong-tu-44-2026-tt-bgddt-trinh-tu-thu-tuc-chuong-trinh-khcn.md` |
-| 43/2026/TT-BGDĐT | 09/06/2026 | Quy định tiêu chuẩn người dạy nghề; hiệu lực ngay 09/6/2026 | Giáo dục / GD nghề nghiệp | — | **Chưa có** | Tác động trực tiếp đến hệ thống đào tạo nghề; nguồn: luatvietnam.vn (2 bài: 436987-d1 + 109479-article); hiệu lực ngay ký ban hành; file slug dự kiến: `thong-tu-43-2026-tt-bgddt-tieu-chuan-nguoi-day-nghe.md` |
+| 43/2026/TT-BGDĐT | 09/06/2026 | Quy định tiêu chuẩn người dạy nghề; hiệu lực ngay 09/6/2026 | Giáo dục / GD nghề nghiệp | [Đã có](van-ban/giao-duc/thong-tu-43-2026-tt-bgddt-tieu-chuan-nguoi-day-nghe.md) | **Đã có (2026-06-15, web HTPL/LuatVietnam extract)** | Tác động trực tiếp đến hệ thống đào tạo nghề; nguồn: vanban.chinhphu.vn (docid 218392) + luatvietnam.vn (436987-d1 + 109479-article) + hethongphapluat.com; người ký: Thứ trưởng Phạm Ngọc Thưởng; hiệu lực ngay ký ban hành; 11 Điều + 3 Chương (Quy định chung, Tiêu chuẩn người dạy nghề, Tổ chức thực hiện) |
 | 69/2026/TT-BCA | ~09/06/2026 (file mẫu upload 09/6) | Sửa đổi, bổ sung Thông tư 31/2023/TT-BCA về mẫu hộ chiếu, mẫu giấy thông hành và các biểu mẫu liên quan; thay thế 9 mẫu biểu mới (TK01-TK06, VB01); hiệu lực 01/7/2026 | An ninh trật tự / Xuất nhập cảnh | — | **Chưa có** | Tác động toàn bộ công dân làm hộ chiếu; nguồn: luatvietnam.vn (109435-article + 109525-article + 109470-article), thuvienphapluat.vn (138093770), hoatieu.vn, eva.vn, suckhoedoisong.vn; ngày ký chính thức cần xác minh (giả thuyết 9/6/2026 dựa trên timestamp upload file mẫu trên luatvietnam.vn) |
 | 16/2026/TT-NHNN | ~09–12/06/2026 (chưa xác minh) | Sửa đổi quy định thu đổi tiền không đủ tiêu chuẩn lưu thông | Ngân hàng / Tài chính | — | **Chưa có** | Tác động hệ thống ngân hàng thương mại và chi nhánh NH nước ngoài; nguồn: thuvienphapluat.vn (102123 - danh sách NĐ 2026 + dòng riêng về 16/TT-NHNN); ngày ký chính thức CHƯA xác minh được (URL trực tiếp thuvienphapluat.vn 404, luatvietnam.vn redirect sang văn bản khác) — đề xuất verify trong heartbeat tiếp theo |
 
@@ -1609,7 +1609,7 @@ Quét tuần 09–15/06/2026 qua web search Brave + web_fetch (luatvietnam.vn, t
 | Số hiệu | Trong tracking? | File van-ban/? | Trạng thái cũ | Trạng thái mới |
 |---|:---:|:---:|:---:|:---:|
 | 44/2026/TT-BGDĐT | **CÓ** | Có | — | Đã có (2026-06-15, web HTPL extract; người ký: Lê Quân, Thứ trưởng KT. Bộ trưởng) |
-| 43/2026/TT-BGDĐT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 43/2026/TT-BGDĐT | **CÓ** | Có | — | Đã có (2026-06-15, web HTPL/LuatVietnam extract; người ký: Phạm Ngọc Thưởng, Thứ trưởng; 11 Điều + 3 Chương) |
 | 69/2026/TT-BCA | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 16/2026/TT-NHNN | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 
