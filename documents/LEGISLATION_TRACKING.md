@@ -237,7 +237,7 @@ Quét bổ sung các văn bản tháng 6/2026 qua web search + web_fetch vanban.
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 200/2026/NĐ-CP | 05/06/2026 | Quy định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước và chào bán trái phiếu doanh nghiệp ra thị trường quốc tế — doanh nghiệp tự vay tự trả, hạch toán riêng vốn huy động | Chứng khoán / Tài chính | 218389 | **Chưa có** | URL: https://vanban.chinhphu.vn/?pageid=27160&docid=218389; tác động thị trường trái phiếu doanh nghiệp |
+| 200/2026/NĐ-CP | 05/06/2026 | Quy định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước và chào bán trái phiếu doanh nghiệp ra thị trường quốc tế | Chứng khoán / Tài chính | 218389 | **Đã có (2026-06-14)** | File: `van-ban/chung-khoan/nghi-dinh-200-2026-nd-cp-chao-ban-giao-dich-trai-phieu-doanh-nghiep.md`; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218389`; người ký: Thủ tướng CP; hiệu lực 01/7/2026; 51 Điều, 6 Chương (I, III, IV, V, VII, VIII), thiếu heading II, VI; 4183 dòng, 233KB; OCR issues = 0 |
 | 169/2026/NĐ-CP | 15/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực hải quan — phạt đến 80 triệu đồng vận chuyển hàng tạm ngừng xuất khẩu, phạt đến 50 triệu không khai báo ngoại tệ, vàng; thay thế NĐ 128/2020/NĐ-CP | Thuế / Hải quan | 218xxx | **Chưa có** | URL cần xác minh trên vanban.chinhphu.vn; hiệu lực 01/7/2026 |
 | 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026-2035 | Tài chính / Ngân sách | 218378 | **Đã có (2026-06-14)** | File: `van-ban/tai-chinh/thong-tu-60-2026-tt-btc-huong-dan-quan-ly-su-dung-quyet-toan-kinh-phi-chuong-trinh-muc-tieu-quoc-gia.md`; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218378`; 22 Điều + 4 Chương |
 
@@ -245,7 +245,7 @@ Quét bổ sung các văn bản tháng 6/2026 qua web search + web_fetch vanban.
 
 | Số hiệu | Trong tracking? | Trạng thái |
 |---|---|
-| 200/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 200/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có | **Đã có (51 Điều + 6 Chương)** (2026-06-14) |
 | 169/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 60/2026/TT-BTC | **CÓ** | Đã có |
 
