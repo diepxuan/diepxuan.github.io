@@ -1374,3 +1374,47 @@ Hoàn thiện refactor file stub `van-ban/hai-quan-thuong-mai/nghi-dinh-153-2026
 - Phụ lục 22 tỉnh/thành kèm 68 cửa khẩu/lối thông quan/đường chuyên dụng — đã giữ nguyên, không rút gọn.
 - Stub cũ đã được ghi đè hoàn toàn, không còn "Đang cập nhật", "trang_thai: Đang cập nhật", "chuthich".
 - Có thông tin vị trí địa lý chi tiết (toạ độ) cho từng cửa khẩu (~1300 dòng).
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 9)
+
+### Crawler chi tiết văn bản 56/2026/TT-BCA (lần đầu dùng Công báo CDN)
+
+Hoàn thiện crawl + Markdown hóa **56/2026/TT-BCA** theo quy trình Signed PDF OCR (PDF gốc từ Công báo chính phủ 653KB, 9 trang, có chữ ký số). Đây là lần đầu tiên sử dụng nguồn Công báo CDN (congbaocdn.chinhphu.vn) thay cho datafiles.chinhphu.vn (URL datafiles 404).
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 56/2026/TT-BCA | **Đã có (2026-06-14, pdftotext thành công 26KB, cross-check luatvietnam.vn)** | `van-ban/cong-an/thong-tu-56-2026-tt-bca-quan-ly-theo-doi-nguoi-bi-cam-di-khoi-noi-cu-tru.md` | URL metadata: `https://congbao.chinhphu.vn/van-ban/thong-tu-so-56-2026-tt-bca-469655.htm`; PDF: `https://congbaocdn.chinhphu.vn/180507251028987904/2026/6/10/469655-1781059064_v1_1781085618_signed.pdf` (653KB, 9 trang, có chữ ký số); Số Công báo: 323; người ký: Đại tướng Lương Tam Quang (Bộ trưởng Bộ Công an); ngày ban hành: 15/05/2026; hiệu lực: 01/07/2026 (chưa có hiệu lực, còn 17 ngày); 18 Điều (Điều 1-18) + 4 Chương (I, II, III, IV); 324 dòng, 29.8KB; OCR issues = 0 nghiêm trọng; `VNeID` là tên viết tắt chính thức của ứng dụng định danh điện tử Bộ Công an, không phải lỗi OCR; articles 1-18 đầy đủ, không thiếu, không trùng |
+
+### Cấu trúc 56/2026/TT-BCA
+
+- **Chương I** (Điều 1-3): QUY ĐỊNH CHUNG
+  - Điều 1: Phạm vi điều chỉnh
+  - Điều 2: Đối tượng áp dụng
+  - Điều 3: Giải thích từ ngữ
+- **Chương II** (Điều 4-12): TIẾP NHẬN, QUẢN LÝ, THEO DÕI
+  - Điều 4: Tiếp nhận lệnh cấm đi khỏi nơi cư trú
+  - Điều 5-7: Trình tự, thủ tục quản lý
+  - Điều 8-12: Theo dõi, cập nhật Cơ sở dữ liệu quốc gia về dân cư, VNeID
+- **Chương III** (Điều 13-16): TRÁCH NHIỆM CỦA CÔNG AN CÁC ĐƠN VỊ, ĐỊA PHƯƠNG
+  - Điều 13-16: Phân cấp trách nhiệm Công an các cấp
+- **Chương IV** (Điều 17-18): ĐIỀU KHOẢN THI HÀNH
+  - Điều 17: Hiệu lực thi hành
+  - Điều 18: Trách nhiệm thi hành
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md`
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 56/2026/TT-BCA | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (18 Điều + 4 Chương)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path: `van-ban/cong-an/thong-tu-56-2026-tt-bca-quan-ly-theo-doi-nguoi-bi-cam-di-khoi-noi-cu-tru.md` (group `cong-an` đã có sẵn, đúng lĩnh vực).
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Front matter: kết hợp CamelCase + underscore snake_case (`so`, `ngay`, ...) + có `de_nghi`, `bo`, `hieu_luc`, `nguoi_ky`, `so_cong_bao`.
+- Phiên thực hiện: agent:github-io:subagent:0f45a752-a31d-4727-858b-9034e802e999 (Đệ #3 Full Content Crawler 56/2026/TT-BCA).
+- Văn bản **CHƯA CÓ HIỆU LỰC** (01/07/2026) - đã ghi chú trong file.
+- Căn cứ: BLTTHS 101/2015/QH13 (sửa đổi bởi 6 Luật), Luật 128/2025/QH15 (THTG, TG, cấm cư trú), NĐ 02/2025/NĐ-CP (sửa đổi bởi NĐ 11/2025/NĐ-CP).
+- Lần đầu dùng nguồn Công báo CDN thay vì datafiles.chinhphu.vn → đây là pattern mới cho các văn bản chưa có docid trên vanban.chinhphu.vn.
+- docid dùng trong front matter = `469655` (Công báo ID) thay vì `218xxx` (vanban.chinhphu.vn ID) vì văn bản này chưa có trên vanban.chinhphu.vn.
+- Cross-check: luatvietnam.vn (slug 436803 dùng làm tag) + Công báo chính phủ + luatvietnam.vn.
