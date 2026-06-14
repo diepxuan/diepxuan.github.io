@@ -1219,3 +1219,39 @@ Hoàn thiện crawl + Markdown hóa **30/2026/TT-BCT** theo quy trình Signed PD
 - Phiên thực hiện: agent:github-io:subagent:301b4572-6e11-4c68-a93d-b07c523558e8 (Đệ #3 Full Content Crawler 30/2026/TT-BCT).
 - IRR 12% — đây là điểm quan trọng nhất của Thông tư: giới hạn tỷ suất sinh lợi nội tại tối đa 12% cho dự án BOT nhà máy điện.
 - Áp dụng cho nhà máy điện BOT chưa ký hợp đồng mua bán điện.
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 5)
+
+### Crawler chi tiết văn bản 63/2026/TT-BTC
+
+Hoàn thiện crawl + Markdown hóa **63/2026/TT-BTC** theo quy trình Signed PDF OCR (PDF gốc tại datafiles.chinhphu.vn, 1.93MB, 5 trang, KHÔNG có chữ ký số) + fallback OCR toàn trang (250 DPI) + cross-check với luatvietnam.vn.
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 63/2026/TT-BTC | **Đã có (2026-06-14, OCR fallback từ PDF gốc, cross-check luatvietnam.vn)** | `van-ban/giao-duc-dao-tao/thong-tu-63-2026-tt-btc-noi-dung-muc-chi-thi-ky-nang-nghe.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218416`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/63-btc.pdf` (1.93MB, 5 trang, PDF scan); người ký: Nguyễn Thị Bích Ngọc (KT. Bộ trưởng - Thứ trưởng); ngày ban hành: 05/6/2026; hiệu lực: 05/6/2026 (trễ 9 ngày); 7 Điều; 191 dòng, 15.7KB; OCR issues = 0; articles 1-7 đầy đủ, không thiếu, không trùng |
+
+### Cấu trúc 63/2026/TT-BTC
+
+- **Điều 1**: Phạm vi điều chỉnh
+- **Điều 2**: Nguồn kinh phí thực hiện
+- **Điều 3**: Nguyên tắc quản lý, sử dụng kinh phí
+- **Điều 4**: Nội dung và mức chi chung
+- **Điều 5**: Nội dung và mức chi thi kỹ năng nghề trong nước
+- **Điều 6**: Nội dung và mức chi đối với thi kỹ năng nghề quốc tế
+- **Điều 7**: Điều khoản thi hành
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md`
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 63/2026/TT-BTC | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (7 Điều)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path dùng slug `thong-tu-63-2026-tt-btc-noi-dung-muc-chi-thi-ky-nang-nghe` (chuẩn SEO).
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Front matter: chuẩn CamelCase, đầy đủ các trường bắt buộc (`date`, `modified`, `group`, `tags`, `docid`, `source`).
+- Phiên thực hiện: agent:github-io:subagent:89e3ee43-64b5-4f76-840f-9d67f466947c (Đệ #3 Full Content Crawler 63/2026/TT-BTC).
+- Văn bản thay thế Thông tư liên tịch 43/2012/TTLT-BTC-BLĐTBXH ngày 14/03/2012.
+- Mức chi: 1 triệu đồng/bộ hồ sơ/đề thi; đồ bảo hộ tối đa 1 triệu/người.
+- Áp dụng cho hoạt động thi kỹ năng nghề trong nước và quốc tế.
