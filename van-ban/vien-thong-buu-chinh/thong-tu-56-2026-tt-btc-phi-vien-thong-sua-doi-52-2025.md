@@ -3,9 +3,25 @@ layout: vanban
 title: "Thông tư 56/2026/TT-BTC - Sửa đổi, bổ sung một số điều của Thông tư 52/2025/TT-BTC về phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông"
 date: 2026-05-15
 modified: 2026-06-15
-group: Viễn thông / Tài chính
+so_hieu: "56/2026/TT-BTC"
+loai_van_ban: "Thông tư"
+co_quan_ban_hanh: "Bộ Tài chính"
+ngay_ban_hanh: "15/05/2026"
+ngay_co_hieu_luc: "01/07/2026"
+hieu_luc: "01/07/2026"
+nguoi_ky: "Cao Anh Tuấn"
+chuc_danh_nguoi_ky: "Thứ trưởng Bộ Tài chính (KT. Bộ trưởng)"
+trich_yeu: "Sửa đổi, bổ sung một số điều của Thông tư số 52/2025/TT-BTC ngày 24/6/2025 quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông, lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông"
+van_ban_thay_the: "Thông tư 52/2025/TT-BTC ngày 24/6/2025"
+group: "vien-thong-buu-chinh"
+ngon_ngu: "vi"
+docid: "218176"
+source:
+  - vanban.chinhphu.vn
+  - datafiles.chinhphu.vn
 tags:
   - thong-tu
+  - 2026
   - btc
   - tai-chinh
   - vien-thong
@@ -14,8 +30,6 @@ tags:
   - giay-phep-vien-thong
   - sua-doi-52-2025
   - 52-2025-tt-btc
-docid: 218176
-source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
 # Thông tư 56/2026/TT-BTC - Sửa đổi, bổ sung một số điều của Thông tư 52/2025/TT-BTC về phí quyền hoạt động viễn thông, lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông
