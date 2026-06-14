@@ -77,6 +77,8 @@ Hoàn thiện crawl + Markdown hóa **201/2026/NĐ-CP** theo quy trình Signed P
 ---
 ## Cập nhật 2026-06-13 (phiên Đệ #1 Discovery — lần 12)
 
+| 31/2026/TT-BCT | 14/06/2026 | Quy định truy xuất nguồn gốc sản phẩm, hàng hóa; hiệu lực 01/7/2026 | Thương mại - Công thương | — | **Đã có (2026-06-14)** | File: `van-ban/thuong-mai-cong-thuong/thong-tu-31-2026-tt-bct-truy-xuat-nguon-goc-san-pham.md`; người ký: Nguyễn Sinh Nhật Tân (KT. Bộ trưởng Bộ Công Thương - Thứ trưởng); 19 Điều (1-19), 5 Chương (I-V), 0 Phụ lục; 294 dòng, 24KB; OCR issues = 0 |
+
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
 
 Quét web tổng hợp Brave + Gemini các nhóm chủ đề: Thuế, Đất đai, Nông nghiệp, Thú y, Năng lượng, Chứng khoán, Hình sự, Giáo dục, Giao thông, Tài chính, Lao động, Xây dựng. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-13 lần 11): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
@@ -176,7 +178,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 | 56/2026/TT-BCA | 01/07/2026 (hiệu lực) | Quy định quản lý, theo dõi người bị cấm đi khỏi nơi cư trú — cụ thể hóa BLTTHS và Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú năm 2025; Trưởng Công an cấp xã phân công cán bộ quản lý, theo dõi, kiểm tra; lập biên bản nếu vi phạm; hiệu lực 01/7/2026 | An ninh trật tự / Tố tụng hình sự | — | **Chưa có** | Nguồn: baomoi.com, tapchitoaan.vn, congbao.chinhphu.vn (file PDF bocongan.gov.vn); tác động hệ thống CA cấp xã toàn quốc |
 | 19/2026/TT-NHNN | 19/05/2026 | Quy định phân cấp trong thực hiện thủ tục hành chính quy định tại NĐ 94/2025/NĐ-CP về cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng; hiệu lực 30/6/2026 | Ngân hàng / Tài chính | — | **Chưa có** | Tác động Sandbox ngân hàng; nguồn: pbgdplthainguyen.gov.vn, lsvn.vn |
 | 35/2026/TT-BTC | 31/03/2026 | Quy định chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước — thay thế TT 71/2018/TT-BTC; hiệu lực 18/5/2026 | Tài chính / Đối ngoại | — | **Chưa có** | Đã loại bỏ placeholder chưa xác minh khỏi PR#204; cần crawl lại từ nguồn chính thức trước khi tạo file public |
-| 31/2026/TT-BCT | 11/06/2026 | Quy định truy xuất nguồn gốc sản phẩm, hàng hóa thuộc phạm vi quản lý của Bộ Công Thương — truy xuất điện tử bắt buộc đối với nhóm hàng rủi ro cao; thương nhân thành lập mới từ 1/1/2027 phải thực hiện ngay; hiệu lực 01/7/2026 | Thương mại / Công nghiệp | — | **Chưa có** | Vừa ban hành ngày 11/6/2026 (hôm nay); tác động rộng chuỗi cung ứng, an toàn thực phẩm, hàng tiêu dùng; nguồn: thuehaiquan.tapchikinhtetaichinh.vn, vietnam.vn |
+| 31/2026/TT-BCT | 11/06/2026 | Quy định truy xuất nguồn gốc sản phẩm, hàng hóa thuộc phạm vi quản lý của Bộ Công Thương — truy xuất điện tử bắt buộc đối với nhóm hàng rủi ro cao; thương nhân thành lập mới từ 1/1/2027 phải thực hiện ngay; hiệu lực 01/7/2026 | Thương mại / Công nghiệp | — | **Đã có (2026-06-14)** | File: `van-ban/thuong-mai-cong-thuong/thong-tu-31-2026-tt-bct-truy-xuat-nguon-goc-san-pham.md`; 19 Điều, 5 Chương |
 
 ### Xác minh các văn bản ưu tiên từ nhiệm vụ
 
@@ -204,7 +206,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 | 56/2026/TT-BCA | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 19/2026/TT-NHNN | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 35/2026/TT-BTC | **KHÔNG** | Không | — | Thêm mới — Chưa có; placeholder chưa xác minh đã bị loại khỏi PR#204 |
-| 31/2026/TT-BCT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 31/2026/TT-BCT | **KHÔNG** | Không | — | Thêm mới — Chưa có | **Đã có (19 Điều + 5 Chương)** (2026-06-14) |
 | 185/2026/NĐ-CP | **CÓ (ghi sai)** | Có | Chưa có | **Sửa → Đã có** |
 | 29/2026/TT-BCA | **KHÔNG** | Không | — | Chưa có (chờ xác minh — có thể chưa ban hành) |
 
@@ -1562,3 +1564,50 @@ Hoàn thiện crawl + Markdown hóa **46/2026/TT-BGDĐT** theo quy trình scrape
 - Không tìm được URL datafiles.chinhphu.vn/congbao.chinhphu.vn (chưa đăng trên hệ thống chính thức).
 - thuvienphapluat.vn không tìm thấy URL cụ thể (chỉ có thông tin tóm tắt trong bài viết khác).
 - Lần đầu dùng raw HTML body extraction cho luatvietnam.vn - thành công.
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần) - Đệ #1 lần 2026-06-14
+
+Quét tuần 09–15/06/2026 qua web search Brave + web_fetch (luatvietnam.vn, thuvienphapluat.vn, baophapluat.vn, baomoi.com, vietnamplus.vn). Lọc trừ QĐ-TTg hành chính, Công văn VPCP, tin tổng hợp. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-14 trước phiên): phát hiện **4 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 4 (đã loại các văn bản trùng/trước 09/06):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 44/2026/TT-BGDĐT | 09/06/2026 | Quy định trình tự, thủ tục xây dựng, thẩm định, ban hành, quản lý, tổ chức thực hiện và đánh giá chương trình khoa học, công nghệ và đổi mới sáng tạo của Bộ GD&ĐT; hiệu lực 25/7/2026 | Giáo dục / Khoa học công nghệ | — | **Chưa có** | Tác động hệ thống quản lý KHCN cấp Bộ; nguồn: thuvienphapluat.vn (2 bài: 273501 + 138094047); người ký: Phạm Ngọc Thưởng (Bộ trưởng); file slug dự kiến: `thong-tu-44-2026-tt-bgddt-trinh-tu-thu-tuc-chuong-trinh-khcn.md` |
+| 43/2026/TT-BGDĐT | 09/06/2026 | Quy định tiêu chuẩn người dạy nghề; hiệu lực ngay 09/6/2026 | Giáo dục / GD nghề nghiệp | — | **Chưa có** | Tác động trực tiếp đến hệ thống đào tạo nghề; nguồn: luatvietnam.vn (2 bài: 436987-d1 + 109479-article); hiệu lực ngay ký ban hành; file slug dự kiến: `thong-tu-43-2026-tt-bgddt-tieu-chuan-nguoi-day-nghe.md` |
+| 69/2026/TT-BCA | ~09/06/2026 (file mẫu upload 09/6) | Sửa đổi, bổ sung Thông tư 31/2023/TT-BCA về mẫu hộ chiếu, mẫu giấy thông hành và các biểu mẫu liên quan; thay thế 9 mẫu biểu mới (TK01-TK06, VB01); hiệu lực 01/7/2026 | An ninh trật tự / Xuất nhập cảnh | — | **Chưa có** | Tác động toàn bộ công dân làm hộ chiếu; nguồn: luatvietnam.vn (109435-article + 109525-article + 109470-article), thuvienphapluat.vn (138093770), hoatieu.vn, eva.vn, suckhoedoisong.vn; ngày ký chính thức cần xác minh (giả thuyết 9/6/2026 dựa trên timestamp upload file mẫu trên luatvietnam.vn) |
+| 16/2026/TT-NHNN | ~09–12/06/2026 (chưa xác minh) | Sửa đổi quy định thu đổi tiền không đủ tiêu chuẩn lưu thông | Ngân hàng / Tài chính | — | **Chưa có** | Tác động hệ thống ngân hàng thương mại và chi nhánh NH nước ngoài; nguồn: thuvienphapluat.vn (102123 - danh sách NĐ 2026 + dòng riêng về 16/TT-NHNN); ngày ký chính thức CHƯA xác minh được (URL trực tiếp thuvienphapluat.vn 404, luatvietnam.vn redirect sang văn bản khác) — đề xuất verify trong heartbeat tiếp theo |
+
+### Văn bản phát hiện thêm (chưa tạo entry — chờ phiên sau)
+
+- **21/2026/NQ-CP** (Y tế / Hành chính) — Chính phủ cắt giảm 298 điều kiện kinh doanh y tế, phân cấp 64 thủ tục hành chính, đơn giản hóa 71 TTHC; **ĐÃ LOẠI** vì văn bản gốc ký ngày **29/4/2026** (theo baophapluat.vn: "Nghị quyết số 21/2026/NQ-CP ngày 29/4/2026") — NGOÀI khoảng 09–15/06/2026; bài báo 10/6/2026 chỉ là phân tích chuyên sâu sau khi văn bản ban hành.
+- **125/NQ-CP** (Lập pháp) — điều chỉnh Chương trình lập pháp 2026, bổ sung Luật Định danh và xác thực điện tử; nguồn: vietnamplus.vn (post1116058); **CHƯA xác minh** ngày ký chính thức (vietnamplus.vn 3 days ago + sggp.org.vn 3 days ago = ~11/6/2026) — đề xuất verify.
+- **50/2026/TT-BQP** (Quốc phòng / Lao động) — hướng dẫn NĐ 363/2025/NĐ-CP thu hút, trọng dụng nhân tài; **ĐÃ LOẠI** vì ngày 25/5/2026 (NGOÀI 09–15/06/2026).
+- **200/2026/NĐ-CP** (Tài chính) — trái phiếu doanh nghiệp riêng lẻ; **ĐÃ LOẠI** vì ngày 05/6/2026 (NGOÀI 09–15/06/2026).
+- **202/2026/NĐ-CP** (Tài chính) — lệ phí trước bạ ô tô điện 0% đến 2030; **ĐÃ LOẠI** vì ngày 08/6/2026 (NGOÀI 09–15/06/2026).
+- **197/2026/NĐ-CP** (Tư pháp) — Cơ sở dữ liệu quốc gia về tiếp công dân, khiếu nại, tố cáo; **ĐÃ LOẠI** vì ngày 03/6/2026 (NGOÀI 09–15/06/2026).
+- **18/2026/TT-BYT** (Y tế) — thuốc kiểm soát đặc biệt; **ĐÃ CÓ** trong tracking (line 818-819 + 989).
+- **06/2026/TT-BYT** (Y tế) — mã hóa bệnh tật ICD-10; **ĐÃ CÓ** trong tracking (line 818-819).
+- **28/2026/NQ-CP** (Năng lượng) — cơ chế khai thác than vượt công suất; **ĐÃ CÓ** trong tracking (line 133 + 143 + 151 + 159-160).
+- **31/2026/TT-BCT** (Công Thương) — truy xuất nguồn gốc sản phẩm; **ĐÃ CÓ** trong tracking (line 179 + 207 + 214 + 222).
+- **45/2026/TT-BGDĐT** (Giáo dục) — sửa đổi TT 15/2025 chức năng Sở GD&ĐT; **ĐÃ CÓ** trong tracking (line 89 + 99 + 107 + 117).
+- **46/2026/TT-BGDĐT** (Giáo dục) — Điều lệ trường TH nghề; **ĐÃ CÓ** trong tracking (line 175 + 222 + file `van-ban/giao-duc-dao-tao/thong-tu-46-2026-tt-bgddt-dieu-le-truong-trung-hoc-nghe.md` đã được crawl bởi Đệ #3 lúc 2026-06-14).
+- **14/2026/TT-BNV** (Nội vụ) — điều chỉnh lương hưu 8% từ 01/7/2026; **ĐÃ CÓ** trong tracking (line 455).
+- **30/2026/TT-BCT** (Công Thương) — giá điện BOT; **ĐÃ CÓ** trong tracking (line 135 + 145 + 152 + 160 + file `van-ban/nang-luong-tai-nguyen/thong-tu-30-2026-tt-bct-gia-dich-vu-phat-dien-nha-may-bot.md` đã crawl).
+
+### Đối chiếu nhanh với `van-ban/` và LEGISLATION_TRACKING.md (đến 2026-06-14 trước phiên)
+
+| Số hiệu | Trong tracking? | File van-ban/? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|:---:|
+| 44/2026/TT-BGDĐT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 43/2026/TT-BGDĐT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 69/2026/TT-BCA | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 16/2026/TT-NHNN | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+
+### Ghi chú xử lý
+
+- **Subagent session:** agent:github-io:subagent:7ba0123b-268b-497d-89bc-c75203e9d86a (Đệ #1 Discovery & Tracking - lần 2026-06-14).
+- **Văn bản MỚI thực sự:** 4 (44, 43, 69, 16) — đủ 4/5, thiếu 1 do date verification chưa hoàn tất (16/2026/TT-NHNN + 125/NQ-CP).
+- **Văn bản bị loại do ngoài khoảng ngày 09–15/06/2026:** 50/2026/TT-BQP (25/5), 06/2026/TT-BYT (02/04), 18/2026/TT-BYT (01/06), 200/2026/NĐ-CP (05/6), 202/2026/NĐ-CP (08/6), 197/2026/NĐ-CP (03/6), 21/2026/NQ-CP (29/4/2026).
+- **Văn bản đã có trong tracking:** 28/2026/NQ-CP, 31/2026/TT-BCT, 45/2026/TT-BGDĐT, 46/2026/TT-BGDĐT, 14/2026/TT-BNV, 30/2026/TT-BCT — tổng cộng 6 văn bản đã có, không thêm trùng.
+- **Khuyến nghị ưu tiên:** 4 văn bản mới đều thuộc lĩnh vực KHCN (44/TT-BGDĐT), GD nghề (43/TT-BGDĐT), hộ chiếu (69/TT-BCA), ngân hàng (16/TT-NHNN) — phù hợp nhóm ưu tiên Thuế/Chứng khoán/Đất đai/KHCN/Lâm nghiệp/GD/Y tế/XD/GTVT.
+- **Cần verify trong heartbeat tiếp theo:** ngày ký chính thức của 16/2026/TT-NHNN và 125/NQ-CP; docid vanban.chinhphu.vn cho 4 văn bản mới.
+- **Giới hạn task:** đệ #1 chỉ phát hiện + cập nhật tracking, KHÔNG crawl nội dung — đề xuất Đệ #3 Full Content Crawler xử lý 4 văn bản này trong phiên tiếp theo.
