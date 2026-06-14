@@ -18,6 +18,12 @@ tags:
   - 430995
 docid: 430995
 source: luatvietnam.vn
+so_hieu: "35/2026/TT-BTC"
+loai_van_ban: "Thông tư"
+noi_ban_hanh: "Bộ Tài chính"
+nguoi_ky: "Nguyễn Thị Bích Ngọc (KT. Bộ trưởng Bộ Tài chính - Thứ trưởng)"
+thay_the: "Thông tư 71/2018/TT-BTC ngày 10/8/2018"
+hieu_luc: "18/05/2026"
 ---
 # Thông tư 35/2026/TT-BTC
 ## THÔNG TIN VĂN BẢN
