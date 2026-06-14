@@ -74,14 +74,14 @@ Thông tư ban hành Điều lệ trường trung học nghề, quy định tổ
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO**
  _______
  Số: 46/2026/TT-BGDĐT
- 	 
+
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
  ** Độc lập – Tự do – Hạnh phúc**
  _________________
- 
+
 *Hà Nội, ngày 10 tháng 6 năm 2026*
- 
- 
+
+
 
 **THÔNG TƯ**
 
@@ -106,65 +106,65 @@ Thông tư ban hành Điều lệ trường trung học nghề, quy định tổ
 ### Điều 3. Chánh Văn phòng, Cục trưởng Cục Giáo dục nghề nghiệp và Giáo dục thường xuyên, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Chủ tịch Ủy ban nhân dân tỉnh, thành phố, Giám đốc Sở Giáo dục và Đào tạo, Hiệu trưởng trường trung học nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
 ***Nơi nhận:***
- 
-- Văn phòng Quốc hội;
- 
-- Văn phòng Chính phủ;
- 
-- Uỷ ban Văn hoá và Xã hội của Quốc hội;
- 
-- Hội đồng QGGD và PTNL;
- 
-- Ban Tuyên giáo và Dân vận Trung ương;
- 
-- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
- 
-- UBND các tỉnh, thành phố;
- 
-- Bộ trưởng (để b/c);
- 
-- Các Thứ trưởng Bộ GDĐT;
- 
-- Kiểm toán nhà nước;
- 
-- Cục KTVB và TCTHPL (Bộ Tư pháp);
- 
-- Công báo; Cổng TTĐT Chính phủ;
- 
-- Cổng TTĐT Bộ GDĐT;
- 
-- Cổng PLQG; CSDLQG về VBQPPL;
- 
-- Như Điều 3;
- 
-- Lưu: VT, PC, GDNNGDTX.
- 	 
-**KT. BỘ TRƯỞNG**
- 
-**THỨ TRƯỞNG**
- 
- 
- 
- 
- 
- 
- **Lê Quân**
- 
- 
 
- 
- 	 
+- Văn phòng Quốc hội;
+
+- Văn phòng Chính phủ;
+
+- Uỷ ban Văn hoá và Xã hội của Quốc hội;
+
+- Hội đồng QGGD và PTNL;
+
+- Ban Tuyên giáo và Dân vận Trung ương;
+
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+
+- UBND các tỉnh, thành phố;
+
+- Bộ trưởng (để b/c);
+
+- Các Thứ trưởng Bộ GDĐT;
+
+- Kiểm toán nhà nước;
+
+- Cục KTVB và TCTHPL (Bộ Tư pháp);
+
+- Công báo; Cổng TTĐT Chính phủ;
+
+- Cổng TTĐT Bộ GDĐT;
+
+- Cổng PLQG; CSDLQG về VBQPPL;
+
+- Như Điều 3;
+
+- Lưu: VT, PC, GDNNGDTX.
+
+**KT. BỘ TRƯỞNG**
+
+**THỨ TRƯỞNG**
+
+
+
+
+
+
+ **Lê Quân**
+
+
+
+
+
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO**
  _______
- 	 
+
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
  **Độc lập – Tự do – Hạnh phúc**
  _________________
- 
- 
+
+
 
 **ĐIỀU LỆ TRƯỜNG TRUNG HỌC NGHỀ**
- 
+
 *(Kèm theo Thông tư số 46/2026/TT-BGDĐT ngày 10 tháng 06 năm 2026
 
 của Bộ trưởng Bộ Giáo dục và Đào tạo)*
