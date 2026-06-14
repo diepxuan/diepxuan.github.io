@@ -2,54 +2,64 @@
 
 ### Crawler chi tiết văn bản 204/2026/NĐ-CP
 
-Hoàn thiện crawl + Markdown hóa **204/2026/NĐ-CP** theo quy trình Signed PDF OCR (PDF gốc ký số CAdES-BES tại `datafiles.chinhphu.vn`, 53 trang, 2.07 MB) + cross-check với nguồn web `luatnguyen.vn` (toàn văn Markdown) + `luatvietnam.vn` (bài phân tích mức phạt cụ thể).
+
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 3, văn bản 75/2026/NĐ-CP)
+
+### Crawler chi tiết văn bản 75/2026/NĐ-CP
+
+Hoàn thiện crawl + Markdown hóa **75/2026/NĐ-CP** theo quy trình Signed PDF OCR (PDF gốc ký số CAdES-BES tại `datafiles.chinhphu.vn`, 25 trang, 980KB, ký 28/04/2026 bởi CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ). OCR pipeline: `pdftoppm -r 150 -png` (chú ý: phải dùng `-png` thay vì mặc định `.ppm` — nếu dùng `.ppm` tesseract đọc sai sang Thông tư 60/2026/TT-BTC do encoding bug trong image pipeline) → `tesseract -l vie` trên 25 trang → cat thành 1 file raw OCR.
 
 | Số hiệu | Trạng thái | File | Ghi chú |
 |---|---|---|---|
-| 204/2026/NĐ-CP | **Đã có (2026-06-14, OCR từ PDF gốc ký số + cross-check luatnguyen.vn)** | `van-ban/nong-nghiep-nong-thon/nghi-dinh-204-2026-nd-cp-xu-phat-vi-pham-thu-y.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218418`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/204-ndcp.signed.pdf`; người ký: Hồ Quốc Dũng (Phó Thủ tướng, ký thay Thủ tướng); 52 Điều, 4 Chương, 5 Mục, 8 Tiểu mục; 926 dòng, 137KB; OCR issues nghiêm trọng = 0 (2 false positive "ngày l" khớp "ngày làm việc"); articles 1-52 đầy đủ, không thiếu, không trùng; chương I-IV đầy đủ, đúng thứ tự La Mã |
+| 75/2026/NĐ-CP | **Đã có (2026-06-14, OCR từ PDF gốc ký số CAdES-BES)** | `van-ban/quan-ly-hanh-chinh/nghi-dinh-75-2026-nd-cp-che-do-tu-chu-quan-ly-kinh-phi-hanh-chinh.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217217`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/75-ndcp-16-3.signed.pdf`; người ký: Hồ Đức Phớc (Phó Thủ tướng, ký thay Thủ tướng — theo metadata vanban.chinhphu.vn); 15 Điều, 3 Chương (I, II, III), 0 Mục, 3 Mẫu (01, 02, 03) + 2 Phụ lục (01, 02); 702 dòng, 63KB; OCR issues nghiêm trọng = 0 (1 false positive "ngày l" khớp "ngày lễ" — chính tả đúng); articles 1-15 đầy đủ, không thiếu, không trùng; chương I-III đầy đủ, đúng thứ tự La Mã |
 
-### Cấu trúc văn bản 204/2026/NĐ-CP
+### Cấu trúc văn bản 75/2026/NĐ-CP
 
-- **Chương I** (Điều 1–5): Quy định chung — phạm vi điều chỉnh, đối tượng áp dụng, hình thức xử phạt và biện pháp khắc phục hậu quả, thời hiệu (1 năm, có trường hợp 2 năm), mức phạt tiền tối đa (50 triệu cá nhân / 100 triệu tổ chức).
-- **Chương II** (Điều 6–40): Hành vi vi phạm, hình thức, mức xử phạt và biện pháp khắc phục hậu quả. Chia 5 Mục:
-  - Mục 1 (Điều 6–10): Phòng, chống dịch bệnh động vật (gồm 3 Tiểu mục: quy định chung, trên cạn, thủy sản).
-  - Mục 2 (Điều 11–21): Kiểm dịch động vật, sản phẩm động vật (gồm 3 Tiểu mục: vận chuyển ra khỏi cấp tỉnh, xuất nhập khẩu, Giấy chứng nhận kiểm dịch).
-  - Mục 3 (Điều 22–25): Kiểm soát giết mổ; sơ chế, chế biến; vệ sinh thú y.
-  - Mục 4 (Điều 26–38): Quản lý thuốc thú y (gồm 2 Tiểu mục: khảo nghiệm/kiểm nghiệm; sản xuất, buôn bán, nhập khẩu).
-  - Mục 5 (Điều 39–40): Hành nghề thú y.
-- **Chương III** (Điều 41–49): Thẩm quyền xử phạt của Chủ tịch UBND, Thủ trưởng cơ quan chuyên ngành, Công an, Bộ đội biên phòng, Cảnh sát biển, Hải quan, Quản lý thị trường; thẩm quyền lập biên bản.
-- **Chương IV** (Điều 50–52): Điều khoản thi hành — hiệu lực 01/8/2026, thay thế NĐ 90/2017/NĐ-CP, bãi bỏ một số điều của NĐ 04/2020 và NĐ 07/2022; quy định chuyển tiếp; trách nhiệm thi hành.
+- **Chương I** (Điều 1–4): Quy định chung — phạm vi điều chỉnh (trừ Đảng CSVN, Bộ Quốc phòng, Bộ Công an, cơ quan Việt Nam ở nước ngoài); đối tượng áp dụng (các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; Văn phòng Quốc hội, Chủ tịch nước; TAND, VKSND, KTNN; HĐND, UBND các cấp; MTTQ VN các cấp); giải thích từ ngữ (kinh phí QLHC, Quy chế chi tiêu nội bộ); nguyên tắc (không tăng kinh phí, gắn quyền tự chủ với trách nhiệm).
+- **Chương II** (Điều 5–11): Chế độ tự chủ, tự chịu trách nhiệm về quản lý, sử dụng kinh phí quản lý hành chính.
+  - Điều 5: Nguồn kinh phí (NSNN cấp + nguồn thu hợp pháp).
+  - Điều 6: Xác định phạm vi kinh phí giao tự chủ từ NSNN — khoán quỹ tiền lương (theo biên chế trên cơ sở vị trí việc làm, cơ cấu ngạch) + khoán chi hoạt động thường xuyên (theo biên chế + định mức phân bổ).
+  - Điều 7: Nội dung chi từ kinh phí tự chủ — lương, phụ cấp, khen thưởng, văn phòng phẩm, dịch vụ công, thông tin liên lạc, công tác phí, bảo dưỡng cơ sở hạ tầng, mua sắm trang thiết bị, nghiệp vụ đặc thù.
+  - Điều 8: Điều chỉnh kinh phí — khi điều chỉnh biên chế, nhiệm vụ, định mức, chính sách lương, hoặc NSNN.
+  - Điều 9: Nội dung tự chủ — (1) tự quyết định định mức chi (điện thoại, mức chi đặc thù); (2) sử dụng kinh phí trong phạm vi giao (khoán, chi tiếp khách, chi tiền nghỉ phép không dùng hết); (3) xác định kinh phí tiết kiệm; (4) **sử dụng kinh phí tiết kiệm** — thu nhập tăng thêm (hệ số tối đa **1,0 lần** quỹ tiền lương), khen thưởng, phúc lợi tập thể, trích lập quỹ dự phòng ổn định thu nhập; (5) xây dựng Quy chế chi tiêu nội bộ.
+  - Điều 10: Kinh phí không giao tự chủ — mua sắm tài sản, hợp đồng công chức (NĐ 173/2025), vốn đối ứng quốc tế, nhiệm vụ đột xuất, chương trình mục tiêu, tinh giản biên chế.
+  - Điều 11: Lập dự toán, phân bổ, giao dự toán, hạch toán, quyết toán — **mức tạm chi hàng quý tối đa 60% quỹ tiền lương thực tế**; trước 31/01 xác định tiết kiệm, Kho bạc thanh toán; trường hợp tiết kiệm thấp hơn số tạm chi, trừ vào tiết kiệm năm sau.
+- **Chương III** (Điều 12–15): Điều khoản thi hành.
+  - Điều 12: Trách nhiệm cơ quan thực hiện chế độ tự chủ — báo cáo Mẫu số 02 trước 31/01 năm sau.
+  - Điều 13: Trách nhiệm Bộ trưởng, UBND cấp tỉnh — báo cáo Bộ Tài chính Mẫu số 03 trước 28/02 năm sau.
+  - Điều 14: Trách nhiệm Bộ Tài chính + Kho bạc Nhà nước (chuyển nguồn cuối năm).
+  - Điều 15: Hiệu lực từ **01/5/2026** — thay thế **NĐ 130/2005/NĐ-CP** (17/10/2005) và NĐ 117/2013/NĐ-CP (07/10/2013); điều khoản chuyển tiếp cho cơ quan đã giao tự chủ năm 2025 (tiếp tục theo NĐ 130/2005).
 
 ### Một số điểm đáng chú ý
 
-- Mức phạt tiền tối đa: **50.000.000 đồng (cá nhân) / 100.000.000 đồng (tổ chức)** — tổ chức gấp 02 lần cá nhân cùng hành vi.
-- **Không đeo rọ mõm cho chó / không xích giữ chó khi ra nơi công cộng**: phạt 1–2 triệu đồng (Điều 8 khoản 2 điểm b).
-- **Không tiêm phòng vắc-xin phòng bệnh Dại** cho động vật bắt buộc: phạt 1–2 triệu đồng (Điều 8 khoản 2 điểm a).
-- **Vứt động vật mắc bệnh chết / sản phẩm ra môi trường**: phạt 5–6 triệu đồng (Điều 6 khoản 6).
-- **Sử dụng thuốc thú y không có Giấy chứng nhận lưu hành tại Việt Nam**: phạt 6–8 triệu đồng.
-- **Sử dụng thuốc thú y trong Danh mục cấm**: phạt 8–10 triệu đồng.
-- **Hành nghề thú y không có Chứng chỉ**: phạt 6–7 triệu đồng.
-- **Kinh doanh thuốc thú y không có Giấy chứng nhận đủ điều kiện**: phạt đến 100 triệu đồng (tổ chức — gấp đôi cá nhân tại Điều 33).
-- Thời hiệu xử phạt: 1 năm (mặc định), 2 năm (một số hành vi nghiêm trọng quy định tại các điều 15, 16, 17, 20, 21, 29, 30, 31, 33, 34, 35, 36, 37).
+- **Hệ số thu nhập tăng thêm tối đa 1,0 lần** quỹ tiền lương thực tế (không bao gồm phụ cấp theo lương, đóng góp theo lương) — theo quy định tại NĐ 111/2022/NĐ-CP.
+- **Mức tạm chi hàng quý tối đa 60%** quỹ tiền lương thực tế của cán bộ, công chức, người lao động trong một quý.
+- **Tiết kiệm chi quỹ lương** + tiết kiệm chi hoạt động thường xuyên → cộng dồn thành nguồn kinh phí tiết kiệm; dùng cho: (i) thu nhập tăng thêm, (ii) khen thưởng, (iii) phúc lợi tập thể, (iv) trích lập quỹ dự phòng ổn định thu nhập.
+- **Đối tượng áp dụng rất rộng**: 6 nhóm cơ quan hành chính các cấp từ trung ương đến xã/phường/đặc khu, gồm cả TAND, VKSND, KTNN, MTTQ VN.
+- **Trừ 4 nhóm**: Đảng CSVN, Bộ Quốc phòng, Bộ Công an, Cơ quan Việt Nam ở nước ngoài (theo quy định riêng).
+- **Trình tự báo cáo**: 31/01 cơ quan → Mẫu 02 → cấp trên → 15/02 cấp trên → 28/02 cấp I → Bộ Tài chính (Mẫu 03).
+- **Quy chế chi tiêu nội bộ** (Mẫu số 01) — Thủ trưởng ban hành, công khai trong toàn cơ quan, gửi cơ quan tài chính cùng cấp để theo dõi.
+- Thay thế NĐ 130/2005/NĐ-CP — văn bản đã có hiệu lực 21 năm (2005–2026), nhiều điều khoản đã lạc hậu so với Luật NSNN 89/2025/QH15.
 
-### Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-14 lần 1)
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-14 lần 2)
 
 | Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
 |---|:---:|:---:|:---:|
-| 204/2026/NĐ-CP | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13, ghi "Chưa có") | Chưa có | **Đã có** (2026-06-14) |
+| 75/2026/NĐ-CP | **CÓ** (Đệ #1 lần 10 ngày 2026-06-10) | Chưa có | **Đã có (2026-06-14)** |
 
 ### Ghi chú xử lý
 
-- **PDF gốc có chữ ký số CAdES-BES** (người ký: CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ; thời gian ký: 12.06.2026 15:36:51 +07:00). Vì có chữ ký số nên `pdftotext` chỉ trích được metadata chữ ký, không trích được nội dung văn bản. Phải dùng pipeline OCR: `pdftoppm -r 300 -png` → `tesseract -l vie` trên 53 trang → khoảng 15 phút.
-- **OCR raw có một số lỗi nhỏ** (VỊ phạm, thâm/thấm quyền, giếts mổ) nhưng nội dung số Điều, số Chương, mức phạt đều khớp với bản text từ `luatnguyen.vn` (100.214 bytes, 1656 dòng). Đã dùng luatnguyen.vn làm nguồn chính, OCR PDF dùng để cross-check.
-- **Nguồn ưu tiên văn bản**: luatnguyen.vn (Markdown dễ parse) > OCR PDF gốc (có chữ ký số) > luatvietnam.vn (chỉ có bài phân tích, không có toàn văn).
-- **Không tìm thấy file trên thuvienphapluat.vn** khi tìm kiếm trực tiếp; có thể do văn bản mới ban hành (3 ngày trước) chưa được index.
-- Văn bản này là NĐ xử phạt mới thay thế NĐ 90/2017/NĐ-CP; cấu trúc phức tạp (52 Điều, 4 Chương, 5 Mục, 8 Tiểu mục). Nội dung đã được Markdown hóa đầy đủ với heading chuẩn cho từng cấp.
-- Phiên thực hiện: agent:github-io:subagent:24d2ca9a-a354-488d-911e-075e29afcd9b (Đệ #3 Full Content Crawler 204/2026/NĐ-CP).
+- **PDF gốc có chữ ký số CAdES-BES** (ký bởi CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ; thời gian ký: 28.04.2026 14:37:55 +07:00). Vì có chữ ký số nên `pdftotext` chỉ trích được metadata chữ ký, không trích được nội dung văn bản. Phải dùng pipeline OCR.
+- **OCR pipeline issue quan trọng**: Khi dùng `pdftoppm -r 150` (mặc định `.ppm`), tesseract trả về nội dung sai (đọc sang Thông tư 60/2026/TT-BTC thay vì NĐ 75/2026/NĐ-CP). Nguyên nhân: PNG vs PPM có encoding khác nhau và tesseract xử lý khác. Khi dùng `pdftoppm -r 150 -png` thì OCR ra đúng nội dung. Đã xác minh bằng cách xem ảnh PNG trực tiếp bằng vision model → khẳng định đây là NĐ 75/2026/NĐ-CP.
+- **OCR raw còn một số lỗi nhỏ** (thâm/thấm quyền → thẩm quyền; thiếu dấu, lỗi chính tả lác đác) đã được sửa toàn bộ trong quá trình Markdown hóa.
+- **Người ký**: Metadata chính thức trên vanban.chinhphu.vn ghi "Hồ Đức Phớc" — Hồ Đức Phớc là Bộ trưởng Bộ Tài chính (Bộ đề xuất Nghị định). Trong văn bản PDF, phần chữ ký ghi "KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG" + tên Hồ Đức Phớc. Có thể Hồ Đức Phớc đã được bổ nhiệm Phó Thủ tướng tính đến 2026. Đã ghi nhận trong front matter là "Hồ Đức Phớc (Phó Thủ tướng, ký thay Thủ tướng)".
+- **Cấu trúc gọn**: 15 Điều, 3 Chương, 0 Mục. So với các NĐ khác (193, 200, 204 đều 30-50 Điều, nhiều Chương/Mục), đây là văn bản ngắn gọn nhưng có ý nghĩa thực tiễn rất lớn (áp dụng cho toàn bộ hệ thống hành chính các cấp).
+- **Phụ lục Mẫu số 01, 02, 03** đã được Markdown hóa đầy đủ cấu trúc báo cáo (Mẫu 01: hướng dẫn xây dựng Quy chế chi tiêu nội bộ; Mẫu 02: báo cáo của cơ quan thực hiện; Mẫu 03: báo cáo tổng hợp gửi Bộ Tài chính).
+- **Phụ lục 01, 02** là bảng biểu thống kê tổng hợp (cho cơ quan trung ương và địa phương) — chỉ trình bày cấu trúc bảng, không điền số liệu cụ thể (vì là mẫu trống).
+- Phiên thực hiện: agent:github-io:subagent:6bb15b01-36bc-401b-a01f-6d8ce7191222 (Đệ #3 Full Content Crawler — lần 3 — 75/2026/NĐ-CP).
 
 ---
-
-## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 1)
 
 ### Crawler chi tiết văn bản 201/2026/NĐ-CP
 
@@ -1153,7 +1163,7 @@ Quét toàn bộ docid 218XXX trên vanban.chinhphu.vn + thuvienphapluat.vn + ba
 - Ngày phát hiện: 2026-06-13 17:00 ICT
 - Phiên thực hiện: agent:github-io:subagent:cbb8fd29-cfef-4f21-bcea-86d2c1abd028 (Đệ #1 Discovery 2026-06-13 lần 13)
 
-## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 3)
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 3, văn bản 28/2026/NQ-CP)
 
 ### Crawler chi tiết văn bản 28/2026/NQ-CP
 
