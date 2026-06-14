@@ -80,7 +80,7 @@ Theo đề nghị của Vụ trưởng Vụ Kế hoạch - Tài chính.
 
 ---
 
-## VĂN BẢN
+## NỘI DUNG
 
 **BỘ XÂY DỰNG**
 
