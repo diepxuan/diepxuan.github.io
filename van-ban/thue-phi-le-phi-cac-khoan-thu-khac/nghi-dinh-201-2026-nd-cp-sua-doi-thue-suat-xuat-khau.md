@@ -48,7 +48,7 @@ Các mặt hàng được điều chỉnh gồm: (1) nhóm mã HS 25.29 (tràng 
 
 ## NỘI DUNG TOÀN VĂN
 
-**Số: 201/2026/NĐ-CP**  
+**Số: 201/2026/NĐ-CP**
 **Hà Nội, ngày 08 tháng 6 năm 2026**
 
 ---
@@ -96,9 +96,9 @@ Sửa đổi, bổ sung thuế suất thuế xuất khẩu của một số mặ
 - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
 - Lưu: VT, KTTH (2b).66
 
-**TM. CHÍNH PHỦ**  
-**KT. THỦ TƯỚNG**  
-**PHÓ THỦ TƯỚNG**  
+**TM. CHÍNH PHỦ**
+**KT. THỦ TƯỚNG**
+**PHÓ THỦ TƯỚNG**
 **Nguyễn Văn Thắng**
 
 ---
