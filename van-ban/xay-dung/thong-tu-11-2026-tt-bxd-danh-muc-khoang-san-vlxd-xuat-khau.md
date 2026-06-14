@@ -46,7 +46,7 @@ trang-thai: hoan-thien
 | **Văn bản thay thế** | Thông tư 04/2021/TT-BXD ngày 30/6/2021 |
 | **Nguồn** | [luatvietnam.vn](https://luatvietnam.vn/xuat-nhap-khau/thong-tu-11-2026-tt-bxd-quy-dinh-danh-muc-va-chi-tieu-ky-thuat-khoang-san-xay-dung-xuat-khau-432239-d1.html) |
 
-## TÓM TẮT
+## TRÍCH YẾU
 
 Thông tư quy định danh mục, quy cách và chỉ tiêu kỹ thuật của các loại khoáng sản làm vật liệu xây dựng được phép xuất khẩu (thuộc nhóm II và nhóm III theo quy định tại khoản 38 Điều 1 Nghị định số 21/2026/NĐ-CP). Có hiệu lực từ 01/6/2026, gồm 5 Điều, 1 Phụ lục I (bảng mã HS kèm quy cách, chỉ tiêu kỹ thuật cho 4 nhóm: cát oxit silic, đá tự nhiên, đá làm VLXD thông thường, khoáng sản khác) và 2 mẫu báo cáo (Mẫu số 01 cho UBND cấp tỉnh, Mẫu số 02 cho doanh nghiệp xuất khẩu). Thông tư thay thế Thông tư 04/2021/TT-BXD ngày 30/6/2021 về cùng lĩnh vực.
 
@@ -63,7 +63,7 @@ Thông tư quy định danh mục, quy cách và chỉ tiêu kỹ thuật của 
 - Nghị định số 33/2025/NĐ-CP ngày 25/02/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng.
 - Theo đề nghị của Vụ trưởng Vụ Khoa học công nghệ, Môi trường và Vật liệu xây dựng.
 
-## VĂN BẢN
+## NỘI DUNG
 
 **BỘ XÂY DỰNG**
 
