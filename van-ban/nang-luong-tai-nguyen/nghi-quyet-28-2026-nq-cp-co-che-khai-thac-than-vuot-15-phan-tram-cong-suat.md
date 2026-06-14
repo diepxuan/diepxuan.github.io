@@ -1,6 +1,6 @@
 ---
 layout: vanban
-title: "Cơ chế đặc thù cho phép khai thác vượt không quá 15% công suất đối với các giấy phép khai thác khoáng sản than đang còn hiệu lực nhằm bảo đảm an ninh năng lượng quốc gia"
+title: "Nghị quyết 28/2026/NQ-CP về cơ chế đặc thù khai thác than vượt công suất"
 date: 2026-06-09
 modified: 2026-06-14
 group: nang-luong-tai-nguyen
@@ -9,9 +9,7 @@ tags:
   - 2026
   - nang-luong
   - CP
-  - than
-  - khai-thac
-  - cong-suat
+  - khai-thac-than
   - 218385
   - 09-6-2026
 docid: 218385
