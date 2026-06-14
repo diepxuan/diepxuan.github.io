@@ -16,7 +16,7 @@ tags:
   - 10-6-2026
 docid: tt30-2026-bct
 source: moit.gov.vn; datafiles.moit.gov.vn
-so-hieu: 30/2026/TT-BCT
+so_hieu: 30/2026/TT-BCT
 ngay-ban-hanh: 10/06/2026
 co-quan-ban-hanh: Bộ Công Thương
 nguoi-ky: Nguyễn Hoàng Long (KT. Bộ trưởng, Thứ trưởng)
