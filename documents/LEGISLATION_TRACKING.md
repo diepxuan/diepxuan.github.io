@@ -1608,7 +1608,7 @@ Quét tuần 09–15/06/2026 qua web search Brave + web_fetch (luatvietnam.vn, t
 
 | Số hiệu | Trong tracking? | File van-ban/? | Trạng thái cũ | Trạng thái mới |
 |---|:---:|:---:|:---:|:---:|
-| 44/2026/TT-BGDĐT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 44/2026/TT-BGDĐT | **CÓ** | Có | — | Đã có (2026-06-15, web HTPL extract; người ký: Lê Quân, Thứ trưởng KT. Bộ trưởng) |
 | 43/2026/TT-BGDĐT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 69/2026/TT-BCA | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 16/2026/TT-NHNN | **KHÔNG** | Không | — | Thêm mới — Chưa có |
