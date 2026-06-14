@@ -84,7 +84,7 @@ Quét web tổng hợp Brave + Gemini các nhóm chủ đề: Thuế, Đất đa
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 203/2026/NĐ-CP | 11/06/2026 | Quy định về thi hành án tử hình bằng tiêm thuốc độc — quy trình 3 bước (làm mất tri giác, liệt hệ vận động, ngừng tim); thay thế NĐ 43/2020/NĐ-CP; quy định chi phí mai táng, chế độ người tham gia; hiệu lực 01/7/2026 | Tư pháp / Hình sự | 218409 | **Có (2026-06-13, OCR từ PDF gốc + sửa lỗi)** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218409`; File: `van-ban/tu-phap-thi-hanh-an/nghi-dinh-203-2026-nd-cp-thi-hanh-an-tu-hinh.md`; 24 Điều, 5 Chương |
-| 199/2026/NĐ-CP | 05/06/2026 | Quy định chính sách hỗ trợ phục vụ đối với chức danh, chức vụ lãnh đạo thuộc diện Bộ Chính trị, Ban Bí thư quản lý (Công an, Quân đội); mức 2,7 triệu/tháng (Thượng tướng, Đô đốc), 2 triệu/tháng (Trung tướng), 1,35 triệu/tháng (Thiếu tướng); thay thế QĐ 269/2005/QĐ-TTg; hiệu lực 20/7/2026 | Lao động / Tiền lương | 218364 | **Có (2026-06-13, OCR từ PDF gốc datafiles.chinhphu.vn)** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218364`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/199-ndcp.signed.pdf`; Người ký: Nguyễn Văn Thắng (Phó TT ký thay TT); 8 Điều |
+| 199/2026/NĐ-CP | 05/06/2026 | Quy định chính sách hỗ trợ phục vụ đối với chức danh, chức vụ lãnh đạo thuộc diện Bộ Chính trị, Ban Bí thư quản lý (Công an, Quân đội); mức 2,7 triệu/tháng (Thượng tướng, Đô đốc), 2 triệu/tháng (Trung tướng), 1,35 triệu/tháng (Thiếu tướng); thay thế QĐ 269/2005/QĐ-TTg; hiệu lực 20/7/2026 | Lao động / Tiền lương | 218364 | **Đã có (2026-06-13, OCR từ PDF gốc)** | File: `van-ban/lao-dong/nghi-dinh-199-2026-nd-cp-ho-tro-phuc-vu-lanh-dao-cong-an-quan-doi.md`; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218364`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/199-ndcp.signed.pdf`; Người ký: Nguyễn Văn Thắng (Phó TT ký thay TT); 8 Điều |
 | 193/2026/NĐ-CP | 01/06/2026 | Quy định về quyết toán vốn đầu tư dự án sử dụng vốn nhà nước; phân tách dự án/tiểu dự án độc lập; thẩm quyền phê duyệt quyết toán thuộc người quyết định đầu tư; thời hạn 4–9 tháng tùy quy mô; thay thế NĐ 254/2025/NĐ-CP phần quyết toán; hiệu lực 01/7/2026 | Tài chính / Đầu tư | 218345 | **Có (2026-06-13, OCR từ PDF gốc + sửa lỗi)** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218345`; File: `van-ban/dau-tu/nghi-dinh-193-2026-nd-cp-quyet-toan-von-dau-tu-du-an.md`; 31 Điều, không có Chương |
 | 45/2026/TT-BGDĐT | 10/06/2026 | Sửa đổi, bổ sung Thông tư 15/2025/TT-BGDĐT hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Giáo dục và Đào tạo và Phòng Văn hóa - Xã hội cấp xã; hiệu lực ngay 10/6/2026 | Giáo dục | — | **Có (2026-06-13, OCR từ PDF gốc datafiles.chinhphu.vn)** | URL: `https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-45-2026-TT-BGDDT-sua-doi-Thong-tu-15-2025-TT-BGDDT-nhiem-vu-cua-So-Giao-duc-709953.aspx`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/45-bgddt.pdf`; Người ký: Phạm Ngọc Thưởng (Bộ trưởng); 4 Điều |
 | 28/2026/TT-BXD | 10/06/2026 | Quy định về đăng kiểm phương tiện thủy nội địa — cho phép liên danh thực hiện dịch vụ đăng kiểm, bỏ tem kiểm định, áp dụng số kiểm soát điện tử; không điều chỉnh tàu quốc phòng, an ninh, tàu cá, phương tiện nhỏ; hiệu lực 01/8/2026 | Giao thông / Hàng hải | 218412 | **Có (2026-06-13, PDF không ký số - pdftotext trích thẳng)** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218412`; File: `van-ban/xay-dung/thong-tu-28-2026-tt-bxd-dang-kiem-phuong-tien-thuy-noi-dia.md`; 13 Điều, 3 Chương |
@@ -94,7 +94,7 @@ Quét web tổng hợp Brave + Gemini các nhóm chủ đề: Thuế, Đất đa
 | Số hiệu | Trong tracking? | Trạng thái |
 |---|:---:|---|
 | 203/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
-| 199/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 199/2026/NĐ-CP | **CÓ** | Đã có |
 | 193/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 45/2026/TT-BGDĐT | **CÓ** | Đã crawl — `van-ban/giao-duc-dao-tao/thong-tu-45-2026-tt-bgddt-sua-doi-tt-15-2025-chuc-nang-so-gd-dt-phong-vh-xh.md` (4 Điều) |
 | 28/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
@@ -133,7 +133,7 @@ Quét dải NĐ-CP 203–212 + kiểm tra Thông tư tuần 06–13/6/2026 qua w
 | 28/2026/NQ-CP | 09/06/2026 | Cơ chế đặc thù cho phép khai thác than vượt không quá 15% công suất giấy phép nhằm bảo đảm an ninh năng lượng quốc gia — sản lượng vượt chỉ phục vụ sản xuất điện; phải đăng ký với UBND cấp tỉnh và Bộ NN&MT; hiệu lực 09/6/2026 đến 31/12/2027 | Năng lượng / Tài nguyên | 218385 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218385`; nguồn: luatvietnam.vn, baochinhphu.vn, vtv.vn, moit.gov.vn; tác động ngành than, điện lực |
 | 63/2026/TT-BTC | 05/06/2026 | Quy định nội dung và mức chi hoạt động thi kỹ năng nghề trong nước và quốc tế — thay thế TT liên tịch 43/2012/TTLT-BTC-BLĐTBXH; định mức chi xây dựng đề thi, chấm thi, huấn luyện đội tuyển quốc gia; hiệu lực 05/6/2026 | Giáo dục nghề nghiệp / Tài chính | — | **Chưa có** | URL: `https://luatvietnam.vn/giao-duc/thong-tu-63-2026-tt-btc-quy-dinh-noi-dung-va-muc-chi-hoat-dong-thi-ky-nang-nghe-437238-d1.html`; nguồn: luatvietnam.vn, bacninh.gov.vn; tác động hệ thống thi nghề quốc gia và quốc tế |
 | 30/2026/TT-BCT | 10/06/2026 | Quy định phương pháp xác định giá dịch vụ phát điện đối với nhà máy điện BOT chưa ký hợp đồng mua bán điện — IRR không vượt quá 12%; hướng dẫn Luật Điện lực 2024; hiệu lực 28/7/2026 | Năng lượng / Thương mại | — | **Chưa có** | URL: `https://moit.gov.vn/tin-tuc/bo-cong-thuong-ban-hanh-thong-tu-moi-ve-gia-dich-vu-phat-dien-nha-may-bot.html`; nguồn: moit.gov.vn, petrotimes.vn; tác động các dự án điện BOT chưa ký HĐMBĐ |
-| 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026–2035 | Tài chính / Ngân sách | — | **Chưa có** | URL: `https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-60-2026-TT-BTC-huong-dan-quan-ly-kinh-phi-Ngan-sach-xay-dung-nong-thon-moi-709846.aspx`; nguồn: thuvienphapluat.vn, langson.gov.vn; hiệu lực 31/5/2026 |
+| 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026–2035 | Tài chính / Ngân sách | — | **Đã có (2026-06-13)** | File: `van-ban/tai-chinh/thong-tu-60-2026-tt-btc-huong-dan-quan-ly-su-dung-quyet-toan-kinh-phi-chuong-trinh-muc-tieu-quoc-gia.md`; URL: `https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-60-2026-TT-BTC-huong-dan-quan-ly-kinh-phi-Ngan-sach-xay-dung-nong-thon-moi-709846.aspx` |
 
 ### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-12)
 
@@ -143,7 +143,7 @@ Quét dải NĐ-CP 203–212 + kiểm tra Thông tư tuần 06–13/6/2026 qua w
 | 28/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 63/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
 | 30/2026/TT-BCT | **KHÔNG** | Thêm mới — Chưa có |
-| 60/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 60/2026/TT-BTC | **CÓ** | Đã có |
 
 ### Đề xuất ưu tiên phiên tiếp theo
 
@@ -245,7 +245,7 @@ Quét bổ sung các văn bản tháng 6/2026 qua web search + web_fetch vanban.
 |---|---|
 | 200/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 169/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
-| 60/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 60/2026/TT-BTC | **CÓ** | Đã có |
 
 ### Đề xuất ưu tiên phiên tiếp theo
 

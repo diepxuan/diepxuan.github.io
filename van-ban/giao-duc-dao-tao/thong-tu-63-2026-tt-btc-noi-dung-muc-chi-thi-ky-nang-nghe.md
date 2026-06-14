@@ -8,11 +8,14 @@ tags:
   - thong-tu
   - 2026
   - tai-chinh
-  - ky-nang-nghe
-  - giao-duc-nghe
+  - BTC
+  - thi-ky-nang-nghe
+  - gd-nghe-nghiep
+  - 43-2012-TTLT-BTC-BLDTBXH
   - 437238
-docid: 218416
-source: vanban.chinhphu.vn; datafiles.chinhphu.vn; luatvietnam.vn
+  - 05-6-2026
+docid: 437238
+source: luatvietnam.vn; vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
 # Thông tư 63/2026/TT-BTC: Quy định nội dung và mức chi hoạt động thi kỹ năng nghề
@@ -29,8 +32,10 @@ source: vanban.chinhphu.vn; datafiles.chinhphu.vn; luatvietnam.vn
 | Người ký | Nguyễn Thị Bích Ngọc (KT. Bộ trưởng - Thứ trưởng) |
 | Trích yếu | Quy định nội dung và mức chi hoạt động thi kỹ năng nghề |
 | Văn bản thay thế | Thông tư liên tịch số 43/2012/TTLT-BTC-BLĐTBXH ngày 14/03/2012 |
-| DocID | 218416 |
-| Nguồn | https://vanban.chinhphu.vn/?pageid=27160&docid=218416 |
+| DocID (luatvietnam) | 437238 |
+| DocID (vanban.chinhphu) | 218416 |
+| Nguồn chính | https://luatvietnam.vn/giao-duc/thong-tu-63-2026-tt-btc-quy-dinh-noi-dung-va-muc-chi-hoat-dong-thi-ky-nang-nghe-437238-d1.html |
+| Nguồn tham chiếu | https://vanban.chinhphu.vn/?pageid=27160&docid=218416 ; https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/63-btc.pdf |
 
 ## TRÍCH YẾU
 
