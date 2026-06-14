@@ -1149,3 +1149,36 @@ Quét toàn bộ docid 218XXX trên vanban.chinhphu.vn + thuvienphapluat.vn + ba
 - Nguồn: baomoi.com (báo Chính phủ tuần 6-12/6), vanban.chinhphu.vn docid 218XXX, thuvienphapluat.vn.
 - Ngày phát hiện: 2026-06-13 17:00 ICT
 - Phiên thực hiện: agent:github-io:subagent:cbb8fd29-cfef-4f21-bcea-86d2c1abd028 (Đệ #1 Discovery 2026-06-13 lần 13)
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 3)
+
+### Crawler chi tiết văn bản 28/2026/NQ-CP
+
+Hoàn thiện crawl + Markdown hóa **28/2026/NQ-CP** theo quy trình Signed PDF OCR Pipeline (PDF gốc ký số CAdES-BES tại datafiles.chinhphu.vn, 4 trang) + cross-check với luatvietnam.vn.
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 28/2026/NQ-CP | **Đã có (2026-06-14, OCR từ PDF gốc ký số, nội dung đầy đủ 7 Điều)** | `van-ban/nang-luong-tai-nguyen/nghi-quyet-28-2026-nq-cp-co-che-dac-thu-khai-thac-than.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218385`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/28-nqcp.signed.pdf` (4 trang, 261KB, CAdES-BES ký 10/6/2026 14:14:14); người ký: Phạm Gia Túc (Chủ nhiệm VPCP, ký thay Thủ tướng); 7 Điều, không có Chương; 142 dòng, 11KB; OCR issues = 0; articles 1-7 đầy đủ, không thiếu, không trùng; layout: vanban; file cũ slug `...-khai-thac-than-vuot-cong-suat.md` (stub metadata only) đã được thay thế bằng file mới slug chuẩn với nội dung đầy đủ |
+
+### Cấu trúc 28/2026/NQ-CP
+
+- **Điều 1**: Phạm vi điều chỉnh và đối tượng áp dụng — cơ chế đặc thù, rút gọn thủ tục cho phép khai thác vượt công suất giấy phép khoáng sản than
+- **Điều 2**: Nguyên tắc áp dụng — bảo đảm an ninh năng lượng; không vượt trữ lượng; sản lượng vượt chỉ phục vụ sản xuất điện
+- **Điều 3**: Cơ chế khai thác vượt công suất — vượt không quá 15% công suất GP; không phải điều chỉnh nội dung GP
+- **Điều 4**: Điều kiện áp dụng — GP còn hiệu lực; đủ năng lực kỹ thuật; bảo đảm ATLĐ, ATVSTM; trữ lượng còn được cấp phép
+- **Điều 5**: Thủ tục đăng ký và kiểm soát — gửi UBND cấp tỉnh + Bộ NN&MT; UBND trả lời trong 5 ngày làm việc
+- **Điều 6**: Giám sát, báo cáo và xử lý vi phạm
+- **Điều 7**: Tổ chức thực hiện và hiệu lực thi hành — hiệu lực đến hết 31/12/2027
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md` (đến 2026-06-13)
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 28/2026/NQ-CP | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Chưa có (file cũ chỉ có stub) | **Đã có (nội dung đầy đủ)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path dùng slug chuẩn mới `co-che-dac-thu-khai-thac-than` (thay vì slug cũ `khai-thac-than-vuot-cong-suat` từ PR #208 chỉ có stub metadata).
+- File cũ stub đã xóa; file mới có đầy đủ 7 Điều + căn cứ pháp lý + nơi nhận.
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Phiên thực hiện: agent:github-io:subagent:a8e4fe33-3d87-45f8-ba10-23b970879cb4 (Đệ #3 Full Content Crawler 28/2026/NQ-CP).

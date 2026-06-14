@@ -1,16 +1,17 @@
 ---
 layout: vanban
-title: "Cơ chế đặc thù khai thác than vượt công suất"
+title: "Cơ chế đặc thù cho phép khai thác than vượt không quá 15% công suất giấy phép nhằm bảo đảm an ninh năng lượng quốc gia"
 date: 2026-06-09
-modified: 2026-06-13
+modified: 2026-06-14
 group: nang-luong-tai-nguyen
 tags:
   - Nghị quyết
   - 28/2026/NQ-CP
   - Khai thác than
   - An ninh năng lượng
-docid: 282026NQCP
-source: vanban.chinhphu.vn
+  - Khoáng sản
+docid: 218385
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -19,26 +20,29 @@ source: vanban.chinhphu.vn
 |---|---|
 | **Số hiệu** | 28/2026/NQ-CP |
 | **Loại văn bản** | Nghị quyết của Chính phủ |
-| **Ngày ban hành** | 09/06/2026 |
-| **Ngày hiệu lực** | 09/06/2026 |
+| **Ngày ban hành** | 09/6/2026 |
+| **Ngày hiệu lực** | 09/6/2026 |
+| **Thời hạn hiệu lực** | Đến hết 31/12/2027 |
 | **Cơ quan ban hành** | Chính phủ |
-| **Người ký** | Phạm Gia Túc |
-| **Hiệu lực** | Đến hết 31/12/2027 |
-| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218385) |
+| **Người ký** | Phạm Gia Túc (Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ, ký thay Thủ tướng) |
+| **Cơ quan trình** | Bộ Nông nghiệp và Môi trường |
+| **DocID** | 218385 |
+| **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218385); [PDF gốc ký số](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/28-nqcp.signed.pdf) |
 
 ## TRÍCH YẾU
 
-Nghị quyết quy định cơ chế đặc thù cho phép khai thác vượt không quá 15% công suất đối với các giấy phép khai thác khoáng sản than đang còn hiệu lực nhằm bảo đảm an ninh năng lượng quốc gia.
+Nghị quyết quy định cơ chế đặc thù cho phép khai thác vượt không quá 15% công suất đối với các giấy phép khai thác khoáng sản than đang còn hiệu lực nhằm bảo đảm an ninh năng lượng quốc gia; áp dụng từ ngày 09/6/2026 đến hết ngày 31/12/2027. Sản lượng khai thác vượt chỉ được cung cấp, phục vụ cho sản xuất điện.
 
 ## CĂN CỨ PHÁP LUẬT
 
 - Luật Tổ chức Chính phủ số 63/2025/QH15
 - Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung một số điều bởi Luật số 87/2025/QH15
 - Luật Địa chất và khoáng sản số 54/2024/QH15 được sửa đổi, bổ sung một số điều bởi Luật số 147/2025/QH15
-- Nghị định số 78/2025/NĐ-CP
-- Nghị định số 193/2025/NĐ-CP
-- Nghị định số 21/2026/NĐ-CP
-- Nghị định số 191/2026/NĐ-CP
+- Nghị định số 78/2025/NĐ-CP quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Ban hành văn bản quy phạm pháp luật, được sửa đổi, bổ sung tại Nghị định số 187/2025/NĐ-CP
+- Nghị định số 193/2025/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Địa chất và khoáng sản, được sửa đổi, bổ sung tại Nghị định số 21/2026/NĐ-CP
+- Nghị định số 21/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 193/2025/NĐ-CP
+- Nghị định số 191/2026/NĐ-CP ngày 29/5/2026 của Chính phủ ban hành Quy chế làm việc của Chính phủ
+- Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường tại các văn bản số 3637/TTr-BNNMT ngày 15/4/2026, số 4895/TTr-BNNMT ngày 15/5/2026 và số 5902/BC-BNNMT ngày 06/6/2026
 
 ## NỘI DUNG
 
@@ -113,3 +117,26 @@ Tổ chức, cá nhân chỉ được áp dụng cơ chế quy định tại Đi
    a) Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố có liên quan chịu trách nhiệm thi hành Nghị quyết này.
 
    b) Bộ Nông nghiệp và Môi trường là cơ quan đầu mối giúp Chính phủ, Thủ tướng Chính phủ tiếp nhận, tổng hợp, xử lý các vấn đề liên quan; chủ trì, phối hợp với các bộ, ngành liên quan kịp thời theo dõi, hướng dẫn, giải đáp nhằm tháo gỡ vướng mắc, khó khăn trong quá trình thực hiện Nghị quyết này.
+
+   c) Hội đồng nhân dân, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách nhiệm tổ chức thực hiện Nghị quyết trong phạm vi địa phương mình, trong phạm vi nhiệm vụ, quyền hạn của mình, giám sát việc thực hiện Nghị quyết này.
+
+   d) Các bộ, cơ quan ngang bộ, cơ quan trung ương khác và chính quyền địa phương đề cao trách nhiệm, nhất là trách nhiệm của người đứng đầu trong lãnh đạo, chỉ đạo tổ chức triển khai thực hiện các nội dung quy định tại Nghị quyết này, bảo đảm công khai, minh bạch, hiệu quả; không để trục lợi chính sách, thất thoát, lãng phí.
+
+## NƠI NHẬN
+
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: VT, CN (2b).
