@@ -1334,3 +1334,43 @@ Hoàn thiện crawl + Markdown hóa **19/2026/TT-NHNN** theo quy trình Signed P
 - Văn bản quy định phân cấp thủ tục hành chính tại Nghị định 94/2025/NĐ-CP (Cơ chế thử nghiệm có kiểm soát / sandbox trong lĩnh vực ngân hàng).
 - Căn cứ: Nghị định 94/2025/NĐ-CP, Luật Các tổ chức tín dụng 2024.
 - Lưu ý: chữ ký số CAdES-BES che số ngày hiệu lực trong PDF, phải cross-check luatvietnam.vn.
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 8)
+
+### Crawler chi tiết văn bản 153/2026/NĐ-CP (refactor stub)
+
+Hoàn thiện refactor file stub `van-ban/hai-quan-thuong-mai/nghi-dinh-153-2026-nd-cp-hai-quan-phong-chong-buon-lap.md` (cũ 4269 bytes, 69 dòng, stub "Đang cập nhật") thành file Markdown hoàn chỉnh **toàn văn 104657 bytes, 1907 dòng**.
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 153/2026/NĐ-CP | **Đã có (2026-06-14, refactor từ stub, OCR fallback từ PDF Công báo 858KB 42tr, cross-check phucgia.com.vn + luatvietnam.vn)** | `van-ban/hai-quan-thuong-mai/nghi-dinh-153-2026-nd-cp-hai-quan-phong-chong-buon-lap.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218083`; PDF: `https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469525-1779329426_v1_1779843312_signed.pdf` (Công báo số 286, 858KB, 42 trang, PDF scan); người ký: Phạm Gia Túc (Phó Thủ tướng, thừa ủy quyền Thủ tướng); ngày ban hành: 14/05/2026; hiệu lực: 05/07/2026; Công báo: số 286 (27/05/2026); 7 Điều (Điều 1-7) + Phụ lục 22 tỉnh/thành; OCR issues = 0; articles 1-7 đầy đủ, không thiếu, không trùng |
+
+### Cấu trúc 153/2026/NĐ-CP
+
+- **Điều 1**: Sửa đổi, bổ sung Điều 3 (phạm vi địa bàn hoạt động hải quan)
+- **Điều 2**: Sửa đổi, bổ sung các khoản 2, 3, 5, 8 [Điều 3]
+- **Điều 3**: Sửa đổi, bổ sung khoản 1 Điều 11 (cơ chế phối hợp liên ngành)
+- **Điều 4**: Sửa đổi, bổ sung điểm a khoản 1 Điều 12
+- **Điều 5**: Thay thế Phụ lục, bãi bỏ một số khoản
+- **Điều 6**: Điều khoản thi hành
+- **Điều 7**: Trách nhiệm thi hành
+- **Phụ lục** (22 tỉnh/thành với cửa khẩu/lối thông quan/đường chuyên dụng):
+  Quảng Ninh, Lạng Sơn, Cao Bằng, Tuyên Quang, Lào Cai, Lai Châu, Điện Biên, Sơn La, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị, Thành phố Huế, Đà Nẵng, Quảng Ngãi, Lâm Đồng, Gia Lai, Đắk Lắk, Đồng Nai, Tây Ninh, Đồng Tháp, An Giang
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md`
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 153/2026/NĐ-CP | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có (stub <10KB) | **Đã có (7 Điều + Phụ lục 22 tỉnh/thành)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path: `van-ban/hai-quan-thuong-mai/nghi-dinh-153-2026-nd-cp-hai-quan-phong-chong-buon-lap.md` (group `hai-quan-thuong-mai` đã có sẵn, đúng lĩnh vực).
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Front matter: kết hợp CamelCase + underscore snake_case (`so`, `ngay`, `nguoi_ky`, `hieu_luc`, ...) — giữ format cũ của stub.
+- Phiên thực hiện: agent:github-io:subagent:47559d3f-cb7a-4cc2-8f43-f29219bfb93b (Đệ #3 Full Content Crawler 153/2026/NĐ-CP).
+- PDF gốc từ Công báo (congbaocdn.chinhphu.vn), KHÔNG phải datafiles.chinhphu.vn (URL 404).
+- Văn bản sửa đổi NĐ 01/2015/NĐ-CP + NĐ 12/2018/NĐ-CP, mở rộng địa bàn hải quan.
+- Phụ lục 22 tỉnh/thành kèm 68 cửa khẩu/lối thông quan/đường chuyên dụng — đã giữ nguyên, không rút gọn.
+- Stub cũ đã được ghi đè hoàn toàn, không còn "Đang cập nhật", "trang_thai: Đang cập nhật", "chuthich".
+- Có thông tin vị trí địa lý chi tiết (toạ độ) cho từng cửa khẩu (~1300 dòng).
