@@ -1255,3 +1255,47 @@ Hoàn thiện crawl + Markdown hóa **63/2026/TT-BTC** theo quy trình Signed PD
 - Văn bản thay thế Thông tư liên tịch 43/2012/TTLT-BTC-BLĐTBXH ngày 14/03/2012.
 - Mức chi: 1 triệu đồng/bộ hồ sơ/đề thi; đồ bảo hộ tối đa 1 triệu/người.
 - Áp dụng cho hoạt động thi kỹ năng nghề trong nước và quốc tế.
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 6)
+
+### Crawler chi tiết văn bản 60/2026/TT-BTC
+
+Hoàn thiện crawl + Markdown hóa **60/2026/TT-BTC** theo quy trình Signed PDF OCR (PDF gốc tại datafiles.chinhphu.vn, 7.5MB, 17 trang, KHÔNG có chữ ký số) + fallback OCR toàn trang (200 DPI) + cross-check với luatvietnam.vn.
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 60/2026/TT-BTC | **Đã có (2026-06-14, OCR fallback từ PDF gốc, cross-check luatvietnam.vn)** | `van-ban/tai-chinh/thong-tu-60-2026-tt-btc-huong-dan-quan-ly-su-dung-quyet-toan-kinh-phi-chuong-trinh-muc-tieu-quoc-gia.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218378`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/60-btc.pdf` (7.5MB, 17 trang, PDF scan); người ký: KT. Bộ trưởng - Thứ trưởng Phạm Bích Ngọc; ngày ban hành: 31/05/2026; hiệu lực: 31/05/2026 (trễ 14 ngày); 22 Điều + 4 Chương (I, II, III, IV); 393 dòng, 57.6KB; OCR issues = 0; articles 1-22 đầy đủ, không thiếu, không trùng |
+
+### Cấu trúc 60/2026/TT-BTC
+
+- **Chương I** (Điều 1-4): Quy định chung
+  - Điều 1: Phạm vi điều chỉnh và đối tượng áp dụng
+  - Điều 2: Nguồn kinh phí chi thường xuyên NSNN
+  - Điều 3: Lập dự toán, chấp hành và quyết toán NSNN
+  - Điều 4: Một số nội dung và mức chi chung
+- **Chương II** (Điều 5-14): Nội dung thành phần Chương trình NTM/giảm nghèo (10 thành phần)
+  - Điều 5-14: 10 thành phần từ quy hoạch đến nâng cao năng lực, truyền thông, giám sát
+- **Chương III** (Điều 15-19): Nội dung thành phần vùng đồng bào DTTS và miền núi (5 thành phần)
+  - Điều 15: Đầu tư xây dựng cơ sở hạ tầng đặc thù
+  - Điều 16: Hỗ trợ phát triển sản xuất, sinh kế
+  - Điều 17: Phát triển nguồn nhân lực
+  - Điều 18: Chính sách đặc thù ưu tiên dân tộc khó khăn
+  - Điều 19: Truyền thông + chuyển đổi số
+- **Chương IV** (Điều 20-22): Hiệu lực, điều khoản chuyển tiếp, tổ chức thực hiện
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md`
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 60/2026/TT-BTC | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (22 Điều + 4 Chương)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path dùng slug `thong-tu-60-2026-tt-btc-huong-dan-quan-ly-su-dung-quyet-toan-kinh-phi-chuong-trinh-muc-tieu-quoc-gia` (chuẩn SEO).
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Front matter: chuẩn, đầy đủ các trường bắt buộc.
+- Phiên thực hiện: agent:github-io:subagent:4da2a280-4da2-4e07-8b10-406798a869b0 (Đệ #3 Full Content Crawler 60/2026/TT-BTC).
+- Văn bản thay thế: Thông tư 55/2023/TT-BTC + 175/2024/TT-BTC + 112/2025/TT-BTC.
+- Áp dụng cho Chương trình mục tiêu quốc gia giai đoạn 2026-2030.
+- Căn cứ: Luật NSNN 89/2025/QH15, NQ 257/2025/QH15, QĐ 16/2026/QĐ-TTg.
+- Lỗi OCR đã sửa: `Chương Ï` → `Chương I`, `BNNMITT` → `BNNMT`, `ĐIÊU KHOẢN` → `ĐIỀU KHOẢN`, v.v.
