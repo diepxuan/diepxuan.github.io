@@ -1510,3 +1510,54 @@ Hoàn thiện crawl + Markdown hóa **35/2026/TT-BTC** theo quy trình Signed PD
 - Đệ #3 lần đầu (task `crawler-35-btc-20260614` session `ad6125b4`) fail vì context overflow khi xử lý PDF 11.1MB.
 - Đệ #3 retry (task `crawler-35-btc-20260614` session `58fbdd67`) thành công trong 7m21s với nguồn dữ liệu từ luatvietnam.vn (text render trong HTML, marker "Đang theo dõi" là UI tracking chứ không phải placeholder).
 - Kinh nghiệm: VĂN BẢN CÓ CHỮ KÝ SỐ LỚN (PDF > 10MB) cần ưu tiên tìm nguồn HTML scrape thay vì OCR toàn văn, vì OCR gây context overflow.
+
+## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 11)
+
+### Crawler chi tiết văn bản 46/2026/TT-BGDĐT
+
+Hoàn thiện crawl + Markdown hóa **46/2026/TT-BGDĐT** theo quy trình scrape HTML từ luatvietnam.vn (slug 437124). Văn bản ngắn, 3 Điều thân + Phụ lục Điều lệ trường trung học nghề (6 Chương + 30 Điều).
+
+| Số hiệu | Trạng thái | File | Ghi chú |
+|---|---|---|---|
+| 46/2026/TT-BGDDT | **Đã có (2026-06-14, scrape HTML 556 dòng, 6 Chương + 3 Điều thân + 30 Điều Phụ lục)** | `van-ban/giao-duc-dao-tao/thong-tu-46-2026-tt-bgddt-dieu-le-truong-trung-hoc-nghe.md` | Nguồn: luatvietnam.vn (slug 437124) + cross-check slug 109523; datafiles.chinhphu.vn/congbao chưa tìm thấy; người ký: KT. Bộ trưởng - Thứ trưởng Lê Quân; ngày ban hành: 10/06/2026; hiệu lực: 10/06/2026 (ĐÃ CÓ HIỆU LỰC 4 ngày); 3 Điều thân (Điều 1: ban hành Điều lệ; Điều 2: hiệu lực; Điều 3: trách nhiệm thi hành) + Phụ lục Điều lệ (6 Chương: I. Quy định chung; II. Tổ chức hoạt động GDNN; III. Tổ chức và quản lý; IV. Quyền và nghĩa vụ; V. Tài chính, tài sản; VI. Quan hệ nhà trường-gia đình-xã hội-DN; 30 Điều phụ lục 1-30); 556 dòng, 50.9KB; OCR issues = 0 |
+
+### Cấu trúc 46/2026/TT-BGDĐT
+
+**Phần thân Thông tư (3 Điều):**
+- Điều 1: Ban hành kèm theo Thông tư này Điều lệ trường trung học nghề
+- Điều 2: Hiệu lực thi hành từ 10/06/2026
+- Điều 3: Trách nhiệm thi hành (VP Bộ, Cục GDNN&GDTX, UBND tỉnh, Sở GD&ĐT, Hiệu trưởng)
+
+**Phụ lục Điều lệ trường trung học nghề (6 Chương + 30 Điều):**
+- **Chương I** (Điều 1-3): Quy định chung (phạm vi, đối tượng, giải thích từ ngữ)
+- **Chương II** (Điều 4-13): Tổ chức hoạt động giáo dục nghề nghiệp (nhiệm vụ, chương trình, tuyển sinh, đánh giá, cấp văn bằng/chứng chỉ, tổ chức lớp, quy mô, học liệu, thực hành, thực tập)
+- **Chương III** (Điều 14-20): Tổ chức và quản lý (cơ cấu tổ chức, hội đồng trường, hiệu trưởng, phó hiệu trưởng, giáo viên, nhân viên, tổ chức Đảng/Đoàn)
+- **Chương IV** (Điều 21-25): Quyền và nghĩa vụ của nhà giáo, người học, nhà trường
+- **Chương V** (Điều 26-27): Tài chính, tài sản, cơ sở vật chất
+- **Chương VI** (Điều 28-30): Quan hệ nhà trường với gia đình, xã hội, doanh nghiệp
+
+### Đối chiếu nhanh với `LEGISLATION_TRACKING.md`
+
+| Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|:---:|
+| 46/2026/TT-BGDDT | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (3 Điều thân + Phụ lục 6 Chương + 30 Điều)** (2026-06-14) |
+
+### Ghi chú xử lý
+
+- File path: `van-ban/giao-duc-dao-tao/thong-tu-46-2026-tt-bgddt-dieu-le-truong-trung-hoc-nghe.md` (group `giao-duc-dao-tao` đã có sẵn, đúng lĩnh vực).
+- Layout: `vanban` (đúng checklist OCR Quality Gate mục 3).
+- Phiên thực hiện: agent:github-io:subagent:3573ad52-5bc6-438f-87d5-d64768534b72 (Đệ #3 Full Content Crawler 46/2026/TT-BGDĐT).
+- VĂN BẢN ĐÃ CÓ HIỆU LỰC (10/06/2026) - 4 ngày trước.
+- Căn cứ: Luật Giáo dục 43/2019/QH14 (sửa đổi bởi 123/2025/QH15); Luật GDNN 124/2025/QH15; Luật Nhà giáo 73/2025/QH15; NĐ 37/2025/NĐ-CP.
+- Người ký: KT. Bộ trưởng - Thứ trưởng Lê Quân.
+- Đề nghị: Cục trưởng Cục GDNN&GDTX.
+- Lần đầu crawl văn bản GD&ĐT từ luatvietnam.vn với body extraction (không phải readability mà raw HTML `<div class="the-document-body">`).
+- docid dùng trong front matter = `437124` (luatvietnam.vn slug) vì văn bản chưa có trên vanban.chinhphu.vn.
+- **Duplicate handling thông minh:** 3 Điều thân (1,2,3) + 30 Điều Phụ lục (1-30) → tổng cộng 33 dòng Điều, trong đó [1,2,3] xuất hiện 2 lần (1 lần ở thân, 1 lần ở Phụ lục) → đây là cấu trúc hợp lệ của văn bản, không phải lỗi trùng lặp.
+- **Vấn đề phát sinh:** đệ #3 retry tạo file thừa 35/TT-BTC với slug sai ở lần crawl trước - đã xóa file thừa trước khi commit.
+- Kinh nghiệm: văn bản ngắn (3 Điều thân + Phụ lục dài) nên dùng raw HTML body extraction (`<div class="the-document-body">`) thay vì readability, sẽ lấy được toàn văn nội dung.
+
+### Vấn đề gặp phải
+- Không tìm được URL datafiles.chinhphu.vn/congbao.chinhphu.vn (chưa đăng trên hệ thống chính thức).
+- thuvienphapluat.vn không tìm thấy URL cụ thể (chỉ có thông tin tóm tắt trong bài viết khác).
+- Lần đầu dùng raw HTML body extraction cho luatvietnam.vn - thành công.
