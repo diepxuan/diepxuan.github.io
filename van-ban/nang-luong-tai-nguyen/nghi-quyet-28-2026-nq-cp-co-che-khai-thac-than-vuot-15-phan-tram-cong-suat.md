@@ -1,15 +1,19 @@
 ---
 layout: vanban
-title: "Cơ chế đặc thù cho phép khai thác than vượt không quá 15% công suất giấy phép nhằm bảo đảm an ninh năng lượng quốc gia"
+title: "Cơ chế đặc thù cho phép khai thác vượt không quá 15% công suất đối với các giấy phép khai thác khoáng sản than đang còn hiệu lực nhằm bảo đảm an ninh năng lượng quốc gia"
 date: 2026-06-09
 modified: 2026-06-14
 group: nang-luong-tai-nguyen
 tags:
-  - Nghị quyết
-  - 28/2026/NQ-CP
-  - Khai thác than
-  - An ninh năng lượng
-  - Khoáng sản
+  - nghi-quyet
+  - 2026
+  - nang-luong
+  - CP
+  - than
+  - khai-thac
+  - cong-suat
+  - 218385
+  - 09-6-2026
 docid: 218385
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
@@ -20,29 +24,29 @@ source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 |---|---|
 | **Số hiệu** | 28/2026/NQ-CP |
 | **Loại văn bản** | Nghị quyết của Chính phủ |
+| **Cơ quan ban hành** | Chính phủ |
 | **Ngày ban hành** | 09/6/2026 |
 | **Ngày hiệu lực** | 09/6/2026 |
 | **Thời hạn hiệu lực** | Đến hết 31/12/2027 |
-| **Cơ quan ban hành** | Chính phủ |
-| **Người ký** | Phạm Gia Túc (Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ, ký thay Thủ tướng) |
+| **Người ký** | Phó Thủ tướng Phạm Gia Túc (KT. Thủ tướng theo phân công) |
 | **Cơ quan trình** | Bộ Nông nghiệp và Môi trường |
 | **DocID** | 218385 |
 | **Nguồn** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218385); [PDF gốc ký số](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/28-nqcp.signed.pdf) |
 
 ## TRÍCH YẾU
 
-Nghị quyết quy định cơ chế đặc thù cho phép khai thác vượt không quá 15% công suất đối với các giấy phép khai thác khoáng sản than đang còn hiệu lực nhằm bảo đảm an ninh năng lượng quốc gia; áp dụng từ ngày 09/6/2026 đến hết ngày 31/12/2027. Sản lượng khai thác vượt chỉ được cung cấp, phục vụ cho sản xuất điện.
+Nghị quyết quy định cơ chế đặc thù, rút gọn thủ tục cho phép khai thác vượt không quá 15% công suất đối với các giấy phép khai thác khoáng sản than đang còn hiệu lực nhằm đáp ứng yêu cầu cấp bách về bảo đảm an ninh năng lượng quốc gia. Sản lượng khai thác vượt chỉ được cung cấp, phục vụ cho sản xuất điện. Nghị quyết có hiệu lực kể từ ngày ký ban hành (09/6/2026) và được áp dụng đến hết ngày 31/12/2027.
 
 ## CĂN CỨ PHÁP LUẬT
 
-- Luật Tổ chức Chính phủ số 63/2025/QH15
-- Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung một số điều bởi Luật số 87/2025/QH15
-- Luật Địa chất và khoáng sản số 54/2024/QH15 được sửa đổi, bổ sung một số điều bởi Luật số 147/2025/QH15
-- Nghị định số 78/2025/NĐ-CP quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Ban hành văn bản quy phạm pháp luật, được sửa đổi, bổ sung tại Nghị định số 187/2025/NĐ-CP
-- Nghị định số 193/2025/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Địa chất và khoáng sản, được sửa đổi, bổ sung tại Nghị định số 21/2026/NĐ-CP
-- Nghị định số 21/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 193/2025/NĐ-CP
-- Nghị định số 191/2026/NĐ-CP ngày 29/5/2026 của Chính phủ ban hành Quy chế làm việc của Chính phủ
-- Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường tại các văn bản số 3637/TTr-BNNMT ngày 15/4/2026, số 4895/TTr-BNNMT ngày 15/5/2026 và số 5902/BC-BNNMT ngày 06/6/2026
+- Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
+- Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung một số điều bởi Luật số 87/2025/QH15;
+- Căn cứ Luật Địa chất và khoáng sản số 54/2024/QH15 được sửa đổi, bổ sung một số điều bởi Luật số 147/2025/QH15;
+- Căn cứ Nghị định số 78/2025/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Ban hành văn bản quy phạm pháp luật, được sửa đổi, bổ sung tại Nghị định số 187/2025/NĐ-CP;
+- Căn cứ Nghị định số 193/2025/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Địa chất và khoáng sản, được sửa đổi, bổ sung tại Nghị định số 21/2026/NĐ-CP;
+- Căn cứ Nghị định số 21/2026/NĐ-CP của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 193/2025/NĐ-CP ngày 02 tháng 7 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Địa chất và khoáng sản và quy định chi tiết Luật sửa đổi, bổ sung một số điều của Luật Địa chất và khoáng sản;
+- Căn cứ Nghị định số 191/2026/NĐ-CP ngày 29/5/2026 của Chính phủ ban hành Quy chế làm việc của Chính phủ;
+- Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường tại các văn bản số 3637/TTr-BNNMT ngày 15/4/2026, số 4895/TTr-BNNMT ngày 15/5/2026 và số 5902/BC-BNNMT ngày 06/6/2026.
 
 ## NỘI DUNG
 

@@ -131,8 +131,8 @@ Quét dải NĐ-CP 203–212 + kiểm tra Thông tư tuần 06–13/6/2026 qua w
 |---|---:|---|---|---:|---|---|
 | 204/2026/NĐ-CP | 11/06/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực thú y — phạt tiền đến 50 triệu đồng (cá nhân) / 100 triệu đồng (tổ chức); không đeo rọ mõm cho chó nơi công cộng phạt 1–2 triệu đồng; kinh doanh thú y không phép phạt đến 100 triệu; hiệu lực 01/8/2026 | Nông nghiệp / Thú y | — | **Chưa có** | Nguồn: baotintuc.vn, sggp.org.vn, vietnamplus.vn, baochinhphu.vn; tác động ngành thú y, chủ nuôi động vật toàn quốc |
 | 28/2026/NQ-CP | 09/06/2026 | Cơ chế đặc thù cho phép khai thác than vượt không quá 15% công suất giấy phép nhằm bảo đảm an ninh năng lượng quốc gia — sản lượng vượt chỉ phục vụ sản xuất điện; phải đăng ký với UBND cấp tỉnh và Bộ NN&MT; hiệu lực 09/6/2026 đến 31/12/2027 | Năng lượng / Tài nguyên | 218385 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218385`; nguồn: luatvietnam.vn, baochinhphu.vn, vtv.vn, moit.gov.vn; tác động ngành than, điện lực |
-| 63/2026/TT-BTC | 05/06/2026 | Quy định nội dung và mức chi hoạt động thi kỹ năng nghề trong nước và quốc tế — thay thế TT liên tịch 43/2012/TTLT-BTC-BLĐTBXH; định mức chi xây dựng đề thi, chấm thi, huấn luyện đội tuyển quốc gia; hiệu lực 05/6/2026 | Giáo dục nghề nghiệp / Tài chính | — | **Chưa có** | URL: `https://luatvietnam.vn/giao-duc/thong-tu-63-2026-tt-btc-quy-dinh-noi-dung-va-muc-chi-hoat-dong-thi-ky-nang-nghe-437238-d1.html`; nguồn: luatvietnam.vn, bacninh.gov.vn; tác động hệ thống thi nghề quốc gia và quốc tế |
-| 30/2026/TT-BCT | 10/06/2026 | Quy định phương pháp xác định giá dịch vụ phát điện đối với nhà máy điện BOT chưa ký hợp đồng mua bán điện — IRR không vượt quá 12%; hướng dẫn Luật Điện lực 2024; hiệu lực 28/7/2026 | Năng lượng / Thương mại | — | **Chưa có** | URL: `https://moit.gov.vn/tin-tuc/bo-cong-thuong-ban-hanh-thong-tu-moi-ve-gia-dich-vu-phat-dien-nha-may-bot.html`; nguồn: moit.gov.vn, petrotimes.vn; tác động các dự án điện BOT chưa ký HĐMBĐ |
+| 63/2026/TT-BTC | 05/06/2026 | Quy định nội dung và mức chi hoạt động thi kỹ năng nghề trong nước và quốc tế — thay thế TT liên tịch 43/2012/TTLT-BTC-BLĐTBXH; định mức chi xây dựng đề thi, chấm thi, huấn luyện đội tuyển quốc gia; hiệu lực 05/6/2026 | Giáo dục nghề nghiệp / Tài chính | — | **Đã có (2026-06-14)** | File: `van-ban/giao-duc-dao-tao/thong-tu-63-2026-tt-btc-noi-dung-muc-chi-thi-ky-nang-nghe.md`; nguồn: luatvietnam.vn (slug 437238); người ký: KT. Bộ trưởng Bộ Tài chính; 7 Điều (Điều 1: phạm vi; Điều 2: nguồn kinh phí; Điều 3: nguyên tắc; Điều 4: chi chung; Điều 5: chi thi trong nước; Điều 6: chi thi quốc tế; Điều 7: điều khoản thi hành); KHÔNG có Chương, KHÔNG có Phụ lục (định mức chi nằm trong nội dung từng Điều); 196 dòng, 16KB; OCR issues = 0; articles 1-7 đầy đủ, không thiếu, không trùng; docid: 437238 |
+| 30/2026/TT-BCT | 10/06/2026 | Quy định phương pháp xác định giá dịch vụ phát điện đối với nhà máy điện BOT chưa ký hợp đồng mua bán điện — IRR không vượt quá 12%; hướng dẫn Luật Điện lực 2024; hiệu lực 28/7/2026 | Năng lượng / Thương mại | — | **Đã có (2026-06-14)** | File: `van-ban/nang-luong-tai-nguyen/thong-tu-30-2026-tt-bct-gia-dich-vu-phat-dien-nha-may-bot.md`; nguồn: moit.gov.vn (bài viết + PDF 19 trang OCR) + petrotimes.vn (cross-check); người ký: Nguyễn Hoàng Long (Bộ trưởng Bộ Công Thương); 16 Điều + 4 Chương (I-IV) + Phụ lục I (2 biểu mẫu tài chính); 699 dòng, 47KB; OCR issues = 0; articles 1-16 đầy đủ, không thiếu, không trùng; docid: tt30-2026-bct |
 | 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026–2035 | Tài chính / Ngân sách | — | **Đã có (2026-06-13)** | File: `van-ban/tai-chinh/thong-tu-60-2026-tt-btc-huong-dan-quan-ly-su-dung-quyet-toan-kinh-phi-chuong-trinh-muc-tieu-quoc-gia.md`; URL: `https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-60-2026-TT-BTC-huong-dan-quan-ly-kinh-phi-Ngan-sach-xay-dung-nong-thon-moi-709846.aspx` |
 
 ### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-12)
@@ -237,7 +237,7 @@ Quét bổ sung các văn bản tháng 6/2026 qua web search + web_fetch vanban.
 |---|---:|---|---|---:|---|---|
 | 200/2026/NĐ-CP | 05/06/2026 | Quy định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước và chào bán trái phiếu doanh nghiệp ra thị trường quốc tế — doanh nghiệp tự vay tự trả, hạch toán riêng vốn huy động | Chứng khoán / Tài chính | 218389 | **Chưa có** | URL: https://vanban.chinhphu.vn/?pageid=27160&docid=218389; tác động thị trường trái phiếu doanh nghiệp |
 | 169/2026/NĐ-CP | 15/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực hải quan — phạt đến 80 triệu đồng vận chuyển hàng tạm ngừng xuất khẩu, phạt đến 50 triệu không khai báo ngoại tệ, vàng; thay thế NĐ 128/2020/NĐ-CP | Thuế / Hải quan | 218xxx | **Chưa có** | URL cần xác minh trên vanban.chinhphu.vn; hiệu lực 01/7/2026 |
-| 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026-2035 | Tài chính / Ngân sách | 218xxx | **Chưa có** | URL cần xác minh trên vanban.chinhphu.vn; hiệu lực 31/5/2026 |
+| 60/2026/TT-BTC | 31/05/2026 | Hướng dẫn quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm nghèo bền vững và phát triển KT-XH vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2026-2035 | Tài chính / Ngân sách | 218378 | **Đã có (2026-06-14)** | File: `van-ban/tai-chinh/thong-tu-60-2026-tt-btc-huong-dan-quan-ly-su-dung-quyet-toan-kinh-phi-chuong-trinh-muc-tieu-quoc-gia.md`; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218378`; 22 Điều + 4 Chương |
 
 ### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-10)
 
@@ -1158,7 +1158,7 @@ Hoàn thiện crawl + Markdown hóa **28/2026/NQ-CP** theo quy trình Signed PDF
 
 | Số hiệu | Trạng thái | File | Ghi chú |
 |---|---|---|---|
-| 28/2026/NQ-CP | **Đã có (2026-06-14, OCR từ PDF gốc ký số, nội dung đầy đủ 7 Điều)** | `van-ban/nang-luong-tai-nguyen/nghi-quyet-28-2026-nq-cp-co-che-dac-thu-khai-thac-than.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218385`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/28-nqcp.signed.pdf` (4 trang, 261KB, CAdES-BES ký 10/6/2026 14:14:14); người ký: Phạm Gia Túc (Chủ nhiệm VPCP, ký thay Thủ tướng); 7 Điều, không có Chương; 142 dòng, 11KB; OCR issues = 0; articles 1-7 đầy đủ, không thiếu, không trùng; layout: vanban; file cũ slug `...-khai-thac-than-vuot-cong-suat.md` (stub metadata only) đã được thay thế bằng file mới slug chuẩn với nội dung đầy đủ |
+| 28/2026/NQ-CP | **Đã có (2026-06-14, OCR từ PDF gốc ký số, nội dung đầy đủ 7 Điều)** | `van-ban/nang-luong-tai-nguyen/nghi-quyet-28-2026-nq-cp-co-che-khai-thac-than-vuot-15-phan-tram-cong-suat.md` | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218385`; PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/28-nqcp.signed.pdf` (4 trang, 261KB, CAdES-BES ký 10/6/2026 14:14:14); người ký: Phó Thủ tướng Phạm Gia Túc (KT. Thủ tướng theo phân công); 7 Điều, không có Chương; 146 dòng, 11.5KB; OCR issues = 0 (1 false positive "ngày l" - thực chất là "ngày làm việc"); articles 1-7 đầy đủ, không thiếu, không trùng; layout: vanban; file cũ slug `...-khai-thac-than.md` (ghi nhầm người ký = Chủ nhiệm VPCP - sai, PGT Phạm Gia Túc từ tháng 4/2026) đã xóa, thay thế bằng file mới slug chuẩn với nội dung đầy đủ và người ký chính xác |
 
 ### Cấu trúc 28/2026/NQ-CP
 
@@ -1209,7 +1209,7 @@ Hoàn thiện crawl + Markdown hóa **30/2026/TT-BCT** theo quy trình Signed PD
 
 | Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
 |---|:---:|:---:|:---:|
-| 30/2026/TT-BCT | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (16 Điều + 4 Chương)** (2026-06-14) |
+| 30/2026/TT-BCT | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (16 Điều + 4 Chương + Phụ lục I)** (2026-06-14) | **Đã có (16 Điều + 4 Chương)** (2026-06-14) |
 
 ### Ghi chú xử lý
 
@@ -1244,7 +1244,7 @@ Hoàn thiện crawl + Markdown hóa **63/2026/TT-BTC** theo quy trình Signed PD
 
 | Số hiệu | Trong tracking? | Trạng thái cũ | Trạng thái mới |
 |---|:---:|:---:|:---:|
-| 63/2026/TT-BTC | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (7 Điều)** (2026-06-14) |
+| 63/2026/TT-BTC | **CÓ** (Đệ #1 lần 11 ngày 2026-06-13) | Thêm mới — Chưa có | **Đã có (7 Điều, không Chương/Phụ lục)** (2026-06-14) | **Đã có (7 Điều)** (2026-06-14) |
 
 ### Ghi chú xử lý
 
