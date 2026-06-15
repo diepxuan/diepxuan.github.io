@@ -499,3 +499,17 @@ Quét từ heartbeat poll: phát hiện **1 văn bản mới** chưa từng đư
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 206/2026/NĐ-CP | 15/6/2026 | Quy định chi tiết về quản lý chi phí đầu tư xây dựng | Xây dựng / Đầu tư | chưa xác minh | **Chưa có** | Hiệu lực 1/7/2026; nguồn: vietnam.vn, baochinhphu.vn; chờ Sếp review/merge PR #209 rồi crawl |
+
+## Phát hiện mới 2026-06-16 06:26 (phiên Đệ #1 Discovery — heartbeat)
+
+Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `vanban.chinhphu.vn Nghị định 2026 site:vanban.chinhphu.vn`): phát hiện **3 văn bản mới** chưa từng được ghi nhận trong tracking và không có trong PR #209:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 94/2026/NĐ-CP | chưa xác minh | Quy định về hoạt động đào tạo và sát hạch lái xe | Giao thông vận tải | 217390 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217390`; cần xác minh ngày ban hành, hiệu lực, người ký; chờ Sếp review/merge PR #209 rồi crawl |
+| 02/2026/NĐ-CP | chưa xác minh | Quy định xử phạt vi phạm hành chính trong lĩnh vực phí và lệ phí | Tài chính / Phí lệ phí | 216406 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216406`; cần xác minh ngày ban hành, hiệu lực, người ký; chờ Sếp review/merge PR #209 rồi crawl |
+| 66.16/2026/NQ-CP | chưa xác minh | Cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh | Hành chính / TTHC | 217646 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217646`; cần xác minh ngày ban hành, hiệu lực, người ký; chờ Sếp review/merge PR #209 rồi crawl |
+
+**Loại trừ (đã có):** 26/2026/TT-BTC (tracking), 06/2026/NĐ-CP (tracking), 20/2026/NĐ-CP (tracking), 37/2026/NĐ-CP (tracking), 272/2025/NĐ-CP (năm 2025), 70/2025/UBTVQH15 (năm 2025), 05/2026/NĐ-CP (rất sớm 2026, có thể đã có trong nguồn khác — không thêm để tránh trùng khi chưa verify).
+
+**Lý do không crawl ngay:** Theo SOUL.md, mỗi task = 1 PR. PR #209 đang chờ Sếp review. Em thêm vào tracking làm hàng chờ; khi Sếp review/merge PR #209, em sẽ crawl tiếp 3 văn bản này.
