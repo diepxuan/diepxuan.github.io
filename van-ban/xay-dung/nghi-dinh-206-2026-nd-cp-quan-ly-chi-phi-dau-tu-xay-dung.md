@@ -4,11 +4,11 @@ title: "Nghị định 206/2026/NĐ-CP quy định chi tiết về quản lý ch
 so_hieu: 206/2026/NĐ-CP
 ngay_ban_hanh: 15/06/2026
 ngay_hieu_luc: 01/07/2026
-nguoi_ky: Phạm Gia Túc (Phó Thủ tướng, ký thay Thủ tướng — theo PDF; cần đối chiếu metadata vanban.chinhphu.vn)
+nguoi_ky: Phạm Gia Túc (Phó Thủ tướng Thường trực, ký thay Thủ tướng — theo PDF; cần đối chiếu metadata vanban.chinhphu.vn)
 co_quan_ban_hanh: Chính phủ
 loai_van_ban: Nghị định
 linh_vuc: Xây dựng / Đầu tư
-group: dau-tu-xay-dung
+group: xay-dung
 tags:
   - quan-ly-chi-phi
   - dau-tu-xay-dung
@@ -19,10 +19,13 @@ docid: ""
 source: "https://baochinhphu.vn/quy-dinh-moi-ve-quan-ly-chi-phi-dau-tu-xay-dung-102260615172906556.htm"
 trich_yeu: "Quy định chi tiết về quản lý chi phí đầu tư xây dựng theo Điều 74, khoản 7 Điều 76 Luật Xây dựng số 135/2025/QH15: sơ bộ tổng mức, tổng mức đầu tư xây dựng, dự toán xây dựng, giá gói thầu xây dựng, chi phí quản lý dự án, chi phí tư vấn xây dựng, chi phí khác, hệ thống công cụ định mức, giá và chỉ số giá xây dựng; quyền và trách nhiệm của các chủ thể; quản lý nhà nước về chi phí đầu tư xây dựng. Thay thế Nghị định 10/2021/NĐ-CP."
 thay_the: "Nghị định 10/2021/NĐ-CP ngày 09/02/2021"
-phuong_phap_so_hoa: "Tesseract OCR tiếng Việt trên 33 trang PNG (pdftoppm -r 150 -png) từ PDF ký số CAdES-BES do VGCASignService ký. Sửa lỗi OCR thủ công (chi phí, thẩm quyền, đầu tư, QH15, số La Mã Chương, v.v.)."
-pdf_goc: "https://drive.google.com/uc?export=download&id=1GD8a_WZWVboaT4uVzdDPyqB23AtYMXbB"
+phuong_phap_so_hoa: "OCR từ PDF ký số CAdES-BES (VGCASignService 1.0.11 ©2014 VGCA) 33 trang A4 - pipeline: pdftoppm -r 150 -png + tesseract -l vie + sửa lỗi thủ công (chi phí, thẩm quyền, đầu tư, QH15, số La Mã Chương). Cross-check với bản text trên luatvietnam.vn (dau-tu/.../437591-d1.html). Nội dung bám sát bản PDF gốc."
+nguon_pdf: "https://drive.google.com/uc?export=download&id=1GD8a_WZWVboaT4uVzdDPyqB23AtYMXbB"
 date: 2026-06-15
 modified: 2026-06-16
+so_chuong: 8
+so_dieu: 38
+so_muc: 4
 trang_thai: hoan-thien
 ---
 
@@ -67,7 +70,7 @@ Chính phủ ban hành Nghị định quy định chi tiết về quản lý chi
 | Ngày ban hành | 15/6/2026 |
 | Ngày hiệu lực | 01/7/2026 |
 | Cơ quan ban hành | Chính phủ |
-| Người ký | Phạm Gia Túc (Phó Thủ tướng, ký thay Thủ tướng — theo PDF) |
+| Người ký | Phạm Gia Túc (Phó Thủ tướng Thường trực, ký thay Thủ tướng — theo PDF) |
 | Trích yếu | Quy định chi tiết về quản lý chi phí đầu tư xây dựng |
 | Văn bản thay thế | Nghị định 10/2021/NĐ-CP ngày 09/02/2021 |
 | Căn cứ pháp lý chính | Điều 74, khoản 7 Điều 76 Luật Xây dựng số 135/2025/QH15 |
