@@ -74,17 +74,16 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
 
 - Mục đích: Duyệt các văn bản đã có đầy đủ nội dung hoặc được đánh dấu "Hoàn thiện" trong tracking. **Đồng thời chịu trách nhiệm phát hiện file cần refactor trong `van-ban/`** (metadata "Đang cập nhật", file < 10KB, lastedit > 7 ngày).
 - Quy trình:
-  1. Quét `van-ban/` để tìm file có nội dung đầy đủ
-  2. Quét `van-ban/` để phát hiện file cần refactor (metadata "Đang cập nhật", < 10KB, lastedit > 7 ngày) - đánh dấu trong `documents/LEGISLATION_TRACKING.md`
-  3. Đọc `documents/LEGISLATION_TRACKING.md` để lấy các văn bản "Hoàn thiện"
-  4. Review liên tục 5 văn bản/lần, toàn bộ nội dung trong van-ban
-  5. Đọc `documents/OCR_QUALITY_GATE.md` và chạy lại OCR quality gate cho từng văn bản được review
-  6. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
-  7. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
-- Output: Báo cáo cho Bột các văn bản cần review + danh sách file cần refactor + kết quả OCR quality gate
+  1. Kiểm tra PR đang mở: lấy danh sách văn bản đang được cập nhật trong PR
+  2. Quét `van-ban/` để tìm file có nội dung đầy đủ
+  3. Quét `van-ban/` để phát hiện file cần refactor (metadata "Đang cập nhật", < 10KB, lastedit > 7 ngày) - đánh dấu trong `documents/LEGISLATION_TRACKING.md`
+  4. Đọc `documents/LEGISLATION_TRACKING.md` để lấy các văn bản "Hoàn thiện"
+  5. **Bỏ qua các văn bản đang có PR mở** (tạm thời không review để tránh xung đột)
+  6. Review liên tục 5 văn bản/lần (loại trừ văn bản đang có PR), toàn bộ nội dung trong van-ban
+  7. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
+  8. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
+- Output: Báo cáo cho Bột các văn bản cần review + danh sách file cần refactor (loại trừ văn bản đang có PR mở)
 - Bột quyết định: File OK -> không cần xử lý; File cần bổ sung/refactor -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp
-- Lưu ý: Đệ #4 KHÔNG cần kiểm tra PR đang mở. PR là output, không ảnh hưởng quyết định review.
-
 ### 2.3. Quy trình thực thi
 
 ```
@@ -346,8 +345,7 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 - Bột tự gọi đệ #1 và đệ #4 song song khi không còn task/ không biết làm gì
 - Bột tự quyết định mọi hành động trong vòng lặp cron (không hỏi Sếp, không chờ phê duyệt giữa các bước)
 - Báo cáo tổng hợp cho Sếp sau khi hoàn thành chuỗi công việc (hoặc khi có PR cần review)
-- KHÔNG tự động tạo PR rời theo từng file/văn bản. Chỉ tạo PR heartbeat mới khi chưa có PR active hoặc khi PR active gặp sự cố theo mục 2.5
-- KHÔNG tự động merge
+- KHÔNG tự động tạo PR- KHÔNG tự động merge
 - Crawl liên tục, nếu có thắc mắc có nên crawl hay không thì gọi Đệ #4 review rồi Bột tự quyết định
 - Gọi nhiều đệ thực hiện song song
 
@@ -356,32 +354,13 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
 
 1. Đọc `HEARTBEAT.md` mục 2 và `documents/LEGISLATION_TRACKING.md`.
-2. Kiểm tra PR heartbeat active đang mở theo mục 2.5.
+2. Kiểm tra PR đang mở.
 3. **Tự quyết định** theo luật ưu tiên:
-   - Có file chưa hoàn thiện trong tracking → xác định/tạo PR heartbeat active theo mục 2.5, rồi gọi Đệ #3 xử lý 1 văn bản và commit/push vào PR active. Văn bản đã nằm trong PR active/open thì BỎ QUA, chuyển sang văn bản tiếp theo.
+   - Có file chưa hoàn thiện + văn bản đó không có PR mở → gọi Đệ #3 để tạo PR mới (mỗi lần 1 văn bản). Văn bản đang có PR mở thì BỎ QUA, chuyển sang văn bản tiếp theo.
    - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
-   - Tracking đầy đủ + không có file cần refactor → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
-4. **Quản lý vòng đời đệ theo mục 4.5** (chạy trước bước 5 để ghi kết quả kill/spawn vào báo cáo cuối).
-5. Nếu có commit/push vào PR active, bắt buộc cập nhật PR title/body/comment theo mục 2.6 trước khi báo cáo Sếp.
-6. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR đang chờ review, link comment PR mới nhất nếu có, kết quả kill/spawn đệ stale).
-7. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
+   - Có PR mở → vẫn tiếp tục vòng lặp với văn bản khác; PR đang mở chỉ loại trừ văn bản đó khỏi review/crawl tiếp theo. Trong báo cáo liệt kê danh sách PR đang chờ Sếp review.
+   - Tracking đầy đủ + không có file cần refactor + không có PR → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
+4. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR chờ review).
+5. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
 
 **Không hỏi Sếp giữa chừng. Không dừng để chờ phản hồi.**
-
-### 4.5. Quản lý vòng đời đệ
-
-Khi cron `crawl-vanban` chạy, Bột kiểm tra trạng thái đệ đang chạy:
-
-- Đệ đang chạy > 1 tiếng mà chưa có completion event → coi là stale.
-- Hành động:
-  1. Ghi `memory/YYYY-MM-DD.md` (stale: <taskName> at <time>).
-  2. Kill session qua `sessions_send` với message `"STOP"` hoặc tool `subagents` kill.
-  3. Spawn lại đệ mới.
-- Mỗi cron chỉ kill/spawn tối đa 1 đệ stale (tránh thrash).
-- Ghi log kết quả vào báo cáo cuối.
-
-**Tracking trạng thái đệ trong `memory/YYYY-MM-DD.md`:**
-
-- Trước khi spawn: ghi `running: <taskName> at <time>`.
-- Khi có completion event: ghi `done: <taskName> at <time>`.
-- Cron sau: nếu có `running` > 1 tiếng mà không có `done` tương ứng → stale.
