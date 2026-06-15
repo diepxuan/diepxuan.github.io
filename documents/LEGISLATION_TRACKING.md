@@ -198,7 +198,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 | 185/2026/NĐ-CP | `van-ban/lao-dong/nghi-dinh-185-2026-nd-cp-thon-to-dan-pho.md` | **ĐÃ CÓ** file đầy đủ — front matter có đầy đủ metadata (so_hieu, ngay_ban_hanh, nguoi_ky, thay_the, source), lastedit 2026-06-10 | Chưa có (ghi sai) | **Đã có** |
 | 56/2026/TT-BCA | Không tìm thấy | **Chưa có** — quy định quản lý theo dõi người bị cấm đi khỏi nơi cư trú; PDF tại bocongan.gov.vn; hiệu lực 01/7/2026 | — | Chưa có |
 | 29/2026/TT-BCA | Không tìm thấy | **Chưa có** — không tìm thấy trong web search; có thể chưa ban hành hoặc số hiệu khác | — | Chưa có (chờ xác minh) |
-| 35/2026/TT-BTC | Không | Placeholder chưa xác minh đã bị loại khỏi PR#204 theo OCR Quality Gate | — | Chưa có — cần crawl lại từ nguồn chính thức |
+| 35/2026/TT-BTC | 31/03/2026 | Đã đối chiếu dòng 191 — file đã có đầy đủ trong PR #209 từ 2026-06-14 (commit eca27767, 35 Điều + 7 Chương + Phụ lục). Mục này trùng với placeholder cũ đã bị loại khỏi PR#204; dòng tracking thừa, giữ nguyên để audit. | — | **Đã có (xem dòng 191)** |
 
 ### Văn bản phát hiện thêm (chưa tạo entry — chờ phiên sau)
 
@@ -216,7 +216,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 | 46/2026/TT-BGDĐT | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 56/2026/TT-BCA | **KHÔNG** | Không | — | Thêm mới — Chưa có |
 | 19/2026/TT-NHNN | **KHÔNG** | Không | — | Thêm mới — Chưa có |
-| 35/2026/TT-BTC | **KHÔNG** | Không | — | Thêm mới — Chưa có; placeholder chưa xác minh đã bị loại khỏi PR#204 |
+| 35/2026/TT-BTC | **KHÔNG** | Không | — | Thêm mới — Chưa có → **Đã có (xem dòng 191, commit eca27767 2026-06-14)** |
 | 31/2026/TT-BCT | **KHÔNG** | Không | — | Thêm mới — Chưa có | **Đã có (19 Điều + 5 Chương)** (2026-06-14) |
 | 185/2026/NĐ-CP | **CÓ (ghi sai)** | Có | Chưa có | **Sửa → Đã có** |
 | 29/2026/TT-BCA | **KHÔNG** | Không | — | Chưa có (chờ xác minh — có thể chưa ban hành) |
