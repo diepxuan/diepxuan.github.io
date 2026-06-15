@@ -226,7 +226,7 @@ hậu quả theo quy định của pháp luật về xử lý vi phạm hành ch
 
 **4.** Sửa đổi, bổ sung Điều 8 như sau:
 
-“Điều 8. Xứ phạt hành vi ví phạm quy định về giao, sử dụng tài sản
+“Điều 8. Xử phạt hành vi vi phạm quy định về giao, sử dụng tài sản
 
 công, hủy hoại hoặc cố ý làm hư hồng tài sản công h
 
@@ -305,7 +305,7 @@ hư hỏng tài sản là trụ sở làm việc, cơ sở hoạt động sự n
 
 **6.** Biện pháp khắc phục hậu quả:
 
-a) Buộc bỗ sung, hoàn thiện hồ sơ còn thiếu theo quy định của pháp hột
+a) Buộc bổ sung, hoàn thiện hồ sơ còn thiếu theo quy định của pháp luật
 về tài sản công đối với hành vỉ quy định tại khoản 2 Điều này;
 
 b) Buộc nộp lại số tiền tương ứng với giá trị tài sản đối với hành vi quy
@@ -360,11 +360,11 @@ hành áp dụng tại thời điểm xảy ra hành vi vi phạm; .
 này xác định giá trị vượt làm căn cứ xử phạt và thực biện biện pháp khắc phục
 hậu quả theo quy định của pháp luật vê xử lý vi phạm hành chính.”.
 
-5. Sửa đổi, bố sung điểm a khoản 2 Điều 9 như sau:
+5. Sửa đổi, bổ sung điểm a khoản 2 Điều 9 như sau:
 
 “a) Buộc hoàn trả lại tài sản;”.
 
-6. Sửa đổi, bỗ sung Điều 10 như sau:
+6. Sửa đổi, bổ sung Điều 10 như sau:
 
 “Điều 10. Xử phạt hành vi vi phạm quy định về tặng cho tài sản công
 
@@ -384,8 +384,8 @@ tài sản công có giá trị từ 75.000.000 đồng trở lên.
 10”
 
 2. Biện pháp khắc phục hậu quả: Buộc hoàn trả lại tài sản.”.
-7. Sửa đổi, bố sung một số khoản của Điều 12 như sau:
-a) Sửa đổi, bố sung khoản 1 như sau:
+7. Sửa đổi, bổ sung một số khoản của Điều 12 như sau:
+a) Sửa đổi, bổ sung khoản 1 như sau:
 
 *1, Phạt tiền đối với tổ chức, cá nhân có hành vi chiếm đoạt tài sản công
 (nắm giữ, sử dụng tài sản công mà không được cơ quan, người có thẩm quyền
@@ -415,9 +415,9 @@ c) Buộc nộp lại số lợi bất hợp pháp có được do thực hiện
 quy định tại khoản 1 và khoản 3 Điều này.
 
 Số lợi bất hợp pháp có được là toàn bộ số tiền tổ chức vi phạm thu được
-.từ hành vi ví phạm hành chính quy định tại khoản 1 và khoản 3 Điều này sau
+.từ hành vi vi phạm hành chính quy định tại khoản 1 và khoản 3 Điều này sau
 khi đã trừ các chi phí hợp , hợp lệ (chi phí khấu hao tài sản cố định; chi phí
-định giá, thấm định giá, đầu giá tài sản; chi phí lựa chọn đối tác liên doanh, liên
+định giá, thẩm định giá, đầu giá tài sản; chi phí lựa chọn đối tác liên doanh, liên
 kết; chi phí quản lý, vận hành trong thời gian kinh doanh, cho thuê, liên doanh, '
 liên kết và các khoản nghĩa vụ tài chính đã nộp cho Nhà nước) do tổ chức vì,
 phạm cung cấp kèm hóa đơn, chứng từ theo quy định. Người đứng đầu tổ chức
@@ -477,7 +477,7 @@ xác định bằng mức hao mòn hằng năm của tài sản nhân (x) với 
 thực hiện bảo dưỡng, sửa chữa tài sản (tính theo năm).”.
 
 
-**11.** Sửa đổi, bỗ sung một số khoản của Điều 15 như sau:
+**11.** Sửa đổi, bổ sung một số khoản của Điều 15 như sau:
 
 a) Sửa đổi, bổ sung khoản 1 như sau:
 
@@ -544,7 +544,7 @@ về tài sản công;”
 b) Buộc khôi phục lại tình trạng trước khi xây ra vì phạm của tài sản đã bị
 thay đổi do hành vi quy định tại điểm b khoản 2 Điều này.”
 
-15. Sửa đổi, bố sung một số điểm, khoản của Điều 21 như sau:
+15. Sửa đổi, bổ sung một số điểm, khoản của Điều 21 như sau:
 a) Sửa đổi, bổ sung điểm b khoản 1 như sau:
 
 “b) Không chuyển giao tài sản cho cơ quan quản lý chuyên ngành đề bảo
@@ -642,7 +642,7 @@ b) Sửa đổi, bổ sung khoản 4 như sau:
 b) Buộc bổ sung, hoàn thiện hề sơ còn thiếu theo quy định của pháp luật
 về tài sản công đối với hành vi quy định tại khoản 3 Điều này.”
 
-20. Sửa đỗi, bổ sung khoản 1 Điều 28 như sau:
+20. Sửa đổi, bổ sung khoản 1 Điều 28 như sau:
 
 “1. Người có thẩm quyền lập biên bản vi phạm hành chính trong lĩnh vực
 quản lý tài sản công gồm:
@@ -688,7 +688,7 @@ d) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3
 “o) Thanh tra viên; Trưởng đoản thanh tra trong thời hạn thanh tra.”.
 16
 
-23. Sửa đổi, bố sung khoản 1 Điều 51 như sau:
+23. Sửa đổi, bổ sung khoản 1 Điều 51 như sau:
 
 “1, Chủ tịch Ủy ban nhân đân cấp xã có quyền: ¡
 
@@ -814,7 +814,7 @@ quy định trong hợp đồng và phụ lục h đồng tại các điểm a, 
 Điều này, các khoản đã chỉ từ việc lập hồ sơ để nghị chỉ sai chế độ quy định tại
 khoản 2 Điều này.”
 
-27. Sửa đỗi, bố sung Điều 56 như sau: ị
+27. Sửa đổi, bổ sung Điều 56 như sau: ị
 
 , “Điều 56. Hành vi lập hồ sơ đề nghị chỉ giả mạo để chỉ ngân sách nhà
 nước nhưng chưa đến mức truy cứu trách nhiệm hình sự và hành vi lập
