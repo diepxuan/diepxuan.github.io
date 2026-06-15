@@ -2292,7 +2292,7 @@ c) Tịch thu tang vật vi phạm hành chính;
 khoản 5 Điều 6 Nghị định này,
 LỆ
 
-Điều 32. Thẩm quyền xử phạt của Cảnh sát biển 
+Điều 32. Thẩm quyền xử phạt của Cảnh sát biển
 
 1. Cảnh sát viên Cảnh sát biển đang thi hành công vụ có quyền:
 
