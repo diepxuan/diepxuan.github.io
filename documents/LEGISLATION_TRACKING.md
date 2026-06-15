@@ -479,3 +479,15 @@ Ghi nhận các văn bản pháp luật mới phát hiện từ `vanban.chinhphu
 
 - Giới hạn 5 văn bản/lần theo HEARTBEAT.md: 3 văn bản mới + 2 file refactor (4 tổng cộng nếu tính cập nhật trạng thái 192/2026).
 - Đệ #1 không crawl nội dung, không tạo PR — chỉ báo cáo cho Bột xử lý ở phiên tiếp theo.
+## Phát hiện mới 2026-06-15 21:56 (phiên Đệ #1 Discovery — tự động từ heartbeat poll)
+
+Quét vanban.chinhphu.vn từ heartbeat poll: phát hiện **4 văn bản mới** chưa từng được ghi nhận trong tracking:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 26/2026/TT-BTC | — | Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định 73/2026/NĐ-CP (Luật Ngân sách nhà nước) | Tài chính / Ngân sách | 217323 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217323`; cần xác minh ngày ban hành, hiệu lực; chờ Sếp review/merge PR #209 rồi crawl |
+| 26/2026/NĐ-CP | — | Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa | Hóa chất / Môi trường | 216673 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216673`; cần xác minh ngày ban hành, hiệu lực; chờ Sếp review/merge PR #209 rồi crawl |
+| 06/2026/NĐ-CP | — | Quy định về tổ chức và hoạt động của Ngân hàng Chính sách xã hội | Ngân hàng / Tài chính | 216603 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216603`; cần xác minh ngày ban hành, hiệu lực; chờ Sếp review/merge PR #209 rồi crawl |
+| 06/2026/TT-BGDĐT | — | Ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng | Giáo dục | 217071 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=217071&pageid=27160`; cần xác minh ngày ban hành, hiệu lực; chờ Sếp review/merge PR #209 rồi crawl |
+
+**Lý do không crawl ngay:** Theo SOUL.md, mỗi task = 1 PR. PR #209 hiện có 35 văn bản chờ Sếp review/merge. Em thêm vào tracking làm hàng chờ; khi Sếp review/merge PR #209, em sẽ crawl tiếp 4 văn bản này (có thể tạo PR mới nếu cần, hoặc commit vào PR active sau khi Sếp cho phép).
