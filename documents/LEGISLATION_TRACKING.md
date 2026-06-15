@@ -508,7 +508,7 @@ Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `vanban.chinhphu.vn 
 |---|---:|---|---|---:|---|---|
 | 94/2026/NĐ-CP | chưa xác minh | Quy định về hoạt động đào tạo và sát hạch lái xe | Giao thông vận tải | 217390 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217390`; cần xác minh ngày ban hành, hiệu lực, người ký; chờ Sếp review/merge PR #209 rồi crawl |
 | 02/2026/NĐ-CP | chưa xác minh | Quy định xử phạt vi phạm hành chính trong lĩnh vực phí và lệ phí | Tài chính / Phí lệ phí | 216406 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216406`; cần xác minh ngày ban hành, hiệu lực, người ký; chờ Sếp review/merge PR #209 rồi crawl |
-| 66.16/2026/NQ-CP | chưa xác minh | Cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh | Hành chính / TTHC | 217646 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217646`; cần xác minh ngày ban hành, hiệu lực, người ký; chờ Sếp review/merge PR #209 rồi crawl |
+| 66/2026/NQ-CP | chưa xác minh | Cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh | Hành chính / TTHC | 217646 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217646`; cần xác minh ngày ban hành, hiệu lực, người ký; chờ Sếp review/merge PR #209 rồi crawl |
 
 **Loại trừ (đã có):** 26/2026/TT-BTC (tracking), 06/2026/NĐ-CP (tracking), 20/2026/NĐ-CP (tracking), 37/2026/NĐ-CP (tracking), 272/2025/NĐ-CP (năm 2025), 70/2025/UBTVQH15 (năm 2025), 05/2026/NĐ-CP (rất sớm 2026, có thể đã có trong nguồn khác — không thêm để tránh trùng khi chưa verify).
 
