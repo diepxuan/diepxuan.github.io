@@ -491,3 +491,11 @@ Quét vanban.chinhphu.vn từ heartbeat poll: phát hiện **4 văn bản mới*
 | 06/2026/TT-BGDĐT | — | Ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng | Giáo dục | 217071 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=217071&pageid=27160`; cần xác minh ngày ban hành, hiệu lực; chờ Sếp review/merge PR #209 rồi crawl |
 
 **Lý do không crawl ngay:** Theo SOUL.md, mỗi task = 1 PR. PR #209 hiện có 35 văn bản chờ Sếp review/merge. Em thêm vào tracking làm hàng chờ; khi Sếp review/merge PR #209, em sẽ crawl tiếp 4 văn bản này (có thể tạo PR mới nếu cần, hoặc commit vào PR active sau khi Sếp cho phép).
+
+## Phát hiện mới 2026-06-15 23:00 (phiên Bot từ heartbeat poll)
+
+Quét từ heartbeat poll: phát hiện **1 văn bản mới** chưa từng được ghi nhận trong tracking:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 206/2026/NĐ-CP | 15/6/2026 | Quy định chi tiết về quản lý chi phí đầu tư xây dựng | Xây dựng / Đầu tư | chưa xác minh | **Chưa có** | Hiệu lực 1/7/2026; nguồn: vietnam.vn, baochinhphu.vn; chờ Sếp review/merge PR #209 rồi crawl |
