@@ -520,7 +520,7 @@ Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `"site:vanban.chinhp
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 68/2026/NĐ-CP | chưa xác minh | Quy định cụ thể phương pháp tính thuế với cá nhân kinh doanh, hộ kinh doanh | Thuế / Hộ kinh doanh | chưa xác minh | **Chưa có** | URL: chưa xác minh; nguồn: xaydungchinhsach.chinhphu.vn (Chính sách mới, "KÊ KHAI THUẾ 2026: HỘ KINH DOANH HỎI - CỤC THUẾ, CHUYÊN GIA TRẢ LỜI", published ~3 weeks ago); ngày BH, hiệu lực, người ký: chưa xác minh (search snippet không đủ); chờ Sếp review/merge PR #209 rồi crawl chi tiết |
+| 68/2026/NĐ-CP | chưa xác minh | Quy định cụ thể phương pháp tính thuế với cá nhân kinh doanh, hộ kinh doanh | Thuế / Hộ kinh doanh | chưa xác minh | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217111` (xác minh 16/6); nguồn: thuvienphapluat.vn 685358, xaydungchinhsach.chinhphu.vn; LƯU Ý: NĐ 141/2026/NĐ-CP đã sửa đổi NĐ 68/2026/NĐ-CP (cần tham khảo cả 2); chờ Sếp review/merge PR #209 rồi crawl |
 
 **Loại trừ (đã có trong tracking hoặc PR #209):**
 
