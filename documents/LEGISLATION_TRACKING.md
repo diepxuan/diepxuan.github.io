@@ -549,3 +549,10 @@ Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `site:vanban.chinhph
 - 49/2026/NĐ-CP (tracking - "Đã có", docid=216860)
 
 **Lý do không crawl ngay:** Theo SOUL.md, mỗi task = 1 PR. PR #209 đang chờ Sếp review. Em thêm vào tracking làm hàng chờ; khi Sếp review/merge PR #209, em sẽ crawl tiếp văn bản này.
+
+## Refactor queue 2026-06-16 (Đệ #4 lần 4 phát hiện)
+
+| File | Lý do | Mức độ |
+|------|-------|--------|
+| `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thu-tuc-bat-giu-tau-bay.md` | 7 trường "Đang cập nhật" trong bảng THÔNG TIN VĂN BẢN; `lastedit: 2026-05-13` (cũ 33 ngày); file lĩnh vực tổng hợp chưa có metadata văn bản cụ thể nào | refactor (low) - file lĩnh vực hợp lệ, chỉ cần tìm văn bản cụ thể đang tổng hợp để điền metadata |
+
