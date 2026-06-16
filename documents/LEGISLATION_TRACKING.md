@@ -539,7 +539,7 @@ Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `site:vanban.chinhph
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 61/2026/NĐ-CP | chưa xác minh | Quy định về danh mục, việc quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ và quy trình thu thập, sử dụng dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính | Hành chính / Phát hiện VPHC | 216981 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216981`; cần xác minh ngày ban hành, hiệu lực, người ký, số Chương/Điều; chờ Sếp review/merge PR #209 rồi crawl |
+| 61/2026/NĐ-CP | 13/02/2026 | Quy định về danh mục, việc quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ và quy trình thu thập, sử dụng dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính | Hành chính / Phát hiện VPHC | 216981 | **Đã có (2026-06-16, file `van-ban/hanh-chinh/nghi-dinh-61-2026-nd-cp-phuong-tien-thiet-bi-ky-thuat-nghiep-vu-phat-hien-vphc.md`)** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216981`; 4 Chương, 25 Điều, 11 Phụ lục; ngày hiệu lực 01/04/2026; người ký Nguyễn Hòa Bình (Phó Thủ tướng); nguồn DOCX chính thức từ Sở Tư pháp TP.HCM (bản sao Chính phủ), cross-verify vanban.chinhphu.vn + thuvienphapluat.vn + luatvietnam.vn |
 
 **Loại trừ (đã có trong tracking hoặc PR #209):**
 
