@@ -563,3 +563,32 @@ Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `site:vanban.chinhph
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 09/2026/TT-BNV | 2026 | Sửa đổi, bổ sung một số điều của Thông tư 21/2021/TT-BLĐTBXH quy định chi tiết Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng | Nội vụ / LĐ-TB&XH | chua-xac-minh | **Đã có FULL (2026-06-16, 185 dòng)** | File: `van-ban/noi-vu-hanh-chinh/thong-tu-09-2026-tt-bnv.md`; hiệu lực 30-06-2026 (còn 14 ngày); Đề 3 sửa đổi TT 21/2021; commit `ca88c60c`; ảnh hưởng người LĐVN đi nước ngoài theo hợp đồng |
+
+## Cập nhật 2026-06-16 12:58 (phiên Đệ #3 Full Content Crawler — bổ sung 69/2026/TT-BCA)
+
+Quét từ poll yêu cầu Sếp: file `van-ban/xuat-nhap-canh/thong-tu-69-2026-tt-bca-sua-doi-mau-ho-chieu-giay-thong-hanh.md` đang ở trạng thái **partial** (2/2 Điều + 9 biểu mẫu tóm tắt). Bổ sung chi tiết từng trường, từng dòng cho 9 biểu mẫu từ nguồn luatvietnam.vn (slug 436801 chứa toàn văn 2/2 Điều + 9/9 biểu mẫu).
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 69/2026/TT-BCA | 22/05/2026 | Sửa đổi Thông tư 31/2023/TT-BCA (đã sửa đổi bởi 68/2025/TT-BCA) về mẫu hộ chiếu, mẫu giấy thông hành và biểu mẫu liên quan; 2 Điều, 9 biểu mẫu thay thế (TK01-TK06, VB01); hiệu lực 01/7/2026 | Xuất nhập cảnh | chua-xac-minh | **Đã có FULL (2026-06-16, 2/2 Điều + 9/9 biểu mẫu chi tiết, nguồn luatvietnam.vn)** | File: `van-ban/xuat-nhap-canh/thong-tu-69-2026-tt-bca-sua-doi-mau-ho-chieu-giay-thong-hanh.md`; URL: `https://luatvietnam.vn/xuat-nhap-canh/thong-tu-69-2026-tt-bca-sua-doi-mau-ho-chieu-va-giay-thong-hanh-tu-01-07-2026-436801-d1.html`; người ký: Đại tướng Lương Tam Quang (Bộ trưởng Bộ Công an); 2 Điều + 9 biểu mẫu chi tiết (TK01: 16 trường + 5 chú thích; TK01a: 10+12 trường + 4 chú thích; TK02: 16 trường + 6 chú thích; TK02a: 7+11 trường + 4 chú thích; TK03: 7+11 trường + 5 chú thích; TK04: 9 mục lớn + 4 chú thích; TK05: 9 mục lớn + 5 chú thích; TK06: 7 mục lớn + 5 chú thích; VB01: mẫu thông báo hành chính + 3 chú thích); 595 dòng, ~43KB; OCR issues = 0; trước: partial 2/2 Điều + 9 biểu mẫu tóm tắt; sau: full 2/2 Điều + 9/9 biểu mẫu chi tiết; điều khoản chuyển tiếp: hồ sơ nộp trước 01/7/2026 KHÔNG phải nộp lại; nguồn chính: luatvietnam.vn (slug 436801 - master chứa 2/2 Điều + 9/9 biểu mẫu chi tiết) + luatvietnam.vn (slug 109525 - chi tiết TK01/TK01a) + luatvietnam.vn (slug 109562 - chi tiết VB01) + luatvietnam.vn (slug 109435 - tổng quan 9 mẫu) + luatvietnam.vn (slug 109470 - điều khoản chuyển tiếp); docid chua-xac-minh vì vanban.chinhphu.vn search trả "Không tìm thấy" (chưa được đăng tải chính thức hoặc dùng URL khác) |
+
+**Loại trừ (không crawl lần này theo yêu cầu task):**
+
+- 94/2026/NĐ-CP (PARTIAL 13/43) - sẽ crawl ở poll sau
+- 18/2026/TT-BYT (PARTIAL) - sẽ crawl ở poll sau
+
+**Validation:**
+
+- OCR Quality Gate: pass (0 issues nghiêm trọng)
+- Scan cấu trúc: 2/2 Điều đầy đủ (Điều 1, Điều 2), 9/9 biểu mẫu chi tiết (TK01, TK01a, TK02, TK02a, TK03, TK04, TK05, TK06, VB01)
+- Front matter: 9/9 field chuẩn Jekyll (layout, title, date, modified, so_hieu, group, docid, source, tags)
+- Metadata sạch: không có ghi chú crawler/debug
+- Status: chuyển từ "partial" → xóa (file đã full content)
+- Commit message: `van-ban: full 69/2026/TT-BCA (9/9 biểu mẫu chi tiết, luatvietnam.vn)`
+- Branch: `heartbeat/crawl-vanban-20260616` (PR #212)
+
+**Lý do chọn nguồn luatvietnam.vn thay vì PDF bocongan.gov.vn:**
+
+- 9 biểu mẫu chứa nhiều ký tự đặc biệt (□, ¨, ...), layout phức tạp → OCR PDF dễ sinh lỗi noise
+- luatvietnam.vn đã OCR sạch từ PDF chính thức, định dạng text ổn định
+- Theo task yêu cầu: "KHÔNG CẦN tìm PDF - biểu mẫu khó OCR, dùng nguồn luatvietnam.vn (cleaner)"
