@@ -368,7 +368,76 @@ Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
 
 **Không hỏi Sếp giữa chừng. Không dừng để chờ phản hồi.**
 
-### 4.5. Quản lý vòng đời đệ
+### 4.5. Đánh giá tình trạng sub-agent khi task bắt đầu (cập nhật 2026-06-16)
+
+Khi cron `crawl-vanban` đánh thức Bột ở đầu mỗi poll, **trước khi quyết định hành động tiếp theo**, Bột phải đánh giá tình trạng các đệ (sub-agent) đang hoạt động để quyết định kill hay giữ lại.
+
+**Quy trình bắt buộc:**
+
+1. Chạy `subagents` (không truyền tham số, hoặc `subagents action=list recentMinutes=30`) để liệt kê:
+   - Sub-agent `active` (đang chạy)
+   - Sub-agent `recent` trong 30 phút gần nhất
+
+2. Với **mỗi** sub-agent đang active, đánh giá theo tiêu chí:
+
+| Tiêu chí | Cách kiểm tra | Ngưỡng stale |
+|----------|---------------|--------------|
+| Thời gian chạy | `startedAt` → hiện tại | > 50% timeout đã set mà không có output mới |
+| Có output mới trong 10 phút gần nhất | `endedAt` hoặc `lastMessage` | Không có output > 10 phút |
+| Vượt quá timeout đã set | `runtimeMs` > `timeoutSeconds * 1000` | > 100% timeout |
+| Sub-agent cũ từ poll trước | `startedAt` < `(poll_hiện_tại - 30 phút)` | Tồn tại > 1 chu kỳ poll |
+| Sub-agent quá cũ từ poll cách đây > 2 | `startedAt` < `(poll_hiện_tại - 60 phút)` | Stale nghiêm trọng |
+
+3. **Quyết định:**
+
+| Tình trạng | Hành động |
+|------------|-----------|
+| Sub-agent active, < 50% timeout, có output mới < 10 phút | **GIỮ LẠI**, đợi completion. Báo cáo Sếp "đang chờ đệ X (đã chạy Y phút/Z timeout)". KHÔNG spawn thêm đệ mới cùng chức năng. |
+| Sub-agent active, > 50% timeout hoặc không có output mới > 10 phút | **CÂN NHẮC KILL**: đánh giá xem work còn lại có thể hoàn thành trong thời gian còn lại không. Nếu nghi ngờ → KILL, báo cáo Sếp lý do. |
+| Sub-agent active, > 100% timeout | **BẮT BUỘC KILL**. Sub-agent đã quá hạn. |
+| Sub-agent recent (< 30 phút) đã completed | BỎ QUA (đã xử lý ở poll trước). |
+| Sub-agent recent (< 30 phút) failed/cancelled | **GIỮ LẠI THÔNG TIN TRONG MEMORY** (không retry ngay). Báo cáo Sếp "đệ X fail, không retry". |
+| Sub-agent cũ > 2 polls (> 60 phút), không nằm trong recent 30 phút | **STALE NGHIÊM TRỌNG**: Kill nếu vẫn còn active, ghi log memory. |
+
+4. **Báo cáo cho Sếp** khi poll kết thúc phải liệt kê rõ:
+
+```
+- Sub-agent đang active: <id> <taskName> <runtime>/<timeout> <trạng thái: healthy/stale>
+- Hành động: giữ/kill/lý do
+- Sub-agent mới spawn: <id> <taskName> <runtime> <scope>
+```
+
+5. **Nguyên tắc:**
+
+- Bột tự quyết định kill hay giữ dựa trên tiêu chí trên. KHÔNG cần hỏi Sếp giữa chừng.
+- Kill sub-agent qua `sessions_send` với message yêu cầu dừng, hoặc dùng `process kill` nếu biết sessionId.
+- Khi kill vì stale, BẮT BUỘC ghi log `memory/YYYY-MM-DD.md` kèm: sessionKey, taskName, runtime, lý do kill, work đã làm (nếu có), work còn lại cần làm lại.
+- Khi kill, nếu work còn dang dổ → đánh dấu trong `documents/LEGISLATION_TRACKING.md` (ví dụ: "Stub - đệ crawl X timeout tại poll Y, cần retry") rồi mới xử lý văn bản khác ở poll kế tiếp.
+- Ưu tiên GIỮ LẠI sub-agent nếu work gần xong (> 80% output, chỉ còn verify + commit). Ví dụ: sub-agent crawl 9m30s/10m timeout, đã có file output → giữ thêm 1-2 phút, kill nếu quá timeout.
+- Nếu không xác định được tình trạng sub-agent (API lỗi, list rỗng), coi như sub-agent KHÔNG tồn tại và tiếp tục workflow bình thường. Ghi log warning trong memory.
+
+**Ví dụ áp dụng:**
+
+- Poll 09:26: Sub-agent `crawler-94-nd-cp` chạy 12 phút / 15 phút timeout, đã có file 76KB untracked → GIỮ LẠI, đợi commit + push.
+- Poll 09:56: Sub-agent `crawler-94-nd-cp` vẫn chạy 17 phút / 15 phút timeout, không có output mới 7 phút → KILL, đánh dấu stub.
+- Poll 10:26: Sub-agent `reviewer-20260616-0856` đã completed 30 phút trước → BỎ QUA (đã xử lý ở poll 09:05).
+
+**Bắt buộc đọc mục 4.5 trước khi xử lý bất kỳ poll nào.**
+
+---
+
+## 5. Lịch sử cập nhật HEARTBEAT.md
+
+| Ngày | Thay đổi |
+|------|----------|
+| 2026-06-07 | Thêm mục 4.4 - hành vi mặc định của Bột khi cron chạy |
+| 2026-06-16 | Thêm mục 4.5 - đánh giá stale sub-agent + quyết định kill/giữ |
+
+---
+
+## 6. Quản lý vòng đời đệ (legacy - tích hợp vào 4.5)
+
+> Phần này được tích hợp đầy đủ vào mục 4.5. Giữ lại ở đây chỉ để tham chiếu nhanh.
 
 Khi cron `crawl-vanban` chạy, Bột kiểm tra trạng thái đệ đang chạy:
 
