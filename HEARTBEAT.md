@@ -74,16 +74,17 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
 
 - Mục đích: Duyệt các văn bản đã có đầy đủ nội dung hoặc được đánh dấu "Hoàn thiện" trong tracking. **Đồng thời chịu trách nhiệm phát hiện file cần refactor trong `van-ban/`** (metadata "Đang cập nhật", file < 10KB, lastedit > 7 ngày).
 - Quy trình:
-  1. Kiểm tra PR đang mở: lấy danh sách văn bản đang được cập nhật trong PR
-  2. Quét `van-ban/` để tìm file có nội dung đầy đủ
-  3. Quét `van-ban/` để phát hiện file cần refactor (metadata "Đang cập nhật", < 10KB, lastedit > 7 ngày) - đánh dấu trong `documents/LEGISLATION_TRACKING.md`
-  4. Đọc `documents/LEGISLATION_TRACKING.md` để lấy các văn bản "Hoàn thiện"
-  5. **Bỏ qua các văn bản đang có PR mở** (tạm thời không review để tránh xung đột)
-  6. Review liên tục 5 văn bản/lần (loại trừ văn bản đang có PR), toàn bộ nội dung trong van-ban
-  7. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
-  8. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
-- Output: Báo cáo cho Bột các văn bản cần review + danh sách file cần refactor (loại trừ văn bản đang có PR mở)
+  1. Quét `van-ban/` để tìm file có nội dung đầy đủ
+  2. Quét `van-ban/` để phát hiện file cần refactor (metadata "Đang cập nhật", < 10KB, lastedit > 7 ngày) - đánh dấu trong `documents/LEGISLATION_TRACKING.md`
+  3. Đọc `documents/LEGISLATION_TRACKING.md` để lấy các văn bản "Hoàn thiện"
+  4. Review liên tục 5 văn bản/lần, toàn bộ nội dung trong van-ban
+  5. Đọc `documents/OCR_QUALITY_GATE.md` và chạy lại OCR quality gate cho từng văn bản được review
+  6. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
+  7. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
+- Output: Báo cáo cho Bột các văn bản cần review + danh sách file cần refactor + kết quả OCR quality gate
 - Bột quyết định: File OK -> không cần xử lý; File cần bổ sung/refactor -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp
+- Lưu ý: Đệ #4 KHÔNG cần kiểm tra PR đang mở. PR là output, không ảnh hưởng quyết định review.
+
 ### 2.3. Quy trình thực thi
 
 ```
@@ -345,7 +346,8 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 - Bột tự gọi đệ #1 và đệ #4 song song khi không còn task/ không biết làm gì
 - Bột tự quyết định mọi hành động trong vòng lặp cron (không hỏi Sếp, không chờ phê duyệt giữa các bước)
 - Báo cáo tổng hợp cho Sếp sau khi hoàn thành chuỗi công việc (hoặc khi có PR cần review)
-- KHÔNG tự động tạo PR- KHÔNG tự động merge
+- KHÔNG tự động tạo PR rời theo từng file/văn bản. Chỉ tạo PR heartbeat mới khi chưa có PR active hoặc khi PR active gặp sự cố theo mục 2.5
+- KHÔNG tự động merge
 - Crawl liên tục, nếu có thắc mắc có nên crawl hay không thì gọi Đệ #4 review rồi Bột tự quyết định
 - Gọi nhiều đệ thực hiện song song
 
@@ -353,14 +355,101 @@ Cron job gọi task `crawl-vanban` mỗi 30 phút:
 
 Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
 
-1. Đọc `HEARTBEAT.md` mục 2 và `documents/LEGISLATION_TRACKING.md`.
-2. Kiểm tra PR đang mở.
-3. **Tự quyết định** theo luật ưu tiên:
-   - Có file chưa hoàn thiện + văn bản đó không có PR mở → gọi Đệ #3 để tạo PR mới (mỗi lần 1 văn bản). Văn bản đang có PR mở thì BỎ QUA, chuyển sang văn bản tiếp theo.
+1. Đọc `HEARTBEAT.md` mục 2, mục 4.5 và `documents/LEGISLATION_TRACKING.md`.
+2. **Quản lý vòng đời đệ theo mục 4.5 trước khi gọi thêm đệ mới**:
+   - Liệt kê active/recent sub-agent.
+   - Xử lý completion/fail chưa được ghi nhận.
+   - Kill/giữ các đệ stale theo tiêu chí 4.5.
+   - Ghi kết quả vào memory để đưa vào báo cáo cuối.
+3. Kiểm tra PR heartbeat active đang mở theo mục 2.5.
+4. **Tự quyết định** theo luật ưu tiên:
+   - Có file chưa hoàn thiện trong tracking → xác định/tạo PR heartbeat active theo mục 2.5, rồi gọi Đệ #3 xử lý 1 văn bản và commit/push vào PR active. Văn bản đã nằm trong PR active/open thì BỎ QUA, chuyển sang văn bản tiếp theo.
    - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
-   - Có PR mở → vẫn tiếp tục vòng lặp với văn bản khác; PR đang mở chỉ loại trừ văn bản đó khỏi review/crawl tiếp theo. Trong báo cáo liệt kê danh sách PR đang chờ Sếp review.
-   - Tracking đầy đủ + không có file cần refactor + không có PR → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
-4. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR chờ review).
-5. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
+   - Tracking đầy đủ + không có file cần refactor → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
+5. Nếu có commit/push vào PR active, bắt buộc cập nhật PR title/body/comment theo mục 2.6 trước khi báo cáo Sếp.
+6. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR đang chờ review, link comment PR mới nhất nếu có, kết quả xử lý completion/kill/spawn đệ).
+7. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
 
 **Không hỏi Sếp giữa chừng. Không dừng để chờ phản hồi.**
+
+### 4.5. Đánh giá tình trạng sub-agent khi task bắt đầu (cập nhật 2026-06-16)
+
+Khi cron `crawl-vanban` đánh thức Bột ở đầu mỗi poll, **trước khi quyết định hành động tiếp theo**, Bột phải đánh giá tình trạng các đệ (sub-agent) đang hoạt động để quyết định kill hay giữ lại.
+
+**Quy trình bắt buộc:**
+
+1. Chạy `subagents` (không truyền tham số, hoặc `subagents action=list recentMinutes=30`) để liệt kê:
+   - Sub-agent `active` (đang chạy)
+   - Sub-agent `recent` trong 30 phút gần nhất
+
+2. Với **mỗi** sub-agent đang active, đánh giá theo tiêu chí:
+
+| Tiêu chí | Cách kiểm tra | Ngưỡng stale |
+|----------|---------------|--------------|
+| Thời gian chạy | `startedAt` → hiện tại | > 50% timeout đã set mà không có output mới |
+| Có output mới trong 10 phút gần nhất | `endedAt` hoặc `lastMessage` | Không có output > 10 phút |
+| Vượt quá timeout đã set | `runtimeMs` > `timeoutSeconds * 1000` | > 100% timeout |
+| Sub-agent cũ từ poll trước | `startedAt` < `(poll_hiện_tại - 30 phút)` | Tồn tại > 1 chu kỳ poll |
+| Sub-agent quá cũ từ poll cách đây > 2 | `startedAt` < `(poll_hiện_tại - 60 phút)` | Stale nghiêm trọng |
+
+3. **Quyết định:**
+
+| Tình trạng | Hành động |
+|------------|-----------|
+| Sub-agent active, < 50% timeout, có output mới < 10 phút | **GIỮ LẠI**, đợi completion. Báo cáo Sếp "đang chờ đệ X (đã chạy Y phút/Z timeout)". KHÔNG spawn thêm đệ mới cùng chức năng. |
+| Sub-agent active, > 50% timeout hoặc không có output mới > 10 phút | **CÂN NHẮC KILL**: đánh giá xem work còn lại có thể hoàn thành trong thời gian còn lại không. Nếu nghi ngờ → KILL, báo cáo Sếp lý do. |
+| Sub-agent active, > 100% timeout | **BẮT BUỘC KILL**. Sub-agent đã quá hạn. |
+| Sub-agent recent (< 30 phút) đã completed | **KIỂM TRA ĐÃ XỬ LÝ CHƯA**. Nếu chưa có marker `processed/done` trong memory hoặc chưa tổng hợp output vào PR/tracking/report thì phải đọc output, cập nhật đầy đủ rồi mới đánh dấu processed. Chỉ BỎ QUA khi đã xác nhận completion này đã được xử lý. |
+| Sub-agent recent (< 30 phút) failed/cancelled | **KIỂM TRA ĐÃ GHI NHẬN CHƯA**. Nếu chưa có marker `processed/failed` thì đọc lỗi, ghi memory, báo cáo Sếp "đệ X fail, không retry". Không retry ngay trong cùng poll. |
+| Sub-agent cũ > 2 polls (> 60 phút), không nằm trong recent 30 phút | **STALE NGHIÊM TRỌNG**: Kill nếu vẫn còn active, ghi log memory. |
+
+4. **Báo cáo cho Sếp** khi poll kết thúc phải liệt kê rõ:
+
+```
+- Sub-agent đang active: <id> <taskName> <runtime>/<timeout> <trạng thái: healthy/stale>
+- Hành động: giữ/kill/lý do
+- Sub-agent mới spawn: <id> <taskName> <runtime> <scope>
+```
+
+5. **Nguyên tắc:**
+
+- Bột tự quyết định kill hay giữ dựa trên tiêu chí trên. KHÔNG cần hỏi Sếp giữa chừng.
+- Kill sub-agent qua công cụ quản lý session/sub-agent hiện có của runtime (`sessions_send` với message yêu cầu dừng, `subagents kill`, hoặc `process kill` nếu biết sessionId). Nếu runtime không có đúng tên tool nêu trên, dùng công cụ tương đương đang được expose trong session.
+- Khi kill vì stale, BẮT BUỘC ghi log `memory/YYYY-MM-DD.md` kèm: sessionKey, taskName, runtime, lý do kill, work đã làm (nếu có), work còn lại cần làm lại.
+- Khi completion/fail được xử lý xong, BẮT BUỘC ghi marker `processed/done` hoặc `processed/failed` kèm sessionKey vào `memory/YYYY-MM-DD.md`. Đây là điều kiện để poll sau được phép bỏ qua sub-agent recent.
+- Khi kill, nếu work còn dang dở → đánh dấu trong `documents/LEGISLATION_TRACKING.md` (ví dụ: "Stub - đệ crawl X timeout tại poll Y, cần retry") rồi mới xử lý văn bản khác ở poll kế tiếp.
+- Ưu tiên GIỮ LẠI sub-agent nếu work gần xong (> 80% output, chỉ còn verify + commit). Ví dụ: sub-agent crawl 9m30s/10m timeout, đã có file output → giữ thêm 1-2 phút, kill nếu quá timeout.
+- Nếu không xác định được tình trạng sub-agent (API lỗi, list rỗng), coi như sub-agent KHÔNG tồn tại và tiếp tục workflow bình thường. Ghi log warning trong memory.
+
+**Ví dụ áp dụng:**
+
+- Poll 09:26: Sub-agent `crawler-94-nd-cp` chạy 12 phút / 15 phút timeout, đã có file 76KB untracked → GIỮ LẠI, đợi commit + push.
+- Poll 09:56: Sub-agent `crawler-94-nd-cp` vẫn chạy 17 phút / 15 phút timeout, không có output mới 7 phút → KILL, đánh dấu stub.
+- Poll 10:26: Sub-agent `reviewer-20260616-0856` đã completed 30 phút trước → kiểm tra memory. Nếu đã có `processed/done: reviewer-20260616-0856` thì BỎ QUA; nếu chưa có marker thì đọc output, cập nhật PR/tracking/report, ghi `processed/done` rồi mới tiếp tục.
+
+**Bắt buộc đọc mục 4.5 trước khi xử lý bất kỳ poll nào.**
+
+---
+
+## 5. Lịch sử cập nhật HEARTBEAT.md
+
+| Ngày | Thay đổi |
+|------|----------|
+| 2026-06-07 | Thêm mục 4.4 - hành vi mặc định của Bột khi cron chạy |
+| 2026-06-16 | Thêm mục 4.5 - đánh giá stale sub-agent + quyết định kill/giữ |
+
+---
+
+## 6. Quản lý vòng đời đệ (legacy - đã thay thế bởi 4.5)
+
+> Mục này chỉ giữ lại để đánh dấu lịch sử. Không còn là quy tắc vận hành.
+> Khi có xung đột, **mục 4.5 là chuẩn duy nhất**.
+
+Quy tắc legacy cũ từng dùng ngưỡng "đệ chạy > 1 tiếng" để coi là stale và spawn lại ngay. Quy tắc này đã được thay bằng mục 4.5 vì không đủ an toàn cho cron `crawl-vanban` chạy mỗi 30 phút.
+
+Các thay đổi chính trong quy tắc mới:
+
+- Không spawn lại mù sau khi kill/fail; phải ghi nhận trạng thái và xử lý ở poll kế tiếp.
+- Không bỏ qua `completed recent` nếu chưa có marker `processed/done` trong memory.
+- Không chỉ dựa vào ngưỡng 1 tiếng; phải xét runtime/timeout, output mới, poll cycle và completion marker.
+- Mọi quyết định kill/giữ/xử lý completion phải được đưa vào báo cáo cuối poll.
