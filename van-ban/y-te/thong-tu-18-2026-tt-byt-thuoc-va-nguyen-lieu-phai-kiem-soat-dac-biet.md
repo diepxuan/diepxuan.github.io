@@ -36,9 +36,6 @@ status_note: "Đã lấy đầy đủ 5/5 Chương, 19/19 Điều, 19/19 Phụ l
 pdf_url: "https://congbaocdn.chinhphu.vn/180507251028987904/2026/6/12/469674-1781254593_v1_1781258925_signed.pdf"
 ---
 
-status_note: "Đã lấy 4/5 Chương, 8/19 Điều từ luatvietnam.vn. Chương V (Điều 10-19) và 19 Phụ lục chưa lấy được từ nguồn hiện có. Cần bổ sung ở phiên sau khi có PDF chính thức hoặc nguồn thay thế."
----
-
 # Thông tư 18/2026/TT-BYT quy định chi tiết một số điều của Luật Dược và Nghị định 163/2025/NĐ-CP về thuốc và nguyên liệu làm thuốc phải kiểm soát đặc biệt
 
 ## Thông tin văn bản
@@ -529,11 +526,6 @@ Trong quá trình thực hiện, nếu có vướng mắc, để nghị cơ quan
 nhân phản ánh kịp thời về Bộ Y tế (Cục Quản lý Dược - Bộ Y tế) để nghiên cứu,
 giải quyết./.
 
-KT. BỘ TRƯỞNG
-THỨ TRƯỞNG
-
-Nguyễn Tri Thức
-
 ---
 
 **Người ký:**
@@ -554,64 +546,27 @@ Nội dung 19 Phụ lục ban hành kèm theo Thông tư này.
 
 DANH MỤC PHỤ LỤC
 
-STT |SỐ PHỤ LỤC TÊN PHỤ LỤC
-1 Phụ lục I Danh mục dược chất gây nghiện
-2 Phụ lục II | Danh mục dược chất hướng thần
-3 Phụ lục III | Danh mục tiền chất dùng làm thuốc
-4 Phụ lục IV Bảng giới hạn nông độ, hàm lượng dược chât gây nghiện
-rong thuốc dạng phôi hợp
-s Phụ lục V Bảng giới hạn nông độ, hàm lượng dược chât hướng thần
-rong thuốc dạng phôi hợp
-Bảng giới hạn nồng độ, hàm lượng tiền chất dùng làm|
-6 Phụ lục VI huốc trong thuốc dạng phối hợp
-Phân loại thuốc gây nghiện, thuốc hướng thần, thuốc tiền
-Phụ lục VI chất, thuốc dạng phối hợp có chứa dược chất gây nghiện,
-7 Ti thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc
-dạng phối hợp có chứa tiền chất
-Sổ theo dõi xuất „ nhập, tồn kho thuốc gây nghiện; thuốc
-hướng thần; thuốc tiền chất; nguyên liệu làm thuốc là được
-8 Phụ lục VIII chất gây nghiện, dược chất hướng thần, tiền chất dùng làm
-huôc; thuộc phóng xạ
-Báo cáo xuất, nhập, tồn kho, sử dụng thuốc gây nghiện,
-9 Phụ lụcIX |thuốc hướng thần, thuốc tiền chất, thuốc phóng xạ, thuốc
-đạng phối hợp có chứa tiền chất
-Báo cáo tình hình sử dụng thuốc gây nghiện, thuốc hướng
-10 Phụ lục X hân, thuốc tiền chất, thuốc phóng xạ, thuốc dạng phôi hợp
-có chứa tiên châ
-Báo cáo trong trường hợp thất thoát, nhằm lẫn thuốc gây|
-nghiện; thuốc hướng thần; thuốc tiền chất; thuốc phóng xạ;
-11 Phụ lục XI |thuộc dạng phôi hợp có chứa tiền chất; nguyên liệu làm
-thuốc chứa dược chât gây nghiện, dược chât hướng thần,
-tiền chất dùng làm thuốc
-2 Phụ lục XII la lĩnh thuốc, nguyên liệu làm thuốc phải kiêm soát đặc
-13 | Phụ lục XII | Báo cáo về việc cung cấp thuốc phóng xạ
-14 | Phụ lục XIV Sổ theo dõi sản xuât, pha chê thuốc gây nghiện, thuôc|
-
-hướng thần, thuốc tiền chất
-
-Phụ lục XV
-Phiếu xuất kho thuốc gây nghiện; thuốc hướng thần; thuốc
-tiền chất; thuốc phóng xạ; nguyên liệu làm thuộc là dược
-chât gây nghiện, dược chât hướng thần, tiền chất dùng làm|
-thuốc
-
-Phụ lục XVI
-Sổ theo dõi xuất, nhập, tồn kho thuốc dạng phối hợp có
-chứa dược chất gây nghiện. thuốc dạng phôi hợp có chứa)
-dược chất hướng thần, thuốc dạng phối hợp có chứa tiền|
-chất, thuốc độc, nguyên liệu độc làm thuốc, thuốc và được
-chất! trong Danh mục thuốc, dược chất thuộc danh mục chất
-bị cấm sử dụng trong một số ngành, lĩnh vực
-
-Phụ lục XVII
-Sổ theo dõi sản xuất, pha chế thuốc phóng xạ
-
-Phụ lục XVIII
-Biên bản nhận lại thuốc gây nghiện, thuốc hướng thần,
-thuốc tiền chất
-
-Phụ lục XIX
-Sổ theo dõi thông tin chi tiết khách hàng
+| STT | Số phụ lục | Tên phụ lục |
+|---:|---|---|
+| 1 | Phụ lục I | Danh mục dược chất gây nghiện |
+| 2 | Phụ lục II | Danh mục dược chất hướng thần |
+| 3 | Phụ lục III | Danh mục tiền chất dùng làm thuốc |
+| 4 | Phụ lục IV | Bảng giới hạn nồng độ, hàm lượng dược chất gây nghiện trong thuốc dạng phối hợp |
+| 5 | Phụ lục V | Bảng giới hạn nồng độ, hàm lượng dược chất hướng thần trong thuốc dạng phối hợp |
+| 6 | Phụ lục VI | Bảng giới hạn nồng độ, hàm lượng tiền chất dùng làm thuốc trong thuốc dạng phối hợp |
+| 7 | Phụ lục VII | Phân loại thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất |
+| 8 | Phụ lục VIII | Mẫu sổ theo dõi xuất, nhập, tồn kho thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc phóng xạ |
+| 9 | Phụ lục IX | Mẫu báo cáo xuất, nhập, tồn kho, sử dụng thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc phóng xạ, thuốc dạng phối hợp có chứa tiền chất |
+| 10 | Phụ lục X | Mẫu báo cáo tình hình sử dụng thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc phóng xạ, thuốc dạng phối hợp có chứa tiền chất |
+| 11 | Phụ lục XI | Mẫu báo cáo trong trường hợp thất thoát, nhầm lẫn thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc phóng xạ, thuốc dạng phối hợp có chứa tiền chất, nguyên liệu làm thuốc chứa dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc |
+| 12 | Phụ lục XII | Mẫu Phiếu lĩnh thuốc, nguyên liệu làm thuốc phải kiểm soát đặc biệt |
+| 13 | Phụ lục XIII | Mẫu báo cáo về việc cung cấp thuốc phóng xạ |
+| 14 | Phụ lục XIV | Mẫu sổ theo dõi sản xuất, pha chế thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất |
+| 15 | Phụ lục XV | Phiếu xuất kho thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc phóng xạ, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc |
+| 16 | Phụ lục XVI | Sổ theo dõi xuất, nhập, tồn kho thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất, thuốc độc, nguyên liệu độc làm thuốc, thuốc và dược chất trong Danh mục thuốc, dược chất thuộc danh mục chất bị cấm sử dụng trong một số ngành, lĩnh vực |
+| 17 | Phụ lục XVII | Sổ theo dõi sản xuất, pha chế thuốc phóng xạ |
+| 18 | Phụ lục XVIII | Biên bản nhận lại thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất |
+| 19 | Phụ lục XIX | Sổ theo dõi thông tin chi tiết khách hàng |
 
 ### Phụ lục I
 
@@ -1516,8 +1471,9 @@ dùng làm thuốc;
 
 - Không chứa dược chất hướng thần.
 
-### Phụ lục VII
-MẪU SỔ THEO DÕI XUẤT, NHẬP, TÒN KHO THUỐC GÂY NGHIỆN;
+### Phụ lục VIII
+
+MẪU SỔ THEO DÕI XUẤT, NHẬP, TỒN KHO THUỐC GÂY NGHIỆN;
 THUÓC HƯỚNG THÀN; THUÓC TIỀN CHÁT; NGUYÊN LIỆU LÀM
 THUỐC LÀ DƯỢC CHÁT GÂY NGHIỆN, DƯỢC CHÁT HƯỚNG THÀN,
 TIỀN CHÁT DÙNG LÀM THUÓC; THUỐC PHÓNG XẠ
@@ -1717,7 +1673,7 @@ Bộ phận lĩnh thuốc, nguyên liệu làm thuốc:
 STT| Tênthuốc | Hoạt chất,nồng | Đơn vị Số lượng Ghi
 nguyên liệu làm | độ, hàm lượng tính Yêu Phát chú
 thuộc cầu
-Cộng khoản:
+Cộng:
 
 Ngày tháng năm Ngày tháng năm Ngày tháng năm Ngày tháng năm
 
@@ -1733,9 +1689,9 @@ Ghi chú:
 điện tử, người lĩnh, người phát, trưởng bộ phận lĩnh, trưởng bộ phận phát sử dụng các kỹ thuật
 xác nhận điện tử hoặc chữ ký số để ký vào biểu mẫu theo quy định.
 
-### Phụ lục XII
+### Phụ lục XIII
 
-MẪU BÁO CÁO VẺ VIỆC CUNG CÁP THUÓC PHÓNG XẠ
+MẪU BÁO CÁO VỀ VIỆC CUNG CẤP THUỐC PHÓNG XẠ
 (Kèm theo Thông tư số 18/2026/TT-BYT ngày 01 tháng 6 năm 2026
 
 của Bộ trưởng Bộ Y tê)
@@ -1929,7 +1885,7 @@ dấu giáp lai giữa các trang.
 
 (**) Ghi rõ ngày bắt đầu và ngày kết thúc việc sản xuất, pha chế lô thuốc.
 
-### Phụ lục XVII
+### Phụ lục XVIII
 
 MẪU BIÊN BẢN NHẬN LẠI THUỐC GÂY NGHIỆN,
 THUỐC HƯỚNG THÀN, THUÓC TIỀN CHÁT
