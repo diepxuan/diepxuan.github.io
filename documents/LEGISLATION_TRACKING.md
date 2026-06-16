@@ -513,3 +513,21 @@ Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `vanban.chinhphu.vn 
 **Loại trừ (đã có):** 26/2026/TT-BTC (tracking), 06/2026/NĐ-CP (tracking), 20/2026/NĐ-CP (tracking), 37/2026/NĐ-CP (tracking), 272/2025/NĐ-CP (năm 2025), 70/2025/UBTVQH15 (năm 2025), 05/2026/NĐ-CP (rất sớm 2026, có thể đã có trong nguồn khác — không thêm để tránh trùng khi chưa verify).
 
 **Lý do không crawl ngay:** Theo SOUL.md, mỗi task = 1 PR. PR #209 đang chờ Sếp review. Em thêm vào tracking làm hàng chờ; khi Sếp review/merge PR #209, em sẽ crawl tiếp 3 văn bản này.
+
+## Phát hiện mới 2026-06-16 07:26 (phiên Đệ #1 Discovery — heartbeat)
+
+Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `"site:vanban.chinhphu.vn 2026 Nghị định" OR "site:vanban.chinhphu.vn 2026 Nghị quyết"`, 5 kết quả): phát hiện **1 văn bản mới** chưa từng được ghi nhận trong tracking và không có trong PR #209:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 68/2026/NĐ-CP | chưa xác minh | Quy định cụ thể phương pháp tính thuế với cá nhân kinh doanh, hộ kinh doanh | Thuế / Hộ kinh doanh | chưa xác minh | **Chưa có** | URL: chưa xác minh; nguồn: xaydungchinhsach.chinhphu.vn (Chính sách mới, "KÊ KHAI THUẾ 2026: HỘ KINH DOANH HỎI - CỤC THUẾ, CHUYÊN GIA TRẢ LỜI", published ~3 weeks ago); ngày BH, hiệu lực, người ký: chưa xác minh (search snippet không đủ); chờ Sếp review/merge PR #209 rồi crawl chi tiết |
+
+**Loại trừ (đã có trong tracking hoặc PR #209):**
+
+- 26/2026/TT-BTC (tracking - "Đã có 2026-06-16")
+- 192/2026/NĐ-CP (tracking - "Đã có")
+- 66.16/2026/NQ-CP (tracking - "Đã có 2026-06-16")
+- Bài "Những Luật, Nghị quyết có hiệu lực từ tháng 1/2026" (xaydungchinhsach.chinhphu.vn): bài tổng hợp các văn bản đã có hiệu lực từ 1/1/2026 (Luật Đất đai 2024, Luật Ngân sách 2024...) — không phải Nghị định/Nghị quyết mới, loại trừ.
+- Trang "xaydungchinhsach.chinhphu.vn/chinh-sach-moi.htm" landing page: chỉ là index, không cung cấp số hiệu văn bản cụ thể trong snippet.
+
+**Lý do không crawl ngay:** Theo SOUL.md, mỗi task = 1 PR. PR #209 đang chờ Sếp review. Em thêm vào tracking làm hàng chờ; khi Sếp review/merge PR #209, em sẽ crawl tiếp văn bản này (có thể tạo PR mới nếu cần, hoặc commit vào PR active sau khi Sếp cho phép).
