@@ -532,3 +532,20 @@ Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `"site:vanban.chinhp
 - Trang "xaydungchinhsach.chinhphu.vn/chinh-sach-moi.htm" landing page: chỉ là index, không cung cấp số hiệu văn bản cụ thể trong snippet.
 
 **Lý do không crawl ngay:** Theo SOUL.md, mỗi task = 1 PR. PR #209 đang chờ Sếp review. Em thêm vào tracking làm hàng chờ; khi Sếp review/merge PR #209, em sẽ crawl tiếp văn bản này (có thể tạo PR mới nếu cần, hoặc commit vào PR active sau khi Sếp cho phép).
+
+## Phát hiện mới 2026-06-16 07:57 (phiên Đệ #1 Discovery — heartbeat)
+
+Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `site:vanban.chinhphu.vn 2026 Nghị định`, 5 kết quả): phát hiện **1 văn bản mới** chưa từng được ghi nhận trong tracking, không có trong PR #209, không có trong `van-ban/`:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 61/2026/NĐ-CP | chưa xác minh | Quy định về danh mục, việc quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ và quy trình thu thập, sử dụng dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính | Hành chính / Phát hiện VPHC | 216981 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=216981`; cần xác minh ngày ban hành, hiệu lực, người ký, số Chương/Điều; chờ Sếp review/merge PR #209 rồi crawl |
+
+**Loại trừ (đã có trong tracking hoặc PR #209):**
+
+- 26/2026/TT-BTC (tracking - "Đã có 2026-06-16", docid=217323)
+- 20/2026/NĐ-CP (tracking - "Đã có", docid=216660)
+- 68/2026/NĐ-CP (tracking - "Đã có 2026-06-06", file trong PR #209, docid=217111)
+- 49/2026/NĐ-CP (tracking - "Đã có", docid=216860)
+
+**Lý do không crawl ngay:** Theo SOUL.md, mỗi task = 1 PR. PR #209 đang chờ Sếp review. Em thêm vào tracking làm hàng chờ; khi Sếp review/merge PR #209, em sẽ crawl tiếp văn bản này.
