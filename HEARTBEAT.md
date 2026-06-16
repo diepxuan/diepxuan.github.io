@@ -70,9 +70,9 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
   9. Commit kết quả vào PR heartbeat active với message rõ văn bản/tác vụ
 - Output: File hoàn chỉnh đã qua OCR quality gate + commit cập nhật vào PR heartbeat active, chờ Sếp review
 
-**Đệ #4: Content Reviewer**
+**Đệ #4: Content Reviewer + PR Comment Reviewer**
 
-- Mục đích: Duyệt các văn bản đã có đầy đủ nội dung hoặc được đánh dấu "Hoàn thiện" trong tracking. **Đồng thời chịu trách nhiệm phát hiện file cần refactor trong `van-ban/`** (metadata "Đang cập nhật", file < 10KB, lastedit > 7 ngày).
+- Mục đích: Duyệt các văn bản đã có đầy đủ nội dung hoặc được đánh dấu "Hoàn thiện" trong tracking. **Đồng thời chịu trách nhiệm phát hiện file cần refactor trong `van-ban/`** (metadata "Đang cập nhật", file < 10KB, lastedit > 7 ngày). **Đồng thời review comments trong PR đang mở** (các PR heartbeat active + các PR khác đang chờ review), phân tích nội dung từng comment, phân loại và báo cáo cho Bột biết cần xử lý những gì.
 - Quy trình:
   1. Quét `van-ban/` để tìm file có nội dung đầy đủ
   2. Quét `van-ban/` để phát hiện file cần refactor (metadata "Đang cập nhật", < 10KB, lastedit > 7 ngày) - đánh dấu trong `documents/LEGISLATION_TRACKING.md`
@@ -81,9 +81,15 @@ Mỗi task có interval, mô tả, và quy trình rõ ràng.
   5. Đọc `documents/OCR_QUALITY_GATE.md` và chạy lại OCR quality gate cho từng văn bản được review
   6. Phân tích chất lượng: metadata có chính xác không, nội dung có đầy đủ không, có cần cập nhật theo văn bản mới sửa đổi không, lỗi OCR cần chỉnh sửa
   7. Phát hiện file có metadata sai, nội dung lỗi, hoặc văn bản mới sửa đổi cần cập nhật
-- Output: Báo cáo cho Bột các văn bản cần review + danh sách file cần refactor + kết quả OCR quality gate
-- Bột quyết định: File OK -> không cần xử lý; File cần bổ sung/refactor -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp
-- Lưu ý: Đệ #4 KHÔNG cần kiểm tra PR đang mở. PR là output, không ảnh hưởng quyết định review.
+  8. **Review comments trong PR đang mở**:
+     - Liệt kê tất cả PR có state OPEN bằng `gh pr list --state open --json number,title,author,createdAt`
+     - Lấy chi tiết từng comment bằng `gh api repos/<owner>/<repo>/issues/<n>/comments`
+     - Phân tích nội dung: comment nào yêu cầu Sếp review, comment nào chứa action items, comment nào là feedback cần xử lý, comment nào chỉ là thông báo
+     - Phân loại: `Cần xử lý ngay` (action item) / `Chờ Sếp review` (review request) / `Thông báo` (info) / `Đã stale` (cũ >7 ngày)
+     - Báo cáo cho Bột: danh sách comment + phân loại + đề xuất xử lý
+- Output: Báo cáo cho Bột các văn bản cần review + danh sách file cần refactor + kết quả OCR quality gate + **báo cáo PR comments cần xử lý**
+- Bột quyết định: File OK -> không cần xử lý; File cần bổ sung/refactor -> gọi Đệ #3; File cần cập nhật metadata -> sửa trực tiếp; **Comment cần xử lý ngay -> gọi đệ phù hợp hoặc sửa trực tiếp; Comment chờ Sếp review -> đưa vào báo cáo Sếp**
+- Lưu ý: Đệ #4 **CÓ** cần kiểm tra PR đang mở để review comments. PR là output crawl, nhưng comments trên PR có thể chứa action items cần xử lý từ Sếp hoặc người khác.
 
 ### 2.3. Quy trình thực thi
 
@@ -98,7 +104,7 @@ Vòng lặp (Bột quyết định khi nào chạy):
 4. Bột quyết định:
    - Văn bản nào cần hoàn thiện? -> Chọn và gọi Đệ #3
 5. Bột xác định/tạo PR heartbeat active, rồi gọi Đệ #3 (Full Crawler) -> Nhận file hoàn chỉnh + commit trong PR active
-6. Bột push cập nhật vào cùng PR heartbeat active, cập nhật PR title/body/comment theo mục 2.6, rồi báo cáo Sếp chờ review
+6. Bột push cập nhật vào cùng PR heartbeat active, cập nhật PR title/body theo mục 2.6, rồi báo cáo Sếp chờ review
 7. Sau khi duyệt, Bột gọi Đệ #4 (Reviewer) -> Nhận báo cáo (5 văn bản/lần)
 8. Bột quyết định:
    - File OK -> kết thúc
@@ -112,7 +118,7 @@ Vòng lặp (Bột quyết định khi nào chạy):
 | #1 | Discovery & Tracking | 5 văn bản/lần | Cập nhật tracking, báo cáo |
 | #2 | Content Auditor | Báo cáo theo danh mục | Danh sách chưa hoàn thiện |
 | #3 | Full Content Crawler | 1 văn bản / lần | Cập nhật PR heartbeat active, chờ review |
-| #4 | Content Reviewer | 5 văn bản/lần, toàn bộ van-ban | Danh sách cần review |
+| #4 | Content Reviewer + PR Comment Reviewer | 5 văn bản/lần, toàn bộ van-ban + tất cả PR open | Danh sách cần review + báo cáo PR comments |
 
 ### 2.5. Chính sách PR heartbeat active
 
@@ -143,7 +149,7 @@ PR heartbeat active là ngoại lệ được Sếp cho phép so với luật `m
 
 ### 2.6. Bắt buộc cập nhật nội dung PR sau mỗi lần push
 
-Khi heartbeat có commit mới và push vào PR heartbeat active, Bột không được chỉ cập nhật branch. Bột phải cập nhật đồng thời nội dung PR để Sếp review được trạng thái mới nhất.
+Khi heartbeat có commit mới và push vào PR heartbeat active, Bột phải cập nhật đồng thời nội dung PR để Sếp review được trạng thái mới nhất.
 
 Quy trình bắt buộc sau mỗi lần push:
 
@@ -162,16 +168,11 @@ Quy trình bắt buộc sau mỗi lần push:
    - nguồn dữ liệu/PDF đã dùng;
    - kết quả OCR Quality Gate, scan Điều/Chương, placeholder/source check;
    - rủi ro còn lại và phần cần Sếp review.
-3. Post thêm một PR comment cho lần heartbeat vừa chạy:
-   - thời gian chạy theo Asia/Saigon;
-   - commit vừa push;
-   - file thay đổi;
-   - validation đã chạy;
-   - ghi chú review.
-4. Nếu scope thực tế của PR đã thay đổi lớn so với title/body cũ, cập nhật title/body cho khớp diff hiện tại trước khi báo cáo Sếp.
-5. Re-query PR lần cuối sau khi cập nhật body/comment và báo cáo Sếp kèm link PR/comment.
+3. Nếu scope thực tế của PR đã thay đổi lớn so với title/body cũ, cập nhật title/body cho khớp diff hiện tại trước khi báo cáo Sếp.
+4. Re-query PR lần cuối sau khi cập nhật body và báo cáo Sếp kèm link PR.
 
-Nếu cập nhật PR body hoặc PR comment thất bại, Bột phải báo lỗi rõ trong báo cáo cuối. Không được báo `xong` khi branch đã push nhưng nội dung PR chưa được cập nhật.
+Nếu cập nhật PR body thất bại, Bột phải báo lỗi rõ trong báo cáo cuối. Không được báo `xong` khi branch đã push nhưng nội dung PR chưa được cập nhật.
+Mọi thông tin cập nhật chỉ nằm trong PR title/body.
 
 Template PR body heartbeat:
 
@@ -208,26 +209,6 @@ PR heartbeat active cho task `crawl-vanban`.
 ## Lịch sử heartbeat
 
 - `<time>` — `<commit>` — `<summary>`
-```
-
-Template PR comment heartbeat:
-
-```md
-Heartbeat update `<YYYY-MM-DD HH:mm Asia/Saigon>`
-
-Đã push commit `<sha>` vào PR active.
-
-Thay đổi:
-- `<file>`: `<mô tả>`
-
-Validation:
-- `git diff --check`: pass
-- OCR Quality Gate: pass/not applicable
-- Điều/Chương: pass/not applicable
-- Placeholder/source check: pass
-
-Ghi chú review:
-- `<điểm cần Sếp xem>`
 ```
 
 ---
@@ -366,7 +347,7 @@ Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
    - Có file chưa hoàn thiện trong tracking → xác định/tạo PR heartbeat active theo mục 2.5, rồi gọi Đệ #3 xử lý 1 văn bản và commit/push vào PR active. Văn bản đã nằm trong PR active/open thì BỎ QUA, chuyển sang văn bản tiếp theo.
    - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
    - Tracking đầy đủ + không có file cần refactor → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
-5. Nếu có commit/push vào PR active, bắt buộc cập nhật PR title/body/comment theo mục 2.6 trước khi báo cáo Sếp.
+5. Nếu có commit/push vào PR active, bắt buộc cập nhật PR title/body theo mục 2.6 trước khi báo cáo Sếp.
 6. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR đang chờ review, link comment PR mới nhất nếu có, kết quả xử lý completion/kill/spawn đệ).
 7. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
 
@@ -437,6 +418,7 @@ Khi cron `crawl-vanban` đánh thức Bột ở đầu mỗi poll, **trước kh
 |------|----------|
 | 2026-06-07 | Thêm mục 4.4 - hành vi mặc định của Bột khi cron chạy |
 | 2026-06-16 | Thêm mục 4.5 - đánh giá stale sub-agent + quyết định kill/giữ |
+| 2026-06-16 | Bổ sung yêu cầu cho Đệ #4: review comments trong PR đang mở, phân tích, phân loại, báo cáo cho Bột biết cần xử lý những gì. Sửa mục 2.2 Đệ #4 + mục 2.4 tóm tắt đệ. |
 
 ---
 
@@ -449,7 +431,7 @@ Quy tắc legacy cũ từng dùng ngưỡng "đệ chạy > 1 tiếng" để coi
 
 Các thay đổi chính trong quy tắc mới:
 
-- Không spawn lại mù sau khi kill/fail; phải ghi nhận trạng thái và xử lý ở poll kế tiếp.
-- Không bỏ qua `completed recent` nếu chưa có marker `processed/done` trong memory.
-- Không chỉ dựa vào ngưỡng 1 tiếng; phải xét runtime/timeout, output mới, poll cycle và completion marker.
+- Sau khi kill/fail, phải ghi nhận trạng thái và xử lý ở poll kế tiếp.
+- Khi có marker `processed/done` trong memory thì bỏ qua `completed recent`.
+- Phải xét runtime/timeout, output mới, poll cycle và completion marker ưu tiên hơn ngưỡng 1 tiếng.
 - Mọi quyết định kill/giữ/xử lý completion phải được đưa vào báo cáo cuối poll.
