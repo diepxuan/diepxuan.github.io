@@ -98,7 +98,7 @@ Vòng lặp (Bột quyết định khi nào chạy):
 4. Bột quyết định:
    - Văn bản nào cần hoàn thiện? -> Chọn và gọi Đệ #3
 5. Bột xác định/tạo PR heartbeat active, rồi gọi Đệ #3 (Full Crawler) -> Nhận file hoàn chỉnh + commit trong PR active
-6. Bột push cập nhật vào cùng PR heartbeat active, cập nhật PR title/body/comment theo mục 2.6, rồi báo cáo Sếp chờ review
+6. Bột push cập nhật vào cùng PR heartbeat active, cập nhật PR title/body theo mục 2.6, rồi báo cáo Sếp chờ review
 7. Sau khi duyệt, Bột gọi Đệ #4 (Reviewer) -> Nhận báo cáo (5 văn bản/lần)
 8. Bột quyết định:
    - File OK -> kết thúc
@@ -162,16 +162,12 @@ Quy trình bắt buộc sau mỗi lần push:
    - nguồn dữ liệu/PDF đã dùng;
    - kết quả OCR Quality Gate, scan Điều/Chương, placeholder/source check;
    - rủi ro còn lại và phần cần Sếp review.
-3. Post thêm một PR comment cho lần heartbeat vừa chạy:
-   - thời gian chạy theo Asia/Saigon;
-   - commit vừa push;
-   - file thay đổi;
-   - validation đã chạy;
-   - ghi chú review.
-4. Nếu scope thực tế của PR đã thay đổi lớn so với title/body cũ, cập nhật title/body cho khớp diff hiện tại trước khi báo cáo Sếp.
-5. Re-query PR lần cuối sau khi cập nhật body/comment và báo cáo Sếp kèm link PR/comment.
+3. Nếu scope thực tế của PR đã thay đổi lớn so với title/body cũ, cập nhật title/body cho khớp diff hiện tại trước khi báo cáo Sếp.
+4. Re-query PR lần cuối sau khi cập nhật body và báo cáo Sếp kèm link PR.
 
-Nếu cập nhật PR body hoặc PR comment thất bại, Bột phải báo lỗi rõ trong báo cáo cuối. Không được báo `xong` khi branch đã push nhưng nội dung PR chưa được cập nhật.
+Nếu cập nhật PR body thất bại, Bột phải báo lỗi rõ trong báo cáo cuối. Không được báo `xong` khi branch đã push nhưng nội dung PR chưa được cập nhật.
+
+**Không post PR comment cho heartbeat update.** Mọi thông tin cập nhật phải nằm trong PR title/body, không tạo comment riêng cho mỗi lần push.
 
 Template PR body heartbeat:
 
@@ -208,26 +204,6 @@ PR heartbeat active cho task `crawl-vanban`.
 ## Lịch sử heartbeat
 
 - `<time>` — `<commit>` — `<summary>`
-```
-
-Template PR comment heartbeat:
-
-```md
-Heartbeat update `<YYYY-MM-DD HH:mm Asia/Saigon>`
-
-Đã push commit `<sha>` vào PR active.
-
-Thay đổi:
-- `<file>`: `<mô tả>`
-
-Validation:
-- `git diff --check`: pass
-- OCR Quality Gate: pass/not applicable
-- Điều/Chương: pass/not applicable
-- Placeholder/source check: pass
-
-Ghi chú review:
-- `<điểm cần Sếp xem>`
 ```
 
 ---
@@ -366,7 +342,7 @@ Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
    - Có file chưa hoàn thiện trong tracking → xác định/tạo PR heartbeat active theo mục 2.5, rồi gọi Đệ #3 xử lý 1 văn bản và commit/push vào PR active. Văn bản đã nằm trong PR active/open thì BỎ QUA, chuyển sang văn bản tiếp theo.
    - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
    - Tracking đầy đủ + không có file cần refactor → tự động gọi Đệ #1 (Discovery) để tìm văn bản mới.
-5. Nếu có commit/push vào PR active, bắt buộc cập nhật PR title/body/comment theo mục 2.6 trước khi báo cáo Sếp.
+5. Nếu có commit/push vào PR active, bắt buộc cập nhật PR title/body theo mục 2.6 trước khi báo cáo Sếp.
 6. Báo cáo 1 lần cuối cho Sếp trong main session (số PR tạo, số văn bản cập nhật, danh sách PR đang chờ review, link comment PR mới nhất nếu có, kết quả xử lý completion/kill/spawn đệ).
 7. Nếu lỗi → ghi `memory/YYYY-MM-DD.md` rồi reply lỗi; nếu thành công → ghi log ngắn vào `memory/YYYY-MM-DD.md`.
 
@@ -437,6 +413,7 @@ Khi cron `crawl-vanban` đánh thức Bột ở đầu mỗi poll, **trước kh
 |------|----------|
 | 2026-06-07 | Thêm mục 4.4 - hành vi mặc định của Bột khi cron chạy |
 | 2026-06-16 | Thêm mục 4.5 - đánh giá stale sub-agent + quyết định kill/giữ |
+| 2026-06-16 | Bỏ PR comment khỏi mục 2.3 bước 6, 4.4 bước 5, và mục 2.6 - heartbeat chỉ cập nhật title/body, không post comment riêng |
 
 ---
 
