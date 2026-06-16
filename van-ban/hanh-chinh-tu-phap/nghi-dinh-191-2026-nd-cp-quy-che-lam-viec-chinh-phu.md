@@ -41,11 +41,11 @@ Theo đề nghị của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ;
 
 Chính phủ ban hành Nghị định về Quy chế làm việc của Chính phủ.
 
-**Điều 1.** Ban hành kèm theo Nghị định này Quy chế làm việc của Chính phủ.
+### Điều 1. Ban hành kèm theo Nghị định này Quy chế làm việc của Chính phủ.
 
-**Điều 2.** Nghị định này có hiệu lực thi hành từ ngày ký ban hành, thay thế Nghị định số 39/2022/NĐ-CP ngày 18 tháng 6 năm 2022 của Chính phủ ban hành Quy chế làm việc của Chính phủ.
+### Điều 2. Nghị định này có hiệu lực thi hành từ ngày ký ban hành, thay thế Nghị định số 39/2022/NĐ-CP ngày 18 tháng 6 năm 2022 của Chính phủ ban hành Quy chế làm việc của Chính phủ.
 
-**Điều 3.** Các thành viên Chính phủ, Chủ tịch Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố và Thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này.
+### Điều 3. Các thành viên Chính phủ, Chủ tịch Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố và Thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này.
 
 Các bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố ban hành Quy chế làm việc phù hợp với quy định pháp luật và Quy chế làm việc của Chính phủ.
 
