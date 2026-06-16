@@ -149,7 +149,7 @@ PR heartbeat active là ngoại lệ được Sếp cho phép so với luật `m
 
 ### 2.6. Bắt buộc cập nhật nội dung PR sau mỗi lần push
 
-Khi heartbeat có commit mới và push vào PR heartbeat active, Bột không được chỉ cập nhật branch. Bột phải cập nhật đồng thời nội dung PR để Sếp review được trạng thái mới nhất.
+Khi heartbeat có commit mới và push vào PR heartbeat active, Bột phải cập nhật đồng thời nội dung PR để Sếp review được trạng thái mới nhất.
 
 Quy trình bắt buộc sau mỗi lần push:
 
@@ -172,8 +172,7 @@ Quy trình bắt buộc sau mỗi lần push:
 4. Re-query PR lần cuối sau khi cập nhật body và báo cáo Sếp kèm link PR.
 
 Nếu cập nhật PR body thất bại, Bột phải báo lỗi rõ trong báo cáo cuối. Không được báo `xong` khi branch đã push nhưng nội dung PR chưa được cập nhật.
-
-**Không post PR comment cho heartbeat update.** Mọi thông tin cập nhật phải nằm trong PR title/body, không tạo comment riêng cho mỗi lần push.
+Mọi thông tin cập nhật chỉ nằm trong PR title/body.
 
 Template PR body heartbeat:
 
@@ -419,7 +418,6 @@ Khi cron `crawl-vanban` đánh thức Bột ở đầu mỗi poll, **trước kh
 |------|----------|
 | 2026-06-07 | Thêm mục 4.4 - hành vi mặc định của Bột khi cron chạy |
 | 2026-06-16 | Thêm mục 4.5 - đánh giá stale sub-agent + quyết định kill/giữ |
-| 2026-06-16 | Bỏ PR comment khỏi mục 2.3 bước 6, 4.4 bước 5, và mục 2.6 - heartbeat chỉ cập nhật title/body, không post comment riêng |
 | 2026-06-16 | Bổ sung yêu cầu cho Đệ #4: review comments trong PR đang mở, phân tích, phân loại, báo cáo cho Bột biết cần xử lý những gì. Sửa mục 2.2 Đệ #4 + mục 2.4 tóm tắt đệ. |
 
 ---
@@ -433,7 +431,7 @@ Quy tắc legacy cũ từng dùng ngưỡng "đệ chạy > 1 tiếng" để coi
 
 Các thay đổi chính trong quy tắc mới:
 
-- Không spawn lại mù sau khi kill/fail; phải ghi nhận trạng thái và xử lý ở poll kế tiếp.
-- Không bỏ qua `completed recent` nếu chưa có marker `processed/done` trong memory.
-- Không chỉ dựa vào ngưỡng 1 tiếng; phải xét runtime/timeout, output mới, poll cycle và completion marker.
+- Sau khi kill/fail, phải ghi nhận trạng thái và xử lý ở poll kế tiếp.
+- Khi có marker `processed/done` trong memory thì bỏ qua `completed recent`.
+- Phải xét runtime/timeout, output mới, poll cycle và completion marker ưu tiên hơn ngưỡng 1 tiếng.
 - Mọi quyết định kill/giữ/xử lý completion phải được đưa vào báo cáo cuối poll.
