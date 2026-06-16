@@ -122,7 +122,7 @@ trình sản xuất, chế biến, bao gói, bảo quản, vận chuyển và tr
 
 11. Tiêu chuẩn Hlalal là tiêu chuẩn kỹ thuật quy định các yêu cầu và quy
 tắc đối với sản phẩm, dịch vụ hoặc các quá tr ình liên quan 'đến Halal, được một
-tổ chức có thâm quyền công ' bố. Tiêu chuân Halal bao bôm tiêu chuẩn quốc gia,
+tổ chức có thẩm quyền công ' bố. Tiêu chuân Halal bao bôm tiêu chuẩn quốc gia,
 tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài.
 
 12. Chứng nhận Halal là hoạt động đánh giá và cấp chứng nhận để xác
@@ -140,7 +140,7 @@ tiêu chuẩn Halal bởi tổ chức chứng nhận Halal.
 ## Chương II
 YÊU CÀU CHUNG ĐÓI VỚI SẢN PHẨM, DỊCH VỤ HALAI.
 
-### Điều 4. Nguyên: tắc quản lý chất lượng sản phẩm, dịch vụ Haia]
+### Điều 4. Nguyên tắc quản lý chất lượng sản phẩm, dịch vụ Halal
 
 1. Tuân thủ đầy đủ các quy định của pháp luật Việt Nam về chất lượng
 sản phẩm, hàng hóa, an toàn thực phẩm, tiêu chuẩn và quy chuẩn kỹ thuật, bảo
@@ -329,7 +329,7 @@ DỊCH VỤ HALAL
 ### Điều 9. Nguyên tắc hoạt động thủ nghiệm sẵn phẩm Halal
 
 1. Hoạt động thử nghiệm sản phẩm Halal do các tổ chức thử nghiệm được
-cơ quan có thâm quyền cập Giấy chứng nhận đăng ký hoạt động theo pháp luật
+cơ quan có thẩm quyền cập Giấy chứng nhận đăng ký hoạt động theo pháp luật
 về tiêu chuẩn và quy chuẩn kỹ thuật quy định về điều kiện kinh doanh dịch vụ
 đánh giá sự phù hợp thực hiện, trong đó phạm vi đăng ký hoạt động phải bao
 gồm các chỉ tiêu thử nghiệm sản phẩm Halal.
@@ -346,7 +346,7 @@ chéo với các thành phần hoặc sản phẩm không Halal; -
 c) Sử dụng các phương pháp thử đã được công bố hoặc thừa nhận, phủ
 hợp với yêu cầu của tiêu chuẩn mà sản phẩm đó công bố áp dụng.
 
-### Điều 10. Nguyên tắc hoạt động chứng nhận Haial cÍ
+### Điều 10. Nguyên tắc hoạt động chứng nhận Halal
 
 1. Chứng nhận Halal là hoạt động đánh giá sự phù hợp mang - tính tự
 nguyện, được thực hiện theo yêu cầu của tổ chức, cá nhân sản xuất, xuất khẩu
@@ -492,7 +492,7 @@ phải thực hiện thủ tục đăng ký hoạt động chứng nhận theo q
 định số 22/2026/NĐ-CP.
 
 ### Điều 14. Thu hồi Giấy chứng nhận đăng ký hoạt động chứng nhận
-của tố chức chứng nhận Halal
+của tổ chức chứng nhận Halal
 
 1. Tổ chức chứng nhận Halal bị thu hồi Giấy chứng nhận đăng ký hoật
 
@@ -660,8 +660,8 @@ cự thể sau:
 a) Việc duy trì các điều kiện hoạt động đã đăng ký theo quy định tại Điều
 11 của Nghị định này, bao gồm năng lực pháp lý, nhân lực, hệ thống quản lý;
 
-b) Việc tuân thủ phạm vi hoạt động chứng nhận Hala] đã được cợ quan.có
-thâm quyền cấp đăng ký;
+b) Việc tuân thủ phạm vi hoạt động chứng nhận Halal đã được cơ quan có
+thẩm quyền cấp đăng ký;
 
 c) Việc tuân thủ trình tự, thủ tục đánh giá, chứng nhận Halal theo dê
 chuẩn, quy trình đã công bố.và các quy định pháp luật liên quan, đảm bảo tính
@@ -677,7 +677,7 @@ e) Việc thực hiện chế độ báo cáo và tuân thủ các quy định p
 
 về hoạt động đánh giá sự phù hợp.
 
-### Điều 18. Trình tự, thủ tục kiểm tra tố chức, cá nhân sản xuất, kinh
+### Điều 18. Trình tự, thủ tục kiểm tra tổ chức, cá nhân sản xuất, kinh
 đoanh sản phẩm, dịch vụ Halal
 ` I
 
@@ -687,7 +687,7 @@ nhân sản xuất, kinh doanh sản phẩm, dịch vụ Halal được thực h
 phủ về hoạt động kiểm tra chuyên ngành và quy định của pháp luật về chật
 
 lượng sản phẩm, hàng hóa. Ị
-Điều 19. Trình tự, thủ tục kiểm tra tổ chức chứng nhận Halal
+### Điều 19. Trình tự, thủ tục kiểm tra tổ chức chứng nhận Halal
 
 Trình tự, thủ tục kiểm tra việc chấp hành pháp luật đối với tổ chức chứng
 nhận Halal được thực hiện theo các quy định tại Nghị định số 217/2025/NĐ-CP
@@ -698,7 +698,7 @@ và quy định của pháp luật về chất lượng sản phẩm, hàng hóa
 
 15
 
-- Điều 20. Xử riý vi phạm. hành chính
+### Điều 20. Xử lý vi phạm hành chính
 
 1.Tổ chức, cá nhân có hành vị vi phạm các quy. định trong Nghị định này
 và các quy định pháp luật khác có liên quan đến sản xuất, kinh doanh, thử
@@ -717,7 +717,7 @@ có liên quan. :
 CHÍNH SÁCH HỖ TRỢ, THÚC ĐÂY PHÁT TRIÊỄN
 SẢÁN PHẢM, DỊCH VỤ HALAL
 
-### Điều 21. Chính sách về hợp tác quốc. đc
+### Điều 21. Chính sách về hợp tác quốc tế
 
 1. Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ Ngoại giao thực
 hiện ký kết các thỏa thuận thừa nhận lẫn nhau (MRA} về kết quả đánh giá sự
@@ -786,7 +786,7 @@ pháp luật về hễ trợ doanh nghiệp nhỏ và vừa.
 ## Chương VI
 TÓ CHỨC THỰC HIỆN
 
-### Điều 24. Trách nhiệm quản lý nhà nước về sản phẩm, dịch vụ Hala]
+### Điều 24. Trách nhiệm quản lý nhà nước về sản phẩm, dịch vụ Halal
 1. Bộ Khoa học và Công nghệ
 
 a) Chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà
@@ -869,7 +869,7 @@ sản phẩm, dịch vụ Halal;
 
 b) Chủ trì, phối hợp với các bộ, cơ quan liên quan triển khai các biện pháp
 phòng ngừa, phát hiện, ngăn chặn, đâu tranh và xử lý nghiêm các hành vi vị
-phạm pháp luật liên quan đến sản phẩm, dịch vụ Halal theo thâm quyền.
+phạm pháp luật liên quan đến sản phẩm, dịch vụ Halal theo thẩm quyền.
 
 7. Bộ Dân tộc và Tôn giáo
 
@@ -917,7 +917,7 @@ chuân quốc gia về Halal trên địa bàn. nhấn
 
 2. Chỉ đạo các Sở, ban, ngành và Ủy ban nhân dân các cấp trực thuộc thực
 hiện công tác kiêm tra, giải quyết khiêu nại, tô cáo và xử lý vi phạm pháp luật
-về Halal theo thâm quyền và quy định của pháp luật. .
+về Halal theo thẩm quyền và quy định của pháp luật. .
 
 _ 3.Tổ chức hoặc chỉ đạo tổ chức kiểm tra việc chấp hành pháp luật về Halal
 đôi với các tổ chức, cá nhân hoạt động trên địa bàn; xử lý vi phạm hành chính
@@ -971,7 +971,7 @@ d) Chủ động tổ chức hoặc phối hợp. tổ chức các hoạt độn
 chuyên đề về Halal để thu hút các nhà đầu tư trong và ngoài nước có tiềm bài
 công nghệ và kinh nghiệm. I
 
-### Điều 26. Trách nhiệm của tổ chức, cá nhân có hoạt động liên quan: đến
+### Điều 26. Trách nhiệm của tổ chức, cá nhân có hoạt động liên quan đến sản phẩm, dịch vụ Halal
 sản phẩm, dịch vụ Halal ' |
 
 1. Các tổ chức thử nghiệm, chứng nhận sản phẩm, dịch vụ Halal có

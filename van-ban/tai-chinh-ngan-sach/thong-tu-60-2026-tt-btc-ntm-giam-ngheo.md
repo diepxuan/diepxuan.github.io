@@ -82,7 +82,7 @@ phát triển kinh tế xã hội vùng đông bào dân tộc thiểu số và 
 2026 - 2035, giai đoạn I: từ năm 2026 đến năm 2030.
 2
 
-## Chương II
+## Chương I
 QUY ĐỊNH CHUNG
 
 ### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
@@ -116,7 +116,7 @@ khoản này;
 d) Thông tư này không áp dụng đổi với:
 
 - Các khoản tài trợ, viện trợ thuộc ngân sách nhà nước đã có hướng dẫn
-riêng của cập có thâm quyền về chê độ chỉ tiêu tài chính;
+riêng của cấp có thẩm quyền về chế độ chỉ tiêu tài chính;
 
 - Các nội dung hoạt động của các Nội dung, Nội dung thành phần thuộc
 Chương trình được bồ trí từ nguồn vốn đầu tư phát triển thực hiện theo quy định
@@ -164,7 +164,7 @@ ngân sách nhà nước và pháp luật chuyên ngành có liên quan; đảm 
 định tại Điều 4 Nghị định sô 358/2025/NĐ-CP.
 
 Các nhiệm vụ theo quy định tại Điều 40 Luật Ngân sách nhà nước được
-cấp có thâm quyền quyết định bó trí vốn từ nguồn kinh phí chỉ thường xuyên,
+cấp có thẩm quyền quyết định bố trí vốn từ nguồn kinh phí chỉ thường xuyên,
 thực hiện theo quy định tại Nghị định số 104/2026/NĐ-CP ngày 31 tháng 3 năm
 2026 của Chính phủ quy định việc lập dự toán, quản lý, sử dụng và quyết toán chỉ
 thường xuyên đề thực hiện các nhiệm vụ quy định tại Điều 40 Luật Ngân sách
@@ -600,7 +600,7 @@ thẩm định kinh phí thực hiện nhiệm vụ khoa học và công nghệ 
 - Chi giải thưởng cho các sản phẩm đạt sao. Mức chỉ các giải thưởng đạt 5
 sao, 4 sao, 3 sao tương ứng với 15 triệu đồng/giải; 10 triệu đồng/giải; 8 triệu
 đồng/giải. Số lượng các giải thưởng thực hiện theo quyết định công nhận sản
-phẩm OCOP được cấp có thâm quyền phê duyệt. Mỗi sản phẩm OCOP chỉ được
+phẩm OCOP được cấp có thẩm quyền phê duyệt. Mỗi sản phẩm OCOP chỉ được
 nhận giải thưởng một (01) lần ở cùng mức độ sao được công nhận, trường hợp
 được công nhận nâng hạng sao thì được thưởng thêm phần chênh lệch giữa hai
 mức độ sao.

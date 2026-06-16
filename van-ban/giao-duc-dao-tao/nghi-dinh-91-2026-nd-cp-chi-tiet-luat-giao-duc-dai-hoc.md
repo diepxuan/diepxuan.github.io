@@ -242,13 +242,3 @@ Nghị định có kèm theo 06 mẫu biểu:
 | Mẫu số 5 | Tờ trình đề nghị chuyển đổi cơ sở giáo dục đại học tư thục sang hoạt động không vì lợi nhuận |
 | Mẫu số 6 | Quyết định chuyển đổi cơ sở giáo dục đại học tư thục sang hoạt động không vì lợi nhuận |
 
----
-
-## Ghi chú
-
-- **Phương pháp**: OCR (pdftoppm -r 200 + tesseract vie) trên PDF signed từ datafiles.chinhphu.vn
-- **PDF URL**: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/91-ndcp.signed.pdf
-- **Crawl timestamp**: 2026-06-08T10:03:00+07:00
-- **Source metadata**: https://vanban.chinhphu.vn/?docid=217408&pageid=27160
-- **Nguồn bổ sung**: luatvietnam.vn, thuvienphapluat.vn
-- **Lưu ý**: Một số ký tự OCR có thể bị sai lệch do chất lượng bản scan. Đối chiếu lại với bản gốc khi cần chính xác tuyệt đối.
