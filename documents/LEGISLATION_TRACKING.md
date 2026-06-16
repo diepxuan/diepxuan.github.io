@@ -592,3 +592,9 @@ Quét từ poll yêu cầu Sếp: file `van-ban/xuat-nhap-canh/thong-tu-69-2026-
 - 9 biểu mẫu chứa nhiều ký tự đặc biệt (□, ¨, ...), layout phức tạp → OCR PDF dễ sinh lỗi noise
 - luatvietnam.vn đã OCR sạch từ PDF chính thức, định dạng text ổn định
 - Theo task yêu cầu: "KHÔNG CẦN tìm PDF - biểu mẫu khó OCR, dùng nguồn luatvietnam.vn (cleaner)"
+
+## Cập nhật 2026-06-16 13:30 (phiên Đệ #3 — bổ sung 09/2026/TT-BNV)
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 09/2026/TT-BNV | 2026 | Sửa đổi, bổ sung một số điều của Thông tư 21/2021/TT-BLĐTBXH quy định chi tiết Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng | Nội vụ / LĐ-TB&XH | chua-xac-minh | **Đã có FULL (2026-06-16, 185 dòng)** | File: `van-ban/noi-vu-hanh-chinh/thong-tu-09-2026-tt-bnv.md`; hiệu lực 30-06-2026 (còn 14 ngày); Đề 3 sửa đổi TT 21/2021; commit `ca88c60c`; ảnh hưởng người LĐVN đi nước ngoài theo hợp đồng |
