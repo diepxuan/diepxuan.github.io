@@ -520,10 +520,11 @@ Quét vanban.chinhphu.vn (Brave, 1 lần web_search, query: `"site:vanban.chinhp
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 68/2026/NĐ-CP | chưa xác minh | Quy định cụ thể phương pháp tính thuế với cá nhân kinh doanh, hộ kinh doanh | Thuế / Hộ kinh doanh | chưa xác minh | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217111` (xác minh 16/6); nguồn: thuvienphapluat.vn 685358, xaydungchinhsach.chinhphu.vn; LƯU Ý: NĐ 141/2026/NĐ-CP đã sửa đổi NĐ 68/2026/NĐ-CP (cần tham khảo cả 2); chờ Sếp review/merge PR #209 rồi crawl |
+| 68/2026/NĐ-CP | 05/03/2026 | Quy định cụ thể phương pháp tính thuế với cá nhân kinh doanh, hộ kinh doanh | Thuế / Hộ kinh doanh | 217111 | **Đã có (2026-06-06, full content 19 Điều + 5 Chương OCR từ PDF ký số CAdES-BES)** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=217111`; File: `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-68-2026-nd-cp-chinh-sach-thue-ho-kinh-doanh.md`; commit `cb0b2832` (Đệ #2 ngày 2026-06-06); PDF: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/68-ndcp.signed.pdf`; người ký: Hồ Đức Phớc (Thủ tướng, theo metadata vanban.chinhphu.vn); 19 Điều, 5 Chương (I-V), 452 dòng, ~50KB; OCR issues = 0 (2 false positive "ngày l" khớp "ngày làm việc" — chính tả đúng); articles 1-19 đầy đủ, không thiếu, không trùng; chương I-V đúng thứ tự La Mã; **tham chiếu chéo NĐ 141/2026/NĐ-CP (sửa đổi)** — file `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-141-2026-nd-cp-sua-doi-thue-ho-kinh-doanh.md` đã có, 141/2026 sửa Điều 3 + Điều 4 của 68/2026 (nâng ngưỡng 500 triệu → 01 tỷ); ghi chú: phiên discovery 2026-06-16 07:26 ghi nhầm "Chưa có" do search snippet không thấy — file đã có từ trước PR #209 |
 
 **Loại trừ (đã có trong tracking hoặc PR #209):**
 
+- 68/2026/NĐ-CP (Đã có 2026-06-06, file trong PR #209 — xác minh lại 16/6, file đã có 19 Điều + 5 Chương, commit `cb0b2832`)
 - 26/2026/TT-BTC (tracking - "Đã có 2026-06-16")
 - 192/2026/NĐ-CP (tracking - "Đã có")
 - 66.16/2026/NQ-CP (tracking - "Đã có 2026-06-16")
