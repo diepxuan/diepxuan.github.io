@@ -599,3 +599,61 @@ Quét từ poll yêu cầu Sếp: file `van-ban/xuat-nhap-canh/thong-tu-69-2026-
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 09/2026/TT-BNV | 2026 | Sửa đổi, bổ sung một số điều của Thông tư 21/2021/TT-BLĐTBXH quy định chi tiết Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng | Nội vụ / LĐ-TB&XH | chua-xac-minh | **Đã có FULL (2026-06-16, 185 dòng)** | File: `van-ban/noi-vu-hanh-chinh/thong-tu-09-2026-tt-bnv.md`; hiệu lực 30-06-2026 (còn 14 ngày); Đề 3 sửa đổi TT 21/2021; commit `ca88c60c`; ảnh hưởng người LĐVN đi nước ngoài theo hợp đồng |
+
+---
+
+## Cập nhật 2026-06-19 14:30 (phiên Đệ #1 Discovery — lần 2 trong ngày)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét Brave + Gemini vanban.chinhphu.vn + luatvietnam.vn + baochinhphu.vn với trọng tâm là **VB hiệu lực 01/7/2026** (còn 12 ngày) và **15/7/2026** (còn 26 ngày). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-16 cuối phiên): phát hiện **6 văn bản mới** chưa từng được ghi nhận trong tracking (giới hạn 5/lần + 1 entry xác minh 202/2026 đã có file trong `van-ban/`). Ưu tiên theo hiệu lực gần nhất + đa dạng nhóm chủ đề:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 212/2026/NĐ-CP | 17/06/2026 | Quy định điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin và Cơ sở dữ liệu quốc gia về hoạt động xây dựng; **cấp mã định danh điện tử cho mọi dự án, công trình xây dựng**; vận hành CSDL quốc gia về xây dựng toàn quốc; chứng chỉ hành nghề xây dựng mới; thay thế NĐ 100/2018, NĐ 15/2021; hiệu lực 01/7/2026 | Xây dựng / CNTT | 218489 | **Chưa có file** | URL: `https://vanban.chinhphu.vn/?docid=218489&pageid=27160`; người ký: Phó Thủ tướng Phạm Gia Túc (KT. Thủ tướng); theo đề nghị Bộ trưởng Bộ Xây dựng; nguồn chính: luatvietnam.vn (slug 437901) + thuvienphapluat.vn (slug 697287) + baochinhphu.vn; PDF gốc: `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/6/212-ndcp.signed.pdf` (cần xác minh có ký số hay không); nên đặt vào `van-ban/xay-dung/`; ưu tiên **cao nhất** (hiệu lực 12 ngày tới) |
+| 211/2026/NĐ-CP | 16/06/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực chăn nuôi — phạt tối đa **100 triệu đồng** (cá nhân) / **200 triệu đồng** (tổ chức); thức ăn chăn nuôi chứa hóa chất cấm phạt 80–100 triệu; sản xuất/kinh doanh giống vật nuôi kém chất lượng; biện pháp khắc phục: buộc tái chế, tiêu hủy, giảm quy mô, di dời; thay thế NĐ 14/2021/NĐ-CP; hiệu lực 05/8/2026 | Nông nghiệp / Chăn nuôi | 218456 | **Chưa có file** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218456`; theo đề nghị Bộ trưởng Bộ NN&MT; nguồn: vasep.com.vn (PDF) + ninhbinh.gov.vn + baovephapluat.vn + luatvietnam.vn; nên đặt vào `van-ban/nong-nghiep-nong-thon/`; ưu tiên cao (cùng nhóm thú y/chăn nuôi với 204/2026) |
+| 208/2026/NĐ-CP | 15/06/2026 | Quy định về vận tải hàng không — kinh doanh vận tải hàng không, thuê mua tàu bay, vận chuyển hành khách/hành lý/hàng hóa, trách nhiệm dân sự, điều phối slot; **hành khách được hoàn tiền vé nếu chuyến bay chậm từ 4 giờ trở lên** do lỗi hãng; hiệu lực 01/7/2026 | Hàng không / Giao thông | 218453 | **Chưa có file** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218453`; người ký: Phó Thủ tướng Phạm Gia Túc (KT. Thủ tướng); nguồn: luatvietnam.vn (slug 437684) + baophapluat.vn + vietnamplus.vn + moc.gov.vn; nên đặt vào `van-ban/giao-thong-van-tai/`; ưu tiên cao (ảnh hưởng trực tiếp quyền lợi hành khách) |
+| 210/2026/NĐ-CP | 15/06/2026 | Quy định chi tiết Luật Xây dựng về hợp đồng xây dựng — **siết tạm ứng tối đa 30% giá trị hợp đồng**; tăng cường cơ chế giải quyết tranh chấp hợp đồng xây dựng; thay thế NĐ 37/2015/NĐ-CP phần hợp đồng; hiệu lực 01/7/2026 | Xây dựng / Đầu tư | 218451 | **Chưa có file** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218451`; người ký: Phó Thủ tướng Phạm Gia Túc; nguồn: luatvietnam.vn (slug 437629) + xaydungchinhsach.chinhphu.vn + baomoi.com; nên đặt vào `van-ban/xay-dung/` |
+| 188/2026/NĐ-CP | 27/05/2026 | Quy định chính sách cho học sinh trường phổ thông nội trú và trường phổ thông nội trú tại các xã biên giới đất liền — tiền ăn, tiền ở, tiền đồ dùng cá nhân, tiền học phí, hỗ trợ đi lại; **mức hỗ trợ ăn bán trú 720.000 đ/tháng** (cấp 1-2), **1.080.000 đ/tháng** (cấp 3); miễn học phí 100% (cấp 1, 2, 3); thay thế NĐ 116/2016/NĐ-CP; hiệu lực 15/7/2026 | Giáo dục / Dân tộc | 218277 | **Chưa có file** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218277`; người ký: Thủ tướng; nguồn: suckhoedoisong.vn + baovanhoa.vn + vietnam.vn + luatvietnam.vn (slug 435826); nên đặt vào `van-ban/giao-duc-dao-tao/` hoặc `van-ban/chinh-sach-xa-hoi/` |
+| 202/2026/NĐ-CP | 08/06/2026 | Sửa đổi, bổ sung NĐ 10/2022/NĐ-CP về lệ phí trước bạ — **ô tô điện chạy pin lệ phí trước bạ 0% đến hết 31/12/2030** (khuyến khích xe điện); thay thế NĐ 51/2025/NĐ-CP; hiệu lực 01/3/2027 | Thuế / Tài chính | 218368 | **Đã có (2026-06-10, file 107 dòng từ luatvietnam.vn + baochinhphu.vn)** | File: `van-ban/tai-chinh/nghi-dinh-202-2026-nd-cp-o-to-dien-le-phi-truoc-ba.md` (107 dòng, từ 2026-06-10); URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218368`; người ký: Nguyễn Văn Thắng; nguồn: luatvietnam.vn (slug 436912) + baochinhphu.vn; **xác minh 2026-06-19**: file đã có trong `van-ban/` từ 10/6 nhưng chưa được ghi nhận trong tracking — sửa lỗi |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-16 cuối phiên)
+
+| Số hiệu | Trong tracking? | File van-ban/ | Trạng thái cũ | Trạng thái mới |
+|---|:---:|:---:|---|---|
+| 212/2026/NĐ-CP | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 211/2026/NĐ-CP | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 208/2026/NĐ-CP | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 210/2026/NĐ-CP | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 188/2026/NĐ-CP | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 202/2026/NĐ-CP | **KHÔNG** | **Có** (107 dòng, từ 2026-06-10) | — | Thêm mới — Đã có |
+
+### Xác minh 29/2026/TT-BCA (docid 217364)
+
+| Số hiệu | File trong van-ban/ | Kết quả xác minh | Trạng thái cũ | Trạng thái mới |
+|---|:---:|---|:---:|:---:|
+| 29/2026/TT-BCA | Không | **ĐÃ XÁC MINH docid alive 217364** — URL chính thức `https://vanban.chinhphu.vn/?pageid=27160&docid=217364` vẫn còn trên web_search (3 hits Brave + 2 hits Gemini trỏ về URL này). VB do Bộ Công an ban hành ngày 30/3/2026, có hiệu lực cùng ngày; có trên bocongan.gov.vn (`https://vanban.bocongan.gov.vn/co-so-du-lieu-van-ban/thong-tu-quy-dinh-ve-trinh-tu-thu-tuc-thuc-hien-noi-dung-chi-va-mot-so-noi-dung-quan-ly-dieu-hanh-quy-phong-chong-toi-pham-trung-uong-1775122120`); có trên sav.gov.vn (Viện Kiểm sát nhân dân tối cao); có bài phân tích trên luatvietnam.vn (slug 430427) + thuvienphapluat.vn (slug 108821) — **ĐÃ XÁC MINH SỐ HIỆU ĐÚNG, VB ĐÃ BAN HÀNH** | Chưa có file (chờ xác minh) | **Chưa có file** (entry đã có sẵn ở dòng cũ) |
+
+**Lý do chưa crawl:** Theo SOUL.md, mỗi task = 1 PR. PR #209 và #212 đang chờ Sếp review. Ưu tiên 5 VB mới phát hiện (212, 211, 208, 210, 188) trước vì hiệu lực sớm hơn nhiều (01/7/2026, 05/8/2026, 15/7/2026); 29/2026/TT-BCA đã có hiệu lực 30/3/2026 (gần 3 tháng trước), cần crawl nhưng có thể ưu tiên thấp hơn.
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Xây dựng / CNTT** (rất cao, 12 ngày tới): **212/2026/NĐ-CP** — cấp mã định danh điện tử cho mọi công trình; vận hành CSDL quốc gia về hoạt động xây dựng; tác động trực tiếp đến mọi dự án đầu tư xây dựng toàn quốc. Hiệu lực 01/7/2026 (rất gần).
+2. **Nông nghiệp / Chăn nuôi** (cao, 47 ngày): **211/2026/NĐ-CP** — xử phạt VPHC chăn nuôi; cùng nhóm thú y/chăn nuôi với 204/2026 (đã có); thay thế NĐ 14/2021; phạt tối đa 100 triệu (cá nhân)/200 triệu (tổ chức).
+3. **Hàng không / Giao thông** (cao, 12 ngày): **208/2026/NĐ-CP** — vận tải hàng không; **hoàn tiền vé nếu chậm từ 4 giờ**; tác động trực tiếp quyền lợi hành khách; ảnh hưởng đến Vietnam Airlines, Vietjet, Bamboo Airways, Vasco.
+4. **Xây dựng / Hợp đồng** (cao, 12 ngày): **210/2026/NĐ-CP** — siết tạm ứng tối đa 30%; tăng cường giải quyết tranh chấp hợp đồng; tác động trực tiếp đến mọi hợp đồng xây dựng.
+5. **Giáo dục / Dân tộc** (trung bình, 26 ngày): **188/2026/NĐ-CP** — chính sách trường nội trú biên giới; mức hỗ trợ ăn bán trú 720.000 đ/tháng (cấp 1-2), 1.080.000 đ/tháng (cấp 3); miễn học phí 100%; tác động học sinh vùng cao, biên giới.
+6. (Tùy chọn, ưu tiên thấp hơn) **An ninh trật tự**: **29/2026/TT-BCA** — Quỹ phòng chống tội phạm trung ương; đã có hiệu lực 30/3/2026 (gần 3 tháng trước); khen thưởng cá nhân 20 triệu, tập thể 50 triệu.
+
+### Ghi chú xử lý
+
+- **6 entry mới** được thêm vào tracking (5 VB thực sự mới + 1 VB đã có file nhưng chưa có entry). Phiên tiếp theo có thể crawl chi tiết các VB hiệu lực 01/7/2026 (212, 208, 210) trước.
+- **Crawl dạng ký số CAdES-BES**: 212, 208, 210 đều có thể ký số vì đợt 06/2026 Chính phủ ban hành dưới dạng NĐ chính thức → cần xác minh PDF trên datafiles.chinhphu.vn có phải `.signed.pdf` hay không. Nếu có → dùng pipeline OCR (pdftoppm -r 150 -png + tesseract vie). Nếu không → dùng pdftotext trích thẳng.
+- **Crawl nguồn web**: 211, 188 có thể dùng nguồn web (luatvietnam.vn + baochinhphu.vn + thuvienphapluat.vn) vì cấu trúc ngắn gọn, nhiều mức/mục/bảng biểu dễ Markdown hóa.
+- **29/2026/TT-BCA**: Xác minh số hiệu + ban hành xong, sẵn sàng crawl. Có thể ưu tiên sau vì đã có hiệu lực gần 3 tháng.
+- **Nguồn discovery**: web_search Brave + Gemini + truy vấn chuyên biệt (date filter 2026-06-17 trở đi + filter docid range 218400-218500) tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, baophapluat.vn, thuvienphapluat.vn, vietnamplus.vn, vasep.com.vn, baomoi.com, suckhoedoisong.vn, baovanhoa.vn, xaydungchinhsach.chinhphu.vn, sav.gov.vn, bocongan.gov.vn.
+- **Ngày phát hiện**: 2026-06-19 14:30 ICT
+- **Phiên thực hiện**: agent:github-io:subagent:784f0f6d-1072-4b6d-bfb8-f4f987bfe43a (Đệ #1 Discovery — lần 2 trong ngày 2026-06-19)
+
+---
+
