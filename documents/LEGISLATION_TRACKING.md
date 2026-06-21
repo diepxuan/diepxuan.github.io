@@ -221,7 +221,7 @@ Quét dải NĐ-CP 151–212 + kiểm tra Thông tư tuần 01–12/6/2026 qua w
 | 35/2026/TT-BTC | **KHÔNG** | Không | — | Thêm mới — Chưa có → **Đã có (xem dòng 191, commit eca27767 2026-06-14)** |
 | 31/2026/TT-BCT | **KHÔNG** | Không | — | Thêm mới — Chưa có | **Đã có (19 Điều + 5 Chương)** (2026-06-14) |
 | 185/2026/NĐ-CP | **CÓ (ghi sai)** | Có | Chưa có | **Sửa → Đã có** |
-| 29/2026/TT-BCA | **KHÔNG** | Không | — | Chưa có (chờ xác minh — có thể chưa ban hành) |
+| 29/2026/TT-BCA | **KHÔNG** | **Có** (360 dòng, từ 2026-06-21, từ luatvietnam.vn + bocongan.gov.vn cross-check) | — | Chưa có (đã xác minh docid alive) → **Đã có (2026-06-21, full 360 dòng, hiệu lực 30/3/2026)** |
 
 ### Đề xuất ưu tiên phiên tiếp theo
 
@@ -625,7 +625,7 @@ Quét Brave + Gemini vanban.chinhphu.vn + luatvietnam.vn + baochinhphu.vn với 
 | 211/2026/NĐ-CP | **KHÔNG** | Không | — | Thêm mới — Đã có (2026-06-20, 44 Điều / 4 Chương / 4 Mục, OCR từ PDF ký số CAdES-BES 2.06MB/50 trang + cross-check luatvietnam.vn) |
 | 208/2026/NĐ-CP | **CÓ** | **Có** (900 dòng / 65 Điều / 7 Chương, từ 2026-06-20, từ luatvietnam.vn HTML) | **Stub (đệ #3 fail 01:29/01:59 ngày 20/6)** | **Đã có (2026-06-20, 65 Điều / 7 Chương / 6 Mục, retry lần 3 THÀNH CÔNG, từ luatvietnam.vn + cross-check baophapluat.vn)** |
 | 210/2026/NĐ-CP | **KHÔNG** | **Có** (2288 dòng) | — | Thêm mới — Đã có (2026-06-20, 34 Điều / 3 Chương / 4 Mục, OCR từ PDF ký số) |
-| 188/2026/NĐ-CP | **KHÔNG** | Không | — | Thêm mới — Chưa có |
+| 188/2026/NĐ-CP | **KHÔNG** | **Có** (302 dòng, từ 2026-06-20, từ PDF ký số CAdES-BES + cross-check luatvietnam.vn) | — | Thêm mới — Đã có (2026-06-20, 10 Điều / 5 Chương, hiệu lực 15/7/2026) |
 | 202/2026/NĐ-CP | **KHÔNG** | **Có** (107 dòng, từ 2026-06-10) | — | Thêm mới — Đã có |
 
 ### Xác minh 29/2026/TT-BCA (docid 217364)
