@@ -302,9 +302,9 @@ c) Thí sinh đạt giải chính thức trong các cuộc thi nghệ thuật qu
 
 d) Thí sinh tham gia đội tuyển quốc gia thi đấu tại các giải quốc tế chính thức được Bộ Văn hóa, Thể thao và Du lịch xác nhận đã hoàn thành nhiệm vụ, gồm có: Giải vô địch thế giới, Cúp thế giới, Thế vận hội Olympic, Đại hội Thể thao châu Á (ASIAD), Giải vô địch châu Á, Cúp châu Á, Giải vô địch Đông Nam Á, Đại hội Thể thao Đông Nam Á (SEA Games), Cúp Đông Nam Á; thời gian đạt giải không quá 04 năm, tính đến thời điểm xét tuyển thẳng;
 
-e) Thí sinh đạt giải nhất, nhì, ba trong các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế do Bộ GDĐT cử tham gia; thời gian đạt giải không quá 03 năm tính đến thời điểm xét tuyển thẳng;
+đ) Thí sinh đạt giải nhất, nhì, ba trong các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế do Bộ GDĐT cử tham gia; thời gian đạt giải không quá 03 năm tính đến thời điểm xét tuyển thẳng;
 
-g) Việc xét tuyển thẳng hoặc không được xét tuyển thẳng các đối tượng quy định tại điểm b, c, d, đ của khoản này do cơ sở đào tạo quyết định.
+e) Việc xét tuyển thẳng hoặc không được xét tuyển thẳng các đối tượng quy định tại điểm b, c, d, đ của khoản này do cơ sở đào tạo quyết định.
 
 3. Thí sinh có bằng trung cấp ngành sư phạm loại giỏi trở lên hoặc có bằng trung cấp ngành sư phạm loại khá và có ít nhất 02 năm làm việc đúng ngành được xét tuyển thẳng vào ngành Giáo dục Mầm non trình độ cao đẳng.
 
