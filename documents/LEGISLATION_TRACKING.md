@@ -1,3 +1,47 @@
+## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 13)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn với trọng tâm **hiệu lực 01/7/2026** (còn 9 ngày) + **văn bản vừa ban hành tháng 6/2026**. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-19): phát hiện **5 văn bản mới** chưa từng được ghi nhận.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 215/2026/NĐ-CP | 18/06/2026 | Quy định về an ninh hàng không — **cấm bay vĩnh viễn** hoặc có thời hạn (3 tháng–vĩnh viễn) đối với hành khách gây rối, đe dọa an toàn hàng không; quy định chi tiết hành vi vi phạm, thẩm quyền cấm bay, trách nhiệm của các bên (hành khách, hãng hàng không, cảng hàng không); thay thế NĐ 92/2015/NĐ-CP; hiệu lực **01/7/2026** | Hàng không / An ninh | 218508 | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=218508`; nguồn: baotintuc.vn, vietnamplus.vn, kenh14.vn, tapchihangkhong.vn; ngày ban hành: 18/6/2026; cùng đợt với 205/2026/NĐ-CP (điều kiện kinh doanh hàng không); tác động trực tiếp hành khách + hãng hàng không toàn quốc |
+| 207/2026/NĐ-CP | 15/06/2026 | Quy định chi tiết một số điều của Luật Xây dựng về **quản lý chất lượng, thi công xây dựng và bảo trì** công trình — siết trách nhiệm chủ đầu tư/nhà thầu/giám sát; quản lý thi công nhà ở riêng lẻ; thay thế NĐ 46/2015/NĐ-CP; hiệu lực **01/7/2026** | Xây dựng | 218494 | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=218494`; nguồn: thuvienphapluat.vn (slug 274649), kiemtoanxaydung.vn, dauthaumuasam.vn; ngày ban hành: 15/6/2026; cùng đợt với 206/2026 (chi phí đầu tư XD), 209/2026 (vật liệu XD), 210/2026 (hợp đồng XD), 212/2026 (điều kiện năng lực XD) — cả nhóm 06 NĐ-CP xây dựng hiệu lực 01/7/2026 |
+| 209/2026/NĐ-CP | 15/06/2026 | Quy định chi tiết một số điều và biện pháp thi hành Luật Xây dựng về **quản lý vật liệu xây dựng** — điều kiện sản xuất, kinh doanh vật liệu XD; chứng nhận hợp quy; kiểm tra chất lượng; trách nhiệm tổ chức/đơn vị; thay thế NĐ 24/2022/NĐ-CP; hiệu lực **01/7/2026** | Xây dựng / Công nghiệp | 218496 | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=218496`; nguồn: thuvienphapluat.vn (slug 274663), thuvienphapluat.vn (114927), kiemtoanxaydung.vn; ngày ban hành: 15/6/2026; cùng nhóm xây dựng với 207/2026 |
+| 24/2026/TT-NHNN | 17/06/2026 | Sửa đổi, bổ sung một số điều của Thông tư 14/2024/TT-NHNN (phân loại tài sản có của tổ chức tín dụng vi mô) và Thông tư 36/2024/TT-NHNN (phân loại tài sản có của tổ chức tín dụng là hợp tác xã) — cụ thể hóa quy định phân loại tài sản theo Luật Các tổ chức tín dụng 2025; hiệu lực **03/8/2026** | Ngân hàng / Tài chính | 218476 | **Chưa có** | URL: `https://chinhphu.vn/?pageid=27160&docid=218476`; nguồn: luatvietnam.vn (slug 437875), vbpl.vn; người ký: Thống đốc NHNN; ngày ban hành: 17/6/2026; hiệu lực: 03/8/2026; bổ sung nhóm ngân hàng (đã có 07/2026/TT-NHNN, 19/2026/TT-NHNN, 198/2026/NĐ-CP) |
+| 11/2026/TT-VKSTC | 16/06/2026 | Quy định mức khoán chi cho nhiệm vụ, hoạt động **xây dựng thông tư thuộc thẩm quyền ban hành của Viện trưởng VKSND tối cao** và thông tư liên tịch mà VKSND tối cao là cơ quan chủ trì soạn thảo — mức khoán chi, định mức, thủ tục; hiệu lực **16/6/2026** (cùng ngày ban hành) | Tư pháp / Tố tụng | 218503 | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=218503`; nguồn: luatvietnam.vn (slug 437813), baovephapluat.vn, chinhphu.vn/he-thong-van-ban (classid=1, entry ngày 16/6/2026); ngày ban hành: 16/6/2026; cùng nhóm với 29/2026/TT-BCA (Quỹ phòng chống tội phạm) — cả hai do tư pháp/tố tụng ban hành |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-19)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 215/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 207/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 209/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 24/2026/TT-NHNN | **KHÔNG** | Thêm mới — Chưa có |
+| 11/2026/TT-VKSTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hàng không / An ninh** (rất cao — 9 ngày tới): **215/2026/NĐ-CP** — cấm bay vĩnh viễn/hữu hạn; tác động trực tiếp hành khách + Vietnam Airlines, Vietjet, Bamboo, Vasco; hiệu lực 01/7/2026. Có thể dùng nguồn luatvietnam.vn hoặc baotintuc.vn để crawl nội dung.
+2. **Xây dựng** (rất cao — 9 ngày tới): **207/2026/NĐ-CP** + **209/2026/NĐ-CP** — cùng nhóm 06 NĐ-CP xây dựng đồng loạt hiệu lực 01/7/2026 (thêm 206/2026 đã có, 210/2026 đã có, 212/2026 đã có); tác động toàn ngành xây dựng. Ưu tiên crawl 207 + 209 trước.
+3. **Ngân hàng** (trung bình — 42 ngày): **24/2026/TT-NHNN** — phân loại tài sản tài chính vi mô/tín dụng hợp tác xã; hiệu lực 03/8/2026.
+4. **Tư pháp / Tố tụng** (thấp — hiệu lực rồi 16/6/2026): **11/2026/TT-VKSTC** — mức khoán chi; văn bản nội bộ tố tụng, ít tác động rộng.
+
+### Ghi chú xử lý
+
+- **215/2026/NĐ-CP**: Xác minh docid 218508 dựa trên thứ tự đánh số (218508 nằm trong dải 218400–218520 phù hợp với ngày 18/6/2026 — cần verify bằng vanban.chinhphu.vn ở phiên sau). File nên đặt vào `van-ban/giao-thong-van-tai/` hoặc `van-ban/an-ninh-trat-tu/` (nhóm hàng không).
+- **207/2026/NĐ-CP**: Docid sơ bộ 218494; thay thế NĐ 46/2015/NĐ-CP.
+- **209/2026/NĐ-CP**: Docid sơ bộ 218496; thay thế NĐ 24/2022/NĐ-CP; cùng nhóm với 207/2026.
+- **24/2026/TT-NHNN**: Docid chính thức 218476 đã xác minh từ chinhphu.vn; cần bổ sung vào tracking.
+- **11/2026/TT-VKSTC**: Docid sơ bộ 218503; file nên đặt vào `van-ban/tu-phap-thi-hanh-an/`.
+- **Nhóm xây dựng 01/7/2026**: Tổng cộng 06 NĐ-CP xây dựng ban hành 15–17/6/2026 cùng hiệu lực 01/7/2026: 206/2026 (chi phí), 207/2026 (chất lượng), 209/2026 (vật liệu), 210/2026 (hợp đồng), 212/2026 (điều kiện năng lực), 215/2026 (giấy phép XD theo thuvienphapluat). Trong đó 206, 210, 212 đã có file; 207, 209, 215 cần crawl.
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, baotintuc.vn, vietnamplus.vn, thuvienphapluat.vn, kiemtoanxaydung.vn, kenh14.vn, tapchihangkhong.vn.
+- Ngày phát hiện: 2026-06-22 10:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:9fbf85e2-22f6-47bf-9383-42d27f1fc7c7 (Đệ #1 Discovery — lần 13)
+
+---
 ## Cập nhật 2026-06-14 (phiên Đệ #3 Full Content Crawler — lần 2)
 
 ### Crawler chi tiết văn bản 204/2026/NĐ-CP
