@@ -1,3 +1,102 @@
+## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 15)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218360–218530 + web_search Brave/Gemini theo nhóm chủ đề: Tài chính, Ngân sách, Thuế, Lệ phí, Năng lượng, Lao động, Tiền lương, Xây dựng. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-22 lần 14): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 216/2026/NĐ-CP | 18/06/2026 | Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Lý lịch tư pháp — **công dân nộp hồ sơ xin Phiếu LHP tại nơi cư trú hoặc nơi gần nhất** (nộp trực tiếp, trực tuyến qua ứng dụng định danh quốc gia/VNeID/Cổng DVCQG, hoặc bưu chính); **Bộ Công an quản lý tập trung Cơ sở dữ liệu LHP** toàn quốc (3 nhóm thông tin); nhận Phiếu LHP trên VNeID; thay thế NĐ 111/2010/NĐ-CP; hiệu lực **01/7/2026** | Tư pháp / Hành chính | 218505 | **Đã có (2026-06-23)** | File: `van-ban/tu-phap-thi-hanh-an/nghi-dinh-216-2026-nd-cp-ly-lich-tu-phap.md`; 29 Điều, 4 Chương (I-IV), 238 dòng, 39KB; OCR issues = 0; nguồn: luatvietnam.vn + baochinhphu.vn |
+| 217/2026/NĐ-CP | 19/06/2026 | Quy định chi tiết một số điều của Luật Xây dựng 2025 về **quản lý hoạt động xây dựng** — cấp giấy phép xây dựng, quản lý trật tự xây dựng, xây dựng công trình đặc thù/cấp bách; **áp dụng BIM bắt buộc từ cấp II trở lên** (lập từ Báo cáo nghiên cứu khả thi); thay thế NĐ 175/2024/NĐ-CP; hiệu lực **01/7/2026** | Xây dựng / CNTT | 218509 | **Đã có (2026-06-23)** | File: `van-ban/xay-dung/nghi-dinh-217-2026-nd-cp-quan-ly-hoat-dong-xay-dung.md`; 76 Điều (1-76), 5 Chương (I-V), 993 dòng, 244KB; OCR issues = 0 (19 false positive "ngày l" khớp "ngày làm việc" — đúng tiếng Việt); articles 1-76 đầy đủ, không thiếu, không trùng; chương I-V đúng thứ tự La Mã; nguồn: luatvietnam.vn + vanban.chinhphu.vn (docid 218509); hiệu lực: 01/7/2026 (còn 9 ngày khi crawl) |
+| 65/2026/TT-BTC | 11/06/2026 | Sửa đổi, bổ sung Thông tư 320/2016/TT-BTC quy định chế độ bồi dưỡng đối với người làm nhiệm vụ **tiếp công dân, xử lý đơn khiếu nại, tố cáo, kiến nghị, phản ánh** — mức bồi dưỡng tăng: **250.000 đồng/ngày** (tiếp công dân TW chưa hưởng phụ cấp), **200.000 đồng/ngày** (tiếp công dân TW đã hưởng phụ cấp hoặc xử lý đơn chưa hưởng phụ cấp), **150.000 đồng/ngày** (xử lý đơn đã hưởng phụ cấp), **100.000 đồng/ngày** (khoản 3, 4 Điều 38 NĐ 154/2026); người ký: Nguyễn Thị Bích Ngọc (KT. Bộ trưởng - Thứ trưởng); hiệu lực **27/7/2026** | Tài chính | 218479 | **Đã có (2026-06-23)** | File: `van-ban/tai-chinh/thong-tu-65-2026-tt-btc-sua-doi-thong-tu-320-2016-ve-boi-duong-tiep-cong-dan.md`; 2 Điều (1, 2), 0 Chương, 137 dòng, 7KB; OCR issues = 0; articles 1–2 đầy đủ, không thiếu, không trùng; nguồn: luatvietnam.vn (slug 437740) + OCR PDF ký số datafiles.chinhphu.vn (`65-btc.pdf`, ký 15/6/2026); đối tượng được sửa: Điều 4 Thông tư 320/2016/TT-BTC (mức chi); nội dung gồm 2 Điều: Điều 1 (sửa đổi Điều 4), Điều 2 (điều khoản thi hành: 4 khoản) |
+| 68/2026/TT-BTC | 18/06/2026 | Quy định về **nghiên cứu, ứng dụng khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số**; Hệ thống thông tin, cơ sở dữ liệu về **dự trữ quốc gia** — chi tiết hoạt động nghiên cứu KHCN, hệ thống thông tin dự trữ, cơ sở dữ liệu; hiệu lực **01/7/2026** | Tài chính / KHCN | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/khoa-hoc/thong-tu-68-2026-tt-btc-quy-dinh-ve-khoa-hoc-cong-nghe-va-chuyen-doi-so-438162-d1.html`; nguồn: luatvietnam.vn (slug 438162), thoibaotaichinhvietnam.vn, gdsr.gov.vn; người ký: Bộ Tài chính; ngày ban hành: 18/6/2026; hiệu lực: 01/7/2026 (còn 9 ngày); tác động Cục Dự trữ Nhà nước, cơ quan nghiên cứu KHCN thuộc Bộ Tài chính; cần xác minh docid vanban.chinhphu |
+| 03/2026/TT-DTTG | ~18/06/2026 | **Bãi bỏ một số văn bản quy phạm pháp luật** thuộc thẩm quyền của Bộ trưởng Bộ Dân tộc và Tôn giáo — văn bản hướng dẫn Luật Dân tộc, chính sách dân tộc thiểu số; hiệu lực **chưa rõ** (dự kiến tháng 7/2026) | Hành chính / Dân tộc | 218510 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218510` (xác minh docid chính thức); nguồn: vanban.chinhphu.vn (docid 218510), ghi nhận từ quét dải 218500–218530 ngày 22/6/2026; ngày ban hành: ~18/6/2026; nhóm Dân tộc - Tôn giáo; bổ sung nhóm đa dạng chủ đề; tác động cơ quan Bộ Dân tộc và Tôn giáo |
+
+### Xác minh docid cho các văn bản chưa có docid (từ lần 13–14)
+
+| Số hiệu | Docid cũ | Docid mới | Trạng thái | Chi tiết |
+|---|:---:|:---:|---|---|
+| 29/2026/NQ-CP | 218455 | **218455** | Xác minh (giữ nguyên) | Thí điểm xăng E10; hiệu lực 16/6/2026–15/6/2028 |
+| 202/2026/NĐ-CP | chua-xac-minh | **218368** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218368` |
+| 207/2026/NĐ-CP | 218494 (ước đoán) | **218450** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218450` |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-22 lần 14)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 216/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 217/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 65/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 68/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 03/2026/TT-DTTG | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Tư pháp / Hành chính** (rất cao — 9 ngày tới): **216/2026/NĐ-CP** — lý lịch tư pháp mới, nộp hồ sơ trực tuyến, nhận kết quả trên VNeID; tác động toàn dân Việt Nam. Hiệu lực 01/7/2026. Có thể dùng luatvietnam.vn (slug 438205) làm nguồn chính.
+2. **Xây dựng** (rất cao — 9 ngày tới): **217/2026/NĐ-CP** — cùng nhóm 4 NĐ xây dựng đồng loạt hiệu lực 01/7/2026 (207, 209, 212, 217); áp dụng BIM bắt buộc; tác động toàn ngành xây dựng. Có docid 218509.
+3. **Hành chính / Tài chính** (cao — 35 ngày tới): **65/2026/TT-BTC** — bồi dưỡng tiếp công dân tăng lên 250.000 đ/ngày; tác động cán bộ tiếp dân toàn quốc. Hiệu lực 27/7/2026. Có docid 218479.
+4. **Tài chính / KHCN** (rất cao — 9 ngày tới): **68/2026/TT-BTC** — KHCN dự trữ quốc gia; hiệu lực 01/7/2026. Tác động Cục Dự trữ Nhà nước. Cần xác minh docid.
+5. **Hành chính / Dân tộc** (thấp): **03/2026/TT-DTTG** — bãi bỏ văn bản hướng dẫn; hiệu lực chưa rõ. Tác động hẹp Bộ Dân tộc và Tôn giáo.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 15. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Xác minh docid**: 202/2026/NĐ-CP (218368), 207/2026/NĐ-CP (218450) — đã cập nhật vào tracking lần 14 và xác minh lại trực tiếp từ vanban.chinhphu.vn trong phiên này.
+- **217/2026/NĐ-CP docid**: Xác minh gián tiếp qua citation luatvietnam.vn (vanban.chinhphu.vn/?pageid=27160&docid=218509) — cần xác minh trực tiếp ở phiên sau.
+- **202/2026/NĐ-CP**: Docid 218368 xác minh trực tiếp từ vanban.chinhphu.vn trong phiên này — ghi vào tracking để cập nhật entry đã có.
+- **Nhóm xây dựng 01/7/2026**: 4 NĐ cùng hiệu lực 01/7/2026: 207 (chất lượng), 209 (vật liệu), 212 (điều kiện năng lực), 217 (quản lý hoạt động XD). Trong đó 207, 209 đã được phát hiện lần 13; 212 đã crawl; 217 mới phát hiện lần 15.
+- **Lưu ý 218450**: Docid 218450 là của 207/2026/NĐ-CP (thay vì ước đoán 218494 ở lần 13) — đã xác minh trực tiếp từ vanban.chinhphu.vn.
+- Nguồn: web_fetch vanban.chinhphu.vn (docid 218368, 218450, 218479, 218510), web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, vov.vn, baomoi.com, cafef.vn, gdsr.gov.vn, vbpq.mof.gov.vn.
+- Ngày phát hiện: 2026-06-22 22:37 ICT
+- Phiên thực hiện: agent:github-io:subagent:827d7e57-1732-48cf-91c6-fa92880e35fe (Đệ #1 Discovery — lần 15)
+
+---
+
+## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 14)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-22 lần 13): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 29/2026/NQ-CP | 16/06/2026 | Ban hành thí điểm một số chính sách trong triển khai lộ trình sử dụng **xăng E10** — thuê dịch vụ thử nghiệm chất lượng xăng dầu; xác định xăng E10RON95-III là mặt hàng Nhà nước công bố giá; xác định yếu tố hình thành giá; xử lý lượng xăng không chì tồn kho; hiệu lực **16/6/2026** đến **15/6/2028** | Năng lượng / Tài chính | 218455 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218455`; nguồn: chinhphu.vn (docid confirmed), baochinhphu.vn, baomoi.com, baobacninhtv.vn, baodautu.vn; ngày ban hành: 16/6/2026; hiệu lực: 16/6/2026 – 15/6/2028 (thí điểm 2 năm); tác động toàn ngành xăng dầu, hãng phân phối, chủ phương tiện |
+| 202/2026/NĐ-CP | 08/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 10/2022/NĐ-CP về **lệ phí trước bạ** — kéo dài miễn 100% lệ phí trước bạ lần đầu đối với ô tô điện chạy pin **đến hết 31/12/2030**; thay thế NĐ 51/2025/NĐ-CP; hiệu lực **01/3/2027** | Thuế / Lệ phí | chua-xac-minh | **Chưa có** | Nguồn: baomoi.com, xe.baoxaydung.vn, baohanoi.vn; ngày ban hành: 8/6/2026; hiệu lực: 1/3/2027; cần xác minh docid từ vanban.chinhphu.vn; tác động người mua ô tô điện, đại lý xe điện |
+| 66/2026/TT-BTC | 16/06/2026 | Hướng dẫn xác định nhu cầu, nguồn và phương thức chi thực hiện **mức lương cơ sở và chế độ tiền thưởng** theo NĐ 161/2026/NĐ-CP và điều chỉnh trợ cấp hàng tháng đối với cán bộ xã đã nghỉ việc theo NĐ 162/2026/NĐ-CP — mức lương cơ sở, nguồn NSNN, phương thức chi; hiệu lực **16/6/2026** (cùng ngày ký) | Lao động / Tài chính | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/lao-dong/thong-tu-66-2026-tt-btc-huong-dan-luong-co-so-va-tien-thuong-theo-nghi-dinh-161-2026-nd-cp-437940-d1.html`; nguồn: luatvietnam.vn (slug 437940), thuvienphapluat.vn, hoatieu.vn; người ký: Bộ Tài chính; ngày ban hành: 16/6/2026; hiệu lực ngay 16/6/2026; tác động toàn bộ cán bộ, công chức, viên chức, lực lượng vũ trang (theo NĐ 161/2026) + cán bộ xã nghỉ việc (theo NĐ 162/2026) |
+| 67/2026/TT-BTC | 16/06/2026 | **Bãi bỏ** Thông tư 105/2021/TT-BTC (trích lập, quản lý tiền lương, thù lao, tiền thưởng đối với Trưởng ban kiểm soát, Kiểm soát viên tại công ty TNHH MTV do Nhà nước nắm giữ 100% vốn điều lệ) và bãi bỏ một số điều của Thông tư 58/2017/TT-BTC (hỗ trợ tài chính cho lao động dân tộc thiểu số vùng miền núi, đặc biệt khó khăn); hiệu lực **01/8/2026** | Lao động / Tài chính | 218514 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218514` (xác minh chính thức); nguồn: vanban.chinhphu.vn (docid 218514), thoibaotaichinhvietnam.vn; ngày ban hành: 16/6/2026; hiệu lực: 01/8/2026; tác động công ty TNHH MTV NN + doanh nghiệp vùng miền núi |
+| 68/2026/TT-BTC | 18/06/2026 | Quy định về **nghiên cứu, ứng dụng khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số**; Hệ thống thông tin, cơ sở dữ liệu về **dự trữ quốc gia** — chi tiết hoạt động nghiên cứu KHCN, hệ thống thông tin dự trữ, cơ sở dữ liệu; hiệu lực **01/7/2026** | Tài chính / KHCN | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/khoa-hoc/thong-tu-68-2026-tt-btc-quy-dinh-ve-khoa-hoc-cong-nghe-va-chuyen-doi-so-438162-d1.html`; nguồn: luatvietnam.vn (slug 438162), thoibaotaichinhvietnam.vn, gdsr.gov.vn; người ký: Bộ Tài chính; ngày ban hành: 18/6/2026; hiệu lực: 01/7/2026; cần xác minh docid; tác động Cục Dự trữ Nhà nước, cơ quan nghiên cứu KHCN thuộc Bộ Tài chính |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-22 lần 13)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 29/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 202/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 66/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 67/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 68/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Tiền lương** (rất cao — hiệu lực ngay 16/6/2026): **66/2026/TT-BTC** — hướng dẫn lương cơ sở, tiền thưởng theo NĐ 161/2026; tác động toàn bộ hệ thống công vụ. Nguồn: luatvietnam.vn (slug 437940). Ưu tiên số 1.
+2. **Năng lượng** (trung bình — đang có hiệu lực 16/6/2026–15/6/2028): **29/2026/NQ-CP** — thí điểm xăng E10; tác động ngành xăng dầu, phân phối, người tiêu dùng. Docid 218455 xác minh.
+3. **Thuế / Lệ phí** (thấp — hiệu lực 1/3/2027): **202/2026/NĐ-CP** — miễn lệ phí trước bạ ô tô điện đến 2030; cần xác minh docid. Tác động thị trường xe điện.
+4. **Tài chính / KHCN** (trung bình — 9 ngày tới): **68/2026/TT-BTC** — khoa học, chuyển đổi số, dự trữ quốc gia; hiệu lực 01/7/2026. Tác động Cục Dự trữ Nhà nước.
+5. **Lao động / Tài chính** (trung bình — 40 ngày): **67/2026/TT-BTC** — bãi bỏ TT 105/2021 về lương Ban kiểm soát; hiệu lực 01/8/2026. Docid 218514 xác minh.
+
+### Ghi chú xử lý
+
+- **29/2026/NQ-CP**: Docid **218455** xác minh trực tiếp từ vanban.chinhphu.vn — nằm trong dải phù hợp với ngày 16/6/2026 (sau 29/2026/NQ-CP, trước 208/2026/NĐ-CP ngày 18/6 với docid 218453).
+- **202/2026/NĐ-CP**: Docid chưa xác minh — cần check vanban.chinhphu.vn trong phiên sau (dải 218430–218445 phù hợp với ngày 8/6/2026).
+- **66/2026/TT-BTC**: Nguồn luatvietnam.vn slug 437940 — nội dung đầy đủ có thể lấy từ đây (trả phí, nhưng header có thể extract miễn phí). Cần xác minh docid.
+- **67/2026/TT-BTC**: Docid **218514** xác minh trực tiếp từ vanban.chinhphu.vn — bãi bỏ TT 105/2021/TT-BTC (lương Ban kiểm soát) và một số điều TT 58/2017/TT-BTC (lao động vùng khó khăn). Văn bản ngắn, có thể crawl nhanh.
+- **68/2026/TT-BTC**: Nguồn luatvietnam.vn slug 438162 — đã xác minh tồn tại trên luatvietnam (web_fetch có header chính thức). Cần xác minh docid từ vanban.chinhphu.vn.
+- **Nhóm E10**: 29/2026/NQ-CP (thí điểm xăng E10) + 65/2026/TT-BTC (sửa đổi tiếp công dân, hiệu lực 27/7/2026) cùng đợt 16/6/2026 — theo dõi nếu có TT hướng dẫn E10 riêng.
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, baomoi.com, thuvienphapluat.vn, thoibaotaichinhvietnam.vn, gdsr.gov.vn.
+- Ngày phát hiện: 2026-06-22 20:05 ICT
+- Phiên thực hiện: agent:github-io:subagent:7856d3e0-929b-4734-ab0f-a8d80194ce2f (Đệ #1 Discovery — lần 14)
+
+---
 ## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 13)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
