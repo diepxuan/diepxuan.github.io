@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vanban
 title: "Nghị định 202/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 10/2022/NĐ-CP về lệ phí trước bạ"
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-202-2026-nd-cp-sua-doi-le-phi-truoc-ba/
 lastedit: 2026-06-23
