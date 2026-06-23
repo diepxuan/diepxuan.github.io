@@ -9,7 +9,7 @@ tags:
   - tu-phap
   - hinh-su
   - thi-hanh-an
-docid: "218508"
+docid: "chua-xac-minh"
 source: vanban.chinhphu.vn; luatvietnam.vn
 effectivedate: 2026-07-01
 signer: "Phạm Gia Túc"
