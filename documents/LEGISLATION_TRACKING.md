@@ -1,4 +1,45 @@
-## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 15)
+## Cập nhật 2026-06-23 (Discovery lần 18 — tuần 16–23/6/2026)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search
+
+Quét vanban.chinhphu.vn dải docid 218520–218600 + web_search Brave/Gemini + baochinhphu.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-22 lần 15): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 81/2026/TT-BQP | 18/06/2026 | Quy định về định mức và loại quà người thân thích của người bị tạm giữ, người bị tạm giam được phép gửi; danh mục hàng hóa, giá bán trong căng tin và việc cấp phát báo cho người bị tạm giữ, người bị tạm giam tại cơ sở giam giữ trong Quân đội nhân dân — Người ký: Nguyễn Văn Gấu — hiệu lực **01/7/2026** | Quốc phòng / Thi hành án | 218520 | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid 218520); cùng ngày với 82/2026/TT-BQP — là bộ Thông tư đồng bộ về chế độ đối với người bị tạm giữ/tạm giam và phạm nhân trong Quân đội; cần xác minh thêm file van-ban/ |
+| 82/2026/TT-BQP | 18/06/2026 | Quy định chế độ gặp, nhận quà và liên lạc của phạm nhân — Người ký: Nguyễn Văn Gấu — hiệu lực **01/7/2026** | Quốc phòng / Thi hành án | 218521 | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid 218521); bổ sung cho quy định quyền của phạm nhân trong thi hành án; cùng ngày với 81/2026/TT-BQP; cần xác minh thêm file van-ban/ |
+| 159/NQ-CP | 20/06/2026 | Bổ sung dự án Luật sửa đổi, bổ sung một số điều của 10 luật có liên quan đến thủ tục hành chính, điều kiện kinh doanh trong lĩnh vực nông nghiệp và môi trường vào Chương trình Kỳ họp không thường lệ năm 2026 của Quốc hội khóa XVI — Người ký: Hồ Quốc Dũng | Nông nghiệp / Môi trường / Hành chính | 218522 | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid 218522); Nghị quyết bổ sung dự án luật vào chương trình lập pháp; đơn giản hóa thủ tục hành chính, điều kiện kinh doanh nông nghiệp và môi trường; cần xác minh thêm file van-ban/ và tên luật chính xác |
+| 192/2026/NĐ-CP | ~20/06/2026 | Quy định một số chế độ phụ cấp đặc thù trong lĩnh vực y tế; hỗ trợ hằng tháng đối với nhân viên y tế thôn, tổ dân phố và cô đỡ thôn, bản — **Phụ cấp trực 24/24h: 70.000–325.000đ/phiên** (theo hạng CSYT); phẫu thuật (mổ chính): 100.000–560.000đ/ca; phụ cấp chống dịch nhóm A: 420.000đ/ngày (nhóm 1), 280.000đ/ngày (nhóm 2); hỗ trợ nhân viên y tế thôn: 0,7 lần hoặc 0,5 lần mức lương cơ sở/tháng — hiệu lực **15/7/2026** ⚠️ | Y tế / Lao động / Tiền lương | chua-xac-minh | **Chưa có** ⚠️ Ưu tiên | Nguồn: baochinhphu.vn, doanhnghiepcuocsong.vn, danviet.vn; hiệu lực 15/7/2026 — chỉ còn ~3 tuần; trực tiếp ảnh hưởng chế độ tiền lương nhân viên y tế toàn quốc; cần xác minh docid vanban.chinhphu + crawl chi tiết |
+| 213/2026/NĐ-CP | 18/06/2026 | Quy định chi tiết một số điều của Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú; xây dựng **Cơ sở dữ liệu quốc gia** về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú tập trung, thống nhất toàn quốc; định mức ăn 17kg gạo/người/tháng; diện tích chỗ nằm tối thiểu 2m²; thuốc thông thường ≤ 5kg gạo/người/tháng — hiệu lực **01/7/2026** | Tư pháp / Hình sự | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn; hướng dẫn chi tiết Luật THTG (có hiệu lực 01/01/2026); hiệu lực 01/7/2026; CSDL quốc gia tập trung là điểm mới nổi bật; cần xác minh docid vanban.chinhphu + crawl chi tiết |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-22 lần 15)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 81/2026/TT-BQP | **KHÔNG** | Thêm mới — Chưa có |
+| 82/2026/TT-BQP | **KHÔNG** | Thêm mới — Chưa có |
+| 159/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 192/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 213/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Y tế / Lao động** (⚠️ Rất cao — 22 ngày tới): **192/2026/NĐ-CP** — phụ cấp đặc thù y tế, nhân viên y tế thôn; hiệu lực 15/7/2026. Trực tiếp ảnh hưởng chế độ tiền lương nhân viên y tế toàn quốc. Cần xác minh docid + crawl chi tiết.
+2. **Tư pháp / Hình sự** (Rất cao — 8 ngày tới): **213/2026/NĐ-CP** — hướng dẫn Luật THTG, CSDL quốc gia; hiệu lực 01/7/2026. Tác động hệ thống thi hành án hình sự toàn quốc. Cần xác minh docid + crawl chi tiết.
+3. **Quốc phòng / Thi hành án** (Cao — 8 ngày tới): **81/2026/TT-BQP** + **82/2026/TT-BQP** — chế độ đối với người bị tạm giữ, phạm nhân trong Quân đội; hiệu lực 01/7/2026. Có docid 218520, 218521.
+4. **Nông nghiệp / Môi trường / Hành chính** (Trung bình): **159/NQ-CP** — bổ sung dự án luật đơn giản hóa thủ tục nông nghiệp, môi trường vào chương trình QH. Có docid 218522.
+
+### Ghi chú xử lý
+
+- **Cần xác minh docid**: 192/2026/NĐ-CP (quét dải 218490–218542 hoặc cao hơn), 213/2026/NĐ-CP (quét bổ sung)
+- **Văn bản đã quét — không tìm thấy**: docid 218524–218600 (phần lớn trả về "Không tìm thấy văn bản này")
+- **Văn bản hợp nhất mới**: 31/VBHN-BXD (docid 218490, 14/6/2026) — không trong giới hạn 5
+- **213/2026/NĐ-CP** có thể trùng với 216/2026/NĐ-CP (Luật Lý lịch tư pháp) — cần xác nhận không trùng số
+- Báo cáo chi tiết: `/tmp/discovery-report-20260623-0729.md`
+
+---
+
+## Cập nhật 2026-06-22 (Discovery lần 15)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
 
