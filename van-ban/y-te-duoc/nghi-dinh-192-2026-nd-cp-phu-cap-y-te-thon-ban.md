@@ -2,12 +2,13 @@
 layout: page
 title: "Nghị định 192/2026/NĐ-CP - Phụ cấp đặc thù y tế; hỗ trợ nhân viên y tế thôn, tổ dân phố và cô đỡ thôn, bản"
 date: 2026-05-30
+docid: 218306
 categories: [van-ban, y-te-duoc, phu-cap, chinh-sach-xa-hoi]
 tags: [nghi-dinh, 192/2026/ND-CP, phu-cap-truc, phu-cap-phau-thuat, phu-cap-chong-dich, ho-tro-hang-thang, nhan-vien-y-te-thon, to-dan-pho, co-do-thon-ban, chinh-phu]
 permalink: /van-ban/y-te-duoc/nghi-dinh-192-2026-nd-cp-phu-cap-y-te-thon-ban/
 description: "Nghị định 192/2026/NĐ-CP ngày 30/05/2026 quy định chế độ phụ cấp trực, phụ cấp phẫu thuật thủ thuật, phụ cấp chống dịch trong lĩnh vực y tế và chế độ hỗ trợ hằng tháng đối với nhân viên y tế thôn, tổ dân phố và cô đỡ thôn, bản."
 source: "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-192-2026-nd-cp-ve-che-do-phu-cap-dac-thu-trong-linh-vuc-y-te-ho-tro-hang-thang-doi-voi-nhan-vien-y-te-thon-to-dan-pho-co-do-thon-ban-119260602070331262.htm"
-lastedit: 2026-06-06
+lastedit: 2026-06-23
 ---
 
 ## THÔNG TIN VĂN BẢN
