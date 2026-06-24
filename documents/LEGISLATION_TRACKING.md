@@ -800,3 +800,58 @@ Quét Brave + Gemini vanban.chinhphu.vn + luatvietnam.vn + baochinhphu.vn với 
 
 ---
 
+
+---
+
+## Cập nhật 2026-06-25 (Discovery lần 23 — tuần 25/6/2026)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218560–218650 + web_search Brave/Gemini + baochinhphu.vn, luatvietnam.vn, luatminhnguyen.com, vtv.vn, nhandan.vn, dantien.thainguyen.gov.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-24 lần 22): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 146/2026/NĐ-CP | 06/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực **lâm nghiệp** — tăng mức phạt tối đa hành vi phá rừng từ **200 triệu lên 220 triệu đồng** (cá nhân); quy định xử phạt trên môi trường điện tử (Điều 8); phạt trốn nghĩa vụ quân sự liên quan đến lâm nghiệp; thay thế NĐ 17/2022/NĐ-CP; hiệu lực **25/6/2026** (hôm nay) | Lâm nghiệp / Nông nghiệp / Xử phạt | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 109687, 109739), nhandan.vn, dantien.thainguyen.gov.vn, vtv.vn; ngày ban hành: 06/5/2026; hiệu lực: 25/6/2026 (ngày hôm nay); tác động chủ rừng, đối tượng phá rừng toàn quốc; cần xác minh docid trong phiên sau (dải phù hợp 218xxx tháng 5/2026) |
+| 156/2026/NĐ-CP | 15/05/2026 | Sửa đổi, bổ sung một số điều của NĐ 31/2019/NĐ-CP về **Luật Tố cáo** — quy định rõ hơn về rút tố cáo (phải ghi đầy đủ thông tin, có chữ ký/điểm chỉ); cơ quan vẫn tiếp tục giải quyết nếu có dấu hiệu vi phạm hoặc rút đơn do bị ép buộc, đe dọa, mua chuộc, hoặc vu khống; bổ sung trưng cầu giám định; đẩy mạnh ứng dụng CNTT và chuyển đổi số trong giải quyết tố cáo; quy định xử lý kỷ luật cán bộ vi phạm; hiệu lực **01/7/2026** | Tư pháp / Hành chính | **218183** ✅ | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid **218183** xác minh chính thức), baochinhphu.vn, luatvietnam.vn (slug 435173), langson.gov.vn, hue.gov.vn, hungyen.gov.vn; ngày ban hành: 15/5/2026; hiệu lực: 01/7/2026; tác động toàn bộ hệ thống giải quyết tố cáo nhà nước |
+| 18/2026/TT-BXD | ~17/06/2026 | Ban hành **Chương trình an toàn hàng không dân dụng Việt Nam** — quy định chương trình an toàn hàng không; thay thế quy định cũ; hiệu lực **01/7/2026** | Hàng không / Xây dựng | **218173** ✅ | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid **218173** xác minh chính thức); ngày ban hành: ~17/6/2026; hiệu lực: 01/7/2026; tác động Cục Hàng không, hãng hàng không, sân bay; cần xác minh ngày ban hành chính xác |
+| 18/2026/TT-NHNN | 17/06/2026 | Sửa đổi, bổ sung một số điều của Thông tư 17/2015/TT-NHNN về **hệ thống mã ngân hàng** dùng trong hoạt động, nghiệp vụ ngân hàng (được sửa bởi TT 18/2023 và TT 11/2025) — cập nhật danh mục mã ngân hàng; hiệu lực **chưa rõ** | Ngân hàng / Tài chính | **218340** ✅ | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid **218340** xác minh chính thức); ngày ban hành: 17/6/2026; hiệu lực: chưa rõ (cần xác minh từ luatvietnam.vn hoặc NHNN); tác động toàn hệ thống ngân hàng thương mại |
+| 83/2026/TT-BQP | ~18/06/2026 | Quy định **nội quy và danh mục đồ vật cấm trong giam giữ** Quân đội — nội quy giam giữ phạm nhân trong Quân đội; danh mục đồ vật cấm đưa vào nơi giam giữ; hiệu lực **01/7/2026** | Quốc phòng / Thi hành án | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin văn bản mới, slug 109753), gemini search (tổng hợp 200+ văn bản 01/7/2026); ngày ban hành: ~18/6/2026; hiệu lực: 01/7/2026; cùng nhóm với 81, 82, 84, 85, 86/TT-BQP đã ghi nhận ở lần 19-20; cần xác minh docid trong phiên sau |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-24 lần 22)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 146/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 156/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 18/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 18/2026/TT-NHNN | **KHÔNG** | Thêm mới — Chưa có |
+| 83/2026/TT-BQP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Văn bản chưa có docid (cần xác minh phiên sau)
+
+| Số hiệu | Dải docid ước đoán | Nhóm | Ghi chú |
+|---|:---|---|---|
+| 146/2026/NĐ-CP | 218xxx (tháng 5/2026, ban hành 06/5/2026) | Lâm nghiệp / Xử phạt | Cần quét dải 218140–218250 trên vanban.chinhphu.vn; nguồn tham khảo: thuvienphapluat.vn (tổng hợp NĐ 2026) |
+| 83/2026/TT-BQP | 218xxx (tháng 6/2026, ~18/6/2026) | Quốc phòng / Thi hành án | Cùng nhóm với 81 (218520), 82 (218521), 86 (218580 ước đoán) |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lâm nghiệp / Xử phạt** (rất cao — hiệu lực ngay hôm nay 25/6/2026): **146/2026/NĐ-CP** — phạt phá rừng đến 220 triệu; tác động trực tiếp ngành lâm nghiệp toàn quốc. Ưu tiên cao nhất — hiệu lực rồi. Cần xác minh docid gấp.
+2. **Tư pháp / Hành chính** (rất cao — còn 6 ngày): **156/2026/NĐ-CP** — sửa đổi NĐ 31/2019 về tố cáo; rút đơn, ứng dụng CNTT; hiệu lực 01/7/2026. Docid **218183** xác minh.
+3. **Hàng không / Xây dựng** (rất cao — còn 6 ngày): **18/2026/TT-BXD** — Chương trình an toàn hàng không dân dụng; hiệu lực 01/7/2026. Docid **218173** xác minh.
+4. **Ngân hàng** (trung bình — chưa rõ hiệu lực): **18/2026/TT-NHNN** — hệ thống mã ngân hàng; cần xác minh ngày hiệu lực. Docid **218340** xác minh.
+5. **Quốc phòng / Thi hành án** (trung bình — còn 6 ngày): **83/2026/TT-BQP** — nội quy giam giữ Quân đội; cùng nhóm với 81, 82, 84, 85, 86/TT-BQP. Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **146/2026/NĐ-CP**: Ban hành 06/5/2026 (đợt đầu tháng 5), hiệu lực 25/6/2026 — khoảng 50 ngày chờ hiệu lực. Đây là văn bản có hiệu lực SỚM NHẤT trong nhóm 5 văn bản mới (hiệu lực ngay hôm nay 25/6/2026). Bổ sung nhóm Lâm nghiệp / Nông nghiệp / Xử phạt vào tracking. Cần xác minh docid trong phiên sau.
+- **156/2026/NĐ-CP**: Docid **218183** xác minh trực tiếp từ vanban.chinhphu.vn — sửa đổi NĐ 31/2019 về Luật Tố cáo. Bổ sung nhóm Tư pháp / Hành chính.
+- **18/2026/TT-BXD**: Cùng số với 18/2026/TT-NHNN nhưng khác Bộ (Bộ Xây dựng vs. NHNN) — không trùng. Có thể cùng ngày ban hành với 18/TT-NHNN (17/6/2026) — batch Thông tư cùng ngày. Docid **218173** xác minh.
+- **18/2026/TT-NHNN**: Docid **218340** xác minh trực tiếp từ vanban.chinhphu.vn — sửa đổi hệ thống mã ngân hàng. Hiệu lực chưa rõ — cần xác minh thêm.
+- **83/2026/TT-BQP**: Phát hiện từ tin tổng hợp luatvietnam.vn (slug 109753) về "Danh sách thông tư của Bộ Quốc phòng về tạm giữ, tạm giam và thi hành án hình sự từ 01/7/2026". Nằm trong nhóm 6 TT-BQP cùng hiệu lực 01/7/2026 (81, 82, 83, 84, 85, 86).
+- **18/TT-BXD và 18/TT-NHNN cùng số hiệu**: Đây là 2 văn bản KHÁC nhau (Bộ Xây dựng vs. NHNN) — không trùng số hiệu vì loại văn bản phân biệt bởi tên Bộ ban hành. Tracking ghi rõ số hiệu + tên Bộ.
+- **Dải 218560–218650 trống**: vanban.chinhphu.vn trả về skeleton rỗng (JS-render) đối với docid 218560–218650 — nhiều khả năng đây là dải chưa được index public hoặc đang trong quá trình cập nhật. Văn bản mới nhất có thể nằm ở docid cao hơn (218660+).
+- **Lưu ý "Hơn 200 văn bản 01/7/2026"**: luatvietnam.vn công bố 200+ văn bản có hiệu lực 01/7/2026 (29 Luật, 49 NĐ-CP, 72 TT). Nhiều văn bản trong số đó đã được tracking ở các lần trước. Cần agent riêng rà soát lại toàn bộ để đảm bảo không bỏ sót.
+- Nguồn: web_fetch vanban.chinhphu.vn (docid 218183, 218173, 218340), web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn (slug 109687, 109739, 109753, 435173), baochinhphu.vn, nhandan.vn, dantien.thainguyen.gov.vn, vtv.vn, thuvienphapluat.vn.
+- Ngày phát hiện: 2026-06-25 02:37 ICT
+- Phiên thực hiện: agent:github-io:subagent:dbf35dc6-b922-426e-afd4-3d6e087bc2dd (Đệ #1 Discovery — lần 23)
