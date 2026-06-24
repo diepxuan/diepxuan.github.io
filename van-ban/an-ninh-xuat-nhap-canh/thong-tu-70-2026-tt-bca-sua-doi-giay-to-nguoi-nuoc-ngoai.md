@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: vanban
 title: "Thông tư 70/2026/TT-BCA sửa đổi mẫu giấy tờ nhập cảnh, xuất cảnh, cư trú người nước ngoài"
 date: 2026-05-25
-modified: 2026-06-24
+modified: 2026-06-25
 document_number: 70/2026/TT-BCA
 signer: Bộ trưởng Bộ Công an
-effective_date: 2026-06-30
+effective_date: 2026-07-01
 type: thong-tu
 group: an-ninh-xuat-nhap-canh
 tags:
