@@ -1,4 +1,73 @@
-## Cập nhật 2026-06-23 (Discovery lần 18 — tuần 16–23/6/2026)
+## Cập nhật 2026-06-24 (Discovery lần 19 — tuần 24/6/2026)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218524–218651 + web_search Brave/Gemini + baochinhphu.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-23 lần 18): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 221/2026/NĐ-CP | 22/06/2026 | Quy định về **Nhà chức trách hàng không Việt Nam và quản lý an toàn hàng không** — thay thế toàn bộ quy định về nhà chức trách hàng không (Cục Hàng không, Nhà chức trách); lấy phòng ngừa rủi ro làm trọng tâm; thẩm quyền cấp phép, giám sát, điều tra tai nạn; thay thế quy định cũ về Cục Hàng không dân dụng; hiệu lực **01/7/2026** | Hàng không / An ninh | chua-xac-minh | **Chưa có** | Nguồn: baochinhphu.vn (docid chưa rõ), baomoi.com, vov.vn, thuvienphapluat.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026; tác động Cục Hàng không, hãng hàng không, sân bay toàn quốc; cần xác minh docid + crawl chi tiết |
+| 220/2026/NĐ-CP | 23/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 67/2023/NĐ-CP về **bảo hiểm bắt buộc** (TNDS xe cơ giới, bảo hiểm cháy nổ, bảo hiểm trong hoạt động đầu tư xây dựng) — sửa đổi Chương IV về bảo hiểm XD: (i) **công trình có ảnh hưởng lớn đến an toàn cộng đồng** hoặc (ii) **công trình có nguy cơ tác động xấu đến môi trường ở mức cao** hoặc (iii) **công trình quy mô lớn, kỹ thuật phức tạp** bắt buộc phải mua bảo hiểm; số tiền bảo hiểm tối thiểu không thấp hơn tổng giá trị hợp đồng XD; phí bảo hiểm có thể tăng/giảm tối đa 25% theo mức độ rủi ro; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm / Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: baochinhphu.vn (PDF: `bcp.cdnchinhphu.vn/334894974524682240/2026/6/23/220-2026-nd-cp-22062026-signed.pdf`), vov.vn, suckhoedoisong.vn, vtv.vn; ngày ban hành: 23/6/2026; hiệu lực: 01/7/2026; tác động doanh nghiệp bảo hiểm, chủ đầu tư xây dựng, cơ quan quản lý XD; cần xác minh docid + crawl chi tiết |
+| 218/2026/NĐ-CP | 19/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 158/2024/NĐ-CP về **hoạt động vận tải đường bộ** — siết chặt quản lý xe hợp đồng: không xác nhận đặt chỗ cho từng hành khách, không bán vé, không ấn định hành trình cố định, không đón trả khách tại địa điểm cố định; từ 01/01/2028: xe hợp đồng phải **kết nối, chia sẻ dữ liệu Hợp đồng vận tải** với Bộ Công an (Cục Cảnh sát giao thông) trước mỗi chuyến đi; hiệu lực **10/8/2026** | Giao thông / Vận tải | **218537** | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid 218537, xác minh chính thức), baochinhphu.vn, luatvietnam.vn (slug 438376); ngày ban hành: 19/6/2026; hiệu lực: 10/8/2026; tác động xe hợp đồng, ứng dụng gọi xe, doanh nghiệp vận tải toàn quốc |
+| 32/2026/TT-BXD | 22/06/2026 | Quy định chi tiết một số điều của NĐ 207/2026/NĐ-CP về **quản lý chất lượng, thi công xây dựng và bảo trì công trình** — hướng dẫn: kế hoạch thí nghiệm vật liệu/cấu kiện, quan trắc công trình khi thi công (báo cáo chủ đầu tư nếu vượt giới hạn), kiểm định xây dựng, giám định XD, **3 nhóm công trình phải quan trắc bảo trì** (cấp đặc biệt, cấp I trở lên, sân vận động cấp I trở lên); báo cáo/công bố công trình hết hạn sử dụng; bãi bỏ một số điều TT 10/2021/TT-BXD; hiệu lực **01/7/2026** | Xây dựng / Thi công | **218527** | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid 218527, xác minh chính thức), luatvietnam.vn (slug 438345), moc.gov.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026; tác động nhà thầu XD, chủ đầu tư, tư vấn giám sát; cùng nhóm với 207/2026/NĐ-CP (cần crawl chi tiết) |
+| 25/2026/TT-NHNN | 22/06/2026 | Sửa đổi một số điều của Thông tư 22/2019/TT-NHNN về **giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động ngân hàng** — nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn lên **40%** từ 01/7/2026; toàn bộ tiền gửi có kỳ hạn của Kho bạc Nhà nước không tính vào tổng tiền gửi khi tính tỷ lệ LDR; nâng chuẩn quản trị rủi ro; hiệu lực **01/7/2026** | Ngân hàng / Tài chính | **218533** | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid 218533, xác minh chính thức), luatvietnam.vn (slug 438234), tapchikinhtetaichinh.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ hệ thống ngân hàng thương mại Việt Nam |
+
+### Nguồn đã xác minh docid trong phiên này (dải 218524–218651)
+
+| DocID | Số hiệu | Ghi chú |
+|---:|---|---|
+| 218517 | **76/2026/TT-BQP** | Bộ Quốc phòng — bổ sung nhóm Quốc phòng |
+| 218518 | **77/2026/TT-BQP** | Bộ Quốc phòng — bổ sung nhóm Quốc phòng |
+| 218519 | **78/2026/TT-BQP** | Bộ Quốc phòng — thăm gặp, chế độ ăn ở người bị tạm giữ/tạm giam; hiệu lực 01/7/2026 |
+| 218527 | **32/2026/TT-BXD** | Hướng dẫn NĐ 207/2026 — đã ghi vào bảng chính |
+| 218532 | **15/2026/TT-TANDTC** | TAND tối cao — bồi dưỡng công chức, viên chức tòa án |
+| 218533 | **25/2026/TT-NHNN** | Sửa đổi TT 22/2019 — đã ghi vào bảng chính |
+| 218534 | **66/2026/TT-BTC** | Lương cơ sở — trùng lặp với tracking đã có (2026-06-23) |
+| 218535 | **75/2026/TT-BQP** | Bộ Quốc phòng — bổ sung nhóm Quốc phòng |
+| 218537 | **218/2026/NĐ-CP** | Vận tải đường bộ — đã ghi vào bảng chính |
+| 218539 | **68/2026/TT-BTC** | KHCN dự trữ quốc gia — trùng lặp với tracking đã có (2026-06-22 lần 14, status Chưa có) |
+
+### Văn bản chưa có docid hoặc chưa xác minh (cần phiên sau)
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Ghi chú |
+|---|---:|---|---|---|
+| 76/2026/TT-BQP | ~23/06/2026 | Bộ Quốc phòng — bổ sung nhóm TT Quân đội về người bị tạm giữ/tạm giam | Quốc phòng | Docid 218517; cùng nhóm với 81, 82, 78/2026/TT-BQP |
+| 77/2026/TT-BQP | ~23/06/2026 | Bộ Quốc phòng — bổ sung nhóm TT Quân đội | Quốc phòng | Docid 218518; cùng nhóm |
+| 78/2026/TT-BQP | ~23/06/2026 | Tổ chức thăm gặp, làm việc đối với người bị tạm giữ, người bị tạm giam; chế độ ăn, ở và quản lý giam giữ người bị kết án tử hình đang bị tạm giam | Quốc phòng / Thi hành án | Docid 218519; hiệu lực 01/7/2026 |
+| 15/2026/TT-TANDTC | 22/06/2026 | Bồi dưỡng công chức, viên chức Tòa án (tối thiểu 1 tuần/năm về chuyên môn, chuyển đổi số, AI); Thẩm phán phải xét xử tối thiểu 05 vụ/năm từ 01/6/2026 | Tư pháp / Tố tụng | Docid 218532; hiệu lực kể từ ngày ký (22/6/2026) |
+| 75/2026/TT-BQP | ~23/06/2026 | Bộ Quốc phòng — bổ sung nhóm TT Quân đội | Quốc phòng | Docid 218535 |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-23 lần 18)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 221/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 220/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 218/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 32/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 25/2026/TT-NHNN | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hàng không / An ninh** (rất cao — 7 ngày tới): **221/2026/NĐ-CP** — Nhà chức trách hàng không Việt Nam mới, quản lý an toàn; tác động toàn ngành hàng không; hiệu lực 01/7/2026. Cần xác minh docid từ vanban.chinhphu.vn.
+2. **Tài chính / Bảo hiểm / Xây dựng** (rất cao — 7 ngày tới): **220/2026/NĐ-CP** — bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng; công trình ảnh hưởng lớn an toàn, nguy cơ môi trường cao, quy mô lớn bắt buộc mua bảo hiểm; hiệu lực 01/7/2026. Có PDF chính thức từ bcp.cdnchinhphu.vn.
+3. **Xây dựng** (rất cao — 7 ngày tới): **32/2026/TT-BXD** — hướng dẫn NĐ 207/2026; quan trắc công trình, kiểm định, giám định, bảo trì; hiệu lực 01/7/2026. Docid xác minh 218527.
+4. **Ngân hàng** (rất cao — 7 ngày tới): **25/2026/TT-NHNN** — nới LDR lên 40%, tiền gửi Kho bạc không tính vào LDR; tác động trực tiếp thanh khoản ngân hàng; hiệu lực 01/7/2026. Docid xác minh 218533.
+5. **Giao thông / Vận tải** (cao — 47 ngày): **218/2026/NĐ-CP** — siết xe hợp đồng, chia sẻ dữ liệu với Cảnh sát giao thông từ 01/01/2028; hiệu lực 10/8/2026. Docid xác minh 218537. Có nguồn luatvietnam.vn.
+
+### Ghi chú xử lý
+
+- **Tốc độ ban hành văn bản tăng mạnh**: Ngày 22/6/2026 có ít nhất 6 văn bản quan trọng cùng ngày (221/NĐ-CP, 32/TT-BXD, 25/TT-NHNN, 15/TT-TANDTC + 2 NQ-CP từ baochinhphu.vn), ngày 23/6 có 220/NĐ-CP. Đây là đợt ban hành cuối trước đợt có hiệu lực hàng loạt 01/7/2026.
+- **Nhóm 01/7/2026 mới**: 221/NĐ-CP (hàng không), 220/NĐ-CP (bảo hiểm XD), 32/TT-BXD (quản lý chất lượng XD), 25/TT-NHNN (an toàn ngân hàng) — tất cả cùng hiệu lực 01/7/2026 (chỉ còn 7 ngày khi phát hiện).
+- **Văn bản bổ sung**: 76–78, 75/TT-BQP (Bộ Quốc phòng) cùng nhóm với 81, 82/TT-BQP — cần xác minh nội dung chi tiết trong phiên sau.
+- **68/2026/TT-BTC** (KHCN dự trữ quốc gia): Docid xác minh **218539** từ vanban.chinhphu.vn — cập nhật vào tracking (trước đó ghi "chua-xac-minh").
+- Nguồn: quét vanban.chinhphu.vn dải docid 218524–218651 + web_search Brave/Gemini tổng hợp baochinhphu.vn, luatvietnam.vn, vov.vn, tapchikinhtetaichinh.vn, baomoi.com, thuvienphapluat.vn, doanhnhan.congly.vn, congluan.vn.
+- Ngày phát hiện: 2026-06-24 13:45 ICT
+- Phiên thực hiện: agent:github-io:subagent:5cc1d13b-1545-49b3-8995-7b94aedc69a5 (Đệ #1 Discovery — lần 19)
+
+---
+
+## Cập nhật 2026-06-23
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search
 
