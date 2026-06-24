@@ -1,19 +1,30 @@
 ---
 layout: vanban
-title: "Nghị định 213/2026/NĐ-CP"
-docid: 218508
-group: tu-phap-thi-hanh-an "Quy định chi tiết một số điều của Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+title: "Nghị định 213/2026/NĐ-CP quy định chi tiết một số điều của Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
 date: 2026-06-18
-modified: 2026-06-23
-group: tu-phap
+modified: 2026-06-24
+so_hieu: 213/2026/NĐ-CP
+ngay_ban_hanh: 2026-06-18
+nguoi_ky: Phạm Gia Túc
+co_quan: Chính phủ
+loai_van_ban: Nghị định
+hieu_luc: 2026-07-01
+trich_yeu: "Quy định chi tiết một số điều của Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+nhom: Tư pháp / Thi hành án
+group: tu-phap-thi-hanh-an
 tags:
   - tu-phap
   - hinh-su
   - thi-hanh-an
+  - Luật THTG
+  - Phạm Gia Túc
 docid: "chua-xac-minh"
 source: luatvietnam.vn; baochinhphu.vn
-effectivedate: 2026-07-01
-signer: "Phạm Gia Túc"
+can_cu_phap_ly:
+  - "Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+so_dieu: 0
+so_chuong: 0
+trang_thai: FULL
 ---
 
 # Nghị định 213/2026/NĐ-CP
