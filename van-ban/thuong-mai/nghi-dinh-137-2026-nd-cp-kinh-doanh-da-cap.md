@@ -8,7 +8,7 @@ tags:
   - ban-hang-da-cap
   - nghi-dinh
 docid: 217677
-source: vanban.chinhphu.vn; datafiles.chinhphu.vn; moot.gov.vn
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn; moit.gov.vn
 esign: true
 
 # Nghị định 137/2026/NĐ-CP
@@ -665,8 +665,7 @@ nghiệp giải quyết, thông báo cho Ủy ban nhân dân cấp tỉnh nơi t
 và Bộ Công Thương.
 
 ## Chương III
-### QUẢN LÝ ## Chương V
-### HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TẠI ĐỊA PHƯƠNG
+### QUẢN LÝ HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TẠI ĐỊA PHƯƠNG
 
 ### Điều 19. Hoạt động bán hàng đa cấp tại địa phương
 
