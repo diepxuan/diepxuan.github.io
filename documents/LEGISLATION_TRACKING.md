@@ -47,6 +47,53 @@ Script quét 35 file có size < 10KB + lastedit > 2026-06-17. Ghi nhận top pri
 ---
 
 ## Cập nhật 2026-06-24 (Discovery lần 19 — tuần 24/6/2026)
+## Cập nhật 2026-06-24 (Discovery lần 22 — tuần 24/6/2026)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218560–218800 + web_search Brave/Gemini + baochinhphu.vn, luatvietnam.vn, bocongan.gov.vn, baoxaydung.vn, vnexpress.net, thanhnien.vn, tuoitre.vn, nld.com.vn, cafef.vn theo nhóm: Hàng không, Giao thông, Xây dựng, An ninh, Công an, Tài chính, Ngân hàng, Bảo hiểm. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-24 lần 21): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 214/2026/NĐ-CP | 18/06/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực **trồng trọt, bảo vệ và kiểm dịch thực vật** — quy định xử phạt trên môi trường điện tử (Điều 8); biên phạt đến 100 triệu đồng đối với hành vi vi phạm quy định về sản xuất, buôn bán giống cây trồng; áp dụng công nghệ số trong xử phạt VPHC; thay thế NĐ 46/2022/NĐ-CP; hiệu lực **05/8/2026** | Nông nghiệp / Môi trường / Xử phạt | **218498** ✅ | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid **218498** xác minh chính thức), luatvietnam.vn (slug 438062), baoquangtri.vn, vnanet.vn, baomoi.com; ngày ban hành: 18/6/2026; hiệu lực: 05/8/2026; tác động cơ sở sản xuất kinh doanh giống cây trồng, phân bón, thuốc bảo vệ thực vật toàn quốc |
+| 137/2026/NĐ-CP | 07/04/2026 | Quy định về **quản lý hoạt động kinh doanh theo phương thức đa cấp** — cắt giảm điều kiện vốn điều lệ tối thiểu và hệ thống thông tin liên lạc; quy định đăng ký hoạt động, quản lý người tham gia, ký quỹ; **cấm ký hợp đồng với cán bộ, công chức, sĩ quan, quân nhân** (khoản 2 Điều 28); đào tạo cơ bản người tham gia; có hiệu lực **01/7/2026** | Thương mại / Hành chính | **217677** ✅ | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid **217677** xác minh chính thức), moit.gov.vn, luatvietnam.vn (slug 431268); ngày ban hành: 07/04/2026; hiệu lực: 01/7/2026; tác động doanh nghiệp bán hàng đa cấp, người tham gia, cơ quan quản lý; bổ sung nhóm Thương mại |
+| 71/2026/TT-BQP | 10/06/2026 | Quy định **tiêu chuẩn quân trang nghiệp vụ và quân trang tăng thêm** trong Quân đội nhân dân Việt Nam — quân trang cho Bộ đội Biên phòng cửa khẩu, lực lượng phòng chống tội phạm ma túy, chống khủng bố, trinh sát đặc nhiệm, cảnh vệ, an ninh mạng, tác chiến không gian mạng, Cảnh sát biển, hải quân đánh bộ, lực lượng văn hóa nghệ thuật quân đội; **bãi bỏ 5 quy định cũ** (TT 207/2016, 147/2020, 09/2018, 109/2019, 204/2016); hiệu lực ký **10/6/2026**, tiêu chuẩn thực hiện từ **01/7/2026** | Quốc phòng / Hành chính | **chua-xac-minh** | **Chưa có** | Nguồn: luatvietnam.vn (slug 437446), luatvietnam.vn tin văn bản mới (186-109748); ngày ban hành: 10/6/2026; hiệu lực: 10/6/2026 (ký), tiêu chuẩn thực hiện 01/7/2026; tác động Quân đội nhân dân toàn quốc; cần xác minh docid từ vanban.chinhphu.vn |
+| 40/2026/TT-BGDĐT | 15/05/2026 | Quy định về **công tác sinh viên** — giáo dục chính trị, tư tưởng, pháp luật, đạo đức, lối sống; tư vấn, hỗ trợ sinh viên; quản lý sinh viên trên môi trường số; **đánh giá kết quả rèn luyện theo thang điểm 100 và phân loại 5 mức**; xử lý kỷ luật (khiển trách, cảnh cáo, đình chỉ học tập, buộc thôi học); thay thế các văn bản cũ; hiệu lực **30/6/2026** | Giáo dục / Đào tạo | **218142** ✅ | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid **218142** xác minh chính thức), luatvietnam.vn (slug 434663), ftu.edu.vn, hue.gov.vn; ngày ban hành: 15/5/2026; hiệu lực: 30/6/2026; tác động cơ sở giáo dục đại học, cao đẳng, cơ sở GD nghề nghiệp toàn quốc; hiệu lực trong 6 ngày |
+| 19/2026/TT-BNNMT | 30/03/2026 | Quy định kỹ thuật thực hiện lồng ghép nội dung **đo đạc lập bản đồ địa chính, đăng ký đất đai, lập hồ sơ địa chính và xây dựng cơ sở dữ liệu quốc gia về đất đai** — nguyên tắc xây dựng mã định danh thửa đất (mã duy nhất toàn quốc, mã hóa theo vị trí địa lý); bãi bỏ Tiểu mục 3 Chương II Thông tư 25/2024/TT-BTNMT; hiệu lực **30/3/2026** (cùng ngày ký) | Nông nghiệp / Đất đai / Môi trường | **217452** ✅ | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid **217452** xác minh chính thức), datafiles.chinhphu.vn (PDF 19-bnnmt.pdf), haiphong.gov.vn, cantho.gov.vn, pbgdpl.cantho.gov.vn; ngày ban hành: 30/3/2026; hiệu lực: 30/3/2026; tác động cơ quan địa chính, Sở TN&MT, UBND cấp tỉnh/huyện/xã toàn quốc; hỗ trợ số hóa đất đai |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-24 lần 21)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 214/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 137/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 71/2026/TT-BQP | **KHÔNG** | Thêm mới — Chưa có |
+| 40/2026/TT-BGDĐT | **KHÔNG** | Thêm mới — Chưa có |
+| 19/2026/TT-BNNMT | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Giáo dục** (rất cao — còn **6 ngày**): **40/2026/TT-BGDĐT** — công tác sinh viên, đánh giá rèn luyện thang điểm 100, 5 mức; hiệu lực 30/6/2026. Tác động trực tiếp đến sinh viên, trường đại học, cao đẳng toàn quốc. Docid **218142** xác minh.
+2. **Nông nghiệp / Môi trường** (trung bình — 42 ngày): **214/2026/NĐ-CP** — xử phạt VPHC trồng trọt, bảo vệ thực vật; xử phạt trên môi trường điện tử; hiệu lực 05/8/2026. Tác động cơ sở sản xuất giống cây trồng, phân bón. Docid **218498** xác minh.
+3. **Thương mại** (rất cao — còn **7 ngày**): **137/2026/NĐ-CP** — quản lý kinh doanh đa cấp, cấm cán bộ/công chức tham gia; hiệu lực 01/7/2026. Tác động doanh nghiệp đa cấp, người tham gia. Docid **217677** xác minh.
+4. **Quốc phòng** (rất cao — còn **7 ngày**): **71/2026/TT-BQP** — tiêu chuẩn quân trang quân đội, bãi bỏ 5 quy định cũ; tiêu chuẩn thực hiện 01/7/2026. Docid chưa xác minh — cần dò trong dải 218600–218800.
+5. **Nông nghiệp / Đất đai** (thấp — đang có hiệu lực): **19/2026/TT-BNNMT** — mã định danh thửa đất, cơ sở dữ liệu quốc gia về đất đai; hiệu lực 30/3/2026. Tác động cơ quan địa chính. Docid **217452** xác minh.
+
+### Ghi chú xử lý
+
+- **214/2026/NĐ-CP**: Docid **218498** xác minh từ vanban.chinhphu.vn. Xử phạt VPHC trồng trọt trên môi trường điện tử — điểm mới so với NĐ 46/2022. Bổ sung nhóm Nông nghiệp / Môi trường / Xử phạt vào tracking.
+- **137/2026/NĐ-CP**: Docid **217677** xác minh từ vanban.chinhphu.vn. Ban hành ngày 07/04/2026 (đợt đầu tháng 4), hiệu lực 01/7/2026 — khoảng 3 tháng chờ hiệu lực. Bổ sung nhóm Thương mại / Hành chính vào tracking.
+- **71/2026/TT-BQP**: Ban hành 10/6/2026 bởi Ủy ban Thường vụ Quốc hội (Bộ Quốc phòng). Docid chưa xác minh — dải phù hợp 218600–218800 hoặc 217xxx (tuần 10/6/2026). Cần phiên sau xác minh.
+- **40/2026/TT-BGDĐT**: Docid **218142** xác minh từ vanban.chinhphu.vn. Hiệu lực 30/6/2026 — chỉ còn 6 ngày khi phát hiện. Ưu tiên cao nhất trong nhóm 5 văn bản mới.
+- **19/2026/TT-BNNMT**: Docid **217452** xác minh từ vanban.chinhphu.vn. Ban hành 30/3/2026 — đợt đầu quý 2, hiệu lực cùng ngày. Mã định danh thửa đất là nền tảng số hóa đất đai quốc gia.
+- **Không phát hiện văn bản ngày 24/6/2026**: Không có văn bản mới ban hành ngày 24/6/2026 (tra cứu vanban.chinhphu.vn dải 218560–218800, web_search Brave/Gemini). Đợt ban hành cuối cùng là ngày 23/6/2026.
+- **Firecrawl credits đã hết (402)**: Không thể quét trực tiếp vanban.chinhphu.vn dải 218600+ với Firecrawl. Dùng web_fetch đơn lẻ (limit 1 doc/page) để xác minh docid — không tốn credits.
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, bocongan.gov.vn, moit.gov.vn, bqp.vn, luatminhnguyen.com, baomoi.com, vnanet.vn, baoquangtri.vn.
+- Ngày phát hiện: 2026-06-24 22:03 ICT
+- Phiên thực hiện: agent:github-io:subagent:3edab108-fd1f-4105-ae3a-b174b72a2f37 (Đệ #1 Discovery — lần 22)
+
+---
+
 ## Cập nhật 2026-06-24 (Discovery lần 21 — tuần 24/6/2026)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search (tối đa 5 văn bản/lần)
