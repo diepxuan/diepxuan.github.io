@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vanban
 title: "Nghị định 192/2026/NĐ-CP - Phụ cấp đặc thù y tế; hỗ trợ nhân viên y tế thôn, tổ dân phố và cô đỡ thôn, bản"
 date: 2026-05-30
 docid: 218306

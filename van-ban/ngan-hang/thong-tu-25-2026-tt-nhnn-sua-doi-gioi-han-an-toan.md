@@ -1,5 +1,5 @@
 ---
-layout: van-ban
+layout: vanban
 title: "Thông tư 25/2026/TT-NHNN sửa đổi giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động ngân hàng"
 number: 25/2026/TT-NHNN
 date: 2026-06-22

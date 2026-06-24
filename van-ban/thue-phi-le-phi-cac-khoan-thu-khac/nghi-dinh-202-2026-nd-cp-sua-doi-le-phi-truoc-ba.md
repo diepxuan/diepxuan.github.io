@@ -2,7 +2,8 @@
 layout: vanban
 title: "Nghị định 202/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 10/2022/NĐ-CP về lệ phí trước bạ"
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-202-2026-nd-cp-sua-doi-le-phi-truoc-ba/
-lastedit: 2026-06-23
+layout: vanban
+group: thue-phi-le-phi-cac-khoan-thu-khac
 so_hieu: 202/2026/NĐ-CP
 ngay_ban_hanh: 2026-06-08
 nguoi_ky: Nguyễn Văn Thắng (Phó Thủ tướng, ký thay Thủ tướng)

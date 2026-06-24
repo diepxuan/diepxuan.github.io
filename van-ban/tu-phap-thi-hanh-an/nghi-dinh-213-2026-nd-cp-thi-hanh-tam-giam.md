@@ -1,7 +1,8 @@
 ---
 layout: vanban
 title: "Nghị định 213/2026/NĐ-CP"
-description: "Quy định chi tiết một số điều của Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+docid: 218508
+group: tu-phap-thi-hanh-an "Quy định chi tiết một số điều của Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
 date: 2026-06-18
 modified: 2026-06-23
 group: tu-phap
