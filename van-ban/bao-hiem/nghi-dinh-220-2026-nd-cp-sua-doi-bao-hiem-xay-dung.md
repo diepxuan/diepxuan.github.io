@@ -2,11 +2,15 @@
 layout: vanban
 title: "Nghị định 220/2026/NĐ-CP sửa đổi bảo hiểm bắt buộc trong xây dựng"
 date: 2026-06-22
-modified: 2026-06-24
-document_number: 220/2026/NĐ-CP
-signer: Thủ tướng Chính phủ
-effective_date: 2026-07-01
-type: nhi-dinh
+modified: 2026-06-25
+so_hieu: 220/2026/NĐ-CP
+ngay_ban_hanh: 2026-06-22
+nguoi_ky: Thủ tướng Chính phủ
+co_quan: Chính phủ
+loai_van_ban: Nghị định
+hieu_luc: 2026-07-01
+trich_yeu: "Sửa đổi, bổ sung một số điều của Nghị định số 67/2023/NĐ-CP ngày 28/12/2023 của Chính phủ về bảo hiểm bắt buộc trong xây dựng, bao gồm bảo hiểm bắt buộc TNDS chủ xe cơ giới, bảo hiểm cháy nổ và bảo hiểm công trình xây dựng"
+nhom: Bảo hiểm / Xây dựng
 group: tai-chinh-bao-hiem-xay-dung
 tags:
   - bảo hiểm bắt buộc
@@ -15,9 +19,13 @@ tags:
   - sửa đổi NĐ 67/2023/NĐ-CP
   - bảo hiểm TNDS xe cơ giới
   - bảo hiểm cháy nổ
+can_cu_phap_ly:
+  - "Nghị định số 67/2023/NĐ-CP ngày 28/12/2023 của Chính phủ về bảo hiểm bắt buộc"
 docid: "218555"
-source: vanban.chinhphu.vn; bcp.cdnchinhphu.vn
-amends: 67/2023/NĐ-CP
+source: vanban.chinhphu.vn
+so_dieu: 10
+so_chuong: 0
+trang_thai: FULL
 ---
 
 # Nghị định 220/2026/NĐ-CP

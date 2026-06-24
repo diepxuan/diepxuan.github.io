@@ -18,7 +18,7 @@ tags:
   - thi-hanh-an
   - Luật THTG
   - Phạm Gia Túc
-docid: "218508"
+docid: "chua-xac-minh"
 source: luatvietnam.vn; baochinhphu.vn
 can_cu_phap_ly:
   - "Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
