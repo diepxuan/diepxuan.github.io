@@ -1065,3 +1065,52 @@ Quét vanban.chinhphu.vn dải docid 218580–218750 + web_search Brave/Gemini t
 - Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn (slug 438556, 438486), thanhtra.com.vn, suckhoedoisong.vn, daidoanket.vn, baohatinh.vn, doanhnghiepcuocsong.vn, daidoanket.vn, baomoi.com, congbao.chinhphu.vn (Công báo 348).
 - Ngày phát hiện: 2026-06-25 11:45 ICT
 - Phiên thực hiện: agent:github-io:subagent:353a0d59-5e09-4836-b6af-b425da2549b3 (Đệ #1 Discovery — lần 18)
+
+---
+
+## Cập nhật 2026-06-26 (phiên Đệ #1 Discovery — lần 18 – bổ sung tối)
+
+### Phát hiện mới từ vanban.chinhphu.vn và nguồn chính thức (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218578 (223/2026), 218533 (25/2026/TT-NHNN) + web_search Brave/Gemini ngày 25–26/6/2026: phát hiện **3 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 223/2026/NĐ-CP | 23/06/2026 | Quy định chi tiết về **tàu bay và khai thác tàu bay** — cụ thể hóa Luật Hàng không dân dụng 2025; quy định Giấy chứng nhận đủ điều kiện bay (tiêu chuẩn, đặc biệt, xuất khẩu); trách nhiệm tổ chức, cá nhân khai thác tàu bay; nhập khẩu tàu bay lần đầu; ký bởi Phó Thủ tướng Phạm Gia Túc; thay thế các quy định cũ; hiệu lực **01/7/2026** | Hàng không / Giao thông / Hàng không dân dụng | **218578** ✅ | **Chưa có** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218578`; nguồn: vanban.chinhphu.vn (docid xác minh chính thức), luatvietnam.vn (slug 438669), caa.gov.vn (32874), vov.vn, baochinhphu.vn, baoxaydung.vn; ngày ban hành: 23/6/2026; hiệu lực: 01/7/2026 (còn 5 ngày); tác động Cục Hàng không VN, hãng hàng không, sân bay, đơn vị nhập khẩu tàu bay; một trong 6 NĐ cụ thể hóa Luật Hàng không dân dụng 2025 |
+| 25/2026/TT-NHNN | 22/06/2026 | Sửa đổi, bổ sung Thông tư 22/2019/TT-NHNN về **giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động ngân hàng** — nâng tỷ lệ tối đa nguồn vốn ngắn hạn cho vay trung và dài hạn từ **30% lên 40%**; điều chỉnh cách tính tổng tiền gửi trong LDR (chỉ loại trừ 80% tiền gửi có kỳ hạn Kho bạc NN); Thống đốc NHNN được quyết định tỷ lệ linh hoạt; ước tính tạo thêm 1,3–1,5 triệu tỷ đồng dư địa tín dụng; thay thế TT 08/2020/TT-NHNN và TT 08/2026/TT-NHNN; hiệu lực **01/7/2026** | Ngân hàng / Tài chính | **218533** ✅ | **Chưa có** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218533`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn (slug 438234), tapchinganhang.gov.vn, vbpl.vn, thanhnien.vn, cafef.vn, thoibaotaichinhvietnam.vn, baodautu.vn, cafef.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 5 ngày); tác động toàn hệ thống ngân hàng thương mại, chi nhánh NH nước ngoài; đặc biệt có lợi cho bất động sản, hạ tầng, logistics, khu công nghiệp, nhà ở xã hội |
+| 32/2026/NQ-CP | 25/06/2026 | Cơ chế, chính sách đặc thù đưa **Bệnh viện Bạch Mai cơ sở Ninh Bình** và **Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình** vào vận hành — xếp cấp chuyên môn tương ứng cơ sở Hà Nội ngay từ đầu; ký hợp đồng BHYT chung với Bảo hiểm xã hội TP Hà Nội cho cả hai cơ sở; chuyển bệnh nhân, mẫu bệnh phẩm trực tiếp giữa hai cơ sở; hỗ trợ nhân lực: tối đa 15,6 triệu đ/tháng (y, bác sĩ), 12,2 triệu đ/tháng (điều dưỡng), 11,6 triệu đ/tháng (khác); hỗ trợ thuê nhà tối đa 2,5 triệu đ/tháng; hoạt động theo mô hình bệnh viện đa cơ sở; hiệu lực **25/6/2026 đến 31/12/2028** | Y tế / Chính sách xã hội | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=...`; nguồn: baochinhphu.vn (chinh phủ), nhandan.vn, vietnamplus.vn, plo.vn, bnews.vn, sggp.org.vn, baomoi.com, baotintuc.vn; ngày ban hành: 25/6/2026; hiệu lực: 25/6/2026–31/12/2028 (2,5 năm); tác động Bệnh viện Bạch Mai, Bệnh viện Việt Đức, Bảo hiểm xã hội, nhân viên y tế Ninh Bình; cần xác minh docid từ vanban.chinhphu.vn |
+
+### Xác minh docid cho các văn bản từ phiên trước (lần 17)
+
+| Số hiệu | Docid cũ | Docid mới | Trạng thái | Chi tiết |
+|---|:---:|:---:|---|---|
+| 223/2026/NĐ-CP | chua-xac-minh | **218578** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218578`; web_fetch xác nhận tiêu đề chính xác |
+| 25/2026/TT-NHNN | chua-xac-minh | **218533** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218533`; web_fetch xác nhận tiêu đề chính xác |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-25 lần 17)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|:---:|
+| 223/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 25/2026/TT-NHNN | **KHÔNG** | Thêm mới — Chưa có |
+| 32/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Ngân hàng / Tài chính** (rất cao — còn 5 ngày): **25/2026/TT-NHNN** — nới trần cho vay trung dài hạn từ 30% lên 40%, tạo thêm 1,3–1,5 triệu tỷ đ dư địa tín dụng; tác động toàn hệ thống ngân hàng, đặc biệt bất động sản và hạ tầng. Hiệu lực 01/7/2026. Docid **218533** xác minh. Có thể lấy nội dung từ luatvietnam.vn (slug 438234).
+2. **Hàng không / Giao thông** (rất cao — còn 5 ngày): **223/2026/NĐ-CP** — tàu bay và khai thác tàu bay, cụ thể hóa Luật Hàng không dân dụng 2025; tác động Cục Hàng không VN, hãng hàng không, sân bay. Hiệu lực 01/7/2026. Docid **218578** xác minh. Có thể lấy nội dung từ luatvietnam.vn (slug 438669).
+3. **Y tế / Chính sách xã hội** (rất cao — hiệu lực ngay 25/6/2026): **32/2026/NQ-CP** — cơ chế đặc thù Bệnh viện Bạch Mai và Việt Đức cơ sở Ninh Bình; tác động nhân viên y tế, bệnh nhân Ninh Bình. Hiệu lực 25/6/2026–31/12/2028. Cần xác minh docid.
+4. **Hàng không** (ưu tiên bổ sung từ phiên trước — còn 5 ngày): **222/2026/NĐ-CP** (218557 ✅), **221/2026/NĐ-CP** (docid chưa xác minh) — cùng hiệu lực 01/7/2026. Ưu tiên cùng nhóm hàng không với 223/2026.
+5. **Bảo hiểm / Ngân hàng** (ưu tiên bổ sung từ phiên trước — còn 5 ngày): **220/2026/NĐ-CP** (218555 ✅) — bảo hiểm bắt buộc sửa đổi; hiệu lực 01/7/2026.
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** được thêm vào tracking lần 18. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **223/2026/NĐ-CP docid**: Xác minh **218578** trực tiếp từ vanban.chinhphu.vn — tàu bay và khai thác tàu bay (cụ thể hóa Luật Hàng không dân dụng 2025). Hiệu lực 01/7/2026 (còn 5 ngày). Ưu tiên cùng nhóm với 221/2026, 222/2026.
+- **25/2026/TT-NHNN docid**: Xác minh **218533** trực tiếp từ vanban.chinhphu.vn — nới trần cho vay trung dài hạn từ 30% lên 40%. Hiệu lực 01/7/2026. Đây là chính sách tiền tệ quan trọng ảnh hưởng toàn hệ thống ngân hàng.
+- **32/2026/NQ-CP docid**: Chưa xác minh — cần tìm trong dải docid phù hợp (218580–218620) hoặc tìm từ luatvietnam.vn trong phiên sau.
+- **Nhóm hiệu lực 01/7/2026 (còn 5 ngày)**: 220, 221, 222 (từ lần 17) + 223/2026/NĐ-CP + 25/2026/TT-NHNN (từ lần 18) — tổng cộng 5 văn bản cùng hiệu lực 01/7/2026 trong nhóm này. Ưu tiên crawl tất cả trước ngày hiệu lực.
+- **Không có văn bản mới từ ngày 26/6/2026**: Kết quả search không tìm thấy Nghị định, Thông tư, Nghị quyết mới ban hành ngày 26/6/2026 (ngày nghỉ lễ Quốc khánh 2/9 dịch chuyển — có thể gộp cuối tuần).
+- Nguồn: web_fetch vanban.chinhphu.vn (docid 218578, 218533), web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn (slug 438669, 438234), caa.gov.vn, tapchinganhang.gov.vn, baochinhphu.vn, nhandan.vn, vov.vn, baoxaydung.vn, cafef.vn, thoibaotaichinhvietnam.vn, baodautu.vn, plo.vn, bnews.vn, sggp.org.vn.
+- Ngày phát hiện: 2026-06-26 04:10 ICT
+- Phiên thực hiện: agent:github-io:subagent:78021590-14ec-451f-9adf-cfc72eeffb38 (Đệ #1 Discovery — lần 18)
