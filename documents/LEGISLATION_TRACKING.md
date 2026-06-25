@@ -1,3 +1,59 @@
+## Cập nhật 2026-06-25 (phiên Đệ #1 Discovery — lần 17)
+
+### Phát hiện mới từ vanban.chinhphu.vn và nguồn chính thức (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218550–218750 + web_search Brave/Gemini theo nhóm chủ đề: Giao thông, Hàng không, Bảo hiểm, Tài chính, Nông nghiệp, Xây dựng. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-25 lần 16): phát hiện **2 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 222/2026/NĐ-CP | 22/06/2026 | Quy định về **hoạt động bay** — tạo hành lang pháp lý thống nhất quản lý và điều hành chuyến bay dân dụng tại Việt Nam; quy định rõ nguyên tắc hoạt động bay tại sân bay; quy chế bay, phương thức bay và phương thức hoạt động trong khu vực sân bay dùng chung; thẩm quyền cấp, sửa đổi, hủy bỏ phép bay; vùng trời sân bay dùng chung; hiệu lực **01/7/2026** | Hàng không / Giao thông / Hàng không dân dụng | **218557** ✅ | **Chưa có** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218557`; nguồn: vanban.chinhphu.vn (docid xác minh chính thức), baotintuc.vn, vov.vn, baoxaydung.vn, thuvienphapluat.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 6 ngày); tác động Cục Hàng không, hãng hàng không, sân bay, đơn vị cung cấp dịch vụ không lưu |
+| 32/2026/TT-BXD | 22/06/2026 | Quy định chi tiết một số điều của NĐ 207/2026/NĐ-CP về **quản lý chất lượng, thi công xây dựng và bảo trì** công trình xây dựng — kiểm định chất lượng vật liệu xây dựng; trình tự thực hiện kiểm định xây dựng; báo cáo và công bố công trình hết thời hạn sử dụng; thay thế Thông tư cũ; hiệu lực **01/7/2026** | Xây dựng | **218527** ✅ | **Chưa có** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218527`; nguồn: vanban.chinhphu.vn (docid xác minh), moc.gov.vn, luatvietnam.vn (slug 438345), thuvienphapluat.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 6 ngày); tác động chủ đầu tư, nhà thầu, đơn vị kiểm định xây dựng; hướng dẫn chi tiết NĐ 207/2026/NĐ-CP |
+
+### Văn bản đã có trong tracking (xác nhận từ quét lần này)
+
+| Số hiệu | Trạng thái cũ | Trạng thái mới | Ghi chú |
+|---|:---:|:---:|---|
+| 220/2026/NĐ-CP | Chưa có | **Chưa có** (cần crawl chi tiết) | Docid **218555** xác minh từ vanban.chinhphu.vn; bảo hiểm bắt buộc; hiệu lực 01/7/2026 |
+| 221/2026/NĐ-CP | Chưa có (docid chua-xac-minh) | **Chưa có** (docid chưa xác minh) | Nhà chức trách hàng không + quản lý an toàn theo ICAO; hiệu lực 01/7/2026; docid trùng 218552 (146/2026) — cần fetch khác |
+
+### Xác minh docid mới
+
+| Số hiệu | Docid cũ | Docid mới | Trạng thái | Chi tiết |
+|---|:---:|:---:|---|---|
+| 222/2026/NĐ-CP | chua-xac-minh | **218557** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218557` |
+| 32/2026/TT-BXD | chua-xac-minh | **218527** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218527` |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-25 lần 16)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|:---:|
+| 222/2026/NĐ-CP | **CÓ** (dòng 925 entry đầy đủ, dòng 943 "Chưa có") | Thêm mới (entry dòng 943); file chưa có — entry dòng 925 đã đầy đủ trích yếu |
+| 32/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hàng không / Giao thông** (rất cao — còn 6 ngày): **222/2026/NĐ-CP** — hoạt động bay, quy chế bay, phép bay, vùng trời sân bay dùng chung; tác động Cục Hàng không, hãng hàng không, đơn vị không lưu. Hiệu lực 01/7/2026. Docid **218557** xác minh.
+2. **Xây dựng** (rất cao — còn 6 ngày): **32/2026/TT-BXD** — hướng dẫn NĐ 207/2026 về quản lý chất lượng thi công và bảo trì; tác động chủ đầu tư, nhà thầu. Hiệu lực 01/7/2026. Docid **218527** xác minh.
+3. **Hàng không / An ninh** (rất cao — còn 6 ngày): **221/2026/NĐ-CP** — nhà chức trách hàng không, quản lý an toàn theo ICAO; tác động Cục Hàng không VN, hãng hàng không. Hiệu lực 01/7/2026. Cần xác minh docid.
+4. **Bảo hiểm / Xây dựng** (rất cao — còn 6 ngày): **220/2026/NĐ-CP** — bảo hiểm bắt buộc công trình xây dựng; tác động chủ đầu tư. Hiệu lực 01/7/2026. Docid **218555** xác minh.
+5. **Đất đai / Hành chính** (cao): **31/2026/NQ-CP** — cơ chế đặc thù xử lý nhà, đất dôi dư; trao quyền toàn cho Chủ tịch UBND cấp tỉnh; tác động toàn quốc. Hiệu lực 5 năm từ 24/6/2026. Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được thêm vào tracking lần 17. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **222/2026/NĐ-CP docid**: Xác minh **218557** trực tiếp từ vanban.chinhphu.vn — hoạt động bay. Hiệu lực 01/7/2026 (còn 6 ngày). Ưu tiên crawl chi tiết cùng với 221/2026.
+- **32/2026/TT-BXD docid**: Xác minh **218527** trực tiếp từ vanban.chinhphu.vn — hướng dẫn NĐ 207/2026 về quản lý chất lượng xây dựng. Hiệu lực 01/7/2026. Văn bản ngắn gọn — nên crawl nhanh cùng với NĐ 207/2026.
+- **220/2026/NĐ-CP docid**: Xác minh **218555** từ vanban.chinhphu.vn (dải 218550–218557). Entry tại dòng 13 lần 16 cần cập nhật docid. Bảo hiểm bắt buộc — hiệu lực 01/7/2026.
+- **221/2026/NĐ-CP docid**: Vẫn chưa xác minh — docid 218552 trùng với 146/2026/NĐ-CP. Cần thử dải cao hơn 218560–218750 trong phiên sau (nhiều docid trong dải này trả về skeleton JS-rỗng do trang web ASP.NET yêu cầu JavaScript render).
+- **Nhóm 3 NĐ hàng không cùng ngày 22/6/2026**: 221/2026/NĐ-CP (nhà chức trách, an toàn), 222/2026/NĐ-CP (hoạt động bay) — cùng ngày ban hành, cùng hiệu lực 01/7/2026. Cùng thời điểm với 220/2026 (bảo hiểm bắt buộc). Ba NĐ cùng hiệu lực 01/7/2026 — ưu tiên crawl cả 3.
+- **Lưu ý 01/7/2026**: Đây là đợt văn bản có hiệu lực quan trọng nhất tháng 7/2026. 220, 221, 222/2026/NĐ-CP cùng hiệu lực 01/7/2026 — ưu tiên crawl chi tiết cả 3.
+- **Quét dải docid 218550–218750**: Nhiều docid trả về skeleton JS-rỗng do vanban.chinhphu.vn là trang ASP.NET WebForms yêu cầu JavaScript render. Chỉ các docid cụ thể được xác minh qua nguồn search engine (docid xuất hiện trực tiếp trong URL của kết quả search). Các văn bản hợp nhất NHNN (218547, 218549, 218550) không phải Nghị định/Thông tư mới — bỏ qua.
+- **Văn bản hiệu lực 01/7/2026 chưa crawl chi tiết**: 220/2026/NĐ-CP (218555 ✅), 221/2026/NĐ-CP (chưa có docid), 222/2026/NĐ-CP (218557 ✅) — còn 6 ngày. Ưu tiên Đệ #3 crawl cả 3.
+- Nguồn: web_fetch vanban.chinhphu.vn (docid 218555, 218557, 218527), web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, baotintuc.vn, vov.vn, moc.gov.vn, baoxaydung.vn.
+- Ngày phát hiện: 2026-06-25 12:12 ICT
+- Phiên thực hiện: agent:github-io:subagent:c7482a72-b7d4-423e-9541-a1ac8d186b0a (Đệ #1 Discovery — lần 17)
+
+---
 ## Cập nhật 2026-06-25 (phiên Đệ #1 Discovery — lần 16)
 
 ### Phát hiện mới từ vanban.chinhphu.vn và nguồn chính thức (tối đa 5 văn bản/lần)
@@ -9,7 +65,7 @@ Quét vanban.chinhphu.vn + web_search Brave/Gemini theo nhóm chủ đề: Lâm 
 | 146/2026/NĐ-CP | 06/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực **lâm nghiệp** — tăng mức phạt tối đa hành vi phá rừng từ **200 triệu lên 220 triệu đồng** (cá nhân); phạt lấn chiếm, sử dụng môi trường rừng trái quy định đến 80 triệu; phạt tổ chức tham quan, du lịch trong rừng khi chưa phép 4–6 triệu; quy định xử phạt trên môi trường điện tử; thay thế NĐ 35/2019/NĐ-CP và Điều 1 NĐ 07/2022/NĐ-CP; hiệu lực **25/6/2026** (hiệu lực hôm nay) | Lâm nghiệp / Nông nghiệp / Xử phạt | 218552 | **Đã có (2026-06-06)** | File: `van-ban/nong-nghiep-nong-thon/nghi-dinh-146-2026-nd-cp-xu-phat-vi-pham-linh-vuc-lam-nghiep.md`; docid 218552 xác minh từ vanban.chinhphu.vn; cập nhật 2026-06-25: entry trùng ở dòng 9 và dòng ~814 cùng trạ thái cũ; entry dòng 9 đã cập nhật sang "Đã có"; nguồn: vanban.chinhphu.vn (docid 218552), luatvietnam.vn (slug 109739), nhandan.vn |
 | 214/2026/NĐ-CP | 18/06/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực **trồng trọt, bảo vệ và kiểm dịch thực vật** — phạt cá nhân tối đa **50 triệu đồng** (trồng trọt) / **100 triệu đồng** (phân bón); phạt tổ chức gấp đôi cá nhân; sản xuất, buôn bán giống cây trồng trái phép phạt đến 50 triệu; tăng cường bảo hộ sở hữu trí tuệ giống cây trồng; hiệu lực **05/8/2026** | Nông nghiệp / Trồng trọt / Xử phạt | 218498 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218498`; nguồn: vanban.chinhphu.vn (docid 218498), nhandan.vn, baogialai.com.vn; ngày ban hành: 18/6/2026; hiệu lực: 05/8/2026; tác động ngành nông nghiệp, người sản xuất, kinh doanh giống cây trồng toàn quốc; bổ sung nhóm Trồng trọt / Bảo vệ thực vật |
 | 218/2026/NĐ-CP | 19/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 158/2024/NĐ-CP về **hoạt động vận tải đường bộ** — siết chặt xe hợp đồng (không được đón/trả khách tại điểm cố định, không bán vé cố định); từ **01/1/2028** các đơn vị vận tải hành khách theo hợp đồng phải chia sẻ dữ liệu hợp đồng với Bộ Công an; chuẩn hóa tập huấn lái xe (bài kiểm tra ≥5 điểm, cấp GCN 05 năm); hiệu lực **10/8/2026** | Giao thông / Vận tải đường bộ | 218537 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218537`; nguồn: vanban.chinhphu.vn (docid 218537), luatvietnam.vn (slug 438376), drvn.gov.vn, baochinhphu.vn; ngày ban hành: 19/6/2026; hiệu lực: 10/8/2026; tác động trực tiếp doanh nghiệp vận tải, lái xe, ứng dụng gọi xe công nghệ (Grab, Be, Gojek); chia sẻ dữ liệu với Bộ Công an từ 2028 |
-| 220/2026/NĐ-CP | 22/06/2026 | Sửa đổi Điều 33 NĐ 67/2023/NĐ-CP về **bảo hiểm bắt buộc** — sửa đổi số tiền bảo hiểm tối thiểu đối với bảo hiểm bắt buộc công trình trong thời gian xây dựng; bảo hiểm cháy, nổ bắt buộc; bảo hiểm TNDS xe cơ giới; hàng loạt công trình xây dựng phải mua bảo hiểm bắt buộc từ 01/7/2026; hiệu lực **01/7/2026** | Bảo hiểm / Xây dựng / Tài chính | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=...`; nguồn: vanban.chinhphu.vn, luatvietnam.vn (slug 438421), vov.vn, suckhoedoisong.vn, baochinhphu.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 6 ngày); tác động chủ đầu tư xây dựng, chủ xe cơ giới, doanh nghiệp bảo hiểm; cần xác minh docid (dải phù hợp 218540–218560) |
+| 220/2026/NĐ-CP | 22/06/2026 | Sửa đổi Điều 33 NĐ 67/2023/NĐ-CP về **bảo hiểm bắt buộc** — sửa đổi số tiền bảo hiểm tối thiểu đối với bảo hiểm bắt buộc công trình trong thời gian xây dựng; bảo hiểm cháy, nổ bắt buộc; bảo hiểm TNDS xe cơ giới; hàng loạt công trình xây dựng phải mua bảo hiểm bắt buộc từ 01/7/2026; hiệu lực **01/7/2026** | Bảo hiểm / Xây dựng / Tài chính | **218555** ✅ | **Chưa có** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218555`; nguồn: vanban.chinhphu.vn (docid xác minh chính thức), luatvietnam.vn (slug 438421), vov.vn, suckhoedoisong.vn, baochinhphu.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 6 ngày); tác động chủ đầu tư xây dựng, chủ xe cơ giới, doanh nghiệp bảo hiểm; lần 17: xác minh docid 218555 |
 | 221/2026/NĐ-CP | 22/06/2026 | Quy định về **Nhà chức trách hàng không Việt Nam và quản lý an toàn hàng không** — Cục Hàng không VN là Nhà chức trách hàng không; xây dựng Chương trình an toàn hàng không dân dụng VN (phù hợp ICAO); yêu cầu hệ thống quản lý an toàn (SMS), thu thập & xử lý dữ liệu an toàn; báo cáo sự cố bắt buộc; giám sát viên an toàn hàng không; thay thế NĐ 92/2015/NĐ-CP (phần hàng không); hiệu lực **01/7/2026** | Hàng không / An ninh / Giao thông | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=...`; nguồn: vanban.chinhphu.vn, luatvietnam.vn (slug 438486), baochinhphu.vn, moc.gov.vn, caa.gov.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 6 ngày); tác động Cục Hàng không VN, hãng hàng không (Vietnam Airlines, Vietjet, Bamboo, Vasco), cảng hàng không toàn quốc; cần xác minh docid (dải phù hợp 218540–218560) |
 
 ### Xác minh docid cho các văn bản từ lần trước
