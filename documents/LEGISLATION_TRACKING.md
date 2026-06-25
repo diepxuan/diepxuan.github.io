@@ -1,3 +1,57 @@
+## Cập nhật 2026-06-25 (phiên Đệ #1 Discovery — lần 16)
+
+### Phát hiện mới từ vanban.chinhphu.vn và nguồn chính thức (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn + web_search Brave/Gemini theo nhóm chủ đề: Lâm nghiệp, Nông nghiệp, Giao thông, Hàng không, Bảo hiểm, Tài chính. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-22 lần 15): phát hiện **5 văn bản mới** chưa từng được ghi nhận trong tracking chính. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 146/2026/NĐ-CP | 06/05/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực **lâm nghiệp** — tăng mức phạt tối đa hành vi phá rừng từ **200 triệu lên 220 triệu đồng** (cá nhân); phạt lấn chiếm, sử dụng môi trường rừng trái quy định đến 80 triệu; phạt tổ chức tham quan, du lịch trong rừng khi chưa phép 4–6 triệu; quy định xử phạt trên môi trường điện tử; thay thế NĐ 35/2019/NĐ-CP và Điều 1 NĐ 07/2022/NĐ-CP; hiệu lực **25/6/2026** (hôm nay) | Lâm nghiệp / Nông nghiệp / Xử phạt | 218552 | **Chưa có** | File: `van-ban/nong-nghiep-nong-thon/nghi-dinh-146-2026-nd-cp-xu-phat-vi-pham-linh-vuc-lam-nghiep.md` đã tồn tại từ 2026-06-06; docid 218552 xác minh từ vanban.chinhphu.vn; cần cập nhật trạng thái entry cũ (dòng 814) từ "Chưa có" → "Đã có"; nguồn: vanban.chinhphu.vn (docid 218552), luatvietnam.vn (slug 109739), nhandan.vn |
+| 214/2026/NĐ-CP | 18/06/2026 | Quy định xử phạt vi phạm hành chính trong lĩnh vực **trồng trọt, bảo vệ và kiểm dịch thực vật** — phạt cá nhân tối đa **50 triệu đồng** (trồng trọt) / **100 triệu đồng** (phân bón); phạt tổ chức gấp đôi cá nhân; sản xuất, buôn bán giống cây trồng trái phép phạt đến 50 triệu; tăng cường bảo hộ sở hữu trí tuệ giống cây trồng; hiệu lực **05/8/2026** | Nông nghiệp / Trồng trọt / Xử phạt | 218498 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218498`; nguồn: vanban.chinhphu.vn (docid 218498), nhandan.vn, baogialai.com.vn; ngày ban hành: 18/6/2026; hiệu lực: 05/8/2026; tác động ngành nông nghiệp, người sản xuất, kinh doanh giống cây trồng toàn quốc; bổ sung nhóm Trồng trọt / Bảo vệ thực vật |
+| 218/2026/NĐ-CP | 19/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 158/2024/NĐ-CP về **hoạt động vận tải đường bộ** — siết chặt xe hợp đồng (không được đón/trả khách tại điểm cố định, không bán vé cố định); từ **01/1/2028** các đơn vị vận tải hành khách theo hợp đồng phải chia sẻ dữ liệu hợp đồng với Bộ Công an; chuẩn hóa tập huấn lái xe (bài kiểm tra ≥5 điểm, cấp GCN 05 năm); hiệu lực **10/8/2026** | Giao thông / Vận tải đường bộ | 218537 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218537`; nguồn: vanban.chinhphu.vn (docid 218537), luatvietnam.vn (slug 438376), drvn.gov.vn, baochinhphu.vn; ngày ban hành: 19/6/2026; hiệu lực: 10/8/2026; tác động trực tiếp doanh nghiệp vận tải, lái xe, ứng dụng gọi xe công nghệ (Grab, Be, Gojek); chia sẻ dữ liệu với Bộ Công an từ 2028 |
+| 220/2026/NĐ-CP | 22/06/2026 | Sửa đổi Điều 33 NĐ 67/2023/NĐ-CP về **bảo hiểm bắt buộc** — sửa đổi số tiền bảo hiểm tối thiểu đối với bảo hiểm bắt buộc công trình trong thời gian xây dựng; bảo hiểm cháy, nổ bắt buộc; bảo hiểm TNDS xe cơ giới; hàng loạt công trình xây dựng phải mua bảo hiểm bắt buộc từ 01/7/2026; hiệu lực **01/7/2026** | Bảo hiểm / Xây dựng / Tài chính | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=...`; nguồn: vanban.chinhphu.vn, luatvietnam.vn (slug 438421), vov.vn, suckhoedoisong.vn, baochinhphu.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 6 ngày); tác động chủ đầu tư xây dựng, chủ xe cơ giới, doanh nghiệp bảo hiểm; cần xác minh docid (dải phù hợp 218540–218560) |
+| 221/2026/NĐ-CP | 22/06/2026 | Quy định về **Nhà chức trách hàng không Việt Nam và quản lý an toàn hàng không** — Cục Hàng không VN là Nhà chức trách hàng không; xây dựng Chương trình an toàn hàng không dân dụng VN (phù hợp ICAO); yêu cầu hệ thống quản lý an toàn (SMS), thu thập & xử lý dữ liệu an toàn; báo cáo sự cố bắt buộc; giám sát viên an toàn hàng không; thay thế NĐ 92/2015/NĐ-CP (phần hàng không); hiệu lực **01/7/2026** | Hàng không / An ninh / Giao thông | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://vanban.chinhphu.vn/?pageid=27160&docid=...`; nguồn: vanban.chinhphu.vn, luatvietnam.vn (slug 438486), baochinhphu.vn, moc.gov.vn, caa.gov.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 6 ngày); tác động Cục Hàng không VN, hãng hàng không (Vietnam Airlines, Vietjet, Bamboo, Vasco), cảng hàng không toàn quốc; cần xác minh docid (dải phù hợp 218540–218560) |
+
+### Xác minh docid cho các văn bản từ lần trước
+
+| Số hiệu | Docid cũ | Docid mới | Trạng thái | Chi tiết |
+|---|:---:|:---:|---|---|
+| 146/2026/NĐ-CP | chua-xac-minh | **218552** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218552` |
+| 214/2026/NĐ-CP | chua-xac-minh | **218498** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218498` |
+| 218/2026/NĐ-CP | chua-xac-minh | **218537** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218537` |
+| 221/2026/NĐ-CP | chua-xac-minh | **chua-xac-minh** (trùng docid 218552 với 146/2026) | **Cần xác minh lại** | Docid trùng với 146/2026/NĐ-CP — cần fetch trực tiếp từng URL trong phiên sau để tách riêng |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-22 lần 15)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|:---|
+| 146/2026/NĐ-CP | **CÓ** (dòng 502 "Đã có" file; dòng 814 "Chưa có" entry trùng) | **Chưa có** (entry dòng 814); file van-ban/ đã tồn tại |
+| 214/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 218/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 220/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 221/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hàng không / An ninh** (rất cao — 6 ngày tới): **221/2026/NĐ-CP** — nhà chức trách hàng không, quản lý an toàn theo ICAO; tác động Cục Hàng không VN, hãng hàng không, cảng hàng không. Hiệu lực 01/7/2026. Cần xác minh docid.
+2. **Bảo hiểm / Xây dựng** (rất cao — 6 ngày tới): **220/2026/NĐ-CP** — bảo hiểm bắt buộc công trình xây dựng; tác động chủ đầu tư xây dựng, doanh nghiệp bảo hiểm. Hiệu lực 01/7/2026. Cần xác minh docid.
+3. **Lâm nghiệp / Xử phạt** (rất cao — hiệu lực ngay hôm nay 25/6/2026): **146/2026/NĐ-CP** — phạt phá rừng đến 220 triệu; tác động ngành lâm nghiệp toàn quốc. File đã có trong van-ban/ từ 2026-06-06 — cần cập nhật trạng thái entry cũ dòng 814.
+4. **Giao thông / Vận tải đường bộ** (cao — 76 ngày tới): **218/2026/NĐ-CP** — siết xe hợp đồng, chia sẻ dữ liệu với Bộ Công an từ 2028; tác động doanh nghiệp vận tải, ứng dụng gọi xe. Hiệu lực 10/8/2026. Docid 218537.
+5. **Nông nghiệp / Trồng trọt** (trung bình — 41 ngày tới): **214/2026/NĐ-CP** — phạt trồng trọt, bảo vệ thực vật đến 100 triệu; tác động ngành nông nghiệp. Hiệu lực 05/8/2026. Docid 218498.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 16. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **146/2026/NĐ-CP docid**: Xác minh **218552** trực tiếp từ vanban.chinhphu.vn. Entry tại dòng 814 (trạng thái "Chưa có", docid chua-xac-minh) cần được xử lý: file van-ban/ đã tồn tại từ 2026-06-06 — trạng thái entry cũ cần chuyển thành "Đã có".
+- **221/2026/NĐ-CP docid**: Trùng docid 218552 với 146/2026/NĐ-CP trong kết quả search. Cần fetch trực tiếp từng URL trong phiên sau để tách riêng hai văn bản.
+- **220/2026/NĐ-CP docid**: Chưa xác minh — cần check vanban.chinhphu.vn trong phiên sau (dải 218540–218560 phù hợp với ngày 22/6/2026).
+- **Nhóm hiệu lực 01/7/2026**: 220/2026/NĐ-CP và 221/2026/NĐ-CP cùng hiệu lực 01/7/2026 — ưu tiên crawl cả hai trước ngày hiệu lực (còn 6 ngày).
+- **Nhóm Nghị định xử phạt mới**: 146/2026/NĐ-CP (lâm nghiệp, hiệu lực 25/6/2026) + 214/2026/NĐ-CP (trồng trọt, hiệu lực 05/8/2026) — cùng nhóm xử phạt hành chính nông nghiệp-lâm nghiệp.
+- Nguồn: web_search Brave + Gemini tổng hợp vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, nhandan.vn, drvn.gov.vn, vov.vn, luatvietnam.vn (slug 438376, 438421, 438486), baomoi.com.
+- Ngày phát hiện: 2026-06-25 08:15 ICT
+- Phiên thực hiện: agent:github-io:subagent:50c245b7-614d-4f21-b99d-24fef89280e8 (Đệ #1 Discovery — lần 16)
+
+---
 ## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 15)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
