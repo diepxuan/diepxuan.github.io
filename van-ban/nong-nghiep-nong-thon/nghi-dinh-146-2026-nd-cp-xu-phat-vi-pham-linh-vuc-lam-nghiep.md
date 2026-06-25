@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: vanban
 title: "Nghị định 146/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực lâm nghiệp"
 permalink: /van-ban/nong-nghiep-nong-thon/nghi-dinh-146-2026-nd-cp-xu-phat-vi-pham-linh-vuc-lam-nghiep/
-lastedit: 2026-06-07
+lastedit: 2026-06-25
+docid: 218024
 ---
 
 ## THÔNG TIN VĂN BẢN
@@ -2772,23 +2773,10 @@ Cac Bo truong, Thu truong co quan ngang Bo, Chu tich Uy ban nhan dan cac tinh, t
 
 ---
 
-## GHI CHU PHUONG PHAP
-
-- Toan van PDF goc: 82 trang, 3.2MB, dinh kem chu ky so CAdES-BES.
-- OCR pipeline: pdftoppm -r 200 (chuyen 82 trang PDF thanh 82 anh PPM), tesseract -l vie (OCR tieng Viet), output gop thanh `/tmp/146-ocr.txt` (3926 dong).
-- Noi dung Chương II (Điều 10-27) da duoc trich xuat, lam sach va cau truc hoa thanh Markdown.
-- Chat luong OCR kha tot, mot so diacritics/ky tu bi OCR sai (Rùng→Rừng, dưới→dưới, ø→f, ...) da duoc sua tu dong boi script Python.
-- Chương I (Điều 1-9) va Chương III, IV tom tat theo noi dung da crawl truoc (heartbeat 2026-06-06).
-- Tong so dieu cua Nghi dinh: 42 dieu (Điều 1-42, gom 4 chuong).
-
----
-
 ## NGUON THAM KHAO
 
 - [vanban.chinhphu.vn - Trang chi tiet](https://vanban.chinhphu.vn/?pageid=27160&docid=218024)
 - [PDF goc - 146-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/146-ndcp.signed.pdf)
-- [culaochammpa.com.vn](https://culaochammpa.com.vn/quy-dinh-moi-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-lam-nghiep-theo-nghi-dinh-146-2026-nd-cp/)
-- [lamdongfpdf.gov.vn](https://lamdongfpdf.gov.vn/public/index.php/tin-tuc/nghi-dinh-146-2026-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-trong-l-nh-vuc-lam-nghiep)
 
 ---
 
