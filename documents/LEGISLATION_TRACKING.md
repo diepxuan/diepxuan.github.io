@@ -1,3 +1,65 @@
+## Cập nhật 2026-06-27 (phiên Đệ #1 Discovery — bổ sung lần 19, 03:33 ICT)
+
+### Phát hiện: Nghị định 239/2026/NĐ-CP + Xác minh 237/2026/NĐ-CP (ban hành 26/6/2026)
+
+Quét vanban.chinhphu.vn dải docid 218590–218700 + web_search + quét Công báo số 349–351. So sánh với 8 văn bản đã ghi nhận từ lần 18 (26/6 17:33 ICT): 219/2026/NĐ-CP (218586), 237/2026/NĐ-CP (218590), 230/2026/NĐ-CP (218585), 231/2026/NĐ-CP (218582), 32/2026/NQ-CP (218584), 225/2026/NĐ-CP (218583), 228/2026/NĐ-CP (218581), 26/2026/TT-NHNN.
+
+**Kết luận quan trọng:** Ngày 27/6/2026 CHƯA ĐẾN (hiện tại là 26/6 20:33 ICT). Không có văn bản nào được ban hành vào 27/6/2026. Công báo số 350–351 ngày 27/6/2026 đăng tải các văn bản ban hành trước đó (11–25/6/2026). **Phát hiện 2 văn bản MỚI chưa từng được ghi nhận** (ngoài 8 trên):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **239/2026/NĐ-CP** | **26/06/2026** | Sửa đổi, bổ sung một số điều của **NĐ 81/2018/NĐ-CP** về hoạt động xúc tiến thương mại — (1) cho phép **tiền làm hàng hóa khuyến mại** (trừ các trường hợp cấm); (2) xác định trúng thưởng khuyến mại may rủi phải có sự chứng kiến trực tiếp hoặc trực tuyến của khách hàng; (3) giải thưởng không người trúng: chỉ khi hết hạn trao thưởng, trừ bất khả kháng; (4) sửa đổi tổ chức hội chợ, triển lãm; hiệu lực **26/6/2026** (cùng ngày ban hành) | Thương mại / Tiếp thị | chua-xac-minh | **Chưa có** | URL: vanban.chinhphu.vn; nguồn: baochinhphu.vn (xác minh 26/6/2026), vietstock.vn, bnews.vn, baomoi.com, socongthuong.phutho.gov.vn; ngày ban hành: **26/6/2026**; hiệu lực ngay 26/6/2026; tác động doanh nghiệp kinh doanh khuyến mại, trung tâm thương mại, ban ngành quản lý thương mại; **CẦN XÁC MINH DOCID** (ước đoán: 218591–218601 theo thứ tự) |
+| **43/2026/TT-BGDĐT** | **09/06/2026** | Quy định **tiêu chuẩn người dạy nghề** — cơ chế đánh giá và công nhận năng lực linh hoạt, tập trung năng lực thực chất thay vì bằng cấp; gỡ bỏ rào cản để lao động có tay nghề cao tham gia giảng dạy dù chưa có đầy đủ chứng chỉ truyền thống; ký bởi Thứ trưởng Phạm Ngọc Thưởng; hiệu lực **09/6/2026** (cùng ngày ban hành) | Giáo dục / Lao động | **218392** | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218392`; nguồn: vanban.chinhphu.vn (docid xác minh og:title chính xác "Thông tư số 43/2026/TT-BGDĐT"), baochinhphu.vn, baodautu.vn, hcm.edu.vn, edu.hochiminhcity.gov.vn; ngày ban hành: **09/6/2026**; hiệu lực ngay 09/6/2026; tác động cơ sở giáo dục nghề nghiệp, người dạy nghề |
+
+### Các văn bản trong Công báo 350–351 (27/6/2026) — ghi nhận để theo dõi
+
+Các văn bản sau đăng trong Công báo số 350–351 ngày 27/6/2026 nhưng **đã được ghi nhận** trong tracking với ngày ban hành trước đó:
+
+| Số hiệu | Ngày ban hành (thực) | Ngày Công báo | Trạng thái | Ghi chú |
+|---:|---:|---:|---|---|
+| 203/2026/NĐ-CP | 11/06/2026 | 27/06/2026 (CB351) | Đã có | Thi hành án tử hình bằng tiêm thuốc độc; hiệu lực 01/7/2026 |
+| 204/2026/NĐ-CP | 11/06/2026 | 27/06/2026 (CB350) | Đã có | Xử phạt vi phạm hành chính thú y; hiệu lực 01/8/2026 |
+| 205/2026/NĐ-CP | 15/06/2026 | 26/06/2026 (CB349) | **Chưa có** | Cảng hàng không và bãi cất, hạ cánh; docid **218452** xác minh; hiệu lực 01/7/2026 |
+| 206/2026/NĐ-CP | 15/06/2026 | 27/06/2026 (CB350) | Đã có | Quản lý chi phí đầu tư xây dựng; hiệu lực 01/7/2026 |
+| 208/2026/NĐ-CP | 15/06/2026 | 27/06/2026 (CB350) | **Chưa có** | Vận tải hàng không; docid **218453** xác minh; hiệu lực 01/7/2026 |
+| 211/2026/NĐ-CP | ~18/06/2026 | 27/06/2026 (CB351) | **Chưa có** | Xử phạt vi phạm hành chính về chăn nuôi; cần xác minh ngày và docid |
+| 218/2026/NĐ-CP | 19/06/2026 | chua-xac-minh | **Chưa có** | Sửa đổi NĐ 158/2024/NĐ-CP về vận tải đường bộ; docid **218537** xác minh; hiệu lực 10/8/2026 |
+| 31/2026/TT-BCT | 11/06/2026 | chua-xac-minh | **Chưa có** | Truy xuất nguồn gốc sản phẩm, hàng hóa; hiệu lực 01/7/2026 |
+| 33/2026/TT-BKHCN | chua-xac-minh | 27/06/2026 (CB351) | **Chưa có** | Trang phục, phù hiệu, thẻ kiểm soát viên chất lượng |
+
+### Kết quả quét dải docid 218590–218700 trên vanban.chinhphu.vn
+
+| Docid | Kết quả |
+|---|---|
+| 218590 | **237/2026/NĐ-CP** — Luật Báo chí ✅ đã có |
+| 218591 | Không tìm thấy (og:title = "Chi tiết văn bản ban hành") — **có thể là 239/2026/NĐ-CP** |
+| 218592 | 1131/QĐ-TTg — thành viên Đoàn đàm phán KT&TM quốc tế |
+| 218593–218700 | Tất cả trả về "Chi tiết văn bản ban hành" hoặc "Không tìm thấy" |
+| 218452 | **205/2026/NĐ-CP** — Cảng hàng không — **MỚI** |
+| 218453 | **208/2026/NĐ-CP** — Vận tải hàng không — **MỚI** |
+| 218537 | **218/2026/NĐ-CP** — Vận tải đường bộ — **MỚI** |
+| 218392 | **43/2026/TT-BGDĐT** — Tiêu chuẩn người dạy nghề — **MỚI** |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Thương mại** (rất cao — hiệu lực ngay 26/6/2026): **239/2026/NĐ-CP** — sửa đổi khuyến mại, cho phép tiền làm hàng hóa KM, chứng kiến trực tuyến. Cần xác minh docid (ước đoán 218591). Ưu tiên số 1.
+2. **Giao thông / Hàng không** (rất cao — 5 ngày tới): **205/2026/NĐ-CP** (cảng hàng không, docid 218452) + **208/2026/NĐ-CP** (vận tải hàng không, docid 218453) — hiệu lực 01/7/2026. Docid xác minh.
+3. **Hình sự** (rất cao — 5 ngày tới): **237/2026/NĐ-CP** — Luật Báo chí; hiệu lực 01/7/2026. Docid 218590 xác minh. Chỉ còn 5 ngày.
+4. **Giáo dục / Lao động** (rất cao — đã hiệu lực): **43/2026/TT-BGDĐT** — tiêu chuẩn người dạy nghề; hiệu lực ngay 09/6/2026; cơ chế linh hoạt. Docid 218392 xác minh.
+5. **Giao thông** (trung bình — 45 ngày): **218/2026/NĐ-CP** — sửa đổi vận tải đường bộ; hiệu lực 10/8/2026; xe hợp đồng chia sẻ dữ liệu. Docid 218537 xác minh.
+
+### Ghi chú
+
+- **Ngày 27/6/2026 chưa đến**: Không có văn bản nào ban hành ngày 27/6/2026 (hiện tại 26/6/2026 20:33 ICT). Công báo 350–351 ngày 27/6/2026 chỉ đăng tải văn bản đã ban hành trước đó. Các văn bản ban hành ngày 26/6/2026 (239/2026) mới nhất.
+- **237/2026/NĐ-CP vs 239/2026/NĐ-CP**: Hai văn bản ban hành cùng ngày 26/6/2026: 237/2026 (Luật Báo chí, hiệu lực 01/7) và 239/2026 (xúc tiến thương mại, hiệu lực ngay 26/6).
+- **239/2026/NĐ-CP docid chưa xác minh**: Dải 218591–218700 đều trả về "Chi tiết văn bản ban hành" hoặc "Không tìm thấy". 218591 có thể là 239/2026 cần xác minh thủ công ở phiên sau.
+- **Khoảng trống trên vanban.chinhphu.vn**: Dải docid 218593–218700 hoàn toàn trống (không có văn bản). Các văn bản sau 26/6/2026 (239, 43/TT-BGDĐT, 205, 208, 218) nằm rải rác ở các docid bên ngoài dải 218590–218700.
+- Nguồn: vanban.chinhphu.vn docid 218392, 218452, 218453, 218537, 218590–218700 (xác minh trực tiếp), baochinhphu.vn, congbao.chinhphu.vn (CB 349–351), baomoi.com, vietstock.vn, bnews.vn, luatvietnam.vn.
+- Ngày phát hiện: 2026-06-27 03:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:c67f0981-8eba-451e-8ff8-333e6068d901 (Đệ #1 Discovery — bổ sung lần 19)
+
+---
+
 ## Cập nhật 2026-06-26 (phiên Đệ #1 Discovery — bổ sung lần 18, 17:33 ICT)
 
 ### Phát hiện mới: Nghị định 237/2026/NĐ-CP (ban hành 26/6/2026)
