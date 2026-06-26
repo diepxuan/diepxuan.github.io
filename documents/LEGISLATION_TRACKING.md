@@ -14,7 +14,7 @@ Quét vanban.chinhphu.vn dải docid 218550–218750 + web_search Brave/Gemini t
 | Số hiệu | Trạng thái cũ | Trạng thái mới | Ghi chú |
 |---|:---:|:---:|---|
 | 220/2026/NĐ-CP | Chưa có | **Chưa có** (cần crawl chi tiết) | Docid **218555** xác minh từ vanban.chinhphu.vn; bảo hiểm bắt buộc; hiệu lực 01/7/2026 |
-| 221/2026/NĐ-CP | Chưa có (docid chua-xac-minh) | **Chưa có** (docid chưa xác minh) | Nhà chức trách hàng không + quản lý an toàn theo ICAO; hiệu lực 01/7/2026; docid trùng 218552 (146/2026) — cần fetch khác |
+| 221/2026/NĐ-CP | Chưa có | **Đang cập nhật** (cần bổ sung Chương II trở đi) | Nhà chức trách hàng không + quản lý an toàn theo ICAO; hiệu lực 01/7/2026; file 266 dòng, Điều 1–19; nguồn luatvietnam bị truncation sau Điều 19 |
 
 ### Xác minh docid mới
 
