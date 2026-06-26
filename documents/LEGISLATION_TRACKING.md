@@ -1,4 +1,44 @@
-## Cập nhật 2026-06-27 (phiên Đệ #1 Discovery — bổ sung lần 19, 03:33 ICT)
+## Cập nhật 2026-06-27 (phiên heartbeat — 06:18 ICT)
+
+### Tóm tắt kết quả đệ (poll 2026-06-27 06:03 ICT)
+
+**Đệ #1 Discovery**: Phát hiện 2 văn bản MỚI ban hành 26/6/2026: 239/2026/NĐ-CP (khuyến mại, hiệu lực ngay 26/6) và 243/2026/NĐ-CP (điện mặt trời mái nhà, hiệu lực ngay 26/6). Dải docid 218591+ không đọc được qua web_fetch. Cả 2 chưa có docid xác minh.
+
+**Đệ #3 Crawler 239**: Không tạo được file. Docid 239/2026 chưa xác minh.
+
+**Đệ #4 Reviewer**: Review 5 file trong PR #216:
+- **222/2026/NĐ-CP**: Lỗi OCR NGHIÊM TRỌNG (text ngắt dòng, heading sai `Chương H`, ký tự rác, trùng lặp). **Đã xóa** khỏi PR #216. Cần re-crawl/re-OCR.
+- **146/2026/NĐ-CP**: Front matter không chuẩn, nội dung không dấu (OCR), stub summary. **Đã xóa** khỏi PR #216. Cần re-crawl/re-OCR.
+- **221/2026/NĐ-CP**: Sửa `eff_date` → `effective_date`. Partial (thiếu Chương II+), cần re-lấy nội dung.
+- **32/2026/TT-BXD**: Có `layout: vanban`, nội dung OK. Front matter không chuẩn nhưng nội dung sạch.
+- **03/2026/TT-DTTG**: OK. Sạch, đúng chuẩn.
+
+**Đệ #3 Crawler 43-TT-BGDĐT**: Bị kill sau 868s không tạo file.
+
+### Hành động đã thực hiện
+
+- Xóa 222/2026/NĐ-CP và 146/2026/NĐ-CP khỏi PR #216 (CRITICAL)
+- Sửa front matter 221: `eff_date` → `effective_date`
+- Cập nhật LEGISLATION_TRACKING.md: thêm 243/2026/NĐ-CP, cập nhật ưu tiên, ghi nhận 222/146 CRITICAL
+- PR #216 sau dọn dẹp: 4 files (221, 32, 03 + tracking). MERGEABLE.
+
+### PR heartbeat active
+- PR #216: `heartbeat/crawl-vanban-20260625` — MERGEABLE CLEAN, 4 files, +1/-14800, last push 2026-06-27 06:14 ICT
+
+### Đề xuất ưu tiên
+
+1. **Thương mại** (rất cao — hiệu lực ngay 26/6/2026): **239/2026/NĐ-CP** — sửa đổi khuyến mại, cho phép tiền làm hàng hóa KM, chứng kiến trực tuyến. Cần xác minh docid (ước đoán 218591). Ưu tiên số 1.
+2. **Năng lượng** (rất cao — hiệu lực ngay 26/6/2026): **243/2026/NĐ-CP** — điện mặt trời mái nhà, cho phép bán điện dư vượt 50%. Tác động hàng triệu hộ gia đình. Cần xác minh docid. Ưu tiên số 2.
+3. **Giao thông / Hàng không** (rất cao — 5 ngày tới): **205/2026/NĐ-CP** (cảng hàng không, docid 218452) + **208/2026/NĐ-CP** (vận tải hàng không, docid 218453) — hiệu lực 01/7/2026. Docid xác minh.
+4. **Hình sự** (rất cao — 5 ngày tới): **237/2026/NĐ-CP** — Luật Báo chí; hiệu lực 01/7/2026. Docid 218590 xác minh. Chỉ còn 4 ngày.
+5. **Giáo dục / Lao động** (rất cao — đã hiệu lực): **43/2026/TT-BGDĐT** — tiêu chuẩn người dạy nghề; hiệu lực ngay 09/6/2026; cơ chế linh hoạt. Docid 218392 xác minh.
+6. **Giao thông** (trung bình — 45 ngày): **218/2026/NĐ-CP** — sửa đổi vận tải đường bộ; hiệu lực 10/8/2026; xe hợp đồng chia sẻ dữ liệu. Docid 218537 xác minh.
+7. **Hàng không** (CRITICAL — 5 ngày tới): **222/2026/NĐ-CP** — LỖI OCR NGHIÊM TRỌNG. Đã xóa khỏi PR #216. Cần re-crawl/re-OCR từ vanban.chinhphu.vn docid 218557. Docid đã xác minh.
+8. **Lâm nghiệp** (CRITICAL): **146/2026/NĐ-CP** — Front matter không chuẩn, nội dung không dấu, stub summary. Đã xóa khỏi PR #216. Cần re-crawl/re-OCR từ datafiles.chinhphu.vn (146-ndcp.signed.pdf).
+
+---
+
+## Cập nhật 2026-06-27 (phiên Đệ #1 Discovery — bổ sung lần 20, 06:03 ICT)
 
 ### Phát hiện: Nghị định 239/2026/NĐ-CP + Xác minh 237/2026/NĐ-CP (ban hành 26/6/2026)
 
@@ -8,7 +48,8 @@ Quét vanban.chinhphu.vn dải docid 218590–218700 + web_search + quét Công 
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| **239/2026/NĐ-CP** | **26/06/2026** | Sửa đổi, bổ sung một số điều của **NĐ 81/2018/NĐ-CP** về hoạt động xúc tiến thương mại — (1) cho phép **tiền làm hàng hóa khuyến mại** (trừ các trường hợp cấm); (2) xác định trúng thưởng khuyến mại may rủi phải có sự chứng kiến trực tiếp hoặc trực tuyến của khách hàng; (3) giải thưởng không người trúng: chỉ khi hết hạn trao thưởng, trừ bất khả kháng; (4) sửa đổi tổ chức hội chợ, triển lãm; hiệu lực **26/6/2026** (cùng ngày ban hành) | Thương mại / Tiếp thị | chua-xac-minh | **Chưa có** | URL: vanban.chinhphu.vn; nguồn: baochinhphu.vn (xác minh 26/6/2026), vietstock.vn, bnews.vn, baomoi.com, socongthuong.phutho.gov.vn; ngày ban hành: **26/6/2026**; hiệu lực ngay 26/6/2026; tác động doanh nghiệp kinh doanh khuyến mại, trung tâm thương mại, ban ngành quản lý thương mại; **CẦN XÁC MINH DOCID** (ước đoán: 218591–218601 theo thứ tự) |
+| **243/2026/NĐ-CP** | **26/06/2026** | Sửa đổi, bổ sung **NĐ 57/2025/NĐ-CP** (cơ chế DPPA - mua bán điện trực tiếp) và **NĐ 58/2025/NĐ-CP** (điện năng lượng tái tạo, điện năng lượng mới). **Điểm nổi bật**: quy định cơ chế mua bán sản lượng điện dư từ **điện mặt trời mái nhà** tự sản xuất, tự tiêu thụ — cho phép bán điện dư vượt 50% sản lượng phát trong một số trường hợp. Đối tượng: hộ gia đình, đấu nối cấp hạ áp, miền núi/biên giới/hải đảo, công trình tài sản công. Hiệu lực **26/6/2026** | Năng lượng / Điện lực | chua-xac-minh | **Chưa có** | Nguồn: baochinhphu.vn, vietnamnet.vn, vietnamplus.vn, bnews.vn, baomoi.com (xác minh ban hành 26/6/2026); ngày ban hành: **26/6/2026**; hiệu lực ngay 26/6/2026; tác động hàng triệu hộ gia đình có điện mặt trời mái nhà, doanh nghiệp năng lượng tái tạo, EVN, A0; **CẦN XÁC MINH DOCID** |
+| **239/2026/NĐ-CP** | **26/06/2026** | Sửa đổi, bổ sung một số điều của **NĐ 81/2018/NĐ-CP** về hoạt động xúc tiến thương mại — (1) cho phép **tiền làm hàng hóa khuyến mại** (trừ các trường hợp cấm); (2) xác định trúng thưởng khuyến mại may rủi phải có sự chứng kiến trực tiếp hoặc trực tuyến của khách hàng; (3) giải thưởng không người trúng: chỉ khi hết hạn trao thưởng, trừ bất khả kháng; (4) sửa đổi tổ chức hội chợ, triển lãm; hiệu lực **26/6/2026** (cùng ngày ban hành) | Thương mại / Tiếp thị | chua-xac-minh | **Chưa có** | Nguồn: baochinhphu.vn (xác minh 26/6/2026), vietstock.vn, bnews.vn, baomoi.com; ngày ban hành: **26/6/2026**; hiệu lực ngay 26/6/2026; tác động doanh nghiệp kinh doanh khuyến mại, trung tâm thương mại, ban ngành quản lý thương mại; **CẦN XÁC MINH DOCID** (ước đoán: 218591–218601) |
 | **43/2026/TT-BGDĐT** | **09/06/2026** | Quy định **tiêu chuẩn người dạy nghề** — cơ chế đánh giá và công nhận năng lực linh hoạt, tập trung năng lực thực chất thay vì bằng cấp; gỡ bỏ rào cản để lao động có tay nghề cao tham gia giảng dạy dù chưa có đầy đủ chứng chỉ truyền thống; ký bởi Thứ trưởng Phạm Ngọc Thưởng; hiệu lực **09/6/2026** (cùng ngày ban hành) | Giáo dục / Lao động | **218392** | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218392`; nguồn: vanban.chinhphu.vn (docid xác minh og:title chính xác "Thông tư số 43/2026/TT-BGDĐT"), baochinhphu.vn, baodautu.vn, hcm.edu.vn, edu.hochiminhcity.gov.vn; ngày ban hành: **09/6/2026**; hiệu lực ngay 09/6/2026; tác động cơ sở giáo dục nghề nghiệp, người dạy nghề |
 
 ### Các văn bản trong Công báo 350–351 (27/6/2026) — ghi nhận để theo dõi
@@ -43,10 +84,13 @@ Các văn bản sau đăng trong Công báo số 350–351 ngày 27/6/2026 nhưn
 ### Đề xuất ưu tiên phiên tiếp theo
 
 1. **Thương mại** (rất cao — hiệu lực ngay 26/6/2026): **239/2026/NĐ-CP** — sửa đổi khuyến mại, cho phép tiền làm hàng hóa KM, chứng kiến trực tuyến. Cần xác minh docid (ước đoán 218591). Ưu tiên số 1.
-2. **Giao thông / Hàng không** (rất cao — 5 ngày tới): **205/2026/NĐ-CP** (cảng hàng không, docid 218452) + **208/2026/NĐ-CP** (vận tải hàng không, docid 218453) — hiệu lực 01/7/2026. Docid xác minh.
-3. **Hình sự** (rất cao — 5 ngày tới): **237/2026/NĐ-CP** — Luật Báo chí; hiệu lực 01/7/2026. Docid 218590 xác minh. Chỉ còn 5 ngày.
-4. **Giáo dục / Lao động** (rất cao — đã hiệu lực): **43/2026/TT-BGDĐT** — tiêu chuẩn người dạy nghề; hiệu lực ngay 09/6/2026; cơ chế linh hoạt. Docid 218392 xác minh.
-5. **Giao thông** (trung bình — 45 ngày): **218/2026/NĐ-CP** — sửa đổi vận tải đường bộ; hiệu lực 10/8/2026; xe hợp đồng chia sẻ dữ liệu. Docid 218537 xác minh.
+2. **Năng lượng** (rất cao — hiệu lực ngay 26/6/2026): **243/2026/NĐ-CP** — điện mặt trời mái nhà, cho phép bán điện dư vượt 50%. Tác động hàng triệu hộ gia đình. Cần xác minh docid. Ưu tiên số 2.
+3. **Giao thông / Hàng không** (rất cao — 5 ngày tới): **205/2026/NĐ-CP** (cảng hàng không, docid 218452) + **208/2026/NĐ-CP** (vận tải hàng không, docid 218453) — hiệu lực 01/7/2026. Docid xác minh.
+4. **Hình sự** (rất cao — 5 ngày tới): **237/2026/NĐ-CP** — Luật Báo chí; hiệu lực 01/7/2026. Docid 218590 xác minh. Chỉ còn 4 ngày.
+5. **Giáo dục / Lao động** (rất cao — đã hiệu lực): **43/2026/TT-BGDĐT** — tiêu chuẩn người dạy nghề; hiệu lực ngay 09/6/2026; cơ chế linh hoạt. Docid 218392 xác minh. Ưu tiên số 5.
+6. **Giao thông** (trung bình — 45 ngày): **218/2026/NĐ-CP** — sửa đổi vận tải đường bộ; hiệu lực 10/8/2026; xe hợp đồng chia sẻ dữ liệu. Docid 218537 xác minh.
+7. **Hàng không** (CRITICAL — 5 ngày tới): **222/2026/NĐ-CP** — LỖI OCR NGHIÊM TRỌNG. Đã xóa khỏi PR #216. Cần re-crawl/re-OCR từ vanban.chinhphu.vn docid 218557. Docid đã xác minh. Ưu tiên số 3.
+8. **Lâm nghiệp** (CRITICAL): **146/2026/NĐ-CP** — Front matter không chuẩn, nội dung không dấu, stub summary. Đã xóa khỏi PR #216. Cần re-crawl/re-OCR từ datafiles.chinhphu.vn (146-ndcp.signed.pdf). Ưu tiên sau khi xác minh 239/243/205/208.
 
 ### Ghi chú
 
