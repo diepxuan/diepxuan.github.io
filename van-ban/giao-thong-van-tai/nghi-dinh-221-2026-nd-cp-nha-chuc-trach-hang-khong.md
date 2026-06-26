@@ -11,7 +11,7 @@ tags:
   - nghi-dinh
 docid: 218552
 source: vanban.chinhphu.vn; luatvietnam.vn
-eff_date: 2026-07-01
+effective_date: 2026-07-01
 signer: Chính phủ
 issuing_body: Chính phủ
 ---
