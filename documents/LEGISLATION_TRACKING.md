@@ -1,3 +1,55 @@
+
+## Cập nhật 2026-06-27 (phiên Đệ #1 Discovery — lần 16)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218590–219800 + web_search Brave/Gemini theo nhóm chủ đề: Tài chính, Thuế, Xây dựng, Giao thông, Hàng không, Lao động, Năng lượng, KHCN, Dự trữ quốc gia, Hành chính, Tư pháp. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-22 lần 15): phát hiện **2 văn bản mới** (237/2026/NĐ-CP chưa trong tracking, 33/2026/TT-BKHCN chưa trong tracking). Các văn bản đã biết từ poll trước (68, 205, 221, 237, 229) được xác minh docid và xác nhận trạng thái.
+
+**Lưu ý quan trọng: Ngày 27/6/2026 là ngày họp phiên Chính phủ chuyên đề xây dựng pháp luật — không ban hành văn bản mới trong ngày.** Các văn bản được ghi nhận hoặc ban hành từ 22–26/6/2026 và được công bố/rải trên 27/6.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 237/2026/NĐ-CP | 26/06/2026 | Quy định chi tiết thi hành một số điều của Luật Báo chí 2026 — **gắn nhãn bắt buộc** đối với nội dung báo chí được tạo hoặc chỉnh sửa bằng AI; cấm dùng AI tạo hoặc lan truyền nội dung giả mạo, xuyên tạc; khuyến khích ứng dụng AI nâng cao hiệu quả; cơ quan báo chí phải thiết lập quy trình thẩm định, biên tập, kiểm soát rủi ro khi dùng AI; thay thế các nghị định hướng dẫn Luật Báo chí 2023; hiệu lực **01/7/2026** | Báo chí / Tư pháp / CNTT | 218590 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218590`; nguồn: vanban.chinhphu.vn (docid confirmed), luatvietnam.vn (slug 438775), vietnamplus.vn, dantri.com.vn; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026 (còn 4 ngày); công bố rộng rãi trên báo chí ngày 27/6/2026; tác động toàn bộ cơ quan báo chí, nhà báo, nền tảng truyền thông Việt Nam |
+| 33/2026/TT-BKHCN | 15/06/2026 | Quy định về trang phục riêng, phù hiệu và thẻ của **kiểm soát viên chất lượng sản phẩm, hàng hóa** — các loại trang phục đặc thù, phù hiệu nhận diện, thẻ kiểm soát viên; hiệu lực chưa rõ | KHCN / Hành chính | 218472 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218472`; nguồn: vanban.chinhphu.vn (docid 218472), congbao.chinhphu.vn (slug 469775); ngày ban hành: 15/6/2026; nhóm kiểm soát chất lượng sản phẩm hàng hóa; tác động cơ quan quản lý chất lượng Bộ KH&CN |
+
+### Xác minh docid cho các văn bản đã biết từ poll trước
+
+| Số hiệu | Docid cũ | Docid mới | Trạng thái | Chi tiết |
+|---|:---:|:---:|---|---|
+| 68/2026/TT-BTC | chua-xac-minh | **218539** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218539`; KHCN dự trữ quốc gia; hiệu lực 01/7/2026 |
+| 205/2026/NĐ-CP | 218452 (xác minh lần 14) | **218452** | Xác minh (giữ nguyên) | Cảng hàng không và bãi cất, hạ cánh; hiệu lực 01/7/2026 |
+| 221/2026/NĐ-CP | 218552 (xác minh lần 15) | **218552** | Xác minh (giữ nguyên) | Nhà chức trách hàng không Việt Nam và quản lý an toàn hàng không; thành lập Trung tâm dữ liệu an toàn hàng không quốc gia; hiệu lực 01/7/2026 |
+| 237/2026/NĐ-CP | chua-xac-minh (ước đoán 218590) | **218590** | Xác minh mới (cùng ước đoán) | AI trong báo chí; hiệu lực 01/7/2026 |
+| 229/2026/NĐ-CP | chua-xac-minh | **218589** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218589`; Quỹ Phát triển KH&CN Quốc gia (NAFOSTED); hiệu lực 25/6/2026 (cùng ngày ban hành) |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-22 lần 15)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 237/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 33/2026/TT-BKHCN | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Báo chí / Tư pháp / CNTT** (rất cao — 4 ngày tới): **237/2026/NĐ-CP** — gắn nhãn AI trong báo chí; cấm AI tạo nội dung giả; tác động toàn bộ cơ quan báo chí, truyền thông Việt Nam; hiệu lực 01/7/2026. Nguồn: vanban.chinhphu.vn (docid 218590), luatvietnam.vn (slug 438775). Ưu tiên số 1.
+2. **Hàng không** (rất cao — 4 ngày tới): **221/2026/NĐ-CP** (218552) — thành lập Trung tâm dữ liệu an toàn hàng không quốc gia; tác động toàn ngành hàng không. Hiệu lực 01/7/2026.
+3. **Tài chính / KHCN** (rất cao — 4 ngày tới): **68/2026/TT-BTC** (218539) — KHCN dự trữ quốc gia, chuyển đổi số; tác động Cục Dự trữ Nhà nước. Hiệu lực 01/7/2026.
+4. **Hàng không / Giao thông** (rất cao — 4 ngày tới): **205/2026/NĐ-CP** (218452) — cảng hàng không, bãi cất hạ cánh; tác động toàn ngành hàng không. Hiệu lực 01/7/2026.
+5. **KHCN** (trung bình): **229/2026/NĐ-CP** (218589) — Quỹ NAFOSTED tổ chức mới; hiệu lực 25/6/2026. Tác động cộng đồng khoa học quốc gia.
+
+### Ghi chú xử lý
+
+- **Ngày 27/6/2026 là ngày họp phiên Chính phủ chuyên đề xây dựng pháp luật**, không phải ngày ban hành văn bản. Các văn bản được ghi nhận trong phiên này thực chất ban hành từ 15–26/6/2026 và được công bố rộng rãi trên báo chí ngày 27/6/2026.
+- **Quét dải docid 218590–219800**: Toàn bộ docid trong dải này (218590–218630) khi web_fetch đều trả về "Chi tiết văn bản ban hành" — vanban.chinhphu.vn dùng ASP.NET WebForms + JavaScript render, không trả nội dung qua HTTP GET thông thường. Chỉ docid có sẵn trong index mới trả về tiêu đề (218590 = 237/2026/NĐ-CP, 218592 = QĐ 1131/QĐ-TTg).
+- **237/2026/NĐ-CP**: Xác minh docid 218590 trên vanban.chinhphu.vn. Ban hành ngày 26/6/2026, hiệu lực 01/7/2026. Nội dung chính: (i) gắn nhãn nội dung do AI tạo/chỉnh sửa, (ii) cấm dùng AI tạo/lan truyền nội dung giả mạo/sai sự thật/xuyên tạc, (iii) cơ quan báo chí phải thiết lập quy trình thẩm định + kiểm soát rủi ro khi dùng AI, (iv) khuyến khích ứng dụng AI nâng cao hiệu quả, (v) lưu giữ nhật ký hoạt động và hồ sơ kỹ thuật để phục vụ thanh tra, kiểm tra. Có 17 điều thuộc Luật Báo chí 126/2025/QH15 được hướng dẫn chi tiết.
+- **68/2026/TT-BTC**: Docid xác minh **218539** trên vanban.chinhphu.vn. Ban hành 18/6/2026, hiệu lực 01/7/2026.
+- **229/2026/NĐ-CP**: Docid xác minh **218589** trên vanban.chinhphu.vn. Ban hành 25/6/2026, hiệu lực 25/6/2026 (cùng ngày).
+- **33/2026/TT-BKHCN**: Docid xác minh **218472** trên vanban.chinhphu.vn. Ban hành 15/6/2026. Trang phục, phù hiệu, thẻ kiểm soát viên chất lượng sản phẩm.
+- **5 văn bản ưu tiên 01/7/2026** (còn 4 ngày): 237, 221, 205, 68, 216 — tất cả đều có docid xác minh và trạng thái "Chưa có" hoặc "Cần crawl chi tiết".
+- Nguồn: web_fetch vanban.chinhphu.vn (docid 218590, 218592, 218539, 218452, 218552, 218589, 218472), web_search Brave + Gemini tổng hợp luatvietnam.vn, vietnamplus.vn, dantri.com.vn, nafosted.gov.vn, congthuong.vn, baochinhphu.vn, tapchihangkhong.vn, vov.vn, vtv.vn.
+- Ngày phát hiện: 2026-06-27 15:39 ICT
+- Phiên thực hiện: agent:github-io:subagent:808aa5bf-5f9f-4d95-9649-d56639df42e7 (Đệ #1 Discovery — lần 16)
+
 ## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 15)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
