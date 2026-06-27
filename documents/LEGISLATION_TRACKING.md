@@ -53,7 +53,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-27 lần 16):
 | 16/2026/TT-BVHTTDL | 23/06/2026 | Quy định về **định mức kinh tế - kỹ thuật dịch vụ giám định di vật, cổ vật** — định mức chi phí giám định, tiêu chí kỹ thuật, quy trình giám định; hiệu lực **15/08/2026** | Văn hóa / Di sản | 218564 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218564`; nguồn: vanban.chinhphu.vn (docid confirmed từ chinhphu.vn listing 27/6); ngày ban hành: 23/6/2026; hiệu lực: 15/8/2026 (còn 49 ngày); tác động cơ quan giám định di vật, bảo tàng, cơ sở lưu giữ di sản văn hóa |
 | 17/2026/TT-BVHTTDL | 23/06/2026 | Quy định về **định mức kinh tế - kỹ thuật dịch vụ lập hồ sơ đề nghị công nhận bảo vật quốc gia** — định mức chi phí lập hồ sơ, tiêu chí kỹ thuật, quy trình đề nghị công nhận; hiệu lực **15/08/2026** | Văn hóa / Di sản | 218565 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218565`; nguồn: vanban.chinhphu.vn (docid confirmed từ chinhphu.vn listing 27/6); ngày ban hành: 23/6/2026; hiệu lực: 15/8/2026 (còn 49 ngày); tác động cơ quan quản lý di sản, chủ sở hữu bảo vật quốc gia |
 | 47/2026/TT-BGDĐT | 22/06/2026 | **Bãi bỏ một số văn bản quy phạm pháp luật** do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành trong lĩnh vực giáo dục — dọn dẹp văn bản hết hiệu lực hoặc trùng lặp; hiệu lực **07/08/2026** | Giáo dục / Hành chính | 218566 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218566`; nguồn: vanban.chinhphu.vn (docid confirmed từ chinhphu.vn listing 27/6); ngày ban hành: 22/6/2026; hiệu lực: 07/8/2026 (còn 41 ngày); tác động cơ sở giáo dục, cán bộ quản lý giáo dục; cần kiểm tra danh mục văn bản bị bãi bỏ |
-| 82/2026/TT-BQP | 18/06/2026 | Quy định chế độ **gặp, nhận quà và liên lạc của phạm nhân** — điều kiện, thủ tục gặp phạm nhân; nhận quà; liên lạc; hiệu lực **01/07/2026** | Tư pháp / Quốc phòng | 218521 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218521`; nguồn: vanban.chinhphu.vn (docid confirmed từ chinhphu.vn listing 27/6); người ký: Nguyễn Văn Gấu (Bộ trưởng Bộ Quốc phòng); ngày ban hành: 18/6/2026; hiệu lực: 01/7/2026 (còn 4 ngày); tác động cơ sở giam giữ, gia đình phạm nhân, luật sư |
+| 82/2026/TT-BQP | 18/06/2026 | Quy định chế độ **gặp, nhận quà và liên lạc của phạm nhân** — điều kiện, thủ tục gặp phạm nhân; nhận quà; liên lạc; hiệu lực **01/07/2026** | Tư pháp / Quốc phòng | 218521 | **Đã có** (28/06/2026) | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218521`; nguồn: vanban.chinhphu.vn (docid confirmed từ chinhphu.vn listing 27/6); người ký: Nguyễn Văn Gấu (Bộ trưởng Bộ Quốc phòng); ngày ban hành: 18/6/2026; hiệu lực: 01/7/2026 (còn 4 ngày); tác động cơ sở giam giữ, gia đình phạm nhân, luật sư |
 
 ### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-27 lần 16)
 
@@ -62,11 +62,10 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-27 lần 16):
 | 16/2026/TT-BVHTTDL | **KHÔNG** | Thêm mới — Chưa có |
 | 17/2026/TT-BVHTTDL | **KHÔNG** | Thêm mới — Chưa có |
 | 47/2026/TT-BGDĐT | **KHÔNG** | Thêm mới — Chưa có |
-| 82/2026/TT-BQP | **KHÔNG** | Thêm mới — Chưa có |
+| 82/2026/TT-BQP | **CÓ** | Thêm mới — Đã có (28/06/2026); file: `van-ban/tu-phap-thi-hanh-an/thong-tu-82-2026-tt-bqp-che-do-gap-nhan-qua-lien-lac-cua-pham-nhan.md` |
 
 ### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
 
-1. **Tư pháp / Quốc phòng** (rất cao — 4 ngày tới): **82/2026/TT-BQP** — chế độ gặp, nhận quà và liên lạc của phạm nhân; hiệu lực 01/7/2026 (còn 4 ngày). Tác động trực tiếp cơ sở giam giữ, gia đình phạm nhân. Ưu tiên số 1.
 2. **Văn hóa / Di sản** (trung bình — 49 ngày tới): **16/2026/TT-BVHTTDL** — định mức giám định di vật, cổ vật; hiệu lực 15/8/2026. Tác động cơ quan bảo tàng, giám định di sản.
 3. **Văn hóa / Di sản** (trung bình — 49 ngày tới): **17/2026/TT-BVHTTDL** — định mức lập hồ sơ công nhận bảo vật quốc gia; hiệu lực 15/8/2026. Cùng nhóm với 16/2026.
 4. **Giáo dục / Hành chính** (trung bình — 41 ngày tới): **47/2026/TT-BGDĐT** — bãi bỏ văn bản giáo dục; hiệu lực 07/8/2026. Cần kiểm tra danh mục bị bãi bỏ.
