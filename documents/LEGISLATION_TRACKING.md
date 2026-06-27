@@ -1,4 +1,60 @@
 
+## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 21)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218700–218950 + docid 218370–218390 + web_search bổ sung từ baochinhphu.vn, luatvietnam.vn, thuvienphapluat.vn, mst.gov.vn theo nhóm chủ đề: Năng lượng, Thuế, Tài chính, Giao thông, Hàng không, Lao động, Xây dựng, KHCN, Hành chính, Tư pháp, Hải quan, Bảo hiểm. **Xác nhận: Không có văn bản nào ban hành ngày 28/6/2026** — 28/6/2026 là Chủ nhật (Ngày Gia đình Việt Nam). Dải docid 218700–218950 hoàn toàn trống (ASP.NET shell page, 69KB/URL, không có nội dung). Dải docid 218370–218390 chứa nhiều văn bản mới chưa từng ghi nhận.
+
+Phát hiện **5 văn bản mới** chưa có trong tracking. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 197/2026/NĐ-CP | 03/06/2026 | Quy định **Cơ sở dữ liệu quốc gia về tiếp công dân, xử lý đơn, giải quyết khiếu nại, tố cáo** — thành lập, vận hành, khai thác CSDL thống nhất, đồng bộ, số hóa toàn diện; công dân theo dõi tiến độ, yêu cầu thông tin cá nhân; hiệu lực **01/7/2026** | Hành chính / Tư pháp | 218367 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218367`; nguồn: vanban.chinhphu.vn (docid confirmed trực tiếp, HTML parse có đầy đủ title + ngày + trích yếu), baochinhphu.vn, baomoi.com, tapchitoaan.vn, thanhtra.com.vn, congly.vn, lacphuong.haiphong.gov.vn; người ký: Lê Tiến Châu; ngày ban hành 3/6/2026, hiệu lực 1/7/2026; thay thế quy định cũ về tiếp công dân, khiếu nại, tố cáo; tác động toàn bộ cơ quan hành chính, người dân |
+| 27/2026/TT-BKHCN | 31/05/2026 | **Quy hoạch sử dụng kênh tần số truyền hình số mặt đất băng tần 470-694 MHz** — phân bổ kênh, quy hoạch băng tần cho truyền hình số; hiệu lực **16/7/2026** | KHCN / Viễn thông | 218372 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218372`; nguồn: vanban.chinhphu.vn (docid confirmed), luatvietnam.vn (slug 436406), mst.gov.vn, sokhcn.thainguyen.gov.vn, tayninh.gov.vn, congbao.chinhphu.vn; người ký: Vũ Hải Quân (Bộ trưởng); hiệu lực 16/7/2026; tác động truyền hình, viễn thông, nhà đầu tư băng tần 470-694 MHz |
+| 28/2026/TT-BKHCN | 31/05/2026 | **Quy định Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng** — dịch vụ viễn thông thuộc diện quản lý chất lượng bắt buộc, tiêu chuẩn, giám sát; hiệu lực **15/7/2026** | KHCN / Viễn thông | 218373 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218373`; nguồn: vanban.chinhphu.vn (docid confirmed), luatvietnam.vn (slug 436411), mst.gov.vn, sokhcn.thainguyen.gov.vn; người ký: Vũ Hải Quân (Bộ trưởng); hiệu lực 15/7/2026; tác động doanh nghiệp viễn thông |
+| 29/2026/TT-BKHCN | 31/05/2026 | **Sửa đổi, bổ sung Thông tư 04/2024/TT-BTTTT** — quy hoạch băng tần 880-915 MHz và 925-960 MHz cho hệ thống thông tin di động mặt đất công cộng IMT của Việt Nam; hiệu lực **31/5/2026** (cùng ngày ban hành) | KHCN / Viễn thông | 218374 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218374`; nguồn: vanban.chinhphu.vn (docid confirmed), luatvietnam.vn (slug 436593), mst.gov.vn, skh.quangngai.gov.vn, phucgia.com.vn; người ký: Vũ Hải Quân (Bộ trưởng); hiệu lực ngay 31/5/2026; tác động nhà mạng di động (Viettel, VNPT, Mobifone), nhà đầu tư hạ tầng 4G/5G |
+| 30/2026/TT-BKHCN | 06/06/2026 | **Ban hành Danh mục, tổ chức cấp phép hàng hóa lưỡng dụng và theo dõi, truy xuất thông tin về kiểm soát thương mại chiến lược** thuộc quản lý nhà nước của Bộ KH&CN; hiệu lực **06/6/2026** (cùng ngày) | KHCN / Ngoại thương | 218375 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218375`; nguồn: vanban.chinhphu.vn (docid confirmed), mst.gov.vn, thuviennhadat.vn, sokhcn.thainguyen.gov.vn; người ký: Vũ Hải Quân (Bộ trưởng); hiệu lực ngay 6/6/2026; tác động doanh nghiệp xuất nhập khẩu hàng hóa lưỡng dụng |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-28 lần 20)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 197/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 27/2026/TT-BKHCN | **KHÔNG** | Thêm mới — Chưa có |
+| 28/2026/TT-BKHCN | **KHÔNG** | Thêm mới — Chưa có |
+| 29/2026/TT-BKHCN | **KHÔNG** | Thêm mới — Chưa có |
+| 30/2026/TT-BKHCN | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hành chính / Tư pháp** (rất cao — hiệu lực 01/7/2026): **197/2026/NĐ-CP** — Cơ sở dữ liệu quốc gia về tiếp công dân, khiếu nại, tố cáo; tác động toàn bộ hệ thống hành chính, người dân. Docid 218367 xác minh. Ưu tiên số 1.
+2. **KHCN / Viễn thông** (còn ~15 ngày): **27/2026/TT-BKHCN** — quy hoạch kênh tần số truyền hình 470-694 MHz; hiệu lực 16/7/2026. Docid 218372 xác minh.
+3. **KHCN / Viễn thông** (còn ~14 ngày): **28/2026/TT-BKHCN** — dịch vụ viễn thông bắt buộc quản lý chất lượng; hiệu lực 15/7/2026. Docid 218373 xác minh.
+4. **KHCN / Ngoại thương** (ngay): **30/2026/TT-BKHCN** — hàng hóa lưỡng dụng, kiểm soát thương mại chiến lược; hiệu lực ngay 6/6/2026. Docid 218375 xác minh.
+5. **KHCN / Viễn thông** (ngay): **29/2026/TT-BKHCN** — sửa đổi băng tần 880-960 MHz cho IMT; hiệu lực ngay 31/5/2026. Docid 218374 xác minh.
+
+### Văn bản phụ (danh sách chờ — chưa ghi nhận vì đã đạt giới hạn 5/lần)
+
+Các văn bản sau được phát hiện trong dải 218370–218390 nhưng chưa ghi nhận vì đã đạt giới hạn 5 văn bản mới/lần. Ghi lại để các phiên tiếp theo theo dõi:
+- **31/05/2026**: 278/NQ-UBTVQH16 (kiện toàn Ban), 279/NQ-UBTVQH16 (quy định chức năng) — docid 218370, 218371 (Quốc hội — ngoài phạm vi thường theo dõi)
+- **05/06/2026**: 27/2026/TT-BXD — phân cấp thẩm quyền Bộ Xây dựng, tài sản công, đầu tư XD — docid 218377, hiệu lực 01/8/2026
+- **29/05/2026**: 42/2026/TT-BGDĐT — hướng dẫn tiêu chí xã nông thôn mới — docid 218376, hiệu lực ngay 29/5/2026
+- **09/06/2026**: 25/CT-TTg — chống buôn lậu thuốc lá — docid 218383
+
+### Ghi chú xử lý
+
+- **Không có văn bản ban hành ngày 28/6/2026**: 28/6/2026 là Chủ nhật, Ngày Gia đình Việt Nam. Không có phiên họp Chính phủ, không ban hành văn bản.
+- **Dải docid 218700–218950 hoàn toàn trống**: vanban.chinhphu.vn trả về ASP.NET shell page 69KB/URL — giống hiện tượng dải 218591–218700 lần trước. Nội dung được render bằng JavaScript client-side, HTTP GET không lấy được. Cần headless browser.
+- **Dải docid 218370–218390 chứa văn bản mới**: Sau 197/2026/NĐ-CP (docid 218367) là nhóm văn bản ngày 31/5–9/6/2026, bao gồm 4 TT-BKHCN mới chưa từng ghi nhận trong tracking. Dải này nằm TRƯỚC dải 218591–218700 đã quét — tức văn bản ở đây thuộc nửa cuối tháng 5/2026, không phải tháng 6 cuối.
+- **5 văn bản mới**: 197/2026/NĐ-CP (hành chính, docid 218367) + 4 TT-BKHCN (viễn thông/KHCN, docid 218372–218375). Tất cả docid đã xác minh trực tiếp từ vanban.chinhphu.vn.
+- **243/2026/NĐ-CP vẫn chưa xác minh docid**: Không có trong dải 218370–218390. Vẫn cần headless browser.
+- **243/2026/NĐ-CP content**: Toàn văn có trên luatvietnam.vn (slug 438841, 411KB HTML) và pcgroup.vn. Đã có trong tracking từ lần 19.
+- Nguồn: vanban.chinhphu.vn (quét docid 218700–218950 rỗng, 218370–218390 — phát hiện 5 văn bản mới), luatvietnam.vn (slug 436406, 436411, 436593), mst.gov.vn (docid confirm), baochinhphu.vn, thanhtra.com.vn, tapchitoaan.vn.
+- Ngày phát hiện: 2026-06-28 04:20 ICT
+- Phiên thực hiện: agent:github-io:subagent:59ac3467-c88e-46f9-8de0-79cef512f6a1 (Đệ #1 Discovery — lần 21)
+
+---
+
 ## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 20)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
