@@ -1,4 +1,37 @@
 
+## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 20)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218591–218700 + web_fetch luatvietnam.vn slug 438841 + web_search bổ sung từ baochinhphu.vn, thuvienphapluat.vn, luatvietnam.vn, pcgroup.vn theo nhóm chủ đề: Năng lượng, Thuế, Tài chính, Giao thông, Hàng không, Lao động, Xây dựng, KHCN, Hành chính, Tư pháp. **Xác nhận: Không có văn bản nào ban hành ngày 28/6/2026** — 28/6/2026 là Chủ nhật (Ngày Gia đình Việt Nam). Dải docid 218591–218700 hoàn toàn trống (ASP.NET render client-side, xác nhận lần 19 và 20).
+
+**243/2026/NĐ-CP docid: chưa xác minh.** Đã thử nhiều phương pháp: (i) web_fetch luatvietnam.vn slug 438841 — trả về nội dung pháp luật (411KB HTML) nhưng không chứa liên kết vanban.chinhphu.vn hay docid nào trong HTML source; (ii) quét dải docid 218591–218700 — tất cả trả về ASP.NET shell page với `__VIEWSTATE`, không có tiêu đề văn bản; (iii) web_search Brave/Gemini nhiều lần với query "243/2026/NĐ-CP docid vanban.chinhphu.vn" và "243/2026 docid 218" — không tìm được docid; (iv) chinhphu.vn listing pages 26–35 — không có entry 243. Xác suất 243/2026/NĐ-CP có docid thuộc dải 218591–218700 nhưng site sử dụng JavaScript client-side render nên curl/get không lấy được nội dung. Ghi nhận docid = **chua-xac-minh** (theo dải 218591–218610 trước đó nhưng không xác nhận được). Bổ sung nguồn: baochinhphu.vn (toàn văn trích yếu chi tiết), pcgroup.vn (phân tích chi tiết), luatvietnam.vn slug 438841 (toàn văn). Văn bản đã có trong tracking (thêm lần 19) — **0 văn bản mới** phát hiện lần này.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-28 lần 19)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 243/2026/NĐ-CP | **CÓ** (thêm lần 19) | Không thay đổi — docid vẫn chua-xac-minh; nguồn bổ sung: pcgroup.vn, baochinhphu.vn |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Năng lượng / Công Thương** (rất cao — hiệu lực 26/6/2026): **243/2026/NĐ-CP** — điện mặt trời mái nhà bán được 50%, mở rộng DPPA, tác động hàng triệu hộ gia đình + doanh nghiệp năng lượng. Ưu tiên số 1. Nguồn: luatvietnam.vn (slug 438841, toàn văn), baochinhphu.vn (trích yếu chi tiết). **Docid vẫn chưa xác minh** — cần headless browser (Puppeteer/Playwright) để render JS trên vanban.chinhphu.vn.
+2. **Thuế / Tài chính** (còn ~185 ngày): **245/2026/NĐ-CP** — gia hạn thuế VAT, TNDN, TNCN, tiền thuê đất; tác động 43 ngành kinh tế. Docid chua-xac-minh. Nguồn: xaydungchinhsach.chinhphu.vn.
+3. **Văn hóa / Di sản** (còn ~48 ngày): **16/2026/TT-BVHTTDL** (218564) và **17/2026/TT-BVHTTDL** (218565) — định mức giám định di vật, lập hồ sơ bảo vật quốc gia; hiệu lực 15/8/2026.
+
+### Ghi chú xử lý
+
+- **Không có văn bản ban hành ngày 28/6/2026**: 28/6/2026 là Chủ nhật, Ngày Gia đình Việt Nam. Không có phiên họp Chính phủ, không ban hành văn bản.
+- **Dải docid 218591–218700 hoàn toàn trống**: vanban.chinhphu.vn sử dụng ASP.NET WebForms + JavaScript render nội dung client-side. HTTP GET trả về trang shell với `__VIEWSTATE` và postback form, không có nội dung qua HTTP GET thông thường. Đã xác nhận trống lần 19 (218591–218700) và lần 20 (218591–218700 chi tiết hơn).
+- **243/2026/NĐ-CP docid: nhiều phương pháp thử nhưng chưa xác minh được.** Đã thử: (i) web_fetch luatvietnam.vn slug 438841 — HTML dài 411KB, có nội dung pháp luật đầy đủ nhưng không chứa liên kết vanban.chinhphu.vn hay docid; (ii) quét dải 218591–218700 bằng curl/Python — tất cả trả về ASP.NET shell page, không tìm được 243; (iii) web_search Brave/Gemini nhiều query khác nhau — không tìm thấy docid; (iv) chinhphu.vn listing pages 26–35 — không có entry 243. Cần headless browser (Puppeteer/Playwright) để render JavaScript trên vanban.chinhphu.vn và lấy docid thực. Xác suất docid nằm trong dải 218591–218610 (sau 237/2026/NĐ-CP, trước 245/2026/NĐ-CP) nhưng chưa xác nhận được.
+- **Nguồn bổ sung 243/2026/NĐ-CP**: pcgroup.vn (phân tích chi tiết về sửa đổi NĐ 57 và NĐ 58), baochinhphu.vn (trích yếu chi tiết từ Nghị định gốc, có link đến 58/2025/NĐ-CP docid=213011). Cổng thông tin điện tử Chính phủ có nội dung nhưng không index docid 243 riêng.
+- **0 văn bản mới lần này**: Không phát hiện thêm văn bản mới ngoài 243/2026/NĐ-CP (đã có từ lần 19).
+- Nguồn: vanban.chinhphu.vn (quét docid 218591–218700 — rỗng), luatvietnam.vn (slug 438841 — 243/2026/NĐ-CP HTML text), baochinhphu.vn (trích yếu chi tiết), pcgroup.vn (phân tích), chinhphu.vn (listing pages 26–35 — không có 243).
+- Ngày phát hiện: 2026-06-28 03:50 ICT
+- Phiên thực hiện: agent:github-io:subagent:3d8e9682-13ec-4676-9cb2-fc460c84d355 (Đệ #1 Discovery — lần 20)
+
+---
+
 ## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 19)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
