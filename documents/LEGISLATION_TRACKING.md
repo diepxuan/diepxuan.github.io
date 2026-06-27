@@ -1,4 +1,43 @@
 
+## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 18)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218591–218620 + chinhphu.vn + web_search theo nhóm chủ đề + xác minh 245/2026/NĐ-CP từ nhandan.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn.
+
+**Xác nhận: Không có văn bản nào ban hành ngày 28/6/2026** — 28/6/2026 là Chủ nhật (Ngày Gia đình Việt Nam), ngày nghỉ lễ. Dải docid 218591–218620 hoàn toàn trống (ASP.NET WebForms render bằng JS, server trả về `__VIEWSTATE` + postback form, không có nội dung qua HTTP GET thông thường).
+
+Tuy nhiên, web_search phát hiện **245/2026/NĐ-CP** được baochinhphu.vn đưa tin chính thức ngày 27/6/2026, chưa từng được ghi nhận trong tracking. Đây là văn bản gia hạn thuế quan trọng, hiệu lực 27/6/2026. Giới hạn 5/lần — ghi nhận 1:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 245/2026/NĐ-CP | 27/06/2026 | Quy định **gia hạn thời hạn nộp thuế** giá trị gia tăng, thuế thu nhập doanh nghiệp, thuế thu nhập cá nhân và tiền thuê đất trong năm 2026 — gia hạn tối đa 5 tháng đối với VAT kỳ tháng 5–9/2026 và quý II, III/2026; gia hạn 3 tháng đối với TNDN tạm nộp quý II; gia hạn 2 tháng đối với TNDN tạm nộp quý III; gia hạn 5 tháng đối với TNCN của hộ kinh doanh, cá nhân kinh doanh; gia hạn 5 tháng đối với 50% tiền thuê đất kỳ đầu năm 2026; không tính tiền chậm nộp trong thời gian gia hạn; đối tượng: doanh nghiệp, tổ chức, hộ kinh doanh, cá nhân kinh doanh trong 43 ngành kinh tế theo Phụ lục I + doanh nghiệp nhỏ và siêu nhỏ; hiệu lực **27/6/2026 đến 30/12/2026** | Thuế / Tài chính | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-245-2026-nd-cp-gia-han-thoi-han-nop-thue-tien-thue-dat-trong-nam-2026-119260627180925528.htm`; nguồn: baochinhphu.vn (tin chính thức 27/6), nhandan.vn, vietnamplus.vn, vov.vn, laodong.vn; ngày ban hành: 27/6/2026; hiệu lực: 27/6/2026–30/12/2026; tác động rất rộng — 43 ngành kinh tế, hàng triệu doanh nghiệp và hộ kinh doanh; cần xác minh docid vanban.chinhphu.vn (dự kiến 218600–218620 hoặc cao hơn) + crawl nội dung chi tiết ở Đệ #3 Full Content Crawler; Phụ lục I gồm 43 ngành kinh tế (nông nghiệp → xử lý nước thải) + quy định xác định ngành theo QĐ 36/2025/QĐ-TTg |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-27 lần 17)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 245/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế / Tài chính** (rất cao — hiệu lực ngay 27/6/2026, hết hạn 30/12/2026): **245/2026/NĐ-CP** — gia hạn thuế VAT, TNDN, TNCN, tiền thuê đất; tác động 43 ngành kinh tế, hàng triệu doanh nghiệp và hộ kinh doanh; ưu tiên số 1.
+2. **Văn hóa / Di sản** (còn ~49 ngày): **16/2026/TT-BVHTTDL** — định mức giám định di vật, cổ vật; hiệu lực 15/8/2026 (từ lần 17).
+3. **Văn hóa / Di sản** (còn ~49 ngày): **17/2026/TT-BVHTTDL** — định mức lập hồ sơ công nhận bảo vật quốc gia; hiệu lực 15/8/2026.
+4. **Giáo dục / Hành chính** (còn ~41 ngày): **47/2026/TT-BGDĐT** — bãi bỏ văn bản giáo dục; hiệu lực 07/8/2026.
+
+### Ghi chú xử lý
+
+- **Không có văn bản ban hành ngày 28/6/2026**: 28/6/2026 là Chủ nhật, Ngày Gia đình Việt Nam. Không có phiên họp Chính phủ, không ban hành văn bản.
+- **Dải docid 218591–218620 hoàn toàn trống**: vanban.chinhphu.vn sử dụng ASP.NET WebForms + JavaScript render nội dung client-side. HTTP GET trả về trang shell với `__VIEWSTATE` và postback form, không trả nội dung văn bản. Cần dùng headless browser (Puppeteer/Playwright) để crawl dải docid mới.
+- **245/2026/NĐ-CP chưa có trong tracking**: Văn bản được baochinhphu.vn đăng tin chính thức ngày 27/6/2026; đây là văn bản thuế quan trọng, tác động rất rộng (43 ngành kinh tế, hàng triệu đối tượng). Nội dung chi tiết có tại xaydungchinhsach.chinhphu.vn (toàn văn + Phụ lục I).
+- **245/2026/NĐ-CP docid chưa xác minh**: Dải docid trên vanban.chinhphu.vn trả về rỗng; cần xác minh docid qua luatvietnam.vn hoặc thuvienphapluat.vn ở phiên sau. Xác suất docid nằm trong dải 218600–218620 hoặc cao hơn (218621+).
+- **Nguồn**: vanban.chinhphu.vn (quét docid 218591–218620 — rỗng), xaydungchinhsach.chinhphu.vn (toàn văn 245/2026/NĐ-CP), baochinhphu.vn (tin chính thức), nhandan.vn, vietnamplus.vn, vov.vn, laodong.vn, thuvienphapluat.vn.
+- Ngày phát hiện: 2026-06-28 01:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:701f1909-d894-4d33-b9a1-11a509215239 (Đệ #1 Discovery — lần 18)
+
+---
+
 ## Cập nhật 2026-06-27 (phiên Đệ #1 Discovery — lần 17)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
