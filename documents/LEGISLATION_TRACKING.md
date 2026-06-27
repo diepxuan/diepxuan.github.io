@@ -827,7 +827,7 @@ Quét dải docid 218530–218602 (văn bản ban hành 22–26/6/2026) + web_se
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 221/2026/NĐ-CP | ~22–23/6/2026 | Về **Nhà chức trách hàng không Việt Nam và quản lý an toàn hàng không** — cơ cấu tổ chức, chức năng, nhiệm vụ; quy định an toàn hàng không; thay thế NĐ 92/2015/NĐ-CP (phần hàng không); hiệu lực **01/7/2026** | Hàng không / Giao thông | 218552 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218552`; ngày ban hành: ~22–23/6/2026 (dựa trên vị trí docid); cùng đợt với 215/2026/NĐ-CP (cấm bay) — cả hai điều chỉnh cùng lĩnh vực hàng không; cần xác minh ngày ban hành chính xác và nguồn nội dung |
-| 237/2026/NĐ-CP | 26/6/2026 | Quy định chi tiết thi hành một số điều của **Luật Báo chí** — cụ thể hóa quy định về báo chí, nhà báo, tổ chức báo chí, hoạt động báo chí; thay thế Nghị định cũ về báo chí; hiệu lực **chưa rõ** | Báo chí / Truyền thông | 218590 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218590`; ngày ban hành: 26/6/2026; nguồn: vanban.chinhphu.vn docid 218590; tác động toàn ngành báo chí, truyền thông; cần xác minh ngày hiệu lực chính xác |
+| 237/2026/NĐ-CP | 26/6/2026 | Quy định chi tiết thi hành một số điều của **Luật Báo chí** — cụ thể hóa quy định về báo chí, nhà báo, tổ chức báo chí, hoạt động báo chí; quy định mới về **gắn nhãn AI** (nội dung do AI tạo/chỉnh sửa phải thông báo, gắn nhãn); hình thành **nền tảng số báo chí quốc gia** (ĐTTHVN, ĐTVN, Báo Nhân Dân); thay thế Nghị định cũ về báo chí; hiệu lực **01/7/2026** | Báo chí / Truyền thông / CNTT | 218590 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218590`; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026 (xác minh từ luatvietnam, baochinhphu, vietnamplus); nguồn: vanban.chinhphu.vn docid 218590; tác động toàn ngành báo chí, truyền thông, platform công nghệ; **hiệu lực còn 4 ngày — ưu tiên cao** |
 | 229/2026/NĐ-CP | 25/6/2026 | Quy định về **tổ chức và hoạt động của Quỹ Phát triển khoa học và công nghệ Quốc gia** — cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn; nguồn vốn, quản lý tài chính; hiệu lực **chưa rõ** | KHCN / Tài chính | 218589 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218589`; ngày ban hành: 25/6/2026; nguồn: vanban.chinhphu.vn docid 218589; tác động hệ thống KHCN quốc gia |
 | 218/2026/NĐ-CP | ~22–23/6/2026 | Sửa đổi, bổ sung một số điều của **NĐ 158/2024/NĐ-CP** về hoạt động vận tải đường bộ — điều chỉnh quy định về vận tải hành khách, hàng hóa, phương tiện; hiệu lực **chưa rõ** | Giao thông vận tải | 218537 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218537`; ngày ban hành: ~22–23/6/2026; cần xác minh ngày hiệu lực chính xác; tác động ngành vận tải đường bộ |
 | 15/2026/TT-TANDTC | ~24/6/2026 | Ban hành **Quy định về công tác đào tạo, bồi dưỡng trong Tòa án nhân dân** — quy trình đào tạo, bồi dưỡng thẩm phán, hội thẩm, công chức TAND; tiêu chí, nội dung, thời lượng; hiệu lực **chưa rõ** | Tư pháp / Tố tụng | 218532 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218532`; ngày ban hành: ~24/6/2026; tác động hệ thống tòa án nhân dân các cấp; cần xác minh ngày hiệu lực |
@@ -876,3 +876,52 @@ Quét dải docid 218530–218602 (văn bản ban hành 22–26/6/2026) + web_se
 - Nguồn: web_fetch vanban.chinhphu.vn (dải 218530–218602), web_search Brave + Gemini (69/70/71/TT-BTC docid verification).
 - Ngày phát hiện: 2026-06-27 10:07 ICT
 - Phiên thực hiện: agent:github-io:subagent:06743507-3262-4078-b55a-a143bdca3759 (Đệ #1 Discovery — lần 16)
+
+---
+
+## Cập nhật 2026-06-27 (phiên Đệ #1 Discovery — lần 17)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét dải docid 218585–218610 (văn bản ban hành 26/6/2026) + web_search 239/2026/NĐ-CP + Chỉ thị 27/CT-TTg. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-27 lần 16): phát hiện **3 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận 3 (dải 218601–218610 trống, không có văn bản ngày 27/6/2026):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 239/2026/NĐ-CP | 26/6/2026 | Sửa đổi, bổ sung một số điều của NĐ 81/2018/NĐ-CP về **hoạt động xúc tiến thương mại, khuyến mại** — sửa Điều 5 (hàng hóa, dịch vụ được/dùng để khuyến mại: bổ sung quy định tiền có thể dùng làm hàng hóa khuyến mại); sửa khoản 1, khoản 5 Điều 13 (xác định trúng thưởng trong CTKM mang tính may rủi: bổ sung hình thức **chứng kiến trực tuyến** của khách hàng); sửa khoản 8, khoản 9 Điều 29 (hội chợ, triển lãm); thay thế NĐ 128/2024/NĐ-CP; hiệu lực **26/6/2026** | Thương mại / Khuyến mại | chua-xac-minh | **Chưa có** | URL: chưa xác minh docid (dự kiến sau 218590); nguồn: baochinhphu.vn, vietnamplus, baomoi, bnews; ngày ban hành: 26/6/2026; hiệu lực cùng ngày ban hành; tác động doanh nghiệp kinh doanh khuyến mại, thương nhân bán lẻ |
+| 32/2026/NQ-CP | 26/6/2026 | Ban hành **cơ chế, chính sách bảo đảm đưa Bệnh viện Bạch Mai cơ sở Ninh Bình và Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình vào vận hành** — cơ chế tài chính, nhân sự, mua sắm trang thiết bị, vật tư y tế, vận hành hai bệnh viện trực thuộc Trung ương đặt tại Ninh Bình; hiệu lực **chưa rõ** | Y tế / Đầu tư | 218584 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218584` (xác minh chính thức); nguồn: vanban.chinhphu.vn docid 218584; ngày ban hành: 26/6/2026; tác động Bệnh viện Bạch Mai cơ sở Ninh Bình, Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình, người dân Ninh Bình và vùng phụ cận |
+| 27/CT-TTg | 25/6/2026 | Về việc **tăng cường quản lý, nâng cao hiệu quả sử dụng và thúc đẩy giải ngân vốn ODA, vay ưu đãi nước ngoài năm 2026 và giai đoạn tiếp theo** — tỷ lệ giải ngân ODA đến 15/6/2026 chỉ đạt 9,99% (một số bộ/địa phương đạt 0%); quy định trách nhiệm người đứng đầu; nâng cao chất lượng lập kế hoạch; phân bổ tập trung, trọng điểm; điều chuyển vốn từ dự án chậm sang dự án tốt; xử lý dự án kéo dài; tăng cường kiểm tra, giám sát, phòng chống tiêu cực; đưa kết quả giải ngân vào tiêu chí đánh giá hoàn thành nhiệm vụ; hiệu lực **25/6/2026** | Đầu tư / Tài chính | chua-xac-minh | **Chưa có** | URL: chưa xác minh docid; nguồn: luatvietnam.vn (slug 438743), baochinhphu.vn, thoibaotaichinhvietnam.vn, vietnamplus; ngày ban hành: 25/6/2026; hiệu lực cùng ngày; năm 2026 là năm đầu triển khai kế hoạch đầu tư công trung hạn 2026–2030; tác động toàn bộ bộ/ngành/địa phương có dự án ODA |
+
+### Xác minh docid cho các văn bản phát hiện lần 16 (chua-xac-minh)
+
+| Số hiệu | Docid cũ | Docid mới | Trạng thái | Chi tiết |
+|---|:---:|:---:|---|---|
+| 237/2026/NĐ-CP | 218590 | **218590** | Xác minh (giữ nguyên) | Vẫn active — `https://vanban.chinhphu.vn/?pageid=27160&docid=218590`; Luật Báo chí; hiệu lực **01/7/2026** (xác minh từ web_search ngày 27/6/2026) |
+| 239/2026/NĐ-CP | chua-xac-minh | **chua-xac-minh** | Chưa xác minh | Dự kiến docid sau 218590 (dải 218591–218599 trống); cần web_fetch dải 218591–218599 hoặc tìm trên luatvietnam.vn |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-27 lần 16)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 239/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 32/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 27/CT-TTg | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết — Đệ #3)
+
+1. **Thương mại / Khuyến mại** (rất cao — đã có hiệu lực 26/6/2026): **239/2026/NĐ-CP** — chứng kiến trúng thưởng trực tuyến trong CTKM; tác động doanh nghiệp bán lẻ, thương mại điện tử, platform thương mại. Ưu tiên số 1 — đã có hiệu lực ngay. Cần xác minh docid trước khi crawl.
+2. **Y tế** (cao): **32/2026/NQ-CP** — cơ chế vận hành Bệnh viện Bạch Mai cơ sở Ninh Bình, Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình; tác động ngành y tế Trung ương, người dân Ninh Bình. Docid 218584 xác minh.
+3. **Đầu tư / Tài chính** (rất cao — đã có hiệu lực 25/6/2026): **27/CT-TTg** — giải ngân ODA 2026; tác động toàn bộ bộ/ngành/địa phương có dự án ODA. Ưu tiên số 2 — đã có hiệu lực. Cần xác minh docid.
+4. **Báo chí / Truyền thông** (rất cao — còn 4 ngày): **237/2026/NĐ-CP** (docid 218590) — quy định chi tiết thi hành Luật Báo chí, gắn nhãn AI, nền tảng số báo chí quốc gia; hiệu lực 01/7/2026; tác động toàn ngành báo chí. Ưu tiên số 3.
+5. **KHCN / Tài chính** (trung bình): **229/2026/NĐ-CP** (docid 218589) — Quỹ Phát triển KH&CN Quốc gia; hiệu lực chưa rõ. Tác động hệ thống KHCN quốc gia.
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** (239/2026/NĐ-CP, 32/2026/NQ-CP, 27/CT-TTg) được thêm vào tracking lần 17. Không tìm thấy văn bản nào ban hành ngày **27/6/2026** — dải docid 218601–218610 đều trống, không có văn bản mới.
+- **237/2026/NĐ-CP hiệu lực 01/7/2026**: Xác minh từ nhiều nguồn (luatvietnam.vn, baochinhphu.vn, congthuong.vn, vietnamplus) — hiệu lực chính xác là **01/7/2026**, không phải "chưa rõ" như lần 16. Cập nhật vào bảng.
+- **239/2026/NĐ-CP docid**: Dải 218591–218599 đã scan đều trống. Docid dự kiến sau 218590 nhưng chưa tìm thấy trên vanban.chinhphu.vn. Cần check luatvietnam.vn hoặc mở rộng quét dải 218600–218700 trong phiên sau.
+- **27/CT-TTg docid**: Chưa xác minh docid. Có thể là loại văn bản thuộc VPCP (Văn phòng Chính phủ) không có docid theo pattern NĐ-CP.
+- **32/2026/NQ-CP**: Đây là Nghị quyết của Chính phủ (không phải Nghị định) — về cơ chế vận hành 2 bệnh viện trung ương tại Ninh Bình. File nên đặt vào `van-ban/y-te/`.
+- **Không có văn bản mới ngày 27/6/2026**: Như lần 16, dải 218601+ vẫn trống. Hôm nay (27/6/2026) Thủ tướng chủ trì Phiên họp chuyên đề về xây dựng pháp luật, thảo luận các dự án luật trình QH — không ban hành văn bản quy phạm mới.
+- Nguồn: web_fetch vanban.chinhphu.vn (dải 218584–218610), web_search Brave + Gemini (239/2026/NĐ-CP, 27/CT-TTg chi tiết), luatvietnam.vn (27/CT-TTg slug 438743).
+- Ngày phát hiện: 2026-06-27 14:41 ICT
+- Phiên thực hiện: agent:github-io:subagent:ef4454b7-3dd7-467a-82a4-6c4d33e55c44 (Đệ #1 Discovery — lần 17)
