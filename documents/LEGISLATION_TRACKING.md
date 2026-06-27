@@ -1,4 +1,42 @@
 
+## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 19)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218591–218700 + web_search bổ sung từ baochinhphu.vn, luatvietnam.vn, baomoi.com theo nhóm chủ đề: Tài chính, Thuế, Giao thông, Hàng không, Lao động, Xây dựng, KHCN, Dự trữ quốc gia. **Xác nhận: Không có văn bản nào ban hành ngày 28/6/2026** — 28/6/2026 là Chủ nhật (Ngày Gia đình Việt Nam). Dải docid 218591–218700 hoàn toàn trống.
+
+Tuy nhiên, web_search phát hiện **243/2026/NĐ-CP** được công bố chính thức trên baochinhphu.vn ngày 27/6/2026, chưa từng được ghi nhận trong tracking. Đây là văn bản sửa đổi quan trọng về năng lượng tái tạo và điện mặt trời mái nhà. Giới hạn 5/lần — ghi nhận 1:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 243/2026/NĐ-CP | 26/06/2026 | Sửa đổi, bổ sung một số điều của NĐ 57/2025/NĐ-CP (mua bán điện trực tiếp — DPPA) và NĐ 58/2025/NĐ-CP (phát triển điện năng lượng tái tạo) — cho phép **bán điện dư từ điện mặt trời mái nhà** tự sản xuất, tự tiêu thụ lên lưới điện quốc gia với tỷ lệ tối đa **50%** sản lượng phát (trước đây 20%); cho phép đến 100% ở khu vực chưa có lưới điện quốc gia; mở rộng đối tượng khách hàng mua điện trực tiếp (trung tâm dữ liệu, trạm sạc điện xe); điều chỉnh cơ chế giá điện mặt trời mái nhà theo giá thị trường bình quân năm trước; hiệu lực **26/6/2026** (cùng ngày ban hành) | Năng lượng / Công Thương | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438841), baochinhphu.vn (bài viết 27/6/2026), vietnamplus.vn, thanhnien.vn, congthuong.vn, vietnamsolar.vn; ngày ban hành: 26/6/2026; hiệu lực 26/6/2026 (cùng ngày); tác động hộ gia đình lắp điện mặt trời mái nhà, doanh nghiệp năng lượng tái tạo, trung tâm dữ liệu, trạm sạc xe điện; cần xác minh docid vanban.chinhphu.vn; xác suất docid nằm trong dải 218591–218610 (sau 237/2026/NĐ-CP, trước 245/2026/NĐ-CP) |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-28 lần 18)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 243/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Năng lượng / Công Thương** (rất cao — hiệu lực ngay 26/6/2026, tác động rất rộng): **243/2026/NĐ-CP** — điện mặt trời mái nhà bán được 50%, mở rộng DPPA, tác động hàng triệu hộ gia đình + doanh nghiệp năng lượng; ưu tiên số 1. Nguồn: luatvietnam.vn (slug 438841).
+2. **Thuế / Tài chính** (rất cao — hết hiệu lực 30/12/2026): **245/2026/NĐ-CP** — gia hạn thuế VAT, TNDN, TNCN, tiền thuê đất; tác động 43 ngành kinh tế; xác minh docid (từ lần 18).
+3. **Văn hóa / Di sản** (còn ~48 ngày): **16/2026/TT-BVHTTDL** và **17/2026/TT-BVHTTDL** — định mức giám định di vật, cổ vật; hiệu lực 15/8/2026.
+4. **Giáo dục / Hành chính** (còn ~40 ngày): **47/2026/TT-BGDĐT** — bãi bỏ văn bản giáo dục; hiệu lực 07/8/2026.
+
+### Ghi chú xử lý
+
+- **Không có văn bản ban hành ngày 28/6/2026**: 28/6/2026 là Chủ nhật, Ngày Gia đình Việt Nam. Không có phiên họp Chính phủ, không ban hành văn bản.
+- **Dải docid 218591–218700 hoàn toàn trống**: vanban.chinhphu.vn sử dụng ASP.NET WebForms + JavaScript render nội dung client-side. HTTP GET trả về trang shell với `__VIEWSTATE` và postback form, không có nội dung qua HTTP GET thông thường. Docid 218591–218620 hoàn toàn trống (confirmed lần 18); kiểm tra mở rộng đến 218700 lần này — vẫn trống.
+- **243/2026/NĐ-CP chưa có trong tracking**: Văn bản được baochinhphu.vn đăng tin chính thức ngày 27/6/2026; đây là văn bản năng lượng tái tạo có tác động rất rộng (hàng triệu hộ gia đình lắp điện mặt trời mái nhà, doanh nghiệp năng lượng, trung tâm dữ liệu, trạm sạc xe điện). Nội dung chi tiết tại luatvietnam.vn (slug 438841).
+- **243/2026/NĐ-CP docid chưa xác minh**: vanban.chinhphu.vn trả về trang trống cho dải 218591–218700. Xác suất docid nằm trong dải 218591–218610 (sau 237/2026/NĐ-CP, trước 245/2026/NĐ-CP). Cần xác minh qua luatvietnam.vn slug hoặc thuvienphapluat.vn ở phiên sau.
+- **Các văn bản khác tuần này đã có trong tracking**: 09/2026/TT-BNV (docid 218201, hiệu lực 30/6/2026 — đã có full content), 40/2026/TT-BGDĐT (docid 218142, hiệu lực 30/6/2026 — đã có), 144/2026/NĐ-CP (hiệu lực 20/6/2026 — đã có), 146/2026/NĐ-CP (hiệu lực 25/6/2026 — đã có). Không trùng lặp.
+- Nguồn: vanban.chinhphu.vn (quét docid 218591–218700 — rỗng), luatvietnam.vn (slug 438841 — 243/2026/NĐ-CP), baochinhphu.vn (tin chính thức 27/6), thanhnien.vn, congthuong.vn, vietnamsolar.vn.
+- Ngày phát hiện: 2026-06-28 03:19 ICT
+- Phiên thực hiện: agent:github-io:subagent:23f4fa7a-e502-4bcd-8bde-33c05fa89f4e (Đệ #1 Discovery — lần 19)
+
+---
+
 ## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 18)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
