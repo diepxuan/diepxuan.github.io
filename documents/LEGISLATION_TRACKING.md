@@ -1,3 +1,61 @@
+## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 16)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218574–218590 + xác minh 218600–218700 (ngày 28/6/2026 CN — ngày thường không ban hành văn bản mới, nhưng vẫn kiểm tra đặc biệt). Kết quả: **5 văn bản mới** phát hiện trong dải 218574–218590 (bước nhảy từ tracking cũ ~218550). Dải 218600–218700 hoàn toàn trống (không có văn bản mới — phù hợp với ngày CN). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-22 lần 15): 5 văn bản mới. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 228/2026/NĐ-CP | 27/06/2026 | Sửa đổi, bổ sung NĐ 18/2020/NĐ-CP (xử phạt VPHC trong đo đạc và bản đồ) và NĐ 04/2022/NĐ-CP — sửa đổi mức phạt, thủ tục, thẩm quyền xử phạt trong lĩnh vực đo đạc và bản đồ; thay thế một phần quy định cũ; hiệu lực **27/6/2026** (cùng ngày ký) | Tư pháp / Đo đạc | 218581 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218581`; nguồn: vanban.chinhphu.vn (docid xác minh 27/6/2026); tác động cơ quan đo đạc, bản đồ, doanh nghiệp trắc địa; cần xác minh nội dung chi tiết, số Điều sửa đổi |
+| 231/2026/NĐ-CP | 27/06/2026 | Quy định về **quản lý, giám sát, giáo dục người chấp hành án hình sự tại cộng đồng** — trình tự, thủ tục, thẩm quyền; áp dụng các biện pháp giám sát, giáo dục tại địa phương; thay thế NĐ cũ về quản lý tại cộng đồng; hiệu lực **27/6/2026** (cùng ngày ký) | Tư pháp / Hình sự | 218582 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218582`; nguồn: vanban.chinhphu.vn (docid xác minh 27/6/2026); tác động cơ quan thi hành án dân sự, công an địa phương, chính quyền cơ sở; cần xác minh nội dung chi tiết |
+| 230/2026/NĐ-CP | 27/06/2026 | Sửa đổi, bổ sung NĐ 28/2018/NĐ-CP (chi tiết Luật Quản lý ngoại thương) đã được sửa bởi NĐ 14/2024/NĐ-CP — cập nhật các biện pháp phát triển ngoại thương, thương mại quốc tế; hiệu lực **27/6/2026** (cùng ngày ký) | Ngoại thương / Thương mại | 218585 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218585`; nguồn: vanban.chinhphu.vn (docid xác minh 27/6/2026); tác động doanh nghiệp xuất nhập khẩu, cơ quan quản lý ngoại thương; cần xác minh nội dung chi tiết |
+| 32/2026/NQ-CP | 27/06/2026 | Ban hành cơ chế, chính sách **đưa Bệnh viện Bạch Mai cơ sở Ninh Bình và Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình vào vận hành** — cơ chế tài chính, nhân sự, mua sắm trang thiết bị; hiệu lực **27/6/2026** (cùng ngày ký) | Y tế / Đầu tư | 218584 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218584`; nguồn: vanban.chinhphu.vn (docid xác minh 27/6/2026); tác động 2 bệnh viện tuyến trung ương tại Ninh Bình, Sở Y tế Ninh Bình; cần xác minh nội dung chi tiết |
+| 27/CT-TTg | 27/06/2026 | Tăng cường quản lý, nâng cao hiệu quả sử dụng và thúc đẩy **giải ngân vốn ODA, vay ưu đãi nước ngoài năm 2026** và giai đoạn tiếp theo — chỉ đạo các bộ, ngành, địa phương đẩy nhanh giải ngân; hiệu lực **27/6/2026** (cùng ngày ký) | Tài chính / Đầu tư | 218580 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218580`; nguồn: vanban.chinhphu.vn (docid xác minh 27/6/2026); tác động các bộ, ngành, địa phương có dự án ODA; cần xác minh nội dung chi tiết |
+
+### Các văn bản phụ trong dải 218574–218590 (không tính vào giới hạn 5)
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 71/VBHN-BNNMT | 26/06/2026 | Văn bản hợp nhất số 71/VBHN-BNNMT: Quy định trình tự, thủ tục đánh giá rủi ro, cấp phép nhập khẩu thủy sản sống — hợp nhất các NĐ/TT sửa đổi về nhập khẩu thủy sản sống; **không phải văn bản mới ban hành** (là VBHN cập nhật) | Nông nghiệp / Thủy sản | 218574 | Không cần crawl | VB hợp nhất, không có nội dung pháp lý mới — bỏ qua |
+| 43/CĐ-TTg | 27/06/2026 | Công điện số 43/CĐ-TTg: **quyết liệt triển khai các biện pháp cấp bách về phòng cháy, chữa cháy rừng** — Thủ tướng yêu cầu các địa phương tăng cường PCCC rừng mùa khô | Nông nghiệp / Lâm nghiệp | 218579 | Không cần crawl | Công điện ngắn — bỏ qua (không phải QHPL cần theo dõi) |
+
+### Xác minh dải docid 218600–218700 (ngày 28/6/2026 CN)
+
+**Kết quả: DẢI TRỐNG HOÀN TOÀN** — 101 docid (218600–218700) đều trả "Chi tiết văn bản ban hành" (không có nội dung). Xác nhận ngày CN 28/6/2026 không có văn bản mới được ban hành.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-22 lần 15)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 228/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 231/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 230/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 32/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 27/CT-TTg | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Tư pháp** (rất cao — hiệu lực ngay 27/6/2026): **231/2026/NĐ-CP** — quản lý người chấp hành án hình sự tại cộng đồng; tác động hệ thống thi hành án, công an địa phương, chính quyền xã/phường. Ưu tiên số 1. Cần crawl chi tiết ngay vì hiệu lực cùng ngày.
+2. **Tư pháp / Hành chính** (rất cao — hiệu lực ngay 27/6/2026): **228/2026/NĐ-CP** — sửa đổi xử phạt VPHC đo đạc bản đồ; tác động cơ quan trắc địa, doanh nghiệp đo đạc. Ưu tiên số 2.
+3. **Ngoại thương** (rất cao — hiệu lực ngay 27/6/2026): **230/2026/NĐ-CP** — sửa đổi quản lý ngoại thương theo Luật Quản lý ngoại thương; tác động doanh nghiệp XNK. Ưu tiên số 3.
+4. **Y tế** (rất cao — hiệu lực ngay 27/6/2026): **32/2026/NQ-CP** — chính sách vận hành 2 bệnh viện tuyến trung ương tại Ninh Bình; tác động Bệnh viện Bạch Mai, Bệnh viện Hữu nghị Việt Đức, Sở Y tế Ninh Bình. Ưu tiên số 4.
+5. **Tài chính / Đầu tư** (rất cao — hiệu lực ngay 27/6/2026): **27/CT-TTg** — giải ngân vốn ODA 2026; tác động các bộ, ngành, địa phương có dự án ODA. Ưu tiên số 5.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 16 — tất cả đều ban hành ngày **27/6/2026** (thứ Bảy), hiệu lực cùng ngày.
+- **237/2026/NĐ-CP** (docid 218590): Quy định chi tiết Luật Báo chí — phát hiện trong dải 218574–218590 nhưng docid nằm ngoài giới hạn 5 văn bản/lần. Ghi nhận tại đây: docid xác minh **218590**, nhóm Báo chí / Tư pháp, hiệu lực 27/6/2026. Cần ưu tiên crawl ở lần tiếp theo.
+- **229/2026/NĐ-CP** (docid 218589): Quỹ Phát triển KH&CN Quốc gia — phát hiện ngoài giới hạn 5. Ghi nhận: docid **218589**, nhóm KHCN / Tài chính, hiệu lực 27/6/2026. Ở lần tiếp theo.
+- **1131/QĐ-TTg** (docid 218592): Phê duyệt thành viên Đoàn đàm phán Chính phủ về kinh tế và thương mại quốc tế — phát hiện ngoài giới hạn 5. Ghi nhận: docid **218592**, nhóm Ngoại giao / Thương mại, hiệu lực 27/6/2026. Không ưu tiên cao.
+- **332/TB-VPCP** (docid 218588): Thông báo kết luận Phó Thủ tướng về đường sắt quốc gia khu vực Hà Nội — phát hiện ngoài giới hạn 5. Ghi nhận: docid **218588**. Không ưu tiên cao.
+- **218600–218700**: Xác nhận dải trống hoàn toàn. Ngày CN 28/6/2026 không có văn bản mới. Phiên quét tiếp theo có thể bắt đầu từ docid ~218591 hoặc cần chờ thứ Hai 29/6/2026.
+- **Nhóm đợt 27/6/2026**: 7 văn bản cùng ngày (228, 229, 230, 231, 237, 32/NQ-CP, 27/CT-TTg) — đây là đợt ban hành lớn ngay trước ngày nghỉ CN. Có thể còn văn bản khác cùng ngày trong dải 218591–218599 (chưa quét).
+- Nguồn: vanban.chinhphu.vn (quét docid 218574–218595, 218600–218700), luatvietnam.vn (van-ban-moi.html xác nhận ngày 27/6/2026 có văn bản mới).
+- Ngày phát hiện: 2026-06-28 10:34 ICT
+- Phiên thực hiện: agent:github-io:subagent:7a0f89a8-26e4-47ba-8b36-91c5e7cf48c5 (Đệ #1 Discovery — lần 16)
+
+---
+
 ## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 15)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
