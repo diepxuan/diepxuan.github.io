@@ -858,3 +858,29 @@ Quét Brave + Gemini vanban.chinhphu.vn + luatvietnam.vn + baochinhphu.vn với 
 
 ---
 
+## Cập nhật 2026-06-29 (phiên Đệ #1 Discovery — lần 17)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218590–218800 (ngày 29/6/2026 Thứ Hai). Kết quả: **dải hoàn toàn trống** — không có văn bản mới được ban hành ngày 29/6/2026.
+
+### Chi tiết quét
+
+- docid 218590: **237/2026/NĐ-CP** (Luật Báo chí) — đã có trong tracking lần 16.
+- docid 218591–218800: **trống hoàn toàn** — tất cả đều trả "Chi tiết văn bản ban hành" (không có nội dung).
+
+### Kết luận
+
+Ngày 29/6/2026 (Thứ Hai) không có văn bản mới được ban hành trên vanban.chinhphu.vn.
+
+### Ưu tiên lần tiếp theo
+
+Tiếp tục theo danh sách ưu tiên từ lần 16:
+1. **231/2026/NĐ-CP** (docid 218582) — quản lý người chấp hành án hình sự tại cộng đồng.
+2. **228/2026/NĐ-CP** (docid 218581) — đã có file, chưa đầy đủ.
+3. **230/2026/NĐ-CP** (docid 218585) — sửa đổi quản lý ngoại thương.
+4. **32/2026/NQ-CP** (docid 218584) — chính sách 2 bệnh viện tuyến trung ương tại Ninh Bình.
+5. **27/CT-TTg** (docid 218580) — giải ngân vốn ODA 2026.
+
+---
+
