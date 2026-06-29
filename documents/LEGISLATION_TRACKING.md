@@ -937,3 +937,122 @@ Tiếp tục theo danh sách ưu tiên từ lần 16:
 
 ---
 
+
+---
+
+## Cập nhật 2026-06-29 (phiên Đệ #4 Content Reviewer + PR Comment Reviewer — lần 23)
+
+### 1. Quét van-ban/ tìm file cần refactor (tối đa 10 file)
+
+**Tiêu chí**: metadata "Đang cập nhật" trong front matter HOẶC file < 10KB HOẶC lastedit > 7 ngày.
+
+#### 1a. File có metadata "Đang cập nhật" (placeholder stubs — ưu tiên refactor cao)
+
+Đây là placeholder files chỉ có heading, không có nội dung thực. Cần crawl nội dung thực hoặc xóa.
+
+| # | File | Ghi chú |
+|---|---|---|
+| 1 | `van-ban/quoc-phong/bien-phong-viet-nam.md` | "Đang cập nhật" x8 trường metadata, lastedit 2026-05-13 (47 ngày), chỉ có heading "Chương I" |
+| 2 | `van-ban/quoc-phong/giao-duc-quoc-phong-va-an-ninh.md` | Tương tự — placeholder stub |
+| 3 | `van-ban/quoc-phong/luc-luong-du-bi-dong-vien.md` | Tương tự — placeholder stub |
+| 4 | `van-ban/quoc-phong/canh-sat-bien-viet-nam.md` | Tương tự — placeholder stub |
+| 5 | `van-ban/quoc-phong/dan-quan-tu-ve.md` | Tương tự — placeholder stub |
+| 6 | `van-ban/quoc-phong/si-quan-quan-doi-nhan-dan-viet-nam.md` | Tương tự — placeholder stub |
+| 7 | `van-ban/quoc-phong/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong.md` | Tương tự — placeholder stub |
+| 8 | `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-dan-su.md` | Tương tự — placeholder stub |
+| 9 | `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/hoa-giai-doi-thoai-tai-toa-an.md` | Tương tự — placeholder stub |
+| 10 | `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/pha-san.md` | Tương tự — placeholder stub |
+
+**Pattern nhận diện**: `layout: page`, 8 trường "Đang cập nhật", nội dung chỉ có heading + "Chương I NHỮNG QUY ĐỊNH CHUNG". Tổng cộng có **20+ files** có pattern này trong `van-ban/quoc-phong/` và `van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/`.
+
+**Hành động đề xuất**: Xóa hoặc crawl nội dung. Nếu không có nguồn đầy đủ thì xóa (không giữ stub trên production site).
+
+#### 1b. File < 10KB (small files — ưu tiên trung bình)
+
+Các file nhỏ bất thường (thường < 10KB trong khi văn bản pháp luật đầy đủ thường > 20KB):
+
+| # | File | Size | Days old | Ghi chú |
+|---|---|---|---|---|
+| 1 | `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 4.5KB | 28d | Tiêu chuẩn kỹ thuật — có thể stub hoặc đúng kích thước |
+| 2 | `van-ban/tai-chinh/nghi-dinh-202-2026-nd-cp-o-to-dien-le-phi-truoc-ba.md` | 5.2KB | 16d | 3 Điều — đúng kích thước cho văn bản 3 Điều (không phải stub) |
+| 3 | `van-ban/ngan-hang/nghi-dinh-198-2026-nd-cp-sua-doi-co-cau-nhnn.md` | 5.1KB | 16d | 3 Điều (sửa đổi NĐ 26/2025) — đúng kích thước |
+| 4 | `van-ban/thue-phi-le-phi/nghi-quyet-25-2026-nq-cp-thue-xang-dau.md` | 5.4KB | 20d | Cần kiểm tra — có thể summary thay vì full text |
+| 5 | `van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si.md` | 3.0KB | 24d | **CHỈ LÀ SUMMARY** — 0 Điều, cần crawl full text hoặc đánh dấu rõ |
+
+### 2. Review 5 văn bản "Hoàn thiện" (theo LEGISLATION_TRACKING.md entries có ghi "Đã có" / "Đã có FULL")
+
+Chọn 5 văn bản gần đây chưa được review chi tiết:
+
+| # | File | Số hiệu | Ngày | Kích thước | Điều | OCR issues | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 1 | `van-ban/lao-dong/nghi-dinh-199-2026-nd-cp-ho-tro-phuc-vu-lanh-dao-cong-an-quan-doi.md` | 199/2026/NĐ-CP | 05/06/2026 | 10KB / 166 dòng | 8 Điều | **0** | ✅ **OK** — metadata front matter đầy đủ (docid 218364, source vanban.chinhphu.vn, PDF CAdES-BES), 8 Điều (1-8) đầy đủ, không thiếu không trùng, nội dung rõ ràng (hỗ trợ phục vụ lãnh đạo Công an/Quân đội). Không cần sửa. |
+| 2 | `van-ban/lao-dong/thong-tu-13-2026-tt-bnv-huong-dan-luong-co-so.md` | 13/2026/TT-BNV | 29/05/2026 | 10KB / 132 dòng | — | **0** | ✅ **OK** — metadata đầy đủ (docid 218315, source vanban.chinhphu.vn, PDF datafiles.chinhphu.vn), nội dung hướng dẫn lương cơ sở đầy đủ, OCR issues = 0, layout document. Không cần sửa. |
+| 3 | `van-ban/ngan-hang/nghi-dinh-198-2026-nd-cp-sua-doi-co-cau-nhnn.md` | 198/2026/NĐ-CP | 03/06/2026 | 5.1KB / 106 dòng | 3 Điều | **0** | ⚠️ **Cần sửa nhẹ** — metadata table dùng **tiếng Việt không dấu** ("THONG TIN VAN BAN", "So hieu", "Ngay hieu luc", "Dang co hieu luc") — không đúng chuẩn (OCR_QUALITY_GATE quy định tiếng Việt đầy đủ). Có section "GHI CHU PHUONG PHAP" và "NGUON THAM KHAO" chứa ghi chú nội bộ crawler (nên xóa hoặc chuyển ra external note). Nội dung 3 Điều (sửa đổi Điều 3 NĐ 26/2025, thêm Vụ Tín dụng, hiệu lực 01/7/2026) — đúng và đầy đủ. **Cần sửa**: (a) đổi metadata table sang tiếng Việt có dấu, (b) xóa ghi chú phương pháp. |
+| 4 | `van-ban/tai-chinh/nghi-dinh-202-2026-nd-cp-o-to-dien-le-phi-truoc-ba.md` | 202/2026/NĐ-CP | 08/06/2026 | 5.2KB / 107 dòng | 3 Điều | **0** | ✅ **OK** — metadata front matter đầy đủ và đúng chuẩn, nội dung 3 Điều đầy đủ (sửa đổi NĐ 10/2022 về lệ phí trước bạ, ô tô điện 0% đến 2030), OCR issues = 0. File nhỏ vì chỉ có 3 Điều — kích thước phù hợp. Không cần sửa. |
+| 5 | `van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si.md` | 26/2026/NQ-CP | 06/05/2026 | 3.0KB / 66 dòng | **0 Điều** | **0** | ⚠️ **Cần crawl lại** — File chỉ là **summary/tóm tắt** (nội dung có "TÓM TẮT", "PHẠM VI ĐIỀU CHỈNH", "CƠ CHẾ ĐẶC THÙ", "QUY TRÌNH THỰC HIỆN") nhưng **không có Điều nào**. Không đủ chuẩn "full text" theo OCR_QUALITY_GATE. Cần crawl nội dung đầy đủ (có thể lấy từ luatvietnam.vn hoặc baochinhphu.vn) hoặc đánh dấu rõ là "summary only" trong front matter. |
+
+### 3. Review PR comments
+
+**Tổng quan PR đang mở**: 4 PR open trên `diepxuan/diepxuan.github.io`
+
+| PR # | Title | Ngày tạo | Tác giả | Comments |
+|---|---|---|---|---|
+| #218 | Heartbeat crawl-vanban 2026-06-28: review lần 22 + 12+ placeholder files | 28/06/2026 09:26 ICT | caothu159 (Sếp) | 1 comment (tự động) |
+| #217 | Heartbeat crawl-vanban 2026-06-27: + tracking xac minh 68-71/TT-BTC + 5 van ban moi | 27/06/2026 10:37 ICT | caothu159 (Sếp) | 0 comments |
+| #216 | Heartbeat crawl-vanban 2026-06-25: + 239, 205, 208, 218, 43/TT-BGDĐT (còn 5 ngày) | 24/06/2026 03:32 ICT | caothu159 (Sếp) | 0 comments |
+| #215 | Heartbeat: crawl van-ban 01/7/2026 (220 NĐ-CP, 70 TT-BCA pending) | 23/06/2026 07:27 ICT | caothu159 (Sếp) | 2 comments (1 tự động, 1 heartbeat) |
+
+#### Chi tiết comments theo PR:
+
+**PR #218** (28/06/2026 — 1 ngày tuổi):
+- `chatgpt-codex-connector[bot]` (2026-06-28 09:26 ICT): "You have reached your Codex usage limits for code reviews..." — Thông báo tự động từ Codex Connector khi hết quota. **Phân loại: Thông báo / Đã resolved tự động**
+  - Hành động: Không cần làm gì. Codex quota đã hết, bot tự báo.
+
+**PR #217** (27/06/2026 — 2 ngày tuổi):
+- Không có comment. **Phân loại: Không có action item**
+
+**PR #216** (24/06/2026 — 5 ngày tuổi):
+- Không có comment. **Phân loại: Không có action item**
+
+**PR #215** (23/06/2026 — 6 ngày tuổi):
+- `chatgpt-codex-connector[bot]` (2026-06-23 07:27 ICT): "You have reached your Codex usage limits..." — Tương tự #218. **Phân loại: Thông báo / Đã resolved tự động**
+- `caothu159` (2026-06-23 20:30 ICT): "Heartbeat 2026-06-23 20:29 ICT" — Heartbeat từ Sếp. **Phân loại: Thông báo**
+
+#### Tổng hợp comments cần xử lý:
+
+| Phân loại | Số lượng | Chi tiết |
+|---|---|---|
+| **Cần xử lý ngay** | **0** | — |
+| **Chờ Sếp review** | **0** | — |
+| **Thông báo** | **3** | Codex usage limits (2 PR), Heartbeat (1 PR) |
+| **Đã stale (>7 ngày)** | **0** | PR cũ nhất (#215) 6 ngày tuổi — chưa stale |
+
+**Kết luận PR comments**: Không có comment nào cần xử lý. Tất cả là thông báo tự động hoặc heartbeat. 4 PR đang chờ được review và merge. Đề xuất: merge PR #217, #216, #215 nếu đã OK sau review, hoặc Sếp tự review khi rảnh.
+
+### 4. Ghi nhận cập nhật tracking
+
+| Văn bản | Cập nhật | Chi tiết |
+|---|---|---|
+| 199/2026/NĐ-CP | **Xác nhận OK** | Review lần 23: metadata đầy đủ, 8 Điều đầy đủ, OCR issues = 0 |
+| 13/2026/TT-BNV | **Xác nhận OK** | Review lần 23: metadata đầy đủ, nội dung đầy đủ, OCR issues = 0 |
+| 198/2026/NĐ-CP | **Cần sửa** | Review lần 23: metadata table không dấu, có ghi chú nội bộ |
+| 202/2026/NĐ-CP | **Xác nhận OK** | Review lần 23: metadata đầy đủ, 3 Điều đầy đủ, OCR issues = 0 |
+| 26/2026/NQ-CP | **Cần crawl lại** | Review lần 23: chỉ có summary, 0 Điều — không đủ chuẩn full text |
+
+### Ghi chú xử lý
+
+- **Placeholder files "Đang cập nhật"**: 20+ files trong `quoc-phong/` và `to-tung/` cần được xóa hoặc crawl đầy đủ. Không nên giữ stub trên production.
+- **198/2026/NĐ-CP**: Sửa metadata table (thay "So hieu" → "Số hiệu", "Ngay hieu luc" → "Ngày hiệu lực", "Dang co hieu luc" → "Đang có hiệu lực") và xóa section ghi chú nội bộ. Priority thấp.
+- **26/2026/NQ-CP**: Cần crawl full text từ nguồn chính thức (luatvietnam.vn hoặc baochinhphu.vn) thay vì chỉ summary. Priority trung bình.
+- **PR comments**: Tất cả là thông báo tự động — không có action item.
+- **PR merge**: 4 PR đang mở. Đề xuất Sếp review và merge nếu OK.
+
+### Ghi chú nội bộ
+
+- **Nhóm quốc phòng**: 7 files placeholder trong `van-ban/quoc-phong/` (Biên phòng, Cảnh sát biển, Dân quân tự vệ, Sĩ quan Quân đội, Quân nhân chuyên nghiệp, Lực lượng dự bị, GDQP&AN). Các luật nền tảng này có thể refer đến các văn bản cụ thể cần crawl — nhưng pattern "Đang cập nhật" cho thấy agent trước đó chưa crawl được nội dung. Có thể các văn bản này rất dài (Luật) hoặc cần nhiều source khác nhau.
+- **Nhóm tố tụng**: 10+ files placeholder trong `van-ban/to-tung/`. Tương tự — cần content crawl riêng.
+- **PR #218 + 3 files mới**: PR heartbeat ngày 28/6/2026 có 3 files mới (239, 228, 32). Kiểm tra nhanh: 228/2026/NĐ-CP đã có trong `van-ban/tu-phap-thi-hanh-an/`. 2 files còn lại (239, 32) chưa xác minh trong workspace — có thể mới chưa commit hoặc đang ở commit khác.
+
+- Nguồn: scan van-ban/ + OCR quality gate Python script + gh api comments.
+- Ngày review: 2026-06-29 22:08 ICT
+- Phiên thực hiện: agent:github-io:subagent:f634334e-ca13-4fc8-9e9e-cff5b0c33fab (Đệ #4 — lần 23)
