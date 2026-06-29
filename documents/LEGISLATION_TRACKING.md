@@ -1,3 +1,56 @@
+## Cập nhật 2026-06-29 (phiên Đệ #1 Discovery — lần 18)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218591–218620 + xác minh 237/2026 (218590), 229/2026 (218589), 1131/QĐ-TTg (218592). Kết quả: **3 văn bản mới** phát hiện trong dải 218591–218593 (bước nhảy từ dải 218574–218590 của 27/6). Dải 218594–218620 hoàn toàn trống (không có văn bản mới — có thể ngày 29/6 chỉ có 3 văn bản hoặc còn ở dải cao hơn chưa index). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-28 lần 16): 3 văn bản mới. Giới hạn 5/lần — ghi nhận đủ 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 239/2026/NĐ-CP | 26/06/2026 | Sửa đổi, bổ sung NĐ 81/2018/NĐ-CP (chi tiết Luật Thương mại về hoạt động xúc tiến thương mại, đã được sửa bởi NĐ 128/2024/NĐ-CP) — quy định rõ hàng hóa/dịch vụ được phép và không được phép khuyến mại (không bao gồm rượu, xổ số, thuốc lá, sữa thay thế sữa mẹ, thuốc kê đơn, dịch vụ khám chữa bệnh công lập, dịch vụ giáo dục công lập); làm rõ xác định trúng thưởng trong chương trình khuyến mại mang tính may rủi (có sự chứng kiến trực tiếp hoặc trực tuyến của khách hàng); hiệu lực **26/6/2026** (cùng ngày ký) | Thương mại / Tiếp thị | 218591 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218591`; nguồn: vanban.chinhphu.vn (docid xác minh), vietnamplus.vn, bnews.vn, vietnam.vn; ngày ban hành: 26/6/2026 (thứ Sáu — cùng đợt 27/6 với 237/2026, 229/2026, 1131/QĐ-TTg, 1155/QĐ-TTg); tác động doanh nghiệp bán lẻ, nhà phân phối, nền tảng thương mại điện tử, cơ quan quản lý thị trường |
+| 1131/QĐ-TTg | 26/06/2026 | Phê duyệt danh sách thành viên **Đoàn đàm phán Chính phủ về kinh tế và thương mại quốc tế** — cập nhật nhân sự Đoàn đàm phán (cơ chế FTA, WTO, đàm phán song phương); hiệu lực **26/6/2026** (cùng ngày ký) | Ngoại giao / Thương mại | 218592 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218592`; nguồn: vanban.chinhphu.vn (docid xác minh 26/6/2026); nhóm chủ đề: Ngoại giao - Thương mại quốc tế; tác động cơ quan đàm phán kinh tế - thương mại quốc tế (WTO, FTA) |
+| 1155/QĐ-TTg | 26/06/2026 | Thành lập **Hội đồng thẩm định nhà nước thẩm định Báo cáo nghiên cứu tiền khả thi điều chỉnh Dự án đầu tư xây dựng tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng** — phê duyệt thành phần Hội đồng thẩm định cho dự án đường sắt Lào Cai - Hà Nội - Hải Phòng (điều chỉnh); hiệu lực **26/6/2026** (cùng ngày ký) | Giao thông / Đầu tư | 218593 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218593`; nguồn: vanban.chinhphu.vn (docid xác minh 26/6/2026); nhóm: Giao thông vận tải - Đầu tư công; tác động Bộ Giao thông Vận tải, chủ đầu tư dự án đường sắt Lào Cai - Hà Nội - Hải Phòng |
+
+### Các văn bản phụ trong dải 218591–218620 (ngoài giới hạn 5, không tính vào giới hạn)
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 237/2026/NĐ-CP | 27/06/2026 | Quy định chi tiết thi hành một số điều của **Luật Báo chí** — chi tiết hóa các điều khoản về quyền tự do báo chí, điều kiện hoạt động, quản lý báo chí; hiệu lực **27/6/2026** (cùng ngày ký) | Báo chí / Tư pháp | 218590 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218590`; nguồn: vanban.chinhphu.vn (docid xác minh 27/6/2026); ghi nhận từ lần 16 — ưu tiên crawl ở phiên tiếp theo (cùng đợt 27/6 với 231, 230, 228); tác động cơ quan báo chí, nhà báo, cơ quan quản lý báo chí |
+| 229/2026/NĐ-CP | 27/06/2026 | Quy định về **tổ chức và hoạt động của Quỹ Phát triển khoa học và công nghệ Quốc gia** — cơ chế tổ chức, quản lý, chi tiêu, giám sát Quỹ PH&T&CN Quốc gia; hiệu lực **27/6/2026** (cùng ngày ký) | KHCN / Tài chính | 218589 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218589`; nguồn: vanban.chinhphu.vn (docid xác minh 27/6/2026); ghi nhận từ lần 16 — ưu tiên crawl ở phiên tiếp theo (cùng đợt 27/6); tác động quỹ đầu tư KHCN quốc gia, cơ quan quản lý KHCN |
+| 332/TB-VPCP | 27/06/2026 | Kết luận của Phó Thủ tướng Thường trực Phạm Gia Túc tại cuộc họp về kiến nghị của Bộ Xây dựng giao cho UBND TP Hà Nội làm cơ quan chủ quản một số dự án **đường sắt quốc gia khu vực Hà Nội** — phân công chủ quản dự án đường sắt khu vực Hà Nội | Giao thông / Đầu tư | 218588 | Không cần crawl | Thông báo kết luận — không phải văn bản pháp luật chính thức theo nghĩa QHPL; bỏ qua
+
+### Xác minh dải docid 218594–218620 (ngày 29/6/2026)
+
+**Kết quả: DẢI TRỐNG HOÀN TOÀN** — 27 docid (218594–218620) đều trả "Chi tiết văn bản ban hành" (không có nội dung). Không tìm thấy văn bản mới ngày 29/6/2026 trong dải này. Có thể ngày 29/6 (thứ Hai đầu tuần) chưa có văn bản được ban hành, hoặc văn bản nằm ở dải cao hơn (218620+). Tiếp tục theo dõi.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-28 lần 16)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 239/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 1131/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 1155/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thương mại / Tiếp thị** (rất cao — hiệu lực 26/6/2026 rồi): **239/2026/NĐ-CP** — sửa đổi quy định xúc tiến thương mại, làm rõ hàng hóa không được khuyến mại, xác định trúng thưởng có chứng kiến; tác động toàn ngành bán lẻ, thương mại điện tử. Ưu tiên số 1. Cần crawl chi tiết ngay vì hiệu lực rồi.
+2. **Tư pháp / Báo chí** (rất cao — hiệu lực 27/6/2026 rồi): **237/2026/NĐ-CP** — chi tiết Luật Báo chí; tác động cơ quan báo chí, nhà báo toàn quốc. Ưu tiên số 2.
+3. **KHCN / Tài chính** (rất cao — hiệu lực 27/6/2026 rồi): **229/2026/NĐ-CP** — tổ chức và hoạt động Quỹ Phát triển KH&CN Quốc gia; tác động quỹ KHCN quốc gia. Ưu tiên số 3.
+4. **Giao thông / Đầu tư** (trung bình): **1155/QĐ-TTg** — Hội đồng thẩm định đường sắt Lào Cai - Hà Nội - Hải Phòng; tác động Bộ GTVT, chủ đầu tư dự án.
+5. **Ngoại giao / Thương mại** (thấp): **1131/QĐ-TTg** — phê duyệt thành viên Đoàn đàm phán kinh tế - thương mại quốc tế; tác động cơ quan đàm phán.
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** được thêm vào tracking lần 18 — tất cả đều ban hành ngày **26/6/2026** (thứ Sáu), hiệu lực cùng ngày. Thực chất đây là đợt ban hành cuối tuần 27–28/6 (thứ Bảy/Chủ Nhật) — phần văn bản của đợt này nằm trong dải 218589–218593.
+- **32/2026/NQ-CP** (docid 218584): Đang được Đệ #3 crawl — đánh dấu đã có subagent xử lý riêng, không cần ghi nhận thêm trong tracking entry này.
+- **1131/QĐ-TTg** (docid 218592): Xác minh lần đầu tiên với ngày 26/6/2026 — trước đó lần 16 chỉ ghi nhận ngoài giới hạn mà chưa biết ngày chính xác.
+- **1155/QĐ-TTg** (docid 218593): Phát hiện mới hoàn toàn — Báo cáo nghiên cứu tiền khả thi điều chỉnh dự án đường sắt Lào Cai - Hà Nội - Hải Phòng. Đường sắt quốc gia đang được đẩy mạnh, đây là dự án trọng điểm.
+- **Dải 218594–218620 trống**: Không có văn bản ngày 29/6/2026 trong dải này. Cần tiếp tục theo dõi dải cao hơn hoặc tuần sau.
+- **Nguồn**: vanban.chinhphu.vn (quét docid 218591–218620), web_search Brave/Gemini xác minh 239/2026/NĐ-CP.
+- **Ngày phát hiện**: 2026-06-29 14:06 ICT
+- **Phiên thực hiện**: agent:github-io:subagent:efe01d8c-a5e5-4e9d-947f-9bbe283fc549 (Đệ #1 Discovery — lần 18)
+
+---
+
 ## Cập nhật 2026-06-28 (phiên Đệ #1 Discovery — lần 16)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
