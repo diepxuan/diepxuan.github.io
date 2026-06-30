@@ -1,4 +1,80 @@
-## Cập nhật 2026-06-30 (phiên Đệ #1 Discovery — lần 21)
+## Cập nhật 2026-06-30 (phiên Đệ #1 Discovery — lần 23)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218551–218563 (sau 218537 = 218/2026) + web_search xác minh ngày ban hành/hiệu lực từ luatvietnam.vn, baochinhphu.vn, chinhphu.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-30 lần 22): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 221/2026/NĐ-CP | 22/06/2026 | Sửa đổi, bổ sung quy định về **Nhà chức trách hàng không Việt Nam và quản lý an toàn hàng không** — thành lập Trung tâm Dữ liệu An toàn Hàng không quốc gia; cập nhật cơ chế quản lý; thay thế quy định cũ về nhà chức trách hàng không; hiệu lực **01/7/2026** | Hàng không / Giao thông | 218552 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218552`; nguồn: vanban.chinhphu.vn (docid xác minh), baochinhphu.vn, luatvietnam.vn (slug 438486); ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 1 ngày); tác động Cục Hàng không, nhà chức trách hàng không, hãng hàng không, sân bay; **ƯU TIÊN CAO** — hiệu lực ngày mai |
+| 222/2026/NĐ-CP | 22/06/2026 | Quy định chi tiết về **hoạt động bay** — nguyên tắc tổ chức hoạt động bay tại sân bay, quy chế và phương thức bay tại sân bay dùng chung; làm rõ thẩm quyền cấp, sửa đổi và hủy bỏ phép bay; **bổ sung Bộ Công an** vào nhóm cơ quan có thẩm quyền cấp, sửa đổi, hủy bỏ phép bay đối với chuyến bay phục vụ công vụ, an ninh, trật tự; hiệu lực **01/7/2026** | Hàng không / Quốc phòng | 218557 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218557`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn, baochinhphu.vn, nld.com.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 1 ngày); tác động Cục Hàng không, Bộ Công an, Bộ Quốc phòng, hãng hàng không; điểm mới: Bộ Công an lần đầu được giao thẩm quyền cấp phép bay; **ƯU TIÊN CAO** |
+| 220/2026/NĐ-CP | 22/06/2026 | Sửa đổi, bổ sung NĐ 67/2023/NĐ-CP về **bảo hiểm bắt buộc** — sửa đổi quy định bảo hiểm bắt buộc trách nhiệm dân sự chủ xe cơ giới, bảo hiểm cháy nổ bắt buộc, bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng; tăng cường trách nhiệm, siết quản lý rủi ro; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm / Xây dựng | 218555 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218555`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn (slug 438421), mof.gov.vn, bhpti.com; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026 (còn 1 ngày); tác động doanh nghiệp bảo hiểm, chủ xe cơ giới, chủ đầu tư xây dựng, người dân; **ƯU TIÊN CAO** |
+| 31/2026/NQ-CP | 24/06/2026 | Quy định các **cơ chế, chính sách đặc thù** nhằm đẩy nhanh xử lý, khai thác **nhà, đất dôi dư** sau sắp xếp, tinh gọn bộ máy hệ thống chính trị — phân cấp mạnh cho địa phương (Chủ tịch UBND cấp tỉnh quyết định); đơn giản hóa thủ tục (đơn giá thuê theo công thức thống nhất, không cần thẩm định giá); cho phép xử lý ngay khi chưa có Giấy chứng nhận; cho phép chuyển đổi công năng (trụ sở bỏ trống → vườn hoa, sân chơi, sinh hoạt cộng đồng); cho thuê không cần đấu giá/đấu thầu; cho phép cải tạo, sửa chữa nhà thuê; hiệu lực **24/6/2026** (cùng ngày), cơ chế đặc thù áp dụng trong 5 năm | Hành chính / Đất đai / Cải cách | 218561 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218561`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn, baochinhphu.vn, dantri.com.vn, hanoi.gov.vn; ngày ban hành: 24/6/2026; hiệu lực: 24/6/2026 (đã hiệu lực); tác động toàn bộ địa phương có nhà đất dôi dư sau sắp xếp bộ máy, UBND cấp tỉnh/huyện/xã; đây là cơ chế đặc thù rất quan trọng hỗ trợ quá trình tinh gọn bộ máy; **ƯU TIÊN CAO** — đã hiệu lực |
+| 162/NQ-CP | 23/06/2026 | Nghị quyết của Chính phủ về **Dự án luật sửa đổi, bổ sung một số điều của Luật Đo lường** — thống nhất nội dung dự án Luật do Bộ KH&CN trình; 3 trục cải cách: (1) chuyển đổi số hoạt động đo lường, (2) nâng cao năng lực hệ thống đo lường quốc gia, (3) cải cách thủ tục hành chính; giao Bộ KH&CN hoàn thiện hồ sơ trình QH tại Kỳ họp thứ hai, QH khóa XVI; hiệu lực **23/6/2026** (cùng ngày) | Khoa học / Tiêu chuẩn | 218551 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218551`; nguồn: vanban.chinhphu.vn (docid xác minh), tapchivietduc.vn, baochinhphu.vn, tcvn.gov.vn; ngày ban hành: 23/6/2026; hiệu lực: 23/6/2026 (đã hiệu lực); tác động Bộ KH&CN, doanh nghiệp đo lường, cơ quan tiêu chuẩn; dự kiến trình QH khóa XVI kỳ 2 |
+
+### Các văn bản phụ trong dải 218551–218563 (ngoài giới hạn 5, ghi nhận bổ sung)
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| 1116/QĐ-TTg | ~22-23/06/2026 | Sửa đổi, bổ sung QĐ 1579/QĐ-TTg phê duyệt Chương trình **Chăm sóc sức khỏe người cao tuổi đến năm 2030** | Y tế / Xã hội | 218553 | **Chưa có** | Cần xác minh ngày chính xác; ưu tiên thấp |
+| 1125/QĐ-TTg | ~22-23/06/2026 | Phê duyệt Đề án "**Tuyên truyền phòng ngừa, ứng phó với các đe dọa an ninh phi truyền thống** đến năm 2030, tầm nhìn 2045" | An ninh / Quốc phòng | 218554 | **Chưa có** | Cần xác minh ngày chính xác; ưu tiên thấp |
+| 1119/QĐ-TTg | ~22-23/06/2026 | Sửa đổi QĐ 368/QĐ-TTg về **Chiến lược tài chính đến năm 2030** | Tài chính | 218558 | **Chưa có** | Cần xác minh ngày chính xác; ưu tiên thấp |
+| 1128/QĐ-TTg | ~22-23/06/2026 | Phê duyệt **Chương trình tổng thể phát triển kinh tế tập thể giai đoạn 2026–2030** | Kinh tế / Hợp tác xã | 218559 | **Chưa có** | Cần xác minh ngày chính xác; ưu tiên thấp |
+| 1129/QĐ-TTg | ~22-23/06/2026 | Phê duyệt **phương án chấm điểm KPI** các bộ, cơ quan trung ương và địa phương về giải ngân vốn đầu tư công | Hành chính / Đầu tư | 218562 | **Chưa có** | Cần xác minh ngày chính xác; ưu tiên thấp |
+| 15/2026/TT-BVHTTDL | ~22-06-2026 | Quy định định mức kinh tế-kỹ thuật **dịch vụ xúc tiến, quảng bá du lịch** trong/ngoài nước; phát triển thương hiệu du lịch quốc gia và địa phương | Du lịch / VH-TT | 218563 | **Chưa có** | Cần xác minh ngày chính xác; ưu tiên thấp |
+
+### Quét dải docid tiếp theo — ưu tiên phiên kế tiếp
+
+- Dải 218551–218563 đã quét: phát hiện **5 NĐ/NQ** (221, 222, 220, 31, 162) + **7 QĐ/TT phụ** (1116, 1125, 1119, 1128, 1129, 59/QĐ-BCĐ, 15/TT-BVHTTDL)
+- Dải 218564–218574 cần quét ở phiên kế tiếp (ước tính còn văn bản cùng đợt 22-24/6/2026)
+- Dải 219000+ đã xác nhận trống từ phiên trước
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-30 lần 22)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 221/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 222/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 220/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 31/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 162/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hàng không** (rất cao — hiệu lực 01/7/2026 trong 1 ngày): **221/2026/NĐ-CP + 222/2026/NĐ-CP** — Trung tâm Dữ liệu An toàn Hàng không quốc gia, Bộ Công an được giao thẩm quyền cấp phép bay; tác động ngành hàng không, Bộ Công an, Bộ Quốc phòng. Ưu tiên số 1.
+2. **Hành chính / Đất đai** (rất cao — đã hiệu lực 24/6/2026): **31/2026/NQ-CP** — cơ chế đặc thù xử lý nhà đất dôi dư sau tinh gọn bộ máy; phân cấp mạnh cho địa phương; tác động toàn bộ địa phương. Ưu tiên số 2.
+3. **Tài chính / Bảo hiểm** (rất cao — hiệu lực 01/7/2026): **220/2026/NĐ-CP** — sửa đổi 3 loại bảo hiểm bắt buộc (xe cơ giới, cháy nổ, xây dựng); tác động doanh nghiệp bảo hiểm, người dân. Ưu tiên số 3.
+4. **Khoa học / Tiêu chuẩn** (trung bình — đã hiệu lực 23/6/2026): **162/NQ-CP** — Dự án luật sửa đổi Luật Đo lường; dự kiến trình QH khóa XVI kỳ 2. Ưu tiên số 4.
+5. **Hàng không / Quốc phòng** (rất cao — hiệu lực 01/7/2026): **222/2026/NĐ-CP** — điểm mới nhấn: Bộ Công an lần đầu được giao thẩm quyền cấp phép bay. Ưu tiên số 5.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 23: 221, 222, 220, 31/NQ-CP, 162/NQ-CP — tất cả ban hành 22-24/6/2026, hiệu lực từ 23/6 đến 01/7/2026.
+- **Đợt ban hành 22/6/2026** phát hiện lần đầu: 221, 222, 220 NĐ-CP cùng ngày — đây là đợt lớn về hàng không và bảo hiểm. Tất cả hiệu lực 01/7/2026 (cùng đợt với nhóm Luật Báo chí và Xây dựng đã phát hiện lần 19-20).
+- **31/2026/NQ-CP** (docid 218561): Đây là Nghị quyết rất quan trọng hỗ trợ quá trình tinh gọn bộ máy nhà nước — giải quyết vấn đề nhà đất dôi dư sau sắp xếp. Đã hiệu lực 24/6/2026. Ưu tiên crawl chi tiết.
+- **162/NQ-CP** (docid 218551): Nghị quyết về dự án luật — không phải văn bản thi hành, nhưng đáng theo dõi vì liên quan tiêu chuẩn đo lường.
+- **Dải 218551–218563**: Tìm thấy 5 NĐ/NQ + 7 QĐ/TT phụ — dải này chứa nhiều văn bản cùng đợt 22-24/6. Cần tiếp tục quét 218564–218574 ở phiên kế tiếp để không bỏ sót.
+- **1128/QĐ-TTg** (docid 218559): Phát triển kinh tế tập thể 2026-2030 — cần xác minh ngày và nội dung chi tiết, có thể ưu tiên cao vì là chương trình vĩ mô.
+- Nguồn: vanban.chinhphu.vn (quét docid 218551–218563), web_search Brave/Gemini từ baochinhphu.vn, luatvietnam.vn, chinhphu.vn, dantri.com.vn, tapchivietduc.vn.
+- Ngày phát hiện: 2026-06-30 07:39 ICT
+- Phiên thực hiện: agent:github-io:subagent:d3800b18-ac49-46e0-b821-820e97f00ee3 (Đệ #1 Discovery — lần 23)
+
+---
+
+## Cập nhật 2026-06-30 (phiên Đệ #1 Discovery — lần 22)
+
+### Xác minh docid: 218/2026/NĐ-CP = 218537
+
+Quét dải rộng để tìm docid cho 218/2026/NĐ-CP (vận tải, ngày 19/6/2026), 236/2026/NĐ-CP (ATGT, ngày 29/6), 245/2026/NĐ-CP (gia hạn thuế, ngày 27/6), 23/2026/TT-BYT (Trạm Y tế, ngày 29/6). Đồng thời quét ngày 30/6/2026.
+
+**Kết quả xác minh docid:**
+
+| Số hiệu | Docid cũ | Docid mới | Trạng thái | Chi tiết |
+|---|:---:|:---:|---|---|
+| 218/2026/NĐ-CP | chua-xac-minh | **218537** | **Xác minh mới** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218537` — vận tải đường bộ, xe hợp đồng, hiệu lực 10/8/2026 |
+| 236/2026/NĐ-CP | chua-xac-minh | chua-xac-minh | Chưa xác minh | Dải 218607-218750 trống hoàn toàn. Văn bản có thể chưa được index trên vanban.chinhphu.vn |
+| 245/2026/NĐ-CP | chua-xac-minh | chua-xac-minh | Chưa xác minh | Dải 218460-218606 và 218607-218750 đều không tìm thấy. Có thể nằm ở dải 218551-218561 (cần quét chi tiết từng docid) |
+| 23/2026/TT-BYT | chua-xac-minh | chua-xac-minh | Chưa xác minh | Dải 218607-218750 trống hoàn toàn. Có thể chưa được index |
 
 ### Quét ngày 30/6/2026 — Kết quả: KHÔNG CÓ văn bản mới
 
@@ -8,6 +84,39 @@ Quét vanban.chinhphu.vn dải docid rộng:
 
 Kiểm tra đồng thời:
 - **vanban.chinhphu.vn** search theo ngày 30/06/2026 → trả về trang "Hệ thống văn bản" trống
+- **luatvietnam.vn** van-ban-moi.html → mục "Văn bản mới" mới nhất chỉ đến **29/06/2026**, không có entry nào ngày 30/6
+
+**Kết luận: Ngày 30/6/2026 (thứ Ba, ngày cuối quý II/2026) không có văn bản pháp luật nào được ban hành hoặc công bố trên vanban.chinhphu.vn.** Có thể Chính phủ tạm dừng công bố ngày cuối quý, hoặc văn bản chưa được index.
+
+**Không có văn bản mới để thêm vào tracking lần này.**
+
+Các văn bản mới nhất phát hiện vẫn thuộc ngày **29/6/2026** (đã ghi nhận từ lần 19–20): 236/2026/NĐ-CP, 23/2026/TT-BYT, 218/2026/NĐ-CP (docid 218537), 242/2026/NĐ-CP (218606), 244/2026/NĐ-CP (218603), 245/2026/NĐ-CP (chưa xác minh docid).
+
+### Phát hiện phụ: Nhiều văn bản chưa từng ghi nhận trong dải 218460-218606
+
+Quét dải 218460-218606 phát hiện nhiều văn bản mới chưa được tracking:
+
+- **218460-218469**: VBHN-NHNN (hướng dẫn thủ tục NHNN: pháp chế TCTD, niêm yết nước ngoài, góp vốn/MCPT, thu hồi giấy phép) — cần kiểm tra xem đã trong tracking chưa
+- **218471**: QĐ 1082/QĐ-TTg — Hội đồng thẩm định đường Vành đai 5
+- **218472-218473**: TT-BKHCN (trang phục kiểm soát viên chất lượng, quy hoạch viễn thông)
+- **218476**: TT 11/2026/TT-VKSTC — mức khoán chi thông tư
+- **218477**: TT 20/2026/TT-BYT — sửa đổi TT 17/2014 (cấp phép trạm sơ cấp cứu)
+- **218478**: TT 24/2026/TT-BNNMT — tái chế sản phẩm, bao bì (Luật BVMT)
+- **218479**: TT 65/2026/TT-BTC — bồi dưỡng tiếp công dân (đã ghi nhận lần 15, docid đúng)
+- **218480-218488**: QĐ-TTg, NQ-UBTVQH, TTg đường sắt Lào Cai - Hà Nội - Hải Phòng, doanh nghiệp CNTT chiến lược, BHXH
+- **218489**: NĐ 212/2026/NĐ-CP — điều kiện năng lực XD, Hệ thống thông tin (docid đúng — đã có trong tracking)
+- **218490-218506**: VBHN-BXD, NĐ 214/2026, NĐ 215/2026, NQ-CP văn hóa, QĐ-TTg kiêm nhiệm, NQ-CP lấn biển APEC
+- **218507-218549**: Tiếp tục dải văn bản cần kiểm tra
+
+**Lưu ý đặc biệt**: Dải 218607-218750 hoàn toàn trống — 236/2026/NĐ-CP và 23/2026/TT-BYT không nằm ở dải này. Có thể nằm ở dải cao hơn 218750 hoặc chưa được đăng tải.
+
+- Nguồn: vanban.chinhphu.vn (quét docid 218460-218750 step nhỏ, xác minh 218537), luatvietnam.vn (slug 438376 cho 218/2026), web_search Brave/Gemini (xác nhận 236, 245, 218, 23/TT-BYT)
+- Ngày quét: 2026-06-30 06:32 ICT
+- Phiên thực hiện: agent:github-io:subagent:6188256a-c70b-4efa-9f05-8b2503ffbaf6 (�ệ #1 Discovery — lần 22)
+
+---
+
+## Cập nhật 2026-06-30 (phiên Đệ #1 Discovery — lần 21)
 - **luatvietnam.vn** van-ban-moi.html → mục "Văn bản mới" mới nhất chỉ đến **29/06/2026**, không có entry nào ngày 30/6
 
 **Kết luận: Ngày 30/6/2026 (thứ Ba, ngày cuối quý II/2026) không có văn bản pháp luật nào được ban hành hoặc công bố trên vanban.chinhphu.vn.** Có thể Chính phủ tạm dừng công bố ngày cuối quý, hoặc văn bản chưa được index.
@@ -31,7 +140,7 @@ Quét vanban.chinhphu.vn dải docid 218751–219050 + web_search xác minh từ
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 242/2026/NĐ-CP | 26/06/2026 | Quy định chi tiết và biện pháp thi hành Luật Báo chí về **quản lý hoạt động phát thanh, truyền hình và dịch vụ phát thanh, truyền hình** — quy định cụ thể về cấp phép biên tập kênh chương trình nước ngoài trên dịch vụ truyền hình trả tiền tại Việt Nam; điều kiện cấp Giấy phép biên tập (cơ quan báo chí có giấy phép, nhân sự đạt ngoại ngữ Bậc 4, hệ thống kỹ thuật biên tập tại VN, bản quyền); quy định biên dịch kênh nước ngoài phải đảm bảo tôn trọng sự trong sáng của tiếng Việt; Giấy phép sản xuất kênh phát thanh/truyền hình trong nước; thay thế quy định cũ; hiệu lực **01/7/2026** | Báo chí / Truyền hình | 218606 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218606`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp), chinhphu.vn, baochinhphu.vn, vietnamplus.vn, luatvietnam.vn (slug 439007); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động Đài THVN, Đài TNNN, các đài địa phương, doanh nghiệp truyền hình trả tiền, nhà cung cấp kênh nước ngoài |
-| 218/2026/NĐ-CP | 29/06/2026 | Sửa đổi, bổ sung NĐ 158/2024/NĐ-CP về **hoạt động vận tải đường bộ** — đưa ra các quy định mới đối với xe hợp đồng nhằm tăng cường quản lý, minh bạch dữ liệu và siết chặt điều kiện hoạt động; từ ngày **01/01/2028**, các đơn vị kinh doanh vận tải hành khách theo hợp đồng phải kết nối và chia sẻ dữ liệu về nội dung hợp đồng vận tải hành khách cho Bộ Công an trước khi thực hiện chuyến đi; hiệu lực **01/7/2026** | Giao thông / Vận tải | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn`; nguồn: web_search xác minh (laodong.vn, congluan.vn, baoxaydung.vn); ngày ban hành: 29/6/2026 (cùng đợt với 236/2026/NĐ-CP); hiệu lực: 01/7/2026; tác động toàn bộ doanh nghiệp vận tải hành khách theo hợp đồng, Bộ Công an, Sở GTVT; cần xác minh docid; LƯU Ý: tracking cũ ghi 245/2026/NĐ-CP (gia hạn thuế) và 236/2026/NĐ-CP (ATGT) — đây là 218/2026/NĐ-CP (vận tải), văn bản riêng biệt |
+| 218/2026/NĐ-CP | 29/06/2026 | Sửa đổi, bổ sung NĐ 158/2024/NĐ-CP về **hoạt động vận tải đường bộ** — đưa ra các quy định mới đối với xe hợp đồng nhằm tăng cường quản lý, minh bạch dữ liệu và siết chặt điều kiện hoạt động; từ ngày **01/01/2028**, các đơn vị kinh doanh vận tải hành khách theo hợp đồng phải kết nối và chia sẻ dữ liệu về nội dung hợp đồng vận tải hành khách cho Bộ Công an trước khi thực hiện chuyến đi; hiệu lực **10/8/2026** | Giao thông / Vận tải | 218537 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218537`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp), luatvietnam.vn (slug 438376); ngày ban hành: 29/6/2026 (thực chất ngày 19/6/2026 theo luatvietnam, web_search xác nhận ngày ký 19/6/2026); hiệu lực: 10/8/2026; tác động toàn bộ doanh nghiệp vận tải hành khách theo hợp đồng, Bộ Công an, Sở GTVT; LƯU Ý: tracking cũ ghi ngày ban hành 29/6 — thực chất ngày ký 19/6, ngày 29/6 có thể là ngày công bố |
 
 ### Xác minh dải docid 218751–219050 (ngày 30/6/2026)
 
@@ -43,7 +152,7 @@ Quét vanban.chinhphu.vn dải docid 218751–219050 + web_search xác minh từ
 |---|:---:|:---:|---|---|
 | 237/2026/NĐ-CP | chua-xac-minh | **218590** (xác nhận lại) | Xác minh (confirm) | Chi tiết Luật Báo chí — AI trong báo chí; hiệu lực 27/6/2026 |
 | 242/2026/NĐ-CP | chua-xac-minh | **218606** | **Xác minh mới** | URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218606` — quản lý phát thanh, truyền hình |
-| 218/2026/NĐ-CP | chua-xac-minh | chua-xac-minh | Chưa xác minh | Vận tải đường bộ, xe hợp đồng; cần quét dải rộng hơn |
+| 218/2026/NĐ-CP | chua-xac-minh | **218537** | **Xác minh mới** | Vận tải đường bộ, xe hợp đồng; URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218537`; hiệu lực 10/8/2026 |
 | 236/2026/NĐ-CP | chua-xac-minh | chua-xac-minh | Chưa xác minh | ATGT đường bộ; ban hành 29/6/2026 — có thể nằm ở dải cao hơn |
 | 245/2026/NĐ-CP | chua-xac-minh | chua-xac-minh | Chưa xác minh | Gia hạn thuế; ban hành 27/6/2026 — có thể nằm ở dải 218600+ |
 | 23/2026/TT-BYT | chua-xac-minh | chua-xac-minh | Chưa xác minh | Thiết kế Trạm Y tế; ban hành 29/6/2026 |
