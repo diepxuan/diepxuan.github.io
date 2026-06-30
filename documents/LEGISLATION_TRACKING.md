@@ -71,7 +71,62 @@ Quét vanban.chinhphu.vn dải docid 218564–218574 (tiếp nối lần 23: 218
 
 ---
 
-## Cập nhật 2026-06-30 (phiên Đệ #1 Discovery — lần 22)
+## Cập nhật 2026-06-30 (phiên Đệ #1 Discovery — lần 25)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét web_search xác minh ngày 29-30/6/2026 + kiểm tra vanban.chinhphu.vn dải docid 218564–219200 (tiếp nối lần 24: đã quét đến 218574, dải 219050–219200 trống hoàn toàn). Kết hợp web_search các chính sách hiệu lực 30/6/2026 từ luatvietnam.vn, baochinhphu.vn, bnews.vn, conglalanh.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-30 lần 24): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 224/2026/NĐ-CP | 24/06/2026 | Quy định chi tiết một số điều và biện pháp thi hành **Luật Chuyển đổi số** — 9 chương, 92 điều: chiến lược chuyển đổi số, cung cấp **dịch vụ công trực tuyến toàn trình** (bắt buộc từ 01/7/2026), nguyên tắc kiến trúc hệ thống số, đầu tư mua sắm công nghệ, phát triển kinh tế số/xã hội số; nguyên tắc **tổ chức, cá nhân chỉ cung cấp thông tin một lần** khi làm dịch vụ công trực tuyến; dịch vụ công trực tuyến theo mô hình tập trung trên Cổng DVCQG + Ứng dụng định danh quốc gia; hiệu lực **01/7/2026** | Chuyển đổi số / Hành chính | chua-xac-minh | **Chưa có** | URL: `https://baochinhphu.vn/quy-dinh-moi-ve-viec-cung-cap-dich-vu-cong-truc-tuyen-102260629173320638.htm`; nguồn: baochinhphu.vn, bnews.vn, vov.vn, suckhoedoisong.vn, congly.vn, vtv.vn; ngày ban hành: 24/6/2026; hiệu lực: 01/7/2026 (còn 1 ngày); tác động toàn bộ Bộ, ngành, địa phương, người dân và doanh nghiệp; **ƯU TIÊN RẤT CAO** — đợt 01/7/2026, tác động toàn xã hội |
+| 40/2026/TT-BGDĐT | 15/05/2026 | **Quy định về công tác sinh viên** — quy định mới về đánh giá kết quả rèn luyện sinh viên (thang điểm 100, 5 loại: xuất sắc 90-100, tốt 80-89, khá 70-79, trung bình 50-69, yếu <50); sinh viên bị kỷ luật khiển trách → không vượt khá; cảnh cáo trở lên → không vượt trung bình; kết quả dùng xét học bổng, khen thưởng; thay thế quy định cũ; hiệu lực **30/6/2026** | Giáo dục | 218142 | **Chưa có** (file có) | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218142`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn (slug 434663), hue.gov.vn, tdtu.edu.vn, hcm.edu.vn; ngày ban hành: 15/5/2026; hiệu lực: 30/6/2026 (đã hiệu lực — đã có file); cập nhật docid 218142; **ƯU TIÊN CAO** — hiệu lực hôm nay, ảnh hưởng sinh viên toàn quốc |
+| 09/2026/TT-BNV | 15/05/2026 | **Sửa đổi, bổ sung Thông tư 21/2021/TT-BLĐTBXH** về mức trần giá dịch vụ môi giới khi đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng — làm rõ hợp đồng môi giới, thiết lập mức trần phí môi giới nhằm tăng tính minh bạch, bảo vệ quyền lợi người lao động; hiệu lực **30/6/2026** | Lao động / Ngoại giao | chua-xac-minh | **Chưa có** (file có) | File: `van-ban/noi-vu-hanh-chinh/thong-tu-09-2026-tt-bnv.md` (185 dòng, đã có từ 2026-06-16, commit `ca88c60c`); nguồn: luatvietnam.vn (slug 109152), mva.vn, tcnnld.vn; ngày ban hành: 15/5/2026; hiệu lực: 30/6/2026 (đã hiệu lực — đã có file); bổ sung ngày ban hành chính xác; **ƯU TIÊN CAO** — hiệu lực hôm nay |
+| QCVN 99:2025/BNNMT | 31/12/2025 | **Quy chuẩn kỹ thuật quốc gia về khí thải xe mô tô, xe gắn máy** — 4 mức giới hạn CO, HC theo năm sản xuất/nhập khẩu; xe từ 01/7/2026 áp dụng Mức 4; lộ trình kiểm định: Hà Nội + TP.HCM từ 01/7/2027, thành phố TW từ 01/7/2028, toàn quốc từ 01/7/2030 (QĐ 13/2026/QĐ-TTg); hiệu lực **30/6/2026** | Giao thông / Môi trường | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 423432), plo.vn, vov.vn, autopro.com.vn, thanhnien.vn; ngày ban hành: 31/12/2025 (TT 92/2025/TT-BNNMT); hiệu lực: 30/6/2026 (quy chuẩn chính thức có hiệu lực); tác động toàn bộ chủ xe máy toàn quốc; **ƯU TIÊN TRUNG BÌNH** — hiệu lực hôm nay, tác động rộng nhưng kiểm soát theo lộ trình |
+| 170/NQ-CP | 27/06/2026 | **Nghị quyết Phiên họp chuyên đề về xây dựng pháp luật tháng 6/2026** — Chính phủ thảo luận 15 dự án luật, nghị quyết (trong đó Luật sửa đổi Luật Hải quan, Luật sửa đổi Luật Đầu tư); yêu cầu trình 11 NĐ chi tiết luật đã có hiệu lực + 35 NĐ chi tiết luật hiệu lực từ 01/7/2026 ngay trong tháng 6; hiệu lực **27/6/2026** | Hành chính / Lập pháp | chua-xac-minh | **Chưa có** | URL: `https://baochinhphu.vn/chinh-phu-yeu-cau-hoan-thien-15-du-an-luat-nghi-quyet-10226062920255045.htm`; nguồn: baochinhphu.vn, thoibaotaichinhvietnam.vn, thanhtra.com.vn; ngày ban hành: 27/6/2026; hiệu lực: 27/6/2026 (đã hiệu lực); tác động gián tiếp đến 46 văn bản cần trình; **ƯU TIÊN TRUNG BÌNH** — nghị quyết chỉ đạo xây dựng pháp luật |
+
+### Kiểm tra ngày 30/6/2026 — Kết quả: KHÔNG CÓ văn bản mới
+
+- **luatvietnam.vn/van-ban-moi.html**: Danh sách "Văn bản mới trong tháng qua" mới nhất chỉ đến **29/06/2026** — 8 văn bản ngày 29/6, không có entry nào ngày 30/6.
+- Dải vanban.chinhphu.vn 219050–219200 đã quét lần 24 → **hoàn toàn trống**.
+- **Kết luận: Ngày 30/6/2026 (Thứ Ba, ngày cuối quý II/2026) không có văn bản nào được ban hành hoặc công bố trên vanban.chinhphu.vn.** Không có văn bản mới để thêm vào tracking.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-30 lần 24)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 224/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 40/2026/TT-BGDĐT | **KHÔNG** (file có, docid mới) | Thêm mới — Chưa có (file đã có) |
+| 09/2026/TT-BNV | **KHÔNG** (file có, ngày chưa chính xác) | Thêm mới — Chưa có (bổ sung ngày BH) |
+| QCVN 99:2025/BNNMT | **KHÔNG** | Thêm mới — Chưa có |
+| 170/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Chuyển đổi số / Hành chính** (rất cao — 1 ngày): **224/2026/NĐ-CP** — dịch vụ công trực tuyến toàn trình bắt buộc, thông tin một lần; tác động toàn xã hội. Cần xác minh docid vanban.chinhphu.vn. Ưu tiên số 1.
+2. **Giao thông / Môi trường** (rất cao — hiệu lực hôm nay): **QCVN 99:2025/BNNMT** — quy chuẩn khí thải xe máy; tác động toàn bộ chủ xe. Cần kiểm tra scope (QCVN/BNNMT không phải NĐ/TT). Ưu tiên số 2.
+3. **Giáo dục** (cao — hiệu lực hôm nay): **40/2026/TT-BGDĐT** — công tác sinh viên; file đã có (docid 218142). Cập nhật docid vào tracking. Ưu tiên số 3.
+4. **Lao động / Ngoại giao** (cao — hiệu lực hôm nay): **09/2026/TT-BNV** — môi giới lao động nước ngoài; file đã có. Bổ sung ngày BH chính xác. Ưu tiên số 4.
+5. **Hành chính / Lập pháp** (trung bình): **170/NQ-CP** — phiên họp chuyên đề xây dựng pháp luật tháng 6/2026. Ưu tiên số 5.
+6. **Đầu tư công** (thấp): **1160/QĐ-TTg** (29/6/2026) — giao kế hoạch đầu tư công trung hạn 2026-2030 đợt 1. Không cần crawl.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 25.
+- **224/2026/NĐ-CP**: Nghị định chuyển đổi số 9 chương 92 điều, hiệu lực 01/7/2026. Cần xác minh docid vanban.chinhphu.vn (dự kiến dải 218600–218750).
+- **40/2026/TT-BGDĐT** (docid 218142): Đã có file; cập nhật docid chính xác vào tracking.
+- **09/2026/TT-BNV**: Đã có file; bổ sung ngày ban hành chính xác (15/5/2026) vào tracking.
+- **QCVN 99:2025/BNNMT**: Quy chuẩn khí thải xe máy, hiệu lực 30/6/2026. Cần kiểm tra scope (QCVN có thể không nằm trong scope crawl theo SOUL.md).
+- **170/NQ-CP**: Nghị quyết Phiên họp chuyên đề xây dựng pháp luật tháng 6/2026 — nghị quyết chỉ đạo, ảnh hưởng gián tiếp đến 46 văn bản cần trình.
+- **1160/QĐ-TTg** (29/6/2026): Giao kế hoạch đầu tư công trung hạn 2026-2030 đợt 1 — ghi nhận bổ sung, không cần crawl.
+- **Ngày 30/6/2026**: Xác nhận không có văn bản mới ban hành ngày này.
+- Nguồn: vanban.chinhphu.vn (docid 218142), luatvietnam.vn/van-ban-moi.html, baochinhphu.vn, bnews.vn, conglalanh.vn, vov.vn, thanhnien.vn, autopro.com.vn, plo.vn, vtv.vn, tdtu.edu.vn, hcm.edu.vn.
+- Ngày phát hiện: 2026-06-30 11:38 ICT
+- Phiên thực hiện: agent:github-io:subagent:976e3d9d-7b55-4f18-b42d-a3cb97840d6e (Đệ #1 Discovery — lần 25)
+
+---
+
+## Cập nhật 2026-06-30 (phiên Đệ #1 Discovery — lần 24)
 
 ### Xác minh docid: 218/2026/NĐ-CP = 218537
 
