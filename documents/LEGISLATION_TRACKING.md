@@ -1,3 +1,31 @@
+## Cập nhật 2026-07-01 (phiên Đệ #1 Discovery — lần 1)
+
+### Tổng hợp xác minh docid (7 văn bản)
+
+| Số hiệu | Docid cũ | Docid mới | Ngày BH | Hiệu lực | Ghi chú |
+|---|:---:|:---:|---:|:---:|---|
+| 68/2026/TT-BTC | chua-xac-minh | **218539** | 18/06 | 01/7 | Dự trữ quốc gia + chuyển đổi số |
+| 73/2026/TT-BTC | chua-xac-minh | **218621** | 25/06 | 01/7 | Quyết toán vốn đầu tư |
+| 74/2026/TT-BTC | chua-xac-minh | **218624** | 25/06 | 10/8 | Phí lệ phí năng lượng nguyên tử |
+| 207/2026/NĐ-CP | chua-xac-minh | **218450** | 15/06 | 01/7 | Luật Xây dựng - chất lượng, thi công, bảo trì |
+| 209/2026/NĐ-CP | chua-xac-minh | **218449** | 15/06 | 01/7 | Luật Xây dựng - vật liệu xây dựng |
+| 215/2026/NĐ-CP | chua-xac-minh | **218499** | 18/06 | 01/7 | An ninh hàng không |
+| 237/2026/NĐ-CP | chua-xac-minh | **218590** | 26/06 | 01/7 | Luật Báo chí - nền tảng số báo chí quốc gia |
+
+### Phát hiện quan trọng
+
+- **75/2026/TT-BTC KHÔNG TỒN TẠI** - loại khỏi tracking (chỉ có 73, 74 là tồn tại)
+- Dải 218750-218900 trống hoàn toàn - nhiều văn bản cuối tháng 6/2026 chưa được index
+- 236/2026/NĐ-CP, 23/2026/TT-BYT: tồn tại trên luatvietnam nhưng docid chưa tìm thấy (cần dải 219000+)
+- 242, 244, 245/2026/NĐ-CP: chưa tìm thấy trên luatvietnam.vn - cần xác minh riêng
+
+### Nguồn
+
+- vanban.chinhphu.vn (xác minh docid), luatvietnam.vn (slug), web_search
+- Ngày phát hiện: 2026-07-01 16:40 ICT
+
+---
+
 ## Cập nhật 2026-06-30 (phiên Đệ #1 Discovery — lần 24)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
