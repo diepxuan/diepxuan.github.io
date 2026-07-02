@@ -1,3 +1,57 @@
+---
+
+## Cập nhật 2026-07-02 (phiên Đệ #1 Discovery — lần 18)
+
+### Phát hiện mới: 235, 238, 241/2026/NĐ-CP (đợt 01/7/2026) — 3 văn bản mới
+
+Quét vanban.chinhphu.vn dải docid 219400–219600 (tìm văn bản ngày 01–02/7/2026) + web search xác minh ngày ban hành/hiệu lực từ luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, suckhoedoisong.vn, baophapluat.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-02 lần 17 — 5 văn bản 240, 227, 48, 42, 43): phát hiện thêm **3 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 235/2026/NĐ-CP | 26/06/2026 | Quy định về **hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập** — thay thế hình thức hợp đồng lao động cũ bằng hợp đồng thực hiện công việc; quy định trường hợp ký hợp đồng, thời hạn, quyền và nghĩa vụ của các bên; tác động trực tiếp trường học, bệnh viện công lập và người lao động; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn, suckhoedoisong.vn, baomoi.com; ngày ban hành: 26/6/2026 (cùng đợt 232-234/2026); hiệu lực: 01/7/2026; tác động trường học, bệnh viện công lập, nhân viên hợp đồng trong đơn vị sự nghiệp công; **ƯU TIÊN RẤT CAO** — hiệu lực hôm nay, tác động trực tiếp hàng triệu người lao động trong đơn vị sự nghiệp công lập |
+| 238/2026/NĐ-CP | 26/06/2026 | Sửa đổi, bổ sung quy định về **xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe** — cập nhật mức phạt, bổ sung hành vi vi phạm mới (dựa trên Luật TTATGT 2025); cơ chế trừ điểm GPLX chính thức đi vào áp dụng; hiệu lực **01/7/2026** | Giao thông / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn ngày 26/6/2026); baomoi.com, thuvienphapluat.vn; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ người có GPLX, cảnh sát giao thông; **ƯU TIÊN RẤT CAO** — hiệu lực hôm nay, tác động >60 triệu người lái xe |
+| 241/2026/NĐ-CP | 26/06/2026 | Sửa đổi, bổ sung NĐ 165/2024/NĐ-CP quy định chi tiết, hướng dẫn thi hành một số điều của **Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ** — cập nhật quy định về điều kiện hoạt động, phương tiện, người lái theo Luật Đường bộ 2025; hiệu lực **01/7/2026** | Giao thông / Đường bộ | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (ngày 26/6/2026), cafef.vn; ngày ban hành: 26/6/2026 (cùng đợt 236, 238, 242); hiệu lực: 01/7/2026; tác động toàn bộ phương tiện và người tham gia giao thông đường bộ; **ƯU TIÊN RẤT CAO** — hiệu lực hôm nay, tác động toàn xã hội |
+
+### Quét docid 219400–219600 — Kết quả: DẢI TRỐNG
+
+- **219400–219600**: vanban.chinhphu.vn trả "Chi tiết văn bản ban hành" (không có nội dung) — **hoàn toàn trống**. Các văn bản ngày 01–02/7/2026 chưa được index ở dải này.
+- **Lưu ý**: 10 văn bản ngày 01–02/7/2026 trên luatvietnam.vn (cập nhật 02/7/2026) là văn bản đã ban hành từ trước (15–26/6/2026), được công bố lại trên luatvietnam.vn. Không có văn bản nào được ban hành mới ngày 01–02/7/2026.
+- Các văn bản 235, 238, 241/2026/NĐ-CP mang ngày ban hành **26/6/2026** — thuộc đợt cuối tháng 6/2026.
+- **Văn bản ngày 01/7/2026 thực sự mới**: Có thể chưa được index hoặc nằm ở dải docid cao hơn 219600. Tiếp tục theo dõi dải 219600+ ở phiên kế tiếp.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-02 lần 17)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 235/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 238/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 241/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 162/2026/NĐ-CP | **CÓ** (lần 17) | Đã có — lương hưu +8%, NĐ 15/5/2026, HL 01/7/2026 |
+| 163/2026/NĐ-CP | **CÓ** (trước lần 17) | Đã có — cai nghiện ma túy điện tử |
+| 164/2026/NĐ-CP | **CÓ** (trước lần 17) | Đã có — kiểm soát tài sản |
+| 165/2026/NĐ-CP | **CÓ** (trước lần 17) | Đã có — phòng bệnh |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Hành chính** (rất cao — hiệu lực hôm nay 01/7/2026): **235/2026/NĐ-CP** — hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập; tác động trường học, bệnh viện, hàng triệu người lao động. Cần xác minh docid. Ưu tiên số 1.
+2. **Giao thông / Hành chính** (rất cao — hiệu lực hôm nay 01/7/2026): **238/2026/NĐ-CP** — trừ điểm, phục hồi điểm GPLX; tác động >60 triệu người có GPLX. Cần xác minh docid. Ưu tiên số 2.
+3. **Giao thông / Đường bộ** (rất cao — hiệu lực hôm nay 01/7/2026): **241/2026/NĐ-CP** — sửa đổi NĐ 165/2024 theo Luật Đường bộ; tác động toàn bộ người tham gia giao thông. Cần xác minh docid. Ưu tiên số 3.
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** được thêm vào tracking lần 18: 235, 238, 241/2026/NĐ-CP — ban hành 26/6/2026, hiệu lực 01/7/2026. Cả 3 đều thuộc đợt đồng loạt hiệu lực hôm nay (01/7/2026).
+- **235/2026/NĐ-CP**: Thay thế hình thức hợp đồng lao động cũ trong đơn vị sự nghiệp công lập — tác động trực tiếp nhân viên trường học, bệnh viện công.
+- **238/2026/NĐ-CP**: Cơ chế trừ điểm GPLX chính thức đi vào áp dụng từ 01/7/2026 — tác động toàn bộ người lái xe.
+- **241/2026/NĐ-CP**: Cập nhật NĐ 165/2024 theo Luật Đường bộ 2025 — tác động toàn bộ phương tiện giao thông đường bộ.
+- **162/2026/NĐ-CP** (lương hưu tăng 8%): Đã có trong tracking — xác nhận ngày ban hành 15/5/2026, hiệu lực 01/7/2026.
+- **Docid**: 235, 238, 241 chưa xác minh trên vanban.chinhphu.vn (dải 219400–219600 trống hoàn toàn). Cần quét dải 219600+ hoặc tìm qua luatvietnam.vn slug để xác minh.
+- **Ngày 01–02/7/2026**: Không có văn bản nào được ban hành mới ngày này trên vanban.chinhphu.vn (dải 219400–219600 trống). Cần tiếp tục theo dõi dải 219600+.
+- Nguồn: vanban.chinhphu.vn (quét docid 219400–219600 trống), xaydungchinhsach.chinhphu.vn (235, 238), luatvietnam.vn/van-ban-moi.html, luatvietnam.vn/ds-nd-01-7-2026, suckhoedoisong.vn, baophapluat.vn, thuvienphapluat.vn, baomoi.com, cafef.vn, hcma.vn.
+- Ngày phát hiện: 2026-07-02 19:02 ICT
+- Phiên thực hiện: agent:github-io:subagent:f6fa22a7-1f5d-4a12-abab-44c79e935f80 (Đệ #1 Discovery — lần 18)
+
+---
+
 ## Cập nhật 2026-07-02 (phiên Đệ #1 Discovery — lần 17)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
@@ -6,10 +60,10 @@ Quét vanban.chinhphu.vn dải docid 218643–218652 (tiếp nối lần 16: 218
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 240/2026/NĐ-CP | 26/06/2026 | Quy định chi tiết và biện pháp thi hành một số điều về **cơ chế, chính sách phát huy nguồn lực xây dựng, vận hành Hệ sinh thái tận dụng các Hiệp định thương mại tự do (FTA)** và Quỹ Xúc tiến xuất khẩu ngành hàng theo Nghị quyết 250/2025/QH15 — các nguồn lực hỗ trợ doanh nghiệp, hợp tác xã, hộ kinh doanh tận dụng 17 FTA đã ký; hiệu lực **26/6/2026** (cùng ngày ký) | Thương mại / Hội nhập | 218651 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218651`; nguồn: vanban.chinhphu.vn (docid xác minh), vov.vn, baomoi.com; ngày ban hành: 26/6/2026; hiệu lực: 26/6/2026 (đã hiệu lực); tác động doanh nghiệp XNK, hợp tác xã, hộ kinh doanh hưởng lợi FTA; **ƯU TIÊN TRUNG BÌNH** — đã hiệu lực, tác động thương mại quốc tế |
+| 240/2026/NĐ-CP | 26/06/2026 | Quy định chi tiết và biện pháp thi hành một số điều về **cơ chế, chính sách phát huy nguồn lực xây dựng, vận hành Hệ sinh thái tận dụng các Hiệp định thương mại tự do (FTA)** và Quỹ Xúc tiến xuất khẩu ngành hàng theo Nghị quyết 250/2025/QH15 — các nguồn lực hỗ trợ doanh nghiệp, hợp tác xã, hộ kinh doanh tận dụng 17 FTA đã ký; hiệu lực **26/6/2026** (cùng ngày ký) | Thương mại / Hội nhập | 218651 | **Hoàn thiện** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218651`; nguồn: vanban.chinhphu.vn (docid xác minh), vov.vn, baomoi.com; ngày ban hành: 26/6/2026; hiệu lực: 26/6/2026 (đã hiệu lực); tác động doanh nghiệp XNK, hợp tác xã, hộ kinh doanh hưởng lợi FTA; **ƯU TIÊN TRUNG BÌNH** — đã hiệu lực, tác động thương mại quốc tế |
 | 227/2026/NĐ-CP | ~26/06/2026 | Quy định chi tiết một số điều về **thúc đẩy tham gia tổ chức, diễn đàn, mạng lưới hợp tác; hội nhập quốc tế của địa phương; khoán chi nghiên cứu phục vụ hội nhập quốc tế** và một số cơ chế, chính sách đặc thù theo Nghị quyết 250/2025/QH15 — hỗ trợ UBND tỉnh/thành tham gia diễn đàn quốc tế, khoán chi nghiên cứu; hiệu lực cần xác minh thêm (dự kiến cùng đợt 26/6/2026) | Hành chính / Hội nhập | 218652 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218652`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp); ngày ban hành: ước đoán 26/6/2026 (cùng đợt Nghị quyết 250/2025/QH15); cần xác minh ngày hiệu lực từ luatvietnam.vn; tác động UBND các tỉnh/thành, cơ quan đối ngoại địa phương; **ƯU TIÊN THẤP** — cần xác minh thêm |
-| 48/2026/TT-BGDĐT | 29/06/2026 | Ban hành **Quy chế tổ chức và hoạt động của trường tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học loại hình tư thục** — quy định điều kiện thành lập, hoạt động, quyền hạn, nhiệm vụ, tổ chức bộ máy của trường tư thục các cấp; hiệu lực cần xác minh | Giáo dục | 218649 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218649`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp); ngày ban hành: 29/6/2026; tác động trường tư thục, phụ huynh, học sinh trên cả nước; **ƯU TIÊN CAO** — tác động giáo dục tư thục toàn quốc |
-| 42/2026/TT-BXD | 26/06/2026 | Sửa đổi, bổ sung một số điều của các Thông tư ban hành **quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động** sử dụng trong thi công xây dựng thuộc phạm vi quản lý của Bộ Xây dựng — cập nhật quy trình kiểm định ATLĐ cho máy xây dựng; hiệu lực cần xác minh | Xây dựng / Lao động | 218645 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218645`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp); ngày ban hành: 26/6/2026 (cùng đợt 32-41/TT-BXD); tác động doanh nghiệp xây dựng, đơn vị kiểm định ATLĐ; **ƯU TIÊN TRUNG BÌNH** — bổ sung nhóm Xây dựng đợt 26/6/2026 |
+| 48/2026/TT-BGDĐT | 29/06/2026 | Ban hành **Quy chế tổ chức và hoạt động của trường tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học loại hình tư thục** — quy định điều kiện thành lập, hoạt động, quyền hạn, nhiệm vụ, tổ chức bộ máy của trường tư thục các cấp; hiệu lực cần xác minh | Giáo dục | 218649 | **Hoàn thiện** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218649`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp); ngày ban hành: 29/6/2026; tác động trường tư thục, phụ huynh, học sinh trên cả nước; **ƯU TIÊN CAO** — tác động giáo dục tư thục toàn quốc |
+| 42/2026/TT-BXD | 26/06/2026 | Sửa đổi, bổ sung một số điều của các Thông tư ban hành **quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động** sử dụng trong thi công xây dựng thuộc phạm vi quản lý của Bộ Xây dựng — cập nhật quy trình kiểm định ATLĐ cho máy xây dựng; hiệu lực cần xác minh | Xây dựng / Lao động | 218645 | **Hoàn thiện** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218645`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp); ngày ban hành: 26/6/2026 (cùng đợt 32-41/TT-BXD); tác động doanh nghiệp xây dựng, đơn vị kiểm định ATLĐ; **ƯU TIÊN TRUNG BÌNH** — bổ sung nhóm Xây dựng đợt 26/6/2026 |
 | 43/2026/TT-BXD | 29/06/2026 | Quy định về **đăng kiểm viên phương tiện thủy nội địa và nhân viên nghiệp vụ kiểm tra phương tiện thủy nội địa** — tiêu chuẩn công nhận đăng kiểm viên, điều kiện hoạt động; hiệu lực **15/8/2026** | Giao thông / Hàng hải | 218646 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218646`; nguồn: vanban.chinhphu.vn (docid xác minh), baoxaydung.vn, thuvienphapluat.vn; ngày ban hành: 29/6/2026; hiệu lực: 15/8/2026 (sớm hơn nhóm 01/7/2026); tác động đăng kiểm viên thủy nội địa, chủ phương tiện thủy; **ƯU TIÊN TRUNG BÌNH** — hiệu lực 15/8, cần crawl kỹ thuật |
 
 ### Các văn bản phụ trong dải 218643–218652 (ngoài giới hạn 5, ghi nhận bổ sung)
@@ -122,7 +176,7 @@ Quét vanban.chinhphu.vn dải docid 218564–218574 (tiếp nối lần 23: 218
 | 16/2026/TT-BVHTTDL | 23/06/2026 | Quy định về **định mức kinh tế - kỹ thuật dịch vụ giám định di vật, cổ vật** — định mức chi phí giám định, tiêu chí đánh giá, quy trình thực hiện dịch vụ giám định; thay thế quy định cũ (Thông tư 04/2012/TT-BVHTTDL); hiệu lực **15/8/2026** | Văn hóa / Di sản | 218564 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218564`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn (slug 438660), bvhttdl.gov.vn; ngày ban hành: 23/6/2026; hiệu lực: 15/8/2026; tác động Bộ Văn hóa, cơ quan quản lý di sản, đơn vị giám định di vật cổ vật; **ƯU TIÊN THẤP** — hiệu lực xa, nội dung kỹ thuật chuyên ngành |
 | 17/2026/TT-BVHTTDL | 23/06/2026 | Quy định về **định mức kinh tế - kỹ thuật dịch vụ lập hồ sơ đề nghị công nhận bảo vật quốc gia** — định mức chi phí lập hồ sơ, tiêu chí đánh giá, quy trình thẩm định; áp dụng cho việc lập hồ sơ đề nghị công nhận di vật, cổ vật là bảo vật quốc gia; hiệu lực **15/8/2026** | Văn hóa / Di sản | 218565 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218565`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn (slug 438659), bvhttdl.gov.vn; ngày ban hành: 23/6/2026; hiệu lực: 15/8/2026; tác động Bộ Văn hóa, UBND các cấp, đơn vị lập hồ sơ bảo vật quốc gia; **ƯU TIÊN THẤP** — hiệu lực xa |
 | 47/2026/TT-BGDĐT | 22/06/2026 | **Bãi bỏ một số văn bản quy phạm pháp luật** do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành trong lĩnh vực giáo dục — gồm 11 văn bản (giai đoạn 2001–2024), bao gồm: giáo dục thể chất, y tế trường học, an toàn giao thông, bồi dưỡng nghiệp vụ sư phạm, tổ chức trường mầm non, thanh tra giáo dục; hiệu lực **07/8/2026** | Giáo dục / Hành chính | 218566 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218566`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn (slug 438540), moet.gov.vn; ngày ban hành: 22/6/2026; hiệu lực: 07/8/2026; tác động Bộ GD&ĐT, sở GD&ĐT, trường học; bãi bỏ nhiều văn bản cũ lỗi thời; **ƯU TIÊN TRUNG BÌNH** — dọn dẹp pháp lý, có thể crawl nhanh |
-| 70/2026/TT-BTC | 23/06/2026 | Quy định về **chế độ quản lý, tính hao mòn tài sản kết cấu hạ tầng đường bộ** và hướng dẫn việc kê khai, báo cáo về tài sản kết cấu hạ tầng đường bộ — quy định mới về tính hao mòn, trích khấu hao, kê khai tài sản; áp dụng cho năm tài chính 2026; hiệu lực **23/6/2026** (cùng ngày) | Tài chính / Hạ tầng | 218569 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218569`; nguồn: vanban.chinhphu.vn (docid xác minh), baocaotaichinh.vn, luatvietnam.vn; ngày ban hành: 23/6/2026; hiệu lực: 23/6/2026 (đã hiệu lực); tác động Bộ Tài chính, Bộ GTVT, các chủ đầu tư hạ tầng giao thông; **ƯU TIÊN TRUNG BÌNH** — đã hiệu lực, tác động tài chính hạ tầng |
+| 70/2026/TT-BTC | 23/06/2026 | Quy định về **chế độ quản lý, tính hao mòn tài sản kết cấu hạ tầng đường bộ** và hướng dẫn việc kê khai, báo cáo về tài sản kết cấu hạ tầng đường bộ — quy định mới về tính hao mòn, trích khấu hao, kê khai tài sản; áp dụng cho năm tài chính 2026; hiệu lực **23/6/2026** (cùng ngày) | Tài chính / Hạ tầng | 218569 | **Hoàn thiện** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218569`; nguồn: vanban.chinhphu.vn (docid xác minh), baocaotaichinh.vn, luatvietnam.vn; ngày ban hành: 23/6/2026; hiệu lực: 23/6/2026 (đã hiệu lực); tác động Bộ Tài chính, Bộ GTVT, các chủ đầu tư hạ tầng giao thông; **ƯU TIÊN TRUNG BÌNH** — đã hiệu lực, tác động tài chính hạ tầng |
 | 71/2026/TT-BTC | 23/06/2026 | **Sửa đổi, bổ sung** một số điều của các Thông tư quy định chế độ quản lý, tính hao mòn tài sản kết cấu hạ tầng **đường thủy nội địa, hàng hải, đường sắt** và hướng dẫn việc kê khai, báo cáo — cập nhật định mức hao mòn, quy trình kê khai, báo cáo tài sản hạ tầng; người ký: ông Tạ Anh Tuấn; hiệu lực **23/6/2026** (cùng ngày) | Tài chính / Hạ tầng | 218570 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218570`; nguồn: vanban.chinhphu.vn (docid xác minh), luatvietnam.vn (slug 438658), baocaotaichinh.vn, sav.gov.vn; ngày ban hành: 23/6/2026; hiệu lực: 23/6/2026 (đã hiệu lực); tác động Bộ Tài chính, Bộ GTVT, các chủ đầu tư hạ tầng đường thủy/hàng hải/đường sắt; **ƯU TIÊN TRUNG BÌNH** — đã hiệu lực, cùng đợt với 70/TT-BTC |
 
 ### Các văn bản phụ trong dải 218564–218574 (ngoài giới hạn 5, ghi nhận bổ sung)
@@ -342,7 +396,7 @@ Từ web_search xác nhận, ngày 26/6/2026 Bộ Xây dựng ban hành thêm:
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú |
 |---|---:|---|---|---|---|
-| 35/2026/TT-BXD | 26/06/2026 | Quy định về đăng kiểm viên tàu biển và nhân viên nghiệp vụ kiểm định tàu biển | Hàng hải / Xây dựng | **Chưa có** | Hiệu lực 01/7/2026; nguồn: moc.gov.vn; bổ sung nhóm Hàng hải cho đợt 01/7/2026 |
+| 35/2026/TT-BXD | 26/06/2026 | Quy định về đăng kiểm viên tàu biển và nhân viên nghiệp vụ kiểm định tàu biển | Hàng hải / Xây dựng | 218639 | **Hoàn thiện** | Hiệu lực 01/7/2026; nguồn: moc.gov.vn; bổ sung nhóm Hàng hải cho đợt 01/7/2026 |
 | 32/2026/TT-BXD | 22/06/2026 | Quy định chi tiết một số điều của NĐ 207/2026/NĐ-CP về quản lý chất lượng, thi công xây dựng và bảo trì công trình | Xây dựng | **Chưa có** | Hiệu lực 01/7/2026; nguồn: datafiles.chinhphu.vn (32-bxd.pdf); bổ sung ngày 22/6 (trước 26/6) |
 | 33/2026/TT-BXD | 25/06/2026 | Quy định chi tiết về đánh giá an toàn công trình trong quá trình khai thác, sử dụng | Xây dựng | **Chưa có** | Hiệu lực 01/7/2026; nguồn: luatvietnam.vn; bổ sung ngày 25/6 |
 | 34/2026/TT-BXD | 25/06/2026 | Quy định chi tiết về cấp công trình xây dựng phục vụ quản lý hoạt động xây dựng | Xây dựng | **Chưa có** | Hiệu lực 01/7/2026; nguồn: moc.gov.vn; bổ sung ngày 25/6 |
