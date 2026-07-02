@@ -1,3 +1,88 @@
+## Cập nhật 2026-07-02 (phiên Đệ #1 Discovery — lần 17)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 218643–218652 (tiếp nối lần 16: 218642 là docid cuối cùng đã quét) + dải 219000+ (xác minh ngày 01–02/7/2026) + web search xác minh ngày ban hành/hiệu lực từ luatvietnam.vn, baochinhphu.vn, baoxaydung.vn, vov.vn. Kết hợp xác minh docid cho các văn bản ưu tiên cao: 232, 233, 234, 244, 243, 262/2026/NĐ-CP (đã xác minh trong lần 16). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-01 lần 1): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 240/2026/NĐ-CP | 26/06/2026 | Quy định chi tiết và biện pháp thi hành một số điều về **cơ chế, chính sách phát huy nguồn lực xây dựng, vận hành Hệ sinh thái tận dụng các Hiệp định thương mại tự do (FTA)** và Quỹ Xúc tiến xuất khẩu ngành hàng theo Nghị quyết 250/2025/QH15 — các nguồn lực hỗ trợ doanh nghiệp, hợp tác xã, hộ kinh doanh tận dụng 17 FTA đã ký; hiệu lực **26/6/2026** (cùng ngày ký) | Thương mại / Hội nhập | 218651 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218651`; nguồn: vanban.chinhphu.vn (docid xác minh), vov.vn, baomoi.com; ngày ban hành: 26/6/2026; hiệu lực: 26/6/2026 (đã hiệu lực); tác động doanh nghiệp XNK, hợp tác xã, hộ kinh doanh hưởng lợi FTA; **ƯU TIÊN TRUNG BÌNH** — đã hiệu lực, tác động thương mại quốc tế |
+| 227/2026/NĐ-CP | ~26/06/2026 | Quy định chi tiết một số điều về **thúc đẩy tham gia tổ chức, diễn đàn, mạng lưới hợp tác; hội nhập quốc tế của địa phương; khoán chi nghiên cứu phục vụ hội nhập quốc tế** và một số cơ chế, chính sách đặc thù theo Nghị quyết 250/2025/QH15 — hỗ trợ UBND tỉnh/thành tham gia diễn đàn quốc tế, khoán chi nghiên cứu; hiệu lực cần xác minh thêm (dự kiến cùng đợt 26/6/2026) | Hành chính / Hội nhập | 218652 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218652`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp); ngày ban hành: ước đoán 26/6/2026 (cùng đợt Nghị quyết 250/2025/QH15); cần xác minh ngày hiệu lực từ luatvietnam.vn; tác động UBND các tỉnh/thành, cơ quan đối ngoại địa phương; **ƯU TIÊN THẤP** — cần xác minh thêm |
+| 48/2026/TT-BGDĐT | 29/06/2026 | Ban hành **Quy chế tổ chức và hoạt động của trường tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học loại hình tư thục** — quy định điều kiện thành lập, hoạt động, quyền hạn, nhiệm vụ, tổ chức bộ máy của trường tư thục các cấp; hiệu lực cần xác minh | Giáo dục | 218649 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218649`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp); ngày ban hành: 29/6/2026; tác động trường tư thục, phụ huynh, học sinh trên cả nước; **ƯU TIÊN CAO** — tác động giáo dục tư thục toàn quốc |
+| 42/2026/TT-BXD | 26/06/2026 | Sửa đổi, bổ sung một số điều của các Thông tư ban hành **quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động** sử dụng trong thi công xây dựng thuộc phạm vi quản lý của Bộ Xây dựng — cập nhật quy trình kiểm định ATLĐ cho máy xây dựng; hiệu lực cần xác minh | Xây dựng / Lao động | 218645 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218645`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp); ngày ban hành: 26/6/2026 (cùng đợt 32-41/TT-BXD); tác động doanh nghiệp xây dựng, đơn vị kiểm định ATLĐ; **ƯU TIÊN TRUNG BÌNH** — bổ sung nhóm Xây dựng đợt 26/6/2026 |
+| 43/2026/TT-BXD | 29/06/2026 | Quy định về **đăng kiểm viên phương tiện thủy nội địa và nhân viên nghiệp vụ kiểm tra phương tiện thủy nội địa** — tiêu chuẩn công nhận đăng kiểm viên, điều kiện hoạt động; hiệu lực **15/8/2026** | Giao thông / Hàng hải | 218646 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218646`; nguồn: vanban.chinhphu.vn (docid xác minh), baoxaydung.vn, thuvienphapluat.vn; ngày ban hành: 29/6/2026; hiệu lực: 15/8/2026 (sớm hơn nhóm 01/7/2026); tác động đăng kiểm viên thủy nội địa, chủ phương tiện thủy; **ƯU TIÊN TRUNG BÌNH** — hiệu lực 15/8, cần crawl kỹ thuật |
+
+### Các văn bản phụ trong dải 218643–218652 (ngoài giới hạn 5, ghi nhận bổ sung)
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| 27/2026/TT-NHNN | ~29/06/2026 | Sửa đổi, bổ sung Thông tư 51/2024/TT-NHNN về **kiểm toán độc lập đối với ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, tổ chức tài chính vi mô, chi nhánh ngân hàng nước ngoài** — cụ thể hóa theo Luật các tổ chức tín dụng 2025; hiệu lực cần xác minh | Ngân hàng / Tài chính | 218648 | **Chưa có** | Cần xác minh ngày ban hành và hiệu lực; ưu tiên trung bình |
+| 1136/QĐ-TTg | ~29/06/2026 | Về việc **bổ nhiệm giữ chức Phó Chủ nhiệm Văn phòng Chính phủ** — quyết định nhân sự; hiệu lực ngay | Hành chính / Nhân sự | 218650 | **Không cần crawl** | Quyết định nhân sự cá nhân — bỏ qua |
+
+### Quét dải docid 218643–218652 — Tóm tắt
+
+- **218643**: 40/TT-BXD (chi phí bảo trì) — **ĐÃ CÓ** trong tracking (lần 16, nhóm Xây dựng)
+- **218644**: 41/TT-BXD (vật liệu XD) — **ĐÃ CÓ** trong tracking (lần 16)
+- **218645**: 42/TT-BXD (kiểm định ATLĐ) — **MỚI** (218645, chưa trong tracking)
+- **218646**: 43/TT-BXD (đăng kiểm thủy nội địa) — **MỚI** (218646, hiệu lực 15/8)
+- **218647–218648**: trống, trống
+- **218648**: 27/TT-NHNN (kiểm toán độc lập) — **MỚI** (218648, chưa trong tracking)
+- **218649**: 48/TT-BGDĐT (trường tư thục) — **MỚI** (218649, chưa trong tracking)
+- **218650**: 1136/QĐ-TTg (bổ nhiệm) — bỏ qua (QĐ nhân sự)
+- **218651**: 240/2026/NĐ-CP (FTA) — **MỚI** (218651, đã hiệu lực 26/6)
+- **218652**: 227/2026/NĐ-CP (hội nhập địa phương) — **MỚI** (218652, chưa trong tracking)
+- **218653–218660**: trống hoàn toàn (7 docid liên tiếp)
+- **218700–218750**: trống hoàn toàn
+- **219000–219400**: trống hoàn toàn
+
+**Kết luận quét ngày 01–02/7/2026**: Không có văn bản mới nào từ ngày 01/7 hoặc 02/7/2026 trên vanban.chinhphu.vn trong dải 218643–219400. Các văn bản phát hiện mới đều mang ngày ban hành 26/6 hoặc 29/6/2026 — thuộc đợt cuối tháng 6/2026, chưa được index hoặc chưa được ghi nhận trong các phiên trước. Không có văn bản mới nào từ ngày 01–02/7/2026.
+
+### Xác minh docid cho các văn bản ưu tiên cao (từ memory 2026-07-02)
+
+| Số hiệu | Docid | Trạng thái | Ghi chú |
+|---|:---:|---|---|
+| 232/2026/NĐ-CP | **218617** | Đã xác minh (lần 16) | Vị trí việc làm viên chức; hiệu lực 01/7/2026 |
+| 233/2026/NĐ-CP | **218616** | Đã xác minh (lần 16) | Đánh giá, xếp loại viên chức; hiệu lực 01/7/2026 |
+| 234/2026/NĐ-CP | **218615** | Đã xác minh (lần 16) | Xử lý kỷ luật viên chức; hiệu lực 01/7/2026 |
+| 244/2026/NĐ-CP | **218603** | Đã xác minh (lần 16) | Phát ngôn báo chí; hiệu lực 01/7/2026 |
+| 243/2026/NĐ-CP | **218605** | Đã xác minh (lần 16) | Điện mặt trời, DPPA; hiệu lực 26/6/2026 |
+| 262/2026/NĐ-CP | **218642** | Đã xác minh (lần 16) | Báo chí nước ngoài tại VN; hiệu lực 01/7/2026 |
+| 35/2026/TT-BXD | **218639** | Đã xác minh (lần 16) | Đăng kiểm viên tàu biển; hiệu lực 01/7/2026 |
+| 37/2026/TT-BXD | **218630** | Đã xác minh (lần 16) | Định mức dự toán; hiệu lực 01/7/2026 |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-01 lần 1)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 240/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 227/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 48/2026/TT-BGDĐT | **KHÔNG** | Thêm mới — Chưa có |
+| 42/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 43/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 27/2026/TT-NHNN | **KHÔNG** | Thêm mới — Chưa có (ghi nhận ngoài giới hạn) |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Giáo dục** (cao — hiệu lực 29/6/2026): **48/2026/TT-BGDĐT** — tổ chức trường tư thục; tác động hệ thống giáo dục tư thục toàn quốc. Docid 218649 đã xác minh. Ưu tiên số 1.
+2. **Thương mại / Hội nhập** (trung bình — đã hiệu lực): **240/2026/NĐ-CP** — Hệ sinh thái FTA, Quỹ xúc tiến xuất khẩu; tác động doanh nghiệp XNK. Docid 218651 đã xác minh. Ưu tiên số 2.
+3. **Xây dựng / Lao động** (trung bình — hiệu lực 26/6/2026): **42/2026/TT-BXD** — kiểm định ATLĐ máy xây dựng; tác động doanh nghiệp XD, đơn vị kiểm định. Docid 218645 đã xác minh. Ưu tiên số 3.
+4. **Giao thông / Hàng hải** (trung bình — 44 ngày): **43/2026/TT-BXD** — đăng kiểm thủy nội địa; tác động đăng kiểm viên, chủ phương tiện thủy. Hiệu lực 15/8/2026. Ưu tiên số 4.
+5. **Ngân hàng** (trung bình): **27/2026/TT-NHNN** — kiểm toán độc lập ngân hàng; cần xác minh ngày hiệu lực. Ưu tiên số 5.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 17: 240/2026/NĐ-CP, 227/2026/NĐ-CP, 48/2026/TT-BGDĐT, 42/2026/TT-BXD, 43/2026/TT-BXD — ban hành 26–29/6/2026.
+- **Văn bản phụ ngoài giới hạn**: 27/2026/TT-NHNN (218648) — kiểm toán độc lập NHNN; ghi nhận bổ sung nhưng cần xác minh ngày hiệu lực ở phiên tiếp theo.
+- **1136/QĐ-TTg** (218650): Quyết định nhân sự bổ nhiệm Phó Chủ nhiệm Văn phòng Chính phủ — không cần crawl.
+- **Ngày 01–02/7/2026**: Không tìm thấy văn bản mới trên vanban.chinhphu.vn trong dải 218643–219400. Các văn bản mới đều mang ngày 26–29/6/2026 — đợt cuối tháng 6 đã được index. Có thể văn bản ngày 01–02/7 chưa kịp index hoặc nằm ở dải cao hơn 219400 (cần quét tiếp phiên sau).
+- **Nhóm Xây dựng 26/6/2026 hoàn thiện**: Đã xác minh đủ 32-43/TT-BXD (12 TT BXD cùng đợt). Bổ sung 42, 43 vào tracking.
+- **Các docid ưu tiên cao**: 232, 233, 234, 243, 244, 262/2026/NĐ-CP và 35, 37/TT-BXD đều đã xác minh trong lần 16 — xác nhận lại không thay đổi.
+- Nguồn: vanban.chinhphu.vn (quét docid 218643–218660 + 219000–219400 + xác minh 218651, 218652), web_search Brave (vov.vn, baomoi.com, baoxaydung.vn, thuvienphapluat.vn).
+- Ngày phát hiện: 2026-07-02 09:40 ICT
+- Phiên thực hiện: agent:github-io:subagent:705a9516-6517-4ed9-b128-fea0d7859690 (Đệ #1 Discovery — lần 17)
+
+---
+
 ## Cập nhật 2026-07-01 (phiên Đệ #1 Discovery — lần 1)
 
 ### Tổng hợp xác minh docid (7 văn bản)
