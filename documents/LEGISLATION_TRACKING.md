@@ -1650,3 +1650,48 @@ Quét vanban.chinhphu.vn dải docid rộng:
 - 4 văn bản đều ban hành 26/6/2026, hiệu lực 01/7/2026 — đợt đồng loạt hiệu lực hôm nay.
 - Cả 4 đã được commit vào PR #218 heartbeat.
 - Phiên thực hiện: 2026-07-03 13:40 ICT
+
+---
+
+## Cap nhat 2026-07-03 (phien De #1 Discovery — lan 19)
+
+### Quet docid 219600-220000 — Ket qua: DAI TRONG HOAN TOAN
+
+Quet vanban.chinhphu.vn dải docid 219600-220000 (step 10 = 41 docid: 219600, 219610, ..., 220000) + step 5 (40 docid: 219600-219800) + web_search xac minh cac nguon chinh thuc. Tat ca docid deu tra ve "Chi tiet van ban ban hanh" (khong co noi dung) - **dai trong hoan toan**.
+
+### Nguon kiem tra bo sung (ngay 03/7/2026)
+
+- **luatvietnam.vn/van-ban-moi.html**: Entry moi nhat = 02/07/2026. Khong co entry nao ngay 03/7/2026.
+- **xaydungchinhsach.chinhphu.vn**: Khong truy cap duoc (Firecrawl 402).
+- **baochinhphu.vn/thong-tin-van-ban-moi**: Khong truy cap duoc (Firecrawl 402).
+- **thuvienphapluat.vn/tin-ban-hanh-van-ban**: Khong truy cap duoc (Firecrawl 402).
+- **web_search**: Khong tim thay van ban nao ban hanh ngay 03/7/2026.
+
+### Phat hien van ban ngay 30/6/2026 (bo sung, chua co trong tracking)
+
+Qua web_search, phat hien 3 văn bản mới chua co trong tracking (ngay ban hanh thuc te = 30/6/2026, duoc cong bo nhieu tren truyen thong trong ngay 03/7/2026):
+
+| So hieu | Ngay ban hanh | Trich yeu | Nhom | DocID | Trang thai | Ghi chu |
+|---|---:|---|---|---:|---|---|
+| 253/2026/ND-CP | 30/06/2026 | Quy định chi tiết và biện pháp thi hành Luật Thuế thu nhập cá nhân — nang ngưỡng khấu trừ 10% với thu nhập vãng lai từ 2 triệu lên 5 triệu đồng/lần; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Chua co** | Nguồn: thuvienphapluat.vn, luatvietnam.vn (slug 439303); ngày BH: 30/6/2026; hiệu lực: 01/7/2026; tac dong thu nhap ca nhan toan quoc; **U TIEN CAO** |
+| 254/2026/ND-CP | 30/06/2026 | Quy định chi tiết Luật Quản lý thuế 2025 về hóa đơn điện tử, chứng từ điện tử — mo rong doi tuong su dung hoa don dien tu; hóa đơn từ máy tính tiền; mã cơ quan thuế; hiệu lực **01/7/2026** | Thuế / Hóa đơn | chua-xac-minh | **Chua co** | URL: `https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html`; ngày BH: 30/6/2026 (Hà Nội, ngày 30 tháng 6 năm 2026); hiệu lực: 01/7/2026; tac dong tat ca to chuc, ca nhan kinh doanh; **U TIEN RAT CAO** |
+| 258/2026/ND-CP | 30/06/2026 | Quy định chi tiết một số điều về cơ chế, chính sách phát huy nguồn lực hội nhập quốc tế theo Nghị quyết 250/2025/QH15 — thu hút, sử dụng nhà khoa học, chuyên gia hội nhập quốc tế (hỗ trợ 300% lương); địa phương hội nhập; khoán chi nghiên cứu; hiệu lực **30/6/2026** | Hành chính / Hội nhập | chua-xac-minh | **Chua co** | Nguồn: vietnamplus.vn, vietnamhoinhap.vn (xác minh ngày 30/6/2026); hiệu lực: 30/6/2026 (cùng ngày); tac dong co quan ngoai giao, dia phuong; **U TIEN TRUNG BINH** |
+
+### Lưu ý ve 254/2026/ND-CP (Hóa đơn điện tử)
+
+254/2026/ND-CP là van ban rat quan trong, duoc nhieu nguon truyen thong dua tin trong ngay 03/7/2026 voi tieu de "Từ 1/7/2026: Mở rộng diện áp dụng hóa đơn điện tử". Tuy nhien, ngay ban hanh thuc te la **30/6/2026** (xac nhan tu luatvietnam.vn: "Hà Nội, ngày 30 tháng 6 năm 2026"), khong phai 03/7. Văn bản chua co trong tracking hien tai.
+
+### De xuat uu tien phien tiep theo (crawl chi tiet)
+
+1. **Thue / Hoa don dien tu** (rat cao — da hieu luc 3 ngay): **254/2026/ND-CP** — mo rong hoa don dien tu; tac dong tat ca doanh nghiep, ho kinh doanh, ca nhan kinh doanh. Can xac minh docid. Uu tien so 1.
+2. **Thue / Tai chinh** (rat cao — da hieu luc 3 ngay): **253/2026/ND-CP** — cai cach thue TNCN; nang ngưỡng khấu trừ 10% vãng lai lên 5 triệu. Can xac minh docid. Uu tien so 2.
+3. **Hanh chinh / Hoi nhap** (trung binh — da hieu luc): **258/2026/ND-CP** — nha khoa hoc, chuyen gia hoi nhap quoc te; chinh sach 300% luong. Can xac minh docid. Uu tien so 3.
+
+### Ket luan
+
+- **Khong co van ban nao ban hanh ngay 03/7/2026** tren vanban.chinhphu.vn (dai 219600-220000 trong hoan toan) hay cac nguon chinh thuc khac.
+- **3 van ban moi phat hien** (253, 254, 258) deu co ngay ban hanh thuc te = **30/6/2026**, chua co trong tracking.
+- Viet Nam nghi le 01-02/7/2026 (Quoc khanh Myanmar), ngay 03/7 la ngay lam viec dau tien sau nghi. Khong co van ban moi ngay nay la binh thuong.
+- Nguồn: vanban.chinhphu.vn (quet docid 219600-220000 step 10), web_search Brave (luatvietnam.vn, thuvienphapluat.vn, vietnamplus.vn, baochinhphu.vn, vietnamhoinhap.vn).
+- Ngay phat hien: 2026-07-03 19:12 ICT
+- Phien thuc hien: agent:github-io:subagent:09c032b9-b6c3-4126-8c3a-4e08b3804a72 (De #1 Discovery — lan 19)
