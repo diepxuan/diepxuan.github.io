@@ -1632,3 +1632,21 @@ Quét vanban.chinhphu.vn dải docid rộng:
 - Nguồn: vanban.chinhphu.vn (quét từng docid 218595–218700 step 1 + 218750–220500 step 50-250), web_search gemini/brave từ luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn.
 - Ngày phát hiện: 2026-06-30 14:42 ICT
 - Phiên thực hiện: agent:github-io:subagent:81539da7-a7ec-4d6c-a445-722e24eab15a (Đệ #1 Discovery — lần 26)
+---
+
+## Cập nhật 2026-07-03 (phiên crawl — 4 văn bản đã hoàn thiện)
+
+### Văn bản đã crawl trong PR heartbeat 2026-07-03
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | File |
+|---|---|---|---|---:|---|---|
+| 235/2026/NĐ-CP | 26/06/2026 | Quy định về **hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập** — thay thế hình thức hợp đồng lao động cũ; hiệu lực **01/7/2026** | Lao động / Hành chính | **218614** | **Đã có** | `van-ban/lao-dong/235-2026-nd-cp.md` (616d, 35KB) |
+| 238/2026/NĐ-CP | 26/06/2026 | Sửa đổi, bổ sung quy định về **xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe** — hiệu lực **01/7/2026** | Giao thông / Hành chính | **218613** | **Đã có** | `van-ban/giao-thong-van-tai/238-2026-ND-CP.md` (700d, 37KB) |
+| 241/2026/NĐ-CP | 26/06/2026 | Sửa đổi, bổ sung NĐ 165/2024/NĐ-CP quy định chi tiết, hướng dẫn thi hành một số điều của **Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ** — hiệu lực **01/7/2026** | Giao thông / Đường bộ | **218631** | **Đã có** | `van-ban/giao-thong-van-tai/241-2026-nd-cp.md` (3352d, 182KB) |
+| 262/2026/NĐ-CP | 26/06/2026 | Quy định về hoạt động báo chí của **cơ quan báo chí nước ngoài, cơ quan đại diện nước ngoài, tổ chức nước ngoài tại Việt Nam** — hiệu lực **01/7/2026** | Báo chí / Ngoại giao | **218642** | **Đã có** | `van-ban/bao-chi/262-2026-nd-cp.md` (1384d, 76KB) |
+
+### Ghi chú
+
+- 4 văn bản đều ban hành 26/6/2026, hiệu lực 01/7/2026 — đợt đồng loạt hiệu lực hôm nay.
+- Cả 4 đã được commit vào PR #218 heartbeat.
+- Phiên thực hiện: 2026-07-03 13:40 ICT
