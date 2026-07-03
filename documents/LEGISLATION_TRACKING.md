@@ -1695,3 +1695,42 @@ Qua web_search, phat hien 3 văn bản mới chua co trong tracking (ngay ban ha
 - Nguồn: vanban.chinhphu.vn (quet docid 219600-220000 step 10), web_search Brave (luatvietnam.vn, thuvienphapluat.vn, vietnamplus.vn, baochinhphu.vn, vietnamhoinhap.vn).
 - Ngay phat hien: 2026-07-03 19:12 ICT
 - Phien thuc hien: agent:github-io:subagent:09c032b9-b6c3-4126-8c3a-4e08b3804a72 (De #1 Discovery — lan 19)
+
+---
+
+## Cập nhật 2026-07-03 (phiên Đệ #1 Discovery — lần 20)
+
+### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 220000–222000 (step 50–100, xác minh step 5–10 cho docid 220000–220500) + web_search xác minh văn bản hiệu lực 15/7–01/8/2026 từ baochinhphu.vn, thuvienphapluat.vn, luatvietnam.vn, vietnamplus.vn, thuviennhadat.vn, vov.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-03 lần 19: 253, 254, 258): phát hiện **2 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 182/2026/NĐ-CP | 22/05/2026 | Quy định chế độ **phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác** trong các cơ sở giáo dục công lập — mức phụ cấp từ 20%–80% theo cấp học, tính chất môn học, địa bàn khó khăn; cao nhất 70%–80% dành cho vùng đặc biệt khó khăn, trường chuyên biệt, trường dân tộc nội trú; thay thế quy định cũ; hiệu lực **07/7/2026** | Giáo dục / Lao động | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/giao-duc/nghi-dinh-182-2026-nd-cp-phu-cap-uu-dai-cho-nha-giao-va-can-bo-giao-duc-cong-lap-435346-d1.html`; nguồn: luatvietnam.vn (slug 435346), xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, pttpc.huit.edu.vn; ngày ban hành: 22/5/2026; hiệu lực: 07/7/2026; tác động toàn bộ nhà giáo, cán bộ quản lý, nhân sự hỗ trợ trường công lập toàn quốc; **ƯU TIÊN CAO** — hiệu lực 4 ngày tới, tác động hàng triệu nhà giáo |
+| 186/2026/NĐ-CP | ~26/05/2026 | Sửa đổi, bổ sung quy định về **xử phạt vi phạm hành chính trong lĩnh vực sở hữu công nghiệp** — cập nhật mức phạt, thủ tục, thẩm quyền xử phạt theo Luật Sở hữu trí tuệ 2025; thay thế NĐ 99/2013/NĐ-CP (đã sửa bởi NĐ 126/2021 và NĐ 46/2024); hiệu lực **15/7/2026** | Tư pháp / Sở hữu trí tuệ | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/cong-nghiep/nghi-dinh-186-2026-nd-cp-sua-doi-nghi-dinh-99-2013-ve-xu-phat-vi-pham-so-huu-cong-nghiep-435940-d1.html`; nguồn: luatvietnam.vn (slug 435940) — ebook tháng 7/2026; ngày ban hành: ước đoán tháng 5/2026 (chưa xác minh chính xác); hiệu lực: 15/7/2026; tác động doanh nghiệp sở hữu trí tuệ, cơ quan quản lý SHTT; **ƯU TIÊN TRUNG BÌNH** — hiệu lực 12 ngày tới |
+
+### Quét dải docid 220000–222000 — Kết quả: DẢI TRỐNG HOÀN TOÀN
+
+- **220000–222000** (step 50-100): Tất cả docid đều trả về "Không tìm thấy văn bản này" — **hoàn toàn trống**.
+- **219000–219600** (step 50, xác minh thêm): Tất cả trả "Chi tiết văn bản ban hành" (không có nội dung) — **hoàn toàn trống**.
+- **Kết luận**: Dải docid mới nhất trên vanban.chinhphu.vn vẫn dừng ở ~219000. Các văn bản tháng 6/2026 chưa được index hoặc đã chuyển sang cơ chế mới (dải docid không tăng tuyến tính nữa). Văn bản mới nhất có docid đã xác minh vẫn là 218652 (227/2026/NĐ-CP, 29/6/2026).
+- **Lưu ý quan trọng**: Mặc dù các docid trong dải 220000+ có HTTP status 200 và chứa từ "Loại văn bản" (do trang wrapper của site), nội dung thực tế là "Không tìm thấy văn bản này" — chứng tỏ chưa có văn bản nào được gán vào dải này.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-03 lần 19)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 182/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 186/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được thêm vào tracking lần 20: 182/2026/NĐ-CP (giáo dục, phụ cấp nhà giáo, HL 07/7/2026) và 186/2026/NĐ-CP (sở hữu công nghiệp, HL 15/7/2026).
+- **182/2026/NĐ-CP**: Văn bản rất quan trọng — phụ cấp ưu đãi theo nghề (phụ cấp đứng lớp) cho nhà giáo thay đổi từ ngày 07/7/2026. Tác động trực tiếp đến tiền lương và thu nhập của hàng triệu nhà giáo trên cả nước. Ưu tiên crawl chi tiết. Docid chưa xác minh — cần tìm trên vanban.chinhphu.vn.
+- **186/2026/NĐ-CP**: Sửa đổi xử phạt VPHC sở hữu công nghiệp theo Luật SHTT 2025. Cần xác minh docid. Ưu tiên trung bình.
+- **Ngày 03/7/2026**: Không có văn bản mới ban hành (Việt Nam nghỉ lễ 01–02/7). Không có văn bản nào trong dải 220000–222000. Luatvietnam.vn entry mới nhất = 02/07/2026.
+- **Văn bản hiệu lực 15/7–01/8/2026 đã có trong tracking**: 35, 37/TT-BXD (HL 01/7), 43/TT-BXD (HL 15/8), 16, 17/TT-BVHTTDL (HL 15/8), 47/TT-BGDĐT (HL 07/8), 204/2026/NĐ-CP (HL 01/8).
+- **Văn bản hiệu lực 15/7–01/8/2026 chưa trong tracking**: Thêm 182/2026 (07/7), 186/2026 (15/7) — 2 văn bản mới được ghi nhận lần này. Các văn bản khác cần xác minh thêm.
+- **Nguồn**: vanban.chinhphu.vn (quét docid 220000–222000 step 50-100 + 219000–219600 step 50), web_search Brave từ luatvietnam.vn, thuvienphapluat.vn, vietnamplus.vn, baochinhphu.vn, thuviennhadat.vn, cafef.vn.
+- **Ngày phát hiện**: 2026-07-03 22:06 ICT
+- **Phiên thực hiện**: agent:github-io:subagent:8c6020cf-9858-45ad-807f-56e302848731 (Đệ #1 Discovery — lần 20)
