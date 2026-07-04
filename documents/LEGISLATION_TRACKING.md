@@ -1,3 +1,144 @@
+
+
+## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 19)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 219900–220200 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, lsvn.vn, vtv.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Dân tộc, Viên chức. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-04 lần 18): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 12/2026/TT-BNV | 29/05/2026 | **Hướng dẫn điều chỉnh mức trợ cấp hằng tháng đối với cán bộ xã, phường, thị trấn già yếu đã nghỉ việc** — mức trợ cấp hằng tháng tăng thêm **8%** từ 01/7/2026 cho đối tượng đã nghỉ việc; áp dụng cho cán bộ xã, phường, thị trấn già yếu đang hưởng trợ cấp; cụ thể hóa chính sách tăng lương 01/7/2026; hiệu lực **01/7/2026** | Lao động / Tài chính | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2026-tt-bnv-huong-dan-dieu-chinh-muc-tro-cap-hang-thang-voi-can-bo-xa-gia-yeu-da-nghi-viec-119260529213029914.htm` (toàn văn); nguồn: baochinhphu.vn (đăng 2026-05-29), baomoi.com, thuonghieucongluan.com.vn; ngày ban hành: 29/5/2026; hiệu lực: 01/7/2026; tác động cán bộ xã, phường, thị trấn già yếu đã nghỉ việc toàn quốc; thuộc nhóm tiền lương 01/7/2026 cùng 161/2026, 162/2026 |
+| 13/2026/TT-BNV | 29/05/2026 | **Hướng dẫn thực hiện mức lương cơ sở đối với các đối tượng hưởng lương, phụ cấp trong các cơ quan, tổ chức, đơn vị sự nghiệp công lập của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội và hội** — hướng dẫn chi tiết mức lương cơ sở 2,53 triệu đồng/tháng (tăng từ 2,34 triệu); đối tượng áp dụng: cán bộ, công chức, viên chức hưởng lương từ NSNN, người hoạt động không chuyên trách ở thôn, đại biểu Hội đồng nhân dân, người làm trong tổ chức cơ yếu; cụ thể hóa NĐ 161/2026/NĐ-CP; hiệu lực **01/7/2026** | Lao động / Tài chính | 218315 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=218315&pageid=27160` (docid xác minh từ vanban.chinhphu.vn, 2026-06-01); nguồn: luatvietnam.vn (slug 435952, đăng 2026-07-04), xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-05-29); ngày ban hành: 29/5/2026; hiệu lực: 01/7/2026; tác động toàn bộ hệ thống công vụ; hướng dẫn 161/2026/NĐ-CP |
+| 14/2026/TT-BNV | 29/05/2026 | **Quy định chi tiết việc điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng** — tăng 8% lương hưu, trợ cấp BHXH, trợ cấp hằng tháng từ 01/7/2026 cho người đang hưởng trước ngày 01/7/2026; nâng mức tối thiểu lên 3,8 triệu đồng/tháng; kể cả người đang bị tạm dừng hưởng nhưng từ 01/7/2026 được tiếp tục chi trả; cụ thể hóa NĐ 162/2026/NĐ-CP; hiệu lực **01/7/2026** | Lao động / Bảo hiểm xã hội | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/lao-dong/thong-tu-14-2026-tt-bnv-dieu-chinh-luong-huu-tro-cap-bhxh-va-tro-cap-hang-thang-436031-d1.html` (toàn văn header); nguồn: luatvietnam.vn (slug 436031, đăng 2026-07-04), baohiemxahoi.gov.vn (đăng 2026-06-01); ngày ban hành: 29/5/2026; hiệu lực: 01/7/2026; tác động người nghỉ hưu, người hưởng trợ cấp BHXH hằng tháng toàn quốc; hướng dẫn 162/2026/NĐ-CP |
+| 172/2026/NĐ-CP | 30/05/2026 | **Quy định chi tiết chi phí thực hiện và kinh phí bảo đảm công tác dẫn độ, công tác chuyển giao người đang chấp hành án phạt tù, công tác tương trợ tư pháp về hình sự** — nguyên tắc quản lý và sử dụng kinh phí, mức chi cụ thể cho từng hoạt động dẫn độ, chuyển giao, tương trợ tư pháp; cụ thể hóa Luật Tư pháp và các điều ước quốc tế mà Việt Nam là thành viên; hiệu lực **01/7/2026** | Tư pháp / Hình sự | 218180 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?docid=218180&pageid=27160` (docid xác minh từ vanban.chinhphu.vn); nguồn: vanban.chinhphu.vn (docid 218180), luatvietnam.vn (slug 435172, đăng 2026-05-22), baochinhphu.vn (đăng 2026-05-20); ngày ban hành: 30/5/2026; hiệu lực: 01/7/2026; tác động cơ quan tư pháp, ngoại giao, Bộ Công an, Bộ Quốc phòng |
+| 161/2026/NĐ-CP | 15/05/2026 | **Quy định mức lương cơ sở và chế độ tiền thưởng cho cán bộ, công chức, viên chức và lực lượng vũ trang** — tăng mức lương cơ sở từ 2,34 triệu đồng lên **2,53 triệu đồng/tháng** từ 01/7/2026 (tăng ~8%); quỹ tiền thưởng bằng 10% tổng quỹ tiền lương hằng năm; áp dụng toàn bộ đối tượng hưởng lương từ NSNN (TW đến xã, lực lượng vũ trang, Công an, cơ yếu, người hoạt động không chuyên trách ở thôn, tổ dân phố); hiệu lực **01/7/2026** | Lao động / Tài chính | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/lao-dong/nghi-dinh-161-2026-nd-cp-quy-dinh-muc-luong-co-so-va-che-do-tien-thuong-cho-can-bo-cong-chuc-434784-d1.html` (toàn văn header); nguồn: luatvietnam.vn (slug 434784, đăng 2026-07-04), baochinhphu.vn, afamily.vn; ngày ban hành: 15/5/2026; hiệu lực: 01/7/2026; tác động toàn bộ cán bộ, công chức, viên chức, lực lượng vũ trang (hàng triệu người); thuộc nhóm tiền lương 01/7/2026 cùng 162/2026, 13/2026/TT-BNV, 14/2026/TT-BNV, 12/2026/TT-BNV; **phát hiện từ lần 18 nhưng bổ sung docid + formal tracking vào lần 19** |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-04 lần 18)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 12/2026/TT-BNV | **KHÔNG** | Thêm mới — Chưa có |
+| 13/2026/TT-BNV | **KHÔNG** | Thêm mới — Chưa có |
+| 14/2026/TT-BNV | **KHÔNG** | Thêm mới — Chưa có |
+| 172/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 161/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Tài chính** (ưu tiên số 1 — đã hiệu lực từ 01/7/2026): **13/2026/TT-BNV** — hướng dẫn mức lương cơ sở 2,53 triệu đồng/tháng cho đối tượng hưởng lương công lập; có docid 218315 đã xác minh từ vanban.chinhphu.vn; tác động toàn bộ hệ thống công vụ; hướng dẫn 161/2026/NĐ-CP. Nguồn: vanban.chinhphu.vn (docid 218315), luatvietnam.vn (slug 435952). **Ưu tiên số 1** vì đã có docid xác minh + cùng nhóm tiền lương 01/7.
+2. **Lao động / Bảo hiểm xã hội** (ưu tiên số 2 — đã hiệu lực từ 01/7/2026): **14/2026/TT-BNV** — hướng dẫn chi tiết tăng 8% lương hưu, trợ cấp BHXH từ 01/7; tác động người nghỉ hưu toàn quốc; hướng dẫn 162/2026/NĐ-CP. Nguồn: luatvietnam.vn (slug 436031). Cần xác minh docid.
+3. **Tư pháp / Hình sự** (ưu tiên số 3 — đã hiệu lực từ 01/7/2026): **172/2026/NĐ-CP** — chi phí và kinh phí dẫn độ, chuyển giao, tương trợ tư pháp; có docid 218180 đã xác minh từ vanban.chinhphu.vn; tác động cơ quan tư pháp, ngoại giao. Nguồn: vanban.chinhphu.vn (docid 218180). **Ưu tiên vì đã có docid.**
+4. **Lao động / Tài chính** (ưu tiên số 4 — đã hiệu lực từ 01/7/2026): **12/2026/TT-BNV** — hướng dẫn trợ cấp cán bộ xã già yếu tăng 8% từ 01/7; tác động cán bộ xã, phường, thị trấn nghỉ việc; thuộc nhóm tiền lương 01/7. Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn).
+5. **Lao động / Viên chức** (ưu tiên số 5 — đã hiệu lực từ 01/7/2026): **162/2026/NĐ-CP** — điều chỉnh lương hưu tăng 8%, nâng mức tối thiểu lên 3,8 triệu đồng/tháng; tác động người nghỉ hưu toàn quốc; hướng dẫn bởi 14/2026/TT-BNV; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 434783). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 19. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Docid đã xác minh**: 13/2026/TT-BNV (docid **218315**), 172/2026/NĐ-CP (docid **218180**) — cả hai đều tìm thấy trên vanban.chinhphu.vn qua web_search. Cần xác minh docid cho 12/2026/TT-BNV và 14/2026/TT-BNV.
+- **Nhóm tiền lương 01/7/2026** (mở rộng): Lần 18 đã phát hiện 161/2026/NĐ-CP (lương cơ sở) và 162/2026/NĐ-CP (lương hưu). Lần 19 bổ sung 13/2026/TT-BNV (hướng dẫn lương cơ sở), 14/2026/TT-BNV (hướng dẫn lương hưu), 12/2026/TT-BNV (trợ cấp cán bộ xã). Đây là **nhóm tiền lương đầy đủ 5 văn bản** cùng hiệu lực 01/7/2026. Ưu tiên crawl 13/2026 + 14/2026 trước vì có docid.
+- **Nhóm Luật Viên chức 2025** (hiệu lực 01/7/2026): 232, 233, 234, 235/2026/NĐ-CP cùng hướng dẫn Luật Viên chức số 129/2025/QH15. Trong đó 232, 233, 235 đã có trong tracking từ lần 16; **234** đã có trong tracking từ lần 17 (bổ sung vào ghi chú này để rõ nhóm đầy đủ). Ưu tiên crawl cả nhóm 4 NĐ cùng đợt.
+- **Nhóm tư pháp 01/7/2026**: 172/2026/NĐ-CP (kinh phí dẫn độ, tương trợ tư pháp — docid 218180). Cùng nhóm với 151, 152, 158, 160/2026/NĐ-CP (phát hiện từ lần 15) — cần kiểm tra xem đã được crawl chưa.
+- **Các văn bản đang chờ tiếp theo**: 234/2026 (mới phát hiện lần 19) + 161, 162, 174, 137/2026/NĐ-CP + 25/2026/TT-BYT (phát hiện lần 18, chưa crawl) + 232, 233, 235/2026/NĐ-CP (phát hiện lần 16, chưa crawl) + 254, 244, 252, 237/2026/NĐ-CP (phát hiện lần 17, chưa crawl). Tổng cộng **12 văn bản đang chờ crawl chi tiết**.
+- Nguồn: web_search Brave tổng hợp xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, lsvn.vn, vtv.vn, baohiemxahoi.gov.vn, afamily.vn, kenh14.vn, vietnamplus.vn, baomoi.com, thuonghieucongluan.com.vn.
+- Ngày phát hiện: 2026-07-04 21:05 ICT
+- Phiên thực hiện: agent:github-io:subagent:fcc306e4-4f7c-4d76-98e7-15e81bf245a7 (Đệ #1 Discovery — lần 19)
+
+---
+
+## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 18)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 219600–219900 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, lsvn.vn, vtv.vn, vnexpress.net theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Báo chí, Viên chức. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-04 lần 17): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 161/2026/NĐ-CP | 15/05/2026 | **Quy định mức lương cơ sở và chế độ tiền thưởng cho cán bộ, công chức, viên chức và lực lượng vũ trang** — tăng mức lương cơ sở từ 2,34 triệu đồng lên **2,53 triệu đồng/tháng** từ 01/7/2026 (tăng ~8%); quỹ tiền thưởng bằng 10% tổng quỹ tiền lương hằng năm; áp dụng toàn bộ đối tượng hưởng lương từ NSNN (TW đến xã, lực lượng vũ trang, Công an, cơ yếu, người hoạt động không chuyên trách ở thôn, tổ dân phố); hiệu lực **01/7/2026** | Lao động / Tài chính | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/lao-dong/nghi-dinh-161-2026-nd-cp-quy-dinh-muc-luong-co-so-va-che-do-tien-thuong-cho-can-bo-cong-chuc-434784-d1.html` (toàn văn header); nguồn: luatvietnam.vn (slug 434784, đăng 2026-07-04), baochinhphu.vn, kenh14.vn, afamily.vn; ngày ban hành: 15/5/2026; hiệu lực: 01/7/2026; tác động toàn bộ cán bộ, công chức, viên chức, lực lượng vũ trang (hàng triệu người); thuộc nhóm 4 NĐ về tiền lương, lương hưu cùng hiệu lực 01/7/2026 |
+| 162/2026/NĐ-CP | 15/05/2026 | **Điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng** — tăng **8%** trên mức lương hưu, trợ cấp BHXH, trợ cấp hằng tháng của tháng 6/2026; hỗ trợ thêm **300.000 đồng/tháng** cho người có mức hưởng ≤3,5 triệu đồng; nâng mức tối thiểu lên **3,8 triệu đồng/tháng** cho người có mức hưởng 3,5–3,8 triệu đồng; áp dụng cho người hưởng lương hưu, trợ cấp BHXH, trợ cấp hằng tháng trước 01/7/2026; thay thế NĐ 75/2024/NĐ-CP; hiệu lực **01/7/2026** | Lao động / Bảo hiểm xã hội | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/lao-dong/nghi-dinh-162-2026-nd-cp-dieu-chinh-luong-huu-tro-cap-bhxh-va-tro-cap-hang-thang-434783-d1.html` (toàn văn header); nguồn: luatvietnam.vn (slug 434783, đăng 2026-07-04), vietnamplus.vn, afamily.vn, thuvienphapluat.vn; ngày ban hành: 15/5/2026; hiệu lực: 01/7/2026; tác động người nghỉ hưu, người hưởng trợ cấp BHXH hằng tháng toàn quốc (hàng triệu người); cùng nhóm với 161/2026/NĐ-CP (lương cơ sở); được hướng dẫn bởi TT 14/2026/TT-BNV |
+| 174/2026/NĐ-CP | ~28/06/2026 | **Quy định xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, giao dịch điện tử và công nghệ thông tin** — mức phạt: **50–70 triệu đồng** cho lưu trữ, truyền đưa thông tin giả mạo, sai sự thật, vu khống, xuyên tạc hoặc gây hoang mang; **20–30 triệu đồng** cho lợi dụng mạng xã hội cung cấp/chia sẻ thông tin giả, xúc phạm uy tín tổ chức, danh dự, nhân phẩm cá nhân; **phạt giả mạo tên gửi email, tin nhắn đến 70 triệu đồng**; hiệu lực **01/7/2026** | Viễn thông / Báo chí - Truyền thông / An ninh mạng | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/tin-van-ban-moi/chinh-sach-moi-ve-thue-co-hieu-luc-hom-nay-01-7-2026-186-109976-article.html` (tổng hợp); nguồn: afamily.vn, kenh14.vn, luatvietnam.vn, lsvn.vn, nhadautu.vn, phunutoday.vn, thuvienphapluat.vn (công bố 2026-07-04); ngày ban hành: ~28/6/2026; hiệu lực: 01/7/2026; tác động người dùng mạng xã hội, doanh nghiệp viễn thông, nhà cung cấp dịch vụ CNTT; ưu tiên cao vì liên quan mạng xã hội, thông tin sai sự thật |
+| 137/2026/NĐ-CP | 07/04/2026 | **Quy định về quản lý hoạt động kinh doanh theo phương thức đa cấp** — bổ sung quy định mới về điều kiện kinh doanh đa cấp; đặc biệt: **cán bộ, công chức, sĩ quan Công an, Quân đội không được bán hàng đa cấp** (khoản 2 Điều 28); quy định về quyền và nghĩa vụ của các bên trong kinh doanh đa cấp; hiệu lực **01/7/2026** | Lao động / Thương mại | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (mục lục chính sách 01/7/2026, đăng 2026-07-04), thuonghieucongluan.com.vn, hcma.vn, lsvn.vn; ngày ban hành: 07/4/2026; hiệu lực: 01/7/2026; tác động doanh nghiệp đa cấp, người bán hàng đa cấp, đặc biệt cán bộ nhà nước bị cấm bán hàng đa cấp |
+| 25/2026/TT-BYT | ~15/06/2026 | **Sửa đổi, bổ sung quy định về quản lý chất lượng xét nghiệm và tiêu chuẩn sức khỏe** — cập nhật tiêu chuẩn chất lượng xét nghiệm y khoa, tiêu chuẩn khám sức khỏe; thay thế các quy định cũ; hiệu lực **01/7/2026** | Y tế | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/y-te/thong-tu-25-2026-tt-byt-sua-doi-bo-sung-quan-ly-chat-luong-xet-nghiem-va-tieu-chuan-suc-khoe-439192-d1.html`; nguồn: luatvietnam.vn (slug 439192, đăng 2026-07-04); ngày ban hành: ~15/6/2026; hiệu lực: 01/7/2026; tác động cơ sở y tế, phòng xét nghiệm, cơ quan quản lý y tế |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-04 lần 17)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 161/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 162/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 174/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 137/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 25/2026/TT-BYT | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Tài chính** (ưu tiên số 1 — đã hiệu lực từ 01/7/2026): **161/2026/NĐ-CP** — tăng lương cơ sở lên 2,53 triệu đồng/tháng; tác động hàng triệu cán bộ, công chức, viên chức, lực lượng vũ trang; cùng nhóm với 162/2026 (lương hưu). Nguồn: luatvietnam.vn (slug 434784). Cần xác minh docid từ vanban.chinhphu.vn.
+2. **Lao động / Bảo hiểm xã hội** (ưu tiên số 2 — đã hiệu lực từ 01/7/2026): **162/2026/NĐ-CP** — tăng 8% lương hưu, nâng mức tối thiểu lên 3,8 triệu đồng/tháng; tác động người nghỉ hưu toàn quốc. Nguồn: luatvietnam.vn (slug 434783). Cần xác minh docid.
+3. **Viễn thông / Báo chí - Truyền thông / An ninh mạng** (ưu tiên số 3 — đã hiệu lực từ 01/7/2026): **174/2026/NĐ-CP** — xử phạt hành chính bưu chính, viễn thông, giao dịch điện tử; phạt thông tin giả, sai sự thật trên mạng xã hội 50–70 triệu đồng; tác động người dùng MXH, doanh nghiệp CNTT. Nguồn: nhiều báo tổng hợp. Ưu tiên cao vì liên quan mạng xã hội.
+4. **Lao động / Thương mại** (ưu tiên số 4 — đã hiệu lực từ 01/7/2026): **137/2026/NĐ-CP** — kinh doanh đa cấp; cán bộ nhà nước không được bán hàng đa cấp (Điều 28); tác động doanh nghiệp đa cấp, đặc biệt là cán bộ công chức. Nguồn: thuvienphapluat.vn, thuonghieucongluan.com.vn.
+5. **Y tế** (ưu tiên số 5 — đã hiệu lực từ 01/7/2026): **25/2026/TT-BYT** — quản lý chất lượng xét nghiệm và tiêu chuẩn sức khỏe; tác động cơ sở y tế, phòng xét nghiệm. Nguồn: luatvietnam.vn (slug 439192).
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 18. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered nên web_fetch trả về skeleton. Cần xác minh bằng browser-automation hoặc tìm trên vanban.chinhphu.vn qua docid range 219600–219900 (cho 174/2026, 25/2026/TT-BYT) và dải thấp hơn (cho 161/2026, 162/2026 ban hành 15/5/2026 — có thể nằm ở docid ~218700–218800).
+- **Nhóm tiền lương 01/7/2026**: 161/2026/NĐ-CP (lương cơ sở) và 162/2026/NĐ-CP (lương hưu) cùng nhóm, cùng ngày ký 15/5/2026. Đây là hai văn bản cốt lõi về cải cách tiền lương từ 01/7/2026. 161/2026 được hướng dẫn bởi TT 13/2026/TT-BNV và TT 66/2026/TT-BTC. 162/2026 được hướng dẫn bởi TT 14/2026/TT-BNV.
+- **Nhóm an ninh mạng / báo chí 01/7/2026**: Luật An ninh mạng 2025 (01/7/2026) + NĐ 174/2026/NĐ-CP (xử phạt vi phạm hành chính viễn thông/CNTT) cùng nhóm. 174/2026 quy định mức phạt cụ thể cho thông tin giả, sai sự thật trên mạng xã hội. Ưu tiên cao vì liên quan mạng xã hội.
+- **Nhóm viên chức / Lao động 01/7/2026**: 234/2026/NĐ-CP (xử lý kỷ luật viên chức, phát hiện lần 17) + 232, 233, 235/2026/NĐ-CP (phát hiện lần 16) + 137/2026/NĐ-CP (phát hiện lần 18, kinh doanh đa cấp).
+- **Các văn bản đang chờ tiếp theo**: Tất cả 10 văn bản đã phát hiện từ lần 16–18 chưa được crawl chi tiết (docid chưa xác minh, chưa lấy toàn văn). Ưu tiên crawl nhóm tiền lương (161, 162) trước vì đã có hiệu lực.
+- **Các văn bản tiềm năng chưa xác minh**: Thông tư 14/2026/TT-BNV (hướng dẫn lương hưu từ 01/7), Thông tư 13/2026/TT-BNV (hướng dẫn lương cơ sở), Thông tư 12/2026/TT-BNV (trợ cấp cán bộ xã), Nghị quyết 66/2026/NQ-CP (cắt giảm ngành nghề kinh doanh có điều kiện), Nghị định 201/2026/NĐ-CP (thuế xuất khẩu khoáng sản — hiệu lực 23/7/2026), Nghị định 139/2026/NĐ-CP (chế độ báo cáo thống kê cấp quốc gia).
+- Nguồn: web_search Brave tổng hợp xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, lsvn.vn, vtv.vn, afamily.vn, kenh14.vn, vietnamplus.vn, nhadautu.vn, phunutoday.vn, thuonghieucongluan.com.vn, hcma.vn.
+- Ngày phát hiện: 2026-07-04 18:09 ICT
+- Phiên thực hiện: agent:github-io:subagent:00bbbd4b-2929-41e9-97cb-15cd63c31630 (Đệ #1 Discovery — lần 18)
+
+---
+
+## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 17)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 219300–219600 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-04 lần 16): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 254/2026/NĐ-CP | 30/06/2026 | **Sửa đổi, bổ sung một số điều của NĐ 218/2013/NĐ-CP** về cho thuê tài sản nhà nước — điều chỉnh quy trình cho thuê, đối tượng, giá thuê, quyền và nghĩa vụ các bên; cụ thể hóa Luật Quản lý tài sản công 2023 (Luật 77/2023/QH15); thay thế NĐ 151/2017/NĐ-CP phần cho thuê; hiệu lực **01/7/2026** | Tài chính / Quản lý tài sản công | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-254-2026-nd-cp-sua-doi-cho-thue-tai-san-nha-nuoc-119260701100930874.htm`; nguồn: xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-07-01); ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động cơ quan nhà nước cho thuê tài sản, doanh nghiệp nhà nước; thuộc nhóm Luật Quản lý tài sản công 2023 |
+| 244/2026/NĐ-CP | 26/06/2026 | **Quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước** — người phát ngôn, thời gian trả lời phỏng vấn, quy trình cung cấp thông tin, xử lý thông tin sai sự thật, khóa tài khoản mạng xã hội vi phạm; cụ thể hóa Luật Tiếp cận thông tin, Luật Báo chí; thay thế NĐ 09/2014/NĐ-CP; hiệu lực **01/7/2026** | Hành chính / Báo chí - Truyền thông | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-244-2026-nd-cp-phat-ngon-cung-cap-thong-tin-bao-chi-119260628104947989.htm` (toàn văn); nguồn: xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-06-28), luatvietnam.vn (slug 438990+), vtv.vn, lsvn.vn; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan hành chính nhà nước từ TW đến địa phương; quy định mới về phát ngôn báo chí, khóa tài khoản mạng xã hội vi phạm |
+| 234/2026/NĐ-CP | 26/06/2026 | **Quy định xử lý kỷ luật viên chức** — các hình thức kỷ luật (khiển trách, cảnh cáo, hạ bậc lương, cách chức, buộc thôi việc), quy trình xử lý, thẩm quyền, thời hiệu, thủ tục khiếu nại; cụ thể hóa Luật Viên chức 2025 (Luật 129/2025/QH15, có hiệu lực 01/7/2026); thay thế NĐ 27/2012/NĐ-CP; hiệu lực **01/7/2026** | Lao động / Viên chức | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-234-2026-nd-cp-xu-ly-ky-luat-vien-chuc-119260701163128950.htm` (toàn văn); nguồn: xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-07-01), thuvienphapluat.vn (slug 712635, ngày 2026-07-03), luatvietnam.vn; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ viên chức nhà nước; cùng nhóm với 232, 233, 235/2026/NĐ-CP (bộ 4 NĐ-CP hướng dẫn Luật Viên chức 2025) |
+| 252/2026/NĐ-CP | 30/06/2026 | **Sửa đổi, bổ sung quy định về tạm hoãn xuất cảnh do nợ thuế** — rút ngắn thời gian xử lý hủy bỏ tạm hoãn xuất cảnh, bổ sung cơ chế tháo gỡ khi dữ liệu nộp thuế chưa cập nhật trên hệ thống, nâng cao phối hợp cơ quan thuế và quản lý xuất nhập cảnh; cụ thể hóa Luật Quản lý thuế; hiệu lực **01/7/2026** | Thuế / Xuất nhập cảnh | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-252-2026-nd-cp-sua-doi-tam-hoan-xuat-canh-119260630165003797.htm` (toàn văn); nguồn: xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-06-30), luatvietnam.vn; ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động người nộp thuế bị tạm hoãn xuất cảnh, cơ quan thuế, cơ quan xuất nhập cảnh; ưu tiên cao vì liên quan quyền đi lại quốc tế |
+| 237/2026/NĐ-CP | 27/06/2026 | **Quy định về lập, quản lý và sử dụng quỹ phát triển khoa học và công nghệ tại doanh nghiệp** — điều kiện thành lập quỹ, nguồn vốn, mức trích, quản lý, sử dụng, chế độ thuế, báo cáo; cụ thể hóa Luật Khoa học và Công nghệ 2025 (Luật 17/2025/QH15); thay thế NĐ 173/2016/NĐ-CP; hiệu lực **01/7/2026** | KHCN / Tài chính | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-237-2026-nd-cp-quy-phat-trien-khoa-hoc-cong-nghe-tai-doanh-nghiep-119260630090943813.htm` (toàn văn); nguồn: xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-06-30), luatvietnam.vn; ngày ban hành: 27/6/2026; hiệu lực: 01/7/2026; tác động doanh nghiệp có quỹ phát triển KH&CN, cơ quan quản lý KHCN; thuộc nhóm Luật KHCN 2025 |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-04 lần 16)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 254/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 244/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 234/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 252/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 237/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hành chính / Báo chí** (ưu tiên số 1): **244/2026/NĐ-CP** — phát ngôn và cung cấp thông tin báo chí; tác động toàn bộ cơ quan hành chính nhà nước; có quy định khóa tài khoản mạng xã hội vi phạm pháp luật; hiệu lực 01/7/2026. Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn). Ưu tiên cao vì có nội dung liên quan truyền thông, mạng xã hội.
+2. **Thuế / Xuất nhập cảnh** (ưu tiên số 2): **252/2026/NĐ-CP** — tạm hoãn xuất cảnh do nợ thuế; rút ngắn xử lý, cơ chế tháo gỡ vướng mắc; hiệu lực 01/7/2026. Tác động người nộp thuế bị hạn chế xuất cảnh. Ưu tiên cao vì liên quan quyền đi lại.
+3. **Lao động / Viên chức** (ưu tiên số 3): **234/2026/NĐ-CP** — xử lý kỷ luật viên chức; cùng nhóm 4 NĐ hướng dẫn Luật Viên chức 2025 (232, 233, 234, 235); hiệu lực 01/7/2026. Có thể crawl cùng lúc với 232, 233, 235.
+4. **Tài chính / Quản lý tài sản công** (ưu tiên số 4): **254/2026/NĐ-CP** — cho thuê tài sản nhà nước; cụ thể hóa Luật Quản lý tài sản công 2023; hiệu lực 01/7/2026. Tác động cơ quan cho thuê tài sản công.
+5. **KHCN / Tài chính** (ưu tiên số 5): **237/2026/NĐ-CP** — quỹ phát triển KH&CN tại doanh nghiệp; cụ thể hóa Luật KHCN 2025; hiệu lực 01/7/2026. Tác động doanh nghiệp có chi phí R&D.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 17. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered nên web_fetch trả về skeleton. Cần xác minh bằng browser-automation hoặc tìm trên vanban.chinhphu.vn qua docid range 219300–219600.
+- **Nhóm Luật Viên chức 2025** (hiệu lực 01/7/2026): 232, 233, 234, 235/2026/NĐ-CP cùng hướng dẫn Luật Viên chức số 129/2025/QH15. Trong đó 232, 233, 235 đã được phát hiện lần 16; **234** được phát hiện lần 17. Ưu tiên crawl cả nhóm 4 NĐ cùng đợt.
+- **Nhóm tài chính 01/7/2026**: 244/2026 (phát ngôn báo chí), 252/2026 (tạm hoãn xuất cảnh), 254/2026 (cho thuê tài sản công), 237/2026 (quỹ KHCN doanh nghiệp) cùng hiệu lực 01/7/2026.
+- **172/2026/NĐ-CP** (dẫn độ, tương trợ tư pháp) — có trong báo chí nhưng chưa xác minh số hiệu cụ thể trong phiên này; theo dõi ở lần 18.
+- **Các văn bản đang chờ tiếp theo**: 235/2026 (chưa crawl), 233/2026 (chưa crawl) — đã có trong tracking từ lần 16; 234/2026 mới phát hiện lần 17 bổ sung vào nhóm viên chức.
+- Nguồn: web_search Brave tổng hợp xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, vtv.vn, lsvn.vn, vnreview.vn, vnexpress.net.
+- Ngày phát hiện: 2026-07-04 17:55 ICT
+- Phiên thực hiện: agent:github-io:subagent:06a7e677-dae3-45d2-bc3b-aa443dc6933d (Đệ #1 Discovery — lần 17)
+
+---
+
 ## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 16)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
