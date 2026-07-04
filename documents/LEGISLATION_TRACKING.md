@@ -1,3 +1,48 @@
+## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 16)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 219000–219300 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave/Gemini tổng hợp từ xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành đầu tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-06-22 lần 15): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 253/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn chi tiết Luật Thuế thu nhập cá nhân 2025** (Luật 109/2025/QH15, có hiệu lực 01/7/2026) — quy định thu nhập chịu thuế, thu nhập được miễn thuế, giảm trừ gia cảnh, khấu trừ thuế, quyết toán thuế TNCN; đặc biệt: **cá nhân chuyển nhượng có duy nhất một nhà ở, quyền sử dụng đất ở tại Việt Nam được miễn thuế TNCN** (NĐ 253/2026/NĐ-CP điều chỉnh); hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Chưa có** | URL (sơ bộ): `https://luatvietnam.vn/thue/nghi-dinh-253-2026-nd-cp-huong-dan-thi-hanh-luat-thue-thu-nhap-ca-nhan-chi-tiet-439303-d1.html`; nguồn: luatvietnam.vn (slug 439303, đăng 2026-07-02/03), thuvienphapluat.vn (278040, đăng 2026-07-03), xaydungchinhsach.chinhphu.vn (2026-07-03); ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ người có thu nhập tại Việt Nam; ưu tiên cực cao vì cùng đợt với Luật TNCN 2025 |
+| 245/2026/NĐ-CP | 27/06/2026 | **Gia hạn thời hạn nộp thuế, tiền thuê đất năm 2026** — gia hạn tối đa 5 tháng thuế GTGT, thuế TNDN, thuế TNCN và tiền thuê đất trong năm 2026 cho doanh nghiệp; tác động doanh nghiệp gặp khó khăn; hiệu lực ngay khi ký | Thuế / Tài chính | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-245-2026-nd-cp-gia-han-thoi-han-nop-thue-tien-thue-dat-trong-nam-2026-119260627180925528.htm`; nguồn: xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-07-03), luatvietnam.vn ebook tháng 7/2026; ngày ban hành: 27/6/2026; hiệu lực ngay ký; tác động toàn bộ doanh nghiệp nộp thuế tại Việt Nam; ưu tiên cao |
+| 232/2026/NĐ-CP | 26/06/2026 | **Quy định thống nhất về vị trí việc làm viên chức** — danh mục vị trí việc làm viên chức theo Luật Viên chức 2025 (có hiệu lực 01/7/2026); cụ thể hóa Luật Viên chức 2025, tạo cơ sở pháp lý cho phân cấp và quản lý theo năng lực; thay thế các quy định cũ về vị trí việc làm; hiệu lực **01/7/2026** (cùng Luật Viên chức 2025) | Hành chính / Viên chức | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/can-bo/nghi-dinh-232-2026-nd-cp-quy-dinh-vi-tri-viec-lam-vien-chuc-439302-d1.html`; nguồn: luatvietnam.vn (slug 439302, đăng 2026-07-02), ninhbinh.gov.vn, pttpc.huit.edu.vn; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ đơn vị sự nghiệp công lập, viên chức nhà nước |
+| 235/2026/NĐ-CP | 26/06/2026 | **Quy định về hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập** — hợp đồng thực hiện công việc (không phải hợp đồng lao động), quyền và nghĩa vụ các bên, tiền lương, thời hạn, chấm dứt hợp đồng; cụ thể hóa Luật Viên chức 2025; hiệu lực **01/7/2026** (cùng Luật Viên chức 2025) | Lao động / Viên chức | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-235-2026-nd-cp-ve-hop-dong-thuc-hien-cong-viec-trong-don-vi-su-nghiep-cong-lap-119260630131355603.htm` (toàn văn); nguồn: xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-06-30), thuvienphapluat.vn; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động đơn vị sự nghiệp công lập và người lao động ký hợp đồng công việc |
+| 233/2026/NĐ-CP | 26/06/2026 | **Quy định về đánh giá, xếp loại chất lượng đơn vị sự nghiệp công lập và viên chức** — tiêu chí đánh giá, xếp loại đơn vị sự nghiệp công lập và viên chức hàng năm; cụ thể hóa Luật Viên chức 2025; hiệu lực **01/7/2026** (cùng Luật Viên chức 2025) | Hành chính / Viên chức | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-233-2026-nd-cp-ve-danh-gia-xep-loai-chat-luong-voi-don-vi-su-nghiep-cong-lap-va-vien-chuc-119260701171015913.htm` (toàn văn); nguồn: xaydungchinhsach.chinhphu.vn (toàn văn, ngày 2026-07-01); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động đơn vị sự nghiệp công lập, viên chức toàn quốc |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-06-22 lần 15)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 253/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 245/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 232/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 235/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 233/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế** (ưu tiên số 1 — 4 ngày tới 01/7/2026): **253/2026/NĐ-CP** — hướng dẫn chi tiết Luật TNCN 2025, miễn thuế TNCN nhà ở duy nhất; tác động hàng triệu người có thu nhập. Có thể dùng luatvietnam.vn (slug 439303) làm nguồn chính. Đồng thời 245/2026/NĐ-CP (gia hạn thuế) cũng ưu tiên cao.
+2. **Thuế / Tài chính** (ưu tiên số 2): **245/2026/NĐ-CP** — gia hạn nộp thuế GTGT, TNDN, TNCN, tiền thuê đất; tác động doanh nghiệp gặp khó khăn.
+3. **Hành chính / Viên chức** (ưu tiên số 3 — 4 ngày tới 01/7/2026): **232/2026/NĐ-CP** + **233/2026/NĐ-CP** — vị trí việc làm và đánh giá viên chức; cùng nhóm với 235/2026. Tác động toàn bộ đơn vị sự nghiệp công lập.
+4. **Lao động / Viên chức** (ưu tiên số 4): **235/2026/NĐ-CP** — hợp đồng công việc trong đơn vị sự nghiệp công lập.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 16. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered nên web_fetch trả về "Chi tiết văn bản ban hành" (skeleton). Cần dùng browser-automation hoặc quét gián tiếp qua datafiles.chinhphu.vn để xác minh docid.
+- **Nhóm Luật Viên chức 2025** (hiệu lực 01/7/2026): 232, 233, 235/2026/NĐ-CP cùng hướng dẫn Luật Viên chức số 129/2025/QH15. Ưu tiên cả 3 vì tác động rộng đến đơn vị sự nghiệp công lập.
+- **Nhóm thuế 01/7/2026**: 253/2026 (hướng dẫn TNCN) và 245/2026 (gia hạn thuế) cùng nhóm. 253 cực kỳ quan trọng vì quy định miễn thuế TNCN nhà ở duy nhất.
+- **Lưu ý vanban.chinhphu.vn**: docid range 219000–219300 trả về skeleton JS — cần xác minh bằng browser-automation hoặc search trên chính trang vanban.chinhphu.vn với số hiệu cụ thể ở phiên sau.
+- **Nhóm bổ sung tiềm năng** (chưa xác minh đủ để vào top 5, cần kiểm tra thêm): Thông tư 12/2026/TT-BNV (hướng dẫn trợ cấp cán bộ xã), Thông tư 13/2026/TT-BNV (hướng dẫn lương cơ sở cho đối tượng hưởng lương công lập), Thông tư 14/2026/TT-BNV (hướng dẫn điều chỉnh lương hưu từ 01/7), Thông tư 108/2026/TT-BCA (sát hạch lái xe có hiệu lực 01/7/2026).
+- Nguồn: web_search Brave tổng hợp xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, ninhbinh.gov.vn.
+- Ngày phát hiện: 2026-07-04 07:08 ICT
+- Phiên thực hiện: agent:github-io:subagent:8d582276-bd9a-4380-a29f-42beabe2c034 (Đệ #1 Discovery — lần 16)
+
+---
+
 ## Cập nhật 2026-06-22 (phiên Đệ #1 Discovery — lần 15)
 
 ### Phát hiện mới từ vanban.chinhphu.vn (tối đa 5 văn bản/lần)
