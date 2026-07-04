@@ -2,7 +2,7 @@
 layout: vanban
 title: "Thông tư 26/2026/TT-BTC hướng dẫn thi hành Nghị định 73/2026/NĐ-CP về Luật Ngân sách nhà nước"
 date: 2026-03-25
-modified: 2026-06-16
+modified: 2026-07-04
 so_hieu: 26/2026/TT-BTC
 ngay_ban_hanh: 2026-03-25
 nguoi_ky: Nguyễn Đức Chi
