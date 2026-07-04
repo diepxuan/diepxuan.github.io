@@ -986,3 +986,47 @@ Quét Brave + Gemini vanban.chinhphu.vn + luatvietnam.vn + baochinhphu.vn với 
 
 ---
 
+
+
+## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 20)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn + web_search Brave tổng hợp từ xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, lsvn.vn, vtv.vn, vnreview.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Dân tộc, Viên chức. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-04 lần 19): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 224/2026/NĐ-CP | 24/06/2026 | **Quy định chi tiết một số điều và biện pháp thi hành Luật Chuyển đổi số** — phân loại dịch vụ công trực tuyến chủ động thành 4 mức độ; người dân chỉ cung cấp thông tin một lần khi làm dịch vụ công trực tuyến; hỗ trợ hộ kinh doanh chuyển đổi số; dịch vụ công trực tuyến theo mô hình thống nhất, tập trung trên Cổng DVCQG và Ứng dụng định danh quốc gia; thay thế Nghị định cũ về chuyển đổi số; hiệu lực **01/7/2026** | Hành chính / Chuyển đổi số | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/khoa-hoc/nghi-dinh-224-2026-nd-cp-quy-dinh-chi-tiet-luat-chuyen-doi-so-hieu-luc-tu-01-07-2026-439083-d1.html` (slug 439083, đăng 2026-07-02); nguồn: luatvietnam.vn (chi tiết), baochinhphu.vn, vnexpress.net, lsvn.vn; ngày ban hành: 24/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan nhà nước, người dân, doanh nghiệp; ưu tiên cao vì liên quan dịch vụ công, định danh điện tử |
+| 225/2026/NĐ-CP | 24/06/2026 | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ** — cụ thể hóa Luật Tổ chức Chính phủ và Luật Khoa học và Công nghệ 2025; điều chỉnh cơ cấu tổ chức Bộ KH&CN phù hợp với chức năng mới; hiệu lực **01/7/2026** | Hành chính / KHCN | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/khoa-hoc/nghi-dinh-225-2026-nd-cp-quy-dinh-chuc-nang-nhiem-vu-cua-bo-khoa-hoc-va-cong-nghe-438705-d1.html` (slug 438705, đăng 2026-07-02); nguồn: luatvietnam.vn (danh sách NĐ 01/7/2026); ngày ban hành: 24/6/2026; hiệu lực: 01/7/2026; tác động Bộ KH&CN, cơ quan nghiên cứu, viện nghiên cứu trực thuộc Bộ |
+| 220/2026/NĐ-CP | 22/06/2026 | **Sửa đổi, bổ sung một số điều của Nghị định 67/2023/NĐ-CP** về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, bảo hiểm cháy, nổ bắt buộc, bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng — cập nhật mức phí, quy trình, điều kiện bảo hiểm; cụ thể hóa Luật Kinh doanh bảo hiểm; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm / Xây dựng | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/xay-dung/nghi-dinh-220-2026-nd-cp-sua-doi-bao-hiem-bat-buoc-va-trach-nhiem-dan-su-xe-co-gioi-438421-d1.html` (slug 438421, đăng 2026-07-02); nguồn: luatvietnam.vn (danh sách NĐ 01/7/2026), baochinhphu.vn; ngày ban hành: 22/6/2026; hiệu lực: 01/7/2026; tác động chủ xe cơ giới, doanh nghiệp bảo hiểm, chủ đầu tư xây dựng |
+| 72/2026/TT-BTC | ~tháng 6/2026 | **Quy định mức thu, miễn, giảm, chế độ thu, nộp phí thi hành án dân sự** — quy định mức phí thi hành án dân sự tùy theo số tiền, giá trị tài sản thực nhận; quy định 9 trường hợp miễn phí; cụ thể hóa Luật Thi hành án dân sự; hiệu lực **01/7/2026** | Tư pháp / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: baomoi.com (đăng 2026-07-02), vtv.vn (đăng 2026-07-02), doanhnghiepcuocsong.vn, tapchikinhtetaichinh.vn; Bộ Tài chính ban hành; ngày ban hành: ~tháng 6/2026; hiệu lực: 01/7/2026; tác động đương sự, cơ quan thi hành án dân sự, luật sư; ưu tiên vì liên quan phí tố tụng dân sự |
+| 58/2026/TT-BTC | ~tháng 6/2026 | **Hướng dẫn Chế độ kế toán cho doanh nghiệp siêu nhỏ** — quy định chế độ kế toán đơn giản, phù hợp với doanh nghiệp siêu nhỏ (dưới 3 tỷ doanh thu/năm, dưới 10 lao động); giảm gánh nặng hành chính cho doanh nghiệp nhỏ; cụ thể hóa Luật Kế toán; hiệu lực **01/7/2026** | Tài chính / Kế toán / Doanh nghiệp | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/doanh-nghiep/thong-tu-58-2026-tt-btc-huong-dan-che-do-ke-toan-cho-doanh-nghiep-sieu-nho-435647-d1.html` (slug 435647); nguồn: luatvietnam.vn (danh sách Thông tư 01/7/2026), thuvienphapluat.vn; Bộ Tài chính ban hành; ngày ban hành: ~tháng 6/2026; hiệu lực: 01/7/2026; tác động doanh nghiệp siêu nhỏ toàn quốc; ưu tiên vì giảm gánh nặng hành chính |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-04 lần 19)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 224/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 225/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 220/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 72/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 58/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hành chính / Chuyển đổi số** (ưu tiên số 1 — đã hiệu lực từ 01/7/2026): **224/2026/NĐ-CP** — chi tiết Luật Chuyển đổi số, phân loại dịch vụ công 4 mức, cung cấp thông tin một lần; tác động toàn bộ cơ quan nhà nước, người dân, doanh nghiệp. Nguồn: luatvietnam.vn (slug 439083). Ưu tiên cao vì liên quan dịch vụ công, định danh điện tử, hộ kinh doanh.
+2. **Hành chính / KHCN** (ưu tiên số 2 — đã hiệu lực từ 01/7/2026): **225/2026/NĐ-CP** — cơ cấu tổ chức Bộ KH&CN; tác động cơ quan trực thuộc Bộ. Nguồn: luatvietnam.vn (slug 438705). Cùng đợt với 224.
+3. **Tư pháp / Tài chính** (ưu tiên số 3 — đã hiệu lực từ 01/7/2026): **72/2026/TT-BTC** — phí thi hành án dân sự; tác động đương sự, cơ quan thi hành án. Nguồn: baomoi, vtv.vn. Cần xác minh docid.
+4. **Tài chính / Bảo hiểm** (ưu tiên số 4 — đã hiệu lực từ 01/7/2026): **220/2026/NĐ-CP** — sửa đổi bảo hiểm bắt buộc; tác động chủ xe, doanh nghiệp bảo hiểm. Nguồn: luatvietnam.vn (slug 438421).
+5. **Tài chính / Doanh nghiệp** (ưu tiên số 5 — đã hiệu lực từ 01/7/2026): **58/2026/TT-BTC** — chế độ kế toán doanh nghiệp siêu nhỏ; tác động hàng triệu doanh nghiệp siêu nhỏ. Nguồn: luatvietnam.vn (slug 435647).
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 20. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered nên web_fetch trả về skeleton. Cần xác minh bằng browser-automation hoặc search trên chính trang vanban.chinhphu.vn.
+- **Nhóm hiệu lực 01/7/2026 bổ sung**: 220/2026/NĐ-CP (bảo hiểm) + 224/2026/NĐ-CP (chuyển đổi số) + 225/2026/NĐ-CP (KHCN) bổ sung vào danh sách 49 NĐ cùng hiệu lực 01/7/2026 đã được phát hiện từ lần 15–19. Ưu tiên crawl 224/2026 vì có nội dung liên quan dịch vụ công, định danh điện tử.
+- **Nhóm Thông tư 01/7/2026 bổ sung**: 72/2026/TT-BTC (phí thi hành án dân sự) + 58/2026/TT-BTC (kế toán doanh nghiệp siêu nhỏ) bổ sung vào 72 Thông tư cùng hiệu lực 01/7/2026 đã được phát hiện từ lần 15.
+- **Nhóm 58/2026/TT-BTC**: Đáng chú ý vì giảm gánh nặng hành chính cho doanh nghiệp siêu nhỏ — ưu tiên crawl vì tác động rộng.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, baomoi.com, vtv.vn, doanhnghiepcuocsong.vn, tapchikinhtetaichinh.vn, vnexpress.net, lsvn.vn, thuvienphapluat.vn.
+- Ngày phát hiện: 2026-07-04 23:01 ICT
+- Phiên thực hiện: agent:github-io:subagent:673457b4-153f-47e3-9ab3-d2b7ebc0515b (Đệ #1 Discovery — lần 20)
