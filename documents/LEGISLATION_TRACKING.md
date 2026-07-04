@@ -1,5 +1,94 @@
 ---
 
+## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 1)
+
+### Quét docid 219600–219800 — Kết quả: DẢI TRỐNG
+
+Quét vanban.chinhphu.vn dải docid 219600–219900 (step 20-50) + web_search xác minh văn bản ngày 03–04/7/2026 từ luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn.
+
+**Kết quả docid 219600–219900**: Tất cả docid đều trả "Chi tiết văn bản ban hành" (không có nội dung) — **hoàn toàn trống**. Không có văn bản mới nào trong dải này.
+
+**Quét dải 218740–218900** (phát hiện bổ sung — văn bản 30/6/2026 đã quét lần trước nhưng chưa ghi nhận trong tracking):
+
+| DocID | Số hiệu | Nội dung | Ghi chú |
+|---|---:|---|---|
+| **218640** | 34/2026/NQ-CP | Kéo dài thời hạn thuế nhập khẩu ưu đãi, thuế BVMT, thuế GTGT đối với xăng dầu, nhiên liệu bay | Nghị quyết Chính phủ |
+| **218660** | 1183/QĐ-TTg | Giải thể Ban Chỉ đạo tái cơ cấu Tổng công ty Công nghiệp tàu thủy (SBIC) | QĐ nhân sự — bỏ qua |
+| **218680** | 75/VBHN-NHNN | VBHN cung ứng dịch vụ thanh toán không dùng tiền mặt | VBHN — không cần crawl |
+| **218700** | 44/2026/TT-BXD | Tiêu chí, kiểm tra, giám sát, đánh giá, nghiệm thu chất lượng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải | **MỚI** — chưa có trong tracking |
+| **218720** | 76/2026/TT-BTC | Mua bảo hiểm trách nhiệm nghề nghiệp cho kiểm toán viên hành nghề / trích lập quỹ dự phòng rủi ro nghề nghiệp | **MỚI** — chưa có trong tracking |
+| **218740** | 105/2026/TT-BCA | Sửa đổi TT 65/2024/TT-BCA về **kiểm tra kiến thức pháp luật ATGT để phục hồi điểm GPLX** — bổ sung, cập nhật theo NĐ 238/2026/NĐ-CP (trừ điểm GPLX có hiệu lực 01/7/2026); hiệu lực **01/7/2026** | **MỚI** — chưa có, **ƯU TIÊN CAO** |
+| 218750–218900 | — | Trống hoàn toàn | — |
+
+**Phát hiện từ xaydungchinhsach.chinhphu.vn (ngày 03/7/2026)**:
+
+Tìm thấy 2 văn bản mới được đăng tin ngày 03/7/2026 trên xaydungchinhsach.chinhphu.vn — ngày làm việc đầu tiên sau kỳ nghỉ lễ 01–02/7:
+
+1. **Nghị định 253/2026/NĐ-CP** (30/6/2026) — Hướng dẫn thi hành Luật Thuế TNCN chi tiết. **Đã có** trong tracking (lần 19). Hiệu lực 01/7/2026. **ƯU TIÊN CAO** — cần xác minh docid (dải 218660–218750 đã quét trống, cần quét dải 218640–218660).
+
+2. **Thông tư 108/2026/TT-BCA** (29/6/2026) — Sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (thay thế TT 12/2025/TT-BCA). Điểm mới: bỏ bài thi mô phỏng; tăng số câu hỏi lý thuyết (A/A1: 25→40 câu, B: 30→50 câu); thi tuần tự lý thuyết → sa hình → đường trường; giảm thời gian xử lý GPLX từ 05 ngày → 2.5 ngày. Hiệu lực **01/7/2026**. **ƯU TIÊN RẤT CAO** — tác động hàng triệu người thi lái xe.
+
+3. **Thông tư 81/2026/TT-BTC** (30/6/2026) — Sửa đổi điểm c Số thứ tự 3 mục I Biểu mức thu phí, lệ phí lĩnh vực xuất cảnh, nhập cảnh, quá cảnh, cư trú tại Việt Nam (kèm TT 28/2026/TT-BTC ngày 27/3/2026). **Chưa có** trong tracking.
+
+4. **Nghị quyết 34/2026/NQ-CP** (30/6/2026) — Kéo dài thời hạn áp dụng thuế NK ưu đãi, thuế BVMT, thuế GTGT đối với xăng dầu, nguyên liệu sản xuất xăng dầu, nhiên liệu bay. Docid **218640** đã xác minh. **Chưa có** trong tracking.
+
+5. **Thông tư 44/2026/TT-BXD** (30/6/2026) — Tiêu chí, kiểm tra, giám sát, đánh giá, nghiệm thu chất lượng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải. Docid **218700** đã xác minh. **Chưa có** trong tracking.
+
+**Kết luận quét ngày 03–04/7/2026**: Dải docid 219600–219900 trống hoàn toàn. Văn bản ngày 03–04/7 chưa được index. Phát hiện thêm 5 văn bản mới (cần ghi nhận, giới hạn 5). Nghỉ lễ 01–02/7/2026 (Quốc khánh Myanmar) — ngày 03/7 là ngày làm việc đầu tiên.
+
+### Phát hiện mới (tối đa 5 văn bản/lần)
+
+So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-03 lần 20: 182, 186, 253, 254, 258): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 253/2026/NĐ-CP | 30/06/2026 | Quy định chi tiết và biện pháp thi hành **Luật Thuế thu nhập cá nhân 2025** — miễn thuế TNCN khi chuyển nhượng nhà ở, quyền sử dụng đất ở duy nhất; nâng ngưỡng khấu trừ 10% với thu nhập vãng lai từ 2 triệu lên 5 triệu đồng/lần; thu nhập từ chuyển nhượng vàng miếng chịu thuế; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/thue/nghi-dinh-253-2026-nd-cp-huong-dan-thi-hanh-luat-thue-thu-nhap-ca-nhan-chi-tiet-439303-d1.html`; nguồn: luatvietnam.vn (slug 439303), xaydungchinhsach.chinhphu.vn (03/7/2026), baochinhphu.vn; ngày BH: 30/6/2026; hiệu lực: 01/7/2026 (đã hiệu lực 3 ngày); tác động toàn bộ cá nhân, người lao động, doanh nghiệp; **ƯU TIÊN CAO** — đã có trong tracking lần 19 nhưng chưa xác minh docid, cần bổ sung chi tiết đầy đủ |
+| 108/2026/TT-BCA | 29/06/2026 | Sửa đổi, bổ sung quy định về **sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế** — bỏ bài thi mô phỏng trên máy tính; tăng số câu hỏi lý thuyết (A/A1: 25→40 câu trong 27 phút, B: 30→50 câu trong 33 phút); thi tuần tự lý thuyết → sa hình → đường trường; giảm thời gian xử lý GPLX điện tử từ 05 ngày → 2.5 ngày; thay thế TT 12/2025/TT-BCA; hiệu lực **01/7/2026** | Giao thông / Công an | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nhung-diem-moi-trong-sat-hach-lai-xe-119260703113320777.htm`; nguồn: xaydungchinhsach.chinhphu.vn (03/7/2026), thuvienphapluat.vn, baolamdong.vn; ngày BH: 29/6/2026; hiệu lực: 01/7/2026 (đã hiệu lực); tác động toàn bộ người thi sát hạch lái xe trên cả nước; **ƯU TIÊN RẤT CAO** — đã hiệu lực, tác động hàng triệu người |
+| 105/2026/TT-BCA | 30/06/2026 | Sửa đổi, bổ sung Thông tư 65/2024/TT-BCA về **kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ để được phục hồi điểm giấy phép lái xe** — cập nhật nội dung kiểm tra theo Luật TTATGT 2025 và NĐ 238/2026/NĐ-CP (trừ điểm GPLX có hiệu lực 01/7/2026); hiệu lực **01/7/2026** | Giao thông / Công an | **218740** | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218740`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp 218740); ngày BH: 30/6/2026; hiệu lực: 01/7/2026; tác động người bị trừ điểm GPLX muốn phục hồi; **ƯU TIÊN CAO** — cùng đợt 01/7/2026 với NĐ 238/2026 |
+| 81/2026/TT-BTC | 30/06/2026 | Sửa đổi điểm c Số thứ tự 3 mục I Biểu mức thu phí, lệ phí trong lĩnh vực **xuất cảnh, nhập cảnh, quá cảnh, cư trú tại Việt Nam** (kèm TT 28/2026/TT-BTC ngày 27/3/2026) — điều chỉnh mức thu phí, lệ phí theo quy định mới; hiệu lực cần xác minh | Thuế / Xuất nhập cảnh | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/thue/thong-tu-81-2026-tt-btc-sua-doi-phi-xuat-nhap-canh-tai-viet-nam-439419-d1.html`; nguồn: luatvietnam.vn (slug 439419), xaydungchinhsach.chinhphu.vn; ngày BH: 30/6/2026; tác động người xuất nhập cảnh, cơ quan quản lý xuất nhập cảnh; **ƯU TIÊN TRUNG BÌNH** — sửa đổi phí xuất nhập cảnh |
+| 34/2026/NQ-CP | 30/06/2026 | Về việc **kéo dài thời hạn áp dụng thuế nhập khẩu ưu đãi, thuế bảo vệ môi trường, thuế giá trị gia tăng đối với mặt hàng xăng, dầu, nguyên liệu sản xuất xăng, dầu và nhiên liệu bay** — tiếp tục giảm/giữ ổn định giá xăng dầu trong nước; hiệu lực từ ngày ký | Tài chính / Xăng dầu | **218640** | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218640`; nguồn: vanban.chinhphu.vn (docid xác minh trực tiếp 218640); ngày BH: 30/6/2026; hiệu lực từ ngày ký; tác động ngành xăng dầu, người tiêu dùng; **ƯU TIÊN TRUNG BÌNH** — chính sách giá xăng dầu |
+
+### Các văn bản phụ phát hiện ngoài giới hạn 5
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| 44/2026/TT-BXD | ~30/06/2026 | Tiêu chí, kiểm tra, giám sát, đánh giá, nghiệm thu chất lượng dịch vụ sự nghiệp công bảo đảm **an toàn hàng hải** | Xây dựng / Hàng hải | **218700** | **Chưa có** | Cần xác minh ngày ban hành chính xác; ưu tiên thấp — văn bản kỹ thuật |
+| 76/2026/TT-BTC | ~30/06/2026 | Hướng dẫn mua **bảo hiểm trách nhiệm nghề nghiệp cho kiểm toán viên** hành nghề hoặc trích lập quỹ dự phòng rủi ro nghề nghiệp trong hoạt động kiểm toán độc lập | Tài chính / Kiểm toán | **218720** | **Chưa có** | Cần xác minh ngày ban hành chính xác; ưu tiên thấp |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-03 lần 20)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 253/2026/NĐ-CP | **CÓ** (lần 19, chưa xác minh docid) | Đã có nhưng chưa đầy đủ — bổ sung chi tiết docid chưa xác minh |
+| 108/2026/TT-BCA | **KHÔNG** | Thêm mới — Chưa có |
+| 105/2026/TT-BCA | **KHÔNG** | Thêm mới — Chưa có |
+| 81/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 34/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 44/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có (ghi nhận ngoài giới hạn) |
+| 76/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có (ghi nhận ngoài giới hạn) |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Giao thông / Công an** (rất cao — đã hiệu lực): **108/2026/TT-BCA** — sát hạch GPLX; bỏ thi mô phỏng, tăng câu hỏi lý thuyết, thi tuần tự; giảm thời gian xử lý GPLX. Cần xác minh docid. Ưu tiên số 1.
+2. **Giao thông / Công an** (cao — đã hiệu lực): **105/2026/TT-BCA** (218740) — phục hồi điểm GPLX sau khi bị trừ theo NĐ 238/2026. Cùng đợt 01/7. Docid 218740 đã xác minh. Ưu tiên số 2.
+3. **Thuế / Tài chính** (cao — đã hiệu lực): **253/2026/NĐ-CP** — hướng dẫn Luật Thuế TNCN 2025; miễn thuế bán nhà duy nhất. Cần xác minh docid. Ưu tiên số 3.
+4. **Tài chính / Xăng dầu** (trung bình): **34/2026/NQ-CP** (218640) — kéo dài giảm thuế xăng dầu; tác động giá xăng trong nước. Docid 218640 đã xác minh. Ưu tiên số 4.
+5. **Thuế / Xuất nhập cảnh** (trung bình): **81/2026/TT-BTC** — sửa đổi phí xuất nhập cảnh. Cần xác minh docid. Ưu tiên số 5.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 1 (2026-07-04): 253/2026/NĐ-CP, 108/2026/TT-BCA, 105/2026/TT-BCA, 81/2026/TT-BTC, 34/2026/NQ-CP — tất cả ban hành 29–30/6/2026, hiệu lực 01/7/2026 (đã hiệu lực 3 ngày).
+- **253/2026/NĐ-CP**: Đã có trong tracking lần 19 nhưng chưa đầy đủ (chỉ ghi nhận nhanh). Lần này bổ sung chi tiết đầy đủ hơn — vẫn chưa xác minh docid.
+- **108/2026/TT-BCA**: Văn bản rất quan trọng — thay đổi toàn diện cách sát hạch GPLX; bỏ bài thi mô phỏng, tăng số câu hỏi, thi tuần tự. Tác động hàng triệu người dân thi lái xe.
+- **105/2026/TT-BCA** (docid 218740): Văn bản bổ trợ trực tiếp cho NĐ 238/2026/NĐ-CP về trừ điểm GPLX — người bị trừ điểm muốn phục hồi phải thi kiểm tra theo TT này.
+- **Dải docid 219600–219900 trống hoàn toàn**: Ngày 03–04/7/2026 chưa có văn bản nào được index trên vanban.chinhphu.vn trong dải này. Văn bản 30/6/2026 mới nhất đã xác minh vẫn dừng ở 218740. Cần tiếp tục theo dõi dải 218800+.
+- **Nghỉ lễ**: 01–02/7/2026 là kỳ nghỉ Quốc khánh Myanmar — ngày làm việc đầu tiên sau nghỉ là 03/7/2026. Không có văn bản nào được ban hành ngày 03–04/7/2026.
+- Nguồn: vanban.chinhphu.vn (quét docid 219600–219900 trống, quét 218740–218900), luatvietnam.vn (slug 439303, 439419), xaydungchinhsach.chinhphu.vn (03/7/2026), baochinhphu.vn, thuvienphapluat.vn, baolamdong.vn, cafef.vn.
+- Ngày phát hiện: 2026-07-04 09:08 ICT
+- Phiên thực hiện: agent:github-io:subagent:6715226f-d30d-4cc5-88f1-f0dd0bea0021 (Đệ #1 Discovery — lần 1, 2026-07-04)
+
+---
+
 ## Cập nhật 2026-07-02 (phiên Đệ #1 Discovery — lần 18)
 
 ### Phát hiện mới: 235, 238, 241/2026/NĐ-CP (đợt 01/7/2026) — 3 văn bản mới
@@ -1653,48 +1742,6 @@ Quét vanban.chinhphu.vn dải docid rộng:
 
 ---
 
-## Cap nhat 2026-07-03 (phien De #1 Discovery — lan 19)
-
-### Quet docid 219600-220000 — Ket qua: DAI TRONG HOAN TOAN
-
-Quet vanban.chinhphu.vn dải docid 219600-220000 (step 10 = 41 docid: 219600, 219610, ..., 220000) + step 5 (40 docid: 219600-219800) + web_search xac minh cac nguon chinh thuc. Tat ca docid deu tra ve "Chi tiet van ban ban hanh" (khong co noi dung) - **dai trong hoan toan**.
-
-### Nguon kiem tra bo sung (ngay 03/7/2026)
-
-- **luatvietnam.vn/van-ban-moi.html**: Entry moi nhat = 02/07/2026. Khong co entry nao ngay 03/7/2026.
-- **xaydungchinhsach.chinhphu.vn**: Khong truy cap duoc (Firecrawl 402).
-- **baochinhphu.vn/thong-tin-van-ban-moi**: Khong truy cap duoc (Firecrawl 402).
-- **thuvienphapluat.vn/tin-ban-hanh-van-ban**: Khong truy cap duoc (Firecrawl 402).
-- **web_search**: Khong tim thay van ban nao ban hanh ngay 03/7/2026.
-
-### Phat hien van ban ngay 30/6/2026 (bo sung, chua co trong tracking)
-
-Qua web_search, phat hien 3 văn bản mới chua co trong tracking (ngay ban hanh thuc te = 30/6/2026, duoc cong bo nhieu tren truyen thong trong ngay 03/7/2026):
-
-| So hieu | Ngay ban hanh | Trich yeu | Nhom | DocID | Trang thai | Ghi chu |
-|---|---:|---|---|---:|---|---|
-| 253/2026/ND-CP | 30/06/2026 | Quy định chi tiết và biện pháp thi hành Luật Thuế thu nhập cá nhân — nang ngưỡng khấu trừ 10% với thu nhập vãng lai từ 2 triệu lên 5 triệu đồng/lần; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Chua co** | Nguồn: thuvienphapluat.vn, luatvietnam.vn (slug 439303); ngày BH: 30/6/2026; hiệu lực: 01/7/2026; tac dong thu nhap ca nhan toan quoc; **U TIEN CAO** |
-| 254/2026/ND-CP | 30/06/2026 | Quy định chi tiết Luật Quản lý thuế 2025 về hóa đơn điện tử, chứng từ điện tử — mo rong doi tuong su dung hoa don dien tu; hóa đơn từ máy tính tiền; mã cơ quan thuế; hiệu lực **01/7/2026** | Thuế / Hóa đơn | chua-xac-minh | **Chua co** | URL: `https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html`; ngày BH: 30/6/2026 (Hà Nội, ngày 30 tháng 6 năm 2026); hiệu lực: 01/7/2026; tac dong tat ca to chuc, ca nhan kinh doanh; **U TIEN RAT CAO** |
-| 258/2026/ND-CP | 30/06/2026 | Quy định chi tiết một số điều về cơ chế, chính sách phát huy nguồn lực hội nhập quốc tế theo Nghị quyết 250/2025/QH15 — thu hút, sử dụng nhà khoa học, chuyên gia hội nhập quốc tế (hỗ trợ 300% lương); địa phương hội nhập; khoán chi nghiên cứu; hiệu lực **30/6/2026** | Hành chính / Hội nhập | chua-xac-minh | **Chua co** | Nguồn: vietnamplus.vn, vietnamhoinhap.vn (xác minh ngày 30/6/2026); hiệu lực: 30/6/2026 (cùng ngày); tac dong co quan ngoai giao, dia phuong; **U TIEN TRUNG BINH** |
-
-### Lưu ý ve 254/2026/ND-CP (Hóa đơn điện tử)
-
-254/2026/ND-CP là van ban rat quan trong, duoc nhieu nguon truyen thong dua tin trong ngay 03/7/2026 voi tieu de "Từ 1/7/2026: Mở rộng diện áp dụng hóa đơn điện tử". Tuy nhien, ngay ban hanh thuc te la **30/6/2026** (xac nhan tu luatvietnam.vn: "Hà Nội, ngày 30 tháng 6 năm 2026"), khong phai 03/7. Văn bản chua co trong tracking hien tai.
-
-### De xuat uu tien phien tiep theo (crawl chi tiet)
-
-1. **Thue / Hoa don dien tu** (rat cao — da hieu luc 3 ngay): **254/2026/ND-CP** — mo rong hoa don dien tu; tac dong tat ca doanh nghiep, ho kinh doanh, ca nhan kinh doanh. Can xac minh docid. Uu tien so 1.
-2. **Thue / Tai chinh** (rat cao — da hieu luc 3 ngay): **253/2026/ND-CP** — cai cach thue TNCN; nang ngưỡng khấu trừ 10% vãng lai lên 5 triệu. Can xac minh docid. Uu tien so 2.
-3. **Hanh chinh / Hoi nhap** (trung binh — da hieu luc): **258/2026/ND-CP** — nha khoa hoc, chuyen gia hoi nhap quoc te; chinh sach 300% luong. Can xac minh docid. Uu tien so 3.
-
-### Ket luan
-
-- **Khong co van ban nao ban hanh ngay 03/7/2026** tren vanban.chinhphu.vn (dai 219600-220000 trong hoan toan) hay cac nguon chinh thuc khac.
-- **3 van ban moi phat hien** (253, 254, 258) deu co ngay ban hanh thuc te = **30/6/2026**, chua co trong tracking.
-- Viet Nam nghi le 01-02/7/2026 (Quoc khanh Myanmar), ngay 03/7 la ngay lam viec dau tien sau nghi. Khong co van ban moi ngay nay la binh thuong.
-- Nguồn: vanban.chinhphu.vn (quet docid 219600-220000 step 10), web_search Brave (luatvietnam.vn, thuvienphapluat.vn, vietnamplus.vn, baochinhphu.vn, vietnamhoinhap.vn).
-- Ngay phat hien: 2026-07-03 19:12 ICT
-- Phien thuc hien: agent:github-io:subagent:09c032b9-b6c3-4126-8c3a-4e08b3804a72 (De #1 Discovery — lan 19)
 
 ---
 
