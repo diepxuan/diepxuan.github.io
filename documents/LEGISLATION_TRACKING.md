@@ -1030,3 +1030,55 @@ Quét vanban.chinhphu.vn + web_search Brave tổng hợp từ xaydungchinhsach.c
 - Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, baomoi.com, vtv.vn, doanhnghiepcuocsong.vn, tapchikinhtetaichinh.vn, vnexpress.net, lsvn.vn, thuvienphapluat.vn.
 - Ngày phát hiện: 2026-07-04 23:01 ICT
 - Phiên thực hiện: agent:github-io:subagent:673457b4-153f-47e3-9ab3-d2b7ebc0515b (Đệ #1 Discovery — lần 20)
+
+---
+
+## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 21)
+
+### Phát hiện mới từ web_search Brave tổng hợp + web_fetch baochinhphu.vn (tối đa 5 văn bản/lần)
+
+Quét web_search Brave tổng hợp từ luatvietnam.vn, baochinhphu.vn, vtv.vn, vietnamplus.vn, xaydungchinhsach.chinhphu.vn theo **nhóm chưa quét kỹ**: Năng lượng, Nông nghiệp, Lâm nghiệp, Ngân hàng, Chứng khoán, Thể thao, Văn hóa, Du lịch. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-04 lần 19): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 34/2026/NQ-CP | 30/06/2026 | **Kéo dài thời hạn giảm thuế nhập khẩu, thuế bảo vệ môi trường và VAT đối với xăng, dầu, nguyên liệu sản xuất xăng, dầu và nhiên liệu bay đến hết 30/9/2026** — kéo dài NQ 25/2026/NQ-CP và NĐ 72/2026/NĐ-CP (thuế nhập khẩu ưu đãi về 0); kéo dài NQ 19/2026/QH16 (thuế BVMT, VAT) đến hết 30/9/2026; Bộ Công Thương có thể đề xuất rút ngắn hoặc kéo dài thời gian để bảo đảm an ninh năng lượng và ổn định thị trường xăng dầu; hiệu lực **01/7/2026 đến 30/9/2026** | Thuế / Năng lượng | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/thue/nghi-quyet-34-2026-nq-cp-keo-dai-thue-nhap-khau-bao-ve-moi-truong-vat-cho-xang-dau-439075-d1.html`; nguồn: luatvietnam.vn (slug 439075, đăng 2026-07-04), vtv.vn (2026-07-04), baomoi.com; ngày ban hành: 30/6/2026; hiệu lực: 01/7–30/9/2026; tác động toàn bộ doanh nghiệp, người tiêu dùng xăng dầu; kéo dài tiếp chính sách giảm thuế xăng dầu |
+| 29/2026/TT-NHNN | 30/06/2026 | **Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng** — cập nhật quy định về cho vay của tổ chức tín dụng (TCTD); điều kiện, thủ tục cho vay; quyền và nghĩa vụ của TCTD và khách hàng vay; thay thế một phần TT 39/2016/TT-NHNN; hiệu lực **01/7/2026** | Ngân hàng / Tín dụng | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/tai-chinh/thong-tu-29-2026-tt-nhnn-sua-doi-thong-tu-39-2016-ve-cho-vay-cua-to-chuc-tin-dung-439082-d1.html`; nguồn: luatvietnam.vn (slug 439082, đăng 2026-07-04), vnbabank.org.vn (đăng 2026-07-03), vba.org.vn; ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ TCTD, chi nhánh ngân hàng nước ngoài, người vay tại Việt Nam; **sửa đổi TT 39/2016 — văn bản cơ bản về cho vay ngân hàng** |
+| 12/2026/TT-BVHTTDL | ~25/06/2026 | **Quy định chi tiết một số điều của Luật Quảng cáo và Nghị định quy định chi tiết một số điều của Luật Quảng cáo** — hướng dẫn chi tiết quy định về quảng cáo theo Luật Quảng cáo 2025; điều kiện, hình thức, nội dung quảng cáo; trách nhiệm của các bên; thay thế các Thông tư cũ hướng dẫn; hiệu lực **01/7/2026** (cùng Luật Quảng cáo 2025) | Văn hóa / Quảng cáo | chua-xac-minh | **Chưa có** | Nguồn: spirit.vietnamairlines.com (bản tin pháp luật tháng 7/2026, đăng 2026-07-04), xaydungchinhsach.chinhphu.vn; ngày ban hành: ~25/6/2026; hiệu lực: 01/7/2026; tác động doanh nghiệp quảng cáo, nhà quảng cáo, người tiếp nhận quảng cáo; cùng đợt với Luật Quảng cáo 2025 |
+| 182/2026/NĐ-CP | ~17/06/2026 | **Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập** — mức phụ cấp ưu đãi **từ 20% đến 80%** dựa trên cấp học, tính chất đặc thù môn học, điều kiện khó khăn địa bàn; mức cao nhất 70–80% cho vùng đặc biệt khó khăn, trường chuyên biệt, trường dân tộc nội trú; cụ thể hóa chính sách tăng lương 01/7/2026; hiệu lực **07/7/2026** | Giáo dục / Lao động | 218228 | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218228` (docid từ baochinhphu.vn); nguồn: baochinhphu.vn (2026-07-04), vietnamplus.vn, kenh14.vn; ngày ban hành: ~17/6/2026; hiệu lực: 07/7/2026 (khác 01/7 — lưu ý); tác động nhà giáo, cán bộ quản lý giáo dục, nhân sự hỗ trợ giáo dục trong trường công lập toàn quốc; **phụ cấp ưu đãi theo nghề** |
+| 236/2026/NĐ-CP | ~28/06/2026 | **Sửa đổi, bổ sung một số điều của NĐ 151/2024/NĐ-CP** ngày 15/11/2024 quy định chi tiết Luật Trật tự, an toàn giao thông đường bộ (được sửa bởi NĐ 184/2025/NĐ-CP ngày 01/7/2025) — bổ sung trường thông tin sát hạch, cấp giấy phép lái xe và quản lý điểm giấy phép lái xe; thông tin xe cơ giới nước ngoài do người nước ngoài điều khiển tại Việt Nam; thông tin đơn vị kinh doanh vận tải, phù hiệu xe kinh doanh vận tải; hiệu lực **01/7/2026** | Giao thông / Trật tự ATGT | chua-xac-minh | **Chưa có** | Nguồn: baochinhphu.vn (2026-07-04); ngày ban hành: ~28/6/2026; hiệu lực: 01/7/2026; tác động cơ quan quản lý GT, người lái xe, đơn vị vận tải; bổ sung NĐ 151/2024 về đăng ký xe, GPLX; **cần xác minh chính xác ngày ban hành** |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-04 lần 19)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 34/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 29/2026/TT-NHNN | **KHÔNG** | Thêm mới — Chưa có |
+| 12/2026/TT-BVHTTDL | **KHÔNG** | Thêm mới — Chưa có |
+| 182/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 236/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Ngân hàng / Tín dụng** (ưu tiên số 1 — đã hiệu lực từ 01/7/2026): **29/2026/TT-NHNN** — sửa đổi TT 39/2016 về cho vay TCTD; tác động toàn bộ hệ thống ngân hàng và người vay. Nguồn: luatvietnam.vn (slug 439082). **Ưu tiên số 1** vì TT 39/2016 là văn bản nền tảng về cho vay ngân hàng.
+2. **Giáo dục / Lao động** (ưu tiên số 2 — hiệu lực 07/7/2026): **182/2026/NĐ-CP** — phụ cấp ưu đãi nhà giáo 20–80%; tác động nhà giáo, cán bộ quản lý, nhân sự hỗ trợ giáo dục; có docid 218228 từ vanban.chinhphu.vn. **Ưu tiên vì đã có docid.**
+3. **Thuế / Năng lượng** (ưu tiên số 3 — hiệu lực 01/7–30/9/2026): **34/2026/NQ-CP** — kéo dài giảm thuế xăng dầu; tác động toàn bộ người tiêu dùng xăng dầu, doanh nghiệp; kéo dài đến 30/9/2026. Nguồn: luatvietnam.vn (slug 439075).
+4. **Văn hóa / Quảng cáo** (ưu tiên số 4 — hiệu lực 01/7/2026): **12/2026/TT-BVHTTDL** — hướng dẫn Luật Quảng cáo 2025; tác động doanh nghiệp quảng cáo. Nguồn: spirit.vietnamairlines.com (bản tin tháng 7). **Cần xác minh ngày ban hành chính xác.**
+5. **Giao thông / Trật tự ATGT** (ưu tiên số 5 — đã hiệu lực từ 01/7/2026): **236/2026/NĐ-CP** — sửa đổi NĐ 151/2024 về GT đường bộ; bổ sung GPLX, xe nước ngoài, phù hiệu vận tải. Nguồn: baochinhphu.vn. **Cần xác minh ngày ban hành chính xác** — có thể là 25/6 hoặc 26/6/2026.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 21. Đây là các văn bản từ nhóm **chưa quét kỹ** (Năng lượng, Ngân hàng, Văn hóa, Giáo dục, Giao thông) — kết quả của việc mở rộng phạm vi scan theo yêu cầu.
+- **Docid đã xác minh**: 182/2026/NĐ-CP (docid **218228** từ baochinhphu.vn + vanban.chinhphu.vn). Các văn bản khác cần xác minh docid.
+- **182/2026/NĐ-CP**: Lưu ý hiệu lực **07/7/2026** (khác nhóm chính 01/7) — ghi chú trong trích yếu. Phụ cấp ưu đãi nhà giáo theo nghề là chính sách mới, tách biệt với tăng lương cơ sở.
+- **29/2026/TT-NHNN**: Sửa đổi TT 39/2016/TT-NHNN — văn bản nền tảng về cho vay của TCTD. Rất quan trọng vì ảnh hưởng đến toàn bộ hoạt động tín dụng ngân hàng tại Việt Nam.
+- **34/2026/NQ-CP**: Kéo dài chính sách giảm thuế xăng dầu lần 2 — lần 1 là NQ 25/2026/NQ-CP (30/4/2026). Lần 2 này kéo dài đến hết 30/9/2026. Không cần crawl chi tiết (NQ đơn giản, đã có nội dung từ luatvietnam).
+- **12/2026/TT-BVHTTDL**: Cần xác minh ngày ban hành chính xác — trích yếu từ bản tin Vietnam Airlines ghi "Thông tư 12/2026/TT-BVHTTDL của Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết một số điều của Luật Quảng cáo" (bản tin đăng 2026-07-04). Có thể ban hành 25-26/6/2026.
+- **236/2026/NĐ-CP**: Cần xác minh ngày ban hành chính xác. Có thể ban hành 25-26/6/2026 (cùng đợt với 232-235). Hiệu lực 01/7/2026.
+- **Các văn bản đang chờ tiếp theo** (bổ sung lần 21): 34/2026/NQ-CP, 29/2026/TT-NHNN, 12/2026/TT-BVHTTDL, 182/2026/NĐ-CP, 236/2026/NĐ-CP + 17 văn bản đang chờ từ lần 16–19 (161, 162, 174, 137/2026/NĐ-CP, 25/2026/TT-BYT, 232, 233, 235/2026/NĐ-CP, 254, 244, 252, 237/2026/NĐ-CP, 234/2026/NĐ-CP). Tổng cộng **22 văn bản đang chờ crawl chi tiết**.
+- **Nhóm NHNN / Ngân hàng**: 29/2026/TT-NHNN là văn bản quan trọng đầu tiên từ nhóm NHNN. Cần ưu tiên crawl trước vì sửa đổi TT 39/2016.
+- **Nhóm Giáo dục 01/7–07/7/2026**: 182/2026/NĐ-CP (phụ cấp ưu đãi nhà giáo — hiệu lực 07/7/2026). Nhóm này có thể còn văn bản khác chưa phát hiện (ví dụ: Thông tư về lương giáo viên, phụ cấp ưu tiên vùng).
+- **Nhóm Văn hóa 01/7/2026**: 12/2026/TT-BVHTTDL (Luật Quảng cáo 2025). Cần quét thêm văn bản Văn hóa — Thể thao — Du lịch hiệu lực 01/7/2026.
+- **Nhóm Giao thông 01/7/2026**: 236/2026/NĐ-CP (sửa đổi NĐ 151/2024). Cần quét thêm văn bản Giao thông hiệu lực 01/7/2026 (nhiều NĐ sửa đổi NĐ 151/2024, 100/2019 về đăng ký xe, GPLX).
+- Nguồn: web_search Brave tổng hợp baochinhphu.vn, luatvietnam.vn, vtv.vn, vietnamplus.vn, spirit.vietnamairlines.com, vnbabank.org.vn, vba.org.vn, kenh14.vn, baomoi.com.
+- Ngày phát hiện: 2026-07-05 01:55 ICT
+- Phiên thực hiện: agent:github-io:subagent:81d54090-bae8-4d44-96b0-d88e9816368c (Đệ #1 Discovery — lần 21)
