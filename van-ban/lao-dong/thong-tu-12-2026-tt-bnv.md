@@ -27,7 +27,7 @@ source: luatnguyen.vn
 | **Ngày hiệu lực** | 01 tháng 7 năm 2026 |
 | **Người ký** | Thứ trưởng Nguyễn Mạnh Khương |
 | **Thay thế** | Thông tư 08/2024/TT-BNV ngày 05/7/2024 |
-| **Cănn cứ pháp luật** | Nghị định 25/2025/NĐ-CP; Nghị định 162/2026/NĐ-CP |
+| **Căn cứ pháp luật** | Nghị định 25/2025/NĐ-CP; Nghị định 162/2026/NĐ-CP |
 
 ## VĂN BẢN
 

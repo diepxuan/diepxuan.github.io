@@ -1,8 +1,9 @@
 ---
+layout: vanban
 title: "Nghị định 244/2026/NĐ-CP quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước"
-layout: page
 date: 2026-06-26
-modified: 2026-07-04
+modified: 2026-07-05
+group: hanh-chinh
 so_hieu: "244/2026/NĐ-CP"
 loai: "Nghị định"
 co_quan: "Chính phủ"
@@ -108,7 +109,7 @@ a) Người đứng đầu cơ quan hành chính nhà nước;
 b) Người được người đứng đầu cơ quan hành chính nhà nước giao nhiệnh
 vụ là người phát ngôn thường xuyên;
 
-©) Người có trách nhiệm thuộc cơ quan hành chính nhà nước được người
+g) Người có trách nhiệm thuộc cơ quan hành chính nhà nước được người
 đứng đầu ủy quyền thực hiện nhiệm vụ của người phát ngôn (sau đây gọi chung
 lä người được ủy quyền phát ngôn) về những vấn đề cụ thể được giao.
 
@@ -267,7 +268,7 @@ quy định hiện hành và Cổng Thông tin điện tử Chính phủ (nếu 
 ### Điều 7. Phát ngôn trong trường hợp đột xuất, bất thường
 
 1. Trường hợp xảy ra sự cố mang tính quốc gia liên quan đến quốc phòng,
-an ninh quôc gia, trật tự, an toàn xã hội, sức khỏe của cộng đồng, trừ trường
+an ninh quốc gia, trật tự, an toàn xã hội, sức khỏe của cộng đồng, trừ trường
 hợp ban bề tình trạng khẩn cấp, thiết quân luật, giới nghiêm và các trường hợp
 khác theo quy định của Luật chuyên ngành, Thủ tướng Chính phủ hoặc người
 phát ngôn của Chính phủ thực hiện phát ngôn và cùng cấp thông tin cho báo
@@ -283,7 +284,7 @@ sự cô.
 thuộc phạm vi quản lý của cơ quan hành chính nhà nước, trừ các trường hợp
 quy định tại khoản 1 và khoản 2 Điều này, chậm nhất là 24 giờ kế từ thời điểm
 
-cơ quan hành chính nhà nước tiếp nhận và xử tý vụ việc theo thâm quyền, người
+cơ quan hành chính nhà nước tiếp nhận và xử tý vụ việc theo thẩm quyền, người
 phát ngôn phải thực hiện phát ngôn và cung cấp thông tin ban đầu cho báo khí
 để kịp thời cảnh báo, định hướng dư luận và hạn chế xảy ra khủng hoáng truyền
 thông, lan truyền thông tin sai lệch, không chính xác.
@@ -335,7 +336,7 @@ nhất thuộc phạm ví quản lý. |
 
 1. Cơ quan báo chí, nhà báo, phóng viên có trách nhiệm đăng, phát, phản
 ánh trung thực, khách quan, đầy đủ nội dung thông tin do người phát ngôn cung
-cấp, khi chuyên sang ngôn ngữ khác phải đúng thuật ngữ chuyên môn quôc tế
+cấp, khi chuyên sang ngôn ngữ khác phải đúng thuật ngữ chuyên môn quốc tế
 và không làm thay đổi bản chất của thông tin gốc; đồng thời phải ghi rõ họ tên
 người phát ngôn và tên cơ quan hành chính nhà nước.
 
@@ -349,7 +350,6 @@ bc Gợ quan -báo si phải đăng, phát ý kiến phản hồi của người
 và thự rỉ cải. cl ƒhf; xin lỗi theo quy định pháp luật đối với các nội dung
 
 hông ông cHiàh xác, sai sự thật.
-¬===
 
 đăng tải
 
@@ -365,13 +365,13 @@ chính nhà nước trước ngày 20 tháng 12 hàng năm
 2. Thời gian chốt số liệu báo cáo tính từ ngày 15 tháng 12 năm trước kỳ
 báo cáo đến ngày 14 tháng 12 của kỳ báo cáo.
 . Chương -
-ĐIÊU KHOẢN THỊ HÀNH
+ĐIỀU KHOẢN THI HÀNH
 ### Điều 11. Hiệu lực thi hành
 1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
 
 2. Nghị định số 09/2017/NĐ-CP ngày 09 tháng 02 năm 2017 của Chính
 phủ quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các
-cơ quan hành chính nhà nước hết hiệu lực kê từ ngày Nghị định nảy có hiệu lực
+cơ quan hành chính nhà nước hết hiệu lực kể từ ngày Nghị định này có hiệu lực
 thi hành.
 
 ### Điều 12. Điều khoản chuyển tiếp
@@ -424,7 +424,7 @@ TÊN CƠ QUAN HÀNH CHÍNH 0 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 /BC... Đ ......, ngày... thẳng... năm...
 
 ._. BÁO CÁO VỀ CÔNG TÁC PHÁT NGÔN
-VÀ CUNG CÁP THÔNG TIN CHO BẢO CHÍ NĂM... ©9
+VÀ CUNG CẤP THÔNG TIN CHO BÁO CHÍ NĂM... c
 
 1. Về số liệu
 1. Số cuộc °họp báo tỗ chức trong năm:

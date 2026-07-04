@@ -1,8 +1,9 @@
 ---
+layout: vanban
 title: "Nghị định 172/2026/NĐ-CP quy định chi tiết chi phí thực hiện và kinh phí bảo đảm công tác dẫn độ, công tác chuyển giao người đang chấp hành án phạt tù, công tác tương trợ tư pháp về hình sự"
-layout: page
 date: 2026-05-15
-modified: 2026-07-04
+modified: 2026-07-05
+group: tu-phap
 so_hieu: "172/2026/NĐ-CP"
 loai: "Nghị định"
 co_quan: "Chính phủ"
