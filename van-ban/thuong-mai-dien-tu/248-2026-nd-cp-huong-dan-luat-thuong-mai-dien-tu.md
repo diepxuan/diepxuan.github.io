@@ -12,9 +12,9 @@ tags:
   - Livestream
   - Tiếp thị liên kết
   - Nền tảng số
-docid: ""
-source: baochinhphu.vn; nhandan.vn; tienphong.vn
-note: "Nguồn tổng hợp từ baochinhphu.vn, nhandan.vn, tienphong.vn - chưa xác minh toàn văn chính thức từ vanban.chinhphu.vn. Cần bổ sung khi có văn bản gốc."
+docid: chua-xac-minh
+source: nhandan.vn; vov.vn; baochinhphu.vn; bnews.vn
+note: "Văn bản chưa hoàn thiện — nội dung tổng hợp từ báo chí, chưa đối chiếu toàn văn chính thức. Docid và văn bản gốc chưa xác minh."
 ---
 
 # Nghị định số 248/2026/NĐ-CP
@@ -35,8 +35,6 @@ note: "Nguồn tổng hợp từ baochinhphu.vn, nhandan.vn, tienphong.vn - chư
 ## VĂN BẢN
 
 ## Chương I. QUY ĐỊNH CHUNG
-
-*(Tiêu đề Chương I và các Điều cần xác minh thêm từ nguồn chính thức)*
 
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -79,25 +77,25 @@ Nghị định quy định trường hợp nền tảng thương mại điện t
 
    a) Công bố đầy đủ, chính xác, rõ ràng các nội dung hoặc có đường liên kết để xem chi tiết các nội dung quy định tại Chương II của Nghị định này tại vị trí trên màn hình chính của nền tảng thương mại điện tử và có dấu hiệu phân biệt rõ ràng;
 
-   b) Báo cáo trực tuyến định kỳ thông qua Hệ thống quản lý hoạt động thương mại điện tử thực hiện theo quy định tại khoản 1 Điều 22 của Nghị định này hoặc cung cấp thông tin theo yêu cầu của cơ quan nhà nước có thẩm quyền;
+   b) Báo cáo trực tuyến định kỳ thông qua Hệ thống quản lý hoạt động thương mại điện tử hoặc cung cấp thông tin theo yêu cầu của cơ quan nhà nước có thẩm quyền;
 
    c) Có biện pháp kiểm tra, rà soát, gỡ bỏ và xử lý kịp thời đối với thông tin hàng hóa, dịch vụ xâm phạm quyền sở hữu trí tuệ, hàng hóa, dịch vụ liên quan đến hành vi kinh doanh vi phạm pháp luật trong thời hạn 24 giờ kể từ khi nhận được yêu cầu của cơ quan nhà nước có thẩm quyền;
 
-   d) Cập nhật từ khóa theo khuyến cáo từ cơ quan nhà nước có thẩm quyền và lọc thông tin theo từ khóa trước khi thông tin hàng hóa, dịch vụ hiển thị trên nền tảng thương mại điện tử;
+   d) Cập nhật từ khóa theo khuyến cáo từ cơ quan nhà nước có thẩm quyền và lọc thông tin theo từ khóa trước khi thông tin hàng hóa, dịch vụ hiển thị trên nền tảng;
 
-   đ) Duy trì, sử dụng tài khoản đã thực hiện thủ tục hành chính tại Hệ thống quản lý hoạt động thương mại điện tử để tiếp nhận và phản hồi thông tin nhằm giải quyết khiếu nại, phản ánh và tranh chấp liên quan đến nền tảng thương mại điện tử;
+   đ) Duy trì, sử dụng tài khoản đã thực hiện thủ tục hành chính tại Hệ thống quản lý hoạt động thương mại điện tử để tiếp nhận và phản hồi thông tin nhằm giải quyết khiếu nại, phản ánh và tranh chấp liên quan đến nền tảng;
 
-   e) Phối hợp với chủ thể quyền sở hữu trí tuệ rà soát, tạm thời gỡ bỏ hoặc ngăn chặn truy cập đến thông tin hàng hóa, dịch vụ có dấu hiệu xâm phạm quyền sở hữu trí tuệ theo phương thức tiếp nhận và giải quyết phản ánh, yêu cầu, khiếu nại đã công khai trên nền tảng theo quy định tại Điều 7 của Nghị định này.
+   e) Phối hợp với chủ thể quyền sở hữu trí tuệ rà soát, tạm thời gỡ bỏ hoặc ngăn chặn truy cập đến thông tin hàng hóa, dịch vụ có dấu hiệu xâm phạm quyền sở hữu trí tuệ theo phương thức tiếp nhận và giải quyết phản ánh, yêu cầu, khiếu nại đã công khai trên nền tảng.
 
-2. Chủ quản nền tảng thương mại điện tử có chức năng đặt hàng trực tuyến thực hiện các trách nhiệm quy định tại khoản 1 và quy định tại Điều 12 của Luật Thương mại điện tử. Trường hợp nền tảng thương mại điện tử có tích hợp hệ thống thông tin tự động giao kết hợp đồng điện tử, chủ quản nền tảng thương mại điện tử thực hiện các trách nhiệm quy định tại khoản 1 và quy định tại Điều 13 của Luật Thương mại điện tử.
+2. Chủ quản nền tảng thương mại điện tử có chức năng đặt hàng trực tuyến thực hiện các trách nhiệm quy định tại khoản 1 và quy định tại Điều 12 của Luật Thương mại điện tử. Trường hợp nền tảng có tích hợp hệ thống thông tin tự động giao kết hợp đồng điện tử, chủ quản nền tảng thực hiện các trách nhiệm quy định tại khoản 1 và quy định tại Điều 13 của Luật Thương mại điện tử.
 
-3. Chủ quản nền tảng thương mại điện tử trung gian có chức năng đặt hàng trực tuyến là nền tảng số lớn và mạng xã hội hoạt động thương mại điện tử có chức năng đặt hàng trực tuyến là nền tảng số lớn theo quy định của pháp luật về bảo vệ quyền lợi người tiêu dùng thực hiện trách nhiệm quy định tại khoản 2 và trách nhiệm báo cáo trực tuyến theo quy định tại khoản 2 và khoản 3 Điều 22 của Nghị định này.
+3. Chủ quản nền tảng thương mại điện tử trung gian có chức năng đặt hàng trực tuyến là nền tảng số lớn và mạng xã hội hoạt động thương mại điện tử có chức năng đặt hàng trực tuyến là nền tảng số lớn theo quy định của pháp luật về bảo vệ quyền lợi người tiêu dùng thực hiện trách nhiệm báo cáo trực tuyến theo quy định tại Điều 22 của Nghị định này.
 
 ## Chương IV. QUẢN LÝ VÀ VẬN HÀNH NỀN TẢNG THƯƠNG MẠI ĐIỆN TỬ
 
 ### Điều 5. Điều kiện vận hành nền tảng thương mại điện tử
 
-Nghị định quy định chủ quản nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp chỉ được vận hành nền tảng khi đáp ứng các điều kiện về quản lý, vận hành nền tảng thương mại điện tử và sau khi được Bộ Công Thương xác nhận đăng ký.
+Nghị định quy định chủ quản nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp chỉ được vận hành nền tảng khi đáp ứng các điều kiện về quản lý, vận hành nền tảng và sau khi được Bộ Công Thương xác nhận đăng ký.
 
 ### Điều 6. Thủ tục sửa đổi, bổ sung đăng ký
 
@@ -107,9 +105,9 @@ a) Thay đổi tên nền tảng (tên miền website, tên ứng dụng);
 
 b) Thay đổi người chịu trách nhiệm quản lý và vận hành nền tảng;
 
-c) Thay đổi thông tin Giấy chứng nhận đăng ký doanh nghiệp (đối với doanh nghiệp) hoặc Quyết định thành lập (đối với tổ chức);
+c) Thay đổi thông tin Giấy chứng nhận đăng ký doanh nghiệp hoặc Quyết định thành lập;
 
-d) Thay đổi mô hình hoạt động của nền tảng thương mại điện tử;
+d) Thay đổi mô hình hoạt động của nền tảng;
 
 đ) Thay đổi nội dung công khai về điều kiện hoạt động, điều kiện giao dịch trên nền tảng;
 
@@ -121,34 +119,24 @@ g) Thay đổi hoặc bổ sung dịch vụ cung cấp trên nền tảng.
 
 1. Chủ quản nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp thực hiện thủ tục chấm dứt đăng ký trong các trường hợp sau đây:
 
-   a) Theo đề nghị của chủ quản nền tảng thương mại điện tử;
+   a) Theo đề nghị của chủ quản nền tảng;
 
-   b) Nền tảng thương mại điện tử ngừng hoạt động hoặc chuyển nhượng cho tổ chức khác;
+   b) Nền tảng ngừng hoạt động hoặc chuyển nhượng cho tổ chức khác;
 
-   c) Thay đổi mã số thuế của chủ quản nền tảng thương mại điện tử.
+   c) Thay đổi mã số thuế của chủ quản nền tảng.
 
-2. Cơ quan quản lý nhà nước chấm dứt đăng ký nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp trong các trường hợp sau đây:
+2. Cơ quan quản lý nhà nước chấm dứt đăng ký nền tảng trong các trường hợp sau đây:
 
-   a) Quá 30 ngày từ thời điểm cơ quan quản lý nhà nước gửi yêu cầu thông qua Hệ thống quản lý hoạt động thương mại điện tử để phục vụ công tác quản lý, giám sát hoạt động thương mại điện tử mà nền tảng thương mại điện tử không phản hồi thông tin;
+   a) Quá 30 ngày từ thời điểm cơ quan quản lý nhà nước gửi yêu cầu thông qua Hệ thống quản lý hoạt động thương mại điện tử để phục vụ công tác quản lý, giám sát mà nền tảng không phản hồi thông tin;
 
-   b) Chủ quản nền tảng có thực hiện hành vi vi phạm pháp luật mà phải chấm dứt hoạt động nền tảng thương mại điện tử theo quy định của pháp luật về xử lý vi phạm hành chính.
+   b) Chủ quản nền tảng có thực hiện hành vi vi phạm pháp luật mà phải chấm dứt hoạt động nền tảng theo quy định của pháp luật về xử lý vi phạm hành chính.
 
-*(Các Điều 8 và tiếp theo cần xác minh thêm từ nguồn chính thức)*
+*(Các Điều 8 và tiếp theo: cần xác minh từ văn bản gốc chính thức)*
 
 ## Chương V. ĐIỀU KHOẢN THI HÀNH
 
-*(Cần xác minh thêm từ nguồn chính thức)*
+*(Cần xác minh từ văn bản gốc chính thức)*
 
 ---
 
-## GHI CHÚ VỀ NGUỒN VÀ CHẤT LƯỢNG
-
-Nội dung trên được tổng hợp từ các nguồn:
-
-- **baochinhphu.vn**: Bài viết chi tiết về quy chế livestream và trách nhiệm chủ quản nền tảng TMĐT
-- **nhandan.vn**: Bài viết tổng hợp hội nghị phổ biến Luật TMĐT và Nghị định 248/2026/NĐ-CP
-- **tienphong.vn**: Trích lược các quy định chính về công khai quy chế livestream bán hàng
-
-Nghị định này được đánh giá là quy định chi tiết quan trọng của Luật Thương mại điện tử số 122/2025/QH15, có hiệu lực cùng ngày 01/7/2026, tạo hành lang pháp lý cho hoạt động thương mại điện tử trong giai đoạn mới.
-
-> **Cảnh báo**: Nội dung trên là tổng hợp từ các bài báo và nguồn tin của cơ quan nhà nước, chưa phải toàn văn chính thức từ Cổng thông tin quy phạm pháp luật quốc gia. Docid trên vanban.chinhphu.vn chưa xác minh được. Cần đối chiếu với văn bản gốc khi có.
+> **Văn bản chưa hoàn thiện.** Nội dung trên được tổng hợp từ báo chí (nhandan.vn, vov.vn, baochinhphu.vn, bnews.vn). Toàn văn chính thức và docid trên vanban.chinhphu.vn chưa xác minh. Cần đối chiếu với văn bản gốc khi có.
