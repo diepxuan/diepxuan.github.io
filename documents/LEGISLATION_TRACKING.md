@@ -1040,6 +1040,53 @@ Quét Brave + Gemini vanban.chinhphu.vn + luatvietnam.vn + baochinhphu.vn với 
 ---
 
 
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 21)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn (JS-rendered, cần browser-automation) + web_search Brave tổng hợp từ luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, moit.gov.vn, vov.vn, cafef.vn, baophapluat.vn, spirit.vietnamairlines.com, tuvanxaydungtruongluy.com theo nhóm chủ đề: Thuế, KHCN, Tài chính, Lao động, Báo chí, Giao thông, Xây dựng, Y tế, Hàng không. Ưu tiên văn bản ban hành đầu tháng 7/2026 và văn bản mới có hiệu lực tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-05 lần 20): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 207/2026/NĐ-CP | 15/06/2026 | **Quy định chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng** — thay thế NĐ 06/2021; nhà ở riêng lẻ trên 7 tầng hoặc có 2 tầng hầm trở lên phải có hồ sơ thiết kế chuyên nghiệp, tuân thủ PCCC; quy định an toàn thi công, bảo trì; 8 NĐ hướng dẫn Luật Xây dựng đồng loạt hiệu lực 01/7/2026; hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: baophapluat.vn (toàn văn, đăng 2026-07-05), tuvanxaydungtruongluy.com (ngày ban hành 15/6/2026), kenh14.vn (nội dung); ngày ban hành: 15/6/2026 xác minh (tuvanxaydungtruongluy.com); hiệu lực: 01/7/2026; tác động chủ đầu tư, nhà thầu, tư vấn xây dựng; cần xác minh docid |
+| 221/2026/NĐ-CP | 22/06/2026 | **Quy định về Nhà chức trách hàng không Việt Nam và quản lý an toàn hàng không** — Cục Hàng không Việt Nam thuộc Bộ Xây dựng là Nhà chức trách hàng không Việt Nam; quản lý an toàn hàng không; nhân viên hàng không; điều tra sự cố nghiêm trọng, tai nạn hàng không; thiết lập hệ thống báo cáo 4 loại (sự cố bắt buộc, tự nguyện, điều tra nội bộ, định kỳ); hiệu lực **01/7/2026** | Giao thông / Hàng không | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438486, toàn văn hiển thị đầy đủ), baomoi.com, vov.vn, doanhnhan.congly.vn, vietnam.vn; ngày ban hành: 22/6/2026 xác minh từ toàn văn luatvietnam.vn ("Hà Nội, ngày 22 tháng 6 năm 2026"); hiệu lực: 01/7/2026; tác động Cục Hàng không, hãng hàng không, cảng hàng không; cần xác minh docid |
+| 225/2026/NĐ-CP | 24/06/2026 | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ** — bổ sung lĩnh vực: công nghiệp công nghệ số, ứng dụng công nghệ thông tin, trí tuệ nhân tạo, giao dịch điện tử, chuyển đổi số quốc gia; quản lý hạ tầng AI quốc gia; quản lý hạ tầng bán dẫn; bưu chính, viễn thông, tần số vô tuyến điện; năng lượng nguyên tử; hiệu lực **01/7/2026** | Hành chính / KHCN | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438705, toàn văn hiển thị đầy đủ "Hà Nội, ngày 24 tháng 6 năm 2026"); ngày ban hành: 24/6/2026 xác minh từ toàn văn; hiệu lực: 01/7/2026; tác động Bộ KHCN, cơ quan nghiên cứu, doanh nghiệp công nghệ; cần xác minh docid |
+| 31/2026/TT-BCT | 11/06/2026 | **Quy định về truy xuất nguồn gốc sản phẩm, hàng hóa thuộc phạm vi quản lý của Bộ Công Thương** — hàng hóa rủi ro cao phải truy xuất qua VeriGoods hoặc hệ thống nội bộ kết nối VeriGoods; giai đoạn đầu đăng ký tài khoản, nhận mã định danh; từ 01/01/2027 phải truy xuất đầy đủ trước khi lưu thông; công nghệ gắn chip, QR 2 chiều; hiệu lực **01/7/2026** | Thương mại / KHCN | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 437323, toàn văn hiển thị "Hà Nội, ngày 11 tháng 6 năm 2026"), moit.gov.vn, vneconomy.vn, caobang.dms.gov.vn; ngày ban hành: 11/6/2026 xác minh (moit.gov.vn, vneconomy.vn ghi rõ); hiệu lực: 01/7/2026; tác động thương nhân, nhà sản xuất hàng hóa thuộc Bộ Công Thương; cần xác minh docid |
+| 16/2026/TT-BYT | 25/05/2026 | **Quy định thực hiện chương trình hỗ trợ thuốc miễn phí cho cơ sở khám bệnh, chữa bệnh để điều trị cho người bệnh** — cơ sở khám chữa bệnh công khai thông tin chương trình, tư vấn người bệnh; cấp phát thuốc công bằng minh bạch; người bệnh tham gia tự nguyện; thay thế TT 31/2018/TT-BYT; hiệu lực **10/7/2026** | Y tế | chua-xac-minh | **Chưa có** | Nguồn: baochinhphu.vn (toàn văn), vov.gov.vn, luatvietnam.vn (109191), nhandan.vn, thuvienphapluat.vn (706925); ngày ban hành: 25/5/2026 xác minh (vov.gov.vn: "Ngày 25/5/2026, Bộ Y tế ban hành"); hiệu lực: 10/7/2026; tác động cơ sở khám chữa bệnh, người bệnh; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-05 lần 20)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 207/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 221/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 225/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 31/2026/TT-BCT | **KHÔNG** | Thêm mới — Chưa có |
+| 16/2026/TT-BYT | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Xây dựng** (ưu tiên số 1 — 8 NĐ-CP đồng loạt hướng dẫn Luật Xây dựng 2025 hiệu lực 01/7/2026): **207/2026/NĐ-CP** — quản lý chất lượng, thi công, bảo trì công trình; nhà ở trên 7 tầng phải thiết kế chuyên nghiệp. Nguồn: baophapluat.vn, tuvanxaydungtruongluy.com. Cần xác minh docid.
+2. **Giao thông / Hàng không** (ưu tiên số 2): **221/2026/NĐ-CP** — Nhà chức trách hàng không Việt Nam, quản lý an toàn hàng không. Nguồn: luatvietnam.vn (slug 438486). Cần xác minh docid.
+3. **Hành chính / KHCN** (ưu tiên số 3 — Bộ KHCN mở rộng phạm vi quản lý): **225/2026/NĐ-CP** — chức năng nhiệm vụ Bộ KHCN, quản lý hạ tầng AI quốc gia. Nguồn: luatvietnam.vn (slug 438705). Cần xác minh docid.
+4. **Thương mại / KHCN** (ưu tiên số 4): **31/2026/TT-BCT** — truy xuất nguồn gốc hàng hóa Bộ Công Thương qua VeriGoods, hiệu lực 01/7/2026, đầy đủ từ 01/01/2027. Nguồn: luatvietnam.vn (slug 437323), moit.gov.vn. Cần xác minh docid.
+5. **Y tế** (ưu tiên số 5): **16/2026/TT-BYT** — hỗ trợ thuốc miễn phí cho người bệnh, hiệu lực 10/7/2026. Nguồn: baochinhphu.vn, vov.gov.vn. Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 21. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm Luật Xây dựng 2025** (8 NĐ-CP đồng loạt hiệu lực 01/7/2026): 207/2026 là văn bản mới phát hiện, ngoài 206, 210, 212, 217 đã có file trong `van-ban/xay-dung/`. Cần kiểm tra 209 và các số còn lại trong phiên sau.
+- **Nhóm hàng không 01/7/2026** (6 NĐ-CP): 221/2026 là NĐ mới phát hiện, ngoài 205, 208, 215, 222, 223 đã có file trong `van-ban/giao-thong-van-tai/` và `van-ban/xay-dung/` (thông tư 18).
+- **225/2026/NĐ-CP**: Bộ KHCN mở rộng lĩnh vực quản lý bao gồm AI, bán dẫn, chuyển đổi số — đây là văn bản tái cơ cấu phạm vi quản lý quan trọng. Ghi chú bổ sung: 176/2026/NĐ-CP (chính sách ưu đãi điện hạt nhân) đã xác minh ngày ban hành 19/5/2026 từ baochinhphu.vn; hiệu lực 7/7/2026.
+- **31/2026/TT-BCT**: VeriGoods truy xuất nguồn gốc — quy định quan trọng cho thương mại nội địa, tác động thương nhân sản xuất/phân phối hàng hóa thuộc Bộ Công Thương.
+- **16/2026/TT-BYT**: Hỗ trợ thuốc miễn phí — cải thiện tiếp cận thuốc cho người bệnh gánh nặng chi phí.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered. Cần browser-automation hoặc tra cứu datafiles.chinhphu.vn để xác minh docid.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, baophapluat.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, moit.gov.vn, vov.vn, doanhnhan.congly.vn, vietnam.vn, cafef.vn, tuvanxaydungtruongluy.com, kenh14.vn, baomoi.com, giaoducthoidai.vn, danviet.vn.
+- Ngày phát hiện: 2026-07-06 02:35 ICT
+- Phiên thực hiện: agent:github-io:subagent:60336b4a-e9fe-4d2f-8339-cf016ba50ce2 (Đệ #1 Discovery — lần 21)
+
+---
+
 ## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 20)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
