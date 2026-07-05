@@ -1,3 +1,49 @@
+## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 20)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 220000–220500 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, xaydungchinhsach.chinhphu.vn theo nhóm chủ đề: Thương mại điện tử, KHCN, Thuế, Hành chính, Tư pháp, Công nghệ cao, Viễn thông, Báo chí, Giáo dục, Giao thông, Xây dựng, Lao động. Ưu tiên văn bản ban hành cuối tháng 6/2026 và đầu tháng 7/2026, hiệu lực tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-05 lần 19): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 237/2026/NĐ-CP | 26/06/2026 | **Hướng dẫn thi hành một số điều của Luật Báo chí 2025** — quy định chi tiết thi hành Luật Báo chí số 126/2025/QH15; cụ thể hóa các điều khoản về quyền tự do báo chí, hoạt động báo chí, quản lý báo chí, quyền và nghĩa vụ của nhà báo; hiệu lực **01/7/2026** | Báo chí / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438775); ngày ban hành: 26/6/2026 xác minh từ toàn văn trên luatvietnam.vn; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan báo chí, nhà báo, phóng viên; cần xác minh docid |
+| 242/2026/NĐ-CP | 26/06/2026 | **Hướng dẫn chi tiết Luật Báo chí về quản lý hoạt động phát thanh, truyền hình và dịch vụ phát thanh, truyền hình** — cấp Giấy phép sản xuất kênh chương trình phát thanh, truyền hình; cấp Giấy phép biên tập kênh nước ngoài trên dịch vụ trả tiền; chế độ lưu trữ chương trình, lưu chiểu điện tử; cấp Giấy chứng nhận đăng ký cung cấp kênh nước ngoài; quy định dịch vụ phát thanh, truyền hình mặt đất, cáp, vệ tinh, IPTV; hiệu lực **01/7/2026** | Báo chí / Viễn thông | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438975, toàn văn); ngày ban hành: 26/6/2026 xác minh từ toàn văn; hiệu lực: 01/7/2026; tác động đài phát thanh, đài truyền hình, nhà cung cấp dịch vụ truyền hình trả tiền; cần xác minh docid |
+| 244/2026/NĐ-CP | 26/06/2026 | **Quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước** — hướng dẫn khoản 5 Điều 31 Luật Báo chí về người phát ngôn, chế độ phát ngôn; đối tượng áp dụng gồm Chính phủ, bộ, cơ quan ngang bộ, UBND tỉnh/thành, cục, chi cục, UBND xã; người phát ngôn phải đăng tải thông tin trong 24 giờ; ủy quyền phát ngôn bằng văn bản; hiệu lực **01/7/2026** | Hành chính / Báo chí | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438961, toàn văn); ngày ban hành: 26/6/2026 xác minh từ toàn văn; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan hành chính nhà nước từ TW đến xã/phường; cần xác minh docid |
+| 238/2026/NĐ-CP | 26/06/2026 | **Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP về xử phạt vi phạm giao thông đường bộ** — quy định xử phạt liên quan đến thiết bị ghi nhận hình ảnh khoang chở khách; trừ điểm, phục hồi điểm giấy phép lái xe; quy định mới về chế tài liên quan camera giám sát trên xe; hiệu lực **01/7/2026** | Giao thông | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438987, "sửa đổi Nghị định 168/2024 về xử phạt vi phạm giao thông"); xaydungchinhsach.chinhphu.vn (toàn văn); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động người tham gia giao thông, chủ phương tiện; cần xác minh docid |
+| 231/2026/NĐ-CP | 25/06/2026 | **Quy định về quản lý, giám sát, giáo dục người chấp hành án hình sự tại cộng đồng** — nội dung bao gồm người được hưởng án treo, người chấp hành án phạt cải tạo không giam giữ, cấm cư trú, quản chế, tước quyền công dân, cấm đảm nhiệm chức vụ, cấm hành nghề; người được hoãn, tạm đình chỉ, tha tù trước thời hạn có điều kiện; nội dung quản lý, giám sát, giáo dục tại cộng đồng; kinh phí thực hiện; hiệu lực **01/7/2026** | Tư pháp / Hình sự | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438740, toàn văn); dongnai.gov.vn (triển khai ngày 02/7/2026 ghi rõ "Nghị định số 231/2026/NĐ-CP ngày 25 tháng 6 năm 2026"); ngày ban hành: 25/6/2026 xác minh; hiệu lực: 01/7/2026; tác động Công an cấp xã, UBND xã, cơ quan thi hành án hình sự; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-05 lần 19)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 237/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 242/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 244/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 238/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 231/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Báo chí / Hành chính** (ưu tiên số 1 — Luật Báo chí 2025 đang có hiệu lực 01/7/2026, 3 văn bản hướng dẫn đồng loạt): **237/2026/NĐ-CP** — hướng dẫn thi hành Luật Báo chí 2025, quyền tự do báo chí, hoạt động báo chí. Nguồn: luatvietnam.vn (slug 438775). Cần xác minh docid.
+2. **Báo chí / Viễn thông** (ưu tiên số 2 — cùng nhóm Luật Báo chí): **242/2026/NĐ-CP** — quản lý hoạt động phát thanh, truyền hình, dịch vụ trả tiền, cấp phép kênh. Nguồn: luatvietnam.vn (slug 438975). Cần xác minh docid.
+3. **Hành chính / Báo chí** (ưu tiên số 3 — cùng nhóm Luật Báo chí): **244/2026/NĐ-CP** — phát ngôn và cung cấp thông tin cho báo chí, người phát ngôn cơ quan nhà nước. Nguồn: luatvietnam.vn (slug 438961). Cần xác minh docid.
+4. **Giao thông** (ưu tiên số 4): **238/2026/NĐ-CP** — sửa đổi xử phạt giao thông NĐ 168/2024, liên quan camera khoang chở khách, trừ/phục hồi điểm GPLX. Nguồn: luatvietnam.vn (slug 438987), xaydungchinhsach.chinhphu.vn. Cần xác minh docid.
+5. **Tư pháp / Hình sự** (ưu tiên số 5): **231/2026/NĐ-CP** — quản lý người chấp hành án hình sự tại cộng đồng, án treo, cải tạo không giam giữ. Nguồn: luatvietnam.vn (slug 438740). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 20. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm Luật Báo chí 2025** (hiệu lực 01/7/2026): 3 văn bản hướng dẫn đồng loạt — 237 (thi hành Luật Báo chí), 242 (phát thanh truyền hình), 244 (phát ngôn cho báo chí). Đây là nhóm văn bản phát hành nhiều nhất cùng đợt 26/6/2026, tác động toàn ngành báo chí Việt Nam. Ưu tiên crawl cả 3.
+- **237/2026/NĐ-CP** xác nhận ngày 26/6/2026 từ toàn văn trên luatvietnam.vn (khác với giả định ước đoán 30/6 ở lần 19). Văn bản hướng dẫn Luật Báo chí số 126/2025/QH15.
+- **231/2026/NĐ-CP**: Ngày ban hành 25/6/2026 xác minh qua dongnai.gov.vn (công văn triển khai ngày 02/7/2026). Khác với giả định ước đoán 26/6 ở lần 19.
+- **238/2026/NĐ-CP**: Sửa đổi NĐ 168/2024 — liên quan xử phạt giao thông qua camera khoang chở khách, điểm GPLX. Đây là văn bản có tác động trực tiếp đến người lái xe.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered nên web_fetch không trả về nội dung đầy đủ. Cần dùng browser-automation hoặc tra cứu datafiles.chinhphu.vn để xác minh docid. Vùng docid ước đoán: 219000–220000.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, dongnai.gov.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, thuvienphapluat.vn, vov.vn, tienphong.vn, nhandan.vn.
+- Ngày phát hiện: 2026-07-05 16:07 ICT
+- Phiên thực hiện: agent:github-io:subagent:ef3a2752-6d68-408b-80db-b88da4edfcf1 (Đệ #1 Discovery — lần 20)
+
+---
+
 ## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 19)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
@@ -993,6 +1039,52 @@ Quét Brave + Gemini vanban.chinhphu.vn + luatvietnam.vn + baochinhphu.vn với 
 
 ---
 
+
+## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 20)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 220000–220500 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, xaydungchinhsach.chinhphu.vn theo nhóm chủ đề: Thương mại điện tử, KHCN, Thuế, Hành chính, Tư pháp, Công nghệ cao, Viễn thông, Báo chí, Giáo dục, Giao thông, Xây dựng, Lao động. Ưu tiên văn bản ban hành cuối tháng 6/2026 và đầu tháng 7/2026, hiệu lực tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-05 lần 19): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 237/2026/NĐ-CP | 26/06/2026 | **Hướng dẫn thi hành một số điều của Luật Báo chí 2025** — quy định chi tiết thi hành Luật Báo chí số 126/2025/QH15; cụ thể hóa các điều khoản về quyền tự do báo chí, hoạt động báo chí, quản lý báo chí, quyền và nghĩa vụ của nhà báo; hiệu lực **01/7/2026** | Báo chí / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438775); ngày ban hành: 26/6/2026 xác minh từ toàn văn trên luatvietnam.vn; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan báo chí, nhà báo, phóng viên; cần xác minh docid |
+| 242/2026/NĐ-CP | 26/06/2026 | **Hướng dẫn chi tiết Luật Báo chí về quản lý hoạt động phát thanh, truyền hình và dịch vụ phát thanh, truyền hình** — cấp Giấy phép sản xuất kênh chương trình phát thanh, truyền hình; cấp Giấy phép biên tập kênh nước ngoài trên dịch vụ trả tiền; chế độ lưu trữ chương trình, lưu chiểu điện tử; cấp Giấy chứng nhận đăng ký cung cấp kênh nước ngoài; quy định dịch vụ phát thanh, truyền hình mặt đất, cáp, vệ tinh, IPTV; hiệu lực **01/7/2026** | Báo chí / Viễn thông | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438975, toàn văn); ngày ban hành: 26/6/2026 xác minh từ toàn văn; hiệu lực: 01/7/2026; tác động đài phát thanh, đài truyền hình, nhà cung cấp dịch vụ truyền hình trả tiền; cần xác minh docid |
+| 244/2026/NĐ-CP | 26/06/2026 | **Quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước** — hướng dẫn khoản 5 Điều 31 Luật Báo chí về người phát ngôn, chế độ phát ngôn; đối tượng áp dụng gồm Chính phủ, bộ, cơ quan ngang bộ, UBND tỉnh/thành, cục, chi cục, UBND xã; người phát ngôn phải đăng tải thông tin trong 24 giờ; ủy quyền phát ngôn bằng văn bản; hiệu lực **01/7/2026** | Hành chính / Báo chí | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438961, toàn văn); ngày ban hành: 26/6/2026 xác minh từ toàn văn; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan hành chính nhà nước từ TW đến xã/phường; cần xác minh docid |
+| 238/2026/NĐ-CP | 26/06/2026 | **Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP về xử phạt vi phạm giao thông đường bộ** — quy định xử phạt liên quan đến thiết bị ghi nhận hình ảnh khoang chở khách; trừ điểm, phục hồi điểm giấy phép lái xe; quy định mới về chế tài liên quan camera giám sát trên xe; hiệu lực **01/7/2026** | Giao thông | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438987, "sửa đổi Nghị định 168/2024 về xử phạt vi phạm giao thông"); xaydungchinhsach.chinhphu.vn (toàn văn); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động người tham gia giao thông, chủ phương tiện; cần xác minh docid |
+| 231/2026/NĐ-CP | 25/06/2026 | **Quy định về quản lý, giám sát, giáo dục người chấp hành án hình sự tại cộng đồng** — nội dung bao gồm người được hưởng án treo, người chấp hành án phạt cải tạo không giam giữ, cấm cư trú, quản chế, tước quyền công dân, cấm đảm nhiệm chức vụ, cấm hành nghề; người được hoãn, tạm đình chỉ, tha tù trước thời hạn có điều kiện; nội dung quản lý, giám sát, giáo dục tại cộng đồng; kinh phí thực hiện; hiệu lực **01/7/2026** | Tư pháp / Hình sự | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438740, toàn văn); dongnai.gov.vn (triển khai ngày 02/7/2026 ghi rõ "Nghị định số 231/2026/NĐ-CP ngày 25 tháng 6 năm 2026"); ngày ban hành: 25/6/2026 xác minh; hiệu lực: 01/7/2026; tác động Công an cấp xã, UBND xã, cơ quan thi hành án hình sự; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-05 lần 19)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 237/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 242/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 244/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 238/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 231/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Báo chí / Hành chính** (ưu tiên số 1 — Luật Báo chí 2025 đang có hiệu lực 01/7/2026, 3 văn bản hướng dẫn đồng loạt): **237/2026/NĐ-CP** — hướng dẫn thi hành Luật Báo chí 2025, quyền tự do báo chí, hoạt động báo chí. Nguồn: luatvietnam.vn (slug 438775). Cần xác minh docid.
+2. **Báo chí / Viễn thông** (ưu tiên số 2 — cùng nhóm Luật Báo chí): **242/2026/NĐ-CP** — quản lý hoạt động phát thanh, truyền hình, dịch vụ trả tiền, cấp phép kênh. Nguồn: luatvietnam.vn (slug 438975). Cần xác minh docid.
+3. **Hành chính / Báo chí** (ưu tiên số 3 — cùng nhóm Luật Báo chí): **244/2026/NĐ-CP** — phát ngôn và cung cấp thông tin cho báo chí, người phát ngôn cơ quan nhà nước. Nguồn: luatvietnam.vn (slug 438961). Cần xác minh docid.
+4. **Giao thông** (ưu tiên số 4): **238/2026/NĐ-CP** — sửa đổi xử phạt giao thông NĐ 168/2024, liên quan camera khoang chở khách, trừ/phục hồi điểm GPLX. Nguồn: luatvietnam.vn (slug 438987), xaydungchinhsach.chinhphu.vn. Cần xác minh docid.
+5. **Tư pháp / Hình sự** (ưu tiên số 5): **231/2026/NĐ-CP** — quản lý người chấp hành án hình sự tại cộng đồng, án treo, cải tạo không giam giữ. Nguồn: luatvietnam.vn (slug 438740). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 20. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm Luật Báo chí 2025** (hiệu lực 01/7/2026): 3 văn bản hướng dẫn đồng loạt — 237 (thi hành Luật Báo chí), 242 (phát thanh truyền hình), 244 (phát ngôn cho báo chí). Đây là nhóm văn bản phát hành nhiều nhất cùng đợt 26/6/2026, tác động toàn ngành báo chí Việt Nam. Ưu tiên crawl cả 3.
+- **237/2026/NĐ-CP** xác nhận ngày 26/6/2026 từ toàn văn trên luatvietnam.vn (khác với giả định ước đoán 30/6 ở lần 19). Văn bản hướng dẫn Luật Báo chí số 126/2025/QH15.
+- **231/2026/NĐ-CP**: Ngày ban hành 25/6/2026 xác minh qua dongnai.gov.vn (công văn triển khai ngày 02/7/2026). Khác với giả định ước đoán 26/6 ở lần 19.
+- **238/2026/NĐ-CP**: Sửa đổi NĐ 168/2024 — liên quan xử phạt giao thông qua camera khoang chở khách, điểm GPLX. Đây là văn bản có tác động trực tiếp đến người lái xe.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered nên web_fetch không trả về nội dung đầy đủ. Cần dùng browser-automation hoặc tra cứu datafiles.chinhphu.vn để xác minh docid. Vùng docid ước đoán: 219000–220000.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, dongnai.gov.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, thuvienphapluat.vn, vov.vn, tienphong.vn, nhandan.vn.
+- Ngày phát hiện: 2026-07-05 16:07 ICT
+- Phiên thực hiện: agent:github-io:subagent:ef3a2752-6d68-408b-80db-b88da4edfcf1 (Đệ #1 Discovery — lần 20)
+
+---
 
 ## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 19)
 
