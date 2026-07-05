@@ -1,3 +1,50 @@
+## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 17–18)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần) — PHIÊN BẢN BỔ SUNG (lần 18)
+
+Quét vanban.chinhphu.vn dải docid 219300–219600 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí. Ưu tiên văn bản ban hành/thi hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-05 lần 17): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 174/2026/NĐ-CP | ~26/06/2026 | **Xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, giao dịch điện tử và công nghệ thông tin** — thay thế NĐ 90/2016, NĐ 174/2017; mức phạt: tung tin giả/sai sự thật trên mạng đến **50 triệu đồng**; vi phạm email đến **70 triệu đồng**; siết quản trị hội nhóm, fanpage; khóa tài khoản, kênh nội dung; hiệu lực **01/7/2026** | Viễn thông / CNTT / Báo chí | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (ID 706354), soha.vn, nhandan.vn, baolaocai.vn, vietnamplus.vn, genk.vn, ngoisao.vn, 2sao.vn (8 nguồn); ngày ban hành: ước đoán ~26/6/2026 (cùng đợt 232, 233, 234, 235, 241); hiệu lực: 01/7/2026; tác động toàn dân dùng mạng xã hội, email, website; tác động rất rộng |
+| 260/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn thi hành Luật Công nghệ cao** — quy định chi tiết về công nghệ cao, công nghệ chiến lược; miễn thuế thu nhập cá nhân đối với cá nhân nghiên cứu công nghệ cao, công nghệ chiến lược; cơ chế ưu đãi, hỗ trợ; hiệu lực **01/7/2026** | KHCN / Thuế | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "ca nhan nghien cuu cong nghe cao duoc mien thue TNCN tu 01-7-2026", slug 110092); ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động cá nhân nghiên cứu KHCN, doanh nghiệp công nghệ cao |
+| 66.18/2026/NQ-CP | ~26/06/2026 | **Phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh** — Chương I (Điều 1–2): quy định chung, nguyên tắc; Chương II (Điều 3–4): phân quyền, cắt giảm TTHC, điều kiện kinh doanh; bãi bỏ một số điểm, phần, mục tại các Phụ lục; rút ngắn thời gian cấp Giấy phép xây dựng xuống **10 ngày làm việc**; hiệu lực **01/7/2026** đến **28/2/2027** | Hành chính / Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: nhansu.vn (ID 706220), soha.vn, vietnamplus.vn, vov.vn, vietnam.vn, baolaocai.vn (6 nguồn); ngày ban hành: ước đoán ~26/6/2026; hiệu lực: 01/7/2026 – 28/2/2027 (8 tháng thí điểm); tác động toàn bộ thủ tục hành chính, cấp phép xây dựng |
+| 170/2026/NĐ-CP | ~30/06/2026 | **Hướng dẫn thi hành Luật Thi hành án hình sự** về chế độ ăn đối với phạm nhân — quy định mức ăn, dinh dưỡng cho phạm nhân theo điều kiện giam giữ; phạm nhân là người nước ngoài được khuyến khích học tiếng Việt; hiệu lực **01/7/2026** | Tư pháp / Thi hành án | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (nhiều tin: che do an pham nhan, pham nhan nuoc ngoai hoc tieng Viet); ngày ban hành: ước đoán ~30/6/2026; hiệu lực: 01/7/2026; tác động hệ thống trại giam, cơ sở thi hành án hình sự trên cả nước |
+| 172/2026/NĐ-CP | ~26/06/2026 | **Quy định chi tiết kinh phí bảo đảm cho công tác dẫn độ, chuyển giao người đang chấp hành án phạt tù và tương trợ tư pháp về hình sự** — xác định **15 nhóm nội dung chi** từ ngân sách nhà nước; chi xử lý hồ sơ dẫn độ/chuyển giao; chi chuyên gia tư vấn trong nước và nước ngoài; chi dịch công chứng tài liệu; chi cấp giấy tờ cho người bị dẫn độ; hiệu lực **01/7/2026** | Tư pháp / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: baochinhphu.vn (chinh sach moi 01/7/2026), nbtv.vn; docid từ baochinhphu.vn: 218180 (xác minh cho 172/2026/NĐ-CP); ngày ban hành: ước đoán ~26/6/2026; hiệu lực: 01/7/2026; tác động cơ quan tư pháp, ngoại giao, tòa án, viện kiểm sát |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-05 lần 17)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 174/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 260/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 66.18/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 170/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 172/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Viễn thông / CNTT / Báo chí** (ưu tiên số 1 — vừa có hiệu lực 01/7/2026): **174/2026/NĐ-CP** — xử phạt vi phạm hành chính CNTT, bưu chính, viễn thông, giao dịch điện tử; mức phạt 50–70 triệu đồng; tác động toàn dân dùng mạng xã hội, email, website. Nguồn: thuvienphapluat.vn (ID 706354). Cần xác minh docid.
+2. **KHCN / Thuế** (ưu tiên số 2): **260/2026/NĐ-CP** — hướng dẫn Luật Công nghệ cao, miễn thuế TNCN cá nhân nghiên cứu công nghệ cao; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 110092).
+3. **Hành chính / Xây dựng** (ưu tiên số 3): **66.18/2026/NQ-CP** — phân quyền, cắt giảm TTHC, rút ngắn cấp GPXD xuống 10 ngày; hiệu lực 01/7/2026–28/2/2027. Nguồn: nhansu.vn (ID 706220).
+4. **Tư pháp / Thi hành án** (ưu tiên số 4): **170/2026/NĐ-CP** — chế độ ăn phạm nhân; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (nhiều bài).
+5. **Tư pháp / Tài chính** (ưu tiên số 5): **172/2026/NĐ-CP** — kinh phí dẫn độ, chuyển giao tù, tương trợ tư pháp hình sự; 15 nhóm chi; hiệu lực 01/7/2026. Docid đã xác minh: 218180.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 18. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm 174/2026/NĐ-CP**: Văn bản xử phạt CNTT rất được dân mạng quan tâm — phạt tung tin giả đến 50 triệu, vi phạm email đến 70 triệu. Cần crawl để ghi nhận chi tiết mức phạt.
+- **Nhóm 66.18/2026/NQ-CP**: Nghị quyết thí điểm 8 tháng (01/7/2026–28/2/2027) — phân quyền cho địa phương, cắt giảm TTHC, rút ngắn cấp GPXD. Cần xác minh docid.
+- **Nhóm 260/2026/NĐ-CP**: Hướng dẫn Luật Công nghệ cao — đây là văn bản mới hoàn toàn, cần kiểm tra xem có thay thế văn bản cũ nào không.
+- **172/2026/NĐ-CP docid**: Docid **218180** đã được xác minh qua baochinhphu.vn. URL chính thức: `https://vanban.chinhphu.vn/?pageid=27160&docid=218180`.
+- **Docid chưa xác minh** cho 174, 260, 66.18, 170 — vanban.chinhphu.vn dùng JS-rendered. Cần browser-automation hoặc tra cứu datafiles.chinhphu.vn.
+- **172/2026/NĐ-CP** (dẫn độ, chuyển giao tù, tương trợ tư pháp hình sự) ghi nhận lần đầu trong lần 18 này.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, nhansu.vn, xaydungchinhsach.chinhphu.vn, soha.vn, nhandan.vn, vietnamplus.vn, vov.vn, genk.vn, ngoisao.vn, 2sao.vn, baolaocai.vn, baotuyenquang.vn, baomoi.com.
+- Ngày phát hiện: 2026-07-05 10:15 ICT
+- Phiên thực hiện: agent:github-io:subagent:4041dd08-0a65-4e3c-adc8-bdb19725228b (Đệ #1 Discovery — lần 18)
+
+---
+
 ## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 17)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
