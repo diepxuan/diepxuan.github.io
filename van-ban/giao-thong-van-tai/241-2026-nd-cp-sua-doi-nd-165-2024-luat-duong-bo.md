@@ -233,7 +233,7 @@ lục I kèm theo Nghị định này đề nghị Bộ Xây dựng giao quản 
 nảy, Bộ Xây dựng tiếp nhận, kiểm tra đề nghị của Ủy ban nhân dân cấp tỉnh và
 xử lý như sau;
 
-a) Trong vòng 02 ngày làm việc kế từ ngày nhận được hồ sơ, kiểm tra
+a) Trong vòng 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra
 thành phần hô SƠ, nêu không đủ thành phần hồ sơ có văn bản thông báo đến Ủy
 ban nhân dân cấp tính để đề nghị bổ sung, hoàn thiện;
 
@@ -546,7 +546,7 @@ thuộc phạm vi quản lý.". : _
 2. Sửa đổi, bổ sung điểm c và bổ sung điểm d khoản 3 như sau:
 a) Sửa đổi, bố sung điểm c như sau:
 
-"e) Trong thời hạn 05 ngày làm việc kẻ từ khi nhận đủ hồ sơ theo quy'
+"e) Trong thời hạn 05 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy'
 định, cơ quan có thẩm quyền giải quyết thủ tục hành chính tiến hành thẩm định
 hồ sơ, nếu đủ điều kiện thì có văn bản chấp thuận vị trí, quy mô, kích thước,
 phương án tô chức giao thông biển quảng cáo, biển thông tin cổ động, tuyên
@@ -2147,7 +2147,7 @@ bộ và công trình liền kề gồm:....(1 1);
 cổ động, tuyên truyền chính trị nêu trên và không đòi bồi thường khi cơ quan quản lý
 đường bộ, người quản lý, sử dụng đường bộ yêu câu đi chuyển hoặc cái tạo.
 
-2. Thời gian có hiệu lực của Văn bản chấp thuận kế từ ngày ký đến ngày...
+2. Thời gian có hiệu lực của Văn bản chấp thuận kể từ ngày ký đến ngày...
 
 Nơi nhận: QUYỀÈN HẠN, CHỨC VỤ NGƯỜI KÝ
 - Như trên, (Chữ lợ, dấu)
