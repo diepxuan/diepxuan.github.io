@@ -1,3 +1,49 @@
+## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 17)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 219300–219600 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí. Ưu tiên văn bản ban hành cuối tháng 6/2026 – đầu tháng 7/2026, hiệu lực tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-04 lần 16): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 234/2026/NĐ-CP | 26/06/2026 | **Quy định về xử lý kỷ luật viên chức** — 04 hình thức kỷ luật: khiển trách, cảnh cáo, cách chức (viên chức quản lý), buộc thôi việc; quy định nguyên tắc khách quan, công bằng, công khai, nghiêm minh; quyết định kỷ luật có hiệu lực 12 tháng; viên chức bị kết án phạt tù không hưởng án treo hoặc phạm tội tham nhũng đương nhiên bị buộc thôi việc; cụ thể hóa Luật Viên chức 2025; hiệu lực **01/7/2026** | Lao động / Viên chức | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/can-bo/nghi-dinh-234-2026-nd-cp-quy-dinh-xu-ly-ky-luat-vien-chuc-439010-d1.html`; nguồn: luatvietnam.vn (slug 439010, đăng 2026-06-30/07-01), xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn (712635); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; cùng đợt với 232, 233, 235/2026 (nhóm Luật Viên chức 2025); tác động toàn bộ viên chức nhà nước |
+| 241/2026/NĐ-CP | 26/06/2026 | **Sửa đổi, bổ sung một số điều của NĐ 165/2024/NĐ-CP** hướng dẫn Luật Đường bộ và Luật Trật tự, an toàn giao thông đường bộ — phân cấp quốc lộ cho địa phương quản lý; điều chỉnh loại đường bộ; quy định mới về trạm dừng nghỉ; đầu tư mở rộng trạm dừng nghỉ; quản lý hạ tầng giao thông; thay thế quy định cũ về phân cấp đường bộ; hiệu lực **01/7/2026** | Giao thông / Xây dựng | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/giao-thong/nghi-dinh-241-2026-nd-cp-sua-doi-nghi-dinh-165-2024-ve-luat-duong-bo-va-an-toan-giao-thong-438974-d1.html`; nguồn: luatvietnam.vn (slug 438974, đăng 2026-07-02/03), thuvienphapluat.vn (277386), congluan.vn; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động quản lý quốc lộ, giao thông đường bộ toàn quốc |
+| 224/2026/NĐ-CP | 24/06/2026 | **Quy định chi tiết một số điều và biện pháp thi hành Luật Chuyển đổi số** — 04 mức độ dịch vụ công trực tuyến chủ động (nhắc thực hiện, nhắc và chuẩn bị hồ sơ, nhắc và chuẩn bị + nộp hồ sơ, nhắc và thực hiện toàn bộ); cung cấp thông tin một lần khi làm dịch vụ công trực tuyến; triển khai TTHC trực tuyến toàn trình; hỗ trợ hộ kinh doanh chuyển đổi số; hiệu lực **01/7/2026** | Hành chính / CNTT | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/tin-van-ban-moi/tu-01-7-2026-phan-loai-dich-vu-cong-truc-tuyen-chu-dong-thanh-4-muc-do-186-109986-article.html`; nguồn: luatvietnam.vn (nhiều bài đăng 2026-07-02/03); ngày ban hành: 24/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan nhà nước, người dân, doanh nghiệp |
+| 236/2026/NĐ-CP | 26/06/2026 | **Sửa đổi, bổ sung một số điều của NĐ 151/2024/NĐ-CP** về trật tự, an toàn giao thông đường bộ — bổ sung hàng loạt quy định về quản lý dữ liệu giao thông đường bộ; quản lý GPLX và điểm GPLX; thông tin xe cơ giới nước ngoài; thông tin đơn vị kinh doanh vận tải, phù hiệu xe kinh doanh vận tải; hoàn thiện cơ chế quản lý xe ưu tiên và xe làm nhiệm vụ khẩn cấp; hiệu lực **01/7/2026** | Giao thông / Hành chính | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-so-236-2026-nd-cp-sua-cac-nghi-dinh-huong-dan-thi-hanh-luat-trat-tu-an-toan-giao-thong-duong-bo-186-109924-article.html`; nguồn: luatvietnam.vn (109924, đăng 2026-06-30/07-01), vov.vn, suckhoedoisong.vn, baoxaydung.vn; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động hệ thống GPLX, đăng kiểm, vận tải đường bộ |
+| 182/2026/NĐ-CP | ~26/06/2026 | **Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục** — mức phụ cấp ưu đãi từ 20% đến 80%; phân loại theo cấp học, tính chất đặc thù môn học, điều kiện khó khăn địa bàn; mức cao nhất 70–80% dành cho vùng đặc biệt khó khăn, trường chuyên biệt, trường dân tộc nội trú; thay thế các quy định cũ; hiệu lực **07/7/2026** | Giáo dục / Lao động | chua-xac-minh | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=218228` (xác minh từ baochinhphu.vn link); nguồn: baochinhphu.vn (chính sách mới 2026-07-01), dantri.com.vn, baomoi.com; ngày ban hành: ~26/6/2026; hiệu lực: 07/7/2026; tác động nhà giáo, cán bộ quản lý, nhân sự hỗ trợ trong cơ sở giáo dục công lập toàn quốc |
+| 252/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn thi hành Luật Quản lý thuế 108/2025/QH15** — 8 Chương, 76 Điều; thay thế 126/2020, 91/2022, 49/2025, 117/2025, 373/2025/NĐ-CP; nội dung: đăng ký thuế, khai thuế, nộp thuế, hoàn thuế, miễn thuế, ủy quyền thuế, cưỡng chế thuế; hiệu lực **01/7/2026** | Thuế / Tài chính | vanban.chinhphu.vn (docid từ luatvietnam 439382) | **Hoàn thiện** | Đã commit vào van-ban/thue-phi-le-phi-cac-khoan-thu-khac/252-2026-nd-cp-huong-dan-luat-quan-ly-thue.md (1476 dòng, 419KB) |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-04 lần 16)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 234/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 241/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 224/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 236/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 182/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Viên chức** (ưu tiên số 1): **234/2026/NĐ-CP** — xử lý kỷ luật viên chức; cùng nhóm với 232, 233, 235 (nhóm Luật Viên chức 2025, hiệu lực 01/7/2026); tác động toàn bộ viên chức nhà nước. Nguồn: luatvietnam.vn (slug 439010).
+2. **Giao thông / Xây dựng** (ưu tiên số 2): **241/2026/NĐ-CP** — phân cấp quốc lộ, trạm dừng nghỉ; hiệu lực 01/7/2026; tác động quản lý hạ tầng giao thông toàn quốc. Nguồn: luatvietnam.vn (slug 438974).
+3. **Hành chính / CNTT** (ưu tiên số 3): **224/2026/NĐ-CP** — dịch vụ công trực tuyến chủ động, cung cấp thông tin một lần; hiệu lực 01/7/2026; tác động toàn bộ cơ quan nhà nước và người dân. Nguồn: luatvietnam.vn (nhiều bài).
+4. **Giao thông / Hành chính** (ưu tiên số 4): **236/2026/NĐ-CP** — quản lý dữ liệu GPLX, xe cơ giới, vận tải; hiệu lực 01/7/2026; tác động hệ thống GPLX, đăng kiểm. Nguồn: luatvietnam.vn (slug 109924).
+5. **Giáo dục / Lao động** (ưu tiên số 5): **182/2026/NĐ-CP** — phụ cấp ưu đãi nhà giáo 20–80%; hiệu lực 07/7/2026; tác động nhà giáo toàn quốc. Docid sơ bộ: 218228.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 17. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm Luật Viên chức 2025** bổ sung: 234/2026/NĐ-CP (xử lý kỷ luật) — cùng đợt với 232, 233, 235 đã phát hiện lần 16. Tổng 4 NĐ-CP hướng dẫn Luật Viên chức 2025 hiệu lực 01/7/2026.
+- **Nhóm giao thông 01/7/2026** bổ sung: 241/2026/NĐ-CP (phân cấp quốc lộ, trạm dừng nghỉ) và 236/2026/NĐ-CP (quản lý GPLX, dữ liệu giao thông) — cả 2 sửa đổi NĐ 165/2024 và NĐ 151/2024 cùng hiệu lực 01/7/2026.
+- **224/2026/NĐ-CP**: Hướng dẫn Luật Chuyển đổi số — dịch vụ công trực tuyến chủ động, cung cấp thông tin một lần; tác động rộng đến chính phủ số.
+- **182/2026/NĐ-CP**: Phụ cấp ưu đãi nhà giáo — hiệu lực 07/7/2026 (sau đợt đầu 01/7), tác động trực tiếp đến lương và phụ cấp nhà giáo.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered. 182/2026 có docid sơ bộ 218228 từ link trên baochinhphu.vn. Các văn bản còn lại cần xác minh qua browser-automation hoặc quét dải docid 219300–219600 trong phiên sau.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, vov.vn, dantri.com.vn, vnexpress.net, cafef.vn, soha.vn.
+- Ngày phát hiện: 2026-07-05 08:05 ICT
+- Phiên thực hiện: agent:github-io:subagent:efb8ef04-ec9f-4b7d-8977-658641058548 (Đệ #1 Discovery — lần 17)
+
+---
 ## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 16)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
