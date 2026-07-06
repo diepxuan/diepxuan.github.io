@@ -1,3 +1,48 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 18)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp tháng 7/2026 (tối đa 5 văn bản/lần)
+
+Quét danh sách toàn văn luatvietnam.vn (danh sách 77 NĐ-CP có hiệu lực 01/7/2026) + web_search Brave theo nhóm chủ đề: Tài chính, Lao động, Y tế, Giáo dục, Nông nghiệp, Giao thông, Hàng không, Báo chí, Tư pháp. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 17): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 238/2026/NĐ-CP | 26/06/2026 | **Xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe** — cụ thể hóa Luật GTĐB 2024 (Luật 29/2024/QH15 có hiệu lực 01/7/2026); quy định hành vi vi phạm, mức phạt tiền, trừ điểm GPLX, phục hồi điểm; quy định ghế an toàn cho trẻ em bắt buộc; thay thế NĐ 46/2016/NĐ-CP và NĐ 123/2021/NĐ-CP; hiệu lực **15/8/2026** | Giao thông / An ninh trật tự | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn` (sẽ upload toàn văn); nguồn: baochinhphu.vn (2026-06-30 đăng Nghị định mới về trừ điểm GPLX), luatvietnam.vn (danh sách 77 NĐ-CP 01/7); ngày ban hành: 26/6/2026 (xác minh từ baochinhphu.vn chỉ đạo điều hành ngày 30/6); hiệu lực: 15/8/2026; tác động toàn bộ người tham gia giao thông, hệ thống GPLX Việt Nam; ưu tiên cao vì liên quan trực tiếp hàng triệu người lái xe |
+| 237/2026/NĐ-CP | 26/06/2026 | **Quy định chi tiết thi hành một số điều của Luật Báo chí 2023** — cụ thể hóa Luật Báo chí số 30/2016/QH14 (sửa đổi) về quyền hạn, trách nhiệm cơ quan báo chí, nhà báo; quản lý hoạt động báo in, báo điện tử, báo chí cá nhân; hiệu lực **01/7/2026** | Báo chí / Truyền thông | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn` (toàn văn sắp đăng); nguồn: luatvietnam.vn (danh sách 77 NĐ-CP 01/7, số 10 trong danh sách); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; cùng nhóm với 242/2026 (phát thanh truyền hình) và 244/2026 (phát ngôn) — cả nhóm 3 NĐ đồng loạt hướng dẫn Luật Báo chí 2023; tác động toàn bộ cơ quan báo chí, nhà báo, người làm truyền thông |
+| 224/2026/NĐ-CP | 24/06/2026 | **Quy định chi tiết một số điều và biện pháp thi hành Luật Chuyển đổi số** (Luật 61/2024/QH15, có hiệu lực 01/7/2026) — hướng dẫn nền tảng số, dữ liệu số, hạ tầng số, an toàn thông tin, dịch vụ công trực tuyến; thúc đẩy chuyển đổi số quốc gia; thay thế các quy định cũ về Chính phủ điện tử; hiệu lực **01/7/2026** | Chuyển đổi số / Hành chính | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-224-2026-nd-cp-quy-dinh-chi-tiet-mot-so-dieu-bien-phap-thi-hanh-luat-chuyen-doi-so-119260624143131047.htm` (sẽ đăng toàn văn); nguồn: luatvietnam.vn (danh sách 77 NĐ-CP, số 1 trong danh sách); ngày ban hành: 24/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan nhà nước, doanh nghiệp, công dân — nền tảng cho Chính phủ số, kinh tế số, xã hội số |
+| 242/2026/NĐ-CP | 26/06/2026 | **Quy định chi tiết và biện pháp thi hành Luật Báo chí về quản lý hoạt động phát thanh, truyền hình và dịch vụ phát thanh, truyền hình** — cụ thể hóa Luật Báo chí 2023 về phát thanh, truyền hình; cấp phép, quản lý kênh, nội dung, quảng cáo trên truyền hình, phát thanh; thay thế NĐ 06/2016/NĐ-CP và NĐ 127/2023/NĐ-CP; hiệu lực **01/7/2026** | Báo chí / Truyền thông | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn` (toàn văn sắp đăng); nguồn: luatvietnam.vn (danh sách 77 NĐ-CP 01/7, số 7); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động Đài PT-TH quốc gia, các đài địa phương, kênh TV, nền tảng OTT truyền hình; cùng nhóm Luật Báo chí 2023 với 237, 244/2026 |
+| 244/2026/NĐ-CP | 26/06/2026 | **Quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước** — quy định trách nhiệm phát ngôn của người phát ngôn, đại diện cơ quan nhà nước; quy trình cung cấp thông tin cho báo chí, quyền tác nghiệp của nhà báo; cụ thể hóa Luật Báo chí 2023 về quyền tiếp cận thông tin; hiệu lực **01/7/2026** | Báo chí / Hành chính | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn` (toàn văn sắp đăng); nguồn: luatvietnam.vn (danh sách 77 NĐ-CP 01/7, số 9); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ cơ quan nhà nước (trung ương + địa phương), người phát ngôn, nhà báo, báo chí; cùng nhóm Luật Báo chí 2023 với 237, 242/2026 |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 17)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 238/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 237/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 224/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 242/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 244/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Giao thông / An ninh trật tự** (ưu tiên số 1): **238/2026/NĐ-CP** — hệ thống trừ điểm GPLX mới theo Luật GTĐB 2024; hiệu lực 15/8/2026; tác động trực tiếp hàng triệu người lái xe toàn quốc; thay thế 2 NĐ cũ (46/2016, 123/2021). Cần TT BCA hướng dẫn thêm (chưa có).
+2. **Chuyển đổi số / Hành chính** (ưu tiên số 2): **224/2026/NĐ-CP** — hướng dẫn chi tiết Luật Chuyển đổi số; hiệu lực 01/7/2026; tác động toàn bộ Chính phủ số, kinh tế số, xã hội số.
+3. **Báo chí / Truyền thông** (ưu tiên số 3): **237/2026/NĐ-CP** + **242/2026/NĐ-CP** + **244/2026/NĐ-CP** — cùng nhóm 3 NĐ hướng dẫn Luật Báo chí 2023 đồng loạt hiệu lực 01/7/2026; tác động cơ quan báo chí, nhà báo, Đài PT-TH, người phát ngôn. Cần crawl cả 3 cùng đợt.
+4. **Ghi chú nhóm còn lại** (từ danh sách 77 NĐ-CP 01/7 chưa có trong tracking): 231/2026/NĐ-CP (giám sát người chấp hành án hình sự tại cộng đồng, 25/6), 223/2026/NĐ-CP (tàu bay và khai thác tàu bay, 23/6) — cần xác minh có trong tracking không ở phiên tiếp theo.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 18.
+- **Nhóm Luật Báo chí 2023** (3 NĐ đồng loạt): 237/2026 (báo chí), 242/2026 (phát thanh truyền hình), 244/2026 (phát ngôn) — cả 3 hướng dẫn cùng Luật có hiệu lực 01/7/2026; nên crawl cùng đợt vì liên quan chặt chẽ.
+- **238/2026/NĐ-CP**: Lưu ý — `Nghị định 238/2026/NĐ-CP về xử phạt chỉ có hiệu lực từ ngày 15/8/2026` theo luatvietnam.vn (nhiều người băn khoăn về ghế an toàn trẻ em trong khoảng 01/7–14/8/2026). Nguồn: baochinhphu.vn chỉ đạo điều hành ngày 30/6 xác nhận "Nghị định xử phạt giao thông mới về trừ điểm GPLX".
+- **Tổng quan 77 NĐ-CP hiệu lực 01/7/2026** (theo luatvietnam.vn): bao gồm nhiều nhóm chưa được ghi nhận đầy đủ — cần phiên tiếp theo quét thêm 231, 223, 220, 221, 222 (hàng không), 241 (đường bộ), 236 (Luật GTĐB 2024 - trừ điểm/giao thông), 239 (xúc tiến thương mại), 245 (gia hạn thuế — đã có trong lần 16), 253 (TNCN — đã crawl).
+- **Thiếu hụt nguồn**: Firecrawl 402 — chuyển hoàn toàn sang Brave web_search (không giới hạn credits). luatvietnam.vn slug không hoạt động cho nhiều văn bản mới — chờ xaydungchinhsach.chinhphu.vn upload toàn văn.
+- **Lưu ý docid chưa xác minh**: Tất cả 5 văn bản mới đều chưa xác minh docid từ vanban.chinhphu.vn — cần browser-automation hoặc xác minh gián tiếp qua xaydungchinhsach khi có toàn văn. Dải docid ước đoán: 219150–219250 (tháng 6/2026).
+- **Nhóm bổ sung tiềm năng** (cần xác minh ở phiên sau): Thông tư 06/2026/TT-BGDĐT (quy chế tuyển sinh đại học, cao đẳng mầm non — thấy trên xaydungchinhsach), 261/2026/NĐ-CP (phụ cấp nghệ thuật biểu diễn — chưa xác minh số hiệu), Thông tư BNV hướng dẫn lương cơ sở/lương hưu tháng 7/2026 (chưa có số hiệu cụ thể).
+- Nguồn: web_search Brave luatvietnam.vn (danh sách 77 NĐ-CP), xaydungchinhsach.chinhphu.vn (trang chính sách mới), baochinhphu.vn (chỉ đạo điều hành ngày 30/6), baotintuc.vn, thuvienphapluat.vn, eva.vn, vietbao.vn, giadinh.suckhoedoisong.vn.
+- Ngày phát hiện: 2026-07-07 05:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:cd7aa131-72ad-49bb-a04f-d5f1a0a97d25 (Đệ #1 Discovery — lần 18)
+
+---
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 17)
 
 ### Phát hiện mới từ web_search Brave tổng hợp tháng 7/2026 (tối đa 5 văn bản/lần)
