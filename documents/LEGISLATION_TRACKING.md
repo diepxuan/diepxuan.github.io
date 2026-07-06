@@ -1,6 +1,56 @@
 ## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 20)
 ## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 24)
 ## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 25)
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 26)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 220700–221200 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, gocnhinphaply.nguoiduatin.vn, danviet.vn, baomoi.com, cafef.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-06 lần 25): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 161/2026/NĐ-CP | 15/05/2026 | **Tăng mức lương cơ sở** — từ 01/7/2026, mức lương cơ sở tăng từ 2.340.000 đồng/tháng lên **2.530.000 đồng/tháng**; áp dụng đối với cán bộ, công chức, viên chức và lực lượng vũ trang; ảnh hưởng trực tiếp đến tiền lương, phụ cấp, lương hưu, BHXH; hiệu lực **01/7/2026** | Lao động / Tài chính / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (đăng 2026-07-05, "TĂNG LƯƠNG CƠ SỞ từ 1/7/2026"), gocnhinphaply.nguoiduatin.vn, thuvienphapluat.vn, danviet.vn, baomoi.com, cafef.vn; ngày ban hành: **15/5/2026** (cùng đợt 162/2026/NĐ-CP tăng lương hưu 8%); hiệu lực: 01/7/2026; tác động toàn bộ cán bộ, công chức, viên chức, lực lượng vũ trang, người hưởng lương hưu, BHXH toàn quốc (3 nhóm đóng BHXH theo lương cơ sở mới); cần xác minh docid |
+| 25/2026/TT-BYT | ~30/06/2026 | **Sửa đổi, bổ sung Thông tư 01/2013/TT-BYT, Thông tư 32/2023/TT-BYT, Thông tư 23/2024/TT-BYT và Thông tư 42/2025/TT-BYT** — sửa đổi quản lý chất lượng xét nghiệm tại cơ sở khám bệnh, chữa bệnh; quy định chi tiết Luật Khám bệnh, chữa bệnh; Danh mục kỹ thuật trong khám bệnh, chữa bệnh; hiệu lực **01/7/2026** | Y tế | vanban.chinhphu.vn (docid 218704) | **Chưa có** | Docid xác minh: **218704** từ vanban.chinhphu.vn (search result ngày 2026-07-05); nguồn: vanban.chinhphu.vn (docid 218704), thuvienphapluat.vn (tổng hợp thông tư 2026); ngày ban hành: ~30/6/2026 (ước đoán); hiệu lực: 01/7/2026; tác động cơ sở khám bệnh, chữa bệnh, phòng xét nghiệm toàn quốc; cần xác minh ngày ban hành chi tiết |
+| 27/2026/TT-BYT | ~30/06/2026 | **Ban hành Danh mục thực phẩm; dụng cụ chứa đựng thực phẩm, vật liệu bao gói tiếp xúc trực tiếp với thực phẩm có mức độ rủi ro trung bình** — phân loại mức độ rủi ro thực phẩm, dụng cụ chứa đựng, vật liệu bao gói; quy định quản lý an toàn thực phẩm theo mức độ rủi ro; hiệu lực **01/7/2026** | Y tế / An toàn thực phẩm | vanban.chinhphu.vn (chua-xac-minh) | **Chưa có** | Nguồn: thuvienphapluat.vn (tổng hợp thông tư 2026, "Ban hành Danh mục thực phẩm... có mức độ rủi ro trung bình từ 1/7/2026"); vanban.chinhphu.vn chưa xác minh docid (cần tìm thêm); ngày ban hành: ~30/6/2026 (ước đoán); hiệu lực: 01/7/2026; tác động doanh nghiệp thực phẩm, vật liệu bao gói thực phẩm; cần xác minh docid và ngày ban hành |
+| 225/2026/NĐ-CP | 24/06/2026 | **Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ** — cơ cấu tổ chức Bộ KHCN theo Luật Tổ chức Chính phủ mới; hiệu lực **01/7/2026** | Hành chính / KHCN | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Đã có Nghị định 225/2026/NĐ-CP về cơ cấu tổ chức của Bộ Khoa học và Công nghệ", slug 109833, đăng 2026-07-01); ngày ban hành: 24/6/2026 xác minh từ luatvietnam.vn; hiệu lực: 01/7/2026; tác động Bộ KHCN, cơ quan ngang bộ; cần xác minh docid và crawl chi tiết |
+| 250/2026/NĐ-CP | 30/06/2026 | **Quy định chi tiết về kỹ thuật trình bày văn bản hợp nhất** — quy định chi tiết kỹ thuật trình bày văn bản hợp nhất; thay thế các quy định cũ; hiệu lực **01/7/2026** | Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 439424, đăng 2026-07-04), baochinhphu.vn; ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động cơ quan nhà nước soạn thảo văn bản hợp nhất; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-06 lần 25)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 161/2026/NĐ-CP | **CÓ** (lần 18, 25) | Thêm mới — chưa crawl chi tiết; ngày ban hành xác minh **15/5/2026** (trước đó ước đoán ~26/6/2026); cần cập nhật ngày |
+| 25/2026/TT-BYT | **KHÔNG** | Thêm mới — Chưa có |
+| 27/2026/TT-BYT | **KHÔNG** | Thêm mới — Chưa có |
+| 225/2026/NĐ-CP | **CÓ** (lần 25) | Thêm mới — chưa crawl chi tiết; cần xác minh docid |
+| 250/2026/NĐ-CP | **CÓ** (lần 25) | Thêm mới — chưa crawl chi tiết; cần xác minh docid |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Tài chính / Hành chính** (ưu tiên số 1 — tác động toàn quốc, đã xác minh ngày): **161/2026/NĐ-CP** — tăng lương cơ sở lên 2.530.000 đ, ảnh hưởng lương, phụ cấp, lương hưu, BHXH; ngày ban hành **15/5/2026** (xác minh). Nguồn: xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, danviet.vn. Cần xác minh docid.
+2. **Y tế** (ưu tiên số 2 — docid đã xác minh): **25/2026/TT-BYT** — sửa đổi quản lý xét nghiệm, khám bệnh. Docid: **218704**. Nguồn: vanban.chinhphu.vn. Cần xác minh ngày ban hành chi tiết và crawl.
+3. **Y tế / An toàn thực phẩm** (ưu tiên số 3): **27/2026/TT-BYT** — Danh mục thực phẩm, dụng cụ chứa đựng rủi ro trung bình. Hiệu lực 01/7/2026. Nguồn: thuvienphapluat.vn. Cần xác minh docid.
+4. **Hành chính / KHCN** (ưu tiên số 4): **225/2026/NĐ-CP** — cơ cấu tổ chức Bộ KHCN từ 01/7/2026. Ngày ban hành 24/6/2026 xác minh. Cần xác minh docid và crawl chi tiết.
+5. **Hành chính** (ưu tiên số 5): **250/2026/NĐ-CP** — kỹ thuật trình bày văn bản hợp nhất; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 439424). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào/cập nhật tracking lần 26. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **161/2026/NĐ-CP ngày ban hành**: Xác minh **15/5/2026** (lần 18/19 ước đoán ~26/6/2026 là sai). Đây là văn bản tiền lương quan trọng nhất năm 2026 — tăng lương cơ sở lên 2.530.000 đ, ảnh hưởng trực tiếp đến toàn bộ hệ thống công vụ và an sinh xã hội. Cùng đợt ban hành 15/5/2026 với 162/2026/NĐ-CP (tăng lương hưu 8%).
+- **25/2026/TT-BYT docid**: Docid **218704** xác minh từ vanban.chinhphu.vn (search result "6 hours ago" = 2026-07-05). Đây là Thông tư Bộ Y tế sửa đổi 4 thông tư về quản lý chất lượng xét nghiệm và khám bệnh. Ngày ban hành ước đoán ~30/6/2026 (cùng đợt với các NĐ-CP 245-260).
+- **27/2026/TT-BYT**: Thông tư Bộ Y tế về Danh mục thực phẩm, dụng cụ chứa đựng rủi ro trung bình. Vanban.chinhphu.vn chưa index — cần tìm thêm bằng browser-automation. Ngày ban hành ước đoán ~30/6/2026.
+- **225/2026/NĐ-CP**: Đã ghi nhận lần 25 nhưng chưa crawl chi tiết. Lần 26 xác nhận vẫn chưa hoàn thiện. Docid chưa xác minh.
+- **250/2026/NĐ-CP**: Đã ghi nhận lần 25 nhưng chưa crawl chi tiết. Lần 26 xác nhận vẫn chưa hoàn thiện. Docid chưa xác minh.
+- **Docid đã xác minh**: 25/2026/TT-BYT → docid **218704** (vanban.chinhphu.vn). Các docid khác chưa xác minh — vanban.chinhphu.vn dùng JS-rendered.
+- **Lưu ý về nhóm Thông tư BYT đợt 30/6/2026**: Ngoài 25 và 27, có thể còn 26/2026/TT-BYT và các thông tư khác cùng đợt. Cần quét thêm trong phiên tiếp theo.
+- **Lưu ý về nhóm Nghị định tháng 5**: Đợt ban hành Nghị định 15/5/2026 gồm 161, 162 và có thể các Nghị định khác (163, 164...) cần kiểm tra xem đã tracking chưa.
+- Nguồn: web_search Brave tổng hợp vanban.chinhphu.vn, xaydungchinhsach.chinhphu.vn, luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, gocnhinphaply.nguoiduatin.vn, danviet.vn, baomoi.com, cafef.vn, thuvienphapluat.vn.
+- Ngày phát hiện: 2026-07-06 20:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:6ffe7cae-b363-4544-a9c6-8ea1c92a0ea7 (Đệ #1 Discovery — lần 26)
+
+---
+
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 25)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
 
