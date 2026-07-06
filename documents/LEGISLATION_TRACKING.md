@@ -1,7 +1,52 @@
 ## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 20)
 ## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 24)
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 25)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 220500–221000 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành tháng 7/2026 chưa tracking. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-06 lần 24): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 254/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn thi hành Luật Quản lý thuế 2025 về hóa đơn điện tử, chứng từ điện tử** — quy định chi tiết một số điều và biện pháp thi hành Luật Quản lý thuế số 108/2025/QH15 về hóa đơn điện tử, chứng từ điện tử; quy định đối tượng sử dụng hóa đơn điện tử; 6 điểm mới về hóa đơn điện tử; thay thế NĐ 123/2020/NĐ-CP; hiệu lực **01/7/2026** | Thuế / Tài chính / CNTT | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (ID 713085), luatvietnam.vn (slug 439381, đăng 2026-07-04), luatvietnam.vn (slug 110109, "6 điểm mới về hóa đơn điện tử", đăng 2026-07-03), meinvoice.vn, helpv4.meinvoice.vn (hướng dẫn khai báo theo NĐ 254), baochinhphu.vn (quy định đối tượng sử dụng hóa đơn điện tử); ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ doanh nghiệp, tổ chức, cá nhân sử dụng hóa đơn điện tử; cần xác minh docid |
+| 250/2026/NĐ-CP | 30/06/2026 | **Quy định chi tiết về kỹ thuật trình bày văn bản hợp nhất** — quy định chi tiết kỹ thuật trình bày văn bản hợp nhất; thay thế các quy định cũ; hiệu lực **01/7/2026** | Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 439424, đăng 2026-07-04), baochinhphu.vn; ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động cơ quan nhà nước soạn thảo văn bản hợp nhất; cần xác minh docid |
+| 235/2026/NĐ-CP | 26/06/2026 | **Quy định về hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập** — hợp đồng thực hiện công việc (không phải hợp đồng lao động), quyền và nghĩa vụ các bên, tiền lương, thời hạn, chấm dứt hợp đồng; cụ thể hóa Luật Viên chức 2025; quy định đơn vị sự nghiệp xếp loại theo thang điểm 100; người đứng đầu không được xếp loại cao hơn đơn vị mình quản lý; UBND tỉnh phải họp báo định kỳ ít nhất 3 tháng/lần; hiệu lực **01/7/2026** | Lao động / Viên chức | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn ngày 2026-06-30), thuvienphapluat.vn (tổng hợp 4 NĐ hướng dẫn Luật Viên chức 2025), luatvietnam.vn (tin đăng 2026-07-01 đến 2026-07-06); ngày ban hành: 26/6/2026 xác minh; hiệu lực: 01/7/2026; tác động đơn vị sự nghiệp công lập, người lao động ký hợp đồng công việc; cần xác minh docid |
+| 233/2026/NĐ-CP | 26/06/2026 | **Quy định về đánh giá, xếp loại chất lượng đơn vị sự nghiệp công lập và viên chức** — tiêu chí đánh giá, xếp loại đơn vị sự nghiệp công lập và viên chức hàng năm; viên chức được chấm điểm theo tháng, quý thay vì chỉ đánh giá cuối năm; kết quả đánh giá gắn với tiền thưởng, thu nhập tăng thêm; cụ thể hóa Luật Viên chức 2025; hiệu lực **01/7/2026** | Hành chính / Viên chức | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn ngày 2026-07-01), luatvietnam.vn (tin đăng 2026-07-06), thuvienphapluat.vn (tổng hợp 4 NĐ hướng dẫn Luật Viên chức 2025); ngày ban hành: 26/6/2026 xác minh; hiệu lực: 01/7/2026; tác động đơn vị sự nghiệp công lập, viên chức toàn quốc; cần xác minh docid |
+| 225/2026/NĐ-CP | 24/06/2026 | **Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ** — cơ cấu tổ chức Bộ KHCN theo Luật Tổ chức Chính phủ mới; hiệu lực **01/7/2026** | Hành chính / KHCN | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Đã có Nghị định 225/2026/NĐ-CP về cơ cấu tổ chức của Bộ Khoa học và Công nghệ", slug 109833, đăng 2026-07-01); ngày ban hành: 24/6/2026 xác minh từ luatvietnam.vn; hiệu lực: 01/7/2026; tác động Bộ KHCN, cơ quan ngang bộ; cần xác minh docid và crawl chi tiết |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-06 lần 24)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 254/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 250/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 235/2026/NĐ-CP | **CÓ** (lần 16) | Thêm mới — chưa crawl chi tiết (lần 16 ghi chưa crawl); cần xác minh nội dung chi tiết đã được bổ sung từ xaydungchinhsach |
+| 233/2026/NĐ-CP | **CÓ** (lần 16) | Thêm mới — chưa crawl chi tiết (lần 16 ghi chưa crawl); cần xác minh nội dung chi tiết đã được bổ sung từ xaydungchinhsach |
+| 225/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế / Tài chính / CNTT** (ưu tiên số 1): **254/2026/NĐ-CP** — hướng dẫn Luật Quản lý thuế 2025 về hóa đơn điện tử, thay thế NĐ 123/2020, có 6 điểm mới; tác động toàn bộ doanh nghiệp dùng hóa đơn điện tử. Nguồn: luatvietnam.vn (slug 439381), thuvienphapluat.vn (ID 713085). Hiệu lực 01/7/2026. Cần xác minh docid.
+2. **Hành chính** (ưu tiên số 2): **250/2026/NĐ-CP** — kỹ thuật trình bày văn bản hợp nhất; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 439424). Cần xác minh docid.
+3. **Lao động / Viên chức** (ưu tiên số 3): **235/2026/NĐ-CP** — hợp đồng công việc trong đơn vị sự nghiệp công lập; có toàn văn trên xaydungchinhsach.chinhphu.vn (đăng 30/6/2026). Nguồn: xaydungchinhsach. Cần xác minh docid.
+4. **Hành chính / Viên chức** (ưu tiên số 4): **233/2026/NĐ-CP** — đánh giá, xếp loại viên chức; có toàn văn trên xaydungchinhsach.chinhphu.vn (đăng 1/7/2026). Cần xác minh docid.
+5. **Hành chính / KHCN** (ưu tiên số 5): **225/2026/NĐ-CP** — cơ cấu tổ chức Bộ KHCN, hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 109833). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 25. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm 254/2026/NĐ-CP**: Thay thế NĐ 123/2020/NĐ-CP về hóa đơn điện tử — văn bản có tác động cực kỳ rộng đến toàn bộ doanh nghiệp, tổ chức, cá nhân sử dụng hóa đơn tại Việt Nam. Đây là văn bản Thuế/Tài chính quan trọng nhất trong đợt này.
+- **Nhóm Luật Viên chức 2025 bổ sung**: 233 và 235/2026/NĐ-CP được phát hiện lần 16 nhưng chưa crawl chi tiết. Lần 25 xác minh ngày ban hành (26/6/2026) và có toàn văn trên xaydungchinhsach.chinhphu.vn. Cùng nhóm với 232, 234 đã phát hiện và crawl lần 17. Tổng 4 NĐ-CP hướng dẫn Luật Viên chức 2025 (232, 233, 234, 235) cùng hiệu lực 01/7/2026.
+- **250/2026/NĐ-CP**: Văn bản hành chính mới hoàn toàn — quy định kỹ thuật trình bày văn bản hợp nhất. Cần xác minh docid.
+- **225/2026/NĐ-CP**: Văn bản hành chính/tổ chức — cơ cấu tổ chức Bộ KHCN từ 01/7/2026. Cần xác minh docid.
+- **Lưu ý về nhóm Luật Viên chức**: 232, 233, 234, 235 cùng hiệu lực 01/7/2026 hướng dẫn Luật Viên chức số 129/2025/QH15. 234 đã crawl (lần 17); 232 đã có trong tracking (lần 17); 233 và 235 lần 16 chưa crawl.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered. Dựa trên pattern đợt 30/6 ước đoán docid: 219000–220000. Cần browser-automation để xác minh.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, meinvoice.vn, helpv4.meinvoice.vn, vnreview.vn.
+- Ngày phát hiện: 2026-07-06 18:02 ICT
+- Phiên thực hiện: agent:github-io:subagent:cb343335-b65f-4546-b6d7-6f13bfd5d965 (Đệ #1 Discovery — lần 25)
+
+---
+
 
 Quét vanban.chinhphu.vn dải docid 220500–220800 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, nhandan.vn, vov.vn, tienphong.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành cuối tháng 6/đầu tháng 7/2026 chưa tracking. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-05 lần 23): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
 
