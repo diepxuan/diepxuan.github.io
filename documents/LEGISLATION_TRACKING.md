@@ -1,3 +1,51 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 29)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 221000–221500 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, gocnhinphaply.nguoiduatin.vn, danviet.vn, baomoi.com, cafef.vn, vov.vn, vietnamplus.vn, dantri.com.vn, giaoducthoidai.vn, vnexpress.net, thuviennhadat.vn, datafiles.chinhphu.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. Ưu tiên văn bản tháng 7/2026 (ban hành sau 01/7/2026). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 28): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 37/2026/TT-BXD | 26/06/2026 | **Hướng dẫn phương pháp xác định định mức dự toán và các chỉ tiêu kinh tế kỹ thuật** — hướng dẫn phương pháp xác định định mức dự toán, giá nhân công, giá ca máy và thiết bị thi công xây dựng; các chỉ tiêu kinh tế kỹ thuật trong dự toán xây dựng; đồng bộ với NĐ 206/2026/NĐ-CP (quản lý chi phí đầu tư xây dựng cùng ngày 15/6/2026); thay thế các quy định cũ; hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438888, "Ngày 26/06/2026, Bộ Xây dựng đã ban hành Thông tư 37/2026/TT-BXD"), dutoanf1.com.vn ("Ngày 26/6/2026, Bộ Xây dựng ban hành"), thuvienphapluat.vn (712395, "Ngày 26/6/2026"), baomoi.com, nhansu.vn, dutoaneta.vn; ngày ban hành: **26/6/2026** xác minh từ 5 nguồn độc lập; hiệu lực: 01/7/2026; tác động toàn bộ ngành xây dựng, dự toán công trình; Lưu ý: Thông tư này KHÁC với 36/2026/TT-BXD (chi phí đầu tư) và 38/2026/TT-BXD (định mức xây dựng); cả 3 cùng ngày 26/6/2026; cần xác minh docid |
+| 79/2026/TT-BTC | 30/06/2026 | **Quy định về thu, chi của chủ đầu tư, ban quản lý dự án sử dụng vốn ngân sách nhà nước** — quy định thu, chi của chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước; thay thế Thông tư 70/2024/TT-BTC; quy định mới phù hợp với Luật Ngân sách nhà nước năm 2025 và các quy định hiện hành; hiệu lực **01/7/2026** | Tài chính / Đầu tư | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 439538, "Ngày 30/6/2026, Bộ trưởng Bộ Tài chính ban hành Thông tư 79/2026/TT-BTC"), tapchikinhtetaichinh.vn ("Thông tư có hiệu lực thi hành từ ngày 1/7/2026, thay thế Thông tư số 70/2024/TT-BTC"); ngày ban hành: **30/6/2026** xác minh từ nhiều nguồn; hiệu lực: 01/7/2026; tác động chủ đầu tư, ban quản lý dự án vốn ngân sách nhà nước; cần xác minh docid và crawl chi tiết |
+| 36/2026/TT-BKHCN | 30/06/2026 | **Ban hành Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình, mức độ rủi ro cao thuộc trách nhiệm quản lý của Bộ Khoa học và Công nghệ** — phân loại mức độ rủi ro sản phẩm, hàng hóa thuộc trách nhiệm quản lý của Bộ KHCN; biện pháp quản lý tương ứng từng mức độ rủi ro; hiệu lực **01/7/2026** | KHCN / Tiêu chuẩn đo lường | chua-xac-minh | **Chưa có** | Nguồn: mst.gov.vn (tin "Thông tư số 36/2026/TT-BKHCN", đăng 2026-07-01/02), tcvn.gov.vn ("Bộ Khoa học và Công nghệ ban hành Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình, mức độ rủi ro cao", có hiệu lực 01/7/2026); ngày ban hành: ước đoán **30/6/2026** (cùng đợt thông tư 26/6 và 30/6); hiệu lực: 01/7/2026; tác động doanh nghiệp sản xuất, kinh doanh sản phẩm thuộc Bộ KHCN quản lý; cần xác minh ngày ban hành chính xác và docid |
+| 34/2026/TT-BXD | 25/06/2026 | **Quy định chi tiết về cấp công trình xây dựng phục vụ quản lý hoạt động xây dựng** — quy định chi tiết về cấp công trình xây dựng; nguyên tắc xác định cấp công trình; áp dụng cấp công trình trong quản lý hoạt động xây dựng; phân cấp công trình xây dựng; thay thế Thông tư 06/2021/TT-BXD và Thông tư 02/2025/TT-BXD; hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438787, "Ngày 25/06/2026, Bộ Xây dựng đã ban hành Thông tư 34/2026/TT-BXD"), baoxaydung.vn ("Ngày 25/6, Bộ Xây dựng ban hành Thông tư số 34/2026/TT-BXD"), costflow.vn, thuvienphapluat.vn (276868, toàn văn), kiemtoanxaydung.vn, moc.gov.vn; ngày ban hành: **25/6/2026** xác minh từ 5 nguồn; hiệu lực: 01/7/2026; tác động toàn bộ ngành xây dựng, cơ quan quản lý xây dựng; cần xác minh docid |
+| 74/2026/TT-BQP | 16/06/2026 | **Hướng dẫn thực hiện mức lương cơ sở đối với các đối tượng hưởng lương hoặc phụ cấp quân hàm, sinh hoạt phí từ ngân sách nhà nước trong Quân đội** — hướng dẫn mức lương cơ sở 2.530.000 đồng/tháng cho quân nhân, công chức quốc phòng; phụ cấp quân hàm, sinh hoạt phí; bảng lương mới trong quân đội từ 01/7/2026; thay thế Thông tư 38/2024/TT-BQP; hiệu lực **01/7/2026** | Lao động / Quốc phòng | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn "ngày 16/6/2026"), luatvietnam.vn (slug 437720, 109673, "Ngày 16/6/2026, Bộ Quốc phòng ban hành Thông tư số 74/2026/TT-BQP"), thuvienphapluat.vn (274829, toàn văn), baomoi.com, vov.vn; ngày ban hành: **16/6/2026** xác minh từ nhiều nguồn; hiệu lực: 01/7/2026; tác động quân nhân, công chức quốc phòng, hệ thống lương quân đội; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 28)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 37/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 79/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 36/2026/TT-BKHCN | **KHÔNG** | Thêm mới — Chưa có |
+| 34/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 74/2026/TT-BQP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Xây dựng** (ưu tiên số 1): **37/2026/TT-BXD** — hướng dẫn định mức dự toán, giá nhân công, giá ca máy; cùng nhóm với 36 và 38/2026/TT-BXD; ngày ban hành **26/6/2026** xác minh. Nguồn: luatvietnam.vn (slug 438888), thuvienphapluat.vn (712395). Cần xác minh docid.
+2. **Tài chính / Đầu tư** (ưu tiên số 2): **79/2026/TT-BTC** — thu chi dự án vốn ngân sách nhà nước, thay thế TT 70/2024; ngày ban hành **30/6/2026** xác minh; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 439538). Cần xác minh docid và crawl chi tiết.
+3. **Xây dựng** (ưu tiên số 3): **34/2026/TT-BXD** — cấp công trình xây dựng, thay thế TT 06/2021 và TT 02/2025; ngày ban hành **25/6/2026** xác minh. Nguồn: luatvietnam.vn (slug 438787), baoxaydung.vn, thuvienphapluat.vn (276868, toàn văn). Cần xác minh docid.
+4. **KHCN / Tiêu chuẩn đo lường** (ưu tiên số 4): **36/2026/TT-BKHCN** — Danh mục sản phẩm, hàng hóa rủi ro trung bình và cao thuộc Bộ KHCN; hiệu lực 01/7/2026. Nguồn: mst.gov.vn, tcvn.gov.vn. Cần xác minh ngày ban hành và docid.
+5. **Lao động / Quốc phòng** (ưu tiên số 5): **74/2026/TT-BQP** — hướng dẫn lương cơ sở trong quân đội, bảng lương mới từ 01/7/2026; ngày ban hành **16/6/2026** xác minh. Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn), thuvienphapluat.vn (274829, toàn văn). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 29. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm Thông tư Xây dựng đợt 25-26/6/2026 (3 văn bản)**: 34/2026/TT-BXD (cấp công trình, 25/6), 36/2026/TT-BXD (chi phí đầu tư, 26/6), 37/2026/TT-BXD (định mức dự toán, 26/6), 38/2026/TT-BXD (định mức xây dựng, 26/6) — cùng hiệu lực 01/7/2026, tác động toàn bộ ngành xây dựng. Cả 4 chưa xác minh docid. Nhóm này thuộc Luật Xây dựng 2025 có hiệu lực 01/7/2026.
+- **79/2026/TT-BTC ngày ban hành**: Xác minh **30/6/2026** từ luatvietnam.vn và tapchikinhtetaichinh.vn. Thay thế Thông tư 70/2024/TT-BTC về thu chi dự án vốn ngân sách nhà nước, phù hợp với Luật Ngân sách nhà nước 2025.
+- **36/2026/TT-BKHCN**: Thông tư Bộ KHCN về Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình và cao. Ngày ban hành ước đoán 30/6/2026 (cùng đợt thông tư 26/6 và 30/6/2026). Cần xác minh ngày chính xác và docid.
+- **74/2026/TT-BQP ngày ban hành**: Xác minh **16/6/2026** từ xaydungchinhsach.chinhphu.vn (toàn văn) và nhiều nguồn. Hướng dẫn mức lương cơ sở 2.530.000 đ cho quân đội từ 01/7/2026. Có toàn văn trên xaydungchinhsach.chinhphu.vn và thuvienphapluat.vn.
+- **Lưu ý về nhóm BXD đợt 25-26/6/2026**: 34, 36, 37, 38/2026/TT-BXD là 4 thông tư cùng đợt của Bộ Xây dựng hướng dẫn Luật Xây dựng 2025. Tất cả đều hiệu lực 01/7/2026 và thay thế nhiều thông tư cũ. Cần xác minh docid cho cả 4 (vanban.chinhphu.vn JS-rendered).
+- **Không có Nghị định 272+**: Quét vanban.chinhphu.vn dải docid 221000–221500 (JS-rendered), web_search nhiều lượt, kiểm tra datafiles.chinhphu.vn — không phát hiện văn bản tháng 7/2026 nào (272+) được ban hành sau 03/7. Chỉ có 271/2026/NĐ-CP (03/7/2026) từ lần 28. Tiếp tục theo dõi các ngày tới.
+- **Lưu ý về văn bản tháng 6/2026**: Nhiều thông tư đợt 25-30/6/2026 vẫn chưa được ghi nhận đầy đủ trong tracking. Cần tiếp tục kiểm tra các thông tư BYT, BTC, BGD, BNNPTNT, BHXH cùng đợt.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, mst.gov.vn, tcvn.gov.vn, dutoanf1.com.vn, dutoaneta.vn, nhansu.vn, baoxaydung.vn, moc.gov.vn, tapchikinhtetaichinh.vn, costflow.vn, kiemtoanxaydung.vn, baomoi.com, vov.vn, thuviennhadat.vn, vnexpress.net, phanmemeta.com.
+- Ngày phát hiện: 2026-07-07 01:02 ICT
+- Phiên thực hiện: agent:github-io:subagent:914c4eaf-5a6a-4029-8880-6864ec194849 (Đệ #1 Discovery — lần 29)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 28)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
