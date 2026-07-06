@@ -1271,3 +1271,47 @@ Quét vanban.chinhphu.vn dải docid 220000–220500 (JS-rendered, cần browser
 - Nguồn: web_search Brave + web_fetch luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, baoquangninh.vn, baolaocai.vn, bvdkthaibinh.vn, vtv.vn, baomoi.com.
 - Ngày phát hiện: 2026-07-05 20:40 ICT
 - Phiên thực hiện: agent:github-io:subagent:569a9e26-2336-496a-b123-7fd5b43563ce (Đệ #1 Discovery — lần 21)
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 21)
+
+### Phát hiện mới từ web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét web_search Brave tổng hợp từ luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. Ưu tiên văn bản ban hành cuối tháng 6/2026 và đầu tháng 7/2026, hiệu lực 2026, chưa được ghi nhận trong tracking đến 2026-07-05 (lần 20). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-05 lần 20): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 168/NQ-CP | 27/06/2026 | **Cập nhật kịch bản tăng trưởng và giải pháp trọng tâm năm 2026** — cập nhật kịch bản tăng trưởng và giải pháp trọng tâm nhằm đạt mục tiêu tăng trưởng từ 10% trở lên, gắn với ổn định kinh tế vĩ mô; nhiệm vụ, giải pháp chủ yếu về điều hành chính sách tiền tệ; mọi cơ chế, chính sách lấy người dân, doanh nghiệp làm trung tâm; hiệu lực ngay khi ban hành | Tài chính / Kinh tế vĩ mô | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438913, "ban hành ngày 27/06/2026"), baochinhphu.vn, thuvienphapluat.vn (ID 277136), bnews.vn; ngày ban hành: 27/6/2026 xác minh từ luatvietnam.vn; hiệu lực ngay ký; tác động chính sách kinh tế vĩ mô toàn quốc; cần xác minh docid |
+| 265/2026/NĐ-CP | ~30/06/2026 | **Xử phạt vi phạm hành chính trong lĩnh vực tiết kiệm, chống lãng phí** — phạt cảnh cáo chậm ban hành Chương trình tiết kiệm dưới 30 ngày; phạt tiền 1–3 triệu ban hành Chương trình không đầy đủ nội dung; phạt tiền 5–10 triệu không ban hành hoặc chậm từ 30 ngày trở lên; phạt tiền 10–15 triệu báo cáo không trung thực hoặc báo cáo chậm từ 30 ngày trở lên; hiệu lực **01/7/2026** | Hành chính / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110110, tin "Chậm ban hành Chương trình tiết kiệm, chống lãng phí bị phạt cảnh cáo từ 01-7-2026"), vietnamplus.vn (đăng 04/7/2026), baothanhhoa.vn, baomoi.com; ngày ban hành: ước đoán ~30/6/2026 (cùng đợt với 266, 248, 260); hiệu lực: 01/7/2026; tác động toàn bộ cơ quan nhà nước, doanh nghiệp nhà nước; cần xác minh ngày ban hành và docid |
+| 266/2026/NĐ-CP | ~30/06/2026 | **Quy định chi tiết và hướng dẫn thi hành Luật Tiết kiệm, chống lãng phí** (Luật 110/2025/QH15) — hướng dẫn Điều 4, 5, 9, 12, 13, 15, 16, 17, 24 của Luật; quy định cụ thể các hành vi gây lãng phí trong tổ chức bộ máy (thành lập sai điều kiện, bố trí cấp phó vượt quy định, tuyển dụng không đúng thẩm quyền, ký hợp đồng lao động không đúng, kéo dài dự án đầu tư công); trong đầu tư công và quản lý tài sản công; trong khai thác tài nguyên, năng lượng; hiệu lực **01/7/2026** | Hành chính / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: vietnamplus.vn (04/7/2026, "ban hành Nghị định số 266/2026/NĐ-CP"), baomoi.com, vov.vn (02/7/2026), vietnamplus.vn (12h trước); ngày ban hành: ước đoán ~30/6/2026 (cùng đợt 265, 248, 260); hiệu lực: 01/7/2026; tác động toàn bộ cơ quan nhà nước, doanh nghiệp nhà nước; cần xác minh ngày ban hành và docid |
+| 38/2026/TT-BXD | 26/06/2026 | **Ban hành định mức xây dựng mới** — thay thế Thông tư 12/2021/TT-BXD, Thông tư 09/2024/TT-BXD, Thông tư 08/2025/TT-BXD và Điều 2 Thông tư 60/2025/TT-BXD; định mức chi phí quản lý dự án và tư vấn xây dựng tại Phụ lục VIII; thay thế toàn bộ hệ thống định mức xây dựng cũ; hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: dutoanf1.com.vn (xác nhận ngày 26/6/2026), luatvietnam.vn (slug 438889, "ban hành ngày 26/6/2026"), thuviennhadat.vn, thuvienphapluat.vn; ngày ban hành: 26/6/2026 xác minh; hiệu lực: 01/7/2026; tác động toàn bộ ngành xây dựng, dự toán công trình; cần xác minh docid |
+| 220/2026/NĐ-CP | 22/06/2026 | **Sửa đổi, bổ sung một số điều của Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc** — sửa đổi Điều 32 Nghị định 67/2023 về bảo hiểm bắt buộc công trình trong thời gian xây dựng; quy định chủ đầu tư có trách nhiệm mua bảo hiểm bắt buộc công trình; hiệu lực **01/7/2026** | Bảo hiểm / Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 109969, tin "Chính sách mới về Bảo hiểm hiệu lực tháng 7/2026" đề cập NĐ 220/2026), spirit.vietnamairlines.com (bản tin tháng 6/2026 xác nhận "ban hành ngày 22/6/2026"); ngày ban hành: 22/6/2026 xác minh; hiệu lực: 01/7/2026; tác động chủ đầu tư xây dựng công trình; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-05 lần 20)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 168/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 265/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 266/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 38/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 220/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hành chính / Tài chính** (ưu tiên số 1 — hướng dẫn Luật Tiết kiệm, chống lãng phí 110/2025, hiệu lực 01/7/2026, tác động toàn bộ cơ quan nhà nước): **266/2026/NĐ-CP** — quy định chi tiết Luật Tiết kiệm, chống lãng phí, cụ thể hóa hành vi gây lãng phí. Nguồn: vietnamplus.vn, vov.vn. Cần xác minh ngày ban hành và docid.
+2. **Hành chính / Tài chính** (ưu tiên số 2 — cùng nhóm với 266): **265/2026/NĐ-CP** — xử phạt VPHC trong lĩnh vực tiết kiệm, chống lãng phí, mức phạt 1–15 triệu đồng. Nguồn: luatvietnam.vn (slug 110110). Cần xác minh ngày ban hành và docid.
+3. **Tài chính / Kinh tế vĩ mô** (ưu tiên số 3): **168/NQ-CP** — cập nhật kịch bản tăng trưởng 10%, giải pháp trọng tâm năm 2026. Nguồn: luatvietnam.vn (slug 438913), thuvienphapluat.vn (ID 277136). Cần xác minh docid.
+4. **Xây dựng** (ưu tiên số 4): **38/2026/TT-BXD** — định mức xây dựng mới, thay thế 4 thông tư cũ. Nguồn: luatvietnam.vn (slug 438889), thuviennhadat.vn. Cần xác minh docid.
+5. **Bảo hiểm / Xây dựng** (ưu tiên số 5): **220/2026/NĐ-CP** — sửa đổi NĐ 67/2023 về bảo hiểm bắt buộc công trình xây dựng. Ngày ban hành 22/6/2026 xác minh qua spirit.vietnamairlines.com. Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 21. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm Luật Tiết kiệm, chống lãng phí 110/2025** (2 văn bản: 265 + 266, hiệu lực 01/7/2026): Đây là cặp Nghị định đồng thời — 265 quy định xử phạt vi phạm hành chính, 266 quy định chi tiết thi hành. Tác động toàn bộ cơ quan nhà nước, doanh nghiệp nhà nước. Cần kiểm tra xem 265 có phải là Nghị định xử phạt (thay thế Nghị định cũ nào) không.
+- **168/NQ-CP**: Nghị quyết về kịch bản tăng trưởng kinh tế — ngày ban hành 27/6/2026 xác minh từ luatvietnam.vn. Nghị quyết có nội dung về chính sách tiền tệ, lấy người dân và doanh nghiệp làm trung tâm. Hiệu lực ngay khi ban hành.
+- **38/2026/TT-BXD**: Định mức xây dựng — thay thế 4 Thông tư cũ (12/2021, 09/2024, 08/2025, 60/2025), tác động toàn bộ ngành xây dựng, dự toán công trình. Ngày ban hành 26/6/2026 xác minh.
+- **220/2026/NĐ-CP**: Bảo hiểm bắt buộc công trình — sửa đổi NĐ 67/2023. Ngày ban hành 22/6/2026 xác minh qua spirit.vietnamairlines.com (bản tin pháp luật tháng 6/2026).
+- **Docid chưa xác minh** cho tất cả 5 văn bản. 168/NQ-CP và 220/2026/NĐ-CP có dải docid ước đoán: 219000–220500. 265, 266, 38/TT-BXD cần quét riêng.
+- **Lưu ý**: 168/NQ-CP (Nghị quyết) khác với 168/NĐ-CP (Nghị định). Trong tracking có 168/2026/NĐ-CP (lần 14, ghi "ước đoán" không tìm thấy trong lần này). Cần xác minh 168/NQ-CP có phải là NQ không phải NĐ.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, dutoanf1.com.vn, thuviennhadat.vn, spirit.vietnamairlines.com, baothanhhoa.vn, baomoi.com, vietbao.vn, mekongasean.vn, cnccounsel.com.
+- Ngày phát hiện: 2026-07-06 07:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:b018da97-06ea-440b-b611-a86a5ad339f7 (Đệ #1 Discovery — lần 21)
