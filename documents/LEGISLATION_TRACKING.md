@@ -1315,3 +1315,54 @@ Quét web_search Brave tổng hợp từ luatvietnam.vn, baochinhphu.vn, xaydung
 - Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, dutoanf1.com.vn, thuviennhadat.vn, spirit.vietnamairlines.com, baothanhhoa.vn, baomoi.com, vietbao.vn, mekongasean.vn, cnccounsel.com.
 - Ngày phát hiện: 2026-07-06 07:31 ICT
 - Phiên thực hiện: agent:github-io:subagent:b018da97-06ea-440b-b611-a86a5ad339f7 (Đệ #1 Discovery — lần 21)
+
+---
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 22)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 220500–221000 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, dantocmiennui.baotintuc.vn, baovanhoa.vn, baomoi.com, vov.vn, nongnghiepmoitruong.vn, spirit.vietnamairlines.com, dutoaneta.vn, baoxaydung.vn, thuviennhadat.vn, phanmemeta.com, nhandan.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử.
+
+Ưu tiên văn bản ban hành tháng 7/2026, hiệu lực tháng 7–8/2026, chưa được ghi nhận trong tracking đến 2026-07-06 lần 21 (168/NQ-CP, 265, 266, 38/TT-BXD, 220/2026/NĐ-CP).
+
+So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-06 lần 21): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 269/2026/NĐ-CP | 01/07/2026 | **Quy định một số cơ chế, chính sách bảo tồn và phát huy văn hóa truyền thống các dân tộc thiểu số** — lần đầu quy định mức hỗ trợ cụ thể cho bảo tồn văn hóa dân tộc thiểu số; gắn bảo tồn văn hóa với sinh kế và đãi ngộ nghệ nhân; đưa văn hóa truyền thống dân tộc thiểu số vào chương trình giáo dục; cơ chế tài chính cho các chính sách đặc thù; hiệu lực **01/7/2026** | Văn hóa / Dân tộc | chua-xac-minh | **Chưa có** | Nguồn: baomoi.com (xác minh "ban hành ngày 1/7/2026"), dantocmiennui.baotintuc.vn, baovanhoa.vn, luatvietnam.vn (slug 110108, "Đưa văn hóa truyền thống dân tộc thiểu số vào chương trình giáo dục từ 01-7-2026"), vov.vn, baomoi.com, nongnghiepmoitruong.vn; ngày ban hành: 01/7/2026 xác minh từ baomoi.com (nhiều bài đăng ngày 05–06/7/2026); hiệu lực: 01/7/2026; tác động đồng bào các dân tộc thiểu số, nghệ nhân, cơ sở giáo dục; cần xác minh docid |
+| 254/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn thi hành Luật Quản lý thuế 2025 về hóa đơn điện tử, chứng từ điện tử** — quy định chi tiết hình thức, nguyên tắc lập, quản lý và sử dụng hóa đơn điện tử trong hoạt động quản lý thuế; bổ sung hướng dẫn hóa đơn ghi bán cho người tiêu dùng nếu người mua không cung cấp thông tin; quy định 8 trường hợp không phải sử dụng hóa đơn điện tử; tác động trực tiếp đến toàn bộ doanh nghiệp, hộ kinh doanh; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Đã có Nghị định 254/2026/NĐ-CP về hóa đơn điện tử", đăng 2026-07-03/04), asp.misa.vn, luatvietnam.vn (slug 439381, "hướng dẫn thi hành Luật Quản lý thuế 2025 về hóa đơn điện tử"); ngày ban hành: 30/6/2026 xác minh từ luatvietnam.vn (tin 2026-07-03 xác nhận "ban hành ngày 30/6/2026"); hiệu lực: 01/7/2026; tác động toàn bộ doanh nghiệp, hộ kinh doanh xuất hóa đơn điện tử; cần xác minh docid |
+| 250/2026/NĐ-CP | 30/06/2026 | **Quy định chi tiết về kỹ thuật trình bày văn bản hợp nhất** — quy định kỹ thuật trình bày văn bản quy phạm pháp luật hợp nhất theo Luật Ban hành văn bản quy phạm pháp luật 2025; quy định định dạng trình bày, phân chia Chương, Điều, khoản, điểm, mục khi hợp nhất; phục vụ công tác xây dựng và quản lý văn bản hợp nhất; hiệu lực **01/7/2026** | Hành chính / Pháp luật | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Đã có Nghị định 250/2026/NĐ-CP quy định chi tiết kỹ thuật trình bày văn bản hợp nhất", đăng 2026-07-04), luatvietnam.vn (slug 110107, "quy định chi tiết về kỹ thuật trình bày văn bản hợp nhất"), vietnamplus.vn, vov.vn; ngày ban hành: 30/6/2026 xác minh từ nhiều nguồn; hiệu lực: 01/7/2026; tác động cơ quan soạn thảo văn bản quy phạm pháp luật, cơ quan kiểm tra văn bản; cần xác minh docid |
+| 268/2026/NĐ-CP | 27/06/2026 | **Quy định về khuyến nông và chuyển giao công nghệ trong nông nghiệp** — hình thức, phương thức, đối tượng, chính sách về khuyến nông và chuyển giao công nghệ trong nông nghiệp theo khoản 4 Điều 52 Luật Chuyển giao công nghệ; nông dân đi tập huấn khuyến nông được hỗ trợ tối đa **100% chi phí**; bổ sung nhiều chính sách ưu đãi khuyến nông; hiệu lực **20/8/2026** | Nông nghiệp / KHCN | chua-xac-minh | **Chưa có** | Nguồn: baoquangninh.vn (bài "Chỉ đạo, điều hành nổi bật tuần 27/6–3/7/2026" xác nhận NĐ 268/2026 về khuyến nông), luatvietnam.vn (slug 110061, "Từ 20/8/2026, nông dân đi tập huấn khuyến nông được hỗ trợ tối đa 100% chi phí"), government.vn (docid 218682), nhandan.vn, phunuvietnam.vn; ngày ban hành: 27/6/2026; hiệu lực: 20/8/2026; tác động nông dân, trung tâm khuyến nông toàn quốc; cần xác minh docid |
+| 36/2026/TT-BXD | 26/06/2026 | **Hướng dẫn một số nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng** — thay thế Thông tư 11/2021/TT-BXD và các thông tư sửa đổi; hướng dẫn phương pháp xác định và quản lý chi phí đầu tư xây dựng; quy định chi tiết về dự toán, thanh toán, quyết toán chi phí xây dựng; đồng bộ với NĐ 206/2026/NĐ-CP (quản lý chi phí đầu tư xây dựng cùng ngày 15/6/2026); hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438882, "Ngày 26/06/2026, Bộ Xây dựng đã ban hành Thông tư 36/2026/TT-BXD"), thuvienphapluat.vn (712408), dutoaneta.vn, baoxaydung.vn, thuviennhadat.vn, phanmemeta.com; ngày ban hành: 26/6/2026 xác minh từ 5 nguồn độc lập; hiệu lực: 01/7/2026; tác động toàn bộ ngành xây dựng, dự toán công trình; cần xác minh docid — Lưu ý: Thông tư này KHÁC với Thông tư 38/2026/TT-BXD (định mức xây dựng) phát hiện lần 21; cả 2 cùng ngày ban hành 26/6 và cùng nhóm Xây dựng nhưng nội dung khác nhau |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-06 lần 21)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 269/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 254/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 250/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 268/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 36/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Văn hóa / Dân tộc** (ưu tiên số 1 — văn bản vừa ban hành 01/7/2026, tác động đồng bào dân tộc thiểu số toàn quốc, nội dung bảo tồn văn hóa dân tộc): **269/2026/NĐ-CP** — cơ chế, chính sách bảo tồn văn hóa truyền thống dân tộc thiểu số. Nguồn: dantocmiennui.baotintuc.vn, baovanhoa.vn, luatvietnam.vn (slug 110108). Cần xác minh docid.
+2. **Thuế / Tài chính** (ưu tiên số 2 — hướng dẫn hóa đơn điện tử, tác động trực tiếp đến toàn bộ doanh nghiệp): **254/2026/NĐ-CP** — hướng dẫn Luật Quản lý thuế 2025 về hóa đơn điện tử. Nguồn: luatvietnam.vn (slug 439381). Cần xác minh docid.
+3. **Hành chính / Pháp luật** (ưu tiên số 3): **250/2026/NĐ-CP** — kỹ thuật trình bày văn bản hợp nhất. Nguồn: luatvietnam.vn (slug 110107). Cần xác minh docid.
+4. **Nông nghiệp / KHCN** (ưu tiên số 4 — hiệu lực 20/8/2026, hỗ trợ nông dân 100% chi phí tập huấn): **268/2026/NĐ-CP** — khuyến nông và chuyển giao công nghệ. Nguồn: government.vn (docid 218682), luatvietnam.vn (slug 110061). Cần xác minh docid.
+5. **Xây dựng** (ưu tiên số 5 — cùng nhóm với 38/TT-BXD lần 21 nhưng nội dung khác): **36/2026/TT-BXD** — hướng dẫn chi phí đầu tư xây dựng. Nguồn: luatvietnam.vn (slug 438882), thuvienphapluat.vn (712408). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 22. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **269/2026/NĐ-CP**: Văn bản quan trọng — ban hành ngày 01/7/2026 (cùng ngày với hàng loạt luật có hiệu lực), quy định cơ chế, chính sách bảo tồn văn hóa dân tộc thiểu số lần đầu tiên có quy định mức hỗ trợ cụ thể. Nguồn: baomoi.com (đăng ngày 05–06/7/2026 xác nhận "ban hành ngày 1/7/2026"). Cần xác minh docid.
+- **254/2026/NĐ-CP**: Hướng dẫn chi tiết hóa đơn điện tử theo Luật Quản lý thuế 2025. Ban hành cùng đợt 30/6/2026 với 252, 253. Lưu ý: 252/2026/NĐ-CP (hướng dẫn thi hành Luật Quản lý thuế) và 254/2026/NĐ-CP (hóa đơn điện tử) là 2 văn bản riêng biệt cùng ngày 30/6/2026. Cần xác minh docid.
+- **250/2026/NĐ-CP**: Quy định kỹ thuật trình bày văn bản hợp nhất — văn bản pháp luật hỗ trợ công tác xây dựng và quản lý văn bản. Ban hành 30/6/2026. Cần xác minh docid.
+- **268/2026/NĐ-CP**: Khuyến nông — hiệu lực 20/8/2026 (sau đợt đầu 01/7). government.vn xác nhận docid 218682 cho văn bản này. Cần xác minh ngày ban hành (ước đoán 27/6/2026). Cần bổ sung vào van-ban/.
+- **36/2026/TT-BXD**: Lưu ý phân biệt — Thông tư 36/2026/TT-BXD (chi phí đầu tư xây dựng, cùng nhóm với NĐ 206/2026/NĐ-CP) KHÁC hoàn toàn với Thông tư 38/2026/TT-BXD (định mức xây dựng) phát hiện lần 21. Cả 2 cùng ban hành ngày 26/6/2026 nhưng nội dung và số hiệu khác nhau. Cần xác minh docid cho cả 2.
+- **Docid đã có**: 268/2026/NĐ-CP: docid 218682 (government.vn). Các văn bản còn lại (269, 254, 250, 36/TT-BXD) cần xác minh docid.
+- **Lưu ý về dải docid**: Sau đợt ban hành lớn 30/6/2026 (số từ 248–269), các Nghị định được đánh số liên tục từ 248 đến 269 (22 văn bản trong 4 ngày: 26, 27, 30/6 và 01/7/2026). Docid ước đoán cho các văn bản chưa xác minh: 218740–219000.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, dantocmiennui.baotintuc.vn, baovanhoa.vn, baomoi.com, nongnghiepmoitruong.vn, spirit.vietnamairlines.com, dutoaneta.vn, baoxaydung.vn, thuviennhadat.vn, phanmemeta.com, asp.misa.vn, government.vn, phunuvietnam.vn, baoquangninh.vn.
+- Ngày phát hiện: 2026-07-06 08:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:7d830bad-b54a-40ee-b360-491cb64de0bd (Đệ #1 Discovery — lần 22)
