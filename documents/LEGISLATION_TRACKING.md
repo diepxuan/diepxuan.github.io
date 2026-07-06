@@ -1087,6 +1087,53 @@ Quét vanban.chinhphu.vn (JS-rendered, cần browser-automation) + web_search Br
 
 ---
 
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 21)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, baomoi.com, vov.vn, cafef.vn, soha.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Văn hóa. Ưu tiên văn bản ban hành cuối tháng 6/2026 – đầu tháng 7/2026 (01–06/7/2026). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-05 lần 20): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 271/2026/NĐ-CP | **03/07/2026** | **Quy định về miễn phí sách giáo khoa giáo dục phổ thông và miễn học phí, giáo trình môn học Giáo dục quốc phòng và an ninh** — học sinh phổ thông được mượn miễn phí 01 bộ sách giáo khoa đầy đủ các môn học tại thư viện nhà trường (hình thức mượn - trả); miễn học phí giáo trình Giáo dục quốc phòng và an ninh tại cơ sở giáo dục đại học, giáo dục nghề nghiệp; lộ trình: từ năm học 2029–2030 triển khai toàn quốc, địa phương có ngân sách có thể triển khai sớm hơn (ưu tiên biên giới, hải đảo, vùng dân tộc thiểu số, miền núi); quy định quản lý sách giáo khoa qua thư viện, phần mềm quản lý; | Giáo dục | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (slug 119260705072447208, toàn văn); luatvietnam.vn (tin "Học sinh toàn quốc được miễn phí sách giáo khoa từ năm học 2029-2030", slug 110104); baomoi.com, vov.vn, phunutoday.vn; ngày ban hành: **03/7/2026** xác minh qua 3 nguồn độc lập; hiệu lực: từ năm học 2029–2030 (triển khai toàn quốc), có thể sớm hơn ở địa phương có ngân sách; tác động học sinh phổ thông toàn quốc, cơ sở giáo dục, thư viện trường học; ưu tiên trung bình (hiệu lực xa, nhưng là chính sách xã hội quan trọng); cần xác minh docid |
+| 15/2026/TT-BNV | 30/06/2026 | **Hướng dẫn thực hiện chế độ phụ cấp khu vực — thay thế toàn bộ Phụ lục mức phụ cấp khu vực** của Thông tư liên tịch 11/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT; thay "mức lương tối thiểu chung" bằng "mức lương cơ sở" làm căn cứ tính phụ cấp khu vực; mức phụ cấp từ 0,1 đến 1,0; chi tiết địa bàn áp dụng từng mức; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (slug 119260703101115904, toàn văn, đăng 03/7/2026); luatvietnam.vn (slug 110105, "ban hành ngày 30/6/2026"); cafef.vn, vtv.vn, baomoi.com; ngày ban hành: **30/6/2026** xác minh (Bộ trưởng Nội vụ ký ngày 30/6); hiệu lực: 01/7/2026; tác động toàn bộ cán bộ, công chức, viên chức, người lao động hưởng phụ cấp khu vực trên cả nước; ưu tiên cao (hiệu lực đã có từ 01/7, tác động rộng); cần xác minh docid |
+| 261/2026/NĐ-CP | 30/06/2026 | **Quy định phụ cấp ưu đãi nghề và chế độ bồi dưỡng đối với người lao động hoạt động đặc thù trong đơn vị nghệ thuật biểu diễn** — phụ cấp ưu đãi nghề: 50% (chỉ huy âm nhạc, diễn viên tuồng, chèo, cải lương, xiếc, múa rối nước, thanh nhạc nhạc kịch), 40% (kịch dân ca, hát dân ca, nhạc cụ truyền thống), 30% (kịch nói, kịch hình thể, múa dân gian), 20% (nhạc cụ điện tử, kỹ thuật viên âm thanh/ánh sáng/sân khấu); giai đoạn 01/7/2026–30/6/2027: tăng thêm 10% mỗi mức từ 01/7/2027; chế độ bồi dưỡng luyện tập, biểu diễn: 3%–7% mức lương cơ sở/buổi; đối tượng: viên chức, NLĐ nghệ thuật biểu diễn công lập + lực lượng vũ trang; hiệu lực **01/7/2026** | Lao động / Văn hóa | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (slug 119260704154133945, toàn văn đăng 04/7/2026); luatvietnam.vn (slug 439386, đăng 04/7/2026); thuvienphapluat.vn (xác nhận ngày 30/6/2026); ngày ban hành: **30/6/2026** xác minh; hiệu lực: 01/7/2026; tác động viên chức, người lao động nghệ thuật biểu diễn toàn quốc; ưu tiên trung bình; cần xác minh docid |
+| 38/2026/TT-BXD | 26/06/2026 | **Ban hành định mức xây dựng mới** — thay thế Thông tư 12/2021/TT-BXD, Thông tư 09/2024/TT-BXD, Thông tư 08/2025/TT-BXD và Điều 2 Thông tư 60/2025/TT-BXD; định mức chi phí quản lý dự án và tư vấn xây dựng tại Phụ lục VIII; thay thế toàn bộ hệ thống định mức xây dựng cũ; hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438889, "ban hành ngày 26/6/2026"); dutoanf1.com.vn (xác nhận ngày 26/6/2026); thuvienphapluat.vn, thuviennhadat.vn; ngày ban hành: **26/6/2026** xác minh từ nhiều nguồn; hiệu lực: 01/7/2026; tác động toàn bộ ngành xây dựng, dự toán công trình; ưu tiên cao (hiệu lực 01/7, tác động rộng); cần xác minh docid |
+| 36/2026/TT-BXD | 26/06/2026 | **Hướng dẫn một số nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng** — thay thế Thông tư 11/2021/TT-BXD và các thông tư sửa đổi; hướng dẫn phương pháp xác định và quản lý chi phí đầu tư xây dựng; quy định chi tiết về dự toán, thanh toán, quyết toán chi phí xây dựng; đồng bộ với NĐ 206/2026/NĐ-CP (quản lý chi phí đầu tư xây dựng cùng ngày 15/6/2026); hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438882, "Ngày 26/06/2026, Bộ Xây dựng đã ban hành Thông tư 36/2026/TT-BXD"); thuvienphapluat.vn (712408), dutoaneta.vn, baoxaydung.vn, thuviennhadat.vn, phanmemeta.com; ngày ban hành: **26/6/2026** xác minh từ 5 nguồn độc lập; hiệu lực: 01/7/2026; tác động toàn bộ ngành xây dựng, dự toán công trình; ưu tiên cao (hiệu lực 01/7, tác động rộng, cùng nhóm với 38/2026/TT-BXD); cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-05 lần 20)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 271/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 15/2026/TT-BNV | **KHÔNG** | Thêm mới — Chưa có |
+| 261/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 38/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 36/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Hành chính** (ưu tiên số 1 — hiệu lực 01/7/2026, tác động rất rộng): **15/2026/TT-BNV** — phụ cấp khu vực thay thế toàn bộ phụ lục cũ; căn cứ tính bằng lương cơ sở mới. Nguồn: xaydungchinhsach.chinhphu.vn (slug 119260703101115904). Cần xác minh docid.
+2. **Xây dựng** (ưu tiên số 2 — hiệu lực 01/7/2026, thay thế 4 thông tư): **38/2026/TT-BXD** — định mức xây dựng mới. Nguồn: luatvietnam.vn (slug 438889), dutoanf1.com.vn. Cần xác minh docid.
+3. **Xây dựng** (ưu tiên số 3 — hiệu lực 01/7/2026): **36/2026/TT-BXD** — chi phí đầu tư xây dựng, đồng bộ NĐ 206/2026. Nguồn: luatvietnam.vn (slug 438882). Cần xác minh docid.
+4. **Lao động / Văn hóa** (ưu tiên số 4 — hiệu lực 01/7/2026, toàn văn đã có): **261/2026/NĐ-CP** — phụ cấp ưu đãi nghề nghệ thuật biểu diễn. Nguồn: xaydungchinhsach.chinhphu.vn (slug 119260704154133945). Cần xác minh docid.
+5. **Giáo dục** (ưu tiên số 5 — mới ban hành 03/7/2026, chính sách xã hội lớn): **271/2026/NĐ-CP** — miễn phí sách giáo khoa, mượn - trả qua thư viện. Nguồn: xaydungchinhsach.chinhphu.vn (slug 119260705072447208), luatvietnam.vn (slug 110104). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 21. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **271/2026/NĐ-CP**: Văn bản mới nhất phát hiện — ban hành **03/7/2026** (khác với suy đoán ước đoán ban đầu), là văn bản đầu tiên phát hiện được ban hành vào tháng 7/2026 (không phải 6/2026). Hiệu lực từ năm học 2029–2030 (triển khai toàn quốc), địa phương có ngân sách có thể triển khai sớm hơn. Chính sách mượn - trả qua thư viện nhằm tiết kiệm ngân sách nhà nước.
+- **15/2026/TT-BNV**: Thay thế toàn bộ Phụ lục mức phụ cấp khu vực kèm theo Thông tư liên tịch 11/2005 — đây là thay đổi lớn sau 21 năm (2005–2026). Điểm đáng chú ý: thay "mức lương tối thiểu chung" bằng "mức lương cơ sở" làm căn cứ tính phụ cấp khu vực (theo Luật Viên chức 2025). Có toàn văn trên xaydungchinhsach.chinhphu.vn.
+- **261/2026/NĐ-CP**: Toàn văn đã có trên xaydungchinhsach.chinhphu.vn (đăng 04/7/2026) — có thể crawl trực tiếp. Ngày ban hành **30/6/2026** xác minh qua luatvietnam.vn (slug 439386) và thuvienphapluat.vn. Nghệ sĩ nhân dân hưởng mức cao nhất 50% (giai đoạn 01/7/2026–30/6/2027), tăng lên 60% từ 01/7/2027.
+- **36/2026/TT-BXD và 38/2026/TT-BXD**: 2 thông tư xây dựng cùng ngày 26/6/2026, cùng hiệu lực 01/7/2026, nhưng nội dung khác nhau. 36 quy định chi phí đầu tư xây dựng (cùng nhóm với NĐ 206/2026/NĐ-CP); 38 ban hành định mức xây dựng (thay thế 4 thông tư cũ). Cả 2 đều cần xác minh docid.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered nên web_fetch trả về skeleton. Cần browser-automation hoặc tra cứu datafiles.chinhphu.vn để xác minh docid.
+- **Lưu ý quan trọng**: 271/2026/NĐ-CP ban hành **03/7/2026** — đây là văn bản đầu tiên được phát hiện có ngày ban hành thuộc tháng 7/2026. Các văn bản khác đều ban hành 26–30/6/2026 (cuối tháng 6/2026) nhưng hiệu lực tháng 7/2026.
+- Nguồn: web_search Brave tổng hợp xaydungchinhsach.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, baomoi.com, vov.vn, cafef.vn, soha.vn, dutoanf1.com.vn, thuviennhadat.vn, phunutoday.vn.
+- Ngày phát hiện: 2026-07-06 10:15 ICT
+- Phiên thực hiện: agent:github-io:subagent:78ac4cfe-9573-41dd-975d-bc806baf111c (Đệ #1 Discovery — lần 21)
+
+---
+
 ## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 20)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
