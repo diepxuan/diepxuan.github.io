@@ -1,4 +1,50 @@
 ## Cập nhật 2026-07-05 (phiên Đệ #1 Discovery — lần 20)
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 24)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 220500–220800 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, nhandan.vn, vov.vn, tienphong.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành cuối tháng 6/đầu tháng 7/2026 chưa tracking. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-05 lần 23): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 202/2026/NĐ-CP | ~15/06/2026 | **Sửa đổi, bổ sung Nghị định 10/2022/NĐ-CP về lệ phí trước bạ** — thay đổi mức lệ phí trước bạ đối với một số loại phương tiện; đáng chú ý: ô tô điện chạy pin (EV) được miễn lệ phí trước bạ lần đầu **0%** từ khi có hiệu lực đến hết 31/12/2030; xe máy điện lệ phí trước bạ **1%**; điều chỉnh nhiều nội dung khác về lệ phí trước bạ; hiệu lực **01/7/2026** | Tài chính / Giao thông | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (tổng hợp Nghị định 2026, "sửa đổi Nghị định 10/2022 về lệ phí trước bạ"), luatnguyen.vn (nội dung về ô tô điện miễn 0%, xe máy điện 1%); ngày ban hành: ~15/06/2026 (cùng đợt 203-210); hiệu lực: 01/7/2026; tác động trực tiếp đến người mua xe điện, doanh nghiệp sản xuất và phân phối ô tô, xe máy điện; cần xác minh ngày ban hành và docid |
+| 204/2026/NĐ-CP | ~15/06/2026 | **Quy định xử phạt vi phạm hành chính** (nội dung chi tiết chưa xác minh đầy đủ) — thuvienphapluat.vn ghi nhận có hiệu lực từ 01/07/2026; cần xác minh lĩnh vực và nội dung cụ thể | Tạm ghi nhận | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (tổng hợp Nghị định 2026, "Hiệu lực từ ngày 01/07/2026"); nội dung chi tiết chưa xác minh; cần bổ sung trích yếu khi có thông tin đầy đủ; cần xác minh ngày ban hành và docid |
+| 205/2026/NĐ-CP | 15/06/2026 | **Quy định về cảng hàng không và bãi cất, hạ cánh** — quy định chi tiết cảng hàng không, sân bay; quy chế khai thác, quản lý cảng hàng không; điều kiện cấp phép cảng hàng không; tiêu chuẩn kỹ thuật bãi cất hạ cánh; quy định về quản lý nhà nước đối với cảng hàng không; hiệu lực **01/7/2026** | Giao thông / Hàng không | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 437685, đăng cập nhật 06/07/2026), thuvienphapluat.vn ("Cảng hàng không và bãi cất hạ cánh"); ngày ban hành: 15/6/2026 xác minh (xaydungchinhsach ghi "15/06/2026"); hiệu lực: 01/7/2026; tác động cảng hàng không, sân bay, hàng không dân dụng; cần xác minh docid |
+| 209/2026/NĐ-CP | 15/06/2026 | **Quy định chi tiết và biện pháp thi hành Luật Xây dựng về quản lý vật liệu xây dựng** — quy định chi tiết quản lý vật liệu xây dựng theo Luật Xây dựng 2025; quy chế sản xuất, kinh doanh, sử dụng vật liệu xây dựng; tiêu chuẩn kỹ thuật vật liệu; quản lý chất lượng vật liệu xây dựng; hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 437634, đăng 06/07/2026), english.luatvietnam.vn (Decree 209/2026/ND-CP, "dated June 15, 2026"), thuvienphapluat.vn (danh sách hiệu lực 01/7); ngày ban hành: 15/6/2026 xác minh từ english.luatvietnam.vn; hiệu lực: 01/7/2026; tác động ngành vật liệu xây dựng, doanh nghiệp sản xuất, xây dựng; cần xác minh docid |
+| 210/2026/NĐ-CP | 15/06/2026 | **Quy định chi tiết và hướng dẫn thi hành Luật Xây dựng về hợp đồng xây dựng** — quy định chi tiết hợp đồng xây dựng theo Luật Xây dựng 2025; quyền và nghĩa vụ của các bên trong hợp đồng; giá hợp đồng, thanh toán, nghiệm thu; giải quyết tranh chấp hợp đồng xây dựng; hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 437629, đăng 06/07/2026), thuvienphapluat.vn (danh sách hiệu lực 01/7/2026); ngày ban hành: 15/6/2026 (cùng đợt 203-210); hiệu lực: 01/7/2026; tác động nhà thầu, chủ đầu tư, tư vấn xây dựng; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-05 lần 23)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 202/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 204/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 205/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 209/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 210/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Tài chính / Giao thông** (ưu tiên số 1 — chính sách ưu đãi xe điện): **202/2026/NĐ-CP** — sửa đổi lệ phí trước bạ, miễn 0% ô tô điện đến 2030, 1% xe máy điện; tác động trực tiếp đến người mua xe và thị trường xe điện Việt Nam. Nguồn: luatnguyen.vn, thuvienphapluat.vn. Cần xác minh ngày ban hành và docid.
+2. **Xây dựng** (ưu tiên số 2 — 2 văn bản cùng đợt Luật Xây dựng 2025): **209/2026/NĐ-CP** — quản lý vật liệu xây dựng; tác động ngành vật liệu, xây dựng. Nguồn: luatvietnam.vn (slug 437634), english.luatvietnam.vn. Ngày ban hành 15/6/2026 xác minh. Cần xác minh docid.
+3. **Xây dựng** (ưu tiên số 3): **210/2026/NĐ-CP** — hợp đồng xây dựng; tác động nhà thầu, chủ đầu tư. Nguồn: luatvietnam.vn (slug 437629). Ngày ban hành 15/6/2026. Cần xác minh docid.
+4. **Giao thông / Hàng không** (ưu tiên số 4): **205/2026/NĐ-CP** — cảng hàng không và bãi cất hạ cánh; tác động cảng hàng không, hàng không dân dụng. Nguồn: luatvietnam.vn (slug 437685). Ngày ban hành 15/6/2026. Cần xác minh docid.
+5. **Tạm ghi nhận** (ưu tiên số 5): **204/2026/NĐ-CP** — nội dung chưa xác minh đầy đủ; cần bổ sung trích yếu chi tiết khi có thông tin từ lần tiếp theo. Cần xác minh nội dung, ngày ban hành và docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 24. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm 15/06/2026 (203-210)**: Đây là đợt ban hành Nghị định hàng loạt ngày 15/6/2026, đều có hiệu lực 01/7/2026. Tất cả 8 văn bản (203, 204, 205, 206, 207, 208, 209, 210) cùng ngày ban hành — đợt trước đó lần 23 đã ghi nhận 203, 206, 207, 208; lần 24 bổ sung 202, 204, 205, 209, 210.
+- **202/2026/NĐ-CP**: Đây là văn bản tài chính quan trọng — miễn lệ phí trước bạ ô tô điện 0% là chính sách có tác động rất lớn đến thị trường xe điện Việt Nam. Cần crawl chi tiết.
+- **209/2026/NĐ-CP và 210/2026/NĐ-CP**: Hai văn bản hướng dẫn Luật Xây dựng 2025 — cùng đợt với 207, 212, 217 đã được ghi nhận trước đó.
+- **204/2026/NĐ-CP**: Nội dung chưa xác minh đầy đủ — chỉ biết có hiệu lực từ 01/7/2026 và nằm trong danh sách thuvienphapluat.vn. Cần bổ sung trong phiên tiếp theo.
+- **Docid chưa xác minh** cho tất cả 5 văn bản — vanban.chinhphu.vn dùng JS-rendered. Dựa trên pattern, docid ước đoán: 219000–220000 (tương tự đợt 26/6 ở docid ~219000). Cần browser-automation để xác minh.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, english.luatvietnam.vn, luatnguyen.vn, baodauthau.vn, baoxaydung.vn, baochinhphu.vn, vietnamplus.vn, danviet.vn, baomoi.com.
+- Ngày phát hiện: 2026-07-06 13:07 ICT
+- Phiên thực hiện: agent:github-io:subagent:f07b61a4-eaad-4019-8e19-875aaaa631b0 (Đệ #1 Discovery — lần 24)
+
+---
+
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
 
