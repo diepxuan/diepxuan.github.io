@@ -1505,3 +1505,60 @@ Quét vanban.chinhphu.vn dải docid 219500–220000 (JS-rendered, cần browser
 - Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, soha.vn, vnreview.vn, baomoi.com, tapchikinhtetaichinh.vn, daidoanket.vn, giadinh.suckhoedoisong.vn, vtv.vn, vietnamnet.vn, thuvienphapluat.vn (toàn văn TT-BCA, TT-BXD), congan.ninhbinh.gov.vn, xaluannews.com.
 - Ngày phát hiện: 2026-07-06 11:35 ICT
 - Phiên thực hiện: agent:github-io:subagent:4da8aa27-1255-4ef8-9de3-17118db7bc88 (Đệ #1 Discovery — lần 23)
+
+---
+
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 25)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 220000–220800 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, nhandan.vn, vov.vn, tienphong.vn theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành cuối tháng 6/đầu tháng 7/2026 chưa tracking. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-06 lần 24): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 271/2026/NĐ-CP | **03/07/2026** | **Quy định về miễn phí sách giáo khoa giáo dục phổ thông và miễn học phí, giáo trình môn học Giáo dục quốc phòng và an ninh** — học sinh phổ thông được mượn miễn phí 01 bộ sách giáo khoa đầy đủ các môn học tại thư viện nhà trường (hình thức mượn - trả, hoàn trả sau mỗi học kỳ/năm học); miễn học phí giáo trình Giáo dục quốc phòng và an ninh tại cơ sở giáo dục đại học, giáo dục nghề nghiệp; lộ trình: từ năm học 2029–2030 triển khai toàn quốc, địa phương có ngân sách có thể triển khai sớm hơn (ưu tiên biên giới, hải đảo, vùng dân tộc thiểu số, miền núi); quy định quản lý sách giáo khoa qua thư viện, phần mềm quản lý; hiệu lực từ **năm học 2029–2030** | Giáo dục | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (slug 119260705072447208, toàn văn ngày 05/7/2026), luatvietnam.vn (slug 110104, "Học sinh toàn quốc được miễn phí sách giáo khoa từ năm học 2029-2030"), baomoi.com, vov.vn, phunutoday.vn, giaoducthoidai.vn, voh.com.vn, baophapluat.vn, nhandan.vn; ngày ban hành: **03/7/2026** xác minh qua giaoducthoidai.vn ("Ngày 3/7/2026, Chính phủ ban hành..."), baomoi.com (nhiều bài đăng 05–06/7/2026); hiệu lực: từ năm học 2029–2030 (triển khai toàn quốc), có thể sớm hơn ở địa phương có ngân sách; tác động học sinh phổ thông toàn quốc, cơ sở giáo dục, thư viện trường học; ưu tiên trung bình (hiệu lực xa, nhưng là chính sách xã hội quan trọng); cần xác minh docid |
+| 265/2026/NĐ-CP | ~30/06/2026 | **Xử phạt vi phạm hành chính trong lĩnh vực tiết kiệm, chống lãng phí** — phạt cảnh cáo chậm ban hành Chương trình tiết kiệm dưới 30 ngày; phạt tiền 1–3 triệu ban hành Chương trình không đầy đủ nội dung; phạt tiền 5–10 triệu không ban hành hoặc chậm từ 30 ngày trở lên; phạt tiền 10–15 triệu báo cáo không trung thực hoặc báo cáo chậm từ 30 ngày trở lên; hiệu lực **01/7/2026** | Hành chính / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110110, tin "Chậm ban hành Chương trình tiết kiệm, chống lãng phí bị phạt cảnh cáo từ 01-7-2026"), vietnamplus.vn (đăng 04/7/2026), baothanhhoa.vn, baomoi.com; ngày ban hành: ước đoán ~30/6/2026 (cùng đợt với 266, 248, 260, 254, 250); hiệu lực: 01/7/2026; tác động toàn bộ cơ quan nhà nước, doanh nghiệp nhà nước; cần xác minh ngày ban hành và docid |
+| 266/2026/NĐ-CP | ~30/06/2026 | **Quy định chi tiết và hướng dẫn thi hành Luật Tiết kiệm, chống lãng phí** (Luật 110/2025/QH15) — hướng dẫn Điều 4, 5, 9, 12, 13, 15, 16, 17, 24 của Luật; quy định cụ thể các hành vi gây lãng phí trong tổ chức bộ máy (thành lập sai điều kiện, bố trí cấp phó vượt quy định, tuyển dụng không đúng thẩm quyền, ký hợp đồng lao động không đúng, kéo dài dự án đầu tư công); trong đầu tư công và quản lý tài sản công; trong khai thác tài nguyên, năng lượng; hiệu lực **01/7/2026** | Hành chính / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: vietnamplus.vn (04/7/2026, "ban hành Nghị định số 266/2026/NĐ-CP"), baomoi.com, vov.vn (02/7/2026); ngày ban hành: ước đoán ~30/6/2026 (cùng đợt 265, 248, 260, 254, 250); hiệu lực: 01/7/2026; tác động toàn bộ cơ quan nhà nước, doanh nghiệp nhà nước; cần xác minh ngày ban hành và docid |
+| 168/NQ-CP | **27/06/2026** | **Cập nhật kịch bản tăng trưởng và giải pháp trọng tâm năm 2026** — cập nhật kịch bản tăng trưởng và giải pháp trọng tâm nhằm đạt mục tiêu tăng trưởng từ 10% trở lên, gắn với ổn định kinh tế vĩ mô; nhiệm vụ, giải pháp chủ yếu về điều hành chính sách tiền tệ; mọi cơ chế, chính sách lấy người dân, doanh nghiệp làm trung tâm; hiệu lực ngay khi ban hành | Tài chính / Kinh tế vĩ mô | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 438913, "ban hành ngày 27/06/2026"), baochinhphu.vn, thuvienphapluat.vn (ID 277136), bnews.vn; ngày ban hành: **27/6/2026** xác minh từ luatvietnam.vn; hiệu lực ngay ký; tác động chính sách kinh tế vĩ mô toàn quốc; cần xác minh docid |
+| 220/2026/NĐ-CP | **22/06/2026** | **Sửa đổi, bổ sung một số điều của Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc** — sửa đổi Điều 32 Nghị định 67/2023 về bảo hiểm bắt buộc công trình trong thời gian xây dựng; quy định chủ đầu tư có trách nhiệm mua bảo hiểm bắt buộc công trình; hiệu lực **01/7/2026** | Bảo hiểm / Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 109969, tin "Chính sách mới về Bảo hiểm hiệu lực tháng 7/2026" đề cập NĐ 220/2026), spirit.vietnamairlines.com (bản tin tháng 6/2026 xác nhận "ban hành ngày 22/6/2026"); ngày ban hành: **22/6/2026** xác minh từ spirit.vietnamairlines.com; hiệu lực: 01/7/2026; tác động chủ đầu tư xây dựng công trình; cần xác minh docid |
+
+### Xác minh ngày ban hành từ các lần trước (cập nhật)
+
+| Số hiệu | Ngày cũ | Ngày mới (xác minh) | Nguồn xác minh |
+|---|:---:|:---:|---|
+| 137/2026/NĐ-CP | chua-xac-minh | **07/04/2026** | moit.gov.vn ("Ngày 07/4/2026, Chính phủ ban hành Nghị định 137/2026/NĐ-CP"), luatvietnam.vn (slug 431268), vietbao.vn (03/7/2026 "ngày 07 tháng 4 năm 2026") |
+| 168/2026/NĐ-CP | chua-xac-minh | **15/05/2026** | thuvienphapluat.vn ("Ngày 15/5/2026, Chính phủ ban hành..."), luatvietnam.vn (slug 435009), ninhbinh.gov.vn, phusannhiquangnam.org, xaydungchinhsach (toàn văn) |
+| 176/2026/NĐ-CP | chua-xac-minh | **19/05/2026** | vanban.chinhphu.vn (docid 218231), baochinhphu.vn, baomoi.com, c3chuvanan.daknong.edu.vn, dp.dthu.edu.vn |
+| 202/2026/NĐ-CP | ~15/06/2026 | ~15/06/2026 (giữ nguyên ước đoán) | Chưa xác minh thêm — trong dải 218360–218410 phù hợp với ngày 08/6/2026; cần dùng browser-automation xác minh |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-06 lần 24)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 271/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 265/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 266/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 168/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 220/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Hành chính / Tài chính** (ưu tiên số 1 — 2 văn bản cùng đợt, hiệu lực 01/7/2026): **265/2026/NĐ-CP** — xử phạt vi phạm tiết kiệm, chống lãng phí; tác động toàn bộ cơ quan nhà nước. Nguồn: luatvietnam.vn (slug 110110). Cần xác minh ngày ban hành và docid.
+2. **Hành chính / Tài chính** (ưu tiên số 2 — cùng đợt 265): **266/2026/NĐ-CP** — hướng dẫn Luật Tiết kiệm, chống lãng phí; tác động cơ quan nhà nước, doanh nghiệp nhà nước. Nguồn: vietnamplus.vn (04/7/2026). Cần xác minh ngày ban hành và docid.
+3. **Giáo dục** (ưu tiên số 3 — chính sách xã hội quan trọng, vừa ban hành 03/7/2026): **271/2026/NĐ-CP** — miễn phí SGK phổ thông (mượn-trả), miễn học phí GDQP-AN. Nguồn: xaydungchinhsach.chinhphu.vn (slug 119260705072447208, toàn văn). Cần xác minh docid.
+4. **Tài chính / Kinh tế vĩ mô** (ưu tiên số 4): **168/NQ-CP** — kịch bản tăng trưởng 10% năm 2026; tác động chính sách kinh tế vĩ mô. Nguồn: luatvietnam.vn (slug 438913). Cần xác minh docid.
+5. **Bảo hiểm / Xây dựng** (ưu tiên số 5): **220/2026/NĐ-CP** — sửa đổi bảo hiểm bắt buộc công trình xây dựng. Nguồn: luatvietnam.vn (slug 109969). Ngày ban hành 22/6/2026 xác minh.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 25. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **Nhóm 265/2026 + 266/2026**: Hai văn bản cùng đợt cùng nhóm — xử phạt và hướng dẫn Luật Tiết kiệm, chống lãng phí (Luật 110/2025/QH15, hiệu lực 01/7/2026). Cả 2 cần xác minh ngày ban hành chính xác — ước đoán ~30/6/2026 nhưng chưa có nguồn xác nhận.
+- **271/2026/NĐ-CP**: Văn bản mới ban hành ngày 03/7/2026 — ngày đầu tiên của tháng 7. Đây là Nghị định đầu tiên trong tháng 7/2026. Miễn phí sách giáo khoa theo mô hình mượn-trả (không phải tặng), học sinh hoàn trả sau mỗi năm học. Hiệu lực từ năm học 2029–2030 nhưng địa phương có ngân sách có thể triển khai sớm hơn.
+- **137/2026/NĐ-CP**: Ngày ban hành xác minh **07/04/2026** — không phải ước đoán cuối tháng 6. Đây là văn bản được triển khai rộng rãi từ tháng 4/2026, hiệu lực 01/7/2026.
+- **168/2026/NĐ-CP**: Ngày ban hành xác minh **15/05/2026** — không phải ước đoán cuối tháng 6. Hướng dẫn Luật Dân số, hỗ trợ tài chính khi sinh con.
+- **176/2026/NĐ-CP**: Ngày ban hành xác minh **19/05/2026**, docid xác minh: **218231**. URL: `https://vanban.chinhphu.vn/?docid=218231&pageid=27160`. Hiệu lực: 07/7/2026.
+- **202/2026/NĐ-CP**: Docid ước đoán **218368** đã ghi nhận từ lần 15 — nhưng đó là từ lần quét trước (22/6/2026). Với ngày ban hành 08/6/2026 theo luatnguyen.vn, docid thực tế có thể là **218360–218365**. Cần xác minh lại. Lưu ý: có thể có 2 văn bản 202/2026/NĐ-CP (một sửa đổi lệ phí trước bạ hiệu lực 01/7/2026, một sửa đổi NĐ 10/2022 về lệ phí trước bạ hiệu lực 01/3/2027) — cần phân biệt.
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, soha.vn, vnreview.vn, baomoi.com, tapchicongthuong.vn, giaoducthoidai.vn, voh.com.vn, baophapluat.vn, moit.gov.vn, c3chuvanan.daknong.edu.vn, phusannhiquangnam.org, spirit.vietnamairlines.com.
+- Ngày phát hiện: 2026-07-06 16:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:04d4a110-3bf6-4004-9d1b-6bbb1b402321 (Đệ #1 Discovery — lần 25)
+
