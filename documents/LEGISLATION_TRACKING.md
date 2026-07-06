@@ -1413,3 +1413,49 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-06 lần 21):
 - Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, dantocmiennui.baotintuc.vn, baovanhoa.vn, baomoi.com, nongnghiepmoitruong.vn, spirit.vietnamairlines.com, dutoaneta.vn, baoxaydung.vn, thuviennhadat.vn, phanmemeta.com, asp.misa.vn, government.vn, phunuvietnam.vn, baoquangninh.vn.
 - Ngày phát hiện: 2026-07-06 08:31 ICT
 - Phiên thực hiện: agent:github-io:subagent:7d830bad-b54a-40ee-b360-491cb64de0bd (Đệ #1 Discovery — lần 22)
+
+---
+## Cập nhật 2026-07-06 (phiên Đệ #1 Discovery — lần 23)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 219500–220000 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, soha.vn, vnreview.vn, baomoi.com theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử, Bảo hiểm. Ưu tiên văn bản ban hành cuối tháng 6/2026 – đầu tháng 7/2026, hiệu lực tháng 7/2026, và văn bản hướng dẫn luật mới (TNCN, Viên chức, Báo chí, KHCN, Tiết kiệm chống lãng phí). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-06 lần 22): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 162/2026/NĐ-CP | 15/05/2026 | **Điều chỉnh mức lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng** — điều chỉnh tăng 8% mức lương hưu, trợ cấp BHXH và trợ cấp hằng tháng đang hưởng của tháng 6/2026; áp dụng cho khoảng 3,5 triệu người đang hưởng; chi trả từ ngày 02 hàng tháng; hiệu lực **01/7/2026** | Lao động / BHXH / An sinh | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 109912, tin "Từ ngày 01/7/2026, theo Nghị định 162/2026/NĐ-CP"), baochinhphu.vn (chính sách mới 01/7/2026), daidoanket.vn (xác nhận "Ngày 15/5/2026, Chính phủ ban hành Nghị định số 162/2026/NĐ-CP"), xaluannews.com, giadinh.suckhoedoisong.vn, vtv.vn, tienphong.vn; ngày ban hành: **15/5/2026** xác minh từ daidoanket.vn; hiệu lực: 01/7/2026; tác động 3,5 triệu người hưởng lương hưu, trợ cấp BHXH toàn quốc; cần xác minh docid |
+| 179/2026/NĐ-CP | 20/05/2026 | **Quy định chính sách học bổng cho người học các ngành khoa học cơ bản, kỹ thuật then chốt và công nghệ chiến lược** — sinh viên ngành KHCN, kỹ thuật then chốt, công nghệ chiến lược được nhận học bổng đến **8,4 triệu đồng/tháng** từ 15/7/2026; 111 ngành đào tạo được áp dụng theo QĐ 1826/QĐ-BGDĐT (ban hành 26/6/2026); kinh phí 1.300 tỷ đồng/năm cho ~30 nghìn người học; hiệu lực **15/7/2026** | Giáo dục / KHCN | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn "Ngày 20/5/2026, Chính phủ ban hành Nghị định số 179/2026/NĐ-CP"), baomoi.com (tin ngày 26/6/2026 về QĐ 1826/QĐ-BGDĐT, xác nhận NĐ 179/2026 từ nhiều nguồn), soha.vn, luatvietnam.vn (slug 109903, "từ 15/7/2026, sinh viên ngành khoa học, công nghệ có thể nhận học bổng đến 8,4 triệu"), uet.vnu.edu.vn, baovanhoa.vn, danviet.vn; ngày ban hành: **20/5/2026** xác minh (xaydungchinhsach ghi rõ, khác với ước đoán ~26/6/2026 ở lần 18-19); hiệu lực: 15/7/2026; tác động sinh viên ngành KHCN, kỹ thuật then chốt, công nghệ chiến lược; cần xác minh docid |
+| 108/2026/TT-BCA | 29/06/2026 | **Quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế** — bãi bỏ phần thi mô phỏng tình huống giao thông trong sát hạch lái xe; tăng số câu hỏi lý thuyết; rút ngắn 50% thời gian cấp đổi GPLX; thay thế Thông tư 12/2025/TT-BCA ngày 28/02/2025; hiệu lực **01/7/2026** | Giao thông / Công an | chua-xac-minh | **Chưa có** | Nguồn: soha.vn (xác nhận số hiệu, ngày 29/6/2026, nội dung bỏ bài thi mô phỏng), vietnamnet.vn, luatvietnam.vn (slug 109862, "bỏ phần thi mô phỏng"), congan.ninhbinh.gov.vn, tienphong.vn, baochinhphu.vn, thuvienphapluat.vn (toàn văn Thông tư thay thế); ngày ban hành: **29/6/2026** xác minh (soha.vn ghi rõ "ngày 29/6/2026"); hiệu lực: 01/7/2026; tác động toàn bộ người dân thi GPLX toàn quốc; ưu tiên cao (vừa có hiệu lực, tác động rộng, nhiều bài báo); cần xác minh docid |
+| 71/2026/TT-BTC | 23/06/2026 | **Sửa đổi, bổ sung một số quy định về chế độ quản lý, tính hao mòn và kê khai, báo cáo tài sản kết cấu hạ tầng đường thủy nội địa, hàng hải, đường sắt** — sửa đổi Thông tư hướng dẫn kê khai tài sản kết cấu hạ tầng giao thông đường thủy, hàng hải, đường sắt; siết chặt quản lý, hạch toán tài sản kết cấu hạ tầng; hiệu lực ngay khi ký | Tài chính / Giao thông | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (xác nhận "Ngày 23/6/2026, Bộ Tài chính đã ban hành Thông tư 71/2026/TT-BTC"), tapchikinhtetaichinh.vn (nhiều bài: "Bộ Tài chính ban hành Thông tư số 71/2026/TT-BTC"), baochinhphu.vn; ngày ban hành: **23/6/2026** xác minh từ 2+ nguồn; hiệu lực ngay khi ký (23/6/2026); tác động cơ quan quản lý hạ tầng giao thông đường thủy, hàng hải, đường sắt; cần xác minh docid |
+| 30/2026/TT-BXD | 23/06/2026 | **Quy định về kiểm định xe cơ giới và kiểm định khí thải xe máy** — quy định kiểm định xe cơ giới (ô tô); quy định kiểm định khí thải xe máy; quy trình, tiêu chuẩn kiểm định; cơ sở kiểm định; thay thế quy định cũ; hiệu lực **01/7/2026** | Giao thông / Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (toàn văn Thông tư 30/2026/TT-BXD quy định kiểm định xe cơ giới và khí thải xe máy từ 01/7/2026), tapchigiaothong.vn; ngày ban hành: ước đoán **23/6/2026** (thuvienphapluat.vn đăng đầy đủ); hiệu lực: 01/7/2026; tác động toàn bộ chủ xe cơ giới, xe máy, cơ sở đăng kiểm toàn quốc; cần xác minh ngày ban hành và docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-06 lần 22)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 162/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 179/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 108/2026/TT-BCA | **KHÔNG** | Thêm mới — Chưa có |
+| 71/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 30/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Giao thông / Công an** (ưu tiên số 1 — vừa có hiệu lực 01/7/2026, tác động toàn bộ người dân thi GPLX, nhiều bài báo phân tích): **108/2026/TT-BCA** — bãi bỏ bài thi mô phỏng, tăng câu hỏi lý thuyết, rút ngắn cấp đổi GPLX 50%. Nguồn: luatvietnam.vn (slug 109862), soha.vn, thuvienphapluat.vn (toàn văn). Cần xác minh docid.
+2. **Lao động / BHXH** (ưu tiên số 2 — vừa có hiệu lực 01/7/2026, tác động 3,5 triệu người): **162/2026/NĐ-CP** — tăng lương hưu 8%, điều chỉnh trợ cấp BHXH và trợ cấp hằng tháng. Ngày ban hành: **15/5/2026** xác minh (daidoanket.vn). Cần xác minh docid.
+3. **Giáo dục / KHCN** (ưu tiên số 3 — hiệu lực 15/7/2026, 1.300 tỷ đồng/năm, 30 nghìn người học): **179/2026/NĐ-CP** — chính sách học bổng KHCN, kỹ thuật then chốt, công nghệ chiến lược. Ngày ban hành: **20/5/2026** xác minh. Cần xác minh docid.
+4. **Giao thông / Xây dựng** (ưu tiên số 4 — vừa có hiệu lực 01/7/2026, tác động toàn bộ chủ xe): **30/2026/TT-BXD** — kiểm định xe cơ giới và khí thải xe máy. Nguồn: thuvienphapluat.vn (toàn văn). Cần xác minh ngày ban hành và docid.
+5. **Tài chính / Giao thông** (ưu tiên số 5 — hiệu lực ngay 23/6/2026): **71/2026/TT-BTC** — quản lý tài sản kết cấu hạ tầng đường thủy, hàng hải, đường sắt. Ngày ban hành: **23/6/2026** xác minh. Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 23. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **162/2026/NĐ-CP ngày ban hành**: Xác minh **15/5/2026** qua daidoanket.vn (khác với ước đoán ~26/6/2026 ở lần 18-19). Đây là văn bản tiền lương quan trọng — điều chỉnh lương hưu tăng 8% cho 3,5 triệu người, hiệu lực 01/7/2026. Cùng đợt ban hành 15/5/2026 với 161/2026/NĐ-CP (tăng lương cơ sở 2.530.000 đ). Cần xác minh docid.
+- **179/2026/NĐ-CP ngày ban hành**: Xác minh **20/5/2026** qua xaydungchinhsach.chinhphu.vn (khác với ước đoán ~26/6/2026 ở lần 18-19). Đây là văn bản chính sách học bổng cho sinh viên ngành KHCN — 8,4 triệu/tháng, 111 ngành, hiệu lực 15/7/2026. QĐ 1826/QĐ-BGDĐT (ban hành 26/6/2026) triển khai Nghị định này.
+- **108/2026/TT-BCA**: Thông tư thay thế Thông tư 12/2025/TT-BCA — thay đổi lớn trong sát hạch GPLX. Điểm nổi bật: bãi bỏ bài thi mô phỏng, rút ngắn 50% thời gian cấp đổi GPLX. Đây là văn bản được dân mạng rất quan tâm. Cần crawl chi tiết.
+- **71/2026/TT-BTC và 30/2026/TT-BXD**: Hai văn bản cùng ngày 23/6/2026 — 71/TT-BTC (tài sản hạ tầng giao thông đường thủy/hàng hải/đường sắt) và 30/TT-BXD (kiểm định xe cơ giới và khí thải xe máy). Cả 2 hiệu lực 01/7/2026, tác động hệ thống giao thông toàn quốc.
+- **Lưu ý về xác minh ngày ban hành**: Nhiều văn bản được ghi nhận từ lần 18-19 với ngày "ước đoán ~26/6/2026" thực tế có ngày ban hành khác. 162/2026 có ngày 15/5/2026; 179/2026 có ngày 20/5/2026. Cần cập nhật vào tracking và xác minh kỹ ngày thực tế.
+- **Docid chưa xác minh** cho tất cả 5 văn bản. Dải docid ước đoán: 218300–219500 (dựa trên ngày ban hành 15/5–23/6/2026).
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, nhandan.vn, vov.vn, tienphong.vn, vietnamplus.vn, soha.vn, vnreview.vn, baomoi.com, tapchikinhtetaichinh.vn, daidoanket.vn, giadinh.suckhoedoisong.vn, vtv.vn, vietnamnet.vn, thuvienphapluat.vn (toàn văn TT-BCA, TT-BXD), congan.ninhbinh.gov.vn, xaluannews.com.
+- Ngày phát hiện: 2026-07-06 11:35 ICT
+- Phiên thực hiện: agent:github-io:subagent:4da8aa27-1255-4ef8-9de3-17118db7bc88 (Đệ #1 Discovery — lần 23)
