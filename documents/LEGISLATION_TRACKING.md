@@ -1,3 +1,50 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 17)
+
+### Phát hiện mới từ web_search Brave tổng hợp tháng 7/2026 (tối đa 5 văn bản/lần)
+
+Quét web_search Brave/Gemini theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Viên chức, Hàng không. Ưu tiên văn bản hiệu lực tháng 7/2026 và văn bản ban hành cuối tháng 6 / đầu tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-04 lần 16): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 38/2026/TT-BXD | 26/06/2026 | **Ban hành định mức xây dựng mới** — thay thế Thông tư 12/2021/TT-BXD, 09/2024/TT-BXD, 08/2025/TT-BXD và Điều 2 Thông tư 06/2026/TT-BXD; quy định 8 định mức xây dựng công trình phục vụ lập dự toán và quản lý chi phí đầu tư xây dựng; hiệu lực **01/7/2026** | Xây dựng | chua-xac-minh | **Chưa có** | URL: `https://luatvietnam.vn/xay-dung/thong-tu-38-2026-tt-bxd-dinh-muc-xay-dung-moi-nhat-tu-bo-xay-dung-438889-d1.html`; nguồn: luatvietnam.vn (slug 438889, đăng 2026-07-01), dutoanf1.com.vn, phanmemeta.com; ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ dự toán xây dựng, nhà thầu, chủ đầu tư, cơ quan nhà nước; ưu tiên cao vì thay thế nhiều TT cũ đồng thời |
+| 174/2026/NĐ-CP | ~26/06/2026 | **Xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, giao dịch điện tử và công nghệ thông tin** — phạt tiền từ 30–50 triệu đồng đối với trang/nhóm mạng xã hội vi phạm; phạt đến 50 triệu + khóa vĩnh viễn Fanpage/hội nhóm vi phạm; xử phạt lừa đảo công nghệ cao; xử phạt vi phạm giấy phép viễn thông, SIM rác, game online; thay thế NĐ 15/2020/NĐ-CP; hiệu lực **01/7/2026** | Viễn thông / Công nghệ thông tin | chua-xac-minh | **Chưa có** | URL: `https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-174-2026-ND-CP-xu-phat-vi-pham-hanh-chinh-linh-vuc-buu-chinh-vien-thong-706354.aspx`; nguồn: thuvienphapluat.vn, thuonghieucongluan.com.vn, vtv.vn, nhandan.vn, vov.vn; ngày ban hành: ~26/6/2026; hiệu lực: 01/7/2026; tác động rất rộng — mạng xã hội, game online, viễn thông, bưu chính; tác động toàn dân; ưu tiên cao |
+| 101/2026/TT-BCA | 24/06/2026 | **Quy định quản lý, sử dụng, khai thác cơ sở dữ liệu lý lịch tư pháp, trình tự/thủ tục cấp Phiếu lý lịch tư pháp và sử dụng biểu mẫu** — Bộ Công an quản lý tập trung Cơ sở dữ liệu LHP toàn quốc (3 nhóm thông tin); cấp phiếu LHP điện tử có giá trị pháp lý tương đương bản giấy; rút ngắn thời hạn cấp còn tối đa 5 ngày làm việc; gắn với Luật sửa đổi LHP (Luật 107/2025/QH15) và NĐ 216/2026/NĐ-CP; hiệu lực **01/7/2026** | Tư pháp / Công an | chua-xac-minh | **Chưa có** | URL: `https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/tong-hop-luat-nghi-dinh-thong-tu-co-hieu-luc-tu-172026-cac-van-ban-co-hieu-luc-tu-172026-276488.html` (toàn văn TT 101 tại thuvienphapluat); nguồn: thuvienphapluat.vn, soha.vn, baophapluat.vn, luatvietnam.vn, dantri.com.vn; ngày ban hành: 24/6/2026; hiệu lực: 01/7/2026; tác động toàn dân — cấp phiếu LHP mới điện tử; tác động công dân, cơ quan nhà nước |
+| 172/2026/NĐ-CP | ~26/06/2026 | **Quy định chi tiết chi phí thực hiện và kinh phí bảo đảm công tác dẫn độ, chuyển giao người đang chấp hành án phạt tù, tương trợ tư pháp về hình sự** — cụ thể hóa Luật Dẫn độ (100/2025/QH15), Luật Chuyển giao người đang chấp hành án phạt tù (101/2025/QH15), Luật Tương trợ tư pháp về hình sự (103/2025/QH15); gắn với nhóm 170, 171/2026/NĐ-CP cùng đợt; hiệu lực **01/7/2026** | Tư pháp / Tố tụng hình sự | chua-xac-minh | **Chưa có** | URL: `https://stp.angiang.gov.vn/tong-hop-cac-luat-nghi-dinh-co-hieu-luc-tu-ngay-0172026` (danh sách); nguồn: baochinhphu.vn, stp.angiang.gov.vn, lsvn.vn, nbtv.vn, hcma.vn; ngày ban hành: ~26/6/2026; hiệu lực: 01/7/2026; tác động ngành tư pháp, ngoại giao, Bộ Tư pháp; ưu tiên trung bình |
+| 25/2026/TT-BYT | ~26/06/2026 | **Sửa đổi một số Thông tư trong lĩnh vực y tế** — sửa đổi, bổ sung nhiều Thông tư BYT về khám bệnh, chữa bệnh, dược phẩm, y tế dự phòng; hiệu lực **15/8/2026** | Y tế | chua-xac-minh | **Chưa có** | URL: `https://thuvienphapluat.vn/banan/tin-tuc/toan-van-thong-tu-252026ttbyt-sua-doi-mot-so-thong-tu-trong-linh-vuc-y-te-tu-1582026-51090.html` (toàn văn); nguồn: thuvienphapluat.vn (đăng 2026-07-05); ngày ban hành: ~26/6/2026; hiệu lực: 15/8/2026; tác động hệ thống y tế toàn quốc |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-04 lần 16)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 38/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 174/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 101/2026/TT-BCA | **KHÔNG** | Thêm mới — Chưa có |
+| 172/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 25/2026/TT-BYT | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Viễn thông / CNTT** (ưu tiên số 1 — 01/7/2026 đã có hiệu lực): **174/2026/NĐ-CP** — xử phạt vi phạm mạng xã hội, game online, SIM rác; phạt 30–50 triệu + khóa vĩnh viễn Fanpage; tác động rất rộng toàn dân và doanh nghiệp viễn thông. Cần TT BNV hướng dẫn thêm (chưa có).
+2. **Xây dựng** (ưu tiên số 2 — 01/7/2026 đã có hiệu lực): **38/2026/TT-BXD** — thay thế 4 Thông tư định mức xây dựng cũ; tác động toàn bộ dự toán xây dựng. Có slug luatvietnam.vn 438889.
+3. **Tư pháp / Công an** (ưu tiên số 3 — 01/7/2026 đã có hiệu lực): **101/2026/TT-BCA** — cấp phiếu LHP điện tử, Cơ sở dữ liệu LHP tập trung; tác động toàn dân. Cần xác minh docid.
+4. **Tư pháp / Tố tụng hình sự** (trung bình — 01/7/2026 đã có hiệu lực): **172/2026/NĐ-CP** — chi phí dẫn độ, chuyển giao tù, tương trợ tư pháp. Cùng nhóm 170, 171 — nên crawl cùng đợt.
+5. **Y tế** (trung bình — hiệu lực 15/8/2026): **25/2026/TT-BYT** — sửa đổi nhiều TT y tế; tác động hệ thống y tế.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 17.
+- **172/2026/NĐ-CP** cùng nhóm tư pháp hình sự với 170, 171/2026/NĐ-CP (đã được ghi nhận trong các lần trước là chưa có file — cần kiểm tra lại trong phiên sau).
+- **38/2026/TT-BXD**: Thay thế TT 12/2021, 09/2024, 08/2025 và Điều 2 TT 06/2026 — tức bãi bỏ gần như toàn bộ định mức xây dựng cũ. Văn bản rất quan trọng cho ngành xây dựng.
+- **174/2026/NĐ-CP**: Nghị định xử phạt CNTT/viễn thông/bưu chính mới nhất — rất đáng chú ý vì xử phạt nặng mạng xã hội (30-50 triệu, khóa vĩnh viễn). Tác động trực tiếp người dùng internet Việt Nam.
+- **101/2026/TT-BCA**: Hướng dẫn chi tiết cấp phiếu LHP điện tử theo NĐ 216/2026/NĐ-CP. Không thấy số hiệu này trong tracking trước đó.
+- **Thiếu hụt nguồn**: Nhiều web_search dùng Firecrawl bị lỗi 402 (hết credits) — chuyển sang dùng Brave trực tiếp.
+- **Lưu ý docid chưa xác minh**: Tất cả 5 văn bản mới đều chưa xác minh docid từ vanban.chinhphu.vn — cần dùng browser-automation hoặc xác minh qua luatvietnam.vn slug để lấy docid.
+- **Nhóm bổ sung tiềm năng** (chưa xác minh đủ để vào top 5, cần kiểm tra thêm): Nghị quyết 66/2026/NQ-CP (cắt giảm ngành nghề kinh doanh có điều kiện từ 198 xuống 142), Thông tư 13/2026/TT-BNV (hướng dẫn lương cơ sở), Thông tư 14/2026/TT-BNV (hướng dẫn điều chỉnh lương hưu từ 01/7), Thông tư 25/2026/TT-BYT (đã có trong top 5).
+- Nguồn: web_search Brave tổng hợp baochinhphu.vn, luatvietnam.vn (slugs 438889, 109935), thuvienphapluat.vn, vtv.vn, dantri.com.vn, soha.vn, baophapluat.vn, thuonghieucongluan.com.vn, dutoanf1.com.vn, phanmemeta.com, stp.angiang.gov.vn, hcma.vn, nbtv.vn, lsvn.vn.
+- Ngày phát hiện: 2026-07-07 05:15 ICT
+- Phiên thực hiện: agent:github-io:subagent:140136f7-508d-402b-b6d2-4a6f31f6c589 (Đệ #1 Discovery — lần 17)
+
+---
 ## Cập nhật 2026-07-04 (phiên Đệ #1 Discovery — lần 16)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
