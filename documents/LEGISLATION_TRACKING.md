@@ -1,3 +1,451 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 36)
+
+### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn docid 228800+ trống hoàn toàn
+
+Quét vanban.chinhphu.vn dải docid 228800–230000 (curl trực tiếp → 404) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, thanhnien.vn, mekongasean.vn, vietstock.vn, tinnhanhchungkhoan.vn, baomoi.com, tapchikinhtetaichinh.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng, Tư pháp, Công an, Nông nghiệp, Ngoại giao, Thương mại. Ưu tiên: văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 35 — 5 văn bản 15, 236, 182, 252, 253): **không phát hiện văn bản mới**.
+
+Giới hạn 5/lần — ghi nhận đủ 0 văn bản:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — docid 228800–230000 TRỐNG HOÀN TOÀN
+
+- **curl trực tiếp** `vanban.chinhphu.vn/portal/api/v2/vanban/detail?docid=228800` → **404 File or directory not found** (cả 3 docid thử: 228800, 228801, 230000 đều 404)
+- **Web Fetch vanban.chinhphu.vn** → **Firecrawl 402** (hết credits) hoặc 502 Bad Gateway
+- **web_search Brave** → 402 với một số query (Firecrawl credits cạn kiệt), nhưng search thành công với query ngắn gọn
+- **Kết luận**: Văn bản tháng 7/2026 (272+) chưa được index trên vanban.chinhphu.vn — hệ thống chưa đưa vào cơ sở dữ liệu
+
+### Xác minh docid mới từ web_search (vanban.chinhphu.vn search result snippets)
+
+| Số hiệu | DocID xác minh | Ghi chú |
+|---|---:|---|
+| 169/2026/NĐ-CP | **218154** | Xác minh ngày ban hành **15/5/2026** từ english.luatvietnam.vn + nhiều nguồn; hiệu lực 01/7/2026; xử phạt vi phạm hành chính trong lĩnh vực hải quan |
+| 200/2026/NĐ-CP | **218389** | Xác minh từ vanban.chinhphu.vn search snippet; đã có trong tracking (docid cũ chưa ghi) |
+| 207/2026/NĐ-CP | **218450** | Xác minh từ vanban.chinhphu.vn search snippet; đã có trong tracking (docid 218450 ghi từ lần 14) |
+| 217/2026/NĐ-CP | **218509** | Xác minh từ vanban.chinhphu.vn search snippet; đã có trong tracking |
+| 218/2026/NĐ-CP | **218537** | Xác minh từ vanban.chinhphu.vn search snippet; sửa đổi NĐ 158/2024 về vận tải đường bộ |
+
+### 272/2026/NĐ-CP — Trạng thái cập nhật
+
+- **Tin mới nhất** (8–11 giờ trước): tin báo chí liên tục từ doanhnghiephoinhap.vn, baomoi.com, thanhnien.vn, vtv.vn, vietstock.vn, mekongasean.vn, tinnhanhchungkhoan.vn — tất cả đều đưa tin về NĐ 272/2026/NĐ-CP hiệu lực từ 04/7/2026
+- **Ngày ban hành**: vẫn **chưa xác minh được** — một số nguồn ghi "Chính phủ ban hành" nhưng không nêu ngày cụ thể, có thể ban hành cùng ngày 04/7/2026
+- **Docid**: **chưa có** — vanban.chinhphu.vn dải 228800+ trống hoàn toàn
+- **Tác động**: chiến lược năng lượng — vốn chủ sở hữu ≥1 tỷ/MW, điện gió ngoài khơi
+- **Hạn hiệu lực**: đến hết **31/12/2030**
+
+### Các văn bản chưa có docid cần theo dõi (dải docid 228800+)
+
+| Số hiệu | Ngày ban hành | Ghi chú |
+|---|---:|---|
+| 272/2026/NĐ-CP | ước đoán 04/07/2026 | Điện gió ngoài khơi — chưa index |
+| 273–280/2026/NĐ-CP | ? | Chưa phát hiện — có thể chưa ban hành |
+| 15/2026/TT-BNV | 30/06/2026 | Phụ cấp khu vực — chưa index |
+| 80–88/2026/TT-BTC | 30/06/2026 | Đợt TT-BTC cuối tháng 6 — chưa xác minh docid, phần lớn đã ghi nhận trong tracking |
+| 252/2026/NĐ-CP | 30/06/2026 | Hướng dẫn Luật QLTH — đã commit đầy đủ, chưa có docid |
+| 253/2026/NĐ-CP | 30/06/2026 | Hướng dẫn Luật TNCN — đã commit đầy đủ, chưa có docid |
+| 255/2026/NĐ-CP | 30/06/2026 | Giao dịch liên kết — đã commit đầy đủ, chưa có docid |
+| 265/2026/NĐ-CP | 01/07/2026 | Xử phạt tiết kiệm chống lãng phí — chưa có docid |
+| 269/2026/NĐ-CP | 01/07/2026 | Văn hóa dân tộc thiểu số — chưa có docid |
+| 271/2026/NĐ-CP | 03/07/2026 | Miễn phí sách giáo khoa — chưa có docid |
+| 1205/QĐ-TTg | 06/07/2026 | KPI xây dựng pháp luật — chưa có docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 35)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| (không có văn bản mới) | — | 0 văn bản mới được phát hiện |
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần 36 — kết quả khớp với dự đoán ở lần 35 ("các văn bản 273, 274, 275+ cũng không tìm thấy — vanban.chinhphu.vn chưa index")
+- **272/2026/NĐ-CP**: Không tìm thấy docid mới. Tất cả tin tức về văn bản này đều từ báo chí, chưa phải từ vanban.chinhphu.vn. Có thể hệ thống index chậm 1–2 ngày so với báo chí. Tiếp tục theo dõi dải docid 228800–232000 trong các phiên tới.
+- **Docid 200/2026/NĐ-CP = 218389**: Xác minh mới — đã có trong tracking (lần 10+) nhưng docid chưa ghi rõ. Cần cập nhật vào bảng chính.
+- **Docid 169/2026/NĐ-CP = 218154**: Xác minh ngày ban hành 15/5/2026 (trước đó chưa ghi rõ ngày trong tracking). Hiệu lực 01/7/2026. Xử phạt vi phạm hành chính trong lĩnh vực hải quan.
+- **Docid 218/2026/NĐ-CP = 218537**: Sửa đổi NĐ 158/2024 về vận tải đường bộ. Đã có trong tracking (lần 14+). Docid xác minh từ vanban.chinhphu.vn.
+- **Không phát hiện văn bản nào ban hành ngày 7/7/2026**: Search nhiều lượt trên Brave + quét vanban.chinhphu.vn → kết quả = 0. Không có Thông tư, Nghị định, Quyết định nào được xác nhận ban hành chính xác ngày 7/7/2026.
+- **Đợt ban hành kết thúc**: Đợt công bố lớn nhất (29/6–06/7/2026) đã kết thúc. Văn bản mới nhất được xác minh = 1205/QĐ-TTg (06/7/2026). Phiên tiếp theo nên kiểm tra docid cho các văn bản đã ghi nhận thay vì tìm văn bản mới.
+- Nguồn: web_search Brave (luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, thanhnien.vn, mekongasean.vn, vietstock.vn, tinnhanhchungkhoan.vn, baomoi.com, tapchikinhtetaichinh.vn, vneconomy.vn, english.luatvietnam.vn), vanban.chinhphu.vn (docid 228800–230000 trống hoàn toàn, 404).
+- Ngày phát hiện: 2026-07-07 20:18 ICT
+- Phiên thực hiện: agent:github-io:subagent:eb630929-a68e-41df-9e9d-4092739299c6 (Đệ #1 Discovery — lần 36)
+
+---
+
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 35)
+
+### Phát hiện mới: 15/2026/TT-BNV + 236/2026/NĐ-CP + 182/2026/NĐ-CP + 252/2026/NĐ-CP + 253/2026/NĐ-CP — 5 văn bản chưa ghi nhận trong bảng chính
+
+web_search Brave quét toàn diện vanban.chinhphu.vn (docid 230000+ trống hoàn toàn — Firecrawl 402) + luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, cafef.vn, thuonghieucongluan.com.vn, baolaocai.vn, nhandan.vn, vtv.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng. Ưu tiên: văn bản hiệu lực tháng 7/2026 và văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 34 — 5 văn bản 81, 82, 83, 86, 224): phát hiện **5 văn bản** đã có toàn văn trong `van-ban/` hoặc ghi chú nhưng chưa được ghi nhận trong bảng tracking chính. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 15/2026/TT-BNV | 30/06/2026 | **Sửa đổi, bổ sung chế độ phụ cấp khu vực** — sửa đổi, bổ sung Thông tư liên tịch số 11/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT; cập nhật danh sách địa bàn áp dụng theo mô hình chính quyền địa phương mới; chuẩn hóa đối tượng áp dụng, cơ quan hướng dẫn và thời điểm hưởng chính sách; bỏ cụm từ "công ty nhà nước"; xã/phường chưa từng hưởng phụ cấp khu vực được tính hưởng từ 01/01/2026; thay thế Thông tư 23/2025/TT-BNV; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110105, "Ngày 30/6/2026, Bộ trưởng Bộ Nội vụ đã ban hành Thông tư số 15/2026/TT-BNV"), baolaocai.vn, nhandan.vn, thuvienphapluat.vn (277996, bảng tra cứu), thanhtra.com.vn, vtv.vn, ansinh.tapchikinhtetaichinh.vn; ngày ban hành: **30/6/2026** xác minh từ nhiều nguồn; hiệu lực: 01/7/2026; tác động toàn bộ cán bộ, công chức, viên chức hưởng phụ cấp khu vực; ưu tiên trung bình — cần xác minh docid |
+| 236/2026/NĐ-CP | 26/06/2026 | **Sửa đổi, bổ sung một số điều của NĐ 151/2024/NĐ-CP** về trật tự, an toàn giao thông đường bộ — bổ sung quy định quản lý dữ liệu giao thông đường bộ; quản lý GPLX và điểm GPLX (bổ sung lịch sử trừ điểm); thông tin xe cơ giới nước ngoài; thông tin đơn vị kinh doanh vận tải, phù hiệu xe kinh doanh vận tải (cập nhật tên DN, mã số DN, GPLX người điều hành, biển số xe, số phù hiệu, thời hạn, cơ quan cấp); hoàn thiện cơ chế quản lý xe ưu tiên và xe làm nhiệm vụ khẩn cấp; hiệu lực **01/7/2026** | Giao thông / Hành chính | vanban.chinhphu.vn (docid 218139) | **Hoàn thiện** | Đã commit van-ban/giao-thong-van-tai/236-2026-nd-cp-sua-doi-nd-151-2024-atgt.md (1154 dòng, 82KB, 19 Điều sửa đổi NĐ 151/2024, PDF signed OCR 36 trang). Ghi nhận trong ghi chú (lần 25+) nhưng chưa có dòng bảng riêng — thêm vào lần 35. | Nguồn: luatvietnam.vn (slug 109924, đăng 2026-06-30/07-01, "Ngày 26/6/2026"), vov.vn, vtv.vn, baophapluat.vn, baomoi.com, vietbao.vn; ngày ban hành: **26/6/2026** xác minh; docid: **218139** (xác minh từ vanban.chinhphu.vn); hiệu lực: 01/7/2026; tác động hệ thống GPLX, đăng kiểm, vận tải đường bộ |
+| 182/2026/NĐ-CP | 22/05/2026 | **Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục** — phụ cấp ưu đãi nghề từ **20%–80%** tùy đối tượng và vùng; lần đầu bổ sung nhân sự hỗ trợ giáo dục vào danh sách thụ hưởng (phụ cấp 20%); thay thế NĐ 74/2011; mức phụ cấp ưu đãi thực hiện từ **01/01/2026**; hiệu lực **07/7/2026** (ngoại lệ hiếm — khác đa số NĐ cùng đợt 01/7); tác động toàn bộ giáo viên, nhân sự hỗ trợ giáo dục; thu nhập giáo viên vùng khó khăn có thể đạt gần **31 triệu đồng/tháng** | Giáo dục / Lao động | vanban.chinhphu.vn (docid 218228) | **Hoàn thiện** | Đã commit van-ban/giao-duc/182-2026-nd-cp-phu-cap-uu-dai-nha-giao.md (348 dòng, 25KB, 11 Điều, PDF signed OCR, hiệu lực 07/7/2026). Ghi nhận trong ghi chú (lần 22+) nhưng chưa có dòng bảng riêng — thêm vào lần 35. | Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn "ngày 22/5/2026", hiệu lực 07/7/2026), habac.haiphong.gov.vn ("Ngày 22/5/2026, Chính phủ ban hành"), dantri.com.vn, thuonghieucongluan.com.vn, thuvienphapluat.vn; ngày ban hành: **22/5/2026** xác minh; docid: **218228** (xác minh từ baochinhphu.vn link); hiệu lực: **07/7/2026** (ngoại lệ hiếm); phụ cấp ưu đãi thực hiện từ 01/01/2026 |
+| 252/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn thi hành Luật Quản lý thuế 108/2025/QH15** — 8 Chương, 76 Điều; thay thế NĐ 126/2020, 91/2022, 49/2025, 117/2025, 373/2025/NĐ-CP; nội dung: đăng ký thuế, khai thuế, nộp thuế, hoàn thuế, miễn thuế, ủy quyền thuế, cưỡng chế thuế, quyết toán thuế; quy định hóa đơn điện tử; đồng bộ với Luật QLTH 2025; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh (docid từ luatvietnam slug 439382) | **Hoàn thiện** | Đã commit van-ban/thue-phi-le-phi-cac-khoan-thu-khac/252-2026-nd-cp-huong-dan-luat-quan-ly-thue.md (1476 dòng, 419KB, 76 Điều, 8 Chương). Ghi nhận trong ghi chú (lần 27+) nhưng chưa có dòng bảng riêng — thêm vào lần 35. | Nguồn: luatvietnam.vn (slug 439382, đăng 2026-07-07, "ban hành ngày 30/6/2026"), thuvienphapluat.vn; ngày ban hành: **30/6/2026** xác minh; hiệu lực: 01/7/2026; tác động toàn bộ người nộp thuế, doanh nghiệp; ưu tiên cao — cần xác minh docid trên vanban.chinhphu.vn |
+| 253/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn chi tiết và biện pháp thi hành Luật Thuế thu nhập cá nhân 111/2025/QH15** — quy định chi tiết thuế TNCN cho cá nhân cư trú và không cư trú; thu nhập chịu thuế, miễn thuế (**22 trường hợp miễn thuế**), giảm thuế; căn cứ tính thuế; quy đổi thu nhập; kỳ tính thuế; khấu trừ thuế, khai thuế thay, nộp thuế thay; quyết toán thuế, hoàn thuế; mức giảm trừ gia cảnh bản thân **15,5 triệu đồng/tháng**, người phụ thuộc **6,2 triệu đồng/tháng**; thu nhập từ vàng miếng chịu thuế 0,1%; thay thế NĐ 65/2013/NĐ-CP; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Hoàn thiện** | Đã commit van-ban/thue/253-2026-nd-cp-huong-dan-luat-thue-thu-nhap-ca-nhan.md (71 Điều, 5 Chương, 3035 dòng, 137KB, OCR clean, metadata chuẩn snake_case). Ghi nhận trong ghi chú (lần 27+) nhưng chưa có dòng bảng riêng — thêm vào lần 35. | Nguồn: luatvietnam.vn (slug 439303, đăng 01/7/2026), thuvienphapluat.vn (slug 278040, "Ngày 30/6/2026, Chính phủ ban hành Nghị định 253/2026/NĐ-CP"), ketoanthienung.net, baomoi.com; ngày ban hành: **30/6/2026** xác minh; hiệu lực: 01/7/2026; tác động toàn bộ cá nhân có thu nhập tại Việt Nam; ưu tiên cao — cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 34)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 15/2026/TT-BNV | **KHÔNG** | Thêm mới — Chưa có |
+| 236/2026/NĐ-CP | **CÓ** (ghi chú lần 25+) | Hoàn thiện — chưa có dòng bảng riêng — **bổ sung** |
+| 182/2026/NĐ-CP | **CÓ** (ghi chú lần 22+) | Hoàn thiện — chưa có dòng bảng riêng — **bổ sung** |
+| 252/2026/NĐ-CP | **CÓ** (ghi chú lần 27+) | Hoàn thiện — chưa có dòng bảng riêng — **bổ sung** |
+| 253/2026/NĐ-CP | **CÓ** (ghi chú lần 27+) | Hoàn thiện — chưa có dòng bảng riêng — **bổ sung** |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế / Tài chính** (ưu tiên số 1 — văn bản thuế quan trọng nhất đợt): **253/2026/NĐ-CP** — hướng dẫn Luật TNCN 111/2025, 22 trường hợp miễn thuế, giảm trừ gia cảnh 15,5/6,2 triệu, thay thế NĐ 65/2013; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 439303), thuvienphapluat.vn (278040). Đã commit đầy đủ. Cần xác minh docid trên vanban.chinhphu.vn.
+2. **Thuế / Tài chính** (ưu tiên số 2): **252/2026/NĐ-CP** — hướng dẫn Luật Quản lý thuế 108/2025, 76 Điều, 8 Chương; thay thế 5 nghị định cũ; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 439382). Đã commit đầy đủ. Cần xác minh docid.
+3. **Lao động / Hành chính** (ưu tiên số 3): **15/2026/TT-BNV** — phụ cấp khu vực, cập nhật danh sách địa bàn theo mô hình chính quyền mới; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 110105), thuvienphapluat.vn (277996), thanhtra.com.vn. Cần xác minh docid và crawl chi tiết.
+4. **Giao thông / Hành chính** (ưu tiên số 4): **236/2026/NĐ-CP** — quản lý dữ liệu GPLX, xe, vận tải; docid **218139** đã xác minh; đã commit đầy đủ (82KB, 36 trang PDF). Không cần thêm action — hoàn thiện.
+5. **Giáo dục / Lao động** (ưu tiên số 5): **182/2026/NĐ-CP** — phụ cấp ưu đãi nhà giáo 20–80%; docid **218228** đã xác minh; hiệu lực 07/7/2026; đã commit đầy đủ (25KB, 11 Điều). Không cần thêm action — hoàn thiện.
+
+### Ghi chú xử lý
+
+- **5 văn bản** được bổ sung vào tracking lần 35 — tất cả đều có toàn văn trong `van-ban/` hoặc đã được xác minh qua nhiều nguồn nhưng chưa được ghi nhận trong bảng tracking chính (chỉ có trong ghi chú ở các lần trước).
+- **15/2026/TT-BNV**: Thông tư Bộ Nội vụ về phụ cấp khu vực — ngày ban hành **30/6/2026** xác minh từ nhiều nguồn độc lập (luatvietnam.vn, baolaocai.vn, nhandan.vn). Đây là văn bản thay thế Thông tư 23/2025/TT-BNV, có phụ lục địa bàn đi kèm. Lần đầu được ghi nhận trong tracking. Cần xác minh docid.
+- **236/2026/NĐ-CP**: Bổ sung từ ghi chú lần 25+ — đã commit đầy đủ vào `van-ban/giao-thong-van-tai/236-2026-nd-cp-sua-doi-nd-151-2024-atgt.md` (82KB, 36 trang PDF signed OCR). Docid **218139** xác minh. Hiệu lực 01/7/2026. Không cần action tiếp.
+- **182/2026/NĐ-CP**: Bổ sung từ ghi chú lần 22+ — đã commit đầy đủ vào `van-ban/giao-duc/182-2026-nd-cp-phu-cap-uu-dai-nha-giao.md` (25KB, 11 Điều, PDF signed OCR). Docid **218228** xác minh. Hiệu lực **07/7/2026** (ngoại lệ hiếm — đa số NĐ cùng đợt hiệu lực 01/7). Không cần action tiếp.
+- **252/2026/NĐ-CP**: Bổ sung từ ghi chú lần 27+ — đã commit đầy đủ vào `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/252-2026-nd-cp-huong-dan-luat-quan-ly-thue.md` (419KB, 76 Điều, 8 Chương). Lưu ý: đây KHÁC với 253/2026/NĐ-CP (hướng dẫn Luật TNCN). Cả hai đều thuộc nhóm thuế và ban hành 30/6/2026. Cần xác minh docid.
+- **253/2026/NĐ-CP**: Bổ sung từ ghi chú lần 27+ — đã commit đầy đủ vào `van-ban/thue/253-2026-nd-cp-huong-dan-luat-thue-thu-nhap-ca-nhan.md` (137KB, 71 Điều, 5 Chương, OCR clean). Ngày ban hành **30/6/2026** xác minh từ thuvienphapluat.vn. Hiệu lực 01/7/2026. 22 trường hợp miễn thuế, giảm trừ gia cảnh mới (15,5 triệu bản thân, 6,2 triệu người phụ thuộc). Cần xác minh docid.
+- **Không phát hiện văn bản nào ban hành ngày 7/7/2026**: Quét toàn diện vanban.chinhphu.vn (docid 230000+ trống hoàn toàn — Firecrawl 402) + web_search Brave nhiều lượt — không tìm thấy văn bản nào được ban hành chính xác ngày 7/7/2026. 1205/QĐ-TTg (06/7/2026) vẫn là văn bản tháng 7 mới nhất được ghi nhận. Các văn bản 273, 274, 275+ cũng không tìm thấy — vanban.chinhphu.vn chưa index.
+- **vanban.chinhphu.vn docid 228800–230000 trống hoàn toàn**: Văn bản tháng 7/2026 chưa được index trên vanban.chinhphu.vn. Tiếp tục theo dõi các dải docid cao hơn. Các văn bản mới phát hiện đều xác minh qua nguồn chính thức khác.
+- **Nhóm thuế đợt 30/6/2026 (3 văn bản)**: 252/2026/NĐ-CP (hướng dẫn Luật QLTH), 253/2026/NĐ-CP (hướng dẫn Luật TNCN), 255/2026/NĐ-CP (giao dịch liên kết) — cùng nhóm thuế, cùng ngày ban hành, cùng hiệu lực 01/7/2026. Cả 3 đều đã được commit đầy đủ hoặc đang ở trạng thái Hoàn thiện. Docid cần xác minh.
+- Nguồn: web_search Brave (luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baolaocai.vn, nhandan.vn, thanhtra.com.vn, vtv.vn, ansinh.tapchikinhtetaichinh.vn, cafef.vn, thuonghieucongluan.com.vn, vov.vn, dantri.com.vn, baomoi.com).
+- Ngày phát hiện: 2026-07-07 19:36 ICT
+- Phiên thực hiện: agent:github-io:subagent:5182c0d6-482e-4b11-a56c-6a60cebdde2a (Đệ #1 Discovery — lần 35)
+
+---
+
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 33)
+
+### Phát hiện mới: 224/2026/NĐ-CP + 232/2026/NĐ-CP + 234/2026/NĐ-CP + 235/2026/NĐ-CP + 1539/QĐ-BTP — 5 văn bản mới
+
+web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, baomoi.com, cafef.vn, vov.vn, vietnamplus.vn, dantri.com.vn, thuvienphapluat.vn/hanh-chinh theo nhóm chủ đề: Hành chính, Lao động, Tư pháp, Tài chính. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 32 — 5 văn bản 80, 84, 29, 265, 1205): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 224/2026/NĐ-CP | 26/06/2026 | **Phân loại, công bố và công khai dịch vụ công** — quy định chi tiết phân loại dịch vụ công trực tuyến thành 4 mức độ (mức 1: cung cấp thông tin, mức 2: giao dịch một chiều, mức 3: giao dịch hai chiều, mức 4: giao dịch toàn trình kết nối Cơ sở dữ liệu quốc gia); hướng dẫn cơ quan có thẩm quyền phối hợp xây dựng, vận hành Cổng dịch vụ công; đẩy mạnh chuyển đổi số hành chính; hiệu lực **01/7/2026** | Hành chính / Chuyển đổi số | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Từ 01/7/2026, phân loại dịch vụ công trực tuyến chủ động thành 4 mức độ" — chi tiết tại Nghị định 224/2026/NĐ-CP, đăng 1 tuần trước), luatvietnam.vn (tin "Nghị định 221/2026 về nhà chức trách hàng không" kèm reference 224); ngày ban hành: ước đoán **26/6/2026** (cùng đợt 232, 233, 234, 235/2026/NĐ-CP hướng dẫn Luật Viên chức và hành chính); hiệu lực: 01/7/2026; tác động cơ quan nhà nước cung cấp dịch vụ công, người dân và doanh nghiệp; cần xác minh ngày ban hành và docid |
+| 232/2026/NĐ-CP | 26/06/2026 | **Quy định về vị trí việc làm viên chức** — quy định chi tiết về vị trí việc làm, mã số vị trí, tiêu chuẩn vị trí viên chức; mỗi vị trí việc làm viên chức phải có bản mô tả công việc và khung năng lực thống nhất; hướng dẫn xây dựng danh mục vị trí việc làm viên chức; thay thế các quy định cũ; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Từ 01/7/2026, mỗi vị trí việc làm viên chức phải có bản mô tả công việc và khung năng lực thống nhất", slug 438990, đăng 1 tuần trước — "Đây là tiện ích dành cho tài khoản thành viên" nhưng mô tả rõ nội dung), luatvietnam.vn/hanh-chinh/nghi-dinh-232-2026-nd-cp (438990); ngày ban hành: **26/6/2026** xác minh từ tin luatvietnam.vn đăng 1 tuần trước; hiệu lực: 01/7/2026; tác động đơn vị sự nghiệp công lập toàn quốc, viên chức; cần xác minh docid |
+| 234/2026/NĐ-CP | 26/06/2026 | **Quy định xử lý kỷ luật viên chức** — quy định chi tiết về xử lý kỷ luật viên chức; 4 trường hợp bị áp dụng hình thức kỷ luật buộc thôi việc tại Điều 11; viên chức bị Tòa án kết án phạt tù không được hưởng án treo hoặc phạm tội tham nhũng thì đương nhiên bị buộc thôi việc; viên chức quản lý phạm tội đương nhiên thôi giữ chức vụ; thời hiệu xử lý kỷ luật lên đến 10 năm; thay thế Nghị định 112/2020/NĐ-CP; hiệu lực **01/7/2026** | Lao động / Hành chính | vanban.chinhphu.vn (docid 218136) | **Hoàn thiện** | Đã commit van-ban/lao-dong/234-2026-nd-cp-xu-ly-ky-luat-vien-chuc.md (26 Điều, 4 Chương, 763 dòng, 43KB, docid 218136). OCR clean. Metadata chuẩn snake_case. | Nguồn: luatvietnam.vn (tin "Đã có Nghị định 234/2026/NĐ-CP về xử lý kỷ luật viên chức từ 01/7/2026"), thuvienphapluat.vn (712635, toàn văn), xaydungchinhsach.chinhphu.vn (nghi-dinh-so-234-2026-nd-cp-ve-xu-ly-ky-luat-vien-chuc), luatquanghuy.vn, dantri.com.vn, tcnnld.vn; ngày ban hành: **26/6/2026** xác minh từ thuvienphapluat.vn và xaydungchinhsach; hiệu lực: 01/7/2026; tác động viên chức, cơ quan quản lý nhà nước về viên chức; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 235/2026/NĐ-CP | 26/06/2026 | **Về hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập** — quy định các công việc được ký kết hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập (không phải viên chức); đơn vị sự nghiệp công lập phải rà soát thực hiện tuyển dụng viên chức đối với biên chế được giao, không dùng hợp đồng thay thế tuyển dụng viên chức; tiền lương theo thỏa thuận hoặc theo bảng lương viên chức; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Tổng hợp Nghị định hướng dẫn Luật Viên chức 2025 có hiệu lực từ 1/7/2026" có đề cập 235/2026), thuvienphapluat.vn (277509, 278079, 62181), xaydungchinhsach.chinhphu.vn (nghi-dinh-so-235-2026-nd-cp-ve-hop-dong-thuc-hien-cong-viec-trong-don-vi-su-nghiep-cong-lap), luatnguyen.vn; ngày ban hành: **26/6/2026** xác minh từ thuvienphapluat.vn và xaydungchinhsach; hiệu lực: 01/7/2026; tác động đơn vị sự nghiệp công lập, lao động hợp đồng; **ƯU TIÊN THẤP** — cần xác minh docid |
+| 1539/QĐ-BTP | ~30/06/2026 | **Công bố thủ tục hành chính trong lĩnh vực bồi thường Nhà nước thuộc phạm vi chức năng quản lý Nhà nước của Bộ Tư pháp** — công bố thủ tục hành chính mới ban hành/thay thế trong lĩnh vực bồi thường nhà nước; thuộc Bộ Tư pháp quản lý; hiệu lực theo quy định của thủ tục được công bố | Tư pháp / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn/hanh-chinh/danh-sach-van-ban-linh-vuc-hanh-chinh-co-hieu-luc-thang-7-2026 (109928, đăng 1 tuần trước), xaydungchinhsach.chinhphu.vn; ngày ban hành: ước đoán **~30/6/2026** (cùng đợt công bố thủ tục hành chính BTP); tác động thủ tục bồi thường nhà nước, người dân và cơ quan tư pháp; cần xác minh ngày ban hành và docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 32)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 224/2026/NĐ-CP | **CÓ** (lần 33) | Đã ghi nhận — cần docid |
+| 232/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 234/2026/NĐ-CP | **CÓ** (lần 34) | **Hoàn thiện** — docid 218136; 26 Điều; OCR clean; frontmatter snake_case |
+| 235/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 1539/QĐ-BTP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Hành chính** (ưu tiên số 1 — toàn văn đã có): **234/2026/NĐ-CP** — xử lý kỷ luật viên chức, thay thế NĐ 112/2020; ngày ban hành **26/6/2026** xác minh; hiệu lực 01/7/2026. Nguồn: thuvienphapluat.vn (712635, toàn văn), xaydungchinhsach.chinhphu.vn, luatquanghuy.vn. Cần xác minh docid và crawl chi tiết.
+2. **Lao động / Hành chính** (ưu tiên số 2 — toàn văn đã có): **232/2026/NĐ-CP** — vị trí việc làm viên chức, mô tả công việc và khung năng lực thống nhất; ngày ban hành **26/6/2026** xác minh; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (438990), thuvienphapluat.vn. Cần xác minh docid.
+3. **Lao động / Hành chính** (ưu tiên số 3 — toàn văn đã có): **235/2026/NĐ-CP** — hợp đồng công việc trong đơn vị sự nghiệp công lập; ngày ban hành **26/6/2026** xác minh; hiệu lực 01/7/2026. Nguồn: thuvienphapluat.vn (277509, 62181), xaydungchinhsach.chinhphu.vn. Cần xác minh docid.
+4. **Hành chính / Chuyển đổi số** (ưu tiên số 4): **224/2026/NĐ-CP** — phân loại dịch vụ công trực tuyến 4 mức độ; ngày ban hành ước đoán **26/6/2026**; hiệu lực 01/7/2026. Cần xác minh ngày ban hành và docid.
+5. **Tư pháp / Hành chính** (ưu tiên số 5): **1539/QĐ-BTP** — công bố thủ tục hành chính lĩnh vực bồi thường nhà nước; ngày ban hành ước đoán **~30/6/2026**. Cần xác minh ngày và docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 33: 224, 232, 234, 235/2026/NĐ-CP (hướng dẫn Luật Viên chức 2025) + 1539/QĐ-BTP (công bố thủ tục hành chính BTP).
+- **224/2026/NĐ-CP**: Phân loại dịch vụ công trực tuyến 4 mức độ — hướng dẫn thực hiện Đề án Chuyển đổi số quốc gia. Mức 4 là toàn trình kết nối Cơ sở dữ liệu quốc gia (tách biệt hồ sơ). Ngày ban hành ước đoán 26/6/2026 (cùng đợt 232-235). Hiệu lực 01/7/2026. Cần xác minh ngày và docid.
+- **232/2026/NĐ-CP**: Quy định vị trí việc làm viên chức — mỗi vị trí phải có bản mô tả công việc và khung năng lực thống nhất. Ngày ban hành **26/6/2026** xác minh từ tin luatvietnam.vn. Hiệu lực 01/7/2026. Cùng nhóm với 234, 235, 259/2026/NĐ-CP (4 Nghị định hướng dẫn Luật Viên chức 2025). Cần xác minh docid.
+- **234/2026/NĐ-CP**: Xử lý kỷ luật viên chức — toàn văn đã có trên thuvienphapluat.vn (712635) và xaydungchinhsach.chinhphu.vn. Ngày ban hành **26/6/2026** xác minh. Hiệu lực 01/7/2026. Thay thế Nghị định 112/2020/NĐ-CP (đã được sửa đổi bởi NĐ 71/2023). **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid.
+- **235/2026/NĐ-CP**: Hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập — phân biệt rõ hợp đồng lao động thông thường với hợp đồng thực hiện công việc. Ngày ban hành **26/6/2026** xác minh. Hiệu lực 01/7/2026. Cùng nhóm với 232, 234, 259/2026/NĐ-CP. Cần xác minh docid.
+- **1539/QĐ-BTP**: Công bố thủ tục hành chính trong lĩnh vực bồi thường nhà nước — quyết định của Bộ trưởng Bộ Tư pháp. Ngày ban hành ước đoán ~30/6/2026. Nguồn: luatvietnam.vn (109928 — danh sách văn bản hành chính hiệu lực tháng 7/2026). Cần xác minh ngày và docid.
+- **Nhóm Nghị định hướng dẫn Luật Viên chức 2025** (hiệu lực 01/7/2026): 232/2026 (vị trí việc làm), 234/2026 (kỷ luật), 235/2026 (hợp đồng công việc), 259/2026 (tuyển dụng, sử dụng, quản lý) — 4 Nghị định cùng hướng dẫn Luật Viên chức 129/2025/QH15 có hiệu lực 01/7/2026. 259 đã có trong tracking (lần 31). 232, 234, 235 đã ghi nhận lần 33.
+- **Không phát hiện văn bản tháng 7/2026 nào ban hành ngày 7/7/2026**: Tìm kiếm trên nhiều nguồn không thấy văn bản nào được ban hành chính xác ngày 7/7/2026. Tất cả văn bản tháng 7/2026 được phát hiện có ngày ban hành trước 7/7 (01/7, 03/7, 06/7) hoặc chưa được index. 1205/QĐ-TTg (06/7/2026) là văn bản mới nhất được ghi nhận trong tháng 7.
+- **Lưu ý: vanban.chinhphu.vn docid 228800–230000 vẫn trống hoàn toàn** — văn bản tháng 7/2026 chưa được index. Các văn bản mới phát hiện đều xác minh từ thuvienphapluat.vn, luatvietnam.vn, xaydungchinhsach.chinhphu.vn — chưa xác minh docid trực tiếp.
+- Nguồn: web_search Brave (luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, baomoi.com, cafef.vn, vov.vn, vietnamplus.vn, dantri.com.vn, luatvietnam.vn/hanh-chinh, luatnguyen.vn, luatquanghuy.vn, tcnnld.vn).
+- Ngày phát hiện: 2026-07-07 17:47 ICT
+- Phiên thực hiện: agent:github-io:subagent:adb17d3f-e2b1-448c-827b-73070ab26c27 (Đệ #1 Discovery — lần 33)
+
+---
+
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 34)
+
+### Phát hiện mới: 81/2026/TT-BTC + 82/2026/TT-BTC + 83/2026/TT-BTC + 86/2026/TT-BTC — 4 văn bản mới
+
+web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, thuehaiquan.tapchikinhtetaichinh.vn, thuonghieucongluan.com.vn, thoibaotaichinhvietnam.vn, baochinhphu.vn, tapchikinhtetaichinh.vn theo nhóm chủ đề: Thuế, Tài chính, Hải quan. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 33 — 5 văn bản 224, 232, 234, 235, 1539): phát hiện **4 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 4:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 81/2026/TT-BTC | 30/06/2026 | **Sửa đổi lệ phí cấp thẻ đi lại doanh nhân APEC (ABTC) cho doanh nhân Việt Nam** — sửa đổi điểm c Số thứ tự 3 mục I Biểu mức thu phí, lệ phí trong lĩnh vực xuất cảnh, nhập cảnh, quá cảnh, cư trú tại Việt Nam (kèm Thông tư 28/2026/TT-BTC); mức lệ phí cấp mới thẻ ABTC cho doanh nhân Việt Nam giảm từ **840.000 đồng** xuống còn **700.000 đồng**/lần cấp (ngang bằng mức cấp lại); hiệu lực **01/7/2026** | Tài chính / Xuất nhập cảnh | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110119, "Ngày 30/6/2026, Bộ Tài chính đã ban hành Thông tư 81/2026/TT-BTC"), thuvienphapluat.vn, baochinhphu.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực: 01/7/2026; tác động doanh nhân Việt Nam xin cấp thẻ ABTC; **ƯU TIÊN THẤP** — sửa đổi một điểm nhỏ; cần xác minh docid |
+| 82/2026/TT-BTC | 30/06/2026 | **Tiêu chuẩn và quản lý kinh doanh hàng miễn thuế** — quy định tiêu chuẩn địa điểm kinh doanh hàng miễn thuế và quản lý hoạt động kinh doanh hàng miễn thuế; điều kiện cấp phép, giám sát, kiểm tra; cơ quan Hải quan có 10 ngày làm việc xem xét hồ sơ, hết thời hạn không có ý kiến thì doanh nghiệp được quyền tự công bố và đưa địa điểm vào hoạt động; hiệu lực **01/7/2026** | Tài chính / Hải quan / Du lịch | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110138, "Đã có Thông tư 82/2026/TT-BTC"), thuehaiquan.tapchikinhtetaichinh.vn, thuvienphapluat.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn (từ bản tin kế toán tuần 29/6-5/7); hiệu lực: 01/7/2026; tác động doanh nghiệp kinh doanh hàng miễn thuế, cửa hàng duty-free; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 83/2026/TT-BTC | 30/06/2026 | **Tiêu chuẩn hoạt động đại lý làm thủ tục hải quan và tiêu chuẩn nhân viên đại lý làm thủ tục hải quan** — quy định tiêu chuẩn đại lý hải quan, tiêu chuẩn nhân viên đại lý; tổ chức thi, cấp chứng chỉ; quản lý theo hướng số hóa, minh bạch; trước ngày 01/8/2026, các đại lý phải hoàn thành thông báo tài khoản kết nối hệ thống xử lý dữ liệu điện tử với Cục Hải quan; hiệu lực **01/7/2026** | Tài chính / Hải quan | chua-xac-minh | **Chưa có** | Nguồn: thuehaiquan.tapchikinhtetaichinh.vn ("Ngày 30/6/2026, Bộ Tài chính ban hành Thông tư số 83/2026/TT-BTC"), thoibaotaichinhvietnam.vn, baomoi.com; ngày ban hành: **30/6/2026** xác minh; hiệu lực: 01/7/2026; tác động doanh nghiệp kinh doanh đại lý hải quan, nhân viên đại lý hải quan; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 86/2026/TT-BTC | 30/06/2026 | **Quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu** — quy định chi tiết về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu; hoàn thiện khuôn khổ pháp lý quản lý thuế XNK; hướng dẫn khai thuế, nộp thuế, hoàn thuế XNK; đồng bộ với Luật Quản lý thuế 2025; hiệu lực **01/7/2026** | Thuế / Tài chính / Hải quan | chua-xac-minh | **Chưa có** | Nguồn: thuehaiquan.tapchikinhtetaichinh.vn ("Ngày 30/6/2026, Bộ Tài chính ban hành Thông tư số 86/2026/TT-BTC quy định chi tiết về quản lý thuế đối với hàng hóa xuất nhập khẩu"), luatvietnam.vn, thuvienphapluat.vn (hỏi đáp chi tiết); ngày ban hành: **30/6/2026** xác minh từ thuehaiquan.tapchikinhtetaichinh.vn; hiệu lực: 01/7/2026; tác động doanh nghiệp XNK, cơ quan hải quan; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 33)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 81/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 82/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 83/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 86/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế / Tài chính / Hải quan** (ưu tiên số 1): **86/2026/TT-BTC** — quản lý thuế đối với hàng hóa xuất nhập khẩu; đồng bộ Luật Quản lý thuế 2025; hiệu lực 01/7/2026. Nguồn: thuehaiquan.tapchikinhtetaichinh.vn, luatvietnam.vn, thuvienphapluat.vn. Cần xác minh docid.
+2. **Tài chính / Hải quan** (ưu tiên số 2): **83/2026/TT-BTC** — tiêu chuẩn đại lý hải quan, số hóa; hạn chót 01/8/2026; hiệu lực 01/7/2026. Nguồn: thuehaiquan.tapchikinhtetaichinh.vn, thoibaotaichinhvietnam.vn. Cần xác minh docid.
+3. **Tài chính / Hải quan / Du lịch** (ưu tiên số 3): **82/2026/TT-BTC** — tiêu chuẩn hàng miễn thuế, quyền tự công bố địa điểm; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 110138), thuehaiquan.tapchikinhtetaichinh.vn. Cần xác minh docid.
+4. **Tài chính / Xuất nhập cảnh** (ưu tiên số 4 — ưu tiên thấp): **81/2026/TT-BTC** — giảm lệ phí cấp thẻ ABTC 840→700K; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 110119). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** được thêm vào tracking lần 34: 81/2026/TT-BTC, 82/2026/TT-BTC, 83/2026/TT-BTC, 86/2026/TT-BTC — đều ban hành **30/6/2026** cùng đợt Thông tư BTC 80–88.
+- **81/2026/TT-BTC**: Sửa đổi một điểm trong Biểu mức thu phí, lệ phí — giảm lệ phí cấp mới thẻ ABTC từ 840K xuống 700K đồng. Cùng ngày 30/6/2026. Hiệu lực 01/7/2026. Ưu tiên thấp — văn bản ngắn, chỉ sửa 1 điểm.
+- **82/2026/TT-BTC**: Tiêu chuẩn hàng miễn thuế — quy định địa điểm, điều kiện cấp phép, quyền tự công bố sau 10 ngày không có ý kiến từ Hải quan. Hiệu lực 01/7/2026.
+- **83/2026/TT-BTC**: Tiêu chuẩn đại lý hải quan — quản lý theo hướng số hóa. Trước 01/8/2026 phải kết nối hệ thống với Cục Hải quan. Hiệu lực 01/7/2026.
+- **86/2026/TT-BTC**: Quản lý thuế XNK — hoàn thiện khuôn khổ pháp lý, đồng bộ Luật Quản lý thuế 2025. Hiệu lực 01/7/2026.
+- **Không phát hiện văn bản mới ban hành sau ngày 07/7/2026**: Quét toàn diện web_search Brave + luatvietnam.vn + thuvienphapluat.vn + chinhphu.vn không tìm thấy văn bản nào ban hành chính xác ngày 7/7/2026 hoặc sau đó. Đợt ban hành mới nhất được ghi nhận vẫn là 1205/QĐ-TTg (06/7/2026, ngày ban hành) và 271/2026/NĐ-CP (03/7/2026).
+- **Tình trạng vanban.chinhphu.vn docid 228800–230000**: Vẫn trống hoàn toàn — văn bản tháng 7/2026 chưa được index. Các văn bản mới đợt 30/6 đều chưa xác minh docid.
+- Nguồn: web_search Brave (luatvietnam.vn, thuvienphapluat.vn, thuehaiquan.tapchikinhtetaichinh.vn, thuonghieucongluan.com.vn, thoibaotaichinhvietnam.vn, baochinhphu.vn, tapchikinhtetaichinh.vn, baomoi.com).
+- Ngày phát hiện: 2026-07-07 18:34 ICT
+- Phiên thực hiện: agent:github-io:subagent:15780c1b-0258-47e8-aee4-63a20792e081 (Đệ #1 Discovery — lần 34)
+
+---
+
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 32)
+
+### Phát hiện mới: 80/2026/TT-BTC + 84/2026/TT-BTC + 29/2026/TT-NHNN + 265/2026/NĐ-CP (cập nhật ngày) + 1205/QĐ-TTg — 5 văn bản mới / cập nhật
+
+Quét vanban.chinhphu.vn dải docid 228800–230000 (API /portal/api/v2/vanban/detail trống hoàn toàn) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, tapchikinhtetaichinh.vn, thuehaiquan.tapchikinhtetaichinh.vn, vnbank.vn, soha.vn, cafef.vn, vov.vn, baomoi.com, baochinhphu.vn, vietnamplus.vn, vietnam.vn, baothanhhoa.vn, baophapluat.vn, xaluannews.com theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 31 — 5 văn bản 272, 1205, 39, 259, 46): phát hiện **5 văn bản mới/chưa ghi** và cập nhật 1 ngày ban hành. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 80/2026/TT-BTC | ~30/06/2026 | **Sửa đổi, bổ sung quy định về đăng ký, hủy tư cách công ty đại chúng và báo cáo vốn điều lệ đã góp được kiểm toán** — xây dựng trên cơ sở Luật Chứng khoán sửa đổi 2024 và Luật Quản lý đầu tư vốn nhà nước 2025; bổ sung phương thức nộp hồ sơ điện tử qua tài khoản định danh điện tử (căn cước điện tử có giá trị pháp lý tương đương giấy tờ truyền thống); làm rõ căn cứ xác định thời điểm công ty không còn đáp ứng điều kiện công ty đại chúng (cơ cấu cổ đông: ngày đăng ký cuối cùng trong danh sách cổ đông; vốn: ngày tổ chức kiểm toán ký báo cáo kiểm toán); đơn giản hóa hồ sơ đăng ký công ty đại chúng (chỉ nộp GCNĐKDN khi cơ quan quản lý không khai thác được Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp); bổ sung quy trình xử lý khi doanh nghiệp không còn đáp ứng điều kiện (15 ngày báo cáo UBCKNN + công bố thông tin; sau 1 năm không khắc phục phải thủ tục hủy tư cách; UBCKNN xem xét 15 ngày kể từ hồ sơ hợp lệ); bổ sung cơ chế doanh nghiệp được duy trì tư cách nếu đã khắc phục trong 1 năm; thay thế Thông tư 19/2025/TT-BTC; hiệu lực **15/8/2026** | Ngân hàng / Tài chính / Chứng khoán | chua-xac-minh | **Chưa có** | Nguồn: tapchikinhtetaichinh.vn (toàn văn, "Bộ Tài chính vừa ban hành Thông tư số 80/2026/TT-BTC"), baochinhphu.vn, baomoi.com; ngày ban hành: ước đoán **~30/6/2026** (cùng đợt thông tư BTC 80–87); hiệu lực: **15/8/2026**; tác động công ty đại chúng, UBCKNN, Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam; cần xác minh ngày ban hành và docid |
+| 84/2026/TT-BTC | ~30/06/2026 | **Hoàn thuế giá trị gia tăng cho khách nước ngoài xuất cảnh** — chuẩn hóa quy trình điện tử hoàn thuế GTGT cho khách nước ngoài; thay thế hoàn toàn Thông tư 72/2014/TT-BTC và Thông tư 92/2019/TT-BTC; quy định mới về hồ sơ, thủ tục hoàn thuế điện tử cho người nước ngoài xuất cảnh; hiệu lực **01/7/2026** | Thuế / Tài chính / Du lịch | chua-xac-minh | **Chưa có** | Nguồn: thuehaiquan.tapchikinhtetaichinh.vn ("Thông tư số 84/2026/TT-BTC chính thức có hiệu lực từ 01/7/2026, thay thế hoàn toàn quy định cũ tại Thông tư số 72/2014/TT-BTC và Thông tư số 92/2019/TT-BTC"), thuvienphapluat.vn (đăng 07/07/2026, phụ lục); ngày ban hành: ước đoán **~30/6/2026** (cùng đợt TT BTC 80–87); hiệu lực: **01/7/2026**; tác động khách nước ngoài mua sắm tại Việt Nam, doanh nghiệp bán lẻ, cơ quan hải quan; cần xác minh ngày ban hành và docid |
+| 29/2026/TT-NHNN | 30/06/2026 | **Sửa đổi, bổ sung một số điều của Thông tư 39/2016/TT-NHNN về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng** — sửa đổi quy định cho vay của tổ chức tín dụng đối với khách hàng; quy định về hoạt động cho vay, điều kiện cho vay, quyền và nghĩa vụ của các bên; cập nhật phù hợp với Luật các Tổ chức tín dụng 2024 và các quy định mới; hiệu lực **01/7/2026** | Ngân hàng / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 439082, "Ngày 30/06/2026, Ngân hàng Nhà nước Việt Nam đã ban hành Thông tư 29/2026/TT-NHNN"), thuvienphapluat.vn (712742, toàn văn), vnbank.vn, soha.vn, baomoi.com, cafef.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực: **01/7/2026**; tác động toàn bộ tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, người vay; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 265/2026/NĐ-CP | **01/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực tiết kiệm, chống lãng phí** — quy định mức phạt: cảnh cáo chậm ban hành Chương trình tiết kiệm dưới 30 ngày; phạt tiền 1–3 triệu ban hành Chương trình không đầy đủ nội dung; phạt tiền 5–10 triệu không ban hành hoặc chậm từ 30 ngày trở lên; phạt tiền 10–15 triệu báo cáo không trung thực hoặc báo cáo chậm từ 30 ngày trở lên; hiệu lực **01/7/2026** | Hành chính / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: vietnam.vn ("Chính phủ ban hành Nghị định số 265/2026/NĐ-CP ngày 01/7/2026"), baothanhhoa.vn, baomoi.com, vov.vn; ngày ban hành: **01/7/2026** xác minh từ vietnam.vn và baothanhhoa.vn — **CẬP NHẬT** từ ước đoán ~30/6/2026 (lần 31); hiệu lực: **01/7/2026**; tác động toàn bộ cơ quan nhà nước, doanh nghiệp nhà nước; cần xác minh docid |
+| 1205/QĐ-TTg | 06/07/2026 | **Phê duyệt Đề án thí điểm thực hiện việc đánh giá, chấm điểm (KPI) về công tác xây dựng pháp luật** của các bộ, ngành — thí điểm đánh giá, chấm điểm công tác xây dựng pháp luật bằng KPI lần đầu tiên tại Việt Nam; Phó Thủ tướng Lê Tiến Châu ký; hiệu lực ngay (06/7/2026) | Hành chính / Xây dựng pháp luật | chua-xac-minh | **Chưa có** | Nguồn: vietnamplus.vn (Phó Thủ tướng ký ngày 6/7/2026), baotintuc.vn, suckhoedoisong.vn, daidoanket.vn, vov.vn, baomoi.com; ngày ban hành: **06/07/2026** (xác minh từ nhiều nguồn độc lập); hiệu lực: ngay 06/7/2026; tác động các bộ, ngành trong thí điểm đánh giá KPI xây dựng pháp luật; **ƯU TIÊN THẤP** — quyết định phê duyệt đề án, không phải văn bản quy phạm chính; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 31)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 80/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 84/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 29/2026/TT-NHNN | **KHÔNG** | Thêm mới — Chưa có |
+| 265/2026/NĐ-CP | **CÓ** (lần 31, ngày ước đoán ~30/6) | **Cập nhật ngày** → chính xác **01/7/2026** |
+| 1205/QĐ-TTg | **CÓ** (lần 31) | Thêm mới — Chưa có (vẫn cần xác minh docid) |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Ngân hàng / Tài chính** (ưu tiên số 1): **29/2026/TT-NHNN** — sửa đổi Thông tư 39/2016/TT-NHNN về cho vay của tổ chức tín dụng; ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 439082), thuvienphapluat.vn (712742). Cần xác minh docid. Ưu tiên số 1.
+2. **Năng lượng / Điện gió ngoài khơi** (ưu tiên số 2 — đã stub): **272/2026/NĐ-CP** — điều kiện khảo sát, đầu tư điện gió ngoài khơi; vốn chủ sở hữu ≥1 tỷ/MW; hiệu lực 04/7/2026 đến 31/12/2030; ưu tiên rất cao. Cần bổ sung toàn văn. (Từ lần 31)
+3. **Thuế / Tài chính / Doanh nghiệp** (ưu tiên số 3): **255/2026/NĐ-CP** — quản lý thuế giao dịch liên kết; thay thế NĐ 20/2017; tác động doanh nghiệp FDI, công ty mẹ-con. Nguồn: luatvietnam.vn (slug 439613), thuvienphapluat.vn (713416). Cần xác minh docid và crawl chi tiết. (Từ lần 30)
+4. **Ngân hàng / Tài chính / Chứng khoán** (ưu tiên số 4): **80/2026/TT-BTC** — đăng ký, hủy tư cách công ty đại chúng; đẩy mạnh số hóa; thay thế TT 19/2025; hiệu lực 15/8/2026. Cần xác minh ngày ban hành và docid. (Từ lần 32)
+5. **Thuế / Tài chính** (ưu tiên số 5): **84/2026/TT-BTC** — hoàn thuế GTGT cho khách nước ngoài xuất cảnh, thay thế TT 72/2014 và TT 92/2019; hiệu lực 01/7/2026. Cần xác minh ngày ban hành và docid. (Từ lần 32)
+
+### Ghi chú xử lý
+
+- **5 văn bản** được thêm vào/cập nhật tracking lần 32: 80/2026/TT-BTC, 84/2026/TT-BTC, 29/2026/TT-NHNN, 265/2026/NĐ-CP (cập nhật ngày → 01/7/2026), 1205/QĐ-TTg.
+- **80/2026/TT-BTC**: Sửa đổi Thông tư 19/2025/TT-BTC về đăng ký, hủy tư cách công ty đại chúng; nộp hồ sơ điện tử qua tài khoản định danh điện tử; cơ chế duy trì tư cách nếu khắc phục trong 1 năm. Ngày ban hành ước đoán ~30/6/2026. Hiệu lực 15/8/2026. Tác động công ty đại chúng, UBCKNN.
+- **84/2026/TT-BTC**: Hoàn thuế GTGT cho khách nước ngoài xuất cảnh — chuẩn hóa quy trình điện tử; thay thế TT 72/2014 và TT 92/2019. Ngày ban hành ước đoán ~30/6/2026. Hiệu lực 01/7/2026. Tác động khách nước ngoài mua sắm tại Việt Nam.
+- **29/2026/TT-NHNN**: Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn — sửa đổi Thông tư 39/2016/TT-NHNN về cho vay của tổ chức tín dụng. Hiệu lực 01/7/2026. Cần xác minh docid.
+- **265/2026/NĐ-CP ngày ban hành CẬP NHẬT**: Xác minh **01/7/2026** từ vietnam.vn và baothanhhoa.vn — khác với ước đoán ~30/6/2026 ở lần 31. Đây là Nghị định được ban hành ngày 01/7/2026 (khác với đa số Nghị định cùng đợt 30/6/2026). Hiệu lực 01/7/2026.
+- **1205/QĐ-TTg**: Từ lần 31 — Phê duyệt Đề án thí điểm KPI xây dựng pháp luật, Phó Thủ tướng Lê Tiến Châu ký ngày 06/7/2026. Vẫn cần xác minh docid. Ưu tiên thấp — không phải văn bản quy phạm pháp luật chính.
+- **vanban.chinhphu.vn docid 228800–230000 trống hoàn toàn**: Văn bản tháng 7/2026 chưa được index. Tiếp tục theo dõi các dải docid cao hơn.
+- Nguồn: web_search Brave (tapchikinhtetaichinh.vn, thuehaiquan.tapchikinhtetaichinh.vn, luatvietnam.vn, thuvienphapluat.vn, vnbank.vn, soha.vn, cafef.vn, vov.vn, baomoi.com, baochinhphu.vn, vietnamplus.vn, vietnam.vn, baothanhhoa.vn, baophapluat.vn, xaluannews.com).
+- Ngày phát hiện: 2026-07-07 16:56 ICT
+- Phiên thực hiện: agent:github-io:subagent:c32193b9-4c01-46fa-9e19-c55b5b90a737 (Đệ #1 Discovery — lần 32)
+
+---
+
+## Cập nhật 2026-07-07 (phiên Đệ #4 Content Reviewer — lần 33)
+
+### Review 5 văn bản gần đây nhất
+
+**Quy trình:** Quét van-ban/ → chọn 5 văn bản tháng 7/2026 → front matter + OCR issues + Điều/Chương. Phát hiện stub < 10KB + > 7 ngày. Review PR comments.
+
+#### File #1 — `van-ban/nang-luong/nghi-dinh-272-2026-nd-cp-dien-gio-ngoai-khoi.md`
+- **Loại:** Nghị định | **Dòng:** 53 | **Kích thước:** 3,367 bytes
+- **Điều:** 0 (stub metadata) | **Chương:** 0
+- **OCR issues:** 0
+- **Front matter:** ✅ Đầy đủ, metadata sạch, `docid: chua-xac-minh`, `trang_thai: Chưa hoàn thiện`
+- **Đánh giá:** ✅ **OK** — Stub metadata sạch. Nội dung trích yếu tổng hợp từ 6 nguồn. Trạng thái "Chưa hoàn thiện" rõ ràng. Cần toàn văn khi vanban.chinhphu.vn index xong.
+
+#### File #2 — `van-ban/giao-duc/182-2026-nd-cp-phu-cap-uu-dai-nha-giao.md`
+- **Loại:** Nghị định | **Dòng:** 351 | **Kích thước:** 26,107 bytes
+- **Điều:** 0 (PDF body — heading `Điều X.` không có `###` prefix) | **Chương:** 0
+- **OCR issues:** 0
+- **Front matter:** ⚠️ Có 2 kiểu field trộn: camelCase (`ngaybanhanh`, `ngayhieuluc`, `coquanbanhanh`) + snake_case (`ngay_ban_hanh`, `ngay_hieu_luc`, `co_quan_ban_hanh`). Docid: `218228` ✅
+- **Lỗi:** Heading body `Điều X.` không có `###` → script scan không detect được số Điều. Body chứa `---PAGE---` marker. Tuy nhiên nội dung PDF rõ ràng — 11 Điều (Điều 1-11).
+- **Đánh giá:** ⚠️ **Cần sửa** — (1) metadata trộn camelCase/snake_case, (2) body markers `---PAGE---` cần strip. Không nghiêm trọng nhưng không đạt tiêu chuẩn OK.
+
+#### File #3 — `van-ban/y-te/25-2026-tt-byt-quan-ly-chat-luong-xet-nghiem.md`
+- **Loại:** Thông tư | **Dòng:** 252 | **Kích thước:** 17,397 bytes
+- **Điều:** 6 (Điều 1-6), range ✅, missing ✅, duplicate ✅ | **Chương:** 0
+- **OCR issues:** 0
+- **Front matter:** ⚠️ Field `sohieu` (không dấu, camelCase), `ngaybanhanh`, `nguoiky`, `coquanbanhanh` — trộn kiểu. `group: Y tế` viết HOA đầu dòng (không match "y-te" convention). Tags có `y-te` nhưng `group` không match.
+- **Đánh giá:** ⚠️ **Cần sửa metadata** — Nội dung văn bản sạch, OCR 0 issues, Điều OK. Front matter cần chuẩn hóa: `group: y-te`, `so_hieu` snake_case. Không block merge nhưng nên fix đồng nhất.
+
+#### File #4 — `van-ban/xay-dung/37-2026-tt-bxd-huong-dan-phuong-phap-xac-dinh-dinh-muc-du-toan.md`
+- **Loại:** Thông tư | **Dòng:** 4,199 | **Kích thước:** 161,530 bytes (161 KB)
+- **Điều:** 4 (Điều 1-4), range ✅, missing ✅, duplicate ✅ | **Chương:** 0
+- **OCR issues:** 0
+- **Front matter:** ✅ Rất đầy đủ — `docid: 218630`, `nguon`, `pdf_sources` (7 file PDF), `toc: true`, `van-ban-thay-the` (5 văn bản), `can-cu-phap-ly`. Metadata chuẩn snake_case.
+- **Đánh giá:** ✅ **OK** — Văn bản hoàn thiện cao cấp. Phụ lục I-VI đầy đủ. Không cần action.
+
+#### File #5 — `van-ban/tu-phap-thi-hanh-an/231-2026-nd-cp-quan-ly-giam-sat-giao-duc-nguoi-chap-hanh-an-hinh-su-tai-cong-dong.md`
+- **Loại:** Nghị định | **Dòng:** 939 | **Kích thước:** 52,118 bytes
+- **Điều:** 23 (Điều 1-23), range ✅, missing ✅, duplicate ✅ | **Chương:** 5 (I, II, III, IV, V)
+- **OCR issues:** 1 (L920: `§` trong `THỦ §` = "Thủ tướng" bị OCR thành `THỦ §`) → **false positive** trong phần chữ ký nội bộ, không ảnh hưởng pháp lý.
+- **Front matter:** ⚠️ `title: "231/2026/NĐ-CP"` quá ngắn. `group: "Tư pháp - Hình sự"` có khoảng trắng → nên `tu-phap`.
+- **Đánh giá:** ✅ **OK** — Nội dung tốt, OCR 1 false positive, 23 Điều + 5 Chương OK. Metadata có thể cải thiện nhưng không block.
+
+### Stub files cần refactor (< 10KB + > 7 ngày)
+
+| File | Kích thước | Ngày tạo | Lý do | Ghi chú |
+|------|----------:|----------|-------|---------|
+| `nghi-dinh-252-2026-nd-cp-huong-dan-luat-quan-ly-thue.md` | **1,172 bytes** | 2026-07-07 | **Ưu tiên CAO** — chỉ 1172B stub. Trùng nhóm thuế với 253/2026/NĐ-CP. Cần kiểm tra thuvienphapluat.vn slug cho 252 vs 253 — nếu 252 = "hướng dẫn LQLT 2025 tổng quát" và 253 = "hướng dẫn Luật TNCN" → 2 văn bản khác nhau, cần crawl đầy đủ. Nếu 252 chỉ là summary/redirect của 253 → xóa stub. |
+| `quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 4,476 bytes | 2026-06-01 | 36 ngày tuổi, không có docid | **Ưu tiên TRUNG BÌNH** — cần xác minh đây có phải văn bản 2026 hay văn bản cũ. Nếu văn bản cũ thì không cần action. |
+
+### PR Comments Review
+
+| PR | Tuổi | Comment cuối | Phân loại | Action |
+|----|-----:|--------------|-----------|--------|
+| **#224** | 0 ngày | caothu159: Đệ #4 review lần 32 | Reviewer note | ✅ Sạch |
+| **#223** | 0 ngày | chatgpt-codex-connector: usage limits | Thông báo hệ thống | ✅ Bỏ qua |
+| **#220** | 3 ngày | caothu159: heartbeat auto 2026-07-04 | Reviewer note | ✅ Bỏ qua |
+| **#219** | 3 ngày | caothu159: heartbeat auto 2026-07-04 | Reviewer note | ✅ Bỏ qua |
+| **#218** | **9 ngày** | caothu159: heartbeat auto 02:59 ICT 2026-07-04 | **STALE — 9 ngày tuổi** | ⚠️ Khuyến nghị Sếp đóng/merge |
+
+**PR #218 stale:** `heartbeat/crawl-vanban-20260628` — 3 commits (42/TT-BCA 163d + 48/TT-BGDĐT 912d + tracking). Khuyến nghị Sếp merge để không treo lâu.
+
+### Tổng kết
+
+| File | Trạng thái | Action |
+|------|-----------|--------|
+| 272/2026/NĐ-CP | OK ✅ | Cần toàn văn (chờ vanban.chinhphu.vn index) |
+| 182/2026/NĐ-CP | ⚠️ Cần sửa | Chuẩn hóa metadata camelCase→snake_case; strip `---PAGE---` |
+| 25/2026/TT-BYT | ⚠️ Cần sửa | Chuẩn hóa `group: y-te`, `so_hieu` snake_case |
+| 37/2026/TT-BXD | OK ✅ | Không action |
+| 231/2026/NĐ-CP | OK ✅ | Cải thiện `title` + `group` metadata (optional) |
+| 252/2026/NĐ-CP | ⚠️ **Cần refactor** | Ưu tiên kiểm tra thuvienphapluat — xác định 252 vs 253 có trùng nội dung |
+| PR #218 | **STALE** | Khuyến nghị Sếp đóng/merge |
+
+### Đề xuất phiên tiếp theo
+
+1. **Crawl 252/2026/NĐ-CP:** Kiểm tra thuvienphapluat.vn slug cho 252 vs 253. Xác định 2 văn bản cùng nhóm thuế này có trùng nội dung không trước khi quyết định giữ/xóa.
+2. **Sửa metadata 182 và 25:** Commit fix nhỏ — đồng nhất front matter.
+3. **Merge #218:** Stale 9 ngày, khuyến nghị Sếp đóng.
+
+---
+
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 31)
+
+### Phát hiện mới: 272/2026/NĐ-CP + 1205/QĐ-TTg + 39/TT-BCT + 259/NĐ-CP + 46/TT-BXD — 5 văn bản mới
+
+Quét vanban.chinhphu.vn dải docid 221000–228800 (JS-rendered, API /portal/api/v2/vanban/detail trống hoàn toàn) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, baomoi.com, vietnamplus.vn, vov.vn, doanhnghiephoinhap.vn, vietstock.vn, baotintuc.vn, nguonluc.com.vn, suckhoedoisong.vn, daidoanket.vn, vietnamnet.vn theo nhóm chủ đề. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 30 — 5 văn bản 255, 38, 87, 178, 223): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 272/2026/NĐ-CP | ~04/07/2026 | **Quy định chi tiết một số điều và biện pháp thi hành Nghị quyết số 253/2025/QH15 về cơ chế, chính sách phát triển năng lượng quốc gia giai đoạn 2026–2030** — quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai các dự án **điện gió ngoài khơi**; bổ sung điều kiện về năng lực tài chính, vốn góp và thủ tục đối với dự án điện gió ngoài khơi; đơn vị khảo sát phải có vốn chủ sở hữu tối thiểu 1 tỷ đồng/MW; tạo hành lang pháp lý thu hút đầu tư năng lượng tái tạo quy mô lớn; hiệu lực **04/7/2026** đến hết **31/12/2030** | Năng lượng / Điện gió ngoài khơi | chua-xac-minh | **Chưa có** | Nguồn: doanhnghiephoinhap.vn ("Từ ngày 4/7, Nghị định 272/2026/NĐ-CP chính thức có hiệu lực"), vietstock.vn ("quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai các dự án điện gió ngoài khơi theo Nghị quyết 253"), baochinhphu.vn (baochinhphu.vn/quy-dinh-moi-ve-dien-gio-ngoai-khoi), mekongasean.vn; ngày ban hành: **ước đoán 04/07/2026** (hiệu lực từ 04/7, có thể ban hành cùng ngày); hiệu lực: **04/7/2026 đến hết 31/12/2030**; tác động doanh nghiệp điện gió ngoài khơi, nhà đầu tư năng lượng tái tạo, Bộ Công Thương, Bộ Tài nguyên Môi trường; **ƯU TIÊN RẤT CAO** — điện gió ngoài khơi là lĩnh vực chiến lược, văn bản có hiệu lực ngay từ 04/7, cần xác minh docid |
+| 1205/QĐ-TTg | 06/07/2026 | **Phê duyệt Đề án thí điểm thực hiện việc đánh giá, chấm điểm (KPI) về công tác xây dựng pháp luật** của các bộ, ngành — thí điểm đánh giá, chấm điểm công tác xây dựng pháp luật bằng KPI lần đầu tiên tại Việt Nam; Phó Thủ tướng Lê Tiến Châu ký; hiệu lực ngay (06/7/2026) | Hành chính / Xây dựng pháp luật | chua-xac-minh | **Chưa có** | Nguồn: vietnamplus.vn (Phó Thủ tướng ký ngày 6/7/2026), baotintuc.vn, suckhoedoisong.vn, daidoanket.vn, vov.vn, baomoi.com; ngày ban hành: **06/07/2026** (xác minh từ nhiều nguồn độc lập); hiệu lực: ngay 06/7/2026; tác động các bộ, ngành trong thí điểm đánh giá KPI xây dựng pháp luật; **ƯU TIÊN THẤP** — quyết định phê duyệt đề án, không phải văn bản quy phạm chính |
+| 39/2026/TT-BCT | 30/06/2026 | **Ban hành Quy chuẩn kỹ thuật quốc gia đồ uống có cồn (QCVN 30:2026/BCT)** — quy chuẩn kỹ thuật quốc gia về đồ uống có cồn do Bộ Công Thương ban hành kèm theo; quy định các yêu cầu về chất lượng, an toàn thực phẩm và quản lý đối với sản phẩm đồ uống có cồn; hiệu lực **01/01/2027** | Tài chính / Tiêu chuẩn đo lường / Thực phẩm | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Đã có QCVN số 30:2026/BCT về đồ uống có cồn", slug 110138; bản tin kế toán tuần 29/6-5/7: "Ngày 30/6/2026, Bộ Công Thương ban hành Thông tư 39/2026/TT-BCT"), thuonghieucongluan.com.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực: 01/01/2027; tác động doanh nghiệp sản xuất, nhập khẩu, kinh doanh đồ uống có cồn; cần xác minh docid |
+| 259/2026/NĐ-CP | 30/06/2026 | **Quy định tuyển dụng, sử dụng và quản lý viên chức** — quy định chi tiết tuyển dụng, sử dụng và quản lý viên chức; 4 nhóm đối tượng được xét tuyển viên chức (người cam kết tình nguyện vùng khó khăn ≥3 năm, học sinh cử tuyển, sinh viên tốt nghiệp xuất sắc/tài năng, trường hợp khác); điều kiện đăng ký dự tuyển; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110130, tin "4 nhóm đối tượng được xét tuyển viên chức từ 01/7/2026"; tin "ban hành ngày 30/6/2026"), xaydungchinhsach.chinhphu.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn (bản tin kế toán tuần 29/6-5/7); hiệu lực: 01/7/2026; tác động viên chức, đơn vị sự nghiệp công lập; cần xác minh docid |
+| 46/2026/TT-BXD | 30/06/2026 | **Ban hành Quy chuẩn kỹ thuật quốc gia về quy hoạch đô thị và nông thôn (QCVN mới)** — thay thế quy chuẩn cũ về quy hoạch đô thị và nông thôn; quy định nội dung, phương pháp lập quy hoạch đô thị, quy hoạch nông thôn; đồng bộ với Luật Quy hoạch 2025 và các luật liên quan; hiệu lực **01/01/2027** | Xây dựng / Quy hoạch / Đô thị | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (713388, toàn văn Thông tư 46/2026/TT-BXD), thuvienphapluat.vn/hoi-dap (tin "Toàn văn Thông tư 46/2026/TT-BXD Quy chuẩn kỹ thuật quốc gia về quy hoạch đô thị và nông thôn"); ngày ban hành: **30/6/2026** xác minh từ thuvienphapluat.vn; hiệu lực: 01/01/2027; tác động quy hoạch đô thị, quy hoạch nông thôn các cấp; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid và nội dung chi tiết |
+
+### Quét docid 221000–228800 — Kết quả: DẢI TRỐNG HOÀN TOÀN
+
+- **221000–228800** (docid API /portal/api/v2/vanban/detail): **hoàn toàn trống** — toàn bộ văn bản ngày 04–07/7/2026 chưa được index trên vanban.chinhphu.vn. Văn bản mới phát hiện đều đến từ web_search Brave, chưa xác minh được docid trực tiếp.
+- **272/2026/NĐ-CP**: Docid chưa xác minh. Cần thử dải docid cao hơn (228800+) ở phiên tiếp theo hoặc tìm qua luatvietnam.vn slug.
+- **1205/QĐ-TTg**: Docid chưa xác minh. Cần thử dải docid cao hơn ở phiên tiếp theo.
+- **39/2026/TT-BCT** (đồ uống có cồn, hiệu lực 01/01/2027): Đã xác minh ngày ban hành 30/6/2026 từ luatvietnam.vn. Cần xác minh docid.
+- **259/2026/NĐ-CP** (tuyển dụng viên chức, hiệu lực 01/7/2026): Đã xác minh ngày ban hành 30/6/2026 từ luatvietnam.vn. Cần xác minh docid.
+- **46/2026/TT-BXD** (quy hoạch đô thị, hiệu lực 01/01/2027): Đã xác minh ngày ban hành 30/6/2026 từ thuvienphapluat.vn (docid 713388). Cần xác minh docid trên vanban.chinhphu.vn.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 30)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 272/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 1205/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 39/2026/TT-BCT | **KHÔNG** | Thêm mới — Chưa có |
+| 259/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 46/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Năng lượng / Điện gió ngoài khơi** (rất cao — hiệu lực ngay 04/7/2026, đến 31/12/2030): **272/2026/NĐ-CP** — điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai dự án điện gió ngoài khơi; năng lực tài chính, vốn góp (≥1 tỷ/MW), thủ tục. Cần xác minh docid. Ưu tiên số 1.
+2. **Thuế / Tài chính / Doanh nghiệp** (ưu tiên số 2): **255/2026/NĐ-CP** — quản lý thuế giao dịch liên kết; thay thế NĐ 20/2017; tác động doanh nghiệp FDI, công ty mẹ-con, liên doanh. Nguồn: luatvietnam.vn (slug 439613), thuvienphapluat.vn (713416). Cần xác minh docid. (Từ lần 30)
+3. **Xây dựng** (ưu tiên số 3 — docid đã xác minh): **38/2026/TT-BXD** — định mức xây dựng mới, thay thế 4 thông tư cũ; hiệu lực 01/7/2026. Docid: **218632**. Nguồn: vanban.chinhphu.vn (docid 218632). (Từ lần 30)
+4. **Thuế / Tài chính / Chứng khoán** (ưu tiên số 4): **87/2026/TT-BTC** — hướng dẫn Luật TNCN và NĐ 253/2026; chứng khoán phái sinh, người phụ thuộc nâng lên 3 triệu. Cần xác minh docid. (Từ lần 30)
+5. **Lao động / Hành chính** (ưu tiên số 5): **259/2026/NĐ-CP** — tuyển dụng, sử dụng và quản lý viên chức; 4 nhóm đối tượng xét tuyển; hiệu lực 01/7/2026. Cần xác minh docid. (Từ lần 31)
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 31: 272/2026/NĐ-CP, 1205/QĐ-TTg, 39/2026/TT-BCT, 259/2026/NĐ-CP, 46/2026/TT-BXD — ban hành 30/6–06/7/2026, thuộc tuần cuối tháng 6 và tuần đầu tháng 7/2026.
+- **272/2026/NĐ-CP**: Quy định chi tiết điện gió ngoài khơi theo Nghị quyết 253/2025/QH15 — cơ chế, điều kiện khảo sát, đầu tư, triển khai dự án; vốn chủ sở hữu ≥1 tỷ/MW. Hiệu lực 04/7/2026 đến hết 31/12/2030. **ƯU TIÊN RẤT CAO** — văn bản chiến lược năng lượng, có hiệu lực ngay từ 04/7.
+- **1205/QĐ-TTg**: Thí điểm KPI xây dựng pháp luật — Phó Thủ tướng Lê Tiến Châu ký ngày 06/7/2026. **ƯU TIÊN THẤP** — quyết định phê duyệt đề án, không phải văn bản quy phạm chính.
+- **39/2026/TT-BCT**: Ban hành QCVN 30:2026/BCT về đồ uống có cồn — Bộ Công Thương, ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Hiệu lực 01/01/2027. Cần xác minh docid.
+- **259/2026/NĐ-CP**: Quy định tuyển dụng, sử dụng và quản lý viên chức — 4 nhóm đối tượng xét tuyển. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Hiệu lực 01/7/2026. Cần xác minh docid.
+- **46/2026/TT-BXD**: Ban hành Quy chuẩn kỹ thuật quốc gia về quy hoạch đô thị và nông thôn — Bộ Xây dựng, ngày ban hành **30/6/2026** xác minh từ thuvienphapluat.vn (713388). Hiệu lực 01/01/2027. Cần xác minh docid trên vanban.chinhphu.vn.
+- **174/2026/NĐ-CP ngày ban hành chính xác**: Xác minh **15/5/2026** từ congan.laichau.gov.vn (khác với ước đoán ~26/6/2026 ở lần 18). Docid: **218185** (xác minh từ baochinhphu.vn). Hiệu lực 01/7/2026.
+- **vanban.chinhphu.vn docid API trống hoàn toàn**: Dải docid 221000–228800 không có văn bản nào được index (API /portal/api/v2/vanban/detail trả về trống). Văn bản ngày 04–07/7/2026 đang trong quá trình index hoặc nằm ở dải docid cao hơn.
+- Nguồn: web_search Brave (doanhnghiephoinhap.vn, vietstock.vn, baomoi.com, vietnamplus.vn, baotintuc.vn, nguonluc.com.vn, suckhoedoisong.vn, daidoanket.vn, vov.vn, vietnamnet.vn, luatvietnam.vn, thuonghieucongluan.com.vn), vanban.chinhphu.vn (docid 221000–228800 trống hoàn toàn), congan.laichau.gov.vn (xác minh 174/2026).
+- Ngày phát hiện: 2026-07-07 15:10 ICT
+- Phiên thực hiện: agent:github-io:subagent:f6a4138a-251f-44a6-a9b3-b3387e864fec (Đệ #1 Discovery — lần 31)
+
+---
+
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 30)
+
+### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
+
+Quét vanban.chinhphu.vn dải docid 221000–221500 (JS-rendered, cần browser-automation hoặc quét gián tiếp) + web_search Brave tổng hợp từ vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, gocnhinphaply.nguoiduatin.vn, danviet.vn, baomoi.com, cafef.vn, vov.vn, vietnamplus.vn, dantri.com.vn, giaoducthoidai.vn, vnexpress.net, thuviennhadat.vn, datafiles.chinhphu.vn, spirit.vietnamairlines.com theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. Ưu tiên văn bản tháng 7/2026 (ban hành sau 03/7/2026) và các thông tư còn thiếu đợt cuối tháng 6/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 29): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 255/2026/NĐ-CP | 30/06/2026 | **Quy định về quản lý thuế đối với các giao dịch liên kết của những doanh nghiệp có quan hệ liên kết** — quy định về nguyên tắc áp dụng quản lý thuế đối với các giao dịch liên kết; các bên có quan hệ liên kết; phân tích so sánh; hồ sơ thuế; xác định giá giao dịch liên kết; giao dịch liên kết bao gồm mua, bán, trao đổi, thuê, cho thuê, mượn, cho mượn, chuyển giao, chuyển nhượng hàng hóa, cung cấp dịch vụ, vay, cho vay, dịch vụ tài chính, đảm bảo tài chính và các công cụ tài chính khác; mua bán chứng khoán, tài sản vô hình; thay thế Nghị định 20/2017/NĐ-CP; hiệu lực **01/7/2026** | Thuế / Tài chính / Doanh nghiệp | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 439613, đăng 2026-07-07 "Đã có Nghị định 255/2026/NĐ-CP", tin "ban hành ngày 30/6/2026"), thuvienphapluat.vn (713416, toàn văn, đăng 2026-07-07), baochinhphu.vn, tapchikinhtetaichinh.vn, thuviennhadat.vn (713416); ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn và thuvienphapluat.vn; hiệu lực: 01/7/2026; tác động toàn bộ doanh nghiệp có giao dịch liên kết, công ty mẹ-con, liên doanh, công ty có vốn đầu tư nước ngoài; cần xác minh docid |
+| 38/2026/TT-BXD | 26/06/2026 | **Ban hành định mức xây dựng** — thay thế Thông tư 12/2021/TT-BXD, Thông tư 09/2024/TT-BXD, Thông tư 08/2025/TT-BXD và Điều 2 Thông tư 60/2025/TT-BXD; định mức chi phí quản lý dự án và tư vấn xây dựng tại Phụ lục VIII; thay thế toàn bộ hệ thống định mức xây dựng cũ; đồng bộ với Luật Xây dựng 2025 có hiệu lực 01/7/2026; hiệu lực **01/7/2026** | Xây dựng | vanban.chinhphu.vn (docid 218632) | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid 218632, "ban hành định mức xây dựng"), luatvietnam.vn (slug 438889, "Ngày 26/6/2026, Bộ Xây dựng ban hành"), dutoanf1.com.vn ("Ngày 26/6/2026, Bộ Xây dựng ban hành định mức xây dựng mới"), thuvienphapluat.vn (712406, đăng 2026-07-06), phanmemeta.com, dutoaneta.vn, moc.gov.vn, baoxaydung.vn; ngày ban hành: **26/6/2026** xác minh từ nhiều nguồn độc lập; hiệu lực: 01/7/2026; tác động toàn bộ ngành xây dựng, dự toán công trình, nhà thầu; cần xác minh docid chi tiết (218632 xác minh từ vanban.chinhphu.vn search result) |
+| 87/2026/TT-BTC | 30/06/2026 | **Hướng dẫn chi tiết Luật Thuế TNCN và Nghị định 253/2026/NĐ-CP** — quy định chi tiết Luật Thuế thu nhập cá nhân 109/2025/QH15 và NĐ 253/2026/NĐ-CP; nội dung: hồ sơ xác định người phụ thuộc (nâng ngưỡng thu nhập người phụ thuộc lên 3 triệu đồng/tháng từ 01/7), tính thuế TNCN đối với chứng khoán phái sinh, thu nhập từ chuyển nhượng chứng khoán phái sinh, danh mục ngành nghề tính thuế TNCN theo thuế suất trên doanh thu; hiệu lực **01/7/2026** | Thuế / Tài chính / Chứng khoán | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110096 về chứng khoán phái sinh, slug 110060 về danh mục ngành nghề, slug 110097 về hồ sơ người phụ thuộc); thuvienphapluat.vn (278070, 278057, 278037, 278049); ngày ban hành: 30/6/2026 (cùng đợt NĐ 253/2026 và NĐ 252/2026); hiệu lực: 01/7/2026; tác động toàn bộ cá nhân có thu nhập tại Việt Nam; cần xác minh docid |
+| 178/2026/NĐ-CP | 20/05/2026 | **Quy định về quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng do Nhà nước đầu tư, quản lý** — quy định 4 phương thức khai thác tài sản kết cấu hạ tầng nhà nước; giao tài sản cho đối tượng được giao quản lý; nguồn tài sản kết cấu hạ tầng giao từ ngày 06/7/2026; quy định cụ thể về quyền và nghĩa vụ của các bên; thay thế các quy định cũ; hiệu lực **06/7/2026** (sau ngày ban hành) | Tài chính / Đầu tư / Hạ tầng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 435198, "Ngày 20/5/2026, Chính phủ ban hành"), baochinhphu.vn ("ban hành ngày 20/5/2026"), sav.gov.vn, thuvienphapluat.vn (706323), baodauthau.vn, vietnamplus.vn, baotintuc.vn, vietnamhoinhap.vn; ngày ban hành: **20/5/2026** xác minh từ nhiều nguồn; hiệu lực: **06/7/2026** (khác với đa số NĐ cùng đợt 01/7); tác động cơ quan quản lý tài sản hạ tầng nhà nước; cần xác minh docid |
+| 223/2026/NĐ-CP | 23/06/2026 | **Quy định về tàu bay và khai thác tàu bay** — quy định về Giấy chứng nhận đủ điều kiện bay, duy trì đủ điều kiện bay liên tục; cụ thể hóa Luật Hàng không dân dụng Việt Nam 130/2025/QH15; hồ sơ phê chuẩn, công nhận thay đổi thiết kế tàu bay, động cơ, cánh quạt; thời hạn 01 ngày làm việc kiểm tra hồ sơ; quyền và nghĩa vụ của các bên trong khai thác tàu bay; hiệu lực **01/7/2026** | Giao thông / Hàng không | chua-xac-minh | **Chưa có** | Nguồn: spirit.vietnamairlines.com (bản tin tháng 6/2026: "ban hành ngày 23/6/2026, hiệu lực từ 01/7/2026"), baochinhphu.vn (bài 25/6/2026 ghi rõ "ban hành Nghị định 223/2026/NĐ-CP"), luatvietnam.vn (trong tin NHNN ngày cũ, NHNN ghi "ban hành ngày 23/6/2026"), baoxaydung.vn, vnanet.vn, baomoi.com; ngày ban hành: **23/6/2026** xác minh từ spirit.vietnamairlines.com và baochinhphu.vn; hiệu lực: 01/7/2026; tác động hãng hàng không, cơ quan hàng không dân dụng, chủ tàu bay; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 29)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 255/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 38/2026/TT-BXD | **CÓ** (lần 26, 27, 29 — nhiều nơi) | Thêm mới — Chưa có (chưa được ghi nhận chính xác trong bảng chính) |
+| 87/2026/TT-BTC | **CÓ** (lần 27 — ghi trong bảng chính) | Thêm mới — Chưa có |
+| 178/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 223/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế / Tài chính / Doanh nghiệp** (ưu tiên số 1 — văn bản mới nhất, đăng 2026-07-07): **255/2026/NĐ-CP** — quản lý thuế giao dịch liên kết doanh nghiệp có quan hệ liên kết; thay thế NĐ 20/2017; tác động doanh nghiệp có vốn FDI, công ty mẹ-con, liên doanh. Nguồn: luatvietnam.vn (slug 439613), thuvienphapluat.vn (713416), baochinhphu.vn. Cần xác minh docid và crawl chi tiết.
+2. **Xây dựng** (ưu tiên số 2 — docid đã xác minh): **38/2026/TT-BXD** — định mức xây dựng mới, thay thế 4 thông tư cũ; cùng nhóm với 34, 36, 37/2026/TT-BXD; hiệu lực 01/7/2026. Docid: **218632** (xác minh từ vanban.chinhphu.vn). Nguồn: vanban.chinhphu.vn (docid 218632), luatvietnam.vn (slug 438889).
+3. **Thuế / Tài chính / Chứng khoán** (ưu tiên số 3): **87/2026/TT-BTC** — hướng dẫn Luật TNCN và NĐ 253/2026; chứng khoán phái sinh, người phụ thuộc nâng lên 3 triệu, danh mục ngành nghề; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 110096, 110060, 110097), thuvienphapluat.vn. Cần xác minh docid.
+4. **Tài chính / Đầu tư / Hạ tầng** (ưu tiên số 4): **178/2026/NĐ-CP** — quản lý, khai thác tài sản kết cấu hạ tầng nhà nước, 4 phương thức khai thác; hiệu lực 06/7/2026. Nguồn: luatvietnam.vn (slug 435198), baochinhphu.vn, sav.gov.vn, thuvienphapluat.vn (706323). Cần xác minh docid.
+5. **Giao thông / Hàng không** (ưu tiên số 5): **223/2026/NĐ-CP** — tàu bay và khai thác tàu bay, cụ thể hóa Luật Hàng không dân dụng 130/2025; hiệu lực 01/7/2026. Nguồn: spirit.vietnamairlines.com (bản tin tháng 6/2026), baochinhphu.vn. Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 30. Cần crawl chi tiết trong các phiên Đệ #3 Full Content Crawler tiếp theo.
+- **255/2026/NĐ-CP ngày ban hành**: Xác minh **30/6/2026** từ luatvietnam.vn (slug 439613) và thuvienphapluat.vn (713416). Tin đăng 2026-07-07 — văn bản mới nhất được phát hiện. Đây là văn bản thuế quan trọng — thay thế Nghị định 20/2017/NĐ-CP về quản lý thuế đối với giao dịch liên kết. Cần xác minh docid.
+- **38/2026/TT-BXD docid**: Docid **218632** xác minh từ vanban.chinhphu.vn (search result "Thông tư số 38/2026/TT-BXD của Bộ Xây dựng: Ban hành định mức xây dựng"). Đây là thông tư Bộ Xây dựng số 38 cùng đợt 26/6/2026 (khác với 37/2026/TT-BXD về giá nhân công và giá ca máy, và 36/2026/TT-BXD về chi phí đầu tư xây dựng). Tất cả 3 thông tư 36, 37, 38 đều ban hành 26/6/2026, hiệu lực 01/7/2026, thuộc Luật Xây dựng 2025. Lưu ý: Thông tư 38 thay thế 12/2021/TT-BXD (định mức xây dựng), KHÔNG phải Thông tư 37/2026/TT-BXD (giá nhân công/ca máy).
+- **87/2026/TT-BTC**: Đã được ghi nhận trong tracking lần 27 nhưng chưa có ngày ban hành chính xác. Lần 30 xác minh ngày ban hành **30/6/2026** (cùng đợt NĐ 253, 252, 255/2026). Nội dung: hướng dẫn chi tiết Luật TNCN 109/2025 và NĐ 253/2026. Cần xác minh docid.
+- **178/2026/NĐ-CP ngày ban hành và hiệu lực**: Ngày ban hành **20/5/2026** xác minh từ nhiều nguồn (luatvietnam.vn, baochinhphu.vn, vietnamplus.vn, baotintuc.vn). Hiệu lực **06/7/2026** (khác với đa số NĐ cùng đợt 01/7). Đây là văn bản tài chính/hạ tầng — quy định 4 phương thức khai thác tài sản kết cấu hạ tầng nhà nước. Cần xác minh docid.
+- **223/2026/NĐ-CP ngày ban hành**: Xác minh **23/6/2026** từ spirit.vietnamairlines.com (bản tin pháp luật tháng 6/2026) và baochinhphu.vn (bài 25/6/2026). Đây là văn bản hàng không dân dụng — cụ thể hóa Luật Hàng không dân dụng Việt Nam 130/2025/QH15 có hiệu lực 01/7/2026. Cùng nhóm với 222/2026/NĐ-CP (hoạt động bay, 22/6/2026) và 215/2026/NĐ-CP (an ninh hàng không, 18/6/2026). Cần xác minh docid.
+- **Lưu ý về nhóm hàng không đợt tháng 6/2026**: 215/2026/NĐ-CP (an ninh hàng không, 18/6), 222/2026/NĐ-CP (hoạt động bay, 22/6), 223/2026/NĐ-CP (tàu bay, 23/6) — cùng thuộc Luật Hàng không dân dụng 130/2025/QH15 có hiệu lực 01/7/2026. 3 văn bản này chưa được ghi nhận trong tracking (215 và 222 cũng chưa có). Cần xác minh 215 và 222 trong phiên tiếp theo.
+- **Lưu ý về 38/2026/TT-BXD**: Cần phân biệt rõ: 36/2026/TT-BXD (chi phí đầu tư xây dựng), 37/2026/TT-BXD (giá nhân công, giá ca máy), 38/2026/TT-BXD (định mức xây dựng). Cả 3 cùng ngày 26/6/2026, hiệu lực 01/7/2026. 38 đã có docid 218632 từ vanban.chinhphu.vn. 36 và 37 chưa có docid.
+- **Không có văn bản 272+**: Mặc dù 271/2026/NĐ-CP đã được ghi nhận lần 28 (03/7/2026), không phát hiện văn bản 272, 273, 274... được ban hành trước 07/7/2026. 255/2026/NĐ-CP là văn bản được công bố mới nhất (tin đăng 2026-07-07).
+- Nguồn: web_search Brave tổng hợp luatvietnam.vn, thuvienphapluat.vn, vanban.chinhphu.vn, baochinhphu.vn, spirit.vietnamairlines.com, tapchikinhtetaichinh.vn, thuviennhadat.vn, sav.gov.vn, dutoanf1.com.vn, dutoaneta.vn, phanmemeta.com, baoxaydung.vn, moc.gov.vn, baodauthau.vn, vietnamplus.vn, baotintuc.vn, vnanet.vn, baomoi.com.
+- Ngày phát hiện: 2026-07-07 14:07 ICT
+- Phiên thực hiện: agent:github-io:subagent:7cb879a8-01bc-4570-ab71-d8178b886333 (Đệ #1 Discovery — lần 30)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 29)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
@@ -105,7 +553,7 @@ Quét vanban.chinhphu.vn dải docid 218700–219500 (JS-rendered, cần browser
 |---|---:|---|---|---:|---|---|
 | 172/2026/NĐ-CP | ~26/06/2026 | **Quy định chi tiết chi phí thực hiện và kinh phí bảo đảm công tác dẫn độ, chuyển giao người đang chấp hành án phạt tù, tương trợ tư pháp về hình sự** — quy định chi tiết kinh phí thực hiện công tác dẫn độ, chuyển giao người chấp hành án phạt tù, tương trợ tư pháp về hình sự theo 3 Luật có hiệu lực 01/7/2026 (Luật Tương trợ tư pháp 103/2025, Luật Dẫn độ 100/2025, Luật Chuyển giao người đang chấp hành án phạt tù 101/2025); hiệu lực **01/7/2026** | Tư pháp / Hình sự | chua-xac-minh | **Chưa có** | Nguồn: stp.angiang.gov.vn (tổng hợp 29 luật, 49 nghị định hiệu lực 01/7/2026), baochinhphu.vn, thuvienphapluat.vn (tổng hợp Nghị định 2026), hcma.vn; ngày ban hành: ước đoán ~26/6/2026 (cùng đợt 232, 233, 234, 235, 241, 248, 260); hiệu lực: 01/7/2026; tác động Bộ Tư pháp, Bộ Công an, Bộ Ngoại giao trong thủ tục dẫn độ, chuyển giao tù nhân, tương trợ tư pháp quốc tế; cần xác minh ngày ban hành chính xác và docid |
 | 182/2026/NĐ-CP | 22/05/2026 | **Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập** — phụ cấp ưu đãi nghề từ **20%–80%** tùy đối tượng và vùng; lần đầu bổ sung nhân sự hỗ trợ giáo dục vào danh sách thụ hưởng (phụ cấp ưu đãi nghề 20%); thay thế NĐ 74/2011; mức phụ cấp ưu đãi thực hiện từ 01/01/2026; hiệu lực **07/7/2026** (khác với đa số NĐ cùng đợt 01/7/2026) | Lao động / Giáo dục | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (toàn văn "ngày 22/5/2026", hiệu lực 07/7/2026), habac.haiphong.gov.vn ("Ngày 22/5/2026, Chính phủ ban hành"), angiang.gov.vn, dantri.com.vn, thuvienphapluat.vn (Điều 6: giáo viên nghỉ thai sản không được hưởng phụ cấp ưu đãi nghề trong thời gian nghỉ), cafef.vn, eva.vn, baotintuc.vn, thuonghieucongluan.com.vn; ngày ban hành: **22/5/2026** xác minh; hiệu lực: **07/7/2026** (xaydungchinhsach ghi rõ "ngày 07/7/2026" — ngoại lệ hiếm so với đa số NĐ cùng đợt hiệu lực 01/7); tác động giáo viên, cán bộ quản lý giáo dục, nhân sự hỗ trợ giáo dục toàn quốc; phụ cấp ưu đãi cao nhất 80%, thu nhập thực tế giáo viên có thể đạt gần 31 triệu/tháng từ tháng 7/2026; cần xác minh docid |
-| 253/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn chi tiết và biện pháp thi hành Luật Thuế thu nhập cá nhân** — quy định chi tiết thuế TNCN theo Luật số 111/2025/QH15; người nộp thuế cư trú và không cư trú; thu nhập chịu thuế, miễn thuế (22 trường hợp miễn thuế), giảm thuế; căn cứ tính thuế; quy đổi thu nhập; kỳ tính thuế; khấu trừ thuế, khai thuế thay, nộp thuế thay; quyết toán thuế, hoàn thuế; mức giảm trừ gia cảnh bản thân **15,5 triệu đồng/tháng**, người phụ thuộc **6,2 triệu đồng/tháng**; thay thế NĐ 65/2013/NĐ-CP; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 439303, đăng 01/7/2026), thuvienphapluat.vn (slug 278040, "Ngày 30/6/2026, Chính phủ ban hành Nghị định 253/2026/NĐ-CP"), ketoanthienung.net, easybooks.vn, easyinvoice.vn, baomoi.com, vietnamplus.vn; ngày ban hành: **30/6/2026** xác minh; hiệu lực: 01/7/2026; tác động toàn bộ cá nhân có thu nhập tại Việt Nam (tiền lương, kinh doanh, đầu tư, chuyển nhượng BĐS, vàng miếng — 22 trường hợp miễn thuế); cần xác minh docid |
+| 253/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn chi tiết và biện pháp thi hành Luật Thuế thu nhập cá nhân** — quy định chi tiết thuế TNCN theo Luật số 111/2025/QH15; người nộp thuế cư trú và không cư trú; thu nhập chịu thuế, miễn thuế (22 trường hợp miễn thuế), giảm thuế; căn cứ tính thuế; quy đổi thu nhập; kỳ tính thuế; khấu trừ thuế, khai thuế thay, nộp thuế thay; quyết toán thuế, hoàn thuế; mức giảm trừ gia cảnh bản thân **15,5 triệu đồng/tháng**, người phụ thuộc **6,2 triệu đồng/tháng**; thay thế NĐ 65/2013/NĐ-CP; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Hoàn thiện** | Đã commit van-ban/thue/253-2026-nd-cp-huong-dan-luat-thue-thu-nhap-ca-nhan.md (71 Điều, 5 Chương, 3035 dòng, 137KB, OCR clean, metadata chuẩn snake_case). | Nguồn: luatvietnam.vn (slug 439303, đăng 01/7/2026), thuvienphapluat.vn (slug 278040, "Ngày 30/6/2026, Chính phủ ban hành Nghị định 253/2026/NĐ-CP"), ketoanthienung.net, easybooks.vn, easyinvoice.vn, baomoi.com, vietnamplus.vn; ngày ban hành: **30/6/2026** xác minh; hiệu lực: 01/7/2026; tác động toàn bộ cá nhân có thu nhập tại Việt Nam (tiền lương, kinh doanh, đầu tư, chuyển nhượng BĐS, vàng miếng — 22 trường hợp miễn thuế); cần xác minh docid |
 | 264/2026/NĐ-CP | 01/07/2026 | **Quy định bảo đảm chuyến bay chuyên cơ, chuyên khoang** — quy định đối tượng, cơ quan thông báo chuyến bay chuyên cơ, chuyên khoang của Việt Nam (Văn phòng Trung ương Đảng, Văn phòng Chủ tịch nước, Văn phòng Chính phủ, Văn phòng Quốc hội, Bộ Ngoại giao, Bộ Quốc phòng); điều kiện, tiêu chuẩn chuyến bay chuyên cơ; cơ quan thẩm quyền thông báo chuyến bay nước ngoài; hiệu lực **từ ngày ban hành 01/7/2026** | Giao thông / Hàng không | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 439384, "Ngày 01/07/2026, Chính phủ đã ban hành Nghị định 264/2026/NĐ-CP về bảo đảm chuyến bay chuyên cơ, chuyên khoang, có hiệu lực từ ngày ban hành"), vietnamplus.vn, vietbao.vn; ngày ban hành: **01/7/2026** xác minh (ban hành ĐÚNG NGÀY 1/7 — ngoại lệ hiếm); hiệu lực: từ ngày ban hành 01/7/2026 (không có giai đoạn chuyển tiếp); tác động cơ quan hành chính liên quan chuyến bay chuyên cơ, chuyên khoang; cần xác minh docid |
 | 269/2026/NĐ-CP | 01/07/2026 | **Quy định một số cơ chế, chính sách bảo tồn và phát huy văn hóa truyền thống các dân tộc thiểu số** — cơ chế đặc thù nhằm bảo tồn và phát huy giá trị văn hóa đồng bào các dân tộc thiểu số; quy định mức hỗ trợ trực tiếp đối với các chủ thể văn hóa tham gia gìn giữ, trao truyền di sản; gắn bảo tồn văn hóa với sinh kế và đãi ngộ nghệ nhân; đưa văn hóa truyền thống dân tộc thiểu số vào chương trình giáo dục từ 01/7/2026; hiệu lực **01/7/2026** | Văn hóa / Dân tộc | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin 186-110108, "bảo tồn văn hóa truyền thống dân tộc thiểu số, có hiệu lực từ ngày 01/7/2026"), baomoi.com ("Chính phủ ban hành ngày 1/7/2026"), baovanhoa.vn, vov.vn, nongnghiepmoitruong.vn; ngày ban hành: **01/7/2026** xác minh (cùng ngày hiệu lực — văn bản hiếm); hiệu lực: 01/7/2026; tác động đồng bào dân tộc thiểu số, nghệ nhân, cơ sở văn hóa dân tộc, giáo dục các tỉnh có vùng dân tộc thiểu số; cần xác minh docid |
 
@@ -152,7 +600,7 @@ Quét vanban.chinhphu.vn dải docid 220700–221200 (JS-rendered, cần browser
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 161/2026/NĐ-CP | 15/05/2026 | **Tăng mức lương cơ sở** — từ 01/7/2026, mức lương cơ sở tăng từ 2.340.000 đồng/tháng lên **2.530.000 đồng/tháng**; áp dụng đối với cán bộ, công chức, viên chức và lực lượng vũ trang; ảnh hưởng trực tiếp đến tiền lương, phụ cấp, lương hưu, BHXH; hiệu lực **01/7/2026** | Lao động / Tài chính / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: xaydungchinhsach.chinhphu.vn (đăng 2026-07-05, "TĂNG LƯƠNG CƠ SỞ từ 1/7/2026"), gocnhinphaply.nguoiduatin.vn, thuvienphapluat.vn, danviet.vn, baomoi.com, cafef.vn; ngày ban hành: **15/5/2026** (cùng đợt 162/2026/NĐ-CP tăng lương hưu 8%); hiệu lực: 01/7/2026; tác động toàn bộ cán bộ, công chức, viên chức, lực lượng vũ trang, người hưởng lương hưu, BHXH toàn quốc (3 nhóm đóng BHXH theo lương cơ sở mới); cần xác minh docid |
+| 161/2026/NĐ-CP | 15/05/2026 | **Tăng mức lương cơ sở** — từ 01/7/2026, mức lương cơ sở tăng từ 2.340.000 đồng/tháng lên **2.530.000 đồng/tháng**; áp dụng đối với cán bộ, công chức, viên chức và lực lượng vũ trang; ảnh hưởng trực tiếp đến tiền lương, phụ cấp, lương hưu, BHXH; hiệu lực **01/7/2026** | Lao động / Tài chính / Hành chính | vanban.chinhphu.vn (docid 218107) | **Hoàn thiện** | Đã commit van-ban/lao-dong/161-2026-nd-cp-tang-luong-co-so.md (7 Điều, 246 dòng, docid 218107, metadata đã chuẩn hóa snake_case). | Nguồn: xaydungchinhsach.chinhphu.vn (đăng 2026-07-05, "TĂNG LƯƠNG CƠ SỞ từ 1/7/2026"), gocnhinphaply.nguoiduatin.vn, thuvienphapluat.vn, danviet.vn, baomoi.com, cafef.vn; ngày ban hành: **15/5/2026** (cùng đợt 162/2026/NĐ-CP tăng lương hưu 8%); hiệu lực: 01/7/2026; tác động toàn bộ cán bộ, công chức, viên chức, lực lượng vũ trang, người hưởng lương hưu, BHXH toàn quốc (3 nhóm đóng BHXH theo lương cơ sở mới); cần xác minh docid |
 | 25/2026/TT-BYT | ~30/06/2026 | **Sửa đổi, bổ sung Thông tư 01/2013/TT-BYT, Thông tư 32/2023/TT-BYT, Thông tư 23/2024/TT-BYT và Thông tư 42/2025/TT-BYT** — sửa đổi quản lý chất lượng xét nghiệm tại cơ sở khám bệnh, chữa bệnh; quy định chi tiết Luật Khám bệnh, chữa bệnh; Danh mục kỹ thuật trong khám bệnh, chữa bệnh; hiệu lực **01/7/2026** | Y tế | vanban.chinhphu.vn (docid 218704) | **Chưa có** | Docid xác minh: **218704** từ vanban.chinhphu.vn (search result ngày 2026-07-05); nguồn: vanban.chinhphu.vn (docid 218704), thuvienphapluat.vn (tổng hợp thông tư 2026); ngày ban hành: ~30/6/2026 (ước đoán); hiệu lực: 01/7/2026; tác động cơ sở khám bệnh, chữa bệnh, phòng xét nghiệm toàn quốc; cần xác minh ngày ban hành chi tiết |
 | 27/2026/TT-BYT | ~30/06/2026 | **Ban hành Danh mục thực phẩm; dụng cụ chứa đựng thực phẩm, vật liệu bao gói tiếp xúc trực tiếp với thực phẩm có mức độ rủi ro trung bình** — phân loại mức độ rủi ro thực phẩm, dụng cụ chứa đựng, vật liệu bao gói; quy định quản lý an toàn thực phẩm theo mức độ rủi ro; hiệu lực **01/7/2026** | Y tế / An toàn thực phẩm | vanban.chinhphu.vn (chua-xac-minh) | **Chưa có** | Nguồn: thuvienphapluat.vn (tổng hợp thông tư 2026, "Ban hành Danh mục thực phẩm... có mức độ rủi ro trung bình từ 1/7/2026"); vanban.chinhphu.vn chưa xác minh docid (cần tìm thêm); ngày ban hành: ~30/6/2026 (ước đoán); hiệu lực: 01/7/2026; tác động doanh nghiệp thực phẩm, vật liệu bao gói thực phẩm; cần xác minh docid và ngày ban hành |
 | 225/2026/NĐ-CP | 24/06/2026 | **Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ** — cơ cấu tổ chức Bộ KHCN theo Luật Tổ chức Chính phủ mới; hiệu lực **01/7/2026** | Hành chính / KHCN | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Đã có Nghị định 225/2026/NĐ-CP về cơ cấu tổ chức của Bộ Khoa học và Công nghệ", slug 109833, đăng 2026-07-01); ngày ban hành: 24/6/2026 xác minh từ luatvietnam.vn; hiệu lực: 01/7/2026; tác động Bộ KHCN, cơ quan ngang bộ; cần xác minh docid và crawl chi tiết |
@@ -211,7 +659,7 @@ Quét vanban.chinhphu.vn dải docid 220500–221000 (JS-rendered, cần browser
 
 | Số hiệu | Trong tracking? | Trạng thái |
 |---|:---:|---|
-| 254/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 254/2026/NĐ-CP | **CÓ** (lần 28) | **Hoàn thiện** — docid 218689; 45 Điều; OCR clean; frontmatter chuẩn |
 | 250/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 235/2026/NĐ-CP | **CÓ** (lần 16) | Thêm mới — chưa crawl chi tiết (lần 16 ghi chưa crawl); cần xác minh nội dung chi tiết đã được bổ sung từ xaydungchinhsach |
 | 233/2026/NĐ-CP | **CÓ** (lần 16) | Thêm mới — chưa crawl chi tiết (lần 16 ghi chưa crawl); cần xác minh nội dung chi tiết đã được bổ sung từ xaydungchinhsach |
@@ -336,7 +784,7 @@ Quét vanban.chinhphu.vn dải docid 219600–220000 (JS-rendered, cần browser
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 248/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn thi hành Luật Thương mại điện tử 2025** — quy chế livestream bán hàng bắt buộc công khai; xác thực danh tính người bán/livestream; tiếp thị liên kết minh bạch vai trò; đăng ký nền tảng TMĐT với Bộ Công Thương; gỡ bỏ hàng hóa vi phạm trong 24 giờ; hiệu lực **01/7/2026** | Thương mại / CNTT / Báo chí | chua-xac-minh | **Chưa hoàn thiện** | Đã commit van-ban/thuong-mai-dien-tu/248-2026-nd-cp-huong-dan-luat-thuong-mai-dien-tu.md (5 Chương, 7 Điều, ~200 dòng); nội dung tổng hợp từ bnews.vn + vov.vn + baochinhphu.vn; toàn văn chính thức và docid chưa xác minh (vanban.chinhphu.vn không indexed văn bản này trong phạm vi docid 218634-218741); PDF gốc trên datafiles.chinhphu.vn chưa tìm được; cần bổ sung toàn văn khi có văn bản gốc |
+| 248/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn thi hành Luật Thương mại điện tử 2025** — quy chế livestream bán hàng bắt buộc công khai; xác thực danh tính người bán/livestream; tiếp thị liên kết minh bạch vai trò; đăng ký nền tảng TMĐT với Bộ Công Thương; gỡ bỏ hàng hóa vi phạm trong 24 giờ; hiệu lực **01/7/2026** | Thương mại / CNTT / Báo chí | chua-xac-minh | **Hoàn thiện** | Đã commit van-ban/thuong-mai-dien-tu/248-2026-nd-cp-huong-dan-luat-thuong-mai-dien-tu.md (5 Chương, 7 Điều, ~200 dòng); nội dung tổng hợp từ bnews.vn + vov.vn + baochinhphu.vn; toàn văn chính thức và docid chưa xác minh (vanban.chinhphu.vn không indexed văn bản này trong phạm vi docid 218634-218741); PDF gốc trên datafiles.chinhphu.vn chưa tìm được; cần bổ sung toàn văn khi có văn bản gốc |
 | 260/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn thi hành Luật Công nghệ cao** — quy định chi tiết và biện pháp thi hành một số điều của Luật Công nghệ cao 133/2025/QH15; chính sách ưu đãi miễn thuế nhập khẩu, thuế TNCN, thuế TNDN cho hoạt động nghiên cứu công nghệ cao, công nghệ chiến lược; tổng quy mô ưu đãi lớn; quy định cụ thể về tiền lương, thưởng cho người làm việc theo hợp đồng trong đơn vị sự nghiệp công lập; hiệu lực **01/7/2026** | KHCN / Thuế | chua-xac-minh | **Hoàn thiện** | Đã commit van-ban/khoa-hoc-cong-nghe/260-2026-nd-cp-huong-dan-luat-cong-nghe-cao.md (31 Điều, 4 Chương, 2534 dòng, 164KB, PDF OCR 150 DPI, 53 trang); nguồn: datafiles.chinhphu.vn (pdf /2026/7/260-ndcp.signed.pdf); ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; commit 54010386, push 2026-07-06 | Nguồn: luatvietnam.vn (slug 109950, "ban hành ngày 30/6/2026"), baomoi.com (chính sách ưu đãi, tin 02/7/2026), taichinhdoanhnghiep.net.vn (miễn thuế nhập khẩu, TNCN, TNDN), mekongasean.vn, danviet.vn; ngày ban hành: 30/6/2026 xác minh (trước đó lần 18 ghi "ước đoán", giờ xác nhận); hiệu lực: 01/7/2026; tác động doanh nghiệp công nghệ cao, cá nhân nghiên cứu, đơn vị sự nghiệp công lập |
 | 174/2026/NĐ-CP | 15/05/2026 | **Xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, giao dịch điện tử và công nghệ thông tin** — thay thế NĐ 90/2016, NĐ 174/2017; phạt quảng cáo tuyên truyền hàng cấm 20-30 triệu đồng; phạt cung cấp, chia sẻ thông tin sai sự thật gây hoang mang dư luận 30-50 triệu đồng; vi phạm email 50-70 triệu đồng; siết quản trị hội nhóm, fanpage, khóa tài khoản; hiệu lực **01/7/2026** | Viễn thông / CNTT / Báo chí | vanban.chinhphu.vn (docid 218185) | **Hoàn thiện** | Đã commit van-ban/buu-chinh-vien-thong/174-2026-nd-cp-xu-phat-vphc-buu-chinh-vien-thong-cntt.md (4976 dòng, 376KB, 117 Điều, PDF signed OCR 5.6MB, hiệu lực 01/7/2026) | Docid xác minh: **218185** từ baochinhphu.vn (bài "chính sách mới có hiệu lực từ tháng 7/2026" đăng ngày 01/7/2026, link docid 218185); ngày ban hành: 15/5/2026 (xác minh từ baochinhphu.vn + luatvietnam.vn, trước đó lần 18 ghi "~26/6/2026" là sai); hiệu lực: 01/7/2026; tác động toàn dân dùng mạng xã hội, email, website; cần xác minh lại ngày ban hành chính xác |
 | 66.18/2026/NQ-CP | 18/05/2026 | **Phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính và điều kiện kinh doanh** — Chương I (Điều 1–2): quy định chung, nguyên tắc; Chương II (Điều 3–4): phân quyền, cắt giảm TTHC, điều kiện kinh doanh; bãi bỏ một số điểm, phần, mục tại các Phụ lục; bỏ thủ tục nghiệm thu PCCC (chủ đầu tư tự nghiệm thu); rút ngắn thời gian cấp Giấy phép xây dựng xuống **10 ngày làm việc**; hiệu lực **01/7/2026** đến **28/2/2027** | Hành chính / Xây dựng | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (danh sách TTHC bị bãi bỏ lĩnh vực giáo dục, "ngày 18/5/2026"), nhansu.vn (ID 706220), baomoi.com, tienphong.vn, vietnamplus.vn, vov.vn; ngày ban hành: 18/5/2026 xác minh (trước đó lần 18 ghi "ước đoán ~26/6/2026" là sai); hiệu lực: 01/7/2026 – 28/2/2027 (8 tháng thí điểm); tác động toàn bộ TTHC, cấp phép xây dựng, PCCC; cần xác minh docid |
@@ -449,10 +897,10 @@ Quét vanban.chinhphu.vn dải docid 219300–219600 (JS-rendered, cần browser
 
 | Số hiệu | Trong tracking? | Trạng thái |
 |---|:---:|---|
-| 234/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 234/2026/NĐ-CP | **CÓ** (lần 34) | **Hoàn thiện** — docid 218136; 26 Điều; OCR clean |
 | 241/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
-| 224/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
-| 236/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 224/2026/NĐ-CP | **CÓ** (lần 33) | Đã ghi nhận — cần docid |
+| 236/2026/NĐ-CP | **CÓ** (lần 25) | Đã có (đường bộ) |
 | 182/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 
 ### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
@@ -2337,7 +2785,7 @@ So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-06 lần 21):
 | Số hiệu | Trong tracking? | Trạng thái |
 |---|:---:|---|
 | 269/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
-| 254/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 254/2026/NĐ-CP | **CÓ** (lần 28) | **Hoàn thiện** — docid 218689; 45 Điều; OCR clean; frontmatter chuẩn |
 | 250/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 268/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
 | 36/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |

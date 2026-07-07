@@ -1,28 +1,27 @@
 ---
-title: Nghị định 234/2026/NĐ-CP quy định xử lý kỷ luật viên chức
-description: Quy định về nguyên tắc, hình thức, thẩm quyền, trình tự và thủ tục xử lý kỷ luật viên chức. Thay thế Nghị định 112/2020/NĐ-CP.
-source: vanban.chinhphu.vn (docid 218136) - PDF signed CAdES-BES
-kind: nd-cp
-type: van-ban-phap-luat
-date: 2026-06-26
-effective_date: 2026-07-01
-signer: Phạm Thị Thanh Trà (Phó Thủ tướng, ký thay Thủ tướng)
-issuer: Chính phủ
-replaces:
-  - 112/2020/NĐ-CP (2020-09-18)
-status: Hoàn thiện
-category:
-  - lao-động
-  - viên-chức
-lastedit: 2026-07-05
-tags:
-  - kỷ luật
-  - viên chức
-  - hình thức kỷ luật
-  - 234/2026/NĐ-CP
 layout: vanban
-modified: 2026-07-06
+title: "Nghị định 234/2026/NĐ-CP quy định xử lý kỷ luật viên chức"
+description: "Quy định về nguyên tắc, hình thức, thẩm quyền, trình tự và thủ tục xử lý kỷ luật viên chức. Thay thế Nghị định 112/2020/NĐ-CP."
+date: 2026-06-26
+modified: 2026-07-07
+so_hieu: "234/2026/NĐ-CP"
+ngay_ban_hanh: "26/06/2026"
+ngay_hieu_luc: "2026-07-01"
+co_quan_ban_hanh: "Chính phủ"
+nguoi_ky: "Phạm Thị Thanh Trà (Phó Thủ tướng, ký thay Thủ tướng)"
+loai_van_ban: "Nghị định"
 group: lao-dong
+tags:
+  - ky-luat-vien-chuc
+  - 234/2026/NĐ-CP
+docid: "218136"
+source: vanban.chinhphu.vn (docid 218136)
+van_ban_thay_the:
+  - "112/2020/NĐ-CP"
+trang_thai: Hoan_thien
+---
+
+
 docid: 218136
 ---
 

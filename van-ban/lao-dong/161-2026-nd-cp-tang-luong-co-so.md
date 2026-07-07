@@ -12,6 +12,13 @@ tags:
   - cán bộ công chức viên chức
   - 161/2026/NĐ-CP
 docid: 218107
+so_hieu: "161/2026/NĐ-CP"
+ngay_ban_hanh: "15/05/2026"
+ngay_hieu_luc: "2026-07-01"
+co_quan_ban_hanh: "Chính phủ"
+nguoi_ky: "Phó Thủ tướng"
+loai_van_ban: "Nghị định"
+trang_thai: Hoan_thien
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 

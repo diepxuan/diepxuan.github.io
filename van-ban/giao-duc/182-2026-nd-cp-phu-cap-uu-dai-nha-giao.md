@@ -1,23 +1,25 @@
 ---
-title: Nghị định 182/2026/NĐ-CP quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo
-description: Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập.
-source: vanban.chinhphu.vn (docid 218228) - PDF signed CAdES-BES
-kind: nd-cp
-type: van-ban-phap-luat
+layout: vanban
+title: "Nghị định 182/2026/NĐ-CP quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo"
 date: 2026-05-22
-effective_date: 2026-07-07
-signer: Thủ tướng (chưa xác minh)
-issuer: Chính phủ
-status: Hoàn thiện
-category:
-  - giáo-dục
-  - lao-động
-lastedit: 2026-07-05
+modified: 2026-07-07
+group: giao-duc
 tags:
   - phụ cấp ưu đãi
   - nhà giáo
-  - giáo dục
+  - giáo-dục
+  - lao-động
   - 182/2026/NĐ-CP
+description: Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập.
+source: vanban.chinhphu.vn (docid 218228)
+docid: "218228"
+so_hieu: 182/2026/NĐ-CP
+ngay_ban_hanh: 2026-05-22
+ngay_hieu_luc: 2026-07-07
+co_quan_ban_hanh: Chính phủ
+nguoi_ky: Thủ tướng
+loai_van_ban: Nghị định
+trich_yeu: "Quy định chế độ phụ cấp ưu đãi theo nghề 20%-80% đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập. Áp dụng từ 01/01/2026, hiệu lực thi hành 07/7/2026."
 ---
 
 # NGHỊ ĐỊNH
