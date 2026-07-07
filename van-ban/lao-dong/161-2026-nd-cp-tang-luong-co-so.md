@@ -3,6 +3,16 @@ layout: vanban
 title: "Nghị định 161/2026/NĐ-CP quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức, viên chức và lực lượng vũ trang"
 permalink: /van-ban/lao-dong/nghi-dinh-161-2026-nd-cp-tang-luong-co-so/
 lastedit: 2026-07-06
+date: 2026-05-15
+modified: 2026-07-06
+group: lao-dong
+tags:
+  - nghị-định
+  - lương cơ sở
+  - cán bộ công chức viên chức
+  - 161/2026/NĐ-CP
+docid: 218107
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
 # Nghị định 161/2026/NĐ-CP quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức, viên chức và lực lượng vũ trang

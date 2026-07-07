@@ -601,7 +601,7 @@ hình ảnh người lái xe đối với xe ô tô kinh doanh vận tải hành
 chỗ (không kể chỗ của người lái xe), xe ô tô kinh doanh vận tải hàng hóa (trừ
 xe ô tô đầu kéo), xe vận tải nội bộ tại điểm ] khoản 5 Điều 20, điểm b khoản 3
 
-### Điều 21.
+- Điều 21.
 điểm b khoản 9a Điều 32 của Nghị định này có hiệu lực thi hành từ
 ngày 01 tháng 01 năm 2028.
 
@@ -665,7 +665,7 @@ trường" tại điêm b, điểm d khoản 7 Điều 32, cụm từ "điểm e
 
 13. Bỏ cụm từ "tại nơi phát hiện vi phạm" tại điểm e khoản 5 Điều 47.
 
-14. Bỏ cụm từ "Điểm ø khoản §;" tại điểm a khoản 1 Điều 48.
+14. Bỏ cụm từ "Điểm a khoản §;" tại điểm a khoản 1 Điều 48.
 
 15, Bỏ cụm từ "điểm m khoản 3 Điều 6," tại khoản 2 Điều 53.
 
@@ -688,7 +688,7 @@ thi hành Nghị định này.
 3. Bộ Công an chủ trì, phối hợp với các bộ, ngành liên quan chịu trách
 nhiệm hướng dẫn và tô chức thực hiện Nghị định này.
 
-Điều 21. Điều khoản chuyến tiếp
+### Điều 21. Điều khoản chuyến tiếp
 
 Trường hợp hành vi vi phạm hành chính về trật tự, an toàn giao thông trong,
 lĩnh vực giao thông đường bộ xảy ra và kết thúc trước ngày Nghị định này có hiệu

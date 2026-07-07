@@ -21,6 +21,7 @@ can-cu-phap-ly:
 can-cu-taquy-dinh:
   - "Nghị định số 127/2023/NĐ-CP (hướng dẫn Luật Báo chí 2016)"
 tom-tat-trang-thai: "Chưa hoàn thiện — toàn văn PDF signed chưa có trên vanban.chinhphu.vn, nội dung dựa trên trích yếu chi tiết từ baochinhphu.vn, nhandan.vn, dantocphattrien.vietnamnet.vn. Cần bổ sung toàn văn khi PDF signed được công bố."
+docid: chua-xac-minh
 ---
 
 # Nghị định số 244/2026/NĐ-CP

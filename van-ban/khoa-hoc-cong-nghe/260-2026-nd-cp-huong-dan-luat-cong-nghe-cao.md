@@ -47,7 +47,7 @@ QUY ĐỊNH CHUNG
 Phạm vi điều chỉnh
 1. Nghị định này quy định chị tiết Điều. 11, Điều 12, Điều 15, khoản 4
 
-### Điều 21.
+- Điều 21.
 Điều 22 của Luật Công „ nghệ cao về nghiên cứu và phát triển công
 nghệ cao; nghiên cứu và phát triển công nghệ chiến lược; doanh nghiệp sản
 xuất sản phẩm công nghệ cao, doanh nghiệp công nghệ cao và doanh nghiệp
@@ -1762,7 +1762,7 @@ quy định của pháp luật có liên quan.
 ## Mục 2
 ĐẦU TƯ XÂY DỰNG VÀ PHÁT TRIÊN KHU CÔNG NGHỆ CAO
 
-Điều 21. Hỗ trợ đầu tư từ nguồn ngân sách nhà nước
+### Điều 21. Hỗ trợ đầu tư từ nguồn ngân sách nhà nước
 
 1. Nhà nước ưu tiên bố trí vốn đầu tư công, bao gồm vốn ngân sách nhà
 nước, vốn hỗ trợ phát triển chính thức (ODA) và vốn vay ưu đãi nước ngoài và

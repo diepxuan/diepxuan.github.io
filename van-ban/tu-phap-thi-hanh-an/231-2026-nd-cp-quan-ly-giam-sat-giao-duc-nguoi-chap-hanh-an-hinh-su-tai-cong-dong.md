@@ -192,7 +192,7 @@ b) Các chỉ phí cần thiết khác. -
 theo quy định của Luật Ngân sách nhà nước và các nguồn kinh phí hợp pháp
 khác (nếu có).
 
-## Chương III
+## Chương II
 THỰC HIỆN NỘI DŨNG QUÁN LÝ, GIÁM SÁT, GIÁO DỤC
 NGƯỜI CHÁP HÀNH ÁN HÌNH SỰ TẠI CỘNG ĐỒNG
 
@@ -655,7 +655,7 @@ quyết định kết thúc việc quản lý, giám sát, giáo dục người 
 Sự tại cộng đồng.
 
 
-## Chương II
+## Chương III
 THỰC HIỆN CÁC BIỆN PHÁP QUẢN LÝ, GIÁM SÁT, GIÁO ĐỤC
 NGƯỜI CHÁP HÀNH ÁN HÌNH SỰ TẠI CỘNG ĐỎNG __¿
 
