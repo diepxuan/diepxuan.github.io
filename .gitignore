@@ -3,6 +3,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .heartbeat-state.json
+.heartbeat-init
 
 # Archive directory
 van-ban/phap-dien/scripts/archive/

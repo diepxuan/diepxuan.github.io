@@ -1,11 +1,18 @@
 ---
 layout: vanban
 title: "Nghị định 174/2026/NĐ-CP xử phạt vi phạm hành chính lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, giao dịch điện tử và công nghệ thông tin"
-date: 2026-06-26
+date: 2026-05-15
 modified: 2026-07-07
-group: viễn thông / công nghệ thông tin
+group: vien-thong-cong-nghe-thong-tin
+tags:
+  - buu-chinh
+  - vien-thong
+  - tan-so-vo-tuyen-dien
+  - giao-dich-dien-tu
+  - cong-nghe-thong-tin
+  - xu-phat-vi-pham-hanh-chinh
 so_hieu: 174/2026/NĐ-CP
-ngay_ban_hanh: 26/06/2026
+ngay_ban_hanh: 15/05/2026
 ngay_hieu_luc: 01/07/2026
 co_quan_ban_hanh: Chính phủ
 loai_van_ban: Nghị định
