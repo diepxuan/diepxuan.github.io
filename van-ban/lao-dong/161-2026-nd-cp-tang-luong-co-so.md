@@ -1,8 +1,18 @@
 ---
-layout: page
+layout: vanban
 title: "Nghị định 161/2026/NĐ-CP quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức, viên chức và lực lượng vũ trang"
-permalink: /van-ban/lao-dong/nghi-dinh-161-2026/
-lastedit: 2026-06-07
+permalink: /van-ban/lao-dong/nghi-dinh-161-2026-nd-cp-tang-luong-co-so/
+lastedit: 2026-07-06
+date: 2026-05-15
+modified: 2026-07-06
+group: lao-dong
+tags:
+  - nghị-định
+  - lương cơ sở
+  - cán bộ công chức viên chức
+  - 161/2026/NĐ-CP
+docid: 218107
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
 # Nghị định 161/2026/NĐ-CP quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức, viên chức và lực lượng vũ trang
@@ -68,13 +78,13 @@ Nghị định 161/2026/NĐ-CP quy định mức lương cơ sở áp dụng cho
 
 ---
 
-**Điều 1. Phạm vi điều chỉnh**
+### Điều 1. Phạm vi điều chỉnh
 
 Nghị định này quy định mức lương cơ sở áp dụng đối với người hưởng lương, phụ cấp và chế độ tiền thưởng áp dụng đối với người hưởng lương làm việc trong các cơ quan, tổ chức, đơn vị sự nghiệp công lập của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội trực thuộc Mặt trận Tổ quốc Việt Nam và các tổ chức xã hội thực hiện các nhiệm vụ được nhà nước giao (sau đây gọi chung là cơ quan, đơn vị) ở trung ương, ở tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh), ở xã, phường, đặc khu trực thuộc cấp tỉnh (sau đây gọi chung là cấp xã), ở đơn vị hành chính - kinh tế đặc biệt và lực lượng vũ trang.
 
 ---
 
-**Điều 2. Đối tượng áp dụng**
+### Điều 2. Đối tượng áp dụng
 
 1. Người hưởng lương, phụ cấp áp dụng mức lương cơ sở quy định tại Điều 1 Nghị định này, bao gồm:
 
@@ -100,7 +110,7 @@ Nghị định này quy định mức lương cơ sở áp dụng đối với n
 
 ---
 
-**Điều 3. Mức lương cơ sở**
+### Điều 3. Mức lương cơ sở
 
 1. Mức lương cơ sở dùng làm căn cứ:
 
@@ -122,7 +132,7 @@ Nghị định này quy định mức lương cơ sở áp dụng đối với n
 
 ---
 
-**Điều 4. Chế độ tiền thưởng**
+### Điều 4. Chế độ tiền thưởng
 
 1. Thực hiện chế độ tiền thưởng trên cơ sở thành tích công tác đột xuất và kết quả theo dõi, đánh giá, xếp loại chất lượng hằng năm đối với các đối tượng quy định tại khoản 2 Điều 2 Nghị định này.
 
@@ -146,7 +156,7 @@ Nghị định này quy định mức lương cơ sở áp dụng đối với n
 
 ---
 
-**Điều 5. Kinh phí thực hiện**
+### Điều 5. Kinh phí thực hiện
 
 1. Nguồn kinh phí của các bộ, cơ quan trung ương:
 
@@ -176,7 +186,7 @@ Nghị định này quy định mức lương cơ sở áp dụng đối với n
 
 ---
 
-**Điều 6. Hiệu lực thi hành**
+### Điều 6. Hiệu lực thi hành
 
 1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
 
@@ -184,7 +194,7 @@ Nghị định này quy định mức lương cơ sở áp dụng đối với n
 
 ---
 
-**Điều 7. Trách nhiệm thi hành**
+### Điều 7. Trách nhiệm thi hành
 
 1. Bộ trưởng Bộ Nội vụ hướng dẫn thực hiện các quy định về mức lương cơ sở tại Nghị định này đối với các đối tượng hưởng lương, phụ cấp trong các cơ quan, tổ chức, đơn vị sự nghiệp công lập của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội và hội.
 
