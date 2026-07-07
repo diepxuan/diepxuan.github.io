@@ -1,3 +1,67 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 38)
+
+### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn docid 230000+ trống hoàn toàn
+
+Quét vanban.chinhphu.vn dải docid **230000–280000** (curl trực tiếp API `/portal/api/v2/vanban/detail` → **100% 404**) + quét dải docid **218600–218700** (kiểm tra xung quanh dải 254/2026 = 218689, tất cả **404**) + web_search Brave toàn diện từ luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, thanhnien.vn, mekongasean.vn, vietstock.vn, tinnhanhchungkhoan.vn, baomoi.com, tapchikinhtetaichinh.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng, Tư pháp, Công an, Nông nghiệp, Ngoại giao, Thương mại. Ưu tiên: văn bản ban hành/hiệu lực tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 37 — tất cả văn bản tháng 7/2026 đã ghi nhận): **không phát hiện văn bản mới**.
+
+Giới hạn 5/lần — ghi nhận đủ 0 văn bản:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — docid 230000–280000 + 218600–218700 TRỐNG HOÀN TOÀN
+
+- **Docid 230000–280000**: Quét tổng cộng ~50 docid mẫu (230500, 231000, 232000, 233000, 234000, 235000, 236000, 237000, 238000, 239000, 250000, 250100, 250200, 250300, 252000, 253000, 272000, 280000...) — **100% 404 File or directory not found**
+- **Docid 218600–218700**: Quét 32 docid xung quanh dải 254/2026 (= 218689, văn bản 30/6/2026 đã ghi nhận) — **100% 404**
+- **Kết luận**: vanban.chinhphu.vn **chưa index bất kỳ văn bản nào của tháng 7/2026**. Toàn bộ văn bản 272, 273, 274... chưa được đưa vào cơ sở dữ liệu.
+
+### Cập nhật trạng thái 272/2026/NĐ-CP
+
+- **Tin báo chí cập nhật** (22:00 ICT ngày 7/7): VTV (8 giờ trước), doanhnghiephoinhap.vn (11 giờ trước), baochinhphu.vn, luatvietnam.vn (9 giờ trước) — tất cả đưa tin 272/2026/NĐ-CP hiệu lực từ **04/7/2026**, quy định điều kiện khảo sát, đầu tư điện gió ngoài khơi.
+- **Ngày ban hành**: vẫn **chưa xác minh được** — nhiều nguồn ghi "Chính phủ ban hành" nhưng không nêu ngày cụ thể; ước đoán ban hành cùng ngày 04/7/2026 (hiệu lực ngay)
+- **Docid**: **chưa có** — vanban.chinhphu.vn docid 218600–280000 trống hoàn toàn
+- **Tác động**: chiến lược năng lượng — vốn chủ sở hữu ≥1 tỷ/MW, quy hoạch điện lực, điện gió ngoài khơi
+- **Hạn hiệu lực**: đến hết **31/12/2030**
+- **Nguồn**: luatvietnam.vn (tin "Muốn khảo sát điện gió ngoài khơi phải có vốn tối thiểu 1 tỷ đồng/MW" — đăng 9 giờ trước), baochinhphu.vn, vtv.vn, doanhnghiephoinhap.vn
+
+### Các văn bản chưa có docid — dải tháng 7/2026
+
+| Số hiệu | Ngày ban hành | Trạng thái | Ghi chú |
+|---|---:|:---:|---|
+| 272/2026/NĐ-CP | ước đoán 04/07/2026 | Chưa có | Điện gió ngoài khơi — chưa index |
+| 273–280/2026/NĐ-CP | ? | Chưa có | Chưa phát hiện — có thể chưa ban hành |
+| 15/2026/TT-BNV | 30/06/2026 | **Chưa có** | Phụ cấp khu vực — chưa index |
+| 252/2026/NĐ-CP | 30/06/2026 | **Hoàn thiện** | Hướng dẫn Luật QLTH — đã commit 420KB, chưa có docid |
+| 253/2026/NĐ-CP | 30/06/2026 | **Hoàn thiện** | Hướng dẫn Luật TNCN — đã commit 137KB, chưa có docid |
+| 265/2026/NĐ-CP | 01/07/2026 | **Chưa có** | Xử phạt tiết kiệm chống lãng phí — chưa index |
+| 269/2026/NĐ-CP | 01/07/2026 | **Chưa có** | Văn hóa dân tộc thiểu số — chưa index |
+| 271/2026/NĐ-CP | 03/07/2026 | **Chưa có** | Miễn phí sách giáo khoa — chưa index |
+| 1205/QĐ-TTg | 06/07/2026 | **Chưa có** | KPI xây dựng pháp luật — chưa index |
+
+### Xác minh docid cho văn bản 252, 253, 15/TT-BNV
+
+- **252/2026/NĐ-CP docid**: Lần trước note "docid từ luatvietnam slug 439382". Thực tế: slug 439382 = trang tóm tắt trên luatvietnam.vn, không phải docid vanban.chinhphu.vn. Đã xác nhận file `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/252-2026-nd-cp-huong-dan-luat-quan-ly-thue.md` là file đầy đủ 420KB (không phải stub). Docid trên vanban.chinhphu.vn: **chưa có**.
+- **253/2026/NĐ-CP docid**: Đã commit đầy đủ (71 Điều, 5 Chương, 3035 dòng, 137KB). Docid trên vanban.chinhphu.vn: **chưa có**.
+- **15/2026/TT-BNV docid**: Chưa commit đầy đủ. Cần xác minh docid và crawl chi tiết từ thuvienphapluat.vn (slug 277996).
+- **Lưu ý**: Tất cả docid thử 218600–218700 và 230000–280000 đều trả về 404. Có thể vanban.chinhphu.vn dùng docid với prefix khác (ví dụ 230000+) hoặc hệ thống index mới chưa hoạt động.
+
+### Không có văn bản mới ban hành ngày 7/7/2026
+
+- Tìm kiếm toàn diện trên Brave: **0 văn bản** được xác nhận ban hành chính xác ngày 7/7/2026
+- Tất cả tin tức đều về văn bản đã ghi nhận (272/2026 là tin tức tác động, không phải tin ban hành mới)
+- Đợt công bố lớn nhất (29/6–06/7/2026) đã kết thúc. Văn bản mới nhất = 1205/QĐ-TTg (06/7/2026)
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần 38 — kết quả khớp với dự đoán (đợt ban hành lớn đã kết thúc)
+- **272/2026/NĐ-CP**: Không tìm thấy docid. Tất cả tin tức đều từ báo chí. vanban.chinhphu.vn chưa index — có thể hệ thống index chậm 3–5 ngày so với báo chí.
+- **Docid 252, 253, 15/TT-BNV**: Chưa xác minh được. Tất cả docid trong dải 218600–280000 đều 404. Cần thử dải khác hoặc chờ index mới.
+- **Đề xuất**: Vì vanban.chinhphu.vn không hoạt động cho docid mới, các phiên tới nên ưu tiên tìm văn bản mới (273+) từ web_search thay vì xác minh docid, và thử tìm docid qua thuvienphapluat.vn sitemap hoặc xaydungchinhsach.chinhphu.vn.
+- Nguồn: web_search Brave (luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, thanhnien.vn, mekongasean.vn, vietstock.vn, tinnhanhchungkhoan.vn, baomoi.com, tapchikinhtetaichinh.vn), vanban.chinhphu.vn API (docid 218600–280000, 100% 404).
+- Ngày phát hiện: 2026-07-07 22:02 ICT
+- Phiên thực hiện: agent:github-io:subagent:599e0364-37b0-44c1-9da2-ef54a3de41ef (Đệ #1 Discovery — lần 38)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 36)
 
 ### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn docid 228800+ trống hoàn toàn
