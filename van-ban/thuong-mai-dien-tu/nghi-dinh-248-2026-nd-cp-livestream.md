@@ -2,28 +2,27 @@
 layout: vanban
 title: "Nghị định số 248/2026/NĐ-CP quy định chi tiết một số điều của Luật Thương mại điện tử"
 date: 2026-06-30
-effective_date: 2026-07-01
 modified: 2026-07-07
+so_hieu: "248/2026/NĐ-CP"
+ngay_ban_hanh: "30/06/2026"
+ngay_hieu_luc: "2026-07-01"
+co_quan_ban_hanh: "Chính phủ"
+nguoi_ky: "Phó Thủ tướng"
+loai_van_ban: "Nghị định"
 group: thuong-mai-dien-tu
 tags:
-  - Thương mại điện tử
-  - Nghị định
-  - Chính phủ
-  - 2026
-  - Livestream
-  - Tiếp thị liên kết
-  - Nền tảng số
+  - thuong-mai-dien-tu
+  - livestream
+  - tiep-thi-lien-ket
+  - nen-tang-so
 docid: chua-xac-minh
 source: baochinhphu.vn; nhandan.vn; luatvietnam.vn; vtv.vn
-so_hieu: 248/2026/NĐ-CP
-loai_van_ban: Nghị định
-ngay_ban_hanh: 30/06/2026
-ngay_hieu_luc: 01/07/2026
-co_quan_ban_hanh: Chính phủ
-nguoi_ky: Thủ tướng Chính phủ
 can_cu_phap_ly:
-  - Luật Thương mại điện tử số 122/2025/QH15
+  - "Luật Thương mại điện tử số 122/2025/QH15"
+trang_thai: Chua_hoan_thien
 ---
+
+
 
 # Nghị định số 248/2026/NĐ-CP
 

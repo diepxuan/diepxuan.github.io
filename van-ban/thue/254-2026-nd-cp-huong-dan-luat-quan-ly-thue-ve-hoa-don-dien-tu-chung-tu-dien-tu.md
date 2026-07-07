@@ -3,27 +3,26 @@ layout: vanban
 title: "Nghị định 254/2026/NĐ-CP hướng dẫn Luật Quản lý thuế về hóa đơn điện tử, chứng từ điện tử"
 description: "Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quản lý thuế số 108/2025/QH15 về hóa đơn điện tử, chứng từ điện tử. Thay thế Nghị định 123/2020/NĐ-CP."
 date: 2026-06-30
-signer: "Thủ tướng Phạm Minh Chính"
-effect: 2026-07-01
-number: "254/2026/NĐ-CP"
-type: nd-cp
-docid: "218689"
-group:
-  - Thuế
-  - Tài chính
-  - CNTT
-number_of_chapters: 4
-number_of_articles: 45
-note: ""
-modified: 2026-07-06
+modified: 2026-07-07
+so_hieu: "254/2026/NĐ-CP"
+ngay_ban_hanh: "30/06/2026"
+ngay_hieu_luc: "2026-07-01"
+co_quan_ban_hanh: "Chính phủ"
+nguoi_ky: "Thủ tướng Phạm Minh Chính"
+loai_van_ban: "Nghị định"
+group: thue-phi-le-phi
 tags:
-  - nghị-định
-  - hóa đơn điện tử
-  - chứng từ điện tử
-  - Luật Quản lý thuế
+  - hoa-don-dien-tu
+  - chung-tu-dien-tu
   - 254/2026/NĐ-CP
+docid: "218689"
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+van_ban_thay_the:
+  - "123/2020/NĐ-CP"
+trang_thai: Hoan_thien
 ---
+
+
 
 # NGHỊ ĐỊNH
 

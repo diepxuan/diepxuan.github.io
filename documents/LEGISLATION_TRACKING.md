@@ -47,6 +47,50 @@ web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, xaydungch
 
 ---
 
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 34)
+
+### Phát hiện mới: 81/2026/TT-BTC + 82/2026/TT-BTC + 83/2026/TT-BTC + 86/2026/TT-BTC — 4 văn bản mới
+
+web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, thuehaiquan.tapchikinhtetaichinh.vn, thuonghieucongluan.com.vn, thoibaotaichinhvietnam.vn, baochinhphu.vn, tapchikinhtetaichinh.vn theo nhóm chủ đề: Thuế, Tài chính, Hải quan. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 33 — 5 văn bản 224, 232, 234, 235, 1539): phát hiện **4 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 4:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 81/2026/TT-BTC | 30/06/2026 | **Sửa đổi lệ phí cấp thẻ đi lại doanh nhân APEC (ABTC) cho doanh nhân Việt Nam** — sửa đổi điểm c Số thứ tự 3 mục I Biểu mức thu phí, lệ phí trong lĩnh vực xuất cảnh, nhập cảnh, quá cảnh, cư trú tại Việt Nam (kèm Thông tư 28/2026/TT-BTC); mức lệ phí cấp mới thẻ ABTC cho doanh nhân Việt Nam giảm từ **840.000 đồng** xuống còn **700.000 đồng**/lần cấp (ngang bằng mức cấp lại); hiệu lực **01/7/2026** | Tài chính / Xuất nhập cảnh | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110119, "Ngày 30/6/2026, Bộ Tài chính đã ban hành Thông tư 81/2026/TT-BTC"), thuvienphapluat.vn, baochinhphu.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực: 01/7/2026; tác động doanh nhân Việt Nam xin cấp thẻ ABTC; **ƯU TIÊN THẤP** — sửa đổi một điểm nhỏ; cần xác minh docid |
+| 82/2026/TT-BTC | 30/06/2026 | **Tiêu chuẩn và quản lý kinh doanh hàng miễn thuế** — quy định tiêu chuẩn địa điểm kinh doanh hàng miễn thuế và quản lý hoạt động kinh doanh hàng miễn thuế; điều kiện cấp phép, giám sát, kiểm tra; cơ quan Hải quan có 10 ngày làm việc xem xét hồ sơ, hết thời hạn không có ý kiến thì doanh nghiệp được quyền tự công bố và đưa địa điểm vào hoạt động; hiệu lực **01/7/2026** | Tài chính / Hải quan / Du lịch | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110138, "Đã có Thông tư 82/2026/TT-BTC"), thuehaiquan.tapchikinhtetaichinh.vn, thuvienphapluat.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn (từ bản tin kế toán tuần 29/6-5/7); hiệu lực: 01/7/2026; tác động doanh nghiệp kinh doanh hàng miễn thuế, cửa hàng duty-free; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 83/2026/TT-BTC | 30/06/2026 | **Tiêu chuẩn hoạt động đại lý làm thủ tục hải quan và tiêu chuẩn nhân viên đại lý làm thủ tục hải quan** — quy định tiêu chuẩn đại lý hải quan, tiêu chuẩn nhân viên đại lý; tổ chức thi, cấp chứng chỉ; quản lý theo hướng số hóa, minh bạch; trước ngày 01/8/2026, các đại lý phải hoàn thành thông báo tài khoản kết nối hệ thống xử lý dữ liệu điện tử với Cục Hải quan; hiệu lực **01/7/2026** | Tài chính / Hải quan | chua-xac-minh | **Chưa có** | Nguồn: thuehaiquan.tapchikinhtetaichinh.vn ("Ngày 30/6/2026, Bộ Tài chính ban hành Thông tư số 83/2026/TT-BTC"), thoibaotaichinhvietnam.vn, baomoi.com; ngày ban hành: **30/6/2026** xác minh; hiệu lực: 01/7/2026; tác động doanh nghiệp kinh doanh đại lý hải quan, nhân viên đại lý hải quan; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 86/2026/TT-BTC | 30/06/2026 | **Quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu** — quy định chi tiết về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu; hoàn thiện khuôn khổ pháp lý quản lý thuế XNK; hướng dẫn khai thuế, nộp thuế, hoàn thuế XNK; đồng bộ với Luật Quản lý thuế 2025; hiệu lực **01/7/2026** | Thuế / Tài chính / Hải quan | chua-xac-minh | **Chưa có** | Nguồn: thuehaiquan.tapchikinhtetaichinh.vn ("Ngày 30/6/2026, Bộ Tài chính ban hành Thông tư số 86/2026/TT-BTC quy định chi tiết về quản lý thuế đối với hàng hóa xuất nhập khẩu"), luatvietnam.vn, thuvienphapluat.vn (hỏi đáp chi tiết); ngày ban hành: **30/6/2026** xác minh từ thuehaiquan.tapchikinhtetaichinh.vn; hiệu lực: 01/7/2026; tác động doanh nghiệp XNK, cơ quan hải quan; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 33)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 81/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 82/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 83/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 86/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế / Tài chính / Hải quan** (ưu tiên số 1): **86/2026/TT-BTC** — quản lý thuế đối với hàng hóa xuất nhập khẩu; đồng bộ Luật Quản lý thuế 2025; hiệu lực 01/7/2026. Nguồn: thuehaiquan.tapchikinhtetaichinh.vn, luatvietnam.vn, thuvienphapluat.vn. Cần xác minh docid.
+2. **Tài chính / Hải quan** (ưu tiên số 2): **83/2026/TT-BTC** — tiêu chuẩn đại lý hải quan, số hóa; hạn chót 01/8/2026; hiệu lực 01/7/2026. Nguồn: thuehaiquan.tapchikinhtetaichinh.vn, thoibaotaichinhvietnam.vn. Cần xác minh docid.
+3. **Tài chính / Hải quan / Du lịch** (ưu tiên số 3): **82/2026/TT-BTC** — tiêu chuẩn hàng miễn thuế, quyền tự công bố địa điểm; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 110138), thuehaiquan.tapchikinhtetaichinh.vn. Cần xác minh docid.
+4. **Tài chính / Xuất nhập cảnh** (ưu tiên số 4 — ưu tiên thấp): **81/2026/TT-BTC** — giảm lệ phí cấp thẻ ABTC 840→700K; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 110119). Cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** được thêm vào tracking lần 34: 81/2026/TT-BTC, 82/2026/TT-BTC, 83/2026/TT-BTC, 86/2026/TT-BTC — đều ban hành **30/6/2026** cùng đợt Thông tư BTC 80–88.
+- **81/2026/TT-BTC**: Sửa đổi một điểm trong Biểu mức thu phí, lệ phí — giảm lệ phí cấp mới thẻ ABTC từ 840K xuống 700K đồng. Cùng ngày 30/6/2026. Hiệu lực 01/7/2026. Ưu tiên thấp — văn bản ngắn, chỉ sửa 1 điểm.
+- **82/2026/TT-BTC**: Tiêu chuẩn hàng miễn thuế — quy định địa điểm, điều kiện cấp phép, quyền tự công bố sau 10 ngày không có ý kiến từ Hải quan. Hiệu lực 01/7/2026.
+- **83/2026/TT-BTC**: Tiêu chuẩn đại lý hải quan — quản lý theo hướng số hóa. Trước 01/8/2026 phải kết nối hệ thống với Cục Hải quan. Hiệu lực 01/7/2026.
+- **86/2026/TT-BTC**: Quản lý thuế XNK — hoàn thiện khuôn khổ pháp lý, đồng bộ Luật Quản lý thuế 2025. Hiệu lực 01/7/2026.
+- **Không phát hiện văn bản mới ban hành sau ngày 07/7/2026**: Quét toàn diện web_search Brave + luatvietnam.vn + thuvienphapluat.vn + chinhphu.vn không tìm thấy văn bản nào ban hành chính xác ngày 7/7/2026 hoặc sau đó. Đợt ban hành mới nhất được ghi nhận vẫn là 1205/QĐ-TTg (06/7/2026, ngày ban hành) và 271/2026/NĐ-CP (03/7/2026).
+- **Tình trạng vanban.chinhphu.vn docid 228800–230000**: Vẫn trống hoàn toàn — văn bản tháng 7/2026 chưa được index. Các văn bản mới đợt 30/6 đều chưa xác minh docid.
+- Nguồn: web_search Brave (luatvietnam.vn, thuvienphapluat.vn, thuehaiquan.tapchikinhtetaichinh.vn, thuonghieucongluan.com.vn, thoibaotaichinhvietnam.vn, baochinhphu.vn, tapchikinhtetaichinh.vn, baomoi.com).
+- Ngày phát hiện: 2026-07-07 18:34 ICT
+- Phiên thực hiện: agent:github-io:subagent:15780c1b-0258-47e8-aee4-63a20792e081 (Đệ #1 Discovery — lần 34)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 32)
 
 ### Phát hiện mới: 80/2026/TT-BTC + 84/2026/TT-BTC + 29/2026/TT-NHNN + 265/2026/NĐ-CP (cập nhật ngày) + 1205/QĐ-TTg — 5 văn bản mới / cập nhật
