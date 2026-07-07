@@ -1,111 +1,116 @@
 ---
-layout: page
+layout: vanban
 title: "Nghị định 144/2026/NĐ-CP sửa đổi Nghị định 181/2025/NĐ-CP hướng dẫn Luật Thuế GTGT"
-permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-144-2026-nd-cp-sua-doi-thue-gtgt/
-lastedit: 2026-06-06
+date: 2026-05-05
+modified: 2026-07-07
+so_hieu: "144/2026/NĐ-CP"
+loai_van_ban: "Nghị định"
+co_quan_ban_hanh: "Chính phủ"
+ngay_ban_hanh: "05/05/2026"
+ngay_co_hieu_luc: "20/06/2026"
+hieu_luc: "20/06/2026"
+nguoi_ky: "Phạm Minh Chính"
+chuc_danh_nguoi_ky: "Thủ tướng Chính phủ"
+trich_yeu: "Sửa đổi, bổ sung một số điều của Nghị định 181/2025/NĐ-CP ngày 01/7/2025 hướng dẫn Luật Thuế GTGT; 6 Điều."
+group: "thue-phi-le-phi-cac-khoan-thu-khac"
+ngon_ngu: "vi"
+docid: "218020"
+source:
+  - vanban.chinhphu.vn (docid 218020)
+  - datafiles.chinhphu.vn (PDF signed 961KB, 23 trang)
+  - luatvietnam.vn (slug 433921)
+  - xaydungchinhsach.chinhphu.vn
+status: "full"
+status_note: "OCR từ PDF gốc 144-ndcp.signed.pdf (961KB, 23 trang). Đã chuẩn hóa dấu tiếng Việt. Sửa đổi Điều 4, 9, 23, 26 NĐ 181/2025. Thay thế Phụ lục I, II."
 ---
 
-## THONG TIN VAN BAN
+# Nghị định 144/2026/NĐ-CP sửa đổi Nghị định 181/2025/NĐ-CP hướng dẫn Luật Thuế GTGT
 
-| Thuoc tinh | Noi dung |
+## Thông tin văn bản
+
+| Trường | Nội dung |
 |---|---|
-| **So hieu** | 144/2026/ND-CP |
-| **Loai van ban** | Nghi dinh |
-| **Noi ban hanh** | Chinh phu |
-| **Nguoi ky** | Cong Thong tin dien tu Chinh phu (VPCP) |
-| **Ngay ban hanh** | 05/05/2026 |
-| **Ngay hieu luc** | 20/06/2026 |
-| **Trang thai** | Hieu luc |
-| **Nguon** | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218020) |
-| **PDF goc** | [144-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/144-ndcp.signed.pdf) (signed - can OCR) |
+| Số hiệu | 144/2026/NĐ-CP |
+| Loại văn bản | Nghị định |
+| Cơ quan ban hành | Chính phủ |
+| Người ký | Phạm Minh Chính (Thủ tướng) |
+| Ngày ban hành | 05/05/2026 |
+| Ngày có hiệu lực | 20/06/2026 |
+| Trích yếu | Sửa đổi, bổ sung một số điều của Nghị định 181/2025/NĐ-CP hướng dẫn Luật Thuế GTGT |
+| Nhóm | Thuế / Phí, lệ phí / Thay đổi bổ sung |
+| Văn bản thay thế | NĐ 181/2025/NĐ-CP (được sửa đổi, bổ sung) |
 
----
+## Trích yếu
 
-## TRICH YEU
+Nghị định sửa đổi, bổ sung một số điều của Nghị định số 181/2025/NĐ-CP ngày 01/7/2025 của Chính phủ quy định chi tiết thực hiện một số điều của Luật Thuế giá trị gia tăng đã được sửa đổi, bổ sung một số điều bởi Nghị định số 359/2025/NĐ-CP ngày 31/12/2025 của Chính phủ.
 
-Nghi dinh sua doi, bo sung mot so dieu cua Nghi dinh so 181/2025/ND-CP ngay 01/7/2025 cua Chinh phu quy dinh chi tiet thuc hien mot so dieu cua Luat Thue gia tri gia tang da duoc sua doi, bo sung mot so dieu boi Nghi dinh so 359/2025/ND-CP ngay 31/12/2025 cua Chinh phu.
+## Căn cứ pháp lý
 
----
+- Luật Tổ chức Chính phủ số 63/2025/QH15
+- Luật Thuế giá trị gia tăng số 48/2024/QH15 (sửa đổi bổ sung bởi Luật 90/2025/QH15 và Luật 149/2025/QH15)
+- Theo đề nghị của Bộ trưởng Bộ Tài chính
 
-## CAN CU PHAP LY
+## Nội dung chi tiết
 
-- Luat To chuc Chinh phu so 63/2025/QH15
-- Luat Thue gia tri gia tang so 48/2024/QH15 (sua doi bo sung boi Luat 90/2025/QH15 va Luat 149/2025/QH15)
-- Theo de nghi cua Bo truong Bo Tai chinh
+### Điều 1. Sửa đổi, bổ sung một số điểm, khoản của Điều 4 (Nghị định 181/2025/NĐ-CP)
 
----
+1. Bổ sung khoản 3a vào sau khoản 3 như sau:
 
-## NOI DUNG CHI TIET (trich tu OCR toan van PDF)
+> 3a. Bảo hiểm nhân thọ, bảo hiểm sức khỏe, bảo hiểm người học, các dịch vụ bảo hiểm khác liên quan đến con người; bảo hiểm vật nuôi, bảo hiểm cây trồng, các dịch vụ bảo hiểm nông nghiệp khác; bảo hiểm tàu, thuyền, trang thiết bị và các dụng cụ cần thiết khác phục vụ trực tiếp đánh bắt thủy sản; tái bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm; bảo hiểm các công trình, thiết bị dầu khí, tàu chở dầu mang quốc tịch nước ngoài do nhà thầu dầu khí hoặc nhà thầu phụ nước ngoài thuê để hoạt động tại vùng biển Việt Nam, vùng biển chồng lấn mà Việt Nam và các quốc gia có bờ biển tiếp liền hay đối diện đã thỏa thuận đặt dưới chế độ khai thác chung.
 
-**Dieu 1. Sua doi, bo sung mot so diem, khoan cua Dieu 4 (Nghi dinh 181/2025/ND-CP)**
+2. Sửa đổi, bổ sung điểm d khoản 4 như sau:
 
-1. Bo sung khoan 3a vao sau khoan 3 nhu sau:
+> d) Bất động sản bao gồm bất động sản phải trả và bất động sản phải thu, bất động sản chứng chỉ tiền gửi.
 
-> 3a. Bao hiem nhan tho, bao hiem suc khoe, bao hiem nguoi hoc, cac dich vu bao hiem khac lien quan den con nguoi; bao hiem vat nuoi, bao hiem cay trong, cac dich vu bao hiem nong nghiep khac; bao hiem tau, thuyen, trang thiet bi va cac dung cu can thiet khac phuc vu truc tiep danh bac thuy san; tai bao hiem theo quy dinh cua phap luat ve kinh doanh bao hiem; bao hiem cac cong trinh, thiet bi dau khi, tau chua dau mang quoc tich nuoc ngoai do nha thau dau khi hoac nha thau phu nuoc ngoai thue de hoat dong tai vung bien Viet Nam, vung bien chong lan ma Viet Nam va cac quoc gia co bo bien tiep lien hay doi dien da thoa thuan dat duoi che do khai thac chung.
+3. Sửa đổi, bổ sung khoản 14 như sau:
 
-2. Sua doi, bo sung diem d khoan 4 nhu sau:
-
-> d) Ban no bao gom ban khoan phai tra va khoan phai thu, ban chung chi tien gui.
-
-3. Sua doi, bo sung khoan 14 nhu sau:
-
-> 14. San pham xuat khau la tai nguyen, khoang san khai thac chua che bien thanh san pham khac va san pham xuat khau la tai nguyen, khoang san khai thac da che bien thanh san pham khac theo dinh huong cua nha nuoc ve khong khuyen khich xuat khau, han che xuat khau cac tai nguyen, khoang san tho duoc quy dinh tai Danh muc (Phu luc I, Phu luc II) ban hanh kem theo Nghi dinh nay.
+> 14. Sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác chưa chế biến thành sản phẩm khác và sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác đã chế biến thành sản phẩm khác theo định hướng của Nhà nước về không khuyến khích xuất khẩu, hạn chế xuất khẩu các tài nguyên, khoáng sản thô được quy định tại Danh mục (Phụ lục I, Phụ lục II) ban hành kèm theo Nghị định này.
 >
-> Trong truong hop can thiet phai dieu chinh san pham xuat khau tai Danh muc (Phu luc I, Phu luc II) de phu hop voi boi canh kinh te - xa hoi, dinh huong cua nha nuoc ve khong khuyen khich xuat khau, han che xuat khau cac tai nguyen, khoang san tho trong tung thoi ky, Bo Cong Thuong xac dinh va de xuat dieu chinh Danh muc gui Bo Tai chinh chu tri, nghien cuu, phoi hop voi cac bo, co quan lien quan bao cao Chinh phu xem xet, quyet dinh.
+> Trong trường hợp cần thiết phải điều chỉnh sản phẩm xuất khẩu tài nguyên, khoáng sản trong Danh mục (Phụ lục I, Phụ lục II) để phù hợp với bối cảnh kinh tế - xã hội, định hướng của Nhà nước về không khuyến khích xuất khẩu, hạn chế xuất khẩu các tài nguyên, khoáng sản thô trong từng thời kỳ, Bộ Công Thương xác định và đề xuất điều chỉnh Danh mục gửi Bộ Tài chính chủ trì, nghiên cứu, phối hợp với các bộ, cơ quan liên quan báo cáo Chính phủ xem xét, quyết định.
 
-**Dieu 2. Sua doi, bo sung diem b khoan 1 Dieu 9**
+### Điều 2. Sửa đổi, bổ sung điểm b khoản 1 Điều 9
 
-> b) Doanh thu hang hoa, dich vu va doanh thu hoa hong dai ly duoc huong tu hoat dong dai ly ban hang hoa, dich vu thuoc doi tuong khong chiu thue gia tri gia tang; doanh thu hoa hong moi gioi dich vu bao hiem thuoc doi tuong khong chiu thue gia tri gia tang.
+> b) Doanh thu hàng hóa, dịch vụ và doanh thu hoa hồng đại lý được hưởng từ hoạt động đại lý bán hàng hóa, dịch vụ thuộc đối tượng không chịu thuế giá trị gia tăng; doanh thu hoa hồng môi giới dịch vụ bảo hiểm thuộc đối tượng không chịu thuế giá trị gia tăng.
 
-**Dieu 3. Sua doi, bo sung mot so diem cua khoan 2 Dieu 23**
+### Điều 3. Sửa đổi, bổ sung một số điểm của khoản 2 Điều 23
 
-1. Sua doi, bo sung diem a nhu sau:
+1. Sửa đổi, bổ sung điểm a như sau:
 
-> a) Tong doanh thu cua hang hoa, dich vu ban ra bao gom doanh thu cua hang hoa, dich vu chiu thue gia tri gia tang; doanh thu cua hang hoa, dich vu khong chiu thue gia tri gia tang; gia tri gia tang cua hoat dong mua, ban, che tac va, bạc, đa quy (tru truong hop gia tri gia tang am (-)) va doanh thu cua hang hoa, dich vu quy dinh tai khoan 2 Dieu 40 Nghi dinh nay (neu co).
-> Rieng doanh thu cua to chuc tin dung, chi nhanh ngan hang nuoc ngoai duoc xac dinh theo quy dinh cua phap luat ve cac to chuc tin dung; doanh thu cua hoat dong ve chung khoan va thi truong chung khoan duoc xac dinh theo quy dinh cua phap luat ve chung khoan; doanh thu cua hoat dong kinh doanh bao hiem duoc xac dinh theo quy dinh cua phap luat ve kinh doanh bao hiem.
+> a) Tổng doanh thu của hàng hóa, dịch vụ bán ra bao gồm doanh thu của hàng hóa, dịch vụ chịu thuế giá trị gia tăng; doanh thu của hàng hóa, dịch vụ không chịu thuế giá trị gia tăng; giá trị gia tăng của hoạt động mua, bán, chế tác vàng, bạc, đá quý (trừ trường hợp giá trị gia tăng âm (-)) và doanh thu của hàng hóa, dịch vụ quy định tại khoản 2 Điều 40 Nghị định này (nếu có).
+>
+> Riêng doanh thu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xác định theo quy định của pháp luật về các tổ chức tín dụng; doanh thu của hoạt động về chứng khoán và thị trường chứng khoán được xác định theo quy định của pháp luật về chứng khoán; doanh thu của hoạt động kinh doanh bảo hiểm được xác định theo quy định của pháp luật về kinh doanh bảo hiểm.
 
-2. Bo sung diem c vao sau diem b nhu sau:
+2. Bổ sung điểm c vào sau điểm b như sau:
 
-> c) Doanh thu cua hang hoa, dich vu chiu thue gia tri gia tang quy dinh tai khoan nay bao gom ca doanh thu cua hang hoa khong phai ke khai, tinh nop thue gia tri gia tang (neu co) quy dinh tai khoan 1 Dieu 3 Luat Thue gia tri gia tang so 48/2024/QH15 da duoc sua doi, bo sung boi Luat so 149/2025/QH15.
+> c) Doanh thu của hàng hóa, dịch vụ chịu thuế giá trị gia tăng quy định tại khoản này bao gồm cả doanh thu của hàng hóa không phải kê khai, tính nộp thuế giá trị gia tăng (nếu có) quy định tại khoản 1 Điều 3 Luật Thuế giá trị gia tăng số 48/2024/QH15 đã được sửa đổi, bổ sung bởi Luật số 149/2025/QH15.
 
-**Dieu 4. Sua doi, bo sung diem g khoan 2 Dieu 26**
+### Điều 4. Sửa đổi, bổ sung điểm g khoản 2 Điều 26
 
-> g) Doi voi hang hoa, dich vu mua tra cham, tra gon co gia tri hang hoa, dich vu mua tu 05 trieu dong tro len, co so kinh doanh can cu vao hop dong mua hang hoa, dich vu bang van ban, hoa don gia tri gia tang va chung tu thanh toan khong dung tien mat cua hang hoa, dich vu mua tra cham, tra gon de khau tru thue gia tri gia tang dau vao. Truong hop chua co chung tu thanh toan khong dung tien mat do chua den thoi diem thanh toan theo hop dong, phu luc hop dong thi co so kinh doanh van duoc khau tru thue gia tri gia tang dau vao. Den thoi diem thanh toan theo hop dong, phu luc hop dong, co so kinh doanh khong co chung tu thanh toan khong dung tien mat thi co so kinh doanh phai ke khai, dieu chinh giam so thue gia tri gia tang dau vao duoc khau tru doi voi phan gia tri hang hoa, dich vu khong co chung tu thanh toan khong dung tien mat vao ky tinh thue phat sinh nghia vu thanh toan theo hop dong, phu luc hop dong. Truong hop sau khi dieu chinh, co so kinh doanh co chung tu thanh toan khong dung tien mat thi co so kinh doanh duoc ke khai, khau tru so thue gia tri gia tang dau vao doi voi phan gia tri hang hoa, dich vu co chung tu thanh toan khong dung tien mat vao ky tinh thue co chung tu thanh toan khong dung tien mat.
+> g) Đối với hàng hóa, dịch vụ mua trả chậm, trả góp có giá trị hàng hóa, dịch vụ mua từ 05 triệu đồng trở lên, cơ sở kinh doanh căn cứ vào hợp đồng mua hàng hóa, dịch vụ bằng văn bản, hóa đơn giá trị gia tăng và chứng từ thanh toán không dùng tiền mặt của hàng hóa, dịch vụ mua trả chậm, trả góp để khấu trừ thuế giá trị gia tăng đầu vào. Trường hợp chưa có chứng từ thanh toán không dùng tiền mặt do chưa đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng thì cơ sở kinh doanh vẫn được khấu trừ thuế giá trị gia tăng đầu vào. Đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng, cơ sở kinh doanh không có chứng từ thanh toán không dùng tiền mặt thì cơ sở kinh doanh phải kê khai, điều chỉnh giảm số thuế giá trị gia tăng đầu vào được khấu trừ đối với phần giá trị hàng hóa, dịch vụ không có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế phát sinh nghĩa vụ thanh toán theo hợp đồng, phụ lục hợp đồng. Trường hợp sau khi điều chỉnh, cơ sở kinh doanh có chứng từ thanh toán không dùng tiền mặt thì cơ sở kinh doanh được kê khai, khấu trừ số thuế giá trị gia tăng đầu vào đối với phần giá trị hàng hóa, dịch vụ có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế có chứng từ thanh toán không dùng tiền mặt.
 
-**Dieu 5. Thay the Danh muc (Phu luc I, Phu luc II)**
+### Điều 5. Thay thế Danh mục (Phụ lục I, Phụ lục II)
 
-Thay the Danh muc cac san pham xuat khau la tai nguyen, khoang san khong khuyen khich xuat khau (Phu luc I) va han che xuat khau (Phu luc II) theo quy dinh tai Nghi dinh nay.
+Thay thế Danh mục các sản phẩm xuất khẩu là tài nguyên, khoáng sản không khuyến khích xuất khẩu (Phụ lục I) và hạn chế xuất khẩu (Phụ lục II) theo quy định tại Nghị định này.
 
-**Dieu 6. Dieu khoan thi hanh**
+### Điều 6. Điều khoản thi hành
 
-1. Nghi dinh nay co hieu luc thi hanh ke tu ngay 20 thang 6 nam 2026.
-2. Cac Bo truong, Thu truong co quan ngang bo, Chu tich Uy ban nhan dan cac tinh, thanh pho truc thuoc trung uong va cac to chuc, ca nhan co lien quan chiu trac nhiem thi hanh Nghi dinh nay.
+1. Nghị định này có hiệu lực thi hành kể từ ngày 20 tháng 6 năm 2026.
 
----
-
-## GHI CHU PHUONG PHAP
-
-- Toan van PDF goc: 23 trang, 961KB
-- File PDF goc la PDF signed (chu ky so CAdES-BES), can OCR de trich xuat noi dung
-- OCR da thuc hien bang pdftoppm -r 200 + tesseract -l vie theo Signed PDF OCR Pipeline (HEARTBEAT.md muc 8)
-- OCR output: /tmp/144-ndcp-ocr.txt (1297 dong)
-- Chat luong OCR kha tot, mot so loi nho can chinh sua thu cong (vi du: "30" bi doc thanh "3o", "1" bi doc thanh "l")
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
 ---
 
-## NGUON THAM KHAO
+## Nguồn tham khảo
 
-- [vanban.chinhphu.vn - Trang chi tiet](https://vanban.chinhphu.vn/?pageid=27160&docid=218020)
-- [PDF goc - 144-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/144-ndcp.signed.pdf)
-- [Toan van luatvietnam.vn](https://luatvietnam.vn/thue/nghi-dinh-144-2026-nd-cp-sua-doi-nghi-dinh-181-2025-ve-luat-thue-gtgt-433921-d1.html)
-- [Toan van xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-144-2026-nd-cp-sua-doi-bo-sung-mot-so-dieu-lien-quan-den-thue-gia-tri-gia-tang-119260508101923332.htm)
-- [Toan van baochinhphu.vn](https://baochinhphu.vn/sua-doi-bo-sung-mot-so-quy-dinh-ve-thue-gia-tri-gia-tang-102260506173207886.htm)
+- [vanban.chinhphu.vn - Trang chi tiết](https://vanban.chinhphu.vn/?pageid=27160&docid=218020)
+- [PDF gốc - 144-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/144-ndcp.signed.pdf)
+- [Toàn văn luatvietnam.vn](https://luatvietnam.vn/thue/nghi-dinh-144-2026-nd-cp-sua-doi-nghi-dinh-181-2025-ve-luat-thue-gtgt-433921-d1.html)
+- [Toàn văn xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-144-2026-nd-cp-sua-doi-bo-sung-mot-so-dieu-lien-quan-den-thue-gia-tri-gia-tang-119260508101923332.htm)
+- [Toàn văn baochinhphu.vn](https://baochinhphu.vn/sua-doi-bo-sung-mot-so-quy-dinh-ve-thue-gia-tri-gia-tang-102260506173207886.htm)
 
----
+## Văn bản liên quan
 
-## VAN BAN LIEN QUAN
-
-- [Thue phi le phi - Trang tong hop](/van-ban/thue-phi-le-phi-cac-khoan-thu-khac/)
-- Nghi dinh so 181/2025/ND-CP (duoc sua doi, bo sung)
-- Nghi dinh so 359/2025/ND-CP (sua doi mot so dieu)
-- Luat Thue gia tri gia tang so 48/2024/QH15
+- [Thuế, phí, lệ phí - Trang tổng hợp](/van-ban/thue-phi-le-phi-cac-khoan-thu-khac/)
+- Nghị định số 181/2025/NĐ-CP (được sửa đổi, bổ sung)
+- Nghị định số 359/2025/NĐ-CP (sửa đổi một số điều)
+- Luật Thuế giá trị gia tăng số 48/2024/QH15
