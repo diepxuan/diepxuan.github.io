@@ -1,3 +1,84 @@
+## Cập nhật 2026-07-07 (phiên Đệ #4 Content Reviewer — lần 33)
+
+### Review 5 văn bản gần đây nhất
+
+**Quy trình:** Quét van-ban/ → chọn 5 văn bản tháng 7/2026 → front matter + OCR issues + Điều/Chương. Phát hiện stub < 10KB + > 7 ngày. Review PR comments.
+
+#### File #1 — `van-ban/nang-luong/nghi-dinh-272-2026-nd-cp-dien-gio-ngoai-khoi.md`
+- **Loại:** Nghị định | **Dòng:** 53 | **Kích thước:** 3,367 bytes
+- **Điều:** 0 (stub metadata) | **Chương:** 0
+- **OCR issues:** 0
+- **Front matter:** ✅ Đầy đủ, metadata sạch, `docid: chua-xac-minh`, `trang_thai: Chưa hoàn thiện`
+- **Đánh giá:** ✅ **OK** — Stub metadata sạch. Nội dung trích yếu tổng hợp từ 6 nguồn. Trạng thái "Chưa hoàn thiện" rõ ràng. Cần toàn văn khi vanban.chinhphu.vn index xong.
+
+#### File #2 — `van-ban/giao-duc/182-2026-nd-cp-phu-cap-uu-dai-nha-giao.md`
+- **Loại:** Nghị định | **Dòng:** 351 | **Kích thước:** 26,107 bytes
+- **Điều:** 0 (PDF body — heading `Điều X.` không có `###` prefix) | **Chương:** 0
+- **OCR issues:** 0
+- **Front matter:** ⚠️ Có 2 kiểu field trộn: camelCase (`ngaybanhanh`, `ngayhieuluc`, `coquanbanhanh`) + snake_case (`ngay_ban_hanh`, `ngay_hieu_luc`, `co_quan_ban_hanh`). Docid: `218228` ✅
+- **Lỗi:** Heading body `Điều X.` không có `###` → script scan không detect được số Điều. Body chứa `---PAGE---` marker. Tuy nhiên nội dung PDF rõ ràng — 11 Điều (Điều 1-11).
+- **Đánh giá:** ⚠️ **Cần sửa** — (1) metadata trộn camelCase/snake_case, (2) body markers `---PAGE---` cần strip. Không nghiêm trọng nhưng không đạt tiêu chuẩn OK.
+
+#### File #3 — `van-ban/y-te/25-2026-tt-byt-quan-ly-chat-luong-xet-nghiem.md`
+- **Loại:** Thông tư | **Dòng:** 252 | **Kích thước:** 17,397 bytes
+- **Điều:** 6 (Điều 1-6), range ✅, missing ✅, duplicate ✅ | **Chương:** 0
+- **OCR issues:** 0
+- **Front matter:** ⚠️ Field `sohieu` (không dấu, camelCase), `ngaybanhanh`, `nguoiky`, `coquanbanhanh` — trộn kiểu. `group: Y tế` viết HOA đầu dòng (không match "y-te" convention). Tags có `y-te` nhưng `group` không match.
+- **Đánh giá:** ⚠️ **Cần sửa metadata** — Nội dung văn bản sạch, OCR 0 issues, Điều OK. Front matter cần chuẩn hóa: `group: y-te`, `so_hieu` snake_case. Không block merge nhưng nên fix đồng nhất.
+
+#### File #4 — `van-ban/xay-dung/37-2026-tt-bxd-huong-dan-phuong-phap-xac-dinh-dinh-muc-du-toan.md`
+- **Loại:** Thông tư | **Dòng:** 4,199 | **Kích thước:** 161,530 bytes (161 KB)
+- **Điều:** 4 (Điều 1-4), range ✅, missing ✅, duplicate ✅ | **Chương:** 0
+- **OCR issues:** 0
+- **Front matter:** ✅ Rất đầy đủ — `docid: 218630`, `nguon`, `pdf_sources` (7 file PDF), `toc: true`, `van-ban-thay-the` (5 văn bản), `can-cu-phap-ly`. Metadata chuẩn snake_case.
+- **Đánh giá:** ✅ **OK** — Văn bản hoàn thiện cao cấp. Phụ lục I-VI đầy đủ. Không cần action.
+
+#### File #5 — `van-ban/tu-phap-thi-hanh-an/231-2026-nd-cp-quan-ly-giam-sat-giao-duc-nguoi-chap-hanh-an-hinh-su-tai-cong-dong.md`
+- **Loại:** Nghị định | **Dòng:** 939 | **Kích thước:** 52,118 bytes
+- **Điều:** 23 (Điều 1-23), range ✅, missing ✅, duplicate ✅ | **Chương:** 5 (I, II, III, IV, V)
+- **OCR issues:** 1 (L920: `§` trong `THỦ §` = "Thủ tướng" bị OCR thành `THỦ §`) → **false positive** trong phần chữ ký nội bộ, không ảnh hưởng pháp lý.
+- **Front matter:** ⚠️ `title: "231/2026/NĐ-CP"` quá ngắn. `group: "Tư pháp - Hình sự"` có khoảng trắng → nên `tu-phap`.
+- **Đánh giá:** ✅ **OK** — Nội dung tốt, OCR 1 false positive, 23 Điều + 5 Chương OK. Metadata có thể cải thiện nhưng không block.
+
+### Stub files cần refactor (< 10KB + > 7 ngày)
+
+| File | Kích thước | Ngày tạo | Lý do | Ghi chú |
+|------|----------:|----------|-------|---------|
+| `nghi-dinh-252-2026-nd-cp-huong-dan-luat-quan-ly-thue.md` | **1,172 bytes** | 2026-07-07 | **Ưu tiên CAO** — chỉ 1172B stub. Trùng nhóm thuế với 253/2026/NĐ-CP. Cần kiểm tra thuvienphapluat.vn slug cho 252 vs 253 — nếu 252 = "hướng dẫn LQLT 2025 tổng quát" và 253 = "hướng dẫn Luật TNCN" → 2 văn bản khác nhau, cần crawl đầy đủ. Nếu 252 chỉ là summary/redirect của 253 → xóa stub. |
+| `quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 4,476 bytes | 2026-06-01 | 36 ngày tuổi, không có docid | **Ưu tiên TRUNG BÌNH** — cần xác minh đây có phải văn bản 2026 hay văn bản cũ. Nếu văn bản cũ thì không cần action. |
+
+### PR Comments Review
+
+| PR | Tuổi | Comment cuối | Phân loại | Action |
+|----|-----:|--------------|-----------|--------|
+| **#224** | 0 ngày | caothu159: Đệ #4 review lần 32 | Reviewer note | ✅ Sạch |
+| **#223** | 0 ngày | chatgpt-codex-connector: usage limits | Thông báo hệ thống | ✅ Bỏ qua |
+| **#220** | 3 ngày | caothu159: heartbeat auto 2026-07-04 | Reviewer note | ✅ Bỏ qua |
+| **#219** | 3 ngày | caothu159: heartbeat auto 2026-07-04 | Reviewer note | ✅ Bỏ qua |
+| **#218** | **9 ngày** | caothu159: heartbeat auto 02:59 ICT 2026-07-04 | **STALE — 9 ngày tuổi** | ⚠️ Khuyến nghị Sếp đóng/merge |
+
+**PR #218 stale:** `heartbeat/crawl-vanban-20260628` — 3 commits (42/TT-BCA 163d + 48/TT-BGDĐT 912d + tracking). Khuyến nghị Sếp merge để không treo lâu.
+
+### Tổng kết
+
+| File | Trạng thái | Action |
+|------|-----------|--------|
+| 272/2026/NĐ-CP | OK ✅ | Cần toàn văn (chờ vanban.chinhphu.vn index) |
+| 182/2026/NĐ-CP | ⚠️ Cần sửa | Chuẩn hóa metadata camelCase→snake_case; strip `---PAGE---` |
+| 25/2026/TT-BYT | ⚠️ Cần sửa | Chuẩn hóa `group: y-te`, `so_hieu` snake_case |
+| 37/2026/TT-BXD | OK ✅ | Không action |
+| 231/2026/NĐ-CP | OK ✅ | Cải thiện `title` + `group` metadata (optional) |
+| 252/2026/NĐ-CP | ⚠️ **Cần refactor** | Ưu tiên kiểm tra thuvienphapluat — xác định 252 vs 253 có trùng nội dung |
+| PR #218 | **STALE** | Khuyến nghị Sếp đóng/merge |
+
+### Đề xuất phiên tiếp theo
+
+1. **Crawl 252/2026/NĐ-CP:** Kiểm tra thuvienphapluat.vn slug cho 252 vs 253. Xác định 2 văn bản cùng nhóm thuế này có trùng nội dung không trước khi quyết định giữ/xóa.
+2. **Sửa metadata 182 và 25:** Commit fix nhỏ — đồng nhất front matter.
+3. **Merge #218:** Stale 9 ngày, khuyến nghị Sếp đóng.
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 31)
 
 ### Phát hiện mới: 272/2026/NĐ-CP + 1205/QĐ-TTg + 39/TT-BCT + 259/NĐ-CP + 46/TT-BXD — 5 văn bản mới
