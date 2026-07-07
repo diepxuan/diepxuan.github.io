@@ -1,3 +1,50 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 32)
+
+### Phát hiện mới: 80/2026/TT-BTC + 84/2026/TT-BTC + 29/2026/TT-NHNN + 265/2026/NĐ-CP (cập nhật ngày) + 1205/QĐ-TTg — 5 văn bản mới / cập nhật
+
+Quét vanban.chinhphu.vn dải docid 228800–230000 (API /portal/api/v2/vanban/detail trống hoàn toàn) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, tapchikinhtetaichinh.vn, thuehaiquan.tapchikinhtetaichinh.vn, vnbank.vn, soha.vn, cafef.vn, vov.vn, baomoi.com, baochinhphu.vn, vietnamplus.vn, vietnam.vn, baothanhhoa.vn, baophapluat.vn, xaluannews.com theo nhóm chủ đề: Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Y tế, Giáo dục, Giao thông, Xây dựng, Hành chính, Tư pháp, Công an, Ngân hàng, Lao động, Nông nghiệp, Tài chính, Năng lượng, Viễn thông, Báo chí, Thương mại điện tử. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 31 — 5 văn bản 272, 1205, 39, 259, 46): phát hiện **5 văn bản mới/chưa ghi** và cập nhật 1 ngày ban hành. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 80/2026/TT-BTC | ~30/06/2026 | **Sửa đổi, bổ sung quy định về đăng ký, hủy tư cách công ty đại chúng và báo cáo vốn điều lệ đã góp được kiểm toán** — xây dựng trên cơ sở Luật Chứng khoán sửa đổi 2024 và Luật Quản lý đầu tư vốn nhà nước 2025; bổ sung phương thức nộp hồ sơ điện tử qua tài khoản định danh điện tử (căn cước điện tử có giá trị pháp lý tương đương giấy tờ truyền thống); làm rõ căn cứ xác định thời điểm công ty không còn đáp ứng điều kiện công ty đại chúng (cơ cấu cổ đông: ngày đăng ký cuối cùng trong danh sách cổ đông; vốn: ngày tổ chức kiểm toán ký báo cáo kiểm toán); đơn giản hóa hồ sơ đăng ký công ty đại chúng (chỉ nộp GCNĐKDN khi cơ quan quản lý không khai thác được Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp); bổ sung quy trình xử lý khi doanh nghiệp không còn đáp ứng điều kiện (15 ngày báo cáo UBCKNN + công bố thông tin; sau 1 năm không khắc phục phải thủ tục hủy tư cách; UBCKNN xem xét 15 ngày kể từ hồ sơ hợp lệ); bổ sung cơ chế doanh nghiệp được duy trì tư cách nếu đã khắc phục trong 1 năm; thay thế Thông tư 19/2025/TT-BTC; hiệu lực **15/8/2026** | Ngân hàng / Tài chính / Chứng khoán | chua-xac-minh | **Chưa có** | Nguồn: tapchikinhtetaichinh.vn (toàn văn, "Bộ Tài chính vừa ban hành Thông tư số 80/2026/TT-BTC"), baochinhphu.vn, baomoi.com; ngày ban hành: ước đoán **~30/6/2026** (cùng đợt thông tư BTC 80–87); hiệu lực: **15/8/2026**; tác động công ty đại chúng, UBCKNN, Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam; cần xác minh ngày ban hành và docid |
+| 84/2026/TT-BTC | ~30/06/2026 | **Hoàn thuế giá trị gia tăng cho khách nước ngoài xuất cảnh** — chuẩn hóa quy trình điện tử hoàn thuế GTGT cho khách nước ngoài; thay thế hoàn toàn Thông tư 72/2014/TT-BTC và Thông tư 92/2019/TT-BTC; quy định mới về hồ sơ, thủ tục hoàn thuế điện tử cho người nước ngoài xuất cảnh; hiệu lực **01/7/2026** | Thuế / Tài chính / Du lịch | chua-xac-minh | **Chưa có** | Nguồn: thuehaiquan.tapchikinhtetaichinh.vn ("Thông tư số 84/2026/TT-BTC chính thức có hiệu lực từ 01/7/2026, thay thế hoàn toàn quy định cũ tại Thông tư số 72/2014/TT-BTC và Thông tư số 92/2019/TT-BTC"), thuvienphapluat.vn (đăng 07/07/2026, phụ lục); ngày ban hành: ước đoán **~30/6/2026** (cùng đợt TT BTC 80–87); hiệu lực: **01/7/2026**; tác động khách nước ngoài mua sắm tại Việt Nam, doanh nghiệp bán lẻ, cơ quan hải quan; cần xác minh ngày ban hành và docid |
+| 29/2026/TT-NHNN | 30/06/2026 | **Sửa đổi, bổ sung một số điều của Thông tư 39/2016/TT-NHNN về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng** — sửa đổi quy định cho vay của tổ chức tín dụng đối với khách hàng; quy định về hoạt động cho vay, điều kiện cho vay, quyền và nghĩa vụ của các bên; cập nhật phù hợp với Luật các Tổ chức tín dụng 2024 và các quy định mới; hiệu lực **01/7/2026** | Ngân hàng / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 439082, "Ngày 30/06/2026, Ngân hàng Nhà nước Việt Nam đã ban hành Thông tư 29/2026/TT-NHNN"), thuvienphapluat.vn (712742, toàn văn), vnbank.vn, soha.vn, baomoi.com, cafef.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực: **01/7/2026**; tác động toàn bộ tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, người vay; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 265/2026/NĐ-CP | **01/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực tiết kiệm, chống lãng phí** — quy định mức phạt: cảnh cáo chậm ban hành Chương trình tiết kiệm dưới 30 ngày; phạt tiền 1–3 triệu ban hành Chương trình không đầy đủ nội dung; phạt tiền 5–10 triệu không ban hành hoặc chậm từ 30 ngày trở lên; phạt tiền 10–15 triệu báo cáo không trung thực hoặc báo cáo chậm từ 30 ngày trở lên; hiệu lực **01/7/2026** | Hành chính / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: vietnam.vn ("Chính phủ ban hành Nghị định số 265/2026/NĐ-CP ngày 01/7/2026"), baothanhhoa.vn, baomoi.com, vov.vn; ngày ban hành: **01/7/2026** xác minh từ vietnam.vn và baothanhhoa.vn — **CẬP NHẬT** từ ước đoán ~30/6/2026 (lần 31); hiệu lực: **01/7/2026**; tác động toàn bộ cơ quan nhà nước, doanh nghiệp nhà nước; cần xác minh docid |
+| 1205/QĐ-TTg | 06/07/2026 | **Phê duyệt Đề án thí điểm thực hiện việc đánh giá, chấm điểm (KPI) về công tác xây dựng pháp luật** của các bộ, ngành — thí điểm đánh giá, chấm điểm công tác xây dựng pháp luật bằng KPI lần đầu tiên tại Việt Nam; Phó Thủ tướng Lê Tiến Châu ký; hiệu lực ngay (06/7/2026) | Hành chính / Xây dựng pháp luật | chua-xac-minh | **Chưa có** | Nguồn: vietnamplus.vn (Phó Thủ tướng ký ngày 6/7/2026), baotintuc.vn, suckhoedoisong.vn, daidoanket.vn, vov.vn, baomoi.com; ngày ban hành: **06/07/2026** (xác minh từ nhiều nguồn độc lập); hiệu lực: ngay 06/7/2026; tác động các bộ, ngành trong thí điểm đánh giá KPI xây dựng pháp luật; **ƯU TIÊN THẤP** — quyết định phê duyệt đề án, không phải văn bản quy phạm chính; cần xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 31)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 80/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 84/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 29/2026/TT-NHNN | **KHÔNG** | Thêm mới — Chưa có |
+| 265/2026/NĐ-CP | **CÓ** (lần 31, ngày ước đoán ~30/6) | **Cập nhật ngày** → chính xác **01/7/2026** |
+| 1205/QĐ-TTg | **CÓ** (lần 31) | Thêm mới — Chưa có (vẫn cần xác minh docid) |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Ngân hàng / Tài chính** (ưu tiên số 1): **29/2026/TT-NHNN** — sửa đổi Thông tư 39/2016/TT-NHNN về cho vay của tổ chức tín dụng; ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 439082), thuvienphapluat.vn (712742). Cần xác minh docid. Ưu tiên số 1.
+2. **Năng lượng / Điện gió ngoài khơi** (ưu tiên số 2 — đã stub): **272/2026/NĐ-CP** — điều kiện khảo sát, đầu tư điện gió ngoài khơi; vốn chủ sở hữu ≥1 tỷ/MW; hiệu lực 04/7/2026 đến 31/12/2030; ưu tiên rất cao. Cần bổ sung toàn văn. (Từ lần 31)
+3. **Thuế / Tài chính / Doanh nghiệp** (ưu tiên số 3): **255/2026/NĐ-CP** — quản lý thuế giao dịch liên kết; thay thế NĐ 20/2017; tác động doanh nghiệp FDI, công ty mẹ-con. Nguồn: luatvietnam.vn (slug 439613), thuvienphapluat.vn (713416). Cần xác minh docid và crawl chi tiết. (Từ lần 30)
+4. **Ngân hàng / Tài chính / Chứng khoán** (ưu tiên số 4): **80/2026/TT-BTC** — đăng ký, hủy tư cách công ty đại chúng; đẩy mạnh số hóa; thay thế TT 19/2025; hiệu lực 15/8/2026. Cần xác minh ngày ban hành và docid. (Từ lần 32)
+5. **Thuế / Tài chính** (ưu tiên số 5): **84/2026/TT-BTC** — hoàn thuế GTGT cho khách nước ngoài xuất cảnh, thay thế TT 72/2014 và TT 92/2019; hiệu lực 01/7/2026. Cần xác minh ngày ban hành và docid. (Từ lần 32)
+
+### Ghi chú xử lý
+
+- **5 văn bản** được thêm vào/cập nhật tracking lần 32: 80/2026/TT-BTC, 84/2026/TT-BTC, 29/2026/TT-NHNN, 265/2026/NĐ-CP (cập nhật ngày → 01/7/2026), 1205/QĐ-TTg.
+- **80/2026/TT-BTC**: Sửa đổi Thông tư 19/2025/TT-BTC về đăng ký, hủy tư cách công ty đại chúng; nộp hồ sơ điện tử qua tài khoản định danh điện tử; cơ chế duy trì tư cách nếu khắc phục trong 1 năm. Ngày ban hành ước đoán ~30/6/2026. Hiệu lực 15/8/2026. Tác động công ty đại chúng, UBCKNN.
+- **84/2026/TT-BTC**: Hoàn thuế GTGT cho khách nước ngoài xuất cảnh — chuẩn hóa quy trình điện tử; thay thế TT 72/2014 và TT 92/2019. Ngày ban hành ước đoán ~30/6/2026. Hiệu lực 01/7/2026. Tác động khách nước ngoài mua sắm tại Việt Nam.
+- **29/2026/TT-NHNN**: Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn — sửa đổi Thông tư 39/2016/TT-NHNN về cho vay của tổ chức tín dụng. Hiệu lực 01/7/2026. Cần xác minh docid.
+- **265/2026/NĐ-CP ngày ban hành CẬP NHẬT**: Xác minh **01/7/2026** từ vietnam.vn và baothanhhoa.vn — khác với ước đoán ~30/6/2026 ở lần 31. Đây là Nghị định được ban hành ngày 01/7/2026 (khác với đa số Nghị định cùng đợt 30/6/2026). Hiệu lực 01/7/2026.
+- **1205/QĐ-TTg**: Từ lần 31 — Phê duyệt Đề án thí điểm KPI xây dựng pháp luật, Phó Thủ tướng Lê Tiến Châu ký ngày 06/7/2026. Vẫn cần xác minh docid. Ưu tiên thấp — không phải văn bản quy phạm pháp luật chính.
+- **vanban.chinhphu.vn docid 228800–230000 trống hoàn toàn**: Văn bản tháng 7/2026 chưa được index. Tiếp tục theo dõi các dải docid cao hơn.
+- Nguồn: web_search Brave (tapchikinhtetaichinh.vn, thuehaiquan.tapchikinhtetaichinh.vn, luatvietnam.vn, thuvienphapluat.vn, vnbank.vn, soha.vn, cafef.vn, vov.vn, baomoi.com, baochinhphu.vn, vietnamplus.vn, vietnam.vn, baothanhhoa.vn, baophapluat.vn, xaluannews.com).
+- Ngày phát hiện: 2026-07-07 16:56 ICT
+- Phiên thực hiện: agent:github-io:subagent:c32193b9-4c01-46fa-9e19-c55b5b90a737 (Đệ #1 Discovery — lần 32)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #4 Content Reviewer — lần 33)
 
 ### Review 5 văn bản gần đây nhất
