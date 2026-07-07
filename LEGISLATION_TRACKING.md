@@ -111,6 +111,7 @@
 | Nghị định 269/2026/NĐ-CP | Văn hóa dân tộc thiểu số | ✅ Xác nhận 01/07/2026 |
 | Nghị định 271/2026/NĐ-CP | Giáo dục — Miễn phí SGK | ✅ Xác nhận 03/07/2026 |
 | Nghị định 240/2026/NĐ-CP | FTA, Xúc tiến xuất khẩu | Ban hành 26/06/2026 — ngoài ngưỡng |
+| Nghị định 232/2026/NĐ-CP | Viên chức — Vị trí việc làm | ✅ Đã crawl, Hoàn thiện — van-ban/lao-dong/232-2026-nd-cp-vi-tri-viec-lam-vien-chuc.md |
 
 ---
 
