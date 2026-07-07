@@ -124,5 +124,13 @@
 
 ---
 
+## STUB / CẦN BỔ SUNG NỘI DUNG
+
+| File | Số | Kích thước | Ngày sửa | Ghi chú |
+|------|-----|-----------|---------|---------|
+| `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 48/2026/TT-BCA (QCVN 11:2026/BCA) | 4,476 bytes | 2026-06-01 (mod) | Stub — nội dung summary 11 nhóm yêu cầu kỹ thuật; 37 ngày tuổi (mod); Cần xác minh docid, crawl toàn văn từ vanban.bocongan.gov.vn |
+
+---
+
 *Lần cập nhật tiếp theo: khoảng 07/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
 *Đệ #1 Discovery — github-io workspace*
