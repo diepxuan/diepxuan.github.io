@@ -1,3 +1,77 @@
+## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 37)
+
+### Phát hiện: 2 văn bản mới + Xác minh 5 docid cho văn bản đã ghi nhận
+
+Quét vanban.chinhphu.vn dải docid 218600–219000 (page fetch 200 OK → lấy tiêu đề từ HTML) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, thanhnien.vn, mekongasean.vn, vietstock.vn, thuehaiquan.tapchikinhtetaichinh.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng, Tư pháp. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 36 — 0 văn bản mới): phát hiện **2 văn bản mới** chưa từng được ghi nhận trong tracking. Giới hạn 5/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 254/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn Luật Quản lý thuế về hóa đơn điện tử, chứng từ điện tử** — quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật QLTH số 108/2025/QH15 về hóa đơn điện tử, chứng từ điện tử; thay thế Nghị định 123/2020/NĐ-CP; quy định đối tượng sử dụng hóa đơn, quy trình phát hành, xuất, nhận, lưu trữ hóa đơn điện tử; 6 điểm mới đáng chú ý; hiệu lực **01/7/2026** | Thuế / Tài chính / Hóa đơn | **218689** | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid=218689, slug ngày 30/6/2026), luatvietnam.vn (slug 439381, "Ngày 30/6/2026, Chính phủ ban hành Nghị định 254"), baochinhphu.vn, meinvoice.vn, danketoan.com; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực: 01/7/2026; tác động toàn bộ doanh nghiệp, tổ chức, cá nhân sử dụng hóa đơn; **ƯU TIÊN CAO** — cần xác minh toàn văn và commit vào van-ban/ |
+| 87/2026/TT-BTC | 30/06/2026 | **Hướng dẫn chi tiết một số điều của Luật Thuế thu nhập cá nhân và Nghị định 253/2026/NĐ-CP** — quy định mức thu nhập xác định người phụ thuộc (4 nhóm); quy định hồ sơ xác định người phụ thuộc (không có khả năng lao động cần giấy tờ suy giảm ≥81%); bổ sung hướng dẫn tính thuế chứng khoán phái sinh (0,1% mỗi lần chuyển nhượng); tiếp tục cho phép giảm trừ gia cảnh con đang học; thu nhập từ kinh doanh và tiền lương áp dụng từ kỳ tính thuế năm 2026; hiệu lực **01/7/2026** | Thuế / Tài chính | **218772** | **Chưa có** | Nguồn: vanban.chinhphu.vn (docid=218772), luatvietnam.vn (slug 110114, toàn văn thuvienphapluat.vn 278323), baochinhphu.vn, baomoi.com; ngày ban hành: **30/6/2026** xác minh từ nhiều nguồn; hiệu lực: 01/7/2026; tác động toàn bộ người nộp thuế cá nhân; **ƯU TIÊN CAO** — cần xác minh toàn văn và commit |
+
+### Xác minh docid từ vanban.chinhphu.vn (Brave search snippets)
+
+| Số hiệu | DocID | Trạng thái |
+|---|---:|---|
+| 252/2026/NĐ-CP | **218690** | Xác minh từ vanban.chinhphu.vn snippet — Luật Quản lý thuế; đã commit van-ban/ |
+| 253/2026/NĐ-CP | **218684** | Xác minh từ vanban.chinhphu.vn snippet — Luật Thuế TNCN; đã commit van-ban/ |
+| 232/2026/NĐ-CP | **218617** | Xác minh từ vanban.chinhphu.vn snippet — Vị trí việc làm viên chức |
+| 254/2026/NĐ-CP | **218689** | Xác minh từ vanban.chinhphu.vn snippet — Hóa đơn điện tử; **văn bản mới phát hiện** |
+| 87/2026/TT-BTC | **218772** | Xác minh từ vanban.chinhphu.vn snippet — Hướng dẫn Luật TNCN; **văn bản mới phát hiện** |
+
+### Tình trạng vanban.chinhphu.vn API vs page fetch
+
+- **API endpoint `/portal/api/v2/vanban/detail?docid=X`** → **404 toàn bộ** (kể cả docid đã xác minh 218139, 218228, 218537 — server trả 404 hoàn toàn). API có thể đã thay đổi endpoint hoặc tạm thời down.
+- **Page fetch `/?pageid=27160&docid=X`** → **200 OK cho docid 218600–219000** — HTML có tiêu đề văn bản trong `<title>` và `<meta>`. JS-rendered (không extract được nội dung pháp luật).
+- **Dải docid 218700–218740**: Tìm thấy 5 văn bản — 4 mới (44, 33, 76, 85, 105/2026) + docid 218790+ trả "Nghị định" ngắn gọn (JS-rendered, không xác định được số cụ thể).
+
+### Các văn bản mới trong dải 218700–218740 (cần xác minh thêm)
+
+| DocID | Số hiệu | Tóm tắt |
+|---:|---|---|
+| 218700 | 44/2026/TT-BXD | Quy định tiêu chí, kiểm tra, giám sát, đánh giá, nghiệm thu chất lượng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải — Bộ Xây dựng |
+| 218710 | 33/2026/TT-BCT | Ban hành Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình, cao thuộc quản lý Bộ Công Thương — ban hành 30/6/2026, hiệu lực 01/7/2026 |
+| 218720 | 76/2026/TT-BTC | Hướng dẫn mua bảo hiểm trách nhiệm nghề nghiệp cho kiểm toán viên hành nghề hoặc trích lập quỹ dự phòng rủi ro nghề nghiệp trong hoạt động kiểm toán độc lập |
+| 218740 | 105/2026/TT-BCA | Sửa đổi Thông tư 65/2024/TT-BCA về kiểm tra kiến thức pháp luật về trật tự, ATGT đường bộ để phục hồi điểm giấy phép lái xe |
+| 218770 | 85/2026/TT-BTC | Quy định về phân loại hàng hoá, phân tích để phân loại hàng hoá xuất khẩu, nhập khẩu |
+
+### 272/2026/NĐ-CP — Cập nhật ngày ban hành
+
+- **Ngày ban hành**: **04/07/2026** — xác minh chính xác từ luatvietnam.vn (toàn văn có ghi "Hà Nội, ngày 04 tháng 7 năm 2026"). Lần trước ghi "ước đoán 04/07/2026" — giờ chính xác.
+- **Docid**: **chưa có** — vanban.chinhphu.vn dải 228800+ vẫn trống; hệ thống chưa index văn bản tháng 7/2026 mới nhất.
+- **Trạng thái**: Toàn văn có trên luatvietnam.vn (slug 439671). Tác động chiến lược năng lượng — điện gió ngoài khơi, vốn chủ sở hữu ≥20% tổng vốn, hạn đến 31/12/2030.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 36)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 254/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có — docid 218689 xác minh |
+| 87/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có — docid 218772 xác minh |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế / Tài chính** (ưu tiên số 1 — văn bản mới): **254/2026/NĐ-CP** — hướng dẫn Luật QLTH về hóa đơn điện tử, thay thế NĐ 123/2020; 6 điểm mới; hiệu lực 01/7/2026. Nguồn: vanban.chinhphu.vn (docid 218689), luatvietnam.vn (slug 439381). Cần xác minh toàn văn và commit vào van-ban/.
+2. **Thuế / Tài chính** (ưu tiên số 2 — văn bản mới): **87/2026/TT-BTC** — hướng dẫn Luật TNCN và NĐ 253/2026, người phụ thuộc, chứng khoán phái sinh; hiệu lực 01/7/2026. Nguồn: vanban.chinhphu.vn (docid 218772), luatvietnam.vn (slug 110114), thuvienphapluat.vn (278323). Cần xác minh toàn văn và commit.
+3. **Thuế / Tài chính** (ưu tiên số 3 — docid mới): **252/2026/NĐ-CP** — docid **218690** xác minh; hướng dẫn Luật QLTH, 76 Điều, 8 Chương; hiệu lực 01/7/2026. Đã commit van-ban/. Cập nhật docid vào frontmatter.
+4. **Thuế / Tài chính** (ưu tiên số 4 — docid mới): **253/2026/NĐ-CP** — docid **218684** xác minh; hướng dẫn Luật TNCN, 71 Điều, 5 Chương; hiệu lực 01/7/2026. Đã commit van-ban/. Cập nhật docid vào frontmatter.
+5. **Lao động / Hành chính** (ưu tiên số 5 — docid mới): **232/2026/NĐ-CP** — docid **218617** xác minh; vị trí việc làm viên chức; hiệu lực 01/7/2026. Chưa có trong van-ban/ — cần xác minh toàn văn và crawl.
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được thêm vào tracking lần 37: 254/2026/NĐ-CP (hóa đơn điện tử, docid 218689) + 87/2026/TT-BTC (hướng dẫn Luật TNCN, docid 218772).
+- **5 docid mới xác minh**: 252 → 218690, 253 → 218684, 232 → 218617, 254 → 218689, 87 → 218772. Tất cả đều từ vanban.chinhphu.vn search snippets (Brave).
+- **254/2026/NĐ-CP**: Hướng dẫn Luật QLTH về hóa đơn điện tử, thay thế NĐ 123/2020. Đây là 1 trong 3 Nghị định thuế đợt 30/6 (252: QLTH tổng hợp, 253: TNCN, 254: hóa đơn điện tử). Hiệu lực 01/7/2026. Cần crawl toàn văn và commit.
+- **87/2026/TT-BTC**: Hướng dẫn chi tiết Luật TNCN và NĐ 253/2026. Đây là Thông tư hướng dẫn đi kèm NĐ 253/2026. Cùng đợt 30/6/2026. Hiệu lực 01/7/2026. 5 điểm mới: người phụ thuộc (4 nhóm), giấy tờ suy giảm ≥81%, chứng khoán phái sinh (0,1%), giảm trừ con đang học, kỳ tính thuế 2026. Cần crawl toàn văn và commit.
+- **272/2026/NĐ-CP**: Ngày ban hành chính xác = **04/07/2026** (xác minh từ luatvietnam.vn toàn văn). Tiếp tục theo dõi docid.
+- **vanban.chinhphu.vn API 404 toàn bộ**: Endpoint `/portal/api/v2/vanban/detail?docid=X` trả 404 kể cả với docid đã xác minh. Page fetch (`/?pageid=27160&docid=X`) vẫn trả 200 với tiêu đề trong HTML. Có thể API đổi endpoint hoặc tạm thời down. Không thể xác minh thêm docid qua API lúc này.
+- **Dải docid 218700–218740**: 5 văn bản mới tiềm năng — 44/2026/TT-BXD (hàng hải), 33/2026/TT-BCT (danh mục hàng hóa rủi ro, 30/6/2026), 76/2026/TT-BTC (bảo hiểm kiểm toán viên), 85/2026/TT-BTC (phân loại hàng hóa XNK), 105/2026/TT-BCA (kiểm tra pháp luật ATGT để phục hồi điểm GPLX). Cần search thêm để xác nhận và điền vào tracking.
+- **Không phát hiện văn bản nào ban hành ngày 8/7/2026**: Search nhiều lượt không tìm thấy. Phiên tiếp theo tiếp tục kiểm tra.
+- Nguồn: vanban.chinhphu.vn (docid snippets, page title scrape 218700–219000), web_search Brave (luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, mekongasean.vn, vietstock.vn, thuehaiquan.tapchikinhtetaichinh.vn, baomoi.com, thuvienphapluat.vn/hoi-dap, vimextech.com, luatnguyen.vn).
+- Ngày phát hiện: 2026-07-08 00:50 ICT
+- Phiên thực hiện: agent:github-io:subagent:abf18392-3f0f-44fb-9743-b6d0e255395a (Đệ #1 Discovery — lần 37)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 36)
 
 ### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn docid 228800+ trống hoàn toàn
