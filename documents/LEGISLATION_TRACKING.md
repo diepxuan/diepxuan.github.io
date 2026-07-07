@@ -1,5 +1,58 @@
 ---
 
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 20)
+
+### Phát hiện mới: 248, 249, 271/2026/NĐ-CP + 1202/QĐ-TTg + 46/TT-BXD — 5 văn bản mới
+
+Quét vanban.chinhphu.vn dải docid 220000–221000 (tìm văn bản ngày 03–07/7/2026) + web search xác minh từ luatvietnam.vn, baochinhphu.vn, xaydungchinhsach.chinhphu.vn, thuvienphapluat.vn, vietnam.vn. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-03 lần 19): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 248/2026/NĐ-CP | 30/06/2026 | Quy định chi tiết một số điều của **Luật Thương mại điện tử** — quy chế hoạt động livestream bán hàng trên nền tảng TMĐT; trách nhiệm tổ chức/cá nhân trong hoạt động TMĐT; quản lý nền tảng TMĐT; **xác thực điện tử danh tính người bán/livestream từ 01/01/2027**; hiệu lực **01/7/2026** | Thương mại / TMĐT | chua-xac-minh | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=220600` (docid trống); nguồn: luatvietnam.vn (slug 439399), vietnamplus.vn, luatvietnam.vn/tin-van-ban-moi; ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026 (quy chế livestream); xác thực livestreamer: 01/01/2027; tác động Shopee, TikTok Shop, Lazada, người livestream bán hàng, cơ quan quản lý TMĐT; **ƯU TIÊN CAO** — tác động hàng triệu người livestream, nền tảng TMĐT |
+| 249/2026/NĐ-CP | ~03/07/2026 | Quy định về **thi hành việc trục xuất, tổ chức quản lý và các chế độ đối với người lưu trú tại cơ sở lưu trú trong thời gian chờ xuất cảnh** — chi tiết trình tự, thủ tục trục xuất; quy định cơ sở lưu trú, chế độ đối với người chờ xuất cảnh; hiệu lực cần xác minh | Hành chính / Nhập cư | chua-xac-minh | **Chưa có** | URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=220600` (docid trống); nguồn: vietnam.vn (chi-dao-4-7-2026), baochinhphu.vn; ngày ban hành: ước đoán 03/7/2026 (công bố 04/7); tác động người nước ngoài, cơ quan quản lý xuất nhập cảnh; **ƯU TIÊN TRUNG BÌNH** — cần xác minh ngày ban hành/hiệu lực chính xác |
+| 271/2026/NĐ-CP | 03/07/2026 | Quy định về **miễn phí sách giáo khoa giáo dục phổ thông và miễn học phí, giáo trình môn học Giáo dục quốc phòng và an ninh** tại cơ sở giáo dục đại học, giáo dục nghề nghiệp — mô hình mượn-trả; thực hiện từ năm học 2029-2030; ưu tiên triển khai sớm khu vực biên giới, hải đảo, vùng đồng bào dân tộc thiểu số; hiệu lực cần xác minh | Giáo dục / Chính sách xã hội | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin-van-ban-moi 04/7/2026, slug 439477), baomoi.com, vietbao.vn, phunutoday.vn; ngày ban hành: 03/7/2026; tác động toàn bộ học sinh phổ thông, phụ huynh, nhà trường; **ƯU TIÊN TRUNG BÌNH** — hiệu lực xa (2029-2030), nhưng tác động giáo dục rộng |
+| 1202/QĐ-TTg | 03/07/2026 | Phê duyệt **Đề án đào tạo phát triển nguồn nhân lực cho lĩnh vực tiêu chuẩn, đo lường, chất lượng** trong phạm vi cả nước đến năm 2030 và những năm tiếp theo — phó Thủ tướng Hồ Quốc Dũng ký; hiệu lực ngay | KHCN / Tài chính | chua-xac-minh | **Chưa có** | Nguồn: vietnam.vn (chi-dao-4-7-2026); ngày ban hành: 03/7/2026; tác động cơ quan tiêu chuẩn, đo lường, chất lượng các cấp; **ƯU TIÊN THẤP** — quyết định phê duyệt đề án |
+| 46/2026/TT-BXD | 30/06/2026 | **Ban hành Quy chuẩn kỹ thuật quốc gia về quy hoạch đô thị và nông thôn** — thay thế quy chuẩn cũ; quy định nội dung, phương pháp lập quy hoạch đô thị và nông thôn; hiệu lực cần xác minh | Xây dựng / Quy hoạch | chua-xac-minh | **Chưa có** | Nguồn: thuvienphapluat.vn (713388), thuvienphapluat.vn/hoi-dap; ngày ban hành: 30/6/2026; tác động quy hoạch đô thị, nông thôn các cấp; **ƯU TIÊN TRUNG BÌNH** — cần xác minh ngày hiệu lực |
+
+### Quét docid 220000–221000 — Kết quả: DẢI ĐANG ĐƯỢC INDEX
+
+- **220600**: vanban.chinhphu.vn trả "Chi tiết văn bản ban hành" nhưng nội dung trống (docid đang được index). Các văn bản ngày 03–07/7/2026 có thể đang ở giai đoạn index đầu tiên.
+- **220700–221000**: chưa quét (nằm ngoài scope lần này).
+- **Lưu ý**: Trên luatvietnam.vn (cập nhật 07/7/2026) hiện có 12 văn bản ngày **06/07/2026** và 7 văn bản ngày **07/07/2026** trong mục "Văn bản mới". Các văn bản này có thể được index vào dải 221000+ hoặc 222000+ trong các phiên kế tiếp.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-03 lần 19)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 248/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 249/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 271/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 1202/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 46/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thương mại / TMĐT** (rất cao — hiệu lực 01/7/2026): **248/2026/NĐ-CP** — quy chế livestream bán hàng trên Shopee, TikTok, Lazada; xác thực livestreamer từ 01/01/2027; tác động hàng triệu người bán/livestream online. Cần xác minh docid. Ưu tiên số 1.
+2. **Giáo dục / Chính sách** (trung bình — hiệu lực xa 2029-2030): **271/2026/NĐ-CP** — miễn phí sách giáo khoa phổ thông; mô hình mượn-trả; tác động toàn bộ giáo dục phổ thông. Cần xác minh docid. Ưu tiên số 2.
+3. **Xây dựng / Quy hoạch** (trung bình): **46/2026/TT-BXD** — quy chuẩn quy hoạch đô thị và nông thôn; thay thế quy chuẩn cũ. Cần xác minh docid và ngày hiệu lực. Ưu tiên số 3.
+4. **Hành chính / Nhập cư** (trung bình): **249/2026/NĐ-CP** — trục xuất người nước ngoài, cơ sở lưu trú chờ xuất cảnh; cần xác minh ngày ban hành/hiệu lực chính xác. Ưu tiên số 4.
+5. **KHCN / Tài chính** (thấp): **1202/QĐ-TTg** — đào tạo nhân lực tiêu chuẩn, đo lường, chất lượng đến 2030. Ưu tiên số 5.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 20: 248, 249, 271/2026/NĐ-CP + 1202/QĐ-TTg + 46/TT-BXD — ban hành 30/6–03/7/2026.
+- **248/2026/NĐ-CP**: Quy định chi tiết Luật TMĐT — quy chế livestream bán hàng bắt buộc (Shopee, TikTok phải có quy chế riêng), xác thực điện tử livestreamer từ 01/01/2027, cảnh báo lừa đảo công nghệ cao. Đây là văn bản có tác động rất rộng đến thương mại điện tử Việt Nam.
+- **271/2026/NĐ-CP**: Miễn phí sách giáo khoa phổ thông — thực hiện từ 2029-2030 theo mô hình mượn-trả qua thư viện. Đồng thời miễn học phí và giáo trình GDQP&AN tại ĐH, CĐNN.
+- **249/2026/NĐ-CP**: Quy định trục xuất người nước ngoài — phát hiện từ tổng hợp ngày 04/7/2026 trên vietnam.vn.
+- **1202/QĐ-TTg**: Phê duyệt đề án nhân lực tiêu chuẩn đo lường chất lượng đến 2030 — Phó Thủ tướng Hồ Quốc Dũng ký ngày 03/7/2026.
+- **46/2026/TT-BXD**: Quy chuẩn quy hoạch đô thị và nông thôn — ban hành 30/6/2026 bởi Bộ Xây dựng. Thay thế quy chuẩn cũ.
+- **luatvietnam.vn cập nhật 07/7/2026**: Có 12 văn bản ngày 06/07 và 7 văn bản ngày 07/07 — cần quét thêm ở phiên tiếp theo để xác định số hiệu và docid cụ thể.
+- Nguồn: vanban.chinhphu.vn (docid 220600 trống), luatvietnam.vn (slug 439399, tin-van-ban-moi 04/7), thuvienphapluat.vn (713388), vietnam.vn (chi-dao-4-7-2026), vietnamplus.vn, baomoi.com, xaydungchinhsach.chinhphu.vn.
+- Ngày phát hiện: 2026-07-07 11:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:f9ec35fa-e582-4381-82b8-c096e8b40680 (Đệ #1 Discovery — lần 20)
+
+---
+
 ## Cập nhật 2026-07-03 (phiên Đệ #1 Discovery — lần 19)
 
 ### Phát hiện mới: 220/2026/NĐ-CP — 1 văn bản mới
@@ -1763,4 +1816,18 @@ Qua web_search, phat hien 3 văn bản mới chua co trong tracking (ngay ban ha
 - Nguồn: web_search Brave tổng hợp luatvietnam.vn (slug 439381, 110095), thuvienphapluat.vn.
 - Ngày phát hiện: 2026-07-07 10:12 ICT (lần 21) + 11:25 ICT (lần 22 bổ sung)
 - Phiên thực hiện: Bột cập nhật tay từ memory (conflict resolution)
+
+
+## Cập nhật 2026-07-07 (bổ sung từ Discovery lần 21 — bị mất trong conflict)
+
+### Văn bản bổ sung
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 246/2026/NĐ-CP | 29/06/2026 | **Quy định xử lý vi phạm hành chính trong lĩnh vực thủy sản** — xử phạt vi phạm trong khai thác, nuôi trồng, chế biến thủy sản; tăng chế tài nhằm gỡ "thẻ vàng" IUU của EC đối với thủy sản Việt Nam; thay thế các NĐ cũ về xử phạt thủy sản; hiệu lực **01/7/2026** | Nông nghiệp / Thủy sản | chua-xac-minh | **Chưa có** | URL: `https://doanhnghiephoinhap.vn/ap-dung-nghi-dinh-246-siet-manh-che-tai-xu-phat-thuy-san-de-go-the-vang-iuu-141985.html`; nguồn: doanhnghiephoinhap.vn (2026-07-04), luatvietnam.vn (2026-07-07); ngày ban hành: 29/6/2026; hiệu lực: 01/7/2026; tác động ngành thủy sản xuất khẩu, doanh nghiệp thủy sản; cần gỡ thẻ vàng IUU; ưu tiên trung bình |
+
+### Ghi chú
+- 246/2026/NĐ-CP bị mất trong conflict resolution poll 11:25. Khôi phục từ báo cáo Đệ #1 Discovery lần 21.
+- Nguồn: doanhnghiephoinhap.vn (2026-07-04), luatvietnam.vn (2026-07-07).
+- Ngày phát hiện: 2026-07-07 10:12 ICT (lần 21)
 
