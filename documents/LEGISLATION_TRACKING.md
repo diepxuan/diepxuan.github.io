@@ -1,3 +1,56 @@
+## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 39)
+
+### Phát hiện mới: 5 văn bản mới — 96/TT-BTC, 215/NĐ-CP, 222/NĐ-CP, 108/TT-BCA, 85/TT-BTC
+
+Quét vanban.chinhphu.vn dải docid 228800–245000 (API /portal/api/v2/vanban/detail → TẤT CẢ 404 HTML) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, thuehaiquan.tapchikinhtetaichinh.vn, spirit.vietnamairlines.com, vovgiaothong.vn, xaydungchinhsach.chinhphu.vn, baoxaydung.vn, baochinhphu.vn, baomoi.com, vov.vn, doanhnghiephoinhap.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng, Hàng không, Bảo hiểm. Ưu tiên: văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 34 — 5 văn bản 80, 84, 29, 265, 1205): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---| 
+| 96/2026/TT-BTC | 02/07/2026 | **Sửa đổi, bổ sung một số điều của Thông tư 67/2023/TT-BTC về hoạt động kinh doanh bảo hiểm** — quy định chi tiết về hoạt động kinh doanh bảo hiểm; sửa đổi điều kiện, hồ sơ, thủ tục kinh doanh bảo hiểm; quy định về đại lý bảo hiểm; bảo vệ dữ liệu cá nhân khách hàng trong kinh doanh bảo hiểm trên môi trường mạng; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Từ 01/7/2026, doanh nghiệp bảo hiểm bán sản phẩm trên môi trường mạng phải có chính sách bảo vệ dữ liệu cá nhân", slug 110189; tin "BHXH yêu cầu cập nhật kịp thời tiền đóng BHXH BHYT BHTN", slug 110162; tin "Bỏ chế độ tập sự đối với viên chức", slug 110148; tin "Giáo viên xét thăng hạng", slug 110153; đều nhắc đến Thông tư 96/2026/TT-BTC sửa đổi TT 67/2023/TT-BTC, **ban hành ngày 02/7/2026**); baomoi.com, luatvietnam.vn/bo-che-do-tap-su-doi-voi-vien-chuc; ngày ban hành: **02/7/2026** xác minh từ 4 bài viết riêng biệt; hiệu lực: **01/7/2026**; tác động doanh nghiệp bảo hiểm, đại lý bảo hiểm, khách hàng mua bảo hiểm trực tuyến; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 215/2026/NĐ-CP | 18/06/2026 | **Quy định chi tiết một số điều của Luật Hàng không dân dụng Việt Nam về an ninh hàng không** — quy định chi tiết về an ninh hàng không; đối tượng hành khách bị cấm bay có thời hạn hoặc vĩnh viễn; quy định về soi chiếu an ninh lại từ đầu; tăng chế tài uy hiếp an ninh hàng không; hiệu lực **01/7/2026** | Giao thông / Hàng không / An ninh | chua-xac-minh | **Chưa có** | Nguồn: soha.vn ("Ngày 18/6/2026, Chính phủ ban hành Nghị định số 215/2026/NĐ-CP quy định chi tiết một số điều của Luật Hàng không dân dụng Việt Nam, có hiệu lực từ ngày 1/7/2026"), spirit.vietnamairlines.com (bản tin tháng 6/2026: "Nghị định số 215/2026/NĐ-CP của Chính phủ ban hành ngày 18/6/2026 về An ninh hàng không"), reallogistics.vn, airtickets.vn, kenh14.vn, xaluannews.com; ngày ban hành: **18/6/2026** xác minh từ nhiều nguồn; hiệu lực: 01/7/2026; tác động hành khách, hãng hàng không, an ninh cảng hàng không; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 222/2026/NĐ-CP | 22/06/2026 | **Quy định về hoạt động bay** — quy định chi tiết về hoạt động bay dân dụng; nguyên tắc hoạt động bay tại sân bay; quy chế bay, phương thức bay; thẩm quyền cấp, sửa đổi và hủy bỏ phép bay (bổ sung Bộ Công an vào nhóm cơ quan có thẩm quyền từ 01/7/2026); hiệu lực **01/7/2026** | Giao thông / Hàng không | chua-xac-minh | **Chưa có** | Nguồn: spirit.vietnamairlines.com (bản tin tháng 6/2026: "Nghị định 222/2026/NĐ-CP ban hành ngày 22/6/2026 về hoạt động bay, có hiệu lực từ 01/7/2026"), thuvienphapluat.vn (tin "Toàn văn Nghị định 222/2026/NĐ-CP về hoạt động bay như thế nào? Ngày 22/06/2026, Chính phủ đã ban hành Nghị định 222/2026/NĐ-CP về hoạt động bay"), luatvietnam.vn (tin "Bộ Công an lần đầu được giao thẩm quyền cấp, sửa đổi, hủy bỏ phép bay từ 01/7/2026", slug 109800), kevesko.vn, nhandan.vn; ngày ban hành: **22/6/2026** xác minh từ nhiều nguồn; hiệu lực: 01/7/2026; tác động hãng hàng không, cơ quan quản lý bay, Bộ Công an; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 108/2026/TT-BCA | 30/06/2026 | **Quy định về đào tạo, sát hạch lái xe** — sửa đổi quy định về đào tạo, sát hạch lái xe ô tô; **bãi bỏ bài thi mô phỏng tình huống giao thông trên máy tính**; chỉ còn 3 phần thi: lý thuyết, sa hình, đường trường; thí sinh phải thi tuần tự từng phần; thay thế Thông tư 12/2025/TT-BCA; hiệu lực **01/7/2026** | Giao thông / Công an | chua-xac-minh | **Chưa có** | Nguồn: baomoi.com ("Thông tư số 108/2026/TT-BCA của Bộ Công an, bài thi mô phỏng trên máy tính chính thức được bãi bỏ", "Ngày đầu thực hiện Thông tư số 108/2026/TT-BCA về sát hạch, cấp giấy phép lái xe, thay thế Thông tư số 12/2025/TT-BCA"), congan.lamdong.gov.vn, daidoanket.vn, danviet.vn, vovgiaothong.vn, baolamdong.vn, cafef.vn; ngày ban hành: ước đoán **~30/6/2026** (cùng đợt thông tư BCA 30/6); hiệu lực: 01/7/2026; tác động học viên sát hạch lái xe, cơ sở đào tạo lái xe; **ƯU TIÊN THẤP** — cần xác minh ngày ban hành và docid |
+| 85/2026/TT-BTC | 30/06/2026 | **Quy định chi tiết về công tác phân loại hàng hóa và phân tích để phân loại hàng hóa xuất khẩu, nhập khẩu** — quy định chi tiết công tác phân loại, phân tích hàng hóa XNK tại Chi cục Kiểm định hải quan; xây dựng và khai thác cơ sở dữ liệu Danh mục hàng hóa XNK tại Việt Nam; cụ thể hóa Danh mục thuế quan hài hòa ASEAN (Danh mục AHTN); thay thế Thông tư 14/2015/TT-BTC và Thông tư 17/2021/TT-BTC; hiệu lực **15/9/2026** | Thuế / Hải quan | chua-xac-minh | **Chưa có** | Nguồn: thuehaiquan.tapchikinhtetaichinh.vn ("Bộ trưởng Bộ Tài chính vừa ký ban hành Thông tư số 85/2026/TT-BTC quy định chi tiết về công tác phân loại hàng hóa và phân tích để phân loại hàng hóa xuất khẩu, nhập khẩu"); ngày ban hành: ước đoán **~30/6/2026** (cùng đợt TT-BTC 80–88); hiệu lực: **15/9/2026** (chậm hơn đa số văn bản cùng đợt); tác động doanh nghiệp XNK, cơ quan hải quan; **ƯU TIÊN THẤP** — cần xác minh ngày ban hành và docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 34)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 96/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+| 215/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 222/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 108/2026/TT-BCA | **KHÔNG** | Thêm mới — Chưa có |
+| 85/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### Tình trạng vanban.chinhphu.vn — docid 228800–245000 TRỐNG HOÀN TOÀN
+
+- **curl API dải 228800–230000 (step 200)**: 0 docid có dữ liệu
+- **curl API dải 230000–240000 (step 500, 21 docid thử)**: TẤT CẢ 404 HTML
+- **curl API dải 236000–240000 (step 500, 9 docid)**: TẤT CẢ 404 HTML
+- **curl API dải 240000–245000 (step 500, 11 docid)**: TẤT CẢ 404 HTML
+- **Kết luận**: vanban.chinhphu.vn vẫn chưa index văn bản tháng 7/2026 (272+). Hệ thống index rất chậm.
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Hàng không / An ninh** (ưu tiên số 1): **215/2026/NĐ-CP** — an ninh hàng không, cấm bay vĩnh viễn; ngày ban hành **18/6/2026** xác minh; hiệu lực 01/7/2026. Cần xác minh docid.
+2. **Hàng không** (ưu tiên số 2): **222/2026/NĐ-CP** — hoạt động bay, Bộ Công an được giao thẩm quyền phép bay lần đầu; ngày ban hành **22/6/2026** xác minh. Cần xác minh docid.
+3. **Bảo hiểm** (ưu tiên số 3): **96/2026/TT-BTC** — sửa đổi Thông tư 67/2023/TT-BTC; ngày ban hành **02/7/2026** xác minh từ 4 nguồn; hiệu lực 01/7/2026. Cần xác minh docid.
+4. **Giao thông / Công an** (ưu tiên số 4): **108/2026/TT-BCA** — bãi bỏ thi mô phỏng sát hạch lái xe; hiệu lực 01/7/2026. Cần xác minh ngày ban hành và docid.
+5. **Hải quan / Thuế** (ưu tiên số 5): **85/2026/TT-BTC** — phân loại hàng hóa XNK; hiệu lực 15/9/2026. Cần xác minh ngày ban hành và docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 39. 2 trong số đó liên quan trực tiếp đến hàng không: 215 (an ninh, 18/6) và 222 (hoạt động bay, 22/6) — cùng nhóm cụ thể hóa Luật Hàng không dân dụng Việt Nam 130/2025/QH15 có hiệu lực 01/7/2026.
+- **96/2026/TT-BTC ngày ban hành**: Xác minh **02/7/2026** từ 4 bài viết riêng biệt trên luatvietnam.vn. Đây là Thông tư Bộ Tài chính mới nhất được ban hành sau đợt 30/6/2026. Sửa đổi Thông tư 67/2023/TT-BTC về kinh doanh bảo hiểm. Hiệu lực 01/7/2026. Tác động doanh nghiệp bảo hiểm, đại lý, khách hàng bảo hiểm trực tuyến. Cần xác minh docid.
+- **215/2026/NĐ-CP**: Ngày ban hành **18/6/2026** xác minh từ soha.vn và spirit.vietnamairlines.com. Hướng dẫn chi tiết Luật Hàng không dân dụng 130/2025/QH15 về an ninh hàng không. Có nội dung về cấm bay vĩnh viễn, soi chiếu an ninh. Cần xác minh docid.
+- **222/2026/NĐ-CP**: Ngày ban hành **22/6/2026** xác minh từ spirit.vietnamairlines.com, thuvienphapluat.vn, luatvietnam.vn (slug 109800). Hướng dẫn hoạt động bay. Bổ sung Bộ Công an vào nhóm cơ quan có thẩm quyền cấp phép bay — lần đầu tiên. Cần xác minh docid.
+- **108/2026/TT-BCA**: Sát hạch lái xe — bãi bỏ bài thi mô phỏng trên máy tính từ 01/7/2026. Còn 3 phần: lý thuyết, sa hình, đường trường. Ngày ban hành ước đoán 30/6/2026 (cùng đợt thông tư BCA). Thay thế Thông tư 12/2025/TT-BCA. Cần xác minh ngày chính xác và docid.
+- **85/2026/TT-BTC**: Phân loại hàng hóa XNK — cụ thể hóa Danh mục AHTN. Hiệu lực 15/9/2026 (chậm hơn cùng đợt). Ngày ban hành ước đoán 30/6/2026. Thay thế TT 14/2015 và TT 17/2021. Cần xác minh ngày chính xác và docid.
+- **273–280/2026/NĐ-CP**: Chưa phát hiện — có thể chưa ban hành (ngày 8/7/2026 là Thứ Tư, sau đợt ban hành thường thứ 5 cuối tháng).
+- Nguồn: vanban.chinhphu.vn (docid 228800–245000 trống hoàn toàn), web_search Brave (luatvietnam.vn, thuvienphapluat.vn, thuehaiquan.tapchikinhtetaichinh.vn, spirit.vietnamairlines.com, vovgiaothong.vn, xaydungchinhsach.chinhphu.vn, baoxaydung.vn, baochinhphu.vn, baomoi.com, vov.vn, doanhnghiephoinhap.vn, congan.lamdong.gov.vn, daidoanket.vn, danviet.vn, kevesko.vn, soha.vn, nhandan.vn, kenh14.vn, airtickets.vn, reallogistics.vn, xaluannews.com, cafef.vn, baolamdong.vn).
+- Ngày phát hiện: 2026-07-08 05:41 ICT
+- Phiên thực hiện: agent:github-io:subagent:bb69022e-5fe2-4c37-9f72-30a30641eb24 (Đệ #1 Discovery — lần 39)
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 37)
 
 ### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn docid 228800–236000 trống hoàn toàn
