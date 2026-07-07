@@ -3,7 +3,7 @@ layout: vanban
 title: "Thông tư 25/2026/TT-BYT sửa đổi, bổ sung một số điều của Thông tư 01/2013/TT-BYT, Thông tư 32/2023/TT-BYT, Thông tư 23/2024/TT-BYT và Thông tư 42/2025/TT-BYT"
 date: 2026-06-30
 modified: 2026-07-07
-group: Y tế
+group: y-te
 tags:
   - y-te
   - thong-tu
