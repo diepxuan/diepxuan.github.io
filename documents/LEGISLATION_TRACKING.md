@@ -42,6 +42,52 @@ Quét danh sách toàn văn luatvietnam.vn (danh sách 77 NĐ-CP có hiệu lự
 - Ngày phát hiện: 2026-07-07 05:33 ICT
 - Phiên thực hiện: agent:github-io:subagent:cd7aa131-72ad-49bb-a04f-d5f1a0a97d25 (Đệ #1 Discovery — lần 18)
 
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 19)
+
+### Phát hiện mới từ xaydungchinhsach.chinhphu.vn + web_search Brave tổng hợp tháng 7/2026 (tối đa 5 văn bản/lần)
+
+Quét xaydungchinhsach.chinhphu.vn (trang chính sách mới) + web_search Brave qua vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn, thuvienphapluat.vn, nafosted.gov.vn, vov.vn, baotintuc.vn theo nhóm chủ đề: Thuế, Xây dựng, Giao thông, Hàng không, Y tế, Giáo dục, Tài chính, Lao động, Báo chí, Tư pháp, Hành chính, KHCN. Ưu tiên văn bản ban hành cuối tháng 6 / đầu tháng 7/2026, hiệu lực 01/7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 18): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 252/2026/NĐ-CP | 30/06/2026 | **Hướng dẫn chi tiết Luật Quản lý thuế 2025** (Luật 108/2025/QH15, có hiệu lực 01/7/2026) — quy định chi tiết thủ tục thuế, quản lý thuế, khai thuế, nộp thuế, miễn giảm thuế, hoàn thuế, cưỡng chế nợ thuế, thanh tra thuế; thay thế các NĐ hướng dẫn Luật QLThuế 2019 và 2025; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **Chưa có** | URL: `https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-252-2026-ND-CP-huong-dan-Luat-Quan-ly-thue-713086.aspx`; nguồn: thuvienphapluat.vn (bài đăng 20 tiếng trước), luatvietnam.vn chính sách tháng 7 (đăng 2026-07-07); ngày ban hành: 30/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ người nộp thuế, doanh nghiệp, cơ quan thuế — **văn bản rất quan trọng** cùng nhóm với 253/2026 (TNCN); ưu tiên cao |
+| 231/2026/NĐ-CP | 25/06/2026 | **Quy định về quản lý, giám sát, giáo dục người chấp hành án hình sự tại cộng đồng** — cụ thể hóa Bộ luật Tố tụng hình sự, Luật Thi hành án hình sự; quy trình quản lý, giám sát, thời điểm bắt đầu/kết thúc giám sát, trách nhiệm cơ quan, chế độ thông tin; hiệu lực **01/7/2026** | Tư pháp / Tố tụng hình sự | chua-xac-minh | **Chưa có** | URL: `https://baochinhphu.vn/quy-dinh-thoi-diem-thuc-hien-quan-ly-giam-sat-giao-duc-nguoi-chap-hanh-an-hinh-su-tai-cong-dong-102260626071912818.htm`; nguồn: baochinhphu.vn (2026-06-26 đăng), vov.vn, baotintuc.vn, vietnamplus.vn; ngày ban hành: 25/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ người chấp hành án treo, án cải tạo không giam giữ, cơ quan Công an địa phương; ưu tiên cao |
+| 234/2026/NĐ-CP | 26/06/2026 | **Quy định về xử lý kỷ luật viên chức** — 4 hình thức kỷ luật (khiển trách, cảnh cáo, cách chức, buộc thôi việc); thời hiệu 05 năm (khiển trách) và 10 năm (các hình thức khác); thời hạn xử lý không quá 90 ngày (khẩn cấp 150 ngày); cụ thể hóa Luật Viên chức 2025; hiệu lực **01/7/2026** | Hành chính / Viên chức | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/quy-dinh-thoi-hieu-thoi-han-xu-ly-ky-luat-doi-voi-vien-chuc-119260630154411421.htm` (toàn văn trích đăng); nguồn: baochinhphu.vn (2026-06-30 đăng), luatvietnam.vn, thuvienphapluat.vn (2026-07-03); ngày ban hành: 26/6/2026; hiệu lực: 01/7/2026; tác động toàn bộ viên chức nhà nước, cơ quan quản lý viên chức; cùng nhóm với 232, 233, 235/2026 (Luật Viên chức 2025) |
+| 247/2026/NĐ-CP | ~27/06/2026 | **Quy định các biện pháp bảo đảm tái hòa nhập cộng đồng đối với người chấp hành xong hình phạt tù** — thông tin truyền thông, giáo dục tái hòa nhập; dạy nghề, vay vốn, tìm việc làm, tư vấn tâm lý, hỗ trợ pháp lý, xóa án tích; xây dựng mô hình tái hòa nhập cộng đồng; cụ thể hóa Luật Thi hành án hình sự; hiệu lực **01/7/2026** | Tư pháp / Thi hành án | chua-xac-minh | **Chưa có** | URL: `https://baotintuc.vn/thoi-su/bao-dam-tai-hoa-nhap-cong-dong-doi-voi-nguoi-chap-hanh-xong-hinh-phat-tu-20260703183712589.htm`; nguồn: baotintuc.vn (2026-07-03 đăng), vov.vn, baomoi.com; ngày ban hành: ~27/6/2026; hiệu lực: 01/7/2026; tác động người chấp hành xong án phạt tù, cơ quan thi hành án hình sự, chính quyền địa phương; cùng nhóm với 231/2026 |
+| 225/2026/NĐ-CP | 24/06/2026 | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ** — bổ sung trí tuệ nhân tăng (AI) vào chức năng Bộ KH&CN; giao nhiệm vụ xây dựng, quản lý, vận hành **nền tảng số quốc gia, nền tảng dùng chung, cơ sở dữ liệu chuyên ngành**; cơ cấu lại Cục Công nghiệp CNTT, Trung tâm CNTT, Vụ Kinh tế và Xã hội số; thay thế NĐ 55/2025/NĐ-CP; hiệu lực **01/7/2026** | Hành chính / KHCN | chua-xac-minh | **Chưa có** | URL: `https://xaydungchinhsach.chinhphu.vn/chinh-sach-moi.htm` (list), luatvietnam.vn (2026-07-05 đăng); nguồn: vov.vn (2026-07-01), luatvietnam.vn (2026-07-05), nhandan.vn, thethaovanhoa.vn, baotintuc.vn (infographic 2026-07-01); ngày ban hành: 24/6/2026; hiệu lực: 01/7/2026; tác động trực tiếp đến cơ cấu tổ chức Bộ KH&CN, nền tảng số quốc gia, doanh nghiệp công nghệ |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 18)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 252/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 231/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 234/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 247/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 225/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Thuế / Tài chính** (ưu tiên số 1 — đã có hiệu lực 01/7/2026): **252/2026/NĐ-CP** — hướng dẫn chi tiết Luật QLThuế 2025; cùng nhóm với 253/2026 (hướng dẫn TNCN 2025); tác động toàn bộ người nộp thuế, doanh nghiệp, cơ quan thuế. Nguồn: thuvienphapluat.vn (đã đăng toàn văn). Ưu tiên crawl cùng đợt với 253/2026.
+2. **Tư pháp / Tố tụng hình sự** (ưu tiên số 2 — đã có hiệu lực 01/7/2026): **231/2026/NĐ-CP** — quản lý, giám sát người chấp hành án hình sự tại cộng đồng; cùng nhóm với 247/2026 (tái hòa nhập cộng đồng). Nên crawl cả 2 cùng đợt.
+3. **Hành chính / Viên chức** (ưu tiên số 3 — đã có hiệu lực 01/7/2026): **234/2026/NĐ-CP** — xử lý kỷ luật viên chức; thời hiệu 05/10 năm; thời hạn xử lý 90/150 ngày; cùng nhóm với 232, 233, 235/2026 (Luật Viên chức 2025).
+4. **Tư pháp / Thi hành án** (ưu tiên số 4 — đã có hiệu lực 01/7/2026): **247/2026/NĐ-CP** — tái hòa nhập cộng đồng người chấp hành xong án phạt tù; dạy nghề, vay vốn, tìm việc làm, tư vấn tâm lý. Nên crawl cùng đợt với 231/2026.
+5. **Hành chính / KHCN** (ưu tiên số 5 — đã có hiệu lực 01/7/2026): **225/2026/NĐ-CP** — cơ cấu tổ chức Bộ KH&CN; AI và nền tảng số quốc gia; tác động cơ quan nhà nước, doanh nghiệp công nghệ.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 19.
+- **Nhóm tư pháp/tố tụng hình sự** (2 NĐ cùng đợt 01/7/2026): 231/2026 (giám sát án tại cộng đồng) + 247/2026 (tái hòa nhập cộng đồng) — nên crawl cùng đợt vì liên quan chặt chẽ, cùng tác động người chấp hành án.
+- **234/2026/NĐ-CP**: Thay thế NĐ hướng dẫn Luật Viên chức 2025 về xử lý kỷ luật. 4 hình thức kỷ luật, thời hiệu dài (05/10 năm), thời hạn xử lý 90/150 ngày. Cùng nhóm với 232, 233, 235/2026 đã phát hiện lần 16.
+- **225/2026/NĐ-CP**: Bổ sung AI vào chức năng Bộ KH&CN, giao nhiệm vụ quản lý nền tảng số quốc gia — phản ánh định hướng đổi mới quản lý nhà nước trong lĩnh vực công nghệ. Cùng nhóm với 224/2026 (chuyển đổi số) đã phát hiện lần 18.
+- **252/2026/NĐ-CP**: Cùng nhóm thuế với 253/2026 (TNCN) và 245/2026 (gia hạn thuế). Đây là văn bản hướng dẫn Luật QLThuế 2025 — văn bản nền tảng cho toàn bộ hệ thống thuế Việt Nam.
+- **Lưu ý docid chưa xác minh**: Tất cả 5 văn bản đều chưa xác minh docid từ vanban.chinhphu.vn (JS-rendered). Ước đoán dải docid: 219200–219350 (tháng 6/2026). Nguồn thay thế: thuvienphapluat.vn, luatvietnam.vn, xaydungchinhsach.chinhphu.vn.
+- **Nhóm bổ sung tiềm năng** (cần xác minh ở phiên sau): Thông tư 12/2026/TT-BNV (hướng dẫn điều chỉnh trợ cấp cán bộ xã), Thông tư 13/2026/TT-BNV (hướng dẫn lương cơ sở cho đối tượng hưởng lương công lập — đã có trong lần 16), Thông tư 14/2026/TT-BNV (hướng dẫn điều chỉnh lương hưu từ 01/7 — đã có trong lần 16), Thông tư 15/2026/TT-BNV, 261/2026/NĐ-CP (phụ cấp nghệ thuật biểu diễn — chưa xác minh số hiệu), 239/2026/NĐ-CP (xúc tiến thương mại — từ danh sách 77 NĐ-CP 01/7).
+- **Thiếu hụt nguồn**: Firecrawl 402 xảy ra ngẫu nhiên trên một số truy vấn. Chuyển hoàn toàn sang Brave web_search (không giới hạn credits). Nguồn chính: xaydungchinhsach.chinhphu.vn + thuvienphapluat.vn + luatvietnam.vn + baochinhphu.vn.
+- Nguồn: web_search Brave tổng hợp xaydungchinhsach.chinhphu.vn, baochinhphu.vn, luatvietnam.vn, thuvienphapluat.vn, vov.vn, baotintuc.vn, vietnamplus.vn, nafosted.gov.vn, nhandan.vn, thethaovanhoa.vn, baomoi.com, giadinh.suckhoedoisong.vn.
+- Ngày phát hiện: 2026-07-07 06:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:a1679697-0f6b-4a0d-9548-b7243aea460b (Đệ #1 Discovery — lần 19)
+
 ---
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 17)
 
