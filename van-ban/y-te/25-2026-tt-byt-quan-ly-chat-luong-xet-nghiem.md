@@ -11,14 +11,14 @@ tags:
   - xet-nghiem
   - kham-benh-chua-benh
   - cong-bo-phap-luat
-sohieu: 25/2026/TT-BYT
-ngaybanhanh: 2026-06-30
-ngayhieuluc: 2026-08-15
-nguoiky: Trần Văn Thuấn
-coquanbanhanh: Bộ Y tế
+so_hieu: 25/2026/TT-BYT
+ngay_ban_hanh: 2026-06-30
+ngay_hieu_luc: 2026-08-15
+nguoi_ky: Trần Văn Thuấn
+co_quan_ban_hanh: Bộ Y tế
 docid: "218704"
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
-trichyeu: "Sửa đổi, bổ sung một số điều của Thông tư 01/2013/TT-BYT, Thông tư 32/2023/TT-BYT, Thông tư 23/2024/TT-BYT và Thông tư 42/2025/TT-BYT về quản lý chất lượng xét nghiệm, khám sức khỏe, danh mục kỹ thuật và tiêu chuẩn sức khỏe người điều khiển phương tiện giao thông đường sắt"
+trich_yeu: "Sửa đổi, bổ sung một số điều của Thông tư 01/2013/TT-BYT, Thông tư 32/2023/TT-BYT, Thông tư 23/2024/TT-BYT và Thông tư 42/2025/TT-BYT về quản lý chất lượng xét nghiệm, khám sức khỏe, danh mục kỹ thuật và tiêu chuẩn sức khỏe người điều khiển phương tiện giao thông đường sắt"
 ---
 
 # Thông tư 25/2026/TT-BYT
