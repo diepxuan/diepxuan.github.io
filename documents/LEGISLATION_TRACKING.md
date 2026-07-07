@@ -1,3 +1,45 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 31)
+
+### Phát hiện mới: 272/2026/NĐ-CP + 1205/QĐ-TTg — 2 văn bản mới
+
+Quét vanban.chinhphu.vn dải docid 221000–228800 (JS-rendered, API /portal/api/v2/vanban/detail trống hoàn toàn) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, baomoi.com, vietnamplus.vn, vov.vn, doanhnghiephoinhap.vn, vietstock.vn, baotintuc.vn, nguonluc.com.vn, suckhoedoisong.vn, daidoanket.vn, vietnamnet.vn theo nhóm chủ đề. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 30 — 5 văn bản 255, 38, 87, 178, 223): phát hiện **2 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 272/2026/NĐ-CP | ~04/07/2026 | **Quy định chi tiết một số điều và biện pháp thi hành Nghị quyết số 253/2025/QH15 về cơ chế, chính sách phát triển năng lượng quốc gia giai đoạn 2026–2030** — quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai các dự án **điện gió ngoài khơi**; bổ sung điều kiện về năng lực tài chính, vốn góp và thủ tục đối với dự án điện gió ngoài khơi; tạo hành lang pháp lý minh bạch, thu hút đầu tư và thúc đẩy phát triển năng lượng tái tạo quy mô lớn; hiệu lực **04/7/2026** đến hết **31/12/2030** | Năng lượng / Điện gió ngoài khơi | chua-xac-minh | **Chưa có** | Nguồn: doanhnghiephoinhap.vn ("Từ ngày 4/7, Nghị định 272/2026/NĐ-CP chính thức có hiệu lực"), vietstock.vn ("quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai các dự án điện gió ngoài khơi theo Nghị quyết 253"), baomoi.com, nguonluc.com.vn, baotintuc.vn, vietstock.vn; ngày ban hành: **ước đoán 04/07/2026** (hiệu lực từ 04/7, có thể ban hành cùng ngày hoặc trước 1-2 ngày); hiệu lực: **04/7/2026 đến hết 31/12/2030**; tác động doanh nghiệp điện gió ngoài khơi, nhà đầu tư năng lượng tái tạo, Bộ Công Thương, Bộ Tài nguyên Môi trường; **ƯU TIÊN CAO** — điện gió ngoài khơi là lĩnh vực chiến lược, văn bản có hiệu lực ngay từ 04/7, cần xác minh ngày ban hành chính xác và docid |
+| 1205/QĐ-TTg | 06/07/2026 | **Phê duyệt Đề án thí điểm thực hiện việc đánh giá, chấm điểm (KPI) về công tác xây dựng pháp luật** của các bộ, ngành — thí điểm đánh giá, chấm điểm công tác xây dựng pháp luật bằng KPI lần đầu tiên tại Việt Nam; Phó Thủ tướng Lê Tiến Châu ký; hiệu lực ngay (06/7/2026) | Hành chính / Xây dựng pháp luật | chua-xac-minh | **Chưa có** | Nguồn: vietnamplus.vn (Phó Thủ tướng ký ngày 6/7/2026), baotintuc.vn, suckhoedoisong.vn, daidoanket.vn, vov.vn, baomoi.com; ngày ban hành: **06/07/2026** (xác minh từ nhiều nguồn độc lập); hiệu lực: ngay 06/7/2026; tác động các bộ, ngành trong thí điểm đánh giá KPI xây dựng pháp luật; **ƯU TIÊN THẤP** — quyết định phê duyệt đề án, không phải văn bản quy phạm chính, nhưng ghi nhận để theo dõi |
+
+### Quét docid 221000–228800 — Kết quả: DẢI TRỐNG HOÀN TOÀN
+
+- **221000–228800** (docid API /portal/api/v2/vanban/detail): **hoàn toàn trống** — toàn bộ văn bản ngày 04–07/7/2026 chưa được index trên vanban.chinhphu.vn. Văn bản mới phát hiện đều đến từ web_search Brave, chưa xác minh được docid trực tiếp.
+- **272/2026/NĐ-CP**: Docid chưa xác minh. Cần thử dải docid cao hơn (228800+) ở phiên tiếp theo hoặc tìm qua luatvietnam.vn slug.
+- **1205/QĐ-TTg**: Docid chưa xác minh. Cần thử dải docid cao hơn ở phiên tiếp theo.
+- **259/2026/NĐ-CP** (tuyển dụng viên chức, hiệu lực 01/7/2026): Phát hiện qua web_search nhưng giới hạn lần này là 2 văn bản; ghi nhận để xác minh ở lần 32.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 30)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 272/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 1205/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Năng lượng / Điện gió ngoài khơi** (rất cao — hiệu lực ngay 04/7/2026, đến 31/12/2030): **272/2026/NĐ-CP** — điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai dự án điện gió ngoài khơi; năng lực tài chính, vốn góp, thủ tục. Cần xác minh docid. Ưu tiên số 1.
+2. **Hành chính** (thấp — hiệu lực ngay 06/7/2026): **1205/QĐ-TTg** — thí điểm KPI xây dựng pháp luật. Cần xác minh docid. Ưu tiên số 2.
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được thêm vào tracking lần 31: 272/2026/NĐ-CP + 1205/QĐ-TTg — ban hành ~04–06/7/2026, thuộc tuần đầu tháng 7/2026.
+- **272/2026/NĐ-CP**: Quy định chi tiết điện gió ngoài khơi theo Nghị quyết 253/2025/QH15 — cơ chế, điều kiện khảo sát, đầu tư, triển khai dự án; siết điều kiện về năng lực tài chính, vốn góp. Hiệu lực 04/7/2026 đến hết 31/12/2030.
+- **1205/QĐ-TTg**: Thí điểm KPI xây dựng pháp luật — Phó Thủ tướng Lê Tiến Châu ký ngày 06/7/2026.
+- **vanban.chinhphu.vn docid API trống hoàn toàn**: Dải docid 221000–228800 không có văn bản nào được index (API /portal/api/v2/vanban/detail trả về trống). Văn bản ngày 04–07/7/2026 đang trong quá trình index hoặc nằm ở dải docid cao hơn.
+- Nguồn: web_search Brave (doanhnghiephoinhap.vn, vietstock.vn, baomoi.com, vietnamplus.vn, baotintuc.vn, nguonluc.com.vn, suckhoedoisong.vn, daidoanket.vn, vov.vn, vietnamnet.vn), vanban.chinhphu.vn (docid 221000–228800 trống hoàn toàn).
+- Ngày phát hiện: 2026-07-07 14:57 ICT
+- Phiên thực hiện: agent:github-io:subagent:1341c1b3-f77b-4423-80d1-5a3ce45581bc (Đệ #1 Discovery — lần 31)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 30)
 
 ### Phát hiện mới từ vanban.chinhphu.vn + web_search Brave tổng hợp (tối đa 5 văn bản/lần)
