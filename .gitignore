@@ -13,6 +13,7 @@ BoPhapDienDienTu/
 
 # Python virtual environment
 venv/
+.venv*/
 __pycache__/
 *.py[cod]
 *.class
@@ -63,3 +64,5 @@ MEMORY.md
 /.p*-thumb.png
 /.ocr-*
 /.cache/
+/.paddleocr-cache/
+/.paddlex-cache/
