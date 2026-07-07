@@ -1,24 +1,24 @@
 ---
+layout: vanban
 title: "Nghị định 253/2026/NĐ-CP Hướng dẫn Luật Thuế thu nhập cá nhân"
-date: "2026-06-30"
-modified: "2026-07-07"
+date: 2026-06-30
+modified: 2026-07-07
 so_hieu: "253/2026/NĐ-CP"
 ngay_ban_hanh: "2026-06-30"
 ngay_hieu_luc: "2026-07-01"
 co_quan_ban_hanh: "Chính phủ"
 nguoi_ky: "Phó Thủ tướng Hồ Đức Phớc"
-loai_van_ban: "Nghi dinh"
-docid: "253/2026/ND-CP"
-group: "Thue"
+loai_van_ban: "Nghị định"
+group: thue-phi-le-phi
 tags:
-  - "Thue TNCN"
-  - "Thu nhap ca nhan"
-  - "Giam tru gia canh"
-  - "Khau tru thue"
-  - "Quyet toan thue"
+  - thue-tncn
+  - thue-thu-nhap-ca-nhan
+docid: chua-xac-minh
 source: "datafiles.chinhphu.vn; vanban.chinhphu.vn"
-layout: vanban
+trang_thai: Hoan_thien
 ---
+
+
 
 # Nghị định 253/2026/NĐ-CP
 
