@@ -1,3 +1,52 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 33)
+
+### Phát hiện mới: 224/2026/NĐ-CP + 232/2026/NĐ-CP + 234/2026/NĐ-CP + 235/2026/NĐ-CP + 1539/QĐ-BTP — 5 văn bản mới
+
+web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, baomoi.com, cafef.vn, vov.vn, vietnamplus.vn, dantri.com.vn, thuvienphapluat.vn/hanh-chinh theo nhóm chủ đề: Hành chính, Lao động, Tư pháp, Tài chính. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 32 — 5 văn bản 80, 84, 29, 265, 1205): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 224/2026/NĐ-CP | 26/06/2026 | **Phân loại, công bố và công khai dịch vụ công** — quy định chi tiết phân loại dịch vụ công trực tuyến thành 4 mức độ (mức 1: cung cấp thông tin, mức 2: giao dịch một chiều, mức 3: giao dịch hai chiều, mức 4: giao dịch toàn trình kết nối Cơ sở dữ liệu quốc gia); hướng dẫn cơ quan có thẩm quyền phối hợp xây dựng, vận hành Cổng dịch vụ công; đẩy mạnh chuyển đổi số hành chính; hiệu lực **01/7/2026** | Hành chính / Chuyển đổi số | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Từ 01/7/2026, phân loại dịch vụ công trực tuyến chủ động thành 4 mức độ" — chi tiết tại Nghị định 224/2026/NĐ-CP, đăng 1 tuần trước), luatvietnam.vn (tin "Nghị định 221/2026 về nhà chức trách hàng không" kèm reference 224); ngày ban hành: ước đoán **26/6/2026** (cùng đợt 232, 233, 234, 235/2026/NĐ-CP hướng dẫn Luật Viên chức và hành chính); hiệu lực: 01/7/2026; tác động cơ quan nhà nước cung cấp dịch vụ công, người dân và doanh nghiệp; cần xác minh ngày ban hành và docid |
+| 232/2026/NĐ-CP | 26/06/2026 | **Quy định về vị trí việc làm viên chức** — quy định chi tiết về vị trí việc làm, mã số vị trí, tiêu chuẩn vị trí viên chức; mỗi vị trí việc làm viên chức phải có bản mô tả công việc và khung năng lực thống nhất; hướng dẫn xây dựng danh mục vị trí việc làm viên chức; thay thế các quy định cũ; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Từ 01/7/2026, mỗi vị trí việc làm viên chức phải có bản mô tả công việc và khung năng lực thống nhất", slug 438990, đăng 1 tuần trước — "Đây là tiện ích dành cho tài khoản thành viên" nhưng mô tả rõ nội dung), luatvietnam.vn/hanh-chinh/nghi-dinh-232-2026-nd-cp (438990); ngày ban hành: **26/6/2026** xác minh từ tin luatvietnam.vn đăng 1 tuần trước; hiệu lực: 01/7/2026; tác động đơn vị sự nghiệp công lập toàn quốc, viên chức; cần xác minh docid |
+| 234/2026/NĐ-CP | 26/06/2026 | **Quy định xử lý kỷ luật viên chức** — quy định chi tiết về xử lý kỷ luật viên chức; 4 trường hợp bị áp dụng hình thức kỷ luật buộc thôi việc tại Điều 11; viên chức bị Tòa án kết án phạt tù không được hưởng án treo hoặc phạm tội tham nhũng thì đương nhiên bị buộc thôi việc; viên chức quản lý phạm tội đương nhiên thôi giữ chức vụ; thời hiệu xử lý kỷ luật lên đến 10 năm; thay thế Nghị định 112/2020/NĐ-CP; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Đã có Nghị định 234/2026/NĐ-CP về xử lý kỷ luật viên chức từ 01/7/2026"), thuvienphapluat.vn (712635, toàn văn), xaydungchinhsach.chinhphu.vn (nghi-dinh-so-234-2026-nd-cp-ve-xu-ly-ky-luat-vien-chuc), luatquanghuy.vn, dantri.com.vn, tcnnld.vn; ngày ban hành: **26/6/2026** xác minh từ thuvienphapluat.vn và xaydungchinhsach; hiệu lực: 01/7/2026; tác động viên chức, cơ quan quản lý nhà nước về viên chức; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 235/2026/NĐ-CP | 26/06/2026 | **Về hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập** — quy định các công việc được ký kết hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập (không phải viên chức); đơn vị sự nghiệp công lập phải rà soát thực hiện tuyển dụng viên chức đối với biên chế được giao, không dùng hợp đồng thay thế tuyển dụng viên chức; tiền lương theo thỏa thuận hoặc theo bảng lương viên chức; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Tổng hợp Nghị định hướng dẫn Luật Viên chức 2025 có hiệu lực từ 1/7/2026" có đề cập 235/2026), thuvienphapluat.vn (277509, 278079, 62181), xaydungchinhsach.chinhphu.vn (nghi-dinh-so-235-2026-nd-cp-ve-hop-dong-thuc-hien-cong-viec-trong-don-vi-su-nghiep-cong-lap), luatnguyen.vn; ngày ban hành: **26/6/2026** xác minh từ thuvienphapluat.vn và xaydungchinhsach; hiệu lực: 01/7/2026; tác động đơn vị sự nghiệp công lập, lao động hợp đồng; **ƯU TIÊN THẤP** — cần xác minh docid |
+| 1539/QĐ-BTP | ~30/06/2026 | **Công bố thủ tục hành chính trong lĩnh vực bồi thường Nhà nước thuộc phạm vi chức năng quản lý Nhà nước của Bộ Tư pháp** — công bố thủ tục hành chính mới ban hành/thay thế trong lĩnh vực bồi thường nhà nước; thuộc Bộ Tư pháp quản lý; hiệu lực theo quy định của thủ tục được công bố | Tư pháp / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn/hanh-chinh/danh-sach-van-ban-linh-vuc-hanh-chinh-co-hieu-luc-thang-7-2026 (109928, đăng 1 tuần trước), xaydungchinhsach.chinhphu.vn; ngày ban hành: ước đoán **~30/6/2026** (cùng đợt công bố thủ tục hành chính BTP); tác động thủ tục bồi thường nhà nước, người dân và cơ quan tư pháp; cần xác minh ngày ban hành và docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 32)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 224/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 232/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 234/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 235/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 1539/QĐ-BTP | **KHÔNG** | Thêm mới — Chưa có |
+
+### Đề xuất ưu tiên phiên tiếp theo (crawl chi tiết)
+
+1. **Lao động / Hành chính** (ưu tiên số 1 — toàn văn đã có): **234/2026/NĐ-CP** — xử lý kỷ luật viên chức, thay thế NĐ 112/2020; ngày ban hành **26/6/2026** xác minh; hiệu lực 01/7/2026. Nguồn: thuvienphapluat.vn (712635, toàn văn), xaydungchinhsach.chinhphu.vn, luatquanghuy.vn. Cần xác minh docid và crawl chi tiết.
+2. **Lao động / Hành chính** (ưu tiên số 2 — toàn văn đã có): **232/2026/NĐ-CP** — vị trí việc làm viên chức, mô tả công việc và khung năng lực thống nhất; ngày ban hành **26/6/2026** xác minh; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (438990), thuvienphapluat.vn. Cần xác minh docid.
+3. **Lao động / Hành chính** (ưu tiên số 3 — toàn văn đã có): **235/2026/NĐ-CP** — hợp đồng công việc trong đơn vị sự nghiệp công lập; ngày ban hành **26/6/2026** xác minh; hiệu lực 01/7/2026. Nguồn: thuvienphapluat.vn (277509, 62181), xaydungchinhsach.chinhphu.vn. Cần xác minh docid.
+4. **Hành chính / Chuyển đổi số** (ưu tiên số 4): **224/2026/NĐ-CP** — phân loại dịch vụ công trực tuyến 4 mức độ; ngày ban hành ước đoán **26/6/2026**; hiệu lực 01/7/2026. Cần xác minh ngày ban hành và docid.
+5. **Tư pháp / Hành chính** (ưu tiên số 5): **1539/QĐ-BTP** — công bố thủ tục hành chính lĩnh vực bồi thường nhà nước; ngày ban hành ước đoán **~30/6/2026**. Cần xác minh ngày và docid.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 33: 224, 232, 234, 235/2026/NĐ-CP (hướng dẫn Luật Viên chức 2025) + 1539/QĐ-BTP (công bố thủ tục hành chính BTP).
+- **224/2026/NĐ-CP**: Phân loại dịch vụ công trực tuyến 4 mức độ — hướng dẫn thực hiện Đề án Chuyển đổi số quốc gia. Mức 4 là toàn trình kết nối Cơ sở dữ liệu quốc gia (tách biệt hồ sơ). Ngày ban hành ước đoán 26/6/2026 (cùng đợt 232-235). Hiệu lực 01/7/2026. Cần xác minh ngày và docid.
+- **232/2026/NĐ-CP**: Quy định vị trí việc làm viên chức — mỗi vị trí phải có bản mô tả công việc và khung năng lực thống nhất. Ngày ban hành **26/6/2026** xác minh từ tin luatvietnam.vn. Hiệu lực 01/7/2026. Cùng nhóm với 234, 235, 259/2026/NĐ-CP (4 Nghị định hướng dẫn Luật Viên chức 2025). Cần xác minh docid.
+- **234/2026/NĐ-CP**: Xử lý kỷ luật viên chức — toàn văn đã có trên thuvienphapluat.vn (712635) và xaydungchinhsach.chinhphu.vn. Ngày ban hành **26/6/2026** xác minh. Hiệu lực 01/7/2026. Thay thế Nghị định 112/2020/NĐ-CP (đã được sửa đổi bởi NĐ 71/2023). **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid.
+- **235/2026/NĐ-CP**: Hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập — phân biệt rõ hợp đồng lao động thông thường với hợp đồng thực hiện công việc. Ngày ban hành **26/6/2026** xác minh. Hiệu lực 01/7/2026. Cùng nhóm với 232, 234, 259/2026/NĐ-CP. Cần xác minh docid.
+- **1539/QĐ-BTP**: Công bố thủ tục hành chính trong lĩnh vực bồi thường nhà nước — quyết định của Bộ trưởng Bộ Tư pháp. Ngày ban hành ước đoán ~30/6/2026. Nguồn: luatvietnam.vn (109928 — danh sách văn bản hành chính hiệu lực tháng 7/2026). Cần xác minh ngày và docid.
+- **Nhóm Nghị định hướng dẫn Luật Viên chức 2025** (hiệu lực 01/7/2026): 232/2026 (vị trí việc làm), 234/2026 (kỷ luật), 235/2026 (hợp đồng công việc), 259/2026 (tuyển dụng, sử dụng, quản lý) — 4 Nghị định cùng hướng dẫn Luật Viên chức 129/2025/QH15 có hiệu lực 01/7/2026. 259 đã có trong tracking (lần 31). 232, 234, 235 đã ghi nhận lần 33.
+- **Không phát hiện văn bản tháng 7/2026 nào ban hành ngày 7/7/2026**: Tìm kiếm trên nhiều nguồn không thấy văn bản nào được ban hành chính xác ngày 7/7/2026. Tất cả văn bản tháng 7/2026 được phát hiện có ngày ban hành trước 7/7 (01/7, 03/7, 06/7) hoặc chưa được index. 1205/QĐ-TTg (06/7/2026) là văn bản mới nhất được ghi nhận trong tháng 7.
+- **Lưu ý: vanban.chinhphu.vn docid 228800–230000 vẫn trống hoàn toàn** — văn bản tháng 7/2026 chưa được index. Các văn bản mới phát hiện đều xác minh từ thuvienphapluat.vn, luatvietnam.vn, xaydungchinhsach.chinhphu.vn — chưa xác minh docid trực tiếp.
+- Nguồn: web_search Brave (luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, baomoi.com, cafef.vn, vov.vn, vietnamplus.vn, dantri.com.vn, luatvietnam.vn/hanh-chinh, luatnguyen.vn, luatquanghuy.vn, tcnnld.vn).
+- Ngày phát hiện: 2026-07-07 17:47 ICT
+- Phiên thực hiện: agent:github-io:subagent:adb17d3f-e2b1-448c-827b-73070ab26c27 (Đệ #1 Discovery — lần 33)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 32)
 
 ### Phát hiện mới: 80/2026/TT-BTC + 84/2026/TT-BTC + 29/2026/TT-NHNN + 265/2026/NĐ-CP (cập nhật ngày) + 1205/QĐ-TTg — 5 văn bản mới / cập nhật
