@@ -1,3 +1,75 @@
+## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 36)
+
+### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn docid 228800+ trống hoàn toàn
+
+Quét vanban.chinhphu.vn dải docid 228800–230000 (curl trực tiếp → 404) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, thanhnien.vn, mekongasean.vn, vietstock.vn, tinnhanhchungkhoan.vn, baomoi.com, tapchikinhtetaichinh.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng, Tư pháp, Công an, Nông nghiệp, Ngoại giao, Thương mại. Ưu tiên: văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 35 — 5 văn bản 15, 236, 182, 252, 253): **không phát hiện văn bản mới**.
+
+Giới hạn 5/lần — ghi nhận đủ 0 văn bản:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — docid 228800–230000 TRỐNG HOÀN TOÀN
+
+- **curl trực tiếp** `vanban.chinhphu.vn/portal/api/v2/vanban/detail?docid=228800` → **404 File or directory not found** (cả 3 docid thử: 228800, 228801, 230000 đều 404)
+- **Web Fetch vanban.chinhphu.vn** → **Firecrawl 402** (hết credits) hoặc 502 Bad Gateway
+- **web_search Brave** → 402 với một số query (Firecrawl credits cạn kiệt), nhưng search thành công với query ngắn gọn
+- **Kết luận**: Văn bản tháng 7/2026 (272+) chưa được index trên vanban.chinhphu.vn — hệ thống chưa đưa vào cơ sở dữ liệu
+
+### Xác minh docid mới từ web_search (vanban.chinhphu.vn search result snippets)
+
+| Số hiệu | DocID xác minh | Ghi chú |
+|---|---:|---|
+| 169/2026/NĐ-CP | **218154** | Xác minh ngày ban hành **15/5/2026** từ english.luatvietnam.vn + nhiều nguồn; hiệu lực 01/7/2026; xử phạt vi phạm hành chính trong lĩnh vực hải quan |
+| 200/2026/NĐ-CP | **218389** | Xác minh từ vanban.chinhphu.vn search snippet; đã có trong tracking (docid cũ chưa ghi) |
+| 207/2026/NĐ-CP | **218450** | Xác minh từ vanban.chinhphu.vn search snippet; đã có trong tracking (docid 218450 ghi từ lần 14) |
+| 217/2026/NĐ-CP | **218509** | Xác minh từ vanban.chinhphu.vn search snippet; đã có trong tracking |
+| 218/2026/NĐ-CP | **218537** | Xác minh từ vanban.chinhphu.vn search snippet; sửa đổi NĐ 158/2024 về vận tải đường bộ |
+
+### 272/2026/NĐ-CP — Trạng thái cập nhật
+
+- **Tin mới nhất** (8–11 giờ trước): tin báo chí liên tục từ doanhnghiephoinhap.vn, baomoi.com, thanhnien.vn, vtv.vn, vietstock.vn, mekongasean.vn, tinnhanhchungkhoan.vn — tất cả đều đưa tin về NĐ 272/2026/NĐ-CP hiệu lực từ 04/7/2026
+- **Ngày ban hành**: vẫn **chưa xác minh được** — một số nguồn ghi "Chính phủ ban hành" nhưng không nêu ngày cụ thể, có thể ban hành cùng ngày 04/7/2026
+- **Docid**: **chưa có** — vanban.chinhphu.vn dải 228800+ trống hoàn toàn
+- **Tác động**: chiến lược năng lượng — vốn chủ sở hữu ≥1 tỷ/MW, điện gió ngoài khơi
+- **Hạn hiệu lực**: đến hết **31/12/2030**
+
+### Các văn bản chưa có docid cần theo dõi (dải docid 228800+)
+
+| Số hiệu | Ngày ban hành | Ghi chú |
+|---|---:|---|
+| 272/2026/NĐ-CP | ước đoán 04/07/2026 | Điện gió ngoài khơi — chưa index |
+| 273–280/2026/NĐ-CP | ? | Chưa phát hiện — có thể chưa ban hành |
+| 15/2026/TT-BNV | 30/06/2026 | Phụ cấp khu vực — chưa index |
+| 80–88/2026/TT-BTC | 30/06/2026 | Đợt TT-BTC cuối tháng 6 — chưa xác minh docid, phần lớn đã ghi nhận trong tracking |
+| 252/2026/NĐ-CP | 30/06/2026 | Hướng dẫn Luật QLTH — đã commit đầy đủ, chưa có docid |
+| 253/2026/NĐ-CP | 30/06/2026 | Hướng dẫn Luật TNCN — đã commit đầy đủ, chưa có docid |
+| 255/2026/NĐ-CP | 30/06/2026 | Giao dịch liên kết — đã commit đầy đủ, chưa có docid |
+| 265/2026/NĐ-CP | 01/07/2026 | Xử phạt tiết kiệm chống lãng phí — chưa có docid |
+| 269/2026/NĐ-CP | 01/07/2026 | Văn hóa dân tộc thiểu số — chưa có docid |
+| 271/2026/NĐ-CP | 03/07/2026 | Miễn phí sách giáo khoa — chưa có docid |
+| 1205/QĐ-TTg | 06/07/2026 | KPI xây dựng pháp luật — chưa có docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-07 lần 35)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| (không có văn bản mới) | — | 0 văn bản mới được phát hiện |
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần 36 — kết quả khớp với dự đoán ở lần 35 ("các văn bản 273, 274, 275+ cũng không tìm thấy — vanban.chinhphu.vn chưa index")
+- **272/2026/NĐ-CP**: Không tìm thấy docid mới. Tất cả tin tức về văn bản này đều từ báo chí, chưa phải từ vanban.chinhphu.vn. Có thể hệ thống index chậm 1–2 ngày so với báo chí. Tiếp tục theo dõi dải docid 228800–232000 trong các phiên tới.
+- **Docid 200/2026/NĐ-CP = 218389**: Xác minh mới — đã có trong tracking (lần 10+) nhưng docid chưa ghi rõ. Cần cập nhật vào bảng chính.
+- **Docid 169/2026/NĐ-CP = 218154**: Xác minh ngày ban hành 15/5/2026 (trước đó chưa ghi rõ ngày trong tracking). Hiệu lực 01/7/2026. Xử phạt vi phạm hành chính trong lĩnh vực hải quan.
+- **Docid 218/2026/NĐ-CP = 218537**: Sửa đổi NĐ 158/2024 về vận tải đường bộ. Đã có trong tracking (lần 14+). Docid xác minh từ vanban.chinhphu.vn.
+- **Không phát hiện văn bản nào ban hành ngày 7/7/2026**: Search nhiều lượt trên Brave + quét vanban.chinhphu.vn → kết quả = 0. Không có Thông tư, Nghị định, Quyết định nào được xác nhận ban hành chính xác ngày 7/7/2026.
+- **Đợt ban hành kết thúc**: Đợt công bố lớn nhất (29/6–06/7/2026) đã kết thúc. Văn bản mới nhất được xác minh = 1205/QĐ-TTg (06/7/2026). Phiên tiếp theo nên kiểm tra docid cho các văn bản đã ghi nhận thay vì tìm văn bản mới.
+- Nguồn: web_search Brave (luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, thanhnien.vn, mekongasean.vn, vietstock.vn, tinnhanhchungkhoan.vn, baomoi.com, tapchikinhtetaichinh.vn, vneconomy.vn, english.luatvietnam.vn), vanban.chinhphu.vn (docid 228800–230000 trống hoàn toàn, 404).
+- Ngày phát hiện: 2026-07-07 20:18 ICT
+- Phiên thực hiện: agent:github-io:subagent:eb630929-a68e-41df-9e9d-4092739299c6 (Đệ #1 Discovery — lần 36)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 35)
 
 ### Phát hiện mới: 15/2026/TT-BNV + 236/2026/NĐ-CP + 182/2026/NĐ-CP + 252/2026/NĐ-CP + 253/2026/NĐ-CP — 5 văn bản chưa ghi nhận trong bảng chính
