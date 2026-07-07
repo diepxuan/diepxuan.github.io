@@ -515,3 +515,24 @@ Kết luận vận hành:
 - OCR quality gate phải chạy ngay trong crawler session.
 - Reviewer cuối PR chỉ là lớp phòng thủ thứ hai.
 - Nếu để lỗi OCR tới PR review mới sửa thì tốn thời gian và dễ merge nhầm văn bản sai nghĩa pháp lý.
+---
+
+## 15. PaddleOCR PP-OCRv6 CPU-only
+
+Pipeline OCR hiện có hỗ trợ optional engine PaddleOCR qua `scripts/ocr_pdf.py`:
+
+```bash
+python3 scripts/ocr_pdf.py --probe-paddle
+python3 scripts/ocr_pdf.py input.pdf output.txt --engine auto --doc-type nghi-dinh --priority normal
+python3 scripts/ocr_pdf.py input.pdf output.txt --engine server --no-fallback
+```
+
+Quy tắc vận hành:
+
+- Default vẫn là Tesseract để không phá pipeline hiện tại.
+- `--engine mobile` map sang PP-OCRv6 tiny model, dùng cho batch crawl.
+- `--engine server` map sang PP-OCRv6 medium model, dùng cho văn bản lớn, stub-revisit, hoặc audit-fail retry.
+- `--engine auto` chọn `server` khi `priority=high`, `doc-type=luat`, `doc-type=nghi-dinh-lon`, hoặc `doc-type=stub-revisit`; các trường hợp còn lại chọn `mobile`.
+- Luôn chạy `--probe-paddle` trên host mới trước khi giao việc OCR. Nếu probe fail, giữ Tesseract hoặc chuyển job sang host CPU mới hơn.
+
+Ghi chú host hiện tại: PaddlePaddle 3.x official CPU wheel không chạy được ổn định trên CPU hiện tại (fail `Illegal instruction`); PaddlePaddle 2.6.2 import được nhưng không tương thích đầy đủ với PaddleOCR 3.7 PP-OCRv6. Vì vậy PP-OCRv6 đã được tích hợp ở mức router/fallback, còn cutover thật cần host AVX2/FMA hoặc custom build PaddlePaddle.

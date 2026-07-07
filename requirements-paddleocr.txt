@@ -1,0 +1,15 @@
+# Optional OCR engine for scripts/ocr_pdf.py --engine mobile|server|auto.
+#
+# Compatibility note:
+# - PaddleOCR 3.x / PP-OCRv6 requires a PaddlePaddle 3.x runtime for full
+#   compatibility with paddlex 3.x.
+# - Official PaddlePaddle 3.x CPU wheels may require newer CPU instructions
+#   (typically AVX2/FMA). Run `python scripts/ocr_pdf.py --probe-paddle` before
+#   enabling this engine in production.
+# - If probe fails, keep using default Tesseract or install on an AVX2/FMA host.
+
+paddleocr==3.7.0
+paddlex==3.7.2
+paddlepaddle==3.0.0
+pdf2image==1.17.0
+pillow>=12.0.0

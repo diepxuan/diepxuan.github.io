@@ -9,9 +9,21 @@ Thư mục này chứa các scripts để xử lý dữ liệu văn bản pháp 
 ### `ocr_pdf.py`
 **OCR pipeline cho PDF văn bản pháp luật** - Tự động hóa toàn bộ quy trình OCR với kiểm tra chất lượng.
 
+Default vẫn là Tesseract để giữ tương thích:
+
 ```bash
 python3 scripts/ocr_pdf.py /tmp/<file>.pdf /tmp/<file>-ocr.txt [dpi=150]
 ```
+
+PaddleOCR PP-OCRv6 CPU-only là optional engine:
+
+```bash
+python3 scripts/ocr_pdf.py --probe-paddle
+python3 scripts/ocr_pdf.py /tmp/<file>.pdf /tmp/<file>-ocr.txt --engine auto --doc-type nghi-dinh
+python3 scripts/ocr_pdf.py /tmp/<file>.pdf /tmp/<file>-ocr.txt --engine server --no-fallback
+```
+
+Xem thêm: `documents/PADDLEOCR_CPU_ONLY_PLAN.md`.
 
 **Chức năng:**
 1. Kiểm tra kích thước PDF (file < 0.1 MB = có vấn đề, dừng)
