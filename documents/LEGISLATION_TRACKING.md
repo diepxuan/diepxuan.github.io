@@ -1,3 +1,60 @@
+## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 37)
+
+### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn docid 228800–236000 trống hoàn toàn
+
+Quét vanban.chinhphu.vn dải docid 228800–236000 (curl trực tiếp API /portal/api/v2/vanban/detail) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, thanhnien.vn, mekongasean.vn, vietstock.vn, tinnhanhchungkhoan.vn, baomoi.com, tapchikinhtetaichinh.vn, cafef.vn, vovgiaothong.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng. Ưu tiên: văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 36 — 0 văn bản mới): **không phát hiện văn bản mới**.
+
+Giới hạn 5/lần — ghi nhận đủ 0 văn bản:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — docid 228800–236000 TRỐNG HOÀN TOÀN
+
+- **curl trực tiếp** `vanban.chinhphu.vn/portal/api/v2/vanban/detail?id=228800-236000` (step 200) → **toàn bộ EMPTY** (không trả về sohieu nào)
+- **Kết luận**: Văn bản tháng 7/2026 số 272+ vẫn chưa được index trên vanban.chinhphu.vn
+
+### 272/2026/NĐ-CP — Cập nhật ngày ban hành
+
+- **Ngày ban hành xác minh: 04/7/2026** — xác minh từ baochinhphu.vn (tin "Quy định mới về điện gió ngoài khơi" đăng ngày 04/7/2026, ghi rõ "Nghị định số 272/2026/NĐ-CP" + hiệu lực từ 04/7/2026). Trước đó ước đoán "ban hành cùng ngày 04/7" — xác nhận đúng.
+- **Docid**: **chưa có** — vanban.chinhphu.vn dải 228800+ trống hoàn toàn
+- **Nội dung bổ sung**: vốn góp tối thiểu 5% (doanh nghiệp trong nước), 15% (nhà đầu tư nước ngoài); vốn chủ sở hữu ≥1 tỷ/MW
+- **Hiệu lực**: 04/7/2026 đến hết 31/12/2030
+
+### Văn bản đã có trong tracking — không phải mới
+
+Tất cả 5 văn bản lần 31 (272, 1205, 39, 259, 46) đều đã có trong tracking từ lần 31–32. Không phát hiện thêm văn bản nào chưa từng ghi nhận.
+
+### Các văn bản chưa có docid cần theo dõi (dải docid 228800+)
+
+| Số hiệu | Ngày ban hành | Ghi chú |
+|---|---:|--|
+| 272/2026/NĐ-CP | **04/07/2026** (xác minh) | Điện gió ngoài khơi — chưa index |
+| 273–280/2026/NĐ-CP | ? | Chưa phát hiện |
+| 15/2026/TT-BNV | 30/06/2026 | Phụ cấp khu vực — chưa index |
+| 252/2026/NĐ-CP | 30/06/2026 | Hướng dẫn Luật QLTH — đã commit, chưa có docid |
+| 253/2026/NĐ-CP | 30/06/2026 | Hướng dẫn Luật TNCN — đã commit, chưa có docid |
+| 255/2026/NĐ-CP | 30/06/2026 | Giao dịch liên kết — đã commit, chưa có docid |
+| 265/2026/NĐ-CP | 01/07/2026 | Xử phạt tiết kiệm chống lãng phí — chưa có docid |
+| 269/2026/NĐ-CP | 01/07/2026 | Văn hóa dân tộc thiểu số — chưa có docid |
+| 271/2026/NĐ-CP | 03/07/2026 | Miễn phí sách giáo khoa — chưa có docid |
+| 1205/QĐ-TTg | 06/07/2026 | KPI xây dựng pháp luật — chưa có docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 36)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|--|
+| (không có văn bản mới) | — | 0 văn bản mới được phát hiện |
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần 37 — vanban.chinhphu.vn vẫn chưa index văn bản tháng 7/2026 số 272+; chờ 1–2 ngày để hệ thống index
+- **272/2026/NĐ-CP ngày ban hành**: Xác minh **04/7/2026** (khác với ước đoán "cùng ngày hiệu lực 04/7" ở lần 31 — ước đoán đúng, nhưng trước đó không xác nhận được ngày). Cập nhật vào tracking.
+- Nguồn: vanban.chinhphu.vn (docid 228800–236000 trống hoàn toàn), web_search Brave (doanhnghiephoinhap.vn, vtv.vn, vietstock.vn, baomoi.com, cafef.vn, vovgiaothong.vn, luatvietnam.vn, thuvienphapluat.vn, xaydungchinhsach.chinhphu.vn, baochinhphu.vn, vanban.chinhphu.vn).
+- Ngày phát hiện: 2026-07-08 02:11 ICT
+- Phiên thực hiện: agent:github-io:subagent:67ce096b-5b65-4aac-a788-8001f2fc5bd7 (Đệ #1 Discovery — lần 37)
+
+---
+
 ## Cập nhật 2026-07-07 (phiên Đệ #1 Discovery — lần 36)
 
 ### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn docid 228800+ trống hoàn toàn
@@ -348,7 +405,7 @@ Quét vanban.chinhphu.vn dải docid 221000–228800 (JS-rendered, API /portal/a
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 272/2026/NĐ-CP | ~04/07/2026 | **Quy định chi tiết một số điều và biện pháp thi hành Nghị quyết số 253/2025/QH15 về cơ chế, chính sách phát triển năng lượng quốc gia giai đoạn 2026–2030** — quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai các dự án **điện gió ngoài khơi**; bổ sung điều kiện về năng lực tài chính, vốn góp và thủ tục đối với dự án điện gió ngoài khơi; đơn vị khảo sát phải có vốn chủ sở hữu tối thiểu 1 tỷ đồng/MW; tạo hành lang pháp lý thu hút đầu tư năng lượng tái tạo quy mô lớn; hiệu lực **04/7/2026** đến hết **31/12/2030** | Năng lượng / Điện gió ngoài khơi | chua-xac-minh | **Chưa có** | Nguồn: doanhnghiephoinhap.vn ("Từ ngày 4/7, Nghị định 272/2026/NĐ-CP chính thức có hiệu lực"), vietstock.vn ("quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai các dự án điện gió ngoài khơi theo Nghị quyết 253"), baochinhphu.vn (baochinhphu.vn/quy-dinh-moi-ve-dien-gio-ngoai-khoi), mekongasean.vn; ngày ban hành: **ước đoán 04/07/2026** (hiệu lực từ 04/7, có thể ban hành cùng ngày); hiệu lực: **04/7/2026 đến hết 31/12/2030**; tác động doanh nghiệp điện gió ngoài khơi, nhà đầu tư năng lượng tái tạo, Bộ Công Thương, Bộ Tài nguyên Môi trường; **ƯU TIÊN RẤT CAO** — điện gió ngoài khơi là lĩnh vực chiến lược, văn bản có hiệu lực ngay từ 04/7, cần xác minh docid |
+| 272/2026/NĐ-CP | **04/07/2026** (xác minh) | **Quy định chi tiết một số điều và biện pháp thi hành Nghị quyết số 253/2025/QH15 về cơ chế, chính sách phát triển năng lượng quốc gia giai đoạn 2026–2030** — quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai các dự án **điện gió ngoài khơi**; vốn chủ sở hữu tối thiểu 1 tỷ đồng/MW; vốn góp tối thiểu 5% (doanh nghiệp trong nước), 15% (nhà đầu tư nước ngoài); tạo hành lang pháp lý thu hút đầu tư năng lượng tái tạo quy mô lớn; hiệu lực **04/7/2026** đến hết **31/12/2030** | Năng lượng / Điện gió ngoài khơi | chua-xac-minh | **Chưa có** | Nguồn: doanhnghiephoinhap.vn, vtv.vn, vietstock.vn, baochinhphu.vn, mekongasean.vn, luatvietnam.vn (slug 110174, "Muốn khảo sát điện gió ngoài khơi phải có vốn tối thiểu 1 tỷ đồng/MW"); ngày ban hành: **04/7/2026** xác minh từ baochinhphu.vn (tin đăng 04/7/2026 ghi rõ "Nghị định 272/2026/NĐ-CP" + hiệu lực 04/7/2026); hiệu lực: 04/7/2026 đến 31/12/2030; tác động doanh nghiệp điện gió ngoài khơi, nhà đầu tư năng lượng tái tạo; **ƯU TIÊN RẤT CAO** — chiến lược năng lượng, cần xác minh docid |
 | 1205/QĐ-TTg | 06/07/2026 | **Phê duyệt Đề án thí điểm thực hiện việc đánh giá, chấm điểm (KPI) về công tác xây dựng pháp luật** của các bộ, ngành — thí điểm đánh giá, chấm điểm công tác xây dựng pháp luật bằng KPI lần đầu tiên tại Việt Nam; Phó Thủ tướng Lê Tiến Châu ký; hiệu lực ngay (06/7/2026) | Hành chính / Xây dựng pháp luật | chua-xac-minh | **Chưa có** | Nguồn: vietnamplus.vn (Phó Thủ tướng ký ngày 6/7/2026), baotintuc.vn, suckhoedoisong.vn, daidoanket.vn, vov.vn, baomoi.com; ngày ban hành: **06/07/2026** (xác minh từ nhiều nguồn độc lập); hiệu lực: ngay 06/7/2026; tác động các bộ, ngành trong thí điểm đánh giá KPI xây dựng pháp luật; **ƯU TIÊN THẤP** — quyết định phê duyệt đề án, không phải văn bản quy phạm chính |
 | 39/2026/TT-BCT | 30/06/2026 | **Ban hành Quy chuẩn kỹ thuật quốc gia đồ uống có cồn (QCVN 30:2026/BCT)** — quy chuẩn kỹ thuật quốc gia về đồ uống có cồn do Bộ Công Thương ban hành kèm theo; quy định các yêu cầu về chất lượng, an toàn thực phẩm và quản lý đối với sản phẩm đồ uống có cồn; hiệu lực **01/01/2027** | Tài chính / Tiêu chuẩn đo lường / Thực phẩm | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (tin "Đã có QCVN số 30:2026/BCT về đồ uống có cồn", slug 110138; bản tin kế toán tuần 29/6-5/7: "Ngày 30/6/2026, Bộ Công Thương ban hành Thông tư 39/2026/TT-BCT"), thuonghieucongluan.com.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn; hiệu lực: 01/01/2027; tác động doanh nghiệp sản xuất, nhập khẩu, kinh doanh đồ uống có cồn; cần xác minh docid |
 | 259/2026/NĐ-CP | 30/06/2026 | **Quy định tuyển dụng, sử dụng và quản lý viên chức** — quy định chi tiết tuyển dụng, sử dụng và quản lý viên chức; 4 nhóm đối tượng được xét tuyển viên chức (người cam kết tình nguyện vùng khó khăn ≥3 năm, học sinh cử tuyển, sinh viên tốt nghiệp xuất sắc/tài năng, trường hợp khác); điều kiện đăng ký dự tuyển; hiệu lực **01/7/2026** | Lao động / Hành chính | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110130, tin "4 nhóm đối tượng được xét tuyển viên chức từ 01/7/2026"; tin "ban hành ngày 30/6/2026"), xaydungchinhsach.chinhphu.vn; ngày ban hành: **30/6/2026** xác minh từ luatvietnam.vn (bản tin kế toán tuần 29/6-5/7); hiệu lực: 01/7/2026; tác động viên chức, đơn vị sự nghiệp công lập; cần xác minh docid |
