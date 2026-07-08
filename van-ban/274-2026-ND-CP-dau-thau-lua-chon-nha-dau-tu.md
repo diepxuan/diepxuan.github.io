@@ -2,15 +2,9 @@
 title: "Nghị định số 274/2026/NĐ-CP ngày 07/07/2026 của Chính phủ quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư"
 date: 2026-07-07
 layout: van-ban
-object-id: "274/2026/NĐ-CP"
-decision-date: 2026-07-07
-effective-date: 2026-08-21
-issuer: "Chính phủ"
 digest: "Quy định chi tiết Luật Đấu thầu số 22/2023/QH15 về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh"
-doc-source: luatvietnam.vn
-doc-id: "CHUA_XAC_MINH"
+doc-id: "chua-xac-minh"
 tags: [dau-thau, dau-tu, chinh-phu, 2026]
-status: Đang cập nhật
 ---
 
 # Nghị định số 274/2026/NĐ-CP ngày 07/07/2026 của Chính phủ
