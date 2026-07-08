@@ -167,7 +167,7 @@ biển neo đậu tại cảng biển Việt Nam, định mức mỗi thuyền v
 __8) Rượu từ 20 độ trở lên: 1,5 lít hoặc rượu dưới 20 độ: 2,0 lít hoặc đồ uống có cồn, bia: 3,0 lít.
 Đối với rượu nguyên chai, bình, lọ, can (sau đây viết tắt là chai) có dung tích lớn hơn dung tích quy định định mức tại điểm a khoản 4 Điều này nhưng không vượt quá 01 lít thì được miễn thuế cả chai. Trường hợp vượt quá 01 lít thì phần vượt định mức phải nộp thuế theo quy định của pháp luật;
 b) Thuốc lá điều: 200 điều hoặc thuốc lá sợi: 250 gam hoặc xì gà: 20 điều.
-5, Đối tượng quy định tại điểm © khoản 5 Điều 5 Nghị định này được mua hàng miễn thuế không hạn chế về số lượng và trị giá để sử dụng trên tàu ngoài lãnh hải Việt Nam sau khi tàu xuất cảnh.
+5. Đối tượng quy định tại điểm c) khoản 5 Điều 5 Nghị định này được mua hàng miễn thuế không hạn chế về số lượng và trị giá để sử dụng trên tàu ngoài lãnh hải Việt Nam sau khi tàu xuất cảnh.
 
 ## Chương II
 THỦ TỤC HÁI QUAN, KIẾM TRA, GIÁM SÁT HẢI QUAN
@@ -282,7 +282,7 @@ Trường hợp bán hàng miễn thuế cho đối tượng mua là người xu
 Trường hợp bán hàng miễn thuế trên máy bay: trong vòng 24 giờ kể từ khi tàu bay đỗ tại vị trí chỉ định theo quy định (khi tàu bay thực hiện chuyến bay về Việt Nam), doanh nghiệp kinh doanh hàng miễn thuế phải kê khai trên phân mềm của doanh nghiệp và gửi đến hệ thống xử lý dữ liệu điện tử hải quan thông tin quy định tại điểm c khoản này.
 Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, trong vòng 24 giờ kể từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục, doanh nghiệp thực hiện gửi thông tin đến hệ thông xử lý dữ liệu điện tử hải quan.
 đ) Xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản phẩm, nếu có) và lưu trữ hóa đơn bán hàng theo quy định của pháp luật hiện hành về hóa đơn.
-©e) Trường hợp đối tượng mua là người chờ xuất cảnh mua hàng tại cửa hàng miễn thuế trong nội địa:
+c) Trường hợp đối tượng mua là người chờ xuất cảnh mua hàng tại cửa hàng miễn thuế trong nội địa:
 Gửi Phiếu giao hàng theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan (trừ trường hợp giao hàng ở nước ngoài theo yêu cầu của khách). Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cỗ thì lập 02 liên Phiếu giao hàng theo Mẫu số
 02/PGH Phụ lục II ban hành kèm theo Nghị định này và gửi dữ liệu lên hệ thống xử lý dữ liệu điện tử hải quan trong vòng 24 giờ kế từ khi sự cố hệ thống xử lý dữ liệu điện tử hải quan được khắc phục.
 Chịu trách nhiệm vận chuyển và xuất trình hàng hóa với hải quan cửa
@@ -292,7 +292,7 @@ Trường hợp Phiếu giao hàng không có xác nhận của hải quan cửa
 Trường hợp người mua hàng không đến nhận hàng tại quầy nhận hàng, doanh nghiệp thực hiện gửi thông tin hủy Phiếu giao hàng theo Mẫu số 13
 Phụ lục II ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan. Trong trường hợp hệ thống xử lý dữ liệu điện tử hái quan gặp sự cố, doanh nghiệp thông báo bằng văn bản về việc hủy Phiếu giao hàng với cơ quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu điện tử hải quan trong vòng 24 giờ kể từ khi sự cô hệ thống xử lý dữ liệu điện tử hải quan được khắc phục. Sau khi được cơ quan hải quan phê duyệt, doanh nghiệp chịu trách nhiệm vận chuyển hàng hóa về cửa hàng miễn thuế, kho hàng miễn thuế nơi hàng hóa đã xuất đi.
 Trường hợp doanh nghiệp kinh doanh hàng miễn thuế có nhiều cửa hàng miễn thuế, kho chứa hàng miễn thuế tại nhiều địa điểm khác nhau, khi thực hiện bán hàng cho khách chờ xuất cảnh tại cửa hàng miễn thuế trong nội địa, doanh nghiệp được xuất hàng hóa cho khách từ cửa hàng miễn thuế, kho chứa hàng miễn thuế của doanh nghiệp thuộc quản lý của Hải quan cửa khẩu nơi người mua hàng xuất cảnh.
-øØ) Trường hợp đối tượng mua là người nhập cảnh tại sân bay quốc tế và hành khách đang thực hiện chuyên bay quốc tế đến Việt Nam mua hàng miễn thuế vượt định mức miễn thuế theo quy định
+g) Trường hợp đối tượng mua là người nhập cảnh tại sân bay quốc tế và hành khách đang thực hiện chuyên bay quốc tế đến Việt Nam mua hàng miễn thuế vượt định mức miễn thuế theo quy định
 Doanh nghiệp kinh doanh hàng miễn thuế gửi thông tin theo Mẫu số 01
 Phụ lục II ban bành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan. Trong trường hợp hệ thống gặp sự cố, doanh nghiệp kinh doanh hàng miễn thuế gửi 02 Phiếu thông báo theo Mẫu số 01/PTBHVĐM Phụ lục
 TH ban hành kèm Nghị định này cho cơ quan hải quan tại cửa khẩu nhập.
