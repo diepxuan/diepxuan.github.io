@@ -16,7 +16,7 @@ tags:
   - chung-tu-dien-tu
   - 254/2026/NĐ-CP
 docid: "218689"
-source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+source: "vanban.chinhphu.vn"
 van_ban_thay_the:
   - "123/2020/NĐ-CP"
 trang_thai: Hoan_thien
