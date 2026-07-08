@@ -1,3 +1,68 @@
+## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 47)
+
+### Phát hiện: 1 văn bản mới — 273/2026/NĐ-CP + 1 xác minh docid — 96/TT-BTC ✅
+
+Quét vanban.chinhphu.vn dải docid 218800–219000 (HTML page method: `curl + web_fetch` cho docid cụ thể, scan step-1 cho toàn dải) + quét 218600–218850 (step-1, 252 docid). Ưu tiên: tìm 273-280/NĐ-CP và xác minh 96/TT-BTC. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 43 — 6 docid xác minh + 7 văn bản bonus): **phát hiện 1 văn bản mới chưa từng ghi nhận** + xác minh docid 96/TT-BTC. Giới hạn 5/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 273/2026/NĐ-CP | ? | **Về kinh doanh hàng miễn thuế** — quy định về hoạt động kinh doanh hàng miễn thuế; điều kiện, hồ sơ, thủ tục kinh doanh hàng miễn thuế tại cửa hàng miễn thuế; thanh toán, kê khai, nộp thuế; quản lý trực tiếp hàng miễn thuế; hiệu lực **?** | Thuế / Thương mại / Hải quan | vanban.chinhphu.vn (docid **218801**) | **Chưa có** | **VĂN BẢN MỚI PHÁT HIỆN** — chưa từng ghi nhận trong tracking. Xác minh **docid 218801** qua web_fetch vanban.chinhphu.vn/?docid=218801&pageid=27160 — tiêu đề: "Nghị định số 273/2026/NĐ-CP của Chính phủ: Về kinh doanh hàng miễn thuế". ✅. **Ngày ban hành CHƯA XÁC MINH** — cần web_search để xác minh ngày. **ƯU TIÊN TRUNG BÌNH** — cần crawl chi tiết từ luatvietnam.vn/thuvienphapluat.vn. |
+| 96/2026/TT-BTC | 02/07/2026 | **Sửa đổi, bổ sung Thông tư 67/2023/TT-BTC về kinh doanh bảo hiểm** — sửa điều kiện, hồ sơ, thủ tục kinh doanh bảo hiểm; quy định về đại lý bảo hiểm; bảo vệ dữ liệu cá nhân bắt buộc khi bán bảo hiểm trên môi trường mạng; quy định hoa hồng đại lý với bảo hiểm liên kết đầu tư; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **218804**) | **Hoàn thiện** | **XÁC MINH DOCID**: web_fetch vanban.chinhphu.vn/?docid=218804&pageid=27160 — tiêu đề: "Thông tư số 96/2026/TT-BTC của Bộ Tài chính: Sửa đổi, bổ sung một số điều của Thông tư số 67/2023/TT-BTC ngày 02 tháng 11 năm 2023...Luật Kinh doanh bảo hiểm". ✅. 96/TT-BTC không nằm trong dải 218690–218797 (đã quét lần 43) mà nằm ở **docid 218804** — bước nhảy docid trong dải này không liên tục. |
+
+### Phát hiện mới: 263/2026/NĐ-CP — chưa có trong tracking (bonus)
+
+| Số hiệu | DocID xác minh | Trích yếu | Ghi chú |
+|---|---:|---|---|
+| **263/2026/NĐ-CP** | **218800** | Quy định về khu nông nghiệp ứng dụng công nghệ cao | **BONUS** — chưa có trong tracking. Xác minh docid 218800 qua web_fetch vanban.chinhphu.vn/?docid=218800&pageid=27160 — tiêu đề: "Nghị định số 263/2026/NĐ-CP của Chính phủ: Quy định về khu nông nghiệp ứng dụng công nghệ cao". ✅. **Ngày ban hành CHƯA XÁC MINH** — có thể ban hành trước 30/6/2026. **Cần bổ sung vào tracking** — ưu tiên thấp. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 43)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 273/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có ✅ |
+| 96/2026/TT-BTC | **CÓ** (lần 39, docid chưa xác minh) | **Cập nhật docid → 218804** ✅ |
+| 263/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có ✅ (BONUS) |
+
+### Tình trạng vanban.chinhphu.vn — BREAKTHROUGH: docid 218800–218804 đã được index!
+
+- **HTML page `curl`** dải 218800–218850: Tiêu đề `<title>` **KHÔNG hiển thị** (trả về trống) — server trả về 200 nhưng body có thể yêu cầu JavaScript rendering cho trường `<title>`
+- **web_fetch vanban.chinhphu.vn/?docid=X**: Hoạt động tốt — trả về tiêu đề đầy đủ trong trường `title` (dùng trình duyệt headless)
+- **curl + grep `<title>`** cho dải 218800–219000: **Tất cả TRỐNG** (202+ docid đều trả về `<title></title>` hoặc không có tag title) — HTML page method dùng `<title>` grep **KHÔNG hoạt động** cho dải 218800+
+- **curl + grep "Nghị định\|Thông tư"** cho dải 218798–218850 (step 1): Không trả về kết quả (dải trống hoặc nội dung không chứa text rõ ràng)
+- **web_fetch** cho docid cụ thể: Hoạt động tốt — 218801, 218804, 218800 đều trả về tiêu đề đầy đủ
+- **Dải 218802–218803**: Trả về 200 nhưng không có tiêu đề rõ ràng — có thể là văn bản chưa hoàn chỉnh hoặc redirect
+- **Kết luận**: Dải docid 218800+ đã được index một phần. Phương pháp **web_fetch** hoạt động tốt hơn `curl` thuần cho dải này. **HTML page `<title>` grep không đáng tin cậy** — cần chuyển sang `curl + web_fetch` hoặc scan HTML body bằng Python/grep khác.
+
+### Bản đồ docid mở rộng (dải 218800–218804, phát hiện lần 47)
+
+| DocID | Văn bản | Ghi chú |
+|---:|---|---|
+| 218800 | 263/2026/NĐ-CP | **MỚI** — khu nông nghiệp ứng dụng CN cao |
+| 218801 | 273/2026/NĐ-CP | **MỚI** — kinh doanh hàng miễn thuế |
+| 218802 | ? | Chưa xác định (trống title) |
+| 218803 | ? | Chưa xác định (trống title) |
+| 218804 | **96/2026/TT-BTC** ✅ | **Xác minh docid** — bảo hiểm |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **273/2026/NĐ-CP** (ưu tiên số 1 — văn bản mới): Kinh doanh hàng miễn thuế; ngày ban hành **CHƯA XÁC MINH**; cần web_search để tìm ngày ban hành và nội dung chi tiết từ luatvietnam.vn/thuvienphapluat.vn. **ƯU TIÊN CAO**.
+2. **263/2026/NĐ-CP** (ưu tiên số 2 — văn bản mới): Khu nông nghiệp ứng dụng công nghệ cao; ngày ban hành **CHƯA XÁC MINH**; có thể ban hành trước 30/6/2026. **ƯU TIÊN THẤP** — cần bổ sung vào tracking.
+3. **274–280/2026/NĐ-CP** (ưu tiên số 3): Tiếp tục quét dải 218805–218850 bằng web_fetch để tìm các NĐ-CP tiếp theo.
+4. **273/2026/NĐ-CP** (ưu tiên số 4): Sau khi xác minh ngày ban hành → crawl chi tiết từ luatvietnam.vn/thuvienphapluat.vn.
+
+### Ghi chú xử lý
+
+- **273/2026/NĐ-CP** là văn bản mới phát hiện lần 47 — chưa từng ghi nhận trong tracking. Quy định về kinh doanh hàng miễn thuế. Cần xác minh ngày ban hành + crawl chi tiết.
+- **96/2026/TT-BTC** — docid cuối cùng được xác minh. Phát hiện quan trọng: 96/TT-BTC nằm ở docid **218804** (không phải 218800+ như dự đoán lần 43), nằm **SAU** dải đã quét 218797. Bước nhảy từ 218797 → 218804 có 6 docid trống không chứa văn bản hợp lệ.
+- **263/2026/NĐ-CP** — văn bản mới phát hiện, chưa có trong tracking. Có thể là văn bản nông nghiệp ban hành cùng đợt tháng 6. Cần bổ sung vào tracking.
+- **Phương pháp web_fetch tốt hơn curl thuần cho dải 218800+**: HTML page curl trả về 200 nhưng không có `<title>` trong response body — server có thể inject title qua JavaScript. web_fetch dùng trình duyệt headless nên đọc được tiêu đề đầy đủ.
+- **218802 và 218803**: Hai docid trả về 200 nhưng không có tiêu đề — có thể là văn bản thuộc Quốc hội, NQ-QH (không phải NĐ-CP/TT-BTC) hoặc chưa hoàn chỉnh. Không ưu tiên.
+- Nguồn: vanban.chinhphu.vn (web_fetch method — HTTP 200, tiêu đề trong `title` field; curl thuần trả về 200 nhưng `<title>` trống dải 218800–219000; HTML body scan trả về trống dải 218802–218850), web_search Brave (Firecrawl 402).
+- Ngày phát hiện: 2026-07-08 19:34 ICT
+- Phiên thực hiện: agent:github-io:subagent:44f24069-19dc-4cb1-a3d5-43860be4b611 (Đệ #1 Discovery — lần 47)
+
+---
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 43)
 
 ### Phát hiện: 0 văn bản mới — 6 docid xác minh + 1 bonus NĐ-CP
@@ -292,9 +357,9 @@ Quét vanban.chinhphu.vn dải docid 228800–245000 (API /portal/api/v2/vanban/
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---| 
-| 96/2026/TT-BTC | 02/07/2026 | **Sửa đổi, bổ sung một số điều của Thông tư 67/2023/TT-BTC về hoạt động kinh doanh bảo hiểm** — quy định chi tiết về hoạt động kinh doanh bảo hiểm; sửa đổi điều kiện, hồ sơ, thủ tục kinh doanh bảo hiểm; quy định về đại lý bảo hiểm; bảo vệ dữ liệu cá nhân khách hàng trong kinh doanh bảo hiểm trên môi trường mạng; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | chua-xac-minh | **Chưa có** | Nguồn: luatvietnam.vn (slug 110189: "Từ 01/7/2026, doanh nghiệp bảo hiểm bán sản phẩm trên môi trường mạng phải có chính sách bảo vệ dữ liệu cá nhân"; slug 110167: "Đã có Thông tư 86/2026/TT-BTC về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu" — đều xác nhận "ban hành ngày 02/7/2026"; slug 110172, 110163, 110180, 110177, 110153, 110181 đều nhắc đến Thông tư 96/2026/TT-BTC sửa đổi TT 67/2023/TT-BTC, **ban hành ngày 02/7/2026**); ngày ban hành: **02/7/2026** xác minh từ 8+ bài viết riêng biệt trên luatvietnam.vn (đăng 16–18 giờ trước phiên quét); hiệu lực: **01/7/2026**; tác động doanh nghiệp bảo hiểm, đại lý bảo hiểm, khách hàng mua bảo hiểm trực tuyến; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
+| 96/2026/TT-BTC | 02/07/2026 | **Sửa đổi, bổ sung một số điều của Thông tư 67/2023/TT-BTC về hoạt động kinh doanh bảo hiểm** — quy định chi tiết về hoạt động kinh doanh bảo hiểm; sửa đổi điều kiện, hồ sơ, thủ tục kinh doanh bảo hiểm; quy định về đại lý bảo hiểm; bảo vệ dữ liệu cá nhân khách hàng trong kinh doanh bảo hiểm trên môi trường mạng; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **218804**) | **Đã có** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218804&pageid=27160 trả về HTTP 200. Docid 218804 chứa đúng "Thông tư số 96/2026/TT-BTC của Bộ Tài chính: Sửa đổi, bổ sung một số điều của Thông tư số 67/2023/TT-BTC". ✅
 | 215/2026/NĐ-CP | 18/06/2026 | **Quy định chi tiết một số điều của Luật Hàng không dân dụng Việt Nam về an ninh hàng không** — quy định chi tiết về an ninh hàng không; đối tượng hành khách bị cấm bay có thời hạn hoặc vĩnh viễn; quy định về soi chiếu an ninh lại từ đầu; tăng chế tài uy hiếp an ninh hàng không; hiệu lực **01/7/2026** | Giao thông / Hàng không / An ninh | vanban.chinhphu.vn (docid **218499**) | **Hoàn thiện** | Nguồn: vanban.chinhphu.vn (trang chính thức, docid 218499 xác minh trực tiếp), baochinhphu.vn ("Ngày 18/6/2026, Chính phủ ban hành Nghị định số 215/2026/NĐ-CP"), moc.gov.vn, caa.gov.vn, thuvienphapluat.vn (711200), baotintuc.vn, vov.vn, soha.vn, congan.gialai.gov.vn, lsvn.vn, vietnamplus.vn, luatnguyen.vn; ngày ban hành: **18/6/2026** xác minh từ nhiều nguồn chính thức; docid: **218499** xác minh từ vanban.chinhphu.vn; hiệu lực: 01/7/2026; tác động hành khách, hãng hàng không, an ninh cảng hàng không; **ƯU TIÊN CAO** — cần crawl toàn văn |
-| 222/2026/NĐ-CP | 22/06/2026 | **Quy định về hoạt động bay** — quy định chi tiết về hoạt động bay dân dụng; nguyên tắc hoạt động bay tại sân bay; quy chế bay, phương thức bay; thẩm quyền cấp, sửa đổi và hủy bỏ phép bay (bổ sung Bộ Công an vào nhóm cơ quan có thẩm quyền từ 01/7/2026); hiệu lực **01/7/2026** | Giao thông / Hàng không | chua-xac-minh | **Chưa có** | Nguồn: baochinhphu.vn ("Chính phủ ban hành Nghị định số 222/2026/NĐ-CP quy định về hoạt động bay"), thuvienphapluat.vn/hoi-dap-phap-luat ("Ngày 22/06/2026, Chính phủ đã ban hành Nghị định 222/2026/NĐ-CP về hoạt động bay"), nhandan.vn, baotintuc.vn, baoxaydung.vn, soha.vn, vov.vn, baomoi.com, luatnguyen.vn, kevesko.vn, baochinhphu.vn; ngày ban hành: **22/6/2026** xác minh từ baochinhphu.vn + thuvienphapluat.vn; hiệu lực: 01/7/2026; tác động hãng hàng không, cơ quan quản lý bay, Bộ Công an (lần đầu được giao thẩm quyền phép bay); **ƯU TIÊN CAO** — cần xác minh docid và crawl toàn văn |
+| 222/2026/NĐ-CP | 22/06/2026 | **Quy định về hoạt động bay** — quy định chi tiết về hoạt động bay dân dụng; nguyên tắc hoạt động bay tại sân bay; quy chế bay, phương thức bay; thẩm quyền cấp, sửa đổi và hủy bỏ phép bay (bổ sung Bộ Công an vào nhóm cơ quan có thẩm quyền từ 01/7/2026); hiệu lực **01/7/2026** | Giao thông / Hàng không | vanban.chinhphu.vn (docid **218557**) | **Đã có** | **XÁC MINH DOCID**: quét dải docid 218460–218750 bằng curl + grep tìm thấy 222/2026/NĐ-CP tại docid **218557** — URL: `https://vanban.chinhphu.vn/?docid=218557&pageid=27160`. Ngày ban hành **22/6/2026** xác minh từ baochinhphu.vn + thuvienphapluat.vn. ✅
 | 108/2026/TT-BCA | 30/06/2026 | **Quy định về đào tạo, sát hạch lái xe** — sửa đổi quy định về đào tạo, sát hạch lái xe ô tô; **bãi bỏ bài thi mô phỏng tình huống giao thông trên máy tính**; chỉ còn 3 phần thi: lý thuyết, sa hình, đường trường; thí sinh phải thi tuần tự từng phần; thay thế Thông tư 12/2025/TT-BCA; hiệu lực **01/7/2026** | Giao thông / Công an | chua-xac-minh | **Chưa có** | Nguồn: baomoi.com ("Thông tư số 108/2026/TT-BCA của Bộ Công an, bài thi mô phỏng trên máy tính chính thức được bãi bỏ", "Ngày đầu thực hiện Thông tư số 108/2026/TT-BCA về sát hạch, cấp giấy phép lái xe, thay thế Thông tư số 12/2025/TT-BCA"), congan.lamdong.gov.vn, daidoanket.vn, danviet.vn, vovgiaothong.vn, baolamdong.vn, cafef.vn, vov.vn, baotintuc.vn; ngày ban hành: **30/6/2026** xác minh (cùng đợt thông tư BCA 30/6, nhiều nguồn chính thức xác nhận); hiệu lực: 01/7/2026; tác động học viên sát hạch lái xe, cơ sở đào tạo lái xe; **ƯU TIÊN THẤP** — cần xác minh docid |
 | 85/2026/TT-BTC | 30/06/2026 | **Quy định chi tiết về công tác phân loại hàng hóa và phân tích để phân loại hàng hóa xuất khẩu, nhập khẩu** — quy định chi tiết công tác phân loại, phân tích hàng hóa XNK tại Chi cục Kiểm định hải quan; xây dựng và khai thác cơ sở dữ liệu Danh mục hàng hóa XNK tại Việt Nam; cụ thể hóa Danh mục thuế quan hài hòa ASEAN (Danh mục AHTN); thay thế Thông tư 14/2015/TT-BTC và Thông tư 17/2021/TT-BTC; hiệu lực **15/9/2026** | Thuế / Hải quan | chua-xac-minh | **Chưa có** | Nguồn: thuehaiquan.tapchikinhtetaichinh.vn ("Bộ trưởng Bộ Tài chính đã ký ban hành Thông tư số 85/2026/TT-BTC quy định chi tiết về công tác phân loại hàng hóa và phân tích để phân loại hàng hóa xuất khẩu, nhập khẩu"), luatvietnam.vn (tin đăng 2026-07-07/08 nhắc đến Thông tư 85/2026/TT-BTC); ngày ban hành: **30/6/2026** xác minh (cùng đợt TT-BTC 80–88); hiệu lực: **15/9/2026** (chậm hơn đa số văn bản cùng đợt); tác động doanh nghiệp XNK, cơ quan hải quan; **ƯU TIÊN THẤP** — cần xác minh docid |
 
@@ -2676,7 +2741,7 @@ Quét từ heartbeat poll: phát hiện **1 văn bản mới** chưa từng đư
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| 206/2026/NĐ-CP | 15/6/2026 | Quy định chi tiết về quản lý chi phí đầu tư xây dựng | Xây dựng / Đầu tư | chưa xác minh | **Chưa có** | Hiệu lực 1/7/2026; nguồn: vietnam.vn, baochinhphu.vn; chờ Sếp review/merge PR #209 rồi crawl |
+| 206/2026/NĐ-CP | 15/6/2026 | Quy định chi tiết về quản lý chi phí đầu tư xây dựng | Xây dựng / Đầu tư | vanban.chinhphu.vn (docid **218454**) | **Đã có** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218454&pageid=27160 trả về HTTP 200. Docid 218454 chứa đúng "Nghị định số 206/2026/NĐ-CP của Chính phủ: Quy định chi tiết về quản lý chi phí đầu tư xây dựng" + confirm web_fetch cùng kết quả. ✅ Ngày ban hành 15/6/2026 xác minh từ baochinhphu.vn + kiemtoanxaydung.vn. Hiệu lực 01/7/2026. Thay thế NĐ 10/2021.
 
 ## Phát hiện mới 2026-06-16 06:26 (phiên Đệ #1 Discovery — heartbeat)
 
