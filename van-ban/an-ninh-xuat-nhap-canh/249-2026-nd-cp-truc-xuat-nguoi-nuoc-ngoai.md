@@ -1284,7 +1284,7 @@ người lưu trú có thể được bố trí ở riêng.
 
 
 
-### Điều 22. Giải quyết trường hợp › người lưu trú hoặc con của người lưu trú
+### Điều 22. Giải quyết trường hợp người lưu trú hoặc con của người lưu trú
 
 
 
@@ -2144,7 +2144,7 @@ Hộ chiếu/CCCD/CC số:
 
 Nơi đăng ký thường trú:
 
-Ngày vào cơ sở lưu ti „ theo Quyết định số
+Ngày vào cơ sở lưu trú theo Quyết định số
 
 ngày: ¡ lý do đưa vào cơ sở lưu
 
