@@ -1,5 +1,6 @@
 ---
 layout: vanban
+date: 2026-06-27
 title: "Nghị định 245/2026/NĐ-CP Gia hạn thời hạn nộp thuế, tiền thuê đất trong năm 2026"
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-245-2026-nd-cp-gia-han-thue-2026/
 so-hieu: 245/2026/NĐ-CP
