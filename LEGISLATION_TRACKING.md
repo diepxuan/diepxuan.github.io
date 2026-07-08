@@ -1,20 +1,19 @@
 # LEGISLATION_TRACKING.md
 
-> **Đệ #48 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-08T20:07 GMT+7
-> Nguồn quét: vanban.chinhphu.vn (docid 218805–218867)
-> Dải docid: 218805–218867 | Tháng 7/2026
-> Ngưỡng: Ban hành sau 05/07/2026
+> **Đệ #54 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-09T04:08 GMT+7
+> Nguồn quét: vanban.chinhphu.vn (docid 218868–500000), luatvietnam.vn (trang chủ + van-ban-moi)
+> Dải docid: 218868–500000 | Tháng 7/2026
+> Ngưỡng: Ban hành sau 07/07/2026
 
 ---
 
 ## TÓM TẮT
 
-- Tổng văn bản phát hiện lần này: **5** (Discovery lần 1) + 2 văn bản xác minh từ docid đã biết (Discovery lần 48)
-- Văn bản xác minh lần này: **2** (263/NĐ-CP, 273/NĐ-CP)
-- Văn bản rải trống (docid trống): 218805–218867 — dải trống hoàn toàn
-- Văn bản mới từ quét: 0
-- Nguồn xác nhận: vanban.chinhphu.vn
+- Văn bản mới phát hiện lần này: **0** (từ quét docid)
+- Văn bản xác minh lần này: **2** (90/TT-BTC slug 439827, 91/TT-BTC slug 439780)
+- Dải docid trống: 218802–500000 (docid cao nhất có nội dung: **218801**)
+- Nguồn xác nhận: vanban.chinhphu.vn, luatvietnam.vn
 
 ---
 
@@ -144,13 +143,49 @@
 
 ---
 
-## KẾT QUẢ QUÉT DOCID 218805–218867 (Discovery lần 48)
+## VĂN BẢN XÁC MINH (Discovery lần 54)
+
+### 90/2026/TT-BTC — Đăng ký thuế (luatvietnam slug xác minh)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 90/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 30/06/2026 (xác minh: luatvietnam.vn slug 439827) |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Thuế, Đăng ký thuế |
+| **Slug** | 439827 (luatvietnam.vn/thue/thong-tu-90-2026-tt-btc-quy-dinh-moi-ve-dang-ky-thue-tu-bo-tai-chinh-439827-d1.html) |
+| **Nguồn** | luatvietnam.vn (nội dung gốc đầy đủ) |
+| **Mô tả** | Quy định về đăng ký thuế. Bổ sung 03 nhóm trường hợp mới phải đăng ký thuế từ 01/7/2026: (1) cá nhân không cư trú kinh doanh trên nền tảng TMĐT không có chức năng đặt hàng/thanh toán; (2) chủ quản nền tảng TMĐT trong nước; (3) tổ chức kê khai thuế tối thiểu toàn cầu. Cấp mã số thuế riêng cho chủ sàn TMĐT trong nước để khai và nộp thay thuế.
+| **Ghi chú** | Stub hiện tại cần được crawl lại từ slug 439827. Nội dung gốc đã có trên luatvietnam.vn. Cần cập nhật file `90-2026-tt-btc-dang-ky-thue.md` với nội dung đầy đủ.
+| **Trạng thái** | Stub cần bổ sung nội dung
+
+### 91/2026/TT-BTC — Hóa đơn điện tử, chứng từ điện tử (luatvietnam slug xác minh)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 91/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 30/06/2026 (xác minh: luatvietnam.vn slug 439780) |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Thuế, Hóa đơn điện tử |
+| **Slug** | 439780 (luatvietnam.vn/thue/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html) |
+| **Nguồn** | luatvietnam.vn (nội dung gốc đầy đủ) |
+| **Mô tả** | Quy định một số điều của Luật Quản lý thuế và NĐ 254/2026/NĐ-CP về hóa đơn điện tử, chứng từ điện tử. Điều 10 hướng dẫn xử lý hóa đơn điện tử đã lập sai: (1) sai tên/địa chỉ/số tiền bằng chữ → thông báo cho cơ quan thuế theo Mẫu 04/SS-HĐĐT; (2) sai nội dung bắt buộc (MST, tên hàng, thuế suất) → lập hóa đơn điều chỉnh hoặc thay thế; (3) hóa đơn từ máy tính tiền → lập hóa đơn thay thế.
+| **Ghi chú** | Cần xác minh slug chuẩn trên luatvietnam. Nội dung gốc đã có trên luatvietnam.vn. File stub `91-2026-tt-btc-dang-ky-thue.md` (hiện chưa tồn tại) cần được tạo từ slug 439780.
+| **Trạng thái** | Stub — slug xác minh, chưa crawl
+
+---
+
+## KẾT QUẢ QUÉT DOCID 218868–500000 (Discovery lần 54)
 
 | Dải | Docid có văn bản | Ghi chú |
 |------|-----------------|---------|
-| 218805–218867 | **0** (toàn bộ trống) | Có thể 274–280/NĐ-CP chưa được công bố hoặc thuộc dải docid khác |
+| 218868–500000 | **0** (toàn bộ trống) | Docid cao nhất có nội dung: 218801 (273/NĐ-CP, 07/07/2026) |
 
-**Kết luận**: Trong dải 218805–218867 không có văn bản nào mới. 274–280/NĐ-CP có thể chưa được đăng tải trên vanban.chinhphu.vn tính đến 2026-07-08.
+**Kết luận**: Dải docid 218802–500000 không có văn bản mới. Dải docid gốc có nội dung kết thúc tại 218801. Các văn bản 274/NĐ-CP, 14/NQ-CP, 97/TT-BTC chưa xác minh được docid trên vanban.chinhphu.vn. Có thể: (1) chưa được đăng tải, (2) thuộc dải docid khác ngoài 500000, hoặc (3) được phân vào pageid khác.
 
 ---
 
@@ -181,9 +216,9 @@
 | File | Số | Kích thước | Ngày sửa | Ghi chú |
 |------|-----|-----------|---------|---------|
 | `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 48/2026/TT-BCA (QCVN 11:2026/BCA) | 4,476 bytes | 2026-06-01 (mod) | Stub — nội dung summary 11 nhóm yêu cầu kỹ thuật; 37 ngày tuổi (mod); Cần xác minh docid, crawl toàn văn từ vanban.bocongan.gov.vn |
-| `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/90-2026-tt-btc-dang-ky-thue.md` | 90/2026/TT-BTC | 2,340 bytes | 2026-07-09 | Stub — tất cả nguồn chính 404 (luatvietnam slug 439827, vbpl PubID 619124, PDF datafiles, vanban.chinhphu docid chưa xác minh); 08 ngày tuổi; Cần crawl lại khi nguồn khả dụng |
+| `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/90-2026-tt-btc-dang-ky-thue.md` | 90/2026/TT-BTC | 2,340 bytes | 2026-07-09 | Stub — luatvietnam slug 439827 xác minh, nội dung đầy đủ có sẵn; Cần crawl lại từ slug |
 
 ---
 
-*Lần cập nhật tiếp theo: khoảng 08/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
-*Đệ #48 Discovery — github-io workspace (Discovery lần 48, quét 218805–218867)*
+*Lần cập nhật tiếp theo: khoảng 09/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
+*Đệ #54 Discovery — github-io workspace (Discovery lần 54, quét 218868–500000)*
