@@ -1,3 +1,59 @@
+## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 49)
+
+### Phát hiện: 5 văn bản mới — 274/NĐ-CP + 4 TT-BTC mới
+
+Quét luatvietnam.vn (trang chủ + van-ban-moi.html) + vanban.chinhphu.vn dải docid 218868–250000 (step-1 + step-10). Ưu tiên: tìm 274–280/NĐ-CP và TT-BTC 88–100. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 48 — dải 218805–220000 trống, docid cao nhất = 218804): phát hiện **5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **274/2026/NĐ-CP** | **07/07/2026** | **Quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư** — quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu số 22/2023/QH15 về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh; quy định cụ thể trường hợp phải đấu thầu (dự án thuộc diện Nhà nước thu hồi đất theo Luật Đất đai; dự án thuộc danh mục đấu thầu do HĐND cấp tỉnh quyết định); làm rõ trường hợp không phải tổ chức đấu thầu; hiệu lực **21/8/2026** | Đầu tư / Đấu thầu | chua-xac-minh | **VĂN BẢN MỚI PHÁT HIỆN — ƯU TIÊN CAO** | Xác minh qua web_fetch luatvietnam.vn (`/dau-tu/nghi-dinh-274-2026-nd-cp-439818-d1.html`) — toàn văn xác nhận số, ngày, cơ quan ban hành (Chính phủ). Tin đăng luatvietnam.vn ngày 08/7/2026. **Chưa xác minh docid** trên vanban.chinhphu.vn (dải 218850–219050 trống hoàn toàn). Cần theo dõi docid tiếp. |
+| **97/2026/TT-BTC** | **01/07/2026** | **Bãi bỏ Thông tư 55/2010/TT-BTC về thuế GTGT và thuế TNDN với Đài truyền hình** — bãi bỏ Thông tư 55/2010/TT-BTC ngày 16/4/2010 hướng dẫn về thuế giá trị gia tăng và thuế thu nhập doanh nghiệp đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh, thành phố; hiệu lực **01/7/2026** | Thuế / Truyền thông | chua-xac-minh | **VĂN BẢN MỚI PHÁT HIỆN** | Nguồn: luatvietnam.vn (`/thue/thong-tu-97-2026-tt-btc-439710-d1.html`). Bãi bỏ TT cũ về thuế GTGT và TNDN cho đài truyền hình. Chưa xác minh docid. |
+| **90/2026/TT-BTC** | **01/07/2026** | **Bổ sung đối tượng đăng ký thuế** — mở rộng phạm vi đối tượng đăng ký thuế; thêm 3 nhóm trường hợp phải đăng ký thuế từ 01/7/2026; quy định nhà cung cấp nước ngoài không phải đăng ký thuế trong một số trường hợp; chủ sàn thương mại điện tử được cấp mã số thuế riêng; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **VĂN BẢN MỚI PHÁT HIỆN** | Nguồn: luatvietnam.vn (tin 3 bài: 110245, 110247, 110248). TT-BTC mới nhất trong đợt 01/7. Chưa xác minh docid. |
+| **94/2026/TT-BTC** | **01/07/2026** | **Quản lý tuân thủ và quản lý rủi ro trong quản lý thuế** — quy định về quản lý tuân thủ, quản lý rủi ro trong quản lý thuế; xử lý hồ sơ miễn, giảm thuế trên cơ sở mức độ rủi ro của người nộp thuế; người nộp thuế không giải trình thuế có thể bị giám sát trọng điểm; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **VĂN BẢN MỚI PHÁT HIỆN** | Nguồn: luatvietnam.vn (tin 110230, tin trang chủ "xử lý hồ sơ miễn, giảm thuế trên cơ sở mức độ rủi ro"). Chưa xác minh docid. |
+| **91/2026/TT-BTC** | **01/07/2026** | **Ngừng hoặc tạm ngừng sử dụng hóa đơn điện tử** — quy định cụ thể 11 trường hợp người nộp thuế bị ngừng hoặc tạm ngừng sử dụng hóa đơn điện tử từ 01/7/2026; hiệu lực **01/7/2026** | Thuế / Hóa đơn | chua-xac-minh | **VĂN BẢN MỚI PHÁT HIỆN** | Nguồn: luatvietnam.vn (tin trang chủ). Chưa xác minh docid. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 48)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 274/2026/NĐ-CP | **KHÔNG** | **Thêm mới** ✅ — ưu tiên cao |
+| 97/2026/TT-BTC | **KHÔNG** | **Thêm mới** ✅ |
+| 90/2026/TT-BTC | **KHÔNG** | **Thêm mới** ✅ |
+| 94/2026/TT-BTC | **KHÔNG** | **Thêm mới** ✅ |
+| 91/2026/TT-BTC | **KHÔNG** | **Thêm mới** ✅ |
+
+### Tình trạng vanban.chinhphu.vn — dải 218868–250000 trống hoàn toàn, 274 chưa index
+
+- **web_fetch dải 218868–218900** (step 1, 33 docid): TẤT CẢ trả về tiêu đề "Chi tiết văn bản ban hành" — trống
+- **curl scan dải 218868–218900** (step 1, 33 docid): TẤT CẢ trả về tiêu đề trống
+- **curl scan dải 220000–250000** (step 100–1000, 30 docid): TẤT CẢ trả về HTTP 200 nhưng tiêu đề trống
+- **web_fetch docid cụ thể 218850–219050** (19 docid, step 10): TẤT CẢ trống
+- **Kết luận**: vanban.chinhphu.vn **CHƯA INDEX** văn bản nào sau 218804 (96/TT-BTC). 274/NĐ-CP đã ban hành 07/7/2026 nhưng chưa có docid — hệ thống vanban.chinhphu.vn có thể đang chậm index hoặc đang bảo trì. **Phương pháp web_fetch hoạt động tốt cho dải 218800+** nhưng không phát hiện gì.
+
+### Cập nhật trạng thái văn bản từ lần 48 (cần sửa)
+
+| Số hiệu | Cập nhật |
+|---|---|
+| **274/2026/NĐ-CP** | ~~CHƯA PHÁT HIỆN~~ → **ĐÃ PHÁT HIỆN, ban hành 07/7/2026, chưa có docid** |
+| **273/2026/NĐ-CP** | Cần xác minh ngày (ước đoán 01/7/2026) |
+
+### Các văn bản cần theo dõi tiếp — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành — tiếp tục theo dõi luatvietnam.vn |
+| 88–89/2026/TT-BTC | **Chưa phát hiện** | Có thể có — cần scan thêm luatvietnam.vn |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Có thể có — cần scan thêm luatvietnam.vn |
+| 109–120/2026/TT-BCA | **Chưa phát hiện** | Tiếp tục theo dõi vanban.chinhphu.vn |
+| 273/2026/NĐ-CP | **Đã phát hiện (lần 47), chưa xác minh ngày** | Cần xác minh ngày ban hành |
+| 263/2026/NĐ-CP | **Đã phát hiện (lần 47), chưa xác minh ngày** | Cần xác minh ngày + crawl chi tiết |
+
+### Nguồn: luatvietnam.vn (trang chủ + van-ban-moi.html — xác minh toàn văn 274/NĐ-CP + tin 4 TT-BTC mới), vanban.chinhphu.vn (dải 218868–250000 trống hoàn toàn, docid cao nhất = 218804), Firecrawl (402 hết credits).
+- Ngày phát hiện: 2026-07-08 22:06 ICT
+- Phiên thực hiện: agent:github-io:subagent:b2b38588-b00e-4567-aad2-c2003d4df99e (Đệ #1 Discovery — lần 49)
+
+---
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 48)
 
 ### Phát hiện: 0 văn bản mới — dải 218805–220000 trống hoàn toàn
