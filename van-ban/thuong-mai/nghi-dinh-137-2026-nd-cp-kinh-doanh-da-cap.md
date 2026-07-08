@@ -1,3 +1,4 @@
+---
 layout: vanban
 title: "Nghị định 137/2026/NĐ-CP về quản lý hoạt động kinh doanh theo phương thức đa cấp"
 date: 2026-04-07
@@ -10,7 +11,7 @@ tags:
 docid: 217677
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn; moit.gov.vn
 esign: true
-
+---
 # Nghị định 137/2026/NĐ-CP
 
 ## THÔNG TIN VĂN BẢN
@@ -2369,7 +2370,7 @@ TIỀN TH ..aiyiiiiaeadiradiiiine Fax (nếu €ó):.............-..:cs:ccccsccs
 DŨ t6 t6xtg8Ngaaantga lộ lhnnus
 
 .Cấp lần đầu ngày:
-„ngày.
+"ngày.
 
 Đề nghị ... gia hạn giấy xiếng nhận đăng ký hoạt động bán hàng đa cấp cho
 doanh nghiệp trên cơ sở bộ hồ sơ kèm theo như sau:
@@ -2512,7 +2513,7 @@ Cấp sửa đổi, bổ sung lần
 Đã đăng ký hoạt động bán hàng đa cấp tại tỉnh/thành phố
 nội dung như sau:
 
-„ Với
+" Với
 
 1. Thời gian bắt đầu hoạt động bán hàng đa cấp tại địa phương: ................
 
@@ -2627,7 +2628,7 @@ TÊN DOANH NGHIỆP CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 SỐ cà Han , H8Ày....... tháng....... năm.......
 
-„ THÔNGBẢO _
+" THÔNGBẢO _
 CHẤM DỨT HOẠT ĐỘNG BÁN HÀNG ĐA CÁP TẠI ĐỊA PHƯƠNG
 
 Kính gửi: ...
@@ -2637,7 +2638,7 @@ Kính gửi: ...
 Giấy chứng nhận đăng ký doanh nghiệp/Giấy chứng nhận đầu tư s
 DŨT tin 6 66 x2snv 0185115641) 050895504060/03014NG0588164901E06ÿ1810043454406/104031101580V06518048006
 
-Cấp lần đầu ngày „..Lần thay đổi gần nhất:................ JẢNG
+Cấp lần đầu ngày "..Lần thay đổi gần nhất:................ JẢNG
 Địa chỉ trụ sở Cho cuiiiiiiinneaneasiaenaisnsanansrstiniiA00004008
 Điện ThÒN ueaseaiennesnenneineem EäX (IIỂ—U (GÓ)Í1‹psues206508610001506308106
 
@@ -2668,7 +2669,7 @@ Chức vụ:..
 Email: ....
 4. Thông tin liên hệ tại địa phương:
 
-„4.1. Tên doanh nghiệp/chi nhánh/văn phòng đại diện/địa điểm kinh doanh
+"4.1. Tên doanh nghiệp/chi nhánh/văn phòng đại diện/địa điểm kinh doanh
 DU GIÓ ceiiiiiieiiesssssramnseesessnesnesessarsnsseSexS6f4LEQ0SSASERDARDNSGIĐEWNIHWESSSoSSR
 
 TA CHỦ btaniisetsesic04402030080S48GS8G1IWGDĂGIUAGIARVEGBIANG)GI48ï38Au0586
@@ -2713,7 +2714,7 @@ Giấy chứng nhận đăng ký doanh nghiệp/Giấy chứng nhận đầu tư
 \D uc.
 Cấp lần đầu ngày
 
-„Lân thay đôi gần nhât:
+"Lân thay đôi gần nhât:
 Địa chỉ trụ SỞ CHÍNH? ssnssaenesDuaaeasassees
 
 Điện THÔN caccossasaasuislaagusg Fax (nếu có):....
@@ -2773,7 +2774,7 @@ Thẻ căn cước/căn cước công dân/hộ chiếu/:.......................
 Tôi cam kết các nội dung sau:
 
 . Tôi đã ký Hợp đồng tham gia bán hàng đa cấp sỐ...., ngày...... với
-Công g yERnis „ được cập mã số thành viên.......
+Công g yERnis " được cập mã số thành viên.......
 
 2. Tôi đã tham gia và hoàn thành Chương trình đào tạo cơ bản do đào tạo
 viên.......... của Công ty .......... thực hiện từ ngày ........... đến ngày............
@@ -2871,7 +2872,7 @@ Kỳ báo cáo: năm.......
 KD BỮvuusssaseseeo
 
 kính gửi báo cáo tổng kết hoạt động đào tạo kiến thức
-pháp luật về bán hàng đa cấp kỳ báo cáo năm........ „ như sau:
+pháp luật về bán hàng đa cấp kỳ báo cáo năm........ " như sau:
 
 I. THÔNG TIN CHUNG
 
@@ -3201,7 +3202,7 @@ Cấp sửa đổi, bổ sung lần . M
 
 theo xác nhận ký quỹ số..... ngày.
 
-„Cấp lần đầu ngày:
+"Cấp lần đầu ngày:
 
 Doanh nghiệp cam đoan tuân thủ đầy đủ các quy định của pháp luật về
 quản lý hoạt động kinh doanh theo phương thức đa cấp và chịu trách nhiệm về
@@ -3222,7 +3223,7 @@ Kỳ báo cáo năm.......
 
 Ủy ban nhân dân tỉnh/thành phố ....... tổng hợp thông tin báo cáo định kỳ
 về công tác quản lý hoạt động bán hàng đa cập năm ........ trên địa
-ĐỒNG uusensesev „ như sau:
+ĐỒNG uusensesev " như sau:
 
 I. TÌNH HÌNH ## Chương V
 ### HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TRÊN ĐỊA BÀN
@@ -3277,7 +3278,7 @@ TẠI ĐỊA PHƯƠNG TRONG KỲ BÁO CÁO
 
 Số | Ngày h
 uyết ban Cơ Hành Số tiền Biệ
-Tên doanh Ÿ „| BƠ hành quan In phạt ng -
+Tên doanh Ÿ "| BƠ hành quan In phạt ng -
 TT Sã Địa chỉ | định 4 n VỈ vi EH pháp xử
 nghiệp xử quyết xử hạm (triệu lý khác
 định xử | phạt | P*# | gàng | !Ý

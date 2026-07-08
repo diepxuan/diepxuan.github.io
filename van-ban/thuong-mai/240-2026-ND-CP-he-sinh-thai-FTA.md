@@ -902,7 +902,7 @@ giảm chỉ phí tuân thủ cho doanh nghiệp.
 
 3. Cơ chế bảo đảm và triển khai
 
-„8) Nhà nước bảo đảm đầu tư, duy trì và nâng cấp hệ thống cơ sở vật chất,
+"8) Nhà nước bảo đảm đầu tư, duy trì và nâng cấp hệ thống cơ sở vật chất,
 
 hạ tầng kỹ thuật, hạ tầng số và cơ sở dữ liệu tích hợp về các FTA, theo hướng
 đồng bộ, liên thông, tạo thuận lợi cho đoanh nghiệp trong việc tiếp cận và sử dụng;
@@ -1894,7 +1894,7 @@ doanh:
 5. Người đại điện theo pháp luật/chủ hộ kinh doanh:
 « Họ và tên: ..
 
-„ Chức vụ:.
+" Chức vụ:.
 
 « Điện thoại:
 
@@ -2080,7 +2080,7 @@ n Tiếp cận thị trường
 
 HD Thuế quan ưu đãi
 
-TI Quy tắc xuất xứ „
+TI Quy tắc xuất xứ "
 
 L] SPS/TBT/tiêu chuẩn kỹ thuật
 
@@ -2313,7 +2313,7 @@ THƯƠNG MẠI TỰ DO
 Kính gửi: Ủy ban nhân dân tỉnh/thành phó...............
 
 Căn cứ Nghị định số -....,,NÐ-CP ngày ... tháng ... năm ... của Chính phủ
-quy định ........... „ chúng tôi để nghị được xem xét hưởng hỗ trợ với nội dung
+quy định ........... " chúng tôi để nghị được xem xét hưởng hỗ trợ với nội dung
 như sau
 
 1. THÔNG TIN CHUNG
@@ -2912,7 +2912,7 @@ thủ tục liên quan, xem xét phê duyệt.
 
 ...... tiếp nhận, thực hiện các
 
-Nơi nhận: „ ĐẠI DIỆN THEO PHÁP LUẠT _
+Nơi nhận: " ĐẠI DIỆN THEO PHÁP LUẠT _
 - trên, CỦA DOANH NGHIỆP, HỢP TÁC XÃ,
 HỘ KINH DOANH
 
@@ -3067,7 +3067,7 @@ quy định .. ;
 Căn cứ Quá định SỐ...
 xuất hưởng hồ trợ đổi với...
 
-„0Ð UBND ngày .......... về việc phê duyệt đề
+"0Ð UBND ngày .......... về việc phê duyệt đề
 
 Căn cứ kết quả kiểm tra, giám sát, hậu kiêm/Biên bản xác mình số .
 ngày ......... /Kết luận kiểm tra số . .. HNGÄy ..
@@ -3230,7 +3230,7 @@ hợp tác xã và hộ kinh doanh là thành viên Hệ sinh thái tận dụng
 Số lượng | Số lượng để | Tổng số Tầng số
 thành xuất của ngân sách ngân cách
 Nội dung báo cáo viên Hệ | thành viên | nhà nước địa địa phươn
-k sinh thái | Hệ sinh thái | phương đã | „thạc k
+k sinh thái | Hệ sinh thái | phương đã | "thạc k
 tận dụng | tận dụng các | hỗ trợ (triệu nạn NO TỢ
 các FTA | FTA đồng — | (riểu đồng)
 
@@ -3650,7 +3650,7 @@ Thực hiện công tác quản lý nhà nước về Quỹ Xúc tiến xuất k
 1. Tình hình thành lập mới Quỹ Xúc tiến xuất khẩu ngành hàng trong năm:
 
 " , cụ thể:
-Ân THẢO Ea: 2 „ Số Quyết | Địa chỉ đặt
+Ân THẢO Ea: 2 " Số Quyết | Địa chỉ đặt
 STT Tên Hiệp hội Tên Quỹ đình tru sở
 ï
 2. Tình hình sửa đổi Quyết định thành lập trong năm: ............. , cụ thể:

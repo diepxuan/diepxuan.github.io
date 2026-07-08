@@ -4,6 +4,7 @@ title: "Thông tư 70/2026/TT-BCA sửa đổi mẫu giấy tờ nhập cảnh, 
 date: 2026-05-25
 modified: 2026-06-25
 document_number: 70/2026/TT-BCA
+so_hieu: 70/2026/TT-BCA
 signer: Bộ trưởng Bộ Công an
 effective_date: 2026-07-01
 type: thong-tu
@@ -21,7 +22,7 @@ tags:
   - giấy phép xuất nhập cảnh
   - thường trú
   - phiếu yêu cầu thông báo
-docid: 70/2026/TT-BCA
+docid: chua-xac-minh
 source: luatvietnam.vn; bocongan.gov.vn; vanban.bocongan.gov.vn
 amends:
   - 04/2015/TT-BCA
