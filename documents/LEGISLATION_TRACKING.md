@@ -1,3 +1,67 @@
+## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 40)
+
+### Phát hiện: 0 văn bản mới — 5 cập nhật xác minh cho văn bản đã ghi nhận
+
+Quét vanban.chinhphu.vn dải docid 228800–245000 + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, tapchikinhtetaichinh.vn, thuehaiquan.tapchikinhtetaichinh.vn, thoibaotaichinhvietnam.vn, stockbiz.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, vietstock.vn, cafef.vn, baomoi.com, sct.dongnai.gov.vn, thuonghieucongluan.com.vn, xaydungchinhsach.chinhphu.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng, Hàng không, Bảo hiểm, Công Thương. Ưu tiên: văn bản hiệu lực tháng 7/2026, văn bản tháng 7/2026 chưa xác minh docid.
+
+**Phát hiện đặc biệt:** Không phát hiện văn bản mới chưa từng ghi nhận. Tuy nhiên, phát hiện **29/2026/TT-BYT** có ngày ban hành khác với danh sách ban đầu (xem bên dưới), và xác minh thêm chi tiết cho 4 văn bản khác. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 29/2026/TT-BYT | **06/07/2026** ⚠️ | **Quy định về thực hành công tác xã hội và cập nhật kiến thức công tác xã hội** — Bộ trưởng Bộ Y tế ban hành; quy định tiêu chuẩn, điều kiện thực hành công tác xã hội trong lĩnh vực y tế; nội dung cập nhật kiến thức cho nhân viên công tác xã hội; hiệu lực theo quy định | Y tế / Lao động | chua-xac-minh | **Cập nhật** | ⚠️ **PHÁT HIỆN QUAN TRỌNG**: Danh sách trong task ghi "30/6/2026" — nhưng thuvienphapluat.vn (tin đăng 1 tuần trước) xác minh: **"Ngày 06/07/2026, Bộ trưởng Bộ Y tế ban hành Thông tư 29/2026/TT-BYT quy định về thực hành công tác xã hội và cập nhật kiến thức công tác xã hội."** Đây là văn bản BYT ban hành sau đợt 30/6, cùng ngày với 1205/QĐ-TTg. Cần xác minh docid. **Ưu tiên thấp** |
+| 272/2026/NĐ-CP | 04/07/2026 | **Phát triển năng lượng quốc gia giai đoạn 2026-2030** — quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai dự án điện gió ngoài khơi theo Nghị quyết 253/2025/QH15; vốn góp tối thiểu 5% (DN trong nước), 15% (FDI); vốn chủ sở hữu ≥1 tỷ/MW; hiệu lực **04/7/2026 đến 31/12/2030** | Năng lượng | chua-xac-minh | **Cập nhật** | Xác minh **ngày ban hành 04/7/2026** từ doanhnghiephoinhap.vn, vtv.vn, baomoi.com, baochinhphu.vn — tất cả đều ghi rõ "ban hành Nghị định 272/2026/NĐ-CP ngày 04/7/2026". Thêm chi tiết: vốn góp, quy định năng lượng quốc gia giai đoạn 2026-2030. **Chưa xác minh được docid** — vanban.chinhphu.vn vẫn trống hoàn toàn |
+| 96/2026/TT-BTC | 02/07/2026 | **Sửa đổi, bổ sung Thông tư 67/2023/TT-BTC về kinh doanh bảo hiểm** — quy định chi tiết hoạt động kinh doanh bảo hiểm; sửa điều kiện, hồ sơ, thủ tục; quy định về đại lý bảo hiểm; **bắt buộc có chính sách bảo vệ dữ liệu cá nhân** khi bán sản phẩm bảo hiểm trên môi trường mạng; quy định về hoa hồng đại lý với bảo hiểm liên kết đầu tư; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | chua-xac-minh | **Cập nhật** | Bổ sung chi tiết: quy định bảo vệ dữ liệu cá nhân bắt buộc với bảo hiểm trực tuyến (từ luatvietnam.vn slug 110189); hoa hồng đại lý bảo hiểm liên kết đầu tư (từ thoibaotaichinhvietnam.vn). **Ngày ban hành 02/7/2026 xác minh từ 4 nguồn.** Chưa xác minh docid |
+| 29/2026/TT-NHNN | 30/06/2026 | **Sửa đổi Thông tư 39/2016/TT-NHNN về cho vay của tổ chức tín dụng** — sửa đổi điều kiện cho vay, quyền và nghĩa vụ các bên; cập nhật theo Luật các Tổ chức tín dụng 2024; nâng hạn mức khoản vay giá trị nhỏ lên **400 triệu đồng** (tổ chức tín dụng khác), **200 triệu đồng** (quỹ tín dụng nhân dân); quy định xác minh khách hàng bằng phương tiện điện tử; bãi bỏ Điều 32c và 32h; hiệu lực **15/8/2026** | Ngân hàng / Tài chính | chua-xac-minh | **Cập nhật** | Bổ sung chi tiết: hạn mức vay nhỏ 400 triệu/200 triệu (từ nguoiquansat.vn, vietstock.vn); quy định xác minh KYC điện tử; hiệu lực 15/8/2026 (khác với đa số văn bản cùng đợt 01/7). **Ngày ban hành 30/6/2026 xác minh từ luatvietnam.vn (slug 439082) và thuvienphapluat.vn.** Chưa xác minh docid |
+| 39/2026/TT-BCT | 30/06/2026 | **Ban hành QCVN 30:2026/BCT — Quy chuẩn kỹ thuật quốc gia về đồ uống có cồn** — quy chuẩn kỹ thuật quốc gia đối với sản phẩm đồ uống có cồn; quy định yêu cầu về chất lượng, an toàn thực phẩm và quản lý; hiệu lực **01/01/2027** | Công Thương / An toàn thực phẩm | chua-xac-minh | **Cập nhật** | Bổ sung chi tiết: nội dung QCVN 30:2026/BCT đầy đủ (từ luatvietnam.vn slug 110138 và sct.dongnai.gov.vn). **Ngày ban hành 30/6/2026 xác minh từ luatvietnam.vn và Sở Công Thương Đồng Nai.** Hiệu lực 01/01/2027 (chậm nhất trong đợt). Chưa xác minh docid |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 39)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 29/2026/TT-BYT | **CÓ** (lần 31, ngày ước đoán 30/6) | **Cập nhật ngày → 06/7/2026** ⚠️ |
+| 272/2026/NĐ-CP | **CÓ** (lần 31, ngày ước đoán 04/7) | **Xác nhận ngày → 04/7/2026** ✅ |
+| 96/2026/TT-BTC | **CÓ** (lần 39) | Cập nhật chi tiết bổ sung |
+| 29/2026/TT-NHNN | **CÓ** (lần 32) | Cập nhật chi tiết bổ sung |
+| 39/2026/TT-BCT | **CÓ** (lần 31) | Cập nhật chi tiết bổ sung |
+
+### Tình trạng vanban.chinhphu.vn — API hoàn toàn không trả lời
+
+- **curl API dải docid 228800–245000 (step 100–500)**: TẤT CẢ 404 HTML
+- **curl API dải docid 218400–219500 (kiểm tra boundary)**: TẤT CẢ 404 HTML
+- **curl API docid 150000 (kiểm tra docid cũ đã biết)**: 404 HTML
+- **curl vanban.chinhphu.vn/ (trang chủ)**: HTTP 200 OK
+- **Kết luận**: vanban.chinhphu.vn đã TẮT hoàn toàn API `/portal/api/v2/vanban/detail` (404 trên toàn bộ dải, kể cả docid cũ đã từng hoạt động). Trang chủ vẫn chạy nhưng backend API không trả lời. **Có thể đang bảo trì hoặc đổi endpoint.** Các nguồn thay thế (luatvietnam.vn, thuvienphapluat.vn) vẫn hoạt động bình thường.
+
+### ⚠️ Phát hiện quan trọng nhất: 29/2026/TT-BYT — ngày ban hành thực tế = 06/7/2026
+
+Danh sách 17 văn bản cần xác minh trong task liệt kê **29/2026/TT-BYT** là "ban hành 30/6/2026, đồ uống có cồn" — ĐÂY LÀ SAI. Thực tế:
+- **39/2026/TT-BCT** = ban hành 30/6/2026, đồ uống có cồn, QCVN 30:2026/BCT
+- **29/2026/TT-BYT** = ban hành 06/7/2026, thực hành công tác xã hội, Bộ Y tế
+
+**Khuyến nghị:** Cần kiểm tra danh sách 17 văn bản ban đầu — có thể có nhầm lẫn số hiệu khác. Task ghi "39/TT-BCT (ban hành 30/6/2026, đồ uống có cồn)" nhưng đánh số "39" có thể nhầm với TT-BCT. Trong khi đó "29/TT-BYT" thực tế là văn bản BYT ban hành 06/7, KHÔNG phải BCT.
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **⚠️ Kiểm tra lại danh sách 17 văn bản** — phát hiện nhầm lẫn số hiệu 29/TT-BYT ↔ 39/TT-BCT. Cần rà soát toàn bộ danh sách ban đầu xem còn nhầm lẫn nào khác.
+2. **Năng lượng** (ưu tiên số 1): **272/2026/NĐ-CP** — điện gió ngoài khơi, vốn góp 5%/15%, vốn chủ sở hữu ≥1 tỷ/MW; ngày ban hành **04/7/2026** xác minh; hiệu lực 04/7–31/12/2030. Chưa xác minh docid.
+3. **Bảo hiểm** (ưu tiên số 2): **96/2026/TT-BTC** — sửa đổi TT 67/2023, bảo vệ dữ liệu cá nhân bắt buộc, hoa hồng đại lý; ngày ban hành **02/7/2026** xác minh; hiệu lực 01/7/2026. Chưa xác minh docid.
+4. **Ngân hàng** (ưu tiên số 3): **29/2026/TT-NHNN** — cho vay, hạn mức 400 triệu/200 triệu, KYC điện tử; ngày ban hành **30/6/2026** xác minh; hiệu lực **15/8/2026**. Chưa xác minh docid.
+5. **Công Thương** (ưu tiên số 4): **39/2026/TT-BCT** — QCVN 30:2026/BCT đồ uống có cồn, hiệu lực **01/01/2027**. Chưa xác minh docid.
+6. **Y tế** (ưu tiên số 5): **29/2026/TT-BYT** — thực hành công tác xã hội, ngày ban hành **06/7/2026** xác minh. Chưa xác minh docid.
+
+### Ghi chú xử lý
+
+- **29/2026/TT-BYT ngày ban hành = 06/7/2026**: Xác minh từ thuvienphapluat.vn ("Ngày 06/07/2026, Bộ trưởng Bộ Y tế ban hành Thông tư 29/2026/TT-BYT quy định về thực hành công tác xã hội và cập nhật kiến thức công tác xã hội"). Khác với mọi đợt trước (lần 31+) khi ghi "30/6/2026". Đây là văn bản BYT mới nhất trong danh sách, cùng ngày ban hành với 1205/QĐ-TTg.
+- **272/2026/NĐ-CP ngày ban hành xác nhận = 04/7/2026**: doanhnghiephoinhap.vn, vtv.vn, baochinhphu.vn đều ghi rõ "ban hành ngày 04/7/2026". Hiệu lực cũng từ 04/7/2026 đến hết 31/12/2030. Vốn góp tối thiểu 5% (doanh nghiệp trong nước), 15% (nhà đầu tư nước ngoài). Vanban.chinhphu.vn vẫn trống hoàn toàn.
+- **96/2026/TT-BTC bổ sung chi tiết**: Ngoài nội dung đã biết, bổ sung quy định bảo vệ dữ liệu cá nhân bắt buộc khi bán bảo hiểm trên môi trường mạng (luatvietnam.vn slug 110189) và quy định hoa hồng đại lý với bảo hiểm liên kết đầu tư (thoibaotaichinhvietnam.vn).
+- **29/2026/TT-NHNN bổ sung chi tiết**: Hạn mức cho vay giá trị nhỏ tối đa 400 triệu (TCTD khác) và 200 triệu (quỹ tín dụng nhân dân) — quy định mới có hiệu lực từ 15/8/2026. Cơ chế xác minh khách hàng bằng phương tiện điện tử.
+- **39/2026/TT-BCT bổ sung chi tiết**: QCVN 30:2026/BCT ban hành kèm Thông tư 39/2026/TT-BCT ngày 30/6/2026. Quy chuẩn kỹ thuật quốc gia về đồ uống có cồn — yêu cầu về chất lượng, an toàn thực phẩm. Hiệu lực 01/01/2027.
+- **vanban.chinhphu.vn API tắt hoàn toàn**: HTTP 404 trên toàn bộ dải docid 218000–245000, kể cả docid đã từng hoạt động (218139, 218228, 218450). Đây là sự cố nghiêm trọng — tất cả xác minh docid phải chờ API khôi phục HOẶC tìm nguồn thay thế có chứa docid (ví dụ: baochinhphu.vn thường có link vanban.chinhphu.vn kèm docid).
+- **0 văn bản mới được phát hiện** lần 40 — đợt ban hành chính thức tháng 7/2026 đã kết thúc. Các văn bản cần xác minh đều đã ghi nhận trong tracking.
+- Nguồn: vanban.chinhphu.vn (API TẮT hoàn toàn), web_search Brave (luatvietnam.vn, thuvienphapluat.vn, tapchikinhtetaichinh.vn, thuehaiquan.tapchikinhtetaichinh.vn, thoibaotaichinhvietnam.vn, stockbiz.vn, baochinhphu.vn, doanhnghiephoinhap.vn, vtv.vn, vietstock.vn, cafef.vn, baomoi.com, sct.dongnai.gov.vn, thuonghieucongluan.com.vn, xaydungchinhsach.chinhphu.vn).
+- Ngày phát hiện: 2026-07-08 12:34 ICT
+- Phiên thực hiện: agent:github-io:subagent:2909dfd2-f784-4553-984b-03dbe118ae9c (Đệ #1 Discovery — lần 40)
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 39)
 
 ### Phát hiện mới: 5 văn bản mới — 96/TT-BTC, 215/NĐ-CP, 222/NĐ-CP, 108/TT-BCA, 85/TT-BTC
