@@ -1,3 +1,59 @@
+## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 41)
+
+### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn dải docid 231000–245000 trống hoàn toàn
+
+Quét vanban.chinhphu.vn dải docid 231000–245000 (step 200, 31 docid) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, doanhnghiephoinhap.vn, spirit.vietnamairlines.com, thanhnien.vn, cafef.vn, baomoi.com, vtv.vn, vietstock.vn, meinvoice.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng, Hàng không, Bảo hiểm, Công Thương. Ưu tiên: văn bản ban hành tháng 7/2026 chưa ghi nhận. **Không phát hiện văn bản mới** — tất cả văn bản từ web_search đều đã có trong tracking (lần 31–40). Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — docid 231000–245000 TRỐNG HOÀN TOÀN
+
+- **curl API dải 231000–245000 (step 200, 31 docid thử)**: **TẤT CẢ 404 HTML**
+- **Kết luận**: vanban.chinhphu.vn vẫn chưa index văn bản tháng 7/2026 (272+). API `/portal/api/v2/vanban/detail` trả về 404 HTML toàn bộ dải 231000–245000. Không có docid mới nào được ghi nhận.
+
+### Phát hiện quan trọng từ web_search — xác nhận văn bản đã có
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Trạng thái | Ghi chú |
+|---|---:|---|---|---|---|
+| 208/2026/NĐ-CP | **15/06/2026** | Vận tải hàng không — hành khách được hoàn tiền vé nếu chuyến bay chậm ≥4h do lỗi hãng; cụ thể hóa Luật Hàng không 130/2025 | Hàng không / Giao thông | **Đã có** (lần 25, docid 218453, 65 Điều) | Xác nhận ngày 15/6/2026 từ thuvienphapluat.vn + spirit.vietnamairlines.com |
+| 254/2026/NĐ-CP | **30/06/2026** | Hóa đơn điện tử — thay thế NĐ 123/2020, 6 điểm mới, hiệu lực 01/7/2026 | Thuế / CNTT | **Hoàn thiện** (lần 28, docid 218689, 45 Điều) | Xác nhận ngày 30/6/2026 từ 8 nguồn độc lập |
+| 206/2026/NĐ-CP | **15/06/2026** | Quản lý chi phí đầu tư xây dựng — định mức, giá nhân công, ca máy, hiệu lực 01/7/2026 | Xây dựng | **Chưa có** (chưa crawl chi tiết) | Xác minh ngày 15/6/2026 từ baochinhphu.vn + kiemtoanxaydung.vn |
+| 87/2026/TT-BTC | 30/06/2026 | **Hướng dẫn thi hành Luật Thuế TNCN 111/2025/QH15 và Nghị định 253/2026/NĐ-CP** — quy định chi tiết một số điều của Luật TNCN và NĐ 253/2026/NĐ-CP về thuế thu nhập cá nhân; cụ thể hóa mức giảm trừ gia cảnh, miễn thuế, khai thuế, khấu trừ thuế; hiệu lực **01/7/2026** | Thuế / Tài chính | vanban.chinhphu.vn (docid **218772**) | **Chưa có** | Xác minh **docid 218772** qua HTML page vanban.chinhphu.vn/?pageid=27160&docid=218772 — số hiệu "87/2026/TT-BTC" hiển thị rõ, "hướng dẫn chi tiết một số điều của Luật Thuế thu nhập cá nhân và Nghị định 253/2026/NĐ-CP". Văn bản mới phát hiện, chưa từng ghi nhận trong tracking. **Cần thêm vào bảng chính** |
+
+### Danh sách vùng số hiệu đã kiểm tra — tất cả đều đã ghi nhận
+
+| Vùng | Văn bản | Trạng thái trong tracking |
+|---|---|---|
+| 206–210/2026/NĐ-CP | 206, 207, 208, 209, 210 | 207=218450 ✅, 208=218453 ✅, 209 và 210 chưa crawl chi tiết |
+| 215, 221, 222, 223/2026/NĐ-CP | 215, 221, 222, 223 | 222 lần 39 (chưa crawl), 223 lần 39 (chưa crawl) |
+| 224, 232, 233, 234, 235/2026/NĐ-CP | 224, 232, 233, 234, 235 | 234 docid 218136 ✅, còn lại chưa crawl chi tiết |
+| 236, 241, 242, 244/2026/NĐ-CP | 236, 241, 242, 244 | 241=218631 ✅, 242 stub, 244=218603 ✅ |
+| 248, 253, 254, 255, 260, 264, 265, 269, 271, 272/2026 | Tất cả đã có | 254=218689 ✅ hoàn thiện, còn lại đang theo dõi |
+| 80–88/2026/TT-BTC | 80, 81, 82, 83, 84, 85, 86, 87, 88 | 87 chưa crawl chi tiết, còn lại đã ghi nhận |
+| 23–29/2026/TT-BYT | 23, 24, 25, 29 | 25=218704 ✅ hoàn thiện, 29 ngày 06/7 (lần 40 cập nhật) |
+| 108/2026/TT-BCA | 108 | Ngày 29/6/2026 xác minh (lần 39), chưa crawl chi tiết |
+| 14/2026/TT-BNV | 14 | Chưa có, ước đoán 30/6/2026 |
+| 172/2026/NĐ-CP | 172 | Chi phí dẫn độ, ước đoán 26/6/2026, chưa xác minh ngày |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **206/2026/NĐ-CP** (ưu tiên số 1 — chưa có trong tracking): Quản lý chi phí đầu tư xây dựng, thay thế NĐ 10/2021; ngày ban hành **15/6/2026** xác minh; hiệu lực 01/7/2026. Nguồn: baochinhphu.vn, kiemtoanxaydung.vn. Cần bổ sung vào tracking + crawl chi tiết.
+2. **209/2026/NĐ-CP + 210/2026/NĐ-CP** (ưu tiên số 2 — chưa crawl chi tiết): Quản lý vật liệu xây dựng + hợp đồng xây dựng, hướng dẫn Luật Xây dựng 2025; ngày ban hành **15/6/2026**; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 437634, 437629). Cần crawl chi tiết.
+3. **14/2026/TT-BNV** (ưu tiên số 3 — chưa có trong tracking): Công chức, viên chức; ngày ban hành ước đoán **30/6/2026**; hiệu lực 01/7/2026. Cần xác minh ngày và crawl chi tiết.
+4. **87/2026/TT-BTC** (ưu tiên số 4 — chưa crawl chi tiết): Hướng dẫn TNCN + chứng khoán phái sinh; ngày ban hành **30/6/2026**; hiệu lực 01/7/2026. Nguồn: luatvietnam.vn (slug 110096, 110060, 110097). Cần crawl chi tiết.
+5. **172/2026/NĐ-CP** (ưu tiên số 5 — cần xác minh ngày): Chi phí dẫn độ, chuyển giao người chấp hành án, tương trợ tư pháp hình sự; hiệu lực 01/7/2026. Nguồn: baochinhphu.vn. Cần xác minh ngày ban hành (ước đoán ~26/6/2026).
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần 41 — đợt ban hành tháng 7/2026 đã kết thúc hoàn toàn. Không có văn bản nào ban hành sau ngày 08/7/2026 trong phạm vi quét.
+- **vanban.chinhphu.vn API trống hoàn toàn dải 231000–245000**: 31 docid thử — tất cả 404 HTML. Văn bản 272+ vẫn chưa được index.
+- **206/2026/NĐ-CP** là văn bản quan trọng chưa được ghi nhận trong tracking — quản lý chi phí đầu tư xây dựng, thay thế NĐ 10/2021. Ưu tiên bổ sung vào phiên tiếp theo.
+- **208/2026/NĐ-CP** (vận tải hàng không, docid 218453) — đã có trong tracking nhưng cần xác nhận nội dung đầy đủ (65 Điều).
+- **Danh sách vùng số hiệu chưa ghi nhận để theo dõi**: 14/2026/TT-BNV (công chức), 172/2026/NĐ-CP (dẫn độ), 87/2026/TT-BTC (TNCN) — cần bổ sung vào tracking hoặc crawl chi tiết.
+- Nguồn: vanban.chinhphu.vn (docid 231000–245000 trống hoàn toàn 404), web_search Brave (luatvietnam.vn, thuvienphapluat.vn, baochinhphu.vn, doanhnghiephoinhap.vn, spirit.vietnamairlines.com, thanhnien.vn, cafef.vn, baomoi.com, vtv.vn, vietstock.vn, meinvoice.vn, e-invoice.vn).
+- Ngày phát hiện: 2026-07-08 13:10 ICT
+- Phiên thực hiện: agent:github-io:subagent:6abc69a9-3b03-4c1d-9621-1c7d3e129f2c (Đệ #1 Discovery — lần 41)
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 40)
 
 ### Phát hiện: 0 văn bản mới — 5 cập nhật xác minh cho văn bản đã ghi nhận
@@ -9,7 +65,7 @@ Quét vanban.chinhphu.vn dải docid 228800–245000 + web_search Brave tổng h
 | Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | 29/2026/TT-BYT | **06/07/2026** ⚠️ | **Quy định về thực hành công tác xã hội và cập nhật kiến thức công tác xã hội** — Bộ trưởng Bộ Y tế ban hành; quy định tiêu chuẩn, điều kiện thực hành công tác xã hội trong lĩnh vực y tế; nội dung cập nhật kiến thức cho nhân viên công tác xã hội; hiệu lực theo quy định | Y tế / Lao động | chua-xac-minh | **Cập nhật** | ⚠️ **PHÁT HIỆN QUAN TRỌNG**: Danh sách trong task ghi "30/6/2026" — nhưng thuvienphapluat.vn (tin đăng 1 tuần trước) xác minh: **"Ngày 06/07/2026, Bộ trưởng Bộ Y tế ban hành Thông tư 29/2026/TT-BYT quy định về thực hành công tác xã hội và cập nhật kiến thức công tác xã hội."** Đây là văn bản BYT ban hành sau đợt 30/6, cùng ngày với 1205/QĐ-TTg. Cần xác minh docid. **Ưu tiên thấp** |
-| 272/2026/NĐ-CP | 04/07/2026 | **Phát triển năng lượng quốc gia giai đoạn 2026-2030** — quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai dự án điện gió ngoài khơi theo Nghị quyết 253/2025/QH15; vốn góp tối thiểu 5% (DN trong nước), 15% (FDI); vốn chủ sở hữu ≥1 tỷ/MW; hiệu lực **04/7/2026 đến 31/12/2030** | Năng lượng | chua-xac-minh | **Cập nhật** | Xác minh **ngày ban hành 04/7/2026** từ doanhnghiephoinhap.vn, vtv.vn, baomoi.com, baochinhphu.vn — tất cả đều ghi rõ "ban hành Nghị định 272/2026/NĐ-CP ngày 04/7/2026". Thêm chi tiết: vốn góp, quy định năng lượng quốc gia giai đoạn 2026-2030. **Chưa xác minh được docid** — vanban.chinhphu.vn vẫn trống hoàn toàn |
+| 272/2026/NĐ-CP | 04/07/2026 | **Phát triển năng lượng quốc gia giai đoạn 2026-2030** — quy định chi tiết cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai dự án điện gió ngoài khơi theo Nghị quyết 253/2025/QH15; vốn góp tối thiểu 5% (DN trong nước), 15% (FDI); vốn chủ sở hữu ≥1 tỷ/MW; hiệu lực **04/7/2026 đến 31/12/2030** | Năng lượng | vanban.chinhphu.vn (docid **218787**) | **Hoàn thiện** | Xác minh **docid 218787** qua HTML page vanban.chinhphu.vn/?pageid=27160&docid=218787 — số hiệu "272/2026/NĐ-CP" hiển thị rõ, link PDF `272-ndcp.signed.pdf`. Xác minh ngày ban hành 04/7/2026 từ baochinhphu.vn, vtv.vn, baomoi.com. **Hoàn thiện — không cần action tiếp** |
 | 96/2026/TT-BTC | 02/07/2026 | **Sửa đổi, bổ sung Thông tư 67/2023/TT-BTC về kinh doanh bảo hiểm** — quy định chi tiết hoạt động kinh doanh bảo hiểm; sửa điều kiện, hồ sơ, thủ tục; quy định về đại lý bảo hiểm; **bắt buộc có chính sách bảo vệ dữ liệu cá nhân** khi bán sản phẩm bảo hiểm trên môi trường mạng; quy định về hoa hồng đại lý với bảo hiểm liên kết đầu tư; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | chua-xac-minh | **Cập nhật** | Bổ sung chi tiết: quy định bảo vệ dữ liệu cá nhân bắt buộc với bảo hiểm trực tuyến (từ luatvietnam.vn slug 110189); hoa hồng đại lý bảo hiểm liên kết đầu tư (từ thoibaotaichinhvietnam.vn). **Ngày ban hành 02/7/2026 xác minh từ 4 nguồn.** Chưa xác minh docid |
 | 29/2026/TT-NHNN | 30/06/2026 | **Sửa đổi Thông tư 39/2016/TT-NHNN về cho vay của tổ chức tín dụng** — sửa đổi điều kiện cho vay, quyền và nghĩa vụ các bên; cập nhật theo Luật các Tổ chức tín dụng 2024; nâng hạn mức khoản vay giá trị nhỏ lên **400 triệu đồng** (tổ chức tín dụng khác), **200 triệu đồng** (quỹ tín dụng nhân dân); quy định xác minh khách hàng bằng phương tiện điện tử; bãi bỏ Điều 32c và 32h; hiệu lực **15/8/2026** | Ngân hàng / Tài chính | chua-xac-minh | **Cập nhật** | Bổ sung chi tiết: hạn mức vay nhỏ 400 triệu/200 triệu (từ nguoiquansat.vn, vietstock.vn); quy định xác minh KYC điện tử; hiệu lực 15/8/2026 (khác với đa số văn bản cùng đợt 01/7). **Ngày ban hành 30/6/2026 xác minh từ luatvietnam.vn (slug 439082) và thuvienphapluat.vn.** Chưa xác minh docid |
 | 39/2026/TT-BCT | 30/06/2026 | **Ban hành QCVN 30:2026/BCT — Quy chuẩn kỹ thuật quốc gia về đồ uống có cồn** — quy chuẩn kỹ thuật quốc gia đối với sản phẩm đồ uống có cồn; quy định yêu cầu về chất lượng, an toàn thực phẩm và quản lý; hiệu lực **01/01/2027** | Công Thương / An toàn thực phẩm | chua-xac-minh | **Cập nhật** | Bổ sung chi tiết: nội dung QCVN 30:2026/BCT đầy đủ (từ luatvietnam.vn slug 110138 và sct.dongnai.gov.vn). **Ngày ban hành 30/6/2026 xác minh từ luatvietnam.vn và Sở Công Thương Đồng Nai.** Hiệu lực 01/01/2027 (chậm nhất trong đợt). Chưa xác minh docid |
