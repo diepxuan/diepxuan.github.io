@@ -181,6 +181,7 @@
 | File | Số | Kích thước | Ngày sửa | Ghi chú |
 |------|-----|-----------|---------|---------|
 | `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 48/2026/TT-BCA (QCVN 11:2026/BCA) | 4,476 bytes | 2026-06-01 (mod) | Stub — nội dung summary 11 nhóm yêu cầu kỹ thuật; 37 ngày tuổi (mod); Cần xác minh docid, crawl toàn văn từ vanban.bocongan.gov.vn |
+| `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/90-2026-tt-btc-dang-ky-thue.md` | 90/2026/TT-BTC | 2,340 bytes | 2026-07-09 | Stub — tất cả nguồn chính 404 (luatvietnam slug 439827, vbpl PubID 619124, PDF datafiles, vanban.chinhphu docid chưa xác minh); 08 ngày tuổi; Cần crawl lại khi nguồn khả dụng |
 
 ---
 
