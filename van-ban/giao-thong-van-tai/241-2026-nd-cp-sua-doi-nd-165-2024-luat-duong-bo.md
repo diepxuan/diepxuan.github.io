@@ -327,7 +327,7 @@ dựng đường tránh theo quy định của pháp luật về xây dựng.
 và khoản 2 Điều này tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
 
 a) Trong vòng: 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra
-thành phần hỗ SƠ, nếu không đủ thành phần hồ sơ có văn bản thông báo đến cơ
+thành phần hồ sơ, nếu không đủ thành phần hồ sơ có văn bản thông báo đến cơ
 quan, tổ chức đề nghị để bổ sung, hoàn thiện; ,
 
 b) Trong t thời hạn 07 ngày làm việc kế từ khi nhận đủ hồ sơ theo quy định,
@@ -674,7 +674,7 @@ vỉa hè vào mục đích khác theo quy định tại khoản 2 Điều này.
 c) Số lượng tài liệu quy định tại điểm a và điểm b khoản này: 01 bộ.".
 5. Sửa đổi, bổ sung khoản 5 như sau:
 
-"5, Thâm quyền cấp phép sử dụng tạm thời một phần hoặc toàn bộ lòng
+"5, Thẩm quyền cấp phép sử dụng tạm thời một phần hoặc toàn bộ lòng
 đường, vỉa hè vào mục đích khác như sau:
 
 a) Khu Quản lý đường bộ thực hiện đối với đường bộ quy định tại khoản 3
