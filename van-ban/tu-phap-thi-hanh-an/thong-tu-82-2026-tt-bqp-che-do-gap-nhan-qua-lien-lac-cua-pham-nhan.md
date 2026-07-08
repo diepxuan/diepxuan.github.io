@@ -9,6 +9,7 @@ nguoiky: "Nguyễn Văn Gấu"
 ngayhieuluc: "2026-07-01"
 trichyeu: "Quy định chế độ gặp, nhận quà và liên lạc của phạm nhân"
 nhóm: "Tư pháp / Quốc phòng"
+group: tu-phap-thi-hanh-an
 docid: 218521
 source: "vanban.chinhphu.vn; datafiles.chinhphu.vn"
 tags:

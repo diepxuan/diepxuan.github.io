@@ -3,10 +3,13 @@ layout: vanban
 title: "Thông tư 25/2026/TT-NHNN sửa đổi giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động ngân hàng"
 number: 25/2026/TT-NHNN
 date: 2026-06-22
+modified: 2026-07-08
 sig_date: 2026-06-22
+modified: 2026-07-08
 issuer: Ngân hàng Nhà nước Việt Nam
 signer: Thống đốc Ngân hàng Nhà nước
 docid: "218533"
+group: ngan-hang
 groups:
   - Ngân hàng
   - Tài chính

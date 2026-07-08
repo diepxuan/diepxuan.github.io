@@ -575,7 +575,7 @@ giá trị còn lại của tài sản.
 
 Thời gian sử dụng để tính hao mòn của tài sản theo Chỉ phí
 Nguyên giá tài quy định tại Điều 10 Thông tư này (năm) thuê
-sản kết cấu hạ _ Giá trị đánh giá „ — đoanh
+sản kết cấu hạ _ Giá trị đánh giá " — đoanh
 tầng đường bộ lại của tài sản X - nghiệp
 tiếp nhận lại Thời gian sử dụng đề tính hao mòn còn lại của tài thẩm
 sản (năm) định giá
@@ -1065,7 +1065,7 @@ công trình đường bộ hoặc được khôi phục lại thông qua bảo 
 thiệt hại của tổ chức, cá nhân có liên quan) quy định tại khoản Š Điều 7 và
 khoản 5 Điều 8 Thông tư này.
 
-: ¿„„ Chương II.
+: ¿"" Chương II.
 KẾ KHAI, BÁO CÁO VẺ TÀI SẢN KẾT CÁU
 HẠ TẢNG ĐƯỜNG BỘ
 
@@ -1289,7 +1289,7 @@ Tình trạng
 Thông số cơ bản Giá trị (đồng) sử dụng của
 (Chế độ| _ tàisản
 
-2878.033 ngày... tháng ... năm ..... .........„ N@ÂÀy..... tháng..... HĂM......
+2878.033 ngày... tháng ... năm ..... ........." N@ÂÀy..... tháng..... HĂM......
 NGƯỜI LẬP BIẾU THỦ TRƯỞNG CƠ QUAN/ĐƠN VỊ...
 (Ký, ghi rõ họ tên) BÁO CÁO
 
@@ -1388,7 +1388,7 @@ LIH |Về việc khai thác tài sa | | | | | `
 
 
 |2 [[hôngtinkho |} — |} |} |} _ | `
-_— ngày... tháng... năm ..... .........„ N@Àÿ..... thÁHG..... HĂM ......
+_— ngày... tháng... năm ..... ........." N@Àÿ..... thÁHG..... HĂM ......
 NGƯỜI LẬP BIÊU THỦ TRƯỞNG CƠ QUAN/ĐƠN VỊ...
 (Ký, ghi rõ họ tên) BẢO CAO
 
@@ -1424,7 +1424,7 @@ A. Thông tin về đối tượng báo cáo
 Tên đối tượng:......... Mã đối tượng: ...........
 B. Thông tin về tài sản
 
-l020557 ngày... tháng ... năm ..... .......„ NGŸ..... thẳng..... nĂm......
+l020557 ngày... tháng ... năm ..... ......." NGŸ..... thẳng..... nĂm......
 NGƯỜI LẬP BIÊU THỦ TRƯỞNG CƠ QUAN/ĐƠN VỊ...
 (Ký, ghi rõ họ tên) BẢO CAO
 
@@ -1476,7 +1476,7 @@ Ghi chú
 Tổ chức,
 doanh
 
-_ , ngày... tháng... năm ..... ........„ NØÀW..... thẳng..... HĂM......
+_ , ngày... tháng... năm ..... ........" NØÀW..... thẳng..... HĂM......
 XÁC NHẬN CỦA CƠ QUAN QUẢN LÝ THỦ TRƯỞNG CƠ QUAN/ĐƠN VỊ
 CÁP TRÊN (nếu có) — BÁO CÁO :
 (Ký, ghỉ rõ họ tên và đóng dâu) (Ký, ghỉ rõ họ tên và đóng dâu)
@@ -1525,7 +1525,7 @@ giá | còn lại| bồi | chuyển | phương thu bọn sách nhà
 IIIRIIRRRIRRRIRIIIRR
 ộng
 
-— ngày... tháng ... năm ..... ......„ @ÔÀ..... thẳng..... NĂM ......
+— ngày... tháng ... năm ..... ......" @ÔÀ..... thẳng..... NĂM ......
 XÁC NHẬN CỦA CƠ QUAN THỦ TRƯỞNG CƠ QUAN/
 ế ĐƠN VỊ BÁO CÁO -
 (Ký, ghỉ rõ họ tên và đóng dâu)

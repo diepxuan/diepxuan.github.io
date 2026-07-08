@@ -772,7 +772,7 @@ m /BB-HNĐT NAM
 
 Độc lập - Tự do - Hạnh phúc
 
-.„ ngày... tháng ... năm
+." ngày... tháng ... năm
 BIÊN BẢN HỌP HỘI NGHỊ NHÀ ĐẦU TƯ
 
 Về việc thành lập/kiện toàn Hội đồng trường

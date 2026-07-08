@@ -32,7 +32,7 @@ can-cu-phap-ly:
   - Luật Xây dựng số 135/2025/QH15
   - Nghị định số 207/2026/NĐ-CP ngày 15/6/2026
   - Nghị định số 33/2025/NĐ-CP ngày 22/4/2025
-trich-yeu: Quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng — hướng dẫn: kế hoạch tổ chức thí nghiệm vật liệu/cấu kiện, quan trắc công trình khi thi công (báo cáo chủ đầu tư nếu vượt giới hạn), kiểm định xây dựng, giám định xây dựng, quan trắc phục vụ bảo trì (3 nhóm công trình phải quan trắc: cấp đặc biệt, cấp I trở lên, sân vận động cấp I trở lên); báo cáo/công bố công trình hết hạn sử dụng; bãi bỏ một số điều Thông tư 10/2021/TT-BXD.
+trich-yeu: "Quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng — hướng dẫn: kế hoạch tổ chức thí nghiệm vật liệu/cấu kiện, quan trắc công trình khi thi công (báo cáo chủ đầu tư nếu vượt giới hạn), kiểm định xây dựng, giám định xây dựng, quan trắc phục vụ bảo trì (3 nhóm công trình phải quan trắc: cấp đặc biệt, cấp I trở lên, sân vận động cấp I trở lên); báo cáo/công bố công trình hết hạn sử dụng; bãi bỏ một số điều Thông tư 10/2021/TT-BXD."
 ---
 
 # Thông tư 32/2026/TT-BXD
