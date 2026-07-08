@@ -1,3 +1,132 @@
+## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 43)
+
+### Phát hiện: 0 văn bản mới — 6 docid xác minh + 1 bonus NĐ-CP
+
+Quét toàn diện vanban.chinhphu.vn dải docid 218600–220000 (HTML page method) + web_search Brave. Ưu tiên: xác minh docid cho 5 văn bản chưa có (96, 29-NHNN, 15-BNV, 39, 108, 85/TT-BTC). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 42 — 2 văn bản 232, 252): **không phát hiện văn bản mới** — xác minh **6 docid cho văn bản đã ghi nhận** + 1 bonus (272/NĐ-CP). Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 15/2026/TT-BNV | 30/06/2026 | **Sửa đổi, bổ sung chế độ phụ cấp khu vực** — sửa đổi, bổ sung Thông tư liên tịch số 11/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT; cập nhật danh sách địa bàn theo mô hình chính quyền mới; chuẩn hóa đối tượng áp dụng; hiệu lực **01/7/2026** | Lao động / Hành chính | vanban.chinhphu.vn (docid **218701**) | **Hoàn thiện** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218701&pageid=27160 trả về HTTP 200 với tiêu đề đầy đủ. Docid 218701 chứa đúng "Thông tư số 15/2026/TT-BNV của Bộ Nội vụ: Sửa đổi, bổ sung một số nội dung của Thông tư liên tịch số 11/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT" ✅. |
+| 29/2026/TT-NHNN | 30/06/2026 | **Sửa đổi Thông tư 39/2016/TT-NHNN về cho vay của tổ chức tín dụng** — nâng hạn mức khoản vay nhỏ lên **400 triệu** (TCTD), **200 triệu** (QTDND); quy định KYC điện tử; hiệu lực **15/8/2026** | Ngân hàng / Tài chính | vanban.chinhphu.vn (docid **218709**) | **Hoàn thiện** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218709&pageid=27160 trả về HTTP 200. Docid 218709 chứa đúng "Thông tư số 29/2026/TT-NHNN của Ngân hàng Nhà nước Việt Nam: Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN quy định về hoạt động cho vay của tổ chức tín dụng" ✅. |
+| 39/2026/TT-BCT | 30/06/2026 | **Ban hành QCVN 30:2026/BCT — Quy chuẩn kỹ thuật quốc gia về đồ uống có cồn** — quy chuẩn kỹ thuật quốc gia đối với sản phẩm đồ uống có cồn; quy định yêu cầu về chất lượng, an toàn thực phẩm; hiệu lực **01/01/2027** | Công Thương / An toàn thực phẩm | vanban.chinhphu.vn (docid **218754**) | **Hoàn thiện** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218754&pageid=27160. Docid 218754 chứa đúng "Thông tư số 39/2026/TT-BCT của Bộ Công thương: Ban hành Quy chuẩn kỹ thuật quốc gia đối với sản phẩm đồ uống có cồn" ✅. |
+| 108/2026/TT-BCA | 30/06/2026 | **Quy định về sát hạch, cấp giấy phép lái xe** — bãi bỏ bài thi mô phỏng trên máy tính; chỉ còn 3 phần: lý thuyết, sa hình, đường trường; thí sinh thi tuần tự; thay thế Thông tư 12/2025/TT-BCA; hiệu lực **01/7/2026** | Giao thông / Công an | vanban.chinhphu.vn (docid **218725**) | **Hoàn thiện** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218725&pageid=27160. Docid 218725 chứa đúng "Thông tư số 108/2026/TT-BCA của Bộ Công an: Quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế" ✅. |
+| 85/2026/TT-BTC | 30/06/2026 | **Quy định chi tiết về phân loại hàng hóa và phân tích hàng hóa XNK** — phân loại hàng hóa XNK tại Chi cục Kiểm định hải quan; xây dựng cơ sở dữ liệu Danh mục hàng hóa XNK; cụ thể hóa Danh mục AHTN; thay thế TT 14/2015 và TT 17/2021/TT-BTC; hiệu lực **15/9/2026** | Thuế / Hải quan | vanban.chinhphu.vn (docid **218770**) | **Hoàn thiện** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218770&pageid=27160. Docid 218770 chứa đúng "Thông tư số 85/2026/TT-BTC của Bộ Tài chính: Quy định về phân loại hàng hoá, phân tích để phân loại hàng hoá xuất khẩu, nhập khẩu" ✅. |
+
+### Bonus: Xác minh docid 272/2026/NĐ-CP và 253/2026/NĐ-CP
+
+| Số hiệu | DocID xác minh | Trích yếu | Ghi chú |
+|---|---:|---|---|
+| **272/2026/NĐ-CP** | **218787** | Quy định chi tiết một số điều và biện pháp tổ chức thi hành Nghị quyết 253/2025/QH15 về phát triển năng lượng quốc gia (điện gió ngoài khơi) | **BONUS** — văn bản đã ghi nhận từ lần 31 nhưng docid chưa xác minh. Xác minh docid 218787 từ HTML page vanban.chinhphu.vn/?docid=218787&pageid=27160 ✅. Hiệu lực 04/7–31/12/2030. |
+| **253/2026/NĐ-CP** | **218772** | Quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Nghị định số 253/2026/NĐ-CP | **BONUS** — văn bản đã commit trong van-ban/ nhưng docid chưa xác minh. Xác minh docid 218772 từ HTML page vanban.chinhphu.vn/?docid=218772&pageid=27160 ✅. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 42)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 15/2026/TT-BNV | **CÓ** (lần 35) | **Cập nhật docid → 218701** ✅ |
+| 29/2026/TT-NHNN | **CÓ** (lần 32) | **Cập nhật docid → 218709** ✅ |
+| 39/2026/TT-BCT | **CÓ** (lần 31) | **Cập nhật docid → 218754** ✅ |
+| 108/2026/TT-BCA | **CÓ** (lần 39) | **Cập nhật docid → 218725** ✅ |
+| 85/2026/TT-BTC | **CÓ** (lần 39) | **Cập nhật docid → 218770** ✅ |
+| 272/2026/NĐ-CP | **CÓ** (lần 31) | **Cập nhật docid → 218787** ✅ (BONUS) |
+| 253/2026/NĐ-CP | **CÓ** (lần 35) | **Cập nhật docid → 218772** ✅ (BONUS) |
+
+### 96/2026/TT-BTC — docid VẪN CHƯA XÁC MINH
+
+- Quét toàn bộ dải docid 218600–220000 (step 1–5): **KHÔNG tìm thấy** 96/2026/TT-BTC
+- Các văn bản xung quanh (77–88/TT-BTC) đã xác minh: 79, 80, 81, 82, 83, 85, 87, 88 đều có docid trong dải 218696–218772
+- **96/TT-BTC có thể nằm ở dải docid 218800–218900** hoặc chưa được index
+- Tiếp tục theo dõi ở các phiên tiếp theo
+
+### Tình trạng vanban.chinhphu.vn — BREAKTHROUGH: HTML page method hoạt động tốt!
+
+- **HTML page** `https://vanban.chinhphu.vn/?docid=X&pageid=27160` → **HTTP 200** cho toàn bộ dải 218600–219000
+- **Nội dung**: Tiêu đề văn bản hiển thị trong HTML body, có thể grep trực tiếp bằng `curl + sed`
+- **API** `/portal/api/v2/vanban/detail` → **vẫn 404 hoàn toàn** (cả dải cũ và mới)
+- **Firecrawl** → 402 (hết credits), Brave search → trả về 0 kết quả với nhiều query
+- **Kết luận**: HTML page scraping là phương pháp mới tốt nhất — cho phép quét docid nhanh chóng với `curl`
+
+### Bản đồ docid hoàn chỉnh (dải 218690–218797, phát hiện trong phiên này)
+
+| DocID | Văn bản |
+|---:|---|
+| 218690 | 252/2026/NĐ-CP (Luật QLTH) |
+| 218691 | 247/2026/NĐ-CP |
+| 218692 | 257/2026/NĐ-CP |
+| 218693 | 261/2026/NĐ-CP |
+| 218694 | 260/2026/NĐ-CP |
+| 218695 | 264/2026/NĐ-CP |
+| 218696 | 81/2026/TT-BTC |
+| 218697 | 95/2026/TT-BQP |
+| 218698 | 32/2026/TT-BCT |
+| 218700 | 44/2026/TT-BXD |
+| 218701 | **15/2026/TT-BNV** ✅ |
+| 218702 | 22/2026/TT-BYT |
+| 218703 | 24/2026/TT-BYT |
+| 218704 | 25/2026/TT-BYT |
+| 218705 | 26/2026/TT-BYT |
+| 218706 | 27/2026/TT-BYT |
+| 218707 | 28/2026/TT-BYT |
+| 218708 | 28/2026/TT-NHNN (khoa học) |
+| 218709 | **29/2026/TT-NHNN** (cho vay) ✅ |
+| 218710 | 33/2026/TT-BCT |
+| 218711 | 34/2026/TT-BCT |
+| 218712 | 35/2026/TT-BCT |
+| 218713 | 36/2026/TT-BCT |
+| 218714 | 37/2026/TT-BCT |
+| 218715 | 38/2026/TT-BCT |
+| 218716 | 36/2026/TT-BKHCN |
+| 218717 | 49/2026/TT-BXD |
+| 218718 | 50/2026/TT-BXD |
+| 218720 | 76/2026/TT-BTC |
+| 218721 | 77/2026/TT-BTC |
+| 218722 | 78/2026/TT-BTC |
+| 218723 | 88/2026/TT-BTC |
+| 218724 | 107/2026/TT-BCA |
+| 218725 | **108/2026/TT-BCA** ✅ |
+| 218736 | 269/2026/NĐ-CP |
+| 218737 | 265/2026/NĐ-CP |
+| 218740 | 105/2026/TT-BCA |
+| 218741 | 109/2026/TT-BCA |
+| 218744 | 271/2026/NĐ-CP |
+| 218745 | 266/2026/NĐ-CP |
+| 218746 | 249/2026/NĐ-CP |
+| 218747 | 248/2026/NĐ-CP |
+| 218748 | 250/2026/NĐ-CP |
+| 218749 | 79/2026/TT-BTC |
+| 218751 | 30/2025/TT-BTC |
+| 218752 | 28/2026/TT-BNNMT |
+| 218753 | 30/2026/TT-NHNN (khoa học) |
+| 218754 | **39/2026/TT-BCT** ✅ |
+| 218755 | 40/2026/TT-BCT |
+| 218756 | 49/2026/TT-BGDĐT |
+| 218757 | 50/2026/TT-BGDĐT |
+| 218758 | 52/2026/TT-BXD |
+| 218759 | 53/2026/TT-BXD |
+| 218767 | 80/2026/TT-BTC |
+| 218768 | 82/2026/TT-BTC |
+| 218769 | 83/2026/TT-BTC |
+| 218770 | **85/2026/TT-BTC** ✅ |
+| 218772 | **253/2026/NĐ-CP** ✅ (BONUS) |
+| 218773 | 06/2026/TT-BNG |
+| 218774 | 09/2026/TT-BNG |
+| 218775 | 27/2026/TT-BNNMT |
+| 218776 | 55/2026/TT-BXD |
+| 218780 | 42/2026/TT-BKHCN |
+| 218782 | 255/2026/NĐ-CP |
+| 218783 | 259/2026/NĐ-CP |
+| 218787 | **272/2026/NĐ-CP** ✅ (BONUS) |
+| 218792 | 39/2026/TT-BKHCN |
+| 218793 | 40/2026/TT-BKHCN |
+| 218794 | 41/2026/TT-BKHCN |
+| 218795 | 46/2026/TT-BXD |
+| 218796 | 51/2026/TT-BGDĐT |
+| 218797 | 97/2026/TT-BTC |
+
+### Nguồn: vanban.chinhphu.vn (HTML page method — phát hiện mới: HTTP 200 trả về tiêu đề trong body, grep được số/ký hiệu văn bản; API /portal/api/v2/vanban/detail vẫn 404 hoàn toàn), web_search Brave (Firecrawl 402, search 0 kết quả).
+- Ngày phát hiện: 2026-07-08 14:30 ICT
+- Phiên thực hiện: agent:github-io:subagent:6426c950-8cbf-4889-bdbf-bd3cb6fa04c2 (Đệ #1 Discovery — lần 43)
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 41)
 
 ### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn dải docid 231000–245000 trống hoàn toàn
