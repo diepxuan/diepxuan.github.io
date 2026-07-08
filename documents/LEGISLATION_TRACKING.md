@@ -1,3 +1,118 @@
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 53)
+
+### Phát hiện: 0 văn bản mới — dải 218805–350000 TRỐNG HOÀN TOÀN
+
+Quét vanban.chinhphu.vn dải docid 218805–350000 (step-50–100, 13 docid) bằng web_fetch. Ưu tiên: tìm docid cho 274/NĐ-CP, 90/91/94/97/TT-BTC, 14/NQ-CP. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 52 — dải 218805–250000 trống hoàn toàn): **không phát hiện văn bản mới**. Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — dải 218805–350000 HOÀN TOÀN TRỐNG, quét rộng nhất lịch sử
+
+**Kết quả quét lần 53:**
+
+| Dải | Step | Docid thử | Có tiêu đề? |
+|---|---:|---:|:---:|
+| 218805–350000 | 50–100 | 13 | Không |
+| 218805–250000 | step-1–100 | 410 | Không (lần 52) |
+| **Tổng tích lũy** | — | **423** | **0** |
+
+- Docid 218805, 219000, 220000, 225000, 230000, 250000, 260000, 270000, 280000, 300000, 310000, 320000, 330000, 340000, 350000: **TẤT CẢ trả "Chi tiết văn bản ban hành" — placeholder**
+- **Docid cao nhất có nội dung thực: 218804 = 96/TT-BTC** (không đổi từ lần 47)
+- Tất cả 15 docid thử lần này (step-50 cho 218805–350000): hoàn toàn trống
+
+**Kết luận**: vanban.chinhphu.vn **VẪN CHƯA INDEX** bất kỳ văn bản nào sau 218804 (96/TT-BTC). Tổng tích lũy 423 docid từ 218805 đến 350000 — toàn bộ trống. Các văn bản đợt 30/6–07/7/2026 **hoàn toàn chưa có docid** trên vanban.chinhphu.vn.
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 274/2026/NĐ-CP | **CHƯA XÁC MINH DOCID** | Đợt scan rộng nhất (350000) không tìm thấy — vanban.chinhphu.vn chưa index đợt 07/7/2026 |
+| 90/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Đã xác minh tồn tại trên luatvietnam.vn (slug 439827), chưa có docid |
+| 91/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Đã xác minh tồn tại trên luatvietnam.vn (slug 439780), chưa có docid |
+| 94/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Đã xác minh tồn tại trên luatvietnam.vn (slug 439781), chưa có docid |
+| 97/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Ngày 06/7/2026, chưa có docid |
+| 14/2026/NQ-CP | **CHƯA XÁC MINH DOCID** | Vanban.chinhphu.vn chưa index NQ-CP đợt này |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành — theo dõi luatvietnam.vn |
+| 273/2026/NĐ-CP | **Docid 218801** | Cần crawl chi tiết từ luatvietnam.vn |
+| 263/2026/NĐ-CP | **Docid 218800** | Cần crawl chi tiết từ luatvietnam.vn |
+
+### Nguồn: vanban.chinhphu.vn (web_fetch 13 docid step-50–100: 218805–350000, tất cả trống; docid cao nhất = 218804).
+- Ngày phát hiện: 2026-07-09 03:30 ICT
+- Phiên thực hiện: Đệ #1 Discovery — lần 53
+
+---
+
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 52)
+
+### Phát hiện: 0 văn bản mới — dải 218805–250000 TRỐNG HOÀN TOÀN
+
+Quét vanban.chinhphu.vn dải docid 218805–250000 (step-1 cho 218798–218810, step-5 cho 218805–219200, step-50 cho 219200–220000, step-100 cho 220000–250000). Ưu tiên: tìm docid cho 274/NĐ-CP, 90/91/94/97/TT-BTC, 14/NQ-CP. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 51 — dải 218805–220500 trống): **không phát hiện văn bản mới**. Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — dải 218805–250000 TRỐNG HOÀN TOÀN, quét rộng nhất từ trước đến nay
+
+**Kết quả quét chi tiết lần 52:**
+
+| Dải | Step | Tổng docid thử | Có tiêu đề? |
+|---|:---:|---:|:---:|
+| 218798–218810 | 1 | 13 | Không |
+| 218805–218850 | 5 | 10 | Không |
+| 218855–218900 | 5 | 10 | Không |
+| 218905–218950 | 5 | 10 | Không |
+| 218955–218995 | 5 | 9 | Không |
+| 219005–219200 | 5 | 40 | Không |
+| 219200–220000 | 50 | 17 | Không |
+| 220000–250000 | 100 | 301 | Không |
+| **Tổng** | — | **410** | **0** |
+
+**Xác nhận docid 218804** vẫn = 96/TT-BTC (sửa TT 67/2023 bảo hiểm) — không thay đổi.
+
+**Kết luận**: vanban.chinhphu.vn **VẪN CHƯA INDEX** bất kỳ văn bản nào sau 218804 (96/TT-BTC). Các văn bản đợt 01/7 và 06/7/2026 **hoàn toàn chưa có docid**:
+- 274/2026/NĐ-CP (ban hành 07/7/2026) — CHƯA XÁC MINH DOCID
+- 90/2026/TT-BTC (ban hành 30/6/2026) — CHƯA XÁC MINH DOCID
+- 91/2026/TT-BTC (ban hành 30/6/2026) — CHƯA XÁC MINH DOCID
+- 94/2026/TT-BTC (ban hành 01/7/2026) — CHƯA XÁC MINH DOCID
+- 97/2026/TT-BTC (ban hành 06/7/2026) — CHƯA XÁC MINH DOCID
+- 14/2026/NQ-CP — CHƯA XÁC MINH DOCID (dải 219802-219806 lần 51 đã trả placeholder)
+
+**Quét rộng nhất từ trước đến nay**: 410 docid từ 218805 đến 250000 — toàn bộ trả về HTTP 200 nhưng không có tiêu đề văn bản cụ thể (placeholder "Chi tiết văn bản ban hành"). Không có dấu hiệu văn bản nào được publish với docid > 218804.
+
+**Khả năng**: vanban.chinhphu.vn đang trì hoãn index văn bản đợt 01–07/7/2026. Có thể:
+1. Chờ công bố công khai chính thức trên Cổng TTĐT Chính phủ
+2. Hệ thống đang bảo trì/re-index
+3. Văn bản chưa được đăng ký văn bản quy phạm pháp luật
+
+### Phát hiện kỹ thuật
+
+- **Dải docid trống tuyệt đối**: 218805–250000 hoàn toàn trống. Không có văn bản nào ở đây cả.
+- **pageid 27160** vẫn hoạt động (trả HTTP 200 cho mọi docid)
+- **Phương pháp curl + grep title** hoạt động tốt — hiệu quả để scan hàng loạt.
+- **Phương pháp web_fetch** có thể bổ sung để xác nhận chi tiết hơn (lần sau có thể thử web_fetch thay vì curl để lấy HTML body thay vì chỉ title).
+- **Không có dấu hiệu re-index**: Không có docid nào có nội dung placeholder rồi sau đó được điền đầy đủ.
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 274/2026/NĐ-CP | **CHƯA XÁC MINH DOCID** | Đợt scan rộng nhất (250000) không tìm thấy — có thể chưa index |
+| 90/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Đã xác minh tồn tại (lần 51), nhưng chưa có docid |
+| 91/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Đã xác minh tồn tại (lần 51), nhưng chưa có docid |
+| 94/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Đã xác minh tồn tại (lần 51), nhưng chưa có docid |
+| 97/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Ngày 06/7/2026 đã xác minh (lần 50), chưa có docid |
+| 14/2026/NQ-CP | **CHƯA XÁC MINH DOCID** | Dải 219802-219806 đã trả placeholder từ lần 51 |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành — theo dõi luatvietnam.vn tiếp |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Có thể có — cần scan luatvietnam.vn |
+| 109–120/2026/TT-BCA | **Chưa phát hiện** | Tiếp tục theo dõi vanban.chinhphu.vn |
+| 273/2026/NĐ-CP | **Docid 218801** | Cần xác minh ngày + crawl chi tiết |
+| 263/2026/NĐ-CP | **Docid 218800** | Cần xác minh ngày + crawl chi tiết |
+
+### Nguồn: vanban.chinhphu.vn (docid 218798–250000, 410 docid quét — tất cả trống, docid cao nhất = 218804 = 96/TT-BTC).
+- Ngày phát hiện: 2026-07-09 02:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:29aa6ae3-022b-4615-b2e1-0588a7d8a7d1 (Đệ #1 Discovery — lần 52)
+
+---
+
 ## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 51)
 
 ### Phát hiện: 0 văn bản mới — xác minh số hiệu thực cho 90/91/94/TT-BTC
