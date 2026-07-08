@@ -15,14 +15,20 @@ trich_yeu_ngan: Quy định về đăng ký thuế (hướng dẫn Luật QLTH 1
 trang_thai: stub
 nguon: https://vanban.chinhphu.vn/?docid=X
 docid: X
-lastedit: 2026-07-09
+lastedit: 2026-07-09T05:38+07
 ---
 
 > **Lưu ý:** Văn bản này là stub — nội dung chưa được xác minh đầy đủ.
-> Ngày cần crawl: 2026-07-09
+> Ngày cần crawl: 2026-07-09 (lần 2)
 > Ngày hiệu lực: 01/07/2026
 >
-> Nguồn thử: luatvietnam.vn slug 439827 (404), PDF datafiles.chinhphu.vn (404), vbpl.vn PubID 619124 (404), vanban.chinhphu.vn docid 218805–218830 (không có nội dung)
+> Nguồn thử ngày 2026-07-09:
+> - luatvietnam.vn slug 439827 → 404
+> - luatvietnam.vn (không suffix, -d2) → 404
+> - PDF datafiles.chinhphu.vn (nhiều path) → 403/404
+> - vanban.chinhphu.vn docid 218805–218830 → 404
+> - vbpl.vn PubID 619124 → 404
+> - Luatvietnam API /ajax/GetFullText, /api/document → 404
 >
 > Cần xác minh lại khi nguồn có thể truy cập được.
 
