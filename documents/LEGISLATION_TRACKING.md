@@ -1,3 +1,68 @@
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 54)
+
+### Phát hiện: 0 văn bản mới — dải 218805–220500 TRỐNG HOÀN TOÀN, luatvietnam.vn giới hạn 3 slug
+
+Quét vanban.chinhphu.vn docid 218805–220500 + kiểm tra luatvietnam.vn van-ban-moi.html + xác minh lại curl scan trước đó. Ưu tiên: tìm docid cho 274/NĐ-CP, 90/91/94/97/TT-BTC, 14/NQ-CP. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 53 — dải 218805–350000 trống hoàn toàn, docid cao nhất = 218804): **không phát hiện văn bản mới**. Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — dải 218805–220500 VẪN TRỐNG, docid cao nhất = 218804 (không đổi)
+
+**Xác minh lại kết quả quét lần 53 + lần này:**
+
+| Dải | Phương pháp | Docid thử | Có nội dung? |
+|---|---:|---:|:---:|
+| 218805–218830 | curl step-5 | 6 | ❌ False positive — "Nghị định" từ **nav menu** site, không phải nội dung văn bản |
+| 218805–218850 | web_fetch | 1 | ❌ "Chi tiết văn bản ban hành" (placeholder) |
+| 218850–219050 | web_fetch lần 53 | 19 | ❌ Tất cả trống |
+| 218900 | web_fetch | 1 | ❌ "Chi tiết văn bản ban hành" |
+| 219000–219500 | curl step-100 | 6 | ❌ False positive — "Nghị" từ nav menu |
+| 219600–220200 | curl step-100 | 7 | ❌ False positive — "Nghị định" từ nav menu |
+| 220000–250000 | curl step-100 lần 52 | 301 | ❌ Tất cả trống |
+| 250000–350000 | curl step-50 lần 53 | 14 | ❌ Tất cả trống |
+| **Tổng tích lũy** | — | **~445** | **0** |
+
+**Xác minh lại:**
+- Trang chủ vanban.chinhphu.vn (`/`): docid cao nhất = **218804** (không đổi từ lần 47)
+- Tất cả docid > 218804 trả HTTP 200 nhưng chỉ chứa **nav menu site** với "Chính phủ", "Văn phòng Chính phủ" (tạo false positive grep "Nghị định") + **placeholder "Chi tiết văn bản ban hành"**
+- **Docid cao nhất có nội dung thực: 218804 = 96/TT-BTC**
+
+**Kết luận**: vanban.chinhphu.vn **VẪN CHƯA INDEX** bất kỳ văn bản nào sau 218804 (96/TT-BTC). Dải 218805–350000 đã quét ~445 docid — toàn bộ trống. Đợt ban hành 30/6–07/7/2026 vẫn **hoàn toàn chưa có docid** trên vanban.chinhphu.vn.
+
+### Luatvietnam.vn — van-ban-moi.html chỉ hiển thị 3 slug mới
+
+**Kết quả quét van-ban-moi.html:**
+- `nghi-dinh-273-2026-nd-cp` — đã có docid 218801
+- `nghi-dinh-274-2026-nd-cp` — **CHƯA XÁC MINH DOCID** (slug 439818, đợt 07/7/2026)
+- `thong-tu-90-2026-tt-btc` — **CHƯA XÁC MINH DOCID** (slug 439827, đợt 30/6/2026)
+
+**Các văn bản khác (91, 94, 97/TT-BTC, 14/NQ-CP):** Không xuất hiện trên trang van-ban-moi.html (có thể đã chuyển sang trang 2 hoặc đã ra khỏi danh sách "văn bản mới"). Cần kiểm tra trang tiếp theo.
+
+**Ghi chú kỹ thuật:**
+- `curl + grep "thong-tu\|nghi-dinh"` cho vanban.chinhphu.vn dải 218800+ **bị false positive** vì nav menu site chứa text "Chính phủ", "Văn phòng Chính phủ" (chứa "Nghị"). Chỉ web_fetch mới đọc được tiêu đề văn bản thực.
+- **Phương pháp reliable**: web_fetch cho tiêu đề chính xác; curl chỉ dùng để scan số lượng lớn khi kết hợp loại trừ nav menu.
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 274/2026/NĐ-CP | **CHƯA XÁC MINH DOCID** | luatvietnam slug 439818, vanban 218805–350000 trống — chưa index |
+| 90/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | luatvietnam slug 439827, vanban trống |
+| 91/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | luatvietnam slug 439780, vanban trống |
+| 94/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | luatvietnam slug 439781, vanban trống |
+| 97/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | vanban trống |
+| 14/2026/NQ-CP | **CHƯA XÁC MINH DOCID** | vanban trống, docid 219802-219806 đã không còn redirect |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành — theo dõi luatvietnam.vn |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Có thể có — cần scan luatvietnam.vn trang 2 |
+| 273/2026/NĐ-CP | **Docid 218801** | Cần crawl chi tiết từ luatvietnam.vn |
+| 263/2026/NĐ-CP | **Docid 218800** | Cần crawl chi tiết từ luatvietnam.vn |
+
+### Nguồn: vanban.chinhphu.vn (web_fetch + curl xác nhận: docid 218805–350000 trống hoàn toàn, docid cao nhất = 218804), luatvietnam.vn/van-ban-moi.html (3 slug: 273, 274/NĐ-CP và 90/TT-BTC — thiếu 91/94/97/TT-BTC và 14/NQ-CP).
+- Ngày phát hiện: 2026-07-09 05:33 ICT
+- Phiên thực hiện: Đệ #1 Discovery — lần 54
+
+---
+
 ## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 53)
 
 ### Phát hiện: 0 văn bản mới — dải 218805–350000 TRỐNG HOÀN TOÀN
