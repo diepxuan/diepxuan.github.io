@@ -1,18 +1,20 @@
 # LEGISLATION_TRACKING.md
 
-> **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-07T15:32 GMT+7
-> Nguồn quét: vanban.chinhphu.vn, datafiles.chinhphu.vn, web_search Brave
-> Dải docid: 228800–232000 | Tháng 7/2026
+> **Đệ #48 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-08T20:07 GMT+7
+> Nguồn quét: vanban.chinhphu.vn (docid 218805–218867)
+> Dải docid: 218805–218867 | Tháng 7/2026
 > Ngưỡng: Ban hành sau 05/07/2026
 
 ---
 
 ## TÓM TẮT
 
-- Tổng văn bản phát hiện lần này: **5**
-- Văn bản đã có trong tracking lần trước: **0** (file mới, chưa từng tracking)
-- Nguồn xác nhận: vanban.chinhphu.vn, thuvienphapluat.vn, luatvietnam.vn, baochinhphu.vn, giaoducthoidai.vn
+- Tổng văn bản phát hiện lần này: **5** (Discovery lần 1) + 2 văn bản xác minh từ docid đã biết (Discovery lần 48)
+- Văn bản xác minh lần này: **2** (263/NĐ-CP, 273/NĐ-CP)
+- Văn bản rải trống (docid trống): 218805–218867 — dải trống hoàn toàn
+- Văn bản mới từ quét: 0
+- Nguồn xác nhận: vanban.chinhphu.vn
 
 ---
 
@@ -103,6 +105,50 @@
 
 ---
 
+## VĂN BẢN XÁC MINH TỪ DOCID ĐÃ BIẾT (Discovery lần 48)
+
+### 6. Nghị định 263/2026/NĐ-CP — Quy định về khu nông nghiệp ứng dụng công nghệ cao
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 263/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 01/07/2026 (xác minh: vanban.chinhphu.vn docid 218800) |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Nông nghiệp, Công nghệ cao |
+| **Docid** | 218800 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?docid=218800&pageid=27160 |
+| **Mô tả** | Quy định về khu nông nghiệp ứng dụng công nghệ cao. Bãi bỏ Thông tư 55/2010/TT-BTC về thuế GTGT, thuế TNDN đối với Đài truyền hình Việt Nam. |
+| **Ghi chú** | Docid + ngày ban hành xác nhận từ HTML page. Nghị định này chưa từng được ghi nhận trong tracking trước đó. |
+
+### 7. Nghị định 273/2026/NĐ-CP — Về kinh doanh hàng miễn thuế
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 273/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 07/07/2026 (xác minh: vanban.chinhphu.vn docid 218801) |
+| **Hiệu lực** | 21/08/2026 |
+| **Chủ đề** | Thuế, Hải quan, Hàng miễn thuế |
+| **Docid** | 218801 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?docid=218801&pageid=27160 |
+| **Mô tả** | Quy định về kinh doanh hàng miễn thuế. |
+| **Ghi chú** | Docid + ngày ban hành + ngày hiệu lực xác nhận từ HTML page. |
+
+---
+
+## KẾT QUẢ QUÉT DOCID 218805–218867 (Discovery lần 48)
+
+| Dải | Docid có văn bản | Ghi chú |
+|------|-----------------|---------|
+| 218805–218867 | **0** (toàn bộ trống) | Có thể 274–280/NĐ-CP chưa được công bố hoặc thuộc dải docid khác |
+
+**Kết luận**: Trong dải 218805–218867 không có văn bản nào mới. 274–280/NĐ-CP có thể chưa được đăng tải trên vanban.chinhphu.vn tính đến 2026-07-08.
+
+---
+
 ## GHI CHÉP KHÁC — VĂN BẢN ĐANG CHỜ XÁC MINH
 
 | Số văn bản | Chủ đề | Ghi chú |
@@ -111,6 +157,7 @@
 | Nghị định 269/2026/NĐ-CP | Văn hóa dân tộc thiểu số | ✅ Xác nhận 01/07/2026 |
 | Nghị định 271/2026/NĐ-CP | Giáo dục — Miễn phí SGK | ✅ Xác nhận 03/07/2026 |
 | Nghị định 240/2026/NĐ-CP | FTA, Xúc tiến xuất khẩu | Ban hành 26/06/2026 — ngoài ngưỡng |
+| Nghị định 239/2026/NĐ-CP | Thương mại — Xúc tiến thương mại | Ban hành 26/06/2026 — ngoài ngưỡng; docid 218591 |
 | Nghị định 232/2026/NĐ-CP | Viên chức — Vị trí việc làm | ✅ Đã crawl, Hoàn thiện — van-ban/lao-dong/232-2026-nd-cp-vi-tri-viec-lam-vien-chuc.md |
 
 ---
@@ -132,5 +179,5 @@
 
 ---
 
-*Lần cập nhật tiếp theo: khoảng 07/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
-*Đệ #1 Discovery — github-io workspace*
+*Lần cập nhật tiếp theo: khoảng 08/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
+*Đệ #48 Discovery — github-io workspace (Discovery lần 48, quét 218805–218867)*
