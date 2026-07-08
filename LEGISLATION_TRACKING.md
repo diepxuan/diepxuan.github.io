@@ -121,6 +121,11 @@
 | **Nguồn** | vanban.chinhphu.vn/?docid=218800&pageid=27160 |
 | **Mô tả** | Quy định về khu nông nghiệp ứng dụng công nghệ cao. Bãi bỏ Thông tư 55/2010/TT-BTC về thuế GTGT, thuế TNDN đối với Đài truyền hình Việt Nam. |
 | **Ghi chú** | Docid + ngày ban hành xác nhận từ HTML page. Nghị định này chưa từng được ghi nhận trong tracking trước đó. |
+| **Trạng thái** | Hoàn thiện |
+| **File** | [van-ban/nong-nghiep/263-2026-nd-cp-khu-nong-nghiep-ung-dung-cong-nghe-cao.md](van-ban/nong-nghiep/263-2026-nd-cp-khu-nong-nghiep-ung-dung-cong-nghe-cao.md) |
+| **Điều** | 25 (1–25, đủ) |
+| **Chương** | I, II, III, IV, V |
+| **Chất lượng** | Pass OCR Quality Gate — đã sửa lỗi đặc biệt: điêu→điều (word-level, chứ không phải lowercase), š→5, ©)→a), thâm→thẩm, Chương IH→Chương II, c©)→c), ø)→e), ®)→d), §.→8., Chương l→Chương I, Hệ thông→Hệ thống, xúc tiễn→xúc tiến, chiên→chiến, mớ→mở, thi bành→thi hành, an nỉnh→an ninh, vệ→về, lắp đẩy→lấp đầy, thay đỗi→thay đổi, pháp.→pháp, quyển→quyền, tông→tổng, nhà đâu→nhà đầu, suôt→suốt, bạ tầng→hạ tầng, thời bạn→thời hạn |
 
 ### 7. Nghị định 273/2026/NĐ-CP — Về kinh doanh hàng miễn thuế
 
