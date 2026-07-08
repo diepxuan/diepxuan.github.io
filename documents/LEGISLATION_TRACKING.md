@@ -1,3 +1,113 @@
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 51)
+
+### Phát hiện: 0 văn bản mới — xác minh số hiệu thực cho 90/91/94/TT-BTC
+
+Quét luatvietnam.vn tin gốc (110245, 110247, 110248, 110230, 110232) + toàn văn slug thực (439827, 439780, 439781). Ưu tiên: xác minh số hiệu 90/91/94/TT-BTC sau phát hiện lần 50 về slug bị ghi đè. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 50 — 4 cập nhật ngày/slug): **không phát hiện văn bản mới chưa từng ghi nhận** — có **3 xác minh số hiệu** (90/91/94 đều TỒN TẠI thực sự) và **4 cập nhật slug chính xác**. Giới hạn 5/lần — ghi nhận đủ 4:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **90/2026/TT-BTC** | **30/06/2026** ✅ | **Quy định về đăng ký thuế** — hướng dẫn chi tiết Luật QLTH 108/2025/QH15 và NĐ 252/2026/NĐ-CP về phạm vi đăng ký thuế, mã số thuế, thủ tục đăng ký, thay đổi thông tin, tạm ngừng, chấm dứt và khôi phục hiệu lực mã số thuế; mở rộng đối tượng đăng ký thuế (nhà cung cấp nước ngoài, chủ sàn TMĐT, tổ chức kê khai thuế tối thiểu toàn cầu); thực hiện bằng phương thức điện tử; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **XÁC MINH SỐ HIỆU** | ✅ **XÁC NHẬN TỒN TẠI** — lần 50 ghi "KHÔNG TỒN TẠI" vì slug cũ bị ghi đè. **Slug thực: `439827`** (`/thong-tu-90-2026-tt-btc-quy-dinh-moi-ve-dang-ky-thue-tu-bo-tai-chinh-439827-d1.html`). Tin gốc 110245 xác nhận: "Ngày 30/6/2026, Bộ trưởng Bộ Tài chính ban hành Thông tư 90/2026/TT-BTC". **Ngày: 30/6/2026** (cập nhật từ "01/7/2026" ghi ở lần 49). Lưu ý: slug `439711` bị ghi đè bởi 96/TT-BTC (sửa TT 67/2023 bảo hiểm) — đây là vấn đề của hệ thống luatvietnam.vn, không phải văn bản không tồn tại. |
+| **91/2026/TT-BTC** | **30/06/2026** ✅ | **Quy định một số điều của Luật QLTH và NĐ 254/2026/NĐ-CP về hóa đơn điện tử, chứng từ điện tử** — đăng ký sử dụng hóa đơn điện tử bằng sinh trắc học; 11 trường hợp ngừng/tạm ngừng sử dụng hóa đơn điện tử; định dạng, ký hiệu, mẫu hóa đơn điện tử; điều kiện kỹ thuật tổ chức cung cấp dịch vụ; hiệu lực **01/7/2026** | Thuế / Hóa đơn | chua-xac-minh | **XÁC MINH SỐ HIỆU** | ✅ **XÁC NHẬN TỒN TẠI** — lần 50 ghi "KHÔNG TỒN TẠI" vì slug cũ bị ghi đè. **Slug thực: `439780`** (`/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html`). Tin 110232 xác nhận: "Quy định nêu tại Thông tư 91/2026/TT-BTC quy định Luật QLTH 2025 và NĐ 254/2026/NĐ-CP về hóa đơn điện tử, chứng từ điện tử". **Ngày: 30/6/2026**. Lưu ý: slug `439709` bị ghi đè bởi 1171/QĐ-BXD (Bộ Xây dựng) — slug mới đã redirect về QĐ-BXD. |
+| **94/2026/TT-BTC** | **01/07/2026** ✅ | **Quy định về quản lý tuân thủ, quản lý rủi ro trong quản lý thuế** — thu thập, xử lý thông tin người nộp thuế; tiêu chí đánh giá mức độ rủi ro (4 mức); giám sát trọng điểm người nộp thuế không tuân thủ; giám sát người nộp thuế có giao dịch đáng ngờ, bị khởi tố vi phạm thuế/hóa đơn; căn cứ Luật QLTH 108/2025/QH15, NĐ 252/2026/NĐ-CP, NĐ 254/2026/NĐ-CP; hiệu lực **01/7/2026** | Thuế / Tài chính | chua-xac-minh | **XÁC MINH SỐ HIỆU** | ✅ **XÁC NHẬN TỒN TẠI** — lần 50 ghi "KHÔNG TỒN TẠI" vì slug cũ bị ghi đè. **Slug thực: `439781`** (`/thong-tu-94-2026-tt-btc-quan-ly-tuan-thu-va-rui-ro-trong-quan-ly-thue-hieu-qua-439781-d1.html`). Tin 110230 redirect thành bài về 94/TT-BTC: "Ngày 01/7/2026, Bộ Tài chính ban hành Thông tư 94/2026/TT-BTC về quản lý tuân thủ, quản lý rủi ro trong quản lý thuế". **Ngày: 01/7/2026** (cập nhật từ "30/6/2026" ghi ở lần 49). Lưu ý: slug `439706` bị ghi đè bởi 153/QĐ-UBND Cà Mau. |
+| **87/2026/TT-BTC** | **30/06/2026** | **Hướng dẫn thi hành Luật TNCN 67/2025/QH15 và NĐ 253/2026/NĐ-CP** — quy định chi tiết mức giảm trừ gia cảnh, miễn thuế, khai thuế, khấu trừ thuế, chứng khoán phái sinh; hiệu lực **01/7/2026** | Thuế / Tài chính | vanban.chinhphu.vn (docid **218772**) | **Hoàn thiện** | ✅ **XÁC MINH DOCID**: Xác nhận docid 218772 = 87/2026/TT-BTC (lần 41). Khớp với 253/2026/NĐ-CP cùng docid. Đã có trong tracking từ lần 41 nhưng ghi nhận lại để rõ trạng thái. Không tính vào giới hạn 5 (đã có từ lần 41). |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-09 lần 50)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 90/2026/TT-BTC | **CÓ** (lần 49/50) | **✅ XÁC MINH TỒN TẠI — cập nhật slug: 439827 (thay vì 439711) + ngày: 30/6/2026** |
+| 91/2026/TT-BTC | **CÓ** (lần 49/50) | **✅ XÁC MINH TỒN TẠI — cập nhật slug: 439780 (thay vì 439709) + ngày: 30/6/2026** |
+| 94/2026/TT-BTC | **CÓ** (lần 49/50) | **✅ XÁC MINH TỒN TẠI — cập nhật slug: 439781 (thay vì 439706) + ngày: 01/7/2026** |
+| 87/2026/TT-BTC | **CÓ** (lần 41) | **Xác nhận docid 218772** |
+
+### Tình trạng vanban.chinhphu.vn — dải 218805–220500 vẫn TRỐNG, 14/2026/NQ-CP cần xác minh thêm
+
+- **curl docid 219802–219806** (trước đây redirect về 14/2026/NQ-CP): TẤT CẢ trả về HTML placeholder tiêu đề "Chi tiết văn bản ban hành" — **KHÔNG CÒN redirect về 14/NQ-CP** nữa. Có thể hệ thống đang trong quá trình re-index hoặc các docid này đã bị gỡ tạm thời.
+- **vanban.chinhphu.vn** vẫn chưa index bất kỳ văn bản nào sau 218804 (96/TT-BTC). Các TT-BTC 90–97, NĐ-CP 273–274, NQ-CP 14 đều chưa có docid chính thức.
+
+### Phát hiện quan trọng: Luatvietnam.vn — slug bị ghi đè bởi văn bản mới hơn
+
+Lần 50 phát hiện slug 90/91/94 trên luatvietnam.vn bị ghi đè bởi văn bản khác (96/TT-BTC, 1171/QĐ-BXD, 153/QĐ-UBND Cà Mau). Lần 51 xác minh: **các văn bản 90/91/94 TỒN TẠI THỰC SỰ** — chỉ là slug bị redirect. Phương pháp tìm slug thực:
+1. Tìm article tin gốc trên luatvietnam.vn (`/tin-van-ban-moi/`)
+2. Từ article, lấy URL gốc chính xác (không redirect)
+3. URL gốc chứa slug đúng: `439827` (90), `439780` (91), `439781` (94)
+4. Các slug cũ (`439711`, `439709`, `439706`) đã bị ghi đè hoàn toàn bởi văn bản mới ban hành sau (06–07/7/2026)
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 87/2026/TT-BTC | **Đã xác minh docid 218772** | 87/TT-BTC đã có docid đúng, không phải 253/NĐ-CP như lúc đầu. Hiệu lực 01/7/2026. |
+| 14/2026/TT-BNV | **Chưa phát hiện** | Công chức, viên chức — chưa tìm thấy trên vanban.chinhphu.vn hoặc luatvietnam.vn |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành — theo dõi luatvietnam.vn tiếp |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Có thể có — cần scan luatvietnam.vn |
+| 109–120/2026/TT-BCA | **Chưa phát hiện** | Tiếp tục theo dõi vanban.chinhphu.vn |
+| 14/2026/NQ-CP | **Cần xác minh thêm** | Docid 219802-219806 trên vanban.chinhphu.vn đã không còn redirect về NQ-CP — có thể đang re-index |
+| 273/2026/NĐ-CP | **Đã phát hiện (lần 47), docid 218801** | Cần xác minh ngày ban hành + crawl chi tiết |
+| 263/2026/NĐ-CP | **Đã phát hiện (lần 47), docid 218800** | Cần xác minh ngày ban hành |
+
+### Nguồn: luatvietnam.vn (tin gốc 110245, 110247, 110248, 110230, 110232 + toàn văn 439827/90-TT-BTC, 439780/91-TT-BTC, 439781/94-TT-BTC), vanban.chinhphu.vn (docid 218800-218804, curl docid 219802-219806 placeholder), 14/2026/NQ-CP (docid 219802-219806 — không còn redirect, có thể đang re-index).
+- Ngày phát hiện: 2026-07-09 02:12 ICT
+- Phiên thực hiện: agent:github-io:subagent:3e73bc13-cb10-4013-b4f3-57e599775cce (Đệ #1 Discovery — lần 51)
+
+---
+
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 50)
+
+### Phát hiện: 0 văn bản mới — xác minh ngày + phát hiện nhầm lẫn slug
+
+Quét vanban.chinhphu.vn dải docid 218805–219700 (step-1 + step-100, web_fetch cụ thể) + web_fetch luatvietnam.vn cho 97, 90, 91, 94/2026/TT-BTC. Ưu tiên: xác minh ngày ban hành cho 97/TT-BTC, xác minh slug thực cho 90, 91, 94/TT-BTC, quét docid mới. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 49 — 5 văn bản mới + docid 218868–219700 trống): **không phát hiện văn bản mới chưa từng ghi nhận** — có **1 cập nhật ngày** và **3 phát hiện nhầm lẫn slug**. Giới hạn 5/lần — ghi nhận đủ 4:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **97/2026/TT-BTC** | **06/07/2026** ⚠️ | **Bãi bỏ Thông tư 55/2010/TT-BTC về thuế GTGT và thuế TNDN với Đài truyền hình** — bãi bỏ TT 55/2010/TT-BTC ngày 16/4/2010 hướng dẫn thuế GTGT và TNCN đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh/thành phố; căn cứ NĐ 252/2026/NĐ-CP (Luật QLTH), Luật GTGT 48/2024/QH15, Luật TNCN 67/2025/QH15; hiệu lực **01/7/2026** | Thuế / Truyền thông | chua-xac-minh | **Cập nhật ngày** | ⚠️ **PHÁT HIỆN QUAN TRỌNG**: Lần 49 ghi ngày "01/07/2026" — SAI. Thực tế web_fetch toàn văn xác nhận: **"Hà Nội, ngày 06 tháng 7 năm 2026"**. Đây là văn bản BTC ban hành sau đợt lớn 30/6, cùng ngày với 274/NĐ-CP. Đây cũng là TT-BTC có số lớn nhất trong 4 văn bản được phát hiện lần 49. Chưa xác minh docid trên vanban.chinhphu.vn. **Cần cập nhật ngày trong tracking.** |
+| **90/2026/TT-BTC** | **KHÔNG TỒN TẠI** ❌ | Slug `thong-tu-90-2026-tt-btc-439711-d1.html` → redirect về **96/2026/TT-BTC** (sửa TT 67/2023 bảo hiểm). Không có văn bản 90/TT-BTC nào trên luatvietnam.vn. | Thuế / Tài chính | chua-xac-minh | **⚠️ CÓ THỂ NHẦM LẪN** | Lần 49 ghi "90/2026/TT-BTC: Bổ sung đối tượng đăng ký thuế" dựa trên tin 110245, 110247, 110248 — slug 439711 dẫn đến 96/TT-BTC chứ không phải 90. Cần xác minh lại văn bản thực số hiệu bao nhiêu. **Có thể con số 90 là tin sai hoặc slug đã bị ghi đè.** |
+| **91/2026/TT-BTC** | **KHÔNG TỒN TẠI** ❌ | Slug `thong-tu-91-2026-tt-btc-439709-d1.html` → redirect về **1171/QĐ-BXD** (Bộ Xây dựng, ban hành 06/7/2026, quy trình giải quyết TTHC quản lý chất lượng công trình). Không có văn bản 91/TT-BTC. | Thuế / Hóa đơn | chua-xac-minh | **⚠️ NHẦM LẪN** | Lần 49 ghi "91/2026/TT-BTC: Ngừng/tạm ngừng sử dụng hóa đơn điện tử" — slug 439709 thực tế là Quyết định 1171/QĐ-BXD. Có thể "11 trường hợp ngừng hóa đơn điện tử" thực ra là 91/TT-BTC nhưng slug đã bị ghi đè bởi QĐ-BXD. **Cần xác minh số hiệu thực trên luatvietnam.vn.** |
+| **94/2026/TT-BTC** | **KHÔNG TỒN TẠI** ❌ | Slug `thong-tu-94-2026-tt-btc-439706-d1.html` → redirect về **153/2026/QĐ-UBND Cà Mau** (quy định tài sản công cho thuê, tiêu chí, mức hỗ trợ). Không có văn bản 94/TT-BTC. | Thuế / Tài chính | chua-xac-minh | **⚠️ NHẦM LẪN** | Lần 49 ghi "94/2026/TT-BTC: Quản lý tuân thủ và quản lý rủi ro trong quản lý thuế" — slug 439706 thực tế là QĐ-UBND Cà Mau. Có thể slug bị ghi đè tương tự. **Cần xác minh số hiệu thực trên luatvietnam.vn.** |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 49)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 97/2026/TT-BTC | **CÓ** (lần 49) | **Cập nhật ngày → 06/7/2026** ⚠️ |
+| 90/2026/TT-BTC | **CÓ** (lần 49) | **⚠️ CÓ THỂ NHẦM — slug dẫn đến 96/TT-BTC** |
+| 91/2026/TT-BTC | **CÓ** (lần 49) | **⚠️ NHẦM — slug dẫn đến 1171/QĐ-BXD** |
+| 94/2026/TT-BTC | **CÓ** (lần 49) | **⚠️ NHẦM — slug dẫn đến 153/QĐ-UBND Cà Mau** |
+
+### Tình trạng vanban.chinhphu.vn — dải 218805–219700 vẫn TRỐNG HOÀN TOÀN
+
+- **web_fetch docid 218850, 218950, 219100, 219300, 219500, 219700**: TẤT CẢ trả về tiêu đề "Chi tiết văn bản ban hành" — trống
+- **curl scan docid 218805–218820 (step 1, 16 docid)**: TẤT CẢ trả về tiêu đề trống hoặc Công văn/QĐ không phải TT-BTC
+- **Docid xác minh**: 218791 = Công văn 9584/BTC-PTHT (về giải ngân vốn đầu tư công); 218799 = QĐ 1226/QĐ-TTg (mật mã dân sự)
+- **Kết luận**: vanban.chinhphu.vn **vẫn CHƯA INDEX** bất kỳ văn bản nào sau 218804 (96/TT-BTC). Không có văn bản nào của đợt 01/7 hoặc 06/7 được publish lên hệ thống. Các TT-BTC mới (97+) vẫn chưa được gán docid.
+
+### Phát hiện quan trọng: luatvietnam.vn slug bị ghi đè
+
+Lần 49 phát hiện 4 TT-BTC mới (90, 91, 94, 97/TT-BTC) dựa trên slug luatvietnam.vn. Tuy nhiên kiểm tra chi tiết lần này cho thấy:
+- **slug 439711** (`/thong-tu-90-2026-tt-btc-...`) → redirect về **96/TT-BTC** (sửa TT 67/2023), không phải 90
+- **slug 439709** (`/thong-tu-91-2026-tt-btc-...`) → redirect về **1171/QĐ-BXD** (Bộ Xây dựng), không phải 91
+- **slug 439706** (`/thong-tu-94-2026-tt-btc-...`) → redirect về **153/QĐ-UBND Cà Mau**, không phải 94
+
+**Có thể slug trên luatvietnam.vn đã bị ghi đè** bởi văn bản mới hơn (QĐ-BXD ngày 06/7, QĐ-UBND Cà Mau) sau khi hệ thống index các TT-BTC. Cần kiểm tra lại nguồn tin gốc (tin 110245, 110230, 110247, 110248) để xác minh số hiệu thực. **Trong khi chờ xác minh, 90, 91, 94/TT-BTC nên được gắn cờ "CẦN XÁC MINH SỐ HIỆU" thay vì coi là đã xác nhận.**
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 90, 91, 94/2026/TT-BTC | **⚠️ CẦN XÁC MINH SỐ HIỆU** | Slug luatvietnam.vn bị ghi đè bởi văn bản khác — cần kiểm tra tin gốc 110245, 110230, 110247, 110248 |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành — theo dõi luatvietnam.vn tiếp |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Có thể có — cần scan luatvietnam.vn |
+| 109–120/2026/TT-BCA | **Chưa phát hiện** | Tiếp tục theo dõi vanban.chinhphu.vn |
+| 97/2026/TT-BTC | **Cập nhật ngày 06/7/2026** | Ngày ban hành đã xác minh, cần xác minh docid |
+| 273/2026/NĐ-CP | **Đã phát hiện (lần 47), chưa xác minh ngày** | Cần xác minh ngày ban hành |
+| 263/2026/NĐ-CP | **Đã phát hiện (lần 47), chưa xác minh ngày** | Cần xác minh ngày + crawl chi tiết |
+
+### Nguồn: vanban.chinhphu.vn (dải 218805–219700 trống hoàn toàn, trang chủ docid cao nhất = 218804), luatvietnam.vn (slug 439709→1171/QĐ-BXD, 439706→153/QĐ-UBND Cà Mau, 439711→96/TT-BTC — slug bị ghi đè), luatvietnam.vn toàn văn 97/TT-BTC (xác minh ngày 06/7/2026), Firecrawl (402 hết credits).
+- Ngày phát hiện: 2026-07-09 00:05 ICT
+- Phiên thực hiện: agent:github-io:subagent:ec3b1703-d4d0-4455-a47f-7b6833f98fa2 (Đệ #1 Discovery — lần 50)
+
+---
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 49)
 
 ### Phát hiện: 5 văn bản mới — 274/NĐ-CP + 4 TT-BTC mới
