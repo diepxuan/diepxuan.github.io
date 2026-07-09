@@ -10,10 +10,10 @@ co_quan_ban_hanh: Bộ Tài chính
 nguoi_ky: Thứ trưởng Cao Anh Tuấn
 loai_van_ban: Thông tư
 linh_vuc: Thuế
-nhom: thue-phi-le-phi-cac-khoan-thu-khac
+group: thue-phi-le-phi-cac-khoan-thu-khac
 trich_yeu_ngan: Quy định về đăng ký thuế (hướng dẫn Luật QLTH 108/2025, mở rộng đối tượng đăng ký, thực hiện điện tử)
 trang_thai: hoàn chỉnh
-nguon: luatvietnam.vn; vanban.chinhphu.vn
+source: luatvietnam.vn; vanban.chinhphu.vn
 docid: 439827
 tags:
   - thuế
