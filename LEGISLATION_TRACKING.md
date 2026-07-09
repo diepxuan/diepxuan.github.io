@@ -174,8 +174,8 @@
 | **Slug** | 439780 (luatvietnam.vn/thue/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html) |
 | **Nguồn** | luatvietnam.vn (nội dung gốc đầy đủ) |
 | **Mô tả** | Quy định một số điều của Luật Quản lý thuế và NĐ 254/2026/NĐ-CP về hóa đơn điện tử, chứng từ điện tử. Điều 10 hướng dẫn xử lý hóa đơn điện tử đã lập sai: (1) sai tên/địa chỉ/số tiền bằng chữ → thông báo cho cơ quan thuế theo Mẫu 04/SS-HĐĐT; (2) sai nội dung bắt buộc (MST, tên hàng, thuế suất) → lập hóa đơn điều chỉnh hoặc thay thế; (3) hóa đơn từ máy tính tiền → lập hóa đơn thay thế.
-| **Ghi chú** | Cần xác minh slug chuẩn trên luatvietnam. Nội dung gốc đã có trên luatvietnam.vn. File stub `91-2026-tt-btc-dang-ky-thue.md` (hiện chưa tồn tại) cần được tạo từ slug 439780.
-| **Trạng thái** | Stub — slug xác minh, chưa crawl
+| **Ghi chú** | File stub `van-ban/thue/91-2026-tt-btc.md` đã tạo. Tất cả nguồn chính thức đều bị chặn: luatvietnam.vn (Cloudflare 403), vanban.chinhphu.vn (406/404), thuvienphapluat.vn (410), datafiles.chinhphu.vn (403), Firecrawl (402 credits). Retry crawl trong phiên heartbeat kế tiếp.
+| **Trạng thái** | Stub — đã tạo file, chờ retry toàn văn
 
 ---
 
@@ -217,6 +217,7 @@
 |------|-----|-----------|---------|---------|
 | `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 48/2026/TT-BCA (QCVN 11:2026/BCA) | 4,476 bytes | 2026-06-01 (mod) | Stub — nội dung summary 11 nhóm yêu cầu kỹ thuật; 37 ngày tuổi (mod); Cần xác minh docid, crawl toàn văn từ vanban.bocongan.gov.vn |
 | `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/90-2026-tt-btc-dang-ky-thue.md` | 90/2026/TT-BTC | 2,340 bytes | 2026-07-09 | Stub — luatvietnam slug 439827 xác minh, nội dung đầy đủ có sẵn; Cần crawl lại từ slug |
+| `van-ban/thue/91-2026-tt-btc.md` | 91/2026/TT-BTC | 3,603 bytes | 2026-07-09 | Stub — tất cả nguồn bị chặn (402/403/404/406/410); Retry crawl phiên kế tiếp |
 
 ---
 
