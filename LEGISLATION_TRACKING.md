@@ -134,3 +134,148 @@
 
 *Lần cập nhật tiếp theo: khoảng 07/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
 *Đệ #1 Discovery — github-io workspace*
+---
+
+## ĐỆ #1 DISCOVERY LẦN 50 (2026-07-10T00:10 GMT+7)
+
+> **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-10T00:10 GMT+7
+> Nguồn quét: luatvietnam.vn (v2/docs/get-list API, homepage), vanban.chinhphu.vn docid 218836+
+> Dải thời gian: Ban hành sau 05/07/2026
+
+---
+
+### TÓM TẮT
+
+- Tổng văn bản phát hiện: **5** (đủ giới hạn)
+- Trong đó đã có trong tracking: **0**
+- Nguồn: luatvietnam.vn v2/docs/get-list (trang 1), homepage news feed
+
+---
+
+### VĂN BẢN MỚI PHÁT HIỆN (5)
+
+### 1. Quyết định 34/2026/QĐ-TTg — Sửa đổi điều kiện xác định phơi nhiễm HIV do tai nạn rủi ro nghề nghiệp
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 34/2026/QĐ-TTg |
+| **Loại** | Quyết định của Thủ tướng Chính phủ |
+| **Cơ quan** | Thủ tướng Chính phủ |
+| **Ban hành** | 08/07/2026 |
+| **Hiệu lực** | Chưa xác minh (cần crawl chi tiết) |
+| **Chủ đề** | Y tế, Lao động, HIV/AIDS |
+| **Docid** | Chưa xác định (cần tra vanban.chinhphu.vn) |
+| **Nguồn** | luatvietnam.vn/y-te/quyet-dinh-34-2026-qd-ttg-sua-doi-dieu-kien-xac-dinh-phoi-nhiem-hiv-439945-d1.html |
+| **Mô tả** | Sửa đổi, bổ sung một số điều của Quyết định 24/2023/QĐ-TTg (ngày 22/9/2023) quy định điều kiện xác định người bị phơi nhiễm HIV, người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp. |
+| **Ghi chú** | Cần xác minh thêm ngày hiệu lực. Docid trên vanban.chinhphu.vn chưa tra. |
+
+---
+
+### 2. Nghị định 275/2026/NĐ-CP — Xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 275/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 08/07/2026 |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Công nghiệp, Hóa chất, Vật liệu nổ, Xử phạt hành chính |
+| **Docid** | Chưa xác định |
+| **Nguồn** | luatvietnam.vn/cong-nghiep/nghi-dinh-275-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-hoa-chat-va-vat-lieu-no-439944-d1.html |
+| **Mô tả** | Quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp. |
+| **Ghi chú** | Tiếp nối chuỗi Nghị định xử phạt theo lĩnh vực. Cần xác minh docid. |
+
+---
+
+### 3. Nghị định 276/2026/NĐ-CP — Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 276/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 08/07/2026 |
+| **Hiệu lực** | Chưa xác minh (có thể là tái cơ cấu Bộ Nội vụ sau khi thành lập) |
+| **Chủ đề** | Cơ cấu tổ chức, Hành chính |
+| **Docid** | Chưa xác định |
+| **Nguồn** | luatvietnam.vn/lao-dong/nghi-dinh-276-2026-nd-cp-chuc-nang-nhiem-vu-quyen-han-bo-noi-vu-439943-d1.html |
+| **Mô tả** | Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ. |
+| **Ghi chú** | Có thể liên quan đến cải cách hành chính sau khi thành lập Bộ Nội vụ mới (sáp nhập từ Bộ Nội vụ cũ và Bộ Xây dựng?). Cần xác minh docid và nội dung chi tiết. |
+
+---
+
+### 4. Thông tư 57/2026/TT-BXD — Thẩm định thiết kế, kiểm định an toàn kỹ thuật dầu khí trên biển
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 57/2026/TT-BXD |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Xây dựng |
+| **Ban hành** | 07/07/2026 |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Xây dựng, Dầu khí, An toàn kỹ thuật, Môi trường |
+| **Docid** | Chưa xác định |
+| **Nguồn** | luatvietnam.vn/cong-nghiep/thong-tu-57-2026-tt-bxd-quy-dinh-tham-dinh-thiet-ke-va-an-toan-dau-khi-bien-439930-d1.html |
+| **Mô tả** | Quy định về thẩm định thiết kế, kiểm định, kiểm tra, chứng nhận an toàn kỹ thuật và phòng ngừa ô nhiễm môi trường đối với phương tiện, thiết bị thăm dò, khai thác, vận chuyển dầu khí trên biển. |
+| **Ghi chú** | Thay thế các quy định cũ về kiểm định thiết bị dầu khí. Cần xác minh docid. |
+
+---
+
+### 5. Quyết định 1991/QĐ-BGDĐT — Kế hoạch triển khai Chương trình Sức khỏe học đường 2026–2035
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 1991/QĐ-BGDĐT |
+| **Loại** | Quyết định |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 09/07/2026 |
+| **Hiệu lực** | 09/07/2026 |
+| **Chủ đề** | Giáo dục, Y tế trường học, Sức khỏe |
+| **Docid** | Chưa xác định |
+| **Nguồn** | luatvietnam.vn/giao-duc/quyet-dinh-1991-qd-bgddt-2026-trien-khai-chuong-trinh-suc-khoe-hoc-duong-giai-doan-2026-2035-439931-d1.html |
+| **Mô tả** | Ban hành Kế hoạch triển khai Chương trình Sức khoẻ học đường giai đoạn 2026–2035 của ngành Giáo dục. |
+| **Ghi chú** | Cần xác minh docid trên vanban.chinhphu.vn. Ưu tiên thấp (QĐ bộ ngành). |
+
+---
+
+### GHI CHÉP CẬP NHẬT
+
+#### Văn bản ưu tiên cao — CHƯA TÌM THẤY
+
+| Số văn bản | Chủ đề | Tình trạng | Ghi chú |
+|-----------|--------|------------|---------|
+| **14/NQ-CP** | Văn bản QPPL quan trọng — CHƯA XÁC MINH | ⚠️ Chưa xác định docid | Rất có thể đã ban hành sau 05/07. Chưa tìm thấy trên vanban.chinhphu.vn docid 218836+, luatvietnam.vn. Cần tiếp tục theo dõi. |
+| **277/NĐ-CP** | Nghị định mới sau 276 | ⚠️ Chưa xác định | Chưa tìm thấy trên luatvietnam.vn trang 1. Có thể chưa công bố hoặc ở trang 2+. |
+| 89/TT-BTC | Thuế | ⚠️ Chưa xác minh | Cloudflare chặn truy cập trực tiếp |
+| 90/TT-BTC | Thuế | ⚠️ Chưa xác minh | Cloudflare chặn truy cập trực tiếp |
+| 91/TT-BTC | Thuế | ⚠️ Chưa xác minh | Cloudflare chặn truy cập trực tiếp |
+| 94/TT-BTC | Thuế | ⚠️ Chưa xác minh | Cloudflare chặn truy cập trực tiếp |
+| 95/TT-BTC | Thuế | ⚠️ Chưa xác minh | Cloudflare chặn trực tiếp |
+
+#### Tình trạng nguồn
+- vanban.chinhphu.vn: docid 218836+ trả về trang placeholder (không load nội dung qua curl — ASP.NET form bảo vệ)
+- luatvietnam.vn: API hoạt động (cần X-Requested-With header), homepage hoạt động
+- thuvienphapluat.vn: Cloudflare bảo vệ
+- web_search / web_fetch: Hết credits (402)
+
+---
+
+### NHẬN XÉT TỔNG QUAN
+
+1. **Đợt 08-09/07/2026**: Chính phủ tiếp tục ban hành văn bản hậu 01/07. 3 Nghị định/Quyết định ngày 08/07 — cho thấy nhịp ban hành vẫn duy trì.
+2. **Nghị định 276/2026/NĐ-CP** về Bộ Nội vụ — có thể là điều chỉnh cơ cấu lớn (sau khi thành lập Bộ Nội vụ mới theo Nghị quyết 2025). Cần ưu tiên crawl chi tiết.
+3. **14/NQ-CP**: Đây là văn bản QPPL quan trọng, rất có thể đã ban hành nhưng chưa tìm thấy. Cần retry ở các lần discovery tiếp theo.
+
+---
+
+### HẠN CHẾ & KHUYẾN NGHỊ
+
+- **vanban.chinhphu.vn không load nội dung qua curl** (ASP.NET postback bảo vệ bằng __VIEWSTATE). Cần dùng trình duyệt tự động hóa để crawl.
+- **luatvietnam.vn trang 2+ trả về cùng nội dung trang 1** — có thể cần điều chỉnh tham số pageIndex hoặc dùng phương pháp khác để phân trang.
+- **web_search/web_fetch hết credits** — ảnh hưởng đến năng lực phát hiện qua tìm kiếm web.
+- **Cloudflare bảo vệ** nhiều nguồn phụ (thuvienphapluat.vn, luatvietnam.vn sub-pages).
+
+*Lần cập nhật tiếp theo: khoảng 11/07/2026 hoặc khi có văn bản mới ban hành sau 10/07/2026.*
+*Đệ #1 Discovery lần 50 — github-io workspace*
