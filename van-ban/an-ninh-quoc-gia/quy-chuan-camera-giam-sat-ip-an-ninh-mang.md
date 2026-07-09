@@ -1,13 +1,28 @@
 ---
-layout: page
-title: Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản
-date: 2026-05-12 00:00:00 +0700
-categories: [van-ban, an-ninh-quoc-gia]
-tags: [thong-tu, bo-cong-an, camera, an-ninh-mang, qcvn]
-permalink: /van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang/
-description: Thông tư 48/2026/TT-BCA ban hành Quy chuẩn kỹ thuật quốc gia QCVN 11:2026/BCA về thiết bị camera giám sát sử dụng giao thức Internet - các yêu cầu an ninh mạng cơ bản.
-source: https://vanban.bocongan.gov.vn/
-last_modified_at: 2026-05-31 00:00:00 +0700
+layout: vanban
+title: "Thông tư 48/2026/TT-BCA ban hành Quy chuẩn kỹ thuật quốc gia QCVN 11:2026/BCA về thiết bị camera giám sát sử dụng giao thức Internet - yêu cầu an ninh mạng cơ bản"
+date: 2026-05-12
+modified: 2026-05-31
+so_hieu: "48/2026/TT-BCA"
+ngay_ban_hanh: "12/05/2026"
+ngay_hieu_luc: "01/07/2026"
+co_quan_ban_hanh: "Bộ Công an"
+loai_van_ban: "Thông tư"
+group: an-ninh-quoc-gia
+tags:
+  - thong-tu
+  - bo-cong-an
+  - camera
+  - an-ninh-mang
+  - qcvn
+  - qcvn-11-2026-bca
+source: vanban.bocongan.gov.vn
+docid: "48/2026/TT-BCA"
+van_ban_lien_quan:
+  - "QCVN 11:2026/BCA"
+  - "QCVN 135:2024/BTTTT"
+trang_thai: hoan-chinh
+trich_yeu: "Ban hành Quy chuẩn kỹ thuật quốc gia QCVN 11:2026/BCA quy định các yêu cầu kỹ thuật an ninh mạng cơ bản cho thiết bị camera giám sát sử dụng giao thức Internet (IP Camera) được sản xuất, lưu hành tại thị trường Việt Nam."
 ---
 
 # Thông tư 48/2026/TT-BCA - Quy chuẩn kỹ thuật quốc gia về thiết bị camera giám sát sử dụng giao thức Internet
