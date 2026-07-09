@@ -13,8 +13,8 @@ linh_vuc: Thuế
 group: thue-phi-le-phi-cac-khoan-thu-khac
 trich_yeu_ngan: Quy định về đăng ký thuế (hướng dẫn Luật QLTH 108/2025, mở rộng đối tượng đăng ký, thực hiện điện tử)
 trang_thai: hoàn chỉnh
-source: luatvietnam.vn; vanban.chinhphu.vn
-docid: 439827
+source: luatvietnam.vn; vanban.chinhphu.vn/docid/218850
+docid: 218850
 tags:
   - thuế
   - đăng ký thuế
