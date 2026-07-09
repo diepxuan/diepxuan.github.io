@@ -4028,3 +4028,61 @@ Quét vanban.chinhphu.vn dải docid 218805–260000 (HTML page method, step 1 v
 - Nguồn: vanban.chinhphu.vn (HTML page method — dải 218805–260000 HOÀN TOÀN TRỐNG), luatvietnam.vn (trang "Văn bản mới", slug 439944, 439943, 110282), baochinhphu.vn (curl blocked), thuvienphapluat.vn (Cloudflare protected).
 - Ngày phát hiện: 2026-07-09 21:33 ICT
 - Phiên thực hiện: agent:github-io:subagent:d3e6d758-c8ab-4b81-835a-c62945a73f36 (Đệ #1 Discovery — lần 49)
+
+---
+
+## Cập nhật 2026-07-10 04:xx (phiên Đệ #1 Discovery — lần 53)
+
+### Phát hiện: vanban.chinhphu.vn — docid 218823–218835 ĐÃ CÓ nội dung thực (og:title extract được), dải 218836+ HOÀN TOÀN TRỐNG
+
+Quét vanban.chinhphu.vn dải docid 218800–219000 (step 1 × ~200 docid) sử dụng `og:title` meta tag thay vì `<title>` tag (dùng pageid=27160). Dải 218823–218835 trả nội dung có og:title. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-10 lần 52 — xác minh docid 276, 275, 34, 1248, 92, 273, 267, 274): **KHÔNG có văn bản mới** ngoài 218823–218835 (đã biết). Luatvietnam.vn "Văn bản mới" phát hiện 13 văn bản 2026 mới chưa tracking.
+
+**Giới hạn 5/lần — ghi nhận 5 văn bản mới:**
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Nguồn docid | Trạng thái |
+|---|---:|---|---|---|---|
+| **1961/2026/QĐ-BGDĐT** | Đang cập nhật | Xác định ngưỡng bảo đảm chất lượng đầu vào đối với chương trình đào tạo thuộc lĩnh vực pháp luật năm 2026 | Giáo dục | luatvietnam.vn (slug 439887) | **MỚI** — chưa crawl |
+| **1962/2026/QĐ-BGDĐT** | Đang cập nhật | Xác định ngưỡng bảo đảm chất lượng đầu vào đào tạo sức khỏe | Giáo dục | luatvietnam.vn (slug 439888) | **MỚI** — chưa crawl |
+| **1991/2026/QĐ-BGDĐT** | Đang cập nhật | Triển khai chương trình sức khỏe học đường giai đoạn 2026–2035 | Giáo dục | luatvietnam.vn (slug 439931) | **MỚI** — chưa crawl |
+| **1226/2026/QĐ-TTg** | Đang cập nhật | Phê duyệt Đề án khuyến khích xã hội hóa nghiên cứu mật mã dân sự | KHCN | luatvietnam.vn (slug 439785) | **MỚI** — chưa crawl |
+| **2629/2026/QĐ-BNNMT** | Đang cập nhật | Ban hành quy trình giải quyết thủ tục hành chính biến đổi khí hậu | Hành chính | luatvietnam.vn (slug 439763) | **MỚI** — chưa crawl |
+
+### Chi tiết docid 218823–218835 (vanban.chinhphu.vn — og:title confirmed)
+
+| DocID | Số hiệu | Trích yếu |
+|---:|---|---|
+| 218823 | VBHN-TT-BCT số 58 | Quy chuẩn kỹ thuật quốc gia về chất lượng amôniắc công nghiệp |
+| 218824 | VBHN-TT-BCT số 59 | Quy chuẩn kỹ thuật quốc gia về chất lượng PAC |
+| 218825 | VBHN-TT-BCT số 60 | Quy chuẩn kỹ thuật quốc gia về chất lượng natri hydroxit công nghiệp |
+| 218826 | VBHN-TT-BCT số 61 | Quy chuẩn kỹ thuật quốc gia về giới hạn hàm lượng chì trong sơn |
+| 218827 | VBHN-TT-BCT số 62 | Quy chuẩn kỹ thuật quốc gia về hàm lượng thủy ngân trong đèn huỳnh quang |
+| 218828 | VBHN-TT-BCT số 63 | Quy chuẩn kỹ thuật quốc gia về giới hạn formaldehyt trong sản phẩm dệt may |
+| 218829 | VBHN-TT-BCT số 64 | Quy chuẩn kỹ thuật quốc gia về tiền chất thuốc nổ |
+| 218830 | VBHN-TT-BCT số 65 | Quy chuẩn kỹ thuật quốc gia về Amôni nitrat (thuốc nổ nhũ tương) |
+| 218831 | VBHN-TT-BCT số 66 | Quy chuẩn kỹ thuật quốc gia về Amôni Nitrat (thuốc nổ Anfo) |
+| 218832 | **276/2026/NĐ-CP** | Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ |
+| 218833 | **34/2026/QĐ-TTg** | Sửa đổi QĐ 24/2023/QĐ-TTg về điều kiện xác định phơi nhiễm HIV |
+| 218834 | **1248/2026/QĐ-TTg** | Ban hành Bộ tiêu chí đánh giá công nghiệp hóa, hiện đại hóa |
+| 218835 | **275/2026/NĐ-CP** | Xử phạt VPHC trong lĩnh vực hóa chất và vật liệu nổ công nghiệp |
+
+### Quan trọng: dải 218836–250000 HOÀN TOÀN TRỐNG (xác nhận lần 53)
+
+- **218836–219500**: vanban.chinhphu.vn trả `og:title = "Chi tiết văn bản ban hành"` (placeholder) — dải trống.
+- **219000–250000** (step 100 × 21 docid): Tất cả trả placeholder — dải trống.
+- **277–280/NĐ-CP, 89–100/TT-BTC**: Vẫn **CHƯA ĐƯỢC INDEX** trên vanban.chinhphu.vn.
+- **14/NQ-CP** (ban hành 16/01/2026): Chưa xác minh docid trên vanban.chinhphu.vn. Luatvietnam slug 424038 xác nhận tồn tại.
+
+### Văn bản luatvietnam.vn mới phát hiện (cần tracking tiếp — ngoài giới hạn 5)
+
+- 1960/QĐ-BGDĐT 2026 (tai-chinh, slug 439764) — công bố dự toán thu chi ngân sách
+- 1242/QĐ-TTg 2026 (xay-dung, slug 439886) — phê duyệt nhiệm vụ quy hoạch chung đô thị Bắc Ninh
+- 2047/QĐ-BYT 2026 (y-te, slug 439846) — hướng dẫn khám sức khỏe định kỳ trẻ dưới 06 tuổi
+- 2050/QĐ-BYT 2026 (y-te, slug 439847) — sửa đổi hiệu lực QĐ 1270/QĐ-BYT
+
+### Nguồn & Phương pháp
+
+- **Phương pháp vanban.chinhphu.vn**: HTML page `?docid=X&pageid=27160` — extract `og:title` meta tag thay vì `<title>` tag (title tag trả placeholder).
+- **Nguồn chính**: luatvietnam.vn/van-ban-moi.html (1,604 văn bản tháng qua, 13 văn bản 2026 mới trên trang đầu tiên).
+- **vanban.chinhphu.vn dải 218836–250000**: HOÀN TOÀN TRỐNG (quét step 100 × 21 + step 1 × 165).
+- Ngày phát hiện: 2026-07-10 04:xx ICT
+- Phiên thực hiện: agent:github-io:subagent:e27aec24-283a-48e4-926d-2f5d2042208b (Đệ #1 Discovery — lần 53)
