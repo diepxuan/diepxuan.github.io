@@ -1,13 +1,26 @@
 ---
-layout: page
-title: Cơ chế đặc thù xác định danh tính hài cốt liệt sĩ bằng giám định ADN
-date: 2026-05-06 00:00:00 +0700
-categories: [van-ban, chinh-sach-xa-hoi]
-tags: [nghi-quyet, chinh-phu, giam-dinh-adn, hai-cot-liet-si, co-che-dac-thu, chinh-sach-xa-hoi]
-permalink: /van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si/
-description: Nghị quyết 26/2026/NQ-CP về cơ chế, chính sách đặc thù tháo gỡ khó khăn trong lấy mẫu, giám định và xác định danh tính hài cốt liệt sĩ bằng phương pháp giám định ADN.
-source: https://baochinhphu.vn
-lastedit: 2026-06-04
+layout: vanban
+title: "Nghị quyết 26/2026/NQ-CP về cơ chế đặc thù xác định danh tính hài cốt liệt sĩ bằng giám định ADN"
+date: 2026-05-06
+modified: 2026-06-04
+so_hieu: "26/2026/NQ-CP"
+ngay_ban_hanh: "06/05/2026"
+ngay_hieu_luc: "06/05/2026"
+co_quan_ban_hanh: "Chính phủ"
+nguoi_ky: "Phạm Thị Thanh Trà"
+loai_van_ban: "Nghị quyết"
+group: chinh-sach-xa-hoi
+tags:
+  - nghi-quyet
+  - chinh-phu
+  - giam-dinh-adn
+  - hai-cot-liet-si
+  - co-che-dac-thu
+  - chinh-sach-xa-hoi
+source: baochinhphu.vn
+docid: "26/2026/NQ-CP"
+trang_thai: hoan-chinh
+trich_yeu: "Quy định cơ chế, chính sách đặc thù tháo gỡ khó khăn trong lấy mẫu, giám định và xác định danh tính hài cốt liệt sĩ bằng phương pháp giám định ADN."
 ---
 
 # Nghị quyết 26/2026/NQ-CP - Cơ chế đặc thù giám định ADN hài cốt liệt sĩ
