@@ -1,3 +1,53 @@
+## Cập nhật 2026-07-10 03:xx (phiên Đệ #1 Discovery — lần 53)
+
+### Phát hiện: BREAKTHROUGH — vanban.chinhphu.vn RESUME index tại docid 218823+
+
+Quét vanban.chinhphu.vn dải docid 218823–219200 (step 1–5, 378 docid). **Ưu tiên: 14/NQ-CP, 277–280/NĐ-CP, 89–95/TT-BTC.**
+
+**PHÁT HIỆN QUAN TRỌNG**: vanban.chinhphu.vn đã RESUME indexing sau khi tạm dừng hoàn toàn. **Docid 218823–218835** chứa văn bản 2026 — đây là dải đầu tiên được index trở lại kể từ lần 52 (218822). Dải 218836–219500 hoàn toàn trống. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-10 lần 52 — 18 văn bản 218800–218822, 275, 276, 267 đã có trong tracking): **phát hiện 3 văn bản mới chưa từng ghi nhận** + 2 cập nhật docid. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| **276/2026/NĐ-CP** | 08/07/2026 ✅ | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ** — cơ cấu bộ máy, tổ chức bên trong; thẩm quyền ban hành văn bản QPPL; hiệu lực **08/7/2026** | Hành chính / Tổ chức | vanban.chinhphu.vn (docid **218832**) | **Cập nhật docid** | Đã có trong tracking (lần 49 — ước đoán ngày 08/7). Giờ **xác minh ngày 08/7/2026** + **docid 218832** từ HTML page. Đây là Nghị định về cơ cấu tổ chức mới nhất của Bộ Nội vụ sau cải tổ bộ máy. **ƯU TIÊN TRUNG BÌNH** |
+| **275/2026/NĐ-CP** | 08/07/2026 ✅ | **Xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp** — mức phạt tiền tối đa 50 triệu (cá nhân/hóa chất), 100 triệu (vật liệu nổ); phạt tổ chức gấp 2 lần cá nhân; thẩm quyền lập biên bản, xử phạt; biện pháp khắc phục hậu quả; thay thế Nghị định cũ; hiệu lực **25/8/2026** | Công Thương / Môi trường / An toàn | vanban.chinhphu.vn (docid **218835**) | **Cập nhật docid** | Đã có trong tracking (lần 49 — ước đoán 09/7). Giờ **xác minh ngày 08/7/2026** + **docid 218835** từ HTML page. Nguồn bổ sung: baovephapluat.vn, baochinhphu.vn (xác nhận 08/7/2026 ban hành, 25/8/2026 hiệu lực). **ƯU TIÊN THẤP** |
+| **34/2026/QĐ-TTg** | 08/07/2026 | **Sửa đổi, bổ sung QĐ 24/2023/QĐ-TTg về điều kiện xác định người bị phơi nhiễm HIV, người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp** — sửa đổi quy định điều kiện xác định phơi nhiễm HIV do tai nạn nghề nghiệp; cập nhật thủ tục, hồ sơ; **ƯU TIÊN THẤP** | Y tế / Lao động / Bảo hiểm | vanban.chinhphu.vn (docid **218833**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua quét docid 218823–219500. Docid 218833 xác minh từ HTML page. Title: "Quyết định số 34/2026/QĐ-TTg của Thủ tướng Chính phủ: Sửa đổi, bổ sung một số điều của Quyết định số 24/2023/QĐ-TTg ngày 22 tháng 9 năm 2023 của Thủ tướng Chính phủ quy định điều kiện xác định người bị phơi nhiễm với HIV, người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp" ✅. Ngày ban hành: **08/7/2026** (từ meta description). |
+| **1248/QĐ-TTg** | 09/07/2026 | **Ban hành Bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa cấp quốc gia, cấp ngành và địa phương** — quy định bộ tiêu chí đánh giá; phương pháp đánh giá; thời gian, tần suất; phân loại kết quả; **ƯU TIÊN THẤP** | Kế hoạch / Công nghiệp hóa | vanban.chinhphu.vn (docid **218834**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua quét docid 218823–219500. Docid 218834 xác minh từ HTML page. Title: "Quyết định số 1248/QĐ-TTg của Thủ tướng Chính phủ: Về việc ban hành Bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa cấp quốc gia, cấp ngành và địa phương" ✅. Ngày ban hành: **09/7/2026** (từ meta description). |
+| **14/2026/NQ-CP** | 16/01/2026 ✅ | **Đề nghị bổ sung Dự án Luật An toàn thực phẩm (sửa đổi) vào Chương trình lập pháp năm 2026 của Quốc hội** — bổ sung Dự án Luật An toàn thực phẩm (sửa đổi) vào chương trình lập pháp; đã có file trong van-ban/thuc-pham/; **CHƯA CÓ trong van-ban** (file tên "14/NQ-CP" chưa tồn tại) | Hành chính / Lập pháp | vanban.chinhphu.vn (docid **CHƯA XÁC MINH**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua luatvietnam.vn (slug 424038, redirect đến thuc-pham/nghi-quyet-14-nq-cp). Nội dung: "Về việc đề nghị bổ sung Dự án Luật An toàn thực phẩm (sửa đổi) vào Chương trình lập pháp năm 2026 của Quốc hội". Ngày ban hành: **16/01/2026** xác minh từ luatvietnam.vn. Người ký: Lê Thành Long. File van-ban/thuc-pham/ ngày 16/1/2026 đã có — cần kiểm tra xem đúng là 14/NQ-CP chưa. Docid CHƯA XÁC MINH. |
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 276/2026/NĐ-CP | CÓ (lần 49, ước đoán ngày) | **Cập nhật ngày → 08/7/2026 + docid → 218832** ✅ |
+| 275/2026/NĐ-CP | CÓ (lần 49, ước đoán ngày 09/7) | **Cập nhật ngày → 08/7/2026 + docid → 218835** ✅ |
+| 34/2026/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 1248/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 14/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có (14/TT-BNV đã có trong can-bo-cong-chuc-vien-chuc/, KHÔNG nhầm) |
+
+### QUAN TRỌNG: vanban.chinhphu.vn RESUME tại docid 218823 — NEW BOUNDARY
+
+- **Tình trạng mới**: vanban.chinhphu.vn ĐÃ INDEX lại. Docid 218823–218835 (13 docid) chứa văn bản 2026. Dải 218836–219500 trống hoàn toàn.
+- **Boundary mới**: 218822 (92/TT-BTC) = cũ. 218823–218835 = đã index. 218836–219500 = trống. Đây là dải index thứ 2 (sau 218806–218822).
+- **14/2026/NQ-CP** (ban hành 16/01/2026): Luatvietnam có slug 424038 nhưng vanban.chinhphu.vn chưa xác minh docid — có thể đã index ở dải thấp hơn (218500–218600) hoặc chưa được index.
+- **277–280/NĐ-CP, 89–95/TT-BTC**: Vẫn CHƯA ĐƯỢC INDEX. Dải 218836–219500 hoàn toàn trống.
+- **Đề xuất**: Tiếp tục quét dải 218836–220000 (step 1) để tìm văn bản mới. Kiểm tra luatvietnam.vn "Văn bản mới" để phát hiện văn bản chưa index.
+
+### Cập nhật bản đồ docid hoàn chỉnh
+
+| DocID | Văn bản |
+|---:|---|
+| 218823 | **(trống — có 2026 count=2 nhưng không extract được số hiệu)** |
+| 218824–218831 | **(trống — có 2026 count=2 nhưng không extract được số hiệu)** |
+| 218832 | **276/2026/NĐ-CP** (chức năng Bộ Nội vụ) ⭐ DOCID XÁC MINH ✅ |
+| 218833 | **34/2026/QĐ-TTg** (HIV tai nạn nghề nghiệp) ⭐ MỚI ✅ |
+| 218834 | **1248/2026/QĐ-TTg** (bộ tiêu chí công nghiệp hóa) ⭐ MỚI ✅ |
+| 218835 | **275/2026/NĐ-CP** (xử phạt hóa chất, vật liệu nổ) ⭐ DOCID XÁC MINH ✅ |
+| 218836–219500 | **(TRỐNG — tiếp tục quét)** |
+
+Nguồn: vanban.chinhphu.vn (quét docid 218823–219500, step 1–5, 378 docid, found 5 new/updated), luatvietnam.vn (slug 424038 xác minh 14/NQ-CP), web_search gemini (275/NĐ-CP xác nhận ngày 08/7/2026 từ baochinhphu.vn, baovephapluat.vn).
+
+---
+
 ## Cập nhật 2026-07-10 02:xx (phiên Đệ #1 Discovery — lần 52)
 
 ### Phát hiện: 10 văn bản mới — vanban.chinhphu.vn ĐÃ RESUME indexing (docid 218806–218822)
@@ -6,7 +56,7 @@ Quét vanban.chinhphu.vn dải docid 218802–218900 (step 1 × ~100 docid) + lu
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
 |---|---:|---|---|---:|---|---|
-| **267/2026/NĐ-CP** | ~04/07/2026 | **Kỷ luật và bồi thường thiệt hại trong phòng chống lãng phí** — quy định ngưỡng xử lý lãng phí từ 2 triệu đồng; hiệu lực **01/7/2026** | Hành chính / Tài chính | vanban.chinhphu.vn (docid **218808**) | **Chưa có** | **VĂN BẢN MỚI** — docid xác minh qua header "Nghị định số 267/202...". Nguồn: luatvietnam.vn (slug 439885). Đã có trong tracking (lần 51) nhưng chưa xác minh docid — giờ xác minh docid 218808. |
+| **267/2026/NĐ-CP** | 01/07/2026 | **Kỷ luật và bồi thường thiệt hại trong phòng chống lãng phí** — quy định chi tiết khoản 4 Điều 37 Luật 110/2025/QH15 về kỷ luật, bồi thường thiệt hại; 29 Điều; hiệu lực **01/7/2026** | Hành chính / Tài chính | vanban.chinhphu.vn (docid **218808**) | **Chờ review** | ĐÃ CRAWL chi tiết từ PDF 267-ndcp.signed.pdf (690KB, chữ ký số 09/07/2026). File: van-ban/267-2026-ND-CP-ky-luan-xu-ly-vi-pham-chong-lang-phi.md. 29 Điều (1-29), 3 Chương. OCR quality gate: 0 issues. Commit PR #248. |
 | **274/2026/NĐ-CP** | ~08/07/2026 | **Quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh** | Đầu tư / Đấu thầu | vanban.chinhphu.vn (docid **218807**) | **Chưa có** | **VĂN BẢN MỚI** — docid 218807 xác minh qua title "Nghị định số 274/2026/NĐ-CP". Nguồn: vanban.chinhphu.vn (title confirmed). Luatvietnam slug 439818. Ưu tiên cao — đấu thầu nhà đầu tư. |
 | **18/2026/TT-BVH** | ~07/07/2026 | Thông tư Bộ Văn hóa — nội dung cần crawl chi tiết | Văn hóa / Thể thao | vanban.chinhphu.vn (docid **218811**) | **Chưa có** | **VĂN BẢN MỚI** — docid xác minh. Ưu tiên thấp — cần crawl chi tiết. |
 | **02/2026/TT-TTC** | ~07/07/2026 | Thông tư Tổng TTTT — nội dung cần crawl chi tiết | TT-TTC | vanban.chinhphu.vn (docid **218812**) | **Chưa có** | **VĂN BẢN MỚI** — docid xác minh. Ưu tiên thấp — cần crawl chi tiết. |
