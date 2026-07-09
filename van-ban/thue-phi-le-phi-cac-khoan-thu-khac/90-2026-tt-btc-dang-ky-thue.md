@@ -1,61 +1,70 @@
 ---
+layout: vanban
 title: "Thông tư 90/2026/TT-BTC quy định về đăng ký thuế"
 date: 2026-06-30
-so_hieu: 90/2026/TT-BTC
-ngay_ban_hanh: 2026-06-30
-ngay_hieu_luc: 2026-07-01
-co_quan_ban_hanh: Bộ Tài chính
-nguoi_ky: Bộ trưởng Bộ Tài chính
-trich_yeu: Quy định về đăng ký thuế; hướng dẫn chi tiết Luật Quản lý thuế số 108/2025/QH15 và Nghị định số 252/2026/NĐ-CP về phạm vi đăng ký thuế, mã số thuế, thủ tục đăng ký, thay đổi thông tin, tạm ngừng, chấm dứt và khôi phục hiệu lực mã số thuế; mở rộng đối tượng đăng ký thuế (nhà cung cấp nước ngoài, chủ sàn thương mại điện tử, tổ chức kê khai thuế tối thiểu toàn cầu); thực hiện bằng phương thức điện tử.
-nganh: Tài chính
-linh_vuc: Thuế
-nhom: thue-phi-le-phi-cac-khoan-thu-khac
-loai_van_ban: Thông tư
-trich_yeu_ngan: Quy định về đăng ký thuế (hướng dẫn Luật QLTH 108/2025, mở rộng đối tượng đăng ký, thực hiện điện tử)
+modified: 2026-07-09
+group: thue-phi-le-phi-cac-khoan-thu-khac
+tags:
+  - thuế
+  - đăng ký thuế
+  - mã số thuế
+  - luật-quản-lý-thuế
+  - luật-qlt-108-2025-qh15
+  - nghị-định-252-2026-nd-cp
+  - bộ-tài-chính
+docid: chua-xac-minh
+source: luatvietnam.vn (slug 439827); vanban.chinhphu.vn (docid chua-xac-minh); vbpq.mof.gov.vn (chua co trong chi so)
 trang_thai: stub
-nguon: https://vanban.chinhphu.vn/?docid=X
-docid: X
-lastedit: 2026-07-09T05:38+07
+lastedit: 2026-07-09T11:46+07
 ---
 
-> **Lưu ý:** Văn bản này là stub — nội dung chưa được xác minh đầy đủ.
-> Ngày cần crawl: 2026-07-09 (lần 2)
-> Ngày hiệu lực: 01/07/2026
+> **Luu y:** Van ban nay la stub - noi dung chua duoc xac minh dau du tu cac nguon chinh thuc.
+> Ngay can crawl: 2026-07-09 (lan 2, that bai)
+> Ngay hieu luc: 01/07/2026
 >
-> Nguồn thử ngày 2026-07-09:
-> - luatvietnam.vn slug 439827 → 404
-> - luatvietnam.vn (không suffix, -d2) → 404
-> - PDF datafiles.chinhphu.vn (nhiều path) → 403/404
-> - vanban.chinhphu.vn docid 218805–218830 → 404
-> - vbpl.vn PubID 619124 → 404
-> - Luatvietnam API /ajax/GetFullText, /api/document → 404
+> **Ly do khong lay duoc noi dung (tat ca deu that bai):**
+> - luatvietnam.vn slug 439827: 403 (Cloudflare blocked)
+> - luatvietnam.vn cac path khac: 403/404
+> - vanban.chinhphu.vn docid 218805-230000: trong (chua index TT 90)
+> - datafiles.chinhphu.vn (nhieu path PDF): 403
+> - thuvienphapluat.vn slug 713040: 403
+> - vbpq.mof.gov.vn API search: TT 90 chua co trong chi so (9 ngay tu ngay ban hanh)
+> - vbpl.vn, congbao, phapdien: 404/403/javascript-rendered
+> - MoF portal file scan (ID 556390-567280): khong tim thay PDF TT 90
 >
-> Cần xác minh lại khi nguồn có thể truy cập được.
+> **Trich yeu (tu tin goc luatvietnam 110245):** Quy dinh ve dang ky thue; huong dan chi tiet Luat Quan ly Thue so 108/2025/QH15 va ND 252/2026/ND-CP ve pham vi dang ky thue, ma so thue, thu tuc dang ky/thay doi thong tin, tam ngung/cham dut/khoi phuc hieu luc ma so thue; mo rong doi tuong dang ky thue (nha cung cap nuoc ngoai, chu san TMĐT, to chuc ke khai thue toi thieu toan cau); thuc hien bang phuong thuc dien tu.
 
-## Thông tin văn bản
+## Thong tin van ban
 
-| Trường | Giá trị |
+| Truong | Gia tri |
 |--------|---------|
-| **Số hiệu** | 90/2026/TT-BTC |
-| **Ngày ban hành** | 30/06/2026 |
-| **Ngày hiệu lực** | 01/07/2026 |
-| **Cơ quan ban hành** | Bộ Tài chính |
-| **Người ký** | Bộ trưởng Bộ Tài chính |
+| **So hieu** | 90/2026/TT-BTC |
+| **Ngay ban hanh** | 30/06/2026 |
+| **Ngay hieu luc** | 01/07/2026 |
+| **Co quan ban hanh** | Bo Tai Chinh |
+| **Nguoi ky** | Bo truong Bo Tai Chinh |
+| **Co so phap ly** | Luat Quan ly Thue so 108/2025/QH15; ND 252/2026/ND-CP |
 
-## Trích yếu
+## Trich yeu
 
-Quy định về đăng ký thuế; hướng dẫn chi tiết Luật Quản lý thuế số 108/2025/QH15 và Nghị định số 252/2026/NĐ-CP về:
+Quy dinh ve dang ky thue; huong dan chi tiet Luat Quan ly Thue so 108/2025/QH15 va ND 252/2026/ND-CP ve:
 
-- Phạm vi đăng ký thuế;
-- Mã số thuế;
-- Thủ tục đăng ký, thay đổi thông tin;
-- Tạm ngừng, chấm dứt và khôi phục hiệu lực mã số thuế;
-- Mở rộng đối tượng đăng ký thuế (nhà cung cấp nước ngoài, chủ sàn thương mại điện tử, tổ chức kê khai thuế tối thiểu toàn cầu);
-- Thực hiện bằng phương thức điện tử.
+- Pham vi dang ky thue;
+- Ma so thue;
+- Thu tuc dang ky, thay doi thong tin;
+- Tam ngung, cham dut va khoi phuc hieu luc ma so thue;
+- Mo rong doi tuong dang ky thue (nha cung cap nuoc ngoai, chu san TMĐT, to chuc ke khai thue toi thieu toan cau);
+- Thuc hien bang phuong thuc dien tu.
 
-## Tình trạng
+## Tinh trang
 
-- **Trạng thái:** Stub — nội dung chưa crawl được từ tất cả nguồn chính thức
-- **Ngày tạo stub:** 2026-07-09
-- **Nguồn không khả dụng:** luatvietnam.vn (404), vbpl.vn (404), vanban.chinhphu.vn (docid chưa xác minh), datafiles.chinhphu.vn (PDF 404)
-- **Cần:** Xác minh lại khi nguồn có thể truy cập được; hoặc tìm docid chính xác trên vanban.chinhphu.vn
+- **Trang thai:** Stub - noi dung chua crawl duoc
+- **Ngay tao stub:** 2026-07-09
+- **Ngay cap nhat:** 2026-07-09 (lan 2, that bai)
+- **Nguon deu khong kha dung:**
+  - luatvietnam.vn (403 Cloudflare)
+  - vanban.chinhphu.vn (docid chua co trong he thong)
+  - vbpq.mof.gov.vn (chua co trong chi so)
+  - datafiles.chinhphu.vn (403)
+  - thuvienphapluat.vn (403)
+- **Can:** Xac minh lai khi nguon co the truy cap duoc; hoac xac minh docid chinh xac tren vanban.chinhphu.vn

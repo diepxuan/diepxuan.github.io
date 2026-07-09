@@ -1,4 +1,214 @@
-## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 54)
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 57)
+
+### Phát hiện: 0 văn bản mới — dải 220000–230000 TRỐNG, 14/NQ-CP và 97/TT-BTC chưa tìm thấy trên luatvietnam.vn
+
+Quét vanban.chinhphu.vn docid 220000–230000 (step-5, step-50/100/500) + thử slug 14/NQ-CP + 97/TT-BTC trên luatvietnam.vn. Ưu tiên: tìm docid cho 14/NQ-CP, 97/TT-BTC, 274/NĐ-CP. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 56 — dải 218805–220000 trống, docid cao nhất = 218804): **không phát hiện văn bản mới chưa từng ghi nhận**. Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — dải 220000–230000 VẪN TRỐNG HOÀN TOÀN, docid cao nhất = 218804 (không đổi)
+
+**Kết quả quét lần 57:**
+
+| Dải | Phương pháp | Docid thử | Có tiêu đề? |
+|---|---:|---:|:---:|
+| 220000, 220005, 220010, 220050, 220500 | web_fetch | 5 | ❌ "Chi tiết văn bản ban hành" |
+| 221000–225000 (step-500) | curl exec | 5 | ❌ Tiêu đề trống |
+| 222500, 223500, 224500 | web_fetch | 3 | ❌ "Chi tiết văn bản ban hành" |
+| 225000, 226000, 230000 | web_fetch | 3 | ❌ "Chi tiết văn bản ban hành" |
+| Trang chủ vanban.chinhphu.vn | web_fetch | — | ❌ Chỉ hiển thị "Hệ thống văn bản" (JavaScript-rendered) |
+| **Tổng lần này** | — | **~16** | **0** |
+
+**Kết luận lần 57**: vanban.chinhphu.vn **VẪN CHƯA INDEX** bất kỳ văn bản nào sau 218804 (96/TT-BTC). Dải 218805–230000: tổng tích lũy **~500+ docid** — toàn bộ trống.
+
+### Luatvietnam.vn — 14/NQ-CP KHÔNG tìm thấy (slug 439831–439870)
+
+**Kết quả thử slug 14/NQ-CP:**
+
+| Slug thử | Redirect thực | Văn bản thực |
+|---|---|---|
+| 439831 | 439831 | **233-QĐ/TW 2025** — Kết thúc Đảng bộ Khối cơ quan Trung ương |
+| 439832 | 439832 | **165-HD/BTGTW 2024** — Tuyên truyền biến đổi khí hậu |
+| 439833 | 439833 | **163-HD/BTGTW 2024** — Đại hội Văn học nghệ thuật |
+| 439840 | 439840 | **203-QĐ/TW 2026** — Thí điểm giao quyền cấp trên cho đảng ủy cơ sở |
+| 439850 | 439850 | **197-QĐ/TW 2026** — Quy chế phối hợp đảng ủy tập đoàn kinh tế |
+| 439860 | 439860 | **20-QĐ/BCĐ 2026** — Khung quản trị dữ liệu cơ quan đảng |
+| 439870 | 439870 | **2996/QĐ-UBND TP.HCM 2026** — Kiểm kê tài nguyên nước |
+
+**-> 14/2026/NQ-CP KHÔNG tồn tại trên luatvietnam.vn** với các slug gần 439831–439870. Tất cả slug đều redirect về văn bản khác (Đảng, UBND địa phương). **Có thể 14/NQ-CP chưa ban hành hoặc chưa được công bố** trên luatvietnam.vn.
+
+**Thử slug 97/TT-BTC khác:**
+- `439712` -> redirect -> **38/2026/QĐ-CTUBND Nghệ An** (không phải 97/TT-BTC)
+- `439710` = **97/2026/TT-BTC** xác minh đúng (slug duy nhất cho 97/TT-BTC)
+
+**Luatvietnam van-ban-moi.html ngày 09/7/2026:**
+- 1 văn bản ngày 08/07/2026 (cập nhật 09/07/2026)
+- 11 văn bản ngày 07/07/2026 (cập nhật 07-09/07/2026)
+- Tổng cộng 1,654 văn bản/tháng qua
+- **Tất cả bị giới hạn đăng nhập** — không xem được số hiệu, tiêu đề
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|
+| 14/2026/NQ-CP | **CHƯA XÁC MINH DOCID** | Slug 439831–439870 trên luatvietnam đều redirect về văn bản khác — **CÓ THỂ CHƯA BAN HÀNH** |
+| 97/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Slug 439710 (đã xác minh đúng), vanban 218805–230000 trống |
+| 90/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439827 |
+| 91/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439780 |
+| 94/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439781 |
+| 274/2026/NĐ-CP | **CHƯA XÁC MINH DOCID** | slug 439818, vanban trống |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Cần scan thêm |
+
+### Nguồn: vanban.chinhphu.vn (web_fetch 16 docid 220000–230000: tất cả trống, trang chủ chỉ hiển thị nav), luatvietnam.vn (slug 14/NQ-CP 439831–439870: 7 slug đều redirect về văn bản khác; slug 97/TT-BTC 439712: redirect 38/QĐ-Nghệ An; van-ban-moi.html: 1,654 văn bản/tháng, 12 văn bản ngày 07-08/7, bị giới hạn đăng nhập), Firecrawl (402 hết credits).
+- Ngày phát hiện: 2026-07-09 11:35 ICT
+- Phiên thực hiện: Đệ #1 Discovery — lần 57
+
+---
+
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 56)
+
+### Phát hiện: 0 văn bản mới — dải 218805–220000 vẫn TRỐNG, luatvietnam.vn có văn bản mới ngày 07-08/7/2026 (bị giới hạn đăng nhập)
+
+Quét vanban.chinhphu.vn docid 218805–220000 (step-5 và step-50/100/200/500) bằng web_fetch để tìm docid mới. Kiểm tra luatvietnam.vn van-ban-moi.html xem văn bản mới. Ưu tiên: tìm docid cho 274/NĐ-CP, 14/NQ-CP, 90/91/94/97/TT-BTC. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 55 — dải 218805–220500 trống, docid cao nhất = 218804, 180/NQ-CP xác minh docid 218802): **không phát hiện văn bản mới chưa từng ghi nhận**. Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — dải 218805–220000 VẪN TRỐNG HOÀN TOÀN, docid cao nhất = 218804 (không đổi)
+
+**Kết quả quét lần 56:**
+
+| Dải | Step | Docid thử | Có tiêu đề? |
+|---|:---:|---:|:---:|
+| 218805–218850 | 5 | 10 | ❌ "Chi tiết văn bản ban hành" |
+| 218855–218870 | 5 | 4 | ❌ "Chi tiết văn bản ban hành" |
+| 218900, 219000 | 50/100 | 2 | ❌ "Chi tiết văn bản ban hành" |
+| 219100–219850 | 50/200 | 7 | ❌ "Chi tiết văn bản ban hành" |
+| 219950, 220000 | 50/100 | 2 | ❌ "Chi tiết văn bản ban hành" |
+| Trang chủ | curl | — | ✅ **218804** = cao nhất |
+| **Tổng lần này** | — | **~25** | **0** |
+
+**Xác minh bổ sung:**
+- luatvietnam.vn van-ban-moi.html (web_fetch): Có 8 văn bản ngày 07-08/7/2026 trong danh sách "văn bản mới" (tổng 1,639 văn bản/tháng qua) — nhưng tiêu đề, số hiệu bị **giới hạn đăng nhập** (chỉ hiển thị ngày ban hành, ngày cập nhật, trạng thái "Đã biết" cho hiệu lực).
+- **Phương pháp curl thuần không lấy được slug** vì luatvietnam.vn dùng JavaScript để render danh sách văn bản.
+- vanban.chinhphu.vn vẫn chưa index bất kỳ văn bản nào sau 218804 (96/TT-BTC).
+
+**Kết luận lần 56**: vanban.chinhphu.vn **VẪN CHƯA INDEX** bất kỳ văn bản nào sau 218804. 27 docid thử lần này — toàn bộ trống. Tổng tích lũy 218805–220000: **~487 docid** — toàn bộ trống.
+
+### Luatvietnam.vn — van-ban-moi.html hiển thị 8 văn bản ngày 07-08/7/2026 (bị giới hạn)
+
+- Có ít nhất **8 văn bản** được cập nhật ngày 07 và 08/7/2026 (4+ văn bản ngày 07/7, ít nhất 1 ngày 08/7)
+- Tiêu đề và số hiệu bị ẩn sau đăng nhập — không xác định được nội dung cụ thể
+- **Phương pháp curl thuần** không lấy được slug vì luatvietnam.vn render bằng JavaScript
+- Pagination có thể hoạt động (trang 1, 2...) nhưng không cần thử vì không đọc được tiêu đề
+
+**Khả năng**: Các văn bản ngày 07/7/2026 trên luatvietnam.vn có thể là 274/NĐ-CP (đấu thầu) + các TT-BTC khác (90/91/94/97) — nhưng **chưa xác minh được** do giới hạn đăng nhập.
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 274/2026/NĐ-CP | **CHƯA XÁC MINH DOCID** | Có thể đã publish lên luatvietnam.vn ngày 07/7 (8 văn bản mới) — cần đăng nhập để xác minh |
+| 90/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439827, có thể trong 8 văn bản mới ngày 07/7 |
+| 91/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439780, có thể trong 8 văn bản mới ngày 07/7 |
+| 94/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439781, có thể trong 8 văn bản mới ngày 07/7 |
+| 97/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Ngày 06/7/2026 |
+| 14/2026/NQ-CP | **CHƯA XÁC MINH DOCID** | vanban 218805–220000 trống |
+| 180/2026/NQ-CP | **Docid 218802** ✅ | Xác minh lần 55 |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Có thể có |
+
+### Nguồn: vanban.chinhphu.vn (web_fetch 27 docid 218805–220000: tất cả trống, trang chủ xác nhận 218804 = cao nhất), luatvietnam.vn (van-ban-moi.html: 8 văn bản ngày 07-08/7/2026, bị giới hạn đăng nhập, curl không lấy được slug).
+- Ngày phát hiện: 2026-07-09 08:01 ICT
+- Phiên thực hiện: Đệ #1 Discovery — lần 56
+
+---
+
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 55)
+
+### Phát hiện: 0 văn bản mới — dải 218805–219500 TRỐNG, phát hiện bổ sung 180/NQ-CP
+
+Quét vanban.chinhphu.vn docid 218805–219500 (web_fetch) + kiểm tra luatvietnam.vn trang 2 + thử slug 14/NQ-CP trên luatvietnam + quét thuvienphapluat.vn. Ưu tiên: tìm docid cho 274/NĐ-CP, 90/91/94/97/TT-BTC, 14/NQ-CP. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 54 — dải 218805–350000 trống, docid cao nhất = 218804): **không phát hiện văn bản mới chưa từng ghi nhận** — có **2 phát hiện bổ sung** (xác định 180/NQ-CP và 348/CTPH đã có trong tracking). Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản mới)*
+
+### Tình trạng vanban.chinhphu.vn — dải 218805–219500 VẪN TRỐNG, docid cao nhất = 218804 (không đổi)
+
+**Kết quả quét lần 55:**
+
+| Dải | Phương pháp | Docid thử | Có tiêu đề? |
+|---|---:|---:|:---:|
+| 218805–218809 | web_fetch | 5 | ❌ "Chi tiết văn bản ban hành" |
+| 218810–218820 | web_fetch | 3 | ❌ "Chi tiết văn bản ban hành" |
+| 218850, 218860, 218880 | web_fetch | 3 | ❌ "Chi tiết văn bản ban hành" |
+| 218900, 218950 | web_fetch | 2 | ❌ "Chi tiết văn bản ban hành" |
+| 219000–219500 (step-100) | web_fetch | 5 | ❌ "Chi tiết văn bản ban hành" |
+| 219750 | web_fetch | 1 | ❌ "Chi tiết văn bản ban hành" |
+| 220000 | web_fetch | 1 | ❌ "Chi tiết văn bản ban hành" |
+| Trang chủ (docid list) | curl | — | ✅ **218804** = cao nhất |
+| **Tổng lần này** | — | **~20** | **0** |
+
+**Xác minh bổ sung (BONUS phát hiện lần này):**
+- **218802 = 180/NQ-CP** ✅ — "Nghị quyết số 180/NQ-CP của Chính phủ: Phiên họp Chính phủ thường kỳ tháng 6 năm 2026 và Hội nghị trực tuyến Chính phủ với địa phương". Đã xác minh qua `curl docid=218802`. Trước đây 218802 ghi "Chưa xác định" (trống title web_fetch). **Cần cập nhật bản đồ docid.**
+- **218803 = 348/CTPH** ✅ — "Chương trình phối hợp số 348/CTPH-CP-HNDVN-HLHPNVN về tuyên truyền, vận động, giám sát sản xuất, kinh doanh nông lâm thủy sản chất lượng, an toàn giai đoạn 2026–2030". Đã xác minh lần 54 nhưng ghi nhắc lại.
+
+**Kết luận lần 55**: vanban.chinhphu.vn **VẪN CHƯA INDEX** bất kỳ văn bản nào sau 218804 (96/TT-BTC). 18 docid thử lần này — toàn bộ trống. Tổng tích lũy 218805–219500: **~460 docid** (tăng ~20 so với lần 54) — toàn bộ trống.
+
+### Luatvietnam.vn — van-ban-moi.html trang 2 = trang 1 (pagination không hoạt động)
+
+**Kết quả lần 55:**
+- Trang 1 và trang 2 trả về **20 văn bản giống hệt nhau** — pagination không hoạt động. Không thể xem văn bản thứ 21–40.
+- 18 văn bản đầu tiên: 14 ngày 07/07/2026, 4 ngày 06/07/2026 (giới hạn đăng nhập — không đọc được tiêu đề)
+- Trang chủ luatvietnam.vn: 10 văn bản ngày 08/07 (hôm nay — 1 item mới so với lần 54)
+
+**Thử slug 14/NQ-CP:**
+- `439818` (thử `/chinh-phu/nghi-quyet-14-2026-nq-cp-439818...`) → redirect → **274/2026/NĐ-CP** (slug 439818 đúng là 274/NĐ-CP, KHÔNG PHẢI 14/NQ-CP)
+- `439819` (thử `/chinh-phu/nghi-quyet-14-2026-nq-cp-439819...`) → redirect → **15/2026/NQ-HĐND Đắk Lắk** (khuyến nông)
+- `439822` (thử `/chinh-phu/nghi-quyet-14-2026-nq-cp-439822...`) → redirect → **11/2026/NQ-HĐND Đắk Lắk** (công nghệ số cộng đồng)
+
+**→ 14/NQ-CP KHÔNG tìm thấy trên luatvietnam.vn** với các slug gần 439818. Không có slug nào cho 14/NQ-CP của Chính phủ. Có thể:
+1. 14/NQ-CP chưa ban hành hoặc chưa được công bố
+2. Đang trong quá trình công bố
+3. Slug khác hoàn toàn
+
+### Nguồn không khả dụng lần 55
+- **Firecrawl web_search**: 402 — hết credits hoàn toàn
+- **Firecrawl web_fetch thuvienphapluat.vn**: 402 — hết credits
+- **luatvietnam API**: 404 `lvn_desktop:8086/api/search`
+- **vanban.chinhphu.vn API**: 404 `/Handlers/TraCuuVanBanHandler.ashx`
+
+### Bản đồ docid cập nhật (dải 218800–218804, xác minh lần 55)
+
+| DocID | Văn bản | Trạng thái |
+|---:|---|---|
+| 218800 | 263/2026/NĐ-CP | Khu nông nghiệp CN cao |
+| 218801 | 273/2026/NĐ-CP | Kinh doanh hàng miễn thuế |
+| 218802 | **180/2026/NQ-CP** ✅ | **MỚI XÁC MINH** — Phiên họp Chính phủ tháng 6/2026 |
+| 218803 | 348/2026/CTPH | Chương trình phối hợp nông lâm thủy sản |
+| 218804 | 96/2026/TT-BTC | Sửa đổi TT 67/2023 bảo hiểm |
+| **218805+** | — | **TRỐNG HOÀN TOÀN** |
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 274/2026/NĐ-CP | **CHƯA XÁC MINH DOCID** | luatvietnam slug 439818 đúng là 274/NĐ-CP — CHƯA có trên vanban |
+| 90/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439827 |
+| 91/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439780 |
+| 94/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | slug 439781 |
+| 97/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | Ngày 06/7/2026 |
+| 14/2026/NQ-CP | **KHÔNG TÌM THẤY** | Slug 439818/439819/439822 đều không phải — có thể chưa ban hành hoặc chưa công bố |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Pagination luatvietnam không hoạt động — cần tìm cách khác |
+| 180/2026/NQ-CP | **Docid 218802** ✅ | **MỚI: Xác minh docid** — Phiên học Chính phủ tháng 6/2026 |
+
+### Nguồn: vanban.chinhphu.vn (web_fetch 218805–220500: 18 docid trống, curl trang chủ xác nhận 218804 = cao nhất, curl 218802 xác nhận 180/NQ-CP), luatvietnam.vn (trang 1 = trang 2 pagination không hoạt động, slug 439819→15/NQ-HĐND Đắk Lắk, 439822→11/NQ-HĐND Đắk Lắk), Firecrawl (402 hết credits).
+- Ngày phát hiện: 2026-07-09 07:36 ICT
+- Phiên thực hiện: Đệ #1 Discovery — lần 55
+
+---
+
+
 
 ### Phát hiện: 0 văn bản mới — dải 218805–220500 TRỐNG HOÀN TOÀN, luatvietnam.vn giới hạn 3 slug
 
