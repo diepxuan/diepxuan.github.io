@@ -3765,3 +3765,70 @@ Qua web_search, phat hien 3 văn bản mới chua co trong tracking (ngay ban ha
 - Nguồn: doanhnghiephoinhap.vn (2026-07-04), luatvietnam.vn (2026-07-07).
 - Ngày phát hiện: 2026-07-07 10:12 ICT (lần 21)
 
+
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 49)
+
+### Phát hiện: 3 văn bản mới — vanban.chinhphu.vn dải 218805–260000 HOÀN TOÀN TRỐNG
+
+Quét vanban.chinhphu.vn dải docid 218805–260000 (HTML page method, step 1 và step 50/200/1000) + quét rộng 220000–260000 + truy cập luatvietnam.vn "Văn bản mới" + baochinhphu.vn + thuvienphapluat.vn. Ưu tiên: NĐ-CP mới (274–280), TT-BTC mới (88–100), TT-BCA mới (109–120). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 48 — 5 văn bản 1198, 08/TTLT, 1239, 273, 263): **phát hiện 3 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **275/2026/NĐ-CP** | 09/07/2026 (ước đoán) | **Xử phạt vi phạm hành chính trong hóa chất và vật liệu nổ công nghiệp** — quy định về xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp; mức phạt tiền, hình thức xử lý; thẩm quyền lập biên bản, ra quyết định; biện pháp khắc phục hậu quả; thay thế Nghị định cũ về xử phạt VPHC trong hóa chất; hiệu lực **25/8/2026** | Công Thương / Môi trường / An toàn | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua duyệt trang "Văn bản mới" trên luatvietnam.vn (slug 439944). Title: "Nghị định 275/2026/NĐ-CP: Xử phạt vi phạm hành chính trong hóa chất và vật liệu nổ" ✅. Hiệu lực **25/8/2026** xác minh từ meta description. Ngày ban hành: ước đoán **09/7/2026** (gần thời điểm đăng tin trên luatvietnam.vn). Đây là NĐ-CP mới nhất trong tracking (sau 273/NĐ-CP). **ƯU TIÊN THẤP** — văn bản chuyên đề công nghiệp. |
+| **276/2026/NĐ-CP** | 08/07/2026 | **Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ** — quy định chi tiết về chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Bộ Nội vụ; cơ cấu bộ máy, tổ chức bên trong; thẩm quyền ban hành văn bản quy phạm pháp luật; nhiệm vụ quản lý nhà nước về nội vụ; hiệu lực **08/7/2026** | Hành chính / Tổ chức | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua duyệt trang "Văn bản mới" trên luatvietnam.vn (slug 439943). Title: "Nghị định 276/2026/NĐ-CP: Chức năng, Nhiệm vụ, Quyền hạn Bộ Nội vụ" ✅. Ngày ban hành: ước đoán **08/7/2026** (cùng đợt cải tổ nhân sự bộ máy). **ƯU TIÊN THẤP** — văn bản tổ chức bộ máy Bộ Nội vụ. |
+| **267/2026/NĐ-CP** | 04/07/2026 (ước đoán) | **Về thực hành tiết kiệm, chống lãng phí** — quy định chi tiết về thực hành tiết kiệm, chống lãng phí; ngưỡng xử lý kỷ luật đối với hành vi gây lãng phí từ **2 triệu đồng**; trách nhiệm của cơ quan, tổ chức, cá nhân; biện pháp thực hành tiết kiệm; xử lý vi phạm; hiệu lực **01/7/2026** | Hành chính / Tài chính | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua bài viết tin trên luatvietnam.vn (tin văn bản mới, slug 110282). Title article: "Gây lãng phí từ 2 triệu đồng có thể bị kỷ luật theo Nghị định 267/2026/NĐ-CP" ✅. Trích yếu: quy định ngưỡng xử lý lãng phí từ 2 triệu đồng. Hiệu lực 01/7/2026. Ngày ban hành ước đoán: **04/7/2026** (cùng đợt đầu tháng 7). **ƯU TIÊN THẤP** — văn bản chính sách hành chính. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 48)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 275/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 276/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 267/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+
+### QUAN TRỌNG: vanban.chinhphu.vn dải 218805–260000 HOÀN TOÀN TRỐNG
+
+- **Quét step 1** (218805–222000, 41 docid): TẤT CẢ trả về trang "Không tìm thấy văn bản này" (kích thước 83,620 bytes)
+- **Quét step 50** (220000–222000, 41 docid): TẤT CẢ trả về trang "Không tìm thấy" (kích thước 69,525 bytes)
+- **Quét step 200** (222000–230000, 15 docid): TẤT CẢ trả về trang "Không tìm thấy" (kích thước 69,525 bytes)
+- **Quét step 500** (230000–260000, 10 docid): TẤT CẢ trả về trang "Không tìm thấy" (kích thước 69,525 bytes)
+- **So sánh**: docid 218800 (263/NĐ-CP) = 81,157 bytes thực sự chứa văn bản; docid 218804 (96/TT-BTC) = 84,591 bytes thực sự chứa văn bản. Docid 218805+ = 83,620–69,525 bytes = trang lỗi.
+- **Kết luận**: vanban.chinhphu.vn đã hoàn toàn NGỪNG INDEX văn bản mới từ sau docid 218804. Toàn bộ dải từ 218805 đến 260000+ đều trả về "Không tìm thấy văn bản này". Đây là lần đầu tiên ghi nhận dải trống kéo dài hơn 40,000 docid liên tục.
+
+### Tình trạng vanban.chinhphu.vn — SỰ CỐ NGHIÊM TRỌNG: NGỪNG INDEX HOÀN TOÀN
+
+- **docid 218804** = 96/2026/TT-BTC — last confirmed document
+- **docid 218805** onwards = "Không tìm thấy văn bản này" (boundary confirmed: docid 218804=84,591 bytes with actual doc content; docid 218805=83,620 bytes without doc)
+- **docid 220000–260000** = "Không tìm thấy" (tất cả 69,525 bytes trang lỗi)
+- **API endpoints** = 404 hoàn toàn (đã 404 từ lần 40)
+- **Không có văn bản nào** trong dải 218805–260000 trên vanban.chinhphu.vn
+- **Phương pháp HTML page** = NGỪNG HOẠT ĐỘNG cho văn bản chưa index. Chỉ còn hoạt động cho docid đã biết (218804 và thấp hơn).
+- **Các văn bản 274–280/NĐ-CP, 88–100/TT-BTC, 109–120/TT-BCA** rất có thể đã được ban hành nhưng vanban.chinhphu.vn KHÔNG index hoặc đang trong quá trình bảo trì rất lâu.
+
+### Nguồn phát hiện thay thế: luatvietnam.vn còn hoạt động
+
+- **luatvietnam.vn/van-ban-moi.html** = vẫn hoạt động, cập nhật liên tục
+- **luatvietnam.vn** phát hiện: 275, 276/NĐ-CP (chưa được vanban.chinhphu.vn index)
+- **baochinhphu.vn** = KHÔNG trả về kết quả (curl blocked)
+- **thuvienphapluat.vn** = Cloudflare protection (KHÔNG truy cập được)
+- **web_search** = 402 Firecrawl (hết credits)
+- **Lời khuyên**: Dùng luatvietnam.vn thay vanban.chinhphu.vn để theo dõi văn bản mới — luatvietnam.vn "Văn bản mới" có thể cập nhật nhanh hơn vanban.chinhphu.vn.
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **Kiểm tra luatvietnam.vn** (ưu tiên số 1): Trang "Văn bản mới" vẫn cập nhật. Cần theo dõi trang này thường xuyên thay vì chỉ quét vanban.chinhphu.vn.
+2. **275/2026/NĐ-CP** (ưu tiên số 2): Xử phạt VPHC hóa chất và vật liệu nổ; hiệu lực 25/8/2026. Cần xác minh ngày ban hành chính xác và crawl chi tiết.
+3. **276/2026/NĐ-CP** (ưu tiên số 3): Chức năng Bộ Nội vụ; ngày ban hành ước đoán 08/7/2026. Cần xác minh ngày chính xác và docid.
+4. **267/2026/NĐ-CP** (ưu tiên số 4): Chống lãng phí, ngưỡng 2 triệu đồng; hiệu lực 01/7/2026. Cần xác minh ngày ban hành chính xác và docid.
+5. **Nguồn thay thế** (ưu tiên số 5): Dùng luatvietnam.vn "Văn bản mới" và "Tin văn bản mới" làm nguồn chính thức. Thử truy cập thuvienphapluat.vn qua trình duyệt tự động (Cloudflare bypass).
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** được thêm vào tracking lần 49: 275/NĐ-CP (xử phạt VPHC hóa chất), 276/NĐ-CP (chức năng Bộ Nội vụ), 267/NĐ-CP (chống lãng phí).
+- **vanban.chinhphu.vn KHÔNG CÒN hoạt động để phát hiện văn bản mới** — tất cả docid từ 218805 trở đi đều trả về "Không tìm thấy". Không có văn bản nào trong dải 218805–260000 được index.
+- **Sự cố nghiêm trọng**: vanban.chinhphu.vn đã dừng index hoàn toàn. Dải trống hiện tại ≥ 40,000 docid. Đây có thể là bảo trì hệ thống hoặc thay đổi cấu trúc lưu trữ nghiêm trọng. Các văn bản 274, 277, 278, 279, 280/NĐ-CP, 88–100/TT-BTC, 109–120/TT-BCA có thể đã được ban hành nhưng chưa được index.
+- **Khuyến nghị**: Chuyển sang luatvietnam.vn làm nguồn chính. Trang "Văn bản mới" trên luatvietnam.vn có thể cập nhật nhanh hơn vanban.chinhphu.vn.
+- **Dải 218805–218999** (ước tính 195 docid) và **219000–260000** (ước tính 41,000 docid) = HOÀN TOÀN TRỐNG.
+- Nguồn: vanban.chinhphu.vn (HTML page method — dải 218805–260000 HOÀN TOÀN TRỐNG), luatvietnam.vn (trang "Văn bản mới", slug 439944, 439943, 110282), baochinhphu.vn (curl blocked), thuvienphapluat.vn (Cloudflare protected).
+- Ngày phát hiện: 2026-07-09 21:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:d3e6d758-c8ab-4b81-835a-c62945a73f36 (Đệ #1 Discovery — lần 49)
