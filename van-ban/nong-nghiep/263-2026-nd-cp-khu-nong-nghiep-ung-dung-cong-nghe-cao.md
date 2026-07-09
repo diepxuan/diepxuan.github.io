@@ -62,7 +62,6 @@ Trong Nghị định này, các từ ngữ đưới đây được hiểu như s
 lập theo điều kiện, trình tự, thủ tục quy định tại Nghị định này và pháp luật có
 liên quan.
 
-Ú
 2. Mở rộng khu nông nghiệp ứng dụng công nghệ cao là việc tăng quy
 mô diện tích của khu nông nghiệp ứng dụng công nghệ cao đã được thành lập
 để đáp ứng nhu cầu phát triển.
@@ -136,7 +135,7 @@ nghiệp sáng tạo trong lĩnh vực nông nghiệp ứng dụng công nghệ 
 4. Dự án đầu tư thực hiện các hoạt động quy định tại khoản 2, khoản 3
 Điều này phải đáp ứng tiêu chí tương ứng quy định tại Điều 5 Nghị định này.
 
-### Điều 5. Tiêu chí đối với dự án đầu tư thực biện hoạt động công nghệ
+### Điều 5. Tiêu chí đối với dự án đầu tư thực hiện hoạt động công nghệ
 cao trong khu nông nghiệp ứng dụng công nghệ cao
 
 1. Dự án đầu tư hoạt động trong khu nông nghiệp ứng dụng công nghệ
@@ -248,7 +247,6 @@ c) Cơ sở vật chất, trang thiết bị, địa điểm thực hành, thự
 đ) Xây dựng cơ chế đánh giá kết quả đào tạo, công nhận kết quả học tập
 hoặc cấp chứng nhận theo quy định của pháp luật.
 
-¡cÍ
 6. Tiêu chí đối với dự án cung ứng dịch vụ công nghệ cao, công nghệ
 chiến lược trong khu nông nghiệp ứng dụng công nghệ cao được xác định
 theo từng loại hình dịch vụ đăng ký thực hiện như sau:
