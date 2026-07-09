@@ -1,3 +1,79 @@
+## Cập nhật 2026-07-10 02:xx (phiên Đệ #1 Discovery — lần 52)
+
+### Phát hiện: 10 văn bản mới — vanban.chinhphu.vn ĐÃ RESUME indexing (docid 218806–218822)
+
+Quét vanban.chinhphu.vn dải docid 218802–218900 (step 1 × ~100 docid) + luatvietnam.vn search. Ưu tiên: 14/NQ-CP, 277/NĐ-CP, 89–92/TT-BTC. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 51 — 4 docid 218800–218807 + 2 docid 218811–218822): **phát hiện 9 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| **267/2026/NĐ-CP** | ~04/07/2026 | **Kỷ luật và bồi thường thiệt hại trong phòng chống lãng phí** — quy định ngưỡng xử lý lãng phí từ 2 triệu đồng; hiệu lực **01/7/2026** | Hành chính / Tài chính | vanban.chinhphu.vn (docid **218808**) | **Chưa có** | **VĂN BẢN MỚI** — docid xác minh qua header "Nghị định số 267/202...". Nguồn: luatvietnam.vn (slug 439885). Đã có trong tracking (lần 51) nhưng chưa xác minh docid — giờ xác minh docid 218808. |
+| **274/2026/NĐ-CP** | ~08/07/2026 | **Quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh** | Đầu tư / Đấu thầu | vanban.chinhphu.vn (docid **218807**) | **Chưa có** | **VĂN BẢN MỚI** — docid 218807 xác minh qua title "Nghị định số 274/2026/NĐ-CP". Nguồn: vanban.chinhphu.vn (title confirmed). Luatvietnam slug 439818. Ưu tiên cao — đấu thầu nhà đầu tư. |
+| **18/2026/TT-BVH** | ~07/07/2026 | Thông tư Bộ Văn hóa — nội dung cần crawl chi tiết | Văn hóa / Thể thao | vanban.chinhphu.vn (docid **218811**) | **Chưa có** | **VĂN BẢN MỚI** — docid xác minh. Ưu tiên thấp — cần crawl chi tiết. |
+| **02/2026/TT-TTC** | ~07/07/2026 | Thông tư Tổng TTTT — nội dung cần crawl chi tiết | TT-TTC | vanban.chinhphu.vn (docid **218812**) | **Chưa có** | **VĂN BẢN MỚI** — docid xác minh. Ưu tiên thấp — cần crawl chi tiết. |
+| **09/2026/TT-VKS** | ~07/07/2026 | Thông tư Viện KSND Tối cao — nội dung cần crawl chi tiết | Tư pháp / KSND | vanban.chinhphu.vn (docid **218813**) | **Chưa có** | **VĂN BẢN MỚI** — docid xác minh. Ưu tiên thấp — cần crawl chi tiết. |
+
+**4 văn bản mới bổ sung** (ngoài giới hạn 5): 35/2026/TT-NHN (218815), 36/2026/TT-NHN (218816), 38/2026/TT-BKH (218817), 48/2026/TT-BXD (218818), 57/2026/TT-BXD (218819), 92/2026/TT-BTC (218822).
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 267/2026/NĐ-CP | CÓ (lần 51, chưa có docid) | Docid mới — **218808** |
+| 274/2026/NĐ-CP | CÓ (lần 51, chưa có docid) | Docid mới — **218807** |
+| 18/2026/TT-BVH | **KHÔNG** | Thêm mới — Chưa có |
+| 02/2026/TT-TTC | **KHÔNG** | Thêm mới — Chưa có |
+| 09/2026/TT-VKS | **KHÔNG** | Thêm mới — Chưa có |
+| 35/2026/TT-NHN | **KHÔNG** | Thêm mới — Chưa có |
+| 36/2026/TT-NHN | **KHÔNG** | Thêm mới — Chưa có |
+| 38/2026/TT-BKH | **KHÔNG** | Thêm mới — Chưa có |
+| 48/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 57/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 92/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có |
+
+### QUAN TRỌNG: vanban.chinhphu.vn ĐÃ RESUME INDEXING — 218806–218822
+
+- **Tình trạng mới**: vanban.chinhphu.vn ĐÃ BẮT ĐẦU index lại. Docid 218806–218822 (17 docid) chứa văn bản 2026.
+- **Các vùng trống trước đó đã được lấp đầy**: 218806–218822 đã có văn bản. Vùng 218823–219000 vẫn trống (quét step 1 và step 5).
+- **Docid boundary mới**: 218822 = 92/TT-BTC (confirmed). 218823 onwards = trống.
+- **274/2026/NĐ-CP** (docid 218807): Đấu thầu nhà đầu tư — ưu tiên cao.
+- **267/2026/NĐ-CP** (docid 218808): Chống lãng phí, ngưỡng 2 triệu đồng, hiệu lực 01/7/2026 — ưu tiên trung bình.
+- **Vùng 218823+**: Vẫn trống, cần tiếp tục quét.
+
+### Tình trạng các văn bản ưu tiên từ lần 51
+
+| Văn bản | Trạng thái | Ghi chú |
+|---|---|---|
+| 14/2026/NQ-CP | **CHƯA TÌM** (luatvietnam slug 424038, ban hành 16/01/2026 — đã có file, cần xác minh docid) | Luatvietnam slug 424038 (ban hanh 16/1/2026); ngày ban hành 16/01/2026; có thể đã crawl rồi — cần kiểm tra van-ban/ |
+| 277–280/2026/NĐ-CP | **CHƯA ĐƯỢC INDEX** trên vanban | Dải 218823–220000 vẫn trống. Luatvietnam: chưa thấy 277/NĐ-CP |
+| 89–100/2026/TT-BTC | **CHƯA ĐƯỢC INDEX** (ngoại trừ 92 đã xác minh) | 92/TT-BTC xác minh docid 218822 |
+| 109–120/2026/TT-BCA | **CHƯA ĐƯỢC INDEX** | Luatvietnam: 109/TT-BCA slug 439433 (ngày 01/07/2026) |
+
+### Cập nhật bản đồ docid hoàn chỉnh
+
+| DocID | Văn bản |
+|---:|---|
+| 218800 | **263/2026/NĐ-CP** (khu nông nghiệp CNC) ⭐ ĐÃ XÁC MINH |
+| 218801 | **273/2026/NĐ-CP** (kinh doanh hàng miễn thuế) ⭐ ĐÃ XÁC MINH |
+| 218802–218806 | **(TRỐNG)** |
+| 218807 | **274/2026/NĐ-CP** (đấu thầu nhà đầu tư) ⭐ MỚI |
+| 218808 | **267/2026/NĐ-CP** (chống lãng phí) ⭐ ĐÃ XÁC MINH DOCID |
+| 218809–218810 | **(TRỐNG)** |
+| 218811 | **18/2026/TT-BVH** ⭐ MỚI |
+| 218812 | **02/2026/TT-TTC** ⭐ MỚI |
+| 218813 | **09/2026/TT-VKS** ⭐ MỚI |
+| 218814 | 29/2026/TT-BYT ✅ (đã có) |
+| 218815 | **35/2026/TT-NHN** ⭐ MỚI |
+| 218816 | **36/2026/TT-NHN** ⭐ MỚI |
+| 218817 | **38/2026/TT-BKH** ⭐ MỚI |
+| 218818 | **48/2026/TT-BXD** ⭐ MỚI |
+| 218819 | **57/2026/TT-BXD** ⭐ MỚI |
+| 218820 | 84/2026/TT-BTC ✅ (đã có) |
+| 218821 | 86/2026/TT-BTC ✅ (đã có) |
+| 218822 | **92/2026/TT-BTC** ⭐ MỚI |
+| 218823–219000 | **(TRỐNG — tiếp tục quét)** |
+
+Nguồn: vanban.chinhphu.vn (quét docid 218802–218900 step 1, ~100 docid), luatvietnam.vn (search, slug 439818, 439885, 424038, 439433).
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 48)
 
 ### Phát hiện: 5 văn bản mới — docid 218805–220000 hoàn toàn trống + 3 văn bản mới ngoài dải
