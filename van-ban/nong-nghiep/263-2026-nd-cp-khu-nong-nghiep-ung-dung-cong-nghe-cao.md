@@ -3,11 +3,13 @@ layout: vanban
 title: "Nghị định số 263/2026/NĐ-CP"
 date: 2026-07-01
 modified: 2026-07-10
-group: Nông nghiệp / KHCN
+group: nong-nghiep-khcn
 tags:
   - nong-nghiep
-  - cong-nghe-cao
   - khcn
+  - khu-nong-nghiep
+  - cong-nghe-cao
+  - quy-dinh
 docid: "218800"
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 toc: true
@@ -51,24 +53,6 @@ Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường;
 Chính phủ ban hành Nghị định quy định về khu nông nghiệp ứng dụng công nghệ cao.
 
 ## Chương I
-QUY ĐỊNH CHUNG
-
-### Điều 1. Phạm vi điều chỉnh
-
-1. Nghị định này quy định chỉ tiết Điều 24 Luật Công nghệ cao năm
-2025 về tiêu chí, điêu kiện, trình tự thành lập, mở rộng, điêu chỉnh khu nông
-nghiệp ứng dụng công nghệ cao.
-
-2. Nghị định này quy định các biện pháp tổ chức thi hành về hoạt động,
-cơ chế, chính sách ưu đãi, hỗ trợ và trách nhiệm quản lý nhà nước đối với khu
-nông nghiệp ứng dụng công nghệ cao.
-
-### Điều 2. Đối tượng áp dụng
-
-Nghị định áp dụng đối với cơ quan quản lý nhà nước, tổ chức, cá nhân
-có hoạt động liên quan được quy định tại Điều 1 Nghị định này.
-
-### Điều 3. Giải thích từ ngữ
 
 Trong Nghị định này, các từ ngữ đưới đây được hiểu như sau:
 
