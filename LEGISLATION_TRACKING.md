@@ -177,6 +177,23 @@
 | **Ghi chú** | File stub `van-ban/thue/91-2026-tt-btc.md` đã tạo. Tất cả nguồn chính thức đều bị chặn: luatvietnam.vn (Cloudflare 403), vanban.chinhphu.vn (406/404), thuvienphapluat.vn (410), datafiles.chinhphu.vn (403), Firecrawl (402 credits). Retry crawl trong phiên heartbeat kế tiếp.
 | **Trạng thái** | Stub — đã tạo file, chờ retry toàn văn
 
+### 94/2026/TT-BTC — Quản lý tuân thủ, quản lý rủi ro trong quản lý thuế (luatvietnam slug xác minh)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 94/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 01/07/2026 (xác minh: luatvietnam.vn slug 439781) |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Thuế, Quản lý tuân thủ, Quản lý rủi ro |
+| **Slug** | 439781 (luatvietnam.vn/van-ban/thong-tu-94-2026-tt-btc-quan-ly-tuan-thu-va-rui-ro-trong-quan-ly-thue-hieu-qua-439781-d1.html) |
+| **Nguồn** | luatvietnam.vn d1/d2 (tóm tắt + Chương I, Điều 1-2; paywall); vanban.chinhphu.vn docid cần xác minh |
+| **Mô tả** | Quy định về quản lý tuân thủ, quản lý rủi ro trong quản lý thuế; thu thập, xử lý thông tin người nộp thuế; tiêu chí đánh giá mức độ rủi ro (4 mức); giám sát trọng điểm người nộp thuế không tuân thủ. Căn cứ Luật QLTH 108/2025, NĐ 252/2026, NĐ 254/2026. |
+| **Văn bản liên quan** | 108/2025/QH15; 252/2026/NĐ-CP; 254/2026/NĐ-CP |
+| **Ghi chú** | Stub đã tạo: `van-ban/thue/94-2026-tt-btc.md`. Nội dung có Chương I, Điều 1-2 xác nhận từ luatvietnam.vn. luatvietnam.vn paywall hiển thị đến Điều 2; vanban.chinhphu.vn docid 218800 không trùng (là 263/2026/NĐ-CP); docid chính xác chưa xác minh; PDF chưa tìm thấy trên datafiles.chinhphu.vn (404). Firecrawl web_fetch/search trả 402. Retry: áp dụng Signed PDF OCR nếu tìm được PDF trên VCP/VBPL. |
+| **Trạng thái** | Stub — đã xác nhận 2/2 điều Chương I, chờ toàn văn
+
 ---
 
 ## KẾT QUẢ QUÉT DOCID 218868–500000 (Discovery lần 54)
@@ -218,6 +235,7 @@
 | `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 48/2026/TT-BCA (QCVN 11:2026/BCA) | 4,476 bytes | 2026-06-01 (mod) | Stub — nội dung summary 11 nhóm yêu cầu kỹ thuật; 37 ngày tuổi (mod); Cần xác minh docid, crawl toàn văn từ vanban.bocongan.gov.vn |
 | `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/90-2026-tt-btc-dang-ky-thue.md` | 90/2026/TT-BTC | 2,340 bytes | 2026-07-09 | Stub — luatvietnam slug 439827 xác minh, nội dung đầy đủ có sẵn; Cần crawl lại từ slug |
 | `van-ban/thue/91-2026-tt-btc.md` | 91/2026/TT-BTC | 3,603 bytes | 2026-07-09 | Stub — tất cả nguồn bị chặn (402/403/404/406/410); Retry crawl phiên kế tiếp |
+| `van-ban/thue/94-2026-tt-btc.md` | 94/2026/TT-BTC | 4,254 bytes | 2026-07-09 | Stub — luatvietnam slug 439781 xác nhận Chương I Điều 1-2; paywall chặn đến Điều 2; docid VCP chưa xác minh; PDF 404; 402 credits exhausted |
 
 ---
 
