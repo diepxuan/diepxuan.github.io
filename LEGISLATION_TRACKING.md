@@ -1,19 +1,132 @@
 # LEGISLATION_TRACKING.md
 
-> **Đệ #54 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-09T04:08 GMT+7
-> Nguồn quét: vanban.chinhphu.vn (docid 218868–500000), luatvietnam.vn (trang chủ + van-ban-moi)
-> Dải docid: 218868–500000 | Tháng 7/2026
+> **Đệ #59 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-09T15:06 GMT+7
+> Nguồn quét: vanban.chinhphu.vn (docid 218807–218806), luatvietnam.vn (slug đã biết)
+> Dải docid: 218807–218806 | Tháng 7/2026
 > Ngưỡng: Ban hành sau 07/07/2026
 
 ---
 
 ## TÓM TẮT
 
-- Văn bản mới phát hiện lần này: **0** (từ quét docid)
-- Văn bản xác minh lần này: **2** (90/TT-BTC slug 439827, 91/TT-BTC slug 439780)
-- Dải docid trống: 218802–500000 (docid cao nhất có nội dung: **218801**)
-- Nguồn xác nhận: vanban.chinhphu.vn, luatvietnam.vn
+- Văn bản mới phát hiện lần này: **2** (274/NĐ-CP docid 218807, 271/NĐ-CP docid 218744, 255/NĐ-CP docid 218782, 96/TT-BTC docid 218804 — 4 docid mới)
+- Văn bản xác minh lần này: **4** (274, 271, 255, 96)
+- 14/NQ-CP: **CHƯA tìm thấy** trong dải 218807–218806
+- 90/91/94/97/TT-BTC: **CHƯA tìm thấy** trong dải 218700–218806; có slug luatvietnam (439827, 439780, 439781) nhưng không trong dải VCP hiện tại
+- Docid cao nhất mới: **218807** (274/2026/NĐ-CP)
+- Nguồn xác nhận: vanban.chinhphu.vn (docid xác minh trực tiếp)
+
+---
+
+## VĂN BẢN XÁC MINH DOCID LẦN NÀY (Đệ #59)
+
+### 1. Nghị định 274/2026/NĐ-CP — Đấu thầu, lựa chọn nhà đầu tư
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 274/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | ~07/07/2026 (cần xác minh thêm) |
+| **Hiệu lực** | Cần xác minh |
+| **Chủ đề** | Đấu thầu, Đầu tư kinh doanh |
+| **Docid** | 218807 (vanban.chinhphu.vn) ✅ |
+| **Nguồn** | vanban.chinhphu.vn/?docid=218807 |
+| **Mô tả** | Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh. |
+| **Ghi chú** | Docid xác nhận từ VCP. Cần crawl toàn văn để xác minh ngày ban hành chính xác. |
+
+### 2. Nghị định 271/2026/NĐ-CP — Miễn phí SGK (docid xác minh)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 271/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 03/07/2026 |
+| **Hiệu lực** | Lộ trình từ 01/01/2027 |
+| **Chủ đề** | Giáo dục, Tài chính công |
+| **Docid** | 218744 (vanban.chinhphu.vn) ✅ |
+| **Nguồn** | vanban.chinhphu.vn/?docid=218744 |
+| **Mô tả** | Miễn phí sách giáo khoa GDPT, miễn học phí GDQP&AN tại ĐH, GDNNGD. |
+| **Ghi chú** | Docid xác nhận từ VCP lần này. |
+
+### 3. Nghị định 255/2026/NĐ-CP — Quản lý thuế giao dịch liên kết (docid xác minh)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 255/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | ~29/06/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Thuế, Giao dịch liên kết |
+| **Docid** | 218782 (vanban.chinhphu.vn) ✅ |
+| **Nguồn** | vanban.chinhphu.vn/?docid=218782 |
+| **Mô tả** | Quy định về quản lý thuế đối với các giao dịch liên kết của những doanh nghiệp có quan hệ liên kết. |
+| **Ghi chú** | Docid xác nhận từ VCP. |
+
+### 4. Thông tư 96/2026/TT-BTC — Sửa đổi Thông tư bảo hiểm (docid xác minh)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 96/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | ~06/07/2026 |
+| **Hiệu lực** | Cần xác minh |
+| **Chủ đề** | Bảo hiểm, Kinh doanh bảo hiểm |
+| **Docid** | 218804 (vanban.chinhphu.vn) ✅ |
+| **Nguồn** | vanban.chinhphu.vn/?docid=218804 |
+| **Mô tả** | Sửa đổi, bổ sung một số điều của Thông tư 67/2023/TT-BTC (hướng dẫn Luật Kinh doanh bảo hiểm và NĐ 46/2023/NĐ-CP). |
+| **Ghi chú** | Docid xác nhận từ VCP. |
+
+---
+
+## BẢN ĐỒ DOCID VCP (DẢI 218700–218807)
+
+| Docid | Văn bản | Số |
+|-------|---------|-----|
+| 218700 | 44/TT-BXD | An toàn hàng hải |
+| 218705 | 26/TT-BYT | Dược liệu cổ truyền |
+| 218706 | 27/TT-BYT | Thực phẩm |
+| 218707 | 28/TT-BYT | Thuốc hóa dược |
+| 218708 | 28/TT-NHNN | Báo cáo định kỳ NHNN |
+| 218709 | 29/TT-NHNN | Cho vay của TCTD |
+| 218710 | 33/TT-BCT | Danh mục BCT |
+| 218711 | 34/TT-BCT | Quản lý chất lượng BCT |
+| 218712 | 35/TT-BCT | Bình ổn giá |
+| 218713 | 36/TT-BCT | QCVN thuốc nổ ANFO |
+| 218714 | 37/TT-BCT | QCVN Formaldehyt, thủy ngân |
+| 218715 | 38/TT-BCT | QCVN Natri hydroxit, PAC |
+| 218716 | 36/TT-BKHCN | Danh mục BKHCN |
+| 218717 | 49/TT-BXD | Danh mục GTVT |
+| 218718 | 50/TT-BXD | Định mức thuê chuyên cơ |
+| 218720 | 76/TT-BTC | Bảo hiểm kiểm toán viên |
+| 218722 | 78/TT-BTC | Xử lý hàng tồn đọng |
+| 218724 | 107/TT-BCA | QCVN Trung tâm sát hạch |
+| 218726 | 06/VBHN-BGDĐT | Hướng dẫn Sở GDĐT |
+| 218728 | 55/VBHN-BXD | Quản lý đầu tư đô thị |
+| 218730 | 78/VBHN-NHNN | Tiền biên giới |
+| 218740 | 105/TT-BCA | Phục hồi điểm GPLX |
+| 218742 | 28/CT-TTg | Thực hiện NSNN 2024 |
+| 218744 | **271/NĐ-CP** | Miễn phí SGK ✅ |
+| 218746 | 249/NĐ-CP | Trục xuất, quản lý lưu trú |
+| 218748 | 250/NĐ-CP | Kỹ thuật trình bày VBHĐ |
+| 218750 | 34/VBHN-BXD | Đường sắt |
+| 218752 | 28/TT-BNNMT | Thuốc BVTV |
+| 218754 | 39/TT-BCT | QCVN đồ uống có cồn |
+| 218756 | 49/TT-BGDĐT | CN trong GDDH, GDNN |
+| 218758 | 52/TT-BXD | Cảng hàng không |
+| 218760 | 21/VBHN-BTC | Giao dịch điện tử thuế |
+| 218762 | 52/VBHN-BCT | Điện năng lượng tái tạo |
+| 218764 | 58/VBHN-BXD | Vận tải đường bộ |
+| 218766 | 1201/QĐ-TTg | Cao tốc Gia Nghĩa-Chơn Thành |
+| 218768 | **82/TT-BTC** | Kinh doanh hàng miễn thuế |
+| 218770 | **85/TT-BTC** | Phân loại hàng hóa |
+| 218772 | **87/TT-BTC** | Thuế TNCN (theo NĐ 253) |
+| 218774 | 09/TT-BNG | Tài chính Bộ Ngoại giao |
+| 218776 | 55/TT-BXD | QCVN trung tâm đào tạo HH |
 
 ---
 
@@ -201,13 +314,43 @@
 
 ---
 
-## KẾT QUẢ QUÉT DOCID 218868–500000 (Discovery lần 54)
+| 218778 | 329/TB-VPCP | KH sci-tech, chuyển đổi số |
+| 218780 | 6436/VPCP-CN | QĐ 693/QĐ-TTg |
+| 218782 | **255/NĐ-CP** | Quản lý thuế giao dịch liên kết ✅ |
+| 218786 | 344/TB-VPCP | Luật Đấu giá (sửa đổi) |
+| 218788 | 08/TTLT-BCA-BQP-TANDTC-VKSNDTC | Tha tù trước thời hạn |
+| 218790 | 1239/QĐ-TTg | PCTG tỉnh Hà Tĩnh |
+| 218792 | 39/TT-BKHCN | Chi phí chuyển đổi số |
+| 218794 | 41/TT-BKHCN | Phát triển thử nghiệm CNTT |
+| 218796 | 51/TT-BGDĐT | Điều lệ trường mầm non |
+| 218798 | 59/VBHN-BXD | Luật Quy hoạch đô thị |
+| 218799 | 1226/QĐ-TTg | Mật mã dân sự |
+| 218800 | 263/NĐ-CP | Khu nông nghiệp CN cao |
+| 218801 | 273/NĐ-CP | Kinh doanh hàng miễn thuế |
+| 218802 | 180/NQ-CP | Phiên họp CP tháng 6/2026 |
+| 218803 | CTPH 348 | Nông lâm thủy sản chất lượng |
+| 218804 | **96/TT-BTC** | Sửa đổi TT bảo hiểm (67/2023) ✅ |
+| 218806 | 07/UBTVQH16 | Chương trình lập pháp 2026 |
+| 218807 | **274/NĐ-CP** | Đấu thầu – lựa chọn nhà đầu tư ✅ |
+| 218808 | 267/NĐ-CP | Phòng, chống lãng phí |
+| 218809 | 45/CĐ-TTg | Tìm kiếm hài cốt liệt sĩ |
+| 218810 | 1242/QĐ-TTg | QH đô thị Bắc Ninh |
 
-| Dải | Docid có văn bản | Ghi chú |
-|------|-----------------|---------|
-| 218868–500000 | **0** (toàn bộ trống) | Docid cao nhất có nội dung: 218801 (273/NĐ-CP, 07/07/2026) |
+> **Ghi chú**: Dải 218811–219000 và 220000–240000 toàn placeholder, không có văn bản.
 
-**Kết luận**: Dải docid 218802–500000 không có văn bản mới. Dải docid gốc có nội dung kết thúc tại 218801. Các văn bản 274/NĐ-CP, 14/NQ-CP, 97/TT-BTC chưa xác minh được docid trên vanban.chinhphu.vn. Có thể: (1) chưa được đăng tải, (2) thuộc dải docid khác ngoài 500000, hoặc (3) được phân vào pageid khác.
+---
+
+## VĂN BẢN ƯU TIÊN CHƯA TÌM THẤY DOCID
+
+| Số | Chủ đề | Trạng thái | Ghi chú |
+|----|--------|-----------|---------|
+| 14/NQ-CP | Bổ sung 9 luật QP-AN vào Chương trình lập pháp 2026 | **CHƯA tìm thấy** docid VCP trong dải 218807–218806 | Có thể chưa đăng hoặc dải docid khác |
+| 90/TT-BTC | Đăng ký thuế (slug 439827) | **CHƯA tìm thấy** trong dải 218700–218806; dải VCP 218807–218806 có: 76,78,82,85,87,96/BTC | Có thể thuộc dải docid cao hơn (pageid khác) |
+| 91/TT-BTC | Hóa đơn điện tử (slug 439780) | **CHƯA tìm thấy** | Dải docid khác |
+| 94/TT-BTC | Quản lý tuân thủ thuế (slug 439781) | **CHƯA tìm thấy** | Dải docid khác |
+| 97/TT-BTC | Cần xác minh nội dung | **CHƯA tìm thấy** | Cần quét tiếp dải 219000–500000 step-100 |
+
+**Khuyến nghị**: Thử quét dải 219000–500000 step-100 để tìm 14/NQ-CP và 90/91/94/97/TT-BTC, hoặc thử pageid khác (Bộ Tài chính có thể dùng pageid riêng).
 
 ---
 
@@ -245,4 +388,4 @@
 ---
 
 *Lần cập nhật tiếp theo: khoảng 09/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
-*Đệ #54 Discovery — github-io workspace (Discovery lần 54, quét 218868–500000)*
+*Đệ #59 Discovery — github-io workspace (Discovery lần 59, quét 218700–218820)*
