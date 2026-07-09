@@ -139,7 +139,12 @@
 | **Docid** | 218801 (vanban.chinhphu.vn) |
 | **Nguồn** | vanban.chinhphu.vn/?docid=218801&pageid=27160 |
 | **Mô tả** | Quy định về kinh doanh hàng miễn thuế. |
-| **Ghi chú** | Docid + ngày ban hành + ngày hiệu lực xác nhận từ HTML page. |
+| **Ghi chú** | Docid + ngày ban hành + ngày hiệu lực xác minh từ HTML page. |
+| **Trạng thái** | Hoàn thiện |
+| **File** | [van-ban/273-2026-ND-CP-kinh-doanh-hang-mien-thue.md](van-ban/273-2026-ND-CP-kinh-doanh-hang-mien-thue.md) |
+| **Điều** | 23 (1–23, đủ) |
+| **Chương** | I, II |
+| **Chất lượng** | Pass OCR Quality Gate — lỗi "ngày l" trong scan là false positive (ngày làm việc, không phải ngày 1); đã xác minh không có lỗi OCR nghiêm trọng. |
 
 ---
 
