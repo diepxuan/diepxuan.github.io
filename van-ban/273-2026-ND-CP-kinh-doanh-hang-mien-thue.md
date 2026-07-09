@@ -57,7 +57,7 @@ Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luậ
 Luật Thuê thụ nhập cá nhân. Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành
 chính số 56/2024/QH15; ;
 
-Căn cứ Luật sửa đổi, bổ Sung một số điễu của Luật Đầu tư, tuật Đầu
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Đầu tư, Luật Đầu
 tự theo phương thức đối tác công tư, Luật Hải quan, Luật Thuế Giá trị gia
 tăng, Luật Thuê xuất khẩu, thuế nhập khẩu, Luật Đầu tư, Luật Đầu tư công,
 Luật Quản lý, sử dụng tài sản công số 90/2025/QH15;
@@ -2874,7 +2874,7 @@ Số:........ HQ-BBBG
 
 __— BIỂN BẢN
 Bàn giao hàng hóa miền thuế vận chuyển chịu sự giám sát hải quan
-Hài -.„.. BIỜ .... phÚT, ngày ... tháng .... năm ......, Hải quan.......... Số điện thoại
+Hài quan . phút, ngày ... tháng ... năm , Hải quan , Số điện thoại
 Số fax... bàn giao cho ông (bà) ..................... Đại diện của Công
 
 ty... ; lô hàng thuộc phiếu xuất kho số .... ngày ....tháng.....năm ..... để vận
