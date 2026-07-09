@@ -707,7 +707,7 @@ thẩm quyền thực hiện giao đất, cho thuê đất cho nhà đầu tư s
 c) Chủ đầu tư hạ tầng được kinh doanh, cho thuê công trình hạ tầng, nhà
 xưởng, văn phòng, kho bãi do mình đầu tư sau khi đã hoàn thành đầu tư xây
 dựng đồng bộ theo tiến độ của dự án đầu tư được phê duyệt và được thu tiền
-sử dụng hạ tầng của nhà đầu tư khác theo quy định tại khoản I Điều 15 Nghị
+sử dụng hạ tầng của nhà đầu tư khác theo quy định tại khoản 1 Điều 15 Nghị
 
 15
 
