@@ -1,6 +1,78 @@
-## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 57)
+## Cập nhật 2026-07-09 (phiên Đệ #1 Discovery — lần 58)
 
-### Phát hiện: 0 văn bản mới — dải 220000–230000 TRỐNG, 14/NQ-CP và 97/TT-BTC chưa tìm thấy trên luatvietnam.vn
+### Phát hiện: 1 văn bản mới — 07/UBTVQH16 (docid 218806), docid cao nhất cập nhật 218804→218806. Các văn bản ưu tiên CHƯA tìm thấy.
+
+Quét vanban.chinhphu.vn docid 218806–219850 + phát hiện URL pattern mới `?pageid=27160&mode=detail&docid=X`. Ưu tiên: tìm 274/NĐ-CP, 14/NQ-CP, 90/91/94/97/TT-BTC. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 57 — docid cao nhất = 218804, 0 văn bản mới): phát hiện **1 văn bản mới** (07/UBTVQH16) và **1 phát hiện kỹ thuật** (URL pattern mới). Giới hạn 5/lần — ghi nhận đủ 1:
+
+*(Không có văn bản mới trong ưu tiên)*
+
+*(Không có văn bản nào)*
+
+### Phát hiện chính: 07/2026/UBTVQH16 — Docid 218806 ✅
+
+**Bản đồ docid cập nhật (xác minh lần 58):**
+
+| DocID | Văn bản | Trạng thái |
+|---:|---|---|
+| 218800 | 263/2026/NĐ-CP | Khu nông nghiệp CN cao |
+| 218801 | 273/2026/NĐ-CP | Kinh doanh hàng miễn thuế |
+| 218802 | 180/2026/NQ-CP | Phiên họp Chính phủ tháng 6/2026 |
+| 218803 | 348/2026/CTPH | Chương trình phối hợp nông lâm thủy sản |
+| 218804 | 96/2026/TT-BTC | Sửa đổi TT 67/2023 bảo hiểm |
+| **218805** | — | **TRỐNG hoàn toàn** |
+| **218806** | **07/2026/UBTVQH16** ✅ | **MỚI: Điều chỉnh Chương trình lập pháp 2026** |
+| 218807–218850 | — | **TRỐNG hoàn toàn** |
+
+### Tình trạng vanban.chinhphu.vn — docid cao nhất = 218806 (tăng từ 218804)
+
+**Kết quả quét lần 58 (URL pattern `?pageid=27160&mode=detail&docid=X`):**
+
+| DocID | Nội dung | Ghi chú |
+|---:|---|---|
+| 218804 | 96/2026/TT-BTC ✅ | Xác minh đúng (vẫn không đổi) |
+| 218805 | TRỐNG | Placeholder "Chi tiết văn bản ban hành" |
+| **218806** | **07/2026/UBTVQH16** ✅ | **MỚI — NQ UBTvQH16: Điều chỉnh Chương trình lập pháp năm 2026** |
+| 218807–218810 | TRỐNG | Placeholder "Chi tiết văn bản ban hành" |
+| 218811–218850 | TRỐNG | 40 docid liên tiếp: tất cả placeholder |
+| 218860–219000 | TRỐNG | Step 10: tất cả placeholder |
+| 219100–225000 | TRỐNG | Step 100: tất cả placeholder |
+
+**Phát hiện 07/2026/UBTVQH16 (docid 218806):**
+- **Số hiệu**: 07/2026/UBTVQH16
+- **Cơ quan**: Ủy ban Thường vụ Quốc hội
+- **Trích yếu**: Điều chỉnh Chương trình lập pháp năm 2026 (bổ sung, sửa đổi, loại bỏ một số văn bản trong chương trình)
+- **Trích yếu chi tiết** (từ similar documents): Bãi bỏ TT 55/2010/TT-BTC về thuế GTGT/TNDN đài truyền hình; quy định chi tiết NQ 253/2025/QH15 về năng lượng quốc gia 2026-2030; sửa đổi TT 67/2023/TT-BTC về bảo hiểm; ban hành QCKTQG cơ sở đào tạo thuyền viên hàng hải; quy định chuyển đổi số sử dụng ngân sách nhà nước; mẫu hồ sơ doanh nghiệp công nghệ cao
+- **Chưa xác minh ngày ban hành** — cần scan thêm (xem toàn văn trên luatvietnam.vn)
+- **Ngày cập nhật vanban**: 09/07/2026 (hôm nay)
+
+**Kết luận lần 58**: vanban.chinhphu.vn đã index thêm 07/UBTVQH16 (docid 218806). **Cập nhật docid cao nhất: 218804 → 218806**. Các văn bản ưu tiên (274/NĐ-CP, 14/NQ-CP, 90/91/94/97/TT-BTC) **VẪN CHƯA CÓ DOCID** — dải 218807–225000 hoàn toàn trống.
+
+### Phát hiện kỹ thuật: URL pattern mới hoạt động
+
+**URL cũ (không hoạt động)**: `https://vanban.chinhphu.vn/?page=1&cat=0&doc=X` → luôn trả placeholder
+**URL mới (hoạt động)**: `https://vanban.chinhphu.vn/?pageid=27160&mode=detail&docid=X` → trả đầy đủ metadata văn bản
+
+Phát hiện này giải thích tại sao tất cả 57 lần quét trước (dùng URL cũ) đều không tìm thấy docid 218806 — site chuyển sang pageid 27160 cho trang chi tiết văn bản. Các lần quét tiếp theo cần dùng URL mới.
+
+### Các văn bản cần theo dõi — ưu tiên phiên sau
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| 07/2026/UBTVQH16 | **Docid 218806** ✅ | **Mới: Điều chỉnh Chương trình lập pháp 2026** |
+| 274/2026/NĐ-CP | **CHƯA XÁC MINH DOCID** | vanban 218807–225000 trống |
+| 90/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | vanban trống |
+| 91/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | vanban trống |
+| 94/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | vanban trống |
+| 97/2026/TT-BTC | **CHƯA XÁC MINH DOCID** | vanban trống |
+| 14/2026/NQ-CP | **CHƯA XÁC MINH DOCID** | vanban trống |
+| 275–280/2026/NĐ-CP | **Chưa phát hiện** | Có thể chưa ban hành |
+| 98–100/2026/TT-BTC | **Chưa phát hiện** | Cần scan thêm |
+
+### Nguồn: vanban.chinhphu.vn (URL mới `?pageid=27160&mode=detail&docid=218806` → 07/UBTVQH16; URL cũ `?page=1&cat=0&doc=X` → placeholder; docid 218807–225000: tất cả trống; docid cao nhất = **218806**).
+- Ngày phát hiện: 2026-07-09 12:15 ICT
+- Phiên thực hiện: Đệ #1 Discovery — lần 58
+
+---
 
 Quét vanban.chinhphu.vn docid 220000–230000 (step-5, step-50/100/500) + thử slug 14/NQ-CP + 97/TT-BTC trên luatvietnam.vn. Ưu tiên: tìm docid cho 14/NQ-CP, 97/TT-BTC, 274/NĐ-CP. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-09 lần 56 — dải 218805–220000 trống, docid cao nhất = 218804): **không phát hiện văn bản mới chưa từng ghi nhận**. Giới hạn 5/lần — ghi nhận đủ 0:
 
