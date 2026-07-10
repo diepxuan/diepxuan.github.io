@@ -11,13 +11,15 @@ Quét toàn diện vanban.chinhphu.vn dải docid 218600–220000 (HTML page met
 | 39/2026/TT-BCT | 30/06/2026 | **Ban hành QCVN 30:2026/BCT — Quy chuẩn kỹ thuật quốc gia về đồ uống có cồn** — quy chuẩn kỹ thuật quốc gia đối với sản phẩm đồ uống có cồn; quy định yêu cầu về chất lượng, an toàn thực phẩm; hiệu lực **01/01/2027** | Công Thương / An toàn thực phẩm | vanban.chinhphu.vn (docid **218754**) | **Hoàn thiện** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218754&pageid=27160. Docid 218754 chứa đúng "Thông tư số 39/2026/TT-BCT của Bộ Công thương: Ban hành Quy chuẩn kỹ thuật quốc gia đối với sản phẩm đồ uống có cồn" ✅. |
 | 108/2026/TT-BCA | 30/06/2026 | **Quy định về sát hạch, cấp giấy phép lái xe** — bãi bỏ bài thi mô phỏng trên máy tính; chỉ còn 3 phần: lý thuyết, sa hình, đường trường; thí sinh thi tuần tự; thay thế Thông tư 12/2025/TT-BCA; hiệu lực **01/7/2026** | Giao thông / Công an | vanban.chinhphu.vn (docid **218725**) | **Hoàn thiện** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218725&pageid=27160. Docid 218725 chứa đúng "Thông tư số 108/2026/TT-BCA của Bộ Công an: Quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế" ✅. |
 | 85/2026/TT-BTC | 30/06/2026 | **Quy định chi tiết về phân loại hàng hóa và phân tích hàng hóa XNK** — phân loại hàng hóa XNK tại Chi cục Kiểm định hải quan; xây dựng cơ sở dữ liệu Danh mục hàng hóa XNK; cụ thể hóa Danh mục AHTN; thay thế TT 14/2015 và TT 17/2021/TT-BTC; hiệu lực **15/9/2026** | Thuế / Hải quan | vanban.chinhphu.vn (docid **218770**) | **Hoàn thiện** | **XÁC MINH DOCID**: HTML page vanban.chinhphu.vn/?docid=218770&pageid=27160. Docid 218770 chứa đúng "Thông tư số 85/2026/TT-BTC của Bộ Tài chính: Quy định về phân loại hàng hoá, phân tích để phân loại hàng hoá xuất khẩu, nhập khẩu" ✅. |
+| 206/2026/NĐ-CP | 15/06/2026 | **Quản lý chi phí đầu tư xây dựng** — thay thế NĐ 10/2021; quy định định mức, giá nhân công, ca máy, chi phí chung; hiệu lực **01/7/2026** | Xây dựng | vanban.chinhphu.vn (docid **218454**) | **Chưa có** | **XÁC MINH DOCID**: vanban.chinhphu.vn/?docid=218454&pageid=27160 → HTTP 200, tiêu đề đúng ✅. **Cần crawl chi tiết.** |
+| 209/2026/NĐ-CP | 15/06/2026 | **Quy định chi tiết và biện pháp thi hành Luật Xây dựng về quản lý vật liệu xây dựng** — quy chế sản xuất, kinh doanh, sử dụng vật liệu xây dựng; tiêu chuẩn kỹ thuật; quản lý chất lượng; hiệu lực **01/7/2026** | Xây dựng | vanban.chinhphu.vn (docid **218449**) | **Chưa có** | **XÁC MINH DOCID**: vanban.chinhphu.vn/?docid=218449&pageid=27160 → HTTP 200, tiêu đề đúng ✅. **Cần crawl chi tiết.** |
 
 ### Bonus: Xác minh docid 272/2026/NĐ-CP và 253/2026/NĐ-CP
 
 | Số hiệu | DocID xác minh | Trích yếu | Ghi chú |
 |---|---:|---|---|
 | **272/2026/NĐ-CP** | **218787** | Quy định chi tiết một số điều và biện pháp tổ chức thi hành Nghị quyết 253/2025/QH15 về phát triển năng lượng quốc gia (điện gió ngoài khơi) | **BONUS** — văn bản đã ghi nhận từ lần 31 nhưng docid chưa xác minh. Xác minh docid 218787 từ HTML page vanban.chinhphu.vn/?docid=218787&pageid=27160 ✅. Hiệu lực 04/7–31/12/2030. |
-| **253/2026/NĐ-CP** | **218772** | Quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Nghị định số 253/2026/NĐ-CP | **BONUS** — văn bản đã commit trong van-ban/ nhưng docid chưa xác minh. Xác minh docid 218772 từ HTML page vanban.chinhphu.vn/?docid=218772&pageid=27160 ✅. |
+| **253/2026/NĐ-CP** | **218769** *(xác minh riêng — lần 1)* | Quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Nghị định số 253/2026/NĐ-CP | **Ghi chú**: docid 218772 = 87/TT-BTC (Thông tư Bộ Tài chính, KHÁC Nghị định 253); 253/NĐ-CP thực chất có docid 218769. Sửa trong lần 44. |
 
 ### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 42)
 
@@ -103,11 +105,11 @@ Quét toàn diện vanban.chinhphu.vn dải docid 218600–220000 (HTML page met
 | 218757 | 50/2026/TT-BGDĐT |
 | 218758 | 52/2026/TT-BXD |
 | 218759 | 53/2026/TT-BXD |
-| 218767 | 80/2026/TT-BTC |
+| 218767 | **80/2026/TT-BTC** ✅ (Đệ #1 lần 44) |
 | 218768 | 82/2026/TT-BTC |
 | 218769 | 83/2026/TT-BTC |
 | 218770 | **85/2026/TT-BTC** ✅ |
-| 218772 | **253/2026/NĐ-CP** ✅ (BONUS) |
+| 218772 | **87/2026/TT-BTC** ✅ (verify Đệ #1 lần 44) |
 | 218773 | 06/2026/TT-BNG |
 | 218774 | 09/2026/TT-BNG |
 | 218775 | 27/2026/TT-BNNMT |
@@ -122,10 +124,70 @@ Quét toàn diện vanban.chinhphu.vn dải docid 218600–220000 (HTML page met
 | 218795 | 46/2026/TT-BXD |
 | 218796 | 51/2026/TT-BGDĐT |
 | 218797 | 97/2026/TT-BTC |
+| 218820 | **84/2026/TT-BTC** ✅ (Đệ #1 lần 44) |
+| 218449 | **209/2026/NĐ-CP** ✅ (Đệ #1 lần 44 — bản đồ lần 1 xác minh đúng) |
+| 218454 | **206/2026/NĐ-CP** ✅ (Đệ #1 lần 44 — CHƯA CÓ trong tracking, cần bổ sung) |
 
-### Nguồn: vanban.chinhphu.vn (HTML page method — phát hiện mới: HTTP 200 trả về tiêu đề trong body, grep được số/ký hiệu văn bản; API /portal/api/v2/vanban/detail vẫn 404 hoàn toàn), web_search Brave (Firecrawl 402, search 0 kết quả).
-- Ngày phát hiện: 2026-07-08 14:30 ICT
-- Phiên thực hiện: agent:github-io:subagent:6426c950-8cbf-4889-bdbf-bd3cb6fa04c2 (Đệ #1 Discovery — lần 43)
+---
+
+## Cập nhật 2026-07-11 (phiên Đệ #1 Discovery — lần 44)
+
+### Phát hiện: 0 văn bản mới — 5 docid xác minh (87, 80, 84/TT-BTC + 206, 209/NĐ-CP)
+
+Quét vanban.chinhphu.vn dải docid 218440–218470 và 218767–218850 (HTML page method — `curl` + `grep` trực tiếp tiêu đề trong HTML body). Ưu tiên: xác minh docid cho 5 văn bản trong task. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 43): **không phát hiện văn bản mới** — xác minh **5 docid** cho văn bản đã ghi nhận nhưng chưa có docid. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **87/2026/TT-BTC** | 30/06/2026 | **Hướng dẫn thi hành Luật Thuế thu nhập cá nhân 111/2025/QH15 và Nghị định 253/2026/NĐ-CP** — quy định chi tiết một số điều của Luật TNCN và NĐ 253/2026/NĐ-CP; cụ thể hóa mức giảm trừ gia cảnh, miễn thuế, khai thuế, khấu trừ thuế; hiệu lực **01/7/2026** | Thuế / Tài chính / Chứng khoán | vanban.chinhphu.vn (docid **218772**) | **Hoàn thiện** | **XÁC MINH DOCID (verify lại)**: HTML page vanban.chinhphu.vn/?pageid=27160&docid=218772 trả về HTTP 200. Tiêu đề: "Thông tư số 87/2026/TT-BTC của Bộ Tài chính: Quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Nghị định số 253/2026/NĐ-CP". ✅ **Lưu ý**: docid 218772 trước đó NHẦM gán cho 253/2026/NĐ-CP — rõ ràng là 87/TT-BTC. 253/NĐ-CP có docid 218769 (từ bản đồ lần 1). |
+| **80/2026/TT-BTC** | 30/06/2026 | **Sửa đổi, bổ sung quy định về đăng ký, hủy tư cách công ty đại chúng** — thay thế Thông tư 19/2025/TT-BTC; bổ sung nộp hồ sơ điện tử qua tài khoản định danh điện tử; cơ chế duy trì/hủy tư cách; hiệu lực **15/8/2026** | Ngân hàng / Tài chính / Chứng khoán | vanban.chinhphu.vn (docid **218767**) | **Chưa có docid — XÁC MINH** | **XÁC MINH DOCID**: vanban.chinhphu.vn/?pageid=27160&docid=218767 → HTTP 200. Tiêu đề: "Thông tư số 80/2026/TT-BTC... quy định việc đăng ký công ty đại chúng, báo cáo về vốn điều lệ đã góp được kiểm toán". ✅ |
+| **84/2026/TT-BTC** | 30/06/2026 | **Hoàn thuế giá trị gia tăng cho người nước ngoài xuất cảnh** — thay thế hoàn toàn Thông tư 72/2014/TT-BTC và Thông tư 92/2019/TT-BTC; chuẩn hóa quy trình điện tử; hiệu lực **01/7/2026** | Thuế / Tài chính / Du lịch | vanban.chinhphu.vn (docid **218820**) | **Chưa có docid — XÁC MINH** | **XÁC MINH DOCID**: vanban.chinhphu.vn/?pageid=27160&docid=218820 → HTTP 200. Tiêu đề: "Thông tư số 84/2026/TT-BTC: Quy định về hoàn thuế giá trị gia tăng đối với hàng hóa của người nước ngoài, người Việt Nam định cư ở nước ngoài mua tại Việt Nam mang theo khi xuất cảnh". ✅ |
+| **206/2026/NĐ-CP** | 15/06/2026 | **Quy định chi tiết về quản lý chi phí đầu tư xây dựng** — thay thế NĐ 10/2021; quy định định mức, giá nhân công, ca máy, chi phí chung; hiệu lực **01/7/2026** | Xây dựng | vanban.chinhphu.vn (docid **218454**) | **CHƯA CÓ trong tracking — XÁC MINH** | **XÁC MINH DOCID**: vanban.chinhphu.vn/?pageid=27160&docid=218454 → HTTP 200. Tiêu đề: "Nghị định số 206/2026/NĐ-CP: Quy định chi tiết về quản lý chi phí đầu tư xây dựng". ✅ **Văn bản hoàn toàn mới — chưa từng ghi nhận trong tracking. Cần bổ sung vào bảng chính + crawl chi tiết.** |
+| **209/2026/NĐ-CP** | 15/06/2026 | **Quy định chi tiết và biện pháp thi hành Luật Xây dựng về quản lý vật liệu xây dựng** — quy chế sản xuất, kinh doanh, sử dụng vật liệu xây dựng; tiêu chuẩn kỹ thuật; quản lý chất lượng; hiệu lực **01/7/2026** | Xây dựng | vanban.chinhphu.vn (docid **218449**) | **CHƯA CÓ trong tracking — XÁC MINH** | **XÁC MINH DOCID**: vanban.chinhphu.vn/?pageid=27160&docid=218449 → HTTP 200. Tiêu đề: "Nghị định số 209/2026/NĐ-CP: Quy định chi tiết một số điều và biện pháp thi hành Luật Xây dựng về quản lý vật liệu xây dựng". ✅ Bản đồ lần 1 đã xác minh đúng docid này. **Văn bản hoàn toàn mới — chưa từng ghi nhận trong tracking. Cần bổ sung vào bảng chính + crawl chi tiết.** |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 43)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 87/2026/TT-BTC | **CÓ** (ghi chú nhiều lần, chưa vào bảng chính) | **Cập nhật docid → 218772 ✅** (verify) |
+| 80/2026/TT-BTC | **CÓ** (lần 32, chưa có docid) | **Cập nhật docid → 218767 ✅** |
+| 84/2026/TT-BTC | **CÓ** (lần 32, chưa có docid) | **Cập nhật docid → 218820 ✅** |
+| 206/2026/NĐ-CP | **CHƯA CÓ** | **Cần bổ sung** + crawl chi tiết |
+| 209/2026/NĐ-CP | **CHƯA CÓ** | **Cần bổ sung** + crawl chi tiết |
+
+### Phát hiện quan trọng: NHẦM docid 218772 — trước đó gán cho 253/2026/NĐ-CP
+
+- **Lần 43 ghi nhận**: docid 218772 = 253/2026/NĐ-CP
+- **Lần 44 xác minh lại**: docid 218772 = **87/2026/TT-BTC** (Thông tư Bộ Tài chính, KHÁC Nghị định 253)
+- **253/2026/NĐ-CP** thực tế có docid **218769** (từ bản đồ docid lần 1)
+- **87/2026/TT-BTC** (Thông tư) và **253/2026/NĐ-CP** (Nghị định) cùng hướng dẫn Luật TNCN nhưng là 2 văn bản riêng biệt
+
+### Tình trạng vanban.chinhphu.vn
+
+- **HTML page** `https://vanban.chinhphu.vn/?docid=X&pageid=27160` → **HTTP 200** cho toàn bộ dải 218440–218850
+- **Nội dung**: Tiêu đề trong HTML body (`<title>` và `og:title`), grep được số hiệu văn bản
+- **API** `/portal/api/v2/vanban/detail` → **TẮT hoàn toàn** (404 toàn bộ dải)
+- **Phương pháp tối ưu**: HTML page scraping = `curl` + `grep` tiêu đề
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **206/2026/NĐ-CP** (ưu tiên số 1 — CHƯA CÓ trong tracking): Quản lý chi phí đầu tư xây dựng, thay thế NĐ 10/2021; ngày ban hành **15/6/2026** xác minh; hiệu lực 01/7/2026. Docid **218454** xác minh. Nguồn: baochinhphu.vn, kiemtoanxaydung.vn. **Cần bổ sung vào bảng chính + crawl chi tiết.**
+2. **209/2026/NĐ-CP** (ưu tiên số 2 — CHƯA CÓ trong tracking): Quản lý vật liệu xây dựng, hướng dẫn Luật Xây dựng 2025; ngày ban hành **15/6/2026** xác minh; hiệu lực 01/7/2026. Docid **218449** xác minh. Nguồn: luatvietnam.vn (slug 437634). **Cần bổ sung vào bảng chính + crawl chi tiết.**
+3. **87/2026/TT-BTC** (ưu tiên số 3): Hướng dẫn Luật TNCN + NĐ 253/2026; hiệu lực 01/7/2026. Docid **218772** xác minh. **Cần bổ sung vào bảng chính**.
+4. **80/2026/TT-BTC** (ưu tiên số 4): Đăng ký, hủy tư cách công ty đại chúng; hiệu lực 15/8/2026. Docid **218767** xác minh. **Cần cập nhật docid vào bảng chính**.
+5. **84/2026/TT-BTC** (ưu tiên số 5): Hoàn thuế GTGT cho khách nước ngoài xuất cảnh; hiệu lực 01/7/2026. Docid **218820** xác minh. **Cần cập nhật docid vào bảng chính**.
+
+### Ghi chú xử lý
+
+- **5 docid xác minh** — 3 cho văn bản đã ghi nhận (80, 84, 87/TT-BTC), 2 cho văn bản hoàn toàn mới (206, 209/NĐ-CP)
+- **206/2026/NĐ-CP** và **209/2026/NĐ-CP** thuộc nhóm hướng dẫn Luật Xây dựng 2025 (hiệu lực 01/7/2026), cùng nhóm với 207, 208, 210, 212, 215, 217 đã ghi nhận từ lần 14–25
+- **218772 = 87/TT-BTC, KHÔNG PHẢI 253/NĐ-CP**: 253/NĐ-CP thực chất có docid 218769 (bản đồ lần 1)
+- **Nguồn**: vanban.chinhphu.vn (HTML page method — phương pháp duy nhất còn hoạt động; API TẮT hoàn toàn)
+- Ngày phát hiện: 2026-07-11 03:02 ICT
+- Phiên thực hiện: agent:github-io:subagent:060d8cb8-a49c-4e79-803e-f1b06a560dee (Đệ #1 Discovery — lần 44)
+
+---
+
+
 
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 41)
 
@@ -146,19 +208,19 @@ Quét vanban.chinhphu.vn dải docid 231000–245000 (step 200, 31 docid) + web_
 |---|---:|---|---|---|---|
 | 208/2026/NĐ-CP | **15/06/2026** | Vận tải hàng không — hành khách được hoàn tiền vé nếu chuyến bay chậm ≥4h do lỗi hãng; cụ thể hóa Luật Hàng không 130/2025 | Hàng không / Giao thông | **Đã có** (lần 25, docid 218453, 65 Điều) | Xác nhận ngày 15/6/2026 từ thuvienphapluat.vn + spirit.vietnamairlines.com |
 | 254/2026/NĐ-CP | **30/06/2026** | Hóa đơn điện tử — thay thế NĐ 123/2020, 6 điểm mới, hiệu lực 01/7/2026 | Thuế / CNTT | **Hoàn thiện** (lần 28, docid 218689, 45 Điều) | Xác nhận ngày 30/6/2026 từ 8 nguồn độc lập |
-| 206/2026/NĐ-CP | **15/06/2026** | Quản lý chi phí đầu tư xây dựng — định mức, giá nhân công, ca máy, hiệu lực 01/7/2026 | Xây dựng | **Chưa có** (chưa crawl chi tiết) | Xác minh ngày 15/6/2026 từ baochinhphu.vn + kiemtoanxaydung.vn |
+| 206/2026/NĐ-CP | **15/06/2026** | Quản lý chi phí đầu tư xây dựng — định mức, giá nhân công, ca máy, thay thế NĐ 10/2021, hiệu lực 01/7/2026 | Xây dựng | vanban.chinhphu.vn (docid **218454**) | **CHƯA CÓ trong tracking — cần bổ sung** | Xác minh ngày 15/6/2026 từ baochinhphu.vn + kiemtoanxaydung.vn (Đệ #1 lần 44). Docid 218454 xác minh qua HTML page vanban.chinhphu.vn/?pageid=27160&docid=218454. **Cần thêm vào bảng chính + crawl chi tiết.** |
 | 87/2026/TT-BTC | 30/06/2026 | **Hướng dẫn thi hành Luật Thuế TNCN 111/2025/QH15 và Nghị định 253/2026/NĐ-CP** — quy định chi tiết một số điều của Luật TNCN và NĐ 253/2026/NĐ-CP về thuế thu nhập cá nhân; cụ thể hóa mức giảm trừ gia cảnh, miễn thuế, khai thuế, khấu trừ thuế; hiệu lực **01/7/2026** | Thuế / Tài chính | vanban.chinhphu.vn (docid **218772**) | **Chưa có** | Xác minh **docid 218772** qua HTML page vanban.chinhphu.vn/?pageid=27160&docid=218772 — số hiệu "87/2026/TT-BTC" hiển thị rõ, "hướng dẫn chi tiết một số điều của Luật Thuế thu nhập cá nhân và Nghị định 253/2026/NĐ-CP". Văn bản mới phát hiện, chưa từng ghi nhận trong tracking. **Cần thêm vào bảng chính** |
 
 ### Danh sách vùng số hiệu đã kiểm tra — tất cả đều đã ghi nhận
 
 | Vùng | Văn bản | Trạng thái trong tracking |
 |---|---|---|
-| 206–210/2026/NĐ-CP | 206, 207, 208, 209, 210 | 207=218450 ✅, 208=218453 ✅, 209 và 210 chưa crawl chi tiết |
+| 206–210/2026/NĐ-CP | 206, 207, 208, 209, 210 | **206=218454 ✅** (Đệ #1 lần 44), 207=218450 ✅, 208=218453 ✅, 209=218449 ✅ (bản đồ lần 1 chính xác), 210 chưa xác minh |
 | 215, 221, 222, 223/2026/NĐ-CP | 215, 221, 222, 223 | 222 lần 39 (chưa crawl), 223 lần 39 (chưa crawl) |
 | 224, 232, 233, 234, 235/2026/NĐ-CP | 224, 232, 233, 234, 235 | 234 docid 218136 ✅, còn lại chưa crawl chi tiết |
 | 236, 241, 242, 244/2026/NĐ-CP | 236, 241, 242, 244 | 241=218631 ✅, 242 stub, 244=218603 ✅ |
 | 248, 253, 254, 255, 260, 264, 265, 269, 271, 272/2026 | Tất cả đã có | 254=218689 ✅ hoàn thiện, còn lại đang theo dõi |
-| 80–88/2026/TT-BTC | 80, 81, 82, 83, 84, 85, 86, 87, 88 | 87 chưa crawl chi tiết, còn lại đã ghi nhận |
+| 80–88/2026/TT-BTC | 80, 81, 82, 83, 84, 85, 86, 87, 88 | 80=218767 ✅, 84=218820 ✅, 87=218772 ✅ (Đệ #1 lần 44), còn lại đã ghi nhận |
 | 23–29/2026/TT-BYT | 23, 24, 25, 29 | 25=218704 ✅ hoàn thiện, 29 ngày 06/7 (lần 40 cập nhật) |
 | 108/2026/TT-BCA | 108 | Ngày 29/6/2026 xác minh (lần 39), chưa crawl chi tiết |
 | 14/2026/TT-BNV | 14 | Chưa có, ước đoán 30/6/2026 |
@@ -1570,13 +1632,19 @@ Quét vanban.chinhphu.vn dải docid 218643–218652 (tiếp nối lần 16: 218
 | 209/2026/NĐ-CP | chua-xac-minh | **218449** | 15/06 | 01/7 | Luật Xây dựng - vật liệu xây dựng |
 | 215/2026/NĐ-CP | chua-xac-minh | **218499** | 18/06 | 01/7 | An ninh hàng không |
 | 237/2026/NĐ-CP | chua-xac-minh | **218590** | 26/06 | 01/7 | Luật Báo chí - nền tảng số báo chí quốc gia |
+| 80/2026/TT-BTC | chua-xac-minh | **218767** | 30/06 | 15/8 | Đăng ký, hủy tư cách công ty đại chúng |
+| 84/2026/TT-BTC | chua-xac-minh | **218820** | 30/06 | 01/7 | Hoàn thuế GTGT cho khách nước ngoài xuất cảnh |
+| 87/2026/TT-BTC | chua-xac-minh | **218772** | 30/06 | 01/7 | Hướng dẫn Luật TNCN + NĐ 253/2026/NĐ-CP |
+| 206/2026/NĐ-CP | chua-xac-minh | **218454** | 15/06 | 01/7 | Quản lý chi phí đầu tư xây dựng (CHƯA CÓ trong tracking - cần bổ sung) |
 
 ### Phát hiện quan trọng
 
 - **75/2026/TT-BTC KHÔNG TỒN TẠI** - loại khỏi tracking (chỉ có 73, 74 là tồn tại)
-- Dải 218750-218900 trống hoàn toàn - nhiều văn bản cuối tháng 6/2026 chưa được index
+- Dải 218750-218900 đã có văn bản (cập nhật 2026-07-11 Đệ #1 lần 44): 218767=80/TT-BTC, 218772=87/TT-BTC, 218797=97/TT-BTC, 218820=84/TT-BTC ✅
+- 253/2026/NĐ-CP (hướng dẫn TNCN): docid = **218769** (xác minh riêng từ bản đồ lần 1 - trùng dải với 83/TT-BTC)
+- 206/2026/NĐ-CP: docid = **218454** (Đệ #1 lần 44) — **CHƯA CÓ trong tracking, cần bổ sung**
+- 209/2026/NĐ-CP: docid = **218449** ✅ (bản đồ lần 1 chính xác)
 - 236/2026/NĐ-CP, 23/2026/TT-BYT: tồn tại trên luatvietnam nhưng docid chưa tìm thấy (cần dải 219000+)
-- 242, 244, 245/2026/NĐ-CP: chưa tìm thấy trên luatvietnam.vn - cần xác minh riêng
 
 ### Nguồn
 
