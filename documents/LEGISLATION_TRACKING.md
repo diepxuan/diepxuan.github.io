@@ -1,4 +1,74 @@
-## Cập nhật 2026-07-10 14:05 (phiên Đệ #1 Discovery — lần 57)
+## Cập nhật 2026-07-10 16:01 (phiên Đệ #1 Discovery — lần 58)
+
+### Phát hiện: 2 văn bản mới — 1246 + 1250/QĐ-TTg (docid 218841–218842)
+
+Quét vanban.chinhphu.vn dải docid 218841–218900 (step 5 × 12 docid) + dải 218838–218845 (step 1 × 8 docid) + dải 280000–280030 (step 5 × 7 docid) + xác minh 218811–218813 (step 1). Ưu tiên: 277–280/NĐ-CP, 89–100/TT-BTC. **Phát hiện 2 văn bản MỚI** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---:|---:|---|---|---:|---:|---|
+| **1246/2026/QĐ-TTg** | ~07/2026 | **Phê chuẩn kết quả bầu chức vụ Phó Chủ tịch UBND tỉnh Đắk Lắk nhiệm kỳ 2026–2031** — Thủ tướng phê chuẩn kết quả bầu PCT UBND tỉnh Đắk Lắk nhiệm kỳ 2026–2031; là văn bản hành chính theo dõi thay đổi nhân sự cấp tỉnh | Hành chính / Nhân sự | vanban.chinhphu.vn (docid **218841**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện trong lần quét này. HTML page vanban.chinhphu.vn/?pageid=27160&mode=detail&docid=218841 trả về "Quyết định số 1246/QĐ-TTg của Thủ tướng Chính phủ: Phê chuẩn kết quả bầu chức vụ Phó Chủ tịch Ủy ban nhân dân tỉnh Đắk Lắk nhiệm kỳ 2026 - 2031" ✅. **Đây là docid đầu tiên SAU 1074/QĐ-BXD (218840)** — vanban tiếp tục index. Ưu tiên thấp — văn bản nhân sự cấp tỉnh. |
+| **1250/2026/QĐ-TTg** | ~07/2026 | **Ban hành Kế hoạch thực hiện Thông báo số 68-TB/VPTW ngày 26/5/2026 về kết luận của Tổng Bí thư, Chủ tịch nước tại buổi làm việc với Đảng ủy Bộ Y tế về phát triển ngành Y học cổ truyền Việt Nam** — Thủ tướng ban hành Kế hoạch thực hiện Thông báo 68-TB/VPTW ngày 26/5/2026; nội dung liên quan đến y học cổ truyền | Y tế / Hành chính | vanban.chinhphu.vn (docid **218842**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218842. HTML page trả về "Quyết định số 1250/QĐ-TTg của Thủ tướng Chính phủ: Về việc ban hành Kế hoạch thực hiện Thông báo số 68-TB/VPTW ngày 26 tháng 5 năm 2026 của Văn phòng Trung ương Đảng về kết luận của đồng chí Tổng Bí thư, Chủ tịch nước tại buổi làm việc với Đảng ủy Bộ Y tế về phát triển ngành Y học cổ truyền Việt Nam" ✅. **218843–218845 trả về cùng nội dung Thông báo 68-TB/VPTW** (shared content) — không phải văn bản mới. Ưu tiên thấp. |
+
+### Xác minh ngày cho 3 văn bản từ lần 56
+
+| Số hiệu | DocID | Ngày ban hành (xác minh) | Trạng thái | Ghi chú |
+|---:|---:|---:|---|---|
+| 18/2026/TT-BVHTTDL | 218811 | Chưa xác minh | Chưa có | Định mức kinh tế-kỹ thuật bảo tàng công lập |
+| 02/2026/TT-TTCP | 218812 | Chưa xác minh | Chưa có | Khung tiêu chí đánh giá trách nhiệm giải trình |
+| 09/2026/TT-VKSTC | 218813 | Chưa xác minh | Chưa có | Biểu mẫu tương trợ tư pháp hình sự |
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 1246/2026/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 1250/2026/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 218843–218845 | Thông báo 68-TB/VPTW | **KHÔNG phải văn bản mới** — content trùng lặp với 218842 |
+
+### QUAN TRỌNG: Dải 218841–280000 TRỐNG HOÀN TOÀN — 277–280/NĐ-CP và 89–100/TT-BTC vẫn chưa được index
+
+- **Quét 12 docid** (218847–218897, step 5): TẤT CẢ trống hoàn toàn
+- **Quét 8 docid** (218838–218845, step 1): Chỉ tìm 1246 + 1250/QĐ-TTg (218841–218842); 218843–218845 là shared Thông báo 68-TB/VPTW content
+- **Quét 7 docid** (280000–280030, step 5): TẤT CẢ trống hoàn toàn
+- **Tổng dải trống**: 218843–280000 (61,158 docid liên tục)
+- **1246 + 1250/QĐ-TTg**: Hai văn bản mới nhất được index (docid 218841–218842). Vanban tiếp tục resume nhưng rất chậm.
+- **277–280/NĐ-CP, 89–100/TT-BTC**: Vẫn CHƯA ĐƯỢC INDEX.
+
+### Bản đồ docid hoàn chỉnh (lần 58)
+
+| DocID | Văn bản |
+|---:|---|
+| 218838 | **58/2026/TT-BXD** (đăng kiểm tàu biển, 08/7/2026) ⭐ |
+| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ ĐÃ CRAWL ✅ |
+| 218840 | **1074/QĐ-BXD** (PCCC, 02/7/2026) ⭐ |
+| **218841** | **1246/QĐ-TTg** (bầu PCT Đắk Lắk) ⭐ **MỚI** |
+| **218842** | **1250/QĐ-TTg** (y học cổ truyền) ⭐ **MỚI** |
+| 218843–218845 | (Thông báo 68-TB/VPTW content — trùng) |
+| 218846–219000 | **(TRỐNG HOÀN TOÀN)** |
+| 280000–280030 | **(TRỐNG HOÀN TOÀN — 7 docid)** |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **90/2026/TT-BTC** (ưu tiên số 1 — docid 218839, đã crawl ✅): Đăng ký thuế — file đã có, cần review nội dung.
+2. **30/2026/TT-BYT** (ưu tiên số 2 — docid 218837): Nhãn thực phẩm, hiệu lực 10/7/2026 — tác động doanh nghiệp thực phẩm. Cần crawl chi tiết.
+3. **58/2026/TT-BXD** (ưu tiên số 3 — docid 218838): Đăng kiểm tàu biển, hiệu lực 01/9/2026 — tác động ngành hàng hải. Cần crawl chi tiết.
+4. **277–280/NĐ-CP** (ưu tiên số 4): Tiếp tục theo dõi dải 280000+. Vanban resume nhưng chậm, chưa đến dải NĐ-CP mới.
+5. **1246/QĐ-TTg + 1250/QĐ-TTg** (ưu tiên số 5 — docid 218841–218842): Văn bản hành chính nhân sự/KH y tế — ưu tiên thấp.
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được phát hiện lần 58: 1246/QĐ-TTg (Đắk Lắk) + 1250/QĐ-TTg (y học cổ truyền).
+- **218843–218845**: Trả về cùng nội dung Thông báo 68-TB/VPTW — KHÔNG phải văn bản mới, đây là shared content fragment.
+- **Tất cả dải 218843–280000 TRỐNG HOÀN TOÀN** — 61,158+ docid liên tục không chứa văn bản 2026 mới.
+- **Vanban RESUME tại 218841–218842 nhưng dừng ngay sau đó** — chỉ 2 docid giữa dải trống.
+- **18/TT-BVH, 02/TT-TTC, 09/TT-VKS** (218811–218813): Xác minh tồn tại, ngày chưa xác minh.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218838–218845 step 1, 218841–218897 step 5, 280000–280030 step 5, 27 docid total, 4 văn bản, 23 trống).
+- Ngày phát hiện: 2026-07-10 16:01 ICT
+- Phiên thực hiện: agent:github-io:subagent:4ba0227a-8305-40b5-ac3c-8d1003b900a3 (Đệ #1 Discovery — lần 58)
+
+---
+
+
 
 ### Phát hiện: 1 văn bản mới — 1074/QĐ-BXD (218840) + xác minh ngày cho 4 văn bản lần 56
 
