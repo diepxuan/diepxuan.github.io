@@ -2,87 +2,122 @@
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
 > Phiên bản: 2026-07-07T15:32 GMT+7
+> **Đệ #2 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-11T05:02 GMT+7
 > Nguồn quét: vanban.chinhphu.vn, datafiles.chinhphu.vn, web_search Brave
-> Dải docid: 228800–232000 | Tháng 7/2026
+> Dải docid: 218700–218850 | Tháng 7/2026
 > Ngưỡng: Ban hành sau 05/07/2026
 
 ---
 
 ## TÓM TẮT
 
-- Tổng văn bản phát hiện lần này: **5**
-- Văn bản đã có trong tracking lần trước: **0** (file mới, chưa từng tracking)
+- **Tổng văn bản phát hiện lần này: 5 (276, 275, 274, 273, 272/2026/NĐ-CP)**
+- **Văn bản đã có trong tracking lần trước: 0**
 - Nguồn xác nhận: vanban.chinhphu.vn, thuvienphapluat.vn, luatvietnam.vn, baochinhphu.vn, giaoducthoidai.vn
 
 ---
 
-## VĂN BẢN MỚI PHÁT HIỆN (5)
+## VĂN BẢN MỚI PHÁT HIỆN (Đệ #2 — 5 văn bản, 11/07/2026)
 
-### 1. Nghị định 269/2026/NĐ-CP — Bảo tồn và phát huy văn hóa truyền thống các dân tộc thiểu số
+### 1. Nghị định 276/2026/NĐ-CP — Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ
 
 | Trường | Giá trị |
 |--------|---------|
-| **Số** | 269/2026/NĐ-CP |
+| **Số** | 276/2026/NĐ-CP |
 | **Loại** | Nghị định |
 | **Cơ quan** | Chính phủ |
-| **Ban hành** | 01/07/2026 |
-| **Hiệu lực** | 01/07/2026 |
-| **Chủ đề** | Văn hóa, Dân tộc thiểu số, Giáo dục |
-| **Docid** | Chưa xác định (trong dải 228800–232000) |
-| **Nguồn** | vanban.chinhphu.vn, vanhoavaphattrien.vn, luatvietnam.vn |
-| **Mô tả** | Quy định một số cơ chế, chính sách bảo tồn và phát huy văn hóa truyền thống các dân tộc thiểu số. Yêu cầu đưa nội dung văn hóa dân tộc thiểu số vào chương trình giáo dục từ 01/7/2026. Hỗ trợ sinh kế, đãi ngộ nghệ nhân. |
-| **Ghi chú** | Điểm đáng chú ý: đưa văn hóa truyền thống vào chương trình giáo dục |
+| **Ban hành** | 08/07/2026 |
+| **Hiệu lực** | 08/07/2026 |
+| **Chủ đề** | Tổ chức nhà nước, Bộ Nội vụ |
+| **Docid** | 218832 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218832 |
+| **Trích yếu** | Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ |
+| **Ghi chú** | Cần crawl toàn văn từ 276-ndcp.signed.pdf; trạng thái Chưa hoàn thiện |
 
 ---
 
-### 2. Nghị định 271/2026/NĐ-CP — Miễn phí sách giáo khoa giáo dục phổ thông
+### 2. Nghị định 275/2026/NĐ-CP — Xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp
 
 | Trường | Giá trị |
 |--------|---------|
-| **Số** | 271/2026/NĐ-CP |
+| **Số** | 275/2026/NĐ-CP |
 | **Loại** | Nghị định |
 | **Cơ quan** | Chính phủ |
-| **Ban hành** | 03/07/2026 |
-| **Hiệu lực** | Lộ trình từ 01/01/2027 (lớp 1,2,6,9), mở rộng đến 2029–2030 toàn quốc |
-| **Chủ đề** | Giáo dục, Tài chính công |
-| **Docid** | Chưa xác định |
-| **Nguồn** | giaoducthoidai.vn, baomoi.com, xaluannews.com |
-| **Mô tả** | Quy định miễn phí sách giáo khoa giáo dục phổ thông. Ấn định lộ trình miễn phí SGK toàn quốc. Miễn học phí, giáo trình môn Giáo dục quốc phòng và an ninh tại cơ sở giáo dục đại học, giáo dục nghề nghiệp. |
-| **Ghi chú** | Thực hiện theo hình thức mượn-trả |
+| **Ban hành** | 08/07/2026 |
+| **Hiệu lực** | 08/07/2026 |
+| **Chủ đề** | Hành chính, Hóa chất, Vật liệu nổ công nghiệp |
+| **Docid** | 218835 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218835 |
+| **Trích yếu** | Quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp |
+| **Ghi chú** | Cần crawl toàn văn từ 275-ndcp.signed.pdf; trạng thái Chưa hoàn thiện |
 
 ---
 
-### 3. Nghị quyết — Bổ sung dự án Luật sửa đổi 9 luật về quân sự, quốc phòng vào Chương trình lập pháp năm 2026
+### 3. Nghị định 274/2026/NĐ-CP — Lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh (thi hành Luật Đấu thầu)
 
 | Trường | Giá trị |
 |--------|---------|
-| **Số** | Nghị quyết (chưa công bố số cụ thể) |
-| **Loại** | Nghị quyết của Chính phủ |
+| **Số** | 274/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 07/07/2026 |
+| **Hiệu lực** | 07/07/2026 |
+| **Chủ đề** | Đấu thầu, Đầu tư |
+| **Docid** | 218807 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218807 |
+| **Trích yếu** | Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh |
+| **Ghi chú** | Cần crawl toàn văn từ 274-ndcp.signed.pdf; trạng thái Chưa hoàn thiện |
+
+---
+
+### 4. Nghị định 273/2026/NĐ-CP — Kinh doanh hàng miễn thuế
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 273/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 07/07/2026 |
+| **Hiệu lực** | 07/07/2026 |
+| **Chủ đề** | Thuế, Thương mại, Hải quan |
+| **Docid** | 218801 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218801 |
+| **Trích yếu** | Về kinh doanh hàng miễn thuế |
+| **Ghi chú** | Cần crawl toàn văn từ 273-ndcp.signed.pdf; trạng thái Chưa hoàn thiện |
+
+---
+
+### 5. Nghị định 272/2026/NĐ-CP — Thi hành Nghị quyết 253/2025/QH15 về cơ chế, chính sách phát triển năng lượng quốc gia 2026–2030
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 272/2026/NĐ-CP |
+| **Loại** | Nghị định |
 | **Cơ quan** | Chính phủ |
 | **Ban hành** | 04/07/2026 |
 | **Hiệu lực** | 04/07/2026 |
-| **Chủ đề** | Quân sự, Quốc phòng, Lập pháp |
-| **Docid** | Chưa xác định |
-| **Nguồn** | doanhnghiepcuocsong.vn (trích nguồn Chinhphu.vn), baomoi.com |
-| **Mô tả** | Bổ sung dự án Luật sửa đổi, bổ sung một số điều của 9 luật về quân sự, quốc phòng vào Chương trình lập pháp năm 2026. Kỳ họp không thường lệ, trình tự rút gọn. Đề nghị của Bộ Quốc phòng. |
-| **Ghi chú** | Cần xác minh thêm số Nghị quyết trên vanban.chinhphu.vn |
+| **Chủ đề** | Năng lượng, Quy hoạch, Đầu tư năng lượng |
+| **Docid** | 218787 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218787 |
+| **Trích yếu** | Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Nghị quyết số 253/2025/QH15 ngày 11/12/2025 của Quốc hội về các cơ chế, chính sách phát triển năng lượng quốc gia giai đoạn 2026–2030 |
+| **Ghi chú** | Chi tiết hóa Nghị quyết 253/2025/QH15; cần crawl toàn văn; trạng thái Chưa hoàn thiện |
 
 ---
 
-### 4. Thông tư 25/2026/TT-BYT — Sửa đổi quản lý chất lượng xét nghiệm tại cơ sở khám bệnh, chữa bệnh
+## CÁC ĐỢT TRƯỚC (TÓM TẮT)
 
-| Trường | Giá trị |
-|--------|---------|
-| **Số** | 25/2026/TT-BYT |
-| **Loại** | Thông tư |
-| **Cơ quan** | Bộ Y tế |
-| **Ban hành** | Sau 05/07/2026 (docid 218704, gần với ND 254) |
-| **Hiệu lực** | Chưa rõ (cần xác minh) |
-| **Chủ đề** | Y tế |
-| **Docid** | 218704 (vanban.chinhphu.vn) |
-| **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218704 |
-| **Mô tả** | Sửa đổi, bổ sung một số điều: Thông tư 01/2013/TT-BYT (quản lý chất lượng xét nghiệm); Thông tư 32/2023/TT-BYT (chi tiết Luật Khám bệnh, chữa bệnh); Thông tư 23/2024/TT-BYT (Danh mục kỹ thuật trong khám bệnh, chữa bệnh); Thông tư 42/2025/TT-BYT |
-| **Ghi chú** | docid xác nhận trên vanban.chinhphu.vn. Cần xác minh ngày ban hành chính xác. |
+### Đệ #1 — 2026-07-11T03:25 (Dải 218400–218750)
+
+| Số | Chủ đề | Ban hành | Docid |
+|----|--------|---------|-------|
+| 269/2026/NĐ-CP | Văn hóa dân tộc thiểu số | 01/07/2026 | 218736 |
+| 271/2026/NĐ-CP | Miễn phí sách giáo khoa | 03/07/2026 | 218744 |
+| Nghị quyết bổ sung 9 luật QP | Quân sự, quốc phòng | 04/07/2026 | — |
+| 25/2026/TT-BYT | Xét nghiệm y tế | Sau 05/07 | 218704 |
+| 254/2026/NĐ-CP | Hóa đơn điện tử | 30/06/2026 | 218689 |
+| 206/2026/NĐ-CP | Quản lý chi phí xây dựng | 15/06/2026 | 218454 |
+| 209/2026/NĐ-CP | Quản lý vật liệu xây dựng | 15/06/2026 | 218449 |
 
 ---
 
@@ -134,3 +169,5 @@
 
 *Lần cập nhật tiếp theo: khoảng 07/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
 *Đệ #1 Discovery — github-io workspace*
+*Lần cập nhật tiếp theo: khoảng 12/07/2026 hoặc khi có văn bản mới ban hành sau 09/07/2026.*
+*Đệ #2 Discovery — github-io workspace*
