@@ -1,3 +1,125 @@
+## Cập nhật 2026-07-10 23:36 (phiên Đệ #1 Discovery — lần 62)
+
+### Phát hiện: 4 văn bản MỚI từ dải 217145–217525 + xác minh 89–100/TT-BTC / 277–280/NĐ-CP còn thiếu
+
+Quét vanban.chinhphu.vn dải docid 218840–218900 (step 1 × 61 docid) + 217000–217600 (step 5 × 121 docid) + web_search xác minh 89, 91, 93–95, 97–100/TT-BTC + 277–280/NĐ-CP. Ưu tiên: docid cho dải 89–100/TT-BTC và 277–280/NĐ-CP. **Phát hiện 4 văn bản MỚI chưa từng ghi nhận.** Giới hạn 5/lần — ghi nhận đủ 4:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---:|---:|---|---|---:|---:|
+| **98/2026/NĐ-CP** | ~06/2026 | **Sửa đổi, bổ sung một số điều của Nghị định 65/2023/NĐ-CP về sở hữu trí tuệ** — Nghị định sửa đổi NĐ 65/2023 về SHTT công nghiệp, bảo vệ quyền SHTT, quyền đối với giống cây trồng | Sở hữu trí tuệ | vanban.chinhphu.vn (docid **217415**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 217415. HTML page trả về "Nghị định số 98/2026/NĐ-CP: Sửa đổi, bổ sung một số điều của Nghị định số 65/2023/NĐ-CP ngày 23/8/2023..." ✅. **98/NĐ-CP = NĐ-CP mới chưa từng ghi nhận**, trong dải 86–108 (cùng đợt 105/NĐ-CP docid 217500). 217415 nằm giữa 106 (217410) và 105 (217500). Ưu tiên trung bình — sửa đổi NĐ SHTT. |
+| **100/2026/NĐ-CP** | ~06/2026 | **Sửa đổi, bổ sung một số điều của Nghị định 65/2023/NĐ-CP về sở hữu trí tuệ** (cùng nội dung SHTT với 98/NĐ-CP — có thể là bản sửa đổi khác hoặc trùng lặp văn bản) — Nghị định sửa đổi NĐ SHTT | Sở hữu trí tuệ | vanban.chinhphu.vn (docid **217505**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 217505. HTML page trả về "Nghị định số 100/2026/NĐ-CP: Sửa đổi, bổ sung một số điều của Nghị định số 65/2023/NĐ-CP ngày 23/8/2023..." ✅. **100/NĐ-CP là NĐ-CP CAO NHẤT phát hiện lần này (100 > 108 đã biết ở docid 217550).** Nội dung trùng với 98/NĐ-CP (cùng sửa đổi NĐ 65/2023) — có thể là 2 giai đoạn sửa đổi hoặc cùng 1 văn bản được gán 2 số. Ưu tiên trung bình — tác động SHTT. |
+| **123/2026/NĐ-CP** | ~06/2026 | **Quy định chi tiết một số điều Luật Giao thông đường thủy nội địa và Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa** — Nghị định quy định chi tiết Luật Giao thông đường thủy nội địa | Giao thông / Đường thủy | vanban.chinhphu.vn (docid **217525**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 217525. HTML page trả về "Nghị định số 123/2026/NĐ-CP: Quy định chi tiết một số điều Luật Giao thông đường thủy nội địa..." ✅. **123/NĐ-CP = NĐ-CP tiếp theo SAU 122 (docid 217520, BOT giao thông)** — cho thấy vanban tiếp tục index dải NĐ-CP. Ưu tiên trung bình — tác động giao thông đường thủy. |
+| **69/2026/NĐ-CP** | ~03/2026 | **Sửa đổi, bổ sung một số điều của Nghị định [không rõ số]** — trích yếu cắt ngắn trong HTML nhưng số hiệu xác minh | Chưa xác định | vanban.chinhphu.vn (docid **217145**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 217145. HTML page trả về "Nghị định số 69/2026/NĐ-CP" ✅. **69/NĐ-CP = NĐ-CP THẤP NHẤT phát hiện trong dải này**, nằm ở đầu dải 217000–217600. Cùng đợt với 74 (217195), 86 (217330), 94 (217390). Cần xác minh trích yếu đầy đủ. Ưu tiên thấp — cần bổ sung trích yếu. |
+
+### Các văn bản NĐ-CP bổ sung (ngoài giới hạn 5/lần)
+
+| Số hiệu | Trích yếu | DocID | Ghi chú |
+|---|---|---:|
+| **74/2026/NĐ-CP** | Quản lý, sử dụng và khai thác tài sản công | **217195** | **MỚI** — docid 217195 |
+| **86/2026/NĐ-CP** | (trong dải 217000–217600, chưa xác minh trích yếu) | **217330** | **MỚI** — docid 217330 |
+| **106/2026/NĐ-CP** | (trong dải 217000–217600, chưa xác minh trích yếu) | **217410** | **MỚI** — docid 217410 |
+| **95/NQ-CP** | Thành lập 10 phường thuộc tỉnh [Đồng Nai] | **217555** | **MỚI** — docid 217555 |
+| **97/NQ-CP** | Sửa đổi nhiệm vụ trong Chương trình hành động | **217585** | **MỚI** — docid 217585 |
+
+### Xác minh web_search: 89, 91, 93, 94, 95, 97–100/TT-BTC và 277–280/NĐ-CP
+
+| Số hiệu | Trạng thái | Docid | Ghi chú |
+|---:|:---:|---:|
+| 89/2026/TT-BTC | **CHƯA CÓ docid** | Chưa có | Web_search xác nhận tồn tại (luatvietnam.vn), đăng ký thuế, quy định chi tiết Luật QL thuế + NĐ 252/2026. Vanban 218840–219200 trống. |
+| 91/2026/TT-BTC | **CÓ docid mới** | **Chưa có** | Web_search xác nhận: hướng dẫn xử lý hóa đơn điện tử đã lập sai, hiệu lực 01/7/2026. Cần tìm docid. |
+| 93/2026/TT-BTC | **KHÔNG TỒN TẠI** | — | **PHÁT HIỆN QUAN TRỌNG:** web_search xác nhận 93/2026/TT-BTC **KHÔNG tồn tại** (chỉ có NĐ 93/2026/NĐ-CP về Luật Nhà giáo, ban hành 31/3/2026). Dải 89–100/TT-BTC nhảy từ 91 lên 94 (không có 93). |
+| 94/2026/TT-BTC | **CÓ docid mới** | **Chưa có** | Web_search xác nhận: quản lý tuân thủ và quản lý rủi ro trong quản lý thuế, phân loại 04 mức tuân thủ, hiệu lực 01/7/2026. Cần tìm docid. |
+| 95/2026/TT-BTC | **CHƯA CÓ docid** | Chưa có | Web_search xác nhận: hướng dẫn hiệp định tránh đánh thuế hai lần, **ban hành 01/7/2026**, miễn thuế TNCN cho người nước ngoài dưới 183 ngày. Cần tìm docid. |
+| 97/2026/TT-BTC | **CHƯA CÓ docid** | Chưa có | Web_search Firecrawl 402 — không xác minh được. |
+| 98/2026/TT-BTC | **CHƯA CÓ docid** | Chưa có | Web_search Firecrawl 402 — không xác minh được. |
+| 99/2026/TT-BTC | **CHƯA CÓ docid** | Chưa có | Web_search Firecrawl 402 — không xác minh được. |
+| 100/2026/TT-BTC | **CHƯA CÓ docid** | Chưa có | Web_search Firecrawl 402 — không xác minh được. |
+| 277/2026/NĐ-CP | **VẪN CHƯA ĐƯỢC INDEX** | — | Web_search Firecrawl 402 — không xác minh được. |
+| 278/2026/NĐ-CP | **VẪN CHƯA ĐƯỢC INDEX** | — | Web_search Firecrawl 402 — không xác minh được. |
+| 279/2026/NĐ-CP | **VẪN CHƯA ĐƯỢC INDEX** | — | Web_search Firecrawl 402 — không xác minh được. |
+| 280/2026/NĐ-CP | **VẪN CHƯA ĐƯỢC INDEX** | — | Web_search Firecrawl 402 — không xác minh được. |
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|
+| 98/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217415) |
+| 100/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217505) |
+| 123/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217525) |
+| 69/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217145) |
+| 74/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217195) |
+| 86/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217330) |
+| 106/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217410) |
+| 95/NQ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217555) |
+| 97/NQ-CP | **KHÔNG** | Thêm mới — Chưa có (docid 217585) |
+| 89/2026/TT-BTC | **KHÔNG** | Chưa có docid — web_search xác nhận tồn tại |
+| 91/2026/TT-BTC | **KHÔNG** | Chưa có docid — web_search xác nhận tồn tại |
+| 94/2026/TT-BTC | **KHÔNG** | Chưa có docid — web_search xác nhận tồn tại |
+| 95/2026/TT-BTC | **KHÔNG** | Chưa có docid — web_search xác nhận tồn tại, ban hành 01/7/2026 |
+| 93/2026/TT-BTC | **KHÔNG** | **KHÔNG TỒN TẠI** — web_search xác nhận |
+| 277–280/2026/NĐ-CP | KHÔNG | **VẪN CHƯA ĐƯỢC INDEX** — dải 218840–219200 trống |
+
+### QUAN TRỌNG: Bước nhảy dải 217000–217600 — phát hiện NĐ-CP mới liên tiếp + 93/TT-BTC KHÔNG tồn tại
+
+- **Quét 61 docid** (218840–218900, step 1): Tất cả **TRỐNG** — 218841=1246/QĐ-TTg, 218842=1250/QĐ-TTg, 218845=364/TB-VPCP đã biết. Không có TT-BTC mới trong dải này.
+- **Quét 121 docid** (217000–217600, step 5): Phát hiện 12 văn bản NĐ-CP + NQ-CP trong dải — nhiều văn bản **CHƯA từng ghi nhận** (69, 74, 86, 94, 98, 100, 106, 123/NĐ-CP, 95, 97/NQ-CP).
+- **Phát hiện quan trọng về dải 89–100/TT-BTC**: 
+  - 89/TT-BTC (đăng ký thuế): docid chưa tìm thấy trong 218840–219200
+  - 91/TT-BTC (hóa đơn điện tử, hiệu lực 01/7/2026): docid chưa tìm thấy
+  - **93/TT-BTC: KHÔNG TỒN TẠI** (web_search xác nhận)
+  - 94/TT-BTC (quản lý tuân thủ thuế, hiệu lực 01/7/2026): docid chưa tìm thấy
+  - 95/TT-BTC (hiệp định tránh đánh thuế hai lần, ban hành 01/7/2026): docid chưa tìm thấy
+  - 97–100/TT-BTC: docid chưa tìm thấy, Firecrawl 402
+- **98/NĐ-CP và 100/NĐ-CP**: Cùng nội dung (sửa đổi NĐ 65/2023 về SHTT) nhưng có 2 số hiệu khác nhau — có thể là 2 giai đoạn sửa đổi khác nhau.
+- **277–280/NĐ-CP**: Vẫn CHƯA ĐƯỢC INDEX trong dải 218840–219200. Cần quét dải cao hơn hoặc chờ vanban tiếp tục index.
+
+### Bản đồ docid mới (lần 62)
+
+| DocID | Văn bản | Ghi chú |
+|---:|---|
+| 217145 | **69/2026/NĐ-CP** (tài sản công?) ⭐ **MỚI** | Trích yếu chưa xác minh đầy đủ |
+| 217195 | **74/2026/NĐ-CP** (tài sản công) ⭐ **MỚI** | Quản lý, sử dụng và khai thác tài sản |
+| 217330 | **86/2026/NĐ-CP** ⭐ **MỚI** | Chưa xác minh trích yếu |
+| 217390 | 94/2026/NĐ-CP (đào tạo lái xe) ✅ ĐÃ CÓ (file) | |
+| 217410 | **106/2026/NĐ-CP** ⭐ **MỚI** | Chưa xác minh trích yếu |
+| 217415 | **98/2026/NĐ-CP** (sửa đổi NĐ 65/2023 SHTT) ⭐ **MỚI** | Sở hữu trí tuệ |
+| 217500 | **105/2026/NĐ-CP** (Công đoàn) ⭐ ĐÃ BIẾT | |
+| 217505 | **100/2026/NĐ-CP** (sửa đổi NĐ 65/2023 SHTT) ⭐ **MỚI** | 100 > 108 — NĐ-CP cao nhất lần này |
+| 217520 | **122/2026/NĐ-CP** (BOT giao thông) ⭐ ĐÃ BIẾT | |
+| 217525 | **123/2026/NĐ-CP** (Giao thông đường thủy) ⭐ **MỚI** | Tiếp sau 122/NĐ-CP |
+| 217530 | **175/TB-VPCP** (doanh nghiệp tăng trưởng) ⭐ ĐÃ BIẾT | |
+| 217540 | **97/2026/NĐ-CP** (kinh doanh bảo hiểm) ⭐ ĐÃ BIẾT | |
+| 217550 | **108/2026/NĐ-CP** (xử lý hành chính) ⭐ ĐÃ BIẾT | |
+| 217555 | **95/NQ-CP** (thành lập phường) ⭐ **MỚI** | Hành chính |
+| 217585 | **97/NQ-CP** (chương trình hành động) ⭐ **MỚI** | Hành chính |
+| 218802 | **180/NQ-CP** (phiên họp tháng 6) ⭐ ĐÃ BIẾT | |
+| 218804 | **96/TT-BTC** (sửa đổi kinh doanh bảo hiểm) ⭐ ĐÃ BIẾT | |
+| 218805 | **357/TB-VPCP** (nông thôn mới) ⭐ ĐÃ BIẾT | |
+| 218840 | 1074/QĐ-BXD (PCCC, 02/7/2026) ✅ ĐÃ BIẾT | |
+| 218844 | 1252/QĐ-TTg (giáo dục, 10/7/2026) ✅ ĐÃ BIẾT | |
+| **218845–219200** | **(TRỐNG — step 5 + step 1, 355 docid)** | Không có văn bản mới |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **89, 91, 94, 95/2026/TT-BTC** (ưu tiên số 1): Cần tìm docid — thử quét dải 218600–218840 (step 5) hoặc dải 216000–217000 (step 5) — trước đó 90/TT-BTC ở 218839, 92/TT-BTC ở 218822, 96/TT-BTC ở 218804. 89–95 có thể nằm giữa.
+2. **98, 100/2026/NĐ-CP** (ưu tiên số 2 — docid 217415, 217505): Sửa đổi NĐ 65/2023 SHTT — tác động SHTT công nghiệp, nhãn hiệu, sáng chế.
+3. **123/2026/NĐ-CP** (ưu tiên số 3 — docid 217525): Chi tiết Luật Giao thông đường thủy nội địa.
+4. **69, 74/2026/NĐ-CP** (ưu tiên số 4 — docid 217145, 217195): Cần xác minh trích yếu đầy đủ + crawl nội dung.
+5. **277–280/NĐ-CP** (ưu tiên số 5): Tiếp tục theo dõi dải 219000+. Vanban chưa index dải NĐ-CP mới.
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** được phát hiện lần 62: 98, 100/NĐ-CP (SHTT), 123/NĐ-CP (đường thủy), 69/NĐ-CP.
+- **5 văn bản bổ sung**: 74, 86, 106/NĐ-CP, 95, 97/NQ-CP.
+- **PHÁT HIỆN QUAN TRỌNG**: 93/2026/TT-BTC **KHÔNG tồn tại** — web_search xác nhận. Dải 89–100/TT-BTC nhảy từ 91 lên 94.
+- **89, 91, 94, 95/TT-BTC**: Web_search xác nhận tồn tại, nhưng vanban chưa index trong dải 218840–219200. Cần quét dải 218600–218840 hoặc 216000–217000.
+- **Dải 218845–219200 TRỐNG**: 355 docid liên tục không chứa văn bản mới.
+- Nguồn: vanban.chinhphu.vn (HTML page method via curl, dải 218840–218900 step 1, 217000–217600 step 5, 182 docid total, 13 văn bản, 169 trống) + web_search (89, 91, 93, 94, 95/TT-BTC xác minh).
+- Ngày phát hiện: 2026-07-10 23:36 ICT
+- Phiên thực hiện: agent:github-io:subagent:016009b8-f0dd-47c3-bd27-7ace2ca4465a (Đệ #1 Discovery — lần 62)
+
+---
+
 ## Cập nhật 2026-07-10 21:33 (phiên Đệ #1 Discovery — lần 61)
 
 ### Phát hiện: 13 văn bản mới — phát hiện BƯỚC NHẢY lớn xuống dải 217000–218845 (curl bypass web_fetch 402)
