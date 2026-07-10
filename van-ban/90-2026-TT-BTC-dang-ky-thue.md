@@ -67,7 +67,7 @@ QUY ĐỊNH CHUNG
 Thông tư này quy định các nội dung sau:
 
 1. Quy định chỉ tiết các điều, khoản được giao tại Luật Quản lý thuế số
-108/2025/QHI5 gồm:
+108/2025/QH15 gồm:
 
 a) Khoản 1 Điều 10 về phạm vi đăng ký thuế và khoản 3 Điều 10 về các
 trường hợp thực hiện đăng ký thuế trực tiếp với cơ quan thuế;
@@ -157,7 +157,7 @@ do cơ quan đăng ký kinh doanh cấp cho doanh nghiệp, hợp tác xã, tổ
 1. Đối tượng đăng ký thuế bao gồm:
 
 a) Người nộp thuế thuộc đối tượng thực hiện đăng ký thuế theo cơ chế
-một cửa liên thông theo quy định tại khoản 2 Điều L0 Luật sô 108/2025/QHI15;
+một cửa liên thông theo quy định tại khoản 2 Điều 10 Luật số 108/2025/QH15;
 
 b) Người nộp thuế thuộc đối tượng thực hiện đăng ký thuế trực tiếp với cơ
 quan thuế theo quy định tại khoản 3 Điều 10 Luật số 108/2025/QH15.
@@ -450,7 +450,7 @@ hiệu lực mã số thuế; hồ sơ khôi phục mã số thuế;
 b) Các hình thức nộp hồ sơ
 
 b1) Người nộp thuế quy định tại khoản 2 Điều 10 Luật số
-108/2025/QHI5 nộp hồ sơ qua cơ quan đăng ký kinh doanh theo quy định của
+108/2025/QH15 nộp hồ sơ qua cơ quan đăng ký kinh doanh theo quy định của
 pháp luật về đăng ký doanh nghiệp, hợp tác xã, hộ kinh doanh (sau đây gọi là
 pháp luật về đăng ký kinh doanh);
 
@@ -1891,7 +1891,7 @@ thuế sau khi ban hành thông báo về việc người nộp thuế không ho
 chỉ đã đăng ký (trừ trường hợp quy định tại điểm c khoản 5 Điều này) như sau:
 
 a) Đối với người nộp thuế quy định tại khoản 2 Điều 4 Thông tư này đã
-hoàn thành nghĩa vụ thuế, hóa đơn theo quy định của Luật số 108/2025/QHI15 và
+hoàn thành nghĩa vụ thuế, hóa đơn theo quy định của Luật số 108/2025/QH15 và
 Điều 14 Thông tư này, hoặc không phát sinh nghĩa vụ thuế, hóa đơn;
 
 b) Đối với người nộp thuế đã được xóa các khoản nợ tiền thuế, tiền chậm
@@ -3012,7 +3012,7 @@ nộp thuế chuyển đến.
 
 Việc xác định người nộp thuế rủi ro cao thuộc điện phải kiểm tra tại trụ sở
 của người nộp thuế thực hiện theo quy định tại điểm a khoản 3 Điều 22 Luật số
-108/2025/QHI5 và quy định về áp dụng quản lý rủi ro, quản lý tuân thủ trong
+108/2025/QH15 và quy định về áp dụng quản lý rủi ro, quản lý tuân thủ trong
 quản lý thuế;
 
 a.2) Trường hợp người nộp thuế không thuộc diện phải kiểm tra tại trụ sở
@@ -3358,7 +3358,7 @@ chết, mắt tích hoặc mắt năng lực hành vị dân sự, hoặc thông
 liệu quốc gia về dân cư xác định cá nhân đã chết, mắt tích.
 
 Trường hợp các nghĩa vụ nộp thuế đã được hoản thành theo quy định
-của Luật sô 108/2025/QH15 và khoản 1, 2, 3 Điều 28 Thông tư này, cơ quan
+của Luật số 108/2025/QH15 và khoản 1, 2, 3 Điều 28 Thông tư này, cơ quan
 thuế thực hiện chấm dứt hiệu lực mã số thuế của người nộp thuế theo quy định.
 
 4. Xử lý hồ sơ chấm dứt hiệu lực mã số thuế theo quy định tại điểm b
