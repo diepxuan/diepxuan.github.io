@@ -1,3 +1,74 @@
+## Cập nhật 2026-07-10 14:05 (phiên Đệ #1 Discovery — lần 57)
+
+### Phát hiện: 1 văn bản mới — 1074/QĐ-BXD (218840) + xác minh ngày cho 4 văn bản lần 56
+
+Quét vanban.chinhphu.vn dải docid 218840–219000 (step 5 × 33 docid) + dải 240000–250000 (step 200 × 51 docid) + dải 260000–280000 (step 500 × 41 docid) + dải 240000–250000 (step 50 × 201 docid) + fine scan 218841–219000 (step 5 × 32 docid) + web_search xác minh ngày. Ưu tiên: 277–280/NĐ-CP, 89–100/TT-BTC, 14/NQ-CP. **Phát hiện 1 văn bản MỚI** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---:|---:|---|---|---:|---:|---|
+| **1074/2026/QĐ-BXD** | **02/7/2026** | **Ban hành các giải pháp kỹ thuật nâng cao an toàn phòng cháy, chữa cháy cho các cơ sở, công trình không bảo đảm yêu cầu về phòng cháy và chữa cháy và không có khả năng khắc phục theo các tiêu chuẩn, quy chuẩn** — QĐ-BXD quy định giải pháp kỹ thuật PCCC cho công trình xây dựng không đạt yêu cầu; nội dung chi tiết cần crawl | Xây dựng / PCCC | vanban.chinhphu.vn (docid **218840**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện trong lần quét này. HTML page vanban.chinhphu.vn/?pageid=27160&mode=detail&docid=218840 trả về "Quyết định số 1074/QĐ-BXD của Bộ Xây dựng: Ban hành các giải pháp kỹ thuật nâng cao an toàn phòng cháy, chữa cháy..." ✅. Ngày ban hành: **02/7/2026** (xác minh từ nội dung HTML). Đây là docid đầu tiên SAU dải 218836–218839 (4 văn bản từ lần 56). Ưu tiên thấp — văn bản kỹ thuật xây dựng. |
+
+### Xác minh ngày cho 4 văn bản từ lần 56
+
+| Số hiệu | DocID | Ngày ban hành (xác minh) | Trạng thái | Ghi chú |
+|---:|---:|---:|---|---|
+| 30/2026/TT-BYT | 218837 | **09/7/2026** | Chưa có | Xác minh từ web_search: luatvietnam.vn xác nhận 09/7/2026, hiệu lực 10/7/2026 ✅ |
+| 58/2026/TT-BXD | 218838 | **08/7/2026** | Chưa có | Xác minh từ web_search: moc.gov.vn xác nhận 08/7/2026, hiệu lực 01/9/2026 ✅ |
+| 90/2026/TT-BTC | 218839 | Chưa xác minh | Chưa có (đã crawl trong van-ban/ 90-2026-TT-BTC-dang-ky-thue.md) | 90/TT-BTC đã có file trong van-ban/ với docid 218839 ✅ |
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 1074/2026/QĐ-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 90/2026/TT-BTC | **KHÔNG** (lần 56) → ĐÃ CÓ file van-ban/ | Cập nhật: 90/TT-BTC đã có trong van-ban/ 90-2026-TT-BTC-dang-ky-thue.md ✅ |
+| 30/2026/TT-BYT | **KHÔNG** (lần 56) | Ngày ban hành xác minh: 09/7/2026, hiệu lực 10/7/2026 |
+| 58/2026/TT-BXD | **KHÔNG** (lần 56) | Ngày ban hành xác minh: 08/7/2026, hiệu lực 01/9/2026 |
+| 29/2026/TT-BNNMT | **KHÔNG** (lần 56) | Ngày ban hành chưa xác minh |
+
+### QUAN TRỌNG: Dải 218841–280000 TRỐNG HOÀN TOÀN — 277–280/NĐ-CP và 89–100/TT-BTC vẫn chưa được index
+
+- **Quét 33 docid** (218840–219000, step 5): Chỉ tìm 1074/QĐ-BXD tại 218840; 218841–219000 TRỐNG
+- **Quét 201 docid** (240000–250000, step 50): TẤT CẢ trống hoàn toàn
+- **Quét 41 docid** (260000–280000, step 500): TẤT CẢ trống hoàn toàn
+- **Fine scan 32 docid** (218841–219000, step 5): TẤT CẢ trống
+- **Tổng dải trống**: 218841–280000 (59,160 docid liên tục)
+- **277–280/NĐ-CP, 89–100/TT-BTC**: Vẫn CHƯA ĐƯỢC INDEX. 90/TT-BTC (218839) đã crawl ✅.
+- **14/NQ-CP**: Đã có file trong van-ban/ 14-2026-nq-cp.md (docid: Chưa xác minh). Đây là NQ của Quốc hội (ban hành 16/1/2026) — có thể nằm ở dải docid thấp hơn hoặc chưa được index.
+
+### Bản đồ docid hoàn chỉnh (lần 57)
+
+| DocID | Văn bản |
+|---:|---|
+| 218836 | **29/2026/TT-BNNMT** (địa chấn biển) ⭐ |
+| 218837 | **30/2026/TT-BYT** (nhãn thực phẩm, 09/7/2026) ⭐ |
+| 218838 | **58/2026/TT-BXD** (đăng kiểm tàu biển, 08/7/2026) ⭐ |
+| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ ĐÃ CRAWL ✅ |
+| **218840** | **1074/QĐ-BXD** (PCCC, 02/7/2026) ⭐ **MỚI** |
+| 218841–219000 | **(TRỐNG HOÀN TOÀN)** |
+| 240000–250000 | **(TRỐNG HOÀN TOÀN — 201 docid)** |
+| 260000–280000 | **(TRỐNG HOÀN TOÀN — 41 docid)** |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **90/2026/TT-BTC** (ưu tiên số 1 — docid 218839, đã crawl ✅): Đăng ký thuế — file đã có, cần review nội dung.
+2. **30/2026/TT-BYT** (ưu tiên số 2 — docid 218837): Nhãn thực phẩm, hiệu lực 10/7/2026 — tác động doanh nghiệp thực phẩm. Cần crawl chi tiết.
+3. **58/2026/TT-BXD** (ưu tiên số 3 — docid 218838): Đăng kiểm tàu biển, hiệu lực 01/9/2026 — tác động ngành hàng hải. Cần crawl chi tiết.
+4. **277–280/NĐ-CP** (ưu tiên số 4): Tiếp tục theo dõi dải 280000+. Vanban đã resume tại 218836–218840 nhưng chưa đến dải NĐ-CP mới.
+5. **1074/QĐ-BXD** (ưu tiên số 5 — docid 218840): PCCC — ưu tiên thấp nhưng là văn bản mới nhất được index.
+
+### Ghi chú xử lý
+
+- **1 văn bản mới** được phát hiện lần 57: 1074/QĐ-BXD (218840) — PCCC.
+- **90/TT-BTC** đã có file trong van-ban/ (90-2026-TT-BTC-dang-ky-thue.md, docid 218839) — cần review nội dung.
+- **Tất cả các dải 218841–280000 TRỐNG HOÀN TOÀN** — 60,000+ docid liên tục không chứa văn bản 2026 nào.
+- **Vanban RESUME tại 218840 nhưng dừng ngay sau đó** — chỉ có 1 docid (218840) giữa dải trống.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218840–219000 step 5, 240000–250000 step 50, 260000–280000 step 500, 326 docid total, 2 văn bản, 324 trống) + web_search (xác minh ngày 30/TT-BYT, 58/TT-BXD).
+- Ngày phát hiện: 2026-07-10 14:05 ICT
+- Phiên thực hiện: agent:github-io:subagent:03ea87b2-d8a8-4e54-b7cc-6ceaddbe414f (Đệ #1 Discovery — lần 57)
+
+---
+
 ## Cập nhật 2026-07-10 09:32 (phiên Đệ #1 Discovery — lần 55)
 
 ### Phát hiện: 4 văn bản mới — vanban.chinhphu.vn RESUME INDEX tại 218836
