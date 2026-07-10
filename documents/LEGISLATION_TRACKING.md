@@ -97,7 +97,7 @@ Quét vanban.chinhphu.vn dải docid 217000–219000 (step 50–500 × ~60 docid
 | 218836 | **29/2026/TT-BNNMT** (địa chấn biển) |
 | 218837 | **30/2026/TT-BYT** (nhãn thực phẩm, 09/7/2026) |
 | 218838 | **58/2026/TT-BXD** (đăng kiểm tàu biển, 08/7/2026) |
-| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ ĐÃ CRAWL ✅ |
+| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ **CẦN REFACTOR** ⚠️ |
 | 218840 | **1074/QĐ-BXD** (PCCC, 02/7/2026) |
 | 218841 | **1246/QĐ-TTg** (bầu PCT Đắk Lắk) |
 | 218842 | **1250/QĐ-TTg** (y học cổ truyền) |
@@ -296,7 +296,7 @@ Quét vanban.chinhphu.vn dải docid 218841–218900 (step 5 × 12 docid) + dả
 | DocID | Văn bản |
 |---:|---|
 | 218838 | **58/2026/TT-BXD** (đăng kiểm tàu biển, 08/7/2026) ⭐ |
-| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ ĐÃ CRAWL ✅ |
+| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ **CẦN REFACTOR** ⚠️ |
 | 218840 | **1074/QĐ-BXD** (PCCC, 02/7/2026) ⭐ |
 | **218841** | **1246/QĐ-TTg** (bầu PCT Đắk Lắk) ⭐ **MỚI** |
 | **218842** | **1250/QĐ-TTg** (y học cổ truyền) ⭐ **MỚI** |
@@ -370,7 +370,7 @@ Quét vanban.chinhphu.vn dải docid 218840–219000 (step 5 × 33 docid) + dả
 | 218836 | **29/2026/TT-BNNMT** (địa chấn biển) ⭐ |
 | 218837 | **30/2026/TT-BYT** (nhãn thực phẩm, 09/7/2026) ⭐ |
 | 218838 | **58/2026/TT-BXD** (đăng kiểm tàu biển, 08/7/2026) ⭐ |
-| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ ĐÃ CRAWL ✅ |
+| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ **CẦN REFACTOR** ⚠️ |
 | **218840** | **1074/QĐ-BXD** (PCCC, 02/7/2026) ⭐ **MỚI** |
 | 218841–219000 | **(TRỐNG HOÀN TOÀN)** |
 | 240000–250000 | **(TRỐNG HOÀN TOÀN — 201 docid)** |
