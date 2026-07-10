@@ -279,3 +279,216 @@
 
 *Lần cập nhật tiếp theo: khoảng 11/07/2026 hoặc khi có văn bản mới ban hành sau 10/07/2026.*
 *Đệ #1 Discovery lần 50 — github-io workspace*
+
+---
+
+## ĐỆ #1 DISCOVERY LẦN 57 (2026-07-10T11:00 GMT+7)
+
+> **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-10T11:00 GMT+7
+> Nguồn quét: vanban.chinhphu.vn (docid HTML meta description), luatvietnam.vn (direct page)
+> Dải quét: 218000–218843
+
+---
+
+### TÓM TẮT
+
+- Tổng docid xác minh trong lần quét này: **7 văn bản mới (docid xác nhận)**
+- Trong đó đã có trong tracking: **0** (chương trình bổ sung)
+- Nguồn: vanban.chinhphu.vn (meta description extraction), luatvietnam.vn
+
+---
+
+### VĂN BẢN XÁC MINH DOCID — ƯU TIÊN CAO (7)
+
+### 1. Thông tư 29/2026/TT-BNNMT — Đo địa chấn đa kênh trên biển
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 29/2026/TT-BNNMT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Nông nghiệp và Môi trường |
+| **Ban hành** | Chưa xác minh (docid đã xác nhận) |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Địa chất, Khoáng sản, Dầu khí, Biển |
+| **Docid** | 218836 (vanban.chinhphu.vn ✅) |
+| **Trích yếu** | Quy định kỹ thuật công tác đo địa chấn phản xạ đa kênh trên biển trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản |
+| **Ghi chú** | Liên quan đến hoạt động dầu khí ngoài khơi. Cần crawl chi tiết. |
+
+---
+
+### 2. Thông tư 30/2026/TT-BYT — Nhãn thực phẩm (thành phần dinh dưỡng)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 30/2026/TT-BYT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Y tế |
+| **Ban hành** | Chưa xác minh |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Y tế, Thực phẩm, Nhãn mác |
+| **Docid** | 218837 (vanban.chinhphu.vn ✅) |
+| **Trích yếu** | Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm |
+| **Ghi chú** | Ứng dụng thực tế cao. Cần crawl chi tiết. |
+
+---
+
+### 3. Thông tư 58/2026/TT-BXD — Đăng kiểm tàu biển Việt Nam
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 58/2026/TT-BXD |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Xây dựng |
+| **Ban hành** | Chưa xác minh |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Hàng hải, Đăng kiểm, Tàu biển |
+| **Docid** | 218838 (vanban.chinhphu.vn ✅) |
+| **Trích yếu** | Quy định về đăng kiểm tàu biển Việt Nam |
+| **Ghi chú** | Cần xác minh ngày ban hành, xem có thay thế Thông tư nào không. |
+
+---
+
+### 4. Thông tư 90/2026/TT-BTC — Đăng ký thuế
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 90/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | Chưa xác minh |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Thuế, Đăng ký kinh doanh |
+| **Docid** | 218839 (vanban.chinhphu.vn ✅) |
+| **Trích yếu** | Quy định về đăng ký thuế |
+| **Ghi chú** | Ứng dụng rất rộng. Cần crawl chi tiết. Priority: cao. |
+
+---
+
+### 5. Quyết định 1248/QĐ-TTg — Bộ tiêu chí đánh giá công nghiệp hóa, hiện đại hóa
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 1248/2026/QĐ-TTg |
+| **Loại** | Quyết định của Thủ tướng Chính phủ |
+| **Cơ quan** | Thủ tướng Chính phủ |
+| **Ban hành** | Chưa xác minh (trong danh sách tracking, đã có docid) |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Công nghiệp hóa, Kinh tế |
+| **Docid** | 218834 (vanban.chinhphu.vn ✅) |
+| **Trích yếu** | Ban hành Bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa cấp quốc gia, cấp ngành và địa phương |
+| **Ghi chú** | Chính sách cấp quốc gia. Cần crawl. |
+
+---
+
+### 6. Nghị định 275/2026/NĐ-CP — Xử phạt HC & VLN công nghiệp
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 275/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 08/07/2026 (luatvietnam.vn đã xác nhận) |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Xử phạt hành chính, Hóa chất, Vật liệu nổ |
+| **Docid** | 218835 (vanban.chinhphu.vn ✅) |
+| **Nguồn** | vanban.chinhphu.vn, luatvietnam.vn |
+| **Trích yếu** | Quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp |
+| **Ghi chú** | Cần crawl chi tiết. Tiếp nối chuỗi Nghị định xử phạt theo lĩnh vực. |
+
+---
+
+### 7. Thông tư 31/2026/TT-BXD — Sửa đổi QCVN 04:2021/BXD (Nhà chung cư)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 31/2026/TT-BXD |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Xây dựng |
+| **Ban hành** | Chưa xác minh (trong danh sách tracking) |
+| **Hiệu lực** | Chưa xác minh |
+| **Chủ đề** | Xây dựng, Nhà chung cư, Quy chuẩn kỹ thuật |
+| **Docid** | 218513 (vanban.chinhphu.vn ✅) |
+| **Trích yếu** | Ban hành Sửa đổi 01:2026 QCVN 04:2021/BXD Quy chuẩn kỹ thuật quốc gia về Nhà chung cư |
+| **Ghi chú** | Ảnh hưởng trực tiếp đến ngành xây dựng và bất động sản. Cần crawl chi tiết. |
+
+---
+
+### BẢN ĐỒ DOCID MỚI NHẤT (218800–218843)
+
+| Docid | Văn bản | Ghi chú |
+|-------|---------|---------|
+| 218800 | 263/2026/NĐ-CP — Khu nông nghiệp CNC | |
+| 218801 | 273/2026/NĐ-CP — Kinh doanh hàng miễn thuế | |
+| 218802 | 180/NQ-CP — Phiên họp Chính phủ tháng 6/2026 | |
+| 218803 | CT 348/CTPH — Tuyên truyền nông lâm thủy sản chất lượng | Chương trình phối hợp |
+| 218804 | 96/2026/TT-BTC — Sửa đổi TT kinh doanh bảo hiểm | |
+| 218805 | 357/TB-VPCP — Kết luận Phó Thủ tướng Hồ Quốc Dũng | Nông thôn mới |
+| 218806 | 07/2026/UBTVQH16 — Điều chỉnh chương trình lập pháp | UBTVQH |
+| 218807 | 274/2026/NĐ-CP — Đấu thầu lựa chọn nhà đầu tư | **Ưu tiên cao** |
+| 218808 | 267/2026/NĐ-CP — Kỷ luật & bồi thường lãng phí | |
+| 218809 | 45/CĐ-TTg — Tìm kiếm, quy tập hài cốt liệt sĩ | Công điện |
+| 218810 | 1242/QĐ-TTg — Quy hoạch Bắc Ninh 2050 | |
+| 218811 | 18/2026/TT-BVHTTDL — Bảo tàng công lập | |
+| 218812 | 02/2026/TT-TTCP — Đánh giá trách nhiệm giải trình | |
+| 218813 | 09/2026/TT-VKSTC — Biểu mẫu tương trợ tư pháp | |
+| 218814 | 29/2026/TT-BYT — Công tác xã hội | (Note: 2x 29/TT-BYT) |
+| 218815 | 35/2026/TT-NHNN — Sửa đổi thư tín dụng, bảo lãnh | |
+| 218816 | 36/2026/TT-NHNN — Điều hành CSTT, tổ chức bộ máy | |
+| 218817 | 38/2026/TT-BKHCN — Cơ sở ươm tạo CNC | |
+| 218818 | 48/2026/TT-BXD — Vận tải hàng không | |
+| 218819 | 57/2026/TT-BXD — Kiểm định dầu khí trên biển | |
+| 218820 | 84/2026/TT-BTC — Hoàn thuế VAT khách nước ngoài | |
+| 218821 | 86/2026/TT-BTC — Quản lý thuế XNK | |
+| 218822 | 92/2026/TT-BTC — Tương trợ tư pháp dân sự | |
+| 218823–218831 | VBHN 58–66/VBHN-TT-BCT | Quy chuẩn kỹ thuật BCT |
+| 218832 | 276/2026/NĐ-CP — Chức năng Bộ Nội vụ | **Mới xác nhận** |
+| 218833 | 34/2026/QĐ-TTg — Phơi nhiễm HIV | luatvietnam: Hiệu lực 01/03/2027 |
+| 218834 | 1248/QĐ-TTg — Bộ tiêu chí CNH-HĐH | |
+| 218835 | 275/2026/NĐ-CP — Xử phạt HC & VLN | luatvietnam: 08/07/2026 |
+| 218836 | 29/2026/TT-BNNMT — Đo địa chấn trên biển | |
+| 218837 | 30/2026/TT-BYT — Nhãn thực phẩm | |
+| 218838 | 58/2026/TT-BXD — Đăng kiểm tàu biển | |
+| 218839 | 90/2026/TT-BTC — Đăng ký thuế | |
+| 218840 | 1074/QĐ-BXD — An toàn PCCC công trình cũ | |
+| 218841–218843 | Placeholder (trống) | |
+| 218844–219000 | Placeholder (trống) | Chưa index |
+
+---
+
+### TÌNH TRẠNG VĂN BẢN ƯU TIÊN CAO
+
+| Số văn bản | Tình trạng | Ghi chú |
+|-----------|-----------|---------|
+| **14/NQ-CP** | ❌ KHÔNG TÌM THẤY | Đã quét 218000–218843 + 218000–218490 (số 14/NQ): KHÔNG CÓ. Luatvietnam slug 424038 đã 404. Có thể chưa ban hành hoặc bị thu hồi. |
+| **277–280/NĐ-CP** | ❌ Chưa index | Chưa tìm thấy trên vanban. |
+| **89–100/TT-BTC** | ❌ Chưa index | vanban 218840+ placeholder. |
+| **214/2026/NĐ-CP** | ✅ docid 218498 | Xử phạt trồng trọt, BVTV |
+| **215/2026/NĐ-CP** | ✅ docid 218499 | An ninh hàng không |
+| **274/2026/NĐ-CP** | ✅ docid 218807 | Đấu thầu nhà đầu tư |
+| **29/2026/TT-BNNMT** | ✅ docid 218836 | Địa chất trên biển |
+| **30/2026/TT-BYT** | ✅ docid 218837 | Nhãn thực phẩm |
+| **58/2026/TT-BXD** | ✅ docid 218838 | Đăng kiểm tàu biển |
+| **90/2026/TT-BTC** | ✅ docid 218839 | Đăng ký thuế |
+| **31/2026/TT-BXD** | ✅ docid 218513 | QCVN 04 nhà chung cư |
+| **76–78/TT-BQP** | ✅ docid 218517–218519 | Thi hành án hình sự QP |
+| **81/TT-BQP** | ✅ docid 218520 | Định mức quà gửi giam giữ |
+| **34/QĐ-TTg** | ✅ docid 218833 | HIV, hiệu lực 01/03/2027 |
+| **1248/QĐ-TTg** | ✅ docid 218834 | CNH-HĐH quốc gia |
+| **276/NĐ-CP** | ✅ docid 218832 | Bộ Nội vụ |
+| **275/NĐ-CP** | ✅ docid 218835 | Xử phạt HC&VLN, 08/07 |
+
+---
+
+### NHẬN XÉT TỔNG QUAN
+
+1. **14/NQ-CP — KHÔNG TỒN TẠI trên vanban.chinhphu.vn**: Đã quét rộng khắp 218000–218843 (490 docid đã xác nhận nội dung), không tìm thấy bất kỳ Nghị quyết nào ghi số 14. Có thể: (a) chưa ban hành thực sự, (b) luatvietnam slug 424038 đã 404 là do link cũ, hoặc (c) là Nghị quyết của cơ quan khác không thuộc vanban CP.
+2. **Thông tư 30/2026/TT-BYT — Nhãn thực phẩm**: Có ứng dụng rộng, ảnh hưởng trực tiếp đến doanh nghiệp sản xuất thực phẩm. Ưu tiên crawl chi tiết.
+3. **Thông tư 90/2026/TT-BTC — Đăng ký thuế**: Cần xác minh ngày ban hành, ưu tiên cao.
+4. **Thông tư 31/2026/TT-BXD — Sửa QCVN 04 nhà chung cư**: Tác động lớn đến ngành BĐS và xây dựng.
+5. **vanban hiện tại**: Dải 218841–219000 hoàn toàn placeholder, chưa có văn bản mới nào index. Nhịp ban hành hàng ngày của Chính phủ có thể đã chậm lại sau đợt 01/07.
+
+---
+
+*Lần cập nhật tiếp theo: khoảng 12/07/2026 hoặc khi có văn bản mới trong dải 219000+.*
+*Đệ #1 Discovery lần 57 — github-io workspace*
