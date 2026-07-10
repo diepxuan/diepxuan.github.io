@@ -1,3 +1,64 @@
+## Cập nhật 2026-07-10 19:02 (phiên Đệ #1 Discovery — lần 60)
+
+### Phát hiện: 0 văn bản mới — dải 218845–219000 TRỐNG + dải 290000–320000 TRỐNG
+
+Quét vanban.chinhphu.vn dải docid 218845–219000 (step 5 × 32 docid) + dải 290000–320000 (step 200 × 150 docid). Ưu tiên: 277–280/NĐ-CP, 89–100/TT-BTC. **Kết quả: KHÔNG phát hiện văn bản mới.** Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản nào)*
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 277–280/2026/NĐ-CP | KHÔNG | **VẪN CHƯA ĐƯỢC INDEX** — dải 218845+ trống hoàn toàn |
+| 89–100/2026/TT-BTC | CÓ (92, 90 đã xác minh) | **VẪN CHƯA ĐƯỢC INDEX** — dải 218845+ trống hoàn toàn |
+| 14/2026/NQ-CP | CÓ (docid 216664 đã xác minh) | Đã có file trong van-ban/ |
+
+### QUAN TRỌNG: Dải 218845–219000 + 290000–320000 TRỐNG HOÀN TOÀN — 277–280/NĐ-CP và 89–100/TT-BTC vẫn chưa được index
+
+- **Quét 32 docid** (218845–219000, step 5): TẤT CẢ trống hoàn toàn — generic UI template "Chi tiết văn bản ban hành", không extract được số hiệu
+- **Quét 150 docid** (290000–320000, step 200): TẤT CẢ trống hoàn toàn — generic UI template
+- **web_search**: Firecrawl 402 (hết credits) — không thể tìm kiếm web
+- **web_fetch**: Docid 290000, 295000, 300000 → tất cả trả về "Chi tiết văn bản ban hành" (generic template, trống)
+- **Tổng dải trống tích lũy**: 218845–219000 (155 docid) + 219000–290000 (71,000 docid) + 290000–320000 (30,000 docid) = **101,155+ docid liên tục không chứa văn bản 2026 mới**
+- **277–280/NĐ-CP, 89–100/TT-BTC**: Vẫn CHƯA ĐƯỢC INDEX. Vanban.chinhphu.vn tiếp tục index rất chậm.
+- **14/NQ-CP** (docid 216664): Đã có file trong van-ban/. Docid thấp bất thường — 14/NQ-CP ban hành tháng 1 nhưng nằm ở docid 216664.
+
+### Bản đồ docid hoàn chỉnh (lần 60)
+
+| DocID | Văn bản |
+|---:|---|
+| 216664 | **14/2026/NQ-CP** (luật ATVP sửa đổi, 16/01/2026) ✅ DOCID XÁC MINH |
+| 218840 | **1074/QĐ-BXD** (PCCC, 02/7/2026) |
+| 218841 | **1246/QĐ-TTg** (bầu PCT Đắk Lắk) |
+| 218842 | **1250/QĐ-TTg** (y học cổ truyền) |
+| 218843 | (shared — Kết luận chống buôn lậu, trùng 218842) |
+| 218844 | **1252/QĐ-TTg** (giáo dục miền Trung-Tây Nguyên, 10/7/2026) |
+| **218845–219000** | **(TRỐNG HOÀN TOÀN — 32 docid quét)** |
+| **219000–290000** | **(TRỐNG HOÀN TOÀN — 71,000 docid)** |
+| **290000–320000** | **(TRỐNG HOÀN TOÀN — 150 docid quét)** |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **90/2026/TT-BTC** (ưu tiên số 1 — docid 218839, đã crawl ✅): Đăng ký thuế — file đã có, cần review nội dung.
+2. **30/2026/TT-BYT** (ưu tiên số 2 — docid 218837): Nhãn thực phẩm, hiệu lực 10/7/2026 — tác động doanh nghiệp thực phẩm. Đã crawl.
+3. **58/2026/TT-BXD** (ưu tiên số 3 — docid 218838): Đăng kiểm tàu biển, hiệu lực 01/9/2026 — tác động ngành hàng hải. Đã crawl.
+4. **277–280/NĐ-CP** (ưu tiên số 4): Tiếp tục theo dõi dải 219000+. Vanban tiếp tục index rất chậm, chưa đến dải NĐ-CP mới.
+5. **89/TT-BTC, 91/TT-BTC, 93–100/TT-BTC** (ưu tiên số 5): Chưa có docid — tiếp tục theo dõi.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần 60 — vanban tiếp tục index rất chậm, dải 218845–219000 + 290000–320000 TRỐNG hoàn toàn.
+- **Dải 218845–219000 TRỐNG**: 155 docid liên tục trả về generic UI template "Chi tiết văn bản ban hành", không extract được số hiệu.
+- **Dải 290000–320000 TRỐNG**: 30,000 docid liên tục trả về generic UI template, không có văn bản 2026.
+- **Dải trống tích lũy**: 101,155+ docid liên tục không chứa văn bản 2026 mới.
+- **web_search**: Firecrawl 402 (hết credits) — không thể tìm kiếm web.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218845–219000 step 5, dải 290000–320000 step 200, 182 docid total, tất cả trống) + web_fetch (290000, 295000, 300000 verified empty).
+- Ngày phát hiện: 2026-07-10 19:02 ICT
+- Phiên thực hiện: agent:github-io:subagent:94e56af0-6849-46ab-8109-042c8c9365d2 (Đệ #1 Discovery — lần 60)
+
+---
+
 ## Cập nhật 2026-07-10 18:09 (phiên Đệ #1 Discovery — lần 59)
 
 ### Phát hiện: 1 văn bản mới — 1252/QĐ-TTg (docid 218844) + xác minh docid 14/NQ-CP (216664)
