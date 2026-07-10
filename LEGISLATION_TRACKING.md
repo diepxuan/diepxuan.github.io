@@ -56,9 +56,7 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-07T15:32 GMT+7
-> **Đệ #2 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-11T05:02 GMT+7
+> Phiên bản: 2026-07-11T03:25 GMT+7
 > Nguồn quét: vanban.chinhphu.vn, datafiles.chinhphu.vn, web_search Brave
 > Dải docid: 218700–218850 | Tháng 7/2026
 > Ngưỡng: Ban hành sau 05/07/2026
@@ -70,6 +68,7 @@
 - **Tổng văn bản phát hiện lần này: 5 (276, 275, 274, 273, 272/2026/NĐ-CP)**
 - **Văn bản đã có trong tracking lần trước: 0**
 - Nguồn xác nhận: vanban.chinhphu.vn, thuvienphapluat.vn, luatvietnam.vn, baochinhphu.vn, giaoducthoidai.vn
+- Bổ sung lần này: **+2** văn bản mới phát hiện (206 & 209/2026/NĐ-CP)
 
 ---
 
@@ -222,6 +221,47 @@
 
 ---
 
+## VĂN BẢN BỔ SUNG (Đệ #1 lần 44 — 2026-07-11)
+
+### 6. Nghị định 206/2026/NĐ-CP — Quản lý chi phí đầu tư xây dựng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 206/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 15/06/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Người ký** | Phạm Gia Túc |
+| **Chủ đề** | Xây dựng, Đầu tư |
+| **Docid** | 218454 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?docid=218454&pageid=27160 |
+| **Trích yếu** | Quy định chi tiết về quản lý chi phí đầu tư xây dựng |
+| **Căn cứ** | Luật Xây dựng 2025 (135/2025/QH15); thay thế Nghị định 10/2021/NĐ-CP |
+| **Ghi chú** | Đồng loạt có hiệu lực 01/07/2026 với 29 Luật mới; cần crawl toàn văn từ 206-ndcp.signed.pdf; trạng thái Chưa hoàn thiện |
+
+---
+
+### 7. Nghị định 209/2026/NĐ-CP — Quản lý vật liệu xây dựng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 209/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 15/06/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Người ký** | Phạm Gia Túc |
+| **Chủ đề** | Xây dựng, Vật liệu xây dựng |
+| **Docid** | 218449 (vanban.chinhphu.vn) |
+| **Nguồn** | vanban.chinhphu.vn/?docid=218449&pageid=27160; luatvietnam.vn |
+| **Trích yếu** | Quy định chi tiết một số điều và biện pháp thi hành Luật Xây dựng về quản lý vật liệu xây dựng |
+| **Số Điều** | 19 điều |
+| **Căn cứ** | Luật Xây dựng 2025 (135/2025/QH15); Điều 8, Khoản 4 Điều 11 |
+| **Ghi chú** | Ưu tiên sử dụng vật liệu xanh, vật liệu tái chế; cần crawl toàn văn từ 209-ndcp.signed.pdf; trạng thái Chưa hoàn thiện |
+
+---
+
 ## GHI CHÉP KHÁC — VĂN BẢN ĐANG CHỜ XÁC MINH
 
 | Số văn bản | Chủ đề | Ghi chú |
@@ -255,4 +295,5 @@
 *Đệ #1 Discovery — github-io workspace*
 *Lần cập nhật tiếp theo: khoảng 12/07/2026 hoặc khi có văn bản mới ban hành sau 09/07/2026.*
 *Đệ #3 Discovery — 11/07/2026 — github-io workspace*
+
 
