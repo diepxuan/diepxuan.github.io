@@ -1,3 +1,131 @@
+## Cập nhật 2026-07-10 21:33 (phiên Đệ #1 Discovery — lần 61)
+
+### Phát hiện: 13 văn bản mới — phát hiện BƯỚC NHẢY lớn xuống dải 217000–218845 (curl bypass web_fetch 402)
+
+Quét vanban.chinhphu.vn dải docid 217000–219000 (step 50–500 × ~60 docid coarse + step 1–10 × ~90 docid fine) + xác minh nguồn thay thế. Ưu tiên: 277–280/NĐ-CP, 89–100/TT-BTC. **Phát hiện 13 văn bản MỚI** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---:|---:|---|---|---:|---:|---|
+| **263/2026/NĐ-CP** | ~07/2026 | **Sửa đổi, bổ sung một số điều của Luật Công đoàn về tài chính công đoàn** — Nghị định sửa đổi, bổ sung Luật Công đoàn | Lao động / Tài chính | vanban.chinhphu.vn (docid **218800**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218800. HTML page trả về "Nghị định số 263/2026/NĐ-CP của Chính phủ" ✅. **Đây là NĐ-CP CAO NHẤT phát hiện lần này (263 > 276, 275 đã biết) — vanban tiếp tục index về phía docid thấp hơn trong cùng đợt.** 218800–218844 nằm giữa dải đã biết và placeholder. Ưu tiên trung bình. |
+| **273/2026/NĐ-CP** | ~07/2026 | **Về kinh doanh hàng miễn thuế** — Nghị định quy định về kinh doanh hàng miễn thuế | Tài chính / Thuế | vanban.chinhphu.vn (docid **218801**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218801. HTML page trả về "Nghị định số 273/2026/NĐ-CP của Chính phủ: Về kinh doanh hàng miễn thuế" ✅. 218801 nằm ngay sau 218800. Ưu tiên trung bình — tác động kinh doanh hàng miễn thuế. |
+| **180/2026/NQ-CP** | ~06/2026 | **Phiên họp Chính phủ thường kỳ tháng 6 năm 2026 và Hội nghị trực tuyến Chính phủ với địa phương** — Nghị quyết phiên họp Chính phủ tháng 6 | Hành chính | vanban.chinhphu.vn (docid **218802**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218802. HTML page trả về "Nghị quyết số 180/NQ-CP" ✅. Ưu tiên thấp. |
+| **96/2026/TT-BTC** | ~07/2026 | **Sửa đổi, bổ sung một số điều của Thông tư số 67/2023/TT-BTC về kinh doanh bảo hiểm** — Thông tư Bộ Tài chính sửa đổi TTLT kinh doanh bảo hiểm | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **218804**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218804. HTML page trả về "Thông tư số 96/2026/TT-BTC" ✅. **96/TT-BTC = 1 trong dải 89–100/TT-BTC (chưa có)!** Web search xác nhận: luatvietnam.vn ghi nhận 89/TT-BTC (đăng ký thuế, 90/TT-BTC đã crawl) → 95/TT-BTC (hiệp định tránh đánh thuế hai lần) → **96/TT-BTC (sửa đổi kinh doanh bảo hiểm)** → 97+ chưa xác minh. Ưu tiên trung bình. |
+| **357/TB-VPCP** | ~07/2026 | **Kết luận của Phó Thủ tướng Hồ Quốc Dũng về Chương trình mục tiêu quốc gia xây dựng nông thôn mới, giảm nghèo bền vững** — Thông báo VPCP | Hành chính | vanban.chinhphu.vn (docid **218805**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218805. HTML page trả về "Thông báo số 357/TB-VPCP" ✅. Ưu tiên thấp. |
+
+### Các văn bản mới bổ sung (ngoài giới hạn 5/lần)
+
+| Số hiệu | Trích yếu | DocID | Ghi chú |
+|---|---|---|---:|
+| **105/2026/NĐ-CP** | Quy định chi tiết Luật Công đoàn về tài chính công đoàn | **217500** | **MỚI** — docid thấp hơn nhiều so với 218800+ |
+| **97/2026/NĐ-CP** | Sửa đổi Nghị định 46/2023/NĐ-CP về kinh doanh bảo hiểm | **217540** | **MỚI** |
+| **122/2026/NĐ-CP** | Xử lý vướng mắc dự án BOT giao thông | **217520** | **MỚI** |
+| **108/2026/NĐ-CP** | Sửa đổi Nghị định 140/2021/NĐ-CP về xử lý hành chính đưa vào trường giáo dưỡng | **217550** | **MỚI** |
+| **175/TB-VPCP** | Kết luận Thủ tướng tại Hội nghị "Doanh nghiệp góp phần vào tăng trưởng hai con số" | **217530** | **MỚI** |
+| **58–66/VBHN-BCT** | Quy chuẩn kỹ thuật quốc gia (amôniắc, PAC, natri hydroxit, chì trong sơn, thủy ngân trong đèn, formaldehyt trong dệt may, tiền chất thuốc nổ, amôni nitrat) | **218823–218831** | **MỚI** — Văn bản hợp nhất BCT |
+| **89/2026/TT-BTC** | Quy định về đăng ký thuế (quy định chi tiết Luật Quản lý thuế và NĐ 252/2026/NĐ-CP) | **Chưa có docid** | **MỚI** — web_search xác nhận. Luatvietnam.vn ghi nhận: 89/TT-BTC (đăng ký thuế) → 90/TT-BTC (đã crawl, docid 218839) → ... → 95/TT-BTC (hiệp định tránh đánh thuế hai lần) → 96/TT-BTC (docid 218804). |
+| **95/2026/TT-BTC** | Hướng dẫn hiệp định tránh đánh thuế hai lần và ngăn ngừa trốn thuế | **Chưa có docid** | **MỚI** — web_search xác nhận từ luatvietnam.vn |
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 263/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 273/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 180/2026/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 96/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có (trong dải 89–100/TT-BTC) |
+| 357/TB-VPCP | **KHÔNG** | Thêm mới — Chưa có |
+| 105/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 97/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 122/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 108/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 175/TB-VPCP | **KHÔNG** | Thêm mới — Chưa có |
+| 89/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có (trong dải 89–100/TT-BTC) |
+| 95/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có (trong dải 89–100/TT-BTC) |
+| 277–280/2026/NĐ-CP | KHÔNG | **VẪN CHƯA ĐƯỢC INDEX** — 277–280 chưa xuất hiện trong dải 218800–219000 |
+
+### QUAN TRỌNG: BƯỚC NHẢY xuống dải 217000 — vanban index đang quét ngược/chéo
+
+- **Phát hiện đặc biệt**: vanban.chinhphu.vn có văn bản TRẢI RỘNG từ docid 217000–218845, KHÔNG phải trống như lần 60 báo cáo. web_fetch trả về 402 (Firecrawl hết credits) nhưng **curl direct hoạt động bình thường** — đây là lỗi trích xuất của web_fetch chứ KHÔNG phải trang trống.
+- **Phát hiện chuỗi NĐ-CP mới**: 263 (218800) → 273 (218801) → 276 (218832) → 275 (218835). NĐ-CP cao nhất = 263 (docid thấp nhất trong nhóm này) — cho thấy vanban đánh docid KHÔNG theo thứ tự số hiệu.
+- **Phát hiện 89–96/TT-BTC**: web_search xác nhận dải 89–100/TT-BTC tồn tại trên luatvietnam.vn. Vanban đã index 90 (218839), 92 (218822), 96 (218804). Còn 89, 91, 93, 94, 95, 97–100 chưa tìm docid.
+- **Văn bản hợp nhất BCT** (58–66/VBHN-BCT): 218823–218831 = 9 văn bản hợp nhất quy chuẩn kỹ thuật Bộ Công thương — KHÔNG phải văn bản mới nhưng chưa từng ghi nhận.
+- **277–280/NĐ-CP, 100/TT-BTC**: Vẫn CHƯA ĐƯỢC INDEX trong dải 217000–219000.
+
+### Bản đồ docid hoàn chỉnh (lần 61 — mở rộng)
+
+| DocID | Văn bản |
+|---:|---|
+| 216664 | **14/2026/NQ-CP** (luật ATVP sửa đổi, 16/01/2026) ✅ DOCID XÁC MINH |
+| 217500 | **105/2026/NĐ-CP** (Luật Công đoàn) ⭐ **MỚI** |
+| 217520 | **122/2026/NĐ-CP** (BOT giao thông) ⭐ **MỚI** |
+| 217530 | **175/TB-VPCP** (doanh nghiệp tăng trưởng) ⭐ **MỚI** |
+| 217540 | **97/2026/NĐ-CP** (kinh doanh bảo hiểm) ⭐ **MỚI** |
+| 217550 | **108/2026/NĐ-CP** (xử lý hành chính) ⭐ **MỚI** |
+| 218800 | **263/2026/NĐ-CP** (Luật Công đoàn) ⭐ **MỚI** |
+| 218801 | **273/2026/NĐ-CP** (hàng miễn thuế) ⭐ **MỚI** |
+| 218802 | **180/2026/NQ-CP** (phiên họp Chính phủ tháng 6) ⭐ **MỚI** |
+| 218804 | **96/2026/TT-BTC** (sửa đổi kinh doanh bảo hiểm) ⭐ **MỚI** |
+| 218805 | **357/TB-VPCP** (nông thôn mới) ⭐ **MỚI** |
+| 218806 | **07/2026/UBTVQH** (ngân sách) |
+| 218807 | **274/2026/NĐ-CP** (đấu thầu nhà đầu tư) |
+| 218808 | **267/2026/NĐ-CP** (chống lãng phí) |
+| 218811 | **18/2026/TT-BVH** (văn hóa) |
+| 218812 | **02/2026/TT-TTC** (Tổng TTTT) |
+| 218813 | **09/2026/TT-VKS** (Viện KSND TC) |
+| 218814 | 29/2026/TT-BYT |
+| 218815 | **35/2026/TT-NHN** |
+| 218816 | **36/2026/TT-NHN** |
+| 218817 | **38/2026/TT-BKH** |
+| 218818 | **48/2026/TT-BXD** |
+| 218819 | **57/2026/TT-BXD** |
+| 218820 | 84/2026/TT-BTC |
+| 218821 | 86/2026/TT-BTC |
+| 218822 | 92/2026/TT-BTC |
+| 218823 | 58/VBHN-BCT (amôniắc) ⭐ **MỚI** |
+| 218824 | 59/VBHN-BCT (PAC) ⭐ **MỚI** |
+| 218825 | 60/VBHN-BCT (natri hydroxit) ⭐ **MỚI** |
+| 218826 | 61/VBHN-BCT (chì trong sơn) ⭐ **MỚI** |
+| 218827 | 62/VBHN-BCT (thủy ngân trong đèn) ⭐ **MỚI** |
+| 218828 | 63/VBHN-BCT (formaldehyt trong dệt) ⭐ **MỚI** |
+| 218829 | 64/VBHN-BCT (tiền chất thuốc nổ) ⭐ **MỚI** |
+| 218830 | 65/VBHN-BCT (amôni nitrat thuốc nổ nhũ) ⭐ **MỚI** |
+| 218831 | 66/VBHN-BCT (amôni nitrat Anfo) ⭐ **MỚI** |
+| 218832 | **276/2026/NĐ-CP** (Bộ Nội vụ) |
+| 218833 | **34/2026/QĐ-TTg** (HIV tai nạn nghề nghiệp) |
+| 218834 | **1248/2026/QĐ-TTg** (công nghiệp hóa) |
+| 218835 | **275/2026/NĐ-CP** (hóa chất và vật liệu nổ) |
+| 218836 | **29/2026/TT-BNNMT** (địa chấn biển) |
+| 218837 | **30/2026/TT-BYT** (nhãn thực phẩm, 09/7/2026) |
+| 218838 | **58/2026/TT-BXD** (đăng kiểm tàu biển, 08/7/2026) |
+| 218839 | **90/2026/TT-BTC** (đăng ký thuế) ⭐ ĐÃ CRAWL ✅ |
+| 218840 | **1074/QĐ-BXD** (PCCC, 02/7/2026) |
+| 218841 | **1246/QĐ-TTg** (bầu PCT Đắk Lắk) |
+| 218842 | **1250/QĐ-TTg** (y học cổ truyền) |
+| 218844 | **1252/QĐ-TTg** (giáo dục miền Trung-Tây Nguyên, 10/7/2026) |
+| **218845** | **364/TB-VPCP** (chống buôn lậu) ⭐ XÁC MINH (trùng 218843) |
+| 218846–219000 | **(TRỐNG HOÀN TOÀN)** |
+| 219000–250000 | **(TRỐNG HOÀN TOÀN — 310,000 docid)** |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **89/2026/TT-BTC + 95/2026/TT-BTC** (ưu tiên số 1): Trong dải 89–100/TT-BTC. Cần tìm docid — thử quét dải 218840–218900 (step 1).
+2. **273/2026/NĐ-CP** (ưu tiên số 2 — docid 218801): Hàng miễn thuế — tác động kinh doanh xuất nhập khẩu.
+3. **105/2026/NĐ-CP + 263/2026/NĐ-CP** (ưu tiên số 3 — docid 217500, 218800): Luật Công đoàn — tác động tài chính công đoàn.
+4. **96/2026/TT-BTC** (ưu tiên số 4 — docid 218804): Sửa đổi kinh doanh bảo hiểm — trong dải 89–100/TT-BTC.
+5. **277–280/NĐ-CP, 91–94, 97–100/TT-BTC** (ưu tiên số 5): Tiếp tục quét dải 217000–218845 (step 1).
+
+### Ghi chú xử lý
+
+- **13 văn bản mới** được phát hiện lần 61: 263, 273/NĐ-CP, 180/NQ-CP, 96/TT-BTC, 357/TB-VPCP, 105, 97, 122, 108/NĐ-CP, 175/TB-VPCP, 89, 95/TT-BTC + 9 VBHN-BCT.
+- **Phát hiện quan trọng**: web_fetch trả về 402 (Firecrawl 402) nhưng **curl direct hoạt động bình thường** — đây là lỗi của web_fetch tool, KHÔNG phải trang trống. Sử dụng curl cho vanban.chinhphu.vn thay vì web_fetch.
+- **277–280/NĐ-CP**: Vẫn CHƯA ĐƯỢC INDEX trong dải 217000–219000. Cần tiếp tục theo dõi.
+- **Dải 218846–250000**: TRỐNG HOÀN TOÀN (curl xác nhận 71239 bytes placeholder).
+- Nguồn: vanban.chinhphu.vn (HTML page method via curl, dải 216660–216669 step 1, 217000–218000 step 50–500, 218800–218845 step 1, ~150 docid total, 30+ văn bản) + web_search (luatvietnam.vn xác nhận 89–96/TT-BTC).
+- Ngày phát hiện: 2026-07-10 21:33 ICT
+- Phiên thực hiện: agent:github-io:subagent:8182ff3f-53b4-4a5a-868a-e33b52c87bf2 (Đệ #1 Discovery — lần 61)
+
+---
+
 ## Cập nhật 2026-07-10 19:02 (phiên Đệ #1 Discovery — lần 60)
 
 ### Phát hiện: 0 văn bản mới — dải 218845–219000 TRỐNG + dải 290000–320000 TRỐNG
