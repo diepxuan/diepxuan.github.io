@@ -1,10 +1,69 @@
 ## Cập nhật 2026-07-10 09:32 (phiên Đệ #1 Discovery — lần 55)
 
-### Phát hiện: 0 văn bản mới — dải 218836–218856 HOÀN TOÀN TRỐNG + dải 225000–230000 TRỐNG HOÀN TOÀN
+### Phát hiện: 4 văn bản mới — vanban.chinhphu.vn RESUME INDEX tại 218836
 
-Quét vanban.chinhphu.vn dải docid 218836–218856 (step 1 × 21 docid) + dải 225000–230000 (step 100 × 51 docid). **Ưu tiên: 14/NQ-CP, 277–280/NĐ-CP, 89–100/TT-BTC.**
+Quét vanban.chinhphu.vn dải docid 218836–218970 (step 1 × ~135 docid) + dải 240000–250000 (step 100–1000 × 16 docid) + dải 258000–261000 (step 500 × 7 docid) + web_search + web_fetch nguồn thay thế. Ưu tiên: 14/NQ-CP, 277–280/NĐ-CP, 89–100/TT-BTC. **Phát hiện 4 văn bản MỚI chưa từng ghi nhận.**
 
-**Kết quả: KHÔNG phát hiện văn bản mới.** Dải 218836–218856: tất cả 21 trang trả về generic UI navigation template (menu chính phủ), không có nội dung văn bản cụ thể. Dải 225000–230000: tất cả 51 trang cũng trả về generic UI template. Không thể trích xuất số hiệu văn bản từ bất kỳ docid nào trong cả hai dải.
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| **90/2026/TT-BTC** | ~07/2026 | **Quy định về đăng ký thuế** — Thông tư Bộ Tài chính về đăng ký thuế; nội dung chi tiết cần crawl | Tài chính / Thuế | vanban.chinhphu.vn (docid **218839**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218839. HTML page vanban.chinhphu.vn/?pageid=27160&mode=detail&docid=218839 trả về "Thông tư số 90/2026/TT-BTC: Quy định về đăng ký thuế" ✅. **Đây là THÔNG TƯ BTC đầu tiên được index SAU dải trống 218836+ — cho thấy vanban.chinhphu.vn đã RESUME indexing.** Ưu tiên trung bình — cần crawl chi tiết. |
+| **58/2026/TT-BXD** | ~07/2026 | **Quy định về đăng kiểm tàu biển Việt Nam** — Thông tư Bộ Xây dựng về đăng kiểm tàu biển; nội dung chi tiết cần crawl | Giao thông / Hàng hải | vanban.chinhphu.vn (docid **218838**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218838. HTML page trả về "Thông tư số 58/2026/TT-BXD: Quy định về đăng kiểm tàu biển Việt Nam" ✅. Ưu tiên thấp — cần crawl chi tiết. |
+| **30/2026/TT-BYT** | ~07/2026 | **Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm** — Thông tư Bộ Y tế; nội dung chi tiết cần crawl | Y tế / Thực phẩm | vanban.chinhphu.vn (docid **218837**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218837. HTML page trả về "Thông tư số 30/2026/TT-BYT của Bộ Y tế: Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm" ✅. **Lưu ý: dải trước 218836 chỉ có 24, 25, 27/2026/TT-BYT — 30/2026/TT-BYT là THÔNG TƯ BYT mới chưa từng ghi nhận.** Ưu tiên trung bình — cần crawl chi tiết. |
+| **29/2026/TT-BNNMT** | ~07/2026 | **Quy định kỹ thuật công tác đo địa chấn phản xạ đa kênh trên biển trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — Thông tư Bộ Nông nghiệp và Môi trường | Nông nghiệp / Địa chất / Khoáng sản | vanban.chinhphu.vn (docid **218836**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218836. HTML page trả về "Thông tư số 29/2026/TT-BNNMT của Bộ Nông nghiệp và Môi trường: Quy định kỹ thuật công tác đo địa chấn phản xạ đa kênh trên biển trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản" ✅. Ưu tiên thấp — Thông tư kỹ thuật chuyên ngành. |
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 90/2026/TT-BTC | **KHÔNG** | Thêm mới — Chưa có (cập nhật: dải 89–100/TT-BTC giờ có 92 + 90) |
+| 58/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+| 30/2026/TT-BYT | **KHÔNG** | Thêm mới — Chưa có (lưu ý: 26, 28, 29/2026/TT-BYT vẫn chưa ghi nhận) |
+| 29/2026/TT-BNNMT | **KHÔNG** | Thêm mới — Chưa có |
+| 14/2026/NQ-CP | CÓ (luatvietnam slug 424038) | **VẪN CHƯA ĐƯỢC INDEX** — dải 218836–240000+ trống, web_search 402 |
+| 277–280/2026/NĐ-CP | KHÔNG | **VẪN CHƯA ĐƯỢC INDEX** — dải 240000+ trống hoàn toàn |
+
+### QUAN TRỌNG: vanban.chinhphu.vn RESUME INDEX tại 218836 — nhưng chỉ 4 văn bản mới
+
+- **Phát hiện đặc biệt**: vanban.chinhphu.vn ĐÃ TIẾP TỤC INDEX văn bản mới tại dải 218836–218839 (sau khi tạm dừng tại 218835). Đây là lần đầu tiên kể từ lần 52 (218806–218835 batch).
+- **Tuy nhiên**: Chỉ có 4 văn bản (218836–218839). Dải 218840–218970 TRỐNG HOÀN TOÀN. Dải 240000–250000 TRỐNG. Dải 258000–261000 TRỐNG.
+- **14/NQ-CP, 277–280/NĐ-CP**: Vẫn CHƯA ĐƯỢC INDEX. Các văn bản 89–100/TT-BTC: chỉ có 90 (218839) + 92 (218822), 89, 91, 93–100 vẫn chưa có.
+- **web_search, web_fetch**: Firecrawl 402 (hết credits) — không truy cập nguồn thay thế.
+
+### Bản đồ docid hoàn chỉnh (lần 56)
+
+| DocID | Văn bản |
+|---:|---|
+| 218822 | 92/2026/TT-BTC |
+| 218823–218831 | (trống — VBHN-BCT 2026) |
+| 218832 | 276/2026/NĐ-CP |
+| 218833 | 34/2026/QĐ-TTg |
+| 218834 | 1248/2026/QĐ-TTg |
+| 218835 | 275/2026/NĐ-CP |
+| **218836** | **29/2026/TT-BNNMT** (địa chấn biển) ⭐ MỚI |
+| **218837** | **30/2026/TT-BYT** (nhãn thực phẩm) ⭐ MỚI |
+| **218838** | **58/2026/TT-BXD** (đăng kiểm tàu biển) ⭐ MỚI |
+| **218839** | **90/2026/TT-BTC** (đăng ký thuế) ⭐ MỚI |
+| 218840–218970 | **(TRỐNG HOÀN TOÀN)** |
+| **240000–250000** | **(TRỐNG HOÀN TOÀN)** |
+| **258000–261000** | **(TRỐNG HOÀN TOÀN)** |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **90/2026/TT-BTC** (ưu tiên số 1 — docid 218839): Đăng ký thuế. Đây là văn bản BTC quan trọng trong dải 89–100/TT-BTC. Cần crawl chi tiết.
+2. **30/2026/TT-BYT** (ưu tiên số 2 — docid 218837): Nhãn thực phẩm. Tác động doanh nghiệp thực phẩm. Cần crawl chi tiết.
+3. **277–280/NĐ-CP** (ưu tiên số 3): Tiếp tục theo dõi dải 240000–260000 — vanban ĐÃ RESUME nhưng chưa đến dải NĐ-CP mới.
+4. **14/NQ-CP** (ưu tiên số 4): Chưa có docid. Cần tìm nguồn khác hoặc kiểm tra dải docid thấp hơn.
+5. **58/2026/TT-BXD + 29/2026/TT-BNNMT** (ưu tiên số 5): Văn bản kỹ thuật, ưu tiên thấp nhưng cần crawl.
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** được phát hiện lần 56: 29/TT-BNNMT (218836), 30/TT-BYT (218837), 58/TT-BXD (218838), 90/TT-BTC (218839). Đây là lần đầu tiên phát hiện văn bản mới sau nhiều phiên trống liên tiếp.
+- **vanban.chinhphu.vn RESUME**: Hệ thống đã tiếp tục index sau khi tạm dừng. Cần theo dõi dải 218840+ thường xuyên để phát hiện 277–280/NĐ-CP và 89–100/TT-BTC khi chúng được index.
+- **Dải 218840–218970 TRỐNG**: 131 docid liên tục không có văn bản — có thể đây là dải chờ index tiếp theo.
+- **web_search + web_fetch**: Firecrawl 402 (hết credits). Không có nguồn thay thế khả dụng trong phiên này.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218836–218970 step 1, dải 240000–250000 step 100–1000, dải 258000–261000 step 500, 158 docid total, 4 văn bản, 154 trống).
+- Ngày phát hiện: 2026-07-10 12:10 ICT
+- Phiên thực hiện: agent:github-io:subagent:1bd76fa2-a136-466f-aab2-e0b7ea3e4472 (Đệ #1 Discovery — lần 56)
 
 ### Tình trạng dải docid
 
