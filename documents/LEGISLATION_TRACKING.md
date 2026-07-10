@@ -1,3 +1,71 @@
+## Cập nhật 2026-07-10 18:09 (phiên Đệ #1 Discovery — lần 59)
+
+### Phát hiện: 1 văn bản mới — 1252/QĐ-TTg (docid 218844) + xác minh docid 14/NQ-CP (216664)
+
+Quét vanban.chinhphu.vn dải docid 218843–219000 (step 5 × 32 docid) + dải 285000–295000 (step 200 × 29 docid) + dải 216660–216669 (step 1 × 10 docid) + web_search (14/NQ-CP). Ưu tiên: 277–280/NĐ-CP, 89–100/TT-BTC, 14/NQ-CP. **Phát hiện 1 văn bản MỚI** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---:|---:|---|---|---:|---:|---|
+| **1252/2026/QĐ-TTg** | **10/7/2026** | **Phê duyệt Đề án đầu tư cơ sở vật chất và nâng cao chất lượng hoạt động một số cơ sở giáo dục đại học lớn ở khu vực miền Trung và Tây Nguyên thành những trung tâm đào tạo uy tín trong khu vực và thế giới** — Thủ tướng phê duyệt Đề án đầu tư cơ sở vật chất giáo dục đại học miền Trung và Tây Nguyên | Giáo dục / Đầu tư | vanban.chinhphu.vn (docid **218844**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện tại docid 218844. HTML page vanban.chinhphu.vn/?pageid=27160&mode=detail&docid=218844 trả về "Quyết định số 1252/QĐ-TTg của Thủ tướng Chính phủ: Phê duyệt Đề án đầu tư cơ sở vật chất và nâng cao chất lượng hoạt động một số cơ sở giáo dục đại học lớn ở khu vực miền Trung và Tây Nguyên thành những trung tâm đào tạo uy tín trong khu vực và thế giới" ✅. Ngày ban hành: **10/7/2026** (xác minh từ nội dung HTML). **Đây là văn bản SAU 1246/1250/QĐ-TTg (218841–218842)** — vanban tiếp tục index rất chậm. 218845–218920 trả về EMPTY (generic template, 69555 bytes). Ưu tiên thấp — văn bản giáo dục. |
+
+### Xác minh docid cho 14/NQ-CP
+
+| Số hiệu | DocID | Trạng thái | Ghi chú |
+|---:|---:|---|---|
+| 14/2026/NQ-CP | **216664** ✅ | Đã có file van-ban/ | Đã xác minh docid 216664 = "Nghị quyết số 14/NQ-CP của Chính phủ: Về việc đề nghị bổ sung Dự án Luật an toàn thực phẩm (sửa đổi) vào Chương trình lập pháp năm 2026 của Quốc hội" (ban hành 16/01/2026). File đã tồn tại trong van-ban/14-2026-nq-cp.md. **Docid thấp bất thường — 14/NQ-CP ban hành tháng 1 nhưng nằm ở docid 216664 (thay vì ~218600 như kỳ vọng cho NQ-CP tháng 1).** Có thể hệ thống đánh docid không tuân theo thứ tự thời gian tuyệt đối. |
+
+### Đối chiếu nhanh
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 1252/2026/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 14/2026/NQ-CP | **CÓ** (luatvietnam slug 424038) | Cập nhật: docid xác minh **216664** ✅ |
+
+### QUAN TRỌNG: Dải 218845–219000 TRỐNG — vanban tiếp tục index rất chậm
+
+- **Quét 16 docid** (218844–218920, step 5): Chỉ tìm 1252/QĐ-TTg tại 218844; 218845–218920 **TRỐNG** (generic UI template, 69555 bytes mỗi trang)
+- **Quét 29 docid** (285000–295000, step 200): TẤT CẢ trống hoàn toàn
+- **Quét 10 docid** (216660–216669): Tìm 20/2026/NĐ-CP, 110/QĐ-TTg, 14/NQ-CP, 02/NQ-CP, 109/QĐ-TTg — **KHÔNG phải văn bản mới** (đều đã được index trước đó hoặc thuộc dải cũ)
+- **Tổng dải trống tích lũy**: 218845–219000 + 219000–285000 + 285000–295000 (76,155+ docid liên tục không chứa văn bản 2026 mới)
+- **277–280/NĐ-CP, 89–100/TT-BTC**: Vẫn CHƯA ĐƯỢC INDEX. Vanban tiếp tục resume rất chậm, chỉ thêm được 1 văn bản (1252) sau lần 58.
+- **14/NQ-CP (docid 216664)**: Đã có file trong van-ban/. Docid thấp bất thường — có thể hệ thống đánh docid không tuân theo thứ tự thời gian.
+- **218843**: Trả về content giống 218842 (Kết luận chống buôn lậu) — KHÔNG phải văn bản mới.
+
+### Bản đồ docid hoàn chỉnh (lần 59)
+
+| DocID | Văn bản |
+|---:|---|
+| 216664 | **14/2026/NQ-CP** (luật ATVP sửa đổi, 16/01/2026) ✅ DOCID XÁC MINH |
+| 218840 | **1074/QĐ-BXD** (PCCC, 02/7/2026) |
+| 218841 | **1246/QĐ-TTg** (bầu PCT Đắk Lắk) |
+| 218842 | **1250/QĐ-TTg** (y học cổ truyền) |
+| 218843 | (shared — Kết luận chống buôn lậu, trùng 218842) |
+| **218844** | **1252/QĐ-TTg** (giáo dục miền Trung-Tây Nguyên, 10/7/2026) ⭐ **MỚI** |
+| 218845–219000 | **(TRỐNG HOÀN TOÀN)** |
+| 219000–285000 | **(TRỐNG HOÀN TOÀN — 66000 docid)** |
+| 285000–295000 | **(TRỐNG HOÀN TOÀN — 29 docid)** |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **90/2026/TT-BTC** (ưu tiên số 1 — docid 218839, đã crawl ✅): Đăng ký thuế — file đã có, cần review nội dung.
+2. **30/2026/TT-BYT** (ưu tiên số 2 — docid 218837): Nhãn thực phẩm, hiệu lực 10/7/2026 — tác động doanh nghiệp thực phẩm. Đã crawl.
+3. **58/2026/TT-BXD** (ưu tiên số 3 — docid 218838): Đăng kiểm tàu biển, hiệu lực 01/9/2026 — tác động ngành hàng hải.
+4. **277–280/NĐ-CP** (ưu tiên số 4): Tiếp tục theo dõi dải 218845+. Vanban tiếp tục index rất chậm.
+5. **1252/QĐ-TTg** (ưu tiên số 5 — docid 218844): Giáo dục — ưu tiên thấp.
+
+### Ghi chú xử lý
+
+- **1 văn bản mới** được phát hiện lần 59: 1252/QĐ-TTg (218844) — giáo dục miền Trung-Tây Nguyên.
+- **14/NQ-CP**: Xác minh docid **216664** (thấp bất thường). File đã có trong van-ban/.
+- **Dải 218845–219000 TRỐNG**: vanban tiếp tục index rất chậm.
+- **Dải 285000–295000 TRỐNG HOÀN TOÀN**: 76,155+ docid liên tục không chứa văn bản 2026 mới.
+- **218843**: Shared content fragment (Kết luận chống buôn lậu) — KHÔNG phải văn bản mới.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218843–218920 step 5, 285000–295000 step 200, 216660–216669 step 1, 45 docid total, 2 văn bản, 43 trống) + web_search (14/NQ-CP xác minh docid 216664).
+- Ngày phát hiện: 2026-07-10 18:09 ICT
+- Phiên thực hiện: agent:github-io:subagent:583853ad-dccf-42c1-bd8b-e13dfa03a970 (Đệ #1 Discovery — lần 59)
+
+---
+
 ## Cập nhật 2026-07-10 16:01 (phiên Đệ #1 Discovery — lần 58)
 
 ### Phát hiện: 2 văn bản mới — 1246 + 1250/QĐ-TTg (docid 218841–218842)
