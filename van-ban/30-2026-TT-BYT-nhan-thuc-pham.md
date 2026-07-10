@@ -67,7 +67,7 @@ Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị din
 
 ### QUY ĐỊNH CHUNG
 
-#### Điều 1. Phạm vi điều chỉnh
+### Điều 1. Phạm vi điều chỉnh
 
 1. Thông tư này hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng và lộ trình thực hiện đối với thực phẩm bao gói sẵn được sản xuất, nhập khẩu, kinh doanh, lưu thông tại Việt Nam.
 
@@ -99,11 +99,11 @@ m) Thực phẩm do cơ sở kinh doanh thực phẩm nhỏ lẻ sản xuất qu
 
 3. Trường hợp tổ chức, cá nhân quy định tại khoản 2 Điều này tự nguyện ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm thì thực hiện theo quy định tại Thông tư này.
 
-#### Điều 2. Đối tượng áp dụng
+### Điều 2. Đối tượng áp dụng
 
 Thông tư này áp dụng đối với tổ chức, cá nhân chịu trách nhiệm ghi nhãn hàng hóa là thực phẩm (sau đây viết tắt là tổ chức, cá nhân); các cơ quan quản lý nhà nước về an toàn thực phẩm và các cơ quan, tổ chức, cá nhân có liên quan đến việc ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm.
 
-#### Điều 3. Giải thích từ ngữ
+### Điều 3. Giải thích từ ngữ
 
 Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
@@ -123,7 +123,7 @@ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 8. Giá trị dinh dưỡng tham chiếu là giá trị số, được khuyến nghị cho người Việt Nam dựa trên dữ liệu khoa học về nhu cầu dinh dưỡng cơ thể cần ăn hằng ngày nhằm duy trì tình trạng dinh dưỡng tối ưu, giảm nguy cơ mắc bệnh không lây nhiễm liên quan đến chế độ ăn uống.
 
-#### Điều 4. Nguyên tắc ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm
+### Điều 4. Nguyên tắc ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm
 
 1. Việc ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm phải bảo đảm tuân thủ quy định tại Thông tư này và quy định của pháp luật về nhãn hàng hóa, pháp luật về an toàn thực phẩm có liên quan.
 
@@ -135,7 +135,7 @@ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 ### NỘI DUNG, CÁCH GHI THÀNH PHẦN DINH DƯỠNG, GIÁ TRỊ DINH DƯỠNG TRÊN NHÃN THỰC PHẨM
 
-#### Điều 5. Nội dung ghi thành phần dinh dưỡng
+### Điều 5. Nội dung ghi thành phần dinh dưỡng
 
 1. Thực phẩm sản xuất, kinh doanh, nhập khẩu, lưu thông tại Việt Nam thực hiện ghi các thành phần dinh dưỡng sau đây:
 
@@ -155,7 +155,7 @@ d) Chất béo;
 
 4. Đối với thực phẩm không chứa hoặc có chứa thành phần dinh dưỡng quy định tại các khoản 1, 2 và 3 Điều này nhưng giá trị dinh dưỡng của thành phần đó nhỏ hơn giá trị quy định tại Phụ lục I ban hành kèm theo Thông tư này thì không bắt buộc phải ghi thành phần dinh dưỡng đó trên nhãn thực phẩm.
 
-#### Điều 6. Cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng
+### Điều 6. Cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng
 
 1. Thông tin về giá trị năng lượng được tính bằng ki-lô-ca-lo (kcal); thông tin về hàm lượng chất đạm, carbohydrate, chất béo, chất béo bão hòa, đường tổng số được tính bằng gam (g); thông tin về hàm lượng natri được tính bằng miligam (mg). Thông tin các thành phần dinh dưỡng được biểu thị trong 100g hoặc 100ml thực phẩm hoặc trong một khẩu phần ăn đã được xác định hàm lượng trên nhãn hoặc theo mỗi phần đóng gói khi số phần trong bao gói đó được công bố.
 
@@ -169,21 +169,21 @@ d) Chất béo;
 
 ### ĐIỀU KHOẢN THI HÀNH
 
-#### Điều 7. Hiệu lực thi hành
+### Điều 7. Hiệu lực thi hành
 
 1. Thông tư này có hiệu lực từ ngày 10 tháng 7 năm 2026.
 
 2. Thông tư số 29/2023/TT-BYT ngày 30 tháng 12 năm 2023 của Bộ trưởng Bộ Y tế hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
 
-#### Điều 8. Quy định chuyển tiếp
+### Điều 8. Quy định chuyển tiếp
 
 Thực phẩm có nhãn chưa ghi thành phần dinh dưỡng, giá trị dinh dưỡng theo quy định tại Thông tư này đã được sản xuất, kinh doanh, nhập khẩu, lưu thông tại Việt Nam trước ngày 01 tháng 01 năm 2026 thì được tiếp tục lưu thông, sử dụng cho đến hết hạn sử dụng ghi trên nhãn thực phẩm đó.
 
-#### Điều 9. Điều khoản tham chiếu
+### Điều 9. Điều khoản tham chiếu
 
 Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì áp dụng theo văn bản quy phạm pháp luật mới.
 
-#### Điều 10. Tổ chức thực hiện
+### Điều 10. Tổ chức thực hiện
 
 1. Các đơn vị thuộc, trực thuộc Bộ Y tế có trách nhiệm:
 
@@ -195,7 +195,7 @@ c) Viện Dinh dưỡng có trách nhiệm nghiên cứu, rà soát đề xuất
 
 2. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm chỉ đạo việc tổ chức thực hiện Thông tư này tại địa phương.
 
-#### Điều 11. Trách nhiệm thi hành
+### Điều 11. Trách nhiệm thi hành
 
 Thủ trưởng các đơn vị thuộc, trực thuộc Bộ Y tế và cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm tổ chức thực hiện Thông tư này.
 
