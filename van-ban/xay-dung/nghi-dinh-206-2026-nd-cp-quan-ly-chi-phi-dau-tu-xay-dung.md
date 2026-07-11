@@ -1,21 +1,14 @@
 ---
 layout: vanban
-title: "Nghị định 206/2026/NĐ-CP Quy định chi tiết về quản lý chi phí đầu tư xây dựng"
+title: "Nghị định 206/2026/NĐ-CP quy định chi tiết về quản lý chi phí đầu tư xây dựng"
 date: 2026-06-15
-modified: 2026-07-11
 group: xay-dung
 tags:
- - chi-phí-đầu-tư-xây-dựng
- - nghị-định
- - quản-lý-chi-phí
- - đầu-tư-xây-dựng
-docid: "218454"
-so_hieu: "206/2026/NĐ-CP"
-co_quan_ban_hanh: "Chính phủ"
-ngay_ban_hanh: 2026-06-15
-ngay_hieu_luc: 2026-07-01
-trang_thai: active
-source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+  - xay-dung
+  - chi-phi
+  - dau-tu
+docid: 218454
+source: "https://vanban.chinhphu.vn/?docid=218454&pageid=27160"
 ---
 
 # Nghị định 206/2026/NĐ-CP
