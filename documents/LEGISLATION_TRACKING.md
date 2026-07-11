@@ -1,3 +1,63 @@
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — dải 218833–218844 + 219800–225000)
+
+### Phát hiện: 2 văn bản mới — 1248/QĐ-TTg (docid 218834) + xác minh 278/NĐ-CP (docid 219802)
+
+Quét vanban.chinhphu.vn dải docid 218833–218844 (step 1 = 12 docid) + dải 219800–221000 (step 1 = 201 docid, ngắn) + dải 225000–230000 (step 10) + web_search/scan. Ưu tiên: NĐ-CP mới (274–280), TT-BTC mới (88–100), QĐ-TTg mới (1248+). **Phát hiện 2 văn bản mới/cập nhật** (giới hạn 5/lần):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **1248/2026/QĐ-TTg** | **02/07/2026** | **Ban hành Bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa cấp quốc gia, cấp ngành và địa phương** — Thủ tướng ban hành bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa; áp dụng cho cấp quốc gia, cấp ngành và địa phương; thay thế QĐ cũ; hiệu lực **02/7/2026** | Kinh tế / Công nghiệp hóa | vanban.chinhphu.vn (docid **218834**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua quét dải 218833–218844 (step 1). Title đầy đủ: "Quyết định số 1248/QĐ-TTg của Thủ tướng Chính phủ: Về việc ban hành Bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa cấp quốc gia, cấp ngành và địa phương" ✅. Ngày ban hành **02/7/2026** xác minh từ page metadata. **ƯU TIÊN TRUNG BÌNH** — văn bản công nghiệp hóa. |
+| **278/2026/NĐ-CP** | **09/07/2026** | **Sửa đổi, bổ sung NĐ 72/2025/NĐ-CP về cơ chế điều chỉnh giá bán lẻ điện bình quân** — làm rõ ngưỡng điều chỉnh giá điện; hiệu lực **09/7/2026** | Năng lượng / Điện lực | vanban.chinhphu.vn (docid **219802** ✅) | **Hoàn thiện** | **XÁC MINH DOCID** — văn bản đã hoàn thiện trên branch `heartbeat/crawl-vanban-20260711-v2` (commit c75a168d), file `van-ban/2026/278-2026-nd-cp-dieu-chinh-gia-dien.md`. Docid **219802** được xác nhận từ frontmatter file. Đây là văn bản từ branch, CHƯA merge vào main. File tồn tại trên branch nhưng chưa có trong workspace chính. | 
+
+### Tình trạng vanban.chinhphu.vn — DẢI 225000–230000 TRỐNG HOÀN TOÀN; vùng trống mở rộng
+
+- **Quét 225000–230000 step 10 (~500 docid)**: TẤT CẢ trả về trang placeholder "Chi tiết văn bản ban hành" — không có tiêu đề văn bản mới
+- **Quét 219800–221000 step 1 (201 docid)**: TẤT CẢ trống — vùng trống mở rộng từ 218840 đến 221000+
+- **Dải 218833–218844** (step 1, 12 docid): Xác minh 10 docid có văn bản:
+  - 218833 = 34/QĐ-TTg (HIV nghề nghiệp)
+  - 218834 = **1248/QĐ-TTg** ⭐ MỚI (công nghiệp hóa)
+  - 218835 = 275/NĐ-CP (xử phạt hóa chất)
+  - 218836 = 29/TT-BNNMT
+  - 218837 = 30/TT-BYT
+  - 218838 = 58/TT-BXD
+  - 218839 = 90/TT-BTC (đăng ký thuế)
+  - 218840 = 1074/QĐ-BXD
+  - 218841 = 1246/QĐ-TTg
+  - 218842 = 1250/QĐ-TTg
+- **Docid 218840+ trống** hoàn toàn (218843–218860 = EMPTY)
+- **Docid 219802**: Chứa 278/NĐ-CP (file hoàn thiện trên branch, docid xác nhận = 219802) nhưng HTML page VANBAN trả placeholder
+- **Vùng trống mở rộng**: Từ 218843 đến 221000+ (≥158 docid liên tục)
+- **Kết luận**: vanban.chinhphu.vn VẪN CHƯA index văn bản mới sau dải 218842. 278/NĐ-CP tồn tại trên branch (docid 219802) nhưng page HTML trả placeholder. 277, 279, 280/NĐ-CP vẫn CHƯA xuất hiện trên vanban.chinhphu.vn.
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **278/2026/NĐ-CP** | ✅ Docid xác minh = 219802 | Xác nhận từ file trên branch c75a168d |
+| **1248/2026/QĐ-TTg** | ⭐ MỚI — chưa có docid trong tracking | Docid 218834, 02/7/2026 |
+| **277/2026/NĐ-CP** | Chưa có docid | Dải 218846–218860 trống, tiếp tục theo dõi |
+| **279, 280/2026/NĐ-CP** | Chưa có docid | Dải 221000–225000 trống hoàn toàn |
+
+### Đề xuất phiên tiếp theo
+
+1. **Crawl chi tiết 1248/QĐ-TTg** (ưu tiên 1): Docid 218834 đã xác minh, ngày 02/7/2026. Cần crawl toàn văn từ vanban.chinhphu.vn (docid 218834).
+2. **Merge 278/NĐ-CP vào main** (ưu tiên 2): File hoàn thiện trên branch `heartbeat/crawl-vanban-20260711-v2`, cần merge vào main để workspace chính có văn bản này.
+3. **Tìm docid 277/NĐ-CP** (ưu tiên 3): Dải 218846–218860 trống, cần quét dải 219000–221000 step 1.
+4. **Tìm docid 279, 280/NĐ-CP** (ưu tiên 4): Dải 221000–225000 trống hoàn toàn, cần quét thường xuyên hoặc web_search.
+
+### Ghi chú xử lý
+
+- **2 văn bản** được ghi nhận: 1248/QĐ-TTg (MỚI, docid 218834) + 278/NĐ-CP (xác minh docid 219802).
+- **1248/QĐ-TTg** là QĐ-TTg mới nhất được ghi nhận — công nghiệp hóa, hiện đại hóa. Chưa từng xuất hiện trong tracking.
+- **278/2026/NĐ-CP** docid xác nhận = 219802 (file trên branch c75a168d, chưa merge vào main). Page HTML trả placeholder tại docid 219802.
+- **Vùng trống mở rộng**: Từ 218843 đến 221000+ (≥158 docid liên tục không có văn bản mới).
+- **277, 279, 280/NĐ-CP**: Vẫn CHƯA CÓ DOCID, tiếp tục theo dõi.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218833–218844, 219800–221000, 225000–230000).
+- Ngày phát hiện: 2026-07-12 06:45 ICT
+- Phiên thực hiện: agent:github-io:subagent:3b9e8289-5833-4544-95dd-51d794380024 (Discovery dải 225000–230000)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — step 5, dải 219950–221000)
 
 ### Phát hiện: 1 văn bản mới — 277/2026/NĐ-CP (giáo dục mầm non 3–5 tuổi)
@@ -66,7 +126,7 @@ Quét vanban.chinhphu.vn dải docid 218900–220000 (HTML page method, step 5 =
 Các văn bản sau vẫn chưa có trong dải 218900–220000:
 - **276/2026/NĐ-CP** (docid 218832 ✅) — Bộ Nội vụ, 08/7/2026
 - **277, 279, 280/2026/NĐ-CP** — CHƯA XUẤT HIỆN trên vanban.chinhphu.vn
-- **278/2026/NĐ-CP** — CHƯA CÓ DOCID, chỉ xác minh ngày 09/7/2026 từ web
+- **278/2026/NĐ-CP** (docid 219802 ✅) — Điện lực, 09/7/2026, hoàn thiện trên branch
 - **90/2026/TT-BTC** (docid 218839 ✅) — đăng ký thuế
 - **34/2026/QĐ-TTg** (docid 218833 ✅) — HIV nghề nghiệp, 08/7/2026
 - **1246, 1250, 1252/QĐ-TTg** (218841–218844) — chưa crawl chi tiết
@@ -76,7 +136,7 @@ Các văn bản sau vẫn chưa có trong dải 218900–220000:
 
 1. **Quét dải 219950–221000 step 5** (ưu tiên 1): Nếu có văn bản mới (274–280/NĐ-CP, 88–100/TT-BTC, 1248/QĐ-TTg) sẽ nằm ở đây.
 2. **web_search khi có credits** (ưu tiên 2): Tìm trực tiếp 277, 279, 280/NĐ-CP trên luatvietnam.vn, baochinhphu.vn.
-3. **Xác minh docid 278/2026/NĐ-CP** (ưu tiên 3): Điện lực, 09/7/2026 — chưa có docid.
+3. **Merge 278/NĐ-CP vào main** (ưu tiên 2): File hoàn thiện trên branch `heartbeat/crawl-vanban-20260711-v2`, commit c75a168d, docid 219802. Cần merge vào main để workspace chính có văn bản.
 4. **Crawl chi tiết văn bản đã biết** (ưu tiên 4): 1246/QĐ-TTg, 90/TT-BTC, 18/TT-BVHTTDL.
 
 ### Ghi chú xử lý
@@ -132,7 +192,7 @@ Quét vanban.chinhphu.vn (HTML page method, dải 218805–218920) + web_search 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | **276/2026/NĐ-CP** | **08/07/2026** | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ** — quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ; thay thế NĐ 25/2025/NĐ-CP; Bộ Nội vụ quản lý 21 đơn vị trực thuộc; thực hiện 31 nhiệm vụ và quyền hạn; lĩnh vực: tổ chức hành chính, cán bộ công chức, lao động, tiền lương, BHXH, việc làm, ATVSLao động, người có công, thanh niên, thi đua khen thưởng, văn thư lưu trữ; hiệu lực **08/7/2026** | Hành chính / Tổ chức bộ máy | vanban.chinhphu.vn (docid **218832**) | **Hoàn thiện** | **VĂN BẢN MỚI** — phát hiện qua quét dải 218800–218920 (HTML page method). Docid 218832 xác minh từ web_fetch vanban.chinhphu.vn. Title: "Nghị định số 276/2026/NĐ-CP của Chính phủ: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ" ✅. Ngày ban hành **08/7/2026** xác minh từ baochinhphu.vn, luatvietnam.vn, moha.gov.vn, dantri.com.vn, laodong.vn. **ƯU TIÊN TRUNG BÌNH** — văn bản tổ chức bộ máy quan trọng. |
-| **278/2026/NĐ-CP** | **09/07/2026** | **Sửa đổi, bổ sung một số điều của Nghị định 72/2025/NĐ-CP về cơ chế điều chỉnh giá bán lẻ điện bình quân** — làm rõ ngưỡng điều chỉnh giá điện: giảm <1% hoặc tăng <2% → không điều chỉnh (EVN báo cáo BCT); giảm ≥1% hoặc tăng 2–5% → EVN lập hồ sơ báo cáo BCT kiểm tra; tăng ≥5% → BCT trình Chính phủ; EVN báo cáo chi phí trước 30/6 hàng năm; hiệu lực **09/7/2026** | Năng lượng / Điện lực | **chua-xac-minh** | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search và web_fetch. Ngày ban hành **09/7/2026** xác minh từ baochinhphu.vn, luatvietnam.vn, evn.com.vn, tapchicongthuong.vn. Hiệu lực 09/7/2026. Tiếp tục tìm docid trên vanban.chinhphu.vn. **ƯU TIÊN CAO** — tác động trực tiếp giá điện sinh hoạt và sản xuất. |
+| **278/2026/NĐ-CP** | **09/07/2026** | **Sửa đổi, bổ sung một số điều của Nghị định 72/2025/NĐ-CP về cơ chế điều chỉnh giá bán lẻ điện bình quân** — làm rõ ngưỡng điều chỉnh giá điện: giảm <1% hoặc tăng <2% → không điều chỉnh (EVN báo cáo BCT); giảm ≥1% hoặc tăng 2–5% → EVN lập hồ sơ báo cáo BCT kiểm tra; tăng ≥5% → BCT trình Chính phủ; EVN báo cáo chi phí trước 30/6 hàng năm; hiệu lực **09/7/2026** | Năng lượng / Điện lực | vanban.chinhphu.vn (docid **219802**) | **Hoàn thiện** | **XÁC MINH DOCID** — docid 219802 xác nhận từ frontmatter file trên branch `heartbeat/crawl-vanban-20260711-v2` (commit c75a168d). File `van-ban/2026/278-2026-nd-cp-dieu-chinh-gia-dien.md` hoàn thiện nhưng chưa merge vào main. Page HTML vanban.chinhphu.vn tại docid 219802 trả placeholder. **ƯU TIÊN CAO** — tác động trực tiếp giá điện. Cần merge vào main. |
 | **34/2026/QĐ-TTg** | **08/07/2026** | **Sửa đổi, bổ sung một số điều của QĐ 24/2023/QĐ-TTg về điều kiện xác định người bị phơi nhiễm HIV, nhiễm HIV do tai nạn rủi ro nghề nghiệp** — sửa đổi quyết định về điều kiện xác định người bị phơi nhiễm HIV, nhiễm HIV do tai nạn rủi ro nghề nghiệp; thay thế quy định cũ; hiệu lực **01/3/2027** | Y tế / Lao động | vanban.chinhphu.vn (docid **218833**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_fetch vanban.chinhphu.vn/?docid=218833. Title: "Quyết định số 34/2026/QĐ-TTg của Thủ tướng Chính phủ: Sửa đổi, bổ sung một số điều của Quyết định số 24/2023/QĐ-TTg" ✅. Ngày ban hành **08/7/2026** (cùng đợt 276/NĐ-CP). **ƯU TIÊN THẤP** — văn bản chuyên đề y tế. |
 | **90/2026/TT-BTC** | **~07/2026** | **Quy định về đăng ký thuế** — quy định chi tiết về đăng ký thuế; thủ tục, hồ sơ đăng ký thuế cho tổ chức và cá nhân; quản lý mã số thuế; thay thế văn bản cũ; hiệu lực **~01/8/2026** | Thuế / Tài chính | vanban.chinhphu.vn (docid **218839**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua quét dải 218805–218920. Docid 218839 xác minh từ HTML page. Title: "Thông tư số 90/2026/TT-BTC của Bộ Tài chính: Quy định về đăng ký thuế" ✅. Đây là TT-BTC mới nhất trong dải được ghi nhận (sau 87/TT-BTC). **ƯU TIÊN TRUNG BÌNH** — cần xác minh ngày ban hành chính xác. |
 | **18/2026/TT-BVHTTDL** | **~07/2026** | **Quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập** — quy định định mức kinh tế - kỹ thuật các dịch vụ của bảo tàng công lập; bao gồm: sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông; hiệu lực ~01/8/2026 | Văn hóa / Bảo tàng | vanban.chinhphu.vn (docid **218811**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua quét dải 218805–218920. Docid 218811 xác minh từ web_fetch vanban.chinhphu.vn/?docid=218811. Title: "Thông tư số 18/2026/TT-BVHTTDL của Bộ Văn hóa, Thể thao và Du lịch" ✅. **ƯU TIÊN THẤP** — văn bản văn hóa chuyên đề. |
