@@ -128,12 +128,12 @@
 | **Loại** | Nghị định |
 | **Cơ quan** | Chính phủ |
 | **Ban hành** | 08/07/2026 |
-| **Hiệu lực** | 08/07/2026 |
+| **Hiệu lực** | 25/08/2026 |
 | **Chủ đề** | Hành chính, Hóa chất, Vật liệu nổ công nghiệp |
 | **Docid** | 218835 (vanban.chinhphu.vn) |
 | **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218835 |
 | **Trích yếu** | Quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp |
-| **Ghi chú** | Cần crawl toàn văn từ 275-ndcp.signed.pdf; trạng thái Chưa hoàn thiện |
+| **Ghi chú** | Hoàn thành — van-ban/275-2026-nd-cp.md, 76 Điều, 2 Chương, OCR quality gate PASS |
 
 ---
 
