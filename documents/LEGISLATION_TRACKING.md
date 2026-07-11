@@ -1,3 +1,37 @@
+## Cập nhật 2026-07-12 (heartbeat poll 03:33)
+
+### Phát hiện: 275/2026/NĐ-CP hoàn thiện — cần Đệ #3 fix OCR + Đệ #4 review
+
+File `van-ban/cong-nghiep/nghi-dinh-275-2026-nd-cp-xu-phat-hoa-chat-vat-lieu-no-cong-nghiep.md` (4178 dòng) được xác nhận tồn tại. Scan OCR quality gate phát hiện **5 OCR issues** chưa sửa: `ngày l` (3 vị trí), `Điền` (1 vị trí), `†` (1 vị trí). Commit vào PR heartbeat active `heartbeat/crawl-vanban-20260712a`.
+
+**Cập nhật trạng thái trong tracking:**
+
+| Số hiệu | Trạng thái mới | Ghi chú |
+|---|:---:|---|
+| **275/2026/NĐ-CP** | **Hoàn thiện** (pending fix) | Docid 218835, 4178 dòng, 5 OCR issues cần fix (xem trên). Commit `263b26ba`. |
+
+**Quyết định:**
+- Không có sub-agent đang chạy, không có PR heartbeat active.
+- File 275 có sẵn (4178 dòng) nhưng OCR issues cần fix.
+- Gọi **Đệ #3** (Full Crawler) fix OCR issues + gọi **Đệ #4** (Reviewer) review 5 văn bản `Chưa hoàn thiện` trong tracking song song.
+- Tạo PR heartbeat active từ branch `heartbeat/crawl-vanban-20260712a`.
+
+### Tình trạng workspace
+
+- **Branch hiện tại**: `heartbeat/crawl-vanban-20260712a` (mới tạo từ `main`)
+- **PR heartbeat active**: đang mở (sẽ tạo sau khi push)
+- **File mới**: 1 file (275/2026/NĐ-CP)
+- **Văn bản "Chưa có" trong tracking** (cần crawl chi tiết):
+  - 276/NĐ-CP (docid 218832, ưu tiên TB), 263/NĐ-CP (docid 218800), 273/NĐ-CP (docid 218801)
+  - 1246, 1250, 1252/QĐ-TTg, 6660/CV-VPCP, 364/TB-VPCP (docid 218841-218845)
+  - 1198, 1239/QĐ-TTg (docid 218738, 218790)
+  - 34/QĐ-TTg (docid 218833), 90/TT-BTC (docid 218839), 18/TT-BVHTTDL (docid 218811)
+  - 1198/QĐ-TTg (docid 218738)
+  - 08/TTLT-BCA-BQP-TANDTC-VKSNDTC (docid 218788)
+- **278/2026/NĐ-CP**: docid 219802, đã hoàn thiện (c75a168d)
+
+---
+
 ## Cập nhật 2026-07-11 (phiên Đệ #1 Discovery — lần 46)
 
 ### Phát hiện: 5 văn bản mới — vanban.chinhphu.vn đã re-index! Dải docid 218811–218839 có văn bản mới!
