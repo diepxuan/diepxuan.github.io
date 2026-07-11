@@ -2721,7 +2721,6 @@ b) Không thực hiện thủ tục xuất nhập kho vật liệ nỗ công ngh
 chất thuốc nỗ tại kho vật liệu nổ công nghiệp, tiền chất thuốc nỗ;
 54
 
-†
 
 c) Xây dựng, trang bị thiếu hoặc trang bị không đúng quy định các loại
 công cụ hỗ trợ, phương tiện, công trình bảo vệ, canh gác trong kho vật liệu nỗ
@@ -3786,7 +3785,7 @@ c) Tịch thu tang vật, phương tiện vi phạm hành chính;
 Nghị định này;
 
 đ) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a, c, d, đ, b h,¡
-khoản 1 Điều 28 Luật Xử lý vi phạm hành chính và điểm a, h khoản 3 Điền 3
+khoản 1 Điều 28 Luật Xử lý vi phạm hành chính và điểm a, h khoản 3 Điều 3
 “Nghị định này.
 
 6. Chỉ huy trướng Ban Chỉ huy Bộ đội Biên phòng; Hải đoàn trưởng Hải
