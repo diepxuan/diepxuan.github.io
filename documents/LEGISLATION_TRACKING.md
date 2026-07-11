@@ -192,81 +192,6 @@ Quét toàn diện vanban.chinhphu.vn dải docid 218600–220000 (HTML page met
 
 ---
 
-## Cập nhật 2026-07-11 (phiên Đệ #1 Discovery — lần 46)
-
-### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn dải 218826–220000 trống hoàn toàn
-
-Quét vanban.chinhphu.vn dải docid 218826–220000 (HTML page method — `curl` + grep tiêu đề trong HTML body) + kiểm tra van-ban/ file chưa hoàn thiện. Ưu tiên: văn bản ban hành tháng 7/2026 chưa ghi nhận. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-11 lần 45): **không phát hiện văn bản mới** — 0 văn bản mới từ quét docid + xác minh 2 docid VBHN mới (61, 65/VBHN-TT-BCT). Giới hạn 5/lần — ghi nhận đủ 0:
-
-*(Không có văn bản nào)*
-
-### VBHN mới phát hiện (bonus — 2 văn bản hợp nhất Bộ Công Thương)
-
-| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
-|---|---:|---|---|---:|---|---|
-| **61/VBHN-TT-BCT** | **07/07/2026** | **Ban hành Quy chuẩn kỹ thuật quốc gia về giới hạn hàm lượng chì trong sơn** — văn bản hợp nhất quy chuẩn kỹ thuật quốc gia; quy định giới hạn hàm lượng chì trong sơn; thuộc Bộ Công thương | Công Thương / An toàn thực phẩm | vanban.chinhphu.vn (docid **218826**) | **Mới — cần xác minh nội dung đầy đủ** | **BONUS**: Xác minh docid 218826 = 61/VBHN-TT-BCT từ HTML page vanban.chinhphu.vn/?docid=218826&pageid=27160. Tiêu đề hiển thị rõ trong HTML. Đây là VBHN, KHÔNG PHẢI văn bản mới ban hành tháng 7/2026. Ngày 07/07/2026 là ngày hợp nhất (không phải ngày ban hành văn bản gốc). |
-| **65/VBHN-TT-BCT** | **07/07/2026** | **Ban hành Quy chuẩn kỹ thuật quốc gia về Amôni nitrat dùng để sản xuất thuốc nổ nhũ tương** — văn bản hợp nhất quy chuẩn kỹ thuật quốc gia về amôni nitrat; thuộc Bộ Công thương | Công Thương / An toàn | vanban.chinhphu.vn (docid **218830**) | **Mới — cần xác minh nội dung đầy đủ** | **BONUS**: Xác minh docid 218830 = 65/VBHN-TT-BCT từ web_fetch vanban.chinhphu.vn/?docid=218830&pageid=27160. Đây là VBHN, KHÔNG PHẢI văn bản mới ban hành tháng 7/2026. |
-
-### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-11 lần 45)
-
-| Số hiệu | Trong tracking? | Trạng thái |
-|---|:---:|---|
-| 61/VBHN-TT-BCT | **KHÔNG** | Thêm mới — VBHN chưa ghi nhận |
-| 65/VBHN-TT-BCT | **KHÔNG** | Thêm mới — VBHN chưa ghi nhận |
-
-### Tình trạng vanban.chinhphu.vn — dải 218826–220000 trống hoàn toàn, dải 218900+ generic
-
-- **Docid 218826–218900**: 218826 (61/VBHN-TT-BCT ✅), 218830 (65/VBHN-TT-BCT ✅), 218840 (1074/QĐ-BXD ✅), còn lại trống
-- **Docid 218900–220000 (step 1–100, mẫu)**: **TẤT CẢ trống hoàn toàn** — không có văn bản nào được index ở dải này
-- **Nguyên nhân**: Dải 218900+ chưa được vanban.chinhphu.vn index — văn bản mới (nếu có) sẽ có docid ở dải 219000–220000+ nhưng chưa được thêm vào hệ thống
-- **Phát hiện 1074/QĐ-BXD** (docid 218840): Quyết định Bộ Xây dựng về phòng cháy chữa cháy công trình cũ — đây là văn bản Bộ ngành, không phải Nghị định/Thông tư Chính phủ
-- **Dải 218798–218819**: Tất cả trống — không có văn bản nào
-- **Dải 218821–218825**: Tất cả trống
-- **Dải 218831–218839**: Tất cả trống
-- **Dải 218841–218899**: Tất cả trống
-- **Kết luận**: Không có văn bản mới ở dải 218826–220000. Dải 218900+ chưa được index.
-
-### File van-ban/ chưa hoàn thiện cần theo dõi
-
-| File | Size | Modified | Ghi chú |
-|---|---:|---|---|
-| `thue/87-2026-tt-btc-huong-dan-luat-thue-thu-nhap-ca-nhan.md` | 3,343 | 2026-07-11 | **stub** — trạng thái stub, nội dung cần bổ sung. Đây là văn bản quan trọng (hướng dẫn Luật TNCN) nhưng vẫn chưa crawl được toàn văn. |
-| `tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` | 2,605 | 2026-06-11 | File nhỏ bất thường (2.6KB) — docid 217323 đã xác minh, nhưng nội dung file không đầy đủ. Cần kiểm tra xem có cần bổ sung. |
-| `tai-chinh/thong-tu-09-2026-tt-btc-bhxh-dien-tu.md` | 6,972 | 2026-06-10 | File nhỏ (<10KB), chưa hoàn thiện, lastedit 10/6/2026 |
-| `tai-chinh/thong-tu-65-2026-tt-btc-sua-doi-thong-tu-320-2016-ve-boi-duong-tiep-cong-dan.md` | 9,011 | 2026-06-23 | File nhỏ (<10KB), lastedit 23/6/2026 |
-| `ngan-hang/thong-tu-19-2026-tt-nhnn-phan-cap-thu-tuc-hanh-chinh-ngan-hang.md` | 6,492 | 2026-06-15 | File nhỏ (<10KB), lastedit 15/6/2026 |
-| `y-te-duoc/thong-tu-12-2026-tt-btc-giam-dinh-chi-phi-kcb-bhyt.md` | 4,263 | 2026-06-10 | File nhỏ (<10KB), lastedit 10/6/2026 |
-| `159-2026-nq-cp.md` | 6,034 | 2026-06-23 | File nhỏ (<10KB), lastedit 23/6/2026 |
-
-### Văn bản quan trọng cần theo dõi đặc biệt: 87/2026/TT-BTC (stub)
-
-- **Trạng thái**: stub, 3,343 bytes — nội dung chỉ có trích yếu và thông tin cơ bản
-- **Tầm quan trọng**: CAO — hướng dẫn chi tiết Luật Thuế TNCN 111/2025 + NĐ 253/2026, nội dung tác động toàn bộ người nộp thuế
-- **Nguyên nhân stub**: Tất cả nguồn chính thức bị chặn (vanban 404, datafiles 404, luatvietnam Cloudflare, thuvienphapluat 410, Firecrawl 402)
-- **Docid đã xác minh**: 218772 (lần 44)
-- **Đề xuất**: Cần Bot tiếp tục theo dõi, thử lại khi nguồn mở lại. Không có action trong phiên này do Firecrawl hết credits.
-
-### Đề xuất ưu tiên phiên tiếp theo
-
-1. **⚠️ Sửa dòng 226 trong tracking** (lần 45 ghi nhận nhưng chưa sửa): Đổi 14/TT-BNV từ "30/6, phụ cấp khu vực" → "29/5, điều chỉnh lương hưu/BHXH". Lần 45 đã phát hiện nhầm lẫn quan trọng — cần sửa ngay.
-2. **87/2026/TT-BTC** (ưu tiên số 2 — stub): Hướng dẫn Luật TNCN + NĐ 253/2026; docid 218772 đã xác minh; cần bổ sung toàn văn khi nguồn mở lại. Firecrawl hết credits — cần chờ hoặc tìm nguồn thay thế.
-3. **80/2026/TT-BTC** (ưu tiên số 3): Đăng ký công ty đại chúng; docid 218767 xác minh; cần bổ sung vào bảng chính.
-4. **84/2026/TT-BTC** (ưu tiên số 4): Hoàn thuế GTGT cho khách nước ngoài xuất cảnh; docid 218820 xác minh; cần bổ sung vào bảng chính.
-5. **206, 209/2026/NĐ-CP** (ưu tiên số 5): Hai văn bản hoàn toàn mới chưa có trong tracking (lần 44 phát hiện); cần bổ sung vào bảng chính và crawl chi tiết.
-
-### Ghi chú xử lý
-
-- **0 văn bản mới** được phát hiện lần 46 — vanban.chinhphu.vn dải 218826–220000 trống hoàn toàn, dải 218900–220000 chưa được index
-- **2 VBHN mới** (61, 65/VBHN-TT-BCT) xác minh docid — đây là văn bản hợp nhất cũ của Bộ Công Thương, KHÔNG PHẢI văn bản mới ban hành tháng 7/2026
-- **Firecrawl 402**: Tất cả web_fetch/search qua Firecrawl đều 402 — hết credits. Không thể dùng web_search Brave để tìm văn bản mới. Web search bị giới hạn nghiêm trọng.
-- **87/2026/TT-BTC vẫn stub**: Văn bản quan trọng nhất đợt 30/6 (hướng dẫn TNCN) vẫn chưa crawl được toàn văn do nguồn bị chặn.
-- **Dải docid cao (218900+)**: Chưa có văn bản nào được index. Không có dấu hiệu văn bản mới ở dải này.
-- Nguồn: vanban.chinhphu.vn (HTML page method — dải 218826–220000 trống hoàn toàn; dải 218900–219050 generic; VBHN 61, 65 xác minh qua web_fetch), web_search Brave (**402 FIRECRAWL CREDITS — TẮT hoàn toàn**).
-- Ngày phát hiện: 2026-07-11 09:50 ICT
-- Phiên thực hiện: agent:github-io:subagent:3c868b20-16d5-4cdd-a483-a0eba8ad52ab (Đệ #1 Discovery — lần 46)
-
----
-
 ## Cập nhật 2026-07-11 (phiên Đệ #1 Discovery — lần 45)
 
 ### Phát hiện: 0 văn bản mới — 4 docid xác minh + 2 cập nhật ngày quan trọng
@@ -419,8 +344,8 @@ Quét vanban.chinhphu.vn dải docid 231000–245000 (step 200, 31 docid) + web_
 | 80–88/2026/TT-BTC | 80, 81, 82, 83, 84, 85, 86, 87, 88 | 87 chưa crawl chi tiết, còn lại đã ghi nhận |
 | 23–29/2026/TT-BYT | 23, 24, 25, 29 | 25=218704 ✅ hoàn thiện, 29 ngày 06/7 (lần 40 cập nhật) |
 | 108/2026/TT-BCA | 108 | Ngày 29/6/2026 xác minh (lần 39), chưa crawl chi tiết |
-| 14/2026/TT-BNV | 14 | Chưa có, ước đoán 30/6/2026 |
-| 172/2026/NĐ-CP | 172 | Chi phí dẫn độ, ước đoán 26/6/2026, chưa xác minh ngày |
+| 14/2026/TT-BNV | 14 | Điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hằng tháng; **ban hành 29/05/2026** (docid 218316); ⚠️ trước đây tracking ghi nhầm ngày 30/6 + nội dung phụ cấp khu vực (thực chất là 15/TT-BNV)
+| 172/2026/NĐ-CP | 172 | Chi phí dẫn độ, chuyển giao tù, tương trợ tư pháp hình sự; **ban hành 15/05/2026** (docid 218180); trước đây ước đoán ~26/6/2026
 
 ### Đề xuất ưu tiên phiên tiếp theo
 
@@ -3887,6 +3812,7 @@ Qua web_search, phat hien 3 văn bản mới chua co trong tracking (ngay ban ha
 - 246/2026/NĐ-CP bị mất trong conflict resolution poll 11:25. Khôi phục từ báo cáo Đệ #1 Discovery lần 21.
 - Nguồn: doanhnghiephoinhap.vn (2026-07-04), luatvietnam.vn (2026-07-07).
 - Ngày phát hiện: 2026-07-07 10:12 ICT (lần 21)
+
 
 
 
