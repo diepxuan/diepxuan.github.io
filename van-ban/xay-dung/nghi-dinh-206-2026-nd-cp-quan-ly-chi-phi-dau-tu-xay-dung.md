@@ -20,24 +20,7 @@ source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 
 # Nghị định 206/2026/NĐ-CP
 
-## THÔNG TIN VĂN BẢN
-
-| Thuộc tính | Giá trị |
-|---|---|
-| **Số hiệu** | 206/2026/NĐ-CP |
-| **Loại văn bản** | Nghị định |
-| **Cơ quan ban hành** | Chính phủ |
-| **Ngày ban hành** | 15 tháng 6 năm 2026 |
-| **Ngày có hiệu lực** | 01 tháng 7 năm 2026 |
-| **Thay thế** | Nghị định số 10/2021/NĐ-CP |
-| **Cơ sở pháp lý** | Luật Xây dựng số 135/2025/QH15; Luật Đầu tư công số 58/2024/QH15; Luật Đầu tư theo phương thức đối tác công tư số 64/2020/QH14; Luật Đấu thầu số 22/2023/QH15; Luật Ngân sách nhà nước số 89/2025/QH15 |
-
-Người ký: CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
-Cơ quan: VĂN PHÒNG CHÍNH PHỦ
-Thời gian ký: 16.06.2026 16:31:42 +07:00
-
 CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
 
 Số: 206/2026/NĐ-CP Hà Nội, ngày 15 tháng 6 năm 2026
 
