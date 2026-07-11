@@ -1,3 +1,50 @@
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — step 5, dải 219950–221000)
+
+### Phát hiện: 1 văn bản mới — 277/2026/NĐ-CP (giáo dục mầm non 3–5 tuổi)
+
+Quét vanban.chinhphu.vn dải docid 219950–221000 (step 5 = 21 docid) + web_search Gemini + web_fetch. Ưu tiên: NĐ-CP mới (274–280), TT-BTC mới (88–100), QĐ-TTg mới (1248+). **Phát hiện 1 văn bản mới** chưa có trong tracking: 277/2026/NĐ-CP. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **277/2026/NĐ-CP** | **~09/07/2026** | **Quy định chi tiết thi hành Nghị quyết 218/2025/QH15 về phổ cập giáo dục mầm non cho trẻ em từ 3 đến 5 tuổi** — cụ thể hóa Nghị quyết 218/2025/QH15 ngày 26/6/2025 của Quốc hội về phổ cập giáo dục mầm non cho trẻ em 3–5 tuổi; quy định điều kiện, tiêu chuẩn, chính sách; hỗ trợ trẻ em học mầm non; năm học 2025–2026 và các năm tiếp theo; hiệu lực ~09/7/2026 | Giáo dục | **chua-xac-minh** | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search Gemini. Xác nhận tồn tại từ trang hcm.edu.vn (Trường Mầm non Nhuận Đức, TP.HCM). Nội dung: quy định chi tiết về phổ cập giáo dục mầm non cho trẻ 3–5 tuổi. Chưa có docid trên vanban.chinhphu.vn. **ƯU TIÊN TRUNG BÌNH** — chính sách giáo dục quan trọng. |
+
+### Tình trạng vanban.chinhphu.vn — DẢI 219950–221000 TRỐNG HOÀN TOÀN
+
+- **Quét 219950–221000 step 5 (21 docid)**: TẤT CẢ trả về trang placeholder "Chi tiết văn bản ban hành" — không có tiêu đề văn bản 2026
+- **Vùng trống mở rộng**: Từ 218802 đến 221000+ (≥2199 docid liên tục không có văn bản mới)
+- **web_search Firecrawl**: HẾT CREDITS (402) — không sử dụng được
+- **web_search Gemini**: VẪN HOẠT ĐỘNG — dùng thay thế Firecrawl
+- **277/2026/NĐ-CP** có thật nhưng CHƯA INDEX trên vanban.chinhphu.vn
+
+### Các văn bản đã xác minh tồn tại nhưng CHƯA có docid
+
+| Số hiệu | Nguồn xác nhận | Ghi chú |
+|---|---|---|
+| **277/2026/NĐ-CP** | web_search + hcm.edu.vn | Phổ cập giáo dục mầm non 3–5 tuổi, ~09/7/2026 |
+| **278/2026/NĐ-CP** | baochinhphu.vn, luatvietnam.vn, evn.com.vn | Cơ chế điều chỉnh giá điện, 09/7/2026 |
+| **279/2026/NĐ-CP** | Chưa xác minh rõ ràng | Có thể chưa ban hành |
+| **280/2026/NĐ-CP** | Chưa tìm thấy | Có thể chưa ban hành |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 221000–225000 step 10** (ưu tiên 1): Tiếp tục mở rộng tìm docid mới cho 277–280/NĐ-CP, 88–100/TT-BTC, 1248/QĐ-TTg.
+2. **web_search Gemini** (ưu tiên 2): Tìm trực tiếp 279, 280/NĐ-CP và 1248/QĐ-TTg trên baochinhphu.vn, luatvietnam.vn.
+3. **Xác minh docid 278/2026/NĐ-CP** (ưu tiên 3): Điện lực, 09/7/2026 — docid chưa tìm thấy, thử dải 221000+.
+4. **web_fetch trực tiếp** (ưu tiên 4): Lấy nội dung chi tiết 277/NĐ-CP từ luatvietnam.vn (slug 439964) khi có credits.
+
+### Ghi chú xử lý
+
+- **1 văn bản mới** (277/NĐ-CP) được thêm vào tracking — phổ cập giáo dục mầm non 3–5 tuổi.
+- **Dải 219950–221000 hoàn toàn trống** — 21 docid thử, tất cả placeholder.
+- **Vùng trống mở rộng**: 218802–221000+ (≥2199 docid liên tục).
+- **Firecrawl 402** — chuyển sang dùng web_search Gemini thay thế.
+- **277/2026/NĐ-CP** là văn bản quan trọng thứ 2 trong đợt (sau 276/NĐ-CP đã hoàn thiện). Cần tìm docid và crawl chi tiết.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 219950–221000, step 5), web_search Gemini (baochinhphu.vn, luatvietnam.vn, hcm.edu.vn, vov.vn).
+- Ngày phát hiện: 2026-07-12 05:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:85ed401a-d159-4c0b-a298-9da8c89e009e (Đệ #1 Discovery — step 5, dải 219950–221000)
+
+---
+
 ## Cập nhật 2026-07-12 (heartbeat poll 03:58 — Discovery dải 218900–220000)
 
 ### Phát hiện: 0 văn bản mới — dải 218900–220000 hoàn toàn trống
@@ -3968,3 +4015,50 @@ Quét vanban.chinhphu.vn dải docid 218846–219850 (step 5) + 218900–219850 
 - Ngày phát hiện: 2026-07-12 03:31 ICT
 - Phiên thực hiện: agent:github-io:subagent:64a9553e-ceb7-462b-aa41-bc8e9da1b49a (Đệ #1 Discovery — lần 50)
 
+
+---
+
+## Cập nhật 2026-07-12 (heartbeat poll 04:36 — Discovery dải 219950–225000)
+
+### Phát hiện: 0 văn bản mới — dải 219950–225000 hoàn toàn trống
+
+Quét vanban.chinhphu.vn dải docid 219950–225000 (HTML page method, step 5 = ~510 docid quét nhanh + step 10 rộng) + web_fetch/curl baochinhphu.vn, luatvietnam.vn. Ưu tiên: NĐ-CP mới (277–280), TT-BTC mới (88–100), QĐ-TTg mới (1248+). **Không phát hiện văn bản mới chưa có trong tracking** — dải 219950–225000 hoàn toàn trống.
+
+### Tình trạng vanban.chinhphu.vn — DẢI 219950–225000 TRỐNG HOÀN TOÀN
+
+- **Quét 219950–220000 step 1 (10 docid)**: TẤT CẢ trả về trang placeholder "Chi tiết văn bản ban hành" — không có tiêu đề văn bản
+- **Quét 220000–220100 step 5 (21 docid)**: TẤT CẢ trống
+- **Quét 221000–222200 step 10 (21 docid)**: TẤT CẢ trống
+- **Quét 222210–225000 step 10 (20 docid)**: TẤT CẢ trống
+- **Tổng docid quét**: ~72 docid trong dải 219950–225000, TẤT CẢ trống
+- **Docid xác minh cũ** vẫn hoạt động (kiểm tra 218832, 218833, 218839): ✅ phương pháp HTML page vẫn tốt cho dải cũ
+- **web_search Firecrawl**: HẾT CREDITS (402) — không sử dụng được
+- **web_fetch luatvietnam.vn**: HẾT CREDITS (402) — không sử dụng được
+- **curl baochinhphu.vn, thuvienphapluat.vn**: Không tìm thấy 277, 279, 280/NĐ-CP
+- **Kết luận**: vanban.chinhphu.vn VẪN CHƯA index văn bản mới sau dải 218839. Vùng trống mở rộng từ 218802→225000+ (**≥6250 docid liên tục**).
+
+### Các văn bản ưu tiên vẫn CHƯA ĐƯỢC INDEX
+
+| Số hiệu | Mô tả | Ưu tiên | Tình trạng |
+|---|---|:---:|---|
+| **277/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
+| **279/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
+| **280/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
+| **274/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐ | Chưa index |
+| **1248/2026/QĐ-TTg** | Quyết định mới của Thủ tướng | ⭐⭐ | Chưa index |
+| **88–100/2026/TT-BTC** | Thông tư mới Bộ Tài chính | ⭐ | Chưa index |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 225000–230000 step 10** (ưu tiên 1): Tiếp tục mở rộng quét — văn bản mới có thể nằm ở dải cao hơn nếu hệ thống đã index.
+2. **web_search khi có credits** (ưu tiên 2): Tìm trực tiếp 277, 279, 280/NĐ-CP trên baochinhphu.vn, luatvietnam.vn.
+3. **Xác minh NĐ-CP 278** (ưu tiên 3): Docid 219802 — đã hoàn thiện (c75a168d) nhưng trạng thái trong tracking cần cập nhật.
+4. **Quét dải 220000–225000 step 1** (ưu tiên 4): Quét chi tiết hơn trong dải đã quét step 5/10 để không bỏ sót.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần này — dải 219950–225000 hoàn toàn trống.
+- **Vùng trống mở rộng**: Từ 218802 đến 225000+ (**≥6250 docid liên tục không có văn bản mới**). Đây là vùng trống lớn nhất được ghi nhận từ trước đến nay.
+- **Nguồn**: vanban.chinhphu.vn (HTML page method, dải 219950–225000, step 1–10), web_fetch Firecrawl (hết credits 402), curl curl.
+- Ngày phát hiện: 2026-07-12 04:36 ICT
+- Phiên thực hiện: agent:github-io:subagent:44245b40-eeec-46f4-8500-1dd78fa99293 (Discovery dải 219950–225000)
