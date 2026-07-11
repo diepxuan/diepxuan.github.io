@@ -130,6 +130,62 @@ Quét toàn diện vanban.chinhphu.vn dải docid 218600–220000 (HTML page met
 
 ---
 
+## Cập nhật 2026-07-11 (phiên Đệ #1 Discovery — lần 45)
+
+### Phát hiện: 0 văn bản mới — 4 docid xác minh + 2 cập nhật ngày quan trọng
+
+web_fetch vanban.chinhphu.vn HTML page + web_search Brave để xác minh docid cho 4 văn bản trong tracking chưa có docid (14/TT-BNV, 172/NĐ-CP, 96/TT-BTC, 210/NĐ-CP). So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-11 lần 44 — 5 văn bản 87, 80, 84/TT-BTC + 206, 209/NĐ-CP): **không phát hiện văn bản mới** — xác minh **4 docid** và phát hiện **2 ngày ban hành SAI** trong tracking. Giới hạn 5/lần — ghi nhận đủ 4:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **14/2026/TT-BNV** | **29/05/2026** ⚠️ | **Điều chỉnh lương hưu, trợ cấp BHXH và trợ cấp hằng tháng** — tăng 8% lương hưu, trợ cấp BHXH, trợ cấp hằng tháng so với tháng 6/2026; thiết lập cơ chế bù thêm có tính chất "sàn" bảo vệ người hưởng mức thấp (nghỉ trước 1995); cụ thể hóa NĐ 162/2026/NĐ-CP; do Thứ trưởng Nguyễn Mạnh Khương ký; hiệu lực **01/7/2026** | Lao động / BHXH / Tài chính | vanban.chinhphu.vn (docid **218316**) | **Hoàn thiện** | **⚠️ PHÁT HIỆN QUAN TRỌNG — NGÀY VÀ NỘI DUNG SAI TRONG TRACKING.** Tracking ghi "ngày 30/6/2026, công chức viên chức, phụ cấp khu vực" — ĐÂY LÀ SAI hoàn toàn. 14/TT-BNV thực tế ban hành **29/5/2026** và là về **điều chỉnh lương hưu/BHXH** (tăng 8%). Tracking có NHẦM với Thông tư 15/TT-BNV (phụ cấp khu vực, docid 218701, ngày 30/6). Cần sửa ngày ban hành từ đầu (dòng 226) và trích yếu. Đây là văn bản BHXH quan trọng — tăng lương hưu 8% từ 01/7/2026. web_fetch vanban.chinhphu.vn/?docid=218316&pageid=27160 xác nhận: "Thông tư số 14/2026/TT-BNV của Bộ Nội vụ: Quy định chi tiết việc điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng". Nguồn: vanban.chinhphu.vn (docid 218316), luatvietnam.vn (slug 436031, 109306), tcnnld.vn. |
+| **172/2026/NĐ-CP** | **15/05/2026** ⚠️ | **Quy định chi tiết chi phí thực hiện và kinh phí bảo đảm công tác dẫn độ, chuyển giao người đang chấp hành án phạt tù, tương trợ tư pháp về hình sự** — 15 nhóm nội dung chi từ ngân sách nhà nước; chi hồ sơ, giám định, phiên dịch, chuyên gia tư vấn; chi đi lại/ăn/ở người bị dẫn độ; cụ thể hóa Luật Dẫn độ 100/2025, Luật Chuyển giao tù 101/2025, Luật Tương trợ tư pháp 103/2025; hiệu lực **01/7/2026** | Tư pháp / Tài chính / Hình sự | vanban.chinhphu.vn (docid **218180**) | **Hoàn thiện** | **⚠️ CẬP NHẬT NGÀY — từ ước đoán ~26/6 → 15/5/2026.** Tracking ghi "ước đoán ~26/6/2026" — xác minh ngày thực tế là **15/5/2026**. web_fetch vanban.chinhphu.vn/?docid=218180&pageid=27160 xác nhận: "Nghị định số 172/2026/NĐ-CP của Chính phủ: Quy định chi tiết chi phí thực hiện và kinh phí bảo đảm công tác dẫn độ, công tác chuyển giao người đang chấp hành án phạt tù, công tác tương trợ tư pháp về hình sự". Nguồn: vanban.chinhphu.vn (docid 218180), luatvietnam.vn (slug 435172), danang.gov.vn, baochinhphu.vn. |
+| **210/2026/NĐ-CP** | 15/06/2026 | **Quy định chi tiết và hướng dẫn thi hành Luật Xây dựng về hợp đồng xây dựng** — phân loại, nội dung, hồ sơ hợp đồng XD; biện pháp bảo đảm; sửa đổi hợp đồng; tạm dừng, chấm dứt; thanh toán, quyết toán, thanh lý; tạm ứng tối đa 30%; thay thế NĐ 37/2015/NĐ-CP phần hợp đồng; hiệu lực **01/7/2026** | Xây dựng | vanban.chinhphu.vn (docid **218451**) | **Hoàn thiện** | **XÁC MINH DOCID**: web_fetch vanban.chinhphu.vn/?docid=218451&pageid=27160 xác nhận: "Nghị định số 210/2026/NĐ-CP: Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xây dựng về hợp đồng xây dựng". Đã có trong tracking (docid 218451, file đã commit), chỉ xác minh lại. |
+| **96/2026/TT-BTC** | 02/07/2026 | **Sửa đổi, bổ sung Thông tư 67/2023/TT-BTC về kinh doanh bảo hiểm** — quy định chi tiết hoạt động kinh doanh bảo hiểm; sửa điều kiện, hồ sơ, thủ tục; bảo vệ dữ liệu cá nhân bắt buộc khi bán bảo hiểm trên môi trường mạng; hoa hồng đại lý bảo hiểm liên kết đầu tư; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **218804**) | **Hoàn thiện** | **XÁC MINH DOCID (verify lại từ lần 40)**: web_fetch vanban.chinhphu.vn/?docid=218804&pageid=27160 xác nhận: "Thông tư số 96/2026/TT-BTC của Bộ Tài chính: Sửa đổi, bổ sung một số điều của Thông tư số 67/2023/TT-BTC". Docid 218804 đã xác minh từ lần 40. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-11 lần 44)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 14/2026/TT-BNV | **CÓ** (dòng 226, ước đoán 30/6) | **⚠️ SỬA NGÀY → 29/5/2026 + SỬA TRÍCH YẾU** (14/TT-BNV = BHXH, 15/TT-BNV = phụ cấp khu vực) |
+| 172/2026/NĐ-CP | **CÓ** (dòng 227, ước đoán ~26/6) | **Cập nhật ngày → 15/5/2026** |
+| 210/2026/NĐ-CP | **CÓ** (dòng 1158, docid chưa xác minh) | **Cập nhật docid → 218451** |
+| 96/2026/TT-BTC | **CÓ** (lần 39, docid 218804 từ lần 40) | **Verify lại → 218804 ✅** |
+
+### Phát hiện quan trọng: NHẦM LẪN 14/TT-BNV ↔ 15/TT-BNV
+
+Tracking từ đầu ghi **14/2026/TT-BNV** là "phụ cấp khu vực, công chức viên chức, ban hành 30/6/2026" — ĐÂY LÀ NHẦM. Thực tế:
+- **14/2026/TT-BNV** = docid **218316**, ban hành **29/5/2026**, nội dung **điều chỉnh lương hưu, trợ cấp BHXH và trợ cấp hằng tháng** (tăng 8%)
+- **15/2026/TT-BNV** = docid **218701**, ban hành **30/6/2026**, nội dung **sửa đổi phụ cấp khu vực** (công chức viên chức)
+
+**Tracking đã ghi nhận đúng nội dung 15/TT-BNV (docid 218701) nhưng gán nhầm vào 14/TT-BNV.** Cần sửa dòng 226 trong tracking: đổi ngày 30/6→29/5, đổi trích yếu "phụ cấp khu vực"→"điều chỉnh lương hưu/BHXH". |
+
+### Tình trạng vanban.chinhphu.vn — dải 218850+ HTML generic (JS-rendered)
+
+- **Dải docid 218850–218999**: vanban.chinhphu.vn/?docid=X&pageid=27160 trả về HTTP 200 nhưng nội dung HTML generic — **không chứa tiêu đề văn bản trong HTML thuần túy** (JS-rendered)
+- **Phương pháp thay thế**: `web_fetch` (raw-html) vẫn trả về tiêu đề văn bản cho các docid đã biết (218316, 218180, 218451, 218804 đều xác nhận ✅)
+- **Kết luận**: Dải docid cao (218850+) có thể đã chuyển sang rendering phía client hoàn toàn — web_fetch vẫn extract được title qua raw HTML mode, nhưng cần duyệt từng docid cụ thể
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **⚠️ Sửa dòng 226 trong tracking**: Đổi 14/TT-BNV từ "30/6, phụ cấp khu vực" → "29/5, điều chỉnh lương hưu/BHXH". Đây là lỗi tracking quan trọng cần sửa ngay.
+2. **87/2026/TT-BTC** (ưu tiên 2): Hướng dẫn Luật TNCN + NĐ 253/2026; docid 218772 đã xác minh; cần bổ sung vào bảng chính (chưa có dòng riêng).
+3. **272/2026/NĐ-CP** (ưu tiên 3): Điện gió ngoài khơi; docid 218787 xác minh từ lần 43; cần xác minh lại (docid 218787 chưa chắc là 272).
+4. **80/2026/TT-BTC** (ưu tiên 4): Đăng ký công ty đại chúng; docid 218767 xác minh; cần bổ sung vào bảng chính.
+5. **84/2026/TT-BTC** (ưu tiên 5): Hoàn thuế GTGT khách nước ngoài; docid 218820 xác minh; cần bổ sung vào bảng chính.
+
+### Ghi chú xử lý
+
+- **4 docid xác minh**: 14/TT-BNV=218316, 172/NĐ-CP=218180, 210/NĐ-CP=218451 (verify), 96/TT-BTC=218804 (verify)
+- **2 ngày ban hành SAI trong tracking**: 14/TT-BNV (30/6→29/5), 172/NĐ-CP (~26/6→15/5)
+- **14/TT-BNV ≠ 15/TT-BNV**: Đây là hai văn bản hoàn toàn khác nhau — 14=Luật BHXH (29/5), 15=Phụ cấp khu vực (30/6). Tracking từ đầu ghi nhầm 14/TT-BNV là "phụ cấp khu vực" — thực chất là nội dung của 15/TT-BNV.
+- **web_fetch** (raw-html mode) = phương pháp mới hiệu quả cho dải docid cao (218850+) mà curl đơn thuần không extract được
+- Nguồn: vanban.chinhphu.vn (web_fetch raw-html — phương pháp duy nhất còn hoạt động cho dải cao), web_search Brave (luatvietnam.vn, baochinhphu.vn, danang.gov.vn, luatvietnam.vn/hinh-su, tcnnld.vn).
+- Ngày phát hiện: 2026-07-11 14:10 ICT
+- Phiên thực hiện: agent:github-io:subagent:a5d97b01-b3b1-4ed5-af32-206f3627dfd5 (Đệ #1 Discovery — lần 45)
+
+---
+
 ## Cập nhật 2026-07-11 (phiên Đệ #1 Discovery — lần 44)
 
 ### Phát hiện: 0 văn bản mới — 5 docid xác minh (87, 80, 84/TT-BTC + 206, 209/NĐ-CP)
@@ -223,8 +279,8 @@ Quét vanban.chinhphu.vn dải docid 231000–245000 (step 200, 31 docid) + web_
 | 80–88/2026/TT-BTC | 80, 81, 82, 83, 84, 85, 86, 87, 88 | 80=218767 ✅, 84=218820 ✅, 87=218772 ✅ (Đệ #1 lần 44), còn lại đã ghi nhận |
 | 23–29/2026/TT-BYT | 23, 24, 25, 29 | 25=218704 ✅ hoàn thiện, 29 ngày 06/7 (lần 40 cập nhật) |
 | 108/2026/TT-BCA | 108 | Ngày 29/6/2026 xác minh (lần 39), chưa crawl chi tiết |
-| 14/2026/TT-BNV | 14 | Chưa có, ước đoán 30/6/2026 |
-| 172/2026/NĐ-CP | 172 | Chi phí dẫn độ, ước đoán 26/6/2026, chưa xác minh ngày |
+| 14/2026/TT-BNV | 14 | Điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hằng tháng; **ban hành 29/05/2026** (docid 218316); ⚠️ trước đây tracking ghi nhầm ngày 30/6 + nội dung phụ cấp khu vực (thực chất là 15/TT-BNV)
+| 172/2026/NĐ-CP | 172 | Chi phí dẫn độ, chuyển giao tù, tương trợ tư pháp hình sự; **ban hành 15/05/2026** (docid 218180); trước đây ước đoán ~26/6/2026
 
 ### Đề xuất ưu tiên phiên tiếp theo
 
