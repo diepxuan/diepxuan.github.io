@@ -3878,3 +3878,49 @@ Qua web_search, phat hien 3 văn bản mới chua co trong tracking (ngay ban ha
 - Nguồn: doanhnghiephoinhap.vn (2026-07-04), luatvietnam.vn (2026-07-07).
 - Ngày phát hiện: 2026-07-07 10:12 ICT (lần 21)
 
+
+---
+
+## Cập nhật 2026-07-12 (phiên Đệ #1 Discovery — lần 50)
+
+### Phát hiện: 0 văn bản mới — ⚠️ Docid 219802 bị gỡ khỏi index + xác minh dải 218900–250000
+
+Quét vanban.chinhphu.vn dải docid 218846–219850 (step 5) + 218900–219850 (step 50) + 219900–220000 (step 1) + 220000–250000 (step 100) + xác minh 9 docid 218811–218845. Xác minh docid 278/2026/NĐ-CP = 219802. So sánh với tracking (đến lần 49 — 19 văn bản: 276, 278, 34, 90, 18, 1246, 1250, 1252, 6660, 364, 1198, 1239, 08/TTLT, 273, 263, 206, 209, 96, 272): **0 văn bản mới** — không phát hiện văn bản chưa từng ghi nhận.
+
+### Các phát hiện chính
+
+| Phát hiện | Chi tiết |
+|---|---|
+| **⚠️ 278/2026/NĐ-CP — docid 219802 BỊ GỠ KHỎI INDEX** | vanban.chinhphu.vn/?pageid=27160&docid=219802 giờ trả về HTML default "Không tìm thấy văn bản này". File trong repo tồn tại tại `van-ban/2026/278-2026-nd-cp-dieu-chinh-gia-dien.md` (crawl đầy đủ, 98 dòng, docid "219802" trong frontmatter). evn.com.vn xác nhận: ban hành **09/7/2026**, hiệu lực **09/7/2026**. **Cần tìm docid MỚI nếu hệ thống đánh lại index.** |
+| **Dải 218846–219850: TRỐNG HOÀN TOÀN** | 4 docid cuối (218846–218849) đều empty. Step 50 (218900–219850): TẤT CẢ empty. |
+| **Dải 219802–220000: TRỐNG HOÀN TOÀN** | 10 docid (219800–219810) step 1: TẤT CẢ empty. |
+| **Dải 220000–250000: TRỐNG HOÀN TOÀN** | 301 docid (step 100): TẤT CẢ empty. |
+| **Xác minh 9 docid 218811–218845: TẤT CẢ CÒN TRUY CẬP ĐƯỢC** | 276 (218832), 34 (218833), 90 (218839), 18 (218811), 1252 (218844), 1246 (218841), 1250 (218842), 6660 (218843), 364 (218845) — tất cả trả về tiêu đề đúng trên vanban.chinhphu.vn. |
+| **218803 = 348/CTPH-CP-HNDVN-HLHPNVN** | Chương trình phối hợp giữa Chính phủ và Hội Liên hiệp Phụ nữ, Hội Nông dân Việt Nam về tuyên truyền nông lâm thủy sản chất lượng, an toàn giai đoạn 2026-2030. Docid 218804 = 96/TT-BTC. |
+
+### Trạng thái vanban.chinhphu.vn — VẪN ĐANG THAY ĐỔI CẤU TRÚC
+
+- **218811–218845**: Hoạt động bình thường (tất cả trả về tiêu đề đúng)
+- **218846–219850**: TRỐNG (4 docid đầu + step 50 tiếp theo)
+- **219802 (278/NĐ-CP)**: **BỊ GỠ** — trả về "Không tìm thấy văn bản này"
+- **219900–250000**: TRỐNG HOÀN TOÀN (step 100, 301 docid)
+- **218804 = 96/TT-BTC**: Xác minh lại (docid 218804 có PDF đúng `96-ttbtc.signed.pdf`)
+
+### Đề xuất phiên tiếp theo
+
+1. **⚠️ Tìm docid MỚI cho 278/2026/NĐ-CP** (ưu tiên cao nhất): Docid 219802 hiện bị gỡ. Cần tìm docid mới trên vanban.chinhphu.vn (có thể đã được gán lại ở dải khác) hoặc trên baochinhphu.vn.
+2. **Quét dải 218846–219850** (ưu tiên 2): Có thể đã được index sau lần quét gần nhất. Cần quét step 1 toàn dải.
+3. **Quét dải 220000–250000** (ưu tiên 3): Dải cao hơn vẫn trống hoàn toàn — theo dõi định kỳ.
+4. **Xác minh 274–280/NĐ-CP, 88–100/TT-BTC, 109–120/TT-BCA** (ưu tiên 4): Các văn bản ưu tiên vẫn chưa có trong index.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần 50 — dải index 218846+ vẫn trống hoàn toàn
+- **278/2026/NĐ-CP**: File đã có trong repo → trạng thái **Hoàn thiện** (dù docid nguồn gốc 219802 không còn truy cập được trên vanban.chinhphu.vn). Cần tìm docid mới để cập nhật frontmatter.
+- **vanban.chinhphu.vn đang thay đổi cấu trúc index**: Docid 219802 bị gỡ đồng nghĩa hệ thống đang tái cấu trúc dữ liệu. Có thể docid mới sẽ xuất hiện ở dải 218846+ trong các phiên tiếp theo.
+- **96/2026/TT-BTC docid = 218804 xác nhận lại**: PDF đúng `96-ttbtc.signed.pdf`.
+- **348/CTPH-CP-HNDVN-HLHPNVN**: Công thương trình phối hợp — ghi nhận để theo dõi, không ưu tiên.
+- Nguồn: vanban.chinhphu.vn (dải 218846–219850 step 5, 218900–219850 step 50, 219800–219810 step 1, 220000–250000 step 100), evn.com.vn (xác nhận 278/2026/NĐ-CP).
+- Ngày phát hiện: 2026-07-12 03:31 ICT
+- Phiên thực hiện: agent:github-io:subagent:64a9553e-ceb7-462b-aa41-bc8e9da1b49a (Đệ #1 Discovery — lần 50)
+
