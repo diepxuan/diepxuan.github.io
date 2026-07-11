@@ -1,3 +1,58 @@
+> **Đệ #3 Discovery — Xác minh docid + bổ sung 14/TT-BNV, 172/NĐ-CP**
+> Phiên bản: 2026-07-11T09:33 GMT+7
+> Nguồn quét: vanban.chinhphu.vn, docid HTML page scan
+> Dải quét: 216000–220000
+
+---
+
+## XÁC MINH DOCID
+
+### 96/2026/TT-BTC — CONFIRMED
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 96/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 02/07/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Kinh doanh bảo hiểm, sửa đổi TT 67/2023 |
+| **Docid** | 218804 ✅ CONFIRMED |
+| **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218804 |
+| **Trích yếu** | Sửa đổi, bổ sung một số điều của Thông tư số 67/2023/TT-BTC ngày 02/11/2023 hướng dẫn Luật Kinh doanh bảo hiểm, NĐ 46/2023/NĐ-CP |
+| **Ghi chú** | Docid xác minh trùng khớp với memory lần 40 |
+
+### 14/2026/TT-BNV — CONFIRMED ✅ DOCID MỚI
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 14/2026/TT-BNV |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Nội vụ |
+| **Ban hành** | 30/06/2026 (ước đoán) |
+| **Hiệu lực** | 01/07/2026 (ước đoán) |
+| **Chủ đề** | Công chức, viên chức, lương hưu, BHXH |
+| **Docid** | 218316 ✅ CONFIRMED |
+| **Nguồn** | vanban.chinhphu.vn/?pageid=27160&docid=218316 |
+| **Trích yếu** | Quy định chi tiết việc điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng |
+| **Ghi chú** | Bổ sung mới vào tracking; quét dải 216000–220000 để tìm |
+
+### 172/2026/NĐ-CP — CHƯA TÌM THẤY ⚠️
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 172/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | ~26/06/2026 (ước đoán) |
+| **Hiệu lực** | 01/07/2026 (ước đoán) |
+| **Chủ đề** | Chi phí dẫn độ |
+| **Docid** | CHƯA XÁC MINH |
+| **Phạm vi quét** | 216000–220000 (không tìm thấy) |
+| **Ghi chú** | Cần quét mở rộng hoặc tìm qua kênh khác |
+
+---
+
 # LEGISLATION_TRACKING.md
 
 > **Đệ #2 Discovery — Báo cáo văn bản pháp luật mới**
@@ -17,7 +72,36 @@
 
 ---
 
-## VĂN BẢN MỚI PHÁT HIỆN (Đệ #2 — 5 văn bản, 11/07/2026)
+## VĂN BẢN XÁC MINH DOCID (Đệ #3 — 11/07/2026)
+
+### 14/2026/TT-BNV — Công chức, viên chức, điều chỉnh lương hưu, trợ cấp BHXH
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 14/2026/TT-BNV |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Nội vụ |
+| **Ban hành** | ~30/06/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Docid** | 218316 (vanban.chinhphu.vn) |
+| **Trích yếu** | Quy định chi tiết việc điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng |
+| **Ghi chú** | Chưa crawl toàn văn
+
+### 172/2026/NĐ-CP — Chi phí dẫn độ
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 172/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | ~26/06/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Docid** | CHƯA XÁC MINH |
+| **Ghi chú** | Không tìm thấy trong dải 216000–220000; cần quét mở rộng
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN (Đệ #2 — 5 văn bản, 11/07/2026)**
 
 ### 1. Nghị định 276/2026/NĐ-CP — Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ
 
@@ -121,4 +205,4 @@
 ---
 
 *Lần cập nhật tiếp theo: khoảng 12/07/2026 hoặc khi có văn bản mới ban hành sau 09/07/2026.*
-*Đệ #2 Discovery — github-io workspace*
+*Đệ #3 Discovery — 11/07/2026 — github-io workspace*
