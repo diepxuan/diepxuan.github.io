@@ -1,0 +1,660 @@
+---
+layout: vanban
+title: "Nghị định 276/2026/NĐ-CP"
+so_hieu: "276/2026/NĐ-CP"
+ngay_ban_hanh: "2026-07-08"
+ngay_hieu_luc: "2026-07-08"
+co_quan_ban_hanh: "Chính phủ"
+nguoi_ky: "Thủ tướng Chính phủ"
+trich_yeu: "Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (thay thế Nghị định số 25/2025/NĐ-CP)"
+trich_yeu_day_du: "Chính phủ ban hành Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ."
+can_cu_phap_ly:
+  - "Luật Tổ chức Chính phủ số 63/2025/QH15"
+phan_loai: "nghi-dinh"
+loai_van_ban: "Nghị định"
+nhom: "Hành chính / Tổ chức bộ máy"
+tags:
+  - "Bộ Nội vụ"
+  - "Tổ chức bộ máy"
+  - "Cơ cấu tổ chức"
+  - "Cán bộ công chức"
+  - "Hành chính"
+docid: "218832"
+source: "vanban.chinhphu.vn"
+pdf_url: "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/276-ndcp.signed.pdf"
+toc: true
+---
+
+# Nghị định 276/2026/NĐ-CP
+
+## THÔNG TIN VĂN BẢN
+
+| Trường | Nội dung |
+|--------|----------|
+| Số hiệu | 276/2026/NĐ-CP |
+| Ngày ban hành | 08/7/2026 |
+| Ngày có hiệu lực | 08/7/2026 |
+| Cơ quan ban hành | Chính phủ |
+| Người ký | Thủ tướng Chính phủ |
+| Loại văn bản | Nghị định |
+| Lĩnh vực | Hành chính / Tổ chức bộ máy |
+| Căn cứ pháp lý | Luật Tổ chức Chính phủ số 63/2025/QH15 |
+| Thay thế | Nghị định số 25/2025/NĐ-CP ngày 21/02/2025 |
+| Nguồn | vanban.chinhphu.vn (docid 218832) |
+
+## VĂN BẢN
+
+
+ko ail: thongtinchinhphu(gchinhphu.vn.
+——— Độc lập - Tự do - Hạnh phúc
+
+Số: 276/2026/NĐ-CP Hà Nội, ngày 08 tháng 7 năm 2026
+
+Quy định chức năng, nhiệm vụ, quyền hạn
+và cơ cầu tổ chức của Bộ Nội vụ
+
+Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
+Theo đề nghị của Bộ trưởng Bộ Nội vụ;
+
+Chính phủ ban hành Nghị định quy định chúc năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Bộ Nội vụ.
+
+### Điều 1. Vị trí và chức năng
+
+Bộ Nội vụ là cơ quan của Chính phủ, thực hiện chức năng quản lý nhà nước
+về các ngành, lĩnh vực: Tổ chức hành chính, đơn vị sự nghiệp công lập; tổ chức
+chính quyền địa phương; cán bộ, công chức, viên chức và công vụ; lao động, tiền
+lương, bảo hiểm xã hội; việc làm; an toàn, vệ sinh lao động; hội, quỹ xã hội, quỹ
+từ thiện, tổ chức phi chính phủ; người có công; thanh niên; bình đăng giới; văn
+thư, lưu trữ nhà nước; thi đua, khen thưởng (sau đây gọi chung là ngành, lĩnh
+vực nội vụ) và quản lý nhà nước đối với các dịch vụ công thuộc ngành, lĩnh vực
+nội vụ theo quy định của pháp luật.
+
+### Điều 2. Nhiệm vụ và quyền hạn
+
+Bộ Nội vụ thực hiện nhiệm vụ, quyền hạn theo quy định tại Luật Tổ chức
+Chính phủ, quy định của Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ
+cấu tổ chức của bộ, cơ quan ngang bộ và thực hiện những nhiệm vụ, quyền hạn
+cụ thể sau đây: -
+
+1. Trình Chính phủ dự án luật, dự thảo nghị quyết của Quốc hội, dự án
+pháp lệnh, dự thảo nghị quyết của Ủy ban Thường vụ Quốc hội, dự thảo nghị
+định, nghị quyết của Chính phủ theo chương trình, kế hoạch xây dựng pháp luật
+hàng năm của bộ đã được phê duyệt và các dự án, đề án, chương trình, nghị
+quyết theo sự phân công của Chính phủ, Thủ tướng Chính phủ; trình Chính
+phủ, Thủ tướng Chính phủ chiến lược, quy hoạch, kế hoạch phát triển đài hạn,
+trung hạn, hàng năm và các dự án, công trình quan trọng quốc gia về ngành,
+lĩnh vực nội vụ.
+
+2. Trình Thủ tướng Chính phủ dự thảo quyết định, chỉ thị, chương trình
+mục tiêu quốc gia, chương trình quốc gia, chương trình hành động quốc gia và
+các văn bản khác về ngành, lĩnh vực nội vụ hoặc theo phân công.
+
+3. Ban hành thông tư, quyết định, chỉ thị và các văn bản khác thuộc ngành,
+lĩnh vực nội vụ.
+
+4. Chỉ đạo, hướng dẫn và tổ chức thực hiện chức năng, nhiệm vụ, văn bản
+quy phạm pháp luật, chiến lược, quy hoạch, kế hoạch, chương trình mục tiêu
+quốc gia, chương trình quốc gia, chương trình hành động quốc gia và các đề
+án, dự án, công trình quan trọng quốc gia đã được ban hành hoặc phê duyệt;
+thông tin, tuyên truyền, phổ biến, giáo dục pháp luật về ngành, lĩnh vực nội vụ
+theo quy định của pháp luật.
+
+5. Tổ chức hành chính, đơn vị sự nghiệp công lập:
+
+a) Trình Chính phủ đề án cơ cấu tổ chức của Chính phủ theo nhiệm kỳ
+Quốc hội; để án về thành lập mới, sáp nhập, hợp nhất, chia, tách, giải thể bộ,
+cơ quan ngang bộ; dự thảo nghị định quy định tổ chức các cơ quan chuyên môn
+thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi
+chung là cấp tỉnh) và Ủy ban nhân dân xã, phường, đặc khu trực thuộc tỉnh,
+thành phố trực thuộc trung ương (sau đây gọi chung là cấp xã);
+
+b) Thẩm định dự thảo nghị định của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của các bộ, cơ quan ngang bộ; dự thảo quyết
+định của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ
+cấu tổ chức của tÔ chức thuộc thẩm quyền quyết định của Thủ tướng Chính
+phủ; đề án và dự thảo quyết định của Thủ tướng Chính phủ về việc thành lập,
+tổ chức lại, giải thể các tổ chức hành chính, đơn vị sự nghiệp công lập và các
+tổ chức tư vân, phối hợp liên ngành do các bộ, cơ quan ngang bộ và Ủy ban
+nhân dân cấp tỉnh trình Thủ tướng Chính phủ;
+
+c) Chủ trì, phối hợp với Văn phòng Chính phủ và các bộ, cơ quan ngang
+bộ rà soát lại lần cuối các dự thảo nghị định của Chính phủ quy định chức năng,
+nhiệm vụ, quyền hạn và cơ câu tổ chức của các bộ, cơ quan ngang bộ trước khi
+trình Thủ tướng Chính phủ ký, ban hành;
+
+đ) Hướng dẫn việc rà soát chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của các bộ, cơ quan ngang bộ; tổng hợp, báo cáo Chính phủ quyết định
+điều chỉnh chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các bộ, cơ
+quan ngang bộ;
+
+đ) Hướng dẫn xếp hạng đơn vị sự nghiệp công lập theo quy định của
+pháp luật.
+
+6. Về chính quyền địa phương:
+
+a) Tham mưu, giúp Chính phủ, Thủ tướng Chính phủ chỉ đạo thực hiện
+công tác bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp; hướng
+dẫn, đôn đốc Ủy ban nhân dân các cấp thực hiện các quy định của pháp luật về
+bầu cử, các văn bản hướng dẫn của Hội đồng bầu cử quốc gia và các cơ quan
+trung ương; báo cáo Chính phủ, Thủ tướng Chính phủ theo quy định của công
+tác bầu cử;
+
+b) Giúp Chính phủ hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực
+hiện văn bản của cơ quan nhà nước cấp trên thuộc phạm vi quản lý; chỉ đạo,
+hướng dẫn, kiểm tra Ủy ban nhân dân các cấp thực hiện nhiệm vụ công tác thuộc
+phạm vi quản lý hoặc Chính phủ, Thủ tướng Chính phủ giao theo quy định của
+pháp luật; khi cần thiết tham dự các cuộc họp của Hội đồng nhân dân và của Ủy
+ban nhân dân cấp tỉnh bàn về lĩnh vực xây dựng chính quyền địa phương và quản
+lý địa giới đơn vị hành chính;
+
+c) Trình Chính phủ quy định khung số lượng Phó Chủ tịch Ủy ban nhân
+dân; sô lượng và cơ cấu Ủy viên Ủy ban nhân dân; trình tự, thủ tục để nghị phê
+chuẩn kết quả Hội đồng nhân dân bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó
+Chủ tịch Ủy ban nhân dân; trình tự, thủ tục điều động, cách chức Chủ tịch, Phó
+Chủ tịch Ủy ban nhân dân và giao quyền Chủ tịch Ủy ban nhân dân;
+
+đ) Trình Chính phủ ban hành quy định về tổ chức, hoạt động của thôn, tô
+dân phô và chế độ, chính sách đối với người hoạt động không chuyên trách ở
+thôn, tổ dân phô;
+
+đ) Trình Thủ tướng Chính phủ ban hành văn bản quy định về tiêu chí, điều
+kiện, quy trình, thủ tục công nhận xã đảo, xã an toàn khu; theo dõi, kiểm tra,
+tổng hợp báo cáo Thủ tướng Chính phủ về việc thực hiện công nhận xã đảo, xã
+an toàn khu của Ủy ban nhân dân cấp tỉnh.
+
+7. Về địa giới đơn vị hành chính và phân loại đơn vị hành chính:
+
+a) Trình Chính phủ xem xét, trình Ủy ban Thường vụ Quốc hội ban hành
+văn bản quy định về tiêu chuân của đơn vị hành chính;
+
+b) Trình Chính phủ xem xét, trình Quốc hội quyết định việc thành lập, giải
+thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp tỉnh; Ủy ban Thường
+vụ Quốc hội quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới
+đơn vị hành chính cấp Xã;
+
+c Trình Chính phủ ban hành văn bản quy định về phân loại đơn vị hành
+chính; quyết định việc giải quyết các điểm chồng lần, chưa xác định rõ về địa
+giới đơn vị hành chính cấp tỉnh theo quy định của Luật Đất đai và các quy định
+khác có liên quan;
+
+đ) Ban hành theo thẩm quyền văn bản quy định về lập, quản lý hồ sơ địa
+giới đơn vị hành chính các câp; thẩm định và công nhận hồ sơ địa giới đơn vị
+hành chính các cấp;
+@ Chủ trì, phối hợp với các bộ, cơ quan liên quan tổ chức thâm định hồ
+sơ để án thành lập, giải thể, nhập, chia đơn vị hành chính, điều chỉnh địa giới
+đơn vị hành chính, đổi tên đơn vị hành chính;
+
+,e) Chủ trì, phối hợp với các bộ, cơ quan liên quan tổ chức thâm định hồ
+sơ để án và quyết định phân loại đơn vị hành chính cấp tỉnh, phường, đặc khu
+loại đặc biệt.
+
+8. Về quản lý biên chế:
+
+Thực hiện quản lý biên chế công chức, số lượng người làm việc hưởng
+lương từ ngân sách nhà nước của các bộ, cơ quan ngang bộ, cơ quan đại diện
+Việt Nam ở nước ngoài theo quy định của pháp luật và cơ quan có thẩm quyền.
+
+9. Về cán bộ, công chức, viên chức và công vụ:
+
+a) Trình Chính phủ, Thủ tướng Chính phủ ban hành hoặc ban hành theo
+thẩm quyền các văn bản quy phạm pháp luật, các để tài, đề án, chiến lược và
+hướng dẫn việc thực hiện các quy định về tuyển dụng, bố trí, sử dụng công
+chức, viên chức theo vị trí việc làm; đánh giá, xếp loại chất lượng công chức,
+viên chức; tiêu chuẩn chức danh; bổ nhiệm, bổ nhiệm lại, điều động, luân
+chuyển, biệt phái, từ chức, miễn nhiệm, kỷ luật, thôi việc, nghỉ hưu của cán bộ,
+công chức, viên chức; đào tạo, bồi dưỡng cán bộ, công chức, viên chức (trừ
+trường hợp pháp luật chuyên ngành có quy định khác) và về tạo nguồn cán bộ
+nữ, tỷ lệ nữ để bổ nhiệm các chức đanh trong các cơ quan nhà nước và các nội
+dung quản lý khác đối với cán bộ, công chức, viên chức theo quy định;
+
+b) Trình Thủ tướng Chính phủ xem xét, trình Quốc hội quyết định về cơ
+câu sô lượng thành viên Chính phủ, bồ nhiệm, miễn nhiệm, cách chức Phó Thủ
+tướng Chính phủ, Bộ trưởng và Thủ trưởng cơ quan ngang bộ theo nhiệm kỳ
+của Quốc hội. Thẩm định về tiêu chuẩn, điều kiện, quy trình, thủ tục và hồ sơ
+nhân sự đối với các chức danh lãnh đạo, quản lý thuộc thẩm quyền của Thủ
+tướng Chính phủ quyết định, phê chuẩn theo quy định của pháp luật;
+
+c) Hướng dẫn, kiểm tra và tổ chức thực hiện các quy định của pháp luật
+về vị trí việc làm công chức và vị trí việc làm viên chức;
+
+đ) Hướng dẫn việc lập, quản lý hồ sơ cán bộ, công chức, viên chức; thẻ
+công chức, viên chức;
+
+đ) Xây dựng, ban hành và quản lý các chương trình bồi dưỡng đối với
+công chức, viên chức theo thẩm quyền;
+
+e) Xây dựng, ban hành, hướng dẫn và tổ chức thực hiện chiến lược, đề án, kế
+
+hoạch đào tạo, bôi dưỡng cán bộ, công, chức, viên chức bằng nguồn ngân sách nhà
+nước theo thẩm quyền;
+g) Theo dõi, tổng hợp kết quả đào tạo, bồi dưỡng cán bộ, công chức, viên
+chức của các cơ quan Nhà nước, Ủy ban Trung ương Mặt trận Tổ quốc Việt
+Nam (bao gồm các tổ chức chính trị - xã hội ở trung ương), Ủy ban nhân dân
+cấp tỉnh.
+
+10. Về cải cách hành chính nhà nước:
+
+a) Trình cấp có thẩm quyền quyết định chương trình, kế hoạch, đề án
+chung về cải cách hành chính nhà nước trong từng giai đoạn. Làm thường trực
+công tác cải cách hành chính của Chính phủ;
+
+b) Trình Chính phủ, Thủ tướng Chính phủ quyết định các chủ trương,
+chính sách và giải pháp đây mạnh cải cách hành chính nhà nước; '
+
+c) Thâm định đề án thí điểm cải cách bành chính đo các bộ, cơ quan ngang
+bộ, Ủy ban nhân dân cấp tỉnh trình Thủ tướng Chính phủ; ,
+
+đ) Chủ trì triển khai công tác cải cách tổ chức bộ máy hành chính nhà
+nước, cải cách chế độ công vụ;
+
+đ) Xây dựng, ban hành, hướng dẫn phương pháp theo dõi, đánh giá, xác
+định chỉ số cải cách hành chính của các bộ, cơ quan ngang bộ, Ủy ban nhân dân
+
+cấp tỉnh; phương pháp đo lường sự hài lòng của người dân đối với sự phục vụ
+của cơ quan hành chính nhà nước;
+
+e) Tổ chức triển khai, xác định và công bố chỉ số cải cách hành chính hàng
+năm của các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh; chỉ số hài lòng
+của người dân đối với sự phục vụ của cơ quan hành chính nhà nước;
+
+g) Hướng dẫn các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh xây
+dựng, thực hiện các chương trình, đề án, kế hoạch và báo cáo về công tác cải
+cách hành chính theo quy định.
+
+11. Về lĩnh vực lao động, tiền lương và bảo hiểm xã hội:
+
+a) Hướng dẫn và tổ chức thực hiện các quy định của pháp luật về hợp đồng
+lao động, kỷ luật lao động, trách nhiệm vật chất, đối thoại tại nơi làm việc,
+thương lượng tập thể, thỏa ước lao động tập thể và giải quyết tranh chấp lao động;
+
+b) Hướng dẫn thực hiện các quy định của pháp luật lao động đối với lao
+động nữ, lao động chưa thành niên, người lao động cao tuổi, lao động là người
+khuyết tật, lao động là người giúp việc gia đình và một số lao động khác;
+
+ce) Hướng dẫn việc đăng ký và quản lý nhà nước đối với hoạt động của các
+tổ chức đại điện người lao động theo quy định của pháp luật lao động;
+
+đ) Hướng dẫn việc thực hiện quy định của pháp luật về chính sách, chế độ
+tiền lương, phụ cấp, sinh hoạt phí, tiền thưởng đối với cán bộ, công chức, viên
+chức từ trung ương đến cấp xã và lao động hợp đồng trong cơ quan nhả nước,
+đơn vị sự nghiệp công lập;
+
+đ) Hướng dẫn thực hiện các quy dịnh của pháp luật về mức lương tối thiểu
+và chính sách tiền lương đối với người lao động trong doanh nghiệp, cơ quan,
+tổ chức, hợp tác xã, hộ gia đình, cá nhân có thuê mướn, sử dụng lao động theo
+quy định của Bộ luật Lao động;
+
+e) Hướng dẫn về tiền lương, tiền thưởng và thủ lao đối với người lao động,
+người quản lý trong đoanh nghiệp nhà nước, doanh nghiệp có vỗn đầu tư nhà nước;
+
+g) Chủ trì, phối hợp với các bộ, cơ quan liên quan tham mưu xây dựng, ban
+hành và chỉ đạo, hướng dẫn, kiếm tra việc thực hiện chính sách, pháp luật về bảo
+hiểm xã hội (trừ tài chính bảo hiểm xã hội, tài chính quỹ bảo hiểm xã hội và kiểm
+tra chuyên ngành về đóng bảo hiểm xã hội) theo quy định của pháp luật;
+
+h) Nghiên cứu, tham mưu cấp có thẩm quyền về thực hiện cải cách chính
+sách tiên lương, chính sách bảo hiêm xã hội.
+
+12. Về lĩnh vực việc làm:
+
+a) Hướng dẫn và tổ chức thực hiện các quy định của pháp luật về việc làm;
+bảo hiểm thất nghiệp; tuyển dụng và quản lý người lao động Việt Nam; thống
+nhất quản lý người lao động nước ngoài làm việc tại Việt Nam;
+
+b) Hướng dẫn việc đăng ký lao động; xây dựng, quản lý, vận hành, khai
+thác hệ thống thông tin thị trường lao động; quản lý hệ thống thông tin thị
+trường lao động ở trung ương theo quy định của pháp luật;
+
+c) Hướng dẫn việc thực hiện các quy định của pháp luật về tổ chức _và hoạt
+động dịch vụ việc làm; xây đựng và quản lý Sàn giao dịch việc làm quốc gia;
+
+d) Chủ trì, phối hợp với Ủy ban nhân dân Thành phố Hồ Chí Minh, Ủy
+bạn nhân dân thành phố Đà Nẵng thực hiện thống nhất quản lý nhà nước về
+tuyển dụng, quản lý lao động Việt Nam và lao động nước ngoài làm việc trong,
+Trung tâm tài chính quốc tế.
+
+13. Về phát triển kỹ năng nghề:
+
+a) Chủ trì, phối hợp với các bộ, ngành, cơ quan liên quan hướng dẫn và tổ
+chức thực hiện các quy định của pháp luật về phát triển kỹ năng nghề; khung
+trình độ kỹ năng nghề quốc gìa; tiêu chuẩn kỹ năng nghề quốc gia; đánh giá và
+cấp chứng chỉ kỹ năng nghề quốc gia; điều kiện cơ sở vật chất, trang thiết bị
+phục vụ hoạt động đánh giá kỹ năng, nghề quốc gia; hội đồng kỹ năng nghề theo
+quy định của pháp luật;
+
+b) Đề xuất, ký kết các hiệp định song phương và đa phương về công
+nhận, thừa nhận lẫn nhau về chứng chỉ kỹ năng nghề quốc gia giữa Việt Nam
+với các quốc gia khác theo thẩm quyền.
+14. Về lĩnh vực an toàn, vệ sinh lao động:
+
+a) Hướng dẫn và tổ chức thực hiện các quy định của pháp luật về an
+toàn, vệ sinh lao động; chế độ làm việc, thời giờ làm việc, thời giờ nghỉ ngơi;
+chương trình quốc gia về an toàn, vệ sinh lao động, lập hồ sơ quốc gia về an
+toàn, vệ sinh lao động;
+
+b) Quy định việc bồi thường, trợ cấp tai nạn lao động, bệnh nghề nghiệp;
+bồi dưỡng bằng hiện vật cho người lao động làm việc trong điều kiện có yếu
+tố nguy hiểm, yếu tổ có hại;:
+
+c) Ban hành danh mục các loại máy, thiết bị, vật tư, chất có yêu cầu
+nghiêm ngặt về an toàn, vệ sinh lao động theo quy định của pháp luật; chủ
+trì thực hiện công tác quản lý nhà nước đối với hoạt động huấn luyện an toàn,
+vệ sinh lao động và hoạt động kiểm định các loại máy, thiết bị, vật tư có yêu
+cầu nghiêm ngặt về an toàn lao động;
+
+đ) Chủ trì ban hành danh mục công việc có yêu cầu nghiêm ngặt về an
+toàn, vệ sinh lao động; danh mục nghề, công việc nặng nhọc, độc hại, nguy
+hiểm và đặc biệt nặng nhọc, độc hại, nguy hiểm. Quy định tiêu chuẩn phân
+loại lao động theo điều kiện lao động, chế độ trang cấp phương tiện bảo vệ
+cá nhân trong lao động;
+
+đ) Thực hiện quản lý nhà nước về hoạt động trong lĩnh vực tiêu chuẩn
+và lĩnh vực quy chuẩn kỹ thuật, xây dựng các tiêu chuẩn quốc gia, ban hành
+quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động thuộc thẩm quyền
+quản lý theo quy định của pháp luật;
+
+e) Ban hành quy trình kiểm định máy, thiết bị, vật tư và quản lý chất có
+yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động thuộc phạm vi quản lý theo
+quy định của pháp luật;
+
+g) Thực hiện quản lý nhà nước về chất lượng sản phẩm, hàng hóa, ban
+hành Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình và mức độ
+rủi ro cao thuộc phạm vi quản lý theo quy định của pháp luật;
+
+h) Tiến hành điều tra tai nạn lao động thuộc phạm vi quản lý theo quy
+định của pháp luật; tổ chức thực hiện và hướng dẫn thực hiện việc thu thập,
+lưu trữ, tổng hợp, cung cấp, công bố, đánh giá về tình hình tai nạn lao động,
+sự cỗ kỹ thuật gây mắt an toàn, vệ sinh lao động nghiêm trọng.
+
+15. Về lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo
+hợp đồng:
+
+a) Hướng dẫn và tổ chức thực hiện các quy định của pháp luật về người
+lao động Việt Nam đi làm việc ở nước ngoài theo hợp đông;
+b) Xúc tiền mở rộng, ôn định và phát triển thị trường lao động ngoài nước;
+
+c) Quy định về chương trình, nội dung, thời lượng giáo dục định hướng,
+mẫu và thời hạn của giấy chứng nhận hoàn thành khóa học giáo dục định hướng
+cho người lao động trước khi đi làm việt ở nước ngoài;
+
+đ) Quyết định việc cấp, cấp lại, điều chỉnh thông tin, thu hồi giấy phép
+hoạt động dịch vụ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng
+theo quy định của pháp luật;
+
+đ) Tổ chức, hướng dẫn việc đăng ký hợp đồng của doanh nghiệp và đăng
+ký hợp đồng của người lao động đi làm việc ở nước ngoài theo hợp đông lao
+động giao kết sau khi xuất cảnh; giám sát việc thực hiện hợp đồng của doanh
+nghiệp;
+
+e) Hướng dẫn nghiệp vụ quản lý lao động cho cán bộ công tác tại cơ quan
+đại diện Việt Nam ở nước ngoài.
+16. Về tổ chức hội, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ:
+
+a) Thẩm định, trình Thủ tướng Chính phủ phê duyệt điều lệ các hội thuộc
+thẩm quyền quyết định của Thủ tướng Chính phủ theo quy định của pháp luật;
+
+b) Giải quyết theo thẩm quyền và quy định của pháp luật về các thủ tục
+liên quan đến hội, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ;
+
+e) Hướng dẫn việc thực hiện các quy định của pháp luật về hội, quỹ xã
+hội, quỹ tù thiện, tổ chức phi chính phủ;
+
+đd) Khen thưởng hoặc đề nghị cấp có thẩm quyền khen thưởng các tổ chức,
+
+cá nhân có thành tích trong tổ chức hoạt động của hội, quỹ xã hội, quỹ từ thiện,
+tổ chức phi chính phủ.
+
+17. Về lĩnh vực người có công:
+
+a) Hướng dẫn và tổ chức thực hiện chính sách, pháp luật về ưu đãi đối với
+người có công với cách mạng;
+
+b) Xây dựng chế độ, định mức, phương thức trang cấp phương tiện trợ
+
+giúp, dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng đối với
+người có công với cách mạng;
+
+c) Quy định việc quản lý các công trình ghi công liệt sĩ, xây dựng phương
+án xác định các công trình ghi công liệt sĩ trong quy hoạch có liên quan;
+
+đ) Hướng dẫn, chỉ đạo công tác tiếp nhận hài cốt liệt sĩ, xác định danh tính
+hài cốt liệt sĩ còn thiếu thông tin và thông tin về mộ liệt sĩ.
+18. Về lĩnh vực thanh niên:
+
+a) Hướng dẫn việc lồng ghép chính sách, chỉ tiêu, mục tiêu phát triển thanh
+niên khi xây dựng chính sách, chiến lược, chương trình, kế hoạch phát triển
+kinh tế - xã hội của ngành, lĩnh vực;
+
+b) Hướng dẫn các bộ, ngành lồng ghép chỉ tiêu thống kê về thanh niên
+Việt Nam vào hệ thống chỉ tiêu của bộ, ngành;
+
+c) Chủ trì phối hợp với các bộ, cơ quan ngang bộ, Ủy ban Trung ương
+Mặt trận Tổ quốc Việt Nam, Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh,
+
+các cơ quan, tổ chức có liên quan và các địa phương xây dựng, tổ chức thực
+hiện chính sách, pháp luật đối với thanh niên;
+
+bã Chủ trì, phối hợp với các cơ quan có liên quan quản lý, khai thác và
+công bế đữ liệu về thanh niên, chỉ số phát triển thanh niên.
+
+19. Về thực hiện công tác dân chủ, dân vận:
+
+a) Xây dựng, trình cấp có thẩm quyền ban hành hoặc ban hành theo thấm
+quyền và hướng dẫn việc thực hiện dân chủ ở cơ sở theo quy định của pháp luật;
+
+b) Hướng dẫn việc thực hiện công tác dân vận của cơ quan hành chính nhà
+nước và chính quyền các cấp theo quy định của Đảng và của pháp luật.
+
+20. VỀ lĩnh vực bình đẳng giới:
+
+a) Hướng dẫn và tổ chức thực hiện chính sách, pháp luật về bình đẳng
+giới, các biện pháp thúc đây bình đẳng giới theo quy định của pháp luật;
+
+b) Chủ trì, phối hợp với các bộ, ngành, địa phương, tổ chức chính trị - xã
+hội và các cơ quan, tổ chức có liên quan thực hiện Tháng hành động vì bình
+đăng giới và phòng ngừa, ứng phó với bạo lực trên cơ sở giới.
+
+21. Về văn thư, lưu trữ nhà nước:
+
+a) Hướng dẫn và tổ chức thực hiện các quy định của pháp luật về văn thư,
+lưu trữ; nghiệp vụ văn thư, lưu trữ và tài liệu lưu trữ số;
+
+b) Quản lý tài liệu lưu trữ tại lưu trữ lịch sử của Nhà nước ở trung ương;
+quản lý tài liệu lưu trữ dự phòng Phông lưu trữ Nhà nước Việt Nam theo thấm
+quyền; công nhận, hủy bỏ việc công nhận tài liệu lưu trữ có giá trị đặc biệt theo
+thẩm quyền;
+
+c) Xây dựng, quản lý, khai thác-hạ tầng số trong lĩnh vực văn thư, lưu trữ
+theo quy định của pháp luật;
+
+đ) Phát huy giá trị tài liệu lưu trữ theo quy định của pháp luật.
+22. Về thi đua, khen thưởng:
+
+a) Hướng dẫn việc thực hiện quy định của pháp luật về tổ chức thi đua,
+danh hiệu và tiêu chuẩn danh hiệu thi đua; hình thức, đối tượng, tiêu chuẩn
+khen thưởng; thâm quyển quyết định, trao tặng, thủ tục, hồ sơ đề nghị khen
+thưởng; quyền và nghĩa vụ của cá nhân, tập thể được tặng danh hiệu thi đua,
+khen thưởng; xử lý vi phạm về thi đua, khen thưởng;
+
+b) Tổ chức, hướng dẫn việc thực hiện các phong trào thi đua, chính sách
+khen thưởng của Đảng và Nhà nước;
+
+c) Thẩm định hồ sơ đề nghị khen thưởng, trình Thủ tướng Chính phủ quyết
+định hoặc trình Thủ tướng Chính phủ đề nghị Chủ tịch nước quyết định khen
+thưởng theo quy định của pháp luật;
+
+d) Chuẩn bị hiện vật kèm theo các danh hiệu thi đua, hình thức khen
+thưởng của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ. Thực hiện việc
+câp phát, cấp đối, câp lại hiện vật khen thưởng theo quyết định của câp có thâm
+quyền;
+
+đ) Vận động các nguồn tài trợ và quản lý, sử dụng quỹ thi đua, khen thưởng
+trung ương; chỉ đạo, hướng dẫn, kiểm tra việc quản lý quỹ thi đua, khen thưởng
+ở các cấp, các ngành;
+
+e) Làm nhiệm vụ thường trực Hội đồng Thi đua - Khen thưởng Trung ương.
+23. Về hợp tác quốc tế:
+
+a) Quần lý và tổ chức thực hiện hợp tác quốc tế và hội nhập quốc tế về ngành,
+lĩnh vực nội vụ theo quy định của pháp luật;
+
+b) Chủ trì, phối hợp với các cơ quan liên quan thực hiện hợp tác với các
+nước ASBAN về ngành, lĩnh vực nội vụ theo quy định của pháp luật;
+
+c) Tổ chức đàm phán, ký điều ước quốc tế theo quy định của pháp luật và
+ủy quyền của cơ quan nhà nước có thẩm quyền; chủ trì và phối hợp ký, tổ chức
+thực hiện các thỏa thuận quốc tế nhân đanh bộ theo quy định của pháp luật;
+tham gia các tổ chức quốc tế theo phân công của Chính phủ;
+
+đ) Thực hiện nhiệm vụ đầu mối quốc gia về lĩnh vực lao động trong quá
+trình Việt Nam tham gia các hiệp định thương mại quốc tế.
+
+24. Về dịch vụ sự nghiệp công:
+
+a) Quân lý nhà nước và tổ chức thực hiện các dịch vụ sự nghiệp công trong
+ngành, lĩnh vực nội vụ; quản lý các tổ chức, đơn vị hoạt động sự nghiệp dịch
+vụ công thuộc bộ;
+
+b) Hướng dẫn việc thực hiện chính sách, pháp luật và hỗ trợ các tổ chức
+thực hiện dịch vụ công thuộc ngành, lĩnh vực nội vụ theo quy định của pháp luật.
+
+25. Tổ chức đào tạo, bồi dưỡng đối với cán bộ, công chức, viên chức và
+theo nhu câu xã hội đôi với các ngành, lĩnh vực được giao quản lý theo quy
+định của pháp luật.
+
+26. Chỉ đạo và tổ chức thực hiện công tác nghiên cứu khoa học và ứng
+dụng kết quả nghiên cứu khoa học; thông tin, truyền thông; ứng dụng công
+nghệ thống tin, dữ liệu thông tin; chuyển đổi số và quản lý dữ liệu chuyên ngành
+phục vụ chức năng quản lý nhà nước của bộ theo quy định của pháp luật.
+
+27. Quản lý tổ chức bộ máy; vị trí việc làm, biên chế công chức, số lượng
+người làm việc trong đơn vị sự nghiệp công lập và số lượng người lao động
+theo chế độ hợp đồng lao động của bộ. Thực hiện tuyển dụng, sử dụng và quản
+lý cán bộ, công chức, viên chức, người lao động theo quy định và phân cấp của
+cơ quan có thẩm quyền.
+
+28. Quản lý tài chính, tài sản được giao và tổ chức thực hiện ngân sách
+được phân bô theo quy định của pháp luật.
+
+29. Tổng hợp, sơ kết, tổng, kết, đánh giá, báo cáo Chính phủ, Thủ tướng
+Chính phủ và cập có thẩm quyền về tình hình, kết quả thực hiện chức năng,
+nhiệm vụ quản lý nhà nước của bộ theo quy định của pháp luật hoặc theo phân
+công, yêu cầu của cấp có thẩm quyền. Xây dựng, ban hành hệ thống chỉ tiêu
+thống kê và chế độ báo cáo thống kê ngành, lĩnh vực nội vụ theo quy định của
+pháp luật.
+
+39. Thực hiện công tác kiểm tra, kiểm tra chuyên ngành, giải quyết khiếu
+nại, tố cáo, tổ chức tiếp công dân, thực hiện công tác phòng, chống tham nhũng,
+lãng phí, tiêu cực và xử lý các hành vi vi phạm pháp luật trong ngành, lĩnh vực
+nội vụ theo quy định pháp luật.
+
+31. Thực hiện các nhiệm vụ, quyền hạn khác do Chính phủ, Thủ tướng
+Chính phủ giao và theo quy định của pháp luật.
+
+### Điều 3. Cơ cấu tổ chức
+
+1. Vụ Tổ chức - Biên chế.
+
+2. Vụ Chính quyền địa phương.
+3. Vụ Công chức - Viên chức.
+
+4. Vụ Tổ chức phi chính phủ.
+
+5. Vụ Cải cách hành chính.
+
+6. Vụ Công tác thanh niên và Bình đẳng giới.
+7. Vụ Hợp tác quốc tế.
+
+8. Vụ Tổ chức cán bộ.
+
+9. Vụ Pháp chế.
+
+10. Vụ Kế hoạch - Tài chính.
+
+11. Văn phòng Bộ.
+
+12. Cục Văn thư và Lưu trữ nhà nước.
+
+13. Cục Tiền lương và Bảo hiểm xã hội,
+
+14. Cục Việc làm.
+
+15. Cục Quản lý lao động ngoài nước.
+
+1ó. Cục Người có công.
+
+17. Ban Thị đua - Khen thưởng Trung ương.
+18. Trung tâm Công nghệ thống tin.
+
+19. Viện Khoa học Tổ chức nhà nước và Lao động.
+20. Tạp chí Tổ chức nhà nước và Lao động.
+21. Báo Dân trí.
+
+Tại Điều này, các đơn vị quy định từ khoản 1 đến khoản 17 là các tổ chức
+hành chính giúp Bộ trưởng thực hiện chức năng quản lý nhà nước; các đơn vị
+quy định từ khoản 18 đến khoản 21 là các đơn vị sự nghiệp công lập, phục vụ
+chức năng quản lý nhà nước của bộ.
+
+Bộ trưởng Bộ Nội vụ ban hành quyết định quy định chức năng, nhiệm vụ,
+
+- quyền hạn và cơ cấu tổ chức của các đơn vị thuộc bộ; trình Thủ tướng Chính
+phủ ban hành quyết định về danh sách các đơn vị sự nghiệp công lập khác thuộc
+bộ theo quy định.
+
+### Điều 4. Hiệu lực thi hành
+
+1. Nghị định này có hiệu lực thi hành từ ngày 08 tháng 7 năm 2026.
+
+2. Nghị định này thay thế Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02
+
+năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Nội vụ.
+
+### Điều 5. Trách nhiệm thi hành
+
+Bộ trưởng Bộ Nội vụ, các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ
+tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm
+thi hành Nghị định này.
+
+Nơi nhận: TM. CHÍNH PHỦ
+- Ban Bí thư Trung ương Đảng; T, THỦ TƯỚNG
+
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+~ Các bộ, cơ quan ngang bộ;
+
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ươn,
+- Văn phòng Trung ương và các Ban của Đảng;
+
+- Văn phòng Tổng Bí thư,
+
+- Văn phòng Chủ tịch nước;
+
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+
+- Văn phòng Quốc hội;
+
+- Tòa án nhân đân tối Cao;
+
+- Viện kiểm sát nhân dân tối cao;
+
+- Kiểm toán nhà nước;
+
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+
+~ Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg,
+
+các Vụ, Cục, Công báo;
+
+- Lưu: VT, TCCV (02b). /#
+
+hị Thanh Trà
+
+c) Nhà xưởng, kho chứa hóa chất không có trang thiết bị, phương tiện ứng
+cứu sự cô theo quy định của pháp luật;
+
+đ) Nhà xưởng, kho chứa sản xuất hóa chất có điều kiện, hóa chất cần kiểm
+soát đặc biệt, hóa chất cắm không có quy trình thao tác an toàn theo quy định
+của pháp luật.
