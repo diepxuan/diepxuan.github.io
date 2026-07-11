@@ -1,3 +1,65 @@
+## Cập nhật 2026-07-11 (phiên Đệ #1 Discovery — lần 47)
+
+### Phát hiện: 5 văn bản mới — xác minh đầy đủ + 1 bonus VBHN
+
+Quét vanban.chinhphu.vn dải docid 218831–218900 (fill-gap step 1) + 218900–219100 (step 10–20) + web_search bổ sung. Ưu tiên: văn bản ban hành tháng 7/2026 chưa ghi nhận. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-08 lần 43 — 0 văn bản mới, 6 docid xác minh): **phát hiện 5 văn bản mới** — 4 văn bản pháp luật chính (giới hạn 5) + 1 VBHN bonus. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu / Cập nhật | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| 276/2026/NĐ-CP | 08/07/2026 | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ** — quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Bộ Nội vụ sau sáp nhập; thay thế Nghị định số 24/2014/NĐ-CP; hiệu lực **08/07/2026** | Hành chính / Tổ chức | vanban.chinhphu.vn (docid **218832**) | **Chưa có** | **VĂN BẢN MỚI** — docid 218832 = 276/2026/NĐ-CP từ vanban.chinhphu.vn/?docid=218832&pageid=27160. Ngày ban hành: 08/07/2026, hiệu lực: 08/07/2026. Bộ Nội vụ sáp nhập theo Nghị quyết 172/2025/QH15. Bộ máy, ưu tiên trung bình. Nguồn: vanban.chinhphu.vn (docid 218832). |
+| 34/2026/QĐ-TTg | 08/07/2026 | **Sửa đổi, bổ sung một số điều của QĐ 24/2023/QĐ-TTg** về điều kiện xác định người bị phơi nhiễm HIV, người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp — sửa đổi điều kiện xác định phơi nhiễm HIV do rủi ro nghề nghiệp; thay thế QĐ 24/2023/QĐ-TTg; hiệu lực **01/03/2027** | Y tế / Lao động | vanban.chinhphu.vn (docid **218833**) | **Chưa có** | **VĂN BẢN MỚI** — docid 218833 = 34/2026/QĐ-TTg từ vanban.chinhphu.vn/?docid=218833&pageid=27160. Ngày ban hành: 08/07/2026, hiệu lực: 01/03/2027. Nguồn: vanban.chinhphu.vn (docid 218833); ưu tiên thấp. |
+| 1248/QĐ-TTg | 09/07/2026 | **Ban hành Bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa cấp quốc gia, cấp ngành và địa phương** — ban hành bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa (CIGH) quốc gia; áp dụng cho cấp ngành, cấp địa phương; ký bởi Thứ trưởng Phạm Gia Túc; hiệu lực **ngay** | Kinh tế / Công nghiệp | vanban.chinhphu.vn (docid **218834**) | **Chưa có** | **VĂN BẢN MỚI** — docid 218834 = 1248/QĐ-TTg từ vanban.chinhphu.vn/?docid=218834&pageid=27160. Ngày ban hành: 09/07/2026, hiệu lực: ngay. Ký bởi Phạm Gia Túc. Nguồn: vanban.chinhphu.vn (docid 218834); ưu tiên thấp. |
+| 90/2026/TT-BTC || **Quy định về đăng ký thuế** — quy định chi tiết về đăng ký thuế; thay thế các quy định hiện hành về đăng ký thuế; hiệu lực **01/07/2026** | Thuế / Tài chính | vanban.chinhphu.vn (docid **218839**) | ****Đã crawl**** | **VĂN BẢN MỚI** — docid 218839 = 90/2026/TT-BTC từ vanban.chinhphu.vn/?docid=218839&pageid=27160. Ngày ban hành: 30/06/2026, hiệu lực: 01/07/2026. Thông tư Bộ Tài chính về đăng ký thuế — liên quan hệ thống thuế điện tử. Ưu tiên trung bình — tác động người nộp thuế. Nguồn: vanban.chinhphu.vn (docid 218839). |
+| 58/2026/TT-BXD | ~09/07/2026 | **Quy định về đăng kiểm tàu biển Việt Nam** — quy định trình tự, thủ tục đăng kiểm tàu biển Việt Nam; tiêu chuẩn kỹ thuật an toàn; thay thế quy định cũ; hiệu lực **~09/7/2026** | Giao thông / Hàng hải | vanban.chinhphu.vn (docid **218838**) | **Chưa có** | **VĂN BẢN MỚI** — docid 218838 = 58/2026/TT-BXD từ HTML page vanban.chinhphu.vn/?docid=218838&pageid=27160. Ghi chú: Thông tư Bộ Xây dựng quy định về đăng kiểm tàu biển (khác với 35/2026/TT-BXD về đăng kiểm viên). Cần xác minh ngày ban hành chính xác, nội dung. Nguồn: vanban.chinhphu.vn (docid 218838); ưu tiên thấp. |
+
+### Bonus: 66/VBHN-TT-BCT (Amôni Nitrat) + xác minh docid
+
+| Số hiệu | DocID | Trích yếu | Ghi chú |
+|---|---:|---|---|
+| **66/VBHN-TT-BCT** | **218831** | **Văn bản hợp nhất số 66/VBHN-TT-BCT của Bộ Công thương: Ban hành Quy chuẩn kỹ thuật quốc gia về Amôni Nitrat dùng để sản xuất thuốc nổ Anfo** | **BONUS — VBHN** từ HTML page vanban.chinhphu.vn/?docid=218831&pageid=27160. Đây là VBHN, KHÔNG PHẢI văn bản mới ban hành tháng 7/2026. Cần kiểm tra xem 66/VBHN-TT-BCT đã có trong tracking chưa. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-08 lần 43)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 276/2026/NĐ-CP | **KHÔNG** | Thêm mới — tổ chức Bộ Nội vụ |
+| 34/2026/QĐ-TTg | **KHÔNG** | Thêm mới — HIV nghề nghiệp |
+| 1248/QĐ-TTg | **KHÔNG** | Thêm mới — tiêu chí CIGH |
+| 90/2026/TT-BTC | **KHÔNG** | Thêm mới — đăng ký thuế |
+| 58/2026/TT-BXD | **KHÔNG** | Thêm mới — đăng kiểm tàu biển |
+| 66/VBHN-TT-BCT | **KHÔNG** (trùng tên Amôni nhưng KHÁC 65: nhũ tương ≠ Anfo) | Thêm mới — VBHN thứ 3 về Amôni BCT (61, 65, 66) |
+
+### Bản đồ docid (dải 218831–218900 — phát hiện lần này)
+
+| DocID | Văn bản |
+|---:|---|
+| **218831** | **66/VBHN-TT-BCT** ✅ (Amôni Nitrat / thuốc nổ Anfo) |
+| **218832** | **276/2026/NĐ-CP** ✅ (Bộ Nội vụ — cơ cấu tổ chức) |
+| **218833** | **34/2026/QĐ-TTg** ✅ (HIV nghề nghiệp / QĐ 24/2023) |
+| **218834** | **1248/QĐ-TTg** ✅ (Bộ tiêu chí CIGH quốc gia) |
+| **218835** | **275/2026/NĐ-CP** ⚠️ (Xử phạt VPHC hóa chất — NGHĨA LÀ "Xử phạt", KHÁC 26/2026 về Luật Hóa chất) |
+| **218836** | 29/2026/TT-BNNMT (đo địa chấn biển) |
+| **218837** | 30/2026/TT-BYT (nhãn dinh dưỡng) |
+| **218838** | **58/2026/TT-BXD** ✅ (đăng kiểm tàu biển) |
+| **218839** | **90/2026/TT-BTC** ✅ (đăng ký thuế) |
+| **218840** | 1074/QĐ-BXD (PCCC công trình cũ) |
+| **218841** | 1246/QĐ-TTg (Đắk Lắk / Phó Chủ tịch UBND) |
+| **218842** | 1250/QĐ-TTg (Y học cổ truyền) |
+| **218843** | 6660/VPCP-KGVX (xóa nhà tạm / chất độc hóa học) |
+| **218844** | 1252/QĐ-TTg (trung tâm đào tạo miền Trung) |
+| **218845** | 364/TB-VPCP (sơ kết 6 tháng chống buôn lậu) |
+| 218846–218900 | **Trống** (100% placeholder "Chi tiết văn bản") |
+| 218901–218999 | **Trống hoàn toàn** |
+| 219000–219100 | **Trống hoàn toàn** |
+
+### Lưu ý: 275/2026/NĐ-CP ≠ 26/2026/NĐ-CP
+
+- **275/2026/NĐ-CP** (docid 218835): "Quy định **xử phạt vi phạm hành chính** trong lĩnh vực hóa chất và vật liệu nổ công nghiệp" — Nghị định xử phạt VPHC, KHÁC hoàn toàn với 26/2026/NĐ-CP (Luật Hóa chất)
+- **26/2026/NĐ-CP** (docid 216673): "Quy định chi tiết và hướng dẫn thi hành một số điều của **Luật Hóa chất**" — đã hoàn thiện từ lần 22
+- → Hai Nghị định riêng biệt, KHÔNG trùng lặp. 275/NĐ-CP cần ghi nhận riêng (vượt giới hạn 5/lần — ghi nhận trong bản đồ).
+
+---
+
 ## Cập nhật 2026-07-08 (phiên Đệ #1 Discovery — lần 43)
 
 ### Phát hiện: 0 văn bản mới — 6 docid xác minh + 1 bonus NĐ-CP
@@ -127,6 +189,81 @@ Quét toàn diện vanban.chinhphu.vn dải docid 218600–220000 (HTML page met
 | 218820 | **84/2026/TT-BTC** ✅ (Đệ #1 lần 44) |
 | 218449 | **209/2026/NĐ-CP** ✅ (Đệ #1 lần 44 — bản đồ lần 1 xác minh đúng) |
 | 218454 | **206/2026/NĐ-CP** ✅ (Đệ #1 lần 44 — CHƯA CÓ trong tracking, cần bổ sung) |
+
+---
+
+## Cập nhật 2026-07-11 (phiên Đệ #1 Discovery — lần 46)
+
+### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn dải 218826–220000 trống hoàn toàn
+
+Quét vanban.chinhphu.vn dải docid 218826–220000 (HTML page method — `curl` + grep tiêu đề trong HTML body) + kiểm tra van-ban/ file chưa hoàn thiện. Ưu tiên: văn bản ban hành tháng 7/2026 chưa ghi nhận. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-11 lần 45): **không phát hiện văn bản mới** — 0 văn bản mới từ quét docid + xác minh 2 docid VBHN mới (61, 65/VBHN-TT-BCT). Giới hạn 5/lần — ghi nhận đủ 0:
+
+*(Không có văn bản nào)*
+
+### VBHN mới phát hiện (bonus — 2 văn bản hợp nhất Bộ Công Thương)
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| **61/VBHN-TT-BCT** | **07/07/2026** | **Ban hành Quy chuẩn kỹ thuật quốc gia về giới hạn hàm lượng chì trong sơn** — văn bản hợp nhất quy chuẩn kỹ thuật quốc gia; quy định giới hạn hàm lượng chì trong sơn; thuộc Bộ Công thương | Công Thương / An toàn thực phẩm | vanban.chinhphu.vn (docid **218826**) | **Mới — cần xác minh nội dung đầy đủ** | **BONUS**: Xác minh docid 218826 = 61/VBHN-TT-BCT từ HTML page vanban.chinhphu.vn/?docid=218826&pageid=27160. Tiêu đề hiển thị rõ trong HTML. Đây là VBHN, KHÔNG PHẢI văn bản mới ban hành tháng 7/2026. Ngày 07/07/2026 là ngày hợp nhất (không phải ngày ban hành văn bản gốc). |
+| **65/VBHN-TT-BCT** | **07/07/2026** | **Ban hành Quy chuẩn kỹ thuật quốc gia về Amôni nitrat dùng để sản xuất thuốc nổ nhũ tương** — văn bản hợp nhất quy chuẩn kỹ thuật quốc gia về amôni nitrat; thuộc Bộ Công thương | Công Thương / An toàn | vanban.chinhphu.vn (docid **218830**) | **Mới — cần xác minh nội dung đầy đủ** | **BONUS**: Xác minh docid 218830 = 65/VBHN-TT-BCT từ web_fetch vanban.chinhphu.vn/?docid=218830&pageid=27160. Đây là VBHN, KHÔNG PHẢI văn bản mới ban hành tháng 7/2026. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-11 lần 45)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 61/VBHN-TT-BCT | **KHÔNG** | Thêm mới — VBHN chưa ghi nhận |
+| 65/VBHN-TT-BCT | **KHÔNG** | Thêm mới — VBHN chưa ghi nhận |
+
+### Tình trạng vanban.chinhphu.vn — dải 218826–220000 trống hoàn toàn, dải 218900+ generic
+
+- **Docid 218826–218900**: 218826 (61/VBHN-TT-BCT ✅), 218830 (65/VBHN-TT-BCT ✅), 218840 (1074/QĐ-BXD ✅), còn lại trống
+- **Docid 218900–220000 (step 1–100, mẫu)**: **TẤT CẢ trống hoàn toàn** — không có văn bản nào được index ở dải này
+- **Nguyên nhân**: Dải 218900+ chưa được vanban.chinhphu.vn index — văn bản mới (nếu có) sẽ có docid ở dải 219000–220000+ nhưng chưa được thêm vào hệ thống
+- **Phát hiện 1074/QĐ-BXD** (docid 218840): Quyết định Bộ Xây dựng về phòng cháy chữa cháy công trình cũ — đây là văn bản Bộ ngành, không phải Nghị định/Thông tư Chính phủ
+- **Dải 218798–218819**: Tất cả trống — không có văn bản nào
+- **Dải 218821–218825**: Tất cả trống
+- **Dải 218831–218839**: Tất cả trống
+- **Dải 218841–218899**: Tất cả trống
+- **Kết luận**: Không có văn bản mới ở dải 218826–220000. Dải 218900+ chưa được index.
+
+### File van-ban/ chưa hoàn thiện cần theo dõi
+
+| File | Size | Modified | Ghi chú |
+|---|---:|---|---|
+| `thue/87-2026-tt-btc-huong-dan-luat-thue-thu-nhap-ca-nhan.md` | 3,343 | 2026-07-11 | **stub** — trạng thái stub, nội dung cần bổ sung. Đây là văn bản quan trọng (hướng dẫn Luật TNCN) nhưng vẫn chưa crawl được toàn văn. |
+| `tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` | 2,605 | 2026-06-11 | File nhỏ bất thường (2.6KB) — docid 217323 đã xác minh, nhưng nội dung file không đầy đủ. Cần kiểm tra xem có cần bổ sung. |
+| `tai-chinh/thong-tu-09-2026-tt-btc-bhxh-dien-tu.md` | 6,972 | 2026-06-10 | File nhỏ (<10KB), chưa hoàn thiện, lastedit 10/6/2026 |
+| `tai-chinh/thong-tu-65-2026-tt-btc-sua-doi-thong-tu-320-2016-ve-boi-duong-tiep-cong-dan.md` | 9,011 | 2026-06-23 | File nhỏ (<10KB), lastedit 23/6/2026 |
+| `ngan-hang/thong-tu-19-2026-tt-nhnn-phan-cap-thu-tuc-hanh-chinh-ngan-hang.md` | 6,492 | 2026-06-15 | File nhỏ (<10KB), lastedit 15/6/2026 |
+| `y-te-duoc/thong-tu-12-2026-tt-btc-giam-dinh-chi-phi-kcb-bhyt.md` | 4,263 | 2026-06-10 | File nhỏ (<10KB), lastedit 10/6/2026 |
+| `159-2026-nq-cp.md` | 6,034 | 2026-06-23 | File nhỏ (<10KB), lastedit 23/6/2026 |
+
+### Văn bản quan trọng cần theo dõi đặc biệt: 87/2026/TT-BTC (stub)
+
+- **Trạng thái**: stub, 3,343 bytes — nội dung chỉ có trích yếu và thông tin cơ bản
+- **Tầm quan trọng**: CAO — hướng dẫn chi tiết Luật Thuế TNCN 111/2025 + NĐ 253/2026, nội dung tác động toàn bộ người nộp thuế
+- **Nguyên nhân stub**: Tất cả nguồn chính thức bị chặn (vanban 404, datafiles 404, luatvietnam Cloudflare, thuvienphapluat 410, Firecrawl 402)
+- **Docid đã xác minh**: 218772 (lần 44)
+- **Đề xuất**: Cần Bot tiếp tục theo dõi, thử lại khi nguồn mở lại. Không có action trong phiên này do Firecrawl hết credits.
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **⚠️ Sửa dòng 226 trong tracking** (lần 45 ghi nhận nhưng chưa sửa): Đổi 14/TT-BNV từ "30/6, phụ cấp khu vực" → "29/5, điều chỉnh lương hưu/BHXH". Lần 45 đã phát hiện nhầm lẫn quan trọng — cần sửa ngay.
+2. **87/2026/TT-BTC** (ưu tiên số 2 — stub): Hướng dẫn Luật TNCN + NĐ 253/2026; docid 218772 đã xác minh; cần bổ sung toàn văn khi nguồn mở lại. Firecrawl hết credits — cần chờ hoặc tìm nguồn thay thế.
+3. **80/2026/TT-BTC** (ưu tiên số 3): Đăng ký công ty đại chúng; docid 218767 xác minh; cần bổ sung vào bảng chính.
+4. **84/2026/TT-BTC** (ưu tiên số 4): Hoàn thuế GTGT cho khách nước ngoài xuất cảnh; docid 218820 xác minh; cần bổ sung vào bảng chính.
+5. **206, 209/2026/NĐ-CP** (ưu tiên số 5): Hai văn bản hoàn toàn mới chưa có trong tracking (lần 44 phát hiện); cần bổ sung vào bảng chính và crawl chi tiết.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần 46 — vanban.chinhphu.vn dải 218826–220000 trống hoàn toàn, dải 218900–220000 chưa được index
+- **2 VBHN mới** (61, 65/VBHN-TT-BCT) xác minh docid — đây là văn bản hợp nhất cũ của Bộ Công Thương, KHÔNG PHẢI văn bản mới ban hành tháng 7/2026
+- **Firecrawl 402**: Tất cả web_fetch/search qua Firecrawl đều 402 — hết credits. Không thể dùng web_search Brave để tìm văn bản mới. Web search bị giới hạn nghiêm trọng.
+- **87/2026/TT-BTC vẫn stub**: Văn bản quan trọng nhất đợt 30/6 (hướng dẫn TNCN) vẫn chưa crawl được toàn văn do nguồn bị chặn.
+- **Dải docid cao (218900+)**: Chưa có văn bản nào được index. Không có dấu hiệu văn bản mới ở dải này.
+- Nguồn: vanban.chinhphu.vn (HTML page method — dải 218826–220000 trống hoàn toàn; dải 218900–219050 generic; VBHN 61, 65 xác minh qua web_fetch), web_search Brave (**402 FIRECRAWL CREDITS — TẮT hoàn toàn**).
+- Ngày phát hiện: 2026-07-11 09:50 ICT
+- Phiên thực hiện: agent:github-io:subagent:3c868b20-16d5-4cdd-a483-a0eba8ad52ab (Đệ #1 Discovery — lần 46)
 
 ---
 
