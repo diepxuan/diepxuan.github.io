@@ -1,7 +1,7 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-12T13:34 GMT+7
+> Phiên bản: 2026-07-12T15:48 GMT+7
 > Nguồn quét: vanban.chinhphu.vn (HTML page title method)
 > Dải docid: 218690–240000 | Tháng 7/2026
 > Ngưỡng: Nghị định 247–280, Thông tư 75–112, QĐ-TTg 34–1260
@@ -50,7 +50,7 @@
 | 275/2026/NĐ-CP | 218835 | Xử phạt vi phạm hành chính hóa chất, vật liệu nổ | Mới map |
 | 276/2026/NĐ-CP | 218832 | Chức năng, nhiệm vụ Bộ Nội vụ | ✅ Xác minh (PR 251) |
 | **277/2026/NĐ-CP** | **CHƯA TÌM** | **ƯU TIÊN CAO** | **Vùng gap 218843–219802** |
-| 278/2026/NĐ-CP | 219802 | ? | ✅ Xác minh (heartbeat branch) |
+| **278/2026/NĐ-CP** | **CHƯA INDEX** | Sửa đổi NĐ 72/2025/NĐ-CP về giá bán lẻ điện bình quân (09/7/2026) | ⚠️ vanban chưa re-index sau 09/7; 219802 là stub page |
 | **279/2026/NĐ-CP** | **KHÔNG TỒN TẠI** | **Không có trên vanban, web_search chỉ thấy 279/2025** | ỨNG DỤNG: Xóa khỏi tracking hoặc đánh dấu |
 | **280/2026/NĐ-CP** | **KHÔNG TỒN TẠI** | **Không có — web_search chỉ thấy 280/2025 (docid 215722)** | ỨNG DỤNG: Xóa khỏi tracking hoặc đánh dấu |
 | 281/2026/NĐ-CP | ? | ? | Chưa tìm thấy |
@@ -179,3 +179,51 @@
 - Cần tiếp tục theo dõi docid mới khi vanban.chinhphu.vn re-index
 
 *Đệ #1 Discovery — github-io workspace — 2026-07-12 13:34 ICT*
+---
+
+## Đệ #1 Discovery 2026-07-12 — Báo cáo bổ sung: Dải 218845–250000 (lần 63, 15:33 ICT)
+
+### Phát hiện QUAN TRỌNG: NĐ 278/2026/NĐ-CP ĐƯỢC BAN HÀNH NGÀY 09/7/2026
+- Nghị định 278/2026/NĐ-CP: Sửa đổi, bổ sung Nghị định 72/2025/NĐ-CP về điều chỉnh giá bán lẻ điện bình quân.
+- **Chưa có docid trên vanban.chinhphu.vn** — vanban.chinhphu.vn chưa re-index sau ngày 09/7.
+- Tracking cũ: 278=219802 là SAI — docid đó hiện trả về stub page.
+
+### Phát hiện mới (docid xác minh lần đầu — 8 văn bản chưa từng tracking)
+
+| Số | Docid | Chủ đề | Ghi chú |
+|---|---|---|---|
+| 14/2026/TT-BNV | **218316** ✅ NEW | Điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hằng tháng (29/5/2026) | NEW — chưa có trong tracking |
+| 172/2026/NĐ-CP | **218180** ✅ NEW | Chi phí dẫn độ, chuyển giao người chấp hành án phạt tù (15/5/2026) | NEW — chưa có trong tracking |
+| 29/2026/TT-BNNMT | **218836** ✅ NEW | Đo địa chấn phản xạ đa kênh trên biển (điều tra địa chất, khoáng sản) | NEW — chưa có trong tracking |
+| 30/2026/TT-BYT | **218837** ✅ NEW | Ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm | NEW — chưa có trong tracking |
+| 58/2026/TT-BXD | **218838** ✅ NEW | Quy chuẩn kỹ thuật đăng kiểm tàu biển Việt Nam (QCVN 11:2026/BCA) | NEW — chưa có trong tracking |
+| 1074/QĐ-BXD | **218840** ✅ NEW | Giải pháp kỹ thuật nâng cao an toàn PCCC cho cơ sở không bảo đảm yêu cầu | NEW — chưa có trong tracking |
+| 6660/CV-VPCP | **218843** ✅ NEW | Hỗ trợ xóa nhà tạm, nhà dột nát cho con đẻ người hoạt động kháng chiến bị nhiễm chất độc hóa học | NEW — chưa có trong tracking |
+| 364/TB-VPCP | **218845** ✅ NEW | Kết luận Phó Thủ tướng về sơ kết 6 tháng, chống buôn lậu, gian lận thương mại | NEW — chưa có trong tracking |
+| 278/2026/NĐ-CP | **CHƯA INDEX** | Sửa đổi NĐ 72/2025/NĐ-CP về giá bán lẻ điện bình quân (09/7/2026) | MỚI — tồn tại ngoài vanban, chưa index |
+| 91/2026/TT-BTC | **Chưa index** | Hóa đơn điện tử, chứng từ điện tử (30/6/2026) | Chưa có docid — tồn tại trên luatvietnam, evn |
+| 94/2026/TT-BTC | **Chưa index** | Quản lý tuân thủ và rủi ro thuế (01/7/2026) | Chưa có docid — tồn tại trên luatvietnam |
+| 95/2026/TT-BTC | **Chưa index** | Hiệp định tránh đánh thuế hai lần, MAP, APA (01/7/2026) | Chưa có docid — tồn tại trên luatvietnam |
+
+### Phát hiện kỹ thuật quan trọng
+- **Bug `<title>` extraction**: HTML `<title>` tag trên vanban.chinhphu.vn chứa newline/indent, khiến `grep -oP '(?<=<title>)[^<]+'` trả về rỗng. **Phương pháp đúng**: `grep -oP '(?<=og:title" content=")[^"]+'` — extract từ `og:title` meta tag attribute.
+- **Stub pages**: docid 218846–219000, 230000–250000 trả về `"Chi tiết văn bản ban hành"` = stub/index placeholder, không phải văn bản thực.
+
+### Xác nhận trạng thái các văn bản (cập nhật)
+- **279, 280/2026/NĐ-CP**: KHÔNG TỒN TẠI — web_search chỉ thấy 279/2025 và 280/2025.
+- **277/2026/NĐ-CP**: KHÔNG TỒN TẠI — web_search chỉ thấy 277/2025 về phổ cập giáo dục mầm non.
+- **NĐ 278**: TỒN TẠI, ban hành 09/7/2026, **chưa có docid** (vanban.chinhphu chưa re-index sau 09/7).
+- **TT-BTC 91, 94, 95**: TỒN TẠI (luatvietnam, evn, tax24...) nhưng **chưa có docid** trên vanban.
+
+### Tình trạng vanban.chinhphu.vn
+- **Vùng hoạt động**: docid 218180–218845 (đến ~08/7/2026).
+- **Vùng stub/trống**: 218846–219000+, 230000–250000+ — vanban ngừng index từ ~08/7/2026.
+- **Ngày index mới nhất**: ~08/7/2026. Cần theo dõi re-index để tìm NĐ 278, TT-BTC 91/94/95.
+- **Docid NĐ 278 cũ (219802)**: BỊ SAI — docid này hiện trả về stub page.
+
+### Bước tiếp theo
+- Theo dõi re-index của vanban.chinhphu.vn trong các session tới (dự kiến 1-2 ngày sau 09/7).
+- Khi re-index, tìm docid cho: 278/NĐ-CP, 91/TT-BTC, 94/TT-BTC, 95/TT-BTC.
+- Cập nhật bảng NĐ-CP: xóa 279, 280, 277 khỏi tracking; cập nhật 278.
+
+*Đệ #1 Discovery — github-io workspace — 2026-07-12 15:48 ICT*
