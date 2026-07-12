@@ -1,3 +1,68 @@
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — dải 221000–225000 step 5 + web_search 277/279/280/NĐ-CP)
+
+### Phát hiện: 0 văn bản mới — dải 221000–225000 TRỐNG HOÀN TOÀN + 277/NĐ-CP trùng với 277/2025
+
+Quét vanban.chinhphu.vn dải docid 221000–225000 (HTML page method, step 5 = 21 docid) + web_search Gemini tìm 277, 279, 280/NĐ-CP + 1248/QĐ-TTg. Ưu tiên: NĐ-CP mới (274–280), QĐ-TTg mới (1248+). **Không phát hiện văn bản mới** — dải 221000–225000 hoàn toàn trống. Giới hạn 5/lần:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — DẢI 221000–225000 TRỐNG HOÀN TOÀN
+
+- **Quét 221000–225000 step 5 (21 docid)**: TẤT CẢ trả về placeholder "Chi tiết văn bản ban hành" — không có tiêu đề
+- **Quét xung quanh 219802 (step 1, 219796–219810 + 220995–221000)**: TẤT CẢ trống — vùng trống mở rộng từ 218846 đến 221000+
+- **Docid 218834 = 1248/QĐ-TTg**: ✅ Xác minh lại qua web_fetch — đúng văn bản công nghiệp hóa 02/7/2026
+- **Docid 218842 = 1250/QĐ-TTg**: ✅ Xác minh thêm (y học cổ truyền)
+- **Docid 218843 = 6660/CV-VPCP**: ✅ Xác minh thêm (xóa nhà tạm, con đẻ người hoạt động kháng chiến bị nhiễm chất độc hóa học)
+- **Docid 218844 = 1252/QĐ-TTg**: ✅ Xác minh thêm (đề án giáo dục đại học miền Trung và Tây Nguyên)
+- **Docid 218845 = 364/TB-VPCP**: ✅ Xác minh thêm (kết luận Phó Thủ tướng về chống buôn lậu)
+- **Docid 218846–218849 = EMPTY**: ✅ Xác nhận bắt đầu vùng trống
+- **Vùng trống mở rộng**: Từ 218846 đến 221000+ (≥154 docid liên tục)
+- **Docid 218835 = 275/NĐ-CP**: ✅ Xác minh lại (xử phạt hóa chất và vật liệu nổ công nghiệp)
+
+### PHÁT HIỆN QUAN TRỌNG: 277/NĐ-CP trong tracking = 277/2025 (docid 215677), KHÔNG PHẢI 277/2026
+
+- **277/2026/NĐ-CP** được ghi nhận trước đó là "phổ cập giáo dục mầm non 3–5 tuổi" nhưng **KHÔNG TỒN TẠI** — web_search Gemini xác nhận số 277/2025/NĐ-CP (docid 215677) là văn bản tháng 10/2025
+- Nguồn luatvietnam.vn ghi nhận: "Nghị định 277/2025/NĐ-CP, ban hành ngày 20/10/2025, quy định chi tiết thi hành NQ 218/2025/QH15 về phổ cập giáo dục mầm non"
+- **277/2026/NĐ-CP là văn bản KHÔNG tồn tại** — cần xóa khỏi tracking hoặc đánh dấu là chưa xác minh
+- 279/NĐ-CP cũng KHÔNG tìm thấy trên vanban.chinhphu.vn — web_search chỉ thấy 279/2025/NĐ-CP (quỹ giảm thiểu tai nạn giao thông)
+- 280/NĐ-CP: Không tìm thấy (web_search toàn bộ trả Firecrawl 402)
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **1248/2026/QĐ-TTg** | ✅ Docid = 218834 (xác minh lại) | Cần crawl chi tiết |
+| **278/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 219802 | File trên branch c75a168d |
+| **277/2026/NĐ-CP** | ⚠️ CÓ THỂ KHÔNG TỒN TẠI | Cần xóa/đánh dấu trong tracking |
+| **279/2026/NĐ-CP** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
+| **280/2026/NĐ-CP** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
+| **1250/QĐ-TTg** | ✅ Docid = 218842 | Xác minh thêm (y học cổ truyền) |
+| **1252/QĐ-TTg** | ✅ Docid = 218844 | Xác minh thêm (giáo dục đại học) |
+| **6660/CV-VPCP** | ✅ Docid = 218843 | Xác minh thêm (xóa nhà tạm) |
+| **364/TB-VPCP** | ✅ Docid = 218845 | Xác minh thêm (chống buôn lậu) |
+| **275/NĐ-CP** | ✅ Hoàn thiện, docid = 218835 | File 4178 dòng, 5 OCR issues pending |
+
+### Đề xuất phiên tiếp theo
+
+1. **Xác minh lại 277/2026/NĐ-CP** (ưu tiên 1): Có thể đã xóa khỏi tracking — web_search chỉ thấy 277/2025. Cần xác nhận với baochinhphu.vn trực tiếp.
+2. **Crawl chi tiết 1248/QĐ-TTg** (ưu tiên 2): Docid 218834 đã xác minh, ngày 02/7/2026. Cần crawl toàn văn.
+3. **Quét dải 219800–221000 step 1** (ưu tiên 3): Kiểm tra xem 277, 279, 280/NĐ-CP có xuất hiện không.
+4. **Quét dải 218850–219000 step 5** (ưu tiên 4): Tìm docid mới cho các văn bản chưa index.
+5. **Merge 278/NĐ-CP vào main** (ưu tiên 5): File hoàn thiện trên branch `heartbeat/crawl-vanban-20260711-v2`, cần merge.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện lần này — dải 221000–225000 hoàn toàn trống.
+- **277/2026/NĐ-CP có thể KHÔNG tồn tại** — web_search chỉ tìm thấy 277/2025 (docid 215677). Cần xác minh lại trong tracking.
+- **Dải 218840–221000 vẫn trống** — vùng trống mở rộng 154+ docid không có văn bản mới.
+- **web_search Gemini**: 1 lần thành công (277/2025 xác nhận), 8 lần thất bại (Firecrawl 402).
+- **web_fetch**: 10 lần thành công (xác minh docid 218834, 218835, 218842–218849).
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 221000–225000 step 5, 219796–221000 step 1, 218834–218849 web_fetch), web_search Gemini (277/2025/NĐ-CP xác nhận).
+- Ngày phát hiện: 2026-07-12 08:45 ICT
+- Phiên thực hiện: agent:github-io:subagent:4637f2cc-e4fb-4830-833e-a82521634b17 (Đệ #1 Discovery — dải 221000–225000)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — dải 218833–218844 + 219800–225000)
 
 ### Phát hiện: 2 văn bản mới — 1248/QĐ-TTg (docid 218834) + xác minh 278/NĐ-CP (docid 219802)
@@ -4101,7 +4166,7 @@ Quét vanban.chinhphu.vn dải docid 219950–225000 (HTML page method, step 5 =
 
 | Số hiệu | Mô tả | Ưu tiên | Tình trạng |
 |---|---|:---:|---|
-| **277/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
+| **277/2026/NĐ-CP** | ⚠️ CÓ THỂ KHÔNG TỒN TẠI — 277/2025/NĐ-CP (docid 215677, 20/10/2025) đã tồn tại | ⭐⭐⭐ | Chưa index — cần xác minh lại |
 | **279/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
 | **280/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
 | **274/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐ | Chưa index |
