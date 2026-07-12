@@ -1,6 +1,8 @@
 ---
 title: 275/2026/NĐ-CP - Quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp
 layout: vanban
+date: 2026-07-08
+modified: 2026-07-12
 origin: vanban.chinhphu.vn
 docid: "218835"
 sohieu: 275/2026/NĐ-CP
@@ -11,6 +13,13 @@ loaivanban: Nghị định
 nguon: vanban.chinhphu.vn
 ngay-cong-bo: 08/07/2026
 tomtat: Quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp
+group: Công nghiệp
+tags:
+  - hóa chất
+  - vật liệu nổ
+  - xử phạt hành chính
+  - công nghiệp
+  - pháp lý
 ---
 
 # 275/2026/NĐ-CP
