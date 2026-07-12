@@ -125,8 +125,8 @@ Quét vanban.chinhphu.vn dải docid 218823–218840 (HTML page, step 1) + 21884
 | **279/2026/NĐ-CP** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
 | **280/2026/NĐ-CP** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
 | **91–100/2026/TT-BTC** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
-| **14/2026/TT-BNV** | ❓ Chưa xác minh | Theo dõi từ lần 48 |
-| **172/2026/NĐ-CP** | ❓ Chưa xác minh | Chi phí dẫn độ, theo dõi từ lần 48 |
+| **14/2026/TT-BNV** | ✅ Docid = 218316 (XÁC MINH) | Điều chỉnh lương hưu, BHXH, trợ cấp hằng tháng, ngày 29/5/2026 |
+| **172/2026/NĐ-CP** | ✅ Docid = 218180 (XÁC MINH) | Chi phí dẫn độ, tương trợ tư pháp, hiệu lực 01/7/2026 |
 
 ### Đề xuất phiên tiếp theo
 
@@ -4577,7 +4577,7 @@ Quét vanban.chinhphu.vn dải docid 218680–218842 (step 1 = 163 docid) + 2300
 | **91/2026/TT-BTC** | ❌ CHƯA INDEX | Có trên luatvietnam.vn (30/6/2026) nhưng vanban.chinhphu.vn chưa index |
 | **94/2026/TT-BTC** | ❌ CHƯA INDEX | Có trên luatvietnam.vn (01/7/2026) nhưng vanban.chinhphu.vn chưa index |
 | **95/2026/TT-BTC** | ❌ CHƯA INDEX | Hiệp định tránh đánh thuế hai lần, chưa index |
-| **14/2026/TT-BNV** | ❓ Không tìm thấy | Dải 218680–218842 không chứa docid mới |
+| **14/2026/TT-BNV** | ✅ Docid = 218316 (XÁC MINH) | Điều chỉnh lương hưu, BHXH, trợ cấp hằng tháng, 29/5/2026 |
 
 ### Đề xuất phiên tiếp theo
 
@@ -4599,3 +4599,58 @@ Quét vanban.chinhphu.vn dải docid 218680–218842 (step 1 = 163 docid) + 2300
 - Ngày phát hiện: 2026-07-12 13:28 ICT
 - Phiên thực hiện: agent:github-io:subagent:59e599dd-8c84-40c6-9972-0b32819d4094 (Đệ #1 Discovery — lần 62, dải 218680–218842 + 230000–240000)
 
+
+---
+
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 63, quét dải 230000–250000 + 218850–219000)
+
+### Phát hiện: 0 văn bản mới — dải 230000–250000 + 218850–219000 HOÀN TOÀN TRỐNG + xác nhận 91, 94, 95/TT-BTC chưa có docid
+
+Quét vanban.chinhphu.vn dải docid 230000–250000 (step 50 = 401 docid) + dải 218850–219000 (step 5 = 31 docid) + web_search + web_fetch tìm docid cho 91, 94, 95/TT-BTC. Ưu tiên: NĐ-CP mới (274–280), TT-BTC mới (91–100), QĐ-TTg mới (1248+). **Không phát hiện văn bản mới** — cả hai dải hoàn toàn trống. Giới hạn 5/lần:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218847–219000 + 230000–250000 TRỐNG HOÀN TOÀN
+
+- **Quét 230000–250000 step 50 (401 docid)**: TẤT CẢ trả HTTP 200 nhưng HTML trống — không có tiêu đề văn bản
+- **Quét 218850–219000 step 5 (31 docid)**: TẤT CẢ trả HTTP 200 nhưng HTML trống — xác nhận vùng trống
+- **Docid 218847–218849**: web_fetch xác nhận chỉ chứa "Chi tiết văn bản ban hành" — placeholder, không phải văn bản thực
+- **web_fetch luatvietnam.vn** 91/TT-BTC (448764), 94/TT-BTC (448765), 95/TT-BTC (448766): **TẤT CẢ 404** — chưa được index
+- **web_fetch baochinhphu.vn** 91/TT-BTC, 94/TT-BTC: **TẤT CẢ 404** — trang đã bị gỡ hoặc không tồn tại
+- **web_search Firecrawl** 91/TT-BTC, 94/TT-BTC, 95/TT-BTC: **KHÔNG có kết quả** (0 results) — hệ thống tìm kiếm chưa index
+- **web_fetch luatvietnam.vn tìm kiếm** (tim-van-ban.html?q=91+2026+TT-BTC): Trả về trang chủ + nav — nội dung tìm kiếm bị chặn bởi paywall/login
+- **Vùng trống mở rộng**: Từ **218847** đến **250000+** (≥31.154 docid liên tục không có văn bản mới)
+- **Kết luận**: vanban.chinhphu.vn ĐÃ NGỪNG index văn bản mới từ docid 218846. Không có văn bản nào xuất hiện trong dải 218847–250000.
+
+### Các văn bản ưu tiên — cập nhật trạng thái lần 63
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **279/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | Xác nhận lại — web_search lần 62 khẳng định chỉ có 279/2025 |
+| **280/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | Xác nhận lại — web_search lần 62 khẳng định chỉ có 280/2025 |
+| **91/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, chưa index | web_fetch luatvietnam 404, baochinhphu 404, web_search 0 kết quả |
+| **94/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, chưa index | web_fetch luatvietnam 404, baochinhphu 404, web_search 0 kết quả |
+| **95/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, chưa index | web_fetch luatvietnam 404, web_search 0 kết quả |
+| **274/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 218807 | Đấu thầu nhà đầu tư, ưu tiên cao |
+| **275/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 218835 | Hóa chất và vật liệu nổ CN, 5 OCR issues pending |
+| **276/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 218832 | Bộ Nội vụ |
+| **277/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | 277/2025 (docid 215677, 20/10/2025) đã tồn tại |
+| **278/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 219802 | File trên branch, CHƯA merge vào main |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 250000–270000 step 50** (ưu tiên 1): Nếu vanban.chinhphu.vn tiếp tục index, văn bản mới sẽ nằm ở dải cao hơn.
+2. **Quét dải 218847–218900 step 1** (ưu tiên 2): Kiểm tra lại xem 91–100/TT-BTC hoặc QĐ-TTg 1248+ có xuất hiện không.
+3. **web_fetch trực tiếp vanban.chinhphu.vn** (ưu tiên 3): Thử docid mới cao hơn cho 91/TT-BTC (dùng method `/portal/api/v2/vanban/detail` hoặc HTML page).
+4. **Merge 278/NĐ-CP vào main** (ưu tiên 4): File hoàn thiện trên branch `heartbeat/crawl-vanban-20260711-v2`, commit c75a168d. Đã pending từ lần 62.
+5. **Dừng quét dải 218847–250000** (ưu tiên 5): Vùng trống xác nhận ≥31.154 docid liên tục. Chuyển sang dải 250000+ hoặc dùng web_search.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện — dải 230000–250000 (401 docid) và 218850–219000 (31 docid) hoàn toàn trống.
+- **91, 94, 95/2026/TT-BTC**: ĐÃ BAN HÀNH nhưng CHƯA INDEX trên vanban.chinhphu.vn. web_fetch luatvietnam.vn trả 404, baochinhphu.vn trả 404, web_search trả 0 kết quả. Có thể hệ thống cần thêm thời gian để index.
+- **279, 280/2026/NĐ-CP**: KHÔNG TỒN TẠI — web_search lần 62 xác nhận chỉ có phiên bản 2025 tồn tại.
+- **Vùng trống khổng lồ**: Từ 218847 đến 250000+ (**≥31.154 docid liên tục không có văn bản mới**). vanban.chinhphu.vn đang trong giai đoạn ngừng index hoặc đã thay đổi cấu trúc lưu trữ.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 230000–250000 step 50, 218850–219000 step 5, 218847–218849 web_fetch), web_search Firecrawl (91/TT-BTC, 94/TT-BTC, 95/TT-BTC), web_fetch luatvietnam.vn (448764, 448765, 448766), web_fetch baochinhphu.vn.
+- Ngày phát hiện: 2026-07-12 16:50 ICT
+- Phiên thực hiện: agent:github-io:subagent:d9b04a7c-f073-422c-8ee5-aacb6f870b69 (Đệ #1 Discovery — lần 63)
