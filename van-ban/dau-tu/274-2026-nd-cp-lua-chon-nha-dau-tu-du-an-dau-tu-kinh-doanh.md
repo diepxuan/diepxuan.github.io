@@ -3299,7 +3299,7 @@ tiết một số điều và biện pháp thi hành Luật Đấu thầu về l
 3. Thông tin quy định tại điểm c và điểm d khoản 1 Điều này được Sở Tài:
 chính hoặc cơ quan quản lý về hoạt động đấu thầu tại bộ, cơ quan ngang bộ, cơ
 quan khác đăng tải, cập nhật nội dung trên Hệ thống mạng đầu thầu quốc gia.
-4. Thông tin quy định tại điểm đ khoản I Điều này được bên mời thầu:
+4. Thông tin quy định tại điểm đ khoản 1 Điều này được bên mời thầu:
 đăng tải, cập nhật nội dung trên Hệ thông mạng đấu thầu quốc gia. |
 
 5. Cơ sở dữ liệu quốc gia về nhà đầu tư tại khoản 1 Điều này được đăng tải
@@ -3468,7 +3468,7 @@ b) Ngoài trách nhiệm quy định tại điểm a khoản này, Bộ trưởn
 Thương ban hành hướng dẫn thực hiện điểm m khoản 1 Điều 51 của Nghị định'
 này trong trường hợp cần thiết;
 c) Cơ cầu tỷ trọng điểm quy định tại khoản 4 Điều 49, tiêu chuẩn đánh giả
-về kỹ thuật quy định tại điểm m khoản I Điều 51, tiêu chuẩn đánh giá về hiệu
+về kỹ thuật quy định tại điểm m khoản 1 Điều 51, tiêu chuẩn đánh giá về hiệu
 quả đầu tư phát triển ngành, lĩnh vực, địa phương quy định tại khoản 2 Điều 53
 của Nghị định này đối với dự á án đầu tư kinh doanh điện lực tiếp tục được áp
 dụng theo quy định pháp luật về điện lực các văn bản hướng dẫn của Bộ trưởng
