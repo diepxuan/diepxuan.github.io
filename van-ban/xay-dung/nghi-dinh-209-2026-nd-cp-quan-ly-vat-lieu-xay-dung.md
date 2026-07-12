@@ -360,7 +360,7 @@ nghiệm, kết quả đánh giá sự phù hợp theo quy định của pháp l
 và quy chuẩn kỹ thuật, pháp luật vệ chất lượng sản phẩm, hàng hóa, pháp luật
 về bảo vệ môi trường, pháp luật về xây dựng và pháp luật khác có liên quan.
 
-## Chương IV
+## Chương III
 TỎ CHỨC THỰC HIỆN
 
 ### Điều 16. Trách nhiệm quản lý nhà nước về vật liệu xây dựng
