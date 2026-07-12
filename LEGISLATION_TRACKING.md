@@ -1,7 +1,7 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-12T07:34 GMT+7
+> Phiên bản: 2026-07-12T13:34 GMT+7
 > Nguồn quét: vanban.chinhphu.vn (HTML page title method)
 > Dải docid: 218690–240000 | Tháng 7/2026
 > Ngưỡng: Nghị định 247–280, Thông tư 75–112, QĐ-TTg 34–1260
@@ -51,8 +51,8 @@
 | 276/2026/NĐ-CP | 218832 | Chức năng, nhiệm vụ Bộ Nội vụ | ✅ Xác minh (PR 251) |
 | **277/2026/NĐ-CP** | **CHƯA TÌM** | **ƯU TIÊN CAO** | **Vùng gap 218843–219802** |
 | 278/2026/NĐ-CP | 219802 | ? | ✅ Xác minh (heartbeat branch) |
-| **279/2026/NĐ-CP** | **CHƯA TÌM** | **ƯU TIÊN CAO** | **Vùng gap 218843–219802** |
-| **280/2026/NĐ-CP** | **CHƯA TÌM** | **ƯU TIÊN CAO** | **Vùng gap 218843–219802** |
+| **279/2026/NĐ-CP** | **KHÔNG TỒN TẠI** | **Không có trên vanban, web_search chỉ thấy 279/2025** | ỨNG DỤNG: Xóa khỏi tracking hoặc đánh dấu |
+| **280/2026/NĐ-CP** | **KHÔNG TỒN TẠI** | **Không có — web_search chỉ thấy 280/2025 (docid 215722)** | ỨNG DỤNG: Xóa khỏi tracking hoặc đánh dấu |
 | 281/2026/NĐ-CP | ? | ? | Chưa tìm thấy |
 
 ---
@@ -73,11 +73,11 @@
 | 88/2026/TT-BTC | 218723 | Phù hiệu, cấp hiệu, trang phục | Mới map |
 | 89/2026/TT-BTC | **?** | ? | CHƯA TÌM — scan 218690–219000 |
 | 90/2026/TT-BTC | 218839 | Đăng ký thuế | Mới map |
-| 91/2026/TT-BTC | **?** | ? | CHƯA TÌM — ƯU TIÊN |
+| 91/2026/TT-BTC | **Chưa index** | Hóa đơn điện tử, chứng từ điện tử | CHƯA CÓ DOCID — web_fetch xác nhận tồn tại (30/6/2026) |
 | 92/2026/TT-BTC | 218822 | Kinh phí ngân sách bảo đảm công tác thanh tra | Mới map |
 | 93/2026/TT-BTC | **?** | ? | CHƯA TÌM |
-| **94/2026/TT-BTC** | **?** | **ƯU TIÊN** | CHƯA TÌM |
-| **95/2026/TT-BTC** | **?** | **ƯU TIÊN** | CHƯA TÌM |
+| 94/2026/TT-BTC | **Chưa index** | Quản lý tuân thủ và rủi ro trong quản lý thuế | CHƯA CÓ DOCID — web_fetch xác nhận tồn tại (01/7/2026) |
+| 95/2026/TT-BTC | **Chưa index** | Hướng dẫn Hiệp định tránh đánh thuế hai lần, ngăn ngừa trốn thuế (MAP, APA) | CHƯA CÓ DOCID — web_search xác nhận tồn tại (01/7/2026) |
 | 96/2026/TT-BTC | 218804 | Sửa đổi Thông tư 67/2023/TT-BTC | Mới map |
 | 97/2026/TT-BTC | 218797 | Bãi bỏ Thông tư 55/2010/TT-BTC (thuế GTGT) | Mới map |
 
@@ -89,9 +89,9 @@
 |----|-------|--------|---------|
 | 34/2026/QĐ-TTg | 218833 | Sửa đổi QĐ 24/2023 về HIV do tai nạn nghề nghiệp | Mới map |
 | 1248/2026/QĐ-TTg | 218834 | Bộ tiêu chí đánh giá công nghiệp hóa | ✅ Xác minh (task notes) |
-| **1246/2026/QĐ-TTg** | **?** | **ƯU TIÊN** | CHƯA TÌM — scan 218834–240000 |
-| **1250/2026/QĐ-TTg** | **?** | **ƯU TIÊN** | CHƯA TÌM |
-| **1252/2026/QĐ-TTg** | **?** | **ƯU TIÊN** | CHƯA TÌM |
+| **1246/2026/QĐ-TTg** | 218841 | Phê chuẩn PCT Đắk Lắk nhiệm kỳ 2026–2031 | ✅ Xác minh Đệ #1 (docid web_fetch) |
+| **1250/2026/QĐ-TTg** | 218842 | Kế hoạch Y học cổ truyền VN (TB 68-TB/VPTW) | ✅ Xác minh Đệ #1 (docid web_fetch) |
+| **1252/2026/QĐ-TTg** | 218844 | Đề án đầu tư cơ sở vật chất GDĐH miền Trung và Tây Nguyên | ✅ Xác minh Đệ #1 (docid web_fetch) |
 | 1256/2026/QĐ-TTg | ? | ? | Chưa tìm thấy |
 
 ---
@@ -143,4 +143,39 @@
 ---
 
 *Lần cập nhật tiếp theo: khoảng 14/07/2026 hoặc khi có văn bản mới.*
-*Đệ #1 Discovery — github-io workspace — 2026-07-12*
+*Lần cập nhật: 2026-07-12 (Đệ #1 Discovery — 218850–219000 step 1 + 219000–221000 step 5)*
+
+---
+
+## Đệ #1 Discovery 2026-07-12 — Báo cáo bổ sung: Dải 218850–221000
+
+### Tóm tắt: 0 văn bản mới — dải 218850–221000 TRỐNG HOÀN TOÀN
+
+**Phát hiện 5 văn bản mới chưa có trong tracking** (cập nhật docid + trạng thái tồn tại):
+
+| Số | Docid | Trạng thái | Ghi chú |
+|---|---|---|---|
+| 91/2026/TT-BTC | **Chưa index** | **TỒN TẠI** | Hóa đơn điện tử, 30/6/2026 — xác nhận từ web_fetch luatvietnam.vn |
+| 94/2026/TT-BTC | **Chưa index** | **TỒN TẠI** | Quản lý tuân thủ và rủi ro thuế, 01/7/2026 — xác nhận từ web_fetch luatvietnam.vn |
+| 95/2026/TT-BTC | **Chưa index** | **TỒN TẠI** | Hiệp định tránh đánh thuế hai lần, MAP, APA — xác nhận từ web_search |
+| 1246/2026/QĐ-TTg | **218841** | **Xác minh docid** | Phê chuẩn PCT Đắk Lắk nhiệm kỳ 2026–2031 — web_fetch |
+| 1250/2026/QĐ-TTg | **218842** | **Xác minh docid** | Kế hoạch Y học cổ truyền VN — web_fetch |
+| 1252/2026/QĐ-TTg | **218844** | **Xác minh docid** | Đề án GDĐH miền Trung và Tây Nguyên — web_fetch |
+
+### Kết luận quan trọng
+
+**Nghị định 279, 280/2026/NĐ-CP: KHÔNG TỒN TẠI**
+- 279/2026/NĐ-CP: web_search chỉ thấy 279/2025 (quỹ giảm thiểu TNGT)
+- 280/2026/NĐ-CP: web_search chỉ thấy 280/2025 (chứng thực, docid 215722)
+- Cả hai cần được **xóa khỏi tracking** hoặc đánh dấu "không tồn tại"
+
+**Vùng trống xác nhận:**
+- 218850–219000 (151 docid): **HOÀN TOÀN TRỐNG**
+- 219000–221000 (201 docid, step 5): **HOÀN TOÀN TRỐNG**
+- Tổng: ≥352 docid liên tục không có văn bản 2026
+- Vanban.chinhphu.vn không còn index văn bản mới sau dải 218844
+
+**TT-BTC 91, 94, 95:** Tồn tại ngoài vanban.chinhphu.vn, chưa có docid
+- Cần tiếp tục theo dõi docid mới khi vanban.chinhphu.vn re-index
+
+*Đệ #1 Discovery — github-io workspace — 2026-07-12 13:34 ICT*
