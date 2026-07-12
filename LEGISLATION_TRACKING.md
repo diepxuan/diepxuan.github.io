@@ -54,6 +54,7 @@
 | **279/2026/NĐ-CP** | **KHÔNG TỒN TẠI** | **Không có trên vanban, web_search chỉ thấy 279/2025** | ỨNG DỤNG: Xóa khỏi tracking hoặc đánh dấu |
 | **280/2026/NĐ-CP** | **KHÔNG TỒN TẠI** | **Không có — web_search chỉ thấy 280/2025 (docid 215722)** | ỨNG DỤNG: Xóa khỏi tracking hoặc đánh dấu |
 | 281/2026/NĐ-CP | ? | ? | Chưa tìm thấy |
+| 172/2026/NĐ-CP | 218180 | Chi phí dẫn độ, chuyển giao người chấp hành án phạt tù, tương trợ tư pháp hình sự | ✅ Xác minh (Đệ #1 lần 63) |
 
 ---
 
@@ -107,6 +108,7 @@
 | 50/2026/TT-BGDĐT | 218757 | Bộ GD-ĐT | Đào tạo tiến sĩ, thạc sĩ cho giảng viên | Mới map |
 | 51/2026/TT-BGDĐT | 218796 | Bộ GD-ĐT | Sửa đổi Điều lệ trường mầm non | Mới map |
 | 25/2026/TT-BYT | 218704 | Bộ Y tế | Quản lý chất lượng xét nghiệm | ✅ Xác minh (tracking trước) |
+| 14/2026/TT-BNV | 218316 | Bộ Nội vụ | Điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hằng tháng | ✅ Xác minh (Đệ #1 lần 63) |
 
 ---
 
