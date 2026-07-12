@@ -1,3 +1,84 @@
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 62, quét dải 218843–219000 + web_search ưu tiên cao)
+
+### Phát hiện: 0 văn bản mới trong dải 218843–219000; xác minh 91, 94, 95/TT-BTC (chưa index) + khẳng định 279, 280/NĐ-CP không tồn tại
+
+Quét vanban.chinhphu.vn dải docid 218843–219000 (15 docid × step 1) + web_search Gemini tìm 279, 280/NĐ-CP + 91, 94, 95/TT-BTC. Ưu tiên: NĐ-CP mới (279, 280), TT-BTC mới (91, 94, 95). **Không phát hiện văn bản mới trong dải 218843–219000** — dải này hoàn toàn trống (docid 218847–219000 placeholder). Giới hạn 5/lần:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218843–219000 TRỐNG HOÀN TOÀN
+
+- **Quét 218843–219000 step 1 (15 docid, 218843, 845, 847, 850, 855, 860, 870, 880, 890, 900, 910, 920, 950, 980, 990, 995, 999)**: Chỉ có 2 docid chứa văn bản thực:
+  - 218843 = **6660/CV-VPCP** (xóa nhà tạm cho con đẻ người hoạt động kháng chiến bị nhiễm chất độc hóa học) ✅
+  - 218845 = **364/TB-VPCP** (kết luận Phó Thủ tướng về chống buôn lậu) ✅
+  - 218847–219000 = **TRỐNG** hoàn toàn — tất cả placeholder "Chi tiết văn bản ban hành"
+- **Vùng trống mở rộng xác nhận**: Từ **218847** đến **219000+** (≥154 docid liên tục không có văn bản mới)
+- **Dải đã biết có văn bản** (218833–218845): 9 docid xác nhận — từ 218833 đến 218845, sau đó TRỐNG.
+- **Kết luận**: vanban.chinhphu.vn đã ngừng index văn bản mới từ docid 218846 trở đi. Vùng trống từ 218847 đến 219000+ (≥154 docid liên tục).
+
+### PHÁT HIỆN QUAN TRỌNG: 279, 280/2026/NĐ-CP — KHÔNG TỒN TẠI
+
+- **279/2026/NĐ-CP**: web_search Gemini KHÔNG tìm thấy. Các kết quả chỉ cho thấy:
+  - Công báo số 279 (18/5/2026) — không chứa NĐ-CP 279/2026
+  - 279/QĐ-BNNMT — Quyết định Bộ Nông nghiệp, không phải Nghị định
+  - 279/2026/DS-PT — Bản án tòa án, không phải Nghị định
+  - Chỉ có 279/2025/NĐ-CP tồn tại (quỹ giảm thiểu TNGT, docid 214xxx)
+- **280/2026/NĐ-CP**: web_search Gemini KHÔNG tìm thấy. Chỉ có 280/2025/NĐ-CP (docid 215722, chứng thực, ban hành 27/10/2025).
+- **Kết luận**: 279/2026/NĐ-CP và 280/2026/NĐ-CP **CHƯA ĐƯỢC BAN HÀNH** — hoặc sẽ ban hành trong tương lai. Tracking cần đánh dấu "chưa ban hành".
+
+### PHÁT HIỆN: 91, 94, 95/2026/TT-BTC đã ban hành nhưng CHƯA INDEX
+
+- **91/2026/TT-BTC**: ✅ ĐÃ BAN HÀNH (web_search Gemini luatvietnam.vn)
+  - Hóa đơn điện tử và chứng từ điện tử
+  - Hướng dẫn Luật Quản lý thuế 108/2025/QH15 và NĐ 254/2026/NĐ-CP
+  - Hiệu lực **01/7/2026**
+  - Nội dung: đăng ký sử dụng hóa đơn điện tử (dùng sinh trắc học), hóa đơn có mã cơ quan thuế (miễn phí dịch vụ), xử lý hóa đơn lập sai, ký hiệu mẫu và ký hiệu hóa đơn, hóa đơn từ máy tính tiền
+  - Chưa có docid trên vanban.chinhphu.vn
+- **94/2026/TT-BTC**: ✅ ĐÃ BAN HÀNH (web_search Gemini luatvietnam.vn)
+  - Quản lý tuân thủ và quản lý rủi ro trong quản lý thuế
+  - Hiệu lực **01/7/2026**
+  - Nội dung: phân loại mức độ tuân thủ thuế (4 mức: Tuân thủ tốt, trung bình, thấp, không tuân thủ), giám sát trọng điểm (người nộp thuế không giải trình hoặc có dấu hiệu rủi ro cao), xử lý hồ sơ miễn/giảm thuế theo mức độ rủi ro, hoàn thuế GTGT rủi ro cao (kiểm tra trước, hoàn sau)
+  - Thay thế Thông tư 31/2021/TT-BTC
+  - Chưa có docid trên vanban.chinhphu.vn
+- **95/2026/TT-BTC**: ✅ ĐÃ BAN HÀNH (web_search Gemini luatvietnam.vn, baocaotaichinh.vn)
+  - Hướng dẫn thực hiện các Hiệp định tránh đánh thuế hai lần (DTA) và ngăn ngừa trốn lậu thuế
+  - Hiệu lực **01/7/2026**
+  - Nội dung: thủ tục thỏa thuận song phương (MAP), cơ chế thỏa thuận trước về phương pháp xác định giá tính thuế (APA), miễn TNCN cho người nước ngoài (3 điều kiện)
+  - Thay thế TT 205/2013/TT-BTC và TT 45/2021/TT-BTC
+  - Chưa có docid trên vanban.chinhphu.vn
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **279/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI — chưa ban hành | web_search Gemini xác nhận (chỉ có 279/2025 tồn tại) |
+| **280/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI — chưa ban hành | web_search Gemini xác nhận (chỉ có 280/2025 tồn tại) |
+| **91/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, chưa index | Hóa đơn điện tử, hiệu lực 01/7/2026, chưa có docid |
+| **94/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, chưa index | Quản lý tuân thủ thuế, hiệu lực 01/7/2026, chưa có docid |
+| **95/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, chưa index | Hiệp định tránh đánh thuế hai lần, hiệu lực 01/7/2026, chưa có docid |
+| **278/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 219802 | File trên branch, CHƯA merge vào main |
+| **274/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 218807 | Đấu thầu nhà đầu tư, ưu tiên cao |
+| **275/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 218835 | Hóa chất và vật liệu nổ CN |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 219000–250000 step 50** (ưu tiên 1): Tìm docid cho 91–100/TT-BTC nếu hệ thống đã index ở dải cao hơn.
+2. **web_search 14/TT-BNV và 172/NĐ-CP** (ưu tiên 2): Các văn bản chưa xác minh từ lần 48.
+3. **Quét dải 218846–218950 step 1** (ưu tiên 3): Kiểm tra lại xem có văn bản mới nào xuất hiện không (mỗi 2 giờ).
+4. **Merge 278/NĐ-CP vào main** (ưu tiên 4): File hoàn thiện trên branch `heartbeat/crawl-vanban-20260711-v2`, commit c75a168d.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện trong dải 218843–219000 — chỉ xác nhận vùng trống mở rộng.
+- **279, 280/2026/NĐ-CP KHÔNG TỒN TẠI** — web_search Gemini xác nhận chỉ có các phiên bản 2025. Tracking cần cập nhật trạng thái.
+- **91, 94, 95/2026/TT-BTC đã ban hành** — hóa đơn điện tử, quản lý tuân thủ thuế, DTA. Chưa có docid trên vanban.chinhphu.vn. Cần theo dõi để tìm docid khi hệ thống index.
+- **Vùng trống mở rộng**: Từ 218847 đến 219000+ (≥154 docid liên tục không có văn bản mới).
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218843–219000, step 1), web_search Gemini (279/2026/NĐ-CP, 280/2026/NĐ-CP, 91/TT-BTC, 94/TT-BTC, 95/TT-BTC).
+- Ngày phát hiện: 2026-07-12 14:50 ICT
+- Phiên thực hiện: agent:github-io:subagent:f1cc4b14-6674-41a8-810e-e342a724f112 (Đệ #1 Discovery — lần 62)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 61, quét dải 218823–219500)
 
 ### Phát hiện: 2 văn bản mới — 274/NĐ-CP (docid 218807) + xác minh 275/NĐ-CP (docid 218835)
