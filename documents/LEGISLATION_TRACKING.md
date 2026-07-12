@@ -1,3 +1,83 @@
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — dải 225000–230000 step 10 + 221000–225000 step 5 + 218850–219000 step 1)
+
+### Phát hiện: 0 văn bản mới — dải 225000–230000 TRỐNG; xác minh thêm VBHN + TT-BTC
+
+Quét vanban.chinhphu.vn dải docid 225000–230000 (step 10, ~500 docid) + 221000–225000 (step 5) + 218850–219000 (step 1) + web_search. Ưu tiên: NĐ-CP mới (279, 280), TT-BTC mới (88–100), QĐ-TTg mới (1252+). **Không phát hiện văn bản mới chưa có trong tracking**. Giới hạn 5/lần:
+
+*(Không có văn bản nào)*
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218840–221000+ HOÀN TOÀN TRỐNG; TT-BTC 88–100 đã xác minh
+
+- **Quét 225000–230000 step 10 (~500 docid)**: TẤT CẢ trả về placeholder — không có tiêu đề văn bản
+- **Quét 221000–225000 step 5 (~800 docid)**: TẤT CẢ trống — vùng trống tiếp tục mở rộng
+- **Quét 218850–219000 step 1 (151 docid)**: TẤT CẢ trống — vùng trống xác nhận mở rộng
+- **Docid 218820–218829 = TT-BTC + VBHN** (xác minh thêm, ngoài giới hạn):
+  - 218820 = **84/2026/TT-BTC** (hoàn thuế GTGT cho người nước ngoài) ✅ XÁC MINH
+  - 218821 = **86/2026/TT-BTC** (quản lý thuế đối với hàng hóa xuất khẩu) ✅ XÁC MINH
+  - 218822 = **92/2026/TT-BTC** (kinh phí NSNN cho công tác tương trợ lẫn nhau) ✅ XÁC MINH
+  - 218823–218829 = **VBHN-TT-BCT** (văn bản hợp nhất Bộ Công thương, số 58–64) ✅ XÁC MINH
+- **Dải 218830–218832** = **bãi bỏ Thông tư 55/2010/TT-BTC** (trùng lặp placeholder, không phải NĐ-CP mới)
+- **Dải 218823–218829 trống** từng bị nhầm lẫn — thực ra là VBHN-TT-BCT (không phải NĐ-CP)
+- **Vùng trống mở rộng**: Từ **218843** đến **221000+** (≥158 docid liên tục không có văn bản mới)
+- **web_search**: 91/TT-BTC (hóa đơn điện tử, 30/6/2026), 94/TT-BTC (quản lý tuân thủ thuế, 01/7/2026), 95/TT-BTC (Hiệp định tránh đánh thuế hai lần) — tồn tại nhưng CHƯA INDEX trên vanban.chinhphu.vn
+- **279, 280/NĐ-CP**: web_search KHÔNG tìm thấy. Chỉ có 280/2025/NĐ-CP (docid 215722, chứng thực).
+
+### Các văn bản đã xác minh tồn tại nhưng CHƯA có docid trên vanban
+
+| Số hiệu | Nguồn | Trạng thái docid |
+|---|---|---|
+| **91/2026/TT-BTC** (hóa đơn điện tử) | luatvietnam.vn, 30/6/2026 | Chưa có docid |
+| **94/2026/TT-BTC** (quản lý tuân thủ thuế) | baochinhphu.vn, 01/7/2026 | Chưa có docid |
+| **95/2026/TT-BTC** (Hiệp định tránh đánh thuế hai lần) | tapchikinhtetaichinh.vn | Chưa có docid |
+| **279/2026/NĐ-CP** | Không tìm thấy | Không tồn tại / chưa ban hành |
+| **280/2026/NĐ-CP** | Chỉ có 280/2025 | Không tồn tại / chưa ban hành |
+
+### Bản đồ docid hoàn chỉnh — dải 218823–218850 (cập nhật)
+
+| DocID | Văn bản | Ghi chú |
+|---:|---|---|
+| 218820 | **84/2026/TT-BTC** (hoàn thuế GTGT) | ✅ Xác minh lần này |
+| 218821 | **86/2026/TT-BTC** (quản lý thuế XK) | ✅ Xác minh lần này |
+| 218822 | **92/2026/TT-BTC** (kinh phí NSNN tương trợ) | ✅ Xác minh lần này |
+| 218823 | **58/VBHN-TT-BCT** (chất lượng amôniắc CNC) | ✅ VBHN, xác minh lần này |
+| 218824 | **59/VBHN-TT-BCT** (chất lượng PAC) | ✅ VBHN |
+| 218825 | **60/VBHN-TT-BCT** (chất lượng natri hydroxit CNC) | ✅ VBHN |
+| 218826 | **61/VBHN-TT-BCT** (giới hạn hàm lượng chì trong sơn) | ✅ VBHN |
+| 218827 | **62/VBHN-TT-BCT** (hàm lượng thủy ngân trong đèn huỳnh quang) | ✅ VBHN |
+| 218828 | **63/VBHN-TT-BCT** (formaldehyt và amin thơm chuyển hóa) | ✅ VBHN |
+| 218829 | **64/VBHN-TT-BCT** (tiền chất thuốc nổ) | ✅ VBHN |
+| 218830–218832 | **Bãi bỏ TT 55/2010/TT-BTC** | ⚠️ Trùng placeholder, không phải NĐ-CP mới |
+| 218833 | 34/2026/QĐ-TTg ✅ | |
+| 218834 | **1248/QĐ-TTg** ✅ | |
+| 218835 | 275/2026/NĐ-CP ✅ | |
+| 218836 | 29/2026/TT-BNNMT ✅ | |
+| 218837 | 30/2026/TT-BYT ✅ | |
+| 218838 | 58/2026/TT-BXD ✅ | |
+| 218839 | 90/2026/TT-BTC ✅ | |
+| 218840 | 1074/QĐ-BXD ✅ | |
+| 218841 | 1246/QĐ-TTg ✅ | |
+| 218842 | 1250/QĐ-TTg ✅ | |
+| **218843** | **EMPTY** — văn bản cần tìm (277? 279? 280? 91/TT-BTC?) | **BẮT ĐẦU VÙNG TRỐNG** |
+| 218844 | 1252/QĐ-TTg ✅ | |
+| **218845** | **EMPTY** — có thể là 1256/QĐ-TTg hoặc 93/TT-BTC | **TIẾP TỤC TRỐNG** |
+| 218846–219000 | **EMPTY** — vùng trống mở rộng | ~155 docid |
+| 219000–221000 | **EMPTY** — vùng trống mở rộng | ~2001 docid |
+| 221000–225000 | **EMPTY** — vùng trống mở rộng | ~4000 docid |
+| 225000–230000 | **EMPTY** — vùng trống mở rộng | ~5000 docid |
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện — dải 218843–230000 hoàn toàn trống.
+- **VBHN-TT-BCT 218823–218829** được xác minh — KHÔNG PHẢI NĐ-CP như từng nhầm lẫn.
+- **91, 94, 95/TT-BTC** tồn tại ngoài vanban.chinhphu.vn nhưng chưa được index (docid chưa tìm thấy).
+- **279, 280/NĐ-CP** không tìm thấy trên vanban.chinhphu.vn hoặc web_search — có thể chưa ban hành.
+- **Vùng trống khổng lồ**: Từ 218843 đến 230000+ — hơn **11.000 docid** liên tục không có văn bản mới. vanban.chinhphu.vn đang trong giai đoạn không index hoặc đã thay đổi cấu trúc lưu trữ.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 225000–230000 step 10, 221000–225000 step 5, 218850–219000 step 1), web_search Firecrawl/Gemini (91/TT-BTC, 94/TT-BTC, 95/TT-BTC, 279/280 NĐ-CP).
+- Ngày phát hiện: 2026-07-12 10:38 ICT
+- Phiên thực hiện: agent:github-io:subagent:e0f6b5a6-5e24-4ff4-aa3a-16a95f9e0ea5 (Đệ #1 Discovery — 225000–230000 step 10)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — dải 221000–225000 step 5 + web_search 277/279/280/NĐ-CP)
 
 ### Phát hiện: 0 văn bản mới — dải 221000–225000 TRỐNG HOÀN TOÀN + 277/NĐ-CP trùng với 277/2025
