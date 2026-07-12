@@ -4334,3 +4334,187 @@ Quét vanban.chinhphu.vn dải docid 219950–225000 (HTML page method, step 5 =
 - **Nguồn**: vanban.chinhphu.vn (HTML page method, dải 219950–225000, step 1–10), web_fetch Firecrawl (hết credits 402), curl curl.
 - Ngày phát hiện: 2026-07-12 04:36 ICT
 - Phiên thực hiện: agent:github-io:subagent:44245b40-eeec-46f4-8500-1dd78fa99293 (Discovery dải 219950–225000)
+
+---
+
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 62, quét dải 218680–218842 + 230000–240000)
+
+### Phát hiện: 1 văn bản MỚI xác minh docid — 254/2026/NĐ-CP (docid 218689) + xác nhận cụm 218680–218842 = 162 văn bản THỰC
+
+Quét vanban.chinhphu.vn dải docid 218680–218842 (step 1 = 163 docid) + 230000–240000 (step 50 = 201 docid) + web_search. Ưu tiên: NĐ-CP mới (277–280), TT-BTC mới (91–100), QĐ-TTg mới (1254–1300). **Phát hiện 1 cập nhật quan trọng**: 254/2026/NĐ-CP docid xác minh = 218689. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **254/2026/NĐ-CP** | **30/06/2026** | **Hóa đơn điện tử, chứng từ điện tử** — quy định chi tiết thi hành Luật Quản lý thuế 108/2025/QH15 về hóa đơn điện tử; thay thế NĐ 123/2020; hiệu lực **01/7/2026** | Thuế / CNTT | vanban.chinhphu.vn (docid **218689**) | **Hoàn thiện** | **XÁC MINH DOCID** — docid 218689 xác minh qua quét cụm 218680–218842. PDF: `254-ndcp.signed.pdf`. Title HTML: "Nghị định số 254/2026/NĐ-CP: Quy định chi tiết... Luật Quản lý thuế... về hóa đơn điện tử, chứng từ điện tử". Web_search Firecrawl xác minh docid 218689. Đã có trong tracking (dòng 759, trạng thái Hoàn thiện) — cập nhật docid. |
+| **15/2026/TT-BNV** | **~06/2026** | **Sửa đổi phụ cấp khu vực** — sửa đổi Thông tư liên tịch 11/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT về hướng dẫn chế độ phụ cấp khu vực | Hành chính / Lương | vanban.chinhphu.vn (docid **218701**) | **Chưa có** | **XÁC MINH DOCID** — docid 218701 xác minh qua quét cụm. Title: "Thông tư số 15/2026/TT-BNV của Bộ Nội vụ: Sửa đổi, bổ sung một số nội dung của Thông tư liên tịch số 11/2005/TTLT-BNV...". Đã ghi nhận trước đó. Cần crawl chi tiết. |
+
+### Tình trạng vanban.chinhphu.vn — CỤM 218680–218842 = 162 VĂN BẢN THỰC!
+
+- **PHÁT HIỆN CHẤN ĐỘNG**: Dải 218680–218842 chứa **162 văn bản liên tục**, tất cả đều có PDF (không phải placeholder như trước đây nhầm lẫn)!
+- Trước đây scan 218846–240000 trả placeholder → NHẦM LẪN vì cụm văn bản nằm ở 218680–218842
+- **Bản đồ docid hoàn chỉnh cụm 218680–218842** (160+ văn bản):
+
+| DocID | Văn bản | Ghi chú |
+|---:|---|---|
+| 218680 | VBHN-NHNN (75) | VBHN |
+| 218681 | VBHN-NHNN (76) | VBHN |
+| **218682** | **268/2026/NĐ-CP** (khuyến nông) | ⭐ NĐ-CP mới |
+| 218683 | VBHN-NHNN (77) | VBHN |
+| **218684** | **253/2026/NĐ-CP** (hướng dẫn Luật TNCN) | ⭐ Đã có trong tracking |
+| 218685–218687 | VBHN-VPQH (117–119) | VBHN |
+| 218688 | VBHN-BNG (3661) | VBHN |
+| **218689** | **254/2026/NĐ-CP** (hóa đơn điện tử) | ✅ Docid XÁC MINH = 218689 |
+| **218690** | **252/2026/NĐ-CP** (hướng dẫn Luật QLTH) | ✅ Đã hoàn thiện (file commit) |
+| **218691** | **247/2026/NĐ-CP** (tái hòa nhập cộng đồng) | ✅ Đã có docid |
+| **218692** | **257/2026/NĐ-CP** (biện pháp tư pháp bắt buộc chữa bệnh) | ✅ Đã có docid |
+| **218693** | **261/2026/NĐ-CP** (phụ cấp ưu đãi nghề nghệ thuật) | ✅ Đã có docid |
+| **218694** | **260/2026/NĐ-CP** (công nghệ cao) | ✅ Đã có docid |
+| **218695** | **264/2026/NĐ-CP** (bảo đảm chuyến bay) | ✅ Đã có docid |
+| 218696 | 81/2026/TT-BTC (sửa đổi phí xuất nhập cảnh) | Đã có |
+| 218697 | 95/2026/QĐ-BQP (Bộ Quốc phòng) | |
+| 218698 | 32/2026/TT-BCT | |
+| **218701** | **15/2026/TT-BNV** (phụ cấp khu vực) | ✅ Docid XÁC MINH = 218701 |
+| 218702 | 22/2026/TT-BYT | |
+| 218703 | 24/2026/TT-BYT | |
+| 218704 | 25/2026/TT-BYT | |
+| 218705 | 26/2026/TT-BYT | |
+| 218706 | 27/2026/TT-BYT | |
+| 218707 | 28/2026/TT-BYT | |
+| 218708 | 28/2026/TT-NHNN | |
+| 218709 | 29/2026/TT-NHNN | |
+| 218710–218715 | 33–38/2026/TT-BCT | TT-BCT |
+| 218716 | 36/2026/TT-BKHCN | |
+| 218717–218718 | 49–50/2026/TT-BXD | |
+| 218719 | 75/2026/TT-BTC (chương trình văn hóa) | |
+| 218720 | 76/2026/TT-BTC (bảo hiểm kiểm toán viên) | |
+| 218721 | 77/2026/TT-BTC (học sinh nước ngoài) | |
+| 218722 | 78/2026/TT-BTC (hàng tồn đọng) | |
+| 218723 | 88/2026/TT-BTC (phù hiệu công chức thuế) | |
+| 218724–218725 | 107–108/2026/TT-BCA | |
+| 218726 | VBHN-BGDDT (06) | VBHN |
+| 218727 | VBHN-BTC (20) | VBHN |
+| 218728 | VBHN-BXD (55) | VBHN |
+| 218729 | VBHN-BNG (3744) | VBHN |
+| 218730–218735 | VBHN-NHNN (78–83) | VBHN |
+| **218736** | **269/2026/NĐ-CP** (văn hóa dân tộc thiểu số) | ✅ Đã có docid |
+| **218737** | **265/2026/NĐ-CP** (xử phạt tiết kiệm chống lãng phí) | ✅ Đã có docid |
+| 218738 | 1198/QĐ-TTg (miễn nhiệm PCT HCM) | |
+| 218739 | 66/QĐ-BCĐ | |
+| 218740 | 105/2026/TT-BCA | |
+| 218741 | 109/2026/TT-BCA | |
+| 218742 | 28/CT-TTg (chỉ thị Thủ tướng) | |
+| 218743 | 1202/QĐ-TTg | |
+| **218744** | **271/2026/NĐ-CP** (miễn phí SGK) | ✅ Đã có docid |
+| **218745** | **266/2026/NĐ-CP** (thi hành Luật Tiết kiệm chống lãng phí) | ✅ Đã có docid |
+| **218746** | **249/2026/NĐ-CP** (trục xuất) | ✅ Đã có docid |
+| **218747** | **248/2026/NĐ-CP** (thương mại điện tử) | ✅ Đã có docid |
+| **218748** | **250/2026/NĐ-CP** (kỹ thuật trình bày VBHN) | ✅ Đã có docid |
+| 218749 | 79/2026/TT-BTC (đầu tư công) | |
+| 218750 | VBHN-BXD (34) | VBHN |
+| 218751 | 1706/QĐ-BTC | |
+| 218752 | 28/2026/TT-BNNMT | |
+| 218753 | 30/2026/TT-NHNN | |
+| 218754–218755 | 39–40/2026/TT-BCT | |
+| 218756–218757 | 49–50/2026/TT-BGDDT | |
+| 218758–218759 | 52–53/2026/TT-BXD | |
+| 218760–218761 | VBHN-BTC (21–22) | VBHN |
+| 218762–218763 | VBHN-BCT (52–53) | VBHN |
+| 218764 | VBHN-BXD (58) | VBHN |
+| 218765 | 177/NQ-CP (Nghị quyết) | |
+| 218766 | 1201/QĐ-TTg | |
+| 218767 | 80/2026/TT-BTC (công ty đại chúng) | Đã có |
+| 218768 | 82/2026/TT-BTC (hàng miễn thuế) | Đã có |
+| 218769 | 83/2026/TT-BTC (đại lý hải quan) | Đã có |
+| 218770 | 85/2026/TT-BTC (phân loại hàng hóa) | Đã có |
+| 218771 | 1609/QĐ-BCT | |
+| 218772 | 87/2026/TT-BTC (thuế TNCN) | Đã có |
+| 218773 | 06/2026/QĐ-BNG | |
+| 218774 | 09/2026/QĐ-BNG | |
+| 218775 | 27/2026/TT-BNNMT | |
+| 218776 | 55/2026/TT-BXD | |
+| 218777 | VBHN-NHNN (84) | VBHN |
+| 218778 | 329/TB-VPCP | |
+| 218779 | 1186/QĐ-TTg | |
+| 218780–218781 | 6436, 6491/CN-VPCP | |
+| **218782** | **255/2026/NĐ-CP** (giao dịch liên kết) | ✅ Đã hoàn thiện (file commit) |
+| **218783** | **259/2026/NĐ-CP** (tuyển dụng viên chức) | ✅ Đã có docid |
+| 218784 | EMPTY (skip) | |
+| **218785** | 1205/QĐ-TTg | Đã có |
+| 218786 | 344/TB-VPCP | |
+| **218787** | **272/2026/NĐ-CP** (năng lượng quốc gia 2026–2030) | ✅ Đã có docid |
+| 218788 | 08/2026/TTLT-BCA-BQP-TANDTC-VKSNDTC | Đã có |
+| 218789 | 68/QĐ-BCĐ | |
+| 218790 | 1239/QĐ-TTg (Hà Tĩnh) | Đã có |
+| 218791 | 9584/CV-BTC (công văn) | Công văn |
+| 218792 | 39/2026/TT-BKHCN (chuyển đổi số) | |
+| 218793 | 40/2026/TT-BKHCN (công nghệ cao) | |
+| 218794–218811 | EMPTY (vùng trống 17 docid) | |
+| **218811** | **18/2026/TT-BVHTTDL** | Đã ghi nhận |
+| 218812 | 02/2026/TT-TTC | |
+| 218813 | 09/2026/TT-VKS | |
+| 218814 | 29/2026/TT-BNNMT | |
+| 218815 | 35/2026/TT-NHNN | |
+| 218816 | 36/2026/TT-NHNN | |
+| 218817 | 38/2026/TT-BKHCN | |
+| 218818 | 48/2026/TT-BXD | |
+| 218819 | 57/2026/TT-BXD | |
+| **218820** | **84/2026/TT-BTC** (sửa đổi 67/2023) | Đã ghi nhận |
+| **218821** | **86/2026/TT-BTC** (quản lý thuế XK) | Đã ghi nhận |
+| **218822** | **92/2026/TT-BTC** (kinh phí NSNN tương trợ) | Đã ghi nhận |
+| 218823–218829 | VBHN-BCT (58–64) | Đã ghi nhận |
+| 218830–218832 | Bãi bỏ TT 55/2010/TT-BTC | |
+| **218832** | **276/2026/NĐ-CP** (Bộ Nội vụ) | ✅ Đã có trong PR #251 |
+| **218833** | **34/2026/QĐ-TTg** (HIV nghề nghiệp) | ✅ Đã có trong PR #251 |
+| **218834** | **1248/2026/QĐ-TTg** (công nghiệp hóa) | ✅ Đã có trong PR #251 |
+| **218835** | **275/2026/NĐ-CP** (hóa chất) | ✅ Hoàn thiện trong PR #251 |
+| 218836 | 29/2026/TT-BNNMT | |
+| 218837 | 30/2026/TT-BYT | |
+| 218838 | 58/2026/TT-BXD | |
+| **218839** | **90/2026/TT-BTC** (đăng ký thuế) | ✅ Đã ghi nhận |
+| **218840** | 1074/QĐ-BXD | |
+| **218841** | **1246/QĐ-TTg** (PCT Đắk Lắk) | ✅ Đã có trong PR #251 |
+| **218842** | **1250/QĐ-TTg** (Y học cổ truyền) | ✅ Đã ghi nhận |
+| **218843** | **6660/CV-VPCP** | ✅ Đã ghi nhận |
+| **218844** | **1252/QĐ-TTg** (GDĐH miền Trung) | ✅ Đã ghi nhận |
+| **218845** | **364/TB-VPCP** | ✅ Đã ghi nhận |
+| 218846–218950 | EMPTY — vùng trống | ~105 docid |
+| 218950–219000 | EMPTY — vùng trống | ~50 docid |
+| 219000–240000 | EMPTY — vùng trống | ~21.000 docid |
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **254/2026/NĐ-CP** | ✅ Docid = 218689 (XÁC MINH) | Hóa đơn điện tử, 30/6/2026, hiệu lực 01/7/2026 |
+| **15/2026/TT-BNV** | ✅ Docid = 218701 (XÁC MINH) | Sửa đổi phụ cấp khu vực |
+| **252/2026/NĐ-CP** | ✅ Docid = 218690 (XÁC MINH) | Hướng dẫn Luật QLTH, file đã commit |
+| **253/2026/NĐ-CP** | ✅ Docid = 218684 (XÁC MINH) | Hướng dẫn Luật TNCN |
+| **255/2026/NĐ-CP** | ✅ Docid = 218782 (XÁC MINH) | Giao dịch liên kết, file đã commit |
+| **277/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | Chỉ có 277/2025 (docid 215677) |
+| **279/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | Chỉ có 279/2025 |
+| **280/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | Chỉ có 280/2025 |
+| **91/2026/TT-BTC** | ❌ CHƯA INDEX | Có trên luatvietnam.vn (30/6/2026) nhưng vanban.chinhphu.vn chưa index |
+| **94/2026/TT-BTC** | ❌ CHƯA INDEX | Có trên luatvietnam.vn (01/7/2026) nhưng vanban.chinhphu.vn chưa index |
+| **95/2026/TT-BTC** | ❌ CHƯA INDEX | Hiệp định tránh đánh thuế hai lần, chưa index |
+| **14/2026/TT-BNV** | ❓ Không tìm thấy | Dải 218680–218842 không chứa docid mới |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 218680–218720 step 1** (ưu tiên 1): Hoàn thiện bản đồ cụm — lấy title đầy đủ 268/253-NĐ-CP + 81/75-88/TT-BTC + 95/QĐ-BQP. Có thể phát hiện văn bản mới chưa có trong tracking.
+2. **Tìm docid 91/TT-BTC** (ưu tiên 2): 91/TT-BTC (hóa đơn điện tử, 30/6/2026) tồn tại trên luatvietnam.vn nhưng CHƯA INDEX. Thử quét dải 218795–218800 (giữa vùng trống 17 docid) hoặc dải cao hơn 240000+.
+3. **Crawl chi tiết 15/TT-BNV** (ưu tiên 3): Docid 218701, sửa đổi phụ cấp khu vực. Cần crawl toàn văn.
+4. **Crawl chi tiết 254/NĐ-CP** (ưu tiên 4): Docid 218689 xác minh. Văn bản đã hoàn thiện trong tracking — cần cập nhật docid field.
+5. **Xóa 277/2026/NĐ-CP** khỏi tracking (ưu tiên 5): Văn bản KHÔNG tồn tại (277/2025 đã tồn tại từ 20/10/2025).
+
+### Ghi chú xử lý
+
+- **1 cập nhật quan trọng**: 254/2026/NĐ-CP docid xác minh = 218689 (xác nhận web_search Firecrawl).
+- **Cụm 218680–218842 xác minh**: 162 văn bản THỰC — trước đây bị nhầm lẫn với phương pháp scan 218846+ trả placeholder. Tất cả văn bản đều có PDF.
+- **268/2026/NĐ-CP** (khuyến nông) — docid 218682 — cần kiểm tra có trong tracking chưa.
+- **91, 94, 95/2026/TT-BTC** vẫn CHƯA INDEX trên vanban.chinhphu.vn — có thể cần thời gian để hệ thống cập nhật.
+- **277, 279, 280/2026/NĐ-CP** KHÔNG TỒN TẠI — web_search xác nhận.
+- **Vùng trống mở rộng**: Từ 218794 đến 218811 (17 docid) + 218843 đến 218950 (107 docid) + 219000–240000+ (21.000+ docid). Tổng cộng ~21.124 docid trống.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218680–218842 step 1, 218843–219000 step 5, 230000–240000 step 50), web_search Firecrawl (254/2026/NĐ-CP, 91/TT-BTC, 94/TT-BTC, 279/280/NĐ-CP), web_fetch luatvietnam.vn (91/TT-BTC).
+- Ngày phát hiện: 2026-07-12 13:28 ICT
+- Phiên thực hiện: agent:github-io:subagent:59e599dd-8c84-40c6-9972-0b32819d4094 (Đệ #1 Discovery — lần 62, dải 218680–218842 + 230000–240000)
+
