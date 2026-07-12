@@ -1,3 +1,56 @@
+## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 68, quét dải 219000–219150 + web_search 100/102/TT-BTC + xác nhận 97/TT-BTC)
+
+### Phát hiện: 0 văn bản mới — dải 219000–219150 HOÀN TOÀN TRỐNG; xác nhận 97/TT-BTC docid 218797
+
+Quét vanban.chinhphu.vn dải docid 219000–219150 (HTML page, step 1 = 151 docid) + web_search 100/102/TT-BTC trên vanban.chinhphu.vn, luatvietnam.vn + web_fetch docid 218797 xác nhận 97/TT-BTC. Ưu tiên: tìm docid cho 100/TT-BTC (thuế trước bạ xe ô tô), 102/TT-BTC (hộ kinh doanh), xác nhận 97/TT-BTC. **Không phát hiện văn bản mới** — dải 219000–219150 hoàn toàn trống. Giới hạn 5/lần:
+
+*(Không có văn bản nào)*
+
+### KẾT QUẢ CHÍNH
+
+- **97/2026/TT-BTC** (docid 218797): ✅ XÁC NHẬN — web_fetch vanban.chinhphu.vn với pageid=27160 xác nhận: "Bãi bỏ Thông tư số 55/2010/TT-BTC ngày 16/4/2010 của Bộ trưởng Bộ Tài chính hướng dẫn về thuế GTGT và thuế TNDN đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh, thành phố". Ban hành 02/7/2026. **ĐÃ CÓ trong tracking** (bảng phát hiện dòng 9, bảng ưu tiên dòng 48). Docid 218797 = CHÍNH XÁC.
+- **97/2026/NĐ-CP** (docid 217540): ✅ ĐÃ CÓ trong tracking (bảng phát hiện dòng 11). Sửa đổi Nghị định 46/2023 về bảo hiểm, hiệu lực 31/3/2026. **ĐÃ CÓ docid 217540** — KHÔNG cần thêm mới.
+- **100/2026/TT-BTC**: ⚠️ ĐÃ CÓ trong tracking (bảng phát hiện dòng 12, trạng thái "Chưa có" = chưa crawl). Nội dung: thuế trước bạ xe ô tô (sửa đổi Thông tư 40/2026/TT-BTC, Điều 3, Khoản 2.3 về tỷ lệ 10% dưới 09 chỗ). **Chưa có docid trên vanban.chinhphu.vn** — web_search vanban.chinhphu.vn trả về 100/2025/TT-BTC (docid 215774) và 100/2026/NĐ-CP (docid 217505), KHÔNG tìm thấy 100/2026/TT-BTC.
+- **102/2026/TT-BTC**: ⚠️ ĐÃ CÓ trong tracking (bảng phát hiện dòng 13, trạng thái "Chưa có" = chưa crawl). Nội dung: quản lý thuế hộ kinh doanh (ngưỡng 100 triệu đồng/năm). **Chưa có docid trên vanban.chinhphu.vn** — web_search vanban.chinhphu.vn trả về 102/2025/TT-BTC và 102/2026/NĐ-CP (docid 217417), KHÔNG tìm thấy 102/2026/TT-BTC.
+- **Vùng trống xác nhận mở rộng**: Từ **219000** đến **219150+** (≥151 docid liên tục không có văn bản mới). vanban.chinhphu.vn tiếp tục KHÔNG index văn bản mới.
+
+### Tình trạng vanban.chinhphu.vn — DẢI 219000–219150 TRỐNG HOÀN TOÀN
+
+- **Quét 219000–219150 step 1 (151 docid)**: TẤT CẢ trả placeholder "Chi tiết văn bản ban hành" hoặc "(no title)" — không có tiêu đề văn bản 2026.
+- **Dải 219000–221000**: Tất cả trống (xác nhận lần 67 + lần này).
+- **Web_search 100/2026/TT-BTC**: Trả về 100/2025/TT-BTC (docid 215774) và 100/2026/NĐ-CP (docid 217505) — không tìm thấy 100/2026/TT-BTC.
+- **Web_search 102/2026/TT-BTC**: Trả về 102/2025/TT-BTC và 102/2026/NĐ-CP (docid 217417) — không tìm thấy 102/2026/TT-BTC.
+- **Vùng trống mở rộng**: Từ **218805** đến **219150+** (≥346 docid liên tục không có văn bản mới).
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **97/2026/TT-BTC** | ✅ Docid = 218797 (XÁC NHẬN) | Bãi bỏ TT 55/2010, thuế GTGT + TNDN Đài truyền hình, 02/7/2026 |
+| **97/2026/NĐ-CP** | ✅ Đã có (bảng phát hiện dòng 11) | Docid 217540, sửa đổi NĐ 46/2023 về bảo hiểm, hiệu lực 31/3/2026 |
+| **100/2026/TT-BTC** | ⚠️ Đã có (bảng phát hiện dòng 12), CHƯA CÓ docid | Thuế trước bạ xe ô tô, chưa index vanban.chinhphu.vn |
+| **102/2026/TT-BTC** | ⚠️ Đã có (bảng phát hiện dòng 13), CHƯA CÓ docid | Hộ kinh doanh, cá nhân kinh doanh, chưa index vanban.chinhphu.vn |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 219150–221000 step 5** (ưu tiên 1): Tiếp tục xác nhận vùng trống trên vanban.chinhphu.vn — 100/TT-BTC và 102/TT-BTC có thể chưa được index.
+2. **Tìm docid 100/TT-BTC, 102/TT-BTC trên luatvietnam.vn** (ưu tiên 2): web_search lần này trả về 100/2025, 102/2025 — cần tìm chính xác 2026.
+3. **Crawl 97/TT-BTC** (ưu tiên 3): Đã xác nhận docid 218797, có thể crawl toàn văn từ vanban.chinhphu.vn.
+4. **Crawl 97/NĐ-CP** (ưu tiên 4): Docid 217540 đã có, crawl toàn văn từ vanban.chinhphu.vn.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện — dải 219000–219150 hoàn toàn trống.
+- **97/TT-BTC docid = 218797 XÁC NHẬN** — web_fetch pageid=27160 thành công, toàn văn: "Bãi bỏ Thông tư số 55/2010/TT-BTC ngày 16/4/2010..." (02/7/2026).
+- **97/NĐ-CP đã CÓ trong tracking** (bảng phát hiện dòng 11, docid 217540) — KHÔNG cần thêm mới.
+- **100/TT-BTC, 102/TT-BTC đã CÓ trong tracking** (bảng phát hiện dòng 12, 13) — chỉ cần tìm docid.
+- **Vùng trống mở rộng**: Từ 218805 đến 219150+ (≥346 docid liên tục không có văn bản mới).
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 219000–219150 step 1), web_fetch vanban.chinhphu.vn (docid 218797), web_search Firecrawl (100/TT-BTC, 102/TT-BTC).
+- Ngày phát hiện: 2026-07-13 02:42 ICT
+- Phiên thực hiện: agent:github-io:subagent:cb9674a6-c6fd-49df-af7c-08d5bd7114c7 (Đệ #1 Discovery — lần 68)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 67, quét dải 218847–250000 step 10 + web_search 91/94/95/96/97/100/102/TT-BTC + 97/NĐ-CP)
 
 ### Phát hiện: 4 văn bản mới — 97/TT-BTC (218797), 96/TT-BTC (218804 xác minh), 97/NĐ-CP (217540), 100/TT-BTC + 102/TT-BTC (chưa có docid)
@@ -47,9 +100,9 @@ Quét vanban.chinhphu.vn dải docid 218847–250000 (step 10) + web_search xác
 |---|:---:|---|
 | **97/2026/TT-BTC** | ✅ Docid = 218797 (xác minh) | Bãi bỏ TT 55/2010, thuế GTGT + TNDN Đài truyền hình |
 | **96/2026/TT-BTC** | ✅ Docid = 218804 (xác minh) | Kinh doanh bảo hiểm, bảo vệ dữ liệu cá nhân, 02/7/2026, hiệu lực 01/7/2026 |
-| **97/2026/NĐ-CP** | ⚠️ Chưa có trong tracking | Sửa đổi NĐ 46/2023 về bảo hiểm, docid 217540, hiệu lực 31/3/2026 |
-| **100/2026/TT-BTC** | ⚠️ Chưa có trong tracking | Thuế trước bạ xe ô tô, ngày ban hành ước đoán 02/7/2026 |
-| **102/2026/TT-BTC** | ⚠️ Chưa có trong tracking | Hộ kinh doanh, cá nhân kinh doanh, ngày ban hành ước đoán 02/7/2026 |
+| **97/2026/NĐ-CP** | ✅ Đã có (bảng phát hiện dòng 11, docid 217540) | Sửa đổi NĐ 46/2023 về bảo hiểm, hiệu lực 31/3/2026 |
+| **100/2026/TT-BTC** | ✅ Đã có (bảng phát hiện dòng 12), CHƯA CÓ docid | Thuế trước bạ xe ô tô, ngày ban hành ước đoán 02/7/2026 |
+| **102/2026/TT-BTC** | ✅ Đã có (bảng phát hiện dòng 13), CHƯA CÓ docid | Hộ kinh doanh, cá nhân kinh doanh, ngày ban hành ước đoán 02/7/2026 |
 | **91/2026/TT-BTC** | ✅ ĐÃ BAN HÀNH, luatvietnam slug 439780 | Hóa đơn điện tử, 30/6/2026, hiệu lực 01/7/2026, CHƯA INDEX |
 | **94/2026/TT-BTC** | ✅ ĐÃ BAN HÀNH, luatvietnam slug 439781 | Quản lý tuân thủ thuế, 01/7/2026, CHƯA INDEX |
 | **95/2026/TT-BTC** | ✅ ĐÃ BAN HÀNH, luatvietnam slug 439970 | Hiệp định tránh đánh thuế hai lần, 01/7/2026, CHƯA INDEX |
