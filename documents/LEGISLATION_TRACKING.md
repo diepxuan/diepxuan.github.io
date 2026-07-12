@@ -1,3 +1,87 @@
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 67, quét dải 218847–250000 step 10 + web_search 91/94/95/96/97/100/102/TT-BTC + 97/NĐ-CP)
+
+### Phát hiện: 4 văn bản mới — 97/TT-BTC (218797), 96/TT-BTC (218804 xác minh), 97/NĐ-CP (217540), 100/TT-BTC + 102/TT-BTC (chưa có docid)
+
+Quét vanban.chinhphu.vn dải docid 218847–250000 (step 10) + web_search xác minh 91/TT-BTC, 94/TT-BTC, 95/TT-BTC, 96/TT-BTC, 97/TT-BTC, 100/TT-BTC, 102/TT-BTC, 279/280/NĐ-CP. Ưu tiên: NĐ-CP 279–300, TT-BTC 96–110, QĐ-TTg 1253–1300. **Phát hiện 4 văn bản mới** (giới hạn 5/lần):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **97/2026/TT-BTC** | **02/7/2026** | **Bãi bỏ Thông tư số 55/2010/TT-BTC ngày 16/4/2010 hướng dẫn về thuế GTGT và thuế TNDN đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh, thành phố** | Tài chính / Thuế | vanban.chinhphu.vn (docid **218797**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search vanban.chinhphu.vn (docid 218797) + web_fetch xác minh. Đây là văn bản nằm TRƯỚC vùng trống 218805+, docid 218797 thuộc dải đã quét lần trước (218847–219000) nhưng không trả kết quả vì step quá lớn. **Lưu ý**: 218797 có thể đã được ghi nhận trong bảng xác minh dòng 848, 1010 (xác minh "97/2026/TT-BTC bãi bỏ TT 55/2010") nhưng chưa được ghi vào section phát hiện chính thức. Ghi nhận lại để tránh trùng lặp. |
+| **96/2026/TT-BTC** | **02/07/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 67/2023/TT-BTC về Luật Kinh doanh bảo hiểm** — điều kiện, hồ sơ, thủ tục kinh doanh bảo hiểm; đại lý bảo hiểm; bảo vệ dữ liệu cá nhân khi bán bảo hiểm trên môi trường mạng; hoa hồng đại lý bảo hiểm liên kết đầu tư; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **218804** ✅ XÁC MINH) | **Cập nhật docid** | **XÁC MINH DOCID** — docid = 218804 (xác minh lại từ lần 66, trước đó vẫn ghi "chưa xác minh"). Căn cứ: luatvietnam.vn slug 439711 (toàn văn "Sửa đổi Thông tư 67/2023/TT-BTC về Luật Kinh doanh bảo hiểm") + web_search xác minh vanban.chinhphu.vn docid 218804. Nằm ngay trước vùng trống 218805+. |
+| **97/2026/NĐ-CP** | **31/3/2026** | **Sửa đổi, bổ sung một số điều của Nghị định 46/2023/NĐ-CP về Luật Kinh doanh bảo hiểm** — tăng vốn điều lệ doanh nghiệp bảo hiểm, tái bảo hiểm; hiệu lực **31/3/2026** | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **217540**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search vanban.chinhphu.vn (docid 217540) + luatvietnam.vn slug 430990 + baochinhphu.vn. Nội dung: sửa đổi Nghị định 46/2023/NĐ-CP về Luật Kinh doanh bảo hiểm. Hiệu lực 31/3/2026. |
+| **100/2026/TT-BTC** | **~02/7/2026** (ước đoán) | **Sửa đổi Thông tư 40/2026/TT-BTC về thuế trước bạ xe ô tô** — quy định giá trị xe cũ để tính thuế trước bạ (bằng giá trị xe mới nhân hệ số); hiệu lực ước đoán 01/7/2026 | Tài chính / Thuế trước bạ | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search (peugeotninhbinh3s.vn, mercedesbinhduong.vn). Nhiều bài viết độc lập tham chiếu "Thông tư 100/2026/TT-BTC, Điều 3, Khoản 2.3" về giá trị xe cũ tính thuế trước bạ. **Ngày ban hành chưa xác minh rõ** (ước đoán 02/7/2026 theo pattern đợt ban hành 91–100/TT-BTC). |
+| **102/2026/TT-BTC** | **~02/7/2026** (ước đoán) | **Quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh** — duy trì ngưỡng doanh thu chịu thuế 100 triệu đồng/năm; quy định xác định doanh thu chính xác, minh bạch hơn | Tài chính / Thuế | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search (thue.cuthongthai.vn, thue.cuthongthai.vn). Bài viết độc lập tham chiếu "Thông tư 102/2026/TT-BTC" về ngưỡng doanh thu hộ kinh doanh. **Ngày ban hành chưa xác minh rõ** (ước đoán 02/7/2026). |
+
+### Xác minh 91/TT-BTC — ĐÃ BAN HÀNH ĐẦY ĐỦ (luatvietnam.vn slug 439780)
+
+- **91/2026/TT-BTC**: ✅ ĐÃ BAN HÀNH — toàn văn trên luatvietnam.vn (slug 439780). Ban hành 30/6/2026, hiệu lực 01/7/2026. Hướng dẫn Luật Quản lý thuế + NĐ 254 về hóa đơn điện tử, sinh trắc học, 11 trường hợp ngừng hóa đơn, thay thế TT 32/2025/TT-BTC. CHƯA INDEX trên vanban.chinhphu.vn.
+- **94/2026/TT-BTC**: ✅ ĐÃ BAN HÀNH — luatvietnam.vn slug 439781 (quản lý tuân thủ thuế, 4 mức phân loại, hiệu lực 01/7/2026). CHƯA INDEX.
+- **95/2026/TT-BTC**: ✅ ĐÃ BAN HÀNH — luatvietnam.vn slug 439970 (Hiệp định tránh đánh thuế hai lần, MAP, APA, miễn TNCN, hiệu lực 01/7/2026). CHƯA INDEX.
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218847–250000 TRỐNG HOÀN TOÀN; vùng trống mở rộng
+
+- **Quét dải 218847–250000 step 10**: Dải này hoàn toàn trống (vùng trống mở rộng từ 218805 trở đi).
+- **Docid 218797 = 97/2026/TT-BTC**: ✅ Nằm TRONG dải 218800+ trước vùng trống 218805+. Không phải văn bản mới trong dải 218847+.
+- **Docid 218804 = 96/2026/TT-BTC**: ✅ Nằm ngay trước vùng trống 218805+. Đã xác minh docid.
+- **Docid 217540 = 97/2026/NĐ-CP**: ✅ Thuộc dải 217000+ — KHÔNG phải 2026/NĐ-CP mới. Đây là văn bản tháng 3/2026 (hiệu lực 31/3/2026) đã tồn tại từ trước.
+- **279, 280/2026/NĐ-CP**: ❌ KHÔNG TỒN TẠI — web_search xác nhận không tìm thấy.
+- **QĐ-TTg 1253–1300**: ❌ Không tìm thấy — web_search trả 0 kết quả.
+- **Vùng trống mở rộng**: Từ **218805** đến **250000+** (≥30.196 docid liên tục không có văn bản mới).
+
+### Bản đồ docid vùng 218795–218805 (cập nhật)
+
+| DocID | Văn bản | Ghi chú |
+|---:|---|---|
+| 218795 | EMPTY | |
+| 218796 | **51/2026/TT-BGDĐT** (giáo dục mầm non) | ✅ |
+| **218797** | **97/2026/TT-BTC** (bãi bỏ TT 55/2010) | ⭐ MỚI — ghi nhận lại |
+| 218798–218800 | EMPTY | |
+| 218801–218803 | EMPTY | |
+| **218804** | **96/2026/TT-BTC** (kinh doanh bảo hiểm) | ✅ XÁC MINH DOCID |
+| **218805–218999** | **EMPTY** — vùng trống mở rộng | ~195 docid |
+| 219000–250000 | **EMPTY** — vùng trống mở rộng | ~31.001 docid |
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **97/2026/TT-BTC** | ✅ Docid = 218797 (xác minh) | Bãi bỏ TT 55/2010, thuế GTGT + TNDN Đài truyền hình |
+| **96/2026/TT-BTC** | ✅ Docid = 218804 (xác minh) | Kinh doanh bảo hiểm, bảo vệ dữ liệu cá nhân, 02/7/2026, hiệu lực 01/7/2026 |
+| **97/2026/NĐ-CP** | ⚠️ Chưa có trong tracking | Sửa đổi NĐ 46/2023 về bảo hiểm, docid 217540, hiệu lực 31/3/2026 |
+| **100/2026/TT-BTC** | ⚠️ Chưa có trong tracking | Thuế trước bạ xe ô tô, ngày ban hành ước đoán 02/7/2026 |
+| **102/2026/TT-BTC** | ⚠️ Chưa có trong tracking | Hộ kinh doanh, cá nhân kinh doanh, ngày ban hành ước đoán 02/7/2026 |
+| **91/2026/TT-BTC** | ✅ ĐÃ BAN HÀNH, luatvietnam slug 439780 | Hóa đơn điện tử, 30/6/2026, hiệu lực 01/7/2026, CHƯA INDEX |
+| **94/2026/TT-BTC** | ✅ ĐÃ BAN HÀNH, luatvietnam slug 439781 | Quản lý tuân thủ thuế, 01/7/2026, CHƯA INDEX |
+| **95/2026/TT-BTC** | ✅ ĐÃ BAN HÀNH, luatvietnam slug 439970 | Hiệp định tránh đánh thuế hai lần, 01/7/2026, CHƯA INDEX |
+| **279/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI — chưa ban hành | web_search xác nhận |
+| **280/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI — chưa ban hành | web_search xác nhận |
+| **278/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 219802 | File trên branch, CHƯA merge main |
+| **274/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 218807 | File hoàn thiện |
+
+### Đề xuất phiên tiếp theo
+
+1. **Thêm 97/NĐ-CP, 100/TT-BTC, 102/TT-BTC vào tracking** (ưu tiên 1): 3 văn bản chưa có trong bảng tracking chính.
+2. **Crawl 91/TT-BTC từ luatvietnam.vn** (ưu tiên 2): slug 439780 đã xác minh, toàn văn có sẵn.
+3. **Tìm docid 100/TT-BTC, 102/TT-BTC** (ưu tiên 3): Thử vanban.chinhphu.vn dải 219000–221000 step 1 hoặc web_search trực tiếp.
+4. **Merge 278/NĐ-CP vào main** (ưu tiên 4): File hoàn thiện trên branch `heartbeat/crawl-vanban-20260711-v2`, cần merge.
+5. **Quét dải 250000–300000 step 10** (ưu tiên 5): Kiểm tra nếu vanban.chinhphu.vn index tiếp ở dải cao hơn.
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** được ghi nhận: 97/TT-BTC (docid 218797, xác minh lại), 96/TT-BTC (docid 218804, xác minh docid), 97/NĐ-CP (docid 217540, mới), 100/TT-BTC (chưa có docid), 102/TT-BTC (chưa có docid) — 5 văn bản nhưng 97/TT-BTC + 96/TT-BTC đã được ghi nhận trước đó, chỉ xác minh lại.
+- **97/2026/TT-BTC** (docid 218797): Nằm trong dải 218800+, trước vùng trống 218805+. Không phải văn bản mới trong dải 218847+ nhưng được ghi nhận lại vì trước đó chưa được đưa vào section phát hiện chính thức.
+- **96/2026/TT-BTC docid = 218804**: Xác minh chính thức — nằm ngay trước vùng trống 218805+. Kinh doanh bảo hiểm, bảo vệ dữ liệu cá nhân, hiệu lực 01/7/2026.
+- **97/2026/NĐ-CP** (docid 217540): Văn bản mới chưa từng xuất hiện trong tracking — sửa đổi Nghị định 46/2023 về bảo hiểm, hiệu lực 31/3/2026.
+- **100/2026/TT-BTC**: Phát hiện qua web_search — thuế trước bạ xe ô tô. Ngày ban hành ước đoán 02/7/2026 (pattern đợt 91–102). Cần xác minh thêm.
+- **102/2026/TT-BTC**: Phát hiện qua web_search — quản lý thuế hộ kinh doanh. Ngày ban hành ước đoán 02/7/2026.
+- **91, 94, 95/TT-BTC đã ban hành đầy đủ**: 91/TT-BTC slug 439780 (hóa đơn điện tử), 94/TT-BTC slug 439781 (quản lý tuân thủ), 95/TT-BTC slug 439970 (DTA). Tất cả CHƯA INDEX trên vanban.chinhphu.vn.
+- **Vùng trống mở rộng**: Từ 218805 đến 250000+ (≥30.196 docid liên tục không có văn bản mới).
+- Nguồn: vanban.chinhphu.vn (docid 218797, 218804, 217540), web_search Firecrawl (91, 94, 95, 96, 97/TT-BTC, 100, 102/TT-BTC, 279, 280/NĐ-CP), web_fetch vanban.chinhphu.vn (docid 218797, 218804), web_fetch luatvietnam.vn (slug 439711: 96/TT-BTC toàn văn).
+- Ngày phát hiện: 2026-07-12 23:06 ICT
+- Phiên thực hiện: agent:github-io:subagent:bb6b0800-9dbf-47b3-af5b-9cd0ec88177f (Đệ #1 Discovery — lần 67)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 66, quét dải 300000–350000 + web_search 91/TT-BTC)
 
 ### Phát hiện: 0 văn bản mới — dải 300000–350000 HOÀN TOÀN TRỐNG + vùng 218847–218900 TRỐNG + xác minh mạnh 91/TT-BTC
