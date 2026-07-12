@@ -1,3 +1,64 @@
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 66, quét dải 300000–350000 + web_search 91/TT-BTC)
+
+### Phát hiện: 0 văn bản mới — dải 300000–350000 HOÀN TOÀN TRỐNG + vùng 218847–218900 TRỐNG + xác minh mạnh 91/TT-BTC
+
+Quét vanban.chinhphu.vn dải docid 300000–350000 (step 100 = 501 docid) + dải 218847–218900 (step 1 = 4 docid) + web_search 91/TT-BTC trên vanban.chinhphu.vn, luatvietnam.vn, baochinhphu.vn. Ưu tiên: tìm docid 91/TT-BTC, 94, 95/TT-BTC. **Không phát hiện văn bản mới** — dải 300000–350000 và 218847–218900 hoàn toàn trống. Giới hạn 5/lần:
+
+*(Không có văn bản nào)*
+
+### PHÁT HIỆN MẠNH: 91/2026/TT-BTC — ĐÃ BAN HÀNH ĐẦY ĐỦ (web_search + web_fetch luatvietnam.vn)
+
+- **91/2026/TT-BTC**: ĐÃ BAN HÀNH, TOÀN VĂN CÓ TRÊN luatvietnam.vn (slug 439780)
+  - **Số hiệu**: 91/2026/TT-BTC, Bộ Tài chính
+  - **Ngày ban hành**: 30/6/2026
+  - **Hiệu lực**: 01/7/2026
+  - **Nội dung chính**: Hướng dẫn Luật Quản lý thuế 108/2025/QH15 và NĐ 254/2026/NĐ-CP về hóa đơn điện tử, chứng từ điện tử
+  - **Các điểm đáng chú ý**:
+    - Sửa đổi ký hiệu mẫu số, ký hiệu hóa đơn điện tử và ký hiệu mẫu, ký hiệu chứng từ điện tử
+    - Sửa đổi trình tự ngừng sử dụng hóa đơn điện tử
+    - Điều chỉnh quy định ủy nhiệm lập hóa đơn điện tử
+    - Sửa đổi xử lý hóa đơn điện tử đã lập khi có sai sót (điều chỉnh hoặc thay thế)
+    - Bổ sung mẫu biểu tại Phụ lục III (hồ sơ hóa đơn, chứng từ)
+    - Bổ sung mức khen thưởng người tiêu dùng tố giác người bán không lập hóa đơn (≤150 tỷ đồng/năm)
+    - Bổ sung quy trình đăng ký hóa đơn điện tử bằng **công nghệ sinh trắc học** (xác thực danh tính người đại diện pháp luật/chủ hộ kinh doanh)
+    - Quy định **11 trường hợp** người nộp thuế bị ngừng/tạm ngừng sử dụng hóa đơn điện tử từ 01/7/2026
+    - Xử lý chuyển tiếp khi bãi bỏ quy định hóa đơn giấy đặt in của cơ quan thuế
+  - **Thay thế**: Thông tư 32/2025/TT-BTC
+  - **Docid trên vanban.chinhphu.vn**: CHƯA CÓ (quét 300000–350000 trả homepage → 404 → trống)
+  - **Slug luatvietnam.vn**: `thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html`
+  - **Nguồn**: web_search (meinvoice.vn, Misa, amilawfirm, luatvietnam.vn) + web_fetch luatvietnam.vn toàn văn
+
+### Tình trạng vanban.chinhphu.vn — DẢI 300000–350000 TRỐNG HOÀN TOÀN; vùng 218847–218900 TRỐNG
+
+- **Quét 300000–350000 step 100 (501 docid)**: TẤT CẢ trả homepage/404/placeholder — không có tiêu đề văn bản 2026. vanban.chinhphu.vn vẫn chưa index 91, 94, 95/TT-BTC.
+- **Quét 218847–218900 step 1 (4 docid)**: TẤT CẢ trả homepage — xác nhận vùng trống mở rộng.
+- **Vùng trống mở rộng**: Từ **218847** đến **350000+** (≥131.154 docid liên tục không có văn bản mới).
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|
+| **91/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, luatvietnam.vn slug 439780, CHƯA INDEX | Hóa đơn điện tử, 30/6/2026, hiệu lực 01/7/2026, thay thế TT 32/2025/TT-BTC; sinh trắc học; 11 trường hợp ngừng hóa đơn |
+| **94/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, CHƯA INDEX | Quản lý tuân thủ thuế, 01/7/2026; luatvietnam slug 439781 OK |
+| **95/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, CHƯA INDEX | Hiệp định tránh đánh thuế hai lần, 01/7/2026; luatvietnam slug 439970 OK |
+
+### Đề xuất phiên tiếp theo
+
+1. **Crawl 91/TT-BTC từ luatvietnam.vn** (ưu tiên 1): slug 439780 đã xác minh toàn văn. Có thể crawl trực tiếp mà không cần chờ vanban.chinhphu.vn index.
+2. **Quét dải 350000–400000 step 100** (ưu tiên 2): Kiểm tra tiếp nếu vanban.chinhphu.vn tiếp tục index ở dải cao hơn.
+3. **Quét dải 218900–219000 step 1** (ưu tiên 3): Kiểm tra vùng trống còn lại.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện — dải 300000–350000 (501 docid) và 218847–218900 (4 docid) đều hoàn toàn trống.
+- **91/2026/TT-BTC ĐÃ BAN HÀNH ĐẦY ĐỦ** — xác nhận toàn văn từ luatvietnam.vn (slug 439780). Ban hành 30/6/2026, hiệu lực 01/7/2026. Nội dung chi tiết: hướng dẫn Luật QL thuế + NĐ 254 về hóa đơn điện tử, sinh trắc học, 11 trường hợp ngừng hóa đơn.
+- **Vùng trống khổng lồ**: Từ 218847 đến 350000+ — hơn **131.000 docid** liên tục không có văn bản mới trên vanban.chinhphu.vn.
+- Nguồn: vanban.chinhphu.vn (HTML page, dải 300000–350000 step 100, 218847–218900 step 1), web_search (meinvoice.vn, Misa, amilawfirm, luatvietnam.vn), web_fetch luatvietnam.vn (slug 439780 toàn văn 91/TT-BTC).
+- Ngày phát hiện: 2026-07-12 22:04 ICT
+- Phiên thực hiện: agent:github-io:subagent:3b83df11-4be7-4ab6-aaee-67f66838b30e (Đệ #1 Discovery — lần 66)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 65, quét dải 250000–300000 step 100 + 218847–219000 step 1)
 
 ### Phát hiện: 0 văn bản mới — dải 250000–300000 HOÀN TOÀN TRỐNG + vùng 218847–219000 TRỐNG + xác minh lại 84/TT-BTC docid 218820

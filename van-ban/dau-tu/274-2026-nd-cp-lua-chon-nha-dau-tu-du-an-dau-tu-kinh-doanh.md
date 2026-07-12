@@ -2537,8 +2537,8 @@ về đầu tư, doanh nghiệp, đất đai, kinh doanh bất động sản và
 ngành, lĩnh vực.
 3. Việc giao đất, cho thuê đất thực hiện theo quy định của pháp luật về đất
 đai, pháp luật về đầu tư.
-## Chương VII
-NỘI DUNG THẢM ĐỊNH VÀ TRÁCH NHIỆM THẢM ĐỊNH,
+## Chương VIII
+NỘI DUNG THẨM ĐỊNH VÀ TRÁCH NHIỆM THẢM ĐỊNH,
 PHÊ DUYỆT TRONG QUÁ TRÌNH LỰA CHỌN NHÀ ĐẦU TƯ
 
 ### Điều 58.Thẫm định hồ sơ mời thầu
