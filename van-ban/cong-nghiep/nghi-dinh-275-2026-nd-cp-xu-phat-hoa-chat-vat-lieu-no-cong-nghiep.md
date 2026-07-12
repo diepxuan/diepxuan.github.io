@@ -66,7 +66,7 @@ trong lĩnh vực hóa chất và vật liệu nổ công nghiệp
 Căn cú Luật Tổ chúc Chính phủ số 63/2025/QH15;
 Căn cú Luật Tổ chúc chính quyền địa phương số 72/2025/QH15,
 
-Căn cứ Luật Xử ÿ vi phạm hành chính số 15/2012/QH13 được sửa đổi,
+Căn cứ Luật Xử lý vi phạm hành chính số 15/2012/QH13 được sửa đổi,
 bổ sung bởi Luật số 67/2020/QH14 và Luật số 88/2025/QH15;
 
 Căn cứ Luật Hóa chất số 69/2025/QH15;
