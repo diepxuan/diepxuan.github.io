@@ -4397,7 +4397,7 @@ Quét vanban.chinhphu.vn dải docid 219950–225000 (HTML page method, step 5 =
 | **277/2026/NĐ-CP** | ⚠️ CÓ THỂ KHÔNG TỒN TẠI — 277/2025/NĐ-CP (docid 215677, 20/10/2025) đã tồn tại | ⭐⭐⭐ | Chưa index — cần xác minh lại |
 | **279/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
 | **280/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
-| **274/2026/NĐ-CP** | ✅ **ĐÃ INDEX — docid 218807** — Luật Đấu thầu, lựa chọn nhà đầu tư, 07/7/2026, hiệu lực 21/8/2026 | ⭐⭐ | **Đã index ✅** |
+| **274/2026/NĐ-CP** | ✅ **HOÀN THIỆN — docid 218807, file 3,819 dòng** — Luật Đấu thầu, lựa chọn nhà đầu tư, 07/7/2026, hiệu lực 21/8/2026 | ⭐⭐ | **Hoàn thiện** ✅ |
 | **1248/2026/QĐ-TTg** | Quyết định mới của Thủ tướng | ⭐⭐ | Chưa index |
 | **88–100/2026/TT-BTC** | Thông tư mới Bộ Tài chính | ⭐ | Chưa index |
 
