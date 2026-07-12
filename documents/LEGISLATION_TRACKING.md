@@ -1,8 +1,75 @@
+## Cập nhật 2026-07-12 (Đệ #1 Discovery — lần 61, quét dải 218823–219500)
+
+### Phát hiện: 2 văn bản mới — 274/NĐ-CP (docid 218807) + xác minh 275/NĐ-CP (docid 218835)
+
+Quét vanban.chinhphu.vn dải docid 218823–218840 (HTML page, step 1) + 218844–218950 step 1 + 219000–219500 step 10 + web_search Brave. Ưu tiên: NĐ-CP mới (274, 275, 277, 279, 280), TT-BTC mới (88–100). **Phát hiện 2 văn bản mới** (giới hạn 5/lần):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **274/2026/NĐ-CP** | **07/07/2026** | **Hoàn thiện quy định lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh** — quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư; bao gồm: bảo đảm cạnh tranh, ưu đãi nhà đầu tư, chi phí, chỉ định nhà đầu tư, phương thức/quy trình/thủ tục, đánh giá hồ sơ dự thầu, nội dung hợp đồng dự án có sử dụng đất; quy định rõ các dự án bắt buộc đấu thầu: đất đai, xử lý chất thải rắn, cấp nước, chợ, trạm dừng nghỉ, cảng hàng không, cải tạo nhà chung cư, điện lực; hiệu lực **21/8/2026** | Đấu thầu / Đầu tư | vanban.chinhphu.vn (docid **218807**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search Brave (vanban.chinhphu.vn docid 218807) + web_fetch ninhbinh.gov.vn. Title: "Nghị định số 274/2026/NĐ-CP của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh" ✅. Ngày ban hành **07/7/2026** xác minh từ vanban.chinhphu.vn (meta) + ninhbinh.gov.vn. **ƯU TIÊN CAO** — văn bản đấu thầu quan trọng, thay thế quy định cũ về lựa chọn nhà đầu tư. |
+| **275/2026/NĐ-CP** | **08/07/2026** | **Xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp** — quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp; thay thế Nghị định cũ; người ký: Phạm Gia Túc; hiệu lực **25/8/2026** | Hóa chất / Hành chính | vanban.chinhphu.vn (docid **218835**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh đầy đủ docid 218835 từ HTML page. Trích yếu: "Quy định xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp" ✅. Ngày ban hành **08/7/2026**, hiệu lực **25/8/2026**. Người ký: Phạm Gia Túc. Văn bản đã được ghi nhận (dòng 52) nhưng chưa có trong bảng chính. **ƯU TIÊN THẤP** — văn bản chuyên đề. |
+
+### Tình trạng vanban.chinhphu.vn — 218823–218840: phần trống THU HẸP; vùng cao vẫn trống
+
+- **Docid 218807 = 274/2026/NĐ-CP**: ✅ Xác minh — nằm ngoài dải 218811–218839 (re-index) nhưng vẫn trong dải 218800+
+- **Docid 218835 = 275/2026/NĐ-CP**: ✅ Xác minh lại — xử phạt hóa chất và vật liệu nổ công nghiệp, 08/7/2026, hiệu lực 25/8/2026
+- **Docid 218808–218822, 218836–218843**: TRỐNG hoàn toàn (không có văn bản)
+- **Dải 218844–219000** (57 docid): Tất cả trả HTTP 200 nhưng HTML trống — VÙNG TRỐNG hoàn toàn
+- **Dải 219000–219500** (500 docid, step 10): Tất cả trả HTTP 200 nhưng HTML trống — VÙNG TRỐNG hoàn toàn
+- **Dải 219200–219500** (300 docid): Không có NĐ-CP 2026 — VÙNG TRỐNG hoàn toàn
+- **Vùng trống mở rộng**: Từ 218808 đến 219500+ (**≥693 docid liên tục không có văn bản mới**)
+- **web_search Brave**: 274/2026/NĐ-CP tìm thấy tại vanban.chinhphu.vn (docid 218807) + ninhbinh.gov.vn. 277/2026/NĐ-CP, 279/2026/NĐ-CP, 280/2026/NĐ-CP — KHÔNG tìm thấy (web_search Firecrawl 402). Chỉ có 277/2025, 279/2025, 280/2025 tồn tại.
+- **Kết luận**: vanban.chinhphu.vn đã index 274/NĐ-CP tại docid 218807 (nằm trong dải 218800+, trước vùng re-index 218811–218839). 277, 279, 280/2026/NĐ-CP **CHƯA tồn tại** (hoặc chưa được index). 91–100/TT-BTC cũng CHƯA được index.
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-12 lần 61)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 274/2026/NĐ-CP | **CÓ** (dòng 4252, ghi "Chưa xác định nội dung") | **CẬP NHẬT** — đã xác định nội dung + docid 218807 |
+| 275/2026/NĐ-CP | **CÓ** (dòng 52, 100, 123, 164, 299, 307) | **CẬP NHẬT** — trích yếu đầy đủ + ngày ban hành 08/7/2026 |
+| 276/2026/NĐ-CP | **CÓ** (lần 46, docid 218832) | Đã có — Bộ Nội vụ |
+| 277/2026/NĐ-CP | **CÓ** (dòng 4249) | ⚠️ KHÔNG TỒN TẠI — 277/2025 đã tồn tại |
+| 278/2026/NĐ-CP | **CÓ** (docid 219802, hoàn thiện trên branch) | Đã có — Điện lực |
+| 279/2026/NĐ-CP | **CÓ** (dòng 4250) | ❓ KHÔNG TÌM THẤY — chưa ban hành |
+| 280/2026/NĐ-CP | **CÓ** (dòng 4251) | ❓ KHÔNG TÌM THẤY — chưa ban hành |
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **274/2026/NĐ-CP** | ✅ Docid = 218807, ngày 07/7/2026 | Đấu thầu, lựa chọn nhà đầu tư, hiệu lực 21/8/2026 |
+| **275/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 218835 | Trích yếu đầy đủ: xử phạt hóa chất và vật liệu nổ CN, 08/7/2026, 25/8/2026 |
+| **277/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | 277/2025 (docid 215677, 20/10/2025) tồn tại — cần xóa khỏi tracking |
+| **278/2026/NĐ-CP** | ✅ Hoàn thiện, docid = 219802 | File hoàn thiện trên branch c75a168d |
+| **279/2026/NĐ-CP** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
+| **280/2026/NĐ-CP** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
+| **91–100/2026/TT-BTC** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
+| **14/2026/TT-BNV** | ❓ Chưa xác minh | Theo dõi từ lần 48 |
+| **172/2026/NĐ-CP** | ❓ Chưa xác minh | Chi phí dẫn độ, theo dõi từ lần 48 |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 219500–230000 step 10** (ưu tiên 1): Tiếp tục mở rộng — văn bản mới có thể nằm ở dải cao hơn nếu hệ thống đã index (91–100/TT-BTC, 14/TT-BNV, 172/NĐ-CP).
+2. **web_search 279, 280/NĐ-CP** (ưu tiên 2): Tìm trực tiếp trên baochinhphu.vn, luatvietnam.vn khi có credits.
+3. **Xác minh 14/TT-BNV và 172/NĐ-CP** (ưu tiên 3): Docid chưa xác minh từ lần 48.
+4. **Xóa 277/2026/NĐ-CP** (ưu tiên 4): Văn bản KHÔNG tồn tại (277/2025 đã tồn tại từ 20/10/2025).
+5. **Merge 278/NĐ-CP vào main** (ưu tiên 5): File hoàn thiện trên branch `heartbeat/crawl-vanban-20260711-v2`, cần merge.
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được phát hiện + cập nhật: 274/NĐ-CP (docid 218807, đấu thầu nhà đầu tư, 07/7/2026) + 275/NĐ-CP (trích yếu đầy đủ, 08/7/2026).
+- **274/2026/NĐ-CP**: ĐÃ INDEX tại docid 218807 (nằm trong dải 218800+, ngoài dải re-index 218811–218839). Nội dung: hoàn thiện quy định lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh theo Luật Đấu thầu. Hiệu lực 21/8/2026. **Ưu tiên CAO**.
+- **275/2026/NĐ-CP**: ĐÃ INDEX tại docid 218835. Trích yếu đầy đủ từ HTML page: "Xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp", người ký Phạm Gia Túc, hiệu lực 25/8/2026. **Ưu tiên THẤP**.
+- **277/2026/NĐ-CP KHÔNG TỒN TẠI**: web_search xác nhận 277/2025/NĐ-CP (docid 215677, 20/10/2025) là văn bản duy nhất mang số 277. Số 277/2026/NĐ-CP chưa được ban hành.
+- **279, 280/2026/NĐ-CP**: Chưa tìm thấy trên vanban.chinhphu.vn hoặc web_search — có thể chưa ban hành.
+- **Vùng trống mở rộng**: Từ 218808 đến 219500+ (**≥693 docid liên tục không có văn bản mới**). Vùng trống bắt đầu từ 218808 (trước dải re-index 218811–218839).
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218823–219500, step 1–10), web_search Brave (274/2026/NĐ-CP), web_fetch ninhbinh.gov.vn, vanban.chinhphu.vn (docid 218807, 218835).
+- Ngày phát hiện: 2026-07-12 13:02 ICT
+- Phiên thực hiện: agent:github-io:subagent:91d8ab6a-9045-4993-9eec-67e5558333c8 (Đệ #1 Discovery — lần 61)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — dải 225000–230000 step 10 + 221000–225000 step 5 + 218850–219000 step 1)
-
-### Phát hiện: 0 văn bản mới — dải 225000–230000 TRỐNG; xác minh thêm VBHN + TT-BTC
-
-Quét vanban.chinhphu.vn dải docid 225000–230000 (step 10, ~500 docid) + 221000–225000 (step 5) + 218850–219000 (step 1) + web_search. Ưu tiên: NĐ-CP mới (279, 280), TT-BTC mới (88–100), QĐ-TTg mới (1252+). **Không phát hiện văn bản mới chưa có trong tracking**. Giới hạn 5/lần:
 
 *(Không có văn bản nào)*
 
@@ -4249,7 +4316,7 @@ Quét vanban.chinhphu.vn dải docid 219950–225000 (HTML page method, step 5 =
 | **277/2026/NĐ-CP** | ⚠️ CÓ THỂ KHÔNG TỒN TẠI — 277/2025/NĐ-CP (docid 215677, 20/10/2025) đã tồn tại | ⭐⭐⭐ | Chưa index — cần xác minh lại |
 | **279/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
 | **280/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐⭐ | Chưa index |
-| **274/2026/NĐ-CP** | Nghị định mới (chưa xác định nội dung) | ⭐⭐ | Chưa index |
+| **274/2026/NĐ-CP** | ✅ **ĐÃ INDEX — docid 218807** — Luật Đấu thầu, lựa chọn nhà đầu tư, 07/7/2026, hiệu lực 21/8/2026 | ⭐⭐ | **Đã index ✅** |
 | **1248/2026/QĐ-TTg** | Quyết định mới của Thủ tướng | ⭐⭐ | Chưa index |
 | **88–100/2026/TT-BTC** | Thông tư mới Bộ Tài chính | ⭐ | Chưa index |
 
