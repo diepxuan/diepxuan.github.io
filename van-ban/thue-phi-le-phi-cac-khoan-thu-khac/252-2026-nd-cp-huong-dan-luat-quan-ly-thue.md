@@ -323,7 +323,7 @@ quan, Chỉ cục Điều tra chống buôn lậu và cơ quan hải quan khác 
 quan được giao chức năng quản lý thuế; Chỉ cục Hải quan khu vực và cơ quan
 hải quan thuộc Chỉ cục Hải quan khu vực; Hải quan cửa khâu, ngoài cửa khẩu.
 
-3. Công chức quán lý thuế quy định tại khoản 3 Điều.2 Luật Quản lý thuế.
+3. Công chức quán lý thuế quy định tại khoản 3 Điều 2 Luật Quản lý thuế.
 
 4. Cơ quan nhà nước, tổ chức, cá nhân khác có liên quan quy định tại
 khoản 4 Điều 2 Luật Quản lý thuế.
@@ -3248,7 +3248,7 @@ chứng nhận đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký 
 đăng ký hộ kinh doanh cho cá nhân, cá nhân kinh doanh, chủ hộ gia đình, chủ
 hộ kinh doanh, chủ doanh nghiệp tư nhân, chủ sở hữu công ty trách nhiệm hữu
 hạn một thành viên là cá nhân đã được xóa tiền thuế nợ theo quy định tại điểm
-© khoản I Điều 21 Luật Quản lý thuế khi chưa hoàn trả vào ngân sách nhà nước
+khoản I Điều 21 Luật Quản lý thuế khi chưa hoàn trả vào ngân sách nhà nước
 số tiễn thuế nợ đã được xóa.
 
 7. Bộ trưởng Bộ Tài chính hướng dẫn trình tự, thủ tục, hồ sơ phục hồi tiền
@@ -3836,7 +3836,7 @@ trừ theo tháng.
 
 Đối với giao dịch bị hủy hoặc trả lại hàng thì chủ quản nền tảng thương
 mại điện tử thực hiện bù trừ số thuế đã khâu trừ, nộp thay của giao dịch bị hủy
-§I
+
 
 hoặc trả lại hàng với số thuế phải khấu trừ, nộp thay của các giao dịch bán hàng
 hóa, cung cập địch vụ.
@@ -5414,8 +5414,8 @@ tiền chậm nộp theo quy định tại Điều 26 Nghị định này;
 b) Khoản nợ của người nộp thuế được nộp dần tiền thuế nợ theo quy định
 tại khoản 6 Điều 48 Luật Quản lý thuế. Bộ trưởng Bộ Tài chính quy định số lần
 
-nộp dẫn và hồ sơ, thủ tục về nộp dần tiền thuế nợ. §
-ị
+nộp dẫn và hồ sơ, thủ tục về nộp dần tiền thuế nợ.
+
 
 3. Thủ trưởng cơ quan quản lý thuế căn cứ tình hình thực tế, nguyên tắc
 quản lý rủi ro dựa trên mức độ rủi ro, quản lý tuân thủ theo mức độ tuân thủ đê
