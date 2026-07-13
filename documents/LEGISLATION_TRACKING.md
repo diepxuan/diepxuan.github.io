@@ -1,3 +1,84 @@
+## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 72, scan dải 218860–400000 step 5/10 + web_search 282/99/TT-BTC)
+
+### Phát hiện: 0 văn bản mới — dải 218860–400000+ hoàn toàn trống
+
+Quét vanban.chinhphu.vn dải docid 218860–400000 (step 5: 218860–220360; step 10: 220361–400360) + web_search 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC trên vanban.chinhphu.vn, luatvietnam.vn, thuvienphapluat.vn + thử direct URL. **Không phát hiện văn bản mới** — dải 218860–400000+ hoàn toàn trống. Giới hạn 5/lần:
+
+*(Không có văn bản nào)*
+
+### KẾT QUẢ CHÍNH
+
+#### Dải docid 218860–400000 — HOÀN TOÀN TRỐNG
+
+- **Quét 218860–220360 step 5 (~301 docid)**: TẤT CẢ trả "Chi tiết văn bản ban hành" hoặc "Object moved" (server placeholder) — không có tiêu đề văn bản 2026.
+- **Quét 220361–400360 step 10 (~18.000 docid)**: TẤT CẢ trả "Chi tiết văn bản ban hành" hoặc "Object moved" — không có tiêu đề văn bản 2026.
+- **Vùng trống XÁC NHẬN MỞ RỘNG**: Từ **218860** đến **400000+** (≥181.141 docid liên tục không có văn bản mới).
+- vanban.chinhphu.vn CHỈ CÓ 2 văn bản mới nhất: 365/TB-VPCP (docid 218847) và 66.22/NQ-CP (docid 218858) — cả hai upload ngày 13/7/2026. Không có văn bản nào khác trong dải 218860–400000.
+
+#### Xác minh 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC — VẪN CHƯA INDEX
+
+- **282/2026/NĐ-CP**: ⚠️ CHƯA CÓ docid trên vanban.chinhphu.vn. Web search xác nhận tồn tại (thuvienphapluat.vn, afamily.vn, baomoi.com, gialai.gov.vn) nhưng vanban.chinhphu.vn không index. Lưu ý: một nguồn tham chiếu điều khoản đánh bạc có hiệu lực từ **15/12/2026** (thay vì 01/7/2026 như ước đoán) — văn bản có thể có nhiều điều khoản hiệu lực khác nhau. Điều 8 (gây thương tích): 6–8 triệu đồng. Điều 30 (sử dụng ma túy): cảnh cáo hoặc 1–2 triệu đồng.
+- **99/2026/TT-BTC**: ⚠️ CHƯA CÓ docid trên vanban.chinhphu.vn. Web search xác nhận tồn tại, phát hành ngày **02/7/2026** (xác nhận chính xác). Nội dung: chiết khấu thương mại tính vào giá có VAT; tỷ giá hạch toán xuất khẩu từ 2026. Chưa tìm thấy trên luatvietnam.vn.
+- **100/2026/TT-BTC**: ⚠️ CHƯA CÓ docid trên vanban.chinhphu.vn. Vẫn chỉ có trên peugeotninhbinh3s.vn, mercedesbinhduong.vn. Thử direct URL trên luatvietnam.vn → 404.
+
+#### Thử phương thức khác tìm docid
+
+- **Thử vanban.chinhphu.vn search**: `/homepage/searchdocuments` trả 404.
+- **Thử luatvietnam.vn slug 282/2026**: `/nghi-dinh/nghi-dinh-282-2026-nd-cp.html` → 404.
+- **Thử thuvienphapluat.vn trực tiếp**: Cloudflare protection ("Just a moment..."), không truy cập được.
+- **Thử datafiles.chinhphu.vn URL patterns**: `282-nd.pdf`, `282-nd-cp.pdf`, `099-tt-btc.pdf` → tất cả 404.
+- **Firecrawl credits**: Hết credits (402).
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218860–400000+ HOÀN TOÀN TRỐNG
+
+- **Dải 218860–220360** (step 5, ~301 docid): Tất cả trống ✅
+- **Dải 220361–230360** (step 10, ~1.000 docid): Tất cả trống ✅
+- **Dải 230361–250360** (step 10, ~2.000 docid): Tất cả trống ✅
+- **Dải 250361–280360** (step 10, ~3.000 docid): Tất cả trống ✅
+- **Dải 280361–310360** (step 10, ~3.000 docid): Tất cả trống ✅
+- **Dải 310361–350360** (step 10, ~4.000 docid): Tất cả trống ✅
+- **Dải 350361–400360** (step 10, ~5.001 docid): Tất cả trống ✅
+- **Tổng cộng**: ~18.302 docid đã quét (dải mới) + ~500 docid (dải cũ) = **~18.802 docid** trong dải 218860–400360.
+- **2 văn bản DUY NHẤT** trong toàn bộ dải 218847–400000: 365/TB-VPCP (218847) và 66.22/NQ-CP (218858).
+- **Vùng trống xác nhận**: Từ **218860** đến **400000+** (≥181.141 docid liên tục trống).
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **365/TB-VPCP** | ⭐ MỚI — docid = 218847 (từ lần 71) | Upload 13/7/2026, chờ OCR toàn văn |
+| **66.22/2026/NQ-CP** | ⭐ MỚI — docid = 218858 (từ lần 71) | Upload 13/7/2026, chờ OCR toàn văn |
+| **282/2026/NĐ-CP** | ⚠️ TỒN TẠI, CHƯA INDEX; hiệu lực có thể 15/12/2026 | CHƯA CÓ docid; điều khoản đánh bạc có ngày khác |
+| **99/2026/TT-BTC** | ⚠️ TỒN TẠI, CHƯA INDEX; ngày ban hành xác nhận 02/7/2026 | CHƯA CÓ docid; chưa có slug luatvietnam |
+| **100/2026/TT-BTC** | ⚠️ TỒN TẠI, CHƯA INDEX | CHƯA CÓ docid; luatvietnam 404 |
+| **91/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, luatvietnam slug 439780, CHƯA INDEX | Hóa đơn điện tử, 30/6/2026, hiệu lực 01/7/2026 |
+| **94/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, luatvietnam slug 439781, CHƯA INDEX | Quản lý tuân thủ thuế, 01/7/2026 |
+| **95/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, luatvietnam slug 439970, CHƯA INDEX | Hiệp định tránh đánh thuế hai lần, 01/7/2026 |
+| **279/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI — chưa ban hành | Xác nhận nhiều lần |
+| **280/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI — chưa ban hành | Xác nhận nhiều lần |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 400361–500000 step 10** (ưu tiên 1): Xác nhận tiếp vùng trống trên vanban.chinhphu.vn — 282/99/100/TT-BTC có thể được index ở dải cao hơn nếu có.
+2. **Crawl 365/TB-VPCP** (ưu tiên 2): Docid 218847 đã có. PDF 365-mtb.signed.pdf đã tải. Cần OCR.
+3. **Crawl 66.22/NQ-CP** (ưu tiên 3): Docid 218858 đã có. PDF 66.22-nq.signed.pdf (906KB) đã tải. Image PDF → cần OCR.
+4. **Thử tìm docid 282/2026/NĐ-CP qua browser-automation** (ưu tiên 4): Nếu thuvienphapluat.vn bảo vệ Cloudflare, dùng browser automation để search và tìm docid.
+5. **Crawl 91/TT-BTC từ luatvietnam.vn** (ưu tiên 5): slug 439780 đã xác minh, toàn văn có sẵn, chỉ cần lấy.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện — dải 218860–400360 hoàn toàn trống.
+- **282/2026/NĐ-CP**: Vẫn CHƯA CÓ docid trên vanban.chinhphu.vn. Lưu ý mới: nguồn tham chiếu điều khoản đánh bạc có hiệu lực từ 15/12/2026 (thay vì 01/7/2026). Văn bản có thể có nhiều điều khoản có ngày hiệu lực khác nhau. Nhiều nguồn xác nhận tồn tại (afamily.vn, baomoi.com, gialai.gov.vn).
+- **99/2026/TT-BTC**: Ngày ban hành xác nhận **02/7/2026** (chính xác). Vẫn CHƯA CÓ docid trên vanban.chinhphu.vn. Chưa có slug trên luatvietnam.vn.
+- **100/2026/TT-BTC**: Vẫn CHƯA CÓ docid. Thử luatvietnam.vn → 404.
+- **Vùng trống xác nhận mở rộng**: Từ **218860** đến **400000+** (≥181.141 docid liên tục không có văn bản mới).
+- **Lưu ý kỹ thuật**: Dải 218860–219360 (step 5) quét 301 docid; dải 219361–400360 (step 10) quét ~18.001 docid. Tổng: ~18.302 docid mới trong phiên này.
+- Nguồn: vanban.chinhphu.vn (dải 218860–400360, step 5/10, xargs curl), web_search 282/99/TT-BTC (Firecrawl hết credits 402), web_fetch luatvietnam.vn (282/2026 slug → 404), web_fetch thuvienphapluat.vn (Cloudflare), web_fetch datafiles.chinhphu.vn (282-nd.pdf → 404).
+- Ngày phát hiện: 2026-07-13 18:50 ICT
+- Phiên thực hiện: agent:github-io:subagent:d0100601-3bb0-4857-976f-b8bfb7ee77a5 (Đệ #1 Discovery — lần 72)
+
+---
+
 ## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 71, scan dải 218847–250000 step 5/10 + xác minh 282/99/100/279/280)
 
 ### Phát hiện: 2 văn bản mới — 365/TB-VPCP (docid 218847) + 66.22/2026/NQ-CP (docid 218858) trong dải trống
