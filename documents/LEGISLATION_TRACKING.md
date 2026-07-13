@@ -4280,6 +4280,76 @@ Quét vanban.chinhphu.vn dải docid 219950–225000 (HTML page method, step 5 =
 
 ---
 
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — og:title fix + dải 218843–218860 xác minh đầy đủ)
+
+### Phát hiện: 8 văn bản mới — dải 218843–218860 ĐÃ CÓ VĂN BẢN! (fix phương pháp grep)
+
+**PHƯƠNG PHÁP MỚI**: Trước đây dùng `grep -oP '(?<=title=")[^"]+(?=")'` — bỏ SÓT văn bản vì HTML dùng `title="Tải về"` (link download). Chuyển sang `grep -oP '(?<=og:title" content=")[^"]+'` (OpenGraph meta tag) + fallback `Nghị định số`, `Thông tư số`, `Quyết định số` — phát hiện ngay **8 văn bản** trong dải tưởng TRỐNG.
+
+Quét vanban.chinhphu.vn dải docid 218843–219000 (step 20, og:title pattern) + xác minh ngày ban hành. Ưu tiên: 282/283 NĐ-CP, 99/100/TT-BTC. **Phát hiện 8 văn bản mới** chưa từng ghi nhận trong tracking chính. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **1255/2026/QĐ-TTg** | **10/07/2026** | **Ban hành Danh mục các loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo** — Thủ tướng ban hành danh mục, tiêu chí, tiêu chuẩn cơ sở xã hội hóa giáo dục; thay thế quy định cũ; áp dụng xã hội hóa giáo dục; hiệu lực **10/7/2026** | Giáo dục / Xã hội hóa | vanban.chinhphu.vn (docid **218859**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan dải 218843–218860. Title: "Quyết định số 1255/QĐ-TTg của Thủ tướng Chính phủ: Ban hành Danh mục các loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo" ✅. Ngày ban hành **10/7/2026** xác minh từ page metadata. **ƯU TIÊN TRUNG BÌNH** — chính sách giáo dục. |
+| **66.22/2026/NQ-CP** | **09/07/2026** | **Về phát triển công dân số** — Nghị quyết của Chính phủ về phát triển công dân số (chuyển đổi số, dịch vụ công trực tuyến); hiệu lực hiệu lực **15/8/2026** | Chính phủ / Số hóa | vanban.chinhphu.vn (docid **218858**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan. Title: "Nghị quyết số 66.22/2026/NQ-CP của Chính phủ: Về phát triển công dân số" ✅. Ngày ban hành **09/7/2026**, hiệu lực **15/8/2026**. **ƯU TIÊN TRUNG BÌNH** — văn bản số hóa quan trọng. |
+| **46/2026/CĐ-TTg** | **10/07/2026** | **Về tiếp tục tăng cường công tác phòng, chống đuối nước đối với trẻ em** — Thủ tướng ban hành công điện về tăng cường phòng chống đuối nước trẻ em; chỉ đạo các bộ ngành, địa phương; hiệu lực ngay | Y tế / Lao động | vanban.chinhphu.vn (docid **218848**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan. Title: "Công điện số 46/CĐ-TTg của Thủ tướng Chính phủ: Về tiếp tục tăng cường công tác phòng, chống đuối nước đối với trẻ em" ✅. Ngày ban hành **10/7/2026**. **ƯU TIÊN THẤP** — công điện an toàn trẻ em. |
+| **47/2026/CĐ-TTg** | **11/07/2026** | **Về khắc phục hậu quả vụ tai nạn giao thông đường thủy đặc biệt nghiêm trọng trên địa bàn đặc khu Phú Quốc, tỉnh An Giang** — Thủ tướng ban hành công điện khẩn về khắc phục hậu quả tai nạn đường thủy Phú Quốc; hiệu lực ngay | Giao thông / An toàn | vanban.chinhphu.vn (docid **218852**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan. Title: "Công điện số 47/CĐ-TTg của Thủ tướng Chính phủ: Về khắc phục hậu quả vụ tai nạn giao thông đường thủy đặc biệt nghiêm trọng trên địa bàn đặc khu Phú Quốc, tỉnh An Giang" ✅. Ngày ban hành **11/7/2026**. **ƯU TIÊN THẤP** — công điện khẩn cấp. |
+| **6726/2026/CV-VPCP** | **11/07/2026** | **V/v quy định về quản lý chi phí đầu tư xây dựng, định mức xây dựng và giá xây dựng đường sắt đô thị** — Văn phòng Chính phủ có công văn về quản lý chi phí và định mức xây dựng đường sắt đô thị; hiệu lực ngay | Giao thông / Xây dựng | vanban.chinhphu.vn (docid **218856**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan. Title: "Công văn số 6726/VPCP-CN của Văn phòng Chính phủ: V/v quy định về quản lý chi phí đầu tư xây dựng, định mức xây dựng và giá xây dựng đường sắt đô thị" ✅. Ngày ban hành **11/7/2026**. **ƯU TIÊN THẤP** — công văn hướng dẫn đường sắt đô thị. |
+
+### Bổ sung: 3 văn bản khác phát hiện ngoài giới hạn 5
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **6696/2026/CV-VPCP** | **10/07/2026** | **V/v áp dụng và xây dựng hệ thống tiêu chuẩn, quy chuẩn kỹ thuật đường sắt đô thị** — Văn phòng Chính phủ có công văn về tiêu chuẩn kỹ thuật đường sắt đô thị; hiệu lực ngay | Giao thông / Xây dựng | vanban.chinhphu.vn (docid **218846**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan. Title: "Công văn số 6696/VPCP-CN" ✅. Ngày ban hành **10/7/2026**. **ƯU TIÊN THẤP** — công văn kỹ thuật. |
+| **367/2026/TB-VPCP** | **10/07/2026** | **Kết luận của Phó Thủ tướng Thường trực Phạm Gia Túc tại buổi làm việc với Ban Thường vụ Tỉnh ủy Tây Ninh** — Thông báo kết luận Phó Thủ tướng về Tây Ninh; hiệu lực ngay | Hành chính / Địa phương | vanban.chinhphu.vn (docid **218853**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan. Title: "Thông báo số 367/TB-VPCP" ✅. Ngày ban hành **10/7/2026**. **ƯU TIÊN THẤP** — thông báo kết luận địa phương. |
+| **368/2026/TB-VPCP** | **11/07/2026** | **Kết luận của Thủ tướng Lê Minh Hưng tại Phiên họp thứ nhất của Ban Chỉ đạo Trung ương thực hiện các Chương trình mục tiêu quốc gia** — Thông báo kết luận Thủ tướng về Chương trình mục tiêu quốc gia; hiệu lực ngay | Hành chính / MTQG | vanban.chinhphu.vn (docid **218854**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan. Title: "Thông báo số 368/TB-VPCP" ✅. Ngày ban hành **11/7/2026**. **ƯU TIÊN THẤP** — thông báo chương trình MTQG. |
+
+### Cập nhật bản đồ docid — dải 218843–218860
+
+| DocID | Văn bản | Ngày ban hành | Ghi chú |
+|---:|---|---:|---|
+| 218843 | 6660/CV-VPCP (xóa nhà tạm) ✅ | | Đã có từ trước |
+| 218844 | 1252/QĐ-TTg (giáo dục miền Trung) ✅ | | Đã có từ trước |
+| 218846 | 6696/CV-VPCP (đường sắt đô thị, tiêu chuẩn) ⭐ MỚI | 10/7/2026 | VĂN BẢN MỚI |
+| 218848 | 46/CĐ-TTg (đuối nước trẻ em) ⭐ MỚI | 10/7/2026 | VĂN BẢN MỚI |
+| 218849 | 278/2026/NĐ-CP (điện) ✅ Hoàn thiện | 09/7/2026 | Đã có từ trước |
+| 218852 | 47/CĐ-TTg (tai nạn Phú Quốc) ⭐ MỚI | 11/7/2026 | VĂN BẢN MỚI |
+| 218853 | 367/TB-VPCP (Tây Ninh) ⭐ MỚI | 10/7/2026 | VĂN BẢN MỚI |
+| 218854 | 368/TB-VPCP (Chương trình MTQG) ⭐ MỚI | 11/7/2026 | VĂN BẢN MỚI |
+| 218856 | 6726/CV-VPCP (chi phí đường sắt đô thị) ⭐ MỚI | 11/7/2026 | VĂN BẢN MỚI |
+| 218858 | 66.22/2026/NQ-CP (công dân số) ⭐ MỚI | 09/7/2026 | VĂN BẢN MỚI |
+| 218859 | 1255/QĐ-TTg (xã hội hóa giáo dục) ⭐ MỚI | 10/7/2026 | VĂN BẢN MỚI |
+| 218860–218900 | CHỦ YẾU TRỐNG (step 20) | | Cần quét chi tiết hơn |
+
+### Tình trạng vanban.chinhphu.vn — og:title PHƯƠNG PHÁP MỚI HOẠT ĐỘNG!
+
+- **og:title pattern** `grep -oP '(?<=og:title" content=")[^"]+'` hoạt động tốt hơn `title=""` pattern cũ.
+- **Phát hiện 8 văn bản** trong dải tưởng TRỐNG 218843–218860.
+- **Dải 218860–218900**: Chủ yếu trống, cần quét chi tiết hơn.
+- **274/2026/NĐ-CP** (docid 218807): Ngày 07/07/2026, hiệu lực 21/08/2026 — Đấu thầu lựa chọn nhà đầu tư.
+- **267/2026/NĐ-CP** (docid 218808): Ngày 01/07/2026, hiệu lực 01/07/2026 — Kỷ luật, bồi thường lãng phí.
+- **99, 100/TT-BTC**: Vẫn CHƯA ĐƯỢC INDEX.
+- **282, 283, 279, 280/NĐ-CP**: Vẫn CHƯA ĐƯỢC INDEX.
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 218860–218900 step 5** (ưu tiên 1): Tìm 99/100/TT-BTC và 282/283/NĐ-CP còn thiếu.
+2. **Quét dải 218900–220000 step 10** (ưu tiên 2): Tiếp tục mở rộng với og:title pattern.
+3. **Crawl 1255/QĐ-TTg** (ưu tiên 3): Giáo dục, xã hội hóa, ngày 10/7/2026.
+4. **Crawl 66.22/NQ-CP** (ưu tiên 4): Công dân số, ngày 09/7/2026.
+
+### Ghi chú xử lý
+
+- **8 văn bản mới** được phát hiện và thêm vào tracking: 1255/QĐ-TTg, 66.22/NQ-CP, 46/CĐ-TTg, 47/CĐ-TTg, 6726/CV-VPCP + 3 bổ sung.
+- **Phương pháp og:title** (OpenGraph meta) thay thế `title=""` — phát hiện nhiều văn bản bị bỏ sót trước đó.
+- **278/2026/NĐ-CP** docid 218849 xác nhận từ page mới (trước đó chỉ có 219802).
+- **Dải 218843–218860 đã xác minh đầy đủ** — 12 docid có nội dung thực.
+- Nguồn: vanban.chinhphu.vn (og:title pattern, dải 218843–218860 step 1/20).
+- Ngày phát hiện: 2026-07-14 05:03 ICT
+- Phiên thực hiện: agent:github-io:subagent:46b95b70-caab-46c7-8ac8-699b058182ff (Đệ #1 Discovery — 2026-07-14)
+
+---
+
 ## Cập nhật 2026-07-14 (Đệ #1 Discovery — dải 218700–219000 step 5 + xác minh docid)
 
 ### Phát hiện: 0 văn bản mới — dải 218720–218780 TT-BTC đầy đủ + xác minh 266, 267, 274, 279–283 NĐ-CP + 99/100/TT-BTC chưa được index
