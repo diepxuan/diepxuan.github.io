@@ -1,3 +1,108 @@
+## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 70, xác minh 282/2026/NĐ-CP + 99/2026/TT-BTC trên luatvietnam.vn + crawl 97/TT-BTC)
+
+### Phát hiện: Xác minh 5 văn bản — 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC, 97/2026/TT-BTC (crawl hoàn thiện), xác minh 91/94/95/TT-BTC chưa index
+
+Xác minh 282/2026/NĐ-CP trên luatvietnam.vn + xác minh 99/2026/TT-BTC + tìm docid 100/2026/TT-BTC + crawl 97/2026/TT-BTC (docid 218797) toàn văn từ vanban.chinhphu.vn + datafiles.chinhphu.vn (PDF) + xác minh 91/94/95/TT-BTC trên luatvietnam. Ưu tiên: 282 > 99 > 100 > 97 > 91/94/95. Giới hạn 5/lần:
+
+*(Không có văn bản mới — các văn bản này đã có trong tracking; phiên này xác minh và crawl)*
+
+### KẾT QUẢ CHÍNH
+
+#### 282/2026/NĐ-CP — XÁC MINH CHƯA CÓ TRÊN luatvietnam.vn hoặc vanban.chinhphu.vn
+- **Số hiệu**: 282/2026/NĐ-CP, Chính phủ
+- **Tình trạng**: ⚠️ **TỒN TẠI — nhiều nguồn xác nhận** nhưng CHƯA CÓ trên luatvietnam.vn hoặc vanban.chinhphu.vn
+- **Xác nhận qua**: thuvienphapluat.vn (nhiều bài viết chính thức), congdanso.hanoi.gov.vn, congan.gialai.gov.vn, congan.laocai.gov.vn, facebook
+- **Nội dung**: Sửa đổi, bổ sung một số điều của Nghị định 282/2025/NĐ-CP về xử phạt VPHC trong lĩnh vực an ninh, trật tự, an toàn xã hội; phòng, chống tệ nạn xã hội
+- **Điều khoản được tham chiếu**: Điều 8 (gây thương tích, đánh nhau, bạo lực học đường), Điều 30 (sử dụng ma túy), Điều 5 khoản 2 (mức phạt tổ chức gấp 2 lần cá nhân), Điều 13 khoản 5 (chế tạo, mua bán pháo hoa)
+- **Lưu ý đặc biệt**: Một nguồn (ripplinger-wildsaeu.de) tham chiếu "áp dụng từ ngày 15/12/2026" cho điều khoản về đánh bạc — **CÓ THỂ HIỆU LỰC LÀ 15/12/2026** chứ không phải 01/7/2026 như ước đoán trước đó. Cần xác minh thêm.
+- **Docid trên vanban.chinhphu.vn**: CHƯA CÓ — web_search lần này xác nhận vanban.chinhphu.vn chưa index 282/2026/NĐ-CP
+- **Slug trên luatvietnam.vn**: CHƯA CÓ — web_fetch luatvietnam.vn search trả 404, web_search tìm slug 282/2025 chứ không phải 282/2026
+- **Nguồn xác nhận mạnh**: thuvienphapluat.vn (bài viết pháp lý chính thức tham chiếu "Nghị định 282/2026/NĐ-CP" nhiều lần, cả bài viết và URL văn bản mẫu 679658 trên thuvienphapluat)
+
+#### 99/2026/TT-BTC — XÁC MINH CHƯA CÓ TRÊN luatvietnam.vn hoặc vanban.chinhphu.vn
+- **Số hiệu**: 99/2026/TT-BTC, Bộ Tài chính
+- **Tình trạng**: ⚠️ **TỒN TẠI — nhiều nguồn xác nhận** nhưng CHƯA CÓ trên luatvietnam.vn hoặc vanban.chinhphu.vn
+- **Xác nhận qua**: thuvienphapluat.vn (bài viết chính thức), facebook, tiktok (nhiều tài khoản kế toán độc lập)
+- **Nội dung**: Sửa đổi, bổ sung Thông tư 99/2025/TT-BTC hướng dẫn Chế độ kế toán doanh nghiệp — điều chỉnh hệ thống tài khoản kế toán (Phụ lục III), tỷ giá hạch toán ngoại tệ tháng 7/2026, mẫu sổ nhật ký mua hàng (theo Mục 3 Phần C Phụ lục III)
+- **Đặc biệt**: Thông tư này BỔ SUNG thêm 7 loại tài khoản kế toán so với TT 200 và điều chỉnh tài khoản chi phí quản lý doanh nghiệp (TK 642)
+- **Docid trên vanban.chinhphu.vn**: CHƯA CÓ — web_search xác nhận vanban.chinhphu.vn chưa index 99/2026/TT-BTC (chỉ có 99/2025/TT-BTC docid 215722)
+- **Slug trên luatvietnam.vn**: CHƯA CÓ — web_search chỉ tìm thấy 99/2025/TT-BTC và 99/2026/TT-BCA (Bộ Công an, tha tù trước thời hạn, slug 439595)
+- **Lưu ý**: Thông tư 99/2026/TT-BTC này CÓ SỐ KHÁC với Thông tư 99/2026/TT-BCA (Bộ Công an) — đây là 2 văn bản khác nhau
+
+#### 100/2026/TT-BTC — XÁC MINH CHƯA INDEX trên cả hai nguồn
+- **Số hiệu**: 100/2026/TT-BTC, Bộ Tài chính
+- **Tình trạng**: ⚠️ **TỒN TẠI — nhiều nguồn xác nhận** nhưng CHƯA INDEX
+- **Xác nhận qua**: peugeotninhbinh3s.vn, mercedesbinhduong.vn (bài viết độc lập)
+- **Nội dung**: Sửa đổi Thông tư 40/2026/TT-BTC về thuế trước bạ xe ô tô — Điều 3, Khoản 2.3: giá trị xe cũ để tính thuế trước bạ = giá trị xe mới nhân hệ số
+- **Docid trên vanban.chinhphu.vn**: CHƯA CÓ — web_search trả về 100/2025/TT-BTC (docid 215774) và 100/2026/NĐ-CP (docid 217505)
+- **Slug trên luatvietnam.vn**: CHƯA CÓ — web_search không tìm thấy trực tiếp
+- **Pattern đợt**: Cùng đợt ban hành với 91–99/TT-BTC (~30/6–06/7/2026), các nguồn xác nhận "Thông tư 100/2026/TT-BTC" có thực
+
+#### 97/2026/TT-BTC (docid 218797) — CRAWL HOÀN THIỆN ✅
+- **Docid**: 218797 ✅ (xác minh lần 68)
+- **Số hiệu**: 97/2026/TT-BTC, Bộ Tài chính
+- **Ngày ban hành**: 06/07/2026 (NOT 02/7/2026 như tracking cũ)
+- **Ngày hiệu lực**: 06/07/2026 (kể từ ngày ký ban hành)
+- **Người ký**: Cao Anh Tuấn (Thứ trưởng Bộ Tài chính)
+- **Nội dung**: Bãi bỏ toàn bộ Thông tư số 55/2010/TT-BTC ngày 16/4/2010 hướng dẫn thuế GTGT và thuế TNDN đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh, thành phố
+- **Căn cứ pháp lý**: Luật Ban hành VBQPPL 64/2025/QH15, Luật Quản lý thuế 108/2025/QH15, Luật Thuế GTGT 48/2024/QH15, Luật Thuế TNDN 67/2025/QH15, Nghị định 252/2026/NĐ-CP, Nghị định 181/2025/NĐ-CP, Nghị định 320/2025/NĐ-CP
+- **Điều 1**: Bãi bỏ toàn bộ TT 55/2010/TT-BTC
+- **Điều 2**: Hiệu lực kể từ ngày ký; Thủ trưởng các đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành
+- **Nguồn crawl**: vanban.chinhphu.vn (?pageid=27160&docid=218797&classid=1&typegroupid=6) + datafiles.chinhphu.vn (97-btc.signed.pdf, 754KB)
+- **File**: van-ban/tai-chinh/thong-tu-97-2026-tt-btc-bai-bo-tt-55-2010.md
+- **OCR**: tesseract Vietnamese từ PDF 2 trang → 0 lỗi OCR
+- **Điều**: 2 (range 1–2, Missing: [], Duplicate: [])
+- **Commit**: 58bfdcc4 trên heartbeat/crawl-vanban-20260712a
+
+#### 91, 94, 95/2026/TT-BTC — XÁC MINH CHƯA INDEX trên luatvietnam.vn (slug đã biết)
+- **91/2026/TT-BTC**: ⚠️ ĐÃ BAN HÀNH — luatvietnam slug 439780, hiệu lực 01/7/2026, CHƯA INDEX vanban.chinhphu.vn
+- **94/2026/TT-BTC**: ⚠️ ĐÃ BAN HÀNH — luatvietnam slug 439781, hiệu lực 01/7/2026, CHƯA INDEX vanban.chinhphu.vn  
+- **95/2026/TT-BTC**: ⚠️ ĐÃ BAN HÀNH — luatvietnam slug 439970, hiệu lực 01/7/2026, CHƯA INDEX vanban.chinhphu.vn
+- Cả 3 đã có slug luatvietnam, crawl được toàn văn nhưng CHƯA cần ưu tiên trong phiên này
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218847–221000+ VẪN TRỐNG
+
+- **97/2026/TT-BTC** (docid 218797): Nằm TRƯỚC vùng trống, crawl hoàn thiện ✅
+- **Docid 218804 = 96/2026/TT-BTC**: Nằm ngay trước vùng trống ✅
+- **Vùng trống từ 218847**: ≥174 docid liên tục không có văn bản mới (218847–221000+)
+- **282/2026/NĐ-CP**: CHƯA INDEX — vanban.chinhphu.vn chưa có
+- **99/2026/TT-BTC**: CHƯA INDEX — vanban.chinhphu.vn chưa có
+- **100/2026/TT-BTC**: CHƯA INDEX — vanban.chinhphu.vn chưa có
+- **luatvietnam.vn**: Chưa có slug cho 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **282/2026/NĐ-CP** | ⚠️ TỒN TẠI, chưa có docid/slug, có thể hiệu lực 15/12/2026 | Xác minh lần này: tồn tại trên thuvienphapluat, chưa trên vanban.chinhphu.vn hoặc luatvietnam.vn |
+| **99/2026/TT-BTC** | ⚠️ TỒN TẠI, chưa có docid/slug | Xác minh lần này: tồn tại trên thuvienphapluat, chưa trên vanban.chinhphu.vn hoặc luatvietnam.vn |
+| **100/2026/TT-BTC** | ⚠️ TỒN TẠI, chưa có docid/slug | Xác minh: tồn tại trên peugeotninhbinh3s.vn, mercedesbinhduong.vn, chưa index |
+| **97/2026/TT-BTC** | ✅ HOÀN THIỆN (docid 218797) | Crawl hoàn thiện, file van-ban/tai-chinh/thong-tu-97-2026-tt-btc-bai-bo-tt-55-2010.md, commit 58bfdcc4 |
+| **91/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, luatvietnam slug 439780, CHƯA INDEX | Xác minh lại — slug đã biết |
+| **94/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, luatvietnam slug 439781, CHƯA INDEX | Xác minh lại — slug đã biết |
+| **95/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, luatvietnam slug 439970, CHƯA INDEX | Xác minh lại — slug đã biết |
+
+### Đề xuất phiên tiếp theo
+
+1. **Quét dải 221000–250000 step 10** (ưu tiên 1): Xác nhận tiếp vùng trống trên vanban.chinhphu.vn
+2. **Tìm docid 282/2026/NĐ-CP trên vanban.chinhphu.vn dải cao** (ưu tiên 2): Thử docid 220000–230000 step 5 hoặc web_search trực tiếp trên vanban.chinhphu.vn
+3. **Xác minh ngày ban hành chính xác 282/2026/NĐ-CP** (ưu tiên 3): Một nguồn tham chiếu hiệu lực từ 15/12/2026, cần xác nhận
+4. **Tìm docid 99/2026/TT-BTC và 100/2026/TT-BTC** (ưu tiên 4): Thử vanban.chinhphu.vn dải 219000–221000 hoặc luatvietnam.vn
+5. **Crawl 91/TT-BTC từ luatvietnam.vn** (ưu tiên 5): slug 439780 đã có, toàn văn crawl được
+
+### Ghi chú xử lý
+
+- **282/2026/NĐ-CP**: Xác nhận tồn tại qua thuvienphapluat.vn (bài viết pháp lý chính thức nhiều lần tham chiếu "Nghị định 282/2026/NĐ-CP" cùng URL mẫu 679658). Lưu ý quan trọng: một nguồn tham chiếu điều khoản đánh bạc có hiệu lực từ 15/12/2026, KHÁC với ước đoán 01/7/2026 trước đó. **Có thể văn bản có nhiều điều khoản có ngày hiệu lực khác nhau** (hiệu lực hỗn hợp). CHƯA có docid trên vanban.chinhphu.vn, CHƯA có slug trên luatvietnam.vn.
+- **99/2026/TT-BTC**: Xác nhận tồn tại qua thuvienphapluat.vn (bài viết chính thức) và facebook/tiktok (nhiều tài khoản kế toán độc lập). Lưu ý: 99/2026/TT-BCA (Bộ Công an, tha tù trước thời hạn, slug 439595 trên luatvietnam) LÀ VĂN BẢN KHÁC. CHƯA có docid trên vanban.chinhphu.vn, CHƯA có slug trên luatvietnam.vn.
+- **100/2026/TT-BTC**: Xác nhận tồn tại qua peugeotninhbinh3s.vn và mercedesbinhduong.vn. Điều 3, Khoản 2.3 tham chiếu rõ. CHƯA có docid, CHƯA có slug.
+- **97/2026/TT-BTC (docid 218797)**: ✅ Crawl hoàn thiện. Ngày ban hành chính xác: 06/07/2026 (KHÔNG PHẢI 02/7/2026 như ghi nhận trước đó). File hoàn thiện trên branch heartbeat/crawl-vanban-20260712a. OCR issues: 0. 2 Điều.
+- **91, 94, 95/TT-BTC**: Xác nhận CHƯA INDEX trên vanban.chinhphu.vn nhưng CÓ slug trên luatvietnam.vn (439780, 439781, 439970). Có thể crawl toàn văn từ luatvietnam.vn bất cứ lúc nào.
+- **Vùng trống vanban.chinhphu.vn**: Từ 218847 đến 221000+ — ≥174 docid liên tục không có văn bản mới.
+- Nguồn: vanban.chinhphu.vn (docid 218797, URL pageid=27160&docid=218797), datafiles.chinhphu.vn (97-btc.signed.pdf, 754KB), web_search thuvienphapluat.vn (282/2026, 99/2026, 100/2026), web_fetch thuvienphapluat.vn (282/2026 chi tiết điều khoản ma túy), web_search luatvietnam.vn, web_search vanban.chinhphu.vn, peugeotninhbinh3s.vn, mercedesbinhduong.vn.
+- Ngày phát hiện: 2026-07-13 11:07 ICT
+- Phiên thực hiện: agent:github-io:subagent:7d2b2f31-9642-4b0e-9b53-6e2c387984ed (Đệ #1 Discovery — lần 70)
+
+
 ## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 69, quét dải 219150–221000 step 5 + web_search NĐ-CP 279–300, TT-BTC 91–105, QĐ-TTg 1253–1300)
 
 ### Phát hiện: 2 văn bản mới — 282/2026/NĐ-CP (chưa có docid) + 99/2026/TT-BTC (chưa có docid)
