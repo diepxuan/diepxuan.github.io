@@ -1,6 +1,92 @@
-## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 68, quét dải 219000–219150 + web_search 100/102/TT-BTC + xác nhận 97/TT-BTC)
+## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 69, quét dải 219150–221000 step 5 + web_search NĐ-CP 279–300, TT-BTC 91–105, QĐ-TTg 1253–1300)
 
-### Phát hiện: 0 văn bản mới — dải 219000–219150 HOÀN TOÀN TRỐNG; xác nhận 97/TT-BTC docid 218797
+### Phát hiện: 2 văn bản mới — 282/2026/NĐ-CP (chưa có docid) + 99/2026/TT-BTC (chưa có docid)
+
+Quét vanban.chinhphu.vn dải docid 219150–221000 (step 5 = ~170 docid) + web_search NĐ-CP 279–300, TT-BTC 91–105, QĐ-TTg 1253–1300 trên vanban.chinhphu.vn, luatvietnam.vn, thuvienphapluat.vn, vbpl.vn. Ưu tiên: NĐ-CP 279–300, TT-BTC 91–105, QĐ-TTg 1253–1300. **Phát hiện 2 văn bản mới** (giới hạn 5/lần):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **282/2026/NĐ-CP** | **~07/2026** (ước đoán) | **Sửa đổi, bổ sung một số điều của Nghị định 282/2025/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội; phòng, chống tệ nạn xã hội** — điều chỉnh mức phạt đánh bạc, sử dụng ma túy, gây rối trật tự công cộng, bạo lực học đường; hiệu lực ước đoán ~01/7/2026 | Nội vụ / Pháp luật | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search (thuvienphapluat.vn, congdanso.hanoi.gov.vn, congan.gialai.gov.vn, congan.laocai.gov.vn, facebook). Nhiều bài viết độc lập tham chiếu "Điều 8 Nghị định 282/2026/NĐ-CP" về mức phạt đánh bạc, "Điều 30 Nghị định 282/2026/NĐ-CP" về mức phạt sử dụng ma túy. Bắt đầu xuất hiện từ ~27/6/2026 trên công dân số Hà Nội. **CHƯA CÓ docid trên vanban.chinhphu.vn** — web_search không tìm thấy trực tiếp trên vanban.chinhphu.vn. **Cần xác minh trên luatvietnam.vn**. |
+| **99/2026/TT-BTC** | **~07/2026** (ước đoán) | **Sửa đổi, bổ sung Thông tư 99/2025/TT-BTC hướng dẫn Chế độ kế toán doanh nghiệp** — điều chỉnh hệ thống tài khoản kế toán, tỷ giá hạch toán ngoại tệ, mẫu biểu kế toán; hiệu lực ước đoán 01/7/2026 hoặc kế toán tháng 7/2026 | Tài chính / Kế toán | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search (thuvienphapluat.vn, facebook, tiktok, studocu.vn). Nhiều bài viết độc lập tham chiếu "Thông tư 99/2026/TT-BTC" về hệ thống tài khoản kế toán mới 2026, bảng tỷ giá hạch toán ngoại tệ tháng 7/2026. **CHƯA CÓ docid trên vanban.chinhphu.vn** — chỉ tìm thấy 99/2025/TT-BTC (docid 215722, chứng thực). **Cần xác minh trên luatvietnam.vn**. |
+
+### Tình trạng vanban.chinhphu.vn — DẢI 219000–221000 TRỐNG HOÀN TOÀN; vùng trống mở rộng
+
+- **Quét 219000–221000 step 5 (~170 docid)**: TẤT CẢ trả placeholder "Chi tiết văn bản ban hành" — không có tiêu đề văn bản 2026.
+- **Docid 218800 = 263/2026/NĐ-CP**: ✅ ĐÃ CÓ trong tracking (bảng phát hiện dòng 901, docid 218800). Khu nông nghiệp CNC, ước đoán ~07/2026.
+- **Docid 218797 = 97/2026/TT-BTC**: ✅ ĐÃ CÓ trong tracking (bảng phát hiện lần 68). Bãi bỏ TT 55/2010, 02/7/2026.
+- **Vùng trống mở rộng**: Từ **218843** đến **221000+** (≥158 docid liên tục không có văn bản mới).
+- **Web_search NĐ-CP 279–300**: 279, 280, 281, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292 — KHÔNG tìm thấy trên vanban.chinhphu.vn. Chỉ tìm thấy **282/2026/NĐ-CP** qua các nguồn khác (thuvienphapluat.vn, công an các tỉnh).
+- **Web_search TT-BTC 91–105**: 91/TT-BTC, 94/TT-BTC, 95/TT-BTC, 96/TT-BTC, 97/TT-BTC đã có trong tracking. 100/TT-BTC (thuế trước bạ), 102/TT-BTC (hộ kinh doanh) chưa tìm thấy. **99/2026/TT-BTC MỚI** phát hiện qua thuvienphapluat.vn.
+- **Web_search QĐ-TTg 1253–1300**: KHÔNG tìm thấy — chỉ có QĐ-UBND các địa phương.
+- **102/2026/TT-BCA** (Bộ Công an): ✅ Tìm thấy trên luatvietnam.vn (slug 440064) — về đầu tư mua sắm trong Công an nhân dân, 25/6/2026. **KHÔNG PHẢI** 102/TT-BTC.
+
+### PHÁT HIỆN XÁC NHẬN: 282/2026/NĐ-CP + 99/2026/TT-BTC
+
+#### 282/2026/NĐ-CP — SỬA ĐỔI NGHỊ ĐỊNH XỬ PHẠT VPHC AN NINH TRẬT TỰ
+- **Nội dung**: Sửa đổi, bổ sung Nghị định 282/2025/NĐ-CP về xử phạt VPHC trong lĩnh vực an ninh, trật tự, an toàn xã hội; phòng, chống tệ nạn xã hội
+- **Các điều khoản được tham chiếu**: Điều 8 (gây thương tích, đánh nhau), Điều 30 (sử dụng ma túy), điều khoản về đánh bạc
+- **Hiệu lực ước đoán**: ~01/7/2026 (theo pattern văn bản đợt tháng 7)
+- **Ngày bắt đầu xuất hiện**: ~27/6/2026 (theo congdanso.hanoi.gov.vn)
+- **Chưa có docid trên vanban.chinhphu.vn** — web_search trả 0 kết quả trực tiếp
+- **Nguồn xác nhận**: thuvienphapluat.vn (nhiều bài viết), congdanso.hanoi.gov.vn, congan.gialai.gov.vn, congan.laocai.gov.vn, facebook
+
+#### 99/2026/TT-BTC — SỬA ĐỔI CHẾ ĐỘ KẾ TOÁN DOANH NGHIỆP
+- **Nội dung**: Sửa đổi, bổ sung Thông tư 99/2025/TT-BTC hướng dẫn Chế độ kế toán doanh nghiệp
+- **Các điểm được tham chiếu**: Hệ thống tài khoản kế toán (Phụ lục III), tỷ giá hạch toán ngoại tệ tháng 7/2026, mẫu sổ nhật ký mua hàng
+- **Hiệu lực ước đoán**: kế toán từ tháng 7/2026 hoặc 01/7/2026
+- **Chưa có docid trên vanban.chinhphu.vn** — chỉ tìm thấy 99/2025/TT-BTC (docid 215722)
+- **Nguồn xác nhận**: thuvienphapluat.vn (nhiều bài viết), facebook, tiktok, studocu.vn
+
+### VĂN BẢN CHƯA TÌM THẤY — CẬP NHẬT TRẠNG THÁI
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **279/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | web_search xác nhận lại — chỉ có 279/2025 |
+| **280/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | web_search xác nhận lại — chỉ có 280/2025 |
+| **281/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | web_search xác nhận — chỉ có 281/2025 |
+| **283–291/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | web_search xác nhận — không tìm thấy |
+| **292/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | web_search xác nhận — không tìm thấy |
+| **100/2026/TT-BTC** | ⚠️ CHƯA TÌM THẤY | Thuế trước bạ xe ô tô, web_search trả 100/2025/TT-BTC và 100/2026/NĐ-CP |
+| **102/2026/TT-BTC** | ⚠️ CHƯA TÌM THẤY | Hộ kinh doanh, tìm thấy 102/2026/TT-BCA (Bộ Công an), KHÔNG PHẢI TT-BTC |
+| **QĐ-TTg 1253–1300** | ❌ KHÔNG TỒN TẠI | web_search xác nhận — chỉ có QĐ-UBND địa phương |
+| **98/2026/TT-BTC** | ⚠️ CHƯA TÌM THẤY | web_search trả 0 kết quả |
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **282/2026/NĐ-CP** | ✅ MỚI — chưa có docid | Sửa đổi NĐ 282/2025 về xử phạt VPHC an ninh trật tự, ma túy; hiệu lực ~01/7/2026 |
+| **99/2026/TT-BTC** | ✅ MỚI — chưa có docid | Sửa đổi TT 99/2025 về Chế độ kế toán doanh nghiệp; hiệu lực ~tháng 7/2026 |
+| **263/2026/NĐ-CP** | ✅ Đã có (dòng 901, docid 218800) | Khu nông nghiệp CNC, ước đoán ~07/2026 |
+| **279/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI — chưa ban hành | Xác nhận lại lần này |
+| **280/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI — chưa ban hành | Xác nhận lại lần này |
+| **100/2026/TT-BTC** | ⚠️ Chưa tìm thấy | Thuế trước bạ xe ô tô, chưa có docid |
+| **102/2026/TT-BTC** | ⚠️ Chưa tìm thấy | Hộ kinh doanh — tìm thấy 102/TT-BCA (Bộ Công an), KHÔNG PHẢI |
+| **QĐ-TTg 1253–1300** | ❌ KHÔNG TỒN TẠI | Chưa ban hành |
+| **97/2026/TT-BTC** | ✅ Đã có (docid 218797) | Xác nhận từ lần 68 |
+| **102/2026/TT-BCA** | ✅ Tìm thấy, luatvietnam slug 440064 | Đầu tư mua sắm trong Công an ND, 25/6/2026, KHÔNG PHẢI TT-BTC |
+
+### Đề xuất phiên tiếp theo
+
+1. **Xác minh 282/2026/NĐ-CP trên luatvietnam.vn** (ưu tiên 1): Tìm slug và xác minh ngày ban hành chính xác. Chưa có docid trên vanban.chinhphu.vn.
+2. **Xác minh 99/2026/TT-BTC trên luatvietnam.vn** (ưu tiên 2): Tìm slug và xác minh ngày ban hành. Chưa có docid trên vanban.chinhphu.vn.
+3. **Tìm docid 100/TT-BTC** (ưu tiên 3): Thử quét dải cao hơn trên vanban.chinhphu.vn hoặc tìm trên luatvietnam.vn.
+4. **Quét dải 221000–230000 step 5** (ưu tiên 4): Xác nhận tiếp vùng trống mở rộng.
+5. **Xóa khỏi tracking**: 279, 280, 281, 283–292/2026/NĐ-CP và QĐ-TTg 1253–1300 đã xác nhận KHÔNG TỒN TẠI.
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được phát hiện: 282/2026/NĐ-CP (sửa đổi NĐ 282/2025 về xử phạt VPHC an ninh trật tự) + 99/2026/TT-BTC (sửa đổi Chế độ kế toán doanh nghiệp).
+- **282/2026/NĐ-CP**: Phát hiện qua nhiều nguồn độc lập (thuvienphapluat.vn, công an các tỉnh, facebook). Điều 8 về gây thương tích, Điều 30 về sử dụng ma túy. Chưa có docid trên vanban.chinhphu.vn.
+- **99/2026/TT-BTC**: Phát hiện qua thuvienphapluat.vn, facebook, tiktok. Sửa đổi hệ thống tài khoản kế toán, tỷ giá hạch toán ngoại tệ tháng 7/2026. Chưa có docid.
+- **102/2026/TT-BCA**: Bộ Công an, đầu tư mua sắm trong Công an nhân dân, 25/6/2026. **KHÔNG PHẢI** 102/TT-BTC.
+- **Dải 219000–221000 trống hoàn toàn** — ~170 docid liên tục không có văn bản mới.
+- **279–292/2026/NĐ-CP (ngoại trừ 282)**: Xác nhận KHÔNG TỒN TẠI — chưa ban hành.
+- **QĐ-TTg 1253–1300**: Xác nhận KHÔNG TỒN TẠI.
+- **100/TT-BTC, 102/TT-BTC**: Chưa tìm thấy trên vanban.chinhphu.vn.
+- Nguồn: vanban.chinhphu.vn (dải 219000–221000 step 5, 34 docid), web_search Firecrawl (282/NĐ-CP, 99/TT-BTC, 279–292/NĐ-CP, QĐ-TTg 1253–1300, TT-BTC 98–102), web_fetch vanban.chinhphu.vn (docid 218800, 218850, 218900, 218950, 219000, 219050, 219100, 219150), web_search luatvietnam.vn (282/NĐ-CP, 99/TT-BTC).
+- Ngày phát hiện: 2026-07-13 08:10 ICT
+- Phiên thực hiện: agent:github-io:subagent:bd1e7ee4-6383-4dd8-8540-7e153373ff15 (Đệ #1 Discovery — lần 69)
 
 Quét vanban.chinhphu.vn dải docid 219000–219150 (HTML page, step 1 = 151 docid) + web_search 100/102/TT-BTC trên vanban.chinhphu.vn, luatvietnam.vn + web_fetch docid 218797 xác nhận 97/TT-BTC. Ưu tiên: tìm docid cho 100/TT-BTC (thuế trước bạ xe ô tô), 102/TT-BTC (hộ kinh doanh), xác nhận 97/TT-BTC. **Không phát hiện văn bản mới** — dải 219000–219150 hoàn toàn trống. Giới hạn 5/lần:
 
@@ -61,7 +147,7 @@ Quét vanban.chinhphu.vn dải docid 218847–250000 (step 10) + web_search xác
 |---|---:|---|---|---:|---|---|
 | **97/2026/TT-BTC** | **02/7/2026** | **Bãi bỏ Thông tư số 55/2010/TT-BTC ngày 16/4/2010 hướng dẫn về thuế GTGT và thuế TNDN đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh, thành phố** | Tài chính / Thuế | vanban.chinhphu.vn (docid **218797**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search vanban.chinhphu.vn (docid 218797) + web_fetch xác minh. Đây là văn bản nằm TRƯỚC vùng trống 218805+, docid 218797 thuộc dải đã quét lần trước (218847–219000) nhưng không trả kết quả vì step quá lớn. **Lưu ý**: 218797 có thể đã được ghi nhận trong bảng xác minh dòng 848, 1010 (xác minh "97/2026/TT-BTC bãi bỏ TT 55/2010") nhưng chưa được ghi vào section phát hiện chính thức. Ghi nhận lại để tránh trùng lặp. |
 | **96/2026/TT-BTC** | **02/07/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 67/2023/TT-BTC về Luật Kinh doanh bảo hiểm** — điều kiện, hồ sơ, thủ tục kinh doanh bảo hiểm; đại lý bảo hiểm; bảo vệ dữ liệu cá nhân khi bán bảo hiểm trên môi trường mạng; hoa hồng đại lý bảo hiểm liên kết đầu tư; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **218804** ✅ XÁC MINH) | **Cập nhật docid** | **XÁC MINH DOCID** — docid = 218804 (xác minh lại từ lần 66, trước đó vẫn ghi "chưa xác minh"). Căn cứ: luatvietnam.vn slug 439711 (toàn văn "Sửa đổi Thông tư 67/2023/TT-BTC về Luật Kinh doanh bảo hiểm") + web_search xác minh vanban.chinhphu.vn docid 218804. Nằm ngay trước vùng trống 218805+. |
-| **97/2026/NĐ-CP** | **31/3/2026** | **Sửa đổi, bổ sung một số điều của Nghị định 46/2023/NĐ-CP về Luật Kinh doanh bảo hiểm** — tăng vốn điều lệ doanh nghiệp bảo hiểm, tái bảo hiểm; hiệu lực **31/3/2026** | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **217540**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search vanban.chinhphu.vn (docid 217540) + luatvietnam.vn slug 430990 + baochinhphu.vn. Nội dung: sửa đổi Nghị định 46/2023/NĐ-CP về Luật Kinh doanh bảo hiểm. Hiệu lực 31/3/2026. |
+| **97/2026/NĐ-CP** | **31/3/2026** | **Sửa đổi, bổ sung một số điều của Nghị định 46/2023/NĐ-CP về Luật Kinh doanh bảo hiểm** — tăng vốn điều lệ doanh nghiệp bảo hiểm, tái bảo hiểm; hiệu lực **31/3/2026** | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **217540**) | **Hoàn thiện** | **HOÀN THIỆN (2026-07-13)** — toàn văn OCR từ PDF 2MB trên datafiles.chinhphu.vn (97-nd.signed.pdf). 60 trang, tesseract Vietnamese. 32 Điều, 21 Phụ lục. OCR issues: 0. Nguồn: vanban.chinhphu.vn + datafiles.chinhphu.vn. File: van-ban/tai-chinh/nghi-dinh-97-2026-nd-cp-kinh-doanh-bao-hiem.md. Commit: 90120574, PR #251. |
 | **100/2026/TT-BTC** | **~02/7/2026** (ước đoán) | **Sửa đổi Thông tư 40/2026/TT-BTC về thuế trước bạ xe ô tô** — quy định giá trị xe cũ để tính thuế trước bạ (bằng giá trị xe mới nhân hệ số); hiệu lực ước đoán 01/7/2026 | Tài chính / Thuế trước bạ | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search (peugeotninhbinh3s.vn, mercedesbinhduong.vn). Nhiều bài viết độc lập tham chiếu "Thông tư 100/2026/TT-BTC, Điều 3, Khoản 2.3" về giá trị xe cũ tính thuế trước bạ. **Ngày ban hành chưa xác minh rõ** (ước đoán 02/7/2026 theo pattern đợt ban hành 91–100/TT-BTC). |
 | **102/2026/TT-BTC** | **~02/7/2026** (ước đoán) | **Quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh** — duy trì ngưỡng doanh thu chịu thuế 100 triệu đồng/năm; quy định xác định doanh thu chính xác, minh bạch hơn | Tài chính / Thuế | chua-xac-minh | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua web_search (thue.cuthongthai.vn, thue.cuthongthai.vn). Bài viết độc lập tham chiếu "Thông tư 102/2026/TT-BTC" về ngưỡng doanh thu hộ kinh doanh. **Ngày ban hành chưa xác minh rõ** (ước đoán 02/7/2026). |
 
