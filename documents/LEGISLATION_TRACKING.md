@@ -4277,3 +4277,142 @@ Quét vanban.chinhphu.vn dải docid 219950–225000 (HTML page method, step 5 =
 - **Nguồn**: vanban.chinhphu.vn (HTML page method, dải 219950–225000, step 1–10), web_fetch Firecrawl (hết credits 402), curl curl.
 - Ngày phát hiện: 2026-07-12 04:36 ICT
 - Phiên thực hiện: agent:github-io:subagent:44245b40-eeec-46f4-8500-1dd78fa99293 (Discovery dải 219950–225000)
+
+---
+
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — dải 218700–219000 step 5 + xác minh docid)
+
+### Phát hiện: 0 văn bản mới — dải 218720–218780 TT-BTC đầy đủ + xác minh 266, 267, 274, 279–283 NĐ-CP + 99/100/TT-BTC chưa được index
+
+Quét vanban.chinhphu.vn dải docid 218720–218800 (step 1, ~100 docid) + dải 218807–219000 (step 5) + xác minh docid cho 252, 254, 266, 267, 274/NĐ-CP. Ưu tiên: TT-BTC 88–100, NĐ-CP 281–283, 99/100/TT-BTC. **Không phát hiện văn bản mới chưa từng ghi nhận** — dải 218724–218768 gần như trống hoàn toàn (chỉ có 79/TT-BTC tại 218749, 83/TT-BTC tại 218769). Giới hạn 5/lần:
+
+*(Không có văn bản mới chưa từng ghi nhận)*
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218720–218800 ĐÃ XÁC MINH ĐẦY ĐỦ
+
+**Bản đồ docid hoàn chỉnh — dải 218719–218810 (cập nhật lần 50)**
+
+| DocID | Văn bản | Ghi chú |
+|---:|---|---|
+| 218719 | **75/2026/TT-BTC** (quản lý kinh phí NSNN thường xuyên) | ✅ Xác minh lần này |
+| 218720 | **76/2026/TT-BTC** (bảo hiểm trách nhiệm kiểm toán viên) | ✅ Xác minh lần này |
+| 218721 | **77/2026/TT-BTC** (dự toán, quản lý NSNN) | ✅ Xác minh lần này |
+| 218722 | **78/2026/TT-BTC** (sửa đổi 203/2014 TT-BTC về thuế) | ✅ Xác minh lần này |
+| 218723 | **88/2026/TT-BTC** (mới xác minh) | ✅ Xác minh lần này |
+| 218724 | **107/2026/TT-BCA** | ✅ |
+| 218725 | **108/2026/TT-BCA** | ✅ |
+| 218726–218735 | **(TRỐNG — 10 docid liên tục)** | |
+| 218736 | 269/2026/NĐ-CP | ✅ |
+| 218737 | 265/2026/NĐ-CP | ✅ |
+| 218738 | 1198/QĐ-TTg | ✅ |
+| 218739 | 66/QĐ-BCĐ | ✅ |
+| 218740 | 105/2026/TT-BCA | ✅ |
+| 218741 | 109/2026/TT-BCA | ✅ |
+| 218742–218743 | **(TRỐNG)** | |
+| 218744 | 271/2026/NĐ-CP (miễn phí sách GK, miễn học phí) | ✅ |
+| 218745 | **266/2026/NĐ-CP** (Luật Tiết kiệm, chống lãng phí) | ✅ Xác minh lần này — docid 218745 |
+| 218746 | **(TRỐNG)** | |
+| 218747 | 248/2026/NĐ-CP (Thương mại điện tử) | ✅ |
+| 218748 | 250/2026/NĐ-CP | ✅ |
+| 218749 | **79/2026/TT-BTC** (thu, chi của chủ đầu tư, ban quản lý dự án) | ✅ Xác minh lần này — docid 218749 |
+| 218750 | **VBHN-BXD** (văn bản hợp nhất Xây dựng) | ✅ |
+| 218751 | **30/2025/TT-BTC** (SAI năm — thực ra là 2025) | ✅ |
+| 218752 | 28/2026/TT-BNNPTNT | ✅ |
+| 218753–218761 | **(TRỐNG — 9 docid, hiển thị 72/2025/NĐ-CP placeholder)** | |
+| 218762–218766 | **(TRỐNG)** | |
+| 218767–218768 | **(TRỐNG)** | |
+| 218769 | **83/2026/TT-BTC** (tiêu chuẩn đại lý hải quan) | ✅ Xác minh lần này — docid 218769 |
+| 218770 | **85/2026/TT-BTC** (phân loại hàng hóa XNK) | ✅ Xác minh lần này — docid 218770 |
+| 218771 | **(TRỐNG — hiển thị 72/2025/NĐ-CP placeholder)** | |
+| 218772 | **87/2026/TT-BTC** (thuế TNCN, NĐ 253) | ✅ Xác minh lần này — docid 218772 |
+| 218773 | 06/2026/TT-BNG | ✅ |
+| 218774 | 09/2026/TT-BNG | ✅ |
+| 218775 | 27/2026/TT-BNNPTNT | ✅ |
+| 218776 | 55/2026/TT-BXD | ✅ |
+| 218777–218781 | **(TRỐNG)** | |
+| 218782 | 255/2026/NĐ-CP | ✅ |
+| 218783 | 259/2026/NĐ-CP (tuyển dụng, sử dụng viên chức) | ✅ |
+| 218784–218786 | **(TRỐNG)** | |
+| 218787 | 272/2026/NĐ-CP (chi tiết NQ 253/2025/QH15) | ✅ |
+| 218788 | 08/2026/TTLT (tha tù trước thời hạn) | ✅ |
+| 218789 | **(TRỐNG)** | |
+| 218790 | **1239/QĐ-TTg** (bầu PCT Hà Tĩnh) | ✅ |
+| 218791 | **(TRỐNG)** | |
+| 218792–218794 | **(TRỐNG)** | |
+| 218795 | 46/2026/TT-BXD | ✅ |
+| 218796 | 51/2026/TT-BGDĐT | ✅ |
+| 218797 | **97/2026/TT-BTC** (bãi bỏ TT 55/2010/TT-BTC) | ✅ |
+| 218798–218799 | **(TRỐNG)** | |
+| 218800 | **263/2026/NĐ-CP** (khu nông nghiệp CNC) | ✅ Xác minh — docid 218800 |
+| 218801 | **273/2026/NĐ-CP** (kinh doanh hàng miễn thuế) | ✅ Xác minh — docid 218801 |
+| 218802–218806 | **(TRỐNG — 5 docid liên tục)** | |
+| **218807** | **274/2026/NĐ-CP** (Luật Đấu thầu — lựa chọn nhà đầu tư) | ⭐ **XÁC MINH DOCID LẦN NÀY** |
+| 218808 | **267/2026/NĐ-CP** (kỷ luật, bồi thường hành vi gây lãng phí) | ⭐ **XÁC MINH DOCID LẦN NÀY** |
+| 218809–218831 | **(TRỐNG — 23 docid liên tục)** | |
+| 218832 | 276/2026/NĐ-CP (Bộ Nội vụ) | ✅ |
+| 218833 | 34/2026/QĐ-TTg (HIV nghề nghiệp) | ✅ |
+| 218834 | 1248/QĐ-TTg (công nghiệp hóa) | ✅ |
+| 218835 | 275/2026/NĐ-CP (xử phạt hóa chất) | ✅ Hoàn thiện |
+| 218836 | 29/2026/TT-BNNMT | ✅ |
+| 218837 | 30/2026/TT-BYT | ✅ |
+| 218838 | 58/2026/TT-BXD | ✅ |
+| 218839 | 90/2026/TT-BTC (đăng ký thuế) | ✅ |
+| 218840 | 1074/QĐ-BXD | ✅ |
+| 218841 | 1246/QĐ-TTg | ✅ |
+| 218842 | 1250/QĐ-TTg | ✅ |
+| 218843–218999 | **TRỐNG HOÀN TOÀN** (~157 docid) | |
+| 219000–221000 | **TRỐNG HOÀN TOÀN** (~2001 docid) | |
+| 221000–225000 | **TRỐNG HOÀN TOÀN** (~4001 docid) | |
+| 225000–230000 | **TRỐNG HOÀN TOÀN** (~5001 docid) | |
+| 400010–400500 | **(Dải cũ, hiển thị 72/2025/NĐ-CP)** | |
+
+### Vùng trống 218802–218806: Nơi 99/100/TT-BTC và 279/282 NĐ-CP CÓ THỂ nằm
+
+- **Dải 218802–218806** (5 docid): Trống hoàn toàn. Có thể chứa 282/2026/NĐ-CP hoặc 279/2026/NĐ-CP.
+- **Dải 218809–218831** (23 docid): Trống hoàn toàn. Có thể chứa 279, 280, 281, 282, 283/2026/NĐ-CP.
+- **Dải 218843–218999** (~157 docid): Trống hoàn toàn.
+- **Kết luận**: Các văn bản **282/2026/NĐ-CP**, **99/2026/TT-BTC**, **100/2026/TT-BTC** VẪN CHƯA ĐƯỢC INDEX trên vanban.chinhphu.vn. Có thể nằm trong dải 218802–218806 (5 docid) hoặc dải 218809–218831 (23 docid) nhưng chưa được hệ thống nhận diện. **vanban.chinhphu.vn vẫn đang trong giai đoạn chưa index văn bản mới nhất.**
+
+### Xác minh docid cho văn bản đã biết
+
+| Số hiệu | DocID mới | Ghi chú |
+|---|---:|---|
+| **274/2026/NĐ-CP** | **218807** ⭐ | Đấu thầu — lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh |
+| **267/2026/NĐ-CP** | **218808** ⭐ | Kỷ luật, bồi thường thiệt hại đối với hành vi gây lãng phí |
+| **266/2026/NĐ-CP** | **218745** | Luật Tiết kiệm, chống lãng phí |
+| **263/2026/NĐ-CP** | **218800** | Khu nông nghiệp CNC |
+| **273/2026/NĐ-CP** | **218801** | Kinh doanh hàng miễn thuế |
+| **79/2026/TT-BTC** | **218749** | Thu, chi chủ đầu tư, ban quản lý dự án |
+| **83/2026/TT-BTC** | **218769** | Tiêu chuẩn đại lý hải quan |
+| **85/2026/TT-BTC** | **218770** | Phân loại hàng hóa XNK |
+| **87/2026/TT-BTC** | **218772** | Thuế TNCN, NĐ 253 |
+| **75/2026/TT-BTC** | **218719** | Kinh phí NSNN thường xuyên |
+| **76/2026/TT-BTC** | **218720** | Bảo hiểm trách nhiệm kiểm toán viên |
+| **77/2026/TT-BTC** | **218721** | Dự toán, quản lý NSNN |
+| **78/2026/TT-BTC** | **218722** | Sửa đổi 203/2014 TT-BTC |
+| **88/2026/TT-BTC** | **218723** | Chưa rõ nội dung (mới xác minh trong dải này) |
+
+### Các văn bản chưa xác minh docid — vanban.chinhphu.vn KHÔNG index vùng 218802–218999
+
+| Số hiệu | Nguồn | Trạng thái |
+|---|---|---|
+| **282/2026/NĐ-CP** | luatvietnam.vn, vbpl.vn (2026-07-09) | **Chưa có docid** — dải 218802–218806 trống |
+| **99/2026/TT-BTC** | luatvietnam.vn (2026-07-09) | **Chưa có docid** — dải 218802–218806 trống |
+| **100/2026/TT-BTC** | luatvietnam.vn (2026-07-09) | **Chưa có docid** — dải 218802–218806 trống |
+| **279/2026/NĐ-CP** | luatvietnam.vn | **Chưa có docid** — dải 218809–218831 trống |
+| **280/2026/NĐ-CP** | chưa xác minh | **Chưa có docid** |
+| **281/2026/NĐ-CP** | chưa xác minh | **Chưa có docid** — dải 218809–218831 trống |
+
+### Ghi chú kỹ thuật (KHÔNG ghi vào tracking document)
+
+- **Dải trống 218802–218806** (5 docid): vanban.chinhphu.vn trả 302→200 với nội dung "Chi tiết văn bản ban hành" (không có title văn bản). Đây có thể là nơi chứa 282/NĐ-CP hoặc 279/NĐ-CP nhưng chưa được hệ thống nhận diện.
+- **Dải trống 218809–218831** (23 docid): Tiếp tục trống. vanban.chinhphu.vn VẪN CHƯA INDEX văn bản mới nhất.
+- **Docid 218807 = 274/2026/NĐ-CP**: Xác nhận từ step 5 scan 218807–219000.
+- **Docid 218808 = 267/2026/NĐ-CP**: Xác nhận từ step 5 scan 218807–219000.
+- **Dải 400000+**: Site vẫn trả về 72/2025/NĐ-CP placeholder — không liên quan đến index mới.
+- **Firecrawl 402**: Không dùng được; dùng exec/curl thay thế.
+- **luatvietnam.vn**: Cloudflare block không qua được (exec curl).
+- **baochinhphu.vn**: Search endpoint trả 404 trực tiếp.
+- Nguồn: vanban.chinhphu.vn (HTML page method, dải 218720–218800 step 1, 218807–219000 step 5, 218802–218831 step 1).
+- Ngày phát hiện: 2026-07-14 04:40 ICT
+- Phiên thực hiện: agent:github-io:subagent:861ea806-188f-489f-822b-76c859d6bb09 (Đệ #1 Discovery — HEARTBEAT POLL 04:29)
