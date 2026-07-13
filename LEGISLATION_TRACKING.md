@@ -13,8 +13,8 @@
 
 - Tổng văn bản phát hiện lần này: **80+** (docid mapped)
 - Văn bản mới chưa từng tracking: ~70
-- Văn bản xác nhận docid (từ trước): 254=218689, 269=218736, 271=218744, 273=218801, 276=218832, 278=219802, 1248=218834
-- **Gap lớn**: docid 218843–219802 trống hoàn toàn (~959 docid rỗng)
+- Văn bản xác nhận docid (từ trước): 254=218689, 269=218736, 271=218744, 273=218801, 276=218832, 278=218849, 1248=218834
+- **Gap lớn**: docid 218843–219802 trống hoàn toàn (~959 docid rỗng). Sau re-index 13/7: dải 218846–218854 có văn bản mới
 - **Nghị định 277, 279, 280**: CHƯA TÌM THẤY — trong vùng gap 218843–219802
 - **TT-BTC 89, 91, 93, 94, 95**: CHƯA TÌM THẤY — scan dense 218690–219000 không thấy
 - **QĐ-TTg 1246, 1250, 1252**: CHƯA TÌM THẤY — scan đến 240000 vẫn trống
@@ -50,7 +50,7 @@
 | 275/2026/NĐ-CP | 218835 | Xử phạt vi phạm hành chính hóa chất, vật liệu nổ | Mới map |
 | 276/2026/NĐ-CP | 218832 | Chức năng, nhiệm vụ Bộ Nội vụ | ✅ Xác minh (PR 251) |
 | **277/2026/NĐ-CP** | **CHƯA TÌM** | **ƯU TIÊN CAO** | **Vùng gap 218843–219802** |
-| **278/2026/NĐ-CP** | **Chưa index** | Sửa đổi NĐ 72/2025/NĐ-CP về giá bán lẻ điện bình quân (ban hành 09/7/2026) | ⚠️ vanban chưa re-index sau 09/7; 219802 là stub page |
+| **278/2026/NĐ-CP** | **218849** | Sửa đổi NĐ 72/2025 về giá bán lẻ điện bình quân (09/7/2026) | **RE-INDEX xác nhận docid — trước đây báo 219802 SAI** |
 | **279/2026/NĐ-CP** | **KHÔNG TỒN TẠI** | **Không có trên vanban, web_search chỉ thấy 279/2025** | ỨNG DỤNG: Xóa khỏi tracking hoặc đánh dấu — KHÔNG TỒN TẠI |
 | **280/2026/NĐ-CP** | **KHÔNG TỒN TẠI** | **Không có — web_search chỉ thấy 280/2025 (docid 215722)** | ỨNG DỤNG: Xóa khỏi tracking hoặc đánh dấu — KHÔNG TỒN TẠI |
 | 281/2026/NĐ-CP | ? | ? | Chưa tìm thấy (quét đến 220000 step 1) |
@@ -136,7 +136,7 @@
 
 ## NHẬN XÉT TỔNG QUAN
 
-1. **Gap lớn 218843–219802 (959 docid)**: Toàn bộ vùng giữa 275 và 278 trống. Các NĐ-CP 277, 279, 280 có thể được công bố sau hoặc nằm ở vị trí khác. Cần tiếp tục theo dõi.
+1. **Gap 218843–219802 (trước re-index 13/7)**: Toàn bộ vùng giữa 275 và 278 trống. Các NĐ-CP 277, 279, 280 có thể được công bố sau hoặc nằm ở vị trí khác. Cần tiếp tục theo dõi.
 2. **TT-BTC 89–95 missing**: 6 Thông tư BTC trong dải 75–97 không tìm thấy trong range 218690–219000. Có thể nằm ở vùng docid cao hơn hoặc chưa công bố.
 3. **QĐ-TTg 1246, 1250, 1252 missing**: Đã quét đến 240000 step 10 không thấy. Có thể chưa ban hành hoặc dùng docid rất cao.
 4. **Đợt công bố lớn tháng 7**: Dải 218689–218847 đặc biệt dày đặc — phản ánh đợt công bố hàng loạt đầu tháng 7/2026 khi 29 Luật đồng loạt có hiệu lực.
@@ -188,7 +188,7 @@
 ### Phát hiện QUAN TRỌNG: NĐ 278/2026/NĐ-CP ĐƯỢC BAN HÀNH NGÀY 09/7/2026
 - Nghị định 278/2026/NĐ-CP: Sửa đổi, bổ sung Nghị định 72/2025/NĐ-CP về điều chỉnh giá bán lẻ điện bình quân.
 - **Chưa có docid trên vanban.chinhphu.vn** — vanban.chinhphu.vn chưa re-index sau ngày 09/7.
-- Tracking cũ: 278=219802 là SAI — docid đó hiện trả về stub page.
+- **RE-INDEX xác nhận docid**: 278=218849 — trước đây (trước 13/7) chưa có docid.
 
 ### Phát hiện mới (docid xác minh lần đầu — 8 văn bản chưa từng tracking)
 
@@ -293,3 +293,64 @@
 
 *Lần cập nhật: 2026-07-12 20:33 ICT (Đệ #1 Discovery Heartbeat)*
 *Lần cập nhật tiếp theo: 2026-07-13 hoặc khi vanban re-index*
+
+---
+
+## Đệ #1 Discovery 2026-07-13 — Báo cáo: Re-index + 282/99/100 chưa index
+
+### PHÁT HIỆN QUAN TRỌNG: vanban.chinhphu.vn ĐÃ RE-INDEX (lần 2 sau 09/7/2026)
+
+**vanban.chinhphu.vn đã re-index lần 2 sau ngày 09/7/2026**, bổ sung thêm các văn bản được công bố sau 08/7/2026. Dải hoạt động mới: **218846–218854** (cập nhật từ 218845).
+
+### Xác minh 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC
+
+| Văn bản | Docid | Trạng thái | Ghi chú |
+|---------|-------|------------|---------|
+| **282/2026/NĐ-CP** | **CHƯA INDEX** | **TỒN TẠI** | Điều chỉnh giá bán lẻ điện bình quân, ban hành **10/7/2026** — vanban re-index lần 2 chưa kịp cập nhật |
+| **278/2026/NĐ-CP** | **218849** ✅ | **XÁC MINH DOCID MỚI** | Sửa đổi NĐ 72/2025 về giá bán lẻ điện bình quân (09/7/2026) — RE-INDEX xác nhận |
+| **99/2026/TT-BTC** | **Chưa index** | **TỒN TẠI** | Chính sách trợ giúp gia đình đối với người có công — vanban chưa index |
+| **100/2026/TT-BTC** | **Chưa index** | **TỒN TẠI** | Sửa đổi Thông tư 80/2020/TT-BTC — vanban chưa index |
+
+### 8 văn bản mới phát hiện trong dải 218846–218854
+
+| Số | Docid | Chủ đề | Ghi chú |
+|----|-------|--------|---------|
+| 6696/VPCP-CN | **218846** ✅ NEW | Áp dụng và xây dựng hệ thống tiêu chuẩn, quy chuẩn kỹ thuật đường sắt đô thị | NEW — chưa có trong tracking |
+| 365/TB-VPCP | **218847** ✅ NEW | Kết luận Phó Thủ tướng Thường trực tại buổi làm việc với TP.HCM | NEW — chưa có trong tracking |
+| 46/CĐ-TTg | **218848** ✅ NEW | Tiếp tục tăng cường phòng, chống đuối nước đối với trẻ em | NEW — chưa có trong tracking |
+| **278/2026/NĐ-CP** | **218849** ✅ **MỚI INDEX** | Sửa đổi NĐ 72/2025 về cơ chế, thời gian điều chỉnh giá bán lẻ điện bình quân | DOCID CŨ (219802) SAI — CẬP NHẬT thành **218849** |
+| 47/CĐ-TTg | **218852** ✅ NEW | Khắc phục hậu quả vụ tai nạn giao thông đường thủy đặc biệt nghiêm trọng tại Phú Quốc, An Giang | NEW — chưa có trong tracking |
+| 367/TB-VPCP | **218853** ✅ NEW | Kết luận Phó Thủ tướng Thường trực tại buổi làm việc với Tỉnh ủy Tây Ninh | NEW — chưa có trong tracking |
+| 368/TB-VPCP | **218854** ✅ NEW | Phiên họp thứ nhất Ban Chỉ đạo Trung ương thực hiện các Chương trình mục tiêu quốc gia | NEW — chưa có trong tracking |
+| **282/2026/NĐ-CP** | **CHƯA INDEX** | Điều chỉnh giá bán lẻ điện bình quân (tiếp theo NĐ 278) | CHƯA CÓ DOCID — vanban re-index lần 2 chưa kịp |
+| **99/2026/TT-BTC** | **Chưa index** | Hướng dẫn thực hiện chính sách trợ giúp gia đình đối với người có công | CHƯA CÓ DOCID |
+| **100/2026/TT-BTC** | **Chưa index** | Sửa đổi Thông tư 80/2020/TT-BTC | CHƯA CÓ DOCID |
+
+### Xác nhận trạng thái (cập nhật từ session trước)
+
+| Văn bản | Docid cũ | Docid mới | Trạng thái |
+|---------|----------|----------|------------|
+| 278/2026/NĐ-CP | ~~219802~~ (SAI) | **218849** | ✅ Xác minh — CẬP NHẬT docid |
+| 282/2026/NĐ-CP | — | Chưa index | ⚠️ Ban hành 10/7 — chờ re-index tiếp theo |
+| 99/2026/TT-BTC | Chưa index | Chưa index | ⚠️ Chưa index vanban |
+| 100/2026/TT-BTC | Chưa index | Chưa index | ⚠️ Chưa index vanban |
+| 277/2026/NĐ-CP | — | KHÔNG TỒN TẠI | ❌ Không tìm thấy |
+| 279/2026/NĐ-CP | — | KHÔNG TỒN TẠI | ❌ Không tìm thấy |
+| 280/2026/NĐ-CP | — | KHÔNG TỒN TẠI | ❌ Không tìm thấy |
+
+### Kết luận vanban.chinhphu.vn (cập nhật)
+
+- **Vùng hoạt động mới nhất**: docid 218846–218854 (~10/7/2026 sau re-index lần 2)
+- **Dải trống cập nhật**: 218850–218851 (2 docid), 218855–219000+ (tất cả stub)
+- **Chờ re-index lần 3**: Để có docid cho 282/NĐ-CP, 99/TT-BTC, 100/TT-BTC
+- **Docid 278 cũ (219802)**: **ĐÃ SỬA** — cập nhật thành **218849**
+
+### Bước tiếp theo (cho session tới)
+
+1. **Ưu tiên 1**: Chờ re-index lần 3 vanban → tìm docid cho 282, 99, 100
+2. **Ưu tiên 2**: Scan dải 218855–219000 step 1 khi vanban cập nhật
+3. **Ưu tiên 3**: Crawl toàn văn NĐ 282 từ baochinhphu.vn hoặc nguồn khác sau khi có docid
+4. **Ưu tiên 4**: Crawl toàn văn TT-BTC 99, 100 sau khi có docid
+
+*Lần cập nhật: 2026-07-13 16:15 ICT (Đệ #1 Discovery — Re-index confirm + 282/99/100 chưa index)*
+*Lần cập nhật tiếp theo: 2026-07-14 hoặc khi vanban re-index lần 3*
