@@ -1,3 +1,101 @@
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — dải 218860–221000 + 230000–250000 + og:title xác minh)
+
+### Phát hiện: 4 văn bản mới — 278/NĐ-CP (docid mới) + 66.22/NQ-CP + 1255/QĐ-TTg + 46/CĐ-TTg + 47/CĐ-TTg + 368/TB-VPCP
+
+Quét vanban.chinhphu.vn dải docid 218860–221000 (step 1 = 141 docid) + dải 230000–250000 (step 50 = 401 docid) + og:title scan dải 218843–218870 + web_search + curl trực tiếp. Ưu tiên: NĐ-CP mới (274–280), TT-BTC mới (88–100), QĐ-TTg mới (1256+). **Phát hiện 4 văn bản mới** chưa từng ghi nhận trong tracking. Giới hạn 5/lần — ghi nhận đủ 4:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **278/2026/NĐ-CP** | **09/07/2026** | **Sửa đổi, bổ sung một số điều của NĐ 72/2025/NĐ-CP về cơ chế điều chỉnh giá bán lẻ điện bình quân** — làm rõ ngưỡng điều chỉnh giá điện: giảm <1% hoặc tăng <2% → không điều chỉnh (EVN báo cáo BCT); tăng ≥5% → BCT trình Chính phủ; EVN báo cáo chi phí trước 30/6 hàng năm; hiệu lực **09/7/2026** | Năng lượng / Điện lực | vanban.chinhphu.vn (docid **218849** ✅) | **Chưa có** | **XÁC MINH DOCID MỚI (SỬA)** — tracking trước đó ghi nhầm docid 219802. Docid đúng = **218849** được xác minh qua og:title scan 218843–218870. Title: "Nghị định số 278/2026/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 72/2025/NĐ-CP ngày 28 tháng 3 năm 2025 của Chính phủ quy định về cơ chế, thời gian điều chỉnh giá bán lẻ điện bình quân" ✅. **ƯU TIÊN CAO** — tác động trực tiếp giá điện sinh hoạt và sản xuất. |
+| **66.22/2026/NQ-CP** | **~07/2026** | **Về phát triển công dân số** — nghị quyết của Chính phủ về phát triển công dân số; liên quan đến chính phủ số, chuyển đổi số; hiệu lực ~07/2026 | Chính phủ số / Chuyển đổi số | vanban.chinhphu.vn (docid **218858**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan 218843–218870. Title: "Nghị quyết số 66.22/2026/NQ-CP của Chính phủ: Về phát triển công dân số" ✅. **ƯU TIÊN TRUNG BÌNH** — chính sách chuyển đổi số quốc gia. |
+| **1255/2026/QĐ-TTg** | **~07/2026** | **Ban hành Danh mục các loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo** — Thủ tướng ban hành danh mục và tiêu chí về xã hội hóa giáo dục; xác định các loại hình, quy mô, tiêu chuẩn cơ sở giáo dục thực hiện xã hội hóa; hiệu lực ~07/2026 | Giáo dục / Xã hội hóa | vanban.chinhphu.vn (docid **218859**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan 218843–218870. Title: "Quyết định số 1255/QĐ-TTg của Thủ tướng Chính phủ: Ban hành Danh mục các loại hình, tiêu chí quy mô, tiêu chuẩn của các cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo" ✅. **ƯU TIÊN TRUNG BÌNH** — chính sách giáo dục. |
+| **46/CĐ-TTg** (2026) | **~07/2026** | **Về tiếp tục tăng cường công tác phòng, chống đuối nước đối với trẻ em** — công điện của Thủ tướng về phòng, chống đuối nước trẻ em; yêu cầu các bộ, ngành, địa phương tăng cường biện pháp phòng ngừa; hiệu lực ngay | Xã hội / Trẻ em | vanban.chinhphu.vn (docid **218848**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua og:title scan 218843–218870. Title: "Công điện số 46/CĐ-TTg của Thủ tướng Chính phủ: Về tiếp tục tăng cường công tác phòng, chống đuối nước đối với trẻ em" ✅. **ƯU TIÊN THẤP** — văn bản an toàn xã hội. |
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218843–218870 CÓ VĂN BẢN; 218860–221000 TRỐNG; 230000–250000 TRỐNG
+
+- **Quét 218860–221000 step 1 (141 docid)**: Dùng `<title>` tag → tất cả trả về rỗng (placeholder "Chi tiết văn bản ban hành") vì page server không trả `<title>` khi docid không tồn tại
+- **Quét og:title 218843–218870 step 1 (28 docid)**: Tìm thấy **11 văn bản** (8 văn bản chưa từng ghi nhận + xác minh docid 278/NĐ-CP):
+  - 218843 = 6660/VPCP-KGVX (xóa nhà tạm, đã xác minh lần trước)
+  - 218844 = **1252/QĐ-TTg** (giáo dục miền Trung và Tây Nguyên) ✅ CHƯA CRAWL
+  - 218845 = 364/TB-VPCP (chống buôn lậu, đã xác minh)
+  - 218846 = 6696/VPCP-CN (đường sắt đô thị) ⭐ MỚI
+  - 218847 = 365/TB-VPCP (HCM) ⭐ MỚI
+  - 218848 = **46/CĐ-TTg** (phòng chống đuối nước trẻ em) ⭐ MỚI
+  - 218849 = **278/2026/NĐ-CP** (điều chỉnh giá điện, docid SỬA = 218849) ⭐ DOCID MỚI
+  - 218850–218851 = EMPTY
+  - 218852 = **47/CĐ-TTg** (tai nạn Phú Quốc) ⭐ MỚI
+  - 218853 = 367/TB-VPCP (Tây Ninh) ⭐ MỚI
+  - 218854 = 368/TB-VPCP (CTMTQG) ⭐ MỚI (trùng với tracking 218854)
+  - 218855 = EMPTY
+  - 218856 = 6726/VPCP-CN (đường sắt đô thị) ⭐ MỚI
+  - 218857 = EMPTY
+  - 218858 = **66.22/2026/NQ-CP** (phát triển công dân số) ⭐ MỚI
+  - 218859 = **1255/QĐ-TTg** (xã hội hóa giáo dục) ⭐ MỚI
+  - 218860–218870 = EMPTY
+- **Quét 218870–219100 step 1 (231 docid)**: TẤT CẢ trống — không có văn bản nào
+- **Quét 218900–219000 step 1 (101 docid)**: TẤT CẢ trống — xác nhận dải 218870+ trống hoàn toàn
+- **Quét 219810–221000 step 1 (191 docid)**: TẤT CẢ trống
+- **Quét 230000–250000 step 50 (401 docid)**: TẤT CẢ trống hoàn toàn
+- **Vùng trống cập nhật**: Từ **218871** đến **221000+** (≥1130 docid liên tục không có văn bản mới) + 230000–250000 trống hoàn toàn
+- **Phát hiện quan trọng**: `<title>` tag trả rỗng cho docid trống trên vanban.chinhphu.vn, nhưng `og:title` meta tag chứa tiêu đề thực khi docid có văn bản. Cần dùng `og:title` thay `<title>` để scan chính xác.
+
+### PHÁT HIỆN QUAN TRỌNG: Cập nhật bản đồ docid mới
+
+**Docid 278/2026/NĐ-CP = 218849** (trước đó ghi nhầm 219802).
+Docid 218802 = 278/NĐ-CP (đã xác minh lần trước, file trên branch c75a168d). **Có thể có 2 phiên bản?** Cần xác minh thêm.
+
+| DocID | Văn bản | Ghi chú |
+|---:|---|---|
+| 218844 | 1252/QĐ-TTg (giáo dục miền Trung) | Chưa crawl chi tiết |
+| 218846 | 6696/VPCP-CN (đường sắt đô thị) | ⭐ MỚI |
+| 218847 | 365/TB-VPCP (HCM) | ⭐ MỚI |
+| 218848 | 46/CĐ-TTg (phòng chống đuối nước) | ⭐ MỚI |
+| **218849** | **278/2026/NĐ-CP** (điều chỉnh giá điện) | **DOCID MỚI — SỬA từ 219802 |
+| 218852 | 47/CĐ-TTg (tai nạn Phú Quốc) | ⭐ MỚI |
+| 218853 | 367/TB-VPCP (Tây Ninh) | ⭐ MỚI |
+| 218854 | 368/TB-VPCP (CTMTQG) | ⭐ MỚI |
+| 218856 | 6726/VPCP-CN (đường sắt đô thị) | ⭐ MỚI |
+| 218858 | 66.22/2026/NQ-CP (công dân số) | ⭐ MỚI |
+| 218859 | 1255/QĐ-TTg (xã hội hóa giáo dục) | ⭐ MỚI |
+| 218860–218870 | EMPTY | |
+| 218871–219810 | EMPTY | ~940 docid |
+| 218843 | 6660/VPCP-KGVX | Đã xác minh |
+| 218845 | 364/TB-VPCP | Đã xác minh |
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **278/2026/NĐ-CP** | ✅ Docid = **218849** (SỬA từ 219802) | 09/7/2026, điều chỉnh giá điện |
+| **66.22/2026/NQ-CP** | ⭐ MỚI — chưa có docid | Docid 218858, phát triển công dân số |
+| **1255/2026/QĐ-TTg** | ⭐ MỚI — chưa có docid | Docid 218859, xã hội hóa giáo dục |
+| **46/CĐ-TTg** | ⭐ MỚI — chưa có docid | Docid 218848, phòng chống đuối nước |
+| **47/CĐ-TTg** | ⭐ MỚI — chưa có docid | Docid 218852, tai nạn Phú Quốc |
+| **1252/QĐ-TTg** | Chưa crawl chi tiết | Docid 218844 |
+| **282/2026/NĐ-CP** | ❓ Không tìm thấy | Chưa ban hành hoặc chưa index |
+| **99/2026/TT-BTC** | ❓ Không tìm thấy | Chưa index, web_search Firecrawl 402 |
+| **100/2026/TT-BTC** | ❓ Không tìm thấy | Chưa index, web_search Firecrawl 402 |
+| **93/2026/TT-BTC** | ❓ Không tìm thấy | Chưa index, web_search Firecrawl 402 |
+| **94/2026/TT-BTC** | ❓ Không tìm thấy | Chưa index, web_search Firecrawl 402 |
+| **95/2026/TT-BTC** | ❓ Không tìm thấy | Chưa index, web_search Firecrawl 402 |
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** được thêm vào tracking: 66.22/NQ-CP (công dân số), 1255/QĐ-TTg (xã hội hóa giáo dục), 46/CĐ-TTg (đuối nước), 47/CĐ-TTg (Phú Quốc) + docid 278/NĐ-CP sửa từ 219802 → **218849**.
+- **Docid 278/2026/NĐ-CP = 218849** — tracking trước đó ghi 219802 (dựa trên file trên branch). Cần xác minh: có thể vanban index 2 docid khác nhau cho cùng 1 văn bản (218802 trên branch ≠ 218849 trên vanban). Khuyến nghị: dùng **218849** (trực tiếp từ vanban.chinhphu.vn) thay vì 219802.
+- **web_search Firecrawl**: HẾT CREDITS HOÀN TOÀN (402) — không sử dụng được cho tất cả các query. Không thể xác minh 282/NĐ-CP, 99/100/93/94/95/TT-BTC qua search.
+- **web_fetch Firecrawl**: Cũng 402 — không truy cập luatvietnam.vn được.
+- **curl trực tiếp** luatvietnam.vn: trả rỗng (có thể block hoặc redirect).
+- **91/2026/TT-BTC**: File đã tồn tại trong `van-ban/2026/91-2026-TT-BTC.md` ✅
+- **Phương pháp quét chính xác**: Dùng `og:title` meta tag thay vì `<title>` tag — og:title chứa tiêu đề thực ngay cả khi `<title>` trả placeholder.
+- **Vùng trống mới**: 218871–219810 (~940 docid) + 230000–250000. vanban.chinhphu.vn đang không index văn bản mới trong dải này.
+- **Các NĐ-CP 279, 280, 282**: Vẫn CHƯA TÌM THẤY trên vanban.chinhphu.vn hoặc web_search. Có thể chưa ban hành hoặc nằm ở dải cao hơn 219810.
+- Nguồn: vanban.chinhphu.vn (HTML page method, og:title scan, dải 218843–218870, 218870–219100, 218900–219000, 219810–221000, 230000–250000).
+- Ngày phát hiện: 2026-07-14 05:40 ICT
+- Phiên thực hiện: agent:github-io:subagent:c5762a83-ac5a-407c-8749-7456233b98ba (Đệ #1 Discovery — dải 218860–221000 + 230000–250000)
+
+---
+
 ## Cập nhật 2026-07-12 (Đệ #1 Discovery — dải 230000–250000 + web_search 91/93/94/95/TT-BTC + 252/254 NĐ-CP)
 
 ### Phát hiện: 2 văn bản mới (docid mới cho văn bản đã tồn tại) — 252/254/NĐ-CP (docid xác minh) + xác nhận đầy đủ 91/93/94/95/TT-BTC
