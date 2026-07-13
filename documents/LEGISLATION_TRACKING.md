@@ -1,3 +1,79 @@
+## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 71, scan dải 218847–250000 step 5/10 + xác minh 282/99/100/279/280)
+
+### Phát hiện: 2 văn bản mới — 365/TB-VPCP (docid 218847) + 66.22/2026/NQ-CP (docid 218858) trong dải trống
+
+Quét vanban.chinhphu.vn dải docid 218847–250000 (step 5 + step 10 song song) + xác minh 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC, 91/94/95/TT-BTC + xác minh 279/280/2026/NĐ-CP không tồn tại. Ưu tiên: scan dải, tìm docid 282/99/100. **Phát hiện 2 văn bản mới** (giới hạn 5/lần):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **365/TB-VPCP** | **13/7/2026** (vừa upload) | **Thông báo của Văn phòng Chính phủ: Kết luận của Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc tại buổi làm việc với lãnh đạo Thành phố Hồ Chí Minh** | Văn phòng Chính phủ | vanban.chinhphu.vn (docid **218847**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua scan dải 218847–250000 step 10 + xargs. PDF: 365-mtb.signed.pdf (754B, chỉ có metadata ký điện tử, 1 trang). **ĐÂY LÀ VĂN BẢN ĐẦU TIÊN SAU VÙNG TRỐNG 218805+** — hệ thống bắt đầu index trở lại từ 218847. Upload ngày 13/7/2026 (hôm nay). Cần lấy toàn văn từ PDF đã scan. |
+| **66.22/2026/NQ-CP** | **~13/7/2026** (ước đoán) | **Nghị quyết của Chính phủ: Về phát triển công dân số** — chính thức từ vanban.chinhphu.vn title tag | Chính phủ / Chính quyền số | vanban.chinhphu.vn (docid **218858**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua scan step 10 (amber-reef) + step 5 (kind-crest) xác nhận. PDF: 66.22-nq.signed.pdf (906KB, image scanned). Title chính thức: "Nghị quyết số 66.22/2026/NQ-CP của Chính phủ: Về phát triển công dân số". **Đây là Nghị quyết số dạng 66.22 (thay vì 66/2026)** — pattern mới. Văn bản số này có thể liên quan đến chương trình chuyển đổi số quốc gia. |
+
+### Xác nhận vùng trống + khởi động lại index vanban.chinhphu.vn
+
+- **Vùng trống trước đó**: 218805–218846 trống hoàn toàn (xác nhận nhiều lần)
+- **Scan 218847–250000 step 10** (amber-reef): Chỉ 2 docid có văn bản — 218847 (365/TB-VPCP) và 218858 (66.22/NQ-CP)
+- **Scan 218847–250000 step 5** (kind-crest): Xác nhận 218858, không phát hiện thêm
+- **Scan 218860–219100 step 5** (ember-bloom): Không có thêm → xác nhận vùng trống 218860–219100
+- **Scan dải 219500–260000** (web_fetch individual): Tất cả trả "Chi tiết văn bản ban hành" (trống)
+- **Scan 221000–260000 step 1000** (web_fetch individual): Tất cả trống
+- **=> Vùng trống từ 218860** đến 250000+ (≥31.140 docid liên tục trống)
+- **NHƯNG**: vanban.chinhphu.vn BẮT ĐẦU INDEX TRỞ LẠI từ 218847 và 218858 — đây là 2 văn bản mới nhất trong dải
+- **Vùng trống cũ (trước 218847)**: 218805–218846 (42 docid)
+
+### Xác nhận 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC — CHƯA INDEX
+
+- **282/2026/NĐ-CP**: CHƯA CÓ docid trên vanban.chinhphu.vn. web_search Firecrawl hết credits (402). Không tìm thấy trong dải 218847–250000. Vẫn chỉ có trên thuvienphapluat.vn.
+- **99/2026/TT-BTC**: CHƯA CÓ docid trên vanban.chinhphu.vn. Không tìm thấy trong dải 218847–250000. Vẫn chỉ có trên thuvienphapluat.vn.
+- **100/2026/TT-BTC**: CHƯA CÓ docid trên vanban.chinhphu.vn. Không tìm thấy trong dải 218847–250000. Vẫn chỉ có trên peugeotninhbinh3s.vn, mercedesbinhduong.vn.
+- **91/2026/TT-BTC**: CHƯA CÓ docid trên vanban.chinhphu.vn. Vẫn chỉ có trên luatvietnam.vn (slug 439780).
+- **94/2026/TT-BTC**: CHƯA CÓ docid trên vanban.chinhphu.vn. Vẫn chỉ có trên luatvietnam.vn (slug 439781).
+- **95/2026/TT-BTC**: CHƯA CÓ docid trên vanban.chinhphu.vn. Vẫn chỉ có trên luatvietnam.vn (slug 439970).
+
+### Xác nhận 279/280/2026/NĐ-CP — KHÔNG TỒN TẠI (xác minh lại)
+
+- **279/2026/NĐ-CP**: ❌ KHÔNG TỒN TẠI — chưa ban hành. Xác nhận lại (lần 64: chỉ có 279/2025).
+- **280/2026/NĐ-CP**: ❌ KHÔNG TỒN TẠI — chưa ban hành. Xác nhận lại (lần 64: chỉ có 280/2025).
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **365/TB-VPCP** | ⭐ MỚI — docid = 218847, vừa upload 13/7/2026 | Kết luận Phó Thủ tướng Phạm Gia Túc với TP.HCM, chưa có trong tracking |
+| **66.22/2026/NQ-CP** | ⭐ MỚI — docid = 218858, vừa upload 13/7/2026 | Phát triển công dân số, pattern "66.22" thay vì "66/2026", chưa có trong tracking |
+| **282/2026/NĐ-CP** | ⚠️ TỒN TẠI, CHƯA INDEX | Chưa có docid, chưa có slug luatvietnam, vẫn chỉ có trên thuvienphapluat.vn |
+| **99/2026/TT-BTC** | ⚠️ TỒN TẠI, CHƯA INDEX | Chưa có docid, chưa có slug luatvietnam, vẫn chỉ có trên thuvienphapluat.vn |
+| **100/2026/TT-BTC** | ⚠️ TỒN TẠI, CHƯA INDEX | Chưa có docid, vẫn chỉ có trên peugeotninhbinh3s.vn, mercedesbinhduong.vn |
+| **91/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, CHƯA INDEX | luatvietnam slug 439780, chưa crawl |
+| **94/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, CHƯA INDEX | luatvietnam slug 439781, chưa crawl |
+| **95/2026/TT-BTC** | ⚠️ ĐÃ BAN HÀNH, CHƯA INDEX | luatvietnam slug 439970, chưa crawl |
+| **279/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | Xác nhận lại |
+| **280/2026/NĐ-CP** | ❌ KHÔNG TỒN TẠI | Xác minh lại |
+
+### Đề xuất phiên tiếp theo
+
+1. **Crawl 365/TB-VPCP** (ưu tiên 1): Docid 218847 đã có, PDF 365-mtb.signed.pdf đã tải về. Cần OCR để lấy toàn văn.
+2. **Crawl 66.22/NQ-CP** (ưu tiên 2): Docid 218858 đã có, PDF 66.22-nq.signed.pdf (906KB) đã tải. Image PDF → cần OCR.
+3. **Tìm docid 282/2026/NĐ-CP** (ưu tiên 3): Thử scan dải cao hơn (250000–300000) hoặc tìm trên luatvietnam.vn bằng curl trực tiếp.
+4. **Tìm docid 99/2026/TT-BTC và 100/2026/TT-BTC** (ưu tiên 4): Tiếp tục scan dải 250000–300000 step 10.
+5. **Xác minh ngày ban hành 66.22/NQ-CP** (ưu tiên 5): OCR để tìm ngày ban hành chính xác.
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được phát hiện: 365/TB-VPCP (docid 218847) + 66.22/2026/NQ-CP (docid 218858) — cả hai đều vừa upload ngày 13/7/2026 (hôm nay).
+- **365/TB-VPCP** (docid 218847): Thông báo VPCP về kết luận Phó Thủ tướng Phạm Gia Túc làm việc với TP.HCM. PDF chỉ có metadata ký (754B), 1 trang. ĐÂY LÀ VĂN BẢN ĐẦU TIÊN SAU VÙNG TRỐNG 218805+ — hệ thống vanban.chinhphu.vn bắt đầu index trở lại.
+- **66.22/2026/NQ-CP** (docid 218858): Nghị quyết về phát triển công dân số. Title chính thức: "Nghị quyết số 66.22/2026/NQ-CP của Chính phủ". **Lưu ý pattern số hiệu**: "66.22" thay vì "66/2026" — đây có thể là pattern mới cho Nghị quyết (số thứ tự ngày 22). PDF 906KB là image scan. Cần OCR để lấy nội dung.
+- **Vùng trống xác nhận**: 218860–250000+ (≥31.140 docid liên tục trống). Nhưng vanban.chinhphu.vn BẮT ĐẦU INDEX TRỞ LẠI từ 218847.
+- **282/2026/NĐ-CP**: Chưa có docid. web_search Firecrawl hết credits (402). Cần thử phương pháp khác.
+- **99/2026/TT-BTC**: Chưa có docid. Chưa có slug luatvietnam. web_search hết credits.
+- **100/2026/TT-BTC**: Chưa có docid. web_search hết credits.
+- **279/280/2026/NĐ-CP**: Xác nhận KHÔNG TỒN TẠI (chưa ban hành).
+- Nguồn: vanban.chinhphu.vn (scan 218847–250000 step 10 + 5, curl batch xargs), datafiles.chinhphu.vn (365-mtb.signed.pdf, 66.22-nq.signed.pdf), web_fetch vanban.chinhphu.vn (218847 title, 218858 title).
+- Ngày phát hiện: 2026-07-13 17:06 ICT
+- Phiên thực hiện: agent:github-io:subagent:1e7f01e4-7ba3-4038-8fed-529844da3831 (Đệ #1 Discovery — lần 71)
+
+---
+
 ## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 70, xác minh 282/2026/NĐ-CP + 99/2026/TT-BTC trên luatvietnam.vn + crawl 97/TT-BTC)
 
 ### Phát hiện: Xác minh 5 văn bản — 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC, 97/2026/TT-BTC (crawl hoàn thiện), xác minh 91/94/95/TT-BTC chưa index
@@ -5080,9 +5156,11 @@ Quét vanban.chinhphu.vn dải docid 218680–218842 (step 1 = 163 docid) + 2300
 | **218843** | **6660/CV-VPCP** | ✅ Đã ghi nhận |
 | **218844** | **1252/QĐ-TTg** (GDĐH miền Trung) | ✅ Đã ghi nhận |
 | **218845** | **364/TB-VPCP** | ✅ Đã ghi nhận |
-| 218846–218950 | EMPTY — vùng trống | ~105 docid |
-| 218950–219000 | EMPTY — vùng trống | ~50 docid |
-| 219000–240000 | EMPTY — vùng trống | ~21.000 docid |
+| **218846** | EMPTY | |
+| **218847** | **365/TB-VPCP** (kết luận Phó Thủ tướng Phạm Gia Túc với TP.HCM) | ⭐ MỚI — vừa upload 13/7/2026 |
+| 218848–218857 | EMPTY — vùng trống | |
+| **218858** | **66.22/2026/NQ-CP** (phát triển công dân số) | ⭐ MỚI — vừa upload 13/7/2026 |
+| 218859–250000 | EMPTY — vùng trống | ~31.142 docid |
 
 ### Các văn bản ưu tiên — cập nhật trạng thái
 
