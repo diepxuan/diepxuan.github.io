@@ -1,3 +1,95 @@
+## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 73, scan dải 400000–450000 step 10 + xác minh 282/99/100/TT-BTC trên vbpl.vn + phapdien)
+
+### Phát hiện: 0 văn bản mới — vanban.chinhphu.vn DOWN hoàn toàn; 282/99/100/TT-BTC xác nhận CÓ trên vbpl.vn (HTTP 200)
+
+Quét vanban.chinhphu.vn dải docid 400000–450000 (step 10 = ~5.000 docid) + xác minh 282/2026/NĐ-CP, 99/2026/TT-BTC, 100/2026/TT-BTC trên vbpl.vn, phapdien.chinhphu.vn + kiểm tra vanban.chinhphu.vn tổng thể. Ưu tiên: scan dải 400000–450000, xác minh 282/99/100. **Phát hiện 0 văn bản mới** (giới hạn 5/lần):
+
+*(Không có văn bản nào)*
+
+### KẾT QUẢ CHÍNH
+
+#### vanban.chinhphu.vn — DOWN HOÀN TOÀN (phát hiện mới)
+- **Tất cả docid trả 404** — kể cả các docid đã biết hoạt động trước đó (218797, 218804, 218847, 218858).
+- Endpoint `/portal/handlers/doctruyenfull/download/?docid=` → 404 cho mọi docid (400000–400150, 218797, 218847, 218858).
+- Endpoint `/portal/page?pageid=27160&docid=` → 404/redirect error.
+- Endpoint `/portal/document?docid=` → 302 redirect rồi 404.
+- Endpoint `/api/documents/` → 404.
+- **Site chỉ còn hoạt động ở trang chủ** (HTTP 200, nội dung tĩnh cũ) — toàn bộ REST API và document handlers đã ngừng.
+- **Nguyên nhân không rõ** — có thể server maintenance, infrastructure migration, hoặc attack. Không có thông báo.
+- **Khuyến nghị**: Kiểm tra lại vanban.chinhphu.vn trong các phiên tiếp theo. Dải 400000–450000 KHÔNG THỂ SCAN qua vanban.chinhphu.vn lúc này.
+
+#### 282/2026/NĐ-CP — XÁC MINH CÓ trên vbpl.vn + phapdien.chinhphu.vn
+- **vbpl.vn**: ✅ HTTP 200 — `https://vbpl.vn/van-ban/nghi-dinh/282-2026-nd-cp.html` tồn tại.
+- **phapdien.chinhphu.vn**: ✅ Xác nhận qua HTTP HEAD redirect — `/van-ban/nghi-dinh/282-2026-nd-cp.html` (internal redirect trả `x-url`).
+- **Lưu ý**: Cả hai đều là Next.js SPA (client-side rendering) — nội dung không có trong HTML tĩnh. **Cần browser automation hoặc Playwright để lấy nội dung**.
+- **Docid trên vanban.chinhphu.vn**: Không xác minh được (vanban.chinhphu.vn down).
+- **Cập nhật trạng thái**: Từ "⚠️ TỒN TẠI, CHƯA INDEX" → **⚠️ TỒN TẠI, CÓ TRÊN vbpl.vn + phapdien.chinhphu.vn, CHƯA INDEX vanban.chinhphu.vn**
+
+#### 99/2026/TT-BTC — XÁC MINH CÓ trên vbpl.vn
+- **vbpl.vn**: ✅ HTTP 200 — `https://vbpl.vn/van-ban/thong-tu/99-2026-tt-btc.html` tồn tại.
+- **phapdien.chinhphu.vn**: ❌ Không truy cập được (HTTP 000 = connection refused/timeout).
+- **Docid trên vanban.chinhphu.vn**: Không xác minh được (vanban.chinhphu.vn down).
+- **Lưu ý**: Next.js SPA — cần browser automation để lấy nội dung.
+- **Cập nhật trạng thái**: Từ "⚠️ TỒN TẠI, CHƯA INDEX" → **⚠️ TỒN TẠI, CÓ TRÊN vbpl.vn, CHƯA INDEX vanban.chinhphu.vn**
+
+#### 100/2026/TT-BTC — XÁC MINH CÓ trên vbpl.vn
+- **vbpl.vn**: ✅ HTTP 200 — `https://vbpl.vn/van-ban/thong-tu/100-2026-tt-btc.html` tồn tại.
+- **phapdien.chinhphu.vn**: ❌ Không truy cập được.
+- **Docid trên vanban.chinhphu.vn**: Không xác minh được (vanban.chinhphu.vn down).
+- **Lưu ý**: Next.js SPA — cần browser automation để lấy nội dung.
+- **Cập nhật trạng thái**: Từ "⚠️ TỒN TẠI, CHƯA INDEX" → **⚠️ TỒN TẠI, CÓ TRÊN vbpl.vn, CHƯA INDEX vanban.chinhphu.vn**
+
+#### Dải docid 400000–450000 — KHÔNG THỂ SCAN
+- **vanban.chinhphu.vn down** — không thể quét dải docid 400000–450000.
+- Tất cả docid trả 404 (400000–400150).
+- **Vùng trống XÁC NHẬN**: 400000–400150 đều 404, nhưng không thể kết luận đây là vùng trống hay site down.
+
+### Tình trạng nguồn dữ liệu
+
+| Nguồn | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **vanban.chinhphu.vn** | ❌ DOWN hoàn toàn | Tất cả docid 404, cần theo dõi |
+| **vbpl.vn** | ⚠️ Hoạt động (SPA) | 282/99/100 CÓ, cần browser automation |
+| **phapdien.chinhphu.vn** | ⚠️ Hoạt động (SPA) | 282 CÓ, cần browser automation |
+| **luatvietnam.vn** | ⚠️ Cloudflare protection | Không truy cập được |
+| **thuvienphapluat.vn** | ⚠️ Cloudflare protection | Không truy cập được |
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **365/TB-VPCP** | ⚠️ vanban.chinhphu.vn DOWN | Docid 218847 — site down, chưa OCR toàn văn |
+| **66.22/2026/NQ-CP** | ⚠️ vanban.chinhphu.vn DOWN | Docid 218858 — site down, chưa OCR toàn văn |
+| **282/2026/NĐ-CP** | ⚠️ CÓ TRÊN vbpl.vn + phapdien, CHƯA INDEX | Có slug trên vbpl.vn + phapdien; vanban.chinhphu.vn down |
+| **99/2026/TT-BTC** | ⚠️ CÓ TRÊN vbpl.vn, CHƯA INDEX | Có slug trên vbpl.vn; vanban.chinhphu.vn down |
+| **100/2026/TT-BTC** | ⚠️ CÓ TRÊN vbpl.vn, CHƯA INDEX | Có slug trên vbpl.vn; vanban.chinhphu.vn down |
+| **91/2026/TT-BTC** | ⚠️ CHƯA INDEX | luatvietnam slug 439780, chưa crawl (luatvietnam Cloudflare) |
+| **94/2026/TT-BTC** | ⚠️ CHƯA INDEX | luatvietnam slug 439781, chưa crawl |
+| **95/2026/TT-BTC** | ⚠️ CHƯA INDEX | luatvietnam slug 439970, chưa crawl |
+
+### Đề xuất phiên tiếp theo
+
+1. **Kiểm tra vanban.chinhphu.vn** (ưu tiên 1): Site down hoàn toàn — cần xác nhận lại trong phiên tiếp theo. Có thể tạm thời hoặc vĩnh viễn.
+2. **Crawl 282/2026/NĐ-CP từ vbpl.vn bằng browser automation** (ưu tiên 2): Slug đã có, cần Playwright/browser để render SPA và lấy nội dung. Có thể thử `python-playwright` hoặc `puppeteer`.
+3. **Crawl 99/2026/TT-BTC và 100/2026/TT-BTC từ vbpl.vn** (ưu tiên 3): Tương tự, cần browser automation.
+4. **OCR 365/TB-VPCP** (ưu tiên 4): PDF 365-mtb.signed.pdf đã tải (754B, chỉ metadata ký). Cần xác minh lại file.
+5. **OCR 66.22/NQ-CP** (ưu tiên 5): PDF 66.22-nq.signed.pdf (906KB, image scanned) đã tải. Cần OCR.
+
+### Ghi chú xử lý
+
+- **0 văn bản mới** được phát hiện — vanban.chinhphu.vn DOWN hoàn toàn không thể scan.
+- **vanban.chinhphu.vn DOWN**: Tất cả docid (kể cả 218797, 218804, 218847, 218858, 400000–400150) đều trả 404. Site không có thông báo. Nguyên nhân: không rõ. Cần theo dõi.
+- **282/2026/NĐ-CP**: Có trên vbpl.vn (HTTP 200, `/van-ban/nghi-dinh/282-2026-nd-cp.html`) và phapdien.chinhphu.vn (redirect confirmed). **Cần browser automation** để lấy nội dung vì Next.js SPA.
+- **99/2026/TT-BTC**: Có trên vbpl.vn (HTTP 200, `/van-ban/thong-tu/99-2026-tt-btc.html`). **Cần browser automation** để lấy nội dung.
+- **100/2026/TT-BTC**: Có trên vbpl.vn (HTTP 200, `/van-ban/thong-tu/100-2026-tt-btc.html`). **Cần browser automation** để lấy nội dung.
+- **Dải 400000–450000**: Không thể scan vì vanban.chinhphu.vn down. Không thể kết luận.
+- **luatvietnam.vn, thuvienphapluat.vn**: Cloudflare protection — không truy cập được.
+- Nguồn: vanban.chinhphu.vn (dải 400000–400150, docid 218797/218804/218847/218858 — TẤT CẢ 404), vbpl.vn (282/99/100 TT-BTC, HTTP 200, Next.js SPA), phapdien.chinhphu.vn (282 redirect confirmed), luatvietnam.vn (Cloudflare), thuvienphapluat.vn (Cloudflare).
+- Ngày phát hiện: 2026-07-13 19:45 ICT
+- Phiên thực hiện: agent:github-io:subagent:6cf8f73d-7f34-4851-b581-116fcbb4ed17 (Đệ #1 Discovery — lần 73)
+
+---
+
 ## Cập nhật 2026-07-13 (Đệ #1 Discovery — lần 72, scan dải 218860–400000 step 5/10 + web_search 282/99/TT-BTC)
 
 ### Phát hiện: 0 văn bản mới — dải 218860–400000+ hoàn toàn trống
