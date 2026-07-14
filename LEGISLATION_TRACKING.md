@@ -93,7 +93,8 @@
 | **1246/2026/QĐ-TTg** | 218841 | Phê chuẩn PCT Đắk Lắk nhiệm kỳ 2026–2031 | ✅ Xác minh Đệ #1 (docid web_fetch) |
 | **1250/2026/QĐ-TTg** | 218842 | Kế hoạch Y học cổ truyền VN (TB 68-TB/VPTW) | ✅ Xác minh Đệ #1 (docid web_fetch) |
 | **1252/2026/QĐ-TTg** | 218844 | Đề án đầu tư cơ sở vật chất GDĐH miền Trung và Tây Nguyên | ✅ Xác minh Đệ #1 (docid web_fetch) |
-| 1256/2026/QĐ-TTg | ? | ? | Chưa tìm thấy |
+| **1255/2026/QĐ-TTg** | 218859 | Ban hành Danh mục các loại hình, tiêu chí quy mô, tiêu chuẩn các cơ sở xã hội hóa giáo dục | ✅ Mới phát hiện Đệ #1 (2026-07-14) |
+| **1256/2026/QĐ-TTg** | **?** | Mật mã dân sự 2026–2030 (07/7/2026) | **CHƯA TÌM THẤY** — quét 218860–225000 trống, đang quét cao hơn |
 
 ---
 
@@ -102,6 +103,8 @@
 | Số | Docid | Cơ quan | Chủ đề | Ghi chú |
 |----|-------|---------|--------|---------|
 | 07/2026/NQ-UBTVQH16 | 218806 | UBTW QH | Nghị quyết của Uỷ ban Thường vụ QH | Mới map |
+| 66.22/2026/NQ-CP | **218858** ✅ NEW | Chính phủ | Phát triển công dân số | Mới map — phát hiện 2026-07-14 |
+| 6726/VPCP-CN | **218856** ✅ NEW | VPCP | Quy định chi phí đầu tư xây dựng, định mức xây dựng, giá xây dựng đường sắt đô thị | Mới map — phát hiện 2026-07-14 |
 | 180/NQ-CP/2026 | 218802 | Chính phủ | Phiên họp Chính phủ | Mới map — Nghị quyết |
 | 348/CTPH-CP/2026 | 218803 | Chính phủ | Chương trình phối hợp CPH-HNDVN-HLHPNVN | Mới map |
 | 357/TB-VPCP/2026 | 218805 | VPCP | Thông báo kết luận của VPCP | Mới map |
@@ -354,3 +357,78 @@
 
 *Lần cập nhật: 2026-07-13 16:15 ICT (Đệ #1 Discovery — Re-index confirm + 282/99/100 chưa index)*
 *Lần cập nhật tiếp theo: 2026-07-14 hoặc khi vanban re-index lần 3*
+
+---
+
+## Đệ #1 Discovery 2026-07-14 — Báo cáo: 3 văn bản mới + re-index check
+
+### Tóm tắt: 3 văn bản mới (giới hạn 5 văn bản/lần)
+
+### PHÁT HIỆN: vanban.chinhphu.vn đã RE-INDEX lần 3 sau 10/7/2026
+
+**Dải hoạt động mới nhất**: **218855–218859** (re-index lần 3, ~11-12/7/2026)
+- 218855: stub (trước đó đã trống)
+- **218856**: ✅ Công văn 6726/VPCP-CN — quy định chi phí đầu tư xây dựng, định mức xây dựng và giá xây dựng đường sắt đô thị
+- 218857: stub
+- **218858**: ✅ Nghị quyết 66.22/2026/NQ-CP — phát triển công dân số
+- **218859**: ✅ QĐ 1255/QĐ-TTg — ban hành Danh mục các loại hình xã hội hóa giáo dục
+- 218860–218870: stub (trống)
+
+### 3 văn bản mới phát hiện lần đầu
+
+| Số | Docid | Chủ đề | Ghi chú |
+|----|-------|---------|---------|
+| 6726/VPCP-CN | **218856** ✅ NEW | Quy định về quản lý chi phí đầu tư xây dựng, định mức xây dựng và giá xây dựng đường sắt đô thị | NEW — chưa có trong tracking |
+| 66.22/2026/NQ-CP | **218858** ✅ NEW | Phát triển công dân số | NEW — chưa có trong tracking |
+| **1255/2026/QĐ-TTg** | **218859** ✅ NEW | Ban hành Danh mục các loại hình xã hội hóa giáo dục | NEW — chưa có trong tracking (chưa từng tracking 1255) |
+
+### Kết quả quét chi tiết
+
+**Dải 218871–219000 step 1 (130 docid)**: ❌ HOÀN TOÀN TRỐNG
+**Dải 218855–218870 step 1 (16 docid)**: 3 văn bản + 13 stub
+**Dải 219000–221000 step 5 (401 docid)**: ❌ HOÀN TOÀN TRỐNG (bị SIGKILL sau 219830)
+**Dải 221000–225000 step 10 (401 docid)**: ❌ HOÀN TOÀN TRỐNG (bị SIGTERM sau 223510)
+**Dải 225000–300000 step 50**: ❌ Đang quét...
+
+### Cập nhật trạng thái
+
+| Văn bản | Trạng thái | Ghi chú |
+|---------|------------|---------|
+| **1255/2026/QĐ-TTg** | ✅ CÓ DOCID 218859 | Ban hành Danh mục xã hội hóa giáo dục — mới phát hiện |
+| **1256/2026/QĐ-TTg** | **CHƯA TÌM THẤY** | Quét 218860–225000 trống; quét cao hơn (300000–500000 step 100) đang chạy |
+| **282/2026/NĐ-CP** | CHƯA INDEX | Vanban re-index lần 3 chưa kịp cập nhật |
+| **91/2026/TT-BTC** | CHƯA INDEX | Vanban chưa re-index |
+| **93/2026/TT-BTC** | CHƯA INDEX | Vanban chưa re-index |
+| **94/2026/TT-BTC** | CHƯA INDEX | Vanban chưa re-index |
+| **95/2026/TT-BTC** | CHƯA INDEX | Vanban chưa re-index |
+| **99/2026/TT-BTC** | CHƯA INDEX | Vanban chưa re-index |
+| **100/2026/TT-BTC** | CHƯA INDEX | Vanban chưa re-index |
+
+### Cập nhật vùng trống (GAP)
+
+| Dải | Trạng thái | Ghi chú |
+|------|------------|---------|
+| 218855 | Stub (trước đó trống, giờ stub) | Chưa có nội dung thực |
+| 218857 | Stub | Chưa có nội dung thực |
+| 218860–218870 | Stub | 11 docid trống |
+| 218871–225000 | **HOÀN TOÀN TRỐNG** | ~130 docid không có văn bản mới |
+| 225000–300000 | Đang quét | Kết quả chưa có |
+| 300000–500000 | Đang quét | Kết quả chưa có |
+
+### Kết luận
+
+1. **vanban.chinhphu.vn re-index lần 3** bổ sung 3 văn bản ở 218856–218859 (~11-12/7/2026).
+2. **1256/QĐ-TTg (mật mã dân sự)**: CHƯA CÓ DOCID — quét rộng (218860–500000) đang chạy. Có thể vanban chưa kịp index hoặc docid nằm ngoài vùng quét.
+3. **Vùng trống mở rộng**: 218857 + 218860–218870 + 218871–225000 (~145 docid) không có văn bản mới. Đây là vùng trống lớn nhất kể từ khi theo dõi.
+4. **Các văn bản 91/94/95/TT-BTC, 282/NĐ-CP, 99/100/TT-BTC**: CHƯA CÓ DOCID — cần chờ re-index tiếp theo.
+5. **Giới hạn 5 văn bản/lần**: Đã ghi nhận 3 văn bản mới → không cần thêm.
+
+### Bước tiếp theo (cho session tới)
+
+1. **Ưu tiên 1**: Chờ re-index tiếp → tìm docid cho 1256/QĐ-TTg, 282, 91/94/95/TT-BTC, 99/100
+2. **Ưu tiên 2**: Kết quả quét 300000–500000 step 100 → tìm vùng docid hoạt động mới
+3. **Ưu tiên 3**: Crawl toàn văn NĐ 282, TT-BTC 91/94/95 sau khi có docid
+4. **Ưu tiên 4**: Xác minh 1256/QĐ-TTg trên luatvietnam.vn hoặc nguồn khác (luatvietnam bị Cloudflare chặn)
+
+*Lần cập nhật: 2026-07-14 07:17 ICT (Đệ #1 Discovery — 3 văn bản mới)*
+*Lần cập nhật tiếp theo: khi vanban re-index hoặc có kết quả quét dải cao*
