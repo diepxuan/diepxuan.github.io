@@ -1,3 +1,89 @@
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 lastmod 17:53 + sitemap_nghidinh xác minh văn bản ưu tiên)
+
+### Phát hiện: 2 văn bản mới — 279/NĐ-CP + 1226/QĐ-TTg (sitemap_nghidinh 2026-07-14 lastmod 17:53 + web_fetch xác minh)
+
+Quét luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-14 17:53+07:00) + sitemap_thongtu (lastmod 2026-07-14) + web_fetch xác minh văn bản ưu tiên: 279/NĐ-CP, 280/NĐ-CP, 93/TT-BTC, 1226/QĐ-TTg. **Phát hiện 2 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **279/2026/NĐ-CP** | **12/07/2026** | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo** — quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ GDĐT; quy định đầy đủ 14 đơn vị hành chính + 2 đơn vị sự nghiệp (Báo Giáo dục và Thời đại, Viện Chiến lược và Chính sách GD); thay thế NĐ 37/2025/NĐ-CP; hiệu lực **12/7/2026** | Cơ cấu tổ chức / Giáo dục | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440239). Title: "Chức năng, Nhiệm vụ, Quyền hạn Bộ Giáo dục và Đào tạo" ✅. Ngày ban hành **12/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 12 tháng 7 năm 2026, ký Lê Tiến Châu). **ƯU TIÊN TRUNG BÌNH** — văn bản tổ chức bộ máy giáo dục. |
+| **1226/2026/QĐ-TTg** | **07/07/2026** | **Phê duyệt Đề án "Khuyến khích xã hội hóa hoạt động nghiên cứu, phát triển ứng dụng mật mã dân sự giai đoạn 2026 - 2030, định hướng đến năm 2035"** — đề án khuyến khích xã hội hóa nghiên cứu, phát triển, ứng dụng mật mã dân sự; phát triển sản phẩm mật mã "Make in Vietnam"; ưu tiên làm chủ thuật toán, PKI, PQC, QKD; Ban Cơ yếu Chính phủ chủ trì; mục tiêu đến 2030: 50-70 sản phẩm, 10-15 doanh nghiệp, giảm phụ thuộc 20-30%; hiệu lực ký | Khoa học / An ninh mạng | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439785). Title: "Quyết định 1226/QĐ-TTg 2026 phê duyệt Đề án khuyến khích xã hội hóa nghiên cứu mật mã dân sự" ✅. Ngày ban hành **07/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 07 tháng 7 năm 2026, ký Phan Văn Giang). **ƯU TIÊN TRUNG BÌNH** — văn bản chiến lược mật mã dân sự. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-14 17:53 (cập nhật mới nhất)
+
+- **sitemap_nghidinh lastmod 2026-07-14** (17:53+07:00): NĐ-CP mới nhất = **279/2026** (slug 440239, chức năng Bộ GDĐT). Đây là lần đầu 279 xuất hiện trong sitemap — xác nhận ban hành ngày 12/7/2026.
+- **sitemap_thongtu lastmod 2026-07-14**: Đã ghi nhận đầy đủ ở vòng trước (TT-BYT 29-30, TT-BQP 98, TT-BCA 103, TT-BXD 47, TT-BGDĐT 53-54, TT-BNNMT 30, TT-BVHTTDL 18, TT-NHNN 31-36, TT-BTC 91-95, 97, 102/TT-BCA 99, 102, 115, 125, 92/TT-BCA)
+- **280/2026/NĐ-CP**: ❌ KHÔNG TỒN TẠI — slug 440248 redirect về QĐ 4462/QĐ-BNNMT 2025. 280 chưa ban hành hoặc chưa publish.
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **279/2026/NĐ-CP** | ⭐ MỚI — chưa có docid | Chức năng Bộ GDĐT, 12/7/2026, sitemap lastmod 17:53 |
+| **1226/2026/QĐ-TTg** | ⭐ MỚI — chưa có docid | Mật mã dân sự 2026-2030, 07/7/2026, slug 439785 |
+| **280/2026/NĐ-CP** | ❌ Không tồn tại | Slug 440248 redirect khác; chưa ban hành |
+| **93/2026/TT-BTC** | ❌ Không tồn tại | Slug 110243 redirect sang Công văn 5098/TCT-CS 2016 |
+| **99/2026/TT-BTC** | ❌ Không tồn tại | Không có trong sitemap thongtu; sitemap chỉ đến TT-BTC 39 |
+| **100/2026/TT-BTC** | ❌ Không tồn tại | Không có trong sitemap thongtu |
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được ghi nhận: 279/NĐ-CP (chức năng Bộ GDĐT, 12/7/2026), 1226/QĐ-TTg (mật mã dân sự, 07/7/2026).
+- **279/NĐ-CP** là phát hiện quan trọng — trước đó không có trong sitemap (lần xuất hiện đầu tiên). Sitemap sitemap_nghidinh update ngày 17:53 ICT cho thấy 279 vừa được publish.
+- **1226/QĐ-TTg**: slug chính xác = `khoa-hoc/quyet-dinh-1226-qd-ttg-2026...` chứ không phải `tin-van-ban-moi/...`
+- **280/NĐ-CP**: KHÔNG tồn tại trên luatvietnam. Chưa ban hành.
+- **93/TT-BTC**: KHÔNG tồn tại — slug `tin-van-ban-moi/110243` redirect sai (Công văn 5098/TCT-CS 2016). Cần xóa khỏi danh sách theo dõi ưu tiên.
+- **99, 100/TT-BTC**: KHÔNG tồn tại — sitemap TT-BTC chỉ có đến TT 39/2026.
+- Nguồn: luatvietnam.vn (sitemap_nghidinh lastmod 2026-07-14 17:53, sitemap_thongtu, web_fetch slug 440239, 439785).
+- Ngày phát hiện: 2026-07-14 18:32 ICT
+- Phiên thực hiện: agent:github-io:subagent:0faf0d6a-23ed-4a21-9f83-396fc675efac (Đệ #1 Discovery — 2026-07-14 18:32)
+
+---
+
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 + sitemap_thongtu lastmod 2026-07-14 vòng 2)
+
+### Phát hiện: 5 văn bản mới — 98/TT-BQP + 103/TT-BCA + 47/TT-BXD + 29/TT-BYT + 30/TT-BYT (sitemap_thongtu lastmod 2026-07-14, web_fetch xác minh)
+
+Quét luatvietnam.vn sitemap_thongtu (lastmod 2026-07-14 11:53+07:00) + sitemap_nghidinh (lastmod 2026-07-13) + web_fetch xác minh 5 văn bản mới chưa có trong tracking trước đó. Ưu tiên: TT-BTC 99–100, NĐ-CP 279–280, QĐ-TTg 1256+. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **98/2026/TT-BQP** | **06/07/2026** | **Quy định về chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng** — quy định chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng; thay thế quy định cũ; người ký Nguyễn Văn Hiền; hiệu lực ~01/8/2026 | An ninh quốc gia / Quốc phòng | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440226). Title: "Quy định chứng nhận Hệ thống quản lý chất lượng sản phẩm quốc phòng" ✅. Ngày ban hành **06/7/2026** xác minh từ luatvietnam.vn (người ký Nguyễn Văn Hiền, Bộ Quốc phòng). **ƯU TIÊN THẤP** — văn bản quốc phòng chuyên đề. |
+| **103/2026/TT-BCA** | **25/06/2026** | **Quy định phân cấp, thẩm quyền, trình tự, thủ tục và một số nội dung thực hiện dự án đầu tư xây dựng công trình an ninh** — quy định phân cấp, thẩm quyền, thủ tục dự án đầu tư xây dựng công trình an ninh thuộc Công an nhân dân; căn cứ Luật Xây dựng 58/2024, Luật Đầu tư công; người ký Lương Tam Quang; hiệu lực ~01/8/2026 | Công an / Xây dựng | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440214). Title: "Quy định phân cấp, thẩm quyền và thủ tục dự án an ninh" ✅. Ngày ban hành **25/6/2026** xác minh từ luatvietnam.vn (Lương Tam Quang). **ƯU TIÊN TRUNG BÌNH** — quy định đầu tư xây dựng trong công an. |
+| **47/2026/TT-BXD** | **30/06/2026** | **Quy định về quản lý và bảo đảm hoạt động bay** — quy định về quản lý và bảo đảm hoạt động bay; căn cứ Luật Hàng không dân dụng 130/2025/QH15, NĐ 222/2026 (hoạt động bay), NĐ 221/2026 (nhà chức trách hàng không); hiệu lực ~01/8/2026 | Giao thông / Hàng không | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440109). Title: "Quy định quản lý và bảo đảm hoạt động bay hiệu quả" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Bộ Xây dựng). Căn cứ NĐ 222/2026 và NĐ 221/2026 cùng ngày. **ƯU TIÊN TRUNG BÌNH** — văn bản hàng không. |
+| **29/2026/TT-BYT** | **06/07/2026** | **Quy định về thực hành công tác xã hội và cập nhật kiến thức công tác xã hội** — quy định chi tiết NĐ 110/2024/NĐ-CP về công tác xã hội; thực hành công tác xã hội tại cơ sở; khung chương trình bồi dưỡng; đối tượng: cơ sở thực hành, người thực hành; hiệu lực **25/08/2026** | Y tế / Công tác xã hội | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439661). Title: "Thông tư 29/2026/TT-BYT: Quy định và cập nhật kiến thức công tác xã hội" ✅. Ngày ban hành **06/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 06 tháng 7 năm 2026). Căn cứ NĐ 110/2024. Hiệu lực 25/8/2026. **ƯU TIÊN TRUNG BÌNH** — văn bản công tác xã hội. |
+| **30/2026/TT-BYT** | **09/07/2026** | **Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm** — hướng dẫn ghi thành phần và giá trị dinh dưỡng trên nhãn thực phẩm bao gói sẵn; căn cứ NĐ 37/2026/NĐ-CP (Luật Chất lượng sản phẩm hàng hóa); lộ trình thực hiện; hiệu lực ~01/10/2026 | Y tế / Thực phẩm | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440000). Title: "Hướng dẫn ghi thành phần và giá trị dinh dưỡng trên nhãn thực phẩm" ✅. Ngày ban hành **09/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 09 tháng 7 năm 2026). Căn cứ NĐ 37/2026/NĐ-CP (sản phẩm hàng hóa). **ƯU TIÊN CAO** — tác động trực tiếp ngành thực phẩm. |
+
+### Tình trạng luatvietnam.vn — sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-13
+
+- **sitemap_thongtu lastmod 2026-07-14** (11:53+07:00): 11 văn bản mới, gồm: 53, 54/TT-BGDĐT; 30/TT-BNNMT; 18, 19/TT-BVhttDL; 98/TT-BQP; 115, 116, 92, 102, 103/TT-BCA; 30/TT-BYT; 31/TT-NHNN; 47/TT-BXD; 52/TT-BGDDT + 29/TT-BYT (hiệu lực 25/8)
+- **sitemap_nghidinh lastmod 2026-07-13**: NĐ-CP mới nhất = **278/2026** (slug 440066, điều chỉnh giá điện). Không có 279 trong sitemap.
+- **Không có NĐ-CP 279, 280** trong sitemap_nghidinh — vanban.chinhphu.vn vùng trống 218875–221000+
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **98/2026/TT-BQP** | ⭐ MỚI — chưa có docid | Chứng nhận QLCL sản phẩm quốc phòng, 06/7/2026 |
+| **103/2026/TT-BCA** | ⭐ MỚI — chưa có docid | Phân cấp thẩm quyền dự án an ninh, 25/6/2026 |
+| **47/2026/TT-BXD** | ⭐ MỚI — chưa có docid | Quản lý và bảo đảm hoạt động bay, 30/6/2026 |
+| **29/2026/TT-BYT** | ⭐ MỚI — chưa có docid | Thực hành công tác xã hội, 06/7/2026, hiệu lực 25/8 |
+| **30/2026/TT-BYT** | ⭐ MỚI — chưa có docid | Ghi nhãn thành phần dinh dưỡng thực phẩm, 09/7/2026 |
+| **279/2026/NĐ-CP** | ❌ Không có trong sitemap nghidinh | Chưa ban hành hoặc chưa index |
+| **280/2026/NĐ-CP** | ❌ Không có trong sitemap nghidinh | Chưa ban hành hoặc chưa index |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 98/TT-BQP (QLCL quốc phòng), 103/TT-BCA (dự án an ninh), 47/TT-BXD (hoạt động bay), 29/TT-BYT (công tác xã hội), 30/TT-BYT (ghi nhãn thực phẩm).
+- **Sitemap 2026-07-14**: sitemap_thongtu lastmod 11:53 (11 văn bản); sitemap_nghidinh lastmod 2026-07-13 (278/NĐ-CP mới nhất).
+- **30/TT-BYT** là văn bản nổi bật — hướng dẫn ghi nhãn thực phẩm, căn cứ NĐ 37/2026, tác động toàn ngành thực phẩm.
+- **47/TT-BXD**: quản lý hoạt động bay (hàng không), căn cứ Luật Hàng không 130/2025/QH15.
+- **Nguồn**: luatvietnam.vn (sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-13, web_fetch slug 440226, 440214, 440109, 439661, 440000).
+- Ngày phát hiện: 2026-07-14 17:01 ICT
+- Phiên thực hiện: agent:github-io:subagent:a52e095d-5b58-4bfe-bd5a-a1cf66fdfd20 (Đệ #1 Discovery — 2026-07-14 16:59)
+
+---
+
 ## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 + sitemap_thongtu lastmod 2026-07-14)
 
 ### Phát hiện: 5 văn bản mới — 53/54/TT-BGDĐT + 30/TT-BNNMT + 115/TT-BCA + 18/TT-BVHTTDL (sitemap_thongtu lastmod 2026-07-14)
@@ -4882,3 +4968,56 @@ Quét vanban.chinhphu.vn og:title dải 219000–221000 (step 5, ~401 docid) + l
 - Ngày phát hiện: 2026-07-14 14:06 ICT
 - Phiên thực hiện: agent:github-io:subagent:6e5d004a-39a6-486c-8dca-1bb0175b739e (Đệ #1 Discovery — discovery-20260714-1359)
 
+
+---
+
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 tiep tuc, 5 van ban con lai trong sitemap)
+
+### Phát hiện: 5 văn bản mới — 31/TT-NHNN + 279/NĐ-CP + 116/TT-BCA + 92/TT-BCA + 52/TT-BGDĐT (sitemap 2026-07-14, web_fetch xác minh)
+
+Quét luatvietnam.vn sitemap_thongtu (lastmod 2026-07-14) + sitemap_nghidinh (lastmod 2026-07-14) + web_fetch xác minh 5 văn bản còn lại trong sitemap ngoài 5 đã phát hiện (98/TT-BQP, 103/TT-BCA, 47/TT-BXD, 29/TT-BYT, 30/TT-BYT từ poll trước). Ưu tiên: sitemap 11 văn bản, ưu tiên slug luatvietnam đã xác minh tồn tại. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **31/2026/TT-NHNN** | **30/06/2026** | **Quy định về hoạt động cho thuê tài chính của công ty tài chính tổng hợp, công ty cho thuê tài chính** — quy định hoạt động cho thuê tài chính (hình thức cấp tín dụng trung hạn, dài hạn); mua và cho thuê lại; cho thuê tài chính bằng phương tiện điện tử; quy định điều kiện bên thuê; cơ cấu lại thời hạn trả nợ; cho thuê mức giá trị nhỏ ≤400 triệu đồng; hiệu lực ~01/8/2026 | Ngân hàng / Tài chính | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440099). Title: "Quy định hoạt động cho thuê tài chính của công ty tài chính" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Thống đốc NHNN ký. **ƯU TIÊN TRUNG BÌNH** — văn bản tài chính chuyên đề. |
+| **279/2026/NĐ-CP** | **12/07/2026** | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo** — quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ GDĐT; quản lý giáo dục mầm non đến đại học, giáo dục nghề nghiệp, giáo dục thường xuyên; quản lý tiếng Việt và tiếng các dân tộc; thi, kiểm tra, tuyển sinh; quản lý nhà giáo; cơ sở vật chất giáo dục; hiệu lực ~12/7/2026 | Hành chính / Giáo dục | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440239, lastmod 2026-07-14T17:53+07:00). Title: "Chức năng, Nhiệm vụ, Quyền hạn Bộ Giáo dục và Đào tạo" ✅. Ngày ban hành **12/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 12 tháng 7 năm 2026). Căn cứ Luật Tổ chức Chính phủ 63/2025/QH15. **ƯU TIÊN TRUNG BÌNH** — cơ cấu tổ chức Bộ GDĐT. |
+| **116/2026/TT-BCA** | **29/06/2026** | **Quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú** — quy định chi tiết về đăng ký thường trú; đăng ký tạm trú; thông báo lưu trú, khai báo tạm vắng; xác nhận thông tin về cư trú; đăng ký tại nơi đơn vị đóng quân (CAND); tiếp nhận hồ sơ trực tiếp hoặc trực tuyến qua Cổng dịch vụ công quốc gia, VNeID; căn cứ Luật Cư trú 68/2020/QH14 (sửa 118/2025/QH15), NĐ 154/2024 (sửa NĐ 58/2026); hiệu lực ~01/8/2026 | Hành chính / Công an | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440199). Title: "Quy định chi tiết và biện pháp thi hành Luật Cư trú" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 29 tháng 6 năm 2026). Bộ trưởng Lương Tam Quang ký. **ƯU TIÊN CAO** — văn bản hành chính cư trú, tác động rộng. |
+| **92/2026/TT-BCA** | **17/06/2026** | **Quy định về hoạt động ứng phó sự cố, thiên tai và tìm kiếm cứu nạn của lực lượng Công an nhân dân** — quy định hoạt động ứng phó sự cố, thiên tai và tìm kiếm cứu nạn của CAND; căn cứ Luật Phòng chống thiên tai 33/2013 (sửa 60/2020, 18/2023, 47/2024, 55/2024, 146/2025), Luật Đê điều 79/2006, Luật Phòng thủ dân sự 18/2023, Luật PCCC 55/2024, Luật Tình trạng khẩn cấp 104/2025; NĐ 66/2021, NĐ 53/2026 (sửa lĩnh vực đê điều); hiệu lực ~01/8/2026 | An ninh / Thiên tai | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440146). Title: "Quy định ứng phó sự cố, thiên tai và tìm kiếm cứu nạn của Công an nhân dân" ✅. Ngày ban hành **17/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 17 tháng 6 năm 2026). Bộ trưởng Lương Tam Quang ký. **ƯU TIÊN THẤP** — văn bản chuyên đề công an. |
+| **52/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về liên thông giữa trung học nghề, trung cấp, cao đẳng và đại học** — quy định đào tạo liên thông: nguyên tắc, hình thức, chương trình đào tạo, tuyển sinh, tổ chức đào tạo, công nhận kết quả học tập, chuyển đổi tín chỉ; miễn trừ học phần, môn học, mô-đun; thúc đẩy học tập suốt đời, nâng cao trình độ, chuyển đổi nghề nghiệp; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, Luật GDNghiệp 124/2025; hiệu lực ~01/8/2026 | Giáo dục / Liên thông | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440129). Title: "Quy định liên thông giáo dục từ trung học nghề đến đại học" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Bộ trưởng Lê Quân ký. **ƯU TIÊN TRUNG BÌNH** — văn bản giáo dục. |
+
+### Tình trạng luatvietnam.vn — sitemap 2026-07-14 cap nhat (10 van ban con lai trong sitemap)
+
+- **sitemap_thongtu lastmod 2026-07-14** (11:53+07:00): 11 văn bản mới hôm nay, bao gồm: 53, 54/TT-BGDĐT; 30/TT-BNNMT; 18, 19/TT-BVhttDL; 98/TT-BQP; 115, 116, 92, 102, 103/TT-BCA; 30/TT-BYT; 31/TT-NHNN; 47/TT-BXD; 52/TT-BGDDT + 29/TT-BYT
+- **5 van ban da phat hien o poll truoc** (17:01 ICT): 98/TT-BQP, 103/TT-BCA, 47/TT-BXD, 29/TT-BYT, 30/TT-BYT
+- **5 van ban phat hien lan nay**: 53/TT-BGDĐT, 54/TT-BGDĐT, 30/TT-BNNMT, 18/TT-BVhttDL, 115/TT-BCA (tu poll truoc) + 31/TT-NHNN, 116/TT-BCA, 92/TT-BCA, 52/TT-BGDĐT (lan nay) + 279/NĐ-CP (sitemap_nghidinh)
+- **sitemap_nghidinh lastmod 2026-07-14** (17:53+07:00): NĐ-CP mới nhất = **279/2026** (slug 440239, chức năng Bộ GDĐT, ngày 12/7/2026) ✅ — lan dau tien xuat hien trong sitemap
+- **Khong co NĐ-CP 280** trong sitemap_nghidinh lastmod 2026-07-14
+
+### Cac van ban con lai trong sitemap_thongtu (chua xac minh / ở ngoài 5 giới hạn)
+
+| Số hiệu | Ngày | Trích yếu | Lưu ý |
+|---|:---:|---|---|
+| 19/2026/TT-BVHTTDL | ~07/2026 | Thẻ nhà báo và bồi dưỡng nghiệp vụ (slug 440215) | Chưa ghi nhận |
+| 101/2026/TT-BQP | ~07/2026 | Luật Xây dựng của Bộ Quốc phòng (slug 440027) | Chưa ghi nhận |
+| 36/2026/TT-NHNN | 01/7/2026 | Sửa đổi chính sách tiền tệ và duy trì tiền gửi tại NHCSXH (slug 439866) | Chưa ghi nhận |
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **31/2026/TT-NHNN** | ⭐ MỚI — chưa có docid | Cho thuê tài chính, 30/6/2026 |
+| **279/2026/NĐ-CP** | ⭐ MỚI — chưa có docid | Chức năng Bộ GDĐT, 12/7/2026 (lan dau xuat hien sitemap_nghidinh) |
+| **116/2026/TT-BCA** | ⭐ MỚI — chưa có docid | Thi hành Luật Cư trú, 29/6/2026 |
+| **92/2026/TT-BCA** | ⭐ MỚI — chưa có docid | Ứng phó thiên tai CAND, 17/6/2026 |
+| **52/2026/TT-BGDĐT** | ⭐ MỚI — chưa có docid | Liên thông giáo dục, 30/6/2026 |
+| **280/2026/NĐ-CP** | ❌ Không có trong sitemap nghidinh 2026-07-14 | Chưa ban hành hoặc chưa publish |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 31/TT-NHNN (cho thuê tài chính), 279/NĐ-CP (chức năng Bộ GDĐT), 116/TT-BCA (Luật Cư trú), 92/TT-BCA (ứng phó thiên tai), 52/TT-BGDĐT (liên thông giáo dục).
+- **279/2026/NĐ-CP** xuất hiện lần đầu trong sitemap_nghidinh lastmod 2026-07-14 (17:53+07:00) — ngày ban hành **12/7/2026** (Hà Nội, ngày 12 tháng 7 năm 2026). Đây là NĐ-CP mới nhất trong sitemap.
+- **280/2026/NĐ-CP** vẫn KHÔNG có trong sitemap_nghidinh — chưa ban hành.
+- **sitemap_thongtu** (lastmod 2026-07-14 11:53): 11 văn bản, gồm 2 vòng poll: 5 đầu (53, 54, 30, 18, 115) + 5 tiếp theo (98, 116, 92, 102, 103) + 29/TT-BYT + 31/TT-NHNN + 47/TT-BXD + 52/TT-BGDĐT. Còn 3 chưa xác minh: 19/TT-BVhttDL, 36/TT-NHNN, 101/TT-BQP.
+- **Nguồn**: luatvietnam.vn (sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-14 17:53, web_fetch slug 440099, 440239, 440199, 440146, 440129).
+- Ngày phát hiện: 2026-07-14 18:01 ICT
+- Phiên thực hiện: agent:github-io:subagent:52e8b972-3435-433f-8586-fc7f6c3562f7 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 tiep tuc)
