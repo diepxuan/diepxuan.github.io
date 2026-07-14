@@ -1,3 +1,64 @@
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 + sitemap_thongtu lastmod 2026-07-14)
+
+### Phát hiện: 5 văn bản mới — 53/54/TT-BGDĐT + 30/TT-BNNMT + 115/TT-BCA + 18/TT-BVHTTDL (sitemap_thongtu lastmod 2026-07-14)
+
+Quét luatvietnam.vn sitemap_thongtu (lastmod 2026-07-14 10:32+07:00) + sitemap_nghidinh (lastmod 2026-07-13) + web_fetch xác minh từng văn bản. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **53/2026/TT-BGDĐT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy chế tuyển sinh và đào tạo các trình độ thạc sĩ, tiến sĩ; quy định điều kiện, quy trình, hồ sơ tuyển sinh; đào tạo theo tín chỉ; người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Đại học | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440236). Title: "Quy chế tuyển sinh và đào tạo sau đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (người ký Lê Quân, Bộ GDĐT). **ƯU TIÊN TRUNG BÌNH** — văn bản giáo dục quan trọng. |
+| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chương trình đào tạo trình độ đại học; nội dung, chuẩn chương trình, thiết kế chương trình, đánh giá kết quả; thay thế quy định cũ; người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Đại học | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440237). Title: "Quy định chương trình đào tạo đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Có thể thay thế QĐ 1982/QĐ-TTg (2017). **ƯU TIÊN CAO** — văn bản nền tảng giáo dục đại học. |
+| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — quy định phương pháp, thiết bị, quy trình kỹ thuật bay đo từ và phổ gamma trong điều tra địa chất; áp dụng cho điều tra cơ bản địa chất, thăm dò khoáng sản; người ký Đặng Ngọc Điệp | Tài nguyên / Địa chất | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440247). Title: "Quy định kỹ thuật bay đo từ, phổ gamma trong địa chất" ✅. Ngày ban hành **13/7/2026** xác minh từ luatvietnam.vn. **ƯU TIÊN THẤP** — văn bản kỹ thuật chuyên đề. |
+| **115/2026/TT-BCA** | **29/06/2026** | **Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không** — quy định thẻ, giấy phép, chứng nhận an ninh hàng không; điều kiện cấp, thu hồi, thời hạn; thay thế quy định cũ; người ký Lương Tam Quang; hiệu lực **01/7/2026** | Giao thông / Hàng không | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440224). Title: "Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Lương Tam Quang). Liên quan đến 215/NĐ-CP (an ninh hàng không, 30/6/2026). **ƯU TIÊN TRUNG BÌNH** — văn bản hàng không. |
+| **18/2026/TT-BVHTTDL** | **26/06/2026** | **Quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập** — quy định định mức kinh tế kỹ thuật các dịch vụ của bảo tàng công lập; người ký Lâm Thị Phương Thanh; hiệu lực ~01/8/2026 | Văn hóa / Bảo tàng | vanban.chinhphu.vn (docid **218811** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440227). Title: "Quy định định mức kinh tế kỹ thuật bảo tàng công lập" ✅. Ngày ban hành **26/6/2026** xác minh từ web_search + bvhttdl.gov.vn. Docid 218811 đã xác minh từ lần trước. **ƯU TIÊN THẤP** — văn bản văn hóa chuyên đề. |
+
+### Tình trạng luatvietnam.vn — sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-13
+
+- **sitemap_thongtu lastmod 2026-07-14** (10:32–11:53 ICT): 11 văn bản mới hôm nay, bao gồm: 53, 54/TT-BGDĐT; 30/TT-BNNMT; 18, 19/TT-BVhttDL; 98/TT-BQP; 115, 116, 92, 102, 103/TT-BCA; 30/TT-BYT; 31/TT-NHNN; 36/TT-NHNN; 47/TT-BXD; 52/TT-BGDDT
+- **sitemap_nghidinh lastmod 2026-07-13**: NĐ-CP mới nhất = **278/2026** (slug 440066, điều chỉnh giá điện). Không có NĐ-CP 279 trong sitemap.
+- **37/2026/NĐ-CP** (chất lượng sản phẩm): xác nhận ban hành **23/01/2026** ✅
+
+### Các văn bản mới phát hiện trong sitemap ngoài 5 ưu tiên (ghi nhận để theo dõi)
+
+| Số hiệu | Ngày | Trích yếu | Lưu ý |
+|---|:---:|---|---|
+| 98/2026/TT-BQP | 06/7 | Chứng nhận Hệ thống QLCL sản phẩm quốc phòng (slug 440226) | Chưa ghi nhận |
+| 19/2026/TT-BVhttDL | ~07 | Thẻ nhà báo và bồi dưỡng nghiệp vụ (slug 440215) | Chưa ghi nhận |
+| 116/2026/TT-BCA | ~07 | Luật Cư trú (slug 440199) | Chưa ghi nhận |
+| 92/2026/TT-BCA | ~07 | Ứng phó sự cố thiên tai và tìm kiếm cứu nạn CAND (slug 440146) | Chưa ghi nhận |
+| 101/2026/TT-BQP | ~07 | Luật Xây dựng của Bộ Quốc phòng (slug 440027) | Chưa ghi nhận |
+| 30/2026/TT-BYT | 09/7 | Hướng dẫn ghi thành phần dinh dưỡng trên nhãn thực phẩm (slug 440000), căn cứ 37/2026/NĐ-CP | Chưa ghi nhận |
+| 47/2026/TT-BXD | ~07 | Quản lý và bảo đảm hoạt động bay (slug 440109) | Chưa ghi nhận |
+| 31/2026/TT-NHNN | 30/6 | Cho thuê tài chính của công ty tài chính (slug 440099) | Chưa ghi nhận |
+| 36/2026/TT-NHNN | 01/7 | Sửa đổi chính sách tiền tệ và duy trì tiền gửi tại NHCSXH (slug 439866) | Chưa ghi nhận |
+| 52/2026/TT-BGDĐT | ~07 | Liên thông giáo dục từ trung học nghề đến đại học (slug 440129) | Chưa ghi nhận |
+
+### Các văn bản đã ghi nhận — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **53/2026/TT-BGDĐT** | ⭐ MỚI — chưa có docid | Tuyển sinh và đào tạo sau đại học, 30/6/2026 |
+| **54/2026/TT-BGDĐT** | ⭐ MỚI — chưa có docid | Chương trình đào tạo đại học, 30/6/2026 |
+| **30/2026/TT-BNNMT** | ⭐ MỚI — chưa có docid | Kỹ thuật bay địa chất, 13/7/2026 |
+| **115/2026/TT-BCA** | ⭐ MỚI — chưa có docid | An ninh hàng không, 29/6/2026 |
+| **18/2026/TT-BVHTTDL** | ⭐ MỚI — docid 218811, ngày **26/6/2026** | Định mức bảo tàng công lập |
+| **278/2026/NĐ-CP** | Docid 218849 ✅ | Điều chỉnh giá điện, sitemap lastmod 2026-07-13 |
+| **279/2026/NĐ-CP** | ❌ Không có trong sitemap nghidinh | Chưa ban hành |
+| **280/2026/NĐ-CP** | ❌ Không có trong sitemap nghidinh | Chưa ban hành |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 53/TT-BGDĐT (tuyển sinh sau đại học), 54/TT-BGDĐT (chương trình đào tạo đại học), 30/TT-BNNMT (kỹ thuật bay địa chất), 115/TT-BCA (an ninh hàng không), 18/TT-BVHTTDL (định mức bảo tàng công lập).
+- **Sitemap ngày 2026-07-14**: sitemap_thongtu lastmod 10:32–11:53 (11 văn bản mới hôm nay); sitemap_nghidinh lastmod 2026-07-13 (chỉ 278/NĐ-CP được index).
+- **18/TT-BVHTTDL**: docid 218811 đã xác minh; ngày ban hành chính xác = **26/6/2026** (trước đó ghi "~\/2026").
+- **NĐ-CP 279, 280**: Không có trong sitemap nghidinh. Có thể chưa ban hành.
+- **vanban.chinhphu.vn**: Dải 218871–219000+ hoàn toàn trống. Vùng trống tiếp tục mở rộng.
+- Nguồn: luatvietnam.vn (sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-13, web_fetch slug 440247, 440237, 440236, 440224, 440227, 440099, 439866, 440000), web_search (37/2026/NĐ-CP).
+- Ngày phát hiện: 2026-07-14 14:50 ICT
+- Phiên thực hiện: agent:github-io:subagent:0f443dd5-972b-4a60-a7c8-d0b1bc82aae9 (Đệ #1 Discovery — 2026-07-14 14:35)
+
+---
+
 ## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam + vanban og:title dải 218871–218970)
 
 ### Phát hiện: 5 văn bản mới — TT-BTC 92, TT-BCA 99/102/125, TT-NHNN 32 (sitemap luatvietnam; vanban 218871–218970 hoàn toàn trống)
