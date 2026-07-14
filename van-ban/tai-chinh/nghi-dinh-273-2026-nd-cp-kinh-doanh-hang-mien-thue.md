@@ -1,0 +1,1794 @@
+---
+layout: vanban
+title: "Nghị định số 273/2026/NĐ-CP về kinh doanh hàng miễn thuế"
+date: 2026-07-07
+modified: 2026-07-12
+group: tai-chinh
+tags:
+  - hải quan
+  - kinh doanh hàng miễn thuế
+  - chính phủ
+docid: 218801
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+number: "273/2026/NĐ-CP"
+effective: "2026-07-01"
+issued_by: "Chính phủ"
+sign_time: "2026-07-08T16:55:00+07:00"
+---
+
+# Nghị định số 273/2026/NĐ-CP về kinh doanh hàng miễn thuế
+
+## THÔNG TIN VĂN BẢN
+
+| Trường | Giá trị |
+|--------|---------|
+| Số ký hiệu | 273/2026/NĐ-CP |
+| Ngày ban hành | 2026-07-07 |
+| Ngày hiệu lực | 2026-07-01 |
+| Nơi ban hành | Hà Nội |
+| Cơ quan ban hành | Chính phủ |
+| Thời gian ký số | 2026-07-08T16:55:00+07:00 |
+
+## VĂN BẢN
+
+
+### Điều 1. Phạm vi điều chỉnh
+
+Nghị định này quy định về quản lý hải quan, thủ tục hải quan, kiểm tra,
+
+### Điều 2. Đối tượng áp dụng
+
+1. Người xuất cảnh, quá cảnh, nhập cảnh.
+2. Đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam.
+3. Thuyền viên làm việc trên tàu biển chạy tuyến quốc tế.
+4. Hành khách trên các chuyến bay quốc tế đi và đến Việt Nam.
+5. Doanh nghiệp đủ điều kiện kinh doanh hàng miễn thuế theo quy định
+6. Cơ quan hải quan, công chức hải quan.
+7. Đơn vị kinh doanh cảng biển, cảng hàng không dân dụng quốc tế, ga
+8. Ban quản lý khu kinh tế cửa khẩu đường bộ quốc tế, đơn vị được giao
+9. Tổ chức có quyền và nghĩa vụ liên quan đến hoạt động kinh doanh
+10, Các cơ quan khác của Nhà nước trong việc phối hợp quản lý nhà
+
+### Điều 3. Nguyên tắc quản lý đối với hàng miễn thuế
+
+1. Chính sách thuế đối với hàng hóa đưa vào bán tại cửa hàng miễn thuế,
+kho chứa hàng miễn thuế thực hiện theo quy định của pháp luật về thuế, quản
+2. Chính sách quản lý chuyên ngành đối với hàng hóa đưa vào bán tại
+cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện theo quy định của
+3. Hàng hóa đưa vào bán tại cửa hàng miễn thuế bao gồm: Hàng hóa tạm
+nhập khẩu từ nước ngoài, khu phi thuế quan, kho ngoại quan; hàng hóa từ nội
+Hàng hóa tạm nhập khẩu từ nước ngoài, khu phi thuế quan, kho ngoại
+quan đưa vào bán tại cửa hàng miễn thuế là mặt hàng không thuộc danh mục
+hàng tạm nhập khẩu, tạm ngừng nhập khẩu theo quy định của pháp luật về
+quản lý ngoại thương và quản lý hải quan theo loại hình tạm nhập, tái xuất.
+đưa vào bán tại cửa hàng miễn thuế là mặt hàng không thuộc danh mục hàng
+cấm xuất khẩu, tạm ngừng xuất khẩu. Trường hợp hàng hóa thuộc mặt hàng...
+xuất khẩu có điều kiện thì phải đáp ứng các điều kiện theo quy định của pháp
+4. Hàng hóa từ nội địa được phép | lưu thông theo quy định của pháp luật
+Việt Nam đưa vào bán tại cửa hàng miễn thuế được cơ quan hải quan quản lý,
+thuế, kho chứa hàng miễn thuế của doanh nghiệp kinh đoanh hàng miễn thuế.
+5. Hàng hóa bán tại cửa hàng miễn thuế phải được lưu giữ tại cửa hàng miễn
+thuế, kho chứa hàng miễn thuế của doanh nghiệp kinh doanh hàng miễn thuế.
+6. Thời gian lưu giữ hàng hóa tại cửa hàng miễn thuế theo quy định tại
+điểm a khoản 2 Điều 47 Luật Hải quan số 54/2014/QH13 ngày 23 tháng 6
+năm 2014.
+7. Các mặt hàng thuốc lá, xì gà, rượu, bia, bán tại cửa hàng miễn thuế
+phải dán tem “VIET NAM DUTY NOT PAID” do Bộ Tài chính phát hành.
+Vị trí dán tem “VIET NAM DUTY NOT PAID” thực hiện theo Phụ lục I ban
+hành kèm theo Nghị định này. Tem phải được dán trước khi bày bán tại cửa
+hàng miễn thuế hoặc trước khi giao cho đối ¡ tượng mua hàng trong trường hợp
+hàng được xuất thẳng từ kho chứa hàng miễn thuế đến đối tượng mua hàng.
+8. Hàng hóa bị đổ vỡ, hư hỏng, mất phẩm chất, kém chất lượng, hết hạn
+sử dụng, không được bán phục vụ tiêu dùng: Doanh nghiệp lập biên bản về
+tình trạng hàng hóa để tiêu hủy (có xác nhận của Hải quan quản lý cửa hàng
+miễn thuế, kho chứa hàng miễn thuế) và tổ chức tiêu hủy theo quy định.
+Trước khi thực hiện tiêu hủy, doanh nghiệp phải có văn bản thông báo cụ thể
+về kế hoạch tiêu hủy cho Hải quan quản lý cửa hàng miễn thuế, kho chứa
+9. Hàng hóa là hàng mẫu, hàng dùng thử đưa vào cửa hàng miễn thuế
+cho khách mua hàng dùng thử (giấy thử mùi nước hoa, rượu, mỹ phẩm, nước
+hoa,...), túi, bao bi nhập khẩu để đựng hàng miễn thuế cho khách mua hàng,
+doanh nghiệp thực hiện quản lý riêng hàng hóa này, đảm bảo sử dụng dúng,
+mục đích và phải báo cáo quyết toán với cơ quan hải quan theo quy định tại
+Điều 19 Nghị định này.
+
+### Điều 4. Đồng tiền dùng trong giao dịch bán hàng miễn thuế
+
+1. Đồng Việt Nam.
+2. Đồng ngoại tệ đô la Mỹ (USD), euro (EUR).
+3. Đồng tiền của nước có chung biên giới đất liền với địa điểm đặt cửa
+4. Đồng tiền của quốc gia nơi các chuyến bay quốc tế của các hãng hàng
+không được thành lập và hoạt động theo pháp luật Việt Nam thực hiện nhập
+cánh, quá cánh tại quốc gia đó.
+
+### Điều 5. Đối tượng và điều kiện mua hàng miễn thuế
+
+1. Người xuất cảnh, quá cảnh sau khi hoàn thành thủ tục xuất cảnh, quá
+a) Người xuất cảnh, quá cảnh qua các cửa khẩu đường bộ quốc tế, ga
+đường sắt liên vận quốc tÊ, cảng biển, cảng hàng không dân dụng quốc tế
+được mua hàng miễn thuê tại cửa hàng miễn thuế nằm trong khu vực cách ly;
+b) Người chờ xuất cảnh được mua hàng miễn thuế tại cửa hàng miễn
+thuế trong nội địa và nhận tại quây nhận hàng trong khu cách ly tại cửa khẩu
+c) Ngoài địa điểm nhận hàng quy định tại khoản này, khách mua hàng
+quy định tại điểm a, điểm b khoản này được nhận bàng ở nước ngoài.
+2. Hành khách trên các chuyến bay quốc tế xuất cảnh từ Việt Nam được
+mua hàng miễn thuế trên tàu bay xuất cảnh. Hành khách trên các chuyến bay
+quốc tế đến Việt Nam được mua hàng miễn thuế trên tàu bay đang thực hiện
+3. Người nhập cảnh được mua hàng miễn thuế tại cửa hàng miễn thuế
+đặt tại khu vực hạn chế của cảng hàng không dân dụng quốc tế ngay sau khi
+hoàn thành thú tục nhập cảnh, không được mua hàng miễn thuÊ sau khi đã ra
+4. Đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam được mua
+hàng miễn thuế tại cửa hàng miễn thuế trong nội địa. Khi mua hàng miễn thuế
+cho tổ chức phải xuất trình số định mức hàng miễn thuế. Khi mua hàng miễn
+5. Đối tượng mua hàng là thuyền viên làm việc trên tàu biển chạy tuyến
+quốc tế (bao gồm tàu biển có quốc tịch nước ngoài và tàu biển có quốc tịch
+Việt Nam chạy tuyến quốc tế) được mua hàng miễn thuế tại cảng biển, cửa
+hàng miễn thuế trong nội địa phục vụ cho nhu cầu cá nhân, nhủ cầu sinh hoạt
+chung của thuyền viên để sử dụng trên tàu trong thời gian tàu neo đậu tại cảng
+biển Việt Nam và để sử dụng trên tàu ngoài lãnh hải Việt Nam sau khi tàu
+a) Trường hợp mua hàng miễn thuế phục vụ nhu cầu cá nhân thuyền viên
+b) Trường hợp mua hàng miễn thuế phục vụ nhụ cầu sinh hoạt chung của
+thuyền viên trong thời gian tàu neo đậu tại cảng biển Việt Nam, người mua
+hàng phải cung cấp thông tin số hiệu tàu, ngày tàu nhập cảnh, số hộ chiếu của
+c) Trường hợp hàng miễn thuế phục vụ nhu cầu của thuyền viên cho
+hành trình tiếp theo ngoài lãnh hải Việt Nam, người mua hàng phải cùng, cấp
+thông tin về số hiệu tàu, ngày tàu nhập cảnh, số hộ chiếu của từng thuyền
+viên. Hàng hóa phải được đưa vào kho chứa của tàu để cơ quan, hải quan nơi
+tàu xuất cảnh niêm phong, xác nhận, giám sát cho đến khi tàu xuất cảnh.
+6. Trong quá trình thực hiện, trường hợp thông tin cá nhân của người
+mua hàng miễn thuế có thể khai thác được từ Cơ sở đữ liệu quốc gia về dân
+cư, Cơ sở dữ liệu quốc gia khác hoặc Cơ sở đữ liệu chuyên ngành thì không
+yêu cầu người mua hàng miễn thuế xuất trình bản giấy các loại giấy tờ cung
+
+### Điều 6. Định lượng mua hàng miễn thuế
+
+1. Người xuất cảnh, quá cảnh, người chờ xuất cảnh quy định tại khoản 1
+Điều 5 Nghị định này hoặc hành khách trên các chuyến bay quốc tế xuất cảnh
+từ Việt Nam quy định tại khoản 2 Điều 5 Nghị định này được mua hàng miễn
+thuế không hạn chế số lượng và trị giá nhưng phải tự chịu trách nhiệm về thủ
+2. Hành khách trên các chuyến bay quốc tế đến Việt Nam, người nhập
+cảnh quy định tại khoản 2, khoản 3 Điều 5 Nghị định này được mua hàn,
+miễn thuế theo định mức quy định tại khoản 1, khoản 2 Điều 6 Nghị định SỐ
+134/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ quy định chỉ tiết
+một số điều và biện pháp thi hành Luật Thuế xuất khẩu, thuế nhập khẩu.
+3. Đối tượng quy định tại khoản 4 Điều 5 Nghị định này được mua hàng
+miễn thuế theo định lượng quy định tại Điều 5 Nghị định số 134/2016/NĐ- CP
+ngày 01 tháng 9 năm 2016 của Chính hủ quy định chỉ tiết một số điều và
+biện pháp thi hành Luật Thuế xuất khẩu, thuê nhập khẩu. Trường hợp mua
+hàng tại cửa hàng miễn thuế trong cửa khẩu đường bộ quốc, tế, ga đường sắt
+liên vận quốc tế, cảng biển, cảng hàng không dân dụng quỗc tế thì áp dụng
+định mức như đối với người xuất cảnh, nhập cảnh.
+4. Đối tượng quy định tại điểm a, điểm b khoản 5 Điều 5 Nghị định này
+được mua hàng | miễn thuế phục vụ cho nhu cầu cá nhân, nhu câu sinh hoạt
+chung của thuyền viên trên tàu biển chạy tuyến quốc tế trong thời gian tàu
+biển neo đậu tại cảng biển Việt Nam, định mức mỗi thuyền viên trong một lần
+tàu neo đậu tại cảng biển Việt Nam như sau:
+__8) Rượu từ 20 độ trở lên: 1,5 lít hoặc rượu dưới 20 độ: 2,0 lít hoặc đồ
+uống có cồn, bia: 3,0 lít.
+Đối với rượu nguyên chai, bình, lọ, can (sau đây viết tắt là chai) có dung
+tích lớn hơn dung tích quy định định mức tại điểm a khoản 4 Điều này nhưng
+không vượt quá 01 lít thì được miễn thuế cả chai. Trường hợp vượt quá 01 lít
+b) Thuốc lá điều: 200 điều hoặc thuốc lá sợi: 250 gam hoặc xì gà: 20 điều.
+5, Đối tượng quy định tại điểm c khoản 5 Điều 5 Nghị định này được
+mua hàng miễn thuế không hạn chế về số lượng và trị giá để sử dụng trên tàu
+THỦ TỤC HÁI QUAN, KIẾM TRA, GIÁM SÁT HẢI QUAN
+
+### Điều 7. Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng
+
+1. Đối với hàng hóa tạm nhập khẩu từ nước ngoài, khu phi thuế quan và
+"kho ngoại quan: Doanh nghiệp thực hiện thủ tục tạm nhập khẩu theo quy định
+tại Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ
+quy định chỉ tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan,
+kiểm tra, giám sát, kiểm soát hải quan và Nghị định số 167/2025/NĐ- CP ngày
+30 tháng 6 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị
+định sô 08/2015/NĐ-CP.
+2. Đối với hàng hóa từ nội địa đưa vào cửa hàng miễn thuế, kho hàng
+miễn thuế: Doanh nghiệp gửi ‹ danh sách hàng hóa đưa vào/đưa ra cửa hàng
+miễn thuế, kho chứa hàng miễn thuế theo các chỉ tiêu thông tỉn tại Mẫu số
+08a, Mẫu số 08b, Mẫu số 08c Phụ lục IE.Nghị định này đến hệ thống xử lý
+đữ liệu điện tử hải quan. Hải quan quản lý cửa hàng miễn thuế, kho chứa
+hàng miễn thuế thực hiện phê duyệt hoặc không phê duyệt kèm lý do không
+phê duyệt cho doanh nghiệp thông qua hệ thống xử lý dữ liệu điện tử hải
+quan trong vòng 02 giờ làm việc kể từ khi hệ thống tiếp nhận thông tin. Sau
+khi nhận được phản hồi của hệ thống xử lý dữ liệu điện tử hải quan, doanh
+nghiệp được đưa hàng hóa vào cửa hàng miễn thuế, kho chứa hàng miễn
+thuế, Khi doanh nghiệp đưa hàng hóa vào cửa hàng miễn thuế, kho chứa
+hàng miễn thuế, Hải quan kiểm tra đối chiếu thực tế hàng hóa với danh sách
+quan để xác nhận thực tế hàng hóa đưa vào cửa hàng miễn thuế, kho chứa
+Trường hợp hệ thống xử lý đỡ liệu điện tử hải quan gặp sự có, doanh
+nghiệp thông báo bằng văn bản về việc . đưa hàng hóa vào kho chứa hàng miễn
+thuế, cửa hàng miễn thuế theo Mẫu số 087DSHH Phụ lục II ban hành kèm
+theo Nghị định này và gửi dữ liệu lên hệ thống xử lý đữ liệu điện tử hải quan
+trong vòng 24 giờ kế từ khi sự cố hệ thống xử lý đữ liệu điện tử hải quan
+Trường hợp có nghi ngờ về danh sách hàng hóa, trong, , vòng 92 giờ làm
+việc kể từ khi hệ thống xử lý dữ liệu điện tử hải quan phản hồi, Hải quan quản
+lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện kiểm tra, đối chiều
+thông tin trên hệ thống xử lý dữ liệu điện tử hải quan với thực tế hàng hóa đưa
+vào cửa hàng miễn thuế, kho chứa hàng miễn thuế của doanh nghiệp. Trường
+hợp có đấu hiệu vi phạm, Chỉ cục trưởng Chỉ cục Hải quan ban hành Quyết
+định kiểm tra thực tế lượng bàng tồn của cửa hàng miễn thuế, kho chứa hàng
+miễn thuế. Việc tổ chức thực hiện kiểm tra chậm nhất trong vòng 10 ngày làm
+Trường hợp phức tạp, Chi cục trưởng Chi cục Hải quan ban hành quyết
+định gia hạn thời hạn kiểm tra nhưng không quá 05 ngày làm việc kể từ ngày
+tra theo Mẫu số 11/BBKT Phụ lục III ban hành kèm theo Nghị định này.
+miễn thuế, kho chứa hàng miễn thuế theo kết quả kiểm tra thực tế thông qua
+
+### Điều 8. Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng
+
+hóa luân chuyển giữa kho chứa hàng miễn thuế, cửa hàng miễn thuế
+1. Trường hợp luân chuyên hàng hóa giữa các kho chứa hàng miễn thuế,
+giữa các cửa hàng miễn thuế, giữa kho chứa hàng miễn thuế và cửa hàng miễn
+thuế đặt liền kề, doanh nghiệp kinh doanh hàng miễn thuế tự chịu trách nhiệm
+theo dõi, quản lý.
+2. Trường hợp luân chuyên hàng hóa giữa các kho chứa hàng miễn thuế,
+giữa các cửa hàng miễn thuế, giữa kho chứa hàng miễn thuế và cửa hàng miễn
+thuế đặt tại vị trí khác nhau nhưng cùng nằm trong khu vực cách ly, khu vực
+a) Doanh nghiệp có trách nhiệm gửi danh sách hàng hóa luân chuyển
+giữa kho chứa hàng miễn thuế, cửa hàng miễn thuế theo Mẫu số 11 Phụ lục II
+ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan
+Trong trường hợp hệ thống x xử lý dữ liệu điện tử hải quan gặp sự cố,
+doanh nghiệp thông báo bằng. văn bản về việc vận chuyển hàng hóa với cơ
+quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu điện tử hãi quan trong
+vòng 24 giờ kể từ khi sự cố hệ thống xử lý đữ liệu điện tử hải quan được khắc
+b) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực
+` "hiện phê duyệt hoặc không phê duyệt kèm lý do không phê duyệt thông tin
+luân chuyển hàng hóa cho doanh nghiệp thông qua hệ thống xử lý dữ liệu điện
+tử hải quan trong vòng 02 giờ làm việc kế từ khi hệ thống tiếp nhận thông tin.
+Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách
+nhiệm kiểm tra thực tế hàng hóa được vận chuyển trên cơ sở áp dụng quản lý
+rủi ro hoặc có dấu hiệu vi phạm pháp luật và phê duyệt văn bản thông báo của
+doanh nghiệp về việc vận chuyên trong trường hợp hệ thống xử lý đữ liệu
+c) Ngay sau khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
+Hải quan quân lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách
+nhiệm thông báo (bằng văn bản, email, điện thoại, fax,...) với doanh nghiệp
+3. Trường hợp luân chuyển hàng hóa giữa các kho chứa hàng miễn thuế,
+giữa các cửa hàng miễn thuế, giữa kho chứa hàng miễn thuế và cửa hàng miễn
+thuế đặt tại vị trí khác nhau và nằm ngoài khu vực cách ly, khu vực hạn chế
+8) Doanh nghiệp có trách nhiệm gửi danh sách hàng hóa luân chuyển
+giữa kho chứa hàng miễn thuế, cửa hàng miễn thuế theo Mẫu số 11 Phụ lục II
+ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan
+trước khi vận chuyển hàng hóa. Trong trường hợp hệ thống xử lý dữ liệu điện
+tử hải quan gặp sự cố, doanh nghiệp thực hiện thông báo bằng văn bản về việc
+vận chuyển và chỉ được vận chuyên hàng hóa sau khi được cơ quan hải quan
+phê duyệt. Trong vòng 24 giờ kế từ khi sự cố được khắc phục doanh nghiệp
+phải gửi dữ liệu đến hệ thống xử lý dữ liệu điện tử hải quan. Doanh nghiệp
+chịu trách nhiệm vận chuyển hàng hóa đến đúng địa điểm đăng ký vận chuyển
+b) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có
+trách nhiệm giám sát hàng hóa xếp lên phương tiện để vận chuyển giữa kho
+chứa hàng miễn thuế, cửa hàng miễn thuế; thực hiện phê duyệt vận chuyển
+hàng hóa trên hệ thống xử lý dữ liệu điện tử hải quan hoặc văn bản do doanh
+nghiệp xuất trình ngay sau khi niêm phong hàng hóa. Niêm phong hàng hóa
+trước khi vận chuyên, ghi rõ số niêm phong hải quan trên bản giây của doanh
+nghiệp. Khi hàng hóa vận chuyển đến địa điểm, Hải quan quản lý cửa hàng
+miễn thuế, kho chứa hàng miễn thuế kiểm tra niêm phong, xác nhận trên hệ
+thống xử lý đữ liệu điện tử hải quan hoặc văn bản do doanh nghiệp xuất trình,
+€) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực
+hiện các công việc quy định tại điểm c khoản 2 Điêu này.
+4. Trường hợp luân chuyển hàng hóa giữa các kho chứa hàng miễn thuế,
+giữa các cửa hàng miễn thuế, giữa kho chứa hàng miễn thuế và cửa hàng miễn
+thuế của một doanh nghiệp có nhiều cửa hàng miễn thuế, kho chứa hàng miễn
+thuế tại nhiều địa điểm khác nhau chịu sự quản lý của các đơn vị hải quan
+a) Doanh nghiệp có trách nhiệm gửi danh sách hàng hóa luân chuyển
+giữa kho chứa hàng miễn thuế, cửa hàng miễn thuế theo Mẫu số 11 Phụ lục II
+ban hành kèm theo Nghị định này đến hệ thông xử lý dữ liệu điện tử hải quan
+trước khi vận chuyển hàng hóa đến cửa hàng miễn thuế, kho chứa hàng miễn
+Trong trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố,
+doanh nghiệp gửi văn bản về việc vận chuyển tới cơ quan hải quan và chỉ
+được vận chuyên hàng hóa sau khi được cơ quan hải quan phê duyệt. Trong
+vòng 24 giờ kể từ khi sự cố được khắc phục doanh nghiệp phải gửi dữ liệu
+các địa điểm đặt cửa hàng miễn thuế, kho chứa hàng miễn thuế theo đúng
+thông tin đã gửi tới hệ thông xử lý dữ liệu điện tử hải quan hoặc văn bản về
+b) Hải quan nơi hàng hóa chuyển đi thực hiện:
+Giám sát hàng hóa xếp lên phương tiện vận chuyển, niêm phong hải
+Căn cứ thông tin doanh nghiệp đã gửi tới hệ thống xử lý dữ liệu điện tử
+hải quan, thực hiện lập biên bản bàn giao hàng hóa miễn thuế vận chuyển chịu
+sự giám sát hải quan thông qua hệ thống xử lý dữ liệu điện tử hải quan theo
+Mẫu số 04 Phụ lục II ban hành kèm theo Nghị định này. Trường hợp hệ thống
+xử lý dữ liệu điện tử hải quan gặp sự cố, Hải quan nơi hàng hóa chuyển đi căn
+cứ văn bản về việc vận chuyển (bản giấy) đöanh nghiệp xuất trình, thực hiện ˆ
+lập biên bản bàn giao hàng hóa miễn thuế vận chuyển chịu sự giám sát hải
+quan theo Mẫu số 04/BBBG Phụ lục III ban hành kèm theo Nghị định này,
+giao cho doanh nghiệp để chuyển đến Hải quan quân lý cửa hàng miễn thuế,
+Theo dõi thông tin về hàng hóa được vận chuyển đi, chủ trì truy fìm
+trong trường hợp quá thời hạn vận chuyển nhưng hàng hóa chưa đến địa điểm
+Theo dõi việc luân chuyển hàng hóa giữa các cửa hàng miễn thuế, kho
+10
+c) Hải quan nơi hàng hóa chuyển đến thực hiện:
+Căn cứ biên bản bàn giao do Hải quan nơi hàng hóa chuyển đi lập, thực
+miễn thuê, cửa hàng miễn thuế;
+của doanh nghiệp xuât trình và giao cho doanh nghiệp lưu trong trường hợp
+Theo dõi thông tin về hàng hóa vận chuyển, phối hợp với Hải quan nơi
+hàng hóa được vận chuyên đi đề truy tìm trong trường hợp quá thời hạn vận
+Theo dõi việc luân chuyển hàng hóa giữa các cửa hàng miễn thuế, kho
+
+### Điều 9. Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng
+
+1. Trách nhiệm của doanh nghiệp kinh doanh hàng miễn thuế
+a) Trường hợp kho chứa hàng miễn thuế nằm trong khu cách ly
+06a, Mẫu số 06b và bảng kê lượng tiền mặt theo Mẫu số 07 Phụ lục II ban
+hành kèm theo Nghị định này đến hệ thống xử lý đữ liệu điện tử hải quan
+trước khi vận chuyển hàng hóa từ kho chứa hàng miễn thuế lên tàu bay và
+trong vòng 24 giờ sau khi hàng hóa được vận chuyển từ tàu bay về kho chứa
+Trường hợp hệ thống xử lý đữ liệu điện tử hải quan gặp sự cố, doanh
+nghiệp gửi phiếu giao nhận hàng hóa theo Mẫu số 06/PGHKVTB và bảng kê
+lượng tiền mặt theo Mẫu số 07/BKTMKVTB Phụ lục HI ban hành kèm theo
+Nghị định này tới cơ quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu
+điện tử hải quan trong vòng 24 giờ kể từ khi sự cố hệ thống xử lý dữ liệu điện
+b) Trường hợp kho chứa hàng miễn thuế không nằm trong khu cách ly
+Khi đưa tiền mặt, hàng hóa từ kho chứa hàng miễn thuế lên tàu bay:
+Doanh nghiệp có trách nhiệm gửi thông tin về phiếu giao nhận hàng hóa theo
+Mẫu số 06a và bảng kê lượng tiền mặt theo Mẫu số 07 Phụ lục II ban hành
+kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan. Doanh
+11
+Trường hợp hệ thông xử lý đữ liệu điện tử hải quan gặp sự cố, doanh
+nghiệp gửi phiếu giao nhận hàng hóa theo Mẫu số 06/PGHKVTB và bảng kê
+lượng tiền mặt theo Mẫu số 07/BKTMKVTB Phụ lục HI ban hành kèm theo
+Nghị định này đến cơ quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu
+điện tử hải quan trong vòng 24 giờ kể từ khi sự cố hệ thống xử lý dữ liệu điện
+tử hải quan được khắc phục. Doanh nghiệp chỉ được vận chuyển hàng hóa sau
+khi được cơ quan hải quan phê duyệt Mẫu số 06/PGHKVTB, Mẫu số
+07/BKTMKVTB do doanh nghiệp xuất trình.
+Đối với hàng hóa bán không. hết thu hồi từ các chuyến bay quốc tế:
+Doanh nghiệp kinh doanh hàng miễn thuế thực hiện niêm phong phương tiện
+vận chuyển hàng miễn thuế trước khi đưa phương tiện chứa hàng miễn thuế ra
+khỏi tàu bay. Doanh nghiệp chịu trách nhiệm vận chuyển hàng miễn thuế từ
+tàu bay về kho hàng miễn thuế. Trong vòng 24 giờ kế từ khi ( tàu bay đỗ tại vị
+trí chỉ định theo quy định, doanh nghiệp kinh doanh hàng miễn thuế thực hiện
+gửi thông tin về hàng hóa bán không hết thu hồi từ các chuyển bay quốc tế
+theo Mẫu số 06b và bảng kê lượng tiền mặt theo Mẫu số 07 Phụ lục II ban
+hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan.
+Trường hợp hệ thống xử lý đữ liệu điện tử hải quan gặp sự cố, doanh
+nghiệp gửi phiếu giao nhận hàng hóa theo Mẫu số 06/PGHKVTB và bảng kê
+lượng tiền mặt theo Mẫu số 07/BKTMKVTB Phụ lục II ban hành kèm theo
+Nghị định này đến cơ quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu
+điện tử hải quan trong vòng 24 giờ kể từ khi sự cố hệ thống xử lý đữ liệu điện
+2. Trách nhiệm của Hải quan quản lý kho chứa hàng miễn thuế
+a) Trường hợp kho chứa hàng miễn thuế nằm trong khu cách ly
+tế hàng hóa được vận chuyển trên cơ sở áp dụng quản lý rủi ro hoặc có dấu
+Trường hợp hệ thống xử ý. dữ liệu điện tử hải quan ẤP ' sự cố, Hải quan
+quản lý kho chứa hàng miễn thuế, thực hiện phê duyệt Mẫu số 06/PGHKVTB
+và Mẫu số 07/BKTMKVTB Phụ lục II ban hành kèm theo Nghị định này
+trong vòng 02 giờ làm việc kể từ khi nhận được văn bản của doanh nghiệp.
+Ngay sau khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục, Hải
+quan quản lý kho chứa hàng miễn thuế có trách nhiệm thông báo (bằng văn
+bản, email, điện thoại, fax, ...) với doanh nghiệp kinh doanh hàng miễn thuế
+12
+b) Trường hợp kho chứa hàng miễn thuế không nằm trong khu cách ly
+Khi đưa tiền mặt, hàng hóa từ kho chứa hàng miễn thuế lên tàu bay: Hải
+quan quản lý kho chứa hàng miễn thuế thực hiện giám sát hàng hóa xếp lên
+phương tiện chứa hàng miễn thuế, niêm phong hải quan và phê duyệt Mẫu số
+06a, Mẫu số 07 Phụ lục II ban hành kèm theo Nghị định này trên hệ thống xử
+lý dữ liệu điện tử hải quan ngay sau khi doanh nghiệp gửi đến hoặc Mẫu số
+06/PGHKVTB và Mẫu số 07/BKTMKVTB Phụ lục III ban hành kèm theo
+Đối với hàng hóa bán không hết thu hồi từ các chuyến bay quếc tế: Hải
+quan quản lý kho chứa hàng miễn thuế thực hiện giám sát phương tiện chứa
+hàng miễn thuế không hết thu hồi từ các chuyến bay quốc tế được chuyển vào
+kho, kiểm tra niêm phong trên các phương tiện chứa hàng miễn thuế. Xác
+nhận Mẫu số 06b, Mẫu số 07 Phụ lục H ban hành kèm theo Nghị định này
+trên hệ thống xử lý dữ liệu điện tử hải quan hoặc Mẫu số 06/PGHKVTB, Mẫu
+số 07/BKTMKVTB Phụ lục II ban hành kèm theo Nghị định này do doanh
+tra thực tế hàng hóa được vận chuyên từ kho hàng miễn thuế đến khu cách ly
+_ 3. Trách nhiệm của Hải quan cửa khâu sân bay quốc tế nơi tàu bay xuất
+cảnh trong trường hợp kho chứa hàng miễn thuế không nằm trong khu cách ly
+a) Thực hiện đối chiếu niêm phong hải quan khi phương tiện chứa hàng
+b) Kiểm tra thực tế hàng hóa được vận chuyển trong khu cách ly trên cơ
+
+### Điều 10. Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng
+
+1. Trách nhiệm của doanh nghiệp kinh doanh hàng miễn thuế
+Thực hiện trách nhiệm quy định tại khoản l Điều 9 Nghị định này và
+thực hiện thêm các công việc sau:
+a) Gửi thông tin về phiếu giao nhận hàng hóa theo Mẫu số 06b Phụ lục II
+ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan
+ngay sau khi hàng hóa được nhập vào kho chứa hàng miễn thuế tại sân bay
+quốc tế nơi tàu bay nhập cảnh hoặc hàng hóa được đưa thẳng từ tàu bay nhập
+13
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, doanh
+nghiệp gửi phiều giao nhận hàng hóa theo Mẫu số 06/PGHKVTB Phụ lục II
+ban hành kèm theo Nghị định này đến cơ quan hải quan và gửi dữ liệu đến hệ
+thống xử lý dữ liệu điện tử hải quan trong vòng 24 giờ kế từ khi sự cô hệ
+b) Thực hiện lưu giữ phương tiện chứa hàng miễn thuế trong kho chứa
+bàng miễn thuế của doanh nghiệp tại khu vực riêng ở sân bay nhập cảnh có
+camera giám sát, đảm bảo phân biệt được với hàng hóa, phương tiện chứa
+hàng miễn thuế khác trong kho chứa hàng miễn thuế đối với trường hợp hàng
+c) Thực hiện vận chuyển hàng hóa từ tàu bay nhập cảnh đến kho chứa
+hàng miễn thuế tại sân bay nơi tàu bay xuất cảnh theo đúng thời gian ghỉ trên
+biên bản bàn giao quy định tại điểm c khoản 3 Điều này.
+2. Trách nhiệm của Hải quan cửa khẩu sân bay quốc tế nơi tàu bay xuất cảnh
+a) Thực hiện quy định tại khoản 2, khoản 3 Điều 9 Nghị định này khi
+b) Căn cứ biên bản bản giao quy định tại điểm c khoản 3 Điều này, thực
+chuyển vào kho chứa hàng miễn thuế tại sân bay xuất cảnh; xác nhận trên
+Mẫu số 04 Phụ lục II ban hành kèm theo Nghị định này trên hệ thống xử lý dữ
+liệu điện tử hải quan hoặc ký tên, đóng, dấu công chức hải quan, ghi rõ ngày,
+tháng, năm xác nhận trên biên bản bàn giao do doanh nghiệp xuất trình và trả
+lại doanh nghiệp; cập nhật thông tin hàng hóa vận chuyển đến trên hệ thống
+e) Theo dõi thông tin về quá trình vận chuyển của phương tiện chứa
+hàng miễn thuế, phối hợp với Hải quan cửa khẩu sân bay quốc tế nơi tàu bay
+nhập cảnh để xác minh trong trường hợp quá thời gian ghi trên biên bản bàn
+giao quy định tại điểm c khoản 3 Điều này nhưng phương tiện chứa hàng
+miễn thuế chưa được vận chuyển đến sân bay quốc tế nơi tàu bay xuất cảnh.
+3. Trách nhiệm của Hải quan cửa khẩu sân bay quốc tế nơi tàu bay nhập cảnh
+a) Căn cứ thông tin về phiếu giao nhận hàng hóa theo Mẫu số 06b Phụ
+lục II ban hành kèm theo Nghị định này do doanh nghiệp gửi trên hệ thống xử
+lý dữ liệu điện tử hải quan quy định tại điểm a khoản 1 Điều này để thực hiện
+giám sát phương tiện chứa hàng miễn thuế từ tàu bay nhập cảnh đến kho chứa
+hàng miễn thuế tại sân bay nhập cảnh đối với trường hợp hàng hóa được đưa
+14
+b) Thực hiện xác nhận lượng tiền mặt mang xuống tàu bay trên hệ thống
+c) Căn cứ thông tin về phiếu giao nhận hàng hóa quy định tại điểm a
+khoản 1 Điều này thực hiện niêm phong phương tiện chứa hàng miễn thuế,
+lập biên bản bàn giao phương tiện chứa hàng miễn thuế thông qua hệ thống
+xử lý dữ liệu điện tử hải quan theo Mẫu số 04 Phụ lục II ban hành kèm theo
+Nghị định này, cập nhật số niêm phong vào biên bản bàn giao.
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, lập biên
+bản bàn giao phương tiện chứa hàng miễn thuế theo Mẫu số 04/BBBG Phụ
+lục II ban hành kèm theo Nghị định này, giao 0L bản biên bản bản giao cho
+doanh nghiệp để chuyển phương tiện chứa hàng miễn thuế đến Hải quan cửa
+đ) Theo dõi thông tin về quá trình vận chuyển của phương tiện chứa
+hàng miễn thuế, chủ trì xác minh trong trường hợp quá thời gian ghi trên biên
+bản bàn giao nhưng chưa nhận được xác nhận của Hải quan cửa khẩu sân bay
+quốc tế nơi tàu bay xuất cảnh theo quy định tại điểm b khoản 2 Điều này.
+
+### Điều 11. Thủ tục bán hàng miễn thuế cho đối tượng mua là người
+
+chờ xuất cảnh mua hàng tại cửa hàng miễn thuế trong nội địa, người
+xuất cảnh, quá cảnh, hành khách trên tàu bay xuất cảnh, hành khách
+đang thực hiện chuyến bay quốc tế đến Việt Nam, người nhập cảnh tại
+cửa khẩu sân bay quốc tế, thuyền viên mua bàng miễn thuế phục vụ nhu
+1. Trách nhiệm của doanh nghiệp kinh doanh hàng miễn thuế, nhân viên
+a) Yêu cầu người mua hàng xuất trình hộ chiếu hoặc các loại giấy tờ đi
+lại sau: Giấy thông hành trong trường hợp đối tượng mua là người chờ xuất
+cảnh mua hàng tại cửa hàng miễn thuế trong nội địa hoặc khách xuất cảnh,
+quá cảnh tại khu cách ly hoặc người nhập cảnh tại cửa khẩu sân bay quốc tế;
+Giấy phép đi bờ của thuyền viên trong trường hợp đối tượng mua là thuyền
+viên phục vụ như cầu cá nhân trong thời gian tàu neo đậu tại cảng, biển Việt Nam.
+.„ Trường hợp đối tượng mua là hành khách đang thực hiện chuyến bay
+quốc tế đến Việt Nam, nhân viên bán hàng yêu cầu người mua hàng xuất trình
+b) Kiểm tra định mức mua hàng miễn thuế
+Nhân viên bán hàng kiểm tra thông tin trên hệ thống xử lý đữ liệu điện tử
+nhập cảnh tại cửa khẩu sân bay quốc tế, hành khách đang thực hiện chuyên
+15
+bay quốc tế đến Việt Nam theo quy định tại khoản 2 Điều 6 Nghị định này,
+thuyên viên phục vụ nhu cầu cá nhân trong thời gian tàu neo đậu tại cảng biên
+'Việt Nam theo quy định tại khoản 4 Điều 6 Nghị định này.
+c) Nhân viên bán hàng ghi nhận đầy đủ các thông tin về người mua hàng,
+thông tin chuyến bay hoặc phương tiện di chuyên, thông tin về hàng hóa theo
+các chỉ tiêu thông tin tại Mẫu số 12 Phụ lục II ban hành kèm theo Nghị định
+đ) Gửi thông tin quy định tại điểm e khoản này đến hệ thống xử lý đữ
+Trường hợp bán hàng miễn thuế cho đối tượng mua là người xuất cảnh, _
+quá cảnh, người nhập cảnh tại cửa khâu sân bay quốc tế, thuyền viên làm việc
+trên tàu biển chạy tuyến quốc tế: doanh nghiệp kinh doanh hàng miễn thuế
+phải gửi đến hệ thống xử lý dữ liệu điện tử hải quan thông tin quy định tại
+Trường hợp bán hàng miễn thuế trên máy bay: trong vòng 24 giờ kể từ
+khi tàu bay đỗ tại vị trí chỉ định theo quy định (khi tàu bay thực hiện chuyến
+bay về Việt Nam), doanh nghiệp kinh doanh hàng miễn thuế phải kê khai trên
+phân mềm của doanh nghiệp và gửi đến hệ thống xử lý dữ liệu điện tử hải
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, trong
+vòng 24 giờ kể từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
+doanh nghiệp thực hiện gửi thông tin đến hệ thông xử lý dữ liệu điện tử hải
+đ) Xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản phẩm, nếu có)
+và lưu trữ hóa đơn bán hàng theo quy định của pháp luật hiện hành về hóa đơn.
+ce) Trường hợp đối tượng mua là người chờ xuất cảnh mua hàng tại cửa
+hàng miễn thuê trong nội địa:
+Gửi Phiếu giao hàng theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị
+định này đến hệ thống xử lý dữ liệu điện tử hải quan (trừ trường hợp giao
+hàng ở nước ngoài theo yêu cầu của khách). Trường hợp hệ thống xử lý dữ
+liệu điện tử hải quan gặp sự cỗ thì lập 02 liên Phiếu giao hàng theo Mẫu số
+02/PGH Phụ lục II ban hành kèm theo Nghị định này và gửi dữ liệu lên hệ
+thống xử lý dữ liệu điện tử hải quan trong vòng 24 giờ kế từ khi sự cố hệ
+hàng tại quầy nhận hàng trong khu cách ly của khâu xuất cảnh. Trường hợp
+16
+hệ thống xử lý đữ liệu điện tử hải quan gặp sự có, doanh nghiệp xuất trình
+hàng hóa và 02 liên Phiếu giao hàng theo Mẫu số 02/PGH Phụ lục III ban
+hành kèm theo Nghị định này với hải quan cửa khẩu nơi người mua hàng xuất
+cảnh. ,
+khi Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế kiểm tra
+thì doanh nghiệp kinh doanh hàng miễn thuế có trách nhiệm nộp đủ thuế và
+các khoản thu khác thuộc ngân sách nhà nước (nếu có) theo quy định như đối
+Trường hợp người mua hàng không đến nhận hàng tại quầy nhận hàng,
+doanh nghiệp thực hiện gửi thông tin hủy Phiếu giao hàng theo Mẫu số 13
+Phụ lục II ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện
+tử hải quan. Trong trường hợp hệ thống xử lý dữ liệu điện tử hái quan gặp sự
+cố, doanh nghiệp thông báo bằng văn bản về việc hủy Phiếu giao hàng với cơ
+quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu điện tử hải quan trong
+vòng 24 giờ kể từ khi sự cô hệ thống xử lý dữ liệu điện tử hải quan được khắc
+phục. Sau khi được cơ quan hải quan phê duyệt, doanh nghiệp chịu trách
+nhiệm vận chuyển hàng hóa về cửa hàng miễn thuế, kho hàng miễn thuế nơi
+miễn thuế, kho chứa hàng miễn thuế tại nhiều địa điểm khác nhau, khi thực
+hiện bán hàng cho khách chờ xuất cảnh tại cửa hàng miễn thuế trong nội địa,
+doanh nghiệp được xuất hàng hóa cho khách từ cửa hàng miễn thuế, kho chứa
+hàng miễn thuế của doanh nghiệp thuộc quản lý của Hải quan cửa khẩu nơi
+c) Trường hợp đối tượng mua là người nhập cảnh tại sân bay quốc tế và
+hành khách đang thực hiện chuyên bay quốc tế đến Việt Nam mua hàng miễn
+Doanh nghiệp kinh doanh hàng miễn thuế gửi thông tin theo Mẫu số 01
+Phụ lục II ban bành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện
+tử hải quan. Trong trường hợp hệ thống gặp sự cố, doanh nghiệp kinh doanh
+hàng miễn thuế gửi 02 Phiếu thông báo theo Mẫu số 01/PTBHVĐM Phụ lục
+Nhận lại và lưu 01 Phiếu thông báo đã ký tên, đóng dấu công chức của công,
+- 2. Trách nhiệm của Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
+4) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực
+hiện quy định tại điểm c khoản 2 Điêu 8 Nghị định này;
+17
+b) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực
+hiện kiểm tra việc bán hàng miễn thuế thông qua hệ thống xử lý dữ liệu điện
+tử hải quan, ca-mê-ra giám sát hoặc kiểm tra trực tiếp tại cửa hàng miễn thuế,
+kho chứa hàng miễn thuế trên cơ sở áp dụng quản lý rủi ro hoặc trường hợp
+phát hiện dấu hiệu vi phạm pháp luật,
+e) Theo dõi phân hồi về Phiếu giao hàng đã được cơ quan hải quan xác
+nhận quy định tại khoản 3 Điêu này;
+đd) Thu thuế và các khoản thu khác thuộc ngân sách nhà nước. (nếu có)
+theo quy định, lưu bản chụp các chứng từ quy định tại khoản 2 Điêu 20 đôi
+với các trường hợp quy định tại điểm h khoản 1 Điều này;
+đ) Trong trường hợp doanh nghiệp hủy Phiếu giao hàng quy định tại
+điểm g khoản 1 Điều này, Hải quan quản lý cửa hàng miễn thuế, kho chứa
+khoản 3 Điều này, thực hiện giám sát hàng, hóa nhập vào kho chứa hàng miễn
+3. Trách nhiệm của Hải quan cửa khẩu xuất nơi người mua hàng xuất
+a) Kiểm tra đối chiếu thực tế hàng hóa với nội dung kê khai trên Phiếu
+b) Xác nhận Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định này trên
+Trường hợp hệ thống xử lý dữ liệu điện tử bải quan gặp sự có, xác nhận,
+ký tên và đóng dấu công chức trên 02 Phiến giao hàng theo Mẫu số 02/PGH
+Phụ lục [II ban bành kèm theo Nghị định này đo doanh nghiệp xuất trình, giao
+01 liên Phiếu giao hàng cho doanh nghiệp kinh doanh hàng miễn thuế lưu và
+lưu 01 liên. Sau khi doanh nghiệp truyền đữ liệu về số phiếu giao hàng đã
+được xác nhận trên bản giấy, thực hiện xác nhận trên hệ thống xử lý dữ liệu
+e) Niêm phong hàng hóa trước khi vận chuyển. Thực hiện cập nhật số
+niêm phong và phê duyệt thông tin hủy theo Mẫu số 13 Phụ lục II ban hành
+kèm theo Nghị định này trên hệ thống xử lý đữ liệu điện tử hải quan ngay sau
+khi niêm phong hàng hóa hoặc ghi rõ số niêm phong và phê đuyệt văn bản do
+
+### Điều 12. Thủ tục bán hàng miễn thuế cho tổ chức, cá nhân được
+
+hướng quyền ưu đãi miễn trừ mua hàng tại cửa hàng miễn thuế trong nội địa
+1. Trách nhiệm của nhân viên bán hàng
+18
+a) Yêu cầu người mua hàng xuất trình Số định mức miễn thuế của tổ
+Ngoại giao cấp khi mua hàng miễn thuế trong nội địa trừ trường hợp Số định
+b) Nhập thông tin về định lượng hàng hóa tại Số định mức miễn thuế do
+người mua hàng xuất trình hoặc dữ liệu về Sổ định mức từ công thông tin một
+cửa quốc gia đã được cơ quan có thẩm quyền cập nhật (đối với trường hợp sử
+dụng Sô lân đầu) theo Mẫu số 14 Phụ lục II ban hành kèm theo Nghị định này
+e) Xuất trình bản chính Sổ định mức mua hàng miễn thuế cho cơ quan
+hải quan để xác nhận định mức mua hàng miễn thuế trên hệ thống xử lý dữ
+liệu điện tử hải quan đối với trường hợp xuất trình Số quy định tại điểm a
+đ) Gửi thông tin bán hàng theo Mẫu số 12 Phụ lục II ban hành kèm theo
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, trong
+vòng 24 giờ kê từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
+doanh nghiệp thực hiện gửi thông tin đên hệ thống xử lý dữ liệu điện tử hải
+đ) Xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản phẩm, nếu có)
+S) Cắt ô tem tương ứng mặt hàng đã bán trên Số định mức hàng miễn
+c) Lưu hóa đơn bán hàng theo quy định hiện hành về hóa đơn.
+_ 2. Trách nhiệm của Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
+a) Đối với người mua hàng lần đầu tiên mua hàng miễn thuế theo Số
+định mức mua hàng miễn thuế, cơ quan hải quan kiểm tra bản chính Số định
+mức mua hàng miễn thuế hoặc kiểm tra trên cổng thông tin một cửa quốc gia
+về định lượng mua hàng miễn thuế, xác nhận trên hệ thông xử lý dữ liệu điện
+tử hải quan lượng hàng miễn thuế được phép mua của người mua hàng để hệ
+thống xử lý dữ liệu điện tử hải quan trừ lùi định mức mua hàng miễn thuế;
+b) Trên cơ sở quản lý rủi ro và đấu hiệu vi phạm pháp luật, Hải quan
+quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện kiểm tra việc
+bán hàng miễn thuế thông qua hệ thống phần mềm của doanh nghiệp, hệ
+thống xử lý dữ liệu điện tử hải quan, ca-mê-ra giám sát hoặc kiểm tra trực tiếp
+hàng hóa tại cửa hàng miễn thuế, kho chứa hàng miễn thuế,
+19
+e) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực
+hiện quy định tại điểm c khoản 2 Điều 8 Nghị định này.
+
+### Điều 13. Thủ tục bán hàng miễn thuế cho đối tượng mua là thuyền
+
+1. Trường hợp mua hàng miễn thuế phục vụ cho nhu cầu sinh hoạt chung,
+của thuyền viên làm việc trên tàu biển chạy tuyến quốc tế trong thời gian tàu
+trách nhiệm:
+a) Yêu cầu người mua hàng xuất trình hộ chiếu;
+b) Kiểm tra thông tin trên hệ thống xử lý đữ liệu điện tử hải quan để bán
+hàng trong định lượng quy định tại khoản 4 Điều 6 Nghị định này;
+c) Gửi thông tin bán hàng theo Mẫu số 12 Phụ lục II ban hành kèm theo
+Trường hợp hệ thống xử lý đữ liệu điện tử hải quan gặp sự có, trong
+vòng 24 giờ kể từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
+doanh nghiệp thực hiện gửi thông tin đên hệ thông xử lý dữ liệu điện tử hải
+d) Thực hiện xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản
+phẩm, nêu có), trên hóa đơn đây đủ các thông tin họ tên, số hộ chiêu, quốc
+tịch của thuyền trưởng/người đại diện tàu, số hiệu tàu, ngày tàu nhập cảnh;
+đ) Lưu hóa đơn bán hàng theo quy định hiện hành về hóa đơn.
+2. Trường hợp mua hàng miễn thuế phục vụ nhu cầu của thuyền viên làm
+việc trên tàu biển chạy tuyên quốc tế phục vụ cho hành trình tiếp theo ngoài
+lãnh hải Việt Nam. Trách nhiệm của nhân viên bán hàng:
+a) Yêu cầu người mua hàng xuất trình hộ chiếu;
+b) Gửi thông tin bán hàng theo Mẫu số 12 Phụ lục II ban hành kèm theo
+Trường hợp hệ thống xử lý đữ liệu điện tử hải quan gặp sự cố, trong
+vòng 24 giờ kế từ khi hệ thông xử lý dữ liệu điện tử hải quan được khắc phục,
+doanh nghiệp thực hiện gửi thông tn đến hệ thông xử lý dữ liệu điện tử hải
+cc) Thực hiện xuất hóa đơn bán hàng theo quy định;
+đ) Chịu trách nhiệm vận chuyển hàng hóa vào kho của tầu;
+20
+đ) Lưu hóa đơn bán hàng có chữ ký của người mua hàng hoặc thuyền
+trưởng hoặc người đại diện tàu và xác nhận của công chức hải quan nơi thực
+hiện thủ tục xuất cảnh tàu, đơn đặt hàng và danh sách thuyên viên.
+_ 3 Trách nhiệm của Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
+a) Giám sát hàng hóa từ cửa hàng miễn thuế đến khi hàng hóa chịu sự
+b) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực
+hiện quy định tại điểm e khoản 2 Điều 8 Nghị định này.
+4. Trách nhiệm của Hải quan nơi thực hiện thủ tục xuất cảnh tàu: Thực
+hiện niêm phong kho của tàu chứa hàng miễn thuế, xác nhận hàng qua khu
+vực giám sát (ký tên, đóng, dấu công chức hải quan trên hóa đơn bán hàng) và
+
+### Điều 14. Thủ tục bán hàng miễn thuế trực tuyến
+
+1. Trách nhiệm của doanh nghiệp kinh doanh hàng miễn thuế
+Điều 11, Điều 12, Điều 13 Nghị định này, doanh nghiệp thực hiện:
+a) Gửi thông tin bán hàng theo Mẫu số 12 Phụ lục II ban hành kèm theo
+Nghị định này đên hệ thống xử lý dữ liệu điện tử hải quan ngay sau khi chấp
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cỐ, trong
+vòng 24 giờ kê từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
+doanh nghiệp thực hiện gửi thông tin đến hệ thống xử lý đữ liệu điện tử hải
+b) Khi giao hàng cho khách mua hàng, kiểm tra đối chiếu thông tỉn mà
+khách đã kê khai khi mua hàng trực tuyến với thông tỉn trên các giấy tờ liên
+2. Trách nhiệm của Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
+miễn thuế và Hải quan cửa khẩu nơi người mua hàng xuất cảnh, nhập cảnh:
+Thực hiện theo quy định tại Điều 11, Điều 12, Điều 13 Nghị định này tương
+
+### Điều 15. Thủ tục hải quan đối với hàng hóa đã bán cho khách xuất
+
+1. Địa điểm làm thủ tục hải quan: Hải quan quản lý cửa hàng miễn thuế,
+21
+2. Thủ tục hải quan: Thực hiện thủ tục xuất khẩu (tái xuất đối với hàng,
+hóa do doanh nghiệp kinh doanh hàng miễn thuế tạm nhập từ nước ngoài,
+xuất khẩu đối với hàng hóa do doanh nghiệp kinh doanh bàng miễn thuế mua
+từ nội địa để đưa vào bán tại cửa hàng miễn thuế) theo quy định tại Nghị định
+sế 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chỉ
+tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám
+sát, kiểm soát hải quan và Nghị định số 167/2025/NĐ-CP ngày 30 tháng 6
+năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số
+08/2015/NĐ-CP. Khi làm thủ tục xuất khẩu, ngoài hồ sơ hải quan theo quy
+định, doanh nghiệp phải gửi bảng kê hàng hóa đã bán cho khách xuất cảnh
+theo Mẫu số 09 Phụ lục II ban hành kèm theo Nghị định này đến hệ thống xử
+lý dữ liệu điện tử hải quan hoặc Mẫu số 09/BKHH Phụ lục IHI ban hành kèm
+theo Nghị định này trong trường hợp hệ thống gặp sự có và 01 bản chụp hộ
+chiếu hoặc giấy thông hành (trang đầu và trang có đóng đấu xuất cảnh của cơ
+quan xuất nhập cảnh).
+_ 3. Trường hợp cơ quan hải quan có đủ cơ sở xác định khách mua hàng
+miễn thuế không thực xuất cảnh, doanh nghiệp bị xử lý vi phạm theo quy định
+
+### Điều 16. Thủ tục đối với hàng hóa đưa vào bán tại cửa hàng miễn
+
+thuế thay đổi mục đích sử dụng, chuyển tiêu thụ nội địa, tái xuất
+1. Thủ tục thay đổi mục đích sử dụng, chuyển tiêu thụ nội địa, tái xuẤt:
+thực hiện thủ tục theo quy định tại Nghị định số 08/2015/NĐ-CP ngày 21
+tháng 01 năm 2015 của Chính phủ quy định chỉ tiết và biện pháp thi hành
+Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan,
+Nghị định số 167/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ sửa
+đổi, bổ sung một số điều của Nghị định số 08/2015/NĐ-CP và hướng dẫn của
+Chính sách quản lý hàng hóa, chính sách thuế đối với hàng hóa thay đôi
+mục đích sử dụng, chuyển tiêu thụ nội địa thực hiện tại thời điểm đăng ký tờ
+khai hải quan thay đổi mục đích sử dụng, chuyển tiêu thụ nội địa.
+Riêng mặt hàng thuốc lá không được phép thay đổi mục đích sử dụng,
+chuyển tiêu thụ nội địa, chỉ được tái xuất qua cửa khẩu đường biên, cửa khẩu
+Trước khi đưa hàng hóa ra khỏi cửa hàng miễn thuế, doanh nghiệp thực
+hiện hủy tem “VIET NAM DUTY NOT PAID” đã dán lên từng mặt hàng dưới
+sự giám sát của cơ quan hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
+miễn thuế và lập biên bản về số tem “VIET NAM DUTY NOT PAID” đã hủy.
+2. Trường hợp hàng hóa nội địa được phép lưu thông theo quy định của
+pháp luật Việt Nam đưa vào bán tại cửa hàng miễn thuế sau đó đưa trở lại nội
+địa, doanh nghiệp kinh doanh cửa hàng miễn thuế, kho hàng miễn thuế gửi
+22
+thông báo theo Mẫu số 05c Phụ lục IÍ ban hành kèm Nghị định này đến hệ
+thống xử lý dữ liệu điện tử hải quan. Trường hợp hệ thống xử lý đữ liệu điện
+tử hải quan gặp sự cố, doanh nghiệp xuất trình Mẫu số 08/DSHH Phụ lục IH
+ban hành kèm Nghị định này cho Hải quan quản lý cửa hàng miễn thuê, kho
+chứa hàng miễn thuế và gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải
+quan trong vòng 24 giờ kế từ khi hệ thống xử lý dữ liệu điện tử hải quan được
+“Trước khi đưa hàng hóa ra khỏi cửa hàng miễn thuế, doanh nghiệp thực
+hiện hủy tem “VIET NAM DUTY NOT PAID” đã dán lên từng mặt hàng
+dưới sự giám sát của cơ quan bải quan quản lý cửa hàng miễn thuê, kho chúa
+hàng miễn thuế và lập biên bản về số tem “VIET NAM DUTY NOT PAID”
+
+### Điều 17. Thủ tục đối với hàng hóa tiêu hủy, hàng mẫu, hàng thứ, túi,
+
+1. Hàng hóa bị đỗ vỡ, hư hỏng, mắt phẩm chất, kém chất lượng, hết hạn
+sử dụng thực hiện theo quy định tại khoản 8 Điều 3 Nghị định này và:
+a) Khi lập biên bản về tình trạng hàng hóa đỗ vỡ, hư hỏng, mất phẩm
+chất, kém chất lượng, doanh nghiệp phải nêu rõ lý do và các thông tin về hàng
+hóa: Tên hàng, mã số hàng, số lượng, trị giá. Trên cơ sở nội dung biên bản và
+thực tế kiểm tra hàng hóa, công chức hải quan quản lý cửa hàng miễn thuế ký
+tên, đóng đấu công chức xác nhận đối với hàng hóa đồ vỡ, hư hông, mắt phẩm
+chất, kém chất lượng;
+b) Doanh nghiệp chịu trách nhiệm thực hiện tiêu hủy hàng hóa theo quy
+__ 2. Đối với hàng mẫu, hàng đùng thứ, túi, bao bì nhập khẩu để đựng hàng
+miễn thuế (không bao gồm hàng tặng kèm sản phẩm) thực hiện như sau:
+a) Khi xuất bàng mẫu, hàng thử, túi, bao bì nhập khẩu lên cửa hàng miễn
+thuế, doanh nghiệp lập bảng kê theo Mẫu số 10 Phụ lục II ban hành kèm theo
+Nghị định này gửi đến hệ thống xử lý dữ liệu điện tử hải quan và nhận phản
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, doanh
+nghiệp xuất trình bảng kê theo Mẫu số 10/BKHMT Phụ lục II ban hành kèm
+theo Nghị định này cho Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
+miễn thuế và gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải quan trong
+vòng 24 giờ kế từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục;
+b) Dịnh kỳ hàng tháng (trong 07 ngày làm việc đầu tiên của tháng), tổng
+hợp sô liệu hàng nấu, hàng thử, túi, bao bì nhập khẩu đã sử dụng, còn tồn của
+tháng trước theo Mẫu số 15 Phụ lục 1I ban hành kèm theo Nghị định này gửi
+23
+Trường hợp số liệu báo cáo của doanh nghiệp không có nghỉ ngờ, trong
+vòng 03 ngày làm việc kế từ khi nhận được báo cáo, cơ quan hải quan xác
+Trường hợp cơ quan hải quan nghỉ ngờ về số liệu doanh nghiệp báo cáo,
+trong vòng 07 ngày làm việc kể từ khi nhận được báo cáo, cơ quan hải quan:
+thực hiện kiểm tra các hồ sơ liên quan. Trong trường hợp cần thiết, cơ quan
+hải quan kiểm tra thực tế lượng hàng tồn của cửa hàng miễn thuế, kho chứa
+hàng miễn thuế theo quyết định của Chỉ cục trưởng Chỉ cục Hải quan. Chỉ cục
+trưởng Chỉ cục Hải quan giao Hải quan quản lý cửa hàng miễn thuê, kho chứa
+hàng miễn thuế tổ chức thực hiện kiểm tra chậm nhất trong vòng 10 ngày làm
+Đối với trường hợp phức tạp, Chỉ cục trưởng Chỉ cục Hải quan ban hành
+quyết định gia hạn thời hạn kiểm tra nhưng không quá 05 ngày làm việc kể từ
+tra theo Mẫu số 11/BBKT Phụ lục IH ban hành kèm theo Nghị định này. Cơ
+quan hải quan thực hiện xác nhận trên hệ thống xử lý dữ liệu điện tử hải quan
+
+### Điều 18. Thủ tục đối với tiền mặt của doanh nghiệp kinh doanh hàng
+
+miễn thuế đưa vào, đưa ra khu cách ly, khu vực hạn chế
+1. Trách nhiệm của doanh nghiệp kinh doanh hàng miễn thuế
+a) Gửi dữ liệu theo Mẫu số 03 Phụ lục II ban hành kèm theo Nghị định
+này đến hệ thống xử lý dữ liệu điện tử hải quan trước khi đưa tiên vào, tiên ra
+khỏi khu cách ly, khu hạn chế;
+„ b) Thực biện các yêu cầu của cơ quan hải quan qua phản hồi của hệ
+thông xử lý dữ liệu điện tử hải quan. Xuất trình tiên mặt trong trường hợp cơ
+2. Trách nhiệm của cơ quan hải quan
+a) Khi nhận được thông tin khai báo của doanh nghiệp, công chức hải
+quan kiểm tra các nội dung khai báo trên hệ thống xử lý dữ liệu điện tử hải quan;
+b) Giám sát tiền mặt đưa vào, ra khu cách ly, khu hạn chế;
+c) Kiểm tra thực tế tiền mặt đưa vào, đưa ra khu cách ly, khu hạn chế
+d) Công chức hải quan thực hiện xác nhận tiền qua khu vực giám sát trên
+hệ thông xử lý dữ liệu điện tử hải quan đối với tiên mặt đưa vào, đưa ra khu
+cách ly, khu hạn chê.
+24
+3. Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cô
+a) Doanh nghiệp có trách nhiệm kê khai trên 02 Bảng kê lượng tiền
+mang vào/ra khu cách ly, khu hạn chế theo Mẫu số 03/BKTMVR Phụ lục II
+ban hành kèm theo Nghị định này cho công chức hải quan kiểm tra, xác nhận.
+trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, trong thời hạn
+24 giờ kể từ khi sự cố của hệ thống xử lý dữ liệu điện tử hải quan được khắc
+phục, doanh nghiệp gửi các thông tin trên bảng kê đến hệ thống xử lý dữ liệu
+b) Cơ quan hải quan có trách nhiệm giám sát việc đưa tiền mặt vào, ra
+khỏi khu cách ly, khu hạn chế. Kiểm tra thực tế tiền mặt trên cơ sở áp dụng
+quản lý rủi ro hoặc có dấu hiệu vi phạm pháp luật. Ngay sau khi hoàn thành
+việc kiểm tra tiền mặt (đối với trường hợp phải kiểm tra thực tế) hoặc tiền mặt
+qua khu vực giám sát, cơ quan hải quan thực hiện xác nhận trên 02 Bảng kê
+lượng tiền mang vào/ra khu cách ly, khu hạn chế doanh nghiệp xuất trình, lưu
+01 bản, trả lại doanh nghiệp 01 bản.
+
+### Điều 19. Báo cáo quyết toán đối với hàng hóa đưa vào để bán tại cửa
+
+1. Thời hạn nộp báo cáo quyết toán đối với hàng hóa đưa vào để bán tại
+a) Định kỳ hàng năm, chậm nhất là ngày thứ 90 kể từ ngày kết thúc năm
+tài chính, doanh nghiệp kinh doanh hàng miễn thuê nộp báo cáo quyết toán
+b) Doanh nghiệp kinh doanh hàng miễn thuế sau khi nộp báo cáo quyết
+toán được phép sửa đôi, bộ sung nội dung báo cáo trong thời gian trước khi hệt
+thời hạn nộp báo cáo quyết toán và trước thời điểm cơ quan hải quan có thông
+báo về việc thực hiện kiểm tra hay không kiểm tra đôi với báo cáo quyết toán.
+2. Địa điểm nộp báo cáo quyết toán
+Tại Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế.
+3. Trách nhiệm của doanh nghiệp kinh doanh hàng miễn thuế
+a) Nộp báo cáo quyết toán đối với hàng hóa đưa vào để bán tại cửa hàng
+miễn thuế: nộp báo cáo quyết toán theo nguyên tắc nhập - xuất - tồn kho theo
+Mẫu số 05 Phụ lục II ban hành kèm theo Nghị định này thông qua hệ thống
+xử lý đữ liệu điện tử hải quan. Trường hợp hệ thống xử lý đữ liệu điện tử hải
+quan gặp sự cố, doanh nghiệp xuất trình báo cáo quyết toán theo Mẫu số
+05/BCQT Phụ lục II ban hành kèm theo Nghị định này cho cơ quan hải quan.
+25
+b) Cung cấp hồ sơ hải quan, chứng từ kế toán, số kế toán, chứng từ bán
+hàng, các giấy tờ khác (nêu có) để phục vụ công tác kiểm tra báo cáo quyêt
+4. Trách nhiệm của Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
+miễn thuế: Tiếp nhận báo cáo quyết toán tình hình kinh doanh hàng miễn thuế
+do doanh nghiệp kinh doanh hàng miễn thuế nộp, kiểm tra báo cáo quyết toán
+theo quy định tại Điêu này và thực hiện:
+a) Đối với báo cáo quyết toán phải thực hiện kiểm tra, cơ quan hải quan
+phải thông báo cho doanh nghiệp kinh doanh hàng miễn thuế trong vòng 20
+b) Đối với báo cáo quyết toán không thuộc trường hợp phải kiểm tra,
+trong thời hạn 20 ngày làm việc kể từ ngày nhận được báo cáo quyết toán của
+doanh nghiệp, cơ quan hải quan phân hồi qua hệ thống xử lý dữ liệu điện tử
+hải quan đến doanh nghiệp về báo cáo quyết toán được chấp nhận, không thực
+hiện kiểm tra. Đồng thời xác nhận trên hệ thống xử lý dữ liệu điện tử hải quan
+5. Các trường hợp kiểm tra báo cáo quyết toán
+.8) Báo cáo quyết toán của doanh nghiệp kinh doanh hàng miễn thuế nộp
+_ b) Báo cáo quyết toán có sự chênh lệch bất thường về số liệu so với hệ
+thống xử lý đữ liệu điện tử hải quan của cơ quan hải quan đã được doanh
+e) Kiểm tra báo cáo quyết toán trên cơ sở áp dụng quản lý rủi ro, đánh
+6. Nội dung kiểm tra báo cáo quyết toán: Kiểm tra hồ sơ hải quan, chứng
+từ kế toán, lượng hàng tồn tại cửa hàng miễn thuế, kho chứa hàng miễn thuế.
+Cơ quan hải quan chỉ yêu cầu doanh nghiệp xuất trình hồ sơ hải quan, chứng
+từ kế toán đối với các chứng từ thể biện số liệu không được lưu trữ trên hệ
+thống xử lý đữ liệu điện tử hải quan hoặc có sự sai khác giữa hệ thống xử lý
+7. Thẩm quyền quyết định kiểm tra báo cáo quyết toán: Đội trưởng Hải
+quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế quyết định kiểm
+tra và tổ chức thực hiện việc kiểm tra đối với các trường hợp quy định tại
+khoản 5 Điều này.
+8. Trình tự, thủ tục kiểm tra báo cáo quyết toán
+a) Kiểm tra báo cáo quyết toán thực hiện theo Quyết định của Đội trưởng
+Hải quan ban hành và gửi cho doanh nghiệp kinh doanh hàng miễn thuê biết
+trong thời hạn 03 ngày làm việc kể từ ngày ký và chậm nhật là 05 ngày làm
+26
+_ Quyết định kiểm tra phải có các thông tin: Người kiểm tra, người bị
+kiệm tra, nội dung kiểm tra, thời gian bất đầu kiểm tra, thời gian kết thúc
+kiểm tra, địa điểm thực hiện việc kiêm tra;
+b) Thời hạn cơ quan hải quan thực hiện kiểm tra không quá 05 ngày làm
+việc kể từ ngày bắt đầu kiểm tra tại trụ sở của doanh nghiệp kinh doanh hàng
+miễn thuế. Trường hợp phức tạp, Đội trưởng Hải quan ban hành quyết định
+gia hạn thời hạn kiểm tra nhưng không quá 05 ngày làm việc kể từ ngày kết
+Các nội dung kiểm tra được ghỉ nhận bằng các biên bản kiểm tra giữa đại
+9. Xử lý kết quả kiểm tra: Trong thời gian 05 ngày làm việc kể từ ngày
+kết thúc kiểm tra tại trụ sở của doanh nghiệp kinh đoanh hàng miễn thuế, cơ
+kiểm tra về sự phù hợp, nội dung không phù hợp của báo cáo quyết toán (nếu
+có) để doanh nghiệp giải trình.
+a) Trường hợp kiểm tra xác định báo cáo quyết toán phủ hợp với chứng
+từ kế toán, số kế toán, phù hợp với hồ sơ hàng hóa thực hiện kinh doanh hàng
+miễn thuế, cơ quan hải quan ban hành kết luận kiểm tra và xác nhận kết quả
+kiểm tra trên báo cáo quyết toán. Cập nhật kết quả kiểm tra vào hệ thống xử
+b) Trường hợp không phù hợp với chứng từ kế toán, số kế toán, không
+nghiệp giải trình trong vòng 05 ngày làm việc kể từ ngày thông báo kết quả
+kiểm tra. Trường hợp cơ quan hải quan chấp nhận nội dung giải trình của
+doanh nghiệp, trong thời gian 05 ngày làm việc cơ quan hải quan. ban hành kết
+luận kiểm tra, xác nhận vào báo cáo quyết toán và cập nhật kết quả vào hệ
+e) Trường hợp cơ quan hải quan không chấp nhận nội dung giải trình của
+doanh nghiệp hoặc doanh nghiệp không giải trình thì cơ quan hải quan căn cứ
+quy định pháp luật về thuế, pháp luật về hải quan và hồ sơ hiện có để quyết
+định xử lý về thuế và xử lý vi phạm hành chính theo thẩm quyền hoặc kiến
+đ) Bản kết luận kiểm tra phải có các nội dung: Quyết định kiểm tra,
+phạm vi kiểm tra, nội dung kiểm tra, ý kiến của người được kiểm tra, kết luận
+về từng nội dung được kiểm tra, mức độ vi phạm (nếu có), biện pháp xử lý,
+27
+
+### Điều 20. Trách nhiệm của đối tượng mua hàng miễn thuế quy định
+
+tại Điều 5 Nghị định này
+1. Người mua hàng miễn thuế khi mua hàng miễn thuế phải xuất trình,
+cung cấp những thông tin cần thiết khi mua hàng miễn thuế được quy định tại
+Nghị định này, không được cho người khác sử dụng hộ chiếu, giấy thông
+hành, tiêu chuẩn miễn thuế của mình.
+2. Thực hiện các nghĩa vụ về thuế, chính sách mặt hàng nhập khẩu trong
+trường hợp mua hàng vượt tiêu chuẩn định lượng miễn thuế: kê khai, nộp thuế
+và các khoản thu khác thuộc ngân sách nhà nước (nếu có) theo quy định và
+
+### Điều 21. Công tác phối hợp của đơn vị kinh doanh cảng biển, cảng
+
+hàng không dân dụng quốc tế, ga đường sắt liên vận quốc tế, Ban Quản
+lý khu kinh tế cửa khẩu đường hộ quốc tế, đơn vị được giao quản lý cửa
+khấu đường bộ quốc tế, doanh nghiệp kinh doanh hàng miễn thuế và cơ
+1. Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thống
+phất với đơn vị kinh doanh cảng biển, cảng hàng không dân dụng quốc tế, ga
+đường sắt liên vận quốc tế, Ban Quản lý khu kinh tế cửa khâu đường bộ quốc
+tế, đơn vị được giao. quản lý cửa khẩu đường bộ quốc tế về địa điểm cơ quan
+hải quan thực hiện giãm»sát hàng hóa, tiền mặt đưa vào, đưa ra khu vực cách
+ly, khu vực hạn chế.. - “ `
+2. Đoanh nghiệp kinh. doanh hàng miễn thuế thông báo cho Hải quan
+quản lý tủa hàng miễn thuê, kho chứa hàng miễn thuế danh sách những người
+có nhiệm Wwự đưa hàng đióa, tiền mặt ra, vào khu cách ly, khu vực hạn chế và
+nhân viên bẵn hàng đề đảm bảo các yêu câu giám sát của cơ quan hải quan.
+` Chương 1
+
+### Điều 22. Hiệu lực thi hành
+
+1. Nghị định này có hiệu lực thi hành kể từ ngày 21 tháng 8 năm 2026.
+2. Nghị định số 100/2020/NĐ-CP ngày 28 tháng 8 năm 2020 của Chính
+phủ về kinh doanh hàng, miễn thuế hết hiệu lực thi hành kể từ ngày Nghị định
+3. Thay thế biểu mẫu tại Phụ lục IIT Nghị định số 181/2025/NĐ-CP ngày
+01 tháng 7 năm 2025 của Chính phủ quy định chỉ tiết thi hành một sô điều của
+Luật Thuế giá trị gia tăng bằng biêu Mẫu số 09/BKHH Phụ lục II Nghị định này.
+28
+
+### Điều 23. Trách nhiệm thi hành
+
+1. Giao Bộ Tài chính có trách nhiệm:
+a) Xây dựng, duy trì, vận hành hệ thống xử lý dữ liệu điện tử hải quan để
+tiếp nhận, xử lý, theo đối, quản lý hàng hóa đưa vào, đưa ra, bán tại cửa hàng
+miễn thuế và hướng . dẫn các vướng mắc phát sinh đối với hoạt động kinh
+b) Cung cấp, chia sẻ dữ liệu về hoạt động kinh doanh hàng miễn thuế theo
+quy định của pháp luật về giao dịch điện tử và pháp luật có liên quan khác.
+2. Doanh nghiệp kinh doanh hàng miễn thuế chịu trách nhiệm quản lý
+hàng hóa để kinh doanh hàng miễn thuế, bán hàng miễn thuế đúng đối tượng,
+. thực hiện các thủ tục hải quan liên quan đến kinh đoanh hàng miễn thuế theo
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân
+dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị
+- Thủ tướng, các Phó Thủ tướng Chính phủ; \ THỦ TƯỜNG
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ý ý
+- Văn phòng Tổng Bí thư, |
+- Văn phòng, Quốc hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐÐ Cổng TTĐT,
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: VT, KTTH (2Ù). 4g
+1. Thuốc lá: Tem được dán ở đầu tút thuốc, vắt qua vị trí mở đảm bảo khi
+mở tút thuốc thì tem sẽ rách và không thể sử dụng lại được. Đối với thuốc lá sợi,
+tem được dán ở vị trí nắp hộp đảm bảo khi mở nắp để lấy sợi thuốc thì tem sẽ rách
+2. Rượu chai (bao gồm cả hỗ, bình): Tem được dán vắt qua vị trí mở nơi có
+thể lầy rượu ra trên bao bì chứa sản phẩm rượu (nắp chai, nắp hũ, nắp bình, vòi
+rượu,. c) đảm bảo khi mở nắp chai thì tem sẽ rách và không thê sử dụng lại được.
+Đối với các loại rượu đựng trong hộp cần bảo quản đặc biệt của nhà sản xuất t (gắn
+sỉ, chì, ...), tem được dán vào nắp hộp phía trên chai rượu đảm bảo khi mở nắp thì
+3. Bia các loại: Tem được dán ở vỏ thùng carton vắt qua vị trí mở thùng đảm
+bảo khi mở thùng thì tem sẽ rách và không thể sử dụng lại được. Đối với bia đựng
+trong thùng chứa từ 03 lít trở lên thì dán tem vào nắp thùng đảm bảo khi mở thùng
+¡ định số 273/2026/NĐ-CP
+năm 2026 của Chính phủ)
+1. Danh sách các mẫu khai báo
+01 Phiếu thông báo hàng vượt định mức của khách mua hàng miễn thuế
+02 __ | Phiếu giao hàng đối với khách mua hàng miễn thuế trong nội địa
+03 | Bảng kê lượng tiền mang vào/ra khu cách ly, khu hạn chế
+04 Biên bản bàn giao hàng hóa miễn thuế vận chuyên chịu sự giám sát
+05 __ | Báo cáo quyết toán kinh doanh hàng miễn thuế
+06a __ | Phiếu giao nhận hàng hóa đối với hàng hóa luân chuyển từ kho chứa
+06b Phiếu giao nhận hàng hóa đối với hàng hóa luân chuyển từ tàu bay |
+07 Bảng kê lượng tiền mặt luân chuyển giữa kho chứa hàng miễn thuế
+08a Danh sách hàng hóa đưa vào cửa hàng miễn thuế, kho chứa hàng
+miễn thuế (hàng hóa sản xuất tại Việt Nam)
+08b Danh sách hàng hóa đưa vào cửa hàng miễn thuế, kho chứa hàng
+miễn thuế (hàng hóa nhập khẩu đã hoàn thành thủ tục nhập khẩu)
+08c Danh sách hàng hóa đưa ra cửa hàng miễn thuế, kho chứa hàng miễn
+thuế (hàng hóa sản xuất tại Việt Nam, hàng hóa nhập khẩu đã hoàn
+thành thủ tục nhập khẩu)
+09 Bảng kê hàng hóa bán cho khách xuất cảnh
+10 Bảng kê hàng mẫu, hàng thử, túi, bao bì nhập khẩu
+11 Danh sách hàng hóa luân chuyền giữa kho chứa hàng miễn thuế, cửa
+12 Phiếu kê hàng hóa xuất bán cho khách hàng,
+13 Phiếu hủy
+14 Thông tin số định mức miễn thuế
+15 Báo cáo tình hình sử dụng hàng mẫu, hàng thử, túi, bao bì
+2, Chỉ tiêu thông tin khai bảo đối ý
+Mẫu | Phiếu thông báo Thực hiện kh Tháo tua hàng vượt định mức
+số 01 hàng vượt định mức | miễn thuế theo quy định.
+11 'Tên doanh nghiệp Nhập tên doanh nghiệp kinh doanh hàng miễn
+1.2 Ngày lập phiếu Nhập ngày khách mua hàng miễn thuế vượt định
+1.43 | Tên người mua hàng | Nhập tên người mua hàng miễn thuế.
+14 Số hộ chiếu Nhập số hộ chiếu của người mua hàng miễn thuế.
+1.5 | Số hiệu chuyến bay Nhập số hiệu chuyến bay của người mua hàng
+1.6 Số hóa đơn Nhập số hóa đơn của đơn hàng mua vượt định
+B Thông tin chỉ tiết _ | Thông tin chỉ tiết từng dòng/mục hàng trong đơn
+hàng (một đơn hàng được khai nhiều dòng mục
+hàng khác nham)
+1⁄7 'Tên hàng Nhập tên hàng hóa chính xác theo tên hàng đã
+có nguồn gốc nhập khẩu, danh sách hàng hóa đưa
+vào cửa hàng miễn thuê, kho chứa hàng miễn
+1.8 Đơn vị tính Nhập đơn vị tính chính xác theo đơn vị tính đã
+có nguồn gốc nhập khẩu, danh sách hàng hóa đưa
+vào cửa hàng miễn thuế, kho chứa hàng miễn
+1.9 Số lượng Nhập số lượng hàng hóa khách hàng đã mua
+1.10 Trị giá Nhập trị giá hàng hóa chính xác theo hóa đơn bán
+111 Gihỉ chú Nhập các nội dung cần ghi chú.
+STT thông tin Mô tả, ghi chú
+Mẫu | Phiếu giao hàng đối | Thực hiện khi khách mua hàng miễn thuế tại cửa
+số 02 | với khách mua hàng hàng miền thuê trong nội địa và giao hàng tại
+miễn thuế trong nội địa | quầy nhận hàng trong khu cách ly.
+4 Thông tin chung
+2.1 Ngày lập phiều Nhập ngày lập phiếu giao hàng.
+2.2 Tên doanh nghiệp | Nhập tên doanh nghiệp kinh doanh hàng miễn
+2.43 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+2.4 | Tên người mua hàng | Nhập tên người mua hàng miễn thuế.
+2.5 | Số hộ chiếu/giấy thông | Nhập số hộ chiếu/giấy thông hành của người mua
+hành của hành khách | hàng miễn thuế.
+2.6 Số hiệu chuyến bay, Nhập Số hiệu chuyển bay, số hiệu phương, tiện
+số hiệu phương tiện xuất cảnh của người mua hàng miễn thuế (nêu có)
+2/7 Số hóa đơn Nhập số hóa đơn của đơn hàng.
+2.8 Ngày hóa đơn Nhập ngày hóa đơn của đơn hàng.
+2.9 | Cửa khẩu giao hàng | Nhập cửa khẩu người mua hàng miễn thuế xuất cảnh.
+2.10. | Kho/cửa hàng xuất hàng | Nhập mã Kho/cửa hàng xuất hàng.
+B Thông tin chỉ tiết | Thông tin chỉ tiết từng dòng/mục hàng trong ẩơn
+hàng (một đơn hàng được khai nhiều đdòng/mục
+hàng khác nhau)
+2.11 Tên hàng Nhập tên hàng hóa chính xác theo tên hàng đã
+có nguồn gốc nhập khẩu, danh sách hàng hóa đưa
+vào cửa hàng miễn thuế, kho chứa hàng miễn
+2.12 Đơn vị tính Nhập đơn vị tính chính xác theo đơn vị tính đã
+có nguồn gốc nhập. khẩu, ‹ danh sách hàng hóa đưa
+vào cửa hàng miễn thuế, kho chứa hàng miễn
+2.13 Số lượng Nhập số lượng hàng hóa khách hàng đã mua
+2.14 Trị giá Nhậptrị giá hàng hóa chính xác theo hóa đơn bán hàng.
+2.15 Ghi chú Nhập các nội dung cần ghỉ chú.
+STT thông tin Mô tá, ghi chú
+Mẫu | Bảng kê lượng tiền | Thực hiện khi doanh nghiệp kinh doanh hàng
+số 03 | mang vào/ra khu miễn thuế mang tiền vào/ra khu cách ly, khu hạn
+cách ly, khu hạn chế | chế
+4 Thông tin chung
+3.1 Ngày lập bảng kê | Nhập ngày lập bảng kê.
+3.2 'Tên doanh nghiệp Nhập tên doanh nghiệp kinh doanh hàng miễn
+3.3 Địa chỉ Nhập địa chỉ của doanh nghiệp kinh doanh hàng
+3.4 Mã số thuế Nhập mã số thuế của đoanh nghiệp kinh doanh
+3.5 Cửa hàng Nhập mã kho/cửa hàng miễn thuế mang tiền
+vào/ra khu cách ly, khu hạn chế.
+3.6 Loại phiếu Nhập “1” nếu là phiếu mang vào, “0” nếu là phiếu
+L2) Thông tin chỉ tiết | Thông tin chỉ tiết từng loại tiền mặt, tiền thu được
+không băng tiên mặt đua vào/ra khu cách Íy, khu hạn
+3.7 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+(Tham khảo bảng mã trên website Hải quan).
+3.8 Số lượng Số lượng tiền ngoại tệ đưa vào/ra.
+3.9 Tiền thẻ Nhập “1” nếu tiền thu được không phải là tiền
+mặt, “0” nêu tiên thu được là tiên mặt.
+Mẫu Biên bản bàn giao | Thực hiện trong trường hợp:
+^ Fà 1 Fì 3
+số 04 | hàng hóa miễn thuê | - | ân chuyên hàng hóa giữa các kho chứa hàng
+miễn thuế, giữa các cửa hàng miễn thuế, giữa kho
+một doanh nghiệp có nhiều cửa hàng miễn thuế,
+Chỉ tiêu ^ dã + bẻ
+STT thông tin Mô tả, ghi chú
+4 Thông tin chung
+41 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+4.2 Số biên bản Không phải nhập liệu, hệ thống tự động cập nhật
+443 Hải quan bàn giao | Nhập tên Hải quan nơi hàng hóa miễn thuế vận
+4.4 Ngày giờ bàn giao | Nhập ngày giờ bàn giao của Hải quan nơi hàng
+4.5 | Người nhận bàn giao | Nhập họ tên người nhận bàn giao của Hải quan
+4.6 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+4.7 Số phiếu xuấtkho | Nhập số phiếu xuất kho của doanh nghiệp kinh
+doanh hàng miễn thuế (được phép nhập nhiều
+phiếu xuất kho cùng ngày xuất kho)
+4.8 Ngày xuất kho Nhập ngày xuất kho của doanh nghiệp.
+4.9 Hải quan đến Nhập tên Hải quan nơi hàng hóa miễn thuế vận
+4.10 Tình trạng xe Nhập tình trạng xe container/xe chuyên dụng/hàng
+4.11 | Biên bản tình trạng xe | Nhập số biên bản tình trạng, xe container/xe
+chuyên dụng/hàng hóa. (nếu có).
+4.12 | Thời gian vận chuyển | Nhập tổng thời gian vận chuyển.
+4.13 Tuyến đường vận Nhập tuyến đường vận chuyển.
+4.14 Số km Nhập số km vận chuyển.
+4.15 | Ngày giờ xuất phát | Nhập ngày, giờ xuất phát.
+4.16 Ngày giờ đến Nhập ngày, giờ đến.
+4.17 Vấn đề khác Nhập các vấn đề khác liên quan đến hàng hóa và
+hồ sơ hải quan (nếu có).
+4.18 Số hiệu container Nhập số hiệu container hoặc biển kiểm soát xe
+Chỉ tiêu À s3 E3 bế
+STT thông tin Mô tả, ghi chú
+4.19 Số seal vận tải Nhập số niêm phong hãng vận tải.
+4.20 | Số niêm phonghải | Nhập số niêm phong hải quan.
+421 Số Mark nhôm Nhập số Mark nhôm định danh.
+Mẫu Báo cáo quyết toán | Thực hiện khi nộp báo cáo quyết toán tình hình
+số 05| kinh doanh hàng | bán hàng miễn thuế trong năm tài chính cho cơ
+A4 Thông tin chung
+$1 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+5.2 - Mã hải quan Nhập mã Hải quan quản lý của hàng, miễn thuế,
+s3 Năm báo cáo Nhập năm báo cáo.
+5.4 Từ ngày Nhập ngày bắt đầu năm báo cáo.
+S.5 Đến ngày Nhập ngày kết thúc năm báo cáo.
+B Thông tin chỉ tiễt _ | Thông tin chỉ tiết từng đòng/mục hàng trong báo
+cáo quyết toán (một báo cáo quyết toán được khai
+nhiều dòng/“mục hàng khác nhau)
+$6 Mã HS Nhập mã HS của hàng hóa.
+5.7 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+5.8 'Tên hàng Nhập tên hàng hóa.
+s.9 Đơn vị tính Nhập đơn vị tính theo đơn vị tính bán cho khách
+5.10 | Số lượng tồn đầu kỳ | Nhập số lượng tồn đầu kỳ hàng tạm nhập khẩu từ
+nước ngoài, kho ngoại quan, khu phi thuế quan.
+5.11 | Số lượng tồn đầu kỳ | Nhập số lượng tồn đầu kỳ hàng từ nội địa, hàng
+5.12 | Số lượng nhập trong. | Ô 1: Nhập số lượng nhập trong kỳ hàng tạm nhập
+kỳ tạm nhập khâu từ nước ngoài, kho ngoại quan, khu phi thuế
+Ô 2: Nhập số lượng hàng hóa nhập về do luân
+chuyển giữa kho/cửa hàng/tàu bay trong kỳ có
+Chỉ tiêu A s3 chỉ chú
+STT thông tin Mô tả, ghí chú
+5.13 | Số lượng nhập trong .| Ô 1: Nhập số lượng nhập trong kỳ hàng từ nội
+địa, hàng đã hoàn thành thủ tục nhập khẩu.
+Ô2: Nhập số lượng hàng hóa nhập về do luân
+chuyển giữa kho/cửa hàng/tàu bay trong kỳ có
+5314| Số lượng xuất bán | Nhập số lượng xuất bán trong kỳ.
+5.15 | Số lượng chuyển tiêu | Nhập số lượng hàng chuyển tiêu thụ nội địa.
+5.16 | Số lượng đưa trở lại |Ô 1: Nhập số lượng hàng đưa trở lại nội địa (hàng
+nội địa từ nội địa, hàng đã hoàn thành thủ tục nhập khẩu).
+Ô2: Nhập số lượng hàng hóa xuất do luân chuyển
+giữa kho/của hàng/tàu bay trong kỳ có nguôn gôc
+5.17 Số lượng tái xuất |Ô 1: Nhập số lượng tái xuất trong kỳ.
+trong kỳ Ô 2: Nhập số lượng hàng hóa xuất do luân chuyển
+giữa kho/cửa hàng/tàu bay trong kỳ có nguồn gôc
+5.18 |. Số lượngtiêu hủy | Nhập số lượng tiêu hủy trong kỳ.
+5.19 Số lượng chuyển Số lượng chuyển hàng mẫu, hàng thử trong kỳ.
+5.20 | Số lượng tổn cuối kỳ | Nhập số lượng tồn cuối kỳ hàng tạm nhập khẩu
+tạm nhập từ nước ngoài, kho ngoại quan, khu phi thuế
+5.21 | Số lượng tồn cuối kỳ | Nhập số lượng tồn cuối kỳ hàng từ nội địa, hàng
+5.22 Hàng mẫu Nhập “10” nếu là hàng. mẫu, hảng thử, túi, bao bì,
+“Sa nếu là hàng hóa đề bán cho khách mua hàng
+5.23 Ghi chú - Nhập thông tin cần ghỉ chú.
+- Trường hợp hàng mẫu, hàng thử, túi bao bì
+khai vào chỉ tiêu “Số lượng xuất bán trong kỳ”
+-và ghi chú cụ thể là hàng mẫu, hàng thử hoặc túi
+Chỉ tiêu A v3 Gbt nhủ
+STT thông tin Mô tả, ghi chú
+Mẫu | Phiếu giao nhận hàng | Thực hiện khi vận chuyển hàng hóa từ kho chứa
+số 06a| hóa đối với hàng hóa | hàng miễn thuế lên tàu bay.
+6.1 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+6.2 Số phiếu Nhập số phiếu giao nhận của doanh nghiệp.
+6.3 | Ngày lập phiếu (Ngày | Nhập ngày lập phiếu giao nhận hàng hóa đối với
+hạch toán) hàng hóa đưa từ kho chứa hàng miền thuê lên tàu bay.
+6.4 Mã kho xuất Nhập mã kho chứa hàng miễn thuế xuất.
+6.5 Số hiệu chuyến bay | Nhập số hiệu chuyến bay.
+6.6 Sân bay đi Nhập tên sân bay quốc tế đi.
+6.7 Sân bay đến Nhập tên sân bay quốc tế đến (dự kiến).
+6.8 Ngày đi Nhập ngày khởi hành.
+6.9 Ngày đến Nhập ngày đến (dự kiến).
+6.10 | Số hiệu phương tiện | Nhập số hiệu phương tiện chứa hàng miễn thuế.
+B Thông tin chỉ tiễt | Thông tin chỉ HẾI từng dòng/mục hàng trong
+phiêu giao nhận hàng hóa (một phiêu giao nhận
+hàng hóa được khai nhiêu dòng/“mục hàng khác
+nhau)
+6.11 Mã HS Nhập mã HS của hàng hóa.
+6.12 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+6.13 Tên hàng Nhập tên hàng hóa.
+6.14 Đơn vị tính Nhập đơn vị tính theo đơn vị tính bán cho khách
+6.15 Số tờ khai Nhập số tờ khai đối với hàng hóa có nguồn gốc
+6.16 Ngày tờ khai Nhập ngày tờ khai đối với hàng hóa có nguồn gốc
+Chỉ tiêu A s3 chị chờ
+STT thông tin Mô tả, ghi chú
+6.17 Số lượng Ô 1: Nhập số lượng hàng hóa xuất kho bán trên
+Ô 2: Nhập “10” nếu là hàng mẫu, hàng thử, túi,
+bao bì, nhập “0” nếu là hàng hóa bán cho khách
+Mẫu | Phiếu giao nhận hàng | Thực hiện khi vận chuyển hàng hóa từ tàu bay về
+số 06b| hóa đối với hàng hóa | kho chứa hàng miễn thuê.
+luân \ chuyển từ tàu
+4 Thông tin chung
+6.18 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+6.19 Số phiếu Nhập số phiếu giao nhận của doanh nghiệp.
+6.20 | Ngày lập phiếu (Ngày | Nhập ngày lập phiếu giao nhận hàng hóa đối với
+hạch toán) hàng hóa đưa từ kho chứa hàng miễn thuế lên tàu
+6.21 Mã kho nhập Nhập mã kho chứa hàng miễn thuế nhập.
+6.22 | Số hiệu chuyến bay | Nhập số hiệu chuyến bay.
+6.23 Sân bay đi Nhập tên sân bay quốc tế đi.
+6.24 Sân bay đến Nhập tên sân bay quốc tế đến.
+6.25 Ngày đi Nhập ngày khởi hành.
+6.26 Ngày đến Nhập ngày đến.
+6.27 | Số hiệu phương tiện | Nhập số hiệu phương tiện chứa hàng miễn thuế.
+B Thông tân chỉ tiết Thông tin chỉ tiẾt từng dòng/mục “hàng trong
+phiếu giao nhận hàng hóa (một phiếu giao nhận
+hàng hóa được khai nhiều dòng⁄“mục hàng khác
+nhau)
+6.28 Mã HS Nhập mã HS của hàng hóa.
+6.29 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+6.30 Tên hàng Nhập tên hàng hóa.
+6.31 Đơn vị tính Nhập đơn vị tính theo đơn vị tính bán cho khách
+10
+Chỉ tiêu Â xã ch: nhé
+STT thông tin Mô tả, ghi chú
+6.32 Số tờ khai Nhập số tờ khai đối với hàng hóa có nguồn gốc
+6.33 Ngày tờ khai Nhập ngày tờ khai đối với hàng hóa có nguồn gốc
+6.34 số lượng chặng đi | Nhập số lượng hàng hóa đã bán phục vụ hành
+6.35 | Số lượng chặng về | Nhập số lượng hàng hóa đã bán phục vụ hành
+: khách trên chuyên bay quốc tế - chặng về.
+6.36 Số lượng tồn Ô 1: Nhập số lượng hàng hóa còn tồn trên chuyến
+Ô 2: Nhập “10” nếu là hàng mẫu, hàng thử, túi,
+bao bì, nhập “0” nếu là hàng hóa bán cho khách
+Mẫu | Bảng kê lượng tiền | Thực hiện khi luân chuyển tiền mặt giữa kho
+số 07| mặt luân chuyển | chứa hàng miễn thuế và tàu bay.
+7.1 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+7.2 Số bảng kê Nhập số bảng kê của doanh nghiệp.
+7.3 Ngày kê khai Nhập ngày lập bảng kê lượng tiền mặt luân
+7.4 Mã kho Nhập mã kho chứa hàng miễn thuế giao/nhận tiền
+7.5 Số hiệu chuyến bay | Nhập số hiệu chuyến bay.
+7.6 Từ sân bay Nhập tên sân bay quốc tế đi.
+7.7 Đến sân bay Nhập tên sân bay quốc tế đến.
+78 | Số hiệu phương tiện | Nhập số hiệu phương tiện chứa hàng miễn thuế.
+7.9 Ngày giờ bay Nhập ngày giờ khởi hành.
+7.10 Người giao Nhập họ tên người giao tiền.
+11
+số 08a
+miễn thuế, I kho chứa
+hàng miễn thuế,
+(hàng hóa sản xuất
+Chỉ tiêu À v3 ch: nhế
+STT thông tin Mô tả, ghi chú
+7.11 | Chức vụ người giao | Nhập chức vụ người giao tiền.
+7.12 Người nhận Nhập họ tên người nhận tiền
+7.13 | Chức vụ người nhận | Nhập chức vụ người nhận tiền.
+7.14 Loại phiếu Nhập “1” nếu là phiếu đưa lên tàu bay, “0” nếu là
+B Thông tin chỉ tiết | Thông tin chỉ tiết từng loại tiền trong bảng kê
+lượng tiễn mặt (một bảng kê lượng tiền mặt được
+khai nhiều loại tiên khác nhau)
+7.15 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+(Tham khảo bảng mã trên website Hải quan).
+7.16 Số lượng Số lượng tiền ngoại tệ đưa lên/xuống tàu bay.
+7.17 Tiên thẻ Nhập “1” nếu tiền thu được không phải là tiền
+mặt, “0” nếu tiền thu được là tiền mặt.
+Mẫu | Danh sách hàng hóa | Thực hiện khi đưa hàng hóa vào cửa hàng miễn
+thuế, kho chứa hàng miễn thuế đối với hàng hóa
+tại Việt Nam)
+81 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+8.2 Số danh sách Nhập số danh sách hàng hóa của doanh nghiệp.
+(Số phiếu)
+83 | Ngày lập danh sách | Nhập ngày lập danh sách hàng hóa đưa vào cửa
+(Ngày hạch toán) |hàng miễn thuế, kho chứa hàng miễn thuế đối với
+8.4 Mã kho, cửahàng | Nhập mã kho chứa hàng miễn thuế, cửa hàng
+8.5 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+(Tham khảo bảng mã trên website Hải quan).
+Đ Thông tìn chỉ tiết | Thông tin chỉ tiết từng dòng/mục hàng trong
+danh sách hàng hóa (một danh sách hàng hóa
+được khai nhiêu dòng⁄mục hàng khác nhau)
+8.6 Mã HS Nhập mã HS của hàng hóa.
+12
+Chỉ tiêu Adã ch: ah#
+STT thông tin Mô tả, ghi chú
+8.7 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+8.8 Tên hàng Nhập tên hàng hóa.
+8.9 Đơn vị tính Ô 1: Nhập đơn vị tính theo đơn vị tính nhập kho,
+Ô 2: Nhập đơn vị tính theo đơn vị tính bán cho
+Ô 3: Nhập giá trị quy đổi từ đơn vị tính nhập kho,
+Ví dụ: Đơn vị tính nhập kho, cửa hàng là UND
+(tú) thuốc lá; đơn vị tính bán cho khách mua
+hàng miễn thuế là ƯNK (bao) thuốc lá. 1 tút thuốc
+lá gồm 10 bao, Giá trị quy đổi là 10.
+8.10 Số lượng ÔI: Nhập số lượng theo đơn vị tính bán cho
+Ô2: Nhập “10” nếu là hàng mẫu, hàng thử, túi,
+bao bì, nhập. s0? nếu là hàng hóa bán cho khách
+811 Đơn giá Nhập đơn giá theo đơn vị tính bán cho khách mua
+8.12 Trị giá Nhập trị giá theo đơn vị tính bán cho khách mua
+Mẫu | Danh sách hàng hóa | Thực hiện khi đưa hàng hóa vào cửa hàng miễn
+số 08b|_ đưa vào cửa hàng | thuế, kho chứa hàng miễn thuế đối với hàng hóa
+miễn thuế, kho chứa | nhập khẩu đã hoàn thành thủ tục nhập khẩu.
+(hàng hóa nhập
+thủ tục nhập khẩu)
+4 Thông tín chung
+8.13 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+8.14 Số danh sách Nhập số danh sách hàng hóa của doanh nghiệp.
+(Số phiếu)
+8.15 | Ngày lập danh sách | Nhập ngày lập danh sách hàng hóa đưa vào cửa
+(Ngày hạch toán) | hàng miễn thuê, kho chứa hàng miễn thuê đổi với
+13
+(Số phiếu)
+Chỉ tiêu A
+STT thông tin Mô tá, ghí chú
+8.16 | Mãkho,cửahàng | Nhập mã kho chứa hàng miễn thuế, cửa hàng
+8.17 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+(Tham khảo bảng mã trên website Hải quan).
+Lịj Thông tin chỉ tết | Thông tin chỉ tiết từng đòng/mục hàng trong
+danh sách hàng hóa (một danh sách hàng hóa
+được khai nhiễu dòng/“mục hàng khác nhau)
+8.18 Mã HS Nhập mã HS của hàng hóa.
+8.19 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+8.20 Tên hàng Nhập tên hàng hóa.
+8.21 Đơn vị tính Nhập đơn vị tính theo đơn vị tính bán cho khách
+' mua hàng, miễn thuế.
+8.22 Số lượng Ô 1: Nhập số lượng theo đơn vị tính bán cho
+Ô 2: Nhập “10” nếu là hàng mẫu, hàng thử, túi,
+bao bì, nhập “0” nêu là hàng hóa bán cho khách
+D.23 Đơn giá Nhập đơn giá theo đơn vị tính bán cho khách mua
+8.24 Trị giá Nhập trị giá theo đơn vị tính bán cho khách mua
+Mẫu | Danh sách hàng hóa Thực hiện khi đưa hàng hóa ra khỏi cửa hàng
+số 08c đưa ra cửa hàng |miễn thuế, kho chứa hàng I miền thuê đôi với hàng
+miễn thuế, kho chứa | hóa từ nguồn hàng sản xuất trong nước, hàng hóa
+(hàng hóa sản xuất
+tại Việt Nam, hàng
+nhập khẩu)
+D.25 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+8.26 Số danh sách Nhập số danh sách hàng hóa của doanh nghiệp.
+14
+Chỉ tiêu A vã _—
+STT thông tin Mô tả, ghỉ chú
+8.27 | Ngày lập danh sách | Nhập ngày lập danh sách hàng hóa đưa ra cửa
+(Ngày hạch toán) _ | hàng miễn thuế, kho chứa hàng miễn thuê đôi với
+hàng hóa từ nguồn hàng sản xuất trong nước,
+8.28 Mã kho, cửa hàng Nhập mã kho chứa bàng miễn thuế, cửa hàng
+8.29 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+(Tham khảo bảng mã trên website Hải quan).
+B Thông tin chỉ tiết | Thông tin chỉ tiết từng dòng/mục hàng trong
+danh sách hàng hóa (một danh sách hàng hóa
+được khai nhiễu dòng/tục hàng khác nhau)
+8.30 Mã HS Nhập mã HS của hàng hóa.
+8431 Mã hàng Nhập mã theo đõi hàng hóa của doanh nghiệp.
+8.32 Tên hàng Nhập tên hàng hóa.
+8433 Đơn vị tính Nhập đơn vị tính theo đơn vị tính bán cho khách
+8.34.| Số danh sách/tờ khai | Nhập số danh sách hàng hóa đưa vào/tờ khai nhập
+D.35 | Ngày danh sáchờ | Nhập ngày danh sách hàng hóa đưa vào/tờ khai
+D.36 Số lượng Ô 1: Nhập số lượng theo đơn vị tính bán cho
+Ô 2: Nhập “10” nếu là hàng mẫu, hàng thử, túi,
+bao bì, nhập Z0” nêu là hàng hóa bán cho khách
+8.37 Đơn giá Nhập đơn giá theo đơn vị tính bán cho khách mua
+8.38 Trị giá Thập trị giá theo đơn vị tính bán cho khách mua
+Mẫu Bảng kê hàng hóa | Thực hiện khi làm thủ tục hải quan đối với hàng
+số 09 | bán cho khách xuất | hóa đã bán cho khách xuất cảnh nhưng giao ở
+4 Thông tìn chung
+9] Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+15
+Chỉ tiêu À vã on: nhứ
+STT thông tin Mô tá, ghi chú
+92 Số bảng kê Nhập số bảng kê hàng hóa của doanh nghiệp.
+(Số phiếu)
+93 Ngày lập bảng kê _ | Nhập ngày lập bảng kê hàng hóa bán cho khách
+(Ngày hạch toán) | xuât cảnh.
+9.4 Mã kho, của hàng | Nhập mã kho chứa hàng miễn thuế, cửa hàng
+95 Quốc gia Nhập quốc gia, vùng lãnh thổ giao hàng.
+96 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+_ | (Tham khảo bảng mã trên website Hải quan).
+B Thông tin chỉ tiết | Thông tin chỉ tiết từng dòng/mục hàng trong
+bảng kê hàng hóa (một bảng kê hàng hóa được
+khai nhiêu dòng/mục hàng khác nhau)
+97 Số hóa đơn Nhập số hóa đơn bán hàng của doanh nghiệp.
+9.8 | Tên người mua hàng | Nhập họ tên người mua hàng.
+9.9 Quốc tịch Nhập quốc tịch người mua hàng.
+9.10 Số hộ chiếu Nhập số hộ chiếu/số giấy thông hành/số giấy tờ
+911 - Ngày hết hạn Nhập ngày hết hạn hộ chiếu/giấy thông hành/piấy
+9.12 Mã HS Nhập mã HS của hàng hóa.
+9.13 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+9.14 Tên hàng Nhập tên hàng hóa.
+9.15 Đơn vị tính Nhập đơn vị tính theo đơn vị tính bán cho khách
+9.16 Số lượng Nhập số lượng theo đơn vị tính bán cho khách
+9.17 Đơn giá Nhập đơn giá theo đơn vị tính bán cho khách mua
+918 Trị giá Nhập trị giá theo đơn vị tính bán cho khách mua
+Mẫu | Bảng kê hàng mẫu, | Thực hiện khi xuất hàng mẫu, hàng thử, túi, bao
+sô 10 | hàng thử, túi, bao bì | bì nhập khâu từ kho/cửa hàng sang kho/cửa hàng.
+16
+Chỉ tiêu ^ the
+STT thông tin Mô tả, ghi chú
+10.1 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+10.2 Số bảng kê Nhập số bảng kê hàng hóa của doanh nghiệp.
+(Số phiếu)
+10.3 Ngày xuất kho' Ngày xuất kho hoặc cửa hàng của doanh nghiệp
+(ngày hạch toán).
+10.4 Ngày nhập kho Ngày nhập kho hoặc cửa hàng của doanh nghiệp
+(ngày hạch toán).
+10.5 | Mãkho,cửahàng | Nhập mã kho chứa hàng miễn thuế, cửa hàng
+10.6 | Mãkho,cửahàng |Nhập mã kho chứa hàng miễn thuế, cửa hàng
+10.7 Vị trí Nhập “0” nếu kho/cửa hàng xuất cùng thuộc khu
+cách ly/khu hạn chệ với kho/cửa hàng nhập, “1”
+nêu kho/cửa hàng xuât khác khu vực với kho/cửa
+10.8 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+(Tham khảo bảng mã trên website Hải quan).
+Đ Thông tin chỉ tiết | Thông tin chỉ tiết từng dòng/mục hàng trong
+bảng kê hàng hóa (một bảng kê hàng hóa được
+khai nhiêu dòng“mục hàng khác nhau)
+10.9 Mã HS Nhập mã HS của hàng hóa.
+10.10 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+10.11 Tên hàng Nhập tên hàng hóa.
+10.12 Đơn vị tính Nhập đơn vị tính.
+10.13 | Số danh sách/tờ khai Nhập số danh sách hàng hóa đưa vào/tờ khai nhập
+10.14| Ngày danh sáchtờ | Nhập ngày danh sách hàng hóa đưa vào/tờ khai
+10.15 Số lượng Nhập số lượng.
+10.16 Đơn giá Nhập đơn giá.
+10.17 Trị giá Nhập trị giá.
+17
+Chỉ tiêu A s2 chi nhủ
+STT thông tin Mô d, ghỉ chú
+Mẫu | Danh sách hàng hóa | Thực hiện khi luân chuyển hàng hóa giữa các kho
+số 11 | luân chuyển giữa kho | chứa hàng miễn thuê, giữa các cửa hàng miễn
+chứa hàng miễn thuế,
+thuế, giữa kho chứa hàng miễn thuế và cửa hàng
+4 Thông tin chung
+111 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+11.2 Số danh sách Nhập số đanh sách hàng hóa của doanh nghiệp.
+(Số phiếu)
+11.43 Ngày xuất kho Ngày xuất kho hoặc cửa hàng của doanh nghiệp
+(ngày hạch toán).
+11.4 Ngày nhập kho Ngày nhập kho hoặc cửa hàng của doanh nghiệp
+, (ngày hạch toán).
+115 | Mãkho,cửahàng | Nhập mã kho chứa hàng miễn thuế, cửa hàng
+11.6 Mã kho, cửahàng | Nhập mã kho chứa hàng miễn thuế, cửa hàng
+117 Vị trí Nhập “0” nếu kho/cửa hàng xuất cùng thuộc khu
+cách Iy/khu hạn chê với kho/cửa hàng nhập, “1”
+nếu kho/cửa hàng xuất khác khu vực với kho/cửa
+hàng nhập. ,
+11.8 Tuyến đường vận | Nhập tuyến đường vận chuyển.
+11.9 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+(Tham khảo bảng mã trên website Hải quan).
+F2) Thông tin chỉ tiết | Thông tin chỉ tiết từng dòng/mục hàng trong
+danh sách hàng hóa (một danh sách hàng hóa
+được khai nhiêu dòng/mục hàng khác nhau)
+11.10 MãHS Nhập mã HS của hàng hóa.
+11.11 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+11.12 Tên hàng Nhập tên hàng hóa.
+11.13 Đơn vị tính Nhập đơn vị tính.
+11.14 | Số danh sách/tờ khai | Nhập số danh sách hàng hóa đưa vào/tờ khai nhập
+18
+Chỉ tiêu 2 tả. ghỉ
+STT thông tin Mô tả, ghỉ chú
+11.15| Ngày danh sáchtờ | Nhập ngày danh sách hàng hóa đưa vào/tờ khai
+11.16 Số lượng Nhập số lượng.
+11.17 Đơn giá Nhập đơn giá.
+11.18 Trị giá Nhập trị giá.
+Mẫu | Phiếu kê hàng hóa | Thực hiện khi bán hàng miễn thuế.
+số 12 | xuất bán cho khách
+4 Thông tỉn chung
+12.1 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+12.2 Số phiếu Nhập số phiếu kê hàng hóa của đoanh nghiệp.
+12.3 Ngày bạch toán Ngày lập phiếu kê hàng hóa của doanh nghiệp.
+12⁄4 | Mã kho, cửahàng |Nhập mã kho chứa hàng miễn thuế, cửa hàng
+xuất miễn thuế xuất,
+12.5 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
+(Tham khảo bảng mã trên website Hải quan).
+12.6 Mã đối tượng Nhập mã đối tượng:
+“ĐT1”: Người xuất cảnh, quá cảnh
+“ĐT2”: Người nhập cảnh tại cửa khẩu sân bay
+“ĐT3”: Người chờ xuất cảnh mua hàng tại cửa hàng miễn thuế
+“ĐT4”: Cá nhân, tổ chức được hưởng quyền ưu
+“ĐT5”: Đối tượng là thuyền viên phục vụ hành trình
+“ĐT6”: Thuyền viên phục vụ nhu cầu sinh hoạt
+“ĐT7”: Thuyền viên phục vụ nhu cầu cá nhân
+“ĐT9”: Hành khách đang thực hiện chuyến bay
+“ĐT10”: Khách trên tàu bay xuất cảnh
+19
+Chí tiêu A42 ch: nhủ
+STT thông tin Mô tả, ghi chú
+12.7 Giao nước ngoài Nhập “1” nêu giao hàng miễn thuế ở nước ngoài,
+“0” nếu giao hàng miễn thuế tại Việt Nam.
+12.8 Thông tin người Đối với mỗi loại đối tượng mua hàng miễn thuế,
+* ĐT1 - Người xuất cảnh, quá cảnh
+12.8.1| Tên người mua hàng | Nhập họ tên người mua hàng đúng theo hộ chiếu
+12.8.2 Số hộ chiếu Nhập số hộ chiếu/số giấy tờ đi lại của người mua
+12.83
+12.8.4| Số hiệu phương tiện | Nhập số hiệu chuyến bay đối với người xuất
+cảnh, quá cảnh bằng đường hàng không.
+12.8.5 Ngày đi Nhập:
+- Ngày bay (date) được ghi trên ,hẻ tàu bay
+(boarding, pass) đối với người xuất cảnh, quá
+xuất cảnh, quá cảnh bằng đường sắt, đường biển.
+12.8.6 'Tên tàu Nhập tên tàu.
+* ĐT2 - Người nhập cảnh tại cửa khẩu quốc tế sân bay
+12.8.7| Tên người mua hàng | Nhập họ tên người mua hàng đúng theo hộ chiếu
+12.8.8 Số hộ chiếu Nhập số hộ chiếu/số giấy tờ đi lại của người mua
+12.8.9 Quốc tịch Nhập quốc tịch của người mua hàng.
+128.10| Số hiệu phương tiện | Nhập số hiệu chuyến bay.
+12.8.11 Ngày đi Nhập ngày bay (date) được ghi trên thẻ tàu bay
+(boarding pass).
+* ĐT3 - Người chờ xuất cảnh mua hàng tại cửa hàng miễn thuế trong nội
+12.8.12| Tên người mua hàng | Nhập họ tên người mua hàng đúng theo hộ chiếu
+20
+STT thông ta Mô tả, ghỉ chú
+12.8.13 Số hộ chiếu Nhập số hộ chiếu/số giấy tờ đi lại của người mua
+12.8.14 Quốc tịch Nhập quốc tịch của người mua hàng.
+12.8.15 Ngày đi Nhập ngày xuất cảnh (nếu có).
+12.8.16 Tên tàu Nhập tên tàu (nếu có),
+* ÐT4 - Cá nhân, tổ Chức Äược hưởng quyên tu đãi miễn trù mua hàng
+12.8.17 Số số Nhập số số định mức mua hàng miễn thuế.
+* Đ15 - Đối tượng là thuyễn viên phục vụ hành trình tiếp theo ngoài lãnh
+12.8.18| Tên người mua hàng | Nhập họ tên của thuyền trưởng hoặc người đại
+12.8.19 Số hộ chiếu Nhập số hộ chiếu/số giấy tờ đi lại của thuyền
+12.8.20 Quốc tịch Nhập quốc tịch của thuyền trưởng hoặc người đại
+12.821| Số hiệu phương tiện | Nhập tên tàu/số hiệu tàu.
+12.822
+* Ð16 - Thuyên viên phục vụ nhu cầu sinh hoạt chung trong thời gian tàu
+12.823
+12.8.24 Số hộ chiếu Nhập số hộ chiếu/số giấy tờ đi lại của người mua
+12.825 Quốc tịch Nhập quốc tịch của người mua hàng.
+12/826| Số hiệu phương tiện | Nhập tên tàu/số hiệu tàu.
+12.827 Ngày dến Nhập ngày tàu nhập cảnh.
+* Đ78 - Thuyễn viên phục vụ nhu cầu cá nhân trong thời gian tàu neo đậu
+12.8.28| Tên người mua hàng. | Nhập họ tên người mua hàng đúng theo hộ chiếu
+12.8.29
+Nhập số hộ chiếu/số giấy tờ đi lại của người mua
+21
+STT thông 8n Mô tả, ghi chú
+12.8.30 Quốc tịch Nhập quốc tịch của người mua hàng.
+12.831 Ngày đi Nhập ngày khởi hành của phương tiện.
+12.832 Ngày đến Nhập ngày tàu nhập cảnh.
+12.833| Số hiệu phương tiện | Nhập tên tàu/số hiệu tàu.
+* Đ79 - Hành khách âang thực hiện chuyến bay đến VN
+12.834| Tên người mua hàng | Nhập họ tên người mua hàng đúng theo hộ chiếu
+12.835 Số hộ chiếu Nhập số hộ chiếu/số giấy tờ đi lại của người mua
+12.836 Quốc tịch Nhập quốc tịch của người mua hàng.
+12.837| Số hiệu phương tiện | Nhập số hiệu chuyến bay.
+12.8238| Thẻ lên tàu bay Nhập số, ký hiệu thẻ lên tàu bay.
+* ĐT10 - Khách trên tàu bay xuất cảnh
+12.839| Tên người mua hàng | Nhập họ tên người mua hàng đứng theo hộ chiếu
+12.8.40 Số hộ chiếu Nhập số hộ chiếu/số giấy tờ đi lại của người mua
+12.841 Quốc tịch Nhập quốc tịch của người mua hàng.
+12.842) Số hiệu phương tiện | Nhập số hiệu chuyến bay.
+12.843 Thẻ lên tàu bay Nhập số, ký hiệu thẻ lên tàu bay.
+B Thông tín chỉ tiết | Tì hông tin chỉ tiết tùng dòng/mục hàng trong
+phiếu kê hàng hóa xuất bán (một phiếu kê hàng
+hóa xuất bản được khai nhiều dòng/mục hàng
+khác nhau)
+12.9 Mã HS Nhập mã HS của hàng hóa.
+12.10 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+12.11 Tên hàng Nhập tên hàng hóa chính xác theo tên hàng đã
+có nguồn gốc nhập khẩu, danh sách hàng hóa đưa
+vào cửa hàng miễn thuế, kho chứa hàng miễn
+12.12 Loại hàng Nhập “1” nếu là Xì gà, “2” nếu là Thuốc lá điều,
+“3” nếu là Thuốc lá sợi, “4” nêu là Rượu trên 20
+độ, “... nêu là Rượu dưới 20 độ, “6” nếu là Đỗ
+uông có côn, bia, “0” nêu là Hàng hóa khác.
+22
+Chỉ tiêu A43 ah: nhủ
+STT thông tin Mô tả, ghi chú
+12.13 Đơn vị tính Nhập đơn vị tính chính xác theo đơn vị tính đã
+có nguồn gốc nhập khẩu, đanh sách hàng hóa đưa
+vào cửa hàng miễn thuế, kho chứa hàng miễn
+Ghi chú: Đối với hàng hóa có giới hạn định mức
+sau: Xì gà, Thuốc lá điều là PCE; Thuốc lá sợi là
+GRM; Rượu, đồ uống có cần, bia là LTR.
+12.14 Số tờ khai Nhập số tờ khai đối với hàng hóa có nguồn gốc tạm
+12.15 Ngày tờ khai Nhập ngày tờ khai đối với hàng hóa có nguồn gốc
+12.16 Số lượng Nhập số lượng theo đơn vị tính.
+12.17 Đơn giá Nhập đơn giá.
+12.18 Trị giá Nhập trị giá.
+số 13 xử lý dữ liệu điện tử hải quan
+13.1 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+13.2 Số phiếu Nhập số phiếu cẦn hủy.
+13.3 Loại phiếu Nhập mã loại phiếu cần hủy.
+13.4 Lý do Nhập lý do cần hủy phiếu.
+Mẫu | Thông tin số định | Thực hiện đối với trường hợp sử dụng Số lần đầu,
+số 14 mức miễn thuế trước khi bán hàng miễn thuế cho đối tượng được
+hưởng quyền ưu đãi, miễn trừ
+4 Thông tin chung
+14.1 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+14.2 Số số Nhập số số định mức miễn thuế
+14.3 Từ ngày Nhập thời hạn có hiệu lực của số định mức từ
+14.4 Đến ngày Nhập thời hạn hết hiệu lực của số định mức.
+23
+STT thông tin Mô tả, ghi chú
+14.5 Số hộ chiếu Nhập số hộ chiếu hoặc số chứng minh thư do Bộ
+14.6 Tên người mua Nhập tên người mua hàng.
+14.7 Chức vụ Nhập chức vụ của người mua hàng.
+14.8 Cơ quan Nhập cơ quan của người mua hàng.
+Đ Thông tin chỉ tiết | Thông tin chỉ: tiết tùng đồng/nục hàng trong số
+định nức miễn thuế (một số định mức miễn thuế
+được khai nhiều dòng/mục bàng khác nhau)
+14.9 Mã HS Nhập mã HS của hàng hóa.
+14.10 Đơn vị tính Nhập đơn vị tính chính xác theo đơn vị tính đã
+có nguồn gốc nhập. khẩu, danh sách hàng hóa đưa
+vào cửa hàng miễn thuê, kho chứa hàng miễn
+14.11 Số lượng Nhập số lượng theo đơn vị tính.
+14.12 Từ ngày Nhập thời hạn mua hàng miễn thuế với từng mặt
+14.13 Đến ngày Nhập ngày hết hạn mua hàng miễn thuế với từng
+Mẫu | Báo cáo tình hình sử | Thực hiện định kỳ hàng tháng.
+số 15 dụng hàng mẫu,
+hàng thứ, túi, bao bì
+4 Thông tin chung
+15.1 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
+15.2 Mã hải quan Nhập mã Hải quan quản lý cửa hàng miễn thuế,
+15.3 Tháng báo cáo Nhập tháng báo cáo.
+15.4 Năm báo cáo Nhập năm báo cáo.
+> Thông tin chỉ tiết | Thông tin chỉ tiết từng dòng/mục hàng trong báo
+cáo (một báo cáo được khai nhiều dòng/mạc
+hàng khác nhau)
+15.5 Mã HS Nhập mã HS của hàng hóa.
+15.6 Mã hàng Nhập mã theo dõi hàng hóa của doanh nghiệp.
+24
+_ Chỉ tiêu 214 hi chế
+STT thông tin Mô tả, ghi chú
+15.7 Tên hàng Nhập tên hàng hóa.
+15.8 Đơn vị tính Nhập đơn vị tính. .
+15.9 Số tờ khai Nhập số tờ khai đối với hàng hóa có nguồn gốc tạm
+15.10 Ngày tờ khai Nhập ngày tờ khai đối với hàng hóa có nguồn gốc
+1511 Số lượng nhập Nhập số lượng kho/cửa hàng nhập trong kỳ báo
+15.12 Số lượng xuất sử Nhập số lượng kho/cửa hàng đã xuất sử dụng,
+„ dụng xuất tiêu hủy trong kỳ báo cáo.
+15.13 | Số lượng xuất về kho, Nhập số lượng kho/cửa hàng xuất sang kho/cửa
+' cửa hàng hàng thuộc Hải quan khác trong kỳ báo cáo.
+15.14 Số lượng tồn Nhập số lượng còn tồn tại kho/cửa hàng.
+t/ñịnh số 273/2026/NĐ-CP
+năm 2026 của Chính phú)
+Mẫu số 01/PTBHVĐM. | Phiếu thông báo hàng vượt định mức của khách
+Mẫu số 02/PGH Phiếu giao hàng đối với khách mua hàng miễn
+Mẫu số 03/BKTMVR | Bảng kê lượng tiền mang vào/ra khu cách ly, khu
+Mẫu số 04/BBBG Biên bản bản giao hàng hóa miễn thuế vận chuyên
+Mẫu số 05/BCQT _ | Báo cáo quyết toán kinh doanh hàng miễn thuế
+Mẫu số 06/PGHKVTB Phiếu giao nhận hàng hóa đối với hàng hóa luân
+chuyển giữa kho chứa hàng, miễn thuế và tàu bay
+Mẫu số 07/BKTMKVTB | Bảng kê lượng t tiền mặt luân chuyển giữa kho chứa
+Mẫu số 08/DSHH Danh sách hàng hóa đưa vào/đưa ra cửa hàng, miễn
+thuế, kho chứa hàng miễn thuế
+Mẫu số 09/BKHH Bảng kê hàng hóa bán cho khách xuất cảnh
+Mẫu số 10/BKHMT
+Bảng kê hàng mẫu, hàng thử, túi, bao bì nhập khẩu
+Mẫu số 11/BBKT
+Mẫu số 01/PTBHVĐM
+` PHIẾU THÔNGBẢO _ - .
+Tên người mua hàng:
+Số hộ chiếu:
+Số hiệu chuyến bay:
+Số hóa đơn:
+STT| Tênhàng | Đơn vị tính | Số lượng | Trị giá Ghi chú
+
+_ XÁCNHẬNCỦA XÁC NHẬN CỦA CÔNG CHỨC
+(Kỹ, ghi rõ họ tên) (Ký, đóng dấu công chúc)
+Tên doanh nghiệp:
+- - PHIẾU GIAO HÀNG “
+Tên người mua hàng:
+Số hộ chiếu/giấy thông hành của hành khách:
+Số hiệu chuyến bay, số hiệu phương tiện xuất-cảnh (nếu có):
+Số hóa đơn:
+Ngày hóa đơn:
+Cửa khẩu giao hàng:
+Kho/cửa hàng xuất hàng:
+Mẫu số 02/PGH
+@)
+@)
+4)
+G)
+(@
+XÁC NHẬN CỦA _ XÁC NHẬN CỦA NHÂN VIÊN
+BẢN HÀNG MIỄN THUÊ/
+(Ký, ghi rõ họ tên)
+(Kỹ, ghỉ rõ họ tên)
+(Ký, đóng dấu số hiệu
+công chức)
+* Ghi chú: Nhân viên kho hàng miễn thuế chỉ thực hiện xác nhận trong trường hợp doanh nghiệp
+có nhiều cửa hàng miễn thuế, đề nghị được sử dụng hàng hóa tại kho hàng miễn thuế cửa khẩu khách
+xuất cảnh để giao cho khách hàng đã mua hàng tại cửa hàng miễn thuế trong nội địa (kho hàng miễn
+thuế tại sân bay và cửa hàng miễn thuế trong nội địa thuộc sự quản lý của một hoặc nhiều đơn vị hải
+quan khác nhau).
+Mẫu số 03/BKTMVR
+BẰNG KẾ LƯỢN G TIỀN MANG VÀO/RA
+KHU CÁCH L.Y, KHU HẠN CHẺ
+ngày ....tháng ....năm
+(1) Tên doanh nghiệp:
+(2) Địa chỉ:
+(3) Mã số thuế:
+(4) Cửa hàng:
+khu cách ly, khu hạn chế khu cách ly, khu hạn chế không bằng
+Ngoại tệ |Xác nhận| Ngoại tệ | Xác nhận
+Tổng chức hải | Tổng hải quan
+tiền quan tiền giám sát | Loại Số
+Việt |Loại| Số | giám sát| Việt |Loại| Số | khiđưa | tiền | lượng
+Nam | tiền | lượng | khi đưa | Nam | tiền | lượng | ra khỏi
+@ | @ | Ớ) (8) (@) 100] 0) a2) 3 | 62
+(15) ĐẠI ĐIỆN CỦA (16) ĐẠI DIỆN CỦA
+(Ký, ghi rõ họ tên) (Kỹ, ghi rõ họ tên)
+*Ghi ehú: Tại cột (6) và cột (10), (13) ghi rõ loại ngoại tệ mang vào/ra khu cách ly như:
+USD, EURO, ...
+Mẫu số 04/BBBG
+CHI CỤC HẢI QUAN KHU VỤC:... CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TÊN HẢI QUAN: Độc lập - Tự do - Hạnh phúc
+Số:........ HQ-BBBG
+__— BIỂN BẢN
+Hài -.„.. BIỜ .... phÚT, ngày ... tháng .... năm ......, Hải quan.......... Số điện thoại
+Số fax... bàn giao cho ông (bà) ..................... Đại diện của Công
+ty... ; lô hàng thuộc phiếu xuất kho số .... ngày ....tháng.....năm ..... để vận
+chuyển đến Hải quan .......... thuộc Chỉ cục Hải quan khu vực ............. gồm:
+1. Hồ sơ hải quan
+a)....
+b)....
+2. Hàng hóa
+Số hiệu container/ Sốniêm | Số niêm | Số lượng Số Mark
+chuyên dụng/số hiệu | hãng vận hải niêm định
+(01) (02) (03) (04) (05) (06)
+Thời gian vận chuyển......... ; Tuyến đường vận chuyển:............... ;km...........
+Ngày, giờ xuất phát:.............................--- Ngày, giờ đến:...........................s.ee
+Các vấn đề khác có liên quan đến hàng hóa và hồ sơ hải quan:...
+NGƯỜI KHAI „_ XÁC NHẬN CỦA XÁC NHẬN CỦA
+HAI QUAN/. - HẢI QUAN NƠI HÀNG HÓA HAI QUAN NƠI HÀNG
+(Ký, ghỉ rõ họ tên) (Ký, đóng dẫu số hiệu công chúc) _ (Kỹ, đóng dấusố hiệu công chúo)
+*Ghử chú: Cột (6) chỉ dành cho vận chuyển hàng hóa giữa kho chứa hàng miễn thuế và tàu
+bay phục vụ bán hàng trên các chuyên bay. quốc tế đi và đên Việt Nam trong trường hợp tàu bay
+Mẫu số 05/BCQT
+Tên doanh nghiện _ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Mã số thuế:
+Địa chỉ: -
+Năm:......
+Tên | Mã |Đơn từ từ từ Ghi
+hóa | hóa | nh lngoài,| Từ Íngoài, | Từ |. a¿|Chuyển| trở | rạy Ìyạ„ |ngoài,|Từ
+kho | nội | kho | nội ÍU "kiêu thụi lại | 2 2Í 2 | kho lnội
+
+lay lan mu... y ""
+ngoại | địa |ngoại | địa nội địa | nội ngoại |địa
+quan, quan, địa quan,
+@)|J(2J@)J@ | @G) ¡@ | Œ |@|@)J 09 1401G203)| 4) 506)
+(Ký, ghi rõ họ tên) DOANH NGHIỆP
+(Kỹ, ghi rõ họ tên, đóng dầu)
+Ghỉ chú:
+1. Mã hàng hóa cột (03) là mã theo dõi hàng hóa của doanh nghiệp.
+..2, Báo cáo bao gồm cả hàng tặng kèm sản phẩm hàng mẫu, hàng thử, túi bao bì nhập khẩu
+(nêu có).
+3. Trường hợp hàng mẫu, hàng thử, túi bao bì nhập khẩu đã sử dụng hết thì doanh nghiệp
+kê khai vào cột xuất bán (09) và ghi chú cụ thẻ vào cột (16) là hàng mẫu, hàng thử hoặc túi bao
+4. Trường hợp luân chuyển hàng hóa giữa các cửa hàng miễn thuế, giữa các kho chứa
+hàng miễn thuế, giữa cửa hàng miễn thuế và kho chứa hàng miễn thuế tại nhiều địa điểm khác
+nhau chịu sự quán lý của các đơn vị hải quan khác nhau thì thực hiện như sau:
+a) Tại cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện việc xuất hàng hóa sang
+cửa hàng miễn thuế, kho chứa hàng miễn thuế thuộc đơn vị hải quan khác quản lý:
+Hàng hóa khi đưa vào cửa hàng miễn thuế, kho chứa hàng miễn thuế có nguồn gốc “tạm
+nhập khẩu từ nước ngoài, kho ngoại quan, khu phi thuế quan” thì khi xuất kho tại báo cáo quyết
+toán ghỉ vào xuất trong kỳ tại cột tái xuất (12).
+- Hàng hóa khi đưa vào cửa hàng miễn thuế, kho chứa hàng miễn thuế có nguồn gốc “từ
+nội địa” thì khi xuất kho tại báo cáo quyết toán xuất trong kỳ tại cột đưa trở lại nội địa 19.
+b) Tại cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện nhập hàng hóa từ của hàng
+miễn thuế, kho chứa hàng miễn thuế thuộc đơn vị hải quan khác quản lý:
+~ Hàng hóa có nguồn gốc “tạm nhập khẩu từ nước ngoài, kho ngoại quan, khu phí thuế
+quan” thì khi nhập kho ghi vào cột tạm nhập khẩu từ nước ngoài, kho ngoại quan, khu phi thuế
+quan (5). -
+~ Hàng hóa có nguồn gốc nội địa thì nhập trong kỳ ghi vào cột từ nội địa (6).
+Mẫu số 06/PGHKVTB
+._. PHIẾU GIAO NHẬN HÀNG HÓA ĐÓI VỚI HÀNG HÓA
+(01) Số phiếu giao nhận: ........................4mã số thuế/PGHKVTB
+(02) Tên doanh nghiệp: Mã số thuế:
+(03) Số hiệu chuyến bay:
+(04) Sân bay quốc tế đi: Sân bay quốc tế đến (dự kiến):
+(05) Thời gian khởi hành: Thời gian đến (dự kiến):
+(06) Số hiệu phương tiện chứa bàng miễn thuế:
+. Lượng hàng | Lượng hàng hóa đã bán “bà
+Tên | Đơn | hóa xuất kho | phục vụ hành khách xỶï.—«
+STT |hàng| vị bán trên trên chuyến bay quốc tế ^ Ậ
+. . 4 trên chuyên
+hóa | tính | chuyền bay
+£ £
+quốc tế Chặng đi | Chặngvề | bay quốc tế
+(0) | (08) | (02) q0) q1) a2) a3)
+Ngày i: Ngày về:
+(14) ĐẠI DIỆN (15) ĐẠI ĐIỆN (17 ĐẠI DIỆN  (18)ĐẠIDIỆN
+(Ký. ghi rõ họ tên) (Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên) — (Ký, ghi rõ họ tên)
+(16) XÁC NHẬN CỦA HẢI QUAN (19) XÁC NHẬN CỦA HẢI QUAN
+Niêm phong HQ:
+Mark nhôm định danh: Mark nhôm định danh:
+(Ký, đóng dấu số hiệu công chúc) (Ký, đóng dấu số hiệu công chúc)
+* Ghỉ chú: Đối với trường hợp kho chứa hàng miễn thuế nằm trong khu cách ly, cơ quan
+hải quan không cần phải điền nội dung Niêm phong HQ và Mark nhôm định danh tại chỉ tiêu
+(16) và chỉ tiêu (19).
+Mẫu số 07/KTMKVTB
+.......ó¡ HNGẪW... thẳng ... HĂM....
+(01) Số hiệu chuyến bay: Ngày giờ bay:
+(02) Từ sân bay: Đến sân bay:
+03) Số hiệu phương tiện chứa hàng miễn thuế:
+(04) Họ tên người giao tiền: Chức vụ:
+(05) Họ tên người nhận tiền: Chức vụ:
+R :À. x ^
+Tin mãi men | nan hp | 9) Xác | xài
+tàu bay (06) bài a * CÔN) y nhận của được
+P2 > n hải quan khôn
+cÍ M224 .Ì ca | đ đóng vệ
+Loại| Số đấm số Loại| Số 4 S2 1ya bằng
+'|STT 4à SA SÀ STT | àˆ dâu số hiệu | và
+tiên | lượng | hiệu công tiên | lượng công chức) tiền mặt
+chức) s 00)
+(11) ĐẠI DIỆNCỦA (12TIẾPVIÊN (13)ĐẠIDIỆNCỦA (14) TIẾP VIÊN
+DOANHNGHIỆP (ý, ghizốhorên)  DOANH NGHIỆP (Ký, ghỉ rõ họ tên)
+(Ký, ghi rõ họ tên) (Ký, ghi rõ họ tên)
+TỐ * Ghi chú: Tại cột (06) và (08) ghỉ rõ loại tiền mang vào/ra khu cách ly như: VND, USD,
+' EURO,...
+10
+Mẫu số 08/DSHH
+DANH SÁCH HÀNG HÓA ĐƯA VÀO/ĐƯA RA CỬA HÀNG
+- MIỄN THUÉ, KHO CHỨA HÀNG MIỄN THUÉ
+(Đôi với hàng hóa sản xuất tại Việt Nam, hàng hóa nhập khẩu đã hoàn thành
+thủ tục nhập khẩu)
+...., HGẦW .... thẲNg ... HĂM....
+(01) Tên doanh nghiệp: Mã số thuế:
+(02) Cửa hàng/kho chứa hàng:
+(03) Danh sách hàng hóa:
+(04) Loại tiền:
+STT| Tênhàng | Đơnvi tính | Số lượng | Trị giá Ghi chú
+(05) (06 (07) (08) (09) 0)
+(11) ĐẠI DIỆN THEO PHÁP (12) XÁC NHẬN HẢI QUAN
+(Kỹ, ghủ rõ họ và tên) THUÉ, KHO HÀNG MIỄN THUẾ
+(Ký, đóng dấu số biệu công chúc)
+* Ghỉ chú: Tại chỉ tiêu số (04) ghi rõ loại tiền để khai trị giá hàng hóa tại cột số (09) như:
+'VND, USD, EURO,...
+11
+Mẫu số 09/BKHH
+" , ngày... tháng ... nẶm....
+(01) Tên doanh nghiệp:
+(02) Mã số thuế:
+(03) Cửa hàng/kho chứa hàng:
+(04) Quốc gia/vùng lãnh thổ giao hàng:
+Số Số hộ chiếu/ Ngà Đơn
+STT | hóa | Họ | Quốc | số giấy thông hành/ bé Tên |} | Số | Trị
+đơn | tên | tịch | số giấy tờ có giá trị hàng |. | lượng | giá
+212: nuẤn xÃ hạn tính
+G) | @ | Ớ) | @) @) q0 | G1) |2 | Œ3) |Q2
+- (Ký tên và đóng dấu)
+12
+Mẫu số 10/BKHMT
+" , ngày... thẳng ... năm....
+BẢNG KÊ HÀNG MẪU, HÀNG THỬ, TÚI, BAO BÌ NHẬP KHẨU
+(01) Tên doanh nghiệp:
+(02) Mã số thuế:
+(03) Cửa hàng/kho chứa hàng:
+STT| Tênhàng | Đơn vị tính | Số lượng | Trị giá Ghi chú
+(04) (05) (06) (07) (08) (09)
+(Ký tên và đóng đâu)
+13
+Mẫu số 11/BBKT
+CƠ QUAN CHỦ QUẢN CẤP TRÊN _ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số:........ /BB-HC
+Căn cứ pháp lý:
+Thực hiện Quyết định số ........ ngày......... của........... về việc kiểm tra thực
+tế lượng hàng tồn của cửa hàng miễn thuế, kho chứa hàng miễn thuế tại trụ sở của
+KH re mã số thuế:
+Địa chỉ:................
+Hôm nay, hồi....gi
+Chúng tôi gồm:
+1.Ông (bà):
+2. Ông (bà)
+Đã làm việc với:
+1. Ông (bà):
+Chức danh: ...
+Địa chỉ:.................................
+Căn cước công dân/Hộ chiều số
+H
+Nội dung kiểm tra:
+Biên ðt thúc vào hồi: “
+Biên bản được lập thành .... bản, mỗi bản gỗm ...... tờ, có nội dung và giá trị
+như nhau, các bên gồm: . „ mỗi bên giữ 01 bản.
+Sau khi đọc biên bản, những người có mặt đồng ý về nội dung biên bản và
+Ý kiến bổ sung khác (nếu có):
+NGƯỜI THAM GIA LÀM VIỆC? NGƯỜI THAM GIA KIỂM TRA)
+(Ký, ghỉ rõ họ tên) - (Ký, ghi rõ họ tên)
+* Ghỉ chú:
+(1) Những người có ý kiến khác về nội dung biên bản phải nêu ý kiến của mình, lý do có
+ý kiến khác, ký và ghỉ rõ họ tên. l
+(2) Thành phân tham gia là danh sách cá nhân đã được cử làm việc với đoàn kiểm tra.
+Trường hợp đại diện có thắm quyền ký biên bản phải ký phí rõ họ tên, chức vụ và đóng dấu của
+(3) Thành phần tham gia là thành viên đoàn kiểm tra tại quyết định kiểm tra. Trường hợp
