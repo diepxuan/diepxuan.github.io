@@ -10,10 +10,8 @@ tags:
   - nhà đầu tư
   - dự án đầu tư kinh doanh
   - 274/2026/NĐ-CP
-docid: "218807"
-pdf_goc: "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/274-ndcp.signed.pdf"
+docid: 218807
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
-phuong_phap_so_hoa: "Tesseract OCR trên 102 trang PNG (pdftoppm -r 200) từ PDF ký số CAdES-BES. Sửa lỗi OCR thủ công."
 trich_yeu: "Hoàn thiện quy định lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh - quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư; bao gồm: bảo đảm cạnh tranh, ưu đãi nhà đầu tư, chi phí, chỉ định nhà đầu tư, phương thức/quy trình/thủ tục, đánh giá hồ sơ dự thầu, nội dung hợp đồng dự án có sử dụng đất; quy định rõ các dự án bắt buộc đấu thầu: đất đai, xử lý chất thải rắn, cấp nước, chợ, trạm dừng nghỉ, cảng hàng không, cải tạo nhà chung cư, điện lực; hiệu lực 21/8/2026."
 nguoi_ky: "Thủ tướng Chính phủ"
 co_quan_ban_hanh: "Chính phủ"
@@ -580,7 +578,7 @@ Nghị định này.
 7. Đối với dự án áp dụng hình thức lựa chọn nhà đầu tư trong trường hợp
 đặc biệt, quy trình, thủ tục lựa chọn nhà đầu tư thực hiện theo quy định tại Mục
 1 Chương V của Nghị định này.
-§, Quy trình lựa chọn nhà đầu tư quy định tại các khoản 1, 2, 3 và 4 Điều
+5, Quy trình lựa chọn nhà đầu tư quy định tại các khoản 1, 2, 3 và 4 Điều
 này được hướng dẫn chỉ tiết tại Phụ lục I ban hành kèm theo Nghị định này.
 ## Chương II
 QUY TRÌNH, THỦ TỤC LỰA CHỌN NHÀ ĐẦU TƯ ĐÓI VỚI DỰ ÁN
