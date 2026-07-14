@@ -3830,8 +3830,75 @@ Qua web_search, phat hien 3 văn bản mới chua co trong tracking (ngay ban ha
 - Ngày phát hiện: 2026-07-07 10:12 ICT (lần 21) + 11:25 ICT (lần 22 bổ sung)
 - Phiên thực hiện: Bột cập nhật tay từ memory (conflict resolution)
 
+---
 
-## Cập nhật 2026-07-07 (bổ sung từ Discovery lần 21 — bị mất trong conflict)
+## Cập nhật 2026-07-14 (phiên Đệ #1 Discovery — lần 52)
+
+### Phát hiện: 5 văn bản mới — sitemap luatvietnam.vn phát hiện đợt ban hành mới 12–13/7/2026
+
+Quét sitemap luatvietnam.vn (`sitemap_thongtu.xml` + `sitemap_nghidinh.xml`) + web_fetch xác minh 5 văn bản mới nhất. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-11 lần 46): **phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **279/2026/NĐ-CP** | **12/07/2026** | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo** — quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ GD&ĐT; thay thế NĐ 37/2025/NĐ-CP; Bộ GD&ĐT quản lý giáo dục mầm non, phổ thông, nghề nghiệp, đại học, giáo dục thường xuyên; quản lý tiếng Việt và tiếng các dân tộc; hiệu lực **12/7/2026** | Hành chính / Tổ chức bộ máy | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua sitemap_nghidinh luatvietnam.vn (lastmod 2026-07-14T17:53:14+07:00). Docid CHƯA XÁC MINH — vanban.chinhphu.vn dải 218811–218839 đã trống hoàn toàn kể từ lần 46. Cần xác minh docid bằng HTML page (dải 219000+) hoặc chờ re-index. **ƯU TIÊN TRUNG BÌNH** — văn bản tổ chức bộ máy, theo đợt 276/NĐ-CP (Bộ Nội vụ). |
+| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — quy định nội dung, quy trình và kỹ thuật bay đo từ, phổ gamma; sử dụng máy bay có người lái hoặc không người lái; áp dụng cho điều tra cơ bản địa chất, điều tra khoáng sản và thăm dò khoáng sản; hiệu lực **13/7/2026** | Tài nguyên / Địa chất / Khoáng sản | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua sitemap_thongtu luatvietnam.vn (lastmod 2026-07-14T10:32:20+07:00). Đây là TT-BNNMT mới nhất được ghi nhận (sau 29/TT-BNNMT ngày 29/6/2026). Docid CHƯA XÁC MINH. **ƯU TIÊN THẤP** — văn bản chuyên đề địa chất. |
+| **98/2026/TT-BQP** | **06/07/2026** | **Quy định về chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng** — quy định chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng; tiêu chuẩn chất lượng quốc phòng; người ký Nguyễn Văn Hiền; hiệu lực theo quy định | An ninh quốc gia / Quốc phòng | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua sitemap_thongtu luatvietnam.vn (lastmod 2026-07-14T11:53:04+07:00). Ngày ban hành xác minh: **06/7/2026** từ trang luatvietnam.vn. Đây là TT-BQP mới nhất được ghi nhận. Docid CHƯA XÁC MINH. **ƯU TIÊN THẤP** — văn bản quốc phòng chuyên đề. |
+| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chương trình đào tạo các trình độ đại học (đại học, thạc sĩ, tiến sĩ); bao gồm chuẩn chương trình đào tạo, quy trình xây dựng, thẩm định, ban hành, tổ chức thực hiện, duy trì, cải tiến, kiểm tra, giám sát; phê duyệt, đình chỉ tuyển sinh, đình chỉ hoạt động đào tạo; hiệu lực theo quy định | Giáo dục / Đại học | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua sitemap_thongtu luatvietnam.vn (lastmod 2026-07-14T09:50:55+07:00). Ngày ban hành xác minh: **30/6/2026** từ trang luatvietnam.vn. Đây là TT-BGDĐT mới nhất được ghi nhận. Docid CHƯA XÁC MINH. **ƯU TIÊN TRUNG BÌNH** — tác động trực tiếp đến chương trình đào tạo đại học toàn quốc. |
+| **47/2026/TT-BXD** | **30/06/2026** | **Quy định về quản lý và bảo đảm hoạt động bay** — quy định quản lý và bảo đảm hoạt động bay; căn cứ Luật Hàng không 130/2025/QH15, NĐ 222/2026/NĐ-CP, NĐ 221/2026/NĐ-CP; hướng dẫn chi tiết các khái niệm kỹ thuật hàng không (ADS, AFTN, AIC, AIM, ATIS...); hiệu lực theo quy định | Giao thông / Hàng không | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua sitemap_thongtu luatvietnam.vn (lastmod 2026-07-14T11:53:04+07:00). Ngày ban hành xác minh: **30/6/2026** từ trang luatvietnam.vn. Có liên quan trực tiếp đến 222/2026/NĐ-CP và 221/2026/NĐ-CP ban hành cùng ngày. Docid CHƯA XÁC MINH. **ƯU TIÊN TRUNG BÌNH** — văn bản hàng không chuyên đề. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-11 lần 46)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 279/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 30/2026/TT-BNNMT | **KHÔNG** | Thêm mới — Chưa có |
+| 98/2026/TT-BQP | **KHÔNG** | Thêm mới — Chưa có |
+| 54/2026/TT-BGDĐT | **KHÔNG** | Thêm mới — Chưa có |
+| 47/2026/TT-BXD | **KHÔNG** | Thêm mới — Chưa có |
+
+### Tình trạng sitemap luatvietnam.vn — ĐỢT MỚI PHÁT HIỆN 12–13/7/2026!
+
+- **sitemap_thongtu.xml** — lastmod mới nhất: 2026-07-14T10:32:20+07:00 (30/TT-BNNMT)
+- **sitemap_nghidinh.xml** — lastmod mới nhất: 2026-07-14T17:53:14+07:00 (279/NĐ-CP)
+- **sitemap_nghi-dinh-chinh-phu.xml** → **Firecrawl 402** (hết credits), không truy cập được
+- **Đợt ban hành mới**: Văn bản ban hành ngày 12–13/7/2026 — đợt tiếp theo sau đợt 8–9/7 (276, 278/NĐ-CP, 34/QĐ-TTg, 18/TT-BVHTTDL)
+- **30/2026/TT-BYT** (docid 218837) — đã có trong tracking từ lần 46, không tính là văn bản mới
+- **103/2026/TT-BCA** trong sitemap (lastmod 2026-07-14) — chưa ghi nhận, cần xác minh ở phiên tiếp theo
+
+### Bản đồ sitemap mới nhất (sitemap_thongtu — top 12, lastmod 2026-07-14)
+
+| Lastmod | Số hiệu | Chủ đề | Trạng thái |
+|---|---|---|---|
+| 2026-07-14T10:32 | **30/2026/TT-BNNMT** ⭐ | Địa chất / Bay đo từ (ban hành 13/7) | MỚI |
+| 2026-07-14T09:50 | **54/2026/TT-BGDĐT** ⭐ | Giáo dục đại học (ban hành 30/6) | MỚI |
+| 2026-07-14T11:53 | 18/2026/TT-BVHTTDL | Bảo tàng công lập | Đã có (lần 46) |
+| 2026-07-14T11:53 | **98/2026/TT-BQP** ⭐ | Quốc phòng / Chứng nhận QLCL (ban hành 06/7) | MỚI |
+| 2026-07-14T08:19 | 115/2026/TT-BCA | An ninh hàng không | Chưa ghi nhận |
+| 2026-07-14T10:40 | 19/2026/TT-BVHTTDL | Thẻ nhà báo | Chưa ghi nhận |
+| 2026-07-14T11:53 | 103/2026/TT-BCA | Dự án an ninh | Chưa ghi nhận |
+| 2026-07-14T11:53 | 116/2026/TT-BCA | Luật cư trú | Chưa ghi nhận |
+| 2026-07-14T11:53 | 92/2026/TT-BCA | Thiên tai tìm kiếm cứu nạn | Chưa ghi nhận |
+| 2026-07-14T11:53 | **47/2026/TT-BXD** ⭐ | Hàng không / Hoạt động bay (ban hành 30/6) | MỚI |
+| 2026-07-14T11:53 | 53/2026/TT-BGDĐT | Tuyển sinh sau đại học | Chưa ghi nhận chi tiết |
+| 2026-07-14T11:53 | 30/2026/TT-BYT | Thực phẩm / Nhãn dinh dưỡng (ban hành 09/7) | Đã có (lần 46, docid 218837) |
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **279/2026/NĐ-CP** (ưu tiên số 1): Bộ GD&ĐT; ngày ban hành **12/7/2026**; hiệu lực 12/7/2026. Cần xác minh docid + crawl chi tiết. Theo đợt 276/NĐ-CP (Bộ Nội vụ).
+2. **103/2026/TT-BCA** (ưu tiên số 2): Dự án an ninh; lastmod 2026-07-14 trong sitemap; chưa ghi nhận. Cần xác minh ngày ban hành và nội dung.
+3. **30/2026/TT-BYT** (ưu tiên số 3 — đã có trong tracking): Nhãn thực phẩm dinh dưỡng; ngày ban hành **09/7/2026**; docid **218837** đã xác minh. Cần crawl chi tiết.
+4. **54/2026/TT-BGDĐT** (ưu tiên số 4): Chương trình đào tạo đại học; ngày ban hành **30/6/2026**; tác động rộng. Cần xác minh docid + crawl chi tiết.
+5. **19/2026/TT-BVHTTDL** (ưu tiên số 5): Thẻ nhà báo; lastmod 2026-07-14; chưa ghi nhận chi tiết. Cần xác minh ngày ban hành và nội dung.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking lần 52: 279/NĐ-CP (Bộ GD&ĐT, 12/7), 30/TT-BNNMT (địa chất, 13/7), 98/TT-BQP (quốc phòng, 06/7), 54/TT-BGDĐT (đại học, 30/6), 47/TT-BXD (hàng không, 30/6).
+- **Đợt 12–13/7/2026**: Phát hiện đợt ban hành mới — NĐ-CP 279 (Bộ GD&ĐT, 12/7) và TT-BNNMT 30 (địa chất, 13/7). Đây là đợt tiếp theo sau đợt 8–9/7 (276, 278/NĐ-CP, 34/QĐ-TTg, 18/TT-BVHTTDL).
+- **Vanban.chinhphu.vn**: dải 218811–218839 vẫn trống hoàn toàn kể từ lần 46. Tất cả docid văn bản mới đều CHƯA XÁC MINH.
+- **sitemap_nghi-dinh-chinh-phu.xml** không truy cập được (Firecrawl 402). Sử dụng sitemap_nghidinh thay thế.
+- Nguồn: luatvietnam.vn (sitemap_thongtu.xml, sitemap_nghidinh.xml) + web_fetch xác minh 5 văn bản.
+- Ngày phát hiện: 2026-07-14 21:05 ICT
+- Phiên thực hiện: agent:github-io:subagent:18dd2b17-22bc-4475-b22a-f3df6c5d07db (Đệ #1 Discovery — lần 52)
 
 ### Văn bản bổ sung
 
