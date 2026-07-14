@@ -10,7 +10,7 @@ tags:
   - cơ chế điều chỉnh giá
   - EVN
   - Bộ Công Thương
-docid: "219802"
+docid: "218849"
 source: vanban.chinhphu.vn; evn.com.vn
 ---
 
