@@ -5067,3 +5067,49 @@ Quét luatvietnam.vn sitemap_thongtu (lastmod 2026-07-14) + sitemap_nghidinh (la
 - **Nguồn**: luatvietnam.vn (sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-14 17:53, web_fetch slug 440099, 440239, 440199, 440146, 440129).
 - Ngày phát hiện: 2026-07-14 18:01 ICT
 - Phiên thực hiện: agent:github-io:subagent:52e8b972-3435-433f-8586-fc7f6c3562f7 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 tiep tuc)
+
+---
+
+## Cập nhật 2026-07-15 (Đệ #1 Discovery — sitemap 2026-07-14 17:53/11:53 + web_fetch xác minh ưu tiên sitemap vòng 2)
+
+### Phát hiện: 1 văn bản mới — 38/2026/TT-BKHCN (sitemap ưu tiên vòng 2)
+
+Quét sitemap mới nhất từ vòng heartbeat trước (sitemap_nghidinh lastmod 2026-07-14 17:53+07:00, sitemap_thongtu lastmod 2026-07-14 11:53+07:00). Xác minh 5 văn bản ưu tiên từ sitemap chưa trong tracking. **Phát hiện 1 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **38/2026/TT-BKHCN** | **01/07/2026** | **Quy định cấp Giấy chứng nhận cơ sở ươm tạo công nghệ cao, công nghệ chiến lược, ươm tạo doanh nghiệp công nghệ cao, doanh nghiệp công nghệ chiến lược** — quy định tiêu chí, điều kiện, thẩm quyền, trình tự, thủ tục cấp, thu hồi Giấy chứng nhận cơ sở ươm tạo công nghệ cao; căn cứ Luật Công nghệ cao 133/2025/QH15, NĐ 225/2026/NĐ-CP (chức năng Bộ KHCN), NĐ 260/2026/NĐ-CP (chi tiết Luật Công nghệ cao); hiệu lực ~01/8/2026 | Khoa học / Công nghệ cao | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439643). Title: "Quy định cấp Giấy chứng nhận cơ sở ươm tạo công nghệ cao" ✅. Ngày ban hành **01/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 01 tháng 7 năm 2026). Căn cứ Luật Công nghệ cao 133/2025, NĐ 260/2026. **ƯU TIÊN THẤP** — văn bản công nghệ cao chuyên đề. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-14 17:53/11:53 (xác minh ưu tiên sitemap vòng 2)
+
+- **sitemap_nghidinh lastmod 2026-07-14** (17:53+07:00): Không có NĐ-CP mới ngoài 279 (đã ghi nhận vòng trước).
+- **sitemap_thongtu lastmod 2026-07-14** (11:53+07:00): Các văn bản ưu tiên sitemap vòng 2 xác minh:
+  - 39/2026/TT-BCT (slug 439557) ✅ đã có trong tracking — docid 218754 Hoàn thiện
+  - 40/2026/TT-BCT (slug 439558) ✅ đã có trong tracking — docid 218755 Hoàn thiện  
+  - 38/2026/TT-BKHCN (slug 439643) ✅ **VĂN BẢN MỚI** — Chưa có trong tracking
+  - 39/2026/TT-BKHCN (slug 439594) ✅ đã có trong tracking — docid 218793 Hoàn thiện
+  - 40/2026/TT-BKHCN (slug 439593) ✅ đã có trong tracking — docid 218793 Hoàn thiện
+  - 41/2026/TT-BKHCN (slug 439590) ✅ đã có trong tracking — docid 218794 Hoàn thiện
+
+### Các văn bản đã xác minh — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **38/2026/TT-BKHCN** | ⭐ MỚI — chưa có docid | Cơ sở ươm tạo công nghệ cao, 01/7/2026, slug 439643 |
+| **39/2026/TT-BCT** | ✅ Đã ghi nhận — docid 218754 Hoàn thiện | QCVN 30 đồ uống có cồn, slug 439557 |
+| **40/2026/TT-BCT** | ✅ Đã ghi nhận — docid 218755 Hoàn thiện | QCVN 31 tinh bột sắn, slug 439558 |
+| **38/2026/TT-BKHCN** (sitemap slug 439643) | ❌ Không trùng 38 (docid 218793) | Đây là TT-BKHCN số 38/2026, khác với 38/2024/QĐ-BKHCN (docid 218793) |
+| **39/2026/TT-BKHCN** | ✅ Đã ghi nhận — docid 218793 Hoàn thiện | Chi phí chuyển đổi số, slug 439594 |
+| **40/2026/TT-BKHCN** | ✅ Đã ghi nhận — docid 218793 Hoàn thiện | Mẫu hồ sơ công nghệ cao, slug 439593 |
+| **41/2026/TT-BKHCN** | ✅ Đã ghi nhận — docid 218794 Hoàn thiện | Phát triển thử nghiệm chuyển đổi số, slug 439590 |
+
+### Ghi chú xử lý
+
+- **1 văn bản mới** được ghi nhận: 38/2026/TT-BKHCN (cơ sở ươm tạo công nghệ cao, 01/7/2026, slug 439643).
+- **4 văn bản ưu tiên còn lại từ sitemap vòng 2**: Tất cả đã có trong tracking (39, 40/TT-BCT; 38, 39, 40, 41/TT-BKHCN).
+- **Không có NĐ-CP mới** ngoài 279 trong sitemap_nghidinh.
+- **Chú ý**: sitemap slug 439643 = 38/2026/TT-BKHCN (số hiệu 38, ban hành 01/7/2026). Docid 218793 = 39/2026/TT-BKHCN (số hiệu 39, công nghệ cao, chi phí chuyển đổi số). Hai văn bản khác nhau — không trùng lặp.
+- **Nguồn**: luatvietnam.vn (sitemap_thongtu lastmod 2026-07-14 11:53, web_fetch slug 439643, 439558, 439557).
+- Ngày phát hiện: 2026-07-15 00:48 ICT
+- Phiên thực hiện: agent:github-io:subagent:851f8c4c-3cf3-4979-9f75-a260fb1b0bd1 (Đệ #1 Discovery — 2026-07-15 00:31 ICT)
+
