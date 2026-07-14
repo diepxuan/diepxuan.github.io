@@ -1,4 +1,50 @@
-## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 lastmod 17:53 + sitemap_nghidinh xác minh văn bản ưu tiên)
+## Cập nhật 2026-07-15 (Đệ #1 Discovery — heartbeat 2026-07-14 23:59 ICT + sitemap 2026-07-14 17:53 + web_fetch xác minh)
+
+### Phát hiện: 5 văn bản mới — 96/97/TT-BTC + 56/57/TT-BXD + 58/TT-BXD (sitemap ưu tiên TT-BTC 96+)
+
+Quét luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-14 17:53+07:00) + sitemap_thongtu (lastmod 2026-07-14 11:53+07:00) + web_fetch xác minh 5 văn bản TT-BTC/TT-BXD chưa có trong tracking. Ưu tiên: 96/TT-BTC, 97/TT-BTC, TT-BXD 56-58. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **96/2026/TT-BTC** | **02/07/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 67/2023/TT-BTC về Luật Kinh doanh bảo hiểm** — sửa đổi hướng dẫn Luật Kinh doanh bảo hiểm (sửa đổi 139/2025/QH15); bổ sung quy định về cung cấp bảo hiểm trên môi trường mạng (quy chế hoạt động, an ninh mạng, lưu trữ dữ liệu); hướng dẫn biểu mẫu cơ sở dữ liệu bảo hiểm, dự phòng nghiệp vụ; quy định về phí bảo hiểm liên kết đầu tư, bảo hiểm hưu trí (thông báo 03 tháng trước khi điều chỉnh phí); quy định tỷ lệ tử vong CSO 1980 hoặc bảng tử vong tự xây dựng (tối thiểu 10 năm data); căn cứ NĐ 97/2026/NĐ-CP (sửa đổi NĐ 46/2023/NĐ-CP); hiệu lực ký | Tài chính / Bảo hiểm | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439711). Title: "Sửa đổi Thông tư 67/2023/TT-BTC về Luật Kinh doanh bảo hiểm" ✅. Ngày ban hành **02/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 02 tháng 7 năm 2026). Sửa đổi theo Luật KDBH sửa đổi 139/2025 và NĐ 97/2026. **ƯU TIÊN TRUNG BÌNH** — văn bản hướng dẫn Luật KDBH sửa đổi. |
+| **97/2026/TT-BTC** | **06/07/2026** | **Bãi bỏ Thông tư số 55/2010/TT-BTC về thuế GTGT và thuế TNDN đối với Đài truyền hình Việt Nam và các Đài phát thanh truyền hình địa phương** — bãi bỏ toàn bộ TT 55/2010/TT-BTC (hướng dẫn thuế GTGT và TNDN cho Đài truyền hình VN, Đài PTTH các tỉnh thành); căn cứ Luật Ban hành VBQPPL 64/2025, Luật QL thuế 108/2025, Luật Thuế GTGT sửa đổi, Luật Thuế TNDN sửa đổi, NĐ 252/2026, NĐ 320/2025; hiệu lực ký | Tài chính / Thuế / Truyền thông | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439710). Title: "Bãi bỏ Thông tư 55/2010/TT-BTC về thuế GTGT và thuế TNDN" ✅. Ngày ban hành **06/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 06 tháng 7 năm 2026, ký Cao Anh Tuấn). Thay thế hoàn toàn TT 55/2010 — Đài truyền hình VN và Đài PTTH tỉnh thành giờ áp dụng quy định thuế chung. **ƯU TIÊN THẤP** — văn bản bãi bỏ đã lỗi thời. |
+| **56/2026/TT-BXD** | **06/07/2026** | **Quy định về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm công việc có tính chất đặc biệt trên biển trong hoạt động cung cấp dịch vụ sự nghiệp công bảo đảm an toàn hàng hải** — quy định thời giờ làm việc không quá 06 giờ/ngày đối với lao động trên biển (vận hành đăng tiêu, báo hiệu hàng hải, thay/thả phao, tiếp tế trạm đèn biển); làm thêm không quá 50%/ca và không quá 300 giờ/năm; nghỉ liên tục tối thiểu 12 giờ giữa các ca; nghỉ sau phiên tối thiểu 52 ngày/năm; căn cứ Bộ luật Hàng hải 95/2015, Bộ luật Lao động 45/2019, NĐ 33/2025; hiệu lực **01/9/2026** | Lao động / Hàng hải | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439730). Title: "Quy định thời giờ làm việc, nghỉ ngơi cho lao động trên biển" ✅. Ngày ban hành **06/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 06 tháng 7 năm 2026, ký Nguyễn Xuân Sang). **ƯU TIÊN THẤP** — văn bản lao động chuyên đề hàng hải. |
+| **57/2026/TT-BXD** | **07/07/2026** | **Quy định về thẩm định thiết kế, kiểm định, kiểm tra, chứng nhận an toàn kỹ thuật và phòng ngừa ô nhiễm môi trường đối với phương tiện, thiết bị thăm dò, khai thác, vận chuyển dầu khí trên biển** — quy định đăng kiểm công trình biển (giàn khoan, kho chứa nổi, đường ống biển); bao gồm thẩm định hồ sơ thiết kế, kiểm định, kiểm tra, chứng nhận an toàn; cho phép kiểm định từ xa (dịch bệnh, thiên tai, xung đột); tổ chức đăng kiểm nước ngoài được thừa nhận (Mỹ, Anh, Pháp, Na Uy, Nga); căn cứ Luật Dầu khí 12/2022, Bộ luật Hàng hải 95/2015, NĐ 45/2023; hiệu lực ký | Công nghiệp / Dầu khí | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439930). Title: "Quy định thẩm định thiết kế và an toàn dầu khí biển" ✅. Ngày ban hành **07/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 07 tháng 7 năm 2026). **ƯU TIÊN TRUNG BÌNH** — văn bản kỹ thuật dầu khí biển, liên quan trực tiếp ngành dầu khí Việt Nam. |
+| **58/2026/TT-BXD** | **08/07/2026** | **Quy định về đăng kiểm tàu biển Việt Nam** — quy định công tác đăng kiểm tàu biển, tàu biển công vụ, tàu ngầm, tàu lặn và ụ nổi mang cờ Việt Nam; phạm vi: thẩm định hồ sơ thiết kế, duyệt tài liệu hướng dẫn, kiểm định, phân cấp, chứng nhận an toàn kỹ thuật và phòng ngừa ô nhiễm môi trường; kiểm định tàu biển từ xa (dịch bệnh, thiên tai, xung đột); đánh giá cơ sở thử nghiệm; kiểm tra tay nghề thợ hàn; căn cứ Bộ luật Hàng hải 95/2015, Luật PCCC 55/2024, NĐ 105/2025; hiệu lực ký | Giao thông / Hàng hải | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439999). Title: "Quy định đăng kiểm tàu biển Việt Nam hiệu lực 2026" ✅. Ngày ban hành **08/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 08 tháng 7 năm 2026). **ƯU TIÊN TRUNG BÌNH** — văn bản nền tảng đăng kiểm tàu biển, thay thế quy định cũ. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-14 17:53/11:53 (cập nhật qua đêm 23:59)
+
+- **sitemap_nghidinh lastmod 2026-07-14** (17:53+07:00): NĐ-CP mới nhất = **279/2026** (slug 440239, chức năng Bộ GDĐT). Không có thêm NĐ-CP mới. Không có 280.
+- **sitemap_thongtu lastmod 2026-07-14** (11:53+07:00): Các văn bản chưa ghi nhận trong vòng này: 96/TT-BTC (slug 439711), 97/TT-BTC (slug 439710), 56-58/TT-BXD (slug 439730, 439930, 439999), 57/TT-BCT (slug 439558 — quy chuẩn tinh bột sắn), 39/TT-BCT (slug 439557 — quy chuẩn đồ uống có cồn), 39/TT-BKHCN (slug 439594 — chi phí chuyển đổi số).
+
+### Các văn bản đã xác minh — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **96/2026/TT-BTC** | ⭐ MỚI — chưa có docid | Sửa đổi TT 67/2023 về Luật KDBH, 02/7/2026, slug 439711 |
+| **97/2026/TT-BTC** | ⭐ MỚI — chưa có docid | Bãi bỏ TT 55/2010 về thuế Đài truyền hình, 06/7/2026, slug 439710 |
+| **56/2026/TT-BXD** | ⭐ MỚI — chưa có docid | Thời giờ làm việc lao động trên biển, 06/7/2026, hiệu lực 01/9 |
+| **57/2026/TT-BXD** | ⭐ MỚI — chưa có docid | Thẩm định thiết kế và an toàn dầu khí biển, 07/7/2026, slug 439930 |
+| **58/2026/TT-BXD** | ⭐ MỚI — chưa có docid | Đăng kiểm tàu biển Việt Nam, 08/7/2026, slug 439999 |
+| **279/2026/NĐ-CP** | ⭐ Đã ghi nhận (2026-07-14 18:32) | Chức năng Bộ GDĐT, 12/7/2026 |
+| **1226/2026/QĐ-TTg** | ⭐ Đã ghi nhận (2026-07-14 18:32) | Mật mã dân sự, 07/7/2026 |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 96/TT-BTC (sửa đổi KDBH), 97/TT-BTC (bãi bỏ TT 55/2010), 56/TT-BXD (lao động biển), 57/TT-BXD (dầu khí biển), 58/TT-BXD (đăng kiểm tàu biển).
+- **96/TT-BTC** là văn bản nổi bật nhất — sửa đổi theo Luật KDBH sửa đổi 139/2025/QH15, hướng dẫn cung cấp bảo hiểm trên môi trường mạng, phí bảo hiểm liên kết đầu tư/bảo hiểm hưu trí.
+- **97/TT-BTC** bãi bỏ TT 55/2010/TT-BTC — thuế ưu đãi cho Đài truyền hình VN đã hết hiệu lực theo quy định chung.
+- **56/TT-BXD**: Lao động đặc thù trên biển (không quá 06 giờ/ngày, 300 giờ làm thêm/năm tối đa, 52 ngày nghỉ sau phiên).
+- **57/TT-BXD**: Dầu khí biển — thẩm định thiết kế giàn khoan, kiểm định từ xa, tổ chức đăng kiểm nước ngoài (Mỹ, Anh, Pháp, Na Uy, Nga).
+- **58/TT-BXD**: Đăng kiểm tàu biển Việt Nam — văn bản nền tảng thay thế quy định cũ, kiểm định từ xa, IACS.
+- **sitemap không có thêm NĐ-CP mới** — 279 là mới nhất. Không có 280.
+- Nguồn: luatvietnam.vn (sitemap_nghidinh lastmod 2026-07-14 17:53, sitemap_thongtu lastmod 2026-07-14 11:53, web_fetch slug 439711, 439710, 439730, 439930, 439999).
+- Ngày phát hiện: 2026-07-15 00:08 ICT
+- Phiên thực hiện: agent:github-io:subagent:407201c9-77a6-4cf3-8f7e-086ab816aeac (Đệ #1 Discovery — heartbeat 2026-07-14 23:59 ICT)
+
+---
+
+## Cập nhật 2026-07-14
 
 ### Phát hiện: 2 văn bản mới — 279/NĐ-CP + 1226/QĐ-TTg (sitemap_nghidinh 2026-07-14 lastmod 17:53 + web_fetch xác minh)
 
