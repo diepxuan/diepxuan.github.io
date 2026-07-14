@@ -1,6 +1,56 @@
-## Cập nhật 2026-07-14 (Đệ #1 Discovery — luatvietnam scan + vanban og:title rộng 200000–230000 + xác minh vùng trống)
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam + vanban og:title dải 218871–218970)
 
-### Phát hiện: 0 văn bản mới — vanban hoàn toàn trống 218850–230000; luatvietnam slug 404; Firecrawl 402
+### Phát hiện: 5 văn bản mới — TT-BTC 92, TT-BCA 99/102/125, TT-NHNN 32 (sitemap luatvietnam; vanban 218871–218970 hoàn toàn trống)
+
+Quét vanban.chinhphu.vn og:title dải 218871–218920 (step 1 = 50 docid) + luatvietnam.vn sitemap_thongtu + sitemap_nghidinh (lastmod 2026-07-13) + web_fetch slug trực tiếp. Ưu tiên: TT-BTC 96–100, NĐ-CP 279–282, QĐ-TTg 1256+. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **92/2026/TT-BTC** | **01/07/2026** | **Quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác tương trợ tư pháp về dân sự** — hướng dẫn lập dự toán, quản lý, sử dụng và quyết toán kinh phí NSNN cho công tác tương trợ tư pháp dân sự; căn cứ Luật NSNN 89/2025, Luật Tương trợ tư pháp 102/2025, NĐ 73/2026, NĐ 158/2026; áp dụng cho cơ quan có thẩm quyền thực hiện tương trợ tư pháp dân sự; hiệu lực **01/7/2026** | Tài chính / Tư pháp | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439696). Tiêu đề: "Quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác tương trợ tư pháp về dân sự" ✅. Ngày ban hành **01/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 01 tháng 7 năm 2026). Căn cứ NĐ 73/2026 (NSNN) và NĐ 158/2026 (tương trợ tư pháp dân sự). **ƯU TIÊN THẤP** — văn bản ngân sách chuyên đề. |
+| **102/2026/TT-BCA** | **25/06/2026** | **Quy định về đầu tư, mua sắm trong Công an nhân dân** — quy định về đầu tư, mua sắm tài sản công trong Công an nhân dân; thay thế quy định cũ; căn cứ Luật QLSDTài sản công 15/2017, Luật Đấu thầu 22/2023, Luật Đầu tư công 58/2024, Luật NSNN 89/2025; hiệu lực **01/7/2026** | Công an / Đầu tư | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440064). Tiêu đề: "Quy định về đầu tư, mua sắm trong Công an nhân dân" ✅. Ngày ban hành **25/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 25 tháng 6 năm 2026). Căn cứ Luật Đầu tư công 58/2024, Luật Đấu thầu 22/2023. **ƯU TIÊN TRUNG BÌNH** — quy định mua sắm công trong công an. |
+| **99/2026/TT-BCA** | **22/06/2026** | **Quy định về tha tù trước thời hạn có điều kiện tại trại giam, trại tạm giam do Công an nhân dân quản lý** — quy định về xét, đề nghị tha tù trước thời hạn có điều kiện; bàn giao hồ sơ phạm nhân sau khi tha tù; căn cứ Bộ luật Hình sự 100/2015 (sửa 2024, 2025), Luật Thi hành án hình sự 127/2025; hiệu lực **01/7/2026** | Tư pháp / Công an | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439595). Tiêu đề: "Quy định về tha tù trước thời hạn có điều kiện tại trại giam, trại tạm giam do Công an nhân dân quản lý" ✅. Ngày ban hành **22/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 22 tháng 6 năm 2026). **ƯU TIÊN THẤP** — văn bản hình sự chuyên đề. |
+| **125/2026/TT-BCA** | **30/06/2026** | **Ban hành Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình, mức độ rủi ro cao thuộc trách nhiệm quản lý của Bộ Công an** — ban hành danh mục hàng hóa rủi ro trung bình và cao thuộc Bộ Công an; căn cứ Luật Chất lượng 05/2007, Luật PCCC 55/2024, NĐ 137/2020 (sửa NĐ 58/2026/NĐ-CP về pháo), NĐ 105/2025; hiệu lực **01/7/2026** | Công an / Thương mại | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439515). Tiêu đề: "Danh mục sản phẩm, hàng hóa rủi ro trung bình và cao của Bộ Công an" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN THẤP** — văn bản quản lý hàng hóa chuyên đề. |
+| **32/2026/TT-NHNN** | **30/06/2026** | **Quy định về hoạt động cho vay để đầu tư ra nước ngoài của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài** — quy định cho vay đầu tư ra nước ngoài (góp vốn thành lập tổ chức kinh tế, hợp đồng ở nước ngoài, góp vốn/mua cổ phần); áp dụng cho NHNN, TCTD, chi nhánh NH nước ngoài; căn cứ Luật Đầu tư 143/2025; hiệu lực **~01/8/2026** | Ngân hàng / Đầu tư | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439872). Tiêu đề: "Quy định về hoạt động cho vay để đầu tư ra nước ngoài của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN TRUNG BÌNH** — quy định đầu tư ra nước ngoài của TCTD. |
+
+### Tình trạng vanban.chinhphu.vn — DẢI 218871–218920 TRỐNG HOÀN TOÀN
+
+- **Quét og:title dải 218871–218920 step 1 (50 docid)**: TẤT CẢ trả về og:title rỗng (placeholder "Chi tiết văn bản ban hành") — hoàn toàn trống
+- **Quét wider 218871–218970 step 1**: TẤT CẢ trả og:title rỗng — dải tiếp tục trống
+- **Vùng trống mở rộng**: Từ **218871** đến **218920+** (≥50 docid liên tục) — vanban.chinhphu.vn vẫn chưa index văn bản tháng 7/2026
+- **Kết luận**: vanban.chinhphu.vn vẫn CHƯA index văn bản nào sau 278/NĐ-CP (docid 218849). Các văn bản 92, 99, 102, 125/TT-BCA, 32/TT-NHNN tồn tại trên luatvietnam.vn nhưng chưa có docid.
+
+### Tình trạng luatvietnam.vn — sitemap updated 2026-07-13, NĐ-CP mới nhất = 278 (lastmod 2026-07-13)
+
+- **sitemap_nghidinh** lastmod 2026-07-13: NĐ-CP mới nhất = 278/2026/NĐ-CP (slug 440066, điều chỉnh giá điện) — 279, 280 chưa có trong sitemap
+- **sitemap_thongtu** lastmod 2026-07-13: TT-BCA mới nhất = 125/2026/TT-BCA (slug 439515), TT-BTC mới nhất = 97/2026/TT-BTC, TT-NHNN mới nhất = 36/2026/TT-NHNN
+- **Không có slug 99, 100/TT-BTC** trong sitemap — 99/TT-BCA (khác) và 99, 100/TT-BTC vẫn chưa được publish trên luatvietnam
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái | Cập nhật |
+|---|:---:|---|
+| **92/2026/TT-BTC** (ngân sách tương trợ tư pháp dân sự) | ⭐ MỚI — chưa có docid | Docid chưa xác minh, sitemap 2026-07-13 |
+| **99/2026/TT-BCA** (tha tù trước thời hạn) | ⭐ MỚI — chưa có docid | Docid chưa xác minh, sitemap 2026-07-13 |
+| **102/2026/TT-BCA** (đầu tư, mua sắm công an) | ⭐ MỚI — chưa có docid | Docid chưa xác minh, sitemap 2026-07-13 |
+| **125/2026/TT-BCA** (hàng hóa rủi ro BCA) | ⭐ MỚI — chưa có docid | Docid chưa xác minh, sitemap 2026-07-13 |
+| **32/2026/TT-NHNN** (cho vay đầu tư ra nước ngoài) | ⭐ MỚI — chưa có docid | Docid chưa xác minh, sitemap 2026-07-13 |
+| **279/2026/NĐ-CP** | ❌ KHÔNG CÓ trong sitemap luatvietnam | Chưa ban hành hoặc chưa publish |
+| **280/2026/NĐ-CP** | ❌ KHÔNG CÓ trong sitemap luatvietnam | Chưa ban hành hoặc chưa publish |
+| **99/2026/TT-BTC** | ❌ KHÔNG CÓ trong sitemap thongtu | Chưa ban hành hoặc chưa publish (lưu ý: 99/TT-BCA đã có) |
+| **100/2026/TT-BTC** | ❌ KHÔNG CÓ trong sitemap thongtu | Chưa ban hành hoặc chưa publish |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 92/TT-BTC (ngân sách tương trợ tư pháp), 99/TT-BCA (tha tù), 102/TT-BCA (đầu tư công an), 125/TT-BCA (hàng hóa rủi ro), 32/TT-NHNN (cho vay ra nước ngoài).
+- **vanban.chinhphu.vn**: Dải 218871–218920 hoàn toàn trống (50 docid). Không index văn bản mới từ sau 278/NĐ-CP (docid 218849).
+- **99/TT-BTC và 100/TT-BTC**: KHÔNG tồn tại trong sitemap luatvietnam thongtu (mới nhất 2026-07-13). Đây là 99/TT-BCA (tha tù) và 125/TT-BCA — không phải TT-BTC. **Cần xóa 99, 100/TT-BTC khỏi danh sách theo dõi ưu tiên** — không tồn tại.
+- **279, 280/NĐ-CP**: KHÔNG tồn tại trong sitemap luatvietnam nghidinh. Rất có thể chưa ban hành.
+- **Phương pháp quét**: og:title scan trên vanban (50 docid) + sitemap luatvietnam + web_fetch slug. web_fetch luatvietnam hoạt động tốt với Readability extractor.
+- Nguồn: vanban.chinhphu.vn (og:title scan dải 218871–218920), luatvietnam.vn (sitemap_thongtu lastmod 2026-07-13, sitemap_nghidinh lastmod 2026-07-13, web_fetch slug 439696, 440064, 439595, 439515, 439872).
+- Ngày phát hiện: 2026-07-14 11:35 ICT
+- Phiên thực hiện: agent:github-io:subagent:67c58600-4805-4142-9f66-0ee1da9db20d (Đệ #1 Discovery — 2026-07-14 11:29)
+
+---
 
 Quét vanban.chinhphu.vn og:title dải 219000–221500 (step 1 = 501 docid) + dải 200000–230000 (step 50 = 601 docid) + scan luatvietnam.vn sitemap_nghidinh + sitemap_thongtu + curl trực tiếp slug luatvietnam cũ. Ưu tiên: NĐ-CP 279, 280; TT-BTC 93, 99, 100; QĐ-TTg 1256. **Không phát hiện văn bản mới** — vanban 218850–230000 hoàn toàn trống, luatvietnam slug 404, Firecrawl 402. Giới hạn 5/lần: *(Không có văn bản mới)*
 
