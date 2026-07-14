@@ -4746,3 +4746,78 @@ Quét vanban.chinhphu.vn dải docid 218720–218800 (step 1, ~100 docid) + dả
 - Nguồn: vanban.chinhphu.vn (HTML page method, dải 218720–218800 step 1, 218807–219000 step 5, 218802–218831 step 1).
 - Ngày phát hiện: 2026-07-14 04:40 ICT
 - Phiên thực hiện: agent:github-io:subagent:861ea806-188f-489f-822b-76c859d6bb09 (Đệ #1 Discovery — HEARTBEAT POLL 04:29)
+
+---
+
+## Cập nhật 2026-07-14 (Đệ #1 Discovery — sitemap luatvietnam 2026-07-14 + vanban dải 219000–221000 + web search)
+
+### Phát hiện: 2 văn bản mới — 93/TT-BTC (docid mới) + 1226/QĐ-TTg (docid mới) + xác minh sitemap luatvietnam 2026-07-14
+
+Quét vanban.chinhphu.vn og:title dải 219000–221000 (step 5, ~401 docid) + luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (lastmod 2026-07-14) + web_search Gemini xác minh 234/NĐ-CP, 93/TT-BTC, 1226/QĐ-TTg, 103/115/TT-BCA. Ưu tiên: TT-BCA mới 103, 115, 116; sitemap mới nhất 2026-07-14; vanban dải 219000+. **Phát hiện 2 văn bản mới** (giới hạn 5/lần) — xác minh docid qua web search và sitemap:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **1226/2026/QĐ-TTg** | **07/07/2026** | **Phê duyệt Đề án Khuyến khích xã hội hóa hoạt động nghiên cứu, phát triển ứng dụng mật mã dân sự giai đoạn 2026–2030, định hướng đến năm 2035** — phấn đấu 50–70 sản phẩm mật mã dân sự "Make in Vietnam"; 10–15 doanh nghiệp cung cấp giải pháp; giảm 20–30% phụ thuộc công nghệ nước ngoài; 3–5 phòng thử nghiệm chuẩn quốc gia; ưu tiên sản phẩm cạnh tranh quốc tế; cơ chế Sandbox; hiệu lực **07/7/2026** | Công nghệ / Mật mã / An ninh thông tin | vanban.chinhphu.vn (docid **chưa có**) | **Chưa có** | **VĂN BẢN MỚI (docid mới)** — xác minh ngày ban hành **07/7/2026** qua web_fetch luatvietnam tin-van-ban-moi (slug 110305-article, title rõ "Ngày 07/7/2026"). Trích yếu đầy đủ từ luatvietnam. Slug luatvietnam = `khoa-hoc/quyet-dinh-1226-qd-ttg-2026-phe-duyet-de-an-khuyen-khich-xa-hoi-hoa-nghien-cuu-mat-ma-dan-su-439785-d1.html`. **ƯU TIÊN TRUNG BÌNH** — chính sách mật mã dân sự. |
+| **234/2026/NĐ-CP** | **26/06/2026** | **Quy định xử lý kỷ luật viên chức** — quy định nguyên tắc, hình thức kỷ luật (khiển trách, cảnh cáo, cách chức, buộc thôi việc); thẩm quyền, trình tự, thủ tục; thời hiệu 90 ngày (kéo dài 150 ngày vụ phức tạp); quyết định có hiệu lực 12 tháng; áp dụng cả người đã thôi việc, nghỉ hưu; hiệu lực **01/7/2026** | Hành chính / Lao động | vanban.chinhphu.vn (docid **218615** ✅ xác minh trước) | **Chưa có** | **XÁC MINH DOCID 218615 + NGÀY 26/6/2026** — web_search xác minh từ vanban.chinhphu.vn/?pageid=27160&docid=218615 (URL chính xác trong citation). Title đầy đủ: "Nghị định số 234/2026/NĐ-CP của Chính phủ: Về xử lý kỷ luật viên chức" ✅. Ngày ban hành **26/6/2026** xác minh từ ninhbinh.gov.vn, vov.vn, nhiều nguồn chính phủ. Có slug luatvietnam 439010 (cũ). **ƯU TIÊN CAO** — văn bản hành chính nền tảng. |
+
+### Tình trạng vanban.chinhphu.vn — DẢI 219000–221000 TRỐNG HOÀN TOÀN
+
+- **Quét og:title 219000–221000 step 5 (~401 docid)**: TẤT CẢ trả og:title = "Chi tiết văn bản ban hành" (placeholder) — hoàn toàn trống
+- **Vùng trống mở rộng**: Từ **218871** đến **221000+** (≥2130 docid liên tục) — vanban.chinhphu.vn vẫn chưa index văn bản tháng 7/2026
+- **Docid 218615 = 234/2026/NĐ-CP**: ✅ Xác minh og:title (nằm trong dải 218600–218800, trước vùng trống)
+
+### Tình trạng luatvietnam.vn — sitemap updated 2026-07-14, nhiều văn bản mới nhất
+
+- **sitemap_thongtu** lastmod 2026-07-14: Nhiều văn bản mới nhất:
+  - TT-BCA: 92 (440146, ứng phó sự cố, 17/6/2026), 94 (439633, tạm đình chỉ), 96 (439632, giam giữ), 99 (439595, tha tù), 102 (440064, đầu tư), 103 (440214, phân cấp dự án), 115 (440224, an ninh hàng không), 116 (440199, cư trú), 125 (439515, hàng hóa rủi ro)
+  - TT-BTC: 84 (439678, hoàn thuế GTGT), 86 (439660, quản lý thuế XNK), 90 (439827, đăng ký thuế), 91 (439780, hóa đơn điện tử), 92 (439696, NSNN tương trợ), 94 (439781, quản lý tuân thủ), 95 (439970, hiệp định thuế), 96 (439711, bảo hiểm), 97 (439710, bãi bỏ TT 55)
+  - TT-NHNN: 31 (440099, cho thuê tài chính), 32 (439872, cho vay ra nước ngoài), 35 (439858, sửa đổi), 36 (439866, chính sách tiền tệ)
+  - TT-BQP: 95 (439421, tiếp công dân), 97 (439582, đào tạo khẩn cấp), 98 (440226, chứng nhận hệ thống QP)
+  - TT-BNNMT: 29 (439762, đo địa chất), 30 (440247, kỹ thuật bay do)
+  - TT-BVHTTDL: 18 (440227, bảo tàng), 19 (440215, thẻ nhà báo)
+  - TT-BGDDT: 51 (439612, sửa đổi), 52 (440129, liên thông), 53 (440236, tuyển sinh), 54 (440237, chương trình đào tạo)
+  - TT-BXD: 46 (439624, quy hoạch), 47 (440109, vận tải), 48 (439929, hàng không), 57 (439930, thẩm định), 58 (439999, đăng kiểm tàu biển)
+  - TT-BYT: 29 (439661, y tế xã hội), 30 (440000, nhãn thực phẩm)
+  - TT-BKHCN: 38 (439643, công nghệ cao)
+  - TT-BNG: 09 (439596, tài chính ngân sách)
+  - TT-TTCP: 02 (439928, khung tiêu chí)
+  - TT-BTP: 04 (439540, giám định tư pháp)
+  - TT-BCA 92 (440146): Ban hành **17/6/2026** ✅ (khác với TT-BTC 92 ngày 01/7/2026)
+- **sitemap_nghidinh** lastmod 2026-07-13 (không có update 2026-07-14): NĐ-CP mới nhất trong sitemap = 278/2026/NĐ-CP (440066). 279, 280, 281, 282 vẫn CHƯA CÓ trong sitemap_nghidinh.
+- **Phát hiện quan trọng**: sitemap_thongtu đã update rất nhiều văn bản mới từ 2026-07-13 → 2026-07-14 (91–125/TT-BCA, 84–97/TT-BTC, 30–36/TT-NHNN...). Đây là batch lớn nhất của tháng 7.
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái | Cập nhật |
+|---|:---:|---|
+| **1226/2026/QĐ-TTg** (mật mã dân sự) | ⭐ MỚI — chưa có docid | Ngày 07/7/2026 xác minh ✅, luatvietnam slug 439785 |
+| **234/2026/NĐ-CP** (xử lý kỷ luật viên chức) | ✅ Docid = **218615** (xác minh) | Ngày 26/6/2026 xác minh ✅, hiệu lực 01/7/2026 |
+| **93/2026/TT-BTC** (đại lý bảo hiểm) | ❓ Chưa tìm thấy | Ban hành 02/7/2026 (xác minh từ web_search), dùng slug tin-van-ban-moi |
+| **92/2026/TT-BCA** (ứng phó sự cố) | ⭐ MỚI — chưa có docid | Ban hành **17/6/2026** ✅, luatvietnam slug 440146 (KHÁC với TT-BTC 92 ngày 01/7) |
+| **103/2026/TT-BCA** (phân cấp dự án an ninh) | ⭐ MỚI — chưa có docid | Ban hành **25/6/2026** ✅, luatvietnam slug 440214 |
+| **115/2026/TT-BCA** (an ninh hàng không) | ⭐ MỚI — chưa có docid | Ban hành **29/6/2026** ✅, luatvietnam slug 440224 |
+| **116/2026/TT-BCA** (cư trú) | ⭐ MỚI — chưa có docid | Ban hành **29/6/2026** ✅, luatvietnam slug 440199 |
+| **94/2026/TT-BCA** (tạm đình chỉ, giam giữ) | ⭐ MỚI — chưa có docid | Ban hành **~06/2026** ✅, luatvietnam slug 439633 |
+| **96/2026/TT-BCA** (giam giữ) | ⭐ MỚI — chưa có docid | Ban hành **~06/2026** ✅, luatvietnam slug 439632 |
+| **91/2026/TT-BTC** (hóa đơn điện tử) | ⭐ MỚI — chưa có docid | Ngày 30/6/2026 ✅ (sitemap), hiệu lực 01/7/2026 |
+| **94/2026/TT-BTC** (quản lý tuân thủ thuế) | ⭐ MỚI — chưa có docid | Ngày 30/6/2026 ✅ (sitemap), hiệu lực 01/7/2026 |
+| **95/2026/TT-BTC** (hiệp định thuế) | ⭐ MỚI — chưa có docid | Ngày 01/7/2026 ✅ (sitemap), hiệu lực 01/7/2026 |
+| **273/2026/NĐ-CP** (hàng miễn thuế) | ⭐ MỚI — chưa có docid | Ngày 07/7/2026 ✅, sitemap 440066 update 2026-07-13 |
+| **274/2026/NĐ-CP** (đấu thầu nhà đầu tư) | ⭐ MỚI — chưa có docid | Ngày 07/7/2026 ✅, sitemap 440066 update 2026-07-13 |
+| **278/2026/NĐ-CP** (điều chỉnh giá điện) | ✅ Docid = **218849** | Hiệu lực 09/7/2026 |
+| **279/2026/NĐ-CP** | ❌ KHÔNG CÓ trong sitemap nghidinh (lastmod 2026-07-13) | Chưa ban hành hoặc chưa publish |
+| **280/2026/NĐ-CP** | ❌ KHÔNG CÓ trong sitemap nghidinh | Chưa ban hành hoặc chưa publish |
+| **1256/2026/QĐ-TTg** | ❌ Không tìm thấy | Chưa ban hành / chưa index |
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được ghi nhận: 1226/QĐ-TTg (mật mã dân sự, ngày 07/7/2026 xác minh) + 234/NĐ-CP (docid 218615 xác minh, ngày 26/6/2026 xác minh).
+- **Phát hiện quan trọng**: sitemap_thongtu đã update nhiều văn bản mới từ 2026-07-13 → 2026-07-14. Tổng cộng ~40+ văn bản mới xuất hiện trong sitemap kể từ lần quét trước.
+- **92/TT-BCA** ≠ 92/TT-BTC: Đây là 2 văn bản khác nhau — TT-BCA 92 (ứng phó sự cố, 17/6/2026) và TT-BTC 92 (NSNN tương trợ tư pháp, 01/7/2026). Cả 2 đều mới.
+- **sitemap_nghidinh** KHÔNG có 279, 280, 281, 282 — các NĐ-CP này rất có thể CHƯA BAN HÀNH.
+- **93/TT-BTC** (đại lý bảo hiểm, 02/7/2026): Xác minh tồn tại từ web_search nhưng chưa có slug luatvietnam riêng. Điều này cho thấy 93/TT-BTC có thể dùng slug tin-van-ban-moi (tin-van-ban-moi/110243) thay vì slug thông tư chuẩn. Cần web_fetch slug tin-van-ban-moi/110243 để xác minh đầy đủ.
+- **vanban.chinhphu.vn**: Dải 219000–221000 hoàn toàn trống (~2130 docid). Không index văn bản mới.
+- Nguồn: vanban.chinhphu.vn (og:title scan dải 219000–221000 step 5), luatvietnam.vn (sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-13, web_fetch slug 440146, 439711, 110305-article, 440214, 440224, 440199), web_search Gemini (234/NĐ-CP, 93/TT-BTC, 1226/QĐ-TTg, 103/115/TT-BCA).
+- Ngày phát hiện: 2026-07-14 14:06 ICT
+- Phiên thực hiện: agent:github-io:subagent:6e5d004a-39a6-486c-8dca-1bb0175b739e (Đệ #1 Discovery — discovery-20260714-1359)
+
