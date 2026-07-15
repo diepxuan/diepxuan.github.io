@@ -64,15 +64,15 @@ Theo đề nghị của Bộ trưởng Bộ Tài nguyên và Môi trường;
 
 Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 123/2024/NĐ-CP ngày 04 tháng 10 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực đất đai.
 
-## Điều 1
+### Điều 1
 
 Sửa đổi, bổ sung một số điều của Nghị định số 123/2024/NĐ-CP ngày 04 tháng 10 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực đất đai theo quy định tại Nghị định này.
 
-## Điều 2
+### Điều 2
 
 Các điều, khoản, điểm được sửa đổi, bổ sung tại Nghị định này được thực hiện theo quy định tại Điều 3 và các Điều tiếp theo của Nghị định này.
 
-## Điều 3
+### Điều 3
 
 Bổ sung Điều 3a vào sau Điều 3 của Nghị định số 123/2024/NĐ-CP với nội dung như sau:
 
@@ -82,7 +82,7 @@ Bổ sung Điều 3a vào sau Điều 3 của Nghị định số 123/2024/NĐ-C
 
 2. Vợ và chồng chung quyền sử dụng đất thì áp dụng xử phạt vi phạm hành chính như đối với một cá nhân."
 
-## Điều 4
+### Điều 4
 
 Bổ sung điểm b khoản 2 và bổ sung các điểm p, q, r, s vào sau điểm o khoản 3 Điều 4 của Nghị định số 123/2024/NĐ-CP với nội dung như sau:
 
@@ -138,7 +138,7 @@ r) Buộc thực hiện lại thủ tục hành chính về đất đai;
 
 s) Buộc nộp lại các giấy tờ đã bị tẩy xóa, sửa chữa, làm sai lệch nội dung hoặc giấy tờ giả đã sử dụng.
 
-## Điều 5
+### Điều 5
 
 Bổ sung khoản 1 Điều 6 của Nghị định số 123/2024/NĐ-CP với nội dung như sau:
 
@@ -152,7 +152,7 @@ Trường hợp người vi phạm đã nộp các khoản tiền vào ngân sá
 
 2. (Giữ nguyên nội dung khoản 2 Điều 6 Nghị định số 123/2024/NĐ-CP)
 
-## Điều 6
+### Điều 6
 
 Bổ sung khoản 2 Điều 16 của Nghị định số 123/2024/NĐ-CP với nội dung như sau:
 
@@ -162,11 +162,11 @@ Bổ sung khoản 2 Điều 16 của Nghị định số 123/2024/NĐ-CP với n
 
 2. Người có hành vi vi phạm quy định tại khoản 1 Điều này không bị xử phạt trong trường hợp nhận quyền sử dụng đất để thực hiện dự án đầu tư thông qua việc thỏa thuận về nhận quyền sử dụng đất theo quy định tại Điều 127 Luật Đất đai.
 
-## Điều 7
+### Điều 7
 
 Bãi bỏ hình thức xử phạt bổ sung quy định tại điểm c khoản 3 Điều 4 (tịch thu giấy tờ bị tẩy xóa, sửa chữa, làm sai lệch nội dung hoặc giấy tờ giả) của Nghị định số 123/2024/NĐ-CP. Việc buộc nộp lại các giấy tờ này được chuyển thành biện pháp khắc phục hậu quả quy định tại điểm s khoản 3 Điều 4.
 
-## Điều 8
+### Điều 8
 
 Sửa đổi, bổ sung thẩm quyền xử phạt vi phạm hành chính của Chủ tịch Ủy ban nhân dân cấp xã theo hướng tăng mạnh thẩm quyền:
 
@@ -182,7 +182,7 @@ d) Áp dụng các biện pháp khắc phục hậu quả quy định tại các
 
 2. Trước đây, thẩm quyền xử phạt từ mức 50.000.000 đồng trở lên thuộc Chủ tịch Ủy ban nhân dân cấp huyện và cấp tỉnh. Theo Nghị định này, Chủ tịch Ủy ban nhân dân cấp xã được tăng thẩm quyền phạt tiền đến 250.000.000 đồng.
 
-## Điều 9
+### Điều 9
 
 Sửa đổi, bổ sung thẩm quyền xử phạt của Trưởng đoàn kiểm tra chuyên ngành về đất đai, Giám đốc Sở Tài nguyên và Môi trường:
 
@@ -210,11 +210,11 @@ d) Đình chỉ hoạt động dịch vụ tư vấn có thời hạn đến 3 t
 
 đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Điều 4 của Nghị định này.
 
-## Điều 10
+### Điều 10
 
 Bổ sung thẩm quyền xử phạt đối với một số chức danh thuộc lực lượng Công an nhân dân trong lĩnh vực sử dụng đất an ninh theo quy định tại Nghị định này.
 
-## Điều 11
+### Điều 11
 
 Điều khoản thi hành
 
@@ -224,7 +224,7 @@ Bổ sung thẩm quyền xử phạt đối với một số chức danh thuộc
 
 3. Chủ tịch Ủy ban nhân dân các cấp, Thủ trưởng các cơ quan có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực đất đai chịu trách nhiệm thi hành Nghị định này.
 
-## Điều 12
+### Điều 12
 
 Điều khoản chuyển tiếp
 
