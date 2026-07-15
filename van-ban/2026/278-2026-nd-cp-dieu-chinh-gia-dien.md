@@ -2,7 +2,7 @@
 layout: vanban
 title: "Sửa đổi, bổ sung một số điều của Nghị định số 72/2025/NĐ-CP về cơ chế điều chỉnh giá bán lẻ điện bình quân"
 date: 2026-07-09
-modified: 2026-07-12
+modified: 2026-07-15
 group: Năng lượng
 tags:
   - điện lực
