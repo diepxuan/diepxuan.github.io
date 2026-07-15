@@ -5257,3 +5257,51 @@ Quét full sitemap_nghidinh + sitemap_thongtu (lastmod 2026-07-15 17:53 / 11:53+
 - Ngày phát hiện: 2026-07-15 19:48 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:585abeb4-5c97-4bef-a3d9-f3c4a830d62b (Đệ #1 Discovery — 2026-07-15 19:44 ICT)
 
+
+---
+
+## Cập nhật 2026-07-15 v4 (Đệ #1 Discovery — heartbeat 22:29 ICT)
+
+### Phát hiện: 5 văn bản mới — 265/266/274/NĐ-CP + 90/94/TT-BTC (sitemap July 15 17:53 full scan)
+
+So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (lastmod 2026-07-15 11:53+07:00) với LEGISLATION_TRACKING.md v3 (2026-07-15 19:48) + loại trừ PR #253 (280, 281, 97/TT-BTC, 57/TT-BXD, 30/TT-BYT đã xử lý). **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **265/2026/NĐ-CP** | **01/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực tiết kiệm, chống lãng phí** — quy định xử phạt vi phạm hành chính trong lĩnh vực tiết kiệm, chống lãng phí theo Luật 110/2025/QH15; phạt cảnh cáo đến 10 triệu đồng; mức phạt tổ chức gấp đôi cá nhân; thẩm quyền Chủ tịch UBND cấp tỉnh đến 15 triệu; Thanh tra các bộ (QP, CA, NHNN) đến 10 triệu; biện pháp khắc phục: buộc ban hành Chương trình tiết kiệm, cập nhật Cơ sở dữ liệu quốc gia, công khai thông tin; hiệu lực **01/7/2026** | Tài chính / Tiết kiệm, chống lãng phí | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439422). Title: "Quy định xử phạt vi phạm hành chính trong tiết kiệm, chống lãng phí" ✅. Ngày ban hành **01/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 01 tháng 07 năm 2026). sitemap_nghidinh lastmod 2026-07-15 17:53. **ƯU TIÊN CAO** — văn bản xử phạt hành chính theo Luật Tiết kiệm mới. |
+| **266/2026/NĐ-CP** | **01/07/2026** | **Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Tiết kiệm, chống lãng phí** — hướng dẫn thi hành Luật Tiết kiệm 110/2025/QH15; quy định hành vi gây lãng phí (bộ máy, lao động, tài sản công, đầu tư xây dựng, tài nguyên); hành vi vi phạm trong tổ chức thực hiện phòng, chống lãng phí; Ngày toàn dân tiết kiệm, chống lãng phí ngày 31/5 hằng năm; ưu tiên triển khai trên môi trường điện tử; hiệu lực **01/7/2026** | Tài chính / Tiết kiệm, chống lãng phí | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439478). Title: "Hướng dẫn thi hành Luật Tiết kiệm, chống lãng phí" ✅. Ngày ban hành **01/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 01 tháng 7 năm 2026). sitemap_nghidinh lastmod 2026-07-15 17:53. **ƯU TIÊN CAO** — văn bản hướng dẫn Luật Tiết kiệm, chống lãng phí. Cặp với 265/NĐ-CP cùng batch. |
+| **274/2026/NĐ-CP** | **07/07/2026** | **Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư** — quy định chi tiết Luật Đấu thầu 22/2023 (sửa 57/2024, 90/2025) về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh; dự án đầu tư có sử dụng đất thuộc diện phải đấu thầu; bảo đảm cạnh tranh (không cùng >30% sở hữu); ưu đãi công nghệ cao, thân thiện môi trường (5%), chuyển giao công nghệ (2%); điều kiện quỹ đất đấu thầu phải đáp ứng đầy đủ; căn cứ Luật Đất đai 31/2024, Nghị quyết 254/2025/QH15, Luật Đầu tư 143/2025; hiệu lực ký | Đầu tư / Đấu thầu | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439818). Title: "Quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư" ✅. Ngày ban hành **07/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 07 tháng 7 năm 2026). sitemap_nghidinh lastmod 2026-07-15 17:53. **ƯU TIÊN CAO** — quy định chi tiết quan trọng về đấu thầu nhà đầu tư, liên quan trực tiếp đến đất đai và đầu tư. |
+| **90/2026/TT-BTC** | **30/06/2026** | **Quy định về đăng ký thuế** — quy định chi tiết đăng ký thuế theo Luật Quản lý thuế 108/2025/QH15 và NĐ 252/2026/NĐ-CP; mã số thuế 10 chữ số cho tổ chức độc lập, 13 chữ số cho đơn vị phụ thuộc; quy định mới về nhà cung cấp nước ngoài, chủ quản nền tảng TMĐT, khấu trừ nộp thay thuế; đơn vị chủ quản chịu trách nhiệm nghĩa vụ thuế đơn vị phụ thuộc; hiệu lực ký | Tài chính / Thuế | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439827). Title: "Quy định mới về đăng ký thuế từ Bộ Tài chính" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). sitemap_thongtu lastmod 2026-07-15 11:19. **ƯU TIÊN TRUNG BÌNH** — thay thế quy định cũ về đăng ký thuế, tác động rộng đến doanh nghiệp. |
+| **94/2026/TT-BTC** | **01/07/2026** | **Quy định về quản lý tuân thủ, quản lý rủi ro trong quản lý thuế** — quy định quản lý tuân thủ và rủi ro theo Luật Quản lý thuế 108/2025/QH15; thu thập thông tin người nộp thuế; tiêu chí đánh giá, phân loại mức độ tuân thủ pháp luật thuế; tiêu chí đánh giá, phân loại mức độ rủi ro; phương pháp chấm điểm, xếp hạng, học máy (machine learning); Phân hệ quản lý tuân thủ và rủi ro thuế; giám sát trọng điểm; căn cứ NĐ 252/2026, NĐ 254/2026; hiệu lực ký | Tài chính / Thuế | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439781). Title: "Quản lý tuân thủ và rủi ro trong quản lý thuế hiệu quả" ✅. Ngày ban hành **01/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 01 tháng 7 năm 2026). sitemap_thongtu lastmod 2026-07-14 13:39. **ƯU TIÊN TRUNG BÌNH** — văn bản hướng dẫn quản lý tuân thủ, rủi ro thuế, áp dụng AI/machine learning. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-15 17:53 / 11:53+07:00 (v4 heartbeat 22:29)
+
+- **sitemap_nghidinh lastmod 2026-07-15 17:53+07:00**: Không đổi so với v3 (19:48) — NĐ-CP mới nhất vẫn là **281/2026** (slug 440318, đất đai, lastmod 08:55). Tiếp theo là 280 (slug 440319, lastmod 17:53). Không có 282+ mới.
+- **sitemap_thongtu lastmod 2026-07-15 11:53+07:00**: Không đổi so với v3. Các văn bản mới trong sitemap lần này: 90/TT-BTC (lastmod 15:19 ngày 14/7), 94/TT-BTC (lastmod 13:39 ngày 14/7). Không có thêm văn bản mới nào khác so với v3.
+- **5 văn bản mới phát hiện** chưa từng ghi nhận: 265, 266, 274/NĐ-CP + 90, 94/TT-BTC. Không trùng với PR #253.
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **265/2026/NĐ-CP** | ⭐ MỚI — docid **chưa xác minh** | Xử phạt vi phạm hành chính tiết kiệm, chống lãng phí, 01/7/2026, slug 439422 |
+| **266/2026/NĐ-CP** | ⭐ MỚI — docid **chưa xác minh** | Hướng dẫn thi hành Luật Tiết kiệm, 01/7/2026, slug 439478 |
+| **274/2026/NĐ-CP** | ⭐ MỚI — docid **chưa xác minh** | Chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư, 07/7/2026, slug 439818 |
+| **90/2026/TT-BTC** | ⭐ MỚI — docid **chưa xác minh** | Đăng ký thuế, 30/6/2026, slug 439827 |
+| **94/2026/TT-BTC** | ⭐ MỚI — docid **chưa xác minh** | Quản lý tuân thủ, rủi ro thuế, 01/7/2026, slug 439781 |
+| **280/2026/NĐ-CP** | Đã ghi nhận (v2 19:19) | Bảo hiểm tiền gửi, 13/7/2026, slug 440319 |
+| **281/2026/NĐ-CP** | Đã ghi nhận (v2 19:19) | Sửa đổi xử phạt đất đai (NĐ 123/2024), 13/7/2026, slug 440318 |
+| **109/TT-BCA** | Đã ghi nhận (v3 19:48) | Đào tạo GPLX Công an, 29/6/2026, slug 439433 |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 265/NĐ-CP (xử phạt tiết kiệm, chống lãng phí), 266/NĐ-CP (hướng dẫn Luật Tiết kiệm), 274/NĐ-CP (đấu thầu lựa chọn nhà đầu tư), 90/TT-BTC (đăng ký thuế), 94/TT-BTC (quản lý tuân thủ và rủi ro thuế).
+- **265 + 266/NĐ-CP** là cặp văn bản cùng batch ban hành ngày 01/7/2026 — hướng dẫn và xử phạt thi hành Luật Tiết kiệm 110/2025/QH15. Đây là 2 trong số hàng loạt NĐ-CP liên quan đến Luật Tiết kiệm mới cần ưu tiên crawl đầy đủ.
+- **274/NĐ-CP** là văn bản chi tiết Luật Đấu thầu (lựa chọn nhà đầu tư) — tác động trực tiếp đến thị trường bất động sản và đầu tư. Kết nối với Luật Đất đai 31/2024 và Nghị quyết 254/2025/QH15.
+- **90/TT-BTC** thay thế quy định cũ về đăng ký thuế, có quy định mới về nhà cung cấp nước ngoài và nền tảng TMĐT — tác động rộng đến toàn bộ doanh nghiệp.
+- **94/TT-BTC** áp dụng machine learning và AI trong quản lý thuế — bước tiến quan trọng trong số hóa quản lý thuế.
+- **Vanban.chinhphu.vn** vẫn chưa index văn bản tháng 7/2026 — tất cả văn bản mới từ 01/7/2026 trở đi đều chưa có docid. Cần tiếp tục theo dõi dải docid 218850–220000.
+- **Đề xuất phiên tiếp theo**: Cần crawl nội dung đầy đủ 265, 266, 274/NĐ-CP (ưu tiên cao); crawl 90, 94/TT-BTC (ưu tiên trung bình). Ngoài ra, rất nhiều NĐ-CP trong dải 246–281 chưa crawl chi tiết trong tracking.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:53), web_fetch slug 439422 (265), 439478 (266), 439818 (274), 439827 (90/TT-BTC), 439781 (94/TT-BTC).
+- Ngày phát hiện: 2026-07-15 22:35 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:d510ca36-5da9-4d92-87a8-094c3c074f62 (Đệ #1 Discovery — heartbeat 22:29 ICT)
