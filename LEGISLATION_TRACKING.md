@@ -112,6 +112,8 @@
 | Nghị định 271/2026/NĐ-CP | Giáo dục — Miễn phí SGK | ✅ Xác nhận 03/07/2026 |
 | Nghị định 240/2026/NĐ-CP | FTA, Xúc tiến xuất khẩu | Ban hành 26/06/2026 — ngoài ngưỡng |
 | Nghị định 232/2026/NĐ-CP | Viên chức — Vị trí việc làm | ✅ Đã crawl, Hoàn thiện — van-ban/lao-dong/232-2026-nd-cp-vi-tri-viec-lam-vien-chuc.md |
+| Nghị định 280/2026/NĐ-CP | Bảo hiểm tiền gửi — Tổ chức HĐQT 7 thành viên | ✅ Đã review OK, Hoàn thiện, 38 Điều (1-38), docid 218861, 81.6 KB — van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md |
+| Nghị định 281/2026/NĐ-CP | Sửa đổi NĐ 123/2024 xử phạt đất đai — Thẩm quyền cấp xã đến 250 triệu | ✅ Đã review OK, Stub (12 Điều đầy đủ), docid 218863, 12.8 KB — van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md |
 
 ---
 
