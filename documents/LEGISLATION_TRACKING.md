@@ -1,3 +1,50 @@
+## Cập nhật 2026-07-15 v2 (heartbeat 19:19 ICT)
+
+### Phát hiện: 2 văn bản NĐ-CP MỚI từ sitemap luatvietnam.vn 2026-07-15 17:53+07:00
+
+Nguồn: sitemap_nghidinh lastmod 2026-07-15 17:53+07:00 + memory/2026-07-15.md (Đệ #1 19:02 ICT). So sánh với LEGISLATION_TRACKING.md (đến 2026-07-15 lần đầu): **phát hiện 2 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **280/2026/NĐ-CP** | **13/07/2026** | **Quy định tổ chức, hoạt động và quản lý, đầu tư vốn nhà nước tại Bảo hiểm tiền gửi Việt Nam** — quy định tổ chức, hoạt động và quản lý, đầu tư vốn nhà nước tại Bảo hiểm tiền gửi Việt Nam (DIV); HĐQT 7 thành viên; Thống đốc NHNN bổ nhiệm; chi trả bảo hiểm bằng phương tiện điện tử từ 13/7/2026; căn cứ Luật Bảo hiểm tiền gửi 111/2025/QH15; hiệu lực **13/7/2026** | Tài chính / Bảo hiểm tiền gửi | **chua-xac-minh** | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua sitemap_nghidinh (slug 440319, lastmod 2026-07-15 17:53+07:00) + web_fetch slug 440319. Slug 440319 khác slug 439980 từ sitemap 14/7 (slug cũ bị redirect). **NGÀY BAN HÀNH XÁC MINH: 13/7/2026** ✅. **Docid CHƯA XÁC MINH**. Cần xác minh docid trên vanban.chinhphu.vn. **ƯU TIÊN TRUNG BÌNH** — quy định tổ chức DIV. |
+| **281/2026/NĐ-CP** | **13/07/2026** | **Sửa đổi, bổ sung một số điều của Nghị định 123/2024/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực đất đai** — sửa đổi, bổ sung NĐ 123/2024 về xử phạt hành chính trong lĩnh vực đất đai; thêm điều 3a; sửa điều 2, 3, 4, 5, 6, 7; căn cứ Luật Đất đai 31/2024/QH15, Luật Xử lý vi phạm hành chính, Nghị quyết 254/2025/QH15; hiệu lực **~07/2026** | Đất đai / Xử phạt hành chính | **chua-xac-minh** | **Chưa có** | **VĂN BẢN MỚI** — phát hiện qua sitemap_nghidinh (slug 440318, lastmod 2026-07-15 08:55+07:00) + web_fetch slug 440318. Đây là NĐ-CP cùng đợt với 280. **NGÀY BAN HÀNH ƯỚC ĐOÁN: 13/7/2026** (cùng batch với 280). **Docid CHƯA XÁC MINH**. Cần xác minh docid trên vanban.chinhphu.vn. **ƯU TIÊN TRUNG BÌNH** — sửa đổi NĐ 123/2024, tác động trực tiếp đến người dân và chính quyền địa phương. |
+
+### Đối chiếu nhanh với LEGISLATION_TRACKING.md (đến 2026-07-15 lần đầu)
+
+| Số hiệu | Trong tracking? | Trạng thái |
+|---|:---:|---|
+| 280/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (slug 440319, khác slug 439980 cũ bị redirect) |
+| 281/2026/NĐ-CP | **KHÔNG** | Thêm mới — Chưa có (slug 440318) |
+
+### QUAN TRỌNG: sitemap_nghidinh 2026-07-15 17:53+07:00 — 280 + 281 cùng batch
+
+- **sitemap_nghidinh lastmod 2026-07-15 17:53+07:00**: 280/2026/NĐ-CP (slug 440319) cập nhật cùng batch với 279 (lastmod 14/7 17:53). Slug 440319 MỚI — khác slug 439980 từ sitemap 14/7 (slug 439980 redirect nhầm QĐ-UBND Tuyên Quang).
+- **281/2026/NĐ-CP** (slug 440318): lastmod 08:55+07:00 — batch riêng, cùng ngày 13/7/2026 với 280.
+- **280/2026/NĐ-CP**: Bảo hiểm tiền gửi Việt Nam, HĐQT 7 thành viên, Thống đốc NHNN bổ nhiệm. Có nội dung đầy đủ từ web_fetch slug 440319.
+- **281/2026/NĐ-CP**: Sửa đổi NĐ 123/2024 về xử phạt đất đai. Có nội dung đầy đủ từ web_fetch slug 440318 (điều 3a, sửa 2-7).
+- **sitemap_thongtu**: lastmod 2026-07-15 11:53+07:00 — không đổi so với 14/7. Các văn bản từ vòng trước: 97/TT-BTC, 101/TT-BQP, 19/TT-BVHTTDL, 92/TT-BCA, 97/TT-BQP, 96/TT-BTC, 56-58/TT-BXD.
+- **Docid 280, 281**: CHƯA XÁC MINH trên vanban.chinhphu.vn. Cần quét dải docid mới.
+
+### Đề xuất ưu tiên phiên tiếp theo
+
+1. **280/2026/NĐ-CP** (ưu tiên số 1): Bảo hiểm tiền gửi — ngày ban hành **13/7/2026**; nội dung đã xác minh từ slug 440319. Cần xác minh docid + crawl toàn văn từ vanban.chinhphu.vn hoặc luatvietnam.vn.
+2. **281/2026/NĐ-CP** (ưu tiên số 2): Sửa đổi xử phạt đất đai (NĐ 123/2024) — ngày ban hành **13/7/2026**; nội dung đã xác minh từ slug 440318. Cần xác minh docid + crawl toàn văn.
+3. **Quét sitemap_thongtu** (ưu tiên số 3): Kiểm tra văn bản mới từ lần quét 11:53 ngày 15/7 (96/TT-BTC, 56-58/TT-BXD, 92/TT-BCA, 97/TT-BTC, 101/TT-BQP, 19/TT-BVHTTDL, 97/TT-BQP).
+4. **Quét dải docid mới** trên vanban.chinhphu.vn (ưu tiên số 4): Tìm docid cho 278, 279, 280, 281 (dải 218804+).
+5. **Các văn bản ưu tiên thấp** từ tracking: 91/TT-BTC, 93/TT-BCA, 30/TT-BNNMT, 116/TT-BCA — cần xác minh docid.
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được thêm vào tracking lần này: 280/NĐ-CP (Bảo hiểm tiền gửi, 13/7, slug 440319) + 281/NĐ-CP (sửa đổi xử phạt đất đai, 13/7, slug 440318).
+- **280/2026/NĐ-CP** xuất hiện lần đầu trong sitemap ngày 15/7 17:53+07:00 — slug mới 440319 (khác 439980 từ sitemap 14/7 bị redirect). Nội dung đầy đủ xác minh từ web_fetch slug 440319.
+- **281/2026/NĐ-CP** xuất hiện lần đầu trong sitemap ngày 15/7 08:55+07:00 — slug 440318. Nội dung đầy đủ xác minh từ web_fetch slug 440318.
+- **278/2026/NĐ-CP** (docid 218849, Bộ GD&ĐT → 218849 là 278?): Đã có trong PR #253. Cần cập nhật docid chính xác từ vanban.chinhphu.vn.
+- **Vanban.chinhphu.vn** vẫn chậm index — 280, 281 chưa có docid. Tiếp tục theo dõi dải 218804+.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:53+07:00), web_fetch slug 440319, web_fetch slug 440318, memory/2026-07-15.md.
+- Ngày phát hiện: 2026-07-15 19:19 Asia/Saigon
+
+---
+
 ## Cập nhật 2026-07-15 (Đệ #1 Discovery — heartbeat 2026-07-14 23:59 ICT + sitemap 2026-07-14 17:53 + web_fetch xác minh)
 
 ### Phát hiện: 5 văn bản mới — 96/97/TT-BTC + 56/57/TT-BXD + 58/TT-BXD (sitemap ưu tiên TT-BTC 96+)
