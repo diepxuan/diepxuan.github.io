@@ -1,3 +1,62 @@
+## Cập nhật 2026-07-16 v1 (Đệ #1 Discovery — heartbeat 2026-07-16 00:29 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới — sitemap ổn định từ batch 2026-07-15 17:53/11:53+07:00
+
+Quét sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00) + sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00). So sánh với nguồn tham chiếu: sitemap_nghidinh **không đổi** so với lần quét trước (17:53+07:00). sitemap_thongtu **không đổi** so với batch 11:53+07:00 — 4 entry d10 mới (11:05–11:19) là dự thảo, không phải văn bản chính thức.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với tham chiếu | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-15 17:53:50+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (batch chính) | 2026-07-15 11:53:37+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (entry đơn lẻ mới nhất) | 2026-07-15 11:05:44+07:00 | > Batch | Entry mới — d10 (dự thảo, không phải VB chính thức) |
+
+### Các entry d10 mới trong sitemap_thongtu (2026-07-15 11:05–11:19)
+
+Các entry có suffix `-d10` trong sitemap là dự thảo Thông tư — chưa ban hành chính thức. 4 entry mới:
+
+| Slug | Thời gian | Nội dung | Xác nhận |
+|---|:---:|---|---|
+| 440370 | 11:05 | Dự thảo TT định mức chi phí triển khai dự án PPP | D10 — chưa ban hành |
+| 440359 | 10:46 | Dự thảo TT chi tiết NĐ 2026 về kinh doanh xuất nhập khẩu gạo | D10 — chưa ban hành |
+| 440358 | 10:33 | Dự thảo TT sửa đổi chính sách cho thương binh và thanh niên xung phong | D10 — chưa ban hành |
+| 440357 | 10:22 | Dự thảo TT an toàn bức xạ và an toàn hạt nhân cho lò phản ứng | D10 — chưa ban hành |
+
+### Nội dung đã hoàn thiện từ batch trước
+
+3 văn bản từ batch 2026-07-15 11:53+07:00 giờ có nội dung đầy đủ (đã web_fetch xác minh):
+
+| Số hiệu | Nội dung đầy đủ | Trích yếu | Slug | Ghi chú |
+|---|---|---|---|---|
+| **90/2026/TT-BTC** | ✅ Hoàn thiện | Quy định về đăng ký thuế — căn cứ Luật QL thuế 108/2025, NĐ 252/2026, hiệu lực ký | 439827 | File cần kiểm tra tại van-ban/thue/ |
+| **94/2026/TT-BCA** | ✅ Hoàn thiện | Quy định xét, đề nghị tạm đình chỉ, giảm án phạt tù — căn cứ Luật THAHS 127/2025, ngày ban hành 18/6/2026 | 439633 | File cần kiểm tra tại van-ban/hinh-su/ |
+| **41/2026/TT-BXD** | ✅ Hoàn thiện | Quản lý chất lượng VLXD — căn cứ Luật CLSP 78/2025, Luật TC&QCBK 70/2025, Luật XD 135/2025, NĐ 209/2026, ngày ban hành 26/6/2026 | 438858 | File cần kiểm tra tại van-ban/xay-dung/ |
+
+### Tình trạng các văn bản ưu tiên
+
+| Số hiệu | Trạng thái | Cập nhật |
+|---|:---:|---|
+| **280/2026/NĐ-CP** | ✅ Trong sitemap, slug 440319 | Bảo hiểm tiền gửi, 13/7/2026, hiệu lực 13/7. Đã có file hoàn thiện. |
+| **281/2026/NĐ-CP** | ✅ Trong sitemap, slug 440318 | Sửa đổi NĐ 123/2024 xử phạt đất đai, 13/7/2026, hiệu lực 31/8. Đã có stub. |
+| **90/2026/TT-BTC** | ✅ Nội dung hoàn thiện | Đăng ký thuế, căn cứ Luật QL thuế 108/2025, NĐ 252/2026. Cần kiểm tra file. |
+| **94/2026/TT-BCA** | ✅ Nội dung hoàn thiện | Xét, đề nghị giảm án phạt tù, 18/6/2026. Cần kiểm tra file. |
+| **41/2026/TT-BXD** | ✅ Nội dung hoàn thiện | Quản lý CL VLXD, 26/6/2026, căn cứ NĐ 209/2026. Cần kiểm tra file. |
+| **282/2026/NĐ-CP** | ❌ Không có trong sitemap | Chưa ban hành |
+| **265, 266, 274/2026/NĐ-CP** | ℹ️ Xem tracking trước | Cần Đệ #4 verify |
+
+### Kết luận
+
+- **Không phát hiện văn bản mới** trong heartbeat này.
+- Sitemap đã ổn định kể từ batch 2026-07-15 17:53+07:00 (280, 281 đã xuất hiện).
+- 4 entry d10 là dự thảo, không phải văn bản chính thức — bỏ qua.
+- **Ưu tiên tiếp theo**: (1) Verify 280, 281 docid trên vanban.chinhphu.vn (dải 218850+); (2) Kiểm tra file 90/TT-BTC, 94/TT-BCA, 41/TT-BXD trong repo; (3) Theo dõi dải docid 218850+ trên vanban.chinhphu.vn.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00), web_fetch slug 439827 (90/TT-BTC), web_fetch slug 439633 (94/TT-BCA), web_fetch slug 438858 (41/TT-BXD).
+- Ngày phát hiện: 2026-07-16 00:35 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:98ddce87-36d6-47d8-8654-b11a5e30d37c (Đệ #1 Discovery — 2026-07-16 00:29)
+
+---
+
 ## Cập nhật 2026-07-15 v2 (heartbeat 19:19 ICT)
 
 ### Phát hiện: 2 văn bản NĐ-CP MỚI từ sitemap luatvietnam.vn 2026-07-15 17:53+07:00
