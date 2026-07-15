@@ -5204,3 +5204,56 @@ Quet luatvietnam.vn sitemap_thongtu (lastmod 2026-07-14 11:53+07:00) + sitemap_n
 - Nguon: luatvietnam.vn (sitemap_thongtu lastmod 2026-07-14 11:53, sitemap_nghidinh lastmod 2026-07-14 17:53, web_fetch slug 439558, 439929, 439928, 439594, 439557).
 - Ngay phat hien: 2026-07-15 03:02 ICT
 - Phien thuc hien: agent:github-io:subagent:5f317a56-83b1-4c7a-8c14-68df0ef2525a (De #1 Discovery - 2026-07-15 03:02 ICT)
+
+---
+
+## Cập nhật 2026-07-15 v3 (Đệ #1 Discovery — full sitemap scan 2026-07-15 19:44 ICT)
+
+### Phát hiện: 5 văn bản mới — TT-BCA 109, 107, 105, 94, 89 (sitemap_thongtu July 15 new entries)
+
+Quét full sitemap_nghidinh + sitemap_thongtu (lastmod 2026-07-15 17:53 / 11:53+07:00) + so sánh với LEGISLATION_TRACKING.md v2 + web_fetch slug xác minh. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **109/2026/TT-BCA** | **29/06/2026** | **Quy định về đào tạo, sát hạch, cấp giấy phép lái xe; bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng trong Công an nhân dân** — quy định đào tạo, sát hạch, cấp GPLX xe máy chuyên dùng Công an; bao gồm cơ sở đào tạo, giáo viên dạy lái, trung tâm sát hạch, sát hạch viên, Hội đồng sát hạch; cấp GPLX Công an nhân dân; bồi dưỡng kiến thức pháp luật GTĐB; căn cứ Luật Trật tự ATGT đường bộ 36/2024/QH15 (sửa 118/2025/QH15), NĐ 02/2025/NĐ-CP; hiệu lực **01/7/2026** | Công an / Giao thông | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439433). Title: "Quy định đào tạo, sát hạch, cấp giấy phép lái xe trong Công an" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 29 tháng 6 năm 2026). sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN TRUNG BÌNH** — quy định nội bộ công an về GPLX. |
+| **107/2026/TT-BCA** | **29/06/2026** | **Quy chuẩn kỹ thuật quốc gia về Trung tâm sát hạch lái xe cơ giới đường bộ (QCVN 15:2026/BCA)** — ban hành QCVN 15:2026/BCA về Trung tâm sát hạch lái xe cơ giới đường bộ; quy định cơ sở vật chất, phương tiện, trang thiết bị, phần mềm sát hạch, y tế; thiết bị định danh điện tử; lộ trình 01/7/2026 và 01/01/2027, 01/01/2028; căn cứ Luật Trật tự ATGT 36/2024/QH15, Luật TC&QCVN 68/2006 (sửa 35/2018, 70/2025), NĐ 22/2026; hiệu lực **01/7/2026** | Công an / Giao thông | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439425). Title: "Quy chuẩn kỹ thuật Trung tâm sát hạch lái xe cơ giới" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn. QCVN 15:2026/BCA — quy chuẩn quốc gia. sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN TRUNG BÌNH** — QCVN quốc gia mới về sát hạch lái xe. |
+| **105/2026/TT-BCA** | **26/06/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 65/2024/TT-BCA về kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ để phục hồi điểm giấy phép lái xe** — sửa đổi TT 65/2024 về phục hồi điểm GPLX; quy định mới về kiểm tra kiến thức ATGT; căn cứ Luật Trật tự ATGT 36/2024/QH15, Luật 118/2025/QH15, NĐ 02/2025/NĐ-CP; hiệu lực **01/7/2026** | Công an / Giao thông | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439378). Title: "Sửa đổi Thông tư 65/2024 về phục hồi điểm giấy phép lái xe" ✅. Ngày ban hành **26/6/2026** xác minh từ luatvietnam.vn. sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN THẤP** — sửa đổi TT 65/2024 về phục hồi điểm GPLX. |
+| **94/2026/TT-BCA** | **18/06/2026** | **Quy định việc tổ chức xét, đề nghị và thẩm định hồ sơ đề nghị tạm đình chỉ, giảm thời hạn chấp hành án phạt tù** — quy định tổ chức xét, đề nghị và thẩm định hồ sơ tạm đình chỉ, giảm án phạt tù tại trại giam, trại tạm giam Công an; Hội đồng xét, đề nghị; thành phần, thẩm quyền; căn cứ Luật Thi hành án hình sự 127/2025/QH15, NĐ 02/2025/NĐ-CP; hiệu lực ký | Tư pháp / Công an | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439633). Title: "Quy định xét, đề nghị tạm đình chỉ, giảm án phạt tù" ✅. Ngày ban hành **18/6/2026** xác minh từ luatvietnam.vn. sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN THẤP** — văn bản thi hành án hình sự chuyên đề. |
+| **89/2026/TT-BCA** | **10/06/2026** | **Quy định một số nội dung về phát triển nhà ở xã hội, nhà ở cho lực lượng vũ trang nhân dân trong Công an nhân dân** — quy định phát triển nhà ở xã hội, nhà ở cho lực lượng vũ trang trong Công an nhân dân; căn cứ Luật Nhà ở 27/2023/QH15, Luật CAND 37/2018, NQ 66.15/2026/NQ-CP, NĐ 100/2024; hiệu lực ký | Công an / Nhà ở | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439234). Title: "Quy định phát triển nhà ở xã hội cho lực lượng vũ trang" ✅. Ngày ban hành **10/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 10 tháng 6 năm 2026). sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN THẤP** — văn bản nhà ở chuyên đề công an. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-15 17:53 / 11:53+07:00 (cập nhật full scan)
+
+- **sitemap_nghidinh lastmod 2026-07-15 17:53+07:00**: NĐ-CP mới nhất = **281/2026** (slug 440318, đất đai). Đã thêm vào tracking v2 (Đệ #1 19:19). 282+ chưa có trong sitemap. Nhiều NĐ-CP mới từ 246-281 lastmod 2026-07-15 chưa được tracking riêng (quá nhiều để 1 vòng).
+- **sitemap_thongtu lastmod 2026-07-15 11:53:37+07:00**: Không đổi so với vòng trước về lastmod (11:53), nhưng scan đầy đủ cho thấy nhiều TT-BCA mới chưa tracking: 109, 107, 105, 94, 89 + 108, 101, 99, 88, 85, 82, 79, 78, 72, 69, 67, 65, 63, 62, 60, 56, 53, 50, 49, 48, 47, 42, 37, 35, 30, 29, 28, 23, 22, 20, 16... + TT-BQP 68 + TT-BCT 39.
+- **Nhiều TT-BCA mới chưa tracking** — sitemap_thongtu July 15 chứa hàng chục TT-BCA mới từ tháng 6-7/2026 chưa ghi nhận. 5 văn bản ưu tiên nhất đã thêm ở trên.
+
+### Vanban.chinhphu.vn — DẢI 218850–219050 VẪN HOÀN TOÀN TRỐNG
+
+- **Quét og:title docid 218850–219050 (step 1 = ~200 docid)**: TẤT CẢ trả og:title rỗng ("Chi tiết văn bản ban hành") — hoàn toàn trống
+- **Kết luận**: vanban.chinhphu.vn vẫn CHƯA index bất kỳ văn bản nào sau 278/NĐ-CP (docid 218849). 279, 280, 281 + 109, 107, 105, 94, 89/TT-BCA đều chưa có docid trên vanban.
+- **Khuyến nghị**: Theo dõi dải docid 218850–220000 trong các phiên tới, đặc biệt sau khi có văn bản mới ban hành.
+
+### Các văn bản ưu tiên — cập nhật trạng thái
+
+| Số hiệu | Trạng thái mới | Cập nhật |
+|---|:---:|---|
+| **109/2026/TT-BCA** | ⭐ MỚI — docid **chưa xác minh** | Đào tạo, sát hạch GPLX Công an, 29/6/2026, slug 439433 |
+| **107/2026/TT-BCA** | ⭐ MỚI — docid **chưa xác minh** | QCVN 15:2026/BCA trung tâm sát hạch lái xe, 29/6/2026, slug 439425 |
+| **105/2026/TT-BCA** | ⭐ MỚI — docid **chưa xác minh** | Sửa đổi TT 65/2024 phục hồi điểm GPLX, 26/6/2026, slug 439378 |
+| **94/2026/TT-BCA** | ⭐ MỚI — docid **chưa xác minh** | Tạm đình chỉ, giảm án phạt tù, 18/6/2026, slug 439633 |
+| **89/2026/TT-BCA** | ⭐ MỚI — docid **chưa xác minh** | Nhà ở xã hội cho lực lượng vũ trang, 10/6/2026, slug 439234 |
+| **280/2026/NĐ-CP** | Đã ghi nhận trong v2 19:19 | Bảo hiểm tiền gửi, 13/7/2026, slug 440319 |
+| **281/2026/NĐ-CP** | Đã ghi nhận trong v2 19:19 | Sửa đổi xử phạt đất đai (NĐ 123/2024), 13/7/2026, slug 440318 |
+| **30/2026/TT-BYT** | Đã ghi nhận trong vòng trước | Ghi nhãn thực phẩm, 09/7/2026, slug 440000 |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 109/TT-BCA (đào tạo GPLX Công an), 107/TT-BCA (QCVN 15:2026/BCA trung tâm sát hạch), 105/TT-BCA (sửa đổi phục hồi điểm GPLX), 94/TT-BCA (tạm đình chỉ/giảm án phạt tù), 89/TT-BCA (nhà ở xã hội công an).
+- **sitemap_thongtu lastmod 2026-07-15 11:53+07:00** chứa rất nhiều TT-BCA mới từ tháng 6-7/2026 chưa được tracking. Danh sách chưa ghi nhận: 108, 101, 99, 88, 85, 82, 79, 78, 72, 69, 67, 65, 63, 62, 60, 56, 53, 50, 49, 48, 47, 42, 37, 35, 30, 29, 28, 23, 22, 20, 16/TT-BCA; 68/TT-BQP; 39/TT-BCT; 68/TT-BQP; nhiều TT-BYT khác.
+- **Vanban.chinhphu.vn** vẫn không index văn bản tháng 7/2026. Dải 218850–219050 hoàn toàn trống. Cần tiếp tục theo dõi.
+- **NĐ-CP mới từ sitemap July 15**: NĐ 246, 247, 250, 252, 253, 254, 256, 258, 261, 262, 264, 265, 266, 269, 273, 274 + 278–281. Tổng cộng ~30 NĐ-CP chưa được crawl đầy đủ trong tracking (nhiều văn bản quan trọng: 265 xử phạt tiết kiệm, 266 hướng dẫn thi hành Luật tiết kiệm, 274 đấu thầu chọn nhà đầu tư, 273 kinh doanh hàng miễn thuế...).
+- **Đề xuất Bột**: Ưu tiên crawl các NĐ-CP có trích yếu quan trọng: 265/266 (tiết kiệm), 274 (đấu thầu), 273 (hàng miễn thuế), 264 (chuyến bay chuyên cơ).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:53), vanban.chinhphu.vn (docid scan 218850–219050), web_fetch slug 439433, 439425, 439378, 439633, 439234.
+- Ngày phát hiện: 2026-07-15 19:48 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:585abeb4-5c97-4bef-a3d9-f3c4a830d62b (Đệ #1 Discovery — 2026-07-15 19:44 ICT)
+
