@@ -1,10 +1,11 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-16T00:32 GMT+7
-> Nguồn quét: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu
+> Phiên bản: 2026-07-16T18:33 GMT+7
+> Nguồn quét: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (batch 2026-07-16T11:54:13+07:00)
 > Dải docid: 228800–232000 | Tháng 7/2026
 > Ngưỡng: Ban hành sau 05/07/2026
+> Bổ sung: xác nhận sitemap 16/07 — 6 văn bản mới mới chưa từng tracking
 
 ---
 
@@ -196,7 +197,7 @@
 | **Số** | 98/2026/TT-BTC |
 | **Loại** | Thông tư |
 | **Cơ quan** | Bộ Tài chính |
-| **Trạng thái** | Cần xác minh — slug trên luatvietnam.vn không tìm thấy đúng trang, trả về TT 97 |
+| **Trạng thái** | **ĐÃ XÁC MINH** — slug: `ke-toan/thong-tu-98-2026-tt-btc-quy-che-kiem-toan-noi-bo-cho-co-quan-nha-nuoc-don-vi-su-nghiep-cong-lap-440437-d1` |
 | **Ghi chú ưu tiên** | Cần xác minh trên vanban.chinhphu.vn |
 
 ---
@@ -208,7 +209,7 @@
 | **Số** | 99/2026/TT-BTC |
 | **Loại** | Thông tư |
 | **Cơ quan** | Bộ Tài chính |
-| **Trạng thái** | Cần xác minh |
+| **Trạng thái** | **ĐÃ XÁC MINH** — slug: `giao-duc/thong-tu-99-2026-tt-btc-quy-dinh-tai-chinh-cho-giang-vien-sinh-vien-trong-linh-vuc-dien-hat-nhan-440467-d1` |
 | **Ghi chú ưu tiên** | Không có slug chính xác trên sitemap thông tư BTC; cần tra vanban.chinhphu.vn |
 
 ---
@@ -222,11 +223,131 @@
 | NĐ 279/2026/NĐ-CP | **MỚI** — xác minh trên luatvietnam.vn 12/07/2026 | Chức năng Bộ GDĐT |
 | TT-BTC 95/2026 | **MỚI** — xác minh trên luatvietnam.vn 01/07/2026 | Hiệp định thuế quốc tế |
 | TT-BTC 97/2026 | **MỚI** — xác minh trên luatvietnam.vn 06/07/2026 | Bãi bỏ TT 55/2010 |
-| TT-BTC 98/2026 | **Cần xác minh** — slug luatvietnam không chính xác | Văn phòng đại diện |
-| TT-BTC 99/2026 | **Cần xác minh** — slug không xác định | Tìm trên vanban.chinhphu |
-| TT-BTC 100/2026 | Không tìm thấy trên sitemap | Có thể chưa ban hành |
+| TT-BTC 98/2026 | **ĐÃ XÁC MINH** slug `ke-toan/thong-tu-98-2026-tt-btc-quy-che-kiem-toan-noi-bo-cho-co-quan-nha-nuoc-don-vi-su-nghiep-cong-lap-440437-d1` | Quy chế kiểm toán nội bộ cho khu vực công | **THIẾU FILE** |
+| TT-BTC 99/2026 | **ĐÃ XÁC MINH** slug `giao-duc/thong-tu-99-2026-tt-btc-quy-dinh-tai-chinh-cho-giang-vien-sinh-vien-trong-linh-vuc-dien-hat-nhan-440467-d1` | Tài chính điện hạt nhân (liên kết NĐ 176) | **THIẾU FILE** |
+| TT-BTC 100/2026 | **ĐÃ XÁC MINH** slug `tai-chinh/thong-tu-100-2026-tt-btc-bai-bo-06-thong-tu-cua-bo-tai-chinh-hieu-luc-tu-01-09-2026-440486-d1` | Bãi bỏ 06 TT (ban hành 15/07, hiệu lực 01/09/2026); docid 440486 | **THIẾU FILE** |
+| TT-BXD 59/2026 | **MỚI** — slug: `giao-thong/thong-tu-59-2026-tt-bxd-dinh-muc-kinh-te-ky-thuat-cong-tac-nao-vet-cong-trinh-hang-hai-440390-d1` | Định mức KTKT nạo vét hàng hải | **THIẾU FILE** |
+| TT-BKHCN 37/2026 | **MỚI** — slug: `thong-tin/thong-tu-37-2026-tt-bkhcn-quy-dinh-chung-chi-vo-tuyen-dien-nghiep-du-va-tieu-chuan-thi-cap-440448-d1` | Chứng chỉ vô tuyến điện nghiệp dư | **THIẾU FILE** |
+| NĐ 283/2026/NĐ-CP | **MỚI** — slug: `lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-lao-dong-bao-hiem-xa-hoi-440485-d1` | Xử phạt VPHC LĐ-BHXH | **THIẾU FILE** |
 
 ---
 
-*Lần cập nhật tiếp theo: khoảng 17/07/2026 hoặc khi có văn bản mới ban hành sau 12/07/2026.*
-*Đệ #1 Discovery — github-io workspace*
+## BỔ SUNG — 2026-07-16T18:33 (sitemap batch mới)
+
+> Quét lại sitemap luatvietnam.vn lúc 2026-07-16T11:54:13+07:00. Xác nhận tất cả slug còn lại và phát hiện NĐ 283 + TT-BXD 59 + TT-BKHCN 37.
+
+### TÓM TẮT BỔ SUNG
+
+- Văn bản mới phát hiện thêm: **6**
+- Nguồn: luatvietnam.vn sitemap_thongtu + sitemap_nghidinh batch 16/07/2026
+- 282/NĐ-CP: **CHƯA CÓ** trên sitemap
+
+### VĂN BẢN MỚI PHÁT HIỆN THÊM (6)
+
+#### 1. Nghị định 283/2026/NĐ-CP — Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 283/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 16/07/2026 |
+| **Hiệu lực** | 16/07/2026 |
+| **Chủ đề** | Lao động, Bảo hiểm xã hội, Vi phạm hành chính |
+| **LuatVietnam** | `lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-lao-dong-bao-hiem-xa-hoi-440485-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Xử phạt VPHC trong lĩnh vực lao động và BHXH; docid 440485 |
+
+---
+
+#### 2. Thông tư 100/2026/TT-BTC — Bãi bỏ 06 Thông tư của Bộ Tài chính (hiệu lực 01/09/2026)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 100/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 15/07/2026 |
+| **Hiệu lực** | 01/09/2026 |
+| **Chủ đề** | Bãi bỏ văn bản hết hiệu lực |
+| **LuatVietnam** | `tai-chinh/thong-tu-100-2026-tt-btc-bai-bo-06-thong-tu-cua-bo-tai-chinh-hieu-luc-tu-01-09-2026-440486-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Bãi bỏ 06 TT năm 2016 về giá dịch vụ kiểm định an toàn kỹ thuật tàu biển, phương tiện giao thông. Docid 440486. |
+
+---
+
+#### 3. Thông tư 99/2026/TT-BTC — Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 99/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 14/07/2026 |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Giáo dục, Điện hạt nhân |
+| **LuatVietnam** | `giao-duc/thong-tu-99-2026-tt-btc-quy-dinh-tai-chinh-cho-giang-vien-sinh-vien-trong-linh-vuc-dien-hat-nhan-440467-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Liên kết với NĐ 176/2026 (ưu đãi giảng viên/sinh viên điện hạt nhân). Docid 440467. |
+
+---
+
+#### 4. Thông tư 98/2026/TT-BTC — Quy chế kiểm toán nội bộ cho cơ quan nhà nước, đơn vị sự nghiệp công lập
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 98/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 14/07/2026 |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Kế toán, Kiểm toán, Quản lý công |
+| **LuatVietnam** | `ke-toan/thong-tu-98-2026-tt-btc-quy-che-kiem-toan-noi-bo-cho-co-quan-nha-nuoc-don-vi-su-nghiep-cong-lap-440437-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Quy chế kiểm toán nội bộ cho khu vực công. Docid 440437. |
+
+---
+
+#### 5. Thông tư 59/2026/TT-BXD — Định mức kinh tế - kỹ thuật công tác nạo vét công trình hàng hải
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 59/2026/TT-BXD |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Xây dựng |
+| **Ban hành** | 14/07/2026 |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Hàng hải, Xây dựng |
+| **LuatVietnam** | `giao-thong/thong-tu-59-2026-tt-bxd-dinh-muc-kinh-te-ky-thuat-cong-tac-nao-vet-cong-trinh-hang-hai-440390-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Định mức kinh tế - kỹ thuật nạo vét hàng hải. Docid 440390. |
+
+---
+
+#### 6. Thông tư 37/2026/TT-BKHCN — Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 37/2026/TT-BKHCN |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Khoa học và Công nghệ |
+| **Ban hành** | 14/07/2026 |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Thông tin, Vô tuyến điện |
+| **LuatVietnam** | `thong-tin/thong-tu-37-2026-tt-bkhcn-quy-dinh-chung-chi-vo-tuyen-dien-nghiep-du-va-tieu-chuan-thi-cap-440448-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Chứng chỉ vô tuyến điện nghiệp dư. Docid 440448. |
+
+---
+
+### STUB CẦN BỔ SUNG
+
+| Số văn bản | Trạng thái file | Ghi chú |
+|-----------|----------------|---------|
+| TT-BCA 92/2026 | **STUB (3,425 bytes)** — `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` | Cần bổ sung nội dung đầy đủ |
+| TT-BCA 116/2026 | **THIẾU FILE** | Sitemap: `tu-phap/thong-tu-116-2026-tt-bca-quy-dinh-chi-tiet-va-bien-phap-thi-hanh-luat-cu-tru-440199-d1.html` |
+
+---
+
+*Lần cập nhật tiếp theo: khi có văn bản mới hoặc thay đổi sitemap.*
+*Đệ Discovery — github-io workspace — 2026-07-16T18:33 GMT+7*
