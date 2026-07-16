@@ -1,3 +1,60 @@
+## Cập nhật 2026-07-16 v5 (Đệ #1 Discovery — heartbeat 2026-07-16 18:59 ICT)
+
+### Kết quả: 2 văn bản mới — **283/NĐ-CP** (sitemap_nghidinh) + **98/TT-BTC** (sitemap_thongtu)
+
+Quét sitemap_nghidinh (lastmod 2026-07-16 11:28:13+07:00) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu 2026-07-15 17:53+07:00 (NĐ-CP) và 2026-07-16 11:54+07:00 (TT). **Phát hiện 2 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, mức phạt, biện pháp khắc phục, thẩm quyền trong: (a) lao động (việc làm, tuyển dụng, ATVSLao động, tổ chức đại diện NLĐ); (b) bảo hiểm xã hội; (c) NLĐ VN đi làm việc ở nước ngoài theo hợp đồng; căn cứ Luật XLVPHC 15/2012 (sửa 67/2020, 88/2025), Bộ luật Lao động 45/2019, Luật Việc làm 74/2025, Luật BHXH 41/2024, Luật CĐ 50/2024 (sửa 97/2025), Luật Đầu tư 143/2025; thời hiệu 01 năm (lao động/BHXH), 02 năm (NLĐ nước ngoài); hiệu lực **chưa xác minh** | Lao động / BHXH / Xử phạt HC | vanban.chinhphu.vn (docid **Chưa xác minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440485). Title: "Nghị định 283/2026/NĐ-CP: Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội" ✅. Ngày ban hành **15/7/2026** xác minh (Hà Nội, ngày 15 tháng 7 năm 2026). Có nội dung Điều 1-4 (phạm vi, đối tượng, hình thức, chuyển hồ sơ). **ƯU TIÊN CAO** — văn bản xử phạt hành chính quan trọng, thay thế NĐ 28/2020/NĐ-CP. |
+| **98/2026/TT-BTC** | **10/07/2026** | **Ban hành Quy chế mẫu về kiểm toán nội bộ áp dụng cho cơ quan nhà nước, đơn vị sự nghiệp công lập** — ban hành Quy chế mẫu kiểm toán nội bộ (Phụ lục I, II, III); căn cứ Luật Kế toán 88/2015 (sửa 56/2024), NĐ 05/2019/NĐ-CP (kiểm toán nội bộ), NĐ 29/2025 (sửa 166/2025); người ký Tạ Anh Tuấn (Thứ trưởng); hiệu lực **01/9/2026**, thay thế TT 67/2020/TT-BTC | Tài chính / Kế toán | vanban.chinhphu.vn (docid **Chưa xác minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440437). Title: "Thông tư 98/2026/TT-BTC: Quy chế kiểm toán nội bộ cho cơ quan Nhà nước, đơn vị sự nghiệp công lập" ✅. Ngày ban hành **10/7/2026** xác minh (Hà Nội, ngày 10 tháng 7 năm 2026, ký Tạ Anh Tuấn). Có nội dung Điều 1-4 (phạm vi, đối tượng, quy chế, hiệu lực) + Phụ lục I (Quy chế mẫu cấp Bộ/ngang Bộ). **ƯU TIÊN TRUNG BÌNH** — văn bản kế toán nền tảng cho khu vực công. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 11:28:13+07:00** | > Batch 15/7 17:53+07:00 | 🆕 **283/NĐ-CP** mới — first appearance |
+| sitemap_thongtu (batch chính) | **2026-07-16 11:54:13+07:00** | = Không đổi so với v4 16:35 | ✅ Không đổi |
+
+### Các entry sitemap_nghidinh mới (so với batch 2026-07-15 17:53+07:00)
+
+| Slug | Số hiệu | lastmod | Nội dung | Trạng thái |
+|---|:---:|:---:|---|---|
+| 440485 | 283/NĐ-CP | **11:28 16/7** | Xử phạt vi phạm hành chính lao động, BHXH, NLĐ nước ngoài | 🆕 Mới — chưa ghi nhận |
+
+### Các entry sitemap_thongtu mới (batch 2026-07-16 11:54+07:00) — đã ghi nhận v4
+
+| Slug | Số hiệu | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 440486 | 100/TT-BTC | Bãi bỏ 06 Thông tư | ✅ Đã ghi nhận (v4) |
+| 440483 | 89/TT-BTC | Quy định chi tiết Luật QL thuế + NĐ 252 | ✅ Đã ghi nhận (v4) |
+| 440467 | 99/TT-BTC | Tài chính cho giảng viên/sinh viên điện hạt nhân | ✅ Đã ghi nhận (v4) |
+| 440448 | 37/TT-BKHCN | Chứng chỉ vô tuyến điện nghiệp dư | ✅ Đã ghi nhận (v4) |
+| 440437 | 98/TT-BTC | Quy chế kiểm toán nội bộ công | 🆕 Mới — chưa ghi nhận (bổ sung) |
+| 440390 | 59/TT-BXD | Định mức kinh tế-kỹ thuật nạo vét hàng hải | ✅ Đã ghi nhận (v4) |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 11:28)
+2. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế — cần tạo file van-ban
+3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban, verify hiệu lực
+4. **99/TT-BTC**: Tài chính điện hạt nhân — cần web_fetch nội dung đầy đủ
+5. **37/TT-BKHCN** (ƯU TIÊN THẤP): Chứng chỉ vô tuyến điện — cần web_fetch
+6. **Verify docid 280, 281, 283** trên vanban.chinhphu.vn (dải 218850+)
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được ghi nhận: 283/NĐ-CP (xử phạt lao động-BHXH, 15/7/2026, slug 440485) + 98/TT-BTC (kiểm toán nội bộ công, 10/7/2026, slug 440437).
+- **283/2026/NĐ-CP** là phát hiện quan trọng nhất lần này — xuất hiện lần đầu trong sitemap với lastmod 2026-07-16 11:28:13+07:00. Thay thế NĐ 28/2020/NĐ-CP về xử phạt lao động-BHXH. Căn cứ nhiều luật sửa đổi 2024–2025 (88/2025, 74/2025, 97/2025, 143/2025). Thời hiệu: 01 năm (lao động/BHXH), 02 năm (NLĐ nước ngoài).
+- **98/TT-BTC**: Quy chế mẫu kiểm toán nội bộ cho khu vực công — thay thế TT 67/2020/TT-BTC. Hiệu lực 01/9/2026. Người ký Tạ Anh Tuấn (Thứ trưởng Bộ Tài chính).
+- **sitemap_thongtu batch 11:54** không đổi so với v4 (cùng lastmod 11:54:13+07:00). 5 văn bản 100/89/99/37/59 đã ghi nhận ở v4; bổ sung 98/TT-BTC vào danh sách.
+- **282/2026/NĐ-CP**: Vẫn chưa có trong sitemap_nghidinh — sitemap chỉ có đến **283**.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 11:28:13+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00), web_fetch slug 440485 (283/NĐ-CP), web_fetch slug 440437 (98/TT-BTC).
+- Ngày phát hiện: 2026-07-16 19:04 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:ae6489fb-701a-4fec-8ca4-564d3142cf01 (Đệ #1 Discovery — heartbeat 2026-07-16 18:59)
+
+---
+
 ## Cập nhật 2026-07-16 v4 (Đệ #1 Discovery — 2026-07-16 16:35 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — **5 văn bản mới** trong sitemap_thongtu batch 2026-07-16 11:54+07:00
