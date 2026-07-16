@@ -1,3 +1,32 @@
+---
+## Cập nhật 2026-07-17 v7 (Đệ #1 Discovery — 2026-07-17 02:35 ICT)
+
+### Kết quả: Bổ sung 2 văn bản còn thiếu từ batch 11:54:13+07:00 — **115/TT-BCA** + **30/TT-BNNMT**
+
+Bổ sung 2 văn bản còn thiếu từ lỗ hổng batch 11:54:13+07:00 (slug 440224 + 440247). Giới hạn 2/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **115/2026/TT-BCA** | **29/06/2026** | **Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không** — quy định thẻ, giấy phép, chứng nhận an ninh hàng không; căn cứ Luật Hàng không dân dụng 66/2023/QH15 (sửa 96/2025), NĐ 89/2025/NĐ-CP; người ký Lương Tam Quang; hiệu lực ký | Giao thông / Hàng không | vanban.chinhphu.vn (docid **Chưa xác minh**) | **Chưa có** | **VĂN BẢN MỚI** — web_fetch slug 440224. Title: "Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không" ✅. Ngày ban hành **29/6/2026** xác minh. Căn cứ Luật Hàng không dân dụng 66/2023 (sửa 96/2025). Lĩnh vực: Giao thông / Hàng không. **ƯU TIÊN THẤP** — văn bản hàng không chuyên đề. |
+| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — quy định kỹ thuật bay đo từ, phổ gamma sử dụng máy bay có người lái và không người lái; gồm phạm vi điều chỉnh, đối tượng, giải thích từ ngữ, yêu cầu kỹ thuật chung, mạng lưới tuyến, độ cao/tốc độ bay, công tác văn phòng, trắc địa, bay đo; căn cứ Luật Địa chất và khoáng sản 54/2024 (sửa 147/2025), NĐ 193/2025, NĐ 21/2026; người ký Bộ trưởng Bộ Nông nghiệp và Môi trường; hiệu lực ký | Tài nguyên / Địa chất & Khoáng sản | vanban.chinhphu.vn (docid **Chưa xác minh**) | **Chưa có** | **VĂN BẢN MỚI** — web_fetch slug 440247. Title: "Quy định kỹ thuật bay đo từ, phổ gamma trong địa chất" ✅. Ngày ban hành **13/7/2026** xác minh. Căn cứ Luật Địa chất và khoáng sản 54/2024 (sửa 147/2025). Nội dung đầy đủ: 3 Chương, 18 Điều (Điều 1-18), Bảng 1-3. **ƯU TIÊN THẤP** — văn bản kỹ thuật địa chất chuyên đề. |
+
+### Lỗ hổng đã xử lý
+
+- **440224**: Thực ra là **115/TT-BCA** (không phải 98/TT-BQP). Slug 440224 tương ứng với Thông tư về thẻ, giấy phép, chứng nhận an ninh hàng không của Bộ Công an.
+- **440247**: Xác nhận là **30/TT-BNNMT** — Kỹ thuật bay đo từ, phổ gamma trong địa chất. Có nội dung đầy đủ.
+
+### Ghi chú xử lý
+
+- **2 văn bản bổ sung** từ lỗ hổng batch 11:54:13+07:00: 115/TT-BCA (thẻ, giấy phép, chứng nhận an ninh hàng không, 29/6/2026) + 30/TT-BNNMT (kỹ thuật bay đo từ, phổ gamma trong địa chất, 13/7/2026).
+- **Lưu ý**: Slug 440224 thực ra là **115/TT-BCA** (Bộ Công an, an ninh hàng không), không phải 98/TT-BQP. Luật sử dụng: Luật Hàng không dân dụng 66/2023/QH15 (sửa 96/2025).
+- **30/TT-BNNMT** là văn bản địa chất-khoáng sản chuyên đề, quy định kỹ thuật bay đo từ và phổ gamma sử dụng máy bay có người lái và không người lái. Căn cứ Luật Địa chất 54/2024.
+- **Lỗ hổng batch 11:54 đã xử lý xong** — cả 7 văn bản đều đã ghi nhận.
+- Nguồn: luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00), web_fetch slug 440224 (115/TT-BCA), web_fetch slug 440247 (30/TT-BNNMT).
+- Ngày phát hiện: 2026-07-17 02:35 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:f9bac205-cfb6-4011-8015-fbb10a5eaddc (Đệ #1 Discovery — 2026-07-17 02:34)
+
+---
+
 ## Cập nhật 2026-07-16 v6 (Đệ #1 Discovery — 2026-07-16 22:08 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — **5 văn bản mới** trong sitemap_thongtu batch 11:54:13+07:00 (phát hiện lỗ hổng: v4/v5 chỉ ghi nhận 5/12 văn bản trong batch này)
@@ -26,10 +55,10 @@ Quét sitemap_nghidinh (lastmod **2026-07-16 11:28:13+07:00**) + sitemap_thongtu
 | 440237 | **54/TT-BGDĐT** | Quy định chương trình đào tạo đại học | ✅ Ghi nhận trên (v6) | ƯU TIÊN CAO |
 | 440236 | **53/TT-BGDĐT** | Quy chế tuyển sinh và đào tạo sau đại học | ✅ Ghi nhận trên (v6) | ƯU TIÊN CAO |
 | 440227 | **18/TT-BVHTTDL** | Định mức kinh tế-kỹ thuật bảo tàng công lập | ✅ Ghi nhận trên (v6) | ƯU TIÊN THẤP |
-| 440224 | **98/TT-BQP** | Quy định chứng nhận hệ thống quản lý chất lượng sản phẩm quốc phòng | 🔲 Chưa ghi nhận | **CẦN GHI NHẬN** — trong giới hạn 5/lần, ưu tiên thấp |
+| 440224 | **115/TT-BCA** | Quy định thẻ, giấy phép, chứng nhận an ninh hàng không | ✅ Ghi nhận trong v7 | ƯU TIÊN THẤP |
 | 440215 | **19/TT-BVHTTDL** | Quy định chi tiết thẻ nhà báo và bồi dưỡng nghiệp vụ | ✅ Ghi nhận trên (v6) | ƯU TIÊN TRUNG BÌNH |
 | 440099 | **31/TT-NHNN** | Hoạt động cho thuê tài chính của công ty tài chính | ✅ Ghi nhận trên (v6) | ƯU TIÊN TRUNG BÌNH |
-| 440247 | **30/TT-BNNMT** | Kỹ thuật bay đo từ, phổ gamma trong địa chất | 🔲 Chưa ghi nhận | **CẦN GHI NHẬN** — trong giới hạn 5/lần, ưu tiên thấp |
+| 440247 | **30/TT-BNNMT** | Kỹ thuật bay đo từ, phổ gamma trong địa chất | ✅ Ghi nhận trong v7 | ƯU TIÊN THẤP |
 
 ### Ưu tiên tiếp theo
 
