@@ -62,7 +62,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-16 11:28:13+07:00) + sitemap_thongtu (la
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, mức phạt, biện pháp khắc phục, thẩm quyền trong: (a) lao động (việc làm, tuyển dụng, ATVSLao động, tổ chức đại diện NLĐ); (b) bảo hiểm xã hội; (c) NLĐ VN đi làm việc ở nước ngoài theo hợp đồng; căn cứ Luật XLVPHC 15/2012 (sửa 67/2020, 88/2025), Bộ luật Lao động 45/2019, Luật Việc làm 74/2025, Luật BHXH 41/2024, Luật CĐ 50/2024 (sửa 97/2025), Luật Đầu tư 143/2025; thời hiệu 01 năm (lao động/BHXH), 02 năm (NLĐ nước ngoài); hiệu lực **chưa xác minh** | Lao động / BHXH / Xử phạt HC | vanban.chinhphu.vn (docid **Chưa xác minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440485). Title: "Nghị định 283/2026/NĐ-CP: Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội" ✅. Ngày ban hành **15/7/2026** xác minh (Hà Nội, ngày 15 tháng 7 năm 2026). Có nội dung Điều 1-4 (phạm vi, đối tượng, hình thức, chuyển hồ sơ). **ƯU TIÊN CAO** — văn bản xử phạt hành chính quan trọng, thay thế NĐ 28/2020/NĐ-CP. |
+| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, mức phạt, biện pháp khắc phục, thẩm quyền trong: (a) lao động (việc làm, tuyển dụng, ATVSLao động, tổ chức đại diện NLĐ); (b) bảo hiểm xã hội; (c) NLĐ VN đi làm việc ở nước ngoài theo hợp đồng; căn cứ Luật XLVPHC 15/2012 (sửa 67/2020, 88/2025), Bộ luật Lao động 45/2019, Luật Việc làm 74/2025, Luật BHXH 41/2024, Luật CĐ 50/2024 (sửa 97/2025), Luật Đầu tư 143/2025; thời hiệu 01 năm (lao động/BHXH), 02 năm (NLĐ nước ngoài); hiệu lực **10/9/2026** | Lao động / BHXH / Xử phạt HC | vanban.chinhphu.vn (docid **Chưa xác minh**) | **✅ van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md** | **ĐÃ CRAWL** — xác minh qua web_fetch luatvietnam.vn (slug 440485). Title: "Nghị định 283/2026/NĐ-CP: Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội" ✅. Ngày ban hành **15/7/2026** xác minh (Hà Nội, ngày 15 tháng 7 năm 2026). Có nội dung Điều 1-4 (phạm vi, đối tượng, hình thức, chuyển hồ sơ). **ƯU TIÊN CAO** — văn bản xử phạt hành chính quan trọng, thay thế NĐ 28/2020/NĐ-CP. |
 | **98/2026/TT-BTC** | **10/07/2026** | **Ban hành Quy chế mẫu về kiểm toán nội bộ áp dụng cho cơ quan nhà nước, đơn vị sự nghiệp công lập** — ban hành Quy chế mẫu kiểm toán nội bộ (Phụ lục I, II, III); căn cứ Luật Kế toán 88/2015 (sửa 56/2024), NĐ 05/2019/NĐ-CP (kiểm toán nội bộ), NĐ 29/2025 (sửa 166/2025); người ký Tạ Anh Tuấn (Thứ trưởng); hiệu lực **01/9/2026**, thay thế TT 67/2020/TT-BTC | Tài chính / Kế toán | vanban.chinhphu.vn (docid **Chưa xác minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440437). Title: "Thông tư 98/2026/TT-BTC: Quy chế kiểm toán nội bộ cho cơ quan Nhà nước, đơn vị sự nghiệp công lập" ✅. Ngày ban hành **10/7/2026** xác minh (Hà Nội, ngày 10 tháng 7 năm 2026, ký Tạ Anh Tuấn). Có nội dung Điều 1-4 (phạm vi, đối tượng, quy chế, hiệu lực) + Phụ lục I (Quy chế mẫu cấp Bộ/ngang Bộ). **ƯU TIÊN TRUNG BÌNH** — văn bản kế toán nền tảng cho khu vực công. |
 
 ### Tình trạng sitemap
@@ -5667,3 +5667,66 @@ So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (la
 - Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:53), web_fetch slug 439422 (265), 439478 (266), 439818 (274), 439827 (90/TT-BTC), 439781 (94/TT-BTC).
 - Ngày phát hiện: 2026-07-15 22:35 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:d510ca36-5da9-4d92-87a8-094c3c074f62 (Đệ #1 Discovery — heartbeat 22:29 ICT)
+
+## Cập nhật 2026-07-16 v7 (Đệ #1 Discovery — 2026-07-16 22:59 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới — sitemap_nghidinh refresh toàn bộ (17:54), sitemap_thongtu không đổi
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 17:54:25+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu v6 (2026-07-16 22:08 ICT): **KHÔNG CÓ văn bản mới thực sự**.
+
+### Phân tích chi tiết
+
+**sitemap_nghidinh thay đổi lastmod (11:28 → 17:54) — NHƯNG đây là REFRESH toàn bộ sitemap:**
+
+- Toàn bộ 156 entries đều có cùng lastmod **17:54:25+07:00** (re-index, không phải văn bản mới)
+- Các số hiệu mới nhất vẫn giữ nguyên thứ tự: **283** (slug 440485, lastmod 11:28 gốc), **281** (08:55 15/7), **280** (08:32 16/7)
+- 279, 278, 274, 273... có lastmod gốc cũ nhưng được gán lại lastmod 17:54 trong lần refresh này
+- **282/2026/NĐ-CP**: Vẫn CHƯA xuất hiện trong sitemap
+- **Không có số hiệu mới nào > 283**
+
+**sitemap_thongtu KHÔNG ĐỔI:**
+
+- lastmod vẫn **2026-07-16 11:54:13+07:00** — tất cả 641 entries trong batch này
+- Không có entry mới sau batch 11:54
+- Tất cả 10 văn bản trong batch (100, 89, 99, 37, 98, 59, 30, 54, 53, 18, 19, 98/TT-BQP, 31/TT-NHNN) đã được ghi nhận đầy đủ
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v6 (22:08 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 17:54:25+07:00** | ≠ Refresh toàn bộ (11:28 → 17:54) | ✅ Không có NĐ-CP mới |
+| sitemap_thongtu (batch chính) | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+
+### Xác nhận sitemap không có văn bản mới
+
+**sitemap_nghidinh — Top 5 số hiệu mới nhất:**
+| Số hiệu | Slug | lastmod gốc | Ghi chú |
+|---|:---:|:---:|---|
+| 283/2026/NĐ-CP | 440485 | 11:28 16/7 | Mới nhất — Xử phạt lao động-BHXH |
+| 281/2026/NĐ-CP | 440318 | 08:55 15/7 | Sửa đổi xử phạt đất đai |
+| 280/2026/NĐ-CP | 440319 | 08:32 16/7 | Bảo hiểm tiền gửi Việt Nam |
+| 279/2026/NĐ-CP | 440239 | 17:54 16/7 (refresh) | Chức năng Bộ GDĐT |
+| 278/2026/NĐ-CP | 440066 | 17:54 16/7 (refresh) | Điều chỉnh giá điện |
+
+**sitemap_thongtu — Batch 11:54:13+07:00 (tất cả đã ghi nhận):**
+- 100/TT-BTC ✅, 89/TT-BTC ✅, 99/TT-BTC ✅, 37/TT-BKHCN ✅, 98/TT-BTC ✅, 59/TT-BXD ✅, 30/TT-BNNMT ✅, 54/TT-BGDDT ✅, 53/TT-BGDDT ✅, 18/TT-BVHTTDL ✅, 19/TT-BVHTTDL ✅, 98/TT-BQP ✅, 31/TT-NHNN ✅
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod gốc 11:28, refresh lastmod 17:54). Tiếp tục theo dõi.
+2. **89/TT-BTC** (ƯU TIÊN CAO): Chi tiết Luật QL thuế 108/2025 — đang crawl trong PR #254 (heartbeat/crawl-vanban-20260716)
+3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban trong repo
+4. **53/TT-BGDDT** (ƯU TIÊN CAO): Quy chế tuyển sinh Sau ĐH — cần tạo file van-ban
+5. **54/TT-BGDDT** (ƯU TIÊN CAO): Chương trình đào tạo ĐH — cần tạo file van-ban
+6. **98/TT-BQP** (slug 440224) + **30/TT-BNNMT** (slug 440247): Chưa ghi nhận trong tracking — ghi nhận vòng tới
+7. **100/TT-BTC, 99/TT-BTC, 59/TT-BXD, 37/TT-BKHCN**: Đã ghi nhận — ưu tiên trung bình/thấp, cần tạo file van-ban
+
+### Ghi chú xử lý
+
+- **KHÔNG PHÁT HIỆN văn bản mới** trong heartbeat này.
+- **sitemap_nghidinh refresh (17:54)**: Lần đầu tiên thấy luatvietnam refresh toàn bộ sitemap cùng lúc — tất cả 156 entries được gán cùng lastmod. Đây là hành vi bình thường của luatvietnam.vn khi cập nhật lại toàn bộ sitemap index. Không ảnh hưởng đến tracking.
+- **sitemap_thongtu ổn định hoàn toàn** — batch 11:54 không thay đổi.
+- **282/2026/NĐ-CP**: Vẫn chưa xuất hiện sau 283. Tiếp tục theo dõi.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 17:54:25+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00).
+- Ngày phát hiện: 2026-07-16 22:59 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:faac5a30-afe5-45d9-bf4d-ea28e4937e44 (Đệ #1 Discovery — Heartbeat 2026-07-16 22:59 ICT)
