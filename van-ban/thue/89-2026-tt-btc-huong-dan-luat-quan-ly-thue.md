@@ -1,16 +1,28 @@
+
 ---
 layout: vanban
 title: "Thông tư 89/2026/TT-BTC Quy định chi tiết Luật Quản lý thuế và Nghị định 252/2026/NĐ-CP"
 date: 2026-06-30
 modified: 2026-07-17
-group: Tài chính
+group: tài-chính
 tags:
-  - Thuế
-  - Quản lý thuế
-  - Thông tư
+  - thuế
+  - quản lý thuế
+  - thông tư
+  - bộ tài chính
   - 2026
-docid: 440483
-source: luatvietnam.vn; datafiles.chinhphu.vn
+docid: "440483"
+source: luatvietnam.vn
+number: 89/2026/TT-BTC
+issuer: "Bộ Tài chính"
+signer: "Cao Anh Tuấn, Thứ trưởng Bộ Tài chính"
+effectivedate: 2026-07-01
+issuedate: 2026-06-30
+summary: "Quy định chi tiết một số điều của Luật Quản lý thuế số 108/2025/QH15 và Nghị định số 252/2026/NĐ-CP về thủ tục hành chính thuế, giao dịch điện tử, quản lý thuế và quản lý nợ thuế"
+legalbase:
+  - "Luật Quản lý thuế số 108/2025/QH15"
+  - "Nghị định số 252/2026/NĐ-CP"
+  - "Nghị định số 29/2025/NĐ-CP"
 ---
 
 Thông tư 89/2026/TT-BTC ngày 30/6/2026 của Bộ Tài chính quy định chi tiết một số điều của Luật Quản lý thuế và Nghị định số 252/2026/NĐ-CP của Chính phủ.
