@@ -1,8 +1,142 @@
+## Cập nhật 2026-07-16 v3 (Đệ #1 Discovery — heartbeat 2026-07-16 08:32 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — 3 văn bản mới trong sitemap_thongtu (chưa ghi nhận)
+
+Quét sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00) + sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00) + web_fetch xác minh 3 văn bản TT-BCA/TT-BGDDT chưa có trong tracking. **Phát hiện 3 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **92/2026/TT-BCA** | **17/06/2026** | **Quy định về hoạt động ứng phó sự cố, thiên tai và tìm kiếm cứu nạn của lực lượng Công an nhân dân** — quy định phạm vi điều chỉnh, nguyên tắc ứng phó, cơ chế chỉ đạo, chỉ huy; căn cứ Luật PCTT 33/2013 (sửa 60/2020, 18/2023, 47/2024, 55/2024, 146/2025), Luật PCDC 18/2023 (sửa 98/2025, 116/2025, 145/2025), Luật PCCC 55/2024 (sửa 118/2025, 135/2025), Luật TTHK 104/2025; người ký Lương Tam Quang | Công an / Thiên tai & TKCN | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440146). Title: "Quy định về hoạt động ứng phó sự cố, thiên tai và tìm kiếm cứu nạn của Công an nhân dân" ✅. Ngày ban hành **17/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 66/2021, NĐ 53/2026 (sửa đổi lĩnh vực đê điều và phòng chống thiên tai). **ƯU TIÊN TRUNG BÌNH** — văn bản thiên tai công an. |
+| **52/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về liên thông giữa trung học nghề, trung cấp, cao đẳng và đại học** — quy định nguyên tắc, hình thức, chương trình, tuyển sinh, tổ chức đào tạo, công nhận kết quả học tập và chuyển đổi tín chỉ liên thông giáo dục; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, Luật GDNN 124/2025; người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Liên thông | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440129). Title: "Quy định về liên thông giữa trung học nghề, trung cấp, cao đẳng và đại học" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Căn cứ Luật Giáo dục sửa đổi 123/2025, Luật GDĐH 125/2025, Luật GDNN 124/2025. **ƯU TIÊN CAO** — cải cách giáo dục, học suốt đời, chuyển đổi nghề nghiệp. |
+| **116/2026/TT-BCA** | **29/06/2026** | **Quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú** — quy định đăng ký thường trú, tạm trú, thông báo lưu trú, khai báo tạm vắng; tiếp nhận hồ sơ trực tiếp hoặc trực tuyến qua Cổng dịch vụ công quốc gia/VNeID; căn cứ Luật Cư trú 68/2020/QH14 (sửa 118/2025), NĐ 154/2024, NĐ 58/2026/NĐ-CP; người ký Lương Tam Quang | Công an / Cư trú | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440199). Title: "Quy định chi tiết và biện pháp thi hành Luật Cư trú" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 58/2026/NĐ-CP (An ninh trật tự — quản lý con đầu và pháo). **ƯU TIÊN TRUNG BÌNH** — hướng dẫn đăng ký cư trú. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 15/7 17:53/11:53+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-15 17:53:50+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (batch chính) | 2026-07-15 11:53:37+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (entry đơn lẻ mới nhất) | 2026-07-15 11:05:44+07:00 | = Không đổi | ✅ Không đổi (entry cũ — 5 d10 bỏ qua) |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = 281 (lastmod 15/7 17:53)
+2. **97–100/TT-BTC, 41–42/TT-BXD**: Chưa có trong sitemap_thongtu — tiếp tục theo dõi
+3. **Verify docid 280, 281** trên vanban.chinhphu.vn (dải 218850+)
+4. **52/TT-BGDDT** (ƯU TIÊN CAO): Cần tạo file van-ban trong repo
+5. **92, 116/TT-BCA**: Cần tạo file van-ban trong repo
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** được ghi nhận: 92/TT-BCA (ứng phó thiên tai công an, 17/6/2026), 52/TT-BGDDT (liên thông giáo dục, 30/6/2026), 116/TT-BCA (hướng dẫn Luật Cư trú, 29/6/2026).
+- **52/TT-BGDDT** là văn bản nổi bật nhất — quy định liên thông giữa trung học nghề, trung cấp, cao đẳng và đại học theo 3 Luật Giáo dục mới (123/2025, 125/2025, 124/2025).
+- **92/TT-BCA**: Ứng phó sự cố thiên tai công an — căn cứ rất nhiều luật sửa đổi 2024–2025.
+- **116/TT-BCA**: Hướng dẫn chi tiết Luật Cư trú (68/2020/QH14 sửa 118/2025), có sử dụng Cổng dịch vụ công và VNeID.
+- **sitemap_nghidinh ổn định hoàn toàn** — không có NĐ-CP mới, 282 chưa ban hành.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00), web_fetch slug 440146 (92/TT-BCA), web_fetch slug 440129 (52/TT-BGDDT), web_fetch slug 440199 (116/TT-BCA).
+- Ngày phát hiện: 2026-07-16 08:35 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:cbad96b6-dd6e-49b2-ab57-ef9fa8d605ca (Đệ #1 Discovery — heartbeat 2026-07-16 08:29)
+
+---
+
+
+Quét sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00) + sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00). So sánh với lần quét trước (v1 00:29 ICT và v0 03:01 ICT): **KHÔNG CÓ văn bản chính thức mới** trong sitemap.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-15 17:53:50+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (batch chính) | 2026-07-15 11:53:37+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (entry đơn lẻ mới nhất) | 2026-07-15 11:05:44+07:00 | > Batch | Entry mới — tất cả d10 (dự thảo) |
+
+### Entry mới trong sitemap_thongtu (2026-07-15 11:05–11:19) — D10 = dự thảo
+
+| Slug | lastmod | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 440370 | 11:05 15/7 | Dự thảo TT định mức chi phí triển khai dự án PPP | **D10 — bỏ qua (dự thảo) |
+| 440359 | 10:46 15/7 | Dự thảo TT chi tiết NĐ 2026 về kinh doanh XNK gạo | **D10 — bỏ qua (dự thảo) |
+| 440358 | 10:33 15/7 | Dự thảo TT sửa đổi chính sách thương binh và thanh niên xung phong | **D10 — bỏ qua (dự thảo) |
+| 440357 | 10:22 15/7 | Dự thảo TT an toàn bức xạ và hạt nhân cho lò phản ứng | **D10 — bỏ qua (dự thảo) |
+| 440330 | 09:07 15/7 | Dự thảo TT đăng ký lưu ký bù trừ và thanh toán chứng chỉ quỹ | **D10 — bỏ qua (dự thảo) |
+
+### Xác nhận sitemap không đổi
+
+- **sitemap_nghidinh**: Không đổi so với lần quét trước (17:53+07:00). 280: slug 440319 ✅, 281: slug 440318 ✅, 279: slug 440239 ✅, 278: slug 440066 ✅.
+- **sitemap_thongtu batch**: Không đổi so với 11:53+07:00 — slug 440247 (30/TT-BNNMT) là entry `-d1` cuối cùng. Không có `-d1` mới.
+- **Vanban.chinhphu.vn**: Không xác minh được (Firecrawl API 402 — hết credits). Tiếp tục theo dõi dải 218850+.
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = 281 (lastmod 15/7 17:53)
+2. **97–100/TT-BTC, 41–42/TT-BXD**: Chưa có trong sitemap_thongtu
+3. **Verify 280, 281** docid trên vanban.chinhphu.vn (dải 218850+) — cần API credits
+4. **OCR signed PDF** 281/NĐ-CP để hoàn thiện stub file
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản mới** trong heartbeat này.
+- Sitemap ổn định hoàn toàn từ batch 2026-07-15 17:53+07:00 (NĐ-CP) và 11:53+07:00 (TT).
+- 5 entry mới trong sitemap_thongtu (11:05–11:19 ngày 15/7) đều là dự thảo (d10) — bỏ qua theo quy định.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00), curl scan vanban.chinhphu.vn docid 218850–218880.
+- Ngày phát hiện: 2026-07-16 06:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:f5124b2e-5fad-4813-bfb4-2b4777a08bcc (Đệ #1 Discovery — heartbeat 2026-07-16 06:29)
+
+---
+
 ## Cập nhật 2026-07-16 v1 (Đệ #1 Discovery — heartbeat 2026-07-16 00:29 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới — sitemap ổn định từ batch 2026-07-15 17:53/11:53+07:00
 
 Quét sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00) + sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00). So sánh với nguồn tham chiếu: sitemap_nghidinh **không đổi** so với lần quét trước (17:53+07:00). sitemap_thongtu **không đổi** so với batch 11:53+07:00 — 4 entry d10 mới (11:05–11:19) là dự thảo, không phải văn bản chính thức.
+
+### Cập nhật 2026-07-16 v0 (Đệ #1 Discovery — 2026-07-16 03:01 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới — sitemap ổn định, 5 d10 mới là dự thảo
+
+Quét luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00) + sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00) + so sánh với tracking. So với lần quét trước (batch 17:53/11:53 ngày 2026-07-15), **KHÔNG CÓ văn bản chính thức mới** trong sitemap.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-15 17:53:50+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (batch chính) | 2026-07-15 11:53:37+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (entry đơn lẻ mới nhất) | 2026-07-15 11:05:44+07:00 | > Batch | Entry mới — tất cả d10 (dự thảo) |
+
+### Entry mới trong sitemap_thongtu (2026-07-15 11:05–11:19) — D10 = dự thảo
+
+| Slug | lastmod | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 440370 | 11:05 15/7 | Dự thảo TT định mức chi phí triển khai dự án PPP | **D10 — bỏ qua (dự thảo) |
+| 440359 | 10:46 15/7 | Dự thảo TT chi tiết NĐ 2026 về kinh doanh XNK gạo | **D10 — bỏ qua (dự thảo) |
+| 440358 | 10:33 15/7 | Dự thảo TT sửa đổi chính sách thương binh và thanh niên xung phong | **D10 — bỏ qua (dự thảo) |
+| 440357 | 10:22 15/7 | Dự thảo TT an toàn bức xạ và hạt nhân cho lò phản ứng | **D10 — bỏ qua (dự thảo) |
+| 440330 | 09:07 15/7 | Dự thảo TT đăng ký lưu ký bù trừ và thanh toán chứng chỉ quỹ | **D10 — bỏ qua (dự thảo) |
+
+### Xác nhận sitemap không đổi
+
+- **sitemap_nghidinh**: So sánh vs lần quét 2026-07-15 17:53+07:00 → cùng slug (280: 440319, 281: 440318, 279: 440239, 278: 440066). **Không thay đổi**.
+- **sitemap_thongtu batch**: Lần quét 2026-07-15 11:53:37+07:00 — slug 440247 (30/TT-BNNMT) là entry `-d1` cuối cùng. Không có `-d1` mới.
+- **Vanban.chinhphu.vn**: Tiếp tục theo dõi dải 218850+ (vùng trống).
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = 281 (lastmod 15/7 17:53)
+2. **97–100/TT-BTC, 41–42/TT-BXD**: Chưa có trong sitemap_thongtu
+3. **Verify 280, 281** docid trên vanban.chinhphu.vn (dải 218850+)
+4. **OCR signed PDF** 281/NĐ-CP để hoàn thiện stub file
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản mới** trong heartbeat này.
+- Sitemap ổn định hoàn toàn từ batch 2026-07-15 17:53+07:00 (NĐ-CP) và 11:53+07:00 (TT).
+- 5 entry mới trong sitemap_thongtu (11:05–11:19 ngày 15/7) đều là dự thảo (d10) — bỏ qua theo quy định.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:05:44+07:00, batch 11:53:37+07:00), curl grep URL slug.
+- Ngày phát hiện: 2026-07-16 03:05 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:7c494d3d-9998-4261-acaf-c18e0a5e7cfc (Đệ #1 Discovery — 2026-07-16 03:01)
+
+---
 
 ### Tình trạng sitemap
 
@@ -204,7 +338,7 @@ Quét luatvietnam.vn sitemap_thongtu (lastmod 2026-07-14 11:53+07:00) + sitemap_
 | **103/2026/TT-BCA** | **25/06/2026** | **Quy định phân cấp, thẩm quyền, trình tự, thủ tục và một số nội dung thực hiện dự án đầu tư xây dựng công trình an ninh** — quy định phân cấp, thẩm quyền, thủ tục dự án đầu tư xây dựng công trình an ninh thuộc Công an nhân dân; căn cứ Luật Xây dựng 58/2024, Luật Đầu tư công; người ký Lương Tam Quang; hiệu lực ~01/8/2026 | Công an / Xây dựng | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440214). Title: "Quy định phân cấp, thẩm quyền và thủ tục dự án an ninh" ✅. Ngày ban hành **25/6/2026** xác minh từ luatvietnam.vn (Lương Tam Quang). **ƯU TIÊN TRUNG BÌNH** — quy định đầu tư xây dựng trong công an. |
 | **47/2026/TT-BXD** | **30/06/2026** | **Quy định về quản lý và bảo đảm hoạt động bay** — quy định về quản lý và bảo đảm hoạt động bay; căn cứ Luật Hàng không dân dụng 130/2025/QH15, NĐ 222/2026 (hoạt động bay), NĐ 221/2026 (nhà chức trách hàng không); hiệu lực ~01/8/2026 | Giao thông / Hàng không | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440109). Title: "Quy định quản lý và bảo đảm hoạt động bay hiệu quả" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Bộ Xây dựng). Căn cứ NĐ 222/2026 và NĐ 221/2026 cùng ngày. **ƯU TIÊN TRUNG BÌNH** — văn bản hàng không. |
 | **29/2026/TT-BYT** | **06/07/2026** | **Quy định về thực hành công tác xã hội và cập nhật kiến thức công tác xã hội** — quy định chi tiết NĐ 110/2024/NĐ-CP về công tác xã hội; thực hành công tác xã hội tại cơ sở; khung chương trình bồi dưỡng; đối tượng: cơ sở thực hành, người thực hành; hiệu lực **25/08/2026** | Y tế / Công tác xã hội | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439661). Title: "Thông tư 29/2026/TT-BYT: Quy định và cập nhật kiến thức công tác xã hội" ✅. Ngày ban hành **06/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 06 tháng 7 năm 2026). Căn cứ NĐ 110/2024. Hiệu lực 25/8/2026. **ƯU TIÊN TRUNG BÌNH** — văn bản công tác xã hội. |
-| **30/2026/TT-BYT** | **09/07/2026** | **Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm** — hướng dẫn ghi thành phần và giá trị dinh dưỡng trên nhãn thực phẩm bao gói sẵn; căn cứ NĐ 37/2026/NĐ-CP (Luật Chất lượng sản phẩm hàng hóa); lộ trình thực hiện; hiệu lực ~01/10/2026 | Y tế / Thực phẩm | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440000). Title: "Hướng dẫn ghi thành phần và giá trị dinh dưỡng trên nhãn thực phẩm" ✅. Ngày ban hành **09/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 09 tháng 7 năm 2026). Căn cứ NĐ 37/2026/NĐ-CP (sản phẩm hàng hóa). **ƯU TIÊN CAO** — tác động trực tiếp ngành thực phẩm. |
+| **30/2026/TT-BYT** | **09/07/2026** | **Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm** — 3 Chương (I, II, III), 11 Điều (1-11), Phụ lục I + II; căn cứ NĐ 37/2026/NĐ-CP; hiệu lực **10/07/2026**, thay thế 29/2023/TT-BYT | Y tế / Thực phẩm | vanban.chinhphu.vn (slug 440000); luatvietnam.vn | **Hoàn thiện** — van-ban/y-te/30-2026-tt-byt-ghi-nhan-thanh-phan-dinh-duong.md (16.6 KB, OCR 0 issues) | Đã hoàn thiện 2026-07-16: OCR verify 0 issues, 11 Điều (1-11), 3 Chương (I-III), chuẩn hóa heading ###->##, updated source metadata. PDF vasep.com.vn (7 trang) verified content. Commit: fc2851cb (heartbeat/crawl-vanban-20260715a). **ƯU TIÊN CAO** — tác động trực tiếp ngành thực phẩm. |
 
 ### Tình trạng luatvietnam.vn — sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-13
 
@@ -220,7 +354,7 @@ Quét luatvietnam.vn sitemap_thongtu (lastmod 2026-07-14 11:53+07:00) + sitemap_
 | **103/2026/TT-BCA** | ⭐ MỚI — chưa có docid | Phân cấp thẩm quyền dự án an ninh, 25/6/2026 |
 | **47/2026/TT-BXD** | ⭐ MỚI — chưa có docid | Quản lý và bảo đảm hoạt động bay, 30/6/2026 |
 | **29/2026/TT-BYT** | ⭐ MỚI — chưa có docid | Thực hành công tác xã hội, 06/7/2026, hiệu lực 25/8 |
-| **30/2026/TT-BYT** | ⭐ MỚI — chưa có docid | Ghi nhãn thành phần dinh dưỡng thực phẩm, 09/7/2026 |
+| **30/2026/TT-BYT** | **Hoàn thiện** — van-ban/y-te/30-2026-tt-byt-ghi-nhan-thanh-phan-dinh-duong.md (16.6 KB) | Ghi nhãn thành phần dinh dưỡng thực phẩm, 09/7/2026, hiệu lực 10/7/2026 |
 | **279/2026/NĐ-CP** | ❌ Không có trong sitemap nghidinh | Chưa ban hành hoặc chưa index |
 | **280/2026/NĐ-CP** | ❌ Không có trong sitemap nghidinh | Chưa ban hành hoặc chưa index |
 
