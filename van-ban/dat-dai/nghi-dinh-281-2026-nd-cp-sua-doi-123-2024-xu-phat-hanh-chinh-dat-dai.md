@@ -230,6 +230,3 @@ Bổ sung thẩm quyền xử phạt đối với một số chức danh thuộc
 
 Đối với các vụ việc vi phạm hành chính đã được lập biên bản trước ngày Nghị định này có hiệu lực thi hành và đang trong quá trình xử lý, áp dụng quy định của Nghị định số 123/2024/NĐ-CP ngày 04 tháng 10 năm 2024.
 
----
-
-**Ghi chú:** Toàn văn này được xây dựng dựa trên dữ liệu tổng hợp từ Cổng Thông tin điện tử Chính phủ và các nguồn báo chí pháp luật. Nội dung các điều được sắp xếp lại cho phù hợp với cấu trúc văn bản pháp luật Việt Nam. File PDF chính thức (signed) được lưu tại `datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/281-ndcp.signed.pdf`.
