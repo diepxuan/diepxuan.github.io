@@ -1,8 +1,8 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-07T15:32 GMT+7
-> Nguồn quét: vanban.chinhphu.vn, datafiles.chinhphu.vn, web_search Brave
+> Phiên bản: 2026-07-16T00:32 GMT+7
+> Nguồn quét: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu
 > Dải docid: 228800–232000 | Tháng 7/2026
 > Ngưỡng: Ban hành sau 05/07/2026
 
@@ -134,5 +134,99 @@
 
 ---
 
-*Lần cập nhật tiếp theo: khoảng 07/07/2026 hoặc khi có văn bản mới ban hành sau 07/07/2026.*
+*Lần cập nhật tiếp theo: khoảng 17/07/2026 hoặc khi có văn bản mới ban hành sau 12/07/2026.*
+*Đệ #1 Discovery — github-io workspace*
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-16 (5)
+
+### 1. Nghị định 279/2026/NĐ-CP — Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Giáo dục và Đào tạo
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 279/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 12/07/2026 |
+| **Hiệu lực** | 12/07/2026 |
+| **Chủ đề** | Tổ chức nhà nước, Giáo dục |
+| **LuatVietnam** | `giao-duc/nghi-dinh-279-2026-nd-cp-chuc-nang-nhiem-vu-quyen-han-bo-giao-duc-va-dao-tao-440239-d1.html` |
+| **Trạng thái** | Chưa có (docid chưa xác định) |
+| **Ghi chú ưu tiên** | Bố cục 38 Điều, quy định chức năng Bộ GDĐT mới; liên quan trực tiếp đến 14 Điều về chương trình SGK miễn phí (ND 271) |
+
+---
+
+### 2. Thông tư 95/2026/TT-BTC — Hiệp định tránh đánh thuế hai lần và ngăn ngừa trốn thuế
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 95/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 01/07/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Thuế quốc tế, Giao dịch liên kết |
+| **LuatVietnam** | `thue/thong-tu-95-2026-tt-btc-huong-dan-hiep-dinh-tranh-danh-thue-hai-lan-va-ngan-ngua-tron-thue-439970-d1.html` |
+| **Trạng thái** | Chưa có (docid chưa xác định) |
+| **Ghi chú ưu tiên** | Hướng dẫn Hiệp định thuế quốc tế, MAP (thủ tục thỏa thuận song phương), APA (thỏa thuận trước giá tính thuế); Liên kết chặt với NĐ 252, NĐ 255 |
+
+---
+
+### 3. Thông tư 97/2026/TT-BTC — Bãi bỏ Thông tư 55/2010/TT-BTC về thuế GTGT và thuế TNDN đối với Đài truyền hình
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 97/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 06/07/2026 |
+| **Hiệu lực** | 06/07/2026 |
+| **Chủ đề** | Thuế, Bãi bỏ văn bản |
+| **LuatVietnam** | `thue/thong-tu-97-2026-tt-btc-bai-bo-thong-tu-55-2010-tt-btc-ve-thue-gtgt-va-thue-tndn-439710-d1.html` |
+| **Trạng thái** | Chưa có (docid chưa xác định) |
+| **Ghi chú ưu tiên** | Bãi bỏ TT cũ (2010) đã lỗi thời; thay bằng quy định mới theo Luật QLThuế 2025 |
+
+---
+
+### 4. Thông tư 98/2026/TT-BTC — Quản lý thuế đối với văn phòng đại diện doanh nghiệp nước ngoài *(chưa xác minh — slug thử sai)*
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 98/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Trạng thái** | Cần xác minh — slug trên luatvietnam.vn không tìm thấy đúng trang, trả về TT 97 |
+| **Ghi chú ưu tiên** | Cần xác minh trên vanban.chinhphu.vn |
+
+---
+
+### 5. Thông tư 99/2026/TT-BTC — *(chưa xác minh)*
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 99/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Trạng thái** | Cần xác minh |
+| **Ghi chú ưu tiên** | Không có slug chính xác trên sitemap thông tư BTC; cần tra vanban.chinhphu.vn |
+
+---
+
+## GHI CHÉP KHÁC — CẬP NHẬT TRẠNG THÁI
+
+| Số văn bản | Cập nhật | Ghi chú |
+|-----------|---------|---------|
+| NĐ 280/2026/NĐ-CP | Đã hoàn thiện — van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md | Bảo hiểm tiền gửi |
+| NĐ 281/2026/NĐ-CP | Đã hoàn thiện — van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md | Sửa đổi NĐ 123 |
+| NĐ 279/2026/NĐ-CP | **MỚI** — xác minh trên luatvietnam.vn 12/07/2026 | Chức năng Bộ GDĐT |
+| TT-BTC 95/2026 | **MỚI** — xác minh trên luatvietnam.vn 01/07/2026 | Hiệp định thuế quốc tế |
+| TT-BTC 97/2026 | **MỚI** — xác minh trên luatvietnam.vn 06/07/2026 | Bãi bỏ TT 55/2010 |
+| TT-BTC 98/2026 | **Cần xác minh** — slug luatvietnam không chính xác | Văn phòng đại diện |
+| TT-BTC 99/2026 | **Cần xác minh** — slug không xác định | Tìm trên vanban.chinhphu |
+| TT-BTC 100/2026 | Không tìm thấy trên sitemap | Có thể chưa ban hành |
+
+---
+
+*Lần cập nhật tiếp theo: khoảng 17/07/2026 hoặc khi có văn bản mới ban hành sau 12/07/2026.*
 *Đệ #1 Discovery — github-io workspace*
