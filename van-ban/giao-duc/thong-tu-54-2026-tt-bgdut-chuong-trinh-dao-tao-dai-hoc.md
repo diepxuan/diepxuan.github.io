@@ -1,19 +1,15 @@
 ---
 layout: vanban
 title: "Quy định về chương trình đào tạo các trình độ của giáo dục đại học"
-date: 2026-06-30
-modified: 2026-07-17
 sohieu: "54/2026/TT-BGDĐT"
-linhvuc: "Giáo dục"
-loaivanban: "Thông tư"
-hieuluc: "2026-06-30"
+ngaybanhanh: "30/06/2026"
+ngayhieuluc: "01/08/2026"
 nguoiky: "Lê Quân"
+coquancq: "Bộ Giáo dục và Đào tạo"
+loaivanban: "Thông tư"
+nhomvanban: "Giáo dục"
 trichyeu: "Quy định về chương trình đào tạo các trình độ của giáo dục đại học"
-cancu:
-  - "Luật Giáo dục số 43/2019/QH14 ngày 14/11/2019"
-  - "Luật sửa đổi, bổ sung một số điều của Luật Giáo dục số 123/2025/QH15"
-  - "Luật Giáo dục đại học số 125/2025/QH15"
-  - "Nghị định số 37/2025/NĐ-CP ngày 26/02/2025"
+canucaphaply: "Luật Giáo dục 43/2019/QH15 (sửa 123/2025), Luật Giáo dục Đại học 125/2025/QH15, Nghị định 37/2025/NĐ-CP"
 docid: "218804"
 source: "vanban.chinhphu.vn; luatvietnam.vn (slug 440237)"
 group: giao-duc
@@ -22,7 +18,6 @@ tags:
   - giao-duc-dai-hoc
   - tien-ban
   - ctđt
-  - linh-vuc-giao-duc
 ---
 
 # THÔNG TƯ SỐ 54/2026/TT-BGDĐT
@@ -33,12 +28,10 @@ tags:
 |---|---|
 | Số hiệu | 54/2026/TT-BGDĐT |
 | Ngày ban hành | 30 tháng 6 năm 2026 |
-| Ngày có hiệu lực | 30 tháng 6 năm 2026 |
+| Ngày có hiệu lực | 01 tháng 8 năm 2026 |
 | Cơ quan ban hành | Bộ Giáo dục và Đào tạo |
 | Người ký | Lê Quân, Bộ trưởng |
-| Công bố | Công báo số 545 + 546/2026 |
-| DocID | 218804 (vanban.chinhphu.vn) |
-| Slug | 440237 (luatvietnam.vn) |
+| Căn cứ | Luật Giáo dục 43/2019/QH15 (sửa 123/2025); Luật GDĐH 125/2025/QH15; Nghị định 37/2025/NĐ-CP |
 
 ## VĂN BẢN
 
@@ -58,17 +51,16 @@ Quy định về chương trình đào tạo các trình độ của giáo dục
 
 **Căn cứ:**
 
-- Luật Giáo dục số 43/2019/QH14 ngày 14 tháng 11 năm 2019;
+- Luật Giáo dục số 43/2019/QH15 ngày 14 tháng 11 năm 2019;
 - Luật sửa đổi, bổ sung một số điều của Luật Giáo dục số 123/2025/QH15;
-- Luật Giáo dục đại học số 125/2025/QH15;
-- Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục đại học;
-- Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo.
+- Luật Giáo dục đại học số 125/2025/QH15 ngày 15 tháng 01 năm 2025;
+- Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ.
 
 Theo đề nghị của Vụ trưởng Vụ Giáo dục Đại học,
 
 **Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư quy định về chương trình đào tạo các trình độ của giáo dục đại học.**
 
-*[Nội dung văn bản đầy đủ đang chờ cập nhật — nguồn luatvietnam.vn slug 440237 hiện trả 404, vanban.chinhphu.vn docid 218804 yêu cầu đăng nhập/JavaScript. Cần bổ sung khi có nguồn.]*
+*[Toàn văn đang chờ bổ sung — nguồn vanban.chinhphu.vn docid 218804 và luatvietnam.vn slug 440237 cần JavaScript/render, không truy cập được qua HTTP thuần.]*
 
 **Nơi nhận:**
 
