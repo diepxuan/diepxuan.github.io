@@ -19,7 +19,7 @@ LoaiVanBan: Thông tư
 LinhVuc: Công an
 CoQuanBanHanh: Bộ Công an
 TrangThai: Cần xác minh
-DocID: "Chưa xác minh"
+DocID: "218804 (vanban.chinhphu.vn)"
 Nguon: luatvietnam.vn (slug 440146, chưa truy cập được)
 tags:
   - công an
