@@ -349,5 +349,43 @@
 
 ---
 
+## BỔ SUNG — SITEMAP BATCH 2026-07-16 11:54+07:00 — 2 VĂN BẢN CÒN THIẾU
+
+> Ghi nhận 2 văn bản còn thiếu trong sitemap batch 2026-07-16 11:54+07:00. Phát hiện qua so sánh docid.
+
+### 1. Thông tư 98/2026/TT-BQP — Quy định chứng nhận hệ thống quản lý chất lượng sản phẩm quốc phòng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 98/2026/TT-BQP |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Quốc phòng |
+| **Ban hành** | 10/07/2026 |
+| **Hiệu lực** | 10/07/2026 |
+| **Chủ đề** | Quốc phòng, Quản lý chất lượng, Chứng nhận sản phẩm quốc phòng |
+| **LuatVietnam** | `quoc-phong/thong-tu-98-2026-tt-bqp-quy-dinh-chung-nhan-he-thong-quan-ly-chat-luong-san-pham-quoc-phong-440224-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Quy định chứng nhận hệ thống quản lý chất lượng sản phẩm quốc phòng. Căng cứ: Luật Quốc phòng 2018, Nghị định 132/2020/NĐ-CP. Docid 440224. |
+
+---
+
+### 2. Thông tư 30/2026/TT-BNNMT — Quy định kỹ thuật bay đo từ, phổ gamma trong địa chất
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 30/2026/TT-BNNMT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Nông nghiệp và Môi trường |
+| **Ban hành** | 13/07/2026 |
+| **Hiệu lực** | 13/07/2026 |
+| **Chủ đề** | Địa chất, Khoáng sản, Kỹ thuật bay đo từ, Phổ gamma |
+| **LuatVietnam** | `tai-nguyen/thong-tu-30-2026-tt-bnnmt-quy-dinh-ky-thuat-bay-do-tu-pho-gamma-trong-dia-chat-440247-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Căn cứ** | Luật Địa chất và Khoáng sản 54/2024/QH15; Luật sửa đổi 147/2025/QH15; NĐ 193/2025/NĐ-CP; NĐ 21/2026/NĐ-CP; NĐ 35/2025/NĐ-CP |
+| **Người ký** | Bộ trưởng Bộ Nông nghiệp và Môi trường |
+| **Ghi chú ưu tiên** | Quy định kỹ thuật bay đo từ, phổ gamma trong điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản. Áp dụng cho cả bay có người lái và bay không người lái (UAV). Chương I (Điều 1–3): quy định chung, phạm vi điều chỉnh, đối tượng áp dụng, giải thích từ ngữ. Docid 440247. |
+
+---
+
 *Lần cập nhật tiếp theo: khi có văn bản mới hoặc thay đổi sitemap.*
-*Đệ Discovery — github-io workspace — 2026-07-16T18:33 GMT+7*
+*Đệ Discovery — github-io workspace — 2026-07-16T22:33 GMT+7*
