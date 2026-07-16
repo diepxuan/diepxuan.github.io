@@ -389,3 +389,128 @@
 
 *Lần cập nhật tiếp theo: khi có văn bản mới hoặc thay đổi sitemap.*
 *Đệ Discovery — github-io workspace — 2026-07-16T22:33 GMT+7*
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-17 (DISCOVERY v7)
+
+> Quét sitemap 2026-07-17 01:59 ICT. So sánh batch tham chiếu: sitemap_nghidinh (2026-07-16T11:28:13+07:00, NĐ-CP mới nhất: 283/NĐ-CP); sitemap_thongtu (2026-07-16T11:54:13+07:00).
+> Kết luận: **sitemap_nghidinh KHÔNG thay đổi** — 283/NĐ-CP vẫn là mới nhất, không tìm thấy 282/NĐ-CP. **sitemap_thongtu có nhiều entry cập nhật lastmod**.
+
+### TÓM TẮT
+
+- Văn bản mới phát hiện: **5** (toàn là Thông tư)
+- Nguồn: luatvietnam.vn sitemap_thongtu batch 2026-07-16T11:54:13+07:00 (entry mới/cập nhật)
+- 282/NĐ-CP: **CHƯA CÓ** trên sitemap
+
+### VĂN BẢN MỚI PHÁT HIỆN (5)
+
+#### 1. Thông tư 54/2026/TT-BGDĐT — Quy định chương trình đào tạo các trình độ giáo dục đại học
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 54/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | 30/06/2026 |
+| **Chủ đề** | Giáo dục đại học, Chương trình đào tạo |
+| **LuatVietnam** | `giao-duc/thong-tu-54-2026-tt-bgddt-quy-dinh-chuong-trinh-dao-tao-dai-hoc-moi-nhat-440237-d1.html` |
+| **Docid** | 440237 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | CAO — Thay thế toàn bộ quy định chương trình đào tạo ĐH; căn cứ Luật Giáo dục 43/2019, Luật sửa đổi 123/2025 |
+
+---
+
+#### 2. Thông tư 53/2026/TT-BGDĐT — Ban hành Quy chế tuyển sinh và đào tạo sau đại học
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 53/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | 30/06/2026 |
+| **Chủ đề** | Giáo dục, Tuyển sinh sau đại học |
+| **LuatVietnam** | `giao-duc/thong-tu-53-2026-tt-bgddt-quy-che-tuyen-sinh-va-dao-tao-sau-dai-hoc-moi-nhat-440236-d1.html` |
+| **Docid** | 440236 (xác minh slug) |
+| **Trạng thái** | Đã có file: `van-ban/giao-duc/thong-tu-53-2026-tt-bgdut-tuyen-sinh-sau-dai-hoc.md` — cần kiểm tra |
+| **Ghi chú ưu tiên** | CAO — Quy chế tuyển sinh và đào tạo sau ĐH (thạc sĩ, tiến sĩ) |
+
+---
+
+#### 3. Thông tư 18/2026/TT-BVhttdl — Quy định định mức kinh tế - kỹ thuật bảo tàng công lập
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 18/2026/TT-BVhttdl |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Văn hóa, Thể thao và Du lịch |
+| **Ban hành** | Sau 15/07/2026 (lastmod 2026-07-16) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Văn hóa, Bảo tàng, Định mức kinh tế - kỹ thuật |
+| **LuatVietnam** | `van-hoa/thong-tu-18-2026-tt-bvhttdl-quy-dinh-dinh-muc-kinh-te-ky-thuat-bao-tang-cong-lap-440227-d1.html` |
+| **Docid** | 440227 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | TRUNG BÌNH — Định mức KTKT bảo tàng công lập |
+
+---
+
+#### 4. Thông tư 19/2026/TT-BVhttdl — Quy định chi tiết về thẻ nhà báo và bồi dưỡng nghiệp vụ
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 19/2026/TT-BVhttdl |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Văn hóa, Thể thao và Du lịch |
+| **Ban hành** | Sau 15/07/2026 (lastmod 2026-07-16) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Báo chí, Thẻ nhà báo |
+| **LuatVietnam** | `hanh-chinh/thong-tu-19-2026-tt-bvhttdl-quy-dinh-chi-tiet-ve-the-nha-bao-va-boi-duong-nghiep-vu-440215-d1.html` |
+| **Docid** | 440215 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | TRUNG BÌNH — Quy định thẻ nhà báo và bồi dưỡng nghiệp vụ báo chí |
+
+---
+
+#### 5. Thông tư 35/2026/TT-BKHCN — Quy định vùng địa lý đặc biệt cho dịch vụ bưu chính
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 35/2026/TT-BKHCN |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Khoa học và Công nghệ |
+| **Ban hành** | 26/06/2026 (lastmod trước đó) |
+| **Hiệu lực** | 26/06/2026 |
+| **Chủ đề** | Bưu chính, Viễn thông |
+| **LuatVietnam** | `thong-tin/thong-tu-35-2026-tt-bkhcn-quy-dinh-vung-dia-ly-dac-biet-cho-dich-vu-buu-chinh-438813-d1.html` |
+| **Docid** | 438813 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | THẤP — Danh mục vùng địa lý đặc biệt cho dịch vụ bưu chính |
+
+---
+
+### GHI CHÉP KHÁC — TRẠNG THÁI
+
+| Số văn bản | Cập nhật | Ghi chú |
+|-----------|---------|---------|
+| TT-BGDĐT 53/2026 | Đã có file — cần kiểm tra phiên bản mới nhất | Tuyển sinh sau ĐH |
+| NĐ-CP 282/2026 | **KHÔNG CÓ** trên sitemap_nghidinh | Cần theo dõi |
+| TT-BGDDT 54/2026 | **MỚI tuyệt đối** — chưa từng tracking | Chương trình đào tạo ĐH |
+
+---
+
+### ƯU TIÊN TIẾP THEO (CHƯA THỂ CRAWL — ĐỢI SẾP PHÂN CÔNG)
+
+1. **TT-BGDĐT 54/2026** — Chương trình đào tạo ĐH (CAO) — cần crawl toàn văn
+2. **TT-BGDĐT 53/2026** — Tuyển sinh sau ĐH (CAO) — cần kiểm tra file hiện có
+3. **TT-BCA 115/2026** — Thẻ, giấy phép chứng nhận an ninh hàng không (docid 440224) — **THIẾU FILE**
+
+---
+
+*Lần cập nhật tiếp theo: khi có văn bản mới hoặc thay đổi sitemap.*
+*Đệ #1 Discovery — github-io workspace — 2026-07-17T02:05 GMT+7*
+
+---
+
+*Đệ Discovery — github-io workspace — 2026-07-16T22:33 GMT+7*
