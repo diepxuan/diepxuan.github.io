@@ -2,7 +2,7 @@
 layout: vanban
 title: "Quy định về hoạt động ứng phó sự cố, thiên tai và tìm kiếm cứu nạn của lực lượng Công an nhân dân"
 date: 2026-06-17
-modified: 2026-07-16
+modified: 2026-07-17
 SoHieu: 92/2026/TT-BCA
 NgayBanHanh: 17/06/2026
 NguoiKy: Lương Tam Quang
@@ -18,9 +18,9 @@ CanCu:
 LoaiVanBan: Thông tư
 LinhVuc: Công an
 CoQuanBanHanh: Bộ Công an
-TrangThai: Cần xác minh
+TrangThai: Stub
 DocID: "218804 (vanban.chinhphu.vn)"
-Nguon: luatvietnam.vn (slug 440146, chưa truy cập được)
+Nguon: vanban.chinhphu.vn (docid 218804, trả về 404); luatvietnam.vn (slug 440146, trả về 403); thuvienphapluat.vn (404); datafiles.chinhphu.vn (403); vbpl.vn (không tìm thấy nội dung); lawnet.vn (không trả về nội dung)
 tags:
   - công an
   - thiên tai
@@ -29,8 +29,6 @@ tags:
   - phòng chống thiên tai
 group: an-ninh-trat-tu
 ---
-
-> **Ghi chú:** Văn bản gốc chưa truy cập được. Nguồn luatvietnam.vn (slug 440146) trả về lỗi 403/Cloudflare; vanban.chinhphu.vn trả về 404. Nội dung bên dưới là tóm tắt dựa trên metadata từ sitemap và tracking. Cần bổ sung toàn văn từ nguồn chính thức khi có thể truy cập.
 
 # QUY ĐỊNH
 
@@ -69,4 +67,4 @@ Quy định về hoạt động ứng phó sự cố, thiên tai và tìm kiếm
 
 ## VĂN BẢN
 
-*[Nội dung toàn văn đang chờ truy cập từ nguồn chính thức — luatvietnam.vn slug 440146 hoặc vanban.chinhphu.vn. Văn bản có hiệu lực từ ngày 02/07/2026.]*
+*[Nội dung toàn văn đang chờ bổ sung. Văn bản có hiệu lực từ ngày 02/07/2026. Nguồn chính thức chưa truy cập được trên vanban.chinhphu.vn (docid 218804 trả về 404), luatvietnam.vn (slug 440146 trả về 403 Cloudflare), và các nguồn thay thế (thuvienphapluat.vn, vbpl.vn, lawnet.vn). Cần bổ sung toàn văn từ nguồn chính thức khi có thể truy cập.]*
