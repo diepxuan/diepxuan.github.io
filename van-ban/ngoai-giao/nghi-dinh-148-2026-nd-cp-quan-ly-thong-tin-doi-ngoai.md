@@ -1,13 +1,27 @@
 ---
-layout: page
+layout: vanban
 title: Sửa đổi, bổ sung Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại
-date: 2026-05-12 00:00:00 +0700
-categories: [van-ban, ngoai-giao]
-tags: [nghi-dinh, chinh-phu, thong-tin-doi-ngoai, mang-xa-hoi]
-permalink: /van-ban/ngoai-giao/nghi-dinh-148-2026-nd-cp-quan-ly-thong-tin-doi-ngoai/
-description: Nghị định 148/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại, bổ sung nguyên tắc hoạt động thông tin đối ngoại trên không gian mạng.
-source: https://vanban.chinhphu.vn/?docid=218059&pageid=27160
-last_modified_at: 2026-06-02 00:00:00 +0700
+date: 2026-05-12
+modified: 2026-06-02
+group: Ngoại giao
+tags:
+  - nghi-dinh
+  - thong-tin-doi-ngoai
+  - mang-xa-hoi
+  - nghich-dinh-72-2015
+  - chinh-phu
+docid: "218059"
+source: vanban.chinhphu.vn
+pdf_url: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/148-ndcp.signed.pdf
+sohieu: 148/2026/NĐ-CP
+ngay_ban_hanh: 2026-05-12
+ngay_hieu_luc: 2026-07-01
+nguoi_ky: Phạm Thị Thanh Trà
+co_quan: Chính phủ
+loai: Nghị định sửa đổi
+trich_yeu: Sửa đổi, bổ sung một số điều của Nghị định 72/2015/NĐ-CP về quản lý hoạt động thông tin đối ngoại, bổ sung nguyên tắc hoạt động thông tin đối ngoại trên không gian mạng.
+van_ban_goc: 72/2015/NĐ-CP ngày 07/9/2015
+status: tóm tắt (cần bổ sung toàn văn)
 ---
 
 # Nghị định 148/2026/NĐ-CP - Quản lý hoạt động thông tin đối ngoại
