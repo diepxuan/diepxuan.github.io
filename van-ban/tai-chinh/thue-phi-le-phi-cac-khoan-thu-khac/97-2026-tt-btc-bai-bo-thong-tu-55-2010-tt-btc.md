@@ -1,0 +1,105 @@
+---
+layout: vanban
+title: "Thông tư 97/2026/TT-BTC bãi bỏ Thông tư số 55/2010/TT-BTC ngày 16/4/2010 hướng dẫn về thuế giá trị gia tăng và thuế thu nhập doanh nghiệp đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh, thành phố"
+date: 2026-07-06
+modified: 2026-07-15
+group: Tài chính / Thuế
+tags:
+  - thuế GTGT
+  - thuế TNDN
+  - bãi bỏ
+  - Đài truyền hình Việt Nam
+  - VTV
+docid: "218804"
+source: luatvietnam.vn
+signer: Cao Anh Tuấn
+effectiveDate: 2026-07-06
+---
+
+# Thông tư 97/2026/TT-BTC
+
+BÃI BỎ THÔNG TƯ SỐ 55/2010/TT-BTC NGÀY 16 THÁNG 4 NĂM 2010 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH HƯỚNG DẪN VỀ THUẾ GIÁ TRỊ GIA TĂNG VÀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI ĐÀI TRUYỀN HÌNH VIỆT NAM VÀ CÁC ĐÀI TRUYỀN HÌNH, ĐÀI PHÁT THANH TRUYỀN HÌNH TỈNH, THÀNH PHỐ
+
+---
+
+## THÔNG TIN VĂN BẢN
+
+| | |
+|---|---|
+| **Số hiệu** | 97/2026/TT-BTC |
+| **Loại văn bản** | Thông tư |
+| **Cơ quan ban hành** | Bộ Tài chính |
+| **Người ký** | Cao Anh Tuấn (Thứ trưởng) |
+| **Ngày ban hành** | 06/07/2026 |
+| **Ngày hiệu lực** | 06/07/2026 |
+| **Hiệu lực** | Có hiệu lực kể từ ngày ký ban hành |
+| **Văn bản bị bãi bỏ** | Thông tư số 55/2010/TT-BTC ngày 16/4/2010 |
+
+---
+
+## VĂN BẢN
+
+*BỘ TÀI CHÍNH*
+
+*CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM*
+*Độc lập - Tự do - Hạnh phúc*
+*---------------*
+
+Số: 97/2026/TT-BTC
+
+*Hà Nội, ngày 06 tháng 7 năm 2026*
+
+**THÔNG TƯ**
+
+BÃI BỎ THÔNG TƯ SỐ 55/2010/TT-BTC NGÀY 16 THÁNG 4 NĂM 2010 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH HƯỚNG DẪN VỀ THUẾ GIÁ TRỊ GIA TĂNG VÀ THUẾ THU NHẬP DOANH NGHIỆP ĐỐI VỚI ĐÀI TRUYỀN HÌNH VIỆT NAM VÀ CÁC ĐÀI TRUYỀN HÌNH, ĐÀI PHÁT THANH TRUYỀN HÌNH TỈNH, THÀNH PHỐ
+
+*Căn cứ* Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15;
+
+*Căn cứ* Luật Quản lý thuế số 108/2025/QH15; Nghị định số 252/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quản lý thuế;
+
+*Căn cứ* Luật Thuế giá trị gia tăng số 48/2024/QH15 được sửa đổi, bổ sung bởi Luật số 149/2025/QH15, Luật số 09/2026/QH16; Nghị định số 181/2025/NĐ-CP của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế giá trị gia tăng;
+
+*Căn cứ* Luật Thuế thu nhập doanh nghiệp số 67/2025/QH15 được sửa đổi, bổ sung bởi Luật số 09/2026/QH16; Nghị định số 320/2025/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp;
+
+*Căn cứ* Nghị định số 78/2025/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 79/2025/NĐ-CP của Chính phủ về kiểm tra, rà soát, hệ thống hóa và xử lý văn bản quy phạm pháp luật được sửa đổi, bổ sung bởi Nghị định số 187/2025/NĐ-CP của Chính phủ;
+
+*Căn cứ* Nghị định số 29/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính được sửa đổi, bổ sung bởi Nghị định số 166/2025/NĐ-CP của Chính phủ;
+
+*Theo đề nghị của Cục trưởng Cục Thuế;*
+
+*Bộ trưởng Bộ Tài chính ban hành Thông tư bãi bỏ Thông tư số 55/2010/TT-BTC ngày 16 tháng 4 năm 2010 của Bộ trưởng Bộ Tài chính hướng dẫn về thuế giá trị gia tăng và thuế thu nhập doanh nghiệp đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh, thành phố.*
+
+### Điều 1. Bãi bỏ toàn bộ Thông tư
+
+Bãi bỏ toàn bộ Thông tư số 55/2010/TT-BTC ngày 16 tháng 4 năm 2010 của Bộ trưởng Bộ Tài chính hướng dẫn về thuế giá trị gia tăng và thuế thu nhập doanh nghiệp đối với Đài truyền hình Việt Nam và các Đài truyền hình, Đài phát thanh truyền hình tỉnh, thành phố.
+
+### Điều 2. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày ký ban hành.
+
+2. Thủ trưởng các đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+---
+
+*Nơi nhận:*
+
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước;
+- Văn phòng Trung ương Đảng và các Ban của Đảng;
+- Văn phòng Quốc hội;
+- Văn phòng Chính phủ;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán Nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố;
+- Sở Tài chính, Thuế các tỉnh, thành phố;
+- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;
+- Các đơn vị thuộc, trực thuộc Bộ Tài chính;
+- Công báo;
+- Cơ sở dữ liệu quốc gia về pháp luật;
+- Cổng Thông tin điện tử: Chính phủ; Bộ Tài chính;
+- Lưu: VT, CT (100b)
