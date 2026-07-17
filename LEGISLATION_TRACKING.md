@@ -217,6 +217,7 @@
 
 | Số văn bản | Cập nhật | Ghi chú |
 |-----------|---------|---------|
+| NĐ 283/2026/NĐ-CP | **Stub** — van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh-nld-viet-nam-di-nuoc-ngoai.md | Xử phạt VPHC lao động, BHXH, NLĐ VN đi nước ngoài — Người ký: Bộ trưởng Bộ Nội vụ — Mọi nguồn chính thống trả lỗi 2026-07-18 |
 | NĐ 280/2026/NĐ-CP | Đã hoàn thiện — van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md | Bảo hiểm tiền gửi |
 | NĐ 281/2026/NĐ-CP | Đã hoàn thiện — van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md | Sửa đổi NĐ 123 |
 | NĐ 279/2026/NĐ-CP | **MỚI** — xác minh trên luatvietnam.vn 12/07/2026 | Chức năng Bộ GDĐT |
