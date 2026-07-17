@@ -1,4 +1,44 @@
+## Cập nhật 2026-07-17 v9 (Đệ #1 Discovery — 2026-07-17 06:36 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định hoàn toàn, 3 d10 mới là dự thảo Bộ Nội vụ
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 17:54:25+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu: sitemap **không đổi** (cùng lastmod từng điểm). 3 entry mới trong sitemap đều là **d10 (dự thảo)** — bỏ qua.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 16/7 17:54/11:54+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 17:54:25+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+
+### Entry d10 mới trong sitemap (2026-07-13) — D10 = dự thảo, bỏ qua
+
+| Slug | lastmod | Nội dung | Hạn góp ý | Trạng thái |
+|---|:---:|---|:---:|---|
+| 440093 | 11/7 | Dự thảo TT quy trình kiểm định thiết bị chịu áp lực Bộ Nội vụ | 17/07/2026 | D10 — bỏ qua (dự thảo) |
+| 440088 | 13/7 17:26 | Dự thảo TT quy trình kiểm định thang máy, thang cuốn, vận thăng Bộ Nội vụ | 21/07/2026 | D10 — bỏ qua (dự thảo) |
+| 440080 | 13/7 17:27 | Dự thảo TT quy trình kiểm định nồi hơi và thiết bị chịu áp lực Bộ Nội vụ | 24/07/2026 | D10 — bỏ qua (dự thảo) |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = 283 (lastmod 16/7 17:54)
+2. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế + NĐ 252 — cần tạo file van-ban
+3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban
+4. **53/TT-BGDĐT** (ƯU TIÊN CAO): Quy chế tuyển sinh Sau ĐH — cần tạo file van-ban
+5. **54/TT-BGDĐT** (ƯU TIÊN CAO): Chương trình đào tạo ĐH — cần tạo file van-ban
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản chính thức mới** trong heartbeat này.
+- 3 entry d10 mới (440093, 440088, 440080) là dự thảo Thông tư quy trình kiểm định thiết bị/thang máy/nồi hơi của Bộ Nội vụ — **bỏ qua** theo quy định.
+- Sitemap ổn định hoàn toàn kể từ batch 2026-07-16 17:54/11:54+07:00 (v8).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 17:54:25+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00).
+- Ngày phát hiện: 2026-07-17 06:36 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:9d942b39-30ad-412c-9d85-80b62f4e8467 (Đệ #1 Discovery — 2026-07-17 06:36)
+
 ---
+
+
 ## Cập nhật 2026-07-17 v7 (Đệ #1 Discovery — 2026-07-17 02:35 ICT)
 
 ### Kết quả: Bổ sung 2 văn bản còn thiếu từ batch 11:54:13+07:00 — **115/TT-BCA** + **30/TT-BNNMT**
@@ -149,7 +189,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00) + sitemap_thongtu (la
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | **100/2026/TT-BTC** | **15/07/2026** | **Bãi bỏ toàn bộ 06 Thông tư do Bộ trưởng Bộ Tài chính ban hành** — bãi bỏ: TT 234/2016 (giá dịch vụ kiểm định tàu biển, công trình biển); TT 235/2016 (giá dịch vụ thử nghiệm khí thải ô tô); TT 236/2016 (giá dịch vụ thẩm định thiết kế đường sắt); TT 237/2016 (giá dịch vụ kiểm định thủy nội địa); TT 239/2016 (giá dịch vụ thử nghiệm phương tiện đường bộ); TT 47/2018 (xác định giá cho thuê kết cấu hạ tầng giao thông/thủy lợi); căn cứ Luật Ban hành VBQPPL 64/2025 (sửa 87/2025), Luật Giá 16/2023 (sửa 44/2024, 61/2024, 95/2025, 140/2025), NĐ 78/2025, NĐ 79/2025, NĐ 29/2025 (sửa 166/2025); người ký Lê Tấn Cận; hiệu lực **01/9/2026** | Tài chính / Bãi bỏ | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440486). Title: "Bãi bỏ 06 Thông tư của Bộ Tài chính" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn. Bãi bỏ 5 TT về giá dịch vụ kiểm định (tàu biển, ô tô, đường sắt, thủy nội địa) + TT 47/2018 về cho thuê kết cấu hạ tầng. **ƯU TIÊN THẤP** — văn bản bãi bỏ đã lỗi thời. |
-| **89/2026/TT-BTC** | **30/06/2026** | **Quy định chi tiết một số điều của Luật Quản lý thuế và Nghị định số 252/2026/NĐ-CP** — quy định chi tiết các điều/khoản của Luật QL thuế 108/2025: giao dịch điện tử, khai thuế, nộp thuế, gia hạn, hoàn thuế, miễn giảm thuế, kiểm tra thuế; quy định phân nhóm người nộp thuế (tuân thủ tốt/trung bình/thấp/không tuân thủ); quy định cơ quan thuế quản lý trực tiếp, quản lý địa bàn nhận phân bổ, quản lý khoản thu ngân sách; căn cứ Luật QL thuế 108/2025, NĐ 252/2026; người ký (xem luatvietnam); hiệu lực ký | Tài chính / Thuế | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440483). Title: "Quy định chi tiết Luật Quản lý thuế và NĐ 252/2026" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Hướng dẫn chi tiết Luật QL thuế mới (108/2025). **ƯU TIÊN CAO** — tác động toàn diện quản lý thuế, phân nhóm NNTN. |
+| **89/2026/TT-BTC** | **30/06/2026** | **Quy định chi tiết một số điều của Luật Quản lý thuế và Nghị định số 252/2026/NĐ-CP** — quy định chi tiết các điều/khoản của Luật QL thuế 108/2025: giao dịch điện tử, khai thuế, nộp thuế, gia hạn, hoàn thuế, miễn giảm thuế, kiểm tra thuế; quy định phân nhóm người nộp thuế (tuân thủ tốt/trung bình/thấp/không tuân thủ); quy định cơ quan thuế quản lý trực tiếp, quản lý địa bàn nhận phân bổ, quản lý khoản thu ngân sách; căn cứ Luật QL thuế 108/2025, NĐ 252/2026; người ký Cao Anh Tuấn (Thứ trưởng); hiệu lực 01/07/2026 | Tài chính / Thuế | vanban.chinhphu.vn (docid **218804** ✅) | van-ban/thue/89-2026-tt-btc-quy-dinh-chi-tiet-luat-quan-ly-thue.md ✅ | **CRAWLED** — luatvietnam.vn slug 440483. 10 Chương, 101 Điều. OCR: 0 issues. Quality gate PASS. Commit heartbeat/crawl-vanban-20260716. |
 | **99/2026/TT-BTC** | **10/07/2026** | **Quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân** — quy định chế độ tài chính cho đối tượng trong lĩnh vực điện hạt nhân; nguồn kinh phí (NSNN, chủ đầu tư điện hạt nhân, viện trợ); đào tạo trong nước theo TT 100/2025/TT-BTC, đào tạo nước ngoài theo TT 140/2025/TT-BTC; học phí ưu đãi, miễn phí ký túc xá, giáo trình; căn cứ Luật NSNN 89/2025, NĐ 73/2026, NĐ 176/2026 (chính sách ưu đãi điện hạt nhân), NĐ 29/2025 (sửa 166/2025); QĐ 1012/QĐ-TTg (Đề án đào tạo điện hạt nhân đến 2035); người ký Nguyễn Thị Bích Ngọc; hiệu lực **28/8/2026** | Tài chính / Giáo dục & Năng lượng | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440467). Title: "Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân" ✅. Ngày ban hành **10/7/2026** xác minh từ luatvietnam.vn. Liên quan trực tiếp đến NĐ 176/2026 (chính sách ưu đãi điện hạt nhân). **ƯU TIÊN TRUNG BÌNH** — văn bản chuyên đề điện hạt nhân. |
 | **59/2026/TT-BXD** | **10/07/2026** | **Ban hành Định mức kinh tế - kỹ thuật công tác nạo vét công trình hàng hải** — ban hành định mức hao phí lao động, máy thi công nạo vét công trình hàng hải (tàu hút bụng tự hành, máy đào gầu dây, tàu hút phun, vận chuyển chất nạo vét); 02 Chương, 02 Phụ lục; định mức theo loại đất (phù sa bùn lỏng → sét cứng), công suất tàu (7602CV → 1636CV), độ sâu hạ cần; căn cứ Bộ luật Hàng hải 95/2015, Luật Xây dựng 135/2025, NĐ 33/2025, NĐ 206/2026; người ký Nguyễn Xuân Sang; hiệu lực **25/8/2026** | Giao thông / Hàng hải | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440390). Title: "Thông tư 59/2026/TT-BXD: Định mức kinh tế - kỹ thuật công tác nạo vét công trình hàng hải" ✅. Ngày ban hành **10/7/2026** xác minh từ luatvietnam.vn. Thay thế TT 44/2018/BGTVT. **ƯU TIÊN TRUNG BÌNH** — văn bản kỹ thuật hàng hải, cơ sở xác định chi phí nạo vét cảng biển. |
 | **37/2026/TT-BKHCN** | **Xác minh cần thêm** | **Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp** — quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp; căn cứ [cần web_fetch đầy đủ]; hiệu lực ~01/9/2026 | Khoa học / Viễn thông | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua sitemap_thongtu (slug 440448). Chỉ có metadata sitemap, chưa web_fetch. Slug: `thong-tin/thong-tu-37-2026-tt-bkhcn-quy-dinh-chung-chi-vo-tuyen-dien-nghiep-du-va-tieu-chuan-thi-cap-440448-d1.html`. **CẦN WEB_FETCH** để lấy nội dung đầy đủ. **ƯU TIÊN THẤP** — văn bản viễn thông chuyên đề. |
