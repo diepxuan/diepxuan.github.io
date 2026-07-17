@@ -1,3 +1,58 @@
+## Cập nhật 2026-07-17 v13 (Đệ #1 Discovery — 2026-07-17 15:32 ICT)
+
+### Kết quả: **5 văn bản mới** — batch sitemap_thongtu 2026-07-17 11:54:51+07:00
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 17:54:25+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00** → **2026-07-17 11:54:51+07:00**). So sánh với batch tham chiếu v12 (2026-07-17 11:03 ICT): sitemap_nghidinh **không đổi** ✅. sitemap_thongtu **THAY ĐỔI** — batch mới 11:54:51+07:00 xuất hiện 5 văn bản `-d1` mới chưa ghi nhận (slug 440226, 440577, 440563, 440562, 440521). Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **98/2026/TT-BQP** | **06/07/2026** | **Quy định chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng** — quy định chứng nhận Hệ thống quản lý chất lượng cho cơ sở công nghiệp quốc phòng; căn cứ Luật Tiêu chuẩn 68/2006/QH11 (sửa 70/2025/QH15), Luật Chất lượng 05/2007/QH12 (sửa 78/2025/QH15), Luật Công nghiệp QP-AN 38/2024/QH15 (sửa 119/2025/QH15), NĐ 22/2026/NĐ-CP (hướng dẫn Luật Tiêu chuẩn); điều kiện chứng nhận (thành lập, đăng ký TCVN ISO 9001), chuyên gia đánh giá; điểm không phù hợp loại 1 và loại 2; người ký Bộ trưởng Bộ Quốc phòng | An ninh / Quốc phòng & Tiêu chuẩn | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440226). Title: "Quy định chứng nhận Hệ thống quản lý chất lượng sản phẩm quốc phòng" ✅. Ngày ban hành **06/7/2026** xác minh (Hà Nội, ngày 06 tháng 7 năm 2026). Căn cứ nhiều luật sửa đổi 2025 (70/2025, 78/2025, 119/2025). Nội dung gồm Chương I (Quy định chung: Điều 1-10 với 10 điểm giải thích từ ngữ, Điều 4 bảo mật, Điều 5 điều kiện, Điều 6 chuyên gia). **ƯU TIÊN THẤP** — văn bản quốc phòng chuyên đề. |
+| **54/2026/TT-BXD** | **01/07/2026** | **Sửa đổi, bổ sung một số điều của Thông tư số 20/2026/TT-BXD (ngày 15/5/2026) về quản lý nhà nước chuyên ngành tại cảng thủy nội địa, bến thủy nội địa, khu neo đậu, hoa tiêu đường thủy nội địa và Thông tư số 21/2026/TT-BXD (ngày 15/5/2026) về quản lý kết cấu hạ tầng đường thủy nội địa** — sửa đổi, bổ sung Điều 4, 10, 12, 17, 37 (TT 21) và Điều 6, 11 (TT 20); căn cứ NĐ 33/2025/NĐ-CP, NQ 24/2026/NQ-CP (cắt giảm thủ tục hành chính quốc phòng, tài chính, xây dựng); người ký Bộ trưởng Bộ Xây dựng; hiệu lực ký | Xây dựng / Cảng thủy nội địa | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440577). Title: "Sửa đổi quản lý cảng thủy nội địa và kết cấu hạ tầng" ✅. Ngày ban hành **01/7/2026** xác minh. Nội dung gồm 2 Chương, sửa đổi 9 Điều (Điều 1-9). Thay thế/bổ sung TT 20 và 21/2026/TT-BXD. **ƯU TIÊN THẤP** — văn bản kỹ thuật cảng thủy. |
+| **51/2026/TT-BXD** | **30/06/2026** | **Ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay** — thay thế toàn bộ quy chế an toàn hàng không lĩnh vực tàu bay và khai thác; căn cứ Luật Hàng không 130/2025/QH15, NĐ 223/2026/NĐ-CP (tàu bay), NĐ 221/2026/NĐ-CP (nhà chức trách hàng không); bãi bỏ 10 Thông tư cũ (TT 01/2011, 03/2016, 21/2017, 56/2018, 42/2020, 11/2022, 25/2022, 09/2023, 27/2024, 65/2024) và 03/2025/TT-BXD; hiệu lực **01/7/2026**; người ký Bộ trưởng Bộ Xây dựng | Giao thông / Hàng không | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440563). Title: "Quy chế An toàn hàng không dân dụng cho tàu bay và khai thác" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026). Bộ Quy chế toàn diện thay thế 11 Thông tư trước đó. Điều khoản chuyển tiếp đến 01/7/2027. **ƯU TIÊN TRUNG BÌNH** — văn bản hàng không quan trọng, thay thế 10+ Thông tư. |
+| **45/2026/TT-BXD** | **30/06/2026** | **Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực đăng kiểm phương tiện giao thông đường bộ** — sửa đổi Điều 4, 5, 9, 10, 11, 15, 16, 16a (TT 46/2024/TT-BGTVT được sửa bởi TT 71/2025/TT-BXD, TT 24/2026/TT-BXD); căn cứ Luật Trật tự ATGT 36/2024/QH15 (sửa 118/2025/QH15), Luật Chất lượng 05/2007/QH12 (sửa 78/2025/QH15), Luật Tiêu chuẩn 68/2006/QH11 (sửa 70/2025/QH15), Luật Bảo vệ môi trường 72/2020/QH14 (sửa 146/2025/QH15), NĐ 89/2026/NĐ-CP (điều kiện đăng kiểm), NĐ 33/2025; người ký Bộ trưởng Bộ Xây dựng | Giao thông / Đăng kiểm | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440562). Title: "Sửa đổi Thông tư đăng kiểm giao thông đường bộ" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026). Nội dung 16 Điều (8 Điều sửa đổi + 1 Điều mới 16a). Cập nhật QCVN 103:2024/BGTVT. **ƯU TIÊN TRUNG BÌNH** — văn bản kỹ thuật đăng kiểm, phối hợp Sở Xây dựng + Cục Đăng kiểm VN. |
+| **55/2026/TT-BGDĐT** | **30/06/2026** | **Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp** — quy định chuẩn chương trình đào tạo GDNĐ cho trình độ cao đẳng, trung cấp, THNN (trung học nghề); gồm: mục đích, chuẩn đầu ra, yêu cầu đầu vào, khối lượng học tập, cấu trúc, phương pháp, điều kiện; chuẩn đầu ra theo Khung NL ngoại ngữ (bậc 3/6 cao đẳng, bậc 2/6 trung cấp), Khung NL số (bậc 6/8 cao đẳng, bậc 5/8 trung cấp), kỹ năng xanh; căn cứ Luật GDNĐ 124/2025/QH15, Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 37/2025/NĐ-CP; người ký Lê Quân | Giáo dục / GDNĐ | vanban.chinhphu.vn (docid **218804** ✅) | ⚠️ **van-ban/giao-duc/quy-dinh-chuan-chuong-trinh-dao-tao-gdnghiep-55-2026-tt-bgddt.md** | **STUB** — file stub 85 dòng, metadata đầy đủ (title, date=2026-06-30, docid 218804, Lê Quân, Luật GDNĐ 124/2025). Nội dung toàn văn pending — nguồn chính thức block (Firecrawl 402, luatvietnam.vn 404, datafiles 403). **ƯU TIÊN TRUNG BÌNH** — văn bản nền tảng GDNĐ theo Luật mới 2025, cần retry nội dung. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v12 (11:03 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 17:54:25+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | **2026-07-17 11:54:51+07:00** | > 2026-07-16 11:54:13+07:00 | 🆕 **5 văn bản mới** trong batch mới (98/BQP, 54/BXD, 51/BXD, 45/BXD, 55/BGDDT) |
+
+### Entry mới trong sitemap_thongtu batch 2026-07-17 11:54:51+07:00
+
+| Slug | Số hiệu | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 440226 | 98/TT-BQP | Chứng nhận Hệ thống quản lý chất lượng sản phẩm quốc phòng | 🆕 Mới — chưa ghi nhận |
+| 440577 | 54/TT-BXD | Sửa đổi quản lý cảng thủy nội địa và kết cấu hạ tầng | 🆕 Mới — chưa ghi nhận |
+| 440563 | 51/TT-BXD | Quy chế An toàn hàng không dân dụng tàu bay và khai thác | 🆕 Mới — chưa ghi nhận |
+| 440562 | 45/TT-BXD | Sửa đổi đăng kiểm giao thông đường bộ | 🆕 Mới — chưa ghi nhận |
+| 440521 | 55/TT-BGDĐT | Quy định chuẩn chương trình đào tạo GDNĐ | 🆕 Mới — chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 17:54)
+2. **51/TT-BXD** (ƯU TIÊN TRUNG BÌNH): Bộ Quy chế An toàn hàng không thay thế 10+ Thông tư — cần tạo file van-ban
+3. **55/TT-BGDĐT** (ƯU TIÊN TRUNG BÌNH): Chuẩn chương trình GDNĐ theo Luật 124/2025 — cần tạo file van-ban
+4. **45/TT-BXD** (ƯU TIÊN TRUNG BÌNH): Sửa đổi đăng kiểm đường bộ — cần tạo file van-ban
+5. **54/TT-BXD** (ƯU TIÊN THẤP): Sửa đổi cảng thủy nội địa — cần tạo file van-ban
+6. **98/TT-BQP** (ƯU TIÊN THẤP): Chứng nhận Hệ thống QLCL sản phẩm quốc phòng — cần tạo file van-ban
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 98/TT-BQP (chứng nhận Hệ thống QLCL quốc phòng, 06/7/2026), 54/TT-BXD (sửa đổi cảng thủy, 01/7/2026), 51/TT-BXD (quy chế hàng không, 30/6/2026), 45/TT-BXD (sửa đăng kiểm, 30/6/2026), 55/TT-BGDĐT (chuẩn GDNĐ, 30/6/2026).
+- **51/TT-BXD** là văn bản nổi bật nhất — Bộ Quy chế An toàn hàng không dân dụng thay thế hoàn toàn 10 Thông tư cũ (01/2011 đến 65/2024), theo Luật Hàng không 130/2025/QH15, NĐ 221/2026, NĐ 223/2026.
+- **55/TT-BGDĐT**: Quy định chuẩn GDNĐ theo Luật GDNĐ 124/2025/QH15 — chuẩn đầu ra theo Khung NL ngoại ngữ + Khung NL số + kỹ năng xanh.
+- **45/TT-BXD**: Sửa đổi đăng kiểm giao thông đường bộ, cập nhật QCVN 103:2024/BGTVT, phối hợp Sở Xây dựng + Cục Đăng kiểm VN.
+- **54/TT-BXD**: Sửa đổi cảng thủy nội địa — sửa 5 Điều TT 21 + 2 Điều TT 20.
+- **98/TT-BQP**: Quốc phòng chuyên đề — chứng nhận Hệ thống quản lý chất lượng theo TCVN ISO 9001 cho cơ sở công nghiệp quốc phòng.
+- **sitemap_nghidinh ổn định hoàn toàn** — 282 chưa ban hành.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 17:54:25+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-17 11:54:51+07:00), web_fetch slug 440226 (98/TT-BQP), web_fetch slug 440577 (54/TT-BXD), web_fetch slug 440563 (51/TT-BXD), web_fetch slug 440562 (45/TT-BXD), web_fetch slug 440521 (55/TT-BGDĐT).
+- Ngày phát hiện: 2026-07-17 15:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:04b1d290-1dc7-4c01-85b4-02438982132e (Đệ #1 Discovery — 2026-07-17 15:32)
+
+---
+
 ## Cập nhật 2026-07-17 v12 (Đệ #1 Discovery — 2026-07-17 11:03 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định hoàn toàn từ batch 16/7 17:54/11:54+07:00
