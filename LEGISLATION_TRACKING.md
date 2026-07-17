@@ -1,11 +1,11 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-16T18:33 GMT+7
+> Phiên bản: 2026-07-17T07:32 GMT+7
 > Nguồn quét: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (batch 2026-07-16T11:54:13+07:00)
-> Dải docid: 228800–232000 | Tháng 7/2026
-> Ngưỡng: Ban hành sau 05/07/2026
-> Bổ sung: xác nhận sitemap 16/07 — 6 văn bản mới mới chưa từng tracking
+> Dải docid: 440490–440495 | Tháng 7/2026
+> Ngưỡng: Ban hành sau 15/07/2026 (bổ sung vào dải trước)
+> Bổ sung: 5 văn bản mới chưa từng tracking — phát hiện docid 440490, 440494, 440495
 
 ---
 
@@ -387,8 +387,131 @@
 
 ---
 
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-17 (DISCOVERY v8)
+
+> Quét sitemap 2026-07-17 00:33 ICT. sitemap_nghidinh mới nhất 2026-07-16T11:28:13+07:00 — mới nhất: NĐ 283/CP (docid 440485). sitemap_thongtu mới nhất 2026-07-16T11:54:13+07:00. Không có NĐ 282 trên sitemap.
+
+### TÓM TẮT
+
+- Văn bản mới phát hiện lần này: **5**
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (batch 2026-07-16T11:54:13+07:00)
+- **NĐ 282/2026/NĐ-CP: CHƯA CÓ** trên sitemap_nghidinh
+- Các docid trên sitemap đã có trong tracking: tất cả đã cover
+
+### SẠCH — VĂN BẢN CHƯA CÓ TRONG TRACKING LẦN TRƯỚC (5)
+
+#### 1. Nghị định 284/2026/NĐ-CP — Bảo vệ di sản văn hóa phi vật thể
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 284/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 16/07/2026 (lastmod 2026-07-16T11:07) |
+| **Hiệu lực** | 16/07/2026 |
+| **Chủ đề** | Văn hóa, Di sản văn hóa |
+| **LuatVietnam** | `chinh-sach/nghi-dinh-284-2026-nd-cp-bao-ve-di-san-van-hoa-440490-d1.html` |
+| **Docid** | 440490 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | CAO — Nghị định chi tiết Luật Di sản văn hóa 2022; thay thế NĐ 98/2015; quy định bảo vệ di sản văn hóa phi vật thể |
+
+---
+
+#### 2. Thông tư 55/2026/TT-BGDĐT — Chương trình giáo dục phổ thông 2018 (sửa đổi)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 55/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 16/07/2026 (lastmod 2026-07-16T11:09) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Giáo dục, Chương trình phổ thông |
+| **LuatVietnam** | `chinh-sach/thong-tu-55-2026-tt-bgddt-chuong-trinh-giao-duc-pho-thong-440495-d1.html` |
+| **Docid** | 440495 |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | CAO — Sửa đổi Chương trình GDPT theo Nghị quyết 88/2014/QH13; căn cứ Nghị định 279/2026/NĐ-CP (chức năng Bộ GDĐT); liên kết trực tiếp NĐ 271 (miễn phí SGK) |
+
+---
+
+#### 3. Thông tư 101/2026/TT-BQP — Định mức kinh tế - kỹ thuật xây dựng công trình quốc phòng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 101/2026/TT-BQP |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Quốc phòng |
+| **Ban hành** | 16/07/2026 (lastmod 2026-07-16T11:09) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Quốc phòng, Xây dựng |
+| **LuatVietnam** | `tai-chinh/thong-tu-101-2026-tt-bqp-dinh-muc-kinh-te-ky-thuat-xay-dung-cong-trinh-quoc-phong-440494-d1.html` |
+| **Docid** | 440494 |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | TRUNG BÌNH — Định mức KTKT xây dựng công trình quốc phòng; thay thế Thông tư cũ 61/2010/TT-BQP |
+
+---
+
+#### 4. Thông tư 115/2026/TT-BCA — Thẻ, giấy phép, chứng nhận an ninh hàng không
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 115/2026/TT-BCA |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Công an |
+| **Ban hành** | 14/07/2026 (lastmod 2026-07-14T08:19:16+07:00) |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Hàng không, An ninh |
+| **LuatVietnam** | `giao-thong/thong-tu-115-2026-tt-bca-quy-dinh-ve-the-giay-phep-chung-nhan-an-ninh-hang-khong-440224-d1.html` |
+| **Docid** | 440224 |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | TRUNG BÌNH — Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không; căn cứ Luật Hàng không dân dụng 2023 |
+
+---
+
+#### 5. Thông tư 92/2026/TT-BCA — Ứng phó sự cố thiên tai và tìm kiếm cứu nạn
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 92/2026/TT-BCA |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Công an |
+| **Ban hành** | Sau 16/07/2026 (lastmod 2026-07-16T11:54:13+07:00) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Thiên tai, Tìm kiếm cứu nạn, Công an |
+| **LuatVietnam** | `tai-nguyen/thong-tu-92-2026-tt-bca-quy-dinh-ung-pho-su-co-thien-tai-va-tim-kiem-cuu-nan-cua-cong-an-nhan-dan-440146-d1.html` |
+| **Docid** | 440146 |
+| **Trạng thái** | Có stub — `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` (3,425 bytes) |
+| **Ghi chú ưu tiên** | THẤP — Stub đã có, crawl lần trước thất bại (403 Cloudflare); nguồn chính thức không truy cập được |
+
+---
+
+## GHI CHÉP KHÁC — TRẠNG THÁI CẬP NHẬT
+
+| Số văn bản | Cập nhật | Ghi chú |
+|-----------|---------|---------|
+| NĐ-CP 279/2026 | Đã có file (cần xác minh có đầy đủ nội dung) | Chức năng Bộ GDĐT — chưa crawl toàn văn |
+| NĐ-CP 280/2026 | Đã có file — `van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md` | Bảo hiểm tiền gửi |
+| NĐ-CP 281/2026 | Đã có file — `van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md` | Sửa đổi NĐ 123 |
+| NĐ-CP 283/2026 | Đã có file — `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` | Xử phạt VPHC lao động-BHXH |
+| TT-BGDDT 54/2026 | Đã có file — `van-ban/giao-duc/thong-tu-54-2026-tt-bgdut-chuong-trinh-dao-tao-dai-hoc.md` | Chương trình đào tạo ĐH |
+| TT-BGDDT 53/2026 | Đã có file — `van-ban/giao-duc/thong-tu-53-2026-tt-bgdut-tuyen-sinh-sau-dai-hoc.md` | Tuyển sinh sau ĐH |
+| TT-BCA 92/2026 | Stub — `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` | Ứng phó thiên tai TKCN — nguồn chính thức không truy cập được |
+| NĐ-CP 282/2026 | **KHÔNG CÓ** trên sitemap_nghidinh | Tiếp tục theo dõi |
+
+### ƯU TIÊN TIẾP THEO (CẦN SẾP PHÂN CÔNG CRAWL)
+
+1. **NĐ 284/2026/NĐ-CP** — Bảo vệ di sản văn hóa phi vật thể (CAO) — slug: `chinh-sach/nghi-dinh-284-2026-nd-cp-bao-ve-di-san-van-hoa-440490-d1.html`
+2. **TT-BGDĐT 55/2026** — Chương trình GDPT (CAO) — slug: `chinh-sach/thong-tu-55-2026-tt-bgddt-chuong-trinh-giao-duc-pho-thong-440495-d1.html`
+3. **TT-BQP 101/2026** — Định mức KTKT công trình quốc phòng (TRUNG BÌNH) — slug: `tai-chinh/thong-tu-101-2026-tt-bqp-dinh-muc-kinh-te-ky-thuat-xay-dung-cong-trinh-quoc-phong-440494-d1.html`
+4. **TT-BCA 115/2026** — Thẻ, giấy phép an ninh hàng không (TRUNG BÌNH) — slug: `giao-thong/thong-tu-115-2026-tt-bca-quy-dinh-ve-the-giay-phep-chung-nhan-an-ninh-hang-khong-440224-d1.html`
+5. **NĐ-CP 279/2026** — Chức năng Bộ GDĐT (TRUNG BÌNH) — slug: `giao-duc/nghi-dinh-279-2026-nd-cp-chuc-nang-nhiem-vu-quyen-han-bo-giao-duc-va-dao-tao-440239-d1.html`
+
+---
+
 *Lần cập nhật tiếp theo: khi có văn bản mới hoặc thay đổi sitemap.*
-*Đệ Discovery — github-io workspace — 2026-07-16T22:33 GMT+7*
+*Đệ #1 Discovery — github-io workspace — 2026-07-17T07:32 GMT+7*
 
 ---
 
