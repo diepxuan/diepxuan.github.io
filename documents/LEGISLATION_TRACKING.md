@@ -1,3 +1,58 @@
+## Cập nhật 2026-07-17 v14 (Đệ #1 Discovery — 2026-07-17 19:40 ICT)
+
+### Kết quả: **5 văn bản mới** — batch sitemap_nghidinh 2026-07-17 17:55:01+07:00
+
+Quét sitemap_nghidinh (lastmod 2026-07-17T17:55:01+07:00) + sitemap_thongtu (lastmod **2026-07-17 11:54:51+07:00**). So sánh với batch tham chiếu v13 (2026-07-17 15:32 ICT): sitemap_nghidinh **THAY ĐỔI** — nhiều entry được cập nhật lastmod 2026-07-17T17:55:01+07:00, giới hạn 5/lần — ghi nhận 5 văn bản mới chưa ghi nhận trong NĐ-CP: 266, 278, 279, 274, 273. sitemap_thongtu **không đổi** ✅.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **266/2026/NĐ-CP** | **01/07/2026** | **Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Tiết kiệm, chống lãng phí** — hướng dẫn Điều 4, 5, 9, 12, 13, 15, 16, 17, 24 Luật Tiết kiệm, chống lãng phí số 110/2025/QH15; quy định nguyên tắc xác định hành vi gây lãng phí, hành vi gây lãng phí trong tổ chức bộ máy và quản lý, sử dụng lao động trong khu vực nhà nước; căn cứ Luật Tiết kiệm 110/2025/QH15; người ký Thủ tướng | Hành chính / Tiết kiệm & Chống lãng phí | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439478). Title: "Hướng dẫn thi hành Luật Tiết kiệm, chống lãng phí" ✅. Ngày ban hành **01/7/2026** xác minh (Hà Nội, ngày 01 tháng 7 năm 2026). Nội dung gồm Chương I (Điều 1-2 về phạm vi, đối tượng) + Chương II (Điều 3+ về hành vi gây lãng phí). Điều 4 liệt kê các hành vi: thành lập/tổ chức lại không đảm bảo điều kiện, bố trí cấp phó không hợp lý. **ƯU TIÊN TRUNG BÌNH** — văn bản hướng dẫn Luật Tiết kiệm mới 2025, áp dụng cho toàn bộ khu vực nhà nước. |
+| **278/2026/NĐ-CP** | **09/07/2026** | **Sửa đổi, bổ sung một số điều của Nghị định số 72/2025/NĐ-CP về cơ chế, thời gian điều chỉnh giá bán lẻ điện bình quân** — sửa đổi quy trình điều chỉnh giá điện: (a) giảm <1% hoặc tăng <2% → không điều chỉnh, báo cáo Bộ Công Thương; (b) giảm ≥1% hoặc tăng 2-5% → lập phương án gửi Bộ Công Thương kiểm tra (15 ngày làm việc), Tập đoàn Điện lực VN quyết định, báo cáo trong 05 ngày; căn cứ Luật Điện lực 28/2024; người ký Thủ tướng | Điện lực / Giá điện | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440066). Title: "Sửa đổi Nghị định 72/2025 về điều chỉnh giá bán lẻ điện" ✅. Ngày ban hành **09/7/2026** xác minh (Hà Nội, ngày 09 tháng 7 năm 2026). Sửa đổi ngưỡng điều chỉnh từ cố định sang linh hoạt hơn. **ƯU TIÊN CAO** — văn bản điện lực tác động trực tiếp đến giá điện sinh hoạt và sản xuất. |
+| **279/2026/NĐ-CP** | **12/07/2026** | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo** — quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ GD&ĐT; Bộ thực hiện quản lý nhà nước đối với giáo dục mầm non, phổ thông, GDNĐ, ĐH, GDTX; quản lý tiếng Việt và tiếng các dân tộc; căn cứ Luật Tổ chức Chính phủ 63/2025/QH15; người ký Thủ tướng | Hành chính / Tổ chức bộ máy | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440239). Title: "Chức năng, Nhiệm vụ, Quyền hạn Bộ Giáo dục và Đào tạo" ✅. Ngày ban hành **12/7/2026** xác minh (Hà Nội, ngày 12 tháng 7 năm 2026). Điều 1: vị trí và chức năng Bộ GD&ĐT. Điều 2: 30+ nhiệm vụ và quyền hạn (trình Chính phủ dự án luật, ban hành thông tư, chỉ đạo, hướng dẫn, kiểm tra). **ƯU TIÊN TRUNG BÌNH** — văn bản tổ chức bộ máy Bộ GD&ĐT, thay thế NĐ 69/2017. |
+| **274/2026/NĐ-CP** | **07/07/2026** | **Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh** — chi tiết hướng dẫn Luật Đấu thầu 22/2023/QH15 (sửa 57/2024, 90/2025), Luật Đất đai 31/2024 (sửa nhiều luật 2024-2025), Luật Đầu tư 143/2025, NQ 254/2025/QH15 (cơ chế tháo gỡ khó khăn đất đai); căn cứ Luật Tổ chức Chính phủ 63/2025/QH15; người ký Thủ tướng | Đầu tư / Đấu thầu | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439818). Title: "Quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư" ✅. Ngày ban hành **07/7/2026** xác minh (Hà Nội, ngày 07 tháng 7 năm 2026). Căn cứ nhiều luật sửa đổi 2024-2025: 57/2024 (Đầu tư, Đất đai), 90/2025 (Đấu thầu, Hải quan, thuế, đầu tư, đầu tư công, tài sản công), 143/2025 (Đầu tư), 31/2024 (Đất đai sửa nhiều luật), NQ 254/2025. **ƯU TIÊN CAO** — văn bản đấu thầu quan trọng cho lựa chọn nhà đầu tư dự án kinh doanh, liên quan cải cách đất đai. |
+| **273/2026/NĐ-CP** | **07/07/2026** | **Quy định về quản lý hải quan đối với hàng miễn thuế, hàng xuất khẩu, nhập khẩu để thực hiện dự án đầu tư; hàng miễn thuế của doanh nghiệp kinh doanh hàng miễn thuế; hàng miễn thuế của người gửi, nhận hàng; hàng miễn thuế phục vụ mục đích cá nhân** — quy định chi tiết quản lý hải quan hàng miễn thuế; căn cứ Luật Tổ chức Chính phủ 63/2025, Luật Thương mại 36/2005, Luật QLNT 05/2017, Luật Thuế XNK 107/2016, Luật GTGT 48/2024, Luật Đầu tư 61/2020, Luật TTTĐB 66/2025, Luật Hải quan 54/2014, Luật QL thuế 38/2019 (sửa 56/2024), Luật 90/2025; người ký Thủ tướng | Xuất nhập khẩu / Hàng miễn thuế | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439782). Title: "Nghị định 273/2026/NĐ-CP về Kinh Doanh Hàng Miễn Thuế" ✅. Ngày ban hành **07/7/2026** xác minh (Hà Nội, ngày 07 tháng 7 năm 2026). Căn cứ nhiều luật: thương mại, QLNT, thuế XNK, GTGT, TTTĐB, hải quan, QL thuế, 90/2025. **ƯU TIÊN TRUNG BÌNH** — văn bản hải quan hàng miễn thuế cập nhật theo nhiều luật mới 2025. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v13 (15:32 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-17 17:55:01+07:00** | > 2026-07-16 17:54:25+07:00 | 🆕 **5 văn bản mới** trong batch mới (266, 278, 279, 274, 273/NĐ-CP) |
+| sitemap_thongtu | **2026-07-17 11:54:51+07:00** | = Không đổi | ✅ Không đổi |
+
+### Entry mới trong sitemap_nghidinh batch 2026-07-17 17:55:01+07:00
+
+| Slug | Số hiệu | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 439478 | 266/NĐ-CP | Hướng dẫn thi hành Luật Tiết kiệm, chống lãng phí | 🆕 Mới — chưa ghi nhận |
+| 440066 | 278/NĐ-CP | Sửa đổi NĐ 72/2025 về điều chỉnh giá bán lẻ điện | 🆕 Mới — chưa ghi nhận |
+| 440239 | 279/NĐ-CP | Chức năng, nhiệm vụ, quyền hạn Bộ GD&ĐT | 🆕 Mới — chưa ghi nhận |
+| 439818 | 274/NĐ-CP | Quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư | 🆕 Mới — chưa ghi nhận |
+| 439782 | 273/NĐ-CP | Kinh doanh hàng miễn thuế | 🆕 Mới — chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh vẫn đến **283** nhưng 266-279 là mới nhất được công bố
+2. **278/NĐ-CP** (ƯU TIÊN CAO): Sửa đổi cơ chế điều chỉnh giá điện — tác động trực tiếp giá điện sinh hoạt/sản xuất
+3. **274/NĐ-CP** (ƯU TIÊN CAO): Chi tiết Luật Đấu thầu lựa chọn nhà đầu tư — liên quan cải cách đất đai, NQ 254/2025
+4. **266/NĐ-CP** (ƯU TIÊN TRUNG BÌNH): Hướng dẫn Luật Tiết kiệm, chống lãng phí 110/2025 — áp dụng toàn khu vực nhà nước
+5. **279/NĐ-CP** (ƯU TIÊN TRUNG BÌNH): Tổ chức bộ máy Bộ GD&ĐT — thay thế NĐ 69/2017
+6. **273/NĐ-CP** (ƯU TIÊN TRUNG BÌNH): Quản lý hàng miễn thuế — cập nhật theo luật mới
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 266/NĐ-CP (tiết kiệm, chống lãng phí, 01/7/2026), 278/NĐ-CP (sửa giá điện, 09/7/2026), 279/NĐ-CP (tổ chức Bộ GD&ĐT, 12/7/2026), 274/NĐ-CP (đấu thầu lựa chọn nhà đầu tư, 07/7/2026), 273/NĐ-CP (hàng miễn thuế, 07/7/2026).
+- **278/NĐ-CP** là văn bản nổi bật nhất — sửa đổi cơ chế điều chỉnh giá bán lẻ điện bình quân theo NĐ 72/2025, thay đổi ngưỡng điều chỉnh từ cố định sang linh hoạt hơn. Tác động trực tiếp đến giá điện sinh hoạt và sản xuất.
+- **274/NĐ-CP**: Chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư — căn cứ NQ 254/2025/QH15 (cơ chế tháo gỡ khó khăn đất đai), Luật Đất đai 31/2024 (sửa nhiều luật), Luật Đầu tư 143/2025, 90/2025.
+- **266/NĐ-CP**: Hướng dẫn Luật Tiết kiệm 110/2025/QH15 — quy định hành vi gây lãng phí trong tổ chức bộ máy và quản lý lao động khu vực nhà nước.
+- **279/NĐ-CP**: Tổ chức bộ máy Bộ GD&ĐT — thay thế NĐ 69/2017, quy định 30+ nhiệm vụ và quyền hạn.
+- **273/NĐ-CP**: Quản lý hàng miễn thuế — cập nhật theo nhiều luật mới 2025 (TTĐB 66/2025, luật thuế, 90/2025).
+- **sitemap_thongtu ổn định hoàn toàn** — batch 11:54:51+07:00 không đổi.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-17 17:55:01+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-17 11:54:51+07:00), web_fetch slug 439478 (266/NĐ-CP), web_fetch slug 440066 (278/NĐ-CP), web_fetch slug 440239 (279/NĐ-CP), web_fetch slug 439818 (274/NĐ-CP), web_fetch slug 439782 (273/NĐ-CP).
+- Ngày phát hiện: 2026-07-17 19:40 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:bacc4f3d-0a81-4dee-b553-1f748b774662 (Đệ #1 Discovery — 2026-07-17 19:40)
+
+---
+
 ## Cập nhật 2026-07-17 v13 (Đệ #1 Discovery — 2026-07-17 15:32 ICT)
 
 ### Kết quả: **5 văn bản mới** — batch sitemap_thongtu 2026-07-17 11:54:51+07:00
