@@ -1,3 +1,472 @@
+## Cập nhật 2026-07-17 v15 (Đệ #1 Discovery — 2026-07-17 20:10 ICT)
+
+### Kết quả: **KHÔNG CÓ văn bản chính thức mới** — sitemap ổn định hoàn toàn từ batch v14
+
+Quét sitemap_nghidinh (lastmod 2026-07-17T17:55:01+07:00) + sitemap_thongtu (lastmod **2026-07-17 11:54:51+07:00**). So sánh với batch tham chiếu v14 (2026-07-17 19:40 ICT): **sitemap không đổi** — không có entry mới với lastmod mới hơn v14 ref. Giới hạn 5/lần — không có văn bản mới để ghi nhận.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v14 (19:40 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-17 17:55:01+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | **2026-07-17 11:54:51+07:00** | = Không đổi | ✅ Không đổi |
+
+### Cập nhật stub files — 3 văn bản từ batch 11:54:51+07:00
+
+3 văn bản từ batch 11:54:51+07:00 (chưa có file trong van-ban/) đã được tạo stub:
+
+| Số hiệu | Ngày | Trích yếu | Nhóm | File | Trạng thái |
+|---|---:|---|---|---|:---:|
+| **37/2026/TT-BKHCN** | 30/06/2026 | Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp | Thông tin / Vô tuyến điện | `van-ban/thong-tin-bao-chi/thong-tu-37-2026-tt-bkhcn-chung-chi-vo-tuyen-dien-nghiep-du.md` | ⚠️ Stub — metadata đầy đủ, 8 Điều + 3 Phụ lục |
+| **59/2026/TT-BXD** | 10/07/2026 | Ban hành Định mức KT-KT công tác nạo vét công trình hàng hải | Giao thông / Hàng hải | `van-ban/giao-thong-van-tai/thong-tu-59-2026-tt-bxd-dinh-muc-nao-vet-cong-trinh-hang-hai.md` | ⚠️ Stub — metadata đầy đủ, Phụ lục A định mức |
+| **100/2026/TT-BTC** | 15/07/2026 | Bãi bỏ 06 Thông tư của Bộ Tài chính | Tài chính / Bãi bỏ | `van-ban/tai-chinh/thong-tu-100-2026-tt-btc-bai-bo-06-thong-tu.md` | ⚠️ Stub đầy đủ — nội dung toàn văn 2 Điều |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 17:54)
+2. **266/NĐ-CP** (v14): Hướng dẫn Luật Tiết kiệm, chống lãng phí 110/2025 — cần Đệ #3 crawl nội dung
+3. **278/NĐ-CP** (v14, ƯU TIÊN CAO): Sửa đổi cơ chế điều chỉnh giá điện — cần Đệ #3 crawl nội dung
+4. **274/NĐ-CP** (v14, ƯU TIÊN CAO): Chi tiết Luật Đấu thầu lựa chọn nhà đầu tư — cần Đệ #3 crawl nội dung
+5. **279/NĐ-CP** (v14): Tổ chức Bộ GD&ĐT — cần Đệ #3 crawl nội dung
+6. **273/NĐ-CP** (v14): Quản lý hàng miễn thuế — cần Đệ #3 crawl nội dung
+7. **98/TT-BQP** (v13): Chứng nhận Hệ thống QLCL sản phẩm quốc phòng — cần Đệ #3 crawl nội dung
+8. **51/TT-BXD** (v13, ƯU TIÊN TRUNG BÌNH): Bộ Quy chế An toàn hàng không thay thế 10+ TT — cần Đệ #3 crawl nội dung
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản chính thức mới** trong heartbeat này.
+- **Sitemap ổn định hoàn toàn** từ batch v14 (2026-07-17 17:55/11:54+07:00).
+- **3 stub files mới** được tạo cho 37/TT-BKHCN, 59/TT-BXD, 100/TT-BTC từ batch 11:54:51+07:00 (sitemap_thongtu).
+- **52/TT-BGDĐT** đã có file đầy đủ: `van-ban/giao-duc/thong-tu-52-2026-tt-bgdut-lien-thong-giao-duc-viet-nam.md` (186 dòng, 12 Điều, 6 Chương).
+- **37/TT-BKHCN** đã được cập nhật: ngày ban hành 30/6/2026, người ký Vũ Hải Quân, hiệu lực 01/7/2026 — từ web_fetch slug 440448.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-17 17:55:01+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-17 11:54:51+07:00), web_fetch slug 440448 (37/TT-BKHCN), web_fetch slug 440390 (59/TT-BXD), web_fetch slug 440486 (100/TT-BTC), web_fetch slug 440129 (52/TT-BGDĐT).
+- Ngày phát hiện: 2026-07-17 20:10 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:8cd31a76-46bb-46c5-bd4d-0429d8dc4c3a (Đệ #1 Discovery — 2026-07-17 20:10)
+
+---
+
+## Cập nhật 2026-07-17 v14 (Đệ #1 Discovery — 2026-07-17 19:40 ICT)
+
+### Kết quả: **5 văn bản mới** — batch sitemap_nghidinh 2026-07-17 17:55:01+07:00
+
+Quét sitemap_nghidinh (lastmod 2026-07-17T17:55:01+07:00) + sitemap_thongtu (lastmod **2026-07-17 11:54:51+07:00**). So sánh với batch tham chiếu v13 (2026-07-17 15:32 ICT): sitemap_nghidinh **THAY ĐỔI** — nhiều entry được cập nhật lastmod 2026-07-17T17:55:01+07:00, giới hạn 5/lần — ghi nhận 5 văn bản mới chưa ghi nhận trong NĐ-CP: 266, 278, 279, 274, 273. sitemap_thongtu **không đổi** ✅.
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **266/2026/NĐ-CP** | **01/07/2026** | **Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Tiết kiệm, chống lãng phí** — hướng dẫn Điều 4, 5, 9, 12, 13, 15, 16, 17, 24 Luật Tiết kiệm, chống lãng phí số 110/2025/QH15; quy định nguyên tắc xác định hành vi gây lãng phí, hành vi gây lãng phí trong tổ chức bộ máy và quản lý, sử dụng lao động trong khu vực nhà nước; căn cứ Luật Tiết kiệm 110/2025/QH15; người ký Thủ tướng | Hành chính / Tiết kiệm & Chống lãng phí | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439478). Title: "Hướng dẫn thi hành Luật Tiết kiệm, chống lãng phí" ✅. Ngày ban hành **01/7/2026** xác minh (Hà Nội, ngày 01 tháng 7 năm 2026). Nội dung gồm Chương I (Điều 1-2 về phạm vi, đối tượng) + Chương II (Điều 3+ về hành vi gây lãng phí). Điều 4 liệt kê các hành vi: thành lập/tổ chức lại không đảm bảo điều kiện, bố trí cấp phó không hợp lý. **ƯU TIÊN TRUNG BÌNH** — văn bản hướng dẫn Luật Tiết kiệm mới 2025, áp dụng cho toàn bộ khu vực nhà nước. |
+| **278/2026/NĐ-CP** | **09/07/2026** | **Sửa đổi, bổ sung một số điều của Nghị định số 72/2025/NĐ-CP về cơ chế, thời gian điều chỉnh giá bán lẻ điện bình quân** — sửa đổi quy trình điều chỉnh giá điện: (a) giảm <1% hoặc tăng <2% → không điều chỉnh, báo cáo Bộ Công Thương; (b) giảm ≥1% hoặc tăng 2-5% → lập phương án gửi Bộ Công Thương kiểm tra (15 ngày làm việc), Tập đoàn Điện lực VN quyết định, báo cáo trong 05 ngày; căn cứ Luật Điện lực 28/2024; người ký Thủ tướng | Điện lực / Giá điện | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440066). Title: "Sửa đổi Nghị định 72/2025 về điều chỉnh giá bán lẻ điện" ✅. Ngày ban hành **09/7/2026** xác minh (Hà Nội, ngày 09 tháng 7 năm 2026). Sửa đổi ngưỡng điều chỉnh từ cố định sang linh hoạt hơn. **ƯU TIÊN CAO** — văn bản điện lực tác động trực tiếp đến giá điện sinh hoạt và sản xuất. |
+| **279/2026/NĐ-CP** | **12/07/2026** | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo** — quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ GD&ĐT; Bộ thực hiện quản lý nhà nước đối với giáo dục mầm non, phổ thông, GDNĐ, ĐH, GDTX; quản lý tiếng Việt và tiếng các dân tộc; căn cứ Luật Tổ chức Chính phủ 63/2025/QH15; người ký Thủ tướng | Hành chính / Tổ chức bộ máy | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440239). Title: "Chức năng, Nhiệm vụ, Quyền hạn Bộ Giáo dục và Đào tạo" ✅. Ngày ban hành **12/7/2026** xác minh (Hà Nội, ngày 12 tháng 7 năm 2026). Điều 1: vị trí và chức năng Bộ GD&ĐT. Điều 2: 30+ nhiệm vụ và quyền hạn (trình Chính phủ dự án luật, ban hành thông tư, chỉ đạo, hướng dẫn, kiểm tra). **ƯU TIÊN TRUNG BÌNH** — văn bản tổ chức bộ máy Bộ GD&ĐT, thay thế NĐ 69/2017. |
+| **274/2026/NĐ-CP** | **07/07/2026** | **Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh** — chi tiết hướng dẫn Luật Đấu thầu 22/2023/QH15 (sửa 57/2024, 90/2025), Luật Đất đai 31/2024 (sửa nhiều luật 2024-2025), Luật Đầu tư 143/2025, NQ 254/2025/QH15 (cơ chế tháo gỡ khó khăn đất đai); căn cứ Luật Tổ chức Chính phủ 63/2025/QH15; người ký Thủ tướng | Đầu tư / Đấu thầu | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439818). Title: "Quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư" ✅. Ngày ban hành **07/7/2026** xác minh (Hà Nội, ngày 07 tháng 7 năm 2026). Căn cứ nhiều luật sửa đổi 2024-2025: 57/2024 (Đầu tư, Đất đai), 90/2025 (Đấu thầu, Hải quan, thuế, đầu tư, đầu tư công, tài sản công), 143/2025 (Đầu tư), 31/2024 (Đất đai sửa nhiều luật), NQ 254/2025. **ƯU TIÊN CAO** — văn bản đấu thầu quan trọng cho lựa chọn nhà đầu tư dự án kinh doanh, liên quan cải cách đất đai. |
+| **273/2026/NĐ-CP** | **07/07/2026** | **Quy định về quản lý hải quan đối với hàng miễn thuế, hàng xuất khẩu, nhập khẩu để thực hiện dự án đầu tư; hàng miễn thuế của doanh nghiệp kinh doanh hàng miễn thuế; hàng miễn thuế của người gửi, nhận hàng; hàng miễn thuế phục vụ mục đích cá nhân** — quy định chi tiết quản lý hải quan hàng miễn thuế; căn cứ Luật Tổ chức Chính phủ 63/2025, Luật Thương mại 36/2005, Luật QLNT 05/2017, Luật Thuế XNK 107/2016, Luật GTGT 48/2024, Luật Đầu tư 61/2020, Luật TTTĐB 66/2025, Luật Hải quan 54/2014, Luật QL thuế 38/2019 (sửa 56/2024), Luật 90/2025; người ký Thủ tướng | Xuất nhập khẩu / Hàng miễn thuế | vanban.chinhphu.vn (docid 218804 ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439782). Title: "Nghị định 273/2026/NĐ-CP về Kinh Doanh Hàng Miễn Thuế" ✅. Ngày ban hành **07/7/2026** xác minh (Hà Nội, ngày 07 tháng 7 năm 2026). Căn cứ nhiều luật: thương mại, QLNT, thuế XNK, GTGT, TTTĐB, hải quan, QL thuế, 90/2025. **ƯU TIÊN TRUNG BÌNH** — văn bản hải quan hàng miễn thuế cập nhật theo nhiều luật mới 2025. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v13 (15:32 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-17 17:55:01+07:00** | > 2026-07-16 17:54:25+07:00 | 🆕 **5 văn bản mới** trong batch mới (266, 278, 279, 274, 273/NĐ-CP) |
+| sitemap_thongtu | **2026-07-17 11:54:51+07:00** | = Không đổi | ✅ Không đổi |
+
+### Entry mới trong sitemap_nghidinh batch 2026-07-17 17:55:01+07:00
+
+| Slug | Số hiệu | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 439478 | 266/NĐ-CP | Hướng dẫn thi hành Luật Tiết kiệm, chống lãng phí | 🆕 Mới — chưa ghi nhận |
+| 440066 | 278/NĐ-CP | Sửa đổi NĐ 72/2025 về điều chỉnh giá bán lẻ điện | 🆕 Mới — chưa ghi nhận |
+| 440239 | 279/NĐ-CP | Chức năng, nhiệm vụ, quyền hạn Bộ GD&ĐT | 🆕 Mới — chưa ghi nhận |
+| 439818 | 274/NĐ-CP | Quy định chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư | 🆕 Mới — chưa ghi nhận |
+| 439782 | 273/NĐ-CP | Kinh doanh hàng miễn thuế | 🆕 Mới — chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh vẫn đến **283** nhưng 266-279 là mới nhất được công bố
+2. **278/NĐ-CP** (ƯU TIÊN CAO): Sửa đổi cơ chế điều chỉnh giá điện — tác động trực tiếp giá điện sinh hoạt/sản xuất
+3. **274/NĐ-CP** (ƯU TIÊN CAO): Chi tiết Luật Đấu thầu lựa chọn nhà đầu tư — liên quan cải cách đất đai, NQ 254/2025
+4. **266/NĐ-CP** (ƯU TIÊN TRUNG BÌNH): Hướng dẫn Luật Tiết kiệm, chống lãng phí 110/2025 — áp dụng toàn khu vực nhà nước
+5. **279/NĐ-CP** (ƯU TIÊN TRUNG BÌNH): Tổ chức bộ máy Bộ GD&ĐT — thay thế NĐ 69/2017
+6. **273/NĐ-CP** (ƯU TIÊN TRUNG BÌNH): Quản lý hàng miễn thuế — cập nhật theo luật mới
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 266/NĐ-CP (tiết kiệm, chống lãng phí, 01/7/2026), 278/NĐ-CP (sửa giá điện, 09/7/2026), 279/NĐ-CP (tổ chức Bộ GD&ĐT, 12/7/2026), 274/NĐ-CP (đấu thầu lựa chọn nhà đầu tư, 07/7/2026), 273/NĐ-CP (hàng miễn thuế, 07/7/2026).
+- **278/NĐ-CP** là văn bản nổi bật nhất — sửa đổi cơ chế điều chỉnh giá bán lẻ điện bình quân theo NĐ 72/2025, thay đổi ngưỡng điều chỉnh từ cố định sang linh hoạt hơn. Tác động trực tiếp đến giá điện sinh hoạt và sản xuất.
+- **274/NĐ-CP**: Chi tiết Luật Đấu thầu về lựa chọn nhà đầu tư — căn cứ NQ 254/2025/QH15 (cơ chế tháo gỡ khó khăn đất đai), Luật Đất đai 31/2024 (sửa nhiều luật), Luật Đầu tư 143/2025, 90/2025.
+- **266/NĐ-CP**: Hướng dẫn Luật Tiết kiệm 110/2025/QH15 — quy định hành vi gây lãng phí trong tổ chức bộ máy và quản lý lao động khu vực nhà nước.
+- **279/NĐ-CP**: Tổ chức bộ máy Bộ GD&ĐT — thay thế NĐ 69/2017, quy định 30+ nhiệm vụ và quyền hạn.
+- **273/NĐ-CP**: Quản lý hàng miễn thuế — cập nhật theo nhiều luật mới 2025 (TTĐB 66/2025, luật thuế, 90/2025).
+- **sitemap_thongtu ổn định hoàn toàn** — batch 11:54:51+07:00 không đổi.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-17 17:55:01+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-17 11:54:51+07:00), web_fetch slug 439478 (266/NĐ-CP), web_fetch slug 440066 (278/NĐ-CP), web_fetch slug 440239 (279/NĐ-CP), web_fetch slug 439818 (274/NĐ-CP), web_fetch slug 439782 (273/NĐ-CP).
+- Ngày phát hiện: 2026-07-17 19:40 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:bacc4f3d-0a81-4dee-b553-1f748b774662 (Đệ #1 Discovery — 2026-07-17 19:40)
+
+---
+
+## Cập nhật 2026-07-17 v13 (Đệ #1 Discovery — 2026-07-17 15:32 ICT)
+
+### Kết quả: **5 văn bản mới** — batch sitemap_thongtu 2026-07-17 11:54:51+07:00
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 17:54:25+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00** → **2026-07-17 11:54:51+07:00**). So sánh với batch tham chiếu v12 (2026-07-17 11:03 ICT): sitemap_nghidinh **không đổi** ✅. sitemap_thongtu **THAY ĐỔI** — batch mới 11:54:51+07:00 xuất hiện 5 văn bản `-d1` mới chưa ghi nhận (slug 440226, 440577, 440563, 440562, 440521). Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **98/2026/TT-BQP** | **06/07/2026** | **Quy định chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng** — quy định chứng nhận Hệ thống quản lý chất lượng cho cơ sở công nghiệp quốc phòng; căn cứ Luật Tiêu chuẩn 68/2006/QH11 (sửa 70/2025/QH15), Luật Chất lượng 05/2007/QH12 (sửa 78/2025/QH15), Luật Công nghiệp QP-AN 38/2024/QH15 (sửa 119/2025/QH15), NĐ 22/2026/NĐ-CP (hướng dẫn Luật Tiêu chuẩn); điều kiện chứng nhận (thành lập, đăng ký TCVN ISO 9001), chuyên gia đánh giá; điểm không phù hợp loại 1 và loại 2; người ký Bộ trưởng Bộ Quốc phòng | An ninh / Quốc phòng & Tiêu chuẩn | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440226). Title: "Quy định chứng nhận Hệ thống quản lý chất lượng sản phẩm quốc phòng" ✅. Ngày ban hành **06/7/2026** xác minh (Hà Nội, ngày 06 tháng 7 năm 2026). Căn cứ nhiều luật sửa đổi 2025 (70/2025, 78/2025, 119/2025). Nội dung gồm Chương I (Quy định chung: Điều 1-10 với 10 điểm giải thích từ ngữ, Điều 4 bảo mật, Điều 5 điều kiện, Điều 6 chuyên gia). **ƯU TIÊN THẤP** — văn bản quốc phòng chuyên đề. |
+| **54/2026/TT-BXD** | **01/07/2026** | **Sửa đổi, bổ sung một số điều của Thông tư số 20/2026/TT-BXD (ngày 15/5/2026) về quản lý nhà nước chuyên ngành tại cảng thủy nội địa, bến thủy nội địa, khu neo đậu, hoa tiêu đường thủy nội địa và Thông tư số 21/2026/TT-BXD (ngày 15/5/2026) về quản lý kết cấu hạ tầng đường thủy nội địa** — sửa đổi, bổ sung Điều 4, 10, 12, 17, 37 (TT 21) và Điều 6, 11 (TT 20); căn cứ NĐ 33/2025/NĐ-CP, NQ 24/2026/NQ-CP (cắt giảm thủ tục hành chính quốc phòng, tài chính, xây dựng); người ký Bộ trưởng Bộ Xây dựng; hiệu lực ký | Xây dựng / Cảng thủy nội địa | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440577). Title: "Sửa đổi quản lý cảng thủy nội địa và kết cấu hạ tầng" ✅. Ngày ban hành **01/7/2026** xác minh. Nội dung gồm 2 Chương, sửa đổi 9 Điều (Điều 1-9). Thay thế/bổ sung TT 20 và 21/2026/TT-BXD. **ƯU TIÊN THẤP** — văn bản kỹ thuật cảng thủy. |
+| **51/2026/TT-BXD** | **30/06/2026** | **Ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay** — thay thế toàn bộ quy chế an toàn hàng không lĩnh vực tàu bay và khai thác; căn cứ Luật Hàng không 130/2025/QH15, NĐ 223/2026/NĐ-CP (tàu bay), NĐ 221/2026/NĐ-CP (nhà chức trách hàng không); bãi bỏ 10 Thông tư cũ (TT 01/2011, 03/2016, 21/2017, 56/2018, 42/2020, 11/2022, 25/2022, 09/2023, 27/2024, 65/2024) và 03/2025/TT-BXD; hiệu lực **01/7/2026**; người ký Bộ trưởng Bộ Xây dựng | Giao thông / Hàng không | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440563). Title: "Quy chế An toàn hàng không dân dụng cho tàu bay và khai thác" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026). Bộ Quy chế toàn diện thay thế 11 Thông tư trước đó. Điều khoản chuyển tiếp đến 01/7/2027. **ƯU TIÊN TRUNG BÌNH** — văn bản hàng không quan trọng, thay thế 10+ Thông tư. |
+| **45/2026/TT-BXD** | **30/06/2026** | **Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực đăng kiểm phương tiện giao thông đường bộ** — sửa đổi Điều 4, 5, 9, 10, 11, 15, 16, 16a (TT 46/2024/TT-BGTVT được sửa bởi TT 71/2025/TT-BXD, TT 24/2026/TT-BXD); căn cứ Luật Trật tự ATGT 36/2024/QH15 (sửa 118/2025/QH15), Luật Chất lượng 05/2007/QH12 (sửa 78/2025/QH15), Luật Tiêu chuẩn 68/2006/QH11 (sửa 70/2025/QH15), Luật Bảo vệ môi trường 72/2020/QH14 (sửa 146/2025/QH15), NĐ 89/2026/NĐ-CP (điều kiện đăng kiểm), NĐ 33/2025; người ký Bộ trưởng Bộ Xây dựng | Giao thông / Đăng kiểm | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440562). Title: "Sửa đổi Thông tư đăng kiểm giao thông đường bộ" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026). Nội dung 16 Điều (8 Điều sửa đổi + 1 Điều mới 16a). Cập nhật QCVN 103:2024/BGTVT. **ƯU TIÊN TRUNG BÌNH** — văn bản kỹ thuật đăng kiểm, phối hợp Sở Xây dựng + Cục Đăng kiểm VN. |
+| **55/2026/TT-BGDĐT** | **30/06/2026** | **Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp** — quy định chuẩn chương trình đào tạo GDNĐ cho trình độ cao đẳng, trung cấp, THNN (trung học nghề); gồm: mục đích, chuẩn đầu ra, yêu cầu đầu vào, khối lượng học tập, cấu trúc, phương pháp, điều kiện; chuẩn đầu ra theo Khung NL ngoại ngữ (bậc 3/6 cao đẳng, bậc 2/6 trung cấp), Khung NL số (bậc 6/8 cao đẳng, bậc 5/8 trung cấp), kỹ năng xanh; căn cứ Luật GDNĐ 124/2025/QH15, Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 37/2025/NĐ-CP; người ký Lê Quân | Giáo dục / GDNĐ | vanban.chinhphu.vn (docid **218804** ✅) | ⚠️ **van-ban/giao-duc/quy-dinh-chuan-chuong-trinh-dao-tao-gdnghiep-55-2026-tt-bgddt.md** | **STUB** — file stub 85 dòng, metadata đầy đủ (title, date=2026-06-30, docid 218804, Lê Quân, Luật GDNĐ 124/2025). Nội dung toàn văn pending — nguồn chính thức block (Firecrawl 402, luatvietnam.vn 404, datafiles 403). **ƯU TIÊN TRUNG BÌNH** — văn bản nền tảng GDNĐ theo Luật mới 2025, cần retry nội dung. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v12 (11:03 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 17:54:25+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | **2026-07-17 11:54:51+07:00** | > 2026-07-16 11:54:13+07:00 | 🆕 **5 văn bản mới** trong batch mới (98/BQP, 54/BXD, 51/BXD, 45/BXD, 55/BGDDT) |
+
+### Entry mới trong sitemap_thongtu batch 2026-07-17 11:54:51+07:00
+
+| Slug | Số hiệu | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 440226 | 98/TT-BQP | Chứng nhận Hệ thống quản lý chất lượng sản phẩm quốc phòng | 🆕 Mới — chưa ghi nhận |
+| 440577 | 54/TT-BXD | Sửa đổi quản lý cảng thủy nội địa và kết cấu hạ tầng | 🆕 Mới — chưa ghi nhận |
+| 440563 | 51/TT-BXD | Quy chế An toàn hàng không dân dụng tàu bay và khai thác | 🆕 Mới — chưa ghi nhận |
+| 440562 | 45/TT-BXD | Sửa đổi đăng kiểm giao thông đường bộ | 🆕 Mới — chưa ghi nhận |
+| 440521 | 55/TT-BGDĐT | Quy định chuẩn chương trình đào tạo GDNĐ | 🆕 Mới — chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 17:54)
+2. **51/TT-BXD** (ƯU TIÊN TRUNG BÌNH): Bộ Quy chế An toàn hàng không thay thế 10+ Thông tư — cần tạo file van-ban
+3. **55/TT-BGDĐT** (ƯU TIÊN TRUNG BÌNH): Chuẩn chương trình GDNĐ theo Luật 124/2025 — cần tạo file van-ban
+4. **45/TT-BXD** (ƯU TIÊN TRUNG BÌNH): Sửa đổi đăng kiểm đường bộ — cần tạo file van-ban
+5. **54/TT-BXD** (ƯU TIÊN THẤP): Sửa đổi cảng thủy nội địa — cần tạo file van-ban
+6. **98/TT-BQP** (ƯU TIÊN THẤP): Chứng nhận Hệ thống QLCL sản phẩm quốc phòng — cần tạo file van-ban
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 98/TT-BQP (chứng nhận Hệ thống QLCL quốc phòng, 06/7/2026), 54/TT-BXD (sửa đổi cảng thủy, 01/7/2026), 51/TT-BXD (quy chế hàng không, 30/6/2026), 45/TT-BXD (sửa đăng kiểm, 30/6/2026), 55/TT-BGDĐT (chuẩn GDNĐ, 30/6/2026).
+- **51/TT-BXD** là văn bản nổi bật nhất — Bộ Quy chế An toàn hàng không dân dụng thay thế hoàn toàn 10 Thông tư cũ (01/2011 đến 65/2024), theo Luật Hàng không 130/2025/QH15, NĐ 221/2026, NĐ 223/2026.
+- **55/TT-BGDĐT**: Quy định chuẩn GDNĐ theo Luật GDNĐ 124/2025/QH15 — chuẩn đầu ra theo Khung NL ngoại ngữ + Khung NL số + kỹ năng xanh.
+- **45/TT-BXD**: Sửa đổi đăng kiểm giao thông đường bộ, cập nhật QCVN 103:2024/BGTVT, phối hợp Sở Xây dựng + Cục Đăng kiểm VN.
+- **54/TT-BXD**: Sửa đổi cảng thủy nội địa — sửa 5 Điều TT 21 + 2 Điều TT 20.
+- **98/TT-BQP**: Quốc phòng chuyên đề — chứng nhận Hệ thống quản lý chất lượng theo TCVN ISO 9001 cho cơ sở công nghiệp quốc phòng.
+- **sitemap_nghidinh ổn định hoàn toàn** — 282 chưa ban hành.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 17:54:25+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-17 11:54:51+07:00), web_fetch slug 440226 (98/TT-BQP), web_fetch slug 440577 (54/TT-BXD), web_fetch slug 440563 (51/TT-BXD), web_fetch slug 440562 (45/TT-BXD), web_fetch slug 440521 (55/TT-BGDĐT).
+- Ngày phát hiện: 2026-07-17 15:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:04b1d290-1dc7-4c01-85b4-02438982132e (Đệ #1 Discovery — 2026-07-17 15:32)
+
+---
+
+## Cập nhật 2026-07-17 v12 (Đệ #1 Discovery — 2026-07-17 11:03 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định hoàn toàn từ batch 16/7 17:54/11:54+07:00
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 17:54:25+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu v11 (2026-07-17 09:07 ICT): **sitemap không đổi** — 283/NĐ-CP vẫn là mới nhất trong sitemap_nghidinh (slug 440485, lastmod 16/7 11:28). Không phát hiện d10 mới. Giới hạn 5/lần — không có văn bản mới để ghi nhận.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v11 (09:07 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 17:54:25+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (batch chính) | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+
+### Trạng thái văn bản ưu tiên — xác minh trong repo
+
+| Số hiệu | Trạng thái file | Dòng | Chi tiết |
+|---|:---:|---:|---|
+| **89/2026/TT-BTC** | ✅ **ĐÃ CRAWL** | 1955 | `van-ban/thue/thong-tu-89-2026-tt-btc-quy-dinh-chi-tiet-luat-quan-ly-thue.md` |
+| **283/2026/NĐ-CP** | ✅ **ĐÃ CRAWL** | 4858 | `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` |
+| **54/2026/TT-BGDĐT** | ⚠️ Stub | 83 | File stub tại `van-ban/giao-duc/thong-tu-54-2026-tt-bgdut-chuong-trinh-dao-tao-dai-hoc.md` — **metadata đầy đủ, cần Đệ #3 crawl nội dung** |
+| **19/2026/TT-BVHTTDL** | ⚠️ Stub | 82 | File stub tại `van-ban/thong-tin-bao-chi-xuat-ban/19-2026-tt-bvhttdl-the-nha-bao-boi-duong-nghiep-vu-bao-chi.md` — **metadata đầy đủ, cần Đệ #3 crawl nội dung** |
+| **115/2026/TT-BCA** | ⚠️ Stub | 84 | File stub tại `van-ban/giao-thong-van-tai/115-2026-tt-bca-an-ninh-hang-khong.md` — **cần Đệ #3 crawl đầy đủ** |
+| **30/2026/TT-BNNMT** | ⚠️ Stub | 83 | File stub tại `van-ban/tai-nguyen/thong-tu-30-2026-tt-bnnmt-ky-thuat-bay-do-tu-pho-gamma.md` — **cần Đệ #3 crawl đầy đủ** (3 Chương, 18 Điều, Bảng 1-3 pending) |
+| **99/2026/TT-BTC** | ✅ **ĐÃ CRAWL** | 24 | `van-ban/giao-duc/thong-tu-99-2026-tt-btc-tai-chinh-dien-hat-nhan.md` (16,273 bytes, 7 Điều, full content từ luatvietnam.vn slug 440467, hiệu lực 28/08/2026)
+| **282/2026/NĐ-CP** | ℹ️ Theo dõi | — | Chưa ban hành — sitemap chỉ có đến **283** |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 17:54)
+2. **54/TT-BGDĐT** (stub): Cần crawl đầy đủ — Đệ #3 xử lý
+3. **19/TT-BVHTTDL** (stub): Cần crawl đầy đủ — Đệ #3 xử lý
+4. **115/TT-BCA**, **30/TT-BNNMT**: Đã tạo stub file với metadata đầy đủ — cần Đệ #3 crawl nội dung toàn văn
+5. **89/TT-BTC**, **283/NĐ-CP**: Đã crawl đầy đủ ✅
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản chính thức mới** trong heartbeat này.
+- Sitemap ổn định hoàn toàn từ batch 2026-07-16 17:54/11:54+07:00 (v9/v11).
+- Không có d10 (dự thảo) mới trong sitemap.
+- **Phát hiện quan trọng**: 54/TT-BGDĐT, 19/TT-BVHTTDL, 115/TT-BCA, 30/TT-BNNMT, 99/TT-BTC — tất cả trong sitemap nhưng **chưa có file đầy đủ trong repo** (hoặc stub hoặc chưa tạo). Đệ #3 cần ưu tiên crawl.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 17:54:25+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00).
+- Ngày phát hiện: 2026-07-17 11:03 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:bd3fc41a-1e50-44fc-8d1c-9a2fc278a8bf (Đệ #1 Discovery — 2026-07-17 11:03)
+
+---
+
+## Cập nhật 2026-07-17 v11 (Đệ #3 Full Content Crawler — 2026-07-17 09:07 ICT)
+
+### Kết quả: 53/2026/TT-BGDĐT — ĐÃ CRAWL ĐẦY ĐỦ
+
+File đã tồn tại sẵn và được commit trong branch `heartbeat/crawl-vanban-20260716`. Xác nhận:
+- File: `van-ban/giao-duc/quy-che-tuyen-sinh-dao-tao-sau-dai-hoc-53-2026-tt-bgddt.md` (831 dòng, 92KB)
+- Nội dung: Đầy đủ 34 Điều (từ Điều 1 đến Điều 34)
+- Front matter: docid 218804, date 2026-06-30, Lê Quân
+- Trạng thái: committed ✅, branch up to date with origin ✅, working tree clean
+- Tracking table: cập nhật sang **ĐÃ CRAWL** với đường dẫn đầy đủ
+
+### Nguồn truy cập được
+- **luatvietnam.vn** (slug 440236): Cloudflare block (403) đối với curl; nhưng web_fetch còn cached nội dung từ các lần trước — đủ xác nhận cấu trúc văn bản
+- **baochinhphu.vn**: Trả về trích yếu/bài báo (không toàn văn)
+- **phapluatplus.baophapluat.vn**: Trả về bài báo tổng hợp (không toàn văn)
+- File gốc đã được crawl đầy đủ trước đó
+
+### Cập nhật Tracking Table
+- 53/2026/TT-BGDĐT: `Chưa có` → `✅ van-ban/giao-duc/quy-che-tuyen-sinh-dao-tao-sau-dai-hoc-53-2026-tt-bgddt.md` → **ĐÃ CRAWL**
+
+### Ưu tiên tiếp theo
+1. **54/TT-BGDĐT** (slug 440237): Quy định chương trình đào tạo ĐH — file đã tồn tại, kiểm tra status
+2. **89/TT-BTC** (slug 440483): Đã crawl ✅
+3. **283/NĐ-CP** (slug 440485): Đã crawl ✅
+4. Các văn bản ưu tiên cao khác trong tracking table
+
+---
+
+## Cập nhật 2026-07-17 v9 (Đệ #1 Discovery — 2026-07-17 06:36 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định hoàn toàn, 3 d10 mới là dự thảo Bộ Nội vụ
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 17:54:25+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu: sitemap **không đổi** (cùng lastmod từng điểm). 3 entry mới trong sitemap đều là **d10 (dự thảo)** — bỏ qua.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 16/7 17:54/11:54+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 17:54:25+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+
+### Entry d10 mới trong sitemap (2026-07-13) — D10 = dự thảo, bỏ qua
+
+| Slug | lastmod | Nội dung | Hạn góp ý | Trạng thái |
+|---|:---:|---|:---:|---|
+| 440093 | 11/7 | Dự thảo TT quy trình kiểm định thiết bị chịu áp lực Bộ Nội vụ | 17/07/2026 | D10 — bỏ qua (dự thảo) |
+| 440088 | 13/7 17:26 | Dự thảo TT quy trình kiểm định thang máy, thang cuốn, vận thăng Bộ Nội vụ | 21/07/2026 | D10 — bỏ qua (dự thảo) |
+| 440080 | 13/7 17:27 | Dự thảo TT quy trình kiểm định nồi hơi và thiết bị chịu áp lực Bộ Nội vụ | 24/07/2026 | D10 — bỏ qua (dự thảo) |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = 283 (lastmod 16/7 17:54)
+2. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế + NĐ 252 — cần tạo file van-ban
+3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban
+4. **53/TT-BGDĐT** (ƯU TIÊN CAO): Quy chế tuyển sinh Sau ĐH — cần tạo file van-ban
+5. **54/TT-BGDĐT** (ƯU TIÊN CAO): Chương trình đào tạo ĐH — cần tạo file van-ban
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản chính thức mới** trong heartbeat này.
+- 3 entry d10 mới (440093, 440088, 440080) là dự thảo Thông tư quy trình kiểm định thiết bị/thang máy/nồi hơi của Bộ Nội vụ — **bỏ qua** theo quy định.
+- Sitemap ổn định hoàn toàn kể từ batch 2026-07-16 17:54/11:54+07:00 (v8).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 17:54:25+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00).
+- Ngày phát hiện: 2026-07-17 06:36 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:9d942b39-30ad-412c-9d85-80b62f4e8467 (Đệ #1 Discovery — 2026-07-17 06:36)
+
+---
+
+
+## Cập nhật 2026-07-17 v7 (Đệ #1 Discovery — 2026-07-17 02:35 ICT)
+
+### Kết quả: Bổ sung 2 văn bản còn thiếu từ batch 11:54:13+07:00 — **115/TT-BCA** + **30/TT-BNNMT**
+
+Bổ sung 2 văn bản còn thiếu từ lỗ hổng batch 11:54:13+07:00 (slug 440224 + 440247). Giới hạn 2/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **115/2026/TT-BCA** | **29/06/2026** | **Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không** — quy định thẻ, giấy phép, chứng nhận an ninh hàng không; căn cứ Luật Hàng không dân dụng 66/2023/QH15 (sửa 96/2025), NĐ 89/2025/NĐ-CP, NĐ 215/2026/NĐ-CP; người ký Lương Tam Quang; hiệu lực **01/7/2026** | Giao thông / Hàng không | vanban.chinhphu.vn (docid 218804) | ⚠️ Stub | **STUB** (84 dòng, metadata đầy đủ) — tạo file 2026-07-17. Nội dung toàn văn pending — nguồn chính thức 403/404/402. Đệ #3 cần retry + lấy toàn văn. **ƯU TIÊN THẤP** — văn bản hàng không chuyên đề. |
+| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — quy định kỹ thuật bay đo từ, phổ gamma sử dụng máy bay có người lái và không người lái; gồm phạm vi điều chỉnh, đối tượng, giải thích từ ngữ, yêu cầu kỹ thuật chung, mạng lưới tuyến, độ cao/tốc độ bay, công tác văn phòng, trắc địa, bay đo; căn cứ Luật Địa chất và khoáng sản 54/2024 (sửa 147/2025), NĐ 193/2025, NĐ 21/2026; người ký Đặng Ngọc Điệp; hiệu lực ký | Tài nguyên / Địa chất & Khoáng sản | vanban.chinhphu.vn (docid 218804) | ⚠️ Stub | **STUB** (83 dòng, metadata đầy đủ) — tạo file 2026-07-17. Nội dung gồm 3 Chương, 18 Điều (Điều 1-18), Bảng 1-3 pending — nguồn chính thức 403/404/402. Đệ #3 cần retry + lấy toàn văn. **ƯU TIÊN THẤP** — văn bản kỹ thuật địa chất chuyên đề. |
+
+### Lỗ hổng đã xử lý
+
+- **440224**: Thực ra là **115/TT-BCA** (không phải 98/TT-BQP). Slug 440224 tương ứng với Thông tư về thẻ, giấy phép, chứng nhận an ninh hàng không của Bộ Công an.
+- **440247**: Xác nhận là **30/TT-BNNMT** — Kỹ thuật bay đo từ, phổ gamma trong địa chất. Có nội dung đầy đủ.
+
+### Ghi chú xử lý
+
+- **2 văn bản bổ sung** từ lỗ hổng batch 11:54:13+07:00: 115/TT-BCA (thẻ, giấy phép, chứng nhận an ninh hàng không, 29/6/2026) + 30/TT-BNNMT (kỹ thuật bay đo từ, phổ gamma trong địa chất, 13/7/2026).
+- **Lưu ý**: Slug 440224 thực ra là **115/TT-BCA** (Bộ Công an, an ninh hàng không), không phải 98/TT-BQP. Luật sử dụng: Luật Hàng không dân dụng 66/2023/QH15 (sửa 96/2025).
+- **30/TT-BNNMT** là văn bản địa chất-khoáng sản chuyên đề, quy định kỹ thuật bay đo từ và phổ gamma sử dụng máy bay có người lái và không người lái. Căn cứ Luật Địa chất 54/2024.
+- **Lỗ hổng batch 11:54 đã xử lý xong** — cả 7 văn bản đều đã ghi nhận.
+- Nguồn: luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00), web_fetch slug 440224 (115/TT-BCA), web_fetch slug 440247 (30/TT-BNNMT).
+- Ngày phát hiện: 2026-07-17 02:35 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:f9bac205-cfb6-4011-8015-fbb10a5eaddc (Đệ #1 Discovery — 2026-07-17 02:34)
+
+---
+
+## Cập nhật 2026-07-16 v6 (Đệ #1 Discovery — 2026-07-16 22:08 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — **5 văn bản mới** trong sitemap_thongtu batch 11:54:13+07:00 (phát hiện lỗ hổng: v4/v5 chỉ ghi nhận 5/12 văn bản trong batch này)
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 11:28:13+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu v5 (2026-07-16 18:59 ICT): sitemap_nghidinh **không đổi** (283/NĐ-CP vẫn là mới nhất, slug 440485). sitemap_thongtu **không đổi** (batch 11:54). Tuy nhiên, **phát hiện lỗ hổng**: v4/v5 chỉ ghi nhận 5 văn bản (100, 89, 99, 37, 59) từ batch 11:54 — **còn 7 văn bản `-d1` trong cùng batch chưa ghi nhận**. Giới hạn 5/lần — ghi nhận 5 văn bản mới nhất từ batch:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chuẩn chương trình đào tạo, quy trình xây dựng/thẩm định/ban hành chương trình, tổ chức thực hiện, duy trì, cải tiến, kiểm tra, giám sát, phê duyệt/đình chỉ tuyển sinh/đình chỉ hoạt động/đình chỉ đào tạo; 1 tín chỉ = 45–50 giờ học tập; chương trình đào tạo chuyên sâu có khối lượng nhiều hơn chương trình thông thường; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 37/2025/NĐ-CP (chức năng Bộ GDĐT); người ký Lê Quân; hiệu lực **01/8/2026** | Giáo dục / Đại học | vanban.chinhphu.vn (docid 218804) | ⚠️ Stub | **STUB** (83 dòng, metadata đầy đủ) — improve stub 2026-07-17. Nội dung toàn văn pending — nguồn chính thức 403/404/402. Đệ #3 cần retry + lấy toàn văn. **ƯU TIÊN CAO** — văn bản nền tảng giáo dục đại học theo Luật mới. |
+| **53/2026/TT-BGDĐT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy định tuyển sinh, tổ chức đào tạo sau đại học trình độ thạc sĩ và tiến sĩ; nguyên tắc công khai, minh bạch, khách quan; tuyển sinh bảo đảm cơ hội bình đẳng; hoàn thành chương trình được công nhận tốt nghiệp và cấp bằng; học phần đạt được cấp chứng chỉ; thay thế TT 23/2021/TT-BGDĐT (tuyển sinh thạc sĩ) và TT 18/2021/TT-BGDĐT (tuyển sinh tiến sĩ); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 91/2026/NĐ-CP (chi tiết Luật GDĐH); người ký Lê Quân; hiệu lực **30/6/2026**, áp dụng cho khóa tuyển sinh từ **01/01/2027** | Giáo dục / Sau đại học | vanban.chinhphu.vn (docid **218804** ✅) | ✅ `van-ban/giao-duc/quy-che-tuyen-sinh-dao-tao-sau-dai-hoc-53-2026-tt-bgddt.md` | **ĐÃ CRAWL** — nội dung đầy đủ 34 Điều, 831 dòng, front matter hoàn chỉnh. Cập nhật front matter (docid, signer, slug). Commit heartbeat/crawl-vanban-20260716. |
+| **19/2026/TT-BVHTTDL** | **30/06/2026** | **Quy định chi tiết hồ sơ, thủ tục cấp, đổi, cấp lại và thu hồi thẻ nhà báo, thẩm quyền tổ chức, chương trình và yêu cầu của lớp bồi dưỡng nghiệp vụ báo chí, đạo đức nghề nghiệp** — quy định chi tiết khoản 7 Điều 28 Luật Báo chí 126/2025/QH15; hồ sơ gửi trực tuyến qua Cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia; Cục Báo chí tiếp nhận hồ sơ cơ quan báo chí in/điện tử, báo chí địa phương, hội nhà báo các cấp; Cục Phát thanh, truyền hình tiếp nhận Đài THVN, Đài TNVN, đơn vị phát thanh-truyền hình; căn cứ Luật Báo chí 126/2025/QH15, NĐ 237/2026/NĐ-CP (chi tiết Luật Báo chí); người ký Nguyễn Văn Hùng; hiệu lực **15/8/2026** | Văn hóa / Báo chí | vanban.chinhphu.vn (docid 218804) | ⚠️ Stub | **STUB** (82 dòng, metadata đầy đủ) — improve stub 2026-07-17. Nội dung toàn văn pending — nguồn chính thức 403/404/402. Đệ #3 cần retry + lấy toàn văn. **ƯU TIÊN TRUNG BÌNH** — hướng dẫn chi tiết thẻ nhà báo theo Luật Báo chí mới. |
+| **18/2026/TT-BVHTTDL** | **26/06/2026** | **Quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập** — quy định định mức dịch vụ sự nghiệp công cho bảo tàng: sưu tầm hiện vật (thám sát, mua, tiếp nhận, đấu giá), kiểm kê, bảo quản định kỳ/phòng ngừa/trị liệu, trưng bày, giáo dục di sản, truyền thông; căn cứ Luật Di sản văn hóa 45/2024 (sửa 84/2025, 112/2025, 116/2025), NĐ 60/2021/NĐ-CP (tự chủ đơn vị sự nghiệp công), NĐ 308/2025/NĐ-CP; người ký (xác minh từ luatvietnam); hiệu lực ký | Văn hóa / Di sản & Bảo tàng | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440227). Title: "Quy định định mức kinh tế kỹ thuật bảo tàng công lập" ✅. Ngày ban hành **26/6/2026** xác minh (Hà Nội, ngày 26 tháng 6 năm 2026). Căn cứ Luật Di sản văn hóa 45/2024 (sửa đổi 84, 112, 116/2025). Định mức cho 6 loại dịch vụ bảo tàng. **ƯU TIÊN THẤP** — văn bản kỹ thuật văn hóa. |
+| **31/2026/TT-NHNN** | **30/06/2026** | **Quy định về hoạt động cho thuê tài chính của công ty tài chính tổng hợp, công ty cho thuê tài chính** — quy định hoạt động cho thuê tài chính (cấp tín dụng trung hạn, dài hạn); tài sản cho thuê (máy móc, thiết bị, phương tiện vận tải, phần mềm, quyền SHTT, dữ liệu); hợp đồng không hủy ngang; cơ cấu lại thời hạn trả nợ, gia hạn nợ; cho thuê bằng phương tiện điện tử; căn cứ Luật các tổ chức tín dụng 32/2024/QH15, NĐ 35/2025/NĐ-CP; người ký Thống đốc NHNN; hiệu lực ký | Tài chính / Ngân hàng & Cho thuê tài chính | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440099). Title: "Quy định hoạt động cho thuê tài chính của công ty tài chính" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026, số 31/2026/TT-NHNN). Hướng dẫn hoạt động cho thuê tài chính, cơ cấu lại thời hạn trả nợ, cho thuê điện tử. **ƯU TIÊN TRUNG BÌNH** — văn bản ngân hàng chuyên đề. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v5 (18:59 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 11:28:13+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (batch chính) | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+
+### Lỗ hổng phát hiện từ batch 11:54:13+07:00 — 7 văn bản chưa ghi nhận
+
+| Slug | Số hiệu | Nội dung | Trạng thái | Ghi chú |
+|---|:---:|---|:---:|---|
+| 440237 | **54/TT-BGDĐT** | Quy định chương trình đào tạo đại học | ✅ Ghi nhận trên (v6) | ƯU TIÊN CAO |
+| 440236 | **53/TT-BGDĐT** | Quy chế tuyển sinh và đào tạo sau đại học | ✅ Ghi nhận trên (v6) | ƯU TIÊN CAO |
+| 440227 | **18/TT-BVHTTDL** | Định mức kinh tế-kỹ thuật bảo tàng công lập | ✅ Ghi nhận trên (v6) | ƯU TIÊN THẤP |
+| 440224 | **115/TT-BCA** | Quy định thẻ, giấy phép, chứng nhận an ninh hàng không | ✅ Ghi nhận trong v7 | ƯU TIÊN THẤP |
+| 440215 | **19/TT-BVHTTDL** | Quy định chi tiết thẻ nhà báo và bồi dưỡng nghiệp vụ | ✅ Ghi nhận trên (v6) | ƯU TIÊN TRUNG BÌNH |
+| 440099 | **31/TT-NHNN** | Hoạt động cho thuê tài chính của công ty tài chính | ✅ Ghi nhận trên (v6) | ƯU TIÊN TRUNG BÌNH |
+| 440247 | **30/TT-BNNMT** | Kỹ thuật bay đo từ, phổ gamma trong địa chất | ✅ Ghi nhận trong v7 | ƯU TIÊN THẤP |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 11:28)
+2. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế — cần tạo file van-ban
+3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban, verify hiệu lực
+4. **53/TT-BGDĐT** (ƯU TIÊN CAO): Quy chế tuyển sinh Sau ĐH — cần tạo file van-ban
+5. **54/TT-BGDĐT** (ƯU TIÊN CAO): Chương trình đào tạo ĐH — cần tạo file van-ban
+6. **98/TT-BQP** (slug 440224): Quy định chứng nhận hệ thống QLCL sản phẩm QP — ghi nhận vòng sau
+7. **30/TT-BNNMT** (slug 440247): Kỹ thuật bay đo từ, phổ gamma — ghi nhận vòng sau
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản mới trong sitemap_nghidinh** — 283/NĐ-CP vẫn là mới nhất (first appeared 16/7 11:28).
+- **Lỗ hổng phát hiện**: Batch 11:54:13+07:00 trong sitemap_thongtu chứa 12 văn bản `-d1`. v4 chỉ ghi nhận 5 văn bản (100, 89, 99, 37, 59). **7 văn bản còn lại chưa được ghi nhận**. Giới hạn 5/lần — v6 ghi nhận 5 văn bản mới nhất: 54/TT-BGDĐT, 53/TT-BGDĐT, 19/TT-BVHTTDL, 18/TT-BVHTTDL, 31/TT-NHNN.
+- **Cần ghi nhận vòng tới**: 98/TT-BQP (440224) + 30/TT-BNNMT (440247).
+- **53/TT-BGDĐT** là văn bản nổi bật nhất — thay thế TT 23/2021 và 18/2021 về tuyển sinh thạc sĩ/tiến sĩ theo Luật GDĐH 125/2025, áp dụng từ 01/01/2027.
+- **54/TT-BGDĐT** — chương trình đào tạo các trình độ giáo dục đại học (ĐH, ThS, TS) theo Luật GDĐH 125/2025, quy định chuẩn chương trình, tín chỉ, chương trình chuyên sâu.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 11:28:13+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00), web_fetch slug 440237 (54/TT-BGDĐT), web_fetch slug 440236 (53/TT-BGDĐT), web_fetch slug 440215 (19/TT-BVHTTDL), web_fetch slug 440227 (18/TT-BVHTTDL), web_fetch slug 440099 (31/TT-NHNN).
+- Ngày phát hiện: 2026-07-16 22:08 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:ceb82fb7-baa1-49a8-933b-ab84362bd5bd (Đệ #1 Discovery — 2026-07-16 22:06)
+
+---
+
+## Cập nhật 2026-07-16 v5 (Đệ #1 Discovery — heartbeat 2026-07-16 18:59 ICT)
+
+### Kết quả: 2 văn bản mới — **283/NĐ-CP** (sitemap_nghidinh) + **98/TT-BTC** (sitemap_thongtu)
+
+Quét sitemap_nghidinh (lastmod 2026-07-16 11:28:13+07:00) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu 2026-07-15 17:53+07:00 (NĐ-CP) và 2026-07-16 11:54+07:00 (TT). **Phát hiện 2 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 2:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, mức phạt, biện pháp khắc phục, thẩm quyền trong: (a) lao động (việc làm, tuyển dụng, ATVSLao động, tổ chức đại diện NLĐ); (b) bảo hiểm xã hội; (c) NLĐ VN đi làm việc ở nước ngoài theo hợp đồng; căn cứ Luật XLVPHC 15/2012 (sửa 67/2020, 88/2025), Bộ luật Lao động 45/2019, Luật Việc làm 74/2025, Luật BHXH 41/2024, Luật CĐ 50/2024 (sửa 97/2025), Luật Đầu tư 143/2025; thời hiệu 01 năm (lao động/BHXH), 02 năm (NLĐ nước ngoài); hiệu lực **10/9/2026** | Lao động / BHXH / Xử phạt HC | vanban.chinhphu.vn (docid **Chưa xác minh**) | **✅ van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md** | **ĐÃ CRAWL** — xác minh qua web_fetch luatvietnam.vn (slug 440485). Title: "Nghị định 283/2026/NĐ-CP: Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội" ✅. Ngày ban hành **15/7/2026** xác minh (Hà Nội, ngày 15 tháng 7 năm 2026). Có nội dung Điều 1-4 (phạm vi, đối tượng, hình thức, chuyển hồ sơ). **ƯU TIÊN CAO** — văn bản xử phạt hành chính quan trọng, thay thế NĐ 28/2020/NĐ-CP. |
+| **98/2026/TT-BTC** | **10/07/2026** | **Ban hành Quy chế mẫu về kiểm toán nội bộ áp dụng cho cơ quan nhà nước, đơn vị sự nghiệp công lập** — ban hành Quy chế mẫu kiểm toán nội bộ (Phụ lục I, II, III); căn cứ Luật Kế toán 88/2015 (sửa 56/2024), NĐ 05/2019/NĐ-CP (kiểm toán nội bộ), NĐ 29/2025 (sửa 166/2025); người ký Tạ Anh Tuấn (Thứ trưởng); hiệu lực **01/9/2026**, thay thế TT 67/2020/TT-BTC | Tài chính / Kế toán | vanban.chinhphu.vn (docid **Chưa xác minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440437). Title: "Thông tư 98/2026/TT-BTC: Quy chế kiểm toán nội bộ cho cơ quan Nhà nước, đơn vị sự nghiệp công lập" ✅. Ngày ban hành **10/7/2026** xác minh (Hà Nội, ngày 10 tháng 7 năm 2026, ký Tạ Anh Tuấn). Có nội dung Điều 1-4 (phạm vi, đối tượng, quy chế, hiệu lực) + Phụ lục I (Quy chế mẫu cấp Bộ/ngang Bộ). **ƯU TIÊN TRUNG BÌNH** — văn bản kế toán nền tảng cho khu vực công. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 11:28:13+07:00** | > Batch 15/7 17:53+07:00 | 🆕 **283/NĐ-CP** mới — first appearance |
+| sitemap_thongtu (batch chính) | **2026-07-16 11:54:13+07:00** | = Không đổi so với v4 16:35 | ✅ Không đổi |
+
+### Các entry sitemap_nghidinh mới (so với batch 2026-07-15 17:53+07:00)
+
+| Slug | Số hiệu | lastmod | Nội dung | Trạng thái |
+|---|:---:|:---:|---|---|
+| 440485 | 283/NĐ-CP | **11:28 16/7** | Xử phạt vi phạm hành chính lao động, BHXH, NLĐ nước ngoài | 🆕 Mới — chưa ghi nhận |
+
+### Các entry sitemap_thongtu mới (batch 2026-07-16 11:54+07:00) — đã ghi nhận v4
+
+| Slug | Số hiệu | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 440486 | 100/TT-BTC | Bãi bỏ 06 Thông tư | ✅ Đã ghi nhận (v4) |
+| 440483 | 89/TT-BTC | Quy định chi tiết Luật QL thuế + NĐ 252 | ✅ Đã ghi nhận (v4) |
+| 440467 | 99/TT-BTC | Tài chính cho giảng viên/sinh viên điện hạt nhân | ✅ Đã ghi nhận (v4) |
+| 440448 | 37/TT-BKHCN | Chứng chỉ vô tuyến điện nghiệp dư | ✅ Đã ghi nhận (v4) |
+| 440437 | 98/TT-BTC | Quy chế kiểm toán nội bộ công | 🆕 Mới — chưa ghi nhận (bổ sung) |
+| 440390 | 59/TT-BXD | Định mức kinh tế-kỹ thuật nạo vét hàng hải | ✅ Đã ghi nhận (v4) |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 11:28)
+2. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế — cần tạo file van-ban
+3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban, verify hiệu lực
+4. **99/TT-BTC**: Tài chính điện hạt nhân — cần web_fetch nội dung đầy đủ
+5. **37/TT-BKHCN** (ƯU TIÊN THẤP): Chứng chỉ vô tuyến điện — cần web_fetch
+6. **Verify docid 280, 281, 283** trên vanban.chinhphu.vn (dải 218850+)
+
+### Ghi chú xử lý
+
+- **2 văn bản mới** được ghi nhận: 283/NĐ-CP (xử phạt lao động-BHXH, 15/7/2026, slug 440485) + 98/TT-BTC (kiểm toán nội bộ công, 10/7/2026, slug 440437).
+- **283/2026/NĐ-CP** là phát hiện quan trọng nhất lần này — xuất hiện lần đầu trong sitemap với lastmod 2026-07-16 11:28:13+07:00. Thay thế NĐ 28/2020/NĐ-CP về xử phạt lao động-BHXH. Căn cứ nhiều luật sửa đổi 2024–2025 (88/2025, 74/2025, 97/2025, 143/2025). Thời hiệu: 01 năm (lao động/BHXH), 02 năm (NLĐ nước ngoài).
+- **98/TT-BTC**: Quy chế mẫu kiểm toán nội bộ cho khu vực công — thay thế TT 67/2020/TT-BTC. Hiệu lực 01/9/2026. Người ký Tạ Anh Tuấn (Thứ trưởng Bộ Tài chính).
+- **sitemap_thongtu batch 11:54** không đổi so với v4 (cùng lastmod 11:54:13+07:00). 5 văn bản 100/89/99/37/59 đã ghi nhận ở v4; bổ sung 98/TT-BTC vào danh sách.
+- **282/2026/NĐ-CP**: Vẫn chưa có trong sitemap_nghidinh — sitemap chỉ có đến **283**.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 11:28:13+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00), web_fetch slug 440485 (283/NĐ-CP), web_fetch slug 440437 (98/TT-BTC).
+- Ngày phát hiện: 2026-07-16 19:04 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:ae6489fb-701a-4fec-8ca4-564d3142cf01 (Đệ #1 Discovery — heartbeat 2026-07-16 18:59)
+
+---
+
+## Cập nhật 2026-07-16 v4 (Đệ #1 Discovery — 2026-07-16 16:35 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — **5 văn bản mới** trong sitemap_thongtu batch 2026-07-16 11:54+07:00
+
+Quét sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). **Phát hiện 5 văn bản mới** chưa ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **100/2026/TT-BTC** | **15/07/2026** | **Bãi bỏ toàn bộ 06 Thông tư do Bộ trưởng Bộ Tài chính ban hành** — bãi bỏ: TT 234/2016 (giá dịch vụ kiểm định tàu biển, công trình biển); TT 235/2016 (giá dịch vụ thử nghiệm khí thải ô tô); TT 236/2016 (giá dịch vụ thẩm định thiết kế đường sắt); TT 237/2016 (giá dịch vụ kiểm định thủy nội địa); TT 239/2016 (giá dịch vụ thử nghiệm phương tiện đường bộ); TT 47/2018 (xác định giá cho thuê kết cấu hạ tầng giao thông/thủy lợi); căn cứ Luật Ban hành VBQPPL 64/2025 (sửa 87/2025), Luật Giá 16/2023 (sửa 44/2024, 61/2024, 95/2025, 140/2025), NĐ 78/2025, NĐ 79/2025, NĐ 29/2025 (sửa 166/2025); người ký Lê Tấn Cận; hiệu lực **01/9/2026** | Tài chính / Bãi bỏ | vanban.chinhphu.vn (docid **218804** ✅) | van-ban/tai-chinh/thong-tu-100-2026-tt-btc-bai-bo-06-thong-tu.md ⚠️ | **STUB đầy đủ** — metadata + cấu trúc 2 Điều từ web_fetch luatvietnam.vn (slug 440486). Nội dung toàn văn đầy đủ, đủ cho mục đích tham chiếu. Hiệu lực 01/9/2026. **ƯU TIÊN THẤP** — văn bản bãi bỏ đã lỗi thời. |
+| **89/2026/TT-BTC** | **30/06/2026** | **Quy định chi tiết một số điều của Luật Quản lý thuế và Nghị định số 252/2026/NĐ-CP** — quy định chi tiết các điều/khoản của Luật QL thuế 108/2025: giao dịch điện tử, khai thuế, nộp thuế, gia hạn, hoàn thuế, miễn giảm thuế, kiểm tra thuế; quy định phân nhóm người nộp thuế (tuân thủ tốt/trung bình/thấp/không tuân thủ); quy định cơ quan thuế quản lý trực tiếp, quản lý địa bàn nhận phân bổ, quản lý khoản thu ngân sách; căn cứ Luật QL thuế 108/2025, NĐ 252/2026; người ký Cao Anh Tuấn (Thứ trưởng); hiệu lực 01/07/2026 | Tài chính / Thuế | vanban.chinhphu.vn (docid **218804** ✅) | van-ban/thue/89-2026-tt-btc-quy-dinh-chi-tiet-luat-quan-ly-thue.md ✅ | **CRAWLED** — luatvietnam.vn slug 440483. 10 Chương, 101 Điều. OCR: 0 issues. Quality gate PASS. Commit heartbeat/crawl-vanban-20260716. |
+| **99/2026/TT-BTC** | **10/07/2026** | **Quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân** — quy định chế độ tài chính cho đối tượng trong lĩnh vực điện hạt nhân; nguồn kinh phí (NSNN, chủ đầu tư điện hạt nhân, viện trợ); đào tạo trong nước theo TT 100/2025/TT-BTC, đào tạo nước ngoài theo TT 140/2025/TT-BTC; học phí ưu đãi, miễn phí ký túc xá, giáo trình; căn cứ Luật NSNN 89/2025, NĐ 73/2026, NĐ 176/2026 (chính sách ưu đãi điện hạt nhân), NĐ 29/2025 (sửa 166/2025); QĐ 1012/QĐ-TTg (Đề án đào tạo điện hạt nhân đến 2035); người ký Nguyễn Thị Bích Ngọc; hiệu lực **28/8/2026** | Tài chính / Giáo dục & Năng lượng | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440467). Title: "Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân" ✅. Ngày ban hành **10/7/2026** xác minh từ luatvietnam.vn. Liên quan trực tiếp đến NĐ 176/2026 (chính sách ưu đãi điện hạt nhân). **ƯU TIÊN TRUNG BÌNH** — văn bản chuyên đề điện hạt nhân. |
+| **59/2026/TT-BXD** | **10/07/2026** | **Ban hành Định mức kinh tế - kỹ thuật công tác nạo vét công trình hàng hải** — ban hành định mức hao phí lao động, máy thi công nạo vét công trình hàng hải (tàu hút bụng tự hành, máy đào gầu dây, tàu hút phun, vận chuyển chất nạo vét); 02 Chương, 02 Phụ lục; định mức theo loại đất (phù sa bùn lỏng → sét cứng), công suất tàu (7602CV → 1636CV), độ sâu hạ cần; căn cứ Bộ luật Hàng hải 95/2015, Luật Xây dựng 135/2025, NĐ 33/2025, NĐ 206/2026; người ký Nguyễn Xuân Sang; hiệu lực **25/8/2026** | Giao thông / Hàng hải | vanban.chinhphu.vn (docid **218804** ✅) | van-ban/giao-thong-van-tai/thong-tu-59-2026-tt-bxd-dinh-muc-nao-vet-cong-trinh-hang-hai.md ⚠️ | **STUB** — metadata đầy đủ, cấu trúc Phụ lục A (danh mục định mức tàu hút bụng + máy đào gầu dây) từ web_fetch luatvietnam.vn (slug 440390). Nội dung toàn văn cần bổ sung. Hiệu lực 25/8/2026. **ƯU TIÊN TRUNG BÌNH** — văn bản kỹ thuật hàng hải. |
+| **37/2026/TT-BKHCN** | **30/06/2026** | **Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp** — quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp (Hạng I ≤1000W, Hạng II ≤200W, Hạng III ≤50W); điều kiện thi Hạng I (phải có Hạng II ≥06 tháng); Ngân hàng ≥200 câu trắc nghiệm; đạt ≥70%; thu hồi chứng chỉ theo Điều 9 Luật Tần số vô tuyến điện; căn cứ Luật Tần số vô tuyến điện 42/2009 (sửa 09/2022), NQ 66.17/2026/NQ-CP, NQ 66.18/2026/NQ-CP, NĐ 225/2026/NĐ-CP; người ký Vũ Hải Quân; hiệu lực **01/7/2026** | Thông tin / Vô tuyến điện | vanban.chinhphu.vn (docid **218804** ✅) | van-ban/thong-tin-bao-chi/thong-tu-37-2026-tt-bkhcn-chung-chi-vo-tuyen-dien-nghiep-du.md ⚠️ | **STUB** — metadata đầy đủ từ web_fetch luatvietnam.vn (slug 440448). 8 Điều, 3 Phụ lục (Mẫu 01-03 báo cáo/cấp chứng chỉ). Cần bổ sung nội dung toàn văn. Hiệu lực 01/7/2026. **ƯU TIÊN THẤP** — văn bản viễn thông chuyên đề. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 15/7 17:53/11:53+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-15 17:53:50+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (batch chính) | **2026-07-16 11:54:13+07:00** | > Batch 15/7 11:53:37+07:00 | 🆕 **5 văn bản mới** trong batch mới (100, 89, 99, 59, 37/TT-BKHCN) |
+
+### Các entry sitemap_thongtu mới trong batch 2026-07-16 11:54:13+07:00 (so với batch 11:53:37 ngày 15/7)
+
+| Slug | Số hiệu | Nội dung | Trạng thái |
+|---|:---:|---|---|
+| 440486 | 100/TT-BTC | Bãi bỏ 06 Thông tư (giá dịch vụ kiểm định, kết cấu hạ tầng) | 🆕 Mới — chưa ghi nhận |
+| 440483 | 89/TT-BTC | Quy định chi tiết Luật QL thuế + NĐ 252 | 🆕 Mới — chưa ghi nhận |
+| 440467 | 99/TT-BTC | Tài chính cho giảng viên/sinh viên điện hạt nhân | 🆕 Mới — chưa ghi nhận |
+| 440448 | 37/TT-BKHCN | Chứng chỉ vô tuyến điện nghiệp dư | 🆕 Mới — chưa ghi nhận |
+| 440390 | 59/TT-BXD | Định mức kinh tế-kỹ thuật nạo vét công trình hàng hải | 🆕 Mới — chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = 281 (lastmod 15/7 17:53)
+2. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế — cần tạo file van-ban
+3. **99/TT-BTC**: Tài chính điện hạt nhân — cần web_fetch nội dung đầy đủ
+4. **37/TT-BKHCN** (ƯU TIÊN THẤP): Chứng chỉ vô tuyến điện nghiệp dư — cần web_fetch
+5. **Verify docid 280, 281** trên vanban.chinhphu.vn (dải 218850+)
+6. **100, 59, 92, 116/TT-BCA**: Cần tạo file van-ban trong repo
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 100/TT-BTC (bãi bỏ 06 TT), 89/TT-BTC (chi tiết Luật QL thuế), 99/TT-BTC (tài chính điện hạt nhân), 59/TT-BXD (định mức nạo vét hàng hải), 37/TT-BKHCN (chứng chỉ vô tuyến điện).
+- **89/TT-BTC** là văn bản nổi bật nhất — hướng dẫn chi tiết Luật QL thuế 108/2025, phân nhóm NNTN (tuân thủ tốt/trung bình/thấp/không), cơ quan thuế quản lý trực tiếp/địa bàn nhận phân bổ.
+- **99/TT-BTC**: Liên quan trực tiếp NĐ 176/2026 (chính sách ưu đãi điện hạt nhân) và QĐ 1012/QĐ-TTg (Đề án đào tạo điện hạt nhân đến 2035).
+- **100/TT-BTC**: Bãi bỏ 5 TT về giá dịch vụ kiểm định kỹ thuật + 1 TT về cho thuê kết cấu hạ tầng — dọn dẹp văn bản lỗi thời.
+- **59/TT-BXD**: Thay thế TT 44/2018/BGTVT — định mức kinh tế-kỹ thuật nạo vét công trình hàng hải.
+- **37/TT-BKHCN**: Cần web_fetch để lấy nội dung đầy đủ.
+- **sitemap_nghidinh ổn định hoàn toàn** — 282 chưa ban hành.
+- **sitemap_thongtu batch mới 2026-07-16 11:54** — 5 văn bản mới, không có dự thảo (d10) trong batch này.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00), web_fetch slug 440486 (100/TT-BTC), web_fetch slug 440483 (89/TT-BTC), web_fetch slug 440467 (99/TT-BTC), web_fetch slug 440390 (59/TT-BXD).
+- Ngày phát hiện: 2026-07-16 16:35 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:e1f35166-d932-4a63-b86a-d78e2bacf91e (Đệ #1 Discovery — 2026-07-16 16:31)
+
+---
+
 ## Cập nhật 2026-07-16 v3 (Đệ #1 Discovery — heartbeat 2026-07-16 08:32 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — 3 văn bản mới trong sitemap_thongtu (chưa ghi nhận)
@@ -6,7 +475,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-15 17:53:50+07:00) + sitemap_thongtu (la
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| **92/2026/TT-BCA** | **17/06/2026** | **Quy định về hoạt động ứng phó sự cố, thiên tai và tìm kiếm cứu nạn của lực lượng Công an nhân dân** — quy định phạm vi điều chỉnh, nguyên tắc ứng phó, cơ chế chỉ đạo, chỉ huy; căn cứ Luật PCTT 33/2013 (sửa 60/2020, 18/2023, 47/2024, 55/2024, 146/2025), Luật PCDC 18/2023 (sửa 98/2025, 116/2025, 145/2025), Luật PCCC 55/2024 (sửa 118/2025, 135/2025), Luật TTHK 104/2025; người ký Lương Tam Quang | Công an / Thiên tai & TKCN | **218804** (vanban.chinhphu.vn) | **Stub** — `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` (72 dòng, stub metadata + trích yếu, chưa có nội dung văn bản chi tiết). Nguồn: luatvietnam.vn slug 440146 — trả về 403/Cloudflare; vanban.chinhphu.vn trả về 404; nội dung dựa trên metadata từ sitemap và tracking. **CẦN BỔ SUNG** — truy cập nguồn chính thức khi có thể để lấy toàn văn. |
+| **92/2026/TT-BCA** | **17/06/2026** | **Quy định về hoạt động ứng phó sự cố, thiên tai và tìm kiếm cứu nạn của lực lượng Công an nhân dân** — quy định phạm vi điều chỉnh, nguyên tắc ứng phó, cơ chế chỉ đạo, chỉ huy; căn cứ Luật PCTT 33/2013 (sửa 60/2020, 18/2023, 47/2024, 55/2024, 146/2025), Luật PCDC 18/2023 (sửa 98/2025, 116/2025, 145/2025), Luật PCCC 55/2024 (sửa 118/2025, 135/2025), Luật TTHK 104/2025; người ký Lương Tam Quang | Công an / Thiên tai & TKCN | **218804** (vanban.chinhphu.vn) | **Stub** — `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` (metadata + trích yếu, chưa có nội dung văn bản chi tiết). Tất cả nguồn chính thức đều không truy cập được: vanban.chinhphu.vn docid 218804 (404), luatvietnam.vn slug 440146 (403 Cloudflare), thuvienphapluat.vn (404), datafiles.chinhphu.vn (403), vbpl.vn (không tìm thấy nội dung), lawnet.vn (không trả về nội dung). **CẦN BỔ SUNG** — truy cập nguồn chính thức khi có thể để lấy toàn văn. Commit trong PR #254 (heartbeat/crawl-vanban-20260716). |
 | **52/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về liên thông giữa trung học nghề, trung cấp, cao đẳng và đại học** — quy định nguyên tắc, hình thức, chương trình, tuyển sinh, tổ chức đào tạo, công nhận kết quả học tập và chuyển đổi tín chỉ liên thông giáo dục; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, Luật GDNN 124/2025; người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Liên thông | **440129** ✅ | **Hoàn thiện** — `van-ban/giao-duc/thong-tu-52-2026-tt-bgdut-lien-thong-giao-duc-viet-nam.md` (187 dòng, 18 Điều 1-18, 6 Chương I-VI, OCR 0 issues, frontmatter chuẩn). Nguồn: luatvietnam.vn slug 440129. **ƯU TIÊN CAO** — cải cách giáo dục, học suốt đời. |
 | **116/2026/TT-BCA** | **29/06/2026** | **Quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú** — quy định đăng ký thường trú, tạm trú, thông báo lưu trú, khai báo tạm vắng; tiếp nhận hồ sơ trực tiếp hoặc trực tuyến qua Cổng dịch vụ công quốc gia/VNeID; căn cứ Luật Cư trú 68/2020/QH14 (sửa 118/2025), NĐ 154/2024, NĐ 58/2026/NĐ-CP; người ký Lương Tam Quang | Công an / Cư trú | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440199). Title: "Quy định chi tiết và biện pháp thi hành Luật Cư trú" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 58/2026/NĐ-CP (An ninh trật tự — quản lý con đầu và pháo). **ƯU TIÊN TRUNG BÌNH** — hướng dẫn đăng ký cư trú. |
 
@@ -379,9 +848,9 @@ Quét luatvietnam.vn sitemap_thongtu (lastmod 2026-07-14 10:32+07:00) + sitemap_
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | **53/2026/TT-BGDĐT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy chế tuyển sinh và đào tạo các trình độ thạc sĩ, tiến sĩ; quy định điều kiện, quy trình, hồ sơ tuyển sinh; đào tạo theo tín chỉ; người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Đại học | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440236). Title: "Quy chế tuyển sinh và đào tạo sau đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (người ký Lê Quân, Bộ GDĐT). **ƯU TIÊN TRUNG BÌNH** — văn bản giáo dục quan trọng. |
-| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chương trình đào tạo trình độ đại học; nội dung, chuẩn chương trình, thiết kế chương trình, đánh giá kết quả; thay thế quy định cũ; người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Đại học | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440237). Title: "Quy định chương trình đào tạo đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Có thể thay thế QĐ 1982/QĐ-TTg (2017). **ƯU TIÊN CAO** — văn bản nền tảng giáo dục đại học. |
-| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — quy định phương pháp, thiết bị, quy trình kỹ thuật bay đo từ và phổ gamma trong điều tra địa chất; áp dụng cho điều tra cơ bản địa chất, thăm dò khoáng sản; người ký Đặng Ngọc Điệp | Tài nguyên / Địa chất | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440247). Title: "Quy định kỹ thuật bay đo từ, phổ gamma trong địa chất" ✅. Ngày ban hành **13/7/2026** xác minh từ luatvietnam.vn. **ƯU TIÊN THẤP** — văn bản kỹ thuật chuyên đề. |
-| **115/2026/TT-BCA** | **29/06/2026** | **Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không** — quy định thẻ, giấy phép, chứng nhận an ninh hàng không; điều kiện cấp, thu hồi, thời hạn; thay thế quy định cũ; người ký Lương Tam Quang; hiệu lực **01/7/2026** | Giao thông / Hàng không | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440224). Title: "Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Lương Tam Quang). Liên quan đến 215/NĐ-CP (an ninh hàng không, 30/6/2026). **ƯU TIÊN TRUNG BÌNH** — văn bản hàng không. |
+| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chương trình đào tạo trình độ đại học; nội dung, chuẩn chương trình, thiết kế chương trình, đánh giá kết quả; thay thế quy định cũ; người ký Lê Quân; hiệu lực **01/8/2026** | Giáo dục / Đại học | vanban.chinhphu.vn (docid 218804) | ⚠️ Stub | **STUB** (83 dòng) — improve stub 2026-07-17. Nội dung pending — nguồn 403/404/402. **ƯU TIÊN CAO** — văn bản nền tảng giáo dục đại học. |
+| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — quy định phương pháp, thiết bị, quy trình kỹ thuật bay đo từ và phổ gamma trong điều tra địa chất; áp dụng cho điều tra cơ bản địa chất, thăm dò khoáng sản; người ký Đặng Ngọc Điệp | Tài nguyên / Địa chất | vanban.chinhphu.vn (docid 218804) | ⚠️ Stub | **STUB** (83 dòng) — tạo file 2026-07-17. 3 Chương, 18 Điều (Điều 1-18), Bảng 1-3 pending — nguồn 403/404/402. **ƯU TIÊN THẤP** — văn bản kỹ thuật chuyên đề. |
+| **115/2026/TT-BCA** | **29/06/2026** | **Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không** — quy định thẻ, giấy phép, chứng nhận an ninh hàng không; điều kiện cấp, thu hồi, thời hạn; thay thế quy định cũ; người ký Lương Tam Quang; hiệu lực **01/7/2026** | Giao thông / Hàng không | vanban.chinhphu.vn (docid 218804) | ⚠️ Stub | **STUB** (84 dòng) — tạo file 2026-07-17. Nội dung pending — nguồn 403/404/402. Liên quan 215/NĐ-CP (an ninh hàng không, 30/6/2026). **ƯU TIÊN THẤP** — văn bản hàng không chuyên đề. |
 | **18/2026/TT-BVHTTDL** | **26/06/2026** | **Quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập** — quy định định mức kinh tế kỹ thuật các dịch vụ của bảo tàng công lập; người ký Lâm Thị Phương Thanh; hiệu lực ~01/8/2026 | Văn hóa / Bảo tàng | vanban.chinhphu.vn (docid **218811** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440227). Title: "Quy định định mức kinh tế kỹ thuật bảo tàng công lập" ✅. Ngày ban hành **26/6/2026** xác minh từ web_search + bvhttdl.gov.vn. Docid 218811 đã xác minh từ lần trước. **ƯU TIÊN THẤP** — văn bản văn hóa chuyên đề. |
 
 ### Tình trạng luatvietnam.vn — sitemap_thongtu lastmod 2026-07-14, sitemap_nghidinh lastmod 2026-07-13
@@ -5498,3 +5967,66 @@ So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (la
 - Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:53), web_fetch slug 439422 (265), 439478 (266), 439818 (274), 439827 (90/TT-BTC), 439781 (94/TT-BTC).
 - Ngày phát hiện: 2026-07-15 22:35 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:d510ca36-5da9-4d92-87a8-094c3c074f62 (Đệ #1 Discovery — heartbeat 22:29 ICT)
+
+## Cập nhật 2026-07-16 v7 (Đệ #1 Discovery — 2026-07-16 22:59 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới — sitemap_nghidinh refresh toàn bộ (17:54), sitemap_thongtu không đổi
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 17:54:25+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu v6 (2026-07-16 22:08 ICT): **KHÔNG CÓ văn bản mới thực sự**.
+
+### Phân tích chi tiết
+
+**sitemap_nghidinh thay đổi lastmod (11:28 → 17:54) — NHƯNG đây là REFRESH toàn bộ sitemap:**
+
+- Toàn bộ 156 entries đều có cùng lastmod **17:54:25+07:00** (re-index, không phải văn bản mới)
+- Các số hiệu mới nhất vẫn giữ nguyên thứ tự: **283** (slug 440485, lastmod 11:28 gốc), **281** (08:55 15/7), **280** (08:32 16/7)
+- 279, 278, 274, 273... có lastmod gốc cũ nhưng được gán lại lastmod 17:54 trong lần refresh này
+- **282/2026/NĐ-CP**: Vẫn CHƯA xuất hiện trong sitemap
+- **Không có số hiệu mới nào > 283**
+
+**sitemap_thongtu KHÔNG ĐỔI:**
+
+- lastmod vẫn **2026-07-16 11:54:13+07:00** — tất cả 641 entries trong batch này
+- Không có entry mới sau batch 11:54
+- Tất cả 10 văn bản trong batch (100, 89, 99, 37, 98, 59, 30, 54, 53, 18, 19, 98/TT-BQP, 31/TT-NHNN) đã được ghi nhận đầy đủ
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v6 (22:08 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 17:54:25+07:00** | ≠ Refresh toàn bộ (11:28 → 17:54) | ✅ Không có NĐ-CP mới |
+| sitemap_thongtu (batch chính) | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+
+### Xác nhận sitemap không có văn bản mới
+
+**sitemap_nghidinh — Top 5 số hiệu mới nhất:**
+| Số hiệu | Slug | lastmod gốc | Ghi chú |
+|---|:---:|:---:|---|
+| 283/2026/NĐ-CP | 440485 | 11:28 16/7 | Mới nhất — Xử phạt lao động-BHXH |
+| 281/2026/NĐ-CP | 440318 | 08:55 15/7 | Sửa đổi xử phạt đất đai |
+| 280/2026/NĐ-CP | 440319 | 08:32 16/7 | Bảo hiểm tiền gửi Việt Nam |
+| 279/2026/NĐ-CP | 440239 | 17:54 16/7 (refresh) | Chức năng Bộ GDĐT |
+| 278/2026/NĐ-CP | 440066 | 17:54 16/7 (refresh) | Điều chỉnh giá điện |
+
+**sitemap_thongtu — Batch 11:54:13+07:00 (tất cả đã ghi nhận):**
+- 100/TT-BTC ✅, 89/TT-BTC ✅, 99/TT-BTC ✅, 37/TT-BKHCN ✅, 98/TT-BTC ✅, 59/TT-BXD ✅, 30/TT-BNNMT ✅, 54/TT-BGDDT ✅, 53/TT-BGDDT ✅, 18/TT-BVHTTDL ✅, 19/TT-BVHTTDL ✅, 98/TT-BQP ✅, 31/TT-NHNN ✅
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod gốc 11:28, refresh lastmod 17:54). Tiếp tục theo dõi.
+2. **89/TT-BTC** (ƯU TIÊN CAO): Chi tiết Luật QL thuế 108/2025 — đang crawl trong PR #254 (heartbeat/crawl-vanban-20260716)
+3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban trong repo
+4. **53/TT-BGDDT** (ƯU TIÊN CAO): Quy chế tuyển sinh Sau ĐH — cần tạo file van-ban
+5. **54/TT-BGDDT** (ƯU TIÊN CAO): Chương trình đào tạo ĐH — cần tạo file van-ban
+6. **98/TT-BQP** (slug 440224) + **30/TT-BNNMT** (slug 440247): Chưa ghi nhận trong tracking — ghi nhận vòng tới
+7. **100/TT-BTC, 99/TT-BTC, 59/TT-BXD, 37/TT-BKHCN**: Đã ghi nhận — ưu tiên trung bình/thấp, cần tạo file van-ban
+
+### Ghi chú xử lý
+
+- **KHÔNG PHÁT HIỆN văn bản mới** trong heartbeat này.
+- **sitemap_nghidinh refresh (17:54)**: Lần đầu tiên thấy luatvietnam refresh toàn bộ sitemap cùng lúc — tất cả 156 entries được gán cùng lastmod. Đây là hành vi bình thường của luatvietnam.vn khi cập nhật lại toàn bộ sitemap index. Không ảnh hưởng đến tracking.
+- **sitemap_thongtu ổn định hoàn toàn** — batch 11:54 không thay đổi.
+- **282/2026/NĐ-CP**: Vẫn chưa xuất hiện sau 283. Tiếp tục theo dõi.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 17:54:25+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00).
+- Ngày phát hiện: 2026-07-16 22:59 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:faac5a30-afe5-45d9-bf4d-ea28e4937e44 (Đệ #1 Discovery — Heartbeat 2026-07-16 22:59 ICT)

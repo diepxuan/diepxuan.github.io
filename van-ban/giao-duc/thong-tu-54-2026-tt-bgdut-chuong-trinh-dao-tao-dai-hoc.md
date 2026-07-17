@@ -1,0 +1,1577 @@
+---
+layout: vanban
+title: "Quy định về chương trình đào tạo các trình độ của giáo dục đại học"
+date: 2026-06-30
+modified: 2026-07-17
+group: giao-duc
+tags:
+  - thông tư
+  - chuong-trinh-dao-tao
+  - giao-duc-dai-hoc
+  - ctđt
+  - le-quan
+docid: 218882
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+sohieu: 54/2026/TT-BGDĐT
+ngaybanhanh: 2026-06-30
+ngayhieuluc: 2026-06-30
+nguoiky: Lê Quân
+coquancq: Bộ Giáo dục và Đào tạo
+loaivanban: Thông tư
+canuaphaply:
+  - Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15
+  - Luật Giáo dục số 43/2019/QH15 được sửa đổi bổ sung bởi Luật số 123/2025/QH15
+  - Luật Giáo dục Đại học số 125/2025/QH15
+  - Nghị định số 37/2025/NĐ-CP
+hieuluc: 2026-06-30
+coquanbanhanh: Bộ Giáo dục và Đào tạo
+trichyeu: Quy định về chương trình đào tạo các trình độ của giáo dục đại học (đại học, thạc sĩ, tiến sĩ)
+---
+
+# THÔNG TƯ SỐ 54/2026/TT-BGDĐT
+
+## THÔNG TIN VĂN BẢN
+
+| | |
+|---|---|
+| **Số hiệu** | 54/2026/TT-BGDĐT |
+| **Loại văn bản** | Thông tư |
+| **Cơ quan ban hành** | Bộ Giáo dục và Đào tạo |
+| **Ngày ban hành** | 30/06/2026 |
+| **Ngày có hiệu lực** | 30/06/2026 |
+| **Người ký** | Lê Quân (Bộ trưởng Bộ Giáo dục và Đào tạo) |
+| **Căn cứ** | Luật Giáo dục; Luật Giáo dục Đại học; Nghị định 37/2025/NĐ-CP |
+| **Lĩnh vực** | Giáo dục / Đại học |
+
+## VĂN BẢN
+
+**BỘ GIÁO DỤC VÀ ĐÀO TẠO**
+
+Số: 54/2026/TT-BGDĐT
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+*Hà Nội, ngày 30 tháng 6 năm 2026*
+
+### THÔNG TƯ
+
+Quy định về chương trình đào tạo các trình độ của giáo dục đại học
+
+**Căn cứ:**
+
+- Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15;
+- Luật Giáo dục số 43/2019/QH15 được sửa đổi, bổ sung bởi Luật số 123/2025/QH15;
+- Luật Giáo dục Đại học số 125/2025/QH15;
+- Nghị định số 37/2025/NĐ-CP ngày 26/02/2025 của Chính phủ;
+- Quyết định số 1981/QĐ-TTg ngày 18/10/2016; Quyết định số 1962/QĐ-TTg ngày 18/10/2016;
+
+Theo đề nghị của Vụ trưởng Vụ Giáo dục Đại học,
+
+**Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư quy định về chương trình đào tạo các trình độ của giáo dục đại học.**
+
+## NỘI DUNG
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Số: 54 /2026/TT-BGDĐT Hà Nội, ngày30 tháng 06 năm 2026
+
+THÔNG TƯ
+Quy định về chương trình đào tạo các trình độ của giáo dục đại học
+
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15;
+
+Căn cứ Luật Giáo dục số 43/2019/QH15, Luật sửa đổi, bổ sung một số
+điều của Luật Giáo dục số I 23/2025/QHI ^Ề,
+
+Căn cứ Luật Giáo dục đại học số 125/2025/0H15,
+
+Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của
+Chính phủ quy định chức năng, nhiệm vụ, quyên hạn và cơ cấu tổ chức của
+Bộ Giáo đục và Đào tạo;
+
+Căn cứ Quyết định số 1981/QĐ-TTg ngày 18 tháng 10 năm 2016 của
+Thủ tướng Chính phủ phê duyệt Khung cơ câu giáo dục quốc dân và Quyết
+định số 1962/QĐ-TTg ngày 18 tháng 10 năm 2016 của Thủ tướng Chính phủ
+phê duyệt Khung trình độ quốc gia Việt Nam;
+
+Theo đề nghị của Vụ trưởng Vụ Giáo dục Đại học;
+ Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư quy định về
+chương trình đào tạo các trình độ của giáo dục đại học.
+
+Chương ÏI
+QUY ĐỊNH CHUNG
+
+### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+1. Thông tư này quy định về chương trình đào tạo các trình độ của giáo
+dục đại học (đại học, thạc sĩ, tiến sĩ), bao gồm: chuẩn chương trình đào tạo; quy
+trình xây dựng, thâm định và ban hành chương trình đào tạo; tổ chức thực hiện,
+duy trì, cải tiến, kiểm tra, giám sát; phê duyệt, đình chỉ tuyển sinh, đình chỉ
+hoạt động đào tạo và chấm dứt tổ chức thực hiện chương trình đào tạo.
+
+2. Thông tư này áp dụng đối với các cơ sở giáo dục đại học, cơ sở giáo
+dục khác có hoạt động giáo dục đại học (sau đây gọi chung là cơ sở đào tạo),
+tổ chức và cá nhân có liên quan.
+
+3. Thông tư này không áp dụng đối với chương trình đào tạo chuyên
+sâu sau đại học cấp văn bằng bác sĩ nội trú, bác sĩ chuyên khoa theo quy định
+tại điểm đ khoản 2 Điều 8 Luật Giáo dục đại học số 125/2025/QHI15.
+
+4. Chương trình đào tạo của cơ sở đào tạo nước ngoài hoặc phân hiệu
+của cơ sở đào tạo nước ngoài được phép hoạt động tại Việt Nam và chương
+trình liên kết đào tạo với nước ngoài do cơ sở đào tạo nước ngoài cập văn
+bằng tại Việt Nam được xây dựng và tổ chức thực hiện theo quy định của S~
+
+
+sở đào tạo nước ngoài cấp văn bằng và quy định của pháp luật có liên quan
+nhưng yêu cầu đầu vào, chuẩn đầu ra, các yêu cầu chất lượng của chương
+trình đào tạo theo trình độ, ngành, nhóm ngành hoặc lĩnh vực không được
+thấp hơn chuẩn chương trình đào tạo tương ứng do Bộ trưởng Bộ Giáo dục và
+Đào tạo ban hành.
+
+5. Đối với chương trình đào tạo của cơ sở đào tạo được thành lập và
+hoạt động theo điều ước quốc tế hoặc hiệp định giữa Chính phủ Việt Nam và
+Chính phủ nước ngoài thì thực hiện theo điều ước quốc tế hoặc hiệp định đó;
+trường hợp điều ước quốc tế hoặc hiệp định không quy định thì thực hiện theo
+Thông tư này.
+
+
+### Điều 2. Giải thích từ ngữ
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1, Cấu trúc chương trình đào tạo là cách thức tổ chức và sắp xếp các
+thành phần của chương trình đào tạo thành các khối kiến thức, học phần và lộ
+trình học tập, bảo đảm sự liên kết phù hợp và khả năng tích lũy của người học.
+
+2. Thành phân chương trình đào tạo là tập hợp các học phần được tổ
+chức theo khối kiến thức hoặc định hướng chuyên môn chung trong cấu trúc
+chương trình đào tạo.
+
+3. Học phân hoặc môn học (sau đây gọi chung là học phân) là đơn vị
+học tập câu thành cấu trúc chương trình đào tạo, được thiết kế với mục tiêu,
+chuẩn đầu ra, nội dung, phương pháp giảng dạy và đánh giá; có khối lượng
+học tập xác định và được lượng hóa băng số lượng tín chỉ.
+
+4. Tín chỉ là đơn vị dùng để lượng hóa khối lượng học tập của người
+học, trong đó:
+
+a) Một (01) tín chỉ tương đương từ 45 đến 50 giờ học tập của người học
+được tính theo đơn vị 60 phút, bao gồm thời gian học trực tiếp, học trực
+tuyến, thực hành, thí nghiệm, thực tập, tự học có hướng dẫn, các hình thức
+học tập khác và kiểm tra, đánh giá;
+
+a) Đối với hoạt động giảng dạy trực tiếp theo lớp học, một (01) tín chỉ
+yêu cầu tối thiểu 15 giờ giảng dạy trực tiếp hoặc 30 giờ thực hành, thí
+nghiệm, thảo luận, trong đó, một (01) giờ giảng dạy trực tiếp trên lớp được
+thực hiện trong thời lượng 50 phút.
+
+5. Chương trình đào tạo chuyên sâu là chương trình đào tạo của một số
+ngành, lĩnh vực có khối lượng học tập, thời lượng thực hành, thực tập nhiều
+hơn so với chương trình đào tạo thông thường ở cùng trình độ nhằm đáp ứng
+định hướng đào tạo hoặc tiêu chuân nghề nghiệp, hành nghề đặc thù và không
+làm thay đôi trình độ đã xác định của chương trình đào tạo.
+
+6. Chương trình đào tạo tích hợp là chương trình đào tạo được thiết kế
+thống nhất, tích hợp nội dung của 02 trình độ đào tạo liền kể, có tính liên thông
+và kê thừa giữa các trình độ, cho phép người học tích lũy và công nhận kết quả
+học tập đề đạt chuẩn đầu ra của trình độ đào tạo cuối cùng của chương trình. gục
+
+
+7. Chương trình đào tạo định hướng nghiên cứu. học thuật là chương
+trình đào tạo tập trung phát triển kiến thức lý thuyết chuyên sâu, nền tảng
+khoa học và năng lực nghiên cứu của người học.
+
+8. Chương trình đào tạo định hướng ứng dụng, chuyên nghiệp là
+chương trình đào tạo tập trung phát triển năng lực thực hành, kỹ năng nghề
+nghiệp và khả năng ứng dụng kiên thức vào thực tiễn của người học.
+
+9. Chương trình đào tạo liên ngành là chương trình đào tạo có hệ thống
+kiến thức, phương pháp và năng lực được tích hợp của từ 02 ngành đào tạo
+trở lên nhằm hình thành năng lực giải quyết các vấn đề phức tạp.
+
+10. Chương trình đào tạo xuyên ngành là một loại chương trình đào tạo
+liên ngành, được thiết kế theo cách tiếp cận vượt ra ngoài phạm vi của từng
+ngành riêng lẻ, tổ chức nội dung và phương thức đào tạo theo vấn đề hoặc
+lĩnh vực.
+
+11. Chương trình đào tạo song ngành là chương trình đào tạo cho phép
+người học hoàn thành chuẩn đầu ra của hai ngành đào tạo.
+
+12. Chương trình đào tạo ngành chính - ngành phụ là chương trình đào
+tạo trong đó người học hoàn thành chuẩn đầu ra của ngành chính và tích lũy
+một phần khối lượng học tập của ngành khác.
+
+13. Ngành phù hợp bao gồm:
+
+a) Ngành đúng là ngành có tên và mã số trùng với tên và mã ngành trong
+Danh mục ngành đào tạo do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành;
+
+a) Ngành có chuyên môn phù hợp là ngành không thuộc trường hợp quy
+định tại điểm a khoản này nhưng có nội dung đào tạo đáp ứng yêu câu của
+chuân chương trình đào tạo, mục tiêu và chuẩn đầu ra của chương trình đào
+tạo.
+
+14. Giảng viên toàn thời gian là giảng viên làm việc toàn thời gian tại
+cơ sở giáo dục đại học, chịu sự quản lý trực tiếp của cơ sở giáo dục đại học
+theo quy định của pháp luật, bao gồm các trường hợp sau đây:
+
+a) Giảng viên cơ hữu theo quy định tại điểm a khoản Ị Điều 66 của
+Luật Giáo dục số 43/2019/QH15 được sửa đối, bổ sung một số điều tại Luật
+số 123/2025/QH15 và các quy định khác của pháp luật có liên quan;
+
+a) Giảng viên đồng cơ hữu theo quy định tại khoản 2 Điều 29 của Luật
+Giáo dục đại học số 125/2025/QH15 và quy định của Chính phủ về giảng
+viên đồng cơ hữu trong cơ sở giáo dục đại học công lập;
+
+a) Giảng viên làm việc theo chế độ hợp đông lao động không xác định
+thời hạn hoặc hợp đồng lao động xác định thời hạn từ 12 tháng trở lên theo
+Bộ luật Lao động và không đồng thời ký hợp đồng lao động từ 03 tháng trở
+lên với đơn vị sử dụng lao động khác;
+a) Giảng viên người nước ngoài làm việc toàn thời gian tại các cơ sở
+giáo dục đại học thành lập và hoạt động theo hiệp định giữa Chính phủ nước
+Cộng hòa xã hội chủ nghĩa Việt Nam và chính phủ nước ngoài. JM-
+
+
+15. Giảng viên hợp đồng toàn thời gian sau khi nghỉ hưu là giảng viên
+được xác định theo quy định tại điểm c khoản 1 Điều 66 của Luật Giáo dục số
+43/2019/QH15 được sửa đổi, bồ sung một số điều tại Luật số 123/2025/QH15.
+
+_16. Giảng viên thỉnh giảng là giảng viên được xác định theo quy định
+tại điêm d khoản | Điêu 66 của Luật Giáo dục số 43/2019/QH15 được sửa
+đôi, bổ sung một số điêu tại Luật số 123/2025/QH15.
+
+
+### Điều 3. Chuẩn chương trình đào tạo và nguyên tắc xây dựng, áp
+dụng chuân
+
+1. Chuẩn chương trình đào tạo phải đáp ứng quy định tại khoản 2 Điều
+22 của Luật Giáo dục đại học số 125/2025/QH15; bảo đảm phù hợp với
+
+Khung cơ cấu hệ thống giáo dục quốc dân và Khung trình độ quốc gia Việt
+Nam hiện hành.
+
+<< Chuẩn chương trình đào tạo của từng trình độ quy định những yêu
+
+câu chung tổi thiêu áp dụng đôi với tât cả chương trình đào tạo ở cùng một
+trình độ.
+
+3. Chuẩn chương trình đào tạo theo ngành, nhóm ngành hoặc lĩnh vực
+
+được xây dựng trên cơ sở chuẩn chương trình đào tạo của trình độ tương ứng;
+
+quy định các yêu cầu tối thiểu mang tính đặc thù áp dụng đối với ngành,
+nhóm ngành hoặc lĩnh vực tương ứng.
+
+4. Chuẩn chương trình đào tạo được sử dụng làm căn cứ đề:
+
+a) Xây dựng, tổ chức thực hiện, đánh giá, cải tiến chương trình đào tạo;
+
+a) Công khai thông tin và thực hiện trách nhiệm giải trình về chất
+lượng chương trình đào tạo:
+
+a) Giám sát, kiểm tra, đánh giá chất lượng chương trình đào tạo;
+
+đ) Đối sánh, tham chiếu chương trình đào tạo; hỗ trợ liên thông và công
+nhận kết quả học tập trên cơ sở Khung trình độ quốc gia Việt Nam;
+
+đ) Xây dựng tiêu chuẩn đánh giá và các yêu cầu bảo đảm chất lượng
+thực hiện chương trình đào tạo theo quy định của pháp luật.
+
+
+### Điều 4. Nguyên tắc xây dựng chương trình đào tạo
+
+1. Chương trình đào tạo được xây dựng trên cơ sở chuẩn chương trình
+đào tạo của trình độ tương ứng và chuân chương trình đào tạo theo ngành,
+nhóm ngành hoặc lĩnh vực; cơ sở đào tạo được quy định các yêu cầu cao hơn
+chuẩn chương trình đào tạo.
+
+2. Cơ sở đào tạo chủ động xây dựng chương trình đào tạo phù hợp với
+sứ mạng, chiến lược, định hướng phát triển, định hướng đào tạo và điều kiện
+bảo đảm chất lượng của cơ sở đảo tạo.
+
+3. Chương trình đào tạo phải bảo đảm tính khoa học, tính hệ thống, tính
+liên thông, tính thực tiễn và khả năng cập nhật; đáp ứng yêu cầu phát triển
+khoa học, công nghệ. đổi mới sáng tạo, nghề nghiệp và học tập suốt đời. AML~
+
+
+Chương II
+
+CHUÄN CHƯƠNG TRÌNH ĐÀO TẠO CÁC TRÌNH ĐỘ
+CỦA GIÁO DỤC ĐẠI HỌC
+
+
+### Điều 5. Mục tiêu đào tạo
+
+1. Phù hợp với mục tiêu giáo dục đại học theo quy định của pháp luật
+và yêu cầu của từng bậc trình độ theo Khung trình độ quốc gia Việt Nam.
+
+2. Thể hiện định hướng học tập, phát triển nghề nghiệp và phát triển cá
+nhân của người học ở bừng trình độ tương ứng.
+
+3. Phản ánh yêu cầu chung về năng lực, phẩm chất của người học sau
+khi tốt nghiệp; đáp ứng yêu câu phát triển kinh tế - xã hội, khoa học, công
+nghệ, đổi mới sáng tạo, nhu cầu của thị trường lao động và lĩnh vực nghề
+nghiệp.
+
+
+### Điều 6. Yêu cầu đầu vào
+
+1. Yêu cầu đầu vào phải phù hợp với Khung cơ cấu hệ thống giáo dục
+quốc dân, Khung trình độ quốc gia Việt Nam, trình độ đào tạo và mục tiêu
+
+đào tạo; bảo đảm người học có đủ năng lực để hoàn thành chương trình đào
+tạo và đạt chuẩn đầu ra.
+
+2. Đối với chương trình đào tạo trình độ đại học và chương trình đào
+tạo bậc 6 theo Khung trình độ quốc gia Việt Nam: người học phải tốt nghiệp
+trung học phô thông hoặc trình độ tương đương.
+
+3. Đối với chương trình đào tạo trình độ thạc sĩ: người học phải tốt
+nghiệp đại học hoặc có văn bằng ở trình độ bậc 6 theo Khung trình độ quốc gia
+Việt Nam.
+
+4. Đối với chương trình đào tạo trình độ tiến sĩ: người học phải tốt
+nghiệp thạc sĩ hoặc có văn bằng ở trình độ bậc 7 theo Khung trình độ quốc gia
+Việt Nam.
+
+5. Đối với chương trình đào tạo tích hợp, yêu cầu đầu vào của chương
+trình và điều kiện chuyền tiếp giữa các giai đoạn đào tạo phải phù hợp với
+Khung trình độ quốc gia Việt Nam và bảo đảm đáp ứng mục tiêu đào tạo,
+chuẩn đầu ra của từng giai đoạn.
+
+
+### Điều 7. Chuẩn đầu ra
+Ộ 1. Xác định rõ bậc trình độ cụ thể của chương trình đào tạo, đáp ứng các
+yêu câu theo Khung trình độ quốc gia Việt Nam ở bậc trình độ tương ứng.
+
+2. Thể hiện các yêu cầu về năng lực cần thiết để người học học tập, làm
+việc và phát triên nghê nghiệp phù hợp với mục tiêu của trình độ đào tạo và
+các yêu câu sau:
+
+a) Đối với trình độ đại học phải có yêu cầu về năng lực số, nội dung
+vê trí tuệ nhân tạo (AI), năng lực ngoại ngữ, khả năng thích ứng và học tập
+suôt đời;
+
+
+a) Đối với trình độ thạc sĩ phải có yêu cầu về năng lực nghiên cứu, đổi
+mới sáng tạo, ứng dụng và phát triển tri thức;
+
+©) Đối với trình độ tiến sĩ phải có yêu cầu về năng lực nghiên cứu độc
+lập; đề xuất công nghệ hoặc giải pháp mới; sản phẩm công bố khoa học hoặc
+sản phâm ứng dụng kết quả nghiên cứu; hướng dẫn nghiên cứu khoa học, đổi
+mới sáng tạo;
+
+a) Các yêu cầu cụ thể đối với chuẩn đầu ra được quy định trong chuẩn
+chương trình đào tạo của ngành, nhóm ngành hoặc lĩnh vực tương ứng do Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành.
+
+3. Được cụ thể hóa thành các yêu cầu có thể quan sát, đánh giá và đo
+lường được, làm căn cứ thiết kế, thực hiện, kiểm tra, đánh giá và cải tiến
+chương trình đào tạo; xét công nhận kết quả học tập và cấp văn bằng.
+
+4. Bảo đảm khả năng liên thông giữa các trình độ đào tạo, công nhận kết
+quả học tập và học tập suốt đời trên cơ sở Khung trình độ quốc gia Việt Nam.
+
+5. Có tính khả thi, phù hợp với khối lượng học tập, thời gian ‹ đào tạo và
+điều kiện bảo đảm chất lượng của cơ sở đào tạo; tạo điều kiện để phần lớn
+người học đáp ứng yêu câu đâu vào có thể hoàn thành chương trình đào tạo
+trong thời gian đào tạo tiêu chuẩn.
+
+
+### Điều 8. Khối lượng học tập tối thiểu
+
+1. Khối lượng học tập tối thiểu theo Khung trình độ quốc gia Việt Nam,
+bảo đảm các yêu câu sau:
+
+a) Chương trình đào tạo trình độ đại học và bậc 6: 120 tín chỉ;
+
+a) Chương trình đào tạo chuyên sâu bậc 7: 150 tín chỉ trở lên;
+
+a) Chương trình đào tạo trình độ thạc sĩ: 4Š tín chỉ trở lên;
+
+a) Chương trình đào tạo trình độ tiến sĩ: 90 tín chỉ.
+
+2. Đối với chương trình đào tạo tích hợp giữa hai trình độ liền kẻ, khối
+lượng học tập tối thiểu không thấp hơn 90% tổng khối lượng học tập tối thiểu
+của cả hai trình độ tương ứng; đông thời bảo đảm mục tiêu đào tạo, yêu cầu
+
+của từng giai đoạn đào tạo và chuẩn đầu ra của từng trình độ theo Khung trình
+độ quốc gia Việt Nam.
+
+
+### Điều 9. Yêu cầu về cấu trúc chương trình đào tạo
+1. Cấu trúc chương trình đào tạo bảo đảm:
+
+a) Thể hiện rõ mối liên hệ giữa mục tiêu đào tạo, chuẩn đầu ra, nội
+dung đào tạo, phương pháp giảng dạy, kiểm tra đánh giá và các điều kiện bảo
+đảm chất lượng;
+
+a) Có tính hệ thống, tính liên thông, tính kế thừa và khả năng cập nhật;
+phù hợp với trình độ đào tạo, mục tiêu đào tạo và chuẩn đầu ra;
+
+a) Xác định rõ các thành phần học tập bắt buộc và tự chọn; bảo đảm sự
+linh hoạt để người học lựa chọn nội dung, xây dựng kế hoạch và lộ trình "Pl_LZ
+
+tập phù hợp với năng lực, nhu cầu và định hướng phát triển nghề nghiệp.
+
+2. Mỗi học phần hoặc thành phần của chương trình đào tạo được mô tả
+thông qua mục tiêu, chuẩn đầu ra, số tín chỉ, nội dung chính và vai trò đóng
+góp trong việc thực hiện mục tiêu và chuẩn đầu ra của chương trình đào tạo.
+
+3. Đối với chương trình đào tạo trình độ đại học, chương trình đào tạo
+bậc 6 theo Khung trình độ quốc gia Việt Nam:
+
+a) Có khối kiến thức giáo dục đại cương, bao gồm cả các môn học, học
+phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo
+dục đại học như lý luận chính trị, pháp luật, giáo dục thể chất, giáo dục quốc
+phòng và an ninh hoặc các môn học khác theo quy định hiện hành;
+
+a) Có khối kiến thức cơ sở ngành, kiến thức ngành, nội dung chuyên
+sâu và các nội dung bổ trợ bao gồm cả kiến thức liên ngành, ngoại ngữ, năng
+lực số, trí tuệ nhân tạo (AD) và các kiến thức, kỹ năng cần thiết khác nhằm đạt
+mục tiêu đào tạo và chuẩn đầu ra;
+
+a) Đối với chương trình đào tạo định hướng nghiên cứu, học thuật: cầu
+trúc chương trình phải tăng cường các học phần, hoạt động nghiên cứu khoa
+học, học thuật và đổi mới sáng tạo; có khóa luận hoặc hình thức đánh giá tổng
+hợp tương đương;
+
+a) Đối với chương trình đào tạo định hướng ứng dụng, chuyên nghiệp:
+cấu trúc chương trình phải tăng cường các hoạt động thực hành, thực tập, trải
+
+nghiệm nghề nghiệp, dự án hoặc đồ án gắn với thực tiễn nghề nghiệp.
+
+: 4. Đối với chương trình đào tạo chuyên sâu bậc 7 theo Khung trình độ
+quốc gia Việt Nam:
+
+a) Khối lượng thực hành, thực tập ít nhất 08 tín chỉ;
+
+a) Tăng cường các học phần chuyên sâu, hoạt động thực hành, thực tập,
+trải nghiệm nghệ nghiệp hoặc hoạt động học thuật khác phù hợp với mục tiêu
+đào tạo và chuân đâu ra;
+
+a) Cấu trúc chương trình phải bảo đảm tăng cường phát triển năng lực
+chuyên sâu của người học theo mục tiêu đào tạo và chuân đâu ra.
+
+5. Đối với chương trình đào tạo trình độ thạc sĩ:
+
+„ a) Chương trình đào tạo định hướng nghiên cứu, học thuật phải dành từ
+24 đên 30 tín chỉ cho hoạt động nghiên cứu khoa học, trong đó luận văn có
+khôi lượng từ 12 đên 15 tín chỉ;
+
+a) Chương trình đào tạo định hướng ứng dụng, chuyên nghiệp phải
+dành từ 06 đến 09 tín chỉ cho hoạt động thực tập và từ 06 đên 09 tín chỉ cho
+đề án, đồ án hoặc dự án tốt nghiệp;
+
+a) Cấu trúc chương trình phải bảo đảm phát triển năng lực nghiên cứu
+hoặc năng lực nghề nghiệp phù hợp với mục tiêu đào tạo và chuẩn đâu ra. lh~z
+
+6. Đối với chương trình đào tạo tiến sĩ:
+
+§
+
+a) Chương trình đào tạo tiến sĩ phải lấy hoạt động nghiên cứu khoa học
+và thực hiện luận án làm trọng tâm; khối lượng học tập của các hoạt động này
+chiếm ít nhất 80% tổng khối lượng học tập của chương trình đào tạo;
+
+a) Đối với người học có trình độ đầu vào bậc 7 theo “Khung trình độ
+quốc gia Việt Nam, tổng khối lượng học tập của các học phần trong chương
+trình đào tạo tiến sĩ không vượt quá 16 tín chỉ;
+
+a) Đối với người học có trình độ đầu vào bậc 6 theo “Khung trình độ
+quốc gia Việt Nam, tổng khối lượng học tập của các học phần trong chương
+trình đào tạo tiến sĩ tối thiểu 30 tín chỉ.
+
+7. Đối với chương trình đào tạo liên ngành hoặc xuyên ngành, cấu trúc
+chương trình phải bảo đảm sự tích hợp, kết nối và bổ trợ giữa các lĩnh vực,
+ngành hoặc nội dung chuyên môn; chuẩn đầu ra phải phản ánh năng lực liên
+ngành hoặc xuyên ngành.
+
+§. Đối với chương trình đào tạo song ngành, cấu trúc chương trình phải
+bảo đảm đáp ứng chuẩn đầu ra của cả hai ngành đào tạo; phần khối lượng học
+tập riêng của từng ngành ngoài các học phân được sử dụng chung hoặc được
+công nhận tương đương giữa hai ngành phải có ít nhất 30 tín chỉ.
+
+9. Đối với chương trình đào tạo ngành chính - ngành phụ, cấu trúc
+chương trình phải bảo đảm đáp ứng chuẩn đầu ra của ngành chính và các yêu
+câu côt lõi của ngành phụ; phần khối lượng học tập riêng của ngành phụ
+ngoài các học phần được sử dụng chung hoặc được công nhận tương đương
+với ngành chính phải có ít nhất 15 tín chỉ.
+
+10. Đối với chương trình đào tạo có định hướng hoặc yêu cầu riêng bao
+gồm cả chương trình kỹ sư tài năng, chương trình cử nhân tài năng hoặc các
+chương trình tương ứng khác, cấu trúc chương trình phải thể hiện rõ các yêu
+cầu riêng về mục tiêu đào tạo, chuẩn đầu ra, nội dung đào tạo và hoạt động
+học tập.
+
+11. Đối với chương trình đào tạo tích hợp, cấu trúc chương trình phải
+bảo đảm tính liên thông giữa các giai đoạn hoặc trình độ đào tạo; xác định rõ
+yêu cầu đầu vào, điều kiện chuyền tiếp và chuẩn đầu ra của từng giai đoạn;
+bảo đảm chuẩn đầu ra của trình độ đào tạo cuối cùng theo mục tiêu đào tạo
+của chương trình.
+
+
+### Điều 10. Phương pháp giảng dạy và kiểm tra, đánh giá
+
+1. Phương pháp giảng dạy phải phù hợp với mục tiêu đào tạo, chuẩn
+đầu ra và đặc điểm của người học; thúc đây năng lực tự học, học tập suốt đời,
+tư duy phản biện, đổi mới sáng tạo và tỉnh thần khởi nghiệp.
+
+2. Hoạt động kiểm tra, đánh giá phải dựa trên chuẩn đầu ra; bảo đảm
+đánh giá được mức độ đạt chuân đâu ra của học phân và chương trình đảo tạo.
+
+3. Phương pháp giảng dạy, hoạt động học tập và kiểm tra, đánh giá phải
+
+được thiết kế thống nhất, phù hợp với mục tiêu đào tạo và chuẩn đầu ra của
+chương trình đào tạo.
+
+
+### Điều 11. Yêu cầu về giảng viên và nhân sự hỗ trợ
+
+1. Chương trình đào tạo phải bảo đảm có đội ngũ giảng viên và nhân sự
+hỗ trợ đáp ứng yêu cầu tổ chức thực hiện chương trình đào tạo, phù hợp với
+mục tiêu đào tạo, chuân đầu ra và trình độ đào tạo, trong đó:
+
+a) Đội ngũ giảng viên có cơ cấu phù hợp về trình độ, chuyên môn và
+năng lực học thuật hoặc năng lực nghề nghiệp, đáp ứng mục tiêu đào tạo và
+chuẩn đầu ra của chương trình đào tạo; bảo đảm tỷ lệ sinh viên trên giảng viên
+không vượt quá tỷ lệ quy định cho từng ngành, nhóm ngành hoặc lĩnh vực
+đào tạo;
+
+a) Đội ngũ nhân sự hỗ trợ kỹ thuật, quản lý đào tạo, thư viện, công
+nghệ thông tin, phòng thí nghiệm, thực hành và các vị trí hỗ trợ khác đáp ứng
+yêu câu tổ chức thực hiện chương trình đào tạo;
+
+a) Giảng viên cơ hữu giữ vai trò nòng cốt trong tổ chức thực hiện và
+tham gia giảng dạy trong chương trình đào tạo; tỷ lệ khối lượng học tập do
+giảng viên cơ hữu trực tiếp đảm nhiệm không thấp hơn 75% đối với chương
+trình đào tạo định hướng nghiên cứu, học thuật; không thấp hơn 65% đối với
+chương trình đào tạo định hướng ứng dụng, chuyên nghiệp và không thấp
+hơn 60% đối với chương trình đào tạo thuộc lĩnh vực nghệ thuật, thê thao,
+tiếng dân tộc thiểu số Việt Nam hoặc ngôn ngữ hiếm;
+
+a) Tổng thời lượng giảng dạy của giảng viên phải phù hợp với định
+mức giờ chuân giảng dạy và số giờ giảng dạy vượt định mức theo quy định
+của pháp luật; trong đó chuẩn chương trình đào tạo của ngành, nhóm ngành
+hoặc lĩnh vực đào tạo quy định cụ thê tỷ lệ khối lượng học tập do giảng viên
+toàn thời gian và giảng viên có trình độ tiến sĩ trực tiếp đảm nhiệm nhưng
+không được thấp hơn yêu cầu tối thiểu quy định tại các khoản 2, 3, 4 và 5
+Điều này.
+
+2. Đối với chương trình đào tạo trình độ đại học và chương trình đào
+tạo bậc 6 theo Khung trình độ quốc gia Việt Nam:
+
+a) Giảng viên có trình độ thạc sĩ trở lên; trợ giảng có trình độ đại học
+trở lên;
+
+a) Giảng viên toàn thời gian có trình độ tiến sĩ trực tiếp giảng dạy ít
+
+nhất 50% tổng khối lượng học tập thuộc khối kiến thức cơ sở ngành, kiến
+thức ngành và kiến thức chuyên sâu.
+
+3. Đối với chương trình đào tạo chuyên sâu bậc 7 theo Khung trình độ
+quốc gia Việt Nam và chương trình đào tạo trình độ thạc sĩ:
+
+a) Giảng viên có trình độ tiến sĩ, trong đó có giáo sư hoặc phó giáo sư
+ngành phù hợp;
+
+a) Giảng viên toàn thời gian trực tiếp giảng dạy ít nhất 75% khối lượng
+học tập thuộc khối kiến thức ngành và kiến thức chuyên sâu và các học phần
+ở trình độ thạc sĩ của chương trình đào tạo tích hợp. +
+
+
+4. Đối với chương trình đào tạo trình độ tiến sĩ:
+a) Giảng viên trực tiếp giảng dạy trong chương trình đào tạo có trình độ
+
+tiến sĩ, thường xuyên tham gia đào tạo sau đại học và duy trì hoạt động
+nghiên cứu, công bố khoa học hằng năm;
+
+a) Giảng viên toàn thời gian có chức danh giáo sư hoặc phó giáo sư, có
+chuyên môn ngành phù hợp trực tiếp giảng dạy ít nhất 35% tổng khối lượng
+học tập của các học phần, chuyên đề lý thuyết thuộc khối kiến thức ngành và
+kiến thức chuyên sâu;
+
+a) Có đủ đội ngũ giảng viên đáp ứng tiêu chuân người hướng dẫn
+nghiên cứu sinh theo Quy chế tuyển sinh và đào tạo sau đại học do Bộ trưởng
+Bộ Giáo dục và Đào tạo ban hành;
+
+a) Có đủ nhân sự có trình độ và chuyên môn phù hợp đáp ứng yêu cầu
+về Hội đồng đánh giá luận án tiến sĩ theo Quy chế tuyển sinh và đào tạo sau
+đại học do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành.
+
+5. Yêu cầu đối với một số chương trình đào tạo cụ thể
+
+a) Đối với chương trình đào tạo thuộc lĩnh vực nghệ thuật, thể thao,
+ngôn ngữ hoặc đào tạo giáo viên tiếng dân tộc thiểu số Việt Nam, ngôn ngữ
+hiếm, yêu cầu về trình độ, chuyên môn của giảng viên và tỷ lệ khôi lượng
+học tập do giảng viên toàn thời gian đảm nhận được quy định chỉ tiết tại
+chuẩn chương trình đào tạo ở lĩnh vực, nhóm ngành hoặc ngành tương ứng
+nhưng không được thâp hơn 25% mức quy định tại các khoản 2, 3 và 4
+Điều này;
+
+a) Đối với chương trình đào tạo thuộc lĩnh vực nghệ thuật, thể thao,
+giảng viên được phong tặng danh hiệu Nghệ sĩ Nhân dân hoặc Nghệ nhân
+Nhân dân có trình độ thạc sĩ được tham gia giảng dạy ở trình độ đại học và
+trình độ thạc sĩ; số lượng giảng viên thuộc trường hợp này không vượt quá
+50% tổng số giảng viên tham gia giảng dạy của chương trình đào tạo;
+
+a) Đối với chương trình đào tạo ngôn ngữ hoặc đào tạo giáo viên tiếng
+dân tộc thiểu số Việt Nam, ngôn ngữ hiêm, giảng viên là người dân tộc thiểu
+số hoặc có hiểu biết, kinh nghiệm về ngôn ngữ, văn hóa dân tộc thiểu số hoặc
+ngôn ngữ hiếm có trình độ đại học được tham gia giảng dạy ở trình độ đại
+học; có trình độ thạc sĩ được tham gia giảng dạy ở trình độ đại học và trình độ
+thạc sĩ; số lượng giảng viên thuộc trường hợp này không vượt quá 60% tổng
+số giảng viên tham gia giảng dạy của chương trình đào tạo;
+
+a) Đối với chương trình đào tạo thuộc lĩnh vực sức khỏe, giảng viên
+giảng dạy hoặc hướng dẫn thực hành các học phần liên quan € đến khám bệnh,
+
+chữa bệnh phải có giấy phép hành nghề phù hợp; có tối thiểu 02 năm kinh
+nghiệm giảng dạy từ trình độ đại học trở lên hoặc kinh nghiệm chuyên môn
+
+quy định của pháp luật về khám bệnh, chữa bệnh.
+
+phù hợp; đã hoặc đang trực tiếp làm việc tại cơ sở khám bệnh, chữa bệnh "”1Z
+
+
+### Điều 12. Cơ sở vật chất, học liệu và môi trường học tập
+
+1. Cơ sở vật chất, cơ sở thực hành, thực tập, trang thiết bị và môi trường
+học tập đáp ứng yêu câu tổ chức thực hiện chương trình đào tạo phù hợp với
+trình độ đào tạo, ngành, lĩnh vực đào tạo và phương thức tổ chức đào tạo.
+
+2. Đối với chương trình đào tạo thuộc lĩnh vực sức khỏe, cơ sở thực
+hành phải đáp ứng các yêu. cầu theo quy định của pháp luật về khám bệnh,
+chữa bệnh và những yêu cầu cụ thể quy định tại Phụ lục III ban hành kèm
+theo Thông tư này và các quy định tại Chuẩn cơ sở giáo dục đại học;
+
+3. Đối với chương trình đào tạo giáo viên, phải có cơ sở thực hành sư
+phạm hoặc cơ chế phối hợp với cơ sở giáo dục mâm non, cơ sở giáo dục phổ
+thông và cơ sở giáo dục phù hợp để tổ chức thực hành nghề nghiệp, thực tập
+sư phạm và đánh giá năng lực nghề nghiệp của người học;
+
+4. Đối với chương trình đào tạo thuộc lĩnh vực nghệ thuật, thể thao,
+phải có cơ sở thực hành, biểu diễn, tập luyện hoặc thi đấu đáp ứng yêu cầu tổ
+chức đào tạo và chuẩn đầu ra;
+
+5. Mỗi học phần phải có giáo trình hoặc học liệu phù hợp với mục tiêu
+đào tạo, chuẩn đầu ra, nội dung học phần và trình độ đào tạo; bảo đảm tính
+khoa học, tính cập nhật, tuân thủ quy định của pháp luật về sở hữu trí tuệ và
+các quy định khác của pháp luật; không có nội dung vi phạm pháp luật, xâm
+hại quốc phòng, an ninh quốc gia, lợi ích cộng đồng: xuyên tạc chủ trương
+của Đảng, chính sách, pháp luật của Nhà nước hoặc trái với văn hóa, đạo đức,
+thuần phong mỹ tục.
+
+6. Hệ thống thư viện, học liệu số, tài nguyên học tập, nền ảng công
+nghệ thông tin và các hệ thống hỗ trợ đào tạo phải đếp ứng yêu câu tổ chức
+
+thực hiện chương trình đào tạo; bảo đảm khả năng tiêp cận, khai thác, quản
+lý, lưu trữ dữ liệu và an toàn thông tin.
+
+Chương III
+
+XÂY DỰNG, THẢM ĐỊNH VÀ BAN HÀNH
+CHUẢN CHƯƠN G TRÌNH ĐÀO TẠO THEO NGÀNH,
+NHÓM NGÀNH, LĨNH VỰC ĐÀO TẠO
+
+
+### Điều 13. Chuẩn chương trình đào tạo theo ngành, nhóm ngành và
+lĩnh vực đào tạo
+
+1. Chuẩn chương trình đào tạo theo ngành, nhóm ngành và lĩnh vực được
+xây dựng trên cơ sở chuân chương trình đào tạo của trình độ tương ứng; tham
+khảo chuẩn nghề nghiệp, chuân năng lực, yêu cầu vị trí việc làm và các tiêu
+chuẩn, chuẩn mực học thuật có liên quan trong nước và quốc tế.
+
+2. Chuẩn chương trình đào tạo theo ngành, nhóm ngành và lĩnh vực
+quy định các yêu cầu đặc thù phù hợp với đặc điểm chuyên môn, yêu cầu
+nghề nghiệp, yêu cầu hành nghề (nếu có) và nhu cầu phát triển nguôn nhân
+lực của lĩnh vực, nhóm ngành hoặc ngành đào tạo. jhz
+
+
+3. Chuẩn chương trình đào tạo theo ngành, nhóm ngành và lĩnh vực chỉ
+quy định các yêu câu cốt lõi; không quy định cụ thể danh mục học phần, nội
+dung đào tạo hoặc cấu trúc chương trình đào tạo chi tiết, trừ trường hợp cân
+thiết để bảo đảm yêu cầu đặc thù, quy định các môn “học, học phần sử dụng
+chung hoặc pháp luật có quy định khác; bảo đảm quyên tự chủ của cơ sở đào
+tạo trong xây dựng và phát triển chương trình đào tạo.
+
+4. Bộ trưởng Bộ Giáo dục và Đào tạo quyết định việc xây dựng, ban
+
+hành chuẩn chương trình đào tạo áp dụng chung cho ngành, một số nhóm
+ngành hoặc lĩnh vực đào tạo.
+
+
+### Điều 14. Quy trình xây dựng, ban hành, cập nhật chuẩn chương
+trình đào tạo theo ngành, nhóm ngành và lĩnh vực đào tạo
+
+1. Bộ trưởng Bộ Giáo dục và Đào tạo quyết định giao cơ sở đào tạo có
+năng lực chuyên môn và kinh nghiệm phù hợp chủ trì xây dựng chuân chương
+trình đào tạo theo ngành, nhóm ngành và lĩnh vực.
+
+2. Cơ sở đào tạo được giao nhiệm vụ chịu trách nhiệm tổ chức xây
+dựng chuẩn chương trình đào tạo theo quy trình quy định tại Phụ lục I ban
+hành kèm theo Thông tư này; trong quá trình xây dựng phải bảo đảm sự tham
+gia của các bên liên quan.
+
+3. Bộ trưởng Bộ Giáo dục và Đào tạo quyết định thành lập Hội đồng
+
+thấm định chuẩn chương trình đào tạo theo ngành, nhóm ngành và lĩnh vực
+đáp ứng các yêu câu sau đây:
+
+a) Hội đồng thẩm định có tối thiểu 09 thành viên, bao gồm đại diện Bộ
+Giáo dục và Đào tạo, đại diện bộ, cơ quan quản lý ngành, lĩnh vực có liên
+quan, đại diện cơ sở giáo dục đại học, doanh nghiệp, hiệp hội nghê nghiệp. tổ
+chức nghê nghiệp và các chuyên gia có chuyên môn phù hợp;
+
+a) Hội đồng gồm Chủ tịch, Phó Chủ tịch, thư ký và các ủy viên; các
+thành viên Hội đông thâm định không tham gia trực tiếp xây dựng dự thảo
+chuân chương trình đào tạo.
+
+4. Nhiệm vụ và quyền hạn của Hội đồng thẩm định
+
+a) Thẩm định sự phù hợp, tính khoa học, tính khả thi và chất lượng của
+chuẩn chương trình đào tạo theo ngành, nhóm ngành hoặc lĩnh vực;
+
+a) Yêu cầu cơ sở đào tạo chủ trì xây dựng chuẩn chương trình đào tạo
+cung cấp, giải trình, hoàn thiện hồ sơ phục vụ công tác thâm định.
+
+.©) Chịu trách nhiệm về kết quả thẩm định và thực hiện giải trình theo
+yêu cầu của cơ quan có thâm quyền.
+
+5. Tổ chức họp Hội đồng thầm định
+a) Hội đồng thực hiện thẩm định chuẩn chương trình đào tạo theo kế
+
+hoạch của Bộ Giáo dục và Đào tạo; gh⁄
+
+
+
+a) Kết luận thẩm định phải xác định rõ một trong các trường hợp sau:
+thông qua; thông qua có yêu câu chỉnh sửa, bổ sung: hoặc không thông qua
+chuẩn chương trình đào tạo và nêu rõ lý do;
+
+a) Cuộc họp của Hội đồng thẩm định phải được ghi thành biên bản với
+đầy đủ diễn biến, ý kiến của các thành viên và kết luận của Hội đồng.
+
+6. Bộ trưởng Bộ Giáo dục và Đào tạo ban hành chuẩn chương trình đào
+tạo; đối với chuẩn chương trình đào tạo thuộc lĩnh vực sức khỏe, pháp luật,
+văn hóa, nghệ thuật, thể thao, quốc phòng và an ninh, Bộ trưởng Bộ Giáo dục
+và Đào tạo chủ trì, phối hợp với bộ, cơ quan quản lý ngành, lĩnh vực có liên
+quan trước khi ban hành.
+
+7. Chuẩn chương trình đào tạo được rà soát, cập nhật định kỳ 05 năm
+một lần. hoặc khi có yêu cầu từ thực tiễn phát triển kinh tế - xã hội, yêu cầu
+phát triển nguồn nhân lực, yêu cầu quản lý nhà nước hoặc thay đổi của quy
+định pháp luật.
+
+8. Việc xây dựng, thâm định, ban hành, sửa đổi, bổ sung, thay thế, rà
+soát và cập nhật chuẩn chương trình đào tạo được thực hiện theo quy định tại
+Điều này.
+
+9, Đối với chuẩn chương trình đào tạo có yêu cầu riêng hoặc theo định
+hướng đào tạo cụ thể, Bộ trưởng Bộ Giáo dục và Đào tạo quyết định giao cơ
+sở đào tạo chủ trì thực hiện theo quy trình xây dựng, thấm định và ban hành
+chuẩn quy định tại Điều này.
+
+Chương IV
+
+XÂY DỰNG, THÁM ĐỊNH, BAN HÀNH VÀ PHÊ DUYỆT TỎ CHỨC
+THỰC HIỆN CHƯƠNG TRÌNH ĐÀO TẠO
+
+
+### Điều 15. Quy trình xây dựng, thâm định và ban hành chương trình
+đào tạo
+
+1. Cơ sở đào tạo tự chủ trong việc xây dựng, phát triển chương trình
+đào tạo; chịu trách nhiệm về chất lượng chương trình đào tạo và thực hiện
+trách nhiệm giải trình theo quy định của pháp luật.
+
+2. Khi xây dựng chương trình, cơ sở đào tạo phải bảo đảm các yêu cầu
+sau đây:
+
+a) Thuộc một ngành trong Danh mục ngành đào tạo do Bộ trưởng Bộ
+Giáo dục và Đào tạo ban hành; đối với chương trình đào tạo liên ngành,
+xuyên ngành, ngành đào tạo được xác định theo ngành có tỷ trọng khối lượng
+học tập lớn nhất hoặc theo mục tiêu đào tạo, chuân đâu ra của chương trình;
+trường hợp tỷ trọng khối lượng học tập bằng nhau thì chương trình đào tạo
+được xếp vào ngành đào tạo có số học phần bắt buộc chiếm ưu thế; trường
+hợp có số học phần bắt buộc bằng nhau thì chương trình đào tạo sẽ được xêp
+vào ngành đào tạo được nêu tên đâu tiên trong tên của chương trình đào tạo;
+
+a) Được xây dựng trên cơ sở chuẩn chương trình đào tạo ở trình độ
+
+theo ngành, nhóm ngành hoặc lĩnh vực đào tạo tương ứng; Nh⁄Z
+
+
+.©) Được tham khảo, đối sánh với chuẩn nghề nghiệp, chuẩn năng lực,
+yêu cầu hành nghề, chương trình đào tạo và các thông lệ học thuật phù hợp
+trong nước và quốc tế;
+
+a) Bảo đảm sự thống nhất giữa mục tiêu đào tạo, chuẩn đầu ra, nội
+dung đào tạo, phương pháp giảng dạy, kiêm tra, đánh giá và các điêu kiện bảo
+đảm chât lượng;
+
+đ) Phù hợp với sứ mạng, chiến lược phát triển và năng lực tổ chức thực
+hiện của cơ sở đào tạo;
+
+a) Có sự khác biệt phù hợp về mục tiêu đào tạo, chuẩn đầu ra, cấu trúc
+hoặc định hướng đào tạo giữa các chương trình đào tạo cùng ngành.
+
+3. Hiệu trưởng quyết định thành lập tổ hoặc nhóm xây dựng chương
+
+trình đào tạo (sau đây gọi chung là Tổ xây dựng chương trình); quy định
+nhiệm vụ, cơ cấu và trách nhiệm của Tổ xây dựng chương trình.
+
+4. Chương trình đào tạo phải được thâm định trước khi ban hành:
+
+a) Đối với cơ sở giáo dục đại học, Hội đồng Khoa học và Đào tạo thực
+hiện thâm định và chịu trách nhiệm về kết quả thâm định; các thành viên trực
+tiếp tham gia xây dựng chương trình đào tạo không tham gia thâm định; Chủ
+tịch Hội đồng có thể mời chuyên gia, nhà khoa học, nhà tuyển dụng hoặc
+thành phần phù hợp khác tham gia thâm định;
+
+a) Đối với cơ sở khác có hoạt động giáo dục đại học, Hiệu trưởng thành
+lập Hội đồng chuyên môn có ít nhất 09 thành viên, trong đó tối thiểu 03 thành
+viên không thuộc cơ sở đào tạo để thực hiện thẩm định; Hội đồng chịu trách
+nhiệm về kết quả thâm định;
+
+©) Thành viên tham gia thâm định phải có chuyên môn phù hợp, am
+hiểu và có kinh nghiệm về phát triển chương trình đào tạo, nghiên cứu khoa
+học hoặc thực tiễn nghề nghiệp liên quan.
+
+5. Nội dung thâm định chương trình đào tạo bao gồm:
+a) Việc đáp ứng các yêu cầu quy định tại khoản 2 Điều này;
+
+a) Mức độ đáp ứng chuẩn chương trình đào tạo, Khung trình độ quốc
+gia Việt Nam và các quy định của pháp luật có liên quan;
+
+a) Tính khả thi trong tổ chức thực hiện và khả năng duy trì các điều
+kiện bảo đảm chất lượng:
+
+a) Sự phù hợp với nhu cầu phát triển nguồn nhân lực và yêu cầu phát
+triển ngành, lĩnh vực đào tạo.
+
+6. Căn cứ kết quả thâm định, Hiệu trưởng quyết định ban hành chương
+trình đào tạo và chịu trách nhiệm vê chât lượng chương trình đào tạo.
+
+7. Trong thời hạn 30 ngày làm việc kể từ ngày ban hành chương trình
+
+đào tạo, cơ sở đào tạo có trách nhiệm: Äh⁄
+
+
+a) Cập nhật dữ liệu trên hệ thống cơ sở dữ liệu chuyên ngành về giáo
+dục đại học;
+
+a) Công khai chương trình đào tạo trên cổng thông tin điện tử của cơ sở
+đào tạo trong suôt thời gian chương trình còn hiệu lực.
+
+§. Đối với chương trình đào tạo cấp chứng chỉ giáo dục đại học:
+
+a) Được thiết kế độc lập hoặc tích hợp từ một hoặc một số thành phần
+của chương trình đào tạo câp văn bằng nhằm hình thành, cập nhật hoặc nâng
+cao năng lực của người học;
+
+a) Xác định rõ mục tiêu đào tạo, chuẩn đầu ra, nội dung đào tạo, khối
+lượng học tập và phương thức đánh giá;
+
+a) Bảo đảm khả năng tích lũy, công nhận hoặc chuyền đổi kết quả học
+tập theo quy định của cơ sở đào tạo.
+
+9. Việc xây dựng, thâm định, ban hành chương trình đào tạo, cập nhật
+dữ liệu và công khai thông tin đối với chương trình đào tạo thuộc lĩnh vực an
+ninh, quốc phòng thực hiện theo quy định của Bộ trưởng Bộ Công an, Bộ
+trưởng Bộ Quốc phòng.
+
+
+### Điều 16. Rà soát, đánh giá năng lực bảo đảm tổ chức thực hiện
+chương trình đào tạo
+
+1. Cơ sở đào tạo phải thực hiện rà soát, đánh giá việc đáp ứng các yêu
+cầu bảo đảm chất lượng theo quy định của Thông tư này và chuẩn chương
+trình đào tạo tương ứng trước khi quyết định hoặc đề nghị phê duyệt tổ chức
+thực hiện chương trình đào tạo.
+
+` 2. Hiệu trưởng tổ chức việc rà soát, đánh giá trước khi quyết định hoặc
+đê nghị phê duyệt tổ chức thực hiện chương trình đào tạo; việc rà soát được
+thực hiện bởi đơn vị hoặc bộ phận được Hiệu trưởng giao nhiệm vụ. Hiệu
+trưởng chịu trách nhiệm về kết quả rà soát.
+
+3. Nội dung rà soát, đánh giá năng lực tổ chức thực hiện chương trình
+đào tạo bao gôm:
+
+a) Mức độ đáp ứng các yêu cầu của chuẩn chương trình đào tạo của
+trình độ tương ứng quy định tại Chương II của Thông tư này và chuẩn chương
+trình đào tạo theo ngành, nhóm ngành hoặc lĩnh vực đào tạo;
+
+a) Việc đáp ứng các yêu cầu đặc thù đối với ngành, lĩnh vực và trình độ
+đào tạo theo quy định của pháp luật có liên quan;
+
+a) Khả năng duy trì các điều kiện bảo đảm chất lượng trong quá trình tổ
+chức thực hiện chương trình đào tạo.
+
+4. Kết quả rà soát, đánh giá năng lực tổ chức thực hiện chương trình
+đào tạo là căn cứ đê Hiệu trưởng:
+
+a) Đề nghị Bộ trưởng Bộ Giáo dục và Đào tạo xem xét, phê duyệt tổ
+chức thực hiện đối với các chương trình đào tạo thuộc thâm quyền quy định
+
+của Bộ trưởng tại Điều 17 của Thông tư này; #hzZ
+
+
+
+a) Quyết định phê duyệt tổ chức thực hiện đối với các chương trình đào
+tạo thuộc thấm quyền quy định của Hiệu trưởng tại Điều 18 của Thông tư này.
+
+5. Việc rà soát và phê duyệt tổ chức thực hiện chương trình đào tạo
+thuộc lĩnh vực an ninh, quốc phòng thực hiện theo quy định của Bộ trưởng Bộ
+Công an, Bộ trưởng Bộ Quốc phòng.
+
+
+### Điều 17. Phê duyệt tổ chức thực hiện chương trình đào tạo thuộc thấm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo
+
+1. Bộ trưởng Bộ Giáo dục và Đào tạo phê duyệt tổ chức thực hiện:
+
+a) Chương trình đào tạo trình độ đại học, thạc sĩ và tiến sĩ thuộc các
+ngành đào tạo giáo viên, lĩnh vực sức khỏe, lĩnh vực pháp luật;
+
+a) Chương trình đào tạo trình độ tiến sĩ các ngành, nhóm ngành, lĩnh
+vực: báo chí; khoa học giáo dục và lĩnh vực an ninh, quốc phòng;
+
+©) Chương trình đào tạo trình độ tiến sĩ của các cơ sở đào tạo chưa đáp
+ứng yêu cầu quy định tại khoản 2 Điều 18 của Thông tư này.
+
+2. Bộ Giáo dục và Đào tạo chủ trì, phối hợp với Bộ Y tế xem xét yêu
+cầu chuyên môn, thực hành đối với chương trình đào tạo thuộc lĩnh Vực sức
+khỏe; chủ trì, phối hợp với Bộ Tư pháp xem xét yêu cầu chuyên môn đối với
+chương trình đào tạo thuộc lĩnh vực pháp luật.
+
+3. Hồ sơ đề nghị phê duyệt bao gồm:
+a) Văn bản đề nghị phê duyệt tổ chức thực hiện chương trình đào tạo;
+
+a) Dữ liệu, tài liệu và minh chứng phục vụ việc rà soát bao gồm:
+chương trình đào tạo, báo cáo thâm định, quyết định ban hành chương trình
+đào tạo, báo cáo kết quả rà soát, đánh giá năng lực tổ chức thực hiện chương
+trình đào tạo quy định tại khoản 3 Điều 16 của Thông tư này.
+
+4. Hồ sơ đề nghị phê duyệt tổ chức thực hiện chương trình đào tạo
+được nộp trên hệ thống cơ sở dữ liệu chuyên ngành về giáo dục đại học và
+Cổng dịch vụ công quốc gia trừ hồ sơ của chương trình đào tạo thuộc lĩnh vực
+an ninh, quốc phòng được nộp trực tiếp về Bộ Giáo dục và Đào tạo.
+
+5. Thời hạn giải quyết kế từ ngày nhận đủ hồ sơ theo quy định:
+
+a) Không quá 45 ngày đối với chương trình đào tạo thuộc lĩnh vực sức
+khỏe và lĩnh vực pháp luật;
+
+a) Không quá 30 ngày đối với các chương trình đào tạo khác.
+
+6. Trường hợp đữ liệu, tài liệu, minh chứng chưa đầy đủ hoặc chưa đủ
+căn cứ xác định cơ sở đào tạo đáp ứng các yêu cầu để tổ chức thực hiện
+chương trình đào tạo theo quy định của Thông tư này, trong thời hạn 05 ngày
+làm việc kế từ ngày tiếp nhận hỗ sơ, Bộ Giáo dục và Đào tạo hoàn trả hồ sơ
+và nêu rõ lý do.
+
+7. Đối với hồ sơ đủ căn cứ xác định cơ sở đào tạo đáp ứng các yêu cầu
+đê tổ chức thực hiện chương trình đào tạo theo quy định của Thông tư "9 |[~—
+
+ Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quyết định phê duyệt tổ chức
+thực hiện chương trình đào tạo và cập nhật trên Hệ thông cơ sở dữ liệu
+chuyên ngành về giáo dục đại học, đồng thời công khai trên Cổng thông tin
+điện tử của Bộ Giáo dục và Đào tạo theo quy định của pháp luật.
+
+
+### Điều 18. Phê duyệt tổ chức thực hiện chương trình đào tạo thuộc
+thâm quyền của Hiệu trưởng cơ sở đào tạo
+
+1. Hiệu trưởng quyết định phê duyệt. tổ chức thực hiện chương trình
+đào tạo thuộc phạm vi câp phép hoạt động giáo dục đại học theo quy định của
+Luật Giáo dục đại học số 125/2025/QH15, trừ các trường hợp thuộc thâm
+quyền phê duyệt của Bộ trưởng Bộ Giáo dục và Đào tạo quy định tại Điều 17
+của Thông tư này.
+
+2. Đối với các chương trình đào tạo trình độ tiến sĩ mới thuộc các ngành
+và trình độ đào tạo đã được cấp có thâm quyền phê duyệt tổ chức thực hiện
+trước ngày Luật Giáo dục đại học số 125/2025/QH15 có hiệu lực thi hành, trừ
+các chương trình đào tạo tiến sĩ thuộc thẩm quyền của Bộ trưởng Bộ Giáo dục
+và Đào tạo quy định tại Điều 17 của Thông tư này, Hiệu trưởng quyết định phê
+duyệt tổ chức thực hiện khi cơ sở đào tạo bảo đảm đầy đủ các yêu cầu sau đây:
+
+a) Đáp ứng các tiêu chí của cơ sở đào tạo tiến sĩ theo chuẩn cơ sở giáo
+dục đại học do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành;
+
+a) Nhóm ngành đào tạo có ít nhất 15 giảng viên cơ hữu có trình độ tiến
+sĩ ngành có chuyên môn phù hợp; trong đó có tối thiểu 25% có chức danh
+giáo sư hoặc phó giáo sư được xác định tại ngày 31 tháng 12 của năm trước
+liền kề năm tổ chức đào tạo và phải được duy trì trong suôt quá trình tổ chức
+đào tạo;
+
+a) Đơn vị cấp khoa hoặc tương đương của nhóm ngành đào tạo đã có ít
+nhất 05 nghiên cứu sinh tốt nghiệp trình độ tiến sĩ đúng hạn theo thời gian học
+tập chuẩn; đối với lĩnh vực nghệ thuật, ngôn ngữ, văn học và văn hóa nước
+ngoài, đã có ít nhất 02 nghiên cứu sinh tốt nghiệp trình độ tiến sĩ đúng hạn theo
+thời gian học tập chuẩn và được cấp bằng trong vòng 05 năm gần nhất.
+
+3. Hiệu trưởng ban hành và tổ chức thực hiện quy trình nội bộ về xây
+dựng, thâm định, phê duyệt, tổ chức thực hiện, rà soát và cải tiến chương trình
+đào tạo thuộc thâm quyền theo quy định tại Thông tư này.
+
+4. Giám đốc đại học quốc gia, đại học vùng và đại học quy định cơ chế
+phối hợp nội bộ, phân công trách nhiệm và xác định đơn vị chịu trách nhiệm
+trong xây dựng, thâm định, phê duyệt, tổ chức thực hiện, rà soát và cải tiến
+chương trình đào tạo; bảo đảm đáp ứng và duy trì các yêu cầu bảo đảm chất
+lượng theo quy định của Thông tư này.
+
+5. Bộ Giáo dục và Đào tạo thực hiện giám sát, kiểm tra việc đáp ứng và
+duy trì các yêu cầu quy định tại Điều này thông qua hệ thống cơ sở dữ liệu
+chuyên ngành về giáo dục đại học và hoạt động kiểm tra theo quy định của
+
+pháp luật. 6h
+
+
+
+### Điều 19. Tổ chức thực hiện chương trình đào tạo
+
+1. Cơ sở đào tạo tổ chức tuyển sinh và thực hiện chương trình đào tạo
+theo quyết định phê duyệt tổ chức thực hiện chương trình đào tạo của cấp có
+thẩm quyên; thực hiện trách nhiệm giải trình và chịu trách nhiệm trước pháp
+luật về chất lượng đào tạo.
+
+2. Việc tổ chức thực hiện chương trình đào tạo được quản lý theo
+nguyên tắc hậu kiểm, gắn với trách nhiệm giải trình trên cơ sở:
+
+a) Mức độ đáp ứng chuẩn chương trình đào tạo;
+a) Việc duy trì, vận hành hiệu quả hệ thống bảo đảm chất lượng bên trong;
+
+a) Dữ liệu, tài liệu và minh chứng được cập nhật đầy đủ, chính xác trên
+hệ thống cơ sở dữ liệu chuyên ngành về giáo dục đại học và được công khai
+theo quy định;
+
+3. Kết quả kiểm định chất lượng cơ sở đào tạo hoặc chương trình đào
+tạo (nếu có).
+
+3. Trường hợp tổ chức đào tạo theo phương thức trực tuyến hoặc kết
+hợp giữa trực tuyến và trực tiếp, cơ sở đào tạo phải bảo đảm đáp ứng chuẩn
+chương trình đào tạo, chuẩn đầu ra và chất lượng tương đương với hình thức
+đào tạo trực tiếp theo quy định của pháp luật.
+
+4. Cơ sở đào tạo không được tổ chức thực hiện chương trình đào tạo
+mới thuộc cùng ngành đào tạo với chương trình đào tạo đang bị đình chỉ
+tuyển sinh hoặc đình chỉ hoạt động đào tạo trong thời gian quyết định đình chỉ
+còn hiệu lực.
+
+Š. Cơ sở đào tạo có trách nhiệm:
+
+a) Ban hành và tổ chức thực hiện quy định nội bộ về quản lý đào tạo và
+bảo đảm chất lượng;
+
+a) Bảo đảm có đơn vị chuyên môn quản lý điều hành và nhân sự hỗ trợ
+phù hợp với quy mô, phương thức tổ chức đào tạo;
+
+a) Thực hiện công khai, cập nhật và lưu trữ hồ sơ, dữ liệu và minh
+chứng của chương trình đào tạo theo quy định của pháp luật.
+
+6. Cơ quan có thẩm quyền phê duyệt tổ chức thực hiện chương trình
+đào tạo xem xét chấm dứt hiệu lực quyết định phê duyệt sau khi kiểm tra, xác
+minh, yêu cầu cơ sở đào tạo giải trình và xây dựng phương án bảo đảm
+quyền, lợi ích hợp pháp của người học trong các trường hợp sau đây:
+
+a) Cơ sở đào tạo không tổ chức tuyển sinh hoặc dừng tuyển sinh trong
+thời hạn 03 năm liên tục;
+
+a) Quy mô đào tạo của chương trình trong 03 năm liên tiếp mỗi năm
+giảm trên 30%, trừ trường hợp việc giảm quy mô phù hợp với định hướng
+
+phát triển của cơ sở đào tạo. Nh-~
+
+
+7. Trường hợp quyết định phê duyệt tổ chức thực hiện chương trình đào
+tạo bị chấm dứt hiệu lực theo khoản 6 Điều này thì cơ sở đào tạo không được
+tiếp tục tuyển sinh và tổ chức đào tạo; nếu cơ sở đào tạo có nhu cầu tổ chức
+thực hiện trở lại thì chương trình đào tạo phải được phê duyệt theo quy định
+
+tại Điều 17 hoặc Điều 18 của Thông tư này.
+
+
+### Điều 20. Duy trì, tự đánh giá và cải tiến chương trình đào tạo
+
+1. Cơ sở đào tạo thực hiện tự đánh giá thường xuyên và định kỳ chương
+trình đào tạo thông qua hệ thống bảo đảm chất lượng bên trong, bao gồm việc
+đo lường, đánh giá mức độ đạt chuẩn đầu ra của người học.
+
+2. Việc đo lường, đánh giá mức độ đạt chuẩn đầu ra của người học được
+thực hiện theo nguyên tắc quy định tại Phụ lục II ban hành kèm theo Thông tư
+này. Kết quả đánh giá là căn cứ để cải tiến hoạt động dạy học, kiểm tra, đánh
+giá và chương trình đào tạo.
+
+Sx Chương trình đào tạo được rà soát, đánh giá và cập nhật định kỳ ít
+nhất sau mỗi 02 khóa có người học tốt nghiệp hoặc theo yêu cầu phát triển và
+bảo đảm chất lượng của chương trình đào tạo.
+
+4. Căn cứ kết quả tự đánh giá, đo lường, đánh giá chuẩn đầu ra và rà
+soát chương trình đào tạo, Hiệu trưởng quyết định việc sửa đổi, bổ sung
+chương trình đào tạo.
+
+5. Trong thời hạn 30 ngày làm việc kể từ ngày ban hành quyết định sửa
+đổi, bổ sung chương trình đào tạo, cơ sở đào tạo có trách nhiệm cập nhật
+thông tin trên hệ thống cơ sở dữ liệu chuyên ngành về giáo dục đại học.
+
+6. Hiệu trưởng ban hành quy định nội bộ và tổ chức thực hiện hoạt
+động tự đánh giá, đo lường, đánh giá chuân đâu ra và cải tiên chương trình
+đào tạo phù hợp với Thông tư này và đặc thù của cơ sở đào tạo.
+
+7. Việc duy trì, tự đánh giá, đo lường, đánh giá chuẩn đầu ra, cải tiến
+chương trình đào tạo và cập nhật dữ liệu đôi với chương trình đào tạo thuộc
+
+lĩnh vực an ninh, quốc phòng thực hiện theo quy định của Bộ trưởng Bộ Công
+an, Bộ trưởng Bộ Quốc phòng.
+
+
+### Điều 21. Giám sát việc tổ chức thực hiện chương trình đào tạo
+
+1. Cơ sở đào tạo có trách nhiệm thường xuyên theo dõi, giám sát việc
+tổ chức thực hiện chương trình đào tạo; kịp thời phát hiện và khắc phục các
+hạn chế, vi phạm trong quá trình đảo tạo.
+
+2. Trường hợp chương trình đào tạo không còn đáp ứng các quy định
+của Thông tư này hoặc các yêu cầu bảo đảm chất lượng đã được rà soát, đánh
+giá theo quy định tại Điều 16 của Thông tư này, cơ sở đào tạo phải kịp thời
+thực hiện các biện pháp khắc phục trong thời hạn không quá 01 học kỳ theo
+kế hoạch học tập chuẩn của chương trình đào tạo.
+
+3. Trường hợp không bảo đảm điều kiện để tiếp tục tổ chức đào tạo, cơ
+sở đào tạo phải tạm dừng tuyên sinh hoặc thực hiện các biện pháp xử lý theo
+quy định của pháp luật.
+
+
+4. Bộ Giáo dục và Đào tạo thực hiện giám sát việc tổ chức thực hiện
+chương trình đào tạo thông qua hệ thông cơ sở dữ liệu chuyên ngành vệ giáo
+dục đại học, hoạt động kiểm tra và các hình thức giám sát khác theo quy định
+của pháp luật; xử lý hoặc kiến nghị cơ quan có thâm quyền xử lý các trường
+hợp vi phạm theo quy định của pháp luật.
+
+
+### Điều 22. Đình chỉ tuyển sinh, đình chỉ hoạt động đào tạo và chấm
+dứt thực hiện chương trình đào tạo
+
+1. Đình chỉ tuyển sinh là việc đừng tuyển sinh các khóa mới đối với
+chương trình đào tạo trong các trường hợp sau đây:
+
+a) Không duy trì việc đáp ứng các yêu cầu về đội ngũ giảng viên, cơ sở
+vật chất, học liệu, chương trình đào tạo và các yêu cầu bảo đảm chất lượng
+khác theo quy định của Thông tư này;
+
+a) Không thực hiện hoặc thực hiện không đầy đủ việc cập nhật dữ liệu,
+công khai thông tin và trách nhiệm giải trình theo quy định;
+
+a) Không thực hiện yêu cầu khắc phục sau giám sát, kiểm tra của cơ
+quan có thẩm quyền trong thời hạn được yêu cầu;
+
+a) Trường hợp khác theo kết luận thanh tra, kiểm tra hoặc quyết định
+của cơ quan có thâm quyền theo quy định của pháp luật.
+
+2. Đình chỉ hoạt động đào tạo là việc dừng tổ chức đào tạo đối với
+chương trình đào tạo trong các trường hợp sau đây:
+
+a) Không khắc phục được nguyên nhân dẫn đến bị đình chỉ tuyến sinh
+trong thời hạn theo yêu cầu của cơ quan có thẩm quyền;
+
+a) Không còn đáp ứng các yêu cầu tối thiểu để duy trì hoạt động đào
+tạo theo quy định của Thông tư này;
+
+©) Việc tiếp tục tổ chức đào tạo có nguy cơ ảnh hưởng nghiêm trọng
+đến chất lượng đào tạo hoặc quyền, lợi ích hợp pháp của người học;
+
+a) Trường hợp cơ quan có thâm quyền kết luận hoặc quyết định phải
+đình chỉ hoạt động đào tạo theo quy định của pháp luật.
+
+3. Chương trình đào tạo bị chấm dứt thực hiện trong các trường hợp sau
+đây:
+
+a) Tổ chức thực hiện khi chưa được phê duyệt của cấp có thắm quyền
+theo quy định tại Thông tư này;
+
+a) Có hành vi gian lận, giả mạo hoặc cung cấp thông tin, dữ liệu, minh
+chứng không trung thực trong quá trình phê duyệt hoặc tổ chức thực hiện;
+
+a) Tái phạm hành vi vi phạm đã dẫn đến bị đình chỉ hoạt động đào tạo;
+a) Vi phạm nghiêm trọng quy định của Thông tư này làm ảnh hưởng
+đến chất lượng đào tạo hoặc quyên, lợi ích hợp pháp của người học;
+
+
+đ) Trường hợp buộc phải chấm dứt thực hiện theo kết luận thanh tra,
+kiểm tra hoặc quyết định của cơ quan có thâm quyền theo quy định của pháp
+luật.
+
+4. Thời hạn đình chỉ tuyển sinh, đình chỉ hoạt động đào tạo không quá
+12 tháng. Trong thời gian chương trình đào tạo bị đình chỉ tuyển sinh, đình
+chỉ hoạt động đào tạo hoặc bị chấm dứt thực hiện, cơ sở đào tạo có trách
+nhiệm xây dựng và thực hiện phương án bảo đảm quyền và lợi ích hợp pháp
+của người học theo quy định của pháp luật.
+
+5; Chương trình đào tạo bị đình chỉ tuyển sinh, đình chỉ hoạt động đào
+tạo được tiệp tục tổ chức thực hiện khi cơ sở đào tạo đã khăc phục đây đủ
+nguyên nhân dẫn đến việc đình chỉ chậm nhất đến thời điểm kết thúc thời hạn
+
+đình chỉ và được xác định thông qua hoạt động giám sát, kiểm tra quy định tại
+khoản 8 Điều này.
+
+6. Việc đình chỉ tuyển sinh, đình chỉ hoạt động đào tạo và chấm dứt
+thực hiện chương trình đào tạo được thực hiện như sau:
+
+a) Cơ sở đào tạo có trách nhiệm chủ động đừng tuyển sinh, dừng hoạt
+động đào tạo khi không còn đáp ứng các yêu cầu theo quy định của Thông tư
+này; báo cáo Bộ Giáo dục và Đào tạo và cập nhật dữ liệu trên hệ thống CƠ SỞ
+dữ liệu chuyên ngành về giáo dục đại học;
+
+a) Trường hợp cơ sở đào tạo không thực hiện quy định tại điểm a
+khoản này thì cơ quan có thẩm quyển theo quy định của pháp luật quyết định
+
+đình chỉ tuyển sinh, đình chỉ hoạt động đào tạo hoặc chấm dứt thực hiện
+chương trình đào tạo.
+
+7. Đối với chương trình đào tạo thuộc lĩnh vực an ninh, quốc phòng:
+
+a) Việc đình chỉ tuyển sinh, đình chỉ hoạt động đào tạo và chấm dứt
+thực hiện chương trình đào tạo thực hiện theo quy định của Bộ trưởng Bộ
+Quốc phòng và Bộ trưởng Bộ Công an;
+
+a) Trường hợp phát hiện vi phạm qua hoạt động kiểm tra, giám sát hoặc
+
+theo kết luận của cơ quan có thẩm quyền thì việc xử lý được thực hiện theo
+quy định của pháp luật.
+
+8. Cơ sở đào tạo có trách nhiệm khắc phục nguyên nhân dẫn đến việc
+đình chỉ tuyển sinh, đình chỉ hoạt động đào tạo hoặc chấm dứt thực hiện theo
+quy định tại Điều này và báo cáo cơ quan có thẩm quyền sau khi hoàn thành
+việc khắc phục. Cơ quan có thẩm quyền thực hiện giám sát, kiểm tra việc
+khắc phục; trường hợp cơ sở đào tạo không khắc phục, khắc phục không đầy
+đủ hoặc tiếp tục vi phạm thì xử lý theo quy định của pháp luật.
+
+9, Quyết định đình chỉ tuyển sinh, đình chỉ hoạt động dào tạo hoặc
+chấm dứt thực hiện chương trình đào tạo: kết quả giám sát, kiểm tra; kết quả
+xác nhận việc khắc phục nguyên nhân dẫn đến đình chỉ và quyết định xử lý vi
+phạm (nếu có) được công khai trên cổng thông tin điện tử của cơ quan có
+ thấm quyền và cơ sở đào tạo theo quy định của pháp luật. jkZ
+
+
+10. Trường hợp bị chấm dứt thực hiện, chương trình đào tạo chỉ được
+tổ chức thực hiện trở lại sau khi được phê duyệt theo quy định tại Điêu 17
+hoặc Điêu 18 của Thông tư này.
+
+
+### Điều 23. Chế độ báo cáo, công khai, trách nhiệm giải trình
+
+1. Cơ sở đào tạo có trách nhiệm:
+
+a) Thực hiện báo cáo định kỳ hằng năm;
+
+a) Thực hiện báo cáo đột xuất theo yêu cầu của cơ quan quản lý nhà
+nước có thâm quyên;
+
+a) Cập nhật đầy đủ, kịp thời dữ liệu về chương trình đào tạo trên hệ
+thống cơ sở đữ liệu chuyên ngành về giáo dục đại học theo quy định.
+
+2. Báo cáo, cập nhật định kỳ hằng năm được thực hiện trước ngày 31
+tháng 12 trên hệ thống cơ sở dữ liệu chuyên ngành về giáo dục đại học; đối
+với chương trình đào tạo thuộc lĩnh vực an ninh, quốc phòng: việc báo cáo,
+cập nhật thực hiện theo hướng dẫn của Bộ Giáo dục và Đào tạo và quy định
+của Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng.
+
+3. Nội dung báo cáo bao gồm:
+
+a) Thông tin pháp lý và tình trạng hoạt động của chương trình đào tạo;
+a) Chương trình đào tạo và các thay đổi, cập nhật (nếu có);
+
+a) Yêu cầu bảo đảm chất lượng theo quy định của Thông tư này;
+
+a) Kết quả tự đánh giá, kiểm định, cải tiến chương trình đào tạo.
+
+4. Cơ sở đào tạo có trách nhiệm công khai, duy trì và cập nhật thường
+xuyên trên công thông tin điện tử của mình các thông tin vê chương trình đào
+tạo bao gôm những nội dung sau đây, trừ chương trình đào tạo thuộc lĩnh vực
+an ninh, quốc phòng thực hiện theo quy định của Bộ trưởng Bộ Công an, Bộ
+trưởng Bộ Quôc phòng:
+
+a) Mục tiêu, chuẩn đầu ra và cấu trúc chương trình đào tạo;
+a) Yêu cầu bảo đảm chất lượng:
+a) Thông tin tuyển sinh và yêu cầu đầu vào;
+a) Kết quả đào tạo (tỷ lệ tốt nghiệp, thời gian hoàn thành);
+đ) Thông tin việc làm và phản hồi của người học sau tốt nghiệp;
+a) Kế hoạch học tập toàn khóa học;
+ø) Học phí và các khoản thu liên quan (nếu có).
+
+5. Thông tin quy định tại khoản 4 Điều này phải được công khai trước
+khi tổ chức tuyển sinh và được cập nhật khi có thay đổi.
+
+6. Hiệu trưởng chịu trách nhiệm tổ chức quản lý và giám sát dữ liệu
+chương trình đào tạo; bảo đảm tính đây đủ, chính xác, trung thực và kịp thời
+
+Ni
+
+
+của thông tin báo cáo, thông tin công khai; thực hiện trách nhiệm giải trình
+theo quy định của pháp luật.
+
+Chương V
+TỎ CHỨC THỰC HIỆN
+
+### Điều 24. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành từ ngày 30 thángónăm 2026.
+2. Thông tư này thay thế:
+
+a) Thông tư số 17/2021/TT-BGDĐT ngày 22 tháng 6 năm 2021 của Bộ
+trưởng Bộ Giáo dục và Đào tạo quy định về chuẩn chương trình đào tạo; xây
+dựng, thâm định và ban hành chương trình đào tạo các trình độ của giáo dục
+đại học;
+
+a) Thông tư số 35/2021/TT-BGDĐT ngày 06 tháng 12 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định việc biên soạn, lựa chọn, thâm
+định, duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học;
+
+a) Thông tư số 02/2022/TT-BGDĐT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định vê điêu kiện, trình tự, thủ tục mở
+ngành đào tạo, đình chỉ tuyển sinh, đình chỉ hoạt động đào tạo các trình độ
+của giáo dục đại học;
+
+a) Thông tư số 12/2024/TT-BGDĐT ngày 30 tháng 7 năm 2024 của Bộ
+trưởng Bộ Giáo dục và Đào tạo sửa đổi, bổ sung một số điều của Thông tư số
+02/2022/TT-BGDĐT ngày 18 tháng 01 năm 2022.
+
+
+### Điều 25. Điều khoản chuyền tiếp
+1. Cơ sở đào tạo được tiếp tục tổ chức thực hiện các chương trình đào
+
+tạo thuộc các ngành đã được cấp có thâm quyền phê duyệt tổ chức thực hiện
+trước ngày Thông tư này có hiệu lực thi hành.
+
+Riêng đối với chương trình đào tạo thuộc các ngành đào tạo giáo viên,
+lĩnh vực sức khỏe, lĩnh vực pháp luật và chương trình đào tạo trình độ tiến sĩ
+được xây dựng, ban hành sau ngày Thông tư này có hiệu lực thi hành thì việc
+phê duyệt tổ chức thực hiện phải tuân thủ quy định của Thông tư này.
+
+2. Trong thời hạn 36 tháng kể từ ngày Thông tư này có hiệu lực thi
+hành, cơ sở đào tạo có trách nhiệm rà soát toàn diện và hoàn thiện các chương
+trình đào tạo đang tổ chức thực hiện để bảo đảm đáp ứng quy định của Thông
+tư này, bao gôm cả việc rà soát, cập nhật giáo trình, tài liệu giảng dạy, đội ngũ
+giảng viên, học liệu phù hợp với mục tiêu đào tạo, chuẩn đầu ra và nội dung
+của chương trình đào tạo.
+
+Trường hợp giáo trình, tài liệu giảng dạy, học liệu không còn đáp ứng
+yêu cầu của chương trình đào tạo hoặc có nội dung vi phạm pháp luật thì phải
+được kịp thời rà soát, cập nhật, thay thế hoặc dừng sử dụng.
+
+3. Đối với cơ sở đào tạo thuộc Bộ Công an và Bộ Quốc phòng, việc rà
+soát, hoàn thiện các chương trình đào tạo thuộc lĩnh vực an ninh, quốc _
+
+
+trong thời hạn quy định tại khoản 2 Điều này được thực hiện theo hướng dẫn
+của Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, bảo đảm quy định của
+pháp luật vê bảo vệ bí mật nhà nước.
+
+4. Các quyết định ban hành chuẩn chương trình đào tạo có yêu cầu
+riêng hoặc theo định hướng đào tạo cụ thê do Bộ trưởng Bộ Giáo dục và Đào
+tạo ban hành trước ngày Thông tư này có hiệu lực thi hành tiếp tục được thực
+hiện trong thời hạn quy định tại khoản 2 Điều này. Sau thời hạn này, việc áp
+dụng được thực hiện theo quyết định sửa đổi, bổ sung hoặc thay thế của Bộ
+trưởng Bộ Giáo dục và Đào tạo.
+
+5. Trường hợp chưa có chuẩn chương trình đào tạo của ngành, nhóm
+ngành hoặc lĩnh vực tại thời điểm Thông tư này có hiệu lực thi hành, việc xây
+dựng, ban hành chương trình đào tạo phải đáp ứng chuẩn chương trình đào
+tạo của trình độ tương ứng quy định tại Chương II của Thông tư này. Cơ sở
+đào tạo có trách nhiệm rà soát, cập nhật chương trình đào tạo trong thời hạn
+không quá 24 tháng kể từ ngày chuẩn chương trình đào tạo của ngành, nhóm
+ngành hoặc lĩnh vực tương ứng có hiệu lực thi hành.
+
+6. Hồ sơ đề nghị mở ngành đào tạo đã được cơ quan có thâm quyền tiếp
+nhận hợp lệ trước ngày Thông tư này có hiệu lực thi hành nhưng chưa được
+phê duyệt thì được tiếp tục xử lý theo quy định của Thông tư số 02/2022/TT-
+BGDĐT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo
+quy định về điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ tuyển sinh,
+đình chỉ hoạt động đào. tạo các trình độ của giáo dục đại học, đã được sửa đổi,
+bổ sung tại Thông tư số 12/2024/TT-BGDĐT ngày 30 tháng 7 năm 2024.
+
+7. Người học đã nhập học trước ngày Thông tư này có hiệu lực thi hành
+được tiếp tục học tập theo chương trình đào tạo áp dụng tại thời điểm nhập
+học. Việc áp dụng chương trình đào tạo đã được rà soát, cập nhật quy định tại
+Điều này phải bảo đảm quyền và lợi ích hợp pháp của người học.
+
+
+### Điều 26. Trách nhiệm thi hành
+
+1. Bộ Giáo dục và Đào tạo thực hiện quản lý nhà nước, hướng dẫn,
+kiểm tra và giám sát việc xây dựng, ban hành và tổ chức thực hiện chương
+trình đào tạo theo quy định của Thông tư này.
+
+2. Cơ quan quản lý trực tiếp và nhà đầu tư có trách nhiệm bảo đảm
+nguồn lực và các điều kiện cần thiết để cơ sở đào tạo xây dựng, ban hành và
+tổ chức thực hiện chương trình đào tạo theo quy định của Thông tư này và
+pháp luật có liên quan; không can thiệp trái pháp luật vào hoạt động học
+thuật, chuyên môn của cơ sở đào tạo.
+
+3. Cơ sở đào tạo có trách nhiệm sau đây:
+
+a) Ban hành và tổ chức thực hiện các quy định nội bộ về xây dựng, ban
+hành, tổ chức thực hiện, tự đánh giá và cải tiến chương trình đào tạo phù hợp
+
+với quy định của Thông tư này và pháp luật có liên quan; Ajk—
+
+
+a) Tổ chức xây dựng, thâm định, ban hành, phê duyệt tổ chức thực
+hiện, rà soát, cập nhật và cải tiến chương trình đào tạo theo thẩm quyền; thực
+hiện trách nhiệm giải trình theo quy định của pháp luật;
+
+a) Công khai, cập nhật và báo cáo thông tin về chương trình đào tạo
+theo quy định của Thông tư này và pháp luật có liên quan;
+
+a) Duy trì các yêu cầu bảo đảm chất lượng thực hiện chương trình đào
+tạo; chịu trách nhiệm về chât lượng đào tạo và quyên, lợi ích hợp pháp của
+người học;
+
+đ) Lưu trữ hồ sơ, dữ liệu và minh chứng về chương trình đào tạo theo
+quy định của pháp luật; cung câp thông tin, tài liệu phục vụ hoạt động giám
+sát, kiêm tra, hậu kiêm và kiêm định chât lượng giáo dục;
+
+a) Thực hiện các biện pháp cần thiết để bảo đảm quyền. và lợi ích hợp
+pháp của người học, giảng viên, cán bộ quản lý và nhân sự hỗ trợ trong quá
+trình tổ chức thực hiện chương trình đảo tạo.
+
+4. Đối với cơ sở đào tạo thuộc Bộ Quốc phòng và Bộ Công an, việc báo
+cáo, lưu trữ và công khai thông tin về chương trình đào tạo thuộc lĩnh vực
+quốc phòng, an ninh thực hiện theo quy định của Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an và pháp luật vê bảo vệ bí mật nhà nước.
+
+5. Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, thủ trưởng các
+đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; giám đốc các đại học, học
+viện; hiệu trưởng các trường đại học; hiệu trưởng hoặc giám đốc các cơ sở
+giáo dục khác có hoạt động giáo dục đại học và các tổ chức, cá nhân có liên
+quan chịu trách nhiệm thi hành Thông tư này./. „L—
+
+Nơi nhận: „
+
+Văn phòng Quốc hội; ___ KT. nộ TRƯỞNG
+Văn phòng Chính phủ;
+
+Ủy ban VH&XH của Quốc hội;
+
+Ban Tuyên giáo và Dân vận Trung ương;
+Hội đồng QGGD và PTNL;
+
+UBTW MTTQ Việt Nam;
+
+Các Bộ, cơ quan ngang bộ;
+
+Cục KTVB và TCTHPL (Bộ Tư pháp);
+ Bộ trưởng (để báo cáo);
+
+Các Thứ trưởng (đẻ phối hợp);
+
+Như Điều 26;
+
+Công báo Chính phủ;
+
+Cổng PLQG; CSDLQG về VBQPPL;
+
+Công TTĐT của Chính phủ;
+
+Công TTĐT của Bộ GDĐT;
+
+Lưu: VT, PC, GDĐH.
+
+
+
+PHỤ LỤC I
+Quy trình xây dựng chuẩn chương trình đào tạo
+(Kèm theo Thông tư số: P /2026/TT-BGDĐT ngày Ä2 tháng £ năm 2026
+của Bộ trưởng Bộ Giáo dục và Đào tạo)
+
+Bước 1. Thu thập, phân tích tài liệu nền
+
+a) Thu thập, đánh giá, biên dịch, phân tích các tài liệu mô tả dịch vụ,
+hoạt động, công việc của ngành, nhóm ngành hoặc lĩnh vực đào tạo tại một số
+quốc gia trên thế giới.
+
+a) Thu thập, đánh giá, tổng hợp các văn bản quy phạm pháp luật của
+Việt Nam liên quan đến nghề nghiệp thuộc ngành, nhóm ngành hoặc lĩnh vực
+đào tạo.
+
+a) Đối chiếu, so sánh kết quả phân tích tài liệu quốc tế với các quy định
+và yêu cầu về nhiệm vụ của loại nhân lực ngành đào tạo tại Việt Nam để xác
+định điểm tương đồng và khác biệt.
+
+Bước 2. Xây dựng danh mục nhóm công việc
+
+a) Khảo sát, xây dựng danh mục các nhóm công việc của loại nhân lực
+ngành đào tạo trên cơ sở kết quả phân tích dữ liệu thứ câp.
+
+a) Tông hợp, rà soát và thống nhất danh mục các nhóm dịch vụ, hoạt
+động, công việc của loại nhân lực ngành đào tạo.
+
+Bước 3. Tham vấn và xác định nhu cầu năng lực
+
+a) Khảo sát, thu thập ý kiến của các bên liên quan (nhà quản lý, chuyên
+gia, cơ sở đào tạo, đơn vị sử dụng lao động) về danh mục các nhóm công
+VIỆC.
+
+### Nơi nhận
+
+- Văn phòng Quốc hội;
+- Văn phòng Chính phủ;
+- Ủy ban VH&XH của Quốc hội;
+- Ban Tuyên giáo và Dân vận Trung ương;
+- Hội đồng QGGD và PTNL;
+- UBTW MTTQ Việt Nam;
+- Các Bộ, cơ quan ngang bộ;
+- Cục KTVB và TCTHPL (Bộ Tư pháp);
+- Bộ trưởng (để báo cáo);
+- Các Thứ trưởng (để phối hợp);
+- Như Điều 26;
+- Công báo Chính phủ;
+- Cổng PLQG; CSDLQG về VBQPPL;
+- Cổng TTĐT của Chính phủ;
+- Cổng TTĐT của Bộ GDĐT;
+- Lưu: VT, PC, GDĐH.
+
+---
+
+KT. BỘ TRƯỞNG
+
+THỨ TRƯỞNG
+
+**Lê Quân**
+
+---
+
+## PHỤ LỤC
+
+*(Các phụ lục I, II, III, IV chứa quy trình và mẫu biểu hướng dẫn thực hiện)*
+
+### PHỤ LỤC I
+
+Quy trình xây dựng, ban hành và cập nhật chuẩn chương trình đào tạo
+
+### PHỤ LỤC II
+
+Quy trình xây dựng, thẩm định và ban hành chương trình đào tạo
+
+### PHỤ LỤC III
+
+Yêu cầu về giảng viên, cơ sở thực hành đối với ngành đào tạo thuộc lĩnh vực sức khỏe
+
+### PHỤ LỤC IV
+
+Mẫu tham khảo các văn bản liên quan
+
+Mẫu 1: Báo cáo tự đánh giá chương trình đào tạo
+
+Mẫu 2: Phiếu rà soát, đánh giá năng lực tổ chức thực hiện chương trình đào tạo
+
+Mẫu 3: Báo cáo (Biên bản) thẩm định chương trình đào tạo
+
+Mẫu 4: Quyết định ban hành chương trình đào tạo của Hiệu trưởng
+
+Mẫu 5: Quyết định phê duyệt tổ chức thực hiện chương trình đào tạo (Bộ trưởng)
+
+Mẫu 6A: Quyết định phê duyệt tổ chức thực hiện chương trình đào tạo trình độ tiến sĩ
+
+Mẫu 6B: Báo cáo đánh giá năng lực tổ chức thực hiện chương trình đào tạo (Bộ trưởng phê duyệt)

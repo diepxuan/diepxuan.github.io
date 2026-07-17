@@ -1,10 +1,11 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-16T00:32 GMT+7
-> Nguồn quét: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu
-> Dải docid: 228800–232000 | Tháng 7/2026
-> Ngưỡng: Ban hành sau 05/07/2026
+> Phiên bản: 2026-07-17T07:32 GMT+7
+> Nguồn quét: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (batch 2026-07-16T11:54:13+07:00)
+> Dải docid: 440490–440495 | Tháng 7/2026
+> Ngưỡng: Ban hành sau 15/07/2026 (bổ sung vào dải trước)
+> Bổ sung: 5 văn bản mới chưa từng tracking — phát hiện docid 440490, 440494, 440495
 
 ---
 
@@ -196,7 +197,7 @@
 | **Số** | 98/2026/TT-BTC |
 | **Loại** | Thông tư |
 | **Cơ quan** | Bộ Tài chính |
-| **Trạng thái** | Cần xác minh — slug trên luatvietnam.vn không tìm thấy đúng trang, trả về TT 97 |
+| **Trạng thái** | **ĐÃ XÁC MINH** — slug: `ke-toan/thong-tu-98-2026-tt-btc-quy-che-kiem-toan-noi-bo-cho-co-quan-nha-nuoc-don-vi-su-nghiep-cong-lap-440437-d1` |
 | **Ghi chú ưu tiên** | Cần xác minh trên vanban.chinhphu.vn |
 
 ---
@@ -208,7 +209,7 @@
 | **Số** | 99/2026/TT-BTC |
 | **Loại** | Thông tư |
 | **Cơ quan** | Bộ Tài chính |
-| **Trạng thái** | Cần xác minh |
+| **Trạng thái** | **ĐÃ XÁC MINH** — slug: `giao-duc/thong-tu-99-2026-tt-btc-quy-dinh-tai-chinh-cho-giang-vien-sinh-vien-trong-linh-vuc-dien-hat-nhan-440467-d1` |
 | **Ghi chú ưu tiên** | Không có slug chính xác trên sitemap thông tư BTC; cần tra vanban.chinhphu.vn |
 
 ---
@@ -222,11 +223,417 @@
 | NĐ 279/2026/NĐ-CP | **MỚI** — xác minh trên luatvietnam.vn 12/07/2026 | Chức năng Bộ GDĐT |
 | TT-BTC 95/2026 | **MỚI** — xác minh trên luatvietnam.vn 01/07/2026 | Hiệp định thuế quốc tế |
 | TT-BTC 97/2026 | **MỚI** — xác minh trên luatvietnam.vn 06/07/2026 | Bãi bỏ TT 55/2010 |
-| TT-BTC 98/2026 | **Cần xác minh** — slug luatvietnam không chính xác | Văn phòng đại diện |
-| TT-BTC 99/2026 | **Cần xác minh** — slug không xác định | Tìm trên vanban.chinhphu |
-| TT-BTC 100/2026 | Không tìm thấy trên sitemap | Có thể chưa ban hành |
+| TT-BTC 98/2026 | **ĐÃ XÁC MINH** slug `ke-toan/thong-tu-98-2026-tt-btc-quy-che-kiem-toan-noi-bo-cho-co-quan-nha-nuoc-don-vi-su-nghiep-cong-lap-440437-d1` | Quy chế kiểm toán nội bộ cho khu vực công | **THIẾU FILE** |
+| TT-BTC 99/2026 | **ĐÃ XÁC MINH** slug `giao-duc/thong-tu-99-2026-tt-btc-quy-dinh-tai-chinh-cho-giang-vien-sinh-vien-trong-linh-vuc-dien-hat-nhan-440467-d1` | Tài chính điện hạt nhân (liên kết NĐ 176) | **THIẾU FILE** |
+| TT-BTC 100/2026 | **ĐÃ XÁC MINH** slug `tai-chinh/thong-tu-100-2026-tt-btc-bai-bo-06-thong-tu-cua-bo-tai-chinh-hieu-luc-tu-01-09-2026-440486-d1` | Bãi bỏ 06 TT (ban hành 15/07, hiệu lực 01/09/2026); docid 440486 | **THIẾU FILE** |
+| TT-BXD 59/2026 | **MỚI** — slug: `giao-thong/thong-tu-59-2026-tt-bxd-dinh-muc-kinh-te-ky-thuat-cong-tac-nao-vet-cong-trinh-hang-hai-440390-d1` | Định mức KTKT nạo vét hàng hải | **THIẾU FILE** |
+| TT-BKHCN 37/2026 | **MỚI** — slug: `thong-tin/thong-tu-37-2026-tt-bkhcn-quy-dinh-chung-chi-vo-tuyen-dien-nghiep-du-va-tieu-chuan-thi-cap-440448-d1` | Chứng chỉ vô tuyến điện nghiệp dư | **THIẾU FILE** |
+| NĐ 283/2026/NĐ-CP | **MỚI** — slug: `lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-lao-dong-bao-hiem-xa-hoi-440485-d1` | Xử phạt VPHC LĐ-BHXH | **THIẾU FILE** |
 
 ---
 
-*Lần cập nhật tiếp theo: khoảng 17/07/2026 hoặc khi có văn bản mới ban hành sau 12/07/2026.*
-*Đệ #1 Discovery — github-io workspace*
+## BỔ SUNG — 2026-07-16T18:33 (sitemap batch mới)
+
+> Quét lại sitemap luatvietnam.vn lúc 2026-07-16T11:54:13+07:00. Xác nhận tất cả slug còn lại và phát hiện NĐ 283 + TT-BXD 59 + TT-BKHCN 37.
+
+### TÓM TẮT BỔ SUNG
+
+- Văn bản mới phát hiện thêm: **6**
+- Nguồn: luatvietnam.vn sitemap_thongtu + sitemap_nghidinh batch 16/07/2026
+- 282/NĐ-CP: **CHƯA CÓ** trên sitemap
+
+### VĂN BẢN MỚI PHÁT HIỆN THÊM (6)
+
+#### 1. Nghị định 283/2026/NĐ-CP — Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 283/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 16/07/2026 |
+| **Hiệu lực** | 16/07/2026 |
+| **Chủ đề** | Lao động, Bảo hiểm xã hội, Vi phạm hành chính |
+| **LuatVietnam** | `lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-lao-dong-bao-hiem-xa-hoi-440485-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Xử phạt VPHC trong lĩnh vực lao động và BHXH; docid 440485 |
+
+---
+
+#### 2. Thông tư 100/2026/TT-BTC — Bãi bỏ 06 Thông tư của Bộ Tài chính (hiệu lực 01/09/2026)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 100/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 15/07/2026 |
+| **Hiệu lực** | 01/09/2026 |
+| **Chủ đề** | Bãi bỏ văn bản hết hiệu lực |
+| **LuatVietnam** | `tai-chinh/thong-tu-100-2026-tt-btc-bai-bo-06-thong-tu-cua-bo-tai-chinh-hieu-luc-tu-01-09-2026-440486-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Bãi bỏ 06 TT năm 2016 về giá dịch vụ kiểm định an toàn kỹ thuật tàu biển, phương tiện giao thông. Docid 440486. |
+
+---
+
+#### 3. Thông tư 99/2026/TT-BTC — Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 99/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 14/07/2026 |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Giáo dục, Điện hạt nhân |
+| **LuatVietnam** | `giao-duc/thong-tu-99-2026-tt-btc-quy-dinh-tai-chinh-cho-giang-vien-sinh-vien-trong-linh-vuc-dien-hat-nhan-440467-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Liên kết với NĐ 176/2026 (ưu đãi giảng viên/sinh viên điện hạt nhân). Docid 440467. |
+
+---
+
+#### 4. Thông tư 98/2026/TT-BTC — Quy chế kiểm toán nội bộ cho cơ quan nhà nước, đơn vị sự nghiệp công lập
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 98/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 14/07/2026 |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Kế toán, Kiểm toán, Quản lý công |
+| **LuatVietnam** | `ke-toan/thong-tu-98-2026-tt-btc-quy-che-kiem-toan-noi-bo-cho-co-quan-nha-nuoc-don-vi-su-nghiep-cong-lap-440437-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Quy chế kiểm toán nội bộ cho khu vực công. Docid 440437. |
+
+---
+
+#### 5. Thông tư 59/2026/TT-BXD — Định mức kinh tế - kỹ thuật công tác nạo vét công trình hàng hải
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 59/2026/TT-BXD |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Xây dựng |
+| **Ban hành** | 14/07/2026 |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Hàng hải, Xây dựng |
+| **LuatVietnam** | `giao-thong/thong-tu-59-2026-tt-bxd-dinh-muc-kinh-te-ky-thuat-cong-tac-nao-vet-cong-trinh-hang-hai-440390-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Định mức kinh tế - kỹ thuật nạo vét hàng hải. Docid 440390. |
+
+---
+
+#### 6. Thông tư 37/2026/TT-BKHCN — Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 37/2026/TT-BKHCN |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Khoa học và Công nghệ |
+| **Ban hành** | 14/07/2026 |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Thông tin, Vô tuyến điện |
+| **LuatVietnam** | `thong-tin/thong-tu-37-2026-tt-bkhcn-quy-dinh-chung-chi-vo-tuyen-dien-nghiep-du-va-tieu-chuan-thi-cap-440448-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Chứng chỉ vô tuyến điện nghiệp dư. Docid 440448. |
+
+---
+
+### STUB CẦN BỔ SUNG
+
+| Số văn bản | Trạng thái file | Ghi chú |
+|-----------|----------------|---------|
+| TT-BCA 92/2026 | **STUB (3,425 bytes)** — `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` | Cần bổ sung nội dung đầy đủ |
+| TT-BCA 116/2026 | **THIẾU FILE** | Sitemap: `tu-phap/thong-tu-116-2026-tt-bca-quy-dinh-chi-tiet-va-bien-phap-thi-hanh-luat-cu-tru-440199-d1.html` |
+
+---
+
+## BỔ SUNG — SITEMAP BATCH 2026-07-16 11:54+07:00 — 2 VĂN BẢN CÒN THIẾU
+
+> Ghi nhận 2 văn bản còn thiếu trong sitemap batch 2026-07-16 11:54+07:00. Phát hiện qua so sánh docid.
+
+### 1. Thông tư 98/2026/TT-BQP — Quy định chứng nhận hệ thống quản lý chất lượng sản phẩm quốc phòng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 98/2026/TT-BQP |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Quốc phòng |
+| **Ban hành** | 10/07/2026 |
+| **Hiệu lực** | 10/07/2026 |
+| **Chủ đề** | Quốc phòng, Quản lý chất lượng, Chứng nhận sản phẩm quốc phòng |
+| **LuatVietnam** | `quoc-phong/thong-tu-98-2026-tt-bqp-quy-dinh-chung-nhan-he-thong-quan-ly-chat-luong-san-pham-quoc-phong-440224-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Ghi chú ưu tiên** | Quy định chứng nhận hệ thống quản lý chất lượng sản phẩm quốc phòng. Căng cứ: Luật Quốc phòng 2018, Nghị định 132/2020/NĐ-CP. Docid 440224. |
+
+---
+
+### 2. Thông tư 30/2026/TT-BNNMT — Quy định kỹ thuật bay đo từ, phổ gamma trong địa chất
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 30/2026/TT-BNNMT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Nông nghiệp và Môi trường |
+| **Ban hành** | 13/07/2026 |
+| **Hiệu lực** | 13/07/2026 |
+| **Chủ đề** | Địa chất, Khoáng sản, Kỹ thuật bay đo từ, Phổ gamma |
+| **LuatVietnam** | `tai-nguyen/thong-tu-30-2026-tt-bnnmt-quy-dinh-ky-thuat-bay-do-tu-pho-gamma-trong-dia-chat-440247-d1.html` |
+| **Trạng thái** | Chưa có file |
+| **Căn cứ** | Luật Địa chất và Khoáng sản 54/2024/QH15; Luật sửa đổi 147/2025/QH15; NĐ 193/2025/NĐ-CP; NĐ 21/2026/NĐ-CP; NĐ 35/2025/NĐ-CP |
+| **Người ký** | Bộ trưởng Bộ Nông nghiệp và Môi trường |
+| **Ghi chú ưu tiên** | Quy định kỹ thuật bay đo từ, phổ gamma trong điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản. Áp dụng cho cả bay có người lái và bay không người lái (UAV). Chương I (Điều 1–3): quy định chung, phạm vi điều chỉnh, đối tượng áp dụng, giải thích từ ngữ. Docid 440247. |
+
+---
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-17 (DISCOVERY v8)
+
+> Quét sitemap 2026-07-17 00:33 ICT. sitemap_nghidinh mới nhất 2026-07-16T11:28:13+07:00 — mới nhất: NĐ 283/CP (docid 440485). sitemap_thongtu mới nhất 2026-07-16T11:54:13+07:00. Không có NĐ 282 trên sitemap.
+
+### TÓM TẮT
+
+- Văn bản mới phát hiện lần này: **5**
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (batch 2026-07-16T11:54:13+07:00)
+- **NĐ 282/2026/NĐ-CP: CHƯA CÓ** trên sitemap_nghidinh
+- Các docid trên sitemap đã có trong tracking: tất cả đã cover
+
+### SẠCH — VĂN BẢN CHƯA CÓ TRONG TRACKING LẦN TRƯỚC (5)
+
+#### 1. Nghị định 284/2026/NĐ-CP — Bảo vệ di sản văn hóa phi vật thể
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 284/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 16/07/2026 (lastmod 2026-07-16T11:07) |
+| **Hiệu lực** | 16/07/2026 |
+| **Chủ đề** | Văn hóa, Di sản văn hóa |
+| **LuatVietnam** | `chinh-sach/nghi-dinh-284-2026-nd-cp-bao-ve-di-san-van-hoa-440490-d1.html` |
+| **Docid** | 440490 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | CAO — Nghị định chi tiết Luật Di sản văn hóa 2022; thay thế NĐ 98/2015; quy định bảo vệ di sản văn hóa phi vật thể |
+
+---
+
+#### 2. Thông tư 55/2026/TT-BGDĐT — Chương trình giáo dục phổ thông 2018 (sửa đổi)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 55/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 16/07/2026 (lastmod 2026-07-16T11:09) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Giáo dục, Chương trình phổ thông |
+| **LuatVietnam** | `chinh-sach/thong-tu-55-2026-tt-bgddt-chuong-trinh-giao-duc-pho-thong-440495-d1.html` |
+| **Docid** | 440495 |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | CAO — Sửa đổi Chương trình GDPT theo Nghị quyết 88/2014/QH13; căn cứ Nghị định 279/2026/NĐ-CP (chức năng Bộ GDĐT); liên kết trực tiếp NĐ 271 (miễn phí SGK) |
+
+---
+
+#### 3. Thông tư 101/2026/TT-BQP — Định mức kinh tế - kỹ thuật xây dựng công trình quốc phòng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 101/2026/TT-BQP |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Quốc phòng |
+| **Ban hành** | 16/07/2026 (lastmod 2026-07-16T11:09) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Quốc phòng, Xây dựng |
+| **LuatVietnam** | `tai-chinh/thong-tu-101-2026-tt-bqp-dinh-muc-kinh-te-ky-thuat-xay-dung-cong-trinh-quoc-phong-440494-d1.html` |
+| **Docid** | 440494 |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | TRUNG BÌNH — Định mức KTKT xây dựng công trình quốc phòng; thay thế Thông tư cũ 61/2010/TT-BQP |
+
+---
+
+#### 4. Thông tư 115/2026/TT-BCA — Thẻ, giấy phép, chứng nhận an ninh hàng không
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 115/2026/TT-BCA |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Công an |
+| **Ban hành** | 14/07/2026 (lastmod 2026-07-14T08:19:16+07:00) |
+| **Hiệu lực** | 14/07/2026 |
+| **Chủ đề** | Hàng không, An ninh |
+| **LuatVietnam** | `giao-thong/thong-tu-115-2026-tt-bca-quy-dinh-ve-the-giay-phep-chung-nhan-an-ninh-hang-khong-440224-d1.html` |
+| **Docid** | 440224 |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | TRUNG BÌNH — Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không; căn cứ Luật Hàng không dân dụng 2023 |
+
+---
+
+#### 5. Thông tư 92/2026/TT-BCA — Ứng phó sự cố thiên tai và tìm kiếm cứu nạn
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 92/2026/TT-BCA |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Công an |
+| **Ban hành** | Sau 16/07/2026 (lastmod 2026-07-16T11:54:13+07:00) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Thiên tai, Tìm kiếm cứu nạn, Công an |
+| **LuatVietnam** | `tai-nguyen/thong-tu-92-2026-tt-bca-quy-dinh-ung-pho-su-co-thien-tai-va-tim-kiem-cuu-nan-cua-cong-an-nhan-dan-440146-d1.html` |
+| **Docid** | 440146 |
+| **Trạng thái** | Có stub — `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` (3,425 bytes) |
+| **Ghi chú ưu tiên** | THẤP — Stub đã có, crawl lần trước thất bại (403 Cloudflare); nguồn chính thức không truy cập được |
+
+---
+
+## GHI CHÉP KHÁC — TRẠNG THÁI CẬP NHẬT
+
+| Số văn bản | Cập nhật | Ghi chú |
+|-----------|---------|---------|
+| NĐ-CP 279/2026 | Đã có file (cần xác minh có đầy đủ nội dung) | Chức năng Bộ GDĐT — chưa crawl toàn văn |
+| NĐ-CP 280/2026 | Đã có file — `van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md` | Bảo hiểm tiền gửi |
+| NĐ-CP 281/2026 | Đã có file — `van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md` | Sửa đổi NĐ 123 |
+| NĐ-CP 283/2026 | Đã có file — `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` | Xử phạt VPHC lao động-BHXH |
+| TT-BGDDT 54/2026 | Đã có file — `van-ban/giao-duc/thong-tu-54-2026-tt-bgdut-chuong-trinh-dao-tao-dai-hoc.md` | Chương trình đào tạo ĐH |
+| TT-BGDDT 53/2026 | Đã có file — `van-ban/giao-duc/thong-tu-53-2026-tt-bgdut-tuyen-sinh-sau-dai-hoc.md` | Tuyển sinh sau ĐH |
+| TT-BCA 92/2026 | Stub — `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` | Ứng phó thiên tai TKCN — nguồn chính thức không truy cập được |
+| NĐ-CP 282/2026 | **KHÔNG CÓ** trên sitemap_nghidinh | Tiếp tục theo dõi |
+
+### ƯU TIÊN TIẾP THEO (CẦN SẾP PHÂN CÔNG CRAWL)
+
+1. **NĐ 284/2026/NĐ-CP** — Bảo vệ di sản văn hóa phi vật thể (CAO) — slug: `chinh-sach/nghi-dinh-284-2026-nd-cp-bao-ve-di-san-van-hoa-440490-d1.html`
+2. **TT-BGDĐT 55/2026** — Chương trình GDPT (CAO) — slug: `chinh-sach/thong-tu-55-2026-tt-bgddt-chuong-trinh-giao-duc-pho-thong-440495-d1.html`
+3. **TT-BQP 101/2026** — Định mức KTKT công trình quốc phòng (TRUNG BÌNH) — slug: `tai-chinh/thong-tu-101-2026-tt-bqp-dinh-muc-kinh-te-ky-thuat-xay-dung-cong-trinh-quoc-phong-440494-d1.html`
+4. **TT-BCA 115/2026** — Thẻ, giấy phép an ninh hàng không (TRUNG BÌNH) — slug: `giao-thong/thong-tu-115-2026-tt-bca-quy-dinh-ve-the-giay-phep-chung-nhan-an-ninh-hang-khong-440224-d1.html`
+5. **NĐ-CP 279/2026** — Chức năng Bộ GDĐT (TRUNG BÌNH) — slug: `giao-duc/nghi-dinh-279-2026-nd-cp-chuc-nang-nhiem-vu-quyen-han-bo-giao-duc-va-dao-tao-440239-d1.html`
+
+---
+
+*Lần cập nhật tiếp theo: khi có văn bản mới hoặc thay đổi sitemap.*
+*Đệ #1 Discovery — github-io workspace — 2026-07-17T07:32 GMT+7*
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-17 (DISCOVERY v7)
+
+> Quét sitemap 2026-07-17 01:59 ICT. So sánh batch tham chiếu: sitemap_nghidinh (2026-07-16T11:28:13+07:00, NĐ-CP mới nhất: 283/NĐ-CP); sitemap_thongtu (2026-07-16T11:54:13+07:00).
+> Kết luận: **sitemap_nghidinh KHÔNG thay đổi** — 283/NĐ-CP vẫn là mới nhất, không tìm thấy 282/NĐ-CP. **sitemap_thongtu có nhiều entry cập nhật lastmod**.
+
+### TÓM TẮT
+
+- Văn bản mới phát hiện: **5** (toàn là Thông tư)
+- Nguồn: luatvietnam.vn sitemap_thongtu batch 2026-07-16T11:54:13+07:00 (entry mới/cập nhật)
+- 282/NĐ-CP: **CHƯA CÓ** trên sitemap
+
+### VĂN BẢN MỚI PHÁT HIỆN (5)
+
+#### 1. Thông tư 54/2026/TT-BGDĐT — Quy định chương trình đào tạo các trình độ giáo dục đại học
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 54/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | 30/06/2026 |
+| **Chủ đề** | Giáo dục đại học, Chương trình đào tạo |
+| **LuatVietnam** | `giao-duc/thong-tu-54-2026-tt-bgddt-quy-dinh-chuong-trinh-dao-tao-dai-hoc-moi-nhat-440237-d1.html` |
+| **Docid** | 440237 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | CAO — Thay thế toàn bộ quy định chương trình đào tạo ĐH; căn cứ Luật Giáo dục 43/2019, Luật sửa đổi 123/2025 |
+
+---
+
+#### 2. Thông tư 53/2026/TT-BGDĐT — Ban hành Quy chế tuyển sinh và đào tạo sau đại học
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 53/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | 30/06/2026 |
+| **Chủ đề** | Giáo dục, Tuyển sinh sau đại học |
+| **LuatVietnam** | `giao-duc/thong-tu-53-2026-tt-bgddt-quy-che-tuyen-sinh-va-dao-tao-sau-dai-hoc-moi-nhat-440236-d1.html` |
+| **Docid** | 440236 (xác minh slug) |
+| **Trạng thái** | Đã có file: `van-ban/giao-duc/thong-tu-53-2026-tt-bgdut-tuyen-sinh-sau-dai-hoc.md` — cần kiểm tra |
+| **Ghi chú ưu tiên** | CAO — Quy chế tuyển sinh và đào tạo sau ĐH (thạc sĩ, tiến sĩ) |
+
+---
+
+#### 3. Thông tư 18/2026/TT-BVhttdl — Quy định định mức kinh tế - kỹ thuật bảo tàng công lập
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 18/2026/TT-BVhttdl |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Văn hóa, Thể thao và Du lịch |
+| **Ban hành** | Sau 15/07/2026 (lastmod 2026-07-16) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Văn hóa, Bảo tàng, Định mức kinh tế - kỹ thuật |
+| **LuatVietnam** | `van-hoa/thong-tu-18-2026-tt-bvhttdl-quy-dinh-dinh-muc-kinh-te-ky-thuat-bao-tang-cong-lap-440227-d1.html` |
+| **Docid** | 440227 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | TRUNG BÌNH — Định mức KTKT bảo tàng công lập |
+
+---
+
+#### 4. Thông tư 19/2026/TT-BVhttdl — Quy định chi tiết về thẻ nhà báo và bồi dưỡng nghiệp vụ
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 19/2026/TT-BVhttdl |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Văn hóa, Thể thao và Du lịch |
+| **Ban hành** | Sau 15/07/2026 (lastmod 2026-07-16) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Báo chí, Thẻ nhà báo |
+| **LuatVietnam** | `hanh-chinh/thong-tu-19-2026-tt-bvhttdl-quy-dinh-chi-tiet-ve-the-nha-bao-va-boi-duong-nghiep-vu-440215-d1.html` |
+| **Docid** | 440215 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | TRUNG BÌNH — Quy định thẻ nhà báo và bồi dưỡng nghiệp vụ báo chí |
+
+---
+
+#### 5. Thông tư 35/2026/TT-BKHCN — Quy định vùng địa lý đặc biệt cho dịch vụ bưu chính
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 35/2026/TT-BKHCN |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Khoa học và Công nghệ |
+| **Ban hành** | 26/06/2026 (lastmod trước đó) |
+| **Hiệu lực** | 26/06/2026 |
+| **Chủ đề** | Bưu chính, Viễn thông |
+| **LuatVietnam** | `thong-tin/thong-tu-35-2026-tt-bkhcn-quy-dinh-vung-dia-ly-dac-biet-cho-dich-vu-buu-chinh-438813-d1.html` |
+| **Docid** | 438813 (xác minh slug) |
+| **Trạng thái** | Chưa có file — **THIẾU FILE** |
+| **Ghi chú ưu tiên** | THẤP — Danh mục vùng địa lý đặc biệt cho dịch vụ bưu chính |
+
+---
+
+### GHI CHÉP KHÁC — TRẠNG THÁI
+
+| Số văn bản | Cập nhật | Ghi chú |
+|-----------|---------|---------|
+| TT-BGDĐT 53/2026 | Đã có file — cần kiểm tra phiên bản mới nhất | Tuyển sinh sau ĐH |
+| NĐ-CP 282/2026 | **KHÔNG CÓ** trên sitemap_nghidinh | Cần theo dõi |
+| TT-BGDDT 54/2026 | **MỚI tuyệt đối** — chưa từng tracking | Chương trình đào tạo ĐH |
+
+---
+
+### ƯU TIÊN TIẾP THEO (CHƯA THỂ CRAWL — ĐỢI SẾP PHÂN CÔNG)
+
+1. **TT-BGDĐT 54/2026** — Chương trình đào tạo ĐH (CAO) — cần crawl toàn văn
+2. **TT-BGDĐT 53/2026** — Tuyển sinh sau ĐH (CAO) — cần kiểm tra file hiện có
+3. **TT-BCA 115/2026** — Thẻ, giấy phép chứng nhận an ninh hàng không (docid 440224) — **THIẾU FILE**
+
+---
+
+*Lần cập nhật tiếp theo: khi có văn bản mới hoặc thay đổi sitemap.*
+*Đệ #1 Discovery — github-io workspace — 2026-07-17T02:05 GMT+7*
+
+---
+
+*Đệ Discovery — github-io workspace — 2026-07-16T22:33 GMT+7*
