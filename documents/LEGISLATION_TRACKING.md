@@ -1,3 +1,60 @@
+## Cập nhật 2026-07-18 (Đệ #1 Discovery — heartbeat 2026-07-18 03:01 ICT)
+
+### Phát hiện: 6 văn bản mới — 283/NĐ-CP + 5/TT-BXD-BGDDT-BTC (sitemap 2026-07-17 lastmod 17:02 ICT)
+
+Quét sitemap_nghidinh (lastmod 2026-07-17 20:01 UTC = 03:01 ICT 17/7) + sitemap_thongtu (lastmod 2026-07-17 20:01 UTC) + web_fetch xác minh 5 văn bản. So sánh với batch tham chiếu 2026-07-15 17:53/11:53+07:00. **Phát hiện 6 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5 TT + 1 NĐ-CP:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, biện pháp khắc phục hậu quả, thẩm quyền xử phạt trong 3 lĩnh vực: (a) lao động (việc làm, tuyển dụng, điều kiện LĐ, ATVSLĐ, tổ chức đại diện LĐ); (b) bảo hiểm xã hội; (c) NLĐ VN đi làm việc ở nước ngoài theo hợp đồng. Căn cứ Luật Xử lý VPHC, Bộ luật Lao động 45/2019; người ký Bộ trưởng Bộ Nội vụ. | Lao động / BHXH / Xử phạt hành chính | 440485 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội 15/7, Chính phủ ký). Sitemap lastmod 2026-07-16 11:28. **ƯU TIÊN CAO** — văn bản xử phạt hành chính lao động/BHXH, tác động rộng. |
+| **54/2026/TT-BXD** | **01/07/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 20/2026/TT-BXD (cảng thủy nội địa) và Thông tư 21/2026/TT-BXD (kết cấu hạ tầng đường thủy nội địa)** — sửa đổi quản lý nhà nước chuyên ngành tại cảng thủy nội địa, bến thủy nội địa, khu neo đậu, hoa tiêu đường thủy nội địa và kết cấu hạ tầng; bổ sung mẫu đơn/tờ khai. Căn cứ NĐ 33/2025, NQ 24/2026/NQ-CP (cắt giảm thủ tục); người ký Nguyễn Xuân Sang. | Giao thông / Cảng thủy | 440577 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ Xây dựng, 01/7/2026, Hà Nội). **ƯU TIÊN THẤP** — sửa đổi TT chuyên đề cảng thủy. |
+| **51/2026/TT-BXD** | **30/06/2026** | **Ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay** — thay thế hoàn toàn 3 TT cũ (01/2011, 03/2016, 21/2017 của Bộ GTVT); quy chế an toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay. Căn cứ Luật Hàng không 130/2025/QH15, NĐ 223/2026 (tàu bay và khai thác), NĐ 221/2026 (nhà chức trách HK); hiệu lực **01/7/2026**. | Giao thông / Hàng không | 440563 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ Xây dựng, 30/6/2026, Hà Nội). **ƯU TIÊN TRUNG BÌNH** — quy chế an toàn hàng không thay thế 3 TT. |
+| **45/2026/TT-BXD** | **30/06/2026** | **Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực đăng kiểm phương tiện giao thông đường bộ** — sửa đổi quy định đăng kiểm xe cơ giới; căn cứ Luật TTATGT 36/2024 (sửa 118/2025), Luật CLSP 78/2025, Luật TC&QCBK 70/2025, Luật BVMT 72/2020 (sửa 146/2025), NĐ 89/2026 (điều kiện KD dịch vụ kiểm định xe cơ giới), NĐ 33/2025. | Giao thông / Đăng kiểm | 440562 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ Xây dựng, 30/6/2026, Hà Nội). **ƯU TIÊN TRUNG BÌNH** — liên quan đăng kiểm xe cơ giới. |
+| **55/2026/TT-BGDĐT** | **30/06/2026** | **Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp** — quy định chuẩn chương trình đào tạo cho trình độ cao đẳng, trung cấp, chương trình giáo dục trung học nghề (mục đích, nội dung chuẩn, tổ chức thực hiện). Căn cứ Luật GDNN 124/2025/QH15, Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 37/2025; người ký Lê Quân. | Giáo dục / GDNN | 440521 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ GD&ĐT, 30/6/2026, Hà Nội). **ƯU TIÊN TRUNG BÌNH** — chuẩn chương trình GDNN theo Luật GDNN 124/2025. |
+| **100/2026/TT-BTC** | **02/07/2026** | **Bãi bỏ Thông tư số 06/2024/TT-BTC của Bộ Tài chính (hiệu lực từ 01/09/2026)** — bãi bỏ 1 TT-BTC chưa rõ nội dung cụ thể; căn cứ Luật Ban hành VBQPPL 64/2025. | Tài chính / Bãi bỏ | 440486 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ Tài chính, 02/7/2026, Hà Nội). **ƯU TIÊN THẤP** — văn bản bãi bỏ. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 15/7 17:53/11:53+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-17 03:01 ICT (fetch 20:01 UTC) | **THAY ĐỔI** | Entry mới: 283/NĐ-CP (slug 440485, lastmod 16/7 11:28); 279 cập nhật lastmod 17/7 17:55 |
+| sitemap_thongtu (batch 11:54) | 2026-07-17 11:54:51+07:00 | **THAY ĐỔI** | Batch mới: 54, 51, 45/TT-BXD + 55/TT-BGDDT + 100/TT-BTC (cùng lastmod 11:54:51) |
+| sitemap_thongtu (entry 89/TT-BTC) | 2026-07-16 15:09+07:00 | **THAY ĐỔI** | Entry 89/TT-BTC (slug 440483, thuế) từ 16/7 — **chưa xác minh** (giới hạn 5/lần) |
+
+### Entry mới sitemap_nghidinh — 283/NĐ-CP
+
+| Slug | lastmod | Số hiệu | Nội dung | Trạng thái |
+|---|:---:|---|---|---|
+| 440485 | 16/7 11:28 | 283/2026/NĐ-CP | Xử phạt vi phạm hành chính lao động, BHXH, NLĐ VN đi làm việc ở nước ngoài | ✅ **MỚI — xác minh** |
+
+### Batch mới sitemap_thongtu (2026-07-17 11:54:51+07:00)
+
+| Slug | Số hiệu | Trích yếu | Trạng thái |
+|---|:---:|---|---|
+| 440577 | 54/2026/TT-BXD | Sửa đổi cảng thủy nội địa và kết cấu hạ tầng đường thủy | ✅ **MỚI — xác minh** |
+| 440563 | 51/2026/TT-BXD | Ban hành Quy chế An toàn hàng không dân dụng tàu bay và khai thác | ✅ **MỚI — xác minh** |
+| 440562 | 45/2026/TT-BXD | Sửa đổi Thông tư đăng kiểm giao thông đường bộ | ✅ **MỚI — xác minh** |
+| 440521 | 55/2026/TT-BGDĐT | Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp | ✅ **MỚI — xác minh** |
+| 440486 | 100/2026/TT-BTC | Bãi bỏ Thông tư 06/2024/TT-BTC (hiệu lực 01/9/2026) | ✅ **MỚI — xác minh** |
+| 440483 | 89/2026/TT-BTC | Quy định chi tiết Luật QL thuế và NĐ 252/2026/NĐ-CP | ⏳ **Chưa xác minh** (giới hạn) |
+| 440467 | 99/2026/TT-BTC | Quy định tài chính cho giảng viên, sinh viên điện hạt nhân | ℹ️ Xem ghi chú dưới |
+| 440448 | 37/2026/TT-BKHCN | Quy định chứng chỉ vô tuyến điện nghiệp dự | ℹ️ Xem ghi chú dưới |
+
+### Ghi chú xử lý
+
+- **6 văn bản mới** được phát hiện: 283/NĐ-CP (xử phạt lao động/BHXH, 15/7), 54/TT-BXD (cảng thủy, 01/7), 51/TT-BXD (quy chế hàng không, 30/6), 45/TT-BXD (đăng kiểm đường bộ, 30/6), 55/TT-BGDDT (chuẩn CT GDNN, 30/6), 100/TT-BTC (bãi bỏ TT 06, 02/7).
+- **283/2026/NĐ-CP** là phát hiện quan trọng nhất — văn bản xử phạt hành chính trong lĩnh vực lao động, BHXH, và lao động VN ở nước ngoài. **282/NĐ-CP vẫn chưa ban hành** — sitemap_nghidinh max = 283.
+- **55/TT-BGDDT**: Chuẩn chương trình đào tạo GDNN theo Luật GDNN 124/2025/QH15 — văn bản nền tảng giáo dục nghề nghiệp.
+- **51/TT-BXD**: Quy chế an toàn hàng không dân dụng thay thế 3 Thông tư cũ — văn bản hàng không quan trọng.
+- **99/TT-BTC** (slug 440467): Nội dung theo web_fetch từ batch trước — "quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân". Không nằm trong 5 ưu tiên lần này — cần xác minh trạng thái trong tracking.
+- **89/TT-BTC** (slug 440483): Xác minh nội dung chi tiết Luật QL thuế và NĐ 252/2026/NĐ-CP — giới hạn 5, để phiên sau.
+- **282/2026/NĐ-CP**: Vẫn chưa ban hành — sitemap_nghidinh mới nhất = 283.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-17 20:01 UTC), luatvietnam.vn sitemap_thongtu (fetch 2026-07-17 20:01 UTC), web_fetch slug 440485 (283/NĐ-CP), 440577 (54/TT-BXD), 440563 (51/TT-BXD), 440562 (45/TT-BXD), 440521 (55/TT-BGDDT), 440486 (100/TT-BTC).
+- Ngày phát hiện: 2026-07-18 03:01 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:79f6ac24-60fc-49e5-a0c2-90f3465ea998 (Đệ #1 Discovery — heartbeat 2026-07-18 02:59 ICT)
+
+---
+
 ## Cập nhật 2026-07-16 v3 (Đệ #1 Discovery — heartbeat 2026-07-16 08:32 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — 3 văn bản mới trong sitemap_thongtu (chưa ghi nhận)
