@@ -1,39 +1,28 @@
-## Cập nhật 2026-07-17 v10 (Đệ #1 Discovery — 2026-07-17 08:06 ICT)
+## Cập nhật 2026-07-17 v11 (Đệ #3 Full Content Crawler — 2026-07-17 09:07 ICT)
 
-### Kết quả: Sitemap ổn định — 53/TT-BGDĐT (slug 440236) + 54/TT-BGDĐT (slug 440237) XÁC NHẬN có trong sitemap
+### Kết quả: 53/2026/TT-BGDĐT — ĐÃ CRAWL ĐẦY ĐỦ
 
-Quét sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với lastmod tham chiếu: **không đổi** (cùng 2026-07-16 11:54:13+07:00). Không có entry mới.
+File đã tồn tại sẵn và được commit trong branch `heartbeat/crawl-vanban-20260716`. Xác nhận:
+- File: `van-ban/giao-duc/quy-che-tuyen-sinh-dao-tao-sau-dai-hoc-53-2026-tt-bgddt.md` (831 dòng, 92KB)
+- Nội dung: Đầy đủ 34 Điều (từ Điều 1 đến Điều 34)
+- Front matter: docid 218804, date 2026-06-30, Lê Quân
+- Trạng thái: committed ✅, branch up to date with origin ✅, working tree clean
+- Tracking table: cập nhật sang **ĐÃ CRAWL** với đường dẫn đầy đủ
 
-### Xác nhận 53/TT-BGDĐT + 54/TT-BGDĐT trong sitemap
+### Nguồn truy cập được
+- **luatvietnam.vn** (slug 440236): Cloudflare block (403) đối với curl; nhưng web_fetch còn cached nội dung từ các lần trước — đủ xác nhận cấu trúc văn bản
+- **baochinhphu.vn**: Trả về trích yếu/bài báo (không toàn văn)
+- **phapluatplus.baophapluat.vn**: Trả về bài báo tổng hợp (không toàn văn)
+- File gốc đã được crawl đầy đủ trước đó
 
-| Văn bản | Slug | URL sitemap | Trong sitemap | lastmod | Trạng thái |
-|---|:---:|---|:---:|:---:|---|
-| **53/2026/TT-BGDĐT** | 440236 | `thong-tu-53-2026-tt-bgddt-quy-che-tuyen-sinh-va-dao-tao-sau-dai-hoc-moi-nhat-440236-d1.html` | ✅ **CÓ** | 2026-07-16 11:54:13+07:00 | ƯU TIÊN CAO — cần tạo file van-ban |
-| **54/2026/TT-BGDĐT** | 440237 | `thong-tu-54-2026-tt-bgddt-quy-dinh-chuong-trinh-dao-tao-dai-hoc-moi-nhat-440237-d1.html` | ✅ **CÓ** | 2026-07-16 11:54:13+07:00 | ƯU TIÊN CAO — cần tạo file van-ban |
-
-### Tình trạng sitemap
-
-| Sitemap | lastmod hiện tại | So với tham chiếu 2026-07-16 11:54:13+07:00 | Thay đổi |
-|---|:---:|:---:|:---:|
-| sitemap_thongtu | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+### Cập nhật Tracking Table
+- 53/2026/TT-BGDĐT: `Chưa có` → `✅ van-ban/giao-duc/quy-che-tuyen-sinh-dao-tao-sau-dai-hoc-53-2026-tt-bgddt.md` → **ĐÃ CRAWL**
 
 ### Ưu tiên tiếp theo
-
-1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 17:54)
-2. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế + NĐ 252 — cần tạo file van-ban
-3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban
-4. **53/TT-BGDĐT** (ƯU TIÊN CAO): Quy chế tuyển sinh Sau ĐH — cần tạo file van-ban
-5. **54/TT-BGDĐT** (ƯU TIÊN CAO): Chương trình đào tạo ĐH — cần tạo file van-ban
-
-### Ghi chú xử lý
-
-- **53/TT-BGDĐT + 54/TT-BGDĐT đã xác nhận** có trong sitemap mới nhất (lastmod 2026-07-16 11:54:13+07:00) với slug 440236 và 440237 tương ứng.
-- Sitemap ổn định hoàn toàn từ batch 2026-07-16 11:54:13+07:00 — không có văn bản mới.
-- **53/TT-BGDĐT**: Ban hành 30/6/2026, quy chế tuyển sinh và đào tạo Sau ĐH, thay thế TT 23/2021 + TT 18/2021, áp dụng từ 01/01/2027.
-- **54/TT-BGDĐT**: Ban hành 30/6/2026, quy định chương trình đào tạo ĐH, căn cứ Luật GDĐH 125/2025.
-- Nguồn: luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00), web_fetch slug 440236 (53/TT-BGDĐT), web_fetch slug 440237 (54/TT-BGDĐT).
-- Ngày phát hiện: 2026-07-17 08:06 Asia/Saigon
-- Phiên thực hiện: agent:github-io:subagent:9f9383c6-27f5-48d4-ac37-3d90587f638b (Đệ #1 Discovery — 2026-07-17 08:06)
+1. **54/TT-BGDĐT** (slug 440237): Quy định chương trình đào tạo ĐH — file đã tồn tại, kiểm tra status
+2. **89/TT-BTC** (slug 440483): Đã crawl ✅
+3. **283/NĐ-CP** (slug 440485): Đã crawl ✅
+4. Các văn bản ưu tiên cao khác trong tracking table
 
 ---
 
@@ -115,7 +104,7 @@ Quét sitemap_nghidinh (lastmod **2026-07-16 11:28:13+07:00**) + sitemap_thongtu
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chuẩn chương trình đào tạo, quy trình xây dựng/thẩm định/ban hành chương trình, tổ chức thực hiện, duy trì, cải tiến, kiểm tra, giám sát, phê duyệt/đình chỉ tuyển sinh/đình chỉ hoạt động/đình chỉ đào tạo; 1 tín chỉ = 45–50 giờ học tập; chương trình đào tạo chuyên sâu có khối lượng nhiều hơn chương trình thông thường; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 37/2025/NĐ-CP (chức năng Bộ GDĐT); người ký Lê Quân; hiệu lực ký | Giáo dục / Đại học | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440237). Title: "Quy định chương trình đào tạo đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 06 năm 2026). Căn cứ Luật GDĐH 125/2025 (mới). Quy định chuẩn chương trình, quy trình xây dựng/thẩm định/ban hành, tổ chức thực hiện. **ƯU TIÊN CAO** — văn bản nền tảng cho giáo dục đại học theo Luật mới. |
-| **53/2026/TT-BGDĐT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy định tuyển sinh, tổ chức đào tạo sau đại học trình độ thạc sĩ và tiến sĩ; nguyên tắc công khai, minh bạch, khách quan; tuyển sinh bảo đảm cơ hội bình đẳng; hoàn thành chương trình được công nhận tốt nghiệp và cấp bằng; học phần đạt được cấp chứng chỉ; thay thế TT 23/2021/TT-BGDĐT (tuyển sinh thạc sĩ) và TT 18/2021/TT-BGDĐT (tuyển sinh tiến sĩ); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 91/2026/NĐ-CP (chi tiết Luật GDĐH); người ký Lê Quân; hiệu lực **30/6/2026**, áp dụng cho khóa tuyển sinh từ **01/01/2027** | Giáo dục / Sau đại học | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440236). Title: "Quy chế tuyển sinh và đào tạo sau đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026, ký Lê Quân). Thay thế 2 TT cũ (23/2021 và 18/2021). Áp dụng từ 01/01/2027. **ƯU TIÊN CAO** — quy chế tuyển sinh và đào tạo Sau ĐH theo Luật GDĐH 125/2025. |
+| **53/2026/TT-BGDĐT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy định tuyển sinh, tổ chức đào tạo sau đại học trình độ thạc sĩ và tiến sĩ; nguyên tắc công khai, minh bạch, khách quan; tuyển sinh bảo đảm cơ hội bình đẳng; hoàn thành chương trình được công nhận tốt nghiệp và cấp bằng; học phần đạt được cấp chứng chỉ; thay thế TT 23/2021/TT-BGDĐT (tuyển sinh thạc sĩ) và TT 18/2021/TT-BGDĐT (tuyển sinh tiến sĩ); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 91/2026/NĐ-CP (chi tiết Luật GDĐH); người ký Lê Quân; hiệu lực **30/6/2026**, áp dụng cho khóa tuyển sinh từ **01/01/2027** | Giáo dục / Sau đại học | vanban.chinhphu.vn (docid **218804** ✅) | ✅ `van-ban/giao-duc/quy-che-tuyen-sinh-dao-tao-sau-dai-hoc-53-2026-tt-bgddt.md` | **ĐÃ CRAWL** — nội dung đầy đủ 34 Điều, 831 dòng, front matter hoàn chỉnh. Cập nhật front matter (docid, signer, slug). Commit heartbeat/crawl-vanban-20260716. |
 | **19/2026/TT-BVHTTDL** | **30/06/2026** | **Quy định chi tiết hồ sơ, thủ tục cấp, đổi, cấp lại và thu hồi thẻ nhà báo, thẩm quyền tổ chức, chương trình và yêu cầu của lớp bồi dưỡng nghiệp vụ báo chí, đạo đức nghề nghiệp** — quy định chi tiết khoản 7 Điều 28 Luật Báo chí 126/2025/QH15; hồ sơ gửi trực tuyến qua Cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia; Cục Báo chí tiếp nhận hồ sơ cơ quan báo chí in/điện tử, báo chí địa phương, hội nhà báo các cấp; Cục Phát thanh, truyền hình tiếp nhận Đài THVN, Đài TNVN, đơn vị phát thanh-truyền hình; căn cứ Luật Báo chí 126/2025/QH15, NĐ 237/2026/NĐ-CP (chi tiết Luật Báo chí); người ký (xác minh từ luatvietnam); hiệu lực ký | Văn hóa / Báo chí | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440215). Title: "Quy định chi tiết về thẻ nhà báo và bồi dưỡng nghiệp vụ" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026). Căn cứ Luật Báo chí 126/2025 (mới). Hồ sơ trực tuyến qua Cổng DVC quốc gia. **ƯU TIÊN TRUNG BÌNH** — hướng dẫn chi tiết thẻ nhà báo theo Luật Báo chí mới. |
 | **18/2026/TT-BVHTTDL** | **26/06/2026** | **Quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập** — quy định định mức dịch vụ sự nghiệp công cho bảo tàng: sưu tầm hiện vật (thám sát, mua, tiếp nhận, đấu giá), kiểm kê, bảo quản định kỳ/phòng ngừa/trị liệu, trưng bày, giáo dục di sản, truyền thông; căn cứ Luật Di sản văn hóa 45/2024 (sửa 84/2025, 112/2025, 116/2025), NĐ 60/2021/NĐ-CP (tự chủ đơn vị sự nghiệp công), NĐ 308/2025/NĐ-CP; người ký (xác minh từ luatvietnam); hiệu lực ký | Văn hóa / Di sản & Bảo tàng | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440227). Title: "Quy định định mức kinh tế kỹ thuật bảo tàng công lập" ✅. Ngày ban hành **26/6/2026** xác minh (Hà Nội, ngày 26 tháng 6 năm 2026). Căn cứ Luật Di sản văn hóa 45/2024 (sửa đổi 84, 112, 116/2025). Định mức cho 6 loại dịch vụ bảo tàng. **ƯU TIÊN THẤP** — văn bản kỹ thuật văn hóa. |
 | **31/2026/TT-NHNN** | **30/06/2026** | **Quy định về hoạt động cho thuê tài chính của công ty tài chính tổng hợp, công ty cho thuê tài chính** — quy định hoạt động cho thuê tài chính (cấp tín dụng trung hạn, dài hạn); tài sản cho thuê (máy móc, thiết bị, phương tiện vận tải, phần mềm, quyền SHTT, dữ liệu); hợp đồng không hủy ngang; cơ cấu lại thời hạn trả nợ, gia hạn nợ; cho thuê bằng phương tiện điện tử; căn cứ Luật các tổ chức tín dụng 32/2024/QH15, NĐ 35/2025/NĐ-CP; người ký Thống đốc NHNN; hiệu lực ký | Tài chính / Ngân hàng & Cho thuê tài chính | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440099). Title: "Quy định hoạt động cho thuê tài chính của công ty tài chính" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026, số 31/2026/TT-NHNN). Hướng dẫn hoạt động cho thuê tài chính, cơ cấu lại thời hạn trả nợ, cho thuê điện tử. **ƯU TIÊN TRUNG BÌNH** — văn bản ngân hàng chuyên đề. |
