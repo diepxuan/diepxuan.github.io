@@ -1,3 +1,42 @@
+## Cập nhật 2026-07-17 v10 (Đệ #1 Discovery — 2026-07-17 08:06 ICT)
+
+### Kết quả: Sitemap ổn định — 53/TT-BGDĐT (slug 440236) + 54/TT-BGDĐT (slug 440237) XÁC NHẬN có trong sitemap
+
+Quét sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với lastmod tham chiếu: **không đổi** (cùng 2026-07-16 11:54:13+07:00). Không có entry mới.
+
+### Xác nhận 53/TT-BGDĐT + 54/TT-BGDĐT trong sitemap
+
+| Văn bản | Slug | URL sitemap | Trong sitemap | lastmod | Trạng thái |
+|---|:---:|---|:---:|:---:|---|
+| **53/2026/TT-BGDĐT** | 440236 | `thong-tu-53-2026-tt-bgddt-quy-che-tuyen-sinh-va-dao-tao-sau-dai-hoc-moi-nhat-440236-d1.html` | ✅ **CÓ** | 2026-07-16 11:54:13+07:00 | ƯU TIÊN CAO — cần tạo file van-ban |
+| **54/2026/TT-BGDĐT** | 440237 | `thong-tu-54-2026-tt-bgddt-quy-dinh-chuong-trinh-dao-tao-dai-hoc-moi-nhat-440237-d1.html` | ✅ **CÓ** | 2026-07-16 11:54:13+07:00 | ƯU TIÊN CAO — cần tạo file van-ban |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với tham chiếu 2026-07-16 11:54:13+07:00 | Thay đổi |
+|---|:---:|:---:|:---:|
+| sitemap_thongtu | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 17:54)
+2. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế + NĐ 252 — cần tạo file van-ban
+3. **283/NĐ-CP** (ƯU TIÊN CAO): Xử phạt lao động-BHXH — cần tạo file van-ban
+4. **53/TT-BGDĐT** (ƯU TIÊN CAO): Quy chế tuyển sinh Sau ĐH — cần tạo file van-ban
+5. **54/TT-BGDĐT** (ƯU TIÊN CAO): Chương trình đào tạo ĐH — cần tạo file van-ban
+
+### Ghi chú xử lý
+
+- **53/TT-BGDĐT + 54/TT-BGDĐT đã xác nhận** có trong sitemap mới nhất (lastmod 2026-07-16 11:54:13+07:00) với slug 440236 và 440237 tương ứng.
+- Sitemap ổn định hoàn toàn từ batch 2026-07-16 11:54:13+07:00 — không có văn bản mới.
+- **53/TT-BGDĐT**: Ban hành 30/6/2026, quy chế tuyển sinh và đào tạo Sau ĐH, thay thế TT 23/2021 + TT 18/2021, áp dụng từ 01/01/2027.
+- **54/TT-BGDĐT**: Ban hành 30/6/2026, quy định chương trình đào tạo ĐH, căn cứ Luật GDĐH 125/2025.
+- Nguồn: luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00), web_fetch slug 440236 (53/TT-BGDĐT), web_fetch slug 440237 (54/TT-BGDĐT).
+- Ngày phát hiện: 2026-07-17 08:06 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:9f9383c6-27f5-48d4-ac37-3d90587f638b (Đệ #1 Discovery — 2026-07-17 08:06)
+
+---
+
 ## Cập nhật 2026-07-17 v9 (Đệ #1 Discovery — 2026-07-17 06:36 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định hoàn toàn, 3 d10 mới là dự thảo Bộ Nội vụ
