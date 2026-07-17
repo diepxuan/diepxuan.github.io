@@ -97,21 +97,3 @@ Nghị định này có hiệu lực thi hành từ ngày 09 tháng 7 năm 2026.
 ### Điều 3. Trách nhiệm thi hành
 
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
-
----
-
-## PHỤ LỤC - THÔNG TIN BỔ SUNG
-
-**Văn bản gốc:** Nghị định số 72/2025/NĐ-CP ngày 28 tháng 3 năm 2025 của Chính phủ quy định về cơ chế, thời gian điều chỉnh giá bán lẻ điện bình quân.
-
-**Nội dung chính sửa đổi:**
-
-1. **Điều 5 (khoản 1):** Sửa đổi ngưỡng điều chỉnh giá bán lẻ điện bình quân:
-   - Dưới 1% (giảm) hoặc dưới 2% (tăng): chỉ báo cáo, không điều chỉnh
-   - Từ 1% trở lên (giảm) hoặc từ 2% đến dưới 5% (tăng): lập hồ sơ báo cáo Bộ Công Thương
-
-2. **Điều 6 (khoản 1):** Tương tự Điều 5, quy định về hồ sơ phương án giá bán lẻ điện bình quân
-
-3. **Điều 7:** Bổ sung quy định kiểm tra giá bán lẻ điện bình quân:
-   - Kiểm tra điều chỉnh giá: Bộ Công Thương có quyền yêu cầu điều chỉnh
-   - Kiểm tra hằng năm: trước 30/6 hàng năm, công bố công khai chi phí
