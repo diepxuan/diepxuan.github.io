@@ -10,7 +10,7 @@ loaivanban: "Thông tư"
 nhomvanban: "Văn hóa"
 trichyeu: "Quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập"
 canucaphaply: "Nghị định số 79/2014/NĐ-CP ngày 12/8/2014 của Chính phủ; Luật Di sản văn hóa 2001; các văn bản sửa đổi, bổ sung"
-docid: "218800"  
+docid: "218804"  
 source: "luatvietnam.vn (slug 440227); vanban.chinhphu.vn; vbpl.vn"
 group: thong-tin-bao-chi-xuat-ban
 tags:
