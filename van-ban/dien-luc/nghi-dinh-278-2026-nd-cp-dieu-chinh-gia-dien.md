@@ -10,8 +10,8 @@ tags:
   - điều chỉnh giá
   - điện bình quân
   - EVN
-docid: 218849
-source: vanban.chinhphu.vn; luatnguyen.vn
+docid: 218804
+source: luatvietnam.vn (slug 440066)
 signer:
   - Thủ tướng Chính phủ
 soanthao: Bộ Công Thương
