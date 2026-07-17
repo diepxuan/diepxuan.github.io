@@ -1,3 +1,47 @@
+## Cập nhật 2026-07-18 v2 (Đệ #1 Discovery — heartbeat 2026-07-18 06:33 ICT)
+
+### Phát hiện: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định, 4 văn bản batch 11:54 đã xác minh chi tiết
+
+Quét sitemap_nghidinh (fetch 2026-07-18 06:33 ICT) + sitemap_thongtu (fetch 2026-07-18 06:33 ICT) + web_fetch xác minh 4 văn bản TT-BTC/TT-BKHCN từ batch 11:54:51+07:00 chưa có nội dung chi tiết. So sánh với LEGISLATION_TRACKING.md (2026-07-18 03:01 ICT): **KHÔNG PHÁT HIỆN văn bản chính thức mới**. Các văn bản trong sitemap không thay đổi so với batch 2026-07-17.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 17/7 17:55/11:54 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-17 17:55:01+07:00 (batch 279 cập nhật) | = Không đổi | ✅ Không đổi — NĐ-CP mới nhất = **283/2026/NĐ-CP** (slug 440485, lastmod 16/7 11:28) |
+| sitemap_thongtu (batch 11:54) | 2026-07-17 11:54:51+07:00 | = Không đổi | ✅ Không đổi — batch 2026-07-17 11:54:51 |
+| sitemap_thongtu (entry 89/TT-BTC) | 2026-07-16 15:09:58+07:00 | = Không đổi | ✅ Không đổi — entry riêng đã xác minh lần này |
+| sitemap_thongtu (entry 100/TT-BTC) | 2026-07-16 14:56:51+07:00 | = Không đổi | ✅ Không đổi — entry riêng |
+
+### 89/TT-BTC đã xác minh — chi tiết đầy đủ
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| **89/2026/TT-BTC** | **30/06/2026** | **Quy định chi tiết một số điều của Luật Quản lý thuế số 108/2025/QH15 và Nghị định 252/2026/NĐ-CP** — quy định chi tiết giao dịch điện tử trong quản lý thuế, khai thuế, nộp thuế, hoàn thuế, kiểm tra thuế; hướng dẫn toàn bộ Luật QL thuế 108/2025 và NĐ 252/2026; căn cứ Luật QL thuế 108/2025, NĐ 252/2026/NĐ-CP, NĐ 29/2025/NĐ-CP (BTCTài Chính); người ký Bộ trưởng Bộ Tài chính. | Thuế / QL thuế điện tử | 440483 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN CAO** — văn bản hướng dẫn thi hành toàn diện Luật QL thuế 108/2025. Hiệu lực **01/7/2026**. |
+
+### 4 văn bản batch 11:54 — xác minh chi tiết đầy đủ
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| **99/2026/TT-BTC** | **10/07/2026** | **Quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân** — quy định chế độ tài chính, mức chi theo Luật NSNN 89/2025, NĐ 73/2026, NĐ 176/2026 (chính sách ưu đãi điện hạt nhân); căn cứ QĐ 1012/QĐ-TTg ngày 26/5/2025 phê duyệt Đề án đào tạo nhân lực điện hạt nhân đến 2035. | Tài chính / Điện hạt nhân | 440467 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 10 tháng 7 năm 2026). **ƯU TIÊN THẤP** — chuyên đề điện hạt nhân. |
+| **37/2026/TT-BKHCN** | **30/06/2026** | **Quy định về chứng chỉ vô tuyến điện nghiệp dư; tiêu chuẩn thi, cấp, thu hồi chứng chỉ; điều kiện, trình tự, thủ tục** — quy định chứng chỉ vô tuyến điện nghiệp dư Hạng I–III; tiêu chuẩn tổ chức thi, cấp chứng chỉ; điều kiện, trình tự, thủ tục; thu hồi chứng chỉ; căn cứ Luật Tần số 42/2009 (sửa 09/2022), NQ 66.17, 66.18/NQ-CP (cắt giảm, phân quyền), NĐ 225/2026 (chức năng BKHCN). | Thông tin / Viễn thông | 440448 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN THẤP** — chuyên đề viễn thông. |
+| **98/2026/TT-BTC** | **10/07/2026** | **Ban hành Quy chế mẫu về kiểm toán nội bộ áp dụng cho cơ quan nhà nước, đơn vị sự nghiệp công lập** — quy chế mẫu kiểm toán nội bộ theo Luật Kế toán 88/2015 (sửa 56/2024), NĐ 05/2019/NĐ-CP (kiểm toán nội bộ); làm cơ sở xây dựng quy chế của từng đơn vị; căn cứ NĐ 29/2025 (chức năng BTC). Hiệu lực **01/9/2026**. | Kế toán / Kiểm toán nội bộ | 440437 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 10 tháng 7 năm 2026). **ƯU TIÊN TRUNG BÌNH** — quy chế mẫu kiểm toán nội bộ cho toàn bộ QLNN. |
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản mới** trong heartbeat này — sitemap ổn định hoàn toàn từ batch 2026-07-17.
+- **89/TT-BTC** (slug 440483): Xác minh đầy đủ — Luật QL thuế 108/2025 + NĐ 252/2026, hiệu lực 01/7/2026. **ƯU TIÊN CAO** — văn bản thuế trọng điểm.
+- **98/TT-BTC** (slug 440437): Quy chế mẫu kiểm toán nội bộ — căn cứ NĐ 05/2019 và Luật Kế toán sửa đổi, áp dụng cho toàn bộ cơ quan nhà nước và đơn vị sự nghiệp công lập.
+- **99/TT-BTC** (slug 440467): Tài chính cho đào tạo điện hạt nhân — căn cứ QĐ 1012/QĐ-TTg và NĐ 176/2026.
+- **37/TT-BKHCN** (slug 440448): Chứng chỉ vô tuyến điện nghiệp dư Hạng I–III — căn cứ Luật Tần số và NQ 66.17/66.18.
+- **283/2026/NĐ-CP** (slug 440485): Đã có trong tracking từ heartbeat trước. **283 = NĐ-CP mới nhất**. 284 chưa có.
+- **282/2026/NĐ-CP**: Vẫn chưa ban hành — sitemap_nghidinh max = 283.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-18 06:33 ICT), luatvietnam.vn sitemap_thongtu (fetch 2026-07-18 06:33 ICT), web_fetch slug 440483 (89/TT-BTC), slug 440467 (99/TT-BTC), slug 440448 (37/TT-BKHCN), slug 440437 (98/TT-BTC).
+- Ngày phát hiện: 2026-07-18 06:36 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:af1fce94-f1e0-4d71-bc86-38e5948e4cc6 (Đệ #1 Discovery heartbeat 2026-07-18 06:33)
+
+---
+
 ## Cập nhật 2026-07-18 (Đệ #1 Discovery — heartbeat 2026-07-18 03:01 ICT)
 
 ### Phát hiện: 6 văn bản mới — 283/NĐ-CP + 5/TT-BXD-BGDDT-BTC (sitemap 2026-07-17 lastmod 17:02 ICT)
