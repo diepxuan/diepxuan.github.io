@@ -36,9 +36,11 @@ Quét sitemap_nghidinh (lastmod 2026-07-17 20:01 UTC = 03:01 ICT 17/7) + sitemap
 | 440562 | 45/2026/TT-BXD | Sửa đổi Thông tư đăng kiểm giao thông đường bộ | ✅ **MỚI — xác minh** |
 | 440521 | 55/2026/TT-BGDĐT | Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp | ✅ **MỚI — xác minh** |
 | 440486 | 100/2026/TT-BTC | Bãi bỏ Thông tư 06/2024/TT-BTC (hiệu lực 01/9/2026) | ✅ **MỚI — xác minh** |
-| 440483 | 89/2026/TT-BTC | Quy định chi tiết Luật QL thuế và NĐ 252/2026/NĐ-CP | ⏳ **Chưa xác minh** (giới hạn) |
-| 440467 | 99/2026/TT-BTC | Quy định tài chính cho giảng viên, sinh viên điện hạt nhân | ℹ️ Xem ghi chú dưới |
-| 440448 | 37/2026/TT-BKHCN | Quy định chứng chỉ vô tuyến điện nghiệp dự | ℹ️ Xem ghi chú dưới |
+| 440483 | **89/2026/TT-BTC** | **30/6/2026** | Quy định chi tiết Luật QL thuế 108/2025 và NĐ 252/2026 — giao dịch điện tử, khai/nộp thuế, hoàn thuế, kiểm tra thuế; hiệu lực 01/7/2026 | Thuế | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 30/6/2026. **ƯU TIÊN TRUNG BÌNH** — hướng dẫn Luật QL thuế 108/2025 |
+| 440467 | **99/2026/TT-BTC** | **10/7/2026** | Chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên, NCS điện hạt nhân; căn cứ Luật NSNN 89/2025, NĐ 73/2026, NĐ 176/2026 | Tài chính/Điện hạt nhân | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 10/7/2026. **ƯU TIÊN THẤP** — chuyên đề điện hạt nhân |
+| 440390 | **59/2026/TT-BXD** | **~07/2026** | Định mức kinh tế-kỹ thuật công tác nạo vét công trình hàng hải (tàu hút bụng, máy đào gầu dây); căn cứ NĐ 33/2025 | Giao thông/Hàng hải | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Bộ Xây dựng 07/2026. **ƯU TIÊN THẤP** — kỹ thuật nạo vét cảng biển |
+| 440448 | **37/2026/TT-BKHCN** | **30/6/2026** | Chứng chỉ vô tuyến điện nghiệp dư Hạng I–III; tiêu chuẩn thi/cấp/thu hồi; căn cứ Luật Tần số 42/2009 (sửa 09/2022), NQ 66.17, 66.18/NQ-CP, NĐ 225/2026 | Thông tin/Viễn thông | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 30/6/2026. **ƯU TIÊN THẤP** — chuyên đề viễn thông |
+| 440437 | **98/2026/TT-BTC** | **10/7/2026** | Ban hành Quy chế mẫu kiểm toán nội bộ cho cơ quan nhà nước, đơn vị sự nghiệp công lập; căn cứ Luật Kế toán 88/2015 (sửa 56/2024), NĐ 05/2019; hiệu lực 01/9/2026 | Kế toán/Kiểm toán nội bộ | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 10/7/2026. **ƯU TIÊN TRUNG BÌNH** — quy chế mẫu cho QLNN |
 
 ### Ghi chú xử lý
 
