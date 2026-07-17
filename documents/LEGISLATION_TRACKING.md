@@ -1,3 +1,49 @@
+## Cập nhật 2026-07-17 v12 (Đệ #1 Discovery — 2026-07-17 11:03 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định hoàn toàn từ batch 16/7 17:54/11:54+07:00
+
+Quét sitemap_nghidinh (lastmod **2026-07-16 17:54:25+07:00**) + sitemap_thongtu (lastmod **2026-07-16 11:54:13+07:00**). So sánh với batch tham chiếu v11 (2026-07-17 09:07 ICT): **sitemap không đổi** — 283/NĐ-CP vẫn là mới nhất trong sitemap_nghidinh (slug 440485, lastmod 16/7 11:28). Không phát hiện d10 mới. Giới hạn 5/lần — không có văn bản mới để ghi nhận.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với v11 (09:07 ICT) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-16 17:54:25+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (batch chính) | **2026-07-16 11:54:13+07:00** | = Không đổi | ✅ Không đổi |
+
+### Trạng thái văn bản ưu tiên — xác minh trong repo
+
+| Số hiệu | Trạng thái file | Dòng | Chi tiết |
+|---|:---:|---:|---|
+| **89/2026/TT-BTC** | ✅ **ĐÃ CRAWL** | 1955 | `van-ban/thue/thong-tu-89-2026-tt-btc-quy-dinh-chi-tiet-luat-quan-ly-thue.md` |
+| **283/2026/NĐ-CP** | ✅ **ĐÃ CRAWL** | 4858 | `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` |
+| **54/2026/TT-BGDĐT** | ⚠️ Stub | 76 | File stub tồn tại tại `van-ban/giao-duc/thong-tu-54-2026-tt-bgdut-chuong-trinh-dao-tao-dai-hoc.md` — **cần Đệ #3 crawl đầy đủ** |
+| **19/2026/TT-BVHTTDL** | ⚠️ Stub | 78 | File stub tồn tại tại `van-ban/thong-tin-bao-chi-xuat-ban/19-2026-tt-bvhttdl-the-nha-bao-boi-duong-nghiep-vu-bao-chi.md` — **cần Đệ #3 crawl đầy đủ** |
+| **115/2026/TT-BCA** | ❌ **Chưa có file** | — | Trong sitemap slug 440224 — **chưa có trong repo** |
+| **30/2026/TT-BNNMT** | ❌ **Chưa có file** | — | Trong sitemap slug 440247 — **chưa có trong repo** |
+| **99/2026/TT-BTC** | ✅ **ĐÃ CRAWL** | 24 | `van-ban/giao-duc/thong-tu-99-2026-tt-btc-tai-chinh-dien-hat-nhan.md` (16,273 bytes, 7 Điều, full content từ luatvietnam.vn slug 440467, hiệu lực 28/08/2026)
+| **282/2026/NĐ-CP** | ℹ️ Theo dõi | — | Chưa ban hành — sitemap chỉ có đến **283** |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = **283** (lastmod 16/7 17:54)
+2. **54/TT-BGDĐT** (stub): Cần crawl đầy đủ — Đệ #3 xử lý
+3. **19/TT-BVHTTDL** (stub): Cần crawl đầy đủ — Đệ #3 xử lý
+4. **115/TT-BCA**, **30/TT-BNNMT**: Chưa có file trong repo — Đệ #3 ưu tiên crawl
+5. **89/TT-BTC**, **283/NĐ-CP**: Đã crawl đầy đủ ✅
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản chính thức mới** trong heartbeat này.
+- Sitemap ổn định hoàn toàn từ batch 2026-07-16 17:54/11:54+07:00 (v9/v11).
+- Không có d10 (dự thảo) mới trong sitemap.
+- **Phát hiện quan trọng**: 54/TT-BGDĐT, 19/TT-BVHTTDL, 115/TT-BCA, 30/TT-BNNMT, 99/TT-BTC — tất cả trong sitemap nhưng **chưa có file đầy đủ trong repo** (hoặc stub hoặc chưa tạo). Đệ #3 cần ưu tiên crawl.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-16 17:54:25+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-16 11:54:13+07:00).
+- Ngày phát hiện: 2026-07-17 11:03 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:bd3fc41a-1e50-44fc-8d1c-9a2fc278a8bf (Đệ #1 Discovery — 2026-07-17 11:03)
+
+---
+
 ## Cập nhật 2026-07-17 v11 (Đệ #3 Full Content Crawler — 2026-07-17 09:07 ICT)
 
 ### Kết quả: 53/2026/TT-BGDĐT — ĐÃ CRAWL ĐẦY ĐỦ
