@@ -64,7 +64,7 @@ Theo đề nghị của Vụ trưởng Vụ Giáo dục Đại học,
 
 **Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư quy định về chương trình đào tạo các trình độ của giáo dục đại học.**
 
-*[Nội dung toàn văn đang chờ bổ sung — tất cả nguồn chính thức đều không truy cập được vào 2026-07-17 (Firecrawl 402, luatvietnam.vn 403, datafiles.chinhphu.vn 404/403, vanban.chinhphu.vn 404, vbpl.vn cần JavaScript). Cần retry sau 24–48 giờ hoặc tìm nguồn thay thế.]*
+*[Nội dung toàn văn đang chờ bổ sung. Các nguồn chính thức (luatvietnam.vn, vanban.chinhphu.vn, datafiles.chinhphu.vn, vbpl.moj.gov.vn) không truy cập được vào ngày 2026-07-17. Cần retry sau 24–48 giờ hoặc tìm nguồn thay thế.]*
 
 ---
 
