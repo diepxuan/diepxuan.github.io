@@ -1,3 +1,114 @@
+## Cập nhật 2026-07-19 v2 (Đệ #1 Discovery — 2026-07-19 04:38 ICT)
+
+### Kết quả: 5 văn bản mới — 54/53/TT-BGDĐT + 18/TT-BVHTTDL + 98/TT-BQP + 115/TT-BCA (sitemap_thongtu batch 2026-07-18 11:55 + web_fetch xác minh)
+
+Quét sitemap_nghidinh + sitemap_thongtu (lastmod 2026-07-18 11:55:24+07:00 batch chính) + web_fetch xác minh 5 văn bản mới chưa có trong tracking. So với batch tham chiếu (v1 04:33 ICT — 284/283/93/59/60): **phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chuẩn chương trình đào tạo (ĐH, thạc sĩ, tiến sĩ), quy trình xây dựng, thẩm định, ban hành, tổ chức thực hiện, duy trì, cải tiến; quy định khối lượng: ĐH ≥120 tín chỉ, chuyên sâu bậc 7 ≥150 tín chỉ, thạc sĩ ≥45 tín chỉ, tiến sĩ 90 tín chỉ; chương trình tích hợp, liên ngành, xuyên ngành; giảng viên toàn thời gian và sau nghỉ hưu; yêu cầu năng lực số, AI, ngoại ngữ cho bậc ĐH; căn cứ Luật GDDH 125/2025/QH15, Luật GD 123/2025, NĐ 37/2025/NĐ-CP; hiệu lực ký | Giáo dục / Đại học / Chương trình đào tạo | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440237-d1). Title: "Quy định chương trình đào tạo đại học mới nhất" ✅. Ngày ban hành **30/6/2026** (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN CAO** — văn bản nền tảng chương trình đào tạo ĐH theo Luật GDDH mới, thay thế quy định cũ. |
+| **53/2026/TT-BGDĐT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy định tuyển sinh, tổ chức đào tạo thạc sĩ và tiến sĩ; quy định đối tượng, điều kiện dự tuyển, phương thức tuyển sinh, tổ chức đào tạo; thời gian: thạc sĩ theo kế hoạch CSYT, tiến sĩ 03-04 năm (tối đa 2.5 lần chuẩn); quy định công nhận kết quả học tập, chuyển đổi tín chỉ (≤40% khối lượng); liên kết đào tạo sau ĐH trong nước và quốc tế; thay thế TT 23/2021/TT-BGDĐT và TT 18/2021/TT-BGDĐT; hiệu lực **30/6/2026**, áp dụng từ 01/01/2027 | Giáo dục / Sau đại học / Tuyển sinh | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440236-d1). Title: "Quy chế tuyển sinh và đào tạo sau đại học mới nhất" ✅. Ngày ban hành **30/6/2026** (Hà Nội, ngày 30 tháng 6 năm 2026, ký Lê Quân). **ƯU TIÊN CAO** — quy chế tuyển sinh và đào tạo sau ĐH toàn diện theo Luật GDDH 125/2025. |
+| **18/2026/TT-BVHTTDL** | **26/06/2026** | **Quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập** — quy định định mức kinh tế-kỹ thuật 06 dịch vụ sự nghiệp công: (a) sưu tầm hiện vật (thám sát, khai quật, mua, tiếp nhận, đấu giá); (b) kiểm kê hiện vật; (c) bảo quản (định kỳ, phòng ngừa, trị liệu); (d) trưng bày; (đ) giáo dục di sản; (e) truyền thông; căn cứ Luật Di sản văn hóa 45/2024 (sửa 84/2025, 112/2025, 116/2025), NĐ 308/2025/NĐ-CP (chi tiết Luật Di sản), NĐ 60/2021/NĐ-CP (tự chủ đơn vị sự nghiệp); người ký Lâm Thị Phương Thanh; hiệu lực **15/8/2026** | Văn hóa / Bảo tàng | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440227-d1). Title: "Quy định định mức kinh tế kỹ thuật bảo tàng công lập" ✅. Ngày ban hành **26/6/2026** (Hà Nội, ngày 26 tháng 6 năm 2026). **ƯU TIÊN TRUNG BÌNH** — định mức kinh tế-kỹ thuật bảo tàng công lập theo Luật Di sản mới. |
+| **98/2026/TT-BQP** | **06/07/2026** | **Quy định về chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng** — quy định chứng nhận Hệ thống quản lý chất lượng (Hồ sơ, ISO 9001/QS 9001) cho cơ sở công nghiệp quốc phòng nòng cốt và cơ sở QP khác; quy định chuyên gia đánh giá, Hội đồng/Đoàn đánh giá; trình tự chứng nhận (đăng ký → thẩm xét 15 ngày → đánh giá giai đoạn 1+2 → khắc phục → quyết định); hiệu lực chứng nhận 36 tháng; căn cứ Luật TC&QCBK 68/2006 (sửa 70/2025), Luật CLSPHH 05/2007 (sửa 78/2025), Luật CNQP-AN&ĐVCN 38/2024 (sửa 119/2025), NĐ 22/2026/NĐ-CP; người ký Nguyễn Văn Hiền | An ninh quốc gia / Quốc phòng / Tiêu chuẩn chất lượng | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440226-d1). Title: "Quy định chứng nhận Hệ thống quản lý chất lượng sản phẩm quốc phòng" ✅. Ngày ban hành **06/7/2026** (Hà Nội, ngày 06 tháng 7 năm 2026). **ƯU TIÊN THẤP** — văn bản quốc phòng chuyên đề, áp dụng cho cơ sở công nghiệp quốc phòng. |
+| **115/2026/TT-BCA** | **29/06/2026** | **Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không** — quy định thẻ, giấy phép kiểm soát an ninh cảng hàng không (dài hạn ≤2 năm, ngắn hạn ≤30 ngày); thẻ nhận dạng tổ bay hãng hàng không; thẻ, giấy phép kiểm soát an ninh nội bộ; quy định đối tượng, điều kiện, thẩm quyền (Cục QLXNRC, Công an cửa khẩu, Công an tỉnh), trình tự cấp; căn cứ Luật Hàng không dân dụng 130/2025/QH15, NĐ 215/2026/NĐ-CP (an ninh hàng không); người ký Lương Tam Quang | Giao thông / Hàng không / An ninh | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440224-d1). Title: "Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không" ✅. Ngày ban hành **29/6/2026** (Hà Nội, ngày 29 tháng 6 năm 2026). **ƯU TIÊN TRUNG BÌNH** — quy định thẻ, giấy phép an ninh hàng không theo Luật Hàng không mới. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu v1 04:33 ICT | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-18 17:55:39+07:00 (mới nhất) | > v1 batch (17:53 18/7) | ✅ **MỚI** — 285 + Dự thảo sửa đổi NĐ 77/2016 xuất hiện mới |
+| sitemap_thongtu (batch chính) | 2026-07-18 11:55:24+07:00 | > v1 batch | ✅ **MỚI** — 54, 53, 18, 98, 115 + nhiều TT khác (lastmod batch cập nhật so với v1) |
+
+### Các văn bản khác mới trong sitemap (cần xác minh thêm)
+
+| Số hiệu | Ngày ước | Trích yếu | Slug | Lưu ý |
+|---|:---:|---|---|---|
+| **285/2026/NĐ-CP** | ~07 | Nghị định mới xuất hiện trong sitemap_nghidinh lastmod 18/7 17:55 (slug chưa rõ) | Cần xác minh | Chưa ghi nhận — cần web_fetch |
+| **Dự thảo sửa đổi NĐ 77/2016/NĐ-CP** | Dự thảo | Sửa đổi Nghị định điều kiện đầu tư kinh doanh (d10, slug 440599) | 440599 | **D10 — bỏ qua (dự thảo)** |
+| **Dự thảo Nghị định tín dụng chính sách xã hội** | Dự thảo | Bộ Tài chính chủ trì, chưa thông qua (d10, slug 439985) | 439985 | **D10 — bỏ qua (dự thảo)** |
+| **19/2026/TT-BVHTTDL** | ~06 | Quy định thẻ nhà báo và bồi dưỡng nghiệp vụ (slug 440215) | 440215 | Chưa ghi nhận — trùng batch với v1 |
+
+### Ưu tiên tiếp theo
+
+1. **54/2026/TT-BGDĐT** (ƯU TIÊN CAO): Chương trình đào tạo đại học — văn bản nền tảng theo Luật GDDH 125/2025; cần tạo file van-ban
+2. **53/2026/TT-BGDĐT** (ƯU TIÊN CAO): Tuyển sinh và đào tạo sau đại học — quy chế toàn diện thay thế TT 23+18/2021; cần tạo file van-ban
+3. **285/2026/NĐ-CP**: Nghị định mới xuất hiện trong sitemap_nghidinh lastmod 18/7 17:55 — cần web_fetch xác minh slug và nội dung
+4. **Verify docid** 284, 283, 93, 59, 60, 54, 53, 115 trên vanban.chinhphu.vn (dải 218850+)
+5. **18/TT-BVHTTDL** (ƯU TIÊN TRUNG BÌNH): Định mức bảo tàng — cần theo dõi
+6. **98/TT-BQP** (ƯU TIÊN THẤP): Chứng nhận HQCL quốc phòng — cần theo dõi
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 54/TT-BGDĐT (chương trình đào tạo ĐH, 30/6/2026), 53/TT-BGDĐT (tuyển sinh Sau ĐH, 30/6/2026), 18/TT-BVHTTDL (định mức bảo tàng, 26/6/2026), 98/TT-BQP (chứng nhận HQCL quốc phòng, 6/7/2026), 115/TT-BCA (thẻ giấy phép an ninh hàng không, 29/6/2026).
+- **54/TT-BGDĐT** là văn bản nổi bật nhất — quy định chương trình đào tạo các trình độ ĐH theo Luật GDDH 125/2025/QH15 mới, thay thế quy định cũ về chuẩn chương trình, quy trình biên soạn, định mức tín chỉ, giảng viên.
+- **53/TT-BGDĐT**: Quy chế tuyển sinh và đào tạo sau ĐH thay thế hoàn toàn TT 23/2021 + TT 18/2021; áp dụng từ 01/01/2027.
+- **sitemap_nghidinh cập nhật mạnh** — lastmod mới 2026-07-18 17:55:39+07:00, 285/NĐ-CP xuất hiện đầu tiên. Có thêm Dự thảo sửa đổi NĐ 77/2016 (d10) và Dự thảo tín dụng chính sách xã hội (d10) — cả hai đều bỏ qua.
+- **sitemap_thongtu batch cập nhật** — nhiều văn bản mới cùng batch 11:55:24+07:00 (54, 53, 18, 98, 115, 59, 60, 30/TT-BNNMT, 30/TT-BYT, 52/TT-BGDDT v.v.)
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-18 17:55:39+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-18 11:55:24+07:00), web_fetch slug 440237 (54/TT-BGDĐT), 440236 (53/TT-BGDĐT), 440227 (18/TT-BVHTTDL), 440226 (98/TT-BQP), 440224 (115/TT-BCA).
+- Ngày phát hiện: 2026-07-19 04:38 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:8dec6933-b3aa-49ea-8518-7f320b9fb207 (Đệ #1 Discovery — 2026-07-19 04:34 ICT)
+
+---
+
+## Cập nhật 2026-07-19 v1 (Đệ #1 Discovery — 2026-07-19 04:33 ICT)
+
+### Kết quả: 5 văn bản mới — 284/283 NĐ-CP + 93/TT-BTC + 59/TT-BGDĐT + 60/TT-BGDĐT (sitemap_nghidinh 2026-07-18/19 + sitemap_thongtu cập nhật mới nhất)
+
+Quét sitemap_nghidinh (lastmod 2026-07-18) + sitemap_thongtu (cập nhật mới nhất) + web_fetch xác minh 5 văn bản mới chưa có trong tracking. So với batch tham chiếu 2026-07-15 17:53+07:00: **phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **284/2026/NĐ-CP** | **16/07/2026** | **Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa** — quy định 8 nhóm hành vi vi phạm hành chính: (a) chào bán, phát hành tài sản mã hóa; (b) tổ chức thị trường giao dịch; (c) trách nhiệm tổ chức cung cấp dịch vụ; (d) giao dịch tài sản mã hóa; (đ) chuyển tiền nhà đầu tư nước ngoài; (e) cản trở thanh tra, kiểm tra; (g) thu thập, mua bán dữ liệu tài khoản; (h) phòng chống rửa tiền, tài trợ khủng bố. Mức phạt tối đa 200 triệu (tổ chức), 100 triệu (cá nhân); thời hiệu xử phạt 01 năm; căn cứ Nghị quyết 05/2025/NQ-CP (thí điểm thị trường tài sản mã hóa ngày 09/9/2025); hiệu lực **chưa xác minh** | Tài chính / Tiền mã hóa | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440680-d1). Title: "Xử phạt vi phạm hành chính về tài sản mã hóa và thị trường" ✅. Ngày ban hành **16/7/2026** (Hà Nội, ngày 16 tháng 7 năm 2026). **ƯU TIÊN CAO** — văn bản pháp lý đầu tiên về xử phạt tiền mã hóa tại Việt Nam, thực thi Nghị quyết 05/2025/NQ-CP thí điểm. |
+| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, biện pháp khắc phục hậu quả trong 3 lĩnh vực: (a) lao động (việc làm, tuyển dụng, điều kiện LĐ, AT-VSLĐ, tổ chức đại diện NLĐ); (b) bảo hiểm xã hội; (c) người lao động Việt Nam đi làm việc ở nước ngoài. Hình thức: cảnh cáo, phạt tiền, tịch thu, tước chứng chỉ, đình chỉ, trục xuất. Thời hiệu: 01 năm (lao động/BHXH), 02 năm (lao động nước ngoài); căn cứ Luật XLVPHC 15/2012 (sửa 67/2020, 88/2025); người ký theo đề nghị Bộ trưởng Bộ Nội vụ | Lao động / Xử phạt hành chính | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440485-d1). Title: "Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội" ✅. Ngày ban hành **15/7/2026** (Hà Nội, ngày 15 tháng 7 năm 2026). **ƯU TIÊN CAO** — văn bản xử phạt hành chính lao động toàn diện, tác động rộng doanh nghiệp và NLĐ. |
+| **93/2026/TT-BTC** | **01/07/2026** | **Quy định việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá** — quy định tem điện tử rượu và thuốc lá (có mã QR), nguyên tắc dán tem, đơn vị dán tem, quản lý dữ liệu tem điện tử; căn cứ Luật QL thuế 108/2025, Luật Giao dịch điện tử 20/2023 (sửa 60/2024), Luật Chuyển đổi số 148/2025, Luật An ninh mạng 116/2025, NĐ 254/2026 (hóa đơn điện tử), NĐ 105/2017 (kinh doanh rượu), NĐ 67/2013 (thuốc lá); hiệu lực **01/7/2026** | Tài chính / Hải quan / Tem điện tử | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440661-d1). Title: "Quy định về tem điện tử rượu và thuốc lá" ✅. Ngày ban hành **01/7/2026** (Hà Nội, ngày 01 tháng 7 năm 2026). Cục Thuế (rượu nội địa, thuốc lá nội địa), Cục Hải quan (rượu nhập khẩu, thuốc lá nhập khẩu) quản lý dữ liệu. **ƯU TIÊN CAO** — tác động trực tiếp ngành rượu, thuốc lá, chống buôn lậu. |
+| **59/2026/TT-BGDĐT** | **15/07/2026** | **Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng** — quy định điều kiện, nguyên tắc ký hợp đồng, thời giờ làm việc, tiền lương, phụ cấp, quyền và trách nhiệm của nhà giáo hợp đồng sau nghỉ hưu; quy định thỉnh giảng (ít nhất 1 môn/mô-đun/chuyên đề); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 235/2026 (hợp đồng thực hiện công việc trong đơn vị sự nghiệp công lập); người ký Lê Quân | Giáo dục / Nhà giáo | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440690-d1). Title: "Quy định về nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu" ✅. Ngày ban hành **15/7/2026** (Hà Nội, ngày 15 tháng 7 năm 2026). Nhà giáo hợp đồng chỉ ký với 01 cơ sở giáo dục; được xem xét bổ nhiệm GS, PGS và xét phong danh hiệu Nhà giáo nhân dân, ưu tú. **ƯU TIÊN TRUNG BÌNH** — tác động chính sách nhà giáo, giải quyết thiếu hụt đội ngũ. |
+| **60/2026/TT-BGDĐT** | **17/07/2026** | **Quy định tiêu chuẩn, quy trình biên soạn tài liệu hướng dẫn thực hiện Chương trình giáo dục mầm non và việc lựa chọn đồ chơi, học liệu** — quy định tiêu chuẩn tài liệu GD mầm non (khoa học, sư phạm, thẩm mỹ), Ban biên soạn (chủ biên + thư ký + thành viên ≥5 năm kinh nghiệm), quy trình biên soạn + thẩm định, tiêu chuẩn đồ chơi và học liệu (in, chữ nổi, tranh ảnh, điện tử); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 279/2026 (chức năng Bộ GDĐT); người ký Lê Quân | Giáo dục / Mầm non | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440626-d1). Title: "Tiêu chuẩn và quy trình biên soạn tài liệu giáo dục mầm non" ✅. Ngày ban hành **17/7/2026** (Hà Nội, ngày 17 tháng 7 năm 2026). Tiêu chuẩn: phù hợp Chương trình GD mầm non, đặc điểm trẻ em, quyền trẻ em, bình đẳng giới, giáo dục hòa nhập. **ƯU TIÊN THẤP** — văn bản kỹ thuật giáo dục mầm non. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 2026-07-15 17:53/11:53+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-18 (mới) | > Batch cũ | ✅ **MỚI** — 284 + 283 mới xuất hiện |
+| sitemap_thongtu | 2026-07-18/19 (mới nhất) | > Batch cũ | ✅ **MỚI** — 93, 59, 60 + nhiều TT mới |
+
+### Các văn bản khác mới trong sitemap (cần xác minh thêm)
+
+| Số hiệu | Ngày ước | Trích yếu | Slug | Lưu ý |
+|---|:---:|---|---|---|
+| **54/2026/TT-BXD** | ~07 | Sửa đổi quản lý cảng thủy nội địa và kết cấu hạ tầng (slug 440577) | 440577 | Chưa ghi nhận |
+| **51/2026/TT-BXD** | ~07 | Quy chế an toàn hàng không dân dụng cho tàu bay và khai thác (slug 440563) | 440563 | Chưa ghi nhận |
+| **45/2026/TT-BXD** | ~07 | Sửa đổi thông tư đăng kiểm giao thông đường bộ (slug 440562) | 440562 | Chưa ghi nhận |
+| **100/2026/TT-BTC** | ~07 | Bãi bỏ 06 thông tư của Bộ Tài chính, hiệu lực 01/9/2026 (slug 440486) | 440486 | Chưa ghi nhận |
+| **89/2026/TT-BTC** | ~07 | Quy định chi tiết Luật QL thuế và NĐ 252/2026 (slug 440483) | 440483 | Chưa ghi nhận |
+| **99/2026/TT-BTC** | ~07 | Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân (slug 440467) | 440467 | Chưa ghi nhận |
+| **37/2026/TT-BKHCN** | ~07 | Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp (slug 440448) | 440448 | Chưa ghi nhận |
+| **98/2026/TT-BTC** | ~07 | Quy chế kiểm toán nội bộ cho cơ quan nhà nước, đơn vị sự nghiệp công lập (slug 440437) | 440437 | Chưa ghi nhận |
+| **59/2026/TT-BXD** | ~07 | Định mức kinh tế kỹ thuật công tác nạo vé cống trình hàng hải (slug 440390) | 440390 | Chưa ghi nhận |
+| **55/2026/TT-BGDĐT** | ~07 | Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp (slug 440521) | 440521 | Chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **284/2026/NĐ-CP** (ƯU TIÊN CAO): Xử phạt vi phạm hành chính tiền mã hóa — văn bản pháp lý đầu tiên về tiền mã hóa tại VN; cần xác minh docid trên vanban.chinhphu.vn (dải 218850+)
+2. **283/2026/NĐ-CP** (ƯU TIÊN CAO): Xử phạt hành chính lao động — BHXH; cần xác minh docid trên vanban.chinhphu.vn (dải 218850+)
+3. **93/2026/TT-BTC** (ƯU TIÊN CAO): Tem điện tử rượu và thuốc lá — hiệu lực 01/7/2026; cần tạo file van-ban
+4. **Xác minh docid** 284, 283, 59, 60, 93 trên vanban.chinhphu.vn dải 218850+
+5. **Tiếp tục theo dõi** 10+ văn bản thongtu mới trong sitemap (54/TT-BXD, 100/TT-BTC, 89/TT-BTC, 55/TT-BGDĐT, v.v.)
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 284/NĐ-CP (tiền mã hóa, 16/7/2026), 283/NĐ-CP (lao động BHXH, 15/7/2026), 93/TT-BTC (tem điện tử rượu/thuốc lá, 01/7/2026), 59/TT-BGDĐT (nhà giáo hợp đồng sau nghỉ hưu, 15/7/2026), 60/TT-BGDĐT (tài liệu GD mầm non, 17/7/2026).
+- **284/NĐ-CP** là phát hiện nổi bật nhất — văn bản pháp lý đầu tiên về xử phạt vi phạm hành chính đối với thị trường tài sản mã hóa tại Việt Nam, thực thi Nghị quyết 05/2025/NQ-CP (thí điểm thị trường tiền mã hóa).
+- **283/NĐ-CP** là văn bản xử phạt hành chính lao động toàn diện, thay thế/bổ sung các Nghị định cũ về xử phạt lao động, BHXH, và lao động nước ngoài.
+- **93/TT-BTC**: Tem điện tử rượu/thuốc lá (mã QR), quản lý bởi Tổng cục Thuế và Hải quan; hiệu lực 01/7/2026 — đã có hiệu lực.
+- **sitemap_nghidinh cập nhật** — 284 xuất hiện đầu tiên ngày 18/7/2026 (lastmod mới); 283 xuất hiện cùng batch.
+- **sitemap_thongtu cập nhật mạnh** — nhiều văn bản mới xuất hiện so với batch 2026-07-15.
+- **Vanban.chinhphu.vn**: Vùng trống 218850–221000+ chưa được lấp đầy; tiếp tục theo dõi.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (2026-07-18), luatvietnam.vn sitemap_thongtu (2026-07-18/19), web_fetch slug 440680 (284/NĐ-CP), 440485 (283/NĐ-CP), 440661 (93/TT-BTC), 440690 (59/TT-BGDĐT), 440626 (60/TT-BGDĐT).
+- Ngày phát hiện: 2026-07-19 04:33 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:c36cb952-b1ef-42ca-b81b-24c6bb8b132c (Đệ #1 Discovery — 2026-07-19 04:29 ICT)
+
+---
+
 ## Cập nhật 2026-07-16 v3 (Đệ #1 Discovery — heartbeat 2026-07-16 08:32 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — 3 văn bản mới trong sitemap_thongtu (chưa ghi nhận)
