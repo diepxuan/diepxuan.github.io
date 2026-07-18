@@ -1,3 +1,34 @@
+## Cập nhật 2026-07-18 v6 (Đệ #1 Discovery — 2026-07-18 19:05 ICT)
+
+### Phát hiện: 1 văn bản mới — 284/2026/NĐ-CP (tài sản mã hóa, sitemap lastmod 18/7 08:38 ICT)
+
+Quét sitemap_nghidinh (fetch 2026-07-18 19:05 ICT) + sitemap_thongtu (fetch 2026-07-18 19:05 ICT) + web_fetch xác minh 284/NĐ-CP. So sánh với batch tham chiếu 2026-07-18 16:31/11:54/11:55/10:59/17:55+07:00. **Phát hiện 1 văn bản mới** chưa từng ghi nhận.
+
+| Số hiệu | Ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
+|---|:---:|---|---|---:|---|---|
+| **284/2026/NĐ-CP** | **16/07/2026** | **Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa** — xử phạt 8 nhóm hành vi: chào bán/phát hành TSMH, tổ chức thị trường, trách nhiệm nhà cung cấp dịch vụ TSMH, giao dịch TSMH, chuyển tiền nhà đầu tư nước ngoài, cản trở thanh tra/Kiểm tra, thu thập/trao đổi/mua bán dữ liệu tài khoản TSMH, phòng chống rửa tiền/tài trợ khủng bố; căn cứ NQ 05/2025/NQ-CP (thí điểm thị trường TSMH tại VN 09/9/2025); người ký Chính phủ. | Tài chính / TSMH & Thị trường TSMH | 440680 | **VĂN BẢN MỚI** — web_fetch ✅ (Hà Nội, 16/7/2026, full content xác minh Điều 1 phạm vi điều chỉnh + 8 nhóm hành vi VPHC). Sitemap lastmod 2026-07-18 08:38:18+07:00. **ƯU TIÊN CAO** — văn bản xử phạt đầu tiên về TSMH tại VN, theo NQ thí điểm 05/2025/NQ-CP. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 18/7 16:31/11:54 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-18 08:38:18+07:00 | **THAY ĐỔI** | Entry mới: 284/NĐ-CP (slug 440680, tài sản mã hóa). lastmod 08:38 hôm nay — vừa ban hành. |
+| sitemap_thongtu | 2026-07-18 11:55:24+07:00 | = Không đổi (59/TT-BGDDT, 99/TT-BTC, 37/TT-BKHCN, 51/TT-BXD, 45/TT-BXD, 54/TT-BXD cùng lastmod 11:55) | ✅ Không đổi — batch mới nhất = 59/TT-BGDDT (slug 440690, lastmod 11:55) |
+
+### Ghi chú xử lý
+
+- **1 văn bản mới** được phát hiện: **284/2026/NĐ-CP** (xử phạt VPHC về tài sản mã hóa và thị trường TSMH, 16/7/2026, slug 440680, lastmod 18/7 08:38).
+- **284/2026/NĐ-CP** là văn bản đầu tiên quy định xử phạt hành chính trong lĩnh vực tài sản mã hóa tại Việt Nam — căn cứ NQ 05/2025/NQ-CP thí điểm thị trường TSMH. **ƯU TIÊN CAO** — quy định pháp lý mới hoàn toàn.
+- **sitemap_nghidinh**: 284/NĐ-CP (slug 440680, lastmod 08:38 18/7) là entry duy nhất mới. 283 (slug 440485) đã có từ batch trước. Không có 285.
+- **sitemap_thongtu**: Không đổi so với batch 11:55 18/7 — 5 văn bản d10 mới (440710, 440706, 440701, 440699, 440697) là dự thảo, bỏ qua.
+- **sitemap_thongtu 59/TT-BGDDT** (slug 440690): lastmod 11:55:24+07:00 — cập nhật cùng batch với 5 TT khác. Đã ghi nhận là VĂN BẢN MỚI từ batch 16:31.
+- **Tất cả sitemap entry d10** (suffix `-d10`) trong sitemap_thongtu là dự thảo — bỏ qua theo quy định.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-18 19:05 ICT), luatvietnam.vn sitemap_thongtu (fetch 2026-07-18 19:05 ICT), web_fetch slug 440680 (284/NĐ-CP).
+- Ngày phát hiện: 2026-07-18 19:06 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:5092161e-e74f-41df-8a25-509da7bc67af (Đệ #1 Discovery — heartbeat 2026-07-18 18:59 ICT)
+
+---
+
 ## Cập nhật 2026-07-18 v5 (Đệ Discovery — 2026-07-18 16:31 ICT)
 
 ### 5 Thông tư mới phát hiện — sitemap 2026-07-18 16:29 ICT
