@@ -1,13 +1,39 @@
-## Cập nhật 2026-07-18 v2 (Đệ #1 Discovery — heartbeat 2026-07-18 06:33 ICT)
+## Cập nhật 2026-07-18 v3 (Đệ #1 Discovery — heartbeat 2026-07-18 10:59 ICT)
 
-### Phát hiện: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định, 4 văn bản batch 11:54 đã xác minh chi tiết
+### Phát hiện: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định, 53/54/TT-BGDĐT xác minh đầy đủ
 
-Quét sitemap_nghidinh (fetch 2026-07-18 06:33 ICT) + sitemap_thongtu (fetch 2026-07-18 06:33 ICT) + web_fetch xác minh 4 văn bản TT-BTC/TT-BKHCN từ batch 11:54:51+07:00 chưa có nội dung chi tiết. So sánh với LEGISLATION_TRACKING.md (2026-07-18 03:01 ICT): **KHÔNG PHÁT HIỆN văn bản chính thức mới**. Các văn bản trong sitemap không thay đổi so với batch 2026-07-17.
+Quét sitemap_nghidinh (fetch 2026-07-18 10:59 ICT) + sitemap_thongtu (fetch 2026-07-18 10:59 ICT) + web_fetch xác minh 53, 54/TT-BGDĐT. So sánh với batch tham chiếu 2026-07-17 17:55/11:54+07:00: **KHÔNG PHÁT HIỆN văn bản chính thức mới**. sitemap không thay đổi. Tất cả văn bản mới phát hiện đã có trong tracking từ batch trước.
 
 ### Tình trạng sitemap
 
 | Sitemap | lastmod hiện tại | So với batch tham chiếu 17/7 17:55/11:54 | Thay đổi |
 |---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-17 17:55:01+07:00 | = Không đổi | ✅ Không đổi — NĐ-CP mới nhất = **283/2026/NĐ-CP** (slug 440485, lastmod 16/7 11:28) |
+| sitemap_thongtu (batch 11:54) | 2026-07-17 11:54:51+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (entry 89/TT-BTC) | 2026-07-16 15:09:58+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu (entry 100/TT-BTC) | 2026-07-16 14:56:51+07:00 | = Không đổi | ✅ Không đổi |
+
+### 53/TT-BGDĐT + 54/TT-BGDĐT xác minh đầy đủ
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
+|---|---:|---|---|---:|---|---|
+| **53/2026/TT-BGDĐT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy chế tuyển sinh và đào tạo các trình độ thạc sĩ, tiến sĩ; điều kiện, quy trình, hồ sơ; thay thế TT 23/2021 (thạc sĩ) và TT 18/2021 (tiến sĩ); người ký Lê Quân; hiệu lực 01/01/2027 | Giáo dục / Đại học | 440236 | **ĐANG CRAWL** — full text (89 Điều, 10 Chương, ~11KB) vào PR #255 ✅ | ĐÃ CÓ STUB trong PR #255 (commit 7074d0d3). Full content đang crawl. **ƯU TIÊN TRUNG BÌNH** |
+| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — chương trình đào tạo đại học, thạc sĩ, tiến sĩ; chuẩn chương trình, thiết kế, đánh giá; thay thế QĐ 1982/QĐ-TTg; người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Đại học | 440237 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ full content (luatvietnam.vn đầy đủ). Stub tạo trong PR #255. **ƯU TIÊN CAO** |
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản mới** trong heartbeat này — sitemap ổn định hoàn toàn từ batch 2026-07-17.
+- **53/TT-BGDĐT** (slug 440236): Web_fetch xác minh full content (89 Điều, 10 Chương). ĐANG CRAWL vào PR #255.
+- **54/TT-BGDĐT** (slug 440237): Web_fetch xác minh full content (Điều 1 phạm vi, Điều 2 giải thích, đầy đủ nội dung). Stub tạo trong van-ban/giao-duc/nghe-nghiep/thong-tu-54-2026-tt-bgddt-chuong-trinh-dao-tao-dai-hoc.md → commit vào PR #255.
+- **89/TT-BTC** (slug 440483): ĐÃ CRAWL FULL TEXT vào PR #255 (commit 549d2622 — 101 Điều, 10 Chương, 34.8KB) ✅
+- **283/2026/NĐ-CP**: ĐÃ CÓ trong van-ban/ (4978 dòng, 27 Điều, 2 Chương) ✅
+- **282/2026/NĐ-CP**: Vẫn chưa ban hành — sitemap_nghidinh max = 283.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-18 10:59 ICT), luatvietnam.vn sitemap_thongtu (fetch 2026-07-18 10:59 ICT), web_fetch slug 440236 (53/TT-BGDĐT), web_fetch slug 440237 (54/TT-BGDĐT).
+- Ngày phát hiện: 2026-07-18 11:00 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:d52a915c-1b8d-42d1-9f3c-e27a69f11f47 (Đệ #1 Discovery — heartbeat 2026-07-18 10:59 ICT)
+
+---
+
 | sitemap_nghidinh | 2026-07-17 17:55:01+07:00 (batch 279 cập nhật) | = Không đổi | ✅ Không đổi — NĐ-CP mới nhất = **283/2026/NĐ-CP** (slug 440485, lastmod 16/7 11:28) |
 | sitemap_thongtu (batch 11:54) | 2026-07-17 11:54:51+07:00 | = Không đổi | ✅ Không đổi — batch 2026-07-17 11:54:51 |
 | sitemap_thongtu (entry 89/TT-BTC) | 2026-07-16 15:09:58+07:00 | = Không đổi | ✅ Không đổi — entry riêng đã xác minh lần này |
