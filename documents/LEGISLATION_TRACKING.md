@@ -5498,3 +5498,72 @@ So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (la
 - Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-15 17:53), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-15 11:53), web_fetch slug 439422 (265), 439478 (266), 439818 (274), 439827 (90/TT-BTC), 439781 (94/TT-BTC).
 - Ngày phát hiện: 2026-07-15 22:35 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:d510ca36-5da9-4d92-87a8-094c3c074f62 (Đệ #1 Discovery — heartbeat 22:29 ICT)
+
+---
+
+## Đệ #4 Review 2026-07-18 — OCR scan + refactor candidates
+
+### A. 66.22/NQ-CP OCR fix (COMMITTED on main)
+
+**File:** `van-ban/chinh-phu/nghi-quyet-66.22-2026-nq-cp-phat-trien-cong-dan-so.md` (main)
+**Trạng thái:** ✅ ĐÃ FIX + PUSH (`cc55ef34`)
+
+| Lỗi | Sửa | Dòng |
+|---|---|---|
+| `hưởng ứngc chính sách` | `hưởng ứng chính sách` | 46 |
+| `quyên lợi` | `quyền lợi` | 46 |
+| `hưởng ứngc chính sách` | `hưởng ứng chính sách` | 50 |
+| `hưởng ứngc chính sách` | `hưởng ứng chính sách` | 52, 54 |
+
+**Review đầy đủ:** 93 lines, 10 Điều (1-10), Missing=[], Duplicate=[]. OCR issues=0 ✅
+
+### B. Refactor candidates (<10KB / stub / old / wrong layout)
+
+| File | Size | Lines | Layout | Age | Status |
+|---|---|---|---|---|---|
+| `van-ban/2026/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1574B | 49L | vanban | 2d | **STUB — cần nội dung chi tiết** |
+| `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` | 2605B | 60L | vanban | 36d | **STUB — age >7d** |
+| `van-ban/tai-chinh/no-cong/mau-bieu-bao-cao-no-cong-47-2026-tt-btc.md` | 4458B | 77L | **page** | 43d | **STUB + layout=page (sai)** |
+| `van-ban/nang-luong/nghi-dinh-272-2026-nd-cp-dien-gio-ngoai-khoi.md` | 3367B | 53L | vanban | 10d | **STUB — age >7d** |
+| `van-ban/bao-hiem.md` | 242KB | 4593L | **page** | 50d | Layout=page (sai chuẩn vanban) — cần kiểm tra |
+| `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 4476B | 95L | **page** | 9d | Layout=page (sai chuẩn vanban) |
+| `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` | 2406B | 52L | **page** | 43d | STUB + layout=page |
+| `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` | 3425B | 72L | vanban | 0d | STUB (mới tạo) — chờ nguồn |
+| `van-ban/tracking/discovery-2026-07-13.md` | 4709B | 136L | — | — | Tracking file OK |
+
+### C. PR #255 scan (heartbeat/crawl-vanban-20260718)
+
+| File | Lines | OCR Issues | Đánh giá |
+|---|---|---|---|
+| `tt55-2026-tt-bgddt-chuan-chuong-trinh-dao-tao-gdnn.md` | 67L | 0 | ✅ CLEAN |
+| `nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md` | 27L | 0 | ⚠️ STUB (mới, chờ nguồn) |
+| `thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` | 45L | 0 | ✅ CLEAN |
+| `nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh-nld-viet-nam-di-nuoc-ngoai.md` | 4979L | **8** | ⚠️ `quyên lợi`×2 → `quyền lợi` (L3462, L3833); `ngày l`×6 = FALSE POSITIVE (legitimate "ngày làm việc") |
+
+**PR #255 lưu ý:** File `tmp/tt89_2026.txt` không nên commit (file tạm crawler).
+
+### D. PR comments summary
+
+| PR | Trạng thái | Comment mới nhất | Action |
+|---|---|---|---|
+| #255 | OPEN/CLEAN | caothu159: reviewed, no action needed (2026-07-17) | ✅ Có thể merge sau khi Bot fix `tmp/` artifact |
+| #254 | DRAFT | caothu159: updated tracking + 54 stubs (2026-07-17) | Chờ Bot promote DRAFT → OPEN |
+| #252 | OPEN | chatgpt-codex-connector[bot]: Codex limits reached (2026-07-14) | Thông báo — không block |
+| #251 | OPEN/CLEAN | caothu159: fix 274/NĐ-CP khoản I (2026-07-13) | ✅ Sẵn sàng merge |
+| #250 | OPEN/CLEAN | caothu159: fix 209/NĐ-CP Chương (2026-07-13) | ✅ Sẵn sàng merge |
+| #249 | OPEN | caothu159: 206/NĐ-CP toàn văn, 33 trang OCR (2026-07-10) | Chờ review |
+| #248 | OPEN | Không comment mới | Stale — cần review |
+| #245 | OPEN | Không comment mới | Stale — cần review |
+
+### E. Khuyến nghị cho Bot
+
+1. **ƯU TIÊN CAO:** Fix layout `page` → `vanban` cho 5 file stub (`mau-bieu-bao-cao-no-cong-47`, `quy-chuan-camera`, `quyet-dinh-22`, `bao-hiem.md`, `2026/86-TT-BTC`)
+2. **ƯU TIÊN CAO:** Hoàn thiện stub `86-2026-TT-BTC` (1574B — có thể lấy nội dung từ luatvietnam.vn)
+3. **ƯU TIÊN CAO:** Retry crawl 279/NĐ-CP (vanban.chinhphu.vn + luatvietnam.vn đều 404 — chờ nguồn)
+4. **ƯU TIÊN TRUNG BÌNH:** Fix PR #255 ND283 `quyên lợi` → `quyền lợi` (2 vị trí)
+5. **ƯU TIÊN TRUNG BÌNH:** PR #254 đang DRAFT — cần push thêm commits rồi promote OPEN
+6. **ƯU TIÊN THẤP:** PR #248, #245 stale — cần review cuối hoặc close
+
+---
+
+*Báo cáo: 2026-07-18 09:32 ICT | Reviewer: Đệ #4 subagent | Commit fix: cc55ef34*
