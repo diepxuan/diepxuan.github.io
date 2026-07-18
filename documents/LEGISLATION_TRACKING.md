@@ -1,4 +1,24 @@
-## Cập nhật 2026-07-18 v3 (Đệ #1 Discovery — heartbeat 2026-07-18 10:59 ICT)
+## Cập nhật 2026-07-18 v4 (Heartbeat 16:33 ICT)
+
+### 89/TT-BTC + 54/TT-BGDĐT: Hoàn thiện trong PR #255 ✅
+
+| Số hiệu | File | Kích thước | Cấu trúc | Trạng thái | Ghi chú |
+|---|:---:|:---:|:---:|:---:|---|
+| **89/2026/TT-BTC** | `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` | 1.6MB | 12 Chương, 101 Điều | **Hoàn thiện** ✅ | Hướng dẫn Luật QL thuế 108/2025. PR #255 commit 549d2622. **ƯU TIÊN CAO** |
+| **54/2026/TT-BGDĐT** | `van-ban/giao-duc/nghe-nghiep/thong-tu-54-2026-tt-bgddt-chuong-trinh-dao-tao-dai-hoc.md` | 136KB | 10 Chương, 3 Phụ lục | **Hoàn thiện** ✅ | Chuẩn CT đào tạo GDĐH. PR #255 commit a0146bf7. **ƯU TIÊN CAO** |
+| **53/2026/TT-BGDĐT** | `van-ban/giao-duc/nghe-nghiep/thong-tu-53-2026-tt-bgddt-tuyen-sinh-sau-dai-hoc.md` | Stub | Metadata sai docid (slug=440236) | **Chưa hoàn thiện** | Stub cần hoàn thiện — Đang trong PR #255. Web_fetch slug 440236 xác minh full content (89 Điều, 10 Chương). **ƯU TIÊN CAO** |
+
+### Ghi chú
+- **89/TT-BTC**: ĐÃ HOÀN THIỆN trong PR #255. File 1.6MB, 12 Chương, 101 Điều. Full text từ luatvietnam.vn (slug 440483). Cần Đệ #4 review nội dung.
+- **54/TT-BGDĐT**: ĐÃ HOÀN THIỆN trong PR #255. File 136KB, 10 Chương + 3 Phụ lục. Full text từ luatvietnam.vn (slug 440237).
+- **53/TT-BGDĐT**: Stub — docid trong frontmatter là slug (440236) thay vì docid thực. Full content đã xác minh từ web_fetch slug 440236. Cần Đệ #3 hoàn thiện.
+- PR #255 đang MERGEABLE — Sếp duyệt trước để có thể tiếp tục 53/TT-BGDĐT.
+- Ngày cập nhật: 2026-07-18 16:33 Asia/Saigon
+- Phiên thực hiện: agent:github-io:cron:9f8e5045-7fdf-400c-899a-7986cf23f5ed:run:70855a4c-8f6d-4b56-9ab8-c062f0599bdc
+
+---
+
+Cập nhật 2026-07-18 v3 (Đệ #1 Discovery — heartbeat 2026-07-18 10:59 ICT)
 
 ### Phát hiện: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định, 53/54/TT-BGDĐT xác minh đầy đủ
 
