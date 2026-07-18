@@ -353,3 +353,114 @@
 
 *Lần cập nhật tiếp theo: khoảng 2026-07-18 17:30 ICT hoặc khi có văn bản mới.*
 *Đệ #2 Discovery — github-io workspace*
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-18 Đệ #1 Discovery (5 văn bản)
+
+> Phiên bản: 2026-07-18T13:02 ICT (20:02 GMT+7)
+> Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu
+> So sánh với: Đệ #2 batch 2026-07-18 16:29 ICT
+
+### TÓM TẮT
+
+- Văn bản mới (chưa có trong workspace): **5**
+- Nghị định mới: **1** — NĐ 284/2026/NĐ-CP
+- Thông tư mới: **4** — TT-BGDĐT 55, TT-BTC 93, TT-BTC 99, TT-BNNMT 30
+- Dự thảo (bị loại): 5+
+- Nguồn xác nhận: luatvietnam.vn sitemap, web_fetch xác minh nội dung
+
+### 1. Nghị định 284/2026/NĐ-CP — Xử phạt vi phạm hành chính về tài sản mã hóa và thị trường
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 284/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 16/07/2026 |
+| **Hiệu lực** | Chưa rõ (ban hành 16/07, chờ công bố) |
+| **Chủ đề** | Tài sản mã hóa (crypto), Thị trường, VPHC tài chính |
+| **LuatVietnam** | `tai-chinh/nghi-dinh-284-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-ve-tai-san-ma-hoa-va-thi-truong-440680-d1.html` |
+| **Trạng thái** | **MỚI — chưa có trong workspace** |
+| **Ghi chú ưu tiên** | Đầu tiên — quy định phạt VPHC về tài sản mã hóa tại Việt Nam; căn cứ NQ 05/2025/NQ-CP (thí điểm thị trường crypto); Mức phạt tối đa 200 triệu (tổ chức), 100 triệu (cá nhân); 8 nhóm hành vi vi phạm; Thời hiệu 1 năm |
+
+### 2. Thông tư 55/2026/TT-BGDĐT — Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 55/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | Sau 14/07/2026 (slug lastmod 2026-07-17 09:09+07:00) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Giáo dục nghề nghiệp, Đào tạo |
+| **LuatVietnam** | `giao-duc/thong-tu-55-2026-tt-bgddt-quy-dinh-chuan-chuong-trinh-dao-tao-giao-duc-nghe-nghiep-440521-d1.html` |
+| **Trạng thái** | **MỚI — chưa có trong workspace** |
+| **Ghi chú ưu tiên** | Căn cứ NĐ 279/2026/NĐ-CP (chức năng BGDĐT, 12/07/2026); Liên kết với ND 271 (miễn phí SGK) và TT 59/60 (nhà giáo) |
+
+### 3. Thông tư 93/2026/TT-BTC — Quy định về tem điện tử rượu và thuốc lá
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 93/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 01/07/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Thuế, Tem điện tử, Rượu, Thuốc lá |
+| **LuatVietnam** | `thue/thong-tu-93-2026-tt-btc-quy-dinh-ve-tem-dien-tu-ruou-va-thuoc-la-hieu-luc-tu-01-07-2026-440661-d1.html` |
+| **Trạng thái** | **MỚI — chưa có trong workspace** |
+| **Ghi chú ưu tiên** | In, phát hành, quản lý, sử dụng tem điện tử rượu + tem điện tử thuốc lá nhập khẩu và sản xuất trong nước; Tem có mã QR; Hệ thống thông tin quản lý thuế + Cổng Thông tin điện tử Hải quan; Căn cứ NĐ 254/2026/NĐ-CP (hóa đơn điện tử); Căn cứ Luật Quản lý thuế 108/2025/QH15 |
+
+### 4. Thông tư 99/2026/TT-BTC — Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 99/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | Chưa xác minh (ban hành sau 10/07, lastmod 2026-07-18 11:55+07:00) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Tài chính, Điện hạt nhân, Giáo dục |
+| **LuatVietnam** | `giao-duc/thong-tu-99-2026-tt-btc-quy-dinh-tai-chinh-cho-giang-vien-sinh-vien-trong-linh-vuc-dien-hat-nhan-440467-d1.html` |
+| **Trạng thái** | **MỚI — chưa có trong workspace** |
+| **Ghi chú ưu tiên** | Lĩnh vực điện hạt nhân; Liên kết với dự thảo TT về an toàn bức xạ và an toàn hạt nhân cho lò phản ứng nghiên cứu |
+
+### 5. Thông tư 30/2026/TT-BNNMT — Quy định kỹ thuật bay đo từ-phổ gamma trong địa chất
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 30/2026/TT-BNNMT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Nông nghiệp và Môi trường |
+| **Ban hành** | Chưa rõ (lastmod 2026-07-18 11:55+07:00) |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Tài nguyên, Địa chất, Khí tượng thủy văn |
+| **LuatVietnam** | `tai-nguyen/thong-tu-30-2026-tt-bnnmt-quy-dinh-ky-thuat-bay-do-tu-pho-gamma-trong-dia-chat-440247-d1.html` |
+| **Trạng thái** | **MỚI — chưa có trong workspace** |
+| **Ghi chú ưu tiên** | Kỹ thuật bay đo từ-phổ gamma trong địa chất; Nằm trong tài-nguyen/ (không phải khi-tuong-thuy-van/) |
+
+### SỰ KIỆN SITEMAP — SO SÁNH ĐỆ #2 (16:29 ICT) → ĐỆ #1 (20:02 ICT)
+
+| Sự kiện | Chi tiết | Ghi chú |
+|---------|---------|---------|
+| NĐ 284/2026/NĐ-CP | **MỚI** — thêm mới sitemap ngày 18/07 08:38+07:00 | Xử phạt VPHC tài sản mã hóa; Ban hành 16/07 |
+| TT-BTC 93/2026 | **ĐÃ CÓ** trong batch trước — không thay đổi | Cần xác minh có trong workspace không |
+| TT-BGDĐT 55/2026 | **MỚI** — thêm sitemap 2026-07-17 09:09+07:00 | Chuẩn chương trình đào tạo GDNN |
+| TT-BTC 99/2026 | **MỚI** — lastmod 2026-07-18 11:55+07:00 (update) | Tài chính điện hạt nhân |
+| TT-BNNMT 30/2026 | **MỚI** — lastmod 2026-07-18 11:55+24 (update) | Bay đo từ-phổ gamma |
+| Dự thảo mới | 5 dự thảo mới có lastmod 2026-07-18 (BCA, BTTT, BNNPTNT, BKHCN, BKHCN) | Chưa ban hành, theo dõi batch tới |
+| TT-BTC 100/2026 | ĐÃ CÓ trong tracking — ban hành 15/07/2026 | Bãi bỏ 06 TT 2016 |
+
+### NHẬN XÉT TỔNG QUAN
+
+1. **NĐ 284/2026/NĐ-CP — Bước ngoặt**: Văn bản đầu tiên quy định xử phạt VPHC về tài sản mã hóa tại Việt Nam, thi hành NQ 05/2025/NQ-CP (thí điểm crypto). Rất quan trọng — ưu tiên crawl.
+2. **TT-BTC 93/2026 — Tem điện tử rượu/thuốc lá**: Hiệu lực từ 01/07/2026, dùng QR code, tích hợp Hệ thống thông tin quản lý thuế. Liên kết NĐ 254/2026 (hóa đơn điện tử).
+3. **TT-BGDĐT 55/2026**: Chuẩn chương trình đào tạo GDNN — sau NĐ 279/2026 (chức năng BGDĐT).
+4. **TT-BNNMT 30/2026**: Lĩnh vực địa chất — bay đo từ-phổ gamma (radiometric survey).
+5. **5 dự thảo mới**: BCA, BTTTT, BNNPTNT, BKHCN (2) — cần theo dõi batch tới.
+
+---
+
+*Lần cập nhật tiếp theo: khoảng 2026-07-18 22:00 ICT hoặc khi có văn bản mới.*
+*Đệ #1 Discovery — github-io workspace*
