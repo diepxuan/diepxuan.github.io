@@ -1,20 +1,10 @@
-## Cập nhật 2026-07-18 v4 (Heartbeat 16:33 ICT)
+## Cập nhật 2026-07-18 v5 (Đệ Discovery — 2026-07-18 16:31 ICT)
 
-### 89/TT-BTC + 54/TT-BGDĐT: Hoàn thiện trong PR #255 ✅
+### 5 Thông tư mới phát hiện — sitemap 2026-07-18 16:29 ICT
 
-| Số hiệu | File | Kích thước | Cấu trúc | Trạng thái | Ghi chú |
-|---|:---:|:---:|:---:|:---:|---|
-| **89/2026/TT-BTC** | `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` | 1.6MB | 12 Chương, 101 Điều | **Hoàn thiện** ✅ | Hướng dẫn Luật QL thuế 108/2025. PR #255 commit 549d2622. **ƯU TIÊN CAO** |
-| **54/2026/TT-BGDĐT** | `van-ban/giao-duc/nghe-nghiep/thong-tu-54-2026-tt-bgddt-chuong-trinh-dao-tao-dai-hoc.md` | 136KB | 10 Chương, 3 Phụ lục | **Hoàn thiện** ✅ | Chuẩn CT đào tạo GDĐH. PR #255 commit a0146bf7. **ƯU TIÊN CAO** |
-| **53/2026/TT-BGDĐT** | `van-ban/giao-duc/nghe-nghiep/thong-tu-53-2026-tt-bgddt-tuyen-sinh-sau-dai-hoc.md` | Stub | Metadata sai docid (slug=440236) | **Chưa hoàn thiện** | Stub cần hoàn thiện — Đang trong PR #255. Web_fetch slug 440236 xác minh full content (89 Điều, 10 Chương). **ƯU TIÊN CAO** |
-
-### Ghi chú
-- **89/TT-BTC**: ĐÃ HOÀN THIỆN trong PR #255. File 1.6MB, 12 Chương, 101 Điều. Full text từ luatvietnam.vn (slug 440483). Cần Đệ #4 review nội dung.
-- **54/TT-BGDĐT**: ĐÃ HOÀN THIỆN trong PR #255. File 136KB, 10 Chương + 3 Phụ lục. Full text từ luatvietnam.vn (slug 440237).
-- **53/TT-BGDĐT**: Stub — docid trong frontmatter là slug (440236) thay vì docid thực. Full content đã xác minh từ web_fetch slug 440236. Cần Đệ #3 hoàn thiện.
-- PR #255 đang MERGEABLE — Sếp duyệt trước để có thể tiếp tục 53/TT-BGDĐT.
-- Ngày cập nhật: 2026-07-18 16:33 Asia/Saigon
-- Phiên thực hiện: agent:github-io:cron:9f8e5045-7fdf-400c-899a-7986cf23f5ed:run:70855a4c-8f6d-4b56-9ab8-c062f0599bdc
+| Số hiệu | Ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
+|---|:---:|---|---|---:|---|---|
+| **59/2026/TT-BGDĐT** | **15/07/2026** | **Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng** — nhà giáo hợp đồng sau nghỉ hưu, giáo viên thỉnh giảng (GMN, GDTX, dự bị ĐH), giảng viên thỉnh giảng (CĐ, ĐH, ThS, TS); cơ sở thỉnh giảng ký hợp đồng | Giáo dục / Nhà giáo | 440690 | **VĂN BẢN MỚI** — web_fetch ✅ (Hà Nội, 15/7/2026). **ƯU TIÊN TRUNG BÌNH** — quy định nhà giáo, ảnh hưởng tuyển dụng GD |
 
 ---
 
@@ -64,6 +54,8 @@ Quét sitemap_nghidinh (fetch 2026-07-18 10:59 ICT) + sitemap_thongtu (fetch 202
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
 |---|---:|---|---|---:|---|---|
 | **89/2026/TT-BTC** | **30/06/2026** | **Quy định chi tiết một số điều của Luật Quản lý thuế số 108/2025/QH15 và Nghị định 252/2026/NĐ-CP** — quy định chi tiết giao dịch điện tử trong quản lý thuế, khai thuế, nộp thuế, hoàn thuế, kiểm tra thuế; hướng dẫn toàn bộ Luật QL thuế 108/2025 và NĐ 252/2026; căn cứ Luật QL thuế 108/2025, NĐ 252/2026/NĐ-CP, NĐ 29/2025/NĐ-CP (BTCTài Chính); người ký Bộ trưởng Bộ Tài chính. | Thuế / QL thuế điện tử | 440483 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN CAO** — văn bản hướng dẫn thi hành toàn diện Luật QL thuế 108/2025. Hiệu lực **01/7/2026**. |
+| **60/2026/TT-BGDĐT** | **17/07/2026** | **Quy định tiêu chuẩn, quy trình biên soạn tài liệu hướng dẫn thực hiện Chương trình giáo dục mầm non và việc lựa chọn đồ chơi, học liệu** — tiêu chuẩn biên soạn tài liệu GDMN; quy định lựa chọn đồ chơi, học liệu trong cơ sở GDMN; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 279/2026/NĐ-CP (chức năng BGDĐT 12/7/2026); người ký Bộ trưởng Lê Quân | Giáo dục / GDMN | 440626 | **VĂN BẢN MỚI** — web_fetch ✅ (Hà Nội, 17/7/2026). **ƯU TIÊN TRUNG BÌNH** — quy định tiêu chuẩn sách giáo khoa GDMN |
+| **59/2026/TT-BGDĐT** | **15/07/2026** | **Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng** — nhà giáo hợp đồng sau nghỉ hưu, giáo viên thỉnh giảng (GMN, GDTX, dự bị ĐH), giảng viên thỉnh giảng (CĐ, ĐH, ThS, TS); cơ sở thỉnh giảng ký hợp đồng; căn cứ Luật Giáo dục 43/2019, NĐ 279/2026; người ký Bộ trưởng Lê Quân | Giáo dục / Nhà giáo | 440690 | **VĂN BẢN MỚI** — web_fetch ✅ (Hà Nội, 15/7/2026). **ƯU TIÊN TRUNG BÌNH** — quy định nhà giáo, ảnh hưởng tuyển dụng GD |
 
 ### 4 văn bản batch 11:54 — xác minh chi tiết đầy đủ
 
@@ -131,6 +123,8 @@ Quét sitemap_nghidinh (lastmod 2026-07-17 20:01 UTC = 03:01 ICT 17/7) + sitemap
 | 440390 | **59/2026/TT-BXD** | **~07/2026** | Định mức kinh tế-kỹ thuật công tác nạo vét công trình hàng hải (tàu hút bụng, máy đào gầu dây); căn cứ NĐ 33/2025 | Giao thông/Hàng hải | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Bộ Xây dựng 07/2026. **ƯU TIÊN THẤP** — kỹ thuật nạo vét cảng biển |
 | 440448 | **37/2026/TT-BKHCN** | **30/6/2026** | Chứng chỉ vô tuyến điện nghiệp dư Hạng I–III; tiêu chuẩn thi/cấp/thu hồi; căn cứ Luật Tần số 42/2009 (sửa 09/2022), NQ 66.17, 66.18/NQ-CP, NĐ 225/2026 | Thông tin/Viễn thông | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 30/6/2026. **ƯU TIÊN THẤP** — chuyên đề viễn thông |
 | 440437 | **98/2026/TT-BTC** | **10/7/2026** | Ban hành Quy chế mẫu kiểm toán nội bộ cho cơ quan nhà nước, đơn vị sự nghiệp công lập; căn cứ Luật Kế toán 88/2015 (sửa 56/2024), NĐ 05/2019; hiệu lực 01/9/2026 | Kế toán/Kiểm toán nội bộ | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 10/7/2026. **ƯU TIÊN TRUNG BÌNH** — quy chế mẫu cho QLNN |
+| 440690 | **59/2026/TT-BGDĐT** | **15/7/2026** | Nhà giáo hợp đồng sau nghỉ hưu và nhà giáo thỉnh giảng; GV thỉnh giảng (GMN, GDTX, dự bị ĐH); giảng viên thỉnh giảng (CĐ, ĐH, ThS, TS); căn cứ Luật Giáo dục 43/2019, NĐ 279/2026; người ký Lê Quân | Giáo dục/Nhà giáo | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 15/7/2026. **ƯU TIÊN TRUNG BÌNH** — quy định nhà giáo, ảnh hưởng tuyển dụng |
+| 440626 | **60/2026/TT-BGDĐT** | **17/7/2026** | Tiêu chuẩn, quy trình biên soạn tài liệu hướng dẫn GDMN và lựa chọn đồ chơi, học liệu; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 279/2026; người ký Lê Quân | Giáo dục/GDMN | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 17/7/2026. **ƯU TIÊN TRUNG BÌNH** — tiêu chuẩn sách GDMN |
 
 ### Ghi chú xử lý
 
