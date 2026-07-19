@@ -225,9 +225,180 @@
 | TT-BTC 97/2026 | **MỚI** — xác minh trên luatvietnam.vn 06/07/2026 | Bãi bỏ TT 55/2010 |
 | TT-BTC 98/2026 | **Cần xác minh** — slug luatvietnam không chính xác | Văn phòng đại diện |
 | TT-BTC 99/2026 | **Cần xác minh** — slug không xác định | Tìm trên vanban.chinhphu |
-| TT-BTC 100/2026 | Không tìm thấy trên sitemap | Có thể chưa ban hành |
+| TT-BTC 100/2026 | **✅ MỚI — xác minh 15/07/2026, hiệu lực 01/09/2026** | Bãi bỏ 06 TT 2016 về giá dịch vụ kiểm định |
 
 ---
 
-*Lần cập nhật tiếp theo: khoảng 17/07/2026 hoặc khi có văn bản mới ban hành sau 12/07/2026.*
-*Đệ #1 Discovery — github-io workspace*
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-19 (Đệ #2 Discovery)
+
+> Scan sitemap luatvietnam.vn ngày 2026-07-19. Tìm thấy **11 văn bản mới** (ngoài 5 đã phát hiện lần trước và 2 đang xử lý bởi đệ #3).
+
+### BẢNG TỔNG HỢP
+
+| # | Số | Ngày BH | Hiệu lực | Chủ đề | Slug | Ưu tiên |
+|---|-----|---------|---------|--------|------|---------|
+| 1 | **59/2026/TT-BGDDT** | 15/07 | Chưa rõ | Nhà giáo hợp đồng sau nghỉ hưu & thỉnh giảng | `...440690-d1.html` | 🔴 CAO |
+| 2 | **100/2026/TT-BTC** | 15/07 | 01/09/2026 | Bãi bỏ 06 Thông tư Bộ TC (2016) | `...440486-d1.html` | 🟡 TB |
+| 3 | **54/2026/TT-BXD** | 01/07 | 01/07/2026 | Sửa đổi quản lý cảng thủy nội địa | `...440577-d1.html` | 🟡 TB |
+| 4 | **37/2026/TT-BKHCN** | 30/06 | Chưa rõ | Chứng chỉ vô tuyến điện nghiệp dư | `...440448-d1.html` | 🟡 TB |
+| 5 | **93/2026/TT-BTC** | 01/07 | 01/07/2026 | Tem điện tử rượu và thuốc lá | `...440661-d1.html` | 🟡 TB |
+| 6 | **51/2026/TT-BXD** | 30/06 | 01/07/2026 | Quy chế an toàn hàng không dân dụng | `...440563-d1.html` | 🟡 TB |
+| 7 | **89/2026/TT-BTC** | 30/06 | Chưa rõ | Chi tiết Luật QLThuế & NĐ 252 | `...440483-d1.html` | 🟢 THẤP |
+| 8 | **86/2026/TT-BTC** | 30/06 | Chưa rõ | Quản lý thuế hàng hóa XNK | `...439660-d1.html` | 🟢 THẤP |
+| 9 | **84/2026/TT-BTC** | 30/06 | Chưa rõ | Hoàn thuế GTGT cho người nước ngoài | `...439678-d1.html` | 🟢 THẤP |
+| 10 | **98/2026/TT-BQP** | 06/07 | Chưa rõ | Chứng nhận HTQLCL sản phẩm quốc phòng | `...440226-d1.html` | 🟢 THẤP |
+| 11 | **45/2026/TT-BXD** | 30/06 | Chưa rõ | Sửa đổi thông tư đăng kiểm đường bộ | `...440562-d1.html` | 🟢 THẤP |
+
+---
+
+### CHI TIẾT VĂN BẢN ƯU TIÊN CAO
+
+#### 1. 59/2026/TT-BGDDT — Nhà giáo hợp đồng sau nghỉ hưu & thỉnh giảng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 59/2026/TT-BGDDT |
+| **Ban hành** | 15/07/2026 |
+| **Hiệu lực** | Chưa xác định |
+| **Chủ đề** | Giáo dục, Lao động |
+| **Slug** | `giao-duc/thong-tu-59-2026-tt-bgddt-quy-dinh-ve-nha-giao-hop-dong-va-thinh-giang-sau-nghi-huu-440690-d1.html` |
+| **Trạng thái** | **MỚI — cần crawl ngay** |
+
+**Trích yếu (xác minh web_fetch 2026-07-19):**
+
+- **Chương I:** Định nghĩa "hợp đồng toàn thời gian sau nghỉ hưu" (theo HĐLĐ) và "thỉnh giảng" (cần tối thiểu 1 môn/mô-đun/chuyên đề). Phân biệt: giáo viên thỉnh giảng (GDPT/mầm non/sơ cấp/trung cấp) vs. giảng viên thỉnh giảng (CĐ/ĐH/ThS/Tiến sĩ).
+- **Chương II — Hợp đồng sau nghỉ hưu:**
+  - Điều 3: Nguyên tắc — tự nguyện, bình đẳng, công khai; không ảnh hưởng kế hoạch tuyển dụng kế cận; tuân thủ chuẩn nghề nghiệp.
+  - Điều 4: Điều kiện — phẩm chất tốt, sức khỏe, trình độ, ứng dụng CN số.
+  - Điều 5: Thời giờ linh hoạt phù hợp độ tuổi/sức khỏe.
+  - Điều 6: Tiền lương theo thỏa thuận HĐLĐ; quyền xem xét phong tặng GS, PGS, Nhà giáo ND, Nhà giáo UT nếu đủ tiêu chuẩn.
+  - Ràng buộc: chỉ ký HĐ với 01 cơ sở GD.
+- **Căn cứ:** Liên quan NĐ 235/2026/NĐ-CP về hợp đồng thực hiện công việc trong ĐVSNCL.
+
+---
+
+#### 2. 100/2026/TT-BTC — Bãi bỏ 06 Thông tư (2016) — Giá dịch vụ kiểm định
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 100/2026/TT-BTC |
+| **Ban hành** | 15/07/2026 |
+| **Hiệu lực** | 01/09/2026 |
+| **Chủ đề** | Bãi bỏ văn bản, Tài chính |
+| **Slug** | `tai-chinh/thong-tu-100-2026-tt-btc-bai-bo-06-thong-tu-cua-bo-tai-chinh-hieu-luc-tu-01-09-2026-440486-d1.html` |
+| **Trạng thái** | **MỚI** |
+
+**06 TT bị bãi bỏ (tất cả 11/11/2016):**
+1. TT 234/2016 — Giá dịch vụ kiểm định tàu biển, công trình biển
+2. TT 235/2016 — Giá dịch vụ thử nghiệm khí thải xe cơ giới đường bộ
+3. TT 236/2016 — Giá dịch vụ thẩm định thiết kế đường sắt
+4. TT 237/2016 — Giá dịch vụ kiểm định phương tiện thủy nội địa
+5. TT 238/2016 — Giá dịch vụ thử nghiệm xe cơ giới đường bộ
+6. TT 239/2016 — Giá dịch vụ kiểm định phương tiện giao thông đường bộ
+
+---
+
+#### 3. 54/2026/TT-BXD — Sửa đổi quản lý cảng thủy nội địa & kết cấu hạ tầng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 54/2026/TT-BXD |
+| **Ban hành** | 01/07/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Giao thông thủy, Cảng thủy nội địa |
+| **Slug** | `xay-dung/thong-tu-54-2026-tt-bxd-sua-doi-quan-ly-cang-thuy-noi-dia-va-ket-cau-ha-tang-440577-d1.html` |
+| **Trạng thái** | **MỚI** |
+
+Sửa đổi, bổ sung TT 20/2026/TT-BXD (15/5/2026) và TT 21/2026/TT-BXD (15/5/2026):
+- Chương I (sửa đổi TT 21/2026): Điều 4 (hồ sơ dữ liệu quốc gia), Điều 10 (thẩm quyền Sở Xây dựng), Điều 12 (công bố đóng luồng — 3 trường hợp, 7 khoản chi tiết), Điều 17 (cảng thủy nội địa quốc gia vs. địa phương), Điều 37 (công bố hạn chế giao thông).
+- Chương II (sửa đổi TT 20/2026): Điều 6 (phương tiện thủy chở người/vật tư đến khu vực nuôi trồng/xây dựng), Điều 11 (chứng nhận phù hợp an ninh cảng — thẩm định 3 ngày + phê duyệt 3 ngày).
+
+---
+
+#### 4. 37/2026/TT-BKHCN — Chứng chỉ vô tuyến điện nghiệp dư
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 37/2026/TT-BKHCN |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Viễn thông, Vô tuyến điện |
+| **Slug** | `thong-tin/thong-tu-37-2026-tt-bkhcn-quy-dinh-chung-chi-vo-tuyen-dien-nghiep-du-va-tieu-chuan-thi-cap-440448-d1.html` |
+| **Trạng thái** | **MỚI** |
+
+**3 hạng chứng chỉ:**
+- Hạng I: Công suất ≤1000W, tất cả băng tần nghiệp dư
+- Hạng II: Công suất ≤200W, tất cả băng tần
+- Hạng III: Công suất ≤50W, chỉ HF 14–29.7MHz + VHF/UHF
+
+Tiêu chuẩn tổ chức thi: ≥200 câu hỏi, 5 nhóm kiến thức, phải thông báo Cục Tần số VRĐ trước khi tổ chức thi.
+
+---
+
+#### 5. 93/2026/TT-BTC — Tem điện tử rượu và thuốc lá
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 93/2026/TT-BTC |
+| **Ban hành** | 01/07/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Thuế, Tem điện tử |
+| **Slug** | `xuat-nhap-khau/thong-tu-93-2026-tt-btc-quy-dinh-ve-tem-dien-tu-ruou-va-thuoc-la-hieu-luc-tu-01-07-2026-440661-d1.html` |
+| **Trạng thái** | **MỚI** (cập nhật — trước đó ghi 404/403, nay đã xác nhận 200 OK) |
+
+Quy định in, phát hành, quản lý, sử dụng tem điện tử (có mã QR, tra cứu qua Hệ thống thông tin quản lý thuế và Cổng Cục Hải quan). Nguyên tắc: mỗi bao thuốc lá / chai rượu 01 tem; tem rách khi mở bao thuốc lá (dán trước khi bọc màng bóng).
+
+---
+
+#### 6. 51/2026/TT-BXD — Quy chế An toàn hàng không dân dụng (tàu bay)
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 51/2026/TT-BXD |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Hàng không, An toàn bay |
+| **Slug** | `giao-thong/thong-tu-51-2026-tt-bxd-quy-che-an-toan-hang-khong-dan-dung-cho-tau-bay-va-khai-thac-440563-d1.html` |
+| **Trạng thái** | **MỚI** |
+
+Ban hành Bộ Quy chế An toàn hàng không dân dụng (tàu bay và khai thác). Thay thế 3 Thông tư cũ của Bộ GTVT (TT 01/2011, TT 03/2016, TT 21/2017).
+
+---
+
+### GHI CHÉP THÊM — ƯU TIÊN THẤP
+
+| # | Số | Ngày BH | Chủ đề | Slug |
+|---|-----|---------|--------|------|
+| 7 | 89/2026/TT-BTC | 30/06 | Chi tiết Luật QLThuế & NĐ 252 | `thue/...440483-d1.html` |
+| 8 | 86/2026/TT-BTC | 30/06 | Quản lý thuế hàng hóa XNK | `thue/...439660-d1.html` |
+| 9 | 84/2026/TT-BTC | 30/06 | Hoàn thuế GTGT cho người nước ngoài | `thue/...439678-d1.html` |
+| 10 | 98/2026/TT-BQP | 06/07 | Chứng nhận HTQLCL sản phẩm quốc phòng | `an-ninh-quoc-gia/...440226-d1.html` |
+| 11 | 45/2026/TT-BXD | 30/06 | Sửa đổi thông tư đăng kiểm đường bộ | `giao-thong/...440562-d1.html` |
+
+---
+
+## TỔNG HỢP TRẠNG THÁI — THÁNG 7/2026
+
+| Số | Mới? | Ưu tiên | Trạng thái | Ghi chú |
+|-----|------|---------|-----------|---------|
+| 12/TT-TANDTC | ✅ Mới | 🔴 CAO | Đệ #3 đang crawl | Phiên tòa + ghi âm hình |
+| 118/TT-BCA | ✅ Mới | 🟡 TB | Đệ #3 đang crawl | Sửa đổi TT 17/2024 căn cước |
+| 59/TT-BGDDT | ✅ Mới | 🔴 CAO | **Cần crawl** | Nhà giáo hợp đồng sau nghỉ hưu |
+| 100/TT-BTC | ✅ Mới | 🟡 TB | **Cần crawl** | Bãi bỏ 06 TT 2016 |
+| 54/TT-BXD | ✅ Mới | 🟡 TB | **Cần crawl** | Cảng thủy nội địa |
+| 37/TT-BKHCN | ✅ Mới | 🟡 TB | **Cần crawl** | Vô tuyến điện nghiệp dư |
+| 93/TT-BTC | ✅ Mới | 🟡 TB | **Cần crawl** | Tem điện tử rượu/thuốc lá |
+| 51/TT-BXD | ✅ Mới | 🟡 TB | Ghi nhận | An toàn hàng không |
+| 89/TT-BTC | ✅ Mới | 🟢 THẤP | Ghi nhận | Luật QLThuế |
+| 86/TT-BTC | ✅ Mới | 🟢 THẤP | Ghi nhận | Thuế XNK |
+| 84/TT-BTC | ✅ Mới | 🟢 THẤP | Ghi nhận | Hoàn thuế GTGT NN |
+| 98/TT-BQP | ✅ Mới | 🟢 THẤP | Ghi nhận | QLCL quốc phòng |
+| 45/TT-BXD | ✅ Mới | 🟢 THẤP | Ghi nhận | Đăng kiểm đường bộ |
+| 279/NĐ-CP | Đã ghi | 🟡 TB | Chưa crawl | Chức năng Bộ GDĐT |
+| 95/TT-BTC | Đã ghi | 🟡 TB | Chưa crawl | Hiệp định thuế quốc tế |
+| 97/TT-BTC | Đã ghi | 🟡 TB | Chưa crawl | Bãi bỏ TT 55/2010 |
+
+---
+
+*Lần cập nhật tiếp theo: khoảng 22/07/2026 hoặc khi có văn bản mới.*
+*Đệ #2 Discovery — 2026-07-19 14:03 GMT+7 — github-io workspace*
