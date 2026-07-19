@@ -1,3 +1,57 @@
+## Cập nhật 2026-07-19 v4 (Đệ #1 Discovery — 2026-07-19 19:32 ICT)
+
+### Kết quả: 5 văn bản mới — 103/TT-BCA + 47/TT-BXD + 31/TT-NHNN + 30/TT-BYT + 30/TT-BNNMT (sitemap_thongtu batch 2026-07-19 11:56 ICT)
+
+Quét sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00) + sitemap_thongtu (lastmod 2026-07-19 11:56:02+07:00) + web_fetch xác minh 5 văn bản mới chưa có trong tracking. So với batch tham chiếu v3 16:01 ICT (12/TT-TANDTC + 118/TT-BCA + 99/TT-BTC + 37/TT-BKHCN): **phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **103/2026/TT-BCA** | **25/06/2026** | **Quy định phân cấp, thẩm quyền, trình tự, thủ tục và một số nội dung thực hiện dự án đầu tư xây dựng công trình an ninh** — quy định phân cấp quyết định đầu tư, thẩm quyền quyết định/thẩm định chủ trương đầu tư, trình tự thủ tục quy hoạch chi tiết dự án cần bảo đảm bí mật nhà nước, thẩm định Báo cáo nghiên cứu khả thi/kinh tế-kỹ thuật, thẩm quyền/trình tự lập/thẩm định/phê duyệt/điều chỉnh thiết kế xây dựng, kiểm tra nghiệm thu; căn cứ Luật XD 135/2025, Luật Quy hoạch đô thị 47/2024 (sửa 71/2025, 144/2025), Luật Đầu tư công 58/2024 (sửa 90/2025), Luật PCCC 50/2024 (sửa 118/2025), NĐ 02/2025/NĐ-CP (sửa 11/2025), NĐ 85/2025, NĐ 105/2025, NĐ 145/2025, NĐ 178/2025 (sửa 34/2026), NĐ 206/2026, NĐ 207/2026, NĐ 217/2026; người ký Lương Tam Quang; hiệu lực chưa xác minh | Công an / Đầu tư xây dựng / An ninh | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440214-d1). Title: "Quy định phân cấp, thẩm quyền và thủ tục dự án an ninh" ✅. Ngày ban hành **25/6/2026** (Hà Nội, ngày 25 tháng 6 năm 2026). **ƯU TIÊN THẤP** — phân cấp thẩm quyền đầu tư xây dựng công trình an ninh, cụ thể hóa Luật XD 135/2025 và NĐ 206/2026. |
+| **47/2026/TT-BXD** | **30/06/2026** | **Quy định về quản lý và bảo đảm hoạt động bay** — quy định quản lý và bảo đảm hoạt động bay tại Việt Nam; phạm vi điều chỉnh rộng (ADS, AFTN, AIC, AIM, AIRMET, AIS, AMHS, ATIS, dữ liệu hàng không, dịch vụ ATS/ATFM/CNS/MET/SAR, đào tạo nhân viên ANS, giấy phép/chứng nhận, độ cao bay, PBN, RNAV/RNP, tìm kiếm cứu nạn, giai đoạn khẩn nguy/hồ nghi/báo động); căn cứ Luật Hàng không 130/2025/QH15, NĐ 222/2026/NĐ-CP, NĐ 221/2026/NĐ-CP; người ký Bộ trưởng Bộ Xây dựng; hiệu lực chưa xác minh | Giao thông / Hàng không / Hoạt động bay | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440109-d1). Title: "Quy định quản lý và bảo đảm hoạt động bay hiệu quả" ✅. Ngày ban hành **30/6/2026** (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN TRUNG BÌNH** — văn bản hướng dẫn chi tiết hoạt động bay theo Luật Hàng không 130/2025/QH15 và NĐ 221+222/2026. |
+| **31/2026/TT-NHNN** | **30/06/2026** | **Quy định về hoạt động cho thuê tài chính của công ty tài chính tổng hợp, công ty cho thuê tài chính** — quy định hoạt động cho thuê tài chính, điều kiện bên thuê, hồ sơ đề nghị, lãi suất (điều chỉnh/chậm trả/quá hạn), phí (thu xếp, cam kết, trả nợ trước), đồng tiền sử dụng, cơ cấu lại thời hạn trả nợ, mua và cho thuê lại, cho thuê tài chính mức giá trị nhỏ (≤400 triệu đồng); căn cứ BLDS 91/2015, Luật NHNN 46/2010, Luật TCTD 32/2024 (sửa 43/2024, 96/2025), NĐ 26/2025/NĐ-CP (sửa 198/2026); người ký Thống đốc NHNN; hiệu lực chưa xác minh | Tài chính / Cho thuê tài chính / Ngân hàng | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440099-d1). Title: "Quy định hoạt động cho thuê tài chính của công ty tài chính" ✅. Ngày ban hành **30/6/2026** (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN TRUNG BÌNH** — quy định cho thuê tài chính theo Luật TCTD 32/2024 sửa 96/2025. |
+| **30/2026/TT-BYT** | **09/07/2026** | **Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm** — quy định 05 thành phần bắt buộc (Năng lượng/kcal, Chất đạm/g, Carbohydrat/g, Chất béo/g, Natri/mg), thêm đường tổng số (đồ uống có đường), thêm chất béo bão hòa (thực phẩm chiên rán); cách ghi, phần trăm giá trị dinh dưỡng tham chiếu (2000 kcal, 50g đạm, 325g carb, 56g chất béo, 20g béo bão hòa, 2000mg natri); căn cứ NĐ 37/2026/NĐ-CP (Luật Chất lượng SPHH), NĐ 42/2025/NĐ-CP (chức năng BYT); người ký Đỗ Xuân Tuyên; hiệu lực **10/7/2026** | Y tế / Thực phẩm / Nhãn dinh dưỡng | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440000-d1). Title: "Hướng dẫn ghi thành phần và giá trị dinh dưỡng trên nhãn thực phẩm" ✅. Ngày ban hành **09/7/2026** (Hà Nội, ngày 09 tháng 7 năm 2026). Hiệu lực **10/7/2026** — đã có hiệu lực. Thay thế TT 29/2023/TT-BYT. **ƯU TIÊN CAO** — tác động rộng đến ngành thực phẩm, nhãn dinh dưỡng bắt buộc. |
+| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — quy định kỹ thuật bay đo từ, phổ gamma sử dụng máy bay có người lái; bay đo phổ gamma sử dụng máy bay không người lái; bay đo từ sử dụng máy bay không người lái; nội dung: công tác văn phòng, lắp đặt thiết bị, bay đo kỹ thuật, đo biến thiên từ, trắc địa định vị, mạng lưới tuyến, độ cao/tốc độ bay (≤120-200m theo địa hình, ≤250km/h), thiết bị đo từ (độ nhạy ≤1nT), thiết bị phổ gamma (20KeV-3MeV); căn cứ Luật Địa chất 54/2024 (sửa 147/2025), NĐ 193/2025 (sửa 21/2026), NĐ 35/2025/NĐ-CP; người ký Bộ trưởng Bộ Nông nghiệp và Môi trường; hiệu lực chưa xác minh | Tài nguyên / Địa chất / Khoáng sản / Bay đo | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440247-d1). Title: "Quy định kỹ thuật bay đo từ, phổ gamma trong địa chất" ✅. Ngày ban hành **13/7/2026** (Hà Nội, ngày 13 tháng 7 năm 2026). **ƯU TIÊN THẤP** — quy định kỹ thuật chuyên ngành địa chất, thăm dò khoáng sản bằng phương pháp bay đo. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu v3 16:01 ICT | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-19 17:56:11+07:00 | = Không đổi | ✅ Không đổi (277 xuất hiện mới, 284/283 vẫn ổn định) |
+| sitemap_thongtu (batch chính) | 2026-07-19 11:56:02+07:00 | > v3 batch (09:02 19/7) | ✅ **MỚI** — 103/TT-BCA (mới hoàn toàn), 47/TT-BXD (mới hoàn toàn), 31/TT-NHNN (mới hoàn toàn), 30/TT-BYT (mới hoàn toàn), 30/TT-BNNMT (mới hoàn toàn) |
+
+### Các văn bản khác trong sitemap_thongtu batch mới (chưa ghi nhận)
+
+| Số hiệu | Ngày ước | Trích yếu | Slug | Lưu ý |
+|---|:---:|---|---|---|
+| **19/2026/TT-BVHTTDL** | ~06 | Quy định chi tiết về thẻ nhà báo và bồi dưỡng nghiệp vụ | 440215 | Đã xuất hiện batch trước — chưa ghi nhận |
+| **54/2026/TT-BXD** | ~07 | Sửa đổi quản lý cảng thủy nội địa và kết cấu hạ tầng | 440577 | Đã xuất hiện batch trước — chưa ghi nhận |
+| **59/2026/TT-BGDDT** | 15/07/2026 | Quy định nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu | 440690 | Đã xuất hiện batch trước — chưa ghi nhận |
+| **55/2026/TT-BGDDT** | ~07 | Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp | 440521 | Đã xuất hiện batch trước — chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **30/TT-BYT** (ƯU TIÊN CAO): Nhãn dinh dưỡng thực phẩm bắt buộc — đã có hiệu lực 10/7/2026; cần tạo file van-ban
+2. **31/TT-NHNN** (ƯU TIÊN TRUNG BÌNH): Cho thuê tài chính — theo Luật TCTD 32/2024 sửa 96/2025
+3. **47/TT-BXD** (ƯU TIÊN TRUNG BÌNH): Hoạt động bay — cụ thể hóa Luật Hàng không 130/2025
+4. **103/TT-BCA** (ƯU TIÊN THẤP): Đầu tư xây dựng công trình an ninh
+5. **30/TT-BNNMT** (ƯU TIÊN THẤP): Kỹ thuật bay đo địa chất
+6. **19/TT-BVHTTDL**, **54/TT-BXD**, **55/TT-BGDDT** — theo dõi batch tiếp theo
+7. **DocID verification** trên vanban.chinhphu.vn dải 218850+ — toàn bộ 404
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 103/TT-BCA (phân cấp đầu tư xây dựng an ninh, 25/6/2026), 47/TT-BXD (quản lý hoạt động bay, 30/6/2026), 31/TT-NHNN (cho thuê tài chính, 30/6/2026), 30/TT-BYT (nhãn dinh dưỡng thực phẩm, 09/7/2026, đã có hiệu lực), 30/TT-BNNMT (kỹ thuật bay đo địa chất, 13/7/2026).
+- **30/TT-BYT** là văn bản nổi bật nhất — thay thế TT 29/2023/TT-BYT về ghi nhãn dinh dưỡng thực phẩm; hiệu lực 10/7/2026 — đã có hiệu lực; tác động rộng ngành thực phẩm.
+- **31/TT-NHNN**: Quy định cho thuê tài chính theo Luật TCTD 32/2024/QH15 sửa đổi bởi 96/2025/QH15 (bổ sung quy định về cho thuê tài chính trong bối cảnh Luật TCTD mới).
+- **47/TT-BXD**: Quản lý và bảo đảm hoạt động bay theo Luật Hàng không 130/2025/QH15 (ban hành ngày 27/11/2025).
+- **sitemap_nghidinh ổn định** — lastmod 2026-07-19 17:56:11+07:00, 277 xuất hiện mới nhưng chưa có số NĐ (slug 440755, lastmod mới nhất). 284/283 ổn định.
+- **sitemap_thongtu cập nhật mạnh** — batch 11:56:02+07:00 có 5 văn bản mới hoàn toàn + 4 văn bản đã xuất hiện batch trước nhưng chưa ghi nhận.
+- **Nguồn:** luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-19 11:56:02+07:00), web_fetch slug 440214 (103/TT-BCA), 440109 (47/TT-BXD), 440099 (31/TT-NHNN), 440000 (30/TT-BYT), 440247 (30/TT-BNNMT).
+- **Ngày phát hiện:** 2026-07-19 19:32 Asia/Saigon
+- **Phiên thực hiện:** agent:github-io:subagent:5bfd7673-f508-4d3e-bb91-0f29e00af0b5 (Đệ #1 Discovery — 2026-07-19 19:32 ICT)
+
+---
+
 ## Cập nhật 2026-07-19 v3 (Đệ #1 Discovery — 2026-07-19 16:01 ICT)
 
 ### Kết quả: 4 văn bản mới — 12/TT-TANDTC + 118/TT-BCA + 99/TT-BTC + 37/TT-BKHCN (sitemap_thongtu batch 2026-07-19 09:02 ICT)
