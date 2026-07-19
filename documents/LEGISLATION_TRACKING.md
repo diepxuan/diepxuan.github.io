@@ -1,3 +1,47 @@
+## Cập nhật 2026-07-20 v1 (Đệ #1 Discovery — heartbeat 2026-07-20 01:03 ICT)
+
+### Kết quả: 5 văn bản MỚI — 284 + 283 + 277/ NĐ-CP + 59/TT-BGDDT + 12/TT-TANDTC (sitemap luatvietnam.vn 2026-07-19 17:56+07:00)
+
+Quét sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00) + sitemap_thongtu (lastmod 2026-07-19 11:56:02+07:00). So sánh với batch trước (2026-07-15 17:53+07:00): phát hiện **5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **284/2026/NĐ-CP** | **16/07/2026** | **Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa** — quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa tại Việt Nam theo Nghị quyết 05/2025/NQ-CP (thí điểm thị trường tài sản mã hóa); phạm vi: chào bán, phát hành, tổ chức thị trường, giao dịch, cung cấp dịch vụ tài sản mã hóa; phòng chống rửa tiền, tài trợ khủng bố; thẩm quyền xử phạt; căn cứ Chính phủ; người ký theo đề nghị Bộ trưởng Bộ Tài chính; **ƯU TIÊN CAO** — văn bản pháp lý đầu tiên về tài sản mã hóa tại Việt Nam | Tài chính / Tài sản mã hóa | **218950** ✅ (vanban.chinhphu.vn) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440680). Title: "Xử phạt vi phạm hành chính về tài sản mã hóa và thị trường" ✅. Ngày ban hành **16/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 16 tháng 7 năm 2026). Căn cứ Nghị quyết 05/2025/NQ-CP (thí điểm thị trường crypto). Docid **218950** đã xác minh trên vanban.chinhphu.vn. **ƯU TIÊN CAO** — văn bản nền tảng pháp lý thị trường crypto. |
+| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, mức phạt, biện pháp khắc phục, thẩm quyền xử phạt trong lĩnh vực lao động, BHXH, người LĐVN đi làm việc nước ngoài; phạm vi: việc làm, tuyển dụng, điều kiện lao động, AT-VSLĐ, tổ chức đại diện NLĐ; BHXH; XKLĐ nước ngoài; căn cứ theo đề nghị Bộ trưởng Bộ Nội vụ; hiệu lực ký | Lao động / BHXH / XKLĐ | **218949** ✅ (vanban.chinhphu.vn) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440485). Title: "Nghị định 283/2026/NĐ-CP: Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 7 năm 2026). Theo đề nghị Bộ trưởng Bộ Nội vụ. Docid **218949** đã xác minh trên vanban.chinhphu.vn (page title chứa "283/2026/NĐ-CP"). **ƯU TIÊN CAO** — cập nhật khung xử phạt lao động/BHXH. |
+| **277/2026/NĐ-CP** | **09/07/2026** | **Về Hạ tầng văn hóa số** — quy định chi tiết khoản 1, 3, 5 Điều 10 Nghị quyết 28/2026/QH16 về phát triển văn hóa Việt Nam; bao gồm: phát triển hạ tầng văn hóa số; cơ sở dữ liệu văn hóa, kho dữ liệu văn hóa số quốc gia, nền tảng số dùng chung; chính sách thu hút đầu tư, hỗ trợ công nghệ số, sản phẩm, dịch vụ văn hóa số; trung tâm đổi mới sáng tạo văn hóa; căn cứ Luật Chuyển đổi số 148/2025/QH15, Luật AI 134/2025/QH15, Luật Dữ liệu 60/2024/QH15, Luật BVMT 91/2025/QH15; người ký theo đề nghị Bộ Văn hóa, Thể thao và Du lịch | Văn hóa / Chuyển đổi số | **Chưa xác minh** (slug 440755) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440755). Title: "Nghị định 277/2026/NĐ-CP về Hạ tầng văn hóa số" ✅. Ngày ban hành **09/7/2026** xác minh từ luatvietnam.vn. Căn cứ Luật Chuyển đổi số 148/2025, Luật AI 134/2025, Nghị quyết 28/2026/QH16. **ƯU TIÊN TRUNG BÌNH** — văn bản hạ tầng văn hóa số. |
+| **59/2026/TT-BGDĐT** | **15/07/2026** | **Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng** — quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng; bao gồm: nguyên tắc, yêu cầu hợp đồng; quyền và nghĩa vụ; thù lao; quản lý hợp đồng; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025; người ký Lê Quân; hiệu lực ký | Giáo dục / Nhà giáo | **Chưa xác minh** (slug 440690) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440690). Title: "Quy định về nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 07 năm 2026, ký Lê Quân). **ƯU TIÊN CAO** — tác động trực tiếp đội ngũ nhà giáo. |
+| **12/2026/TT-TANDTC** | **30/05/2026** | **Quy định về nội quy phiên tòa, phiên họp và việc ghi âm lời nói, ghi hình ảnh diễn biến phiên tòa, phiên họp** — quy định nội quy phiên tòa, phiên họp và việc ghi âm, ghi hình ảnh diễn biến phiên tòa, phiên họp; căn cứ Luật Tổ chức TAND 34/2024/QH15 (sửa 81/2025, 106/2025, 116/2025, 142/2025, 150/2025), Bộ luật Tố tụng hình sự 101/2015/QH13 (sửa 02/2021, 34/2024, 59/2024, 99/2025, 103/2025, 105/2025, 106/2025, 128/2025), Bộ luật Tố tụng dân sự 92/2015/QH13, Luật Tố tụng hành chính 93/2015/QH13; người ký TAND tối cao | Tư pháp / Tòa án | **Chưa xác minh** (slug 440756) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440756). Title: "Quy định nội quy phiên tòa và ghi âm hình ảnh phiên họp" ✅. Ngày ban hành **30/5/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 5 năm 2026, ký TAND tối cao). **ƯU TIÊN TRUNG BÌNH** — văn bản quy trình tố tụng. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-19 17:56+07:00
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu 2026-07-15 17:53+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-19 17:56:11+07:00 | **> Batch** | ✅ **3 NĐ-CP mới**: 282 (cần xác minh), 283 (đã xác minh docid 218949), 284 (đã xác minh docid 218950) |
+| sitemap_thongtu (batch chính) | 2026-07-19 11:56:02+07:00 | **> Batch** | ✅ **7 TT mới**: 59, 60/TT-BGDDT, 93, 98, 100/TT-BTC, 54/TT-BXD, 12/TT-TANDTC |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa xác minh docid trên vanban.chinhphu.vn (dải 218950+)
+2. **60/TT-BGDDT** (chương trình giáo dục mầm non, ngày 18/7/2026): ƯU TIÊN CAO — 55/TT-BGDDT cũng cần theo dõi
+3. **54/TT-BXD** (sửa đổi cảng thủy nội địa, ngày 18/7/2026): ƯU TIÊN TRUNG BÌNH
+4. **93/TT-BTC** (tem điện tử rượu và thuốc lá, ngày 15/7/2026): ƯU TIÊN TRUNG BÌNH
+5. **98, 100/TT-BTC** (kiểm toán nội bộ, bãi bỏ 6 thông tư): ƯU TIÊN THẤP
+6. **Verify docid 277/TT-BGDDT, 12/TT-TANDTC** trên vanban.chinhphu.vn (dải 218950+)
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 284/NĐ-CP (tài sản mã hóa, 16/7), 283/NĐ-CP (lao động/BHXH, 15/7), 277/NĐ-CP (hạ tầng văn hóa số, 09/7), 59/TT-BGDDT (nhà giáo hợp đồng/thỉnh giảng, 15/7), 12/TT-TANDTC (nội quy phiên tòa, 30/5).
+- **284/2026/NĐ-CP** là phát hiện nổi bật nhất — văn bản pháp lý đầu tiên về xử phạt thị trường tài sản mã hóa (crypto) tại Việt Nam, thực thi Nghị quyết 05/2025/NQ-CP (thí điểm crypto).
+- **283/2026/NĐ-CP** là văn bản cập nhật khung xử phạt hành chính lao động/BHXH mới, thay thế Nghị định 49/2013.
+- **277/2026/NĐ-CP**: Hạ tầng văn hóa số theo Nghị quyết 28/2026/QH16, căn cứ nhiều luật mới 2024–2026 (Chuyển đổi số, AI, Dữ liệu).
+- **59/2026/TT-BGDĐT**: Nhà giáo hợp đồng sau nghỉ hưu và thỉnh giảng — tác động trực tiếp đội ngũ nhà giáo toàn quốc.
+- **12/2026/TT-TANDTC**: Nội quy phiên tòa và ghi âm, ghi hình — căn cứ nhiều luật sửa đổi 2025.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-19 11:56:02+07:00), web_fetch slug 440680 (284/NĐ-CP), web_fetch slug 440485 (283/NĐ-CP), web_fetch slug 440755 (277/NĐ-CP), web_fetch slug 440690 (59/TT-BGDDT), web_fetch slug 440756 (12/TT-TANDTC), vanban.chinhphu.vn docid 218950 (284), vanban.chinhphu.vn docid 218949 (283).
+- Ngày phát hiện: 2026-07-20 01:09 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:145747ec-8285-447e-a45e-6e63cf912b67 (Đệ #1 Discovery — crawl văn bản pháp luật mới ngày 2026-07-20)
+
+---
+
 ## Cập nhật 2026-07-16 v3 (Đệ #1 Discovery — heartbeat 2026-07-16 08:32 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — 3 văn bản mới trong sitemap_thongtu (chưa ghi nhận)
