@@ -220,6 +220,7 @@
 | NĐ 280/2026/NĐ-CP | Đã hoàn thiện — van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md | Bảo hiểm tiền gửi |
 | NĐ 281/2026/NĐ-CP | Đã hoàn thiện — van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md | Sửa đổi NĐ 123 |
 | NĐ 279/2026/NĐ-CP | **MỚI** — xác minh trên luatvietnam.vn 12/07/2026 | Chức năng Bộ GDĐT |
+| TT-BTC 93/2026 | **Chưa hoàn thiện** — nguồn 404/403 — slug 440661 chưa index, docid chưa xác định | Tem điện tử rượu và thuốc lá |
 | TT-BTC 95/2026 | **MỚI** — xác minh trên luatvietnam.vn 01/07/2026 | Hiệp định thuế quốc tế |
 | TT-BTC 97/2026 | **MỚI** — xác minh trên luatvietnam.vn 06/07/2026 | Bãi bỏ TT 55/2010 |
 | TT-BTC 98/2026 | **Cần xác minh** — slug luatvietnam không chính xác | Văn phòng đại diện |
