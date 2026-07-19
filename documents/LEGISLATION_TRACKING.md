@@ -1,3 +1,60 @@
+## Cập nhật 2026-07-19 v3 (Đệ #1 Discovery — 2026-07-19 16:01 ICT)
+
+### Kết quả: 4 văn bản mới — 12/TT-TANDTC + 118/TT-BCA + 99/TT-BTC + 37/TT-BKHCN (sitemap_thongtu batch 2026-07-19 09:02 ICT)
+
+Quét sitemap_nghidinh (lastmod 2026-07-18 17:55:39+07:00) + sitemap_thongtu (lastmod 2026-07-19 09:02 ICT mới nhất) + web_fetch xác minh 4 văn bản mới chưa có trong tracking. So với batch tham chiếu (v2 04:38 ICT — 284/283/93/59/60/54/53/18/98/115/285): **phát hiện 4 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **12/2026/TT-TANDTC** | **30/05/2026** | **Quy định về nội quy phiên tòa, phiên họp và việc ghi âm lời nói, ghi hình ảnh diễn biến phiên tòa, phiên họp** — quy định nội quy phiên tòa dân sự, hình sự, hành chính, lao động; ghi âm lời nói, ghi hình ảnh phiên tòa; quy định thư ký tòa, kiểm sát viên, người bào chữa, đương sự; căn cứ Luật TAND 34/2024 (sửa 81/2025, 106/2025, 116/2025, 142/2025, 150/2025), Bộ luật TTHS 101/2015 (sửa nhiều luật 2021-2025), Bộ luật TTDS 92/2015 (sửa 45/2019, 59/2020, 16/2023, 47/2024, 143/2025); người ký TANDTC; hiệu lực chưa xác minh | Tư pháp / Tòa án / Nội quy tố tụng | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440756-d1). Title: "Quy định nội quy phiên tòa và ghi âm hình ảnh phiên họp" ✅. Ngày ban hành **30/5/2026** (Hà Nội, ngày 30 tháng 5 năm 2026, ký Tòa án nhân dân tối cao). **ƯU TIÊN TRUNG BÌNH** — quy định nội quy phiên tòa và ghi âm/ghi hình theo Bộ luật Tố tụng mới. |
+| **118/2026/TT-BCA** | **29/06/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 17/2024/TT-BCA về Luật Căn cước** — sửa đổi, bổ sung TT 17/2024 (đã sửa đổi bởi TT 53/2025); bổ sung Điều 3a về cơ quan quản lý căn cước (Cục Cảnh sát QLHC về TTXH, Phòng CA cấp tỉnh, CA cấp xã); sửa đổi Điều 5 về thông tin nơi sinh, quê quán, dân tộc, tôn giáo trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước; căn cứ Luật Căn cước 26/2023 (sửa 118/2025), NĐ 02/2025/NĐ-CP (sửa 11/2025), NĐ 70/2024 (sửa 58/2026/NĐ-CP); người ký Lương Tam Quang; hiệu lực chưa xác minh | Công an / Căn cước | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440749-d1). Title: "Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước" ✅. Ngày ban hành **29/6/2026** (Hà Nội, ngày 29 tháng 6 năm 2026). **ƯU TIÊN THẤP** — sửa đổi văn bản hướng dẫn Luật Căn cước. |
+| **99/2026/TT-BTC** | **10/07/2026** | **Quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân** — quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân; căn cứ Luật Ngân sách 89/2025, NĐ 73/2026/NĐ-CP, NĐ 176/2026/NĐ-CP (chính sách ưu đãi điện hạt nhân), QĐ 1012/QĐ-TTg (Đề án đào tạo nguồn nhân lực điện hạt nhân đến 2035); người ký Bộ trưởng Bộ Tài chính; hiệu lực chưa xác minh | Giáo dục / Điện hạt nhân | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440467-d1). Title: "Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân" ✅. Ngày ban hành **10/7/2026** (Hà Nội, ngày 10 tháng 7 năm 2026). **ƯU TIÊN TRUNG BÌNH** — hỗ trợ đào tạo nhân lực điện hạt nhân theo Đề án 1012/QĐ-TTg. |
+| **37/2026/TT-BKHCN** | **30/06/2026** | **Quy định về chứng chỉ vô tuyến điện nghiệp dư; tiêu chuẩn áp dụng đối với tổ chức thực hiện việc thi, cấp chứng chỉ; điều kiện, trình tự, thủ tục thi, cấp chứng chỉ; thu hồi chứng chỉ vô tuyến điện nghiệp dư** — quy định chứng chỉ vô tuyến điện nghiệp dư; tiêu chuẩn tổ chức thi; điều kiện, trình tự, thủ tục thi/cấp; thu hồi chứng chỉ; căn cứ Luật Tần số vô tuyến điện 42/2009 (sửa 09/2022), NQ 66.17/2026/NQ-CP, NQ 66.18/2026/NQ-CP, NĐ 225/2026/NĐ-CP; người ký Bộ trưởng Bộ KH&CN; hiệu lực chưa xác minh | Thông tin / Vô tuyến điện / Nghiệp dư | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440448-d1). Title: "Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp" ✅. Ngày ban hành **30/6/2026** (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN THẤP** — quy định kỹ thuật viễn thông vô tuyến điện nghiệp dư. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu v2 04:38 ICT (18/7 11:55+07:00) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-18 17:55:39+07:00 | = Không đổi | ✅ Không đổi (285 vẫn cao nhất, 284/283 cùng batch) |
+| sitemap_thongtu (batch chính) | 2026-07-19 09:02 ICT mới | > v2 batch (11:55 18/7) | ✅ **MỚI** — 12/TT-TANDTC (18:46 18/7), 118/TT-BCA (22:09 18/7), 99/TT-BTC (11:56 19/7), 37/TT-BKHCN (11:56 19/7) + nhiều TT khác đã có trong v2 |
+
+### Các văn bản khác mới trong sitemap_thongtu (cần xác minh thêm)
+
+| Số hiệu | Ngày ước | Trích yếu | Slug | Lưu ý |
+|---|:---:|---|---|---|
+| **19/2026/TT-BVHTTDL** | ~06 | Quy định chi tiết về thẻ nhà báo và bồi dưỡng nghiệp vụ (slug 440215) | 440215 | Chưa ghi nhận — đã xuất hiện trong sitemap từ batch trước |
+| **103/2026/TT-BCA** | ~07 | Quy định phân cấp thẩm quyền và thủ tục dự án an ninh (slug 440214) | 440214 | Chưa ghi nhận — cần xác minh thêm |
+| **47/2026/TT-BXD** | ~07 | Quy định quản lý và bảo đảm hoạt động bay hiệu quả (slug 440109) | 440109 | Chưa ghi nhận — cần xác minh thêm |
+| **31/2026/TT-NHNN** | ~07 | Quy định hoạt động cho thuê tài chính của công ty tài chính (slug 440099) | 440099 | Chưa ghi nhận — cần xác minh thêm |
+| **30/2026/TT-BYT** | ~07 | Hướng dẫn ghi thành phần và giá trị dinh dưỡng trên nhãn thực phẩm (slug 440000) | 440000 | Chưa ghi nhận — cần xác minh thêm |
+| **30/2026/TT-BNNMT** | ~07 | Quy định kỹ thuật bay đo từ phổ gamma trong địa chất (slug 440247) | 440247 | Chưa ghi nhận — cần xác minh thêm |
+| **92/2026/TT-BTC** | ~07 | Quy định lập dự toán, quản lý, sử dụng kinh phí ngân sách nhà nước (slug 439696) | 439696 | Chưa ghi nhận — cần xác minh thêm |
+| **84/2026/TT-BTC** | ~07 | Quy định hoàn thuế GTGT cho người nước ngoài tại Việt Nam (slug 439678) | 439678 | Chưa ghi nhận — cần xác minh thêm |
+| **86/2026/TT-BTC** | ~07 | Quy định quản lý thuế hàng hóa xuất nhập khẩu (slug 439660) | 439660 | Chưa ghi nhận — cần xác minh thêm |
+| **29/2026/TT-BYT** | ~07 | Quy định và cập nhật kiến thức công tác xã hội, hiệu lực 25/08/2026 (slug 439661) | 439661 | Chưa ghi nhận — cần xác minh thêm |
+| **29/2026/TT-BNNMT** | ~07 | Quy định kỹ thuật đo địa chất phản xạ đa kênh trên biển (slug 439762) | 439762 | Chưa ghi nhận — cần xác minh thêm |
+
+### Ưu tiên tiếp theo
+
+1. **12/TT-TANDTC** (ƯU TIÊN TRUNG BÌNH): Nội quy phiên tòa + ghi âm/ghi hình — văn bản tố tụng mới; cần xác minh thêm nội dung chi tiết
+2. **99/TT-BTC** (ƯU TIÊN TRUNG BÌNH): Tài chính cho giảng viên/sinh viên điện hạt nhân — theo Đề án 1012/QĐ-TTg
+3. **118/TT-BCA** (ƯU TIÊN THẤP): Sửa đổi TT 17/2024 về Luật Căn cước — hướng dẫn bổ sung
+4. **37/TT-BKHCN** (ƯU TIÊN THẤP): Chứng chỉ vô tuyến điện nghiệp dư — quy định kỹ thuật
+5. **103/TT-BCA**, **47/TT-BXD**, **30/TT-BYT**, **30/TT-BNNMT** — tiếp tục theo dõi batch tiếp theo
+6. **285/2026/NĐ-CP**: Trong sitemap_nghidinh lastmod 18/7 17:55 nhưng vẫn chưa có trong tracking — cần xác minh nội dung
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** được ghi nhận: 12/TT-TANDTC (nội quy phiên tòa + ghi âm, 30/5/2026), 118/TT-BCA (sửa đổi TT 17/2024 về Căn cước, 29/6/2026), 99/TT-BTC (tài chính điện hạt nhân, 10/7/2026), 37/TT-BKHCN (chứng chỉ vô tuyến điện nghiệp dư, 30/6/2026).
+- **12/TT-TANDTC** là văn bản nổi bật nhất — quy định nội quy phiên tòa và ghi âm/ghi hình theo Bộ luật Tố tụng mới, áp dụng cho TAND các cấp.
+- **sitemap_nghidinh ổn định** — lastmod 2026-07-18 17:55:39+07:00, không đổi so với batch v2 04:38 ICT.
+- **sitemap_thongtu cập nhật nhẹ** — 4 văn bản mới (12/TT-TANDTC, 118/TT-BCA, 99/TT-BTC, 37/TT-BKHCN) cùng batch 09:02 ICT 2026-07-19, ngoài 11 văn bản đã ghi nhận.
+- **Nguồn:** luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-18 17:55:39+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-19 09:02 ICT), web_fetch slug 440756 (12/TT-TANDTC), 440749 (118/TT-BCA), 440467 (99/TT-BTC), 440448 (37/TT-BKHCN).
+- **Ngày phát hiện:** 2026-07-19 16:01 Asia/Saigon
+- **Phiên thực hiện:** agent:github-io:subagent:196bd796-2220-4aee-839d-966f7c0387a9 (Đệ #1 Discovery — 2026-07-19 16:01 ICT)
+
+---
+
 ## Cập nhật 2026-07-19 v2 (Đệ #1 Discovery — 2026-07-19 04:38 ICT)
 
 ### Kết quả: 5 văn bản mới — 54/53/TT-BGDĐT + 18/TT-BVHTTDL + 98/TT-BQP + 115/TT-BCA (sitemap_thongtu batch 2026-07-18 11:55 + web_fetch xác minh)
