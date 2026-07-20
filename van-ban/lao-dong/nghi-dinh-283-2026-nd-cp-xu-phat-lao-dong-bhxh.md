@@ -20,6 +20,8 @@ file_dinh_kem:
     url: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/283-ndcp.signed.pdf
 docid: "218949"
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+trang_thai: stub
+note: "Văn bản chưa hoàn thiện - thiếu Điều 39-66 (Chương II: BHXH, thẩm quyền, thi hành). Nguồn vanban.chinhphu.vn va luatvietnam.vn bi chan. PDF signed 100 trang da tai nhung OCR cham; can bo sung."
 ---
 
 # NGHỊ ĐỊNH
