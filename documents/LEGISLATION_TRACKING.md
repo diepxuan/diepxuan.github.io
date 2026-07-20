@@ -5767,3 +5767,62 @@ Quét sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00) + sitemap_thongtu (la
 - Ngày phát hiện: 2026-07-20 15:33 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:ea507c33-6a85-4bef-90cb-903d7c13ec4e (Đệ #1 Discovery — 2026-07-20 15:33)
 
+---
+
+## Cập nhật 2026-07-20 v5 (Đệ #1 Discovery — 2026-07-20 17:02 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới — sitemap ổn định từ batch 2026-07-20 11:56:35+07:00
+
+Quét sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00) + sitemap_thongtu (lastmod **2026-07-20 11:56:35+07:00**) so sánh với batch tham chiếu v3 (2026-07-20 11:56+07:00). **Không có văn bản mới chưa được ghi nhận.** Sitemap đã ổn định hoàn toàn.
+
+**Kiểm tra mở rộng**: Quét toàn bộ 669 entry của sitemap_thongtu để phát hiện entry có lastmod khác batch (11:56:35). Kết quả:
+- **443 entries** tại lastmod batch 11:56:35+07:00 — tất cả đã có trong v3 + v4
+- **4 entries** tại lastmod 11:37:26–09:24:15 ngày 20/7 (trước batch) — đã có trong v3 + v4
+- **0 entries** sau batch (lastmod > 11:56:35+07:00)
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-20 17:02 ICT
+
+| Sitemap | lastmod hiện tại | So với batch v3 11:56+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-19 17:56:11+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | **2026-07-20 11:56:35+07:00** | = Không đổi | ✅ Không đổi |
+| sitemap_nghiquyet | **404 — không tồn tại** | — | ❌ Không truy cập được |
+| sitemap_quyetdinh | **404 — không tồn tại** | — | ❌ Không truy cập được |
+
+### Tổng hợp các văn bản chưa xử lý trong tracking
+
+| Số hiệu | Ngày | Trích yếu | Slug | Trạng thái | Ưu tiên |
+|---|---:|---|---|---|:---:|
+| **103/2026/TT-BQP** | 17/07 | Điều chỉnh trợ cấp quân nhân phục viên/cơ yếu | 440815 | Chưa có file | 🔴 CAO |
+| **32/2026/TT-BNNMT** | 17/07 | Bãi bỏ văn bản pháp luật Bộ Nông nghiệp | 440814 | Chưa có file | 🟡 TB |
+| **58/2026/TT-BGDĐT** | 07/07 | Quy chế tổ chức cơ sở giáo dục đại học | 440798 | Chưa có file | 🟡 TB |
+| **31/2026/TT-BNNMT** | 15/07 | Định giá rừng và chi trả dịch vụ các-bon | 440799 | Chưa có file | 🟡 TB |
+| **89/2026/TT-BTC** | 30/06 | Hướng dẫn chi tiết Luật QL thuế và NĐ 252/2026 | 440483 | Chưa có file | 🔴 CAO |
+| **118/2026/TT-BCA** | 29/06 | Sửa đổi TT 17/2024/TT-BCA về Luật Căn cước | 440749 | Chưa có file | 🟡 TB |
+| **31/2026/TT-BYT** | 16/07 | Định mức kinh phí xây dựng thông tư BYT | 440773 | Chưa có file | 🟢 THẤP |
+| **45/2026/TT-BXD** | 30/06 | Sửa đổi Thông tư đăng kiểm giao thông đường bộ | 440562 | Chưa có file (chưa ghi nhận) | 🟡 TB |
+
+### Ưu tiên tiếp theo
+
+1. **89/TT-BTC** (ƯU TIÊN CAO): Hướng dẫn Luật QL thuế 108/2025 + NĐ 252/2026 — tác động toàn bộ doanh nghiệp, cá nhân nộp thuế. Cần tạo file trong van-ban/thue/.
+2. **103/TT-BQP** (ƯU TIÊN CAO): Điều chỉnh trợ cấp quân nhân phục viên/cơ yếu — tác động trực tiếp hàng triệu quân nhân.
+3. **58/TT-BGDĐT** (ƯU TIÊN TB): Quy chế tổ chức cơ sở giáo dục đại học — căn cứ NĐ 91/2026/NĐ-CP.
+4. **31/TT-BNNMT** (ƯU TIÊN TB): Định giá rừng và dịch vụ các-bon — căn cứ NĐ 180/2026.
+5. **32/TT-BNNMT** (ƯU TIÊN TB): Bãi bỏ văn bản lỗi thời — dọn dẹp hệ thống.
+6. **118/TT-BCA** (ƯU TIÊN TB): Sửa đổi TT 17/2024 căn cước.
+7. **45/TT-BXD** (chưa ghi nhận): Cần ghi nhận và xác minh nội dung — sửa đổi đăng kiểm.
+8. **31/TT-BYT** (ƯU TIÊN THẤP): Văn bản hành chính nội bộ BYT.
+9. **Theo dõi sitemap**: Tiếp tục theo dõi sitemap_thongtu (cập nhật ~11:56+07:00 hàng ngày) và sitemap_nghidinh (cập nhật ~17:56+07:00).
+10. **285/2026/NĐ-CP**: Chưa xuất hiện trong sitemap_nghidinh — tiếp tục theo dõi.
+
+### Ghi chú xử lý
+
+- **Không phát hiện văn bản mới** trong lần quét này. sitemap_thongtu ổn định từ batch 2026-07-20 11:56:35+07:00.
+- **Tổng 8 văn bản chưa có file** trong tracking: 103/TT-BQP, 32/TT-BNNMT, 58/TT-BGDĐT, 31/TT-BNNMT, 89/TT-BTC, 118/TT-BCA, 31/TT-BYT, 45/TT-BXD (chưa ghi nhận).
+- **05/TT-NHNN** đã hoàn thiện (file 102 dòng, OCR 0 issues).
+- **sitemap_nghidinh ổn định hoàn toàn** — không có NĐ-CP mới, 285 chưa ban hành.
+- **sitemap_nghiquyet.xml và sitemap_quyetdinh.xml** vẫn 404.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), phân tích 669 entry sitemap_thongtu, web_fetch slug 440483 (89/TT-BTC), web_fetch slug 440773 (31/TT-BYT), web_fetch slug 440562 (45/TT-BXD).
+- Ngày phát hiện: 2026-07-20 17:02 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:f36dd2e8-74de-4e2a-9f1d-8c6bede87a4b (Đệ #1 Discovery — 2026-07-20 16:59)
+
