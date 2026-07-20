@@ -1,10 +1,11 @@
 # LEGISLATION_TRACKING.md
 
-> **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-16T00:32 GMT+7
+> **Đệ #2 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-20T08:33 GMT+7
 > Nguồn quét: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu
 > Dải docid: 228800–232000 | Tháng 7/2026
 > Ngưỡng: Ban hành sau 05/07/2026
+> **Ghi chú lần quét này**: sitemap_nghidinh KHÔNG thay đổi (top lastmod 2026-07-19 17:56, 5 NĐ mới là reference cũ); sitemap_thongtu có 2 văn bản mới (so với reference 2026-07-19 11:56)
 
 ---
 
@@ -139,6 +140,40 @@
 
 ---
 
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-20 (2)
+
+### 1. Thông tư 12/2026/TT-TANDTC — Quy định nội quy phiên tòa và ghi âm hình ảnh phiên họp
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 12/2026/TT-TANDTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Tòa án nhân dân tối cao |
+| **Ban hành** | 30/05/2026 (sitemap lastmod: 2026-07-18 18:46) |
+| **Hiệu lực** | 15/08/2026 |
+| **Chủ đề** | Tố tụng, Phiên tòa, Ghi âm hình ảnh |
+| **LuatVietnam** | `dan-su/thong-tu-12-2026-tt-tandtc-quy-dinh-noi-quy-phien-toa-va-ghi-am-hinh-anh-phien-hop-440756-d1.html` |
+| **Trạng thái** | Chưa có (docid chưa xác định) |
+| **Ghi chú ưu tiên** | Cập nhật nội quy phiên tòa, phiên họp; ghi âm lời nói, ghi hình ảnh diễn biến phiên tòa; Thông tư có trong sitemap từ 2026-07-18 nhưng nằm ngoài batch reference cũ |
+
+---
+
+### 2. Thông tư 118/2026/TT-BCA — Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 118/2026/TT-BCA |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Công an |
+| **Ban hành** | 29/06/2026 (sitemap lastmod: 2026-07-18 22:09) |
+| **Hiệu lực** | 29/06/2026 |
+| **Chủ đề** | Căn cước, Hộ tịch, Cơ sở dữ liệu quốc gia |
+| **LuatVietnam** | `tu-phap/thong-tu-118-2026-tt-bca-sua-doi-thong-tu-17-2024-tt-bca-ve-luat-can-cuoc-440749-d1.html` |
+| **Trạng thái** | Chưa có (docid chưa xác định) |
+| **Ghi chú ưu tiên** | Sửa đổi Điều 3a, 5, 8, 15 của TT 17/2024/TT-BCA; bổ sung cơ quan quản lý căn cước cấp xã; thay "Viện Khoa học và Công nghệ" = "Cục Công nghiệp an ninh"; Thông tư mới trong sitemap (2026-07-18) |
+
+---
+
 ## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-16 (5)
 
 ### 1. Nghị định 279/2026/NĐ-CP — Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Giáo dục và Đào tạo
@@ -225,6 +260,9 @@
 | TT-BTC 98/2026 | **Cần xác minh** — slug luatvietnam không chính xác | Văn phòng đại diện |
 | TT-BTC 99/2026 | **Cần xác minh** — slug không xác định | Tìm trên vanban.chinhphu |
 | TT-BTC 100/2026 | Không tìm thấy trên sitemap | Có thể chưa ban hành |
+| TT-TANDTC 12/2026 | **MỚI** — xác minh slug luatvietnam 18/07/2026 | Nội quy phiên tòa, ghi âm hình ảnh |
+| NĐ 283/2026/NĐ-CP | **STUB** (Điều 1–38/66) — xử phạt VPHC lao động/BHXH/XKLĐ; cần bổ sung Điều 39–66 (Chương II: BHXH, thẩm quyền, thi hành). Review Đệ #4: 16 lỗi OCR đã sửa, 5 false positive `ngày làm việc`. File: `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` | 2026-07-20 |
+| TT-BGDĐT 59/2026 | **HOÀN THIỆN** — nhà giáo hợp đồng toàn thời gian sau nghỉ hưu & nhà giáo thỉnh giảng, 17 Điều, 4 Chương. Review Đệ #4: OCR PASS, Điều 1–17 đầy đủ. File: `van-ban/giao-duc/59-2026-tt-bgdut-nha-giao-hop-dong-thinh-giang.md` | 2026-07-20 |
 
 ---
 
