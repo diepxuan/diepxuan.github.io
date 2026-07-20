@@ -260,9 +260,11 @@
 | TT-BTC 98/2026 | **Cần xác minh** — slug luatvietnam không chính xác | Văn phòng đại diện |
 | TT-BTC 99/2026 | **Cần xác minh** — slug không xác định | Tìm trên vanban.chinhphu |
 | TT-BTC 100/2026 | Không tìm thấy trên sitemap | Có thể chưa ban hành |
-| TT-TANDTC 12/2026 | **MỚI** — xác minh slug luatvietnam 18/07/2026 | Nội quy phiên tòa, ghi âm hình ảnh |
-| NĐ 283/2026/NĐ-CP | **STUB** (Điều 1–38/66) — xử phạt VPHC lao động/BHXH/XKLĐ; cần bổ sung Điều 39–66 (Chương II: BHXH, thẩm quyền, thi hành). Review Đệ #4: 16 lỗi OCR đã sửa, 5 false positive `ngày làm việc`. File: `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` | 2026-07-20 |
-| TT-BGDĐT 59/2026 | **HOÀN THIỆN** — nhà giáo hợp đồng toàn thời gian sau nghỉ hưu & nhà giáo thỉnh giảng, 17 Điều, 4 Chương. Review Đệ #4: OCR PASS, Điều 1–17 đầy đủ. File: `van-ban/giao-duc/59-2026-tt-bgdut-nha-giao-hop-dong-thinh-giang.md` | 2026-07-20 |
+| NĐ 283/2026/NĐ-CP | **STUB** (Điều 1–38/66) — xử phạt VPHC lao động/BHXH/XKLĐ; cần bổ sung Điều 39–66 (Chương II: BHXH, thẩm quyền, thi hành). Review Đệ #4: 16 lỗi OCR đã sửa, 5 false positive. File: `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` | 2026-07-20 |
+| TT-BGDĐT 59/2026 | **HOÀN THIỆN** — nhà giáo hợp đồng toàn thời gian sau nghỉ hưu & nhà giáo thỉnh giảng, 17 Điều, 4 Chương. Review Đệ #4: OCR PASS. File: `van-ban/giao-duc/59-2026-tt-bgdut-nha-giao-hop-dong-thinh-giang.md` | 2026-07-20 |
+| TT-TANDTC 12/2026 | **XÁC MINH docid** — docid=218884 ✅ | Nội quy phiên tòa, ghi âm hình ảnh |
+| NĐ 277/2026/NĐ-CP | Chưa có docid trên vanban.chinhphu — đã thử dải 218800–219120 | Hạ tầng văn hóa, số chính |
+| NĐ 284/2026/NĐ-CP | Chưa có docid trên vanban.chinhphu — đã thử dải 218800–218905 | Xử phạt VPHC tài sản mã hóa |
 
 ---
 
