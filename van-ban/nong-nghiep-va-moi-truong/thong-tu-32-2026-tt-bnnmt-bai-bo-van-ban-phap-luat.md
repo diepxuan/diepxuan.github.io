@@ -8,8 +8,8 @@ promulgated-date: 2026-07-17
 promulgated-date-text: 17/07/2026
 issued-by: Bộ Nông nghiệp và Môi trường
 signer: 
-taking-effect-date: 
-taking-effect-date-text: 
+taking-effect-date: 2026-09-18
+taking-effect-date-text: 18/09/2026
 effective-scope: 
 org: BNNMT
 number: 32/2026/TT-BNNMT
@@ -126,7 +126,7 @@ Bãi bỏ toàn bộ hoặc một phần một số văn bản quy phạm pháp 
 
 1. **TT 19/2010/TT-BTNMT** — đăng ký lưu hành chế phẩm sinh học trong xử lý chất thải (12/10/2010)
 2. **TT 43/2011/TT-BTNMT** — Quy chuẩn kỹ thuật quốc gia về môi trường (12/12/2011)
-3. **TT [tiếp theo]** — (nội dung còn tiếp tục trong văn bản gốc)
+3. **TT 07/2012/TT-BTNMT** — tiêu chí, trình tự, thủ tục công nhận túi ni lông thân thiện với môi trường (04/7/2012)
 
 ---
 
