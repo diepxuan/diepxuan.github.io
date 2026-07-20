@@ -1,3 +1,56 @@
+## Cập nhật 2026-07-20 v3 (Đệ #1 Discovery — 2026-07-20 12:02 ICT)
+
+### Kết quả: 5 văn bản MỚI trong sitemap_thongtu (sitemap ổn định ngày 2026-07-20 11:56+07:00)
+
+Quét sitemap_thongtu (lastmod **2026-07-20 11:56:35+07:00** — cập nhật so với batch 2026-07-19 11:56:02+07:00). Không có văn bản mới trong sitemap_nghidinh (vẫn 2026-07-19 17:56:11+07:00).sitemap_nghiquyet.xml và sitemap_quyetdinh.xml trả về **404** (không tồn tại). **Phát hiện 5 văn bản mới** chưa từng ghi nhận trong sitemap_thongtu. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **103/2026/TT-BQP** | **17/07/2026** | **Điều chỉnh trợ cấp hằng tháng cho quân nhân và người làm công tác cơ yếu** — quy định điều chỉnh trợ cấp hằng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc; căn cứ NĐ 162/2026/NĐ-CP (điều chỉnh lương hưu, BHXH, trợ cấp hằng tháng); QĐ 142/2008/QĐ-TTg, QĐ 62/2011/QĐ-TTg (sửa QĐ 22/2025/QĐ-TTg); người ký Bộ trưởng Bộ Quốc phòng; **ƯU TIÊN CAO** — tác động quân nhân, cơ yếu phục viên/xuất ngũ/thôi việc toàn quốc | Quốc phòng / Trợ cấp | **Chưa xác minh** (slug 440815) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440815). Title: "Điều chỉnh trợ cấp hằng tháng cho quân nhân và người làm công tác cơ yếu" ✅. Ngày ban hành **17/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 17 tháng 7 năm 2026). Căn cứ NĐ 162/2026/NĐ-CP điều chỉnh lương hưu/BHXH/trợ cấp. **ƯU TIÊN CAO** — trợ cấp quân nhân phục viên, cơ yếu. |
+| **32/2026/TT-BNNMT** | **17/07/2026** | **Bãi bỏ văn bản pháp luật của Bộ Nông nghiệp và Môi trường** — bãi bỏ toàn bộ hoặc một phần một số văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng Bộ Nông nghiệp và Môi trường; bao gồm TT 16/2014/TT-BNNPTNT (kiểm dịch và BVTV), TT 28/2015/TT-BNNPTNT (danh mục cây trồng bảo hộ), TTLT 22/2016/TTLT-BNNPTNT-BTNMT (cây lâu năm), TT 21/2009/TT-BNN (giống cây trồng), và nhiều TT khác thuộc lĩnh vực trồng trọt, BVTV; căn cứ Luật Ban hành VBQPPL 64/2025/QH15 (sửa 87/2025/QH15), NĐ 35/2025/NĐ-CP, NĐ 78/2025/NĐ-CP, NĐ 79/2025/NĐ-CP; người ký Bộ trưởng Bộ Nông nghiệp và Môi trường; **ƯU TIÊN TRUNG BÌNH** — cắt giảm văn bản lỗi thời | Nông nghiệp / Hệ thống hóa | **Chưa xác minh** (slug 440814) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440814). Title: "Bãi bỏ văn bản pháp luật của Bộ Nông nghiệp và Môi trường" ✅. Ngày ban hành **17/7/2026** xác minh từ luatvietnam.vn. Bãi bỏ nhiều TT cũ trong lĩnh vực trồng trọt, BVTV. **ƯU TIÊN TRUNG BÌNH** — dọn dẹp văn bản lỗi thời. |
+| **05/2026/TT-NHNN** | **31/03/2026** | **Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam** — quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam đối với người được bảo hiểm tiền gửi theo khoản 1 Điều 22 Luật Bảo hiểm tiền gửi; đối tượng: Bảo hiểm tiền gửi VN, người được bảo hiểm, tổ chức tham gia bảo hiểm; hạn mức chi trả tối đa **350.000.000 đồng** (350 triệu đồng) cho tất cả khoản tiền gửi được bảo hiểm (gốc + lãi) của một người tại một tổ chức tham gia; hiệu lực **13/07/2026**; căn cứ Luật Bảo hiểm tiền gửi 111/2025/QH15; người ký Thống đốc NHNN; **ƯU TIÊN CAO** — tăng hạn mức bảo hiểm tiền gửi, tác động người gửi tiền toàn quốc | Tài chính / Bảo hiểm tiền gửi | **Chưa xác minh** (slug 440800) | **Chưa hoàn thiện** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440800). Title: "Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam" ✅. Ngày ban hành **31/3/2026**, hiệu lực **13/7/2026**. Hạn mức mới 350 triệu đồng (tăng so với quy định trước). Liên quan trực tiếp đến 280/2026/NĐ-CP (tổ chức Bảo hiểm tiền gửi Việt Nam). **ƯU TIÊN CAO** — văn bản tài chính quan trọng. |
+| **58/2026/TT-BGDĐT** | **07/07/2026** | **Hướng dẫn quy chế tổ chức và hoạt động của cơ sở giáo dục đại học** — quy định nguyên tắc, quy trình xây dựng, ban hành quy chế tổ chức và hoạt động của cơ sở giáo dục đại học (trừ trường quân đội, công an và thành lập theo điều ước quốc tế); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 37/2025/NĐ-CP, NĐ 91/2026/NĐ-CP; người ký Bộ trưởng Bộ GDĐT; **ƯU TIÊN TRUNG BÌNH** — quy định nền tảng cho các trường đại học | Giáo dục / Đại học | **Chưa xác minh** (slug 440798) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440798). Title: "Quy chế tổ chức và hoạt động cơ sở giáo dục đại học" ✅. Ngày ban hành **07/7/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 91/2026/NĐ-CP (chi tiết Luật GDĐH 125/2025). **ƯU TIÊN TRUNG BÌNH** — quy chế nền tảng đại học. |
+| **31/2026/TT-BNNMT** | **15/07/2026** | **Quy định phương pháp định giá rừng, định khung giá rừng và phương pháp xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng** — quy định phương pháp định giá rừng, định khung giá rừng, mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng thuộc sở hữu toàn dân; áp dụng cho cơ quan nhà nước, tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư; căn cứ Luật Lâm nghiệp 16/2017 (sửa 16/2023, 31/2024, 146/2025), Luật Giá 16/2023 (sửa 44/2024, 61/2024, 95/2025, 140/2025), NĐ 35/2025/NĐ-CP, NĐ 156/2018/NĐ-CP (sửa NĐ 42/2026), NĐ 180/2026/NĐ-CP (dịch vụ các-bon); người ký Bộ trưởng Bộ Nông nghiệp và Môi trường; **ƯU TIÊN TRUNG BÌNH** — thị trường các-bon, tài chính xanh | Nông nghiệp / Lâm nghiệp / Các-bon | **Chưa xác minh** (slug 440799) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440799). Title: "Quy định định giá rừng và chi trả dịch vụ các-bon" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 180/2026/NĐ-CP (dịch vụ các-bon của rừng, 21/5/2026). **ƯU TIÊN TRUNG BÌNH** — thị trường các-bon, tài chính xanh. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-20 11:56+07:00
+
+| Sitemap | lastmod hiện tại | So với batch 2026-07-19 17:56/11:56+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-19 17:56:11+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | **2026-07-20 11:56:35+07:00** | **> Batch** | ✅ **5 TT mới**: 103/TT-BQP, 32/TT-BNNMT, 05/TT-NHNN, 58/TT-BGDĐT, 31/TT-BNNMT |
+| sitemap_nghiquyet | **404 — không tồn tại** | — | ❌ Không truy cập được |
+| sitemap_quyetdinh | **404 — không tồn tại** | — | ❌ Không truy cập được |
+
+### Phát hiện kỹ thuật: sitemap bổ sung
+
+- `sitemap_nghiquyet.xml` và `sitemap_quyetdinh.xml` trả về **HTTP 404** trên luatvietnam.vn. Các sitemap này không tồn tại hoặc đã bị gỡ.
+- Docid 218951-218965 trên vanban.chinhphu.vn: tất cả HTTP 200 nhưng SPA/client-rendered — og:title không chứa tên văn bản. Docid chưa xác minh được.
+- datafiles.chinhphu.vn: không tìm thấy signed PDF cho 5 văn bản mới (tháng 7/2026 chưa có file hoặc dùng pattern khác).
+
+### Ưu tiên tiếp theo
+
+1. **103/TT-BQP** (trợ cấp quân nhân, 17/7): ƯU TIÊN CAO — tác động trực tiếp quân nhân phục viên/cơ yếu. Cần xác minh NĐ 162/2026/NĐ-CP liên quan.
+2. **05/TT-NHNN** (hạn mức BHTGVN 350 triệu, 13/7): ƯU TIÊN CAO — liên quan trực tiếp 280/2026/NĐ-CP (Bảo hiểm tiền gửi). Cần tạo file.
+3. **31/TT-BNNMT** (định giá rừng/các-bon, 15/7): ƯU TIÊN TRUNG BÌNH — thị trường các-bon, tài chính xanh.
+4. **58/TT-BGDĐT** (quy chế ĐH, 07/7): ƯU TIÊN TRUNG BÌNH — căn cứ NĐ 91/2026.
+5. **32/TT-BNNMT** (bãi bỏ văn bản cũ, 17/7): ƯU TIÊN THẤP — dọn dẹp văn bản lỗi thời.
+6. **Xác minh docid**: Tiếp tục theo dõi dải 218966-219000 trên vanban.chinhphu.vn — cần browser automation (SPA).
+7. **Theo dõi sitemap**: Tiếp tục theo dõi sitemap_thongtu (cập nhật hàng ngày 11:56+07:00) và sitemap_nghidinh (cập nhật 17:56+07:00).
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 103/TT-BQP (trợ cấp quân nhân, 17/7), 32/TT-BNNMT (bãi bỏ văn bản cũ, 17/7), 05/TT-NHNN (BHTG 350 triệu, hiệu lực 13/7), 58/TT-BGDĐT (quy chế ĐH, 07/7), 31/TT-BNNMT (định giá rừng/các-bon, 15/7).
+- **05/TT-NHNN** là phát hiện nổi bật nhất — tăng hạn mức BHTGVN lên 350 triệu đồng (lần đầu tiên), hiệu lực 13/7/2026 cùng ngày với 280/2026/NĐ-CP (tổ chức BHTGVN).
+- **103/TT-BQP**: Điều chỉnh trợ cấp hằng tháng quân nhân phục viên/cơ yếu — căn cứ NĐ 162/2026/NĐ-CP.
+- **31/TT-BNNMT**: Định giá rừng và chi trả dịch vụ các-bon — căn cứ NĐ 180/2026/NĐ-CP (dịch vụ các-bon).
+- **sitemap_nghidinh ổn định hoàn toàn** — không có NĐ-CP mới, 285 chưa ban hành.
+- **sitemap_nghiquyet.xml và sitemap_quyetdinh.xml** không tồn tại (404).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), web_fetch slug 440815 (103/TT-BQP), web_fetch slug 440814 (32/TT-BNNMT), web_fetch slug 440800 (05/TT-NHNN), web_fetch slug 440798 (58/TT-BGDĐT), web_fetch slug 440799 (31/TT-BNNMT), vanban.chinhphu.vn docid scan (218951-219000).
+- Ngày phát hiện: 2026-07-20 12:04 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:547e0cd5-204d-4f69-b7f9-b2372d639eef (Đệ #1 Discovery — 2026-07-20 11:59)
+
+---
+
 ## Cập nhật 2026-07-20 v2 (Đệ #1 Discovery — xác minh docid 2026-07-20 11:43 ICT)
 
 ### Mục tiêu: Xác minh docid 5 văn bản trọng điểm + quét sitemap
