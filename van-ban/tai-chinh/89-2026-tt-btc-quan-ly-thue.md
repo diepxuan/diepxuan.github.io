@@ -17,6 +17,7 @@ trich_yeu: "Quy định chi tiết một số điều của Luật Quản lý th
 linh_vuc: Tài chính / Thuế
 docid: 440483
 source_url: https://luatvietnam.vn/tai-chinh/89-2026-tt-btc-quy-dinh-chi-tiet-luat-quan-ly-thue-va-nghi-dinh-252-2026-nd-cp-440483-d1.html
+tracuu_url: https://luatvietnam.vn/thue/thong-tu-89-2026-tt-btc-quy-dinh-chi-tiet-luat-quan-ly-thue-va-nghi-dinh-252-2026-nd-cp-440483-d1.html
 taive_pdf_url: https://www.meinvoice.vn/wp-content/uploads/2026/07/Thong-tu-89-BTC.pdf
 ngay_tao: 2026-07-20
 lastedit: 2026-07-20
