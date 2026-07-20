@@ -1,10 +1,9 @@
 # LEGISLATION_TRACKING.md
 
-> **Đệ #3 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-20T14:03 GMT+7
-> Nguồn quét: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56) + sitemap_thongtu (lastmod 2026-07-20 11:56)
-> Dải docid: 218966–219000 (quét: rỗng/bảo vệ — không tìm thấy docid)
-> **Ghi chú lần quét này**: sitemap_nghidinh KHÔNG thay đổi so với reference; sitemap_thongtu có 1 văn bản mới (so với reference 2026-07-20 11:56). Docid trên vanban.chinhphu.vn dải 218966–219000 trả về trang trống với tiêu đề mặc định "Chi tiết văn bản ban hành" — không xác minh được docid. 5 văn bản unverified từ luatvietnam.vn được xác nhận toàn văn.
+> **Đệ #4 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-20T14:35 GMT+7
+> Nguồn quét: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 14:32) + sitemap_thongtu (lastmod 2026-07-20 14:32)
+> **Ghi chú lần quét này**: 5 văn bản mới từ batch sitemap lastmod 2026-07-20 11:56+07:00 (sitemap_thongtu). Không có NĐ-CP mới trong sitemap_nghidinh (đã có đến NĐ 284). Sitemap_nghiquyet.xml và sitemap_quyetdinh.xml vẫn 404. Tất cả 5 văn bản xác minh toàn văn trên luatvietnam.vn.
 
 ---
 
@@ -13,6 +12,96 @@
 - Tổng văn bản phát hiện lần này: **5**
 - Văn bản đã có trong tracking lần trước: **0** (file mới, chưa từng tracking)
 - Nguồn xác nhận: vanban.chinhphu.vn, thuvienphapluat.vn, luatvietnam.vn, baochinhphu.vn, giaoducthoidai.vn
+
+---
+
+- Tổng văn bản phát hiện lần này: **5**
+- Văn bản đã có trong tracking lần trước: **0** (5 văn bản hoàn toàn mới, chưa từng ghi nhận)
+- Nguồn xác nhận: vanban.chinhphu.vn, thuvienphapluat.vn, luatvietnam.vn, baochinhphu.vn, giaoducthoidai.vn
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-07-20T14:35 ICT
+
+### 1. Thông tư 103/2026/TT-BQP — Điều chỉnh trợ cấp hằng tháng cho quân nhân và người làm công tác cơ yếu
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 103/2026/TT-BQP |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Quốc phòng |
+| **Ban hành** | 17/07/2026 |
+| **Hiệu lực** | 30/08/2026 (thực hiện từ 01/07/2026) |
+| **Chủ đề** | Quốc phòng, Trợ cấp, Bảo hiểm xã hội |
+| **Docid** | Chưa xác định |
+| **LuatVietnam** | `lao-dong/thong-tu-103-2026-tt-bqp-dieu-chinh-tro-cap-hang-thang-cho-quan-nhan-va-nguoi-lam-cong-tac-co-yeu-440815-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Mô tả** | Điều chỉnh tăng thêm 8% trên mức trợ cấp hằng tháng của tháng 6/2026 đối với quân nhân đã phục viên, xuất ngũ, thôi việc. Công thức: mức mới = mức cũ × 1,08. Mức trợ cấp theo năm công tác: 15-<16 năm: 2.838.000 đ; 16-<17 năm: 2.966.000 đ; 17-<18 năm: 3.097.000 đ; 18-<19 năm: 3.227.000 đ; 19-<20 năm: 3.353.000 đ. |
+| **Ghi chú** | Số 103/TT-BQP — đúng ký hiệu, khác với TT-BQP 103/2025. Bãi bỏ TT 53/2024/TT-BQP khi có hiệu lực. |
+
+### 2. Thông tư 32/2026/TT-BNNMT — Bãi bỏ văn bản pháp luật của Bộ Nông nghiệp và Môi trường
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 32/2026/TT-BNNMT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Nông nghiệp và Môi trường |
+| **Ban hành** | 17/07/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh ngày có hiệu lực từ văn bản gốc) |
+| **Chủ đề** | Hành chính, Bãi bỏ văn bản |
+| **Docid** | Chưa xác định |
+| **LuatVietnam** | `tai-nguyen/thong-tu-32-2026-tt-bnnmt-bai-bo-van-ban-phap-luat-cua-bo-nong-nghiep-va-moi-truong-440814-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Mô tả** | Bãi bỏ toàn bộ hoặc một phần nhiều văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng BNNMT, gồm: Thông tư 16/2014/TT-BNNPTNT (quy chuẩn kiểm dịch thực vật), Thông tư 28/2015/TT-BNNPTNT (Danh mục cây trồng được bảo hộ), TTLT 22/2016/TTLT-BNNPTNT-BTNMT (loài cây lâu năm), và hàng chục Thông tư bổ sung danh mục giống cây trồng 2009–2015. |
+| **Ghi chú** | Rà soát hệ thống hóa theo NĐ 79/2025/NĐ-CP. |
+
+### 3. Thông tư 05/2026/TT-NHNN — Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 05/2026/TT-NHNN |
+| **Loại** | Thông tư |
+| **Cơ quan** | Ngân hàng Nhà nước Việt Nam |
+| **Ban hành** | 31/03/2026 |
+| **Hiệu lực** | 13/07/2026 |
+| **Chủ đề** | Tài chính, Bảo hiểm tiền gửi |
+| **Docid** | Chưa xác định |
+| **LuatVietnam** | `tai-chinh/thong-tu-05-2026-tt-nhnn-quy-dinh-han-muc-chi-tra-tien-bao-hiem-cua-bao-hiem-tien-gui-viet-nam-440800-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Mô tả** | Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam đối với người được bảo hiểm tiền gửi theo khoản 1 Điều 22 Luật Bảo hiểm tiền gửi. Hạn mức tối đa: 350.000.000 đồng (gồm gốc và lãi) cho tất cả các khoản tiền gửi được bảo hiểm của một người tại một tổ chức tham gia bảo hiểm. |
+| **Ghi chú** | TT-NHNN 05/2026 điều chỉnh hạn mức bảo hiểm tiền gửi. |
+
+### 4. Thông tư 31/2026/TT-BNNMT — Quy định định giá rừng và chi trả dịch vụ các-bon
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 31/2026/TT-BNNMT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Nông nghiệp và Môi trường |
+| **Ban hành** | 15/07/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh ngày có hiệu lực từ văn bản gốc) |
+| **Chủ đề** | Lâm nghiệp, Môi trường, Các-bon |
+| **Docid** | Chưa xác định |
+| **LuatVietnam** | `nong-nghiep/thong-tu-31-2026-tt-bnnmt-quy-dinh-dinh-gia-rung-va-chi-tra-dich-vu-cac-bon-440799-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:28 |
+| **Mô tả** | Quy định phương pháp định giá rừng, hướng dẫn định khung giá rừng và phương pháp xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng. Căn cứ Luật Lâm nghiệp 2017 (sửa đổi), Luật Giá 2023 (sửa đổi), NĐ 180/2026/NĐ-CP về dịch vụ các-bon, NĐ 42/2026/NĐ-CP sửa đổi lĩnh vực lâm nghiệp. |
+| **Ghi chú** | Thực hiện sau khi NĐ 180/2026/NĐ-CP được ban hành (21/05/2026). |
+
+### 5. Thông tư 58/2026/TT-BGDĐT — Hướng dẫn quy chế tổ chức và hoạt động cơ sở giáo dục đại học
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 58/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 07/07/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh ngày có hiệu lực từ văn bản gốc) |
+| **Chủ đề** | Giáo dục đại học |
+| **Docid** | Chưa xác định |
+| **LuatVietnam** | `giao-duc/thong-tu-58-2026-tt-bgddt-quy-che-to-chuc-va-hoat-dong-co-so-giao-duc-dai-hoc-440798-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Mô tả** | Hướng dẫn về nguyên tắc, quy trình ban hành, nội dung quy chế tổ chức và hoạt động của cơ sở giáo dục đại học. Căn cứ: Luật Giáo dục 2019 (sửa đổi), Luật Giáo dục đại học 125/2025/QH15, NĐ 37/2025/NĐ-CP (chức năng Bộ GDĐT), NĐ 91/2026/NĐ-CP (chi tiết Luật GDĐH). Nội dung gồm: tổ chức và quản trị, hoạt động đào tạo, khoa học, đảm bảo chất lượng. |
+| **Ghi chú** | Thay thế quy chế tổ chức hoạt động ĐH cũ theo Luật GDĐH 125/2025/QH15. |
 
 ---
 
