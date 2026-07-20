@@ -29,7 +29,7 @@ note: "STUB — Cần bổ sung nội dung đầy đủ khi có văn bản gốc
 | **Căn cứ pháp lý** | Luật Bảo hiểm tiền gửi 111/2025/QH15; Nghị định 280/2026/NĐ-CP |
 | **Lĩnh vực** | Tài chính – Ngân hàng / Bảo hiểm tiền gửi |
 | **Loại văn bản** | Thông tư |
-| **Ghi chú nguồn** | Luatvietnam (slug 440800) bị Cloudflare chặn; vanban.chinhphu.vn docid chưa xác định; datafiles.chinhphu.vn trả 404 |
+| **Ghi chú nguồn** | Luatvietnam (slug 440800) bị Cloudflare chặn; vanban.chinhphu.vn docid chưa xác định; datafiles.chinhphu.vn trả 404; Firecrawl credits exhausted cho tất cả báo chí |
 
 ---
 
@@ -89,13 +89,15 @@ Cấu trúc văn bản (3 Chương, 5 Điều) được xác nhận qua nhiều 
 | Chương II | Hạn mức chi trả tiền bảo hiểm (Điều 3) |
 | Chương III | Tổ chức thực hiện (Điều 4, Điều 5) |
 
-**Nguồn thất bại:**
-- `luatvietnam.vn` – Cloudflare block (slug 440800)
+**Nguồn thất bại (2026-07-20):**
+- `luatvietnam.vn` – Cloudflare block, sau đó Firecrawl credits exhausted (slug 440800)
+- `datafiles.chinhphu.vn` – 404 cho mọi path đã thử (8+ patterns)
 - `vanban.chinhphu.vn` – docid chưa xác định (WebForms SPA, cần trình duyệt)
-- `datafiles.chinhphu.vn` – 404 cho mọi path đã thử
-- `sbv.gov.vn` – truy cập không có dữ liệu
+- `sbv.gov.vn` – truy cập không có dữ liệu toàn văn
+- `cafebiz.vn`, `vtv.vn`, `thoibaonganhang.vn`, `baodautu.vn` – Firecrawl credits exhausted
+- NHNN official website – không truy cập được
 
 **Cần:**
-1. Tìm docid vanban.chinhphu.vn chính xác cho 05/2026/TT-NHNN
-2. Tải PDF có chữ ký số từ datafiles.chinhphu.vn hoặc NHNN
-3. OCR bổ sung → cập nhật nội dung Điều 1, 2, 4, 5
+1. Xác định docid chính xác trên vanban.chinhphu.vn (cần trình duyệt/spider)
+2. Tìm đúng path PDF trên datafiles.chinhphu.vn
+3. Nếu không tìm được nguồn chính thức, cân nhắc lấy nội dung từ báo cáo chi tiết của NHNN hoặc BTC
