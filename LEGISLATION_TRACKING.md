@@ -1,11 +1,10 @@
 # LEGISLATION_TRACKING.md
 
-> **Đệ #2 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-20T08:33 GMT+7
-> Nguồn quét: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu
-> Dải docid: 228800–232000 | Tháng 7/2026
-> Ngưỡng: Ban hành sau 05/07/2026
-> **Ghi chú lần quét này**: sitemap_nghidinh KHÔNG thay đổi (top lastmod 2026-07-19 17:56, 5 NĐ mới là reference cũ); sitemap_thongtu có 2 văn bản mới (so với reference 2026-07-19 11:56)
+> **Đệ #3 Discovery — Báo cáo văn bản pháp luật mới**
+> Phiên bản: 2026-07-20T14:03 GMT+7
+> Nguồn quét: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56) + sitemap_thongtu (lastmod 2026-07-20 11:56)
+> Dải docid: 218966–219000 (quét: rỗng/bảo vệ — không tìm thấy docid)
+> **Ghi chú lần quét này**: sitemap_nghidinh KHÔNG thay đổi so với reference; sitemap_thongtu có 1 văn bản mới (so với reference 2026-07-20 11:56). Docid trên vanban.chinhphu.vn dải 218966–219000 trả về trang trống với tiêu đề mặc định "Chi tiết văn bản ban hành" — không xác minh được docid. 5 văn bản unverified từ luatvietnam.vn được xác nhận toàn văn.
 
 ---
 
@@ -140,37 +139,96 @@
 
 ---
 
-## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-20 (2)
+## VĂN BẢN MỚI PHÁT HIỆN — 2026-07-20 (5 văn bản chưa xác minh docid)
 
-### 1. Thông tư 12/2026/TT-TANDTC — Quy định nội quy phiên tòa và ghi âm hình ảnh phiên họp
+> **Lần quét:** 2026-07-20 14:03 GMT+7 | **Nguồn:** luatvietnam.vn sitemap | **Docid:** chưa xác minh (vanban.chinhphu dải 218966–219000 rỗng/bảo vệ)
+
+### 1. Nghị định 277/2026/NĐ-CP — Hạ tầng văn hóa số
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 277/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 09/07/2026 |
+| **Hiệu lực** | 09/07/2026 |
+| **Chủ đề** | Văn hóa, Chuyển đổi số |
+| **LuatVietnam** | `khoa-hoc/nghi-dinh-277-2026-nd-cp-ve-ha-tang-van-hoa-so-chinh-phu-ban-hanh-ngay-09-07-2026-440755-d1.html` |
+| **Sitemap** | lastmod 2026-07-19 17:56 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Chi tiết khoản 1, 3, 5 Điều 10 Nghị quyết 28/2026/QH16 về phát triển văn hóa Việt Nam. Quy định về: hạ tầng văn hóa số; cơ sở dữ liệu văn hóa, kho dữ liệu văn hóa số quốc gia, nền tảng số dùng chung; chính sách thu hút đầu tư, hỗ trợ phát triển công nghệ số, sản phẩm/dịch vụ văn hóa số; trung tâm đổi mới sáng tạo văn hóa. |
+| **Ghi chú** | 8 Chương, 62 Điều — toàn văn xác nhận trên luatvietnam.vn |
+
+---
+
+### 2. Thông tư 29/2026/TT-BYT — Thực hành công tác xã hội và cập nhật kiến thức
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 29/2026/TT-BYT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Y tế |
+| **Ban hành** | 06/07/2026 |
+| **Hiệu lực** | Hiệu lực từ 25/08/2026 |
+| **Chủ đề** | Y tế, Công tác xã hội |
+| **LuatVietnam** | `y-te/thong-tu-29-2026-tt-byt-quy-dinh-va-cap-nhat-kien-thuc-cong-tac-xa-hoi-hieu-luc-tu-25-08-2026-439661-d1.html` |
+| **Sitemap** | lastmod 2026-07-20 11:56 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định chi tiết NĐ 110/2024/NĐ-CP về công tác xã hội: thực hành công tác xã hội tại cơ sở; cập nhật kiến thức công tác xã hội; khung chương trình đào tạo, bồi dưỡng. Thời gian thực hành: ĐH ≥12 tháng (800h), CĐ ≥9 tháng (650h), TC ≥6 tháng (500h). |
+| **Ghi chú** | Hiệu lực 25/08/2026 |
+
+---
+
+### 3. Thông tư 56/2026/TT-BXD — Thời giờ làm việc, nghỉ ngơi cho lao động trên biển
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 56/2026/TT-BXD |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Xây dựng |
+| **Ban hành** | 06/07/2026 |
+| **Hiệu lực** | 06/07/2026 |
+| **Chủ đề** | Lao động, Hàng hải |
+| **LuatVietnam** | `lao-dong/thong-tu-56-2026-tt-bxd-quy-dinh-thoi-gio-lam-viec-nghi-ngoi-cho-lao-dong-tren-bien-439730-d1.html` |
+| **Sitemap** | lastmod 2026-07-08 09:16 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định thời giờ làm việc, nghỉ ngơi đối với người lao động làm công việc có tính chất đặc biệt trên biển trong hoạt động cung cấp dịch vụ sự nghiệp công bảo đảm an toàn hàng hải. Thời giờ làm việc: ≤6h/ngày; làm thêm ≤50%/ca và ≤300h/năm; nghỉ liên tục ≥12h giữa các ca; nghỉ sau phiên ≥52 ngày/năm. |
+| **Ghi chú** | Áp dụng cho vận hành/bảo trì báo hiệu hàng hải, đăng tiêu, trạm đèn biển |
+
+---
+
+### 4. Thông tư 95/2026/TT-BTC — Hiệp định tránh đánh thuế hai lần và ngăn ngừa trốn thuế
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 95/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 01/07/2026 |
+| **Hiệu lực** | 01/07/2026 |
+| **Chủ đề** | Thuế quốc tế, Giao dịch liên kết |
+| **LuatVietnam** | `thue/thong-tu-95-2026-tt-btc-huong-dan-hiep-dinh-tranh-danh-thue-hai-lan-va-ngan-ua-tron-thue-439970-d1.html` |
+| **Sitemap** | lastmod 2026-07-14 13:39 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Hướng dẫn thực hiện các Hiệp định tránh đánh thuế hai lần; hướng dẫn thủ tục MAP (thỏa thuận song phương); hướng dẫn cơ chế APA (thỏa thuận trước về phương pháp xác định giá tính thuế trong quản lý thuế đối với doanh nghiệp có giao dịch liên kết); thực hiện BEPS MLI, Hỗ trợ hành chính thuế. |
+| **Ghi chú** | Liên kết chặt với NĐ 252, NĐ 255 |
+
+---
+
+### 5. Thông tư 12/2026/TT-TANDTC — Nội quy phiên tòa, ghi âm hình ảnh phiên họp
 
 | Trường | Giá trị |
 |--------|---------|
 | **Số** | 12/2026/TT-TANDTC |
 | **Loại** | Thông tư |
 | **Cơ quan** | Tòa án nhân dân tối cao |
-| **Ban hành** | 30/05/2026 (sitemap lastmod: 2026-07-18 18:46) |
+| **Ban hành** | 30/05/2026 |
 | **Hiệu lực** | 15/08/2026 |
-| **Chủ đề** | Tố tụng, Phiên tòa, Ghi âm hình ảnh |
+| **Chủ đề** | Tố tụng, Phiên tòa |
+| **Docid** | 218884 ✅ (xác nhận vanban.chinhphu.vn) |
 | **LuatVietnam** | `dan-su/thong-tu-12-2026-tt-tandtc-quy-dinh-noi-quy-phien-toa-va-ghi-am-hinh-anh-phien-hop-440756-d1.html` |
-| **Trạng thái** | Chưa có (docid chưa xác định) |
-| **Ghi chú ưu tiên** | Cập nhật nội quy phiên tòa, phiên họp; ghi âm lời nói, ghi hình ảnh diễn biến phiên tòa; Thông tư có trong sitemap từ 2026-07-18 nhưng nằm ngoài batch reference cũ |
-
----
-
-### 2. Thông tư 118/2026/TT-BCA — Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước
-
-| Trường | Giá trị |
-|--------|---------|
-| **Số** | 118/2026/TT-BCA |
-| **Loại** | Thông tư |
-| **Cơ quan** | Bộ Công an |
-| **Ban hành** | 29/06/2026 (sitemap lastmod: 2026-07-18 22:09) |
-| **Hiệu lực** | 29/06/2026 |
-| **Chủ đề** | Căn cước, Hộ tịch, Cơ sở dữ liệu quốc gia |
-| **LuatVietnam** | `tu-phap/thong-tu-118-2026-tt-bca-sua-doi-thong-tu-17-2024-tt-bca-ve-luat-can-cuoc-440749-d1.html` |
-| **Trạng thái** | Chưa có (docid chưa xác định) |
-| **Ghi chú ưu tiên** | Sửa đổi Điều 3a, 5, 8, 15 của TT 17/2024/TT-BCA; bổ sung cơ quan quản lý căn cước cấp xã; thay "Viện Khoa học và Công nghệ" = "Cục Công nghiệp an ninh"; Thông tư mới trong sitemap (2026-07-18) |
+| **Mô tả** | Quy định nội quy phiên tòa, phiên họp; việc ghi âm lời nói, ghi hình ảnh diễn biến phiên tòa, phiên họp. Áp dụng cho tất cả loại tố tụng (hình sự, dân sự, hành chính, hôn nhân, kinh doanh, thương mại, lao động). |
+| **Ghi chú** | Đã có docid từ lần quét trước; cập nhật sitemap lastmod 2026-07-20 11:56 |
 
 ---
 
@@ -202,9 +260,9 @@
 | **Ban hành** | 01/07/2026 |
 | **Hiệu lực** | 01/07/2026 |
 | **Chủ đề** | Thuế quốc tế, Giao dịch liên kết |
-| **LuatVietnam** | `thue/thong-tu-95-2026-tt-btc-huong-dan-hiep-dinh-tranh-danh-thue-hai-lan-va-ngan-ngua-tron-thue-439970-d1.html` |
-| **Trạng thái** | Chưa có (docid chưa xác định) |
-| **Ghi chú ưu tiên** | Hướng dẫn Hiệp định thuế quốc tế, MAP (thủ tục thỏa thuận song phương), APA (thỏa thuận trước giá tính thuế); Liên kết chặt với NĐ 252, NĐ 255 |
+| **Nguồn** | vanban.chinhphu.vn (docid 218884 ✅) |
+| **Mô tả** | Hướng dẫn thực hiện các Hiệp định tránh đánh thuế hai lần; hướng dẫn thủ tục MAP (thỏa thuận song phương); hướng dẫn cơ chế APA (thỏa thuận trước về phương pháp xác định giá tính thuế trong quản lý thuế đối với doanh nghiệp có giao dịch liên kết); thực hiện BEPS MLI, Hỗ trợ hành chính thuế. |
+| **Ghi chú** | ⬆ Đã chuyển sang mục VĂN BẢN MỚI 2026-07-20 với mô tả chi tiết hơn. Liên kết chặt với NĐ 252, NĐ 255 |
 
 ---
 
@@ -260,13 +318,11 @@
 | TT-BTC 98/2026 | **Cần xác minh** — slug luatvietnam không chính xác | Văn phòng đại diện |
 | TT-BTC 99/2026 | **Cần xác minh** — slug không xác định | Tìm trên vanban.chinhphu |
 | TT-BTC 100/2026 | Không tìm thấy trên sitemap | Có thể chưa ban hành |
-| NĐ 283/2026/NĐ-CP | **STUB** (Điều 1–38/66) — xử phạt VPHC lao động/BHXH/XKLĐ; cần bổ sung Điều 39–66 (Chương II: BHXH, thẩm quyền, thi hành). Review Đệ #4: 16 lỗi OCR đã sửa, 5 false positive. File: `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` | 2026-07-20 |
-| TT-BGDĐT 59/2026 | **HOÀN THIỆN** — nhà giáo hợp đồng toàn thời gian sau nghỉ hưu & nhà giáo thỉnh giảng, 17 Điều, 4 Chương. Review Đệ #4: OCR PASS. File: `van-ban/giao-duc/59-2026-tt-bgdut-nha-giao-hop-dong-thinh-giang.md` | 2026-07-20 |
-| TT-TANDTC 12/2026 | **XÁC MINH docid** — docid=218884 ✅ | Nội quy phiên tòa, ghi âm hình ảnh |
-| NĐ 277/2026/NĐ-CP | Chưa có docid trên vanban.chinhphu — đã thử dải 218800–219120 | Hạ tầng văn hóa, số chính |
-| NĐ 284/2026/NĐ-CP | Chưa có docid trên vanban.chinhphu — đã thử dải 218800–218905 | Xử phạt VPHC tài sản mã hóa |
+| Thông tư 29/2026/TT-BYT | **MỚI** — thực hành công tác xã hội, 06/07/2026, hiệu lực 25/08/2026; sitemap lastmod 2026-07-20 11:56. | 2026-07-20 |
+| Thông tư 56/2026/TT-BXD | **MỚI** — thời giờ lao động trên biển, 06/07/2026; sitemap lastmod 2026-07-08 09:16. | 2026-07-20 |
+| Thông tư 95/2026/TT-BTC | **MỚI** — Hiệp định thuế quốc tế, MAP/APA, 01/07/2026. Đã xác nhận toàn văn. | 2026-07-20 |
 
 ---
 
-*Lần cập nhật tiếp theo: khoảng 17/07/2026 hoặc khi có văn bản mới ban hành sau 12/07/2026.*
-*Đệ #1 Discovery — github-io workspace*
+*Lần cập nhật tiếp theo: khoảng 21/07/2026 hoặc khi có văn bản mới.*
+*Đệ #3 Discovery — github-io workspace*
