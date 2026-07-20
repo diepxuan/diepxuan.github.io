@@ -44,14 +44,6 @@ source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 
 ## VĂN BẢN
 
-'Cơ quan: VĂN PHÒNG CHÍNH PHI :
-Thời gian ký: 16.07.2026 14:41:45 10700 4
-
-- Người ký: CÔNG THÔNG TIN ĐIỆN f PHÙ
-@- thạnginchinhph(4chinhphu và |
-
-Œœ
-
 CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ———— Độc lập - Tự do - Hạnh phúc
 

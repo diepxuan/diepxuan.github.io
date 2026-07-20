@@ -571,3 +571,98 @@
 
 *Lần cập nhật tiếp theo: khoảng 21/07/2026 hoặc khi có văn bản mới.*
 *Đệ #1 Discovery — github-io workspace*
+---
+
+## ĐỆ #4 CONTENT REVIEWER + PR COMMENT REVIEWER — 2026-07-21T04:04 ICT
+
+> **Branch:** heartbeat/crawl-vanban-20260720 (PR #258)  
+> **Reviewer:** Đệ #4 Subagent Heartbeat  
+> **Task:** Review 5 files in PR #258 + random sample 5 merged files + PR comment triage
+
+### A. PR #258 — FILE REVIEW (5 files)
+
+| # | File | Loại | Dòng | KB | Điều | Chương | OCR | Metadata | Đánh giá |
+|---|------|------|------|----|------|--------|-----|----------|----------|
+| 1 | giao-duc/59-2026-tt-bgdut-... | Thông tư | 644 | 36 | 17 (1–17) | 4 (I–IV) | ✅ 0 | ✅ Sạch | **OK** |
+| 2 | quoc-phong/103-2026-tt-bqp-... | Thông tư | — | — | — | — | — | FILE MISSING | **THIẾU FILE** |
+| 3 | tai-chinh/nghi-dinh-284-... | Nghị định | 336 | 63 | 23 (1–23) | 4 (I–IV) | ✅ 0 | ✅ Sạch | **OK** |
+| 4 | lao-dong/nghi-dinh-283-... | Nghị định | 2463 | 144 | 38 (1–38) | 2 (I–II) | ✅ 0 | ⚠️ Signature artifact | **CẦN SỬA** |
+| 5 | dat-dai/nghi-dinh-281-... | Nghị định sửa đổi | 232 | 12 | 12 (1–12, stub format) | 0 | ✅ 0 | ✅ | **OK** (stub đầy đủ) |
+
+**Chi tiết cần xử lý:**
+
+**2. File thiếu — 103/2026/TT-BQP:**
+- File không tồn tại tại `van-ban/quoc-phong/103-2026-tt-bqp-tro-cap-hang-thang-quan-nhan.md`
+- Docid: chưa xác định (tracking ghi "Chưa xác định")
+- Kiểm tra: thử slug khác hoặc chưa commit đúng path
+- Hành động: **Cần điều tra và commit file**
+
+**4. 283/2026 NĐ-CP — Signature artifact:**
+- Lines 47–53: văn bản ký tự rác từ PDF signature block:
+  ```
+  'Cơ quan: VĂN PHÒNG CHÍNH PHI :
+  Thời gian ký: 16.07.2026 14:41:45 10700 4
+  - Người ký: CÔNG THÔNG TIN ĐIỆN f PHÙ
+  @- thạnginchinhph(4chinhphu và |
+  Œœ
+  ```
+- Đã fix tại local (chưa commit)
+- Cách fix: thay 7 dòng artifact bằng `CHÍNH PHỦ` (thống nhất với 284/2026)
+
+### B. RANDOM SAMPLE van-ban/ (5 files, đã merged)
+
+| # | File | KB | Refactor cần thiết | Đánh giá |
+|---|------|----|--------------------|----------|
+| 1 | thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-144-2026.md | 20 | layout=page ≠ vanban | **Cần refactor** |
+| 2 | to-chuc-bo-may-nha-nuoc.md | 148 | layout=page; "Đang cập nhật" | **Cần refactor** |
+| 3 | ngoai-giao-dieu-uoc-quoc-te/ham-cap-ngoai-giao.md | 44 | Không | **OK (page layout)** |
+| 4 | xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-tra-va-xu-ly-van-ban-quy-pham-phap-luat.md | 6 | <10KB; layout=page | **Cần refactor** |
+| 5 | bo-tro-tu-phap/tro-giup-phap-ly.md | 463 | layout=page; "Đang cập nhật" | **Cần refactor** |
+
+**Ghi chú random sample:**
+- Files #1, #2, #4, #5: layout `page` thay vì `vanban` — đây là files overview/summary chứ không phải toàn văn văn bản pháp luật. Phân biệt: nếu chỉ là summary/tổng quan → layout=page đúng; nếu claim là văn bản → cần refactor
+- File #4: 6KB < 10KB — kiểm tra xem có phải stub không (cần bổ sung nội dung)
+- File #1 (144/2026): có `ø` trong nội dung (ghi chú OCR đã sửa, nhưng nên verify)
+
+### C. PR COMMENT TRIAGE (open PRs)
+
+| PR | Ngày tạo | Comments | Phân loại | Hành động |
+|----|----------|----------|-----------|-----------|
+| #258 | 2026-07-20 | 2 (caothu159 crawl hoàn tất 283; Đệ #1 Discovery) | ✅ Sạch | Merge được |
+| #257 | 2026-07-19 | 1 (caothu159 crawl 284 TSMH) | ✅ Sạch | Review độc lập |
+| #256 | — | Codex limit warning (2026-07-19) | ⚠️ Cần review | Sếp check |
+| #255 | — | Codex limit warning (2026-07-17); caothu159 no action needed | ✅ Stale | Thông báo |
+
+**Chi tiết comments:**
+- PR #255: `caothu159: Đệ #4 checkin - reviewed van-ban/ quality, no action needed on this PR.` (2026-07-17)
+- PR #258: 2 comments từ caothu159 (crawl 283) + Đệ #1 Discovery xác minh docid — cả 2 đều từ bot/agent, không phải human review request
+- PR #256: `chatgpt-codex-connector[bot]: You have reached your Codex usage limits for code reviews` (2026-07-19) — đây là bot notification, không phải review comment
+
+### D. KẾT LUẬN & ĐỀ XUẤT
+
+**PR #258:**
+- ✅ 59/2026 TT-BGDĐT: OK
+- ✅ 284/2026 NĐ-CP TSMH: OK  
+- ⚠️ 283/2026 NĐ-CP: Cần fix signature artifact (đã fix local, cần commit)
+- ✅ 281/2026 NĐ-CP đất đai: OK (stub đầy đủ)
+- ❌ 103/2026 TT-BQP: **FILE MISSING** — cần xác minh
+
+**Random sample (merged files):**
+- 4 files cần refactor: chuyển metadata vanban layout hoặc xác nhận là overview page
+- 1 file OK
+
+**Đề xuất commit:**
+```
+van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md
+  - Xóa signature block artifact (7 dòng lines 47-53)
+  - Thay bằng "CHÍNH PHỦ"
+```
+
+**Đề xuất tạo fix PR:**
+- PR mới: fix 283/2026 signature artifact + xác minh 103/2026 file
+- PR #258: giữ nguyên chờ 103/2026 được bổ sung HOẶC tách 103/2026 ra PR riêng
+
+**Tracking notes (chưa commit):**
+- 103/2026/TT-BQP: docid chưa xác định, file không tìm thấy trong workspace
+- Random sample 144/2026: verify `ø` là ghi chú hay lỗi OCR còn sót
+
