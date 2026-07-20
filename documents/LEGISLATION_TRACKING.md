@@ -1,3 +1,58 @@
+## Cập nhật 2026-07-20 v2 (Đệ #1 Discovery — xác minh docid 2026-07-20 11:43 ICT)
+
+### Mục tiêu: Xác minh docid 5 văn bản trọng điểm + quét sitemap
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với batch 2026-07-19 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-19 17:56:11+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | 2026-07-19 11:56:02+07:00 | = Không đổi | ✅ Không đổi |
+
+**Kết luận sitemap**: Không có văn bản mới trong sitemap lần này.
+
+### Kết quả xác minh docid
+
+| Số hiệu | DocID | Kết quả | Chi tiết |
+|---|:---:|---|---|
+| **284/2026/NĐ-CP** | 218950 ✅ | **Đã xác minh** từ batch v1 | PDF 284-ndcp.signed.pdf xác nhận tại datafiles.chinhphu.vn ✅. Dải quét: 218951-218960 → 404. Docid 218950 có trên vanban.chinhphu.vn (200) nhưng site sử dụng SPA/client rendering nên không đọc được og:title từ HTTP. |
+| **277/2026/NĐ-CP** | **Chưa xác minh** | Không tìm thấy | Dải quét: 218800-218960 → vanban.chinhphu.vn trả về "Hệ thống văn bản" (SPA — tất cả docid 200 nhưng nội dung client-rendered). Dải 218900-218960 step 2: các docid đều có HTTP 200 nhưng og:title = "Hệ thống văn bản". Docid cao nhất trong sitemap sitemap_nghidinh: 277 (440755, lastmod 2026-07-19 17:56). |
+| **283/2026/NĐ-CP** | 218949 ✅ | **Đã xác minh** từ batch v1 | Docid 218949 từ batch v1 (Đệ #4 review). |
+| **29/2026/TT-BYT** | **Chưa xác minh** | Không tìm thấy | Vanban.chinhphu.vn sử dụng SPA rendering — không đọc được og:title. Dải quét 218800-218960 không cho kết quả cụ thể. |
+| **56/2026/TT-BXD** | **Chưa xác minh** | Không tìm thấy | Vanban.chinhphu.vn SPA rendering. |
+| **95/2026/TT-BTC** | **Chưa xác minh** | Không tìm thấy | Vanban.chinhphu.vn SPA rendering. |
+
+### Phát hiện kỹ thuật: vanban.chinhphu.vn SPA
+
+Vanban.chinhphu.vn sử dụng **client-side rendering (SPA/React)** — tất cả docid trả về HTTP 200 và hiển thị "Hệ thống văn bản" nhưng nội dung văn bản được load bằng JavaScript. Các method đã thử:
+1. `/?docid=` — → 200, og:title = "Hệ thống văn bản"
+2. `/portals/0/vbqpq/[docid].aspx` — → 302 → 404
+3. `/portals/0/default.aspx?docid=` — → 302 → 404 (không tồn tại)
+4. `/portals/0/vbqpq/[docid]/` — → 404
+5. `/api/document/[docid]` — → 404
+6. sitemap chính — → 404
+
+**Docid 218950** được xác nhận gián tiếp qua:
+- Batch v1 (Đệ #4 review) ghi nhận source-url với docid 218950 → file 284/NĐ-CP đầy đủ
+- datafiles.chinhphu.vn PDF 284-ndcp.signed.pdf tồn tại (1MB)
+
+### Ưu tiên tiếp theo
+
+1. **Docid 277/2026/NĐ-CP**: Cần browser automation hoặc JS rendering để xác minh. Hoặc thử dải docid cao hơn 219000+. (Slug 440755 trên luatvietnam.vn xác nhận văn bản tồn tại → trên vanban.chinhphu.vn phải có docid).
+2. **Docid 29/TT-BYT, 56/TT-BXD, 95/TT-BTC**: Tương tự — cần browser automation để xác minh docid riêng.
+3. **Theo dõi sitemap**: Tiếp tục theo dõi 2 sitemap — sitemap ổn định từ 2026-07-19.
+
+### Ghi chú xử lý
+
+- **Vanban.chinhphu.vn SPA** là rào cản chính cho xác minh docid trực tiếp. Tất cả docid 218800-218960 đều trả về 200 nhưng nội dung = "Hệ thống văn bản".
+- **Docid 284 (218950)** và **283 (218949)** đã được xác minh từ batch v1 (Đệ #4 review đã dùng source-url với docid 218950).
+- **Docid 277, 29/TT-BYT, 56/TT-BXD, 95/TT-BTC**: Chưa xác minh được — cần browser automation hoặc phương pháp khác.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-19 11:56:02+07:00), vanban.chinhphu.vn docid scan (218800-218960), datafiles.chinhphu.vn 284-ndcp.signed.pdf.
+- Ngày phát hiện: 2026-07-20 11:43 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:ac4429ed-c490-4e39-a3aa-6e4ab2b0fa55 (Đệ #1 Discovery — xác minh docid)
+
+---
+
 ## Cập nhật 2026-07-20 v1 (Đệ #1 Discovery — heartbeat 2026-07-20 01:03 ICT)
 
 ### Kết quả: 5 văn bản MỚI — 284 + 283 + 277/ NĐ-CP + 59/TT-BGDDT + 12/TT-TANDTC (sitemap luatvietnam.vn 2026-07-19 17:56+07:00)
