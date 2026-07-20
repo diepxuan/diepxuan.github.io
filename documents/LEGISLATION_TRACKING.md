@@ -1,8 +1,68 @@
-## Cập nhật 2026-07-20 v6 (Đệ #1 Discovery — 2026-07-20 22:02 ICT)
+## Cập nhật 2026-07-20 v7 (Đệ #1 Discovery — 2026-07-20 23:30 ICT)
 
-### Kết quả: 2 văn bản MỚI trong sitemap_nghidinh (sitemap lastmod 2026-07-20 17:56:45+07:00 = ref)
+### Kết quả: 5 văn bản MỚI trong sitemap_thongtu (sitemap ổn định, lastmod không đổi)
 
-Quét lại sitemap_nghidinh + sitemap_thongtu lúc 22:02 ICT. sitemap_nghidinh lastmod = ref 2026-07-20 17:56:45+07:00 (không đổi vs batch v5). sitemap_thongtu = ref 2026-07-20 11:56:35+07:00 (không đổi). **Phát hiện 2 văn bản MỚI trong sitemap_nghidinh** (entry slug mới chưa ghi nhận trong tracking):
+Quét lại sitemap_nghidinh + sitemap_thongtu lúc 23:30 ICT. sitemap_nghidinh lastmod = ref 2026-07-20 17:56:45+07:00 (không đổi). sitemap_thongtu = ref 2026-07-20 11:56:35+07:00 (không đổi). **Phát hiện 5 văn bản MỚI trong sitemap_thongtu** (entry slug chưa từng xuất hiện trong tracking). Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **51/2026/TT-BXD** | **30/06/2026** | **Ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay** — ban hành Bộ Quy chế An toàn hàng không dân dụng thay thế toàn bộ 10 thông tư cũ (01/2011, 03/2016, 21/2017, 56/2018, 42/2020, 11/2022, 25/2022, 09/2023, 27/2024, 65/2024/TT-BGTVT); căn cứ Luật Hàng không dân dụng 130/2025/QH15, NĐ 223/2026/NĐ-CP (tàu bay), NĐ 221/2026/NĐ-CP (Nhà chức trách hàng không); người ký Bộ trưởng Bộ Xây dựng; hiệu lực **01/7/2026**; **ƯU TIÊN TRUNG BÌNH** — thay thế toàn bộ 10 văn bản cũ về an toàn hàng không | Giao thông / Hàng không | **Chưa xác minh** (slug 440563) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440563). Title: "Quy chế An toàn hàng không dân dụng cho tàu bay và khai thác" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026). Thay thế 10 TT-BGTVT cũ (01/2011 → 65/2024). Căn cứ Luật Hàng không 130/2025, NĐ 223/2026, NĐ 221/2026. **ƯU TIÊN TRUNG BÌNH** — quy chế hàng không quan trọng. |
+| **54/2026/TT-BGDDT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chuẩn chương trình đào tạo, quy trình xây dựng, thẩm định, ban hành, tổ chức thực hiện, duy trì, cải tiến, kiểm tra, giám sát, phê duyệt, đình chỉ tuyển sinh/hoạt động đào tạo các trình độ ĐH, ThS, TS; căn cứ Luật Ban hành VBQPPL 64/2025/QH15, Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 37/2025/NĐ-CP, QĐ 1981, 1982/QĐ-TTg; người ký Bộ trưởng Bộ GDĐT; **ƯU TIÊN TRUNG BÌNH** — quy định nền tảng chương trình đào tạo đại học | Giáo dục / Đại học | **Chưa xác minh** (slug 440237) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440237). Title: "Quy định chương trình đào tạo đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh. Căn cứ Luật GDĐH 125/2025, QĐ 1981/2016 (Khung cơ cấu), QĐ 1982/2016 (Khung trình độ quốc gia). Áp dụng cho ĐH/ThS/TS. **ƯU TIÊN TRUNG BÌNH** — quy chuẩn chương trình đào tạo. |
+| **53/2026/TT-BGDDT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy định tuyển sinh và đào tạo sau đại học trình độ thạc sĩ, tiến sĩ; thay thế TT 23/2021/TT-BGDĐT (tuyển sinh ThS) và TT 18/2021/TT-BGDĐT (tuyển sinh TS); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 91/2026/NĐ-CP, NĐ 37/2025/NĐ-CP; người ký Thứ trưởng Lê Quân; hiệu lực ngay 30/6/2026, áp dụng từ **01/01/2027** cho khóa tuyển sinh mới; **ƯU TIÊN TRUNG BÌNH** — quy chế tuyển sinh sau đại học thay thế 2 thông tư cũ | Giáo dục / Sau ĐH | **Chưa xác minh** (slug 440236) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440236). Title: "Quy chế tuyển sinh và đào tạo sau đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh (Hà Nội, ngày 30 tháng 6 năm 2026, ký Thứ trưởng Lê Quân). Thay thế TT 23/2021 (ThS) và TT 18/2021 (TS). Căn cứ NĐ 91/2026/NĐ-CP (chi tiết Luật GDĐH). **ƯU TIÊN TRUNG BÌNH** — quy chế tuyển sinh sau ĐH. |
+| **98/2026/TT-BQP** | **06/07/2026** | **Quy định về chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng** — quy định chứng nhận Hệ thống quản lý chất lượng cho các cơ sở sản xuất sản phẩm quốc phòng; căn cứ Luật Tiêu chuẩn 68/2006 (sửa 35/2018, 70/2025), Luật Chất lượng 05/2007 (sửa 35/2018, 78/2025), Luật CNQP-AN-DVCN 38/2024 (sửa 119/2025), NĐ 22/2026/NĐ-CP, NĐ 01/2022 (sửa 03/2025); người ký Bộ trưởng Bộ Quốc phòng; **ƯU TIÊN THẤP** — quy chuẩn kỹ thuật quốc phòng | Quốc phòng / Chất lượng | **Chưa xác minh** (slug 440226) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440226). Title: "Quy định chứng nhận Hệ thống quản lý chất lượng sản phẩm quốc phòng" ✅. Ngày ban hành **6/7/2026** xác minh (Hà Nội, ngày 06 tháng 7 năm 2026). Căn cứ Luật Tiêu chuẩn sửa 70/2025, Luật Chất lượng sửa 78/2025, Luật CNQP 38/2024 sửa 119/2025, NĐ 22/2026. Định nghĩa 3 loại điểm không phù hợp (Loại 1, Loại 2, Lưu ý). **ƯU TIÊN THẤP** — văn bản kỹ thuật quốc phòng. |
+| **18/2026/TT-BVhttDL** | **26/06/2026** | **Quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập** — quy định định mức kinh tế-kỹ thuật dịch vụ sự nghiệp công sử dụng NSNN cho bảo tàng công lập; gồm: sưu tầm hiện vật (thám sát, mua, tiếp nhận, đấu giá), kiểm kê, bảo quản (định kỳ, phòng ngừa, trị liệu), trưng bày, giáo dục di sản, truyền thông; căn cứ Luật Di sản văn hóa 45/2024 (sửa 84/2025, 112/2025, 116/2025), NĐ 308/2025/NĐ-CP (chi tiết Luật Di sản), NĐ 32/2019, NĐ 60/2021 (sửa 111/2025); người ký Bộ trưởng Bộ VHTTDL; **ƯU TIÊN THẤP** — định mức ngân sách bảo tàng | Văn hóa / Bảo tàng | **Chưa xác minh** (slug 440227) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440227). Title: "Quy định định mức kinh tế kỹ thuật bảo tàng công lập" ✅. Ngày ban hành **26/6/2026** xác minh (Hà Nội, ngày 26 tháng 6 năm 2026). Căn cứ Luật Di sản văn hóa 45/2024 sửa đổi, NĐ 308/2025. Có Phụ lục I-IV (định mức theo loại dịch vụ). **ƯU TIÊN THẤP** — định mức NSNN cho bảo tàng. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-20 17:56/11:56+07:00
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-20 17:56/11:56+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | 2026-07-20 11:56:35+07:00 | = Không đổi | ✅ 5 entry d1 mới (51/TT-BXD, 54/TT-BGDDT, 53/TT-BGDDT, 98/TT-BQP, 18/TT-BVhttDL) |
+
+### Tóm tắt lũy kế batch 2026-07-20 (Đệ #1)
+
+| # | Số hiệu | Ngày | Trích yếu | Nhóm | DocID | Trạng thái |
+|---:|---|:---:|---|---|---|---|
+| 1 | **103/2026/TT-BQP** | 17/07 | Điều chỉnh trợ cấp quân nhân phục viên/xuất ngũ | Quốc phòng | 440815 | Hoàn thiện ✅ |
+| 2 | **32/2026/TT-BNNMT** | 17/07 | Bãi bỏ văn bản pháp luật Bộ Nông nghiệp và Môi trường | NN&MT | 440814 | Stub — cần bổ sung |
+| 3 | **05/2026/TT-NHNN** | 31/03 | Hạn mức chi trả BHTGVN 350 triệu đồng (hiệu lực 13/07/2026) | Tài chính | 440800 | Hoàn thiện ✅ |
+| 4 | **58/2026/TT-BGDĐT** | 07/07 | Quy chế tổ chức và hoạt động cơ sở giáo dục đại học | Giáo dục | 440798 | Stub — cần bổ sung |
+| 5 | **31/2026/TT-BNNMT** | 15/07 | Định giá rừng, chi trả dịch vụ các-bon của rừng | Lâm nghiệp | 440799 | Stub — cần bổ sung |
+| 6 | **99/2026/TT-BTC** | 10/07 | Chế độ tài chính cho giảng viên/sinh viên điện hạt nhân | Tài chính/NNPT | 440467 | Hoàn thiện ✅ |
+| 7 | **37/2026/TT-BKHCN** | 30/06 | Chứng chỉ vô tuyến điện nghiệp dư | KHCN | 440448 | Chưa có — mới |
+| 8 | **31/2026/TT-BYT** | 16/07 | Hướng dẫn NĐ 289/2025 về cơ chế pháp luật (Bộ Y tế) | Y tế | 440773 | Chưa có — mới |
+| 9 | **103/2026/TT-BCA** | 25/06 | Phân cấp thẩm quyền dự án đầu tư công trình an ninh | Đầu tư | 440214 | Chưa có — mới |
+| 10 | **277/2026/NĐ-CP** | 09/07 | Về Hạ tầng văn hóa số | Văn hóa/Số | 440755 | Chưa có — mới |
+| 11 | **51/2026/TT-BXD** | 30/06 | Bộ Quy chế An toàn hàng không dân dụng (thay thế 10 TT cũ) | Hàng không | 440563 | Chưa có — mới |
+| 12 | **54/2026/TT-BGDDT** | 30/06 | Quy định chương trình đào tạo các trình độ GDĐH | Giáo dục | 440237 | Chưa có — mới |
+| 13 | **53/2026/TT-BGDDT** | 30/06 | Quy chế tuyển sinh và đào tạo sau đại học | Giáo dục | 440236 | Chưa có — mới |
+| 14 | **98/2026/TT-BQP** | 06/07 | Chứng nhận Hệ thống quản lý chất lượng sản phẩm quốc phòng | Quốc phòng | 440226 | Chưa có — mới |
+| 15 | **18/2026/TT-BVhttDL** | 26/06 | Định mức kinh tế-kỹ thuật bảo tàng công lập | Văn hóa | 440227 | Chưa có — mới |
+
+### Ưu tiên tiếp theo
+
+1. **103/TT-BQP** + **05/TT-NHNN** (hoàn thiện): ƯU TIÊN CAO — cần Đệ #4 review trước khi close PR #258.
+2. **99/TT-BTC** (tài chính điện hạt nhân, 10/7): ƯU TIÊN TRUNG BÌNH — cần crawl + tạo file van-ban.
+3. **277/NĐ-CP** (hạ tầng văn hóa số, 9/7): ƯU TIÊN TRUNG BÌNH — cần crawl + tạo file van-ban.
+4. **103/TT-BCA** (phân cấp dự án an ninh, 25/6): ƯU TIÊN TRUNG BÌNH — cần crawl + tạo file van-ban.
+5. **53/TT-BGDDT** + **54/TT-BGDDT** ( tuyển sinh & chương trình ĐH, 30/6): ƯU TIÊN TRUNG BÌNH — quy chuẩn giáo dục đại học.
+6. **51/TT-BXD** (an toàn hàng không, 30/6): ƯU TIÊN TRUNG BÌNH — thay thế 10 TT cũ.
+7. **37/TT-BKHCN, 31/TT-BYT**: ƯU TIÊN THẤP — cần crawl.
+8. **98/TT-BQP, 18/TT-BVhttDL**: ƯU TIÊN THẤP — cần crawl.
+9. **32/TT-BNNMT, 58/TT-BGDĐT, 31/TT-BNNMT** (stub): ƯU TIÊN THẤP — cần bổ sung nội dung.
+
+### Ghi chú
+
+- **15 văn bản mới phát hiện trong batch 2026-07-20** (v1-v7).
+- sitemap_nghidinh và sitemap_thongtu đều ổn định (lastmod không đổi vs ref).
+- **Phát hiện nổi bật batch này (v7)**: **51/TT-BXD** — thay thế toàn bộ 10 thông tư cũ về an toàn hàng không (01/2011 → 65/2024); **53+54/TT-BGDDT** — quy chuẩn chương trình đào tạo và tuyển sinh ĐH/ThS/TS theo Luật GDĐH 125/2025.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), web_fetch slug 440563 (51/TT-BXD), web_fetch slug 440237 (54/TT-BGDDT), web_fetch slug 440236 (53/TT-BGDDT), web_fetch slug 440226 (98/TT-BQP), web_fetch slug 440227 (18/TT-BVhttDL).
+- Ngày phát hiện: 2026-07-20 23:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:4ca24ce8-410c-414b-9444-d8f1c6fb44d5 (Đệ #1 Discovery — 2026-07-20 23:30 ICT)
+
+---
+
+
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
