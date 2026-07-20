@@ -473,5 +473,101 @@
 
 ---
 
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-07-21T02:02 ICT
+
+> **Đệ #1 Discovery — Quét sitemap lúc 02:02 ICT. Giới hạn 5 văn bản/lần. So sánh với batch 2026-07-20 17:56+07:00.**
+
+### 1. Thông tư 59/2026/TT-BGDĐT — Nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 59/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 15/07/2026 |
+| **Hiệu lực** | 15/07/2026 |
+| **Chủ đề** | Giáo dục, Lao động, Nhà giáo |
+| **LuatVietnam** | `giao-duc/thong-tu-59-2026-tt-bgddt-quy-dinh-ve-nha-giao-hop-dong-va-thinh-giang-sau-nghi-huu-440690-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng tại cơ sở giáo dục. Nội dung gồm: nguyên tắc ký hợp đồng, điều kiện nhà giáo, tiền lương, phụ cấp, quyền và trách nhiệm các bên, quy định về giảng viên thỉnh giảng. Thời giờ làm việc linh hoạt phù hợp với người cao tuổi. |
+| **Ghi chú** | Ban hành sau NĐ 235/2026 về hợp đồng việc trong đơn vị sự nghiệp công lập |
+
+---
+
+### 2. Thông tư 99/2026/TT-BTC — Tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 99/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 10/07/2026 |
+| **Hiệu lực** | 28/08/2026 |
+| **Chủ đề** | Tài chính, Điện hạt nhân, Giáo dục |
+| **LuatVietnam** | `giao-duc/thong-tu-99-2026-tt-btc-quy-dinh-tai-chinh-cho-giang-vien-sinh-vien-trong-linh-vuc-dien-hat-nhan-440467-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân. Nguồn kinh phí: ngân sách nhà nước, chủ đầu tư nhà máy điện hạt nhân, viện trợ/tài trợ. Hướng dẫn chi tiết NĐ 176/2026/NĐ-CP về ưu đãi nhân lực điện hạt nhân. |
+| **Ghi chú** | Cùng đợt với TT-BTC 89, 90, 91, 94, 95, 97 (hướng dẫn Luật QLThuế 2025). Thực hiện theo Đề án 1012/QĐ-TTg đào tạo nhân lực điện hạt nhân |
+
+---
+
+### 3. Thông tư 54/2026/TT-BGDĐT — Chương trình đào tạo các trình độ giáo dục đại học
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 54/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | 30/06/2026 |
+| **Chủ đề** | Giáo dục đại học |
+| **LuatVietnam** | `giao-duc/thong-tu-54-2026-tt-bgddt-quy-dinh-chuong-trinh-dao-tao-dai-hoc-moi-nhat-440237-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định về chương trình đào tạo các trình độ (đại học, thạc sĩ, tiến sĩ). Nội dung: chuẩn chương trình đào tạo, quy trình xây dựng/thẩm định/ban hành, tổ chức thực hiện, kiểm tra giám sát. Yêu cầu về năng lực số, AI, ngoại ngữ ở bậc đại học. Khối lượng tối thiểu: ĐH 120 tín chỉ, ThS 45, TS 90. |
+| **Ghi chú** | Thay thế các quy định cũ về chương trình đào tạo ĐH; căn cứ Luật GDĐH 125/2025/QH15 |
+
+---
+
+### 4. Thông tư 53/2026/TT-BGDĐT — Quy chế tuyển sinh và đào tạo sau đại học
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 53/2026/TT-BGDĐT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Giáo dục và Đào tạo |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | Áp dụng từ 01/01/2027 cho khóa tuyển sinh thạc sĩ, tiến sĩ |
+| **Chủ đề** | Giáo dục đại học, Tuyển sinh |
+| **LuatVietnam** | `giao-duc/thong-tu-53-2026-tt-bgddt-quy-che-tuyen-sinh-va-dao-tao-sau-dai-hoc-moi-nhat-440236-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Ban hành Quy chế tuyển sinh và đào tạo sau đại học (thạc sĩ, tiến sĩ). Nội dung: nguyên tắc tuyển sinh, điều kiện dự tuyển, tổ chức đào tạo, thời gian chuẩn (ThS: 2-3 năm, TS: 3-4 năm), liên kết đào tạo, công nhận kết quả học tập, chuyển đổi tín chỉ (tối đa 40%). |
+| **Ghi chú** | Thay thế TT 23/2021/TT-BGDĐT (thạc sĩ) và TT 18/2021/TT-BGDĐT (tiến sĩ). Cănn cứ NĐ 91/2026/NĐ-CP |
+
+---
+
+### 5. Thông tư 18/2026/TT-BVHTTDL — Định mức kinh tế - kỹ thuật bảo tàng công lập
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 18/2026/TT-BVHTTDL |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Văn hóa, Thể thao và Du lịch |
+| **Ban hành** | 26/06/2026 |
+| **Hiệu lực** | 15/08/2026 |
+| **Chủ đề** | Văn hóa, Bảo tàng, Định mức kinh tế kỹ thuật |
+| **LuatVietnam** | `van-hoa/thong-tu-18-2026-tt-bvhttdl-quy-dinh-dinh-muc-kinh-te-ky-thuat-bao-tang-cong-lap-440227-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 11:56 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định định mức kinh tế - kỹ thuật dịch vụ sự nghiệp công sử dụng ngân sách nhà nước của bảo tàng công lập, gồm: sưu tầm hiện vật (thám sát, mua, tiếp nhận, đấu giá), kiểm kê, bảo quản (định kỳ, phòng ngừa, trị liệu), trưng bày, giáo dục di sản, truyền thông. Kết cấu định mức: hao phí nhân công, máy móc thiết bị, vật liệu. |
+| **Ghi chú** | Căn cứ Luật Di sản văn hóa 45/2024/QH15 (sửa), NĐ 308/2025/NĐ-CP, Luật NSNN 89/2025/QH15 |
+
+---
+
 *Lần cập nhật tiếp theo: khoảng 21/07/2026 hoặc khi có văn bản mới.*
 *Đệ #1 Discovery — github-io workspace*
