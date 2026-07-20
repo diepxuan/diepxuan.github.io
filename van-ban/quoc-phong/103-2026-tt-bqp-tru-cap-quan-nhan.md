@@ -38,7 +38,7 @@ tags:
 | Ngày có hiệu lực | 30/08/2026 |
 | Cơ quan ban hành | Bộ Quốc phòng |
 | Người ký | Thượng tướng Nguyễn Quang Ngọc |
-| Cănn cứ pháp lý | Nghị định 01/2022/NĐ-CP; Nghị định 162/2026/NĐ-CP; QĐ 142/2008/QĐ-TTg; QĐ 62/2011/QĐ-TTg |
+| Căn cứ pháp lý | Nghị định 01/2022/NĐ-CP; Nghị định 162/2026/NĐ-CP; QĐ 142/2008/QĐ-TTg; QĐ 62/2011/QĐ-TTg |
 
 ## VĂN BẢN
 
