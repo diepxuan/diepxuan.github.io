@@ -413,5 +413,65 @@
 
 ---
 
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN (3) — 2026-07-20T17:37 ICT
+
+> **Đệ #1 Discovery — Phát hiện từ sitemap lúc 15:33 ICT. Ưu tiên: 89/TT-BTC (QUAN TRỌNG), 31/TT-BYT, 118/TT-BCA.**
+
+### 1. Thông tư 89/2026/TT-BTC — Hướng dẫn chi tiết Luật Quản lý thuế 108/2025/QH15 và NĐ 252/2026/NĐ-CP
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 89/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh từ văn bản gốc) |
+| **Chủ đề** | Thuế, Quản lý thuế, Hóa đơn điện tử |
+| **LuatVietnam** | `tai-chinh/huong-dan-chi-tiet-luat-quan-ly-thue-108-2025-qh15-va-nghi-dinh-252-2026-nd-cp-440483-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 15:33 (phát hiện mới) |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Hướng dẫn chi tiết Luật Quản lý thuế 108/2025/QH15 và NĐ 252/2026/NĐ-CP. Nội dung bao gồm: kê khai thuế, quyết toán thuế, hoàn thuế, xử lý vi phạm, quản lý hóa đơn điện tử. Căn cứ NĐ 252/2026/NĐ-CP. Người ký: Tổng cục trưởng Tổng cục Thuế. **Cùng đợt với 87/TT-BTC (TNCN, đã có docid 218772).** |
+| **Ghi chú ưu tiên** | **ƯU TIÊN CAO** — hướng dẫn Luật QL thuế mới, tác động rộng rãi toàn hệ thống thuế toàn quốc. Cần crawl toàn văn ưu tiên. |
+
+---
+
+### 2. Thông tư 31/2026/TT-BYT — Định mức kinh phí xây dựng thông tư của Bộ Y tế
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 31/2026/TT-BYT |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Y tế |
+| **Ban hành** | 16/07/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh từ văn bản gốc) |
+| **Chủ đề** | Y tế, Quy trình xây dựng văn bản |
+| **LuatVietnam** | `y-te/thong-tu-31-2026-tt-byt-dinh-muc-kinh-phi-xay-dung-thong-tu-cua-bo-y-te-440773-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 15:33 (phát hiện mới) |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định định mức kinh phí xây dựng, trình tự, thủ tục xây dựng thông tư của Bộ Y tế. Căn cứ Nghị quyết 197/2025/QH15, NĐ 289/2025/NĐ-CP. Người ký: Bộ trưởng Bộ Y tế. |
+| **Ghi chú ưu tiên** | **ƯU TIÊN TRUNG BÌNH** — quy trình xây dựng văn bản pháp luật Y tế. |
+
+---
+
+### 3. Thông tư 118/2026/TT-BCA — Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 118/2026/TT-BCA |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Công an |
+| **Ban hành** | 29/06/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh từ văn bản gốc) |
+| **Chủ đề** | Công an, Căn cước |
+| **LuatVietnam** | `cong-an/thong-tu-118-2026-tt-bca-sua-doi-thong-tu-17-2024-tt-bca-ve-luat-can-cuoc-440749-d1.html` |
+| **Sitemap lastmod** | 2026-07-20 15:33 (phát hiện mới) |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Sửa đổi, bổ sung một số điểm của Thông tư 17/2024/TT-BCA hướng dẫn thi hành Luật Căn cước 26/2023/QH14 (sửa bởi 118/2025/QH15). Căn cứ: Luật Căn cước 26/2023 (sửa 118/2025), NĐ 58/2026/NĐ-CP. Người ký: Thượng tướng Lương Tam Quang. |
+| **Ghi chú ưu tiên** | **ƯU TIÊN TRUNG BÌNH** — sửa đổi hướng dẫn Luật Căn cước. |
+
+---
+
 *Lần cập nhật tiếp theo: khoảng 21/07/2026 hoặc khi có văn bản mới.*
-*Đệ #3 Discovery — github-io workspace*
+*Đệ #1 Discovery — github-io workspace*
