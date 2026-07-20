@@ -7,7 +7,7 @@ group: tai-chinh
 tags:
   - bao-hiem-tien-gui
   - nhnn
-source: Nguồn chưa xác định (luatvietnam.vn blocked, vanban.chinhphu.vn docid chưa rõ, datafiles.chinhphu.vn 404)
+source: Nguồn chưa xác định (luatvietnam.vn 404, vanban.chinhphu.vn SPA, datafiles.chinhphu.vn 403, sbv.gov.vn WAF, web.archive.org 429)
 note: "STUB — Cần bổ sung nội dung đầy đủ khi có văn bản gốc hoặc PDF"
 ---
 
@@ -29,7 +29,7 @@ note: "STUB — Cần bổ sung nội dung đầy đủ khi có văn bản gốc
 | **Căn cứ pháp lý** | Luật Bảo hiểm tiền gửi 111/2025/QH15; Nghị định 280/2026/NĐ-CP |
 | **Lĩnh vực** | Tài chính – Ngân hàng / Bảo hiểm tiền gửi |
 | **Loại văn bản** | Thông tư |
-| **Ghi chú nguồn** | Luatvietnam (slug 440800) bị Cloudflare chặn; vanban.chinhphu.vn docid chưa xác định; datafiles.chinhphu.vn trả 404; Firecrawl credits exhausted cho tất cả báo chí |
+| **Ghi chú nguồn** | Tất cả nguồn chính thức đều không truy cập được. Xem chi tiết trong phần "Nguồn đã thử" bên dưới.
 
 ---
 
@@ -89,15 +89,20 @@ Cấu trúc văn bản (3 Chương, 5 Điều) được xác nhận qua nhiều 
 | Chương II | Hạn mức chi trả tiền bảo hiểm (Điều 3) |
 | Chương III | Tổ chức thực hiện (Điều 4, Điều 5) |
 
-**Nguồn thất bại (2026-07-20):**
-- `luatvietnam.vn` – Cloudflare block, sau đó Firecrawl credits exhausted (slug 440800)
-- `datafiles.chinhphu.vn` – 404 cho mọi path đã thử (8+ patterns)
-- `vanban.chinhphu.vn` – docid chưa xác định (WebForms SPA, cần trình duyệt)
-- `sbv.gov.vn` – truy cập không có dữ liệu toàn văn
-- `cafebiz.vn`, `vtv.vn`, `thoibaonganhang.vn`, `baodautu.vn` – Firecrawl credits exhausted
-- NHNN official website – không truy cập được
+**Nguồn đã thử (2026-07-20, tất cả thất bại):**
 
-**Cần:**
-1. Xác định docid chính xác trên vanban.chinhphu.vn (cần trình duyệt/spider)
-2. Tìm đúng path PDF trên datafiles.chinhphu.vn
-3. Nếu không tìm được nguồn chính thức, cân nhắc lấy nội dung từ báo cáo chi tiết của NHNN hoặc BTC
+| Nguồn | Kết quả | Ghi chú |
+|---|---|---|
+| luatvietnam.vn (slug 440800) | ❌ Không truy cập | URL chuyển hướng về 404, trang chính không tìm thấy. |
+| datafiles.chinhphu.vn (nhiều path) | ❌ Không truy cập | HTTP 403/400 — CDN/WAF. |
+| vanban.chinhphu.vn | ❌ Không truy cập | WebForms SPA, cần trình duyệt hoặc docid chính xác. |
+| sbv.gov.vn | ❌ Không truy cập | Bị tường lửa chặn. |
+| web.archive.org | ❌ Rate limit | Trả 429 Too Many Requests. |
+| Thư viện Pháp luật, bhtgvn.vn | ❌ Không truy cập | Không resolve hoặc 403. |
+| Firecrawl (web_search) | ❌ Hết credit | Insufficient credits — 402. |
+
+**Hành động tiếp theo cần:**
+1. Xác định docid chính xác trên vanban.chinhphu.vn (cần browser automation)
+2. Tìm đúng path PDF trên datafiles.chinhphu.vn (cần docid từ vanban.chinhphu)
+3. Truy cập web.archive.org sau khi rate limit hết (khoảng 1 giờ)
+4. Nếu vẫn không được, cân nhắc lấy nội dung từ báo cáo chi tiết của NHNN
