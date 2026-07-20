@@ -1,3 +1,51 @@
+## Cập nhật 2026-07-20 v5 (Đệ #1 Discovery — 2026-07-20 21:09 ICT)
+
+### Kết quả: 3 văn bản MỚI trong sitemap_thongtu (sitemap lastmod 2026-07-20 11:56:35+07:00)
+
+Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00 vs ref 2026-07-19 17:56:11+07:00) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00 vs ref 2026-07-20 11:56:35+07:00). **Không có văn bản mới** trong sitemap_nghidinh (chỉ re-crawl 278/279/274). sitemap_thongtu lastmod giữ nguyên nhưng phát hiện 3 entry `-d1` mới chưa ghi nhận. Giới hạn 5/lần — ghi nhận đủ 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **99/2026/TT-BTC** | **10/07/2026** | **Quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân** — quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân; căn cứ Luật NSNN 89/2025/QH15, NĐ 73/2026/NĐ-CP, NĐ 176/2026/NĐ-CP (chính sách ưu đãi điện hạt nhân), QĐ 1012/QĐ-TTg (đào tạo nhân lực điện hạt nhân đến 2035); người ký Bộ trưởng Bộ Tài chính; **ƯU TIÊN TRUNG BÌNH** — chính sách ưu đãi tài chính cho ngành điện hạt nhân | Tài chính / Năng lượng nguyên tử | **Chưa xác minh** (slug 440467) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440467). Title: "Quy định chế độ tài chính, mức chi cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân" ✅. Ngày ban hành **10/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 10 tháng 7 năm 2026). Căn cứ NĐ 176/2026 (chính sách ưu đãi điện hạt nhân) và QĐ 1012/QĐ-TTg (Đề án đào tạo nhân lực đến 2035). **ƯU TIÊN TRUNG BÌNH** — hỗ trợ ngành điện hạt nhân. |
+| **37/2026/TT-BKHCN** | **30/06/2026** | **Quy định về chứng chỉ vô tuyến điện nghiệp dư; tiêu chuẩn áp dụng đối với tổ chức thực hiện việc thi, cấp chứng chỉ; điều kiện, trình tự, thủ tục thi, cấp chứng chỉ; thu hồi chứng chỉ vô tuyến điện nghiệp dư** — quy định chứng chỉ vô tuyến điện nghiệp dư; tiêu chuẩn thi, cấp, thu hồi; căn cứ Luật Tần số vô tuyến điện 42/2009/QH12 (sửa 09/2022/QH15), NQ 66.17/2026/NQ-CP, NQ 66.18/2026/NQ-CP, NĐ 225/2026/NĐ-CP (chức năng Bộ KHCN); người ký Bộ trưởng Bộ Khoa học và Công nghệ; **ƯU TIÊN THẤP** — văn bản chuyên đề tần số vô tuyến | Khoa học / Tần số vô tuyến | **Chưa xác minh** (slug 440448) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440448). Title: "Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Căn cứ Luật Tần số vô tuyến điện sửa đổi + NQ 66.17/2026/NQ-CP (cắt giảm ngành nghề). **ƯU TIÊN THẤP** — văn bản chuyên đề. |
+| **31/2026/TT-BYT** | **16/07/2026** | **Hướng dẫn Nghị định 289/2025/NĐ-CP về cơ chế pháp luật** — hướng dẫn định mức chi cho xây dựng, ban hành thông tư của Bộ Y tế; danh mục nhiệm vụ, hoạt động và định mức khoán chi xây dựng thông tư; căn cứ NĐ 289/2025/NĐ-CP, Nghị quyết 197/2025/QH15, NĐ 187/2025/NĐ-CP; người ký Bộ trưởng Bộ Y tế; **ƯU TIÊN THẤP** — văn bản hành chính nội bộ Bộ Y tế | Y tế / Hành chính | **Chưa xác minh** (slug 440773) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440773). Title: "Hướng dẫn Nghị định 289/2025/NĐ-CP về cơ chế pháp luật" ✅. Ngày ban hành **16/7/2026** xác minh từ luatvietnam.vn (Bộ trưởng Bộ Y tế). Nội dung chính: danh mục nhiệm vụ, hoạt động và định mức khoán chi xây dựng thông tư của Bộ Y tế. **ƯU TIÊN THẤP** — văn bản hành chính nội bộ. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-20 17:56/11:56+07:00
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-19/20 17:56/11:56+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi (re-crawl 278/279/274) | ✅ Không có văn bản mới |
+| sitemap_thongtu | 2026-07-20 11:56:35+07:00 | = Không đổi | ✅ 3 entry d1 mới trong sitemap nhưng lastmod không đổi |
+
+### Các entry d1 mới trong sitemap_thongtu (entry mới so với batch trước)
+
+| Slug | lastmod | Nội dung | Trạng thái trong tracking |
+|---|:---:|---|---|
+| **440467** | 2026-07-20 11:56 | **99/2026/TT-BTC** (tài chính điện hạt nhân, 10/7/2026) | **Mới** — ghi nhận mới |
+| **440448** | 2026-07-20 11:56 | **37/2026/TT-BKHCN** (chứng chỉ vô tuyến điện nghiệp dư, 30/6/2026) | **Mới** — ghi nhận mới |
+| **440773** | 2026-07-20 09:55 | **31/2026/TT-BYT** (hướng dẫn NĐ 289/2025, 16/7/2026) | **Mới** — ghi nhận mới |
+
+### Ưu tiên tiếp theo
+
+1. **99/TT-BTC** (tài chính điện hạt nhân, 10/7): ƯU TIÊN TRUNG BÌNH — căn cứ NĐ 176/2026 (chính sách ưu đãi điện hạt nhân). Cần tạo file van-ban.
+2. **37/TT-BKHCN** (chứng chỉ vô tuyến điện nghiệp dư, 30/6): ƯU TIÊN THẤP — văn bản chuyên đề tần số vô tuyến.
+3. **31/TT-BYT** (định mức chi xây dựng thông tư, 16/7): ƯU TIÊN THẤP — văn bản hành chính nội bộ.
+4. **Xác minh docid** các văn bản mới (99/TT-BTC, 37/TT-BKHCN, 31/TT-BYT) trên vanban.chinhphu.vn (dải 219000+).
+5. **sitemap_nghidinh ổn định hoàn toàn** — không có NĐ-CP mới, 285 chưa ban hành.
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** được ghi nhận: 99/TT-BTC (tài chính điện hạt nhân, 10/7/2026), 37/TT-BKHCN (chứng chỉ vô tuyến điện nghiệp dư, 30/6/2026), 31/TT-BYT (định mức chi xây dựng thông tư Bộ Y tế, 16/7/2026).
+- **99/TT-BTC** là phát hiện nổi bật nhất — quy định chế độ tài chính cho ngành điện hạt nhân, căn cứ NĐ 176/2026/NĐ-CP (chính sách ưu đãi cho giảng viên, sinh viên điện hạt nhân) và QĐ 1012/QĐ-TTg (Đề án đào tạo nhân lực đến 2035).
+- **37/TT-BKHCN**: Thay thế quy định cũ về chứng chỉ vô tuyến điện nghiệp dư theo Luật Tần số vô tuyến điện sửa đổi.
+- **31/TT-BYT**: Văn bản hành chính nội bộ Bộ Y tế — hướng dẫn định mức chi xây dựng thông tư theo NĐ 289/2025/NĐ-CP.
+- **sitemap_nghidinh không đổi** — không có NĐ-CP mới, 285 chưa ban hành.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), web_fetch slug 440467 (99/TT-BTC), web_fetch slug 440448 (37/TT-BKHCN), web_fetch slug 440773 (31/TT-BYT).
+- Ngày phát hiện: 2026-07-20 21:11 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:8286ecb8-8fd3-4124-89f1-42d1f70ed970 (Đệ #1 Discovery — 2026-07-20 21:09 ICT)
+
+---
+
 ## Cập nhật 2026-07-20 v4 (Đệ #1 Discovery — 2026-07-20 19:03 ICT)
 
 ### Kết quả: 5 văn bản MỚI trong sitemap_thongtu (sitemap ổn định ngày 2026-07-20 11:56+07:00)
@@ -150,7 +198,61 @@ Quét sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00) + sitemap_thongtu (la
 
 ---
 
-## Cập nhật 2026-07-16 v3 (Đệ #1 Discovery — heartbeat 2026-07-16 08:32 ICT)
+## Cập nhật 2026-07-20 v1 (Đệ #1 Discovery — heartbeat 2026-07-20 20:03 ICT)
+
+### Kết quả: SITEMAP THAY ĐỔI — 5 văn bản mới chưa có trong tracking
+
+Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00 vs ref 2026-07-19 17:56+07:00) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00 vs ref 2026-07-20 11:56+07:00) + web_fetch xác minh ưu tiên. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **284/2026/NĐ-CP** | **16/07/2026** | **Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa** — quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa tại Việt Nam theo Nghị quyết 05/2025/NQ-CP (thí điểm thị trường tài sản mã hóa); phạm vi: chào bán, phát hành, tổ chức thị trường, giao dịch, cung cấp dịch vụ tài sản mã hóa; phòng chống rửa tiền, tài trợ khủng bố; thẩm quyền xử phạt; căn cứ Chính phủ; người ký theo đề nghị Bộ trưởng Bộ Tài chính | Tài chính / Tài sản mã hóa | **218950** ✅ (vanban.chinhphu.vn) | **Hoàn thiện** ✅ | **HOÀN THIỆN** — file `van-ban/tai-chinh/nghi-dinh-284-2026-nd-cp-tai-san-ma-hoa.md` (64KB, 335 dòng, Điều 1-23, Chương I-IV). Đệ #4 review 2026-07-20: source-url docid fix 218906→218950. OCR 0 issues. **ƯU TIÊN CAO** — văn bản pháp lý đầu tiên về tài sản mã hóa tại Việt Nam. |
+| **93/2026/TT-BTC** | **01/07/2026** | **Quy định việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá** — quy định in, phát hành, quản lý và sử dụng tem điện tử (digital tax stamps) cho rượu và thuốc lá; căn cứ Luật QL thuế 108/2025, Luật Giao dịch điện tử 20/2023 (sửa 60/2024), Luật Chuyển đổi số 148/2025, Luật An ninh mạng 116/2025, NĐ 254/2026/NĐ-CP (hóa đơn điện tử), NĐ 29/2025/NĐ-CP; hiệu lực **01/07/2026** | Tài chính / Thuế / Tem điện tử | **440661** ✅ (luatvietnam.vn) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440661). Title: "Quy định về tem điện tử rượu và thuốc lá" ✅. Ngày ban hành **01/7/2026** xác minh từ luatvietnam.vn. **ƯU TIÊN CAO** — tem điện tử rượu và thuốc lá, phòng chống hàng giả. |
+| **31/2026/TT-BNNMT** | **15/07/2026** | **Quy định phương pháp định giá rừng, hướng dẫn định khung giá rừng và phương pháp xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng** — quy định phương pháp định giá rừng, định khung giá rừng và chi trả dịch vụ hấp thụ, lưu giữ các-bon của rừng; căn cứ Luật Lâm nghiệp 16/2017 (sửa 16/2023, 31/2024, 146/2025), Luật Giá 16/2023 (sửa 44/2024, 61/2024, 95/2025, 140/2025), NĐ 35/2025, NĐ 42/2026, NĐ 180/2026; người ký Bộ trưởng Bộ NN&MT | Tài nguyên / Lâm nghiệp / Các-bon | **Chưa xác minh** (slug 440799) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440799). Title: "Quy định định giá rừng và chi trả dịch vụ các-bon" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 7 năm 2026). **ƯU TIÊN TRUNG BÌNH** — thị trường các-bon rừng. |
+| **32/2026/TT-BNNMT** | **17/07/2026** | **Bãi bỏ toàn bộ hoặc một phần một số văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng Bộ Nông nghiệp và Môi trường** — bãi bỏ toàn bộ hoặc một phần văn bản quy phạm pháp luật thuộc thẩm quyền Bộ trưởng Bộ Nông nghiệp và Môi trường (lĩnh vực trồng trọt, bảo vệ thực vật); căn cứ Luật Ban hành VBQPPL 64/2025 (sửa 87/2025), NĐ 35/2025, NĐ 78/2025, NĐ 79/2025; người ký Bộ trưởng Bộ NN&MT | Hành chính / Bãi bỏ văn bản | **Chưa xác minh** (slug 440814) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440814). Title: "Bãi bỏ văn bản pháp luật của Bộ Nông nghiệp và Môi trường" ✅. Ngày ban hành **17/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 17 tháng 7 năm 2026). **ƯU TIÊN THẤP** — văn bản bãi bỏ lĩnh vực trồng trọt/BVTV. |
+| **118/2026/TT-BCA** | **29/06/2026** | **Sửa đổi, bổ sung một số điều của Thông tư số 17/2024/TT-BCA ngày 15/5/2024 quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước** — sửa đổi, bổ sung Thông tư 17/2024/TT-BCA về Luật Căn cước (sửa đổi bởi Thông tư 53/2025/TT-BCA); căn cứ Luật Căn cước 26/2023/QH15 (sửa 118/2025), NĐ 02/2025/NĐ-CP (sửa 11/2025), NĐ 70/2024/NĐ-CP (sửa 58/2026/NĐ-CP); người ký Bộ trưởng Bộ Công an | Công an / Căn cước | **Chưa xác minh** (slug 440749) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440749). Title: "Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 29 tháng 6 năm 2026, ký Lương Tam Quang). **ƯU TIÊN TRUNG BÌNH** — sửa đổi hướng dẫn Luật Căn cước. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-19/20 17:56/11:56+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | **2026-07-20 17:56:45+07:00** | `> 2026-07-19 17:56` (ref) | ✅ Thay đổi — có 284/2026/NĐ-CP mới |
+| sitemap_thongtu | **2026-07-20 11:56:35+07:00** | `> 2026-07-20 11:56` (ref) | ✅ Thay đổi — 8 entry d1 mới |
+
+### Văn bản mới trong sitemap lần này (7 entry d1 mới, ghi nhận ưu tiên)
+
+| Số hiệu | lastmod | Slug | Trích yếu | Ghi chú |
+|---|:---:|---|---|---|
+| **284/2026/NĐ-CP** | 2026-07-18 08:38 | 440680 | Xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa | ⭐ **ƯU TIÊN CAO** — văn bản pháp lý đầu tiên về crypto tại VN |
+| **283/2026/NĐ-CP** | 2026-07-16 11:28 | 440485 | Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội | Cần xác minh trong tracking |
+| **275/2026/NĐ-CP** | 2026-07-10 08:25 | 439944 | Xử phạt vi phạm hành chính trong hóa chất và vật liệu nổ | Cần xác minh trong tracking |
+| **276/2026/NĐ-CP** | 2026-07-10 08:51 | 439943 | Chức năng, nhiệm vụ, quyền hạn Bộ Nội vụ | Cần xác minh trong tracking |
+| **93/2026/TT-BTC** | 2026-07-20 11:56 | 440661 | Quy định tem điện tử rượu và thuốc lá, hiệu lực 01/7/2026 | ⭐ **ƯU TIÊN CAO** |
+| **31/2026/TT-BNNMT** | 2026-07-20 11:28 | 440799 | Định giá rừng và chi trả dịch vụ các-bon, 15/7/2026 | ⭐ **ƯU TIÊN TRUNG BÌNH** |
+| **32/2026/TT-BNNMT** | 2026-07-20 11:56 | 440814 | Bãi bỏ văn bản pháp luật Bộ Nông nghiệp và Môi trường | ⭐ **ƯU TIÊN TRUNG BÌNH** |
+| **118/2026/TT-BCA** | 2026-07-20 11:56 | 440749 | Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước | ⭐ **ƯU TIÊN TRUNG BÌNH** |
+
+### Ưu tiên tiếp theo
+
+1. **284/2026/NĐ-CP**: Đã Hoàn thiện + Đệ #4 review rồi — cần close PR #258
+2. **283/2026/NĐ-CP**: Xác minh trong tracking — chưa ghi nhận? (sitemap xuất hiện lần đầu?)
+3. **275, 276/2026/NĐ-CP**: Xác minh trong tracking — 2 NĐ-CP mới từ batch 10/7
+4. **93/TT-BTC**: Tạo file van-ban — tem điện tử rượu và thuốc lá
+5. **277/2026/NĐ-CP** (slug 440755): Vẫn chưa xác minh docid — thử dải docid 219000+
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 284/NĐ-CP (crypto, 16/7), 93/TT-BTC (tem điện tử rượu thuốc lá, 01/7), 31/TT-BNNMT (các-bon rừng, 15/7), 32/TT-BNNMT (bãi bỏ văn bản Bộ NN&MT, 17/7), 118/TT-BCA (sửa đổi Thông tư 17/2024 về Căn cước, 29/6).
+- **284/2026/NĐ-CP** là phát hiện nổi bật nhất — văn bản pháp lý đầu tiên về xử phạt thị trường tài sản mã hóa (crypto) tại Việt Nam, thực thi Nghị quyết 05/2025/NQ-CP (thí điểm crypto).
+- **93/2026/TT-BTC**: Tem điện tử rượu và thuốc lá — hệ thống tem digital tax stamps, phòng chống hàng giả, phù hợp với chương trình chuyển đổi số quốc gia.
+- **31/2026/TT-BNNMT**: Thị trường các-bon rừng — định giá rừng và chi trả dịch vụ hấp thụ các-bon theo Luật Lâm nghiệp sửa đổi.
+- **32/2026/TT-BNNMT**: Bãi bỏ văn bản lĩnh vực trồng trọt và bảo vệ thực vật.
+- **118/2026/TT-BCA**: Sửa đổi Thông tư 17/2024 về Luật Căn cước theo Nghị định 58/2026/NĐ-CP.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), web_fetch slug 440680 (284/NĐ-CP), web_fetch slug 440661 (93/TT-BTC), web_fetch slug 440799 (31/TT-BNNMT), web_fetch slug 440814 (32/TT-BNNMT), web_fetch slug 440749 (118/TT-BCA).
+- Ngày phát hiện: 2026-07-20 20:08 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:637c2eca-28bc-4e1b-b66f-7d63310e5631 (Đệ #1 Discovery — heartbeat 2026-07-20 20:03)
+
+---
 
 ### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — 3 văn bản mới trong sitemap_thongtu (chưa ghi nhận)
 
