@@ -28,7 +28,7 @@ tags:
   - blockchain
 docid: "218950"
 source: vanban.chinhphu.vn
-source-url: "https://vanban.chinhphu.vn/?pageid=27160&docid=218906"
+source-url: "https://vanban.chinhphu.vn/?pageid=27160&docid=218950"
 slug: 440680
 so-dieu: 23
 so-chuong: 4
