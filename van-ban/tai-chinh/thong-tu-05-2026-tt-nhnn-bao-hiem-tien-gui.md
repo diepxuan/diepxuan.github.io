@@ -9,8 +9,24 @@ tags:
   - nhnn
   - thong-tu
   - han-muc-chi-tra
+so_hieu: 05/2026/TT-NHNN
+ngay_ban_hanh: 31/03/2026
+ngay_hieu_luc: 13/07/2026
+nguoi_ky: Thống đốc Ngân hàng Nhà nước (Đoàn Thái Sơn)
+trich_yeu: "Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam đối với người được bảo hiểm tiền gửi theo khoản 1 Điều 22 Luật Bảo hiểm tiền gửi; hạn mức chi trả tối đa 350.000.000 đồng (350 triệu đồng) cho tất cả khoản tiền gửi được bảo hiểm (gốc + lãi) của một người tại một tổ chức tham gia; hiệu lực 13/7/2026; căn cứ Luật Bảo hiểm tiền gửi 111/2025/QH15"
+linh_vuc: Tài chính / Bảo hiểm tiền gửi
+co_quan_ban_hanh: Ngân hàng Nhà nước Việt Nam
 docid: 440800
-source: div.gov.vn; vanban.chinhphu.vn
+source_url: https://luatvietnam.vn/tai-chinh/thong-tu-05-2026-tt-nhnn-440800.html
+can_cu_phap_ly:
+  - Luật Bảo hiểm tiền gửi số 111/2025/QH15
+  - Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12
+  - Nghị định số 26/2025/NĐ-CP
+van_ban_lien_quan:
+  - 280/2026/NĐ-CP (tổ chức Bảo hiểm tiền gửi Việt Nam, hiệu lực 13/7/2026)
+ngay_tao: 2026-07-20
+lastedit: 2026-07-20
+trang_thai: Hoàn thiện
 ---
 
 # QUY ĐỊNH HẠN MỨC CHI TRẢ TIỀN BẢO HIỂM CỦA BẢO HIỂM TIỀN GỬI VIỆT NAM
