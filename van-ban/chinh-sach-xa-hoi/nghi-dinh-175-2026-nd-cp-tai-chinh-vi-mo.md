@@ -7,7 +7,7 @@ tags: [nghi-dinh, tai-chinh-vi-mo, to-chuc-chinh-tri-xa-hoi, phi-chinh-phu]
 so_hieu: "175/2026/NĐ-CP"
 loai_van_ban: "Nghị định"
 co_quan_ban_hanh: "Chính phủ"
-ngay_ban_hanh: "15/05/2026"
+ngay_ban_hanh: "01/07/2026"
 ngay_hieu_luc: "01/07/2026"
 trich_yeu: "Quy định về tổ chức, hoạt động của chương trình, dự án tài chính vi mô của tổ chức chính trị - xã hội, tổ chức phi chính phủ"
 linh_vuc: "Chính sách xã hội"
@@ -40,43 +40,6 @@ Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam;
 
 Chính phủ ban hành Nghị định quy định về tổ chức, hoạt động của chương trình, dự án tài chính vi mô của tổ chức chính trị - xã hội, tổ chức phi chính phủ.
 
-Điều 1. Nghị định này thay thế Quyết định số 20/2017/QĐ-TTg ngày 12 tháng 6 năm 2017 của Thủ tướng Chính phủ quy định về hoạt động của chương trình, dự án tài chính vi mô của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức phi chính phủ.
-
-Điều 2. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
-
-### Điều 3. Các thành viên Chính phủ, Thủ tướng Chính phủ, Thống đốc Ngân hàng Nhà nước Việt Nam và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
-
-Nơi nhận:
-- Ban Bí thư Trung ương Đảng;
-- Thủ tướng, các Phó Thủ tướng Chính phủ;
-- Các bộ, cơ quan ngang bộ;
-- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
-- Văn phòng Trung ương và các Ban của Đảng;
-- Văn phòng Tổng Bí thư;
-- Văn phòng Chủ tịch nước;
-- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
-- Văn phòng Quốc hội;
-- Tòa án nhân dân tối cao;
-- Viện kiểm sát nhân dân tối cao;
-- Kiểm toán nhà nước;
-- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
-- Cơ quan trung ương của các tổ chức chính trị - xã hội;
-- VPCP: BTCN, các PCN, Trợ lý, Thư ký TTg và các PTTg, các Vụ, Cục, đơn vị trực thuộc, Công báo;
-- Lưu: VT, NC (2).
-
-TM. CHÍNH PHỦ
-THỦ TƯỚNG
-Lê Minh Hưng
-
----
-
-# NỘI DUNG CHI TIẾT
-
-(Nguồn: OCR từ PDF gốc 175-ndcp.signed.pdf, 41 trang, chất lượng tốt)
-
----
-
-## Chương I - QUY ĐỊNH CHUNG
 
 ### Điều 1. Phạm vi điều chỉnh
 
