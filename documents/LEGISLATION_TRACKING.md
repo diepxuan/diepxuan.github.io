@@ -1,3 +1,71 @@
+## Cập nhật 2026-07-21 v1 (Đệ #1 Discovery — heartbeat 2026-07-21 06:31 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới từ sitemap — 1 văn bản đã có trong sitemap nhưng chưa ghi nhận
+
+Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00). So với reference:
+- **sitemap_nghidinh**: = Không đổi (17:56:45+07:00 = reference)
+- **sitemap_thongtu**: = Không đổi (11:56:35+07:00 = reference)
+
+Tuy nhiên, quét tất cả 18 entry `-d1` mới trong batch 11:28–11:56 ngày 20/7 và so sánh với tracking hiện tại, phát hiện **1 văn bản đã có trong sitemap từ batch trước nhưng chưa ghi nhận** trong LEGISLATION_TRACKING.md (do giới hạn 5 văn bản/lần từ các vòng trước). Giới hạn 5/lần — ghi nhận 1:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **12/2026/TT-TANDTC** | **30/05/2026** | **Quy định về nội quy phiên tòa, phiên họp và việc ghi âm lời nói, ghi hình ảnh diễn biến phiên tòa, phiên họp** — quy định nguyên tắc tổ chức phiên tòa, phiên họp; nội quy phiên tòa; ghi âm lời nói, ghi hình ảnh diễn biến; phạm vi áp dụng: phiên tòa xét xử sơ thẩm, phúc thẩm, giám đốc thẩm, tái thẩm (hình sự, hành chính, dân sự, hôn nhân, kinh doanh, thương mại, lao động); căn cứ Luật Tổ chức TAND 34/2024/QH15 (sửa 81/2025, 106/2025, 116/2025, 142/2025, 150/2025), Bộ luật Tố tụng hình sự 101/2015/QH13 (sửa 02/2021, 34/2024, 59/2024, 99/2025, 103/2025, 105/2025, 106/2025, 128/2025), Bộ luật Tố tụng dân sự 92/2015/QH13 (sửa nhiều lần), Luật Tố tụng hành chính 93/2015/QH13 (sửa 55/2019, 34/2024, 85/2025, 102/2025); người ký Chánh án TANDTC; hiệu lực chưa xác minh | Tư pháp / Tòa án | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440756). Title: "Quy định nội quy phiên tòa và ghi âm hình ảnh phiên họp" ✅. Ngày ban hành **30/5/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 5 năm 2026). Đã xuất hiện trong sitemap từ batch trước — bỏ sót do giới hạn 5 văn bản/lần. **ƯU TIÊN THẤP** — văn bản tố tụng tòa án chuyên đề. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với reference 20/7 17:56/11:56+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | 2026-07-20 11:56:35+07:00 | = Không đổi | ✅ Không đổi |
+
+### Các entry mới trong batch 11:28–11:56 ngày 20/7 — đã ghi nhận trước đó (bỏ qua)
+
+| Slug | Số hiệu | lastmod | Trích yếu | Trạng thái |
+|---|---:|:---:|---|---|
+| 440815 | 103/2026/TT-BQP | 11:56:35 | Điều chỉnh trợ cấp quân nhân phục viên +8% từ 01/7/2026 | Đã ghi nhận |
+| 440814 | 32/2026/TT-BNNMT | 11:56:35 | Bãi bỏ văn bản pháp luật Bộ NN&MT | Đã ghi nhận |
+| 440800 | 05/2026/TT-NHNN | 11:56:35 | Quy định hạn mức chi trả bảo hiểm tiền gửi | Đã ghi nhận |
+| 440798 | 58/2026/TT-BGDĐT | 11:56:35 | Quy chế tổ chức và hoạt động cơ sở GDĐH | Đã ghi nhận |
+| 440773 | 31/2026/TT-BYT | 11:56:35 | Hướng dẫn NĐ 289/2025 về cơ chế pháp luật | Đã ghi nhận |
+| 440756 | **12/2026/TT-TANDTC** | 11:56:35 | Nội quy phiên tòa và ghi âm hình ảnh | **⭐ MỚI — ghi nhận lần này** |
+| 440749 | 118/2026/TT-BCA | 11:56:35 | Sửa đổi TT 17/2024 về căn cước | Đã ghi nhận |
+| 440690 | 59/2026/TT-BGDĐT | 11:56:35 | Nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu | Đã ghi nhận |
+| 440661 | 93/2026/TT-BTC | 11:56:35 | Quy định về tem điện tử rượu và thuốc lá | Đã ghi nhận |
+| 440577 | 54/2026/TT-BXD | 11:56:35 | Sửa đổi quản lý cảng thủy nội địa | Đã ghi nhận |
+| 440563 | 51/2026/TT-BXD | 11:56:35 | Quy chế an toàn hàng không dân dụng | Đã ghi nhận |
+| 440562 | 45/2026/TT-BXD | 11:56:35 | Sửa đổi đăng kiểm giao thông đường bộ | Đã ghi nhận |
+| 440483 | 89/2026/TT-BTC | 11:37:26 | Quy định chi tiết Luật QL thuế và NĐ 252/2026 | Đã ghi nhận |
+| 440467 | 99/2026/TT-BTC | 11:56:35 | Tài chính cho giảng viên điện hạt nhân | Đã ghi nhận |
+| 440448 | 37/2026/TT-BKHCN | 11:56:35 | Quy định chứng chỉ vô tuyến điện nghiệp dư | Đã ghi nhận |
+| 440247 | 30/2026/TT-BNNMT | 11:56:35 | Kỹ thuật bay địa chất phổ gamma | Đã ghi nhận |
+| 440237 | 54/2026/TT-BGDĐT | 11:56:35 | Chương trình đào tạo đại học mới nhất | Đã ghi nhận |
+| 440236 | 53/2026/TT-BGDĐT | 11:56:35 | Quy chế tuyển sinh và đào tạo sau đại học | Đã ghi nhận |
+| 440799 | **31/2026/TT-BNNMT** | 11:28:38 | Định giá rừng và chi trả dịch vụ các-bon | **Đã ghi nhận — thêm batch 11:28 riêng** |
+
+### Ưu tiên tiếp theo
+
+1. **282/2026/NĐ-CP**: Chưa ban hành — sitemap_nghidinh mới nhất = 284 (lastmod 18/7 08:38)
+2. **42/2026/NĐ-CP**: Định giá rừng và dịch vụ các-bon — căn cứ NĐ 180/2026 (slug 440799, web_fetch xác nhận, 15/7/2026)
+3. **Verify docid** 12/TT-TANDTC, 32/TT-NHNN, 59/TT-BGDDT trên vanban.chinhphu.vn
+4. **Tạo file van-ban** cho 12/TT-TANDTC (ƯU TIÊN THẤP)
+5. **OCR/crawl** các văn bản đang ở trạng thái Stub
+
+### Ghi chú xử lý
+
+- **1 văn bản được ghi nhận** lần này: 12/TT-TANDTC (nội quy phiên tòa, 30/5/2026) — bỏ sót từ batch trước do giới hạn 5 văn bản/lần.
+- **sitemap_nghidinh ổn định hoàn toàn** — không đổi so với reference (17:56:45+07:00).
+- **sitemap_thongtu ổn định hoàn toàn** — không đổi so với reference (11:56:35+07:00).
+- Tất cả 17 entry `-d1` còn lại trong batch 11:28–11:56 đã có trong tracking từ các vòng trước.
+- **31/TT-BNNMT** (định giá rừng và chi trả dịch vụ các-bon, slug 440799) — web_fetch xác nhận đầy đủ nội dung, căn cứ NĐ 180/2026/NĐ-CP (dịch vụ các-bon rừng, 21/5/2026), Luật Lâm nghiệp 16/2017 (sửa 16/2023, 31/2024, 146/2025), Luật Giá 16/2023 (sửa 44/2024, 61/2024, 95/2025, 140/2025).
+- **103/TT-BQP** (điều chỉnh trợ cấp quân nhân +8%, slug 440815) — web_fetch xác nhận, căn cứ NĐ 162/2026 (lương hưu, trợ cấp BHXH), hiệu lực từ 01/7/2026, điều chỉnh tăng 8%.
+- **59/TT-BGDDT** (nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu, slug 440690) — web_fetch xác nhận đầy đủ, 15/7/2026, căn cứ NĐ 235/2026 (hợp đồng trong đơn vị sự nghiệp công lập).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00, batch 11:28:38), web_fetch slug 440756 (12/TT-TANDTC), web_fetch slug 440815 (103/TT-BQP), web_fetch slug 440690 (59/TT-BGDDT), web_fetch slug 440799 (31/TT-BNNMT).
+- Ngày phát hiện: 2026-07-21 06:31 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:8a743667-d431-495f-a4c3-e5b229a4d02e (Đệ #1 Discovery — heartbeat 2026-07-21 06:31)
+
+---
+
 ## Cập nhật 2026-07-16 v3 (Đệ #1 Discovery — heartbeat 2026-07-16 08:32 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới trong sitemap_nghidinh — 3 văn bản mới trong sitemap_thongtu (chưa ghi nhận)
