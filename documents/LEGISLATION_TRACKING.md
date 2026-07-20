@@ -1,3 +1,55 @@
+## Cập nhật 2026-07-20 v6 (Đệ #1 Discovery — 2026-07-20 22:02 ICT)
+
+### Kết quả: 2 văn bản MỚI trong sitemap_nghidinh (sitemap lastmod 2026-07-20 17:56:45+07:00 = ref)
+
+Quét lại sitemap_nghidinh + sitemap_thongtu lúc 22:02 ICT. sitemap_nghidinh lastmod = ref 2026-07-20 17:56:45+07:00 (không đổi vs batch v5). sitemap_thongtu = ref 2026-07-20 11:56:35+07:00 (không đổi). **Phát hiện 2 văn bản MỚI trong sitemap_nghidinh** (entry slug mới chưa ghi nhận trong tracking):
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **103/2026/TT-BCA** | **25/06/2026** | **Quy định phân cấp, thẩm quyền, trình tự, thủ tục và một số nội dung thực hiện dự án đầu tư xây dựng công trình an ninh** — quy định phân cấp, thẩm quyền, thủ tục dự án đầu tư xây dựng công trình an ninh; căn cứ Luật Xây dựng 135/2025/QH15, Luật Quy hoạch đô thị 47/2024/QH15 (sửa 71/2025, 144/2025), Luật Đầu tư công 58/2024/QH15 (sửa 90/2025), Luật PCCC; người ký Bộ trưởng Bộ Công an; **ƯU TIÊN TRUNG BÌNH** — phân cấp thẩm quyền dự án đầu tư công trình an ninh | Đầu tư / An ninh | **440214** ✅ (luatvietnam) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440214). Title: "Quy định phân cấp, thẩm quyền và thủ tục dự án an ninh" ✅. Ngày ban hành **25/6/2026** xác minh (Hà Nội, ngày 25 tháng 6 năm 2026). Căn cứ Luật Xây dựng 135/2025, Luật Đầu tư công 58/2024 (sửa 90/2025), Luật PCCC. **ƯU TIÊN TRUNG BÌNH** — thủ tục hành chính đầu tư công. |
+| **277/2026/NĐ-CP** | **09/07/2026** | **Về Hạ tầng văn hóa số** — quy định chi tiết khoản 1, 3, 5 Điều 10 NQ 28/2026/QH16 về phát triển văn hóa Việt Nam: phát triển hạ tầng văn hóa số; cơ sở dữ liệu văn hóa, kho dữ liệu văn hóa số quốc gia, nền tảng số dùng chung; chính sách thu hút đầu tư, hỗ trợ phát triển công nghệ số, sản phẩm/dịch vụ văn hóa số; trung tâm đổi mới sáng tạo văn hóa; căn cứ NQ 28/2026/QH16; người ký Thủ tướng; **ƯU TIÊN TRUNG BÌNH** — hạ tầng văn hóa số, chính sách công nghệ văn hóa | Văn hóa / Số hóa | **440755** ✅ (luatvietnam) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440755). Title: "Nghị định 277/2026/NĐ-CP về Hạ tầng văn hóa số" ✅. Ngày ban hành **9/7/2026** xác minh (Hà Nội, ngày 09 tháng 7 năm 2026). Căn cứ NQ 28/2026/QH16 về phát triển văn hóa Việt Nam. **ƯU TIÊN TRUNG BÌNH** — Nghị định hạ tầng văn hóa số. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-20 17:56/11:56+07:00
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-20 17:56/11:56+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi | ✅ 2 entry d1 mới (440755 NĐ 277, 440214 TT 103/BCA) |
+| sitemap_thongtu | 2026-07-20 11:56:35+07:00 | = Không đổi | ✅ Không đổi |
+
+### Tóm tắt lũy kế batch 2026-07-20 (Đệ #1)
+
+| # | Số hiệu | Ngày | Trích yếu | Nhóm | DocID | Trạng thái |
+|---:|---|:---:|---|---|---|---:|
+| 1 | **103/2026/TT-BQP** | 17/07 | Điều chỉnh trợ cấp quân nhân phục viên/xuất ngũ | Quốc phòng | 440815 | Hoàn thiện ✅ |
+| 2 | **32/2026/TT-BNNMT** | 17/07 | Bãi bỏ văn bản pháp luật Bộ Nông nghiệp và Môi trường | NN&MT | 440814 | Stub — cần bổ sung |
+| 3 | **05/2026/TT-NHNN** | 31/03 | Hạn mức chi trả BHTGVN 350 triệu đồng (hiệu lực 13/07/2026) | Tài chính | 440800 | Hoàn thiện ✅ |
+| 4 | **58/2026/TT-BGDĐT** | 07/07 | Quy chế tổ chức và hoạt động cơ sở giáo dục đại học | Giáo dục | 440798 | Stub — cần bổ sung |
+| 5 | **31/2026/TT-BNNMT** | 15/07 | Định giá rừng, chi trả dịch vụ các-bon của rừng | Lâm nghiệp | 440799 | Stub — cần bổ sung |
+| 6 | **99/2026/TT-BTC** | 10/07 | Chế độ tài chính cho giảng viên/sinh viên điện hạt nhân | Tài chính/NNPT | 440467 | Hoàn thiện ✅ |
+| 7 | **37/2026/TT-BKHCN** | 30/06 | Chứng chỉ vô tuyến điện nghiệp dư | KHCN | 440448 | Chưa có — mới |
+| 8 | **31/2026/TT-BYT** | 16/07 | Hướng dẫn NĐ 289/2025 về cơ chế pháp luật (Bộ Y tế) | Y tế | 440773 | Chưa có — mới |
+| 9 | **103/2026/TT-BCA** | 25/06 | Phân cấp thẩm quyền dự án đầu tư công trình an ninh | Đầu tư | 440214 | Chưa có — mới |
+| 10 | **277/2026/NĐ-CP** | 09/07 | Về Hạ tầng văn hóa số | Văn hóa/Số | 440755 | Chưa có — mới |
+
+### Ưu tiên tiếp theo
+
+1. **103/TT-BQP** + **05/TT-NHNN** (hoàn thiện): ƯU TIÊN CAO — cần Đệ #4 review trước khi close PR #258.
+2. **99/TT-BTC** (tài chính điện hạt nhân, 10/7): ƯU TIÊN TRUNG BÌNH — cần crawl + tạo file van-ban.
+3. **277/NĐ-CP** (hạ tầng văn hóa số, 9/7): ƯU TIÊN TRUNG BÌNH — cần crawl + tạo file van-ban.
+4. **103/TT-BCA** (phân cấp dự án an ninh, 25/6): ƯU TIÊN TRUNG BÌNH — cần crawl + tạo file van-ban.
+5. **32/TT-BNNMT, 58/TT-BGDĐT, 31/TT-BNNMT** (stub): ƯU TIÊN TRUNG BÌNH — cần bổ sung nội dung.
+6. **37/TT-BKHCN, 31/TT-BYT**: ƯU TIÊN THẤP — cần crawl.
+
+### Ghi chú
+
+- 10 văn bản mới phát hiện trong batch 2026-07-20 (5 đầu batch + 5 lần này).
+- sitemap_nghidinh và sitemap_thongtu đều ổn định (lastmod không đổi vs ref).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), web_fetch slug 440755 (NĐ 277), web_fetch slug 440214 (TT 103/BCA).
+- Ngày phát hiện: 2026-07-20 22:02 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:3fc9dae5-17b2-40ef-8e42-ab5630f042ac (Đệ #1 Discovery — 2026-07-20 22:02 ICT)
+
+---
+
 ## Cập nhật 2026-07-20 v5 (Đệ #1 Discovery — 2026-07-20 21:09 ICT)
 
 ### Kết quả: 3 văn bản MỚI trong sitemap_thongtu (sitemap lastmod 2026-07-20 11:56:35+07:00)
@@ -21,7 +73,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00 vs ref 2026-07-19 17:5
 
 | Slug | lastmod | Nội dung | Trạng thái trong tracking |
 |---|:---:|---|---|
-| **440467** | 2026-07-20 11:56 | **99/2026/TT-BTC** (tài chính điện hạt nhân, 10/7/2026) | **Mới** — ghi nhận mới |
+| **440467** | 2026-07-20 11:56 | **99/2026/TT-BTC** (tài chính điện hạt nhân, 10/7/2026) | **Hoàn thiện** ✅ |
 | **440448** | 2026-07-20 11:56 | **37/2026/TT-BKHCN** (chứng chỉ vô tuyến điện nghiệp dư, 30/6/2026) | **Mới** — ghi nhận mới |
 | **440773** | 2026-07-20 09:55 | **31/2026/TT-BYT** (hướng dẫn NĐ 289/2025, 16/7/2026) | **Mới** — ghi nhận mới |
 
@@ -5927,4 +5979,3 @@ Quét sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00) + sitemap_thongtu (la
 - Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), phân tích 669 entry sitemap_thongtu, web_fetch slug 440483 (89/TT-BTC), web_fetch slug 440773 (31/TT-BYT), web_fetch slug 440562 (45/TT-BXD).
 - Ngày phát hiện: 2026-07-20 17:02 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:f36dd2e8-74de-4e2a-9f1d-8c6bede87a4b (Đệ #1 Discovery — 2026-07-20 16:59)
-
