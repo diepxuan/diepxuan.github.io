@@ -5719,3 +5719,51 @@ So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (la
 ---
 
 *Báo cáo: 2026-07-18 09:32 ICT | Reviewer: Đệ #4 subagent | Commit fix: cc55ef34*
+
+---
+
+## Cập nhật 2026-07-20 v4 (Đệ #1 Discovery — 2026-07-20 15:33 ICT)
+
+### Kết quả: 3 văn bản MỚI trong sitemap_thongtu (sitemap 2026-07-20 11:56+07:00)
+
+Quét sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00). sitemap_nghidinh không đổi (vẫn 2026-07-19 17:56:11+07:00). sitemap_thongtu cập nhật nhưng 5 văn bản từ v3 (103/TT-BQP, 32/TT-BNNMT, 05/TT-NHNN, 58/TT-BGDĐT, 31/TT-BNNMT) đã ghi nhận. Phát hiện **3 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **31/2026/TT-BYT** | **16/07/2026** | **Quy định chi tiết định mức kinh phí xây dựng thông tư của Bộ Y tế** — quy định định mức khoán chi cho xây dựng thông tư của Bộ Y tế; bao gồm mức chi cho soạn thảo, ban hành thông tư mới, thông tư thay thế, thông tư sửa đổi bổ sung; phân bổ định mức theo từng nhiệm vụ; căn cứ Nghị quyết 197/2025/QH15 (cơ chế đột phá trong xây dựng pháp luật), Nghị định 289/2025/NĐ-CP; người ký Bộ trưởng Bộ Y tế; **ƯU TIÊN THẤP** — văn bản hành chính nội bộ | Y tế / Hành chính | **Chưa xác minh** (slug 440773) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440773). Title: "Hướng dẫn Nghị định 289/2025/NĐ-CP về cơ chế pháp luật" ✅. Ngày ban hành **16/7/2026** xác minh từ luatvietnam.vn. Căn cứ Nghị quyết 197/2025/QH15 và NĐ 289/2025/NĐ-CP. **ƯU TIÊN THẤP** — văn bản hành chính nội bộ Bộ Y tế. |
+| **118/2026/TT-BCA** | **29/06/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 17/2024/TT-BCA về Luật Căn cước** — sửa đổi, bổ sung Thông tư 17/2024/TT-BCA (hướng dẫn Luật Căn cước); căn cứ Luật Căn cước 26/2023/QH15 (sửa 118/2025/QH15), NĐ 02/2025/NĐ-CP (sửa 11/2025/NĐ-CP), NĐ 70/2024/NĐ-CP (sửa NĐ 58/2026/NĐ-CP); người ký Bộ trưởng Bộ Công an (Lương Tam Quang); **ƯU TIÊN TRUNG BÌNH** — cập nhật hướng dẫn căn cước | Công an / Căn cước | **Chưa xác minh** (slug 440749) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440749). Title: "Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 29 tháng 6 năm 2026). Căn cứ Luật Căn cước sửa đổi 118/2025, NĐ 58/2026/NĐ-CP. **ƯU TIÊN TRUNG BÌNH** — cập nhật hướng dẫn căn cước. |
+| **89/2026/TT-BTC** | **30/06/2026** | **Quy định chi tiết một số điều của Luật Quản lý thuế và Nghị định 252/2026/NĐ-CP** — quy định chi tiết Luật QL thuế 108/2025/QH15 và NĐ 252/2026/NĐ-CP; hướng dẫn thi hành Luật Quản lý thuế; căn cứ Luật QL thuế 108/2025, NĐ 252/2026, NĐ 29/2025/NĐ-CP (sửa 166/2025/NĐ-CP); người ký Bộ trưởng Bộ Tài chính; **ƯU TIÊN CAO** — hướng dẫn thi hành Luật QL thuế mới, tác động toàn bộ doanh nghiệp và cá nhân | Thuế / Tài chính | **Chưa xác minh** (slug 440483) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440483). Title: "Quy định chi tiết Luật Quản lý thuế và Nghị định 252/2026/NĐ-CP" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Cùng đợt với 87/TT-BTC (TNCN) và NĐ 252/2026. **ƯU TIÊN CAO** — hướng dẫn Luật QL thuế mới 2025. |
+
+### Tình trạng sitemap luatvietnam — lastmod 2026-07-20 11:56+07:00
+
+| Sitemap | lastmod hiện tại | So với batch tham chiếu | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-19 17:56:11+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | 2026-07-20 11:56:35+07:00 | = Không đổi so với v3 (2026-07-20 11:56+07:00) | ✅ Không có văn bản mới chưa ghi nhận ngoài v3 |
+
+### Tóm tắt phát hiện v4 vs v3
+
+- **5 văn bản v3** (103/TT-BQP, 32/TT-BNNMT, 05/TT-NHNN, 58/TT-BGDĐT, 31/TT-BNNMT) đã ghi nhận → không lặp lại
+- **3 văn bản mới v4**: 31/TT-BYT (định mức kinh phí thông tư BYT), 118/TT-BCA (sửa TT 17/2024 căn cước), 89/TT-BTC (hướng dẫn Luật QL thuế + NĐ 252)
+- **89/TT-BTC** là phát hiện nổi bật nhất — hướng dẫn thi hành Luật QL thuế 108/2025 cùng đợt với NĐ 252/2026, 87/TT-BTC (TNCN)
+- **87/TT-BTC** và **89/TT-BTC** cùng đợt 30/6/2026 — đều hướng dẫn luật thuế mới
+- **87/TT-BTC** đã có docid 218772 từ batch trước — 89/TT-BTC cần xác minh docid
+
+### Ưu tiên tiếp theo
+
+1. **89/2026/TT-BTC** (hướng dẫn Luật QL thuế, 30/6): ƯU TIÊN CAO — tác động toàn bộ doanh nghiệp. Ưu tiên cao hơn 87/TT-BTC (cùng đợt, hướng dẫn TNCN).
+2. **118/2026/TT-BCA** (sửa TT 17/2024 căn cước, 29/6): ƯU TIÊN TRUNG BÌNH — cập nhật hướng dẫn căn cước theo NĐ 58/2026.
+3. **31/2026/TT-BYT** (định mức kinh phí thông tư BYT, 16/7): ƯU TIÊN THẤP — văn bản hành chính nội bộ.
+4. **Theo dõi sitemap**: Tiếp tục theo dõi sitemap_thongtu (cập nhật hàng ngày 11:56+07:00) và sitemap_nghidinh (cập nhật 17:56+07:00).
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** được thêm vào tracking lần này: 31/TT-BYT (định mức kinh phí thông tư BYT, 16/7/2026), 118/TT-BCA (sửa TT căn cước, 29/6/2026), 89/TT-BTC (hướng dẫn Luật QL thuế, 30/6/2026).
+- **89/2026/TT-BTC** là phát hiện nổi bật nhất — hướng dẫn thi hành Luật QL thuế 108/2025 cùng đợt với NĐ 252/2026.
+- **31/TT-BYT** (slug 440773): Thực chất là hướng dẫn Nghị quyết 197/2025 và NĐ 289/2025 về cơ chế pháp luật trong Bộ Y tế — ưu tiên thấp.
+- **118/TT-BCA** (slug 440749): Sửa đổi TT 17/2024/TT-BCA căn cứ theo Luật Căn cước sửa đổi 118/2025/QH15 và NĐ 58/2026/NĐ-CP.
+- **sitemap_nghidinh ổn định hoàn toàn** — không có NĐ-CP mới, 285 chưa ban hành.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-19 17:56:11+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), web_fetch slug 440773 (31/TT-BYT), web_fetch slug 440749 (118/TT-BCA), web_fetch slug 440483 (89/TT-BTC).
+- Ngày phát hiện: 2026-07-20 15:33 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:ea507c33-6a85-4bef-90cb-903d7c13ec4e (Đệ #1 Discovery — 2026-07-20 15:33)
+
