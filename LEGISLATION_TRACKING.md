@@ -1,6 +1,6 @@
 # LEGISLATION_TRACKING.md
 
-> **Đệ #4 Discovery — Báo cáo văn bản pháp luật mới**
+> **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
 > Phiên bản: 2026-07-20T14:35 GMT+7
 > Nguồn quét: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 14:32) + sitemap_thongtu (lastmod 2026-07-20 14:32)
 > **Ghi chú lần quét này**: 5 văn bản mới từ batch sitemap lastmod 2026-07-20 11:56+07:00 (sitemap_thongtu). Không có NĐ-CP mới trong sitemap_nghidinh (đã có đến NĐ 284). Sitemap_nghiquyet.xml và sitemap_quyetdinh.xml vẫn 404. Tất cả 5 văn bản xác minh toàn văn trên luatvietnam.vn.
@@ -437,6 +437,15 @@
 
 ---
 
+**Review #4 findings (22:06 ICT 2026-07-21):**
+File: `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` ✅. **34,841 dòng**, 192 heading Điều (1-101, 10 Chương I-X).
+✅ Metadata frontmatter sạch (title, date, modified, group, tags, docid, source).
+❌ Bảng THÔNG TIN VĂN BẢN **nhân đôi toàn bộ dòng** (L26-47, mỗi row xuất hiện 2 lần) — OCR artifact.
+❌ Ký tự `§` rác trong công thức tài chính (L2784, L2787, L3653, L3756, L9395).
+❌ Ký tự `€©)` và `©:` trong bullet list (L6771, L8081).
+⚠ Điều 44 và 45: **missing heading** `### Điều X.` — cần xác minh nguồn (bảng biểu L22490-22510 tham chiếu rõ Điều 44).
+**OCR quality gate: FAIL** — cần fix 4 loại lỗi trên trước khi merge. Đánh dấu **CẦN SỬA**. Review by Đệ #4 Content Reviewer 2026-07-21 22:06 ICT.
+
 ### 2. Thông tư 31/2026/TT-BYT — Định mức kinh phí xây dựng thông tư của Bộ Y tế
 
 | Trường | Giá trị |
@@ -665,4 +674,113 @@ van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md
 **Tracking notes (chưa commit):**
 - 103/2026/TT-BQP: docid chưa xác định, file không tìm thấy trong workspace
 - Random sample 144/2026: verify `ø` là ghi chú hay lỗi OCR còn sót
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-07-21T20:32 ICT
+
+> **Đệ #1 Discovery — Heartbeat 2026-07-21 20:29 ICT. Quét sitemap luatvietnam.vn. vanban.chinhphu.vn/sitemap_nghidinh.xml và sitemap_thongtu.xml đều 404. Giới hạn 5 văn bản/lần.**
+
+### 1. Thông tư 101/2026/TT-BTC — Tổ chức bồi dưỡng và cấp Chứng chỉ kế toán trưởng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 101/2026/TT-BTC |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Tài chính |
+| **Ban hành** | 15/07/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh từ văn bản gốc) |
+| **Chủ đề** | Kế toán, Bồi dưỡng chuyên môn |
+| **LuatVietnam** | `ke-toan/thong-tu-101-2026-tt-btc-quy-dinh-to-chuc-boi-duong-va-cap-chung-chi-ke-toan-truong-440981-d1.html` |
+| **Sitemap lastmod** | 2026-07-21 11:19 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định về tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng. Đối tượng: cơ sở bồi dưỡng và cá nhân tham dự khóa học. Tiêu chuẩn học viên: tối thiểu 02 năm (ĐH) hoặc 03 năm (TC/CĐ) kinh nghiệm tài chính-kế toán. Điều kiện cơ sở bồi dưỡng: giảng viên ≥05 năm kinh nghiệm. |
+| **Ghi chú ưu tiên** | **ƯU TIÊN TRUNG BÌNH** — thay thế Quyết định 234/2003/QĐ-BTC; liên quan chứng chỉ hành nghề kế toán. |
+
+### 2. Thông tư 34/2026/TT-NHNN — Quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 34/2026/TT-NHNN |
+| **Loại** | Thông tư |
+| **Cơ quan** | Ngân hàng Nhà nước Việt Nam |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | 30/06/2026 |
+| **Chủ đề** | Ngoại hối, Đầu tư quốc tế |
+| **LuatVietnam** | `dau-tu/thong-tu-34-2026-tt-nhnn-huong-dan-quan-ly-ngoai-hoi-cho-dau-tu-ra-nuoc-ngoai-440944-d1.html` |
+| **Sitemap lastmod** | 2026-07-21 09:45 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Hướng dẫn quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài. Nội dung: chuyển tiền ra nước ngoài trước/sau khi có Giấy CNĐKĐT; mở và sử dụng tài khoản vốn đầu tư; đăng ký giao dịch ngoại hối; chuyển vốn, lợi nhuận về VN. Căn cứ NĐ 103/2026/NĐ-CP về đầu tư ra nước ngoài và Luật Đầu tư 143/2025/QH15. |
+| **Ghi chú ưu tiên** | **ƯU TIÊN CAO** — hướng dẫn chi tiết NĐ 103/2026 về đầu tư ra nước ngoài; tác động đến doanh nghiệp Việt Nam đầu tư ra nước ngoài. |
+
+### 3. Thông tư 126/2026/TT-BCA — Chi từ Quỹ giảm thiểu tai nạn giao thông đường bộ
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 126/2026/TT-BCA |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Công an |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh từ văn bản gốc) |
+| **Chủ đề** | Giao thông, An toàn, Quỹ xã hội |
+| **LuatVietnam** | `giao-thong/thong-tu-126-2026-tt-bca-quy-dinh-chi-tu-quy-giam-thieu-tai-nan-giao-thong-duong-bo-440937-d1.html` |
+| **Sitemap lastmod** | 2026-07-21 10:02 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định trình tự, thủ tục thực hiện nội dung chi từ Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ (thành lập theo NĐ 279/2025/NĐ-CP). Đối tượng nhận hỗ trợ: nạn nhân bị thương (tỷ lệ TT cơ thể >31%), hộ gia đình có nạn nhân tử vong — đang gặp khó khăn kinh tế. Không chi cho nạn nhân có nồng độ cồn/chất ma túy, phương tiện không đủ điều kiện. |
+| **Ghi chú ưu tiên** | **ƯU TIÊN TRUNG BÌNH** — thủ tục chi Quỹ tai nạn giao thông; liên quan trực tiếp NĐ 279/2025. |
+
+### 4. Thông tư 43/2026/TT-BKHCN — Quy hoạch kênh tần số FM 87-108 MHz
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 43/2026/TT-BKHCN |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Khoa học và Công nghệ |
+| **Ban hành** | 20/07/2026 |
+| **Hiệu lực** | 05/09/2026 |
+| **Chủ đề** | Viễn thông, Tần số vô tuyến, Báo chí |
+| **LuatVietnam** | `thong-tin/thong-tu-43-2026-tt-bkhcn-quy-hoach-va-su-dung-kenh-tan-so-fm-87-108-mhz-440932-d1.html` |
+| **Sitemap lastmod** | 2026-07-21 09:18 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy hoạch phân kênh và sử dụng kênh tần số phát thanh FM băng tần 87-108 MHz. Phụ lục I: quy hoạch phân kênh; Phụ lục II: Đài Tiếng nói Việt Nam; Phụ lục III: cơ quan báo và PTTH tỉnh, thành phố. Thay thế Thông tư 37/2017/TT-BTTTT. Bộ trưởng: Vũ Hải Quân. |
+| **Ghi chú ưu tiên** | **ƯU TIÊN TRUNG BÌNH** — thay thế quy hoạch FM từ 2017; tác động đến hoạt động phát thanh FM toàn quốc. |
+
+### 5. Thông tư 131/2026/TT-BCA — Tiếp công dân khiếu nại, tố cáo trong Công an nhân dân
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 131/2026/TT-BCA |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Công an |
+| **Ban hành** | 30/06/2026 |
+| **Hiệu lực** | Chưa rõ (cần xác minh từ văn bản gốc) |
+| **Chủ đề** | Công an, Tiếp công dân, Tố cáo |
+| **LuatVietnam** | `hanh-chinh/thong-tu-131-2026-tt-bca-quy-dinh-tiep-cong-dan-khieu-nai-to-cao-trong-cong-an-440906-d1.html` |
+| **Sitemap lastmod** | 2026-07-21 11:57 |
+| **Docid** | Chưa xác định |
+| **Mô tả** | Quy định về công tác tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh trong Công an nhân dân. Căn cứ Luật Tiếp công dân sửa đổi (136/2025/QH15), NĐ 154/2026/NĐ-CP. Nội dung: nguyên tắc tiếp công dân; địa điểm, thành phần; tiếp nhận đơn; từ chối tiếp; tiếp công dân trực tuyến; bảo đảm bí mật người tố cáo. |
+| **Ghi chú ưu tiên** | **ƯU TIÊN THẤP** — quy trình hành chính nội bộ Công an; ít tác động đến công chúng rộng rãi. |
+
+---
+
+## GHI CHÉP KHÁC — CẬP NHẬT TRẠNG THÁI (2026-07-21 20:32 ICT)
+
+| Số văn bản | Cập nhật | Ghi chú |
+|-----------|---------|---------|
+| vanban.chinhphu.vn/sitemap_nghidinh.xml | **404** — không truy cập được | Không dùng được từ 2026-07-21 |
+| vanban.chinhphu.vn/sitemap_thongtu.xml | **404** — không truy cập được | Không dùng được từ 2026-07-21 |
+| luatvietnam.vn sitemap_nghidinh | Hoạt động, lastmod 2026-07-21 17:57+07:00 | Nguồn chính hiện tại |
+| luatvietnam.vn sitemap_thongtu | Hoạt động, lastmod 2026-07-21 11:57+07:00 | Nguồn chính hiện tại |
+| Thông tư 32/2026/TT-BNNMT | Cập nhật lastmod 2026-07-21 11:57 | Bãi bỏ văn bản BNNMT |
+| Thông tư 31/2026/TT-BNNMT | Cập nhật lastmod 2026-07-21 11:57 | Định giá rừng + carbon |
+| Thông tư 54/2026/TT-BGDĐT | Cập nhật lastmod 2026-07-21 11:57 | Chương trình đào tạo ĐH |
+| Thông tư 53/2026/TT-BGDĐT | Cập nhật lastmod 2026-07-21 11:57 | Tuyển sinh sau ĐH |
+| Thông tư 59/2026/TT-BGDĐT | Cập nhật lastmod 2026-07-21 11:57 | Nhà giáo hợp đồng |
+| Thông tư 99/2026/TT-BTC | Cập nhật lastmod 2026-07-21 11:57 | Tài chính điện hạt nhân |
+| NĐ 279/2026/NĐ-CP | Cập nhật lastmod 2026-07-21 17:57 | Chức năng Bộ GDĐT |
+| NĐ 278/2026/NĐ-CP | **CHƯA CÓ** trong sitemap_nghidinh — kiểm tra lại | Điều chỉnh giá điện |
+| Nghị định 282/2026/NĐ-CP | **CHƯA CÓ** trong sitemap_nghidinh | Cần xác minh |
+
+*Lần cập nhật tiếp theo: khoảng 22/07/2026 hoặc khi có văn bản mới.*
+*Đệ #1 Discovery — github-io workspace*
 
