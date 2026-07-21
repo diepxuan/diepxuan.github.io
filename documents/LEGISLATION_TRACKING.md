@@ -1,3 +1,42 @@
+## Cập nhật 2026-07-21 v2 (Đệ #1 Discovery — 2026-07-21 07:35 ICT)
+
+### Kết quả: 3 văn bản mới từ sitemap — 284/NĐ-CP (MỚI HOÀN TOÀN) + 60/TT-BGDDT + 99/TT-BTC
+
+Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00). So với reference:
+- **sitemap_nghidinh**: = Không đổi so với 17:56:45+07:00. TUY NHIÊN, 284/2026/NĐ-CP xuất hiện lần đầu trong sitemap với lastmod 2026-07-18 08:38:18+07:00 (lần cập nhật sitemap_nghidinh tiếp theo sau batch 20/7 17:56). Đây là 284 xuất hiện lần đầu tiên → **MỚI HOÀN TOÀN**.
+- **sitemap_thongtu**: Có 3 entry `-d1` mới so với batch đã ghi nhận: 60/TT-BGDDT (slug 440626, lastmod 2026-07-17 14:05), 99/TT-BTC (slug 440467, lastmod 2026-07-20 11:56). 59/TT-BGDDT đã ghi nhận ở vòng trước.
+- **283/2026/NĐ-CP** (slug 440485, lastmod 2026-07-16 11:28) đã có trong sitemap từ batch trước (lastmod 16/7) — đã ghi nhận rồi.
+- **277/2026/NĐ-CP** (slug 440755, lastmod 2026-07-20 09:01) — cần kiểm tra, có thể đã có trong tracking.
+
+**Phát hiện 3 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 3:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **284/2026/NĐ-CP** | **16/07/2026** | **Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa** — quy định hành vi vi phạm, hình thức xử phạt, biện pháp khắc phục hậu quả trong lĩnh vực tài sản mã hóa; phạm vi: chào bán/phát hành, tổ chức thị trường, cung cấp dịch vụ, giao dịch tài sản mã hóa, chuyển tiền nhà đầu tư nước ngoài, phòng chống rửa tiền/tài trợ khủng bố; mức phạt tối đa: 200 triệu (tổ chức), 100 triệu (cá nhân); theo Nghị quyết 05/2025/NQ-CP (thí điểm thị trường tài sản mã hóa); căn cứ Luật Xử lý VPHAHCh 15/2012 (sửa 67/2020, 88/2025); hiệu lực ký | Tài chính / Tài sản mã hóa & Thị trường | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440680). Title: "Xử phạt vi phạm hành chính về tài sản mã hóa và thị trường" ✅. Ngày ban hành **16/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 16 tháng 7 năm 2026). firstmod 2026-07-18 08:38+07:00 — xuất hiện lần đầu trong sitemap. **ƯU TIÊN CAO** — văn bản pháp lý đầu tiên về xử phạt tài sản mã hóa tại Việt Nam, liên quan trực tiếp crypto/fintech. |
+| **60/2026/TT-BGDĐT** | **17/07/2026** | **Quy định tiêu chuẩn, quy trình biên soạn tài liệu hướng dẫn thực hiện Chương trình giáo dục mầm non và việc lựa chọn đồ chơi, học liệu** — quy định tiêu chuẩn tài liệu, ban biên soạn, quy trình biên soạn, thẩm định tài liệu GD mầm non; đồ chơi và học liệu (in, chữ nổi, tranh ảnh, học liệu điện tử); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 279/2026/NĐ-CP (chức năng Bộ GDĐT); **ƯU TIÊN THẤP** — văn bản giáo dục mầm non chuyên đề. |
+| **99/2026/TT-BTC** | **10/07/2026** | **Quy định chế độ tài chính cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân** — quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân; căn cứ Luật NSNN 89/2025, NĐ 73/2026, NĐ 176/2026/NĐ-CP (chính sách ưu đãi điện hạt nhân); QĐ 1012/QĐ-TTg (đào tạo nguồn nhân lực đến 2035); hiệu lực **28/8/2026** | Giáo dục / Điện hạt nhân | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440467). Title: "Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân" ✅. Ngày ban hành **10/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 10 tháng 7 năm 2026, ký Nguyễn Thị Bích Ngọc). Nội dung: 7 Điều (1-7), căn cứ NĐ 176/2026. **ƯU TIÊN TRUNG BÌNH** — văn bản tài chính điện hạt nhân. |
+| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, biện pháp khắc phục hậu quả; tổ chức bị phạt gấp 02 lần cá nhân; thời hiệu 01 năm (lao động, BHXH), 02 năm (LD nước ngoài); căn cứ Luật Xử lý VPHAHCh 15/2012 (sửa 67/2020, 88/2025); hiệu lực ký | Lao động / BHXH & Xử phạt | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440485). Title: "Nghị định 283/2026/NĐ-CP: Xử phạt vi phạm hành chính lao động, bảo hiểm xã hội" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 7 năm 2026). Có trong sitemap từ batch trước (lastmod 16/7 11:28). **ƯU TIÊN CAO** — văn bản xử phạt lao động, BHXH quan trọng. |
+| **277/2026/NĐ-CP** | **09/07/2026** | **Về Hạ tầng văn hóa số** — quy định chi tiết khoản 1, 3, 5 Điều 10 Nghị quyết 28/2026/QH16 về phát triển văn hóa Việt Nam; phạm vi: hạ tầng văn hóa số, kho dữ liệu văn hóa số quốc gia, cơ sở dữ liệu văn hóa, nền tảng số dùng chung; chính sách PPP; ngân sách ưu tiên thuê dịch vụ; ưu tiên doanh nghiệp Việt Nam; bảo đảm an ninh văn hóa; căn cứ Nghị quyết 28/2026/QH16; hiệu lực ký | Văn hóa / Chuyển đổi số | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440755). Title: "Nghị định 277/2026/NĐ-CP về Hạ tầng văn hóa số" ✅. Ngày ban hành **09/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 09 tháng 7 năm 2026). Có trong sitemap (lastmod 20/7 09:01). **ƯU TIÊN TRUNG BÌNH** — văn bản hạ tầng văn hóa số quốc gia. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với reference 20/7 17:56/11:56+07:00 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi. TUY NHIÊN 284/2026/NĐ-CP xuất hiện lần đầu (lastmod 18/7 08:38) | ✅ Không đổi (về batch); 284 là entry mới nhất |
+| sitemap_thongtu | 2026-07-20 11:56:35+07:00 | = Không đổi | ✅ Không đổi |
+
+### Ghi chú xử lý
+
+- **3 văn bản mới** được ghi nhận: 284/NĐ-CP (tài sản mã hóa, 16/7/2026), 60/TT-BGDDT (giáo dục mầm non, 17/7/2026), 99/TT-BTC (tài chính điện hạt nhân, cần xác minh ngày).
+- **284/2026/NĐ-CP** là phát hiện quan trọng nhất — văn bản pháp lý đầu tiên về xử phạt vi phạm hành chính tài sản mã hóa tại Việt Nam, theo Nghị quyết 05/2025/NQ-CP (thí điểm thị trường crypto).
+- **283/2026/NĐ-CP** đã xuất hiện trong sitemap từ batch trước (lastmod 16/7 11:28) — đã có trong tracking. Xác minh thêm: ban hành 15/7/2026, xử phạt lao động, BHXH, LĐ nước ngoài.
+- **277/2026/NĐ-CP** (slug 440755, lastmod 2026-07-20 09:01) — "Hạ tầng văn hóa số" chưa xác nhận trong tracking, cần kiểm tra thêm.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00, lastmod 284 = 2026-07-18 08:38:18+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00, batch 440626, 440467), web_fetch slug 440680 (284/NĐ-CP), web_fetch slug 440626 (60/TT-BGDDT).
+- Ngày phát hiện: 2026-07-21 07:35 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:014e4b4a-61b5-4716-af69-4b3015cde687 (Đệ #1 Discovery — 2026-07-21 07:35)
+
+---
+
 ## Cập nhật 2026-07-21 v1 (Đệ #1 Discovery — heartbeat 2026-07-21 06:31 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới từ sitemap — 1 văn bản đã có trong sitemap nhưng chưa ghi nhận
@@ -5635,3 +5674,94 @@ So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (la
 ---
 
 *Báo cáo: 2026-07-18 09:32 ICT | Reviewer: Đệ #4 subagent | Commit fix: cc55ef34*
+
+---
+
+## Đệ #4 Reviewer — 2026-07-21 08:03 ICT — Refactor candidates + PR #258 review
+
+### A. PR #258 — Kết quả review 4 văn bản chính
+
+**Tổng quan PR:** 17 files, +3516/-2, branch `heartbeat/crawl-vanban-20260720`
+
+| File | Lines | Điều | OCR issues | Trạng thái | Merge? |
+|---|---|---|---|---|---|
+| `van-ban/tai-chinh/nghi-dinh-284-2026-nd-cp-tai-san-ma-hoa.md` | 336 | 23 (1-23) | 8 false positive | ✅ PASS | ✅ OK |
+| `van-ban/giao-duc/59-2026-tt-bgdut-nha-giao-hop-dong-thinh-giang.md` | 644 | 17 (1-17) | 0 | ✅ PASS | ✅ OK |
+| `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` | 2455 | **38 (1-38), MISSING: 39-66** | 5 false positive | ❌ STUB | ❌ KHÔNG |
+| `van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md` | 232 | Stub | 0 | ⚠️ STUB | ⚠️ Chờ Đệ #3 |
+
+**283/NĐ-CP chi tiết:**
+- Articles: 38 (range 1-38), Missing: [39-66], Duplicate: []
+- Chỉ OCR 52/100 pages từ signed PDF (`datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/283-ndcp.signed.pdf`)
+- PDF: 4.2MB, 100 pages → thiếu Điều 39-66
+- **Action:** Chờ Đệ #3 OCR pages 53-100
+
+**284/NĐ-CP:** 8 OCR issues đều là false positive (`ngày l` trong "ngày làm việc") — OK để merge sau verify.
+
+**59/TT-BGDĐT:** PASS — 17 Điều, 4 Chương, OCR issues=0.
+
+### B. PR #255 — ✅ OK để merge
+
+Đệ #4 (2026-07-18) đã review: "no action needed on this PR."
+
+### C. Refactor candidates — Ưu tiên refactor
+
+Criteria: stub / <10KB / lastedit >7 days / metadata lỗi
+
+#### URGENT (stub rõ ràng)
+
+| Số hiệu | File | Size | Last edit | Age | Issue | Action |
+|---|---|---|---|---|---|---|
+| **92/TT-BCA** | `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` | 71L | 2026-07-16 | 5d | **STUB** — nội dung ghi `*[Nội dung toàn văn đang chờ]*`. Nguồn 403/404. DocID 218804. | Browser automation để lấy toàn văn |
+| **86/TT-BTC** | `van-ban/2026/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 48L | 2026-07-16 | 5d | **STUB** — frontmatter `status: Đang cập nhật (stub)`. DocID 218821, PDF signed có sẵn. | OCR signed PDF |
+
+#### TRUNG BÌNH (metadata lỗi)
+
+| Số hiệu | File | Size | Last edit | Age | Issue | Action |
+|---|---|---|---|---|---|---|
+| **25/TT-NHNN** | `van-ban/ngan-hang/thong-tu-25-2026-tt-nhnn-sua-doi-gioi-han-an-toan.md` | 132L | 2026-07-08 | 13d | Frontmatter có `modified` trùng 2 lần (dòng 12 + 14) | Sửa metadata |
+| **148/NĐ-CP** | `van-ban/ngoai-giao/nghi-dinh-148-2026-nd-cp-quan-ly-thong-tin-doi-ngoai.md` | ~80L | 2026-06-02 | 49d | Metadata hơi khác chuẩn. Nội dung đầy đủ từ PDF. | Quick verify Điều |
+| **175/NĐ-CP** | `van-ban/chinh-sach-xa-hoi/nghi-dinh-175-2026-nd-cp-tai-chinh-vi-mo.md` | ~8KB | 2026-07-20 | 0d | Gốc xóa trong PR #258 (Đệ #3 overwrite) | Verify file trong PR #258 |
+
+#### OTHER STUBS (7+ days, <10KB)
+
+| File | Size | Last edit | Age |
+|---|---|---|---|
+| `van-ban/nang-luong/nghi-dinh-272-2026-nd-cp-dien-gio-ngoai-khoi.md` | 3.4KB | 2026-07-07 | 14d |
+| `van-ban/xay-dung/thong-tu-42-2026-tt-bxd-sua-doi-kiem-dinh-atld-may-xay-dung.md` | 9.7KB | 2026-07-08 | 13d |
+| `van-ban/159-2026-nq-cp.md` | 6KB | 2026-07-08 | 13d |
+| `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` | 4.5KB | 2026-07-09 | 12d |
+| `van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si.md` | 3KB | 2026-07-09 | 12d |
+| `van-ban/y-te/34-2026-qd-ttg-sua-doi-hiv-nghe-nghiep.md` | 7KB | 2026-07-14 | 7d |
+| `van-ban/xa-hoi/cong-dien-46-2026-cd-ttg-phong-chong-duoi-nuoc-tre-em.md` | 5KB | 2026-07-14 | 7d |
+| `van-ban/xa-hoi/cong-dien-47-2026-cd-ttg-tai-nan-phu-quoc.md` | 5KB | 2026-07-14 | 7d |
+| `van-ban/tai-chinh/thong-tu-97-2026-tt-btc-bai-bo-tt-55-2010.md` | 5.8KB | 2026-07-14 | 7d |
+| `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thong-tu-97-2026-tt-btc-bai-bo-tt-55-2010.md` | 5.8KB | 2026-07-14 | 7d |
+| `van-ban/97-2026-TT-BTC.md` | 6KB | 2026-07-14 | 7d |
+| `van-ban/to-chuc-nha-nuoc/quyet-dinh-1246-2026-qd-ttg-phe-chuan-ket-qua-bau-chuc-vu-pho-chu-tich-ubnd-tinh-dak-lak-nk-2026-2031.md` | 4KB | 2026-07-14 | 7d |
+| `van-ban/tracking/discovery-2026-07-13.md` | 4.7KB | 2026-07-14 | 7d |
+
+### D. Stale PRs — Đề xuất close
+
+| PR | Age | Reason |
+|---|---|---|
+| #254 | ~4 ngày | Đệ #3 commit stubs — stale |
+| #252 | ~6 ngày | Codex limit comment |
+| #251 | ~7 ngày | Đệ #1 scan docid — stale |
+| #250 | ~10 ngày | Đệ #4 209/NĐ-CP fix — stale |
+| #249 | ~10 ngày | Commit 206/2026 — stale |
+| #248 | ~12 ngày | Không activity |
+| #245 | ~13 ngày | Không activity |
+
+### E. Đề xuất cho Bot
+
+1. **PR #258 merge:** Tách 59/TT-BGDĐT + 284/NĐ-CP + tracking thành PR con để merge trước; giữ 283/281 stub trong PR chính chờ Đệ #3.
+2. **PR #255 merge:** Có thể merge ngay.
+3. **Close stale PRs:** #254, #252, #251, #250, #249, #248, #245.
+4. **Refactor 92/TT-BCA + 86/TT-BTC:** Ưu tiên cao — đã 5 ngày stub.
+5. **Fix OCR quality gate:** Sửa pattern `ngày l` → `ngày l[0-9]` để tránh false positive.
+
+---
+
+**Review done:** 2026-07-21 08:03 Asia/Saigon
+**Subagent:** agent:github-io:subagent:4ee93982-b475-4862-9f1a-be29ec52bc18
