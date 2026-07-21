@@ -5671,3 +5671,90 @@ So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (la
 ---
 
 *Báo cáo: 2026-07-18 09:32 ICT | Reviewer: Đệ #4 subagent | Commit fix: cc55ef34*
+
+---
+
+## Cập nhật 2026-07-21 v2 (Đệ #1 Discovery — heartbeat 2026-07-21 16:02 ICT)
+
+### Phát hiện: 5 văn bản MỚI từ sitemap_thongtu — đợt ban hành 30/6–20/7/2026
+
+Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00) + **sitemap_thongtu mới nhất 2026-07-21 11:57:08+07:00** (slug mới). Đối chiếu với tracking hiện có: **5 slug mới hoàn toàn** chưa từng ghi nhận trong bất kỳ phiên trước. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **101/2026/TT-BTC** | **15/07/2026** | **Quy định về tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng** — quy định tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng; điều kiện học viên (tối thiểu 02 năm CKTT đại học, 03 năm trung cấp/cao đẳng); cơ sở bồi dưỡng; chương trình, nội dung, hình thức, thời gian; cấp, thu hồi, cấp lại Chứng chỉ; căn cứ Luật Kế toán 88/2015, Luật sửa đổi 9 Luật 56/2024/QH15, NĐ 174/2016/NĐ-CP; người ký Cao Anh Tuấn | Tài chính / Kế toán | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440981**, lastmod 2026-07-21 11:19:56+07:00). Title: "Quy định về tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn. **ƯU TIÊN TRUNG BÌNH** — cập nhật chứng chỉ kế toán trưởng theo Luật Kế toán mới. |
+| **131/2026/TT-BCA** | **30/06/2026** | **Quy định về công tác tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh trong Công an nhân dân** — quy định nguyên tắc tiếp công dân; địa điểm, thành phần tiếp; trách nhiệm, quản lý, theo dõi; tiếp nhận đơn, tài liệu, chứng cứ; từ chối tiếp công dân; căn cứ Luật Tiếp công dân 42/2013/QH13 (sửa 136/2025/QH15), NĐ 154/2026/NĐ-CP (chi tiết Luật Tiếp công dân, hiệu lực 01/7/2026), NĐ 02/2025 (sửa 11/2025); người ký Lương Tam Quang | Công an / Hành chính | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440906**, lastmod 2026-07-21 11:57:08+07:00). Title: "Quy định tiếp công dân khiếu nại, tố cáo trong Công an" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 154/2026 cùng đợt với Luật Tiếp công dân sửa đổi. **ƯU TIÊN TRUNG BÌNH** — hướng dẫn chi tiết Luật Tiếp công dân sửa đổi 136/2025. |
+| **34/2026/TT-NHNN** | **30/06/2026** | **Hướng dẫn về quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài** — hướng dẫn quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài: chuyển tiền ra nước ngoài trước/cấp Giấy CN ĐKĐT, mở tài khoản vốn đầu tư, đăng ký giao dịch ngoại hối, chuyển vốn/lợi nhuận về VN; căn cứ Pháp lệnh Ngoại hối 28/2005 (sửa 06/2013), NĐ 70/2014/NĐ-CP, NĐ 103/2026/NĐ-CP (đầu tư ra nước ngoài), NĐ 26/2025 (sửa 198/2026); người ký Thống đốc NHNN | Tài chính / Ngoại hối | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440944**, lastmod 2026-07-21 09:45:16+07:00). Title: "Hướng dẫn quản lý ngoại hối cho đầu tư ra nước ngoài" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 103/2026 (ĐTNN) và NĐ 198/2026 (sửa NĐ 26/2025 về NHNN). **ƯU TIÊN TRUNG BÌNH** — hướng dẫn đầu tư ra nước ngoài theo Luật Đầu tư 143/2025. |
+| **126/2026/TT-BCA** | **30/06/2026** | **Quy định trình tự, thủ tục thực hiện nội dung chi từ Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ** — quy định trình tự, thủ tục chi từ Quỹ giảm thiểu thiệt hại TNGT đường bộ; hồ sơ, nguyên tắc chi; đối tượng, mức chi; không chi cho người có nồng độ cồn/chất ma túy, phương tiện không đủ điều kiện; căn cứ NĐ 279/2025/NĐ-CP (thành lập Quỹ TNGT), NĐ 02/2025 (sửa 11/2025); người ký Lương Tam Quang | Công an / Giao thông | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440937**, lastmod 2026-07-21 10:02:36+07:00). Title: "Quy định chi từ Quỹ giảm thiểu tai nạn giao thông đường bộ" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 279/2025 (Quỹ TNGT đường bộ). **ƯU TIÊN TRUNG BÌNH** — quy trình chi Quỹ TNGT, hướng dẫn cụ thể NĐ 279. |
+| **43/2026/TT-BKHCN** | **20/07/2026** | **Quy hoạch phân kênh và sử dụng kênh tần số phát thanh FM băng tần 87-108 MHz** — quy hoạch phân kênh tần số FM 87-108 MHz (Phụ lục I); quy hoạch sử dụng cho Đài Tiếng nói Việt Nam (Phụ lục II) và cơ quan báo PTTH tỉnh/thành (Phụ lục III); bãi bỏ TT 37/2017/TT-BTTTT; hiệu lực **05/09/2026**; căn cứ Luật Tần số vô tuyến điện 42/2009 (sửa 09/2022), NĐ 225/2026/NĐ-CP (chức năng Bộ KHCN), QĐ 37/2025/QĐ-TTg (Quy hoạch phổ tần số quốc gia); người ký Nguyễn Đức Cường | Thông tin / Tần số | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440932**, lastmod 2026-07-21 09:18:18+07:00). Title: "Quy hoạch và sử dụng kênh tần số FM 87-108 MHz" ✅. Ngày ban hành **20/7/2026** xác minh từ luatvietnam.vn. Hiệu lực **05/9/2026**, bãi bỏ TT 37/2017/TT-BTTTT. **ƯU TIÊN THẤP** — quy hoạch tần số FM quốc gia, tác động truyền thông. |
+
+### Tình trạng sitemap luatvietnam — cập nhật 2026-07-21 16:02 ICT
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-20 17:56/11:56 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi | ✅ Ổn định |
+| sitemap_thongtu (batch mới) | 2026-07-21 11:57:08+07:00 | ↑ Có thêm entries mới | **Có thay đổi** — 6 slug `-d1` mới xuất hiện (440906, 440932, 440937, 440944, 440981, 440814, 440800, 440799, 440798, 440773, 440756, 440749, 440690, 440661, 440577, 440563, 440129, 440237, 440236, 440227, 440226, 440224, 440215, 440214, 440146, 440109, 440099, 440027, 440000, 439999, 439929, 439928, 439872, 439970 — nhiều entry đã lastmod 21/7) |
+
+### Tất cả slug `-d1` mới xuất hiện trong sitemap_thongtu 2026-07-21 11:57:08+07:00
+
+| Slug | Số hiệu | Trích yếu | lastmod | Đã ghi nhận? |
+|---|:---:|---|:---:|:---:|
+| 440981 | 101/2026/TT-BTC | Bồi dưỡng và cấp Chứng chỉ kế toán trưởng | 2026-07-21 11:19:56+07:00 | ⭐ MỚI |
+| 440944 | 34/2026/TT-NHNN | Quản lý ngoại hối cho đầu tư ra nước ngoài | 2026-07-21 09:45:16+07:00 | ⭐ MỚI |
+| 440937 | 126/2026/TT-BCA | Chi từ Quỹ giảm thiểu TNGT đường bộ | 2026-07-21 10:02:36+07:00 | ⭐ MỚI |
+| 440932 | 43/2026/TT-BKHCN | Quy hoạch kênh tần số FM 87-108 MHz | 2026-07-21 09:18:18+07:00 | ⭐ MỚI |
+| 440906 | 131/2026/TT-BCA | Tiếp công dân khiếu nại, tố cáo trong Công an | 2026-07-21 11:57:08+07:00 | ⭐ MỚI |
+| 440814 | 32/2026/TT-BNNMT | Bãi bỏ văn bản pháp luật Bộ Nông nghiệp và Môi trường | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440800 | 05/2026/TT-NHNN | Hạn mức chi trả BHTG 350 triệu | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440799 | 31/2026/TT-NNMT | Định giá rừng và chi trả dịch vụ các bon rừng | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440798 | 58/2026/TT-BGDDT | Quy chế tổ chức và hoạt động CSGDĐH | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440773 | 31/2026/TT-BYT | Hướng dẫn NĐ 289/2025/NĐ-CP cơ chế pháp lý | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440756 | 12/2026/TT-TANDTC | Nội quy phiên tòa, ghi âm/hình ảnh phiên họp | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440749 | 118/2026/TT-BCA | Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440690 | 59/2026/TT-BGDDT | Nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440661 | 93/2026/TT-BTC | Tem điện tử rượu và thuốc lá, hiệu lực 01/7/2026 | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440577 | 54/2026/TT-BXD | Sửa đổi TT 20+21/2026 về cảng thủy nội địa | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440563 | 51/2026/TT-BXD | Quy chế an toàn hàng không dân dụng | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440467 | 99/2026/TT-BTC | Tài chính cho giảng viên, sinh viên điện hạt nhân | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440448 | 37/2026/TT-BKHCN | Chứng chỉ vô tuyến điện nghiệp dư | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440486 | 100/2026/TT-BTC | Bãi bỏ 06 Thông tư của Bộ Tài chính | 2026-07-16 14:56:51+07:00 | Đã ghi nhận 2026-07-21 |
+| 440483 | 89/2026/TT-BTC | Quy định chi tiết Luật QL thuế và NĐ 252/2026 | 2026-07-20 11:37:26+07:00 | Đã ghi nhận 2026-07-21 |
+| 440437 | 98/2026/TT-BTC | Quy chế kiểm toán nội bộ cho cơ quan nhà nước | 2026-07-17 14:42:20+07:00 | Đã ghi nhận 2026-07-21 |
+| 440815 | 103/2026/TT-BQP | Điều chỉnh trợ cấp hằng tháng quân nhân, cơ yếu | 2026-07-20 14:03:40+07:00 | Đã ghi nhận 2026-07-21 |
+| 440129 | 52/2026/TT-BGDDT | Liên thông giáo dục trung học nghề → ĐH | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-16 |
+| 440237 | 54/2026/TT-BGDDT | Quy định chương trình đào tạo đại học mới nhất | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440236 | 53/2026/TT-BGDDT | Quy chế tuyển sinh và đào tạo sau đại học | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440227 | 18/2026/TT-BVHTTDL | Định mức kinh tế kỹ thuật bảo tàng công lập | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440226 | 98/2026/TT-BQP | Chứng nhận hệ thống quản lý chất lượng SPQP | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440224 | 115/2026/TT-BCA | Thẻ giấy phép, chứng nhận an ninh hàng không | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440215 | 19/2026/TT-BVHTTDL | Quy định chi tiết thẻ nhà báo và bồi dưỡng nghiệp vụ | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440214 | 103/2026/TT-BCA | Phân cấp thẩm quyền và thủ tục dự án an ninh | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440146 | 92/2026/TT-BCA | Ứng phó sự cố thiên tai và tìm kiếm cứu nạn của Công an | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-16 |
+| 440109 | 47/2026/TT-BXD | Quản lý và bảo đảm hoạt động bay | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440099 | 31/2026/TT-NHNN | Hoạt động cho thuê tài chính của công ty tài chính | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440027 | 101/2026/TT-BQP | Chi tiết Luật Xây dựng của Bộ Quốc phòng | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440000 | 30/2026/TT-BYT | Ghi thành phần và giá trị dinh dưỡng trên nhãn thực phẩm | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 439999 | 58/2026/TT-BXD | Đăng kiểm tàu biển Việt Nam | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-15 |
+| 439929 | 48/2026/TT-BXD | Vận tải hàng không, hiệu lực 01/7/2026 | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 439928 | 02/2026/TT-TTCP | Khung tiêu chí đánh giá hiệu quả, trách nhiệm giải trình | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 439872 | 32/2026/TT-NHNN | Cho vay đầu tư ra nước ngoài của tổ chức tín dụng | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 439970 | 95/2026/TT-BTC | Hướng dẫn Hiệp định tranh chấp thuế hại lân và ngăn ngừa trốn thuế | 2026-07-14 13:39:59+07:00 | Chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **101/TT-BTC** (ƯU TIÊN TRUNG BÌNH): Bồi dưỡng kế toán trưởng — ngày **15/7/2026**, căn cứ Luật Kế toán 88/2015 và NĐ 174/2016. Cần xác minh docid.
+2. **131/TT-BCA** (ƯU TIÊN TRUNG BÌNH): Tiếp công dân trong Công an — ngày **30/6/2026**, căn cứ NĐ 154/2026 cùng Luật Tiếp công dân sửa đổi. Cần xác minh docid.
+3. **34/TT-NHNN** (ƯU TIÊN TRUNG BÌNH): Quản lý ngoại hối đầu tư ra nước ngoài — ngày **30/6/2026**, căn cứ NĐ 103/2026. Cần xác minh docid.
+4. **126/TT-BCA** (ƯU TIÊN TRUNG BÌNH): Chi từ Quỹ TNGT đường bộ — ngày **30/6/2026**, căn cứ NĐ 279/2025. Cần xác minh docid.
+5. **43/TT-BKHCN** (ƯU TIÊN THẤP): Quy hoạch tần số FM 87-108 MHz — ngày **20/7/2026**, hiệu lực 05/9/2026. Cần xác minh docid.
+6. Các slug tiếp theo cần xác minh: 54/TT-BGDDT (440237), 53/TT-BGDDT (440236), 18/TT-BVHTTDL (440227), 98/TT-BQP (440226), 115/TT-BCA (440224), 19/TT-BVHTTDL (440215), 103/TT-BCA (440214), 47/TT-BXD (440109), 31/TT-NHNN (440099), 101/TT-BQP (440027), 30/TT-BYT (440000), 48/TT-BXD (439929), 02/TT-TTCP (439928), 32/TT-NHNN (439872), 95/TT-BTC (439970).
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận lần đầu: 101/TT-BTC (kế toán trưởng, 15/7), 131/TT-BCA (tiếp công dân, 30/6), 34/TT-NHNN (ngoại hối ĐTNN, 30/6), 126/TT-BCA (Quỹ TNGT đường bộ, 30/6), 43/TT-BKHCN (tần số FM 87-108, 20/7).
+- **sitemap_nghidinh ổn định hoàn toàn** — không có NĐ-CP mới. Highest: 440755 (NĐ 277).
+- **sitemap_thongtu có thay đổi** — batch mới lastmod 2026-07-21 11:57:08+07:00 với nhiều slug mới/bổ sung. 40+ slug `-d1` mới xuất hiện trong batch mới.
+- **5 văn bản ưu tiên** được web_fetch xác minh đầy đủ nội dung (metadata + trích yếu + căn cứ).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00), web_fetch slug 440981 (101/TT-BTC), web_fetch slug 440906 (131/TT-BCA), web_fetch slug 440944 (34/TT-NHNN), web_fetch slug 440937 (126/TT-BCA), web_fetch slug 440932 (43/TT-BKHCN).
+- Ngày phát hiện: 2026-07-21 16:05 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:0db2bf96-1299-41d5-b17a-abbac1f77367 (Đệ #1 Discovery — 2026-07-21 16:02 ICT)
