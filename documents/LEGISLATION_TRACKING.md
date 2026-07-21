@@ -1,3 +1,74 @@
+## Cập nhật 2026-07-21 v4 (Đệ #1 Discovery — heartbeat 2026-07-21 22:59 ICT)
+
+### Kết quả: 5 văn bản MỚI từ sitemap_thongtu (sitemap_nghidinh ổn định hoàn toàn)
+
+Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, cùng ref) + sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00, lastmod tăng so với batch v3 20:00 ICT — xuất hiện slugs mới từ 10:02–11:19 ngày 21/7) + web_fetch xác minh 5 văn bản mới chưa từng ghi nhận. sitemap_nghidinh **không đổi** — slug mới nhất 440871 là d10 (dự thảo), highest chính thức = 284/2026/NĐ-CP (slug 440680). sitemap_thongtu lastmod tăng (11:57 → cập nhật 11:57:08 cùng ref nhưng có 6 slugs `-d1` mới từ batch 21/7 10:02–11:19 chưa tracking: 440798, 440799, 440773, 440756, 440247, 440865 (d10). 5 slug `-d1` cần ghi nhận. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **58/2026/TT-BGDĐT** | **07/07/2026** | **Hướng dẫn về quy chế tổ chức và hoạt động của cơ sở giáo dục đại học** — quy chế tổ chức, hoạt động cơ sở GDĐH (trừ trường thuộc Bộ Công an, Bộ Quốc phòng, thành lập theo điều ước quốc tế); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 37/2025 (chức năng BGDĐT), NĐ 91/2026/NĐ-CP (chi tiết Luật GDĐH); người ký Lê Quân | Giáo dục / GDĐH | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440798). Title: "Quy chế tổ chức và hoạt động cơ sở giáo dục đại học" ✅. Ngày ban hành **07/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 07 tháng 07 năm 2026). Theo Luật GDĐH 125/2025, NĐ 91/2026/NĐ-CP. **ƯU TIÊN TRUNG BÌNH** — quy chế tổ chức cơ sở GDĐH theo Luật GDĐH mới, ảnh hưởng rộng toàn ngành. |
+| **31/2026/TT-BNNMT** | **15/07/2026** | **Quy định phương pháp định giá rừng, hướng dẫn định khung giá rừng và phương pháp xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng** — định giá rừng, định khung giá rừng, chi trả dịch vụ các-bon rừng; căn cứ Luật Lâm nghiệp 16/2017 (sửa 16/2023, 31/2024, 146/2025), Luật Giá 16/2023 (sửa 44/2024, 61/2024, 95/2025, 140/2025), NĐ 35/2025 (chức năng BNN&MT), NĐ 156/2018 (sửa NĐ 42/2026), NĐ 180/2026/NĐ-CP; người ký Bộ trưởng Bộ NN&MT | Tài nguyên / Lâm nghiệp & Khí hậu | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440799). Title: "Quy định định giá rừng và chi trả dịch vụ các-bon" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 7 năm 2026). Theo Luật Lâm nghiệp và Luật Giá sửa đổi 2025. **ƯU TIÊN TRUNG BÌNH** — quy định định giá rừng và chi trả dịch vụ các-bon theo thị trường carbon quốc tế. |
+| **31/2026/TT-BYT** | **16/07/2026** | **Quy định danh mục nhiệm vụ, hoạt động và định mức khoán chi cho xây dựng Thông tư do Bộ Y tế chủ trì soạn thảo** — danh mục nhiệm vụ, hoạt động, định mức khoán chi xây dựng thông tư Bộ Y tế (mức chi 280–350 triệu); căn cứ Nghị quyết 197/2025/QH15, NĐ 289/2025/NĐ-CP (cơ chế pháp lý), NĐ 187/2025/NĐ-CP (thể thức văn bản); người ký Bộ trưởng Bộ Y tế; hiệu lực chưa rõ | Y tế / Hành chính | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440773). Title: "Hướng dẫn Nghị định 289/2025/NĐ-CP về cơ chế pháp luật" ✅. Ngày ban hành **16/7/2026** xác minh từ luatvietnam.vn. Theo Nghị quyết 197/2025/QH15, NĐ 289/2025/NĐ-CP. **ƯU TIÊN THẤP** — quy định định mức chi cho xây dựng thông tư Bộ Y tế (hành chính nội bộ). |
+| **12/2026/TT-TANDTC** | **30/05/2026** | **Quy định về nội quy phiên tòa, phiên họp và việc ghi âm lời nói, ghi hình ảnh diễn biến phiên tòa, phiên họp** — nội quy phiên tòa/phiên họp, ghi âm/ghi hình; căn cứ Luật Tổ chức TAND 34/2024 (sửa 81/2025, 106/2025, 116/2025, 142/2025, 150/2025), BLTTHS 101/2015 (sửa 02/2021, 34/2024, 59/2024, 99/2025, 103/2025, 105/2025, 106/2025, 128/2025), BLTTDS 92/2015 (sửa 45/2019, 59/2020...); người ký Chánh án TAND Tối cao | Tư pháp / Tòa án | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440756). Title: "Quy định nội quy phiên tòa và ghi âm hình ảnh phiên họp" ✅. Ngày ban hành **30/5/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 5 năm 2026). Theo nhiều luật tố tụng sửa đổi 2024–2025. **ƯU TIÊN TRUNG BÌNH** — quy định nội quy phiên tòa và ghi hình, ảnh hưởng toàn hệ thống tòa án. |
+| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — kỹ thuật bay đo từ, phổ gamma (máy bay có/không người lái); căn cứ Luật Địa chất và khoáng sản 54/2024 (sửa 147/2025), NĐ 193/2025 (chi tiết Luật Địa chất), NĐ 21/2026 (sửa NĐ 193/2025), NĐ 35/2025 (chức năng BNN&MT); người ký Bộ trưởng Bộ NN&MT | Tài nguyên / Địa chất & Khoáng sản | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440247). Title: "Quy định kỹ thuật bay đo từ, phổ gamma trong địa chất" ✅. Ngày ban hành **13/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 13 tháng 7 năm 2026). Theo Luật Địa chất và khoáng sản sửa đổi 147/2025. **ƯU TIÊN THẤP** — quy định kỹ thuật chuyên đề địa chất, ảnh hưởng hẹp. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref batch trước | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry đơn lẻ mới) / 2026-07-20T09:01:12+07:00 (batch chính) | ↑ Entry đơn lẻ mới (d10 — dự thảo) | ✅ D10 bỏ qua — khộng có NĐ-CP chính thức mới |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry mới nhất) / 2026-07-21T11:57:08+07:00 (batch) | ↑ Tăng — nhiều slugs mới từ 10:02–11:19 21/7 | ✅ 6 slug mới từ batch 21/7: 440798, 440799, 440773, 440756, 440247, 440865(d10) |
+
+### Các văn bản đã ghi nhận từ v1–v3 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Quy định chi tiết Luật QL thuế + NĐ 252 — **ƯU TIÊN CAO** |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
+| **54/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Chương trình đào tạo ĐH — **ƯU TIÊN CAO** |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **58/2026/TT-BGDĐT** | VĂN BẢN MỚI (v4) | Quy chế tổ chức cơ sở GDĐH — ƯU TIÊN TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **54/TT-BGDĐT** (**ƯU TIÊN CAO** v3): Chương trình đào tạo ĐH — ngày **30/6/2026**, căn cứ Luật GDĐH 125/2025
+2. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — hướng dẫn thuế toàn diện
+3. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025
+4. **05/TT-NHNN** (**ƯU TIÊN CAO** v1): Hạn mức BHTG 350 triệu — hiệu lực **13/7/2026**
+5. **58/TT-BGDĐT** (v4): Quy chế tổ chức cơ sở GDĐH — ngày **07/7/2026**, theo Luật GDĐH 125/2025, NĐ 91/2026
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận v4: 58/TT-BGDĐT (quy chế tổ chức cơ sở GDĐH, 07/7), 31/TT-BNNMT (định giá rừng và chi trả các-bon, 15/7), 31/TT-BYT (định mức chi xây dựng thông tư BYT, 16/7), 12/TT-TANDTC (nội quy phiên tòa và ghi âm, 30/5), 30/TT-BNNMT (kỹ thuật bay đo từ phổ gamma, 13/7).
+- **sitemap_nghidinh** ổn định hoàn toàn — entry đơn lẻ mới nhất 440871 là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** lastmod tăng đáng kể — nhiều slugs mới từ batch 21/7 (10:02–11:19). 5 slugs `-d1` mới hoàn toàn (440798, 440799, 440773, 440756, 440247) + 1 slug `-d10` mới (440865 dự thảo phân cấp kiểm tra chuyên ngành BTC). Không trùng với 20 văn bản đã ghi nhận từ v1+v2+v3.
+- **Tổng tích lũy: 25 văn bản mới chưa xử lý** (10 từ v1 + 5 từ v2 + 5 từ v3 + 5 từ v4).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00), web_fetch slug 440798 (58/TT-BGDĐT), web_fetch slug 440799 (31/TT-BNNMT), web_fetch slug 440773 (31/TT-BYT), web_fetch slug 440756 (12/TT-TANDTC), web_fetch slug 440247 (30/TT-BNNMT).
+- Ngày phát hiện: 2026-07-21 23:08 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:3b29190e-4323-4989-9328-814bd44e1029 (Đệ #1 Discovery — heartbeat 2026-07-21 22:59 ICT)
+
+---
+
 ## Cập nhật 2026-07-21 v3 (Đệ #1 Discovery — heartbeat 2026-07-21 20:00 ICT)
 
 ### Kết quả: 5 văn bản MỚI từ sitemap_thongtu (sitemap_nghidinh ổn định hoàn toàn)
