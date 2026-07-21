@@ -838,14 +838,6 @@ vi vi phạm quy định tại khoản 9 Điều này;
 c) Đình chỉ hoạt động giao dịch tài sản mã hóa có thời hạn từ 06 tháng đến
 12 tháng đối với tổ chức, cá nhân giao dịch tài sản mã hóa thực hiện hành vi vi
 phạm quy định tại khoản 9 Điều này.
-
-Chương III
-THẨM QUYỀN XỬ PHẠT, LẬP BIÊN BẢN VI PHẠM HÀNH CHÍNH,
-ÁP DỤNG HÌNH THỨC XỬ PHẠT BỎ SUNG, BIỆN PHÁP
-KHÁC PHỤC HẬU QUẢ ĐÓI VỚI VI PHẠM HÀNH CHÍNH
-
-
-
 ## Chương III
 THẨM QUYỀN XỬ PHẠT, LẬP BIÊN BẢN VI PHẠM HÀNH CHÍNH, ÁP DỤNG HÌNH THỨC XỬ PHẠT BỔ SUNG, BIỆN PHÁP KHẮC PHỤC HẬU QUẢ ĐỐI VỚI VI PHẠM HÀNH CHÍNH
 
