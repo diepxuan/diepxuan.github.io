@@ -1,3 +1,43 @@
+## Cập nhật 2026-07-22 Review PR #258 (Đệ #4 — heartbeat/crawl-vanban-20260720)
+
+### Kết quả: Dọn dẹp PR #258 — 3 file xóa, 2 file keep
+
+Kiểm tra 3 stub + 1 duplicate + scan OCR 1 file lớn. Không fix OCR trong task này.
+
+#### File đã xóa
+
+| File | Lý do |
+|---|---|
+| `van-ban/thue/89-2026-tt-btc-quy-dinh-chi-tiet-luat-quan-ly-thue.md` | **DUPLICATE**: cùng slug 440483 với file trong `van-ban/tai-chinh/`, docid trống trong frontmatter. File `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` là bản đầy đủ (docid 440483, 34,827 dòng). |
+| `van-ban/giao-duc/54-2026-TT-BGDĐT-chuong-trinh-dao-tao-dai-hoc.md` | **STUB - nguồn không khả dụng**: 110 dòng stub trích yếu từ báo chí. Nguồn chính thức (datafiles.chinhphu.vn, luatvietnam.vn, vanban.chinhphu.vn) trả 403/404. Không merge stub không có nguồn đáng tin cậy. |
+| `van-ban/giao-duc/thong-tu-58-2026-tt-bgdut-quy-che-to-chuc-hoat-dong-co-so-giao-duc-dai-hoc.md` | **STUB - nguồn không khả dụng**: 118 dòng, trích yếu với 6 Điều nhưng nguồn luatvietnam.vn trả 403/404. Không merge stub. |
+
+#### File keep — đã xác minh
+
+| File | Dòng | Điều | Chương | OCR | Đánh giá |
+|---|---|---|---|---|---|
+| `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` | 34,827 | 101 (Điều 1–101) | 10 (I–X) | ❌ FAIL | **Chưa hoàn thiện** — bảng THÔNG TIN VĂN BẢN nhân đôi L26-47; `§` rác nhiều dòng (L11437, 11509, 12193, v.v.); `€©)`/`©:` L18204, 22699; `Điều:` L33461; bảng biểu OCR lỗi nặng. **KHÔNG FIX trong task này** — cần re-OCR từ PDF chính thức. |
+| `van-ban/tai-chinh/thong-tu-05-2026-tt-nhnn-bao-hiem-tien-gui.md` | 115 | 5 (Điều 1–5) | 3 (I–III) | ✅ OK | **OK để merge** — metadata sạch (docid 440800), 3 Chương rõ, 5 Điều đủ, OCR issues = 0. |
+
+#### Cập nhật trạng thái tracking
+
+| Số hiệu | Trước | Sau |
+|---|---|---|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | **Chưa hoàn thiện** — duplicate đã xóa, file 89/TT-BTC 34k dòng còn lỗi OCR nặng |
+| **54/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) — **ƯU TIÊN CAO** | **Stub - nguồn không khả dụng** (xóa 2026-07-22) |
+| **58/2026/TT-BGDĐT** | VĂN BẢN MỚI (v4) — ƯU TIÊN TRUNG BÌNH | **Stub - nguồn không khả dụng** (xóa 2026-07-22) |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | **HOÀN THIỆN** ✅ — 5 Điều, 3 Chương, OCR OK |
+
+### Ghi chú xử lý
+
+- **05/TT-NHNN**: Hoàn thiện. Cần commit riêng với PR mới hoặc merge vào PR tiếp theo.
+- **89/TT-BTC**: Cần re-OCR từ PDF chính thức, không fix trong PR này.
+- **54/TT-BGDĐT + 58/TT-BGDĐT**: Cần xác minh lại nguồn khi vanban.chinhphu.vn/datafiles.chinhphu.vn khả dụng.
+- Ngày review: 2026-07-22 05:03 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:b41e2451-e9bb-40ef-be2c-60a63591d463 (Đệ #4 Review PR #258)
+
+---
+
 ## Cập nhật 2026-07-22 v6 (Đệ #1 Discovery — heartbeat 2026-07-22 02:32 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới
