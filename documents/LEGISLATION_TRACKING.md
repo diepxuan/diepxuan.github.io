@@ -1,3 +1,74 @@
+## Cập nhật 2026-07-22 v6 (Đệ #1 Discovery — heartbeat 2026-07-22 02:32 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới
+
+Quét sitemap_nghidinh + sitemap_thongtu (fetch 02:32 ICT 2026-07-22) đối chiếu ref v5:
+- sitemap_nghidinh ref: entry 440871 (d10, 2026-07-21T08:41:00+07:00) / batch 440755 (2026-07-20T09:01:12+07:00)
+- sitemap_thongtu ref: batch 440906 (2026-07-21T11:57:08+07:00) + entry 440981 (2026-07-21T11:19:56+07:00)
+
+**Kết quả:**
+- **sitemap_nghidinh**: Không có d1 mới. Batch lastmod tăng 09:01:12 → 17:57:22 (2026-07-21) do re-indexing batch, tất cả entries cùng slug như v5. Entry đơn lẻ mới nhất 440871 vẫn là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = **284/2026/NĐ-CP** (slug 440680). Không có NĐ-CP mới.
+- **sitemap_thongtu**: Cùng batch hoàn toàn — lastmod và slugs không đổi so với v5. Highest TT = **101/2026/TT-BTC** (slug 440981). Không có slugs mới ngoài 6 slugs đã tracking (440798, 440799, 440773, 440756, 440247, 440865 d10).
+
+**Không phát hiện văn bản mới** — sitemap_nghidinh batch được re-indexed nhưng không thêm entry mới; sitemap_thongtu ổn định hoàn toàn.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref | Thay đổi |
+|---|:---:|:---:|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / **2026-07-21T17:57:22+07:00** (batch — tăng so với 09:01:12 v5) | ↑ Batch re-indexed, tất cả cùng slug | ✅ Không có NĐ-CP mới — batch update không thêm d1 |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry) / 2026-07-21T11:57:08+07:00 (batch) | = Không đổi | ✅ Không đổi — highest 440981 (TT 101) |
+
+### Các văn bản đã ghi nhận từ v1–v5 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Quy định chi tiết Luật QL thuế + NĐ 252 — **ƯU TIÊN CAO** |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
+| **54/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Chương trình đào tạo ĐH — **ƯU TIÊN CAO** |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **58/2026/TT-BGDĐT** | VĂN BẢN MỚI (v4) | Quy chế tổ chức cơ sở GDĐH — ƯU TIÊN TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **54/TT-BGDĐT** (**ƯU TIÊN CAO** v3): Chương trình đào tạo ĐH — ngày **30/6/2026**, căn cứ Luật GDĐH 125/2025
+2. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — hướng dẫn thuế toàn diện
+3. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025
+4. **05/TT-NHNN** (**ƯU TIÊN CAO** v1): Hạn mức BHTG 350 triệu — hiệu lực **13/7/2026**
+5. **58/TT-BGDĐT** (v4): Quy chế tổ chức cơ sở GDĐH — ngày **07/7/2026**, theo Luật GDĐH 125/2025, NĐ 91/2026
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** trong phiên v6 này (02:32 ICT 2026-07-22).
+- **sitemap_nghidinh**: Batch lastmod tăng 09:01:12 → 17:57:22 do luatvietnam.vn re-indexing toàn bộ batch entries (cùng slugs như v5, không thêm d1 mới). Entry d10 440871 vẫn ở lastmod 08:41:00, không có d1 mới. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** ổn định hoàn toàn — highest TT = 101/TT-BTC (slug 440981). Batch 440906 không đổi.
+- **Tổng tích lũy: 25 văn bản mới chưa xử lý** (10 từ v1 + 5 từ v2 + 5 từ v3 + 5 từ v4).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 (entry) / 2026-07-21T17:57:22+07:00 (batch re-indexed)), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00 — cùng v5).
+- Ngày phát hiện: 2026-07-22 02:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:92e8b3cc-5e26-47f4-a758-581a0c4b457a (Đệ #1 Discovery — heartbeat 2026-07-22 02:29 ICT)
+
+---
+
 ## Cập nhật 2026-07-21 v5 (Đệ #1 Discovery — heartbeat 2026-07-21 23:29 ICT)
 
 ### Kết quả: KHÔNG CÓ văn bản mới
