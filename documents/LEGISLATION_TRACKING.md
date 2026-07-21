@@ -1,3 +1,59 @@
+## Cập nhật 2026-07-21 v2 (Đệ #1 Discovery — heartbeat 2026-07-21 19:29 ICT)
+
+### Kết quả: 5 văn bản MỚI từ sitemap_thongtu (sitemap_nghidinh ổn định)
+
+Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, tăng so với ref 2026-07-20 17:56:45+07:00) + sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00, tăng so với ref 2026-07-20 11:56:35+07:00) + web_fetch xác minh 5 văn bản mới nhất. sitemap_nghidinh lastmod tăng nhưng slug chính thức mới nhất = 284 (không đổi). sitemap_thongtu lastmod tăng đáng kể — nhiều TT mới xuất hiện. **Phát hiện 5 văn bản mới** chưa từng ghi nhận trong tracking (không trùng với 10 văn bản từ v1 03:33). Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **101/2026/TT-BTC** | **15/07/2026** | **Quy định tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng** — quy định về tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng; căn cứ Luật Kế toán 88/2015, Luật sửa đổi 9 Luật 56/2024 (bao gồm Luật Chứng khoán, Kế toán, KTĐL, NSNN, QL thuế, TNCN, Dự trữ QG, Xử lý VP); NĐ 174/2016, NĐ 29/2025, NĐ 166/2025; người ký Bộ trưởng Bộ Tài chính | Tài chính / Kế toán | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440981). Title: "Quy định tổ chức bồi dưỡng và cấp Chứng chỉ kế toán trưởng" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 7 năm 2026). Căn cứ Luật sửa đổi 9 luật 56/2024. **ƯU TIÊN TRUNG BÌNH** — quy định chứng chỉ kế toán trưởng theo Luật sửa đổi mới. |
+| **34/2026/TT-NHNN** | **30/06/2026** | **Hướng dẫn quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài** — hướng dẫn quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài, bao gồm chuyển tiền ra nước ngoài trước khi được cấp Giấy chứng nhận đầu tư; căn cứ Luật NHNN 46/2010, Luật Các TCTD 32/2024 (sửa đổi 96/2025), Luật Đầu tư 143/2025, Pháp lệnh Ngoại hối 28/2005, NĐ 70/2014, NĐ 103/2026, NĐ 198/2026; người ký Thống đốc NHNN | Tài chính / Ngoại hối | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440944). Title: "Hướng dẫn quản lý ngoại hối cho đầu tư ra nước ngoài" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Theo Luật Đầu tư 143/2025. **ƯU TIÊN TRUNG BÌNH** — hướng dẫn đầu tư ra nước ngoài theo Luật Đầu tư mới. |
+| **126/2026/TT-BCA** | **30/06/2026** | **Quy định trình tự, thủ tục thực hiện nội dung chi từ Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ** — quy định trình tự, thủ tục thực hiện nội dung chi từ Quỹ giảm thiểu thiệt hại TNGT đường bộ; căn cứ NĐ 279/2025/NĐ-CP (thành lập Quỹ TNGT), NĐ 02/2025, NĐ 11/2025 (Bộ Công an); người ký Bộ trưởng Lương Tam Quang | Công an / Giao thông | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440937). Title: "Quy định chi từ Quỹ giảm thiểu tai nạn giao thông đường bộ" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Căn cứ NĐ 279/2025 (Quỹ TNGT đường bộ). **ƯU TIÊN THẤP** — quy trình chi Quỹ TNGT. |
+| **43/2026/TT-BKHCN** | **20/07/2026** | **Quy hoạch phân kênh và sử dụng kênh tần số phát thanh FM băng tần 87-108 MHz** — quy hoạch phân kênh và sử dụng kênh tần số FM 87-108 MHz; căn cứ Luật Tần số vô tuyến điện 42/2009 (sửa 09/2022), NĐ 225/2026/NĐ-CP (chức năng Bộ KH&CN), QĐ 37/2025/QĐ-TTg (Quy hoạch phổ tần số vô tuyến điện quốc gia); người ký Bộ trưởng Bộ KH&CN | Thông tin / Tần số | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440932). Title: "Quy hoạch và sử dụng kênh tần số FM 87-108 MHz" ✅. Ngày ban hành **20/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 20 tháng 07 năm 2026). Căn cứ QĐ 37/2025/QĐ-TTg về Quy hoạch phổ tần số. **ƯU TIÊN THẤP** — quy hoạch tần số FM phát thanh. |
+| **131/2026/TT-BCA** | **30/06/2026** | **Quy định về công tác tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh trong Công an nhân dân** — quy định về công tác tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh trong Công an nhân dân; căn cứ Luật Tiếp công dân 42/2013 (sửa 136/2025), NĐ 154/2026, NĐ 02/2025, NĐ 11/2025 (Bộ Công an); người ký Bộ trưởng Lương Tam Quang | Hành chính / Công an | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440906). Title: "Quy định tiếp công dân khiếu nại, tố cáo trong Công an" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Theo Luật Tiếp công dân sửa đổi 136/2025. **ƯU TIÊN THẤP** — hướng dẫn tiếp công dân Bộ Công an. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-20 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21 17:57:22+07:00 | ↑ Tăng (+24h37m) | ✅ Không có NĐ-CP mới (slug mới = 440871 d10 dự thảo) |
+| sitemap_thongtu | 2026-07-21 11:57:08+07:00 | ↑ Tăng (+24h00m33s) | ✅ Nhiều TT mới: 101/TT-BTC, 34/TT-NHNN, 126/TT-BCA, 43/TT-BKHCN, 131/TT-BCA |
+
+### Các văn bản đã ghi nhận từ v1 (03:33 ICT) — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Quy định chi tiết Luật QL thuế + NĐ 252 — **ƯU TIÊN CAO** |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊN THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊN THẤP |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊN THẤP |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊN TRUNG BÌNH |
+| **277/2026/NĐ-CP** | Chưa ghi nhận | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — hướng dẫn thuế toàn diện
+2. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025 thí điểm
+3. **05/TT-NHNN** (**ƯU TIÊN CAO** v1): Hạn mức chi trả BHTG 350 triệu — hiệu lực **13/7/2026**
+4. **34/TT-NHNN** (v2): Quản lý ngoại hối đầu tư ra nước ngoài — ngày **30/6/2026**
+5. **101/TT-BTC** (v2): Chứng chỉ kế toán trưởng — ngày **15/7/2026**, căn cứ Luật sửa đổi 9 luật 56/2024
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận v2: 101/TT-BTC (chứng chỉ kế toán trưởng, 15/7), 34/TT-NHNN (ngoại hối đầu tư ra nước ngoài, 30/6), 126/TT-BCA (chi Quỹ TNGT, 30/6), 43/TT-BKHCN (quy hoạch tần số FM, 20/7), 131/TT-BCA (tiếp công dân Bộ Công an, 30/6).
+- **sitemap_nghidinh** lastmod tăng từ 17:56:45 → 17:57:22 nhưng **không có NĐ-CP mới** — slug mới duy nhất là 440871 (dự thảo d10). Highest chính thức = 284/2026/NĐ-CP.
+- **sitemap_thongtu** lastmod tăng đáng kể từ 11:56:35 → 11:57:08 — nhiều TT mới xuất hiện trong batch 2026-07-21. Các văn bản từ v1 (89, 100, 37, 99, 98, 05, 103, 118, 284) tiếp tục theo dõi.
+- **Tổng tích lũy v2: 15 văn bản mới chưa xử lý** (10 từ v1 + 5 từ v2).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00), web_fetch slug 440981 (101/TT-BTC), web_fetch slug 440944 (34/TT-NHNN), web_fetch slug 440937 (126/TT-BCA), web_fetch slug 440932 (43/TT-BKHCN), web_fetch slug 440906 (131/TT-BCA).
+- Ngày phát hiện: 2026-07-21 19:34 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:48d6a3fb-22c3-4bcc-8243-4e12ef0f42e4 (Đệ #1 Discovery 2026-07-21 19:29 ICT)
+
+---
+
 ## Cập nhật 2026-07-21 v1 (Đệ #1 Discovery — heartbeat 2026-07-21 03:33 ICT)
 
 ### Kết quả: 5 văn bản MỚI từ sitemap_thongtu (sitemap_nghidinh ổn định)
