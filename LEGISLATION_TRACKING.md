@@ -1,8 +1,8 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-23T00:36 GMT+7
-> Nguồn quét: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-22 17:12+07:00) + sitemap_thongtu (lastmod 2026-07-22 11:43+07:00)
+> Phiên bản: 2026-07-23T06:11 GMT+7
+> Nguồn quét: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-22 17:57+07:00) + sitemap_thongtu (lastmod 2026-07-22 17:12+07:00)
 > **Ghi chú lần quét này**: Phát hiện 5 văn bản d1 mới. Nghị định: 291, 287, 286, 285, 289. Thông tư: TT 21/2026/BVHTTDL (sửa TT 02/2025 về giải thi đấu thể thao). Ref mới: sitemap_nghidinh d1 max = 441168; sitemap_thongtu d1 max = 441104 (trước 441103).
 
 ---
@@ -41,7 +41,7 @@
 | **Chủ đề** | Thuế, Vi phạm hành chính |
 | **LuatVietnam** | `thue/nghi-dinh-291-2026-nd-cp-sua-doi-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-thue-hoa-don-441168-d1.html` |
 | **Slug** | 441168 |
-| **Sitemap** | lastmod 2026-07-22 17:12+07:00 |
+| **Sitemap** | lastmod 2026-07-22 17:57+07:00 |
 | **Nhóm** | Nghị định |
 | **Ưu tiên** | Cao |
 | **Mô tả** | Sửa đổi, bổ sung một số điều của Nghị định 125/2020/NĐ-CP về xử phạt vi phạm hành chính về thuế, hóa đơn. Bổ sung Mục 3 và Điều 19a về xử phạt hành vi cung cấp thông tin trao đổi thông tin thuế theo điều ước quốc tế. Phạt tiền 10-30 triệu đồng. |
