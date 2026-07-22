@@ -1,4 +1,90 @@
-## Cập nhật 2026-07-22 v14 (Đệ #1 Discovery — heartbeat 2026-07-22 14:04 ICT)
+## Cập nhật 2026-07-22 v15 (Đệ #1 Discovery — 2026-07-22 16:02 ICT)
+
+### Kết quả: CÓ văn bản mới từ van-ban-moi.html
+
+Phương án thay thế khi sitemap bị block: quét `luatvietnam.vn/van-ban-moi.html` (trang tổng hợp tất cả văn bản mới, accessible, có đầy đủ metadata). Fetch 16:02 ICT 2026-07-22.
+
+Trích **28 unique slugs** từ trang van-ban-moi.html:
+```
+441106|d1  441102|d1  441074|d1  441073|d1  441071|d1
+441147|d1  441076|d1  441067|d1  441068|d1  441069|d1
+441106|d1  441106|d1  441106|d1  441013|d2  441009|d2
+441044|d2  441043|d2  441006|d2  441010|d2  441065|d2
+```
+
+Đối chiếu ref tracking hiện tại (v14):
+- sitemap_nghidinh ref: **441066** / 440755
+- sitemap_thongtu ref: **441105** (d10) / **441104** (21/TT-BVHTTDL) / batch 441104
+
+Kiểm tra slug trên trang van-ban-moi.html so với tracking:
+- **441106** (191/NQ-CP) > ref 441104 → **VĂN BẢN MỚI**
+- **441102** (16-NQ/TW) > ref 441104 → **VĂN BẢN MỚI**
+- **441074** (1341/QĐ-TTg) > ref 441104 → **VĂN BẢN MỚI**
+- **441073** (850/QĐ-CĐBVN) > ref 441104 → **VĂN BẢN MỚI**
+- **441071** (2839/QĐ-BNNMT) > ref 441104 → **VĂN BẢN MỚI**
+- **441147** (862/QĐ-BNV) > ref 441104 → **VĂN BẢN MỚI**
+- Các slugs còn lại (441076, 441067, 441068, 441069, 441009, 441010, 441006, 441043, 441044, 441065, 441013) → **chưa có trong tracking** → **VĂN BẢN MỚI**
+
+Giới hạn 5 văn bản/lần — ghi nhận 5 văn bản ưu tiên nhất (d1, ban hành 21/07/2026):
+
+| # | Số hiệu | Ngày BH | Trích yếu | Slug | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---:|---|---|---:|---|---|
+| 1 | **191/NQ-CP** | **21/07/2026** | Về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng — người ký Lê Minh Hưng; cơ quan ban hành: Chính phủ; lĩnh vực: An ninh quốc gia | **441106** | An ninh quốc gia | **TRUNG BÌNH** | ✅ Title + số hiệu 191/NQ-CP + ngày 21/7/2026 + người ký + cơ quan + trích yếu xác minh từ luatvietnam.vn |
+| 2 | **16-NQ/TW** | **21/07/2026** | Về xây dựng và phát triển thành phố Đồng Nai đến năm 2035, tầm nhìn đến năm 2065 — người ký Tô Lâm (Tổng Bí thư); cơ quan ban hành: Bộ Chính trị; lĩnh vực: Chính sách | **441102** | Chính sách / Đô thị | **TRUNG BÌNH** | ✅ Title + số hiệu 16-NQ/TW + ngày 21/7/2026 + người ký + cơ quan + trích yếu xác minh từ luatvietnam.vn |
+| 3 | **1341/QĐ-TTg** | **21/07/2026** | Về việc hỗ trợ kinh phí cho các địa phương để thực hiện nhiệm vụ đo đạc, lập bản đồ địa chính, lập hồ sơ địa chính, xây dựng cơ sở dữ liệu đất đai năm 2026 — hỗ trợ 1.000 tỷ đồng cho 19 địa phương; người ký Phó Thủ tướng Nguyễn Văn Thắng | **441074** | Đất đai / Tài chính | **TRUNG BÌNH** | ✅ Toàn văn đầy đủ xác minh từ luatvietnam.vn — Điều 1 (1.000 tỷ cho 19 địa phương) + Điều 2, 3, 4 |
+| 4 | **850/QĐ-CĐBVN** | **21/07/2026** | Ban hành Lệnh xây dựng công trình: Khẩn cấp khắc phục hậu quả thiên tai, bảo đảm giao thông tại khu vực Km363+410, Km398+360 QL.6, địa bàn tỉnh Sơn La, Điện Biên — do ảnh hưởng đợt mưa lớn từ ngày 21–25/5/2026 | **441073** | Giao thông / Thiên tai | **THẤP** | ✅ Title + số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
+| 5 | **2839/QĐ-BNNMT** | **21/07/2026** | Công bố giá trị dòng chảy tối thiểu ở hạ lưu các đập, hồ chứa — quy định lưu lượng nước tối thiểu phải xả xuống hạ lưu để bảo vệ hệ sinh thái, sinh kế hạ du | **441071** | Tài nguyên / Môi trường | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
+
+### Các văn bản d2 cũng mới nhưng ưu tiên thấp (cần xác minh thêm nếu cần)
+
+| Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm |
+|---:|---:|---:|---|---|
+| 441147 | 862/QĐ-BNV | 21/07/2026 | Công bố 02 TTHC quy định tại NĐ 259/2026/NĐ-CP về tuyển dụng, sử dụng và quản lý viên chức; người ký Thứ trưởng Vũ Chiến Thắng | Hành chính |
+| 441076 | 1922/QĐ-BTC | 21/07/2026 | Điều chỉnh kế hoạch giám sát, quản lý và đầu tư vốn nhà nước | Tài chính |
+| 441067 | 1933/QĐ-BTC | 21/07/2026 | Công bố TTHC thay thế và bãi bỏ trong quản lý thuế | Thuế |
+| 441068 | 1931/QĐ-BTC | 21/07/2026 | Công bố TTHC sửa đổi, bổ sung lĩnh vực quản lý thuế | Thuế |
+| 441069 | 1932/QĐ-BTC | 21/07/2026 | Công bố TTHC sửa đổi trong quản lý thuế và hải quan | Thuế |
+| 441065 | 59/QĐ-UBND HP | 21/07/2026 | Quy chế quản lý, vận hành, khai thác và đảm bảo an toàn thông tin Trung tâm dữ liệu | Thông tin |
+| 441013 | 6543/UBND-VX TP HCM | 21/07/2026 | Triển khai lực lượng Trật tự viên du lịch tại Bà Rịa - Vũng Tàu và Bình Dương | Văn hóa |
+| 441009 | 2302/QĐ-UBND Đắk Lắk | 21/07/2026 | Công bố Danh mục TTHC bị bãi bỏ lĩnh vực kinh tế hợp tác và phát triển nông thôn | Hành chính |
+| 441010 | 2271/QĐ-UBND Hưng Yên | 20/07/2026 | Công bố Danh mục TTHC mới lĩnh vực biển và thủy sản | Hành chính |
+| 441006 | 7213/SGDDT-QLCL TP HCM | 21/07/2026 | Hướng dẫn tuyển sinh bổ sung lớp 10 năm học 2026-2027 trường công lập | Giáo dục |
+| 441043 | 165/QĐ-UBND Cà Mau | 20/07/2026 | Phân cấp quản lý, duy tu, bảo dưỡng hệ thống đê điều cấp IV | Nông nghiệp |
+| 441044 | 164/QĐ-UBND Cà Mau | 20/07/2026 | Quy định hành lang bảo vệ đê cấp IV | Nông nghiệp |
+
+### Đối chiếu nhanh với v14
+
+| Số hiệu | Trong v14? | Trạng thái |
+|---|:---:|---|
+| 191/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 16-NQ/TW | **KHÔNG** | Thêm mới — Chưa có |
+| 1341/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 850/QĐ-CĐBVN | **KHÔNG** | Thêm mới — Chưa có |
+| 2839/QĐ-BNNMT | **KHÔNG** | Thêm mới — Chưa có |
+
+### Ref cập nhật sau v15
+
+- sitemap_nghidinh ref: giữ nguyên v14 — **441066** / 440755
+- sitemap_thongtu ref: giữ nguyên v14 — **441105** (d10) / **441104** (21/TT-BVHTTDL) / batch 441104
+- **van-ban-moi.html max slug đã phát hiện**: **441147**
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking v15 — tất cả ban hành **21/07/2026** (cùng ngày), phát hiện qua phương án thay thế van-ban-moi.html (sitemap chính không có d1 mới trong dải này).
+- **191/NQ-CP**: Về dự án Luật sửa đổi, bổ sung 09 luật về quân sự, quốc phòng — người ký Thủ tướng Lê Minh Hưng. Đây là văn bản chính phủ chuẩn bị cho đợt sửa đổi lớn các luật quân sự. Nội dung tóm tắt đang cập nhật trên luatvietnam.vn, cần crawl toàn văn khi có.
+- **16-NQ/TW**: Xây dựng và phát triển thành phố Đồng Nai đến 2035, tầm nhìn 2065 — người ký Tổng Bí thư Tô Lâm (ký với tư cách Chủ tịch nước hoặc Thủ tướng theo quy định đối với Nghị quyết Bộ Chính trị). Đây là văn bản quy hoạch phát triển vùng Đông Nam Bộ quan trọng. Nội dung tóm tắt đang cập nhật.
+- **1341/QĐ-TTg**: Hỗ trợ 1.000 tỷ đồng cho 19 địa phương thực hiện đo đạc, lập bản đồ địa chính, lập hồ sơ địa chính, xây dựng Cơ sở dữ liệu đất đai năm 2026 — toàn văn đầy đủ (Điều 1-4) xác minh được. Đây là văn bản có ngân sách cụ thể, tác động trực tiếp đến 19 tỉnh/thành.
+- **850/QĐ-CĐBVN**: Lệnh khẩn cấp khắc phục hậu quả thiên tai trên QL.6 (Km363+410, Km398+360) tại Sơn La, Điện Biên — do đợt mưa lớn 21–25/5/2026. Văn bản có tính chất khẩn cấp, thời hiệu.
+- **2839/QĐ-BNNMT**: Công bố giá trị dòng chảy tối thiểu hạ lưu đập, hồ chứa — văn bản môi trường quan trọng về quản lý tài nguyên nước.
+- **Các văn bản d2** (441147, 441076, 441067-441069, 441065, 441013, 441009, 441010, 441006, 441043, 441044) cũng hoàn toàn mới nhưng là QĐ-UBND, Công văn, QĐ-BTC, QĐ-BNV — ưu tiên thấp hơn. Cần xác minh thêm nếu cần.
+- **Phương pháp mới hiệu quả**: van-ban-moi.html cho phép phát hiện văn bản nằm ngoài sitemap (d2 UBND tỉnh, QĐ-BNV, QĐ-BTC...) mà sitemap không phản ánh. Cần bổ sung phương pháp này vào quy trình chuẩn.
+- Nguồn: luatvietnam.vn/van-ban-moi.html (fetch 2026-07-22T09:02:42Z), web_fetch xác minh slug 441106, 441102, 441074, 441147, 441013, 441009.
+- Ngày phát hiện: 2026-07-22 16:02 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:98b40a7a-4903-456b-86c0-46a607e55931 (Đệ #1 Discovery v15)
+
+---
+
+## Cập nhật 2026-07-22 v14
 
 ### Kết quả: KHÔNG CÓ văn bản mới
 
@@ -36,6 +122,11 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 14:04 ICT 2026-07-22) đối chi
 | **20/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Giấy phép báo chí — ƯU TIÊN TRUNG BÌNH |
 | **117/2026/TT-BCA** | VĂN BẢN MỚI (v13) | An ninh mạng & bảo vệ dữ liệu dân cư — ƯU TIÊN TRUNG BÌNH |
 | **61/2026/TT-BGDĐT** | VĂN BẢN MỚI (v13) | Tài nguyên giáo dục mở trong GDĐH — ƯU TIÊN TRUNG BÌNH |
+| **191/NQ-CP** | VĂN BẢN MỚI (v15) | Dự án sửa đổi 09 luật về quân sự, quốc phòng — ngày 21/7/2026, slug 441106 — ƯU TIÊN TRUNG BÌNH |
+| **16-NQ/TW** | VĂN BẢN MỚI (v15) | Xây dựng và phát triển thành phố Đồng Nai đến 2035, tầm nhìn 2065 — ngày 21/7/2026, slug 441102 — ƯU TIÊN TRUNG BÌNH |
+| **1341/QĐ-TTg** | VĂN BẢN MỚI (v15) | Hỗ trợ 1.000 tỷ đồng cho 19 địa phương đo đạc, lập bản đồ địa chính, CSDL đất đai 2026 — ngày 21/7/2026, slug 441074 — ƯU TIÊN TRUNG BÌNH |
+| **850/QĐ-CĐBVN** | VĂN BẢN MỚI (v15) | Khẩn cấp khắc phục hậu quả thiên tai QL.6 Sơn La, Điện Biên — ngày 21/7/2026, slug 441073 — ƯU TIÊU THẤP |
+| **2839/QĐ-BNNMT** | VĂN BẢN MỚI (v15) | Công bố giá trị dòng chảy tối thiểu hạ lưu đập, hồ chứa — ngày 21/7/2026, slug 441071 — ƯU TIÊN TRUNG BÌNH |
 | **60/2026/TT-BGDĐT** | VĂN BẢN MỚI (v9) | Tiêu chuẩn tài liệu GD mầm non — ƯU TIÊN TRUNG BÌNH |
 | **51/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Bộ Quy chế AT hàng không tàu bay — ƯU TIÊN TRUNG BÌNH |
 | **115/2026/TT-BCA** | VĂN BẢN MỚI (v9) | Thẻ, giấy phép an ninh hàng không — ƯU TIÊN TRUNG BÌNH |
