@@ -2,6 +2,9 @@
 layout: vanban
 title: "Nghị quyết số 16-NQ/TW về xây dựng và phát triển thành phố Đồng Nai đến năm 2035, tầm nhìn đến năm 2065"
 date: 2026-07-21
+issued_date: 2026-07-21
+authority: Bộ Chính trị
+signer: Tổng Bí thư Tô Lâm
 modified: 2026-07-23
 group: chinh-phu
 tags:
@@ -11,8 +14,17 @@ tags:
   - Đô thị sân bay
   - Quy hoạch
   - Vùng kinh tế trọng điểm
+  - Quy hoạch vùng
 docid: "16-NQ/TW"
+doc_ids:
+  vanban_chinhphu: "441102"
+  luatvietnam: "441102"
 source: luatvietnam.vn
+classification: Chính sách / Quy hoạch
+trich_yeu: "Xây dựng và phát triển thành phố Đồng Nai đến năm 2035, tầm nhìn đến năm 2065"
+trang_thai: Chưa hoàn thiện
+trang_thai_ghi_chu: "Thiếu Phần IV (Tổ chức thực hiện) và khối ký. Nguồn: vanban.chinhphu.vn (SPA blocked), luatvietnam.vn (402 credits), datafiles (403), vbpl.vn (404). Nội dung đầy đủ Phần I, II, III."
+bo_phan: "Phần I (Tình hình), Phần II (Quan điểm, Mục tiêu), Phần III (7 Nhiệm vụ trọng tâm) — thiếu Phần IV (Tổ chức thực hiện)"
 ---
 
 # NGHỊ QUYẾT CỦA BỘ CHÍNH TRỊ
@@ -20,6 +32,8 @@ source: luatvietnam.vn
 **Số: 16-NQ/TW**
 
 **Hà Nội, ngày 21 tháng 7 năm 2026**
+
+**Người ký: Tổng Bí thư Tô Lâm**
 
 ## I- TÌNH HÌNH
 
