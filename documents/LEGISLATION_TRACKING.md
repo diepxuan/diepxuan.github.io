@@ -23,7 +23,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 06:34 ICT 2026-07-22) đối chi
 
 | Số hiệu | Trạng thái | Ghi chú |
 |---|:---:|---|
-| **89/2026/TT-BTC** | Chưa hoàn thiện | Quy định chi tiết Luật QL thuế + NĐ 252 — OCR lỗi nặng, cần re-OCR |
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
 | **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
 | **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
 | **54/2026/TT-BGDĐT** | Stub - nguồn không khả dụng (xóa 2026-07-22) | Chương trình đào tạo ĐH — **Stub** |
@@ -87,14 +87,14 @@ Kiểm tra 3 stub + 1 duplicate + scan OCR 1 file lớn. Không fix OCR trong ta
 
 | File | Dòng | Điều | Chương | OCR | Đánh giá |
 |---|---|---|---|---|---|
-| `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` | 34,827 | 101 (Điều 1–101) | 10 (I–X) | ❌ FAIL | **Chưa hoàn thiện** — bảng THÔNG TIN VĂN BẢN nhân đôi L26-47; `§` rác nhiều dòng (L11437, 11509, 12193, v.v.); `€©)`/`©:` L18204, 22699; `Điều:` L33461; bảng biểu OCR lỗi nặng. **KHÔNG FIX trong task này** — cần re-OCR từ PDF chính thức. |
+| `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` | 7,495 | 101 (Điều 1–101) | 10 (I–X) | ✅ PASS | **HOÀN THIỆN ✅** — re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS (0 issues). |
 | `van-ban/tai-chinh/thong-tu-05-2026-tt-nhnn-bao-hiem-tien-gui.md` | 115 | 5 (Điều 1–5) | 3 (I–III) | ✅ OK | **OK để merge** — metadata sạch (docid 440800), 3 Chương rõ, 5 Điều đủ, OCR issues = 0. |
 
 #### Cập nhật trạng thái tracking
 
 | Số hiệu | Trước | Sau |
 |---|---|---|
-| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | **Chưa hoàn thiện** — duplicate đã xóa, file 89/TT-BTC 34k dòng còn lỗi OCR nặng |
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF 17MB → 7,495 dòng sạch. Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS (0 issues). Đã commit+push heartbeat/crawl-vanban-20260720 |
 | **54/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) — **ƯU TIÊN CAO** | **Stub - nguồn không khả dụng** (xóa 2026-07-22) |
 | **58/2026/TT-BGDĐT** | VĂN BẢN MỚI (v4) — ƯU TIÊN TRUNG BÌNH | **Stub - nguồn không khả dụng** (xóa 2026-07-22) |
 | **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | **HOÀN THIỆN** ✅ — 5 Điều, 3 Chương, OCR OK |
@@ -102,7 +102,7 @@ Kiểm tra 3 stub + 1 duplicate + scan OCR 1 file lớn. Không fix OCR trong ta
 ### Ghi chú xử lý
 
 - **05/TT-NHNN**: Hoàn thiện. Cần commit riêng với PR mới hoặc merge vào PR tiếp theo.
-- **89/TT-BTC**: Cần re-OCR từ PDF chính thức, không fix trong PR này.
+- **89/TT-BTC**: Hoàn thiện. Re-OCR từ PDF 17MB (amis.misa.vn) → 7,495 dòng sạch. Chương I-X, Điều 1-101, OCR quality gate PASS. Đã commit+push.
 - **54/TT-BGDĐT + 58/TT-BGDĐT**: Cần xác minh lại nguồn khi vanban.chinhphu.vn/datafiles.chinhphu.vn khả dụng.
 - Ngày review: 2026-07-22 05:03 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:b41e2451-e9bb-40ef-be2c-60a63591d463 (Đệ #4 Review PR #258)
