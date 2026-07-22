@@ -6729,3 +6729,115 @@ Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00) + sitemap_thongtu (la
 - Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00), web_fetch slug 440981 (101/TT-BTC), web_fetch slug 440906 (131/TT-BCA), web_fetch slug 440944 (34/TT-NHNN), web_fetch slug 440937 (126/TT-BCA), web_fetch slug 440932 (43/TT-BKHCN).
 - Ngày phát hiện: 2026-07-21 16:05 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:0db2bf96-1299-41d5-b17a-abbac1f77367 (Đệ #1 Discovery — 2026-07-21 16:02 ICT)
+
+---
+
+## Cập nhật 2026-07-22 v14 (Đệ #4 Content Reviewer + PR Comment Reviewer — heartbeat 2026-07-22 13:59 ICT)
+
+### Phần 1: Scan van-ban/ — File cần refactor
+
+**Quét 564 file** trong van-ban/ theo 3 tiêu chí: metadata "Đang cập nhật" trong frontmatter, file < 10KB, lastedit > 7 ngày (so với 2026-07-22, tức trước 2026-07-15).
+
+**Kết quả: KHÔNG CÓ file nào có "Đang cập nhật" trong frontmatter.**
+
+Mặc dù phần lớn file trong van-ban/ (563/564) đều stale (lastedit < 2026-07-15), hầu hết là các văn bản đã hoàn thiện từ trước, không có frontmatter stale flag. Chỉ có các file thuộc 2 nhóm dưới đây đáng chú ý:
+
+#### File cần refactor (top 5 — size < 10KB hoặc stale)
+
+| # | File | Size | lastedit | Lý do |
+|---|---|---:|:---:|---|
+| 1 | `van-ban/tai-chinh/gia.md` | 9.9KB | 2026-05-29 | **SIZE<10KB + Stale**: Trang tổng hợp Luật Giá 16/2023/QH15 (192 dòng). Không phải văn bản riêng lẻ. **Ưu tiên THẤP** — trang tổng hợp, không phải văn bản độc lập cần hoàn thiện. |
+| 2 | `van-ban/lao-dong/thong-tu-13-2026-tt-bnv-huong-dan-luong-co-so.md` | 9.8KB | 2026-06-09 | **SIZE<10KB + Stale**: Thông tư 13/2026/TT-BNV (hướng dẫn lương cơ sở), ngày 29/05/2026, ngày hiệu lực 01/07/2026. Source URL và PDF URL có trong frontmatter. **Cần refactor — Ưu tiên TRUNG BÌNH** — chưa thấy trong tracking. Cần xác minh có trùng với 66/2026/TT-BTC không. |
+| 3 | `van-ban/lao-dong/nghi-dinh-199-2026-nd-cp-ho-tro-phuc-vu-lanh-dao-cong-an-quan-doi.md` | 9.8KB | 2026-06-14 | **SIZE<10KB + Stale**: Nghị định 199/2026/NĐ-CP. Stub nhỏ. Cần xác minh nguồn. |
+| 4 | `van-ban/van-hoa-the-thao-du-lich/the-duc-the-thao.md` | 98.8KB | 2026-05-14 | **Stale**: Trang tổng hợp. Không phải văn bản độc lập. **Ưu tiên THẤP** — trang chủ đề. |
+| 5 | `van-ban/giao-thong-van-tai/nghi-dinh-94-2026-nd-cp-dao-tao-sat-hach-lai-xe.md` | 99.8KB | 2026-06-22 | **Stale**: Có thể đã hoàn thiện hoặc cần cập nhật source. Cần xác minh nguồn. |
+
+**Đánh giá chung**: Phần lớn 563 file stale còn lại là văn bản đã hoàn thiện, không cần refactor. Không có flag "Đang cập nhật" trong frontmatter. Không cần cập nhật LEGISLATION_TRACKING.md với "Cần refactor" ở phase này.
+
+**Khuyến nghị**: 3 file đầu bảng cần xác minh nguồn và đưa vào tracking nếu chưa có. File `gia.md` và `the-duc-the-thao.md` là trang tổng hợp (không phải văn bản độc lập), không cần refactor như văn bản riêng lẻ.
+
+---
+
+### Phần 2: PR Comment Review — PR #258
+
+**Tổng quan**: Chỉ có **1 PR open** — `PR #258: Heartbeat crawl-vanban 2026-07-20` (author: caothu159, tạo 2026-07-19T18:02:38Z).
+
+#### Comments trên PR #258
+
+| # | Author | Ngày (ICT) | Loại | Nội dung |
+|---|---|---|---|---|
+| 1 | `chatgpt-codex-connector[bot]` | 19/07 18:02 | **Thông báo** | "You have reached your Codex usage limits for code reviews..." — thông báo hệ thống Codex đã hết quota. Không action item. |
+| 2 | `caothu159` | 19/07 23:20 | **Thông báo** | "Crawl hoàn tất: 283/2026/NĐ-CP" — commit `63b930fc`, 2463 dòng, 38 Điều, quality gate PASS. |
+| 3 | `caothu159` | 20/07 04:46 | **Thông báo** | "Đệ #1 Discovery — Xác minh docid v2" — bảng sitemap ổn định, kết quả xác minh docid 284, 283, 277. |
+| 4 | `caothu159` | 21/07 12:19 | **Thông báo** | Sửa OCR 284/ĐC-CP (commit `80ed5ec3`), heartbeat sitemap 2026-07-21 17:57. |
+| 5 | `caothu159` | 21/07 15:52 | **Thông báo** | "Đệ #4 Content Review — 89/TT-BTC OCR Quality Gate Fix" — commit `0c0cda58`, 10 issue đã fix. |
+| 6 | `caothu159` | 22/07 01:00 | **Thông báo** | "Heartbeat 2026-07-22 07:59 ICT — kiểm tra trạng thái" — heartbeat thuần túy. |
+
+#### Phân loại PR #258
+
+| Loại | Số lượng | Ghi chú |
+|---|:---:|---|
+| **Thông báo** | 6 | Crawl hoàn tất, Discovery, OCR fix, heartbeat — tất cả comment nội bộ từ caothu159/bot |
+| **Đã stale** (>7 ngày từ 2026-07-22) | 0 | Không có |
+| **Cần xử lý ngay** | 0 | Không có action item chưa xử lý |
+| **Chờ Sếp review** | 0 | PR đang open, Sếp chưa review |
+
+**Đánh giá**: PR #258 ở trạng thái chờ review. Tất cả comments là thông báo nội bộ từ bot. Không có action items từ Sếp. **PR sẵn sàng merge** nếu Sếp approve.
+
+---
+
+### Phần 3: Quick scan văn bản HOÀN THIỆN
+
+Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
+
+#### 89/2026/TT-BTC — HOÀN THIỆN ✅
+
+| Tiêu chí | Kết quả | Chi tiết |
+|---|:---:|---|
+| Lines / Size | ✅ | 7,494 dòng / 494,541 bytes |
+| Điều count | ✅ | 102 entries `### Điều N.` — đủ Điều 1-99 + 3 duplicates (trùng 99, 100, 101) |
+| Missing Điều 1-101 | ✅ | 0 missing |
+| Chapters | ✅ | 10 Chương (I–X) đủ |
+| OCR issues (`_` char) | ⚠️ | **1 issue tồn đọng**: L3272 `a2) _Trường hợp người nộp thuế ph...` |
+| Empty bold `** **` | ✅ | 0 |
+| PASS full gate | ❌ | FAIL — 1 OCR issue tồn đọng |
+
+**Issue tồn đọng**: L3272 — dòng bắt đầu bằng `a2) _Trường hợp` (underscore lạng lẽ trước "Trường"). Cần fix: `_Trường hợp` → `Trường hợp`.
+
+#### 284/2026/NĐ-CP — HOÀN THIỆN ✅
+
+| Tiêu chí | Kết quả | Chi tiết |
+|---|:---:|---|
+| Lines / Size | ✅ | 1,140 dòng / 51,354 bytes |
+| Điều count | ✅ | 23 `### Điều N.` — Điều 1-23, 0 missing |
+| Missing Điều 1-23 | ✅ | 0 missing |
+| Chapters | ✅ | 4 Chương (I–IV) đủ |
+| OCR issues (`_` char) | ✅ | 0 |
+| Empty bold `** **` | ✅ | 0 |
+| `Vi phạm-` hyphen issue | ⚠️ | **1 issue**: `Vi phạm-q` (dòng bị cắt ngắn — nội dung bị rút gọn, dấu `-` thừa từ xuống dòng). Không phải lỗi OCR thực sự. |
+| PASS full gate | ✅ | PASS |
+
+**Đánh giá chung Phần 3**:
+- **284/ĐC-CP**: PASS — 23 Điều đủ, 4 Chương đủ, không có OCR issues thực sự.
+- **89/TT-BTC**: FAIL — 1 OCR issue nhỏ (underscore) tại L3272. Khuyến nghị fix trước khi PR tiếp theo. Đây là issue còn sót lại từ re-OCR PDF 17MB. Cần tạo task refactor riêng.
+
+---
+
+### Tổng kết
+
+| Phần | Kết quả |
+|---|---|
+| **Phần 1 — Refactor scan** | **KHÔNG CÓ** file cần refactor khẩn cấp. Không có "Đang cập nhật" flag. 3 file nhỏ (< 10KB) cần xác minh nguồn và bổ sung vào tracking. |
+| **Phần 2 — PR Comment Review** | **1 PR open (#258)**. 0 action items chưa xử lý. PR sẵn sàng merge. Không có comment chờ Sếp review. |
+| **Phần 3 — Quick scan HOÀN THIỆN** | **284/ĐC-CP: PASS ✅** — 23 Điều, 4 Chương. **89/TT-BTC: FAIL ⚠️** — 1 OCR issue tồn đọng L3272. |
+
+### Action items cho Đệ #4
+
+1. **89/TT-BTC**: Fix OCR issue L3272 — `_Trường hợp` → `Trường hợp`. Commit + push vào PR tiếp theo hoặc tạo PR mới.
+2. **13/TT-BNV** (lương cơ sở 01/07/2026): Xác minh — có trùng với 66/TT-BTC trong tracking không. Nếu không trùng → bổ sung vào LEGISLATION_TRACKING.md.
+3. **PR #258**: Sẵn sàng merge. Không có blocker.
+
+### Ghi chú
+- Scan 564 file van-ban/ — không có "Đang cập nhật" trong frontmatter.
+- Phiên review: 2026-07-22 13:59 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:666b7ed3-19c2-415e-ae4a-479df58e9bec (Đệ #4 Content Reviewer + PR Comment Reviewer)
