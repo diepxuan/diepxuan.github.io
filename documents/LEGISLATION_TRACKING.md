@@ -39,7 +39,7 @@ Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudfl
 | **441101** | **287/2026/NĐ-CP** | **17/07/2026** | Quy định về tiền bản quyền trong các lĩnh vực: Điện ảnh, mỹ thuật, nhiếp ảnh, nghệ thuật biểu diễn, báo chí, xuất bản — căn cứ Luật Sở hữu trí tuệ; tiền bản quyền sáng tạo từ ngân sách nhà nước + khai thác quyền tác giả nhà nước đại diện | Sở hữu trí tuệ / Văn hóa | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + Chương I (Điều 1–3) xác minh từ luatvietnam.vn |
 | **441100** | **286/2026/NĐ-CP** | **17/07/2026** | Quy định cơ chế phối hợp giữa các bộ, cơ quan ngang bộ, UBND tỉnh trong công tác quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam — Bộ Công an chủ trì; người ký Thủ tướng | Xuất nhập cảnh / Công an | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + Chương I–II (Điều 1–8) xác minh từ luatvietnam.vn |
 | **441098** | **285/2026/NĐ-CP** | **17/07/2026** | Sửa đổi, bổ sung một số điều NĐ 46/2019/NĐ-CP về xử phạt VPHC trong lĩnh vực thể thao — bổ sung Điều 2b (xử lý VPHC trên môi trường điện tử), mở rộng thẩm quyền xử phạt | Thể thao / VPHC | **THẤP** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–2 xác minh từ luatvietnam.vn |
-| **441066** | **289/2026/NĐ-CP** | **21/07/2026** | Quản lý, bảo đảm an ninh, trật tự tại cửa khẩu cảng do Bộ Công an quản lý — hiệu lực 01/10/2026 | An ninh trật tự / Cửa khẩu | **TRUNG BÌNH** | ✅ Số hiệu + ngày 21/7/2026 + nội dung xác minh từ luatvietnam.vn |
+| **441066** | **289/2026/NĐ-CP** | **22/07/2026** | Quản lý, bảo đảm an ninh trật tự tại cửa khẩu cảng do Bộ Công an quản lý — hiệu lực 01/10/2026 | An ninh trật tự / Cửa khẩu | **TRUNG BÌNH** | ✅ Số hiệu + ngày 22/7/2026 + nội dung đầy đủ 21 Điều từ signed PDF datafiles.chinhphu.vn |
 
 **sitemap_thongtu**: ref 441105 (d10) / 441104 (21/TT-BVHTTDL) → có **3 slug d1 mới** > 441104:
 
@@ -511,7 +511,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 11:02 ICT 2026-07-22) đối chi
 | **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
 | **284/2026/NĐ-CP** | HOÀN THIỆN ✅ | Xử phạt tài sản mã hóa — nguồn: luatvietnam.vn + signed PDF (284-ndcp.signed.pdf), 23 Điều, quality gate PASS |
 | **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
-| **289/2026/NĐ-CP** | **VĂN BẢN MỚI (v12)** | Quản lý ANTT cửa khẩu cảng do Bộ Công an — ngày 22/7/2026, hiệu lực 01/10/2026, slug 441066, nguồn: luatvietnam.vn — ƯU TIÊN TRUNG BÌNH |
+| **289/2026/NĐ-CP** | HOÀN THIỆN ✅ | Quản lý ANTT cửa khẩu cảng do Bộ Công an — ngày 22/7/2026, hiệu lực 01/10/2026, slug 441066, nguồn: luatvietnam.vn — ƯU TIÊN TRUNG BÌNH |
 | **60/2026/TT-BGDĐT** | VĂN BẢN MỚI (v9) | Tiêu chuẩn tài liệu GD mầm non — ƯU TIÊN TRUNG BÌNH |
 | **51/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Bộ Quy chế AT hàng không tàu bay — ƯU TIÊN TRUNG BÌNH |
 | **115/2026/TT-BCA** | VĂN BẢN MỚI (v9) | Thẻ, giấy phép an ninh hàng không — ƯU TIÊN TRUNG BÌNH |
