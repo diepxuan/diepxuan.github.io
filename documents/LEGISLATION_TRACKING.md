@@ -1,8 +1,20 @@
+## Cập nhật 2026-07-22 v18 (Đệ #1 Discovery — 2026-07-22 23:04 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v17.
+
+**sitemap_nghidinh**: ref 441168 (291/NĐ-CP, 21/7/2026) — entry cao nhất trong sitemap = 441168. Không có slug d1 mới.
+
+**sitemap_thongtu**: ref 441105 (d10, bỏ qua) / 441104 (21/TT-BVHTTDL, 20/7/2026) — entry cao nhất d1 = 441104. Không có slug d1 mới.
+
+**van-ban-moi.html max slug**: 441162 (08/NQ-HĐND Quảng Trị) — giữ nguyên.
+
+Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-22T16:04:51Z, lastmod 441168 = 2026-07-22T17:12:11+07:00), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-22T16:04:57Z).
+
+---
+
 ## Cập nhật 2026-07-22 v17 (Đệ #1 Discovery — 2026-07-22 19:06 ICT)
-
-### Kết quả: CÓ văn bản mới — 4 slug mới phát hiện (sitemap_nghidinh)
-
-Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v16.
 
 **Tìm thấy 4 slug `-d1` mới trong sitemap_nghidinh** (> ref 441066 / 440755):
 
