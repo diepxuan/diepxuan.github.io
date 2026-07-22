@@ -2,18 +2,27 @@
 layout: vanban
 title: "Nghị quyết 191/NQ-CP về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng"
 date: 2026-07-21
-modified: 2026-07-22
+modified: 2026-07-23
 group: Quân sự / Quốc phòng
 tags:
-  - nghị quyết
-  - chính phủ
-  - quân sự
-  - quốc phòng
-  - luật sửa đổi
-  - dự án luật
-  - quốc hội
+  - nghị-quyết
+  - chính-phủ
+  - quan-su
+  - quoc-phong
+  - du-an-luat
+  - 2026
 docid: 441106
-source: vanban.chinhphu.vn
+so_hieu: 191/NQ-CP
+nguoi_ky: Thủ tướng Chính phủ
+co_quan_ban_hanh: Chính phủ
+ngay_ban_hanh: 2026-07-21
+ngay_hieu_luc: 2026-07-21
+loai_van_ban: Nghị quyết
+linh_vuc: Quân sự, Quốc phòng
+trich_yeu: "Về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng"
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+status: stub
+note: Chưa hoàn thành — Nguồn chưa công bố văn bản đầy đủ
 ---
 
 # NGHỊ QUYẾT
@@ -24,42 +33,44 @@ source: vanban.chinhphu.vn
 |---|---|
 | Số hiệu | 191/NQ-CP |
 | Ngày ban hành | 21/7/2026 |
-| Ngày hiệu lực | — |
+| Ngày hiệu lực | 21/7/2026 |
 | Cơ quan ban hành | Chính phủ |
 | Người ký | Thủ tướng Chính phủ |
 | Loại văn bản | Nghị quyết |
 | Lĩnh vực | Quân sự, Quốc phòng |
 | Trích yếu | Về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng |
-| Số hiệu tiếng Anh | Government Resolution No. 191/NQ-CP dated July 21, 2026 |
 | Căn cứ pháp lý | — |
 | Thay thế | — |
-| Nghị định/Pháp lệnh hướng dẫn | — |
 | Tài liệu đính kèm | — |
 
 ## VĂN BẢN
 
-*Nội dung văn bản đang được cập nhật từ nguồn chính thức. Vui lòng quay lại sau.*
+*Nội dung văn bản **chưa được công bố đầy đủ** từ nguồn chính thức.*
 
-## TRẠNG THÁI
+**Tóm tắt theo báo chí chính thức:**
 
-> ⚠️ **Crawl thất bại** – Tất cả các nguồn chính thức không truy cập được:
-> - `vanban.chinhphu.vn` (docid 441106): Trả về HTML rỗng (1245 bytes)
-> - `datafiles.chinhphu.vn`: HTTP 403 Forbidden
-> - `luatvietnam.vn`: Cloudflare chặn (CF Ray a1f4956ccda41097)
-> - `thuvienphapluat.vn`: Cloudflare chặn
-> - `vbpl.vn`: API trả 404
-> - PDF: Không tìm được URL hợp lệ
->
-> **Ngày thử:** 2026-07-22. Nguồn cần truy cập thủ công hoặc qua browser session có cookie.
+Chính phủ Việt Nam ban hành Nghị quyết số 191/NQ-CP ngày 21 tháng 7 năm 2026 về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng.
 
-## GHI CHÚ CRAWL
+**Đối tượng sửa đổi, bổ sung (9 luật):**
 
-- **Ngày thử crawl:** 2026-07-22
-- **Lý do thất bại:** Tất cả nguồn chính thức đều bị chặn hoặc trả lỗi (xem TRẠNG THÁI)
-- **Metadata đã xác nhận:** Số hiệu 191/NQ-CP, ngày 21/7/2026, Chính phủ ban hành, Thủ tướng ký
-- **Nơi nhận:** Đã có trong stub (danh sách 14 cơ quan)
-- **Nội dung:** Cần crawl thủ công khi nguồn sẵn sàng
-- **9 luật dự kiến sửa đổi:** QP, Sĩ quan QĐND, QNCN-VCQPhòng, NVQS, Biên phòng, PKND, LLDBĐV, PTTDS, DQTV
+1. Luật Quốc phòng;
+2. Luật Sĩ quan Quân đội nhân dân Việt Nam;
+3. Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng;
+4. Luật Nghĩa vụ quân sự;
+5. Luật Biên phòng Việt Nam;
+6. Luật Phòng không nhân dân;
+7. Luật Lực lượng dự bị động viên;
+8. Luật Phòng thủ dân sự;
+9. Luật Dân quân tự vệ.
+
+**Nội dung chính:**
+
+- Chính phủ cơ bản thống nhất về sự cần thiết xây dựng và nội dung dự án Luật do Bộ Quốc phòng trình.
+- Mục đích: thể chế hóa kịp thời, đầy đủ quan điểm của Đảng về sắp xếp, tổ chức bộ máy của hệ thống chính trị, mô hình chính quyền ba cấp, gắn với phân cấp, phân quyền tối đa, cắt giảm, đơn giản hóa thủ tục hành chính, bảo đảm tính thống nhất, đồng bộ của hệ thống pháp luật và nâng cao hiệu lực, hiệu quả quản lý nhà nước.
+- Chính phủ giao Bộ Quốc phòng chủ trì, phối hợp với các bộ, cơ quan liên quan nghiên cứu, tiếp thu ý kiến, khẩn trương chỉnh lý và hoàn thiện hồ sơ dự án Luật.
+- Phó Thủ tướng Phan Văn Giang thay mặt Chính phủ ký Tờ trình trình Ủy ban Thường vụ Quốc hội, Quốc hội bổ sung vào Chương trình lập pháp năm 2026 và thông qua tại Kỳ họp không thường lệ thứ Nhất (theo trình tự, thủ tục rút gọn).
+
+> ⚠️ **Stub — chưa hoàn thành.** Văn bản gốc (PDF có chữ ký số) chưa được công bố. Nội dung trên dựa trên tóm tắt báo chí. Cần cập nhật khi nguồn chính thức có đầy đủ.
 
 ## NƠI NHẬN
 
