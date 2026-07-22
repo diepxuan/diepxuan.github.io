@@ -1,3 +1,38 @@
+## Cập nhật 2026-07-22 v7 (Đệ #1 Discovery — Heartbeat 2026-07-22 17:59 ICT)
+
+### Phát hiện: 5 văn bản mới — 4 Nghị định + 1 Thông tư chính thức
+
+Quét sitemap_nghidinh (fetch 2026-07-22 17:59 ICT) + sitemap_thongtu (fetch 2026-07-22 17:59 ICT). So sánh với ref cũ: sitemap_nghidinh **441066**, sitemap_thongtu d1 **441105**. Cloudflare chặn web_fetch/truy cập trực tiếp — metadata trích từ sitemap `<loc>` URL và `lastmod`. **Phát hiện 4 Nghị định + 1 Thông tư chính thức (-d1) mới.**
+
+| Số hiệu | Ban hành* | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
+|---|:---:|---|---|---:|---|---|
+| **291/2026/NĐ-CP** | **22/07/2026*** | **Sửa đổi quy định xử phạt vi phạm hành chính về thuế - hóa đơn** — sửa đổi quy định xử phạt vi phạm hành chính trong lĩnh vực thuế, liên quan hóa đơn. Cơ quan: Chính phủ. | Thuế / Xử phạt thuế | 441168 | **VĂN BẢN MỚI** — sitemap lastmod 2026-07-22T17:12:11+07:00. Cloudflare block — web_fetch ❌. **ƯU TIÊN TRUNG BÌNH** — sửa đổi quy định xử phạt thuế, ảnh hưởng doanh nghiệp. |
+| **287/2026/NĐ-CP** | **22/07/2026*** | **Quy định tiền bản quyền trong điện ảnh, mỹ thuật, nhiếp ảnh** — quy định về tiền bản quyền, sở hữu trí tuệ trong lĩnh vực điện ảnh, mỹ thuật, nhiếp ảnh. Cơ quan: Chính phủ. | Sở hữu trí tuệ / Điện ảnh & Nhiếp ảnh | 441101 | **VĂN BẢN MỚI** — sitemap lastmod 2026-07-22T17:57:55+07:00. Cloudflare block — web_fetch ❌. **ƯU TIÊN TRUNG BÌNH** — quy định mới về sở hữu trí tuệ trong văn hóa, ảnh hưởng ngành sáng tạo. |
+| **286/2026/NĐ-CP** | **22/07/2026*** | **Quy định quản lý nhập cảnh, xuất cảnh của người nước ngoài** — quy định quản lý nhập cảnh, xuất cảnh đối với người nước ngoài. Cơ quan: Chính phủ. | Xuất nhập cảnh / Quản lý người nước ngoài | 441100 | **VĂN BẢN MỚI** — sitemap lastmod 2026-07-22T17:57:55+07:00. Cloudflare block — web_fetch ❌. **ƯU TIÊN TRUNG BÌNH** — quy định xuất nhập cảnh người nước ngoài, ảnh hưởng du lịch và ngoại giao. |
+| **285/2026/NĐ-CP** | **22/07/2026*** | **Sửa đổi Nghị định 46/2019/NĐ-CP về xử phạt vi phạm thể thao** — sửa đổi, bổ sung quy định xử phạt vi phạm hành chính trong lĩnh vực thể thao. Cơ quan: Chính phủ. | Vi phạm hành chính / Thể thao | 441098 | **VĂN BẢN MỚI** — sitemap lastmod 2026-07-22T17:57:55+07:00. Cloudflare block — web_fetch ❌. **ƯU TIÊN THẤP** — sửa đổi Nghị định xử phạt thể thao. |
+| **20/2026/TT-BVHTTDL** | **22/07/2026*** | **Quy định chi tiết hồ sơ, thủ tục cấp giấy phép báo chí** — quy định chi tiết hồ sơ và thủ tục cấp giấy phép hoạt động báo chí. Cơ quan: Bộ VHTTDL. | Thông tin / Báo chí | 441103 | **VĂN BẢN MỚI** — sitemap lastmod 2026-07-22T11:26:43+07:00. Cloudflare block — web_fetch ❌. **ƯU TIÊN THẤP** — quy định thủ tục cấp phép báo chí. |
+
+*Ngày ban hành ước tính từ sitemap lastmod — web_fetch bị Cloudflare chặn, chưa xác minh ngày chính xác.*
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref cũ | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-22T17:57:55+07:00 | ref: 441066 | **THAY ĐỔI** — 4 entry mới: 291 (441168), 287 (441101), 286 (441100), 285 (441098). lastmod 17:57:55 hôm nay. |
+| sitemap_thongtu | 2026-07-22T11:57:44+07:00 | ref d1: 441105 | **THAY ĐỔI** — 20/TT-BVHTTDL (441103, lastmod 11:26) là d1 mới. 21/TT-BVHTTDL (441104) đã có. |
+
+### Ghi chú xử lý
+
+- **4 Nghị định mới**: 291, 287, 286, 285/2026/NĐ-CP — tất cả lastmod hôm nay 22/7. **ƯU TIÊN CAO NHẤT**: 291/NĐ-CP (sửa đổi xử phạt thuế-hóa đơn) vì ảnh hưởng trực tiếp đến doanh nghiệp.
+- **1 Thông tư mới**: 20/2026/TT-BVHTTDL (cấp giấy phép báo chí, 441103).
+- **Cloudflare block**: Tất cả trang doc chi tiết đều bị Cloudflare chặn (404/403/Cloudflare Challenge). Chỉ sitemap còn truy cập được. Thông tin metadata trích từ URL slug + lastmod sitemap.
+- **Dự thảo (d10) trong sitemap_thongtu**: Nhiều d10 mới (441105-d10, 441094-d10, 441061-d10, 441046-d10...) — bỏ qua theo quy định.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-22 17:59 ICT, 82KB), luatvietnam.vn sitemap_thongtu (fetch 2026-07-22 17:59 ICT, 175KB).
+- Ngày phát hiện: 2026-07-22 18:04 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:2f9a17d7-b8c2-4ffc-a416-23d6333d7b1e
+
+---
+
 ## Cập nhật 2026-07-18 v6 (Đệ #1 Discovery — 2026-07-18 19:05 ICT)
 
 ### Phát hiện: 1 văn bản mới — 284/2026/NĐ-CP (tài sản mã hóa, sitemap lastmod 18/7 08:38 ICT)
