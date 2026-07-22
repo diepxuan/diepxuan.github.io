@@ -1,3 +1,53 @@
+## Cập nhật 2026-07-22 v17 (Đệ #1 Discovery — 2026-07-22 19:06 ICT)
+
+### Kết quả: CÓ văn bản mới — 4 slug mới phát hiện (sitemap_nghidinh)
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v16.
+
+**Tìm thấy 4 slug `-d1` mới trong sitemap_nghidinh** (> ref 441066 / 440755):
+
+| Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---:|---|---|---:|---|
+| **441168** | **291/2026/NĐ-CP** | **21/07/2026** | Sửa đổi, bổ sung một số điều NĐ 125/2020/NĐ-CP về xử phạt VPHC về thuế, hóa đơn — bổ sung Điều 19a (xử phạt không cung cấp thông tin phục vụ trao đổi thông tin thuế quốc tế); người ký Phó Thủ tướng Nguyễn Văn Thắng | Thuế / Hóa đơn / VPHC | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày 21/7/2026 + nội dung Điều 19a (10–100 triệu) xác minh từ luatvietnam.vn |
+| **441101** | **287/2026/NĐ-CP** | **17/07/2026** | Quy định về tiền bản quyền trong các lĩnh vực: Điện ảnh, mỹ thuật, nhiếp ảnh, nghệ thuật biểu diễn, báo chí, xuất bản — căn cứ Luật Sở hữu trí tuệ; tiền bản quyền sáng tạo từ ngân sách nhà nước + khai thác quyền tác giả nhà nước đại diện | Sở hữu trí tuệ / Văn hóa | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + Chương I–III (Điều 1–8) xác minh từ luatvietnam.vn |
+| **441100** | **286/2026/NĐ-CP** | **17/07/2026** | Quy định cơ chế phối hợp giữa các bộ, cơ quan ngang bộ, UBND tỉnh trong công tác quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam — Bộ Công an chủ trì; người ký Thủ tướng | Xuat nhập cảnh / Công an | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Chương I–II (Điều 1–12) xác minh từ luatvietnam.vn |
+| **441098** | **285/2026/NĐ-CP** | **17/07/2026** | Sửa đổi, bổ sung một số điều NĐ 46/2019/NĐ-CP về xử phạt VPHC trong lĩnh vực thể thao — bổ sung Điều 2b (xử lý VPHC trên môi trường điện tử), mở rộng thẩm quyền xử phạt | Thể thao / VPHC | **THẤP** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–5 xác minh từ luatvietnam.vn |
+
+### Chi tiết sitemap
+
+**sitemap_nghidinh** (2026-07-22 19:06 ICT via curl):
+- 4 slug d1 mới: 441168, 441101, 441100, 441098 — hoàn toàn mới so với ref v16 (441066/440755)
+- Highest chính thức: **291/2026/NĐ-CP** (slug 441168, 21/7/2026)
+- Entry mới nhất 441168 có lastmod 2026-07-22T17:12:11+07:00
+- Ngoài ra slug 441239 = NĐ 279 (Giáo dục) đã trùng trong sitemap nhưng đã tracked từ phiên trước
+
+**sitemap_thongtu** (2026-07-22 19:06 ICT via curl):
+- Hoàn toàn không đổi so với ref v16 — highest d1 = 441105 (d10, bỏ qua) / 441104 (21/TT-BVHTTDL)
+- Tất cả d1 slugs 441104 → 440521 đã trong tracking
+- Không có d1 mới
+
+**van-ban-moi.html ref**: giữ nguyên v16 — max slug đã phát hiện = **441162** (08/NQ-HĐND Quảng Trị)
+
+### Ref cập nhật sau v17
+
+- **sitemap_nghidinh ref**: **441168** / 440755
+- **sitemap_thongtu ref**: giữ nguyên v16 — **441105** (d10) / **441104** (21/TT-BVHTTDL)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** đều là Nghị định chính phủ (d1, ưu tiên trung bình-thấp):
+  - **291/NĐ-CP** (441168): Sửa đổi xử phạt thuế — bổ sung Điều 19a xử phạt không cung cấp thông tin trao đổi thuế quốc tế (10–100 triệu). Đáng chú ý: có hiệu lực ngay ngày ký (21/7/2026). **ƯU TIÊN TRUNG BÌNH** — tác động trực tiếp đến doanh nghiệp có giao dịch thuế xuyên biên giới.
+  - **287/NĐ-CP** (441101): Tiền bản quyền trong điện ảnh/mỹ thuật/biểu diễn/báo chí/xuất bản — khung chi trả dựa trên % giá thành/phần trăm doanh thu. **ƯU TIÊN TRUNG BÌNH** — tác động đến ngành văn hóa.
+  - **286/NĐ-CP** (441100): Cơ chế phối hợp quản lý người nước ngoài nhập/cư trú — Bộ Công an chủ trì, liên quan Bộ Ngoại giao, QP, UBND tỉnh. **ƯU TIÊN TRUNG BÌNH** — tác động đến quản lý xuất nhập cảnh.
+  - **285/NĐ-CP** (441098): Sửa đổi xử phạt thể thao — bổ sung xử lý VPHC trên môi trường điện tử. **ƯU TIÊN THẤP**.
+- **Phương pháp**: curl trực tiếp sitemap (không qua web_fetch để tránh Firecrawl 402). Cloudflare allowlist cho curl → sitemap accessible trực tiếp. Cần dùng curl cho sitemap trong các phiên tới.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-22T12:06:51Z, lastmod 441168 = 2026-07-22T17:12:11+07:00), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-22T12:06:57Z), web_fetch slug 441168, 441101, 441100, 441098.
+- Ngày phát hiện: 2026-07-22 19:06 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:1f20d297-6dfb-48dc-a0e1-36ca8b761c10 (Đệ #1 Discovery v17)
+
+---
+
 ## Cập nhật 2026-07-22 v16 (Đệ #1 Discovery — 2026-07-22 16:36 ICT)
 
 ### Kết quả: CÓ văn bản mới — 14 slug mới phát hiện (giới hạn ghi 5)
