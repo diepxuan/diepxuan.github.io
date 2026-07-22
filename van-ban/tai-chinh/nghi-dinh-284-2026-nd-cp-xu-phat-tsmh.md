@@ -30,7 +30,7 @@ tags:
   - Bộ Tài chính
   - Nghị quyết 05/2025/NQ-CP
 docid: "218906"
-source: "vanban.chinhphu.vn; datafiles.chinhphu.vn"
+source: "luatvietnam.vn; datafiles.chinhphu.vn (284-ndcp.signed.pdf, signed, 23 pages)"
 stt: 284
 thay_the: ""
 bo_sung: ""
