@@ -1,3 +1,47 @@
+## Cập nhật 2026-07-23 v18 (Đệ #1 Discovery — 2026-07-23 00:06 ICT)
+
+### Kết quả: CÓ 4 văn bản mới (sitemap_nghidinh)
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v17.
+
+**sitemap_nghidinh**: ref 441168 (291/NĐ-CP, 21/7/2026) → có **4 slug d1 mới** > 441168:
+
+| Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---:|---|---|---:|---|
+| **441101** | **287/2026/NĐ-CP** | **17/07/2026** | Quy định về tiền bản quyền trong các lĩnh vực: Điện ảnh, mỹ thuật, nhiếp ảnh, nghệ thuật biểu diễn, báo chí, xuất bản — căn cứ Luật Sở hữu trí tuệ; tiền bản quyền sáng tạo từ ngân sách nhà nước + khai thác quyền tác giả nhà nước đại diện | Sở hữu trí tuệ / Văn hóa | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + Chương I (Điều 1–3) xác minh từ luatvietnam.vn |
+| **441100** | **286/2026/NĐ-CP** | **17/07/2026** | Quy định cơ chế phối hợp giữa các bộ, cơ quan ngang bộ, UBND tỉnh trong công tác quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam — Bộ Công an chủ trì; người ký Thủ tướng | Xuất nhập cảnh / Công an | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + Chương I–II (Điều 1–8) xác minh từ luatvietnam.vn |
+| **441098** | **285/2026/NĐ-CP** | **17/07/2026** | Sửa đổi, bổ sung một số điều NĐ 46/2019/NĐ-CP về xử phạt VPHC trong lĩnh vực thể thao — bổ sung Điều 2b (xử lý VPHC trên môi trường điện tử), mở rộng thẩm quyền xử phạt | Thể thao / VPHC | **THẤP** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–2 xác minh từ luatvietnam.vn |
+| **441066** | **289/2026/NĐ-CP** | **21/07/2026** | Quản lý, bảo đảm an ninh, trật tự tại cửa khẩu cảng do Bộ Công an quản lý — hiệu lực 01/10/2026 | An ninh trật tự / Cửa khẩu | **TRUNG BÌNH** | ✅ Số hiệu + ngày 21/7/2026 + nội dung xác minh từ luatvietnam.vn |
+
+**sitemap_thongtu**: ref 441105 (d10) / 441104 (21/TT-BVHTTDL) → có **3 slug d1 mới** > 441104:
+
+| Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---:|---|---|---:|---|
+| **441103** | **20/2026/TT-BVHTTDL** | **30/06/2026** | Quy định chi tiết hồ sơ, thủ tục cấp, sửa đổi, bổ sung giấy phép hoạt động báo chí; điều kiện, hồ sơ, thủ tục cấp giấy phép xuất bản bản tin, đặc san — người ký Lâm Thị Phương Thanh | Văn hóa / Báo chí | **TRUNG BÌNH** | ✅ Số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
+| **441053** | **117/2026/TT-BCA** | **29/06/2026** | Quy định chi tiết quy trình thu thập, cập nhật, tra cứu, khai thác, kết nối, chia sẻ, bảo đảm an ninh mạng, bảo vệ dữ liệu đối với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước | Công an / An ninh mạng | **TRUNG BÌNH** | ✅ Số hiệu 117/2026/TT-BCA + ngày 29/6/2026 + trích yếu xác minh từ luatvietnam.vn |
+| **441040** | **61/2026/TT-BGDĐT** | **17/07/2026** | Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học — căn cứ Luật GD 43/2019 (sửa), Luật GDĐH 125/2025, NĐ 279/2026 | Giáo dục / GDĐH | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–2 xác minh từ luatvietnam.vn |
+
+**Lưu ý**: 441105 là dự thảo (`-d10`) → bỏ qua.
+
+### Ref cập nhật sau v18
+
+- **sitemap_nghidinh ref**: **441101** / 440755
+- **sitemap_thongtu ref**: **441105** (d10, entry mới nhất) / **441103** (20/TT-BVHTTDL, d1 mới nhất) / batch 441103
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú xử lý
+
+- **4 văn bản mới từ sitemap_nghidinh** + **3 văn bản mới từ sitemap_thongtu** = tổng 7 slug mới. Trong đó 441066 (289/NĐ-CP) đã được ghi nhận trong v12 nhưng trùng slug (hiện cùng slug 441066 trùng với cả 291/NĐ-CP ref mới trong v17). Giữ nguyên slug 441066 trong tracking với trạng thái "VĂN BẢN MỚI (v12)".
+- **287/NĐ-CP** (441101): Tiền bản quyền điện ảnh/mỹ thuật/biểu diễn/báo chí/xuất bản — khung chi trả dựa trên % giá thành/phần trăm doanh thu. **ƯU TIÊN TRUNG BÌNH** — tác động đến ngành văn hóa.
+- **286/NĐ-CP** (441100): Cơ chế phối hợp quản lý người nước ngoài nhập/cư trú — Bộ Công an chủ trì. **ƯU TIÊN TRUNG BÌNH** — tác động đến quản lý xuất nhập cảnh.
+- **285/NĐ-CP** (441098): Sửa đổi xử phạt thể thao — bổ sung xử lý VPHC trên môi trường điện tử. **ƯU TIÊN THẤP**.
+- **Phương pháp**: curl trực tiếp sitemap (Cloudflare allowlist cho curl). Hiệu quả — Cloudflare allowlist cho phép direct sitemap access.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-23T00:04:xxZ, entries 441101, 441100, 441098, 441066), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-23T00:04:xxZ, entries 441103, 441053, 441040), web_fetch xác minh 7 slug.
+- Ngày phát hiện: 2026-07-23 00:06 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:b1fff405-098a-4a7e-ac02-9f2771e63fc3 (Đệ #1 Discovery v18)
+
+---
+
 ## Cập nhật 2026-07-22 v18 (Đệ #1 Discovery — 2026-07-22 23:04 ICT)
 
 ### Kết quả: KHÔNG có văn bản mới
