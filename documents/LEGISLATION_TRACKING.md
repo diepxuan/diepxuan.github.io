@@ -311,7 +311,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 14:04 ICT 2026-07-22) đối chi
 | **117/2026/TT-BCA** | VĂN BẢN MỚI (v13) | An ninh mạng & bảo vệ dữ liệu dân cư — ƯU TIÊN TRUNG BÌNH |
 | **61/2026/TT-BGDĐT** | VĂN BẢN MỚI (v13) | Tài nguyên giáo dục mở trong GDĐH — ƯU TIÊN TRUNG BÌNH |
 | **191/NQ-CP** | VĂN BẢN MỚI (v15) | Dự án sửa đổi 09 luật về quân sự, quốc phòng — ngày 21/7/2026, slug 441106 — ƯU TIÊN TRUNG BÌNH |
-| **16-NQ/TW** | VĂN BẢN MỚI (v15) | Xây dựng và phát triển thành phố Đồng Nai đến 2035, tầm nhìn 2065 — ngày 21/7/2026, slug 441102 — ƯU TIÊN TRUNG BÌNH |
+| **16-NQ/TW** | **Chưa hoàn thiện** | Xây dựng và phát triển thành phố Đồng Nai đến 2035, tầm nhìn 2065 — ngày 21/7/2026, slug 441102, Bộ Chính trị, Tổng Bí thư Tô Lâm. Phần I (Tình hình), II (Quan điểm, Mục tiêu), III (7 Nhiệm vụ trọng tâm) đầy đủ (16KB); thiếu Phần IV và khối ký. Nguồn không khả dụng: vanban.chinhphu.vn (SPA), luatvietnam.vn (402), datafiles (403), vbpl.vn (404) |
 | **1341/QĐ-TTg** | VĂN BẢN MỚI (v15) | Hỗ trợ 1.000 tỷ đồng cho 19 địa phương đo đạc, lập bản đồ địa chính, CSDL đất đai 2026 — ngày 21/7/2026, slug 441074 — ƯU TIÊN TRUNG BÌNH |
 | **850/QĐ-CĐBVN** | VĂN BẢN MỚI (v15) | Khẩn cấp khắc phục hậu quả thiên tai QL.6 Sơn La, Điện Biên — ngày 21/7/2026, slug 441073 — ƯU TIÊU THẤP |
 | **2839/QĐ-BNNMT** | VĂN BẢN MỚI (v15) | Công bố giá trị dòng chảy tối thiểu hạ lưu đập, hồ chứa — ngày 21/7/2026, slug 441071 — ƯU TIÊN TRUNG BÌNH |
