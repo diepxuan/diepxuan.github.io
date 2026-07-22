@@ -86,6 +86,7 @@ Sitemap quet luc: 2026-07-21T04:33 ICT
 | # | So hieu | Ngay | Trich yeu | Nhom | Trang thai |
 |---|---------|------|-----------|------|------------|
 | 1 | **16-NQ/TW** | 2026-07-21 | Ve xay dung va phat trien thanh pho Dong Nai den nam 2035, tam nhin den nam 2065 (Bộ Chính trị, Tổng Bí thư Tô Lâm) | Xây dựng / Đô thị | **STUB - nội dung chưa truy cập được** |
+| 2 | **191/NQ-CP** | 2026-07-21 | Ve du an Luat sua doi, bo sung mot so dieu cua 09 luat ve quan su, quoc phong (Thủ tướng; docid 441106) | Quân sự / Quốc phòng | **STUB - toan van chua truy cap duoc (PDF/datafiles 403/404; vanban 404; luatvietnam 404)** |
 
 **Ghi chu:** vanban.chinhphu.vn docid 441102 trả "Không tìm thấy văn bản này". File PDF/DOC trên datafiles.chinhphu.vn đều 404. File stub: `van-ban/xay-dung-nha-o-do-thi/16-nq-tw-xay-dung-phat-trien-dong-nai.md`.
 
