@@ -24,7 +24,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 08:40 ICT 2026-07-22) đối chi
 | Số hiệu | Trạng thái | Ghi chú |
 |---|:---:|---|
 | **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
-| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **284/2026/NĐ-CP** | HOÀN THIỆN ✅ | Xử phạt tài sản mã hóa — nguồn: luatvietnam.vn + signed PDF (284-ndcp.signed.pdf), 23 Điều, quality gate PASS |
 | **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
 | **60/2026/TT-BGDĐT** | VĂN BẢN MỚI (v9) | Tiêu chuẩn tài liệu GD mầm non — ƯU TIÊN TRUNG BÌNH |
 | **51/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Bộ Quy chế AT hàng không tàu bay — ƯU TIÊN TRUNG BÌNH |
