@@ -1,3 +1,57 @@
+## Cập nhật 2026-07-22 v16 (Đệ #1 Discovery — 2026-07-22 16:36 ICT)
+
+### Kết quả: CÓ văn bản mới — 14 slug mới phát hiện (giới hạn ghi 5)
+
+Phương pháp: AJAX endpoint `/van-ban/AjaxDoc/DocsNewestAjax` (pageSize=100, pages 2–15) quét toàn bộ 1,709 văn bản mới trong tháng qua để tìm slug > ref 441147.
+
+**Tìm thấy 14 slug mới** (> 441147), tất cả đều là **d2** (văn bản cơ sở HĐND/UBND tỉnh):
+
+| Slug | Số hiệu | Cơ quan | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---|:---:|---|---|---:|---|
+| 441162 | 08/2026/NQ-HĐND | HĐND tỉnh Quảng Trị | 17/07 | Phân bổ vốn ngân sách Chương trình phòng chống ma túy giai đoạn 2026-2030 — người ký Nguyễn Đăng Quang; lĩnh vực: Y tế, Chính sách | An ninh / Y tế | **THẤP** | ✅ Title + số hiệu + ngày 17/7/2026 + cơ quan + trích yếu xác minh |
+| 441161 | 83/2026/QĐ-UBND | UBND tỉnh Đồng Tháp | — | Ban hành Bộ tiêu chí nông thôn mới giai đoạn 2026-2030 — người ký Phạm Thành Ngại; lĩnh vực: Hành chính, Nông thôn | Nông thôn mới | **THẤP** | ✅ Title + số hiệu + cơ quan + trích yếu xác minh |
+| 441160 | 55/2026/QĐ-UBND | UBND tỉnh Khánh Hòa | — | Phân cấp quản lý nhà nước an toàn công trình thủy điện nhỏ — lĩnh vực: Công nghiệp, Tài nguyên | Công nghiệp | **THẤP** | ✅ Title + slug URL xác minh |
+| 441159 | 56/2026/QĐ-UBND | UBND tỉnh Khánh Hòa | 20/07 | Định mức kinh tế - kỹ thuật xây dựng bảng giá đất; điều chỉnh, sửa đổi bảng giá đất; định giá đất cụ thể — người ký Trần Hòa Nam; lĩnh vực: Đất đai | Đất đai | **THẤP** | ✅ Title + số hiệu + ngày 20/7/2026 + cơ quan + trích yếu xác minh |
+| 441158 | 84/2026/QĐ-UBND | UBND tỉnh Đồng Tháp | 21/07 | Phân cấp thẩm quyền quản lý nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách Nhà nước — người ký Huỳnh Minh Tuấn; lĩnh vực: Khoa học, Cơ cấu tổ chức | Khoa học | **THẤP** | ✅ Title + số hiệu + ngày 21/7/2026 + cơ quan + trích yếu xác minh |
+
+### Tất cả 14 slug mới phát hiện (danh sách đầy đủ)
+
+| Slug | Số hiệu | Cơ quan | Trích yếu | Nhóm |
+|---:|---:|---|---|---|
+| 441162 | 08/2026/NQ-HĐND | HĐND Quảng Trị | Phân bổ vốn ngân sách Chương trình phòng chống ma túy 2026-2030 | An ninh/Y tế |
+| 441161 | 83/2026/QĐ-UBND | UBND Đồng Tháp | Ban hành Bộ tiêu chí nông thôn mới 2026-2030 | Hành chính |
+| 441160 | 55/2026/QĐ-UBND | UBND Khánh Hòa | Phân cấp quản lý nhà nước an toàn thủy điện nhỏ | Công nghiệp |
+| 441159 | 56/2026/QĐ-UBND | UBND Khánh Hòa | Định mức KTKT xây dựng bảng giá đất | Đất đai |
+| 441158 | 84/2026/QĐ-UBND | UBND Đồng Tháp | Phân cấp thẩm quyền quản lý nhiệm vụ KHCN | Khoa học |
+| 441157 | 85/2026/NQ-HĐND | HĐND Gia Lai | Hỗ trợ trẻ em mầm non, học sinh, sinh viên dân tộc thiểu số | Giáo dục |
+| 441156 | 83/2026/NQ-HĐND | HĐND Gia Lai | Hỗ trợ lưu học sinh Lào, Campuchia 2026-2030 | Giáo dục |
+| 441155 | 82/2026/NQ-HĐND | HĐND Gia Lai | Hỗ trợ phát triển nuôi trồng thủy sản công nghệ cao | Chính sách |
+| 441154 | 89/2026/QĐ-UBND | UBND Ninh Bình | Quy chế quản lý và sử dụng viện trợ không hoàn lại | Tài chính |
+| 441153 | 88/2026/QĐ-CTUBND | UBND Ninh Bình | Phân cấp quản lý khai thác tài sản hạ tầng đường thủy | Cơ cấu tổ chức |
+| 441152 | 91/2026/QĐ-CTUBND | UBND Ninh Bình | Phân cấp thẩm quyền xử lý tài sản kết cấu hạ tầng đường bộ | Cơ cấu tổ chức |
+| 441151 | 4515/QĐ-UBND | UBND TP.HCM | Bãi bỏ QĐ liên quan quan trắc môi trường (QĐ cũ trước sắp xếp) | Tài nguyên |
+| 441150 | 4514/QĐ-UBND | UBND TP.HCM | Chương trình phát triển nông nghiệp đô thị 2026-2030, tầm nhìn 2050 | Chính sách |
+| 441149 | 392/KH-UBND | UBND TP.HCM | Thực hiện Chiến lược phát triển ngành văn hóa TP.HCM 2020-2035, phân kỳ 2026-2028 | Văn hóa |
+
+### Ref cập nhật sau v16
+
+- **van-ban-moi.html max slug đã phát hiện**: **441162** (08/2026/NQ-HĐND Quảng Trị)
+- sitemap_nghidinh ref: giữ nguyên — **441066** / 440755
+- sitemap_thongtu ref: giữ nguyên — **441105** (d10) / **441104** (21/TT-BVHTTDL)
+
+### Ghi chú xử lý
+
+- **14 văn bản mới** đều là **d2** (văn bản cơ sở tỉnh/thành phố), phát hiện nhờ scan đầy đủ 1,709 văn bản qua AJAX endpoint trên 14 trang (pageSize=20, pages 2–15). Không có văn bản d1 (luật, nghị định, thông tư liên tịch) nào trong dải 441148–441162.
+- **Ưu tiên thấp**: Toàn bộ 14 văn bản đều là QĐ-UBND, NQ-HĐND cấp tỉnh — không thuộc nhóm văn bản trung ương cần theo dõi sát. Không crawl toàn văn.
+- **Văn bản nổi bật nhất trong batch** (ưu tiên thấp nhưng có ý nghĩa): 08/2026/NQ-HĐND Quảng Trị — phân bổ ngân sách phòng chống ma túy (an ninh xã hội); 392/KH-UBND TP.HCM — chiến lược văn hóa đô thị; 4514/QĐ-UBND TP.HCM — nông nghiệp đô thị tầm nhìn 2050.
+- **Phương pháp**: AJAX endpoint cho phép scan toàn bộ 1,709 văn bản theo ngày ban hành (OrderBy=0), hiệu quả hơn sitemap thông thường. Kết hợp sitemap + AJAX discovery = phạm vi rộng nhất.
+- **Firecrawl credits**: Đã hết credits (402) khi fetch 2 URL — chuyển sang dùng curl trực tiếp cho các URL còn lại.
+- Nguồn: luatvietnam.vn/van-ban/AjaxDoc/DocsNewestAjax (pages 1–15, pageSize=20), fetch 2026-07-22T09:34–09:46 ICT.
+- Ngày phát hiện: 2026-07-22 16:36 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:38cd4050-0b98-433a-a39b-8aacce11f2fe (Đệ #1 Discovery v16)
+
+---
+
 ## Cập nhật 2026-07-22 v15 (Đệ #1 Discovery — 2026-07-22 16:02 ICT)
 
 ### Kết quả: CÓ văn bản mới từ van-ban-moi.html
