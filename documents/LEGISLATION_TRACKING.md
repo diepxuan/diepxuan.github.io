@@ -1,3 +1,31 @@
+## Cập nhật 2026-07-23 v19 (Đệ #1 Discovery — 2026-07-23 01:02 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v18.
+
+**sitemap_nghidinh**: ref 441168 (291/NĐ-CP, 21/7/2026) — entry cao nhất trong sitemap = 441168. Không có slug d1 mới.
+
+**sitemap_thongtu**: ref 441105 (d10, bỏ qua) / 441104 (21/TT-BVHTTDL, 20/7/2026) — entry cao nhất d1 = 441104. Không có slug d1 mới.
+
+**van-ban-moi.html**: highest slug = 441134 (d2, QĐ-UBND), tất cả d1 là luật cũ. Không có văn bản mới.
+
+### Ref cập nhật sau v19
+
+- **sitemap_nghidinh ref**: **441168** / 440755 (giữ nguyên v18)
+- **sitemap_thongtu ref**: **441105** (d10, entry mới nhất) / **441104** (21/TT-BVHTTDL, d1 mới nhất) / batch 441103 (giữ nguyên v18)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** — cả 2 sitemap đều ổn định hoàn toàn so với v18.
+- **Phương pháp**: curl trực tiếp sitemap (Cloudflare allowlist cho phép direct sitemap access).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-23T18:02:xxZ), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-23T18:02:xxZ), luatvietnam.vn van-ban-moi.html (fetch curl 2026-07-23T18:02:xxZ).
+- Ngày phát hiện: 2026-07-23 01:02 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:afddbc08-6d5e-4035-8a1c-a96bf6896a7e (Đệ #1 Discovery v19)
+
+---
+
 ## Cập nhật 2026-07-23 v18 (Đệ #1 Discovery — 2026-07-23 00:06 ICT)
 
 ### Kết quả: CÓ 4 văn bản mới (sitemap_nghidinh)

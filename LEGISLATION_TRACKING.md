@@ -1,9 +1,9 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-07-20T14:35 GMT+7
-> Nguồn quét: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 14:32) + sitemap_thongtu (lastmod 2026-07-20 14:32)
-> **Ghi chú lần quét này**: 5 văn bản mới từ batch sitemap lastmod 2026-07-20 11:56+07:00 (sitemap_thongtu). Không có NĐ-CP mới trong sitemap_nghidinh (đã có đến NĐ 284). Sitemap_nghiquyet.xml và sitemap_quyetdinh.xml vẫn 404. Tất cả 5 văn bản xác minh toàn văn trên luatvietnam.vn.
+> Phiên bản: 2026-07-23T00:36 GMT+7
+> Nguồn quét: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-22 17:12+07:00) + sitemap_thongtu (lastmod 2026-07-22 11:43+07:00)
+> **Ghi chú lần quét này**: Phát hiện 5 văn bản d1 mới. Nghị định: 291, 287, 286, 285, 289. Thông tư: TT 21/2026/BVHTTDL (sửa TT 02/2025 về giải thi đấu thể thao). Ref mới: sitemap_nghidinh d1 max = 441168; sitemap_thongtu d1 max = 441104 (trước 441103).
 
 ---
 
@@ -18,6 +18,136 @@
 - Tổng văn bản phát hiện lần này: **5**
 - Văn bản đã có trong tracking lần trước: **0** (5 văn bản hoàn toàn mới, chưa từng ghi nhận)
 - Nguồn xác nhận: vanban.chinhphu.vn, thuvienphapluat.vn, luatvietnam.vn, baochinhphu.vn, giaoducthoidai.vn
+
+---
+
+
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-07-23T00:36 ICT
+
+> **Đệ #1 Discovery — Heartbeat 2026-07-23 00:30 ICT. Quét sitemap luatvietnam.vn. Phát hiện 5 văn bản d1 mới trong sitemap_nghidinh và sitemap_thongtu. sitemap_nghidinh ref không đổi (441168); sitemap_thongtu ref d1 mới: 441104 (trước 441103).**
+
+### 1. Nghị định 291/2026/NĐ-CP — Sửa đổi xử phạt vi phạm hành chính về thuế, hóa đơn
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 291/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 21/07/2026 |
+| **Hiệu lực** | Chưa rõ (đang theo dõi) |
+| **Chủ đề** | Thuế, Vi phạm hành chính |
+| **LuatVietnam** | `thue/nghi-dinh-291-2026-nd-cp-sua-doi-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-thue-hoa-don-441168-d1.html` |
+| **Slug** | 441168 |
+| **Sitemap** | lastmod 2026-07-22 17:12+07:00 |
+| **Nhóm** | Nghị định |
+| **Ưu tiên** | Cao |
+| **Mô tả** | Sửa đổi, bổ sung một số điều của Nghị định 125/2020/NĐ-CP về xử phạt vi phạm hành chính về thuế, hóa đơn. Bổ sung Mục 3 và Điều 19a về xử phạt hành vi cung cấp thông tin trao đổi thông tin thuế theo điều ước quốc tế. Phạt tiền 10-30 triệu đồng. |
+| **Ghi chú** | Sửa đổi NĐ 125/2020 (đã sửa bởi NĐ 102/2021, NĐ 310/2025) |
+
+---
+
+### 2. Nghị định 287/2026/NĐ-CP — Tiền bản quyền trong điện ảnh, mỹ thuật, nhiếp ảnh
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 287/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 17/07/2026 |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Sở hữu trí tuệ, Văn hóa |
+| **LuatVietnam** | `so-huu-tri-tue/nghi-dinh-287-2026-nd-cp-quy-dinh-tien-ban-quyen-trong-dien-anh-my-thuat-nhiep-anh-441101-d1.html` |
+| **Slug** | 441101 |
+| **Sitemap** | lastmod 2026-07-22 17:57+07:00 |
+| **Nhóm** | Nghị định |
+| **Ưu tiên** | Trung bình |
+| **Mô tả** | Quy định tiền bản quyền trong các lĩnh vực: Điện ảnh, mỹ thuật, nhiếp ảnh, nghệ thuật biểu diễn, báo chí, xuất bản. Áp dụng cho tiền bản quyền trả cho sáng tạo bằng ngân sách nhà nước và khai thác quyền tác giả mà Nhà nước là đại diện chủ sở hữu. |
+| **Ghi chú** | Theo đề nghị Bộ Văn hóa, Thể thao và Du lịch |
+
+---
+
+### 3. Nghị định 286/2026/NĐ-CP — Quản lý nhập cảnh, xuất cảnh người nước ngoài
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 286/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 17/07/2026 |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Xuất nhập cảnh, An ninh |
+| **LuatVietnam** | `xuat-nhap-canh/nghi-dinh-286-2026-nd-cp-quy-dinh-quan-ly-nhap-canh-xuat-canh-cua-nguoi-nuoc-ngoai-441100-d1.html` |
+| **Slug** | 441100 |
+| **Sitemap** | lastmod 2026-07-22 17:57+07:00 |
+| **Nhóm** | Nghị định |
+| **Ưu tiên** | Cao |
+| **Mô tả** | Quy định cơ chế phối hợp giữa các bộ, cơ quan ngang bộ, UBND cấp tỉnh trong công tác quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam. Nguyên tắc: Bộ Công an chủ trì. |
+| **Ghi chú** | Theo đề nghị Bộ Công an |
+
+---
+
+### 4. Nghị định 285/2026/NĐ-CP — Sửa đổi xử phạt vi phạm thể thao
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 285/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 17/07/2026 |
+| **Hiệu lực** | Chưa rõ |
+| **Chủ đề** | Thể thao, Vi phạm hành chính |
+| **LuatVietnam** | `vi-pham-hanh-chinh/nghi-dinh-285-2026-nd-cp-sua-doi-nghi-dinh-46-2019-nd-cp-ve-xu-phat-vi-pham-the-thao-441098-d1.html` |
+| **Slug** | 441098 |
+| **Sitemap** | lastmod 2026-07-22 17:57+07:00 |
+| **Nhóm** | Nghị định |
+| **Ưu tiên** | Thấp |
+| **Mô tả** | Sửa đổi, bổ sung một số điều của Nghị định 46/2019/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực thể thao. Bổ sung Điều 2b về xử lý vi phạm hành chính trên môi trường điện tử. Mở rộng thẩm quyền thanh tra Hàng hải Việt Nam, quân khu. |
+| **Ghi chú** | Sửa đổi NĐ 46/2019 (đã sửa bởi NĐ 129/2021) |
+
+---
+
+### 5. Nghị định 289/2026/NĐ-CP — Quản lý ANTT tại cửa khẩu cảng
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 289/2026/NĐ-CP |
+| **Loại** | Nghị định |
+| **Cơ quan** | Chính phủ |
+| **Ban hành** | 21/07/2026 |
+| **Hiệu lực** | 01/10/2026 |
+| **Chủ đề** | An ninh trật tự, Cửa khẩu |
+| **LuatVietnam** | `an-ninh-trat-tu/nghi-dinh-289-2026-nd-cp-quan-ly-an-ninh-trat-tu-tai-cua-khau-cang-hieu-luc-tu-01-10-2026-441066-d1.html` |
+| **Slug** | 441066 |
+| **Sitemap** | lastmod 2026-07-22 17:57+07:00 |
+| **Nhóm** | Nghị định |
+| **Ưu tiên** | Cao |
+| **Mô tả** | Quy định quản lý, bảo đảm an ninh, trật tự tại cửa khẩu cảng do Bộ Công an quản lý. Căn cứ: Luật Hàng hải 95/2015, Luật Tổ chức Chính phủ 63/2025, Luật Biên giới quốc gia, Luật An ninh quốc gia. |
+| **Ghi chú** | Hiệu lực 01/10/2026 |
+
+---
+
+### 6. Thông tư 21/2026/TT-BVHTTDL — Sửa đổi định mức tổ chức giải thi đấu thể thao
+
+| Trường | Giá trị |
+|--------|---------|
+| **Số** | 21/2026/TT-BVHTTDL |
+| **Loại** | Thông tư |
+| **Cơ quan** | Bộ Văn hóa, Thể thao và Du lịch |
+| **Ban hành** | 20/07/2026 |
+| **Hiệu lực** | 15/09/2026 |
+| **Chủ đề** | Thể thao, Định mức kinh tế - kỹ thuật |
+| **LuatVietnam** | `van-hoa/thong-tu-21-2026-tt-bvhttdl-sua-doi-thong-tu-02-2025-ve-to-chuc-giai-thi-dau-the-thao-441104-d1.html` |
+| **Slug** | 441104 |
+| **Sitemap** | lastmod 2026-07-22 11:21+07:00 |
+| **Nhóm** | Thông tư |
+| **Ưu tiên** | Thấp |
+| **Mô tả** | Sửa đổi, bổ sung một số điều của Thông tư 02/2025/TT-BVHTTDL về tổ chức giải thi đấu thể thao. Điều chỉnh định mức kinh tế - kỹ thuật cho dịch vụ tổ chức giải thi đấu thể thao trong nước và quốc tế. Sửa biểu số 03, 22, 46, 56, 57, 60 và bổ sung biểu số 75-79 (MMA, Kun Khmer, pickleball, teqball...). Áp dụng cho cơ quan dùng ngân sách nhà nước cung cấp dịch vụ sự nghiệp công. |
+| **Ghi chú** | Hiệu lực 15/09/2026. Không có d10 mới trong sitemap_thongtu (batch cũ còn lại: d10 max = 441105) |
+
+
 
 ---
 
