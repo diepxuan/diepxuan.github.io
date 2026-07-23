@@ -126,13 +126,24 @@ Heartbeat `crawl-vanban` dùng mô hình **một PR làm việc active**, không
 
 Quy tắc:
 
-1. Nếu chưa có PR heartbeat active đang mở:
+0. **Kiểm tra PR/branches hiện có TRƯỚC KHI tạo branch mới** (bước bắt buộc trước mọi quyết định tạo branch):
+   a. Chạy `gh pr list --state open --json number,title,headRefName` để tìm PR heartbeat đang mở.
+      → Nếu có PR open, checkout branch của PR đó và tiếp tục (sang bước 2).
+   b. Nếu không có PR open, kiểm tra 3 heartbeat branches mới nhất đã fetch:
+      - Lấy danh sách branches: `git branch -r --list 'origin/heartbeat/crawl-vanban-*' --sort=-committerdate | head -3`
+      - Với mỗi branch, kiểm tra commit mới nhất: `git log origin/<branch> -1 --format='%H %ci'`
+      - Nếu commit mới nhất < 24 giờ tính từ giờ hiện tại → branch đang "sống", checkout và tiếp tục.
+      - Nếu tất cả các branches đều có commit cũ hơn 24 giờ → tạo branch mới (sang bước 1).
+   c. Nếu không xác định được trạng thái (lỗi git/gh), tạo branch mới và báo cáo Sếp.
+   d. **KHÔNG BAO GIỜ tạo branch mới nếu đã có branch heartbeat có commit trong 24 giờ**, kể cả khi chưa mở PR.
+
+1. Nếu chưa có PR heartbeat active đang mở và không có branch "sống" (qua bước 0):
    - checkout từ `origin/main`;
    - tạo branch dạng `heartbeat/crawl-vanban-YYYYMMDD` (chưa mở PR);
    - đợi Đệ #3 tạo file và commit lên branch đó;
    - push branch lên origin;
    - mở 1 PR làm việc từ branch đã có commit để Sếp review.
-2. Nếu đã có PR heartbeat active đang mở:
+2. Nếu đã có PR heartbeat active đang mở (hoặc branch "sống" từ bước 0b):
    - checkout branch của PR đó;
    - tiếp tục commit các văn bản/tác vụ mới vào cùng PR;
    - push thường, không force-push.
@@ -342,7 +353,11 @@ Khi cron `crawl-vanban` đánh thức Bột, Bột thực hiện tuần tự:
    - Xử lý completion/fail chưa được ghi nhận.
    - Kill/giữ các đệ stale theo tiêu chí 4.5.
    - Ghi kết quả vào memory để đưa vào báo cáo cuối.
-3. Kiểm tra PR heartbeat active đang mở theo mục 2.5.
+3. **Kiểm tra và xác định PR/branch heartbeat theo mục 2.5, bước 0**:
+   - Chạy bước 0a: `gh pr list --state open` để tìm PR đang mở.
+   - Nếu không có PR open, chạy bước 0b: kiểm tra 3 heartbeat branches mới nhất.
+   - Xác định được branch "sống" (commit < 24h) → checkout branch đó.
+   - Chưa có PR/branch nào "sống" → tạo branch mới từ `origin/main` theo bước 1 của mục 2.5.
 4. **Tự quyết định** theo luật ưu tiên:
    - Có file chưa hoàn thiện trong tracking → xác định/tạo PR heartbeat active theo mục 2.5, rồi gọi Đệ #3 xử lý 1 văn bản và commit/push vào PR active. Văn bản đã nằm trong PR active/open thì BỎ QUA, chuyển sang văn bản tiếp theo.
    - Không có file chưa hoàn thiện + tracking thiếu văn bản → gọi Đệ #1 (Discovery, 5 văn bản/lần) + Đệ #4 (Reviewer, 5 văn bản/lần) song song.
@@ -419,6 +434,7 @@ Khi cron `crawl-vanban` đánh thức Bột ở đầu mỗi poll, **trước kh
 | 2026-06-07 | Thêm mục 4.4 - hành vi mặc định của Bột khi cron chạy |
 | 2026-06-16 | Thêm mục 4.5 - đánh giá stale sub-agent + quyết định kill/giữ |
 | 2026-06-16 | Bổ sung yêu cầu cho Đệ #4: review comments trong PR đang mở, phân tích, phân loại, báo cáo cho Bột biết cần xử lý những gì. Sửa mục 2.2 Đệ #4 + mục 2.4 tóm tắt đệ. |
+| 2026-07-23 | Thêm bước 0 vào mục 2.5: kiểm tra PR + branches "sống" trước khi tạo branch mới. Cập nhật mục 4.4 bước 3 để gọi bước 0. |
 
 ---
 
