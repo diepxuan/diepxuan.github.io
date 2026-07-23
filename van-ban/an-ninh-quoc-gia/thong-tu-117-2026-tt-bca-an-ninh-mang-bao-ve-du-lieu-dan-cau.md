@@ -40,7 +40,7 @@ Căn cứ Luật Cơ yếu số 05/2011/QH13;
 
 Căn cứ Luật Bảo vệ bí mật nhà nước số 117/2025/QH15;
 
-Căn cứ Nghị định số 70/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước được sửa đổii, bổ sung bởi Nghị định số 58/2025/NĐ-CP của Chính phủ;
+Căn cứ Nghị định số 70/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước được sửa đổi, bổ sung bởi Nghị định số 58/2025/NĐ-CP của Chính phủ;
 
 Căn cứ Nghị định số 69/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định về định danh và xác thực điện tử được sửa đổi, bổ sung bởi Nghị định số 169/2025/NĐ-CP của Chính phủ;
 
