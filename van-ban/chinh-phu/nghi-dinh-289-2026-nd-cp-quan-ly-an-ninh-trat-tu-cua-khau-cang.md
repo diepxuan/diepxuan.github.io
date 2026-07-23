@@ -10,6 +10,7 @@ group: [An ninh trật tự, Cửa khẩu]
 layout: vanban
 docid: "441066"
 source: vanban.chinhphu.vn
+modified: 2026-07-23
 ---
 
 
