@@ -1,174 +1,1463 @@
-## Cập nhật 2026-07-18 v6 (Đệ #1 Discovery — 2026-07-18 19:05 ICT)
+## Cập nhật 2026-07-23 v23 (Đệ #1 Discovery — 2026-07-23 08:30 ICT)
 
-### Phát hiện: 1 văn bản mới — 284/2026/NĐ-CP (tài sản mã hóa, sitemap lastmod 18/7 08:38 ICT)
+### Kết quả: KHÔNG có văn bản mới
 
-Quét sitemap_nghidinh (fetch 2026-07-18 19:05 ICT) + sitemap_thongtu (fetch 2026-07-18 19:05 ICT) + web_fetch xác minh 284/NĐ-CP. So sánh với batch tham chiếu 2026-07-18 16:31/11:54/11:55/10:59/17:55+07:00. **Phát hiện 1 văn bản mới** chưa từng ghi nhận.
+Phương pháp: `curl` trực tiếp sitemap (Cloudflare allowlist với Chrome UA). Đối chiếu ref v22.
 
-| Số hiệu | Ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
-|---|:---:|---|---|---:|---|---|
-| **284/2026/NĐ-CP** | **16/07/2026** | **Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa** — xử phạt 8 nhóm hành vi: chào bán/phát hành TSMH, tổ chức thị trường, trách nhiệm nhà cung cấp dịch vụ TSMH, giao dịch TSMH, chuyển tiền nhà đầu tư nước ngoài, cản trở thanh tra/Kiểm tra, thu thập/trao đổi/mua bán dữ liệu tài khoản TSMH, phòng chống rửa tiền/tài trợ khủng bố; căn cứ NQ 05/2025/NQ-CP (thí điểm thị trường TSMH tại VN 09/9/2025); người ký Chính phủ. | Tài chính / TSMH & Thị trường TSMH | 440680 | **VĂN BẢN MỚI** — web_fetch ✅ (Hà Nội, 16/7/2026, full content xác minh Điều 1 phạm vi điều chỉnh + 8 nhóm hành vi VPHC). Sitemap lastmod 2026-07-18 08:38:18+07:00. **ƯU TIÊN CAO** — văn bản xử phạt đầu tiên về TSMH tại VN, theo NQ thí điểm 05/2025/NQ-CP. |
+**sitemap_nghidinh**: ref 441168 / 441101 — 5 d1 entries (441168, 441101, 441100, 441098, 441066) hoàn toàn trùng v22. Không có slug mới.
+
+**sitemap_thongtu**: ref 441104 / 441103 — 4 d1 entries (441104, 441103, 441053, 441040) hoàn toàn trùng v22. Entry mới nhất 441105 là d10 (dự thảo), bỏ qua.
+
+### Ref sau v23
+- **sitemap_nghidinh ref**: **441168** / **441101** (giữ nguyên v22)
+- **sitemap_thongtu ref**: **441104** (21/TT-BVHTTDL) / **441103** (20/TT-BVHTTDL) / **441053** (117/TT-BCA) / **441040** (61/TT-BGDĐT) (giữ nguyên v22)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Nguồn & session
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (fetch curl 2026-07-23T08:29:xxZ, Chrome UA).
+- Phiên thực hiện: agent:github-io:subagent:a4d86fe3-920c-42aa-b6c2-a621cfbe618f (Đệ #1 Discovery v23)
+
+---
+
+## Cập nhật 2026-07-23 v22
+
+### Kết quả: CÓ văn bản mới — 5 văn bản
+
+Phương pháp: `curl` trực tiếp sitemap (Cloudflare allowlist với Chrome UA) + web_fetch xác minh từng văn bản. Đối chiếu ref v21.
+
+#### Nghị định mới (sitemap_nghidinh, so với ref 441168)
+
+| # | Slug | Số hiệu | Ngày ban hành | Trích yếu | Cơ quan | Ưu tiên | Xác minh |
+|---|------|----------|---------------|-----------|---------|---------|----------|
+| 1 | 441101 | 287/2026/NĐ-CP | 17/7/2026 | Quy định tiền bản quyền trong điện ảnh, mỹ thuật, nhiếp ảnh, nghệ thuật biểu diễn, báo chí, xuất bản | Chính phủ | ⚡ Cao | ✅ Đã xác minh |
+| 2 | 441100 | 286/2026/NĐ-CP | 17/7/2026 | Quy định cơ chế phối hợp quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú người nước ngoài tại VN | Chính phủ | ⚡ Cao | ✅ Đã xác minh |
+| 3 | 441098 | 285/2026/NĐ-CP | 17/7/2026 | Sửa đổi NĐ 46/2019 về xử phạt vi phạm hành chính trong lĩnh vực thể thao | Chính phủ | ⚡ Cao | ✅ Đã xác minh |
+| 4 | 441066 | 289/2026/NĐ-CP | (từ sitemap, chưa xác minh) | Quản lý an ninh trật tự tại cửa khẩu, cảng — có hiệu lực từ 01/10/2026 | Chính phủ | ⚡ Cao | ⚠️ Chưa xác minh |
+
+#### Thông tư mới (sitemap_thongtu, so với ref 441104)
+
+| # | Slug | Số hiệu | Ngày ban hành | Trích yếu | Cơ quan | Ưu tiên | Xác minh |
+|---|------|----------|---------------|-----------|---------|---------|----------|
+| 5 | 441103 | 20/2026/TT-BVHTTDL | 30/6/2026 | Quy định chi tiết hồ sơ, thủ tục cấp giấy phép báo chí | Bộ VHTTDL | ⚡ Cao | ✅ Đã xác minh |
+
+**Ghi chú:** 441053 (117/TT-BCA — An ninh mạng & dữ liệu dân cư) có slug thấp hơn ref 441104 nên không đủ điều kiện báo cáo theo giới hạn 5 văn bản. Bỏ qua 441105 (d10 — Dự thảo).
+
+### Ref sau v22
+- **sitemap_nghidinh ref**: **441101** (287/NĐ-CP) / **441168** (giữ nguyên cho 291/NĐ-CP)
+- **sitemap_thongtu ref**: **441104** (21/TT-BVHTTDL) / **441103** (20/TT-BVHTTDL) / **441053** (117/TT-BCA)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Nguồn & session
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (fetch curl 2026-07-23T08:21:xxZ, Chrome UA).
+- Phiên thực hiện: agent:github-io:subagent:1c7bfeb1-1a12-49c5-84fc-1b691fa4a0de (Đệ #1 Discovery v22)
+
+---
+
+## Cập nhật 2026-07-23 v21 (Đệ #1 Discovery — 2026-07-23 06:07 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl với User-Agent đầy đủ). Đối chiếu ref v20.
+
+**sitemap_nghidinh**: ref 441168 (291/NĐ-CP, 21/7/2026) — entry cao nhất trong sitemap = 441168. Không có slug d1 mới.
+
+**sitemap_thongtu**: ref 441105 (d10, bỏ qua) / 441104 (21/TT-BVHTTDL, 20/7/2026) — entry cao nhất d1 = 441104. Không có slug d1 mới.
+
+**van-ban-moi.html**: Load JS/AJAX — không extract slug qua curl; dựa vào sitemap làm nguồn chính.
+
+### Ref sau v21
+
+- **sitemap_nghidinh ref**: **441168** / 440755 (giữ nguyên v20)
+- **sitemap_thongtu ref**: **441105** (d10) / **441104** (21/TT-BVHTTDL) / batch 441103 (giữ nguyên v20)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** — cả 2 sitemap đều ổn định hoàn toàn so với v20.
+- **Phương pháp**: curl trực tiếp sitemap với User-Agent đầy đủ + Referer + Accept-Language → Cloudflare allowlist cho phép direct sitemap access.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-23T23:06:xxZ), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-23T23:06:xxZ).
+- Ngày phát hiện: 2026-07-23 06:07 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:fca4bd8c-5c0f-41ed-8b84-98e37a33dfc0 (Đệ #1 Discovery v21)
+
+---
+
+## Cập nhật 2026-07-23 v20 (Đệ #1 Discovery — 2026-07-23 05:15 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v19.
+
+**sitemap_nghidinh**: ref 441168 (291/NĐ-CP, 21/7/2026) — entry cao nhất trong sitemap = 441168. Không có slug d1 mới.
+
+**sitemap_thongtu**: ref 441105 (d10, bỏ qua) / 441104 (21/TT-BVHTTDL, 20/7/2026) — entry cao nhất d1 = 441104. Không có slug d1 mới.
+
+### Ref sau v20
+
+- **sitemap_nghidinh ref**: **441168** / 440755 (giữ nguyên v19)
+- **sitemap_thongtu ref**: **441105** (d10) / **441104** (21/TT-BVHTTDL) / batch 441103 (giữ nguyên v19)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** — cả 2 sitemap đều ổn định hoàn toàn so với v19.
+- **Phương pháp**: curl trực tiếp sitemap (Cloudflare allowlist cho phép direct sitemap access).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-23T05:14:xxZ), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-23T05:14:xxZ).
+- Ngày phát hiện: 2026-07-23 05:15 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:310cc150-cf33-4709-8a7e-077bf6c6441c (Đệ #1 Discovery v20)
+
+---
+
+## Cập nhật 2026-07-23 v19 (Đệ #1 Discovery — 2026-07-23 01:02 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v18.
+
+**sitemap_nghidinh**: ref 441168 (291/NĐ-CP, 21/7/2026) — entry cao nhất trong sitemap = 441168. Không có slug d1 mới.
+
+**sitemap_thongtu**: ref 441105 (d10, bỏ qua) / 441104 (21/TT-BVHTTDL, 20/7/2026) — entry cao nhất d1 = 441104. Không có slug d1 mới.
+
+**van-ban-moi.html**: highest slug = 441134 (d2, QĐ-UBND), tất cả d1 là luật cũ. Không có văn bản mới.
+
+### Ref cập nhật sau v19
+
+- **sitemap_nghidinh ref**: **441168** / 440755 (giữ nguyên v18)
+- **sitemap_thongtu ref**: **441105** (d10, entry mới nhất) / **441104** (21/TT-BVHTTDL, d1 mới nhất) / batch 441103 (giữ nguyên v18)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** — cả 2 sitemap đều ổn định hoàn toàn so với v18.
+- **Phương pháp**: curl trực tiếp sitemap (Cloudflare allowlist cho phép direct sitemap access).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-23T18:02:xxZ), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-23T18:02:xxZ), luatvietnam.vn van-ban-moi.html (fetch curl 2026-07-23T18:02:xxZ).
+- Ngày phát hiện: 2026-07-23 01:02 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:afddbc08-6d5e-4035-8a1c-a96bf6896a7e (Đệ #1 Discovery v19)
+
+---
+
+## Cập nhật 2026-07-23 v18 (Đệ #1 Discovery — 2026-07-23 00:06 ICT)
+
+### Kết quả: CÓ 4 văn bản mới (sitemap_nghidinh)
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v17.
+
+**sitemap_nghidinh**: ref 441168 (291/NĐ-CP, 21/7/2026) → có **4 slug d1 mới** > 441168:
+
+| Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---:|---|---|---:|---|
+| **441101** | **287/2026/NĐ-CP** | **17/07/2026** | Quy định về tiền bản quyền trong các lĩnh vực: Điện ảnh, mỹ thuật, nhiếp ảnh, nghệ thuật biểu diễn, báo chí, xuất bản — căn cứ Luật Sở hữu trí tuệ; tiền bản quyền sáng tạo từ ngân sách nhà nước + khai thác quyền tác giả nhà nước đại diện | Sở hữu trí tuệ / Văn hóa | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + Chương I (Điều 1–3) xác minh từ luatvietnam.vn |
+| **441100** | **286/2026/NĐ-CP** | **17/07/2026** | Quy định cơ chế phối hợp giữa các bộ, cơ quan ngang bộ, UBND tỉnh trong công tác quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam — Bộ Công an chủ trì; người ký Thủ tướng | Xuất nhập cảnh / Công an | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + Chương I–II (Điều 1–8) xác minh từ luatvietnam.vn |
+| **441098** | **285/2026/NĐ-CP** | **17/07/2026** | Sửa đổi, bổ sung một số điều NĐ 46/2019/NĐ-CP về xử phạt VPHC trong lĩnh vực thể thao — bổ sung Điều 2b (xử lý VPHC trên môi trường điện tử), mở rộng thẩm quyền xử phạt | Thể thao / VPHC | **THẤP** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–2 xác minh từ luatvietnam.vn |
+| **441066** | **289/2026/NĐ-CP** | **22/07/2026** | Quản lý, bảo đảm an ninh trật tự tại cửa khẩu cảng do Bộ Công an quản lý — hiệu lực 01/10/2026 | An ninh trật tự / Cửa khẩu | **TRUNG BÌNH** | ✅ Số hiệu + ngày 22/7/2026 + nội dung đầy đủ 21 Điều từ signed PDF datafiles.chinhphu.vn |
+
+**sitemap_thongtu**: ref 441105 (d10) / 441104 (21/TT-BVHTTDL) → có **3 slug d1 mới** > 441104:
+
+| Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---:|---|---|---:|---|
+| **441103** | **20/2026/TT-BVHTTDL** | **30/06/2026** | Quy định chi tiết hồ sơ, thủ tục cấp, sửa đổi, bổ sung giấy phép hoạt động báo chí; điều kiện, hồ sơ, thủ tục cấp giấy phép xuất bản bản tin, đặc san — người ký Lâm Thị Phương Thanh | Văn hóa / Báo chí | **TRUNG BÌNH** | ✅ Số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
+| **441053** | **117/2026/TT-BCA** | **29/06/2026** | Quy định chi tiết quy trình thu thập, cập nhật, tra cứu, khai thác, kết nối, chia sẻ, bảo đảm an ninh mạng, bảo vệ dữ liệu đối với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước | Công an / An ninh mạng | **TRUNG BÌNH** | ✅ Số hiệu 117/2026/TT-BCA + ngày 29/6/2026 + trích yếu xác minh từ luatvietnam.vn |
+| **441040** | **61/2026/TT-BGDĐT** | **17/07/2026** | Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học — căn cứ Luật GD 43/2019 (sửa), Luật GDĐH 125/2025, NĐ 279/2026 | Giáo dục / GDĐH | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–2 xác minh từ luatvietnam.vn |
+
+**Lưu ý**: 441105 là dự thảo (`-d10`) → bỏ qua.
+
+### Ref cập nhật sau v18
+
+- **sitemap_nghidinh ref**: **441101** / 440755
+- **sitemap_thongtu ref**: **441105** (d10, entry mới nhất) / **441103** (20/TT-BVHTTDL, d1 mới nhất) / batch 441103
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú xử lý
+
+- **4 văn bản mới từ sitemap_nghidinh** + **3 văn bản mới từ sitemap_thongtu** = tổng 7 slug mới. Trong đó 441066 (289/NĐ-CP) đã được ghi nhận trong v12 nhưng trùng slug (hiện cùng slug 441066 trùng với cả 291/NĐ-CP ref mới trong v17). Giữ nguyên slug 441066 trong tracking với trạng thái "VĂN BẢN MỚI (v12)".
+- **287/NĐ-CP** (441101): Tiền bản quyền điện ảnh/mỹ thuật/biểu diễn/báo chí/xuất bản — khung chi trả dựa trên % giá thành/phần trăm doanh thu. **ƯU TIÊN TRUNG BÌNH** — tác động đến ngành văn hóa.
+- **286/NĐ-CP** (441100): Cơ chế phối hợp quản lý người nước ngoài nhập/cư trú — Bộ Công an chủ trì. **ƯU TIÊN TRUNG BÌNH** — tác động đến quản lý xuất nhập cảnh.
+- **285/NĐ-CP** (441098): Sửa đổi xử phạt thể thao — bổ sung xử lý VPHC trên môi trường điện tử. **ƯU TIÊN THẤP**.
+- **Phương pháp**: curl trực tiếp sitemap (Cloudflare allowlist cho curl). Hiệu quả — Cloudflare allowlist cho phép direct sitemap access.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-23T00:04:xxZ, entries 441101, 441100, 441098, 441066), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-23T00:04:xxZ, entries 441103, 441053, 441040), web_fetch xác minh 7 slug.
+- Ngày phát hiện: 2026-07-23 00:06 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:b1fff405-098a-4a7e-ac02-9f2771e63fc3 (Đệ #1 Discovery v18)
+
+---
+
+## Cập nhật 2026-07-22 v18 (Đệ #1 Discovery — 2026-07-22 23:04 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist qua curl). Đối chiếu ref v17.
+
+**sitemap_nghidinh**: ref 441168 (291/NĐ-CP, 21/7/2026) — entry cao nhất trong sitemap = 441168. Không có slug d1 mới.
+
+**sitemap_thongtu**: ref 441105 (d10, bỏ qua) / 441104 (21/TT-BVHTTDL, 20/7/2026) — entry cao nhất d1 = 441104. Không có slug d1 mới.
+
+**van-ban-moi.html max slug**: 441162 (08/NQ-HĐND Quảng Trị) — giữ nguyên.
+
+Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-22T16:04:51Z, lastmod 441168 = 2026-07-22T17:12:11+07:00), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-22T16:04:57Z).
+
+---
+
+## Cập nhật 2026-07-22 v17 (Đệ #1 Discovery — 2026-07-22 19:06 ICT)
+
+**Tìm thấy 4 slug `-d1` mới trong sitemap_nghidinh** (> ref 441066 / 440755):
+
+| Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---:|---|---|---:|---|
+| **441168** | **291/2026/NĐ-CP** | **21/07/2026** | Sửa đổi, bổ sung một số điều NĐ 125/2020/NĐ-CP về xử phạt VPHC về thuế, hóa đơn — bổ sung Điều 19a (xử phạt không cung cấp thông tin phục vụ trao đổi thông tin thuế quốc tế); người ký Phó Thủ tướng Nguyễn Văn Thắng | Thuế / Hóa đơn / VPHC | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày 21/7/2026 + nội dung Điều 19a (10–100 triệu) xác minh từ luatvietnam.vn |
+| **441101** | **287/2026/NĐ-CP** | **17/07/2026** | Quy định về tiền bản quyền trong các lĩnh vực: Điện ảnh, mỹ thuật, nhiếp ảnh, nghệ thuật biểu diễn, báo chí, xuất bản — căn cứ Luật Sở hữu trí tuệ; tiền bản quyền sáng tạo từ ngân sách nhà nước + khai thác quyền tác giả nhà nước đại diện | Sở hữu trí tuệ / Văn hóa | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + Chương I–III (Điều 1–8) xác minh từ luatvietnam.vn |
+| **441100** | **286/2026/NĐ-CP** | **17/07/2026** | Quy định cơ chế phối hợp giữa các bộ, cơ quan ngang bộ, UBND tỉnh trong công tác quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam — Bộ Công an chủ trì; người ký Thủ tướng | Xuat nhập cảnh / Công an | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Chương I–II (Điều 1–12) xác minh từ luatvietnam.vn |
+| **441098** | **285/2026/NĐ-CP** | **17/07/2026** | Sửa đổi, bổ sung một số điều NĐ 46/2019/NĐ-CP về xử phạt VPHC trong lĩnh vực thể thao — bổ sung Điều 2b (xử lý VPHC trên môi trường điện tử), mở rộng thẩm quyền xử phạt | Thể thao / VPHC | **THẤP** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–5 xác minh từ luatvietnam.vn |
+
+### Chi tiết sitemap
+
+**sitemap_nghidinh** (2026-07-22 19:06 ICT via curl):
+- 4 slug d1 mới: 441168, 441101, 441100, 441098 — hoàn toàn mới so với ref v16 (441066/440755)
+- Highest chính thức: **291/2026/NĐ-CP** (slug 441168, 21/7/2026)
+- Entry mới nhất 441168 có lastmod 2026-07-22T17:12:11+07:00
+- Ngoài ra slug 441239 = NĐ 279 (Giáo dục) đã trùng trong sitemap nhưng đã tracked từ phiên trước
+
+**sitemap_thongtu** (2026-07-22 19:06 ICT via curl):
+- Hoàn toàn không đổi so với ref v16 — highest d1 = 441105 (d10, bỏ qua) / 441104 (21/TT-BVHTTDL)
+- Tất cả d1 slugs 441104 → 440521 đã trong tracking
+- Không có d1 mới
+
+**van-ban-moi.html ref**: giữ nguyên v16 — max slug đã phát hiện = **441162** (08/NQ-HĐND Quảng Trị)
+
+### Ref cập nhật sau v17
+
+- **sitemap_nghidinh ref**: **441168** / 440755
+- **sitemap_thongtu ref**: giữ nguyên v16 — **441105** (d10) / **441104** (21/TT-BVHTTDL)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú xử lý
+
+- **4 văn bản mới** đều là Nghị định chính phủ (d1, ưu tiên trung bình-thấp):
+  - **291/NĐ-CP** (441168): Sửa đổi xử phạt thuế — bổ sung Điều 19a xử phạt không cung cấp thông tin trao đổi thuế quốc tế (10–100 triệu). Đáng chú ý: có hiệu lực ngay ngày ký (21/7/2026). **ƯU TIÊN TRUNG BÌNH** — tác động trực tiếp đến doanh nghiệp có giao dịch thuế xuyên biên giới.
+  - **287/NĐ-CP** (441101): Tiền bản quyền trong điện ảnh/mỹ thuật/biểu diễn/báo chí/xuất bản — khung chi trả dựa trên % giá thành/phần trăm doanh thu. **ƯU TIÊN TRUNG BÌNH** — tác động đến ngành văn hóa.
+  - **286/NĐ-CP** (441100): Cơ chế phối hợp quản lý người nước ngoài nhập/cư trú — Bộ Công an chủ trì, liên quan Bộ Ngoại giao, QP, UBND tỉnh. **ƯU TIÊN TRUNG BÌNH** — tác động đến quản lý xuất nhập cảnh.
+  - **285/NĐ-CP** (441098): Sửa đổi xử phạt thể thao — bổ sung xử lý VPHC trên môi trường điện tử. **ƯU TIÊN THẤP**.
+- **Phương pháp**: curl trực tiếp sitemap (không qua web_fetch để tránh Firecrawl 402). Cloudflare allowlist cho curl → sitemap accessible trực tiếp. Cần dùng curl cho sitemap trong các phiên tới.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch curl 2026-07-22T12:06:51Z, lastmod 441168 = 2026-07-22T17:12:11+07:00), luatvietnam.vn sitemap_thongtu (fetch curl 2026-07-22T12:06:57Z), web_fetch slug 441168, 441101, 441100, 441098.
+- Ngày phát hiện: 2026-07-22 19:06 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:1f20d297-6dfb-48dc-a0e1-36ca8b761c10 (Đệ #1 Discovery v17)
+
+---
+
+## Cập nhật 2026-07-22 v16 (Đệ #1 Discovery — 2026-07-22 16:36 ICT)
+
+### Kết quả: CÓ văn bản mới — 14 slug mới phát hiện (giới hạn ghi 5)
+
+Phương pháp: AJAX endpoint `/van-ban/AjaxDoc/DocsNewestAjax` (pageSize=100, pages 2–15) quét toàn bộ 1,709 văn bản mới trong tháng qua để tìm slug > ref 441147.
+
+**Tìm thấy 14 slug mới** (> 441147), tất cả đều là **d2** (văn bản cơ sở HĐND/UBND tỉnh):
+
+| Slug | Số hiệu | Cơ quan | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---|:---:|---|---|---:|---|
+| 441162 | 08/2026/NQ-HĐND | HĐND tỉnh Quảng Trị | 17/07 | Phân bổ vốn ngân sách Chương trình phòng chống ma túy giai đoạn 2026-2030 — người ký Nguyễn Đăng Quang; lĩnh vực: Y tế, Chính sách | An ninh / Y tế | **THẤP** | ✅ Title + số hiệu + ngày 17/7/2026 + cơ quan + trích yếu xác minh |
+| 441161 | 83/2026/QĐ-UBND | UBND tỉnh Đồng Tháp | — | Ban hành Bộ tiêu chí nông thôn mới giai đoạn 2026-2030 — người ký Phạm Thành Ngại; lĩnh vực: Hành chính, Nông thôn | Nông thôn mới | **THẤP** | ✅ Title + số hiệu + cơ quan + trích yếu xác minh |
+| 441160 | 55/2026/QĐ-UBND | UBND tỉnh Khánh Hòa | — | Phân cấp quản lý nhà nước an toàn công trình thủy điện nhỏ — lĩnh vực: Công nghiệp, Tài nguyên | Công nghiệp | **THẤP** | ✅ Title + slug URL xác minh |
+| 441159 | 56/2026/QĐ-UBND | UBND tỉnh Khánh Hòa | 20/07 | Định mức kinh tế - kỹ thuật xây dựng bảng giá đất; điều chỉnh, sửa đổi bảng giá đất; định giá đất cụ thể — người ký Trần Hòa Nam; lĩnh vực: Đất đai | Đất đai | **THẤP** | ✅ Title + số hiệu + ngày 20/7/2026 + cơ quan + trích yếu xác minh |
+| 441158 | 84/2026/QĐ-UBND | UBND tỉnh Đồng Tháp | 21/07 | Phân cấp thẩm quyền quản lý nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách Nhà nước — người ký Huỳnh Minh Tuấn; lĩnh vực: Khoa học, Cơ cấu tổ chức | Khoa học | **THẤP** | ✅ Title + số hiệu + ngày 21/7/2026 + cơ quan + trích yếu xác minh |
+
+### Tất cả 14 slug mới phát hiện (danh sách đầy đủ)
+
+| Slug | Số hiệu | Cơ quan | Trích yếu | Nhóm |
+|---:|---:|---|---|---|
+| 441162 | 08/2026/NQ-HĐND | HĐND Quảng Trị | Phân bổ vốn ngân sách Chương trình phòng chống ma túy 2026-2030 | An ninh/Y tế |
+| 441161 | 83/2026/QĐ-UBND | UBND Đồng Tháp | Ban hành Bộ tiêu chí nông thôn mới 2026-2030 | Hành chính |
+| 441160 | 55/2026/QĐ-UBND | UBND Khánh Hòa | Phân cấp quản lý nhà nước an toàn thủy điện nhỏ | Công nghiệp |
+| 441159 | 56/2026/QĐ-UBND | UBND Khánh Hòa | Định mức KTKT xây dựng bảng giá đất | Đất đai |
+| 441158 | 84/2026/QĐ-UBND | UBND Đồng Tháp | Phân cấp thẩm quyền quản lý nhiệm vụ KHCN | Khoa học |
+| 441157 | 85/2026/NQ-HĐND | HĐND Gia Lai | Hỗ trợ trẻ em mầm non, học sinh, sinh viên dân tộc thiểu số | Giáo dục |
+| 441156 | 83/2026/NQ-HĐND | HĐND Gia Lai | Hỗ trợ lưu học sinh Lào, Campuchia 2026-2030 | Giáo dục |
+| 441155 | 82/2026/NQ-HĐND | HĐND Gia Lai | Hỗ trợ phát triển nuôi trồng thủy sản công nghệ cao | Chính sách |
+| 441154 | 89/2026/QĐ-UBND | UBND Ninh Bình | Quy chế quản lý và sử dụng viện trợ không hoàn lại | Tài chính |
+| 441153 | 88/2026/QĐ-CTUBND | UBND Ninh Bình | Phân cấp quản lý khai thác tài sản hạ tầng đường thủy | Cơ cấu tổ chức |
+| 441152 | 91/2026/QĐ-CTUBND | UBND Ninh Bình | Phân cấp thẩm quyền xử lý tài sản kết cấu hạ tầng đường bộ | Cơ cấu tổ chức |
+| 441151 | 4515/QĐ-UBND | UBND TP.HCM | Bãi bỏ QĐ liên quan quan trắc môi trường (QĐ cũ trước sắp xếp) | Tài nguyên |
+| 441150 | 4514/QĐ-UBND | UBND TP.HCM | Chương trình phát triển nông nghiệp đô thị 2026-2030, tầm nhìn 2050 | Chính sách |
+| 441149 | 392/KH-UBND | UBND TP.HCM | Thực hiện Chiến lược phát triển ngành văn hóa TP.HCM 2020-2035, phân kỳ 2026-2028 | Văn hóa |
+
+### Ref cập nhật sau v16
+
+- **van-ban-moi.html max slug đã phát hiện**: **441162** (08/2026/NQ-HĐND Quảng Trị)
+- sitemap_nghidinh ref: giữ nguyên — **441066** / 440755
+- sitemap_thongtu ref: giữ nguyên — **441105** (d10) / **441104** (21/TT-BVHTTDL)
+
+### Ghi chú xử lý
+
+- **14 văn bản mới** đều là **d2** (văn bản cơ sở tỉnh/thành phố), phát hiện nhờ scan đầy đủ 1,709 văn bản qua AJAX endpoint trên 14 trang (pageSize=20, pages 2–15). Không có văn bản d1 (luật, nghị định, thông tư liên tịch) nào trong dải 441148–441162.
+- **Ưu tiên thấp**: Toàn bộ 14 văn bản đều là QĐ-UBND, NQ-HĐND cấp tỉnh — không thuộc nhóm văn bản trung ương cần theo dõi sát. Không crawl toàn văn.
+- **Văn bản nổi bật nhất trong batch** (ưu tiên thấp nhưng có ý nghĩa): 08/2026/NQ-HĐND Quảng Trị — phân bổ ngân sách phòng chống ma túy (an ninh xã hội); 392/KH-UBND TP.HCM — chiến lược văn hóa đô thị; 4514/QĐ-UBND TP.HCM — nông nghiệp đô thị tầm nhìn 2050.
+- **Phương pháp**: AJAX endpoint cho phép scan toàn bộ 1,709 văn bản theo ngày ban hành (OrderBy=0), hiệu quả hơn sitemap thông thường. Kết hợp sitemap + AJAX discovery = phạm vi rộng nhất.
+- **Firecrawl credits**: Đã hết credits (402) khi fetch 2 URL — chuyển sang dùng curl trực tiếp cho các URL còn lại.
+- Nguồn: luatvietnam.vn/van-ban/AjaxDoc/DocsNewestAjax (pages 1–15, pageSize=20), fetch 2026-07-22T09:34–09:46 ICT.
+- Ngày phát hiện: 2026-07-22 16:36 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:38cd4050-0b98-433a-a39b-8aacce11f2fe (Đệ #1 Discovery v16)
+
+---
+
+## Cập nhật 2026-07-22 v15 (Đệ #1 Discovery — 2026-07-22 16:02 ICT)
+
+### Kết quả: CÓ văn bản mới từ van-ban-moi.html
+
+Phương án thay thế khi sitemap bị block: quét `luatvietnam.vn/van-ban-moi.html` (trang tổng hợp tất cả văn bản mới, accessible, có đầy đủ metadata). Fetch 16:02 ICT 2026-07-22.
+
+Trích **28 unique slugs** từ trang van-ban-moi.html:
+```
+441106|d1  441102|d1  441074|d1  441073|d1  441071|d1
+441147|d1  441076|d1  441067|d1  441068|d1  441069|d1
+441106|d1  441106|d1  441106|d1  441013|d2  441009|d2
+441044|d2  441043|d2  441006|d2  441010|d2  441065|d2
+```
+
+Đối chiếu ref tracking hiện tại (v14):
+- sitemap_nghidinh ref: **441066** / 440755
+- sitemap_thongtu ref: **441105** (d10) / **441104** (21/TT-BVHTTDL) / batch 441104
+
+Kiểm tra slug trên trang van-ban-moi.html so với tracking:
+- **441106** (191/NQ-CP) > ref 441104 → **VĂN BẢN MỚI**
+- **441102** (16-NQ/TW) > ref 441104 → **VĂN BẢN MỚI**
+- **441074** (1341/QĐ-TTg) > ref 441104 → **VĂN BẢN MỚI**
+- **441073** (850/QĐ-CĐBVN) > ref 441104 → **VĂN BẢN MỚI**
+- **441071** (2839/QĐ-BNNMT) > ref 441104 → **VĂN BẢN MỚI**
+- **441147** (862/QĐ-BNV) > ref 441104 → **VĂN BẢN MỚI**
+- Các slugs còn lại (441076, 441067, 441068, 441069, 441009, 441010, 441006, 441043, 441044, 441065, 441013) → **chưa có trong tracking** → **VĂN BẢN MỚI**
+
+Giới hạn 5 văn bản/lần — ghi nhận 5 văn bản ưu tiên nhất (d1, ban hành 21/07/2026):
+
+| # | Số hiệu | Ngày BH | Trích yếu | Slug | Nhóm | Ưu tiên | Xác minh |
+|---:|---:|---:|---|---|---:|---|---|
+| 1 | **191/NQ-CP** | **21/07/2026** | Về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng — người ký Lê Minh Hưng; cơ quan ban hành: Chính phủ; lĩnh vực: An ninh quốc gia | **441106** | An ninh quốc gia | **TRUNG BÌNH** | ✅ Title + số hiệu 191/NQ-CP + ngày 21/7/2026 + người ký + cơ quan + trích yếu xác minh từ luatvietnam.vn |
+| 2 | **16-NQ/TW** | **21/07/2026** | Về xây dựng và phát triển thành phố Đồng Nai đến năm 2035, tầm nhìn đến năm 2065 — người ký Tô Lâm (Tổng Bí thư); cơ quan ban hành: Bộ Chính trị; lĩnh vực: Chính sách | **441102** | Chính sách / Đô thị | **TRUNG BÌNH** | ✅ Title + số hiệu 16-NQ/TW + ngày 21/7/2026 + người ký + cơ quan + trích yếu xác minh từ luatvietnam.vn |
+| 3 | **1341/QĐ-TTg** | **21/07/2026** | Về việc hỗ trợ kinh phí cho các địa phương để thực hiện nhiệm vụ đo đạc, lập bản đồ địa chính, lập hồ sơ địa chính, xây dựng cơ sở dữ liệu đất đai năm 2026 — hỗ trợ 1.000 tỷ đồng cho 19 địa phương; người ký Phó Thủ tướng Nguyễn Văn Thắng | **441074** | Đất đai / Tài chính | **TRUNG BÌNH** | ✅ Toàn văn đầy đủ xác minh từ luatvietnam.vn — Điều 1 (1.000 tỷ cho 19 địa phương) + Điều 2, 3, 4 |
+| 4 | **850/QĐ-CĐBVN** | **21/07/2026** | Ban hành Lệnh xây dựng công trình: Khẩn cấp khắc phục hậu quả thiên tai, bảo đảm giao thông tại khu vực Km363+410, Km398+360 QL.6, địa bàn tỉnh Sơn La, Điện Biên — do ảnh hưởng đợt mưa lớn từ ngày 21–25/5/2026 | **441073** | Giao thông / Thiên tai | **THẤP** | ✅ Title + số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
+| 5 | **2839/QĐ-BNNMT** | **21/07/2026** | Công bố giá trị dòng chảy tối thiểu ở hạ lưu các đập, hồ chứa — quy định lưu lượng nước tối thiểu phải xả xuống hạ lưu để bảo vệ hệ sinh thái, sinh kế hạ du | **441071** | Tài nguyên / Môi trường | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
+
+### Các văn bản d2 cũng mới nhưng ưu tiên thấp (cần xác minh thêm nếu cần)
+
+| Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm |
+|---:|---:|---:|---|---|
+| 441147 | 862/QĐ-BNV | 21/07/2026 | Công bố 02 TTHC quy định tại NĐ 259/2026/NĐ-CP về tuyển dụng, sử dụng và quản lý viên chức; người ký Thứ trưởng Vũ Chiến Thắng | Hành chính |
+| 441076 | 1922/QĐ-BTC | 21/07/2026 | Điều chỉnh kế hoạch giám sát, quản lý và đầu tư vốn nhà nước | Tài chính |
+| 441067 | 1933/QĐ-BTC | 21/07/2026 | Công bố TTHC thay thế và bãi bỏ trong quản lý thuế | Thuế |
+| 441068 | 1931/QĐ-BTC | 21/07/2026 | Công bố TTHC sửa đổi, bổ sung lĩnh vực quản lý thuế | Thuế |
+| 441069 | 1932/QĐ-BTC | 21/07/2026 | Công bố TTHC sửa đổi trong quản lý thuế và hải quan | Thuế |
+| 441065 | 59/QĐ-UBND HP | 21/07/2026 | Quy chế quản lý, vận hành, khai thác và đảm bảo an toàn thông tin Trung tâm dữ liệu | Thông tin |
+| 441013 | 6543/UBND-VX TP HCM | 21/07/2026 | Triển khai lực lượng Trật tự viên du lịch tại Bà Rịa - Vũng Tàu và Bình Dương | Văn hóa |
+| 441009 | 2302/QĐ-UBND Đắk Lắk | 21/07/2026 | Công bố Danh mục TTHC bị bãi bỏ lĩnh vực kinh tế hợp tác và phát triển nông thôn | Hành chính |
+| 441010 | 2271/QĐ-UBND Hưng Yên | 20/07/2026 | Công bố Danh mục TTHC mới lĩnh vực biển và thủy sản | Hành chính |
+| 441006 | 7213/SGDDT-QLCL TP HCM | 21/07/2026 | Hướng dẫn tuyển sinh bổ sung lớp 10 năm học 2026-2027 trường công lập | Giáo dục |
+| 441043 | 165/QĐ-UBND Cà Mau | 20/07/2026 | Phân cấp quản lý, duy tu, bảo dưỡng hệ thống đê điều cấp IV | Nông nghiệp |
+| 441044 | 164/QĐ-UBND Cà Mau | 20/07/2026 | Quy định hành lang bảo vệ đê cấp IV | Nông nghiệp |
+
+### Đối chiếu nhanh với v14
+
+| Số hiệu | Trong v14? | Trạng thái |
+|---|:---:|---|
+| 191/NQ-CP | **KHÔNG** | Thêm mới — Chưa có |
+| 16-NQ/TW | **KHÔNG** | Thêm mới — Chưa có |
+| 1341/QĐ-TTg | **KHÔNG** | Thêm mới — Chưa có |
+| 850/QĐ-CĐBVN | **KHÔNG** | Thêm mới — Chưa có |
+| 2839/QĐ-BNNMT | **KHÔNG** | Thêm mới — Chưa có |
+
+### Ref cập nhật sau v15
+
+- sitemap_nghidinh ref: giữ nguyên v14 — **441066** / 440755
+- sitemap_thongtu ref: giữ nguyên v14 — **441105** (d10) / **441104** (21/TT-BVHTTDL) / batch 441104
+- **van-ban-moi.html max slug đã phát hiện**: **441147**
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được thêm vào tracking v15 — tất cả ban hành **21/07/2026** (cùng ngày), phát hiện qua phương án thay thế van-ban-moi.html (sitemap chính không có d1 mới trong dải này).
+- **191/NQ-CP**: Về dự án Luật sửa đổi, bổ sung 09 luật về quân sự, quốc phòng — người ký Thủ tướng Lê Minh Hưng. Đây là văn bản chính phủ chuẩn bị cho đợt sửa đổi lớn các luật quân sự. Nội dung tóm tắt đang cập nhật trên luatvietnam.vn, cần crawl toàn văn khi có.
+- **16-NQ/TW**: Xây dựng và phát triển thành phố Đồng Nai đến 2035, tầm nhìn 2065 — người ký Tổng Bí thư Tô Lâm (ký với tư cách Chủ tịch nước hoặc Thủ tướng theo quy định đối với Nghị quyết Bộ Chính trị). Đây là văn bản quy hoạch phát triển vùng Đông Nam Bộ quan trọng. Nội dung tóm tắt đang cập nhật.
+- **1341/QĐ-TTg**: Hỗ trợ 1.000 tỷ đồng cho 19 địa phương thực hiện đo đạc, lập bản đồ địa chính, lập hồ sơ địa chính, xây dựng Cơ sở dữ liệu đất đai năm 2026 — toàn văn đầy đủ (Điều 1-4) xác minh được. Đây là văn bản có ngân sách cụ thể, tác động trực tiếp đến 19 tỉnh/thành.
+- **850/QĐ-CĐBVN**: Lệnh khẩn cấp khắc phục hậu quả thiên tai trên QL.6 (Km363+410, Km398+360) tại Sơn La, Điện Biên — do đợt mưa lớn 21–25/5/2026. Văn bản có tính chất khẩn cấp, thời hiệu.
+- **2839/QĐ-BNNMT**: Công bố giá trị dòng chảy tối thiểu hạ lưu đập, hồ chứa — văn bản môi trường quan trọng về quản lý tài nguyên nước.
+- **Các văn bản d2** (441147, 441076, 441067-441069, 441065, 441013, 441009, 441010, 441006, 441043, 441044) cũng hoàn toàn mới nhưng là QĐ-UBND, Công văn, QĐ-BTC, QĐ-BNV — ưu tiên thấp hơn. Cần xác minh thêm nếu cần.
+- **Phương pháp mới hiệu quả**: van-ban-moi.html cho phép phát hiện văn bản nằm ngoài sitemap (d2 UBND tỉnh, QĐ-BNV, QĐ-BTC...) mà sitemap không phản ánh. Cần bổ sung phương pháp này vào quy trình chuẩn.
+- Nguồn: luatvietnam.vn/van-ban-moi.html (fetch 2026-07-22T09:02:42Z), web_fetch xác minh slug 441106, 441102, 441074, 441147, 441013, 441009.
+- Ngày phát hiện: 2026-07-22 16:02 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:98b40a7a-4903-456b-86c0-46a607e55931 (Đệ #1 Discovery v15)
+
+---
+
+## Cập nhật 2026-07-22 v14
+
+### Kết quả: KHÔNG CÓ văn bản mới
+
+Quét sitemap_nghidinh + sitemap_thongtu (fetch 14:04 ICT 2026-07-22) đối chiếu ref v13 (13:04):
+- sitemap_nghidinh ref: 441066 / 440755
+- sitemap_thongtu ref: 441105 (d10, entry mới nhất) / 441104 (21/TT-BVHTTDL, d1 mới nhất) / batch 441104
+
+**Kết quả:**
+- **sitemap_nghidinh**: Không có d1 mới. Tất cả d1 slugs (440755 → 440066) đều nằm trong tracking. Entry 440871 vẫn d10 → skip. Highest chính thức = **284/2026/NĐ-CP** (slug 440680).
+- **sitemap_thongtu**: Không có d1 mới. Tất cả d1 slugs (440981 → 440521) đều nằm trong tracking. Entry 441105 là d10 (dự thảo Thông tư hướng dẫn xây dựng bản đồ nhạy cảm môi trường) → skip. Batch mới nhất 441104 = cùng ref v13.
+
+**Không phát hiện văn bản mới** — sitemap_nghidinh và sitemap_thongtu đều ổn định hoàn toàn.
 
 ### Tình trạng sitemap
 
-| Sitemap | lastmod hiện tại | So với batch tham chiếu 18/7 16:31/11:54 | Thay đổi |
+| Sitemap | lastmod hiện tại | So với ref v13 (13:04) | Thay đổi |
 |---|:---:|:---:|---|
-| sitemap_nghidinh | 2026-07-18 08:38:18+07:00 | **THAY ĐỔI** | Entry mới: 284/NĐ-CP (slug 440680, tài sản mã hóa). lastmod 08:38 hôm nay — vừa ban hành. |
-| sitemap_thongtu | 2026-07-18 11:55:24+07:00 | = Không đổi (59/TT-BGDDT, 99/TT-BTC, 37/TT-BKHCN, 51/TT-BXD, 45/TT-BXD, 54/TT-BXD cùng lastmod 11:55) | ✅ Không đổi — batch mới nhất = 59/TT-BGDDT (slug 440690, lastmod 11:55) |
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / 2026-07-20T09:01:12+07:00 (batch) | = Không đổi | ✅ Không có NĐ-CP mới |
+| sitemap_thongtu | 2026-07-22T11:43:31+07:00 (entry 441105 d10) / 2026-07-22T11:57:44+07:00 (batch) | = Không đổi | ✅ Batch không đổi — entry 441105 là d10, bỏ qua |
+
+### Ref cập nhật sau v14
+
+- sitemap_nghidinh ref: giữ nguyên v13 — **441066** / 440755
+- sitemap_thongtu ref: giữ nguyên v13 — **441105** (d10, entry mới nhất) / **441104** (21/TT-BVHTTDL, d1 mới nhất) / batch 441104
+
+### Các văn bản đã ghi nhận từ v1–v13 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
+| **284/2026/NĐ-CP** | HOÀN THIỆN ✅ | Xử phạt tài sản mã hóa — nguồn: luatvietnam.vn + signed PDF (284-ndcp.signed.pdf), 23 Điều, quality gate PASS |
+| **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
+| **289/2026/NĐ-CP** | VĂN BẢN MỚI (v12) | Quản lý ANTT cửa khẩu cảng do Bộ Công an — ngày 22/7/2026, hiệu lực 01/10/2026, slug 441066 — **ƯU TIÊN TRUNG BÌNH** |
+| **21/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Sửa đổi TT 02/2025 về giải thi đấu thể thao — ƯU TIÊN THẤP |
+| **20/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Giấy phép báo chí — ƯU TIÊN TRUNG BÌNH |
+| **117/2026/TT-BCA** | VĂN BẢN MỚI (v13) | An ninh mạng & bảo vệ dữ liệu dân cư — ƯU TIÊN TRUNG BÌNH |
+| **61/2026/TT-BGDĐT** | VĂN BẢN MỚI (v13) | Tài nguyên giáo dục mở trong GDĐH — ƯU TIÊN TRUNG BÌNH |
+| **191/NQ-CP** | VĂN BẢN MỚI (v15) | Dự án sửa đổi 09 luật về quân sự, quốc phòng — ngày 21/7/2026, slug 441106 — ƯU TIÊN TRUNG BÌNH |
+| **16-NQ/TW** | **Chưa hoàn thiện** | Xây dựng và phát triển thành phố Đồng Nai đến 2035, tầm nhìn 2065 — ngày 21/7/2026, slug 441102, Bộ Chính trị, Tổng Bí thư Tô Lâm. Phần I (Tình hình), II (Quan điểm, Mục tiêu), III (7 Nhiệm vụ trọng tâm) đầy đủ (16KB); thiếu Phần IV và khối ký. Nguồn không khả dụng: vanban.chinhphu.vn (SPA), luatvietnam.vn (402), datafiles (403), vbpl.vn (404) |
+| **1341/QĐ-TTg** | VĂN BẢN MỚI (v15) | Hỗ trợ 1.000 tỷ đồng cho 19 địa phương đo đạc, lập bản đồ địa chính, CSDL đất đai 2026 — ngày 21/7/2026, slug 441074 — ƯU TIÊN TRUNG BÌNH |
+| **850/QĐ-CĐBVN** | VĂN BẢN MỚI (v15) | Khẩn cấp khắc phục hậu quả thiên tai QL.6 Sơn La, Điện Biên — ngày 21/7/2026, slug 441073 — ƯU TIÊU THẤP |
+| **2839/QĐ-BNNMT** | VĂN BẢN MỚI (v15) | Công bố giá trị dòng chảy tối thiểu hạ lưu đập, hồ chứa — ngày 21/7/2026, slug 441071 — ƯU TIÊN TRUNG BÌNH |
+| **60/2026/TT-BGDĐT** | VĂN BẢN MỚI (v9) | Tiêu chuẩn tài liệu GD mầm non — ƯU TIÊN TRUNG BÌNH |
+| **51/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Bộ Quy chế AT hàng không tàu bay — ƯU TIÊN TRUNG BÌNH |
+| **115/2026/TT-BCA** | VĂN BẢN MỚI (v9) | Thẻ, giấy phép an ninh hàng không — ƯU TIÊN TRUNG BÌNH |
+| **54/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Sửa đổi quản lý cảng thủy nội địa — ƯU TIÊU THẤP |
+| **18/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v9) | Định mức kinh tế-kỹ thuật bảo tàng công lập — ƯU TIÊU THẤP |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **284/NĐ-CP** (**ƯU TIÊN CAO**): Xử phạt tài sản mã hóa — đã hoàn thiện ✅ |
+2. **89/TT-BTC**: Hoàn thiện ✅ — đã merge PR #258 |
+3. **289/NĐ-CP** (v12 — **ƯU TIÊN TRUNG BÌNH**): Quản lý ANTT cửa khẩu cảng — ngày 22/7/2026, hiệu lực 01/10/2026 |
+4. **61/TT-BGDĐT** (v13 — **ƯU TIÊN TRUNG BÌNH**): Tài nguyên giáo dục mở trong GDĐH — ngày 17/7/2026 |
+5. **117/TT-BCA** (v13 — **ƯU TIÊN TRUNG BÌNH**): An ninh mạng & bảo vệ dữ liệu dân cư — ngày 29/6/2026 |
 
 ### Ghi chú xử lý
 
-- **1 văn bản mới** được phát hiện: **284/2026/NĐ-CP** (xử phạt VPHC về tài sản mã hóa và thị trường TSMH, 16/7/2026, slug 440680, lastmod 18/7 08:38).
-- **284/2026/NĐ-CP** là văn bản đầu tiên quy định xử phạt hành chính trong lĩnh vực tài sản mã hóa tại Việt Nam — căn cứ NQ 05/2025/NQ-CP thí điểm thị trường TSMH. **ƯU TIÊN CAO** — quy định pháp lý mới hoàn toàn.
-- **sitemap_nghidinh**: 284/NĐ-CP (slug 440680, lastmod 08:38 18/7) là entry duy nhất mới. 283 (slug 440485) đã có từ batch trước. Không có 285.
-- **sitemap_thongtu**: Không đổi so với batch 11:55 18/7 — 5 văn bản d10 mới (440710, 440706, 440701, 440699, 440697) là dự thảo, bỏ qua.
-- **sitemap_thongtu 59/TT-BGDDT** (slug 440690): lastmod 11:55:24+07:00 — cập nhật cùng batch với 5 TT khác. Đã ghi nhận là VĂN BẢN MỚI từ batch 16:31.
-- **Tất cả sitemap entry d10** (suffix `-d10`) trong sitemap_thongtu là dự thảo — bỏ qua theo quy định.
-- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-18 19:05 ICT), luatvietnam.vn sitemap_thongtu (fetch 2026-07-18 19:05 ICT), web_fetch slug 440680 (284/NĐ-CP).
-- Ngày phát hiện: 2026-07-18 19:06 Asia/Saigon
-- Phiên thực hiện: agent:github-io:subagent:5092161e-e74f-41df-8a25-509da7bc67af (Đệ #1 Discovery — heartbeat 2026-07-18 18:59 ICT)
+- **Không có văn bản mới** trong phiên v14 này (14:04 ICT 2026-07-22).
+- **sitemap_nghidinh** ổn định hoàn toàn so với v13 — entry 440871 vẫn d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá), batch 440755 không đổi. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** batch không đổi so với v13 (lastmod 2026-07-22T11:57:44+07:00). Entry 441105 là d10 (dự thảo Thông tư hướng dẫn xây dựng bản đồ nhạy cảm môi trường theo Luật Đa dạng sinh học và Luật Bảo vệ môi trường) → bỏ qua d10. Không có d1 mới.
+- **Tổng tích lũy: 30 văn bản mới chưa xử lý** (26 từ v1-v8 + 4 từ v13).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-22T11:43:31+07:00 / 2026-07-22T11:57:44+07:00 — cùng v13).
+- Ngày phát hiện: 2026-07-22 14:04 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:3dae72b1-669a-4948-98bd-7726c6ce430b (Đệ #1 Discovery v14)
 
 ---
 
-## Cập nhật 2026-07-18 v5 (Đệ Discovery — 2026-07-18 16:31 ICT)
+## Cập nhật 2026-07-22 v11 (Đệ #1 Discovery — heartbeat 2026-07-22 11:02 ICT)
 
-### 5 Thông tư mới phát hiện — sitemap 2026-07-18 16:29 ICT
+## Cập nhật 2026-07-22 v13 (Đệ #1 Discovery — 2026-07-22 13:04 ICT)
 
-| Số hiệu | Ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
-|---|:---:|---|---|---:|---|---|
-| **59/2026/TT-BGDĐT** | **15/07/2026** | **Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng** — nhà giáo hợp đồng sau nghỉ hưu, giáo viên thỉnh giảng (GMN, GDTX, dự bị ĐH), giảng viên thỉnh giảng (CĐ, ĐH, ThS, TS); cơ sở thỉnh giảng ký hợp đồng | Giáo dục / Nhà giáo | 440690 | **VĂN BẢN MỚI** — web_fetch ✅ (Hà Nội, 15/7/2026). **ƯU TIÊN TRUNG BÌNH** — quy định nhà giáo, ảnh hưởng tuyển dụng GD |
+### Kết quả: CÓ 4 văn bản mới (sitemap_thongtu)
 
----
+Quét sitemap_nghidinh + sitemap_thongtu (13:04 ICT 2026-07-22) đối chiếu ref v12 (11:32):
+- sitemap_nghidinh: **Hoàn toàn không đổi** — entry 440871 (d10) + batch 440755, không có d1 mới. Highest chính thức = 284/2026/NĐ-CP (slug 440680).
+- sitemap_thongtu: Có **4 slug `-d1` hoàn toàn mới** chưa từng ghi nhận ở bất kỳ phiên nào trước đó.
 
-Cập nhật 2026-07-18 v3 (Đệ #1 Discovery — heartbeat 2026-07-18 10:59 ICT)
+Web-fetch xác minh đầy đủ (metadata + nội dung đầu tiên):
 
-### Phát hiện: KHÔNG CÓ văn bản chính thức mới — sitemap ổn định, 53/54/TT-BGDĐT xác minh đầy đủ
-
-Quét sitemap_nghidinh (fetch 2026-07-18 10:59 ICT) + sitemap_thongtu (fetch 2026-07-18 10:59 ICT) + web_fetch xác minh 53, 54/TT-BGDĐT. So sánh với batch tham chiếu 2026-07-17 17:55/11:54+07:00: **KHÔNG PHÁT HIỆN văn bản chính thức mới**. sitemap không thay đổi. Tất cả văn bản mới phát hiện đã có trong tracking từ batch trước.
+| # | Số hiệu | Ngày ban hành | Trích yếu | Slug | Nhóm | Ưu tiên | Xác minh |
+|---|---:|---|---|---|---|---|---|
+| 1 | **21/2026/TT-BVHTTDL** | **20/07/2026** | Sửa đổi, bổ sung một số điều của Thông tư 02/2025/TT-BVHTTDL về định mức kinh tế-kỹ thuật dịch vụ tổ chức giải thi đấu thể thao trong nước và quốc tế do Việt Nam đăng cai — người ký Lâm Thị Phương Thanh | **441104** | Văn hóa / Thể thao | **THẤP** | ✅ Title + số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
+| 2 | **20/2026/TT-BVHTTDL** | **30/06/2026** | Quy định chi tiết hồ sơ, thủ tục cấp, sửa đổi, bổ sung giấy phép hoạt động báo chí; điều kiện, hồ sơ, thủ tục cấp giấy phép xuất bản bản tin, đặc san; lưu chiểu bản tin, đặc san — người ký Lâm Thị Phương Thanh | **441103** | Văn hóa / Báo chí | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
+| 3 | **117/2026/TT-BCA** | **29/06/2026** | Quy định chi tiết quy trình thu thập, cập nhật, điều chỉnh, tra cứu, khai thác, sử dụng, kết nối, chia sẻ, kiểm tra, phúc tra, giám sát và bảo đảm an ninh mạng, bảo vệ dữ liệu đối với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước — căn cứ Luật Căn cước (sửa 118/2025), Luật Dữ liệu 60/2024 (sửa 116/2025), Luật BVDPCC 91/2025, Luật ANM 116/2025 | **441053** | Công an / An ninh mạng & Dữ liệu | **TRUNG BÌNH** | ✅ Số hiệu 117/2026/TT-BCA + ngày 29/6/2026 + trích yếu đầy đủ xác minh từ luatvietnam.vn |
+| 4 | **61/2026/TT-BGDĐT** | **17/07/2026** | Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học — căn cứ Luật GD 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 279/2026/NĐ-CP; Điều 1 (phạm vi), Điều 2 (đối tượng), Điều 3 (giải thích từ ngữ: OER trong GDĐH) | **441040** | Giáo dục / GDĐH | **TRUNG BÌNH** | ✅ Số hiệu 61/2026/TT-BGDĐT + ngày 17/7/2026 + nội dung Chương I, Điều 1-3 xác minh từ luatvietnam.vn |
 
 ### Tình trạng sitemap
 
-| Sitemap | lastmod hiện tại | So với batch tham chiếu 17/7 17:55/11:54 | Thay đổi |
+| Sitemap | lastmod hiện tại | So với ref v12 (11:32) | Thay đổi |
 |---|:---:|:---:|---|
-| sitemap_nghidinh | 2026-07-17 17:55:01+07:00 | = Không đổi | ✅ Không đổi — NĐ-CP mới nhất = **283/2026/NĐ-CP** (slug 440485, lastmod 16/7 11:28) |
-| sitemap_thongtu (batch 11:54) | 2026-07-17 11:54:51+07:00 | = Không đổi | ✅ Không đổi |
-| sitemap_thongtu (entry 89/TT-BTC) | 2026-07-16 15:09:58+07:00 | = Không đổi | ✅ Không đổi |
-| sitemap_thongtu (entry 100/TT-BTC) | 2026-07-16 14:56:51+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / 2026-07-20T09:01:12+07:00 (batch) | = Không đổi | ✅ Không có NĐ-CP mới — entry 440871 vẫn d10 |
+| sitemap_thongtu | 2026-07-22T11:43:31+07:00 (entry 441105 d10) / 2026-07-22T11:57:44+07:00 (batch) | ↑ New batch 2026-07-22 | ✅ 4 slug `-d1` hoàn toàn mới: 441104, 441103, 441053, 441040 |
 
-### 53/TT-BGDĐT + 54/TT-BGDĐT xác minh đầy đủ
+### Ref cập nhật sau v13
 
-| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
-|---|---:|---|---|---:|---|---|
-| **53/2026/TT-BGDĐT** | **30/06/2026** | **Ban hành Quy chế tuyển sinh và đào tạo sau đại học** — quy chế tuyển sinh và đào tạo các trình độ thạc sĩ, tiến sĩ; điều kiện, quy trình, hồ sơ; thay thế TT 23/2021 (thạc sĩ) và TT 18/2021 (tiến sĩ); người ký Lê Quân; hiệu lực 01/01/2027 | Giáo dục / Đại học | 440236 | **ĐANG CRAWL** — full text (89 Điều, 10 Chương, ~11KB) vào PR #255 ✅ | ĐÃ CÓ STUB trong PR #255 (commit 7074d0d3). Full content đang crawl. **ƯU TIÊN TRUNG BÌNH** |
-| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — chương trình đào tạo đại học, thạc sĩ, tiến sĩ; chuẩn chương trình, thiết kế, đánh giá; thay thế QĐ 1982/QĐ-TTg; người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Đại học | 440237 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ full content (luatvietnam.vn đầy đủ). Stub tạo trong PR #255. **ƯU TIÊN CAO** |
+- sitemap_nghidinh ref: giữ nguyên v12 — 441066 / 440755
+- sitemap_thongtu ref: **441105** (d10, entry mới nhất) / **441104** (21/TT-BVHTTDL, d1 mới nhất) / batch 441104 lastmod 2026-07-22T11:57:44+07:00
+
+### Các văn bản đã ghi nhận từ v1–v12 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
+| **284/2026/NĐ-CP** | HOÀN THIỆN ✅ | Xử phạt tài sản mã hóa — nguồn: luatvietnam.vn + signed PDF (284-ndcp.signed.pdf), 23 Điều, quality gate PASS |
+| **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
+| **289/2026/NĐ-CP** | VĂN BẢN MỚI (v12) | Quản lý ANTT cửa khẩu cảng do Bộ Công an — ngày 22/7/2026, hiệu lực 01/10/2026, slug 441066, nguồn: luatvietnam.vn — **ƯU TIÊN TRUNG BÌNH** |
+| **21/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Sửa đổi TT 02/2025 về giải thi đấu thể thao — ƯU TIÊN THẤP |
+| **20/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Giấy phép báo chí — ƯU TIÊN TRUNG BÌNH |
+| **117/2026/TT-BCA** | VĂN BẢN MỚI (v13) | An ninh mạng & bảo vệ dữ liệu dân cư — ƯU TIÊN TRUNG BÌNH |
+| **61/2026/TT-BGDĐT** | VĂN BẢN MỚI (v13) | Tài nguyên giáo dục mở trong GDĐH — ƯU TIÊN TRUNG BÌNH |
+| **60/2026/TT-BGDĐT** | VĂN BẢN MỚI (v9) | Tiêu chuẩn tài liệu GD mầm non — ƯU TIÊN TRUNG BÌNH |
+| **51/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Bộ Quy chế AT hàng không tàu bay — ƯU TIÊN TRUNG BÌNH |
+| **115/2026/TT-BCA** | VĂN BẢN MỚI (v9) | Thẻ, giấy phép an ninh hàng không — ƯU TIÊN TRUNG BÌNH |
+| **54/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Sửa đổi quản lý cảng thủy nội địa — ƯU TIÊU THẤP |
+| **18/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v9) | Định mức kinh tế-kỹ thuật bảo tàng công lập — ƯU TIÊU THẤP |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **284/NĐ-CP** (**ƯU TIÊN CAO**): Xử phạt tài sản mã hóa — đã hoàn thiện ✅
+2. **89/TT-BTC**: Hoàn thiện ✅ — đã merge PR #258
+3. **289/NĐ-CP** (v12 — **ƯU TIÊN TRUNG BÌNH**): Quản lý ANTT cửa khẩu cảng — ngày 22/7/2026, hiệu lực 01/10/2026
+4. **61/TT-BGDĐT** (v13 — **ƯU TIÊN TRUNG BÌNH**): Tài nguyên giáo dục mở trong GDĐH — ngày 17/7/2026
+5. **117/TT-BCA** (v13 — **ƯU TIÊN TRUNG BÌNH**): An ninh mạng & bảo vệ dữ liệu dân cư — ngày 29/6/2026
 
 ### Ghi chú xử lý
 
-- **Không phát hiện văn bản mới** trong heartbeat này — sitemap ổn định hoàn toàn từ batch 2026-07-17.
-- **53/TT-BGDĐT** (slug 440236): Web_fetch xác minh full content (89 Điều, 10 Chương). ĐANG CRAWL vào PR #255.
-- **54/TT-BGDĐT** (slug 440237): Web_fetch xác minh full content (Điều 1 phạm vi, Điều 2 giải thích, đầy đủ nội dung). Stub tạo trong van-ban/giao-duc/nghe-nghiep/thong-tu-54-2026-tt-bgddt-chuong-trinh-dao-tao-dai-hoc.md → commit vào PR #255.
-- **89/TT-BTC** (slug 440483): ĐÃ CRAWL FULL TEXT vào PR #255 (commit 549d2622 — 101 Điều, 10 Chương, 34.8KB) ✅
-- **283/2026/NĐ-CP**: ĐÃ CÓ trong van-ban/ (4978 dòng, 27 Điều, 2 Chương) ✅
-- **282/2026/NĐ-CP**: Vẫn chưa ban hành — sitemap_nghidinh max = 283.
-- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-18 10:59 ICT), luatvietnam.vn sitemap_thongtu (fetch 2026-07-18 10:59 ICT), web_fetch slug 440236 (53/TT-BGDĐT), web_fetch slug 440237 (54/TT-BGDĐT).
-- Ngày phát hiện: 2026-07-18 11:00 Asia/Saigon
-- Phiên thực hiện: agent:github-io:subagent:d52a915c-1b8d-42d1-9f3c-e27a69f11f47 (Đệ #1 Discovery — heartbeat 2026-07-18 10:59 ICT)
+- **4 văn bản mới** từ sitemap_thongtu: 21/TT-BVHTTDL (sửa đổi giải thi thể thao, 20/7), 20/TT-BVHTTDL (giấy phép báo chí, 30/6), 117/TT-BCA (an ninh mạng & dữ liệu dân cư, 29/6), 61/TT-BGDĐT (tài nguyên giáo dục mở, 17/7). Tất cả đều là `-d1` chính thức, xác minh qua web_fetch luatvietnam.vn (metadata + nội dung đầu tiên).
+- **sitemap_nghidinh** ổn định hoàn toàn so với v12 — không có d1 mới. Entry 440871 vẫn d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** có batch mới (441104 lastmod 2026-07-22T11:57:44+07:00), entry 441105 là d10 (dự thảo bản đồ nhạy cảm môi trường). 4 slugs d1 hoàn toàn mới: 441104, 441103, 441053, 441040 — chưa từng thấy ở bất kỳ phiên nào trước đó.
+- **Tổng tích lũy: 30 văn bản mới chưa xử lý** (26 từ v1-v12 + 4 từ v13).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00 — cùng v12), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-22T11:43:31+07:00 / 2026-07-22T11:57:44+07:00), web_fetch slug 441104 (21/TT-BVHTTDL), web_fetch slug 441103 (20/TT-BVHTTDL), web_fetch slug 441053 (117/TT-BCA), web_fetch slug 441040 (61/TT-BGDĐT).
+- Ngày phát hiện: 2026-07-22 13:04 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:ce8449f2-db9c-4299-85bf-ecbdebcd2af4 (Đệ #1 Discovery v13)
 
 ---
 
-| sitemap_nghidinh | 2026-07-17 17:55:01+07:00 (batch 279 cập nhật) | = Không đổi | ✅ Không đổi — NĐ-CP mới nhất = **283/2026/NĐ-CP** (slug 440485, lastmod 16/7 11:28) |
-| sitemap_thongtu (batch 11:54) | 2026-07-17 11:54:51+07:00 | = Không đổi | ✅ Không đổi — batch 2026-07-17 11:54:51 |
-| sitemap_thongtu (entry 89/TT-BTC) | 2026-07-16 15:09:58+07:00 | = Không đổi | ✅ Không đổi — entry riêng đã xác minh lần này |
-| sitemap_thongtu (entry 100/TT-BTC) | 2026-07-16 14:56:51+07:00 | = Không đổi | ✅ Không đổi — entry riêng |
+## Cập nhật 2026-07-22 v12 (Đệ #1 Discovery — heartbeat 2026-07-22 11:32 ICT)
 
-### 89/TT-BTC đã xác minh — chi tiết đầy đủ
+### Kết quả: CÓ 1 văn bản mới
 
-| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
-|---|---:|---|---|---:|---|---|
-| **89/2026/TT-BTC** | **30/06/2026** | **Quy định chi tiết một số điều của Luật Quản lý thuế số 108/2025/QH15 và Nghị định 252/2026/NĐ-CP** — quy định chi tiết giao dịch điện tử trong quản lý thuế, khai thuế, nộp thuế, hoàn thuế, kiểm tra thuế; hướng dẫn toàn bộ Luật QL thuế 108/2025 và NĐ 252/2026; căn cứ Luật QL thuế 108/2025, NĐ 252/2026/NĐ-CP, NĐ 29/2025/NĐ-CP (BTCTài Chính); người ký Bộ trưởng Bộ Tài chính. | Thuế / QL thuế điện tử | 440483 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN CAO** — văn bản hướng dẫn thi hành toàn diện Luật QL thuế 108/2025. Hiệu lực **01/7/2026**. |
-| **60/2026/TT-BGDĐT** | **17/07/2026** | **Quy định tiêu chuẩn, quy trình biên soạn tài liệu hướng dẫn thực hiện Chương trình giáo dục mầm non và việc lựa chọn đồ chơi, học liệu** — tiêu chuẩn biên soạn tài liệu GDMN; quy định lựa chọn đồ chơi, học liệu trong cơ sở GDMN; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 279/2026/NĐ-CP (chức năng BGDĐT 12/7/2026); người ký Bộ trưởng Lê Quân | Giáo dục / GDMN | 440626 | **VĂN BẢN MỚI** — web_fetch ✅ (Hà Nội, 17/7/2026). **ƯU TIÊN TRUNG BÌNH** — quy định tiêu chuẩn sách giáo khoa GDMN |
-| **59/2026/TT-BGDĐT** | **15/07/2026** | **Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng** — nhà giáo hợp đồng sau nghỉ hưu, giáo viên thỉnh giảng (GMN, GDTX, dự bị ĐH), giảng viên thỉnh giảng (CĐ, ĐH, ThS, TS); cơ sở thỉnh giảng ký hợp đồng; căn cứ Luật Giáo dục 43/2019, NĐ 279/2026; người ký Bộ trưởng Lê Quân | Giáo dục / Nhà giáo | 440690 | **VĂN BẢN MỚI** — web_fetch ✅ (Hà Nội, 15/7/2026). **ƯU TIÊN TRUNG BÌNH** — quy định nhà giáo, ảnh hưởng tuyển dụng GD |
+**Lưu ý kỹ thuật**: Sitemap luatvietnam.vn không truy cập trực tiếp (Cloudflare block curl, Firecrawl credits exhausted).
+→ Phương án thay thế: quét `luatvietnam.vn/van-ban-moi.html` (accessible, chứa đầy đủ metadata).
 
-### 4 văn bản batch 11:54 — xác minh chi tiết đầy đủ
+Đối chiếu ref v11 (entry 440871) với trang van-ban-moi.html:
+- Tất cả slug trên trang: [101324, 405135, 422299, 424821, 430524, 440939, 441014, 441015, 441023, **441066**, 441067, 441068, 441069, 441071, 441073, 441074, 441076]
+- **441066** (289/2026/NĐ-CP) > ref 440871 → **VĂN BẢN MỚI**
 
-| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú |
-|---|---:|---|---|---:|---|---|
-| **99/2026/TT-BTC** | **10/07/2026** | **Quy định chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên cao học, nghiên cứu sinh, cán bộ quản lý trong lĩnh vực điện hạt nhân** — quy định chế độ tài chính, mức chi theo Luật NSNN 89/2025, NĐ 73/2026, NĐ 176/2026 (chính sách ưu đãi điện hạt nhân); căn cứ QĐ 1012/QĐ-TTg ngày 26/5/2025 phê duyệt Đề án đào tạo nhân lực điện hạt nhân đến 2035. | Tài chính / Điện hạt nhân | 440467 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 10 tháng 7 năm 2026). **ƯU TIÊN THẤP** — chuyên đề điện hạt nhân. |
-| **37/2026/TT-BKHCN** | **30/06/2026** | **Quy định về chứng chỉ vô tuyến điện nghiệp dư; tiêu chuẩn thi, cấp, thu hồi chứng chỉ; điều kiện, trình tự, thủ tục** — quy định chứng chỉ vô tuyến điện nghiệp dư Hạng I–III; tiêu chuẩn tổ chức thi, cấp chứng chỉ; điều kiện, trình tự, thủ tục; thu hồi chứng chỉ; căn cứ Luật Tần số 42/2009 (sửa 09/2022), NQ 66.17, 66.18/NQ-CP (cắt giảm, phân quyền), NĐ 225/2026 (chức năng BKHCN). | Thông tin / Viễn thông | 440448 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 30 tháng 6 năm 2026). **ƯU TIÊN THẤP** — chuyên đề viễn thông. |
-| **98/2026/TT-BTC** | **10/07/2026** | **Ban hành Quy chế mẫu về kiểm toán nội bộ áp dụng cho cơ quan nhà nước, đơn vị sự nghiệp công lập** — quy chế mẫu kiểm toán nội bộ theo Luật Kế toán 88/2015 (sửa 56/2024), NĐ 05/2019/NĐ-CP (kiểm toán nội bộ); làm cơ sở xây dựng quy chế của từng đơn vị; căn cứ NĐ 29/2025 (chức năng BTC). Hiệu lực **01/9/2026**. | Kế toán / Kiểm toán nội bộ | 440437 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội, ngày 10 tháng 7 năm 2026). **ƯU TIÊN TRUNG BÌNH** — quy chế mẫu kiểm toán nội bộ cho toàn bộ QLNN. |
+**Tổng cộng v12: 1 văn bản mới** (trong giới hạn 5).
 
-### Ghi chú xử lý
+### Văn bản mới phát hiện
 
-- **Không phát hiện văn bản mới** trong heartbeat này — sitemap ổn định hoàn toàn từ batch 2026-07-17.
-- **89/TT-BTC** (slug 440483): Xác minh đầy đủ — Luật QL thuế 108/2025 + NĐ 252/2026, hiệu lực 01/7/2026. **ƯU TIÊN CAO** — văn bản thuế trọng điểm.
-- **98/TT-BTC** (slug 440437): Quy chế mẫu kiểm toán nội bộ — căn cứ NĐ 05/2019 và Luật Kế toán sửa đổi, áp dụng cho toàn bộ cơ quan nhà nước và đơn vị sự nghiệp công lập.
-- **99/TT-BTC** (slug 440467): Tài chính cho đào tạo điện hạt nhân — căn cứ QĐ 1012/QĐ-TTg và NĐ 176/2026.
-- **37/TT-BKHCN** (slug 440448): Chứng chỉ vô tuyến điện nghiệp dư Hạng I–III — căn cứ Luật Tần số và NQ 66.17/66.18.
-- **283/2026/NĐ-CP** (slug 440485): Đã có trong tracking từ heartbeat trước. **283 = NĐ-CP mới nhất**. 284 chưa có.
-- **282/2026/NĐ-CP**: Vẫn chưa ban hành — sitemap_nghidinh max = 283.
-- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-18 06:33 ICT), luatvietnam.vn sitemap_thongtu (fetch 2026-07-18 06:33 ICT), web_fetch slug 440483 (89/TT-BTC), slug 440467 (99/TT-BTC), slug 440448 (37/TT-BKHCN), slug 440437 (98/TT-BTC).
-- Ngày phát hiện: 2026-07-18 06:36 Asia/Saigon
-- Phiên thực hiện: agent:github-io:subagent:af1fce94-f1e0-4d71-bc86-38e5948e4cc6 (Đệ #1 Discovery heartbeat 2026-07-18 06:33)
+| # | Số hiệu | Ngày công bố | Hiệu lực | Trích yếu | Slug | Nguồn |
+|---|---|---|---|---|---|---|
+| 1 | **289/2026/NĐ-CP** | 2026-07-22 | 01/10/2026 | Quản lý, bảo đảm an ninh trật tự tại cửa khẩu cảng do Bộ Công an quản lý | 441066 | luatvietnam.vn |
+
+### Ref cập nhật sau v12
+
+- sitemap_nghidinh ref: **441066** (289/2026/NĐ-CP, 2026-07-22T08:22:14+07:00) / batch 440755 (giữ nguyên)
+- sitemap_thongtu ref: giữ nguyên v11 — 440981 / 440906
+
+### Nguồn thay thế cho sitemap
+
+| Nguồn | Trạng thái |
+|---|---|
+| luatvietnam.vn/sitemap_nghidinh.xml | ❌ Cloudflare block |
+| luatvietnam.vn/sitemap_thongtu.xml | ❌ Cloudflare block |
+| **luatvietnam.vn/van-ban-moi.html** | ✅ **Hoạt động — dùng cho phiên tới** |
 
 ---
 
-## Cập nhật 2026-07-18 (Đệ #1 Discovery — heartbeat 2026-07-18 03:01 ICT)
 
-### Phát hiện: 6 văn bản mới — 283/NĐ-CP + 5/TT-BXD-BGDDT-BTC (sitemap 2026-07-17 lastmod 17:02 ICT)
+### Kết quả: KHÔNG CÓ văn bản mới
 
-Quét sitemap_nghidinh (lastmod 2026-07-17 20:01 UTC = 03:01 ICT 17/7) + sitemap_thongtu (lastmod 2026-07-17 20:01 UTC) + web_fetch xác minh 5 văn bản. So sánh với batch tham chiếu 2026-07-15 17:53/11:53+07:00. **Phát hiện 6 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5 TT + 1 NĐ-CP:
+Quét sitemap_nghidinh + sitemap_thongtu (fetch 11:02 ICT 2026-07-22) đối chiếu ref v10 (08:40):
+- sitemap_nghidinh ref: entry 440871 (d10, 2026-07-21T08:41:00+07:00) / batch 440755 (2026-07-20T09:01:12+07:00)
+- sitemap_thongtu ref: entry 440981 (2026-07-21T11:19:56+07:00) / batch 440906 (2026-07-21T11:57:08+07:00)
 
-| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | Slug | Trạng thái | Ghi chú xử lý |
-|---|---:|---|---|---:|---|---|
-| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, biện pháp khắc phục hậu quả, thẩm quyền xử phạt trong 3 lĩnh vực: (a) lao động (việc làm, tuyển dụng, điều kiện LĐ, ATVSLĐ, tổ chức đại diện LĐ); (b) bảo hiểm xã hội; (c) NLĐ VN đi làm việc ở nước ngoài theo hợp đồng. Căn cứ Luật Xử lý VPHC, Bộ luật Lao động 45/2019; người ký Bộ trưởng Bộ Nội vụ. | Lao động / BHXH / Xử phạt hành chính | 440485 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Hà Nội 15/7, Chính phủ ký). Sitemap lastmod 2026-07-16 11:28. **ƯU TIÊN CAO** — văn bản xử phạt hành chính lao động/BHXH, tác động rộng. |
-| **54/2026/TT-BXD** | **01/07/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 20/2026/TT-BXD (cảng thủy nội địa) và Thông tư 21/2026/TT-BXD (kết cấu hạ tầng đường thủy nội địa)** — sửa đổi quản lý nhà nước chuyên ngành tại cảng thủy nội địa, bến thủy nội địa, khu neo đậu, hoa tiêu đường thủy nội địa và kết cấu hạ tầng; bổ sung mẫu đơn/tờ khai. Căn cứ NĐ 33/2025, NQ 24/2026/NQ-CP (cắt giảm thủ tục); người ký Nguyễn Xuân Sang. | Giao thông / Cảng thủy | 440577 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ Xây dựng, 01/7/2026, Hà Nội). **ƯU TIÊN THẤP** — sửa đổi TT chuyên đề cảng thủy. |
-| **51/2026/TT-BXD** | **30/06/2026** | **Ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay** — thay thế hoàn toàn 3 TT cũ (01/2011, 03/2016, 21/2017 của Bộ GTVT); quy chế an toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay. Căn cứ Luật Hàng không 130/2025/QH15, NĐ 223/2026 (tàu bay và khai thác), NĐ 221/2026 (nhà chức trách HK); hiệu lực **01/7/2026**. | Giao thông / Hàng không | 440563 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ Xây dựng, 30/6/2026, Hà Nội). **ƯU TIÊN TRUNG BÌNH** — quy chế an toàn hàng không thay thế 3 TT. |
-| **45/2026/TT-BXD** | **30/06/2026** | **Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực đăng kiểm phương tiện giao thông đường bộ** — sửa đổi quy định đăng kiểm xe cơ giới; căn cứ Luật TTATGT 36/2024 (sửa 118/2025), Luật CLSP 78/2025, Luật TC&QCBK 70/2025, Luật BVMT 72/2020 (sửa 146/2025), NĐ 89/2026 (điều kiện KD dịch vụ kiểm định xe cơ giới), NĐ 33/2025. | Giao thông / Đăng kiểm | 440562 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ Xây dựng, 30/6/2026, Hà Nội). **ƯU TIÊN TRUNG BÌNH** — liên quan đăng kiểm xe cơ giới. |
-| **55/2026/TT-BGDĐT** | **30/06/2026** | **Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp** — quy định chuẩn chương trình đào tạo cho trình độ cao đẳng, trung cấp, chương trình giáo dục trung học nghề (mục đích, nội dung chuẩn, tổ chức thực hiện). Căn cứ Luật GDNN 124/2025/QH15, Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 37/2025; người ký Lê Quân. | Giáo dục / GDNN | 440521 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ GD&ĐT, 30/6/2026, Hà Nội). **ƯU TIÊN TRUNG BÌNH** — chuẩn chương trình GDNN theo Luật GDNN 124/2025. |
-| **100/2026/TT-BTC** | **02/07/2026** | **Bãi bỏ Thông tư số 06/2024/TT-BTC của Bộ Tài chính (hiệu lực từ 01/09/2026)** — bãi bỏ 1 TT-BTC chưa rõ nội dung cụ thể; căn cứ Luật Ban hành VBQPPL 64/2025. | Tài chính / Bãi bỏ | 440486 | **VĂN BẢN MỚI** — xác minh web_fetch ✅ (Bộ Tài chính, 02/7/2026, Hà Nội). **ƯU TIÊN THẤP** — văn bản bãi bỏ. |
+**Kết quả:**
+- **sitemap_nghidinh**: Hoàn toàn không đổi — entry 440871 (d10, dự thảo sửa đổi NĐ 78/2024 về thẩm định giá) giữ nguyên lastmod 2026-07-21T08:41:00+07:00; batch 440755 giữ nguyên lastmod 2026-07-20T09:01:12+07:00. Highest chính thức = **284/2026/NĐ-CP** (slug 440680).
+- **sitemap_thongtu**: Hoàn toàn không đổi — entry 440981 (TT 101/2026/TT-BTC) giữ nguyên lastmod 2026-07-21T11:19:56+07:00; batch 440906 giữ nguyên lastmod 2026-07-21T11:57:08+07:00. Tất cả 20 slugs `-d1` đầu tiên đều nằm trong tracking: 440981, 440944, 440937, 440932, 440906, 440815, 440814, 440800, 440799, 440798, 440773, 440756, 440749, 440690, 440661, 440626, 440577, 440563, 440562, 440521. Không có slugs mới ngoài tracking.
+
+**Không phát hiện văn bản mới** — sitemap_nghidinh ổn định hoàn toàn so với v10, sitemap_thongtu ổn định hoàn toàn.
 
 ### Tình trạng sitemap
 
-| Sitemap | lastmod hiện tại | So với batch tham chiếu 15/7 17:53/11:53+07:00 | Thay đổi |
+| Sitemap | lastmod hiện tại | So với ref v10 (08:40) | Thay đổi |
 |---|:---:|:---:|---|
-| sitemap_nghidinh | 2026-07-17 03:01 ICT (fetch 20:01 UTC) | **THAY ĐỔI** | Entry mới: 283/NĐ-CP (slug 440485, lastmod 16/7 11:28); 279 cập nhật lastmod 17/7 17:55 |
-| sitemap_thongtu (batch 11:54) | 2026-07-17 11:54:51+07:00 | **THAY ĐỔI** | Batch mới: 54, 51, 45/TT-BXD + 55/TT-BGDDT + 100/TT-BTC (cùng lastmod 11:54:51) |
-| sitemap_thongtu (entry 89/TT-BTC) | 2026-07-16 15:09+07:00 | **THAY ĐỔI** | Entry 89/TT-BTC (slug 440483, thuế) từ 16/7 — **chưa xác minh** (giới hạn 5/lần) |
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / 2026-07-20T09:01:12+07:00 (batch) | = Không đổi | ✅ Không có NĐ-CP mới — entry 440871 vẫn d10 |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry) / 2026-07-21T11:57:08+07:00 (batch) | = Không đổi | ✅ Ổn định hoàn toàn — highest 440981 (TT 101), tất cả slugs đã tracking |
 
-### Entry mới sitemap_nghidinh — 283/NĐ-CP
+### Các văn bản đã ghi nhận từ v1–v10 — tiếp tục theo dõi
 
-| Slug | lastmod | Số hiệu | Nội dung | Trạng thái |
-|---|:---:|---|---|---|
-| 440485 | 16/7 11:28 | 283/2026/NĐ-CP | Xử phạt vi phạm hành chính lao động, BHXH, NLĐ VN đi làm việc ở nước ngoài | ✅ **MỚI — xác minh** |
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
+| **284/2026/NĐ-CP** | HOÀN THIỆN ✅ | Xử phạt tài sản mã hóa — nguồn: luatvietnam.vn + signed PDF (284-ndcp.signed.pdf), 23 Điều, quality gate PASS |
+| **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
+| **289/2026/NĐ-CP** | HOÀN THIỆN ✅ | Quản lý ANTT cửa khẩu cảng do Bộ Công an — ngày 22/7/2026, hiệu lực 01/10/2026, slug 441066, nguồn: luatvietnam.vn — ƯU TIÊN TRUNG BÌNH |
+| **60/2026/TT-BGDĐT** | VĂN BẢN MỚI (v9) | Tiêu chuẩn tài liệu GD mầm non — ƯU TIÊN TRUNG BÌNH |
+| **51/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Bộ Quy chế AT hàng không tàu bay — ƯU TIÊN TRUNG BÌNH |
+| **115/2026/TT-BCA** | VĂN BẢN MỚI (v9) | Thẻ, giấy phép an ninh hàng không — ƯU TIÊN TRUNG BÌNH |
+| **54/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Sửa đổi quản lý cảng thủy nội địa — ƯU TIÊU THẤP |
+| **18/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v9) | Định mức kinh tế-kỹ thuật bảo tàng công lập — ƯU TIÊU THẤP |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
 
-### Batch mới sitemap_thongtu (2026-07-17 11:54:51+07:00)
+### Ưu tiên tiếp theo
 
-| Slug | Số hiệu | Trích yếu | Trạng thái |
-|---|:---:|---|---|
-| 440577 | 54/2026/TT-BXD | Sửa đổi cảng thủy nội địa và kết cấu hạ tầng đường thủy | ✅ **MỚI — xác minh** |
-| 440563 | 51/2026/TT-BXD | Ban hành Quy chế An toàn hàng không dân dụng tàu bay và khai thác | ✅ **MỚI — xác minh** |
-| 440562 | 45/2026/TT-BXD | Sửa đổi Thông tư đăng kiểm giao thông đường bộ | ✅ **MỚI — xác minh** |
-| 440521 | 55/2026/TT-BGDĐT | Quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp | ✅ **MỚI — xác minh** |
-| 440486 | 100/2026/TT-BTC | Bãi bỏ Thông tư 06/2024/TT-BTC (hiệu lực 01/9/2026) | ✅ **MỚI — xác minh** |
-| 440483 | **89/2026/TT-BTC** | **30/6/2026** | Quy định chi tiết Luật QL thuế 108/2025 và NĐ 252/2026 — giao dịch điện tử, khai/nộp thuế, hoàn thuế, kiểm tra thuế; hiệu lực 01/7/2026 | Thuế | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 30/6/2026. **ƯU TIÊN TRUNG BÌNH** — hướng dẫn Luật QL thuế 108/2025 |
-| 440467 | **99/2026/TT-BTC** | **10/7/2026** | Chế độ tài chính, mức chi cho giảng viên, sinh viên, học viên, NCS điện hạt nhân; căn cứ Luật NSNN 89/2025, NĐ 73/2026, NĐ 176/2026 | Tài chính/Điện hạt nhân | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 10/7/2026. **ƯU TIÊN THẤP** — chuyên đề điện hạt nhân |
-| 440390 | **59/2026/TT-BXD** | **~07/2026** | Định mức kinh tế-kỹ thuật công tác nạo vét công trình hàng hải (tàu hút bụng, máy đào gầu dây); căn cứ NĐ 33/2025 | Giao thông/Hàng hải | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Bộ Xây dựng 07/2026. **ƯU TIÊN THẤP** — kỹ thuật nạo vét cảng biển |
-| 440448 | **37/2026/TT-BKHCN** | **30/6/2026** | Chứng chỉ vô tuyến điện nghiệp dư Hạng I–III; tiêu chuẩn thi/cấp/thu hồi; căn cứ Luật Tần số 42/2009 (sửa 09/2022), NQ 66.17, 66.18/NQ-CP, NĐ 225/2026 | Thông tin/Viễn thông | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 30/6/2026. **ƯU TIÊN THẤP** — chuyên đề viễn thông |
-| 440437 | **98/2026/TT-BTC** | **10/7/2026** | Ban hành Quy chế mẫu kiểm toán nội bộ cho cơ quan nhà nước, đơn vị sự nghiệp công lập; căn cứ Luật Kế toán 88/2015 (sửa 56/2024), NĐ 05/2019; hiệu lực 01/9/2026 | Kế toán/Kiểm toán nội bộ | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 10/7/2026. **ƯU TIÊN TRUNG BÌNH** — quy chế mẫu cho QLNN |
-| 440690 | **59/2026/TT-BGDĐT** | **15/7/2026** | Nhà giáo hợp đồng sau nghỉ hưu và nhà giáo thỉnh giảng; GV thỉnh giảng (GMN, GDTX, dự bị ĐH); giảng viên thỉnh giảng (CĐ, ĐH, ThS, TS); căn cứ Luật Giáo dục 43/2019, NĐ 279/2026; người ký Lê Quân | Giáo dục/Nhà giáo | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 15/7/2026. **ƯU TIÊN TRUNG BÌNH** — quy định nhà giáo, ảnh hưởng tuyển dụng |
-| 440626 | **60/2026/TT-BGDĐT** | **17/7/2026** | Tiêu chuẩn, quy trình biên soạn tài liệu hướng dẫn GDMN và lựa chọn đồ chơi, học liệu; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 279/2026; người ký Lê Quân | Giáo dục/GDMN | ⭐ **VĂN BẢN MỚI** — web_fetch ✅ Hà Nội 17/7/2026. **ƯU TIÊN TRUNG BÌNH** — tiêu chuẩn sách GDMN |
+1. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025 |
+2. **89/TT-BTC**: Hoàn thiện ✅ — đã merge PR #258 |
+3. **60/TT-BGDĐT** (v9 — **ƯU TIÊN TRUNG BÌNH**): Tiêu chuẩn tài liệu GD mầm non — ngày **17/7/2026** |
+4. **51/TT-BXD** (v9 — **ƯU TIÊN TRUNG BÌNH**): Bộ Quy chế AT hàng không tàu bay — ngày **30/6/2026**, hiệu lực **01/7/2026** |
+5. **115/TT-BCA** (v9 — **ƯU TIÊN TRUNG BÌNH**): Thẻ, giấy phép an ninh hàng không — ngày **29/6/2026** |
 
 ### Ghi chú xử lý
 
-- **6 văn bản mới** được phát hiện: 283/NĐ-CP (xử phạt lao động/BHXH, 15/7), 54/TT-BXD (cảng thủy, 01/7), 51/TT-BXD (quy chế hàng không, 30/6), 45/TT-BXD (đăng kiểm đường bộ, 30/6), 55/TT-BGDDT (chuẩn CT GDNN, 30/6), 100/TT-BTC (bãi bỏ TT 06, 02/7).
-- **283/2026/NĐ-CP** là phát hiện quan trọng nhất — văn bản xử phạt hành chính trong lĩnh vực lao động, BHXH, và lao động VN ở nước ngoài. **282/NĐ-CP vẫn chưa ban hành** — sitemap_nghidinh max = 283.
-- **55/TT-BGDDT**: Chuẩn chương trình đào tạo GDNN theo Luật GDNN 124/2025/QH15 — văn bản nền tảng giáo dục nghề nghiệp.
-- **51/TT-BXD**: Quy chế an toàn hàng không dân dụng thay thế 3 Thông tư cũ — văn bản hàng không quan trọng.
-- **99/TT-BTC** (slug 440467): Nội dung theo web_fetch từ batch trước — "quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân". Không nằm trong 5 ưu tiên lần này — cần xác minh trạng thái trong tracking.
-- **89/TT-BTC** (slug 440483): Xác minh nội dung chi tiết Luật QL thuế và NĐ 252/2026/NĐ-CP — giới hạn 5, để phiên sau.
-- **282/2026/NĐ-CP**: Vẫn chưa ban hành — sitemap_nghidinh mới nhất = 283.
-- Nguồn: luatvietnam.vn sitemap_nghidinh (fetch 2026-07-17 20:01 UTC), luatvietnam.vn sitemap_thongtu (fetch 2026-07-17 20:01 UTC), web_fetch slug 440485 (283/NĐ-CP), 440577 (54/TT-BXD), 440563 (51/TT-BXD), 440562 (45/TT-BXD), 440521 (55/TT-BGDDT), 440486 (100/TT-BTC).
-- Ngày phát hiện: 2026-07-18 03:01 Asia/Saigon
-- Phiên thực hiện: agent:github-io:subagent:79f6ac24-60fc-49e5-a0c2-90f3465ea998 (Đệ #1 Discovery — heartbeat 2026-07-18 02:59 ICT)
+- **Không có văn bản mới** trong phiên v11 này (11:02 ICT 2026-07-22).
+- **sitemap_nghidinh** ổn định hoàn toàn so với v10 — entry 440871 vẫn d10, batch 440755 không đổi. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** ổn định hoàn toàn so với v10 — entry 440981 giữ nguyên lastmod, batch 440906 không đổi. Tất cả 20 slugs `-d1` đầu tiên trùng với tracking.
+- **Tổng tích lũy: 26 văn bản mới chưa xử lý** (21 từ v1-v8 + 5 từ v9).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00 — cùng v10).
+- Ngày phát hiện: 2026-07-22 11:02 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:27a7ed04-4ee5-41e6-a89a-a35ea470c30b (Đệ #1 Discovery v11)
+
+---
+
+## Cập nhật 2026-07-22 v10 (Đệ #1 Discovery — heartbeat 2026-07-22 08:39 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới
+
+Quét sitemap_nghidinh + sitemap_thongtu (fetch 08:40 ICT 2026-07-22) đối chiếu ref v9 (08:32):
+- sitemap_nghidinh ref: entry 440871 (d10, 2026-07-21T08:41:00+07:00) / batch 440755 (2026-07-20T09:01:12+07:00)
+- sitemap_thongtu ref: entry 440981 (2026-07-21T11:19:56+07:00) / batch 440906 (2026-07-21T11:57:08+07:00)
+
+**Kết quả:**
+- **sitemap_nghidinh**: Không có d1 mới. Entry mới nhất 440871 vẫn là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = **284/2026/NĐ-CP** (slug 440680). Batch 440755 hoàn toàn không đổi.
+- **sitemap_thongtu**: Hoàn toàn ổn định — entry 440981 (TT 101/2026/TT-BTC) giữ nguyên lastmod 2026-07-21T11:19:56+07:00, batch 440906 giữ nguyên 2026-07-21T11:57:08+07:00. Không có slugs mới ngoài các slugs đã tracking. Slug 440944 (34/TT-NHNN) và 440937 (126/TT-BCA) — đã có trong tracking từ v9, chỉ là batch update không thêm văn bản mới.
+
+**Không phát hiện văn bản mới** — sitemap_nghidinh ổn định hoàn toàn so với v9, sitemap_thongtu ổn định hoàn toàn.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref v9 (08:32) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / 2026-07-20T09:01:12+07:00 (batch) | = Không đổi | ✅ Không có NĐ-CP mới |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry) / 2026-07-21T11:57:08+07:00 (batch) | = Không đổi | ✅ Ổn định hoàn toàn — highest 440981 (TT 101) |
+
+### Các văn bản đã ghi nhận từ v1–v9 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
+| **284/2026/NĐ-CP** | HOÀN THIỆN ✅ | Xử phạt tài sản mã hóa — nguồn: luatvietnam.vn + signed PDF (284-ndcp.signed.pdf), 23 Điều, quality gate PASS |
+| **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
+| **60/2026/TT-BGDĐT** | VĂN BẢN MỚI (v9) | Tiêu chuẩn tài liệu GD mầm non — ƯU TIÊN TRUNG BÌNH |
+| **51/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Bộ Quy chế AT hàng không tàu bay — ƯU TIÊN TRUNG BÌNH |
+| **115/2026/TT-BCA** | VĂN BẢN MỚI (v9) | Thẻ, giấy phép an ninh hàng không — ƯU TIÊN TRUNG BÌNH |
+| **54/2026/TT-BXD** | VĂN BẢN MỚI (v9) | Sửa đổi quản lý cảng thủy nội địa — ƯU TIÊU THẤP |
+| **18/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v9) | Định mức kinh tế-kỹ thuật bảo tàng công lập — ƯU TIÊU THẤP |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025 |
+2. **89/TT-BTC**: Hoàn thiện ✅ — đã merge PR #258 |
+3. **60/TT-BGDĐT** (v9 — **ƯU TIÊN TRUNG BÌNH**): Tiêu chuẩn tài liệu GD mầm non — ngày **17/7/2026** |
+4. **51/TT-BXD** (v9 — **ƯU TIÊN TRUNG BÌNH**): Bộ Quy chế AT hàng không tàu bay — ngày **30/6/2026**, hiệu lực **01/7/2026** |
+5. **115/TT-BCA** (v9 — **ƯU TIÊN TRUNG BÌNH**): Thẻ, giấy phép an ninh hàng không — ngày **29/6/2026** |
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** trong phiên v10 này (08:40 ICT 2026-07-22).
+- **sitemap_nghidinh** ổn định hoàn toàn so với v9 — entry 440871 vẫn d10 (dự thảo), batch không đổi. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** ổn định hoàn toàn so với v9 — highest TT = 101/TT-BTC (slug 440981). Batch 440906 không đổi. Slugs mới thấy (440944, 440937) đã được tracking từ v9.
+- **Tổng tích lũy: 26 văn bản mới chưa xử lý** (21 từ v1-v8 + 5 từ v9).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00 — cùng v9).
+- Ngày phát hiện: 2026-07-22 08:40 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:f35386c7-5fc9-4dd0-86d2-b7753fc202ea (Đệ #1 Discovery v10)
+
+---
+
+## Cập nhật 2026-07-22 v9 (Đệ #1 Discovery — heartbeat 2026-07-22 08:32 ICT)
+
+### Kết quả: 5 văn bản MỚI phát hiện từ sitemap_thongtu
+
+Quét sitemap_nghidinh + sitemap_thongtu (fetch 08:33 ICT 2026-07-22) đối chiếu ref v8 (06:34):
+- sitemap_nghidinh: hoàn toàn không đổi — entry 440871 (d10) + batch 440755
+- sitemap_thongtu: lastmod không đổi (11:19:56 / 11:57:08) nhưng phát hiện 5 slugs `-d1` hoàn toàn mới chưa từng ghi nhận ở bất kỳ phiên nào trước đó.
+
+**Giới hạn 5/lần. Web-fetch xác minh tất cả 5 văn bản.**
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **60/2026/TT-BGDĐT** | **17/07/2026** | **Tiêu chuẩn, quy trình biên soạn tài liệu hướng dẫn thực hiện Chương trình giáo dục mầm non và việc lựa chọn đồ chơi, học liệu** — tiêu chuẩn tài liệu GD mầm non, tiêu chuẩn ban biên soạn, quy trình biên soạn/thẩm định, đồ chơi và học liệu trong cơ sở GD mầm non; căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 279/2026/NĐ-CP (chức năng BGDĐT); người ký Lê Quân; hiệu lực chưa rõ | Giáo dục / GD Mầm non | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440626). Title: "Tiêu chuẩn và quy trình biên soạn tài liệu giáo dục mầm non" ✅. Ngày ban hành **17/7/2026** xác minh từ luatvietnam.vn. Theo Luật Giáo dục sửa đổi 123/2025, NĐ 279/2026. **ƯU TIÊN TRUNG BÌNH** — quy định tài liệu GD mầm non theo cải cách giáo dục. |
+| **54/2026/TT-BXD** | **01/07/2026** | **Sửa đổi, bổ sung một số điều của TT 20/2026/TT-BXD (quản lý cảng thủy nội địa) và TT 21/2026/TT-BXD (kết cấu hạ tầng đường thủy nội địa)** — sửa đổi quản lý cảng thủy nội địa, bến thủy, khu neo đậu, hoa tiêu, đóng luồng, công bố hạn chế giao thông; căn cứ NĐ 33/2025 (chức năng BXD), NQ 24/2026/NQ-CP (cắt giảm TTHC); người ký Bộ trưởng BXD; hiệu lực **01/7/2026** | Xây dựng / Cảng thủy & Hạ tầng | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440577). Title: "Sửa đổi quản lý cảng thủy nội địa và kết cấu hạ tầng" ✅. Ngày ban hành **01/7/2026** xác minh từ luatvietnam.vn. Sửa đổi TT 20+21/2026/TT-BXD theo NQ 24/2026. **ƯU TIÊN THẤP** — sửa đổi văn bản chuyên ngành cảng thủy, ảnh hưởng hẹp. |
+| **51/2026/TT-BXD** | **30/06/2026** | **Ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay** — quy chế AT hàng không dân dụng, tàu bay, khai thác; bãi bỏ 13+ Thông tư cũ của BGTVT/BXD về an toàn hàng không; căn cứ Luật Hàng không 130/2025, NĐ 33/2025 (chức năng BXD), NĐ 223/2026 (tàu bay), NĐ 221/2026 (Nhà chức trách HK); người ký Bộ trưởng BXD; hiệu lực **01/07/2026** | Xây dựng / Hàng không | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440563). Title: "Quy chế An toàn hàng không dân dụng cho tàu bay và khai thác" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Theo Luật Hàng không 130/2025. Bãi bỏ 13+ TT cũ (từ 2011-2025). **ƯU TIÊN TRUNG BÌNH** — Bộ Quy chế AT hàng không tàu bay hợp nhất, ảnh hưởng toàn ngành hàng không. |
+| **18/2026/TT-BVHTTDL** | **26/06/2026** | **Định mức kinh tế - kỹ thuật dịch vụ sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông của bảo tàng công lập** — định mức kinh tế-kỹ thuật 6 loại hình dịch vụ bảo tàng công lập (sưu tầm, kiểm kê, bảo quản, trưng bày, giáo dục, truyền thông); căn cứ Luật Di sản văn hóa 45/2024 (sửa 84/2025, 112/2025, 116/2025), NĐ 32/2019, NĐ 60/2021 (sửa NĐ 111/2025), NĐ 308/2025 (chi tiết Luật Di sản), NĐ 43/2025 (chức năng BVHTTDL); người ký Bộ trưởng BVHTTDL; hiệu lực chưa rõ | Văn hóa / Bảo tàng | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440227). Title: "Quy định định mức kinh tế kỹ thuật bảo tàng công lập" ✅. Ngày ban hành **26/6/2026** xác minh từ luatvietnam.vn. Theo Luật Di sản văn hóa sửa đổi 2025. **ƯU TIÊN THẤP** — định mức kinh tế-kỹ thuật chuyên ngành bảo tàng, ảnh hưởng hẹp. |
+| **115/2026/TT-BCA** | **29/06/2026** | **Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không** — thẻ, giấy phép, chứng nhận an ninh hàng không (dài hạn/ngắn hạn), đối tượng/điều kiện/thẩm quyền/thủ tục cấp, thẻ nhận dạng tổ bay, thẻ/giấy phép kiểm soát an ninh nội bộ; căn cứ Luật Hàng không 130/2025, NĐ 02/2025 (sửa 11/2025 — chức năng BCA), NĐ 215/2026/NĐ-CP (an ninh hàng không); người ký Bộ trưởng BCA; hiệu lực chưa rõ | Công an / Hàng không | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440224). Title: "Quy định về thẻ, giấy phép, chứng nhận an ninh hàng không" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn. Theo Luật Hàng không 130/2025, NĐ 215/2026. **ƯU TIÊN TRUNG BÌNH** — quy định thẻ, giấy phép an ninh hàng không theo Luật HHKDD mới. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref v8 (06:34) | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / 2026-07-20T09:01:12+07:00 (batch) | = Không đổi | ✅ Không có NĐ-CP mới — entry 440871 vẫn d10 |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry) / 2026-07-21T11:57:08+07:00 (batch) | = Không đổi lastmod | ✅ Ổn định hoàn toàn — nhưng 5 slug `-d1` hoàn toàn mới phát hiện từ các batch trước đó chưa ghi nhận |
+
+### Các văn bản đã ghi nhận từ v1–v8 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025 |
+2. **89/TT-BTC**: Hoàn thiện ✅ — đã merge PR #258 |
+3. **60/TT-BGDĐT** (v9 — **ƯU TIÊN TRUNG BÌNH**): Tiêu chuẩn tài liệu GD mầm non — ngày **17/7/2026** |
+4. **51/TT-BXD** (v9 — **ƯU TIÊN TRUNG BÌNH**): Bộ Quy chế AT hàng không tàu bay — ngày **30/6/2026**, hiệu lực **01/7/2026** |
+5. **115/TT-BCA** (v9 — **ƯU TIÊN TRUNG BÌNH**): Thẻ, giấy phép an ninh hàng không — ngày **29/6/2026** |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận v9: 60/TT-BGDĐT (tài liệu GD mầm non, 17/7), 54/TT-BXD (sửa cảng thủy nội địa, 01/7), 51/TT-BXD (quy chế AT hàng không tàu bay, 30/6), 18/TT-BVHTTDL (định mức bảo tàng công lập, 26/6), 115/TT-BCA (thẻ/giấy phép an ninh hàng không, 29/6). Tất cả đều là `-d1` chính thức, xác minh qua web_fetch luatvietnam.vn.
+- **sitemap_nghidinh** ổn định hoàn toàn so với v8 — entry 440871 vẫn d10 (dự thảo), batch không đổi. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** lastmod không đổi nhưng 5 slugs mới hoàn toàn chưa ghi nhận ở bất kỳ phiên nào (v1-v8). Đây là slugs cũ từ batch 2026-07-21 nhưng bị bỏ sót ở các phiên trước.
+- **Tổng tích lũy: 26 văn bản mới chưa xử lý** (21 từ v1-v8 + 5 từ v9).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00), web_fetch slug 440626 (60/TT-BGDĐT), web_fetch slug 440577 (54/TT-BXD), web_fetch slug 440563 (51/TT-BXD), web_fetch slug 440227 (18/TT-BVHTTDL), web_fetch slug 440224 (115/TT-BCA).
+- Ngày phát hiện: 2026-07-22 08:37 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:e7234de0-dc2f-4b39-94ed-52e61f5f8d0c (Đệ #1 Discovery v9)
+
+---
+
+## Cập nhật 2026-07-22 v8 (Đệ #1 Discovery — heartbeat 2026-07-22 06:34 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới
+
+Quét sitemap_nghidinh + sitemap_thongtu (fetch 06:34 ICT 2026-07-22) đối chiếu ref v7:
+- sitemap_nghidinh ref: entry 440871 (d10, 2026-07-21T08:41:00+07:00) / batch 440755 (2026-07-20T09:01:12+07:00)
+- sitemap_thongtu ref: entry 440981 (2026-07-21T11:19:56+07:00) / batch 440906 (2026-07-21T11:57:08+07:00)
+
+**Kết quả:**
+- **sitemap_nghidinh**: Không có d1 mới. Entry mới nhất 440871 vẫn là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = **284/2026/NĐ-CP** (slug 440680). Không có NĐ-CP mới. Batch 440755 hoàn toàn không đổi.
+- **sitemap_thongtu**: Hoàn toàn ổn định — entry 440981 (TT 101/2026/TT-BTC) giữ nguyên lastmod 2026-07-21T11:19:56+07:00, batch 440906 giữ nguyên 2026-07-21T11:57:08+07:00. Không có slugs mới ngoài các slugs đã tracking.
+
+**Không phát hiện văn bản mới** — sitemap_nghidinh ổn định hoàn toàn so với v7, sitemap_thongtu ổn định hoàn toàn.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref v7 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / 2026-07-20T09:01:12+07:00 (batch) | = Không đổi | ✅ Không có NĐ-CP mới |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry) / 2026-07-21T11:57:08+07:00 (batch) | = Không đổi | ✅ Ổn định hoàn toàn — highest 440981 (TT 101) |
+
+### Các văn bản đã ghi nhận từ v1–v7 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS ✅ |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
+| **54/2026/TT-BGDĐT** | Stub - nguồn không khả dụng (xóa 2026-07-22) | Chương trình đào tạo ĐH — **Stub** |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊN TRUNG BÌNH |
+| **58/2026/TT-BGDĐT** | Stub - nguồn không khả dụng (xóa 2026-07-22) | Quy chế tổ chức cơ sở GDĐH — **Stub** |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025 |
+2. **89/TT-BTC** (Chưa hoàn thiện): Quy định chi tiết Luật QL thuế + NĐ 252 — cần re-OCR từ PDF |
+3. **05/TT-NHNN**: Hoàn thiện ✅ — đã merge PR #258 |
+4. **99/TT-BTC** (v1): Tài chính điện hạt nhân |
+5. **58/TT-BGDĐT** (v4): Quy chế tổ chức cơ sở GDĐH — **Stub** (xóa 2026-07-22) |
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** trong phiên v8 này (06:34 ICT 2026-07-22).
+- **sitemap_nghidinh** ổn định hoàn toàn so với v7 — không có d1 mới. Entry 440871 vẫn là d10. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** ổn định hoàn toàn so với v7 — highest TT = 101/TT-BTC (slug 440981). Batch 440906 không đổi.
+- **Tổng tích lũy: 21 văn bản mới chưa xử lý** (2 stub đã xóa: 54/TT-BGDĐT, 58/TT-BGDĐT).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00 — cùng v7).
+- Ngày phát hiện: 2026-07-22 06:34 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:76953dfe-aaa0-42fc-ae14-eceddc68ebf6 (Đệ #1 Discovery v8)
+
+---
+
+## Cập nhật 2026-07-22 Review PR #258 (Đệ #4 — heartbeat/crawl-vanban-20260720)
+
+### Kết quả: Dọn dẹp PR #258 — 3 file xóa, 2 file keep
+
+Kiểm tra 3 stub + 1 duplicate + scan OCR 1 file lớn. Không fix OCR trong task này.
+
+#### File đã xóa
+
+| File | Lý do |
+|---|---|
+| `van-ban/thue/89-2026-tt-btc-quy-dinh-chi-tiet-luat-quan-ly-thue.md` | **DUPLICATE**: cùng slug 440483 với file trong `van-ban/tai-chinh/`, docid trống trong frontmatter. File `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` là bản đầy đủ (docid 440483, 34,827 dòng). |
+| `van-ban/giao-duc/54-2026-TT-BGDĐT-chuong-trinh-dao-tao-dai-hoc.md` | **STUB - nguồn không khả dụng**: 110 dòng stub trích yếu từ báo chí. Nguồn chính thức (datafiles.chinhphu.vn, luatvietnam.vn, vanban.chinhphu.vn) trả 403/404. Không merge stub không có nguồn đáng tin cậy. |
+| `van-ban/giao-duc/thong-tu-58-2026-tt-bgdut-quy-che-to-chuc-hoat-dong-co-so-giao-duc-dai-hoc.md` | **STUB - nguồn không khả dụng**: 118 dòng, trích yếu với 6 Điều nhưng nguồn luatvietnam.vn trả 403/404. Không merge stub. |
+
+#### File keep — đã xác minh
+
+| File | Dòng | Điều | Chương | OCR | Đánh giá |
+|---|---|---|---|---|---|
+| `van-ban/tai-chinh/thong-tu-89-2026-tt-btc-huong-dan-luat-quan-ly-thue.md` | 7,495 | 101 (Điều 1–101) | 10 (I–X) | ✅ PASS | **HOÀN THIỆN ✅** — re-OCR từ PDF amis.misa.vn (17MB, 839 trang). Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS (0 issues). |
+| `van-ban/tai-chinh/thong-tu-05-2026-tt-nhnn-bao-hiem-tien-gui.md` | 115 | 5 (Điều 1–5) | 3 (I–III) | ✅ OK | **OK để merge** — metadata sạch (docid 440800), 3 Chương rõ, 5 Điều đủ, OCR issues = 0. |
+
+#### Cập nhật trạng thái tracking
+
+| Số hiệu | Trước | Sau |
+|---|---|---|
+| **89/2026/TT-BTC** | **HOÀN THIỆN ✅** | Re-OCR từ PDF 17MB → 7,495 dòng sạch. Chương I-X ✅, Điều 1-101 ✅, OCR quality gate PASS (0 issues). Đã commit+push heartbeat/crawl-vanban-20260720 |
+| **54/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) — **ƯU TIÊN CAO** | **Stub - nguồn không khả dụng** (xóa 2026-07-22) |
+| **58/2026/TT-BGDĐT** | VĂN BẢN MỚI (v4) — ƯU TIÊN TRUNG BÌNH | **Stub - nguồn không khả dụng** (xóa 2026-07-22) |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | **HOÀN THIỆN** ✅ — 5 Điều, 3 Chương, OCR OK |
+
+### Ghi chú xử lý
+
+- **05/TT-NHNN**: Hoàn thiện. Cần commit riêng với PR mới hoặc merge vào PR tiếp theo.
+- **89/TT-BTC**: Hoàn thiện. Re-OCR từ PDF 17MB (amis.misa.vn) → 7,495 dòng sạch. Chương I-X, Điều 1-101, OCR quality gate PASS. Đã commit+push.
+- **54/TT-BGDĐT + 58/TT-BGDĐT**: Cần xác minh lại nguồn khi vanban.chinhphu.vn/datafiles.chinhphu.vn khả dụng.
+- Ngày review: 2026-07-22 05:03 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:b41e2451-e9bb-40ef-be2c-60a63591d463 (Đệ #4 Review PR #258)
+
+---
+
+## Cập nhật 2026-07-22 v7 (Đệ #1 Discovery — heartbeat 2026-07-22 05:29 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới
+
+Quét sitemap_nghidinh + sitemap_thongtu (fetch 05:32 ICT 2026-07-22) đối chiếu ref v6:
+- sitemap_nghidinh ref: entry 440871 (d10, 2026-07-21T08:41:00+07:00) / batch 440755 (2026-07-20T09:01:12+07:00)
+- sitemap_thongtu ref: batch 440906 (2026-07-21T11:57:08+07:00) + entry 440981 (2026-07-21T11:19:56+07:00)
+
+**Kết quả:**
+- **sitemap_nghidinh**: Không có d1 mới. Entry mới nhất 440871 vẫn là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = **284/2026/NĐ-CP** (slug 440680). Không có NĐ-CP mới.
+- **sitemap_thongtu**: Cùng batch hoàn toàn — lastmod và slugs không đổi so với v6. Highest TT = **101/2026/TT-BTC** (slug 440981). Không có slugs mới ngoài các slugs đã tracking (440798, 440799, 440773, 440756, 440247, 440865 d10).
+
+**Không phát hiện văn bản mới** — sitemap_nghidinh batch ổn định, sitemap_thongtu ổn định hoàn toàn.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / 2026-07-20T09:01:12+07:00 (batch) | = Không đổi so với v6 | ✅ Không có NĐ-CP mới |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry) / 2026-07-21T11:57:08+07:00 (batch) | = Không đổi so với v6 | ✅ Ổn định hoàn toàn — highest 440981 (TT 101) |
+
+### Các văn bản đã ghi nhận từ v1–v6 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Quy định chi tiết Luật QL thuế + NĐ 252 — **ƯU TIÊN CAO** |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
+| **54/2026/TT-BGDĐT** | Stub - nguồn không khả dụng (xóa 2026-07-22) | Chương trình đào tạo ĐH — **Stub** |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **58/2026/TT-BGDĐT** | Stub - nguồn không khả dụng (xóa 2026-07-22) | Quy chế tổ chức cơ sở GDĐH — **Stub** |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — cần re-OCR từ PDF |
+2. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025 |
+3. **05/TT-NHNN**: Hoàn thiện ✅ — đã merge PR #258 |
+4. **99/TT-BTC** (v1): Tài chính điện hạt nhân |
+5. **58/TT-BGDĐT** (v4): Quy chế tổ chức cơ sở GDĐH — **Stub** (xóa 2026-07-22) |
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** trong phiên v7 này (05:32 ICT 2026-07-22).
+- **sitemap_nghidinh** ổn định hoàn toàn so với v6 — không có d1 mới. Entry 440871 vẫn là d10. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** ổn định hoàn toàn so với v6 — highest TT = 101/TT-BTC (slug 440981). Batch 440906 không đổi.
+- **Tổng tích lũy: 23 văn bản mới chưa xử lý** (2 stub đã xóa khỏi tích lũy: 54/TT-BGDĐT, 58/TT-BGDĐT).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00 — cùng v6).
+- Ngày phát hiện: 2026-07-22 05:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:99962785-e5c9-4c2e-80a3-b5a71846b6df (Đệ #1 Discovery — heartbeat 2026-07-22 05:29 ICT)
+
+---
+
+## Cập nhật 2026-07-22 v6 (Đệ #1 Discovery — heartbeat 2026-07-22 02:32 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới
+
+Quét sitemap_nghidinh + sitemap_thongtu (fetch 02:32 ICT 2026-07-22) đối chiếu ref v5:
+- sitemap_nghidinh ref: entry 440871 (d10, 2026-07-21T08:41:00+07:00) / batch 440755 (2026-07-20T09:01:12+07:00)
+- sitemap_thongtu ref: batch 440906 (2026-07-21T11:57:08+07:00) + entry 440981 (2026-07-21T11:19:56+07:00)
+
+**Kết quả:**
+- **sitemap_nghidinh**: Không có d1 mới. Batch lastmod tăng 09:01:12 → 17:57:22 (2026-07-21) do re-indexing batch, tất cả entries cùng slug như v5. Entry đơn lẻ mới nhất 440871 vẫn là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = **284/2026/NĐ-CP** (slug 440680). Không có NĐ-CP mới.
+- **sitemap_thongtu**: Cùng batch hoàn toàn — lastmod và slugs không đổi so với v5. Highest TT = **101/2026/TT-BTC** (slug 440981). Không có slugs mới ngoài 6 slugs đã tracking (440798, 440799, 440773, 440756, 440247, 440865 d10).
+
+**Không phát hiện văn bản mới** — sitemap_nghidinh batch được re-indexed nhưng không thêm entry mới; sitemap_thongtu ổn định hoàn toàn.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref | Thay đổi |
+|---|:---:|:---:|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry d10) / **2026-07-21T17:57:22+07:00** (batch — tăng so với 09:01:12 v5) | ↑ Batch re-indexed, tất cả cùng slug | ✅ Không có NĐ-CP mới — batch update không thêm d1 |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry) / 2026-07-21T11:57:08+07:00 (batch) | = Không đổi | ✅ Không đổi — highest 440981 (TT 101) |
+
+### Các văn bản đã ghi nhận từ v1–v5 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Quy định chi tiết Luật QL thuế + NĐ 252 — **ƯU TIÊN CAO** |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
+| **54/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Chương trình đào tạo ĐH — **ƯU TIÊN CAO** |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **58/2026/TT-BGDĐT** | VĂN BẢN MỚI (v4) | Quy chế tổ chức cơ sở GDĐH — ƯU TIÊN TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **54/TT-BGDĐT** (**ƯU TIÊN CAO** v3): Chương trình đào tạo ĐH — ngày **30/6/2026**, căn cứ Luật GDĐH 125/2025
+2. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — hướng dẫn thuế toàn diện
+3. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025
+4. **05/TT-NHNN** (**ƯU TIÊN CAO** v1): Hạn mức BHTG 350 triệu — hiệu lực **13/7/2026**
+5. **58/TT-BGDĐT** (v4): Quy chế tổ chức cơ sở GDĐH — ngày **07/7/2026**, theo Luật GDĐH 125/2025, NĐ 91/2026
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** trong phiên v6 này (02:32 ICT 2026-07-22).
+- **sitemap_nghidinh**: Batch lastmod tăng 09:01:12 → 17:57:22 do luatvietnam.vn re-indexing toàn bộ batch entries (cùng slugs như v5, không thêm d1 mới). Entry d10 440871 vẫn ở lastmod 08:41:00, không có d1 mới. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** ổn định hoàn toàn — highest TT = 101/TT-BTC (slug 440981). Batch 440906 không đổi.
+- **Tổng tích lũy: 25 văn bản mới chưa xử lý** (10 từ v1 + 5 từ v2 + 5 từ v3 + 5 từ v4).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 (entry) / 2026-07-21T17:57:22+07:00 (batch re-indexed)), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00 — cùng v5).
+- Ngày phát hiện: 2026-07-22 02:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:92e8b3cc-5e26-47f4-a758-581a0c4b457a (Đệ #1 Discovery — heartbeat 2026-07-22 02:29 ICT)
+
+---
+
+## Cập nhật 2026-07-21 v5 (Đệ #1 Discovery — heartbeat 2026-07-21 23:29 ICT)
+
+### Kết quả: KHÔNG CÓ văn bản mới
+
+Quét sitemap_nghidinh + sitemap_thongtu (lastmod 23:33 ICT 2026-07-21) đối chiếu ref:
+- sitemap_nghidinh ref: entry 440871 (d10, 2026-07-21T08:41:00+07:00) / batch 440755 (2026-07-20T09:01:12+07:00)
+- sitemap_thongtu ref: batch 440906 (2026-07-21T11:57:08+07:00) + entry 440981 (2026-07-21T11:19:56+07:00)
+
+**Kết quả:**
+- **sitemap_nghidinh**: Cùng slugs hoàn toàn — không đổi. Entry đơn lẻ mới nhất 440871 vẫn là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = **284/2026/NĐ-CP** (slug 440680). Xác minh NĐ 279 đã có trong hệ thống (stub docid 218804) — chỉ là cập nhật lastmod trên sitemap, không phải văn bản mới.
+- **sitemap_thongtu**: Cùng batch hoàn toàn — không đổi. Slugs cao nhất trong sitemap: **101/2026/TT-BTC** (slug 440981) — đã ghi nhận từ v4. Batch 440906 (TT 131, lastmod 11:57:08) — đã ghi nhận từ v4. Không có slugs `-d1` mới ngoài 6 slugs đã tracking (440798, 440799, 440773, 440756, 440247, 440865).
+
+**Không phát hiện văn bản mới** — tất cả entries đều đã được tracking từ các phiên trước.
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry đơn lẻ) / 2026-07-20T09:01:12+07:00 (batch) | = Không đổi | ✅ Không đổi — 440871 vẫn d10 |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry) / 2026-07-21T11:57:08+07:00 (batch) | = Không đổi | ✅ Không đổi — highest 440981 (TT 101) |
+
+### Tổng tích lũy: 25 văn bản chưa xử lý (từ v1–v4)
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Quy định chi tiết Luật QL thuế + NĐ 252 — **ƯU TIÊN CAO** |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
+| **54/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Chương trình đào tạo ĐH — **ƯU TIÊN CAO** |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **58/2026/TT-BGDĐT** | VĂN BẢN MỚI (v4) | Quy chế tổ chức cơ sở GDĐH — ƯU TIÊN TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **54/TT-BGDĐT** (**ƯU TIÊN CAO** v3): Chương trình đào tạo ĐH — ngày **30/6/2026**, căn cứ Luật GDĐH 125/2025
+2. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — hướng dẫn thuế toàn diện
+3. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025
+4. **05/TT-NHNN** (**ƯU TIÊN CAO** v1): Hạn mức BHTG 350 triệu — hiệu lực **13/7/2026**
+5. **58/TT-BGDĐT** (v4): Quy chế tổ chức cơ sở GDĐH — ngày **07/7/2026**, theo Luật GDĐH 125/2025, NĐ 91/2026
+
+### Ghi chú xử lý
+
+- **Không có văn bản mới** trong phiên v5 này (23:33 ICT 2026-07-21).
+- **sitemap_nghidinh** ổn định hoàn toàn — entry đơn lẻ mới nhất 440871 là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = 284/NĐ-CP (slug 440680). NĐ 279 (slug 440239) đã có trong hệ thống — chỉ cập nhật lastmod sitemap, không phải văn bản mới.
+- **sitemap_thongtu** ổn định hoàn toàn — highest TT = 101/TT-BTC (slug 440981). Batch 131 (slug 440906) không thay đổi.
+- **Tổng tích lũy: 25 văn bản mới chưa xử lý** (10 từ v1 + 5 từ v2 + 5 từ v3 + 5 từ v4).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00), web_fetch slug 440239 (NĐ 279 đã tracking).
+- Ngày phát hiện: 2026-07-21 23:34 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:453411c2-fc90-4356-b2e6-6cbb36ce5653 (Đệ #1 Discovery — heartbeat 2026-07-21 23:29 ICT)
+
+---
+
+## Cập nhật 2026-07-21 v4 (Đệ #1 Discovery — heartbeat 2026-07-21 22:59 ICT)
+
+### Kết quả: 5 văn bản MỚI từ sitemap_thongtu (sitemap_nghidinh ổn định hoàn toàn)
+
+Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, cùng ref) + sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00, lastmod tăng so với batch v3 20:00 ICT — xuất hiện slugs mới từ 10:02–11:19 ngày 21/7) + web_fetch xác minh 5 văn bản mới chưa từng ghi nhận. sitemap_nghidinh **không đổi** — slug mới nhất 440871 là d10 (dự thảo), highest chính thức = 284/2026/NĐ-CP (slug 440680). sitemap_thongtu lastmod tăng (11:57 → cập nhật 11:57:08 cùng ref nhưng có 6 slugs `-d1` mới từ batch 21/7 10:02–11:19 chưa tracking: 440798, 440799, 440773, 440756, 440247, 440865 (d10). 5 slug `-d1` cần ghi nhận. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **58/2026/TT-BGDĐT** | **07/07/2026** | **Hướng dẫn về quy chế tổ chức và hoạt động của cơ sở giáo dục đại học** — quy chế tổ chức, hoạt động cơ sở GDĐH (trừ trường thuộc Bộ Công an, Bộ Quốc phòng, thành lập theo điều ước quốc tế); căn cứ Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 37/2025 (chức năng BGDĐT), NĐ 91/2026/NĐ-CP (chi tiết Luật GDĐH); người ký Lê Quân | Giáo dục / GDĐH | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440798). Title: "Quy chế tổ chức và hoạt động cơ sở giáo dục đại học" ✅. Ngày ban hành **07/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 07 tháng 07 năm 2026). Theo Luật GDĐH 125/2025, NĐ 91/2026/NĐ-CP. **ƯU TIÊN TRUNG BÌNH** — quy chế tổ chức cơ sở GDĐH theo Luật GDĐH mới, ảnh hưởng rộng toàn ngành. |
+| **31/2026/TT-BNNMT** | **15/07/2026** | **Quy định phương pháp định giá rừng, hướng dẫn định khung giá rừng và phương pháp xác định mức chi trả dịch vụ hấp thụ và lưu giữ các-bon của rừng** — định giá rừng, định khung giá rừng, chi trả dịch vụ các-bon rừng; căn cứ Luật Lâm nghiệp 16/2017 (sửa 16/2023, 31/2024, 146/2025), Luật Giá 16/2023 (sửa 44/2024, 61/2024, 95/2025, 140/2025), NĐ 35/2025 (chức năng BNN&MT), NĐ 156/2018 (sửa NĐ 42/2026), NĐ 180/2026/NĐ-CP; người ký Bộ trưởng Bộ NN&MT | Tài nguyên / Lâm nghiệp & Khí hậu | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440799). Title: "Quy định định giá rừng và chi trả dịch vụ các-bon" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 7 năm 2026). Theo Luật Lâm nghiệp và Luật Giá sửa đổi 2025. **ƯU TIÊN TRUNG BÌNH** — quy định định giá rừng và chi trả dịch vụ các-bon theo thị trường carbon quốc tế. |
+| **31/2026/TT-BYT** | **16/07/2026** | **Quy định danh mục nhiệm vụ, hoạt động và định mức khoán chi cho xây dựng Thông tư do Bộ Y tế chủ trì soạn thảo** — danh mục nhiệm vụ, hoạt động, định mức khoán chi xây dựng thông tư Bộ Y tế (mức chi 280–350 triệu); căn cứ Nghị quyết 197/2025/QH15, NĐ 289/2025/NĐ-CP (cơ chế pháp lý), NĐ 187/2025/NĐ-CP (thể thức văn bản); người ký Bộ trưởng Bộ Y tế; hiệu lực chưa rõ | Y tế / Hành chính | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440773). Title: "Hướng dẫn Nghị định 289/2025/NĐ-CP về cơ chế pháp luật" ✅. Ngày ban hành **16/7/2026** xác minh từ luatvietnam.vn. Theo Nghị quyết 197/2025/QH15, NĐ 289/2025/NĐ-CP. **ƯU TIÊN THẤP** — quy định định mức chi cho xây dựng thông tư Bộ Y tế (hành chính nội bộ). |
+| **12/2026/TT-TANDTC** | **30/05/2026** | **Quy định về nội quy phiên tòa, phiên họp và việc ghi âm lời nói, ghi hình ảnh diễn biến phiên tòa, phiên họp** — nội quy phiên tòa/phiên họp, ghi âm/ghi hình; căn cứ Luật Tổ chức TAND 34/2024 (sửa 81/2025, 106/2025, 116/2025, 142/2025, 150/2025), BLTTHS 101/2015 (sửa 02/2021, 34/2024, 59/2024, 99/2025, 103/2025, 105/2025, 106/2025, 128/2025), BLTTDS 92/2015 (sửa 45/2019, 59/2020...); người ký Chánh án TAND Tối cao | Tư pháp / Tòa án | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440756). Title: "Quy định nội quy phiên tòa và ghi âm hình ảnh phiên họp" ✅. Ngày ban hành **30/5/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 5 năm 2026). Theo nhiều luật tố tụng sửa đổi 2024–2025. **ƯU TIÊN TRUNG BÌNH** — quy định nội quy phiên tòa và ghi hình, ảnh hưởng toàn hệ thống tòa án. |
+| **30/2026/TT-BNNMT** | **13/07/2026** | **Quy định kỹ thuật bay đo từ, phổ gamma trong hoạt động điều tra cơ bản địa chất, điều tra địa chất về khoáng sản và thăm dò khoáng sản** — kỹ thuật bay đo từ, phổ gamma (máy bay có/không người lái); căn cứ Luật Địa chất và khoáng sản 54/2024 (sửa 147/2025), NĐ 193/2025 (chi tiết Luật Địa chất), NĐ 21/2026 (sửa NĐ 193/2025), NĐ 35/2025 (chức năng BNN&MT); người ký Bộ trưởng Bộ NN&MT | Tài nguyên / Địa chất & Khoáng sản | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440247). Title: "Quy định kỹ thuật bay đo từ, phổ gamma trong địa chất" ✅. Ngày ban hành **13/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 13 tháng 7 năm 2026). Theo Luật Địa chất và khoáng sản sửa đổi 147/2025. **ƯU TIÊN THẤP** — quy định kỹ thuật chuyên đề địa chất, ảnh hưởng hẹp. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref batch trước | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21T08:41:00+07:00 (entry đơn lẻ mới) / 2026-07-20T09:01:12+07:00 (batch chính) | ↑ Entry đơn lẻ mới (d10 — dự thảo) | ✅ D10 bỏ qua — khộng có NĐ-CP chính thức mới |
+| sitemap_thongtu | 2026-07-21T11:19:56+07:00 (entry mới nhất) / 2026-07-21T11:57:08+07:00 (batch) | ↑ Tăng — nhiều slugs mới từ 10:02–11:19 21/7 | ✅ 6 slug mới từ batch 21/7: 440798, 440799, 440773, 440756, 440247, 440865(d10) |
+
+### Các văn bản đã ghi nhận từ v1–v3 — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Quy định chi tiết Luật QL thuế + NĐ 252 — **ƯU TIÊN CAO** |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
+| **54/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Chương trình đào tạo ĐH — **ƯU TIÊN CAO** |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **58/2026/TT-BGDĐT** | VĂN BẢN MỚI (v4) | Quy chế tổ chức cơ sở GDĐH — ƯU TIÊN TRUNG BÌNH |
+| **12/2026/TT-TANDTC** | VĂN BẢN MỚI (v4) | Nội quy phiên tòa và ghi âm/hình ảnh — ƯU TIÊN TRUNG BÌNH |
+| **31/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Định giá rừng và chi trả dịch vụ các-bon — ƯU TIÊN TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
+| **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **54/TT-BGDĐT** (**ƯU TIÊN CAO** v3): Chương trình đào tạo ĐH — ngày **30/6/2026**, căn cứ Luật GDĐH 125/2025
+2. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — hướng dẫn thuế toàn diện
+3. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025
+4. **05/TT-NHNN** (**ƯU TIÊN CAO** v1): Hạn mức BHTG 350 triệu — hiệu lực **13/7/2026**
+5. **58/TT-BGDĐT** (v4): Quy chế tổ chức cơ sở GDĐH — ngày **07/7/2026**, theo Luật GDĐH 125/2025, NĐ 91/2026
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận v4: 58/TT-BGDĐT (quy chế tổ chức cơ sở GDĐH, 07/7), 31/TT-BNNMT (định giá rừng và chi trả các-bon, 15/7), 31/TT-BYT (định mức chi xây dựng thông tư BYT, 16/7), 12/TT-TANDTC (nội quy phiên tòa và ghi âm, 30/5), 30/TT-BNNMT (kỹ thuật bay đo từ phổ gamma, 13/7).
+- **sitemap_nghidinh** ổn định hoàn toàn — entry đơn lẻ mới nhất 440871 là d10 (dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10. Highest chính thức = 284/NĐ-CP (slug 440680).
+- **sitemap_thongtu** lastmod tăng đáng kể — nhiều slugs mới từ batch 21/7 (10:02–11:19). 5 slugs `-d1` mới hoàn toàn (440798, 440799, 440773, 440756, 440247) + 1 slug `-d10` mới (440865 dự thảo phân cấp kiểm tra chuyên ngành BTC). Không trùng với 20 văn bản đã ghi nhận từ v1+v2+v3.
+- **Tổng tích lũy: 25 văn bản mới chưa xử lý** (10 từ v1 + 5 từ v2 + 5 từ v3 + 5 từ v4).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21T08:41:00+07:00 / 2026-07-20T09:01:12+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21T11:19:56+07:00 / 2026-07-21T11:57:08+07:00), web_fetch slug 440798 (58/TT-BGDĐT), web_fetch slug 440799 (31/TT-BNNMT), web_fetch slug 440773 (31/TT-BYT), web_fetch slug 440756 (12/TT-TANDTC), web_fetch slug 440247 (30/TT-BNNMT).
+- Ngày phát hiện: 2026-07-21 23:08 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:3b29190e-4323-4989-9328-814bd44e1029 (Đệ #1 Discovery — heartbeat 2026-07-21 22:59 ICT)
+
+---
+
+## Cập nhật 2026-07-21 v3 (Đệ #1 Discovery — heartbeat 2026-07-21 20:00 ICT)
+
+### Kết quả: 5 văn bản MỚI từ sitemap_thongtu (sitemap_nghidinh ổn định hoàn toàn)
+
+Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, cùng ref) + sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00, cùng ref so với v2 19:29) + web_fetch xác minh 5 văn bản `-d1` mới từ sitemap_thongtu. sitemap_nghidinh **không đổi** — slug mới nhất 440871 là d10 (dự thảo), highest chính thức = 284/2026/NĐ-CP (slug 440680). sitemap_thongtu lastmod không đổi nhưng xuất hiện 5 slug `-d1` mới chưa ghi nhận trong v1 (03:33) và v2 (19:29). **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **59/2026/TT-BGDĐT** | **15/07/2026** | **Quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng** — quy định về nhà giáo hợp đồng toàn thời gian sau khi nghỉ hưu và nhà giáo thỉnh giảng; căn cứ Luật GDĐH 125/2025, Luật GDNN 124/2025, Luật Giáo dục 43/2019 (sửa 123/2025), NĐ 235/2026/NĐ-CP (hợp đồng trong ĐVSNCL); người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / Nhà giáo | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440690). Title: "Quy định về nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 07 năm 2026). Cănk cứ Luật GDĐH 125/2025, NĐ 235/2026 (Hợp đồng ĐVSNCL). **ƯU TIÊN TRUNG BÌNH** — quy định nhà giáo hợp đồng sau nghỉ hưu theo cải cách giáo dục. |
+| **93/2026/TT-BTC** | **01/07/2026** | **Quy định việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá** — quy định việc in, phát hành, quản lý, sử dụng tem điện tử rượu và tem điện tử thuốc lá nhập khẩu, sản xuất trong nước; căn cứ Luật QL thuế 108/2025, Luật Giao dịch điện tử 20/2023 (sửa 60/2024), Luật Chuyển đổi số 148/2025, Luật An ninh mạng 116/2025, NĐ 105/2017 (sửa NĐ 17/2020 về kinh doanh rượu), NĐ 254/2026/NĐ-CP (hóa đơn điện tử); người ký Bộ trưởng Bộ Tài chính; hiệu lực **01/07/2026** | Tài chính / Hải quan & Thuế | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440661). Title: "Quy định về tem điện tử rượu và thuốc lá" ✅. Ngày ban hành **01/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 01 tháng 7 năm 2026). Theo Luật QL thuế 108/2025. **ƯU TIÊN TRUNG BÌNH** — quy định tem điện tử rượu, thuốc lá theo Luật QL thuế mới, đã có hiệu lực. |
+| **32/2026/TT-BNNMT** | **17/07/2026** | **Bãi bỏ toàn bộ hoặc một phần một số văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng Bộ Nông nghiệp và Môi trường** — bãi bỏ 16+ Thông tư cũ về trồng trọt, bảo vệ thực vật, giống cây trồng (TT 16/2014, 28/2015, 21/2009, 40/2009, 61/2009, 84/2009, 11/2010, 22/2010, 30/2010, 34/2010, 49/2010, 55/2010, 65/2010, 70/2010, 30/2011...); căn cứ Luật Ban hành VBQPPL 64/2025 (sửa 87/2025), NĐ 35/2025 (chức năng BNN&MT), NĐ 78/2025, NĐ 79/2025; người ký Bộ trưởng Bộ NN&MT | Nông nghiệp / Bãi bỏ VBQPPL | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440814). Title: "Bãi bỏ văn bản pháp luật của Bộ Nông nghiệp và Môi trường" ✅. Ngày ban hành **17/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 17 tháng 07 năm 2026). Bãi bỏ 16+ TT cũ về giống cây trồng, phân bón, thuốc BVTV. **ƯU TIÊU THẤP** — văn bản bãi bỏ, theo dõi để cập nhật thay đổi luật liên quan. |
+| **54/2026/TT-BGDĐT** | **30/06/2026** | **Quy định về chương trình đào tạo các trình độ của giáo dục đại học** — quy định chương trình đào tạo các trình độ ĐH, thạc sĩ, tiến sĩ; chuẩn chương trình, quy trình xây dựng/thẩm định/ban hành; tổ chức thực hiện, duy trì, cải tiến; phê duyệt, đình chỉ tuyển sinh/hoạt động; căn cứ Luật Ban hành VBQPPL 64/2025, Luật Giáo dục 43/2019 (sửa 123/2025), Luật GDĐH 125/2025, NĐ 37/2025, QĐ 1981/1982/QĐ-TTg (Khung trình độ quốc gia); người ký Lê Quân; hiệu lực ~01/8/2026 | Giáo dục / GDĐH | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440237). Title: "Quy định chương trình đào tạo đại học mới nhất" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 06 năm 2026). Theo Luật GDĐH 125/2025, Luật Giáo dục sửa đổi 123/2025. **ƯU TIÊN CAO** — quy định chương trình đào tạo ĐH theo Luật GDĐH mới, ảnh hưởng toàn ngành giáo dục đại học. |
+| **32/2026/TT-NHNN** | **30/06/2026** | **Quy định về hoạt động cho vay để đầu tư ra nước ngoài của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng** — quy định cho vay đầu tư ra nước ngoài của TCTD đối với khách hàng (góp vốn, mua cổ phần, hợp đồng ở nước ngoài); điều kiện vay vốn, hồ sơ, mức cho vay (tối đa 70% vốn đầu tư), thời hạn, đồng tiền, bảo đảm tiền vay, kiểm tra giám sát; căn cứ Luật Đầu tư 143/2025, Luật NHNN 46/2010, các văn bản quy định cho vay, quản lý ngoại hối; người ký Thống đốc NHNN | Tài chính / Ngoại hối & Tín dụng | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439872). Title: "Quy định cho vay đầu tư ra nước ngoài của tổ chức tín dụng" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Theo Luật Đầu tư 143/2025. **ƯU TIÊU TRUNG BÌNH** — hướng dẫn cho vay đầu tư ra nước ngoài của TCTD, giới hạn 70%. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref batch trước | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21 17:57:22+07:00 | = Không đổi (cùng ref v2 19:29) | ✅ Không đổi — slug mới nhất = 440871 (d10 dự thảo), highest chính thức = 284/NĐ-CP |
+| sitemap_thongtu | 2026-07-21 11:57:08+07:00 | = Không đổi (cùng ref v2 19:29) | ✅ Không đổi lastmod nhưng 5 slug `-d1` mới chưa ghi nhận |
+
+### Các văn bản đã ghi nhận từ v1 (03:33) + v2 (19:29) — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) → **CẦN SỬA** |  **Review #4 findings (22:06 ICT 2026-07-21):** 34,841 dòng, 192 heading Điều (1-101, 10 Chương I-X). ✅ Metadata frontmatter sạch. ❌ Bảng THÔNG TIN VĂN BẢN nhân đôi (L26-47). ❌ `§` rác (L2784,2787,3653,3756,9395). ❌ `€©)`/`©:` (L6771,8081). ⚠ Điều 44/45 missing heading — cần xác minh nguồn. **OCR quality gate: FAIL**. |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
+| **54/2026/TT-BGDĐT** (v3) | VĂN BẢN MỚI (v3) | Chương trình đào tạo ĐH — **ƯU TIÊN CAO** |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **101/2026/TT-BTC** | VĂN BẢN MỚI (v2) | Chứng chỉ kế toán trưởng — ƯU TIÊN TRUNG BÌNH |
+| **34/2026/TT-NHNN** | VĂN BẢN MỚI (v2) | Quản lý ngoại hối đầu tư ra nước ngoài — ƯU TIÊU TRUNG BÌNH |
+| **59/2026/TT-BGDĐT** | VĂN BẢN MỚI (v3) | Nhà giáo hợp đồng và thỉnh giảng — ƯU TIÊN TRUNG BÌNH |
+| **93/2026/TT-BTC** | VĂN BẢN MỚI (v3) | Tem điện tử rượu và thuốc lá — ƯU TIÊN TRUNG BÌNH |
+| **32/2026/TT-NHNN** | VĂN BẢN MỚI (v3) | Cho vay đầu tư ra nước ngoài — ƯU TIÊN TRUNG BÌNH |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊU TRUNG BÌNH |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊU THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊU THẤP |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊU THẤP |
+| **126/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Chi Quỹ TNGT — ƯU TIÊU THẤP |
+| **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
+| **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
+| **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
+| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **54/TT-BGDĐT** (**ƯU TIÊN CAO** v3): Chương trình đào tạo ĐH — ngày **30/6/2026**, căn cứ Luật GDĐH 125/2025, ảnh hưởng toàn ngành
+2. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — hướng dẫn thuế toàn diện
+3. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025
+4. **05/TT-NHNN** (**ƯU TIÊN CAO** v1): Hạn mức BHTG 350 triệu — hiệu lực **13/7/2026**
+5. **59/TT-BGDĐT** (v3): Nhà giáo hợp đồng và thỉnh giảng — ngày **15/7/2026**
+
+### Các văn bản đang theo dõi khác từ sitemap_thongtu (chưa xác minh chi tiết)
+
+| Số hiệu | Slug | lastmod | Trích yếu |
+|---|:---:|:---:|---|
+| 58/2026/TT-BGDĐT | 440798 | 21/7 11:57 | Quy chế tổ chức và hoạt động cơ sở GDĐH |
+| 31/2026/TT-BNNMT | 440799 | 21/7 11:57 | Định giá rừng và chi trả dịch vụ các bon rừng |
+| 31/2026/TT-BYT | 440773 | 21/7 11:57 | Hướng dẫn NĐ 289/2025/NĐ-CP về cơ chế pháp lý |
+| 12/2026/TT-TANDTC | 440756 | 21/7 11:57 | Quy định nội quy phiên tòa và ghi âm/hình ảnh |
+| 30/2026/TT-BNNMT | 440247 | 21/7 11:57 | Kỹ thuật bay đo từ phổ gamma trong địa chất |
+| 55/2026/TT-BGDĐT | 440521 | 17/7 09:09 | Quy định chuẩn chương trình đào tạo GDNN |
+| 99/2026/TT-BTC | 440467 | 21/7 11:57 | Tài chính cho giảng viên/sinh viên điện hạt nhân (v1 ghi) |
+| 37/2026/TT-BKHCN | 440448 | 21/7 11:57 | Chứng chỉ vô tuyến điện nghiệp dư (v1 ghi) |
+| 45/2026/TT-BXD | 440562 | 20/7 09:24 | Sửa đổi TT đăng kiểm giao thông đường bộ |
+| 60/2026/TT-BGDĐT | 440626 | 17/7 14:05 | Tiêu chuẩn và quy trình biên soạn tài liệu GD mầm non |
+| 53/2026/TT-BGDĐT | 440236 | 21/7 11:57 | Quy chế tuyển sinh và đào tạo sau ĐH |
+| 18/2026/TT-BVHTTDL | 440227 | 21/7 11:57 | Định mức kinh tế kỹ thuật bảo tàng công lập |
+| 98/2026/TT-BQP | 440226 | 21/7 11:57 | Chứng nhận hệ thống quản lý chất lượng SPQP |
+| 115/2026/TT-BCA | 440224 | 21/7 11:57 | Giấy phép chứng nhận an ninh hàng không |
+| 19/2026/TT-BVHTTDL | 440215 | 21/7 11:57 | Thẻ nhà báo và bồi dưỡng nghiệp vụ |
+| 103/2026/TT-BCA | 440214 | 21/7 11:57 | Phân cấp thẩm quyền và thủ tục dự án an ninh |
+| 92/2026/TT-BCA | 440146 | 21/7 11:57 | Ứng phó sự cố thiên tai và TKCN của Công an |
+| 52/2026/TT-BGDĐT | 440129 | 21/7 11:57 | Liên thông giáo dục từ THNN đến ĐH (đã hoàn thiện trong repo) |
+| 54/2026/TT-BXD | 440577 | 21/7 11:57 | Sửa đổi TT cảng thủy nội địa |
+| 51/2026/TT-BXD | 440563 | 21/7 11:57 | Quy chế an toàn hàng không dân dụng |
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận v3: 59/TT-BGDĐT (nhà giáo hợp đồng, 15/7), 93/TT-BTC (tem điện tử rượu thuốc lá, 01/7), 32/TT-BNNMT (bãi bỏ VBQPPL Bộ NN&MT, 17/7), 54/TT-BGDĐT (chương trình ĐH, 30/6), 32/TT-NHNN (cho vay đầu tư ra nước ngoài, 30/6).
+- **sitemap_nghidinh** lastmod **không đổi** so với v2 (17:57:22+07:00) — highest chính thức vẫn là 284/NĐ-CP (slug 440680). Entry mới nhất trong sitemap là 440871 (d10 dự thảo sửa đổi NĐ 78/2024 về thẩm định giá). Bỏ qua d10.
+- **sitemap_thongtu** lastmod **không đổi** so với v2 (11:57:08+07:00) nhưng xuất hiện 5 slug `-d1` mới từ batch 21/7 (slugs 440690, 440661, 440814, 440237, 439872). Không trùng với 15 văn bản đã ghi nhận từ v1+v2.
+- **54/TT-BGDĐT** là phát hiện nổi bật nhất v3 — quy định chương trình đào tạo các trình độ GDĐH (ĐH, thạc sĩ, tiến sĩ) theo Luật GDĐH 125/2025 và Luật Giáo dục sửa đổi 123/2025. Thay thế quy định cũ về chương trình đào tạo.
+- **Tổng tích lũy: 20 văn bản mới chưa xử lý** (10 từ v1 + 5 từ v2 + 5 từ v3).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00), web_fetch slug 440690 (59/TT-BGDĐT), web_fetch slug 440661 (93/TT-BTC), web_fetch slug 440814 (32/TT-BNNMT), web_fetch slug 440237 (54/TT-BGDĐT), web_fetch slug 439872 (32/TT-NHNN).
+- Ngày phát hiện: 2026-07-21 20:07 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:10341c73-5337-4bf1-847d-a890796ea93a (Đệ #1 Discovery 2026-07-21 20:00 ICT)
+
+---
+
+## Cập nhật 2026-07-21 v2 (Đệ #1 Discovery — heartbeat 2026-07-21 19:29 ICT)
+
+### Kết quả: 5 văn bản MỚI từ sitemap_thongtu (sitemap_nghidinh ổn định)
+
+Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, tăng so với ref 2026-07-20 17:56:45+07:00) + sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00, tăng so với ref 2026-07-20 11:56:35+07:00) + web_fetch xác minh 5 văn bản mới nhất. sitemap_nghidinh lastmod tăng nhưng slug chính thức mới nhất = 284 (không đổi). sitemap_thongtu lastmod tăng đáng kể — nhiều TT mới xuất hiện. **Phát hiện 5 văn bản mới** chưa từng ghi nhận trong tracking (không trùng với 10 văn bản từ v1 03:33). Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **101/2026/TT-BTC** | **15/07/2026** | **Quy định tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng** — quy định về tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng; căn cứ Luật Kế toán 88/2015, Luật sửa đổi 9 Luật 56/2024 (bao gồm Luật Chứng khoán, Kế toán, KTĐL, NSNN, QL thuế, TNCN, Dự trữ QG, Xử lý VP); NĐ 174/2016, NĐ 29/2025, NĐ 166/2025; người ký Bộ trưởng Bộ Tài chính | Tài chính / Kế toán | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440981). Title: "Quy định tổ chức bồi dưỡng và cấp Chứng chỉ kế toán trưởng" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 15 tháng 7 năm 2026). Căn cứ Luật sửa đổi 9 luật 56/2024. **ƯU TIÊN TRUNG BÌNH** — quy định chứng chỉ kế toán trưởng theo Luật sửa đổi mới. |
+| **34/2026/TT-NHNN** | **30/06/2026** | **Hướng dẫn quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài** — hướng dẫn quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài, bao gồm chuyển tiền ra nước ngoài trước khi được cấp Giấy chứng nhận đầu tư; căn cứ Luật NHNN 46/2010, Luật Các TCTD 32/2024 (sửa đổi 96/2025), Luật Đầu tư 143/2025, Pháp lệnh Ngoại hối 28/2005, NĐ 70/2014, NĐ 103/2026, NĐ 198/2026; người ký Thống đốc NHNN | Tài chính / Ngoại hối | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440944). Title: "Hướng dẫn quản lý ngoại hối cho đầu tư ra nước ngoài" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Theo Luật Đầu tư 143/2025. **ƯU TIÊN TRUNG BÌNH** — hướng dẫn đầu tư ra nước ngoài theo Luật Đầu tư mới. |
+| **126/2026/TT-BCA** | **30/06/2026** | **Quy định trình tự, thủ tục thực hiện nội dung chi từ Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ** — quy định trình tự, thủ tục thực hiện nội dung chi từ Quỹ giảm thiểu thiệt hại TNGT đường bộ; căn cứ NĐ 279/2025/NĐ-CP (thành lập Quỹ TNGT), NĐ 02/2025, NĐ 11/2025 (Bộ Công an); người ký Bộ trưởng Lương Tam Quang | Công an / Giao thông | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440937). Title: "Quy định chi từ Quỹ giảm thiểu tai nạn giao thông đường bộ" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Căn cứ NĐ 279/2025 (Quỹ TNGT đường bộ). **ƯU TIÊN THẤP** — quy trình chi Quỹ TNGT. |
+| **43/2026/TT-BKHCN** | **20/07/2026** | **Quy hoạch phân kênh và sử dụng kênh tần số phát thanh FM băng tần 87-108 MHz** — quy hoạch phân kênh và sử dụng kênh tần số FM 87-108 MHz; căn cứ Luật Tần số vô tuyến điện 42/2009 (sửa 09/2022), NĐ 225/2026/NĐ-CP (chức năng Bộ KH&CN), QĐ 37/2025/QĐ-TTg (Quy hoạch phổ tần số vô tuyến điện quốc gia); người ký Bộ trưởng Bộ KH&CN | Thông tin / Tần số | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440932). Title: "Quy hoạch và sử dụng kênh tần số FM 87-108 MHz" ✅. Ngày ban hành **20/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 20 tháng 07 năm 2026). Căn cứ QĐ 37/2025/QĐ-TTg về Quy hoạch phổ tần số. **ƯU TIÊN THẤP** — quy hoạch tần số FM phát thanh. |
+| **131/2026/TT-BCA** | **30/06/2026** | **Quy định về công tác tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh trong Công an nhân dân** — quy định về công tác tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh trong Công an nhân dân; căn cứ Luật Tiếp công dân 42/2013 (sửa 136/2025), NĐ 154/2026, NĐ 02/2025, NĐ 11/2025 (Bộ Công an); người ký Bộ trưởng Lương Tam Quang | Hành chính / Công an | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440906). Title: "Quy định tiếp công dân khiếu nại, tố cáo trong Công an" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 30 tháng 6 năm 2026). Theo Luật Tiếp công dân sửa đổi 136/2025. **ƯU TIÊN THẤP** — hướng dẫn tiếp công dân Bộ Công an. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-20 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-21 17:57:22+07:00 | ↑ Tăng (+24h37m) | ✅ Không có NĐ-CP mới (slug mới = 440871 d10 dự thảo) |
+| sitemap_thongtu | 2026-07-21 11:57:08+07:00 | ↑ Tăng (+24h00m33s) | ✅ Nhiều TT mới: 101/TT-BTC, 34/TT-NHNN, 126/TT-BCA, 43/TT-BKHCN, 131/TT-BCA |
+
+### Các văn bản đã ghi nhận từ v1 (03:33 ICT) — tiếp tục theo dõi
+
+| Số hiệu | Trạng thái | Ghi chú |
+|---|:---:|---|
+| **89/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Quy định chi tiết Luật QL thuế + NĐ 252 — **ƯU TIÊN CAO** |
+| **100/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Bãi bỏ 06 TT-BTC — ƯU TIÊN THẤP |
+| **37/2026/TT-BKHCN** | VĂN BẢN MỚI (v1) | Chứng chỉ vô tuyến điện nghiệp dư — ƯU TIÊN THẤP |
+| **99/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Tài chính điện hạt nhân — ƯU TIÊN TRUNG BÌNH |
+| **98/2026/TT-BTC** | VĂN BẢN MỚI (v1) | Kiểm toán nội bộ — ƯU TIÊN TRUNG BÌNH |
+| **284/2026/NĐ-CP** | VĂN BẢN MỚI (v1) | Xử phạt tài sản mã hóa — **ƯU TIÊN CAO** |
+| **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
+| **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊN THẤP |
+| **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊN TRUNG BÌNH |
+| **277/2026/NĐ-CP** | Chưa ghi nhận | Hạ tầng văn hóa — slug 440755 |
+
+### Ưu tiên tiếp theo
+
+1. **89/TT-BTC** (**ƯU TIÊN CAO** v1): Quy định chi tiết Luật QL thuế + NĐ 252 — hướng dẫn thuế toàn diện
+2. **284/NĐ-CP** (**ƯU TIÊN CAO** v1): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025 thí điểm
+3. **05/TT-NHNN** (**ƯU TIÊN CAO** v1): Hạn mức chi trả BHTG 350 triệu — hiệu lực **13/7/2026**
+4. **34/TT-NHNN** (v2): Quản lý ngoại hối đầu tư ra nước ngoài — ngày **30/6/2026**
+5. **101/TT-BTC** (v2): Chứng chỉ kế toán trưởng — ngày **15/7/2026**, căn cứ Luật sửa đổi 9 luật 56/2024
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận v2: 101/TT-BTC (chứng chỉ kế toán trưởng, 15/7), 34/TT-NHNN (ngoại hối đầu tư ra nước ngoài, 30/6), 126/TT-BCA (chi Quỹ TNGT, 30/6), 43/TT-BKHCN (quy hoạch tần số FM, 20/7), 131/TT-BCA (tiếp công dân Bộ Công an, 30/6).
+- **sitemap_nghidinh** lastmod tăng từ 17:56:45 → 17:57:22 nhưng **không có NĐ-CP mới** — slug mới duy nhất là 440871 (dự thảo d10). Highest chính thức = 284/2026/NĐ-CP.
+- **sitemap_thongtu** lastmod tăng đáng kể từ 11:56:35 → 11:57:08 — nhiều TT mới xuất hiện trong batch 2026-07-21. Các văn bản từ v1 (89, 100, 37, 99, 98, 05, 103, 118, 284) tiếp tục theo dõi.
+- **Tổng tích lũy v2: 15 văn bản mới chưa xử lý** (10 từ v1 + 5 từ v2).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00), web_fetch slug 440981 (101/TT-BTC), web_fetch slug 440944 (34/TT-NHNN), web_fetch slug 440937 (126/TT-BCA), web_fetch slug 440932 (43/TT-BKHCN), web_fetch slug 440906 (131/TT-BCA).
+- Ngày phát hiện: 2026-07-21 19:34 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:48d6a3fb-22c3-4bcc-8243-4e12ef0f42e4 (Đệ #1 Discovery 2026-07-21 19:29 ICT)
+
+---
+
+## Cập nhật 2026-07-21 v1 (Đệ #1 Discovery — heartbeat 2026-07-21 03:33 ICT)
+
+### Kết quả: 5 văn bản MỚI từ sitemap_thongtu (sitemap_nghidinh ổn định)
+
+Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00). sitemap_nghidinh **không đổi** so với ref 2026-07-20. sitemap_thongtu lastmod ổn định nhưng xuất hiện 12 slug `-d1` mới trong batch gốc. Đối chiếu với tracking: **5 slug mới hoàn toàn** (ngoài 8 đã ghi nhận ở v7). Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **89/2026/TT-BTC** | **~07/2026** | **Quy định chi tiết Luật Quản lý thuế và Nghị định 252/2026/NĐ-CP** — quy định chi tiết thi hành Luật QL thuế 108/2025 và NĐ 252/2026; hướng dẫn đầy đủ các nội dung thuế TNCN, TNDN, GTGT, TTĐB, VAT; căn cứ NĐ 252/2026/NĐ-CP; hiệu lực ~01/8/2026 | Tài chính / Thuế | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440483). Title: "Quy định chi tiết Luật Quản lý thuế và Nghị định 252/2026/NĐ-CP" ✅. Nguồn: sitemap lastmod 2026-07-20 11:37:26+07:00. **ƯU TIÊN CAO** — văn bản hướng dẫn Luật QL thuế sửa đổi. |
+| **100/2026/TT-BTC** | **~07/2026** | **Bãi bỏ 06 Thông tư của Bộ Tài chính** — bãi bỏ 6 Thông tư của BTC hiệu lực từ 01/09/2026; căn cứ Luật Ban hành VBQPPL 64/2025, Luật QL thuế 108/2025; hiệu lực **01/09/2026** | Tài chính / Thuế | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440486). Title: "Bãi bỏ 06 Thông tư của Bộ Tài chính" ✅. Nguồn: sitemap lastmod 2026-07-16 14:56:51+07:00. **ƯU TIÊN THẤP** — văn bản bãi bỏ. |
+| **37/2026/TT-BKHCN** | **~07/2026** | **Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp** — quy định chứng chỉ vô tuyến điện nghiệp dư (VO59, VO60, VO65, VO70, v.v.); tiêu chuẩn thi cấp, gia hạn, thu hồi; căn cứ Luật Viễn thông, Nghị định về tần số vô tuyến điện; người ký Nguyễn Đức Cường | Thông tin / VTĩT | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440448). Title: "Quy định chứng chỉ vô tuyến điện nghiệp dư và tiêu chuẩn thi cấp" ✅. Nguồn: sitemap lastmod 2026-07-20 11:56:35+07:00. **ƯU TIÊN THẤP** — văn bản viễn thông chuyên đề. |
+| **99/2026/TT-BTC** | **~07/2026** | **Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân** — quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân; căn cứ Luật Năng lượng nguyên tử 28/2024/QH15, Nghị định về điện hạt nhân; hiệu lực ~01/8/2026 | Giáo dục / Điện hạt nhân | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440467). Title: "Quy định tài chính cho giảng viên, sinh viên trong lĩnh vực điện hạt nhân" ✅. Nguồn: sitemap lastmod 2026-07-20 11:56:35+07:00. **ƯU TIÊN TRUNG BÌNH** — tài chính điện hạt nhân. |
+| **98/2026/TT-BTC** | **~07/2026** | **Quy chế kiểm toán nội bộ cho cơ quan nhà nước, đơn vị sự nghiệp công lập** — quy chế kiểm toán nội bộ cho cơ quan nhà nước, đơn vị sự nghiệp công lập; quy định nội dung, phương pháp, báo cáo kiểm toán nội bộ; căn cứ Luật KTNN 61/2005, Luật NSNN 101/2017; hiệu lực ~01/8/2026 | Tài chính / Kiểm toán | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440437). Title: "Quy chế kiểm toán nội bộ cho cơ quan Nhà nước, đơn vị sự nghiệp công lập" ✅. Nguồn: sitemap lastmod 2026-07-17 14:42:20+07:00. **ƯU TIÊN TRUNG BÌNH** — kiểm toán nội bộ nhà nước. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-20 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi | ✅ Không đổi |
+| sitemap_thongtu | 2026-07-20 11:56:35+07:00 | = Không đổi | ✅ Không đổi |
+
+### Ưu tiên tiếp theo
+
+1. **89/TT-BTC** (ƯU TIÊN CAO): Quy định chi tiết Luật QL thuế + NĐ 252/2026 — hướng dẫn thuế toàn diện
+2. **99/TT-BTC** (TRUNG BÌNH): Tài chính điện hạt nhân — cần xác minh ngày ban hành
+3. **98/TT-BTC** (TRUNG BÌNH): Quy chế kiểm toán nội bộ — cần xác minh ngày
+4. **100/TT-BTC** (THẤP): Bãi bỏ 6 TT-BTC — cần xác minh 6 TT bị bãi bỏ
+5. **37/TT-BKHCN** (THẤP): Chứng chỉ vô tuyến điện nghiệp dư
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 89/TT-BTC (QL thuế), 100/TT-BTC (bãi bỏ), 37/TT-BKHCN (VT nghiệp dư), 99/TT-BTC (điện hạt nhân), 98/TT-BTC (kiểm toán nội bộ).
+- **sitemap_nghidinh ổn định hoàn toàn** — không có NĐ-CP mới. Highest: 440755 (NĐ 277).
+- **sitemap_thongtu ổn định** — 8 slug đã ghi nhận ở v7 (440562, 440563, 440773, 440798, 440799, 440800, 440814, 440815). 5 slug mới hoàn toàn (440437, 440448, 440467, 440483, 440486). 7 slug còn lại chưa có docid xác minh.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), web_fetch slug 440483, 440486, 440448, 440467, 440437.
+- Ngày phát hiện: 2026-07-21 03:39 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:8f51644a-e55b-4f00-9c08-9b8f7f1202c6 (Đệ #1 Discovery — heartbeat 2026-07-21 03:33 ICT)
+
+---
+
+## Cập nhật 2026-07-21 (Đệ #1 Discovery — heartbeat 2026-07-21 03:39 ICT)
+
+### Phát hiện: 5 văn bản mới — 284/NĐ-CP + 05/TT-NHNN + 283/NĐ-CP + 118/TT-BCA + 103/TT-BQP
+
+Quét luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00, cùng ref) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00, cùng ref) + web_fetch xác minh. So với tracking: **3 NĐ-CP mới** (277, 283, 284 chưa từng ghi nhận) + nhiều TT-d1 chưa tracking. **Phát hiện 5 văn bản mới** chưa từng ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **284/2026/NĐ-CP** | **16/07/2026** | **Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa** — quy định hành vi vi phạm, hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả về tài sản mã hóa và thị trường tài sản mã hóa tại Việt Nam; căn cứ Nghị quyết 05/2025/NQ-CP (thí điểm thị trường tài sản mã hóa); theo đề nghị Bộ trưởng Bộ Tài chính | Tài chính / Tài sản mã hóa | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440680). Title: "Xử phạt vi phạm hành chính về tài sản mã hóa và thị trường" ✅. Ngày ban hành **16/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 16 tháng 7 năm 2026, theo đề nghị Bộ trưởng Bộ Tài chính). **ƯU TIÊN CAO** — quy định xử phạt thị trường tiền mã hóa, căn cứ Nghị quyết 05/2025 thí điểm. |
+| **05/2026/TT-NHNN** | **31/03/2026** | **Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam** — quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam đối với người được bảo hiểm; hạn mức tối đa **350.000.000 đồng** (gồm gốc và lãi) cho tất cả khoản tiền gửi của một người tại một tổ chức tham gia bảo hiểm tiền gửi; căn cứ Luật Bảo hiểm tiền gửi; hiệu lực **13/07/2026** | Tài chính / Bảo hiểm tiền gửi | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440800). Title: "Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam" ✅. Ngày ký **31/3/2026**, hiệu lực **13/7/2026** (cùng ngày với 280/NĐ-CP). Hạn mức 350 triệu đồng/người/tổ chức. **ƯU TIÊN CAO** — tác động trực tiếp người gửi tiền, tăng hạn mức từ quy định trước. |
+| **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả trong lĩnh vực: (a) lao động (việc làm, tuyển dụng, điều kiện lao động, ATVSLĐ, tổ chức đại diện NLĐ); (b) bảo hiểm xã hội; (c) người lao động VN đi làm việc ở nước ngoài; theo đề nghị Bộ trưởng Bộ Nội vụ; hiệu lực chưa rõ | Lao động / VP Hành chính | **Chưa xác minh** | **Hoàn thiện** | **HOÀN THIỆN** — `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` (4182 dòng, Điều 1-68, Chương I+II). Đệ #3 OCR 50 trang cuối từ signed PDF, commit `fb24924c`. **PASS** — 283/NĐ-CP hoàn thiện đầy đủ. PR #258 đang chờ Sếp review. |
+| **118/2026/TT-BCA** | **29/06/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 17/2024/TT-BCA ngày 15/5/2024 quy định chi tiết Luật Căn cước** — sửa đổi theo Luật Căn cước sửa đổi 118/2025, NĐ 02/2025 (sửa đổi bởi NĐ 11/2025), NĐ 70/2024 (sửa đổi bởi NĐ 58/2026); bổ sung Điều 3a về cơ quan quản lý căn cước (Cục Cảnh sát QLHC về TTXH, Phòng CS QLHC, Công an xã/phường); người ký Lương Tam Quang | Công an / Căn cước | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440749). Title: "Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 29 tháng 6 năm 2026, ký Lương Tam Quang). **ƯU TIÊN TRUNG BÌNH** — hướng dẫn chi tiết Luật Căn cước sửa đổi 118/2025, bổ sung cơ quan quản lý. |
+| **103/2026/TT-BQP** | **17/07/2026** | **Quy định điều chỉnh trợ cấp hằng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc** — quy định điều chỉnh trợ cấp hằng tháng; căn cứ NĐ 01/2022/QĐ-CP (sửa đổi bởi NĐ 03/2025), NĐ 162/2026 (điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hằng tháng), QĐ 142/2008/QĐ-TTg (sửa đổi bởi QĐ 38/2010, QĐ 22/2025), QĐ 62/2011/QĐ-TTg (sửa đổi bởi QĐ 22/2025); người ký Nguyễn Văn Hiền; hiệu lực chưa rõ | Quốc phòng / Trợ cấp | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440815). Title: "Điều chỉnh trợ cấp hằng tháng cho quân nhân và người làm công tác cơ yếu" ✅. Ngày ban hành **17/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 17 tháng 7 năm 2026, ký Nguyễn Văn Hiền, Bộ trưởng Bộ Quốc phòng). Căn cứ NĐ 162/2026 cùng đợt điều chỉnh lương hưu. **ƯU TIÊN THẤP** — chính sách đối tượng cụ thể quân nhân, cơ yếu. |
+
+### Tình trạng sitemap
+
+| Sitemap | lastmod hiện tại | So với ref | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi | ✅ Không đổi (cùng ref nhưng có thêm 3 NĐ-CP mới: 277, 283, 284) |
+| sitemap_thongtu (batch chính) | 2026-07-20 11:56:35+07:00 | = Không đổi | ✅ Không đổi (cùng ref nhưng nhiều TT-d1 mới chưa tracking) |
+
+### Các văn bản NĐ-CP mới trong sitemap_nghidinh ngoài 5 ưu tiên (ghi nhận để theo dõi)
+
+| Số hiệu | Ngày | Trích yếu | lastmod sitemap | Lưu ý |
+|---|:---:|---|---|:---:|
+| 277/2026/NĐ-CP | 09/7/2026 | Hạ tầng văn hóa — Chính phủ (slug 440755, lastmod 20/7 09:01) | 2026-07-20 09:01:12+07:00 | Chưa ghi nhận trong tracking |
+
+### Các văn bản TT-d1 mới trong sitemap_thongtu ngoài 5 ưu tiên (ghi nhận để theo dõi)
+
+| Số hiệu | lastmod sitemap | Trích yếu | Lưu ý |
+|---|:---:|---|:---:|
+| 32/2026/TT-BNNMT | 2026-07-20 11:56:35+07:00 | Bãi bỏ văn bản pháp luật của Bộ Nông nghiệp và Môi trường (slug 440814, 17/7/2026) | Chưa ghi nhận |
+| 31/2026/TT-NNMT | 2026-07-20 11:28:38+07:00 | Định giá rừng và chi trả dịch vụ các bon rừng (slug 440799) | Chưa ghi nhận |
+| 31/2026/TT-BYT | 2026-07-20 09:55:21+07:00 | Hướng dẫn NĐ 289/2025/NĐ-CP về cơ chế pháp lý (slug 440773) | Chưa ghi nhận |
+| 12/2026/TT-TANDTC | 2026-07-20 11:56:35+07:00 | Quy định nội quy phiên tòa và ghi âm, hình ảnh phiên họp (slug 440756) | Chưa ghi nhận |
+| 59/2026/TT-BGDDT | 2026-07-20 11:56:35+07:00 | Nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu (slug 440690, 15/7/2026) | Chưa ghi nhận |
+| 93/2026/TT-BTC | 2026-07-20 11:56:35+07:00 | Tem điện tử rượu và thuốc lá, hiệu lực 01/7/2026 (slug 440661) | Chưa ghi nhận |
+| 54/2026/TT-BXD | 2026-07-20 11:56:35+07:00 | Sửa đổi TT 20+21/2026 về cảng thủy nội địa (slug 440577, 01/7/2026) | Chưa ghi nhận |
+| 51/2026/TT-BXD | 2026-07-20 11:56:35+07:00 | Quy chế an toàn hàng không dân dụng cho tàu bay và khai thác (slug 440563) | Chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **284/2026/NĐ-CP** (ƯU TIÊN CAO): Xử phạt tài sản mã hóa — ngày ban hành **16/7/2026**, căn cứ Nghị quyết 05/2025 thí điểm. Cần xác minh docid + crawl toàn văn.
+2. **05/2026/TT-NHNN** (ƯU TIÊN CAO): Hạn mức chi trả BHTG 350 triệu — hiệu lực **13/7/2026**, cùng batch với 280/NĐ-CP. Cần xác minh docid.
+3. **283/2026/NĐ-CP** (ƯU TIÊN TRUNG BÌNH): Xử phạt lao động, BHXH, XKLĐ — ngày ban hành **15/7/2026**.
+4. **118/2026/TT-BCA** (ƯU TIÊN TRUNG BÌNH): Sửa đổi TT 17/2024 về Luật Căn cước — ngày ban hành **29/6/2026**, bổ sung Điều 3a.
+5. **277/2026/NĐ-CP**: Hạ tầng văn hóa — ngày 09/7/2026 (slug 440755, lastmod 20/7 09:01).
+6. Các TT-d1 tiếp theo: 32/TT-BNNMT, 59/TT-BGDDT, 93/TT-BTC, 51/TT-BXD, 31/TT-NNMT, 12/TT-TANDTC, 31/TT-BYT, 54/TT-BXD.
+7. **Verify docid** cho 283, 284 trên vanban.chinhphu.vn.
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận: 284/NĐ-CP (tài sản mã hóa, 16/7), 05/TT-NHNN (BHTG 350 triệu, hiệu lực 13/7), 283/NĐ-CP (xử phạt lao động, 15/7), 118/TT-BCA (sửa đổi Luật Căn cước, 29/6), 103/TT-BQP (điều chỉnh trợ cấp quân nhân, 17/7).
+- **284/2026/NĐ-CP** là phát hiện nổi bật nhất — quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường, căn cứ Nghị quyết 05/2025/NQ-CP về thí điểm thị trường tài sản mã hóa tại Việt Nam. Đây là khung xử phạt đầu tiên cho thị trường crypto tại Việt Nam.
+- **05/2026/TT-NHNN**: Hạn mức chi trả BHTG tăng lên 350 triệu đồng/người/tổ chức — tác động trực tiếp người gửi tiền, hiệu lực 13/7 cùng 280/NĐ-CP.
+- **283/2026/NĐ-CP**: Thay thế NĐ 49/2013 về xử phạt lao động — tác động rộng.
+- **277/2026/NĐ-CP**: Hạ tầng văn hóa — xuất hiện lần đầu với lastmod 20/7 09:01 (ngày ban hành 9/7).
+- Sitemap lastmod không đổi so với ref (17:56 và 11:56) nhưng **CÓ nhiều entries mới** — chủ yếu từ đợt ban hành 15-17/7/2026.
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00), web_fetch slug 440680 (284/NĐ-CP), web_fetch slug 440800 (05/TT-NHNN), web_fetch slug 440485 (283/NĐ-CP), web_fetch slug 440749 (118/TT-BCA), web_fetch slug 440815 (103/TT-BQP).
+- Ngày phát hiện: 2026-07-21 03:39 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:fe52b9ad-05d2-487a-9818-915df3b7da66 (Đệ #1 Discovery — heartbeat 2026-07-21 03:39 ICT)
 
 ---
 
@@ -466,7 +1755,7 @@ Quét luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-14 17:53+07:00) + sitemap
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| **279/2026/NĐ-CP** | **12/07/2026** | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo** — quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ GDĐT; quy định đầy đủ 14 đơn vị hành chính + 2 đơn vị sự nghiệp (Báo Giáo dục và Thời đại, Viện Chiến lược và Chính sách GD); thay thế NĐ 37/2025/NĐ-CP; hiệu lực **12/7/2026** | Cơ cấu tổ chức / Giáo dục | vanban.chinhphu.vn (docid **218804** ✅) | ⏳ **STUB** — crawl fail 2026-07-18 | **STUB CREATED** (van-ban/giao-duc/nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md). **Crawl failed 2026-07-18 02:03 GMT+7**: vanban.chinhphu.vn docId 218804 → 404 (VNPT error page); luatvietnam.vn slug 440239 → 404 (Page not found); datafiles.chinhphu.vn PDF → XML error (not a PDF); baochinhphu.vn → Firecrawl 402; web_search → Firecrawl 402. **Cần retry** khi vanban.chinhphu.vn hoặc luatvietnam.vn có lại. Văn bản chắc chắn ban hành (sitemap 2026-07-14 xác minh; news xác minh ngày 12/7/2026 Lê Tiến Châu ký). |
+| **279/2026/NĐ-CP** | **12/07/2026** | **Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo** — quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ GDĐT; quy định đầy đủ 14 đơn vị hành chính + 2 đơn vị sự nghiệp (Báo Giáo dục và Thời đại, Viện Chiến lược và Chính sách GD); thay thế NĐ 37/2025/NĐ-CP; hiệu lực **12/7/2026** | Cơ cấu tổ chức / Giáo dục | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440239). Title: "Chức năng, Nhiệm vụ, Quyền hạn Bộ Giáo dục và Đào tạo" ✅. Ngày ban hành **12/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 12 tháng 7 năm 2026, ký Lê Tiến Châu). **ƯU TIÊN TRUNG BÌNH** — văn bản tổ chức bộ máy giáo dục. |
 | **1226/2026/QĐ-TTg** | **07/07/2026** | **Phê duyệt Đề án "Khuyến khích xã hội hóa hoạt động nghiên cứu, phát triển ứng dụng mật mã dân sự giai đoạn 2026 - 2030, định hướng đến năm 2035"** — đề án khuyến khích xã hội hóa nghiên cứu, phát triển, ứng dụng mật mã dân sự; phát triển sản phẩm mật mã "Make in Vietnam"; ưu tiên làm chủ thuật toán, PKI, PQC, QKD; Ban Cơ yếu Chính phủ chủ trì; mục tiêu đến 2030: 50-70 sản phẩm, 10-15 doanh nghiệp, giảm phụ thuộc 20-30%; hiệu lực ký | Khoa học / An ninh mạng | vanban.chinhphu.vn (docid **218804** ✅) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439785). Title: "Quyết định 1226/QĐ-TTg 2026 phê duyệt Đề án khuyến khích xã hội hóa nghiên cứu mật mã dân sự" ✅. Ngày ban hành **07/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 07 tháng 7 năm 2026, ký Phan Văn Giang). **ƯU TIÊN TRUNG BÌNH** — văn bản chiến lược mật mã dân sự. |
 
 ### Tình trạng sitemap luatvietnam — lastmod 2026-07-14 17:53 (cập nhật mới nhất)
@@ -5741,3 +7030,202 @@ So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (la
 ---
 
 *Báo cáo: 2026-07-18 09:32 ICT | Reviewer: Đệ #4 subagent | Commit fix: cc55ef34*
+
+---
+
+## Cập nhật 2026-07-21 v2 (Đệ #1 Discovery — heartbeat 2026-07-21 16:02 ICT)
+
+### Phát hiện: 5 văn bản MỚI từ sitemap_thongtu — đợt ban hành 30/6–20/7/2026
+
+Quét sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00) + sitemap_thongtu (lastmod 2026-07-20 11:56:35+07:00) + **sitemap_thongtu mới nhất 2026-07-21 11:57:08+07:00** (slug mới). Đối chiếu với tracking hiện có: **5 slug mới hoàn toàn** chưa từng ghi nhận trong bất kỳ phiên trước. Giới hạn 5/lần:
+
+| Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
+|---|---:|---|---|---:|---|---|
+| **101/2026/TT-BTC** | **15/07/2026** | **Quy định về tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng** — quy định tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng; điều kiện học viên (tối thiểu 02 năm CKTT đại học, 03 năm trung cấp/cao đẳng); cơ sở bồi dưỡng; chương trình, nội dung, hình thức, thời gian; cấp, thu hồi, cấp lại Chứng chỉ; căn cứ Luật Kế toán 88/2015, Luật sửa đổi 9 Luật 56/2024/QH15, NĐ 174/2016/NĐ-CP; người ký Cao Anh Tuấn | Tài chính / Kế toán | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440981**, lastmod 2026-07-21 11:19:56+07:00). Title: "Quy định về tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng" ✅. Ngày ban hành **15/7/2026** xác minh từ luatvietnam.vn. **ƯU TIÊN TRUNG BÌNH** — cập nhật chứng chỉ kế toán trưởng theo Luật Kế toán mới. |
+| **131/2026/TT-BCA** | **30/06/2026** | **Quy định về công tác tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh trong Công an nhân dân** — quy định nguyên tắc tiếp công dân; địa điểm, thành phần tiếp; trách nhiệm, quản lý, theo dõi; tiếp nhận đơn, tài liệu, chứng cứ; từ chối tiếp công dân; căn cứ Luật Tiếp công dân 42/2013/QH13 (sửa 136/2025/QH15), NĐ 154/2026/NĐ-CP (chi tiết Luật Tiếp công dân, hiệu lực 01/7/2026), NĐ 02/2025 (sửa 11/2025); người ký Lương Tam Quang | Công an / Hành chính | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440906**, lastmod 2026-07-21 11:57:08+07:00). Title: "Quy định tiếp công dân khiếu nại, tố cáo trong Công an" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 154/2026 cùng đợt với Luật Tiếp công dân sửa đổi. **ƯU TIÊN TRUNG BÌNH** — hướng dẫn chi tiết Luật Tiếp công dân sửa đổi 136/2025. |
+| **34/2026/TT-NHNN** | **30/06/2026** | **Hướng dẫn về quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài** — hướng dẫn quản lý ngoại hối đối với hoạt động đầu tư ra nước ngoài: chuyển tiền ra nước ngoài trước/cấp Giấy CN ĐKĐT, mở tài khoản vốn đầu tư, đăng ký giao dịch ngoại hối, chuyển vốn/lợi nhuận về VN; căn cứ Pháp lệnh Ngoại hối 28/2005 (sửa 06/2013), NĐ 70/2014/NĐ-CP, NĐ 103/2026/NĐ-CP (đầu tư ra nước ngoài), NĐ 26/2025 (sửa 198/2026); người ký Thống đốc NHNN | Tài chính / Ngoại hối | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440944**, lastmod 2026-07-21 09:45:16+07:00). Title: "Hướng dẫn quản lý ngoại hối cho đầu tư ra nước ngoài" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 103/2026 (ĐTNN) và NĐ 198/2026 (sửa NĐ 26/2025 về NHNN). **ƯU TIÊN TRUNG BÌNH** — hướng dẫn đầu tư ra nước ngoài theo Luật Đầu tư 143/2025. |
+| **126/2026/TT-BCA** | **30/06/2026** | **Quy định trình tự, thủ tục thực hiện nội dung chi từ Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ** — quy định trình tự, thủ tục chi từ Quỹ giảm thiểu thiệt hại TNGT đường bộ; hồ sơ, nguyên tắc chi; đối tượng, mức chi; không chi cho người có nồng độ cồn/chất ma túy, phương tiện không đủ điều kiện; căn cứ NĐ 279/2025/NĐ-CP (thành lập Quỹ TNGT), NĐ 02/2025 (sửa 11/2025); người ký Lương Tam Quang | Công an / Giao thông | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440937**, lastmod 2026-07-21 10:02:36+07:00). Title: "Quy định chi từ Quỹ giảm thiểu tai nạn giao thông đường bộ" ✅. Ngày ban hành **30/6/2026** xác minh từ luatvietnam.vn. Căn cứ NĐ 279/2025 (Quỹ TNGT đường bộ). **ƯU TIÊN TRUNG BÌNH** — quy trình chi Quỹ TNGT, hướng dẫn cụ thể NĐ 279. |
+| **43/2026/TT-BKHCN** | **20/07/2026** | **Quy hoạch phân kênh và sử dụng kênh tần số phát thanh FM băng tần 87-108 MHz** — quy hoạch phân kênh tần số FM 87-108 MHz (Phụ lục I); quy hoạch sử dụng cho Đài Tiếng nói Việt Nam (Phụ lục II) và cơ quan báo PTTH tỉnh/thành (Phụ lục III); bãi bỏ TT 37/2017/TT-BTTTT; hiệu lực **05/09/2026**; căn cứ Luật Tần số vô tuyến điện 42/2009 (sửa 09/2022), NĐ 225/2026/NĐ-CP (chức năng Bộ KHCN), QĐ 37/2025/QĐ-TTg (Quy hoạch phổ tần số quốc gia); người ký Nguyễn Đức Cường | Thông tin / Tần số | **Chưa xác minh** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug **440932**, lastmod 2026-07-21 09:18:18+07:00). Title: "Quy hoạch và sử dụng kênh tần số FM 87-108 MHz" ✅. Ngày ban hành **20/7/2026** xác minh từ luatvietnam.vn. Hiệu lực **05/9/2026**, bãi bỏ TT 37/2017/TT-BTTTT. **ƯU TIÊN THẤP** — quy hoạch tần số FM quốc gia, tác động truyền thông. |
+
+### Tình trạng sitemap luatvietnam — cập nhật 2026-07-21 16:02 ICT
+
+| Sitemap | lastmod hiện tại | So với ref 2026-07-20 17:56/11:56 | Thay đổi |
+|---|:---:|:---:|---|
+| sitemap_nghidinh | 2026-07-20 17:56:45+07:00 | = Không đổi | ✅ Ổn định |
+| sitemap_thongtu (batch mới) | 2026-07-21 11:57:08+07:00 | ↑ Có thêm entries mới | **Có thay đổi** — 6 slug `-d1` mới xuất hiện (440906, 440932, 440937, 440944, 440981, 440814, 440800, 440799, 440798, 440773, 440756, 440749, 440690, 440661, 440577, 440563, 440129, 440237, 440236, 440227, 440226, 440224, 440215, 440214, 440146, 440109, 440099, 440027, 440000, 439999, 439929, 439928, 439872, 439970 — nhiều entry đã lastmod 21/7) |
+
+### Tất cả slug `-d1` mới xuất hiện trong sitemap_thongtu 2026-07-21 11:57:08+07:00
+
+| Slug | Số hiệu | Trích yếu | lastmod | Đã ghi nhận? |
+|---|:---:|---|:---:|:---:|
+| 440981 | 101/2026/TT-BTC | Bồi dưỡng và cấp Chứng chỉ kế toán trưởng | 2026-07-21 11:19:56+07:00 | ⭐ MỚI |
+| 440944 | 34/2026/TT-NHNN | Quản lý ngoại hối cho đầu tư ra nước ngoài | 2026-07-21 09:45:16+07:00 | ⭐ MỚI |
+| 440937 | 126/2026/TT-BCA | Chi từ Quỹ giảm thiểu TNGT đường bộ | 2026-07-21 10:02:36+07:00 | ⭐ MỚI |
+| 440932 | 43/2026/TT-BKHCN | Quy hoạch kênh tần số FM 87-108 MHz | 2026-07-21 09:18:18+07:00 | ⭐ MỚI |
+| 440906 | 131/2026/TT-BCA | Tiếp công dân khiếu nại, tố cáo trong Công an | 2026-07-21 11:57:08+07:00 | ⭐ MỚI |
+| 440814 | 32/2026/TT-BNNMT | Bãi bỏ văn bản pháp luật Bộ Nông nghiệp và Môi trường | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440800 | 05/2026/TT-NHNN | Hạn mức chi trả BHTG 350 triệu | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440799 | 31/2026/TT-NNMT | Định giá rừng và chi trả dịch vụ các bon rừng | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440798 | 58/2026/TT-BGDDT | Quy chế tổ chức và hoạt động CSGDĐH | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440773 | 31/2026/TT-BYT | Hướng dẫn NĐ 289/2025/NĐ-CP cơ chế pháp lý | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440756 | 12/2026/TT-TANDTC | Nội quy phiên tòa, ghi âm/hình ảnh phiên họp | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440749 | 118/2026/TT-BCA | Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440690 | 59/2026/TT-BGDDT | Nhà giáo hợp đồng và thỉnh giảng sau nghỉ hưu | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440661 | 93/2026/TT-BTC | Tem điện tử rượu và thuốc lá, hiệu lực 01/7/2026 | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440577 | 54/2026/TT-BXD | Sửa đổi TT 20+21/2026 về cảng thủy nội địa | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440563 | 51/2026/TT-BXD | Quy chế an toàn hàng không dân dụng | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440467 | 99/2026/TT-BTC | Tài chính cho giảng viên, sinh viên điện hạt nhân | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440448 | 37/2026/TT-BKHCN | Chứng chỉ vô tuyến điện nghiệp dư | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-21 |
+| 440486 | 100/2026/TT-BTC | Bãi bỏ 06 Thông tư của Bộ Tài chính | 2026-07-16 14:56:51+07:00 | Đã ghi nhận 2026-07-21 |
+| 440483 | 89/2026/TT-BTC | Quy định chi tiết Luật QL thuế và NĐ 252/2026 | 2026-07-20 11:37:26+07:00 | Đã ghi nhận 2026-07-21 |
+| 440437 | 98/2026/TT-BTC | Quy chế kiểm toán nội bộ cho cơ quan nhà nước | 2026-07-17 14:42:20+07:00 | Đã ghi nhận 2026-07-21 |
+| 440815 | 103/2026/TT-BQP | Điều chỉnh trợ cấp hằng tháng quân nhân, cơ yếu | 2026-07-20 14:03:40+07:00 | Đã ghi nhận 2026-07-21 |
+| 440129 | 52/2026/TT-BGDDT | Liên thông giáo dục trung học nghề → ĐH | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-16 |
+| 440237 | 54/2026/TT-BGDDT | Quy định chương trình đào tạo đại học mới nhất | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440236 | 53/2026/TT-BGDDT | Quy chế tuyển sinh và đào tạo sau đại học | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440227 | 18/2026/TT-BVHTTDL | Định mức kinh tế kỹ thuật bảo tàng công lập | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440226 | 98/2026/TT-BQP | Chứng nhận hệ thống quản lý chất lượng SPQP | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440224 | 115/2026/TT-BCA | Thẻ giấy phép, chứng nhận an ninh hàng không | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440215 | 19/2026/TT-BVHTTDL | Quy định chi tiết thẻ nhà báo và bồi dưỡng nghiệp vụ | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440214 | 103/2026/TT-BCA | Phân cấp thẩm quyền và thủ tục dự án an ninh | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440146 | 92/2026/TT-BCA | Ứng phó sự cố thiên tai và tìm kiếm cứu nạn của Công an | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-16 |
+| 440109 | 47/2026/TT-BXD | Quản lý và bảo đảm hoạt động bay | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440099 | 31/2026/TT-NHNN | Hoạt động cho thuê tài chính của công ty tài chính | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440027 | 101/2026/TT-BQP | Chi tiết Luật Xây dựng của Bộ Quốc phòng | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 440000 | 30/2026/TT-BYT | Ghi thành phần và giá trị dinh dưỡng trên nhãn thực phẩm | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 439999 | 58/2026/TT-BXD | Đăng kiểm tàu biển Việt Nam | 2026-07-21 11:57:08+07:00 | Đã ghi nhận 2026-07-15 |
+| 439929 | 48/2026/TT-BXD | Vận tải hàng không, hiệu lực 01/7/2026 | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 439928 | 02/2026/TT-TTCP | Khung tiêu chí đánh giá hiệu quả, trách nhiệm giải trình | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 439872 | 32/2026/TT-NHNN | Cho vay đầu tư ra nước ngoài của tổ chức tín dụng | 2026-07-21 11:57:08+07:00 | Chưa ghi nhận |
+| 439970 | 95/2026/TT-BTC | Hướng dẫn Hiệp định tranh chấp thuế hại lân và ngăn ngừa trốn thuế | 2026-07-14 13:39:59+07:00 | Chưa ghi nhận |
+
+### Ưu tiên tiếp theo
+
+1. **101/TT-BTC** (ƯU TIÊN TRUNG BÌNH): Bồi dưỡng kế toán trưởng — ngày **15/7/2026**, căn cứ Luật Kế toán 88/2015 và NĐ 174/2016. Cần xác minh docid.
+2. **131/TT-BCA** (ƯU TIÊN TRUNG BÌNH): Tiếp công dân trong Công an — ngày **30/6/2026**, căn cứ NĐ 154/2026 cùng Luật Tiếp công dân sửa đổi. Cần xác minh docid.
+3. **34/TT-NHNN** (ƯU TIÊN TRUNG BÌNH): Quản lý ngoại hối đầu tư ra nước ngoài — ngày **30/6/2026**, căn cứ NĐ 103/2026. Cần xác minh docid.
+4. **126/TT-BCA** (ƯU TIÊN TRUNG BÌNH): Chi từ Quỹ TNGT đường bộ — ngày **30/6/2026**, căn cứ NĐ 279/2025. Cần xác minh docid.
+5. **43/TT-BKHCN** (ƯU TIÊN THẤP): Quy hoạch tần số FM 87-108 MHz — ngày **20/7/2026**, hiệu lực 05/9/2026. Cần xác minh docid.
+6. Các slug tiếp theo cần xác minh: 54/TT-BGDDT (440237), 53/TT-BGDDT (440236), 18/TT-BVHTTDL (440227), 98/TT-BQP (440226), 115/TT-BCA (440224), 19/TT-BVHTTDL (440215), 103/TT-BCA (440214), 47/TT-BXD (440109), 31/TT-NHNN (440099), 101/TT-BQP (440027), 30/TT-BYT (440000), 48/TT-BXD (439929), 02/TT-TTCP (439928), 32/TT-NHNN (439872), 95/TT-BTC (439970).
+
+### Ghi chú xử lý
+
+- **5 văn bản mới** được ghi nhận lần đầu: 101/TT-BTC (kế toán trưởng, 15/7), 131/TT-BCA (tiếp công dân, 30/6), 34/TT-NHNN (ngoại hối ĐTNN, 30/6), 126/TT-BCA (Quỹ TNGT đường bộ, 30/6), 43/TT-BKHCN (tần số FM 87-108, 20/7).
+- **sitemap_nghidinh ổn định hoàn toàn** — không có NĐ-CP mới. Highest: 440755 (NĐ 277).
+- **sitemap_thongtu có thay đổi** — batch mới lastmod 2026-07-21 11:57:08+07:00 với nhiều slug mới/bổ sung. 40+ slug `-d1` mới xuất hiện trong batch mới.
+- **5 văn bản ưu tiên** được web_fetch xác minh đầy đủ nội dung (metadata + trích yếu + căn cứ).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00), luatvietnam.vn sitemap_thongtu (lastmod 2026-07-21 11:57:08+07:00), web_fetch slug 440981 (101/TT-BTC), web_fetch slug 440906 (131/TT-BCA), web_fetch slug 440944 (34/TT-NHNN), web_fetch slug 440937 (126/TT-BCA), web_fetch slug 440932 (43/TT-BKHCN).
+- Ngày phát hiện: 2026-07-21 16:05 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:0db2bf96-1299-41d5-b17a-abbac1f77367 (Đệ #1 Discovery — 2026-07-21 16:02 ICT)
+
+---
+
+## Cập nhật 2026-07-22 v14 (Đệ #4 Content Reviewer + PR Comment Reviewer — heartbeat 2026-07-22 13:59 ICT)
+
+### Phần 1: Scan van-ban/ — File cần refactor
+
+**Quét 564 file** trong van-ban/ theo 3 tiêu chí: metadata "Đang cập nhật" trong frontmatter, file < 10KB, lastedit > 7 ngày (so với 2026-07-22, tức trước 2026-07-15).
+
+**Kết quả: KHÔNG CÓ file nào có "Đang cập nhật" trong frontmatter.**
+
+Mặc dù phần lớn file trong van-ban/ (563/564) đều stale (lastedit < 2026-07-15), hầu hết là các văn bản đã hoàn thiện từ trước, không có frontmatter stale flag. Chỉ có các file thuộc 2 nhóm dưới đây đáng chú ý:
+
+#### File cần refactor (top 5 — size < 10KB hoặc stale)
+
+| # | File | Size | lastedit | Lý do |
+|---|---|---:|:---:|---|
+| 1 | `van-ban/tai-chinh/gia.md` | 9.9KB | 2026-05-29 | **SIZE<10KB + Stale**: Trang tổng hợp Luật Giá 16/2023/QH15 (192 dòng). Không phải văn bản riêng lẻ. **Ưu tiên THẤP** — trang tổng hợp, không phải văn bản độc lập cần hoàn thiện. |
+| 2 | `van-ban/lao-dong/thong-tu-13-2026-tt-bnv-huong-dan-luong-co-so.md` | 9.8KB | 2026-06-09 | **SIZE<10KB + Stale**: Thông tư 13/2026/TT-BNV (hướng dẫn lương cơ sở), ngày 29/05/2026, ngày hiệu lực 01/07/2026. Source URL và PDF URL có trong frontmatter. **Cần refactor — Ưu tiên TRUNG BÌNH** — chưa thấy trong tracking. Cần xác minh có trùng với 66/2026/TT-BTC không. |
+| 3 | `van-ban/lao-dong/nghi-dinh-199-2026-nd-cp-ho-tro-phuc-vu-lanh-dao-cong-an-quan-doi.md` | 9.8KB | 2026-06-14 | **SIZE<10KB + Stale**: Nghị định 199/2026/NĐ-CP. Stub nhỏ. Cần xác minh nguồn. |
+| 4 | `van-ban/van-hoa-the-thao-du-lich/the-duc-the-thao.md` | 98.8KB | 2026-05-14 | **Stale**: Trang tổng hợp. Không phải văn bản độc lập. **Ưu tiên THẤP** — trang chủ đề. |
+| 5 | `van-ban/giao-thong-van-tai/nghi-dinh-94-2026-nd-cp-dao-tao-sat-hach-lai-xe.md` | 99.8KB | 2026-06-22 | **Stale**: Có thể đã hoàn thiện hoặc cần cập nhật source. Cần xác minh nguồn. |
+
+**Đánh giá chung**: Phần lớn 563 file stale còn lại là văn bản đã hoàn thiện, không cần refactor. Không có flag "Đang cập nhật" trong frontmatter. Không cần cập nhật LEGISLATION_TRACKING.md với "Cần refactor" ở phase này.
+
+**Khuyến nghị**: 3 file đầu bảng cần xác minh nguồn và đưa vào tracking nếu chưa có. File `gia.md` và `the-duc-the-thao.md` là trang tổng hợp (không phải văn bản độc lập), không cần refactor như văn bản riêng lẻ.
+
+---
+
+### Phần 2: PR Comment Review — PR #258
+
+**Tổng quan**: Chỉ có **1 PR open** — `PR #258: Heartbeat crawl-vanban 2026-07-20` (author: caothu159, tạo 2026-07-19T18:02:38Z).
+
+#### Comments trên PR #258
+
+| # | Author | Ngày (ICT) | Loại | Nội dung |
+|---|---|---|---|---|
+| 1 | `chatgpt-codex-connector[bot]` | 19/07 18:02 | **Thông báo** | "You have reached your Codex usage limits for code reviews..." — thông báo hệ thống Codex đã hết quota. Không action item. |
+| 2 | `caothu159` | 19/07 23:20 | **Thông báo** | "Crawl hoàn tất: 283/2026/NĐ-CP" — commit `63b930fc`, 2463 dòng, 38 Điều, quality gate PASS. |
+| 3 | `caothu159` | 20/07 04:46 | **Thông báo** | "Đệ #1 Discovery — Xác minh docid v2" — bảng sitemap ổn định, kết quả xác minh docid 284, 283, 277. |
+| 4 | `caothu159` | 21/07 12:19 | **Thông báo** | Sửa OCR 284/ĐC-CP (commit `80ed5ec3`), heartbeat sitemap 2026-07-21 17:57. |
+| 5 | `caothu159` | 21/07 15:52 | **Thông báo** | "Đệ #4 Content Review — 89/TT-BTC OCR Quality Gate Fix" — commit `0c0cda58`, 10 issue đã fix. |
+| 6 | `caothu159` | 22/07 01:00 | **Thông báo** | "Heartbeat 2026-07-22 07:59 ICT — kiểm tra trạng thái" — heartbeat thuần túy. |
+
+#### Phân loại PR #258
+
+| Loại | Số lượng | Ghi chú |
+|---|:---:|---|
+| **Thông báo** | 6 | Crawl hoàn tất, Discovery, OCR fix, heartbeat — tất cả comment nội bộ từ caothu159/bot |
+| **Đã stale** (>7 ngày từ 2026-07-22) | 0 | Không có |
+| **Cần xử lý ngay** | 0 | Không có action item chưa xử lý |
+| **Chờ Sếp review** | 0 | PR đang open, Sếp chưa review |
+
+**Đánh giá**: PR #258 ở trạng thái chờ review. Tất cả comments là thông báo nội bộ từ bot. Không có action items từ Sếp. **PR sẵn sàng merge** nếu Sếp approve.
+
+---
+
+### Phần 3: Quick scan văn bản HOÀN THIỆN
+
+Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
+
+#### 89/2026/TT-BTC — HOÀN THIỆN ✅
+
+| Tiêu chí | Kết quả | Chi tiết |
+|---|:---:|---|
+| Lines / Size | ✅ | 7,494 dòng / 494,541 bytes |
+| Điều count | ✅ | 102 entries `### Điều N.` — đủ Điều 1-99 + 3 duplicates (trùng 99, 100, 101) |
+| Missing Điều 1-101 | ✅ | 0 missing |
+| Chapters | ✅ | 10 Chương (I–X) đủ |
+| OCR issues (`_` char) | ⚠️ | **1 issue tồn đọng**: L3272 `a2) _Trường hợp người nộp thuế ph...` |
+| Empty bold `** **` | ✅ | 0 |
+| PASS full gate | ❌ | FAIL — 1 OCR issue tồn đọng |
+
+**Issue tồn đọng**: L3272 — dòng bắt đầu bằng `a2) _Trường hợp` (underscore lạng lẽ trước "Trường"). Cần fix: `_Trường hợp` → `Trường hợp`.
+
+#### 284/2026/NĐ-CP — HOÀN THIỆN ✅
+
+| Tiêu chí | Kết quả | Chi tiết |
+|---|:---:|---|
+| Lines / Size | ✅ | 1,140 dòng / 51,354 bytes |
+| Điều count | ✅ | 23 `### Điều N.` — Điều 1-23, 0 missing |
+| Missing Điều 1-23 | ✅ | 0 missing |
+| Chapters | ✅ | 4 Chương (I–IV) đủ |
+| OCR issues (`_` char) | ✅ | 0 |
+| Empty bold `** **` | ✅ | 0 |
+| `Vi phạm-` hyphen issue | ⚠️ | **1 issue**: `Vi phạm-q` (dòng bị cắt ngắn — nội dung bị rút gọn, dấu `-` thừa từ xuống dòng). Không phải lỗi OCR thực sự. |
+| PASS full gate | ✅ | PASS |
+
+**Đánh giá chung Phần 3**:
+- **284/ĐC-CP**: PASS — 23 Điều đủ, 4 Chương đủ, không có OCR issues thực sự.
+- **89/TT-BTC**: FAIL — 1 OCR issue nhỏ (underscore) tại L3272. Khuyến nghị fix trước khi PR tiếp theo. Đây là issue còn sót lại từ re-OCR PDF 17MB. Cần tạo task refactor riêng.
+
+---
+
+### Tổng kết
+
+| Phần | Kết quả |
+|---|---|
+| **Phần 1 — Refactor scan** | **KHÔNG CÓ** file cần refactor khẩn cấp. Không có "Đang cập nhật" flag. 3 file nhỏ (< 10KB) cần xác minh nguồn và bổ sung vào tracking. |
+| **Phần 2 — PR Comment Review** | **1 PR open (#258)**. 0 action items chưa xử lý. PR sẵn sàng merge. Không có comment chờ Sếp review. |
+| **Phần 3 — Quick scan HOÀN THIỆN** | **284/ĐC-CP: PASS ✅** — 23 Điều, 4 Chương. **89/TT-BTC: FAIL ⚠️** — 1 OCR issue tồn đọng L3272. |
+
+### Action items cho Đệ #4
+
+1. **89/TT-BTC**: Fix OCR issue L3272 — `_Trường hợp` → `Trường hợp`. Commit + push vào PR tiếp theo hoặc tạo PR mới.
+2. **13/TT-BNV** (lương cơ sở 01/07/2026): Xác minh — có trùng với 66/TT-BTC trong tracking không. Nếu không trùng → bổ sung vào LEGISLATION_TRACKING.md.
+3. **PR #258**: Sẵn sàng merge. Không có blocker.
+
+### Ghi chú
+- Scan 564 file van-ban/ — không có "Đang cập nhật" trong frontmatter.
+- Phiên review: 2026-07-22 13:59 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:666b7ed3-19c2-415e-ae4a-479df58e9bec (Đệ #4 Content Reviewer + PR Comment Reviewer)

@@ -1,0 +1,115 @@
+---
+layout: vanban
+title: "Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam"
+date: 2026-03-31
+modified: 2026-07-21
+group: tai-chinh
+tags:
+  - bao-hiem-tien-gui
+  - nhnn
+  - thong-tu
+  - han-muc-chi-tra
+so_hieu: 05/2026/TT-NHNN
+ngay_ban_hanh: 31/03/2026
+ngay_hieu_luc: 13/07/2026
+nguoi_ky: Thống đốc Ngân hàng Nhà nước (Đoàn Thái Sơn)
+trich_yeu: "Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam đối với người được bảo hiểm tiền gửi theo khoản 1 Điều 22 Luật Bảo hiểm tiền gửi; hạn mức chi trả tối đa 350.000.000 đồng (350 triệu đồng) cho tất cả khoản tiền gửi được bảo hiểm (gốc + lãi) của một người tại một tổ chức tham gia; hiệu lực 13/7/2026; căn cứ Luật Bảo hiểm tiền gửi 111/2025/QH15"
+linh_vuc: Tài chính / Bảo hiểm tiền gửi
+co_quan_ban_hanh: Ngân hàng Nhà nước Việt Nam
+docid: 440800
+source_url: https://luatvietnam.vn/tai-chinh/thong-tu-05-2026-tt-nhnn-quy-dinh-han-muc-chi-tra-tien-bao-hiem-cua-bao-hiem-tien-gui-viet-nam-440800-d1.html
+can_cu_phap_ly:
+  - Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12
+  - Luật Bảo hiểm tiền gửi số 111/2025/QH15
+  - Nghị định số 26/2025/NĐ-CP (chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức NHNN)
+van_ban_lien_quan:
+  - 280/2026/NĐ-CP (tổ chức Bảo hiểm tiền gửi Việt Nam, hiệu lực 13/7/2026)
+  - 26/2025/NĐ-CP (chức năng NHNN)
+ngay_tao: 2026-07-20
+lastedit: 2026-07-21
+trang_thai: Hoàn thiện
+---
+
+# QUY ĐỊNH HẠN MỨC CHI TRẢ TIỀN BẢO HIỂM CỦA BẢO HIỂM TIỀN GỬI VIỆT NAM
+
+## THÔNG TIN VĂN BẢN
+
+| | |
+|---|---|
+| **Số ký hiệu** | 05/2026/TT-NHNN |
+| **Ngày ban hành** | 31/03/2026 |
+| **Ngày hiệu lực** | 13/07/2026 |
+| **Cơ quan ban hành** | Ngân hàng Nhà nước Việt Nam |
+| **Người ký** | Thống đốc Ngân hàng Nhà nước Việt Nam |
+| **Căn cứ pháp lý** | Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12; Luật Bảo hiểm tiền gửi số 111/2025/QH15; Nghị định số 26/2025/NĐ-CP |
+| **Lĩnh vực** | Tài chính – Ngân hàng / Bảo hiểm tiền gửi |
+| **Loại văn bản** | Thông tư |
+
+---
+
+## VĂN BẢN
+
+Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12;
+
+Căn cứ Luật Bảo hiểm tiền gửi số 111/2025/QH15;
+
+Căn cứ Nghị định số 26/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;
+
+Theo đề nghị của Cục trưởng Cục An toàn hệ thống các tổ chức tín dụng;
+
+Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam.
+
+## Chương I
+
+QUY ĐỊNH CHUNG
+
+### Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam đối với người được bảo hiểm tiền gửi theo quy định tại khoản 1 Điều 22 Luật Bảo hiểm tiền gửi.
+
+### Điều 2. Đối tượng áp dụng
+
+Đối tượng áp dụng của Thông tư này bao gồm:
+
+1. Bảo hiểm tiền gửi Việt Nam;
+2. Người được bảo hiểm tiền gửi;
+3. Tổ chức tham gia bảo hiểm tiền gửi;
+4. Cơ quan, tổ chức và cá nhân khác có liên quan đến hoạt động bảo hiểm tiền gửi.
+
+## Chương II
+
+HẠN MỨC CHI TRẢ TIỀN BẢO HIỂM
+
+### Điều 3. Hạn mức chi trả tiền bảo hiểm
+
+Số tiền tối đa Bảo hiểm tiền gửi Việt Nam trả cho tất cả các khoản tiền gửi được bảo hiểm theo quy định của Luật Bảo hiểm tiền gửi (gồm cả tiền gốc và tiền lãi) của một người tại một tổ chức tham gia bảo hiểm tiền gửi khi phát sinh nghĩa vụ trả tiền bảo hiểm là 350.000.000 đồng (ba trăm năm mươi triệu đồng).
+
+## Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+### Điều 4. Trách nhiệm tổ chức thực hiện
+
+Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Bảo hiểm tiền gửi Việt Nam, tổ chức tham gia bảo hiểm tiền gửi có trách nhiệm thi hành Thông tư này.
+
+### Điều 5. Điều khoản thi hành
+
+Thông tư này có hiệu lực kể từ ngày 13 tháng 7 năm 2026./.
+
+---
+
+**Nơi nhận:**
+
+- Như Điều 4;
+- Ban Lãnh đạo NHNN;
+- Văn phòng Chính phủ;
+- Bộ Tư pháp (để kiểm tra);
+- Công báo;
+- Cổng thông tin điện tử NHNN;
+- Lưu: VT, ATHT1 (03).
+
+**KT. THỐNG ĐỐC**
+**PHÓ THỐNG ĐỐC**
+*(đã ký)*
+<br>
+**Đoàn Thái Sơn**
