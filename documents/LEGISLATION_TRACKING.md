@@ -1,3 +1,15 @@
+### Ref sau v24
+- **sitemap_nghidinh ref**: **441168** (291/NĐ-CP, giữ nguyên) / **441101** (287/NĐ-CP)
+- **sitemap_thongtu ref**: **441189** (60/TT-BXD, d1 mới nhất) / batch 441104 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú & session
+- sitemap_nghidinh ổn định hoàn toàn — top entry 441168 = 291/NĐ-CP, không đổi so với ref.
+- sitemap_thongtu: Phát hiện **5 Thông tư `-d1` mới** (slug > 441104): 441189, 441188, 441176, 441174, 441167. Tất cả đã xác minh từ sitemap metadata (lastmod + URL). Không có Dự thảo (`d10`) nào mới trong top 5.
+- Phiên thực hiện: agent:github-io:subagent:0c036ba0-6223-40a1-af28-c8fce75bf3df (Đệ #1 Discovery v24)
+
+---
+
 ## Cập nhật 2026-07-23 v23 (Đệ #1 Discovery — 2026-07-23 08:30 ICT)
 
 ### Kết quả: KHÔNG có văn bản mới
@@ -7229,3 +7241,19 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
 - Scan 564 file van-ban/ — không có "Đang cập nhật" trong frontmatter.
 - Phiên review: 2026-07-22 13:59 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:666b7ed3-19c2-415e-ae4a-479df58e9bec (Đệ #4 Content Reviewer + PR Comment Reviewer)
+
+## Cập nhật 2026-07-23 v25 (Đệ #1 Discovery + Đệ #3 Crawler)
+
+### Văn bản mới phát hiện (slug > 441189 trong sitemap_thongtu)
+
+| # | Slug | Số hiệu | Nội dung | Category | Trạng thái |
+|---|------|---------|----------|----------|------------|
+| 1 | 441189 | 60/TT-BXD | Phân cấp tham quyền quản lý công chức viên Bộ Xây dựng | hanh-chinh/xay-dung | 🔵 Crawling (v25) |
+| 2 | 441188 | 105/TT-BTC | Bãi bỏ thông tư 87/2019/TT-BTC về xử phạt vi phạm hành chính | tai-chinh | ⚪ Chờ crawl |
+| 3 | 441176 | 103/TT-BTC | Hướng dẫn cổ phần hóa doanh nghiệp nhà nước 100 vốn | tai-chinh | ⚪ Chờ crawl |
+| 4 | 441174 | 42/TT-BKH-CN | Quy định trình tự thủ tục nghiên cứu & phát triển công nghệ chiến lược | khoa-hoc-cong-nghe | ⚪ Chờ crawl |
+| 5 | 441167 | 102/TT-BTC | Hướng dẫn giám sát kiểm tra đánh giá vốn nhà nước tại doanh nghiệp | dau-tu | ⚪ Chờ crawl |
+
+### Ghi chú
+- Sitemap ref cập nhật: 60/TT-BXD là d1 mới nhất (441189)
+- Tất cả đều không phải dự thảo (d1), không phải d10
