@@ -1,3 +1,24 @@
+## Cập nhật 2026-07-24 v30 (Đệ #1 Discovery — 2026-07-24 01:01 ICT)
+
+### Kết quả: **KHÔNG có văn bản mới**
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu qua Cloudflare IP (104.18.20.193) với Host header — do sitemap.luatvietnam.vn đã NXDOMAIN (DNS fail). Đối chiếu ref v29.
+
+**sitemap_nghidinh**: ref 441290 / 441247 → top 5 d1 entries (441290, 441272, 441267, 441256, 441247) hoàn toàn trùng v29. Không có slug d1 mới > 441290.
+
+**sitemap_thongtu**: ref 441189 → top 5 d1 entries (441189, 441188, 441176, 441174, 441167) hoàn toàn trùng v29. Entry mới nhất 441215 là d10 (dự thảo) → bỏ qua. Không có slug d1 mới > 441189.
+
+### Ref sau v30
+- **sitemap_nghidinh ref**: giữ nguyên — **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: giữ nguyên — **441189** (60/TT-BXD) / batch 441104 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441290**
+
+### Ghi chú kỹ thuật
+- **sitemap.luatvietnam.vn DNS: NXDOMAIN** — subdomain sitemap đã ngừng hoạt động, phải dùng `curl -H 'Host: luatvietnam.vn' http://104.18.20.193/sitemap_xxx.xml` để bypass.
+- Firecrawl credits đã hết (402) khi thử web_fetch → chuyển sang curl trực tiếp.
+
+---
+
 ## Cập nhật 2026-07-23 v29 (Đệ #1 Discovery — 2026-07-23 20:33 ICT)
 
 ### Kết quả: **KHÔNG có văn bản mới**
