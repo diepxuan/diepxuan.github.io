@@ -1,29 +1,18 @@
 ---
-layout: vanban
 title: "Nghị định 289/2026/NĐ-CP"
-date: 2026-07-21
-modified: 2026-07-22
-group: an-ninh-trat-tu
-tags:
-  - an-ninh
-  - cua-khau-cang
-  - cong-an
-  - giao-thong-duong-thuy
-  - 2026
+description: "Quản lý, bảo đảm an ninh trật tự tại cửa khẩu cảng do Bộ Công an quản lý"
+date: 2026-07-22
+law_number: "289/2026/NĐ-CP"
+signer: "Thủ tướng"
+effective_date: 2026-10-01
+promulgating_agency: "Chính phủ"
+group: [An ninh trật tự, Cửa khẩu]
+layout: vanban
 docid: "441066"
-so-hieu: "289/2026/NĐ-CP"
-ngay-ban-hanh: "21/07/2026"
-ngay-hieu-luc: "01/10/2026"
-co-quan-ban-hanh: "Chính phủ"
-nguoi-ky: "Thủ tướng Chính phủ"
-nguoi-ky-chinh-thuc: "Nguyễn Xuân Phúc"
-so-dieu: 21
-so-chuong: 3
-so-muc: 3
-loai-van-ban: "Nghị định"
-trich-yeu: "Quản lý, bảo đảm an ninh, trật tự tại cửa khẩu cảng do Bộ Công an quản lý"
-source: vanban.chinhphu.vn; luatvietnam.vn
+source: vanban.chinhphu.vn
 ---
+
+
 
 # Nghị định 289/2026/NĐ-CP
 
@@ -55,7 +44,7 @@ Số: 289/2026/NĐ-CP
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-Hà Nội, ngày 21 tháng 7 năm 2026
+Hà Nội, ngày 22 tháng 7 năm 2026
 
 ---
 
