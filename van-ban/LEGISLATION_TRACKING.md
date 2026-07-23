@@ -46,6 +46,24 @@ Sitemap quet luc: 2026-07-21T04:33 ICT
 
 ---
 
+## Cap nhat 2026-07-23 (Discovery scan 09:29 ICT)
+
+**Nguồn:** sitemap_nghidinh.xml + sitemap_thongtu.xml (truy cap binh thuong, khong block)
+
+**Kết quả so sánh ref:**
+- sitemap_nghidinh: max d1 = 441168 (= ref 441168) → **khong co d1 moi**
+- sitemap_thongtu: max d1 = 441104 (= ref 441104) → **khong co d1 moi**
+
+**Van ban moi phat hien: 0 d1 moi**
+
+**Ref unchanged:**
+- sitemap_nghidinh: 441168
+- sitemap_thongtu: 441104
+
+**Ghi chu:** Tat ca sitemap tra ve binh thuong. Khong co van ban d1 moi. Tat ca van ban da duoc theo doi.
+
+---
+
 ## Cap nhat 2026-07-21
 
 ### Nghị định — 5 van ban chinh thuc moi nhat trong sitemap (lastmod >= 2026-07-18)
