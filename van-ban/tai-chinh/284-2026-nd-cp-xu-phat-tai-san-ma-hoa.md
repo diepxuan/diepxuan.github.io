@@ -332,7 +332,7 @@ hóa
 đăng ký cung cấp dịch vụ tài sản mã hỏa không thực hiện công bồ thông tin về
 ngày chính thức cung cấp dịch vụ tài sản mã hóa cho nhà đầu tư trên trang thông
 tin điện tử của Bộ Tài chính, trên 01 tờ báo điện tử hoặc báo in trong 03 số liên
-tiếp trong thời hạn 07 ngày làm việc kể từ thời điểm Bộ Tài chính cấp Giấy
+tiếp trong thời hạn 07 ngày àm việc kể từ thời điểm Bộ Tài chính cấp Giấy
 phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa.
 
 2. Phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng đối với tổ chức
@@ -1016,7 +1016,7 @@ Nghị định này, người có thẩm quyền quy định tại Điều 14 Ng
 quyết định đình chỉ có thời hạn đối với toàn bộ hoạt động chào bán, phát hành
 tài sản mã hóa trên thị trường tài sản mã hóa tại Việt Nam của tổ chức vi phạm.
 
-2. Trong thời hạn 03 ngày làm Việc, kể từ ngày ra quyết định xử phạt,
+2. Trong thời hạn 03 ngày àm Việc, kể từ ngày ra quyết định xử phạt,
 người có thẩm quyền đã ra quyết định xử phạt phải gửi quyết định xử phạt cho
 tổ chức bị xử phạt, các tỗ chức cung cấp dịch vụ tài sản mã hóa, Bộ Tài chính,
 Bộ Công an, Ngân hàng Nhà nước Việt Nam.
@@ -1045,7 +1045,7 @@ vụ, hoạt động về tài sản mã hóa thì người có thầm quyền q
 Nghị định này phải ghi rõ trong quyết định xử phạt về dịch vụ, hoạt động bị
 đình chỉ, thời hạn đình chỉ và hiệu lực thi hành của quyết định đình chỉ.
 
-3. Trong thời hạn 03 ngày làm việc, kể từ ngày ra quyết định xử phạt,
+3. Trong thời hạn 03 ngày àm việc, kể từ ngày ra quyết định xử phạt,
 người có thẩm quyền đã ra quyết định xử phạt phải gửi quyết định xử phạt cho
 tổ chức bị xử phạt, các tổ chức cung cấp dịch vụ tài sản mã hóa, Bộ Tài chính,
 Bộ Công an, Ngân hàng Nhà nước Việt Nam.
@@ -1063,7 +1063,7 @@ chuyển tải khoản theo yêu cầu của nhà đầu tư (nếu có).
 1. Thời hạn thực hiện biện pháp khắc phục hậu quả buộc hủy bỏ thông tin,
 cải chính thông tin, buộc cung cấp thông tin chính xác, đầy đủ quy định tại điểm
 a khoản 5 Điều 6, điểm d khoản 6 Điều 7, khoản 9 Điều 8 Nghị định này là tối
-đa 10 ngày làm việc, kể từ ngày cá nhân,:tổ chức vị phạm nhận được quyết định
+đa 10 ngày àm việc, kể từ ngày cá nhân,:tổ chức vị phạm nhận được quyết định
 xử phạt có áp dụng biện pháp khắc phục hậu quả. Tổ chức vi phạm phải công,
 bố về việc hủy bỏ thông tin, cải chính thông tin trên 01 tờ báo điện tử và trên
 trang thông tin điện tử của mình. Tổ chức vi phạm khi thực hiện hủy bỏ thông
@@ -1104,7 +1104,7 @@ sản mã hóa và buộc phải trả lại toàn bộ số tiền thu được
 hành tài sản mã hóa quy định tại điểm b khoản 5 Điều 6 Nghị định này được
 thực hiện như sau:
 
-a) Trong thời hạn tối đa 03 ngày làm việc, kể từ ngày nhận được quyết
+a) Trong thời hạn tối đa 03 ngày àm việc, kể từ ngày nhận được quyết
 định xử phạt vi phạm hành chính hoặc quyết định áp dụng biện pháp khắc phục
 hậu quả, tổ chức vi phạm phải gửi văn bản thông báo cho nhà đầu tư về việc
 hủy bỏ đợt chào bán, phát hành tài sản mã hóa và hoàn trả cho nhà đầu tư tiền
@@ -1113,13 +1113,13 @@ mua tài sản mã hóa;
 b) Tổ chức vi phạm phải báo cáo người ra quyết định xử phạt vi phạm
 bành chính hoặc quyết định áp dụng biện pháp khắc phục hậu quả về kết quả
 thực hiện việc hủy bỏ đợt chào bán, phát hành tài sản mã hóa và hoàn trả cho
-nhà đầu tư tiền mua tải sản mã hóa, trong thời hạn tối đa 03 ngày làm việc kể
+nhà đầu tư tiền mua tải sản mã hóa, trong thời hạn tối đa 03 ngày àm việc kể
 từ ngày hoàn thành việc hoàn trả tiền cho nhà đầu tư.
 
 4. Thời hạn thực hiện biện pháp buộc gỡ bỏ trang thông tin điện tử, phần
 mềm, hệ thống giao dịch và các trang thiết bị khác được sử dụng đề thực hiện
 hành vi vi phạm theo quy định tại điểm b khoản 6 Điều 7 Nghị định này là tối
-đa 03 ngày làm việc, kể từ ngày cá nhân, tổ chức vi phạm nhận được quyết định
+đa 03 ngày àm việc, kể từ ngày cá nhân, tổ chức vi phạm nhận được quyết định
 áp dụng biện pháp này.
 
 
@@ -1131,7 +1131,7 @@ pháp này. .
 
 6. Tổ chức vi phạm phải báo cáo người có thấm quyển đã ra quyết định.
 xử phạt về kết quả thực hiện biện pháp khắc phục hậu quả quy định tại các
-khoản 1, 2, 4 và 5 Điều này trong thời hạn tối đa 03 ngày làm việc kể từ ngày
+khoản 1, 2, 4 và 5 Điều này trong thời hạn tối đa 03 ngày àm việc kể từ ngày
 kết thúc thời hạn chấp hành biện pháp khắc phục hậu quả.
 
 

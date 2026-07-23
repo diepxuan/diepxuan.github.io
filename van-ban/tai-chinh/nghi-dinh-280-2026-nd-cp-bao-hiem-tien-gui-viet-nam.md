@@ -827,11 +827,11 @@ nước theo quyết định của Thủ tướng Chính phủ:
 a) Bảo hiểm tiền gửi Việt Nam lập hồ sơ theo quy định tại khoản 2 Điều
 này, gửi Ngân hàng Nhà nước; w
 
-b) Trong thời hạn 15 ngày làm việcàm việc kể từ ngày nhận đủ hồ sơ hợp lệ của
+b) Trong thời hạn 15 ngày àm việc kể từ ngày nhận đủ hồ sơ hợp lệ của
 Bảo hiểm tiền gửi Việt Nam, Ngân hàng Nhà nước thẩm định hồ sơ, có văn bản
 lấy ý kiến Bộ Tài chính;
 
-c) Trong thời hạn 15 ngày làm việcàm việc kể từ ngày nhận được đề nghị của
+c) Trong thời hạn 15 ngày àm việc kể từ ngày nhận được đề nghị của
 Ngân hàng Nhà nước, Bộ Tài chính có ý kiến gửi Ngân hàng Nhà nước;
 
 đ) Trên cơ sở ý kiến tham gia của Bộ Tài chính, Ngân hàng Nhà nước trình
@@ -996,12 +996,12 @@ trường hợp phải quyết định chủ trương đầu tư:
 4) Bảo hiểm tiền gửi Việt Nam xây đựng hồ sơ đề nghị bổ sung vốn điều
 lệ theo các nội dung quy định tại khoản 1 Điều này, gửi Ngân hàng Nhà nước;
 
-b) Trong thời hạn 15 ngày làm việcàm việc kể từ ngày nhận đủ hề sơ hợp lệ của
+b) Trong thời hạn 15 ngày àm việc kể từ ngày nhận đủ hề sơ hợp lệ của
 Bảo hiểm tiền gửi Việt Nam, Ngân hàng Nhà nước kiểm tra hồ sơ, thâm định
 các nội dung báo cáo, đánh giá, xác định mức vốn điều lệ cần bổ sung, nguôn
 bổ sung vốn điều lệ và gửi lẫy ý kiến Bộ Tài chính;
 
-c) Trong thời hạn 15 ngày làm việcàm việc kể từ ngày nhận được đề nghị của
+c) Trong thời hạn 15 ngày àm việc kể từ ngày nhận được đề nghị của
 Ngân hàng Nhà nước, Bộ Tài chính có ý kiến tham gia theo chức năng, nhiệm
 vụ quản lý nhà nước của Bộ Tài chính đối với phương án đầu tư bổ sung vôn
 điều lệ do Ngân hàng Nhà nước đề nghị;
@@ -1026,12 +1026,12 @@ trường hợp không phải lập và đề nghị phê duyệt chủ trương
 a) Bảo hiểm tiền gửi Việt Nam xây dựng hồ sơ đề nghị bổ sung vốn điều
 lệ theo các nội dung quy định tại khoản 1 Điều này, gửi Ngân hàng Nhà nước;
 
-b) Trong thời hạn 15 ngày làm việcàm việc kẻ từ ngày nhận đủ hồ sơ hợp lệ của
+b) Trong thời hạn 15 ngày àm việc kẻ từ ngày nhận đủ hồ sơ hợp lệ của
 Bảo hiểm tiền gửi Việt Nam, Ngân hàng Nhà nước rà soát các nội dung báo
 cáo, đánh giá, xác định mức vốn điều lệ cần bổ sung, nguồn bổ sung vốn điều
 lệ; gửi lấy ý kiến của Bộ Tài chính;
 
-c) Trong thời hạn 15 ngày làm việcàm việc kể từ ngày nhận được đề nghị của
+c) Trong thời hạn 15 ngày àm việc kể từ ngày nhận được đề nghị của
 Ngân hàng Nhà nước, Bộ Tài chính có ý kiến tham gia theo chức năng, nhiệm
 vụ quản lý nhà nước của Bộ Tài chính đối với phương án đầu tư bổ sung vốn
 điêu lệ do Ngân hàng Nhà nước đề nghị;
