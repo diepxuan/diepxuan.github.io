@@ -1187,17 +1187,18 @@ Nghị định này.
 dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan
 chịu trách nhiệm thi hành Nghị định này,
 
-Nơi nhậm: n TM. CHÍNH PHỦ
-- Ban Bí thư Trung ương Đảng; . :
-- Thủ tướng, các Phó Thủ tướng Chính phủ; = — THỦ TƯỚNG
+Nơi nhận:
 
-~ Các bộ, cơ quan ngang bộ;
-- HĐND, UBND các tỉnh, thành phô trực thuộc trung ượấc
-~ Văn phòng Trung ương và các Ban của Đảng;
+TM. CHÍNH PHỦ
+THỦ TƯỚNG
 
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
 - Văn phòng Tổng Bí thư;
-
-~ Văn phòng Chú tịch nước;
+- Văn phòng Chủ tịch nước;
 
 - Hội đồng Dân tộc và các Ủy ban của Quốc hội;
 

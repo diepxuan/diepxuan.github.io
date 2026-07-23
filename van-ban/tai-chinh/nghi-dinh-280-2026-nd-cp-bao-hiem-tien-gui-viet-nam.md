@@ -1390,7 +1390,7 @@ với doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ.
 ### Điều 38. Tổ chức thực hiện.
 
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ; Chủ tịch Ủy ban nhân dân
-các tỉnh, thành phô trực thuộc trung ương; Chủ tịch Hội đồng quản trị, Tổng
+các tỉnh, thành phố trực thuộc trung ương; Chủ tịch Hội đồng quản trị, Tổng
 giám đốc Bảo hiểm tiền gửi Việt Nam và các tổ chức, cá nhân có liên quan chịu
 trách nhiệm thi hành Nghị định này.
 
