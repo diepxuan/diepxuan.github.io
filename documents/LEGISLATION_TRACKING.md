@@ -1,3 +1,36 @@
+## Cập nhật 2026-07-23 v27 (Đệ #1 Discovery — 2026-07-23 19:32 ICT)
+
+### Kết quả: **CÓ 5 văn bản mới** — tất cả từ **sitemap_nghidinh**
+
+Phương pháp: `curl` trực tiếp sitemap (Cloudflare allowlist với Chrome UA). Đối chiếu ref v26.
+
+**sitemap_nghidinh**: ref 441168 / 441101 → phát hiện **5 slug d1 mới** > 441168:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **441290** | **293/2026/NĐ-CP** | **23/07/2026** | Hướng dẫn thực thi Công ước La Hay 1961 (Apostille) về miễn hợp pháp hóa giấy tờ công — Chương I (Điều 1–3): thẩm quyền, trình tự cấp Apostille; tiếp nhận giấy tờ Apostille tại VN; xác minh Apostille | Ngoại giao | ⚡ **CAO** | ✅ Title + số hiệu + ngày 23/7/2026 + Chương I (Điều 1-3) xác minh từ luatvietnam.vn |
+| 2 | **441272** | **282/2026/NĐ-CP** | **14/07/2026** | Quy định chi tiết một số điều và hướng dẫn thi hành NQ 28/QH16 (24/4/2026) về phát triển văn hóa Việt Nam — theo đề nghị Bộ VHTTDL | Văn hóa | ⚡ **TRUNG BÌNH** | ✅ Title + số hiệu + ngày 14/7/2026 + mục tiêu phát triển văn hóa xác minh từ luatvietnam.vn |
+| 3 | **441267** | **288/2026/NĐ-CP** | **21/07/2026** | Sửa đổi bổ sung NĐ 122/2021/NĐ-CP về xử phạt VPHC trong lĩnh vực kế hoạch và đầu tư | Kế hoạch & Đầu tư / VP_HC | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày 21/7/2026 + lĩnh vực xác minh từ luatvietnam.vn |
+| 4 | **441256** | **290/2026/NĐ-CP** | **21/07/2026** | Sửa đổi NĐ 06/2013 về bảo vệ cơ quan doanh nghiệp — do Bộ Công an đề xuất; sửa đổi Điều 1-2 về phạm vi điều chỉnh lực lượng bảo vệ | An ninh / Doanh nghiệp | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày 21/7/2026 + nội dung điều chỉnh xác minh từ luatvietnam.vn |
+| 5 | **441247** | **292/2026/NĐ-CP** | **22/07/2026** | Quy định chi tiết Luật Quản lý ngoại thương — mua bán hàng hóa quốc tế, xuất khẩu, nhập khẩu, tạm nhập tái xuất, tranh chấp quản lý ngoại thương | Ngoại thương | ⚡ **CAO** | ✅ Title + số hiệu + ngày 22/7/2026 + Chương I (Điều 1) xác minh từ luatvietnam.vn |
+
+**sitemap_thongtu**: ref 441189 — **KHÔNG có thay đổi**. Top 5 d1 entries (441189, 441188, 441176, 441174, 441167) trùng v26. Entry mới nhất 441215 là d10 (dự thảo) → bỏ qua.
+
+### Ref sau v27
+- **sitemap_nghidinh ref**: **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: **441189** (60/TT-BXD) / batch 441104 giữ nguyên (giữ nguyên v26)
+- **van-ban-moi.html max slug**: cập nhật — **441290**
+
+### Ghi chú xử lý
+- **293/NĐ-CP** (slug 441290): Văn bản quan trọng — thực thi Công ước Apostille (La Hay 1961), đơn giản hóa thủ tục hợp pháp hóa lãnh sự cho giấy tờ công của Việt Nam dùng ở nước ngoài và ngược lại. Có hiệu lực ngay ngày ký (23/7/2026). **ƯU TIÊN CAO**.
+- **292/NĐ-CP** (slug 441247): Quy định chi tiết Luật Quản lý ngoại thương — tác động rộng đến hoạt động XNK, đầu tư công nghiệp sản xuất phục vụ xuất khẩu. **ƯU TIÊN CAO**.
+- 5 văn bản đều là Nghị định chính phủ (d1), ngày ban hành 14–23/7/2026, chưa có trong van-ban/. Xác minh toàn bộ từ luatvietnam.vn (HTTP 200).
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (fetch curl 2026-07-23T19:32:xxZ, Chrome UA). Web-fetch xác minh 5 URL.
+- Ngày phát hiện: 2026-07-23 19:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:4debeecb-4764-4b9f-8378-06a0d69005f1 (Đệ #1 Discovery v27)
+
+---
+
 ## Cập nhật 2026-07-23 v26 (Đệ #1 Discovery — 2026-07-23 16:32 ICT)
 
 ### Kết quả: KHÔNG có văn bản mới
