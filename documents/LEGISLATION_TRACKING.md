@@ -1,3 +1,37 @@
+## Cập nhật 2026-07-23 v22 (Đệ #1 Discovery — 2026-07-23 08:21 ICT)
+
+### Kết quả: CÓ văn bản mới — 5 văn bản
+
+Phương pháp: `curl` trực tiếp sitemap (Cloudflare allowlist với Chrome UA) + web_fetch xác minh từng văn bản. Đối chiếu ref v21.
+
+#### Nghị định mới (sitemap_nghidinh, so với ref 441168)
+
+| # | Slug | Số hiệu | Ngày ban hành | Trích yếu | Cơ quan | Ưu tiên | Xác minh |
+|---|------|----------|---------------|-----------|---------|---------|----------|
+| 1 | 441101 | 287/2026/NĐ-CP | 17/7/2026 | Quy định tiền bản quyền trong điện ảnh, mỹ thuật, nhiếp ảnh, nghệ thuật biểu diễn, báo chí, xuất bản | Chính phủ | ⚡ Cao | ✅ Đã xác minh |
+| 2 | 441100 | 286/2026/NĐ-CP | 17/7/2026 | Quy định cơ chế phối hợp quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú người nước ngoài tại VN | Chính phủ | ⚡ Cao | ✅ Đã xác minh |
+| 3 | 441098 | 285/2026/NĐ-CP | 17/7/2026 | Sửa đổi NĐ 46/2019 về xử phạt vi phạm hành chính trong lĩnh vực thể thao | Chính phủ | ⚡ Cao | ✅ Đã xác minh |
+| 4 | 441066 | 289/2026/NĐ-CP | (từ sitemap, chưa xác minh) | Quản lý an ninh trật tự tại cửa khẩu, cảng — có hiệu lực từ 01/10/2026 | Chính phủ | ⚡ Cao | ⚠️ Chưa xác minh |
+
+#### Thông tư mới (sitemap_thongtu, so với ref 441104)
+
+| # | Slug | Số hiệu | Ngày ban hành | Trích yếu | Cơ quan | Ưu tiên | Xác minh |
+|---|------|----------|---------------|-----------|---------|---------|----------|
+| 5 | 441103 | 20/2026/TT-BVHTTDL | 30/6/2026 | Quy định chi tiết hồ sơ, thủ tục cấp giấy phép báo chí | Bộ VHTTDL | ⚡ Cao | ✅ Đã xác minh |
+
+**Ghi chú:** 441053 (117/TT-BCA — An ninh mạng & dữ liệu dân cư) có slug thấp hơn ref 441104 nên không đủ điều kiện báo cáo theo giới hạn 5 văn bản. Bỏ qua 441105 (d10 — Dự thảo).
+
+### Ref sau v22
+- **sitemap_nghidinh ref**: **441101** (287/NĐ-CP) / **441168** (giữ nguyên cho 291/NĐ-CP)
+- **sitemap_thongtu ref**: **441104** (21/TT-BVHTTDL) / **441103** (20/TT-BVHTTDL) / **441053** (117/TT-BCA)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Nguồn & session
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (fetch curl 2026-07-23T08:21:xxZ, Chrome UA).
+- Phiên thực hiện: agent:github-io:subagent:1c7bfeb1-1a12-49c5-84fc-1b691fa4a0de (Đệ #1 Discovery v22)
+
+---
+
 ## Cập nhật 2026-07-23 v21 (Đệ #1 Discovery — 2026-07-23 06:07 ICT)
 
 ### Kết quả: KHÔNG có văn bản mới
