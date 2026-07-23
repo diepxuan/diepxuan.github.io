@@ -7248,7 +7248,7 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
 
 | # | Slug | Số hiệu | Nội dung | Category | Trạng thái |
 |---|------|---------|----------|----------|------------|
-| 1 | 441189 | 60/TT-BXD | Phân cấp tham quyền quản lý công chức viên Bộ Xây dựng | hanh-chinh/xay-dung | 🔵 Crawling (v25) |
+| 1 | 441189 | 60/TT-BXD | Phân cấp thẩm quyền quản lý công chức, viên chức Bộ Xây dựng | xay-dung | ✅ HOÀN THIỆN (v25) |
 | 2 | 441188 | 105/TT-BTC | Bãi bỏ thông tư 87/2019/TT-BTC về xử phạt vi phạm hành chính | tai-chinh | ⚪ Chờ crawl |
 | 3 | 441176 | 103/TT-BTC | Hướng dẫn cổ phần hóa doanh nghiệp nhà nước 100 vốn | tai-chinh | ⚪ Chờ crawl |
 | 4 | 441174 | 42/TT-BKH-CN | Quy định trình tự thủ tục nghiên cứu & phát triển công nghệ chiến lược | khoa-hoc-cong-nghe | ⚪ Chờ crawl |
