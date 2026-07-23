@@ -480,7 +480,7 @@ cho cơ quan quản lý;
 đ) Không bảo đảm an ninh, an toàn hệ thống công nghệ thông tin; không
 bảo vệ tài sản của khách hàng.
 
-§. Hình thức xử phạt bổ sung:
+5. Hình thức xử phạt bổ sung:
 
 a) Đình chỉ hoạt, động cung cấp dịch vụ tài:sản mã hóa có thời hạn từ 01
 tháng đến 03 tháng đối với hành vi vi phạm quy định tại khoản 6 Điều này;

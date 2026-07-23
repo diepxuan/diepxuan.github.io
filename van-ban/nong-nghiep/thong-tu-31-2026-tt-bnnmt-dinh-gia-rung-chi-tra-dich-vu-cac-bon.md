@@ -133,7 +133,9 @@ Trong đó:
 5. Tính Gsd = f(B, C, n, r) — công thức chiết khấu dòng tiền. Tính cho 01 ha dựa trên diện tích khu rừng.
    - Trường hợp không xác định được thu nhập/chi phí: áp dụng khu rừng liền kề có đặc điểm tương đồng.
 
-**Hệ số K giá trị môi trường (Điều 9):** Gmt = Gls × K
+### Điều 9. Hệ số K giá trị môi trường rừng
+
+Gmt = Gls × K
 - Rừng đặc dụng: K = 3
 - Rừng phòng hộ: K = 2
 - Rừng sản xuất: K = 1

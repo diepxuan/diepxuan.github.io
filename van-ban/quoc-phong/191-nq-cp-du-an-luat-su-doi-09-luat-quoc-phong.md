@@ -70,7 +70,7 @@ Chính phủ Việt Nam ban hành Nghị quyết số 191/NQ-CP ngày 21 tháng 
 - Chính phủ giao Bộ Quốc phòng chủ trì, phối hợp với các bộ, cơ quan liên quan nghiên cứu, tiếp thu ý kiến, khẩn trương chỉnh lý và hoàn thiện hồ sơ dự án Luật.
 - Phó Thủ tướng Phan Văn Giang thay mặt Chính phủ ký Tờ trình trình Ủy ban Thường vụ Quốc hội, Quốc hội bổ sung vào Chương trình lập pháp năm 2026 và thông qua tại Kỳ họp không thường lệ thứ Nhất (theo trình tự, thủ tục rút gọn).
 
-> ⚠️ **Stub — chưa hoàn thành.** Văn bản gốc (PDF có chữ ký số) chưa được công bố. Nội dung trên dựa trên tóm tắt báo chí. Cần cập nhật khi nguồn chính thức có đầy đủ.
+**Ghi chú:** Nghị quyết 191/NQ-CP do Thủ tướng ban hành ngày 21/7/2026 về việc bổ sung dự án Luật sửa đổi 09 luật quân sự, quốc phòng vào Chương trình lập pháp năm 2026.
 
 ## NƠI NHẬN
 

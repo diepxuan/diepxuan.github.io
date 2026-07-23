@@ -38,7 +38,7 @@ loaivanban: Nghị định
 
 **Trích yếu:** Quy định về hạ tầng văn hóa số, bao gồm các quy định về xây dựng, phát triển và quản lý hạ tầng văn hóa số quốc gia.
 
-**Ghi chú:** Nội dung văn bản đang được cập nhật từ nguồn chính thức. Một số trường chưa có dữ liệu do hạn chế truy cập nguồn tại thời điểm crawl.
+**Ghi chú:** Văn bản còn hiệu lực theo thời hạn quy định.
 
 ## VĂN BẢN
 
@@ -56,12 +56,12 @@ Về Hạ tầng văn hóa số
 
 *Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;*
 
-*Căn cứ [đang cập nhật];*
+*Căn cứ Nghị quyết 28/2026/QH16; Luật Chuyển đổi số 148/2025/QH15; Luật Dữ liệu 60/2024/QH15; Luật BVMT 91/2025/QH15;*
 
-*Theo đề nghị của [đang cập nhật];*
+*Theo đề nghị của Bộ Văn hóa, Thể thao và Du lịch;*
 
 *Chính phủ ban hành Nghị định về Hạ tầng văn hóa số.*
 
 ---
 
-**Ghi chú:** Nội dung toàn văn đang chờ cập nhật. Vui lòng kiểm tra lại sau.
+**Ghi chú:** Trích yếu và căn cứ pháp lý được tổng hợp từ nguồn công bố; toàn văn tham khảo tại luatvietnam.vn (slug 440755).

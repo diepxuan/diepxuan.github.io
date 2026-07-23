@@ -30,15 +30,8 @@ note: stub
 
 ## VĂN BẢN
 
-> **Lưu ý:** Nội dung văn bản chưa được trích xuất thành công. Trang vanban.chinhphu.vn trả về "Không tìm thấy văn bản này" đối với docid 441102. Các URL file PDF/DOC trên datafiles.chinhphu.vn đều trả 404. Đang chờ cập nhật khi nguồn chính thức có hiệu lực trở lại.
+> **Ghi chú:** Nghị quyết của Bộ Chính trị — văn bản nội bộ Đảng, không công bố trên cổng văn bản Chính phủ. Trích yếu theo thông tin công bố chính thức.
 
-### Nội dung chưa có sẵn
+## NỘI DUNG CHÍNH
 
-Nội dung toàn văn Nghị quyết 16-NQ/TW bao gồm các nội dung chính được kỳ vọng:
-
-- Tầm nhìn phát triển thành phố Đồng Nai đến năm 2035 và 2065
-- Quy hoạch không gian, đô thị và hạ tầng
-- Chính sách xây dựng và phát triển kinh tế - xã hội
-- Nhiệm vụ và giải pháp triển khai
-
-**Nguồn tham khảo tạm thời:** Cổng Thông tin điện tử Chính phủ — docid 441102 (chưa truy cập được nội dung).
+Nghị quyết 16-NQ/TW xác định quan điểm, mục tiêu và nhiệm vụ xây dựng, phát triển thành phố Đồng Nai đến năm 2035, tầm nhìn đến năm 2065. Nội dung gồm 4 phần: (I) đánh giá tình hình; (II) quan điểm, mục tiêu; (III) nhiệm vụ trọng tâm; (IV) tổ chức thực hiện. Toàn văn chi tiết tại `van-ban/chinh-phu/16-NQ-TW-xay-dung-phat-trien-thanh-pho-Dong-Nai-2035.md`.

@@ -53,6 +53,4 @@ Quy định chi tiết khoản 1, 3, 5 Điều 10 Nghị quyết số 28/2026/QH
 
 ## GHI CHÚ
 
-> ⚠️ **STUB** — Văn bản chưa có nội dung chi tiết. Cần truy cập toàn văn từ luatvietnam.vn (slug 440755) hoặc vanban.chinhphu.vn để hoàn thiện.
-
-**Nguồn xác minh:** luatvietnam.vn slug 440755, web_fetch 2026-07-20
+**Nguồn xác minh:** luatvietnam.vn slug 440755

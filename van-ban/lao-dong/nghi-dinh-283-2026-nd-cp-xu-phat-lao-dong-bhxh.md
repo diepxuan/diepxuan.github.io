@@ -20,6 +20,7 @@ file_dinh_kem:
     url: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/283-ndcp.signed.pdf
 docid: "218949"
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+trang_thai: "Chưa hoàn thiện (stub - OCR lỗi nặng đoạn đầu/chữ ký)"
 ---
 
 # NGHỊ ĐỊNH
@@ -2513,7 +2514,7 @@ hoạt động công đoàn;
 c) Cân trở, gây khó khăn khi người lao động tiến hành các hoạt động
 hợp pháp nhằm thành lập, gia nhập và tham gia các hoạt động của tổ chức
 đại diện người lao động tại cơ sở;
-ø) Không cho thành viên ban lãnh đạo của tổ chức đại diện người lao động
+đ) Không cho thành viên ban lãnh đạo của tổ chức đại diện người lao động
 tại cơ sở tiếp cận người lao động tại nơi làm việc trong quá trình thực hiện các
 nhiệm vụ của tổ chức đại điện người lao động tại cơ sở mà không ảnh hưởng
 đên hoạt động bình thường của người sử dụng lao động:
@@ -2582,7 +2583,7 @@ lao động tại cơ sở;
 b) Không trả lương cho cán bộ công đoàn không chuyên trách trong những
 ngày tham dự đại hội, cuộc họp, hội nghị, hội thảo, tập huấn, đào tạo do công đoàn
 cấp trên triệu tập theo quy định tại khoản 3 Điều 27 của Luật Công đoàn;
-c©) Không trả lương cho đại diện bên người lao động trong thời gian
+c) Không trả lương cho đại diện bên người lao động trong thời gian
 tham gia các phiên họp thương lượng tập thể theo quy định tại khoản 2 Điều 70
 của Bộ luật Lao động;
 đ) Không cho thành viên ban lãnh đạo của tổ chức đại diện người lao động
@@ -2620,7 +2621,7 @@ c) Không đóng hoặc đóng không, dầy đủ số tiền phải đóng the
 quy định trong thời hạn 60 ngày kề từ ngày hết thời hạn đóng kinh phí công đoàn
 theo quy định;
 d) Không đóng hoặc đóng không đầy đủ số người thuộc đối tượng phải
-đóng trong thời hạn 60 ngày kế từ ngày hết thời hạn đóng kinh phí công đoàn
+đóng trong thời hạn 60 ngày kể từ ngày hết thời hạn đóng kinh phí công đoàn
 theo quy định. -
 2. Phạt tiền với mức từ 18% đến 20% tổng số tiền phải đóng kinh phí
 công đoàn tại thời điểm lập biên bản vi phạm hành chính nhưng, tối đa không quá
@@ -2692,7 +2693,7 @@ thẩm quyền đôn đốc theo quy định tại Điều 35 của Luật Bảo
 thuộc trường hợp hợp không bị coi là trốn đóng bảo hiểm xã hội bắt buộc theo
 quy định của pháp luật.
 4. Biện pháp khắc phục hậu quả
-- a) Buộc người sử dụng lao động lập hồ sơ đăng ký hoặc lập hỗ sơ đăng ký
+- a) Buộc người sử dụng lao động lập hồ sơ đăng ký hoặc lập hồ sơ đăng ký
 đầy đủ số người tham gia bảo hiểm xã hội bắt buộc cho người lao động;
 đóng đủ sô tiền bảo hiểm xã hội bắt buộc chậm đóng; nộp số tiền băng
 0,03%/ngày tính trên số tiền bảo hiêm xã hội bắt buộc chậm đóng và số ngày
@@ -2705,7 +2706,7 @@ hành vi vi phạm quy định tại khoản 3 Điều này. -
 ### Điều 44. Vi phạm về trốn đóng bảo hiểm xã hội bắt buộc ,
 1. Phạt tiền đối với người sử dụng lao động có hành vi không đăng ký
 hoặc đăng ký không đầy đủ số người phải tham gia bảo hiểm xã hội bất buộc
-sau thời hạn 60 ngày kế từ ngày hết thời hạn quy định tại khoản 1 Điều 2§ của
+sau thời hạn 60 ngày kể từ ngày hết thời hạn quy định tại khoản 1 Điều 25 của
 Luật Bảo hiểm xã hội theo một trong các mức sau đây:
 4) Từ 6.000.000 đồng đến 12.000.000 đồng, khi vi phạm dưới 10 người
 lao động;
@@ -2764,7 +2765,7 @@ dưới 100 người lao động;
 đến dưới 300 người lao động;
 đ) Từ 15.000.000 đồng đến 20.000.000 đồng, khi vi phạm từ 300 người
 đên dưới 500 người lao động;
-©) Từ 20.000.000 đồng đến 25.000.000 đồng, khi vi phạm từ 500 người
+đ) Từ 20.000.000 đồng đến 25.000.000 đồng, khi vi phạm từ 500 người
 đến dưới 700 người lao động;
 8) Từ 25.000.000 đồng đến 30.000.000 đồng, khi vi phạm từ 700 người
 đên dưới 1.000 người lao động;
@@ -2821,7 +2822,7 @@ một trong các hành vi trốn đóng bảo hiểm thất nghiệp sau đây:
 a) Đăng ký tiền lương làm căn cứ đóng bảo hiểm thất nghiệp thấp hơn
 quy định của pháp luật về bảo hiểm thất nghiệp;
 b) Không đóng hoặc đóng không đầy đủ số tiền đã đăng ký bảo hiểm
-thất nghiệp sau 60 ngày kế từ ngày đóng bảo hiểm thất nghiệp chậm nhất theo
+thất nghiệp sau 60 ngày kể từ ngày đóng bảo hiểm thất nghiệp chậm nhất theo
 quy định của pháp luật về bảo hiểm thất nghiệp và đã được cơ quan có thẩm quyền
 đôn đốc theo quy định tại Điều 35 của Luật Bảo hiểm xã hội nhưng chưa đến
 mức truy cứu trách nhiệm hình sự.
@@ -2852,7 +2853,7 @@ nội dung có liên quan đến việc đóng, hưởng bảo hiểm xã hội,
 nhưng chưa đên mức truy cứu trách nhiệm hình sự;
 b) Không thông báo với tổ chức dịch vụ việc làm công theo quy định khi
 người lao động có việc làm trong thời hạn 10 ngày làm việc, kể từ ngày nộp
-hỗ sơ đề nghị hưởng trợ cấp thất nghiệp;
+hồ sơ đề nghị hưởng trợ cấp thất nghiệp;
 c) Người đang hưởng trợ cấp thất nghiệp không thông báo theo quy định
 với tổ chức dịch vụ việc làm công khi thuộc một trong các trường hợp sau đây:
 có việc làm; thực hiện nghĩa vụ quân sự, nghĩa vụ tham gia công an nhân dân,
@@ -2862,12 +2863,12 @@ dân quân thường trực; hưởng lương hưu hằng tháng; đi học tậ
 hưởng bảo hiểm xã hội, bảo hiểm thất nghiệp gian lận, giả mạo nhưng tối đa
 không quá 75.000.000 đồng đối với người sử dụng lao động có một trong các
 hành vi: làm giả hồ sơ hưởng bảo hiểm xã hội, bảo hiểm thất nghiệp mà không
-bị truy cứu trách nhiệm hình sự; có ý làm sai lệch thông tin, tài liệu trong hỗ sơ
+bị truy cứu trách nhiệm hình sự; có ý làm sai lệch thông tin, tài liệu trong hồ sơ
 hướng bảo hiểm xã hội, bảo hiểm thất nghiệp nhưng chưa đến mức truy cứu
 trách nhiệm hình sự.
 3. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng khi vi phạm với mỗi
 người lao động nhưng tối đa không quá 75.000.000 đồng đối với người sử dụng
-lao động có hành vi không lập danh sách người lao động hoặc không lập hỗ sơ
+lao động có hành vi không lập danh sách người lao động hoặc không lập hồ sơ
 hoặc không nộp hồ sơ đúng thời hạn quy định tại khoản 2 Điều 48, khoản 1
 Điều 49, khoản 1 Điều 62, khoản 1 Điều 63, khoản 1 Điều 79, khoản 2 Điều 91
 của Luật Bảo hiểm xã hội; khoản 1 Điều 59, khoản 1 Điều 60 của Luật An toàn,
@@ -2923,7 +2924,7 @@ làm việc hoặc chấm dút làm việc cho người lao động trong thời
 làm việc kể từ ngày người lao động chấm dứt hợp đồng lao động/hợp đồng
 làm việc hoặc châm dứt làm việc; không thực hiện thủ tục xác nhận về việc
 đóng bảo hiểm thật nghiệp cho người lao động để người lao động kịp thời
-hoàn thiện hỗ sơ hướng bảo hiểm thất nghiệp theo quy định của pháp luật về
+hoàn thiện hồ sơ hướng bảo hiểm thất nghiệp theo quy định của pháp luật về
 bảo hiểm thât nghiệp.
 l 65 :
 4. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với tổ chức, cá nhân
@@ -2997,7 +2998,7 @@ bảo hiểm xã hội đối với hành vi vi phạm quy định tại điểm
 e) Buộc cá nhân, tổ chức nhận cầm cố, thế chấp trả lại số bảo hiểm xã hội
 cho người lao động và buộc nộp vào ngân sách nhà nước số lợi bât hợp pháp
 có được do thực hiện hành vi vi phạm tại khoản 7 Điều này;
-ø) Buộc người sử dụng lao động triển khai đào tạo, bồi dưỡng, nâng cao
+đ) Buộc người sử dụng lao động triển khai đào tạo, bồi dưỡng, nâng cao
 trình độ kỹ năng nghệ cho người lao động theo phương án đã được cơ quan có
 thẩm quyền phê duyệt, trừ trường hợp đã hoàn thành việc tổ chức, đào tạo,
 bôi dưỡng, nâng cao trình độ kỹ năng nghề cho người lao động khi có hành vi
@@ -3011,7 +3012,7 @@ bảo hiểm xã hội bắt buộc đã chiếm dụng của người lao độ
 của số tiền này tính theo lãi suất tiền gửi không kỳ hạn cao nhất của các ngân hàng
 thương mại nhà nước công bố tại thời điểm xử phạt đối với vi phạm quy định
 tại khoản 10 Điều này. :
-Chương IV
+## Chương IV
 HÀNH VI VI PHẠM, HÌNH THỨC XỬ PHẠT, MỨC XỬ PHẠT
 VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ ĐÓI VỚI HÀNH VI
 VI PHẠM TRONG LĨNH VỰC NGƯỜI LAO ĐỘNG VIỆT NAM
@@ -3050,7 +3051,7 @@ nội dung hợp đồng cung ứng lao động; danh sách lao động được
 e) Không báo cáo hoặc báo cáo không đầy đủ, không chính xác hoặc báo cáo
 không đúng thời bạn về tình hình hoạt động dịch vụ đưa người lao động Việt Nam
 đi làm việc ở nước ngoài theo hợp đồng theo quy định của pháp luật;
-ø) Không cập nhật thông tin hoặc cập nhật thông tin không đầy đủ về
+đ) Không cập nhật thông tin hoặc cập nhật thông tin không đầy đủ về
 người lao động do doanh nghiệp đưa đi trên Hệ thống cơ sở dữ liệu về người
 lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng kể từ ngày người
 lao động xuất cảnh cho đến khi thanh lý hợp đồng đưa người lao động Việt Nam
@@ -3083,7 +3084,7 @@ làm việc ở nước ngoài theo quy định của pháp luật;
 b) Thỏa thuận mức tiền ký quỹ với người lao động cao hơn mức quy định
 của pháp luật hoặc thực hiện ký quỹ với người lao động không đúng quy định
 pháp luật;
-c©) Không ký hoặc ký không đúng mẫu hợp đồng đưa người lao động
+c) Không ký hoặc ký không đúng mẫu hợp đồng đưa người lao động
 'Việt Nam đi làm việc ở nước ngoài theo hợp đồng với người lao động;
 d) Không ghi rõ thỏa thuận về tiền địch vụ và chỉ phí khác của người
 lao động trong hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài
@@ -3125,7 +3126,7 @@ e) Quảng cáo, tư vấn, thông báo. tuyển chọn hoặc cung cấp thông
 chính xác với người lao động hoặc với chính quyên địa phương tại nơi tuyển chọn
 về một trong các nội dung: số lượng; tiêu chuẩn tuyển chọn; điều kiện làm việc;
 quyền lợi, nghĩa vụ của người lao động theo hợp đồng cung ứng lao động;
-ø) Không cam kết bằng văn bản về thời gian chờ xuất cảnh sau khi người
+đ) Không cam kết bằng văn bản về thời gian chờ xuất cảnh sau khi người
 lao động trúng tuyên đi làm việc ở nước ngoài với thời hạn không quá 180 ngày
 kể từ ngày người lao động trúng tuyên hoặc không thực hiện đúng cam kết về
 thời gian chờ xuất cảnh;
@@ -3192,7 +3193,7 @@ lao động nhưng chưa được chấp thuận;
 : e) Sửa chữa, làm sai lệch văn bản, tài liệu trong, hồ sơ đề nghị cấp hoặc
 cấp lại Giây phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc
 ở nước ngoài theo hợp đồng nhưng chưa đến mức truy cứu trách nhiệm hình sự;
-ø) Sửa chữa, làm sai lệch nội dung Giấy phép hoạt động dịch vụ đưa người
+đ) Sửa chữa, làm sai lệch nội dung Giấy phép hoạt động dịch vụ đưa người
 lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng đã được cấp nhưng
 chưa đến mức truy cứu trách nhiệm hình SỰ;
 h) Giả mạo văn bản, tài liệu trong hồ sơ đề nghị cắp hoặc cấp lại Giấy phép
@@ -3255,10 +3256,10 @@ trái pháp luật của người lao động và khoản tiền lãi của số
 mức lãi suất tiền gửi không kỳ hạn cao nhất của các ngân hàng thương mại
 nhà nước công bô tại thời điểm xử phạt khi có hành vi vi phạm quy định tại
 khoản 6, điểm a khoản 8 Điều này,
-:_©) Buộc doanh nghiệp dịch vụ hoàn trả đầy đủ cho người lao động phần
+:_đ) Buộc doanh nghiệp dịch vụ hoàn trả đầy đủ cho người lao động phần
 tiền dịch vụ và tiền lãi theo quy định của pháp luật khí có hành vi vi phạm
 quy định tại điêm b khoản 8 Điều này; ,
-ø) Buộc doanh nghiệp dịch vụ hoàn trả số tiền đã thu của người lao động,
+đ) Buộc doanh nghiệp dịch vụ hoàn trả số tiền đã thu của người lao động,
 đi làm việc ở nước ngoài và khoản lãi của số tiền này tính theo mức lãi suất
 tiền gửi không kỳ hạn cao nhất của các ngân hàng thương mại nhà nước công bố
 tại thời điểm xử phạt đồng thời thực hiện chỉ trả chỉ phí đưa người lao động
@@ -3323,7 +3324,7 @@ lao động trong thời gian làm việc ở nước ngoài; -
 phối hợp với cơ quan, tổ chức có liên quan của nước mà người lao động đên
 làm việc đê giải quyết tranh chấp liên quan đến người lao động làm việc ở
 nước ngoài;
-© Không giải quyết hoặc không phối hợp giải quyết vấn đề phát sinh
+đ) Không giải quyết hoặc không phối hợp giải quyết vấn đề phát sinh
 đối với người lao động theo một trong các trường hợp sau: chết, bị tai nạn; bị -
 xâm phạm tính mạng; bị xâm phạm sức khỏe; bị xâm phạm danh dự, nhân phâm;
 bị xâm phạm tài sản; thiên tai; dịch bệnh, chiến tranh; bắt ổn chính trị; suy thoái
@@ -3474,7 +3475,7 @@ của pháp luật.
 2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng khi có hành vi không
 cập nhật thông tin về người lao động trên Hệ thông cơ sở dữ liệu về người
 lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-§0 -
+50 -
 3. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng khi vi phạm với mỗi
 người lao động nhưng không quá 200.000.000 đồng khi có một trong các
 hành vi sau đây:
@@ -3565,7 +3566,7 @@ xử phạt khi có hành vi vi phạm quy định tại khoản 4 Điều này.
 BV Chương VU t
 THẢM QUYÊN XỬ PHẠT VI PHẠM HÀNH CHÍNH VÀ LẬP BIÊN BẢN)
 VI PHẠM HÀNH CHÍNH; THỦ TỤC XỬ PHẠT VI PHẠM HÀNH CHÍNH;
-THỊ HÀNH CÁC HÌNH THỨC XỬ PHẠT VI PHẠM HÀNH CHÍNH,
+THI HÀNH CÁC HÌNH THỨC XỬ PHẠT VI PHẠM HÀNH CHÍNH,
 CÁC BIỆN PHÁP KHẮC PHỤC HẬU QUÁ TRONG LĨNH VỰỤC LAO ĐỘNG,
 BẢO HIẾM XÃ HỘI, NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC
 Ở NƯỚC NGOÀI THEO HỢP ĐÒNG
@@ -3603,7 +3604,7 @@ khoản 3 Điều 11; khoản 3, khoản 4 Điều 13; khoản 3 Điều 17; đi
 Điều 44; Điều 46; điểm a khoản 1, khoản 2 Điều 47; điểm b khoản 1 Điều 48;
 các điểm a, c, d khoản 4 Điều 48; điểm b khoản 6 Điều 48; các điểm a, b, e
 khoản 1 Điều 49; điểm a khoản 6 Điều 49; điểm a khoản 8 Điều 49; các điểm
-a, b, c, d, e, ø, h khoản 9 Điều 49; khoản 8 Điều 50; khoản 1, các điểm a, b,c
+a, b, c, d, e, g, h khoản 9 Điều 49; khoản 8 Điều 50; khoản 1, các điểm a, b,c
 khoản 7 Điều 51; các điểm a, c khoản 6 Điều 52 và Điều 53 của Nghị định này
 theo chức năng, nhiệm vụ, quyền hạn được giao thuộc lĩnh vực, địa bàn mình
 quản lý.
@@ -3613,7 +3614,7 @@ Nghị định này theo chức năng, nhiệm vụ, quyên hạn được giao 
 địa bàn trên vùng biển được giao.
 9. Công chức, viên chức thuộc lực lượng Bộ đội Biên phòng lập biên bản
 vi phạm hành chính đối với các hành vi vi phạm quy định tại điểm a khoản 9
-Điều 49; khoản § Điều 50; điểm a khoản 7 Điều 51; điểm a khoản 6 Điều 52
+Điều 49; khoản 5 Điều 50; điểm a khoản 7 Điều 51; điểm a khoản 6 Điều 52
 của Nghị định này trong phạm v1, lĩnh vực quản lý, phù hợp chức năng, nhiệm vụ,
 quyên hạn, địa bàn được giao.
 10. Viên chức ngoại giao, viên chức lãnh sự tại cơ quan đại diện ngoại giao,
@@ -3794,8 +3795,7 @@ c) Đình chỉ hoạt động có thời hạn; |
 đ) Tịch thu tang vật vi phạm hành chính; :
 đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này.
-¬ 89 e2
-6. Trưởng phòng Quản lý xuất nhập cảnh thuộc Công an cấp tỉnh có
+5. Trưởng phòng Quản lý xuất nhập cảnh thuộc Công an cấp tỉnh có
 thâm quyên xử phạt theo quy định tại khoản 5 Điều này và có quyên quyết định
 áp dụng hình thức xử phạt trục xuất.
 7. Giám đốc Công an cấp tỉnh có quyền:
@@ -4042,7 +4042,7 @@ quyền hạn được giao thuộc lĩnh vực, địa bàn trên vùng biển 
 7. Người có thẩm quyền xử phạt của Bộ đội Biên phòng có thẩm quyền
 xử phạt vi phạm hành chính và áp dụng các biện pháp khắc phục hậu quải
 đối với các hành vi vi phạm hành chính quy định tại điểm a khoản 9 Điều 49;
-khoản 8§ Điều 50; điểm a khoản 7 Điều 51; điểm a khoản 6 Điều 52 của Nghị định
+khoản 85 Điều 50; điểm a khoản 7 Điều 51; điểm a khoản 6 Điều 52 của Nghị định
 này theo thẩm quyền quy định tại Điều 60 của Nghị định này trong phạm vi,
 lĩnh vực quản lý, phù hợp chức năng, nhiệm vụ, quyền hạn, địa bàn được giao.
 8. Giám đốc Sở Nội vụ có thẩm quyền xử phạt vi phạm hành chính và
@@ -4101,7 +4101,7 @@ hành chính quy định tại điểm c khoản 9 Điều 49; điểm c khoản
 khoản 3 Điều 53 của Nghị định này theo thẩm quyền quy định tại Điều 62 của
 Nghị định này và chức năng, nhiệm vụ, quyền hạn được giao.
 ### Mục 2
-THỊ HÀNH CÁC HÌNH THỨC XỬ PHẠT VI PHẠM
+THI HÀNH CÁC HÌNH THỨC XỬ PHẠT VI PHẠM
 HÀNH CHÍNH, CÁC BIỆN PHÁP KHẮC PHỤC HẬU QUÁ
 ### Điều 64. Thi hành các hình thức xử phạt vỉ phạm hành chính
 1. Việc thi hành các hình thức xử phạt vi phạm hành chính trong lĩnh vực
@@ -4125,7 +4125,7 @@ __2. Thủ tục thí hành biện pháp khắc phục hậu quả buộc nộp 
 giây chứng nhận, chứng chỉ:
 a) Người có thẩm quyền ra quyết định, cá nhân, tổ chức vi phạm có
 trách nhiệm thi hành biện pháp khắc phục hậu quả buộc nộp lại giấy phép, giấy
-chứng nhận, chứng chỉ thực hiện theo quy định tại các khoản I1, 2, 3 và 4 Điều 85
+chứng nhận, chứng chỉ thực hiện theo quy định tại các khoản 1, 2, 3 và 4 Điều 85
 của Luật Xử lý vi phạm hành chính;
 b) Người có thẩm quyền ra quyết định thi hành biện pháp khắc phục hậu quả
 theo quy định tại điểm a khoản này phải gửi thông báo bằng văn bản kèm theo
@@ -4138,8 +4138,9 @@ trên môi trường điện tử theo quy định nêu đáp ứng được đi
 hạ tầng, kỹ thuật, thông tin. Việc buộc nộp lại giây phép, giấy chứng nhận,
 chứng chỉ được cập nhật trạng thái trên cơ sở dữ liệu hoặc căn cước điện tử,
 tài khoản định danh điện tử theo đúng quy định.
-Chương VỊ
-ĐIỂU KHOẢN THỊ HÀNH
+## Chương VI
+
+ĐIỀU KHOẢN THI HÀNH
 ### Điều 66. Hiệu lực thi hành
 1. Nghị định này có hiệu lực thi hành từ ngày 10 tháng 9 năm 2026.
 2. Quy định về thẩm quyền xử phạt vi phạm hành chính của Cục trưởng
@@ -4148,10 +4149,10 @@ của Nghị định này có hiệu lực thị hành kể từ ngày Nghị đ
 một số điều của Nghị định số 189/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của
 Chính phủ quy định. chỉ: tiến] uật Xử lý vi phạm hành chính về thẩm quyền
 xử phạt vi ph hy hành chỉnh. và tê lực thi hành.
-3. Quy định † tại cáo điểm € ©, É› h khoản 2 Điều 7 và Điều 14 của Nghị định
-này có hiệu lựẽ) thị, ;hành kế từ khgày Nghị định quy định về tuyển dụng, quản lý
+3. Quy định tại các điểm a, b, h khoản 2 Điều 7 và Điều 14 của Nghị định
+này có hiệu lực thi hành kể từ ngày Nghị định quy định về tuyển dụng, quản lý
 người lao độnÀQ Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam
-(sửa đổi, bố sung? "Nghi: -định'§ §ô 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020
+(sửa đổi, bố sung? "Nghi: -định'5 5ô 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020
 quy định về người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài
 tại Việt Nam được sửa đổi, bổ sung bởi Nghị định số 70/2023/NĐ- -CP) có
 hiệu lực thi hành.
