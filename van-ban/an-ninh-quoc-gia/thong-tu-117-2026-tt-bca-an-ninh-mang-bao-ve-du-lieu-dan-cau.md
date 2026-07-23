@@ -26,11 +26,11 @@ Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước
 
 Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
 
-Căn cứ Luật Cư trú số 68/2020/QH14 được sửa đổii, bổ sung một số điều tại Luật số 118/2025/QH15 sửa đổii, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự;
+Căn cứ Luật Cư trú số 68/2020/QH14 được sửa đổi, bổ sung một số điều tại Luật số 118/2025/QH15 sửa đổi, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự;
 
-Căn cứ Luật Căn cước số 26/2023/QH15 được sửa đổii, bổ sung một số điều tại Luật số 118/2025/QH15 sửa đổii, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự;
+Căn cứ Luật Căn cước số 26/2023/QH15 được sửa đổi, bổ sung một số điều tại Luật số 118/2025/QH15 sửa đổi, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự;
 
-Căn cứ Luật Dữ liệu số 60/2024/QH15 được sửa đổii, bổ sung một số điều tại Luật An ninh mạng số 116/2025/QH15;
+Căn cứ Luật Dữ liệu số 60/2024/QH15 được sửa đổi, bổ sung một số điều tại Luật An ninh mạng số 116/2025/QH15;
 
 Căn cứ Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15;
 
@@ -40,13 +40,13 @@ Căn cứ Luật Cơ yếu số 05/2011/QH13;
 
 Căn cứ Luật Bảo vệ bí mật nhà nước số 117/2025/QH15;
 
-Căn cứ Nghị định số 70/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước được sửa đổiii, bổ sung bởi Nghị định số 58/2025/NĐ-CP của Chính phủ;
+Căn cứ Nghị định số 70/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước được sửa đổii, bổ sung bởi Nghị định số 58/2025/NĐ-CP của Chính phủ;
 
-Căn cứ Nghị định số 69/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định về định danh và xác thực điện tử được sửa đổii, bổ sung bởi Nghị định số 169/2025/NĐ-CP của Chính phủ;
+Căn cứ Nghị định số 69/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định về định danh và xác thực điện tử được sửa đổi, bổ sung bởi Nghị định số 169/2025/NĐ-CP của Chính phủ;
 
 Căn cứ Nghị định số 278/2025/NĐ-CP ngày 22 tháng 10 năm 2025 của Chính phủ quy định về kết nối, chia sẻ dữ liệu bắt buộc giữa các cơ quan thuộc hệ thống chính trị;
 
-Căn cứ Nghị định số 02/2025/NĐ-CP ngày 18 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an, được sửa đổii, bổ sung tại Nghị định số 11/2025/NĐ-CP của Chính phủ;
+Căn cứ Nghị định số 02/2025/NĐ-CP ngày 18 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an, được sửa đổi, bổ sung tại Nghị định số 11/2025/NĐ-CP của Chính phủ;
 
 
 ## Chương I
@@ -86,7 +86,7 @@ Thông tư này quy định chi tiết:
 
 3. Cán bộ Công an xã, phường, đặc khu (sau đây gọi tắt là Công an cấp xã) chịu trách nhiệm trước pháp luật, trước Trưởng Công an cấp xã và Công an cấp trên trực tiếp. Trưởng Công an cấp xã chịu trách nhiệm trước pháp luật, trước Công an cấp trên về: việc thu thập, cập nhật, điều chỉnh thông tin đúng thẩm quyền, đúng quy trình; tính chính xác, trung thực của thông tin thu thập; việc bảo mật thông tin, bảo vệ dữ liệu trong quá trình thực hiện.
 
-4. Việc kết nối, chia sẻ, đồng bộ dữ liệu với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước phải tuân thủ quy định của Luật Căn cước, Nghị định số 70/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước, được sửa đổii, bổ sung một số điều tại Nghị định số 58/2026/NĐ-CP của Chính phủ ngày 13 tháng 02 năm 2026 (sau đây gọi tắt là Nghị định số 70/2024/NĐ-CP), Thông tư này và các quy định của pháp luật có liên quan về quản lý, kết nối, chia sẻ thông tin của cơ quan nhà nước và bảo đảm các nguyên tắc sau:
+4. Việc kết nối, chia sẻ, đồng bộ dữ liệu với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước phải tuân thủ quy định của Luật Căn cước, Nghị định số 70/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước, được sửa đổi, bổ sung một số điều tại Nghị định số 58/2026/NĐ-CP của Chính phủ ngày 13 tháng 02 năm 2026 (sau đây gọi tắt là Nghị định số 70/2024/NĐ-CP), Thông tư này và các quy định của pháp luật có liên quan về quản lý, kết nối, chia sẻ thông tin của cơ quan nhà nước và bảo đảm các nguyên tắc sau:
 
 a) Bảo đảm thực hiện trong phạm vi, chức năng, nhiệm vụ được giao, gắn trách nhiệm của người đứng đầu cơ quan chủ quản dữ liệu đối với tính chính xác, đầy đủ của dữ liệu được chia sẻ, đồng bộ. Bảo đảm thông tin được đồng bộ kịp thời khi có phát sinh, thay đổi. Không làm phát sinh cơ sở dữ liệu trùng lặp, mâu thuẫn với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước;
 
@@ -213,12 +213,12 @@ c) Trường hợp thông tin được chia sẻ, đồng bộ có sự mâu thu
 
 5. Toàn bộ quá trình tiếp nhận, kiểm tra, đối chiếu và cập nhật, điều chỉnh thông tin từ nguồn kết nối, chia sẻ, đồng bộ được hệ thống tự động ghi nhận đầy đủ để phục vụ công tác kiểm tra, phúc tra, giám sát; nội dung ghi nhận bao gồm nguồn dữ liệu, thời điểm xử lý, nội dung thông tin được cập nhật, điều chỉnh và người thực hiện.
 
-6. Trong quá trình xử lý thông tin được chia sẻ, đồng bộ, Công an cấp xã không được tự ý sửa đổii nội dung thông tin ngoài phạm vi được chia sẻ; tự hợp nhất thông tin từ nhiều nguồn khi chưa có căn cứ xác minh; cập nhật, điều chỉnh thông tin khi chưa xác định rõ tính chính xác, hợp pháp của dữ liệu.
+6. Trong quá trình xử lý thông tin được chia sẻ, đồng bộ, Công an cấp xã không được tự ý sửa đổi nội dung thông tin ngoài phạm vi được chia sẻ; tự hợp nhất thông tin từ nhiều nguồn khi chưa có căn cứ xác minh; cập nhật, điều chỉnh thông tin khi chưa xác định rõ tính chính xác, hợp pháp của dữ liệu.
 
 
 ### Điều 8. Điều chỉnh thông tin của cá nhân trong Cơ sở dữ liệu quốc gia về dân cư
 
-Trường hợp cá nhân đề nghị cập nhật, điều chỉnh thông tin của mình trong Cơ sở dữ liệu quốc gia về dân cư, Công an cấp xã nơi cá nhân cư trú là đơn vị tiếp nhận và tổ chức thực hiện việc kiểm tra, xác minh và cập nhật thông tin theo quy định tại khoản 3 Điều 6 Nghị định số 70/2024/NĐ-CP (được sửa đổii, bổ sung tại khoản 4 Điều 5 Nghị định số 58/2026/NĐ-CP của Chính phủ) và theo quy định sau:
+Trường hợp cá nhân đề nghị cập nhật, điều chỉnh thông tin của mình trong Cơ sở dữ liệu quốc gia về dân cư, Công an cấp xã nơi cá nhân cư trú là đơn vị tiếp nhận và tổ chức thực hiện việc kiểm tra, xác minh và cập nhật thông tin theo quy định tại khoản 3 Điều 6 Nghị định số 70/2024/NĐ-CP (được sửa đổi, bổ sung tại khoản 4 Điều 5 Nghị định số 58/2026/NĐ-CP của Chính phủ) và theo quy định sau:
 
 1. Trong thời hạn 1/2 ngày làm việc kể từ thời điểm tiếp nhận hồ sơ (đầy đủ, hợp lệ) đề nghị cập nhật, điều chỉnh thông tin của cá nhân qua cổng dịch vụ công quốc gia hoặc qua ứng dụng định danh quốc gia (VNeID) hoặc trực tiếp tại Công an cấp xã, cán bộ tiếp nhận thực hiện:
 
