@@ -14,13 +14,12 @@ ngaybanhanh: 15/07/2026
 ngayhieuluc: 01/01/2027
 trichyeu: "Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; thay thế Nghị định 49/2013/NĐ-CP."
 coquanbanhanh: Chính phủ
-nguoiky: Thủ tướng Chính phủ
+nguoiky: Phó Thủ tướng Nguyễn Thị Thanh Trà
 file_dinh_kem:
   - title: "283-ndcp.signed.pdf"
     url: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/283-ndcp.signed.pdf
 docid: "218949"
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
-trang_thai: "Chưa hoàn thiện (stub - OCR lỗi nặng đoạn đầu/chữ ký)"
 ---
 
 # NGHỊ ĐỊNH
@@ -55,10 +54,10 @@ Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động,
 bảo hiểm xã hội, người lao động Việt Nam đi làm việc
 ở nước ngoài theo hợp đồng
 
-Căn cứ Luật Tổ chúc Chính phủ số 63/2025/QH15;
+Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
 
 Căn cứ Luật Xử lý vi phạm hành chính số 15/2012/QH13 được sửa đổi,
-bổ sung bởi Luật số 67/2020/QH14 và Luật số J 88/2025/QH15;
+bổ sung bởi Luật số 67/2020/QH14 và Luật số 88/2025/QH15;
 
 Căn cứ Bộ luật Lao động số 45/2019/QH14,
 
@@ -66,8 +65,8 @@ Căn cứ Luật Việc làm số 74/2025/QH15,
 
 Căn cứ Luật Bảo hiểm xã hội số 41/2024/QH15,
 
-Căn cú Luật Người lao động Việt Nam ẩi làm việc ở nước ngoài theo
-hợp đẳng số 69/2020/QH14,
+Căn cứ Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo
+hợp đồng số 69/2020/QH14,
 
 Căn cứ Luật An toàn, vệ sinh lao động số 84/2015/QH13;
 
@@ -100,7 +99,7 @@ a) Lao động, bao gồm: việc làm, tuyển dụng và quản lý lao độn
 lao động và quan hệ lao động; an toàn, vệ sinh lao động; tổ chức đại diện người
 lao động tại cơ sở;
 
-b) Báo hiểm xã hội; . ,
+b) Bảo hiểm xã hội; . ,
 
 c) Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
 
@@ -591,7 +590,7 @@ không đầy đủ nội dung theo quy định tại khoán 4 Điều 9 của N
 219/2025/ND-CP ngày 07 tháng 8 năm 2025 của Chính phủ quy định về người
 lao động nước ngoài làm việc tại Việt Nam đối với trường hợp người lao động
 nước ngoài không phải làm thủ tục cấp giấy xác nhận không thuộc diện cấp
-giây phép lao động;
+giấy phép lao động;
 
 b) Không thông báo hoặc thông báo không đúng thời hạn hoặc thông báo
 không đầy đủ nội dung theo quy định tại khoản 5 Điều 9 của Nghị định số
@@ -651,7 +650,7 @@ giấy phép lao động đã hết hiệu lực.
 lao động có một trong các hành vi sau đây:
 
 a) Sửa chữa, làm sai lệch văn bản, tài liệu trong hồ sơ đề nghị cấp, cấp lạt,
-gia hạn giấy phép lao động, giấy xác nhận không thuộc diện cập giây phép
+gia hạn giấy phép lao động, giấy xác nhận không thuộc diện cập giấy phép
 lao động đối với người lao động nước ngoài nhưng chưa đến mức truy cứu
 trách nhiệm hình sự;
 
@@ -1067,7 +1066,7 @@ cho thuê lại lao động có một trong các hành vi sau đây:
 
 a) Không thực hiện thông báo hoạt động cho thuê lại lao động với cơ quan
 nhà nước có thẩm quyền theo quy định của pháp luật, trừ trường hợp doanh nghiệp
-có giây phép hoạt động cho thuê lại lao động còn hiệu lực; .
+có giấy phép hoạt động cho thuê lại lao động còn hiệu lực; .
 
 b) Không thực hiện thông báo chấm dứt hoạt động cho thuê lại lao động
 với cơ quan nhà nước có thậm quyền theo quy định của pháp luật.
@@ -3268,7 +3267,7 @@ h) Buộc nộp lại số lợi bất hợp pháp có được do thực hiện
 quy định tại điểm e khoản 9 Điều này;
 ï) Buộc nộp lại giấy phép hoạt động dịch vụ đưa người lao động Việt Nam
 đi làm việc ở nước ngoài theo hợp đồng cho cơ quan có thẩm quyền đã cấp
-giây phép đó khi có hành vi vi phạm quy định tại điểm g khoản 9 Điều này.
+giấy phép đó khi có hành vi vi phạm quy định tại điểm g khoản 9 Điều này.
 ### Điều 50. Vi phạm quy định về đưa người lao động Việt Nam äi làm việc
 ở nước ngoài của doanh nghiệp trúng thầu, nhận thầu công trình, dự án ở
 nước ngoài
@@ -3576,7 +3575,7 @@ VÀ LẬP BIÊN BẢN VI PHẠM HÀNH CHÍNH
 ### Điều 54. Thâm quyền lập biên bản vi phạm hành chính
 Những người sau đây đang thi hành công vụ, nhiệm vụ có thẩm quyền lập
 biên bản vi phạm hành chính:
-1. Người có thẩm quyển xử phạt vi phạm hành chính quy định tại các
+1. Người có thẩm quyền xử phạt vi phạm hành chính quy định tại các
 Điều 55, 56, 57, 58, 59, 60, 61 và Điều 62 của Nghị định này. |
 2. Công chức, viên chức Sở Nội vụ lập biên bản vi phạm hành chính
 đối với các hành vi vi phạm quy định tại Chương II, Chương III và Chương IV,
@@ -3610,13 +3609,13 @@ theo chức năng, nhiệm vụ, quyền hạn được giao thuộc lĩnh vực
 quản lý.
 8. Công chức, viên chức thuộc lực lượng Cảnh sát biển lập biên bản
 vi phạm hành chính đối với các hành vi vi phạm quy định tại Chương IĨ của
-Nghị định này theo chức năng, nhiệm vụ, quyên hạn được giao thuộc lĩnh vực,
+Nghị định này theo chức năng, nhiệm vụ, quyền hạn được giao thuộc lĩnh vực,
 địa bàn trên vùng biển được giao.
 9. Công chức, viên chức thuộc lực lượng Bộ đội Biên phòng lập biên bản
 vi phạm hành chính đối với các hành vi vi phạm quy định tại điểm a khoản 9
 Điều 49; khoản 5 Điều 50; điểm a khoản 7 Điều 51; điểm a khoản 6 Điều 52
 của Nghị định này trong phạm v1, lĩnh vực quản lý, phù hợp chức năng, nhiệm vụ,
-quyên hạn, địa bàn được giao.
+quyền hạn, địa bàn được giao.
 10. Viên chức ngoại giao, viên chức lãnh sự tại cơ quan đại diện ngoại giao,
 cơ quan lãnh sự, cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của
 nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài lập biên bản vi phạm
@@ -3641,7 +3640,7 @@ hoạt động có thời hạn;
 e) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này.
 2. Chủ tịch Ủy ban nhân dân tỉnh, thành phố (sau đây gọi chung là cấp tỉnh)
-có quyên:
+có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 75.000.000 đồng đối với hành vi vi phạm hành chính trong
 lĩnh vực lao động, bảo hiểm xã hội;
@@ -3664,7 +3663,7 @@ c) Đình chỉ hoạt động có thời hạn;
 d) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này;
 2. Trưởng đoàn kiểm tra do Cục trưởng Cục quản lý lao động ngoài nước
-thành lập có quyên:
+thành lập có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 80.000.000 đồng đối với hành vi vi phạm hành chính trong
 lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng:
@@ -3673,7 +3672,7 @@ d) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3
 Nghị định này.
 ### Điều 57. Thâm quyền xử phạt của Giảm đốc bảo hiểm xã hội cấp tỉnh,
 Giám đốc Bảo hiểm xã hội Việt Nam và Trưởng đoàn kiểm tra chuyên ngành
-do Báo hiểm xã hội Việt Nam thành lập
+do Bảo hiểm xã hội Việt Nam thành lập
 1. Giám đốc bảo hiểm xã hội cấp tỉnh có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 37.500.000 đồng đối với hành vi vi phạm hành chính trong
@@ -3681,7 +3680,7 @@ lĩnh vực bảo hiểm xã hội, đóng bảo hiểm thất nghiệp;
 c) Tịch thu tang vật vi phạm hành chính;
 đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này. .
-2. Giám đôc Bảo hiểm xã hội Việt Nam có quyên:
+2. Giám đôc Bảo hiểm xã hội Việt Nam có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 75.000. 000 đồng đối với hành vi vi phạm trong lĩnh vực
 bảo hiểm xã hội, đóng bảo hiểm thất nghiệp;
@@ -3689,7 +3688,7 @@ c) Tịch thu tang vật vi phạm hành chính;
 d) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này.
 3. Trưởng đoàn kiểm tra chuyên ngành do Bảo hiểm xã hội Việt Nam
-thành lập có quyên:
+thành lập có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 60.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 bảo hiểm xã hội, đóng bảo hiểm thất nghiệp;
@@ -3712,7 +3711,7 @@ lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài t
 c) Tịch thu tang vật vi phạm hành chính có giá trị không vượt quá 02 lần
 mức tiền phạt được quy định tại điểm b khoản này.
 3. Trưởng đồn Công an, Thủ trưởng đơn vị Cảnh sát cơ động cấp tiểu đoàn)
-Thủy đội trưởng, Trưởng trạm, Đội trưởng có quyên:
+Thủy đội trưởng, Trưởng trạm, Đội trưởng có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 22.500.000 đồng đối với hành vi vi phạm trong lĩnh vực
 lao động, bảo hiểm xã hội; đến 30.000.000 đồng đối với hành vi vi phạm trong
@@ -3786,7 +3785,7 @@ Cảnh sát cơ động, Trưởng phòng Cảnh sát thi hành án hình sự v
 Trưởng phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ, Trưởng phòng
 An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Trưởng phòng
 An rỉnh kinh tế, Trưởng phòng An ninh đối ngoại, Trưởng phòng Hồ sơ nghiệp vụ,
-Chánh Văn phòng Cơ quan Cảnh sát điều tra Công an cấp tỉnh có quyên:
+Chánh Văn phòng Cơ quan Cảnh sát điều tra Công an cấp tỉnh có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 60.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 lao động, bảo hiểm xã hội; đến 80.000.000 đồng đối với hành vi vi phạm trong
@@ -3796,7 +3795,7 @@ c) Đình chỉ hoạt động có thời hạn; |
 đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này.
 5. Trưởng phòng Quản lý xuất nhập cảnh thuộc Công an cấp tỉnh có
-thâm quyên xử phạt theo quy định tại khoản 5 Điều này và có quyên quyết định
+thẩm quyền xử phạt theo quy định tại khoản 5 Điều này và có quyền quyết định
 áp dụng hình thức xử phạt trục xuất.
 7. Giám đốc Công an cấp tỉnh có quyền:
 a) Phạt cảnh cáo;
@@ -3818,7 +3817,7 @@ cứu nạn, cứu hộ, Cục trưởng Cục Cảnh sát phòng, chống tội
 Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao,
 Cục trưởng Cục An ninh nội địa, Cục trưởng Cục Cảnh sát quản lý tạm giữ,
 tạm giam và thi hành án hình sự tại cộng đồng, Tư lệnh Cảnh sát cơ động,
-Giám đốc Trung tâm đữ liệu quốc gia, Cục trưởng Cục Hồ sơ nghiệp vụ có quyên:
+Giám đốc Trung tâm đữ liệu quốc gia, Cục trưởng Cục Hồ sơ nghiệp vụ có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 75.000.000 đồng đối với hành vị vi phạm trong lĩnh vực
 lao động, bảo hiểm xã hội; đến 100.000.000 đồng đối với hành vi vi phạm trong
@@ -3837,14 +3836,14 @@ b) Phạt tiền đến 3.750.000 đồng đối với hành vi vi phạm trong 
 lao động, bảo hiểm xã hội;
 c) Tịch thu tang vật vi phạm hành chính có giá trị không vượt quá 02 lần
 mức tiền phạt được quy định tại điểm b khoản này.
-2. Tổ trưởng Tổ nghiệp vụ Cảnh sát biển có quyên:
+2. Tổ trưởng Tổ nghiệp vụ Cảnh sát biển có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 7.500.000 đồng đối với hành vi vi phạm trong lĩnh vực
 lao động, bảo hiểm xã hội;
 c) Tịch thu tang vật vi phạm hành chính có giá trị không vượt quá 02 lần
 mức tiền phạt được quy định tại điểm b khoản này.
 3. Đội trưởng Đội nghiệp vụ Cảnh sát biển, Trạm trưởng Trạm Cảnh sát biển
-CÓ quyên:
+CÓ quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 15.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 lao động, bảo hiểm xã hội;
@@ -3860,7 +3859,7 @@ mức tiền phạt được quy định tại điểm b khoản này;
 Nghị định này.
 5. Hải đoàn trưởng Hải đoàn Cảnh sát biển; Đoàn trưởng Đoàn trinh sát,
 Đoàn trưởng Đoàn đặc nhiệm phòng chống tội phạm ma túy thuộc Cảnh sát biển|
-Việt Nam có quyên:
+Việt Nam có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 37.500.000 đồng đối với hành vi vi phạm trong lĩnh vực
 lao động, bảo hiệm xã hội;
@@ -3870,7 +3869,7 @@ hoạt động có thời hạn;
 đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này.
 6. Tư lệnh Vùng Cảnh sát biên, Cục trưởng Cục Nghiệp vụ và Pháp luật
-thuộc Cảnh sát biên Việt Nam có quyên:
+thuộc Cảnh sát biên Việt Nam có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 60.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 lao động, bảo hiệm xã hội;
@@ -3888,7 +3887,7 @@ hoạt động có thời hạn;
 đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này.
 ### Điều 60. Thâm quyền xử phạt của Bộ đội Biên phòng
-1. Chiến sĩ Bộ đội Biên phòng đang thi hành công vụ có quyên:
+1. Chiến sĩ Bộ đội Biên phòng đang thi hành công vụ có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 5.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đông;
@@ -3919,7 +3918,7 @@ mức tiền phạt được quy định tại điêm b khoản này;
 Nghị định này.
 5. Đoàn trưởng Đoàn đặc nhiệm phòng chống ma túy và tội phạm thuộc
 Cục Phòng chông ma túy và tội phạm thuộc Bộ Tư lệnh Bộ đội Biên phòng
-có quyên:
+có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 50.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 người lao động Việt Nam ởi làm việc ở nước ngoài theo hợp đồng; ụ
@@ -3951,7 +3950,7 @@ d) Tịch thu tang vật vi phạm hành chính;
 đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của
 Nghị định này.
 2. Cục trưởng Cục Việc làm, Cục trưởng Cục Tiên lương và Bảo hiêm
-xã hội có quyên:
+xã hội có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 75.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 lao động, bảo hiêm xã hội;
@@ -3974,7 +3973,7 @@ c) Tước quyền sử dụng chứng chỉ hành nghề có thời hạn hoặ
 Nghị định này.
 4. Trưởng đoàn kiểm tra do Cục trưởng Cục Việc làm thành lập,
 Trưởng đoàn kiêm tra do Cục trưởng Cục Tiên lương và Bảo hiêm xã hội
-thành lập có quyên:
+thành lập có quyền:
 a) Phạt cảnh cáo;
 b) Phạt tiền đến 60.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 lao động, bảo hiêm xã hội;
@@ -3989,7 +3988,7 @@ cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của
 Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài
 Người đứng đầu cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan
 khác được ủy quyền thực hiện chức năng lãnh sự của nước Cộng hòa xã hội
-chủ nghĩa Việt Nam ở nước ngoài có quyên:
+chủ nghĩa Việt Nam ở nước ngoài có quyền:
 1. Phạt cảnh cáo.
 2. Phạt tiền đến 100.000.000 đồng đối với hành vi vi phạm trong lĩnh vực
 người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
@@ -3999,14 +3998,14 @@ Nghị định này.
 ### Điều 63. Nguyên tắc xác định và phân định thẩm quyền xử phạt
 1. Thâm quyền xử phạt vi phạm hành chính của những người có thẩm quyền
 quy định tại các Điều 55, 56, 57, 58, 59, 60, ó1 và Điều 62 của Nghị định này
-là thâm quyên áp dụng đối với một hành vi vi phạm hành chính của cá nhân.
+là thẩm quyền áp dụng đối với một hành vi vi phạm hành chính của cá nhân.
 Trong trường hợp phạt tiền, thẩm quyền xử phạt đối với tổ chức gấp 02 lần
 thẩm quyền xử phạt đối với cá nhân.
 2. Chủ tịch Ủy ban nhân dân các cấp có thẩm quyền. xử phạt vi phạm
 hành chính và áp dụng các biện pháp khắc phục hậu quả đối với các hành vi
 vi phạm hành chính quy định tại Chương II, Chương III và Chương IV của
 Nghị định này theo thẩm quyền quy định tại Điều 55 của Nghị định này và
-chức năng, nhiệm vụ, quyên hạn được giao.
+chức năng, nhiệm vụ, quyền hạn được giao.
 3. Cục trưởng Cục Quản lý lao động ngoài nước và Trưởng đoàn kiểm tra
 do Cục trưởng Cục quản lý lao động ngoài nước thành lập có thẩm quyền
 xử phạt vi phạm hành chính và áp dụng các biện pháp khắc phục hậu quả đỗi với
@@ -4018,9 +4017,9 @@ và Trưởng đoàn kiểm tra chuyên ngành do Bảo hiểm xã hội Việt 
 có thẩm quyền xử phạt vi phạm hành chính và áp dụng các biện pháp khắc phục
 hậu quả đối với các hành vi vi phạm hành chính vê bảo hiểm xã hội, đóng
 bảo hiểm thất nghiệp quy định tại Chương II của Nghị định này theo thẩm quyền
-quy định tại Điều 57 của Nghị định này và chức năng, nhiệm vụ, quyên hạn
+quy định tại Điều 57 của Nghị định này và chức năng, nhiệm vụ, quyền hạn
 được giao.
-5. Người có thẩm quyên xử phạt của Công an nhân dân có thẩm quyền
+5. Người có thẩm quyền xử phạt của Công an nhân dân có thẩm quyền
 xử phạt vi phạm hành chính và áp dụng các biện pháp khắc phục hậu quả đối với
 các hành vi vi phạm hành chính quy định tại điểm c khoản 2 Điều 8; điểm đ
 khoản 3 Điều 9; điểm a, b, c khoản 4 Điều 10; điểm d khoản 1, khoản 3 Điều 11;
@@ -4049,7 +4048,7 @@ lĩnh vực quản lý, phù hợp chức năng, nhiệm vụ, quyền hạn, đ
 áp dụng các biện pháp khắc phục hậu quả đối với các hành vi vi phạm hành chính
 quy định tại Chương II, Chương II], Chương IV của Nghị định này theo
 thẩm quyền quy định tại khoản Ï Điều 6l của Nghị định này và chức năng,
-nhiệm vụ, quyên hạn được giao.
+nhiệm vụ, quyền hạn được giao.
 9, Cục trưởng Cục Việc làm có thẩm quyền xử phạt vi phạm hành chính
 và áp dụng các biện pháp khắc phục hậu quả đối với các hành vi vi phạm
 hành chính về việc làm, an toàn lao động, bảo hiểm thất nghiệp, thời giờ làm việc,
@@ -4094,7 +4093,7 @@ thẩm quyền xử phạt vi phạm hành chính và áp dụng biện pháp kh
 Nghị định này và chức năng, nhiệm vụ, quyền hạn được giao.
 16. Người đứng đầu cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan
 khác được ủy quyền thực hiện chức năng lãnh sự của nước Cộng hòa xã hội
-chủ nghĩa Việt Nam ở nước ngoài có thâm quyên xử phạt vi phạm hành chính
+chủ nghĩa Việt Nam ở nước ngoài có thẩm quyền xử phạt vi phạm hành chính
 và áp dụng các biện pháp khắc phục hậu quả đối với các hành vi vi phạm
 hành chính quy định tại điểm c khoản 9 Điều 49; điểm c khoản 8 Điều 50;
 điểm c khoản 7 Điều 51; điểm c khoản 6 Điều 52; khoản 2 Điều 53; điểm c
@@ -4103,7 +4102,7 @@ Nghị định này và chức năng, nhiệm vụ, quyền hạn được giao.
 ### Mục 2
 THI HÀNH CÁC HÌNH THỨC XỬ PHẠT VI PHẠM
 HÀNH CHÍNH, CÁC BIỆN PHÁP KHẮC PHỤC HẬU QUÁ
-### Điều 64. Thi hành các hình thức xử phạt vỉ phạm hành chính
+### Điều 64. Thi hành các hình thức xử phạt vi phạm hành chính
 1. Việc thi hành các hình thức xử phạt vi phạm hành chính trong lĩnh vực
 lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài
 theo hợp đồng thực hiện theo quy định của Luật Xử lý vi phạm hành chính, các
@@ -4112,30 +4111,30 @@ văn bản hướng dẫn Luật Xử lý vi phạm hành chính và các khoả
 xử phạt đến Bộ trưởng Bộ Nội vụ đối với hành vi vi phạm quy định tại điểm a,
 b, c, e, h khoản 5; khoản 6; điểm a, b, đ, e, g, h khoản 9; điểm a, b, c khoản 10
 Điều 49 của Nghị định này.
-3. Đôi với người lao động bị phạt tiên ở nước ngoài có thê nộp tiền phạt
+3. Đôi với người lao động bị phạt tiền ở nước ngoài có thể nộp tiền phạt
 tại cơ quan đại diện ngoại giao, cơ quan lãnh sự Việt Nam ở nước ngoài.
 4. Tiền phạt được thu bằng Đồng Việt Nam. Trường hợp thu bằng ngoại tệ
 thì được quy đôi ra Đông Việt Nam theo tỷ giá của ngân hàng thương mại tại
-thời điệêm xử phạt.
+thời điểm xử phạt.
 ### Điều 65. Thi hành các biện pháp khắc phục hậu quả
 1. Việc thi hành các biện pháp khắc phục hậu quả quy định trong Nghị định
 này được áp dụng theo quy định của Luật Xử lý vi phạm hành chính và các
-văn bản hướng dân.
-__2. Thủ tục thí hành biện pháp khắc phục hậu quả buộc nộp lại giấy phép,
-giây chứng nhận, chứng chỉ:
+văn bản hướng dẫn.
+__2. Thủ tục thi hành biện pháp khắc phục hậu quả buộc nộp lại giấy phép,
+giấy chứng nhận, chứng chỉ:
 a) Người có thẩm quyền ra quyết định, cá nhân, tổ chức vi phạm có
 trách nhiệm thi hành biện pháp khắc phục hậu quả buộc nộp lại giấy phép, giấy
 chứng nhận, chứng chỉ thực hiện theo quy định tại các khoản 1, 2, 3 và 4 Điều 85
 của Luật Xử lý vi phạm hành chính;
 b) Người có thẩm quyền ra quyết định thi hành biện pháp khắc phục hậu quả
 theo quy định tại điểm a khoản này phải gửi thông báo bằng văn bản kèm theo
-quyết định xử phạt, giấy phép, giây chứng nhận, chứng chỉ bị buộc nộp lại cho
-cơ quan, người có thâm quyên đã cấp giấy phép, giây chứng nhận, chứng chỉ,
-c) Trường hợp giấy phép, giấy chứng nhận, chứng chỉ được cấp đưới dạng
-điện tử hoặc được thê hiện dưới hình thức thông điệp dữ liệu thì cơ quan, người
+quyết định xử phạt, giấy phép, giấy chứng nhận, chứng chỉ bị buộc nộp lại cho
+cơ quan, người có thẩm quyền đã cấp giấy phép, giấy chứng nhận, chứng chỉ,
+c) Trường hợp giấy phép, giấy chứng nhận, chứng chỉ được cấp dưới dạng
+điện tử hoặc được thể hiện dưới hình thức thông điệp dữ liệu thì cơ quan, người
 có thẩm quyền thực hiện buộc nộp lại giấy phép, giấy chứng nhận, chứng chỉ
 trên môi trường điện tử theo quy định nêu đáp ứng được điều kiện về cơ sở
-hạ tầng, kỹ thuật, thông tin. Việc buộc nộp lại giây phép, giấy chứng nhận,
+hạ tầng, kỹ thuật, thông tin. Việc buộc nộp lại giấy phép, giấy chứng nhận,
 chứng chỉ được cập nhật trạng thái trên cơ sở dữ liệu hoặc căn cước điện tử,
 tài khoản định danh điện tử theo đúng quy định.
 ## Chương VI
@@ -4145,13 +4144,13 @@ tài khoản định danh điện tử theo đúng quy định.
 1. Nghị định này có hiệu lực thi hành từ ngày 10 tháng 9 năm 2026.
 2. Quy định về thẩm quyền xử phạt vi phạm hành chính của Cục trưởng
 Cục tiền lương và Bảo hiểm xã hội tại khoản 2 Điều 61 và khoản 11 Điều 63
-của Nghị định này có hiệu lực thị hành kể từ ngày Nghị định sửa đổi, bổ sung
+của Nghị định này có hiệu lực thi hành kể từ ngày Nghị định sửa đổi, bổ sung
 một số điều của Nghị định số 189/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của
 Chính phủ quy định. chỉ: tiến] uật Xử lý vi phạm hành chính về thẩm quyền
-xử phạt vi ph hy hành chỉnh. và tê lực thi hành.
+xử phạt vi phạm hành chính và hiệu lực thi hành.
 3. Quy định tại các điểm a, b, h khoản 2 Điều 7 và Điều 14 của Nghị định
 này có hiệu lực thi hành kể từ ngày Nghị định quy định về tuyển dụng, quản lý
-người lao độnÀQ Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam
+người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam
 (sửa đổi, bố sung? "Nghi: -định'5 5ô 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020
 quy định về người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài
 tại Việt Nam được sửa đổi, bổ sung bởi Nghị định số 70/2023/NĐ- -CP) có
@@ -4181,3 +4180,32 @@ tại thời điểm ban hành quyết định xử phạt vi phạm hành chín
 1. Bộ trưởng Bộ Nội vụ có trách nhiệm hướng dẫn việc thi hành Nghị định này.
 2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân
 tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này.
+
+---
+
+## NƠI NHẬN
+
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán Nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các đoàn thể;
+- VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục, Công báo;
+- Lưu: VT, KGVX (2).
+
+**TM. CHÍNH PHỦ**
+**KT. THỦ TƯỚNG, PHÓ THỦ TƯỚNG**
+
+*(Đã ký)*
+
+**Nguyễn Thị Thanh Trà**
+

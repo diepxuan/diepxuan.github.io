@@ -37,7 +37,7 @@
 | **Loại** | Nghị định |
 | **Cơ quan** | Chính phủ |
 | **Ban hành** | 21/07/2026 |
-| **Hiệu lực** | Chưa rõ (đang theo dõi) |
+| **Hiệu lực** | 21/07/2026 |
 | **Chủ đề** | Thuế, Vi phạm hành chính |
 | **LuatVietnam** | `thue/nghi-dinh-291-2026-nd-cp-sua-doi-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-thue-hoa-don-441168-d1.html` |
 | **Slug** | 441168 |
@@ -109,7 +109,7 @@
 
 ---
 
-### 5. Nghị định 289/2026/NĐ-CP — Quản lý ANTT tại cửa khẩu cảng
+### 5. Nghị định 289/2026/NĐ-CP — Quản lý ANTT tại cửa khẩu cảng (file chuẩn hoàn thiện: van-ban/289-2026-ND-CP.md)
 
 | Trường | Giá trị |
 |--------|---------|
@@ -333,6 +333,12 @@
 | Nghị định 232/2026/NĐ-CP | Viên chức — Vị trí việc làm | ✅ Đã crawl, Hoàn thiện — van-ban/lao-dong/232-2026-nd-cp-vi-tri-viec-lam-vien-chuc.md |
 | Nghị định 280/2026/NĐ-CP | Bảo hiểm tiền gửi — Tổ chức HĐQT 7 thành viên | ✅ Đã review OK, Hoàn thiện, 38 Điều (1-38), docid 218861, 81.6 KB — van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md |
 | Nghị định 281/2026/NĐ-CP | Sửa đổi NĐ 123/2024 xử phạt đất đai — Thẩm quyền cấp xã đến 250 triệu | ✅ Đã review OK, Stub (12 Điều đầy đủ), docid 218863, 12.8 KB — van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md |
+| Nghị định 283/2026/NĐ-CP | Lao động/BHXH — xử phạt VPHC | ✅ HOÀN THIỆN 2026-07-23 (PR #258 cleanup), 68 Điều, 4 Chương (I-VI), đầy đủ Nơi nhận + chữ ký Phó Thủ tướng Nguyễn Thị Thanh Trà, 0 OCR issues — van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md |
+| Nghị định 284/2026/NĐ-CP | Tài sản mã hóa — xử phạt VPHC | ✅ HOÀN THIỆN 2026-07-23 (PR #258 cleanup), 23 Điều, 4 Chương, 0 OCR issues, có chữ ký — van-ban/tai-chinh/284-2026-nd-cp-xu-phat-tai-san-ma-hoa.md |
+| Nghị định 289/2026/NĐ-CP | Quản lý ANTT cửa khẩu cảng | ✅ HOÀN THIỆN, 21 Điều, 3 Chương, 3 Mục, người ký Nguyễn Xuân Phúc — van-ban/289-2026-ND-CP.md |
+| Nghị định 291/2026/NĐ-CP | Sửa đổi xử phạt thuế/hóa đơn (bổ sung Điều 19a thuế quốc tế) | ✅ HOÀN THIỆN, 6 Điều (1, 19a, 2, 3, 4, 5), người ký Phó Thủ tướng Nguyễn Văn Thắng, hiệu lực 21/7/2026 — van-ban/291-2026-ND-CP.md |
+| Nghị định 277/2026/NĐ-CP | Hạ tầng văn hóa số | 📌 Stub, 8 Chương 62 Điều — chờ nguồn chính thức — van-ban/van-hoa/nghi-dinh-277-2026-nd-cp-ha-tang-van-hoa-so.md |
+| Nghị quyết 16-NQ/TW | Xây dựng TP Đồng Nai 2035/2065 | ⚠️ Stub (3/4 phần) — chờ nguồn chính thức — van-ban/chinh-phu/16-NQ-TW-xay-dung-phat-trien-thanh-pho-Dong-Nai-2035.md |
 
 ---
 
@@ -362,7 +368,7 @@
 
 > **Lần quét:** 2026-07-20 14:03 GMT+7 | **Nguồn:** luatvietnam.vn sitemap | **Docid:** chưa xác minh (vanban.chinhphu dải 218966–219000 rỗng/bảo vệ)
 
-### 1. Nghị định 277/2026/NĐ-CP — Hạ tầng văn hóa số
+### 1. Nghị định 277/2026/NĐ-CP — Hạ tầng văn hóa số (file chuẩn: van-ban/van-hoa/nghi-dinh-277-2026-nd-cp-ha-tang-van-hoa-so.md)
 
 | Trường | Giá trị |
 |--------|---------|
