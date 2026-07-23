@@ -449,7 +449,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 14:04 ICT 2026-07-22) đối chi
 | **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
 | **289/2026/NĐ-CP** | VĂN BẢN MỚI (v12) | Quản lý ANTT cửa khẩu cảng do Bộ Công an — ngày 22/7/2026, hiệu lực 01/10/2026, slug 441066 — **ƯU TIÊN TRUNG BÌNH** |
 | **21/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Sửa đổi TT 02/2025 về giải thi đấu thể thao — ƯU TIÊN THẤP |
-| **20/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Giấy phép báo chí — ƯU TIÊN TRUNG BÌNH |
+| **20/2026/TT-BVHTTDL** | STUB 🟡 | Giấy phép báo chí —(slug 441103 404 luatvietnam.vn, datafiles 403, vbpl.vn SPA block; đã tạo stub file với metadata, cần chờ source khả dụng để hoàn thiện) |
 | **117/2026/TT-BCA** | VĂN BẢN MỚI (v13) | An ninh mạng & bảo vệ dữ liệu dân cư — ƯU TIÊN TRUNG BÌNH |
 | **61/2026/TT-BGDĐT** | VĂN BẢN MỚI (v13) | Tài nguyên giáo dục mở trong GDĐH — ƯU TIÊN TRUNG BÌNH |
 | **191/NQ-CP** | VĂN BẢN MỚI (v15) | Dự án sửa đổi 09 luật về quân sự, quốc phòng — ngày 21/7/2026, slug 441106 — ƯU TIÊN TRUNG BÌNH |
