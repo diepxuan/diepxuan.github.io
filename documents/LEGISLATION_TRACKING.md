@@ -1,3 +1,24 @@
+## Cập nhật 2026-07-23 v29 (Đệ #1 Discovery — 2026-07-23 20:33 ICT)
+
+### Kết quả: **KHÔNG có văn bản mới**
+
+Phương pháp: `curl -sL` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist với Chrome UA). Đối chiếu ref v27.
+
+**sitemap_nghidinh**: ref 441290 / 441247 → top 5 d1 entries (441290, 441272, 441267, 441256, 441247) hoàn toàn trùng v27. Không có slug d1 mới > 441290.
+
+**sitemap_thongtu**: ref 441189 → top 5 d1 entries (441189, 441188, 441176, 441174, 441167) hoàn toàn trùng v27. Entry mới nhất 441215 là d10 (dự thảo) → bỏ qua. Không có slug d1 mới > 441189.
+
+### Ref sau v29
+- **sitemap_nghidinh ref**: giữ nguyên — **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: giữ nguyên — **441189** (60/TT-BXD) / batch 441104 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441290**
+
+### Nguồn & session
+- Nguồn: luatvietnam.vn sitemap_nghidinh (curl 2026-07-23T13:34:xxZ, 83KB) + sitemap_thongtu (curl 2026-07-23T13:34:xxZ, 178KB). Cloudflare allowlist cho phép direct sitemap access.
+- Phiên thực hiện: agent:github-io:subagent:bbdcc022-f707-4386-8840-e7515d54c67d (Đệ #1 Discovery v29)
+
+---
+
 ## Cập nhật 2026-07-23 v27 (Đệ #1 Discovery — 2026-07-23 19:32 ICT)
 
 ### Kết quả: **CÓ 5 văn bản mới** — tất cả từ **sitemap_nghidinh**
@@ -535,7 +556,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 14:04 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -624,7 +645,7 @@ Web-fetch xác minh đầy đủ (metadata + nội dung đầu tiên):
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -732,7 +753,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 11:02 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -806,7 +827,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 08:40 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -879,7 +900,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 08:33 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -950,7 +971,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 06:34 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1061,7 +1082,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 05:32 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1132,7 +1153,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 02:32 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1203,7 +1224,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (lastmod 23:33 ICT 2026-07-21) đối c
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1274,7 +1295,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, cùng ref) + sitemap_
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1340,7 +1361,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, cùng ref) + sitemap_
 | **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
 | **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1422,7 +1443,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, tăng so với ref 20
 | **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
 | **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊN THẤP |
 | **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊN TRUNG BÌNH |
-| **277/2026/NĐ-CP** | Chưa ghi nhận | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
