@@ -1,3 +1,132 @@
+## Cập nhật 2026-07-24 v30 (Đệ #1 Discovery — 2026-07-24 01:01 ICT)
+
+### Kết quả: **KHÔNG có văn bản mới**
+
+Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu qua Cloudflare IP (104.18.20.193) với Host header — do sitemap.luatvietnam.vn đã NXDOMAIN (DNS fail). Đối chiếu ref v29.
+
+**sitemap_nghidinh**: ref 441290 / 441247 → top 5 d1 entries (441290, 441272, 441267, 441256, 441247) hoàn toàn trùng v29. Không có slug d1 mới > 441290.
+
+**sitemap_thongtu**: ref 441189 → top 5 d1 entries (441189, 441188, 441176, 441174, 441167) hoàn toàn trùng v29. Entry mới nhất 441215 là d10 (dự thảo) → bỏ qua. Không có slug d1 mới > 441189.
+
+### Ref sau v30
+- **sitemap_nghidinh ref**: giữ nguyên — **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: giữ nguyên — **441189** (60/TT-BXD) / batch 441104 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441290**
+
+### Ghi chú kỹ thuật
+- **sitemap.luatvietnam.vn DNS: NXDOMAIN** — subdomain sitemap đã ngừng hoạt động, phải dùng `curl -H 'Host: luatvietnam.vn' http://104.18.20.193/sitemap_xxx.xml` để bypass.
+- Firecrawl credits đã hết (402) khi thử web_fetch → chuyển sang curl trực tiếp.
+
+---
+
+## Cập nhật 2026-07-23 v29 (Đệ #1 Discovery — 2026-07-23 20:33 ICT)
+
+### Kết quả: **KHÔNG có văn bản mới**
+
+Phương pháp: `curl -sL` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudflare allowlist với Chrome UA). Đối chiếu ref v27.
+
+**sitemap_nghidinh**: ref 441290 / 441247 → top 5 d1 entries (441290, 441272, 441267, 441256, 441247) hoàn toàn trùng v27. Không có slug d1 mới > 441290.
+
+**sitemap_thongtu**: ref 441189 → top 5 d1 entries (441189, 441188, 441176, 441174, 441167) hoàn toàn trùng v27. Entry mới nhất 441215 là d10 (dự thảo) → bỏ qua. Không có slug d1 mới > 441189.
+
+### Ref sau v29
+- **sitemap_nghidinh ref**: giữ nguyên — **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: giữ nguyên — **441189** (60/TT-BXD) / batch 441104 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441290**
+
+### Nguồn & session
+- Nguồn: luatvietnam.vn sitemap_nghidinh (curl 2026-07-23T13:34:xxZ, 83KB) + sitemap_thongtu (curl 2026-07-23T13:34:xxZ, 178KB). Cloudflare allowlist cho phép direct sitemap access.
+- Phiên thực hiện: agent:github-io:subagent:bbdcc022-f707-4386-8840-e7515d54c67d (Đệ #1 Discovery v29)
+
+---
+
+## Cập nhật 2026-07-23 v27 (Đệ #1 Discovery — 2026-07-23 19:32 ICT)
+
+### Kết quả: **CÓ 5 văn bản mới** — tất cả từ **sitemap_nghidinh**
+
+Phương pháp: `curl` trực tiếp sitemap (Cloudflare allowlist với Chrome UA). Đối chiếu ref v26.
+
+**sitemap_nghidinh**: ref 441168 / 441101 → phát hiện **5 slug d1 mới** > 441168:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **441290** | **293/2026/NĐ-CP** | **23/07/2026** | Hướng dẫn thực thi Công ước La Hay 1961 (Apostille) về miễn hợp pháp hóa giấy tờ công — Chương I (Điều 1–3): thẩm quyền, trình tự cấp Apostille; tiếp nhận giấy tờ Apostille tại VN; xác minh Apostille | Ngoại giao | ⚡ **CAO** | ✅ Title + số hiệu + ngày 23/7/2026 + Chương I (Điều 1-3) xác minh từ luatvietnam.vn |
+| 2 | **441272** | **282/2026/NĐ-CP** | **14/07/2026** | Quy định chi tiết một số điều và hướng dẫn thi hành NQ 28/QH16 (24/4/2026) về phát triển văn hóa Việt Nam — theo đề nghị Bộ VHTTDL | Văn hóa | ⚡ **TRUNG BÌNH** | ✅ Title + số hiệu + ngày 14/7/2026 + mục tiêu phát triển văn hóa xác minh từ luatvietnam.vn |
+| 3 | **441267** | **288/2026/NĐ-CP** | **21/07/2026** | Sửa đổi bổ sung NĐ 122/2021/NĐ-CP về xử phạt VPHC trong lĩnh vực kế hoạch và đầu tư | Kế hoạch & Đầu tư / VP_HC | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày 21/7/2026 + lĩnh vực xác minh từ luatvietnam.vn |
+| 4 | **441256** | **290/2026/NĐ-CP** | **21/07/2026** | Sửa đổi NĐ 06/2013 về bảo vệ cơ quan doanh nghiệp — do Bộ Công an đề xuất; sửa đổi Điều 1-2 về phạm vi điều chỉnh lực lượng bảo vệ | An ninh / Doanh nghiệp | **TRUNG BÌNH** | ✅ Title + số hiệu + ngày 21/7/2026 + nội dung điều chỉnh xác minh từ luatvietnam.vn |
+| 5 | **441247** | **292/2026/NĐ-CP** | **22/07/2026** | Quy định chi tiết Luật Quản lý ngoại thương — mua bán hàng hóa quốc tế, xuất khẩu, nhập khẩu, tạm nhập tái xuất, tranh chấp quản lý ngoại thương | Ngoại thương | ⚡ **CAO** | ✅ Title + số hiệu + ngày 22/7/2026 + Chương I (Điều 1) xác minh từ luatvietnam.vn |
+
+**sitemap_thongtu**: ref 441189 — **KHÔNG có thay đổi**. Top 5 d1 entries (441189, 441188, 441176, 441174, 441167) trùng v26. Entry mới nhất 441215 là d10 (dự thảo) → bỏ qua.
+
+### Ref sau v27
+- **sitemap_nghidinh ref**: **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: **441189** (60/TT-BXD) / batch 441104 giữ nguyên (giữ nguyên v26)
+- **van-ban-moi.html max slug**: cập nhật — **441290**
+
+### Ghi chú xử lý
+- **293/NĐ-CP** (slug 441290): Văn bản quan trọng — thực thi Công ước Apostille (La Hay 1961), đơn giản hóa thủ tục hợp pháp hóa lãnh sự cho giấy tờ công của Việt Nam dùng ở nước ngoài và ngược lại. Có hiệu lực ngay ngày ký (23/7/2026). **ƯU TIÊN CAO**.
+- **292/NĐ-CP** (slug 441247): Quy định chi tiết Luật Quản lý ngoại thương — tác động rộng đến hoạt động XNK, đầu tư công nghiệp sản xuất phục vụ xuất khẩu. **ƯU TIÊN CAO**.
+- 5 văn bản đều là Nghị định chính phủ (d1), ngày ban hành 14–23/7/2026, chưa có trong van-ban/. Xác minh toàn bộ từ luatvietnam.vn (HTTP 200).
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (fetch curl 2026-07-23T19:32:xxZ, Chrome UA). Web-fetch xác minh 5 URL.
+- Ngày phát hiện: 2026-07-23 19:32 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:4debeecb-4764-4b9f-8378-06a0d69005f1 (Đệ #1 Discovery v27)
+
+---
+
+## Cập nhật 2026-07-23 v26 (Đệ #1 Discovery — 2026-07-23 16:32 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap (Cloudflare allowlist với Chrome UA). Đối chiếu ref v25.
+
+**sitemap_nghidinh**: ref 441168 / 441101 — 5 d1 entries (441168, 441101, 441100, 441098, 441066) hoàn toàn trùng v25. Không có slug mới.
+
+**sitemap_thongtu**: ref 441189 (60/TT-BXD) — 5 d1 entries (441189, 441188, 441176, 441174, 441167) hoàn toàn trùng v25. Entry mới nhất 441215 là d10 (dự thảo), bỏ qua.
+
+### Ref sau v26
+- **sitemap_nghidinh ref**: **441168** (291/NĐ-CP) / **441101** (287/NĐ-CP) (giữ nguyên v25)
+- **sitemap_thongtu ref**: **441189** (60/TT-BXD) / batch 441104 giữ nguyên (giữ nguyên v25)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Nguồn & session
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (fetch curl 2026-07-23T16:32:xxZ, Chrome UA).
+- Phiên thực hiện: agent:github-io:subagent:d9774d74-1d72-4642-9d6d-984fe27862d4 (Đệ #1 Discovery v26)
+
+---
+
+## Cập nhật 2026-07-23 v25 (Đệ #1 Discovery — 2026-07-23 15:25 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap (Cloudflare allowlist với Chrome UA). Đối chiếu ref v24.
+
+**sitemap_nghidinh**: ref 441168 / 441101 — 5 d1 entries (441168, 441101, 441100, 441098, 441066) hoàn toàn trùng v24. Không có slug mới.
+
+**sitemap_thongtu**: ref 441189 (60/TT-BXD) — 5 d1 entries (441189, 441188, 441176, 441174, 441167) hoàn toàn trùng v24. Entry mới nhất 441215 là d10 (dự thảo), bỏ qua.
+
+### Ref sau v25
+- **sitemap_nghidinh ref**: **441168** (291/NĐ-CP) / **441101** (287/NĐ-CP) (giữ nguyên v24)
+- **sitemap_thongtu ref**: **441189** (60/TT-BXD) / batch 441104 giữ nguyên (giữ nguyên v24)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Nguồn & session
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (fetch curl 2026-07-23T15:25:xxZ, Chrome UA).
+- Phiên thực hiện: agent:github-io:subagent:3c2ec3b6-90a5-412f-b94f-b7dd16e27573 (Đệ #1 Discovery v25)
+
+---
+
+### Ref sau v24
+- **sitemap_nghidinh ref**: **441168** (291/NĐ-CP, giữ nguyên) / **441101** (287/NĐ-CP)
+- **sitemap_thongtu ref**: **441189** (60/TT-BXD, d1 mới nhất) / batch 441104 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Ghi chú & session
+- sitemap_nghidinh ổn định hoàn toàn — top entry 441168 = 291/NĐ-CP, không đổi so với ref.
+- sitemap_thongtu: Phát hiện **5 Thông tư `-d1` mới** (slug > 441104): 441189, 441188, 441176, 441174, 441167. Tất cả đã xác minh từ sitemap metadata (lastmod + URL). Không có Dự thảo (`d10`) nào mới trong top 5.
+- Phiên thực hiện: agent:github-io:subagent:0c036ba0-6223-40a1-af28-c8fce75bf3df (Đệ #1 Discovery v24)
+
+---
+
 ## Cập nhật 2026-07-23 v23 (Đệ #1 Discovery — 2026-07-23 08:30 ICT)
 
 ### Kết quả: KHÔNG có văn bản mới
@@ -416,7 +545,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 14:04 ICT 2026-07-22) đối chi
 | **05/2026/TT-NHNN** | HOÀN THIỆN ✅ | Hạn mức BHTG 350 triệu — đã merge trong PR #258 |
 | **289/2026/NĐ-CP** | VĂN BẢN MỚI (v12) | Quản lý ANTT cửa khẩu cảng do Bộ Công an — ngày 22/7/2026, hiệu lực 01/10/2026, slug 441066 — **ƯU TIÊN TRUNG BÌNH** |
 | **21/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Sửa đổi TT 02/2025 về giải thi đấu thể thao — ƯU TIÊN THẤP |
-| **20/2026/TT-BVHTTDL** | VĂN BẢN MỚI (v13) | Giấy phép báo chí — ƯU TIÊN TRUNG BÌNH |
+| **20/2026/TT-BVHTTDL** | STUB 🟡 | Giấy phép báo chí —(slug 441103 404 luatvietnam.vn, datafiles 403, vbpl.vn SPA block; đã tạo stub file với metadata, cần chờ source khả dụng để hoàn thiện) |
 | **117/2026/TT-BCA** | VĂN BẢN MỚI (v13) | An ninh mạng & bảo vệ dữ liệu dân cư — ƯU TIÊN TRUNG BÌNH |
 | **61/2026/TT-BGDĐT** | VĂN BẢN MỚI (v13) | Tài nguyên giáo dục mở trong GDĐH — ƯU TIÊN TRUNG BÌNH |
 | **191/NQ-CP** | VĂN BẢN MỚI (v15) | Dự án sửa đổi 09 luật về quân sự, quốc phòng — ngày 21/7/2026, slug 441106 — ƯU TIÊN TRUNG BÌNH |
@@ -448,7 +577,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 14:04 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -537,7 +666,7 @@ Web-fetch xác minh đầy đủ (metadata + nội dung đầu tiên):
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -645,7 +774,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 11:02 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -719,7 +848,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 08:40 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -792,7 +921,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 08:33 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -863,7 +992,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 06:34 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -974,7 +1103,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 05:32 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1045,7 +1174,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (fetch 02:32 ICT 2026-07-22) đối chi
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1116,7 +1245,7 @@ Quét sitemap_nghidinh + sitemap_thongtu (lastmod 23:33 ICT 2026-07-21) đối c
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1187,7 +1316,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, cùng ref) + sitemap_
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
 | **31/2026/TT-BYT** | VĂN BẢN MỚI (v4) | Định mức chi xây dựng thông tư BYT — ƯU TIÊU THẤP |
 | **30/2026/TT-BNNMT** | VĂN BẢN MỚI (v4) | Kỹ thuật bay đo từ phổ gamma địa chất — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1253,7 +1382,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, cùng ref) + sitemap_
 | **43/2026/TT-BKHCN** | VĂN BẢN MỚI (v2) | Quy hoạch tần số FM — ƯU TIÊU THẤP |
 | **131/2026/TT-BCA** | VĂN BẢN MỚI (v2) | Tiếp công dân Bộ Công an — ƯU TIÊU THẤP |
 | **32/2026/TT-BNNMT** | VĂN BẢN MỚI (v3) | Bãi bỏ VBQPPL Bộ NN&MT — ƯU TIÊU THẤP |
-| **277/2026/NĐ-CP** | Chưa ghi nhận rõ | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1335,7 +1464,7 @@ Quét sitemap_nghidinh (lastmod 2026-07-21 17:57:22+07:00, tăng so với ref 20
 | **05/2026/TT-NHNN** | VĂN BẢN MỚI (v1) | Hạn mức BHTG 350 triệu — **ƯU TIÊN CAO** |
 | **103/2026/TT-BQP** | VĂN BẢN MỚI (v1) | Điều chỉnh trợ cấp quân nhân — ƯU TIÊN THẤP |
 | **118/2026/TT-BCA** | VĂN BẢN MỚI (v1) | Sửa đổi TT 17/2024 về Luật Căn cước — ƯU TIÊN TRUNG BÌNH |
-| **277/2026/NĐ-CP** | Chưa ghi nhận | Hạ tầng văn hóa — slug 440755 |
+| **277/2026/NĐ-CP** | **HOÀN THIỆN ✅** | Hạ tầng văn hóa số — slug 440755, 20 Điều/5 Chương, ngày 09/07/2026, người ký Phạm Thị Thanh Trà |
 
 ### Ưu tiên tiếp theo
 
@@ -1408,7 +1537,7 @@ Quét luatvietnam.vn sitemap_nghidinh (lastmod 2026-07-20 17:56:45+07:00, cùng 
 | **284/2026/NĐ-CP** | **16/07/2026** | **Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa** — quy định hành vi vi phạm, hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả về tài sản mã hóa và thị trường tài sản mã hóa tại Việt Nam; căn cứ Nghị quyết 05/2025/NQ-CP (thí điểm thị trường tài sản mã hóa); theo đề nghị Bộ trưởng Bộ Tài chính | Tài chính / Tài sản mã hóa | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440680). Title: "Xử phạt vi phạm hành chính về tài sản mã hóa và thị trường" ✅. Ngày ban hành **16/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 16 tháng 7 năm 2026, theo đề nghị Bộ trưởng Bộ Tài chính). **ƯU TIÊN CAO** — quy định xử phạt thị trường tiền mã hóa, căn cứ Nghị quyết 05/2025 thí điểm. |
 | **05/2026/TT-NHNN** | **31/03/2026** | **Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam** — quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam đối với người được bảo hiểm; hạn mức tối đa **350.000.000 đồng** (gồm gốc và lãi) cho tất cả khoản tiền gửi của một người tại một tổ chức tham gia bảo hiểm tiền gửi; căn cứ Luật Bảo hiểm tiền gửi; hiệu lực **13/07/2026** | Tài chính / Bảo hiểm tiền gửi | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440800). Title: "Quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam" ✅. Ngày ký **31/3/2026**, hiệu lực **13/7/2026** (cùng ngày với 280/NĐ-CP). Hạn mức 350 triệu đồng/người/tổ chức. **ƯU TIÊN CAO** — tác động trực tiếp người gửi tiền, tăng hạn mức từ quy định trước. |
 | **283/2026/NĐ-CP** | **15/07/2026** | **Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng** — quy định hành vi vi phạm, hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả trong lĩnh vực: (a) lao động (việc làm, tuyển dụng, điều kiện lao động, ATVSLĐ, tổ chức đại diện NLĐ); (b) bảo hiểm xã hội; (c) người lao động VN đi làm việc ở nước ngoài; theo đề nghị Bộ trưởng Bộ Nội vụ; hiệu lực chưa rõ | Lao động / VP Hành chính | **Chưa xác minh** | **Hoàn thiện** | **HOÀN THIỆN** — `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md` (4182 dòng, Điều 1-68, Chương I+II). Đệ #3 OCR 50 trang cuối từ signed PDF, commit `fb24924c`. **PASS** — 283/NĐ-CP hoàn thiện đầy đủ. PR #258 đang chờ Sếp review. |
-| **118/2026/TT-BCA** | **29/06/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 17/2024/TT-BCA ngày 15/5/2024 quy định chi tiết Luật Căn cước** — sửa đổi theo Luật Căn cước sửa đổi 118/2025, NĐ 02/2025 (sửa đổi bởi NĐ 11/2025), NĐ 70/2024 (sửa đổi bởi NĐ 58/2026); bổ sung Điều 3a về cơ quan quản lý căn cước (Cục Cảnh sát QLHC về TTXH, Phòng CS QLHC, Công an xã/phường); người ký Lương Tam Quang | Công an / Căn cước | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440749). Title: "Sửa đổi Thông tư 17/2024/TT-BCA về Luật Căn cước" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 29 tháng 6 năm 2026, ký Lương Tam Quang). **ƯU TIÊN TRUNG BÌNH** — hướng dẫn chi tiết Luật Căn cước sửa đổi 118/2025, bổ sung cơ quan quản lý. |
+| **118/2026/TT-BCA** | **29/06/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 17/2024/TT-BCA ngày 15/5/2024 quy định chi tiết Luật Căn cước** — sửa đổi theo Luật Căn cước sửa đổi 118/2025, NĐ 02/2025 (sửa đổi bởi NĐ 11/2025), NĐ 70/2024 (sửa đổi bởi NĐ 58/2026); bổ sung Điều 3a về cơ quan quản lý căn cước (Cục Cảnh sát QLHC về TTXH, Phòng CS QLHC, Công an xã/phường); bãi bỏ mẫu CC04; thay thế 5 biểu mẫu CC01-CC03, DC01-DC02; người ký Lương Tam Quang | Công an / Căn cước | **Đã xác minh** | **van-ban/cong-an/118-2026-tt-bca.md (603 dòng, quality gate PASS)** | **FULL TEXT** — crawl luatvietnam.vn slug 440749. Đầy đủ 8 Điều + 5 biểu mẫu. OCR issues: 0, Articles: 8 (missing=[], duplicate=[]), Chapters: 0 (không có Chương/Mục). Không có PDF signed trên datafiles.chinhphu.vn. Push branch heartbeat/crawl-vanban-20260723. |
 | **103/2026/TT-BQP** | **17/07/2026** | **Quy định điều chỉnh trợ cấp hằng tháng đối với quân nhân, người làm công tác cơ yếu hưởng lương như đối với quân nhân đã phục viên, xuất ngũ, thôi việc** — quy định điều chỉnh trợ cấp hằng tháng; căn cứ NĐ 01/2022/QĐ-CP (sửa đổi bởi NĐ 03/2025), NĐ 162/2026 (điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hằng tháng), QĐ 142/2008/QĐ-TTg (sửa đổi bởi QĐ 38/2010, QĐ 22/2025), QĐ 62/2011/QĐ-TTg (sửa đổi bởi QĐ 22/2025); người ký Nguyễn Văn Hiền; hiệu lực chưa rõ | Quốc phòng / Trợ cấp | **Chưa xác minh** | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 440815). Title: "Điều chỉnh trợ cấp hằng tháng cho quân nhân và người làm công tác cơ yếu" ✅. Ngày ban hành **17/7/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 17 tháng 7 năm 2026, ký Nguyễn Văn Hiền, Bộ trưởng Bộ Quốc phòng). Căn cứ NĐ 162/2026 cùng đợt điều chỉnh lương hưu. **ƯU TIÊN THẤP** — chính sách đối tượng cụ thể quân nhân, cơ yếu. |
 
 ### Tình trạng sitemap
@@ -7229,3 +7358,19 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
 - Scan 564 file van-ban/ — không có "Đang cập nhật" trong frontmatter.
 - Phiên review: 2026-07-22 13:59 Asia/Saigon
 - Phiên thực hiện: agent:github-io:subagent:666b7ed3-19c2-415e-ae4a-479df58e9bec (Đệ #4 Content Reviewer + PR Comment Reviewer)
+
+## Cập nhật 2026-07-23 v25 (Đệ #1 Discovery + Đệ #3 Crawler)
+
+### Văn bản mới phát hiện (slug > 441189 trong sitemap_thongtu)
+
+| # | Slug | Số hiệu | Nội dung | Category | Trạng thái |
+|---|------|---------|----------|----------|------------|
+| 1 | 441189 | 60/TT-BXD | Phân cấp thẩm quyền quản lý công chức, viên chức Bộ Xây dựng | xay-dung | ✅ HOÀN THIỆN (v25) |
+| 2 | 441188 | 105/TT-BTC | Bãi bỏ thông tư 87/2019/TT-BTC về xử phạt vi phạm hành chính | tai-chinh | ⚪ Chờ crawl |
+| 3 | 441176 | 103/TT-BTC | Hướng dẫn cổ phần hóa doanh nghiệp nhà nước 100 vốn | tai-chinh | Stub — nguồn không khả dụng (441176 404, tracked v25) |
+| 4 | 441174 | 42/TT-BKH-CN | Quy định trình tự thủ tục nghiên cứu & phát triển công nghệ chiến lược | khoa-hoc-cong-nghe | ⚪ Chờ crawl |
+| 5 | 441167 | 102/TT-BTC | Hướng dẫn giám sát kiểm tra đánh giá vốn nhà nước tại doanh nghiệp | dau-tu | ⚪ Chờ crawl |
+
+### Ghi chú
+- Sitemap ref cập nhật: 60/TT-BXD là d1 mới nhất (441189)
+- Tất cả đều không phải dự thảo (d1), không phải d10
