@@ -1,4 +1,25 @@
-## Cập nhật 2026-07-23 v22 (Đệ #1 Discovery — 2026-07-23 08:21 ICT)
+## Cập nhật 2026-07-23 v23 (Đệ #1 Discovery — 2026-07-23 08:30 ICT)
+
+### Kết quả: KHÔNG có văn bản mới
+
+Phương pháp: `curl` trực tiếp sitemap (Cloudflare allowlist với Chrome UA). Đối chiếu ref v22.
+
+**sitemap_nghidinh**: ref 441168 / 441101 — 5 d1 entries (441168, 441101, 441100, 441098, 441066) hoàn toàn trùng v22. Không có slug mới.
+
+**sitemap_thongtu**: ref 441104 / 441103 — 4 d1 entries (441104, 441103, 441053, 441040) hoàn toàn trùng v22. Entry mới nhất 441105 là d10 (dự thảo), bỏ qua.
+
+### Ref sau v23
+- **sitemap_nghidinh ref**: **441168** / **441101** (giữ nguyên v22)
+- **sitemap_thongtu ref**: **441104** (21/TT-BVHTTDL) / **441103** (20/TT-BVHTTDL) / **441053** (117/TT-BCA) / **441040** (61/TT-BGDĐT) (giữ nguyên v22)
+- **van-ban-moi.html max slug**: giữ nguyên — **441162**
+
+### Nguồn & session
+- Nguồn: luatvietnam.vn sitemap_nghidinh + sitemap_thongtu (fetch curl 2026-07-23T08:29:xxZ, Chrome UA).
+- Phiên thực hiện: agent:github-io:subagent:a4d86fe3-920c-42aa-b6c2-a621cfbe618f (Đệ #1 Discovery v23)
+
+---
+
+## Cập nhật 2026-07-23 v22
 
 ### Kết quả: CÓ văn bản mới — 5 văn bản
 
