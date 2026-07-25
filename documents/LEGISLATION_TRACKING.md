@@ -1,3 +1,35 @@
+## Cập nhật 2026-07-25 v31 (Đệ #1 Discovery — 2026-07-25 07:02 ICT)
+
+### Kết quả: **CÓ 3 văn bản mới** — tất cả từ **sitemap_thongtu**
+
+Phương pháp: `curl -sL -H 'Host: luatvietnam.vn' http://104.18.20.193/sitemap_thongtu.xml` (Chrome UA + Referer + Accept-Language) → so sánh top 5 d1 entries với ref v30. Web_fetch xác minh 3 URL (HTTP 200, không phải document 404).
+
+**sitemap_nghidinh**: ref 441290 → **KHÔNG có thay đổi**. Top 5 d1 entries (441290, 441272, 441267, 441256, 441247) trùng v30. Entry mới nhất 441400 là d10 (dự thảo) → bỏ qua.
+
+**sitemap_thongtu**: ref 441189 → phát hiện **3 slug d1 mới** > 441189:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **441310** | **106/2026/TT-BTC** | **22/07/2026** | Đăng ký hoạt động Ngân hàng Chính sách xã hội — hồ sơ, trình tự, thủ tục, biểu mẫu, chuẩn hóa dữ liệu đăng ký hoạt động; căn cứ NĐ 06/2026/NĐ-CP (10/01/2026) về tổ chức hoạt động NHCSXH | Ngân hàng | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Đăng ký hoạt động Ngân hàng Chính sách xã hội", Bộ Tài chính, 22/7/2026, căn cứ NĐ 06/2026/NĐ-CP |
+| 2 | **441309** | **104/2026/TT-BTC** | **17/07/2026** | Quy định phân cấp thẩm quyền và quy trình kiểm tra chuyên ngành trong một số lĩnh vực QLNN của Bộ Tài chính — danh sách 13 đơn vị (Cục Thống kê, Kho bạc, Hải quan, UBCK, BHXH VN...) và 14 lĩnh vực (thống kê, NSNN, hải quan, chứng khoán, BH, tài sản công, đầu tư NN, kế toán...) | Tài chính / Kiểm tra chuyên ngành | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Quy định phân cấp thẩm quyền và quy trình kiểm tra chuyên ngành", Bộ Tài chính, 17/7/2026, căn cứ Luật Tổ chức CP, Luật Thanh tra, NĐ 217/2025 |
+| 3 | **441279** | **37/2026/TT-NHNN** | **19/07/2026** | Sửa đổi, bổ sung một số điều của TT 04/2025/TT-NHNN về thời hạn lưu trữ hồ sơ, tài liệu ngành Ngân hàng — bổ sung quy định chuyển giao hồ sơ khi TCTD giải thể/phá sản; thay đổi thời hạn lưu trữ hồ sơ thanh toán (10 năm) và PCRT (10 năm báo cáo, 5 năm KYC) | Ngân hàng | ⚡ **CAO** | ✅ HTTP 200 — title "Sửa đổi Thông tư 04/2025 về lưu trữ hồ sơ ngành Ngân hàng", NHNN, 19/7/2026, hiệu lực 19/7/2026 |
+
+### Ref sau v31
+- **sitemap_nghidinh ref**: giữ nguyên — **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: cập nhật — **441310** (106/TT-BTC) / **441309** (104/TT-BTC) / **441279** (37/TT-NHNN) / batch 441104 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441290**
+
+### Ghi chú kỹ thuật
+- **06/2026/NĐ-CP** (căn cứ của 106/TT-BTC): Đây là NĐ tổ chức hoạt động NHCSXH — slug 423597 đã có trong tracking qua các lần discovery trước. 106/TT-BTC là thông tư hướng dẫn chi tiết đăng ký hoạt động.
+- **37/2026/TT-NHNN** đáng chú ý vì sửa đổi thời hạn lưu trữ hồ sơ (10 năm cho thanh toán, 5-10 năm cho PCRT) và bổ sung cơ chế chuyển giao hồ sơ khi TCTD chấm dứt hoạt động — tác động đến tất cả tổ chức tín dụng và trung gian thanh toán.
+- 3 văn bản đều là Thông tư liên bộ (BTC × 2, NHNN × 1), ngày ban hành 17/7 – 22/7/2026. 37/TT-NHNN đã có hiệu lực ngay (19/7).
+- 441310 là Thông tư mới nhất trong hệ thống đối chiếu với batch 441189 (ref cũ) → nhảy 121 slug.
+- Nguồn: luatvietnam.vn sitemap_thongtu (curl 2026-07-25T00:07:xxZ, 179KB) qua Cloudflare IP 104.18.20.193.
+- Ngày phát hiện: 2026-07-25 07:02 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:19f6c63c-d091-4301-89ed-7b46ad751de2 (Đệ #1 Discovery v31)
+
+---
+
 ## Cập nhật 2026-07-24 v30 (Đệ #1 Discovery — 2026-07-24 01:01 ICT)
 
 ### Kết quả: **KHÔNG có văn bản mới**
