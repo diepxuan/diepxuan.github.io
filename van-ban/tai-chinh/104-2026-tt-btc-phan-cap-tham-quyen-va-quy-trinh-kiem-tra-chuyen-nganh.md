@@ -286,7 +286,8 @@ b) Tổ chức thực hiện kiểm tra chuyên ngành theo quy định tại Th
 c) Trong phạm vi chức năng, nhiệm vụ được giao, khi phát hiện dấu hiệu vi phạm pháp luật hoặc sự cố, sự kiện, dấu hiệu bất thường thuộc trường hợp phải kiểm tra chuyên ngành theo quy định tại điểm a khoản 2 Điều 11 Nghị định số 217/2025/NĐ-CP , các đơn vị thuộc Bộ báo cáo Bộ trưởng xem xét, quyết định việc kiểm tra chuyên ngành;
 d) Thực hiện các nhiệm vụ khác theo quy định.
 4. Trong quá trình thực hiện, trường hợp có khó khăn, vướng mắc hoặc có vấn đề mới phát sinh, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để được hướng dẫn hoặc sửa đổi, bổ sung cho phù hợp./.
-Nơi nhận: - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Văn phòng Quốc hội; - Ủy ban Thường vụ Quốc hội; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Chính phủ; - Thủ tướng Chính phủ; - Các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; - Kiểm toán Nhà nước; - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp; - Các đơn vị thuộc Bộ Tài chính; - Công báo, Cổng thông tin điện tử Chính phủ; - Cổng thông tin điện tử Bộ Tài chính; - Sở Tài chính các tỉnh, thành phố trực thuộc trung ương; - Cơ sở dữ liệu quốc gia về pháp luật; - Lưu: VT, PC (100b). KT. BỘ TRƯỞNG THỨ TRƯỞNG Tạ Anh Tuấn
+
+(Danh sách nơi nhận theo văn bản gốc được liệt kê ở mục `## NƠI NHẬN` bên dưới.)
 
 ## NƠI NHẬN
 
@@ -321,5 +322,5 @@ Nơi nhận: - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; 
 
 - Metadata trích từ `vanban.chinhphu.vn` (pageid 27160, docid 218984): số hiệu, loại văn bản, cơ quan ban hành, người ký (Tạ Anh Tuấn), ngày ban hành và ngày hiệu lực (17-07-2026), trích yếu.
 - Nội dung văn bản trích từ `luatvietnam.vn` (slug 441309, trang `tai-chinh/thong-tu-104-2026-tt-btc-quy-dinh-phan-cap-tham-quyen-va-quy-trinh-kiem-tra-chuyen-nganh-441309-d1.html`). Đây là nguồn có heading Điều/Chương/Mục sạch, dùng làm base cho nội dung.
-- PDF signed gốc đã tải thành công từ `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/104-ttbtc.signed.pdf` (1.42 MB, 40 trang, có watermark "CỤC THÔNG TIN VÀ TRUYỀN THÔNG CHÍNH PHỦ" và metadata ký "24.07.2026 16:10:05"). OCR pipeline (pdftoppm 150 DPI + tesseract-vie, 1'22") đã chạy; kết quả dùng để đối chiếu nội dung từ nguồn text sạch.
+- PDF có chữ ký số đính kèm tại `datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/104-ttbtc.signed.pdf` (1.42 MB, 40 trang, bao gồm watermark "CỤC THÔNG TIN VÀ TRUYỀN THÔNG CHÍNH PHỦ" và thông tin ký công bố ngày 24/07/2026). Nội dung văn bản trong file Markdown này lấy từ nguồn text sạch trên, đối chiếu với bản PDF có chữ ký số.
 
