@@ -1183,14 +1183,9 @@ thực hiện thì áp dụng văn bản' quy phạm pháp luật đang có hi�
 1. Bộ trưởng Bộ Tài chính có trách nhiệm hướng dẫn, tổ chức thi hành
 Nghị định này.
 
-2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân”
-dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan
-chịu trách nhiệm thi hành Nghị định này,
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
-Nơi nhận:
-
-TM. CHÍNH PHỦ
-THỦ TƯỚNG
+## NƠI NHẬN
 
 - Ban Bí thư Trung ương Đảng;
 - Thủ tướng, các Phó Thủ tướng Chính phủ;
@@ -1199,19 +1194,28 @@ THỦ TƯỚNG
 - Văn phòng Trung ương và các Ban của Đảng;
 - Văn phòng Tổng Bí thư;
 - Văn phòng Chủ tịch nước;
-
 - Hội đồng Dân tộc và các Ủy ban của Quốc hội;
-
 - Văn phòng Quốc hội;
-
-~ Tòa án nhân dân tối cao;
-
+- Tòa án nhân dân tối cao;
 - Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục, Công báo;
+- Lưu: VT, KTTH (2b).
 
-~ Kiểm toán nhà nước;
+---
 
-~ Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
-~ Cơ quan trung ương của các tổ chức chính trị - xã hội;
+**TM. CHÍNH PHỦ**
 
-~ VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục, Công báo;
-~ Lưu: VT, KTTH (2b).
+**THỦ TƯỚNG**
+
+**Nguyễn Văn Thắng**
+
+---
+
+## GHI CHÚ NGUỒN
+
+- Metadata trích từ `vanban.chinhphu.vn` (docid 218906): số hiệu, loại văn bản, cơ quan ban hành, người ký (Thủ tướng Nguyễn Văn Thắng), ngày ban hành 16/07/2026, ngày hiệu lực 01/09/2026, trích yếu.
+- Nội dung văn bản trích từ `luatvietnam.vn` (slug 440680, trang `tai-san-ma-hoa/nghi-dinh-284-2026-nd-cp-440680-d1.html`). Đây là nguồn có heading Điều/Chương sạch, dùng làm base cho nội dung.
+- PDF có chữ ký số đính kèm tại `datafiles.chinhphu.vn/.../284-ndcp.signed.pdf` (23 trang). Nội dung văn bản trong file Markdown này lấy từ nguồn text sạch đối chiếu với bản PDF có chữ ký số.
