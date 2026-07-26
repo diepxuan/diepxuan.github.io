@@ -1,3 +1,49 @@
+## Cập nhật 2026-07-26 v35 (Đệ #1 Discovery refresh — 2026-07-26 20:00 ICT)
+
+### Kết quả discovery: **CÓ 4 văn bản mới** (đợt cập nhật lớn nhất từ trước tới nay)
+
+Phương pháp: refresh `sitemap_nghidinh` (curl 2026-07-26T12:27~12:42Z qua Cloudflare IP 104.18.20.193) với Chrome UA + Host + Referer + Accept-Language vi-VN. So sánh với ref v34 (max = 441290).
+
+**sitemap_nghidinh**: ref **441290** (293/NĐ-CP, v34) → **441543** (294/NĐ-CP, v35). **Delta +253 slug** trong ~4h22 (15:37 → 20:00 ICT). Đã pass Cloudflare check, fetch full content 4 file HTML chi tiết (`tmp/discovery-v35/nd294..nd297.html`).
+
+**Phát hiện 4 văn bản d1 mới** (đều đã phát hành, hiệu lực gần):
+
+| # | Số hiệu | Slug luatvietnam | Ngày BH | Hiệu lực | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|---------|------------------|---------|----------|-----------|------|---------|----------|
+| 1 | **296/2026/NĐ-CP** | `441540-d1` (doanh-nghiep) | 23/07/2026 | ngày ký / theo NĐ | **Sửa đổi, bổ sung NĐ 168/2025/NĐ-CP về đăng ký doanh nghiệp** — điều chỉnh thủ tục, hồ sơ, điều kiện đăng ký DN theo Luật DN 2020, áp dụng cho mọi loại hình DN | Doanh nghiệp / Đăng ký kinh doanh | ⚡ **CAO** | ✅ HTTP 200 — title "Nghị định 296/2026/NĐ-CP: Sửa đổi, bổ sung Nghị định 168/2025 về đăng ký doanh nghiệp" |
+| 2 | **295/2026/NĐ-CP** | `441542-d1` (doanh-nghiep) | 23/07/2026 | 23/07/2026 | **Đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã** — chi tiết Luật HTX 2023, quy định về hồ sơ, thủ tục, cơ quan đăng ký, điều kiện thành lập | HTX / Kinh tế tập thể | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Nghị định 295/2026/NĐ-CP về đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã" |
+| 3 | **294/2026/NĐ-CP** | `441543-d1` (hanh-chinh) | ngày dự kiến trong NĐ | **23/07/2026** | **Tổ hợp tác của Chính phủ** — khung pháp lý cho tổ hợp tác áp dụng mô hình quản lý hành chính nhà nước | Tổ chức hành chính | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Nghị định 294/2026/NĐ-CP về tổ hợp tác của Chính phủ - Hiệu lực từ 23/07/2026" |
+| 4 | **297/2026/NĐ-CP** | `441541-d1` (co-cau-to-chuc) | 23/07/2026 | ngày ký / theo chỉ đạo TTT | **Quy định chức năng, nhiệm vụ của Bộ Dân tộc và Tôn giáo** (sau sáp nhập Bộ Tôn giáo vào Bộ Dân tộc) — cơ cấu tổ chức mới cập nhật theo NĐ sáp nhập | Cơ cấu tổ chức / Dân tộc & Tôn giáo | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Nghị định 297/2026/NĐ-CP: Quy định chức năng, nhiệm vụ của Bộ Dân tộc và Tôn giáo" |
+
+**Đánh giá ưu tiên**:
+- **296/NĐ-CP** (sửa NĐ 168/2025 về đăng ký doanh nghiệp) là **CAO** vì ảnh hưởng rất rộng — mọi doanh nghiệp mới thành lập/thay đổi đều phải tuân theo NĐ 168/2025, nay có sửa đổi.
+- 295/294/NĐ-CP liên quan HTX/tổ hợp tác — TRUNG BÌNH, ảnh hưởng giới hạn nhưng quan trọng cho khu vực kinh tế tập thể.
+- 297/NĐ-CP về cơ cấu Bộ Dân tộc & Tôn giáo — TRUNG BÌNH, tác động hẹp về tổ chức bộ máy.
+
+### Ref sau v35
+- **sitemap_nghidinh ref**: cập nhật — **441543** (294/NĐ-CP) / **441542** (295/NĐ-CP) / **441540** (296/NĐ-CP) / **441541** (297/NĐ-CP) / 441290 (293/NĐ-CP) (cũ từ v34)
+- **sitemap_thongtu ref**: giữ nguyên — **441498** (110/TT-BCA)
+- **van-ban-moi.html max slug**: chưa cập nhật index — cần refresh vòng tiếp theo
+
+### Ghi chú kỹ thuật
+- **Đây là đợt cập nhật sitemap_nghidinh lớn nhất từ trước tới nay** — delta +253 slug trong ~4h22 (sau đợt v34 cập nhật trước đó vài ngày). Có vẻ luatvietnam.vn đã re-batch sitemap ngay sau khi đăng tải cụm NĐ ngày 23/7/2026 (4 NĐ trong 1 ngày — khá bất thường, có thể do đợt sắp xếp cơ cấu hành chính + HTX).
+- **lastmod** (curl lúc 19:30 ICT): 2 đợt — `2026-07-26T12:31:31+07:00` (run đầu, trước khi re-batch) và `2026-07-26T13:41:58+07:00` (sau khi re-batch, fetch đợt lớn bao gồm 441540-441543).
+- Đã pass Cloudflare check tương tự v33/v34: Cloudflare IP 104.18.20.193 + Chrome UA + Host luatvietnam.vn + Referer https://luatvietnam.vn/ + Accept-Language vi-VN,vi;q=0.9.
+- Data raw lưu tại `tmp/discovery-v35/`:
+  - `sitemap_nghidinh.xml` (84KB, 327 entries, fetch 2026-07-26 19:27 ICT)
+  - `sitemap_nghidinh_cp.html` (266KB, fetch 2026-07-26 19:30 ICT)
+  - `sitemap_thongtu_cp.html` (266KB, fetch 2026-07-26 19:30 ICT)
+  - `nd294.html` (211KB, fetch 19:41 ICT) — slug 441543
+  - `nd295.html` (1035KB, fetch 19:42 ICT) — slug 441542
+  - `nd296.html` (400KB, fetch 19:42 ICT) — slug 441540
+  - `nd297.html` (196KB, fetch 19:42 ICT) — slug 441541
+- Nguồn tham chiếu: `tmp/discovery-v35/sitemap_nghidinh.xml` với `<loc>` đầy đủ cho 4 slug, đều có `-d1` (chính thức, không phải draft d10).
+- Crawl status: CHƯA crawl (chỉ discovery + tracking). Poll sau sẽ spawn Đệ #3 crawl lần lượt 296 → 295 → 294 → 297 theo thứ tự ưu tiên.
+- Ngày phát hiện: 2026-07-26 20:00 Asia/Saigon
+- Phiên thực hiện: agent:github-io (HEARTBEAT poll, không gọi sub-agent riêng — sitemap + 4 HTML đã có trong worktree sẵn từ session poll 18:59–20:00 ICT)
+
+---
+
 ## Cập nhật 2026-07-26 v34 (Đệ #1 Discovery refresh — 2026-07-26 15:37 ICT)
 
 ### Kết quả discovery: **KHÔNG có văn bản mới**
