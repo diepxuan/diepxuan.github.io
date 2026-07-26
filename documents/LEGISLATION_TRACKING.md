@@ -1,3 +1,34 @@
+## Cập nhật 2026-07-26 v32 (Đệ #1 Discovery — 2026-07-26 09:03 ICT)
+
+### Kết quả: **CÓ 2 văn bản mới** — tất cả từ **sitemap_thongtu**
+
+Phương pháp: `curl -sL -H 'Host: luatvietnam.vn' http://104.18.20.193/sitemap_thongtu.xml` (Chrome UA + Referer + Accept-Language) → so sánh top 5 d1 entries với ref v31. Web_fetch xác minh 2 URL (HTTP 200, content-type text/html, không phải document 404).
+
+**sitemap_nghidinh**: ref 441290 / 441247 → **KHÔNG có thay đổi**. Top d1 entries vẫn 441290, 441272, 441267, 441256, 441247 — trùng v31. Entry mới nhất 441400 là d10 (dự thảo) → bỏ qua.
+
+**sitemap_thongtu**: ref 441310 → phát hiện **2 slug d1 mới** > 441310:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **441410** | **104/2026/TT-BQP** | **17/07/2026** | Sửa đổi, bổ sung một số điều của TT 111/2021/TT-BQP về quản lý công tác thi hành pháp luật về xử lý VPHC của Bộ Quốc phòng. Điều 1: sửa khoản 2 Điều 8 — báo cáo định kỳ (chốt số liệu 15/12 → 14/12 năm sau; các đơn vị Biên phòng, Cảnh sát biển VN, Ban Cơ yếu CP, Thanh tra BQP, Tòa án quân sự TƯ, VKS quân sự TƯ, Cục THA BQP gửi báo cáo trước 20/12; nội dung + hình thức theo TT 01/2023/TT-BTP sửa bởi TT 19/2025/TT-BTP) | Quốc phòng / VPHC | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Sửa đổi Thông tư 111/2021/TT-BQP về xử lý vi phạm hành chính", Bộ Quốc phòng, 17/7/2026; căn cứ Luật XLVPHC 15/2012/QH13 (sửa bởi 67/2020/QH14 + 88/2025/QH15), NĐ 20/2016, NĐ 19/2020 (sửa bởi 93/2025), NĐ 118/2021 (sửa bởi 68/2025 + 190/2025), NĐ 77/2025 (sửa bởi 286/2025), NĐ 189/2025, NĐ 01/2022 (sửa bởi 03/2025). Người ký: Bộ trưởng Bộ Quốc phòng |
+| 2 | **441401** | **41/2026/TT-BCT** | **22/07/2026** | Quy định **Danh mục phế liệu** + **Danh mục hàng hóa đã qua sử dụng tạm ngừng kinh doanh** tạm nhập, tái xuất, chuyển khẩu (Phụ lục I + II kèm theo). Theo khoản 3 Điều 40 Luật QLNT và khoản 3 Điều 13 NĐ 292/2026/NĐ-CP. Bãi bỏ: TT 18/2024/TT-BCT; một phần TT 12/2018/TT-BCT (Điều 4); một phần TT 08/2023/TT-BCT (khoản 2 Điều 1 + Phụ lục II). Áp dụng 05/9/2026 – 31/12/2029 | Xuất nhập khẩu / Công thương | ⚡ **CAO** | ✅ HTTP 200 — title "Danh mục phế liệu và hàng hóa tạm ngừng kinh doanh", Bộ Công Thương, 22/7/2026; căn cứ Luật QLNT 05/2017/QH14, NĐ 40/2025 (sửa bởi 109/2025 + 193/2025), **NĐ 292/2026/NĐ-CP** (đã tracking trong v27). Hiệu lực: 05/9/2026 → 31/12/2029 |
+
+### Ref sau v32
+- **sitemap_nghidinh ref**: giữ nguyên — **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: cập nhật — **441410** (104/TT-BQP) / **441401** (41/TT-BCT) / batch v31 (441310, 441309, 441279) giữ nguyên / batch cũ 441104 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441290** (chưa cập nhật index mới)
+
+### Ghi chú kỹ thuật
+- **41/2026/TT-BCT** đáng chú ý cao vì là thông tư hướng dẫn trực tiếp **NĐ 292/2026/NĐ-CP** (Luật Quản lý ngoại thương — đã tracking v27 ngày 22/7/2026). Hai văn bản này cùng ngày ban hành 22/7 → 41/TT-BCT có hiệu lực 05/9/2026 (≈ 2 tuần sau) đến hết 31/12/2029 (nhiệm kỳ có hạn). Đây là danh mục cứng — Phụ lục I (phế liệu) và Phụ lục II (hàng đã qua sử dụng) cần đọc chi tiết khi crawl OCR.
+- **104/2026/TT-BQP** là văn bản nội bộ ngành Quốc phòng về chế độ báo cáo thi hành pháp luật xử lý VPHC — sửa lịch chốt số liệu + đơn vị báo cáo. Tác động hẹp (chỉ các cơ quan trong hệ BQP).
+- Nhảy ref thongtu: từ 441310 → 441410, delta +100 slug trong **24 giờ** (so với delta +121 slug trong ~5 ngày giữa v30→v31) — tốc độ ra TT đang tăng nhẹ. lastmod sitemap_thongtu: 2026-07-25T08:42:41+07:00 (entry #1) → khớp với crawl lúc 09:03 ICT 26/7.
+- Trong top entries sitemap_thongtu còn có 4 slug d10 (dự thảo): 441351, 441340, 441271, 441215 — bỏ qua đúng protocol (chỉ giữ d1).
+- Nguồn: luatvietnam.vn sitemap_thongtu (curl 2026-07-26T02:01:xxZ, 180KB) + sitemap_nghidinh (curl 2026-07-26T02:02:xxZ, 84KB) qua Cloudflare IP 104.18.20.193.
+- Ngày phát hiện: 2026-07-26 09:03 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:3a74dd38-21e4-41bd-936b-3707143e6f18 (Đệ #1 Discovery v32)
+
+---
+
 ## Cập nhật 2026-07-25 v31 (Đệ #1 Discovery — 2026-07-25 07:02 ICT)
 
 ### Kết quả: **CÓ 3 văn bản mới** — tất cả từ **sitemap_thongtu**
@@ -7406,3 +7437,39 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
 ### Ghi chú
 - Sitemap ref cập nhật: 60/TT-BXD là d1 mới nhất (441189)
 - Tất cả đều không phải dự thảo (d1), không phải d10
+
+---
+
+## Cập nhật 2026-07-26 v32 (Đệ #1 Discovery — 2026-07-26 08:44 ICT)
+
+### Văn bản mới phát hiện
+
+| # | Slug | Số hiệu | Cơ quan | Ngày ban hành | Chủ đề / Trích yếu | Hiệu lực | Ưu tiên | Trạng thái |
+|---|------|---------|---------|---|---|---|---|---|
+| 1 | 441410 | **104/2026/TT-BQP** | Bộ Quốc phòng | 17/07/2026 | Sửa đổi, bổ sung Thông tư 111/2021/TT-BQP ngày 24/8/2021 về quản lý công tác thi hành pháp luật về xử lý vi phạm hành chính của Bộ Quốc phòng (căn cứ Luật XLVPHC 15/2012/QH13 sửa đổi bởi 67/2020/QH14, 88/2025/QH15) | Cập nhật d1 luatvietnam 24/07/2026 | ⚡ TRUNG BÌNH (TT liên bộ/ngành nội bộ ngành Quốc phòng) | Chưa có |
+| 2 | 441401 | **41/2026/TT-BCT** | Bộ Công Thương | 22/07/2026 | Danh mục phế liệu và Danh mục hàng hóa đã qua sử dụng tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu | 05/09/2026 | ⚡ CAO (điều chỉnh quan trọng về XNK phế liệu, hàng hóa qua sử dụng) | Chưa có |
+| 3 | 441311 | **1382/QĐ-TTg** | Thủ tướng Chính phủ | 23–24/07/2026 | Kế hoạch triển khai thi hành Luật Tín ngưỡng, tôn giáo | Kể từ ban hành / theo Luật Tín ngưỡng | ⚡ CAO (Kế hoạch TTw hành Luật tôn giáo) | Chưa có |
+| 4 | 441312 | **2132/QĐ-BGDĐT** | Bộ Giáo dục và Đào tạo | cuối tháng 7/2026 | Công bố TTHC mới lĩnh vực giáo dục và đào tạo thuộc phạm vi Bộ GD&ĐT | Từ ngày ký | ⚪ THẤP (công bố danh mục nội bộ) | Chưa có |
+| 5 | 441339 | **2140/QĐ-BGDĐT** | Bộ Giáo dục và Đào tạo | cuối tháng 7/2026 | Công bố công khai quyết toán vốn đầu tư công nguồn ngân sách NN năm 2025 của Bộ GD&ĐT | Từ ngày ký | ⚪ THẤP (công khai quyết toán) | Chưa có |
+
+### Phương pháp
+
+- **Nguồn chính**: `curl -sL -H 'Host: luatvietnam.vn' -H 'User-Agent: Mozilla/5.0 Chrome/124' -H 'Accept-Language: vi-VN,vi;q=0.9' http://104.18.20.193/sitemap_thongtu.xml` → trích `loc` tags → so với ref cũ v31 = 441310.
+- **Nguồn bổ trợ**: `sitemap_nghidinh.xml` (ref 441290, không có slug mới) + `van-ban-moi.html` (max slug 441311–441339, các QĐ mới ngoài cấp QĐ-TTg).
+- **Xác minh**: 2/5 văn bản (104/TT-BQP, 41/TT-BCT) đã mở trang chi tiết tại luatvietnam.vn → HTTP 200, có og:title + body số hiệu + ngày ban hành rõ ràng. 3 QĐ thuộc cấp QĐ-TTG/Bộ tham chiếu từ `van-ban-moi.html` (slug 441311, 441312, 441339).
+- **vanban.chinhphu.vn sitemap (vbc/sitemap_*)**: KHÔNG quét được vẫn còn 404 như đã ghi nhận từ v31 (đã có note từ 2026-07-21).
+
+### So với documents/LEGISLATION_TRACKING.md + van-ban/
+
+- Cả 5 văn bản đều chưa có mặt trong `documents/LEGISLATION_TRACKING.md` (ref danh sách v25–v31 chỉ đến tối đa 441310 phía thông tư, slug 441311+ chưa xuất hiện).
+- Cả 5 văn bản đều chưa có mặt trong `van-ban/` (đã grep `ls`):
+  - `van-ban/97-2026-TT-BTC.md` (TT 97) ≠ `104/TT-BQP` và ≠ `41/TT-BCT`
+  - `van-ban/233-2026-ND-CP-...`, `van-ban/234-...`, `284-...`, `291-...` ≠ `1382/QĐ-TTg`, `2132/QĐ-BGDĐT`, `2140/QĐ-BGDĐT`.
+- **Slug 441290 (293/2026/NĐ-CP Apostille) ĐÃ có** trong tracking (ref v23+) — không đưa vào danh sách mới này.
+- `van-ban-moi.html` chỉ liệt kê các QĐ UBND cấp tỉnh (Sơn La, Hưng Yên, Nghệ An, Cà Mau, Đắk Lắk, Lai Châu, Điện Biên, ...) không thuộc nhóm trọng tâm của repo → không track trong v32.
+
+### Ghi chú
+- Sitemap `thongtu` ref mới: từ 441310 → **441410** (delta +100 slug trong 5 ngày, ngày lastmod 2026-07-25T11:59:32+07:00 — đợt cập nhật lớn).
+- Sitemap `nghidinh` ref: giữ nguyên **441290** (ref cũ v23+).
+- **Lastmod chùm 2026-07-25T11:59:32** trên sitemap_thongtu (≈100 entries đồng loạt) gợi ý: luatvietnam re-batch sitemap sau khoảng 5–10 ngày — cần theo dõi để tránh trượt phát hiện.
+- Không có check trên thukyluat.vn / baochinhphu.vn / chinhphu.vn trong phiên này (đã khẳng định nguồn vanban.chinhphu.vn 404 từ 21/7).
