@@ -35,7 +35,7 @@ nguon-soan-thao: luatvietnam.vn_slug_441498
 docid: "441498"
 source: luatvietnam.vn
 trang-thai: "Hoàn thiện"
-ghi-chu-nguon: "Nội dung crawl từ trang HTML luatvietnam.vn/giao-thong/thong-tu-110-2026-tt-bca-...-441498-d1.html (đã strip các tag 'Đang theo dõi' và HTML footer 'Đăng nhập'). Phụ lục đính kèm được luatvietnam ẩn sau form đăng nhập thành viên — không trích được từ HTML. Có PDF có chữ ký số trên vanban.chinhphu.vn nhưng crawler poll này không OCR — nội dung 56 Điều + 8 Chương đã pass OCR Quality Gate (căn cứ & metadata khớp giữa HTML luatvietnam.vn, sitemap_thongtu, tracking v22)."
+ghi-chu-nguon: "Nội dung crawl từ trang HTML luatvietnam.vn (đã strip các CTAG theo dõi luatvietnam + footer đăng nhập thành viên). Phụ lục đính kèm — bảng chương trình đào tạo, danh sách người đào tạo — được luatvietnam ẩn sau form đăng nhập thành viên nên không trích được từ HTML. Có PDF có chữ ký số trên vanban.chinhphu.vn nhưng phiên crawler này không OCR; nội dung 56 Điều + 8 Chương trong file đã pass OCR Quality Gate (căn cứ & metadata khớp giữa HTML luatvietnam.vn, sitemap_thongtu và tracking)."
 ---
 
 # THÔNG TƯ 110/2026/TT-BCA

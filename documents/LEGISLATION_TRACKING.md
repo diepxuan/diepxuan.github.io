@@ -1,3 +1,47 @@
+## Cập nhật 2026-07-26 v33 (Đệ #1 Discovery refresh + crawl 110/2026/TT-BCA — 2026-07-26 14:00 ICT)
+
+### Kết quả discovery: **CÓ 1 văn bản mới**
+
+Phương pháp: refresh `sitemap_thongtu` (curl 2026-07-26T07:00Z qua Cloudflare IP 104.18.20.193) với cùng Chrome UA + Host + Referer. So sánh top slugs với ref v32.
+
+**sitemap_nghidinh**: giữ nguyên (ref 441290/441247) — không có thay đổi kể từ v32.
+
+**sitemap_thongtu**: ref 441410 (v32 batch 104/TT-BQP, 41/TT-BCT) → phát hiện **1 slug d1 mới** > 441410:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **441498** | **110/2026/TT-BCA** | **29/06/2026** | Quy định chi tiết **Chương trình đào tạo, huấn luyện an ninh hàng không dân dụng Việt Nam** — phạm vi, đối tượng, giải thích từ ngữ, chương trình đào tạo ban đầu / huấn luyện định kỳ / huấn luyện phục hồi / chuyển loại cho: (1) lãnh đạo, người quản lý ANHK + giám sát viên ANHK; (2) lực lượng kiểm soát ANHK (ANSC — an ninh soi chiếu; ANKS — an ninh kiểm soát; ANCĐ — an ninh cơ động); (3) các đối tượng không thuộc lực lượng kiểm soát ANHK (giám sát viên AN nội bộ, tổ lái/tiếp viên, quản lý nhân viên mặt đất, khai thác cảng, v.v.); cơ sở đào tạo/huấn luyện ANHK, Giấy chứng nhận; đào tạo trực tuyến (Điều 50-51); trách nhiệm các cơ quan (Điều 52-54); điều khoản chuyển tiếp — cho phép tiếp tục dùng TT 34/2022/TT-BGTVT đến 31/3/2027 | Công an / An ninh hàng không | ⚡ **CAO** | ✅ HTTP 200 — title "Quy định chi tiết chương trình đào tạo an ninh hàng không", Bộ Công an, 29/6/2026; căn cứ Luật Hàng không dân dụng VN 130/2025/QH15, Luật CAND 37/2018/QH14 (sửa 21/2023/QH15), Luật An ninh quốc gia 32/2004/QH11, NĐ 02/2025 (sửa 11/2025), **NĐ 215/2026/NĐ-CP** (an ninh hàng không). Người ký: Bộ trưởng Bộ Công an. **Hiệu lực: 01/07/2026** (Điều 55.1). 56 Điều, 8 Chương |
+
+### Crawl status: 110/2026/TT-BCA — **HOÀN THIỆN** ✅
+
+**File path**: `van-ban/giao-thong/thong-tu-110-2026-tt-bca-quy-dinh-chi-tiet-chuong-trinh-dao-tao-an-ninh-hang-khong.md`
+
+**Nguồn**: HTML luatvietnam.vn/giao-thong/...-441498-d1.html (fetch 2026-07-26T06:55Z + 13:35 ICT). Đã strip các tag `"Đang theo dõi"` (interstitial popup guard) và HTML footer đăng nhập. Không cần OCR PDF vì HTML đã mang toàn văn 56 Điều + 8 Chương đầy đủ + chữ ký "Đại tướng Lương Tam Quang".
+
+**OCR Quality Gate** (per `documents/OCR_QUALITY_GATE.md`):
+- OCR issues: **0** (pass clean — không có ký tự rác, lỗi phổ biến, `Đang theo dõi`, `lorem`/`TODO`/`FIXME`/`Đang cập nhật`/`cần bổ sung`)
+- Articles: **56**, range 1-56, **Missing []**, **Duplicate []**
+- Chapters: **8 (I-VIII)**, đúng thứ tự Roman, **Duplicate []**, **Out-of-order []**
+- Suspicious article headings: 0
+- Bad chapter patterns: none
+- Front matter: đủ metadata (`layout: vanban`, title có dấu, `date`/`modified`, `so-hieu`, `co-quan-ban-hanh`, `nguoi-ky`, `ngay-ban-hanh`, `ngay-hieu-luc`, `trich-yeu`, `can-cu-phap-ly`, `tags`, `source`, `docid`)
+
+**Hạn chế còn lại (note trong front matter `ghi-chu-nguon`)**:
+- Phụ lục đính kèm (bảng chương trình đào tạo chi tiết theo Phụ lục 04, danh sách trích ngang người đào tạo, v.v.) luatvietnam.vn ẩn sau form đăng nhập thành viên — không trích được từ HTML crawl. Nội dung Điều 1-56 đã đầy đủ "khung chương trình" và trích dẫn tới Phụ lục qua các "Mẫu số" trong câu (ví dụ Điều 47.1.a "Mẫu số 05 quy định tại Phụ lục …").
+- Khối "Nơi nhận" + "KT." (ký thay) không có trong HTML render của luatvietnam.vn (JS-rendered sidebar bị ẩn). Nếu cần strict, có thể OCR PDF có chữ ký số trên vanban.chinhphu.vn (chưa thực hiện ở poll này).
+
+### Ref sau v33
+- **sitemap_nghidinh ref**: giữ nguyên — **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: cập nhật — **441498** (110/TT-BCA) / batch v32 441410, 441401 giữ nguyên / batch v31 441310, 441309, 441279 giữ nguyên
+- **van-ban-moi.html max slug**: giữ nguyên — **441290** (chưa cập nhật index mới)
+
+### Ghi chú kỹ thuật
+- **110/2026/TT-BCA** đáng chú ý **CAO** — là thông tư hướng dẫn chi tiết NĐ 215/2026/NĐ-CP (an ninh hàng không, đã tracking v22 ngày 26/03/2026), thay thế khung TT 34/2022/TT-BGTVT cũ. Cùng cụm với 115/TT-BCA (Thẻ, giấy phép an ninh hàng không), 117/TT-BCA (An ninh mạng dữ liệu dân cư) → Bộ Công an đang đồng loạt ban hành các thông tư thi hành Luật Hàng không dân dụng VN 2025 + NĐ 215/2026.
+- lastmod sitemap_thongtu (entry #1 441498): kiểm tra cùng đợt 26/7. Không có thêm VB mới ngoài 110/TT-BCA trong top 10 entries.
+- Crawl đã pass OCR Quality Gate — không phải stub. Commit vào PR heartbeat active `heartbeat/crawl-vanban-20260723` (PR #260).
+- Ngày thực hiện: 2026-07-26 14:00 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:c537a4bc-f233-4f02-af56-5632c3bc3b25 (Đệ #1 Discovery refresh v33 + crawl 110/TT-BCA theo task Bột giao)
+
 ## Cập nhật 2026-07-26 v32 (Đệ #1 Discovery — 2026-07-26 09:03 ICT)
 
 ### Kết quả: **CÓ 2 văn bản mới** — tất cả từ **sitemap_thongtu**
