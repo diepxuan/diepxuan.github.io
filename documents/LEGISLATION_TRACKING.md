@@ -1,3 +1,34 @@
+## Cập nhật 2026-07-26 v34 (Đệ #1 Discovery refresh — 2026-07-26 15:37 ICT)
+
+### Kết quả discovery: **KHÔNG có văn bản mới**
+
+Phương pháp: refresh `sitemap_nghidinh` + `sitemap_thongtu` (curl 2026-07-26T08:37Z qua Cloudflare IP 104.18.20.193) với Chrome UA + Host luatvietnam.vn + Referer + Accept-Language vi-VN. Đối chiếu top 5 entries `-d1` (chính thức) với ref v33.
+
+**sitemap_nghidinh**: ref 441290 (293/NĐ-CP) / 441247 (292/NĐ-CP) → **KHÔNG có thay đổi kể từ v33**. Top 5 d1 entries lần lượt: **441290** (293/2026/NĐ-CP — Công ước Apostille, 23/7/2026), **441272** (282/2026/NĐ-CP — PTH 28/QH16 về VH, 14/7/2026), **441267** (288/2026/NĐ-CP — sửa NĐ 122/2021 xử phạt đầu tư, 21/7/2026), **441256** (290/2026/NĐ-CP — sửa NĐ 06/2013 bảo vệ cơ quan DN, 21/7/2026), **441247** (292/2026/NĐ-CP — chi tiết Luật QL ngoại thương, 22/7/2026) — tất cả đều đã có trong tracking. Entries d10 (dự thảo) mới trong top: 441400 (sửa NĐ 147/2024 dịch vụ internet), 441350 (kinh doanh xăng dầu) → bỏ qua đúng protocol.
+
+**sitemap_thongtu**: ref 441498 (110/TT-BCA) / batch v32 (441410, 441401) / batch v31 (441310, 441309, 441279) → **KHÔNG có thay đổi kể từ v33**. Top 5 d1 entries: **441498** (110/2026/TT-BCA — ĐT ANHK, 29/6/2026), **441410** (104/2026/TT-BQP — xử lý VPHC, 17/7/2026), **441401** (41/2026/TT-BCT — danh mục phế liệu, 22/7/2026), **441310** (106/2026/TT-BTC — NHCSXH, 22/7/2026), **441309** (104/2026/TT-BTC — phân cấp KT chuyên ngành, 17/7/2026) — tất cả đều đã có trong tracking. Entries d10 (dự thảo) mới trong top: 441351 (giám sát nhận chìm ở biển), 441340 (sửa TT 40/2018 an toàn dầu khí), 441271 (CT mục tiêu quốc gia SK&DS 2026-2035), 441215 (sửa TT 130/2025 mục lục NSNN) → bỏ qua đúng protocol.
+
+### Ref sau v34 (giữ nguyên v33)
+- **sitemap_nghidinh ref**: giữ nguyên — **441290** (293/NĐ-CP) / **441247** (292/NĐ-CP)
+- **sitemap_thongtu ref**: giữ nguyên — **441498** (110/TT-BCA) / batch v32 (441410, 441401) / batch v31 (441310, 441309, 441279) / batch cũ (441104, ...) / 441189 (60/TT-BXD)
+- **van-ban-moi.html max slug**: giữ nguyên — **441290**
+
+### Ghi chú kỹ thuật
+- **Không có văn bản mới** — cả 2 sitemap ổn định hoàn toàn so với v33 (chỉ cách nhau ~1.5 giờ). Crawl lần này là refresh "an toàn" sau đợt crawl lớn v33 (110/TT-BCA đã xong file Markdown + pass OCR Quality Gate).
+- **lastmod quan trọng nhất cập nhật**: 441400 (d10 về dịch vụ internet) `2026-07-25T17:59:44+07:00`, 441309 (104/TT-BTC) + 441279 (37/TT-NHNN) `2026-07-26T12:00:05+07:00` (cùng đợt update cuối ngày 26/7), 441498 (110/TT-BCA) `2026-07-25T20:06:33+07:00`. Không có d1 phát sinh mới trong khoảng 14:00–15:37 ICT 26/7.
+- **D10 drafts đáng lưu ý** (chưa phát hành — không kích hoạt crawl nhưng đáng theo dõi vì có thể thành văn bản chính thức trong 1–2 tuần tới):
+  - **441400-d10** — Dự thảo NĐ sửa NĐ 147/2024 về dịch vụ internet (Bộ TT&TT). Sau khi chính thức có thể thay đổi khung quản lý Internet ở VN.
+  - **441350-d10** — Dự thảo NĐ về kinh doanh xăng dầu (đặc biệt — NĐ 80/2026 vừa hiệu lực 1/7/2026, nếu d10 này thành chính thức sẽ là tier-2 điều chỉnh).
+  - **441351-d10** — Dự thảo TT hướng dẫn kiểm tra giám sát hoạt động nhận chìm ở biển (Bộ TN&MT) — liên quan NĐ 151/2026/NĐ-CP về quản lý chất thải rắn & chất thải khác từ tàu.
+  - **441340-d10** — Dự thảo TT sửa TT 40/2018 an toàn dầu khí (Bộ Công Thương).
+  - **441271-d10** — Dự thảo TT chương trình mục tiêu quốc gia SK&DS 2026-2035 (Bộ Y tế).
+  - **441215-d10** — Dự thảo TT sửa TT 130/2025 mục lục NSNN (Bộ Tài chính).
+- Nguồn: luatvietnam.vn sitemap_nghidinh (curl 2026-07-26T08:37:xxZ, 84KB, 327 entries) + sitemap_thongtu (curl 2026-07-26T08:37:xxZ, 180KB, 705 entries) qua Cloudflare IP 104.18.20.193.
+- Ngày phát hiện: 2026-07-26 15:37 Asia/Saigon
+- Phiên thực hiện: agent:github-io:subagent:665912de-aff1-4c6c-aa4f-9f74647680f3 (Đệ #1 Discovery v34)
+
+---
+
 ## Cập nhật 2026-07-26 v33 (Đệ #1 Discovery refresh + crawl 110/2026/TT-BCA — 2026-07-26 14:00 ICT)
 
 ### Kết quả discovery: **CÓ 1 văn bản mới**
