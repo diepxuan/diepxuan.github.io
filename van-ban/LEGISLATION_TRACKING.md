@@ -108,3 +108,13 @@ Sitemap quet luc: 2026-07-21T04:33 ICT
 
 **Ghi chu:** vanban.chinhphu.vn docid 441102 trả "Không tìm thấy văn bản này". File PDF/DOC trên datafiles.chinhphu.vn đều 404. File stub: `van-ban/xay-dung-nha-o-do-thi/16-nq-tw-xay-dung-phat-trien-dong-nai.md`.
 
+## Cập nhật 2026-07-26 (12:05 ICT)
+
+### Văn bản mới — STUB
+
+| # | Số hiệu | Ngày | Trích yếu | Nhóm | Trạng thái |
+|---|---------|------|-----------|------|------------|
+| 1 | **41/2026/TT-BCT** | 2026-07-22 | Danh mục phế liệu (Phụ lục I) + hàng hóa tạm ngừng kinh doanh XNK (Phụ lục II) tạm nhập, tái xuất, chuyển khẩu. Bãi bỏ TT 18/2024; một phần Điều 4 TT 12/2018; khoản 2 Điều 1 + Phụ lục II TT 08/2023. Có hiệu lực 05/09/2026 – 31/12/2029 (Bộ Công Thương; docid 441401) | Xuất nhập khẩu | **STUB — toàn văn chưa truy cập được (luatvietnam 402/Cloudflare; vanban.chinhphu.vn 404/500; datafiles nhiều pattern PDF 404; thuvienphapluat 403; vbpl 404)** |
+
+**Ghi chú:** File: `van-ban/41-2026-TT-BCT.md` — stub metadata đầy đủ, cần bổ sung nội dung 2 Phụ lục khi có nguồn chính thức.
+
