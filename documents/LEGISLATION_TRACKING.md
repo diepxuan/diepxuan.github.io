@@ -1,3 +1,45 @@
+## Cập nhật 2026-07-28 v42 (crawl 297/2026/NĐ-CP Hoàn thiện — 2026-07-28 05:59 ICT)
+
+### Kết quả crawl: **297/2026/NĐ-CP HOÀN THIỆN** (re-crawl từ STUB)
+
+Phương pháp: dùng HTML `tmp/discovery-v40/nd297.html` (slug 441541-d1, 292 KB — toàn văn đầy đủ phát hiện ở v40) làm input, extract bằng `scripts/build_297_nd_cp.py` (pattern tương tự 294 + 298). Strip UI/tóm tắt (P0–P17 chứa "Mục lục", "Lược đồ", "Xem chi tiết"), trích `<p>` từ P18 (bắt đầu "Hiệu lực: Đã biết... CHÍNH PHỦ"), dừng trước P95+ (footer "Bạn chưa Đăng nhập"), dedup "CHÍNH PHỦ Số: 297/2026/NĐ-CP", dedup heading "Điều N." trùng. Dùng `html.unescape()` thay vì regex escape thủ công.
+
+**File output**: `van-ban/co-cau-to-chuc/297-2026-nd-cp.md` — 222 dòng, 20502 bytes (so với STUB cũ 52 dòng / 2289 bytes).
+
+**Số hiệu**: 297/2026/NĐ-CP — Nghị định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Dân tộc và Tôn giáo, ban hành 24/7/2026, hiệu lực 24/7/2026, ký bởi Phó Thủ tướng Hồ Quốc Dũng. Căn cứ: Luật Tổ chức Chính phủ 63/2025/QH15 + Nghị định 303/2025/NĐ-CP ngày 19/11/2025.
+
+**Cấu trúc**:
+- 6 Điều nội dung chính (Điều 1: Vị trí và chức năng → Điều 6: Trách nhiệm thi hành)
+- 0 Chương (văn bản thuộc loại NĐ cơ cấu tổ chức — đúng, không phân Chương)
+- Điều 3 có 12 đơn vị trực thuộc (Vụ Kế hoạch-Tài chính, Vụ Tổ chức cán bộ, Vụ Hợp tác quốc tế, Vụ Tuyên truyền, Ban Tôn giáo CP, Cục Chiến lược & Chính sách DT, Trung tâm Chuyển đổi số, Học viện DT&TG, Tạp chí NC DT&TG, v.v.)
+- Điều 4: Vụ Chính sách + Học viện Dân tộc tiếp tục hoạt động đến khi có QĐ mới
+- Điều 5: thay thế NĐ 41/2025/NĐ-CP + NĐ 114/2025/NĐ-CP
+
+**OCR Quality Gate**:
+- `scripts/scan_ocr_quality.py`: **0 issues** (PASS clean)
+- `scripts/ocr_quality_gate_scan.py`: Articles 6 (Range 1-6, Missing [], Duplicate []), Chapters 0 — **PASS**
+- Front matter đầy đủ 16/16 keys + `trangthai: hoanthien`
+- Không có stub marker (`Đang cập nhật`, `lorem`, `TODO`, `FIXME`)
+- Metadata đối chiếu đúng: Số 297/2026/NĐ-CP, ngày 24/7/2026, PTTg Hồ Quốc Dũng, Căn cứ Luật Tổ chức CP 63/2025/QH15
+
+**Commit**: `7d8e6912` "crawl: 297/2026/NĐ-CP Bộ Dân tộc & Tôn giáo — Hoàn thiện (6 Điều, slug 441541, nguồn luatvietnam.vn HTML toàn văn 292KB)" → push OK lên PR #260.
+
+### Trạng thái tracking sau v42
+- 297/2026/NĐ-CP: **HOÀN THIỆN** ✅ (chuyển từ STUB poll 23:34 ICT 27/7 → HOÀN THIỆN poll 05:59 ICT 28/7 nhờ nguồn body 292 KB từ discovery-v40)
+- 296/2026/NĐ-CP: bỏ qua (fail 2 lần, không retry)
+- **Batch v35 (295 + 296 + 294 + 297) + v39 (298): HOÀN TẤT** (295 + 298 + 294 + 297 = Hoàn thiện, 296 = bỏ qua)
+- Tất cả văn bản trong tracking hiện đều đã Hoàn thiện hoặc bỏ qua → không còn STUB
+
+### Ghi chú kỷ thuật
+- 297/NĐ-CP là VB thứ 2 trong batch v35 STUB được re-crawl thành công nhờ nguồn HTML đầy đủ từ discovery-v40.
+- `html.unescape()` thay cho regex escape thủ công để xử lý sạch tất cả `&#x...;` entities (nhiều hơn 294 — file 297 có 30+ entities khác nhau).
+- Nguồn: luatvietnam.vn slug 441541-d1 (HTML render toàn văn 292 KB, curl 2026-07-28T04:18Z qua Cloudflare IP 104.18.20.193)
+- Ngày phát hiện body đầy đủ: 2026-07-28 04:18 Asia/Saigon (discovery-v40)
+- Ngày re-crawl Hoàn thiện: 2026-07-28 05:59 Asia/Saigon (poll 05:59 ICT)
+- Phiên thực hiện: agent:github-io (HEARTBEAT poll 05:59 ICT 28/7, xử lý re-crawl 297 → Hoàn thiện + tracking v42)
+
+---
+
 ## Cập nhật 2026-07-28 v41 (crawl 294/2026/NĐ-CP Hoàn thiện — 2026-07-28 05:00 ICT)
 
 ### Kết quả crawl: **294/2026/NĐ-CP HOÀN THIỆN** (re-crawl từ STUB)
