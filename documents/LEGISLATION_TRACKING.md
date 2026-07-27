@@ -1,3 +1,35 @@
+## Cập nhật 2026-07-27 v38 (crawl 297/2026/NĐ-CP — 2026-07-27 18:02 ICT)
+
+### Kết quả crawl: **297/2026/NĐ-CP STUB — chưa hoàn thiện**
+
+- File mới: `van-ban/co-cau-to-chuc/297-2026-nd-cp.md` (52 dòng, ~2.2KB Markdown — chỉ có metadata + thông báo stub)
+- Commit: `9d8d8a6b` đẩy lên PR #260 (heartbeat/crawl-vanban-20260723 → main)
+- Metadata: số hiệu 297/2026/NĐ-CP, ban hành 24/7/2026, hiệu lực 24/7/2026, Phó TTg Hồ Quốc Dũng ký, trích yếu "Quy định chức năng, nhiệm vụ của Bộ Dân tộc và Tôn giáo"
+- **Lý do stub**:
+  - Nguồn `tmp/discovery-v35/nd297.html` (luatvietnam.vn slug 441541, 196KB) chỉ có metadata (số hiệu, ngày, người ký, lĩnh vực, trích yếu) + placeholder "Văn bản này đang cập nhật nội dung"; bản PDF yêu cầu đăng nhập tài khoản thành viên để xem nội dung
+  - Nguồn dự phòng (datafiles.chinhphu.vn) không khả dụng qua các phiên crawl tự động trước đó
+- Theo OCR_QUALITY_GATE.md mục 1.5: stub metadata sạch + đánh dấu "trangthai: stub" + đánh dấu cần bổ sung trong tracking
+- Validation:
+  - OCR Quality Gate: PASS (file không có nội dung OCR, chỉ metadata)
+  - Front matter đầy đủ 17/17 keys (có marker `trangthai: stub` rõ ràng)
+  - Không có chuỗi cấm trong mục 2 (không có ghi chú agent/phiên)
+  - Trạng thái "stub" rõ ràng, không bịa nội dung pháp lý
+- Trạng thái trong tracking: 297 → **STUB** (đánh dấu cần bổ sung sau, không xóa khỏi tracking)
+
+### Cập nhật danh sách văn bản v35 đang xử lý
+- ✅ **295/2026/NĐ-CP** → Hoàn thiện (commit e140288b)
+- ⚠️ **296/2026/NĐ-CP** (CAO) — Poll 01:02 + 10:59 ICT đều fail 2 lần. Tạm bỏ theo poll 11:29 ICT.
+- ⚠️ **294/2026/NĐ-CP** (TB) → STUB (poll 16:59 ICT)
+- ⚠️ **297/2026/NĐ-CP** (TB) → STUB (poll 18:02 ICT, commit 9d8d8a6b) — chờ nguồn có body
+
+### Ghi chú kỹ thuật
+- Đệ #3 `crawler-297-nd-cp` (poll 17:29 ICT) đã tạo file stub 52 dòng ~2.2KB, sạch (không có ghi chú agent/phiên), commit `9d8d8a6b` đẩy lên PR #260 thành công.
+- Cả 3 NĐ trong tracking v35 (294, 295, 297) đều đã được commit lên PR #260; 295 là Hoàn thiện, 294 + 297 là STUB. Riêng 296/NĐ-CP bỏ qua theo quyết định poll 11:29 (fail 2 lần liên tiếp, tốn tài nguyên không cải thiện được).
+- Sau v38, tracking không còn văn bản nào thuộc batch v35 chưa xử lý (trừ 296 bỏ qua). Có thể chuyển sang Discovery v36 (refresh sitemap_nghidinh + sitemap_thongtu) ở poll tới để tìm batch mới.
+- Ngày phát hiện: 2026-07-27 18:02 Asia/Saigon
+
+---
+
 ## Cập nhật 2026-07-27 v37 (crawl 294/2026/NĐ-CP — 2026-07-27 16:43 ICT)
 
 ### Kết quả crawl: **294/2026/NĐ-CP STUB — chưa hoàn thiện**
