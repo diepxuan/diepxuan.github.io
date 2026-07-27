@@ -62,14 +62,16 @@ ___________________   Căn cứ Luật Giáo dục số 43/2019/QH14 được s�
 
 Theo đề nghị của Cục trưởng Cục Quản lý chất lượng, Vụ trưởng Vụ Giáo dục Mầm non, Vụ trưởng Vụ Giáo dục Phổ thông, Cục trưởng Cục Giáo dục nghề nghiệp và Giáo dục thường xuyên;
 Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư quy định về bảo đảm chất lượng giáo dục đối với cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục thường xuyên; công nhận đạt chuẩn quốc gia đối với trường mầm non và trường phổ thông.
-Chương I QUY ĐỊNH CHUNG
-Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+## Chương I
+
+QUY ĐỊNH CHUNG
+### Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
 1. Thông tư này quy định:
 a) Về bảo đảm chất lượng giáo dục đối với cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông và cơ sở giáo dục thường xuyên, bao gồm: mục tiêu, nguyên tắc, nội dung bảo đảm chất lượng giáo dục; tiêu chuẩn, tiêu chí, tiêu chí bắt buộc, mức thực hiện hoạt động bảo đảm chất lượng giáo dục; hoạt động tự đánh giá, cải tiến chất lượng; sử dụng kết quả tự đánh giá và dữ liệu phục vụ theo dõi và cải tiến chất lượng;
 b) Về yêu cầu, căn cứ, thẩm quyền, hoạt động thẩm định, công nhận, nâng mức độ, theo dõi việc duy trì và thu hồi công nhận đạt chuẩn quốc gia.
 2. Thông tư này áp dụng đối với cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục thường xuyên thuộc hệ thống giáo dục quốc dân, bao gồm cơ sở giáo dục công lập và tư thục; cơ quan, tổ chức, cá nhân có liên quan.
 3. Công nhận đạt chuẩn quốc gia theo Thông tư này áp dụng đối với trường mầm non, trường mẫu giáo, nhà trẻ (sau đây gọi chung là trường mầm non); trường tiểu học, trường trung học cơ sở, trường trung học phổ thông và trường phổ thông có nhiều cấp học thuộc hệ thống giáo dục quốc dân, bao gồm trường công lập và trường tư thục (sau đây gọi chung là trường phổ thông).
-Điều 2. Giải thích từ ngữTrong Thông tư này, những từ ngữ dưới đây được hiểu như sau:
+### Điều 2. Giải thích từ ngữTrong Thông tư này, những từ ngữ dưới đây được hiểu như sau:
 1. Chất lượng giáo dục là mức độ đáp ứng mục tiêu giáo dục của cơ sở giáo dục thông qua các điều kiện bảo đảm chất lượng, quá trình tổ chức hoạt động giáo dục và kết quả giáo dục của người học.
 2. Bảo đảm chất lượng giáo dục là quá trình nội bộ được cơ sở giáo dục thực hiện thường xuyên, liên tục thông qua hoạt động quản trị, tổ chức hoạt động giáo dục và cải tiến chất lượng nhằm bảo đảm đạt mục tiêu giáo dục.
 3. Công nhận đạt chuẩn quốc gia là việc cơ quan có thẩm quyền xác nhận trường mầm non hoặc trường phổ thông đáp ứng yêu cầu bảo đảm chất lượng giáo dục và đạt mức chuẩn quốc gia theo quy định.
@@ -80,19 +82,19 @@ b) Về yêu cầu, căn cứ, thẩm quyền, hoạt động thẩm định, c�
 8. Minh chứng trong bảo đảm chất lượng giáo dục là tài liệu, hồ sơ, văn bản, sản phẩm hoặc kết quả hoạt động được thu thập, lưu trữ và sử dụng để chứng minh việc thực hiện các yêu cầu của tiêu chuẩn, tiêu chí; phục vụ đánh giá, giải trình và cải tiến chất lượng giáo dục.
 9. Người học là cá nhân đang tham gia học tập, rèn luyện trong cơ sở giáo dục, bao gồm trẻ em, học sinh, học viên theo quy định của pháp luật về giáo dục.
 10. Văn hóa chất lượng là nhận thức, trách nhiệm và cách thức phối hợp của các thành viên trong cơ sở giáo dục trong việc thực hiện, theo dõi và cải tiến chất lượng giáo dục nhằm nâng cao chất lượng giáo dục và sự tiến bộ của người học.
-Điều 3. Mục tiêu của bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia
+### Điều 3. Mục tiêu của bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia
 1. Bảo đảm chất lượng giáo dục nhằm giúp cơ sở giáo dục duy trì và từng bước nâng cao chất lượng giáo dục thông qua hoạt động tự đánh giá, thực hiện kế hoạch cải tiến chất lượng và sử dụng kết quả đánh giá trong quản lý, tổ chức các hoạt động giáo dục.
 2. Công nhận trường đạt chuẩn quốc gia nhằm ghi nhận mức độ đáp ứng yêu cầu về chất lượng giáo dục và điều kiện bảo đảm chất lượng của trường mầm non và trường phổ thông theo quy định; tạo động lực nâng cao chất lượng giáo dục, tăng cường trách nhiệm giải trình và tính minh bạch trong hoạt động giáo dục.
 3. Kết quả bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia là căn cứ để cơ quan quản lý nhà nước đánh giá thực trạng chất lượng giáo dục, hoạch định chính sách, phân bổ nguồn lực, quy hoạch mạng lưới cơ sở giáo dục và triển khai các chính sách phát triển giáo dục phù hợp với yêu cầu phát triển kinh tế - xã hội.
 4. Khuyến khích cơ sở giáo dục sau khi đạt chuẩn quốc gia tiếp tục cải tiến, đối sánh và phát triển chất lượng theo các chuẩn, mô hình hoặc thông lệ tiên tiến trong nước, khu vực và quốc tế phù hợp với điều kiện và mục tiêu phát triển của cơ sở giáo dục.
 5. Việc tổ chức thực hiện bảo đảm chất lượng giáo dục và xác định mức độ đáp ứng tiêu chí được thực hiện trên cơ sở hồ sơ quản lý, dữ liệu phục vụ theo dõi và cải tiến chất lượng, thông tin minh chứng và kết quả thực tiễn tổ chức hoạt động giáo dục.
-Điều 4. Nguyên tắc thực hiện bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia
+### Điều 4. Nguyên tắc thực hiện bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia
 1. Thực hiện theo chu trình cải tiến liên tục, bao gồm việc lập kế hoạch, tổ chức thực hiện, đánh giá và cải tiến chất lượng; bảo đảm tính thường xuyên trong hoạt động quản lý và nâng cao chất lượng giáo dục.
 2. Bảo đảm trung thực, công khai, phản ánh đúng thực trạng chất lượng của cơ sở giáo dục.
 3. Hoạt động bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia được thực hiện trên cơ sở kết quả tự đánh giá, hoạt động đánh giá, kiểm tra và dữ liệu, minh chứng liên quan.
 4. Bảo đảm sự tham gia của các bên liên quan; phù hợp với điều kiện thực tế, đặc điểm vùng miền, loại hình cơ sở giáo dục và quy định pháp luật.
 5. Ưu tiên sử dụng dữ liệu, hồ sơ điện tử, thông tin trên cơ sở dữ liệu ngành và hệ thống quản lý của cơ sở giáo dục trong hoạt động bảo đảm chất lượng giáo dục; không yêu cầu cung cấp lại hồ sơ, minh chứng đã có trong cơ sở dữ liệu ngành hoặc hệ thống quản lý của cơ sở giáo dục, trừ trường hợp cần cập nhật, bổ sung hoặc xác minh; từng bước xây dựng, cập nhật và khai thác dữ liệu phục vụ theo dõi, cải tiến chất lượng giáo dục và công nhận đạt chuẩn quốc gia.
-Điều 5. Cấu trúc bộ tiêu chuẩn và mức thực hiện hoạt động bảo đảm chất lượng giáo dục
+### Điều 5. Cấu trúc bộ tiêu chuẩn và mức thực hiện hoạt động bảo đảm chất lượng giáo dục
 1. Cấu trúc bộ tiêu chuẩn
 a) Bộ tiêu chuẩn bảo đảm chất lượng giáo dục gồm 04 tiêu chuẩn và 15 tiêu chí, trong đó có các tiêu chí bắt buộc là các tiêu chí cơ sở giáo dục phải đáp ứng khi xác định mức thực hiện hoạt động bảo đảm chất lượng giáo dục và khi xem xét công nhận đạt chuẩn quốc gia theo quy định tại Thông tư này, gồm: Tiêu chí 1.3, Tiêu chí 1.4 thuộc Tiêu chuẩn 1; Tiêu chí 2.1, Tiêu chí 2.2 thuộc Tiêu chuẩn 2; Tiêu chí 3.1, Tiêu chí 3.2 thuộc Tiêu chuẩn 3; Tiêu chí 4.1, Tiêu chí 4.2 thuộc Tiêu chuẩn 4;
 b) Nội dung, yêu cầu của các tiêu chuẩn, tiêu chí đối với cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông và cơ sở giáo dục thường xuyên được quy định tại các Phụ lục I, Phụ lục II và Phụ lục III ban hành kèm theo Thông tư này.
@@ -109,7 +111,7 @@ e) Việc xác định mức thực hiện hoạt động bảo đảm chất l�
 4. Dữ liệu phục vụ theo dõi và cải tiến chất lượng
 a) Dữ liệu phục vụ theo dõi và cải tiến chất lượng được sử dụng để theo dõi, phân tích, cảnh báo và hỗ trợ cải tiến chất lượng giáo dục; đồng thời hỗ trợ cơ quan quản lý nhà nước trong quản lý, giám sát và hoạch định chính sách giáo dục;
 b) Việc sử dụng dữ liệu phục vụ theo dõi và cải tiến chất lượng được thực hiện theo các phụ lục ban hành kèm theo Thông tư này.
-Điều 6. Sử dụng kết quả tự đánh giá và dữ liệu phục vụ theo dõi, cải tiến chất lượng
+### Điều 6. Sử dụng kết quả tự đánh giá và dữ liệu phục vụ theo dõi, cải tiến chất lượng
 1. Đối với cơ sở giáo dục
 a) Sử dụng bộ tiêu chuẩn, tiêu chí, thông tin minh chứng và dữ liệu phục vụ theo dõi, cải tiến chất lượng để tự đánh giá, phân tích thực trạng, xác định điểm mạnh, hạn chế và nguyên nhân; trên cơ sở đó xây dựng, tổ chức thực hiện, theo dõi, đánh giá và điều chỉnh kế hoạch cải tiến chất lượng giáo dục theo mục tiêu phát triển của cơ sở giáo dục;
 b) Sử dụng kết quả tự đánh giá làm căn cứ để quyết định hoặc đề xuất theo thẩm quyền việc điều chỉnh tổ chức và hoạt động giáo dục, phát triển đội ngũ, đầu tư và sử dụng các điều kiện bảo đảm chất lượng giáo dục;
@@ -118,14 +120,16 @@ c) Thực hiện công khai về chất lượng giáo dục theo quy định; c
 a) Ủy ban nhân dân các cấp theo phân cấp quản lý căn cứ kết quả tự đánh giá, thông tin minh chứng và dữ liệu phục vụ theo dõi, cải tiến chất lượng của các cơ sở giáo dục thuộc phạm vi quản lý để xây dựng và tổ chức thực hiện kế hoạch phát triển giáo dục; bố trí, huy động nguồn lực và bảo đảm các điều kiện thực hiện hoạt động bảo đảm chất lượng giáo dục theo thẩm quyền và quy định của pháp luật;
 b) Sở Giáo dục và Đào tạo căn cứ kết quả tự đánh giá, thông tin minh chứng và dữ liệu phục vụ theo dõi, cải tiến chất lượng của các cơ sở giáo dục thuộc phạm vi quản lý để tham mưu với Ủy ban nhân dân cấp tỉnh trong việc hoạch định chính sách, phân bổ nguồn lực và thực hiện các biện pháp nâng cao chất lượng giáo dục;
 c) Sở Giáo dục và Đào tạo sử dụng kết quả tự đánh giá, thông tin minh chứng, dữ liệu phục vụ theo dõi, cải tiến chất lượng và kết quả kiểm tra, giám sát để xem xét, thẩm định việc đáp ứng yêu cầu công nhận đạt chuẩn quốc gia đối với trường mầm non, trường tiểu học, trường trung học cơ sở, trường trung học phổ thông và trường phổ thông có nhiều cấp học theo quy định tại Thông tư này.
-Chương II HOẠT ĐỘNG BẢO ĐẢM CHẤT LƯỢNG GIÁO DỤC TẠI CƠ SỞ GIÁO DỤC
-Điều 7. Nội dung bảo đảm chất lượng giáo dụcCơ sở giáo dục thực hiện bảo đảm chất lượng giáo dục theo các lĩnh vực chủ yếu của hoạt động bảo đảm chất lượng giáo dục sau đây:
+## Chương II
+
+HOẠT ĐỘNG BẢO ĐẢM CHẤT LƯỢNG GIÁO DỤC TẠI CƠ SỞ GIÁO DỤC
+### Điều 7. Nội dung bảo đảm chất lượng giáo dụcCơ sở giáo dục thực hiện bảo đảm chất lượng giáo dục theo các lĩnh vực chủ yếu của hoạt động bảo đảm chất lượng giáo dục sau đây:
 1. Quản trị cơ sở giáo dục và tổ chức thực hiện hoạt động bảo đảm chất lượng giáo dục.
 2. Phát triển đội ngũ cán bộ quản lý cơ sở giáo dục, giáo viên và nhân sự hỗ trợ.
 3. Thực hiện chương trình giáo dục, đổi mới phương pháp giáo dục, hỗ trợ người học và nâng cao chất lượng giáo dục.
 4. Bảo đảm các điều kiện giáo dục, môi trường giáo dục an toàn, lành mạnh và tăng cường sự phối hợp với gia đình, cộng đồng và tổ chức liên quan.
-Điều 8. Hoạt động tự đánh giá của cơ sở giáo dục
-1. Cơ sở giáo dục thực hiện tự đánh giá trên cơ sở bộ tiêu chuẩn bảo đảm chất lượng giáo dục quy định tại Chương I II Thông tư này nhằm rà soát hiện trạng, xác định mức thực hiện hoạt động bảo đảm chất lượng giáo dục, theo dõi kết quả cải tiến và xây dựng kế hoạch nâng cao chất lượng giáo dục. Hoạt động tự đánh giá được thực hiện thường xuyên, gắn với hoạt động quản trị, tổ chức hoạt động giáo dục và cải tiến chất lượng của cơ sở giáo dục.
+### Điều 8. Hoạt động tự đánh giá của cơ sở giáo dục
+1. Cơ sở giáo dục thực hiện tự đánh giá trên cơ sở bộ tiêu chuẩn bảo đảm chất lượng giáo dục quy định tại Chương III Thông tư này nhằm rà soát hiện trạng, xác định mức thực hiện hoạt động bảo đảm chất lượng giáo dục, theo dõi kết quả cải tiến và xây dựng kế hoạch nâng cao chất lượng giáo dục. Hoạt động tự đánh giá được thực hiện thường xuyên, gắn với hoạt động quản trị, tổ chức hoạt động giáo dục và cải tiến chất lượng của cơ sở giáo dục.
 2. Hoạt động tự đánh giá phải bảo đảm tính trung thực, khách quan, có trách nhiệm giải trình; ưu tiên khai thác, sử dụng thông tin, dữ liệu, hồ sơ điện tử và minh chứng sẵn có trong cơ sở dữ liệu ngành, hệ thống quản lý của cơ sở giáo dục; hạn chế yêu cầu lập mới hồ sơ, minh chứng trùng lặp.
 3. Hoạt động tự đánh giá gồm các nội dung chủ yếu sau:
 a) Thành lập Hội đồng tự đánh giá;
@@ -137,7 +141,7 @@ d) Xây dựng, thực hiện, theo dõi và điều chỉnh kế hoạch cải 
 5. Việc cập nhật báo cáo tự đánh giá hằng năm được thực hiện thông qua việc bổ sung, cập nhật các thay đổi về dữ liệu, kết quả thực hiện kế hoạch cải tiến chất lượng và các minh chứng liên quan; không yêu cầu lập lại toàn bộ báo cáo tự đánh giá.
 6. Minh chứng phục vụ tự đánh giá được quản lý, lưu trữ chủ yếu trên môi trường điện tử; một minh chứng có thể được sử dụng để đánh giá nhiều tiêu chí nếu phù hợp về nội dung và còn giá trị sử dụng. Cơ sở giáo dục không phải lập lại hồ sơ, minh chứng đã có trong cơ sở dữ liệu ngành hoặc hệ thống quản lý của cơ sở giáo dục, trừ trường hợp cần cập nhật, bổ sung hoặc xác minh thông tin (Phụ lục IV).
 7. Người đứng đầu cơ sở giáo dục chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của thông tin, dữ liệu, báo cáo tự đánh giá và minh chứng đã cung cấp.
-Điều 9. Hội đồng tự đánh giá cơ sở giáo dục
+### Điều 9. Hội đồng tự đánh giá cơ sở giáo dục
 1. Người đứng đầu cơ sở giáo dục ra quyết định thành lập hội đồng tự đánh giá. Hội đồng tự đánh giá có số lượng là số lẻ, từ 05 (năm) thành viên trở lên, phù hợp với loại hình, quy mô và điều kiện thực tế của cơ sở giáo dục.
 2. Hội đồng tự đánh giá gồm Chủ tịch, Phó Chủ tịch, Thư ký và các ủy viên là đại diện lãnh đạo cơ sở giáo dục, tổ văn phòng, tổ chuyên môn, giáo viên của cơ sở giáo dục, ưu tiên người đã được tham gia tập huấn, bồi dưỡng về công tác bảo đảm chất lượng giáo dục do Sở Giáo dục và Đào tạo hoặc cơ sở giáo dục tổ chức; đại diện cha mẹ người học và đại diện tổ chức, cá nhân khác có liên quan khi cần thiết.
 3. Hội đồng tự đánh giá có nhiệm vụ:
@@ -149,7 +153,7 @@ d) Thông qua báo cáo tự đánh giá để trình người đứng đầu c�
 a) Yêu cầu các bộ phận cung cấp thông tin, minh chứng phục vụ tự đánh giá;
 b) Đề nghị người đứng đầu cơ sở giáo dục bảo đảm các yêu cầu thực hiện tự đánh giá.
 5. Thành viên hội đồng tự đánh giá được hưởng chế độ theo quy định hiện hành.
-Điều 10. Thực hiện cải tiến chất lượng sau tự đánh giá
+### Điều 10. Thực hiện cải tiến chất lượng sau tự đánh giá
 1. Trên cơ sở kết quả tự đánh giá, người đứng đầu cơ sở giáo dục tổ chức xây dựng, phê duyệt và thực hiện kế hoạch cải tiến chất lượng giáo dục hằng năm.
 2. Kế hoạch cải tiến chất lượng giáo dục phải xác định các vấn đề cần cải tiến, mục tiêu, giải pháp thực hiện, thời gian thực hiện, trách nhiệm của các cá nhân, bộ phận có liên quan và kết quả dự kiến đạt được (Biểu 2, Phụ lục V).
 3. Việc thực hiện kế hoạch cải tiến chất lượng được hội đồng tự đánh giá theo dõi, đánh giá định kỳ và đề xuất điều chỉnh khi cần thiết.
@@ -157,35 +161,39 @@ b) Đề nghị người đứng đầu cơ sở giáo dục bảo đảm các y
 5. Đối với trường phổ thông có nhiều cấp học, việc xây dựng và thực hiện kế hoạch cải tiến chất lượng giáo dục được thực hiện phù hợp với kết quả đánh giá của từng cấp học.
 6. Đối với cơ sở giáo dục không đạt Mức 1 theo quy định tại Thông tư này, cơ sở giáo dục và cơ quan quản lý giáo dục trực tiếp rà soát nguyên nhân, xây dựng và tổ chức thực hiện kế hoạch cải tiến chất lượng giáo dục phù hợp với điều kiện thực tế và lộ trình phát triển giáo dục của địa phương.
 7. Kế hoạch cải tiến chất lượng giáo dục và kết quả thực hiện được công khai theo quy định nhằm bảo đảm trách nhiệm giải trình của cơ sở giáo dục.
-Chương III TIÊU CHUẨN, TIÊU CHÍ VÀ XÁC ĐỊNH MỨC THỰC HIỆN BẢO ĐẢM CHẤT LƯỢNG GIÁO DỤC
-Điều 11. Tiêu chuẩn 1: Quản trị nhà trường và bảo đảm chất lượng
+## Chương III
+
+TIÊU CHUẨN, TIÊU CHÍ VÀ XÁC ĐỊNH MỨC THỰC HIỆN BẢO ĐẢM CHẤT LƯỢNG GIÁO DỤC
+### Điều 11. Tiêu chuẩn 1: Quản trị nhà trường và bảo đảm chất lượng
 1. Tiêu chí 1.1. Tầm nhìn, sứ mạng/mục tiêu và kế hoạch phát triển.
 2. Tiêu chí 1.2. Cơ cấu tổ chức, phân công nhiệm vụ và phối hợp nội bộ.
 3. Tiêu chí 1.3. Quản lý kế hoạch, nguồn lực, thông tin và dữ liệu.
 4. Tiêu chí 1.4. Tự đánh giá, cải tiến chất lượng, công khai và trách nhiệm giải trình.
-Điều 12. Tiêu chuẩn 2: Phát triển đội ngũ
+### Điều 12. Tiêu chuẩn 2: Phát triển đội ngũ
 1. Tiêu chí 2.1. Cán bộ quản lý cơ sở giáo dục.
 2. Tiêu chí 2.2. Giáo viên.
 3. Tiêu chí 2.3. Nhân sự hỗ trợ giáo dục.
-Điều 13. Tiêu chuẩn 3: Thực hiện chương trình, đổi mới phương pháp giáo dục và phát triển người học
+### Điều 13. Tiêu chuẩn 3: Thực hiện chương trình, đổi mới phương pháp giáo dục và phát triển người học
 1. Tiêu chí 3.1. Tổ chức thực hiện chương trình giáo dục.
 2. Tiêu chí 3.2. Đổi mới phương pháp giáo dục/chăm sóc và theo dõi, đánh giá sự phát triển, tiến bộ của người học.
 3. Tiêu chí 3.3. Tổ chức hoạt động giáo dục và phát triển toàn diện.
 4. Tiêu chí 3.4. Quản lý, theo dõi, hỗ trợ người học và giáo dục hòa nhập.
 5. Tiêu chí 3.5. Kết quả học tập, phát triển, rèn luyện và sự tiến bộ của người học.
-Điều 14. Tiêu chuẩn 4: Điều kiện giáo dục, môi trường an toàn và phối hợp xã hội
+### Điều 14. Tiêu chuẩn 4: Điều kiện giáo dục, môi trường an toàn và phối hợp xã hội
 1. Tiêu chí 4.1. Cơ sở vật chất, thiết bị, học liệu và hạ tầng kỹ thuật phục vụ hoạt động giáo dục.
 2. Tiêu chí 4.2. Môi trường giáo dục an toàn, sức khỏe và hạnh phúc.
 3. Tiêu chí 4.3. Phối hợp với gia đình, cộng đồng và tổ chức liên quan.
-Điều 15. Xác định mức thực hiện hoạt động bảo đảm chất lượng giáo dục đối với cơ sở giáo dục
+### Điều 15. Xác định mức thực hiện hoạt động bảo đảm chất lượng giáo dục đối với cơ sở giáo dục
 1. Nội dung tự đánh giá đối với cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông và cơ sở giáo dục thường xuyên được quy định tương ứng theo đối tượng tại các phụ lục (Phụ lục I, Phụ lục II, Phụ lục III) ban hành kèm theo Thông tư này.
 2. Mức thực hiện hoạt động bảo đảm chất lượng giáo dục của trường phổ thông có nhiều cấp học được xác định trên cơ sở mức thực hiện của từng cấp học, cụ thể như sau:
 a) Không đạt khi có cấp học không đạt Mức 1;
 b) Đạt Mức 1 khi tất cả các cấp học đạt Mức 1;
 c) Đạt Mức 2 khi tất cả các cấp học đạt Mức 2;
 d) Trường hợp các cấp học có mức thực hiện khác nhau thì mức thực hiện hoạt động bảo đảm chất lượng giáo dục của trường phổ thông có nhiều cấp học được xác định theo mức thấp nhất của cấp học trong trường.
-Chương IV CÔNG NHẬN TRƯỜNG ĐẠT CHUẨN QUỐC GIA
-Điều 16. Yêu cầu và mức độ công nhận trường đạt chuẩn quốc gia
+## Chương IV
+
+CÔNG NHẬN TRƯỜNG ĐẠT CHUẨN QUỐC GIA
+### Điều 16. Yêu cầu và mức độ công nhận trường đạt chuẩn quốc gia
 1. Trường được xem xét công nhận đạt chuẩn quốc gia khi đáp ứng đồng thời các yêu cầu sau:
 a) Có ít nhất một khóa trẻ em hoàn thành chương trình giáo dục ở độ tuổi cao nhất mà trường tổ chức hoặc một khóa học sinh hoàn thành chương trình cấp học tương ứng; đối với trường phổ thông có nhiều cấp học, có ít nhất một khóa học sinh hoàn thành chương trình của cấp học cao nhất;
 b) Có dữ liệu tự đánh giá, kết quả thực hiện kế hoạch cải tiến chất lượng và dữ liệu phục vụ theo dõi, cải tiến chất lượng của ít nhất 03 năm học liên tiếp trước thời điểm xem xét công nhận; đối với trường được thành lập trên cơ sở sáp nhập, hợp nhất, chia, tách hoặc thay đổi cấu trúc cấp học, dữ liệu được xác định trên cơ sở dữ liệu của trường sau tổ chức lại và dữ liệu được kế thừa theo quy định tại khoản 5 Điều 27 của Thông tư này;
@@ -194,7 +202,7 @@ d) Đáp ứng các yêu cầu về cơ sở vật chất, thiết bị dạy h�
 2. Mức độ công nhận trường đạt chuẩn quốc gia được xác định như sau:
 a) Mức độ 1: trường đạt Mức 1 về thực hiện hoạt động bảo đảm chất lượng giáo dục và đáp ứng các yêu cầu quy định tại khoản 1 Điều này;
 b) Mức độ 2: trường đạt Mức 2 về thực hiện hoạt động bảo đảm chất lượng giáo dục và đáp ứng các yêu cầu quy định tại khoản 1 Điều này.
-Điều 17. Tổ chức xem xét công nhận trường đạt chuẩn quốc gia
+### Điều 17. Tổ chức xem xét công nhận trường đạt chuẩn quốc gia
 1. Việc xem xét công nhận trường đạt chuẩn quốc gia được thực hiện trên cơ sở:
 a) Kế hoạch phát triển giáo dục của địa phương, chỉ tiêu trường đạt chuẩn quốc gia và yêu cầu quản lý nhà nước về giáo dục trong từng giai đoạn;
 b) Kết quả tự đánh giá và mức thực hiện hoạt động bảo đảm chất lượng giáo dục của cơ sở giáo dục theo quy định tại Thông tư này;
@@ -217,7 +225,7 @@ b) Trường hợp thông tin, dữ liệu chưa đầy đủ hoặc cần đố
 c) Làm việc theo nguyên tắc tập thể, quyết định theo đa số; cuộc họp hợp lệ khi có ít nhất hai phần ba số thành viên tham dự trực tiếp hoặc kết hợp trực tiếp với trực tuyến;
 d) Lập biên bản họp Hội đồng thẩm định, trong đó thể hiện kết quả thẩm định và mức độ công nhận được đề xuất để làm căn cứ để Giám đốc Sở Giáo dục và Đào tạo xem xét công nhận trường đạt chuẩn quốc gia.
 8. Thành viên hội đồng thẩm định được hưởng chế độ theo quy định hiện hành.
-Điều 18. Nội dung và quy trình thẩm định
+### Điều 18. Nội dung và quy trình thẩm định
 1. Hội đồng thẩm định nghiên cứu kết quả tự đánh giá, kết quả thực hiện kế hoạch cải tiến chất lượng, dữ liệu và thông tin của cơ sở giáo dục trong các năm học trước thời điểm xem xét công nhận; sử dụng dữ liệu của ít nhất 03 năm học liên tiếp theo quy định tại điểm b khoản 1 Điều 16 của Thông tư này; đồng thời khai thác dữ liệu quản lý của ngành giáo dục, dữ liệu của địa phương, thông tin công khai và các tài liệu liên quan để đánh giá mức thực hiện hoạt động bảo đảm chất lượng giáo dục và việc đáp ứng các yêu cầu công nhận trường đạt chuẩn quốc gia theo quy định tại Thông tư này.
 2. Trong quá trình thẩm định, trường hợp thông tin, dữ liệu chưa đầy đủ hoặc có nội dung cần đối chiếu, hội đồng thẩm định thực hiện một hoặc các biện pháp sau đây:
 a) Khai thác, sử dụng dữ liệu quản lý của ngành giáo dục, dữ liệu của địa phương, thông tin công khai của cơ sở giáo dục và hồ sơ quản lý hiện có;
@@ -226,12 +234,13 @@ c) Xác minh thực tế tại cơ sở giáo dục khi cần thiết.
 3. Thành viên hội đồng nghiên cứu hồ sơ, dữ liệu, thông tin, minh chứng có liên quan và lập phiếu ý kiến theo Biểu 3, Phụ lục V ban hành kèm theo Thông tư này. Hội đồng tổ chức họp để xem xét, thảo luận và thống nhất kết quả thẩm định trên cơ sở mức thực hiện hoạt động bảo đảm chất lượng giáo dục, các yêu cầu công nhận trường đạt chuẩn quốc gia và ý kiến của các thành viên hội đồng. Cuộc họp do Chủ tịch Hội đồng hoặc Phó Chủ tịch được ủy quyền chủ trì và được tổ chức theo hình thức trực tiếp hoặc kết hợp trực tiếp với trực tuyến.
 4. Hội đồng thảo luận, thống nhất kết quả thẩm định theo nguyên tắc tập thể và quyết định theo đa số. Thư ký Hội đồng hoàn thiện biên bản họp theo Biểu 5, Phụ lục V ban hành kèm theo Thông tư này, trong đó nêu rõ việc đáp ứng yêu cầu công nhận và mức độ công nhận trường đạt chuẩn quốc gia được đề xuất, trình Giám đốc Sở Giáo dục và Đào tạo xem xét, quyết định.
 5. Kết quả thẩm định được thông báo đến cơ sở giáo dục và công khai trên trang thông tin điện tử của Sở Giáo dục và Đào tạo theo Biểu 4, Phụ lục V ban hành kèm theo Thông tư này.
-Điều 19. Công nhận và cấp Bằng công nhận trường đạt chuẩn quốc gia
+### Điều 19. Công nhận và cấp Bằng công nhận trường đạt chuẩn quốc gia
+
 1. Trong thời hạn 10 ngày làm việc kể từ ngày hội đồng thẩm định thông qua biên bản họp, Giám đốc Sở Giáo dục và Đào tạo ra quyết định công nhận trường đạt chuẩn quốc gia và cấp Bằng công nhận đối với trường đáp ứng yêu cầu công nhận theo Biểu 6, Phụ lục V ban hành kèm theo Thông tư này.
 2. Bằng công nhận trường đạt chuẩn quốc gia có giá trị 05 năm kể từ ngày ký quyết định. Kết quả công nhận trường đạt chuẩn quốc gia được công bố công khai trên trang thông tin điện tử của Sở Giáo dục và Đào tạo theo quy định.
 3. Việc xem xét công nhận lại đối với trường có Bằng công nhận đã hết thời hạn được thực hiện theo quy định tại Điều 17, Điều 18 và khoản 1, khoản 2 Điều này.
 4. Đối với trường đã đạt chuẩn quốc gia Mức độ 1, sau ít nhất 02 năm kể từ ngày được công nhận, Sở Giáo dục và Đào tạo có thể tổ chức xem xét công nhận ở Mức độ 2 trên cơ sở kết quả tự đánh giá, kết quả cải tiến chất lượng, dữ liệu theo dõi hoạt động bảo đảm chất lượng giáo dục và kết quả thẩm định theo quy định tại Thông tư này.
-Điều 20. Thu hồi quyết định công nhận trường đạt chuẩn quốc gia
+### Điều 20. Thu hồi quyết định công nhận trường đạt chuẩn quốc gia
 1. Quyết định công nhận trường đạt chuẩn quốc gia bị thu hồi trong các trường hợp sau:
 a) Trường vi phạm pháp luật trong tổ chức và hoạt động giáo dục đến mức bị cơ quan có thẩm quyền ban hành quyết định đình chỉ hoạt động giáo dục;
 b) Trường không còn đáp ứng yêu cầu công nhận trường đạt chuẩn quốc gia theo mức độ đã được công nhận và không khắc phục hoặc khắc phục không đạt yêu cầu trong thời hạn được xác định tại văn bản yêu cầu khắc phục của Sở Giáo dục và Đào tạo;
@@ -239,7 +248,7 @@ c) Trường cung cấp thông tin, dữ liệu, báo cáo hoặc minh chứng k
 2. Việc xác định trường không còn đáp ứng yêu cầu công nhận đạt chuẩn quốc gia được thực hiện trên cơ sở kết quả tự đánh giá hằng năm, dữ liệu theo dõi hoạt động bảo đảm chất lượng giáo dục, kết quả kiểm tra, giám sát, thanh tra hoặc thẩm định của cơ quan quản lý giáo dục.
 3. Trước khi quyết định thu hồi, Sở Giáo dục và Đào tạo thông báo bằng văn bản và yêu cầu trường xây dựng, thực hiện kế hoạch khắc phục trong thời hạn phù hợp với nội dung cần khắc phục, trừ trường hợp quy định tại điểm a và điểm c khoản 1 Điều này.
 4. Căn cứ kết quả kiểm tra, giám sát, thẩm định hoặc kết quả thực hiện kế hoạch khắc phục của trường, Giám đốc Sở Giáo dục và Đào tạo ban hành quyết định thu hồi Quyết định công nhận trường đạt chuẩn quốc gia và Bằng công nhận trường đạt chuẩn quốc gia. Quyết định thu hồi được công bố công khai theo quy định.
-Điều 21. Lưu trữ và quản lý dữ liệu bảo đảm chất lượng giáo dục
+### Điều 21. Lưu trữ và quản lý dữ liệu bảo đảm chất lượng giáo dục
 1. Cơ sở giáo dục quản lý, lưu trữ tài liệu và dữ liệu về hoạt động bảo đảm chất lượng giáo dục theo quy định của pháp luật về lưu trữ; khuyến khích quản lý, lưu trữ trên môi trường điện tử phù hợp với điều kiện thực tế nhằm phục vụ tự đánh giá, theo dõi, cải tiến chất lượng, giải trình và công nhận trường đạt chuẩn quốc gia.
 2. Tài liệu và dữ liệu lưu trữ tại cơ sở giáo dục bao gồm:
 a) Quyết định thành lập hội đồng tự đánh giá;
@@ -256,8 +265,10 @@ d) Quyết định công nhận và Bằng công nhận trường đạt chuẩn
 đ) Tài liệu, dữ liệu liên quan đến việc theo dõi duy trì, nâng mức độ hoặc thu hồi công nhận trường đạt chuẩn quốc gia (nếu có);
 e) Dữ liệu phục vụ theo dõi, cải tiến chất lượng và các thông tin khác phục vụ quản lý nhà nước theo quy định.
 5. Việc quản lý, lưu trữ, khai thác và sử dụng tài liệu, dữ liệu quy định tại Điều này thực hiện theo quy định của pháp luật về lưu trữ, bảo vệ bí mật nhà nước, an toàn thông tin, bảo vệ dữ liệu cá nhân và các quy định pháp luật có liên quan.
-Chương V TRÁCH NHIỆM CỦA CÁC CƠ QUAN, TỔ CHỨC, CÁ NHÂN
-Điều 22. Trách nhiệm của các đơn vị thuộc Bộ Giáo dục và Đào tạo
+## Chương V
+
+TRÁCH NHIỆM CỦA CÁC CƠ QUAN, TỔ CHỨC, CÁ NHÂN
+### Điều 22. Trách nhiệm của các đơn vị thuộc Bộ Giáo dục và Đào tạo
 1. Cục Quản lý chất lượng:
 a) Chủ trì tham mưu cho Bộ Giáo dục và Đào tạo chỉ đạo thực hiện Thông tư này trong phạm vi toàn quốc;
 b) Tổ chức hoặc phối hợp tổ chức tập huấn, bồi dưỡng nâng cao năng lực về bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia cho đội ngũ cán bộ quản lý, công chức phụ trách công tác bảo đảm chất lượng giáo dục của các Sở Giáo dục và Đào tạo và đội ngũ cán bộ quản lý, giáo viên cốt cán;
@@ -265,7 +276,7 @@ c) Kiểm tra, giám sát và tổng hợp, phân tích dữ liệu bảo đảm
 d) Định kỳ hoặc khi cần thiết, tổ chức tổng kết, đánh giá việc thực hiện Thông tư này và đề xuất khen thưởng cho các đơn vị, cá nhân thực hiện tốt công tác bảo đảm chất lượng giáo dục và xây dựng trường đạt chuẩn quốc gia; kiến nghị sửa đổi, bổ sung các quy định nhằm bảo đảm phù hợp với yêu cầu đổi mới quản lý giáo dục;
 đ) Chủ trì xây dựng, quản lý, khai thác và hướng dẫn sử dụng cơ sở dữ liệu phục vụ công tác bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia trên phạm vi toàn quốc.
 2. Các đơn vị thuộc Bộ Giáo dục và Đào tạo phối hợp với Cục Quản lý chất lượng trong việc tham mưu, hướng dẫn, kiểm tra và tổ chức thực hiện nhiệm vụ quản lý nhà nước về bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia theo chức năng, nhiệm vụ được giao.
-Điều 23. Trách nhiệm của Ủy ban nhân dân các cấp
+### Điều 23. Trách nhiệm của Ủy ban nhân dân các cấp
 1. Ủy ban nhân dân cấp tỉnh có trách nhiệm:
 a) Ban hành và chỉ đạo thực hiện kế hoạch về bảo đảm chất lượng giáo dục và xây dựng cơ sở giáo dục đạt chuẩn quốc gia trên địa bàn theo quy định tại Thông tư này và quy định pháp luật có liên quan;
 b) Chỉ đạo Sở Giáo dục và Đào tạo, Ủy ban nhân dân cấp xã và các cơ quan, tổ chức có liên quan bảo đảm nguồn lực, kinh phí và các điều kiện cần thiết theo quy định của pháp luật để cơ sở giáo dục từng bước nâng cao chất lượng giáo dục và đạt chuẩn quốc gia;
@@ -274,7 +285,7 @@ c) Chỉ đạo việc theo dõi, kiểm tra, giám sát và đánh giá kết q
 a) Phối hợp với Sở Giáo dục và Đào tạo, cơ sở giáo dục và các cơ quan, tổ chức có liên quan trong việc rà soát thực trạng, cung cấp thông tin, xác minh điều kiện thực tế phục vụ công tác bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia;
 b) Phối hợp tham mưu cấp có thẩm quyền về quy hoạch, kế hoạch sử dụng đất, đầu tư cơ sở vật chất và các điều kiện cần thiết phục vụ phát triển giáo dục trên địa bàn;
 c) Phối hợp bảo đảm các điều kiện cần thiết để cơ sở giáo dục triển khai hoạt động bảo đảm chất lượng giáo dục và xây dựng trường đạt chuẩn quốc gia theo quy định.
-Điều 24. Trách nhiệm của Sở Giáo dục và Đào tạo
+### Điều 24. Trách nhiệm của Sở Giáo dục và Đào tạo
 1. Tham mưu Ủy ban nhân dân cấp tỉnh xây dựng và tổ chức thực hiện kế hoạch về bảo đảm chất lượng giáo dục và xây dựng trường đạt chuẩn quốc gia trên địa bàn.
 2. Chủ trì rà soát thực trạng, xác định danh sách cơ sở giáo dục được xem xét công nhận trường đạt chuẩn quốc gia hằng năm trên cơ sở kế hoạch phát triển giáo dục của địa phương, chỉ tiêu trường đạt chuẩn quốc gia, kết quả tự đánh giá, dữ liệu phục vụ theo dõi, cải tiến chất lượng và điều kiện thực tế của cơ sở giáo dục.
 3. Tổ chức thẩm định, công nhận, nâng mức độ, theo dõi việc duy trì và thu hồi công nhận trường đạt chuẩn quốc gia theo quy định tại Thông tư này.
@@ -283,18 +294,20 @@ c) Phối hợp bảo đảm các điều kiện cần thiết để cơ sở gi
 6. Xây dựng và thực hiện kế hoạch kiểm tra, giám sát việc thực hiện quy định về bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia.
 7. Giải quyết khiếu nại, tố cáo (nếu có) theo quy định của pháp luật; đồng thời báo cáo kết quả xử lý về Bộ Giáo dục và Đào tạo (qua Cục Quản lý chất lượng) và Ủy ban nhân dân cấp tỉnh.
 8. Hằng năm, tổ chức đánh giá việc thực hiện Thông tư này; đề xuất khen thưởng theo quy định đối với các đơn vị, cá nhân có thành tích trong công tác bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia. Báo cáo kết quả thực hiện công tác bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia về Ủy ban nhân dân cấp tỉnh và Bộ Giáo dục và Đào tạo trước ngày 30 tháng 6 hằng năm (Biểu 7, Phụ lục V).
-Điều 25. Trách nhiệm của cơ sở giáo dục
+### Điều 25. Trách nhiệm của cơ sở giáo dục
 1. Cơ sở giáo dục phân công trách nhiệm và tổ chức thực hiện hoạt động bảo đảm chất lượng giáo dục; xây dựng và triển khai kế hoạch phát triển trung hạn, dài hạn nhằm nâng cao chất lượng giáo dục, đáp ứng các yêu cầu về bảo đảm chất lượng giáo dục và yêu cầu công nhận trường đạt chuẩn quốc gia đối với cơ sở giáo dục thuộc phạm vi công nhận đạt chuẩn quốc gia theo quy định.
 2. Hằng năm, tổ chức tự đánh giá theo tiêu chuẩn; xây dựng, thực hiện và theo dõi kế hoạch cải tiến chất lượng nhằm duy trì và nâng cao chất lượng giáo dục.
 3. Thực hiện duy trì, cải tiến và nâng cao chất lượng giáo dục; rà soát, cập nhật thông tin, dữ liệu phục vụ hoạt động bảo đảm chất lượng giáo dục và công nhận trường đạt chuẩn quốc gia theo quy định.
 4. Thực hiện báo cáo kết quả tự đánh giá và cải tiến chất lượng giáo dục; triển khai chuyển đổi số phù hợp với điều kiện thực tế, quản lý và lưu trữ đầy đủ hồ sơ, dữ liệu, minh chứng bảo đảm tính chính xác, khả năng truy xuất và phục vụ công tác quản lý, kiểm tra, giám sát.
 5. Chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của các thông tin, dữ liệu, báo cáo và minh chứng đã cung cấp.
-Chương VI ĐIỀU KHOẢN THI HÀNH
-Điều 26. Hiệu lực thi hành
+## Chương VI
+
+ĐIỀU KHOẢN THI HÀNH
+### Điều 26. Hiệu lực thi hành
 1. Thông tư này có hiệu lực thi hành kể từ ngày 07 tháng 07 năm 2026.
 2. Thông tư này bãi bỏ Thông tư số 19/2018/TT-BGDĐT; Thông tư số 17/2018/TT-BGDĐT; Thông tư số 18/2018/TT-BGDĐT; Thông tư số 22/2024/TT-BGDĐT và Thông tư số 42/2012/TT-BGDĐT của Bộ trưởng Bộ Giáo dục và Đào tạo.
 3. Chánh Văn phòng, Cục trưởng Cục Quản lý chất lượng, thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Giám đốc Sở Giáo dục và Đào tạo, người đứng đầu các cơ sở giáo dục và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
-Điều 27. Điều khoản chuyển tiếp
+### Điều 27. Điều khoản chuyển tiếp
 1. Các trường thuộc đối tượng công nhận đạt chuẩn quốc gia theo quy định tại khoản 3 Điều 1 của Thông tư này đã được cơ quan có thẩm quyền thông báo chấp nhận hồ sơ đăng ký đánh giá ngoài để công nhận trường đạt chuẩn quốc gia trước ngày Thông tư này có hiệu lực thi hành thì tiếp tục thực hiện các bước còn lại của quy trình công nhận trường đạt chuẩn quốc gia cho đến khi hoàn thành quy trình theo quy định tại Thông tư số 17/2018/TT-BGDĐT, Thông tư số 18/2018/TT-BGDĐT, Thông tư số 19/2018/TT-BGDĐT và Thông tư số 22/2024/TT-BGDĐT.
 2. Bằng công nhận đạt chuẩn quốc gia đối với trường mầm non, trường phổ thông được cấp trước ngày Thông tư này có hiệu lực thi hành tiếp tục có giá trị đến hết thời hạn ghi trên Bằng công nhận.
 3. Cơ sở giáo dục thực hiện rà soát, cập nhật thông tin, dữ liệu, kết quả tự đánh giá và kết quả cải tiến chất lượng giáo dục của các năm học trước để phục vụ hoạt động tự đánh giá, theo dõi, thẩm định và xem xét công nhận trường đạt chuẩn quốc gia theo quy định.
