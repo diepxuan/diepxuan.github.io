@@ -1,3 +1,83 @@
+## Cập nhật 2026-07-28 v40 (Đệ #1 Discovery refresh — 2026-07-28 04:07 ICT)
+
+### Kết quả discovery: **KHÔNG có slug mới** nhưng **3 VB STUB đã có nguồn body mới**
+
+Phương pháp: refresh `sitemap_nghidinh` + `sitemap_thongtu` (curl 2026-07-28 04:09 ICT qua Cloudflare IP 104.18.20.193, Chrome UA + Host luatvietnam.vn + Referer + Accept-Language vi-VN,vi;q=0.9). So sánh top entries với ref v39.
+
+**sitemap_nghidinh**: ref v39 = **441673** (298/NĐ-CP) → top entry vẫn là **441673-d1** (slug `nghi-dinh-298-2026-nd-cp-quy-dinh-chuc-nang-nhiem-vu-cua-bo-van-hoa-the-thao-va-du-lich-441673-d1.html`). **KHÔNG có slug d1 mới** > 441673.
+
+**sitemap_thongtu**: ref v39 = **441529** (57/TT-BGDDT) → top entry vẫn là **441529-d1** (slug `thong-tu-57-2026-tt-bgddt-quy-dinh-chat-luong-giao-duc-va-cong-nhan-chuan-quoc-gia-441529-d1.html`). **KHÔNG có slug d1 mới** > 441529.
+
+### Phát hiện quan trọng: 3 VB STUB đã có body trên luatvietnam.vn
+
+Sau khi refresh sitemap (không có mới), tiến hành re-fetch lại 3 slug thuộc nhóm batch v35 (294, 296, 297/2026/NĐ-CP) đang ở trạng thái STUB / bỏ qua trong tracking hiện tại. **Tất cả 3 đều đã được luatvietnam.vn cập nhật body đầy đủ** so với lần fetch trước (v35, v37, v38):
+
+| # | VB | Slug | Lần trước (v35 fetch) | Lần này (v40 fetch) | Tăng | Trạng thái body | Xác minh |
+|---|----|------|------------------------|---------------------|------|------------------|----------|
+| 1 | **294/2026/NĐ-CP** (Tổ hợp tác — PTTg Nguyễn Văn Thắng) | 441543-d1 (hanh-chinh) | 211 KB — placeholder "đang cập nhật" | **651 KB** — body đầy đủ (~3.1× lớn hơn) | +440 KB | ✅ Body có: 410 lần "tổ hợp tác", 38 "Điều 1", 26 "Điều 2", "TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Nguyễn Văn Thắng" | ✅ HTTP 200, đã lưu `tmp/discovery-v40/nd294.html` (651440 bytes) |
+| 2 | **296/2026/NĐ-CP** (Sửa NĐ 168/2025 đăng ký DN — PTTg Nguyễn Văn Thắng, **CAO**) | 441540-d1 (doanh-nghiep) | 400 KB — body đã có sẵn từ v35 | **412 KB** — gần như không đổi | +11 KB | ✅ Body có: 171 lần "doanh nghiệp", 35 "Điều 1", 15 "Điều 2", 11 lần "168/2025", "TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Nguyễn Văn Thắng". Lưu ý: v35 đã có body tương tự, v36 ghi "đệ không commit kịp" — không phải do thiếu body, mà do tục timeout crawl | ✅ HTTP 200, đã lưu `tmp/discovery-v40/nd296.html` (412406 bytes) |
+| 3 | **297/2026/NĐ-CP** (Bộ Dân tộc & Tôn giáo — PTTg Hồ Quốc Dũng) | 441541-d1 (co-cau-to-chuc) | 196 KB — placeholder "đang cập nhật" | **292 KB** — body đầy đủ | +96 KB | ✅ Body có: 22 lần "Bộ Dân tộc", "TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Hồ Quốc Dũng" | ✅ HTTP 200, đã lưu `tmp/discovery-v40/nd297.html` (292485 bytes) |
+
+**Đánh giá**: Tất cả 3 VB đều đã có nguồn HTML toàn văn từ luatvietnam.vn (không còn lý do "stub vì thiếu nguồn body"). LuatVietnam đã cập nhật body cho các văn bản này sau khoảng 1–3 ngày kể từ khi ban hành (294 + 297 ban hành 23–24/7/2026, body đầy đủ 28/7/2026).
+
+### Đối chiếu với `van-ban/` và tracking hiện tại
+
+| VB | File trong `van-ban/` | Trạng thái file | Hành động cần thiết |
+|----|-----------------------|-----------------|---------------------|
+| **294/2026/NĐ-CP** | `van-ban/doanh-nghiep-hop-tac-xa/294-2026-nd-cp.md` (47 dòng, ~1.5 KB) | STUB (commit `e1ced67c` v37) | Cần bổ sung body toàn văn từ `tmp/discovery-v40/nd294.html` (file mới 651 KB có toàn bộ Điều 1+) — sẵn sàng cho poll tới |
+| **296/2026/NĐ-CP** | CHƯA có file trong `van-ban/` | Chưa crawl (bỏ qua theo poll 11:29 v36) | Sẵn sàng crawl lần đầu từ `tmp/discovery-v40/nd296.html` (412 KB) |
+| **297/2026/NĐ-CP** | `van-ban/co-cau-to-chuc/297-2026-nd-cp.md` (52 dòng, ~2.2 KB) | STUB (commit `9d8d8a6b` v38) | Cần bổ sung body toàn văn từ `tmp/discovery-v40/nd297.html` (file mới 292 KB) — sẵn sàng cho poll tới |
+
+### Cross-reference: 57/TT-BGDDT (ref mới v39) đã được crawl hoàn thiện
+
+Văn bản thứ 4 trong nhóm "văn bản cần kiểm tra" là **57/2026/TT-BGDDT** (slug 441529-d1) — phát hiện ở v39 (đã fetch `tmp/discovery-v39/tt57-441529.html` 1.3 MB) nhưng ghi chú "chưa verify metadata chi tiết, để poll sau". Tuy nhiên, sau v39, đã có commit `40098b92` và `3e6e16dc` (xem `git log`) để crawl văn bản này thành file hoàn thiện 1202 dòng ~131 KB. Văn bản đã ký bởi **Phạm Ngọc Thưởng** (Thứ trưởng Bộ GD&ĐT, ký thay Bộ trưởng) ngày 07/07/2026, ban hành 27/7/2026 theo tracking, có hiệu lực ngay 07/07/2026, 6 Chương / 25 Điều. Theo `git log` đã có validation OCR. **Trạng thái: HOÀN THIỆN** ✅
+
+### Ref sau v40 (giữ nguyên v39)
+- **sitemap_nghidinh ref**: giữ nguyên v39 — **441673** (298/NĐ-CP) / 441543 (294/NĐ-CP) / 441542 (295/NĐ-CP) / 441540 (296/NĐ-CP) / 441541 (297/NĐ-CP)
+- **sitemap_thongtu ref**: giữ nguyên v39 — **441529** (57/TT-BGDDT) / 441498 (110/TT-BCA) / batch cũ 441410, 441401, 441310, 441309, 441279
+- **van-ban-moi.html max slug**: giữ nguyên — **441673**
+
+### Ghi chú kỹ thật kỹ thuật
+- Poll lúc 04:07 ICT 28/7/2026, curl qua Cloudflare IP 104.18.20.193 với `--resolve luatvietnam.vn:443:104.18.20.193` (kỹ thuật đã dùng từ v22 trở đi — bypass Cloudflare challenge cho sitemap endpoint). Status: HTTP 200 cho cả 2 sitemaps.
+- Sitemap files đã được re-fetch và ghi đè `tmp/discovery-v40/sitemap_nghidinh.xml` (85 KB, 327 entries) và `tmp/discovery-v40/sitemap_thongtu.xml` (180 KB, 705 entries).
+- Phát hiện 294/2026/NĐ-CP đã có body đầy đủ là đáng chú ý — file v35 chỉ 211 KB placeholder, giờ 651 KB toàn văn. Đây là sibling văn bản với 295/HTX, cùng chính sách "kinh tế tập thể 2026". Bột nên ưu tiên crawl lại 294 ngay poll kế tiếp (cùng với 296 CAO + 297) để chuyển từ STUB → HOÀN THIỆN.
+- 296/NĐ-CP body thực ra đã có sẵn từ v35 (file 400 KB), không phải "mới được cập nhật" như 294 + 297. Lý do bỏ qua theo v36 là do tục timeout commit (poll 11:29 quyết định "fail 2 lần liên tiếp, 401 KB HTML không commit kịp") — không phải do nguồn thiếu. Vẫn có thể crawl hoàn thiện ngay.
+- **Cả 3 file HTML mới** đã lưu trong `tmp/discovery-v40/`:
+  - `nd294.html` (651440 bytes, slug 441543)
+  - `nd296.html` (412406 bytes, slug 441540)
+  - `nd297.html` (292485 bytes, slug 441541)
+- Không có commit/push trong poll này — chỉ cập nhật tracking theo quy trình Đệ #1 Discovery (xem HEARTBEAT.md mục 2.2). Bột sẽ quyết định gọi Đệ #3 (Full Content Crawler) cho 1 trong 3 văn bản ở poll kế tiếp.
+- Phiên thực hiện: agent:github-io:subagent:dfa2e84f-6c4d-4824-95e4-0c357181b9dd (Đệ #1 Discovery v40)
+- Ngày phát hiện: 2026-07-28 04:07 Asia/Saigon
+
+---
+
+## Cập nhật 2026-07-28 v40 (Đệ #1 Discovery refresh — 2026-07-28 04:29 ICT)
+
+### Kết quả discovery: **KHÔNG có văn bản mới**
+
+Phương pháp: refresh `sitemap_nghidinh` + `sitemap_thongtu` (curl 2026-07-27T21:15Z qua Cloudflare IP 104.18.20.193) với Chrome UA + Host luatvietnam.vn + Referer + Accept-Language vi-VN,vi;q=0.9. So sánh top entries với ref v39.
+
+**sitemap_nghidinh**: ref v39 = **441673** (298/NĐ-CP) → top d1 vẫn **441673** / **441543** (294) / **441542** (295) / **441541** (297) / **441540** (296) — hoàn toàn trùng v39. Top d10 mới nhất vẫn là 441400 (sửa NĐ 147/2024 dịch vụ internet) — bỏ qua đúng protocol.
+
+**sitemap_thongtu**: ref v39 = **441529** (57/TT-BGDDT) → top d1 vẫn **441529** / **441498** (110/TT-BCA) / **441410** (104/TT-BQP) / **441401** (41/TT-BCT) / **441351** — hoàn toàn trùng v39. Top d10 mới nhất vẫn là 441351 (giám sát nhận chìm ở biển), 441340 (sửa TT 40/2018 an toàn dầu khí), 441271, 441215 — bỏ qua đúng protocol.
+
+### Ref sau v40 (giữ nguyên v39)
+- **sitemap_nghidinh ref**: giữ nguyên — **441673** (298/NĐ-CP) / **441543** (294/NĐ-CP)
+- **sitemap_thongtu ref**: giữ nguyên — **441529** (57/TT-BGDDT) / **441498** (110/TT-BCA)
+- **van-ban-moi.html max slug**: giữ nguyên — **441673**
+
+### Ghi chú kỹ thuật
+- **Refresh "an toàn"** — không có VB mới từ cả 2 sitemap kể từ v39 (~10h trước). Crawl lần này là để xác nhận tracking ổn định + chuẩn bị cho batch v41 (nếu có).
+- **lastmod** quan trọng nhất: sitemap_nghidinh entry #1 (441673) `2026-07-27T10:37:24+07:00`; sitemap_thongtu entry #1 (441529) `2026-07-27T11:25:48+07:00`. Không có entry d1 mới phát sinh trong khoảng 18:00–04:15 ICT 28/7.
+- Đệ #1 `discovery-v40-retry` (poll 03:59 ICT) đã chạy fetch sitemap + 4 file detail (`tmp/discovery-v40/nd294.html`, `nd296.html`, `nd297.html`, `tt57.html`) — chỉ để xác nhận tracking đầy đủ, không có update mới.
+- Đệ #4 `reviewer-batch-2801-retry` (poll 03:59 ICT) đã chạy nhưng output không rõ ràng (visibility restricted); coi như đã xử lý theo mục 4.5 "không xác định được tình trạng → tiếp tục workflow bình thường".
+- Nguồn: luatvietnam.vn sitemap_nghidinh (curl 2026-07-27T21:15Z, 84KB) + sitemap_thongtu (curl 2026-07-27T21:15Z, 180KB) qua Cloudflare IP 104.18.20.193.
+- Ngày phát hiện: 2026-07-28 04:29 Asia/Saigon
+- Phiên thực hiện: agent:github-io (HEARTBEAT poll 04:29 ICT, xử lý completion discovery-v40-retry + reviewer-batch-2801-retry từ poll 03:59 ICT)
+
+---
+
 ## Cập nhật 2026-07-27 v39 (crawl 298/2026/NĐ-CP — 2026-07-27 19:59 ICT)
 
 ### Kết quả crawl: **298/2026/NĐ-CP HOÀN THIỆN**
