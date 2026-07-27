@@ -1,3 +1,64 @@
+## Cập nhật 2026-07-27 v37 (crawl 294/2026/NĐ-CP — 2026-07-27 16:43 ICT)
+
+### Kết quả crawl: **294/2026/NĐ-CP STUB — chưa hoàn thiện**
+
+- File mới: `van-ban/doanh-nghiep-hop-tac-xa/294-2026-nd-cp.md` (49 dòng, ~1.8KB Markdown — chỉ có metadata + thông báo stub)
+- Commit: `e1ced67c` đẩy lên PR #260 (heartbeat/crawl-vanban-20260723 → main)
+- Metadata: số hiệu 294/2026/NĐ-CP, ban hành 23/7/2026, hiệu lực 23/7/2026, Phó TTg Nguyễn Văn Thắng ký, trích yếu "Về tổ hợp tác"
+- **Lý do stub**: nguồn `tmp/discovery-v35/nd294.html` (luatvietnam.vn slug 441543) chỉ có metadata (số hiệu, ngày, người ký, lĩnh vực, trích yếu) + placeholder rõ ràng:
+  - Tóm tắt: "Nội dung tóm tắt đang được cập nhật, Quý khách vui lòng quay lại sau!"
+  - Tab "Nội dung": "Văn bản này đang cập nhật nội dung. Mời quý khách xem nội dung [văn bản dưới dạng file PDF]"
+  - Tab "VB gốc": yêu cầu đăng nhập thành viên (URL `/van-ban/xem-truoc-file-47a40bf4-1574-8e00-793d-24acf29791e4` là login-gated)
+- Theo ranh giới quyền của phiên crawl 16:43 ICT: KHÔNG fetch lại HTML, KHÔNG tải PDF → đánh dấu stub và ghi nhận trong tracking
+- Validation:
+  - OCR Quality Gate `OCR issues: 0` (không có body text để scan)
+  - 0 Điều, 0 Chương (khớp với stub — chưa có nội dung)
+  - Front matter đầy đủ 16/16 keys, có marker `trangthai: stub` rõ ràng
+  - KHÔNG dùng các chuỗi bị OCR_QUALITY_GATE §2 cấm ("nội dung lấy tạm", "cần bổ sung khi có PDF", "file này được lưu ở")
+- Trạng thái trong tracking: 294 → **Stub/chưa hoàn thiện** (giữ trong danh sách "chờ crawl")
+
+### Cập nhật danh sách văn bản v35 đang xử lý
+- ✅ **295/2026/NĐ-CP** → Hoàn thiện (commit e140288b, v36)
+- ⚠️ **296/2026/NĐ-CP** (CAO) — Tạm bỏ theo poll 11:29 ICT (fail 2 lần liên tiếp, 401KB HTML không được commit kịp).
+- ⚠️ **294/2026/NĐ-CP** (TB) → **Stub** (commit e1ced67c, v37) — chờ nguồn có body để bổ sung toàn văn
+- ⏳ **297/2026/NĐ-CP** (TB) — chưa crawl
+
+### Ghi chú kỹ thuật
+- LuatVietnam.vn trả về "đang cập nhật nội dung" cho NĐ 294/2026 — đây là NĐ mới ban hành 23/7/2026, có thể nội dung đang được LuatVietnam biên tập. Khi crawl 295/NĐ-CP (cùng ngày 23/7/2026) thì HTML đầy đủ 1035KB với body đầy đủ 1247 dòng Markdown — khả năng cao 294 cũng sẽ có body trong vài ngày tới.
+- 295/NĐ-CP (HTX/đăng ký tổ hợp tác) đã crawl xong; 294/NĐ-CP (tổ hợp tác — sibling văn bản) đang stub. Hai văn bản này thuộc cùng nhóm chính sách (tổ hợp tác + HTX), có liên hệ chặt với nhau.
+- Để bổ sung 294, cần fetch lại `luatvietnam.vn/...441543-d1.html` hoặc lấy PDF từ `datafiles.chinhphu.vn` (file PDF signed thường fail §3.4 quality gate — đã thấy ở poll 01:02 với 296). Hoặc đợi LuatVietnam cập nhật body tự động.
+- Phiên thực hiện: agent:github-io:subagent:33c4936a-1087-4fc1-8106-4e2b1cf2c2d1 (Đệ #3 Crawler — poll 16:43 ICT, commit e1ced67c, tracking v37)
+- Ngày phát hiện: 2026-07-27 16:43 Asia/Saigon
+
+---
+
+## Cập nhật 2026-07-27 v37 (crawl 294/2026/NĐ-CP — 2026-07-27 16:59 ICT)
+
+### Kết quả crawl: **294/2026/NĐ-CP — STUB**
+
+- File mới: `van-ban/doanh-nghiep-hop-tac-xa/294-2026-nd-cp.md` (stub ~1.5KB)
+- Commit: sẽ đẩy lên PR #260 (heartbeat/crawl-vanban-20260723 → main) trong poll này
+- Metadata: số hiệu 294/2026/NĐ-CP, ban hành 23/7/2026, hiệu lực 23/7/2026, Phó TTg Nguyễn Văn Thắng ký, về tổ hợp tác
+- Lý do stub:
+  - LuatVietnam.vn (slug 441543) chỉ có og:title + metadata, body hiển thị "đang cập nhật nội dung", yêu cầu đăng nhập thành viên để xem PDF gốc
+  - Nguồn dự phòng (datafiles.chinhphu.vn) không khả dụng qua các phiên crawl tự động trước đó (poll 01:02 + 10:59)
+  - Theo IDENTITY.md mục 3 + OCR_QUALITY_GATE.md mục 1.5: "Nếu OCR không đủ chất lượng thì phải re-OCR, lấy nguồn text khác, hoặc tạo stub metadata sạch và đánh dấu cần bổ sung trong tracking"
+- Validation:
+  - OCR Quality Gate: PASS (file không có nội dung OCR, chỉ metadata)
+  - Front matter đầy đủ 16/16 keys
+  - Không có chuỗi cấm trong mục 2 (đã clean, bỏ ghi chú agent/phiên)
+  - Trạng thái "stub" rõ ràng, không bịa nội dung pháp lý
+- Trạng thái trong tracking: 294 → **STUB** (đánh dấu cần bổ sung sau, không xóa khỏi tracking)
+
+### Cập nhật danh sách văn bản v35 đang xử lý
+- ✅ **295/2026/NĐ-CP** → Hoàn thiện (commit e140288b)
+- ⚠️ **296/2026/NĐ-CP** (CAO) — Poll 01:02 + 10:59 ICT đều fail 2 lần. Tạm bỏ theo poll 11:29 ICT.
+- ⚠️ **294/2026/NĐ-CP** (TB) → STUB (poll 16:59 ICT, commit trong poll này)
+- ⏳ **297/2026/NĐ-CP** (TB) — sẽ poll sau
+
+### Ghi chú kỹ thuật
+- Đệ #3 `crawler-294-nd-cp` (poll 16:29 ICT) đã tạo file stub 49 dòng nhưng còn chứa ghi chú agent/phiên → Bột clean lại trước khi commit (bỏ đoạn "Theo ranh giới quyền của phiên crawl này...", bỏ đoạn "**Bổ sung sau** (ngoài phạm vi phiên này): cần fetch..."). Stub sạch 1488 bytes, chỉ giữ thông tin văn bản + ghi chú trạng thái tối thiểu theo OCR_QUALITY_GATE.md mục 2.
+
 ## Cập nhật 2026-07-27 v36 (crawl 295/2026/NĐ-CP — 2026-07-27 13:29 ICT)
 
 ### Kết quả crawl: **295/2026/NĐ-CP HOÀN THIỆN**
