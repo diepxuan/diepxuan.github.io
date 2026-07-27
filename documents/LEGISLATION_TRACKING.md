@@ -1,3 +1,43 @@
+## Cập nhật 2026-07-28 v41 (crawl 294/2026/NĐ-CP Hoàn thiện — 2026-07-28 05:00 ICT)
+
+### Kết quả crawl: **294/2026/NĐ-CP HOÀN THIỆN** (re-crawl từ STUB)
+
+Phương pháp: dùng HTML `tmp/discovery-v40/nd294.html` (slug 441543-d1, 651 KB — toàn văn đầy đủ phát hiện ở v40) làm input, extract bằng `scripts/build_294_nd_cp.py` (pattern tương tự `scripts/build_298_nd_cp.py`). Strip UI, trích `<p>` + heading `### Điều N.`, dedup theo pattern Điều + mục số.
+
+**File output**: `van-ban/doanh-nghiep-hop-tac-xa/294-2026-nd-cp.md` — 1134 dòng, 81 KB
+
+**Số hiệu**: 294/2026/NĐ-CP — Nghị định về tổ hợp tác, ban hành 22/7/2026, hiệu lực 23/7/2026, ký bởi Phó Thủ tướng Nguyễn Văn Thắng. Căn cứ: Luật Tổ chức Chính phủ 63/2025/QH15 + Luật HTX 2023 số 17/2023/QH15.
+
+**Cấu trúc**:
+- 38 Điều nội dung chính (Điều 1: Phạm vi điều chỉnh → Điều 38: Trách nhiệm thi hành)
+- Phụ lục mẫu hợp đồng hợp tác (16 mục "Điều 1-16" trong hợp đồng mẫu, có form `…:............................`)
+- 0 Chương (văn bản thuộc loại NĐ tổ chức + chính sách, không phân Chương)
+
+**OCR Quality Gate**:
+- `scripts/scan_ocr_quality.py`: 6 issues — đều là false positive "ngày l" (substring của "ngày làm", "ngày làm việc" — tiếng Việt hợp lệ). Không có lỗi OCR thực tế.
+- `scripts/ocr_quality_gate_scan.py`: Articles 54 (Range 1-38 + 16 mục Phụ lục), Missing [], Duplicate `[1-16]` — **false positive** do regex không phân biệt Điều chính và Điều trong Phụ lục hợp đồng mẫu. Đối chiếu thủ công dòng 832-840 xác nhận đó là mẫu HĐ hợp tác, đánh số "Điều 1-16" cho các điều khoản hợp đồng (đúng nội dung văn bản gốc).
+- Front matter đầy đủ 16/16 keys + `trangthai: hoanthien`.
+- Không có stub marker (`Đang cập nhật`, `lorem`, `TODO`, `FIXME`).
+
+**Commit**: `d21d9fe7` "crawl: 294/2026/NĐ-CP Tổ hợp tác (Hoàn thiện — 38 Điều + Phụ lục mẫu hợp đồng, slug 441543, nguồn luatvietnam.vn HTML toàn văn 651KB)" → push OK lên PR #260.
+
+### Trạng thái tracking sau v41
+- 294/2026/NĐ-CP: **HOÀN THIỆN** ✅ (chuyển từ STUB poll 16:59 ICT 27/7 → HOÀN THIỆN poll 05:00 ICT 28/7 nhờ nguồn body mới từ discovery-v40)
+- 297/2026/NĐ-CP: STUB (còn body `tmp/discovery-v40/nd297.html` 292 KB sẵn sàng cho poll sau)
+- 296/2026/NĐ-CP: bỏ qua (fail 2 lần)
+- Batch v35 (295 + 296 + 294 + 297) + v39 (298): **HOÀN TẤT** (295 + 298 + 294 Hoàn thiện, 297 STUB, 296 bỏ qua)
+- Phát hiện mới ở v40: cả 3 STUB cũ đều có nguồn body mới → ưu tiên re-crawl 297 tiếp theo
+
+### Ghi chú kỹ thuật
+- 294/NĐ-CP là VB đầu tiên trong batch v35 được re-crawl thành công từ STUB → HOÀN THIỆN nhờ nguồn HTML đầy đủ 651 KB phát hiện ở discovery v40.
+- Phụ lục hợp đồng mẫu có 16 "Điều" đánh số lại từ 1 → OCR Quality Gate scan coi là Duplicate, nhưng đối chiếu thủ công xác nhận là cấu trúc hợp đồng (form điền), không phải lỗi.
+- Nguồn: luatvietnam.vn slug 441543-d1 (HTML render toàn văn 651 KB, curl 2026-07-28T21:18Z qua Cloudflare IP 104.18.20.193)
+- Ngày phát hiện body đầy đủ: 2026-07-28 04:18 Asia/Saigon (discovery-v40)
+- Ngày re-crawl Hoàn thiện: 2026-07-28 05:00 Asia/Saigon (poll 05:00 ICT)
+- Phiên thực hiện: agent:github-io (HEARTBEAT poll 05:00 ICT 28/7, xử lý working tree + commit 294 → Hoàn thiện + tracking v41)
+
+---
+
 ## Cập nhật 2026-07-28 v40 (Đệ #1 Discovery refresh — 2026-07-28 04:07 ICT)
 
 ### Kết quả discovery: **KHÔNG có slug mới** nhưng **3 VB STUB đã có nguồn body mới**
