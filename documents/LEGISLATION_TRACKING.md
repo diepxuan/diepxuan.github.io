@@ -1,3 +1,50 @@
+## Cập nhật 2026-07-27 v39 (crawl 298/2026/NĐ-CP — 2026-07-27 19:59 ICT)
+
+### Kết quả crawl: **298/2026/NĐ-CP HOÀN THIỆN**
+
+- File mới: `van-ban/co-cau-to-chuc/298-2026-nd-cp.md` (454 dòng, ~45KB Markdown)
+- Commit: `591ee949` đẩy lên PR #260 (heartbeat/crawl-vanban-20260723 → main)
+- Metadata: số hiệu 298/2026/NĐ-CP, ban hành 27/7/2026, hiệu lực 28/7/2026, PTTg Phạm Thị Thanh Trà ký, 6 Điều, không có Chương (cơ cấu tổ chức Bộ), thay thế NĐ 43/2025/NĐ-CP
+- Nguồn: `tmp/discovery-v39/nd298-441673.html` (462KB luatvietnam.vn, slug 441673-d1) — HTML render toàn văn đầy đủ 6 Điều, có "TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Phạm Thị Thanh Trà". Đã extract Markdown sạch qua `scripts/build_298_nd_cp.py` (bỏ 3 dòng table header rác từ 2-col layout HTML, dedup "CHÍNH PHỦ Số: 298" line lặp, thay `<br>` thành space, thêm front matter đầy đủ).
+- Validation:
+  - `scripts/scan_ocr_quality.py`: **OCR issues: 0** (pass clean)
+  - `scripts/ocr_quality_gate_scan.py`: Articles 6, Range 1-6, Missing [], Duplicate []; Chapters 0 (đúng — VB cơ cấu tổ chức không có Chương)
+  - Front matter đầy đủ 16/16 keys
+  - Không có chuỗi cấm trong §2 (clean, không có ghi chú agent/phiên)
+- Hạn chế còn lại: "Nơi nhận" không có trong HTML render luatvietnam.vn (JS-rendered sidebar bị ẩn); phần chữ ký cuối có đầy đủ "TM. CHÍNH PHỦ / KT. THỦ TƯỚNG, PHÓ THỦ TƯỚNG / Phạm Thị Thanh Trà". Nếu cần "Nơi nhận" đầy đủ, có thể OCR PDF có chữ ký số trên vanban.chinhphu.vn (chưa thực hiện ở poll này — văn bản TB, chữ ký đã đủ xác minh nguồn gốc).
+- Trạng thái trong tracking: 298 → **Hoàn thiện** (xóa khỏi danh sách "chưa hoàn thiện")
+
+### Discovery v39 (sitemap refresh — 2026-07-27 18:37 ICT)
+
+Phương pháp: refresh `sitemap_nghidinh` + `sitemap_thongtu` (curl 2026-07-27T11:37Z qua Cloudflare IP 104.18.20.193) với cùng Chrome UA + Host luatvietnam.vn + Referer + Accept-Language vi-VN,vi;q=0.9. So sánh top entries với ref v35.
+
+**sitemap_nghidinh**: ref 441543 (294/NĐ-CP) → phát hiện **1 slug d1 mới** > 441543:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **441673** | **298/2026/NĐ-CP** | **27/07/2026** | Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của **Bộ Văn hóa, Thể thao và Du lịch** — thay thế NĐ 43/2025/NĐ-CP ngày 28/02/2025. Hiệu lực 28/7/2026. 6 Điều, không có Chương (văn bản cơ cấu tổ chức). Căn cứ: Luật Tổ chức Chính phủ 63/2025/QH15 | Cơ cấu tổ chức / VHTTDL | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Nghị định 298/2026/NĐ-CP: Quy định chức năng, nhiệm vụ của Bộ Văn hóa, Thể thao và Du lịch"; PTTg Phạm Thị Thanh Trà ký thay Thủ tướng |
+
+**sitemap_thongtu**: ref 441498 (110/TT-BCA) → phát hiện **1 slug d1 mới** > 441498:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **441529** | **57/2026/TT-BGDDT** | (chưa xác minh chi tiết) | Quy định chất lượng giáo dục và công nhận chuẩn quốc gia — Bộ Giáo dục và Đào tạo (slug `thong-tu-57-2026-tt-bgddt-quy-dinh-chat-luong-giao-duc-va-cong-nhan-chuan-quoc-gia`) | Giáo dục / Chất lượng GD | 🟡 **TRUNG BÌNH** | ⚠️ HTML đã fetch `tt57-441529.html` 1.3MB trong `tmp/discovery-v39/`; chưa verify metadata chi tiết, để poll sau |
+
+### Ref sau v39
+- **sitemap_nghidinh ref**: cập nhật — **441673** (298/NĐ-CP) / 441543 (294/NĐ-CP) giữ nguyên
+- **sitemap_thongtu ref**: cập nhật — **441529** (57/TT-BGDDT) / 441498 (110/TT-BCA) giữ nguyên
+- **Batch v39 tổng kết**: 2 VB mới (1 NĐ + 1 TT); đã crawl 1/2 (298/NĐ-CP); còn lại 57/TT-BGDDT (TB) chờ poll sau
+
+### Ghi chú kỹ thuật
+- **298/NĐ-CP** đáng chú ý vì là văn bản cơ cấu tổ chức **Bộ Văn hóa, Thể thao và Du lịch** mới nhất (sau sáp nhập 2025-2026) — bổ sung cho tracking cụm "cơ cấu tổ chức bộ máy mới" đã có 297/NĐ-CP (Bộ Dân tộc & Tôn giáo, cùng ngày 27/7/2026).
+- File extract `tmp/nd298-extracted.md` đã có sẵn từ poll 18:00 ICT (sau poll 17:59 ICT) — chỉ cần build Markdown sạch + commit/push. Đã dùng `scripts/build_298_nd_cp.py` (one-shot) để clean bảng 2-col HTML rác, dedup header, thêm front matter.
+- Đệ #1 Discovery cho v39 đã thực hiện poll 18:37 ICT trong worktree (sitemap + 2 file HTML) nhưng không có commit/push vì tracker chưa cập nhật. Poll này (19:59 ICT) xử lý nốt: crawl 298/NĐ-CP + cập nhật tracking v39.
+- Crawl đã pass OCR Quality Gate — không phải stub. Commit vào PR heartbeat active `heartbeat/crawl-vanban-20260723` (PR #260).
+- Phiên thực hiện: agent:github-io (HEARTBEAT poll 19:59 ICT, không spawn sub-agent riêng — file đã extract sẵn từ poll 18:00, chỉ cần clean + commit)
+- Ngày phát hiện: 2026-07-27 19:59 Asia/Saigon
+
+---
+
 ## Cập nhật 2026-07-27 v38 (crawl 297/2026/NĐ-CP — 2026-07-27 18:02 ICT)
 
 ### Kết quả crawl: **297/2026/NĐ-CP STUB — chưa hoàn thiện**
