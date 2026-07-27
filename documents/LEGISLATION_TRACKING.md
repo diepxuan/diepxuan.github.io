@@ -1,3 +1,33 @@
+## Cập nhật 2026-07-27 v36 (crawl 295/2026/NĐ-CP — 2026-07-27 13:29 ICT)
+
+### Kết quả crawl: **295/2026/NĐ-CP HOÀN THIỆN**
+
+- File mới: `van-ban/doanh-nghiep-hop-tac-xa/295-2026-nd-cp.md` (1247 dòng, ~214KB Markdown)
+- Commit: `e140288b` đẩy lên PR #260 (heartbeat/crawl-vanban-20260723 → main)
+- Metadata: số hiệu 295/2026/NĐ-CP, ban hành 23/7/2026, hiệu lực 23/7/2026, Phó TTg Nguyễn Văn Thắng ký, 6 Chương, 69 Điều, thay thế NĐ 92/2024/NĐ-CP
+- Validation:
+  - OCR Quality Gate `OCR issues: 0`
+  - Scan Điều 1-69 đầy đủ, không thiếu/trùng (range match metadata "69 Điều")
+  - 6 Chương I-VI đúng thứ tự La Mã (match metadata "6 Chương")
+  - Front matter đầy đủ 16/16 keys (layout/title/date/modified/group/tags/docid/source/sohieu/ngaybanhanh/ngayhieuluc/nguoiky/cquanbanhanh/trichyeu/canbophaply/loaivanban)
+  - Nội dung kết thúc đúng "TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Nguyễn Văn Thắng"
+- Trạng thái trong tracking: 295 → **Hoàn thiện** (xóa khỏi danh sách "chưa hoàn thiện")
+
+### Cập nhật danh sách văn bản v35 đang xử lý
+- ✅ **295/2026/NĐ-CP** → Hoàn thiện (commit e140288b)
+- ⚠️ **296/2026/NĐ-CP** (CAO) — Poll 01:02 + 10:59 ICT đều fail 2 lần (PDF placeholder 1.67KB < 0.1MB fail §3.4 Quality Gate, HTML luatvietnam.vn 400KB sẵn nhưng đệ không commit kịp). Tạm bỏ theo poll 11:29 ICT.
+- ⏳ **294/2026/NĐ-CP** (TB) — sẽ poll sau
+- ⏳ **297/2026/NĐ-CP** (TB) — sẽ poll sau
+
+### Ghi chú kỹ thuật
+- Đệ #3 `crawler-295-nd-cp` (poll 11:29 ICT) đã chạy thành công với nguồn `tmp/discovery-v35/nd295.html` (1035KB HTML từ luatvietnam.vn slug 441542). Output poll 13:29 ICT = file Markdown 1247 dòng, OCR Quality Gate pass, scan cấu trúc pass.
+- Đã đẩy commit `e140288b` lên PR #260 (heartbeat/crawl-vanban-20260723). PR đang mở MERGEABLE/CLEAN, đã cập nhật title qua REST API sau khi `gh pr edit` fail vì GraphQL Projects (classic) deprecation.
+- Cấu trúc nội dung ổn định: có "Nơi nhận" split list Markdown, khối ký đầy đủ, không có placeholder/meta rác.
+- Ngày phát hiện: 2026-07-27 13:29 Asia/Saigon
+- Phiên thực hiện: agent:github-io (HEARTBEAT poll, không gọi sub-agent riêng — file đã có sẵn từ session poll 11:29 ICT)
+
+---
+
 ## Cập nhật 2026-07-26 v35 (Đệ #1 Discovery refresh — 2026-07-26 20:00 ICT)
 
 ### Kết quả discovery: **CÓ 4 văn bản mới** (đợt cập nhật lớn nhất từ trước tới nay)
