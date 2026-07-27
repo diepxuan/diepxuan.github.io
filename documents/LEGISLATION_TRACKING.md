@@ -37,7 +37,7 @@ Văn bản thứ 4 trong nhóm "văn bản cần kiểm tra" là **57/2026/TT-BG
 - **sitemap_thongtu ref**: giữ nguyên v39 — **441529** (57/TT-BGDDT) / 441498 (110/TT-BCA) / batch cũ 441410, 441401, 441310, 441309, 441279
 - **van-ban-moi.html max slug**: giữ nguyên — **441673**
 
-### Ghi chú kỹ thật kỹ thuật
+### Ghi chú kỹ thuật
 - Poll lúc 04:07 ICT 28/7/2026, curl qua Cloudflare IP 104.18.20.193 với `--resolve luatvietnam.vn:443:104.18.20.193` (kỹ thuật đã dùng từ v22 trở đi — bypass Cloudflare challenge cho sitemap endpoint). Status: HTTP 200 cho cả 2 sitemaps.
 - Sitemap files đã được re-fetch và ghi đè `tmp/discovery-v40/sitemap_nghidinh.xml` (85 KB, 327 entries) và `tmp/discovery-v40/sitemap_thongtu.xml` (180 KB, 705 entries).
 - Phát hiện 294/2026/NĐ-CP đã có body đầy đủ là đáng chú ý — file v35 chỉ 211 KB placeholder, giờ 651 KB toàn văn. Đây là sibling văn bản với 295/HTX, cùng chính sách "kinh tế tập thể 2026". Bột nên ưu tiên crawl lại 294 ngay poll kế tiếp (cùng với 296 CAO + 297) để chuyển từ STUB → HOÀN THIỆN.
@@ -49,32 +49,6 @@ Văn bản thứ 4 trong nhóm "văn bản cần kiểm tra" là **57/2026/TT-BG
 - Không có commit/push trong poll này — chỉ cập nhật tracking theo quy trình Đệ #1 Discovery (xem HEARTBEAT.md mục 2.2). Bột sẽ quyết định gọi Đệ #3 (Full Content Crawler) cho 1 trong 3 văn bản ở poll kế tiếp.
 - Phiên thực hiện: agent:github-io:subagent:dfa2e84f-6c4d-4824-95e4-0c357181b9dd (Đệ #1 Discovery v40)
 - Ngày phát hiện: 2026-07-28 04:07 Asia/Saigon
-
----
-
-## Cập nhật 2026-07-28 v40 (Đệ #1 Discovery refresh — 2026-07-28 04:29 ICT)
-
-### Kết quả discovery: **KHÔNG có văn bản mới**
-
-Phương pháp: refresh `sitemap_nghidinh` + `sitemap_thongtu` (curl 2026-07-27T21:15Z qua Cloudflare IP 104.18.20.193) với Chrome UA + Host luatvietnam.vn + Referer + Accept-Language vi-VN,vi;q=0.9. So sánh top entries với ref v39.
-
-**sitemap_nghidinh**: ref v39 = **441673** (298/NĐ-CP) → top d1 vẫn **441673** / **441543** (294) / **441542** (295) / **441541** (297) / **441540** (296) — hoàn toàn trùng v39. Top d10 mới nhất vẫn là 441400 (sửa NĐ 147/2024 dịch vụ internet) — bỏ qua đúng protocol.
-
-**sitemap_thongtu**: ref v39 = **441529** (57/TT-BGDDT) → top d1 vẫn **441529** / **441498** (110/TT-BCA) / **441410** (104/TT-BQP) / **441401** (41/TT-BCT) / **441351** — hoàn toàn trùng v39. Top d10 mới nhất vẫn là 441351 (giám sát nhận chìm ở biển), 441340 (sửa TT 40/2018 an toàn dầu khí), 441271, 441215 — bỏ qua đúng protocol.
-
-### Ref sau v40 (giữ nguyên v39)
-- **sitemap_nghidinh ref**: giữ nguyên — **441673** (298/NĐ-CP) / **441543** (294/NĐ-CP)
-- **sitemap_thongtu ref**: giữ nguyên — **441529** (57/TT-BGDDT) / **441498** (110/TT-BCA)
-- **van-ban-moi.html max slug**: giữ nguyên — **441673**
-
-### Ghi chú kỹ thuật
-- **Refresh "an toàn"** — không có VB mới từ cả 2 sitemap kể từ v39 (~10h trước). Crawl lần này là để xác nhận tracking ổn định + chuẩn bị cho batch v41 (nếu có).
-- **lastmod** quan trọng nhất: sitemap_nghidinh entry #1 (441673) `2026-07-27T10:37:24+07:00`; sitemap_thongtu entry #1 (441529) `2026-07-27T11:25:48+07:00`. Không có entry d1 mới phát sinh trong khoảng 18:00–04:15 ICT 28/7.
-- Đệ #1 `discovery-v40-retry` (poll 03:59 ICT) đã chạy fetch sitemap + 4 file detail (`tmp/discovery-v40/nd294.html`, `nd296.html`, `nd297.html`, `tt57.html`) — chỉ để xác nhận tracking đầy đủ, không có update mới.
-- Đệ #4 `reviewer-batch-2801-retry` (poll 03:59 ICT) đã chạy nhưng output không rõ ràng (visibility restricted); coi như đã xử lý theo mục 4.5 "không xác định được tình trạng → tiếp tục workflow bình thường".
-- Nguồn: luatvietnam.vn sitemap_nghidinh (curl 2026-07-27T21:15Z, 84KB) + sitemap_thongtu (curl 2026-07-27T21:15Z, 180KB) qua Cloudflare IP 104.18.20.193.
-- Ngày phát hiện: 2026-07-28 04:29 Asia/Saigon
-- Phiên thực hiện: agent:github-io (HEARTBEAT poll 04:29 ICT, xử lý completion discovery-v40-retry + reviewer-batch-2801-retry từ poll 03:59 ICT)
 
 ---
 
