@@ -1,3 +1,33 @@
+## Cập nhật 2026-07-28 v45 (crawl 80/2026/NĐ-CP Hoàn thiện — 2026-07-28 12:40 ICT)
+
+### Kết quả crawl: **80/2026/NĐ-CP HOÀN THIỆN** (2/5 NĐ mới từ v43)
+
+Phương pháp: dùng HTML `tmp/discovery-v44/nd80-lv.html` (slug 429240-d1, 916 KB — toàn văn đầy đủ phát hiện ở Discovery v44) làm input, extract bằng `scripts/build_80_nd_cp.py` (pattern tương tự 77 + 294 + 297 + 298). Strip UI/tóm tắt, trích `<p>` từ "Hiệu lực: Đã biết... CHÍNH PHỦ", dừng trước footer "Bạn chưa Đăng nhập", dedup heading "Điều N." trùng. Dùng `html.unescape()`.
+
+**File output**: `van-ban/vi-pham-hanh-chinh/80-2026-nd-cp.md` — 1736 dòng, 136371 bytes.
+
+**Số hiệu**: 80/2026/NĐ-CP — Nghị định sửa đổi, bổ sung một số điều của NĐ 142/2017/NĐ-CP về xử phạt VPHC hàng hải và NĐ 139/2021/NĐ-CP về xử phạt VPHC giao thông đường thủy nội địa, ban hành 19/3/2026, hiệu lực 15/5/2026, ký bởi Phó Thủ tướng Trần Hồng Hà (KT. Thủ tướng). Căn cứ: Luật Tổ chức CP 63/2025/QH15 + Luật XLVPHC 15/2012/QH13 (sửa 67/2020/QH14, 88/2025/QH15) + Bộ luật Hàng hải 95/2015/QH13 + Luật GTĐTNĐ 23/2004/QH11 (sửa 48/2014/QH13).
+
+**Cấu trúc**: 55 Điều (range 1-55), 3 Chương (I, II, III — sửa NĐ 142/2017; sửa NĐ 139/2021; điều khoản thi hành). Chương I: 30 Điều sửa NĐ 142/2017 (hàng hải). Chương II: 23 Điều sửa NĐ 139/2021 (đường thủy nội địa). Chương III: Điều khoản thi hành.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues; `ocr_quality_gate_scan.py` Articles 55 (Range 1-55, Missing [], Duplicate []), Chapters 0 — **PASS clean**.
+
+### Trạng thái tracking sau v45
+- 78/2026/NĐ-CP: ✅ Hoàn thiện (commit `e67ff85e` poll trước)
+- 77/2026/NĐ-CP: ✅ Hoàn thiện (commit `ae0ac8ba` v44)
+- 80/2026/NĐ-CP: ✅ Hoàn thiện (commit `735a0e5d` v45)
+- Còn lại 2 VB (79/76/2026) — đã có HTML body từ discovery-v44, poll sau sẽ crawl tiếp
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 12:29 ICT 28/7, crawl inline 80/NĐ-CP + cập nhật tracking v45)
+
+### Ghi chú kỷ luật
+- KHÔNG spawn đệ mới poll này: task inline crawl 80/NĐ-CP đơn giản (build script tương tự 77)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+- 78/NĐ-CP đã được crawl từ poll trước (commit `e67ff85e` 12:19 ICT 28/7) nhưng tracking v43 ghi SAI "Chưa có input" — đã sửa
+
+---
+
 ## Cập nhật 2026-07-28 v44 (crawl 77/2026/NĐ-CP Hoàn thiện — 2026-07-28 11:30 ICT)
 
 ### Kết quả crawl: **77/2026/NĐ-CP HOÀN THIỆN** (1/5 NĐ mới từ v43)
@@ -14,7 +44,7 @@ Phương pháp: dùng HTML `tmp/discovery-v44/nd77-lv.html` (slug 428943-d1, 495
 
 ### Trạng thái tracking sau v44
 - **77/2026/NĐ-CP**: ✅ Hoàn thiện (xóa khỏi "chưa có input")
-- Còn lại 4 VB mới (78/80/79/76/2026) chưa crawl — đã có HTML đầy đủ từ Discovery v44 (luatvietnam.vn), sẽ crawl ở các poll kế tiếp theo ưu tiên TRUNG BÌNH
+- Còn lại 2 VB mới (79/76/2026) chưa crawl — đã có HTML đầy đủ từ Discovery v44 (luatvietnam.vn), sẽ crawl ở các poll kế tiếp theo ưu tiên TRUNG BÌNH
 
 ### Phiên thực hiện
 - agent:github-io (HEARTBEAT poll 11:30 ICT 28/7, xử lý completion discovery-v44 + reviewer-2806, commit 77/NĐ-CP HOÀN THIỆN + tracking v44)
@@ -34,8 +64,8 @@ Phương pháp: refresh `tmp/discovery-v41/sitemap_nghidinh.xml` (85 KB) + `tmp/
 
 | # | Slug | Số hiệu | Trích yếu | Chủ đề | Ưu tiên | Trạng thái |
 |---|------|---------|-----------|--------|---------|------------|
-| 1 | 429334 | **78/2026/NĐ-CP** | Sửa NĐ về xử phạt vi phạm kinh doanh bảo hiểm | Vi phạm hành chính / Bảo hiểm | 🟡 TRUNG BÌNH | Chưa có input |
-| 2 | 429240 | **80/2026/NĐ-CP** | Sửa NĐ 142/2017 xử phạt vi phạm hàng hải & giao thông thủy | Vi phạm hành chính / Hàng hải | 🟡 TRUNG BÌNH | Chưa có input |
+| 1 | 429334 | **78/2026/NĐ-CP** | Sửa NĐ về xử phạt vi phạm kinh doanh bảo hiểm | Vi phạm hành chính / Bảo hiểm | 🟡 TRUNG BÌNH | ✅ Hoàn thiện (`e67ff85e`)
+| 2 | 429240 | **80/2026/NĐ-CP** | Sửa NĐ 142/2017 xử phạt vi phạm hàng hải & giao thông thủy | Vi phạm hành chính / Hàng hải | 🟡 TRUNG BÌNH | ✅ Hoàn thiện (`735a0e5d`)
 | 3 | 429185 | **79/2026/NĐ-CP** | Xử phạt vi phạm hành chính trong quản lý biên giới | Vi phạm hành chính / Biên giới | 🟡 TRUNG BÌNH | Chưa có input |
 | 4 | 428943 | **77/2026/NĐ-CP** | Quy định tổ chức và hoạt động Quỹ Đổi mới Công nghệ Quốc gia | Khoa học công nghệ | 🟡 TRUNG BÌNH | Chưa có input |
 | 5 | 428814 | **76/2026/NĐ-CP** | Sửa NĐ 125/2021 xử phạt vi phạm bình đẳng giới | Vi phạm hành chính / Bình đẳng giới | 🟡 TRUNG BÌNH | Chưa có input |
@@ -45,7 +75,9 @@ Phương pháp: refresh `tmp/discovery-v41/sitemap_nghidinh.xml` (85 KB) + `tmp/
 **Lưu ý**: max slug luatvietnam sitemap_nghidinh là **441673** (giữ nguyên v40 = 298/2026/NĐ-CP); 5 VB mới nằm ở dải 428–429 (slug nhỏ hơn max do re-batch sitemap bao gồm các VB đã được re-batch cùng ngày 27/7).
 
 ### Trạng thái tracking sau v43
-- 78 + 80 + 79 + 77 + 76/2026/NĐ-CP: 5 VB mới, chưa có input HTML để crawl
+- 78/2026/NĐ-CP: ✅ Hoàn thiện
+- 80/2026/NĐ-CP: ✅ Hoàn thiện
+- Còn lại 2 VB mới (79/76/2026) chưa crawl — đã có HTML đầy đủ từ Discovery v44 (luatvietnam.vn), sẽ crawl ở các poll kế tiếp theo ưu tiên TRUNG BÌNH
 - Theo mục 4.4 bước 4: tracking thiếu văn bản → cần Discovery tiếp để xác minh slug luatvietnam có body hay không
 - Poll sau sẽ spawn Đệ #1 Discovery v44 để xác minh 5 VB mới này (curl luatvietnam.vn cho từng slug, kiểm tra body có sẵn hay chỉ metadata)
 
