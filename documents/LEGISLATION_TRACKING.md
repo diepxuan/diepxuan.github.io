@@ -1,3 +1,36 @@
+## Cập nhật 2026-07-28 v48 (crawl 109/2026/TT-BCA Hoàn thiện — 2026-07-28 14:30 ICT)
+
+### Kết quả crawl: **109/2026/TT-BCA HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v45/tt109-bca.html` (slug 218804-d1, 1 MB — toàn văn đầy đủ phát hiện ở Discovery v45) làm input, extract bằng `scripts/build_109_tt_bca.py` (pattern tương tự 77/78/79/80/76, tùy biến body_start anchor cho "BỘ CÔNG AN"). Strip UI/tóm tắt, trích `<p>` từ "BỘ CÔNG AN", dừng trước footer "Bạn chưa Đăng nhập", dedup heading "Điều N." trùng. Dùng `html.unescape()`.
+
+**File output**: `van-ban/cong-an/109-2026-tt-bca-dao-tao-sat-hach-cap-giay-phep-lai-xe.md` — 1783 dòng, 138381 bytes.
+
+**Số hiệu**: 109/2026/TT-BCA — Thông tư quy định đào tạo, sát hạch, cấp giấy phép lái xe trong Công an nhân dân, ban hành 28/7/2026, hiệu lực 01/7/2026, ký bởi Bộ trưởng Bộ Công an Lương Tam Quang. Căn cứ: Luật Trật tự ATGT đường bộ 36/2024/QH15 (sửa 118/2025/QH15), NĐ 02/2025/NĐ-CP.
+
+**Cấu trúc**: 48 Điều (range 1-48, không missing/duplicate), 0 Chương. Nội dung chính: đào tạo lái xe (cơ sở đào tạo, giáo viên), sát hạch (trung tâm, sát hạch viên, Hội đồng), cấp GPLX CAND, bồi dưỡng kiến thức pháp luật GTĐB cho người điều khiển xe máy chuyên dùng Công an.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 31 issues — tất cả false positive "ngày l" (substring của "ngày làm việc", "ngày lễ", "ngày khai giảng" — tiếng Việt hợp lệ); `ocr_quality_gate_scan.py` Articles 48 (Range 1-48, Missing [], Duplicate []) — **PASS clean** (cùng pattern false positive đã biết như 77/78/79/80).
+
+### Trạng thái tracking sau v48
+- **109/2026/TT-BCA**: ✅ Hoàn thiện (commit `9fd87415` v48)
+- Batch 5 NĐ mới v43 (76/77/78/79/80) HOÀN THIỆN 100%
+- 5 file HTML mới từ Discovery v45: tt101-btc, tt107-bca, tt109-bca (✅ vừa crawl), tt115-bca, tt116-bca
+- **323 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 14:29 ICT 28/7, crawl inline 109/TT-BCA + cập nhật tracking v48)
+- Đệ #1 discovery-v45 (run-mode, poll 13:59) và Đệ #4 reviewer-batch-2807 (run-mode, poll 13:59) đã hoàn thành trước poll 14:29 — output ghi nhận: `processed/done: discovery-v45` + `processed/done: reviewer-batch-2807`
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- KHÔNG spawn đệ mới poll này: input HTML 109/TT-BCA đã có sẵn từ discovery-v45 → crawl inline đơn giản
+- HTML TT-BCA có nhiều false positive "ngày l" tương tự 77/78/79/80 — đã verify 100% là substring "ngày làm việc", "ngày lễ", "ngày khai giảng" hợp lệ tiếng Việt
+- docid 218804 đã verify qua web_fetch luatvietnam.vn (xem mục v2 ở dưới)
+- Poll sau (14:59 ICT): ưu tiên crawl 1 trong 4 TT-BCA còn lại (101-BTC, 107-BCA, 115-BCA, 116-BCA) hoặc refactor placeholder
+
+---
+
 ## Cập nhật 2026-07-28 v47 (crawl 76/2026/NĐ-CP Hoàn thiện — 2026-07-28 13:29 ICT)
 
 ### Kết quả crawl: **76/2026/NĐ-CP HOÀN THIỆN** (5/5 NĐ mới từ v43 — hoàn tất batch)
@@ -7651,7 +7684,7 @@ Quét full sitemap_nghidinh + sitemap_thongtu (lastmod 2026-07-15 17:53 / 11:53+
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
-| **109/2026/TT-BCA** | **29/06/2026** | **Quy định về đào tạo, sát hạch, cấp giấy phép lái xe; bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng trong Công an nhân dân** — quy định đào tạo, sát hạch, cấp GPLX xe máy chuyên dùng Công an; bao gồm cơ sở đào tạo, giáo viên dạy lái, trung tâm sát hạch, sát hạch viên, Hội đồng sát hạch; cấp GPLX Công an nhân dân; bồi dưỡng kiến thức pháp luật GTĐB; căn cứ Luật Trật tự ATGT đường bộ 36/2024/QH15 (sửa 118/2025/QH15), NĐ 02/2025/NĐ-CP; hiệu lực **01/7/2026** | Công an / Giao thông | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439433). Title: "Quy định đào tạo, sát hạch, cấp giấy phép lái xe trong Công an" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn (Hà Nội, ngày 29 tháng 6 năm 2026). sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN TRUNG BÌNH** — quy định nội bộ công an về GPLX. |
+| **109/2026/TT-BCA** | **29/06/2026** | **Quy định về đào tạo, sát hạch, cấp giấy phép lái xe; bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng trong Công an nhân dân** — quy định đào tạo, sát hạch, cấp GPLX xe máy chuyên dùng Công an; bao gồm cơ sở đào tạo, giáo viên dạy lái, trung tâm sát hạch, sát hạch viên, Hội đồng sát hạch; cấp GPLX Công an nhân dân; bồi dưỡng kiến thức pháp luật GTĐB; căn cứ Luật Trật tự ATGT đường bộ 36/2024/QH15 (sửa 118/2025/QH15), NĐ 02/2025/NĐ-CP; hiệu lực **01/7/2026** | Công an / Giao thông | vanban.chinhphu.vn (docid **218804** ✅) | **Hoàn thiện** (v48) | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439433). Title: "Quy định đào tạo, sát hạch, cấp giấy phép lái xe trong Công an" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn. Crawl Hoàn thiện v48 (48 Điều, file 138KB, nguồn luatvietnam.vn slug 218804-d1 HTML toàn văn 1MB). **ƯU TIÊN TRUNG BÌNH** — quy định nội bộ công an về GPLX. |
 | **107/2026/TT-BCA** | **29/06/2026** | **Quy chuẩn kỹ thuật quốc gia về Trung tâm sát hạch lái xe cơ giới đường bộ (QCVN 15:2026/BCA)** — ban hành QCVN 15:2026/BCA về Trung tâm sát hạch lái xe cơ giới đường bộ; quy định cơ sở vật chất, phương tiện, trang thiết bị, phần mềm sát hạch, y tế; thiết bị định danh điện tử; lộ trình 01/7/2026 và 01/01/2027, 01/01/2028; căn cứ Luật Trật tự ATGT 36/2024/QH15, Luật TC&QCVN 68/2006 (sửa 35/2018, 70/2025), NĐ 22/2026; hiệu lực **01/7/2026** | Công an / Giao thông | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439425). Title: "Quy chuẩn kỹ thuật Trung tâm sát hạch lái xe cơ giới" ✅. Ngày ban hành **29/6/2026** xác minh từ luatvietnam.vn. QCVN 15:2026/BCA — quy chuẩn quốc gia. sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN TRUNG BÌNH** — QCVN quốc gia mới về sát hạch lái xe. |
 | **105/2026/TT-BCA** | **26/06/2026** | **Sửa đổi, bổ sung một số điều của Thông tư 65/2024/TT-BCA về kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ để phục hồi điểm giấy phép lái xe** — sửa đổi TT 65/2024 về phục hồi điểm GPLX; quy định mới về kiểm tra kiến thức ATGT; căn cứ Luật Trật tự ATGT 36/2024/QH15, Luật 118/2025/QH15, NĐ 02/2025/NĐ-CP; hiệu lực **01/7/2026** | Công an / Giao thông | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439378). Title: "Sửa đổi Thông tư 65/2024 về phục hồi điểm giấy phép lái xe" ✅. Ngày ban hành **26/6/2026** xác minh từ luatvietnam.vn. sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN THẤP** — sửa đổi TT 65/2024 về phục hồi điểm GPLX. |
 | **94/2026/TT-BCA** | **18/06/2026** | **Quy định việc tổ chức xét, đề nghị và thẩm định hồ sơ đề nghị tạm đình chỉ, giảm thời hạn chấp hành án phạt tù** — quy định tổ chức xét, đề nghị và thẩm định hồ sơ tạm đình chỉ, giảm án phạt tù tại trại giam, trại tạm giam Công an; Hội đồng xét, đề nghị; thành phần, thẩm quyền; căn cứ Luật Thi hành án hình sự 127/2025/QH15, NĐ 02/2025/NĐ-CP; hiệu lực ký | Tư pháp / Công an | vanban.chinhphu.vn (docid **chua-xac-minh**) | **Chưa có** | **VĂN BẢN MỚI** — xác minh qua web_fetch luatvietnam.vn (slug 439633). Title: "Quy định xét, đề nghị tạm đình chỉ, giảm án phạt tù" ✅. Ngày ban hành **18/6/2026** xác minh từ luatvietnam.vn. sitemap_thongtu lastmod 2026-07-15. **ƯU TIÊN THẤP** — văn bản thi hành án hình sự chuyên đề. |
