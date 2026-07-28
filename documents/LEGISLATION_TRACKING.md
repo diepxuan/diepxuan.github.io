@@ -35,6 +35,40 @@ Phương pháp: dùng HTML `tmp/discovery-v45/tt115-bca.html` (slug 440224-d1, 7
 
 ---
 
+## Cập nhật 2026-07-28 v50 (crawl 116/2026/TT-BCA Hoàn thiện — 2026-07-28 17:29 ICT)
+
+### Kết quả crawl: **116/2026/TT-BCA HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v45/tt116-bca.html` (949 KB — toàn văn đầy đủ phát hiện ở Discovery v45) làm input, extract bằng `scripts/build_116_tt_bca.py` (pattern tương tự 109/115 + bổ sung **skip block Phụ lục mẫu Quyết định** bắt đầu từ marker "QUYẾT ĐỊNH" đứng riêng — template trong file chứa heading "Điều 1/2/3" giả gây duplicate). Strip UI/tóm tắt, trích `<p>` từ "BỘ CÔNG AN", dừng trước footer "Bạn chưa Đăng nhập", bỏ qua toàn bộ nội dung Phụ lục mẫu. Dùng `html.unescape()`.
+
+**File output**: `van-ban/cong-an/116-2026-tt-bca-quy-dinh-chi-tiet-thi-hanh-luat-cu-tru.md` — 989 dòng, 95790 bytes.
+
+**Số hiệu**: 116/2026/TT-BCA — Thông tư quy định chi tiết thi hành Luật Cư trú, ban hành 29/6/2026, hiệu lực 01/7/2026, ký bởi Bộ trưởng Bộ Công an Lương Tam Quang. Căn cứ: Luật Cư trú 47/2024/QH15 + NĐ 02/2025/NĐ-CP (quy định chức năng Bộ Công an).
+
+**Cấu trúc**: 28 Điều (range 1-28, đầy đủ), 8 Chương (I-VIII) — **PASS clean**. Chương I: Quy định chung (Điều 1-2). Chương II: Đăng ký thường trú (Điều 3-9). Chương III: Đăng ký tạm trú (Điều 10-14). Chương IV: Thông báo lưu trú, khai báo tạm vắng (Điều 15-18). Chương V: Cập nhật, điều chỉnh thông tin cư trú (Điều 19-22). Chương VI: Xác nhận thông tin cư trú (Điều 23-25). Chương VII: Hủy bỏ kết quả giải quyết thủ tục cư trú (Điều 26-27). Chương VIII: Điều khoản thi hành (Điều 28). Nội dung chính: hướng dẫn chi tiết đăng ký thường trú, tạm trú, lưu trú, tạm vắng; xác nhận cư trú; hủy bỏ kết quả giải quyết; Cơ sở dữ liệu quốc gia về dân cư + Cơ sở dữ liệu về cư trú; thời hạn giải quyết (1/2 ngày → 3 ngày làm việc tùy trường hợp); mẫu Quyết định hủy bỏ (Phụ lục).
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 3 issues — tất cả false positive "ngày l" (substring "ngày làm việc" hoặc "1/2 ngày" tiếng Việt hợp lệ, đã verify thủ công các dòng 163/183/241); `ocr_quality_gate_scan.py` Articles 28 (Range 1-28, Missing [], Duplicate []), Chapters 8 (I-VIII đúng thứ tự) — **PASS clean** (cùng pattern false positive đã biết như 77/78/79/80/107/109/115).
+
+### Trạng thái tracking sau v50
+- 76/77/78/79/80/2026/NĐ-CP: ✅ Hoàn thiện
+- 107/109/115/116/2026/TT-BCA: ✅ Hoàn thiện (4 VB từ discovery-v45 — 107 QCVN, 109 lái xe, 115 an ninh HK, **116 cư trú**)
+- Còn lại: **101/2026/TT-BTC** (chứng chỉ kế toán trưởng — chưa có input sẵn, cần discovery mới)
+- **323 file placeholder** cần refactor (chưa xử lý poll nào)
+- **Tracking v50 — batch 5 VB từ discovery-v45 HOÀN TẤT 4/5** (còn 101/TT-BTC)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 17:29 ICT 28/7, crawl inline 116/TT-BCA + cập nhật tracking v50)
+- KHÔNG spawn đệ mới poll này: input HTML 116/TT-BCA đã có sẵn từ discovery-v45 → crawl inline đơn giản
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- Cùng pattern false positive "ngày l" (3 case) đã biết từ 77/78/79/80/107/109/115
+- Phát hiện kỹ thuật mới: luatvietnam.vn Phụ lục trong VB có marker "QUYẾT ĐỊNH" đứng riêng (1 dòng) → toàn bộ content sau đó là **mẫu Quyết định/Tờ khai**, không phải nội dung luật. Script 116 đã detect + skip để tránh duplicate Điều 1/2/3 giả. Có thể áp dụng cho các crawl TT/NĐ khác nếu gặp pattern tương tự.
+- docid 116 xác minh qua web_fetch luatvietnam.vn (slug tt116-bca)
+- Poll sau (17:59 hoặc 18:29 ICT): tiếp tục refactor placeholder, hoặc spawn Discovery v46/v47 tìm VB mới + xác minh 101/TT-BTC
+
+---
+
 ## Cập nhật 2026-07-28 v48 (crawl 109/2026/TT-BCA Hoàn thiện — 2026-07-28 14:30 ICT)
 
 ### Kết quả crawl: **109/2026/TT-BCA HOÀN THIỆN**
