@@ -1,3 +1,29 @@
+## Cập nhật 2026-07-28 v44 (crawl 77/2026/NĐ-CP Hoàn thiện — 2026-07-28 11:30 ICT)
+
+### Kết quả crawl: **77/2026/NĐ-CP HOÀN THIỆN** (1/5 NĐ mới từ v43)
+
+Phương pháp: dùng HTML `tmp/discovery-v44/nd77-lv.html` (slug 428943-d1, 495 KB — toàn văn đầy đủ phát hiện ở Discovery v44) làm input, extract bằng `scripts/build_77_nd_cp.py` (pattern tương tự 294 + 297 + 298). Strip UI/tóm tắt, trích `<p>` từ "Hiệu lực: Đã biết... CHÍNH PHỦ", dừng trước footer "Bạn chưa Đăng nhập", dedup heading "Điều N." trùng (có 1 lặp từ Phụ lục). Dùng `html.unescape()`.
+
+**File output**: `van-ban/khoa-hoc-cong-nghe/77-2026-nd-cp.md` — 703 dòng, 56632 bytes.
+
+**Số hiệu**: 77/2026/NĐ-CP — Nghị định quy định tổ chức và hoạt động của Quỹ Đổi mới công nghệ quốc gia, ban hành 17/3/2026, hiệu lực 17/3/2026, ký bởi Phó Thủ tướng Hồ Đức Phớc (KT. Thủ tướng). Căn cứ: Luật Tổ chức CP 63/2025/QH15 + Luật KHCN&ĐMST 93/2025/QH15 + Luật Chuyển giao công nghệ 07/2017/QH14 (sửa 115/2025/QH15).
+
+**Cấu trúc**: 21 Điều (range 1-21), không có Chương. Bao gồm Điều lệ tổ chức và hoạt động của Quỹ (Thủ tướng ban hành) + Phụ lục mẫu Thỏa thuận hợp tác hỗ trợ lãi suất vay với ngân hàng.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues; `ocr_quality_gate_scan.py` Articles 21 (Range 1-21, Missing [], Duplicate []), Chapters 0 — **PASS clean**.
+
+### Trạng thái tracking sau v44
+- **77/2026/NĐ-CP**: ✅ Hoàn thiện (xóa khỏi "chưa có input")
+- Còn lại 4 VB mới (78/80/79/76/2026) chưa crawl — đã có HTML đầy đủ từ Discovery v44 (luatvietnam.vn), sẽ crawl ở các poll kế tiếp theo ưu tiên TRUNG BÌNH
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 11:30 ICT 28/7, xử lý completion discovery-v44 + reviewer-2806, commit 77/NĐ-CP HOÀN THIỆN + tracking v44)
+
+### Ghi chú kỷ luật
+- KHÔNG spawn đệ mới poll này: discovery-v44 đã chạy, reviewer-2806 đã chạy (output không rõ ràng, coi như đã xử lý theo mục 4.5)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+- Crawl 77/2026/NĐ-CP inline vì task đơn giản (extract HTML + commit) đã hoàn thành inline
+
 ## Cập nhật 2026-07-28 v43 (Discovery v41 — refresh sitemap luatvietnam.vn — 2026-07-28 09:59 ICT)
 
 ### Kết quả discovery: phát hiện 5 VB mới trong sitemap luatvietnam.vn ngày 27/7
