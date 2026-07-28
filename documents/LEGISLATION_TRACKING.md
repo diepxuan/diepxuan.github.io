@@ -103,6 +103,41 @@ Phương pháp: dùng HTML `tmp/discovery-v45/tt101-btc.html` (slug 440981, 482 
 
 ---
 
+## Cập nhật 2026-07-28 v52 (crawl 10/2026/TT-BNG Hoàn thiện — 2026-07-28 22:30 ICT)
+
+### Kết quả crawl: **10/2026/TT-BNG HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v45/tt10-bng.html` (slug 441762, 597 KB — toàn văn đầy đủ phát hiện ở Discovery v45 ngày 14:08 ICT 28/7 nhưng chưa được build cho đến poll này) làm input, extract bằng `scripts/build_10_tt_bng.py` (pattern tương tự 77/78/79/80/76 cho NĐ-CP và 109/115/116 cho TT-BCA, tùy biến body_start anchor = "BỘ NGOẠI GIAO"). Strip UI/tóm tắt, trích `<p>` từ "BỘ NGOẠI GIAO", dừng trước footer "Bạn chưa Đăng nhập", skip block Phụ lục I/II (bảng định mức khoán chi), dedup heading "Điều N." trống. Dùng `html.unescape()`.
+
+### Kết quả build
+- File: `van-ban/ngoai-giao/10-2026-tt-bng-huong-dan-thi-hanh-nghi-quyet-197-2025-qh15.md` — 136 dòng, 20250 bytes
+- 9 Điều (range 1-9 đầy đủ), 0 Chương
+- Front matter đầy đủ: title, so-hieu (10/2026/TT-BNG), ngay-ban-hanh (17/7/2026), ngay-hieu-luc (17/7/2026), nguoi-ky (Lê Hoài Trung), chuc-vu (Bộ trưởng Bộ Ngoại giao), trangthai (hoanthien), nguon (luatvietnam.vn), slug (10/2026/TT-BNG)
+- Căn cứ: Nghị quyết 197/2025/QH15 + Nghị định 289/2025/NĐ-CP + Nghị định 28/2025/NĐ-CP (sửa 109/2025/NĐ-CP)
+- Đặc điểm: Phụ lục I + II chứa bảng định mức khoán chi — đã skip đúng cách (giữ nội dung 9 Điều chính)
+- Người ký xác minh: Bộ trưởng Lê Hoài Trung (file gốc); KT. Bộ trưởng ký thay là Thứ trưởng Lê Anh Tuấn
+
+### Validation
+- OCR Quality Gate scan_ocr_quality.py: 0 issues
+- ocr_quality_gate_scan.py: Articles 9 (Range 1-9, Missing [], Duplicate []), Chapters 0 — **PASS clean**
+
+### Trạng thái tracking sau v52
+- **10/2026/TT-BNG**: ✅ Hoàn thiện (commit `82a8a5c0` v52 — Bộ Ngoại giao)
+- **Tracking v52** — bổ sung 1 VB mới (10/TT-BNG) từ discovery-v45 chưa build từ batch trước
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 22:30 ICT 28/7, crawl inline 10/TT-BNG + cập nhật tracking v52)
+- KHÔNG spawn đệ mới poll này: input HTML 10/TT-BNG đã có sẵn từ discovery-v45 → crawl inline đơn giản
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- File `van-ban/ngoai-giao/10-2026-tt-bng-...md` đã được build từ poll trước (22:19 ICT 28/7) nhưng CHƯA commit. Poll này thực hiện commit + push + cập nhật tracking.
+- 10/TT-BNG có hiệu lực từ 17/7/2026 (cùng ngày ban hành) → văn bản đã có hiệu lực. Áp dụng điều khoản chuyển tiếp cho hoạt động xây dựng VBQPPL/điều ước quốc tế từ 01/01/2026.
+- docid 441762 đã verify qua web_search.
+- Poll sau (23:00 ICT hoặc 23:30 ICT): không còn VB input sẵn → cần spawn Discovery v46 (refresh sitemap_luatvietnam.vn + xác minh các VB v1-v15+ chưa có input) + Reviewer (refactor 323 file placeholder hoặc OCR quality gate).
+
+---
+
 ## Cập nhật 2026-07-28 v48 (crawl 109/2026/TT-BCA Hoàn thiện — 2026-07-28 14:30 ICT)
 
 ### Kết quả crawl: **109/2026/TT-BCA HOÀN THIỆN**
