@@ -8389,3 +8389,35 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
   - Tracking đầy đủ + 0 VB mới + sitemap đã refresh liên tiếp 3 lần → CÓ THỂ tạm dừng refresh sitemap trong 6–12 giờ tới (chờ re-batch mới)
   - Có thể thử lại Reviewer PR comments với cơ chế sync thay vì run-mode (để tránh lặp lại fail silent)
   - Có thể refactor 323 file placeholder (nếu Sếp đã duyệt)
+
+---
+
+## Cập nhật 2026-07-29 v56 (crawl 108/2026/TT-BTC Hoàn thiện — 2026-07-29 05:30 ICT)
+
+### Kết quả crawl: **108/2026/TT-BTC HOÀN THIỆN**
+
+Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit `39a3fda6` (05:30:29 ICT 29/7) thêm file `van-ban/tai-chinh/108-2026-tt-btc-huong-dan-ke-toan-co-phan-hoa-doanh-nghiep-nha-nuoc.md` (741 dòng) do `github-io-bot` tạo. Source HTML luatvietnam.vn (slug 441828, ~419 KB) đã có sẵn trong `tmp/crawl-108-ttbtc/` (parse.py 12.5 KB + source.html 419 KB + scan scripts).
+
+**File output**: `van-ban/tai-chinh/108-2026-tt-btc-huong-dan-ke-toan-co-phan-hoa-doanh-nghiep-nha-nuoc.md` — 741 dòng, 36 KB.
+
+**Số hiệu**: 108/2026/TT-BTC — Thông tư hướng dẫn kế toán cổ phần hóa doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ, ban hành 24/7/2026, hiệu lực 24/7/2026 (cùng ngày ban hành), ký bởi **Thứ trưởng Bộ Tài chính Tạ Anh Tuấn** (ký thay Bộ trưởng). Căn cứ: Luật Kế toán 88/2015/QH13 (sửa đổi 56/2024/QH15), Luật Quản lý vốn nhà nước tại DNNN 68/2025/QH15, NĐ 57/2026/NĐ-CP (cơ cấu lại vốn), NĐ 29/2025/NĐ-CP (chức năng Bộ Tài chính, sửa đổi 166/2025/NĐ-CP).
+
+**Cấu trúc**: 18 Điều (Range 1-18, no missing/duplicate), 3 Chương (I-III) — **PASS clean**. Chương I: Quy định chung (Điều 1-2). Chương II: Kế toán cổ phần hóa (Điều 3-15 — danh mục tài khoản, bút toán, xử lý chênh lệch đánh giá lại, lập báo cáo tài chính chuyển đổi). Chương III: Điều khoản thi hành (Điều 16-18).
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues — **PASS clean** (không có false positive "ngày l" như 77/78/79/80/107/109/115/116).
+
+### Trạng thái tracking sau v56
+- **101/108/2026/TT-BTC**: ✅ Hoàn thiện (101 = bồi dưỡng kế toán trưởng, **108 = kế toán cổ phần hóa DNNN**)
+- Tổng VB BTC đã hoàn thiện trong đợt heartbeat này: 89/97/101/**108**
+- **323 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 05:29 ICT 29/7, phát hiện commit `39a3fda6` đã có sẵn trên origin do session/sub-agent khác đẩy, không phải poll hiện tại tạo)
+- Poll hiện tại chỉ: (1) verify file output (OCR pass clean), (2) append entry tracking v56, (3) commit + push + cập nhật PR
+- PR #260 vẫn active, không merge/close
+
+### Ghi chú kỷ luật
+- Commit `39a3fda6` đã được đẩy lên origin lúc 05:30:29 ICT (gần poll hiện tại) nhưng poll này (05:29) chưa có commit. Có thể do cron song song hoặc session khác đẩy.
+- 108/TT-BTC: slug 441828 thuộc dải "trên ref v55/v54" (max ref = 441762 cho TT), nhưng không nằm trong sitemap_xml (sitemap có lastmod cũ 28/7). Có thể được re-batch giữa 2 đợt sitemap, hoặc session khác đã fetch riêng trang chi tiết.
+- 108/TT-BTC ban hành 24/7/2026 cùng ngày với 116/TT-BCA (29/6) → thuộc nhóm văn bản tháng 7/2026 đang được crawl rải đều.
+- Poll sau (06:00 hoặc 06:29 ICT 29/7): theo mục 4.4 bước 4 — tracking đầy đủ + 0 VB mới từ sitemap + commit mới có thể xuất hiện bất kỳ lúc nào → KHÔNG spawn Discovery (vì 3 lần liên tiếp 0 VB mới qua sitemap refresh). CÓ THỂ: (a) sync Reviewer để check PR comments (nếu poll tiếp theo vẫn không có commit mới), (b) refactor placeholder, (c) tiếp tục chờ re-batch luatvietnam.vn.
