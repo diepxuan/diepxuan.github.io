@@ -8234,3 +8234,32 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
 - Sitemap `nghidinh` ref: giữ nguyên **441290** (ref cũ v23+).
 - **Lastmod chùm 2026-07-25T11:59:32** trên sitemap_thongtu (≈100 entries đồng loạt) gợi ý: luatvietnam re-batch sitemap sau khoảng 5–10 ngày — cần theo dõi để tránh trượt phát hiện.
 - Không có check trên thukyluat.vn / baochinhphu.vn / chinhphu.vn trong phiên này (đã khẳng định nguồn vanban.chinhphu.vn 404 từ 21/7).
+
+---
+
+## Cập nhật 2026-07-29 v53 (Discovery v46 — refresh sitemap "an toàn" — 2026-07-29 00:30 ICT)
+
+### Kết quả Discovery v46
+
+- **Sitemap_nghidinh** (luatvietnam.vn): 334 urls. Max slug "chính" = **441673** (giữ nguyên v45 ref = 298/NĐ-CP). Top NĐ: 441740 (d10, bỏ qua), 441725 (d10, bỏ qua), 441673, 441543, 441542, 441541, 441540, 441400, 441350 (d10), 441290. Tất cả entries top đều đã có trong tracking hoặc là dự thảo (suffix `-d10`) — bỏ qua đúng protocol.
+- **Sitemap_thongtu** (luatvietnam.vn): 708 urls. Max slug = **441762** (giữ nguyên v45 ref = 10/TT-BNG). Top TT: 441762, 441731 (d10, bỏ qua), 441529 (= 57/TT-BGDDT), 441498, 441410, 441401, 441351 (d10), 441340 (d10), 441310, 441309. Tất cả entries top đều đã có trong tracking hoặc là dự thảo.
+- **Kết luận**: 0 văn bản mới so với ref v45. Discovery v46 = **refresh "an toàn"**.
+
+### Trạng thái tracking sau v53
+- **Ref giữ nguyên**: NĐ max slug = 441673; TT max slug = 441762
+- Tất cả VB mới phát hiện đều là dự thảo (suffix `-d10`) — bỏ qua theo protocol heartbeat
+- Tracking không cập nhật VB nào ở v53 (refresh thuần tuý)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 00:30 ICT 29/7, xử lý completion 2 đệ từ poll 23:59 ICT 28/7)
+- `processed/done: discovery-v46` (poll 23:59 spawn → output sitemap.xml fresh 00:33 ICT, 0 VB mới)
+- `processed/done: reviewer-batch-2808` (poll 23:59 spawn → output rỗng, coi như fail silent, fallback theo mục 4.5)
+- KHÔNG spawn đệ mới poll này: 0 VB mới + không có file input sẵn → không có gì để crawl, không có review comments cần xử lý
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- Reviewer-batch-2808 rỗng → có thể bị timeout/runtime error ngay từ đầu. Theo mục 4.5 fallback: "không xác định được tình trạng sub-agent → coi như sub-agent không tồn tại và tiếp tục workflow bình thường". Poll sau nếu cần review PR comments thì spawn lại.
+- Poll sau (00:59 hoặc 01:29 ICT 29/7): theo mục 4.4 bước 4 — không có file input sẵn + 0 VB mới + tracking đầy đủ → có thể:
+  - Spawn Đệ #1 Discovery v47 (refresh lại luatvietnam.vn) + Đệ #4 Reviewer (review comments PR #260, OCR quality gate batch kế) song song
+  - Hoặc refactor 323 file placeholder
+  - Hoặc chờ batch luatvietnam.vn re-batch tiếp theo
