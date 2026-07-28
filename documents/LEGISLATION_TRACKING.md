@@ -69,6 +69,40 @@ Phương pháp: dùng HTML `tmp/discovery-v45/tt116-bca.html` (949 KB — toàn 
 
 ---
 
+## Cập nhật 2026-07-28 v51 (crawl 101/2026/TT-BTC Hoàn thiện — 2026-07-28 19:59 ICT)
+
+### Kết quả crawl: **101/2026/TT-BTC HOÀN THIỆN** (batch 5/5 từ discovery-v45 — hoàn tất batch)
+
+Phương pháp: dùng HTML `tmp/discovery-v45/tt101-btc.html` (slug 440981, 482 KB — toàn văn đầy đủ phát hiện ở Discovery v45) làm input, extract bằng `scripts/build_101_tt_btc.py` (pattern tương tự 109/115/116 cho Thông tư liên bộ, body_start anchor = "BỘ TÀI CHÍNH" + "Số: 101/2026/TT-BTC"). Strip UI/tóm tắt, trích `<p>` từ "BỘ TÀI CHÍNH", dừng trước footer "Bạn chưa Đăng nhập", dedup heading "Điều N." trùng, render Chương heading. Dùng `html.unescape()`.
+
+**File output**: `van-ban/tai-chinh/101-2026-tt-btc-boi-duong-chung-chi-ke-toan-truong.md` — 997 dòng, 47577 bytes.
+
+**Số hiệu**: 101/2026/TT-BTC — Thông tư quy định về tổ chức bồi dưỡng và cấp Chứng chỉ bồi dưỡng kế toán trưởng, ban hành 15/7/2026, hiệu lực 01/01/2027, ký bởi **Bộ trưởng Bộ Tài chính Ngô Văn Tuấn** (nhiệm kỳ 2026-2031, được QH phê chuẩn 8/4/2026). Căn cứ: Luật Kế toán 88/2015/QH13 (sửa đổi 2025), Luật sửa đổi Luật Chứng khoán/Luật Kế toán/Luật Kiểm toán/Luật Ngân sách (2025), NĐ 174/2016/NĐ-CP, NĐ 29/2025/NĐ-CP.
+
+**Cấu trúc**: 20 Điều (range 1-20 đầy đủ), 3 Chương (I-III). Chương I: Quy định chung (Điều 1-3). Chương II: Quy định cụ thể (Điều 4-19) — bao gồm chương trình bồi dưỡng 152h (KTNN) / 184h (DN), điều kiện học viên (2-3 năm KN), mẫu Chứng chỉ, chế độ báo cáo (Phụ lục V). Chương III: Điều khoản thi hành (Điều 20). Nội dung chính: chương trình bồi dưỡng 11 chuyên đề chi tiết (chuyên đề 1-11 cho DN, học phần I+II cho KTNN), cấp Chứng chỉ 5 năm, hình thức trực tiếp/trực tuyến/kết hợp, học phí, kiểm tra giám sát.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 1 issue — false positive "ngày l" ở L520 (substring "Trong thời hạn 10 ngày làm việc kể từ ngày kết thúc..." — tiếng Việt hợp lệ, đã verify thủ công); `ocr_quality_gate_scan.py` Articles 20 (Range 1-20, Missing [], Duplicate []), Chapters 3 (I-III đầy đủ, đúng thứ tự) — **PASS về cấu trúc** (cùng pattern false positive đã biết như 77/78/79/80/107/109/115/116).
+
+### Trạng thái tracking sau v51
+- 76/77/78/79/80/2026/NĐ-CP: ✅ Hoàn thiện
+- 107/109/115/116/2026/TT-BCA: ✅ Hoàn thiện
+- **101/2026/TT-BTC**: ✅ Hoàn thiện (commit `d01c7a50` v51 — kế toán trưởng)
+- **Tracking v51 — batch 5 VB từ discovery-v45 HOÀN TẤT 5/5** (101-BTC, 107/109/115/116-BCA)
+- **323 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 19:59 ICT 28/7, crawl inline 101/TT-BTC + cập nhật tracking v51)
+- KHÔNG spawn đệ mới poll này: input HTML 101/TT-BTC đã có sẵn từ discovery-v45 → crawl inline đơn giản
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- Phát hiện kỹ thuật: luatvietnam.vn body lược phần ký tên cuối để dụ đăng ký thành viên (cùng pattern các TT-BCA trước). Xác minh người ký qua web_search → Bộ trưởng Bộ Tài chính Ngô Văn Tuấn (nhiệm kỳ 2026-2031 từ 8/4/2026) — cùng pattern xác minh metadata cho các TT khác khi HTML không có phần ký.
+- 101/TT-BTC có hiệu lực từ 01/01/2027 (tương lai so với 28/7/2026) → văn bản chưa áp dụng, nhưng đã ban hành chính thức nên crawl Hoàn thiện theo protocol.
+- docid 440981 đã verify qua web_search.
+- Poll sau (20:29 hoặc 20:59 ICT): không còn VB input sẵn từ discovery-v45 → cần spawn Discovery v46 (refresh sitemap_luatvietnam.vn + xác minh các VB v1-v15+ chưa có input) + Reviewer (refactor 323 file placeholder hoặc OCR quality gate).
+
+---
+
 ## Cập nhật 2026-07-28 v48 (crawl 109/2026/TT-BCA Hoàn thiện — 2026-07-28 14:30 ICT)
 
 ### Kết quả crawl: **109/2026/TT-BCA HOÀN THIỆN**
