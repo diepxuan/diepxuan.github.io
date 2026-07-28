@@ -1,3 +1,42 @@
+## Cập nhật 2026-07-28 v43 (Discovery v41 — refresh sitemap luatvietnam.vn — 2026-07-28 09:59 ICT)
+
+### Kết quả discovery: phát hiện 5 VB mới trong sitemap luatvietnam.vn ngày 27/7
+
+Phương pháp: refresh `tmp/discovery-v41/sitemap_nghidinh.xml` (85 KB) + `tmp/discovery-v41/sitemap_thongtu.xml` (180 KB) từ luatvietnam.vn lúc 09:21–09:23 ICT 28/7. So với ref v40 (max 441673 NĐ + 441529 TT):
+
+**5 Nghị định mới phát hiện** (lastmod 2026-07-27T18:00:47+07:00 đồng loạt — chứng tỏ sitemap re-batch ngày 27/7):
+
+| # | Slug | Số hiệu | Trích yếu | Chủ đề | Ưu tiên | Trạng thái |
+|---|------|---------|-----------|--------|---------|------------|
+| 1 | 429334 | **78/2026/NĐ-CP** | Sửa NĐ về xử phạt vi phạm kinh doanh bảo hiểm | Vi phạm hành chính / Bảo hiểm | 🟡 TRUNG BÌNH | Chưa có input |
+| 2 | 429240 | **80/2026/NĐ-CP** | Sửa NĐ 142/2017 xử phạt vi phạm hàng hải & giao thông thủy | Vi phạm hành chính / Hàng hải | 🟡 TRUNG BÌNH | Chưa có input |
+| 3 | 429185 | **79/2026/NĐ-CP** | Xử phạt vi phạm hành chính trong quản lý biên giới | Vi phạm hành chính / Biên giới | 🟡 TRUNG BÌNH | Chưa có input |
+| 4 | 428943 | **77/2026/NĐ-CP** | Quy định tổ chức và hoạt động Quỹ Đổi mới Công nghệ Quốc gia | Khoa học công nghệ | 🟡 TRUNG BÌNH | Chưa có input |
+| 5 | 428814 | **76/2026/NĐ-CP** | Sửa NĐ 125/2021 xử phạt vi phạm bình đẳng giới | Vi phạm hành chính / Bình đẳng giới | 🟡 TRUNG BÌNH | Chưa có input |
+
+**Thông tư ref**: max slug = **441529** (giữ nguyên v40) — không có TT mới.
+
+**Lưu ý**: max slug luatvietnam sitemap_nghidinh là **441673** (giữ nguyên v40 = 298/2026/NĐ-CP); 5 VB mới nằm ở dải 428–429 (slug nhỏ hơn max do re-batch sitemap bao gồm các VB đã được re-batch cùng ngày 27/7).
+
+### Trạng thái tracking sau v43
+- 78 + 80 + 79 + 77 + 76/2026/NĐ-CP: 5 VB mới, chưa có input HTML để crawl
+- Theo mục 4.4 bước 4: tracking thiếu văn bản → cần Discovery tiếp để xác minh slug luatvietnam có body hay không
+- Poll sau sẽ spawn Đệ #1 Discovery v44 để xác minh 5 VB mới này (curl luatvietnam.vn cho từng slug, kiểm tra body có sẵn hay chỉ metadata)
+
+### Phương pháp
+- Refresh 2 sitemap xml từ luatvietnam.vn bằng curl + Host/UA header giả lập Chrome
+- Parse `<loc>` tags bằng regex, so với ref cũ v40 để phát hiện slug mới
+- 5 VB mới có cùng lastmod 2026-07-27T18:00:47+07:00 → chứng tỏ re-batch đồng loạt
+- KHÔNG crawl body trong poll này (chỉ sitemap) — body sẽ được xác minh ở Discovery v44 nếu Sếp duyệt
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 09:59 ICT 28/7, xử lý completion discovery-v41 + reviewer-2804, commit tracking v43)
+
+### Ghi chú kỷ luật
+- KHÔNG spawn đệ mới poll này: discovery-v41 đã chạy, reviewer-2804 đã chạy, output được ghi nhận xong
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+- Reviewer-2804 phát hiện 323 file có placeholder trong van-ban/ → danh sách đầy đủ lưu tại `tmp/reviewer-2804/refactor-scan.txt` cho poll sau xử lý
+
 ## Cập nhật 2026-07-28 v42 (crawl 297/2026/NĐ-CP Hoàn thiện — 2026-07-28 05:59 ICT)
 
 ### Kết quả crawl: **297/2026/NĐ-CP HOÀN THIỆN** (re-crawl từ STUB)
