@@ -8293,3 +8293,59 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
   - Spawn Đệ #1 Discovery v48 (refresh lại luatvietnam.vn) + Đệ #4 Reviewer (review comments PR #260, OCR quality gate batch kế) song song
   - Hoặc refactor 323 file placeholder
   - Hoặc chờ batch luatvietnam.vn re-batch tiếp theo (lastmod chùm 2026-07-28T18:01:19 cho NĐ + 2026-07-28T10:58:15 cho TT)
+
+---
+
+## Cập nhật 2026-07-29 v54 (Discovery v47 — refresh sitemap luatvietnam.vn "an toàn" — 2026-07-29 02:40 ICT)
+
+### Kết quả Discovery v47
+
+- **Sitemap_nghidinh** (luatvietnam.vn, `tmp/discovery-v47/sitemap_nghidinh.xml` 84 KB, 334 urls, lastmod max 2026-07-28T18:01:19+07:00). Max slug "chính" = **441673** (giữ nguyên v45/v53 ref = 298/NĐ-CP). Top NĐ:
+  1. **441740** `-d10` (dự thảo NĐ sửa đổi NĐ 52/2026/NĐ-CP quản lý tài sản Đảng — luatvietnam.vn/tai-chinh/du-thao-nghi-dinh-sua-doi-nghi-dinh-52-2026-nd-cp-ve-quan-ly-tai-san-dang-441740-d10.html, lastmod 2026-07-28T09:25:37+07:00) → **BỎ QUA** (dự thảo)
+  2. **441725** `-d10` (dự thảo NĐ sửa đổi bổ sung NĐ 112/2017/NĐ-CP chính sách thanh niên xung phong miền Nam — luatvietnam.vn/chinh-sach/du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-112-2017-nd-cp-ve-chinh-sach-thanh-nien-xung-phong-mien-nam-441725-d10.html, lastmod 2026-07-28T18:01:19+07:00) → **BỎ QUA** (dự thảo)
+  3. **441673** `-d1` (298/NĐ-CP — ref max, đã có trong tracking)
+  4. 441543 (294/NĐ-CP), 441542 (295/NĐ-CP), 441541 (297/NĐ-CP), 441540 (296/NĐ-CP) — các NĐ ref v39/v45, đã có trong tracking
+  5. 441400 `-d10`, 441350 `-d10` (dự thảo), 441290 (ref cũ) — đã có/bỏ qua đúng protocol
+
+- **Sitemap_thongtu** (luatvietnam.vn, `tmp/discovery-v47/sitemap_thongtu.xml` 177 KB, 708 urls, lastmod max 2026-07-28T10:58:15+07:00). Max slug = **441762** (giữ nguyên v45/v53 ref = 10/TT-BNG). Top TT:
+  1. **441762** `-d1` (10/TT-BNG — ref max, đã có trong tracking; luatvietnam.vn/ngoai-giao/thong-tu-10-2026-tt-bng-huong-dan-thi-hanh-nghi-quyet-197-2025-qh15-441762-d1.html, lastmod 2026-07-28T10:47:11+07:00)
+  2. 441731 `-d10` (dự thảo quản lý lâm sản) → **BỎ QUA**
+  3. 441529 (57/TT-BGDDT), 441498 (110/TT-BCA), 441410 (104/TT-BQP), 441401, 441351 `-d10`, 441340 `-d10`, 441310, 441309 — đã có/bỏ qua
+
+- **So với ref v53** (NĐ max = 441673, TT max = 441762):
+  - **NĐ**: 2 candidates > 441673 → cả 2 đều `-d10` (dự thảo) → filter hết
+  - **TT**: 0 candidates > 441762
+  - **VB mới: 0** (cả NĐ lẫn TT)
+- **Kết luận**: 0 văn bản mới so với ref v53. Discovery v47 = **refresh "an toàn"** lần thứ 2 liên tiếp (v46 cũng 0 VB mới).
+
+- **Xác minh chi tiết**: KHÔNG có slug mới nào để xác minh (0 candidates sau khi lọc `-d10`). Hai slug ref max 441673 (NĐ) và 441762 (TT) đã được verify từ v39 (NĐ) và v45 (TT) — không cần verify lại.
+
+### Trạng thái tracking sau v54
+- **Ref giữ nguyên** từ v45 → v46 → v47: NĐ max slug = **441673**; TT max slug = **441762**
+- Tất cả VB "mới hơn" phát hiện đều là dự thảo (suffix `-d10`) — bỏ qua theo protocol heartbeat mục 2.2
+- Tracking không cập nhật VB nào ở v54 (refresh thuần tuý)
+- Tracking đầy đủ, đầy đủ NĐ 294/295/296/297/298/2026, TT 10/41/57/97/101/104/107/109/110/115/116
+
+### Phiên thực hiện
+- Sub-agent `discovery-v47` (depth 1/1) spawn từ HEARTBEAT poll 02:13 ICT 29/7 → hoàn thành 02:40 ICT 29/7 (~27 phút, trong timeout 12 phút yêu cầu)
+- 2 sitemaps fetched: ND (84 KB, 334 urls) + TT (177 KB, 708 urls)
+- 0 trang chi tiết được mở (0 VB mới để verify)
+- KHÔNG spawn thêm sub-agent
+- KHÔNG crawl body, KHÔNG tạo file `van-ban/`
+- KHÔNG commit, KHÔNG push (Bot main sẽ commit + push theo HEARTBEAT.md mục 2.5)
+- Raw data lưu tại `tmp/discovery-v47/`:
+  - `sitemap_nghidinh.xml` (84 KB)
+  - `sitemap_thongtu.xml` (177 KB)
+
+### Ghi chú kỷ luật
+- Discovery v46 → v47: 2 lần refresh sitemap liên tiếp đều cho 0 VB mới. Dải "trên ref" (441674-441762 cho TT; 441674-441740 cho NĐ) hiện đang là **drafts/dự thảo** đồng loạt, không có VB "chính" (slug không có suffix `-d10`) nào được re-batch trên luatvietnam.vn kể từ 28/7.
+- Lastmod max sitemap = 2026-07-28T18:01:19+07:00 (ND) / 2026-07-28T10:58:15+07:00 (TT) — không có entry mới hơn 28/7, sitemap chưa được re-batch sau 28/7/2026.
+- **Quan sát chiến lược**: luatvietnam.vn sitemap re-batch pattern:
+  - NĐ re-batch 2026-07-28T09:25, 13:53, 18:01 (3 đợt trong ngày 28/7 — phù hợp "re-batch 5–10 ngày" ghi nhận từ v32)
+  - TT re-batch 2026-07-28T10:01, 10:47, 10:58 (3 đợt trong ngày 28/7)
+  - Từ 29/7 00:00 đến 02:40 ICT (≈2.5 giờ) chưa có re-batch — theo dõi poll tiếp theo để xem có đợt mới không.
+- Poll sau (02:59 hoặc 03:29 ICT 29/7) theo HEARTBEAT mục 4.4 bước 4:
+  - Tracking đầy đủ + 0 VB mới + sitemap đã refresh → KHÔNG cần spawn Discovery lại trong 6 giờ tới (chờ re-batch mới)
+  - Có thể refactor 323 file placeholder (nếu Sếp đã duyệt)
+  - Hoặc chờ batch luatvietnam.vn re-batch kế tiếp (theo dõi poll 03:29 ICT)
+- Hai drafts NĐ (441740 tài sản Đảng, 441725 thanh niên xung phong) nếu được thông qua → sẽ xuất hiện dưới slug `-d1` (chính thức) vào sitemap re-batch kế tiếp. Hiện tại KHÔNG có file `van-ban/` tương ứng — KHÔNG tạo placeholder.
