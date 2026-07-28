@@ -8263,3 +8263,33 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
   - Spawn Đệ #1 Discovery v47 (refresh lại luatvietnam.vn) + Đệ #4 Reviewer (review comments PR #260, OCR quality gate batch kế) song song
   - Hoặc refactor 323 file placeholder
   - Hoặc chờ batch luatvietnam.vn re-batch tiếp theo
+
+---
+
+## Cập nhật 2026-07-29 v54 (Discovery v47 — refresh sitemap "an toàn" — 2026-07-29 02:29 ICT)
+
+### Kết quả Discovery v47
+
+- **Sitemap_nghidinh** (luatvietnam.vn, 85 KB / 02:16 ICT 29/7): Max slug "chính" = **429185** (NĐ 79/2026 — đã crawl Hoàn thiện ở v46). Top NĐ: 429185 (= 79), 428943 (= 77), 428814 (= 76). Tất cả entries đều đã có trong tracking.
+- **Sitemap_thongtu** (luatvietnam.vn, 180 KB / 02:16 ICT 29/7): Max slug = **441762** (giữ nguyên v46 ref = 10/TT-BNG đã crawl Hoàn thiện). Top TT: 441762 (= 10), 441731 (d10, bỏ qua), 441529 (= 57), 441498, 441410 (= 41), 441401 (= 104), 441351 (d10), 441340 (d10), 441310 (= 106), 441309 (= 104). Tất cả entries đều đã có trong tracking hoặc là dự thảo.
+- **Kết luận**: 0 văn bản mới so với ref v53. Discovery v47 = **refresh "an toàn"**.
+
+### Trạng thái tracking sau v54
+- **Ref giữ nguyên**: NĐ max slug = 441673; TT max slug = 441762
+- Tất cả VB mới phát hiện đều là dự thảo (suffix `-d10`) hoặc đã có trong tracking — bỏ qua đúng protocol
+- Tracking không cập nhật VB nào ở v54 (refresh thuần tuý)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 02:29 ICT 29/7, xử lý completion 2 đệ từ poll 01:59 ICT 29/7)
+- `processed/done: discovery-v47` (poll 01:59 spawn → output sitemap.xml fresh 02:16 ICT 29/7, 0 VB mới)
+- `processed/done: reviewer-batch-2901` (poll 01:59 spawn → output rỗng/visibility restricted, fallback theo mục 4.5 — coi như sub-agent không tồn tại)
+- KHÔNG spawn đệ mới poll này: 0 VB mới + không có file input sẵn → không có gì để crawl, không có review comments cần xử lý
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- Reviewer-batch-2901 output rỗng → có thể bị timeout/runtime error ngay từ đầu. Theo mục 4.5 fallback: "không xác định được tình trạng sub-agent → coi như sub-agent không tồn tại và tiếp tục workflow bình thường". Poll sau nếu cần review PR comments thì spawn lại.
+- Discovery-v47 có output raw nhưng chỉ chứa sitemap XML (0 file detail VB), vẫn ghi nhận là đã chạy với output "an toàn" — ref không thay đổi.
+- Poll sau (03:00 hoặc 03:29 ICT 29/7): theo mục 4.4 bước 4 — không có file input sẵn + 0 VB mới + tracking đầy đủ → có thể:
+  - Spawn Đệ #1 Discovery v48 (refresh lại luatvietnam.vn) + Đệ #4 Reviewer (review comments PR #260, OCR quality gate batch kế) song song
+  - Hoặc refactor 323 file placeholder
+  - Hoặc chờ batch luatvietnam.vn re-batch tiếp theo (lastmod chùm 2026-07-28T18:01:19 cho NĐ + 2026-07-28T10:58:15 cho TT)
