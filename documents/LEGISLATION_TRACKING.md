@@ -1,3 +1,37 @@
+## Cập nhật 2026-07-28 v47 (crawl 76/2026/NĐ-CP Hoàn thiện — 2026-07-28 13:29 ICT)
+
+### Kết quả crawl: **76/2026/NĐ-CP HOÀN THIỆN** (5/5 NĐ mới từ v43 — hoàn tất batch)
+
+Phương pháp: dùng HTML `tmp/discovery-v44/nd76-lv.html` (slug 428814-d1, 322 KB — toàn văn đầy đủ phát hiện ở Discovery v44) làm input, extract bằng `scripts/build_76_nd_cp.py` (pattern tương tự 77/78/79/80 nhưng BỔ SUNG split paragraph theo `<br>` để tách các Điều 8-13 nằm chung 1 `<p>`). Strip UI/tóm tắt, trích `<p>` từ "CHÍNH PHỦ", dừng trước footer "Bạn chưa Đăng nhập", dedup heading "Điều N." trùng, split sub-line để tách heading top-level khỏi body. Dùng `html.unescape()`.
+
+**File output**: `van-ban/vi-pham-hanh-chinh/76-2026-nd-cp.md` — 119 dòng, 34388 bytes.
+
+**Số hiệu**: 76/2026/NĐ-CP — Nghị định sửa đổi, bổ sung một số điều của Nghị định số 125/2021/NĐ-CP ngày 28/12/2021 về xử phạt vi phạm hành chính trong lĩnh vực bình đẳng giới, ban hành 16/3/2026, hiệu lực 01/5/2026, ký bởi Phó Thủ tướng Phạm Thị Thanh Trà (KT. Thủ tướng). Căn cứ: Luật Tổ chức CP 63/2025/QH15 + Luận Tổ chức chính quyền địa phương 72/2025/QH15 + Luật XLVPHC 15/2012/QH13 (sửa 67/2020/QH14, 88/2025/QH15) + Luật Bình đẳng giới 73/2006/QH11 + Luật ATVSLĐ 84/2015/QH13 + BLLĐ 45/2019/QH14 + NĐ 189/2025/NĐ-CP.
+
+**Cấu trúc**: 14 Điều (range 1-14, không missing/duplicate), 0 Chương. Đây là NĐ sửa đổi/bổ sung → không phân Chương (đúng). Nội dung sửa NĐ 125/2021: bổ sung Điều 5a (xử lý VPHC trên môi trường điện tử), sửa Điều 6 (mức phạt), sửa Điều 7 (hành vi vi phạm), sửa Điều 11-20 (thẩm quyền xử phạt của các chức danh: cơ quan chuyên ngành, CAND, BĐBP, Cảnh sát biển, Chủ tịch UBND các cấp), Điều 13 chuyển tiếp, Điều 14 hiệu lực (01/5/2026).
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues; `ocr_quality_gate_scan.py` Articles 14 (Range 1-14, Missing [], Duplicate []), Chapters 0 — **PASS clean**.
+
+### Trạng thái tracking sau v47
+- 78/2026/NĐ-CP: ✅ Hoàn thiện
+- 77/2026/NĐ-CP: ✅ Hoàn thiện
+- 80/2026/NĐ-CP: ✅ Hoàn thiện
+- 79/2026/NĐ-CP: ✅ Hoàn thiện
+- **76/2026/NĐ-CP**: ✅ Hoàn thiện (commit `a8316dcc` v47)
+- **Batch 5 NĐ mới v43 (76/77/78/79/80) HOÀN TẤT 100%** — toàn bộ body đầy đủ từ luatvietnam.vn
+- 296/2026/NĐ-CP: bỏ qua (fail 2 lần)
+- **323 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 13:29 ICT 28/7, crawl inline 76/NĐ-CP + cập nhật tracking v47)
+
+### Ghi chú kỷ luật
+- KHÔNG spawn đệ mới poll này: task inline crawl 76/NĐ-CP đơn giản (build script tương tự 77/78/79/80 + split sub-line fix)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+- Poll này phát hiện nguồn luatvietnam.vn gộp nhiều Điều vào 1 `<p>` chỉ ngăn bằng `<br>` → phải split sub-line trước khi dedup. Script `build_76_nd_cp.py` đã được viết riêng (không sửa script 77/78/79/80 để tránh regression).
+
+---
+
 ## Cập nhật 2026-07-28 v46 (crawl 79/2026/NĐ-CP Hoàn thiện — 2026-07-28 12:59 ICT)
 
 ### Kết quả crawl: **79/2026/NĐ-CP HOÀN THIỆN** (3/5 NĐ mới từ v43)
