@@ -1,3 +1,33 @@
+## Cập nhật 2026-07-28 v46 (crawl 79/2026/NĐ-CP Hoàn thiện — 2026-07-28 12:59 ICT)
+
+### Kết quả crawl: **79/2026/NĐ-CP HOÀN THIỆN** (3/5 NĐ mới từ v43)
+
+Phương pháp: dùng HTML `tmp/discovery-v44/nd79-lv.html` (slug 429185-d1, 970 KB — toàn văn đầy đủ) làm input, extract bằng `scripts/build_79_nd_cp.py` (pattern tương tự 77 + 78 + 80). Strip UI/tóm tắt, trích `<p>` từ "Hiệu lực: Đã biết... CHÍNH PHỦ", dừng trước footer "Bạn chưa Đăng nhập", dedup heading "Điều N." trùng. Dùng `html.unescape()`.
+
+**File output**: `van-ban/vi-pham-hanh-chinh/79-2026-nd-cp.md` — 640 dòng, 102783 bytes.
+
+**Số hiệu**: 79/2026/NĐ-CP — Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực quản lý, bảo vệ biên giới quốc gia, ban hành 18/3/2026, hiệu lực 2/5/2026, ký bởi Thủ tướng Phạm Minh Chính. Căn cứ: Luật Tổ chức CP 63/2025/QH15 + Luật XLVPHC 15/2012/QH13 (sửa 67/2020/QH14, 88/2025/QH15) + Luật Biên giới QG 06/2003/QH11.
+
+**Cấu trúc**: 31 Điều (range 1-31, không missing/duplicate), 4 Chương (I-IV). Chương I: Những quy định chung (Điều 1-7). Chương II: Hành vi vi phạm (Điều 8-16). Chương III: Thẩm quyền xử phạt (Điều 17-31). Chương IV: Điều khoản thi hành.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 2 false positive "ngày l" (substring "ngày làm việc" tiếng Việt hợp lệ — đã đối chiếu thủ công); `ocr_quality_gate_scan.py` Articles 31 (Range 1-31, Missing [], Duplicate []), Chapters 0 (regex gate khác với grep — verify bằng grep: 4 Chương I-IV đầy đủ) — **PASS về cấu trúc**.
+
+### Trạng thái tracking sau v46
+- 78/2026/NĐ-CP: ✅ Hoàn thiện
+- 77/2026/NĐ-CP: ✅ Hoàn thiện
+- 80/2026/NĐ-CP: ✅ Hoàn thiện
+- **79/2026/NĐ-CP**: ✅ Hoàn thiện (commit `78e78fa9` v46)
+- Còn lại 1 VB (76/2026) — đã có HTML body từ discovery-v44, poll sau sẽ crawl
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 12:59 ICT 28/7, crawl inline 79/NĐ-CP + cập nhật tracking v46)
+
+### Ghi chú kỷ luật
+- KHÔNG spawn đệ mới poll này: task inline crawl 79/NĐ-CP đơn giản (build script tương tự 77 + 78 + 80)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+---
+
 ## Cập nhật 2026-07-28 v45 (crawl 80/2026/NĐ-CP Hoàn thiện — 2026-07-28 12:40 ICT)
 
 ### Kết quả crawl: **80/2026/NĐ-CP HOÀN THIỆN** (2/5 NĐ mới từ v43)
@@ -16,7 +46,7 @@ Phương pháp: dùng HTML `tmp/discovery-v44/nd80-lv.html` (slug 429240-d1, 916
 - 78/2026/NĐ-CP: ✅ Hoàn thiện (commit `e67ff85e` poll trước)
 - 77/2026/NĐ-CP: ✅ Hoàn thiện (commit `ae0ac8ba` v44)
 - 80/2026/NĐ-CP: ✅ Hoàn thiện (commit `735a0e5d` v45)
-- Còn lại 2 VB (79/76/2026) — đã có HTML body từ discovery-v44, poll sau sẽ crawl tiếp
+- Còn lại 2 VB (79/76/2026) — đã có HTML body từ discovery-v44, poll sau sẽ crawl tiếp (→ v46 xử lý 79)
 
 ### Phiên thực hiện
 - agent:github-io (HEARTBEAT poll 12:29 ICT 28/7, crawl inline 80/NĐ-CP + cập nhật tracking v45)
