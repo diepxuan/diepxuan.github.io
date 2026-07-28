@@ -1,3 +1,40 @@
+## Cập nhật 2026-07-28 v49 (crawl 115/2026/TT-BCA Hoàn thiện — 2026-07-28 15:59 ICT)
+
+### Kết quả crawl: **115/2026/TT-BCA HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v45/tt115-bca.html` (slug 440224-d1, 776 KB — toàn văn đầy đủ phát hiện ở Discovery v45) làm input, extract bằng `scripts/build_115_tt_bca.py` (pattern tương tự 109 nhưng bổ sung xử lý Chương heading + dedup heading "Điều 3" xuất hiện 2 lần). Strip UI/tóm tắt, trích `<p>` từ "BỘ CÔNG AN", dừng trước footer "Bạn chưa Đăng nhập". Heading Chương render thành `## Chương N. TÊN`, heading Điều render thành `### Điều N. Tiêu đề`. Dùng `html.unescape()`.
+
+**File output**: `van-ban/cong-an/115-2026-tt-bca-the-giay-phep-chung-nhan-an-ninh-hang-khong.md` — 1651 dòng, 98076 bytes.
+
+**Số hiệu**: 115/2026/TT-BCA — Thông tư quy định về thẻ, giấy phép, chứng nhận an ninh hàng không, ban hành 29/6/2026, hiệu lực 01/7/2026, ký bởi Bộ trưởng Bộ Công an Lương Tam Quang. Căn cứ: Luật Hàng không dân dụng VN 130/2025/QH15 + NĐ 02/2025/NĐ-CP (sửa 11/2025/NĐ-CP) + NĐ 215/2026/NĐ-CP.
+
+**Cấu trúc**: 32 Điều (range 1-33, missing 8 — không có Điều 8 trong HTML gốc, có thể do văn bản gốc lược bỏ hoặc đánh số không liên tục; đã verify bằng grep `<b>Điều 8\.<` — không match, không phải lỗi extract), 6 Chương (I-VI). Chương I: Quy định chung (Điều 1-3). Chương II: Thẻ, giấy phép kiểm soát an ninh hàng không (Điều 4-13). Chương III: Thẻ giám sát viên (Điều 14-17). Chương IV: Giấy phép, năng định (Điều 18-26). Chương V: Thẻ, giấy phép chuyên cơ (Điều 27). Chương VI: Điều khoản thi hành (Điều 28-33). Nội dung chính: thẻ/giấy phép kiểm soát an ninh hàng không cho cá nhân và phương tiện; đối tượng, điều kiện, thẩm quyền cấp; giám sát viên an ninh; sát hạch, hội đồng sát hạch; chuyên cơ chuyên khoang; điều khoản chuyển tiếp.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 8 issues — 4 false positive "ngày l" (substring "ngày làm việc" tiếng Việt hợp lệ, đã verify thủ công các dòng 306/308/490/492); 4 false positive "above" trong Phụ lục biểu mẫu song ngữ Anh-Việt (mẫu chuẩn có câu "as above / Như trên" và "Detailed description of the activities selected at sub-paragraph 19.2 above" — hợp lệ, không phải lỗi OCR); `ocr_quality_gate_scan.py` Articles 32 (Range 1-33, Missing [8], Duplicate []), Chapters 6 — **PASS về cấu trúc** (missing Điều 8 là đặc điểm văn bản gốc, không phải lỗi extract).
+
+### Trạng thái tracking sau v49
+- 76/77/78/79/80/2026/NĐ-CP: ✅ Hoàn thiện
+- 107/2026/TT-BCA: ✅ Hoàn thiện (QCVN 15:2026/BCA — 3 Điều + Quy chuẩn)
+- 109/2026/TT-BCA: ✅ Hoàn thiện (48 Điều, đào tạo lái xe CAND)
+- **115/2026/TT-BCA**: ✅ Hoàn thiện (32 Điều, 6 Chương, an ninh hàng không)
+- 5 file HTML mới từ Discovery v45: tt101-btc, tt107-bca (✅), tt109-bca (✅), tt115-bca (✅), tt116-bca
+- Còn lại: **101/2026/TT-BTC** (chứng chỉ kế toán trưởng), **116/2026/TT-BCA** (Luật Cư trú)
+- **323 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 15:59 ICT 28/7, crawl inline 115/TT-BCA + cập nhật tracking v49)
+- KHÔNG spawn đệ mới poll này: input HTML 115/TT-BCA đã có sẵn từ discovery-v45 → crawl inline đơn giản
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- Cùng pattern false positive "ngày l" (4 case) đã biết từ 77/78/79/80/109
+- Phụ lục biểu mẫu song ngữ Anh-Việt (Phụ lục I kèm theo TT) tạo ra các "above" là chuẩn — không phải OCR lỗi
+- HTML gốc từ luatvietnam.vn thực sự không có heading "Điều 8" trong TT này (verified bằng nhiều grep pattern) — chấp nhận kết quả và ghi chú để Sếp review
+- docid 440224 đã verify qua web_fetch luatvietnam.vn (xem mục v2 ở dưới)
+- Poll sau (16:29 ICT): tiếp tục 116/TT-BCA hoặc 101/TT-BTC, hoặc refactor placeholder
+
+---
+
 ## Cập nhật 2026-07-28 v48 (crawl 109/2026/TT-BCA Hoàn thiện — 2026-07-28 14:30 ICT)
 
 ### Kết quả crawl: **109/2026/TT-BCA HOÀN THIỆN**
