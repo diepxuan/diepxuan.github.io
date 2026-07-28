@@ -8421,3 +8421,44 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
 - 108/TT-BTC: slug 441828 thuộc dải "trên ref v55/v54" (max ref = 441762 cho TT), nhưng không nằm trong sitemap_xml (sitemap có lastmod cũ 28/7). Có thể được re-batch giữa 2 đợt sitemap, hoặc session khác đã fetch riêng trang chi tiết.
 - 108/TT-BTC ban hành 24/7/2026 cùng ngày với 116/TT-BCA (29/6) → thuộc nhóm văn bản tháng 7/2026 đang được crawl rải đều.
 - Poll sau (06:00 hoặc 06:29 ICT 29/7): theo mục 4.4 bước 4 — tracking đầy đủ + 0 VB mới từ sitemap + commit mới có thể xuất hiện bất kỳ lúc nào → KHÔNG spawn Discovery (vì 3 lần liên tiếp 0 VB mới qua sitemap refresh). CÓ THỂ: (a) sync Reviewer để check PR comments (nếu poll tiếp theo vẫn không có commit mới), (b) refactor placeholder, (c) tiếp tục chờ re-batch luatvietnam.vn.
+
+
+---
+
+## Cập nhật 2026-07-29 v57 (Discovery v49 — refresh sitemap luatvietnam.vn — 2026-07-29 06:01 ICT)
+
+### Kết quả Discovery v49
+
+- **Sitemap_nghidinh** (luatvietnam.vn, `tmp/discovery-v49/sitemap_nghidinh.xml` 85659 bytes, 334 urls, lastmod max 2026-07-28T18:01:19+07:00). Max slug "chính" (-d1) = **441673** (298/NĐ-CP, giữ nguyên ref v55/v56).
+- **Sitemap_thongtu** (luatvietnam.vn, `tmp/discovery-v49/sitemap_thongtu.xml` 181272 bytes, 709 urls, lastmod max 2026-07-28T10:58:15+07:00). Max slug "chính" (-d1) = **441828** (108/TT-BTC kế toán cổ phần hóa DNNN).
+- **So với ref v52** (max NĐ 441673, max TT 441529 theo task spec):
+  - NĐ candidates (slug > 441673): **0**
+  - TT candidates (slug > 441529): **2** — slug 441828 (108/TT-BTC) + slug 441762 (10/TT-BNG)
+- **Cross-check với PR #260 active** (HEAD `85859c3e`):
+  - `van-ban/tai-chinh/108-2026-tt-btc-huong-dan-ke-toan-co-phan-hoa-doanh-nghiep-nha-nuoc.md` → ✅ ĐÃ CÓ (tracking v56, Hoàn thiện)
+  - `van-ban/ngoai-giao/10-2026-tt-bng-huong-dan-thi-hanh-nghi-quyet-197-2025-qh15.md` → ✅ ĐÃ CÓ (tracking v52, Hoàn thiện)
+- **Kết luận**: 0 văn bản mới cần crawl. Cả 2 TT "mới hơn ref v52" đều đã được crawl Hoàn thiện trong các poll trước.
+
+### Trạng thái tracking sau v57
+- **Ref giữ nguyên** so với v55: NĐ max slug = **441673**; TT max slug = **441828** (nâng cấp từ 441762 → 441828 vì 108/TT-BTC đã có trong PR #260)
+- Không có VB nào chuyển trạng thái "Chưa có" ở v57
+
+### Phiên thực hiện
+- Sub-agent `discovery-v49` (depth 1/1) spawn từ HEARTBEAT poll 06:01 ICT 29/7 → hoàn thành 06:05 ICT 29/7 (~4 phút, trong timeout 12 phút)
+- 2 sitemaps fetched: ND (85.6 KB, 334 urls) + TT (181.3 KB, 709 urls)
+- 2 candidates được verify → CẢ HAI đều đã có trong PR #260 → 0 trang chi tiết được mở
+- KHÔNG crawl body, KHÔNG tạo file `van-ban/`
+- Raw data lưu tại `tmp/discovery-v49/`:
+  - `sitemap_nghidinh.xml` (85.6 KB)
+  - `sitemap_thongtu.xml` (181.3 KB)
+  - `candidates.json` (2 candidates, đã cross-check PR #260)
+
+### Ghi chú kỷ luật
+- v46 → v47 → v48 → v49: 4 lần refresh sitemap liên tiếp, lần này 2 candidates mới (so với ref v52 thấp hơn) nhưng đã có sẵn trong PR #260 → vẫn là "refresh an toàn".
+- Cập nhật ref TT max: **441762 → 441828** (do 108/TT-BTC thuộc tracking v56).
+- Luatvietnam.vn sitemap re-batch lastmod max = 2026-07-28T10:58:15+07:00 (TT) → chưa re-batch từ 28/7 18:01 đến 29/7 06:05 = ~12 giờ không có re-batch.
+- Poll sau (06:30 hoặc 07:00 ICT 29/7) theo HEARTBEAT mục 4.4 bước 4:
+  - Tracking đầy đủ + 0 VB mới cần crawl + sitemap đã refresh 4 lần → KHÔNG spawn Discovery lại trong 6–12 giờ tới (chờ re-batch mới)
+  - Có thể thử Reviewer sync mode để check PR comments (đã 2 lần fail silent ở run-mode trong các poll trước)
+  - Có thể refactor 323 file placeholder (nếu Sếp đã duyệt)
+  - Hoặc chờ re-batch luatvietnam.vn kế tiếp (theo dõi poll 07:00 ICT)
