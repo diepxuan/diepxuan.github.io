@@ -8349,3 +8349,43 @@ Kiểm tra 2 file đã đánh dấu HOÀN THIỆN ✅ trong tracking:
   - Có thể refactor 323 file placeholder (nếu Sếp đã duyệt)
   - Hoặc chờ batch luatvietnam.vn re-batch kế tiếp (theo dõi poll 03:29 ICT)
 - Hai drafts NĐ (441740 tài sản Đảng, 441725 thanh niên xung phong) nếu được thông qua → sẽ xuất hiện dưới slug `-d1` (chính thức) vào sitemap re-batch kế tiếp. Hiện tại KHÔNG có file `van-ban/` tương ứng — KHÔNG tạo placeholder.
+
+---
+
+## Cập nhật 2026-07-29 v55 (Discovery v48 — refresh sitemap luatvietnam.vn "an toàn" lần 3 liên tiếp — 2026-07-29 03:35 ICT)
+
+### Kết quả Discovery v48
+
+- **Sitemap_nghidinh** (luatvietnam.vn, `tmp/discovery-v48/sitemap_nghidinh.xml` 85659 bytes, 334 urls, lastmod max 2026-07-28T18:01:19+07:00). MD5 identical với v47 (`4285a5423f3dc736c9e5551334efbd49`). Max slug "chính" (-d1) = **441673** (298/NĐ-CP, giữ nguyên ref v54).
+- **Sitemap_thongtu** (luatvietnam.vn, `tmp/discovery-v48/sitemap_thongtu.xml` 181019 bytes, 708 urls, lastmod max 2026-07-28T10:58:15+07:00). MD5 identical với v47 (`f4cc5b2c0172a9608f791dc84f076627`). Max slug "chính" (-d1) = **441762** (10/TT-BNG, giữ nguyên ref v54).
+- **So với ref v54**: 0 candidates > 441673 (NĐ), 0 candidates > 441762 (TT).
+- **Kết luận**: 0 văn bản mới. Refresh "an toàn" lần thứ 3 liên tiếp (v46 → v47 → v48).
+
+### Trạng thái tracking sau v55
+- **Ref giữ nguyên** từ v54: NĐ max slug = **441673**; TT max slug = **441762**
+- Tracking không thay đổi so với v54
+- 0 VB mới so với ref v54
+
+### Phiên thực hiện
+- Sub-agent `discovery-v48` (depth 1/1) spawn từ HEARTBEAT poll 03:00 ICT 29/7 → hoàn thành 03:27 ICT 29/7 (~27 phút, trong timeout 8 phút yêu cầu nhờ run-mode async)
+- 2 sitemaps fetched: ND (85.6 KB, 334 urls) + TT (181.0 KB, 708 urls), MD5 khớp với v47
+- 0 trang chi tiết được mở (0 VB mới để verify)
+- KHÔNG crawl body, KHÔNG tạo file `van-ban/`
+- Raw data lưu tại `tmp/discovery-v48/`:
+  - `sitemap_nghidinh.xml` (85659 bytes)
+  - `sitemap_thongtu.xml` (181019 bytes)
+  - `candidates.json` (nd_candidates=[], tt_candidates=[])
+  - `report.md`
+
+### Trạng thái sub-agent khác
+- `reviewer-batch-2903` (spawn 03:00 ICT, timeout 10 phút) → KHÔNG có output trong `tmp/reviewer-batch-2903/` (dir rỗng chỉ có `.`/`..`). `subagents list` trả rỗng → đệ đã fail silent / runtime error. Theo mục 4.5: sub-agent không xác định được tình trạng → coi như không tồn tại, tiếp tục workflow. KHÔNG retry ngay trong cùng poll.
+- Trước đó reviewer-batch-2901 (poll 01:59 ICT) cũng fail silent tương tự. Có vẻ đệ review-batch dạng run-mode đang gặp vấn đề với output visibility — xem xét chuyển sang chế độ sub-agent sync ở poll sau nếu Sếp cần review PR comments.
+
+### Ghi chú kỷ luật
+- v46 → v47 → v48: 3 lần refresh sitemap liên tiếp đều cho 0 VB mới. MD5 sitemap identical giữa v47 và v48 → xác nhận luatvietnam.vn KHÔNG re-batch sitemap từ 02:43 ICT (commit v54) đến 03:30 ICT (poll v48) = ~47 phút không có re-batch.
+- Dải "trên ref" (441674-441762 cho TT; 441674-441740 cho NĐ) hiện đang là **drafts/dự thảo** đồng loạt, không có VB "chính" nào được re-batch trên luatvietnam.vn kể từ 28/7.
+- Lastmod max sitemap vẫn = 2026-07-28T18:01:19+07:00 (ND) / 2026-07-28T10:58:15+07:00 (TT).
+- Poll sau (04:00 hoặc 04:29 ICT 29/7) theo HEARTBEAT mục 4.4 bước 4:
+  - Tracking đầy đủ + 0 VB mới + sitemap đã refresh liên tiếp 3 lần → CÓ THỂ tạm dừng refresh sitemap trong 6–12 giờ tới (chờ re-batch mới)
+  - Có thể thử lại Reviewer PR comments với cơ chế sync thay vì run-mode (để tránh lặp lại fail silent)
+  - Có thể refactor 323 file placeholder (nếu Sếp đã duyệt)
