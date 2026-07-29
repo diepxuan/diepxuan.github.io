@@ -8462,3 +8462,46 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
   - Có thể thử Reviewer sync mode để check PR comments (đã 2 lần fail silent ở run-mode trong các poll trước)
   - Có thể refactor 323 file placeholder (nếu Sếp đã duyệt)
   - Hoặc chờ re-batch luatvietnam.vn kế tiếp (theo dõi poll 07:00 ICT)
+
+### Poll 07:59 ICT (2026-07-29) — Refactor 148/2026/NĐ-CP STUB → Hoàn thiện (tracking v58)
+
+#### Quyết định
+- Phát hiện file `van-ban/ngoai-giao/nghi-dinh-148-2026-nd-cp-quan-ly-thong-tin-doi-ngoai.md` là STUB (3575 bytes, 12.5 ngày tuổi, marker "cần bổ sung toàn văn").
+- HTML body đầy đủ đã có sẵn tại `tmp/discovery-v50/refactor-1-ngoai-giao-nghi-dinh-148.html` (312 KB, luatvietnam.vn slug 434434).
+- Refactor inline theo pattern 76/77/78/79/80/109/115/116/297/294/10 — không spawn đệ vì build script quen thuộc.
+
+#### Sub-agent (mục 4.5)
+- `subagents list` (active + recent 60 phút) đều rỗng — không có đệ cũ cần kill/giữ/xử lý
+- Không có completion/fail cần xử lý
+- Không có stale
+
+#### PR/branch (mục 2.5 bước 0)
+- PR #260 open MERGEABLE/CLEAN, branch `heartbeat/crawl-vanban-20260723` "sống" (HEAD trước = `a1492c71` 06:35 ICT ~1h24m <24h)
+- → Tiếp tục dùng PR/branch này, không tạo mới
+
+#### Hành động
+1. **Build script** `scripts/build_148_nd_cp.py` (pattern 76/77/78/79/80 + dedup heading "Điều N."):
+   - body_start anchor = "Hiệu lực:...CHÍNH PHỦ" (giống 76)
+   - dedup `Điều N.` xuất hiện nhiều lần trong HTML (giống 76)
+   - skip block "Văn bản này thuộc phạm vi bảo hộ" trước footer
+2. **Metadata xác minh**: Số 148/2026/NĐ-CP, ngày 12/5/2026, hiệu lực 01/7/2026, ký bởi Phó Thủ tướng Phạm Thị Thanh Trà, Căn cứ Luật Tổ chức CP 63/2025/QH15 + Luật CQĐN 33/2009/QH12 + Luật Báo chí 103/2016/QH13 (sửa 35/2018/QH14, 93/2025/QH15)
+3. **Build output**: `van-ban/ngoai-giao/nghi-dinh-148-2026-nd-cp-quan-ly-thong-tin-doi-ngoai.md` — 235 dòng, 15506 bytes
+4. **OCR Quality Gate**:
+   - `scan_ocr_quality.py`: 0 issues
+   - `ocr_quality_gate_scan.py`: Articles 4 (Điều 1, Điều 21b, Điều 2, Điều 3) PASS, Chapters 0 — **PASS clean**
+5. **Commit + push**:
+   - Commit `5535f34b`: "Refactor 148/2026/NĐ-CP thông tin đối ngoại STUB → Hoàn thiện (1 Điều + 1 Điều 21b + 2 điều khoản cuối, slug 434434, nguồn luatvietnam.vn HTML toàn văn 312KB)"
+   - 1 file changed, 198 insertions(+), 36 deletions(-)
+   - Push OK: `a1492c71..5535f34b` lên `origin/heartbeat/crawl-vanban-20260723`
+
+#### Trạng thái tracking v58
+- **148/2026/NĐ-CP** → Hoàn thiện (refactor từ STUB, 12.5 ngày tuổi → body 15.5 KB đầy đủ)
+- **323 file placeholder còn lại** theo `tmp/reviewer-2804/refactor-scan.txt` (đã giảm 1 vì 148 xong)
+- **4 file refactor khác** có HTML sẵn tại `tmp/discovery-v50/`: 185-NĐ (481KB), 06-TT-BNV (297KB), 158-NĐ (420KB), 08-TT-BKHCN (328KB)
+- Tracking đầy đủ, không có VB mới từ sitemap (4 lần refresh 0 VB mới)
+
+#### Ghi chú kỷ luật
+- 148/NĐ-CP là NĐ sửa đổi nhiều khoản của NĐ 72/2015, body có 1 "Điều 1" chính sửa 8 điểm (khoản 5,6 Điều 3 + điểm a khoản 1 Điều 4 + điểm b,đ,e khoản 3 Điều 7 + điểm c,g khoản 3 Điều 8 + Điều 9 + Điều 12 + Điều 16 + Điều 17), 1 "Điều 21b" (Bộ Công Thương), 1 "Điều 2" (thay thế/bãi bỏ cụm từ), 1 "Điều 3" (điều khoản thi hành)
+- Cấu trúc đặc thù NĐ sửa đổi — body không có range liên tục 1-21, mà chỉ liệt kê các điều được sửa đổi
+- Pass clean OCR Quality Gate không có false positive
+- Poll sau (08:29 hoặc 08:59 ICT): theo mục 4.4 bước 4 — tracking đầy đủ + 4 file refactor còn HTML sẵn → tiếp tục refactor 1 file tiếp theo (185-NĐ là ưu tiên cao vì file 15.8KB age 48d)
