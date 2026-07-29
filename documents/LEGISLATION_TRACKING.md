@@ -103,6 +103,43 @@ Phương pháp: dùng HTML `tmp/discovery-v45/tt101-btc.html` (slug 440981, 482 
 
 ---
 
+## Cập nhật 2026-07-30 v62 (crawl 299/2026/NĐ-CP Hoàn thiện — 2026-07-30 05:59 ICT)
+
+### Kết quả crawl: **299/2026/NĐ-CP HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v52/299-NĐ-CP.html` (slug 441966-d1, 618 KB — toàn văn đầy đủ phát hiện ở Discovery v52) làm input, extract bằng `scripts/build_299_nd_cp.py` (pattern tương tự 297/298 cho NĐ cơ cấu tổ chức, body_start anchor = "Hiệu lực: Đã biết... CHÍNH PHỦ"). Strip UI/sidebar P0-P5, trích `<p>` từ P6, dừng trước footer "Bạn chưa Đăng nhập", render Chương heading thành `## Chương X`, Điều heading thành `### Điều N.`. Dùng `html.unescape()`.
+
+**File output**: `van-ban/co-cau-to-chuc/299-2026-nd-cp.md` — 664 dòng, 75876 bytes.
+
+**Số hiệu**: 299/2026/NĐ-CP — Nghị định quy định tổ chức đơn vị sự nghiệp công lập, ban hành 28/7/2026, hiệu lực 28/7/2026, ký bởi **Phó Thủ tướng Phạm Thị Thanh Trà** (KT. Thủ tướng). Căn cứ: Luật Tổ chức CP 63/2025/QH15 + Luật Tổ chức chính quyền địa phương 72/2025/QH15 + Luật Viên chức 129/2025/QH15.
+
+**Cấu trúc**: 31 Điều (range 1-31, không missing/duplicate), 4 Chương (I-IV). Chương I: Những quy định chung (Điều 1-8). Chương II: Thành lập, tổ chức lại, giải thể, chuyển giao (Điều 9-20). Chương III: Thẩm quyền và trách nhiệm (Điều 21-28). Chương IV: Điều khoản thi hành (Điều 29-31). Thay thế NĐ 120/2020/NĐ-CP + NĐ 283/2025/NĐ-CP.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 3 issues — tất cả false positive "ngày l" (substring "ngày làm việc" tiếng Việt hợp lệ ở L426/L428/L432, đã verify thủ công); `ocr_quality_gate_scan.py` Articles 31 (Range 1-31, Missing [], Duplicate []), Chapters 4 (I-IV đúng thứ tự, đầy đủ) — **PASS về cấu trúc** (cùng pattern false positive đã biết như 77/78/79/80/107/109/115/116/101/57/175/185/277/41).
+
+### Trạng thái tracking sau v62
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/2026/NĐ-CP: ✅ Hoàn thiện (14 VB)
+- 10/41/57/89/97/101/104/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (10 VB)
+- 54/107/109/115/116/2026/TT-BCA: ✅ Hoàn thiện (5 VB)
+- **299/2026/NĐ-CP**: ✅ Hoàn thiện (commit `05e6c056` v62 — PTTg Phạm Thị Thanh Trà ký)
+- Tổng Hoàn thiện: 29 VB
+- **319 file placeholder** cần refactor (chưa xử lý poll nào)
+- **5 VB mới phát hiện ở Discovery v52** chưa crawl: 16/TT-BNV (slug 441898), 93/TT-BCA (slug 441918), 98/TT-BCA (slug 441919), 127/TT-BCA (slug 441920), 11/TT-BNG (slug 441909) — HTML body đầy đủ sẵn tại `tmp/discovery-v52/`
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 05:59 ICT 30/7, inline crawl 299/NĐ-CP + tracking v62 + push PR #260)
+- Đã chờ ~17 giờ từ đề xuất poll 12:59 29/7 → luatvietnam.vn re-batch sitemap lần này thực sự có VB mới
+- KHÔNG spawn đệ poll này: task inline crawl 299 đơn giản (pattern build script quen thuộc 297/298)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- Discovery v52 sitemap MD5 KHÁC với v51 (NĐ: 69ccb088 vs b30f1823; TT: 591752d1 vs e4cb4d2c) → xác nhận luatvietnam.vn re-batch sitemap trong khoảng 12-17 giờ qua
+- Tìm thấy 5 VB mới hoàn toàn chưa có trong PR #260: 16/TT-BNV (84/2026/TT-BNV), 93/TT-BCA, 98/TT-BCA, 127/TT-BCA QCVN cơ sở giam giữ, 11/TT-BNG, + 299/NĐ-CP đã crawl poll này
+- Cùng pattern false positive "ngày l" (3 case) đã biết từ 77/78/79/80/107/109/115/116/101/57/175/185/277/41
+- Phương pháp xác minh metadata: title (luatvietnam.vn) + web_search Gemini + grep "TM. CHÍNH PHỦ" trong HTML (lấy PTTg ký) — pattern mới kết hợp 3 nguồn
+- docid 441966 đã verify qua web_search + web_fetch luatvietnam.vn
+- Poll sau (06:29 hoặc 06:59 ICT 30/7): tiếp tục crawl 1 trong 5 VB mới còn lại (ưu tiên 127/TT-BCA QCVN cơ sở giam giữ vì quan trọng), hoặc refactor placeholder
+
 ## Cập nhật 2026-07-28 v52 (crawl 10/2026/TT-BNG Hoàn thiện — 2026-07-28 22:30 ICT)
 
 ### Kết quả crawl: **10/2026/TT-BNG HOÀN THIỆN**
