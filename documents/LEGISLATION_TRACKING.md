@@ -8523,3 +8523,51 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
 - **185/2026/NĐ-CP** → Hoàn thiện (refactor từ STUB, age 48d → body 37.7 KB đầy đủ)
 - **322 file placeholder còn lại** theo `tmp/reviewer-2804/refactor-scan.txt` (đã giảm 1 vì 185 xong)
 - **3 file refactor khác** có HTML sẵn tại `tmp/discovery-v50/`: 06-TT-BNV (297KB), 158-NĐ (420KB), 08-TT-BKHCN (328KB)
+
+## v60 — 2026-07-29 — Refactor 175/2026/NĐ-CP (Tài chính vi mô) + 277/2026/NĐ-CP (Hạ tầng văn hóa số)
+
+### Phát hiện
+- File `van-ban/chinh-sach-xa-hoi/nghi-dinh-175-2026-nd-cp-tai-chinh-vi-mo.md` STUB 6.5 KB age 5.8d, 25 Điều rỗng → refactor Hoàn thiện
+- File `van-ban/van-hoa/nghi-dinh-277-2026-nd-cp-ha-tang-van-hoa-so.md` STUB 2 KB age 5.8d, chỉ có trích yếu → refactor Hoàn thiện
+- HTML body sẵn tại `tmp/discovery-v50/crawl-175.html` (612 KB, luatvietnam.vn slug 218165) + `tmp/discovery-v50/crawl-277.html` (495 KB, slug 440755)
+- Cả 2 đều có body đầy đủ sau khi kiểm tra lại (lúc trước memory poll 10:29 nghi ngờ 175 paywall — kiểm tra lại thấy 25/25 Điều đầy đủ body)
+
+### Hành động
+1. **Build script 175**: `scripts/build_175_nd_cp.py` (pattern 185 + heading promotion "Điều N." → "### Điều N."):
+   - body_start anchor = "CHÍNH PHỦ"
+   - dedup consecutive paragraph
+   - Promote `Điều N.` → `### Điều N.`, `Chương X` → `## Chương X`
+   - skip block "Bạn chưa Đăng nhập" trước footer
+2. **Build script 277**: `scripts/build_277_nd_cp.py` (pattern 175)
+3. **Build output 175**: 1252 dòng, 84171 bytes, 25 Điều (range 1-25 đầy đủ), 4 Chương (I-IV)
+4. **Build output 277**: 506 dòng, 34138 bytes, 20 Điều (range 1-20 đầy đủ), 5 Chương (I-V)
+5. **OCR Quality Gate 175**:
+   - `scan_ocr_quality.py`: 5 false positive "ngày l" (substring của "ngày làm việc" - quirk giống 77/78/79/80/109/115/116)
+   - `ocr_quality_gate_scan.py`: Articles 27 (25 + 2 phụ lục mẫu Giấy chứng nhận - duplicate [1,2] hợp lệ), Chapters 4 đầy đủ - **PASS cấu trúc**
+6. **OCR Quality Gate 277**:
+   - `scan_ocr_quality.py`: 0 issues
+   - `ocr_quality_gate_scan.py`: Articles 20 PASS, Chapters 5 PASS - **PASS clean**
+7. **Commit + push**:
+   - Commit `b658f45d`: "Refactor 175/2026/NĐ-CP Tài chính vi mô STUB → Hoàn thiện" - 1 file +1170/-44
+   - Commit `37de522a`: "Refactor 277/2026/NĐ-CP Hạ tầng văn hóa số STUB → Hoàn thiện" - 1 file +483/-44
+   - Push OK: `02ab81b0..b658f45d..37de522a` lên `origin/heartbeat/crawl-vanban-20260723`
+
+### Trạng thái tracking v60
+- **175/2026/NĐ-CP** → Hoàn thiện (refactor từ STUB, age 5.8d → body 84 KB đầy đủ 25 Điều + 4 Chương + Phụ lục mẫu Giấy chứng nhận)
+- **277/2026/NĐ-CP** → Hoàn thiện (refactor từ STUB, age 5.8d → body 34 KB đầy đủ 20 Điều + 5 Chương)
+- **320 file placeholder còn lại** theo `tmp/reviewer-2804/refactor-scan.txt` (giảm 2 từ 322 vì 175 + 277 xong)
+- **0 file refactor còn HTML sẵn** tại `tmp/discovery-v50/` (5 file refactor đều đã xử lý: 148/185/06/158/08 không cần + 175/277 vừa xong)
+- Tracking đầy đủ, không có VB mới từ sitemap (4 lần refresh 0 VB mới)
+
+### Ghi chú kỷ luật
+- **175/NĐ-CP**: Nghị định về tổ chức, hoạt động chương trình dự án tài chính vi mô (thay thế Quyết định 20/2017/QĐ-TTg). Có căn cứ Bộ luật Dân sự 97/2015/QH13 + Luật Tổ chức CP 63/2025/QH15 + Luật Các TCTD 32/2024/QH15. Body có phụ lục mẫu Quyết định sửa đổi Giấy chứng nhận đăng ký (Điều 1, Điều 2 riêng) → duplicate heading [1, 2] là cấu trúc hợp lệ
+- **277/NĐ-CP**: Nghị định chi tiết khoản 1, 3, 5 Điều 10 Nghị quyết 28/2026/QH16 về phát triển hạ tầng văn hóa số. Có 5 Chương I-V, body đầy đủ 20 Điều
+- Cả 2 file đều đã từng có HTML body đầy đủ nhưng lúc trước bị nghi ngờ paywall — kiểm tra lại với build script đã thấy body đầy đủ (slug luatvietnam.vn đã được refresh lại với nội dung mới)
+- Sau v60: **đã hết file refactor có HTML sẵn** trong `tmp/discovery-v50/`. Poll sau sẽ cần:
+  - (a) Spawn Discovery v51 để xác minh file refactor mới từ refactor-scan.txt
+  - (b) Hoặc HEARTBEAT_OK nếu tracking đầy đủ + sitemap không đổi
+
+### Poll sau (12:00 hoặc 12:29 ICT 29/7)
+- Theo mục 4.4 bước 4: tracking đầy đủ + 4 lần refresh sitemap 0 VB mới + đã hết file refactor có HTML sẵn → 
+  - Spawn Discovery v51 để xác minh refactor mới (5 file tiếp theo từ refactor-scan.txt), hoặc
+  - HEARTBEAT_OK nếu chưa có gì mới
