@@ -190,6 +190,14 @@ c) Thông tin chứng minh đã xác thực sinh trắc học ảnh khuôn mặt
 
 3. Đối với các số thuê bao di động H2H đã được đăng ký bằng thẻ căn cước công dân không gắn chíp điện tử trước ngày Thông tư này có hiệu lực, trong thời hạn 12 tháng kể từ ngày Thông tư này có hiệu lực, doanh nghiệp viễn thông phải thực hiện việc cập nhật thông tin và xác thực sinh trắc học ảnh khuôn mặt của thuê bao theo quy định tại Điều 5 Thông tư này. Nếu doanh nghiệp viễn thông không thực hiện, phải tạm dừng cung cấp dịch vụ viễn thông đối với các số thuê bao này.
 
+### Điều 11. Tổ chức thực hiện
+
+**1.** Chánh Văn phòng, Cục trưởng Cục Viễn thông, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Khoa học và Công nghệ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+**2.** Định kỳ 06 tháng hoặc khi có yêu cầu, Cục Viễn thông chủ trì, phối hợp với các cơ quan có liên quan tổ chức kiểm tra, đánh giá việc thực hiện các quy định tại Thông tư này của các doanh nghiệp viễn thông và kịp thời xử lý theo thẩm quyền hoặc báo cáo cấp có thẩm quyền xử lý hành vi vi phạm theo quy định của pháp luật.
+
+**3.** Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Khoa học và Công nghệ (Cục Viễn thông) để được hướng dẫn hoặc xem xét, giải quyết.
+
 ---
 
 Nơi nhận:
