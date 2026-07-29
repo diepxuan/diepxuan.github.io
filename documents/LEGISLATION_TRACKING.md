@@ -8505,3 +8505,21 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
 - Cấu trúc đặc thù NĐ sửa đổi — body không có range liên tục 1-21, mà chỉ liệt kê các điều được sửa đổi
 - Pass clean OCR Quality Gate không có false positive
 - Poll sau (08:29 hoặc 08:59 ICT): theo mục 4.4 bước 4 — tracking đầy đủ + 4 file refactor còn HTML sẵn → tiếp tục refactor 1 file tiếp theo (185-NĐ là ưu tiên cao vì file 15.8KB age 48d)
+
+## v59 — 2026-07-29 — Refactor 185/2026/NĐ-CP (Thôn, tổ dân phố)
+
+### Phát hiện
+- File `van-ban/lao-dong/nghi-dinh-185-2026-nd-cp-thon-to-dan-pho.md` STUB 15.8 KB age 48d, marker "Đang cập nhật" L200 → refactor Hoàn thiện
+- HTML body sẵn tại `tmp/discovery-v50/refactor-2-lao-dong-nghi-dinh-185.html` (481 KB, luatvietnam.vn slug 435528)
+
+### Hành động
+1. Build script `scripts/build_185_nd_cp.py` (pattern 76/77/78/79/80/109/115/116 + dedup consecutive paragraph, body_start anchor = "CHÍNH PHỦ")
+2. Metadata xác minh: Số 185/2026/NĐ-CP, ngày 26/5/2026, hiệu lực 26/5/2026, ký bởi PTTg Phạm Thị Thanh Trà, Căn cứ Hiến pháp 2013 + Luật Tổ chức CP 63/2025/QH15 + Luật Tổ chức CQĐN địa phương 72/2025/QH15 + Luật Thực hiện dân chủ ở cơ sở 10/2022/QH15 (sửa 47/2024/QH15 + 97/2025/QH15)
+3. Build output: 433 dòng, 37710 bytes, 20 Điều (range 1-20 đầy đủ), 5 Chương (I-V)
+4. OCR Quality Gate: `scan_ocr_quality.py` 1 false positive "ngày L" (substring "ngày Luật" tiếng Việt hợp lệ — cùng quirk 77/78/79/80/109/115/116); `ocr_quality_gate_scan.py` Articles 20 PASS — **PASS về cấu trúc**
+5. Commit `31b868b7` "Refactor 185/2026/NĐ-CP Thôn, tổ dân phố STUB → Hoàn thiện (20 Điều, 5 Chương, slug 435528)" → push OK `dc38d2c8..31b868b7`
+
+### Trạng thái tracking v59
+- **185/2026/NĐ-CP** → Hoàn thiện (refactor từ STUB, age 48d → body 37.7 KB đầy đủ)
+- **322 file placeholder còn lại** theo `tmp/reviewer-2804/refactor-scan.txt` (đã giảm 1 vì 185 xong)
+- **3 file refactor khác** có HTML sẵn tại `tmp/discovery-v50/`: 06-TT-BNV (297KB), 158-NĐ (420KB), 08-TT-BKHCN (328KB)
