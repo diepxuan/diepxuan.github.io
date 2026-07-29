@@ -8571,3 +8571,36 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
 - Theo mục 4.4 bước 4: tracking đầy đủ + 4 lần refresh sitemap 0 VB mới + đã hết file refactor có HTML sẵn → 
   - Spawn Discovery v51 để xác minh refactor mới (5 file tiếp theo từ refactor-scan.txt), hoặc
   - HEARTBEAT_OK nếu chưa có gì mới
+
+## v61 — 2026-07-30 — Refactor 41/2026/TT-BCT (Phế liệu & hàng hóa tạm ngừng kinh doanh XNK) STUB → Hoàn thiện
+
+### Phát hiện
+- File `van-ban/thuong-mai-cong-thuong/thong-tu-41-2026-tt-bct-danh-muc-phe-lieu-va-hang-hoa-tam-ngung-kinh-doanh.md` STUB 5067 bytes (37 lines), trang-thai: "Đang cập nhật", chỉ có heading Điều 1-10 không có body
+- HTML body sẵn tại `tmp/discovery-v51/refactor-12-thuong-mai-cong-thuong-thong-tu-41-2026-tt-bct.html` (377 KB, luatvietnam.vn slug 441401)
+- Đã xác minh: body đầy đủ 6 Điều (range 1-6) + Nơi nhận + Chữ ký (KT. BỘ TRƯỞNG / THỨ TRƯỞNG / Nguyễn Sinh Nhật Tân) + Phụ lục I + Phụ lục II
+
+### Hành động
+1. **Build script**: `scripts/build_41_tt_bct.py` (pattern tương tự 109/115/116 + anchor "BỘ CÔNG THƯƠNG" + heading promotion `Điều N.` → `### Điều N.`, `Phụ lục X` → `## Phụ lục X`)
+2. **Build output**: 1165 dòng, 36840 bytes, 6 Điều (range 1-6 đầy đủ), 0 Chương, 2 Phụ lục (I, II)
+3. **OCR Quality Gate**:
+   - `scan_ocr_quality.py`: 0 issues
+   - `ocr_quality_gate_scan.py`: Articles 6 (Range 1-6, Missing [], Duplicate []), Chapters 0 — **PASS clean**
+4. **Metadata cập nhật**:
+   - trang-thai: "Đang cập nhật" → "hoanthien"
+   - nguoi-ky: "Bộ trưởng Bộ Công Thương" → "Nguyễn Sinh Nhật Tân" (Thứ trưởng, KT. Bộ trưởng)
+   - ghi-chu: thêm "Refactor từ STUB. Nguồn HTML body: luatvietnam.vn slug 441401 (377 KB, body đầy đủ 6 Điều + Phụ lục I/II)"
+5. **Commit + push**:
+   - Commit `26943a93`: "Refactor 41/2026/TT-BCT phế liệu & hàng hóa tạm ngừng kinh doanh XNK STUB → Hoàn thiện"
+   - 1 file changed, 1082 insertions(+), 33 deletions(-)
+   - Push OK: `48800e6f..26943a93` lên `origin/heartbeat/crawl-vanban-20260723`
+
+### Trạng thái tracking v61
+- **41/2026/TT-BCT** → Hoàn thiện (refactor từ STUB, age 8d → body 36 KB đầy đủ 6 Điều + 2 Phụ lục)
+- **319 file placeholder còn lại** theo `tmp/reviewer-2804/refactor-scan.txt` (giảm 1 từ 320 vì 41 xong)
+- **5 file refactor còn HTML sẵn** tại `tmp/discovery-v51/`: 105-TT-BTC (false positive - đã đầy đủ), 243-NĐ-CP (đã ở main, body 36KB đầy đủ), NQ-26 (đã ở main, STUB), 147-NĐ-CP (đã ở main, STUB), 29-QH16 (đã ở main, STUB)
+
+### Ghi chú kỷ luật
+- 105/TT-BTC trong PR #260 đã đầy đủ (3 điều ngắn cho Thông tư bãi bỏ, không cần refactor) - đây là false positive trong refactor-scan.txt do size < 10KB
+- 243/NĐ-CP ở main đã có body 36KB đầy đủ (28 KB+ phụ lục)
+- 3 file (NQ-26, 147-NĐ, 29-QH16) ở main là STUB thật — chỉ có heading không body. Có HTML body sẵn ở tmp/discovery-v51/ nhưng cần xác minh scope: nếu refactor và push lên PR #260 sẽ tạo conflict khi merge với main
+- Poll sau: có thể (a) refactor tiếp 1 trong 3 STUB main files, (b) tiếp tục HEARTBEAT_OK nếu chờ Sếp quyết định về scope refactor main-vs-PR, (c) xem xét bổ sung các file Hoàn thiện mới từ discovery-v51 nếu có trong refactor-scan.txt
