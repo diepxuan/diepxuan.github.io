@@ -8756,3 +8756,38 @@ Phương pháp: dùng HTML `tmp/discovery-v52/59-TT-BNG.html` (slug 441909, 461 
 - Cùng pattern false positive "ngày l" đã biết từ 76/77/78/79/80/107/109/115/116/101/57/175/185/277/41/127/299/98
 - docid 441909 đã verify qua title + grep "BỘ NGOẠI GIAO" + "Số: 11/2026/TT-BNG" trong HTML
 - Poll sau (08:14 hoặc 08:44 ICT 30/7): tiếp tục crawl 16/TT-BNV (danh mục sản phẩm rủi ro) hoặc 93/TT-BCA
+
+## v66 — 2026-07-30 09:29 ICT — crawl 16/2026/TT-BNV Hoàn thiện
+
+### Cập nhật
+- Commit `f0b8a4c7` (đẩy lên origin bởi session trước, chưa ghi nhận trong tracking) thêm file `van-ban/noi-vu/16-2026-tt-bnv-danh-muc-san-pham-hang-hoa-rui-ro-trung-binh-va-cao.md` — 188 dòng, 19087 bytes.
+
+**Số hiệu**: 16/2026/TT-BNV — Thông tư Quy định Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình, mức độ rủi ro cao thuộc trách nhiệm quản lý nhà nước của Bộ Nội vụ. Ban hành 28/7/2026, hiệu lực 28/7/2026, ký bởi Nguyễn Mạnh Khương (KT. Bộ trưởng, Thứ trưởng Bộ Nội vụ). Căn cứ: Luật An toàn, vệ sinh lao động 84/2015/QH13 + Luật Chất lượng sản phẩm, hàng hóa 2007.
+
+**Cấu trúc**: 8 Điều (range 1-8 đầy đủ), 0 Chương, 1 Phụ lục (Danh mục SPHH rủi ro trung bình/cao). Nội dung chính: Phạm vi điều chỉnh; Đối tượng áp dụng; Danh mục (chuyển tiếp); Nguyên tắc quản lý; Trách nhiệm quản lý nhà nước; Điều khoản chuyển tiếp; Hiệu lực thi hành; Tổ chức thực hiện.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues; `ocr_quality_gate_scan.py` Articles 8 (Range 1-8, Missing [], Duplicate []), Chapters 0 — **PASS clean**.
+
+**Phương pháp**: dùng HTML `tmp/discovery-v52/84-TT-BNV.html` (slug 441898, 329 KB — toàn văn đầy đủ phát hiện ở Discovery v52) làm input, extract bằng `scripts/build_16_tt_bnv.py` (pattern tương tự 10/11/TT-BNG, body_start anchor = "BỘ NỘI VỤ" + "Số: 16/2026/TT-BNV"). Strip UI/tóm tắt, trích `<p>` từ "BỘ NỘI VỤ", dừng trước footer "Bạn chưa", render Điều heading thành `## Điều N.`. Dùng `html.unescape()`.
+
+### Trạng thái tracking sau v66
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/2026/NĐ-CP: ✅ Hoàn thiện (14 VB)
+- 10/16/41/57/89/97/101/104/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (11 VB)
+- 10/11/2026/TT-BNG: ✅ Hoàn thiện (2 VB)
+- 54/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (7 VB)
+- **16/2026/TT-BNV**: ✅ Hoàn thiện (commit `f0b8a4c7` v66 — danh mục SPHH rủi ro trung bình/cao)
+- Tổng Hoàn thiện: **33 VB**
+- **319 file placeholder** cần refactor
+- **1 VB mới từ Discovery v52 chưa crawl**: 93/TT-BCA (HTML body sẵn tại `tmp/discovery-v52/126-TT-BCA.html`)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 09:29 ICT 30/7, sync tracking v66 cho commit `f0b8a4c7` đã push trước đó + update PR #260)
+- Phát hiện: session trước đã push commit `f0b8a4c7` (crawl 16/TT-BNV) lên origin nhưng chưa ghi nhận tracking + chưa update PR title/body → poll này đồng bộ
+- KHÔNG spawn đệ poll này: chỉ sync tracking + update PR cho commit có sẵn
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- docid 441898 đã verify qua og:title + og:description trong HTML
+- 16/TT-BNV PASS clean (0 OCR issues), không có false positive "ngày l"
+- Có 1 commit `f0b8a4c7` được phát hiện trên origin mà HEAD local của poll trước (memory) chưa ghi nhận — poll này đã sync tracking và PR body
+- Poll sau (09:59 hoặc 10:29 ICT 30/7): tiếp tục crawl 93/TT-BCA (dân chủ trong cơ sở giam giữ)
