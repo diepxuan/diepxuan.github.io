@@ -8882,3 +8882,35 @@ Phương pháp: dùng HTML `tmp/discovery-v71/107-TT-BTC.html` (slug 442041-d1, 
 - HTML không có tên Thứ trưởng cụ thể (luatvietnam.vn lược phần ký) → đánh dấu "Thứ trưởng ký thay", Sếp có thể verify lại qua PDF gốc trên vanban.chinhphu.vn nếu cần tên đầy đủ
 - docid 442041 đã verify qua web_search + web_fetch luatvietnam.vn (slug 442041-d1)
 - Poll sau (06:08 hoặc 06:38 ICT 31/7): tiếp tục crawl 110/TT-BTC (slug 442019, bãi bỏ TT trong lĩnh vực thuế) hoặc HEARTBEAT_OK nếu tracking đầy đủ
+
+## Cập nhật 2026-07-31 v70 (crawl 110/2026/TT-BTC Hoàn thiện — 2026-07-31 06:29 ICT)
+
+### Kết quả crawl: **110/2026/TT-BTC HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v71/110-TT-BTC.html` (slug 442019-d1, 283 KB — toàn văn đầy đủ phát hiện ở Discovery v71 cùng re-batch sitemap ngày 31/7) làm input, extract bằng `scripts/build_110_tt_btc.py` (pattern tương tự 42/TT-BCT, anchor "BỘ TÀI CHÍNH" + heading promotion + dedup "Đang theo dõi"). Strip UI/tóm tắt, trích `<p>` từ "BỘ TÀI CHÍNH", dừng trước footer "Bạn chưa Đăng nhập". Heading Điều render thành `### Điều N. Tiêu đề`. Dùng `html.unescape()`.
+
+**File output**: `van-ban/tai-chinh/110-2026-tt-btc-bai-bo-thong-tu-va-quyet-dinh-trong-linh-vuc-thue.md` — 162 dòng, 15 KB.
+
+**Số hiệu**: 110/2026/TT-BTC — Thông tư bãi bỏ toàn bộ một số Thông tư và Quyết định của Bộ trưởng Bộ Tài chính trong lĩnh vực thuế, ban hành 28/07/2026, hiệu lực 12/09/2026, ký bởi **Cao Anh Tuấn (KT. BỘ TRƯỞNG THỨ TRƯỞNG — Thứ trưởng Bộ Tài chính, bổ nhiệm 26/10/2022)**. Căn cứ: Luật Ban hành văn bản quy phạm pháp luật 64/2025/QH15 (sửa đổi bởi Luật 87/2025/QH15), Luật Quản lý thuế 108/2025/QH15, NĐ 252/2026/NĐ-CP, Luật thuế sử dụng đất nông nghiệp 23-L/CTN, Luật Thuế thu nhập cá nhân 109/2025/QH15 (sửa đổi bởi Luật 09/2026/QH16), Luật Thuế giá trị gia tăng 48/2024/QH15 (sửa đổi bởi Luật 149/2025/QH15, 90/2025/QH15, 09/2026/QH16), Luật Thuế thu nhập doanh nghiệp 67/2025/QH15 (sửa đổi bởi Luật 09/2026/QH16), NĐ 78/2025/NĐ-CP, NĐ 79/2025/NĐ-CP (sửa đổi bởi NĐ 187/2025/NĐ-CP), NĐ 29/2025/NĐ-CP (sửa đổi bởi NĐ 166/2025/NĐ-CP).
+
+**Cấu trúc**: 2 Điều (range 1-2, đầy đủ, không missing/duplicate), 0 Chương — **PASS clean**. Điều 1: Bãi bỏ toàn bộ 22 Thông tư (từ 69-TC/TCT 1991 đến 43/2019/TT-BTC) + 3 Quyết định (1042/1998/QĐ-BTC, 18/2007/QĐ-BTC, 78/2007/QĐ-BTC). Điều 2: Điều khoản thi hành (hiệu lực 12/9/2026, Thủ trưởng các đơn vị chịu trách nhiệm). Nội dung chính: bãi bỏ toàn bộ một số Thông tư/Quyết định của Bộ trưởng Bộ Tài chính trong lĩnh vực thuế đã hết hiệu lực hoặc không còn phù hợp, đơn giản hóa hệ thống văn bản theo yêu cầu của Luật Ban hành văn bản quy phạm pháp luật 2025 và Nghị định 78/2025/NĐ-CP về rà soát, hệ thống hóa.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues — **PASS clean**. `ocr_quality_gate_scan.py` Articles 2 (Range 1-2, Missing [], Duplicate []), Chapters 0 — **PASS về cấu trúc**.
+
+### Trạng thái tracking sau v70
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/2026/NĐ-CP: ✅ Hoàn thiện (14 VB)
+- 10/16/41/42/57/89/97/101/104/107/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (13 VB) — **+110/2026/TT-BTC vừa crawl**
+- 10/11/2026/TT-BNG: ✅ Hoàn thiện (2 VB)
+- 54/93/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (8 VB)
+- 08/2026/TT-BKHCN: ✅ Hoàn thiện (1 VB, polish từ 2026-07-29)
+- Tổng Hoàn thiện: **37 VB**
+- **319 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 06:29 ICT 31/7, crawl inline 110/TT-BTC + commit `46e91b8b` v70)
+- KHÔNG spawn đệ mới poll này: input HTML 110/TT-BTC đã có sẵn từ discovery-v71 → crawl inline đơn giản (pattern build script tương tự 42/TT-BCT)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- 110/TT-BTC PASS OCR Quality Gate (0 issues): 2 Điều (range 1-2, missing [], duplicate []), 0 Chương — đơn giản vì là VB bãi bỏ, danh sách liệt kê rõ 22 TT + 3 QĐ
+- Poll sau (06:59 hoặc 07:29 ICT 31/7): HEARTBEAT_OK nếu sitemap 0 biến động + không có file refactor HTML sẵn
