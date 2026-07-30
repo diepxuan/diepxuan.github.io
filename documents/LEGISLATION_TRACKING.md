@@ -8823,3 +8823,25 @@ Phương pháp: dùng HTML `tmp/discovery-v52/59-TT-BNG.html` (slug 441909, 461 
 - 93/TT-BCA PASS về cấu trúc; 1 OCR false positive "ngày l" đã biết với các TT-BCA (107/115/116/127)
 - Lần build đầu (script split_paragraphs) ghi file chỉ 14 dòng do double-space separator không có nhiều; lần build 2 (split newline) đã tạo output đúng 202 dòng
 - Poll sau (10:59 hoặc 11:29 ICT 30/7): tiếp tục crawl 125/TT-BCA (slug 441917) hoặc 59/TT-BNG (slug 441904), hoặc HEARTBEAT_OK nếu tracking đầy đủ + không có tín hiệu mới
+
+### Trạng thái tracking sau v68 (cập nhật 2026-07-31 05:01 ICT)
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/2026/NĐ-CP: ✅ Hoàn thiện (14 VB)
+- 10/16/41/42/57/89/97/101/104/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (12 VB)
+- 10/11/2026/TT-BNG: ✅ Hoàn thiện (2 VB)
+- 54/93/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (8 VB)
+- Tổng Hoàn thiện: **35 VB**
+- **319 file placeholder** cần refactor
+- **0 VB input sẵn** trong PR #260 scope (2 file HTML còn lại ở discovery-v52: 125-TT-BCA.html slug 441917, 59-TT-BNG.html slug 441904 — đã crawl xong trong batch trước)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 04:59 ICT 31/7, tiếp tục crawl 42/TT-BCT sau refresh sitemap_thongtu.xml với 3 slug mới >441920)
+- KHÔNG spawn đệ poll này: pattern build script quen thuộc (TT-BCT pattern 41)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- Sitemap luatvietnam.vn re-batch lúc 04:43 ICT 31/7 (lastmod index 2026-07-31T04:43:24+07:00, MD5 khác v52)
+- Slug mới >441920: 442085 (42/TT-BCT), 442041 (107/TT-BTC), 442019 (110/TT-BTC) — đã crawl 42/TT-BCT trong poll này
+- 107/TT-BTC (slug 442041) và 110/TT-BTC (slug 442019) là VB bổ sung/sửa đổi — chờ poll sau xét tiếp
+- docid 442085 đã verify qua <title> + grep "BỘ CÔNG THƯƠNG" + signature "Nguyễn Sinh Nhật Tân" trong HTML
+- 42/TT-BCT PASS OCR Quality Gate (0 issues): 2 Điều (range 1-2, missing [], duplicate []), 0 Chương
+- Poll sau (05:29 hoặc 05:59 ICT 31/7): tiếp tục crawl 107/TT-BTC (slug 442041) hoặc 110/TT-BTC (slug 442019), hoặc HEARTBEAT_OK
