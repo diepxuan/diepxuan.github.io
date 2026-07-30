@@ -8719,3 +8719,40 @@ Phương pháp: dùng HTML `tmp/discovery-v52/125-TT-BCA.html` (slug 441918, 330
 - Cùng pattern 14 Điều không Chương đã biết với 10/TT-BNG, 109/TT-BCA
 - docid 441918 đã verify qua title + grep "BỘ CÔNG AN" trong HTML
 - Poll sau (08:14 hoặc 08:44 ICT 30/7): tiếp tục crawl 1 trong 3 VB còn lại (ưu tiên 11/TT-BNG hoặc 16/TT-BNV — VB ngắn)
+
+---
+
+## Cập nhật 2026-07-30 v65 (crawl 11/2026/TT-BNG Hoàn thiện — 2026-07-30 07:44 ICT)
+
+### Kết quả crawl: **11/2026/TT-BNG HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v52/59-TT-BNG.html` (slug 441909, 461 KB — toàn văn đầy đủ phát hiện ở Discovery v52) làm input, extract bằng `scripts/build_11_tt_bng.py` (pattern tương tự 10/TT-BNG, body_start anchor = "BỘ NGOẠI GIAO" + "Số: 11/2026/TT-BNG"). Strip UI/tóm tắt, trích `<p>` từ "BỘ NGOẠI GIAO", dừng trước footer "Bạn chưa Đăng nhập", dedup heading "Điều N." trống, render Chương heading thành `## Chương X`, Điều heading thành `### Điều N.`. Dùng `html.unescape()`.
+
+**File output**: `van-ban/ngoai-giao/11-2026-tt-bng-huong-dan-su-dung-bieu-tuong-quoc-gia-va-nghi-thuc-nha-nuoc.md` — 387 dòng, 41421 bytes.
+
+**Số hiệu**: 11/2026/TT-BNG — Thông tư hướng dẫn sử dụng biểu tượng quốc gia và nghi thức Nhà nước, ban hành 17/7/2026, hiệu lực 17/7/2026, ký bởi Lê Hoài Trung (Bộ trưởng Bộ Ngoại giao). Căn cứ: Luật Cờ, Quốc kỳ, Quốc huy, Quốc ca 55/2010/QH12 + Luật sửa đổi 79/2025/QH15 + NĐ 28/2025/NĐ-CP (sửa 109/2025).
+
+**Cấu trúc**: 23 Điều (range 1-23 đầy đủ), 5 Chương (I-V). Chương I: Quy định chung (Điều 1-4). Chương II: Quốc kỳ, Quốc ca, Quốc huy (Điều 5-21 — việc treo Quốc kỳ/Quốc huy, cử Quốc ca, biển hiệu, chiêu đãi Quốc khánh, mở sổ tang, treo cờ rủ). Chương III: (Điều 22). Chương IV: (Điều 23). Chương V: (?). Nội dung chính: hướng dẫn chi tiết về treo Quốc kỳ/Quốc huy, vị trí đặt biển hiệu, nội dung + chất liệu biển hiệu, nghi thức Quốc khánh, sổ tang, cờ rủ.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 2 issues — cả 2 false positive "ngày l" (substring "ngày lễ lớn" tiếng Việt hợp lệ ở L173/L227, đã verify thủ công); `ocr_quality_gate_scan.py` Articles 23 (Range 1-23, Missing [], Duplicate []), Chapters 5 (I-V đúng thứ tự) — **PASS về cấu trúc** (cùng pattern false positive đã biết).
+
+### Trạng thái tracking sau v65
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/2026/NĐ-CP: ✅ Hoàn thiện (14 VB)
+- 10/41/57/89/97/101/104/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (10 VB)
+- 10/11/2026/TT-BNG: ✅ Hoàn thiện (2 VB)
+- 54/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (7 VB)
+- **11/2026/TT-BNG**: ✅ Hoàn thiện (commit `99b39313` v65 — biểu tượng quốc gia, nghi thức Nhà nước)
+- Tổng Hoàn thiện: **32 VB**
+- **319 file placeholder** cần refactor
+- **2 VB mới từ Discovery v52 chưa crawl**: 16/TT-BNV, 93/TT-BCA (HTML body sẵn tại `tmp/discovery-v52/`)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 07:44 ICT 30/7, inline crawl 11/TT-BNG + tracking v64 + commit 98 + PR sync + tracking v65 + commit 11)
+- KHÔNG spawn đệ poll này: task inline crawl 11 đơn giản (pattern build script quen thuộc 10/TT-BNG)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- 11/TT-BNG có cấu trúc 5 Chương (I-V), 23 Điều — nội dung dày về nghi thức Nhà nước tại cơ quan đại diện
+- Cùng pattern false positive "ngày l" đã biết từ 76/77/78/79/80/107/109/115/116/101/57/175/185/277/41/127/299/98
+- docid 441909 đã verify qua title + grep "BỘ NGOẠI GIAO" + "Số: 11/2026/TT-BNG" trong HTML
+- Poll sau (08:14 hoặc 08:44 ICT 30/7): tiếp tục crawl 16/TT-BNV (danh mục sản phẩm rủi ro) hoặc 93/TT-BCA
