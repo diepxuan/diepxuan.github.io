@@ -8791,3 +8791,35 @@ Phương pháp: dùng HTML `tmp/discovery-v52/59-TT-BNG.html` (slug 441909, 461 
 - 16/TT-BNV PASS clean (0 OCR issues), không có false positive "ngày l"
 - Có 1 commit `f0b8a4c7` được phát hiện trên origin mà HEAD local của poll trước (memory) chưa ghi nhận — poll này đã sync tracking và PR body
 - Poll sau (09:59 hoặc 10:29 ICT 30/7): tiếp tục crawl 93/TT-BCA (dân chủ trong cơ sở giam giữ)
+
+---
+
+## v67 — Crawl 93/2026/TT-BCA (Hoàn thiện, 12 Điều, 3 Chương) — agent:github-io poll 10:29 ICT 30/7
+
+**Số hiệu**: 93/2026/TT-BCA — Thông tư Quy định về thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng thuộc Bộ Công an. Ban hành 17/6/2026, hiệu lực 01/7/2026, ký bởi Lương Tam Quang (Bộ trưởng Bộ Công an). Căn cứ: Luật Xử lý vi phạm hành chính 15/2012/QH13 (sửa đổi bởi 88/2025/QH15) + Luật Đặc xá 30/2018/QH14 (sửa đổi bởi 86/2025/QH15) + Luật Thực hiện dân chủ ở cơ sở 10/2022/QH15.
+
+**Cấu trúc**: 12 Điều (range 1-12 đầy đủ), 3 Chương (I-III), 3 Mục (Chương II chia 3 Mục). Chương I QUY ĐỊNH CHUNG (Điều 1-3); Chương II QUY ĐỊNH CỤ THỂ (Điều 4-10 chia 3 Mục); Chương III ĐIỀU KHOẢN THI HÀNH (Điều 11-12). Bãi bỏ Thông tư 73/2019/TT-BCA ngày 12/12/2019.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 1 issue L114 — false positive "ngày l" (substring "số điện thoại đường dây nóng tiếp nhận phản ánh trong giờ hành chính các ngày làm việc" hợp lệ); `ocr_quality_gate_scan.py` Articles 12 (Range 1-12, Missing [], Duplicate []), Chapters 3 (I-III, đúng thứ tự) — **PASS về cấu trúc** (cùng pattern false positive đã biết 107/115/116/127/299).
+
+**Phương pháp**: dùng HTML `tmp/discovery-v52/126-TT-BCA.html` (slug 441918, 325 KB — toàn văn đầy đủ phát hiện ở Discovery v52) làm input, extract bằng `scripts/build_93_tt_bca.py` (pattern simple TT 107/127, body_start anchor = "Bộ trưởng Bộ Công an ban hành Thông tư quy định", body_end anchor = "BỘ TRƯỞNG Đại tướng"). Strip UI/tóm tắt, dùng `html.unescape()`, dedup "Đang theo dõi" noise. Render Chương → `## Chương I`, Điều → `### Điều N.`, Mục → `#### Mục N`.
+
+### Trạng thái tracking sau v67
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/2026/NĐ-CP: ✅ Hoàn thiện (14 VB)
+- 10/16/41/57/89/97/101/104/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (11 VB)
+- 10/11/2026/TT-BNG: ✅ Hoàn thiện (2 VB)
+- 54/93/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (8 VB)
+- Tổng Hoàn thiện: **34 VB**
+- **319 file placeholder** cần refactor
+- **0 VB mới từ Discovery v52 chưa crawl** trong PR #260 scope — còn 2 file HTML đã phát hiện nhưng chưa phải VB: `tmp/discovery-v52/125-TT-BCA.html` (slug 441917 — 125/TT-BCA), `tmp/discovery-v52/59-TT-BNG.html` (slug 441904 — 59/TT-BNG) — chờ Sếp duyệt hoặc poll sau xét tiếp
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 10:29 ICT 30/7, tiếp tục crawl 93/TT-BCA từ đề xuất v66)
+- KHÔNG spawn đệ poll này: pattern build script quen thuộc (107/127 simple TT)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- docid 441918 đã verify qua `<title>` + `<meta og:description>` trong HTML
+- 93/TT-BCA PASS về cấu trúc; 1 OCR false positive "ngày l" đã biết với các TT-BCA (107/115/116/127)
+- Lần build đầu (script split_paragraphs) ghi file chỉ 14 dòng do double-space separator không có nhiều; lần build 2 (split newline) đã tạo output đúng 202 dòng
+- Poll sau (10:59 hoặc 11:29 ICT 30/7): tiếp tục crawl 125/TT-BCA (slug 441917) hoặc 59/TT-BNG (slug 441904), hoặc HEARTBEAT_OK nếu tracking đầy đủ + không có tín hiệu mới
