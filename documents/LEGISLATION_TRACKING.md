@@ -8682,3 +8682,40 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
 - 127/TT-BCA là Thông tư đặc thù QCVN — phần Thông tư chỉ 4 Điều (ban hành + hiệu lực + chuyển tiếp + thi hành), phần QCVN 13:2026/BCA đính kèm có cấu trúc mục 1-5 (không dùng heading Điều/Chương). Cùng pattern với 107/TT-BCA QCVN 15:2026/BCA trung tâm sát hạch lái xe.
 - OCR false positive "ngày l" tại L352 đã verify: chuỗi "cả ngày lẫn đêm" trong mục 2.3.7.4 về buồng giam — hoàn toàn hợp lệ tiếng Việt.
 - Theo mục 2.6: PR body sẽ được sync sau khi commit đẩy.
+
+---
+
+## Cập nhật 2026-07-30 v64 (crawl 98/2026/TT-BCA Hoàn thiện — 2026-07-30 07:44 ICT)
+
+### Kết quả crawl: **98/2026/TT-BCA HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v52/125-TT-BCA.html` (slug 441918, 330 KB — toàn văn đầy đủ phát hiện ở Discovery v52) làm input, extract bằng `scripts/build_98_tt_bca.py` (pattern tương tự 107/109/115/116/127 cho TT-BCA liên bộ, body_start anchor = "BỘ CÔNG AN" + "Số: 98/2026/TT-BCA"). Strip UI/tóm tắt, trích `<p>` từ "BỘ CÔNG AN", dùng `html.unescape()`.
+
+**File output**: `van-ban/cong-an/98-2026-tt-bca-trinh-tu-thu-tuc-nhan-xet-danh-gia-xep-loai-chap-hanh-an-phat-tu.md` — 258 dòng.
+
+**Số hiệu**: 98/2026/TT-BCA — Thông tư quy định trình tự, thủ tục nhận xét, đánh giá và xếp loại chấp hành án phạt tù cho phạm nhân đang chấp hành án phạt tù trong các trại giam, trại tạm giam thuộc Bộ Công an, trại tạm giam thuộc Công an cấp tỉnh. Ban hành 22/6/2026, hiệu lực 01/7/2026, ký bởi Đại tướng Lương Tam Quang (Bộ trưởng Bộ Công an).
+
+**Cấu trúc**: 14 Điều (range 1-14 đầy đủ), 0 Chương. Nội dung chính: đánh giá xếp loại chấp hành án phạt tù theo tháng/quý/năm (tốt/khá/trung bình/yếu/kém), tiêu chí cụ thể cho từng loại phạm nhân, quy trình nhận xét hội đồng, khen thưởng/kỷ luật.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues; `ocr_quality_gate_scan.py` Articles 14 (Range 1-14, Missing [], Duplicate []), Chapters 0 — **PASS clean**.
+
+### Trạng thái tracking sau v64
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/2026/NĐ-CP: ✅ Hoàn thiện (14 VB)
+- 10/41/57/89/97/101/104/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (10 VB)
+- 54/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (7 VB)
+- **98/2026/TT-BCA**: ✅ Hoàn thiện (commit `ba0ed12d` v64 — xếp loại chấp hành án phạt tù)
+- Tổng Hoàn thiện: **31 VB**
+- **319 file placeholder** cần refactor
+- **3 VB mới từ Discovery v52 chưa crawl**: 16/TT-BNV, 93/TT-BCA, 11/TT-BNG (HTML body sẵn tại `tmp/discovery-v52/`)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 07:30 ICT 30/7, inline crawl 98/TT-BCA + commit `ba0ed12d`)
+- Poll 07:44: thêm tracking v64 + update PR body/title
+- KHÔNG spawn đệ poll này: task inline crawl 98 đơn giản (pattern build script quen thuộc)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- 98/TT-BCA có cấu trúc đơn giản (14 Điều, 0 Chương) — OCR Quality Gate **PASS clean** không có false positive "ngày l" hay "above"
+- Cùng pattern 14 Điều không Chương đã biết với 10/TT-BNG, 109/TT-BCA
+- docid 441918 đã verify qua title + grep "BỘ CÔNG AN" trong HTML
+- Poll sau (08:14 hoặc 08:44 ICT 30/7): tiếp tục crawl 1 trong 3 VB còn lại (ưu tiên 11/TT-BNG hoặc 16/TT-BNV — VB ngắn)
