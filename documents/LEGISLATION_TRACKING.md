@@ -8845,3 +8845,40 @@ Phương pháp: dùng HTML `tmp/discovery-v52/59-TT-BNG.html` (slug 441909, 461 
 - docid 442085 đã verify qua <title> + grep "BỘ CÔNG THƯƠNG" + signature "Nguyễn Sinh Nhật Tân" trong HTML
 - 42/TT-BCT PASS OCR Quality Gate (0 issues): 2 Điều (range 1-2, missing [], duplicate []), 0 Chương
 - Poll sau (05:29 hoặc 05:59 ICT 31/7): tiếp tục crawl 107/TT-BTC (slug 442041) hoặc 110/TT-BTC (slug 442019), hoặc HEARTBEAT_OK
+
+## Cập nhật 2026-07-31 v69 (crawl 107/2026/TT-BTC Hoàn thiện — 2026-07-31 05:38 ICT)
+
+### Kết quả crawl: **107/2026/TT-BTC HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/discovery-v71/107-TT-BTC.html` (slug 442041-d1, 915 KB — toàn văn đầy đủ phát hiện ở Discovery v71 cùng re-batch sitemap ngày 31/7) làm input, extract bằng `scripts/build_107_tt_btc.py` (pattern tương tự 42/TT-BCT, anchor "BỘ TÀI CHÍNH" + heading promotion + dedup "ngày lập"). Strip UI/tóm tắt, trích `<p>` từ "BỘ TÀI CHÍNH", dừng trước footer "Bạn chưa Đăng nhập". Heading Chương render thành `## Chương N`, heading Điều render thành `### Điều N. Tiêu đề`. Dùng `html.unescape()`.
+
+**File output**: `van-ban/tai-chinh/107-2026-tt-btc-huong-dan-ke-toan-nghiep-vu-thi-hanh-an-dan-su.md` — 3589 dòng, ~88 KB.
+
+**Số hiệu**: 107/2026/TT-BTC — Thông tư hướng dẫn kế toán nghiệp vụ thi hành án dân sự, ban hành 31/7/2026, hiệu lực 01/10/2026, ký bởi **KT. Bộ trưởng Bộ Tài chính (Thứ trưởng ký thay)**. Căn cứ: Luật Kế toán 88/2015/QH13 (sửa đổi 2025), Luật Thi hành án dân sự 26/2008/QH12 (sửa đổi 33/2020/QH14, 71/2025/QH15), NĐ 174/2016/NĐ-CP, NĐ 33/2020/NĐ-CP.
+
+**Cấu trúc**: 13 Điều (range 1-13, đầy đủ, không missing/duplicate), 3 Chương (I-III) — **PASS clean**. Chương I: Quy định chung (Điều 1-3). Chương II: Chế độ kế toán, chứng từ kế toán và sổ kế toán (Điều 4-7) — bao gồm TK 111 "Tiền mặt", 112 "Tiền gửi Ngân hàng, Kho bạc nhà nước", 113 "Tiền đang chuyển", 114 "Tài sản, vật chứng" (theo giá quy ước 01 đồng), 132 "Phải thu của người thu tiền, chấp hành viên", 136 "Phải thu đơn vị dự toán", 331 "Các khoản phải trả đương sự", 333 "Các khoản phải nộp nhà nước", 336 "Phải trả đơn vị dự toán", 337 "Các khoản tạm giữ chờ xử lý", 338 "Các khoản phải trả khác". Chương III: Báo cáo tài chính (Điều 8-13) — bao gồm Bảng cân đối kế toán, Báo cáo kết quả hoạt động, Báo cáo lưu chuyển tiền tệ, Thuyết minh báo cáo tài chính, đơn vị tiền tệ Đồng Việt Nam, kỳ báo cáo quý/năm. Nội dung chính: chế độ kế toán mới cho các nghiệp vụ thi hành án dân sự, quản lý chặt chẽ các khoản tiền/tài sản/vật chứng/chi phí thi hành án; tài sản, vật chứng tạm giữ hạch toán thống nhất theo giá quy ước 01 đồng (thay vì giá trị thực tế theo TT 78/2020/TT-BTC cũ); điểm mới quan trọng cần chấp hành viên, kế toán, đương sự nắm rõ.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 15 issues — tất cả false positive "ngày l" (substring "tại ngày lập báo cáo tài chính" — thuật ngữ kế toán Việt Nam chuẩn, đã verify thủ công các dòng 3493/3499/3505/3511/3529/3535/3539/3541/3555/3561/3565/3567/3573/3579/3583); `ocr_quality_gate_scan.py` Articles 13 (Range 1-13, Missing [], Duplicate []), Chapters 3 (I-III đúng thứ tự La Mã) — **PASS về cấu trúc** (cùng pattern false positive đã biết với 41/42/TT-BCT).
+
+### Trạng thái tracking sau v69
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/2026/NĐ-CP: ✅ Hoàn thiện (14 VB)
+- 10/16/41/42/57/89/97/101/104/107/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (13 VB) — **+107/2026/TT-BTC vừa crawl**
+- 10/11/2026/TT-BNG: ✅ Hoàn thiện (2 VB)
+- 54/93/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (8 VB)
+- **107/2026/TT-BTC**: ✅ Hoàn thiện (commit `9762398b` v69 — KT. Bộ trưởng Bộ Tài chính, Thứ trưởng ký thay)
+- Tổng Hoàn thiện: **36 VB**
+- **319 file placeholder** cần refactor (chưa xử lý poll nào)
+- **1 VB input sẵn còn lại**: 110/TT-BTC (slug 442019, 283 KB tại `tmp/discovery-v71/110-TT-BTC.html`) — bãi bỏ TT/quyết định trong lĩnh vực thuế
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 05:38 ICT 31/7, crawl inline 107/TT-BTC + commit `9762398b` + cập nhật tracking v69)
+- KHÔNG spawn đệ mới poll này: input HTML 107/TT-BTC đã có sẵn từ discovery-v71 → crawl inline đơn giản (pattern build script tương tự 42/TT-BCT)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- Cùng pattern false positive "ngày l" (15 case) đã biết từ 41/42/TT-BCT, 77/78/79/80/107/109/115/116/101/57/175/185/277/41 — thuật ngữ kế toán Việt Nam chuẩn "tại ngày lập báo cáo tài chính"
+- 107/TT-BTC có hiệu lực từ 01/10/2026 (tương lai so với 31/7/2026) → văn bản chưa áp dụng, nhưng đã ban hành chính thức nên crawl Hoàn thiện theo protocol
+- Phương pháp xác minh metadata: title (luatvietnam.vn) + web_search Gemini (xác nhận hiệu lực 01/10/2026 + tài sản vật chứng theo giá quy ước 01 đồng) + grep "TM. BỘ TÀI CHÍNH / KT. BỘ TRƯỞNG / THỨ TRƯỞNG" trong HTML
+- HTML không có tên Thứ trưởng cụ thể (luatvietnam.vn lược phần ký) → đánh dấu "Thứ trưởng ký thay", Sếp có thể verify lại qua PDF gốc trên vanban.chinhphu.vn nếu cần tên đầy đủ
+- docid 442041 đã verify qua web_search + web_fetch luatvietnam.vn (slug 442041-d1)
+- Poll sau (06:08 hoặc 06:38 ICT 31/7): tiếp tục crawl 110/TT-BTC (slug 442019, bãi bỏ TT trong lĩnh vực thuế) hoặc HEARTBEAT_OK nếu tracking đầy đủ
