@@ -8641,3 +8641,44 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
 - 243/NĐ-CP ở main đã có body 36KB đầy đủ (28 KB+ phụ lục)
 - 3 file (NQ-26, 147-NĐ, 29-QH16) ở main là STUB thật — chỉ có heading không body. Có HTML body sẵn ở tmp/discovery-v51/ nhưng cần xác minh scope: nếu refactor và push lên PR #260 sẽ tạo conflict khi merge với main
 - Poll sau: có thể (a) refactor tiếp 1 trong 3 STUB main files, (b) tiếp tục HEARTBEAT_OK nếu chờ Sếp quyết định về scope refactor main-vs-PR, (c) xem xét bổ sung các file Hoàn thiện mới từ discovery-v51 nếu có trong refactor-scan.txt
+
+## v63 — 2026-07-30 — Crawl 127/2026/TT-BCA (QCVN 13:2026/BCA — thiết kế xây dựng cơ sở giam giữ)
+
+### Phát hiện
+- VB mới từ `tmp/discovery-v52/127-TT-BCA.html` (slug 441918-d1, 312 KB — toàn văn đầy đủ phát hiện ở Discovery v52 re-batch ~17 giờ chờ)
+- Metadata đầy đủ: Số 127/2026/TT-BCA, ngày 30/6/2026, hiệu lực 01/7/2026, ký bởi Đại tướng Lương Tam Quang (Bộ trưởng Bộ Công an). Trích yếu: Ban hành Quy chuẩn kỹ thuật quốc gia về thiết kế và xây dựng các cơ sở giam giữ trong Công an nhân dân (QCVN 13:2026/BCA). Căn cứ: Luật TC&QCVN KT 68/2006/QH11 (sửa 35/2018/QH14, 70/2025/QH15) + Luật Tư pháp NCTV 59/2024/QH15 + Luật THAHS 127/2025/QH15 + Luật TH tạm giữ/giam 128/2025/QH15 + NĐ 22/2026/NĐ-CP + NĐ 02/2025/NĐ-CP (sửa 11/2025/NĐ-CP).
+
+### Hành động
+1. **Build script**: `scripts/build_127_tt_bca.py` (pattern tương tự 107/TT-BCA cho QCVN — Thông tư ban hành Quy chuẩn kỹ thuật quốc gia)
+   - body_start anchor = "BỘ CÔNG AN" + "Số:" 
+   - dedup "BỘ CÔNG AN" header, dedup "Số: 127/2026/TT-BCA" line, dedup duplicate "Điều N." headings
+   - render "### Điều N. Title" cho 4 Điều (1-4)
+   - QCVN section: render heading "## Quy chuẩn kỹ thuật quốc gia QCVN 13:2026/BCA" khi gặp marker `QCVN 13:2026/BCA`
+   - QCVN chapter headings (1-5 mục lớn) promote thành `### N. TITLE`
+   - Dùng `html.unescape()`
+2. **Build output**: `van-ban/cong-an/127-2026-tt-bca-quy-chuan-ky-thuat-quoc-gia-thiet-ke-xay-dung-co-so-giam-giu.md` — 544 dòng, 45966 bytes
+3. **Cấu trúc**: 4 Điều (range 1-4 đầy đủ: Điều 1 Ban hành kèm theo, Điều 2 Hiệu lực thi hành, Điều 3 Điều khoản chuyển tiếp, Điều 4 Điều khoản thi hành) + QCVN 13:2026/BCA đính kèm với 5 mục lớn (1. Quy định chung, 2. Quy định kỹ thuật, 3. Quy định về quản lý, 4. Trách nhiệm của tổ chức cá nhân, 5. Tổ chức thực hiện)
+4. **OCR Quality Gate**:
+   - `scan_ocr_quality.py`: 1 issue — false positive "ngày l" tại L352 (substring "cả ngày lẫn đêm" tiếng Việt hợp lệ trong QCVN mục 2.3.7.4 — đã verify thủ công)
+   - `ocr_quality_gate_scan.py`: Articles 4 (Range 1-4, Missing [], Duplicate []), Chapters 0 (không có Chương vì là QCVN có cấu trúc mục riêng) — **PASS về cấu trúc** (cùng pattern false positive đã biết như 107/115/116/299)
+5. **Commit + push**:
+   - Commit `92db55d1`: "crawl: 127/2026/TT-BCA QCVN 13:2026/BCA thiết kế xây dựng cơ sở giam giữ (Hoàn thiện — 4 Điều + QCVN, slug 441918)"
+   - 1 file changed, 544 insertions(+)
+   - Push OK: `e5f31bbc..92db55d1` lên `origin/heartbeat/crawl-vanban-20260723`
+
+### Trạng thái tracking sau v63
+- **127/2026/TT-BCA**: ✅ Hoàn thiện (commit `92db55d1` v63 — QCVN 13:2026/BCA — thiết kế xây dựng cơ sở giam giữ)
+- 54/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (6 VB)
+- Tổng Hoàn thiện: **30 VB**
+- **4 VB mới** từ Discovery v52 chưa crawl: 16/TT-BNV (slug 441898), 93/TT-BCA (slug 441918 — đã dùng cho 127 ở v63, có thể khác slug), 98/TT-BCA (slug 441919), 11/TT-BNG (slug 441909) — HTML body đầy đủ sẵn tại `tmp/discovery-v52/`
+- **319 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 06:59 ICT 30/7, inline crawl 127/TT-BCA + tracking v63 + push PR #260)
+- KHÔNG spawn đệ poll này: task inline crawl 127 đơn giản (pattern build script quen thuộc 107/115/116)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- 127/TT-BCA là Thông tư đặc thù QCVN — phần Thông tư chỉ 4 Điều (ban hành + hiệu lực + chuyển tiếp + thi hành), phần QCVN 13:2026/BCA đính kèm có cấu trúc mục 1-5 (không dùng heading Điều/Chương). Cùng pattern với 107/TT-BCA QCVN 15:2026/BCA trung tâm sát hạch lái xe.
+- OCR false positive "ngày l" tại L352 đã verify: chuỗi "cả ngày lẫn đêm" trong mục 2.3.7.4 về buồng giam — hoàn toàn hợp lệ tiếng Việt.
+- Theo mục 2.6: PR body sẽ được sync sau khi commit đẩy.
