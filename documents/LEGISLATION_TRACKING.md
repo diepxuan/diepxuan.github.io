@@ -8914,3 +8914,41 @@ Phương pháp: dùng HTML `tmp/discovery-v71/110-TT-BTC.html` (slug 442019-d1, 
 ### Ghi chú kỷ luật
 - 110/TT-BTC PASS OCR Quality Gate (0 issues): 2 Điều (range 1-2, missing [], duplicate []), 0 Chương — đơn giản vì là VB bãi bỏ, danh sách liệt kê rõ 22 TT + 3 QĐ
 - Poll sau (06:59 hoặc 07:29 ICT 31/7): HEARTBEAT_OK nếu sitemap 0 biến động + không có file refactor HTML sẵn
+
+---
+
+## Cập nhật 2026-07-31 v71 (crawl 301/2026/NĐ-CP Hoàn thiện — 2026-07-31 23:11 ICT)
+
+### Kết quả crawl: **301/2026/NĐ-CP HOÀN THIỆN**
+
+Phương pháp: dùng HTML `tmp/nd301-442187.html` (slug 442187-d1, 504 KB — toàn văn đầy đủ, tải trực tiếp từ luatvietnam.vn) làm input, extract bằng `scripts/build_301_nd_cp.py` (pattern tương tự build_299_nd_cp.py). Strip UI/tóm tắt + "Đang theo dõi" watermark, trích `<p>` từ "Hiệu lực: Đã biết... CHÍNH PHỦ", dừng trước footer "Bạn chưa Đăng nhập". Heading Điều render thành `### Điều N. Tiêu đề`. Bỏ "Đang theo dõi" UI overlay, strip quote marks, dedup. Dùng `html.unescape()`.
+
+**File output**: `van-ban/hanh-chinh/nghi-dinh-301-2026-nd-cp-sua-doi-nghi-dinh-63-2024.md` — 896 dòng, 78 KB.
+
+**Số hiệu**: 301/2026/NĐ-CP — Nghị định sửa đổi, bổ sung Nghị định 63/2024/NĐ-CP quy định liên thông điện tử 02 nhóm TTHC, ban hành 30/7/2026, hiệu lực 01/9/2026, ký bởi Phạm Thị Thanh Trà (KT. Thủ tướng, Phó Thủ tướng Chính phủ). Căn cứ: Luật Tổ chức Chính phủ 63/2025/QH15, Luật Tổ chức chính quyền địa phương 72/2025/QH15, Luật Bảo hiểm xã hội 41/2024/QH15, Luật Bảo hiểm y tế 51/2024/QH15, Luật Căn cước 26/2023/QH15 (sửa đổi bởi 118/2025/QH15), Luật Hộ tịch 60/2014/QH13, Luật Cư trú 68/2020/QH14 (sửa đổi bởi 59/2024/QH15 và 118/2025/QH15).
+
+**Cấu trúc**: 19 Điều (range 1-19, đầy đủ, không missing/duplicate), 0 Chương — **PASS clean**. Điều 1: Sửa đổi, bổ sung Điều 1 (phạm vi điều chỉnh — thêm cấp thẻ căn cước cho trẻ dưới 6 tuổi). Điều 2-14: Sửa đổi, bổ sung các điều 2-5, 7-11, 14, 18-21 của NĐ 63/2024. Điều 15: Thay thế cụm từ (14 thay đổi — cập nhật tên bộ/ngành, hệ thống). Điều 16: Bãi bỏ một số điều, khoản. Điều 17: Thay thế Mẫu số 01, 02 tại Phụ hồ sơ (thêm cấn cước). Điều 18: Điều khoản chuyển tiếp (đến 01/01/2027 và 01/3/2027). Điều 19: Điều khoản thi hành (hiệu lực 01/9/2026). Kèm Phụ hiệu: Mẫu số 01 (tờ khai liên thông đăng ký khai sinh + thường trí + BHYT + căn cước) và Mẫu số 02 (tờ khai liên thông đăng ký khai tử + xóa thường trú + mai tang phí, tử thi).
+
+**Điểm mới chính**: (1) Bổ sung **cấp thẻ căn cước cho trẻ dưới 6 tuổi** vào quy trình liên thông khai sinh; (2) Tách trách nhiệm giải quyết mai táng phí, tử tuất: ngành nghề nội vụ (người có công) vs ngành y tế (bảo trợ xã hội); (3) Mở rộng đối tượng liên thông khai tử: bổ sung thân nhân người bảo trợ xã hội (ngành y tế); (4) Hỗ trợ tài chính khi sinh con được tích hợp trong quy trình khai sinh; (5) Thay tên Hệ thống Hệ thống"cấp tỉnh" → "của Bộ Tư pháp"; (6) Thời gian khắc phục sự cố mới 24 giờ; (7) Phần mềm dịch vụ công liên thông (lia) được tích hợp sang Cổng Dịch vụ công quốc gia từ 01/01/2027.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues — **PASS clean**. `ocr_quality_gate_scan.py` Articles 19 (Range 1-19, Missing [], Duplicate []), Chapters 0 — **PASS về cấu trúc**. Đã tự động sửa: "P hụ lục" → "PHỤ LỤC", "NĐ - CP" → "NĐ-CP", "VNelD" → "VNeID", "khì" → "thì".
+
+### Trạng thái tracking sau v71
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/301/2026/NĐ-CP: ✅ Hoàn thiện (15 VB) — **+301/2026/NĐ-CP vừa crawl**
+- 10/16/41/42/57/89/97/101/104/107/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (13 VB)
+- 10/11/2026/TT-BNG: ✅ Hoàn thiện (2 VB)
+- 54/93/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (8 VB)
+- 08/2026/TT-BKHCN: ✅ Hoàn thiện (1 VB)
+- Tổng Hoàn thiện: **39 VB**
+- **319 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (subagent crawl NĐ 301/2026/NĐ-CP từ cron, 23:11 ICT 31/7)
+- KHÔNG spawn đệ mới: crawl inline trực tiếp 1 Nghị định
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- 301/NĐ-CP PASS OCR Quality Gate (0 issues): 19 Điều (range 1-19, missing [], duplicate []), 0 Chương
+- Là Nghị định sửa đổi (không có Chương riêng — sửa trực tiếp các điều của NĐ 63/2024)
+- Phụ hiệu chứa 2 mẫu tờ khai điện tử (dạng bảng/liệt kê), không phải lỗi OCR
+- Đã fix 4 lỗi OCR thủ công: VNelD → VNeID, NĐ - CP → NĐ-CP, khì → thì, P hụ lục → Phụ lục + bỏ marker "Đang theo dõi"
