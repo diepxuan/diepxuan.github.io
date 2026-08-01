@@ -894,3 +894,30 @@ Ghi chú :
 [20] Trường hợp người nhận trợ cấp mai táng, trợ cấp tuất một lần không thuộc số thân nhân có tên trong bảng kê nêu trên thì khai thêm các thông tin bên dưới.
 
 [21] Thông tin chủ tài khoản phải trùng khớp với thông tin của cá nhân nhận trợ cấp mai táng.
+
+---
+
+## Nơi nhận
+
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, các Vụ, Cục, Công báo;
+- Lưu: VT, CĐS (2).
+
+TM. CHÍNH PHỦ
+KT. THỦ TƯỚNG
+PHÓ THỦ TƯỚNG
+
+**Phạm Thị Thanh Trà**

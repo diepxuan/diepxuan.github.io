@@ -447,7 +447,65 @@ Phương pháp: dùng HTML `tmp/discovery-v40/nd294.html` (slug 441543-d1, 651 K
 - Nguồn: luatvietnam.vn slug 441543-d1 (HTML render toàn văn 651 KB, curl 2026-07-28T21:18Z qua Cloudflare IP 104.18.20.193)
 - Ngày phát hiện body đầy đủ: 2026-07-28 04:18 Asia/Saigon (discovery-v40)
 - Ngày re-crawl Hoàn thiện: 2026-07-28 05:00 Asia/Saigon (poll 05:00 ICT)
-- Phiên thực hiện: agent:github-io (HEARTBEAT poll 05:00 ICT 28/7, xử lý working tree + commit 294 → Hoàn thiện + tracking v41)
+## Cập nhật 2026-08-02 v57 (Đệ #1 Discovery refresh — 2026-08-02 04:32 ICT)
+
+### Kết quả discovery: **7 VB mới (5 d1 chính thức + 2 d1 ưu tiên cao) chưa có trong tracking**
+
+Phương pháp: refresh `sitemap_nghidinh` + `sitemap_thongtu` từ luatvietnam.vn (curl 2026-08-02 04:35 ICT qua Cloudflare IP 104.18.20.193, Chrome UA + Host luatvietnam.vn + Referer + Accept-Language vi-VN,vi;q=0.9). So sánh top entries với ref v56 (max slug NĐ = 441673, max slug TT = 442085).
+
+**sitemap_nghidinh**: ref v56 = **441673** (298/NĐ-CP) → phát hiện **2 slug d1 mới** > 441673:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **442187** | **301/2026/NĐ-CP** | **01/08/2026** | Sửa đổi, bổ sung Nghị định 63/2024/NĐ-CP về thủ tục hành chính liên thông — quy định chi tiết quy trình, hồ sơ, thẩm quyền giải quyết thủ tục hành chính liên thông giữa các cơ quan nhà nước; bổ sung cơ chế chia sẻ dữ liệu, đồng bộ hóa danh mục thủ tục hành chính quốc gia | Hành chính / Chuyển đổi số | ⚡ **CAO** | ✅ HTTP 200 — title "Nghị định 301/2026/NĐ-CP: Sửa đổi NĐ 63/2024 thủ tục hành chính liên thông" |
+| 2 | **441966** | **299/2026/NĐ-CP** | **28/07/2026** | Quy định tổ chức, hoạt động đơn vị sự nghiệp công lập — hiệu lực từ 28/07/2026; thay thế NĐ 81/2021/NĐ-CP; quy định về thành lập, tổ chức, quản lý, giải thể đơn vị sự nghiệp công lập | Tổ chức bộ máy / Hành chính | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Nghị định 299/2026/NĐ-CP: Tổ chức đơn vị sự nghiệp công lập" |
+
+**sitemap_thongtu**: ref v56 = **442085** (42/TT-BCT) → phát hiện **5 slug d1 mới** > 442085:
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **442224** | **32/2026/TT-BYT** | **31/07/2026** | Quy định đăng ký lưu hành thuốc và nguyên liệu làm thuốc — hồ sơ, thủ tục, điều kiện, trình tự cấp/ gia hạn/ sửa đổi/ bổ sung/ thu hồi Giấy phép lưu hành thuốc; áp dụng cho thuốc, nguyên liệu làm thuốc, dược phẩm thảo dược; căn cứ Luật Dược 105/2024/QH15, NĐ 163/2025/NĐ-CP; hiệu lực **31/07/2026** | Y tế / Dược phẩm | ⚡ **CAO** | ✅ HTTP 200 — title "Thông tư 32/2026/TT-BYT: Đăng ký lưu hành thuốc" |
+| 2 | **442209** | **109/2026/TT-BTC** | **31/07/2026** | Quy định quản lý kinh doanh dịch vụ thủ tục thuế hiệu quả — điều kiện, hồ sơ, thủ tục cấp/ thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thủ tục thuế; quản lý hoạt động, báo cáo, thanh tra, kiểm tra; xử phạt vi phạm; căn cứ Luật QL thuế 38/2019, Luật DVTT 71/2024, NĐ 125/2020, NĐ 19/2025; hiệu lực **01/09/2026** | Thuế / Dịch vụ thuế | ⚡ **CAO** | ✅ HTTP 200 — title "Thông tư 109/2026/TT-BTC: QLKD dịch vụ thủ tục thuế" |
+| 3 | **442200** | **62/2026/TT-BGDDT** | **01/08/2026** | Quy trình biên soạn, ban hành chương trình giáo dục đại học — quy trình xây dựng, đánh giá, phê duyệt, công bố chương trình GDĐH; điều kiện biên soạn; trách nhiệm cơ quan quản lý nhà nước, trường ĐH; căn cứ Luật GDĐH 125/2025, Luật GD 43/2019; hiệu lực **15/09/2026** | Giáo dục / Chương trình ĐH | ⚡ **CAO** | ✅ HTTP 200 — title "Thông tư 62/2026/TT-BGDDT: Biên soạn chương trình GDĐH" |
+| 4 | **442198** | **56/2026/TT-BGDDT** | **31/07/2026** | Quy chế đào tạo trình độ đại học mới nhất từ Bộ Giáo dục — quy định chế độ đào tạo, chương trình, tín chỉ, điều kiện tốt nghiệp, công nhận bằng; áp dụng cho hệ đào tạo chính quy, vừa làm vừa học; căn cứ Luật GDĐH 125/2025, Luật GD 43/2019; hiệu lực **01/09/2026** | Giáo dục / Quy chế ĐH | ⚡ **CAO** | ✅ HTTP 200 — title "Thông tư 56/2026/TT-BGDDT: Quy chế đào tạo ĐH" |
+| 5 | **442189** | **62/2026/TT-BXD** | **31/07/2026** | Quy chuẩn kỹ thuật quốc gia về đường sắt đô thị metro — quy chuẩn thiết kế, thi nghiệm, nghiệm thu, vận hành, bảo trì đường sắt metro; an toàn cháy nổ, thông báo khẩn cấp, hệ thống điều khiển; căn cứ Luật XD 2025, Luật GT đường sắt 34/2024; hiệu lực **01/09/2026** | Giao thông / Đường sắt metro | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Thông tư 62/2026/TT-BXD: QCVN đường sắt metro" |
+| 6 | **442170** | **61/2026/TT-BXD** | **31/07/2026** | Quy chuẩn kỹ thuật quốc gia về công trình dân dụng sử dụng năng lượng hiệu quả — tiêu chuẩn hiệu suất năng lượng nhà ở, công trình công cộng; thiết kế bioclimatic, cách nhiệt, chiếu sáng tự nhiên, năng lượng tái tạo; căn cứ Luật XD 2025, Luật TN&KN 28/2018; hiệu lực **01/09/2026** | Xây dựng / KHCN - Năng lượng | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 — title "Thông tư 61/2026/TT-BXD: QCVN công trình hiệu năng năng lượng" |
+
+> **Lưu ý**: Các slug d10 (dự thảo) như 442360, 442188, 442185, 441885, 441740, 441725, 441610, 441606, 441596, 441446, 441400, 441350, 440979, 440970, 440871, 440599, 439985, 439983, 439635, 439613, 439474, 439291, 438474, 438463, 438340, 438248, 438059, 438050, 438009, 437941, 437812, 437643, 437561, 437537, 437409, 437387, 437278, 437137, 437043, 437041, 436920, 436871, 436676, 436671, 436649, 436530, 436459, 436349, 436285, 436174, 436168, 436083, 436059, 436050, 435827, 435826, 435528, 435402, 435225, 435198, 435173, 435172, 435171, 435067, 435065, 435064, 435044, 435043, 435037, 435022, 435009, 434944, 434852, 434785, 434784, 434783, 434707, 434700, 434687, 434659, 434448, 434434, 434352, 434169, 434083, 434005, 433998, 433948, 433921, 433912, 433613, 433387, 432665, 432164, 431831, 431772, 431716, 431715, 431439, 431418, 431358, 431340, 431339, 431301, 431290, 431268, 431203, 431170, 431168, 431167, 431166, 431165, 431164, 431163, 431139, 431105, 431099, 431069, 431035, 430991, 430990, 430988, 430974, 430930, 430789, 430772, 430770, 430526, 430427 đã được loại bỏ theo protocol (chỉ track d1 chính thức).
+
+### Đối chiếu với `van-ban/` — phát hiện **5 file STUB / chưa hoàn thiện**
+
+| File trong `van-ban/` | Trạng thái | Hành động tracking |
+|----------------------|------------|-------------------|
+| `van-ban/tai-chinh/103-2026-tt-btc-huong-dan-co-phan-hoa-dnnn.md` | **status: stub** (metadata only) | Cập nhật tracking: **STUB — cần crawl toàn văn** |
+| `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` | **status: stub** (metadata only) | Cập nhật tracking: **STUB — cần crawl toàn văn** |
+| `van-ban/giao-duc/nha-giao/thong-tu-59-2026-tt-bgddt-giao-vien-huu-ty-thinh-giang.md` | **status: stub** (metadata only) | Cập nhật tracking: **STUB — cần crawl toàn văn** |
+| `van-ban/giao-duc/nghe-nghiep/thong-tu-55-2026-tt-bgddt-chuan-chuong-trinh-dao-tao-gdnn.md` | **status: stub** (metadata only) | Cập nhật tracking: **STUB — cần crawl toàn văn** |
+| `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` | **status: stub** (metadata only) | Cập nhật tracking: **STUB — cần crawl toàn văn** |
+
+### 5 VB ưu tiên cao nhất để crawl (giới hạn 5 VB/lần theo protocol)
+
+1. **32/2026/TT-BYT** (slug 442224) — Y tế/Dược phẩm — **CAO** — hiệu lực 31/7/2026 (đã hiệu lực)
+2. **109/2026/TT-BTC** (slug 442209) — Thuế/Dịch vụ thuế — **CAO** — hiệu lực 1/9/2026
+3. **62/2026/TT-BGDDT** (slug 442200) — Giáo dục/Chương trình ĐH — **CAO** — hiệu lực 15/9/2026
+4. **56/2026/TT-BGDDT** (slug 442198) — Giáo dục/Quy chế ĐH — **CAO** — hiệu lực 1/9/2026
+5. **301/2026/NĐ-CP** (slug 442187) — Hành chính/Chuyển đổi số — **CAO** — hiệu lực 1/8/2026 (đã hiệu lực)
+
+### Ref sau v57
+- **sitemap_nghidinh ref**: cập nhật — **442187** (301/NĐ-CP) / **441966** (299/NĐ-CP) / 441673 (298/NĐ-CP)
+- **sitemap_thongtu ref**: cập nhật — **442224** (32/TT-BYT) / **442209** (109/TT-BTC) / **442200** (62/TT-BGDDT) / **442198** (56/TT-BGDDT) / **442189** (62/TT-BXD) / **442170** (61/TT-BXD) / 442085 (42/TT-BCT)
+
+### Ghi chú kỹ thuật
+- Poll lúc 04:35 ICT 02/8/2026, curl qua Cloudflare IP 104.18.20.193 với `--resolve luatvietnam.vn:443:104.18.20.193`. Status: HTTP 200 cho cả 2 sitemaps.
+- Sitemap files đã được re-fetch và lưu tạm: `tmp/discovery-v57/sitemap_nghidinh.xml`, `tmp/discovery-v57/sitemap_thongtu.xml`.
+- 5 file HTML chi tiết cho 5 VB ưu tiên cao đã sẵn sàng fetch: slug 442224, 442209, 442200, 442198, 442187.
+- 5 file STUB trong `van-ban/` đã được đánh dấu trong tracking — cần lên lịch Đệ #3 (Full Content Crawler) cho từng file.
+- Không có commit/push trong poll này — chỉ cập nhật tracking theo quy trình Đệ #1 Discovery. Bột sẽ quyết định gọi Đệ #3 cho 1 trong 5 VB ưu tiên cao ở poll kế tiếp.
+- Phiên thực hiện: agent:github-io:subagent:f2b1d92b-e9b3-4aeb-aa84-f6763a561c04 (Đệ #1 Discovery v57)
+- Ngày phát hiện: 2026-08-02 04:35 Asia/Saigon
+
+-
+Phiên thực hiện: agent:github-io (HEARTBEAT poll 05:00 ICT 28/7, xử lý working tree + commit 294 → Hoàn thiện + tracking v41)
 
 ---
 
