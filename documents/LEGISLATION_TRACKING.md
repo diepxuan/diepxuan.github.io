@@ -9010,3 +9010,55 @@ Phương pháp: dùng HTML `tmp/nd301-442187.html` (slug 442187-d1, 504 KB — t
 - Là Nghị định sửa đổi (không có Chương riêng — sửa trực tiếp các điều của NĐ 63/2024)
 - Phụ hiệu chứa 2 mẫu tờ khai điện tử (dạng bảng/liệt kê), không phải lỗi OCR
 - Đã fix 4 lỗi OCR thủ công: VNelD → VNeID, NĐ - CP → NĐ-CP, khì → thì, P hụ lục → Phụ lục + bỏ marker "Đang theo dõi"
+
+---
+
+## Cập nhật 2026-08-02 v72 (crawl 62/2026/TT-BGDDT + 56/2026/TT-BGDDT Hoàn thiện + polish 32/2026/TT-BYT — 2026-08-02 07:45 ICT)
+
+### Kết quả crawl: **62/2026/TT-BGDDT HOÀN THIỆN** (commit `db474f54` 06:13 ICT)
+
+**File output**: `van-ban/giao-duc/62-2026-tt-bgddt-quy-trinh-bien-soan-chuong-trinh-giao-duc-dai-hoc.md` — 208 dòng, 20273 bytes.
+
+Phương pháp: dùng HTML luatvietnam.vn (slug 442200, HTML render toàn văn) làm input, extract theo pattern chuẩn. Strip UI/tóm tắt, trích từ "BỘ GIÁO DỤC VÀ ĐÀO TẠO", dừng trước footer. Heading Chương render `## Chương N. TÊN`, Điều render `### Điều N. Tiêu đề`.
+
+**Số hiệu**: 62/2026/TT-BGDĐT — Quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học; ban hành 28/7/2026 (tracking cũ ghi 01/08/2026, file metadata ghi 2026-07-28), hiệu lực 15/09/2026, ký Lê Quân (KT. Bộ trưởng). Căn cứ: Luật GDĐH 125/2025, Luật GD 43/2019.
+
+**Cấu trúc**: 16 Điều, 3 Chương — **PASS clean** (không missing/duplicate, 0 stub marker).
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues — **PASS clean**. `ocr_quality_gate_scan.py` Articles 16, Chapters 3 — **PASS về cấu trúc**.
+
+### Kết quả crawl: **56/2026/TT-BGDDT HOÀN THIỆN** (commit `e2997d5a` 07:45 ICT)
+
+**File output**: `van-ban/giao-duc/56-2026-tt-bgddt-quy-che-dao-tao-trinh-do-dai-hoc.md` — 739 dòng, 75539 bytes.
+
+Phương pháp: dùng HTML luatvietnam.vn (slug 442198, HTML render toàn văn) + vanban.chinhphu.vn làm input. File đã hoàn thiện trên đĩa từ 06:53 ICT nhưng chưa được commit — commit bổ sung ở poll 07:29.
+
+**Số hiệu**: 56/2026/TT-BGDĐT — Quy chế đào tạo trình độ đại học, thay thế TT 08/2021/TT-BGDĐT + TT 28/2023/TT-BGDĐT; ban hành 7/7/2026, hiệu lực 7/7/2026, ký Lê Quân. Căn cứ: Luật GD 2019 (43/2019/QH14) sửa đổi 2025 (123/2025/QH15), Luật GDĐH 2025 (125/2025/QH15), NĐ 37/2025/NĐ-CP.
+
+**Cấu trúc**: 30 Điều, 5 Chương (I-V: Những quy định chung; Kế hoạch và tổ chức đào tạo; Đánh giá kết quả học tập và cấp bằng tốt nghiệp; Các quy định về quá trình học tập, xử lý vi phạm của sinh viên; Tổ chức thực hiện). Điều 1-3 đầu file là điều khoản thi hành của Thông tư (văn bản kép: Thông tư + Quy chế kèm theo) — không phải duplicate lỗi.
+
+**OCR Quality Gate**: `scan_ocr_quality.py` 0 issues — **PASS clean**. `ocr_quality_gate_scan.py` Articles 30, Chapters 5 — **PASS về cấu trúc** (Duplicate [1,2,3] là heading Điều 1-3 điều khoản thi hành của Thông tư, đã verify hợp lệ).
+
+### Polish: **32/2026/TT-BYT** (commit `bace836f` 06:33 ICT)
+
+`van-ban/y-te/32-2026-tt-byt-dang-ky-luu-hanh-thuoc.md` — sửa formatting (bullet points, line breaks, markdown structure), +1091/-915.
+
+### Trạng thái tracking sau v72
+- 76/77/78/79/80/148/175/185/277/294/295/297/298/299/301/2026/NĐ-CP: ✅ Hoàn thiện (15 VB)
+- 10/16/41/42/57/89/97/101/104/107/108/110/2026/TT-BTC/BCT/BGDDT/BNV: ✅ Hoàn thiện (13 VB)
+- **56/62/2026/TT-BGDDT**: ✅ Hoàn thiện (+2 VB mới)
+- 10/11/2026/TT-BNG: ✅ Hoàn thiện (2 VB)
+- 54/93/98/107/109/115/116/127/2026/TT-BCA: ✅ Hoàn thiện (8 VB)
+- 08/2026/TT-BKHCN: ✅ Hoàn thiện (1 VB)
+- 32/2026/TT-BYT: ✅ Hoàn thiện (polish formatting)
+- Tổng Hoàn thiện: **41 VB**
+- **319 file placeholder** cần refactor (chưa xử lý poll nào)
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 07:29 ICT 02/8, commit bổ sung 56/TT-BGDDT chưa commit + tracking v72)
+- PR #260 vẫn là active, không merge/close (chờ Sếp review)
+
+### Ghi chú kỷ luật
+- 62/TT-BGDDT PASS OCR Quality Gate (0 issues): 16 Điều, 3 Chương
+- 56/TT-BGDDT PASS OCR Quality Gate (0 issues): 30 Điều, 5 Chương; Duplicate [1,2,3] là điều khoản thi hành Thông tư trong văn bản kép, không phải lỗi
+- PR body #260 cần cập nhật: 62/TT-BGDDT từ "Đang crawl" → "Hoàn thiện", bổ sung 56/TT-BGDDT
