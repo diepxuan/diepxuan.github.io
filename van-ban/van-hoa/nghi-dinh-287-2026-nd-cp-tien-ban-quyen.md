@@ -13,11 +13,35 @@ tags:
   - báo chí
   - xuất bản
   - sở hữu trí tuệ
+  - nghị định
+  - 2026
 docid: "441101"
+signer: "Phạm Thị Thanh Trà"
+authority: "Chính phủ"
+effective_date: 2026-09-01
+cancel_date: 2026-09-01
+cancels:
+  - Nghị định 18/2014/NĐ-CP
+  - Nghị định 21/2015/NĐ-CP
+legal_refs:
+  - Luật Sở hữu trí tuệ 50/2005/QH11
+  - Luật sửa đổi 36/2009/QH12
+  - Luật sửa đổi 42/2019/QH14
+  - Luật sửa đổi 07/2022/QH15
+  - Luật sửa đổi 93/2025/QH15
+  - Luật sửa đổi 131/2025/QH15
+  - Nghị định 17/2023/NĐ-CP
+  - Nghị định 134/2026/NĐ-CP
 source: vanban.chinhphu.vn; luatvietnam.vn
 ---
 
 # Nghị định 287/2026/NĐ-CP
+
+CHÍNH PHỦ
+Số: 287/2026/NĐ-CP
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày 17 tháng 7 năm 2026
 
 
 ## Chương I

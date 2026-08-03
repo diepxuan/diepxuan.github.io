@@ -3269,7 +3269,7 @@ thông báo, quyết định và các văn bản khác của cơ quan thuế, c�
 có thẩm quyền) hoặc trường hợp chưa đủ cơ sở đề điều chỉnh thông tin thì cơ quan
 thuế gửi Thông báo không điều chỉnh theo mẫu số 01/TB-TS Phụ lục III ban hành
 kèm theo Thông tư này, trong đó ghi rõ lý do không điều chỉnh.
-a2) _Trường hợp người nộp thuế phát hiện thông tin có sai, sót theo quy
+a2) Trường hợp người nộp thuế phát hiện thông tin có sai, sót theo quy
 định tại điểm a.2 khoản 2 Điều này:
 a.2.1) Hồ sơ đề nghị tra soát gồm:
 a.2.1.1) Văn bản đề nghị tra soát theo mẫu số 01/TS Phụ lục III ban hành
