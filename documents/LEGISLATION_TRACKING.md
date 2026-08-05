@@ -9174,3 +9174,44 @@ Phương pháp: tải HTML toàn văn, extract vùng `the-document-body` (138497
 - agent:github-io (HEARTBEAT poll 14:59 ICT 05/8, crawl inline 300/NĐ-CP + cập nhật tracking v74)
 - Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm việc trực tiếp, không merge/close)
 - Ngày thực hiện: 2026-08-05 15:05 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v59 (crawl 62/2026/TT-BGDDT Hoàn thiện — 2026-08-05 16:20 ICT)
+
+### Kết quả crawl: **62/2026/TT-BGDĐT HOÀN THIỆN**
+
+**Bối cảnh**: văn bản đã được crawl sơ bộ tại commit `db474f54` (v72, 02/8) nhưng front matter thiếu nhiều trường bắt buộc theo OCR_QUALITY_GATE (`layout`, `date`, `modified`, `group`, `tags`, `docid`, `source`, `trich-yeu`, `can-cu-phap-ly`, `lastedit`) và chưa có build script tái lập được. Phiên này crawl lại toàn văn từ nguồn, chuẩn hóa metadata và bổ sung script tái lập.
+
+**Phương pháp**: tải HTML slug `442200-d1` từ luatvietnam.vn bằng curl với `--resolve luatvietnam.vn:443:104.18.20.193` + Chrome UA + `Accept-Language: vi-VN` (bypass Cloudflare, HTTP 200, 337616 bytes) → `tmp/discovery-v59/tt62-bgddt.html`. Extract vùng `<article>`, trích 129 thẻ `<p>`, neo từ đoạn chứa đồng thời "BỘ GIÁO DỤC VÀ ĐÀO TẠO" và "Số: 62/2026/TT-BGDĐT" (para 20), dừng trước footer "Bạn chưa Đăng nhập" (para 125). Lọc UI noise, `html.unescape()`, nâng cấp heading `CHƯƠNG N` → `## Chương N` + `### <tên chương>`, `Điều N.` → `### Điều N. <tiêu đề>`, dedup heading Điều trùng.
+
+**Hai xử lý đặc thù của nguồn**:
+1. Nguồn ngắt đôi khoản 1 Điều 7 thành 2 thẻ `<p>` (para 68 kết thúc bằng "nguyên tắc", para 69 mở đầu bằng "lựa chọn"). Script nối lại đoạn tiếp nối khi đoạn sau bắt đầu bằng chữ thường tiếng Việt và đoạn trước không kết thúc bằng `.` `;` `:` `/.`.
+2. Khối "Nơi nhận" nằm gọn trong 1 thẻ `<p>`, tách theo separator ` - ` và strip dấu gạch thừa ở đầu mục đầu tiên.
+
+**Build script**: `scripts/build_62_tt_bgddt.py` (pattern kế thừa `scripts/build_109_tt_btc.py`).
+
+**File output**: `van-ban/giao-duc/62-2026-tt-bgddt-quy-trinh-bien-soan-chuong-trinh-giao-duc-dai-hoc.md` — 283 dòng.
+
+**Số hiệu**: 62/2026/TT-BGDĐT — Thông tư quy định quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học. Ban hành **28/07/2026** (Hà Nội), hiệu lực **12/09/2026**, ký **Lê Quân** (KT. Bộ trưởng, Thứ trưởng). Cơ quan: Bộ Giáo dục và Đào tạo.
+
+**Đính chính so với Discovery**: tracking cũ (dòng 469) ghi ngày ban hành 01/08/2026 và hiệu lực 15/09/2026. Nguồn toàn văn xác nhận ngày ban hành **28/07/2026** và Điều 15 ghi rõ hiệu lực **kể từ ngày 12 tháng 9 năm 2026**. Đã lấy theo nguồn toàn văn.
+
+**Căn cứ pháp lý** (11 căn cứ): Luật Ban hành VBQPPL 64/2025/QH15; Luật Giáo dục 43/2019/QH14 (sđbs bởi Luật 123/2025/QH15); Luật Giáo dục đại học 125/2025/QH15; Luật Thư viện 46/2019/QH14; Luật An ninh mạng 24/2018/QH14; Luật Chuyển đổi số 148/2025/QH15; Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15; Luật Giao dịch điện tử 20/2023/QH15; Luật Sở hữu trí tuệ 50/2005/QH11 (sđbs bởi 36/2009/QH12, 42/2019/QH14, 07/2022/QH15, 93/2025/QH15, 131/2025/QH15); Luật Xuất bản 19/2012/QH13; Nghị định 279/2026/NĐ-CP.
+
+**Cấu trúc**: **16 Điều / 3 Chương** — Range 1-16, Missing [], Duplicate []; Chapters 3 (I, II, III), Duplicate [], Out-of-order [] — **PASS**.
+- Chương I. QUY ĐỊNH CHUNG (Điều 1-5): phạm vi/đối tượng; giải thích từ ngữ; nguyên tắc thực hiện; yêu cầu đối với chương trình; yêu cầu đối với giáo trình.
+- Chương II. QUY TRÌNH BIÊN SOẠN, THẨM ĐỊNH, BAN HÀNH (Điều 6-11): biên soạn chương trình; biên soạn giáo trình; thẩm định (Hội đồng tối thiểu 07 thành viên số lẻ, họp khi có ≥3/4, thông qua khi ≥3/4 bỏ phiếu kín đạt); ban hành/phê duyệt (15 ngày làm việc kể từ kết luận thẩm định); công khai và lưu trữ; kinh phí.
+- Chương III. TỔ CHỨC THỰC HIỆN (Điều 12-16): trách nhiệm cơ quan được giao biên soạn; trách nhiệm tổ chức/cá nhân chủ trì biên soạn giáo trình; điều khoản chuyển tiếp; hiệu lực thi hành; trách nhiệm thi hành.
+
+**OCR Quality Gate**: `scripts/scan_ocr_quality.py` và `scripts/ocr_quality_gate_scan.py` đều báo **1 issue** — pattern `ngày l` khớp cụm **"15 ngày làm việc"** tại Điều 9 khoản 1. Đã đối chiếu trực tiếp với HTML nguồn: nguồn ghi đúng "Trong thời hạn 15 ngày làm việc kể từ khi có kết luận thẩm định". Đây là **false positive đã verify thủ công** (pattern `ngày l` vốn nhắm lỗi OCR `ngày l7`/`ngày l5` nhưng bắt nhầm "ngày làm việc") — không sửa nội dung pháp lý. Ngoài issue này: **0 lỗi OCR thực**. `git diff --check` PASS. Không có ghi chú debug/phương pháp trong file public.
+
+### Trạng thái tracking sau v59
+- **62/2026/TT-BGDĐT**: ✅ Hoàn thiện (16 Điều / 3 Chương, metadata chuẩn hóa đầy đủ, có build script tái lập)
+- Còn lại từ Discovery v58 chưa crawl: 303/304/2026/NĐ-CP, 33/2026/TT-BNNMT, 05/07/2026/TT-BNG
+- 115/2026/TT-BTC (slug 442577): vẫn hoãn — nguồn hiển thị "đang cập nhật nội dung"
+
+### Phiên thực hiện
+- agent:github-io:subagent:a2f8ce3f-d47c-4552-b8af-c142669a8f43 (Đệ #3 Full Content Crawler)
+- Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm việc trực tiếp, không merge/close)
+- Ngày thực hiện: 2026-08-05 16:20 Asia/Saigon
