@@ -9062,3 +9062,49 @@ Phương pháp: dùng HTML luatvietnam.vn (slug 442198, HTML render toàn văn) 
 - 62/TT-BGDDT PASS OCR Quality Gate (0 issues): 16 Điều, 3 Chương
 - 56/TT-BGDDT PASS OCR Quality Gate (0 issues): 30 Điều, 5 Chương; Duplicate [1,2,3] là điều khoản thi hành Thông tư trong văn bản kép, không phải lỗi
 - PR body #260 cần cập nhật: 62/TT-BGDDT từ "Đang crawl" → "Hoàn thiện", bổ sung 56/TT-BGDDT
+
+---
+
+## Cập nhật 2026-08-05 v58 (Discovery v58 — refresh sitemap)
+
+### Kết quả discovery: **7 văn bản d1 mới** (3 Nghị định + 4 Thông tư) > ref v57
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn (curl 2026-08-05 14:10 ICT qua Cloudflare IP 104.18.20.193, Chrome UA + Host luatvietnam.vn + Referer + Accept-Language vi-VN,vi;q=0.9). HTTP 200 cho cả 2 sitemap. So sánh slug d1 với ref v57 (NĐ max = 442187 / 301/NĐ-CP; TT max = 442224 / 32-TT-BYT). Chỉ track d1 chính thức, loại bỏ toàn bộ slug d10 (dự thảo).
+
+**sitemap_nghidinh**: 349 `<loc>`, 288 slug d1. Ref v57 = **442187** → phát hiện **3 slug d1 mới**.
+
+**sitemap_thongtu**: 747 `<loc>`, 608 slug d1. Ref v57 = **442224** → phát hiện **4 slug d1 mới**.
+
+### Bảng 5 văn bản ưu tiên CAO nhất (giới hạn 5 VB/lần theo protocol)
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **442468** | **300/2026/NĐ-CP** | **29/07/2026** | Sửa đổi, bổ sung một số điều của Nghị định 170/2025/NĐ-CP ngày 30/6/2025 quy định về tuyển dụng, sử dụng và quản lý công chức. Hiệu lực **01/08/2026** (ĐÃ HIỆU LỰC). Điểm mới: cộng 2,5 điểm cho người hoàn thành nghĩa vụ quân sự/công an nhân dân, công nhân - viên chức quốc phòng thôi việc, đội viên thanh niên xung phong, trí thức trẻ tình nguyện vào kết quả thi/xét tuyển. Người ký: Phạm Thị Thanh Trà | Cán bộ - Công chức - Viên chức / Hành chính công | ⚡ **CAO** | ✅ HTTP 200 (758186 bytes) — title "Nghị định 300/2026/NĐ-CP: Sửa đổi, bổ sung quy định về tuyển dụng công chức" |
+| 2 | **442577** | **115/2026/TT-BTC** | **31/07/2026** | Quy định chế độ quản lý, tính hao mòn, trích khấu hao và hướng dẫn về hồ sơ, thống kê, kiểm kê, đánh giá lại, báo cáo tài sản kết cấu hạ tầng công viên, cây xanh. Hiệu lực **31/07/2026** (ĐÃ HIỆU LỰC). Người ký: Tạ Anh Tuấn (Bộ Tài chính) | Tài chính - Ngân hàng / Tài nguyên - Môi trường | ⚡ **CAO** | ✅ HTTP 200 (205863 bytes) — title "Thông tư 115/2026/TT-BTC: Quy định quản lý, tính hao mòn và khấu hao tài sản công viên, cây xanh" |
+| 3 | **442443** | **05/2026/TT-BNG** | **30/06/2026** | Hướng dẫn dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ, công chức trong hệ thống chính trị sang tiếng Anh — bảo đảm thống nhất, chính xác trong văn bản đối ngoại. Hiệu lực **15/08/2026**. Người ký: Ngô Lê Văn (Bộ Ngoại giao) | Cán bộ - Công chức - Viên chức / Ngoại giao | ⚡ **CAO** | ✅ HTTP 200 (377671 bytes) — title "Thông tư 05/2026/TT-BNG: Hướng dẫn dịch Quốc hiệu và chức danh sang tiếng Anh" |
+| 4 | **442691** | **304/2026/NĐ-CP** | **03/08/2026** | Huy động tiềm lực khoa học và công nghệ, kỹ thuật phục vụ hoạt động của Công an nhân dân. Hiệu lực **01/10/2026**. Áp dụng cho cơ quan, tổ chức, công dân Việt Nam, người nước ngoài và tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam; không điều chỉnh huy động nguồn lực trong tình trạng khẩn cấp/chiến tranh. Người ký: Phạm Gia Túc | Chính sách / Khoa học - Công nghệ | ⚡ **CAO** | ✅ HTTP 200 (343980 bytes) — title "Nghị định 304/2026/NĐ-CP: Huy động tiềm lực khoa học công nghệ cho Công an nhân dân" |
+| 5 | **442575** | **303/2026/NĐ-CP** | **01/08/2026** | Sửa đổi, bổ sung một số điều của Nghị định 32/2024/NĐ-CP ngày 15/3/2024 về quản lý, phát triển cụm công nghiệp. Hiệu lực **15/09/2026**. Điểm mới: bổ sung loại hình cụm công nghiệp chuyên ngành, cụm công nghiệp hỗ trợ, cụm công nghiệp công nghệ cao; điều kiện thành lập/mở rộng; chính sách khuyến khích đầu tư. Người ký: Phạm Gia Túc | Doanh nghiệp / Công nghiệp | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 (401100 bytes) — title "Nghị định 303/2026/NĐ-CP: Sửa đổi Nghị định 32/2024 về Quản lý Cụm Công Nghiệp" |
+
+### Văn bản mới còn lại (ngoài top 5, ưu tiên thấp hơn)
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 6 | **442684** | **33/2026/TT-BNNMT** | **04/08/2026** | Sửa đổi, bổ sung một số Thông tư trong lĩnh vực thủy sản. Hiệu lực **19/09/2026**. Thay thế Phụ lục I, II ban hành kèm Thông tư 74/2025/TT-BNNMT. Người ký: Võ Văn Hưng (Bộ Nông nghiệp và Môi trường) | Nông nghiệp - Lâm nghiệp / Thủy sản | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 (655132 bytes) — title "Thông tư 33/2026/TT-BNNMT: Sửa đổi bổ sung Thông tư thủy sản - Hiệu lực từ 19/09/2026" |
+| 7 | **442442** | **07/2026/TT-BNG** | **30/06/2026** | Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Ngoại giao ban hành. Hiệu lực **01/07/2026** (ĐÃ HIỆU LỰC). Người ký: Lê Anh Tuấn (Bộ Ngoại giao) | Xuất nhập cảnh / Ngoại giao | 🟢 **THẤP** | ✅ HTTP 200 (237735 bytes) — title "Thông tư 07/2026/TT-BNG: Bãi bỏ văn bản quy phạm pháp luật của Bộ Ngoại giao" |
+
+> **Lưu ý**: Toàn bộ slug d10 (dự thảo) đã được loại bỏ theo protocol — chỉ track d1 chính thức. Ví dụ slug d10 xuất hiện trong đợt refresh này: 442706 (dự thảo NĐ sửa NĐ 236/2025 thuế TNDN bổ sung), 442690 (dự thảo NĐ sửa NĐ 62/2025 an toàn điện lực).
+
+### Ref sau v58
+- **sitemap_nghidinh ref**: cập nhật — **442691** (304/NĐ-CP) / **442575** (303/NĐ-CP) / **442468** (300/NĐ-CP) / 442187 (301/NĐ-CP) / 441966 (299/NĐ-CP)
+- **sitemap_thongtu ref**: cập nhật — **442684** (33/TT-BNNMT) / **442577** (115/TT-BTC) / **442443** (05/TT-BNG) / **442442** (07/TT-BNG) / 442224 (32/TT-BYT)
+
+### Ghi chú kỹ thuật
+- Poll lúc 14:10 ICT 05/8/2026, curl qua Cloudflare IP 104.18.20.193 với `--resolve luatvietnam.vn:443:104.18.20.193`. HTTP 200 cho cả 2 sitemap.
+- Sitemap đã lưu: `tmp/discovery-v58/sitemap_nghidinh.xml` (89552 bytes), `tmp/discovery-v58/sitemap_thongtu.xml` (191022 bytes).
+- 7 file HTML chi tiết đã fetch và lưu trong `tmp/discovery-v58/` theo tên slug: `442691.html`, `442684.html`, `442577.html`, `442575.html`, `442468.html`, `442443.html`, `442442.html`. Sẵn sàng làm input cho Đệ #3 crawl toàn văn.
+- **Cảnh báo nguồn**: `115/2026/TT-BTC` (slug 442577) — trang luatvietnam.vn hiện hiển thị "Nội dung tóm tắt đang được cập nhật" và "Văn bản này đang cập nhật nội dung", body toàn văn CHƯA có (chỉ 205863 bytes, nhỏ nhất trong 7 file). Nếu crawl ngay sẽ ra STUB. Khuyến nghị: hoãn crawl 115/TT-BTC hoặc dùng nguồn dự phòng (vanban.chinhphu.vn / PDF công báo).
+- Các văn bản còn lại (300/NĐ-CP 758 KB, 33/TT-BNNMT 655 KB, 303/NĐ-CP 401 KB, 05/TT-BNG 378 KB, 304/NĐ-CP 344 KB, 07/TT-BNG 238 KB) đều có HTML dung lượng lớn — nhiều khả năng đã có body toàn văn.
+- Lưu ý ngày ban hành: 05/2026/TT-BNG và 07/2026/TT-BNG ban hành 30/06/2026 (trước mốc 02/08) nhưng MỚI được đưa lên sitemap luatvietnam.vn trong đợt này, nên vẫn tính là phát hiện mới của v58.
+- Đệ #1 chỉ discovery + cập nhật tracking, KHÔNG crawl nội dung. Bot sẽ quyết định gọi Đệ #3 cho các VB ưu tiên CAO ở poll kế tiếp.
+- Phiên thực hiện: agent:github-io:subagent:c1a4373c-89bc-4d73-94b1-7e4c8b5b6e3c (Đệ #1 Discovery v58)
+- Ngày phát hiện: 2026-08-05 14:10 Asia/Saigon
