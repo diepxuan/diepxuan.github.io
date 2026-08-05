@@ -9108,3 +9108,36 @@ Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luat
 - Đệ #1 chỉ discovery + cập nhật tracking, KHÔNG crawl nội dung. Bot sẽ quyết định gọi Đệ #3 cho các VB ưu tiên CAO ở poll kế tiếp.
 - Phiên thực hiện: agent:github-io:subagent:c1a4373c-89bc-4d73-94b1-7e4c8b5b6e3c (Đệ #1 Discovery v58)
 - Ngày phát hiện: 2026-08-05 14:10 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v73 (crawl 109/2026/TT-BTC Hoàn thiện — 2026-08-05 14:20 ICT)
+
+### Kết quả crawl: **109/2026/TT-BTC HOÀN THIỆN**
+
+Phương pháp: tải HTML toàn văn từ luatvietnam.vn slug **442209-d1** (curl với Chrome UA + Referer + Accept-Language vi-VN), lưu `tmp/discovery-v58/tt109-btc.html` (457772 bytes). Extract bằng `scripts/build_109_tt_btc.py` (viết lại từ bản cũ dùng slug 442020): lấy `<article>`, trích `<p>`, neo từ đoạn "BỘ TÀI CHÍNH", dừng trước footer "Bạn chưa Đăng nhập", lọc đoạn UI/tóm tắt/tiện ích thành viên, dedup heading "Điều N.", render `## Chương X`, `### Điều N. Tiêu đề`, `## Phụ lục`. Dùng `html.unescape()` và chuẩn hóa khoảng trắng thừa trước dấu câu (không đụng chuỗi dấu chấm điền trong biểu mẫu).
+
+**File output**: `van-ban/tai-chinh/109-2026-tt-btc-quan-ly-dich-vu-lam-thu-tuc-thue.md` — 600 dòng, 43715 bytes.
+
+**Số hiệu**: 109/2026/TT-BTC — Thông tư quy định quản lý hoạt động kinh doanh dịch vụ làm thủ tục về thuế. Ngày ban hành **24/07/2026**, hiệu lực **24/07/2026**, ký bởi Cao Anh Tuấn (KT. Bộ trưởng, Thứ trưởng Bộ Tài chính). Căn cứ: Luật Quản lý thuế 108/2025/QH15; Nghị định 252/2026/NĐ-CP; Nghị định 29/2025/NĐ-CP (sửa đổi bởi Nghị định 166/2025/NĐ-CP).
+
+**Cấu trúc**: 18 Điều (range 1-18, Missing [], Duplicate []), 5 Chương (I-V, đúng thứ tự, không trùng), kèm Phụ lục 4 biểu mẫu (Mẫu 1.1 Đơn đăng ký tham gia đánh giá năng lực; Mẫu 1.2 Giấy xác nhận thời gian công tác; Mẫu 1.3 Đơn đề nghị công nhận đáp ứng năng lực; Mẫu 1.4 Giấy xác nhận đã tham dự cập nhật kiến thức). Chương I: Quy định chung (Điều 1-3). Chương II: Tổ chức đánh giá năng lực nghiệp vụ chuyên môn về thuế (Điều 4-9). Chương III: Cập nhật kiến thức (Điều 10-13). Chương IV: Kiểm tra hoạt động kinh doanh dịch vụ làm thủ tục về thuế (Điều 14-15). Chương V: Điều khoản thi hành (Điều 16-18). Nội dung chính: điều kiện và hồ sơ tham gia đánh giá năng lực; chi phí; nội dung, hình thức đánh giá; đơn vị tổ chức; miễn môn đánh giá; đối tượng, nội dung, thời gian, hình thức và tổ chức cập nhật kiến thức; kiểm tra và công bố kết quả kiểm tra; quy định chuyển tiếp cho nhân viên đại lý thuế đang hoạt động (đến hết 31/12/2026).
+
+**OCR Quality Gate**: `scan_ocr_quality.py` và `ocr_quality_gate_scan.py` cùng cho **3 issues — tất cả là false positive pattern "ngày l"** khớp cụm hợp lệ "ngày làm việc" tại dòng 344/346/348 (Điều 15 Công bố kết quả kiểm tra). Đã verify thủ công cả 3 dòng, nội dung pháp lý đúng, không sửa. Cấu trúc: Articles 18 (Range 1-18, Missing [], Duplicate []), Chapters 5 (I-V), Suspicious article headings 0 — **PASS**. `git diff --check` PASS. Cùng pattern false positive đã biết từ 77/78/79/80/107/109-BCA/115/116.
+
+### Đối chiếu thông tin giao việc và nguồn thực tế
+- Task giao ghi ngày ban hành 31/07/2026, hiệu lực 01/09/2026, người ký Bộ trưởng Ngô Văn Tuấn. **Nguồn luatvietnam.vn slug 442209 KHÔNG khớp**: nội dung trang ghi rõ ban hành 24/07/2026, hiệu lực từ ngày ban hành (Điều 16 khoản 1: "có hiệu lực thi hành từ ngày 24 tháng 7 năm 2026"), ký bởi Cao Anh Tuấn (KT. BỘ TRƯỞNG THỨ TRƯỞNG).
+- Đã lấy theo nguồn thực tế, không dùng thông tin trong task để ghi metadata (tuân thủ quy tắc không bịa nội dung pháp lý).
+- Trích yếu task mô tả "cấp/thu hồi Giấy chứng nhận đủ điều kiện kinh doanh, thanh tra, xử phạt" — nội dung thực tế của Thông tư là đánh giá năng lực, cập nhật kiến thức, kiểm tra. Trích yếu trong front matter đã sửa theo nội dung thực tế.
+- File cùng số hiệu đã tồn tại từ trước (crawl slug 442020, v53). Lần này crawl lại từ slug 442209 để xác thực: nội dung điều khoản trùng khớp, bản mới sạch hơn về khoảng trắng và bổ sung heading `## Phụ lục`, cập nhật docid 442209, source, slug, bỏ ghi chú nội bộ khỏi front matter.
+
+### Trạng thái tracking sau v73
+- **109/2026/TT-BTC**: ✅ Hoàn thiện (18 Điều, 5 Chương, 4 biểu mẫu Phụ lục) — refresh từ slug 442209
+- 101/107/108/110/2026/TT-BTC: ✅ Hoàn thiện (từ các poll trước)
+- Còn lại từ Discovery v58: 300/303/304/2026/NĐ-CP, 33/2026/TT-BNNMT, 05/07/2026/TT-BNG chưa crawl toàn văn
+- 115/2026/TT-BTC (slug 442577): vẫn hoãn — nguồn hiển thị "đang cập nhật nội dung"
+
+### Phiên thực hiện
+- agent:github-io:subagent:dba0182c-52e9-40ea-92eb-875420a1d25a (Đệ #3 Full Content Crawler)
+- Branch: `heartbeat/crawl-vanban-20260805` (làm việc trực tiếp, không tạo branch mới, không merge, không tạo PR)
+- Ngày thực hiện: 2026-08-05 14:20 Asia/Saigon
