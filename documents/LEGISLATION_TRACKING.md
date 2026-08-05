@@ -9304,3 +9304,73 @@ Phương pháp: tải HTML toàn văn, extract vùng `the-document-body` (138497
 - agent:github-io:subagent:45cda384-37bf-4b41-b17f-54c0ae2e8f87 (Đệ #3 Full Content Crawler)
 - Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm trực tiếp, không merge/close)
 - Ngày thực hiện: 2026-08-05 16:47 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v80 (Đệ #4 Content Reviewer — 2026-08-05 20:44 ICT)
+
+### A. OCR Quality Gate — 5 văn bản mới nhất
+
+Quét `scan_ocr_quality.py` + `ocr_quality_gate_scan.py`:
+
+| # | File | Dòng | Điều | Chương | OCR Issues | Đánh giá |
+|---|------|------|------|--------|------------|----------|
+| 1 | `van-ban/tai-chinh/115-2026-tt-btc-quan-ly-tai-san-cong-la-cong-vien-cay-xanh.md` | 858 | 23 (1-23) | 4 (I-IV) | 0 | **PASS** ✓ |
+| 2 | `van-ban/can-bo/300-2026-nd-cp.md` | 796 → 814 | 37 (1-37) | 0 | 14 (all FP "ngày làm việc") | **PASS** (FP, đã fix front matter) |
+| 3 | `van-ban/chinh-quyen-dia-phuong/303-2026-nd-cp.md` | 317 | 3 (1-3) | 0 | 4 (all FP "ngày làm việc") | **PASS** (FP) |
+| 4 | `van-ban/cong-an/304-2026-nd-cp.md` | 315 | 16 (1-16) | 5 (I-V) | 3 (FP: "ngày làm việc" + "ngày lễ") | **PASS** (FP) |
+| 5 | `van-ban/giao-duc/dai-hoc/62-2026-tt-bgddt-quy-chuan-soan-chuong-trinh-gddh.md` | 283 | 16 (1-16) | 3 (I-III) | 1 (FP "ngày làm việc") | **PASS** (FP) |
+
+**Tất cả 5/5 PASS** — 0 lỗi OCR thực, toàn bộ "issues" là false positive "ngày l" (substring "ngày làm việc" / "ngày lễ" hợp lệ, pattern đã biết từ PR #202, #204).
+
+**Fix đã commit:**
+- `van-ban/can-bo/300-2026-nd-cp.md`: thêm front matter Jekyll + sửa heading Điều 36-37 (merge body vào heading) → commit `3aa53de8`
+
+**Chi tiết:**
+
+1. **115/2026/TT-BTC — PASS CLEAN** (0 issues, 23 Điều, 4 Chương). Chủ đề: quản lý tài sản công viên cây xanh, hao mòn/khấu hao. Người ký: Nguyễn Văn Thắng (Bộ Tài chính).
+
+2. **300/2026/NĐ-CP — PASS (đã fix)**. Sửa đổi NĐ 170/2025 về tuyển dụng công chức. 37 Điều (1-37 range đủ). Thiếu front matter (đã bổ sung). Điều 36-37 có heading merge body (đã tách).
+
+3. **303/2026/NĐ-CP — PASS**. Sửa đổi NĐ 32/2024 về quản lý cụm công nghiệp. 3 Điều (đây là NĐ sửa đổi, cấu trúc 3 Điều chuẩn). Người ký: Phạm Gia Túc (PTTg).
+
+4. **304/2026/NĐ-CP — PASS**. Huy động tiềm lực KHCN kỹ thuật cho CAND. 16 Điều, 5 Chương. Người ký: Phạm Gia Túc (PTTg). docid: 442691.
+
+5. **62/2026/TT-BGDĐT — PASS**. Quy trình biên soạn chương trình giáo dục đại học. 16 Điều, 3 Chương. Người ký: Lê Quân (Thứ trưởng, KT. Bộ trưởng). Căn cứ: Luật Luật BHVBQPPL 64/2025, Luật GDĐH 125/2025.
+
+### B. Scan Refactor `van-ban/`
+
+**"Đang cập nhật":** 0 file
+
+**STUB có no content** (0 article + stub markers):
+
+| File | Lines | Kích thước | Đánh giá |
+|------|-------|-----------|----------|
+| `van-ban/tai-chinh/103-2026-tt-tb-hua-dan-co-phan-hoa-dnnn.md` | 63 | 2590B | STUB (crawl failed) |
+| `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` | 86 | 4028B | STUB (crawl partial) |
+| `van-ban/giao/duc/nha-giao/thang-tu-59-2026-tt-bgddt-giao-vien-huu-ty-thinh-giang.md` | 73 | 2553B | STUB (luatvietnam 404) |
+| `van-ban/giao-duc/nghe-nghiep/thong-tu-55-2026-tt-bgddt-chuan-chuong-trinh-dao-tao-gdnn.md` | 66 | 2355B | STUB (ngồn không có) |
+| `van-ban/van-hoa/tong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` | 45 | 1673B | STUB (ngồn không có) |
+
+**Không cần đánh dấu mới trong tracking** — 5 stub này đã được ghi nhận từ tracking v57.
+
+### C. STUB Kiểm tra nguồn
+
+| STUB | Nguồn luatvietnam | Nguồn khác | Khả năng crawl |
+|------|-------------------|-------------|----------------|
+| 103/2026/TT-BTC | Có article (slug chưa địnhology) + 108/TT-BTC bổ sung | thoibaotaichinhvietnam.vn | **Có thể (medium)** |
+| 191/NQ-CP | 404 (slug cũ sai) | Chưa tìm thấy | **Khó (thấp)** |
+| 59/2026/TT-BGDĐT | 440690-d1 (JS-rendered, body bị paywall) | vanban.chinhphu.vn docid=218921 (trống) | **Có thể (medium)** nếu curl raw |
+| 55/2026/TT-BGDĐT | Chưa xác minh | Chưa tìm được | **Khó (thấp)** |
+| 20/2026/TT-BVHTTDL | Chưa xác minh | Chưa tìm được | **Khó (thấp)** |
+
+### D. PR Comments (#262)
+- 0 comments — PR sạch, không có review comments từ Sếp.
+
+### E. Metadata fix
+- `300-2026-nd-cp.md`: Đã thêm front matter Jekyll (group: can-bo) + sửa heading merge Điều 36-37. Commit `3aa53de8`.
+
+### Phiên thực hiện
+- agent:github-io:subagent:6a2d170c-d0df-4eee-bf09-5e2f345f4557 (Đệ #4 Content Reviewer + PR Comment Reviewer)
+- Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active)
+- Ngày thực hiện: 2026-08-05 20:44 ICT Asia/Saigon
