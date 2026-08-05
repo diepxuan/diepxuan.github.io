@@ -1,3 +1,56 @@
+## Cập nhật 2026-08-05 v81 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-05 21:40 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB
+
+Kết quả scan `scan_ocr_quality.py` + `ocr_quality_gate_scan.py` cho 5 VB:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 304/NĐ-CP (Công an) | 315 | 3 (FP "ngày l") | 16 (1-16) | [] | [] | 5 (I-V) | ✅ PASS |
+| 303/NĐ-CP (CQĐP) | 317 | 4 (FP "ngày l") | 3 (1-3) | [] | [] | 0 | ✅ PASS |
+| 300/NĐ-CP (Cán bộ) | 823 | 14 (FP "ngày l") | 37 (1-37) | [] | [] | 0 | ✅ PASS |
+| 115/TT-BTC (Tài sản công) | 859 | 0 | 23 (1-23) | [] | [] | 4 (I-IV) | ✅ PASS |
+| 109/TT-BTC (QLKD DV thủ tục thuế) | 600 | 3 (FP "ngày l") | 18 (1-18) | [] | [] | 5 (I-V) | ✅ PASS |
+
+- Tất cả OCR issues là false positive pattern "ngày l" (substring của "ngày làm việc", "ngày lễ" — tiếng Việt hợp lệ) — pattern đã biết từ v44-v80.
+- Cấu trúc Điều/Chương PASS 5/5 file: Missing = [], Duplicate = [], không sai số La Mã.
+- **KẾT LUẬN**: 5 VB PASS quality gate, không cần sửa.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| "Đang cập nhật" | **158 file** |
+| < 10KB (không STUB) | **76 file** |
+| lastedit > 7 ngày (before 2026-07-29) | **455 file** |
+
+**Nhận xét**:
+- 158 file có metadata "Đang cập nhật" — đây là các file topic/index placeholder, KHÔNG phải VB cụ thể. Phần lớn nằm trong các thư mục chủ đề (ví dụ: `quoc-phong/`, `y-te-duoc/`, `to-tung/`). Ưu tiên thấp với đợt refactor này.
+- 76 file < 10KB: có thể là stub hoặc VB ngắn (sửa đổi/bổ sung). Cần phân biệt thủ công.
+- 455 file lastedit > 7 ngày: không khẩn cấp, đợt crawl v81 tập trung 5 VB chính + 5 STUB.
+
+### Nhiệm vụ 3: STUB Kiểm tra nguồn (5 STUB v57)
+
+| STUB | Slug luatvietnam | HTTP | Body | Kết luận |
+|---|---|---|---|---|
+| **103/2026/TT-BTC** | 441176-d1 | ✅ 200 | Có | ✅ Sẵn sàng crawl — đã có article "Doanh nghiệp phải xử lý toàn bộ tài sản, công nợ trước khi CPH" — body toàn văn 37 Điều |
+| **191/NQ-CP** | 441106-d1 | ✅ 200 | Có (CHÍNH PHỦ — 191/NQ-CP) | ✅ Sẵn sàng crawl — body có sẵn |
+| **59/TT-BGDDT** | 440690-d1 | ✅ 200 | Có (BỘ GIÁO DỤC VÀ ĐÀO TẠO — 59/2026/TT-BGDĐT) | ✅ Sẵn sàng crawl — body có sẵn |
+| **55/TT-BGDDT** | 440521-d1 | ✅ 200 | Có (BỘ GIÁO DỤC VÀ ĐÀO TẠO — 55/2026/TT-BGDĐT) | ✅ Sẵn sàng crawl — body có sẵn |
+| **20/TT-BVHTTDL** | — | 🔴 404 | Không có | ❌ Nguồn luatvietnam.vn không có VB này. STUB metadata ghi "luatvietnam.vn (404), datafiles.chinhphu.vn (403), vbpl.vn (SPA block)". Cần tìm nguồn khác hoặc giữ stub. |
+
+**KẾT LUẬN STUB**: 4/5 STUB có nguồn body trên luatvietnam.vn, sẵn sàng crawl ở phiên sau. 20/TT-BVHTTDL cần tìm nguồn khác (không có trên luatvietnam.vn).
+
+### Nhiệm vụ 4: PR Comments
+
+PR #262: `gh pr view 262 --comments --json comments,reviews` → **0 comments, 0 reviews**. PR #262 chưa có review hoặc comment nào. Cần Sếp review.
+
+### Phiên thực hiện
+- agent:github-io:subagent:674362a4-07e5-43f0-b26d-a021e59dd1b1 (Đệ #4)
+- PR #262 vẫn là active, không merge/close (chờ Sếp review)
+
+---
+
 ## Cập nhật 2026-08-05 v78 (Đệ #1 Discovery re-check — 2026-08-05 17:12 ICT)
 
 ### Kết quả re-check: **Sitemap KHÔNG thay đổi — 0 văn bản d1 mới từ lần refresh 14:10**
