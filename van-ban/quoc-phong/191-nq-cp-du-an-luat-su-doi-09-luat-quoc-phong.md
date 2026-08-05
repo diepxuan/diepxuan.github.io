@@ -1,87 +1,95 @@
 ---
 layout: vanban
-title: "Nghị quyết 191/NQ-CP về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng"
+title: "Nghị quyết 191/NQ-CP năm 2026 về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng"
 date: 2026-07-21
-modified: 2026-07-23
-group: Quân sự / Quốc phòng
+modified: 2026-08-05
+group: quoc-phong
 tags:
-  - nghị-quyết
-  - chính-phủ
+  - nghi-quyet
+  - chinh-phu
   - quan-su
   - quoc-phong
-  - du-an-luat
-  - 2026
-docid: 441106
-so_hieu: 191/NQ-CP
-nguoi_ky: Thủ tướng Chính phủ
-co_quan_ban_hanh: Chính phủ
-ngay_ban_hanh: 2026-07-21
-ngay_hieu_luc: 2026-07-21
-loai_van_ban: Nghị quyết
-linh_vuc: Quân sự, Quốc phòng
-trich_yeu: "Về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng"
-source: vanban.chinhphu.vn; datafiles.chinhphu.vn
-status: stub
-note: Chưa hoàn thành — Nguồn chưa công bố văn bản đầy đủ
+  - luat
+  - sua-doi
+docid: 191/NQ-CP
+source: luatvietnam.vn
 ---
 
-# NGHỊ QUYẾT
+# Nghị quyết 191/NQ-CP năm 2026 về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng
 
 ## THÔNG TIN VĂN BẢN
 
-| Trường | Giá trị |
+| Thuộc tính | Nội dung |
 |---|---|
 | Số hiệu | 191/NQ-CP |
-| Ngày ban hành | 21/7/2026 |
-| Ngày hiệu lực | 21/7/2026 |
-| Cơ quan ban hành | Chính phủ |
-| Người ký | Thủ tướng Chính phủ |
 | Loại văn bản | Nghị quyết |
-| Lĩnh vực | Quân sự, Quốc phòng |
+| Cơ quan ban hành | Chính phủ |
+| Ngày ban hành | 21/07/2026 |
+| Người ký | Lê Minh Hưng |
 | Trích yếu | Về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng |
-| Căn cứ pháp lý | — |
-| Thay thế | — |
-| Tài liệu đính kèm | — |
+| Lĩnh vực | An ninh quốc gia |
+| Hiệu lực | Đã biết |
 
-## VĂN BẢN
+## NỘI DUNG
 
-*Nội dung văn bản **chưa được công bố đầy đủ** từ nguồn chính thức.*
+**CHÍNH PHỦ**
+_______
 
-**Tóm tắt theo báo chí chính thức:**
+Số: 191/NQ-CP
 
-Chính phủ Việt Nam ban hành Nghị quyết số 191/NQ-CP ngày 21 tháng 7 năm 2026 về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng.
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập - Tự do - Hạnh phúc**
+_______________________
 
-**Đối tượng sửa đổi, bổ sung (9 luật):**
+_Hà Nội, ngày 21 tháng 7 năm 2026_
 
-1. Luật Quốc phòng;
-2. Luật Sĩ quan Quân đội nhân dân Việt Nam;
-3. Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng;
-4. Luật Nghĩa vụ quân sự;
-5. Luật Biên phòng Việt Nam;
-6. Luật Phòng không nhân dân;
-7. Luật Lực lượng dự bị động viên;
-8. Luật Phòng thủ dân sự;
-9. Luật Dân quân tự vệ.
+### NGHỊ QUYẾT
 
-**Nội dung chính:**
+**Về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng**
 
-- Chính phủ cơ bản thống nhất về sự cần thiết xây dựng và nội dung dự án Luật do Bộ Quốc phòng trình.
-- Mục đích: thể chế hóa kịp thời, đầy đủ quan điểm của Đảng về sắp xếp, tổ chức bộ máy của hệ thống chính trị, mô hình chính quyền ba cấp, gắn với phân cấp, phân quyền tối đa, cắt giảm, đơn giản hóa thủ tục hành chính, bảo đảm tính thống nhất, đồng bộ của hệ thống pháp luật và nâng cao hiệu lực, hiệu quả quản lý nhà nước.
-- Chính phủ giao Bộ Quốc phòng chủ trì, phối hợp với các bộ, cơ quan liên quan nghiên cứu, tiếp thu ý kiến, khẩn trương chỉnh lý và hoàn thiện hồ sơ dự án Luật.
-- Phó Thủ tướng Phan Văn Giang thay mặt Chính phủ ký Tờ trình trình Ủy ban Thường vụ Quốc hội, Quốc hội bổ sung vào Chương trình lập pháp năm 2026 và thông qua tại Kỳ họp không thường lệ thứ Nhất (theo trình tự, thủ tục rút gọn).
+________________________
 
-**Ghi chú:** Nghị quyết 191/NQ-CP do Thủ tướng ban hành ngày 21/7/2026 về việc bổ sung dự án Luật sửa đổi 09 luật quân sự, quốc phòng vào Chương trình lập pháp năm 2026.
+**CHÍNH PHỦ**
 
-## NƠI NHẬN
+_Căn cứ Luật Tổ chức Chính phủ ngày 18 tháng 02 năm 2025;_
 
-- Ủy ban Thường vụ Quốc hội;
+_Căn cứ Nghị định số 191/2026/NĐ-CP ngày 29 tháng 5 năm 2026 của Chính phủ ban hành Quy chế làm việc của Chính phủ;_
+
+_Xét đề nghị của Bộ trưởng Bộ Quốc phòng tại Tờ trình 5232/TTr-BQP ngày 17 tháng 7 năm 2026 của Bộ Quốc phòng;_
+
+_Trên cơ sở kết quả biểu quyết của các Thành viên Chính phủ._
+
+**QUYẾT NGHỊ:**
+
+### Điều 1.
+
+Chính phủ cơ bản thống nhất về sự cần thiết xây dựng và nội dung dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng do Bộ Quốc phòng trình (Tờ trình số 5232/TTr-BQP ngày 17 tháng 7 năm 2026 của Bộ Quốc phòng).
+
+### Điều 2.
+
+Bộ Quốc phòng chủ trì, phối hợp với các bộ, cơ quan liên quan nghiên cứu, tiếp thu tối đa ý kiến của Thành viên Chính phủ, khẩn trương chỉnh lý, hoàn thiện hồ sơ dự án Luật theo quy định.
+
+### Điều 3.
+
+Bộ Quốc phòng chịu trách nhiệm về nội dung tiếp thu, chỉnh lý, hoàn thiện dự án Luật; chủ động phối hợp chặt chẽ với các cơ quan của Quốc hội, các Bộ, cơ quan liên quan trong quá trình thẩm tra, giải trình, tiếp thu, chỉnh lý dự thảo Luật.
+
+### Điều 4.
+
+Phân công Phó Thủ tướng Chính phủ Phan Văn Giang thay mặt Chính phủ ký Tờ trình của Chính phủ trình Ủy ban Thường vụ Quốc hội, Quốc hội bổ sung dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng vào Chương trình lập pháp của Quốc hội năm 2026, cho ý kiến và thông qua tại Kỳ họp không thường lệ thứ Nhất theo trình tự, thủ tục rút gọn; chỉ đạo trong quá trình hoàn thiện dự án Luật này.
+
+### Điều 5.
+
+Nghị quyết này có hiệu lực thi hành kể từ ngày ký ban hành.
+
+**Nơi nhận:**
 - Thủ tướng, các Phó Thủ tướng Chính phủ;
-- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
-- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Các Bộ, cơ quan ngang Bộ;
+- Các Ủy ban: PL&TP, QPAN&ĐN của Quốc hội;
 - Văn phòng Quốc hội;
-- Văn phòng Chính phủ;
-- Tòa án nhân dân tối cao;
-- Viện Kiểm sát nhân dân tối cao;
-- Kiểm toán nhà nước;
-- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
-- Các cơ quan, tổ chức có liên quan.
+- VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục: TTTTCP, QHĐP, TH, PL;
+- Lưu: VT, NC (2).
+
+**TM. CHÍNH PHỦ**
+**THỦ TƯỚNG**
+
+**Lê Minh Hưng**
