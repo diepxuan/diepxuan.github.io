@@ -9215,3 +9215,40 @@ Phương pháp: tải HTML toàn văn, extract vùng `the-document-body` (138497
 - agent:github-io:subagent:a2f8ce3f-d47c-4552-b8af-c142669a8f43 (Đệ #3 Full Content Crawler)
 - Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm việc trực tiếp, không merge/close)
 - Ngày thực hiện: 2026-08-05 16:20 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v75 (crawl 304/2026/NĐ-CP Hoàn thiện — 2026-08-05 16:47 ICT)
+
+### Kết quả crawl: **304/2026/NĐ-CP HOÀN THIỆN**
+
+**Phương pháp**: tải HTML slug `442691-d1` từ luatvietnam.vn category `khoa-hoc` (redirect từ `chinh-sach`) bằng curl với `--resolve luatvietnam.vn:443:104.18.20.193` + Chrome UA + `Accept-Language: vi-VN` (bypass Cloudflare, HTTP 200, 355859 bytes) → `tmp/tt304-nd-cp.html`. Extract 101 `docitem` blocks từ `the-document-body`, phân tách theo class (`docitem-2` = Chương, `docitem-5` = Điều, `docitem-11/12/14/15` = nội dung), `html.unescape()`, lọc UI noise `"Đang theo dõi"`. Sinh heading `## Chương N` + `### TÊN CHƯƠNG`, `### Điều N. Tiêu đề`, dedup tự động.
+
+**Build script**: `scripts/build_304_nd_cp.py` (pattern mới thiết kế riêng cho cấu trúc `docitem-*` của luatvietnam.vn, không kế thừa `build_300` vì NĐ 300 là loại sửa đổi từng điều — khác biệt cấu trúc).
+
+**File output**: `van-ban/cong-an/304-2026-nd-cp.md` — 315 dòng. Đặt tại `van-ban/cong-an/` (không phải `van-ban/khoa-hoc-cong-nghe/`) vì nội dung liên quan đến Công an nhân dân xuyên suốt toàn văn bản, không thuần túy KHCN.
+
+**Số hiệu**: 304/2026/NĐ-CP — Huy động tiềm lực khoa học và công nghệ, kỹ thuật phục vụ hoạt động của Công an nhân dân. Ban hành **03/08/2026** (Hà Nội), hiệu lực **01/10/2026**, ký **Phạm Gia Túc** (TM. Chính phủ, KT. Thủ tướng, Phó Thủ tướng). Cơ quan: Chính phủ.
+
+**Xác minh thông tin từ HTML**: Ngày ban hành 03/8/2026 và người ký Phạm Gia Túc khớp với Discovery v58. Hiệu lực 01/10/2026 khớp Điều 15 khoản 1.
+
+**Căn cứ pháp lý** (3 căn cứ): Luật Tổ chức Chính phủ 63/2025/QH15; Luật Công an nhân dân 37/2018/QH14 (sđbs 21/2023/QH15, 30/2023/QH15, 38/2024/QH15, 52/2024/QH15, 86/2025/QH15); Luật Khoa học, Công nghệ và Đổi mới sáng tạo 93/2025/QH15.
+
+**Cấu trúc**: **16 Điều / 5 Chương** — Range 1-16, Missing [], Duplicate []; Chapters 5 (I, II, III, IV, V), thứ tự đúng, Duplicate [], Out-of-order [] — **PASS**.
+- Chương I. QUY ĐỊNH CHUNG (Điều 1-6): phạm vi điều chỉnh; đối tượng áp dụng; định nghĩa từ ngữ; nguyên tắc huy động; phương thức huy động (tự nguyện/thỏa thuận/Quyết định TTCP); đối tượng được huy động (công nghệ, cơ sở vật chất, thông tin/dữ liệu, nhân sự).
+- Chương II. XÂY DỰNG, PHÊ DUYỆT, ĐIỀU CHỈNH, THỰC HIỆN KẾ HOẠCH HUY ĐỘNG (Điều 7-9): kế hoạch phân bố hằng năm do BCA xây dựng, Thủ tướng phê duyệt; thực hiện gồm thông báo, kiểm tra, báo cáo.
+- Chương III. PHÊ DUYỆT, ĐIỀU CHỈNH, THỰC HIỆN NHIỆM VỤ HUY ĐỘNG (Điều 10-11): Bộ trưởng BCA quyết định nhiệm vụ; quy trình chuyển giao/tiếp nhận/quản lý/sử dụng/hoàn trả đối tượng huy động.
+- Chương IV. QUYỀN, NGHĨA VỤ, CHÍNH SÁCH ĐỐI VỚI CƠ QUAN, TỔ CHỨC, CÁ NHÂN (Điều 12-14): quyền được thông tin, bồi thường, bảo vệ sở hữu trí tuệ; nghĩa vụ chấp hành quyết định TTCP; chính sách tiền lương, hỗ trợ thời gian giữ; bồi thường cơ sở vật chất/kỹ thuật (06 tháng giải quyết).
+- Chương V. ĐIỀU KHOẢN THI HÀNH (Điều 15-16): hiệu lực 01/10/2026; bãi bản NĐ 169/2007/NĐ-CP; trách nhiệm thi hành.
+
+**OCR Quality Gate**: `scripts/scan_ocr_quality.py` và `scripts/ocr_quality_gate_scan.py` đều báo **3 issues** — tất cả là false positive pattern `ngày l` khớp cụm **"03 ngày làm việc"** (L192), **"ngày nghỉ, ngày lễ"** (L246), **"ngày lập biên bản"** (L268). Đã đối chiếu trực tiếp với HTML nguồn — tất cả text gốc đúng Tiếng Việt, không phải lỗi OCR. **0 lỗi OCR thực**. Không có ký tự rác (ø©§†®µ¬¶�), không có ghi chú debug/phương pháp tràn vào file public. `git diff --check` PASS.
+
+### Trạng thái tracking sau v75
+- **304/2026/NĐ-CP**: ✅ Hoàn thiện (16 Điều / 5 Chương, metadata đầy đủ, có build script tái lập)
+- Còn lại từ Discovery v58 chưa crawl: 303/2026/NĐ-CP, 33/2026/TT-BNNMT, 05/07/2026/TT-BNG
+- 115/2026/TT-BTC (slug 442577): vẫn hoãn — nguồn hiển thị "đang cập nhật nội dung"
+
+### Phiên thực hiện
+- agent:github-io:subagent:45cda384-37bf-4b41-b17f-54c0ae2e8f87 (Đệ #3 Full Content Crawler)
+- Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm trực tiếp, không merge/close)
+- Ngày thực hiện: 2026-08-05 16:47 Asia/Saigon
