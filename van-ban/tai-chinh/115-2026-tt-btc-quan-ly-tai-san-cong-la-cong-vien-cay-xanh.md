@@ -10,6 +10,7 @@ tags:
   - cong-vien-cay-xanh
   - hao-mon
   - khau-hao
+source: luatvietnam.vn
 so-hieu: 115/2026/TT-BTC
 ngay-ban-hanh: 2026-07-16
 ngay-hieu-luc: 2026-07-31
