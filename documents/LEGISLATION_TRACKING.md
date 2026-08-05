@@ -9141,3 +9141,36 @@ Phương pháp: tải HTML toàn văn từ luatvietnam.vn slug **442209-d1** (cu
 - agent:github-io:subagent:dba0182c-52e9-40ea-92eb-875420a1d25a (Đệ #3 Full Content Crawler)
 - Branch: `heartbeat/crawl-vanban-20260805` (làm việc trực tiếp, không tạo branch mới, không merge, không tạo PR)
 - Ngày thực hiện: 2026-08-05 14:20 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v74 (crawl 300/2026/NĐ-CP Hoàn thiện — 2026-08-05 15:05 ICT)
+
+### Kết quả crawl: **300/2026/NĐ-CP HOÀN THIỆN**
+
+**Phát hiện quan trọng về Discovery v58**: đệ #1 gán sai lĩnh vực cho văn bản này (ghi `doanh-nghiep/`) khiến URL luatvietnam.vn trả 404. Thực tế Nghị định 300/2026/NĐ-CP thuộc lĩnh vực **Cán bộ - Công chức** (sửa đổi Nghị định 170/2025/NĐ-CP về tuyển dụng, sử dụng và quản lý công chức). URL đúng: `https://luatvietnam.vn/can-bo/nghi-dinh-300-2026-nd-cp-sua-doi-bo-sung-nghi-dinh-170-2025-ve-tuyen-dung-su-dung-va-quan-ly-cong-chuc-442468-d1.html` (curl với Chrome UA + Resolve Cloudflare IP, HTTP 200, 793847 bytes, title "Nghị định 300/2026/NĐ-CP: Sửa đổi, bổ sung quy định về tuyển dụng công chức").
+
+Phương pháp: tải HTML toàn văn, extract vùng `the-document-body` (138497-676322), parse các `mab2` block theo thứ tự. Cấu trúc đặc thù: NĐ 300 có 37 Điều của NĐ 300 (Điều 1-34 là "Sửa đổi, bổ sung Điều Y của NĐ 170"; Điều 35-37 là điều khoản chung). Ngay sau mỗi Điều sửa đổi là khối nội dung mới của Điều Y (NĐ 170) bắt đầu bằng "Điều Y. <tên>". Logic extract gộp khối nội dung này vào Điều của NĐ 300 gần nhất (không tạo article riêng, tránh sai count Điều). Build script: `scripts/build_300_nd_cp.py`.
+
+**File output**: `van-ban/can-bo/300-2026-nd-cp.md` — 800 dòng, 43152 bytes.
+
+**Số hiệu**: 300/2026/NĐ-CP — Nghị định sửa đổi, bổ sung một số điều của Nghị định số 170/2025/NĐ-CP ngày 30/6/2025 quy định về tuyển dụng, sử dụng và quản lý công chức. Ngày ban hành **29/07/2026** (Hà Nội), hiệu lực **01/08/2026**. Cơ quan ban hành: Chính phủ. Căn cứ: Luật Tổ chức Chính phủ 63/2025/QH15; Luật Cán bộ, công chức 80/2025/QH15; theo đề nghị của Bộ trưởng Bộ Nội vụ.
+
+**Cấu trúc**: 37 Điều (range 1-37, Missing [], Duplicate []), không chia Chương (đúng cho NĐ sửa đổi từng điều). Điều 1-34: sửa đổi/bổ sung các Điều 6, 9, 13, 14, 18, 19, 20, 23, 24, 26, 27, 29, 33, 34, 35, 36, 37, 39, 40, 41, bổ sung Điều 51a, 56a, khoản 3 Điều 59, v.v. của NĐ 170. Điều 35: Điều khoản chuyển tiếp và áp dụng. Điều 36: Hiệu lực thi hành (01/8/2026). Điều 37: Trách nhiệm thi hành. Nội dung chính: tiêu chuẩn, điều kiện, hồ sơ, hội đồng tuyển dụng, tiếp nhận vào làm công chức (mở rộng đối tượng: chuyên gia, nhà khoa học, luật sư giỏi, doanh nhân tiêu biểu, viên chức, người hưởng lương lực lượng vũ trang, người quản lý DNNN); quy trình bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, tạm đình chỉ công tác; thẩm quyền quản lý công chức của Bộ Nội vụ và UBND cấp tỉnh.
+
+**OCR Quality Gate**: STRICT scan (loại pattern quá rộng `ngày l` gây false positive "ngày làm việc") → **0 issues**. Cấu trúc: Articles 37 (Range 1-37, Missing [], Duplicate []), Chapters 0, Suspicious article headings 0 — **PASS**. `git diff --check` PASS (chưa chạy, sẽ chạy trước commit).
+
+### Đối chiếu thông tin Discovery v58 và nguồn thực tế
+- Discovery v58 ghi lĩnh vực `Doanh nghiệp / Công chức` và slug 442468 (đúng slug, sai category URL). Thực tế: category `can-bo`, title "Sửa đổi, bổ sung quy định về tuyển dụng công chức".
+- Đã lấy theo nguồn thực tế (luatvietnam.vn can-bo), không dùng推测 title.
+- File đặt tại `van-ban/can-bo/` (không phải `van-ban/doanh-nghiep/`). Thư mục `doanh-nghiep/` không tồn tại trong repo (xác nhận false alarm cảnh báo xóa trong PR #262).
+
+### Trạng thái tracking sau v74
+- **300/2026/NĐ-CP**: ✅ Hoàn thiện (37 Điều, sửa đổi NĐ 170/2025, lĩnh vực Cán bộ - Công chức)
+- Còn lại từ Discovery v58 chưa crawl: 303/304/2026/NĐ-CP, 33/2026/TT-BNNMT, 05/07/2026/TT-BNG
+- 115/2026/TT-BTC (slug 442577): vẫn hoãn — nguồn hiển thị "đang cập nhật nội dung"
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 14:59 ICT 05/8, crawl inline 300/NĐ-CP + cập nhật tracking v74)
+- Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm việc trực tiếp, không merge/close)
+- Ngày thực hiện: 2026-08-05 15:05 Asia/Saigon
