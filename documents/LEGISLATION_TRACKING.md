@@ -1,3 +1,55 @@
+## Cập nhật 2026-08-05 v78 (Đệ #1 Discovery re-check — 2026-08-05 17:12 ICT)
+
+### Kết quả re-check: **Sitemap KHÔNG thay đổi — 0 văn bản d1 mới từ lần refresh 14:10**
+
+Phương pháp: re-fetch `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn (curl 2026-08-05 17:00 ICT, Chrome UA + Cloudflare IP 104.18.20.193).
+
+**sitemap_nghidinh**: MD5 `743731df454d54fe9e46e152b9bd9633` — max slug d1 = **442691** (304/NĐ-CP), giữ nguyên từ v58.
+**sitemap_thongtu**: MD5 `984d77ec9a8b9c68f4bac972f2b2c91f` — max slug d1 = **442684** (33/TT-BNNMT), giữ nguyên từ v58.
+
+**So sánh với ref v58**: 0 slug d1 mới > 442691 (NĐ) và > 442684 (TT) → sitemap chưa được luatvietnam.vn re-batch từ 14:10 đến 17:12 ICT.
+
+### 🔄 Cập nhật quan trọng: 115/2026/TT-BTC BODY ĐÃ CÓ
+
+**Trước (v58 lần đầu 14:10 ICT)**: HTML 205KB — hiển thị "Nội dung tóm tắt đang được cập nhật", "Văn bản này đang cập nhật nội dung". Body toàn văn CHƯA có.
+
+**Sau (v58 re-check 17:02 ICT)**: HTML **551KB** — có đầy đủ heading Chương/Điều (Chương I, Điều 1-37\(\), BỘ TÀI CHÍNH anchor). Body toàn văn **ĐÃ CÓ** — sẵn sàng crawl.
+
+Khuyến nghị: ưu tiên crawl 115/2026/TT-BTC (CAO) trong Đệ #3 tiếp theo.
+
+### Trạng thái van-ban/ đối chiếu
+
+| Số hiệu | Slug | van-ban/ | Phiên crawl |
+|---------|------|----------|-------------|
+| 304/2026/NĐ-CP | 442691 | ✅ `van-ban/cong-an/304-2026-nd-cp.md` (315 dòng) | Đã crawl |
+| 300/2026/NĐ-CP | 442468 | ✅ `van-ban/can-bo/300-2026-nd-cp.md` (796 dòng) | v74 |
+| 303/2026/NĐ-CP | 442575 | ❌ CHƯA CÓ | Cần crawl |
+| 33/2026/TT-BNNMT | 442684 | ❌ CHƯA CÓ | Cần crawl |
+| 115/2026/TT-BTC | 442577 | ❌ CHƯA CÓ | ⚡ Cần crawl (body ĐÃ CÓ) |
+| 05/2026/TT-BNG | 442443 | ❌ CHƯA CÓ | Cần crawl |
+| 07/2026/TT-BNG | 442442 | ❌ CHƯA CÓ | Cần crawl |
+
+### 5 STUB Bền vững từ v57 (chưa xử lý)
+- `van-ban/tai-chinh/103-2026-tt-btc-huong-dan-co-phan-hoa-dnnn.md` (63 dòng)
+- `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` (86 dòng)
+- `van-ban/giao-duc/nha-giao/thong-tu-59-2026-tt-bgddt-giao-vien-huu-ty-thinh-giang.md` (73 dòng)
+- `van-ban/giao-duc/nghe-nghiep/thong-tu-55-2026-tt-bgddt-chuan-chuong-trinh-dao-tao-gdnn.md` (66 dòng)
+- `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` (45 dòng)
+
+### Ref cũ (v58) — KHÔNG THAY ĐỔI
+- NĐ max slug: **442691** (304/NĐ-CP)
+- TT max slug: **442684** (33/TT-BNNMT)
+
+### Ghi chú kỹ thuật
+- Sitemap saved: `tmp/discovery-v58/sitemap_nghidinh.xml` (89552 bytes), `tmp/discovery-v58/sitemap_thongtu.xml` (191022 bytes)
+- Discovery report HTML sẵn tại `tmp/discovery-v58/discovery-v58-report.html` (11486 bytes)
+- Tất cả 7 slug d1 đều verified HTTP 200 qua web_fetch
+- 0 văn bản d1 mới — luatvietnam.vn chưa re-batch sitemap trong cửa sổ 14-17h
+- Phiên Đệ #1: agent:github-io:subagent:42b4be5d-3203-458a-b07f-49798d00a958
+- Ngày phát hiện: 2026-08-05 17:12 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-07-28 v49 (crawl 115/2026/TT-BCA Hoàn thiện — 2026-07-28 15:59 ICT)
 
 ### Kết quả crawl: **115/2026/TT-BCA HOÀN THIỆN**
