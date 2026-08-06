@@ -9657,3 +9657,77 @@ Quét `scan_ocr_quality.py` + `ocr_quality_gate_scan.py`:
 - agent:github-io:subagent:6a2d170c-d0df-4eee-bf09-5e2f345f4557 (Đệ #4 Content Reviewer + PR Comment Reviewer)
 - Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active)
 - Ngày thực hiện: 2026-08-05 20:44 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v87 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 11:06 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện KHÁC v84, v85, v86
+
+v84 đã review: 298/NĐ-CP, 294/NĐ-CP, 76/NĐ-CP, 101/TT-BTC, 32/TT-BYT
+v85 đã review: 300/NĐ-CP, 79/NĐ-CP, 107/TT-BTC, 115/TT-BTC, 175/NĐ-CP
+
+Lần này chọn 5 VB khác:
+
+| VB | Dòng | KB | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|---|
+| 96/NĐ-CP (Luật Đầu tư) | 7032 | 437KB | 12 (BAO GỒM ĐIỀU THẬT) | 112 (1-112) | [] | [] | 4 (I-V, skip III) | **CẦN SỬA** |
+| 137/NĐ-CP (Kinh doanh đa cấp) | 3350 | 169KB | 0 | 60 (1-60) | [] | [] | 7 — Chương VI-VII swap order | **CẦN SỬA** |
+| 146/NĐ-CP (Xử phạt lâm nghiệp) | 2799 | 158KB | 0 (ND khong dau) | 18 (10-27) ⚠️ | [] | [] | 1 (Chương II) ⚠️ | **CẦN SỬA — NỘI DUNG KHÔNG DẤU** |
+| 241/NĐ-CP (Sửa đổi Luật Đường bộ) | 3361 | 178KB | 0 | 35 — Missing [15,27], Dup [1,2,3] | [15, 27] | [1, 2, 3] | 0 | **CẦN SỬA — DUP + MISSING ĐIỀU** |
+| 260/NĐ-CP (Công nghệ cao) | 2585 | 160KB | 12 (THẬT: §, ©, ®, ø, Điền, khoản I) | 31 (1-31) | [] | [] | 4 (I-IV) | **CẦN SỬA — OCR RÁC** |
+
+**Phát hiện chi tiết**:
+
+1. **96/NĐ-CP** (7032 dòng, 437KB): Nghị định chi tiết Luật Đầu tư — VB lớn nhất trong đợt review. 112 Điều (1-112), 4 Chương (skip Chương III). **12 OCR issues THẬT**: `SỬA ĐỎI, BỎ SUNG` (L5674), `THỊ HÀNH` (L6302), `Chương 1H` (L901→Chương III), `¬` (L3177, L5322, L6499), `khoản I ` (L673, L738, L1618, L4652, L5518 cần là `khoản 1`). **CẦN SỬA TRƯỚC MERGE**.
+
+2. **137/NĐ-CP** (3350 dòng, 169KB): Kinh doanh đa cấp. 60 Điều (1-60), 7 Chương (I-VII). 0 OCR issues. **LỖI**: Chương VI (L3156) và Chương VII (L1927) **đảo thứ tự** trong file — Chương VII xuất hiện TRƯỚC Chương VI do extract order. Cần swap. **CẦN SỬA — OUT-OF-ORDER CHAPTERS**.
+
+3. **146/NĐ-CP** (2799 dòng, 161KB): Xử phạt lâm nghiệp. **NỘI DUNG TOÀN BỘ KHÔNG DẤU** — phần thân VB là OCR thuần chưa qua xử lý ("Chuong I - Quy dinh chung", "Dieu 1. Pham vi dieu chinh", "Nghi dinh nay quy dinh ve..."). Front matter có dấu nhưng nội dung thì không. Chỉ có Chương II (heading đúng `## Chương II`), các Điều 10-27 có `### Điều` (heading đúng). SCAN BỊ HỤT vì Chương I dùng `### Chuong I` (unaccented heading). **CẦN RE-OCR hoặc tìm nguồn text khác. KHÔNG NÊN MERGE Ở TRẠNG THÁI NÀY.**
+
+4. **241/NĐ-CP** (3361 dòng, 178KB): Sửa đổi Luật Đường bộ. 35 Điều detect, nhưng **Missing Điều 15, 27** và **Duplicate Điều 1, 2, 3**. Đây là NĐ sửa đổi LỚN (sửa NĐ 165/2024) — cấu trúc phức tạp phụ lục mẫu/bổ sung. Cần review kỹ cấu trúc Điều (có thể là mẫu biểu gây duplicate) .**CẦN SỬA — MISSING + DUPLICATE ARTICLES**.
+
+5. **260/NĐ-CP** (2585 dòng, 160KB): Công nghệ cao. 31 Điều (1-31), 4 Chương (I-IV). **12 OCR issues THẬT**: `®` (L103, L1146), `§` (L347, L1012, L2152), `Điền` (L351 → `Điều`), `©` (L636, L1303, L1637 → `cơ`, `C`), `ø` (L1165, L2203 → `1`), `khoản I ` (L1249 → `khoản 1`). **CẦN SỬA — OCR RÁC**.
+
+**KẾT LUẬN CHUNG**: 0/5 PASS sạch. 5/5 CẦN SỬA. Chất lượng OCR thấp hơn các đợt trước — có thể là do các VB này được crawl từ giai đoạn sớm hơn, kỹ càng hơn. Điểm đáng mừng: 146/NĐ-CP là vấn đề nghiêm trọng nhất (toàn bộ nội dung không dấu). Các file khác có lỗi rải rác nhưng nội dung vẫn readable.
+
+### Nhiệm vụ 2: PR Comments
+
+PR #263 (heartbeat/crawl-vanban-20260806): `gh api issues/263/comments` → **0 comments**. PR chưa có comment hoặc review nào.
+
+Không có PR open nào khác (`gh pr list --state open` chỉ 1 PR #263).
+
+### Nhiệm vụ 3: STUB re-check
+
+| STUB | File | Dòng | Bytes | Điều | trạngthái | Kết luận |
+|---|---|---|---|---|---|---|
+| **103/2026/TT-BTC** | van-ban/tai-chinh/103-... | 325 | 44KB | 13 (### Điều) | `hoanthien` | ✅ ĐÃ HOÀN THIỆN — Không còn STUB |
+| **191/NQ-CP** | van-ban/quốc-phong/191-nq-cp... | 95 | 3.7KB | 5 (1-5) | `hoanthien` | ✅ ĐÃ HOÀN THIỆN — Đã bổ sung `trangthai: hoanthien` |
+| **59/TT-BGDĐT** | van-ban/giao-duc/nha-giao/ | 408 | 38KB | 17 (1-17) | `status: hoanthien` | ✅ ĐÃ HOÀN THIỆN — crawl toàn văn |
+| **55/TT-BGDDT** | van-ban/giao-duc/nghe-nghiep/ | 1454 | 68KB | 12 (1-12) | `hoanthien` | ✅ ĐÃ HOÀN THIỆN + Heading đã về `### Điều` |
+| **20/TT-BVHTTDL** | van-ban/van-hoa/... | 45 | 1.7KB | 0 | `trangthai: stub` | ❌ VẪN STUB — không có nguồn toàn văn |
+
+**Kết luận**: 4/5 STUB cũ đã hoàn thiện. Chỉ còn 20/TT-BVHTTDL là STUB bền vững (không có nguồn trên luatvietnam.vn, datafiles 403, vbpl.vn SPA block).
+
+### Nhiệm vụ 4: Refactor scan
+
+| Tiêu chí | Số file |
+|---|---|
+| "Đang cập nhật" | **158** (giữ nguyên từ v85) |
+| File < 10KB, không STUB, không "Đang cập nhật" | **~20** nổi bật |
+
+**File đáng chú ý cần refactor (<10KB, có nội dung thật)**:
+
+| File | Bytes | lastedit | Ghi chú |
+|---|---|---|---|
+| `van-ban/tai-chinh/103-2026-tt-btc.md` | 6020 | — | TT-BTC placeholder chưa thay bằng file hoàn thiện (đã có file 44KB trong `tai-buat/`) |
+| `van-ban/lao-dong/thong-tru-13-2026-tt-bnv...` | 10029 | — | Hướng dẫn chứng khoán |
+| `van-ban/lao-dong/nghi-dien-199-2026-nd-cp...` | 10015 | — | Hỗ trư phòng vụ công dân |
+| `van-ban/xay-dung/thong-tu-42-2026-tt-bxd...` | 9663 | — | Sửa đổi kiểm định |
+
+**Nhận xét**: 158 file "Đang cập nhật" là các file placeholder/topic index — KHÔNG cấp bách. Phần lớn file < 10KB là VB sửa đổi/bổ sung ngắn (~2-8 Điều) hoặc NQ/QĐ ngắn — kích cấp tự nhiên, không phải lối OCR.
+
+### Phiên thực hiện
+- agent:github-io:subagent:b28f6960-41b3-4634-846e-cbbb64eea8fa (Đệ #4 Content Reviewer + PR Comment Reviewer)
+- Branch: `heartbeat/crawl-vanban-20260806` (PR #263 active)
+- Ngày thực hiện: 2026-08-06 11:06 ICT Asia/Saigon
