@@ -1,37 +1,110 @@
 ---
+layout: vanban
 title: "Thông tư 62/2026/TT-BGDĐT: Quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học"
+date: 2026-07-28
+modified: 2026-08-05
 so-hieu: 62/2026/TT-BGDĐT
-ngay-ban-hanh: 2026-07-28
-ngay-hieu-luc: 2026-09-12
+co-quan-ban-hanh: Bộ Giáo dục và Đào tạo
 nguoi-ky: Lê Quân
 chuc-vu: Thứ trưởng Bộ Giáo dục và Đào tạo (KT. Bộ trưởng)
-co-quan-ban-hanh: Bộ Giáo dục và Đào tạo
+ngay-ban-hanh: 2026-07-28
+ngay-hieu-luc: 2026-09-12
 loai-van-ban: Thông tư
 linh-vuc: Giáo dục / Chương trình ĐH
-trangthai: hoanthien
+trich-yeu: "Quy định quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học: biên soạn, thẩm định, ban hành chương trình, phê duyệt giáo trình; công khai, cập nhật chương trình, giáo trình."
+can-cu-phap-ly:
+  - Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15
+  - Luật Giáo dục số 43/2019/QH14 (sửa đổi, bổ sung bởi Luật số 123/2025/QH15)
+  - Luật Giáo dục đại học số 125/2025/QH15
+  - Luật Thư viện số 46/2019/QH14
+  - Luật An ninh mạng số 24/2018/QH14
+  - Luật Chuyển đổi số số 148/2025/QH15
+  - Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15
+  - Luật Giao dịch điện tử số 20/2023/QH15
+  - Luật Sở hữu trí tuệ số 50/2005/QH11 (sửa đổi, bổ sung bởi Luật số 36/2009/QH12, Luật số 42/2019/QH14, Luật số 07/2022/QH15, Luật số 93/2025/QH15, Luật số 131/2025/QH15)
+  - Luật Xuất bản số 19/2012/QH13
+  - Nghị định số 279/2026/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo
+tags:
+  - giáo dục đại học
+  - chương trình đào tạo
+  - giáo trình
+  - biên soạn chương trình
+  - thẩm định chương trình
+  - môn học bắt buộc
+  - bộ giáo dục và đào tạo
+  - 2026
+  - TT-BGDĐT
+group: giao-duc
+docid: "442200"
+source: luatvietnam.vn
 nguon: luatvietnam.vn
-slug: 442200
+slug: "62-2026-tt-bgddt-quy-trinh-bien-soan-chuong-trinh-giao-duc-dai-hoc"
+trangthai: hoanthien
+lastedit: 2026-08-05
 ---
 
 # THÔNG TƯ 62/2026/TT-BGDĐT
+
 ## Quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học
+
+## Metadata
+
+- **Số hiệu**: 62/2026/TT-BGDĐT
+- **Cơ quan ban hành**: Bộ Giáo dục và Đào tạo
+- **Ngày ban hành**: 28/07/2026
+- **Hiệu lực**: 12/09/2026
+- **Người ký**: Lê Quân (KT. BỘ TRƯỞNG THỨ TRƯỞNG)
+- **Trích yếu**: Quy định quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học
+- **Lĩnh vực**: Giáo dục - Đào tạo; Chương trình đại học
+
+---
+
+## Nội dung văn bản
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO**
 
 _______
 
-Số: 62/2026/TT-BGDĐT  
+Số: 62/2026/TT-BGDĐT
+
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
 **Độc lập – Tự do – Hạnh phúc**  
 _________________  
 
 _Hà Nội, ngày 28 tháng 07 năm 2026_
 
+**THÔNG TƯ**
+
+Quy định quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học
+
+_Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15;_
+
+_Căn cứ Luật Giáo dục số 43/2019/QH14 được sửa đổi, bổ sung bởi Luật số 123/2025/QH15;_
+
+_Căn cứ Luật Giáo dục đại học số 125/2025/QH15;_
+
+_Căn cứ Luật Thư viện số 46/2019/QH14;_
+
+_Căn cứ Luật An ninh mạng số 24/2018/QH14;_
+
+_Căn cứ Luật Chuyển đổi số số 148/2025/QH15;_
+
+_Căn cứ Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15;_
+
+_Căn cứ Luật Giao dịch điện tử số 20/2023/QH15;_
+
+_Căn cứ Luật Sở hữu trí tuệ số 50/2005/QH11, được sửa đổi, bổ sung bởi Luật số 36/2009/QH12, Luật số 42/2019/QH14, Luật số 07/2022/QH15, Luật số 93/2025/QH15 và Luật số 131/2025/QH15;_
+
+_Căn cứ Luật Xuất bản số 19/2012/QH13;_
+
+_Căn cứ Nghị định số 279/2026/NĐ-CP ngày 12 tháng 7 năm 2026 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;_
+
 _Theo đề nghị của Vụ trưởng Vụ Giáo dục Đại học;_
 
 _Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư quy định quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học._
 
 ## Chương I
+
 ### QUY ĐỊNH CHUNG
 
 ### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
@@ -69,6 +142,7 @@ _Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư quy địn
 3. Ngôn ngữ dùng để biên soạn giáo trình là tiếng Việt; trường hợp môn học, học phần được giảng dạy bằng ngôn ngữ khác theo quy định của chương trình đào tạo, giáo trình có thể được dịch sang ngôn ngữ tương ứng. Giáo trình phải được biên soạn, thẩm định, phê duyệt theo quy định tại Điều 7, Điều 8 và Điều 9 Thông tư này.
 
 ## Chương II
+
 ### QUY TRÌNH BIÊN SOẠN, THẨM ĐỊNH, BAN HÀNH
 
 ### Điều 6. Biên soạn chương trình
@@ -141,11 +215,12 @@ Việc tổ chức biên soạn, thẩm định và ban hành chương trình ph
 
 ### Điều 11. Kinh phí biên soạn, thẩm định, ban hành chương trình, giáo trình, xuất bản giáo trình
 
-1. Nguồn ngân sách nhà nước được giao trong dự toán ngân sách hằng năm theo quy định của [Luật Ngân sách nhà nước](https://luatvietnam.vn/tai-chinh/luat-ngan-sach-nha-nuoc-2025-so-89-2025-qh15-405621-d1.html "Luật Ngân sách nhà nước");
+1. Nguồn ngân sách nhà nước được giao trong dự toán ngân sách hằng năm theo quy định của Luật Ngân sách nhà nước;
 
 2. Nguồn thu hợp pháp, các nguồn tài trợ, viện trợ và nguồn kinh phí hợp pháp khác theo quy định của pháp luật.
 
 ## Chương III
+
 ### TỔ CHỨC THỰC HIỆN
 
 ### Điều 12. Đối với cơ quan được giao biên soạn, ban hành chương trình, phê duyệt giáo trình

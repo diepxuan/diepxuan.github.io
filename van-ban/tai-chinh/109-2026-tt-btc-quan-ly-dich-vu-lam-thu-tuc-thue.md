@@ -1,8 +1,8 @@
 ---
 layout: vanban
 title: "Thông tư 109/2026/TT-BTC Quy định quản lý hoạt động kinh doanh dịch vụ làm thủ tục về thuế"
-date: 2026-08-01
-modified: 2026-08-01
+date: 2026-08-05
+modified: 2026-08-05
 so-hieu: 109/2026/TT-BTC
 co-quan-ban-hanh: Bộ Tài chính
 nguoi-ky: Cao Anh Tuấn
@@ -10,12 +10,11 @@ chuc-danh: Thứ trưởng (KT. Bộ trưởng)
 ngay-ban-hanh: 2026-07-24
 ngay-hieu-luc: 2026-07-24
 hieu-luc: 2026-07-24 đến nay
-trich-yeu: "Quy định quản lý hoạt động kinh doanh dịch vụ làm thủ tục về thuế; điều kiện, giấy xác nhận đại lý thuế; nhân viên đại lý thuế; báo cáo."
+trich-yeu: "Quy định quản lý hoạt động kinh doanh dịch vụ làm thủ tục về thuế: đánh giá năng lực nghiệp vụ chuyên môn về thuế, cập nhật kiến thức, kiểm tra hoạt động kinh doanh dịch vụ."
 can-cu-phap-ly:
-  - Luật Ban hành văn bản quy phạm pháp luật 64/2025/QH15 (sửa đổi, bổ sung bởi Luật 87/2025/QH15)
   - Luật Quản lý thuế 108/2025/QH15
   - Nghị định 252/2026/NĐ-CP quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quản lý thuế
-  - Nghị định 29/2025/NĐ-CP (sửa đổi bởi Nghị định 166/2025/NĐ-CP)
+  - Nghị định 29/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định 166/2025/NĐ-CP)
 loai-van-ban: TT-BTC
 linh-vuc: Thue-Phi-Le-phi
 nhom-van-ban: Tai-chinh
@@ -24,15 +23,17 @@ tags:
   - dịch vụ thuế
   - làm thủ tục thuế
   - quản lý thuế
+  - đánh giá năng lực
+  - cập nhật kiến thức
   - bộ tài chính
   - 2026
   - TT-BTC
 group: tai-chinh
-docid: "442020"
-source: vanban.chinhphu.vn; luatvietnam.vn
+docid: "442209"
+source: luatvietnam.vn
+slug: "109-2026-tt-btc-quan-ly-dich-vu-lam-thu-tuc-thue"
 trang-thai: hoanthien
-ghi-chu: "Crawl từ HTML body đầy đủ luatvietnam.vn slug 442020 (250 KB). Văn bản gồm 5 Chương, 18 Điều, quy định về đại lý thuế và nhân viên đại lý thuế."
-lastedit: 2026-08-01
+lastedit: 2026-08-05
 ---
 
 # THÔNG TƯ 109/2026/TT-BTC
@@ -51,10 +52,9 @@ Quy định quản lý hoạt động kinh doanh dịch vụ làm thủ tục v�
 
 ## Căn cứ pháp lý
 
-- Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15;
 - Luật Quản lý thuế số 108/2025/QH15;
 - Nghị định số 252/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quản lý thuế;
-- Nghị định số 29/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 166/2025/NĐ-CP);
+- Nghị định số 29/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính, được sửa đổi, bổ sung bởi Nghị định số 166/2025/NĐ-CP;
 - Theo đề nghị của Cục trưởng Cục Thuế.
 
 ---
@@ -383,7 +383,7 @@ Nơi nhận: - Ban Bí thư trung ương Đảng; - Thủ tướng; các Phó Th
 
 KT. BỘ TRƯỞNG THỨ TRƯỞNG Cao Anh Tuấn
 
-Phụ lục
+## Phụ lục
 
 DANH MỤC MẪU BIỂU
 
@@ -433,13 +433,13 @@ Kính gửi: Hội đồng đánh giá năng lực nghiệp vụ chuyên môn v�
 
 2. Ngày, tháng, năm sinh:................................................................................................................
 
-3. Căn cước công dân/Căn cước/Hộ chiếu số:....................................................................... ;
+3. Căn cước công dân/Căn cước/Hộ chiếu số:.......................................................................;
 
 cấp ngày ......./......./.............................; tại ......................................................................................
 
 4. Thông tin liên hệ: số điện thoại: ...............................................;
 
-Email: .......................................................... ;
+Email: ..........................................................;
 
 Địa chỉ: ............................................................................................................................................
 
@@ -477,7 +477,7 @@ từ ...................... đến ......................... tại .............
 
 .................................................................................................................
 
-11. Địa chỉ nhận thông báo :
+11. Địa chỉ nhận thông báo:
 
 .............................................................................................................................
 
@@ -497,7 +497,7 @@ Tên tôi là: .................................................................
 
 Ngày, tháng, năm sinh: .................................................................................................................
 
-Căn cước công dân/Căn cước/Hộ chiếu số: ...................................................... ;
+Căn cước công dân/Căn cước/Hộ chiếu số: ......................................................;
 
 Cấp ngày ...../...../........., tại ...................................................................................................................
 
@@ -527,13 +527,13 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh ph
 
 Kính gửi: Hội đồng đánh giá năng lực nghiệp vụ chuyên môn về thuế
 
-Họ và tên (chữ in hoa) : ........................................................; Nam/Nữ: ...........................................
+Họ và tên (chữ in hoa): ........................................................; Nam/Nữ: ...........................................
 
 Ngày, tháng, năm sinh: ....................................................................................................................
 
 Căn cước công dân/Căn cước/Hộ chiếu số: ..................................................................................;
 
-cấp ngày ......./......./....... ; tại ............................................................................................................
+cấp ngày ......./......./.......; tại ............................................................................................................
 
 Thông tin liên hệ: số điện thoại: .............................................; Email: .............................................;
 

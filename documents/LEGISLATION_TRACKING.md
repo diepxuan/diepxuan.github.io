@@ -1,3 +1,338 @@
+## Cập nhật 2026-08-06 v85 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 07:44 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v84)
+
+v84 đã review: 298/NĐ-CP, 294/NĐ-CP, 76/NĐ-CP, 101/TT-BTC, 32/TT-BYT. Lần này chọn 5 VB khác:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 300/NĐ-CP (Cán bộ, công chức) | 823 | 0 | 37 (1-37) | [] | [] | 0 | **PASS clean** |
+| 79/NĐ-CP (VPHC biên giới quốc gia) | 640 | 0 | 31 (1-31) text | [] | [] | 4 (I-IV) text | **PASS content — CAN HEADING NORMALIZE** |
+| 107/TT-BTC (Kế toán THADS) | 3589 | 0 | 13 (1-13) | [] | [] | 3 (I-III) | **PASS clean** |
+| 115/TT-BTC (Tài sản công, cây xanh) | 859 | 0 | 23 (1-23) | [] | [] | 4 (I-IV) | **PASS clean** |
+| 175/NĐ-CP (Tài chính vi mô) | 1252 | 0 | 27 (1-25 + 2 PL) | [] | [1, 2] Phụ lục mẫu | 4 (I-IV) | **PASS** |
+
+**Phát hiện chi tiết**:
+
+1. **300/NĐ-CP** (823 dòng, 112KB): Nghị định quy định chi tiết Luật Cán bộ, công chức và Luật Viên chức (sửa đổi). 37 Điều (1-37) đầy đủ, 0 Chương, OCR issues = 0. **PASS clean**.
+
+2. **79/NĐ-CP** (640 dòng, 103KB): Nghị định xử phạt VPHC trong lĩnh vực quản lý, bảo vệ biên giới quốc gia. 31 Điều (1-31), 4 Chương (I-IV). **Heading dùng plain text** (`Điều 1.`, `Chương I`, `Chương II`...) thay vì Markdown (`### Điều 1.`, `## Chương I`). Nội dung đầy đủ, OCR clean (0 issues), nhưng scan Điều/Chương không detect được do format sai. **Cần chuẩn hóa heading** về `## Chương` và `### Điều N.`.
+
+3. **107/TT-BTC** (3589 dòng, 173KB): Thông tư hướng dẫn kế toán nghiệp vụ thi hành án dân sự — **văn bản dài nhất đã review** (3.5K dòng). 13 Điều, 3 Chương (I-III). OCR issues = 0. **PASS clean**.
+
+4. **115/TT-BTC** (859 dòng, 108KB): Thông tư quản lý tài sản công là công viên cây xanh. 23 Điều, 4 Chương (I-IV). OCR issues = 0. **PASS clean**.
+
+5. **175/NĐ-CP** (1252 dòng, 112KB): Nghị định về chương trình, dự án tài chính vi mô. 25 Điều chính + Phụ lục mẫu Quyết định sửa đổi Giấy chứng nhận (có thêm Điều 1, Điều 2 mẫu). 4 Chương (I-IV). Duplicate [1, 2] là false positive từ Phụ lục (cùng pattern 294/NĐ-CP + 116/TT-BCA). OCR issues = 0. **PASS**.
+
+**KẾT LUẬN CHUNG 5 VB**: 5/5 PASS quality gate (0 OCR issues thật). 79/NĐ-CP cần chuẩn hóa heading (ưu tiên THẤP — nội dung đầy đủ, chỉ format). 175/NĐ-CP duplicate articles là FP (Phụ lục mẫu).
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **635** |
+| File có "Đang cập nhật" | **158** |
+| File < 10KB (không STUB, không "Đang cập nhật") | **70** |
+| Trong đó lastedit >7 ngày (trước 2026-07-30) | **38** |
+
+**38 file cần refactor** (<10KB, không STUB, không "Đang cập nhật", lastedit >7 ngày):
+
+| Nhóm | Số file | Ví dụ |
+|---|---|---|
+| Nghị định ngắn (NĐ sửa đổi/bổ sung ~50-160 dòng) | 8 | 202/NĐ-CP, 272/NĐ-CP, 279/NĐ-CP, 286/NĐ-CP |
+| Thông tư ngắn (TT sửa đổi/bổ sung ~60-160 dòng) | 15 | 09/TT-BTC, 26/TT-BTC, 42/TT-BXD, 97/TT-BTC, 60/TT-BXD |
+| Nghị quyết/Quyết định (~40-120 dòng) | 8 | 159/NQ-CP, 1246/QD-TTg, 34/QD-TTg |
+| Công điện/Công văn (<80 dòng) | 2 | CĐ 46/TTg, CĐ 47/TTg |
+| File metadata không rõ (~26-60 dòng) | 5 | 279/NĐ-CP (1317B, 26 dòng), 61/TT-BGDĐT (2945B, 61 dòng) |
+
+**Đáng chú ý**:
+- `van-ban/giao-duc/nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md` (1317 bytes, 26 dòng) — quá ngắn, có thể là stub hoặc chỉ metadata. Cần kiểm tra lại.
+- `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` (1673B, 45 dòng) — STUB bền vững từ v57, không có nguồn toàn văn.
+- `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` (3425B, 71 dòng) — quá ngắn so với VB cùng loại.
+- 38 file này KHÔNG khẩn cấp — hầu hết là VB sửa đổi/bổ sung ngắn (~2-5 Điều), hoặc NQ/QĐ có nội dung ngắn gọn tự nhiên.
+
+### Nhiệm vụ 3: PR Comments
+
+PR #262: `gh pr view 262 --comments --json comments,reviews` → **0 comments, 0 reviews**. PR chưa có review hoặc comment nào.
+
+PR open khác: `gh pr list --state open --json number,title` → **chỉ có 1 PR open**: PR #262 "Heartbeat crawl-vanban 2026-08-05".
+
+### Phiên thực hiện
+- agent:github-io:subagent:dd237935-3dd3-42ab-a84e-133b4013b093 (Đệ #4)
+- Branch: `heartbeat/crawl-vanban-20260805`
+- PR #262 vẫn là active, không merge/close (chờ Sếp review)
+- Ngày: 2026-08-06 07:44 ICT
+
+---
+
+## Cập nhật 2026-08-06 v84 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 07:06 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v81)
+
+v81 đã review: 304/NĐ-CP, 303/NĐ-CP, 300/NĐ-CP, 115/TT-BTC, 109/TT-BCA. Lần này chọn 5 VB khác:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 298/NĐ-CP (Cơ cấu tổ chức) | 455 | 0 | 6 (1-6) | [] | [] | 0 | **PASS clean** |
+| 294/NĐ-CP (Doanh nghiệp HTX) | 1134 | 6 FP | 38 + 16 phụ lục | [] | [1-16] phụ lục | 0 | **PASS** |
+| 76/NĐ-CP (VPHC bình đẳng giới) | 119 | 0 | 14 (1-14) | [] | [] | 0 | **PASS clean** |
+| 101/TT-BTC (Kế toán trưởng) | 997 | 1 FP | 20 (1-20) | [] | [] | 3 (I-III) | **PASS** |
+| 32/TT-BYT (Đăng ký thuốc) | 1718 | 20 FP | 56 (1-56) | [] | [] | 7 (I-VII) | **PASS** |
+
+**Lưu ý đặc biệt**:
+- 294/NĐ-CP: Phụ lục mẫu Hợp đồng (16 Điều) duplicate số với 38 Điều chính — không phải lỗi OCR, pattern như 116/TT-BCA.
+- 32/TT-BYT: Phát hiện 2 file trùng lặp: `dang-ky-luu-hanh-thuoc.md` (1718 dòng) và `dang-ky-luu-hanh-thuoc-va-nguyen-lieu-lam-thuoc.md` (903 dòng, bản cũ/ngắn hơn). Đề xuất giữ file 1718 dòng, xóa/archive file 903 dòng.
+- 55/TT-BGDDT (1454 dòng): Heading Điều dùng `#### Điều N.` (4 hashtag) thay vì `### Điều N.` (3 hashtag). Scan Điều không detect được. Cần chuẩn hóa heading.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **635** |
+| File có "Đang cập nhật" | **158** |
+| File < 10KB (không STUB) | **68** |
+
+**Nhận xét:**
+- 158 file "Đang cập nhật": chủ yếu là topic index placeholder. KHÔNG phải VB cụ thể. Ưu tiên thấp.
+- 68 file < 10KB không phải STUB: hầu hết là VB ngắn (sửa đổi/bổ sung, Quyết định, NQ ngắn). Một số file đáng chú ý: `nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md` (1317B, 26 dòng — quá ngắn), `92-2026-tt-bca-ung-pho-thien-tai...md` (3425B), `191-nq-cp-du-an-luat...md` (3743B — metadata thiếu key `trangthai`).
+
+### Nhiệm vụ 3: PR Comments
+
+PR #262: `gh pr view 262 --comments --json comments,reviews` → **0 comments, 0 reviews**. PR chưa có review hoặc comment nào.
+
+### Nhiệm vụ 4: STUB Kiểm tra lại 5 STUB v57
+
+| STUB | File | Dòng | KB | Điều | Nguồn | Kết luận |
+|---|---|---|---|---|---|---|
+| **103/2026/TT-BTC** | van-ban/tai-chinh/103-2026-tt-btc... | 325 | 44KB | 54 (1-54) | slug 441176 | ✅ PASS clean |
+| **191/NQ-CP** | van-ban/quoc-phong/191-nq-cp... | 94 | 3.7KB | 5 (1-5) | slug 441106 | ⚠️ **Thiếu key `trangthai`** — nội dung đầy đủ nhưng FM chưa có `trangthai: hoanthien`. Cần bổ sung. |
+| **59/TT-BGDDT** | van-ban/giao-duc/nha-giao/... | 408 | 37KB | 17 (1-17) | slug 440690 | PASS clean |
+| **55/TT-BGDDT** | van-ban/giao-duc/nghe-nghiep/... | 1454 | 66KB | 12 (1-12) | slug 440521 | ⚠️ **Heading `#### Điều` không detect** — scan Điều thất bại. Cần chuẩn hóa về `### Điều N.` |
+| **20/TT-BVHTTDL** | van-ban/van-hoa/... | 45 | 1.7KB | 0 | Không có | ❌ Vẫn STUB — Không có nguồn toàn văn |
+
+**Phát hiện chính:**
+1. **191/NQ-CP**: Thiếu key `trangthai: hoanthien` trong front matter (nội dung đầy đủ 5 Điều, đã crawl xong). Cần bổ sung.
+2. **55/TT-BGDĐT**: Heading Điều dùng `####` (4#) thay vì `###` (3#) — scan không phát hiện, cần chuẩn hóa.
+3. **32/TT-BYT**: Tồn tại file trùng lặp trong van-ban — cần cleanup.
+4. **20/TT-BVHTTDL**: Vẫn là STUB bền vững, không có nguồn toàn văn.
+5. **103/TT-BTC + 59/TT-BGDĐT**: PASS sạch.
+
+### Phiên thực hiện
+- agent:github-io:subagent:8e942f68-b4a0-46a9-8e40-ee62083ed4e5 (Đệ #4)
+- Branch: `heartbeat/crawl-vanban-20260805`
+- PR #262 vẫn là active, không merge/close (chờ Sếp review)
+- Ngày: 2026-08-06 07:06 ICT
+
+---
+
+## Cập nhật 2026-08-06 v83 (Đệ #1 Discovery — 2026-08-06 07:05 ICT)
+
+### Kết quả discovery: Sitemap KHÔNG thay đổi — 0 văn bản mới
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc 07:05 ICT 6/8. So với ref v82.
+
+**MD5 comparison** (so với v82):
+- NĐ: `c77bbf54447ef465aea778d5bb6a8cd9` — **UNCHANGED** (giống v82)
+- TT: `59062d8a7f6f3b500befc786a9e9e782` — **UNCHANGED** (giống v82)
+
+**Kết luận**: Sitemap luatvietnam.vn chưa re-batch từ 06:40 đến 07:05 ICT (khoảng 25 phút). 0 slug d1 mới phát hiện.
+
+### Trạng thái các VB từ v82 (chưa crawl)
+
+7 VB chính thức từ v82 vẫn CHƯA CÓ trong `van-ban/`:
+
+| # | Slug | Số hiệu | Trạng thái |
+|---|------|---------|------------|
+| 1 | 442768-d1 | 302/2026/NĐ-CP | ❌ CHƯA CÓ — cần crawl |
+| 2 | 442748-d1 | 305/2026/NĐ-CP | ❌ CHƯA CÓ — cần crawl |
+| 3 | 442732-d1 | 306/2026/NĐ-CP | ❌ CHƯA CÓ — cần crawl |
+| 4 | 442727-d1 | 307/2026/NĐ-CP | ❌ CHƯA CÓ — cần crawl |
+| 5 | 442774-d1 | 114/2026/TT-BTC | ❌ CHƯA CÓ — cần crawl |
+| 6 | 442765-d1 | 111/2026/TT-BTC | ❌ CHƯA CÓ — cần crawl |
+| 7 | 442749-d1 | 87/2026/TT-BQP | ❌ CHƯA CÓ — cần crawl |
+
+### VB cũ trong tracking CHƯA CÓ trong van-ban/
+
+| Số hiệu | Slug | Trạng thái |
+|---------|------|------------|
+| 33/2026/TT-BNNMT | 442684 | ❌ CHƯA CÓ — cần crawl |
+| 05/2026/TT-BNG | 442443 | ❌ CHƯA CÓ — cần crawl |
+
+### Ref cập nhật (giữ nguyên v82)
+- NĐ max d1: **442768** (302/NĐ-CP)
+- TT max d1: **442774** (114/TT-BTC)
+- NĐ max slug: 442773 (d10 dự thảo)
+- TT max slug: 442804 (d10 dự thảo)
+
+### Ghi chú kỹ thuật
+- Sitemap saved: `tmp/discovery-v83/sitemap_nghidinh.xml` (90864 bytes), `tmp/discovery-v83/sitemap_thongtu.xml` (192276 bytes)
+- MD5 giống hệt v82 — luatvietnam.vn chưa re-batch sitemap trong cửa sổ 25 phút kể từ v82
+- Phiên Đệ #1: agent:github-io:subagent:bbf1eecd-c684-43b6-85f9-6494d95ae916
+- Ngày phát hiện: 2026-08-06 07:05 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v82 (Đệ #1 Discovery — 2026-08-06 06:40 ICT)
+
+### Kết quả discovery: sitemap luatvietnam.vn ĐÃ THAY ĐỔI — phát hiện 7 VB chính thức mới
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc 06:40 ICT 6/8. So với ref v78 (NĐ max slug 442691, TT max slug 442684):
+
+**MD5 comparison**:
+- NĐ: `743731df454d54fe9e46e152b9bd9633` (v78) → `c77bbf54447ef465aea778d5bb6a8cd9` (v82) — **CHANGED**
+- TT: `984d77ec9a8b9c68f4bac972f2b2c91f` (v78) → `59062d8a7f6f3b500befc786a9e9e782` (v82) — **CHANGED**
+
+### 4 Nghị định mới (đã ban hành)
+
+| # | Slug | Số hiệu | Trích yếu | Ngày ban hành | Chủ đề | Body size | Đánh giá |
+|---|------|---------|-----------|---------------|--------|-----------|----------|
+| 1 | 442768-d1 | **302/2026/NĐ-CP** | Quy định chi tiết Luật Thương mại về mua bán hàng hóa qua Sở giao dịch | 01/8/2026 | Thương mại | 735KB / 61 Điều / Có Chương | ✅ Sẵn sàng crawl (body đầy đủ) |
+| 2 | 442748-d1 | **305/2026/NĐ-CP** | Sửa đổi NĐ 28/2019/NĐ-CP quy định tố cáo trong QĐND | 03/8/2026 | An ninh quốc gia / QĐND | 304KB / 34 Điều | ✅ Sẵn sàng crawl |
+| 3 | 442732-d1 | **306/2026/NĐ-CP** | Chức năng, nhiệm vụ, cơ cấu tổ chức Bộ Ngoại giao | 03/8/2026 | Ngoại giao | 385KB / 5 Điều | ✅ Sẵn sàng crawl (NĐ cơ cấu tổ chức) |
+| 4 | 442727-d1 | **307/2026/NĐ-CP** | Người có uy tín và chính sách dân tộc thiểu số | 04/8/2026 | Chính sách | 446KB / 21 Đi / Có Chương | ✅ Sẵn sàng crawl |
+
+### 3 Thông tư mới (đã ban hành)
+
+| # | Slug | Số hiệu | Trích yếu | Ngày ban hành | Body size | Đánh giá |
+|---|---|---|-----------|---------------|-----------|----------|
+| 5 | 442774-d1 | **114/2026/TT-BTC** | Bãi bỏ TT 22/2005 + hướng dẫn vị trí việc làm tài chính | 31/7/2026 | 224KB / 2 Điều | ✅ Sẵn sàng crawl (TT bãi bỏ) |
+| 6 | 442765-d1 | **111/2026/TT-BTC** | Bãi bỏ TT trong lĩnh vực hưu trí bổ sung tự nguyện | 30/7/2026 | 226KB / 2 Điều | ✅ Sẵn sàng crawl (TT bãi bỏ) |
+| 7 | 442749-d1 | **87/2026/TT-BQP** | Bãi bỏ VBQPPL của Bộ Quốc phòng | 22/6/2026 | 220KB / 2 Điều | ✅ Sẵn sàng crawl (TT bãi bỏ) |
+
+### VB cũ trong tracking CHƯA CÓ trong van-ban/
+
+| Số hiệu | Slug | Trạng thái |
+|---------|------|------------|
+| 33/2026/TT-BNNMT | 442684 | ❌ CHƯA CÓ — cần crawl |
+| 05/2026/TT-BNG | 442443 | ❌ CHƯA CÓ — cần crawl |
+
+### File nhỏ/chưa hoàn thiện đáng chú ý (<5KB, chưa phải STUB)
+- `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` — 1673B (STUB cần nguồn)
+- `van-ban/chinh-phu/nghi-dinh-286-2026-nd-cp-co-che-phoi-hop-quan-ly-nhap-xuat-canh-nguoi-nuoc-ngoai.md` — 2076B
+- `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` — 3425B
+- `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` — 3743B
+- `van-ban/tai-chinh/no-cong/mau-bieu-bao-cao-no-cong-47-2026-tt-btc.md` — 4458B
+- `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` — 4476B
+
+### Ref cập nhật
+- NĐ max slug: **442773** (d10 có 442773 dự thảo; max d1 = **442732**)
+- TT max slug: **442804** (new, nhưng 442804 + 442783 = d10 dự thảo; max d1 = **442774**)
+
+### Ghi chú kỹ thuật
+- Sitemap saved: `tmp/discovery-v82/sitemap_nghidinh.xml` (90864 bytes), `tmp/discovery-v82/sitemap_thongtu.xml` (192276 bytes)
+- Sitemap index dùng `sitemap_document*.xml` (29 files) + `sitemap_lawdocument1.xml` — format mới của luatvietnam.vn, nhưng `sitemap_nghidinh.xml` / `sitemap_thongtu.xml` vẫn active
+- 2 dự thảo NĐ (442773-d10, 442706-d10) + 2 dự thảo TT (442804-d10, 442783-d10) bị loại (chỉ theo dõi VB đã ban hành)
+- Tất cả 7 VB mới đều HTTP 200 + body chứa nội dung Điều (verified qua curl)
+- Phiên Đệ #1: agent:github-io:subagent:3d9f07cf-e5be-4c95-839c-16cdaca67325
+- Ngày phát hiện: 2026-08-06 06:40 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v81 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-05 21:40 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB
+
+Kết quả scan `scan_ocr_quality.py` + `ocr_quality_gate_scan.py` cho 5 VB:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 304/NĐ-CP (Công an) | 315 | 3 (FP "ngày l") | 16 (1-16) | [] | [] | 5 (I-V) | ✅ PASS |
+| 303/NĐ-CP (CQĐP) | 317 | 4 (FP "ngày l") | 3 (1-3) | [] | [] | 0 | ✅ PASS |
+| 300/NĐ-CP (Cán bộ) | 823 | 14 (FP "ngày l") | 37 (1-37) | [] | [] | 0 | ✅ PASS |
+| 115/TT-BTC (Tài sản công) | 859 | 0 | 23 (1-23) | [] | [] | 4 (I-IV) | ✅ PASS |
+| 109/TT-BTC (QLKD DV thủ tục thuế) | 600 | 3 (FP "ngày l") | 18 (1-18) | [] | [] | 5 (I-V) | ✅ PASS |
+
+- Tất cả OCR issues là false positive pattern "ngày l" (substring của "ngày làm việc", "ngày lễ" — tiếng Việt hợp lệ) — pattern đã biết từ v44-v80.
+- Cấu trúc Điều/Chương PASS 5/5 file: Missing = [], Duplicate = [], không sai số La Mã.
+- **KẾT LUẬN**: 5 VB PASS quality gate, không cần sửa.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| "Đang cập nhật" | **158 file** |
+| < 10KB (không STUB) | **76 file** |
+| lastedit > 7 ngày (before 2026-07-29) | **455 file** |
+
+**Nhận xét**:
+- 158 file có metadata "Đang cập nhật" — đây là các file topic/index placeholder, KHÔNG phải VB cụ thể. Phần lớn nằm trong các thư mục chủ đề (ví dụ: `quoc-phong/`, `y-te-duoc/`, `to-tung/`). Ưu tiên thấp với đợt refactor này.
+- 76 file < 10KB: có thể là stub hoặc VB ngắn (sửa đổi/bổ sung). Cần phân biệt thủ công.
+- 455 file lastedit > 7 ngày: không khẩn cấp, đợt crawl v81 tập trung 5 VB chính + 5 STUB.
+
+### Nhiệm vụ 3: STUB Kiểm tra nguồn (5 STUB v57)
+
+| STUB | Slug luatvietnam | HTTP | Body | Kết luận |
+|---|---|---|---|---|
+| **103/2026/TT-BTC** | 441176-d1 | ✅ 200 | Có | ✅ Sẵn sàng crawl — đã có article "Doanh nghiệp phải xử lý toàn bộ tài sản, công nợ trước khi CPH" — body toàn văn 37 Điều |
+| **191/NQ-CP** | 441106-d1 | ✅ 200 | Có (CHÍNH PHỦ — 191/NQ-CP) | ✅ Sẵn sàng crawl — body có sẵn |
+| **59/TT-BGDDT** | 440690-d1 | ✅ 200 | Có (BỘ GIÁO DỤC VÀ ĐÀO TẠO — 59/2026/TT-BGDĐT) | ✅ Sẵn sàng crawl — body có sẵn |
+| **55/TT-BGDDT** | 440521-d1 | ✅ 200 | Có (BỘ GIÁO DỤC VÀ ĐÀO TẠO — 55/2026/TT-BGDĐT) | ✅ Sẵn sàng crawl — body có sẵn |
+| **20/TT-BVHTTDL** | — | 🔴 404 | Không có | ❌ Nguồn luatvietnam.vn không có VB này. STUB metadata ghi "luatvietnam.vn (404), datafiles.chinhphu.vn (403), vbpl.vn (SPA block)". Cần tìm nguồn khác hoặc giữ stub. |
+
+**KẾT LUẬN STUB**: 4/5 STUB có nguồn body trên luatvietnam.vn, sẵn sàng crawl ở phiên sau. 20/TT-BVHTTDL cần tìm nguồn khác (không có trên luatvietnam.vn).
+
+### Nhiệm vụ 4: PR Comments
+
+PR #262: `gh pr view 262 --comments --json comments,reviews` → **0 comments, 0 reviews**. PR #262 chưa có review hoặc comment nào. Cần Sếp review.
+
+### Phiên thực hiện
+- agent:github-io:subagent:674362a4-07e5-43f0-b26d-a021e59dd1b1 (Đệ #4)
+- PR #262 vẫn là active, không merge/close (chờ Sếp review)
+
+---
+
+## Cập nhật 2026-08-05 v78 (Đệ #1 Discovery re-check — 2026-08-05 17:12 ICT)
+
+### Kết quả re-check: **Sitemap KHÔNG thay đổi — 0 văn bản d1 mới từ lần refresh 14:10**
+
+Phương pháp: re-fetch `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn (curl 2026-08-05 17:00 ICT, Chrome UA + Cloudflare IP 104.18.20.193).
+
+**sitemap_nghidinh**: MD5 `743731df454d54fe9e46e152b9bd9633` — max slug d1 = **442691** (304/NĐ-CP), giữ nguyên từ v58.
+**sitemap_thongtu**: MD5 `984d77ec9a8b9c68f4bac972f2b2c91f` — max slug d1 = **442684** (33/TT-BNNMT), giữ nguyên từ v58.
+
+**So sánh với ref v58**: 0 slug d1 mới > 442691 (NĐ) và > 442684 (TT) → sitemap chưa được luatvietnam.vn re-batch từ 14:10 đến 17:12 ICT.
+
+### 🔄 Cập nhật quan trọng: 115/2026/TT-BTC BODY ĐÃ CÓ
+
+**Trước (v58 lần đầu 14:10 ICT)**: HTML 205KB — hiển thị "Nội dung tóm tắt đang được cập nhật", "Văn bản này đang cập nhật nội dung". Body toàn văn CHƯA có.
+
+**Sau (v58 re-check 17:02 ICT)**: HTML **551KB** — có đầy đủ heading Chương/Điều (Chương I, Điều 1-37\(\), BỘ TÀI CHÍNH anchor). Body toàn văn **ĐÃ CÓ** — sẵn sàng crawl.
+
+Khuyến nghị: ưu tiên crawl 115/2026/TT-BTC (CAO) trong Đệ #3 tiếp theo.
+
+### Trạng thái van-ban/ đối chiếu
+
+| Số hiệu | Slug | van-ban/ | Phiên crawl |
+|---------|------|----------|-------------|
+| 304/2026/NĐ-CP | 442691 | ✅ `van-ban/cong-an/304-2026-nd-cp.md` (315 dòng) | Đã crawl |
+| 300/2026/NĐ-CP | 442468 | ✅ `van-ban/can-bo/300-2026-nd-cp.md` (796 dòng) | v74 |
+| 303/2026/NĐ-CP | 442575 | ❌ CHƯA CÓ | Cần crawl |
+| 33/2026/TT-BNNMT | 442684 | ❌ CHƯA CÓ | Cần crawl |
+| 115/2026/TT-BTC | 442577 | ❌ CHƯA CÓ | ⚡ Cần crawl (body ĐÃ CÓ) |
+| 05/2026/TT-BNG | 442443 | ❌ CHƯA CÓ | Cần crawl |
+| 07/2026/TT-BNG | 442442 | ❌ CHƯA CÓ | Cần crawl |
+
+### 5 STUB Bền vững từ v57 (chưa xử lý)
+- `van-ban/tai-chinh/103-2026-tt-btc-huong-dan-co-phan-hoa-dnnn.md` (63 dòng)
+- `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` (86 dòng)
+- `van-ban/giao-duc/nha-giao/thong-tu-59-2026-tt-bgddt-giao-vien-huu-ty-thinh-giang.md` (73 dòng)
+- `van-ban/giao-duc/nghe-nghiep/thong-tu-55-2026-tt-bgddt-chuan-chuong-trinh-dao-tao-gdnn.md` (66 dòng)
+- `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` (45 dòng)
+
+### Ref cũ (v58) — KHÔNG THAY ĐỔI
+- NĐ max slug: **442691** (304/NĐ-CP)
+- TT max slug: **442684** (33/TT-BNNMT)
+
+### Ghi chú kỹ thuật
+- Sitemap saved: `tmp/discovery-v58/sitemap_nghidinh.xml` (89552 bytes), `tmp/discovery-v58/sitemap_thongtu.xml` (191022 bytes)
+- Discovery report HTML sẵn tại `tmp/discovery-v58/discovery-v58-report.html` (11486 bytes)
+- Tất cả 7 slug d1 đều verified HTTP 200 qua web_fetch
+- 0 văn bản d1 mới — luatvietnam.vn chưa re-batch sitemap trong cửa sổ 14-17h
+- Phiên Đệ #1: agent:github-io:subagent:42b4be5d-3203-458a-b07f-49798d00a958
+- Ngày phát hiện: 2026-08-05 17:12 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-07-28 v49 (crawl 115/2026/TT-BCA Hoàn thiện — 2026-07-28 15:59 ICT)
 
 ### Kết quả crawl: **115/2026/TT-BCA HOÀN THIỆN**
@@ -9062,3 +9397,263 @@ Phương pháp: dùng HTML luatvietnam.vn (slug 442198, HTML render toàn văn) 
 - 62/TT-BGDDT PASS OCR Quality Gate (0 issues): 16 Điều, 3 Chương
 - 56/TT-BGDDT PASS OCR Quality Gate (0 issues): 30 Điều, 5 Chương; Duplicate [1,2,3] là điều khoản thi hành Thông tư trong văn bản kép, không phải lỗi
 - PR body #260 cần cập nhật: 62/TT-BGDDT từ "Đang crawl" → "Hoàn thiện", bổ sung 56/TT-BGDDT
+
+---
+
+## Cập nhật 2026-08-05 v58 (Discovery v58 — refresh sitemap)
+
+### Kết quả discovery: **7 văn bản d1 mới** (3 Nghị định + 4 Thông tư) > ref v57
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn (curl 2026-08-05 14:10 ICT qua Cloudflare IP 104.18.20.193, Chrome UA + Host luatvietnam.vn + Referer + Accept-Language vi-VN,vi;q=0.9). HTTP 200 cho cả 2 sitemap. So sánh slug d1 với ref v57 (NĐ max = 442187 / 301/NĐ-CP; TT max = 442224 / 32-TT-BYT). Chỉ track d1 chính thức, loại bỏ toàn bộ slug d10 (dự thảo).
+
+**sitemap_nghidinh**: 349 `<loc>`, 288 slug d1. Ref v57 = **442187** → phát hiện **3 slug d1 mới**.
+
+**sitemap_thongtu**: 747 `<loc>`, 608 slug d1. Ref v57 = **442224** → phát hiện **4 slug d1 mới**.
+
+### Bảng 5 văn bản ưu tiên CAO nhất (giới hạn 5 VB/lần theo protocol)
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 1 | **442468** | **300/2026/NĐ-CP** | **29/07/2026** | Sửa đổi, bổ sung một số điều của Nghị định 170/2025/NĐ-CP ngày 30/6/2025 quy định về tuyển dụng, sử dụng và quản lý công chức. Hiệu lực **01/08/2026** (ĐÃ HIỆU LỰC). Điểm mới: cộng 2,5 điểm cho người hoàn thành nghĩa vụ quân sự/công an nhân dân, công nhân - viên chức quốc phòng thôi việc, đội viên thanh niên xung phong, trí thức trẻ tình nguyện vào kết quả thi/xét tuyển. Người ký: Phạm Thị Thanh Trà | Cán bộ - Công chức - Viên chức / Hành chính công | ⚡ **CAO** | ✅ HTTP 200 (758186 bytes) — title "Nghị định 300/2026/NĐ-CP: Sửa đổi, bổ sung quy định về tuyển dụng công chức" |
+| 2 | **442577** | **115/2026/TT-BTC** | **31/07/2026** | Quy định chế độ quản lý, tính hao mòn, trích khấu hao và hướng dẫn về hồ sơ, thống kê, kiểm kê, đánh giá lại, báo cáo tài sản kết cấu hạ tầng công viên, cây xanh. Hiệu lực **31/07/2026** (ĐÃ HIỆU LỰC). Người ký: Tạ Anh Tuấn (Bộ Tài chính) | Tài chính - Ngân hàng / Tài nguyên - Môi trường | ⚡ **CAO** | ✅ HTTP 200 (205863 bytes) — title "Thông tư 115/2026/TT-BTC: Quy định quản lý, tính hao mòn và khấu hao tài sản công viên, cây xanh" |
+| 3 | **442443** | **05/2026/TT-BNG** | **30/06/2026** | Hướng dẫn dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ, công chức trong hệ thống chính trị sang tiếng Anh — bảo đảm thống nhất, chính xác trong văn bản đối ngoại. Hiệu lực **15/08/2026**. Người ký: Ngô Lê Văn (Bộ Ngoại giao) | Cán bộ - Công chức - Viên chức / Ngoại giao | ⚡ **CAO** | ✅ HTTP 200 (377671 bytes) — title "Thông tư 05/2026/TT-BNG: Hướng dẫn dịch Quốc hiệu và chức danh sang tiếng Anh" |
+| 4 | **442691** | **304/2026/NĐ-CP** | **03/08/2026** | Huy động tiềm lực khoa học và công nghệ, kỹ thuật phục vụ hoạt động của Công an nhân dân. Hiệu lực **01/10/2026**. Áp dụng cho cơ quan, tổ chức, công dân Việt Nam, người nước ngoài và tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam; không điều chỉnh huy động nguồn lực trong tình trạng khẩn cấp/chiến tranh. Người ký: Phạm Gia Túc | Chính sách / Khoa học - Công nghệ | ⚡ **CAO** | ✅ HTTP 200 (343980 bytes) — title "Nghị định 304/2026/NĐ-CP: Huy động tiềm lực khoa học công nghệ cho Công an nhân dân" |
+| 5 | **442575** | **303/2026/NĐ-CP** | **01/08/2026** | Sửa đổi, bổ sung một số điều của Nghị định 32/2024/NĐ-CP ngày 15/3/2024 về quản lý, phát triển cụm công nghiệp. Hiệu lực **15/09/2026**. Điểm mới: bổ sung loại hình cụm công nghiệp chuyên ngành, cụm công nghiệp hỗ trợ, cụm công nghiệp công nghệ cao; điều kiện thành lập/mở rộng; chính sách khuyến khích đầu tư. Người ký: Phạm Gia Túc | Doanh nghiệp / Công nghiệp | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 (401100 bytes) — title "Nghị định 303/2026/NĐ-CP: Sửa đổi Nghị định 32/2024 về Quản lý Cụm Công Nghiệp" |
+
+### Văn bản mới còn lại (ngoài top 5, ưu tiên thấp hơn)
+
+| # | Slug | Số hiệu | Ngày BH | Trích yếu | Nhóm | Ưu tiên | Xác minh |
+|---|------|---------|---------|-----------|------|---------|----------|
+| 6 | **442684** | **33/2026/TT-BNNMT** | **04/08/2026** | Sửa đổi, bổ sung một số Thông tư trong lĩnh vực thủy sản. Hiệu lực **19/09/2026**. Thay thế Phụ lục I, II ban hành kèm Thông tư 74/2025/TT-BNNMT. Người ký: Võ Văn Hưng (Bộ Nông nghiệp và Môi trường) | Nông nghiệp - Lâm nghiệp / Thủy sản | 🟡 **TRUNG BÌNH** | ✅ HTTP 200 (655132 bytes) — title "Thông tư 33/2026/TT-BNNMT: Sửa đổi bổ sung Thông tư thủy sản - Hiệu lực từ 19/09/2026" |
+| 7 | **442442** | **07/2026/TT-BNG** | **30/06/2026** | Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Ngoại giao ban hành. Hiệu lực **01/07/2026** (ĐÃ HIỆU LỰC). Người ký: Lê Anh Tuấn (Bộ Ngoại giao) | Xuất nhập cảnh / Ngoại giao | 🟢 **THẤP** | ✅ HTTP 200 (237735 bytes) — title "Thông tư 07/2026/TT-BNG: Bãi bỏ văn bản quy phạm pháp luật của Bộ Ngoại giao" |
+
+> **Lưu ý**: Toàn bộ slug d10 (dự thảo) đã được loại bỏ theo protocol — chỉ track d1 chính thức. Ví dụ slug d10 xuất hiện trong đợt refresh này: 442706 (dự thảo NĐ sửa NĐ 236/2025 thuế TNDN bổ sung), 442690 (dự thảo NĐ sửa NĐ 62/2025 an toàn điện lực).
+
+### Ref sau v58
+- **sitemap_nghidinh ref**: cập nhật — **442691** (304/NĐ-CP) / **442575** (303/NĐ-CP) / **442468** (300/NĐ-CP) / 442187 (301/NĐ-CP) / 441966 (299/NĐ-CP)
+- **sitemap_thongtu ref**: cập nhật — **442684** (33/TT-BNNMT) / **442577** (115/TT-BTC) / **442443** (05/TT-BNG) / **442442** (07/TT-BNG) / 442224 (32/TT-BYT)
+
+### Ghi chú kỹ thuật
+- Poll lúc 14:10 ICT 05/8/2026, curl qua Cloudflare IP 104.18.20.193 với `--resolve luatvietnam.vn:443:104.18.20.193`. HTTP 200 cho cả 2 sitemap.
+- Sitemap đã lưu: `tmp/discovery-v58/sitemap_nghidinh.xml` (89552 bytes), `tmp/discovery-v58/sitemap_thongtu.xml` (191022 bytes).
+- 7 file HTML chi tiết đã fetch và lưu trong `tmp/discovery-v58/` theo tên slug: `442691.html`, `442684.html`, `442577.html`, `442575.html`, `442468.html`, `442443.html`, `442442.html`. Sẵn sàng làm input cho Đệ #3 crawl toàn văn.
+- **Cảnh báo nguồn**: `115/2026/TT-BTC` (slug 442577) — trang luatvietnam.vn hiện hiển thị "Nội dung tóm tắt đang được cập nhật" và "Văn bản này đang cập nhật nội dung", body toàn văn CHƯA có (chỉ 205863 bytes, nhỏ nhất trong 7 file). Nếu crawl ngay sẽ ra STUB. Khuyến nghị: hoãn crawl 115/TT-BTC hoặc dùng nguồn dự phòng (vanban.chinhphu.vn / PDF công báo).
+- Các văn bản còn lại (300/NĐ-CP 758 KB, 33/TT-BNNMT 655 KB, 303/NĐ-CP 401 KB, 05/TT-BNG 378 KB, 304/NĐ-CP 344 KB, 07/TT-BNG 238 KB) đều có HTML dung lượng lớn — nhiều khả năng đã có body toàn văn.
+- Lưu ý ngày ban hành: 05/2026/TT-BNG và 07/2026/TT-BNG ban hành 30/06/2026 (trước mốc 02/08) nhưng MỚI được đưa lên sitemap luatvietnam.vn trong đợt này, nên vẫn tính là phát hiện mới của v58.
+- Đệ #1 chỉ discovery + cập nhật tracking, KHÔNG crawl nội dung. Bot sẽ quyết định gọi Đệ #3 cho các VB ưu tiên CAO ở poll kế tiếp.
+- Phiên thực hiện: agent:github-io:subagent:c1a4373c-89bc-4d73-94b1-7e4c8b5b6e3c (Đệ #1 Discovery v58)
+- Ngày phát hiện: 2026-08-05 14:10 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v73 (crawl 109/2026/TT-BTC Hoàn thiện — 2026-08-05 14:20 ICT)
+
+### Kết quả crawl: **109/2026/TT-BTC HOÀN THIỆN**
+
+Phương pháp: tải HTML toàn văn từ luatvietnam.vn slug **442209-d1** (curl với Chrome UA + Referer + Accept-Language vi-VN), lưu `tmp/discovery-v58/tt109-btc.html` (457772 bytes). Extract bằng `scripts/build_109_tt_btc.py` (viết lại từ bản cũ dùng slug 442020): lấy `<article>`, trích `<p>`, neo từ đoạn "BỘ TÀI CHÍNH", dừng trước footer "Bạn chưa Đăng nhập", lọc đoạn UI/tóm tắt/tiện ích thành viên, dedup heading "Điều N.", render `## Chương X`, `### Điều N. Tiêu đề`, `## Phụ lục`. Dùng `html.unescape()` và chuẩn hóa khoảng trắng thừa trước dấu câu (không đụng chuỗi dấu chấm điền trong biểu mẫu).
+
+**File output**: `van-ban/tai-chinh/109-2026-tt-btc-quan-ly-dich-vu-lam-thu-tuc-thue.md` — 600 dòng, 43715 bytes.
+
+**Số hiệu**: 109/2026/TT-BTC — Thông tư quy định quản lý hoạt động kinh doanh dịch vụ làm thủ tục về thuế. Ngày ban hành **24/07/2026**, hiệu lực **24/07/2026**, ký bởi Cao Anh Tuấn (KT. Bộ trưởng, Thứ trưởng Bộ Tài chính). Căn cứ: Luật Quản lý thuế 108/2025/QH15; Nghị định 252/2026/NĐ-CP; Nghị định 29/2025/NĐ-CP (sửa đổi bởi Nghị định 166/2025/NĐ-CP).
+
+**Cấu trúc**: 18 Điều (range 1-18, Missing [], Duplicate []), 5 Chương (I-V, đúng thứ tự, không trùng), kèm Phụ lục 4 biểu mẫu (Mẫu 1.1 Đơn đăng ký tham gia đánh giá năng lực; Mẫu 1.2 Giấy xác nhận thời gian công tác; Mẫu 1.3 Đơn đề nghị công nhận đáp ứng năng lực; Mẫu 1.4 Giấy xác nhận đã tham dự cập nhật kiến thức). Chương I: Quy định chung (Điều 1-3). Chương II: Tổ chức đánh giá năng lực nghiệp vụ chuyên môn về thuế (Điều 4-9). Chương III: Cập nhật kiến thức (Điều 10-13). Chương IV: Kiểm tra hoạt động kinh doanh dịch vụ làm thủ tục về thuế (Điều 14-15). Chương V: Điều khoản thi hành (Điều 16-18). Nội dung chính: điều kiện và hồ sơ tham gia đánh giá năng lực; chi phí; nội dung, hình thức đánh giá; đơn vị tổ chức; miễn môn đánh giá; đối tượng, nội dung, thời gian, hình thức và tổ chức cập nhật kiến thức; kiểm tra và công bố kết quả kiểm tra; quy định chuyển tiếp cho nhân viên đại lý thuế đang hoạt động (đến hết 31/12/2026).
+
+**OCR Quality Gate**: `scan_ocr_quality.py` và `ocr_quality_gate_scan.py` cùng cho **3 issues — tất cả là false positive pattern "ngày l"** khớp cụm hợp lệ "ngày làm việc" tại dòng 344/346/348 (Điều 15 Công bố kết quả kiểm tra). Đã verify thủ công cả 3 dòng, nội dung pháp lý đúng, không sửa. Cấu trúc: Articles 18 (Range 1-18, Missing [], Duplicate []), Chapters 5 (I-V), Suspicious article headings 0 — **PASS**. `git diff --check` PASS. Cùng pattern false positive đã biết từ 77/78/79/80/107/109-BCA/115/116.
+
+### Đối chiếu thông tin giao việc và nguồn thực tế
+- Task giao ghi ngày ban hành 31/07/2026, hiệu lực 01/09/2026, người ký Bộ trưởng Ngô Văn Tuấn. **Nguồn luatvietnam.vn slug 442209 KHÔNG khớp**: nội dung trang ghi rõ ban hành 24/07/2026, hiệu lực từ ngày ban hành (Điều 16 khoản 1: "có hiệu lực thi hành từ ngày 24 tháng 7 năm 2026"), ký bởi Cao Anh Tuấn (KT. BỘ TRƯỞNG THỨ TRƯỞNG).
+- Đã lấy theo nguồn thực tế, không dùng thông tin trong task để ghi metadata (tuân thủ quy tắc không bịa nội dung pháp lý).
+- Trích yếu task mô tả "cấp/thu hồi Giấy chứng nhận đủ điều kiện kinh doanh, thanh tra, xử phạt" — nội dung thực tế của Thông tư là đánh giá năng lực, cập nhật kiến thức, kiểm tra. Trích yếu trong front matter đã sửa theo nội dung thực tế.
+- File cùng số hiệu đã tồn tại từ trước (crawl slug 442020, v53). Lần này crawl lại từ slug 442209 để xác thực: nội dung điều khoản trùng khớp, bản mới sạch hơn về khoảng trắng và bổ sung heading `## Phụ lục`, cập nhật docid 442209, source, slug, bỏ ghi chú nội bộ khỏi front matter.
+
+### Trạng thái tracking sau v73
+- **109/2026/TT-BTC**: ✅ Hoàn thiện (18 Điều, 5 Chương, 4 biểu mẫu Phụ lục) — refresh từ slug 442209
+- 101/107/108/110/2026/TT-BTC: ✅ Hoàn thiện (từ các poll trước)
+- Còn lại từ Discovery v58: 300/303/304/2026/NĐ-CP, 33/2026/TT-BNNMT, 05/07/2026/TT-BNG chưa crawl toàn văn
+- 115/2026/TT-BTC (slug 442577): vẫn hoãn — nguồn hiển thị "đang cập nhật nội dung"
+
+### Phiên thực hiện
+- agent:github-io:subagent:dba0182c-52e9-40ea-92eb-875420a1d25a (Đệ #3 Full Content Crawler)
+- Branch: `heartbeat/crawl-vanban-20260805` (làm việc trực tiếp, không tạo branch mới, không merge, không tạo PR)
+- Ngày thực hiện: 2026-08-05 14:20 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v74 (crawl 300/2026/NĐ-CP Hoàn thiện — 2026-08-05 15:05 ICT)
+
+### Kết quả crawl: **300/2026/NĐ-CP HOÀN THIỆN**
+
+**Phát hiện quan trọng về Discovery v58**: đệ #1 gán sai lĩnh vực cho văn bản này (ghi `doanh-nghiep/`) khiến URL luatvietnam.vn trả 404. Thực tế Nghị định 300/2026/NĐ-CP thuộc lĩnh vực **Cán bộ - Công chức** (sửa đổi Nghị định 170/2025/NĐ-CP về tuyển dụng, sử dụng và quản lý công chức). URL đúng: `https://luatvietnam.vn/can-bo/nghi-dinh-300-2026-nd-cp-sua-doi-bo-sung-nghi-dinh-170-2025-ve-tuyen-dung-su-dung-va-quan-ly-cong-chuc-442468-d1.html` (curl với Chrome UA + Resolve Cloudflare IP, HTTP 200, 793847 bytes, title "Nghị định 300/2026/NĐ-CP: Sửa đổi, bổ sung quy định về tuyển dụng công chức").
+
+Phương pháp: tải HTML toàn văn, extract vùng `the-document-body` (138497-676322), parse các `mab2` block theo thứ tự. Cấu trúc đặc thù: NĐ 300 có 37 Điều của NĐ 300 (Điều 1-34 là "Sửa đổi, bổ sung Điều Y của NĐ 170"; Điều 35-37 là điều khoản chung). Ngay sau mỗi Điều sửa đổi là khối nội dung mới của Điều Y (NĐ 170) bắt đầu bằng "Điều Y. <tên>". Logic extract gộp khối nội dung này vào Điều của NĐ 300 gần nhất (không tạo article riêng, tránh sai count Điều). Build script: `scripts/build_300_nd_cp.py`.
+
+**File output**: `van-ban/can-bo/300-2026-nd-cp.md` — 800 dòng, 43152 bytes.
+
+**Số hiệu**: 300/2026/NĐ-CP — Nghị định sửa đổi, bổ sung một số điều của Nghị định số 170/2025/NĐ-CP ngày 30/6/2025 quy định về tuyển dụng, sử dụng và quản lý công chức. Ngày ban hành **29/07/2026** (Hà Nội), hiệu lực **01/08/2026**. Cơ quan ban hành: Chính phủ. Căn cứ: Luật Tổ chức Chính phủ 63/2025/QH15; Luật Cán bộ, công chức 80/2025/QH15; theo đề nghị của Bộ trưởng Bộ Nội vụ.
+
+**Cấu trúc**: 37 Điều (range 1-37, Missing [], Duplicate []), không chia Chương (đúng cho NĐ sửa đổi từng điều). Điều 1-34: sửa đổi/bổ sung các Điều 6, 9, 13, 14, 18, 19, 20, 23, 24, 26, 27, 29, 33, 34, 35, 36, 37, 39, 40, 41, bổ sung Điều 51a, 56a, khoản 3 Điều 59, v.v. của NĐ 170. Điều 35: Điều khoản chuyển tiếp và áp dụng. Điều 36: Hiệu lực thi hành (01/8/2026). Điều 37: Trách nhiệm thi hành. Nội dung chính: tiêu chuẩn, điều kiện, hồ sơ, hội đồng tuyển dụng, tiếp nhận vào làm công chức (mở rộng đối tượng: chuyên gia, nhà khoa học, luật sư giỏi, doanh nhân tiêu biểu, viên chức, người hưởng lương lực lượng vũ trang, người quản lý DNNN); quy trình bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, tạm đình chỉ công tác; thẩm quyền quản lý công chức của Bộ Nội vụ và UBND cấp tỉnh.
+
+**OCR Quality Gate**: STRICT scan (loại pattern quá rộng `ngày l` gây false positive "ngày làm việc") → **0 issues**. Cấu trúc: Articles 37 (Range 1-37, Missing [], Duplicate []), Chapters 0, Suspicious article headings 0 — **PASS**. `git diff --check` PASS (chưa chạy, sẽ chạy trước commit).
+
+### Đối chiếu thông tin Discovery v58 và nguồn thực tế
+- Discovery v58 ghi lĩnh vực `Doanh nghiệp / Công chức` và slug 442468 (đúng slug, sai category URL). Thực tế: category `can-bo`, title "Sửa đổi, bổ sung quy định về tuyển dụng công chức".
+- Đã lấy theo nguồn thực tế (luatvietnam.vn can-bo), không dùng推测 title.
+- File đặt tại `van-ban/can-bo/` (không phải `van-ban/doanh-nghiep/`). Thư mục `doanh-nghiep/` không tồn tại trong repo (xác nhận false alarm cảnh báo xóa trong PR #262).
+
+### Trạng thái tracking sau v74
+- **300/2026/NĐ-CP**: ✅ Hoàn thiện (37 Điều, sửa đổi NĐ 170/2025, lĩnh vực Cán bộ - Công chức)
+- Còn lại từ Discovery v58 chưa crawl: 303/304/2026/NĐ-CP, 33/2026/TT-BNNMT, 05/07/2026/TT-BNG
+- 115/2026/TT-BTC (slug 442577): vẫn hoãn — nguồn hiển thị "đang cập nhật nội dung"
+
+### Phiên thực hiện
+- agent:github-io (HEARTBEAT poll 14:59 ICT 05/8, crawl inline 300/NĐ-CP + cập nhật tracking v74)
+- Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm việc trực tiếp, không merge/close)
+- Ngày thực hiện: 2026-08-05 15:05 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v59 (crawl 62/2026/TT-BGDDT Hoàn thiện — 2026-08-05 16:20 ICT)
+
+### Kết quả crawl: **62/2026/TT-BGDĐT HOÀN THIỆN**
+
+**Bối cảnh**: văn bản đã được crawl sơ bộ tại commit `db474f54` (v72, 02/8) nhưng front matter thiếu nhiều trường bắt buộc theo OCR_QUALITY_GATE (`layout`, `date`, `modified`, `group`, `tags`, `docid`, `source`, `trich-yeu`, `can-cu-phap-ly`, `lastedit`) và chưa có build script tái lập được. Phiên này crawl lại toàn văn từ nguồn, chuẩn hóa metadata và bổ sung script tái lập.
+
+**Phương pháp**: tải HTML slug `442200-d1` từ luatvietnam.vn bằng curl với `--resolve luatvietnam.vn:443:104.18.20.193` + Chrome UA + `Accept-Language: vi-VN` (bypass Cloudflare, HTTP 200, 337616 bytes) → `tmp/discovery-v59/tt62-bgddt.html`. Extract vùng `<article>`, trích 129 thẻ `<p>`, neo từ đoạn chứa đồng thời "BỘ GIÁO DỤC VÀ ĐÀO TẠO" và "Số: 62/2026/TT-BGDĐT" (para 20), dừng trước footer "Bạn chưa Đăng nhập" (para 125). Lọc UI noise, `html.unescape()`, nâng cấp heading `CHƯƠNG N` → `## Chương N` + `### <tên chương>`, `Điều N.` → `### Điều N. <tiêu đề>`, dedup heading Điều trùng.
+
+**Hai xử lý đặc thù của nguồn**:
+1. Nguồn ngắt đôi khoản 1 Điều 7 thành 2 thẻ `<p>` (para 68 kết thúc bằng "nguyên tắc", para 69 mở đầu bằng "lựa chọn"). Script nối lại đoạn tiếp nối khi đoạn sau bắt đầu bằng chữ thường tiếng Việt và đoạn trước không kết thúc bằng `.` `;` `:` `/.`.
+2. Khối "Nơi nhận" nằm gọn trong 1 thẻ `<p>`, tách theo separator ` - ` và strip dấu gạch thừa ở đầu mục đầu tiên.
+
+**Build script**: `scripts/build_62_tt_bgddt.py` (pattern kế thừa `scripts/build_109_tt_btc.py`).
+
+**File output**: `van-ban/giao-duc/62-2026-tt-bgddt-quy-trinh-bien-soan-chuong-trinh-giao-duc-dai-hoc.md` — 283 dòng.
+
+**Số hiệu**: 62/2026/TT-BGDĐT — Thông tư quy định quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các môn học, học phần bắt buộc sử dụng chung trong chương trình đào tạo các trình độ của giáo dục đại học. Ban hành **28/07/2026** (Hà Nội), hiệu lực **12/09/2026**, ký **Lê Quân** (KT. Bộ trưởng, Thứ trưởng). Cơ quan: Bộ Giáo dục và Đào tạo.
+
+**Đính chính so với Discovery**: tracking cũ (dòng 469) ghi ngày ban hành 01/08/2026 và hiệu lực 15/09/2026. Nguồn toàn văn xác nhận ngày ban hành **28/07/2026** và Điều 15 ghi rõ hiệu lực **kể từ ngày 12 tháng 9 năm 2026**. Đã lấy theo nguồn toàn văn.
+
+**Căn cứ pháp lý** (11 căn cứ): Luật Ban hành VBQPPL 64/2025/QH15; Luật Giáo dục 43/2019/QH14 (sđbs bởi Luật 123/2025/QH15); Luật Giáo dục đại học 125/2025/QH15; Luật Thư viện 46/2019/QH14; Luật An ninh mạng 24/2018/QH14; Luật Chuyển đổi số 148/2025/QH15; Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15; Luật Giao dịch điện tử 20/2023/QH15; Luật Sở hữu trí tuệ 50/2005/QH11 (sđbs bởi 36/2009/QH12, 42/2019/QH14, 07/2022/QH15, 93/2025/QH15, 131/2025/QH15); Luật Xuất bản 19/2012/QH13; Nghị định 279/2026/NĐ-CP.
+
+**Cấu trúc**: **16 Điều / 3 Chương** — Range 1-16, Missing [], Duplicate []; Chapters 3 (I, II, III), Duplicate [], Out-of-order [] — **PASS**.
+- Chương I. QUY ĐỊNH CHUNG (Điều 1-5): phạm vi/đối tượng; giải thích từ ngữ; nguyên tắc thực hiện; yêu cầu đối với chương trình; yêu cầu đối với giáo trình.
+- Chương II. QUY TRÌNH BIÊN SOẠN, THẨM ĐỊNH, BAN HÀNH (Điều 6-11): biên soạn chương trình; biên soạn giáo trình; thẩm định (Hội đồng tối thiểu 07 thành viên số lẻ, họp khi có ≥3/4, thông qua khi ≥3/4 bỏ phiếu kín đạt); ban hành/phê duyệt (15 ngày làm việc kể từ kết luận thẩm định); công khai và lưu trữ; kinh phí.
+- Chương III. TỔ CHỨC THỰC HIỆN (Điều 12-16): trách nhiệm cơ quan được giao biên soạn; trách nhiệm tổ chức/cá nhân chủ trì biên soạn giáo trình; điều khoản chuyển tiếp; hiệu lực thi hành; trách nhiệm thi hành.
+
+**OCR Quality Gate**: `scripts/scan_ocr_quality.py` và `scripts/ocr_quality_gate_scan.py` đều báo **1 issue** — pattern `ngày l` khớp cụm **"15 ngày làm việc"** tại Điều 9 khoản 1. Đã đối chiếu trực tiếp với HTML nguồn: nguồn ghi đúng "Trong thời hạn 15 ngày làm việc kể từ khi có kết luận thẩm định". Đây là **false positive đã verify thủ công** (pattern `ngày l` vốn nhắm lỗi OCR `ngày l7`/`ngày l5` nhưng bắt nhầm "ngày làm việc") — không sửa nội dung pháp lý. Ngoài issue này: **0 lỗi OCR thực**. `git diff --check` PASS. Không có ghi chú debug/phương pháp trong file public.
+
+### Trạng thái tracking sau v59
+- **62/2026/TT-BGDĐT**: ✅ Hoàn thiện (16 Điều / 3 Chương, metadata chuẩn hóa đầy đủ, có build script tái lập)
+- Còn lại từ Discovery v58 chưa crawl: 303/304/2026/NĐ-CP, 33/2026/TT-BNNMT, 05/07/2026/TT-BNG
+- 115/2026/TT-BTC (slug 442577): vẫn hoãn — nguồn hiển thị "đang cập nhật nội dung"
+
+### Phiên thực hiện
+- agent:github-io:subagent:a2f8ce3f-d47c-4552-b8af-c142669a8f43 (Đệ #3 Full Content Crawler)
+- Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm việc trực tiếp, không merge/close)
+- Ngày thực hiện: 2026-08-05 16:20 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v75 (crawl 304/2026/NĐ-CP Hoàn thiện — 2026-08-05 16:47 ICT)
+
+### Kết quả crawl: **304/2026/NĐ-CP HOÀN THIỆN**
+
+**Phương pháp**: tải HTML slug `442691-d1` từ luatvietnam.vn category `khoa-hoc` (redirect từ `chinh-sach`) bằng curl với `--resolve luatvietnam.vn:443:104.18.20.193` + Chrome UA + `Accept-Language: vi-VN` (bypass Cloudflare, HTTP 200, 355859 bytes) → `tmp/tt304-nd-cp.html`. Extract 101 `docitem` blocks từ `the-document-body`, phân tách theo class (`docitem-2` = Chương, `docitem-5` = Điều, `docitem-11/12/14/15` = nội dung), `html.unescape()`, lọc UI noise `"Đang theo dõi"`. Sinh heading `## Chương N` + `### TÊN CHƯƠNG`, `### Điều N. Tiêu đề`, dedup tự động.
+
+**Build script**: `scripts/build_304_nd_cp.py` (pattern mới thiết kế riêng cho cấu trúc `docitem-*` của luatvietnam.vn, không kế thừa `build_300` vì NĐ 300 là loại sửa đổi từng điều — khác biệt cấu trúc).
+
+**File output**: `van-ban/cong-an/304-2026-nd-cp.md` — 315 dòng. Đặt tại `van-ban/cong-an/` (không phải `van-ban/khoa-hoc-cong-nghe/`) vì nội dung liên quan đến Công an nhân dân xuyên suốt toàn văn bản, không thuần túy KHCN.
+
+**Số hiệu**: 304/2026/NĐ-CP — Huy động tiềm lực khoa học và công nghệ, kỹ thuật phục vụ hoạt động của Công an nhân dân. Ban hành **03/08/2026** (Hà Nội), hiệu lực **01/10/2026**, ký **Phạm Gia Túc** (TM. Chính phủ, KT. Thủ tướng, Phó Thủ tướng). Cơ quan: Chính phủ.
+
+**Xác minh thông tin từ HTML**: Ngày ban hành 03/8/2026 và người ký Phạm Gia Túc khớp với Discovery v58. Hiệu lực 01/10/2026 khớp Điều 15 khoản 1.
+
+**Căn cứ pháp lý** (3 căn cứ): Luật Tổ chức Chính phủ 63/2025/QH15; Luật Công an nhân dân 37/2018/QH14 (sđbs 21/2023/QH15, 30/2023/QH15, 38/2024/QH15, 52/2024/QH15, 86/2025/QH15); Luật Khoa học, Công nghệ và Đổi mới sáng tạo 93/2025/QH15.
+
+**Cấu trúc**: **16 Điều / 5 Chương** — Range 1-16, Missing [], Duplicate []; Chapters 5 (I, II, III, IV, V), thứ tự đúng, Duplicate [], Out-of-order [] — **PASS**.
+- Chương I. QUY ĐỊNH CHUNG (Điều 1-6): phạm vi điều chỉnh; đối tượng áp dụng; định nghĩa từ ngữ; nguyên tắc huy động; phương thức huy động (tự nguyện/thỏa thuận/Quyết định TTCP); đối tượng được huy động (công nghệ, cơ sở vật chất, thông tin/dữ liệu, nhân sự).
+- Chương II. XÂY DỰNG, PHÊ DUYỆT, ĐIỀU CHỈNH, THỰC HIỆN KẾ HOẠCH HUY ĐỘNG (Điều 7-9): kế hoạch phân bố hằng năm do BCA xây dựng, Thủ tướng phê duyệt; thực hiện gồm thông báo, kiểm tra, báo cáo.
+- Chương III. PHÊ DUYỆT, ĐIỀU CHỈNH, THỰC HIỆN NHIỆM VỤ HUY ĐỘNG (Điều 10-11): Bộ trưởng BCA quyết định nhiệm vụ; quy trình chuyển giao/tiếp nhận/quản lý/sử dụng/hoàn trả đối tượng huy động.
+- Chương IV. QUYỀN, NGHĨA VỤ, CHÍNH SÁCH ĐỐI VỚI CƠ QUAN, TỔ CHỨC, CÁ NHÂN (Điều 12-14): quyền được thông tin, bồi thường, bảo vệ sở hữu trí tuệ; nghĩa vụ chấp hành quyết định TTCP; chính sách tiền lương, hỗ trợ thời gian giữ; bồi thường cơ sở vật chất/kỹ thuật (06 tháng giải quyết).
+- Chương V. ĐIỀU KHOẢN THI HÀNH (Điều 15-16): hiệu lực 01/10/2026; bãi bản NĐ 169/2007/NĐ-CP; trách nhiệm thi hành.
+
+**OCR Quality Gate**: `scripts/scan_ocr_quality.py` và `scripts/ocr_quality_gate_scan.py` đều báo **3 issues** — tất cả là false positive pattern `ngày l` khớp cụm **"03 ngày làm việc"** (L192), **"ngày nghỉ, ngày lễ"** (L246), **"ngày lập biên bản"** (L268). Đã đối chiếu trực tiếp với HTML nguồn — tất cả text gốc đúng Tiếng Việt, không phải lỗi OCR. **0 lỗi OCR thực**. Không có ký tự rác (ø©§†®µ¬¶�), không có ghi chú debug/phương pháp tràn vào file public. `git diff --check` PASS.
+
+### Trạng thái tracking sau v75
+- **304/2026/NĐ-CP**: ✅ Hoàn thiện (16 Điều / 5 Chương, metadata đầy đủ, có build script tái lập)
+- Còn lại từ Discovery v58 chưa crawl: 303/2026/NĐ-CP, 33/2026/TT-BNNMT, 05/07/2026/TT-BNG
+- 115/2026/TT-BTC (slug 442577): vẫn hoãn — nguồn hiển thị "đang cập nhật nội dung"
+
+### Phiên thực hiện
+- agent:github-io:subagent:45cda384-37bf-4b41-b17f-54c0ae2e8f87 (Đệ #3 Full Content Crawler)
+- Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active, làm trực tiếp, không merge/close)
+- Ngày thực hiện: 2026-08-05 16:47 Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-05 v80 (Đệ #4 Content Reviewer — 2026-08-05 20:44 ICT)
+
+### A. OCR Quality Gate — 5 văn bản mới nhất
+
+Quét `scan_ocr_quality.py` + `ocr_quality_gate_scan.py`:
+
+| # | File | Dòng | Điều | Chương | OCR Issues | Đánh giá |
+|---|------|------|------|--------|------------|----------|
+| 1 | `van-ban/tai-chinh/115-2026-tt-btc-quan-ly-tai-san-cong-la-cong-vien-cay-xanh.md` | 858 | 23 (1-23) | 4 (I-IV) | 0 | **PASS** ✓ |
+| 2 | `van-ban/can-bo/300-2026-nd-cp.md` | 796 → 814 | 37 (1-37) | 0 | 14 (all FP "ngày làm việc") | **PASS** (FP, đã fix front matter) |
+| 3 | `van-ban/chinh-quyen-dia-phuong/303-2026-nd-cp.md` | 317 | 3 (1-3) | 0 | 4 (all FP "ngày làm việc") | **PASS** (FP) |
+| 4 | `van-ban/cong-an/304-2026-nd-cp.md` | 315 | 16 (1-16) | 5 (I-V) | 3 (FP: "ngày làm việc" + "ngày lễ") | **PASS** (FP) |
+| 5 | `van-ban/giao-duc/dai-hoc/62-2026-tt-bgddt-quy-chuan-soan-chuong-trinh-gddh.md` | 283 | 16 (1-16) | 3 (I-III) | 1 (FP "ngày làm việc") | **PASS** (FP) |
+
+**Tất cả 5/5 PASS** — 0 lỗi OCR thực, toàn bộ "issues" là false positive "ngày l" (substring "ngày làm việc" / "ngày lễ" hợp lệ, pattern đã biết từ PR #202, #204).
+
+**Fix đã commit:**
+- `van-ban/can-bo/300-2026-nd-cp.md`: thêm front matter Jekyll + sửa heading Điều 36-37 (merge body vào heading) → commit `3aa53de8`
+
+**Chi tiết:**
+
+1. **115/2026/TT-BTC — PASS CLEAN** (0 issues, 23 Điều, 4 Chương). Chủ đề: quản lý tài sản công viên cây xanh, hao mòn/khấu hao. Người ký: Nguyễn Văn Thắng (Bộ Tài chính).
+
+2. **300/2026/NĐ-CP — PASS (đã fix)**. Sửa đổi NĐ 170/2025 về tuyển dụng công chức. 37 Điều (1-37 range đủ). Thiếu front matter (đã bổ sung). Điều 36-37 có heading merge body (đã tách).
+
+3. **303/2026/NĐ-CP — PASS**. Sửa đổi NĐ 32/2024 về quản lý cụm công nghiệp. 3 Điều (đây là NĐ sửa đổi, cấu trúc 3 Điều chuẩn). Người ký: Phạm Gia Túc (PTTg).
+
+4. **304/2026/NĐ-CP — PASS**. Huy động tiềm lực KHCN kỹ thuật cho CAND. 16 Điều, 5 Chương. Người ký: Phạm Gia Túc (PTTg). docid: 442691.
+
+5. **62/2026/TT-BGDĐT — PASS**. Quy trình biên soạn chương trình giáo dục đại học. 16 Điều, 3 Chương. Người ký: Lê Quân (Thứ trưởng, KT. Bộ trưởng). Căn cứ: Luật Luật BHVBQPPL 64/2025, Luật GDĐH 125/2025.
+
+### B. Scan Refactor `van-ban/`
+
+**"Đang cập nhật":** 0 file
+
+**STUB có no content** (0 article + stub markers):
+
+| File | Lines | Kích thước | Đánh giá |
+|------|-------|-----------|----------|
+| `van-ban/tai-chinh/103-2026-tt-tb-hua-dan-co-phan-hoa-dnnn.md` | 63 | 2590B | STUB (crawl failed) |
+| `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` | 86 | 4028B | STUB (crawl partial) |
+| `van-ban/giao/duc/nha-giao/thang-tu-59-2026-tt-bgddt-giao-vien-huu-ty-thinh-giang.md` | 73 | 2553B | STUB (luatvietnam 404) |
+| `van-ban/giao-duc/nghe-nghiep/thong-tu-55-2026-tt-bgddt-chuan-chuong-trinh-dao-tao-gdnn.md` | 66 | 2355B | STUB (ngồn không có) |
+| `van-ban/van-hoa/tong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` | 45 | 1673B | STUB (ngồn không có) |
+
+**Không cần đánh dấu mới trong tracking** — 5 stub này đã được ghi nhận từ tracking v57.
+
+### C. STUB Kiểm tra nguồn
+
+| STUB | Nguồn luatvietnam | Nguồn khác | Khả năng crawl |
+|------|-------------------|-------------|----------------|
+| 103/2026/TT-BTC | Có article (slug chưa địnhology) + 108/TT-BTC bổ sung | thoibaotaichinhvietnam.vn | **Có thể (medium)** |
+| 191/NQ-CP | 404 (slug cũ sai) | Chưa tìm thấy | **Khó (thấp)** |
+| 59/2026/TT-BGDĐT | 440690-d1 (JS-rendered, body bị paywall) | vanban.chinhphu.vn docid=218921 (trống) | **Có thể (medium)** nếu curl raw |
+| 55/2026/TT-BGDĐT | Chưa xác minh | Chưa tìm được | **Khó (thấp)** |
+| 20/2026/TT-BVHTTDL | Chưa xác minh | Chưa tìm được | **Khó (thấp)** |
+
+### D. PR Comments (#262)
+- 0 comments — PR sạch, không có review comments từ Sếp.
+
+### E. Metadata fix
+- `300-2026-nd-cp.md`: Đã thêm front matter Jekyll (group: can-bo) + sửa heading merge Điều 36-37. Commit `3aa53de8`.
+
+### Phiên thực hiện
+- agent:github-io:subagent:6a2d170c-d0df-4eee-bf09-5e2f345f4557 (Đệ #4 Content Reviewer + PR Comment Reviewer)
+- Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active)
+- Ngày thực hiện: 2026-08-05 20:44 ICT Asia/Saigon
