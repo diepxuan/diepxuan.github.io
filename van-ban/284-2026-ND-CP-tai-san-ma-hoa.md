@@ -194,7 +194,7 @@ c) Buộc gỡ bỏ trang thông tin điện tử, phần mềm, hệ thống gi
 các trang thiết bị khác được sử dụng để thực hiện hành vi vi phạm;
 
 đ) Buộc hủy bỏ đợt chào bán, phát hành tài sản mã hóa và buộc phải trả
-lại toàn bộ sô tiên thu được tử đợt chào bán, phát hành tài sản mã hóa;
+lại toàn bộ số tiền thu được từ đợt chào bán, phát hành tài sản mã hóa;
 
 đ) Buộc nộp lại số tiền bằng với giá trị tang vật, phương tiện vi phạm hành
 chính đã bị tiêu thụ, tâu tán, tiêu hủy trái quy định pháp luật.
@@ -335,7 +335,7 @@ thị trường giao dịch tài sản mã hóa thực hiện một trong các h
 
 sau:
 
-a) Không chấm dứt ngay mọi hoạt động ghi trong Giấy phép cung cắp dịch
+a) Không chấm dứt ngay mọi hoạt động ghi trong Giấy phép cung cấp dịch
 vụ tổ chức thị trường giao dịch tài sản mã hóa;
 
 — b) Không thông báo trên 01 tờ báo điện tử hoặc báo in trong 03 số liên
@@ -1129,7 +1129,7 @@ hiện theo văn bản quy phạm pháp luật cỏ hiệu lực tại thời đ
 
 2. Trường hợp Chính phủ quyết định tạm ngừng, đình chỉ, chấm đứt việc
 thực hiện thí điểm thị trường tài sản mã hóa tại Việt Nam theo quy định tại
-khoản 2 Điều 4 Nghị quyết số 05/2025/NQ-CP, các hành vi vì phạm hành chính
+khoản 2 Điều 4 Nghị quyết số 05/2025/NQ-CP, các hành vi vi phạm hành chính
 đã kết thúc trước thời điểm tạm ngừng, đình chỉ, chấm đứt việc thực hiện thí
 điểm thị trường tài sản mã hóa nhưng chưa bị xử phạt thì tiếp tục bị xử phạt
 theo quy định tại Nghị định này; các hành vi vi phạm hành chính đang được

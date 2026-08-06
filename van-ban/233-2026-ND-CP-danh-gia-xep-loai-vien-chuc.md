@@ -362,7 +362,7 @@ thành lập đến thời điểm đánh giá, xếp loại;
 
 Đối với những đơn vị sự nghiệp công lập tổ chức lại thì thực hiện đánh
 giá, xếp loại theo kết quả thực hiện chức năng, nhiệm vụ trước và sau thời điểm
-tô chức lại.
+tổ chức lại.
 
 - 2. Trình tự, thủ tục
 
@@ -608,7 +608,7 @@ Tổ chức cuộc họp tại đơn vị nơi viên chức công tác để nh�
 
 Thành nhphhn tham dự cuộc hạp t bao lu toàn thê viên chức của đơn vị:
 
-lãnh đạo đơn vị, đại diện cấp ủy đảng, các tô chức chính trị - xã hội cùng dấp
+lãnh đạo đơn vị, đại diện cấp ủy đảng, các tổ chức chính trị - xã hội cùng cấp
 và người đứng đầu các đơn vị câu thành; đối với đơn vị có quy mô lớn thì người
 đứng đầu các đơn vị cấu thành có thể tham gia ý kiến bằng văn bản.
 
