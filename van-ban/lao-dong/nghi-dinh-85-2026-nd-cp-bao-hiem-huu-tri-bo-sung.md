@@ -77,16 +77,16 @@ QUY ĐỊNH CHUNG
 ### Điều 1. Phạm vi điều chỉnh
 
 1. Nghị định này quy định về bảo hiểm hưu trí bổ sung theo quy định tại
-khoản 3 Điêu 127 Luật Bảo hiêm xã hội.
+khoản 3 Điều 127 Luật Bảo hiểm xã hội.
 
 2. Nghị định này không điều chỉnh các nội dung sau:
 a) Bảo hiểm xã hội bắt buộc và bảo hiểm xã hội tự nguyện theo quy định
-của Luật Bảo hiêm xã hội.
+của Luật Bảo hiểm xã hội.
 .__ b) Hoạt động cung cấp sản phâm bảo hiểm hưu trí của doanh nghiệp bảo
 hiểm theo quy định của Luật Kinh doanh bảo hiểm và các văn bản hướng dẫn.
 
 .. ) Hoạt động quản lý quỹ đầu tư chứng khoán của các công ty quản lý quỹ
-đâu tư chứng khoán theo quy định của pháp luật chứng khoán.
+đầu tư chứng khoán theo quy định của pháp luật chứng khoán.
 
 ### Điều 2. Đối tượng áp dụng
 
@@ -95,7 +95,7 @@ bô sung.
 
 2. Doanh nghiệp quản lý quỹ bảo hiểm hưu trí bổ sung.
 3. Các tổ chức cung cấp dịch vụ liên quan tới việc thiết lập, hoạt động,
-quản lý, đâu tư, giám sát quỹ bảo hiểm hưu trí bổ sung.
+quản lý, đầu tư, giám sát quỹ bảo hiểm hưu trí bổ sung.
 
 4. Các tổ chức, cá nhân khác có liên quan đến bảo hiểm hưu trí bổ sung.
 ### Điều 3. Giải thích thuật ngữ
@@ -113,12 +113,12 @@ bảo hiểm hưu trí bổ sung và nhận ủy thác đầu tư tài sản c�
 trí bổ sung, sau đây được gọi tắt là doanh nghiệp quản lý quỹ hưu trí.
 
 3. Tài khoản hưu trí cá nhân là tài khoản được cấp cho người lao động
-tham gia bảo hiểm hưu trí bổ sung, được quản lý theo quy định tại Điêu 16 Nghị
+tham gia bảo hiểm hưu trí bổ sung, được quản lý theo quy định tại Điều 16 Nghị
 định này.
 
 4. Tổ chức lưu ký tài sản quỹ bảo hiểm hưu trí bổ sung là tổ chức được
 doanh nghiệp quản lý quỹ hưu trí lựa chọn đề thực hiện lưu ký tài sản quỹ bảo
-hiểm hưu trí bổ sung theo quy định tại Điêu 12 Nghị định này.
+hiểm hưu trí bổ sung theo quy định tại Điều 12 Nghị định này.
 
 5. Ngân hàng giám sát là tổ chức được doanh nghiệp quản lý quỹ hưu trí
 lựa chọn để thực hiện giám sát hoạt động quỹ bảo hiểm hưu trí bổ sung theo
@@ -262,7 +262,7 @@ người lao động ủy thác cho người sử dụng lao động đóng hộ
 
 d) Thực hiện các nghĩa vụ theo quy định tại văn bản thỏa thuận ký giữa
 người sử dụng lao động và người lao động khi tham gia chương trình bảo hiểm
-hưu trí bổ sung đã đăng ký với doanh nghiệp quản lý quỹ hưu trí và Điêu lệ quỹ
+hưu trí bổ sung đã đăng ký với doanh nghiệp quản lý quỹ hưu trí và Điều lệ quỹ
 bảo hiểm hưu trí bổ sung đăng ký tham gia.
 
 đ) Cung cấp đầy đủ, kịp thời và chính xác các thông tin liên quan đến
@@ -331,7 +331,7 @@ c) Tuân thủ các quy định tại Nghị định này và quy định của 
 liên quan.
 
 ### Mục 2
-THIẾT LẬP QUÝ BẢO HIỂM HƯU TRÍ BỔ SUNG
+THIẾT LẬP QUỸ BẢO HIỂM HƯU TRÍ BỔ SUNG
 
 ### Điều 9. Thiết lập chương trình bảo hiểm hưu trí bổ sung
 
@@ -493,7 +493,7 @@ c) Tổ chức lưu ký.
 đ) Các tổ chức cung cấp dịch vụ liên quan khác (nếu có).
 
 e) Mục tiêu, chính sách đầu tư của quỹ hưu trí theo quy định tại Điều 19
-Nghị định này và quy trình, thủ tục thay đôi chính sách đâu tư (nêu có).
+Nghị định này và quy trình, thủ tục thay đôi chính sách đầu tư (nêu có).
 
 đ) Quyển và nghĩa vụ của người lao động tham gia quỹ, người sử dụng lao
 động, doanh nghiệp quản lý quỹ hưu trí, tổ chức lưu ký, ngân hàng giám sát và
@@ -533,7 +533,7 @@ bảo hiểm hưu trí bổ sung.
 ### Điều 12. Tổ chức lưu ký tài sản
 
 1. Tổ chức lưu ký tài sản quỹ bảo hiểm hưu trí bổ sung phải đáp ứng các
-điêu kiện sau:
+điều kiện sau:
 
 a) Là ngân hàng thương mại có Giấy chứng nhận đăng ký hoạt động lưu
 ký chứng khoán do Ủy ban Chứng khoán Nhà nước cấp.
@@ -656,7 +656,7 @@ ngân hàng giám sát đôi với hoạt động quản lý quỹ hưu trí.
 
 e) Định kỳ hằng năm, ngân hàng giám sát báo cáo Bộ Tài chính về tài sản
 của quỹ hưu trí, kêt quả giám sát quỹ hưu trí, đánh giá về quản trị rủi ro, đánh
-giá việc tuân thủ quy định về quản lý, đâu tư quỹ hưu trí.
+giá việc tuân thủ quy định về quản lý, đầu tư quỹ hưu trí.
 14
 
 đ) Trường hợp phát hiện vi phạm quy định của pháp luật hoặc chương
@@ -769,7 +769,7 @@ a) Người tham gia quỹ được sở hữu khoản đóng góp của mình v
 khoản hưu trí cá nhân theo quy định tại Điều lệ quỹ hưu trí.
 
 b) Người lao động tham gia quỹ được sở hữu khoản đóng góp của người
-sử dụng lao động và kết quả đâu tư sau khi trừ đi các chỉ phí liên quan nêu đáp
+sử dụng lao động và kết quả đầu tư sau khi trừ đi các chỉ phí liên quan nêu đáp
 ứng được các điều kiện tại văn bản thỏa thuận giữa người lao động hoặc tập thể
 người lao động được đại diện bởi Chủ tịch Công đoàn và người sử dụng lao
 động về việc tham gia quỹ hưu trí.
@@ -810,7 +810,7 @@ bảo hiểm hưu trí bổ sung mới. Việc chuyển tài khoản hưu trí c
 chương trình không được coi là chi trả từ quỹ hưu trí.
 
 8. Việc duy trì hợp đồng bảo hiểm hưu trí bổ sung theo quy định tại điểm
-đ khoản 11 Điêu 8 Nghị định này được thực hiện như sau:
+đ khoản 11 Điều 8 Nghị định này được thực hiện như sau:
 
 a) Khi người lao động chấm dứt hợp đồng lao động với người sử dụng lao
 động hoặc đến tuổi nghỉ hưu, tài khoản hưu trí cá nhân được chuyền sang tài
@@ -903,12 +903,12 @@ của quỹ tại Điều lệ quỹ bảo hiểm hưu trí bổ sung, trừ cá
 mại đang được kiêm soát đặc biệt.
 
 d) Trái phiếu, chứng chỉ tiền gửi của các ngân hàng thương mại phù hợp
-với chính sách đâu tư của quỹ tại Điêu lệ quỹ bảo hiểm hưu trí bổ sung, trừ các
+với chính sách đầu tư của quỹ tại Điều lệ quỹ bảo hiểm hưu trí bổ sung, trừ các
 ngân hàng thương mại đang được kiêm soát đặc biệt.
 
 đ) Cổ phiếu niêm yết, trái phiếu niêm yết trên thị trường chứng khoán,
-chứng chỉ quỹ đâu tư chứng khoán theo điêu kiện quy định về chính sách đâu
-tư của quỹ tại Điêu lệ quỹ bảo hiểm hưu trí bổ sung.
+chứng chỉ quỹ đầu tư chứng khoán theo điều kiện quy định về chính sách đâu
+tư của quỹ tại Điều lệ quỹ bảo hiểm hưu trí bổ sung.
 
 4. Cơ cầu đầu tư của quỹ hưu trí phải đảm bảo:
 
@@ -954,11 +954,11 @@ quỹ mà thời gian hoạt động chưa quá 06 tháng.
 đ) Quỹ đang trong thời gian giải thẻ.
 
 e) Các tài sản đang đầu tư của quỹ không còn đáp ứng các tiêu chí đầu tư
-theo quy định tại Nghị định này, Điêu lệ quỹ và chính sách đâu tư của quỹ.
+theo quy định tại Nghị định này, Điều lệ quỹ và chính sách đầu tư của quỹ.
 
 6. Quỹ hưu trí không được gửi tiền tại doanh nghiệp quản lý quỹ hưu trí
 hoặc người có liên quan với doanh nghiệp quản lý quỹ hưu trí theo quy định về
-người có liên quan tại khoản 23 Điêu 4 Luật Doanh nghiệp.
+người có liên quan tại khoản 23 Điều 4 Luật Doanh nghiệp.
 
 ### Điều 20. Kế toán quỹ bảo hiểm hưu trí bổ sung
 
@@ -1028,7 +1028,7 @@ và chỉ phí hoạt động quỹ hưu trí, xác định giá trị tài kho�
 c) Xác định giá trị tài khoản hưu trí cá nhân hằng tháng.
 
 d) Lập và gửi người tham gia quỹ báo cáo giá trị tài khoản hưu trí cá nhân
-hàng tháng theo quy định tại Điêu 28 Nghị định này.
+hàng tháng theo quy định tại Điều 28 Nghị định này.
 
 2. Doanh nghiệp quản lý quỹ hưu trí phải chịu trách nhiệm đối với người
 tham gia quỹ về tính chính xác của hoạt động cung cấp dịch vụ quản trị tài
@@ -1230,7 +1230,7 @@ VÈẺ BẢO HIỂM HƯU TRÍ BỔ SUNG
 1. Trước khi ký hợp đồng tham gia quỹ hưu trí, doanh nghiệp quản lý quỹ
 
 hưu trí phải cung cấp tài liệu giới thiệu về quỹ hưu trí cho các đối tượng tham
-gia quỹ hưu trí quy định tại Điêu 4 Nghị định này.
+gia quỹ hưu trí quy định tại Điều 4 Nghị định này.
 26
 
 2. Tài liệu giới thiệu về chương trình bảo hiểm hưu trí bổ sung và các quỹ
@@ -1409,20 +1409,20 @@ trong thời hạn 02 ngày làm việc, kể từ thời điểm phát hiện v
 yêu cầu thực hiện sửa lỗi hoặc thực hiện các hoạt động khắc phục hậu quả trong
 thời hạn quy định.
 
-3. Ngoài các trường hợp báo cáo theo quy định tại khoản ] và khoản 2
-Điều này, trong trường hợp cân thiết, cơ quan quản lý có quyền yêu cầu ngân
+3. Ngoài các trường hợp báo cáo theo quy định tại khoản 1 và khoản 2
+Điều này, trong trường hợp cần thiết, cơ quan quản lý có quyền yêu cầu ngân
 hàng giám sát báo cáo bất thường về việc giám sát quỹ hưu trí. Ngân hàng giám
-sát thực hiện báo cáo cơ quan quản lý trong thời hạn 02 ngày làm việc kế từ khi
+sát thực hiện báo cáo cơ quan quản lý trong thời hạn 02 ngày làm việc kể từ khi
 nhận được yêu cầu.
 
-- : Chương II - cà.
-DOANH NGHIỆP QUẢN LÝ QUÝ BẢO HIẾM HƯU TRÍ BÒ SUNG
+## Chương III
+DOANH NGHIỆP QUẢN LÝ QUỸ BẢO HIỂM HƯU TRÍ BỔ SUNG
 
 ### Điều 32. Điều kiện cấp Giấy chứng nhận đủ điều kiện kinh doanh
 
 1. Là doanh nghiệp thành lập hợp pháp tại Việt Nam được phép hoạt động
 trong các lĩnh vực: Quản lý quỹ, bảo hiểm nhân thọ theo quy định của pháp luật
-chuyên ngành và đáp ứng được các điêu kiện sau:
+chuyên ngành và đáp ứng được các điều kiện sau:
 30
 
 a) Đối với công ty quản lý quỹ phải có ít nhất 05 năm kinh nghiệm trong
@@ -1435,8 +1435,8 @@ b) Đối với doanh nghiệp bảo hiểm nhân thọ phải đáp ứng đủ
 triển khai sản phẩm bảo hiểm hưu trí và thực hiện quản lý quỹ hưu trí theo quy
 định của pháp luật về kinh doanh bảo hiểm.
 
-2. Có dự thảo Điêu lệ quỹ đối với mỗi quỹ hưu trí dự kiến thành lập đáp
-ứng quy định tại Điêu 11 Nghị định này.
+2. Có dự thảo Điều lệ quỹ đối với mỗi quỹ hưu trí dự kiến thành lập đáp
+ứng quy định tại Điều 11 Nghị định này.
 
 3. Có phương án kinh doanh dịch vụ quản lý quỹ hưu trí gồm những nội
 dung cơ bản sau:
@@ -1448,7 +1448,7 @@ cấp dịch vụ theo quy định tại khoản 5 Điều 9 Nghị định này
 chương trình bảo hiểm hưu trí bổ sung; phương án phát triển đối tượng tham gia.
 
 b) Phương án về cơ sở hạ tầng công nghệ thông tin để quản lý từng tài
-khoản hưu trí cá nhân đảm bảo thực hiện các hoạt động đóng góp, đâu tư, thanh
+khoản hưu trí cá nhân đảm bảo thực hiện các hoạt động đóng góp, đầu tư, thanh
 toán chỉ phí, thuế, tiền phạt và chi trả các đối tượng liên quan.
 
 c) Có mẫu hợp đồng khung về tham gia quỹ hưu trí đáp ứng điều kiện quy
@@ -1475,7 +1475,7 @@ quy định tại Điều 11 Nghị định này.
 3. Phương án kinh doanh dịch vụ quản lý quỹ hưu trí:
 
 a) Kế hoạch hoạt động quản lý quỹ hưu trí theo quy định tại điểm a khoản 3
-Điêu 32 Nghị định này.
+Điều 32 Nghị định này.
 
 b) Phương án về cơ sở hạ tầng công nghệ thông tin để quản lý từng tài
 khoản hưu trí cá nhân đảm bảo thực hiện các hoạt động đóng góp, đầu tư, thanh
@@ -1483,7 +1483,7 @@ toán chỉ phí, chi trả cho người tham gia quỹ và người sử dụng
 toán thuế thu nhập cá nhân.
 
 c) Mẫu hợp đồng khung về tham gia quỹ hưu trí đáp ứng điều kiện quy
-định tại Điêu 15 Nghị định này.
+định tại Điều 15 Nghị định này.
 
 đ) Quy trình quản trị rủi ro, kiểm soát nội bộ.
 
@@ -1647,7 +1647,7 @@ bản đến Bộ Tài chính:
 hưu trí.
 
 3. Bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp, Giấy phép hoạt động
-trong lĩnh vực bảo hiểm hoặc quản lý quỹ đâu tư chứng khoán.
+trong lĩnh vực bảo hiểm hoặc quản lý quỹ đầu tư chứng khoán.
 
 4. Bị đình chỉ hoạt động quản lý quỹ đầu tư chứng khoán.
 ### Điều 39. Thu hồi Giấy chứng nhận đủ điều kiện kinh doanh
@@ -1715,7 +1715,7 @@ nghiệp quản lý quỹ hưu trí khác.
 
 __6. Doanh nghiệp quản lý quỹ hưu trí đã bị thu hồi Giấy chứng nhận đủ
 điều kiện kinh doanh không được nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ
-điêu kiện kinh doanh dịch vụ quản lý quỹ bảo hiểm hưu trí bổ sung trong vòng
+điều kiện kinh doanh dịch vụ quản lý quỹ bảo hiểm hưu trí bổ sung trong vòng
 03 năm kể từ ngày bị thu hồi Giấy chứng nhận.
 36
 
@@ -1728,10 +1728,10 @@ hợp với yêu cầu quản lý và nhu cầu của các đối tượng tham 
 trí bổ sung theo quy định tại Điều 9 Nghị định này.
 
 b) Quyết định về số lượng quỹ hưu trí và chính sách đầu tư quỹ hưu trí
-theo quy định tại Điêu lệ quỹ và các quy định tại Nghị định này.
+theo quy định tại Điều lệ quỹ và các quy định tại Nghị định này.
 
 ) Được chi trả chỉ phí tổ chức và hoạt động quản lý bảo hiểm hưu trí bổ
-sung theo quy định tại Điêu 18 Nghị định này.
+sung theo quy định tại Điều 18 Nghị định này.
 
 d) Được thuê các tổ chức cung cấp dịch vụ gồm: tỗ chức lưu ký tài sản,
 ngân hàng giám sát, tô chức cung câp dịch vụ quản trị tài khoản hưu trí cá nhân
@@ -1800,7 +1800,7 @@ bảo hiểm hưu trí bổ sung.
 định tại Nghị định này.
 
 c4, Đền bù thiệt hại cho người tham gia quỹ (nếu có) theo quy định tại
-Điêu 23 Nghị định này.
+Điều 23 Nghị định này.
 
 5. Chịu sự giám sát, kiểm tra, thanh tra của cơ quan quản lý nhà nước theo
 quy định của pháp luật. Trường hợp vi phạm quy định của pháp luật khi cung
@@ -1808,7 +1808,7 @@ cấp dịch vụ theo quy định tại Nghị định này, tùy theo tính ch
 phạm sẽ bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự.
 
 6. Thực hiện công bố thông tin khi vi phạm trong lĩnh vực quản lý quỹ hưu
-trí, quản lý quỹ đâu tư chứng khoán, kinh doanh bảo hiểm theo quyết định của cơ
+trí, quản lý quỹ đầu tư chứng khoán, kinh doanh bảo hiểm theo quyết định của cơ
 quan nhà nước có thâm quyên trên trang thông tin điện tử của doanh nghiệp trong
 vòng 10 ngày kể từ ngày nhận được quyết định xử phạt vi phạm hành chính.
 
@@ -1904,12 +1904,12 @@ nguyện (bao gồm: số lượng quỹ hưu trí đang quản lý, số doanh 
 lao động và sô người tham gia quỹ, giá trị tài sản ròng và cơ cầu đầu tư của
 từng quỹ, các tổ chức cung cấp dịch vụ liên quan...).
 
-b) Trong vòng 06 tháng kế từ khi Nghị định này có hiệu lực thi hành, cập
+b) Trong vòng 06 tháng kể từ khi Nghị định này có hiệu lực thi hành, cập
 nhật các tài liệu về chương trình hưu trí bổ sung tự nguyện theo quy định tại
 Nghị định này và công khai trên trang thông tin điện tử của doanh nghiệp quản
 lý quỹ hưu trí.
 
-) Trong vòng 12 tháng kế từ khi Nghị định này có hiệu lực thi hành, điều
+) Trong vòng 12 tháng kể từ khi Nghị định này có hiệu lực thi hành, điều
 chỉnh cơ cấu đầu tư của các quỹ bảo hiểm hưu trí bổ sung theo quy định tại
 Nghị định này. Trong thời gian điều chỉnh danh mục đầu tư, cơ cấu đầu tư của
 các quỹ bảo hiểm hưu trí bổ sung, các doanh nghiệp quản lý quỹ hưu trí được
@@ -2042,7 +2042,7 @@ Trình độ chuyên môn và kinh nghiệm làm việc: .......................
 Điện thoại: ........................ 20 PA nã" an n..ố.
 
 12. 05 người lao động đáp ứng điều kiện có ít nhất 05 năm làm việc trực tiếp
-trong lĩnh vực quản lý quỹ hưu trí, quản lý quỹ đâu tư chứng khoán hoặc quản lý
+trong lĩnh vực quản lý quỹ hưu trí, quản lý quỹ đầu tư chứng khoán hoặc quản lý
 quỹ chủ hợp đông bảo hiểm
 
 (1) Họ và tên: ....................................... Giới tính:.........................- s-cc+
@@ -2195,7 +2195,7 @@ tham gia.
 2. Nội dung cơ bản của chương trình bảo hiểm hưu trí bổ sung:
 
 Nội dung cơ bản của chương trình bảo hiểm hưu trí bổ sung theo quy định
-tại Điêu 9 Nghị định này, trong đó bao gồm các thông tin cơ bản sau:
+tại Điều 9 Nghị định này, trong đó bao gồm các thông tin cơ bản sau:
 
 - Đối tượng và điều kiện tham gia chương trình.
 
@@ -2292,7 +2292,7 @@ lao động và người lao động và phải được lập thành văn bản
 IV. QUYÈN VÀ NGHĨA VỤ CỦA NGƯỜI LAO ĐỘNG
 
 1. Quyền của người lao động tham gia chương trình bảo hiểm hưu trí bổ
-sung theo quy định tại khoản 1 Điêu 8 Nghị định này, trong đó nêu rõ các nội
+sung theo quy định tại khoản 1 Điều 8 Nghị định này, trong đó nêu rõ các nội
 dung cơ bản sau:
 
 - Quyết định việc tham gia hoặc ngừng tham gia chương trình bảo hiểm hưu
@@ -2353,7 +2353,7 @@ nêu rõ các nội dung cơ bản sau:
 bản thỏa thuận có liên quan đến trách nhiệm và nghĩa vụ của mình.  _.
 
 ._ Được nhận lại khoản đóng góp của mình cho người lao động và kết quả
-đâu tư từ khoản đóng góp này trong các trường hợp được quy định tại chương
+đầu tư từ khoản đóng góp này trong các trường hợp được quy định tại chương
 trình bảo hiểm hưu trí bổ sung và văn bản thỏa thuận.
 
 - Đơn phương chấm dứt thực hiện văn bản thỏa thuận khi người lao động vi
@@ -2458,7 +2458,7 @@ quỹ hưu trí trong kỳ
 Tổng giá trị các khoản chi trả từ quỹ
 hưu trí trong kỳ
 
-g giá trị đâu tư cuối kỳ
+g giá trị đầu tư cuối kỳ
 
 2. Báo cáo đối với từng quỹ hưu trí đang quản lý
 (Chỉ tiết đối với từng quỹ bảo hiểm hưu trí bổ sung đang quản lý)
@@ -2614,7 +2614,7 @@ Thay đổi về giá trị của các khoản đầu tư
 trong kỳ
 
 Thay đổi của giá trị tài sản ròng của Quỹ do
-các hoạt động đâu tư trong kỳ (II + IV)
+các hoạt động đầu tư trong kỳ (II + IV)
 
 Lũy kế từ
 
@@ -2688,10 +2688,10 @@ doanh nghiệp quản lý quỹ trong việc quản lý quỹ hưu trí.
 NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
 (Ký tên, ghi rõ họ và tên và đóng dấu)
 Mẫu số 05
-BÁO CÁO KÉT QUẢ THỰC HIỆN KIỂM TRA VÀ GIÁM SÁT CỦA
+BÁO CÁO KẾT QUẢ THỰC HIỆN KIỂM TRA VÀ GIÁM SÁT CỦA
 
-NGÂN HÀNG GIÁM SÁT ĐÓI VỚI DOANH | NGHIỆP QUẢN LÝ
-QUÝ TRONG VIỆC QUẢN LÝ QUỸ HƯU TRÍ
+NGÂN HÀNG GIÁM SÁT ĐỐI VỚI DOANH NGHIỆP QUẢN LÝ
+QUỸ TRONG VIỆC QUẢN LÝ QUỸ HƯU TRÍ
 
 Kính gửi: Bộ Tài chính
 
@@ -2753,7 +2753,7 @@ trị tài khoản hưu trí cá nhân.
 CỦA NGÂN HÀNG GIÁM SÁT
 (Ký tên, ghi rõ họ và tên và đóng dấu)
 À Phụ lục IV
-H ÑC( Ơ BẢN ĐÓI VỚI TÀI SẢN ĐẦU TƯ
+H ÑC( Ơ BẢN ĐỐI VỚI TÀI SẢN ĐẦU TƯ
 š.BẢO HIỂM HƯU TRÍ BÓ SUNG
 ỗo Nghị định số 85/2026/NĐ-CP
 Jtháng 3 năm 2026 của Chính phủ)

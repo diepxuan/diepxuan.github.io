@@ -150,7 +150,7 @@ vụ hoặc buộc phải cung cấp dịch vụ chuyển mạng, đảm bảo h
 dịch vụ chuyển mạng tại doanh nghiệp và đường truyền dẫn kết nối tới Trung.
 tâm chuyển mạng hoạt động ổn định, thông suốt để thực hiện việc chuyển.
 mạng,
-a) Buộc nộp lại số tiền đóng góp nghĩa vụ tải chính chậm nộp cho Quỹ
+a) Buộc nộp lại số tiền đóng góp nghĩa vụ tài chính chậm nộp cho Quỹ
 dịch vụ Quỹ dịch vụ viễn thông công ích Việt Nam và truy thu khoản tiền lãi của số tiền
 chậm nộp tính theo lãi suất tối đa áp dụng đối với tiền gửi không kỳ hạn do
 Ngân hàng Nhà nước Việt Nam công bố tại thời điểm xử phạt;
@@ -1057,7 +1057,7 @@ nước không đúng quy định.
 cấp dịch vụ viễn thông công ích không theo đúng danh mục dịch vụ viễn thông
 công Ích.
 3. Phạt tiền từ 50.000.000 đồng đến 70.000.000 đồng đối với hành vi thực
-hiện quyết toán số tiền phải đóng góp tải chính với Quỹ Dịch vụ viễn thông.
+hiện quyết toán số tiền phải đóng góp tài chính với Quỹ Dịch vụ viễn thông.
 công ích Việt Nam không đúng thời hạn quy định.
 4. Phạt tiền từ 100.000.000 đồng đến 140.000.000 đồng đối với một trong,
 các hành vi sau:
@@ -4060,7 +4060,7 @@ c) Không có bảng niêm yết danh sách cập nhật các trò chơi trên m
 3. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với một trong.
 các hành vi sau:
 a) Thiết lập điểm. cụng, cấp dịch vụ trò chơi điện tử công cộng mà không.
-có Giấy chứng nhận đủ điêu kiện hoạt động điểm cung cấp dịch vụ trò chơi
+có Giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi
 điện tử công cộng;
 b) Thiết lập điểm cung cấp dịch vụ trò chơi điện tử công cộng nhưng không
 ký hợp đồng đại lý Internet hoặc không có văn bản của doanh nghiệp cung cấp.
