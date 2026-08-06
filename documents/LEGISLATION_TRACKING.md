@@ -1,3 +1,36 @@
+## Cập nhật 2026-08-06 v94 (Đệ #1 Discovery & Tracking — 2026-08-06 20:39 ICT)
+
+### Kết quả discovery: 0 văn bản mới
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc 20:39 ICT 6/8. So với ref v93.
+
+**MD5 comparison** (so với v93):
+- NĐ: `23553db37114f2cc3ecf513220a57416` — **UNCHANGED** (giống v93)
+- TT: `59062d8a7f6f3b500befc786a9e9e782` — **UNCHANGED** (giống v93)
+
+**Kết luận**: Sitemap luatvietnam.vn không thay đổi từ đợt discovery v93 (17:59 ICT). Max d1 slug vẫn là 442906 (NĐ) và 442774 (TT).
+
+### Trạng thái các VB từ v93 (đã crawl hết)
+
+| # | Số hiệu | Slug | Trạng thái |
+|---|--------|------|------------|
+| 1 | 309/2026/NĐ-CP | 442906-d1 | ✅ Đã crawl (v95) |
+| 2 | 308/2026/NĐ-CP | 442905-d1 | ✅ Đã crawl (v95) |
+| 3 | 310/2026/NĐ-CP | 442903-d1 | ✅ Đã crawl (v95) |
+
+### VB backlog từ v82/v88 (đã crawl hết)
+
+Tất cả 10 VB backlog đã hoàn thành crawl (302, 305, 306, 307 NĐ-CP; 01/NĐ-CP; 114, 111/TT-BTC; 87/TT-BQP; 33/TT-BNNMT; 05/TT-BNG).
+
+### Nguồn phụ
+
+- vanban.chinhphu.vn: JS-rendered, không extract được text
+- Web search: 0 kết quả văn bản QPPL mới ngày 05-06/08/2026
+
+Chi tiết: `tmp/discovery-v94/REPORT.md`
+
+---
+
 ## Cập nhật 2026-08-06 v95 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 19:40 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB

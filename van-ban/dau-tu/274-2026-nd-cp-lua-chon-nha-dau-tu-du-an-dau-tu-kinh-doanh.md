@@ -126,7 +126,7 @@ biện pháp thi hành Luật Đầu thầu về lựa chọn nhà thầu.
 __ 1, Tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động lựa chọn nhà
 đầu tư thực biện dự án đầu tư kinh doanh quy định tại Điều 4 của Nghị định này.
 2. Tổ chức, cá nhân có hoạt động đầu thầu không thuộc các trường hợp
-quy định tại Điêu 4 của Nghị định này được chọn áp dụng Luật Đấu thầu theo
+quy định tại Điều 4 của Nghị định này được chọn áp dụng Luật Đấu thầu theo
 quy định tại khoản 4 Điều 2 của Luật Đấu thầu.
 ### Điều 3.Giải thích từ ngữ
 
@@ -166,7 +166,7 @@ a) Dự án đầu tư có sử dụng đất theo quy định tại điểm a k
 của Luật Đật đai;
 b) Dự án đầu tư có sử dụng đất thuộc trường hợp phải tổ chức đấu thầu
 theo quy định của pháp luật quản lý ngành, lĩnh vực theo quy định tại điểm b `
-khoản 1 Điêu 126 của Luật Đất đai;
+khoản 1 Điều 126 của Luật Đất đai;
 c) Dự án thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp
 luật quản lý ngành, lĩnh vực mà không thuộc trường hợp quy định tại điểm a,
 điểm b khoản này (sau đây gọi là dự án đầu tư không sử dụng đất) và không
@@ -216,7 +216,7 @@ a) Thuộc trường hợp thu hồi đất theo quy định tại Điều 79 c�
 chức của Nhà nước được giao quản lý và thuộc trường hợp cho thuê đất theo
 quy định tại khoản 2 Điều 4 Nghị quyết số 254/2025/QH15.
 Trường hợp trong khu đất thực hiện dự án có phần đất quy định tại khoản
-1 Điêu 217 của Luật Đất đai thì Nhà nước thu hôi đê giao, cho thuê đât thông
+1 Điều 217 của Luật Đất đai thì Nhà nước thu hôi đê giao, cho thuê đât thông
 qua đầu thâu lựa chọn nhà đầu tư thực hiện dự án đôi với cả khu đất.
 ,_ b)Thuộc danh mục các khu đất thực hiện đấu thầu dự án đầu tư có sử dụng
 đât được Hội đông nhân dân cấp tỉnh quyết định theo quy định của pháp luật
@@ -472,7 +472,7 @@ ngân sách nhà nước trong thời hạn 03 ngày làm việc kể từ thờ
 ### Điều 8.Chi phí giải quyết kiến nghị của nhà đầu tư về kết quả lựa
 chọn nhà đầu tư
 
-„1, Trường hợp có kiến nghị về kết quả lựa chọn nhà đầu tư do người có
+1. Trường hợp có kiến nghị về kết quả lựa chọn nhà đầu tư do người có
 thâm quyên giải quyết, nhà đầu tư có trách nhiệm nộp kinh phí giải quyêt kiên
 nghị cho bộ phận thường trực giúp việc của Hội đồng giải quyết kiến nghị đông
 thời với đơn kiên nghị.
@@ -486,7 +486,7 @@ trường hợp Hội đồng giải quyết kiến nghị đã tổ chức họ
 tư không được hoàn trả lại chỉ phí giải quyết kiến nghị.
 Đối với chỉ phí nhà đầu tư đã nộp còn lại, bộ phận thường trực giúp việc
 của Hội đông giải quyết kiên nghị nộp vào ngân sách nhà nước trong thời hạn
-07 ngày làm việc kê từ thời điểm nhà đầu tư rút đơn kiến nghị.
+07 ngày làm việc kể từ thời điểm nhà đầu tư rút đơn kiến nghị.
 3. Bộ phận thường trực giúp việc của Hội đồng giải quyết kiến nghị lập và
 trình Chủ tịch Hội đông giải quyết kiến nghị phê duyệt dự toán chỉ giải quyết
 kiên nghị của nhà đầu tư theo từng vụ việc.
@@ -528,7 +528,7 @@ bên mời thầu theo quy định của pháp luật.
 ### Điều 9.Quy trình, thủ tục lựa chọn nhà đầu tư
 
 1. Đối với dự án áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế
-theo phương thức một giai đoạn một túi hồ sơ quy định tại khoản 1 Điêu 35 của
+theo phương thức một giai đoạn một túi hồ sơ quy định tại khoản 1 Điều 35 của
 Luật Đâu thâu:
 a) Công bố dự án đầu tư kinh doanh;
 b) Chuẩn bị đầu thầu lựa chọn nhà đầu tư;
@@ -730,7 +730,7 @@ hoạt động lựa chọn nhà đầu tư trên Hệ thống mạng đấu th�
 a) Một : trong các quy hoạch thuộc hệ thống quy hoạch theo quy định của
 pháp luật về quy hoạch trong trường hợp có sự thay đôi về quy hoạch có liên
 
-quan kế từ thời điểm chấp thuận chủ trương đầu tư hoặc phê duyệt thông tin
+quan kể từ thời điểm chấp thuận chủ trương đầu tư hoặc phê duyệt thông tin
 dự án;
 Trường hợp dự án đầu tư kinh doanh có nhiều công năng, dự án được xác
 định căn cứ công trình chính của dự án hoặc công trình chính có cấp cao nhất
@@ -889,7 +889,7 @@ PHƯƠNG THỨC MỘT GIAI ĐOẠN MỘT TÚI HÒ SƠ
 
 ### Điều 19.Mỡ thầu
 
-1. Việc mở thầu phải được tiến hành công khai trong thời hạn 02 giờ kế từ
+1. Việc mở thầu phải được tiến hành công khai trong thời hạn 02 giờ kể từ
 thời điểm đóng thầu. Bên mời thầu chỉ mở các hồ sơ dự thầu đã nhận được
 trước thời điểm đóng thầu theo yêu cầu của hồ sơ mời thầu trước sự chứng kiến
 của đại diện các nhà đầu tư tham dự lễ mở thầu, không phụ thuộc vào sự có mặt
@@ -1413,7 +1413,7 @@ của Nghị định này.
 đồng dự án
 
 1. Việc trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà đầu tư
-thực hiện theo quy định tại Điêu 28 và Điều 29 của Nghị định này.
+thực hiện theo quy định tại Điều 28 và Điều 29 của Nghị định này.
 2. Việc đàm phán, hoàn thiện và ký kết hợp đồng; công khai thông tin hợp
 đồng dự án thực hiện theo quy định tại Điều 30 và Điều 31 của Nghị định này.
 ## Chương IV
@@ -1583,7 +1583,7 @@ sơ. Việc làm rõ hồ sơ được thực hiện trên Hệ thống mạng �
 kinh doanh
 
 1. Việc mở thầu được thực hiện trên Hệ thống mạng đầu thầu quốc gia và
-bắt đầu ngay trong thời hạn 02 giờ kế từ thời điểm hết hạn nộp hồ sơ đăng ký
+bắt đầu ngay trong thời hạn 02 giờ kể từ thời điểm hết hạn nộp hồ sơ đăng ký
 thực hiện dự án đầu tư kinh doanh.
 2. Bên mời quan tâm tô chức đánh giá hồ sơ đăng ký thực hiện dự án đầu
 
@@ -1836,12 +1836,12 @@ CHI ĐỊNH NHÀ ĐÁU TƯ
 ### Điều 47.Đự án áp dụng hình thức chỉ định nhà đầu tư
 
 1. Các dự án áp dụng hình thức chỉ định nhà đầu tư được quy định tại
-khoản 2a Điêu 34 của Luật Đâu thâu, gồm:
+khoản 2a Điều 34 của Luật Đâu thâu, gồm:
 a) Dự án do nhà đầu tư đề xuất mà nhà đầu tư đó có quyền sở hữu hoặc quyền
 sử dụng đối với công nghệ thuộc danh mục công nghệ chiên lược và sản phâm
 công nghệ chiên lược theo quy định của pháp luật về khoa học, công nghệ và đổi
 mới sáng tạo, pháp luật về công nghệ cao;
-„ b) Dự án cần tiếp tục lựa chọn nhà đầu tư trước đó đã triển khai hạ tầng
+b) Dự án cần tiếp tục lựa chọn nhà đầu tư trước đó đã triển khai hạ tầng
 sô, nên tảng sô nhăm bảo đảm tương thích, đông bộ, kết nôi vê kỹ thuật;
 c) Dự án cần đây nhanh tiến độ, thúc đây phát triển kinh tế - xã hội, bảo
 đảm lợi ích quốc gia do nhà đầu tư để xuất theo quy định tại khoản 2 Điều này.
@@ -1871,7 +1871,7 @@ tướng Chính phủ tại báo cáo tình hình thực hiện hoạt động �
 
 1. Quy trình chỉ định nhà đầu tư
 
-„ 3) Quy trình thông thường được áp dụng đối với dự án do cơ quan có thẩm
+3) Quy trình thông thường được áp dụng đối với dự án do cơ quan có thẩm
 quyền lập hồ sơ đê nghị châp thuận chủ trương đầu tư (đối với dự án thuộc diện
 chập thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư) hoặc hô sơ.
 đề xuất dự án (đôi với dự án không thuộc diện châp thuận chủ trương đầu tư);
@@ -2014,7 +2014,7 @@ các tiêu chí sau đây:
 a) Yêu cầu về vôn chủ sở hữu được xác định trên cơ sở tông vỗn đầu tư
 của dự án;
 Yêu cầu về vốn chủ sở hữu tối thiểu đối với dự án bất động sản và dự án
-._ quy định tại các điểm d, đ và h khoản 2 Điêu 4 của Nghị định này được xác
+._ quy định tại các điểm d, đ và h khoản 2 Điều 4 của Nghị định này được xác
 ˆ định theo quy định của pháp luật về kinh doanh bất động sản.
 Trường hợp liên danh, vốn chủ sở hữu của nhà đầu tư liên danh bằng tổng
 vốn chủ sở hữu của các thành viên liên danh, từng thành viên liên danh phải
@@ -2048,7 +2048,7 @@ nhà thầu nước ngoài.
 4. Đối với dự án đầu tư kinh doanh đã thực hiện thủ tục mời quan tâm và
 có từ hai nhà đầu tư trở lên đáp ứng yêu cầu của hồ sơ mời quan tâm theo quy
 định tại điểm a khoản 1 Điều 43 của Nghị định này, tiêu chuẩn đánh giá về
-năng lực trong hồ sơ mời thầu được cập nhật, bố sung căn cứ hồ sơ mời quan
+năng lực trong hồ sơ mời thầu được cập nhật, bổ sung căn cứ hồ sơ mời quan
 tâm được phê duyệt, các khoản 1, 2 và 3 Điều này và các văn bản quy định tại
 Điều 13 của Nghị định này.
 ### Điều 51.Tiêu chuẩn đánh giá về phương án đầu tư kinh doanh của
@@ -2477,7 +2477,7 @@ Căn cứ quy định tại hợp đồng, người có thẩm quyền xem xét,
 đề nghị chuyên nhượng dự á án đầu tư kinh doanh, chuyển nhượng cổ phần, phân :
 vốn góp trong tổ chức kinh tế.
 Trường hợp chấp thuận đề nghị chuyển nhượng, người có thẩm quyền giao
-bên mời thầu rà soát, sửa đổi, bố sung nội dung hợp đồng.
+bên mời thầu rà soát, sửa đổi, bổ sung nội dung hợp đồng.
 7. Trường hợp việc chuyên nhượng dự án, chuyển nhượng cô phần, phần
 vốn góp quy định tại khoản 4 và khoản 3 Điều này dẫn đến điều chỉnh dự án
 đầu tư thì sau khi được người có thẳm quyền chấp thuận theo quy định tại khoản
@@ -2726,7 +2726,7 @@ b) Trường hợp sự thay đổi không dẫn đến sai lệch kết quả m
 kết quả lựa chọn nhà đầu tư thông báo cho các nhà đầu tư đã nộp hồ sơ đăng
 ký thực hiện dự án, hồ sơ dự thâu, hồ sơ đề xuất để nộp lại hồ sơ và tiếp tục
 đánh giá theo hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu đã được sửa
-đổi, bố sung.
+đổi, bổ sung.
 5. Trường hợp sau khi lựa chọn danh sách ngắn đối với dự án đầu tư kinh
 doanh áp dụng hình thức đấu thầu hạn chế nhưng có ít hơn 03 nhà đầu tư đáp
 ứng yêu câu của dự án, bên mời thầu báo cáo người có thẩm quyền xem xét,
@@ -3367,7 +3367,7 @@ c) Nghị định số 225/2025/NĐ- CP ngày 15 tháng 8 năm 2025 của Chính
 phủ sửa đổi, bổ sung một số điều của các nghị định quy định chỉ tiết một số
 điều và biện pháp thi hành Luật Đầu thầu về lựa chọn nhà đầu tư.
 4. Trường hợp văn bản quy phạm pháp luật có hiệu lực sau ngày Nghị
-định này có hiệu lực thi hành bố sung, bãi bỏ quy định về dự án phải tổ chức
+định này có hiệu lực thi hành bổ sung, bãi bỏ quy định về dự án phải tổ chức
 đầu thầu lựa chọn nhà đầu tư và yêu cầu quản lý ngành, lĩnh vực tương ứng với
 điều kiện, tiêu chí quy định tại các Điều 4, 49, 50, 51, 52 và 53 của Nghị định
 này thì thực hiện như sau:
@@ -3447,7 +3447,7 @@ Luật số 90/2025/QH15) và các văn bản quy định chỉ tiết, hướng
 hành được tiếp tục thực hiện theo quy định của hợp đồng; trường hợp cần sửa
 đổi, bổ sung nội dung của hợp đồng dự án mà pháp luật tại thời điểm ký kết
 hợp đồng không có quy định hoặc cần sửa đổi, bổ sung hợp đồng dự án để bảo
-đảm hiệu quả dự án thì các bên được thỏa thuận sửa đổi, bố sung theo quy định
+đảm hiệu quả dự án thì các bên được thỏa thuận sửa đổi, bổ sung theo quy định
 của Luật Đấu thầu số 22/2023/QH15 (được sửa đổi, bổ sung tại Luật số
 57/2024/QH15, Luật số 90/2025/QH15), Nghị định này và pháp luật liên quan
 có hiệu lực tại thời điểm sửa đổi, bổ sung hợp đồng.
@@ -3529,7 +3529,7 @@ dự án đầu tư ; bộ, Ủy ban nhân dân
 kinh doanh g tải QDCTCTĐ cấp tỉnh, Ban quản lý
 khu kinh tế giao cơ
 quan, tổ chức, đơn VỊ
-thuộc „ trực thuộc
+thuộc trực thuộc
 hoặc Ủy ban nhân
 dân cấp xã đăng tải
 Mời quan |[Ƒ————— TS J|[-Bênmờiquaniâm |Điểu39 `
@@ -3653,7 +3653,7 @@ và ký kết _(HĐDA) - CQCTQ/BMT,
 hợp đồng NĐT ký HĐ
 - BMT đăng tải một
 
-số thông tn„,
+số thông tin,
 
 2. Đối với dự án không thuộc diện chấp thuận chú trương đầu tư
 
@@ -3979,7 +3979,7 @@ ngà S:g, C) 2 ỂY gz7ăm 2026 của Chính phủ)
 thức, phương thức lựa chọn nhà đầu tư]
 
 4. Thời gian bắt đầu tổ chức lựa chọn nhà đầu tư: (Ghi thời
-gian bắt đầu tổ chúc lựa chọn nhà đầu t]
+gian bắt đầu tổ chức lựa chọn nhà đầu t]
 
 Thời gian Thời gian
 
@@ -4058,7 +4058,7 @@ a) Mục tiêu chung, mục tiêu cụ thể của dự án;
 b) Quy mô, công suất của dự án;
 c) Tổng vốn đầu tư.
 3. Địa điểm thực hiện dự án:
-Điêu này quy định địa điểm thực hiện dự án, bao gồm cụ thể địa danh, vị
+Điều này quy định địa điểm thực hiện dự án, bao gồm cụ thể địa danh, vị
 trí, diện tích sử dụng đất trong phạm vi dự án và các công trình có liên quan
 (nêu có). :
 4. Thời hạn hợp đồng và tiến á
@@ -4203,7 +4203,7 @@ c) Thực hiện các quyền, nghĩa vụ khác theo thỏa thuận (nếu có)
 a) Xác định cụ thể trường hợp bất khả kháng và phương án xử lý trong
 trường hợp bất khả kháng;
 ._ b) Các trường hợp được xem xét sửa đổi hợp đồng dự án theo quy định tại
-Điêu 76 Luật Đâu thâu;
+Điều 76 Luật Đâu thâu;
 c) Trường hợp chuyển nhượng dự án đầu tư kinh doanh theo quy định của
 pháp luật về đầu tư, doanh nghiệp, đất đai, kinh doanh bắt động sản, pháp luật
 quản lý, ngành, lĩnh vực và quy định khác của pháp luật có liên quan; trường
@@ -4214,7 +4214,7 @@ lĩnh vực, pháp luật có liên quan; hồ sơ, trình tự, thủ tục chu
 +
 
 cổ phần, phần vốn gÓP;
-đ) Trình tự bố sung tên, quyền, nghĩa vụ, trách nhiệm của tổ chức kinh tế do
+đ) Trình tự bổ sung tên, quyền, nghĩa vụ, trách nhiệm của tổ chức kinh tế do
 nhà đầu tư trúng thầu thành lập theo trường hợp quy định tại điểm b khoản 8 Mục
 nảy; các trường hợp điều chỉnh dự án đầu tư không dẫn đến điều chỉnh chủ trương
 đầu tư theo pháp luật về đầu tư; trình tự điều chỉnh thông tin dự án đầu tư;
