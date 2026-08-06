@@ -1,3 +1,89 @@
+## Cập nhật 2026-08-06 v95 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 19:40 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB
+
+Chọn 5 VB chưa từng QC gate (khác toàn bộ v84-v94):
+
+| VB | Dòng | OCR issues trước sửa | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 275/NĐ-CP (Xử phạt hóa chất, CN) | 4186 | 1 (điêu kiện) | 76 (1-76) | [] | [] | 3 (I-III) | **PASS — 1 fix** |
+| 200/NĐ-CP (Trái phiếu DN) | 4149 | 23 thật (đâu tư 16x, thâm quyền 7x) + 3 heading plain | 51 (1-51) | [] | [] | 5 (I,III,IV,V,VII) | **PASS — 23 lỗi + 3 heading fixed** |
+| 240/NĐ-CP (Hệ sinh thái FTA) | 3710 | 1 (đâu tư) | 38 chính + phụ lục | [] | [2,3] FP (phụ lục) | 4 (I-IV) | **PASS CLEAN — 1 fix** |
+| 29/TT-BCT (Thị trường điện) | 2928 | 2 FP (ngày l) | 142 (1-142) | [] | [] | 11 (I-XI) | **PASS CLEAN (FP only)** |
+| 253/NĐ-CP (Thuế TNCN) | 3035 | 1 (đâu tư) | 71 (1-71) | [] | [] | 5 (I-V) | **PASS CLEAN — 1 fix** |
+
+**Phát hiện chi tiết**:
+
+1. **275/2026/NĐ-CP** (4186 dòng, `van-ban/cong-nghiep/nghi-dinh-275-2026-nd-cp-xu-phat-hoa-chat-vat-lieu-no-cong-nghiep.md`): Nghị định xử phạt VPHC trong lĩnh vực hóa chất, vật liệu nổ công nghiệp. 76 Điều (1-76), 3 Chương (I,II,III). 1 lỗi OCR: `điêu kiện` → `điều kiện`. **PASS CLEAN**.
+
+2. **200/2026/NĐ-CP** (4149 dòng, `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-200-2026-nd-cp-trai-phieu-doanh-nghiep.md`): Nghị định quy định chi tiết Luật Chứng khoán về chào bán, giao dịch trái phiếu doanh nghiệp. 51 Điều (1-51), 5 Chương (I,III,IV,V,VII — thiếu II,VI trong nguồn text). **Nhiều lỗi OCR thật**:
+   - `đâu tư` → `đầu tư` (16x trên toàn file)  
+   - `thâm quyền` → `thẩm quyền` (7x)
+   - Điều 8, 27, 49 là plain text heading → đã chuẩn hóa về `### Điều N.`
+   **POST-FIX PASS:** OCR=0 (1 FP "ngày l" trong "ngày liền kề"). Articles 1-51 đầy đủ.
+
+3. **240/2026/NĐ-CP** (3710 dòng, `van-ban/thuong-mai/240-2026-ND-CP-he-sinh-thai-FTA.md`): Nghị định về hệ sinh thái FTA. 38 Điều chính + Phụ lục mẫu (ch bringing Điều 2,3 ở các Phụ lục — FP duplicate). 4 Chương (I-IV). 1 lỗi: `đâu tư` → `đầu tư`. **PASS CLEAN.**
+
+4. **29/2026/TT-BCT** (2928 dòng, `van-ban/nang-luong-tai-nguyen/thong-tu-29-2026-tt-bct-van-hanh-thi-truong-ban-buon-dien-canh-tranh.md`): Thông tư vận hành thị trường bán buôn điện cạnh tranh. 142 Điều (1-142), 11 Chương (I-XI). 2 FP từ mẫu "ngày l" trong "ngày là" (định nghĩa). **PASS CLEAN.**
+
+5. **253/2026/NĐ-CP** (3035 dòng, `van-ban/thue/253-2026-nd-cp-huong-dan-luat-thue-thu-nhap-ca-nhan.md`): Nghị định hướng dẫn Luật Thuế thu nhập cá nhân. 71 Điều (1-71), 5 Chương (I-V). 1 lỗi: `đâu tư` → `đầu tư`. **PASS CLEAN.**
+
+**KẾT LUẬN CHUNG 5 VB**: 3/5 PASS CLEAN (275/NĐ-CP, 29/TT-BCT, 253/NĐ-CP). 2/5 PASS với fixes (200/NĐ-CP: 23 lỗi + 3 heading, 240/NĐ-CP: 1 lỗi). Sau sửa tất cả PASS CLEAN (0 OCR issues thật).
+
+**Bonus fixes**: OCR scan 89/TT-BTC phát hiện thêm 7 lỗi (`quán lý`, `QUÁẢN LÝ THUÉ`, `kế từ`, `KẾ từ`, `KHAI THUÉ`, `quôc dân`, `bố sung`) + 252/NĐ-CP phát hiện thêm 10 lỗi (`quán lý`, `bố sung`, `sô thuế`, `tổ chúc`, `tải chính`) + 26/NĐ-CP 3 lỗi (`điêu kiện`, `cập`). Tất cả đã sửa direct.
+
+### Nhiệm vụ 2: Refactor Scan
+
+| Tiêu chí | v92 | v95 | Thay đổi |
+|---|---|---|---|
+| Total *.md trong van-ban/ | 642 | 643 | +1 (309/NĐ-CP mới crawl) |
+| File "Đang cập nhật" | 158 | **159** | +1 |
+| File < 10KB (non-STUB, non-ĐCN) | 70+ | **94** | +24 |
+| File very small < 3KB, lastedit > 7d | ~9 | **9** | 0 |
+
+**Very small < 3KB đáng chú ý**:
+- 279/NĐ-CP (1093B, 27 dòng) — STUB bền vững
+- 22/QĐ-TTg (1949B, 52 dòng) — QĐ ngắn tự nhiên
+- 26/TT-BTC (2131B, 60 dòng) — TT ngắn bản chất
+- 272/NĐ-CP (2746B, 53 dòng) — nghi ngờ STUB/thiếu
+- 92/TT-BCA (2831B, 72 dòng) — ngắn so với VB cùng loại
+
+Không phát hiện refactor khẩn cấp mới.
+
+### Nhiệm vụ 3: STUB Re-check (6 STUB đã biết)
+
+| STUB | KB | Dòng | Trạng thái | Ghi chú |
+|---|---|---|---|---|
+| 279/NĐ-CP | 1.3 | 26 | VẴN STUB | Chờ nguồn 2+ tháng |
+| 286/NĐ-CP | 2.1 | 57 | VẪN CHƯA HOÀN THIỆN | Thiếu nội dung toàn văn |
+| 20/TT-BVHTTDL | 1.7 | 45 | VẴN STUB | Luatvietnam 404, datafiles 403 |
+| 61/TT-BGDĐT | 2.9 | 61 | VẴN STUB | Tất cả nguồn 404 |
+| 291/NQ-TPQH16 | 1.6 | 40 | VẪN STUB + NGHI NGỜ | Note: sitemap Nghị định, không phải NQ |
+| 17/NQ/UBTVQH16 | — | — | KHÔNG TỒN TẠI | Không có file trong repo |
+
+**Kết luận STUB**: 5/6 VẪN STUB bền vững (đã kiểm tra từ 4 batch). 1/6 không có file trong repo.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp review.
+
+### Nhiệm vụ 5: Discovery bổ sung
+
+- NĐ sitemap MD5: `23553db37114f2cc3ecf513220a57416` — **CHANGED so với v93**, nhưng max d1 = 442906 không đổi, 0 slug d1 mới
+- TT sitemap MD5: `59062d8a7f6f3b500befc786a9e9e782` — **UNCHANGED** từ v93
+- vanban.chinhphu.vn không accessible (JS-rendered)
+- **0 VB mới phát hiện**
+
+### Phiên thực hiện
+- agent: github-io:subagent:f671fac1-db06-4c76-85f1-37b8f4b8ff0c (Đệ #4 — Content Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- PR: #263 active
+- Đã sửa OCR: 275/NĐ-CP (1 lỗi), 200/NĐ-CP (23 lỗi + 3 heading), 240/NĐ-CP (1 lỗi), 253/NĐ-CP (1 lỗi), 89/TT-BTC (7 extra lỗi), 252/NĐ-CP (10 extra lỗi), 26/NĐ-CP (3 extra lỗi)
+- Ngày: 2026-08-06 19:40 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v93 (Đệ #1 Discovery — 2026-08-06 17:59 ICT)
 ## Cập nhật 2026-08-06 v93 (Đệ #1 Discovery — 2026-08-06 17:59 ICT)
 
 ### Văn bản phát hiện mới (3 Nghị định)

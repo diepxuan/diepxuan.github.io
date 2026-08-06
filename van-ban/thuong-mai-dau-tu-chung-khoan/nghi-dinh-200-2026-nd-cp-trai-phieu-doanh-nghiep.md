@@ -139,7 +139,7 @@ của Luật Kiểm toán độc lập đối với doanh nghiệp phát hành l
 phải là công ty đại chúng; là tổ chức kiểm toán được chấp thuận theo quy định
 tại khoản 22 Điều 4 Luật Chứng khoán số 54/2019/QH14 đối với doanh
 nghiệp phát hành là công ty đại chúng, công ty chứng khoán, công ty quản lý
-quỹ đâu tư chứng khoán.
+quỹ đầu tư chứng khoán.
 
 ___7, Hoán đổi trái phiếu là việc doanh nghiệp phát hành trái phiếu để hoán
 đôi cho trái phiêu đang lưu hành của chính doanh nghiệp đó tại cùng một thời
@@ -153,7 +153,7 @@ nghiệp phát hành đôi với trái phiêu. Trái phiêu trong một đợt c
 cùng ngày phát hành.
 
 10. Ngày bắt đầu đợt chào bán trái phiếu là ngày bắt đầu thu tiền mua
-trái phiêu từ các nhà đâu tư.
+trái phiêu từ các nhà đầu tư.
 
 11. Ngày kết thúc đợt chào bán trái phiếu là ngày doanh nghiệp phát
 hành hoàn thành việc phân phối trái phiếu và việc thu tiền mua trái phiếu từ
@@ -331,7 +331,7 @@ có thẩm quyền phê duyệt, chấp thuận, nội dung công bố thông ti
 tư; quản lý, giám sát việc thanh toán lãi, gôc trái phiếu theo thẩm quyền quy
 định tại Nghị định này và Điều lệ công ty.
 
-Điều 8. Trách nhiệm của tổ chức, cá nhân liên quan đến hồ sơ, tài
+### Điều 8. Trách nhiệm của tổ chức, cá nhân liên quan đến hồ sơ, tài
 liệu báo cáo và việc nộp, bổ sung hồ sơ, tài liệu báo cáo
 
 1. Tổ chức, cá nhân tham gia vào quá trình lập hồ sơ, tài liệu báo cáo
@@ -699,7 +699,7 @@ khác đối với nhà đầu tư mua trái phiếu (nếu có);
 u) Biện pháp doanh nghiệp phát hành thực hiện để theo dõi, quản lý,
 giám sát việc sử dụng vốn thu được từ đợt chào bán trái phiếu đúng mục đích.
 Trường hợp doanh nghiệp phát hành thông qua bên thứ hai sử dụng vốn thu
-được từ đợt chào bán trái phiếu vào dự án đâu tư thì phải có biện pháp theo
+được từ đợt chào bán trái phiếu vào dự án đầu tư thì phải có biện pháp theo
 dõi, quản lý, giám sát bên thứ hai sử dụng vốn thu được từ đợt chào bán vào
 
 - dự án đầu tư theo đúng phương án phát hành;
@@ -731,7 +731,7 @@ phương án phát hành trái phiếu là Hội đồng thành viên hoặc Ch�
 hoặc chủ sở hữu công ty theo Điều lệ của công ty;
 
 c) Đối với doanh nghiệp nhà nước, ngoài thẩm quyền phê duyệt theo quy
-định tại điểm a và điểm b khoản này, phải tuân thủ quy định về thâm quyền
+định tại điểm a và điểm b khoản này, phải tuân thủ quy định về thẩm quyền
 quyết định huy động vốn theo quy định của pháp luật về quản lý và đầu tự
 vốn nhà nước tại doanh nghiệp và pháp luật doanh nghiệp;
 
@@ -903,7 +903,7 @@ trường hợp quy định tại khoản 3 Điều này hoặc hoán đối tr�
 bị hủy bỏ sau khi được mua lại.
 
 2. Cấp có thẩm quyền phê duyệt, chấp thuận phương án phát hành trái
-phiếu là cấp có thâm quyền phê duyệt, chấp thuận phương án mua lại trái
+phiếu là cấp có thẩm quyền phê duyệt, chấp thuận phương án mua lại trái
 phiếu trước hạn hoặc hoán đổi trái phiếu, ngoại trừ trường hợp bắt buộc mua
 lại trái phiếu trước hạn theo quy định tại điểm b khoản 3 Điều này.
 
@@ -1568,7 +1568,7 @@ phát hiện doanh nghiệp phát hành giả mạo hồ sơ đăng ký trái ph
 hoặc phá sản hoặc thực hiện chia, tách doanh nghiệp; l
 
 .) BỊ hủy bỏ theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật,
-quyết định của Trọng tài hoặc cơ quan có thâm quyền theo quy định của pháp
+quyết định của Trọng tài hoặc cơ quan có thẩm quyền theo quy định của pháp
 luật.
 
 7. Việc hủy bỏ đăng ký giao dịch, điều chỉnh số lượng trái phiếu đăng ký
@@ -1719,7 +1719,7 @@ phê duyệt, chấp thuận phương án phát hành trái phiếu của cấp 
 hành nằm trong tông hạn mức vay thương mại nước ngoài của quốc gia.
 
 3. Văn bản phê duyệt, chấp thuận phương án phát hành trái phiếu của
-cấp có thâm quyền đối với doanh nghiệp phát hành thuộc ngành nghề kinh
+cấp có thẩm quyền đối với doanh nghiệp phát hành thuộc ngành nghề kinh
 doanh có điều kiện theo quy định của pháp luật chuyên ngành.
 
 4. Báo cáo tài chính được lập theo các chuẩn mực quốc tế về kế toán
@@ -1750,11 +1750,11 @@ chào bán quy định tại khoản 2, 3, 4, 5 và 6 Điều 23 Nghị định 
 37
 
 2. Việc chuyển đôi trái phiếu thành cỗ phiếu, thực hiện quyền kèm theo
-chứng quyền phải đáp ứng quy định về tỷ lệ sở hữu của nhà đâu tư nước
+chứng quyền phải đáp ứng quy định về tỷ lệ sở hữu của nhà đầu tư nước
 ngoài theo quy định của pháp luật.
 
 3. Đợt chào bán trái phiếu chuyển đối, trái phiếu kèm chứng quyền của
-công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đâu tư chứng
+công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng
 khoán phải cách ít nhất 06 tháng kể từ ngày kết thúc đợt chào bán, phát hành
 riêng lẻ gân nhất, bao gồm: chào bán cô phiếu riêng lẻ, chào bán trái phiếu
 chuyển đổi riêng lẻ; chào bán trái phiếu kèm chứng quyền riêng lẻ; chào bán
@@ -1800,7 +1800,7 @@ là công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ �
 38
 
 5. Tài liệu quy định tại các khoản 2, 3, 4, 5 và 6 Điều 24 Nghị định này.
-Điều 27. Trình tự, thủ tục chào bán trái phiếu ra thị trường quốc tế
+### Điều 27. Trình tự, thủ tục chào bán trái phiếu ra thị trường quốc tế
 
 1. Đối với chào bán trái phiếu ra thị trường quốc tế của công ty không
 phải là công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tử
@@ -1948,7 +1948,7 @@ doanh nghiệp.
 ### Điều 30. Công bồ thông tin về kết quá đợt chào bán
 
 1. Chậm nhất 10 ngày kể từ ngày kết thúc đợt chào bán trái phiếu, doanh
-nghiệp công bố thông tin về kết quả đợt chào bán cho các nhà đâu tư sở hữu
+nghiệp công bố thông tin về kết quả đợt chào bán cho các nhà đầu tư sở hữu
 trái phiếu theo Mẫu số 07 Phụ lục ban hành kèm theo Nghị định này và gửi
 nội dung công bồ thông tin đến Sở giao dịch chứng khoán.
 
@@ -2387,7 +2387,7 @@ doanh nghiệp cho Ủy ban nhân dân cấp tỉnh, Ủy ban Chứng khoán Nh�
 để thực hiện trách nhiệm theo quy định tại Nghị định này.
 
 7. Cung cấp thông tin về tình hình phát hành trái phiếu doanh nghiệp
-theo yêu cầu của cơ quan có thâm quyền.
+theo yêu cầu của cơ quan có thẩm quyền.
 50
 
 ### Điều 41. Trách nhiệm của Tổng công ty lưu ký và bù trừ chứng
@@ -2577,7 +2577,7 @@ trái phiểu doanh nghiệp riêng lẻ được thực hiện theo quy định
 Chương VHI
 ĐIỀU KHOẢN THI HÀNH
 
-Điều 49. , :Hiệu lực thi hành
+### Điều 49. Hiệu lực thi hành
 1. Nghị định này có hiệu lực thi hành từ ngày 05 tháng 06 năm 2026.
 54
 
@@ -2632,7 +2632,7 @@ a) Tuân thủ quy định về thay đổi điều khoản, điều kiện trá
 
 b) Trường hợp kéo đài kỳ hạn của trái phiếu thì thời gian kéo dài tối đa
 không quá 02 năm so với kỳ hạn tại phương án phát hành trái phiêu đã công
-bô cho nhà đâu tư;
+bô cho nhà đầu tư;
 
 e) Trường hợp người sở hữu trái phiếu không chấp thuận thay đổi điều
 kiện, điều khoản của trái phiếu thì doanh nghiệp phát hành có trách nhiệm
@@ -2745,7 +2745,7 @@ công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ
 
 'Mẫu số 04
 
-Mẫu bản xác nhận của nhà đâu tư cá nhân trước khi mua trái
+Mẫu bản xác nhận của nhà đầu tư cá nhân trước khi mua trái
 phiêu
 
 Mẫu số 05
@@ -2949,7 +2949,7 @@ STT( gàu | hoặcGCN lược Nhà 2 0à nặ | SỞ hữM | quy
 ĐKDN (hoặc | đầu tự [từ nước ngoài nắm( ước đợi
 
 Giấy tờ pháp lý| chuyên | Si trên 50% vốn lchào bán hồi
-tương đương) | nghiệp điêu lệ/Nhà đâu tư pñ0I
+tương đương) | nghiệp điêu lệ/Nhà đầu tư pñ0I
 
 tư
 
@@ -3440,7 +3440,7 @@ người đại điện tổ chức, địa chỉ, thông tin liên lạc, chúc
 Hoặc
 
 (1) Trái phiếu (mã ái phiếu) do (Tên tổ chức/cá nhân sở hữu trái phiếu/
-công y chứng khoán nơi nhà đâu tư thực hiện giao địch) cung cấp (đổi với mua
+công y chứng khoán nơi nhà đầu tư thực hiện giao địch) cung cấp (đổi với mua
 trái phiểu trên thị trường thứ cấp) (nêu cụ thể tên người đại diện tổ chức/cá nhân
 SỞ hữu trái phiếu, địa chỉ thông tin liên lạc, chức danh người đại điện chò tổ
 chức).
@@ -3479,7 +3479,7 @@ c) về mục đích phát hành trái phiếu: ị
 
 - Trường hợp mục đích phát hành trái phiếu là cho dự án đầu tư thì nêu rõ
 tình trạng pháp lý (ong đó HIiÊU cụ thể về cấp có thẩm quyền phê duyệt dự án,
-tình trạng pháp lý của dự án, tổng mức đầu tư của đự án, các rủi ro đâu tư của
+tình trạng pháp lý của dự án, tổng mức đầu tư của đự án, các rủi ro đầu tư của
 dự án, tình hình triển khai dự án (thời gian thực hiện dự án, dự kiến tiến độ giải
 ngán)) và các rủi ro đầu tư của dự án. Trường hợp mục đích phát hành trái phiệu
 để cơ cấu lại các khoản nợ thì nêu rõ các khoản nợ được cơ cầu (ong đó niệu
@@ -3555,7 +3555,7 @@ thông tin liên lạc)
 
 2. (Tên nhà đầu tư sở hữu trái phiếu/công ty chứng khoán nơi nhà đầu
 tư thực hiện giao dịch) (đối với mua trái phiếu trên thị trường thứ cấp) Giêu đụ
-thể tên nhà đâu tư sở bữu trái phiếu, địa chỉ, điện thoại liên hệ, đối với nhà đều
+thể tên nhà đầu tư sở bữu trái phiếu, địa chỉ, điện thoại liên hệ, đối với nhà đều
 tự cá nhân, nêu thêm căn cước công dân; đối với nhà đầu tư tổ chức nêu thêm tên
 người đại diện tổ chức, căn cước công dân, chức danh thông tin liên lạc).
 
@@ -3640,12 +3640,12 @@ IH. TÀI LIỆU GỬI KÈM
 hoặc giấy tờ pháp lý có giá trị tương đương;
 
 2. Quyết định phê duyệt, chấp thuận phương án phát hành trái phiếu của cấp
-có thâm quyền;
+có thẩm quyền;
 
 3. Kết quả xếp hạng tín nhiệm đối với trái phiếu trong trường hợp chào bán
 cho nhà đầu tư chứng khoán chuyên nghiệp là cá nhân (nếu có);
 
-4. Văn bản chấp thuận của cơ quan quản lý nhà nước có thâm quyền về phát
+4. Văn bản chấp thuận của cơ quan quản lý nhà nước có thẩm quyền về phát
 hành trái phiếu theo quy định của pháp luật chuyên ngành (né, có);
 5. Tài liệu khác (nếu có).
 
@@ -3746,14 +3746,14 @@ hoạch sử dụng nguôn vốn thu được từ đợt chào bản trải phi
 21. Phương thức phát hành: ...............................--s S224 ng ng kg ererteg
 22. Đối tượng nhà đầu tư của đợt chào bán trái phiếu theo quy định của pháp
 
-luật (đánh dấu cụ thể đối tượng nhà đâu tư mua trái phiếu):
+luật (đánh dấu cụ thể đối tượng nhà đầu tư mua trái phiếu):
 |
 Ị
 23
 
 Nhà đầu tư chiên lược là tổ chức
 
-Nhà đâu tư chiên lược là cá nhân
+Nhà đầu tư chiên lược là cá nhân
 
 Nhà đầu tư chứng khoán chuyên nghiệp là tổ chức
 
@@ -3874,7 +3874,7 @@ phiêu được phép chào bán.
 
 4. Tổng thu ròng từ đợt chào bán: .............................-cc- site đồng.
 
-(Liệt kê cụ thể tên các nhà đâu tư mua trái phiếu)
+(Liệt kê cụ thể tên các nhà đầu tư mua trái phiếu)
 
 "`. Tỷ trọng theo
 Giá t :
@@ -3945,7 +3945,7 @@ c) Quỹ đầu tư chứng khoán
 
 2.2 | Nhà đầu tư cá nhân
 
-Tổng nhà đâu tư nước ngoài
+Tổng nhà đầu tư nước ngoài
 II | Nhà đầu tư chiến lược
 Tổng 100%,
 
