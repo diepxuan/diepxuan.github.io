@@ -68,7 +68,7 @@ _Theo đề nghị của Cục trưởng Cục Giáo dục nghề nghiệp và G
 
 _Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư quy định chuẩn chương trình đào tạo giáo dục nghề nghiệp._
 
-#### Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+### Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
 
 Đang theo dõi
 
@@ -84,7 +84,7 @@ Thông tư này áp dụng đối với các cơ sở hoạt động giáo dục
 
 Đang theo dõi
 
-#### Điều 2. Mục đích ban hành chuẩn chương trình đào tạo giáo dục nghề nghiệp
+### Điều 2. Mục đích ban hành chuẩn chương trình đào tạo giáo dục nghề nghiệp
 
 Đang theo dõi
 
@@ -104,7 +104,7 @@ Thông tư này áp dụng đối với các cơ sở hoạt động giáo dục
 
 Đang theo dõi
 
-#### Điều 3. Các nội dung của chuẩn chương trình đào tạo giáo dục nghề nghiệp
+### Điều 3. Các nội dung của chuẩn chương trình đào tạo giáo dục nghề nghiệp
 
 Đang theo dõi
 
@@ -152,7 +152,7 @@ Thông tư này áp dụng đối với các cơ sở hoạt động giáo dục
 
 Đang theo dõi
 
-#### Điều 4. Mục tiêu
+### Điều 4. Mục tiêu
 
 Đang theo dõi
 
@@ -164,7 +164,7 @@ Thông tư này áp dụng đối với các cơ sở hoạt động giáo dục
 
 Đang theo dõi
 
-#### Điều 5. Chuẩn đầu ra
+### Điều 5. Chuẩn đầu ra
 
 Đang theo dõi
 
@@ -196,7 +196,7 @@ Người học sau khi hoàn thành chương trình, có năng lực ngoại ng�
 
 Đang theo dõi
 
-#### Điều 6. Yêu cầu đầu vào
+### Điều 6. Yêu cầu đầu vào
 
 Mỗi chương trình đào tạo phải đáp ứng các yêu cầu tối thiểu sau đây:
 
@@ -214,7 +214,7 @@ Mỗi chương trình đào tạo phải đáp ứng các yêu cầu tối thi�
 
 Đang theo dõi
 
-#### Điều 7. Khối lượng học tập tối thiểu
+### Điều 7. Khối lượng học tập tối thiểu
 
 Đang theo dõi
 
@@ -246,7 +246,7 @@ Mỗi chương trình đào tạo phải đáp ứng các yêu cầu tối thi�
 
 Đang theo dõi
 
-#### Điều 8. Cấu trúc chương trình
+### Điều 8. Cấu trúc chương trình
 
 Đang theo dõi
 
@@ -290,7 +290,7 @@ Mỗi chương trình đào tạo phải đáp ứng các yêu cầu tối thi�
 
 Đang theo dõi
 
-#### Điều 9. Phương pháp giảng dạy và đánh giá
+### Điều 9. Phương pháp giảng dạy và đánh giá
 
 Đang theo dõi
 
@@ -322,7 +322,7 @@ Mỗi chương trình đào tạo phải đáp ứng các yêu cầu tối thi�
 
 Đang theo dõi
 
-#### Điều 10. Các điều kiện bảo đảm chất lượng để thực hiện chương trình đào tạo
+### Điều 10. Các điều kiện bảo đảm chất lượng để thực hiện chương trình đào tạo
 
 Đang theo dõi
 
@@ -370,7 +370,7 @@ Mỗi chương trình đào tạo phải đáp ứng các yêu cầu tối thi�
 
 Đang theo dõi
 
-#### Điều 11. Tổ chức thực hiện
+### Điều 11. Tổ chức thực hiện
 
 Đang theo dõi
 
@@ -418,7 +418,7 @@ Mỗi chương trình đào tạo phải đáp ứng các yêu cầu tối thi�
 
 Đang theo dõi
 
-#### Điều 12. Điều khoản chuyển tiếp, thi hành
+### Điều 12. Điều khoản chuyển tiếp, thi hành
 
 Đang theo dõi
 

@@ -13,6 +13,7 @@ tags:
   - sua-doi
 docid: 191/NQ-CP
 source: luatvietnam.vn
+trangthai: "hoanthien"
 ---
 
 # Nghị quyết 191/NQ-CP năm 2026 về dự án Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng

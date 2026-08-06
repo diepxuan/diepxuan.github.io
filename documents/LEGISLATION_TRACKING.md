@@ -1,3 +1,166 @@
+## Cập nhật 2026-08-06 v84 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 07:06 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v81)
+
+v81 đã review: 304/NĐ-CP, 303/NĐ-CP, 300/NĐ-CP, 115/TT-BTC, 109/TT-BCA. Lần này chọn 5 VB khác:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 298/NĐ-CP (Cơ cấu tổ chức) | 455 | 0 | 6 (1-6) | [] | [] | 0 | **PASS clean** |
+| 294/NĐ-CP (Doanh nghiệp HTX) | 1134 | 6 FP | 38 + 16 phụ lục | [] | [1-16] phụ lục | 0 | **PASS** |
+| 76/NĐ-CP (VPHC bình đẳng giới) | 119 | 0 | 14 (1-14) | [] | [] | 0 | **PASS clean** |
+| 101/TT-BTC (Kế toán trưởng) | 997 | 1 FP | 20 (1-20) | [] | [] | 3 (I-III) | **PASS** |
+| 32/TT-BYT (Đăng ký thuốc) | 1718 | 20 FP | 56 (1-56) | [] | [] | 7 (I-VII) | **PASS** |
+
+**Lưu ý đặc biệt**:
+- 294/NĐ-CP: Phụ lục mẫu Hợp đồng (16 Điều) duplicate số với 38 Điều chính — không phải lỗi OCR, pattern như 116/TT-BCA.
+- 32/TT-BYT: Phát hiện 2 file trùng lặp: `dang-ky-luu-hanh-thuoc.md` (1718 dòng) và `dang-ky-luu-hanh-thuoc-va-nguyen-lieu-lam-thuoc.md` (903 dòng, bản cũ/ngắn hơn). Đề xuất giữ file 1718 dòng, xóa/archive file 903 dòng.
+- 55/TT-BGDDT (1454 dòng): Heading Điều dùng `#### Điều N.` (4 hashtag) thay vì `### Điều N.` (3 hashtag). Scan Điều không detect được. Cần chuẩn hóa heading.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **635** |
+| File có "Đang cập nhật" | **158** |
+| File < 10KB (không STUB) | **68** |
+
+**Nhận xét:**
+- 158 file "Đang cập nhật": chủ yếu là topic index placeholder. KHÔNG phải VB cụ thể. Ưu tiên thấp.
+- 68 file < 10KB không phải STUB: hầu hết là VB ngắn (sửa đổi/bổ sung, Quyết định, NQ ngắn). Một số file đáng chú ý: `nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md` (1317B, 26 dòng — quá ngắn), `92-2026-tt-bca-ung-pho-thien-tai...md` (3425B), `191-nq-cp-du-an-luat...md` (3743B — metadata thiếu key `trangthai`).
+
+### Nhiệm vụ 3: PR Comments
+
+PR #262: `gh pr view 262 --comments --json comments,reviews` → **0 comments, 0 reviews**. PR chưa có review hoặc comment nào.
+
+### Nhiệm vụ 4: STUB Kiểm tra lại 5 STUB v57
+
+| STUB | File | Dòng | KB | Điều | Nguồn | Kết luận |
+|---|---|---|---|---|---|---|
+| **103/2026/TT-BTC** | van-ban/tai-chinh/103-2026-tt-btc... | 325 | 44KB | 54 (1-54) | slug 441176 | ✅ PASS clean |
+| **191/NQ-CP** | van-ban/quoc-phong/191-nq-cp... | 94 | 3.7KB | 5 (1-5) | slug 441106 | ⚠️ **Thiếu key `trangthai`** — nội dung đầy đủ nhưng FM chưa có `trangthai: hoanthien`. Cần bổ sung. |
+| **59/TT-BGDDT** | van-ban/giao-duc/nha-giao/... | 408 | 37KB | 17 (1-17) | slug 440690 | PASS clean |
+| **55/TT-BGDDT** | van-ban/giao-duc/nghe-nghiep/... | 1454 | 66KB | 12 (1-12) | slug 440521 | ⚠️ **Heading `#### Điều` không detect** — scan Điều thất bại. Cần chuẩn hóa về `### Điều N.` |
+| **20/TT-BVHTTDL** | van-ban/van-hoa/... | 45 | 1.7KB | 0 | Không có | ❌ Vẫn STUB — Không có nguồn toàn văn |
+
+**Phát hiện chính:**
+1. **191/NQ-CP**: Thiếu key `trangthai: hoanthien` trong front matter (nội dung đầy đủ 5 Điều, đã crawl xong). Cần bổ sung.
+2. **55/TT-BGDĐT**: Heading Điều dùng `####` (4#) thay vì `###` (3#) — scan không phát hiện, cần chuẩn hóa.
+3. **32/TT-BYT**: Tồn tại file trùng lặp trong van-ban — cần cleanup.
+4. **20/TT-BVHTTDL**: Vẫn là STUB bền vững, không có nguồn toàn văn.
+5. **103/TT-BTC + 59/TT-BGDĐT**: PASS sạch.
+
+### Phiên thực hiện
+- agent:github-io:subagent:8e942f68-b4a0-46a9-8e40-ee62083ed4e5 (Đệ #4)
+- Branch: `heartbeat/crawl-vanban-20260805`
+- PR #262 vẫn là active, không merge/close (chờ Sếp review)
+- Ngày: 2026-08-06 07:06 ICT
+
+---
+
+## Cập nhật 2026-08-06 v83 (Đệ #1 Discovery — 2026-08-06 07:05 ICT)
+
+### Kết quả discovery: Sitemap KHÔNG thay đổi — 0 văn bản mới
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc 07:05 ICT 6/8. So với ref v82.
+
+**MD5 comparison** (so với v82):
+- NĐ: `c77bbf54447ef465aea778d5bb6a8cd9` — **UNCHANGED** (giống v82)
+- TT: `59062d8a7f6f3b500befc786a9e9e782` — **UNCHANGED** (giống v82)
+
+**Kết luận**: Sitemap luatvietnam.vn chưa re-batch từ 06:40 đến 07:05 ICT (khoảng 25 phút). 0 slug d1 mới phát hiện.
+
+### Trạng thái các VB từ v82 (chưa crawl)
+
+7 VB chính thức từ v82 vẫn CHƯA CÓ trong `van-ban/`:
+
+| # | Slug | Số hiệu | Trạng thái |
+|---|------|---------|------------|
+| 1 | 442768-d1 | 302/2026/NĐ-CP | ❌ CHƯA CÓ — cần crawl |
+| 2 | 442748-d1 | 305/2026/NĐ-CP | ❌ CHƯA CÓ — cần crawl |
+| 3 | 442732-d1 | 306/2026/NĐ-CP | ❌ CHƯA CÓ — cần crawl |
+| 4 | 442727-d1 | 307/2026/NĐ-CP | ❌ CHƯA CÓ — cần crawl |
+| 5 | 442774-d1 | 114/2026/TT-BTC | ❌ CHƯA CÓ — cần crawl |
+| 6 | 442765-d1 | 111/2026/TT-BTC | ❌ CHƯA CÓ — cần crawl |
+| 7 | 442749-d1 | 87/2026/TT-BQP | ❌ CHƯA CÓ — cần crawl |
+
+### VB cũ trong tracking CHƯA CÓ trong van-ban/
+
+| Số hiệu | Slug | Trạng thái |
+|---------|------|------------|
+| 33/2026/TT-BNNMT | 442684 | ❌ CHƯA CÓ — cần crawl |
+| 05/2026/TT-BNG | 442443 | ❌ CHƯA CÓ — cần crawl |
+
+### Ref cập nhật (giữ nguyên v82)
+- NĐ max d1: **442768** (302/NĐ-CP)
+- TT max d1: **442774** (114/TT-BTC)
+- NĐ max slug: 442773 (d10 dự thảo)
+- TT max slug: 442804 (d10 dự thảo)
+
+### Ghi chú kỹ thuật
+- Sitemap saved: `tmp/discovery-v83/sitemap_nghidinh.xml` (90864 bytes), `tmp/discovery-v83/sitemap_thongtu.xml` (192276 bytes)
+- MD5 giống hệt v82 — luatvietnam.vn chưa re-batch sitemap trong cửa sổ 25 phút kể từ v82
+- Phiên Đệ #1: agent:github-io:subagent:bbf1eecd-c684-43b6-85f9-6494d95ae916
+- Ngày phát hiện: 2026-08-06 07:05 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v82 (Đệ #1 Discovery — 2026-08-06 06:40 ICT)
+
+### Kết quả discovery: sitemap luatvietnam.vn ĐÃ THAY ĐỔI — phát hiện 7 VB chính thức mới
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc 06:40 ICT 6/8. So với ref v78 (NĐ max slug 442691, TT max slug 442684):
+
+**MD5 comparison**:
+- NĐ: `743731df454d54fe9e46e152b9bd9633` (v78) → `c77bbf54447ef465aea778d5bb6a8cd9` (v82) — **CHANGED**
+- TT: `984d77ec9a8b9c68f4bac972f2b2c91f` (v78) → `59062d8a7f6f3b500befc786a9e9e782` (v82) — **CHANGED**
+
+### 4 Nghị định mới (đã ban hành)
+
+| # | Slug | Số hiệu | Trích yếu | Ngày ban hành | Chủ đề | Body size | Đánh giá |
+|---|------|---------|-----------|---------------|--------|-----------|----------|
+| 1 | 442768-d1 | **302/2026/NĐ-CP** | Quy định chi tiết Luật Thương mại về mua bán hàng hóa qua Sở giao dịch | 01/8/2026 | Thương mại | 735KB / 61 Điều / Có Chương | ✅ Sẵn sàng crawl (body đầy đủ) |
+| 2 | 442748-d1 | **305/2026/NĐ-CP** | Sửa đổi NĐ 28/2019/NĐ-CP quy định tố cáo trong QĐND | 03/8/2026 | An ninh quốc gia / QĐND | 304KB / 34 Điều | ✅ Sẵn sàng crawl |
+| 3 | 442732-d1 | **306/2026/NĐ-CP** | Chức năng, nhiệm vụ, cơ cấu tổ chức Bộ Ngoại giao | 03/8/2026 | Ngoại giao | 385KB / 5 Điều | ✅ Sẵn sàng crawl (NĐ cơ cấu tổ chức) |
+| 4 | 442727-d1 | **307/2026/NĐ-CP** | Người có uy tín và chính sách dân tộc thiểu số | 04/8/2026 | Chính sách | 446KB / 21 Đi / Có Chương | ✅ Sẵn sàng crawl |
+
+### 3 Thông tư mới (đã ban hành)
+
+| # | Slug | Số hiệu | Trích yếu | Ngày ban hành | Body size | Đánh giá |
+|---|---|---|-----------|---------------|-----------|----------|
+| 5 | 442774-d1 | **114/2026/TT-BTC** | Bãi bỏ TT 22/2005 + hướng dẫn vị trí việc làm tài chính | 31/7/2026 | 224KB / 2 Điều | ✅ Sẵn sàng crawl (TT bãi bỏ) |
+| 6 | 442765-d1 | **111/2026/TT-BTC** | Bãi bỏ TT trong lĩnh vực hưu trí bổ sung tự nguyện | 30/7/2026 | 226KB / 2 Điều | ✅ Sẵn sàng crawl (TT bãi bỏ) |
+| 7 | 442749-d1 | **87/2026/TT-BQP** | Bãi bỏ VBQPPL của Bộ Quốc phòng | 22/6/2026 | 220KB / 2 Điều | ✅ Sẵn sàng crawl (TT bãi bỏ) |
+
+### VB cũ trong tracking CHƯA CÓ trong van-ban/
+
+| Số hiệu | Slug | Trạng thái |
+|---------|------|------------|
+| 33/2026/TT-BNNMT | 442684 | ❌ CHƯA CÓ — cần crawl |
+| 05/2026/TT-BNG | 442443 | ❌ CHƯA CÓ — cần crawl |
+
+### File nhỏ/chưa hoàn thiện đáng chú ý (<5KB, chưa phải STUB)
+- `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` — 1673B (STUB cần nguồn)
+- `van-ban/chinh-phu/nghi-dinh-286-2026-nd-cp-co-che-phoi-hop-quan-ly-nhap-xuat-canh-nguoi-nuoc-ngoai.md` — 2076B
+- `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` — 3425B
+- `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` — 3743B
+- `van-ban/tai-chinh/no-cong/mau-bieu-bao-cao-no-cong-47-2026-tt-btc.md` — 4458B
+- `van-ban/an-ninh-quoc-gia/quy-chuan-camera-giam-sat-ip-an-ninh-mang.md` — 4476B
+
+### Ref cập nhật
+- NĐ max slug: **442773** (d10 có 442773 dự thảo; max d1 = **442732**)
+- TT max slug: **442804** (new, nhưng 442804 + 442783 = d10 dự thảo; max d1 = **442774**)
+
+### Ghi chú kỹ thuật
+- Sitemap saved: `tmp/discovery-v82/sitemap_nghidinh.xml` (90864 bytes), `tmp/discovery-v82/sitemap_thongtu.xml` (192276 bytes)
+- Sitemap index dùng `sitemap_document*.xml` (29 files) + `sitemap_lawdocument1.xml` — format mới của luatvietnam.vn, nhưng `sitemap_nghidinh.xml` / `sitemap_thongtu.xml` vẫn active
+- 2 dự thảo NĐ (442773-d10, 442706-d10) + 2 dự thảo TT (442804-d10, 442783-d10) bị loại (chỉ theo dõi VB đã ban hành)
+- Tất cả 7 VB mới đều HTTP 200 + body chứa nội dung Điều (verified qua curl)
+- Phiên Đệ #1: agent:github-io:subagent:3d9f07cf-e5be-4c95-839c-16cdaca67325
+- Ngày phát hiện: 2026-08-06 06:40 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-05 v81 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-05 21:40 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB
