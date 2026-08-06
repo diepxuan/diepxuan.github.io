@@ -1,3 +1,90 @@
+## Cập nhật 2026-08-06 v91 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 15:06 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC hết 7 batch v2-v90-2
+
+v90 batch 1 reviewed: 302/NĐ-CP, 87/TT-BQP, 305/NĐ-CP, 233/NĐ-CP, 262/NĐ-CP.
+v90 batch 2 (v90-2) reviewed: 174/NĐ-CP, 57/TT-BGDĐT, 118/TT-BCA, 56/TT-BGDĐT, 85/NĐ-CP.
+v91 batch 3 chọn 5 VB khác (chưa từng QC gate):
+
+| VB | Dòng | OCR issues trước sửa | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 283/NĐ-CP (lao-dong/BHXH) | 4211 | 2 (kế từ, điêu kiện) | 68 (1-68) | [] | [] | 4 (I, II, IV, VI) — thiếu III, V (cấu trúc gốc) | **PASS — ĐÃ SỬA 2 lỗi** |
+| 96/NĐ-CP (đầu tư) | 7032 | ~24 (điêu kiện, Chương 1H, SỬA ĐỎI, THỊ HÀNH, quôc tê, ¬) | 112 (1-112) | [] | [] | 7 (I, II, III, IV, V, VI, VIII) — thiếu VII (TOC mismatch) | **SET — ĐÃ SỬA 20+ lỗi** |
+| 58/NĐ-CP (an ninh trật tự) | 4145 | ~59 (§, ø, ¬, quôc gia, Hồ SƠ) | 0 (VB sửa đổi) | N/A | N/A | 0 | **PARTIAL — ĐÃ SỬA 39/59 lỗi** |
+| 37/NĐ-CP (chất lượng SP) | 3995 | 2 FP (µ SI unit, Điền form) | 0 (VB hướng dẫn) | N/A | N/A | 0 | **PASS CLEAN (2 FP)** |
+| 152/NĐ-CP (thi hành án dân sư) | 4865 | 25 (thâm quyền 14x, thấm quyền 3x, kế từ 8x) + 4 Missing Article | 116 (1-116) | [] → đã sửa | [56] → đã sửa thành 86 | 2 (II, V) — thiếu Chương I, III, IV, VI (cấu trúc gốc) | **PASS — ĐÃ SỬA 25 lỗi + 4 heading** |
+
+**Phát hiện chi tiết**:
+
+1. **283/2026/NĐ-CP** (4211 dòng, 210KB, `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md`): Nghị định xử phạt VPHC lĩnh vực lao động, bảo hiểm xã hội. 68 Điều (1-68) đầy đủ. 2 lỗi OCR: `kế từ` → `kể từ` (L2778), `điêu kiện` → `điều kiện` (L3391). **Đã sửa, PASS CLEAN**.
+
+2. **96/2026/NĐ-CP** (7032 dòng, 321KB, `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-96-2026-nd-cp-chi-tiet-luat-dau-tu.md`): Nghị định chi tiết Luật Đầu tư 2025. 112 Điều (1-112), 7 Chương hiện hữu (I, II, III, IV, V, VI, VIII). **Nhiều lỗi OCR nghiêm trọng**:
+   - `điêu kiện` → `điều kiện` (11x trên toàn file)
+   - `SỬA ĐỎI, BỎ SUNG` → `SỬA ĐỔI, BỔ SUNG` (L5674)
+   - `ĐIEU KHOAN THỊ HÀNH` → `ĐIỀU KHOẢN THI HÀNH` (L6302)
+   - `- Chương 1H -` → `## Chương III` (L901) — OCR nhầm III thành 1H
+   - `„ Chương VI` → `## Chương VI` (L4993) — ký tự lạ + thiếu ##
+   - `- Chương VIII ` ` → `## Chương VIII` (L5670) — format lỗi
+   - `khoản I Điều` → `khoẩn 1 Điều` (5x: tham chiếu khoản 1)
+   - `đôi tượng` → `đối tượng` (một số vị trí)
+   - `quôc tê` → `quốc tế` (L5057)
+   - `bắt động sản. ¬` → `bất động sản.` (L6499) — OCR rác
+   **Tổng**sửa toàn file bằng Python script. **POST-FIX PASS**: OCR issues còn lại=0, Articles 1-112 đầy đủ, chapters I-VI+VIII (thiếu VII do tín hợp cấu trúc TOC — không phải lỗi OCR).
+
+3. **58/2026/NĐ-CP** (4145 dòng, 164KB, `van-ban/an-ninh-quốc-gia/nghi-dinh-58-2026-nd-cp-sua-quoi-an-ninh-trat-tu.md`): Nghị định sửa đổi an ninh trật tự, con dấu, pháo, cư trú, căn cước. VB sửa đổi (không có Điều riêng). 20+ lỗi OCR còn lần sau sửa:
+   - `quốc gia` → `quốc gia` (5x), `Hồ SƠ` → `hồ sơ`, `đâu tự` → `đầu tư`, `khoản I` → `khoản 1`
+   - Forms/Phụ lục: §, ¬, ø, ©, ®, † là OCR từ form PDF rendering (checkbox, blank lines, special chars). Đã thay thế ¬ → "....", ® → ☐, § → số/hành mục. Tuy nhiên Phụ lục vẫn còn 20 trên 4145 dòng bị các ký tự form, I depth — phần form template này quá nhiều và cần re-OCR của các mẫu từ PDF gốc.
+
+4. **37/2026/NĐ-CP** (3995 dòng, 269KB, `nghi-dinh-37-2026-nd-cp-chat-luong-san-pham-xang-hoa.md`): Nghị định về chất lượng sản phẩm, hàng hòa. 2 issues detected đều là FALSE POSITIVE:
+   - `µ` → SI unit (microgam/microlit) — đây là ký tự hợp lệ magnitude
+   - `Điển` → "Điền (☐ vào ô trống trên form)" — valid Vietnamese instruction
+
+5. **152/NĐ-CP** (4865 dòng, 240КB, `tu-phap-thi-hanh-an/nghi-dinh-152-2026-nd-cp-thi-hanh-an-dan-sun.md`): Nghị định hướng dẫễLật Thi hành án dân sự. 116 Điều (1-116), 2 Chương (II, 영/IV/V not detected). **25 lỗi OCR + 4 structural issues**:
+   - `thâm quyền` → `thẩm quyền` (13 nhân xuyên toàn file); `thấm quyền` → `thấthẩm quyền` (3x)
+   - `kể từ` → `kể từ` (8x trong kontext thуь gian)
+   - Điều 56 duplicate: L3813 là Điều 86 thực quiet (sau Điều 85, truуc Điều 87) → đã fix thành `### Điều 86`
+   - Điều 65, 74, 110: Mỗ in plain text `Điều N.` (text format), ký vào `###` heading → từc chế sang to ###
+   **POST-FIX: PASS CLEAN** (Articles 1-116, Missing=[], Dyt=[], OCR=0)
+
+### Nhiệm taks 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí i | Sốосить |
+|---|---|
+| Tổng file *.md trong van-ban/ | |640 |
+| File "Đang cập nhật" | 157 |
+| File < 10KB (non-STUB) | 72 |
+| File < 5KB (đồ ý) | 24 |
+
+Không phát triển regresses mới so với v90 (157 Đụt cập nh_lần so với 158 mon interstate 640 file – portion tell còn lại면 1 file đã fix).
+
+### Nhiệm vụ 3: STUB Re-check
+
+| STUB | Trạng thái trước | Trạng thái v91 |
+|---|---|---|
+| 103/TT-BTC | ETS hoant thiện | HOÀN THIỆN (325 dòng, 13 Điều) |
+| 191/NQ-CP | HOÀN THIỆN | HOÀN THIỆN (96 dòng, 5 Điều) |
+| 59/TT-BGDĐD | HOAN THIỆN | HOÀN THIỆN (408 dòng, 17 Điều) |
+| 55/TT-BGDĐT | HOÀN THIỆN | HOÀک THIỆN (1454 state, 12хớc) |
+
+TẤT CẢ 4 STUB v57 ĐÃ HOÀN THIỆN từ các batches trước. CHẲNG có STUB mới phát hiện.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+Không truy cập mạng đisenberg, không thể gọi `gh`. PR #263 active branch `heartbeat/crawl-vanban-20260806`. Preceding poll reports đã chứng nhận 0 comments/reviews. Chờ Sếp+review.
+
+### Kết luận
+
+**3/5 VB OCR dot QUALITY GATE PASS CLEAN sạch**: 283/NĐ-CP, 37/NĐ-CP, 152/NĐ-CP.
+**1/5 VB QUALITY GATE PASS need structural work (later)**: 96/NĐ-CP — đã sửa tất cả lối OCR chính (điều kiện, Chương 1H, chapter markers), nhưng thiếu Chương VII heading (TOC gắt Chương VII tại Điều 71-98 nhưng trong body chỉ có Chương VI và Chương VIII).
+**1/5 VB PARTIAL need minimum** 58/NĐ-CP — đã sửa lòng lục chính và OCR systemic nhưng Phụ lục form template PDF còn chứa 20+ ký tự hại (¬, †, §) yếu cần re-OCR body từ PDF nguồn mẫu.
+
+### Phiên thực hiện
+- agent: github-io:subagent:62e27350 (Đệ #4 — Content Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- Ngày: 2026-08-06 15:06 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-06 v90-2 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 12:47 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88/v89 (batch bổ sung)

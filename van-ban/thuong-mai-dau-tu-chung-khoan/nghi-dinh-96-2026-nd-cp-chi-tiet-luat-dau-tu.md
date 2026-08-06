@@ -670,7 +670,7 @@ doanh dự kiên sửa đôi, bô sung;
 
 .__ b) Phân tích sự cần thiết, mục đích của việc sửa đổi, bổ sung ngành, nghề
 đầu tư kinh doanh có điều kiện hoặc điều kiện đầu tư kinh doanh phù hợp với
-quy định tại khoản I Điều 7 Luật Đầu tư;
+quy định tại khoản 1 Điều 7 Luật Đầu tư;
 
 c) Căn cứ sửa đổi, bổ sung ngành, nghề đầu tư kinh doanh có điều kiện
 hoặc điều kiện đầu tư kinh doanh và đối tượng phải tuân thủ;
@@ -735,7 +735,7 @@ thị trường
 1. Danh mục ngành, nghề hạn chế tiếp cận thị trường được áp dụng đối với:
 a) Nhà đầu tư nước ngoài theo quy định tại khoản 19 Điều 3 Luật Đầu tư;
 
-b), Tổ chức kinh tế theo quy định tại các điểm a, b và e khoản I Điều 20
+b), Tổ chức kinh tế theo quy định tại các điểm a, b và e khoản 1 Điều 20
 Luật Đầu tư khi đầu tư thành lập tổ chức kinh tế khác; đầu tư góp vốn, mưa cổ
 phân, mua phần vốn góp của tổ chức kinh tế khác; đầu tư theo hình thức hợp
 đồng BCC.
@@ -1615,7 +1615,7 @@ tư hoặc Giấy chứng nhận đăng ký đầu tư đã cập. Thời gian g
 giao đất, quyết định cho thuê đất, quyết định chuyển mục đích sử dụng đất hoặc
 văn bản bàn giao đất của cơ quan nhà nước có thẩm quyền cho nhà đầu tư là
 căn cứ xác định thời hạn hoạt động, tiến độ thực hiện của dự án đầu tư theo quy
-định tại các điểm b và e khoản I Điều này.
+định tại các điểm b và e khoản 1 Điều này.
 
 5. Trường hợp nhà đầu tư có nhu cầu điều chỉnh Quyết. định chấp thuận
 chủ trương đầu tư, Quyết định chấp thuận chủ trương đầu tư đồng thời với chấp
@@ -4649,7 +4649,7 @@ chứng nhận đăng ký doanh nghiệp hoặc giấy tờ khác có giá trị
 của pháp luật về doanh nghiệp hoặc pháp luật khác tương ứng với từng loại
 hình tổ chức kinh tế. Trường hợp nhà đầu tư nước ngoài thành lập tổ chức kinh
 tế trước khi thực hiện thủ tục cấp, điều chỉnh Giấy chứng nhận đăng ký đầu tư
-theo quy định tại khoản I Điều này, Giấy đề nghị đăng ký doanh nghiệp bao
+theo quy định tại khoản 1 Điều này, Giấy đề nghị đăng ký doanh nghiệp bao
 gồm nội dung cam kết đáp ứng điều kiện tiếp cận thị trường đối với nhà đầu tư
 nước ngoài theo quy định của pháp luật.
 
@@ -5515,7 +5515,7 @@ kế hoạch thu hút và giải ngân vốn đầu tư của năm sau, danh m�
 
 2. Định kỳ hằng quý và hằng năm, Ủy ban nhân dân cấp tỉnh tổng hợp báo
 cáo của cơ quan đăng ký đầu tư thuộc phạm vì quản lý để báo cáo Bộ Tài chính
-theo các nội dung báo cáo quy định tại khoản I Điều này sau 05 ngày làm việc
+theo các nội dung báo cáo quy định tại khoản 1 Điều này sau 05 ngày làm việc
 kể từ ngày kết thúc thời hạn báo cáo của cơ quan đăng ký đầu tư.
 
 3. Cơ quan quản lý nhà nước cung cấp thông tin cho Bộ Tài chính theb
@@ -6496,7 +6496,7 @@ dầu và khí.
 17. Dịch vụ bảo vệ.
 
 18. Xây dựng, vận hành và quản lý cảng sông, cảng biển và sân bay.
-19. Kinh doanh bắt động sản. ¬
+19. Kinh doanh bất động sản.
 
 20. Hoạt động xây đựng của nhà thầu nước ngoài.
 
