@@ -1,3 +1,42 @@
+## Cập nhật 2026-08-07 v97 (Đệ #1 Discovery — 2026-08-07 00:40 ICT)
+
+### Kết quả discovery: 3 văn bản mới (Thông tư)
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc 00:40 ICT 7/8. So với ref v94.
+
+**Lưu ý**: Sitemap URL cũ `/site/a-rss/sitemap_*.xml` đã 404. URL mới: `/sitemap_nghidinh.xml` và `/sitemap_thongtu.xml`.
+
+**MD5 comparison** (so với v94):
+- NĐ: `23553db37114f2cc3ecf513220a57416` — **UNCHANGED** (giống v94)
+- TT: `b3c2be908bd3b655bf9be6793d1fc374` — **CHANGED** (v94 là `59062d8a7f6f3b500befc786a9e9e782`)
+
+**Kết luận**: NĐ sitemap không đổi (max 442906). TT sitemap có 3 slug d1 mới > 442774.
+
+### Văn bản phát hiện mới (3 Thông tư)
+
+| # | Số hiệu | Lĩnh vực | Ban hành | Hiệu lực | Slug | Trạng thái | Nguồn |
+|---|--------|----------|----------|----------|------|------------|-------|
+| 1 | 112/2026/TT-BTC | tai-chinh | 31/07/2026 | — | 442918-d1 | Chưa có | luatvietnam |
+| 2 | 113/2026/TT-BTC | tai-chinh | 31/07/2026 | — | 442942-d1 | Chưa có | luatvietnam |
+| 3 | 44/2026/TT-BKHCN | thong-tin | 31/07/2026 | 15/09/2026 | 442979-d1 | Chưa có | luatvietnam |
+
+**Trích yếu**:
+1. **112/2026/TT-BTC**: Quy định quản lý, sử dụng và quyết toán kinh phí thường xuyên nguồn NSNN của CTMTQG hiện đại hóa, nâng cao chất lượng GD-ĐT giai đoạn 2026-2035 (giai đoạn I: 2026-2030).
+2. **113/2026/TT-BTC**: Hướng dẫn quản lý, sử dụng và quyết toán kinh phí chi thường xuyên NSNN thực hiện CTMTQG về chăm sóc sức khỏe, dân số và phát triển giai đoạn 2026-2035 (giai đoạn I: 2026-2030).
+3. **44/2026/TT-BKHCN**: Quy định kiểm tra tần số vô tuyến điện. Hiệu lực từ 15/09/2026.
+
+### Sitemap snapshot backup
+
+- `tmp/discovery-v97/sitemap_nghidinh.xml` (MD5: `23553db37114f2cc3ecf513220a57416`)
+- `tmp/discovery-v97/sitemap_thongtu.xml` (MD5: `b3c2be908bd3b655bf9be6793d1fc374`)
+
+### Phiên thực hiện
+- agent: github-io:subagent:3a164e63-02c4-44b0-9313-955014cd3c812 (Đệ #1 Discovery)
+- branch: `heartbeat/crawl-vanban-20260806`
+- Ngày: 2026-08-07 00:40 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-06 v94 (Đệ #1 Discovery & Tracking — 2026-08-06 20:39 ICT)
 
 ### Kết quả discovery: 0 văn bản mới
