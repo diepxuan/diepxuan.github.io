@@ -10293,3 +10293,81 @@ Không có PR open nào khác (`gh pr list --state open` chỉ 1 PR #263).
 ### Phiên thực hiện
 - agent: github-io:subagent:71b4f71d (Đệ #4.2)
 - Ngày: 2026-08-06 19:50 ICT
+
+---
+
+## Cập nhật 2026-08-06 v96 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 20:28 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ các batch v82-v95
+
+v82-v95 đã review tổng cộng 50 VB. Chọn 5 VB mới chưa hề qua quality gate:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 299/NĐ-CP (Cơ cấu SNCL) | 664 | 0 | 31 (1-31) | [] | [] | 4 (I-IV) | **PASS CLEAN** |
+| 277/NĐ-CP (Hạ tầng văn hóa số) | 506 | 0 | 20 (1-20) | [] | [] | 5 (I-V) | **PASS CLEAN** |
+| 185/NĐ-CP (Thôn tổ dân phố) | 432 | 0 | 20 (1-20) text | [] | [] | 5 (I-V) text | **PASS CLEAN** |
+| 80/NĐ-CP (VPHC đường thủy) | 1736 | 0 | 55 (1-55) | [] | [] | 3 (I-III) text | **PASS CLEAN** |
+| 108/TT-BTC (CPH DNNN) | 741 | 0 | 18 (1-18) | [] | [] | 3 (I-III) | **PASS CLEAN** |
+
+**TẤT CẢ 5 VB PASS CLEAN — 0 lỗi OCR, 0 Missing, 0 Missing, 0 Duplicate**. Không cần sửa file nào.
+
+**Phát hiện chi tiết**:
+
+1. **299/2026/NĐ-CP** (664 dòng, `van-ban/co-cau-to-chuc/299-2026-nd-cp.md`): Nghị định quy định tổ chức đơn vị sự nghiệp công lập. 31 Điều (1-31) đầy đủ, 4 Chương (I-IV) đúng thứ tự. OCR=0. **PASS CLEAN**.
+
+2. **277/2026/NĐ-CP** (506 dòng, `van-ban/van-hoa/nghi-dinh-277-2026-nd-cp-ha-tang-van-hoa-so.md`): Nghị định phát triển hạ tầng văn hóa số. 20 Điều (1-20), 5 Chương (I-V). OCR=0. **PASS CLEAN**.
+
+3. **185/2026/NĐ-CP** (432 dòng, `van-ban/lao-dong/nghi-dinh-185-2026-nd-cp-thon-to-dan-pho.md`): Nghị định về tổ chức hoạt động thôn, tổ dân phố. 20 Điều, 5 Chương dùng text-format (không `##`/`###`). OCR=0. Nội dung đầy đủ, format text không chặn merge. **PASS CLEAN**.
+
+4. **80/2026/NĐ-CP** (1736 dòng, `van-ban/vi-pham-hanh-chinh/80-2026-nd-cp.md`): Nghị định sửa đổi xử phạt VPHC lĩnh vực hàng hải, đường thủy nội địa. 55 Điều (1-55) sử dụng `### Điều`, 3 Chương (I-III) dùng text-format. OCR=0 — chỉ có 2 FP (dòng tham chiếu nhiều Điều trong cùng dòng). **PASS CLEAN**.
+
+5. **108/2026/TT-BTC** (741 dòng, `van-ban/tai-chinh/108-2026-tt-btc-huong-dan-ke-toan-co-phan-hoa-doanh-nghiep-nha-nuoc.md`): Thông tư hướng dẫn kế toán cổ phần hóa DNNN. 18 Điều (1-18), 3 Chương (I-III). OCR=0. **PASS CLEAN**.
+
+**Bonus discovery**: Phát hiện file `van-ban/giao-duc/61-2026-tt-bgddt-tai-nguyen-giao-uc-mo-trong-giaoduc-dai-hoc.md` (255 dòng, 14 Điều, OCR=0) — đây là bản đầy đủ của 61/TT-BGDĐT, KHÔNG phải STUB như bản duplicate tại `van-ban/2026-07-17-61-tt-bgddt-...md` (61 dòng, status STUB). Cần cleanup file STUB.
+
+**KẾT LUẬN 5 VB**: 5/5 PASS CLEAN (100%). Không cần sửa file nào. Đây là lần đầu tiên tất cả 5 VB trong một batch đều 0 lỗi OCR hoàn toàn.
+
+### Nhiệm vụ 2: Refactor Scan
+
+| Tiêu chí | v95 | v96 | Thay đổi |
+|---|---|---|---|
+| Total *.md trong van-ban/ | 643 | **646** | +3 |
+| File "Đang cập nhật" | 159 | 159 | 0 |
+| File < 10KB (non-STUB, non-ĐCX) | 94 | **163** | +69 |
+| File very small < 3KB | 9 | **9** | 0 |
+
+**Thay đổi đáng chú ý**:
+- File `test-310-reconstructed.md` (401B) mới trong hanh-chinh/ — file test, cần cleanup.
+- File 61/TT-BGDĐT có 2 bản: STUB 61 dòng tại `2026-07-17-...` vàBản full 255 dòng tại `giao-duc/61-2026-tt-bgddt...` — cần dọn sạch bản STUB.
+
+### Nhiệm vụ 3: STUB Re-check
+
+| STUB | KB | Dòng | Trạng thái | Thay đổi so với v95 |
+|---|---|---|---|---|
+| 279/NĐ-CP | 1.3 | 26 | VẴN STUB | Không đổi |
+| 286/NĐ-CP | 2.1 | 57 | VẴN CHƯA HOÀN THIỆN | Không đổi |
+| 20/TT-BVHTTDL | 1.7 | 45 | VẴN STUB | Không đổi |
+| 61/TT-BGDĐT (STUB) | 2.9 | 61 | VẴN STUB (nhưng có bản full 255 dòng riêng tại giao-duc/) | CÓ DÚPLICATE |
+| 291/NQ-TDQH16 | 1.6 | 40 | VẴN STUB + NGHI NGHIỆM | Không đổi |
+| 17/NQ/UBTVQH16 | — | — | KHÔNG CX000 | Không đổi |
+
+**Ph°t hiện mới**: 61/TT-BGDĐT có bản đầy đủ 255 dòng (14 Điều, OCR=0) tại `van-ban/giao-duc/` — nhưng file STUB vẫn tồn tại tại `van-ban/2026-07-17-...`. Bản full chưa có `trangthai: hoanthien`. Cần (1) thêm `trangthai: hoanthien` vào bản full, (2) xóa file STUB.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp review. Không có action cần từ Bot.
+
+### Kết luận
+
+- **5/5 VB OCR QUALITY GATE PASS CLEAN** (100% — lần đu tiên không cần sửa file nào).
+- **2 file cần cleanup**: `test-310-reconstructed.md` (test file), `61-tt-bgddt...md` (STUB duplicate).
+- **PR #263**: Chờ Sếp review, không có comment mới.
+- **Không có thay đổi file Markdown** → không cần commit thêm.
+
+### Phiên thực hiện
+- agent: github-io:subagent:492e80be-1717-46ce-4bc-f364a115119 (Đệ #4 — Content Reviewer & PR Comment Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- PR #263 active, MERGEABLE, chờ Sếp
+- Đã sửa: 0 filesỤC (all PASS CLEAN)
+- Ngày: 2026-08-06 20:28 ICT Asia/Saigon
