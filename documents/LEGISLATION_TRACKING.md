@@ -1,3 +1,95 @@
+## Cập nhật 2026-08-06 v90 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 12:40 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88/v89
+
+v87 đã review: 96, 137, 146, 241, 260/NĐ-CP. v88 là slug verification (không có OCR gate). v89 đã review: 110/TT-BCA, 237/NĐ-CP, 41/TT-BCT, 116/TT-BCA, 42/TT-BCT.
+
+Chọn 5 VB khác từ các file commit gần đây (chưa được OCR quality gate trước đó):
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 302/NĐ-CP (Sở giao dịch hàng hóa) | 1100 | 19 FP (ngày l + "ngày làm việc") | 42 (1-42) | [] | [] | 5 (I-V) | **PASS with notes** |
+| 87/TT-BQP (Bãi bỏ VBQPPL) | 83 | 0 | 2 (1-2) | [] | [] | 0 | **PASS clean** |
+| 305/NĐ-CP (tố cáo QĐND) | 224 | 0 | 12 (1-12) | [] | [] | 0 | **PASS clean** |
+| 233/NĐ-CP (đánh giá viên chức) | 1044 | 0 | 21 (1-21) | [] | [] | 4 (I-IV) | **PASS clean** |
+| 262/NĐ-CP (báo chí nước ngoài) | 1385 | 17 FP + 5 thật (Phụ lục OCR tiếng Anh) | 27 (1-27) text | [1, 24] | [] | 0 (text heading) | **FAIL — 5 real OCR** |
+
+**Phát hiện chi tiết**:
+
+1. **302/2026/NĐ-CP** (1100 dòng, `van-ban/thuong-mai/nghi-dinh-302-2026-nd-cp-kinh-doanh-hang-hoa-qua-so-giao-dich.md`): Nghị định kinh doanh hàng hóa qua Sở giao dịch hàng hóa. 42 Điều (1-42) đầy đủ, 5 Chương (I-V) đúng thứ tự. OCR scan: 19 FP từ mẫu ngày làm việc nhúng trong "ngày làm việc". Tất cả 19 issues là FP. Scan Điều/Chương PASS (Missing=[], Dup=[]). **PASS with FP-only notes**.
+
+2. **87/2026/TT-BQP** (83 dòng, `van-ban/thong-tu-87-2026-tt-bqp.md`): Thông tư bãi bỏ văn bản quy phạm pháp luật thuộc Bộ Quốc phòng. 2 Điều (1-2), 0 Chương. OCR issues = 0. VB hoàn thiện, ngắn gọn. **PASS clean**.
+
+3. **305/2026/NĐ-CP** (224 dòng, `van-ban/quoc-phong/305-2026-ND-CP.md`): Nghị định sửa đổi, bổ sung NĐ 28/2019/NĐ-CP về tố cáo và giải quyết tố cáo trong QĐND. 12 Điều (1-12), 0 Chương. OCR issues = 0. **PASS clean**.
+
+4. **233/2026/NĐ-CP** (1044 dòng, `van-ban/233-2026-ND-CP-danh-gia-xep-loai-vien-chuc.md`): Nghị định đánh giá, xếp loại viên chức. 21 Điều (1-21), 4 Chương (I-IV). OCR issues = 0 (đã sửa OCR trong commit 5a92f8b5). **PASS clean**.
+
+5. **262/2026/NĐ-CP** (1385 dòng, `van-ban/bao-chi/262-2026-nd-cp.md`): Nghị định hoạt động báo chí nước ngoài. **17 FP + 5 lỗi OCR thật**:
+  - 17 FP: mẫu `ngày l` khớp với "ngày làm việc" trong văn bản — tất cả là hợp lệ
+  - 5 lỗi thật từ **Phụ lục mẫu đơn tiếng Anh** cuối file: L1080 garbled table rendering `©5s...`, L1226 `corresponden!(s)` => `correspondent(s)`, L1288 `a§sSistant` => `assistant`, L1333 `Stringør` => `Stringer`, L1382 `statemerf` => `statement`
+  - **Missing Điều 1 + Điều 24**: Điều 1 không có heading riêng (nội dung nằm trong phần đầu VB). Đoạn giữa Điều 23 và Điều 25 có thể là Điều 24 nhưng heading text không hiển thị rõ. Cần kiểm tra lại VB gốc.
+  - Heading dạng `Điều N.` (plain text, không có `###`). **Cần chuẩn hóa heading** và sửa Phụ lục OCR tiếng Anh trước merge.
+
+**KẾT LUẬN CHUNG 5 VB**: 4/5 PASS (3 clean + 1 FP-only). 262/NĐ-CP có 5 lỗi OCR thật trong Phụ lục + heading text format — cần sửa trước merge.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **638** |
+| File có "Đang cập nhật" (index placeholder) | **158** |
+| File < 10KB (không "Đang cập nhật", không status STUB) | **73** |
+| File < 5KB (không "Đang cập nhật", không status STUB) — đáng chú ý | **11** |
+
+**Các file < 5KB đáng chú ý**:
+
+| File | KB | Dòng | Loại | Đánh giá |
+|---|---|---|---|---|
+| nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md | 1.32 | 13 | NĐ tổ chức Bộ | STUB (chờ nguồn 404) — không phải refactor |
+| nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md | 1.58 | 15 | NQ TPQH | STUB + nghi ngờ số hiệu |
+| thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md | 1.67 | 45 | TT Bộ VHTTDL | STUB bền vững (không nguồn) |
+| nghi-dinh-286-2026-nd-cp-phoi-hop-nhap-xuat-canh.md | 2.08 | 57 | NĐ | "Chưa hoàn thiện" — thiếu toàn văn |
+| 61-tt-bgddt-tai-nguyen-giao-duc-mo.md | 2.95 | 61 | TT BGDĐT | STUB (không nguồn) |
+| thong-tu-26-2026-tt-btc-nguon-ngan-sach.md | 2.61 | 60 | TT BTC | VB ngắn thực tế — nội dung đầy đủ |
+| nghi-dinh-272-2026-nd-cp-dien-gio-ngoai-khoi.md | 3.37 | 52 | NĐ | Có thể STUB hoặc VB ngắn thực tế |
+
+**~50 file < 10KB có lastedit > 7 ngày** (trước 2026-07-30): hầu hết là VB sửa đổi/bổ sung ngắn (NĐ sửa đổi, TT sửa đổi, QĐ/TTg). Không khẩn cấp.
+
+**Đáng chú ý refactor**:
+- 279/NĐ-CP (1317 bytes, 13 dòng) — STUB đã biết, chờ nguồn.
+- 286/NĐ-CP (2076 bytes) — status "chưa hoàn thiện", chờ crawl toàn văn.
+- 272/NĐ-CP (3367 bytes, 52 dòng) — có thể STUB hoặc VB ngắn thực tế (NĐ điều chỉnh chính sách điện gió).
+- 162 file "Đang cập nhật" — chủ yếu là topic index placeholder, ưu tiên thấp.
+
+### Nhiệm vụ 3: STUB Re-check
+
+**STUB đã biết từ v85-v89 quét lại v90**:
+
+| STUB | File | KB | Trạng thái | Ghi chú |
+|---|---|---|---|---|
+| 20/TT-BVHTTDL | van-ban/van-hoa/... | 1.67 | VẪN STUB | Không có nguồn toàn văn. Luatvietnam 404, datafiles 403 |
+| 61/TT-BGDĐT | van-ban/2026-07-17-... | 2.99 | VẪN STUB | Chưa có nguồn toàn văn |
+| 291/NQ-TPQH16 | van-ban/van-hoa/... | 1.57 | VẪN STUB + NGHI NGỜ SỐ HIỆU | Ghi chú "Cần xác minh lại số hiệu" |
+| 279/NĐ-CP | van-ban/giao-duc/... | 1.32 | VẪN STUB | Chờ nguồn chính thức (404) |
+| 286/NĐ-CP | van-ban/chinh-phu/... | 2.08 | VẪN CHƯA HOÀN THIỆN | Thiếu nội dung toàn văn |
+
+**STUB đã giải quyết từ v85**: 103/TT-BTC, 191/NQ-CP, 59/TT-BGDĐT, 55/TT-BGDĐT — đã hoàn thiện, không còn STUB.
+
+Không phát hiện STUB chưa được biết đến từ v90.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+`gh api repos/diepxuan/diepxuan.github.io/issues/263/comments` => **0 comments**.
+
+PR #263 chưa có review hoặc comment nào. Chỉ có commit activity từ 9 commit (Đệ #1 Discovery, Đệ #3 OCR fix, Đệ #4 Review). Cần Sếp duyệt.
+
+### Phiên thực hiện
+- agent: github-io:subagent:546ce8c2-bf83-4fd5-9d9d-37dcbadf0e4a (Đệ #4)
+- Branch: `heartbeat/crawl-vanban-20260806` (PR #263 active)
+- Ngày: 2026-08-06 12:40 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-06 v89 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 11:39 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88
