@@ -1554,7 +1554,7 @@ gia tăng phải nộp (nếu có) của hoạt động, kinh doanh đang thực
 thuế của người nộp thuế, Ban quản lý dự á án, chỉ nhánh, tổ chức kinh tế mới được
 giao khai thuế giá trị gia tăng của dự án đầu tư. Số thuế giá trị gia tăng của dự án
 đầu tư được bù trừ tối đa bằng số thuế giá trị gia tăng phải nộp trên tờ khai thuế
-mẫu số 01/GTGT. Trường hợp dự án đâu tư đang trong giai đoạn đầu tư có phát
+mẫu số 01/GTGT. Trường hợp dự án đầu tư đang trong giai đoạn đầu tư có phát
 sinh doanh thu chạy thử, doanh thu hoạt động tài chính, doanh thu thanh lý nguyên
 vật liệu thì kê khai doanh thu phát sinh này vào tờ khai thuế mẫu số 01/GTGT và
 phải bù trừ số thuế giá trị gia tăng đầu vào của dự án đầu tư trên tờ khai thuế mẫu
@@ -3142,7 +3142,7 @@ việc tổ chức thu, nộp thuế.
 đ) Người nộp thuế:
 đ.1) Nộp tiền thuế đầy đủ, đúng thời hạn theo quy định của pháp luật về
 quản lý thuế; thực hiện nộp thuế điện tử tại hệ thống của các đơn vị quy định tại
-điểm a khoản 2 Điêu này (trừ trường hợp điêu kiện không cho phép);
+điểm a khoản 2 Điêu này (trừ trường hợp điều kiện không cho phép);
 đ.2) Khai đầy đủ, chính xác các thông tin thuộc trách nhiệm người nộp thuế
 phải khai trên bảng kê nộp thuế hoặc chứng từ nộp thuế;
 đ.3) Phối hợp với ngân hàng hoặc cơ quan thuế đối chiều thông tin, xử lý
@@ -7374,7 +7374,7 @@ tại Việt Nam;
 Bộ Tài chính hướng dẫn hồ sơ, thủ tục miễn thuế thu nhập cá nhân đối với cá nhân
 là người Việt Nam làm việc tại cơ quan đại diện của tổ chúc quốc tế thuộc hệ
 thông Liên hợp quốc tại Việt Nam;
-e) Thông tư số 84/2016/TT-BTC ngày L7 tháng 6 năm 2016 của Bộ trưởng
+e) Thông tư số 84/2016/TT-BTC ngày 17 tháng 6 năm 2016 của Bộ trưởng
 Bộ Tài chính hướng dẫn thủ tục thu nộp ngân sách nhà nước đối với các khoản
 thuế và thu nội địa;
 g) Thông tư số 19/2021/TT-BTC ngày 18 tháng 3 năm 2021 của Bộ trưởng
@@ -7427,7 +7427,7 @@ e) Các điểm b, c và điểm d khoản 1; khoản 2; khoản 3 Điều 7 Th�
 328/2016/TT-BTC ngày 26 tháng 12 năm 2016 của Bộ trưởng Bộ Tài chính
 hướng dẫn thu và hoàn trả các khoản thu ngân sách nhà nước qua Kho bạc Nhà
 nước, được sửa đổi, bổ sung bởi khoản 7 Điều I Thông tư số 72/2021/TT-BTC
-ngày L7 tháng 8 năm 2021 của Bộ trưởng Bộ Tài chính;
+ngày 17 tháng 8 năm 2021 của Bộ trưởng Bộ Tài chính;
 g) Bỏ cụm từ “hạch toán trừ nợ nghĩa vụ cho người nộp NSNN” tại điểm a
 khoản 3 Điều 11 Thông tư số 328/2016/TT-BTC được sửa đổi, bổ sung bởi khoản
 10 Điều I Thông tư số 72/2021/TT-BTC.

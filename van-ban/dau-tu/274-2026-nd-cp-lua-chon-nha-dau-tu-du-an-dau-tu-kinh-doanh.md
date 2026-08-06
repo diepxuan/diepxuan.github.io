@@ -78,7 +78,7 @@ chính sách tháo gỡ khó khẩn, vướng mắc trong tô chúc thì hành L
 
 Theo đê nghị của Bộ trưởng Bộ Tài chính;
 Chính phú ban hành Nghị định qiuạ định chỉ tiết một số điều và biện pháp thị
-hành Luật Đấu thầu về lụa chọn nhà đẫu tư thực hiện dự án đâu tư kinh doanh.
+hành Luật Đấu thầu về lụa chọn nhà đẫu tư thực hiện dự án đầu tư kinh doanh.
 ## Chương I
 NHỮNG QUY ĐỊNH CHUNG
 ### Điều 1.Phạm vi điều chỉnh
@@ -88,7 +88,7 @@ Nghị định này quy định chỉ tiết một số điều và biện pháp
 
 Đấu thầu về lựa chọn nhà đầu tư: thực hiện dự án đầu tư kinh doanh, gồm:
 1. Quy định chỉ tiết một số điều của Luật Đầu thầu về lựa chọn nhà đầu tư
-thực hiện dự án đâu tư kinh doanh:
+thực hiện dự án đầu tư kinh doanh:
 a) Khoản 6 Điều 6 về bảo đảm cạnh tranh trong lựa chọn nhà đầu tư;
 b) Khoản 6 Điều 10 về ưu đãi trong lựa chọn nhà đầu tư;
 c) Khoản 3 Điều 15 về chỉ phí lựa chọn nhà đầu tư;
@@ -104,9 +104,9 @@ nhà đầu tư; trường hợp không đâu thâu lựa chọn nhà đầu tư
 Ì) Khoản 5 Điều 62 về phương pháp và tiêu chuẩn đánh giá hồ sơ dự thầu;
 k) Khoản 2 Điều 73 về nội dung hợp đồng dự án đầu tư có sử dụng đất;
 - đ) Khoản 4 Điều 86 về kiểm tra, giám sát hoạt động đấu thầu lựa chọn nhà
-đâu tư;
+đầu tư;
 m) Khoản 5 Điều 87 về xử lý vi phạm trong hoạt động đấu thầu lựa chọn
-nhà đâu tư;
+nhà đầu tư;
 n) Khoản 4 Điều 88 về xử lý tình huống trong lựa chọn nhà đầu tư;
 o) Khoản 2 Điều 96 về quy định chuyển tiếp.
 2. Các biện pháp thi hành Luật Đầu thầu về lựa chọn nhà đầu tư thực hiện
@@ -150,7 +150,7 @@ thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh, cơ 
 quyền là Ủy ban nhân dân cấp tỉnh;
 b) Dự án không thuộc diện chấp thuận chủ trương đầu tư.
 4. Hồ sơ yêu cầu là toàn bộ tài liệu sử dụng cho hình thức chỉ định nhà
-đâu tư, bao gồm các yêu câu thực hiện dự án đầu tư kinh doanh làm căn cứ để
+đầu tư, bao gồm các yêu câu thực hiện dự án đầu tư kinh doanh làm căn cứ để
 nhà đầu tư chuân bị hồ sơ để xuất và để bên mời thầu tổ chức đánh giá hồ sơ
 đề xuất.
 3. Hồ sơ đề xuất là toàn bộ tài liệu do nhà đầu tư lập và nộp cho bên mời
@@ -176,7 +176,7 @@ sử dụng tài sản công.
 a) Dự án đầu tư xây dựng công trình xử lý chất thải rắn sinh hoạt thuộc trường
 hợp phải tô chức đầu thâu theo quy định của pháp luật về bảo vệ môi trường:
 b) Dự án đầu tư xây dựng công trình cấp nước thuộc trường hợp phải tô chức
-đâu thâu, không bao gồm dự án thuộc trường hợp chỉ định, châp thuận nhà đâu tư
+đâu thâu, không bao gồm dự án thuộc trường hợp chỉ định, châp thuận nhà đầu tư
 theo quy định của pháp luật về sản xuất, cung cấp và tiêu thụ nước sạch;
 c) Dự án đầu tư xây dựng chợ thuộc trường hợp phải tổ chức đấu thầu theo
 quy định của pháp luật về phát triên và quản lý chợ;
@@ -429,7 +429,7 @@ dụng lựa chợn nhà đầu tư qua mạng quy định tại Điều 70 củ
 hợp pháp khác của cơ quan có thẩm quyền, bên mời quan tâm, bên mời thầu,
 tổ thâm định.
 6. Căn cứ lập dự toán các khoản chỉ gồm: Quyết định chấp thuận chủ
-trương đâu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh; chính
+trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh; chính
 sách, chế độ theo quy định của pháp luật hiện hành tương ứng.
 7. Việc lập, phê duyệt, chấp hành dự toán các khoản chỉ lựa chọn nhà đầu
 tư quy định tại các khoản 1, 2 và 3 Điều này thực hiện theo quy định của pháp
@@ -489,9 +489,9 @@ của Hội đông giải quyết kiên nghị nộp vào ngân sách nhà nư�
 07 ngày làm việc kê từ thời điểm nhà đầu tư rút đơn kiến nghị.
 3. Bộ phận thường trực giúp việc của Hội đồng giải quyết kiến nghị lập và
 trình Chủ tịch Hội đông giải quyết kiến nghị phê duyệt dự toán chỉ giải quyết
-kiên nghị của nhà đâu tư theo từng vụ việc.
+kiên nghị của nhà đầu tư theo từng vụ việc.
 4. Dự toán chỉ do Chủ tịch Hội đồng giải quyết kiến nghị phê duyệt quy
-định tại khoản 3 Điều này không vượt mức kinh phí do nhà đâu tư có kiến nghị
+định tại khoản 3 Điều này không vượt mức kinh phí do nhà đầu tư có kiến nghị
 nộp theo quy định tại khoản 2 Điều này.
 5. Chủ tịch Hội đồng giải quyết kiến nghị quyết định mức khoán chỉ theo
 dự toán đã được phê duyệt cho các thành viên Hội đồng giải quyết kiến nghị,
@@ -573,7 +573,7 @@ căn cứ quy định của pháp luật quản lý ngành, lĩnh vực về yê
 không xác định số lượng nhà đầu tư quan tâm, quy trình, thủ tục lựa chọn nhà
 đầu tư thực hiện theo quy định tại các khoản 1, 2, 3 hoặc 4 Điều này.
 6. Đối với dự án áp dụng hình thức chỉ định nhà đầu tư, quy trình, thủ
-tục chỉ định nhà đâu tư thực hiện theo quy định tại Mục 2 Chương V của
+tục chỉ định nhà đầu tư thực hiện theo quy định tại Mục 2 Chương V của
 Nghị định này.
 7. Đối với dự án áp dụng hình thức lựa chọn nhà đầu tư trong trường hợp
 đặc biệt, quy trình, thủ tục lựa chọn nhà đầu tư thực hiện theo quy định tại Mục
@@ -597,7 +597,7 @@ chấp thuận chủ trương đầu tư
 đất được Hội đồng nhân dân cấp tỉnh quyết định, cơ quan nhà nước có thâm
 quyền theo quy định của pháp luật về đầu tư hoặc nhà đầu tư lập hồ sơ đề nghị
 chấp thuận chủ trương đầu tư làm cơ sở thực hiện thủ tục chấp thuận chủ trương
-đâu tư.
+đầu tư.
 2. Ủy ban nhân dân cấp tỉnh, Ban quản lý khu kinh tế giao cơ quan, tổ
 chức, đơn vị thuộc, trực thuộc hoặc Ủy ban nhân dân cấp xã đăng tải quyết định
 chấp thuận chủ trương đầu tư lên Hệ thống mạng đấu thầu quốc gia theo quy
@@ -630,7 +630,7 @@ c) Văn bản phê duyệt thông tin dự án đầu tư kinh doanh gồm nội
 định tại các điểm b, c, d và e khoản 2 Điều 47 của Luật Đầu thầu, trong đó giao
 cơ quan, tô chức, đơn vị quy định tại điểm a khoản này đăng tái thông tin trên
 Hệ thống mạng đấu thầu quốc gia. Việc đăng tải thông tin dự án quy định tại
-điêm này được thực hiện trước khi tổ chức đầu thầu lựa chọn nhà đâu tư.
+điêm này được thực hiện trước khi tổ chức đầu thầu lựa chọn nhà đầu tư.
 3. Nhà đầu tư được đề xuất thực hiện dự án đầu tư kinh doanh ngoài dự án
 đã được phê duyệt và công bố theo quy định tại Điều 10 của Nghị định này và
 khoản 2 Điều này, trừ trường hợp pháp luật quản lý ngành, lĩnh vực quy định
@@ -710,7 +710,7 @@ phương thức đấu thầu lựa chọn nhà đầu tư, thời gian bắt đ
 nhà đầu tư thực hiện dự án đầu tư kinh doanh.
 3. Đối với đự án đầu tư kinh doanh thuộc diện chấp thuận chủ trương đầu
 tư theo quy định của pháp luật về đầu tư, bảng theo dõi tiến độ thực hiện các
-hoạt động lựa chọn nhà đâu tư được phê duyệt độc lập hoặc đồng thời với quyết
+hoạt động lựa chọn nhà đầu tư được phê duyệt độc lập hoặc đồng thời với quyết
 định chấp thuận chủ trương đầu tư.
 4. Đối với dự án đầu tư kinh doanh không thuộc điện chấp thuận chủ
 trương đầu tư, bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà
@@ -930,7 +930,7 @@ vực, địa phương của từng hồ sơ dự thầu.
 1. Việc đánh giá hồ sơ dự thầu căn cứ vào phương pháp, tiêu chuẩn đánh
 giá hồ sơ dự thầu và các yêu cầu khác trong hồ sơ mời thầu, hồ sơ dự thầu đã
 nộp, các tài liệu giải thích, làm rõ hồ sơ dự thầu của nhà đầu tư để bảo đảm lựa
-chọn được nhà đâu tư có đủ năng lực, có phương án kỹ thuật, tài chính khả thi
+chọn được nhà đầu tư có đủ năng lực, có phương án kỹ thuật, tài chính khả thi
 để thực hiện dự án.
 2. Việc đánh giá hồ sơ dự thầu được thực biện trên bản chụp, nhà đầu tư
 chịu trách nhiệm về tính thống nhất giữa bản gốc và bản chụp. Trường hợp có
@@ -1584,7 +1584,7 @@ kinh doanh
 
 1. Việc mở thầu được thực hiện trên Hệ thống mạng đầu thầu quốc gia và
 bắt đầu ngay trong thời hạn 02 giờ kế từ thời điểm hết hạn nộp hồ sơ đăng ký
-thực hiện dự án đâu tư kinh doanh.
+thực hiện dự án đầu tư kinh doanh.
 2. Bên mời quan tâm tô chức đánh giá hồ sơ đăng ký thực hiện dự án đầu
 
 tư kinh doanh của các nhà đầu tư đã nộp hồ sơ. Việc đánh giá hồ sơ đăng ký
@@ -1614,9 +1614,9 @@ chọn nhà đầu tư với các nội dung theo quy định tại khoản 2 Đ
 kết quả mời quan tâm; trong đó, hình thức đấu thầu lựa chọn nhà đầu tư được
 xác định theo quy định sau:
 a) Đấu thầu rộng rãi trong nước nếu không có nhà đầu tư nước ngoài đáp
-ứng điêu kiện mời quan tâm;
+ứng điều kiện mời quan tâm;
 b) Đấu thầu rộng rãi quốc tế nếu có ít nhất một nhà đầu tư nước ngoài đáp
-ứng điêu kiện mời quan tâm.
+ứng điều kiện mời quan tâm.
 3. Đối với trường hợp quy định tại điểm c khoản 1 Điều này, người có
 thâm quyên thông báo bằng văn bản về việc kết thúc thủ tục mời quan tâm.
 Trường hợp thực hiện lại thủ tục mời quan tâm thì xem xét quyết định thực hiện
@@ -1864,7 +1864,7 @@ Ban Thường vụ các tỉnh, thành phố trực thuộc trung ương, Nghị
 c) Dự án phát triển đô thị theo mô hình TOD thuộc phạm vi dự án đường
 sắt quốc gia theo quy định của pháp luật về đường sắt.
 3. Hằng năm, cơ quan có thẩm quyền báo cáo kết quả triển khai dự án do
-nhà đâu tư được chỉ định thực hiện, bảo đảm dự án được thực hiện đáp ứng yêu
+nhà đầu tư được chỉ định thực hiện, bảo đảm dự án được thực hiện đáp ứng yêu
 câu về tiên độ, chất lượng, hiệu quả, gửi Bộ Tài chính để tông hợp, báo cáo Thủ
 tướng Chính phủ tại báo cáo tình hình thực hiện hoạt động đâu thâu.
 ### Điều 48.Quy trình chí định nhà đầu tư
@@ -1874,7 +1874,7 @@ tướng Chính phủ tại báo cáo tình hình thực hiện hoạt động �
 „ 3) Quy trình thông thường được áp dụng đối với dự án do cơ quan có thẩm
 quyền lập hồ sơ đê nghị châp thuận chủ trương đầu tư (đối với dự án thuộc diện
 chập thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư) hoặc hô sơ.
-đề xuất dự án (đôi với dự án không thuộc diện châp thuận chủ trương đâu tư);
+đề xuất dự án (đôi với dự án không thuộc diện châp thuận chủ trương đầu tư);
 .__ b) Quy trình chỉ định rút gọn được áp dụng đối với dự án do nhà đầu tư
 đề xuât.
 Nhà đầu tư được chỉ định triển khai thực hiện dự án theo quy định tại
@@ -2029,12 +2029,12 @@ công nghệ cao, ươm tạo doanh nghiệp công nghệ cao, doanh nghiệp c�
 chiến lược, doanh nghiệp công nghệ cao, doanh nghiệp sản xuất sản phẩm công
 nghệ cao theo quy định của pháp luật về công nghệ cao;
 b) Yêu cầu về khả năng huy động vốn vay của nhà đầu tư; trường hợp liên
-danh, vôn vay của nhà đâu tư liên danh bằng tổng vốn vay của các thành viên
+danh, vôn vay của nhà đầu tư liên danh bằng tổng vốn vay của các thành viên
 liên danh;
 c) Lịch sử tranh chấp, khiếu kiện đối với dự án đã và đang thực hiện;
 đ) Quá trình hoạt động đầu tư của nhà đầu tư tại tỉnh, thành phố trực thuộc
 trung ương nơi triên khai dự án, gôm: kết quả về tiến độ, chật lượng triên khai
-dự án; lịch sử bị ngừng hoặc chấm dứt hoạt động đâu tư (nêu có);
+dự án; lịch sử bị ngừng hoặc chấm dứt hoạt động đầu tư (nêu có);
 đ) Yêu cầu về các chỉ tiêu tài chính (nếu có).
 2. Hồ sơ mời thầu không quy định tiêu chuẩn đánh giá kinh nghiệm thực
 hiện dự án tương tự nhưng cần quy định nguyên tắc xử lý trong trường hợp nhà
@@ -2463,7 +2463,7 @@ quy định của pháp luật tương ứng với từng loại hình tô chứ
 về đầu tư, doanh nghiệp, đất đai, kinh doanh bất động sản và pháp luật quản lý
 ngành, lĩnh vực; phải kế thừa quyền và nghĩa vụ thực hiện dự án đầu tư mà nhà
 
-đâu tư chuyên nhượng đã cam kết tại hồ sơ dự thầu, hồ sơ đề xuất và hợp đồng
+đầu tư chuyên nhượng đã cam kết tại hồ sơ dự thầu, hồ sơ đề xuất và hợp đồng
 dự án;
 c) Kế từ khi dự án thực hiện khai thác, vận hành, việc chuyển nhượng cổ
 phần, phần vốn góp được thực hiện theo quy định của pháp luật về doanh
@@ -2583,7 +2583,7 @@ c) Bản chụp các hồ sơ, tài liệu: Hồ sơ mời thâu, biên bản đ
 thâu, hô sơ dự thâu của các nhà đầu tư và những tài liệu khác có liên quan.
 2. Nội dung thâm định gôm:
 a) Kiêm tra các tài liệu là căn cứ của việc tô chức đâu thâu lựa chọn nhà
-đâu tư;
+đầu tư;
 b) Kiêm tra việc tuân thủ quy định về thời gian trong quá trình tô chức đâu
 thâu lựa chọn nhà đầu tư;
 e) Kiểm tra việc đánh giá hồ sơ dự thầu; việc tuân thủ quy định của pháp
@@ -2870,7 +2870,7 @@ hợp đồng đáp ứng yêu cầu về chất lượng, tiến độ, hiệu 
 1) Đối với dự án thuộc trường hợp quy định tại điểm a và điểm b khoản 3
 Điều này, ngoài các nội dung quy định tại các điểm a, b, c, đ, đ, e, g, h khoản
 này, nội dung giám sát gôm: tình hình, tiến độ, kết quả của việc áp dụng các
-hình thức lựa chọn nhà đâu tư; đánh giá kết quả việc áp dụng hình thức chỉ định
+hình thức lựa chọn nhà đầu tư; đánh giá kết quả việc áp dụng hình thức chỉ định
 nhà đầu tư, lựa chọn nhà đầu tư trong trường hợp đặc biệt, đánh giá quá trình
 triển khai dự án của nhà đầu tư trúng thầu, bảo đảm tuân thủ các cam kết theo
 hợp đồng dự án.
@@ -3519,7 +3519,7 @@ thực hiện điều khoản
 - Hội đông nhân dân| - Pháp luật
 - Phê duyệt danh mục các khu đất thực || (HĐND) cấp tỉnh đât đai
 hiện đầu thầu - Cơ quan. nhà nước | - Pháp luật
-- Quyết định chấp thuận chủ trương || có thẩm quyền đâu tư
+- Quyết định chấp thuận chủ trương || có thẩm quyền đầu tư
 đầu Ấn GIÀ : - Người có thẩm| - Điều 37
 ~ Người có thâm quyên giao cơ quan, Ầ |
 đơn vị làm bên mời quan tâm! quyền (NCTQ) [H
@@ -3976,7 +3976,7 @@ ngà S:g, C) 2 ỂY gz7ăm 2026 của Chính phủ)
 2. Bên mời thầu: ——_ fGhi tên bên mời thâu}
 
 3. Hình thức, phương thức lựa chọn nhà đầu tư (Ghi tên hình
-thức, phương thức lựa chọn nhà đâu tư]
+thức, phương thức lựa chọn nhà đầu tư]
 
 4. Thời gian bắt đầu tổ chức lựa chọn nhà đầu tư: (Ghi thời
 gian bắt đầu tổ chúc lựa chọn nhà đầu t]
@@ -4082,7 +4082,7 @@ thường, hỗ trợ, tái định cư (nếu có); thời gian xây dựng cô
 sở hạ tầng (nếu có); thời gian vận hành, quản lý, kinh doanh công trình, hệ
 thống cơ sở hạ tầng.
 5. Bồi thường, hỗ trợ, tái định cư (nếu có); tiến độ giao đất, cho thuê đất,
-điêu kiện sử dụng đất, mặt nước, tài nguyên khác và công trình có liên quan:
+điều kiện sử dụng đất, mặt nước, tài nguyên khác và công trình có liên quan:
 a) Thông tin về phương án bồi thường, hỗ trợ, tái định cư và tổ chức xây,
 dựng công trình phụ trợ (nếu có);
 Đối với dự án đầu tư cải tạo, xây dựng lại nhà chung cư, thông tin về

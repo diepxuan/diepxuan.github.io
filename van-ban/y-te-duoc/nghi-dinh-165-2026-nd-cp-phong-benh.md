@@ -646,7 +646,7 @@ mà Việt Nam là thành viên tổ chức thực hiện, kiểm tra, giám sá
 
 ### Mục 2. KHOANH VÙNG, KIỂM SOÁT, NGĂN CHẶN SỰ LÂY LAN DỊCH BỆNH GIỮA KHU VỰC CÓ DỊCH BỆNH VÀ KHU VỰC KHÔNG CÓ DỊCH BỆNH
 
-Điều 13.
+### Điều 13.
 Khoanh vùng, kiểm soát, ngăn chặn sự lây lan dịch bệnh giữa khu vực có dịch
 bệnh và khu vực không có dịch bệnh
 
