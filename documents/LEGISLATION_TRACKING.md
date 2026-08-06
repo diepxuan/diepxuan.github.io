@@ -1,3 +1,51 @@
+## Cập nhật 2026-08-06 v88 (Đệ #1 Discovery & Tracking — 2026-08-06 11:06 ICT)
+
+### Kết quả: Slug verification — 7 VB backlog
+
+Phương pháp: curl HTTP GET từng slug trên luatvietnam.vn với Chrome UA. Xác minh HTTP status, body size.
+
+### 7 VB verification results
+
+| # | Số hiệu | Slug | HTTP | Size | Body | Đánh giá |
+|---|---|---------|------|------|------|------|----------|
+| 1 | **306/2026/NĐ-CP** | 442732-d1 | ✅ 200 | 390KB | ✅ | NĐ cơ cấu Bộ Ngoại giao, 5 Điều |
+| 2 | **307/2026/NĐ-CP** | 442727-d1 | ✅ 200 | 463KB | ✅ | 21 Điều, dân tộc thiểu số |
+| 3 | **001/2026/NĐ-CP** ★ | 422901-d1 | ✅ 200 | 373KB | ✅ | VB thực: 01/2026/NĐ-CP, gìn giữ hòa bình LHQ |
+| 4 | **114/2026/TT-BTC** | 442774-d1 | ✅ 200 | 230KB | ✅ | TT bãi bỏ, 2 Điều |
+| 5 | **111/2026/TT-BTC** | 442765-d1 | ✅ 200 | 227KB | ✅ | TT bãi bỏ, hưu trí bổ sung |
+| 6 | **33/2026/TT-BNNMT** | 442684-d1 | ✅ 200 | 699KB | ✅ | Thủy sản, VB dài nhất batch |
+| 7 | **05/2026/TT-BNG** | 442443-d1 | ✅ 200 | 387KB | ✅ | Dịch Quốc hiệu sang tiếng Anh |
+
+★ **Lưu ý**: Task ghi "001/2026/NĐ-CP" (3-digit padded). VB thực tế là **01/2026/NĐ-CP** (Nghị định quy định chi tiết Luật Tham gia lực lượng gìn giữ hòa bình LHQ), slug 422901-d1. VB cũ (ban hành 01/01/2026) nhưng MỚI trong backlog.
+
+### Verified URLs
+1. https://luatvietnam.vn/ngoai-giao/nghi-dinh-306-2026-nd-cp-chuc-nang-nhiem-vu-va-co-cau-to-chuc-bo-ngoai-giao-442732-d1.html
+2. https://luatvietnam.vn/chinh-sach/nghi-dinh-307-2026-nd-cp-quy-dinh-ve-nguoi-co-uy-tin-va-chinh-sach-cho-dan-toc-thieu-so-442727-d1.html
+3. https://luatvietnam.vn/an-ninh-quoc-gia/nghi-dinh-01-2026-nd-cp-quy-dinh-chi-tiet-luat-tham-gia-luc-luong-gin-giu-hoa-binh-422901-d1.html
+4. https://luatvietnam.vn/tai-chinh/thong-tu-114-2026-tt-btc-bai-bo-thong-tu-22-2005-va-huong-dan-vi-tri-viec-lam-tai-chinh-442774-d1.html
+5. https://luatvietnam.vn/lao-dong/thong-tu-111-2026-tt-btc-bai-bo-thong-tu-ve-huu-tri-bo-sung-tu-nguyen-442765-d1.html
+6. https://luatvietnam.vn/nong-nghiep/thong-tu-33-2026-tt-bnnmt-sua-doi-bo-sung-thong-tu-thuy-san-hieu-luc-tu-19-09-2026-442684-d1.html
+7. https://luatvietnam.vn/ngoai-giao/thong-tu-05-2026-tt-bng-huong-dan-dich-quoc-hieu-va-chuc-danh-sang-tieng-anh-442443-d1.html
+
+### Trạng thái sitemap (so với v83 ref)
+- NĐ sitemal MD5: c77bbf54447ef465aea778d5bb6a8cd9 — UNCHANGED
+- TT sitemal MD5: 59062d8a7f6f3b500befc786a9e9e782 — UNCHANGED
+- Sitemap backup: tmp/discovery-v88/
+
+### KẾT LUẬN
+- **7/7 VB (100%)** — verified slug + body toàn văn HTTP 200 + size >= 30KB
+- Không có 404, 403, hay SPA block nào
+- Tất cả 7 VB CHƯA CÓ trong van-ban/
+- Cần bổ sung 302/NĐ-CP và 305/NĐ-CP ở phiên discovery sau (v82 tracking)
+
+### Phiên thực hiện
+- agent: github-io:subagent:889160c7-cf91-4fe8-b64b-48d942185744 (Đệ #1 Discovery)
+- Branch: `heartbeat/crawl-vanban-20260806`
+- PR #263 active
+- Ngày: 2026-08-06 11:06 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-06 v85 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 07:44 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v84)
