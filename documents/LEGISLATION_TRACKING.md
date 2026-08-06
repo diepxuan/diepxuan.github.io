@@ -10349,10 +10349,10 @@ v82-v95 đã review tổng cộng 50 VB. Chọn 5 VB mới chưa hề qua qualit
 | 286/NĐ-CP | 2.1 | 57 | VẴN CHƯA HOÀN THIỆN | Không đổi |
 | 20/TT-BVHTTDL | 1.7 | 45 | VẴN STUB | Không đổi |
 | 61/TT-BGDĐT (STUB) | 2.9 | 61 | VẴN STUB (nhưng có bản full 255 dòng riêng tại giao-duc/) | CÓ DÚPLICATE |
-| 291/NQ-TDQH16 | 1.6 | 40 | VẴN STUB + NGHI NGHIỆM | Không đổi |
-| 17/NQ/UBTVQH16 | — | — | KHÔNG CX000 | Không đổi |
+| 291/NQ-TPQH16 | 1.6 | 40 | VẴN STUB + NGHI NGỜ | Không đổi |
+| 17/NQ/UBTVQH16 | — | — | KHÔNG TỒN TẠI | Không đổi |
 
-**Ph°t hiện mới**: 61/TT-BGDĐT có bản đầy đủ 255 dòng (14 Điều, OCR=0) tại `van-ban/giao-duc/` — nhưng file STUB vẫn tồn tại tại `van-ban/2026-07-17-...`. Bản full chưa có `trangthai: hoanthien`. Cần (1) thêm `trangthai: hoanthien` vào bản full, (2) xóa file STUB.
+**Phát hiện mới**: 61/TT-BGDĐT có bản đầy đủ 255 dòng (14 Điều, OCR=0) tại `van-ban/giao-duc/` — nhưng file STUB vẫn tồn tại tại `van-ban/2026-07-17-...`. Bản full chưa có `trangthai: hoanthien`. Cần (1) thêm `trangthai: hoanthien` vào bản full, (2) xóa file STUB.
 
 ### Nhiệm vụ 4: PR Comments (#263)
 
@@ -10360,7 +10360,7 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 
 ### Kết luận
 
-- **5/5 VB OCR QUALITY GATE PASS CLEAN** (100% — lần đu tiên không cần sửa file nào).
+- **5/5 VB OCR QUALITY GATE PASS CLEAN** (100% — lần đầu tiên không cần sửa file nào).
 - **2 file cần cleanup**: `test-310-reconstructed.md` (test file), `61-tt-bgddt...md` (STUB duplicate).
 - **PR #263**: Chờ Sếp review, không có comment mới.
 - **Không có thay đổi file Markdown** → không cần commit thêm.
@@ -10369,5 +10369,5 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 - agent: github-io:subagent:492e80be-1717-46ce-4bc-f364a115119 (Đệ #4 — Content Reviewer & PR Comment Reviewer)
 - branch: `heartbeat/crawl-vanban-20260806`
 - PR #263 active, MERGEABLE, chờ Sếp
-- Đã sửa: 0 filesỤC (all PASS CLEAN)
+- Đã sửa: 0 files (all PASS CLEAN)
 - Ngày: 2026-08-06 20:28 ICT Asia/Saigon
