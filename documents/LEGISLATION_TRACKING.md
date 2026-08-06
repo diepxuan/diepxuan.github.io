@@ -1,3 +1,75 @@
+## Cập nhật 2026-08-06 v92 (Đệ #4 Content Reviewer — 2026-08-06 17:29 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ record v84-v91
+
+v84-v91 đã review tổng cộng 35 VB. Chọn 5 VB mới chưa hề qua quality gate:
+
+| VB | Dòng | OCR issues trước sửa | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 46/NĐ-CP (An toàn thực phẩm) | 1187 | 18 FP (ngày l = "ngày làm việc") | 55 (1-55) | [] | [] | 11 (I-XI) | **PASS CLEAN (FP only)** |
+| 50/NĐ-CP (Tiền SD đất, thuê đất) | 1396 | 3 FP (ngày l = "ngày làm việc"/"ngày Luật") | 14 + 2 amend (1-14 + 8,41 sửa đổi NĐ khác) | [] | [8] FP (2 ngữ cảnh khác) | 3 (I-III) | **PASS CLEAN** |
+| 284/NĐ-CP (Xử phạt tài sản mã hóa) | 1221 | 2 (đâu tư→đầu tư) → ĐÃ SỬA | 23 (1-23) | [] | [] | 4 (I-IV) | **PASS — ĐÃ SỬA 2 lỗi** |
+| 127/NĐ-CP (Halal) | 1244 | 0 | 27 (1-27) | [] | [] | 6 (I-VI) | **PASS CLEAN** |
+| 280/NĐ-CP (Bảo hiểm tiền gửi) | 1422 | 4 thật (tổ chúc, quản Lý, đâu tư, tiên gửi) → ĐÃ SỬA | 38 (1-38) | [] | [] | 6 (I-VI) | **PASS — ĐÃ SỬA 4 lỗi** |
+
+**Phát hiện chi tiết**:
+
+1. **46/2026/NĐ-CP** (1187 dòng, `van-ban/y-te-duoc/nghi-dinh-46-2026-nd-cp-an-toan-thuc-pham.md`): Nghị định quy định chi tiết Luật An toàn thực phẩm. 55 Điều (1-55) đầy đủ, 11 Chương (I-XI) đúng thứ tự. 18 FP từ mẫu `ngày l` trong "ngày làm việc" — well-known FP pattern. **PASS CLEAN**.
+
+2. **50/2026/NĐ-CP** (1396 dòng, `van-ban/dat-dai/nghi-dinh-50-2026-nd-cp-tien-su-dung-dat-tien-thue-dat.md`): Nghị định hướng dẫn NQ 254/QH15 về tiền sử dụng đất, tiền thuê đất. 14 Điều chính + phần sửa đổi NĐ khác. Duplicate Điều 8 là FP (1 Điều trong phần chính + 1 Điều trong phần sửa đổi NĐ 103/2024). 3 FP "ngày l". **PASS CLEAN**.
+
+3. **284/2026/NĐ-CP** (1220 dòng, `van-ban/tai-chinh/284-2026-nd-cp-xu-phat-tai-san-ma-hoa.md`): Nghị định xử phạt VPHC trong lĩnh vực tài sản mã hóa. 23 Điều, 4 Chương. 2 lỗi `đâu tư` → `đầu tư` ở L444, L594. **Đã sửa direct**. Post-fix OCR=0. **PASS CLEAN**.
+
+4. **127/2026/NĐ-CP** (1244 dòng, `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-127-2026-nd-sp-jalal.md`): Nghị định về quản lý, kinh doanh sản phẩm Halal. 27 Điều, 6 Chương (I-VI). OCR=0, Missing=[], Duplicate=[]. **PASS CLEAN**. File CHẤT LƯỢNG CAO — không một lỗi OCR.
+
+5. **280/2026/NĐ-CP** (1422 dòng, `van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md`): Nghị định về tổ chức, hoạt động và quản lý, đ-tư vốn NN tại Bảo hiểm tiền gửi Việt Nam. 38 Điều, 6 Chương. 4 lỗi thật đều ở L86-89: `tổ chúc`→`tổ chức`, `quản Lý`→`quản lý`, `đâu t-ủ`→`đầu tư`, `tiên gửi`→`tiền gửi`. **Đã sửa**, post-fix CLEAN.
+
+### Nhiệm vụ 2: Refactor Scan
+
+| Tiêu chí | Kết quả |
+|---|---|
+| Tổng file *.md trong van-ban/ | **642** |
+| File "Đang cập nhật" | **158** |
+| File < 10KB (non-Đang cập nhật, non-STUB) | **70+** |
+| File lastedit > 7 ngày (trước 2026-07-30) | **546** |
+
+**Đáng chú ý**:
+- 279/NĐ-CP (1317B, 26 dòng) — STUB, chờ nguồn 404
+- 286/NĐ-CP (2076B, 57 dòng) — status "chưa hoàn thiện"
+- 20/TT-BVHTTDL (1673B, 45 dòng) — STAB bền vững
+- 61/TT-BGDĐT (2945B, 61 dòng) — STUB
+- 291/NQ-TPQH5 (1575B, 40 dòng) — STUB + nghi ngờ số hiệu
+- 272/NĐ-CP (3367B) — có thể VB ngắn/IP thiếu nội dung
+
+### Nhiệm vụ 3: STUB Check
+
+| STUB | File | KB | Trạng thái | Ghi chú |
+|---|---|---|---|---|
+| **279/NĐ-CP** | van-ban/giao-duc/... | 1.3 | VẪN STUB | Chưa có nguồn toàn văn. Vanban.chinhphu.vn docid 218804 404, luatvietnam slug 440239 404 |
+| **286/NĐ-CP** | van-ban/chinh-phu/... | 2.1 | VẴN CHƯA HOÀN THIỆN | Status: chưa hoàn thiện. Thiếu nội dung toàn văn |
+| **17/NQ/UBTVQH16** | — KHÔNG TỒN TẠI | — | FILE NOT EXIST | Không có file này trong van-ban/. Có thể số hiệu sai, chưa crawl, hoặc VB không tồn tại |
+| **291/NQ-TPQH16** | van-ban/van-hoa/... | 1.6 | VẪN STUB + NGHI NGỮ SỐ HIỆU | Status: STAB. Note: "sitemap_nghidinh là N Đ 291/NĐ-CP, không phải NQ 291/NQ-TPQH16. Cần xác minh số hiệu" |
+| **20/TT-BVHTTDL** | van-ban/van-hoa/... | 1.7 | VẴN STUB | Luatvietnam 404, datafiles 403, vbpl.vn SPA block |
+| **61/TT-BGDĐT** | van-ban/2026-07-17-... | 2.9 | VẴN STUB | Tất cả nguồn đều không trả về text |
+
+**Kết luận STUB**: 5/6 là STUB bền vững (đã biết từ các batch định); 1/6 (17/NQ/UBTVQH16) không tồn tại trong repository — cần verify số hiệu.
+
+### Nhiệm vụ 4: PR #263 Comments
+
+PR #263: `gh pr view 263 --json comments,revieww` → **0 comments, 0 reviews**. MERGEABLE. Chưa có review hoặc comment nào. Chờ Sếp+review.
+
+### Kết luận
+
+**5/5 VB OCR GATE PASS CLEAN**: 46/NĐ-CP (FP only), 50/NĐ-CP (FP only), 284/NĐ-CP (2 fixes), 127/NĐ-CP (clean!), 280/NĐ-CP (4 fixes).
+
+### Phiên thực hiện
+- agent: github-io:subagent:22b90bf4-37d8-4c6b-aa3d-6ff29f60dcc2 (Đệ #4 — Content Reviewer & PR Comment Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- PR #263 active, chờ Sếp review
+- Ngày: 2026-08-06 17:29 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-06 v91 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 15:06 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC hết 7 batch v2-v90-2
