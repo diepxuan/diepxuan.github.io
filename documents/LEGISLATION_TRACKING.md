@@ -1,3 +1,12 @@
+## Cập nhật 2026-08-07 04:59 (Poll — 44/TT-BKHCN fail 3x, đánh dấu STUB)
+
+- VB: 44/TT-BKHCN (kiểm tần số vô tuyến điện, slug 442979-d1, hiệu lực 15/09/2026)
+- Trạng thái: **Stub - Đệ #3 fail 3x** (poll 00:59, 02:29, 03:59) - không có output commit
+- Lý do: Sub-agent bị stale mỗi lần gọi, không sinh file output
+- Hành động: Chuyển sang STUB, chờ nguồn khác hoặc manual retry
+
+---
+
 ## Cập nhật 2026-08-07 v97 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-07 01:05 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ v84-v97+
