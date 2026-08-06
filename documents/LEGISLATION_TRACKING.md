@@ -1,8 +1,33 @@
-## Cập nhật 2026-08-07 04:59 (Poll — 44/TT-BKHCN fail 3x, đánh dấu STUB)
+## Cập nhật 2026-08-07 v98 (Đệ #1 Discovery — 2026-08-07 05:04 ICT)
 
-- VB: 44/TT-BKHCN (kiểm tần số vô tuyến điện, slug 442979-d1, hiệu lực 15/09/2026)
-- Trạng thái: **Stub - Đệ #3 fail 3x** (poll 00:59, 02:29, 03:59) - không có output commit
-- Lý do: Sub-agent bị stale mỗi lần gọi, không sinh file output
+### Kết quả discovery: 0 văn bản mới
+
+Phương pháp: refresh sitemap luatvietnam.vn lúc 05:04 ICT 7/8. So với ref v97.
+
+**MD5 comparison** (so với v97):
+- NĐ: `23553db37114f2cc3ecf513220a57416` – **UNCHANGED** (từ v94-v97)
+- TT: `59062d8a7f6f3b500befc786a9e9e782` – **REVERTED về v94** (v97 là `b3c2be908bd3b655bf9be6793d1fc374`)
+
+**Max d1 slug**:
+- NĐ: 442906 (không đổi) → 0 slug mới
+- TT: 442804 (giảm từ 442979 ở v97) → sitemap đã revert, 3 slug v97 bị gỡ
+
+**3 VB v97 đã gỡ khỏi sitemap (HTTP 403)**:
+- 112/TT-BTC (442918): đã crawl thành công (commit `2f7697c6`)
+- 113/TT-BTC (442942): đã crawl thành công (commit `6ddd1bdd`)
+- 44/TT-BKHCN (442979): đã STUB (commit `48d3e092`, Đệ #3 fail 3x)
+
+**Kết luận**: 0 VB mới. Toàn bộ backlog đã được xử lý. Kiến nghị poll lại sau 6-12h.
+
+Chi tiết: `tmp/discovery-v98/REPORT.md`
+
+---
+
+## Cập nhật 2026-08-07 04:59 (STUB ð— 44/TT-BKHCN fail 3x)
+
+- VB: 44/TT-BKHCN (kiểm tần số vô tuyến điện, slug 442979-d01, hiệu lực 15/09/2026)
+- Trạng thái: **Stub – Đệ #3 fail 3x** (poll 00:59, 02:29, 03:59)
+- Lý do: Sub-agent bị stale, không sinh file putput
 - Hành động: Chuyển sang STUB, chờ nguồn khác hoặc manual retry
 
 ---
