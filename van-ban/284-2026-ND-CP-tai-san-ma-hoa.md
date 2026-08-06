@@ -2,7 +2,7 @@
 layout: vanban
 title: "Nghị định số 284/2026/NĐ-CP của Chính phủ: Quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa"
 date: 2026-07-16
-modified: 2026-07-19
+modified: 2026-08-06
 group: tai-chinh
 tags:
   - xử phạt vi phạm hành chính
@@ -125,7 +125,7 @@ e) Hành vi cản trở việc thanh tra, kiểm tra, yêu cầu cung cấp thô
 g) Hành vi thu thập, tàng trữ, trao đổi, mua bán, tặng cho, công khai hóa
 trái phép dữ liệu, thông tin tài khoản tài sản mã hóa;
 
-— h) Vi phạm quy định về phòng, chống rửa tiền; phòng, chống tải trợ khủng
+— h) Vi phạm quy định về phòng, chống rửa tiền; phòng, chống tài trợ khủng
 bố; phòng, chống tài trợ phổ biến vũ khí hủy diệt hàng loạt đối với tổ chức, cá
 nhân tham gia thị trường tài sản mã hóa.
 
@@ -153,7 +153,7 @@ a) Tổ chức phát hành tài sản mã hóa;
 b) Tổ chức cung cấp dịch vụ tài sản mã hóa;
 
 e) Tổ chức thành lập theo pháp luật Việt Nam và tổ chức thành lập theo
-pháp luật nước ngoài tham gia đầu tư tài sản mã hóa và hoạt động trên thị trườn/
+pháp luật nước ngoài tham gia đầu tư tài sản mã hóa và hoạt động trên thị trường
 tài sản mã hóa tại Việt Nam trong phạm vi quy định tại Nghị quyết số
 05/2025/NQ-CP;
 
@@ -188,7 +188,7 @@ d) Đình chỉ hoạt động giao dịch tài sản mã hóa có thời hạn 
 a) Buộc hủy bỏ thông tin, cải chính thông tin; buộc cung cấp thông tin
 chính xác, đầy đủ; ệ
 
-b) Buộc nộp lại số lợi bắt hợp pháp có được do thực hiện hành vi vi phạm;
+b) Buộc nộp lại số lợi bất hợp pháp có được do thực hiện hành vi vi phạm;
 
 c) Buộc gỡ bỏ trang thông tin điện tử, phần mềm, hệ thống giao dịch và
 các trang thiết bị khác được sử dụng để thực hiện hành vi vi phạm;
@@ -197,7 +197,7 @@ các trang thiết bị khác được sử dụng để thực hiện hành vi 
 lại toàn bộ số tiền thu được từ đợt chào bán, phát hành tài sản mã hóa;
 
 đ) Buộc nộp lại số tiền bằng với giá trị tang vật, phương tiện vi phạm hành
-chính đã bị tiêu thụ, tâu tán, tiêu hủy trái quy định pháp luật.
+chính đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy định pháp luật.
 
 ### Điều 4.
 Quy định về mức phạt tiền tối đa, vĩ phạm hành chính nhiều lần
@@ -390,7 +390,7 @@ các trang thiết bị khác được sử dụng để thực hiện hành vi 
 điểm b khoản 3 và điểm a khoản 4 Điều này;
 
 ) Buộc nộp lại số tiền bằng với giá trị tang vật, phương tiện vi phạm hành
-chính đã bị tiêu thụ, tâu tán, tiêu hủy trái quy định pháp luật đối với hành vi vì
+chính đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy định pháp luật đối với hành vi vì
 phạm quy định tại điểm a khoản 4 Điều này;
 
 đ) Buộc hủy bỏ thông tin, cải chính thông tin đối với hành vi vi phạm quy
@@ -432,7 +432,7 @@ trong trường hợp có sự thay đổi trong biểu giá dịch vụ theo qu
 e khoản 2 Điều 15 Nghị quyết số 05/2025/NQ-CP.
 
 3. Phạt tiền từ 50.000.000 đồng đến 70.000.000 đồng đối với tổ chức cung
-cấp dịch vụ tài sản mã hóa không thực hiện xác minh danh tính nhà đâu tư mở
+cấp dịch vụ tài sản mã hóa không thực hiện xác minh danh tính nhà đầu tư mở
 tài khoản.
 
 4. Hành vi vi phẹm quy định về thời hạn công bố thông tin quy định tại
@@ -481,7 +481,7 @@ tư và tổ chức cung cáp dịch vụ tài sản mã hóa theo quy định t
 
 g) Không bảo đảm các bên thứ ba đáp ứ ứng các tiêu chuẩn về an ninh mạng,
 bảo vệ dữ liệu và tuân thủ các quy định về phòng, chống rửa tiền, tài trợ khủng
-bố, tài trợ phổ biến vũ khí hủy điệt hàng loạt trong trường hợp sử dụng dịch vụ
+bố, tài trợ phổ biến vũ khí hủy diệt hàng loạt trong trường hợp sử dụng dịch vụ
 của bên thứ ba để hỗ trợ thực hiện, sụn cấp dịch vụ liên quan đến tài sản mã
 hóa theo quy định tại điểm p khoản 2 Điều 15 Nghị quyết số 05/2025/NQ-CP.
 
@@ -577,7 +577,7 @@ dịch thu, chỉ liên quan đến mua, bán tài sản mã hóa; không công 
 nội bộ để nhà đầu tư nước ngoài biết và thực hiện;
 
 ) Thực hiện mở, đóng hóặc thực hiện các giao dịch thu, chỉ trên tài khoản
-chuyên dùng cho nhà đâu tư nước ngoài không đúng quy định của pháp luật.
+chuyên dùng cho nhà đầu tư nước ngoài không đúng quy định của pháp luật.
 
 ### Điều 11.
 Hành vi thu thập, tàng trữ, trao đỗi, mua bán, tặng cho, công
@@ -594,7 +594,7 @@ thông tin tài khoản tài sản mã hóa. -
 
 3. Biện pháp khắc phục hậu quả:
 
-Buộc nộp lại số lợi bắt.hợp pháp:có được do thực hiện hành vi vi phạm
+Buộc nộp lại số lợi bất hợp pháp có được do thực hiện hành vi vi phạm
 quy định tại khoản L Điều này.
 
 ### Điều 12.
@@ -622,11 +622,11 @@ các hành vi vi phạm sau:
 a) Che giấu, sửa chữa chứng từ, tài liệu, số sách, dữ liệu điện tử hoặc làm
 thay đổi tang vật trong khi đang bị thanh tra, kiểm tra;
 
-b) Tự ý tháo bỏ, tâu tán hoặc có hành vi khác làm thay đổi tình trạng số
+b) Tự ý tháo bỏ, tẩu tán hoặc có hành vi khác làm thay đổi tình trạng số
 sách, hồ sơ, chứng từ kê toán hoặc các tang vật, phương tiện bị niêm phong
 khác; chiếm đoạt, tiêu hủy tài liệu, vật chứng liên quan đên nội dung thanh tra.
 
-3. Hình thức xử phạt bỗ sung:
+3. Hình thức xử phạt bổ sung:
 
 a) Dinh chỉ hoạt động cung cấp dịch vụ tài sản mã hóa có thời hạn từ 01
 tháng đến 03 tháng đối với tổ chức cung câp dịch vụ tài sản mã hóa thực hiện
@@ -637,7 +637,7 @@ số sách, dữ liệu điện tử đối với hành vi vi phạm quy định
 
 ### Điều 13.
 Hành vi vi phạm quy định về phòng, chống rửa tiền; phòng,
-chống tài trợ khủng bố; phòng, chỗng tài trợ phổ biến vũ khí hủy diệt hàng
+chống tài trợ khủng bố; phòng, chống tài trợ phổ biến vũ khí hủy diệt hàng
 loạt '
 
 1. Phạt tiền từ 100.000.000 đồng đến 120.000.000 đồng đối với một trong
@@ -668,12 +668,12 @@ bị xử phạt như sau:
 
 a) Phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng đối với hành vi
 không áp dụng hoặc áp dụng không đúng quy định nội bộ trong việc thực hiện
-kiểm soát, kiểm toán nội bộ theo quy định của pháp luật về phòng, chỗng rửa
+kiểm soát, kiểm toán nội bộ theo quy định của pháp luật về phòng, chống rửa
 tiền, phòng, chống tài trợ khủng bổ, phòng, chống tài trợ phố biến vũ khí hủy
 diệt hàng loạt; không áp dụng quy định nội bộ về phân công hoặc không đăng
 ký phân công người chịu trách nhiệm, cán bộ, bộ phận phụ trách về phòng,
 chống rửa tiền, phòng, chống tài trợ khủng bố, phòng, chống tài trợ phổ biến
-vũ khí hủy điệt hàng loạt theo quy định của pháp luật về phòng, chống rửa tiền,
+vũ khí hủy diệt hàng loạt theo quy định của pháp luật về phòng, chống rửa tiền,
 phòng, chống tài trợ khủng bố, phòng, chống tài trợ phổ biến vũ khí hủy diệt
 hàng loạt; không áp dụng hoặc áp dụng không đúng quy định nội bộ về đào tạo,
 bồi dưỡng, tuyển dụng theo quy định của pháp luật về phòng, chống rửa tiền,
@@ -682,8 +682,8 @@ hàng loạt;
 
 b) Phạt tiền từ 150.000.000 đồng đến 200.000.000 đồng đối với hành vi
 không ban hành quy định nội bộ hoặc ban hành quy định nội bộ không đúng
-quy định của pháp luật về phòng, chống rửa tiền, phòng, chống tải trợ khủng
-bố, phòng, chỗng tài trợ phổ biến vũ khí hủy diệt hàng loại.
+quy định của pháp luật về phòng, chống rửa tiền, phòng, chống tài trợ khủng
+bố, phòng, chống tài trợ phổ biến vũ khí hủy diệt hàng loại.
 
 4. Phạt tiền từ 150.000.000 đồng đến 170.000.000 đồng đối với một trong
 các hành vi vi phạm sau đây:
@@ -713,7 +713,7 @@ rửa tiền;
 b) Phạt tiền từ 170.000.000 đồng đến 200.000.000 đồng đối với hành vi
 không giám sát giao dịch đặc biệt theo quy định tại Luật Phòng, chống rửa tiền.
 
-6. Hành vị vi phạm quy định về báo cáo giao dịch có giá trị lớn, giao dịch
+6. Hành vi vi phạm quy định về báo cáo giao dịch có giá trị lớn, giao dịch
 đáng ngờ, báo cáo hành vi nghi ngờ liên quan đến tài trợ khủng bế, tài trợ phổ
 biến vũ khí hủy diệt hàng loạt bị xử phạt như sau:
 
@@ -732,7 +732,7 @@ không báo cáo giao dịch có giá trị lớn phải báo cáo; không báo 
 diệt hàng loạt; không báo cáo khi có nghi ngờ khách hàng hoặc giao dịch của
 khách hàng liên quan đến tài trợ khủng bố, tài trợ phổ biến vũ khí hủy diệt hàng
 loạt hoặc khách hàng nằm trong danh sách đen, danh sách bị chỉ định theo quy
-định của pháp luật phòng, chống khủng bố, pháp luật về phòng, chống tài trợ
+định của pháp luật về phòng, chống khủng bố, pháp luật về phòng, chống tài trợ
 phổ biến vũ khí hủy diệt hàng loạt.
 
 7. Phạt tiền từ 150.000.000 đồng đến 200.000.000 đồng đối với một trong
@@ -741,20 +741,20 @@ thông tin, hô sơ, tài liệu, báo cáo:
 
 a) Không cung cấp kịp thời thông tin, hồ sơ, tài liệu, báo cáo theo quy định,
 của pháp luật về phòng, chống rửa tiền, phòng, chống tài trợ khủng bố, phòng,
-chống tải trợ phê biến vũ khí hủy diệt hàng loạt mà chưa đến mức bị truy cứu
+chống tài trợ phổ biến vũ khí hủy diệt hàng loạt mà chưa đến mức bị truy cứu
 trách nhiệm hình sự; l
 
 b) Không lưu trữ hoặc lưu trữ không đầy đủ thông tỉn, hồ sơ, tài liệu, báo
 cáo; lưu trữ thông tỉn, hồ sơ, tải liệu không đúng thời hạn theo quy định của
-pháp luật phòng, chống rửa tiền, phòng, chống tài trợ khủng bố, phòng, chống.
-tài trợ phổ biến vũ khí hủy điệt hàng loạt;
+pháp luật về phòng, chống rửa tiền, phòng, chống tài trợ khủng bố, phòng, chống
+tài trợ phổ biến vũ khí hủy diệt hàng loạt;
 
 e) Không tuân thủ quy định về bảo mật thông tin nhận biết khách hàng đối
 với thông tin, hồ sơ, tài liệu, báo cáo liên quan đến các giao dịch phải báo cáo
 
 KẺ
 
-theo quy định của pháp luật phòng, chống rửa tiền, tài trợ khủng bó, tài trợ phổ
+theo quy định của pháp luật phòng, chống rửa tiền, tài trợ khủng bố, tài trợ phổ
 ˆ_ biến vũ khí hủy diệt hàng loạt.
 
 8. Hành vi vi phạm quy định về trì hoãn giao dịch, phong tỏa tài khoản;
@@ -763,8 +763,8 @@ niêm phong hoặc tạm giữ tải sản bị xử phạt như sau:
 a) Phạt tiền từ 150.000.000 đồng đến 170.000.000 đồng đối với hành vi
 không báo cáo việc trì hoãn giao dịch theo quy định pháp luật về phòng, chống
 rửa tiên, phòng, chống tài trợ khủng bố; không báo cáo ngay khi thực hiện việc
-tạm ngừng lưu thông, phong tỏa tiền, tài sản liên quan đến tài trợ khủng bó, tài
-trợ phổ biến vũ khí hủy diệt bàng loạt theo quy định của pháp luật,
+tạm ngừng lưu thông, phong tỏa tiền, tài sản liên quan đến tài trợ khủng bố, tài
+trợ phổ biến vũ khí hủy diệt hàng loạt theo quy định của pháp luật,
 
 b) Phạt tiền từ 170.000.000 đồng đến 200.000.000 đồng đối với hành vi
 không áp dụng biện pháp trì hoãn giao dịch theo quy định tại pháp luật về
@@ -772,7 +772,7 @@ phòng, chống rửa tiền, phòng, chống tài trợ khủng bố; không ph
 khoản, không áp dụng biện pháp niêm phong, phong tỏa hoặc tạm giữ tài sản
 khi có quyết định của cơ quán nhà nước có thẩm quyền quy định tại Luật Phòng,
 chống rửa tiền; không thực hiện tạm ngừng lưu thông, phong tỏa tiền, tài sản
-liên quan đến khủng, bố, tải trợ khủng bổ, tài trợ phổ biến vũ khí hủy điệt hàng
+liên quan đến khủng bố, tài trợ khủng bố, tài trợ phổ biến vũ khí hủy diệt hàng
 loạt theo quy định của pháp luật.
 
 9. Hành vi vi phạm quy định về các hành vi bị cắm trong phòng, chống
@@ -789,7 +789,7 @@ phạm thiết lập hoặc duy trì tài khoản vô danh hoặc tài khoản s
 phạm tổ chức, tham gia hoặc tạo điều kiện, trợ giúp thực hiện hành vi rửa tiền
 mà chưa đến mức bị truy cứu trách nhiệm hình sự; thiết lập, duy trì quan hệ
 kinh doanh với ngân hàng vỏ bọc:mà chưa đến mức bị truy cứu trách nhiệm
-hình sự; không tế giác hành vi tài trợ khủng, bố mà chưa đến mức bị truy cứu
+hình sự; không tố giác hành vi tài trợ khủng bố mà chưa đến mức bị truy cứu
 trách nhiệm hình sự; lợi dụng việc tạm ngừng lưu thông, phong tẻ tỏa, niêm
 phong, tạm giữ, xử lý tiên, t tài sản liên quan đến tài trợ khủng bố để xâm phạm
 lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân
@@ -840,7 +840,7 @@ b) Phạt tiền tối đa đến 100.000.000 đồng đối với tổ chức v
 
 c) Tịch thụ tang vật, phương tiện vi phạm hành chính;
 
-4) Áp dụng biện pháp khắc phụch hậu quả quy định tại khoản 3 Điều 3 Nghị
+4) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị
 định này.
 
 3. Chánh Thanh tra Chứng khoán Nhà nước, Trưởng đoàn kiểm tra do Chủ
@@ -851,7 +851,7 @@ a) Cảnh cáo;
 ») Phạt tiền tối đa đến 160.000.000 đồng 4 đối với tổ chức và phạt tiền tối
 đa đến 80.000.000 đồng đối với cá nhân;
 
-) Áp dụng hình thức xử phạt. bổ sung và biện pháp khắc phục hậu quả
+) Áp dụng hình thức xử phạt bổ sung và biện pháp khắc phục hậu quả
 quy định tại khoản 2 và khoản 3 Điều 3 Nghị định này.
 
 4. Chánh Thanh tra Ngân hàng Nhà nước khu vực có quyền:
@@ -886,25 +886,25 @@ a) Cảnh cáo;
 »Đ) Phạt tiền tối đa đến' 160.000.000 đồng đối với tổ chức và phạt tiền tối
 đa đến 80.000.000 đồng đối với cá nhân; .
 
-c) Áp dụng hình thức xử phạt. bổ sung và biện pháp khắc phục hậu quả
+c) Áp dụng hình thức xử phạt bổ sung và biện pháp khắc phục hậu quả
 quy định tại khoản 2 và khoản 3 Điều 3 Nghị định này.
 
-6. Chủ tịch Ủy ban Chứng khoản Nhà nước, Chủ tịch Ủy ban nhân dân
-cấp tỉnh, Trưởng đoàn kiểm tra do Bộ đrưởng Bộ Tài chính thành lập có quyên:
+6. Chủ tịch Ủy ban Chứng khoán Nhà nước, Chủ tịch Ủy ban nhân dân
+cấp tỉnh, Trưởng đoàn kiểm tra do Bộ trưởng Bộ Tài chính thành lập có quyền:
 
 a) Cảnh cáo;
 
-b) Phạt tiền tối đa đến 200.000.000 đồng đối với tổ chức và phạt tiền tối .
-- đa đến 100.000.000 đồng đối với cá nhân; .
+b) Phạt tiền tối đa đến 200.000.000 đồng đối với tổ chức và phạt tiền tối
+đa đến 100.000.000 đồng đối với cá nhân; .
 
-c) Áp dụng hình thức xử phạt. bổ sung và biện pháp khắc phục hậu quả
+c) Áp dụng hình thức xử phạt bổ sung và biện pháp khắc phục hậu quả
 quy định tại khoản 2 và khoản 3 Điều 3 Nghị định này.
 
 7. Cục trưởng Cục An ninh kinh tế, Chánh Văn phòng Cơ quan Cảnh sát
 điều tra Bộ Công an, Cục trưởng Cục Cảnh sát điều tra tội phạm về tham những,
 kinh tế, buôn lậu, Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử
 dụng công nghệ cao, Giám đốc công an cấp tỉnh, Chánh Thanh tra Bộ Công an,
-Trưởng đoàn thanh tra do Chánh Thanh tra Bộ Công ¿ an thành lập, Trưởng đoàn
+Trưởng đoàn thanh tra do Chánh Thanh tra Bộ Công an thành lập, Trưởng đoàn
 kiểm tra do Bộ trưởng Bộ Công an thành lập có quyền:
 
 a) Cảnh cáo;
@@ -912,7 +912,7 @@ a) Cảnh cáo;
 »b) Phạt tiền tối đa đến 200.000.000 đồng đối với tổ chức và phạt tiền tôi
 đa đến 100.000.000 đồng đối với cá nhân;
 
-) Áp dụng hình thức -xử phạt. bỗ sung và biện pháp khắc phục hậu quả.
+) Áp dụng hình thức xử phạt bổ sung và biện pháp khắc phục hậu quả.
 quy định tại khoản 2 và khoản 3 Điều 3 Nghị định này.
 
 8. Chánh Thanh tra Ngân hàng Nhà nước Việt Nam, Trưởng đoàn thanh.
@@ -1067,7 +1067,7 @@ Thời hạn thực hiện biện pháp buộc nộp lại số lợi bất hợ
 thực hiện hành vi vi phạm là tối đa 60 ngày, kể từ ngày cá nhân, tổ chức vi
 phạm nhận được quyết định áp dụng biện pháp này.
 
-3. Biện pháp khắc phục hậu quả buộc hủy bẻ đợt chào bán, phát hành tải
+3. Biện pháp khắc phục hậu quả buộc hủy bỏ đợt chào bán, phát hành tải
 sản mã hóa và buộc phải trả lại toàn bộ số tiền thu được từ đợt chào bán, phát
 hành tài sản mã hóa quy định tại điểm b khoản 5 Điều 6 Nghị định này được
 thực hiện như sau:
@@ -1079,7 +1079,7 @@ hủy bỏ đợt chào bán, phát hành tài sản mã hóa và hoàn trả ch
 mua tài sản mã hóa;
 
 b) Tổ chức vi phạm phải báo cáo người ra quyết định xử phạt vi phạm
-bành chính hoặc quyết định áp dụng biện pháp khắc phục hậu quả về kết quả
+hành chính hoặc quyết định áp dụng biện pháp khắc phục hậu quả về kết quả
 thực hiện việc hủy bỏ đợt chào bán, phát hành tài sản mã hóa và hoàn trả cho
 nhà đầu tư tiền mua tài sản mã hóa, trong thời hạn tối đa 03 ngày làm việc kể
 từ ngày hoàn thành việc hoàn trả tiền cho nhà đầu tư.
