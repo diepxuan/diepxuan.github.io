@@ -143,7 +143,7 @@ Sửa đổi, bổ sung Điều 92 như sau:
 Sửa đổi, bổ sung điểm a khoản 2 Điều 102 như sau:
 
 ### Điều 30.
-Sửa đổi, bài suỦg điểm a khoản 4 Điều 122 như sau:
+Sửa đổi, bổ sung điểm a khoản 4 Điều 122 như sau:
 
 ### Điều 31.
 Sửa đổi, bổ sung, thay thế một số cụm từ, Phụ lục, bãi bỏ
@@ -274,7 +274,7 @@ trong trường hợp mở, thay đổi địa điểm chỉ nhánh, văn phòng
 2. Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ
 Tài chính có công văn ghi nhận việc mở, chấm dứt, thay đổi tên, địa điểm chỉ
 nhánh, văn phòng đại điện tại Việt Nam của doanh nghiệp bảo hiểm, đoanh
-nghiệp tái bảo hiểm và thông báo cho cơ quan đăng ký kinh đoanh.”.
+nghiệp tái bảo hiểm và thông báo cho cơ quan đăng ký kinh doanh.”.
 
 Điều 11. Sửa đổi, bổ sung khoản 2 Điều 27 như sau:
 
@@ -646,7 +646,7 @@ Bộ Tài chính.”.
 gồm quyên lớft thương tật toàn bộ vĩnh viễn;”
 ÿ—, ` “/đw + <
 
-Điều 30. Sửa đổi, bài suỦg điểm a khoản 4 Điều 122 như sau:
+Điều 30. Sửa đổi, bổ sung điểm a khoản 4 Điều 122 như sau:
 
 “a) Ngh+ “định: số ˆ3/20I6/NB- CP ngày 01 tháng 7 năm 2016 của Chính
 phủ quy định chi tiết thi hành Luật Kinh doanh bảo hiểm và Luật sửa đổi, bỗ
@@ -790,7 +790,7 @@ thoại, fax:
 
 4. Tên và địa chỉ người đại diện theo pháp luật:
 
-5. Lĩnh vực kinh đoanh: '
+5. Lĩnh vực kinh doanh: '
 
 6. Phạm vi hoạt động:
 
@@ -925,7 +925,7 @@ nước ngoài tại Việt Nam/doanh nghiệp môi giới bảo hiểm được
 
 phép tiên hành các hoạt động kinh doanh sau:
 
-1. Lĩnh vực kinh đoanh/Loại hình bảo hiểm: [bảo hiểm nhân thọ, bảo hiểm
+1. Lĩnh vực kinh doanh/Loại hình bảo hiểm: [bảo hiểm nhân thọ, bảo hiểm
 || phi nhân thọ, bảo hiểm sức khỏe, môi giới bảo hiểm, tái bảo hiểm].
 
 2. Nghiệp vụ được phép kinh doanh: [Liệt kê các nghiệp vụ được phép
@@ -941,7 +941,7 @@ chọ/bảo hiểm sức sức khỏe].
 doanh nghiệp bảo hiểm phi nhân thọ nước ngoài tại Việt Nam; doanh nghiệp tái
 bảo hiểm, chỉ nhánh doanh nghiệp bảo hiểm tái bảo hiểm nước ngoài tại Việt
 Nam; doanh nghiệp môi giới bảo hiểm và các hoạt động khác liên quan trực tiếp
-đến hoạt động kinh đoanh bảo hiểm theo quy định tại Luật Kinh doanh bảo
+đến hoạt động kinh doanh bảo hiểm theo quy định tại Luật Kinh doanh bảo
 hiểm]:
 
 4. Địa bàn hoạt động: [trên phạm vi cả nước hay trong những khu vực địa
@@ -2421,9 +2421,9 @@ bảo hiểm, đảm bảo phù hợp với quy định của pháp luật (Chuy
 
 (2) Ý kiến lưu ý ý khác: .
 
-(Nội dưng này yêu cầu _ Chuyên gia tính toán ghỉ cụ thể các ý kiến lưu ý
-khác có liên quan tới các quy tắc điêu kiện, điều khoản ảnh hưởng làm ảnh
-hưởng tới phương pháp và cơ sở tỉnh phí của sản phẩm bảo hiểm)
+(Nội dung này yêu cầu _ Chuyên gia tính toán ghi cụ thể các ý kiến lưu ý
+khác có liên quan tới các quy tắc điều kiện, điều khoản ảnh hưởng làm ảnh
+hưởng tới phương pháp và cơ sở tính phí của sản phẩm bảo hiểm)
 
 b) Phương pháp và cơ sở tính phí bảo hiểm Ị
 b1) Về phương pháp tính phí
@@ -2521,7 +2521,7 @@ tính toán đánh dấu X vào ô khi thực biện nội dung này)
 
 (2) Ý kiến lưu ý khác: .
 
-_ (Nội dụng này yêu cầu - Chuyên gia tính toán ghỉ cụ thể các ý kiến lưu |y
+_ (Nội dung này yêu cầu - Chuyên gia tính toán ghi cụ thể các ý kiến lưu |y
 khác có liên quan tới các quy tắc điều kiện, điều khoản ảnh hưởng làm ảnh
 hưởng tới phương pháp và cơ sở tính phí của sản phẩm bảo hiểm)
 
@@ -2530,7 +2530,7 @@ b1) Về phương pháp tính phí bảo hiểm
 Nội dung cũ: |
 Nội dung mới:
 Xúc nhận của chuyên gia tính toán và doanh nghiệp bảo hiểm liên quan
-tới việc áp dụng phương pháp tính phí bảo hiỗễm xe cơ giới (Nội dụng này yếu
+tới việc áp dụng phương pháp tính phí bảo hiỗễm xe cơ giới (Nội dung này yếu
 
 cầu chuyên gia tính toán và doanh nghiệp đánh dấu X vào ô khi đã đáp ứng các
 yêu cấu này)
