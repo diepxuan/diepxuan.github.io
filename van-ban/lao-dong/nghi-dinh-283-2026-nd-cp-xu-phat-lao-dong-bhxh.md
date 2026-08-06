@@ -2775,7 +2775,7 @@ tại thời điểm lập biên bản vi phạm hành chính nhưng tôi đa kh
 75.000.000 đồng đối với người sử dụng lao động có một trong các hành vi
 chậm đóng bảo hiệm thât nghiệp sau đây:
 a) Chưa đóng hoặc đóng chưa đầy đủ số tiền phải đóng theo hồ sơ tham gia
-bảo hiểm thất nghiệp đã đăng ký kế từ sau ngày đóng bảo hiểm thất nghiệp
+bảo hiểm thất nghiệp đã đăng ký kể từ sau ngày đóng bảo hiểm thất nghiệp
 chậm nhật theo quy định của pháp luật về bảo hiểm thật nghiệp trừ trường hợp
 quy định tại điểm e khoản 1 Điều 39 của Luật Bảo hiểm xã hội;
 b) Không đóng hoặc đóng không đầy đủ số tiền đã đăng ký bảo hiểm
@@ -3388,7 +3388,7 @@ sau đây:
 a) Không tổ chức để người lao động Việt Nam trước khi đi làm việc ở
 nước ngoài được tham gia khóa học giáo dục định hướng;
 b) Không thông tin đầy đủ hoặc không thông tin chính xác hoặc không
-thông tin rõ ràng, về một trong các nội dung: điêu kiện làm việc; điêu kiện
+thông tin rõ ràng, về một trong các nội dung: điều kiện làm việc; điều kiện
 sinh hoạt; quyên lợi; chế độ của người lao động làm việc tại cơ sở sản xuất,
 kinh doanh hoặc công trình do tổ chức, cá nhân đầu tư thành lập ở nước ngoài,
 c) Không trực tiếp tổ chức đưa người lao động Việt Nam đi làm việc ở

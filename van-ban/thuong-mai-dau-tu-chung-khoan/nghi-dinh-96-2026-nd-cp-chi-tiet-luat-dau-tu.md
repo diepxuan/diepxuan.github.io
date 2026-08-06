@@ -276,7 +276,7 @@ bản đề nghị gồm các nội dung sau:
 a) Tên và địa chỉ của nhà đầu tư;
 
 b) Ưu đãi đầu tư theo quy định tại văn bản pháp luật trước thời điểm văn
-bản pháp luật mới có hiệu lực gôm: loại ưu đãi, điêu kiện hưởng ưu đãi, mức
+bản pháp luật mới có hiệu lực gôm: loại ưu đãi, điều kiện hưởng ưu đãi, mức
 ưu đãi (nêu có);
 
 c) Nội dung văn bản quy phạm pháp luật được ban hành hoặc sửa đổi, bỗ
@@ -566,7 +566,7 @@ tư kinh doanh có điều kiện quy định tại các Điều 13 và Điều 
 tư kinh doanh
 
 1. Nhà đầu tư được quyền kinh doanh trong ngành, nghề đầu tư kinh đoanh
-có điều kiện quy định tại Phụ lục IV của Luật Đầu tư kế từ khi đáp ứng đủ điều
+có điều kiện quy định tại Phụ lục IV của Luật Đầu tư kể từ khi đáp ứng đủ điều
 kiện theo quy định của pháp luật và phải bảo đâm đáp ứng các điều kiện đó
 trong quá trình hoạt động đầu tư kinh doanh.
 
@@ -643,7 +643,7 @@ quy định về ngành, nghề đầu tư kinh doanh có điều kiện và đi
 kinh doanh (nếu có);
 
 đ) Kiến nghị sửa đổi, bổ sung quy định về ngành, nghề đầu tư kinh doanh
-có điêu kiện và điêu kiện đầu tư kinh doanh (nêu có).
+có điều kiện và điều kiện đầu tư kinh doanh (nêu có).
 
 
 ### Điều 14. Đề xuất sửa đi, bổ sung ngành, nghề đầu tư kinh doanh có
@@ -669,11 +669,11 @@ phạm pháp luật, bao gồm những nội dung sau đây:
 doanh dự kiên sửa đôi, bô sung;
 
 .__ b) Phân tích sự cần thiết, mục đích của việc sửa đổi, bổ sung ngành, nghề
-đầu tư kinh doanh có điều kiện hoặc điêu kiện đầu tư kinh doanh phù hợp với
+đầu tư kinh doanh có điều kiện hoặc điều kiện đầu tư kinh doanh phù hợp với
 quy định tại khoản I Điều 7 Luật Đầu tư;
 
 c) Căn cứ sửa đổi, bổ sung ngành, nghề đầu tư kinh doanh có điều kiện
-hoặc điêu kiện đầu tư kinh doanh và đôi tượng phải tuân thủ;
+hoặc điều kiện đầu tư kinh doanh và đối tượng phải tuân thủ;
 14
 
 d) Đánh giá tính hợp lý, khả thi của việc sửa đổi, bổ sung ngành, nghề đầu
@@ -834,7 +834,7 @@ nhà đầu tư đó thuộc đối tượng áp dụng) thì nhà đầu tư n�
 quyền và nghĩa vụ của mình theo toàn bộ quy định của điều ước đó.
 
 10. Hạn chế về tỷ lệ sở hữu của nhà đầu tư nước ngoài theo quy định tại
-các điêu ước quôc tê về đầu tư được áp dụng như sau:
+các điêu ước quốc tế về đầu tư được áp dụng như sau:
 
 a) Trường hợp nhiều nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua
 phần vốn góp vào. tổ chức kinh tế và thuộc đối tượng áp dụng của một hoặc
@@ -898,7 +898,7 @@ hình thực hiện Danh mục ngành, nghề hạn chế tiếp cận thị tr�
 nghề đầu tư kinh doanh có điều kiện tại các Điều 12, 13 và 14 của Nghị định
 này.
 
-- Chương 1H -
+## Chương III
 ƯU ĐÃI VÀ HỖ TRỢ ĐẦU TƯ
 
 
@@ -1017,7 +1017,7 @@ trọng điểm ngành do Thủ tướng Chính phủ phê duyệt.
 ### Điều 20. Nguyên tắc áp dụng ưu đãi đầu tư
 
 1. Dự án đầu tư quy định tại khoản 3 Điều 19 của Nghị định này được
-hưởng ưu đãi đầu tư như quy định đôi với dự án đầu tư tại địa bàn có điêu kiện
+hưởng ưu đãi đầu tư như quy định đối với dự án đầu tư tại địa bàn có điều kiện
 kinh tế - xã hội đặc biệt khó khăn.
 
 2. Dự án đầu tư quy định tại các khoản 5 và 6 Điều 19 của Nghị định này
@@ -3174,7 +3174,7 @@ chữa cháy theo quy định của pháp luật.
 chuyên ngành thực hiện kiểm tra, giám sát, đánh giá dự án đầu tư trong phạm
 vị chức năng, nhiệm vụ, quyền hạn.
 
-¬.
+
 ĐIÊU CHỈNH DỰ ÁN ĐẦU TƯ
 
 
@@ -3678,7 +3678,7 @@ __ 1, Tổ chức tín dụng hoặc tổ chức, cá nhân nhận bảo đảm 
 đầu tư đó.
 
 2. Nhà đầu tư nhận chuyển nhượng dự án đầu tư được kế thừa quyền, nghĩa
-vụ thực hiện dự án đầu tư của nhà đầu tư chuyên nhượng theo các điêu kiện
+vụ thực hiện dự án đầu tư của nhà đầu tư chuyên nhượng theo các điều kiện
 quy định tại hợp đông chuyên nhượng dự án và quy định của pháp luật có liên
 quan.
 
@@ -4079,7 +4079,7 @@ dụng đất, tài sản gắn liền với đất thuộc dự á án đầu t
 thuộc dự án đầu tư đề hợp tác kinh doanh.
 
 2. Việc hợp tác kinh doanh theo quy định tại khoản 1 Điều này phải đáp
-ứng các điêu kiện sau:
+ứng các điều kiện sau:
 
 a) Các điều kiện quy định tại khoản 2 Điều 61 của Nghị định này;
 
@@ -4746,7 +4746,7 @@ vốn góp của tổ chức kinh tế hoặc chuyển nhượng phần vốn g�
 tổ chức, cá nhân khác.
 
 „_ %Nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn gớp trong
-tổ chức kinh tê đã thành lập tại Việt Nam phải đáp ứng các điêu kiện quy định
+tổ chức kinh tê đã thành lập tại Việt Nam phải đáp ứng các điều kiện quy định
 tại khoản 2 Điều 21 Luật Đầu tư, gồm:
 
 a) Các điều kiện về tiếp cận thị trường đối với nhà đầu tư nước ngoài khi
@@ -4774,7 +4774,7 @@ góp vốn, mua cô phần, mua phần vốn góp.
 mua cổ phần, mua phần vốn góp đối với nhà đầu tư nước ngoài
 
 ,„_ L Nhà đầu tư góp vốn, mua cổ phần, mua phần vốn góp của tổ chức kinh
-tê phải đáp ứng các điêu kiện và thực hiện thủ tục thay đối thành viên, cô đông
+tê phải đáp ứng các điều kiện và thực hiện thủ tục thay đối thành viên, cô đông
 theo quy định của pháp luật tương ứng với từng loại hình tổ chức kinh tê.
 
 2. Trừ các trường hợp quy định tại khoản 3 Điều 21 của Luật Đầu tư, tổ
@@ -4990,7 +4990,7 @@ h) Bản sao hợp đồng BCC. |
 tại khoản 2 Điều này, cơ quan đăng ký đầu tư quyết định thu hồi Giấy chứng
 nhận đăng ký hoạt động văn phòng điều hành.
 
-„ Chương VI
+## Chương VI
 XÚC TIẾN ĐẦU TƯ
 
 
@@ -5054,7 +5054,7 @@ xúc tiến đầu tư tùy thuộc vào nội dung và yêu câu của từng h
 1. Phương thức điều phối hoạt động xúc tiến đầu tư:
 
 a) Bồ trí, sắp xếp các hoạt động xúc tiến đầu tư đám bảo hiệu quả, phù
-hợp với bối cảnh trong nước, quôc tê, vùng lãnh thổ, địa phương và điêu kiện
+hợp với bối cảnh trong nước, quốc tế, vùng lãnh thổ, địa phương và điều kiện
 
 cụ thể trong từng thời điểm nhất định;
 
@@ -5319,7 +5319,7 @@ công tác của lãnh đạo nhà nước, Chính phủ, trên cơ sở ý ki�
 đầu tư, dự toán, đề xuất kinh phí, gửi Bộ Tài chính xem xét, quyết định theo
 quy định của Luật Ngân sách nhà nước.
 
-¬-..
+
 QUÁN LÝ NHÀ NƯỚC VỀ ĐÁU TƯ
 Mục 1
 
@@ -5667,11 +5667,11 @@ dụng Hệ thống thông tin quốc gia về đầu tư.
 Việc kiểm tra tổng thể đầu tư, kiểm tra đự án đầu tư được thực hiện theo
 quy định của Chính phủ về kiêm tra, giám sát và đánh giá đầu tư.
 
-- Chương VIII `
+## Chương VIII
 ĐIỀU KHOẢN THI HÀNH
 
 Mục 1
-SỬA ĐỎI, BỎ SUNG MỘT SỐ NGHỊ ĐỊNH
+SỬA ĐỔI, BỔ SUNG MỘT SỐ NGHỊ ĐỊNH
 LIÊN QUAN ĐẾN ĐẦU TƯ KINH DOANH
 
 
@@ -6299,7 +6299,7 @@ nhận đầu tư (đồng thời là . Giấy chứng nhận đăng ký kinh do
 quy định của pháp luật về doanh nghiệp. ị
 
 ị
-ĐIEU KHOAN THỊ HÀNH
+ĐIỀU KHOẢN THI HÀNH
 
 
 ### Điều 111. Hiệu lực thi hành
@@ -6455,7 +6455,7 @@ doanh dòng, giông vật nuôi mới trước khi được Bộ Nông nghiệp 
 thẩm định, đánh giá, châp thuận hoặc công nhận.
 
 23. Kinh doanh dịch vụ lữ hành, trừ dịch vụ lữ hành quốc tế phục vụ khách
-du lịch quôc tê đên Việt Nam.
+du lịch quốc tế đên Việt Nam.
 
 ._B.NGÀNH, NGHÈ TIẾP CẬN THỊ TRƯỜNG CÓ ĐIỀU KIỆN ĐÓI
 VỚI NHÀ ĐÀU TƯ NƯỚC NGOÀI

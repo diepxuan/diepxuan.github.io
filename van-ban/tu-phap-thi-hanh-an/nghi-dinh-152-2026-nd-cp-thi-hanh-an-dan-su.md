@@ -118,7 +118,7 @@ khẩn cấp;
 
 .b) Trở ngại khách quan là trường hợp đương sự không nhận được bản án,
 quyêt định mà không phải do lôi của họ; đương sự đi công tác ở vùng biên giới,
-hải đảo hoặc phải thực hiện theo quyết định của cơ quan nhà nước có thâm quyền
+hải đảo hoặc phải thực hiện theo quyết định của cơ quan nhà nước có thẩm quyền
 mà không thể yêu cầu thi hành án đúng hạn; đương sự bị tai nạn, ôm nặng đến
 mức mât khả năng nhận thức hoặc chết mà chưa xác định được người thừa kê;
 tổ chức hợp nhất, sáp nhập, chia, tách, giải thể, kết thúc hoạt động, sắp xếp lại,
@@ -135,7 +135,7 @@ kiện bất khả kháng là bản gốc hoặc bản sao có chứng thực ho
 bao gồm:
 
 a) Đối với trường hợp xảy ra tình trạng khẩn cấp thì tài liệu chứng minh là
-văn bản của cơ quan có thâm quyền ban bô, công bô theo quy định của Luật
+văn bản của cơ quan có thẩm quyền ban bô, công bô theo quy định của Luật
 Tình trạng khẩn cấp;
 3
 
@@ -157,7 +157,7 @@ lên và tài liệu kèm theo, nếu có;
 
 đ) Đối với trường hợp do lỗi của cơ quan xét xử, cơ quan thi hành án nên
 không thể yêu cầu thi hành án đúng hạn thì phải có xác nhận của cơ quan đã ra
-bản án, quyêt định, cơ quan thi hành án có thâm quyền;
+bản án, quyêt định, cơ quan thi hành án có thẩm quyền;
 
 e) Đối với trường hợp hợp nhất, sáp nhập, chia, tách, giải thể, kết thúc hoạt
 động, sắp xếp lại, chuyển đổi hình thức, chuyển giao bắt buộc, chuyển nhượng
@@ -166,7 +166,7 @@ gian chưa xác định được tổ chức, cá nhân mới có quyền yêu c
 
 __8) Đối với các trường hợp bất khả kháng, trở ngại khách quan khác dẫn
 đến không thể yêu cầu thi hành án đúng hạn thì phải có xác nhận của cơ quan
-có thâm quyền hoặc tài liệu hợp pháp khác đê chứng minh.
+có thẩm quyền hoặc tài liệu hợp pháp khác đê chứng minh.
 
 3. Xác nhận của tổ chức, cá nhân có thẩm quyền phải thể hiện rõ địa điểm,
 nội dung và thời gian xảy ra tình trạng khẩn cấp, sự kiện bất khả kháng hoặc
@@ -313,7 +313,7 @@ trừ trường hợp đã có quyết định thi hành án theo yêu cầu đ�
 
 “Trường hợp bản án, quyết định chỉ có nội dung tuyên hủy bỏ lệnh hoặc
 quyết định áp dụng biện pháp ngăn chặn, biện pháp khẩn cấp tạm thời trước đó
-của cơ quan có thâm quyền thì Thủ trưởng cơ quan thi hành án dân sự chủ động
+của cơ quan có thẩm quyền thì Thủ trưởng cơ quan thi hành án dân sự chủ động
 ra quyết định thi hành án theo nội dung bản án, quyết định và thực hiện theo
 quy định tại khoản 1 Điều 62 của Luật Thi hành án dân sự.
 
@@ -485,7 +485,7 @@ quan thi hành án dân sự ra một quyết định thi hành án cho toàn b�
 
 Trường hợp thi hành nghĩa vụ cấp dưỡng theo định kỳ hoặc theo thời hạn
 mà cơ quan thi hành án dân sự đã ủ ủy thác thi hành án thì cơ quan thi hành án
-dân sự nhận ủy thác có thấm quyền ra quyết định thi hành án đối với các kỳ,
+dân sự nhận ủy thác có thẩm quyền ra quyết định thi hành án đối với các kỳ,
 thời hạn tiếp theo.
 
 3. Việc ra quyết định thi hành án đối với bản án, quyết định của Tòa án trong
@@ -783,7 +783,7 @@ có văn bản đề nghị Bộ Tư pháp đôn đốc cơ quan có thẩm quy�
 thực hiện việc tương trợ tư pháp về dân sự.
 
 Trong thời hạn 06 tháng kể từ ngày Bộ Tư pháp gửi hồ sơ tương trợ tư
-pháp hợp lệ cho cơ quan có thâm quyền ở nước ngoài mà nhận được đủ kết quả
+pháp hợp lệ cho cơ quan có thẩm quyền ở nước ngoài mà nhận được đủ kết quả
 theo yêu cầu thì ngày nhận được kết quả là ngày thông báo hợp lệ. Trình tự, thủ
 tục . yêu cầu thực hiện tương trợ tư pháp thực hiện theo quy định của điều ước
 quốc tế mà Việt Nam là thành viên và pháp luật về tương trợ tư pháp về dân sự.
@@ -901,7 +901,7 @@ cấp tạm thời thì phải trả lời kết quả xác minh ngay.
 a) Bảo đảm các thông tin cung cấp phải trung thực, đầy đủ, chính xác về
 nội dung và phù hợp với yêu cầu xác minh. Trường hợp từ chối hoặc không thể
 đáp ứng được yêu cầu cung cấp thông tin thì bên nhận yêu cầu phải có văn bản
-thông báo nêu rõ lý do cho bên yêu cầu trong thời hạn 03 ngày làm việc kế từ
+thông báo nêu rõ lý do cho bên yêu cầu trong thời hạn 03 ngày làm việc kể từ
 ngày nhận được yêu cầu;
 19.
 
@@ -933,7 +933,7 @@ yêu cầu thi hành án cho người đã yêu cầu. Yêu cầu thi hành án 
 theo phải được sao chụp và lưu trong hồ sơ thi hành án.
 
 Thông báo về việc gửi lại yêu cầu thi hành án phải gửi cho Viện kiểm sát
-nhân dân có thâm quyền.
+nhân dân có thẩm quyền.
 
 Sau khi cơ quan thi hành án dân sự đã gửi lại yêu cầu thi hành án mà đương
 sự yêu cầu thi hành án trở lại thì phải cung cấp tài liệu chứng minh người phải
@@ -947,7 +947,7 @@ Luật Thi hành án dân sự và Điều 9 Nghị định này.
 ### Điều 23. Công khai thông tin của người phải thi hành án chưa có điều
 kiện thi hành
 
-1. Trong thời hạn 05 ngày làm việc kế từ ngảy ra quyết định về việc chưa
+1. Trong thời hạn 05 ngày làm việc kể từ ngảy ra quyết định về việc chưa
 có điều kiện thi hành án, cơ quan thi hành án dân sự đăng tải công khai thông
 tin tên, địa chỉ của người phải thi hành án, bản án, quyết định phải thi hành,
 quyết định thi hành án, nghĩa vụ chưa có điều kiện thi hành, lý đo chưa có điều
@@ -1212,7 +1212,7 @@ sự đã ủy thác.
 
 2. Cơ quan thi hành án dân sự nhận ủy thác xử lý tài sản không được từ
 chối thực hiện quyết định ủy thác xử lý tài sản, trừ trường hợp quyết định ủy
-thác có sự nhằm lẫn, sai sót về nội dung hoặc thâm quyền của cơ quan thi hành
+thác có sự nhằm lẫn, sai sót về nội dung hoặc thẩm quyền của cơ quan thi hành
 án dân sự nhận ủy thác.
 
 ### Điều 28. Thi hành nghĩa vụ liên đới
@@ -1321,7 +1321,7 @@ hành án dân sự và Nghị định này.
 
 4. Thời hạn thanh toán tiền quy định tại các điểm b, c và d khoản 3 Điều
 này không quá 10 ngày kề từ ngày căn cứ kéo dài thời hạn thanh toán tiên không
-còn hoặc kể từ ngày nhận được quyết định của cơ quan có thâm quyền.
+còn hoặc kể từ ngày nhận được quyết định của cơ quan có thẩm quyền.
 
 5. Số tiền thi hành án thu được phải nộp vào tài khoản của cơ quan thi hành
 án dân sự mở tại ngân hàng thương mại hoặc mở tại Kho bạc Nhà nước theo
@@ -1458,7 +1458,7 @@ chấp hành án theo đề nghị của Chấp hành viên quy định tại Đ
 của Luật Thi hành án dân sự.
 
 2. Định kỳ hằng tháng, cơ quan thi hành án dân sự trích xuất danh sách việc
-thi hành án: kêt thúc đề thông báo cho Viện kiêm sát nhân dân có thâm quyền.
+thi hành án: kêt thúc đề thông báo cho Viện kiêm sát nhân dân có thẩm quyền.
 
 3. Dương sự và thân nhân của họ có quyền yêu cầu cơ quan thi hành án
 dân sự xác nhận kết quả thi hành án theo các hình thức quy định tại khoản 1
@@ -1861,7 +1861,7 @@ rủi ro (nếu có).
 
 3. Việc chuyển giao vật chứng, tài sản tạm giữ bị tuyên tịch thu, sung quỹ
 nhà nước được thực hiện tại nơi đang bảo quản, lưu giữ vật chứng, tài sản tạm
-giữ và kết thúc tại thời điểm cơ quan có thâm quyền tiếp nhận vật chứng,
+giữ và kết thúc tại thời điểm cơ quan có thẩm quyền tiếp nhận vật chứng,
 tài sản.
 
 Khi chuyển giao vật chứng, tài sản tạm giữ bị tịch thu, sung quỹ nhà nước
@@ -2088,7 +2088,7 @@ trong tài khoản ngay sau khi nhận được quyết định phong tỏa tài
 hợp phát sinh tiền, tài sản trong tài khoản thì phong tỏa tiếp số tiền, tài sản theo
 quy định tại khoản này;
 
-e) Trong thời hạn 24 giờ kế từ khi thực hiện việc phong tỏa thì cơ quan, tổ
+e) Trong thời hạn 24 giờ kể từ khi thực hiện việc phong tỏa thì cơ quan, tổ
 chức, cá nhân đang quản lý tài khoản phải thông báo cho cơ quan thi hành án
 dân sự về kết quả thực hiện;
 
@@ -2438,7 +2438,7 @@ quan bảo hiểm xã hội ủy quyền, cơ quan, đơn vị, tổ chức, ng�
 động đang quản lý thu nhập thực hiện khấu trừ và chuyên : số tiền đã khấu trừ
 vào tài khoản của cơ quan í thi hành án dân sự trong kỳ lĩnh tiền lương, tiền công,
 tiền lương hưu, tiền trợ cấp mắt sức lao động và thu nhập hợp pháp tiếp theo;
-thời hạn 03 ngày làm việc được tính kế từ thời điểm bắt đầu kỳ chỉ trả tiếp theo.
+thời hạn 03 ngày làm việc được tính kể từ thời điểm bắt đầu kỳ chỉ trả tiếp theo.
 
 Trường hợp chưa khấu trừ đủ số tiền theo quyết định cưỡng chế mà cá
 nhân bị áp dụng biện pháp cưỡng chế đã chết, đã nghỉ việc, chấm dứt hợp đồng
@@ -2513,7 +2513,7 @@ tuyên bố giao dịch vô hiệu hoặc yêu cầu cơ quan có thẩm quyền
 liên quan đến giao dịch thì thực hiện theo quy định tại khoản 4 Điều 39 của
 Luật Thi hành án dân sự;
 
-b) Trường hợp có giao dịch về tài sản kế từ thời điểm bản án, quyết định
+b) Trường hợp có giao dịch về tài sản kể từ thời điểm bản án, quyết định
 có hiệu lực pháp luật nhưng đã hoàn thành việc chuyển quyền sở hữu, sử dụng
 th Chấp hành viên không kê biên tài sản mà thực hiện theo quy định tại khoản
 4 Điều 39 của Luật Thi hành án dân sự và có văn bản thông báo cho cơ quan,
@@ -2594,7 +2594,7 @@ quy định của pháp luật.
 
 4. Trường hợp kê biên, xử lý tài sản đang cầm có, thế chấp mà giá trị tài
 sản sau khi giảm giá bằng hoặc thấp hơn nghĩa vụ được bảo đảm và chi phí thi
-hành án thì người có thấm quyền ra quyết định về thi hành án có trách nhiệm
+hành án thì người có thẩm quyền ra quyết định về thi hành án có trách nhiệm
 Ta ngay quyết định thu hồi quyết định kê biên, xử lý tài sản theo quy định tại
 điểm c khoản 1 Điều 52 của Luật Thi hành án dân sự; đồng thời, thông báo
 bằng văn bản cho người nhận cằm có, nhận thế chấp biết nghĩa vụ của người
@@ -3000,7 +3000,7 @@ người tham gia mua khác (nếu có).
 3. Viện kiểm sát nhân dân có thẩm quyền kiểm sát việc tuân theo pháp luật
 trong việc Chấp hành viên bán tài sản.
 62
-Điều 65. Bán đấu giá tài sản thi hành án
+### Điều 65. Bán đấu giá tài sản thi hành án
 
 1. Người mua được tài sản đấu giá phải nộp tiền vào tài khoản của cơ quan
 thi hành án dân sự trong thời hạn không quá 30 ngày kể từ ngày đấu giá thành;
@@ -3139,7 +3139,7 @@ a) Giao cho người nhận tài sản trong thời hạn 05 ngày làm việc k
 nhận được thỏa thuận của các đương sự đối với trường hợp quy định tại khoản l
 Điều 56. của Luật Thi hành án dân sự;
 
-b) Giao cho người mua được tài sản trong thời hạn 03 ngày làm việc kế từ
+b) Giao cho người mua được tài sản trong thời hạn 03 ngày làm việc kể từ
 ngày Chấp hành viên bán tài sản theo quy định tại điểm b khoản 2 Điều 83 của
 Luật Thi hành án dân sự;
 6S
@@ -3243,7 +3243,7 @@ hiện thủ tục đăng ký biến động đất đai, tài sản gắn liề
 67
 
 Trong thời hạn 15 ngày kể từ ngày nhận được văn bản của cơ quan thi '
-hành án dân sự, cơ quan có thấm quyền nêu tại khoản này quyết định thu hồi,
+hành án dân sự, cơ quan có thẩm quyền nêu tại khoản này quyết định thu hồi,
 hủy giấy chúng nhận đã cấp. Việc cấp, cấp lại giấy chứng nhận thực hiện theo
 quy định của pháp luật về đất đai.
 
@@ -3328,7 +3328,7 @@ của Luật Thi hành án dân sự và Điều 41 Nghị định này.
 
 Mục 4
 KHIẾU NẠI, TÓ CÁO TRONG THI HÀNH ÁN DÂN SỰ
-Điều 74. Giải quyết khiếu nại về thi hành án dân sự
+### Điều 74. Giải quyết khiếu nại về thi hành án dân sự
 
 1. Trường hợp khiếu nại thuộc thẩm quyền giải quyết của cấp dưới nhưng
 quá thời hạn quy định mà chưa được giải quyết thì Thủ trưởng cơ quan cấp trên
@@ -3810,7 +3810,7 @@ tiền thu được, tiền bán đấu giá tài sản kê biên, kể cả tà
 ba giữ, thuê, vay, mượn, sửa chữa, trừ trường hợp chỉ phí cưỡng chế do ngân
 sách nhà nước bảo đảm.
 
-### Điều 56. Tạm ứng chỉ phí cưỡng chế
+### Điều 86. Tạm ứng chi phí cưỡng chế
 
 1. Trong khi chưa thu được chỉ phí cưỡng chế thi hành án của người phải
 thí hành án, người được thi hành án, người thứ ba chịu; cơ quan thi hành án dân
@@ -3848,7 +3848,7 @@ bằng cách giảm trừ vào dự toán của phần kinh phí tạm ứng cư
 ### Điều 87. Miễn, giảm chỉ phí cưỡng chế thi hành án
 
 1. Đương sự là cá nhân có thể được Thủ trưởng cơ quan thi hành án dân
-sự có thâm quyền tố chức thi hành án xét miễn, giảm chi phí cưỡng chê nêu
+sự có thẩm quyền tố chức thi hành án xét miễn, giảm chi phí cưỡng chê nêu
 thuộc một trong các trường hợp sau đây:
 
 a) Có thu nhập không đảm bảo mức sinh hoạt tối thiểu để sinh sống bình
@@ -3953,7 +3953,7 @@ ngân sách nhà nước bảo đảm tài chính đề thi hành án sau khi đ
 kinh phí tiết kiệm được từ nguồn kinh phí tự chủ được cấp theo quy định của
 pháp luật nhưng vẫn không có khả năng thi hành án.
 
-"Khoản kinh phí tiết kiệm nêu trên được xác định kế từ thời điểm bản án,
+"Khoản kinh phí tiết kiệm nêu trên được xác định kể từ thời điểm bản án,
 quyết định có hiệu lực pháp luật đến thời điểm có quyêt định thi hành án và chỉ
 được sử dụng đê bảo đảm cho các nghĩa vụ phải thi hành án.
 
@@ -4032,7 +4032,7 @@ phải thi hành án.
 cơ quan, tổ chức phải thì hành án có trách nhiệm sử dụng khoản kinh phí tiệt
 kiệm quy định tại Điều 89 Nghị định này đề thanh toán nghĩa vụ thi hành án.
 
-Trong thời hạn 05 ngày làm việc kế từ khi đã sử dụng khoản kinh phí tiết
+Trong thời hạn 05 ngày làm việc kể từ khi đã sử dụng khoản kinh phí tiết
 kiệm để thanh toán nghĩa vụ thi hành án nhưng không thực hiện được hoặc chỉ
 thực hiện được một phần nghĩa vụ thi hành án, cơ quan, tổ chức phải thi hành
 án có trách nhiệm lập hề sơ bảo đảm tài chính để thi hành án.
@@ -4743,7 +4743,7 @@ tài sản của người phải thi hành án.
 
 t
 98
-Điều 110. Trách nhiệm của Bảo hiểm xã hội
+### Điều 110. Trách nhiệm của Bảo hiểm xã hội
 
 1. Cung cấp đúng, đầy đủ, kịp thời thông tin, số liệu về các khoản thu nhập
 của người phải thi hành án đang được chỉ trả qua Bảo hiểm xã hội theo đề nghị
@@ -4787,14 +4787,14 @@ pháp bảo đảm, biện pháp cưỡng chế thi hành án.
 ### Điều 113. Sửa đỗi, bổ sung một số điều của các Nghị định có liên quan
 
 1. Sửa đổi, bổ sung khoản 2 Điều 5 Nghị định số 77/2025/NĐ- CP ngày ðI
-tháng 4 năm 2025 của Chính phủ quy định thâm quyền, thủ tục xác lập quyển
+tháng 4 năm 2025 của Chính phủ quy định thẩm quyền, thủ tục xác lập quyển
 sở hữu toàn dân về tài sản và xử lý đối với tài sản được xác lập quyền sở hữu
 
 toàn dân như sau:
 99
 
 “2, Đối với vật chứng vụ án, tài sản của người bị kết á án bị tịch thu đã có
-quyết định thi hành án của Cơ quan có thâm quyền (bao gồm cả trường hợp tại -
+quyết định thi hành án của Cơ quan có thẩm quyền (bao gồm cả trường hợp tại -
 các Bản án của tòa án yêu. cầu trả lại một phần tài sản cho đồng sở hữu và tịch
 thu một phần tài sản) thì Ủy ban nhân dân cấp xã nơi có vật chứng, tài sản là
 đơn vị chủ trì quản lý đối với vật chứng, tài sản do cơ quan thi hành án dân sự
