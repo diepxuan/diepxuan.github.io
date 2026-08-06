@@ -1,4 +1,74 @@
-## Cập nhật 2026-08-07 v97 (Đệ #1 Discovery — 2026-08-07 00:40 ICT)
+## Cập nhật 2026-08-07 v97 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-07 01:05 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ v84-v97+
+
+Chọn 5 VB chưa từng QC gate trong các đợt trước (v84-v97, 35+ VB):
+
+| VB | Dòng | OCR trước sửa | Điều | Missing | Dup | Chương | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 97/NĐ-CP (Kinh doanh bảo hiểm) | 2710 | 10 thật | 32 (1-32) | [] | [] | 0 (VB sửa đổi) | **PASS — 10 lỗi** |
+| 151/NĐ-CP (Thi hành án dân sự) | 1842 | 5 (kế từ 3x, thâm quyền 1x, Chương V) | 59 (1-59) | [] | [] | 5 (I,III,IV,V,VI) | **PASS — 5 lỗi** |
+| 211/NĐ-CP (Xử phạt chăn nuôi) | 1478 | 0 | 44 (1-44) | [] | [] | 4 (I-IV) + 4 Mục | **PASS CLEAN** |
+| 222/NĐ-CP (Hoạt động bay) | 7706 | 0 | 140 (1-140) | [] | [] | 12 (II-XII, thiếu I) | **PASS CLEAN** |
+| 91/TT-BTC (Hóa đơn điện tử) | 1036 | 0 | 25 (1-25) | [] | [] | 5 (I-V) | **PASS CLEAN** |
+
+**Phát hiện chi tiết**:
+
+1. **97/2026/NĐ-CP** (2710 dòng, `van-ban/tai-chinh/nghi-dinh-97-2026-nd-cp-kinh-doanh-bao-hiem.md`): Nghị định sửa đổi NĐ 46/2023 về Luật Kinh doanh bảo hiểm. 32 Điều (1-32), 0 Chương (VB sửa đổi). 10 lỗi OCR đã sửa: `điêu kiện` (1x), `kinh đoanh` (3x), `ghỉ cụ thể` (2x), `tỉnh phí` (1x), `bài suỦg` (2x), `Nội dưng/dụng` (1x). POST-FIX: OCR=0. PASS.
+
+2. **151/2026/NĐ-CP** (1842 dòng, `van-ban/tu-phap-thi-hanh-an/nghi-dinh-151-2026-nd-cp-thi-hanh-an-dan-su.md`): Nghị định về văn phòng thi hành án dân sự, thừa hành viên. 59 Điều (1-59), 5 Chương (I, III, IV, V, VI). 5 lỗi đã sửa: `kế từ` (3x) → `kể từ`, `thâm quyền` (1x) → `thẩm quyền`, `## Chương V „ :` → `## Chương V`. Thiếu Chương II là cấu trúc gốc. POST-FIX: OCR=0. PASS.
+
+3. **211/2026/NĐ-CP** (1478 dòng, `van-ban/nong-nghiep-nong-thon/nghi-dinh-211-2026-nd-cp-xu-phat-vphc-chan-nuoi.md`): Nghị định xử phạt VPHC về chăn nuôi. 44 Điều (1-44), 4 Chương (I-IV), 4 Mục (1-4). OCR=0. **File chất lượng cao — không một loi OCR**.
+
+4. **222/2026/NĐ-CP** (7706 dòng, `van-ban/giao-thong-van-tai/nghi-dinh-222-2026-nd-cp-hoat-dong-bay.md`): Nghị định về hoạt động bay — **VB lớn nhất toàn van-ban** (7706 dòng, 140 Điều). 12 Chương (II-XII), thiếu Chương I heading. OCR=0. Xuất hi appended plain-text duplicate heading Chương (Chương II + ## Chương II) — từ nguồn gốc.
+
+5. **91/2026/TT-BTC** (1036 dòng, `van-ban/tai-chinh/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu.md`): Thông tư về hóa đơn điện tử, chứng từ điện tử. 25 Điều (1-25), 5 Chương (I-V). OCR=0. PASS CLEAN.
+
+**TỔNG KẾT**: 5/5 VB PASS quality gate. 3 PASS CLEAN, 2 PASS với fixes. **15 lỗi OCR đã sửa**.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ van-ban/
+
+| Tiêu chí | v95 | v97 | Thay đổi |
+|---|---|---|---|
+| Total *.md trong van-ban/ | 643 | 645 | +2 |
+| File "Đang cập nhật" | 159 | 159 | 0 |
+| File < 10KB (non-STUB, non-ĐCN) | 94 | 72 | -22 |
+| File < 3KB, lastedit > 7d | 9 | 7 | -2 |
+
+Nhận xét: Giảm 22 file < 10KB so với v94 — các VB ngắn ngày được hoàn thiện hoặc làm sạch từ crawl batches.
+
+### Nhiệm vụ 3: STUB Re-check
+
+| STUB | KB | Dòng | Trạng thái | Ghi chú |
+|---|---|---|---|---|
+| 279/NĐ-CP (Bộ GD&ĐT) | 1.3 | 26 | VẪN STUB | Modified 2026-07-18, chấp nhận 2+ tháng |
+| 286/NĐ-CP (XNX lạnh) | 2.1 | 57 | VẪN CHƯA HOÀN THIỆN | Thiếu nội dung toàn văn |
+| 20/TT-BVHTTDL | 1.7 | 45 | VẪN STUB | Modified 2026-07-23 |
+| 61/TT-BGDĐt | 2.9 | 61 | VẪN STUB | Modified 2026-07-22 |
+| 291/NQ-TPQH16 | 1.6 | 40 | VẪN STUB + nghi ngờ số hiệu | Modified 2026-07-23 |
+
+**Kết luận STUB**: 5/5 vẫn là STUB e L vững, không thay đổi so với v95.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+PR #263: **0 comments, 0 reviews**. MERGEABLE. Chỉ có 1 PR open (#263). Phân loại: **Chờ review**.
+
+### Nhiệm vụ 5: Discovery bổ sung
+
+- NĐ sitemap MD5: `23553db37114f2cc3ecf513220a57416` — UNCHANGED (v94)
+- TT sitemap MD5: `b3c2be908bd3b655bf5e6793d1fc374` — CHANGED từ v94 (`59062d8a7f6f3b500befc2009e9e782`)
+- 3 TT mới: 112/TT-BTC (442918), 113/TT-BTC (442942), 44/TT-BKHCN (442979)
+
+### Commit
+- `3d73afbb`: fix: OCR sửa lỗi 151/NĐ-CP (5 lỗi) + 97/NĐ-CP (10 lỗi)
+
+### Phiên thực hiện
+- agent: github-io:subagent:9738883e-e5b6-41ba-aaeb-295d3ef363de (Đệ #4 — Content Reviewer + PR Comment Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- PR: 263 active
+- Ngày: 2026-08-07 01:05 ICT Asia/Saigon
+
+---## Cập nhật 2026-08-07 v97 (Đệ #1 Discovery — 2026-08-07 00:40 ICT)
 
 ### Kết quả discovery: 3 văn bản mới (Thông tư)
 
