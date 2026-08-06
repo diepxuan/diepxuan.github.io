@@ -1,3 +1,17 @@
+## Cập nhật 2026-08-06 v93 (Đệ #1 Discovery — 2026-08-06 17:59 ICT)
+
+### Văn bản phát hiện mới (3 Nghị định)
+
+| # | Số hiệu | Lĩnh vực | Trạng thái | Nguồn |
+|---|--------|----------|------------|-------|
+| 1 | 309/2026/NĐ-CP | hanh-chinh | Chưa có | luatvietnam slug 442906 |
+| 2 | 308/2026/NĐ-CP | giao-duc | Chưa có | luatvietnam slug 442905 |
+| 3 | 310/2026/NĐ-CP | hanh-chinh | Chưa có | luatvietnam slug 442903 |
+
+Chi tiết: `tmp/discovery-v93/REPORT.md`
+
+---
+
 ## Cập nhật 2026-08-06 v92 (Đệ #4 Content Reviewer — 2026-08-06 17:29 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ record v84-v91
