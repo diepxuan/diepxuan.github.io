@@ -1,3 +1,63 @@
+## Cập nhật 2026-08-06 v89 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 11:39 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88
+
+v87 đã review: 96, 137, 146, 241, 260/NĐ-CP. v88 (Đệ #1) là slug verification, không có OCR gate. Chọn 5 VB khác:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 110/TT-BCA (Đào tạo ANHK) | 3003 | 3 FP (ngày l + khí) | 56 (1-56) | [] | [] | 8 (I-VIII) | **PASS clean** |
+| 237/NĐ-CP (Báo chí) | 1688 | 16 thật + 14 FP | 30 (1-30) | [] | [] | 6 (I, III-VII) | **⚠️ MISSING Chương II + OCR errors (khí, theơ, „, để án, tải chính, frang, ingilib, mục dích, viỆc, ĐỎI)** |
+| 41/TT-BCT (Phế liệu tạm ngừng KD) | 1165 | 0 | 6 (1-6) | [] | [] | 0 | **PASS clean** |
+| 116/TT-BCA (Cư trú) | 989 | 3 FP (ng jobs l) | 28 (1-28) ## heading | [] | [] | 8 (I-VIII) | **PASS content — ⚠️ heading level issue (## Điều instead of ###)** |
+| 42/TT-BCT (Hng lượng dùng) | 760 | 0 | 2 (1-2) | [] | [] | 0 | **PASS clean** |
+
+**Phát hiện chi tiết**:
+
+1. **110/2026/TT-BCA** (3003 dòng, 190KB): Thông tư quy định chi tiết chương trình đào tạo an ninh hàng không. 56 Điều (1-56) đầy đủ, 8 Chương (I-VIII) đúng thứ tự. OCR scan: 3 false positive ("ngày làm việc" + "vũ khí" / "khí tượng" — tiếng Việt hợp lệ). **PASS clean**.
+
+2. **237/2026/NĐ-CP** (1688 dòng, 168KB): Nghị định hướng dẫn thi hành Luật Báo chí 126/2025/QH15 — **VĂN BẢN CÓ LỖI CẦN SỬA**. 30 Điều qua scan (dùng ### Điều), 6 Chương phát hiện (I, III, IV, V, VI, VII). **Chương II BỊ THIẾU** (L49 `## Chương I` → L279 `## Chương III`, nội dung Chương II nằm giữa nhưng không có heading). OCR extended scan phát hiện nhiều lỗi thực: `khí`→`khi` (L592), `theơ`→`theo` (L594), `để án`→`đề án` (L161, L163), `tải chính`→`tài chính` (L163), `frang`→`trang` (L172), `ingilib` (L189 — garbled), `mỵ dích`→`mục đích` (L184), `chấm đứt`→`chấm dứt` (L255, L604), `viỆc`→`việc` (L276), `ĐỎI`→`ĐỔI` (L280), `CẬP LẠI`→`CẤP LẠI` (L280), `Quy-định chỉ tiết`→`Quy định chi tiết` (L44), `Báö`→`Báo` (L44), `„` LOW-QUOTE (L184, L1090). Cần sửa trước merge.
+
+3. **41/2026/TT-BCT** (1165 dòng, 44KB): Thông tư ban hành Danh mục phế liệu và hóa hóa tạm ngừng kinh doanh tạm nhập, tái xuất. 6 Điều (1-6) đầy đủ, 0 Chương. OCR issues = 0. **PASS clean**.
+
+4. **116/2026/TT-BCA** (989 dòng, 96KB): Thông tư quy định chi tiết thi hành Luật Cư trú. 28 Điều (1-28) sử dụng `## Điều` thay vì `### Điều` — scan không detect được. 8 Chương (I-VIII) đúng thứ tự dùng `## Chương`. Cùng heading level `##` cho cả Chương và Điều — **cần chuẩn hóa heading về `## Chương` / `### Điều`**. OCR 3 FP đã biết ("ng ngợ" substring). Nội dung đầy đủ, Missing = [], Duplicate = []. Đã review về cấu trúc từ v50 nhưng chưa QC chuẩn hóa heading.
+
+5. **42/2026/TT-BCT** (760 dòng, 31KB): Thông tư ban hành danh mục hóa hóa lạng động thuộc quản Fý Bộ Công Thương. 2 Điều (1-2), 0 Chương. OCR issues = 0. TT bãi bỏ/sửa đổi ngắn — nội dung phù hợp. **PASS clean**.
+
+**KẾT LUẬN CHUNG 5 VB**: 3/5 PASS sạch (110/TT-BCA, 41/TT-BCT, 42/TT-BCT). 116/TT-BCA PASS nội dung nhưng cần chuẩn hóa heading. **237/NĐ-CP CẦN SỬA** — thiếu Chương II + ~16 lỗi OCR thực sự cần sửa trước merge.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **635+** |
+| File có " Đang cập nhật" | **158** |
+| File < 10KB (không STUB, không " Đang cập nhật") | **70+** |
+| Trong đó lastedit >7 ng (trước 2026-07-30) | **50** |
+
+**Nhận xét**:
+- 158 file "Đang cập nhật": chủ yếu là topic index placeholder. Ưu tiên thấp.
+- 70+ file < 10KB: hầu hết là VB ngắn bản chất (sửa đổi/bổ sung, 1-2 Điều, QĐ/NQ ngắn). KHÔNG khẩn cấp.
+- Một số file đáng chú ý từ v89: `thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` (1673B) vẫn STUB bền vững, `nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md` (1317B, 26 dòng) quá ngắn.
+
+### Nhiệm vụ 3: STUB Re-check
+
+158 file có metadata "Đang cập nhật" — chủ yếu là topic index. Re-check không phát hiện STUB mới từ v85.
+
+**STUB bền vững đã biết**: `20/2026/TT-BVHTTDL` (giấy phép báo chí) — vẫn không có nguồn toàn văn. Không thay đổi so với v85.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+`gh api repos/diepxuan/diepxuan.github.io/haiissues/263/comments` → **0 comments**. PR #263 chưa có review hoặc comment nào. Cần Sếp review.
+
+### Phiên thực hiện
+- agent: github-io:subagent:ca9c3846-a473-4427-8775-1604b8a5b4 (Đệ #4)
+- Branch: `heartbeat/creawl-vanban-20260806`
+- PR #263 active, chờ Sếp review
+- Ngày: 2026-08-06 11:39 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-06 v88 (Đệ #1 Discovery & Tracking — 2026-08-06 11:06 ICT)
 
 ### Kết quả: Slug verification — 7 VB backlog
