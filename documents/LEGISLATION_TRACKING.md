@@ -63,10 +63,15 @@ PR #263: **0 comments, 0 reviews**. MERGEABLE. Chỉ có 1 PR open (#263). Phân
 - `3d73afbb`: fix: OCR sửa lỗi 151/NĐ-CP (5 lỗi) + 97/NĐ-CP (10 lỗi)
 
 ### Phiên thực hiện
-- agent: github-io:subagent:9738883e-e5b6-41ba-aaeb-295d3ef363de (Đệ #4 — Content Reviewer + PR Comment Reviewer)
+- agent: github-io:subagent:9738883e-e5b6-41ba-aa00-295d3ef363de (Đệ #4 — Content Reviewer + PR Comment Reviewer)
 - branch: `heartbeat/crawl-vanban-20260806`
 - PR: 263 active
 - Ngày: 2026-08-07 01:05 ICT Asia/Saigon
+
+### Note: Đệ #3 crawler-44-tt-bkhcn (poll 00:59) FAIL — khong co output
+- VB: 44/TT-BKHCN (kiem tan so vo tuyen dien, slug 442979-d1)
+- Mark stub: chua crawl, can retry poll sau
+- Poll 01:59: chuyen qua spawn Đệ #3 cho 112/TT-BTC
 
 ---## Cập nhật 2026-08-07 v97 (Đệ #1 Discovery — 2026-08-07 00:40 ICT)
 
