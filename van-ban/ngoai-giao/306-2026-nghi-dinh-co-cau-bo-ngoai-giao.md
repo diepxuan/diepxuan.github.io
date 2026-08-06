@@ -64,7 +64,7 @@ Bộ Ngoại giao là cơ quan của Chính phủ, thực hiện chức năng th
 
 ### Điều 2. Nhiệm vụ và quyền hạn
 
-Bộ Ngoại giao Bộ Ngoại giao thực hiện nhiệm vụ, quyền hạn theo quy định tại Luật Tổ chức Chính phủ , quy định của Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ và thực hiện những nhiệm vụ, quyền hạn cụ thể sau đây:
+Bộ Ngoại giao thực hiện nhiệm vụ, quyền hạn theo quy định tại Luật Tổ chức Chính phủ , quy định của Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ và thực hiện những nhiệm vụ, quyền hạn cụ thể sau đây:
 
 1. Trình Chính phủ dự án luật, dự thảo nghị quyết của Quốc hội, dự án pháp lệnh, dự thảo nghị quyết của Ủy ban Thường vụ Quốc hội, dự thảo nghị định, nghị quyết của Chính phủ theo chương trình, kế hoạch xây dựng pháp luật hằng năm của Chính phủ và các nghị quyết, dự án, đề án theo phân công của Chính phủ, Thủ tướng Chính phủ; trình cấp có thẩm quyền các dự thảo văn bản khác trong phạm vi chức năng, nhiệm vụ theo quy định.
 2. Trình Chính phủ, Thủ tướng Chính phủ chiến lược, quy hoạch, kế hoạch phát triển dài hạn, trung hạn, hằng năm và các dự án, công trình quan trọng, chương trình mục tiêu quốc gia về ngành, lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ Ngoại giao.
@@ -223,10 +223,9 @@ Các tổ chức quy định từ khoản 1 đến khoản 21 Điều này là t
 - Viện kiểm sát nhân dân tối cao
 - Kiểm toán nhà nước
 - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
-- Cơ quan trung ương của các tổ chức chính trị
-- xã hội
+- Cơ quan trung ương của các tổ chức chính trị - xã hội
 - VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục, Công báo
-- Lưu: VT, TCCV (02). TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG Phạm Gia Túc
+- Lưu: VT, TCCV (02).
 
 ---
 
