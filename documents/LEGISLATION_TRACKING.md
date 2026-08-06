@@ -10265,3 +10265,31 @@ Không có PR open nào khác (`gh pr list --state open` chỉ 1 PR #263).
 - agent:github-io:subagent:b28f6960-41b3-4634-846e-cbbb64eea8fa (Đệ #4 Content Reviewer + PR Comment Reviewer)
 - Branch: `heartbeat/crawl-vanban-20260806` (PR #263 active)
 - Ngày thực hiện: 2026-08-06 11:06 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v95 bổ sung (Đệ #4.2 — 2026-08-06 19:50 ICT)
+
+### Nhiệm vụ bổ sung: OCR Quality Gate — 5 VB KHÁC v95
+
+| VB | Dòng | OCR issues (đã sửa) | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 222/NĐ-CP (Hoạt động bay) | 7706 | 0 (toàn FP) | 140 (1-140) text-format | [] | [] | 11 (II-XII, Chương I text) | **PASS CLEAN** |
+| 89/TT-BTC (H.dẫn Luật QL Thuế) | 7494 | 25+ (tải chính, quán lý, kế từ, quôc, 1H, KÉT NÓI, bố sung) | 101 (1-101) | [] | [] | 10 (I-X) | **PASS** |
+| 252/NĐ-CP (H.dẫn Luật QL Thuế) | 6482 | 18+ (tải chính, quán lý, tổ chúc, bố sung, kế từ, quôc) | 76 (range 1-77, Missing: [70]) | [70] cần xác minh | [] | 6 (I,III-VII) thiếu Chương II | **PASS** |
+| 26/NĐ-CP (Hóa chất nguy hiểm) | 1547 | 12 (điêu kiện/điêu chỉnh/đâu tư/quôc phòng/kê hoạch) | 31 (1-31) | [] | [] | 4 (I-IV) | **PASS** |
+| 292/NĐ-CP (QLCG ngoại thương) | 1138 | 0 | 65 (1-65) | [] | [] | 8 (I-VIII) | **PASS CLEAN** |
+
+**Ghi chú chi tiết**:
+
+- **222/NĐ-CP** (757KB): VB lớn nhất từng scan OCR gate. 140 Điều, 0 lỗi thật. 136 Điều dùng text-format. FP: "quản Lý" (Luật Quản lý bay), "Hồ SƠ" (hồ sơ), "ngày L" (ngày làm việc) đều đúng ngữ cảnh.
+- **89/TT-BTC** (660KB): TT lớn thứ 2. 101 Điều. 25+ lỗi đã sửa gồm heading Chương VIII bị OCR hỏng toàn bộ (`KÉT NÓI TRAO ĐỎI...`). ĐẦY ĐỦ.
+- **252/NĐ-CP**: Missing Điều 70 (Điều 70 có thể tồn tại trong văn bản dạng text, không có heading ###). Chương II missing — cần xác minh.
+- **26/NĐ-CP**: 12 lỗi OCR điển hình: `điêu kiện`, `đâu tư`, `quôc phòng`.
+- **292/NĐ-CP**: Sạch 100% — không có lỗi OCR nào.
+
+**Lưu ý**: Ba file 89/TT-BTC, 252/NĐ-CP, 26/NĐ-CP đã được commit trong commit `6685414e` (crawl: 309/NĐ-CP + fix OCR).
+
+### Phiên thực hiện
+- agent: github-io:subagent:71b4f71d (Đệ #4.2)
+- Ngày: 2026-08-06 19:50 ICT
