@@ -191,7 +191,7 @@ chính xác, đầy đủ; ệ
 b) Buộc nộp lại số lợi bắt hợp pháp có được do thực hiện hành vi vi phạm;
 
 c) Buộc gỡ bỏ trang thông tin điện tử, phần mềm, hệ thống giao dịch và
-các trang thiết bị khác được sử dụng đề thực hiện hành vi vi phạm;
+các trang thiết bị khác được sử dụng để thực hiện hành vi vi phạm;
 
 đ) Buộc hủy bỏ đợt chào bán, phát hành tài sản mã hóa và buộc phải trả
 lại toàn bộ sô tiên thu được tử đợt chào bán, phát hành tài sản mã hóa;
@@ -210,7 +210,7 @@ với tổ chức. Trường hợp cá nhân có hành vi vi phạm như của t
 phạt tiền bằng 1⁄2 mức phạt tiền đối với tổ chức.
 
 3. Tổ chức, cá nhân thực hiện vi phạm hành chính nhiều lần thì bị xử phạt
-" wề từng hành vỉ vi phạm, trừ trường hợp thực hiện hành vi vi phạm hành chính
+về từng hành vi vi phạm, trừ trường hợp thực hiện hành vi vi phạm hành chính
 nhiều lần đối với hành vi vi phạm quy định tại khoản 4 Điều 8, khoản 3 Điều
 10 Nghị định này thì bị xử phạt một lần và áp dụng tình tiết tăng nặng vi phạm
 hành chính nhiều lần.
@@ -333,7 +333,7 @@ phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản 
 cung cấp dịch vụ tài sản mã hóa bị thu hồi Giấy phép cung cấp dịch vụ tổ chức
 thị trường giao dịch tài sản mã hóa thực hiện một trong các hành vi vi phạm
 
-„ SAU:
+sau:
 
 a) Không chấm dứt ngay mọi hoạt động ghi trong Giấy phép cung cắp dịch
 vụ tổ chức thị trường giao dịch tài sản mã hóa;
@@ -632,7 +632,7 @@ a) Dinh chỉ hoạt động cung cấp dịch vụ tài sản mã hóa có th�
 tháng đến 03 tháng đối với tổ chức cung câp dịch vụ tài sản mã hóa thực hiện
 hành vi vi phạm quy định tại khoản 1 và khoản 2 Điều này;
 
-„_ b) Tịch thu tang vật, phương tiện vì phạm hành chính là chứng từ, tài liệu,
+b) Tịch thu tang vật, phương tiện vi phạm hành chính là chứng từ, tài liệu,
 số sách, dữ liệu điện tử đối với hành vi vi phạm quy định tại khoản 2 Điều này.
 
 ### Điều 13.
@@ -988,7 +988,7 @@ Nghị định này, người có thẩm quyền quy định tại Điều 14 Ng
 quyết định đình chỉ có thời hạn đối với toàn bộ hoạt động chào bán, phát hành
 tài sản mã hóa trên thị trường tài sản mã hóa tại Việt Nam của tổ chức vi phạm.
 
-2. Trong thời hạn 03 ngày làm Việc, kể từ ngày ra quyết định xử phạt,
+2. Trong thời hạn 03 ngày làm việc, kể từ ngày ra quyết định xử phạt,
 người có thẩm quyền đã ra quyết định xử phạt phải gửi quyết định xử phạt cho
 tổ chức bị xử phạt, các tỗ chức cung cấp dịch vụ tài sản mã hóa, Bộ Tài chính,
 Bộ Công an, Ngân hàng Nhà nước Việt Nam.
@@ -1033,7 +1033,7 @@ chuyển tải khoản theo yêu cầu của nhà đầu tư (nếu có).
 1. Thời hạn thực hiện biện pháp khắc phục hậu quả buộc hủy bỏ thông tin,
 cải chính thông tin, buộc cung cấp thông tin chính xác, đầy đủ quy định tại điểm
 a khoản 5 Điều 6, điểm d khoản 6 Điều 7, khoản 9 Điều 8 Nghị định này là tối
-đa 10 ngày làm việc, kể từ ngày cá nhân,:tổ chức vi phạm nhận được quyết định
+đa 10 ngày làm việc, kể từ ngày cá nhân, tổ chức vi phạm nhận được quyết định
 xử phạt có áp dụng biện pháp khắc phục hậu quả. Tổ chức vi phạm phải công,
 bố về việc hủy bỏ thông tin, cải chính thông tin trên 01 tờ báo điện tử và trên
 trang thông tin điện tử của mình. Tổ chức vi phạm khi thực hiện hủy bỏ thông
@@ -1085,31 +1085,31 @@ nhà đầu tư tiền mua tài sản mã hóa, trong thời hạn tối đa 03 
 từ ngày hoàn thành việc hoàn trả tiền cho nhà đầu tư.
 
 4. Thời hạn thực hiện biện pháp buộc gỡ bỏ trang thông tin điện tử, phần
-mềm, hệ thống giao dịch và các trang thiết bị khác được sử dụng đề thực hiện
+mềm, hệ thống giao dịch và các trang thiết bị khác được sử dụng để thực hiện
 hành vi vi phạm theo quy định tại điểm b khoản 6 Điều 7 Nghị định này là tối
 đa 03 ngày làm việc, kể từ ngày cá nhân, tổ chức vi phạm nhận được quyết định
 áp dụng biện pháp này.
 
-22 -
 
-5. Thời hạn thực hiện biện pháp buộc nộp lại số tiền bằng với giá trị táng -
-vật, phương tiện vi phạm hành chính đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy `, - .‡
-định pháp luật quy định tại điểm e khoản 6 Điều 7 Nghị định này là tối đa 30. ;
+
+5. Thời hạn thực hiện biện pháp buộc nộp lại số tiền bằng với giá trị tang -
+vật, phương tiện vi phạm hành chính đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy
+định pháp luật quy định tại điểm e khoản 6 Điều 7 Nghị định này là tối đa 30
 ngày, kể từ ngày cá nhân, tổ chức vi phạm nhận được quyết định áp dụng biện
 pháp này. .
 
 6. Tổ chức vi phạm phải báo cáo người có thẩm quyền đã ra quyết định.
 xử phạt về kết quả thực hiện biện pháp khắc phục hậu quả quy định tại các
-khoản 1, 2, 4 và 5 Điều này trong thời hạn tối đa 03 ngày làm việc kể từ ngày '
+khoản 1, 2, 4 và 5 Điều này trong thời hạn tối đa 03 ngày làm việc kể từ ngày
 kết thúc thời hạn chấp hành biện pháp khắc phục hậu quả.
 
 ### Điều 20.
 Xử phạt vi phạm hành chính trên môi trường điện tử
 
-'Việc xử phạt vi phạm hành chính theo quy định tại Nghị định này trên môi,
+Việc xử phạt vi phạm hành chính theo quy định tại Nghị định này trên môi
 trường điện tử được áp dụng theo quy định tại Điều 28a và Điều 28b Nghị định,
-số ] 18/2021/NĐ- CP của Chính phủ quy định chỉ tiết một số điều và biện pháp.
-thí hành Luật Xử lý vi phạm hành. chính, được sửa đổi, bễ sung bởi Nghị định:
+số 118/2021/NĐ-CP của Chính phủ quy định chỉ tiết một số điều và biện pháp.
+thi hành Luật Xử lý vi phạm hành. chính, được sửa đổi, bễ sung bởi Nghị định:
 số 68/2025/NĐ-CP và Nghị định số 190/2025/NĐ-CP.
 
 ## Chương IV - ĐIỀU KHOẢN THI HÀNH
@@ -1131,9 +1131,9 @@ hiện theo văn bản quy phạm pháp luật cỏ hiệu lực tại thời đ
 thực hiện thí điểm thị trường tài sản mã hóa tại Việt Nam theo quy định tại
 khoản 2 Điều 4 Nghị quyết số 05/2025/NQ-CP, các hành vi vì phạm hành chính
 đã kết thúc trước thời điểm tạm ngừng, đình chỉ, chấm đứt việc thực hiện thí
-điểm. thị trường tài sản mã hóa nhưng chưa bị xử phạt thì tiếp tục bị xử phạt
+điểm thị trường tài sản mã hóa nhưng chưa bị xử phạt thì tiếp tục bị xử phạt
 theo quy định tại Nghị định này; các hành vi vi phạm hành chính đang được
-thực hiện thì áp dụng văn bản' quy phạm pháp luật đang có hiệu lực tại thời
+thực hiện thì áp dụng văn bản quy phạm pháp luật đang có hiệu lực tại thời
 điểm phát hiện hành vi vi phạm để xử phạt.
 
 23-
