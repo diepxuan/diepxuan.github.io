@@ -798,7 +798,7 @@ xây dựng khác: 10% giá hợp đồng;
 
 Ì Trường hợp các bên thỏa thuận tạm ứng ở mức cao hơn mức tạm ứng
 tối thiêu nêu trên, thì phân giá hợp đồng tương ứng với mức tạm ứng, hợp đồng
-vượt mức tạm ứng tôi thiểu sẽ không được điều chỉnh giá kê từ thời điệm tạm
+vượt mức tạm ứng tối thiểu sẽ không được điều chỉnh giá kể từ thời điểm tạm
 ứng (gồm cả trường hợp tạm ứng nhiều lân);
 
 m) Tiền tạm ứng được thu hồi dần qua các lần thanh toán, mức thu hồi của
@@ -1020,7 +1020,7 @@ này, trừ trường hợp trong hợp đồng có thỏa thuận khác; hoàn 
 
 -__ e) Cung cấp đầy đủ thông tin, tài liệu kỹ thuật, bàn giao thiết bị công nghệ
 bảo đảm đúng số lượng, chất lượng, chủng loại, nguồn gốc xuất xứ, địa điểm,
-thời gian và các yêu cầu về đóng gói, vận chuyên, lưu kho, bảo quản theo hợp
+thời gian và các yêu cầu về đóng gói, vận chuyển, lưu kho, bảo quản theo hợp
 đồng: chịu trách nhiệm bồi thường thiệt hại đối với hư hỏng, mất mát và chỉ
 phí phát sinh do lỗi của mình, trừ trường hợp có thỏa thuận khác;
 
@@ -2029,7 +2029,7 @@ Trong đó:
 
 - a: Là hệ số cố định, được xác định ở bảng số liệu điều chỉnh tương ứng,
 trong hợp đồng, thể hiện phần không điều chỉnh giá (bao gồm phần giá trị tương
-ứng với mức tạm ứng hợp đồng vượt mức tạm ứng tôi thiểu, tạm ứng trước để sản
+ứng với mức tạm ứng hợp đồng vượt mức tạm ứng tối thiểu, tạm ứng trước để sản
 xuất các cầu kiện, bán thành phẩm có giá trị lớn, vật liệu xây dựng phải dự trữ vật
 liệu để đảm bảo kế hoạch, tiền độ thi công theo hợp đồng và giá trị các khoản chỉ
 phí không được điều chỉnh giá trong hợp đồng) của các khoản thanh toán theo
