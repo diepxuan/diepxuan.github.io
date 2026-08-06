@@ -1,3 +1,70 @@
+## Cập nhật 2026-08-06 v85 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 07:44 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v84)
+
+v84 đã review: 298/NĐ-CP, 294/NĐ-CP, 76/NĐ-CP, 101/TT-BTC, 32/TT-BYT. Lần này chọn 5 VB khác:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 300/NĐ-CP (Cán bộ, công chức) | 823 | 0 | 37 (1-37) | [] | [] | 0 | **PASS clean** |
+| 79/NĐ-CP (VPHC biên giới quốc gia) | 640 | 0 | 31 (1-31) text | [] | [] | 4 (I-IV) text | **PASS content — CAN HEADING NORMALIZE** |
+| 107/TT-BTC (Kế toán THADS) | 3589 | 0 | 13 (1-13) | [] | [] | 3 (I-III) | **PASS clean** |
+| 115/TT-BTC (Tài sản công, cây xanh) | 859 | 0 | 23 (1-23) | [] | [] | 4 (I-IV) | **PASS clean** |
+| 175/NĐ-CP (Tài chính vi mô) | 1252 | 0 | 27 (1-25 + 2 PL) | [] | [1, 2] Phụ lục mẫu | 4 (I-IV) | **PASS** |
+
+**Phát hiện chi tiết**:
+
+1. **300/NĐ-CP** (823 dòng, 112KB): Nghị định quy định chi tiết Luật Cán bộ, công chức và Luật Viên chức (sửa đổi). 37 Điều (1-37) đầy đủ, 0 Chương, OCR issues = 0. **PASS clean**.
+
+2. **79/NĐ-CP** (640 dòng, 103KB): Nghị định xử phạt VPHC trong lĩnh vực quản lý, bảo vệ biên giới quốc gia. 31 Điều (1-31), 4 Chương (I-IV). **Heading dùng plain text** (`Điều 1.`, `Chương I`, `Chương II`...) thay vì Markdown (`### Điều 1.`, `## Chương I`). Nội dung đầy đủ, OCR clean (0 issues), nhưng scan Điều/Chương không detect được do format sai. **Cần chuẩn hóa heading** về `## Chương` và `### Điều N.`.
+
+3. **107/TT-BTC** (3589 dòng, 173KB): Thông tư hướng dẫn kế toán nghiệp vụ thi hành án dân sự — **văn bản dài nhất đã review** (3.5K dòng). 13 Điều, 3 Chương (I-III). OCR issues = 0. **PASS clean**.
+
+4. **115/TT-BTC** (859 dòng, 108KB): Thông tư quản lý tài sản công là công viên cây xanh. 23 Điều, 4 Chương (I-IV). OCR issues = 0. **PASS clean**.
+
+5. **175/NĐ-CP** (1252 dòng, 112KB): Nghị định về chương trình, dự án tài chính vi mô. 25 Điều chính + Phụ lục mẫu Quyết định sửa đổi Giấy chứng nhận (có thêm Điều 1, Điều 2 mẫu). 4 Chương (I-IV). Duplicate [1, 2] là false positive từ Phụ lục (cùng pattern 294/NĐ-CP + 116/TT-BCA). OCR issues = 0. **PASS**.
+
+**KẾT LUẬN CHUNG 5 VB**: 5/5 PASS quality gate (0 OCR issues thật). 79/NĐ-CP cần chuẩn hóa heading (ưu tiên THẤP — nội dung đầy đủ, chỉ format). 175/NĐ-CP duplicate articles là FP (Phụ lục mẫu).
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **635** |
+| File có "Đang cập nhật" | **158** |
+| File < 10KB (không STUB, không "Đang cập nhật") | **70** |
+| Trong đó lastedit >7 ngày (trước 2026-07-30) | **38** |
+
+**38 file cần refactor** (<10KB, không STUB, không "Đang cập nhật", lastedit >7 ngày):
+
+| Nhóm | Số file | Ví dụ |
+|---|---|---|
+| Nghị định ngắn (NĐ sửa đổi/bổ sung ~50-160 dòng) | 8 | 202/NĐ-CP, 272/NĐ-CP, 279/NĐ-CP, 286/NĐ-CP |
+| Thông tư ngắn (TT sửa đổi/bổ sung ~60-160 dòng) | 15 | 09/TT-BTC, 26/TT-BTC, 42/TT-BXD, 97/TT-BTC, 60/TT-BXD |
+| Nghị quyết/Quyết định (~40-120 dòng) | 8 | 159/NQ-CP, 1246/QD-TTg, 34/QD-TTg |
+| Công điện/Công văn (<80 dòng) | 2 | CĐ 46/TTg, CĐ 47/TTg |
+| File metadata không rõ (~26-60 dòng) | 5 | 279/NĐ-CP (1317B, 26 dòng), 61/TT-BGDĐT (2945B, 61 dòng) |
+
+**Đáng chú ý**:
+- `van-ban/giao-duc/nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md` (1317 bytes, 26 dòng) — quá ngắn, có thể là stub hoặc chỉ metadata. Cần kiểm tra lại.
+- `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` (1673B, 45 dòng) — STUB bền vững từ v57, không có nguồn toàn văn.
+- `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` (3425B, 71 dòng) — quá ngắn so với VB cùng loại.
+- 38 file này KHÔNG khẩn cấp — hầu hết là VB sửa đổi/bổ sung ngắn (~2-5 Điều), hoặc NQ/QĐ có nội dung ngắn gọn tự nhiên.
+
+### Nhiệm vụ 3: PR Comments
+
+PR #262: `gh pr view 262 --comments --json comments,reviews` → **0 comments, 0 reviews**. PR chưa có review hoặc comment nào.
+
+PR open khác: `gh pr list --state open --json number,title` → **chỉ có 1 PR open**: PR #262 "Heartbeat crawl-vanban 2026-08-05".
+
+### Phiên thực hiện
+- agent:github-io:subagent:dd237935-3dd3-42ab-a84e-133b4013b093 (Đệ #4)
+- Branch: `heartbeat/crawl-vanban-20260805`
+- PR #262 vẫn là active, không merge/close (chờ Sếp review)
+- Ngày: 2026-08-06 07:44 ICT
+
+---
+
 ## Cập nhật 2026-08-06 v84 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 07:06 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v81)
