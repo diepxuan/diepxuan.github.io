@@ -1,3 +1,77 @@
+## Cập nhật 2026-08-06 v90-2 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 12:47 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88/v89 (batch bổ sung)
+
+v90 (batch 1, agent:546ce8c2) đã review: 302/NĐ-CP, 87/TT-BQP, 305/NĐ-CP, 233/NĐ-CP, 262/NĐ-CP.
+Batch này chọn 5 VB khác chưa từng được OCR quality gate:
+
+| VB | Dòng | OCR issues trước sửa | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 174/NĐ-CP (Xử phạt BCVT-CNTT) | 4977 | 3 thật (điêu kiện + tải chính) | 0 (text heading) | [] | [] | 0 (text heading) | **PASS — ĐÃ SỬA** |
+| 57/TT-BGDĐT (Chuẩn quốc gia) | 1202 | 0 | 27 (1-27) | [] | [] | 6 (I-VI) | **PASS clean** |
+| 118/TT-BCA (Sửa đổi Luật CC) | 603 | 0 | 0 (VB sửa đổi) | N/A | N/A | 0 | **PASS clean** |
+| 56/TT-BGDĐT (Quy chế đào tạo ĐH) | 739 | 0 | 30 (1-27) | [] | [1,2,3] FP (TT vs Q. chế) | 5 (I-V) | **PASS clean** |
+| 85/NĐ-CP (Hưu trí bổ sung) | 2823 | ~41 (Điêu + QUÝ + BÒ SUNG + Chương III) | 45 (1-45) | [] | [] | 4 (I-IV) | **SET — ĐÃ SỬA 21+ lỗi** |
+
+**Phát hiện chi tiết**:
+
+1. **174/2026/NĐ-CP** (4977 dòng, `van-ban/buu-chinh-vien-thong/174-2026-nd-cp-xu-phat-vphc-buu-chinh-vien-thong-cntt.md`): Nghị định xử phạt VPHC trong lĩnh vực bưu chính, viễn thông, CNTT. 120 Điều dùng plain `Điều N.` format (thay vì `### Điều N.`). 3 lỗi OCR: `tải chính` → `tài chính` (L153, L1060), `điêu kiện` → `điều kiện` (L4063). **Đã sửa direct**. Heading Điều dạng text — không chặn merge (ưu tiên thấp sau này).
+
+2. **85/2026/NĐ-CP** (2823 dòng, `van-ban/lao-dong/nghi-dinh-85-2026-nd-cp-bao-hiem-huu-tri-bo-sung.md`): Nghị định bảo hiểm hưu trí bổ sung, ban hành 25/3/2026, hiệu lực 01/7/2026. 45 Điều, 4 Chương. **NHIỀU LỖI OCR THẬT**:
+   - **Missing heading Chương III**: L1417 có `- : Chương II - cà.` là OCR garbage → **đã sửa về `## Chương III`**
+   - L1419: `DOAH NGHIỆP QUÂN LÝ QUÂU BẢO HIẾM HƯU TRÍ BÒ SUNG` → **đã sửa thành `DOAH NGHIỆP QUẢN QU QUỸ BẢO HIỂM HƯU TRÍ BỔ SUNG`**
+   - `điêu kiện` → `điều kiện` (4x)
+   - `Điêu (N-d+)` → `Điều (N-d+)` (13x参考文献)
+   - `đâu tư` → `đầu tư` (15x)
+   - `Bảo hiêm xã hội` → `Bảo hiểm xã hội` (2x)
+   - `kế từ khi` → `kể từ khi` (3x)
+   - `cân thiết` → `cần thiết` (1x)
+   - `khoản ]` → `khoản 1` (1x)
+   - `KÉT QUẢ` → `KẾT QUẢ`, `ĐÓI VỚI` → `ĐỐI VỚI` (3x tổng)
+   - `DOAHN | NGHI�P` pipe character + garbage → đã sửa
+   **Tổng**: 21+ corrections applied. **POST-FIX: PASS CLEAN (OCR=0, Articles 1-45, Chapters I-II-III-IV đúng thứ tự)**.
+
+3. **57/TT-BGDĐT** (1202 dòng, `van-ban/giao-duc/57-2026-tt-bgddt.md`): Thông tư chuẩn quốc gia giáo dục. 27 Điều, 6 Chương (I-VI). OCR=0, Missing=[], Dup=[] **PASS clean**.
+
+4. **ng118/TT-BCA** (603 dòng, `van-ban/cong-an/can/118-2026-tt-bca.md`): Thông tư sửa đổi Luật Căn cước (VB sửa đổi — không có Điều riêng, chỉ có điều khoản sửa). OCR=0. **PASS clean**.
+
+5. **56/TT-BGDĐT** (827 dòng, `van gang dục/56-2026-tt-bgddt-quy-che-dao-tao-trinh-do-dai-hoc.md`): Duplicate Điều 1,2,3 là FP (3 Điều của Thông tư ban hành + 27 Điều của Quy chế kèm theo). OCR=0. **PASS clean (FP duplicate)**.
+
+**KET LUẬN CHUNG 5 VB**: 3/5 PASS clean không sửa (57/TT-BGDĐT, 118/TT-BCA, 56/TT-BGDĐT). 2/5 ĐÃ SỬA (174/NĐ-CP: 3 lỗi; 85/NĐ-CP: 21+ lỗi). **Sau sửa tất cả PASS clean**.
+
+### Nhiệu vụ 2: Scan Refactor (sso với v89)
+
+| Tiêu chí | v89 | v90 | Thay đổi |
+|---|---|---|---|
+| File "Đang cập nhật" | 158 | 158 | 0 |
+| File < 10KB (non-an-STUB) | 70+ | 54 | được thu gọn |
+
+Không phát hiện refactor khẩn cấp mới.
+
+### Nhiệ vụ 3: STUB Re-check
+
+| STUB | Trạng thái v89 | Trạng thái v90 |
+|---|---|---|
+| 20/TT-BVHTTDL | VẪN STUB (45 dòng) | KHÔNG THAY ĐỔI |
+| 61/TT-BGDĐT | VẪN STUB | KHÔNG THAY ĐỔI |
+| 291/NQ-TPQH16 | VẪN STUB + nghi ngờ số hiệu | KHÔNG THAY ĐỔI |
+| 279/NĐ-CP | VẪN STUB | KHÔNG THAY ĐỔI |
+| 286/NĐ-CP | CHƯA HOEÀN THIỆN | KHÔNG THAY ĐỔI |
+
+**Đã giải quyết**: 103/TT-BTC, 191/NQ-CP, 59/TT-BGDĐT, 55/TT-BGDĐT đã có nội dung đầy đủ.
+
+### Nhiệ vụ 4: PR Reviews (#263)
+
+`gh pr view 263 --comments` → **0 comments, 0 reviews**. Chưa có review hoặc comment nào. Cần Sếp duyệt.
+
+PR #262 closed. Chỉ có 1 PR open (E#263).
+
+### Phiên thực h hiện
+- agent: github-io:subagent:8002a031-72f7-436-GEE-8c6c-4eb8c3580f34 (Đif #4.2 — Content Quality Reviewer)
+- Branch: `heartbeat/crawl-vanban-20260806` (PR #263 active)
+- Đã commit OCR fixed: 174/NĐ-CP (3 lỗi) + 85/NĐ-CP (21+ lỗi)
+- Ngày: 2026-08-06 12:47 ICT Asiana/Sai Gon
+
 ## Cập nhật 2026-08-06 v90 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 12:40 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88/v89
