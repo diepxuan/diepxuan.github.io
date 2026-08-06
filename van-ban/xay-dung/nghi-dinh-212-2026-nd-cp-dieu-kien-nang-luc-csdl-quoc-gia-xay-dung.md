@@ -2134,7 +2134,7 @@ thống thông tin khác;
 
 d) Thực hiện chọn lọc, làm sạch và cập nhật dữ liệu, thông tin trong Cơ sở
 dữ liệu quốc gia về hoạt động xây dựng.
-2. Ban hành lộ trình thực hiện các công việc tại khoản ] Điều này.
+2. Ban hành lộ trình thực hiện các công việc tại khoản 1 Điều này.
 
 3. Kết nối, cung cấp dữ liệu từ Cơ sở dữ liệu quốc gia về hoạt động xây
 dựng lên Cổng dữ liệu quốc gia phục vụ cơ quan, tổ chức và cá nhân khai thác
