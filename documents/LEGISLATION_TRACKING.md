@@ -1,3 +1,109 @@
+## Cập nhật 2026-08-06 v86 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 08:43 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v84 và v85)
+
+v84 đã review: 298/NĐ-CP, 294/NĐ-CP, 76/NĐ-CP, 101/TT-BTC, 32/TT-BYT.
+v85 đã review: 300/NĐ-CP, 79/NĐ-CP, 107/TT-BTC, 115/TT-BTC, 175/NĐ-CP.
+
+v86 chọn 5 VB khác:
+
+| VB | Dòng | Size | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|---|
+| 297/NĐ-CP (Bộ Dân tộc & Tôn giáo) | 222 | 20KB | 0 | 6 (1-6) | [] | [] | 0 | **PASS clean** |
+| 299/NĐ-CP (ĐV sự nghiệp công lập) | 664 | 74KB | 0 | 31 (1-31) | [] | [] | 4 (I-IV) | **PASS clean** |
+| 303/NĐ-CP (Sửa đổi NĐ 32/2024 cụm CN) | 317 | 37KB | 0 | 3 (1-3) | [] | [] | 0 | **PASS clean** |
+| 304/NĐ-CP (KH&CN phục vụ CAND) | 315 | 29KB | 0 | 16 (1-16) | [] | [] | 5 (I-V) | **PASS clean** |
+| 77/NĐ-CP (Quỹ Đổi mới CNQG) | 703 | 55KB | 0 | 21 (1-21) | [] | [] | 0 | **PASS clean** |
+
+**Phát hiện chi tiết**:
+
+1. **297/NĐ-CP** (222 dòng, 20KB): Nghị định quy định chức năng, nhiệm vụ của Bộ Dân tộc và Tôn giáo. 6 Điều (1-6), 0 Chương (NĐ cơ cấu tổ chức). OCR issues = 0. **PASS clean**.
+
+2. **299/NĐ-CP** (664 dòng, 74KB): Nghị định quy định tổ chức đơn vị sự nghiệp công lập. 31 Điều (1-31), 4 Chương (I-IV) đầy đủ, đúng thứ tự. Căn cứ: Luật Tổ chức CP, Luật Tổ chức CQĐP, Luật Viên chức. Thay thế NĐ 120/2020/NĐ-CP + NĐ 283/2025/NĐ-CP. OCR issues = 0. **PASS clean**.
+
+3. **303/NĐ-CP** (317 dòng, 37KB): Nghị định sửa đổi, bổ sung NĐ 32/2024/NĐ-CP về quản lý, phát triển cụm công nghiệp. 3 Điều (1-3) — NĐ sửa đổi/bổ sung, cấu trúc ngắn gọn tự nhiên. 0 Chương. OCR issues = 0. **PASS clean**.
+
+4. **304/NĐ-CP** (315 dòng, 29KB): Nghị định huy động tiềm lực KH&CN, kỹ thuật phục vụ hoạt động CAND. 16 Điều (1-16), 5 Chương (I-V) — Chương I: Quy định chung (Điều 1-4), Chương II: Huy động tiềm lực KH&CN (Điều 5-7), Chương III: Huy động kỹ thuật (Điều 8-10), Chương IV: Chế độ chính sách (Điều 11-14), Chương V: Điều khoản thi hành (Điều 15-16). OCR issues = 0. **PASS clean**.
+
+5. **77/NĐ-CP** (703 dòng, 55KB): Nghị định quy định tổ chức và hoạt động của Quỹ Đổi mới công nghệ quốc gia. 21 Điều (1-21), 0 Chương. Ban hành 17/3/2026, ký bởi PTTg Phạm Thị Thanh Trà. OCR issues = 0. **PASS clean**.
+
+**KẾT LUẬN CHUNG 5 v86**: 5/5 PASS quality gate (0 OCR issues, đầy đủ Điều/Chương, chuẩn heading). Batch v86 hoàn toàn sạch — không file nào cần sửa.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **635** |
+| File có "Đang cập nhật" | **151** |
+| File STUB (<8KB + STUB marker) | **3** |
+| File < 10KB (không STUB, không DCN) | **72** |
+| Trong đó lastedit >7 ngày (trước 2026-07-30) | **68** |
+| Trong đó lastedit <=7 ngày (gần đây) | **4** |
+
+**68 file lastedit >7 ngày, <10KB** phân nhóm:
+
+| Nhóm | Số file | Ví dụ |
+|---|---|---|
+| Nghị định ngắn/NĐ sửa đổi | 10+ | 202/NĐ-CP, 272/NĐ-CP, 279/NĐ-CP, 286/NĐ-CP, 198/NĐ-CP |
+| Thông tư ngắn/TT sửa đổi | 15+ | 09/TT-BTC, 26/TT-BTC, 42/TT-BXD, 97/TT-BTC, 60/TT-BXD, 66/TT-BTC |
+| Nghị quyết/Quyết định ngắn | 10+ | 159/NQ-CP, 1246/QD-TTg, 34/QD-TTg, 1341/QD-TTg |
+| Công điện | 2 | CĐ 46/TTg, CĐ 47/TTg |
+| File metadata/index không có modified | ~25 | index.md, các file chủ đề |
+| File tracking/discovery cũ | ~3 | discovery-2026-07-13.md |
+
+**Đáng chú ý**:
+- `van-ban/giao-duc/nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md` (1.3KB, 27 dòng) — quá ngắn, có thể là stub hoặc chỉ metadata
+- `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` (1.6KB, 45 dòng) — STUB bền vững (status: stub), không có nguồn toàn văn
+- `van-ban/cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` (3.3KB, 72 dòng) — quá ngắn so với VB cùng loại
+- 4 file recent (<7 ngày): 62/TT-BXD (1.5KB RECENT), 191/NQ-CP (3.7KB RECENT — đã crawl Hoàn thiện), 07/TT-BNG (2 file ~8KB RECENT)
+
+### Nhiệm vụ 3: PR Comments
+
+PR #262: `gh pr view 262 --comments --json comments,reviews` → **0 comments, 0 reviews**. PR chưa có review hoặc comment nào.
+
+PR open khác: `gh pr list --state open --json number,title` → **chỉ có 1 PR open**: PR #262 "Heartbeat crawl-vanban 2026-08-05".
+
+**Phân loại**: PR #262 — **Chờ Sếp review** (PR đã push commit, chưa có review/comments nào).
+
+### Nhiệm vụ 4: STUB Re-check
+
+5 STUB từ v57 đã được kiểm tra lại:
+
+| STUB | File hiện tại | Dòng | KB | Điều | Trạng thái | Kết luận |
+|---|---|---|---|---|---|---|
+| **103/2026/TT-BTC** | van-ban/tai-chinh/... | 325 | 43KB | 13 (1-13) | `hoanthien` | ✅ Đã crawl xong — không còn STUB |
+| **191/NQ-CP** | van-ban/quoc-phong/... | 96 | 3.7KB | 5 (1-5) | `hoanthien` | ✅ Đã crawl xong — không còn STUB |
+| **59/TT-BGDDT** | van-ban/giao-duc/nha-giao/... | 408 | 37KB | 17 (1-17) | `trangthai_note: "Hoàn thiện"` | ✅ Đã crawl xong — thiếu key `trangthai` rõ ràng (ưu tiên THẤP) |
+| **55/TT-BGDDT** | van-ban/giao-duc/nghe-nghiep/... | 1455 | 66KB | 12 (1-12) | `hoanthien` | ✅ Đã crawl xong — không còn STUB |
+| **20/TT-BVHTTDL** | van-ban/van-hoa/... | 45 | 1.6KB | 0 | `status: stub` | ❌ Vẫn STUB — Không có nguồn toàn văn |
+
+**VB chưa crawl từ tracking v82/v83** (9 VB):
+
+| # | Số hiệu | Slug | Trạng thái |
+|---|---------|------|------------|
+| 1 | 302/2026/NĐ-CP | 442768-d1 | ❌ CHƯA CÓ |
+| 2 | 305/2026/NĐ-CP | 442748-d1 | ❌ CHƯA CÓ |
+| 3 | 306/2026/NĐ-CP | 442732-d1 | ❌ CHƯA CÓ |
+| 4 | 001/2026/NĐ-CP | 442727-d1 | ❌ CHƯA CÓ |
+| 5 | 114/2026/TT-BTC | 442774-d1 | ❌ CHƯA CÓ |
+| 6 | 111/2026/TT-BTC | 442765-d1 | ❌ CHƯA CÓ |
+| 7 | 87/2026/TT-BQP | 442749-d1 | ❌ CHƯA CÓ |
+| 8 | 33/2026/TT-BNNMT | 442684 | ❌ CHƯA CÓ |
+| 9 | 05/2026/TT-BNG | 442443 | ❌ CHƯA CÓ |
+
+**Phát hiện chính**:
+1. 4/5 STUB v57 đã được crawl và chuyển trạng thái sang Hoàn thiện
+2. 20/TT-BVHTTDL là STUB bền vững duy nhất còn lại — không có nguồn toàn văn trên luatvietnam.vn hoặc datafiles.chinhphu.vn
+3. 9 VB mới phát hiện từ v82 (ngày 06/8, 06:40) vẫn CHƯA được crawl — cần Đệ #3 (Crawler) hoặc heartbeat poll tiếp theo
+
+### Phiên thực hiện
+- agent:github-io:subagent:ddf7047f-08ac-4646-9303-6a42eba5fbc2 (Đệ #4)
+- Branch: `heartbeat/crawl-vanban-20260805`
+- PR #262 vẫn là active, không merge/close (chờ Sếp review)
+- Ngày: 2026-08-06 08:43 ICT
+
+---
+
 ## Cập nhật 2026-08-06 v85 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 07:44 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v84)
