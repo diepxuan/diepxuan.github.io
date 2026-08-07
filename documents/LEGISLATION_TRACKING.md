@@ -1,3 +1,110 @@
+## Cập nhật 2026-08-07 v99 — Reviewer (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-07 06:32 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ v84-v98
+
+Chọn 5 VB chưa từng được quality gate trong các đợt trước (v84-v98, 35+ VB):
+
+| VB | Dòng | OCR trước sửa | Điều | Missing | Dup | Chương | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 210/ND-CP (Hợp đồng xây dựng) | 2288 | 3 thật | 34 (1-34) | [] | [] | 3 (I-III) | **PASS — 2 lỗi** |
+| 204/ND-CP (Xử phạt thú y) | 932 | 0 | 52 (1-52) | [] | [] | 4 (I-IV) | **PASS CLEAN** |
+| 26/TT-BTC (Luật NSNN) | 956 | 0 | 38 (1-38) | [] | [] | 8 (I-VIII) | **PASS CLEAN** |
+| 46/ND-CP (ATTP) | 1187 | 0 | 55 (1-55) | [] | [] | 11 (I-XI) | **PASS CLEAN** (note: non-standard front matter) |
+| 273/ND-CP (KD miễn thuế) | 1794 | 62+ trước fix / 0 sau | 23 (1-23) | [] | [] | 0 | **PASS sau fix** |
+
+**Phát hiện chi tiết**:
+
+1. **210/ND-CP** (2288 dòng): Hợp đồng trong hoạt động xây dựng. 34 Điều, 3 Chương. 2 lỗi đã sửa: `vận chuyên` (1x) -> `vận chuyển`, `kê từ thời điệp` + `tôi thiểu` (1x) -> `kể từ thời điểm` + `tối thiểu`. POST-FIX: OCR=0. PASS.
+
+2. **204/ND-CP** (932 dòng): Xử phạt VPHC lĩnh vực thú y. 52 Điều, 4 Chương. OCR=0. PASS CLEAN. File chất lượng cao.
+
+3. **26/TT-BTC** (956 dòng): Hướng dẫn NĐ 73/2026 về Luật Ngân sách. 38 Điều, 8 Chương. OCR=0. PASS CLEAN.
+
+4. **46/ND-CP** (1187 dòng): Quy định chi tiết Luật An toàn thực phẩm. 55 Điều, 11 Chương. OCR content = 0. Hong front matter dùng format YAML không chuẩn (không có `layout: vanban`, không có `date`). PASS CLEAN về nội dụng.
+
+5. **273/2026/ND-CP** (1794 dòng): Kinh doanh hàng miễn thuế. 23 Điều, 0 Chương. OCR systematic errors hàng loạt: `đữ liệu` -> `dữ liệu` (25 lần), `kế từ` -> `kể từ` (10), `hệ thống` -> `hệ thống` (9), `vận chuyên` -> `vận chuyển` (8), `sự cô/sự có` -> `sự cố` (8), `đên hệ` -> `đến hệ` (3)`, `tiêu mặt` -> `tiền mặt` (4), `phiều` -> `phiếu` (2), `chậm nhật` -: `chậm nhất`. Tổng 62+ lỗi OCR systematic từ nguồn PDF. POST-FIX: OCR=0. PASS.
+
+**TỔNG KẾT**: 5/5 VB PASS quality gate content. 3 PASS CLEAN, 2 PASS với fixes. **62+ lỗi OCR đã sửa**. 1 VB metadata note (46/ND-CP non-standard front matter).
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ van-ban/
+
+| Tiêu chí | v97 | v98 | v99 | Thay đổi vs v98 |
+|---|---|---|---|---|
+| Total *.md | 645 | 645 | 639 | -6 |
+| File "Đang cập nhật" | 159 | 159 | 158 | -1 |
+| File < 10KB (non-STUB, non-ĐCN) | 72 | 72 | 72 | 0 |
+| File < 3KB + >7d | 7 | 7 | 3 | -4 |
+
+Nhận xét: Giảm 6 file total (có thể dọn dẹp cấu trúc), giảm 1 ĐCN, giảm mạnh 4 file nhỏ cũ.
+
+### Nhiệm vụ 3: STUB Re-check
+
+| STUB | dạ | Kích thước | Dòng | Trạng thái |
+|---|---|---|---|---|
+| 279/ND-CP (Bộ GD&ĐT) | 1.3 | 1317 | 27 | Vị STUB (20d) |
+| 286/ND-CP (XNX) | 2.1 | 2076 | 57 | Vị CHưA HOÀN THIỆN (15d) |
+| 20/TAY-BVHTTDL | 1.7 | 1673 | 45 | STUB |
+| 61/TT-BGDDT | 2.9 | 2945 | 61 | STUB |
+| 291/NQ-TPQH16 | 1.6 | 1575 | 41 | STUB + nghi ngờ số hiệu |
+| 44/TT-BKHCN | — | — | — | KHÔNG CÓ FILE, chỉ tracking (Đệ #3 fail 3x) |
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+PR #263: **0 comments, 0 reviews**. Chờ Sếp review.
+
+### Nhiệm vụ 5: Discovery bổ sung
+
+- NĐ + TT sitemap: **403 Forbidden** (luatvietnam.vn block hoặc rate limit)
+
+### Commit
+- `014cc18c`: fix: OCR v99 — 210/NĐ-CP (2 lỗi) + 273/ND-CP (62+ lỗi systematic) + review report
+
+### Phiên thực hiện
+- agent: github-io:subagent:f02b0200-44ce-421c-8cb8-8076f37931c7 (Đệ #4 — Content Reviewer + PR Comment Reviewer)
+
+---
+
+## Cập nhật 2026-08-07 v99 (Đệ #1 Discovery — 2026-08-07 06:32 ICT)
+
+### Kết quả discovery: 0 văn bản mới
+
+Phương pháp: refresh sitemap luatvietnam.vn lúc 06:32 ICT 7/8. So với ref v98.
+
+**MD5 comparison** (so với v98):
+- NĐ: `23553db37114f2cc3ecf513220a57416` — **UNCHANGED**
+- TT: `b4f5bf78618024f9a2c60483f0404486` — **CHANGED** từ v98 (`59062d8a7f6f3b500befc786a9e9e782`)
+
+**Giải thích**: TT sitemap MD5 thay đổi do 3 slug v97 (442918, 442942, 442979) đã quay lại sau khi bị gỡ trong v98. Tất cả 3 slug đã được xử lý từ v97 (112/TT-BTC + 113/TT-BTC đã crawl xong, 44/TT-BKHCN STUB). Không có slug nào mới > 442979.
+
+**Max d1 slug**:
+- NĐ: 442906 (không đổi) → 0 slug mới
+- TT: 442979 (không đổi từ v97, tăng từ 442804 ở v98) → slug quay lại, không mới
+
+**Kết luận**: 0 VB mới. Toàn bộ backlog v97 đã được xử lý. Kiến nghị poll lại sau 6-12h.
+
+### Scan van-ban/: 0 file chưa hoàn thiện mới
+
+Tổng 647 file *.md. 158 file "Đang cập nhật" (index placeholder). 61 file < 10KB non-DČN, lastedit > 7d. Tất cả 6 STUB đã biết vẫn bền vững:
+- 279/NĐ-CP: VẪN STUB (1.3KB, mtime 2026-07-21)
+- 286/NĐ-CP: VẪN CHƯA HOÀN THIỆN (2.1KB)
+- 20/TT-BVHTTDL: VẴN STUB (1.7KB)
+- 61/TT-BGDĐT: VẴN STUB (2.9KB)
+- 291/NQ-TPQH16: VẪN STUB + Nghi ngờ số hiệu (1.6KB)
+- 44/TT-BKHCN: STUB trong tracking, chưa có file stub trong van-ban/
+
+Không phát hiện file chưa hoàn thiện mới ngoài danh sách STUB đã biết.
+
+### Sitemap backup
+- `tmp/discovery-v99/sitemap_nghidinh.xml` (MD5: `23553db37114f2cc3ecf513220a57416`)
+- `tmp/discovery-v99/sitemap_thongtu.xml` (MD5: `b4f5bf78618024f9a2c60483f0404486`)
+
+### Phiên
+- agent: github-io:subagent:be0b7924 (Đệ #1 Discovery)
+- branch: `heartbeat/crawl-vanban-20260806`
+- Ngày: 2026-08-07 06:32 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-07 v98 (Đệ #1 Discovery — 2026-08-07 05:04 ICT)
 
 ### Kết quả discovery: 0 văn bản mới
