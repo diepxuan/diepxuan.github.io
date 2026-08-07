@@ -329,7 +329,7 @@ việc.
 
 6. Hội thẩm nhân dân bị bãi nhiệm, công chứng viên, luật sư, đấu giá viên,
 quản tài viên, giám định viên tư pháp, thẩm định viên về giá bị miễn nhiệm, bị
-thu hồi chứng chỉ hành nghề, thẻ hành nghề mà chưa hết thời hạn 03 năm kế từ
+thu hồi chứng chỉ hành nghề, thẻ hành nghề mà chưa hết thời hạn 03 năm kể từ
 ngày bị bãi nhiệm, miễn nhiệm, thu hồi chứng chỉ hành nghề, thẻ hành nghề hoặc
 đang bị tước quyền sử dụng chứng chỉ hành nghề, thẻ hành nghề.
 
@@ -1188,7 +1188,7 @@ cầu thi hành án trong cùng một bản án, quyết định, thì cơ quan 
 sự hoặc văn phòng thi hành án dân sự đã ban hành quyết định thi hành án sau
 phải thu hồi quyệt định thi hành án.
 
-Trường hợp có tranh chấp về thâm quyền tổ chức thi hành án thì cơ quan thi
+Trường hợp có tranh chấp về thẩm quyền tổ chức thi hành án thì cơ quan thi
 hành án dân sự hoặc văn phòng thi hành án dân sự có quyền đề nghị Thủ trưởng cơ
 quan quản lý thi hành án dân sự thuộc Bộ Tư pháp xem xét, quyết định.
 
@@ -1293,7 +1293,7 @@ phải thi hành án mà chưa có quyết định phong tỏa thì Thừa hành
 bản yêu cầu cơ quan, tổ chức, cá nhân đang quản lý tài khoản, tài sản của người
 phải thi hành án phong tỏa tài khoản, tài sản đó.
 
-2. Trong thời hạn 24 giờ kế từ thời điểm nhận được đề nghị của Thừa hành
+2. Trong thời hạn 24 giờ kể từ thời điểm nhận được đề nghị của Thừa hành
 viên, cơ quan thi hành án dân sự phải phân công và Chấp hành viên được phân
 công phải ra quyết định áp dụng biện pháp bảo đảm theo quy định; trường hợp
 từ chối ra quyết định, cơ quan thi hành án dân sự phải có văn bản và nêu rõ lý
@@ -1341,7 +1341,7 @@ Việc giao, nhận hồ sơ phải được lập thành biên bản theo mẫu
 Bộ Tư pháp quy định.
 
 2. Thù lao, chỉ phí thi hành án thực hiện theo hợp đồng dịch vụ tổ chức thi
-hành án. Chi phí thi hành án kế từ thời điểm cơ quan thi hành án dân sự ra quyết
+hành án. Chi phí thi hành án kể từ thời điểm cơ quan thi hành án dân sự ra quyết
 định thi hành án và tổ chức thi hành được thực hiện theo quy định của pháp luật
 về thi hành án dân sự.
 
@@ -1644,7 +1644,7 @@ phí xác minh điều kiện thi hành án do văn phòng thi hành án dân s�
 yêu cầu thỏa thuận hoặc được tính vào chí phí thi hành án dân sự theo quy định
 của pháp luật về thi hành án dân sự.
 
-## Chương V „ :
+## Chương V
 QUAN LY NHÀ NƯỚC VÉ TO CHỨC VÀ
 HOẠT ĐỘNG CỦA THỪA HÀNH VIÊN
 

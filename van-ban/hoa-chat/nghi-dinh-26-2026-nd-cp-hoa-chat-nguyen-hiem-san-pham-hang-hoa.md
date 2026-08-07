@@ -401,7 +401,7 @@ chất của tổ chức, cá nhân theo quy định tại Điều 32 của Ngh�
 và biện pháp để tổ chức, hướng dẫn thi hành một số điều của Luật Hóa chất về
 phát triển công nghiệp hóa chất và an toàn, an ninh hóa chất;
 g) Phiếu an toàn hóa chất của các hóa chất có điều kiện đề nghị cấp Giấy
-chứng nhận đủ điêu kiện kinh doanh.
+chứng nhận đủ điều kiện kinh doanh.
 3. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất và kinh doanh
 a) Văn bản đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất và kinh
 doanh hóa chất có điều kiện;
@@ -512,7 +512,7 @@ trữ hóa chất; chủng loại, hàm lượng hóa chất sản xuất, kinh 
 chứng nhận lần gần nhất qua đường bưu điện hoặc gửi trực tiếp hoặc qua hệ
 thống dịch vụ công trực tuyến;
 b) Hồ sơ đề nghị điều chỉnh Giấy chứng nhận bao gồm: Văn bản để nghị
-câp điêu chỉnh Giấy chứng nhận đủ điêu kiện; giấy tờ, tài liệu chứng minh việc
+câp điều chỉnh Giấy chứng nhận đủ điều kiện; giấy tờ, tài liệu chứng minh việc
 đáp ứng được điều kiện sản xuất, kinh doanh đối với các nội đung điều chỉnh;
 e) Cơ quan cấp Giấy chứng nhận thẩm định các nội dung điều chỉnh và thực
 hiện cấp Giấy chứng nhận theo trình tự, thủ tục như cắp mới Giấy chứng nhận.
@@ -648,7 +648,7 @@ thời gian cấp phép quy định tại điểm c khoản này;
 c) Trong thời hạn 16 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ quy
 định tại khoản 1, khoản 2 và khoản 3 Điều ñày, Cơ quan có thẩm quyền cấp
 Giấy phép có trách nhiệm xem xét, thẩm định hồ sơ, kiểm tra điều kiện thực tế
-và cập Giấy phép cho tổ chức. Trường hợp không cấp Giấy phép, cơ quan có
+và cấp Giấy phép cho tổ chức. Trường hợp không cấp Giấy phép, cơ quan có
 thẩm quyền cấp Giấy phép có văn bản trả lời, nêu rõ lý đo;
 Trường hợp tổ chức thuê kho của tổ chức được cơ quan có thẩm quyền
 cấp Giấy chứng nhận đủ điều kiện hoạt động dịch vụ tồn trữ hóa chất, cơ quan
@@ -738,7 +738,7 @@ chức, cá nhân bổ sung, hoàn chỉnh hồ sơ. Thời gian hoàn chỉnh h
 tính vào thời gian cấp phép quy định tại điểm e khoản này;
 c) Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ
 quan có thẩm quyền cấp phép kiểm tra hồ sơ và cấp Giấy phép xuất khẩu, nhập
-khẩu hóa chất cần kiểm soát đặc biệt. Trường hợp không cập Giấy phép, cơ
+khẩu hóa chất cần kiểm soát đặc biệt. Trường hợp không cấp Giấy phép, cơ
 quan có thẩm quyền cấp phép từ chối cấp phép và nêu rõ lý do; ị
 d) Trường hợp xuất khẩu hóa chất cần kiểm soát đặc biệt là tiền chất công
 nghiệp thuộc Phụ lục HI của Nghị định số 24/2026/NĐ-CP ngày 17 tháng 01
@@ -937,7 +937,7 @@ nguy hiểm của hóa chất; ị
 phương tiện bảo đảm an toàn được cơ quan có thẩm quyền phê duyệt;
 e) Có phương án kiểm soát phồng, chống thất thoát hóa chất cấm theo mẫu.
 do Bộ trưởng Bộ Công Thương quy định (trong đó bao gồm tôi thiêu các nội dung;
-chúng loại; khôi lượng; cách thức bảo quản; kê hoạch kiêm gia, giám sát).
+chúng loại; khôi lượng; cách thức bảo quản; kế hoạch kiểm tra, giám sát).
 3. Điều kiện xuât khẩu hóa chật câm:
 a) Tổ chức không sử dụng hết hóa chất cấm theo thời hạn sử dụng quỷ
 định tại Giấy phép nhập khẩu hóa chất cấm do cơ quan có thẩm quyền cập;
@@ -953,7 +953,7 @@ c) Hóa đơn thương mại bản gốc và bản dịch tiếng Việt có xá
 chức trong trường hợp hóa đơn thương mại được phát hành bằng tiếng nước
 ngoài, trong đó ghi rõ tên, số lượng hàng hóa, thời gian và quốc gia xuất khẩu;
 . đ8) Bản cam kết mục đích sử dụng hóa chất cấm cho nghiên cứu khoa học,
-quôc phòng, an ninh, phòng chông thiên tai, dịch bệnh hoặc thực hiện nhiệm
+quốc phòng, an ninh, phòng chống thiên tai, dịch bệnh hoặc thực hiện nhiệm
 vụ do Chính phủ, Thủ tướng Chính phủ giao;
 đ) Phiếu an toàn hóa chất;
 e) Báo cáo về tình hình nhập khẩu, sử dụng và tồn trữ hóa chất cấm theo
@@ -991,7 +991,7 @@ a) Trường hợp thay đối nội dung hóa đơn, tổ chức lập 01 bộ 
 cấp điều chỉnh Giấy phép và gửi cơ quan có thẩm quyền cấp phép qua đường
 bưu chính hoặc nộp trực tiếp hoặc qua hệ thống dịch vụ công trực tuyến;
 b) Hồ sơ đề nghị điều chỉnh Giấy phép bao gồm: Văn bản đề nghị cấp điều
-chỉnh Giấy phép; Giấy tờ, tài liệu xác nhận đối với các nội dung điêu chỉnh;
+chỉnh Giấy phép; Giấy tờ, tài liệu xác nhận đối với các nội dung điều chỉnh;
 c) Cơ quan có thẩm quyền cấp phép thẩm định các nội dung điều chỉnh và
 cấp Giấy phép theo trình tự, thủ tục như cấp mới Giấy phép;
 đ) Thời hạn Giấy phép cấp điều chỉnh thực hiện như cấp mới Giấy phép.
@@ -1140,7 +1140,7 @@ hiện thanh tra, kiểm tra, giám sát việc thực hiện quy định về �
 kiểm tra đột xuất khi cần thiết việc thực hiện quy định về điều kiện hoạt động.
 dịch vụ tồn trữ hóa chất của tổ chức thuộc phạm vi quản lý.
 9. Tổ chức thực hiện nộp phí thẩm định theo quy định của pháp luật về
-phí và lệ phí khi nộp hồ sơ đê nghị cập Giấy chứng nhận đủ điêu kiện hoạt động
+phí và lệ phí khi nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện hoạt động
 dịch vụ tồn trữ hóa chất.
 ._10. Bộ trưởng Bộ Công Thương quy định các biểu mẫu hồ sơ quy định tại
 Điều này.
@@ -1363,7 +1363,7 @@ b) Tổ chức, cá nhân thực hiện hoạt động đối với hóa chất 
 đặc biệt có trách nhiệm thực hiện việc xác thực, định danh, truy xuất nguồn gốc
 khi hệ thống hoàn thiện và được Bộ Công an công bố.
 3. Chế độ cung cấp thông tin
-a) Chế độ cung cấp thông tin của cơ quan quán lý nhà nước
+a) Chế độ cung cấp thông tin của cơ quan quản lý nhà nước
 Bộ, cơ quan ngang bộ có trách nhiệm đồng bộ, chia sẻ dữ liệu quản lý về
 hóa chất trên Cơ sở dữ liệu chuyên ngành hóa chất theo mẫu do Bộ trưởng Bệ
 Công Thương quy định bao gồm: tình hình hoạt động hóa chất và quản lý hóa
@@ -1380,10 +1380,10 @@ hóa chất theo mẫu do Bộ trưởng Bộ Công Thương quy định bao g�
 Tình hình hoạt động hóa chất của năm trước định kỳ trước ngày 15 tháng
 02 hằng năm;
 Tình hình thực hiện dự án theo tiến độ từng giai đoạn đầu tư xây dựng của
-chủ đâu tư dự án hóa chất trong giai đoạn trước khi hoàn thành công trình và
+chủ đầu tư dự án hóa chất trong giai đoạn trước khi hoàn thành công trình và
 đưa công trình vào sử dụng;
 Tình hình thực hiện hoạt động sản xuất, kinh doanh định kỳ hằng năm của
-chủ đâu tư dự án hóa chất sau khi hoàn thành công trình và đưa công trình vào
+chủ đầu tư dự án hóa chất sau khi hoàn thành công trình và đưa công trình vào
 sử dụng;
 Tình hình sản xuất, kinh doanh, xuất khẩu, nhập khẩu đối với sản phẩm
 chứa hóa chất nguy hiểm của tổ chức;

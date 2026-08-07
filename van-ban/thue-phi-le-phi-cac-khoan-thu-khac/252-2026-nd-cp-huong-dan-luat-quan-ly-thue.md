@@ -167,7 +167,7 @@ quản lý thuế;
 b) Điều 49 về biện pháp cưỡng chế thi hành quyết định hành chính về quản
 lý thuế;
 
-w) Điều 50 về thấm quyền quyết định cưỡng chế thi hành quyết định hành
+w) Điều 50 về thẩm quyền quyết định cưỡng chế thi hành quyết định hành
 chính về quản lý thuế..
 
 2. Quy định chỉ tiết một số nội dung được giao tại Luật Quần lý thuế gồm:
@@ -252,7 +252,7 @@ doanh dịch vụ làm thủ tục về thuế;
 p) Khoản 5 Điều 49 về trình tự thực hiện các biện pháp cưỡng chế.
 3. Quy định biện pháp thi hành một số Điều của Luật Quản lý thuế gồm:
 
-a) Nội dung, hình thức, thấm quyền, chấm dứt, cập nhật việc công khai
+a) Nội dung, hình thức, thẩm quyền, chấm dứt, cập nhật việc công khai
 thông tin người nộp thuế của cơ quan quần lý thuế;
 
 b) Quản lý thuế đối với hoạt động kinh doanh trên nên tảng thương mại
@@ -325,7 +325,7 @@ quan, Chỉ cục Điều tra chống buôn lậu và cơ quan hải quan khác 
 quan được giao chức năng quản lý thuế; Chỉ cục Hải quan khu vực và cơ quan
 hải quan thuộc Chỉ cục Hải quan khu vực; Hải quan cửa khâu, ngoài cửa khẩu.
 
-3. Công chức quán lý thuế quy định tại khoản 3 Điều.2 Luật Quản lý thuế.
+3. Công chức quản lý thuế quy định tại khoản 3 Điều.2 Luật Quản lý thuế.
 
 4. Cơ quan nhà nước, tổ chức, cá nhân khác có liên quan quy định tại
 khoản 4 Điều 2 Luật Quản lý thuế.
@@ -450,7 +450,7 @@ tin cảnh báo đến người mua;
 
 b.2) Hình thức lựa chọn bổ sung: căn cứ vào điều kiện thực tế, thủ trưởng
 cơ quan quản lý thuế quản lý trực tiếp người nộp thuế hoặc cơ quan quản lý
-thuê nơi quản lý khoản thu ngân sách nhà nước quyết định áp dụng bố sung
+thuê nơi quản lý khoản thu ngân sách nhà nước quyết định áp dụng bổ sung
 một hoặc một số hình thức sau: công khai trên phương tiện thông tin đại chúng;
 niêm yết tại trụ sở cơ quan quản lý thuế; thông qua việc tiếp công dân, họp báo,
 thông cáo báo chí, hoạt động của người phát ngôn của cơ quan quản lý thuế các
@@ -515,7 +515,7 @@ công khai không chính xác.
 quan quản lý thuế để xây dựng và vận hành hệ thống công nghệ thông tin,
 chuyển đổi số trong quản lý thuế, hóa đơn điện tử, cơ sở vật chất, trang thiết bị
 và các nhiệm vụ chuyên môn phục vụ công tác để nâng cao hiệu quả quản lý
-thuế theo quy định của pháp luật về quán lý tài chính ngân sách, đầu tư công,
+thuế theo quy định của pháp luật về quản lý tài chính ngân sách, đầu tư công,
 tài sản công, trong đó có các nội dung sau:
 
 a) Xây dựng mới, nâng cấp, mở rộng, duy trì và vận hành: hệ thống công
@@ -608,7 +608,7 @@ như sau:
 a) Thời hạn đăng ký thuế lần đầu là 10 ngày làm việc kể từ ngày sau đây:
 
 a.1) Ngày được cấp giấy phép thành lập và hoạt động hoặc ngày được cấp
-quyết ‹ định thành lập hoặc giấy tờ tương đương khác do cơ quan có thấm quyền
+quyết ‹ định thành lập hoặc giấy tờ tương đương khác do cơ quan có thẩm quyền
 cấp đối với tổ chức thuộc điện đăng ký hoạt động, kinh doanh hoặc là ngày khai
 trương hoạt động chỉ nhánh, văn phòng giao dịch của tổ chức tín dụng;
 
@@ -628,7 +628,7 @@ thì thời hạn đăng ký thuế chậm nhất là ngày 31 tháng 12 của n
 
 a.5) Ngày phát sinh nghĩa vụ với ngân sách nhà nước đối với tổ chức, cá
 nhân không thuộc các trường hợp quy định tại các điểm a.1, a.2, a.3 và a.4
-khoản này và chưa có mã sô thuế;
+khoản này và chưa có mã số thuế;
 
 b) Tổ chức, cá nhân không thuộc các trường hợp quy định tại điểm a khoản
 này nhưng thuộc đối tượng được hoàn thuế theo quy định của pháp luật và chưa
@@ -694,7 +694,7 @@ thuận, thông báo hoặc yêu cầu tạm ngừng hoạt động, kinh doanh 
 nhà nước có thẩm quyền gửi văn bản cho cơ :' quan thuế quản lý trực tiếp người
 nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày ban hành văn bản. Thời
 gian tạm ngừng hoạt động, kinh doanh là thời gian được ghi trên văn bản do cơ
-quan nhà nước có thấm quyền cấp;
+quan nhà nước có thẩm quyền cấp;
 
 g.2) Đối với người nộp thuế không thuộc trường hợp quy định tại điểm
 .1 khoản này thì người nộp thuế thực hiện thông báo tạm ngừng hoạt động,
@@ -814,7 +814,7 @@ lực mã số thuế trước khi chấm đứt hiệu lực mã số thuế c�
 đ) Người nộp thuế có hồ sơ đề nghị khôi phục mã số thuế có trách nhiệm
 nộp dẩy: đủ hồ sơ khai thuế còn thiếu, hoàn thành nộp đầy đủ số tiền thuế và
 các khoản thu khác với cơ quan thuế trước khi khôi phục mã số thuế, trừ trường
-hợp được cơ quan có thấm quyền khôi phục tình trạng pháp lý hoặc cơ quan
+hợp được cơ quan có thẩm quyền khôi phục tình trạng pháp lý hoặc cơ quan
 nhà nước có thầm quyền chấp nhận nộp dần tiền thuế nợ theo quy định tại khoản
 6 Điều 4 Luật Quản lý thuê;
 
@@ -905,7 +905,7 @@ khi hủy, xác lập lại số định danh cá nhân.
 
 5. Đối với các cơ quan cấp giấy phép thành lập, hoạt động cho tổ chức:
 
-a) Cơ quan nhà nước có thấm quyền cấp giây phép thành lập và hoạt động
+a) Cơ quan nhà nước có thẩm quyền cấp giây phép thành lập và hoạt động
 hoặc quyết định thành lập hoặc giấy tờ tương đương khác cho các tổ chức thuộc
 điện đăng ký kinh doanh (trừ cơ quan đăng ký kinh doanh theo cơ chế một cửa
 liên thông) có trách nhiệm cung cấp, chia sẻ thông tin cho cơ quan thuế phục
@@ -913,7 +913,7 @@ vụ công tác quản lý thuế;
 
 b) Thông tin được cung cấp, chia sẻ bao gồm: số giấy phép thành lập và
 hoạt động hoặc quyết định thành lập hoặc giấy chứng nhận đăng ký dầu tư hoặc
-giấy tờ tương đương khác cấp cho tổ chúc; ngày cấp; cơ quan cấp; tên tổ chức;
+giấy tờ tương đương khác cấp cho tổ chức; ngày cấp; cơ quan cấp; tên tổ chức;
 địa chỉ trụ sở; người đại diện pháp luật của tổ chức (số định danh cá nhân hoặc
 
 
@@ -1002,7 +1002,7 @@ tháng của năm đương lịch;
 e) Kỳ tính thuế quý được xác định từ ngày đầu quý đến ngày cuối quý của
 năm đương lịch hoặc năm tài chính;
 
-đ) Kỳ tính thuế năm được xác định theo năm dương lịch hoặc năm tải chính;
+đ) Kỳ tính thuế năm được xác định theo năm dương lịch hoặc năm tài chính;
 đ) Kỳ quyết toán thuế được xác định như sau:
 
 đ.1)Ky quyết toán thuế được xác định theo kỳ kế toán năm theo quy định
@@ -1087,7 +1087,7 @@ mua là người hộp thay thuế cho bên bán, trường hợp bên thứ ba 
 quyền mà người nhận ủy quyền có đầy đủ nội dung như quyền sở hữu đối với
 bất động sản theo quy định của pháp luật về dân sự) thì thời hạn nộp hồ sơ khai
 thuế chậm nhất là ngày cuối cùng của thời hạn phải đăng ký biến động tại cơ
-quan có thấm quyền theo quy định của pháp luật về đất đai;
+quan có thẩm quyền theo quy định của pháp luật về đất đai;
 
 b) Trường hợp chuyển nhượng, nhận thừa kế, quà tặng là nhà hình thành
 trong tương lai, quyền sử dụng đất gắn với công trình xây dựng tương lai (bao
@@ -1182,7 +1182,7 @@ quy định của pháp luật về ngoại giao mua hàng hóa, dịch vụ t�
 khác do cơ quan thuế thực hiện mả cơ quan thuế đã kết nối, chia sẻ, sử dụng
 được thông tỉn có trong cơ sở đữ liệu quốc. gia, cơ sở dữ liệu của cơ quan nhà
 nước có thâm quyên, Hệ thống thông tín quản lý thuế hoặc hồ Sơ xác định nghĩa
-vụ tài chính, phiếu chuyển thông tin do cơ quan có thấm quyền chuyển đến và
+vụ tài chính, phiếu chuyển thông tin do cơ quan có thẩm quyền chuyển đến và
 các thông tin, dữ liệu này bảo đảm đủ căn cứ để tính thuế, khoản thu khác theo
 quy định thì người nộp thuế không phải nộp hồ sơ khai thuế, khoản thu khác,
 trừ trường hợp người nộp thuế có đề nghị miễn, giảm trên hồ sơ khai thuế,
@@ -1252,7 +1252,7 @@ này chỉ áp dụng đối với các nội dung chưa được xử lý tại
 xử lý của cơ quan có thâm quyên. Việc điều chỉnh hồ sơ khai thuê theo quy
 định tại khoản này không làm thay đổi hiệu lực của kết luận, quyết định xử lý
 qua thanh tra, kiểm tra đã ban hành. Người nộp thuế bị xử lý theo quy định như
-đổi với trường hợp cơ quan thuế, cơ quan có thấm quyền thanh tra, kiểm tra
+đổi với trường hợp cơ quan thuế, cơ quan có thẩm quyền thanh tra, kiểm tra
 phát hiện.
 
 5. Đối với trường hợp khai bổ sung quy định tại điểm đ khoản 5 Điều 12
@@ -1280,7 +1280,7 @@ pháp hóa đơn mà người mua hàng hóa, dịch vụ sử dụng hóa đơn
 thuộc phạm vi kết luận thì người mua phải khai bể sung đề điều chỉnh nghĩa vụ
 thuế kế cả trường hợp kỳ tính thuế đã được thanh tra, kiểm tra và người mua bị
 xử lý theo quy định của pháp luật quản lý thuế như đối với trường hợp cơ quan
-thuế, cơ quan có thấm quyền thanh tra, kiểm tra phát hiện.
+thuế, cơ quan có thẩm quyền thanh tra, kiểm tra phát hiện.
 
 6. Người nộp thuế khai bỗ sung cho từng hồ sơ khai thuê, khoản thu khác
 có sai, sót thuộc các trường hợp quy định tại khoản l, 2, 3, 4 và 5 Điều này
@@ -1294,9 +1294,9 @@ số tiền phải nộp tăng thêm hoặc số tiền đã được miễn, gi
 nộp vào ngân sách nhà nước (nếu có); trường hợp việc khai bổ sung làm giảm
 số thuế, khoản thu khác phải nộp thì người nộp thuế được điều chỉnh giảm tiền
 chậm nộp và xử lý số tiền thuê, khoản thu khác nộp thừa (nếu có) theo quy
-định. Trường hợp việc khai bố sung làm tăng, giảm sô thuế giá trị gia tăng được
+định. Trường hợp việc khai bổ sung làm tăng, giảm số thuế giá trị gia tăng được
 khấu trừ chuyển kỳ sau thì người nộp thuế khai số thuế chênh lệch tăng, giảm
-vào kỳ phát hiện sai, sót. Người nộp thuế chỉ được khai bố sung tăng số thuế
+vào kỳ phát hiện sai, sót. Người nộp thuế chỉ được khai bổ sung tăng số thuế
 giá trị gia tăng đề nghị hoàn khi chưa nộp hồ sơ đề nghị hoàn thuế.
 
 Riêng trường hợp người nộp thuế phát hiện số thuế giá trị gia tăng dầu vào
@@ -1356,7 +1356,7 @@ hòa xã hội chủ nghĩa Việt Nam và Chính phủ Liên bang Nga ký ngày
 12 năm 2010 về việc tiếp tục hợp tác trong lĩnh vực thăm dò địa chất và khai
 thác dâu khí tại thềm lục địa Cộng hoà xã hội chủ nghĩa Việt Nam trong khuôn
 khổ Liên doanh Việt - Nga “Vietsovpetro” (sau đây gọi là Liên doanh
-Vietsovpetro tại Lô 09.1) và các Nghị định thư sửa đổi, bố sung; tiền lãi khí
+Vietsovpetro tại Lô 09.1) và các Nghị định thư sửa đổi, bổ sung; tiền lãi khí
 nước chủ nhà được chia. ˆ -
 
 
@@ -1785,10 +1785,10 @@ làm căn cứ tính thuế, khoản thu khác. -
 
 ### Điều 17. Các trường hợp cơ quan thuế tính thuế, khoản thu khác và
 thông báo nộp thuế, khoản thu khác theo hồ sơ XÁC định nghĩa vụ tài chính
-do cơ quan quản lý nhà nước có thấm quyền chuyển đến
+do cơ quan quản lý nhà nước có thẩm quyền chuyển đến
 
 „ 1. Trường hợp cơ quan thuế tính thuế, khoản thu khác và thông báo số tiền
-thuê, khoản thu khác phải nộp theo hồ sơ xác định nghĩa vụ tải chính do cơ
+thuê, khoản thu khác phải nộp theo hồ sơ xác định nghĩa vụ tài chính do cơ
 quan quản lý nhà nước có thâm quyên chuyên đên, bao gồm:
 
 a) Thuế thu nhập cá nhân từ chuyên nhượng bất động sản, từ nhận thừa
@@ -1821,7 +1821,7 @@ pháp luật.
 thuế ban hành thông báo nộp thuế, khoản thu khác và gửi thông báo nộp thuế,
 khoản thu khác cho người nộp thuế kể từ ngày nhận được phiếu chuyển thông
 tin để xác định nghĩa vụ tài chính về đất đai và văn bản hợp pháp, đầy đủ của
-cơ quan nhà nước có thấm quyên, cụ thể như sau:
+cơ quan nhà nước có thẩm quyền, cụ thể như sau:
 
 a) Cơ quan tiếp nhận và xử lý hồ sơ: cơ quan tiếp nhận hồ sơ là cơ quan
 được giao nhiệm vụ tiếp nhận hồ sơ theo quy định của pháp luật về đất đai. Cơ
@@ -1885,10 +1885,10 @@ pháp luật.
 2. Trình tự, thủ tục, thời hạn cơ quan thuế ban hành thông báo khoản thu
 khác phải nộp và gửi thông báo khoản thu khác phải nộp cho người nộp thuế
 kể từ ngày nhận được quyết định, thông báo, văn bản của cơ quan nhà nước có
-thấm quyên, cụ thể như sau:
+thẩm quyền, cụ thể như sau:
 
 a) Chậm nhất là 10 ngày làm việc kể từ ngày nhận được quyết định, thông
-báo hoặc văn bản hợp pháp, đầy đủ của cơ quan nhà nước có thấm quyền
+báo hoặc văn bản hợp pháp, đầy đủ của cơ quan nhà nước có thẩm quyền
 chuyển đến;
 
 b) Chậm nhất là ngày 30 tháng 4 hằng năm, cơ quan thuế ban hành thông
@@ -1940,7 +1940,7 @@ chứng từ tài liệu -có liên quan để xác định số tiền thuế p
 hóa xuất khẩu, nhập khẩu. k
 
 ### Điều 20. Trách nhiệm của người nộp thuế, cơ quan quản lý thuế, cơ
-quan có thấm quyền trong trường hợp cơ quan quản lý thuế tính thuế,
+quan có thẩm quyền trong trường hợp cơ quan quản lý thuế tính thuế,
 .khoản thu khác, thông báo nộp thuế, khoản thu khác
 
 1. Người nộp thuế có trách nhiệm khai chính xác, trung thực, đầy đủ các
@@ -1981,12 +1981,12 @@ thông báo nộp tiền theo thời hạn quy định tại các Điều tươn
 e) Đối với trường hợp cơ quan thuế thông báo số tiền thuế, khoản thu khác
 phải nộp theo văn bán tính thuế, khoản thu khác của cơ quan quản lý nhà nước
 có thẩm quyền chuyển đến theo quy định tại Điều 1 Nghị định này: trường
-hợp thông tín của các cơ quan nhà nước có thấm quyền chuyển đến chưa đủ
+hợp thông tín của các cơ quan nhà nước có thẩm quyền chuyển đến chưa đủ
 căn cứ để ban hành thông báo nộp thuế, trong thời hạn 05 ngày làm việc kế từ
 ngày nhận được văn bản, cơ quan thuế có trách nhiệm thông báo bằng văn bẩn
 cho cơ quan đã gửi hề sơ để bổ sung, điều chỉnh thông tin. Trường hợp nhận
 được văn bản đề nghị bổ sung thông tin của cơ quan thuế, cơ quan nhà nước có
-thấm quyền cung cấp hồ sơ, thông tin theo đề nghị của cơ quan thuế trong thời
+thẩm quyền cung cấp hồ sơ, thông tin theo đề nghị của cơ quan thuế trong thời
 hạn 05 ngày làm việc kể từ ngày nhận được văn bản. Sau khi nhận đủ hồ sơ,
 thông tin thì cơ quan quản lý thuế thực biện ban hành thông báo nộp tiền theo
 thời hạn quy định tại khoản 2 Điều 18 Nghị định này;
@@ -2154,7 +2154,7 @@ tiền sử dụng đất còn nợ;
 
 đ) Chậm nhất là 30 ngày kể từ ngày ban hành thông báo nộp tiền sử dụng
 đất điều chỉnh, bổ sung, người nộp thuế phải nộp 100% số tiên phải nộp chênh
-lệch tăng theo thông báo điều chỉnh, bố sung;
+lệch tăng theo thông báo điều chỉnh, bổ sung;
 
 đ) Trường hợp giao đất thông qua đấu giá quyền sử dụng đất, thời hạn nộp
 tiền là thời hạn trên quyết định phê duyệt kết quả trúng đấu giá của cơ quan nhà
@@ -2342,14 +2342,14 @@ quý tiếp theo quý phát sinh nghĩa vụ thuế, khoản thu khác.
 3. Nghĩa vụ tạm nộp thuế, khoản thu khác:
 
 a) Người nộp thuế phải tự xác định số thuế, khoản thu khác tạm nộp hằng
-quý nhưng tổng sô thuế, khoản thu khác đã tạm nộp của 04 quý không được
+quý nhưng tổng số thuế, khoản thu khác đã tạm nộp của 04 quý không được
 thấp hơn 80%. số thuế, khoản thu khác phải nộp theo quyết toán năm của người
 nộp thuế tự kê khai;
 
 b) Trường hợp người nộp thuế nộp. thiếu so với số thuế, khoản thu khác
 phải tạm nộp 04 quý theo quy định tại điểm a khoản nảy thì phải nộp tiền chậm
 nộp tính trên số thuế, khoản thu khác nộp thiếu kể từ ngày tiếp theo liền kề của
-ngày cuốỗi cùng của thời hạn tạm nộp quý 04 đến ngày liền kể trước của ngày
+ngày cuối cùng của thời hạn tạm nộp quý 04 đến ngày liền kể trước của ngày
 số tiền còn thiêu được nộp vào ngân sách nhà nước, bao gồm trường hợp người
 nộp thuế kê khai bể sung:
 
@@ -2393,14 +2393,14 @@ tiền chậm nộp, tiền phạt là 02 năm kể từ ngày xảy ra sự ki�
 
 b) Đấi với trường hợp phải ngừng hoạt động do di đời cơ sở sản xuất, kinh
 
-doanh theo yêu cầu của cơ quan có thấm quyên làm ảnh hưởng, đến kết quả sản
+doanh theo yêu cầu của cơ quan có thẩm quyền làm ảnh hưởng, đến kết quả sản
 
 - xuất, kinh đoanh quy định tại điểm b khoản 7 Điều 14 Luật Quản lý thuế, thời
 
 gian gia hạn nộp thuế, khoản thu khác, tiền chậm nộp, tiền phạt là 01 năm kể
 
 từ ngày người nộp thuế phải ngừng hoạt động do đi đời cơ sở sản xuất, kinh
-doanh theo yêu câu của cơ quan có thấm quyên.
+doanh theo yêu câu của cơ quan có thẩm quyền.
 
 4. Gia hạn nộp thuế, khoản thu khác, tiền chậm nộp, tiền phạt trong trường
 hợp đặc biệt: .
@@ -2427,7 +2427,7 @@ a) Thời gian tính tiền chậm nộp được tính liên tục kể từ ng
 kể của ngày cuối cùng của thời hạn nộp thuế, khoản thu khác hoặc của thời hạn
 gia hạn nộp thuế, khoản thu khác hoặc thời hạn ghi trong thông báo, quyết. định
 ấn định thuế, quyết định xử lý của cơ quan quản lý thuê, quyết định hoặc văn
-bản của cơ quan nhà nước có. thấm quyên đến ngày liền kê trước ngày số tiền
+bản của cơ quan nhà nước có. thẩm quyền đến ngày liền kê trước ngày số tiền
 nợ thuế, nợ khoản thu khác, tiền thuế tăng thêm, khoản thu khác tăng thêm, tiền
 
 
@@ -2529,7 +2529,7 @@ Quản lý thuế.
 
 5. Người nộp thuế khai bỗ sung hồ sơ khai thuế làm giảm số tiền thuế,
 khoản thu khác phải nộp hoặc cơ quan quản lý thuê, cơ quan nhà nước, người
-có thấm quyền xác định giảm nghĩa vụ nộp ngân sách nhà nước của người nộp
+có thẩm quyền xác định giảm nghĩa vụ nộp ngân sách nhà nước của người nộp
 
 thuế thì người nộp thuê được điều chỉnh số tiền chậm nộp đã tính tương ứng
 với số tiền thuế, khoản thu khác chênh lệch giảm. :
@@ -2827,7 +2827,7 @@ tăng cho người nước ngoài; quy định trách nhiệm, quyền hạn c�
 tổ chức, cá nhân liên quan trong việc thực hiện hoàn thuế giá trị gia tăng cho
 người nước ngoài.
 
-ˆ_ Điều 30. Các trường hợp hoàn thuế trước hoặc kiểm tra trước hoàn thuế
+### Điều 30. Các trường hợp hoàn thuế trước hoặc kiểm tra trước hoàn thuế
 
 _1. Các trường hợp kiểm tra trước hoàn thuế thuộc thẩm quyền của cơ quan
 thuê thực hiện gôm:
@@ -2873,7 +2873,7 @@ nộp thuế có hồ sơ hoàn thuê gửi cơ quan hải quan lần đâu như
 diện được hoàn thuế theo quy định thì lần đề nghị hoàn thuế kế tiếp vẫn xác
 định là để nghị hoàn thuế lần đâu;
 
-b) Hồ sơ hoàn thuế của người nộp thuế trong thời hạn 02 năm kế từ thời
+b) Hồ sơ hoàn thuế của người nộp thuế trong thời hạn 02 năm kể từ thời
 điểm bị xử lý về hành vi trôn thuê hoặc hành vi buôn lậu, vận chuyên trái phép
 hàng hóa qua biên giới tính đến ngày nộp hô sơ hoàn thuê;
 
@@ -2984,7 +2984,7 @@ thuế thực hiện theo quy định của pháp luật về thuế, pháp lu�
 luật khác có liên quan;
 
 b) Các trường hợp miễn thuế, giảm thuế, không thu thuế, không chịu thuế
-đối với hàng hóa xuất khẩu, hàng hóa nhập khẩu thuộc thấm quyền của cơ quan
+đối với hàng hóa xuất khẩu, hàng hóa nhập khẩu thuộc thẩm quyền của cơ quan
 hải quan thực hiện theo quy định của pháp luật về thuế;
 
 c) Các trường hợp miễn thuế, giảm thuế theo quy định tại các Nghị quyết
@@ -3086,20 +3086,20 @@ a) Người nộp thuế được khoanh tiền thuế nợ theo quy định t�
 khoản 1 Điều 20 Luật Quản lý thuế khi đáp ứng tiêu chí sau:
 
 a.1) Đối với người nộp thuế bị hạn chế quyền khai thác, sử dụng về đất
-đai: có văn bản của cơ quan quản lý nhà nước có thấm quyền thể hiện các nội
+đai: có văn bản của cơ quan quản lý nhà nước có thẩm quyền thể hiện các nội
 dung về điện tích đất và giá đất có vướng mắc; tổng, diện tích đất trên yết
 định, hợp đồng giao đất, cho thuê đất; lý do bị hạn chế và thời điểm bắt đâu bị
 hạn chế để cơ quan thuế có căn cứ xác định số tiền thuế nợ được khoanh;
 
 a.2) Đối với người nộp thuế bị hạn chế quyền khai thác khoáng sản: có
-văn bản của cơ quan quản lý nhà nước có thấm quyên thể hiện số tiền cấp quyền
+văn bản của cơ quan quản lý nhà nước có thẩm quyền thể hiện số tiền cấp quyền
 khai thác khoáng sản, sô tiên cấp quyền. khai thác tài nguyên nước, số tiên sử
 dụng khu vực biển bị hạn chế trên thực tế quyền khai thác, sử dụng khoáng sản
 được cấp, được giao; lý do bị hạn chế và thời điểm bắt dầu bị hạn chế của khu
 vực bị hạn chế quyền khai thác, sử dụng để cơ quan thuế có căn cứ xác định số
 tiền thuế nợ được khoanh;
 
-b) Cơ quan quản lý nhà nước có thấm quyền quy định tại điểm a.1 và điểm
+b) Cơ quan quản lý nhà nước có thẩm quyền quy định tại điểm a.1 và điểm
 a.2 khoản này bao gồm: Bộ Nông nghiệp và Môi trường hoặc cơ quan chuyên
 môn thuộc Bộ Nông nghiệp và Môi trường thực hiện nhiệm vụ cấp. quyền khai
 thác khoáng sản; Ủy ban nhân dân các cấp hoặc cơ quan chuyên môn thuộc Ủy
@@ -3161,7 +3161,7 @@ chế quyền khai thác, sử dụng đất đai, khoáng sản do nguyên nhâ
 quan nhà nước có thẩm quyên ghi trên quyết định hoặc văn bản xác nhận của
 cơ quan nhà nước có thẩm quyền đến khi người nộp thuế được tiếp tục khai
 thác khoáng : sản, sử dụng đất đai theo văn bản thông báo của cơ quan nhà nước
-có thấm quyền.
+có thẩm quyền.
 
 4. Số tiền thuế nợ được khoanh:
 
@@ -3208,7 +3208,7 @@ khoản 1 Điêu 20 Luật Quản lý thuê nhưng Tòa án hủy quyết địn
 tuyên bô một người là đã chết, mắt tích hoặc mật năng lực hành vi dân sự;
 
 đ) Người nộp thuế đã được khoanh. tiền thuế nợ theo quy định tại khoản 1
-Điều 20 Luật Quản lý thuế nhưng số tiền thuế đã được cơ quản quản lý thuế
+Điều 20 Luật Quản lý thuế nhưng số tiền thuế đã được cơ quan quản lý thuế
 ban hành quyết định khoanh tiền thuế nợ đủ điều kiện để được xóa tiền thuế nợ
 theo quy định tại Điều 21 Luật Quản lý thuế;
 
@@ -3292,7 +3292,7 @@ Chỉ cục Hải quan khu vực, Chỉ cục trưởng Chỉ cục Điều tra 
 Chỉ cục trưởng Chỉ cục kiểm tra sau thông quan quyết định xóa nợ đối với
 người nộp thuế có tiền thuế nợ trên địa bàn, phạm vi quản lý hoặc khoản nợ
 phát sinh tại cơ quan quản lý thuế (không bao gồm các khoản tiền thuế nợ thuộc
-thấm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh quy định tại điểm a khoản
+thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh quy định tại điểm a khoản
 này) dưới 5.000.000.000 đồng;
 
 c) Cục trưởng Cục Thuế, Cục trưởng Cục Hải quan quyết định xóa nợ đối
@@ -3333,7 +3333,7 @@ số tiễn thuế nợ đã được xóa.
 
 7. Bộ trưởng Bộ Tài chính hướng dẫn trình tự, thủ tục, hồ sơ phục hồi tiền
 thuế nợ đã được xóa đối với trường hợp quy định tại khoản 3 Điều 17, khoản 2
-Điều 21 Luật Quán lý thuế.
+Điều 21 Luật Quản lý thuế.
 
 - Mục 6
 ÁN ĐỊNH THUÉ,
@@ -4064,7 +4064,7 @@ và các thủ tục hành chính thuê khác;
 b.2) Áp dụng hoàn thuế trước kiểm tra sau trên cơ sở quản lý rủi ro;
 
 b.3) Thực hiện hoàn thuế, miễn thuế, giảm thuế tự động đối với các trường
-hợp đáp ứng điêu kiện và có dữ liệu điện tử đúng, đủ;
+hợp đáp ứng điều kiện và có dữ liệu điện tử đúng, đủ;
 
 c) Ưu tiên về phương thức kiểm tra, giám sát, bao gồm:
 
@@ -4343,7 +4343,7 @@ hồ sơ thuế điện tử, chúng từ nộp ngân sách nhà nước điện
 sơ, chứng từ, văn bản, thông báo, quyết định hành chính thuế, kết quả giải quyết
 thủ tục hành chính thuế và các dịch vụ hỗ trợ người nộp thuế.
 
-. 8. Cơquan quản lý nhà nước có thấm quyền, tổ chức cung cấp địch vụ 1-VAN,
+. 8. Cơquan quản lý nhà nước có thẩm quyền, tổ chức cung cấp địch vụ 1-VAN,
 tổ chức khác có liên quan thực hiện giao dịch điện tử với cơ quan thuế trong
 việc tiếp nhận, cung cấp, trao đổi thông tin và giải quyết thủ tục hành chính cho
 người nộp thuế. l
@@ -4366,7 +4366,7 @@ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở đữ
 
 sở dữ liệu khác của các cơ quan, tổ chức quản lý, kết nối, chia sẻ cho Hệ thống
 thông tin quán bã thuế; thông tin do cơ quan quản lý thuế thu thập thông qua
-hợp tác quôc tế về thuế và thông tin dữ liệu từ các nguồn khác có liên quan đến
+hợp tác quốc tế về thuế và thông tin dữ liệu từ các nguồn khác có liên quan đến
 người nộp thuế.
 
 2. Việc quản lý, sao lưu và bảo vệ cơ sở đữ liệu quản lý thuế được thực
@@ -4468,7 +4468,7 @@ về tính đầy đủ, chính xác của thông tỉn, dữ liệu do mình cu
 lý thuế chịu trách nhiệm tổ chức kiếm soát, khai thác và sử dụng đữ liệu theo
 quy định. Công chức quản lý thuế khi thực hiện xử lý hồ sơ thuế, ban hành
 thông báo, quyết định hành chính thuế trên cơ sở dữ liệu, thông tin đã được
-kiểm soát theo quy ‹ định và theo đúng trình tự, thủ tục, thấm quyền thì được xác
+kiểm soát theo quy ‹ định và theo đúng trình tự, thủ tục, thẩm quyền thì được xác
 định trách nhiệm về việc thực hiện nhiệm vụ được giao theo quy định của pháp
 luật về quản lý thuế và pháp luật có liên quan; không phải chịu trách nhiệm đối
 với nội dung của thông tin, dữ liệu do cơ quan, tổ chức, cá nhân khác cung cấp
@@ -4568,7 +4568,7 @@ chịu trách nhiệm theo quy định của pháp luật.
 
 1. Việc kết nối, chia sẻ đữ liệu thông tin, đữ liệu với Hệ thống thông tin
 quản lý thuế phải bảo đảm được thực hiện kịp thời, đầy đủ, đúng mục đích quản
-lý thuế, đúng phạm vi và thấm quyền.
+lý thuế, đúng phạm vi và thẩm quyền.
 
 2. Việc cung cấp, chia sẻ, kết nối dữ liệu với cơ quan quản lý thuế nhằm
 phục vụ việc: xác định người nộp thuế; xác định nghĩa vụ thuế của người nộp
@@ -4676,7 +4676,7 @@ ngân sách nhà nước do cơ quan quản lý thuế phải thu, đã thu, mi�
 nợ, hoàn trả quy định tại điểm k khoản 1 Điều 38 Luật Quản lý thuế;
 
 c) Hướng dẫn, giải thích chính sách thuế đúng quy định, thống nhất, không
-đặt ra thủ tục, điêu kiện, nghĩa vụ ngoài quy định của pháp luật;
+đặt ra thủ tục, điều kiện, nghĩa vụ ngoài quy định của pháp luật;
 
 ___ 8) Quản lý, sử dụng và bảo mật thông tin người nộp thuế; chỉ được cung
 cấp thông tin trong phạm vi, đôi tượng và mục đích theo quy định của pháp luật;
@@ -4718,7 +4718,7 @@ hoặc chủ trì thực hiện điều ước quốc tế có trách nhiệm x�
 điều ước quốc tế trên _văn bản để nghị miễn thuế, giảm thuế, hoàn thuế của
 người nộp thuế theo mẫu do Bộ trưởng Bộ Tài chính hướng dẫn trước khi người
 nộp thuế nộp hồ sơ cho cơ quan thuế, trừ tường hợp điều ước quốc tế đã được
-công bố trên cơ sở dữ liệu quốc gia về điều ước quôc tế;
+công bố trên cơ sở dữ liệu quốc gia về điều ước quốc tế;
 
 c) Rà soát, sửa đổi, bễ sung văn bản quy phạm pháp luật thuộc lĩnh vực
 quản lý để đảm bảo việc trao đối thông tín với cơ quan thuế nước ngoài tuân
@@ -4867,7 +4867,7 @@ bộ quản lý để thực hiện chức năng quản lý thuế theo quy đ�
 
 Cơ quan quản lý thuế có trách nhiệm cung cắp thông tin người nệp thuế
 phục vụ công tác quản lý thuế theo quy định của pháp Ì luật về quản lý thuê hoặc
-khi có văn bản yêu cầu của cơ quan nhà nước có thấm quyền theo quy định
+khi có văn bản yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định
 của luật.
 
 Cơ quan quản lý thuế có trách nhiệm cung cấp, chia sẻ, kết nói đữ liệu
@@ -4900,7 +4900,7 @@ a) Đơn vị thuộc bộ, cơ quan ngang bổ, cơ quan chuyên môn thuộc �
 nhân đân các cấp có chức năng kiểm tra, giám sát xây dựng kế hoạch kiểm tra,
 
 
-giám sát hằng năm (tổng thể hoặc chuyên đề) trình cấp có thấm quyền quy định
+giám sát hằng năm (tổng thể hoặc chuyên đề) trình cấp có thẩm quyền quy định
 tại điểm a khoản 2 Điều nảy ban hành để tổ chức thực hiện;
 
 b) Việc xây dựng kế hoạch kiểm tra, giám sát căn cứ vào yêu cầu quản lý
@@ -4928,7 +4928,7 @@ chức thuộc phạm vi được phân cấp hoặc ủy quyền.
 
 3. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan:
 
-a) Cơ quan có thấm quyền kiểm tra, „Biám sát thực hiện việc kiểm tra, giám
+a) Cơ quan có thẩm quyền kiểm tra, „Biám sát thực hiện việc kiểm tra, giám
 sát theo đúng chức năng, nhiệm vụ, quyển hạn và quy định của pháp luật;
 
 b) Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp, cung
@@ -4960,8 +4960,8 @@ hạn chê;
 e2) Kiến nghị cơ quan có thẩm quyền nghiên cứu, hoàn thiện pháp luật
 về thuế, phí và lệ phí;
 
-d) Trường hợp phát hiện dấu hiệu vi phạm pháp luật vượt thấm quyền thì
-chuyên hồ sơ, thông tìn cho cơ quan có thấm quyền xem xét, xử lý theo quy
+d) Trường hợp phát hiện dấu hiệu vi phạm pháp luật vượt thẩm quyền thì
+chuyên hồ sơ, thông tìn cho cơ quan có thẩm quyền xem xét, xử lý theo quy
 định của pháp luật;
 
 đ) Người đứng đầu cơ quan tiễn hành kiểm tra, giám sát có trách nhiệm
@@ -4992,7 +4992,7 @@ và thu các khoản phí, lệ phí trái quy định pháp luật (nếu có);
 c) Việc xử lý vi phạm thực hiện theo quy định của pháp luật về hoạt động
 kiểm tra chuyên ngành. Trường hợp qua | kiểm tra, giám sát phát hiện hạn chê,
 bất cập trong việc thực hiện pháp luật về phí, lệ phí thì người có thẩm quyền
-kiểm tra, giám sát kiến nghị cơ quan có thấm quyền nghiên cứu, hoàn thiện
+kiểm tra, giám sát kiến nghị cơ quan có thẩm quyền nghiên cứu, hoàn thiện
 pháp luật về phí, lệ phí.
 
 6. Quy trình kiểm tra, giám sát:
@@ -5059,7 +5059,7 @@ c) Thông tin khác liên quan đến hàng hóa, dịch vụ trên nên tảng 
 mại điện tử thuộc phạm vi quản lý theo yêu cầu của cơ quan quản lý thuế.
 
 Đối với chủ quản nền tảng thương mại điện tử đã thực hiện khẩu trừ, khai
-thay và nộp thay sô thuế đã khấu trừ của hộ kinh doanh, cá nhân kinh doanh
+thay và nộp thay số thuế đã khấu trừ của hộ kinh doanh, cá nhân kinh doanh
 (cư trú và không cư trú), nhà cung cấp nước ngoài theo quy định thì không phải
 thực hiện cung cấp thông tin của hộ kinh doanh, cá nhân kinh doanh, nhà cung
 cấp nước ngoài theo quy dịnh tại khoản này.
@@ -5368,11 +5368,11 @@ rửa tiền, Luật Doanh nghiệp và các văn bản hướng dẫn thi hành
 b) Chỉ nhánh, văn phòng đại diện có trách nhiệm lưu giữ hồ sơ, tài liệu
 liên quan đến thông tin quy định tại điểm a khoản này trong thời gian hoạt động,
 bảo đâm cung cấp kịp thời theo yêu cầu của cơ quan thuế; thời hạn lưu trữ tối
-thiểu là 05 năm kế từ khi kết thúc năm dương lịch hoặc kỳ báo cáo có liên quan;
+thiểu là 05 năm kể từ khi kết thúc năm dương lịch hoặc kỳ báo cáo có liên quan;
 
 e) Khi chỉ nhánh, văn phòng đại diện chấm đứt hoạt động tại Việt Nam,
 Cơ quan thuế có trách nhiệm lưu trữ thông tin do chỉ nhánh, văn phòng ‹ đại diện
-cung cấp theo quy định tại khoản này trong thời hạn tối thiểu 05 năm kế từ năm
+cung cấp theo quy định tại khoản này trong thời hạn tối thiểu 05 năm kể từ năm
 dương lịch chấm dứt hoạt động.
 
 5. Người đại điện theo pháp luật của người nộp thuế có trách nhiệm tự thực
@@ -5439,12 +5439,12 @@ của pháp luật và điều ước quốc tế về thuế mà Việt Nam là
 tin này chỉ được thu thập, xử lý và sử đụng cho mục đích quản lý thuế theo quy
 
 
-định; chỉ được cung cấp cho cơ quan thẩm quyền, tổ chúc, ‹ cá nhân có liên quan
+định; chỉ được cung cấp cho cơ quan thẩm quyền, tổ chức, ‹ cá nhân có liên quan
 đến việc thực hiện nhiệm vụ quản lý thuế;
 
 b) Việc sử dụng hoặc cung cấp thông tin quy định tại điểm a khoản này
-cho mục đích khác chỉ được thực hiện khi được điều ước quôc tê về thuê có
-liên quan cho phép và đáp ứng đây đủ các điêu kiện theo điều ước đó;
+cho mục đích khác chỉ được thực hiện khi được điều ước quốc tế về thuê có
+liên quan cho phép và đáp ứng đây đủ các điều kiện theo điều ước đó;
 
 c) Cơ quan thuế, cơ quan nhà nước có trách nhiệm ban hành và tổ chức
 thực hiện quy trình bảo đảm bảo mật thông tin trao đổi phù hợp với tiêu chuẩn
@@ -5461,7 +5461,7 @@ pháp luật. Nội dung cung cấp, giải thích không bao gồm thông tín 
 tồn tại của yêu câu trao đổi thông tỉn hoặc thư để nghị cung cấp thông tin thuộc
 phạm vi bảo mật trong trao đôi thông tin với nhà chức trách có thẩm quyền nước
 ngoài. Cơ quan thuế có trách nhiệm bảo đảm việc cung cấp thông tin tuân thủ
-quy định về bảo mật theo pháp luật trong nước và điều ước quôc tế có liên quan;
+quy định về bảo mật theo pháp luật trong nước và điều ước quốc tế có liên quan;
 
 d.2) Việc thu thập, xác minh thông tin phải bảo đảm không làm ảnh hưởng
 đến mục đích xử lý yêu cầu của nhà chức trách có thầm quyên nước ngoài theo
@@ -5608,7 +5608,7 @@ bằng thư bảo đảm qua đường bưu chính hoặc gửi trực tiếp;
 cưỡng chế bằng biện pháp dừng làm thủ tục hải quan đối với hàng hóa xuất
 khẩu, nhập khẩu theo quy định tại Điều 68 Nghị định này;
 
-d) Quyết định cưỡng chế chấm dứt hiệu lực kế từ khi:
+d) Quyết định cưỡng chế chấm dứt hiệu lực kể từ khi:
 
 d.1) Người nộp thuế thuộc trường hợp chấm đứt hiệu lực của quyết định
 cưỡng chê theo quy định tại khoản 2 Điều 49 Luật Quản lý thuê;
@@ -5636,7 +5636,7 @@ hợp để bảo đảm thu kịp thời, đầy đủ tiền thuế nợ vào 
 
 6. Thâm quyền quyết định cưỡng chế thi hành quyết định hành chính về
 quản lý thuê:
-a) Người có thấm quyên ' và phạm vi thấm quyền quyết định cưỡng chế thủ
+a) Người có thẩm quyền ' và phạm vi thẩm quyền quyết định cưỡng chế thủ
 
 hành quyết định hành chính về quản lý thuế thực hiện theo quy định tại khoản 1
 và khoản 2 Điều 50 Luật Quản lý thuế;
@@ -5650,7 +5650,7 @@ ngành, cơ quan được giao quản lý thu có trách nhiệm xác định s�
 tiễn chậm nộp, ban hành thông báo đôn đốc nộp và lập hồ sơ kiến nghị cơ quan
 nhà nước có thắm quyền thực hiện các biện pháp cưỡng chế theo quy định tại
 
-khoản 7 Điều 39 Luật Quán lý thuế. Cơ quan nhà nước có thẩm quyên có trách
+khoản 7 Điều 39 Luật Quản lý thuế. Cơ quan nhà nước có thẩm quyên có trách
 
 nhiệm xem xét, áp dụng các biện pháp cưỡng chế thuộc thắm quyên theo quy
 định của pháp luật về quản lý thuế; trường hợp không áp đụng thì phải trả lời
@@ -5803,7 +5803,7 @@ a) Cơ quan quản lý thuế tổ chức xác minh thông tin về các khoản
 hoặc thu nhập của cá nhân bị cưỡng chế và cơ quan, tổ chức quản lý tiền lương
 hoặc thu nhập của người nộp thuế bị cưỡng chế theo cơ sở dữ liệu của cơ quan
 quản lý thuế, dữ liệu do cơ quan bảo hiểm cung cấp. Trường hợp cơ sở dữ liệu
-tại cơ quan quản lý thuế không đầy đủ thì người có thấm quyên ban hành ¡ quyết
+tại cơ quan quản lý thuế không đầy đủ thì người có thẩm quyền ban hành ¡ quyết
 định cưỡng chế gửi văn bản yêu câu cá nhân bị cưỡng chế và cơ quan, tổ chức
 quản lý tiền lương hoặc thu nhập của cá nhân bị cưỡng chế cung cấp đầy đủ các
 thông tin về các khoản tiền lương hoặc thu nhập của cá nhân bị cưỡng chế;
@@ -6392,7 +6392,7 @@ tác xã, tô hợp tác, hộ kinh doanh, chỉ nhánh, văn phòng đại di�
 doanh gửi cơ quan nhà nước có thẩm quyền để khôi phục tỉnh trạng pháp lý:
 
 a) Văn bản đề nghị khôi phục tình trạng pháp lý phải có một số nội dung
-chủ yếu sau: tên cơ quan quản lý thuế đề nghị, cơ quan nhà nước có thấm quyên
+chủ yếu sau: tên cơ quan quản lý thuế đề nghị, cơ quan nhà nước có thẩm quyền
 nhận văn bản; thông tin của người nộp thuế bị cưỡng chế, gồm: tên, mã số thuế,
 địa chỉ đăng ký kinh doanh; lý đo khôi phục tình trạng pháp lý;
 

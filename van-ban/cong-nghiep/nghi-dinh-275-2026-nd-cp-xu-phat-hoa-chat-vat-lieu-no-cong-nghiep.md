@@ -2306,7 +2306,7 @@ b) Phòng khảo nghiệm không được quản lý, vận hành theo tiêu chu
 I1SO 17025:2005 hoặc tiêu chuẩn ISO 15189:2012 hoặc phiên bản cập nhật;
 
 e) Hoạt động dịch vụ thử nghiệm mà không đăng ký hoạt động thử nghiệm
-theo quy định của pháp luật về điêu kiện kinh doanh địch vụ đánh giá sự phù hợp.
+theo quy định của pháp luật về điều kiện kinh doanh địch vụ đánh giá sự phù hợp.
 
 3. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các
 hành vi vi phạm sau:

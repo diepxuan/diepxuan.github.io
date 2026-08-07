@@ -2256,7 +2256,7 @@ của công trình trên đất.
 căn cứ vào tỷ lệ góp vốn trên tổng, giá trị hợp đồng nhân () với giá tính lệ phl
 trước bạ công trình xây dựng do Ủy ban nhân dân cấp tỉnh quy định. Trường
 hợp Ủy ban nhân dân cấp tỉnh chưa có quy định về đơn giá thì áp dụng theo
-suất vôn đâu tư xây dựng công trình do Bộ Xây dựng công bô, đang áp đụng
+suất vôn đầu tư xây dựng công trình do Bộ Xây dựng công bô, đang áp đụng
 
 tại thời điểm nộp hồ sơ khai thuế với cơ quan thuế. |
 

@@ -67,7 +67,7 @@ lastedit: 2026-06-09
 Người ký: CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
 thongtinchinhphu(ochinhphu.vn
 Cơ quan: VĂN PHÒNG CHÍNH PHỦ mm
-* Ỉ Thời øian ký: 23.02.2026 15:39:22 +07:00 /
+* Ỉ Thời gian ký: 23.02.2026 15:39:22 +07:00 /
 
 CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
@@ -95,7 +95,7 @@ Theo đề nghị của Bộ trưởng Bộ Công an;
 
 Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các
 nghị định liên quan đến quy định điều kiện về an ninh, trật tự đối với một số
-ngành, nghề đâu tư kinh doanh có điều kiện; quản lý và sử dụng con dấu;
+ngành, nghề đầu tư kinh doanh có điều kiện; quản lý và sử dụng con dấu;
 quản lý, sử dụng pháo; quy định chi tiết một số điều và biện pháp thị hành
 Luật Cư trú, Luật Căn cước
 
@@ -605,7 +605,7 @@ giấy tờ có trong hồ sơ và thực hiện theo các quy định sau:
 tại bộ phận tiếp nhận hồ sơ của cơ quan đăng ký mẫu con dấu hoặc nộp qua
 dịch vụ bưu chính công ích
 
-Hồ SƠ đầy đủ, cán bộ tiếp nhận hồ sơ phải ghỉ giấy biên nhận hồ sơ, ghi
+hồ sơ đầy đủ, cán bộ tiếp nhận hồ sơ phải ghỉ giấy biên nhận hồ sơ, ghi
 Tð ngày tiếp nhận hồ sơ, ngày trả kết quả và giao trực tiếp cho người được cơ
 quan, tổ chức, chức đanh nhà nước cử đến liên hệ nộp hồ sơ hoặc gửi qua bưu
 chính công ích;
@@ -745,7 +745,7 @@ nước (Mẫu sô 03 tại Phụ lục số II ban hành kèm theo Nghị đị
 
 b) Sửa đổi, bổ sung khoản 8, 9 Điều 13 như sau:
 
-"§. Đối với doanh nghiệp, chi nhánh, văn phòng đại diện, địa điểm kinh
+"5. Đối với doanh nghiệp, chi nhánh, văn phòng đại diện, địa điểm kinh
 doanh của doanh nghiệp: Giấy phép thành lập và hoạt động hoặc . plấy đăng ký
 hoạt động hoặc giấy phép hoạt động của cơ quan có thẩm quyền cấp cho tổ
 chức theo quy định của pháp luật
@@ -844,7 +844,7 @@ an cấp xã nơi xảy ra mất con dấu, giấy chứng nhận đăng ký m�
 hoạt động, kết thúc nhiệm vụ hoặc bị thu hồi giấy phép thành lập và hoạt
 động, giây đăng ký hoạt động, giấy phép hoạt động hoặc bị tạm đình chỉ, đình
 chỉ hoạt động hoặc con dấu bị mất được tìm thấy sau khi đã bị hủy giá trị sử
-dụng con dấu quy định tại điểm b, c, d, đ khoản I Điều 18 Nghị định này phải
+dụng con dấu quy định tại điểm b, c, d, đ khoản 1 Điều 18 Nghị định này phải
 nộp lại con dấu và giấy chứng nhận đăng ký mẫu con dấu cho cơ :' quan đã cấp
 kèm theo Văn bản đề nghị đăng ký mẫu con dấu của cơ quan, tổ chức, chức
 danh nhà nước (Mẫu số 03 tại Phụ lục số II ban hành kèm theo Nghị định
@@ -1164,7 +1164,7 @@ làm việc an toàn;
 e) Yêu cầu về kho chứa, phương tiện, thiết bị bảo đảm an toàn, phòng
 cháy, chữa cháy, chống sét, kiểm soát tĩnh điện kho bảo quản;
 
-ø) Thành phần, tính chất, phân loại và chất lượng pháo hoa, pháo hoa nổ,
+g) Thành phần, tính chất, phân loại và chất lượng pháo hoa, pháo hoa nổ,
 thuốc pháo; các quy định về thử nghiệm, kiểm tra và biện pháp bảo đảm chất
 lượng pháo hoa, pháo hoa nổ; yêu cầu về bao bì, ghi nhãn pháo hoa, pháo hoa
 nỗ, thuốc pháo;
@@ -1421,7 +1421,7 @@ quốc gia về dân cư, cơ quan đăng ký cư trú tiếp nhận thông tin 
 dữ liệu từ cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu
 khác do cơ quan, tổ chức quản lý, cơ quan đăng ký cư trú có trách nhiệm kiểm
 tra, xác minh, thực hiện xóa đăng ký tạm trú đổi với công dân và cập nhật
-việc xóa đăng ký tạm trú vào Cơ s sở dữ liệu về cư trú, Cơ sở dữ liệu quôc gia
+việc xóa đăng ký tạm trú vào Cơ s sở dữ liệu về cư trú, Cơ sở dữ liệu quốc gia
 về dân cư
 
 3. Trong thời hạn 07 ngày, kể từ ngày hộ gia đình có người thuộc diện
@@ -1434,7 +1434,7 @@ a) Hồ sơ xóa đăng ký tạm trú gồm: Tờ khai thay đổi thông tin c
 tờ, tài liệu chứng minh thuộc một trong các trường hợp xóa đăng ký tạm trú
 
 b) Người thực hiện thủ tục nộp 01 hồ sơ trực tuyến qua Cổng dịch vụ
-công quôc gia hoặc Ứng dụng định danh quốc gia (VNeID) đến cơ quan đăng
+công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) đến cơ quan đăng
 ký cư trú
 
 4. Trường hợp người bị đề nghị xóa đăng ký tạm trú có thông tin trong
@@ -1448,7 +1448,7 @@ nhật việc xóa đăng ký tạm trú vào Cơ sở dữ liệu về cư trú
 gia về dân cư
 
 6. Trường hợp thuộc diện xóa đăng ký tạm trú theo quy định tại điểm c,
-e, ø, h khoản 1 Điều 29 Luật Cư trú mà hộ gia đình chỉ có 01 người hoặc
+e, g, h khoản 1 Điều 29 Luật Cư trú mà hộ gia đình chỉ có 01 người hoặc
 người thuộc diện xóa đăng ký tạm trú hoặc đại diện hộ gia đình hoặc người
 đại diện hợp pháp không thực hiện thủ tục xóa đăng ký tạm trú thì cơ quan
 đăng ký cư trú có trách nhiệm kiểm tra, xác minh, lập biên bản về việc công
@@ -1572,7 +1572,7 @@ chôi điều chỉnh thông tin thì phải trả lời, nêu rõ lý do."
 5. Sửa đổi, bổ sung khoản 4, khoản 5 Điều 9 như sau:
 
 "4. Trưởng Công. an cấp xã có thẩm quyền khai thác thông tin trong Cơ
-sở dữ liệu quôc gia về dân cư để cung cấp cho cơ quan nhà nước, tổ chức
+sở dữ liệu quốc gia về dân cư để cung cấp cho cơ quan nhà nước, tổ chức
 chính trị, tổ chức chính trị - xã hội ở cấp xã, tổ chức khác có trụ sở chính trên
 địa bàn quản lý và cá nhân cư trú trên địa bàn quản lý quy định tại khoản 3,
 khoản 4 Điều 8 Nghị định này-khi có yêu. cầu khai thác, cung. cấp thông tin
@@ -1640,7 +1640,7 @@ quan quản lý căn cước thực hiện bằng Phiếu thu thập thông tin 
 qua cơ quan đại diện Việt Nam ở nước ngoài; cơ quan đại diện Việt Nam ở
 nước ngoài gửi Phiếu thu thập thông tin dân cư của công dân có yêu cầu thu
 thập, cập nhật thông tin cho cơ quan quản lý căn cước của Bộ Công an đề cập
-nhật thông tin vào Cơ sở dữ liệu quôc gia vê dân cư;"
+nhật thông tin vào Cơ sở dữ liệu quốc gia vê dân cư;"
 
 c) Sửa đổi, bổ sung khoản 9 Điều l1 như sau:
 
@@ -1711,7 +1711,7 @@ hợp người dưới 6 tuôi đề nghị cấp, cập đổi, cấp lại th�
 nghị cấp lại thẻ căn cước khi bị mắt thẻ căn cước hoặc thẻ căn cước bị hư
 hỏng không sử dụng được hoặc cấp đổi thẻ căn cước do có thay đổi về địa
 giới hành chính thông qua Cổng dịch vụ công quốc gia, Ứng dụng định danh
-quôc gia (VNeID) thực hiện như sau:
+quốc gia (VNeID) thực hiện như sau:
 
 a) Công dân hoặc người đại diện hợp pháp của người dưới 6 tuổi lựa
 chọn thông tin cần tích hợp gửi kèm hồ sơ đề nghị cấp, cấp đổi, cấp lại thẻ
@@ -2042,9 +2042,9 @@ thẩm định hồ sơ của cơ sở kinh doanh:.................... .- 1
 Số định danh của cơ sở kinh doanh (nếu Ö2 1 -‹-‹Ả
 
 Họ và tên người chịu trách nhiệm về an ninh, trật tự của cơ sở kinh doanh
-(ông, bà): ¬. Quốc tí tịch:.......... Ngày, tháng, năm sinh: ................
+(ông, bà): .... Quốc tí tịch:.......... Ngày, tháng, năm sinh: ................
 
-cấp ngày...... tháng....... năm ........... Cơ quan cấp: ¬
+cấp ngày...... tháng....... năm ........... Cơ quan cấp: ________
 Nơi thường trú: ................. LH nn HH ST TT nh nh cay
 Nơi ở hiện tại:.............. xỈiiiáiiiiiiẢ
 
@@ -2103,8 +2103,8 @@ Do cơ quan:......................... cấp ngày......... tháng năm
 Thời hạn hoạt động của cơ sở kinh doanh (nếu có): ......................
 Đề nghị................. Km... cấp ..................... _(mới/
 đôi/lại) Giấy chứng nhận đủ điều kiện về an ninh, trật tự thuộc thẩm quyền của
-¬— (Bộ Công an/Công an cấp tỉnh/Công an cấp xã)
-Ngành, nghề đầu tư kinh doanh:................ ¬ ;
+…… (Bộ Công an/Công an cấp tỉnh/Công an cấp xã)
+Ngành, nghề đầu tư kinh doanh:................ ________ ;
 Lý do đề nghị cấp: ........................ 2
 Người đứng tên trong Giấy chứng nhận đủ điều kiện về an ninh, trật tự của
 cơ sở kinh doanh (ông/Bà):..................--.c-  QQnHS ST ST TH ng ng ngay ;
@@ -2254,7 +2254,7 @@ Tên cơ quan, tÔ ChỨC: .......................... QC ng ng HH Hs HH nh ng va
 28911201775 —......  . .ẽẼẽ---a. h
 Số định danh của cơ quan, tô chỨC: ..........................cc.cQcncccì cà. h
 
-Số điện thoại: .......-......s NƯ©DSife/địa chỉ thư điện tỬ:.....................
+Số điện thoại: .......-......s NƯỚC /địa chỉ thư điện tỬ:.....................
 2. Người đứng đầu cơ quan, tổ chức
 
 Ngày, tháng, năm sinh:.................... ; Giới tính:............................. h
@@ -2280,7 +2280,7 @@ danh : -£
 (rực tiếp
 5. Nội dung đề nghị thực hiện thủ tục đăng ký mẫu con dấu
 
-¬— ¬
+________ ________
 D2  .. . dd
 Các tài liệu trong hồ sơ gửi kèm theo
 
@@ -2368,7 +2368,7 @@ thuốc pháo hoa
 Tổ chức, doanh nghiỆp:........................2.-- 222 S2c SE 7111172211111
 Địa chỉ:
 
-Đề nghị cấp giấy phép vận chuyển: ®
+Đề nghị cấp giấy phép vận chuyển: ☐
 Chủng loại, số lượng: ............................. cuc H110 2e eescay
 
 Người điều khiển phương tIỆn:.................. - Sàn 001212121 Hà re,
@@ -2424,12 +2424,12 @@ II. NỘI DUNG ĐẺ NGHỊ ỦY BAN NHÂN DÂN ......... XÁC NHẬN:
 , ngày... thẳng... năm
 Người đề nghị xác nhận
 (Ký và ghi rõ họ tên)
-XÁC NHẬN CỦA®);
+XÁC NHẬN CỦA ☐);
 
 —__—_____—_____..........ÔÔÔÔôtnr
 
 1, Phương tiện")...................... uc soccc.e. . thường xuyên đậu, đỗ của
-phương tiện tại địa chỉ ®;
+phương tiện tại địa chỉ ☐;
 
 2. Phương tiện É................. Ặ. vn H HH TH nà
 đích để ở.
@@ -2451,7 +2451,7 @@ Chú thích:
 tử, những thông tin của công đân đã có trong Cơ sở dữ liện quốc gia về dân cư sẽ được tự động điền vào
 biểu mẫu Tờ khai. Người kê khai không phải ký vào biểu mẫu điện tử
 Mẫu số 02
-UBND®....... CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+UBND ☐ ……… CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 VỀ se sy Độc lập - Tự do - Hạnh phúc
 
 TỜ KHAI
@@ -2463,7 +2463,7 @@ I. THÔNG TIN NGƯỜI ĐÈ NGHỊ
 1. Họ, chữ đệm và tên: ...................... HH HT TT nh na
 2. Ngày, tháng, năm sinh:.../.../......... óc cà Qnn ST SH n ng ng nhu key
 3. Số định danh cá nhân: ........................ .L ST ST SH nnEnnknn nran
-4. Nơi cư trú:...................... ¬
+4. Nơi cư trú:...................... ________
 II THÔNG TIN VẺ CHỖ Ở HỢP PHÁP
 
 1. Địa chỉ chỗ ở hợp pháp: ...................... LL LQQQ TT TS 1S SH HT ng
@@ -2474,12 +2474,12 @@ II. NỘI DUNG ĐÈ NGHỊ ỦY BAN NHÂN DÂN ....... XÁC NHẬN:
 
 2. Diện tích nhà ở để đăng ký thường trú khi cho thuê, mượn, ở nhờ:
 
-Tổng số người thuê, mượn, ở nhờ: ............ ¬
+Tổng số người thuê, mượn, ở nhờ: ............ ________
 Tổng số diện tích chỗ ở hợp pháp thuê, mượn, ở nhờ: ................... nen
 HNOÀY ...... tháng ... năm..
 
 Người đề nghị
-XÁC NHẬN CỦA ỦY BAN NHÂN DÂN ®
+XÁC NHẬN CỦA ỦY BAN NHÂN DÂN ☐
 
 la. ôÔôÔôÔôÔ
 
@@ -2628,7 +2628,7 @@ bảo hiểm thất 4. Thông tin khác có liên quan; thông tin khi có
 nghiệp sự thay đổi, điều chỉnh, bế sung
 Ancin vÀ 1. Mã đơn vị sử dụng lao động
 Thông tin về 2. Thông tin quá trình đóng bảo hiểm xã hội,
-A Tà: ¬hz đóng bảo hiểm xã bảo hiểm y tế, bảo hiểm thất nghiệ
+A. Tên: .... đóng bảo hiểm xã bảo hiểm y tế, bảo hiểm thất nghiệ
 10 Bộ Tài chính, hội, bảo hiểm y ảo hiêm y ảo hiểm ghiệp
 Bộ Công an 3. Thông tin chế độ được hưởng
 tế, bảo hiểm thất
@@ -2787,7 +2787,7 @@ SP 4. Thông tin người đi kèm - "
 5. Thông tin khác liên quan đến xuất/nhập cảnh
 1. Thông tin chi tiết về nhà ở của công dân Việt
 Thông tin về nhà Nam, người gốc Việt Nam chưa xác định được
-21 Bộ Xây dựn § uốc tịch: loại hình, diện tích, sơ đồ, quyền sở hữu
+21. Bộ Xây dựng (quốc tịch: loại hình, diện tích, sơ đồ, quyền sở hữu
 y dựng ở q quy:
 2. Thông tin khác có liên quan; thông tin khi có
 sự thay đổi, điều chỉnh, bế sung
@@ -2831,7 +2831,7 @@ karaoke
 Du lịch hóa vũ trường
 3. Thông tin khác có liên quan; thông tin khi có
 sự thay đổi, điều chỉnh, bổ sung
-" F ` ¬ 1. Thông tin Quyết định về việc công nhận hạng
+"…… 1. Thông tin Quyết định về việc công nhận hạng
 20 Bộ Văn hóa, Thể thao và Thông tin về du cơ sở lưu trú đu lịch
 Du lịch lịch 2. Thông tin khác có liên quan; thông tin khi có
 sự thay đổi, điều chỉnh, bổ sung
@@ -2935,7 +2935,7 @@ Bộ Dân tộc và Thông tin về tổ 2. Thông tin Quyết định về vi�
 3. Thông tin khác có liên quan; thông tin khi có
 sự thay đổi, điều chỉnh, bổ sung
 1. Thông tin Giấy phép thành lập văn phòng đại
-"TC ¬= Thông tin về việc | điện nước ngoài/Quyết định về việc sửa đổi, bổ
+"…… Thông tin về việc đi nước ngoài/Quyết định về việc sửa đổi, bổ
 4i | Ngân hàng Nhà nước | Lí Thép hoạt sung giấy phép
 Việt Nam động 2. Thông tin tài khoản doanh nghiệp
 3. Thông tin khác có liên quan; thông tin khi có
@@ -3162,7 +3162,7 @@ nhận là hòa giải | 3. Thông tin về nội dung vụ việc được hòa
 viên thương mại
 vụ việc
 1. Số chứng chỉ hành nghệ
-¬-. . 2. Ngày cấp, CƠ quan cập, cấp lại chứng chỉ
+…… 2. Ngày cấp, CƠ quan cập, cấp lại chứng chỉ
 19 Bộ Tư pháp ch hệ, h nghệ 2 3. Số quyết định cấp, cấp lại chứng chỉ
 Quản tài viên 4. Thông tin về việc thu hồi, tạm đình chỉ hoặc
 chấm dứt hiệu lực chứng chỉ: Quyết định thu hồi
@@ -3170,7 +3170,7 @@ hoặc đình chỉ; lý do thu hôi, tạm đình chỉ (nếu có)
 1. Thông tin về thẻ cộng tác viên trợ giúp pháp
 lý: Số thẻ cộng tác viên; ngày cấp, cơ quan cập,
 nội dung thông tin thẻ; thông tin việc cấp đổi/cấp
-¬ lại thẻ cộng tác viên trợ giúp pháp lý; trạng thái
+…… lại thẻ cộng tác viên trợ giúp pháp lý; trạng thái
 2 A . Thông tin S96 hoạt động; thông tín về lên thụ hồi, đình chỉ
 0 Bộ Tư pháp tác viên trợ giúp hoạt độ
 pháp lý oạt động (nếu có) ‹ :
@@ -3225,7 +3225,7 @@ có công 3. Thông tin nội dụng quyết địn ởng phụ cấp,
 trợ cập
 Thông tỉn hưởng 1. Sô quyết định, thời gian cấp, nơi cấp quyết
 27 Bộ Nội vụ chính sách định phụ cấp, trợ cáp h
-¬ ¬. 2. Thông tín nội dung quyết định hưởng chính
+________ 2. Thông tín nội dung quyết định hưởng chính
 người có công
 sách người có công
 1. Thông tin mẫu sinh phẩm: Mã số mẫu, thời |
@@ -3358,7 +3358,7 @@ Thông tin giây 1. Số, thời gian cấp, nơi cấp
 ¬¬". chứng nhận 2. Thông tin về giấy chứng nhận đăng ký phương
 3 Bộ Công an đăng ký phương | tiện
 tiện
-¬-. Thông tin Giá 1. Số, ngày cấp, nơi cấp
+…… 1. Số, ngày cấp, nơi cấp
 53 Bộ Công an phép đi xe y 2. Thông tin Kr_ phép lái xe
 Thông tin giấy 1. Sô, thời gian cấp, nơi cấp
 chứng nhận đủ 2. Thông tin về giấy chứng nhận đủ điều kiện về
@@ -3408,7 +3408,7 @@ Thông tin 1. Thông tin về mã số thuế
 62 Bộ Tài chính (người phụ 2. Thông tin khác về người phụ thuộc
 thuộc)
 Thông tin quyết | I. Số quyết định, thời gian cấp, nơi cấp quyết
-A "PẠt ¬kứ định nghỉ việc định
+A ………… định nghỉ việc định
 63 Bộ Tài chính hưởng chế độ 2. Nội dung thông tin quyết định nghỉ việc hưởng
 hưu trí chế độ hưu trí
 Thông tin quyết | 1.Số quyết định, thời gian, cơ quan ra quyết định
@@ -3485,7 +3485,7 @@ Thông tin đôi 1. Nội dung thông tin đối tượng hưởng trợ cấp x
 78 Bộ Y tế Thông tin hồ trợ 2. Quan hệ với đối tượng của người giám hộ
 người cao tuôi  Í 3, Thông tin hỗ trợ khác liên quan người cao tuổi
 1. Nội dung thông tin giấy xác nhận khuyết tật
-¬ Thông tin người 2. Nhu câu hỗ trợ của người khuyết tật
+…… 2. Nhu cầu hỗ trợ của người khuyết tật
 79 Bộ Y tê khuyết tật 3. Thông tin về người giám hộ của à người khuyết tật
 4. Thông tín loại phương tiện cần trợ giúp
 Thông tin đối hội CC tin về quyết định vào cơ sở trợ giúp xã
@@ -3522,8 +3522,8 @@ Thông tin số 1. Thông tin lịch sử khám chữa bệnh
 86 Bộ Y tế khám sức khỏe | 2. Kết quả xét nghiệm
 điện tử 3. Thông tin khác
 1. Thông tin về nước đến học tập
-¬ Thông tin du 2. Thông tin cư trú tại nước ngoài
-§7 Bộ Ngoại giao học sinh 3. Thông tin về việc học tập tại nước ngoài
+…… 2. Thông tin cư trú tại nước ngoài
+7. Bộ Ngoại giao học sinh 3. Thông tin về việc học tập tại nước ngoài
 Thông tin người | 1. Thông tin về nước đến lao động
 88 Bộ Ngoại giao Việt Nam lao 2. Thông tin cư trú tại nước ngoài
 Ỷ động ở nước 3. Thông tin về việc lao động tại nước ngoài

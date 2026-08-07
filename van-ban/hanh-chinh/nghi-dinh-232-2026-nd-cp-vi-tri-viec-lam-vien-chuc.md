@@ -64,10 +64,6 @@ Theo đề nghị của Bộ trưởng Bộ Nội vụ;
 
 Chính phủ ban hành Nghị định quy định về vị trí việc làm viên chức.
 
-© Cơ quan phát hành: VĂN PHÒNG CHÍNH PHỦ
-
-Độc lập - Tự do - Hạnh phúc - Tự do - Hạnh phúc
-
 ## Chương I
 
 NHỮNG QUY ĐỊNH CHUNG
@@ -355,14 +351,14 @@ d) Khung năng lực của vị trí việc làm (tương ứng với từng b�
 e) Phạm vi, quyền hạn;
 
 g) Yêu cầu về trình độ, kinh nghiệm, phẩm chất, bao gồm tiêu chuẩn
-chuyên môn, nghê nghiệp (nêu có), điêu kiện hành nghề (nêu có).
+chuyên môn, nghề nghiệp (nếu có), điều kiện hành nghề (nếu có).
 
 2. Đối với vị trí việc làm quản lý, bản mô tả công việc và khung năng lực
 vị trí việc làm phải xác định nội dung công việc quản lý, sản phâm đâu ra của
 công việc quản lý và năng lực quản lý.
 
 3. Trường hợp pháp luật chuyên ngành có quy định về chuẩn nghề nghiệp,
-tiêu chuân chức danh, điêu kiện hành nghề thì phải tích hợp các nội dung này
+tiêu chuẩn chức danh, điều kiện hành nghề thì phải tích hợp các nội dung này
 vào bản mô tả công việc và khung năng lực của vị trí việc làm.
 
 4. Đơn vị sự nghiệp công lập cụ thể hóa nội dung công việc theo lĩnh vực
@@ -812,7 +808,7 @@ Nơi nhận: TM. CHÍNH PHÚ
 - Cơ quan trung ương của các tổ chức chính trị - xã hội;
 - VPCP: BTCN, các PCN, Trợ lý TTg,
 các Vụ, Cục, đơn vị trực thuộc, Công báo;
-- Lưu: VT, TCCV (2). 4A„
+- Lưu: VT, TCCV (2). 4A"
 
 lạm Thị Thanh Trà
 
@@ -839,7 +835,7 @@ Trưởng ban, Trưởng phòng, Trưởng khoa, Trưởng trung tâm,
 Phó trưởng ban, Phó trưởng phòng, Phó trưởng khoa, Phó trưởng
 
 4 |trung tâm, Phó trưởng chi nhánh, Phó trưởng phân hiệu, Phó
-trưởng khu vực và tương đương của ĐVS§NCL
+trưởng khu vực và tương đương của ĐVSNCL
 Trưởng bộ môn và tương đương thuộc khoa, phòng, ban, trung
 
 5 _ |tâm, chi nhánh, phân hiệu, khu vực và tương đương của
@@ -859,7 +855,7 @@ Phó trưởng bộ môn và tương đương thuộc khoa, phòng, ban,
 
 Phụ lục H
 
-JỌ “ cày 26 tháng 6 năm 2026
+JỌ " cày 26 tháng 6 năm 2026
 
 TRÍ VIỆC LÀM VIÊN CHỨC CHUYÊN MÔN,
 Ụ TRONG ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP
@@ -978,7 +974,7 @@ nghiệp
 46 | 5 |Tìm kiếm cứu nạn hàng hải Bậc 3 đến bậc 5
 47 | 6 |Kỹ thuật viên đường bộ Bậc 1 đến bậc 5
 48 | 7 |Kỹ thuật viên bến phà Bậc 1 đến bậc 5
-49 | § |Đăng kiểm viên Bậc 1 đến bậc 5
+49 | 8 |Đăng kiểm viên Bậc 1 đến bậc 5
 50 | 9 |Đào tạo lái xe cơ giới đường bộ Bậc 1 đến bậc 5
 51 | 10 |Cảng vụ viên hàng không Bậc 1 đến bậc 5
 52 | 11 |Cảng vụ viên hàng hải Bậc 1 đến bậc 5
@@ -997,11 +993,10 @@ Bậc nghề nghiệp
 
 TT Tên vị trí việc làm h Ghi chú
 sử dụng
-60 | 7 Nhựt NNg viên chât lượng sản phâm, Bậc 3 đến bậc 5
+60 | 7 |Nghiệm thu viên chất lượng sản phẩm, Bậc 3 đến bậc 5
 hàng hóa
-ó1 §_ |Quản lý giao dịch điện tử Bậc 3 đến bậc 5
-h 1 “ Ẵ Ả. Z ;Ã : VỊ ,
-s2| 9 Quản lý, thúc đây phát triên tài Bậc 3 đến bậc 5
+61 | 8 |Quản lý giao dịch điện tử Bậc 3 đến bậc 5
+62 | 9 |Quản lý, thúc đây phát triển tài Bậc 3 đến bậc 5
 nguyên Internet
 63 | 10 |Đổi mới sáng tạo Bậc 1 đến bậc 5
 64 | 11 |Sở hữu trí tuệ Bậc I đến bậc 5
@@ -1014,7 +1009,7 @@ VI |NGÀNH, LĨNH VỰC GIÁO DỤC VÀ ĐÀO TẠO
 70 | 5 |Giáo viên dự bị đại học Bậc 3 đến bậc 4
 71 6_ |Giáo viên giáo dục thường xuyên Bậc 3 đến bậc 4
 72 7 |Giáo viên sơ cấp Bậc 2 đến bậc 5
-73 | § |Giáo viên trung cấp Bậc 3 đến bậc 5
+73 | 8 |Giáo viên trung cấp Bậc 3 đến bậc 5
 74 9 |Giáo viên trung học nghề Bậc 3 đến bậc 5
 75 | 10 Giảng viên cao đẳng (gồm: Giảng viên, Giảng viên chính,
 Giảng viên cao cấp)
@@ -1071,7 +1066,7 @@ VH  |NGÀNH, LĨNH VỰC Y TẾ
 %5 | 5 |Y tế công cộng Bậc 3 đến bậc 5
 86 | 6 |Điều dưỡng Bậc 2 đến bậc 5
 87 | 7 |Hộ sinh Bậc 2 đến bậc 5
-88 | § |Kỹ thuậty Bậc 2 đến bậc 4
+88 | 8 |Kỹ thuật y Bậc 2 đến bậc 4
 89 | 9 |Hộ sinh trưởng Bậc 3 đến bậc 5
 90 | 10 |Điều dưỡng trưởng Bậc 3 đến bậc 5
 91 | 11 |Kỹ thuậty trưởng Bậc 3 đến bậc 5
@@ -1087,7 +1082,7 @@ TT Tên vị trí việc làm sử đụng Ghi chú
 97 | 17 |Công tác xã hội Bậc 1 đến bậc 4
 98 | 18 |Tâm lý lâm sàng Bậc 3 đến bậc 5
 99 | 19 |Dinh dưỡng lâm sàng Bậc 3 đến bậc 5
-HH 0 TT TS” | BÉc2 me
+HH 0 TT TS" | BÉc2 me
 101 | 21 |Kiểm định, kiểm nghiệm Bậc 3 đến bậc 5
 Điều tra tải nguyên dược liệu; bảo :
 102 | 22 |quản chê biên dược liệu sau thu Bậc 2 đên bậc 4
@@ -1100,7 +1095,7 @@ VII |NGÀNH, LĨNH VỰC VĂN HÓA, THẺ THAO VÀ DU DỊCH
 107| 5 |Đạo diễn nghệ thuật Bậc 1 đến bậc 5
 108| 6 |Diễn viên Bậc 1 đến bậc 5
 109| 7 |Họasĩ Bậc 1 đến bậc 5
-110| ® |Tuyên truyền viên văn hóa Bậc 1 đến bậc 4
+110| 8 |Tuyên truyền viên văn hóa Bậc 1 đến bậc 4
 111| 9 |Huấn luyện viên Bậc 1 đến bậc 5
 112| 10 |Hướng dẫn viên Bậc 1 đến bậc 2
 113 | 11 |Biên tập viên Bậc 3 đến bậc 5
@@ -1295,27 +1290,23 @@ Không áp dụng bậc
 
 Thủy thủ trưởng
 
-œ
+-
 
 Thủy thủ
 
-•
-`©
+-
 
 Thợ máy
 
-ba
-=
+-
 
 Thợ kỹ thuật điện
 
-lo
-_
+-
 
 Nhân viên cứu nạn
 
-tk)
-)
+-
 
 Bác sĩ tàu
 
@@ -1364,7 +1355,7 @@ Ngành, lĩnh vực
 39 |Đào tạo, chỉ đạo tuyến Bậc 3 đến bậc 5
 
 40. |Quản lý chất lượng y tế Bậc 3 đến bậc 5 Ngành, lĩnh vực
-41 |Phục hồi chức năng Bậc 3 đến bậc 5 “
+41 |Phục hồi chức năng Bậc 3 đến bậc 5 "
 48 _"a sóc người cao tuổi, người khuyết tật, Bậc 2 đến bậc 4
 
 43. |Hợp tác, hội nhập quốc tế Bậc 3 đến bậc 5
@@ -1529,10 +1520,10 @@ Xác định sản phẩm, kết quả đầu ra của bậc nghề nghiệp đ�
 
 2. Khi xác định mục tiêu vị trí việc làm
 
-a) Công thức viết: Động từ + đối tượng + kết quả cuối cùng (ví dụ: “Tổ
+a) Công thức viết: Động từ + đối tượng + kết quả cuối cùng (ví dụ: "Tổ
 
 chức và triển khai hoạt động đào tạo nhằm bảo đảm chất lượng chương trình đào
-tạo của đơn vị”, không viết là “Thực hiện công tác đào tạo”).
+tạo của đơn vị", không viết là "Thực hiện công tác đào tạo").
 
 b) Yêu cầu:
 
@@ -1546,7 +1537,7 @@ trùng lặp với mô tả công việc.
 3. Khi mô tả công việc chuyên môn
 
 a) Công việc chuyên môn được viết theo công thức: Động từ + nội dung
-công việc + mức độ xử lý + trách nhiệm thực hiện (ví dụ: “Xây dựng kế hoạch
+công việc + mức độ xử lý + trách nhiệm thực hiện (ví dụ: "Xây dựng kế hoạch
 đào tạo hàng năm theo quy định của Bộ... và chịu trách nhiệm về chất lượng kế
 hoạch"); không viết chung chung như "7c hiện nhiệm vụ chuyên môn".
 
@@ -1667,7 +1658,7 @@ lập chủ động tích hợp theo quy định của pháp luật chuyên ngà
 7. Yêu cầu về trình độ
 
 Nguyên tắc: Không trái quy định pháp luật chuyên ngành (nếu có) hoặc pháp
-luật liên quan; không “nâng chuân tùy tiện”.
+luật liên quan; không "nâng chuân tùy tiện".
 
 Không quy định cứng số năm kinh nghiệm, trừ trường hợp pháp luật chuyên
 ngành có quy định, mà thay băng loại nhiệm vụ đã thực hiện, mức độ chủ trì
@@ -1708,7 +1699,7 @@ II MỤC TIÊU VỊ TRÍ VIỆC LÀM
 (Viết theo công thúc: Động từ + Đối tượng + Kết quả cuối cùng; gắn với
 chức năng, nhiệm vụ của đơn vị; không mô tả nhiệm vụ cụ thê của vị trí việc làm.)
 
-II. CÔNG VIỆC, KÉT QUẢ, SẢN PHẨM CHUYÊN MÔN
+II. CÔNG VIỆC, KẾT QUẢ, SẢN PHẨM CHUYÊN MÔN
 
 (Mô tả các công việc thực hiện theo quy định của pháp luật chuyên ngành,
 pháp luật có liên quan, chức năng, nhiệm vụ của đơn vị liên quan đến mục tiêu

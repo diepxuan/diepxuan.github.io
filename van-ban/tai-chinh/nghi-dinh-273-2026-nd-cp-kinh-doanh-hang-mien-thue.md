@@ -135,8 +135,8 @@ thông tin về số hiệu tàu, ngày tàu nhập cảnh, số hộ chiếu c�
 viên. Hàng hóa phải được đưa vào kho chứa của tàu để cơ quan, hải quan nơi
 tàu xuất cảnh niêm phong, xác nhận, giám sát cho đến khi tàu xuất cảnh.
 6. Trong quá trình thực hiện, trường hợp thông tin cá nhân của người
-mua hàng miễn thuế có thể khai thác được từ Cơ sở đữ liệu quốc gia về dân
-cư, Cơ sở dữ liệu quốc gia khác hoặc Cơ sở đữ liệu chuyên ngành thì không
+mua hàng miễn thuế có thể khai thác được từ Cơ sở dữ liệu quốc gia về dân
+cư, Cơ sở dữ liệu quốc gia khác hoặc Cơ sở dữ liệu chuyên ngành thì không
 yêu cầu người mua hàng miễn thuế xuất trình bản giấy các loại giấy tờ cung
 
 ### Điều 6. Định lượng mua hàng miễn thuế
@@ -185,7 +185,7 @@ kiểm tra, giám sát, kiểm soát hải quan và Nghị định số 167/2025
 miễn thuế: Doanh nghiệp gửi ‹ danh sách hàng hóa đưa vào/đưa ra cửa hàng
 miễn thuế, kho chứa hàng miễn thuế theo các chỉ tiêu thông tỉn tại Mẫu số
 08a, Mẫu số 08b, Mẫu số 08c Phụ lục IE.Nghị định này đến hệ thống xử lý
-đữ liệu điện tử hải quan. Hải quan quản lý cửa hàng miễn thuế, kho chứa
+dữ liệu điện tử hải quan. Hải quan quản lý cửa hàng miễn thuế, kho chứa
 hàng miễn thuế thực hiện phê duyệt hoặc không phê duyệt kèm lý do không
 phê duyệt cho doanh nghiệp thông qua hệ thống xử lý dữ liệu điện tử hải
 quan trong vòng 02 giờ làm việc kể từ khi hệ thống tiếp nhận thông tin. Sau
@@ -197,8 +197,8 @@ quan để xác nhận thực tế hàng hóa đưa vào cửa hàng miễn thu�
 Trường hợp hệ thống xử lý đỡ liệu điện tử hải quan gặp sự có, doanh
 nghiệp thông báo bằng văn bản về việc . đưa hàng hóa vào kho chứa hàng miễn
 thuế, cửa hàng miễn thuế theo Mẫu số 087DSHH Phụ lục II ban hành kèm
-theo Nghị định này và gửi dữ liệu lên hệ thống xử lý đữ liệu điện tử hải quan
-trong vòng 24 giờ kế từ khi sự cố hệ thống xử lý đữ liệu điện tử hải quan
+theo Nghị định này và gửi dữ liệu lên hệ thống xử lý dữ liệu điện tử hải quan
+trong vòng 24 giờ kể từ khi sự cố hệ thống xử lý dữ liệu điện tử hải quan
 Trường hợp có nghi ngờ về danh sách hàng hóa, trong, , vòng 92 giờ làm
 việc kể từ khi hệ thống xử lý dữ liệu điện tử hải quan phản hồi, Hải quan quản
 lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện kiểm tra, đối chiều
@@ -228,15 +228,15 @@ ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu
 Trong trường hợp hệ thống x xử lý dữ liệu điện tử hải quan gặp sự cố,
 doanh nghiệp thông báo bằng. văn bản về việc vận chuyển hàng hóa với cơ
 quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu điện tử hãi quan trong
-vòng 24 giờ kể từ khi sự cố hệ thống xử lý đữ liệu điện tử hải quan được khắc
+vòng 24 giờ kể từ khi sự cố hệ thống xử lý dữ liệu điện tử hải quan được khắc
 b) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực
 ` "hiện phê duyệt hoặc không phê duyệt kèm lý do không phê duyệt thông tin
 luân chuyển hàng hóa cho doanh nghiệp thông qua hệ thống xử lý dữ liệu điện
-tử hải quan trong vòng 02 giờ làm việc kế từ khi hệ thống tiếp nhận thông tin.
+tử hải quan trong vòng 02 giờ làm việc kể từ khi hệ thống tiếp nhận thông tin.
 Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách
 nhiệm kiểm tra thực tế hàng hóa được vận chuyển trên cơ sở áp dụng quản lý
 rủi ro hoặc có dấu hiệu vi phạm pháp luật và phê duyệt văn bản thông báo của
-doanh nghiệp về việc vận chuyên trong trường hợp hệ thống xử lý đữ liệu
+doanh nghiệp về việc vận chuyển trong trường hợp hệ thống xử lý dữ liệu
 c) Ngay sau khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
 Hải quan quân lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách
 nhiệm thông báo (bằng văn bản, email, điện thoại, fax,...) với doanh nghiệp
@@ -248,8 +248,8 @@ giữa kho chứa hàng miễn thuế, cửa hàng miễn thuế theo Mẫu số
 ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan
 trước khi vận chuyển hàng hóa. Trong trường hợp hệ thống xử lý dữ liệu điện
 tử hải quan gặp sự cố, doanh nghiệp thực hiện thông báo bằng văn bản về việc
-vận chuyển và chỉ được vận chuyên hàng hóa sau khi được cơ quan hải quan
-phê duyệt. Trong vòng 24 giờ kế từ khi sự cố được khắc phục doanh nghiệp
+vận chuyển và chỉ được vận chuyển hàng hóa sau khi được cơ quan hải quan
+phê duyệt. Trong vòng 24 giờ kể từ khi sự cố được khắc phục doanh nghiệp
 phải gửi dữ liệu đến hệ thống xử lý dữ liệu điện tử hải quan. Doanh nghiệp
 chịu trách nhiệm vận chuyển hàng hóa đến đúng địa điểm đăng ký vận chuyển
 b) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có
@@ -257,10 +257,10 @@ trách nhiệm giám sát hàng hóa xếp lên phương tiện để vận chuy
 chứa hàng miễn thuế, cửa hàng miễn thuế; thực hiện phê duyệt vận chuyển
 hàng hóa trên hệ thống xử lý dữ liệu điện tử hải quan hoặc văn bản do doanh
 nghiệp xuất trình ngay sau khi niêm phong hàng hóa. Niêm phong hàng hóa
-trước khi vận chuyên, ghi rõ số niêm phong hải quan trên bản giây của doanh
+trước khi vận chuyển, ghi rõ số niêm phong hải quan trên bản giây của doanh
 nghiệp. Khi hàng hóa vận chuyển đến địa điểm, Hải quan quản lý cửa hàng
 miễn thuế, kho chứa hàng miễn thuế kiểm tra niêm phong, xác nhận trên hệ
-thống xử lý đữ liệu điện tử hải quan hoặc văn bản do doanh nghiệp xuất trình,
+thống xử lý dữ liệu điện tử hải quan hoặc văn bản do doanh nghiệp xuất trình,
 €) Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực
 hiện các công việc quy định tại điểm c khoản 2 Điêu này.
 4. Trường hợp luân chuyển hàng hóa giữa các kho chứa hàng miễn thuế,
@@ -269,14 +269,14 @@ thuế của một doanh nghiệp có nhiều cửa hàng miễn thuế, kho ch�
 thuế tại nhiều địa điểm khác nhau chịu sự quản lý của các đơn vị hải quan
 a) Doanh nghiệp có trách nhiệm gửi danh sách hàng hóa luân chuyển
 giữa kho chứa hàng miễn thuế, cửa hàng miễn thuế theo Mẫu số 11 Phụ lục II
-ban hành kèm theo Nghị định này đến hệ thông xử lý dữ liệu điện tử hải quan
+ban hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan
 trước khi vận chuyển hàng hóa đến cửa hàng miễn thuế, kho chứa hàng miễn
 Trong trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố,
 doanh nghiệp gửi văn bản về việc vận chuyển tới cơ quan hải quan và chỉ
-được vận chuyên hàng hóa sau khi được cơ quan hải quan phê duyệt. Trong
+được vận chuyển hàng hóa sau khi được cơ quan hải quan phê duyệt. Trong
 vòng 24 giờ kể từ khi sự cố được khắc phục doanh nghiệp phải gửi dữ liệu
 các địa điểm đặt cửa hàng miễn thuế, kho chứa hàng miễn thuế theo đúng
-thông tin đã gửi tới hệ thông xử lý dữ liệu điện tử hải quan hoặc văn bản về
+thông tin đã gửi tới hệ thống xử lý dữ liệu điện tử hải quan hoặc văn bản về
 b) Hải quan nơi hàng hóa chuyển đi thực hiện:
 Giám sát hàng hóa xếp lên phương tiện vận chuyển, niêm phong hải
 Căn cứ thông tin doanh nghiệp đã gửi tới hệ thống xử lý dữ liệu điện tử
@@ -297,7 +297,7 @@ Căn cứ biên bản bàn giao do Hải quan nơi hàng hóa chuyển đi lập
 miễn thuê, cửa hàng miễn thuế;
 của doanh nghiệp xuât trình và giao cho doanh nghiệp lưu trong trường hợp
 Theo dõi thông tin về hàng hóa vận chuyển, phối hợp với Hải quan nơi
-hàng hóa được vận chuyên đi đề truy tìm trong trường hợp quá thời hạn vận
+hàng hóa được vận chuyển đi đề truy tìm trong trường hợp quá thời hạn vận
 Theo dõi việc luân chuyển hàng hóa giữa các cửa hàng miễn thuế, kho
 
 ### Điều 9. Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng
@@ -305,10 +305,10 @@ Theo dõi việc luân chuyển hàng hóa giữa các cửa hàng miễn thuế
 1. Trách nhiệm của doanh nghiệp kinh doanh hàng miễn thuế
 a) Trường hợp kho chứa hàng miễn thuế nằm trong khu cách ly
 06a, Mẫu số 06b và bảng kê lượng tiền mặt theo Mẫu số 07 Phụ lục II ban
-hành kèm theo Nghị định này đến hệ thống xử lý đữ liệu điện tử hải quan
+hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan
 trước khi vận chuyển hàng hóa từ kho chứa hàng miễn thuế lên tàu bay và
 trong vòng 24 giờ sau khi hàng hóa được vận chuyển từ tàu bay về kho chứa
-Trường hợp hệ thống xử lý đữ liệu điện tử hải quan gặp sự cố, doanh
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, doanh
 nghiệp gửi phiếu giao nhận hàng hóa theo Mẫu số 06/PGHKVTB và bảng kê
 lượng tiền mặt theo Mẫu số 07/BKTMKVTB Phụ lục HI ban hành kèm theo
 Nghị định này tới cơ quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu
@@ -319,7 +319,7 @@ Doanh nghiệp có trách nhiệm gửi thông tin về phiếu giao nhận hàn
 Mẫu số 06a và bảng kê lượng tiền mặt theo Mẫu số 07 Phụ lục II ban hành
 kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan. Doanh
 11
-Trường hợp hệ thông xử lý đữ liệu điện tử hải quan gặp sự cố, doanh
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, doanh
 nghiệp gửi phiếu giao nhận hàng hóa theo Mẫu số 06/PGHKVTB và bảng kê
 lượng tiền mặt theo Mẫu số 07/BKTMKVTB Phụ lục HI ban hành kèm theo
 Nghị định này đến cơ quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu
@@ -331,16 +331,16 @@ khi được cơ quan hải quan phê duyệt Mẫu số 06/PGHKVTB, Mẫu số
 Doanh nghiệp kinh doanh hàng miễn thuế thực hiện niêm phong phương tiện
 vận chuyển hàng miễn thuế trước khi đưa phương tiện chứa hàng miễn thuế ra
 khỏi tàu bay. Doanh nghiệp chịu trách nhiệm vận chuyển hàng miễn thuế từ
-tàu bay về kho hàng miễn thuế. Trong vòng 24 giờ kế từ khi ( tàu bay đỗ tại vị
+tàu bay về kho hàng miễn thuế. Trong vòng 24 giờ kể từ khi ( tàu bay đỗ tại vị
 trí chỉ định theo quy định, doanh nghiệp kinh doanh hàng miễn thuế thực hiện
 gửi thông tin về hàng hóa bán không hết thu hồi từ các chuyển bay quốc tế
 theo Mẫu số 06b và bảng kê lượng tiền mặt theo Mẫu số 07 Phụ lục II ban
 hành kèm theo Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan.
-Trường hợp hệ thống xử lý đữ liệu điện tử hải quan gặp sự cố, doanh
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, doanh
 nghiệp gửi phiếu giao nhận hàng hóa theo Mẫu số 06/PGHKVTB và bảng kê
 lượng tiền mặt theo Mẫu số 07/BKTMKVTB Phụ lục II ban hành kèm theo
 Nghị định này đến cơ quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu
-điện tử hải quan trong vòng 24 giờ kể từ khi sự cố hệ thống xử lý đữ liệu điện
+điện tử hải quan trong vòng 24 giờ kể từ khi sự cố hệ thống xử lý dữ liệu điện
 2. Trách nhiệm của Hải quan quản lý kho chứa hàng miễn thuế
 a) Trường hợp kho chứa hàng miễn thuế nằm trong khu cách ly
 tế hàng hóa được vận chuyển trên cơ sở áp dụng quản lý rủi ro hoặc có dấu
@@ -366,7 +366,7 @@ kho, kiểm tra niêm phong trên các phương tiện chứa hàng miễn thu�
 nhận Mẫu số 06b, Mẫu số 07 Phụ lục H ban hành kèm theo Nghị định này
 trên hệ thống xử lý dữ liệu điện tử hải quan hoặc Mẫu số 06/PGHKVTB, Mẫu
 số 07/BKTMKVTB Phụ lục II ban hành kèm theo Nghị định này do doanh
-tra thực tế hàng hóa được vận chuyên từ kho hàng miễn thuế đến khu cách ly
+tra thực tế hàng hóa được vận chuyển từ kho hàng miễn thuế đến khu cách ly
 _ 3. Trách nhiệm của Hải quan cửa khâu sân bay quốc tế nơi tàu bay xuất
 cảnh trong trường hợp kho chứa hàng miễn thuế không nằm trong khu cách ly
 a) Thực hiện đối chiếu niêm phong hải quan khi phương tiện chứa hàng
@@ -383,9 +383,9 @@ ngay sau khi hàng hóa được nhập vào kho chứa hàng miễn thuế tạ
 quốc tế nơi tàu bay nhập cảnh hoặc hàng hóa được đưa thẳng từ tàu bay nhập
 13
 Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, doanh
-nghiệp gửi phiều giao nhận hàng hóa theo Mẫu số 06/PGHKVTB Phụ lục II
+nghiệp gửi phiếu giao nhận hàng hóa theo Mẫu số 06/PGHKVTB Phụ lục II
 ban hành kèm theo Nghị định này đến cơ quan hải quan và gửi dữ liệu đến hệ
-thống xử lý dữ liệu điện tử hải quan trong vòng 24 giờ kế từ khi sự cô hệ
+thống xử lý dữ liệu điện tử hải quan trong vòng 24 giờ kể từ khi sự cố hệ
 b) Thực hiện lưu giữ phương tiện chứa hàng miễn thuế trong kho chứa
 bàng miễn thuế của doanh nghiệp tại khu vực riêng ở sân bay nhập cảnh có
 camera giám sát, đảm bảo phân biệt được với hàng hóa, phương tiện chứa
@@ -444,7 +444,7 @@ viên phục vụ như cầu cá nhân trong thời gian tàu neo đậu tại c
 .„ Trường hợp đối tượng mua là hành khách đang thực hiện chuyến bay
 quốc tế đến Việt Nam, nhân viên bán hàng yêu cầu người mua hàng xuất trình
 b) Kiểm tra định mức mua hàng miễn thuế
-Nhân viên bán hàng kiểm tra thông tin trên hệ thống xử lý đữ liệu điện tử
+Nhân viên bán hàng kiểm tra thông tin trên hệ thống xử lý dữ liệu điện tử
 nhập cảnh tại cửa khẩu sân bay quốc tế, hành khách đang thực hiện chuyên
 15
 bay quốc tế đến Việt Nam theo quy định tại khoản 2 Điều 6 Nghị định này,
@@ -464,7 +464,7 @@ bay về Việt Nam), doanh nghiệp kinh doanh hàng miễn thuế phải kê k
 phân mềm của doanh nghiệp và gửi đến hệ thống xử lý dữ liệu điện tử hải
 Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, trong
 vòng 24 giờ kể từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
-doanh nghiệp thực hiện gửi thông tin đến hệ thông xử lý dữ liệu điện tử hải
+doanh nghiệp thực hiện gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải
 đ) Xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản phẩm, nếu có)
 và lưu trữ hóa đơn bán hàng theo quy định của pháp luật hiện hành về hóa đơn.
 ce) Trường hợp đối tượng mua là người chờ xuất cảnh mua hàng tại cửa
@@ -474,10 +474,10 @@ Gửi Phiếu giao hàng theo Mẫu số 02 Phụ lục II ban hành kèm theo N
 hàng ở nước ngoài theo yêu cầu của khách). Trường hợp hệ thống xử lý dữ
 liệu điện tử hải quan gặp sự cỗ thì lập 02 liên Phiếu giao hàng theo Mẫu số
 02/PGH Phụ lục II ban hành kèm theo Nghị định này và gửi dữ liệu lên hệ
-thống xử lý dữ liệu điện tử hải quan trong vòng 24 giờ kế từ khi sự cố hệ
+thống xử lý dữ liệu điện tử hải quan trong vòng 24 giờ kể từ khi sự cố hệ
 hàng tại quầy nhận hàng trong khu cách ly của khâu xuất cảnh. Trường hợp
 16
-hệ thống xử lý đữ liệu điện tử hải quan gặp sự có, doanh nghiệp xuất trình
+hệ thống xử lý dữ liệu điện tử hải quan gặp sự có, doanh nghiệp xuất trình
 hàng hóa và 02 liên Phiếu giao hàng theo Mẫu số 02/PGH Phụ lục III ban
 hành kèm theo Nghị định này với hải quan cửa khẩu nơi người mua hàng xuất
 cảnh. ,
@@ -490,7 +490,7 @@ Phụ lục II ban hành kèm theo Nghị định này đến hệ thống xử 
 tử hải quan. Trong trường hợp hệ thống xử lý dữ liệu điện tử hái quan gặp sự
 cố, doanh nghiệp thông báo bằng văn bản về việc hủy Phiếu giao hàng với cơ
 quan hải quan và gửi dữ liệu đến hệ thống xử lý dữ liệu điện tử hải quan trong
-vòng 24 giờ kể từ khi sự cô hệ thống xử lý dữ liệu điện tử hải quan được khắc
+vòng 24 giờ kể từ khi sự cố hệ thống xử lý dữ liệu điện tử hải quan được khắc
 phục. Sau khi được cơ quan hải quan phê duyệt, doanh nghiệp chịu trách
 nhiệm vận chuyển hàng hóa về cửa hàng miễn thuế, kho hàng miễn thuế nơi
 miễn thuế, kho chứa hàng miễn thuế tại nhiều địa điểm khác nhau, khi thực
@@ -528,11 +528,11 @@ Trường hợp hệ thống xử lý dữ liệu điện tử bải quan gặp 
 ký tên và đóng dấu công chức trên 02 Phiến giao hàng theo Mẫu số 02/PGH
 Phụ lục [II ban bành kèm theo Nghị định này đo doanh nghiệp xuất trình, giao
 01 liên Phiếu giao hàng cho doanh nghiệp kinh doanh hàng miễn thuế lưu và
-lưu 01 liên. Sau khi doanh nghiệp truyền đữ liệu về số phiếu giao hàng đã
+lưu 01 liên. Sau khi doanh nghiệp truyền dữ liệu về số phiếu giao hàng đã
 được xác nhận trên bản giấy, thực hiện xác nhận trên hệ thống xử lý dữ liệu
 e) Niêm phong hàng hóa trước khi vận chuyển. Thực hiện cập nhật số
 niêm phong và phê duyệt thông tin hủy theo Mẫu số 13 Phụ lục II ban hành
-kèm theo Nghị định này trên hệ thống xử lý đữ liệu điện tử hải quan ngay sau
+kèm theo Nghị định này trên hệ thống xử lý dữ liệu điện tử hải quan ngay sau
 khi niêm phong hàng hóa hoặc ghi rõ số niêm phong và phê đuyệt văn bản do
 
 ### Điều 12. Thủ tục bán hàng miễn thuế cho tổ chức, cá nhân được
@@ -552,7 +552,7 @@ liệu điện tử hải quan đối với trường hợp xuất trình Số q
 đ) Gửi thông tin bán hàng theo Mẫu số 12 Phụ lục II ban hành kèm theo
 Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, trong
 vòng 24 giờ kê từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
-doanh nghiệp thực hiện gửi thông tin đên hệ thống xử lý dữ liệu điện tử hải
+doanh nghiệp thực hiện gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải
 đ) Xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản phẩm, nếu có)
 S) Cắt ô tem tương ứng mặt hàng đã bán trên Số định mức hàng miễn
 c) Lưu hóa đơn bán hàng theo quy định hiện hành về hóa đơn.
@@ -560,7 +560,7 @@ _ 2. Trách nhiệm của Hải quan quản lý cửa hàng miễn thuế, kho c
 a) Đối với người mua hàng lần đầu tiên mua hàng miễn thuế theo Số
 định mức mua hàng miễn thuế, cơ quan hải quan kiểm tra bản chính Số định
 mức mua hàng miễn thuế hoặc kiểm tra trên cổng thông tin một cửa quốc gia
-về định lượng mua hàng miễn thuế, xác nhận trên hệ thông xử lý dữ liệu điện
+về định lượng mua hàng miễn thuế, xác nhận trên hệ thống xử lý dữ liệu điện
 tử hải quan lượng hàng miễn thuế được phép mua của người mua hàng để hệ
 thống xử lý dữ liệu điện tử hải quan trừ lùi định mức mua hàng miễn thuế;
 b) Trên cơ sở quản lý rủi ro và đấu hiệu vi phạm pháp luật, Hải quan
@@ -578,12 +578,12 @@ hiện quy định tại điểm c khoản 2 Điều 8 Nghị định này.
 của thuyền viên làm việc trên tàu biển chạy tuyến quốc tế trong thời gian tàu
 trách nhiệm:
 a) Yêu cầu người mua hàng xuất trình hộ chiếu;
-b) Kiểm tra thông tin trên hệ thống xử lý đữ liệu điện tử hải quan để bán
+b) Kiểm tra thông tin trên hệ thống xử lý dữ liệu điện tử hải quan để bán
 hàng trong định lượng quy định tại khoản 4 Điều 6 Nghị định này;
 c) Gửi thông tin bán hàng theo Mẫu số 12 Phụ lục II ban hành kèm theo
-Trường hợp hệ thống xử lý đữ liệu điện tử hải quan gặp sự có, trong
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự có, trong
 vòng 24 giờ kể từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
-doanh nghiệp thực hiện gửi thông tin đên hệ thông xử lý dữ liệu điện tử hải
+doanh nghiệp thực hiện gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải
 d) Thực hiện xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản
 phẩm, nêu có), trên hóa đơn đây đủ các thông tin họ tên, số hộ chiêu, quốc
 tịch của thuyền trưởng/người đại diện tàu, số hiệu tàu, ngày tàu nhập cảnh;
@@ -593,9 +593,9 @@ việc trên tàu biển chạy tuyên quốc tế phục vụ cho hành trình 
 lãnh hải Việt Nam. Trách nhiệm của nhân viên bán hàng:
 a) Yêu cầu người mua hàng xuất trình hộ chiếu;
 b) Gửi thông tin bán hàng theo Mẫu số 12 Phụ lục II ban hành kèm theo
-Trường hợp hệ thống xử lý đữ liệu điện tử hải quan gặp sự cố, trong
-vòng 24 giờ kế từ khi hệ thông xử lý dữ liệu điện tử hải quan được khắc phục,
-doanh nghiệp thực hiện gửi thông tn đến hệ thông xử lý dữ liệu điện tử hải
+Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, trong
+vòng 24 giờ kể từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
+doanh nghiệp thực hiện gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải
 cc) Thực hiện xuất hóa đơn bán hàng theo quy định;
 đ) Chịu trách nhiệm vận chuyển hàng hóa vào kho của tầu;
 20
@@ -615,10 +615,10 @@ vực giám sát (ký tên, đóng, dấu công chức hải quan trên hóa đ�
 1. Trách nhiệm của doanh nghiệp kinh doanh hàng miễn thuế
 Điều 11, Điều 12, Điều 13 Nghị định này, doanh nghiệp thực hiện:
 a) Gửi thông tin bán hàng theo Mẫu số 12 Phụ lục II ban hành kèm theo
-Nghị định này đên hệ thống xử lý dữ liệu điện tử hải quan ngay sau khi chấp
+Nghị định này đến hệ thống xử lý dữ liệu điện tử hải quan ngay sau khi chấp
 Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cỐ, trong
 vòng 24 giờ kê từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục,
-doanh nghiệp thực hiện gửi thông tin đến hệ thống xử lý đữ liệu điện tử hải
+doanh nghiệp thực hiện gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải
 b) Khi giao hàng cho khách mua hàng, kiểm tra đối chiếu thông tỉn mà
 khách đã kê khai khi mua hàng trực tuyến với thông tỉn trên các giấy tờ liên
 2. Trách nhiệm của Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
@@ -641,7 +641,7 @@ năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Ng
 định, doanh nghiệp phải gửi bảng kê hàng hóa đã bán cho khách xuất cảnh
 theo Mẫu số 09 Phụ lục II ban hành kèm theo Nghị định này đến hệ thống xử
 lý dữ liệu điện tử hải quan hoặc Mẫu số 09/BKHH Phụ lục IHI ban hành kèm
-theo Nghị định này trong trường hợp hệ thống gặp sự có và 01 bản chụp hộ
+theo Nghị định này trong trường hợp hệ thống gặp sự cố và 01 bản chụp hộ
 chiếu hoặc giấy thông hành (trang đầu và trang có đóng đấu xuất cảnh của cơ
 quan xuất nhập cảnh).
 _ 3. Trường hợp cơ quan hải quan có đủ cơ sở xác định khách mua hàng
@@ -670,11 +670,11 @@ pháp luật Việt Nam đưa vào bán tại cửa hàng miễn thuế sau đó
 địa, doanh nghiệp kinh doanh cửa hàng miễn thuế, kho hàng miễn thuế gửi
 22
 thông báo theo Mẫu số 05c Phụ lục IÍ ban hành kèm Nghị định này đến hệ
-thống xử lý dữ liệu điện tử hải quan. Trường hợp hệ thống xử lý đữ liệu điện
+thống xử lý dữ liệu điện tử hải quan. Trường hợp hệ thống xử lý dữ liệu điện
 tử hải quan gặp sự cố, doanh nghiệp xuất trình Mẫu số 08/DSHH Phụ lục IH
 ban hành kèm Nghị định này cho Hải quan quản lý cửa hàng miễn thuê, kho
 chứa hàng miễn thuế và gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải
-quan trong vòng 24 giờ kế từ khi hệ thống xử lý dữ liệu điện tử hải quan được
+quan trong vòng 24 giờ kể từ khi hệ thống xử lý dữ liệu điện tử hải quan được
 “Trước khi đưa hàng hóa ra khỏi cửa hàng miễn thuế, doanh nghiệp thực
 hiện hủy tem “VIET NAM DUTY NOT PAID” đã dán lên từng mặt hàng
 dưới sự giám sát của cơ quan bải quan quản lý cửa hàng miễn thuê, kho chúa
@@ -700,13 +700,13 @@ Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp 
 nghiệp xuất trình bảng kê theo Mẫu số 10/BKHMT Phụ lục II ban hành kèm
 theo Nghị định này cho Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng
 miễn thuế và gửi thông tin đến hệ thống xử lý dữ liệu điện tử hải quan trong
-vòng 24 giờ kế từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục;
+vòng 24 giờ kể từ khi hệ thống xử lý dữ liệu điện tử hải quan được khắc phục;
 b) Dịnh kỳ hàng tháng (trong 07 ngày làm việc đầu tiên của tháng), tổng
 hợp sô liệu hàng nấu, hàng thử, túi, bao bì nhập khẩu đã sử dụng, còn tồn của
 tháng trước theo Mẫu số 15 Phụ lục 1I ban hành kèm theo Nghị định này gửi
 23
 Trường hợp số liệu báo cáo của doanh nghiệp không có nghỉ ngờ, trong
-vòng 03 ngày làm việc kế từ khi nhận được báo cáo, cơ quan hải quan xác
+vòng 03 ngày làm việc kể từ khi nhận được báo cáo, cơ quan hải quan xác
 Trường hợp cơ quan hải quan nghỉ ngờ về số liệu doanh nghiệp báo cáo,
 trong vòng 07 ngày làm việc kể từ khi nhận được báo cáo, cơ quan hải quan:
 thực hiện kiểm tra các hồ sơ liên quan. Trong trường hợp cần thiết, cơ quan
@@ -727,14 +727,14 @@ a) Gửi dữ liệu theo Mẫu số 03 Phụ lục II ban hành kèm theo Ngh�
 này đến hệ thống xử lý dữ liệu điện tử hải quan trước khi đưa tiên vào, tiên ra
 khỏi khu cách ly, khu hạn chế;
 „ b) Thực biện các yêu cầu của cơ quan hải quan qua phản hồi của hệ
-thông xử lý dữ liệu điện tử hải quan. Xuất trình tiên mặt trong trường hợp cơ
+thông xử lý dữ liệu điện tử hải quan. Xuất trình tiền mặt trong trường hợp cơ
 2. Trách nhiệm của cơ quan hải quan
 a) Khi nhận được thông tin khai báo của doanh nghiệp, công chức hải
 quan kiểm tra các nội dung khai báo trên hệ thống xử lý dữ liệu điện tử hải quan;
 b) Giám sát tiền mặt đưa vào, ra khu cách ly, khu hạn chế;
 c) Kiểm tra thực tế tiền mặt đưa vào, đưa ra khu cách ly, khu hạn chế
 d) Công chức hải quan thực hiện xác nhận tiền qua khu vực giám sát trên
-hệ thông xử lý dữ liệu điện tử hải quan đối với tiên mặt đưa vào, đưa ra khu
+hệ thống xử lý dữ liệu điện tử hải quan đối với tiền mặt đưa vào, đưa ra khu
 cách ly, khu hạn chê.
 24
 3. Trường hợp hệ thống xử lý dữ liệu điện tử hải quan gặp sự cô
@@ -767,7 +767,7 @@ Tại Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn t
 a) Nộp báo cáo quyết toán đối với hàng hóa đưa vào để bán tại cửa hàng
 miễn thuế: nộp báo cáo quyết toán theo nguyên tắc nhập - xuất - tồn kho theo
 Mẫu số 05 Phụ lục II ban hành kèm theo Nghị định này thông qua hệ thống
-xử lý đữ liệu điện tử hải quan. Trường hợp hệ thống xử lý đữ liệu điện tử hải
+xử lý dữ liệu điện tử hải quan. Trường hợp hệ thống xử lý dữ liệu điện tử hải
 quan gặp sự cố, doanh nghiệp xuất trình báo cáo quyết toán theo Mẫu số
 05/BCQT Phụ lục II ban hành kèm theo Nghị định này cho cơ quan hải quan.
 25
@@ -787,13 +787,13 @@ hiện kiểm tra. Đồng thời xác nhận trên hệ thống xử lý dữ l
 5. Các trường hợp kiểm tra báo cáo quyết toán
 .8) Báo cáo quyết toán của doanh nghiệp kinh doanh hàng miễn thuế nộp
 _ b) Báo cáo quyết toán có sự chênh lệch bất thường về số liệu so với hệ
-thống xử lý đữ liệu điện tử hải quan của cơ quan hải quan đã được doanh
+thống xử lý dữ liệu điện tử hải quan của cơ quan hải quan đã được doanh
 e) Kiểm tra báo cáo quyết toán trên cơ sở áp dụng quản lý rủi ro, đánh
 6. Nội dung kiểm tra báo cáo quyết toán: Kiểm tra hồ sơ hải quan, chứng
 từ kế toán, lượng hàng tồn tại cửa hàng miễn thuế, kho chứa hàng miễn thuế.
 Cơ quan hải quan chỉ yêu cầu doanh nghiệp xuất trình hồ sơ hải quan, chứng
 từ kế toán đối với các chứng từ thể biện số liệu không được lưu trữ trên hệ
-thống xử lý đữ liệu điện tử hải quan hoặc có sự sai khác giữa hệ thống xử lý
+thống xử lý dữ liệu điện tử hải quan hoặc có sự sai khác giữa hệ thống xử lý
 7. Thẩm quyền quyết định kiểm tra báo cáo quyết toán: Đội trưởng Hải
 quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế quyết định kiểm
 tra và tổ chức thực hiện việc kiểm tra đối với các trường hợp quy định tại
@@ -801,7 +801,7 @@ khoản 5 Điều này.
 8. Trình tự, thủ tục kiểm tra báo cáo quyết toán
 a) Kiểm tra báo cáo quyết toán thực hiện theo Quyết định của Đội trưởng
 Hải quan ban hành và gửi cho doanh nghiệp kinh doanh hàng miễn thuê biết
-trong thời hạn 03 ngày làm việc kể từ ngày ký và chậm nhật là 05 ngày làm
+trong thời hạn 03 ngày làm việc kể từ ngày ký và chậm nhất là 05 ngày làm
 26
 _ Quyết định kiểm tra phải có các thông tin: Người kiểm tra, người bị
 kiệm tra, nội dung kiểm tra, thời gian bất đầu kiểm tra, thời gian kết thúc
@@ -909,7 +909,7 @@ năm 2026 của Chính phủ)
 01 Phiếu thông báo hàng vượt định mức của khách mua hàng miễn thuế
 02 __ | Phiếu giao hàng đối với khách mua hàng miễn thuế trong nội địa
 03 | Bảng kê lượng tiền mang vào/ra khu cách ly, khu hạn chế
-04 Biên bản bàn giao hàng hóa miễn thuế vận chuyên chịu sự giám sát
+04 Biên bản bàn giao hàng hóa miễn thuế vận chuyển chịu sự giám sát
 05 __ | Báo cáo quyết toán kinh doanh hàng miễn thuế
 06a __ | Phiếu giao nhận hàng hóa đối với hàng hóa luân chuyển từ kho chứa
 06b Phiếu giao nhận hàng hóa đối với hàng hóa luân chuyển từ tàu bay |
@@ -954,7 +954,7 @@ Mẫu | Phiếu giao hàng đối | Thực hiện khi khách mua hàng miễn th
 số 02 | với khách mua hàng hàng miền thuê trong nội địa và giao hàng tại
 miễn thuế trong nội địa | quầy nhận hàng trong khu cách ly.
 4 Thông tin chung
-2.1 Ngày lập phiều Nhập ngày lập phiếu giao hàng.
+2.1 Ngày lập phiếu Nhập ngày lập phiếu giao hàng.
 2.2 Tên doanh nghiệp | Nhập tên doanh nghiệp kinh doanh hàng miễn
 2.43 Mã số thuế Nhập mã số thuế của doanh nghiệp kinh doanh
 2.4 | Tên người mua hàng | Nhập tên người mua hàng miễn thuế.
@@ -991,12 +991,12 @@ cách ly, khu hạn chế | chế
 vào/ra khu cách ly, khu hạn chế.
 3.6 Loại phiếu Nhập “1” nếu là phiếu mang vào, “0” nếu là phiếu
 L2) Thông tin chỉ tiết | Thông tin chỉ tiết từng loại tiền mặt, tiền thu được
-không băng tiên mặt đua vào/ra khu cách Íy, khu hạn
+không băng tiền mặt đua vào/ra khu cách Íy, khu hạn
 3.7 Loại ngoại tệ Nhập mã ngoại tệ theo danh mục Mã tiền tệ
 (Tham khảo bảng mã trên website Hải quan).
 3.8 Số lượng Số lượng tiền ngoại tệ đưa vào/ra.
 3.9 Tiền thẻ Nhập “1” nếu tiền thu được không phải là tiền
-mặt, “0” nêu tiên thu được là tiên mặt.
+mặt, “0” nêu tiên thu được là tiền mặt.
 Mẫu Biên bản bàn giao | Thực hiện trong trường hợp:
 ^ Fà 1 Fì 3
 số 04 | hàng hóa miễn thuê | - | ân chuyên hàng hóa giữa các kho chứa hàng
@@ -1544,7 +1544,7 @@ năm 2026 của Chính phú)
 Mẫu số 01/PTBHVĐM. | Phiếu thông báo hàng vượt định mức của khách
 Mẫu số 02/PGH Phiếu giao hàng đối với khách mua hàng miễn
 Mẫu số 03/BKTMVR | Bảng kê lượng tiền mang vào/ra khu cách ly, khu
-Mẫu số 04/BBBG Biên bản bản giao hàng hóa miễn thuế vận chuyên
+Mẫu số 04/BBBG Biên bản bản giao hàng hóa miễn thuế vận chuyển
 Mẫu số 05/BCQT _ | Báo cáo quyết toán kinh doanh hàng miễn thuế
 Mẫu số 06/PGHKVTB Phiếu giao nhận hàng hóa đối với hàng hóa luân
 chuyển giữa kho chứa hàng, miễn thuế và tàu bay

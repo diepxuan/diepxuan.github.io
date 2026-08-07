@@ -441,7 +441,7 @@ trong trường hợp có sự thay đổi trong biểu giá dịch vụ theo qu
 e khoản 2 Điều 15 Nghị quyết số 05/2025/NQ-CP.
 
 3. Phạt tiền từ 50.000.000 đồng đến 70.000.000 đồng đối với tổ chức cung
-cấp dịch vụ tài sản mã hóa không thực hiện xác minh danh tính nhà đâu tư mở
+cấp dịch vụ tài sản mã hóa không thực hiện xác minh danh tính nhà đầu tư mở
 tài khoản.
 
 4. Hành vi vi phẹm quy định về thời hạn công bố thông tin quy định tại
@@ -591,7 +591,7 @@ dịch thu, chỉ liên quan đến mua, bán tài sản mã hóa; không công 
 nội bộ để nhà đầu tư nước ngoài biết và thực hiện;
 
 c) Thực hiện mở, đóng hóặc thực hiện các giao dịch thu, chỉ trên tài khoản
-chuyên dùng cho nhà đâu tư nước ngoài không đúng quy định của pháp luật.
+chuyên dùng cho nhà đầu tư nước ngoài không đúng quy định của pháp luật.
 
 
 ### Điều 11.

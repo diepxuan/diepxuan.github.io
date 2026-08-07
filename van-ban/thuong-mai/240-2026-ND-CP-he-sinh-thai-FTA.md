@@ -955,7 +955,7 @@ tư, tài trợ, hỗ trợ và quy chế quản lý tài chính của Quỹ.
 2. Triển khai hoạt động của Quỹ
 
 a) Công bố định hướng ưu tiên, yêu cầu, nội dung và hướng dẫn đề xuất
-nhiệm vụ đâu tư, tài trợ, hô trợ;
+nhiệm vụ đầu tư, tài trợ, hô trợ;
 
 b) Huy động, điều phối Quỹ và sử dụng hiệu quả các nguồn lực xã hội để
 triển khai các hoạt động nhằm thúc đẩy nghiên cứu, phát triển và đổi mới sáng

@@ -173,7 +173,7 @@ Luật Quản lý thuế và Nghị định số 252/2026/NĐ-CP.
 ### Điều 4. Phân nhóm người nộp thuế trong quản lý thuế
 1. Cơ quan thuế thực hiện phân nhóm người nộp thuế phục vụ mục đích
 quản lý thuế:
-a) Xác định chế độ ưu tiên đối với người nộp thuế trong quán lý thuế theo
+a) Xác định chế độ ưu tiên đối với người nộp thuế trong quản lý thuế theo
 quy định tại Điều 48 Nghị định số 252/2026/NĐ-CP;
 b) Phần bổ nguồn lực và áp dụng quy trình nghiệp vụ quản lý thuế, biện
 pháp quản lý thuế phù hợp theo từng phân nhóm người nộp thuế;
@@ -323,7 +323,7 @@ thuế nợ tại tỉnh được hưởng nguồn thu phân bổ theo đề ngh
 quản lý trực tiếp (trừ cơ quan thuế quản lý địa bàn nhận phân bổ theo quy định tại
 điểm a khoản 4 Điều 3 Thông tư nảy);
 d) Chủ trì hoặc phối hợp với cơ quan thuế quản lý trực tiếp xử lý bù trừ số
-tiền thuế phân bổ nộp thừa của người nộp thuế theo quy định Điêu 42 Thông tư
+tiền thuế phân bổ nộp thừa của người nộp thuế theo quy định Điều 42 Thông tư
 này (trừ cơ quan thuế quản lý địa bàn nhận phân bổ theo quy định tại điểm a khoản
 4 Điều 3 Thông tư này);
 đ) Phối hợp giải quyết hoàn thuế phân bổ nộp thừa cho người nộp thuế theo
@@ -419,7 +419,7 @@ không thay thế trách nhiệm khai thuế và xác định số thuế phải
 thuê.
 lội
 ## Chương II
-GIAO DỊCH ĐIỆN TỬ TRONG QUÁẢN LÝ THUÉ,
+GIAO DỊCH ĐIỆN TỬ TRONG QUÁẢN LÝ THUẾ,
 ### Điều 7. Nội dung giao dịch điện tử trong quản lý thuế
 Cơ quan thuế, người nộp thuế và các tổ chức, cá nhân có liên quan thực
 hiện giao dịch điện tử trong quản lý thuế (sau đây gọi chung là giao dịch thuế điện
@@ -724,7 +724,7 @@ chỉ thư điện tử chính thức, đang hoạt động và thuộc quyền 
 thuế, để nhận thông báo của cơ quan thuế. Đồng thời, người nộp thuế có thể đăng
 ký số điện thoại hoặc tài khoản điện tử khác để đảm bảo các thông báo bằng hình
 thức điện tử của cơ quan thuế được người nộp thuế tiếp nhận kịp thời.
-Chậm nhất 15 phút kế từ khi nhận được hồ sơ, cơ quan thuế thông báo chấp
+Chậm nhất 15 phút kể từ khi nhận được hồ sơ, cơ quan thuế thông báo chấp
 nhận kèm tài khoản giao dịch thuế điện tử hoặc không chấp nhận theo mẫu số
 04/TB-TĐT Phụ lục III ban hành kèm theo Thông tư này qua Hệ thống thông tin
 quản lý thuế và địa chỉ thư điện tử chính thức đã đăng ký;
@@ -985,7 +985,7 @@ a) Trường hợp có thay đổi, bổ sung thông tin liên quan đến sử 
 vụ T-VAN, người nộp thuế gửi tờ khai thay đối, bổ sung thông tin theo mẫu số
 01/ĐÐK-TĐT Phụ lục III ban hành kèm theo Thông tư này cho Cục Thuế qua tô
 chức cung cấp địch vụ T-VAN;
-b) Chậm nhất 15 phút kế từ khi nhận được hồ sơ đăng ký thay đổi, bổ sung
+b) Chậm nhất 15 phút kể từ khi nhận được hồ sơ đăng ký thay đổi, bổ sung
 thông tin sử dụng dịch vụ T-VAN, Cục Thuế thông báo về việc chấp nhận hoặc
 không chấp nhận hồ sơ đăng ký thay đổi, bổ sung thông tin cho người nộp thuế
 theo mẫu số 04/TB-TĐT Phụ lục HI ban hành kèm theo Thông tư này qua hệ
@@ -1006,7 +1006,7 @@ c) Kế từ thời điểm đăng ký ngừng sử dụng dịch vụ T-VAN, ng
 chuyển sang giao dịch qua Hệ thống thông tin điện tử phục vụ giao dịch thuế điện
 tử khác hoặc đăng ký sử dụng dịch vụ qua tổ chức cung cấp địch vụ T-VAN khác.
 ## Chương III
-KHAI THUÉ, KHOẢN THU KHÁC; TÍNH THUẺ, KHOẢN THU KHÁC;
+KHAI THUẾ, KHOẢN THU KHÁC; TÍNH THUẺ, KHOẢN THU KHÁC;
 PHÂN BỎ THUẺ, KHOẢN THU KHÁC
 ### Điều 17. Quy định chung về khai, tính, phân bổ thuế, khoản thu khác
 1. Người nộp thuế khai hồ sơ khai thuế, khoản thu khác (sau đây gọi chung
@@ -1176,7 +1176,7 @@ cơ quan thuế cấp hóa đơn điện tử theo từng lân phát sinh theo q
 luật về hóa đơn điện tử;
 c.4) Thuế giá trị gia tăng của người nộp thuế thực hiện khai thuế giá trị gia
 tăng theo phương pháp khấu trừ thuế nhưng có hoạt động xây dựng theo quy định
-của pháp luật về hệ thông ngành kinh tế quôc dân hoặc quy định của pháp luật về
+của pháp luật về hệ thông ngành kinh tế quốc dân hoặc quy định của pháp luật về
 xây dựng, có giá trị công trình xây dựng bao gồm cả thuế giá trị gia tăng từ 01 tỷ
 đồng trở lên (trừ hoạt động xây dựng trong khu phi thuế quan, tư vấn, khảo sát,
 thiết kế, kế toán, bảo hiểm), hoạt động chuyển nhượng bắt động sản tại địa bàn
@@ -1310,7 +1310,7 @@ trị gia tăng đã nộp: tại địa bàn tỉnh nơi có công trình xây 
 tự động luân chuyển trong hệ thông để bù trừ với số thuế giá trị gia tăng phải nộp
 tại trụ sở chính; -
 _e) Phân bô thuế đối với hoạt động chuyên nhượng bất động sản quy định
-tại điểm a.3 khoản 2 Điêu 15 Nghị định sô 252/2026/NĐ-CP:
+tại điểm a.3 khoản 2 Điều 15 Nghị định sô 252/2026/NĐ-CP:
 c.1) Số thuế giá trị gia tăng phải nộp cho từng địa bàn tỉnh của hoạt động
 chuyên nhượng bắt động sản bằng () doanh thu chưa có thuế giá trị gia tăng đối
 với hoạt động chuyền nhượng bất động sản tại từng địa bàn tỉnh nhân (x) với 1%;
@@ -1349,7 +1349,7 @@ tăng của sản phẩm sản xuất ra tại từng tỉnh trên tổng doanh 
 thuế giá trị gia tăng của sản phẩm sản xuất ra của người nộp thuế;
 d.3) Doanh thu dùng để xác định tỷ lệ phân bồ theo quy định tại điểm d.I
 và điểm d.2 khoản này là doanh thu thực tế phát sinh của kỳ tính thuế. Trường
-hợp khai bố sung, hồ sơ khai thuế làm thay đổi doanh thu thực tế phát sinh thì
+hợp khai bổ sung, hồ sơ khai thuế làm thay đổi doanh thu thực tế phát sinh thì
 người nộp thuế phải xác định và phân bổ lại số thuế phải nộp của từng kỳ tính
 thuế có sai, sót đã kê khai bổ sung để xác định số thuế giá trị gia tăng chênh lệch
 chưa phân bổ hoặc phân bồ thừa cho từng tỉnh;
@@ -1554,7 +1554,7 @@ gia tăng phải nộp (nếu có) của hoạt động, kinh doanh đang thực
 thuế của người nộp thuế, Ban quản lý dự á án, chỉ nhánh, tổ chức kinh tế mới được
 giao khai thuế giá trị gia tăng của dự án đầu tư. Số thuế giá trị gia tăng của dự án
 đầu tư được bù trừ tối đa bằng số thuế giá trị gia tăng phải nộp trên tờ khai thuế
-mẫu số 01/GTGT. Trường hợp dự án đâu tư đang trong giai đoạn đầu tư có phát
+mẫu số 01/GTGT. Trường hợp dự án đầu tư đang trong giai đoạn đầu tư có phát
 sinh doanh thu chạy thử, doanh thu hoạt động tài chính, doanh thu thanh lý nguyên
 vật liệu thì kê khai doanh thu phát sinh này vào tờ khai thuế mẫu số 01/GTGT và
 phải bù trừ số thuế giá trị gia tăng đầu vào của dự án đầu tư trên tờ khai thuế mẫu
@@ -1832,7 +1832,7 @@ Thông tư này.
 e.3) Đối với đơn vị phụ thuộc, địa điểm kinh doanh là cơ sở sản xuất:
 e.3.1) Khai thuế, tạm nộp thuế hàng quý:
 Người nộp thuế không phải nộp hồ sơ khai thuế quý nhưng phải xác định
-số thuê tạm nộp hàng quý theo quy định điểm b.3 khoản 4 Điêu này đê nộp tiên
+số thuê tạm nộp hàng quý theo quy định điểm b.3 khoản 4 Điều này đê nộp tiên
 thuê thu nhập doanh nghiệp tại từng tỉnh nơi có cơ sở sản xuất, bao gồm cả nơi có
 đơn vị được hưởng ưu đãi thuê thu nhập doanh nghiệp;
 c.3.2) Quyết toán thuế:
@@ -1848,7 +1848,7 @@ Trường hợp số thuế đã tạm nộp theo quý nhỏ hơn số thuế ph
 cho từng tỉnh theo quyết toán thuế thì người nộp thuế phải nộp số thuế còn thiếu
 cho từng tỉnh. Trường hợp số thuế đã tạm nộp theo quý lớn hơn số thuế phân bổ
 cho từng tỉnh thì được xác định là số thuế nộp thừa và xử lý theo quy định tại Điều
-15 Luật Quản lý thuê và Điêu 42 Thông tư này.
+15 Luật Quản lý thuê và Điều 42 Thông tư này.
 c.4) Đối với nhà máy thuỷ diện nằm trên nhiều tỉnh:
 c.4.1) Khai thuế, tạm nộp thuế hàng quý:
 _ò_— Người nộp thuế không phải nộp hồ sơ khai thuế quý nhưng phải xác định
@@ -2363,7 +2363,7 @@ chế biến và tiêu thụ thì đơn vị thực hiện nhiệm vụ tiêu th
 thuế cho toàn bộ số thuế báo vệ môi trường phát sinh đổi với than khai thác thuộc
 diện chịu thuế và nộp hồ sơ khai thuế đến cơ quan thuế quản lý trực tiếp; tính
 thuế, phân bổ nghĩa vụ thuế phải nộp cho từng tỉnh nơi có công ty khai thác than
-đóng trụ sở theo quy định tại khoản 3 Điêu này.
+đóng trụ sở theo quy định tại khoản 3 Điều này.
 3. Phương pháp phân bổ, khai, nộp thuế:
 Người nộp thuế thực hiện phân bổ thuế bảo vệ môi trường đổi với các
 trường hợp quy định tại điểm e khoản 2 Điều 15 Nghị định sô 252/2026/NĐ-CP
@@ -2373,7 +2373,7 @@ a.1) Phân bổ thuế bảo vệ môi trường phải nộp đối với xăng
 Số thuế bảo vệ môi trường phải nộp phân bổ cho từng tỉnh theo từng mặt
 hàng xăng dầu = số thuế bảo vệ môi trường phải nộp của từng mặt hàng xăng dầu
 trên tờ khai thuế nhân (x) với tỷ lệ (%) sản lượng của từng mặt hàng xăng dầu do
-đơn vị phụ thuộc bán ra thuộc đôi tượng phải kê khai, tính thuế bảo vệ môi trường
+đơn vị phụ thuộc bán ra thuộc đối tượng phải kê khai, tính thuế bảo vệ môi trường
 trên tổng sản lượng của từng mặt hàng xăng dầu bán ra thuộc đối tượng phải kê
 khai, tính thuế bảo vệ môi trường của người nộp thuế.
 a.2) Phân bỗ thuế bảo vệ môi trường phải nộp đối với than khai thác và tiêu
@@ -2384,7 +2384,7 @@ Tỷ lệ (%) Sản lượng than tiêu thụ nội địa trong kỳ
 sản lượng than tiêu thụnội _
 địa trong kỳ Tổng sản lượng than tiêu thụ trong kỳ
 Số thuế bảo vệ Tỷ lệ (%) sản Sản lượng Mức thuế tuyệt
-môi trường phải _ lượngthantiêu „ thanmua „ đối trên l tấn than
+môi trường phải _ lượng than tióu thụ nội địa trong kí
 nộp cho tỉnh có thụ nội địa trong của các đơn tiêu thụ
 than khai thác kỳ vị tại tỉnh
 trong kỳ nơi có than
@@ -2512,7 +2512,7 @@ a) Kỳ tính tiền thuê đất là kỳ theo năm;
 b) Cơ quan tiếp nhận và xử lý hồ sơ là cơ quan thuế nơi có đất;
 c) Thời hạn nộp hồ sơ khai tiền thuê đất:
 c.1) Thời hạn nộp hồ sơ chậm nhất là 30 ngày kẻ từ ngày sử dụng đất vào
-mục đích thuộc đôi tượng phải thuê đât;
+mục đích thuộc đối tượng phải thuê đât;
 c.2) Trường hợp trong năm có sự thay đổi các yếu tố để xác định nghĩa vụ
 tài chính về tiền thuê đắt thì thời hạn nộp hồ sơ chậm nhất là 30 ngày kể từ ngày
 được cấp có thẩm quyền ban hành văn bản ghỉ nhận sự thay đôi.
@@ -2592,7 +2592,7 @@ qua đầu phương tiện đối với xe ô tô (trừ xe ô tô của lực l
 Cục Đăng kiểm Việt Nam có trách nhiệm khai, nộp và quyết toán khoản phí này
 theo quy định tại Điều này;
 đ) Thời hạn nộp hồ sơ khai phí, lệ phí và hồ sơ quyết toán phí theo năm
-thực hiện theo quy định tại Điêu 10 Nghị định số 252/2026/NĐ-CP.
+thực hiện theo quy định tại Điều 10 Nghị định số 252/2026/NĐ-CP.
 ### Điều 27. Khai lợi nhuận sau thuế còn lại nộp vào ngân sách nhà nước theo quy định của pháp luật về quản lý và đầu tư vốn nhà nước tại doanh nghiệp; cô tức, lợi nhuận được chia cho phần vốn nhà nước đầu tư tại công ty cỗ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên
 theo quy định của pháp luật về quản lý và đầu tư vốn nhà nước tại doanh
 nghiệp; cô tức, lợi nhuận được chia cho phần vốn nhà nước đầu tư tại công
@@ -2872,7 +2872,7 @@ chức năng đặt hàng trực tuyến và chức năng thanh toán
 kèm theo Thông tư này và nộp cho cơ quan thuế theo phương thức điện tử.
 2. Cơ quan thuế tiếp nhận và xử lý hồ sơ khai thuế là Chỉ cục Thuế thương
 mại điện tử.
-„ 3. Chủ quản nền tảng thương mại điện tử, nền tảng số khác thực hiện nộp
+3. Chủ quản nền tảng thương mại điện tử, nền tảng số khác thực hiện nộp
 thuê vào tài khoản thu ngân sách nhà nước tại Kho bạc Nhà nước (Ban Giao dịch):
 a) Hệ thống thông tin quản lý thuế căn cứ dữ liệu kê khai, nộp thuế của chủ
 quản nên tảng thương mại điện tử, nền tảng số khác để tự động xác định số thuế
@@ -2918,7 +2918,7 @@ trách có thẩm quyền nước ngoài về số thuế đã miễn, giảm v�
 nghị khâu trừ sô thuê khoán là phù hợp với Hiệp định thuê và luật pháp của nước
 ký kết Hiệp định thuế có liên quan.
 b.3) Trường hợp người nộp thuế đã nộp thuế thu nhập doanh nghiệp đối với
-thu nhập trước khi được chia cho đôi tượng đó tại nước ký kết Hiệp định thuê với
+thu nhập trước khi được chia cho đối tượng đó tại nước ký kết Hiệp định thuê với
 Việt Nam và được khâu trừ Vào sỐ thuê phải nộp tại Việt Nam theo quy định của
 Hiệp định thuê (khâu trừ gián tiêp):
 b.3.1) Các tài liệu pháp lý chứng minh quan hệ và tỉ lệ góp vốn của đối
@@ -2942,8 +2942,8 @@ cho cơ quan thuế cùng với hồ sơ khai quyết toán thuế. Đối với
 thuộc trường hợp phải quyết toán thuê, người nộp thuế nộp hô sơ chứng minh số
 thuế thu nhập đã nộp tại nước ngoài cùng với hô sơ khai thuê.
 ## Chương IV
-NỌP THUÉ, KHOẢN THU KHÁC; GIA HẠN NỘP THUẾ, KHOẢN
-THU KHÁC, TIỀN CHẬM NỘP, TIỀN PHẠT; XỬ LÝ TIỀN THUÉ,
+NỌP THUẾ, KHOẢN THU KHÁC; GIA HẠN NỘP THUẾ, KHOẢN
+THU KHÁC, TIỀN CHẬM NỘP, TIỀN PHẠT; XỬ LÝ TIỀN THUẾ,
 TIỀN CHẬM NỘP, TIỀN PHẠT
 Mục 1. Nộp thuế, gia hạn nộp thuế và các khoản thu khác thuộc ngân
 sách nhà nước
@@ -2999,7 +2999,7 @@ thuế thì Hệ thống thông tin quản lý thuế truyền thông tin theo c
 đến tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian
 thanh toán, tổ chức dịch vụ khác có kết nối trực tiếp với Hệ thống thông tin quản
 lý thuế (sau đây gọi là tổ chức phối hợp thu) mà người nộp thuế đã lựa chọn trích
-tài khoản. Chậm nhất 05 phút kế từ khi nhận thông tin chứng từ nộp thuế do Hệ
+tài khoản. Chậm nhất 05 phút kể từ khi nhận thông tin chứng từ nộp thuế do Hệ
 thống thông tin quản lý thuế truyền sang, tổ chức phối hợp thu kiểm tra điều kiện
 trích nợ tài khoản của người nộp thuế và thực hiện như sau:
 Trường hợp đủ điều kiện trích nợ, tổ chức phối hợp thu thực hiện trích nợ
@@ -3142,7 +3142,7 @@ việc tổ chức thu, nộp thuế.
 đ) Người nộp thuế:
 đ.1) Nộp tiền thuế đầy đủ, đúng thời hạn theo quy định của pháp luật về
 quản lý thuế; thực hiện nộp thuế điện tử tại hệ thống của các đơn vị quy định tại
-điểm a khoản 2 Điêu này (trừ trường hợp điêu kiện không cho phép);
+điểm a khoản 2 Điều này (trừ trường hợp điều kiện không cho phép);
 đ.2) Khai đầy đủ, chính xác các thông tin thuộc trách nhiệm người nộp thuế
 phải khai trên bảng kê nộp thuế hoặc chứng từ nộp thuế;
 đ.3) Phối hợp với ngân hàng hoặc cơ quan thuế đối chiều thông tin, xử lý
@@ -3175,7 +3175,7 @@ chủ động xác định nguyên nhân sai, sót, khắc phục hậu quả, �
 bản tra soát hoặc thông báo đến các đơn vị liên quan để phối hợp, xử lý theo quy
 định.
 Việc xử lý sai, sót phải được thực hiện ngay trong ngày phát hiện. Trường
-hợp đã hết thời gian điêu chỉnh trong ngày thì chậm nhất phải xử lý trong ngày
+hợp đã hết thời gian điều chỉnh trong ngày thì chậm nhất phải xử lý trong ngày
 làm việc tiệp theo ngày phát hiện sai, sót.
 b) Trường hợp tra soát, xử lý sai, sót, điều chỉnh thông tin nộp thuế:
 b.1) Khi đã hạch toán ngân sách và chuyển thông tin số thuế đã thu cho cơ
@@ -3988,7 +3988,7 @@ cung cấp các thông tin về giao dịch liên quan đến thu nhập chịu 
 sinh và các ưu đãi thuế đối với giao dịch đó thuộc phạm vi điều chỉnh của Hiệp
 định thuế;
 b.2) Bản chính hoặc bản sao có chứng thực Giấy chứng nhận cư trú do cơ
-quan thuê của nước cư trú câp (ghi rõ là đôi tượng cư trú trong kỳ tính thuê nào)
+quan thuê của nước cư trú câp (ghi rõ là đối tượng cư trú trong kỳ tính thuê nào)
 đã được hợp pháp hóa lãnh sự;
 b.3) Bản sao có chứng thực văn bản ủy quyển trong trường hợp người nộp
 thuế ủy quyền cho đại diện hợp pháp thực hiện thủ tục áp dụng Hiệp định thuế.
@@ -4031,7 +4031,7 @@ phạm vi quân lý của cơ quan thuế (thông tin về quốc tịch, ngành
 của đối tượng) thì cơ quan thuế quản lý trực tiếp xem xét xác nhận vào mẫu Giấy
 chứng nhận cư trú này.
 ## Chương V
-THỦ TỤC HOÀN THUÊ
+THỦ TỤC HOÀN THUẾ
 Mục 1. Hoàn thuế theo quy định của pháp luật về thuế
 ### Điều 45. Trách nhiệm tiếp nhận, giải quyết hồ sơ hoàn thuế của cơ quan thuế
 thuế
@@ -4244,7 +4244,7 @@ tiếp nhận hồ sơ hủy hồ sơ hoàn thuế theo quy định tại khoả
 Điều 11 Thông tư này đồng thời kết thúc giải quyết hồ sơ hoàn thuế trên số ghi
 hồ sơ của cơ quan thuế trong trường hợp ban hành Thông báo tiếp nhận.
 Người nộp thuế khai bổ sung hồ sơ khai thuế để điều chỉnh số thuế đề nghị
-hoàn và chuyển khấu trừ tiếp vào tờ khai thuế của kỳ tính thuế tiếp theo kế từ thời
+hoàn và chuyển khấu trừ tiếp vào tờ khai thuế của kỳ tính thuế tiếp theo kể từ thời
 điểm có Thông báo về việc tiếp nhận Văn bản để nghị hủy hồ sơ hoàn thuế, nếu
 đáp ứng đủ điều kiện kê khai, khấu trừ theo quy định của pháp luật về thuế giá trị
 gia tăng.
@@ -4319,7 +4319,7 @@ cơ quan nhà nước có thảm quyển cung cấp (nếu có).
 b.1) Trường hợp Hệ thống thông tin quản lý thuế xác định hồ sơ, số tiền đề
 nghị hoàn thuế cần yêu cầu giải trình, bổ sung thông tin, tài liệu, trong thời hạn
 03 ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ hoàn thuế của người
-nộp thuế, cơ quan thuế lập Thông báo giải trình, bố sung thông tin, tài liệu theo
+nộp thuế, cơ quan thuế lập Thông báo giải trình, bổ sung thông tin, tài liệu theo
 mẫu số 01/TB-BSTT-NNT Phụ lục V ban hành kèm theo Thông tư này gửi người
 nộp thuê.
 Trong thời hạn 10 ngày làm việc kể từ ngày cơ quan thuế ban hành Thông
@@ -4511,7 +4511,7 @@ nộp thừa (sau đây gọi là hoàn trã tiền nộp thừa)
 ### Điều 55. Trách nhiệm của cơ quan thuế trong việc tiếp nhận và giải £ À ^ 2 QGIÀ ˆ ` quyết hồ sơ hoàn trả tiên nộp thừa
 £ À ^ 2 QGIÀ ˆ `
 quyết hồ sơ hoàn trả tiên nộp thừa
-1. Cơ quan thuế quán lý trực tiếp có trách nhiệm tiếp nhận và giải quyết hồ
+1. Cơ quan thuế quản lý trực tiếp có trách nhiệm tiếp nhận và giải quyết hồ
 sơ hoàn trả tiền nộp thừa (bao gồm cả trường hợp hoàn trả tiền nộp thừa theo
 quyết toán thuế thu nhập doanh nghiệp; hoàn trả tiền thuế giá trị gia tăng nộp thừa
 của người nộp thuế đã nộp thuế giá trị gia tăng theo quy định tại điểm b và điểm
@@ -4638,7 +4638,7 @@ Việc tiếp nhận hồ sơ hoàn trả tiền nộp thừa thực hiện theo
 ### Điều 58. Phân loại hồ sơ hoàn tiền nộp thừa
 1. Hồ sơ hoàn trả tiền nộp thừa (trừ hoàn nộp nhằm) thuộc diện kiểm tra
 trước hoàn thuế tại trụ sở người nộp thuế trong các trường hợp sau:
-a) Hồ sơ của người nộp thuế đề nghị hoàn thuế trong thời hạn 02 năm kế từ
+a) Hồ sơ của người nộp thuế đề nghị hoàn thuế trong thời hạn 02 năm kể từ
 thời điểm bị xử lý về hảnh vi trốn thuế;
 b) Hỗ sơ hoàn thuế được xác định có rủi ro cao trong quản lý thuế theo quy
 định tại điểm c khoản 1 Điều 30 Nghị định số 252/2026/NĐ-CP;
@@ -4833,8 +4833,8 @@ quyển qua thanh tra, kiểm tra phát hiện người nộp thuế được ho
 không đúng quy định thì thực hiện theo quy định tại khoản 1, khoản 2 Điều 54
 Thông tư này.
 ## Chương VI
-MIỄN THUÉẺ, GIẢM THUÉ; NỘP DÀN TIỀN THUÊ NỢ; KHOANH
-TIÊN THUE NỢ; XÓA TIÊN THUÊ NỢ
+MIỄN THUẾẺ, GIẢM THUẾ; NỘP DÀN TIỀN THUẾ NỢ; KHOANH
+TIÊN THUE NỢ; XÓA TIÊN THUẾ NỢ
 Mục 1. Miễn thuế, giãm thuế
 ### Điều 65. Các trường hợp miễn thuế, giảm thuế; trách nhiệm tiếp nhận, giải quyết và phản hồi thông tin hồ sơ miễn thuế, giảm thuế của cơ quan thuế
 giải quyết và phản hồi thông tin hồ sơ miễn thuế, giảm thuế của cơ quan thuế
@@ -4941,7 +4941,7 @@ khoản thu về đất, lệ phí trước bạ thuộc trường hợp quy đ�
 khoản 1 Điều này.
 Trường hợp cơ quan: tiếp nhận hồ sơ theo cơ chế một cửa liên thông chuyển
 hồ sơ miễn thuế, giảm thuế của người nộp thuế, phiếu chuyển thông tin, văn bản
-xác định nghĩa vụ tải chính theo quy định của pháp luật về đất đai cho cơ quan
+xác định nghĩa vụ tài chính theo quy định của pháp luật về đất đai cho cơ quan
 thuế theo phương thức điện tử, cơ quan tiếp nhận hồ sơ ký điện tử và truyền hồ
 sơ sang cơ quan thuế qua Hệ thống thông tin quản lý thuế;
 b. 4) Cơ quan tiếp nhận, giải quyết và phản hồi thông tin hồ sơ miễn thuế,
@@ -4960,7 +4960,7 @@ c.2) Thuế tỉnh nơi chủ dự án hoặc nhà thầu chính đặt trụ s�
 tiếp nhận, giải quyết và phản hồi thông tin hồ sơ xác định khoản thu nhập thuộc
 diện được miễn thuế thu nhập cá nhân cho chuyên gia nước ngoài thực hiện
 chương trình, dự án tài trợ bằng nguồn vốn ODA không hoàn lại thuộc trường hợp
-quy định tại điểm c.2 khoản 1 Điêu này;
+quy định tại điểm c.2 khoản 1 Điều này;
 c.3) Thuế tỉnh nơi cơ quan chủ quản đặt trụ sở hoặc chủ khoản viện trợ phi
 Chính phủ nước ngoài đặt trụ sở có trách nhiệm tiếp nhận, giải quyết và phản hỏi
 thông tin hồ sơ xác định khoản thu nhập thuộc diện được miễn thuế thu nhập cá
@@ -5045,7 +5045,7 @@ d) Đối với bất động sản chuyển nhượng, nhận thừa kế, quà
 nội, bà nội với cháu nội cần có một trong các giấy tờ sau: bản sao Giấy khai sinh
 của cháu nội và bản SaO Giấy khai sinh của bố cháu nội hoặc Xác nhận thông tin
 về cư trú có thể hiện mối quan hệ giữa ông nội, bà nội với cháu nội hoặc các giây
-tờ khác có xác nhận của cơ quan câp có thẩm quyền chứng mỉnh mỗi quan hệ giữa
+tờ khác có xác nhận của cơ quan câp có thẩm quyền chứng minh mỗi quan hệ giữa
 ông nội, bà nội và cháu nội;
 đ) Đối với bất động sản chuyển nhượng, nhận thừa kế, quà tặng giữa ông
 ngoại, bà ngoại với cháu ngoại cần có một trong các giấy tờ sau: bản sao Giấy
@@ -5187,8 +5187,8 @@ Phụ lục HI ban hành kèm theo Thông tư này;
 e) Bản sao văn bản xác định việc bồi thường của cơ quan bảo hiểm hoặc
 thỏa thuận bồi thường của người gây tai nạn (nếu có);
 d) Bản sao các chứng từ chỉ liên quan trực tiếp đến việc khắc phục tai nạn.
-### Điều 71. Hồ sơ miễn thuế, giảm thuế đối với thuế sử dụng đất phi nông nghiệp theo quy định tại điểm b.5 và điểm b.6 khoán 1 Điều 65 Thông tư này
-nghiệp theo quy định tại điểm b.5 và điểm b.6 khoán 1 Điều 65 Thông tư này
+### Điều 71. Hồ sơ miễn thuế, giảm thuế đối với thuế sử dụng đất phi nông nghiệp theo quy định tại điểm b.5 và điểm b.6 khoản 1 Điều 65 Thông tư này
+nghiệp theo quy định tại điểm b.5 và điểm b.6 khoản 1 Điều 65 Thông tư này
 1. Trường hợp khi khai thuế sử dụng đất phi nông nghiệp lần đầu tiên kể từ
 khi bắt đầu sử dụng đất, người nộp thuế xác định thuộc trường hợp được miễn
 thuế, giảm thuế theo quy định của Luật Thuế sử dụng đất phi nông nghiệp thì khai
@@ -5223,8 +5223,8 @@ cá nhân từ 50.000 đồng trở xuống;
 b) Thuế sử dụng đất phi nông nghiệp đối với đất ở theo quy định tại các
 khoản 4, 5 và khoản 6 Điều 9, khoản 2 và khoản 3 Điều 10 Luật Thuế sử dụng đất
 phi nông nghiệp.
-### Điều 72. Hồ sơ miễn thuế, giảm thuế đối với thuế sử dụng đất nông nghiệp theo quy định tại điểm b.7 khoán 1 Điều 65 Thông tư này
-nghiệp theo quy định tại điểm b.7 khoán 1 Điều 65 Thông tư này
+### Điều 72. Hồ sơ miễn thuế, giảm thuế đối với thuế sử dụng đất nông nghiệp theo quy định tại điểm b.7 khoản 1 Điều 65 Thông tư này
+nghiệp theo quy định tại điểm b.7 khoản 1 Điều 65 Thông tư này
 1. Đối với trường hợp người nộp thuế gặp khó khăn do thiên tai, hòa hoạn,
 hồ sơ gồm:
 a) Văn bản đề nghị theo mẫu số 01/MGTH Phụ lục [II ban hành kèm theo
@@ -5361,7 +5361,7 @@ c) Bản sao giấy tờ chứng minh thuộc đối tượng được miễn, g
 đất.
 ### Điều 74. Hồ sơ miễn lệ phí trước bạ
 Người nộp thuế thuộc diện miễn lệ phí trước bạ theo pháp luật về lệ phí
-trước bạ thực hiện kê khai lệ phí trước bạ theo quy định tại khoản 2 Điêu 26 Thông
+trước bạ thực hiện kê khai lệ phí trước bạ theo quy định tại khoản 2 Điều 26 Thông
 tư này và nộp bản sao các giấy tờ chứng minh tài sản hoặc chủ tài sản thuộc diện
 được miễn lệ phí trước bạ quy định tại Điều này để làm căn cứ miễn lệ phí trước
 bạ. Cụ thể như sau:
@@ -5410,7 +5410,7 @@ quả kiểm kê và xác định lại giá trị tài sản của doanh nghi�
 đó có tên các tài sản làm thủ tục kê khai lệ phí trước bạ.
 7. Đối với tài sản đã nộp lệ phí trước bạ mà tổ chức, cá nhân được chia hay
 góp do chia, tách, hợp nhất, sáp nhập:
-a) Giấy tờ chứng mỉnh người có tài sản đã nộp lệ phí trước bạ là thành viên
+a) Giấy tờ chứng minh người có tài sản đã nộp lệ phí trước bạ là thành viên
 của tổ chức đó (Quyết định thành lập tổ chức hoặc Điều lệ hoạt động của tổ chức
 có tên thành viên góp vốn bằng tài sản hoặc giấy tờ chứng minh việc góp vốn
 bằng tài sản hoặc có tên trong đăng ký kinh doanh và có giấy tờ chứng minh việc
@@ -5895,7 +5895,7 @@ Thông tư này có xác nhận của cơ quan để xuất ký kết, gia nhậ
 hiện Điều ước quốc tế (trừ các Điều ước quốc tế do Bộ Tài chính đề xuất ký) hoặc
 thôa thuận, cam kết của Chính phủ Việt Nam;
 a.2) Bán sao có chứng thực Điều ước quốc tế (trừ Điều ước quốc tế đã được
-công bố trên Cơ sở dữ liệu quốc gia về điều ước quôc tế) hoặc thỏa thuận, cam
+công bố trên Cơ sở dữ liệu quốc gia về điều ước quốc tế) hoặc thỏa thuận, cam
 kết của Chính phủ Việt Nam với cơ quan, tổ chức nước ngoài;
 a.3) Bản sao hợp đồng phát sinh thu nhập/doanh thu đề nghị miễn, giảm
 thuế theo điều ước quốc tế hoặc thỏa thuận, cam kết của Chính phủ Việt Nam có
@@ -5917,7 +5917,7 @@ a.l) Để được xem xét miễn, giảm thuế, người đề nghị gửi 
 hồ sơ đề nghị miễn, giảm thuế, gồm:
 a.1.1) Văn bản đề nghị theo mẫu số 01/DUQT Phụ lục III ban hành kèm
 theo Thông tư này có xác nhận của cơ quan đề xuất ký kết, gia nhập hoặc chủ trì
-thực hiện Điêu ước quốc tế (trừ các Điều ước quốc tế do Bộ Tài chính đề xuất ký)
+thực hiện Điều ước quốc tế (trừ các Điều ước quốc tế do Bộ Tài chính đề xuất ký)
 hoặc thỏa thuận, cam kết của Chính phủ Việt Nam;
 a.1.2) Bản sao Điều ước quốc tế (trừ Điều ước quốc tế đã được công bố trên
 Cơ sở dữ liệu quốc gia về điều ước quốc tế) hoặc thỏa thuận, cam kết của Chính
@@ -6281,7 +6281,7 @@ cơ quan thuế có căn cứ xác định số tiền thuế nợ đã khoanh g
 thuế nợ đã khoanh theo mẫu số 01/ĐCKN Phụ lục IV ban hành kèm theo Thông
 tư này.
 Cơ quan thuế thực hiện tính tiền chậm nộp đầy đủ đối với số tiền thuế nợ
-đã khoanh giảm (nếu eó) kế từ thời điểm hết hạn nộp thuế theo quy định;
+đã khoanh giảm (nếu có) kể từ thời điểm hết hạn nộp thuế theo quy định;
 b) Trường hợp người nộp thuế đã có Quyết định khoanh tiền thuế nợ, nều
 cơ quan thuế có căn cứ xác định số tiền thuế nợ thuộc trường hợp được khoanh
 tăng thêm so với số tiền thuế nợ đã khoanh thì Thủ trưởng cơ 7 quan thuế ban hành
@@ -6626,11 +6626,11 @@ Quá thời hạn nộp dân tiền thuế nợ đã cam kết nộp theo từng
 thuế không nệp hoặc nộp không đủ hoặc bên bảo lãnh chưa thực hiện nghĩa vụ
 nộp thay thì trong thời hạn 05 ngày làm việc kể từ ngày hết thời hạn nộp dẫn tiền
 thuế nợ theo cam kết, cơ quan thuế lập văn bản theo mẫu số 02/NDAN Phụ lục
-1H ban hành kèm theo Thông tư này gửi bên bảo lãnh yêu cầu thực hiện nghĩa vụ
+số 1 ban hành kèm theo Thông tư này gửi bên bảo lãnh yêu cầu thực hiện nghĩa vụ
 bảo lãnh theo quy định của pháp luật đồng thời gửi người nộp thuế.
 ## Chương VII
 KIÊM TRA THUẾ; KIỂM TRA, GIÁM SÁT VIỆC : THỰC HIỆN PHÁP
-LUẬT VÈ THUÉ, PHÍ, LỆ PHÍ
+LUẬT VÈ THUẾ, PHÍ, LỆ PHÍ
 ### Điều 87. Kiếm tra tại trụ sở cơ quan thuế
 1. Nguyên tắc kiểm tra thuế thực hiện theo quy định tại khoản 1 Điều 22
 Luật Quản lý thuê.
@@ -6671,7 +6671,7 @@ là đúng thì hồ sơ thuế được chấp nhận; Tờ khai bổ sung, h�
 thông tin được lưu cùng hồ sơ thuế;
 đ) Hết thời hạn theo thông báo lần 2 của cơ quan thuế mà người nộp thuế
 không giải trình, bổ sung thông tin, tài liệu hoặc không khai bổ sung hồ sơ thuế
-hoặc giải trình, khai bố sung hồ sơ thuế nhưng không chứng mỉnh được số thuế
+hoặc giải trình, khai bổ sung hồ sơ thuế nhưng không chứng minh được số thuế
 đã khai là đúng thì cơ quan thuế ấn định số thuế phải nộp nếu có đủ căn cứ ấn
 định; trong trường hợp không đủ căn cứ ấn định số thuế phải nộp, cơ quan thuế
 ban hành quyết định kiểm tra tại trụ sở người nộp thuế hoặc làm cơ sở để xây
@@ -6715,7 +6715,7 @@ năm:
 a) Hằng năm, Cục Thuế thực hiện hướng dẫn xây dựng kế hoạch, chuyên
 đề kiểm tra trong toản hệ thống cơ quan thuế;
 b) Cơ quan thuế các cấp căn cứ hướng dẫn của Cục Thuế thực hiện xây
-đựng kê hoạch, chuyên để kiểm tra, cụ thể:
+dựng kế hoạch, chuyên để kiểm tra, cụ thể:
 b.1) Cục Thuế ban hành Quyết định giao nhiệm vụ kiểm tra cho Thuế tỉnh,
 Chi cục Thuế doanh nghiệp lớn và Chỉ cục Thuế thương mại điện tử; phê duyệt
 kế hoạch, chuyên đề kiểm tra của Cục Thuế, Chi cục Thuế doanh nghiệp lớn, Chỉ
@@ -6730,7 +6730,7 @@ c.2) Theo để xuất của Thủ trưởng cơ quan thuế được giao nhi�
 hoạch, chuyên đề kiểm tra;
 c.3) Xử lý trùng lặp trong hoạt động kiểm tra: cơ quan thuế khi điều chỉnh
 kế hoạch, chuyên để phải nêu rõ lý do điều chỉnh và báo cáo cơ quan phê đuyệt
-kê hoạch, chuyên đề đề điêu chỉnh.
+kế hoạch, chuyên đề đề điều chỉnh.
 3) Ngoài việc xây dựng kế hoạch, chuyên đẻ kiểm tra hằng năm tại điểm b
 khoản 4 Điều này, trong năm cơ quan thuế các cấp có thể thực hiện xây dựng kế
 hoạch chuyên đề phát sinh theo yêu cầu của Thủ trưởng cơ quan thuế cùng cấp
@@ -6895,7 +6895,7 @@ kết thúc thời gian kiểm tra tại trụ sở người nộp thuế và ph
 luật, bảo đảm tính chính xác, khách quan, công khai, dân chủ, kịp thời.
 9. Kiểm tra lại trong hoạt động kiểm tra thuế:
 a) Các trường hợp kiểm tra lại được thực hiện theo quy định tại điểm a
-khoản 6 Điêu 22 Luật Quản lý thuê;
+khoản 6 Điều 22 Luật Quản lý thuê;
 b) Cục Thuế kiểm tra lại vụ việc của Thuế tỉnh, Chỉ cục Thuế doanh nghiệp
 lớn, Chi cục Thuế thương mại điện tử; Thuê tỉnh kiểm tra lại vụ việc của Thuế cơ
 SỞ;
@@ -6930,10 +6930,10 @@ trong hoạt động kiểm tra, giám sát việc thực hiện pháp luật v�
 theo quy định tại Nghị định số 217/2025/NĐ-CP của Chính phủ về hoạt động
 kiểm tra chuyên ngành.
 ## Chương VIII
-KÉT NÓI TRAO ĐỎI THÔNG TIN, DỮ LIỆU GIỮA CƠ QUAN THUÊ
-VỚI CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC CÓ THẢM QUYỀN, TỎ
-CHỨC, CÁ NHÂN TRONG TIẾP NHẬN VÀ GIẢI QUYÉT THỦ TỤC
-HÀNH CHÍNH THUÉ CHO NGƯỜI NỘP THUÉ BẰNG PHƯƠNG
+KẾT NỐI TRAO ĐỔI THÔNG TIN, DỮ LIỆU GIỮA CƠ QUAN THUẾ
+VỚI CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC CÓ THẨM QUYỀN, TỎ
+CHỨC, CÁ NHÂN TRONG TIẾP NHẬN VÀ GIẢI QUYẾT THỦ TỤC
+HÀNH CHÍNH THUẾ CHO NGƯỜI NỘP THUẾ BẰNG PHƯƠNG
 THỨC ĐIỆN TỬ
 ### Điều 91. Tiếp nhận và giải quyết hồ sơ khai thuế, hồ sơ khai khoản thu khác cùng với hồ sơ xác định nghĩa vụ tài chính theo cơ chế một cửa liền thông
 khác cùng với hồ sơ xác định nghĩa vụ tài chính theo cơ chế một cửa liền
@@ -6941,7 +6941,7 @@ thông
 1. Cơ quan thuế tiếp nhận hồ sơ xác định nghĩa vụ tài chính điện tử của
 người nộp thuê từ cơ quan quản lý nhà nước có thẩm quyền do Công Dịch vụ
 công quốc gia truyền đến.
-2. Cơ quan thuế căn cứ vào thông tin hồ sơ xác định nghĩa vụ tải chính do
+2. Cơ quan thuế căn cứ vào thông tin hồ sơ xác định nghĩa vụ tài chính do
 Cổng Dịch vụ công quốc gia gửi đến, kiểm tra thông tin trên hồ sơ và thực hiện
 xử lý:
 a) Trường hợp thông tỉn của các cơ quan nhà nước có thẩm quyền chuyển
@@ -7107,7 +7107,7 @@ nước theo quy định;
 đến việc kết nói thì Cục Thuế kiểm tra về các tiêu chuẩn kết nối trước khi ký Phụ
 lục Văn bản thỏa thuận bổ sung;
 đ.4) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đây đủ thông
-tỉn bố sung và hồ sơ kèm theo (nếu có) hoặc ký biên bản kiểm tra với kết quả đạt
+thì bổ sung và hồ sơ kèm theo (nếu có) hoặc ký biên bản kiểm tra với kết quả đạt
 (đối với trường hợp các thay đôi liên quan đến tiêu chuẩn kỹ thuật ảnh hưởng đến
 việc kết nối), Cục Thuế và tổ chức đã tham gia kết nói thống nhất nội dung, thời
 gian ký thỏa thuận bổ sung.
@@ -7372,9 +7372,9 @@ gia nước ngoài thực hiện chương trình, dự án viện trợ phi Chí
 tại Việt Nam;
 đ) Thông tư số 97/2016/TT-BTC ngày 28 tháng 6 năm 2016 của Bộ trưởng
 Bộ Tài chính hướng dẫn hồ sơ, thủ tục miễn thuế thu nhập cá nhân đối với cá nhân
-là người Việt Nam làm việc tại cơ quan đại diện của tổ chúc quốc tế thuộc hệ
+là người Việt Nam làm việc tại cơ quan đại diện của tổ chức quốc tế thuộc hệ
 thông Liên hợp quốc tại Việt Nam;
-e) Thông tư số 84/2016/TT-BTC ngày L7 tháng 6 năm 2016 của Bộ trưởng
+e) Thông tư số 84/2016/TT-BTC ngày 17 tháng 6 năm 2016 của Bộ trưởng
 Bộ Tài chính hướng dẫn thủ tục thu nộp ngân sách nhà nước đối với các khoản
 thuế và thu nội địa;
 g) Thông tư số 19/2021/TT-BTC ngày 18 tháng 3 năm 2021 của Bộ trưởng
@@ -7427,7 +7427,7 @@ e) Các điểm b, c và điểm d khoản 1; khoản 2; khoản 3 Điều 7 Th�
 328/2016/TT-BTC ngày 26 tháng 12 năm 2016 của Bộ trưởng Bộ Tài chính
 hướng dẫn thu và hoàn trả các khoản thu ngân sách nhà nước qua Kho bạc Nhà
 nước, được sửa đổi, bổ sung bởi khoản 7 Điều I Thông tư số 72/2021/TT-BTC
-ngày L7 tháng 8 năm 2021 của Bộ trưởng Bộ Tài chính;
+ngày 17 tháng 8 năm 2021 của Bộ trưởng Bộ Tài chính;
 g) Bỏ cụm từ “hạch toán trừ nợ nghĩa vụ cho người nộp NSNN” tại điểm a
 khoản 3 Điều 11 Thông tư số 328/2016/TT-BTC được sửa đổi, bổ sung bởi khoản
 10 Điều I Thông tư số 72/2021/TT-BTC.

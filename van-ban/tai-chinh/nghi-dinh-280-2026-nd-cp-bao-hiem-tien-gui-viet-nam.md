@@ -84,8 +84,8 @@ Căn cứ Luật Quản lý và đầu tư vốn nhà nước tại doanh nghi�
 
 Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam;
 
-._ Chính phủ ban hành Nghị định quy định về tổ chúc, hoạt động và quản Lý,
-đâu tư vốn nhà nước, giám sát, đánh giá hiệu quả đầu tư vốn tại Bảo hiểm tiên
+._ Chính phủ ban hành Nghị định quy định về tổ chức, hoạt động và quản lý,
+đầu tư vốn nhà nước, giám sát, đánh giá hiệu quả đầu tư vốn tại Bảo hiểm tiền
 gửi Việt Nam.
 
 ## Chương I

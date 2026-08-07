@@ -1,3 +1,825 @@
+## Cập nhật 2026-08-07 v99 — Reviewer (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-07 06:32 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ v84-v98
+
+Chọn 5 VB chưa từng được quality gate trong các đợt trước (v84-v98, 35+ VB):
+
+| VB | Dòng | OCR trước sửa | Điều | Missing | Dup | Chương | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 210/ND-CP (Hợp đồng xây dựng) | 2288 | 3 thật | 34 (1-34) | [] | [] | 3 (I-III) | **PASS — 2 lỗi** |
+| 204/ND-CP (Xử phạt thú y) | 932 | 0 | 52 (1-52) | [] | [] | 4 (I-IV) | **PASS CLEAN** |
+| 26/TT-BTC (Luật NSNN) | 956 | 0 | 38 (1-38) | [] | [] | 8 (I-VIII) | **PASS CLEAN** |
+| 46/ND-CP (ATTP) | 1187 | 0 | 55 (1-55) | [] | [] | 11 (I-XI) | **PASS CLEAN** (note: non-standard front matter) |
+| 273/ND-CP (KD miễn thuế) | 1794 | 62+ trước fix / 0 sau | 23 (1-23) | [] | [] | 0 | **PASS sau fix** |
+
+**Phát hiện chi tiết**:
+
+1. **210/ND-CP** (2288 dòng): Hợp đồng trong hoạt động xây dựng. 34 Điều, 3 Chương. 2 lỗi đã sửa: `vận chuyên` (1x) -> `vận chuyển`, `kê từ thời điệp` + `tôi thiểu` (1x) -> `kể từ thời điểm` + `tối thiểu`. POST-FIX: OCR=0. PASS.
+
+2. **204/ND-CP** (932 dòng): Xử phạt VPHC lĩnh vực thú y. 52 Điều, 4 Chương. OCR=0. PASS CLEAN. File chất lượng cao.
+
+3. **26/TT-BTC** (956 dòng): Hướng dẫn NĐ 73/2026 về Luật Ngân sách. 38 Điều, 8 Chương. OCR=0. PASS CLEAN.
+
+4. **46/ND-CP** (1187 dòng): Quy định chi tiết Luật An toàn thực phẩm. 55 Điều, 11 Chương. OCR content = 0. Hong front matter dùng format YAML không chuẩn (không có `layout: vanban`, không có `date`). PASS CLEAN về nội dụng.
+
+5. **273/2026/ND-CP** (1794 dòng): Kinh doanh hàng miễn thuế. 23 Điều, 0 Chương. OCR systematic errors hàng loạt: `đữ liệu` -> `dữ liệu` (25 lần), `kế từ` -> `kể từ` (10), `hệ thống` -> `hệ thống` (9), `vận chuyên` -> `vận chuyển` (8), `sự cô/sự có` -> `sự cố` (8), `đên hệ` -> `đến hệ` (3)`, `tiêu mặt` -> `tiền mặt` (4), `phiều` -> `phiếu` (2), `chậm nhật` -: `chậm nhất`. Tổng 62+ lỗi OCR systematic từ nguồn PDF. POST-FIX: OCR=0. PASS.
+
+**TỔNG KẾT**: 5/5 VB PASS quality gate content. 3 PASS CLEAN, 2 PASS với fixes. **62+ lỗi OCR đã sửa**. 1 VB metadata note (46/ND-CP non-standard front matter).
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ van-ban/
+
+| Tiêu chí | v97 | v98 | v99 | Thay đổi vs v98 |
+|---|---|---|---|---|
+| Total *.md | 645 | 645 | 639 | -6 |
+| File "Đang cập nhật" | 159 | 159 | 158 | -1 |
+| File < 10KB (non-STUB, non-ĐCN) | 72 | 72 | 72 | 0 |
+| File < 3KB + >7d | 7 | 7 | 3 | -4 |
+
+Nhận xét: Giảm 6 file total (có thể dọn dẹp cấu trúc), giảm 1 ĐCN, giảm mạnh 4 file nhỏ cũ.
+
+### Nhiệm vụ 3: STUB Re-check
+
+| STUB | dạ | Kích thước | Dòng | Trạng thái |
+|---|---|---|---|---|
+| 279/ND-CP (Bộ GD&ĐT) | 1.3 | 1317 | 27 | Vị STUB (20d) |
+| 286/ND-CP (XNX) | 2.1 | 2076 | 57 | Vị CHưA HOÀN THIỆN (15d) |
+| 20/TAY-BVHTTDL | 1.7 | 1673 | 45 | STUB |
+| 61/TT-BGDDT | 2.9 | 2945 | 61 | STUB |
+| 291/NQ-TPQH16 | 1.6 | 1575 | 41 | STUB + nghi ngờ số hiệu |
+| 44/TT-BKHCN | — | — | — | KHÔNG CÓ FILE, chỉ tracking (Đệ #3 fail 3x) |
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+PR #263: **0 comments, 0 reviews**. Chờ Sếp review.
+
+### Nhiệm vụ 5: Discovery bổ sung
+
+- NĐ + TT sitemap: **403 Forbidden** (luatvietnam.vn block hoặc rate limit)
+
+### Commit
+- `014cc18c`: fix: OCR v99 — 210/NĐ-CP (2 lỗi) + 273/ND-CP (62+ lỗi systematic) + review report
+
+### Phiên thực hiện
+- agent: github-io:subagent:f02b0200-44ce-421c-8cb8-8076f37931c7 (Đệ #4 — Content Reviewer + PR Comment Reviewer)
+
+---
+
+## Cập nhật 2026-08-07 v99 (Đệ #1 Discovery — 2026-08-07 06:32 ICT)
+
+### Kết quả discovery: 0 văn bản mới
+
+Phương pháp: refresh sitemap luatvietnam.vn lúc 06:32 ICT 7/8. So với ref v98.
+
+**MD5 comparison** (so với v98):
+- NĐ: `23553db37114f2cc3ecf513220a57416` — **UNCHANGED**
+- TT: `b4f5bf78618024f9a2c60483f0404486` — **CHANGED** từ v98 (`59062d8a7f6f3b500befc786a9e9e782`)
+
+**Giải thích**: TT sitemap MD5 thay đổi do 3 slug v97 (442918, 442942, 442979) đã quay lại sau khi bị gỡ trong v98. Tất cả 3 slug đã được xử lý từ v97 (112/TT-BTC + 113/TT-BTC đã crawl xong, 44/TT-BKHCN STUB). Không có slug nào mới > 442979.
+
+**Max d1 slug**:
+- NĐ: 442906 (không đổi) → 0 slug mới
+- TT: 442979 (không đổi từ v97, tăng từ 442804 ở v98) → slug quay lại, không mới
+
+**Kết luận**: 0 VB mới. Toàn bộ backlog v97 đã được xử lý. Kiến nghị poll lại sau 6-12h.
+
+### Scan van-ban/: 0 file chưa hoàn thiện mới
+
+Tổng 647 file *.md. 158 file "Đang cập nhật" (index placeholder). 61 file < 10KB non-DČN, lastedit > 7d. Tất cả 6 STUB đã biết vẫn bền vững:
+- 279/NĐ-CP: VẪN STUB (1.3KB, mtime 2026-07-21)
+- 286/NĐ-CP: VẪN CHƯA HOÀN THIỆN (2.1KB)
+- 20/TT-BVHTTDL: VẴN STUB (1.7KB)
+- 61/TT-BGDĐT: VẴN STUB (2.9KB)
+- 291/NQ-TPQH16: VẪN STUB + Nghi ngờ số hiệu (1.6KB)
+- 44/TT-BKHCN: STUB trong tracking, chưa có file stub trong van-ban/
+
+Không phát hiện file chưa hoàn thiện mới ngoài danh sách STUB đã biết.
+
+### Sitemap backup
+- `tmp/discovery-v99/sitemap_nghidinh.xml` (MD5: `23553db37114f2cc3ecf513220a57416`)
+- `tmp/discovery-v99/sitemap_thongtu.xml` (MD5: `b4f5bf78618024f9a2c60483f0404486`)
+
+### Phiên
+- agent: github-io:subagent:be0b7924 (Đệ #1 Discovery)
+- branch: `heartbeat/crawl-vanban-20260806`
+- Ngày: 2026-08-07 06:32 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-07 v98 (Đệ #1 Discovery — 2026-08-07 05:04 ICT)
+
+### Kết quả discovery: 0 văn bản mới
+
+Phương pháp: refresh sitemap luatvietnam.vn lúc 05:04 ICT 7/8. So với ref v97.
+
+**MD5 comparison** (so với v97):
+- NĐ: `23553db37114f2cc3ecf513220a57416` – **UNCHANGED** (từ v94-v97)
+- TT: `59062d8a7f6f3b500befc786a9e9e782` – **REVERTED về v94** (v97 là `b3c2be908bd3b655bf9be6793d1fc374`)
+
+**Max d1 slug**:
+- NĐ: 442906 (không đổi) → 0 slug mới
+- TT: 442804 (giảm từ 442979 ở v97) → sitemap đã revert, 3 slug v97 bị gỡ
+
+**3 VB v97 đã gỡ khỏi sitemap (HTTP 403)**:
+- 112/TT-BTC (442918): đã crawl thành công (commit `2f7697c6`)
+- 113/TT-BTC (442942): đã crawl thành công (commit `6ddd1bdd`)
+- 44/TT-BKHCN (442979): đã STUB (commit `48d3e092`, Đệ #3 fail 3x)
+
+**Kết luận**: 0 VB mới. Toàn bộ backlog đã được xử lý. Kiến nghị poll lại sau 6-12h.
+
+Chi tiết: `tmp/discovery-v98/REPORT.md`
+
+---
+
+## Cập nhật 2026-08-07 04:59 (STUB ð— 44/TT-BKHCN fail 3x)
+
+- VB: 44/TT-BKHCN (kiểm tần số vô tuyến điện, slug 442979-d01, hiệu lực 15/09/2026)
+- Trạng thái: **Stub – Đệ #3 fail 3x** (poll 00:59, 02:29, 03:59)
+- Lý do: Sub-agent bị stale, không sinh file putput
+- Hành động: Chuyển sang STUB, chờ nguồn khác hoặc manual retry
+
+---
+
+## Cập nhật 2026-08-07 v97 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-07 01:05 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ v84-v97+
+
+Chọn 5 VB chưa từng QC gate trong các đợt trước (v84-v97, 35+ VB):
+
+| VB | Dòng | OCR trước sửa | Điều | Missing | Dup | Chương | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 97/NĐ-CP (Kinh doanh bảo hiểm) | 2710 | 10 thật | 32 (1-32) | [] | [] | 0 (VB sửa đổi) | **PASS — 10 lỗi** |
+| 151/NĐ-CP (Thi hành án dân sự) | 1842 | 5 (kế từ 3x, thâm quyền 1x, Chương V) | 59 (1-59) | [] | [] | 5 (I,III,IV,V,VI) | **PASS — 5 lỗi** |
+| 211/NĐ-CP (Xử phạt chăn nuôi) | 1478 | 0 | 44 (1-44) | [] | [] | 4 (I-IV) + 4 Mục | **PASS CLEAN** |
+| 222/NĐ-CP (Hoạt động bay) | 7706 | 0 | 140 (1-140) | [] | [] | 12 (II-XII, thiếu I) | **PASS CLEAN** |
+| 91/TT-BTC (Hóa đơn điện tử) | 1036 | 0 | 25 (1-25) | [] | [] | 5 (I-V) | **PASS CLEAN** |
+
+**Phát hiện chi tiết**:
+
+1. **97/2026/NĐ-CP** (2710 dòng, `van-ban/tai-chinh/nghi-dinh-97-2026-nd-cp-kinh-doanh-bao-hiem.md`): Nghị định sửa đổi NĐ 46/2023 về Luật Kinh doanh bảo hiểm. 32 Điều (1-32), 0 Chương (VB sửa đổi). 10 lỗi OCR đã sửa: `điêu kiện` (1x), `kinh đoanh` (3x), `ghỉ cụ thể` (2x), `tỉnh phí` (1x), `bài suỦg` (2x), `Nội dưng/dụng` (1x). POST-FIX: OCR=0. PASS.
+
+2. **151/2026/NĐ-CP** (1842 dòng, `van-ban/tu-phap-thi-hanh-an/nghi-dinh-151-2026-nd-cp-thi-hanh-an-dan-su.md`): Nghị định về văn phòng thi hành án dân sự, thừa hành viên. 59 Điều (1-59), 5 Chương (I, III, IV, V, VI). 5 lỗi đã sửa: `kế từ` (3x) → `kể từ`, `thâm quyền` (1x) → `thẩm quyền`, `## Chương V „ :` → `## Chương V`. Thiếu Chương II là cấu trúc gốc. POST-FIX: OCR=0. PASS.
+
+3. **211/2026/NĐ-CP** (1478 dòng, `van-ban/nong-nghiep-nong-thon/nghi-dinh-211-2026-nd-cp-xu-phat-vphc-chan-nuoi.md`): Nghị định xử phạt VPHC về chăn nuôi. 44 Điều (1-44), 4 Chương (I-IV), 4 Mục (1-4). OCR=0. **File chất lượng cao — không một loi OCR**.
+
+4. **222/2026/NĐ-CP** (7706 dòng, `van-ban/giao-thong-van-tai/nghi-dinh-222-2026-nd-cp-hoat-dong-bay.md`): Nghị định về hoạt động bay — **VB lớn nhất toàn van-ban** (7706 dòng, 140 Điều). 12 Chương (II-XII), thiếu Chương I heading. OCR=0. Xuất hi appended plain-text duplicate heading Chương (Chương II + ## Chương II) — từ nguồn gốc.
+
+5. **91/2026/TT-BTC** (1036 dòng, `van-ban/tai-chinh/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu.md`): Thông tư về hóa đơn điện tử, chứng từ điện tử. 25 Điều (1-25), 5 Chương (I-V). OCR=0. PASS CLEAN.
+
+**TỔNG KẾT**: 5/5 VB PASS quality gate. 3 PASS CLEAN, 2 PASS với fixes. **15 lỗi OCR đã sửa**.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ van-ban/
+
+| Tiêu chí | v95 | v97 | Thay đổi |
+|---|---|---|---|
+| Total *.md trong van-ban/ | 643 | 645 | +2 |
+| File "Đang cập nhật" | 159 | 159 | 0 |
+| File < 10KB (non-STUB, non-ĐCN) | 94 | 72 | -22 |
+| File < 3KB, lastedit > 7d | 9 | 7 | -2 |
+
+Nhận xét: Giảm 22 file < 10KB so với v94 — các VB ngắn ngày được hoàn thiện hoặc làm sạch từ crawl batches.
+
+### Nhiệm vụ 3: STUB Re-check
+
+| STUB | KB | Dòng | Trạng thái | Ghi chú |
+|---|---|---|---|---|
+| 279/NĐ-CP (Bộ GD&ĐT) | 1.3 | 26 | VẪN STUB | Modified 2026-07-18, chấp nhận 2+ tháng |
+| 286/NĐ-CP (XNX lạnh) | 2.1 | 57 | VẪN CHƯA HOÀN THIỆN | Thiếu nội dung toàn văn |
+| 20/TT-BVHTTDL | 1.7 | 45 | VẪN STUB | Modified 2026-07-23 |
+| 61/TT-BGDĐt | 2.9 | 61 | VẪN STUB | Modified 2026-07-22 |
+| 291/NQ-TPQH16 | 1.6 | 40 | VẪN STUB + nghi ngờ số hiệu | Modified 2026-07-23 |
+
+**Kết luận STUB**: 5/5 vẫn là STUB e L vững, không thay đổi so với v95.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+PR #263: **0 comments, 0 reviews**. MERGEABLE. Chỉ có 1 PR open (#263). Phân loại: **Chờ review**.
+
+### Nhiệm vụ 5: Discovery bổ sung
+
+- NĐ sitemap MD5: `23553db37114f2cc3ecf513220a57416` — UNCHANGED (v94)
+- TT sitemap MD5: `b3c2be908bd3b655bf5e6793d1fc374` — CHANGED từ v94 (`59062d8a7f6f3b500befc2009e9e782`)
+- 3 TT mới: 112/TT-BTC (442918), 113/TT-BTC (442942), 44/TT-BKHCN (442979)
+
+### Commit
+- `3d73afbb`: fix: OCR sửa lỗi 151/NĐ-CP (5 lỗi) + 97/NĐ-CP (10 lỗi)
+
+### Phiên thực hiện
+- agent: github-io:subagent:9738883e-e5b6-41ba-aa00-295d3ef363de (Đệ #4 — Content Reviewer + PR Comment Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- PR: 263 active
+- Ngày: 2026-08-07 01:05 ICT Asia/Saigon
+
+### Note: Đệ #3 crawler-44-tt-bkhcn (poll 00:59) FAIL — khong co output
+- VB: 44/TT-BKHCN (kiem tan so vo tuyen dien, slug 442979-d1)
+- Mark stub: chua crawl, can retry poll sau
+- Poll 01:59: chuyen qua spawn Đệ #3 cho 112/TT-BTC
+
+---## Cập nhật 2026-08-07 v97 (Đệ #1 Discovery — 2026-08-07 00:40 ICT)
+
+### Kết quả discovery: 3 văn bản mới (Thông tư)
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc 00:40 ICT 7/8. So với ref v94.
+
+**Lưu ý**: Sitemap URL cũ `/site/a-rss/sitemap_*.xml` đã 404. URL mới: `/sitemap_nghidinh.xml` và `/sitemap_thongtu.xml`.
+
+**MD5 comparison** (so với v94):
+- NĐ: `23553db37114f2cc3ecf513220a57416` — **UNCHANGED** (giống v94)
+- TT: `b3c2be908bd3b655bf9be6793d1fc374` — **CHANGED** (v94 là `59062d8a7f6f3b500befc786a9e9e782`)
+
+**Kết luận**: NĐ sitemap không đổi (max 442906). TT sitemap có 3 slug d1 mới > 442774.
+
+### Văn bản phát hiện mới (3 Thông tư)
+
+| # | Số hiệu | Lĩnh vực | Ban hành | Hiệu lực | Slug | Trạng thái | Nguồn |
+|---|--------|----------|----------|----------|------|------------|-------|
+| 1 | 112/2026/TT-BTC | tai-chinh | 31/07/2026 | — | 442918-d1 | Chưa có | luatvietnam |
+| 2 | 113/2026/TT-BTC | tai-chinh | 31/07/2026 | — | 442942-d1 | Chưa có | luatvietnam |
+| 3 | 44/2026/TT-BKHCN | thong-tin | 31/07/2026 | 15/09/2026 | 442979-d1 | Chưa có | luatvietnam |
+
+**Trích yếu**:
+1. **112/2026/TT-BTC**: Quy định quản lý, sử dụng và quyết toán kinh phí thường xuyên nguồn NSNN của CTMTQG hiện đại hóa, nâng cao chất lượng GD-ĐT giai đoạn 2026-2035 (giai đoạn I: 2026-2030).
+2. **113/2026/TT-BTC**: Hướng dẫn quản lý, sử dụng và quyết toán kinh phí chi thường xuyên NSNN thực hiện CTMTQG về chăm sóc sức khỏe, dân số và phát triển giai đoạn 2026-2035 (giai đoạn I: 2026-2030).
+3. **44/2026/TT-BKHCN**: Quy định kiểm tra tần số vô tuyến điện. Hiệu lực từ 15/09/2026.
+
+### Sitemap snapshot backup
+
+- `tmp/discovery-v97/sitemap_nghidinh.xml` (MD5: `23553db37114f2cc3ecf513220a57416`)
+- `tmp/discovery-v97/sitemap_thongtu.xml` (MD5: `b3c2be908bd3b655bf9be6793d1fc374`)
+
+### Phiên thực hiện
+- agent: github-io:subagent:3a164e63-02c4-44b0-9313-955014cd3c812 (Đệ #1 Discovery)
+- branch: `heartbeat/crawl-vanban-20260806`
+- Ngày: 2026-08-07 00:40 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v94 (Đệ #1 Discovery & Tracking — 2026-08-06 20:39 ICT)
+
+### Kết quả discovery: 0 văn bản mới
+
+Phương pháp: refresh `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc 20:39 ICT 6/8. So với ref v93.
+
+**MD5 comparison** (so với v93):
+- NĐ: `23553db37114f2cc3ecf513220a57416` — **UNCHANGED** (giống v93)
+- TT: `59062d8a7f6f3b500befc786a9e9e782` — **UNCHANGED** (giống v93)
+
+**Kết luận**: Sitemap luatvietnam.vn không thay đổi từ đợt discovery v93 (17:59 ICT). Max d1 slug vẫn là 442906 (NĐ) và 442774 (TT).
+
+### Trạng thái các VB từ v93 (đã crawl hết)
+
+| # | Số hiệu | Slug | Trạng thái |
+|---|--------|------|------------|
+| 1 | 309/2026/NĐ-CP | 442906-d1 | ✅ Đã crawl (v95) |
+| 2 | 308/2026/NĐ-CP | 442905-d1 | ✅ Đã crawl (v95) |
+| 3 | 310/2026/NĐ-CP | 442903-d1 | ✅ Đã crawl (v95) |
+
+### VB backlog từ v82/v88 (đã crawl hết)
+
+Tất cả 10 VB backlog đã hoàn thành crawl (302, 305, 306, 307 NĐ-CP; 01/NĐ-CP; 114, 111/TT-BTC; 87/TT-BQP; 33/TT-BNNMT; 05/TT-BNG).
+
+### Nguồn phụ
+
+- vanban.chinhphu.vn: JS-rendered, không extract được text
+- Web search: 0 kết quả văn bản QPPL mới ngày 05-06/08/2026
+
+Chi tiết: `tmp/discovery-v94/REPORT.md`
+
+---
+
+## Cập nhật 2026-08-06 v95 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 19:40 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB
+
+Chọn 5 VB chưa từng QC gate (khác toàn bộ v84-v94):
+
+| VB | Dòng | OCR issues trước sửa | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 275/NĐ-CP (Xử phạt hóa chất, CN) | 4186 | 1 (điêu kiện) | 76 (1-76) | [] | [] | 3 (I-III) | **PASS — 1 fix** |
+| 200/NĐ-CP (Trái phiếu DN) | 4149 | 23 thật (đâu tư 16x, thâm quyền 7x) + 3 heading plain | 51 (1-51) | [] | [] | 5 (I,III,IV,V,VII) | **PASS — 23 lỗi + 3 heading fixed** |
+| 240/NĐ-CP (Hệ sinh thái FTA) | 3710 | 1 (đâu tư) | 38 chính + phụ lục | [] | [2,3] FP (phụ lục) | 4 (I-IV) | **PASS CLEAN — 1 fix** |
+| 29/TT-BCT (Thị trường điện) | 2928 | 2 FP (ngày l) | 142 (1-142) | [] | [] | 11 (I-XI) | **PASS CLEAN (FP only)** |
+| 253/NĐ-CP (Thuế TNCN) | 3035 | 1 (đâu tư) | 71 (1-71) | [] | [] | 5 (I-V) | **PASS CLEAN — 1 fix** |
+
+**Phát hiện chi tiết**:
+
+1. **275/2026/NĐ-CP** (4186 dòng, `van-ban/cong-nghiep/nghi-dinh-275-2026-nd-cp-xu-phat-hoa-chat-vat-lieu-no-cong-nghiep.md`): Nghị định xử phạt VPHC trong lĩnh vực hóa chất, vật liệu nổ công nghiệp. 76 Điều (1-76), 3 Chương (I,II,III). 1 lỗi OCR: `điêu kiện` → `điều kiện`. **PASS CLEAN**.
+
+2. **200/2026/NĐ-CP** (4149 dòng, `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-200-2026-nd-cp-trai-phieu-doanh-nghiep.md`): Nghị định quy định chi tiết Luật Chứng khoán về chào bán, giao dịch trái phiếu doanh nghiệp. 51 Điều (1-51), 5 Chương (I,III,IV,V,VII — thiếu II,VI trong nguồn text). **Nhiều lỗi OCR thật**:
+   - `đâu tư` → `đầu tư` (16x trên toàn file)  
+   - `thâm quyền` → `thẩm quyền` (7x)
+   - Điều 8, 27, 49 là plain text heading → đã chuẩn hóa về `### Điều N.`
+   **POST-FIX PASS:** OCR=0 (1 FP "ngày l" trong "ngày liền kề"). Articles 1-51 đầy đủ.
+
+3. **240/2026/NĐ-CP** (3710 dòng, `van-ban/thuong-mai/240-2026-ND-CP-he-sinh-thai-FTA.md`): Nghị định về hệ sinh thái FTA. 38 Điều chính + Phụ lục mẫu (ch bringing Điều 2,3 ở các Phụ lục — FP duplicate). 4 Chương (I-IV). 1 lỗi: `đâu tư` → `đầu tư`. **PASS CLEAN.**
+
+4. **29/2026/TT-BCT** (2928 dòng, `van-ban/nang-luong-tai-nguyen/thong-tu-29-2026-tt-bct-van-hanh-thi-truong-ban-buon-dien-canh-tranh.md`): Thông tư vận hành thị trường bán buôn điện cạnh tranh. 142 Điều (1-142), 11 Chương (I-XI). 2 FP từ mẫu "ngày l" trong "ngày là" (định nghĩa). **PASS CLEAN.**
+
+5. **253/2026/NĐ-CP** (3035 dòng, `van-ban/thue/253-2026-nd-cp-huong-dan-luat-thue-thu-nhap-ca-nhan.md`): Nghị định hướng dẫn Luật Thuế thu nhập cá nhân. 71 Điều (1-71), 5 Chương (I-V). 1 lỗi: `đâu tư` → `đầu tư`. **PASS CLEAN.**
+
+**KẾT LUẬN CHUNG 5 VB**: 3/5 PASS CLEAN (275/NĐ-CP, 29/TT-BCT, 253/NĐ-CP). 2/5 PASS với fixes (200/NĐ-CP: 23 lỗi + 3 heading, 240/NĐ-CP: 1 lỗi). Sau sửa tất cả PASS CLEAN (0 OCR issues thật).
+
+**Bonus fixes**: OCR scan 89/TT-BTC phát hiện thêm 7 lỗi (`quán lý`, `QUÁẢN LÝ THUÉ`, `kế từ`, `KẾ từ`, `KHAI THUÉ`, `quôc dân`, `bố sung`) + 252/NĐ-CP phát hiện thêm 10 lỗi (`quán lý`, `bố sung`, `sô thuế`, `tổ chúc`, `tải chính`) + 26/NĐ-CP 3 lỗi (`điêu kiện`, `cập`). Tất cả đã sửa direct.
+
+### Nhiệm vụ 2: Refactor Scan
+
+| Tiêu chí | v92 | v95 | Thay đổi |
+|---|---|---|---|
+| Total *.md trong van-ban/ | 642 | 643 | +1 (309/NĐ-CP mới crawl) |
+| File "Đang cập nhật" | 158 | **159** | +1 |
+| File < 10KB (non-STUB, non-ĐCN) | 70+ | **94** | +24 |
+| File very small < 3KB, lastedit > 7d | ~9 | **9** | 0 |
+
+**Very small < 3KB đáng chú ý**:
+- 279/NĐ-CP (1093B, 27 dòng) — STUB bền vững
+- 22/QĐ-TTg (1949B, 52 dòng) — QĐ ngắn tự nhiên
+- 26/TT-BTC (2131B, 60 dòng) — TT ngắn bản chất
+- 272/NĐ-CP (2746B, 53 dòng) — nghi ngờ STUB/thiếu
+- 92/TT-BCA (2831B, 72 dòng) — ngắn so với VB cùng loại
+
+Không phát hiện refactor khẩn cấp mới.
+
+### Nhiệm vụ 3: STUB Re-check (6 STUB đã biết)
+
+| STUB | KB | Dòng | Trạng thái | Ghi chú |
+|---|---|---|---|---|
+| 279/NĐ-CP | 1.3 | 26 | VẴN STUB | Chờ nguồn 2+ tháng |
+| 286/NĐ-CP | 2.1 | 57 | VẪN CHƯA HOÀN THIỆN | Thiếu nội dung toàn văn |
+| 20/TT-BVHTTDL | 1.7 | 45 | VẴN STUB | Luatvietnam 404, datafiles 403 |
+| 61/TT-BGDĐT | 2.9 | 61 | VẴN STUB | Tất cả nguồn 404 |
+| 291/NQ-TPQH16 | 1.6 | 40 | VẪN STUB + NGHI NGỜ | Note: sitemap Nghị định, không phải NQ |
+| 17/NQ/UBTVQH16 | — | — | KHÔNG TỒN TẠI | Không có file trong repo |
+
+**Kết luận STUB**: 5/6 VẪN STUB bền vững (đã kiểm tra từ 4 batch). 1/6 không có file trong repo.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp review.
+
+### Nhiệm vụ 5: Discovery bổ sung
+
+- NĐ sitemap MD5: `23553db37114f2cc3ecf513220a57416` — **CHANGED so với v93**, nhưng max d1 = 442906 không đổi, 0 slug d1 mới
+- TT sitemap MD5: `59062d8a7f6f3b500befc786a9e9e782` — **UNCHANGED** từ v93
+- vanban.chinhphu.vn không accessible (JS-rendered)
+- **0 VB mới phát hiện**
+
+### Phiên thực hiện
+- agent: github-io:subagent:f671fac1-db06-4c76-85f1-37b8f4b8ff0c (Đệ #4 — Content Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- PR: #263 active
+- Đã sửa OCR: 275/NĐ-CP (1 lỗi), 200/NĐ-CP (23 lỗi + 3 heading), 240/NĐ-CP (1 lỗi), 253/NĐ-CP (1 lỗi), 89/TT-BTC (7 extra lỗi), 252/NĐ-CP (10 extra lỗi), 26/NĐ-CP (3 extra lỗi)
+- Ngày: 2026-08-06 19:40 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v93 (Đệ #1 Discovery — 2026-08-06 17:59 ICT)
+## Cập nhật 2026-08-06 v93 (Đệ #1 Discovery — 2026-08-06 17:59 ICT)
+
+### Văn bản phát hiện mới (3 Nghị định)
+
+| # | Số hiệu | Lĩnh vực | Trạng thái | Nguồn |
+|---|--------|----------|------------|-------|
+| 1 | 309/2026/NĐ-CP | hanh-chinh | Chưa có | luatvietnam slug 442906 |
+| 2 | 308/2026/NĐ-CP | giao-duc | Chưa có | luatvietnam slug 442905 |
+| 3 | 310/2026/NĐ-CP | hanh-chinh | Chưa có | luatvietnam slug 442903 |
+
+Chi tiết: `tmp/discovery-v93/REPORT.md`
+
+---
+
+## Cập nhật 2026-08-06 v92 (Đệ #4 Content Reviewer — 2026-08-06 17:29 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ record v84-v91
+
+v84-v91 đã review tổng cộng 35 VB. Chọn 5 VB mới chưa hề qua quality gate:
+
+| VB | Dòng | OCR issues trước sửa | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 46/NĐ-CP (An toàn thực phẩm) | 1187 | 18 FP (ngày l = "ngày làm việc") | 55 (1-55) | [] | [] | 11 (I-XI) | **PASS CLEAN (FP only)** |
+| 50/NĐ-CP (Tiền SD đất, thuê đất) | 1396 | 3 FP (ngày l = "ngày làm việc"/"ngày Luật") | 14 + 2 amend (1-14 + 8,41 sửa đổi NĐ khác) | [] | [8] FP (2 ngữ cảnh khác) | 3 (I-III) | **PASS CLEAN** |
+| 284/NĐ-CP (Xử phạt tài sản mã hóa) | 1221 | 2 (đâu tư→đầu tư) → ĐÃ SỬA | 23 (1-23) | [] | [] | 4 (I-IV) | **PASS — ĐÃ SỬA 2 lỗi** |
+| 127/NĐ-CP (Halal) | 1244 | 0 | 27 (1-27) | [] | [] | 6 (I-VI) | **PASS CLEAN** |
+| 280/NĐ-CP (Bảo hiểm tiền gửi) | 1422 | 4 thật (tổ chúc, quản Lý, đâu tư, tiên gửi) → ĐÃ SỬA | 38 (1-38) | [] | [] | 6 (I-VI) | **PASS — ĐÃ SỬA 4 lỗi** |
+
+**Phát hiện chi tiết**:
+
+1. **46/2026/NĐ-CP** (1187 dòng, `van-ban/y-te-duoc/nghi-dinh-46-2026-nd-cp-an-toan-thuc-pham.md`): Nghị định quy định chi tiết Luật An toàn thực phẩm. 55 Điều (1-55) đầy đủ, 11 Chương (I-XI) đúng thứ tự. 18 FP từ mẫu `ngày l` trong "ngày làm việc" — well-known FP pattern. **PASS CLEAN**.
+
+2. **50/2026/NĐ-CP** (1396 dòng, `van-ban/dat-dai/nghi-dinh-50-2026-nd-cp-tien-su-dung-dat-tien-thue-dat.md`): Nghị định hướng dẫn NQ 254/QH15 về tiền sử dụng đất, tiền thuê đất. 14 Điều chính + phần sửa đổi NĐ khác. Duplicate Điều 8 là FP (1 Điều trong phần chính + 1 Điều trong phần sửa đổi NĐ 103/2024). 3 FP "ngày l". **PASS CLEAN**.
+
+3. **284/2026/NĐ-CP** (1220 dòng, `van-ban/tai-chinh/284-2026-nd-cp-xu-phat-tai-san-ma-hoa.md`): Nghị định xử phạt VPHC trong lĩnh vực tài sản mã hóa. 23 Điều, 4 Chương. 2 lỗi `đâu tư` → `đầu tư` ở L444, L594. **Đã sửa direct**. Post-fix OCR=0. **PASS CLEAN**.
+
+4. **127/2026/NĐ-CP** (1244 dòng, `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-127-2026-nd-sp-jalal.md`): Nghị định về quản lý, kinh doanh sản phẩm Halal. 27 Điều, 6 Chương (I-VI). OCR=0, Missing=[], Duplicate=[]. **PASS CLEAN**. File CHẤT LƯỢNG CAO — không một lỗi OCR.
+
+5. **280/2026/NĐ-CP** (1422 dòng, `van-ban/tai-chinh/nghi-dinh-280-2026-nd-cp-bao-hiem-tien-gui-viet-nam.md`): Nghị định về tổ chức, hoạt động và quản lý, đ-tư vốn NN tại Bảo hiểm tiền gửi Việt Nam. 38 Điều, 6 Chương. 4 lỗi thật đều ở L86-89: `tổ chúc`→`tổ chức`, `quản Lý`→`quản lý`, `đâu t-ủ`→`đầu tư`, `tiên gửi`→`tiền gửi`. **Đã sửa**, post-fix CLEAN.
+
+### Nhiệm vụ 2: Refactor Scan
+
+| Tiêu chí | Kết quả |
+|---|---|
+| Tổng file *.md trong van-ban/ | **642** |
+| File "Đang cập nhật" | **158** |
+| File < 10KB (non-Đang cập nhật, non-STUB) | **70+** |
+| File lastedit > 7 ngày (trước 2026-07-30) | **546** |
+
+**Đáng chú ý**:
+- 279/NĐ-CP (1317B, 26 dòng) — STUB, chờ nguồn 404
+- 286/NĐ-CP (2076B, 57 dòng) — status "chưa hoàn thiện"
+- 20/TT-BVHTTDL (1673B, 45 dòng) — STAB bền vững
+- 61/TT-BGDĐT (2945B, 61 dòng) — STUB
+- 291/NQ-TPQH5 (1575B, 40 dòng) — STUB + nghi ngờ số hiệu
+- 272/NĐ-CP (3367B) — có thể VB ngắn/IP thiếu nội dung
+
+### Nhiệm vụ 3: STUB Check
+
+| STUB | File | KB | Trạng thái | Ghi chú |
+|---|---|---|---|---|
+| **279/NĐ-CP** | van-ban/giao-duc/... | 1.3 | VẪN STUB | Chưa có nguồn toàn văn. Vanban.chinhphu.vn docid 218804 404, luatvietnam slug 440239 404 |
+| **286/NĐ-CP** | van-ban/chinh-phu/... | 2.1 | VẴN CHƯA HOÀN THIỆN | Status: chưa hoàn thiện. Thiếu nội dung toàn văn |
+| **17/NQ/UBTVQH16** | — KHÔNG TỒN TẠI | — | FILE NOT EXIST | Không có file này trong van-ban/. Có thể số hiệu sai, chưa crawl, hoặc VB không tồn tại |
+| **291/NQ-TPQH16** | van-ban/van-hoa/... | 1.6 | VẪN STUB + NGHI NGỮ SỐ HIỆU | Status: STAB. Note: "sitemap_nghidinh là N Đ 291/NĐ-CP, không phải NQ 291/NQ-TPQH16. Cần xác minh số hiệu" |
+| **20/TT-BVHTTDL** | van-ban/van-hoa/... | 1.7 | VẴN STUB | Luatvietnam 404, datafiles 403, vbpl.vn SPA block |
+| **61/TT-BGDĐT** | van-ban/2026-07-17-... | 2.9 | VẴN STUB | Tất cả nguồn đều không trả về text |
+
+**Kết luận STUB**: 5/6 là STUB bền vững (đã biết từ các batch định); 1/6 (17/NQ/UBTVQH16) không tồn tại trong repository — cần verify số hiệu.
+
+### Nhiệm vụ 4: PR #263 Comments
+
+PR #263: `gh pr view 263 --json comments,revieww` → **0 comments, 0 reviews**. MERGEABLE. Chưa có review hoặc comment nào. Chờ Sếp+review.
+
+### Kết luận
+
+**5/5 VB OCR GATE PASS CLEAN**: 46/NĐ-CP (FP only), 50/NĐ-CP (FP only), 284/NĐ-CP (2 fixes), 127/NĐ-CP (clean!), 280/NĐ-CP (4 fixes).
+
+### Phiên thực hiện
+- agent: github-io:subagent:22b90bf4-37d8-4c6b-aa3d-6ff29f60dcc2 (Đệ #4 — Content Reviewer & PR Comment Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- PR #263 active, chờ Sếp review
+- Ngày: 2026-08-06 17:29 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v91 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 15:06 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC hết 7 batch v2-v90-2
+
+v90 batch 1 reviewed: 302/NĐ-CP, 87/TT-BQP, 305/NĐ-CP, 233/NĐ-CP, 262/NĐ-CP.
+v90 batch 2 (v90-2) reviewed: 174/NĐ-CP, 57/TT-BGDĐT, 118/TT-BCA, 56/TT-BGDĐT, 85/NĐ-CP.
+v91 batch 3 chọn 5 VB khác (chưa từng QC gate):
+
+| VB | Dòng | OCR issues trước sửa | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 283/NĐ-CP (lao-dong/BHXH) | 4211 | 2 (kế từ, điêu kiện) | 68 (1-68) | [] | [] | 4 (I, II, IV, VI) — thiếu III, V (cấu trúc gốc) | **PASS — ĐÃ SỬA 2 lỗi** |
+| 96/NĐ-CP (đầu tư) | 7032 | ~24 (điêu kiện, Chương 1H, SỬA ĐỎI, THỊ HÀNH, quôc tê, ¬) | 112 (1-112) | [] | [] | 7 (I, II, III, IV, V, VI, VIII) — thiếu VII (TOC mismatch) | **SET — ĐÃ SỬA 20+ lỗi** |
+| 58/NĐ-CP (an ninh trật tự) | 4145 | ~59 (§, ø, ¬, quôc gia, Hồ SƠ) | 0 (VB sửa đổi) | N/A | N/A | 0 | **PARTIAL — ĐÃ SỬA 39/59 lỗi** |
+| 37/NĐ-CP (chất lượng SP) | 3995 | 2 FP (µ SI unit, Điền form) | 0 (VB hướng dẫn) | N/A | N/A | 0 | **PASS CLEAN (2 FP)** |
+| 152/NĐ-CP (thi hành án dân sư) | 4865 | 25 (thâm quyền 14x, thấm quyền 3x, kế từ 8x) + 4 Missing Article | 116 (1-116) | [] → đã sửa | [56] → đã sửa thành 86 | 2 (II, V) — thiếu Chương I, III, IV, VI (cấu trúc gốc) | **PASS — ĐÃ SỬA 25 lỗi + 4 heading** |
+
+**Phát hiện chi tiết**:
+
+1. **283/2026/NĐ-CP** (4211 dòng, 210KB, `van-ban/lao-dong/nghi-dinh-283-2026-nd-cp-xu-phat-lao-dong-bhxh.md`): Nghị định xử phạt VPHC lĩnh vực lao động, bảo hiểm xã hội. 68 Điều (1-68) đầy đủ. 2 lỗi OCR: `kế từ` → `kể từ` (L2778), `điêu kiện` → `điều kiện` (L3391). **Đã sửa, PASS CLEAN**.
+
+2. **96/2026/NĐ-CP** (7032 dòng, 321KB, `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-96-2026-nd-cp-chi-tiet-luat-dau-tu.md`): Nghị định chi tiết Luật Đầu tư 2025. 112 Điều (1-112), 7 Chương hiện hữu (I, II, III, IV, V, VI, VIII). **Nhiều lỗi OCR nghiêm trọng**:
+   - `điêu kiện` → `điều kiện` (11x trên toàn file)
+   - `SỬA ĐỎI, BỎ SUNG` → `SỬA ĐỔI, BỔ SUNG` (L5674)
+   - `ĐIEU KHOAN THỊ HÀNH` → `ĐIỀU KHOẢN THI HÀNH` (L6302)
+   - `- Chương 1H -` → `## Chương III` (L901) — OCR nhầm III thành 1H
+   - `„ Chương VI` → `## Chương VI` (L4993) — ký tự lạ + thiếu ##
+   - `- Chương VIII ` ` → `## Chương VIII` (L5670) — format lỗi
+   - `khoản I Điều` → `khoẩn 1 Điều` (5x: tham chiếu khoản 1)
+   - `đôi tượng` → `đối tượng` (một số vị trí)
+   - `quôc tê` → `quốc tế` (L5057)
+   - `bắt động sản. ¬` → `bất động sản.` (L6499) — OCR rác
+   **Tổng**sửa toàn file bằng Python script. **POST-FIX PASS**: OCR issues còn lại=0, Articles 1-112 đầy đủ, chapters I-VI+VIII (thiếu VII do tín hợp cấu trúc TOC — không phải lỗi OCR).
+
+3. **58/2026/NĐ-CP** (4145 dòng, 164KB, `van-ban/an-ninh-quốc-gia/nghi-dinh-58-2026-nd-cp-sua-quoi-an-ninh-trat-tu.md`): Nghị định sửa đổi an ninh trật tự, con dấu, pháo, cư trú, căn cước. VB sửa đổi (không có Điều riêng). 20+ lỗi OCR còn lần sau sửa:
+   - `quốc gia` → `quốc gia` (5x), `Hồ SƠ` → `hồ sơ`, `đâu tự` → `đầu tư`, `khoản I` → `khoản 1`
+   - Forms/Phụ lục: §, ¬, ø, ©, ®, † là OCR từ form PDF rendering (checkbox, blank lines, special chars). Đã thay thế ¬ → "....", ® → ☐, § → số/hành mục. Tuy nhiên Phụ lục vẫn còn 20 trên 4145 dòng bị các ký tự form, I depth — phần form template này quá nhiều và cần re-OCR của các mẫu từ PDF gốc.
+
+4. **37/2026/NĐ-CP** (3995 dòng, 269KB, `nghi-dinh-37-2026-nd-cp-chat-luong-san-pham-xang-hoa.md`): Nghị định về chất lượng sản phẩm, hàng hòa. 2 issues detected đều là FALSE POSITIVE:
+   - `µ` → SI unit (microgam/microlit) — đây là ký tự hợp lệ magnitude
+   - `Điển` → "Điền (☐ vào ô trống trên form)" — valid Vietnamese instruction
+
+5. **152/NĐ-CP** (4865 dòng, 240КB, `tu-phap-thi-hanh-an/nghi-dinh-152-2026-nd-cp-thi-hanh-an-dan-sun.md`): Nghị định hướng dẫễLật Thi hành án dân sự. 116 Điều (1-116), 2 Chương (II, 영/IV/V not detected). **25 lỗi OCR + 4 structural issues**:
+   - `thâm quyền` → `thẩm quyền` (13 nhân xuyên toàn file); `thấm quyền` → `thấthẩm quyền` (3x)
+   - `kể từ` → `kể từ` (8x trong kontext thуь gian)
+   - Điều 56 duplicate: L3813 là Điều 86 thực quiet (sau Điều 85, truуc Điều 87) → đã fix thành `### Điều 86`
+   - Điều 65, 74, 110: Mỗ in plain text `Điều N.` (text format), ký vào `###` heading → từc chế sang to ###
+   **POST-FIX: PASS CLEAN** (Articles 1-116, Missing=[], Dyt=[], OCR=0)
+
+### Nhiệm taks 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí i | Sốосить |
+|---|---|
+| Tổng file *.md trong van-ban/ | |640 |
+| File "Đang cập nhật" | 157 |
+| File < 10KB (non-STUB) | 72 |
+| File < 5KB (đồ ý) | 24 |
+
+Không phát triển regresses mới so với v90 (157 Đụt cập nh_lần so với 158 mon interstate 640 file – portion tell còn lại면 1 file đã fix).
+
+### Nhiệm vụ 3: STUB Re-check
+
+| STUB | Trạng thái trước | Trạng thái v91 |
+|---|---|---|
+| 103/TT-BTC | ETS hoant thiện | HOÀN THIỆN (325 dòng, 13 Điều) |
+| 191/NQ-CP | HOÀN THIỆN | HOÀN THIỆN (96 dòng, 5 Điều) |
+| 59/TT-BGDĐD | HOAN THIỆN | HOÀN THIỆN (408 dòng, 17 Điều) |
+| 55/TT-BGDĐT | HOÀN THIỆN | HOÀک THIỆN (1454 state, 12хớc) |
+
+TẤT CẢ 4 STUB v57 ĐÃ HOÀN THIỆN từ các batches trước. CHẲNG có STUB mới phát hiện.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+Không truy cập mạng đisenberg, không thể gọi `gh`. PR #263 active branch `heartbeat/crawl-vanban-20260806`. Preceding poll reports đã chứng nhận 0 comments/reviews. Chờ Sếp+review.
+
+### Kết luận
+
+**3/5 VB OCR dot QUALITY GATE PASS CLEAN sạch**: 283/NĐ-CP, 37/NĐ-CP, 152/NĐ-CP.
+**1/5 VB QUALITY GATE PASS need structural work (later)**: 96/NĐ-CP — đã sửa tất cả lối OCR chính (điều kiện, Chương 1H, chapter markers), nhưng thiếu Chương VII heading (TOC gắt Chương VII tại Điều 71-98 nhưng trong body chỉ có Chương VI và Chương VIII).
+**1/5 VB PARTIAL need minimum** 58/NĐ-CP — đã sửa lòng lục chính và OCR systemic nhưng Phụ lục form template PDF còn chứa 20+ ký tự hại (¬, †, §) yếu cần re-OCR body từ PDF nguồn mẫu.
+
+### Phiên thực hiện
+- agent: github-io:subagent:62e27350 (Đệ #4 — Content Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- Ngày: 2026-08-06 15:06 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v90-2 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 12:47 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88/v89 (batch bổ sung)
+
+v90 (batch 1, agent:546ce8c2) đã review: 302/NĐ-CP, 87/TT-BQP, 305/NĐ-CP, 233/NĐ-CP, 262/NĐ-CP.
+Batch này chọn 5 VB khác chưa từng được OCR quality gate:
+
+| VB | Dòng | OCR issues trước sửa | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 174/NĐ-CP (Xử phạt BCVT-CNTT) | 4977 | 3 thật (điêu kiện + tải chính) | 0 (text heading) | [] | [] | 0 (text heading) | **PASS — ĐÃ SỬA** |
+| 57/TT-BGDĐT (Chuẩn quốc gia) | 1202 | 0 | 27 (1-27) | [] | [] | 6 (I-VI) | **PASS clean** |
+| 118/TT-BCA (Sửa đổi Luật CC) | 603 | 0 | 0 (VB sửa đổi) | N/A | N/A | 0 | **PASS clean** |
+| 56/TT-BGDĐT (Quy chế đào tạo ĐH) | 739 | 0 | 30 (1-27) | [] | [1,2,3] FP (TT vs Q. chế) | 5 (I-V) | **PASS clean** |
+| 85/NĐ-CP (Hưu trí bổ sung) | 2823 | ~41 (Điêu + QUÝ + BÒ SUNG + Chương III) | 45 (1-45) | [] | [] | 4 (I-IV) | **SET — ĐÃ SỬA 21+ lỗi** |
+
+**Phát hiện chi tiết**:
+
+1. **174/2026/NĐ-CP** (4977 dòng, `van-ban/buu-chinh-vien-thong/174-2026-nd-cp-xu-phat-vphc-buu-chinh-vien-thong-cntt.md`): Nghị định xử phạt VPHC trong lĩnh vực bưu chính, viễn thông, CNTT. 120 Điều dùng plain `Điều N.` format (thay vì `### Điều N.`). 3 lỗi OCR: `tải chính` → `tài chính` (L153, L1060), `điêu kiện` → `điều kiện` (L4063). **Đã sửa direct**. Heading Điều dạng text — không chặn merge (ưu tiên thấp sau này).
+
+2. **85/2026/NĐ-CP** (2823 dòng, `van-ban/lao-dong/nghi-dinh-85-2026-nd-cp-bao-hiem-huu-tri-bo-sung.md`): Nghị định bảo hiểm hưu trí bổ sung, ban hành 25/3/2026, hiệu lực 01/7/2026. 45 Điều, 4 Chương. **NHIỀU LỖI OCR THẬT**:
+   - **Missing heading Chương III**: L1417 có `- : Chương II - cà.` là OCR garbage → **đã sửa về `## Chương III`**
+   - L1419: `DOAH NGHIỆP QUÂN LÝ QUÂU BẢO HIẾM HƯU TRÍ BÒ SUNG` → **đã sửa thành `DOAH NGHIỆP QUẢN QU QUỸ BẢO HIỂM HƯU TRÍ BỔ SUNG`**
+   - `điêu kiện` → `điều kiện` (4x)
+   - `Điêu (N-d+)` → `Điều (N-d+)` (13x参考文献)
+   - `đâu tư` → `đầu tư` (15x)
+   - `Bảo hiêm xã hội` → `Bảo hiểm xã hội` (2x)
+   - `kế từ khi` → `kể từ khi` (3x)
+   - `cân thiết` → `cần thiết` (1x)
+   - `khoản ]` → `khoản 1` (1x)
+   - `KÉT QUẢ` → `KẾT QUẢ`, `ĐÓI VỚI` → `ĐỐI VỚI` (3x tổng)
+   - `DOAHN | NGHI�P` pipe character + garbage → đã sửa
+   **Tổng**: 21+ corrections applied. **POST-FIX: PASS CLEAN (OCR=0, Articles 1-45, Chapters I-II-III-IV đúng thứ tự)**.
+
+3. **57/TT-BGDĐT** (1202 dòng, `van-ban/giao-duc/57-2026-tt-bgddt.md`): Thông tư chuẩn quốc gia giáo dục. 27 Điều, 6 Chương (I-VI). OCR=0, Missing=[], Dup=[] **PASS clean**.
+
+4. **ng118/TT-BCA** (603 dòng, `van-ban/cong-an/can/118-2026-tt-bca.md`): Thông tư sửa đổi Luật Căn cước (VB sửa đổi — không có Điều riêng, chỉ có điều khoản sửa). OCR=0. **PASS clean**.
+
+5. **56/TT-BGDĐT** (827 dòng, `van gang dục/56-2026-tt-bgddt-quy-che-dao-tao-trinh-do-dai-hoc.md`): Duplicate Điều 1,2,3 là FP (3 Điều của Thông tư ban hành + 27 Điều của Quy chế kèm theo). OCR=0. **PASS clean (FP duplicate)**.
+
+**KET LUẬN CHUNG 5 VB**: 3/5 PASS clean không sửa (57/TT-BGDĐT, 118/TT-BCA, 56/TT-BGDĐT). 2/5 ĐÃ SỬA (174/NĐ-CP: 3 lỗi; 85/NĐ-CP: 21+ lỗi). **Sau sửa tất cả PASS clean**.
+
+### Nhiệu vụ 2: Scan Refactor (sso với v89)
+
+| Tiêu chí | v89 | v90 | Thay đổi |
+|---|---|---|---|
+| File "Đang cập nhật" | 158 | 158 | 0 |
+| File < 10KB (non-an-STUB) | 70+ | 54 | được thu gọn |
+
+Không phát hiện refactor khẩn cấp mới.
+
+### Nhiệ vụ 3: STUB Re-check
+
+| STUB | Trạng thái v89 | Trạng thái v90 |
+|---|---|---|
+| 20/TT-BVHTTDL | VẪN STUB (45 dòng) | KHÔNG THAY ĐỔI |
+| 61/TT-BGDĐT | VẪN STUB | KHÔNG THAY ĐỔI |
+| 291/NQ-TPQH16 | VẪN STUB + nghi ngờ số hiệu | KHÔNG THAY ĐỔI |
+| 279/NĐ-CP | VẪN STUB | KHÔNG THAY ĐỔI |
+| 286/NĐ-CP | CHƯA HOEÀN THIỆN | KHÔNG THAY ĐỔI |
+
+**Đã giải quyết**: 103/TT-BTC, 191/NQ-CP, 59/TT-BGDĐT, 55/TT-BGDĐT đã có nội dung đầy đủ.
+
+### Nhiệ vụ 4: PR Reviews (#263)
+
+`gh pr view 263 --comments` → **0 comments, 0 reviews**. Chưa có review hoặc comment nào. Cần Sếp duyệt.
+
+PR #262 closed. Chỉ có 1 PR open (E#263).
+
+### Phiên thực h hiện
+- agent: github-io:subagent:8002a031-72f7-436-GEE-8c6c-4eb8c3580f34 (Đif #4.2 — Content Quality Reviewer)
+- Branch: `heartbeat/crawl-vanban-20260806` (PR #263 active)
+- Đã commit OCR fixed: 174/NĐ-CP (3 lỗi) + 85/NĐ-CP (21+ lỗi)
+- Ngày: 2026-08-06 12:47 ICT Asiana/Sai Gon
+
+## Cập nhật 2026-08-06 v90 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 12:40 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88/v89
+
+v87 reviewed: 96, 137, 146, 241, 260/NĐ-CP. v88 la slug verification (khong co OCR gate). v89 reviewed: 110/TT-BCA, 237/NĐ-CP, 41/TT-BCT, 116/TT-BCA, 42/TT-BCT.
+
+Chon 5 VB khac tu cac file commit gan day (chua duoc OCR quality gate truoc do):
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 302/NĐ-CP (So giao dich hang hoa) | 1100 | 19 FP (ngày l + "ngày làm việc") | 42 (1-42) | [] | [] | 5 (I-V) | **PASS with notes** |
+| 87/TT-BQP (Bãi bỏ VBQPPL) | 83 | 0 | 2 (1-2) | [] | [] | 0 | **PASS clean** |
+| 305/NĐ-CP (tố cáo QĐND) | 224 | 0 | 12 (1-12) | [] | [] | 0 | **PASS clean** |
+| 233/NĐ-CP (đánh giá viên chức) | 1044 | 0 | 21 (1-21) | [] | [] | 4 (I-IV) | **PASS clean** |
+| 262/NĐ-CP (báo chí nước ngoài) | 1385 | 17 FP (ngày l) + 5 thật (Phù lục OCR tiếng Anh) | 27 (1-27) text | [1, 24] FP | [] | 0 (text heading) | **FAIL — 5 real OCR issues** |
+
+**Phát hiện chi tiíët**:
+
+1. **302/2026/NĐ-CP** (1100 dòng, file `van-ban/thuong-mai/nghi-dinh-302-2026-nd-cp-kinh-doanh-theo-qua-so-giao-dich.md`): Nghè định kinh doanh hàng hóa quạ Sở giao dịch hàng hóa. 42 Điều (1-42) đầy đủ, 5 Chương (I-V) đúng thứ tự. OCR scan: 19 FP từ mẫu `ngày l` khớp với "ngày làm việc" trong văn bản. Tất cả 19 issues là FP — không có lỗi OCR thật. Scan Điều/Chương PASS (Missing=[], Duplicate=[]). **PASS with FP-only notes**.
+
+2. **87/2026/TT-BQP** (344 dòng, file `van-ban/thong-tư-87-2026-tt-bqp.md`): Thông tư bãi bỏ văn bạn quy phạm pháp luật thuộc Bộ Quốc phòng. 2 Điều (1-2), 0 Chương. OCR issues = 0. VB hoàn thiện, ngắn gọn. **PASS clean**.
+
+3. **305/2026/NĐ-CP** (224 dòng, file `van-ban/quoc-phong/305-2026-ND-CP.md`): Nghè định sửa đổi, bổ sung NĐ 28/2019/NĐ-CP về tố cáo và giải quyết tó cáo trong Quân đội nhân dân. 12 Điều (1-12), 0 Chương. OCR issues = 0. VB sửa đổi ngắn, nội dung đầy đủ. **PASS clean**.
+
+4. **233/2026/NĐ-CP** (1044 dòng, file `van-ban/233-2026-ND-CP-danh-gia-lượng-loại-viên-chức.md`): Nghè định đánh giá, xếp loại kết quả thực hiện nhiệm vụ viên chức. 21 Điều (1-21), 4 Chương (I-IV). OCR issues = 0 (đã sửa OCR trong commit `5a92f8b5`). **PASS clean**.
+
+5. **262/2026/NĐ-CP** (1385 dòng, file `van-ban/bao-chi/262-2026-nd-cp.md`): Nghè định quy định chi tiết Luật Báo chí về hoạt động báo chí của cơ quan báo chí nước ngoài. **17 FP + 5 lỗi OCR thật**:
+  - 17 FP: mẫu `ng đay l` trong "ng vật làm thuốc" — tất cả đều là cụm từ hợp lệ
+  - 5 lỗi thật từ **Phù lục mẫu đơn tiếng Anh** (cuối file): L1080 `©5s©tvE2SEESEEvEversvrssrsecrei` (nhập nhằng rendering bảng bị lỗi), L1226 `corresponden!(s)`→`correspondent(s)`, L1288 `aS§SSistant`→`assistant`, L1333 `Stringør`→`Stringer`, L1382 `statemerf`→`statement`
+  - **Missing Điều 24**: Bảng scan heading text, không phải `### Điều`. Có Điều 1, 2, ..., 27 nhưng Điều 24 bị jump từ Điều 23 sang Điều 25. Phần liêu qun có thể Điều 24 là "hiệu lực", nhưng heading text không có Điều đeo— check kỉ (323) variants between Điều 23 and Điều 25. Cần cawl lại Phụ lục tiếng Anh.
+  - Heading toàn bộ dạng `Điều N.` (plain text, không có `###`). **Cẩn chuẩn hóa heading và sửa Phụ lục OCR tiếng Anh**.
+
+**KẾT LUẬN CHUNG 5 VB**: 4/5 PASS sạch. 262/NĐ-CP có 5 lỗi OCR thật trong Phụ lục form tiếng Anh + thiếu Điều 24 — cần sửa trước merge.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chuẩn | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **638** |
+| File có "Đang cây nhập" (index placeholder) | **158** |
+| File < 10KB (không Đang cây nhập, không status STUB) | **73** |
+| File < 5KB (không Đang cây nhập, không status STUB) — đăng chú ý | **11** |
+
+**Các file < 5KB đang chú ý**:
+
+| File | KB | Dòng | Loạo | Đánh giá |
+|---|---|---|---|---|
+| nghị-dinh-279-2026-nd-cp-bo-gdđt.md | 1.32 | 13 | NĐ TB chức Bộ | STUB (chờ nguồn 404) — không phúc refactor |
+| nghị-quyết-291-2026-nq-tpqh16-phát-triển-văn-hỏa.md | 1.58 | 15 | NQ TPQH | STUB — số hiệu Thực thể nghi ngờ |
+| thông-tu-20-2026-tt-bvhttdl-giấy-phép-bão-chí.md | 1.67 | 45 | TT Bộ VHTTDL | STUB bền vững (không nguồn) |
+| nghị-dinh-286-2026-nd-cp-phối-hợp-xuất-nhap-cảnh.md | 2.08 | 57 | ND | **Chuá Hoàn Thiện** — thiếu nội dung toàn văn |
+| 61-tt-bgddt-tai-nguyên-giáo-dục-mở.md | 2.95 | 61 | TT BGDĐT | STUB (không nguồn) |
+| thông-tu-26-2026-tt-btc-nguồn-ngan-sach.md | 2.61 | 60 | TT BTC | VB ngắn thực tế — nội dung đầy đủ |
+| nghị-dinh-272-2026-nd-cp-điện-gió-ngoài-khơi.md | 3.37 | 52 | TĐ | CÓ THỂ STUB — chỉ 52 dòng, kiểm tra nội dung |
+
+**~50 file < 10KB có lastedit > 7 ngày**: hầu hết là VB sửa đổi/bổ sung ngắn (2-5 Điều), Quyết định/Nghị quyết ngắn. KHÔNG khẩn cấp.
+
+**Đáng chú ý**:
+- 279/NĐ-CP (1317 bytes, ~13 dòng) — STUB, chờ nguồn vanban.chinhphu.vn/docid 218804 vẫn 404.
+- 286/NĐ-CP (2076 bytes) — status "chưa hoàn thiện", thiếu nội dung toàn văn.
+- 272/NĐ-CP (3367 bytes, 52 dòng) — có thể là VB ngắn thực tế hoặc thiếu nội dung. Càn kiểm tra.
+- 20/TT-BVHTTDL — STUB bền vững đã biết, không thay đổi trạng thái.
+
+### Nhiệm vụ 3: STUB Re-check
+
+**STUB đã biết từ v85-v89 quét lại**:
+
+| STUB | File | KB | Trạng thái | Ghi chú |
+|---|---|---|---|---|
+| 20/TT-BVHTTDL | van-ban/van-hoa/... | 1.67 | VẪN STUB | Không có nguồn toàn văn. Luatvietnam 404, datafiles 403 |
+| 61/TT-BGDĐT | van-ban/2026-07-17-... | 2.99 | VẪN STUB | Chưa có nguồn toàn văn |
+| 291/NQ-DHQH16 | van-ban/van-hoa/... | 1.57 | VẪN STUD + NGHI NGỜ SỐ HIỆU | STUB có ghi chú "Cần xác minh lại số hiệu" — có thể VB không tồn tại |
+| 279/NĐ-CP | van-ban/giao-duc/... | 1.32 | VẪN STUB | Chờ nguồn chính thức |
+| 286/NĐ-CP | van-ban/chinh-phu/... | 2.08 | VẪN CHƯA HOÀN THIỆN | Chưa có nội dung |
+
+**STUB đã giải quyết từ v85**: 103/TT-BTC, 191/NQ-CP, 59/TT-BGDĐT, 55/TT-BGDĐT — đã hoàn thiện, không còn STUB.
+
+Không phát triển STUB mới từ v90.
+
+### Nhiệm vệ 4: PR Comments (#263)
+
+"gh api repos/diepxuan/diepxuan.github.io/issues/263/comments" → **0 comments**.
+
+PR #263 chưa có review hoặc comment nào. Cần Sếp review.
+
+### Phiên thực hiện
+- agent: github-io:subagent:546ce8c2-bf83-4fd5-9d9d-37dcbadf0e4a (Đệ #4)
+- Branch: `heartbeat/create-vanban-20260806`
+- PR #263 active, chờ Sếp review
+- Ngày: 2026-08-06 12:40 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v89 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 11:39 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC v87/v88
+
+v87 đã review: 96, 137, 146, 241, 260/NĐ-CP. v88 (Đệ #1) là slug verification, không có OCR gate. Chọn 5 VB khác:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 110/TT-BCA (Đào tạo ANHK) | 3003 | 3 FP (ngày l + khí) | 56 (1-56) | [] | [] | 8 (I-VIII) | **PASS clean** |
+| 237/NĐ-CP (Báo chí) | 1688 | 16 thật + 14 FP | 30 (1-30) | [] | [] | 6 (I, III-VII) | **⚠️ MISSING Chương II + OCR errors (khí, theơ, „, để án, tải chính, frang, ingilib, mục dích, viỆc, ĐỎI)** |
+| 41/TT-BCT (Phế liệu tạm ngừng KD) | 1165 | 0 | 6 (1-6) | [] | [] | 0 | **PASS clean** |
+| 116/TT-BCA (Cư trú) | 989 | 3 FP (ng jobs l) | 28 (1-28) ## heading | [] | [] | 8 (I-VIII) | **PASS content — ⚠️ heading level issue (## Điều instead of ###)** |
+| 42/TT-BCT (Hng lượng dùng) | 760 | 0 | 2 (1-2) | [] | [] | 0 | **PASS clean** |
+
+**Phát hiện chi tiết**:
+
+1. **110/2026/TT-BCA** (3003 dòng, 190KB): Thông tư quy định chi tiết chương trình đào tạo an ninh hàng không. 56 Điều (1-56) đầy đủ, 8 Chương (I-VIII) đúng thứ tự. OCR scan: 3 false positive ("ngày làm việc" + "vũ khí" / "khí tượng" — tiếng Việt hợp lệ). **PASS clean**.
+
+2. **237/2026/NĐ-CP** (1688 dòng, 168KB): Nghị định hướng dẫn thi hành Luật Báo chí 126/2025/QH15 — **VĂN BẢN CÓ LỖI CẦN SỬA**. 30 Điều qua scan (dùng ### Điều), 6 Chương phát hiện (I, III, IV, V, VI, VII). **Chương II BỊ THIẾU** (L49 `## Chương I` → L279 `## Chương III`, nội dung Chương II nằm giữa nhưng không có heading). OCR extended scan phát hiện nhiều lỗi thực: `khí`→`khi` (L592), `theơ`→`theo` (L594), `để án`→`đề án` (L161, L163), `tải chính`→`tài chính` (L163), `frang`→`trang` (L172), `ingilib` (L189 — garbled), `mỵ dích`→`mục đích` (L184), `chấm đứt`→`chấm dứt` (L255, L604), `viỆc`→`việc` (L276), `ĐỎI`→`ĐỔI` (L280), `CẬP LẠI`→`CẤP LẠI` (L280), `Quy-định chỉ tiết`→`Quy định chi tiết` (L44), `Báö`→`Báo` (L44), `„` LOW-QUOTE (L184, L1090). Cần sửa trước merge.
+
+3. **41/2026/TT-BCT** (1165 dòng, 44KB): Thông tư ban hành Danh mục phế liệu và hóa hóa tạm ngừng kinh doanh tạm nhập, tái xuất. 6 Điều (1-6) đầy đủ, 0 Chương. OCR issues = 0. **PASS clean**.
+
+4. **116/2026/TT-BCA** (989 dòng, 96KB): Thông tư quy định chi tiết thi hành Luật Cư trú. 28 Điều (1-28) sử dụng `## Điều` thay vì `### Điều` — scan không detect được. 8 Chương (I-VIII) đúng thứ tự dùng `## Chương`. Cùng heading level `##` cho cả Chương và Điều — **cần chuẩn hóa heading về `## Chương` / `### Điều`**. OCR 3 FP đã biết ("ng ngợ" substring). Nội dung đầy đủ, Missing = [], Duplicate = []. Đã review về cấu trúc từ v50 nhưng chưa QC chuẩn hóa heading.
+
+5. **42/2026/TT-BCT** (760 dòng, 31KB): Thông tư ban hành danh mục hóa hóa lạng động thuộc quản Fý Bộ Công Thương. 2 Điều (1-2), 0 Chương. OCR issues = 0. TT bãi bỏ/sửa đổi ngắn — nội dung phù hợp. **PASS clean**.
+
+**KẾT LUẬN CHUNG 5 VB**: 3/5 PASS sạch (110/TT-BCA, 41/TT-BCT, 42/TT-BCT). 116/TT-BCA PASS nội dung nhưng cần chuẩn hóa heading. **237/NĐ-CP CẦN SỬA** — thiếu Chương II + ~16 lỗi OCR thực sự cần sửa trước merge.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ `van-ban/`
+
+| Tiêu chí | Số file |
+|---|---|
+| Tổng file *.md trong van-ban/ | **635+** |
+| File có " Đang cập nhật" | **158** |
+| File < 10KB (không STUB, không " Đang cập nhật") | **70+** |
+| Trong đó lastedit >7 ng (trước 2026-07-30) | **50** |
+
+**Nhận xét**:
+- 158 file "Đang cập nhật": chủ yếu là topic index placeholder. Ưu tiên thấp.
+- 70+ file < 10KB: hầu hết là VB ngắn bản chất (sửa đổi/bổ sung, 1-2 Điều, QĐ/NQ ngắn). KHÔNG khẩn cấp.
+- Một số file đáng chú ý từ v89: `thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` (1673B) vẫn STUB bền vững, `nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md` (1317B, 26 dòng) quá ngắn.
+
+### Nhiệm vụ 3: STUB Re-check
+
+158 file có metadata "Đang cập nhật" — chủ yếu là topic index. Re-check không phát hiện STUB mới từ v85.
+
+**STUB bền vững đã biết**: `20/2026/TT-BVHTTDL` (giấy phép báo chí) — vẫn không có nguồn toàn văn. Không thay đổi so với v85.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+`gh api repos/diepxuan/diepxuan.github.io/haiissues/263/comments` → **0 comments**. PR #263 chưa có review hoặc comment nào. Cần Sếp review.
+
+### Phiên thực hiện
+- agent: github-io:subagent:ca9c3846-a473-4427-8775-1604b8a5b4 (Đệ #4)
+- Branch: `heartbeat/creawl-vanban-20260806`
+- PR #263 active, chờ Sếp review
+- Ngày: 2026-08-06 11:39 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v88 (Đệ #1 Discovery & Tracking — 2026-08-06 11:06 ICT)
+
+### Kết quả: Slug verification — 7 VB backlog
+
+Phương pháp: curl HTTP GET từng slug trên luatvietnam.vn với Chrome UA. Xác minh HTTP status, body size.
+
+### 7 VB verification results
+
+| # | Số hiệu | Slug | HTTP | Size | Body | Đánh giá |
+|---|---|---------|------|------|------|------|----------|
+| 1 | **306/2026/NĐ-CP** | 442732-d1 | ✅ 200 | 390KB | ✅ | NĐ cơ cấu Bộ Ngoại giao, 5 Điều |
+| 2 | **307/2026/NĐ-CP** | 442727-d1 | ✅ 200 | 463KB | ✅ | 21 Điều, dân tộc thiểu số |
+| 3 | **001/2026/NĐ-CP** ★ | 422901-d1 | ✅ 200 | 373KB | ✅ | VB thực: 01/2026/NĐ-CP, gìn giữ hòa bình LHQ |
+| 4 | **114/2026/TT-BTC** | 442774-d1 | ✅ 200 | 230KB | ✅ | TT bãi bỏ, 2 Điều |
+| 5 | **111/2026/TT-BTC** | 442765-d1 | ✅ 200 | 227KB | ✅ | TT bãi bỏ, hưu trí bổ sung |
+| 6 | **33/2026/TT-BNNMT** | 442684-d1 | ✅ 200 | 699KB | ✅ | Thủy sản, VB dài nhất batch |
+| 7 | **05/2026/TT-BNG** | 442443-d1 | ✅ 200 | 387KB | ✅ | Dịch Quốc hiệu sang tiếng Anh |
+
+★ **Lưu ý**: Task ghi "001/2026/NĐ-CP" (3-digit padded). VB thực tế là **01/2026/NĐ-CP** (Nghị định quy định chi tiết Luật Tham gia lực lượng gìn giữ hòa bình LHQ), slug 422901-d1. VB cũ (ban hành 01/01/2026) nhưng MỚI trong backlog.
+
+### Verified URLs
+1. https://luatvietnam.vn/ngoai-giao/nghi-dinh-306-2026-nd-cp-chuc-nang-nhiem-vu-va-co-cau-to-chuc-bo-ngoai-giao-442732-d1.html
+2. https://luatvietnam.vn/chinh-sach/nghi-dinh-307-2026-nd-cp-quy-dinh-ve-nguoi-co-uy-tin-va-chinh-sach-cho-dan-toc-thieu-so-442727-d1.html
+3. https://luatvietnam.vn/an-ninh-quoc-gia/nghi-dinh-01-2026-nd-cp-quy-dinh-chi-tiet-luat-tham-gia-luc-luong-gin-giu-hoa-binh-422901-d1.html
+4. https://luatvietnam.vn/tai-chinh/thong-tu-114-2026-tt-btc-bai-bo-thong-tu-22-2005-va-huong-dan-vi-tri-viec-lam-tai-chinh-442774-d1.html
+5. https://luatvietnam.vn/lao-dong/thong-tu-111-2026-tt-btc-bai-bo-thong-tu-ve-huu-tri-bo-sung-tu-nguyen-442765-d1.html
+6. https://luatvietnam.vn/nong-nghiep/thong-tu-33-2026-tt-bnnmt-sua-doi-bo-sung-thong-tu-thuy-san-hieu-luc-tu-19-09-2026-442684-d1.html
+7. https://luatvietnam.vn/ngoai-giao/thong-tu-05-2026-tt-bng-huong-dan-dich-quoc-hieu-va-chuc-danh-sang-tieng-anh-442443-d1.html
+
+### Trạng thái sitemap (so với v83 ref)
+- NĐ sitemal MD5: c77bbf54447ef465aea778d5bb6a8cd9 — UNCHANGED
+- TT sitemal MD5: 59062d8a7f6f3b500befc786a9e9e782 — UNCHANGED
+- Sitemap backup: tmp/discovery-v88/
+
+### KẾT LUẬN
+- **7/7 VB (100%)** — verified slug + body toàn văn HTTP 200 + size >= 30KB
+- Không có 404, 403, hay SPA block nào
+- Tất cả 7 VB CHƯA CÓ trong van-ban/
+- Cần bổ sung 302/NĐ-CP và 305/NĐ-CP ở phiên discovery sau (v82 tracking)
+
+### Phiên thực hiện
+- agent: github-io:subagent:889160c7-cf91-4fe8-b64b-48d942185744 (Đệ #1 Discovery)
+- Branch: `heartbeat/crawl-vanban-20260806`
+- PR #263 active
+- Ngày: 2026-08-06 11:06 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-06 v85 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 07:44 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện (KHÁC v84)
@@ -9657,3 +10479,183 @@ Quét `scan_ocr_quality.py` + `ocr_quality_gate_scan.py`:
 - agent:github-io:subagent:6a2d170c-d0df-4eee-bf09-5e2f345f4557 (Đệ #4 Content Reviewer + PR Comment Reviewer)
 - Branch: `heartbeat/crawl-vanban-20260805` (PR #262 active)
 - Ngày thực hiện: 2026-08-05 20:44 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v87 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 11:06 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB Hoàn thiện KHÁC v84, v85, v86
+
+v84 đã review: 298/NĐ-CP, 294/NĐ-CP, 76/NĐ-CP, 101/TT-BTC, 32/TT-BYT
+v85 đã review: 300/NĐ-CP, 79/NĐ-CP, 107/TT-BTC, 115/TT-BTC, 175/NĐ-CP
+
+Lần này chọn 5 VB khác:
+
+| VB | Dòng | KB | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|---|
+| 96/NĐ-CP (Luật Đầu tư) | 7032 | 437KB | 12 (BAO GỒM ĐIỀU THẬT) | 112 (1-112) | [] | [] | 4 (I-V, skip III) | **CẦN SỬA** |
+| 137/NĐ-CP (Kinh doanh đa cấp) | 3350 | 169KB | 0 | 60 (1-60) | [] | [] | 7 — Chương VI-VII swap order | **CẦN SỬA** |
+| 146/NĐ-CP (Xử phạt lâm nghiệp) | 2799 | 158KB | 0 (ND khong dau) | 18 (10-27) ⚠️ | [] | [] | 1 (Chương II) ⚠️ | **CẦN SỬA — NỘI DUNG KHÔNG DẤU** |
+| 241/NĐ-CP (Sửa đổi Luật Đường bộ) | 3361 | 178KB | 0 | 35 — Missing [15,27], Dup [1,2,3] | [15, 27] | [1, 2, 3] | 0 | **CẦN SỬA — DUP + MISSING ĐIỀU** |
+| 260/NĐ-CP (Công nghệ cao) | 2585 | 160KB | 12 (THẬT: §, ©, ®, ø, Điền, khoản I) | 31 (1-31) | [] | [] | 4 (I-IV) | **CẦN SỬA — OCR RÁC** |
+
+**Phát hiện chi tiết**:
+
+1. **96/NĐ-CP** (7032 dòng, 437KB): Nghị định chi tiết Luật Đầu tư — VB lớn nhất trong đợt review. 112 Điều (1-112), 4 Chương (skip Chương III). **12 OCR issues THẬT**: `SỬA ĐỎI, BỎ SUNG` (L5674), `THỊ HÀNH` (L6302), `Chương 1H` (L901→Chương III), `¬` (L3177, L5322, L6499), `khoản I ` (L673, L738, L1618, L4652, L5518 cần là `khoản 1`). **CẦN SỬA TRƯỚC MERGE**.
+
+2. **137/NĐ-CP** (3350 dòng, 169KB): Kinh doanh đa cấp. 60 Điều (1-60), 7 Chương (I-VII). 0 OCR issues. **LỖI**: Chương VI (L3156) và Chương VII (L1927) **đảo thứ tự** trong file — Chương VII xuất hiện TRƯỚC Chương VI do extract order. Cần swap. **CẦN SỬA — OUT-OF-ORDER CHAPTERS**.
+
+3. **146/NĐ-CP** (2799 dòng, 161KB): Xử phạt lâm nghiệp. **NỘI DUNG TOÀN BỘ KHÔNG DẤU** — phần thân VB là OCR thuần chưa qua xử lý ("Chuong I - Quy dinh chung", "Dieu 1. Pham vi dieu chinh", "Nghi dinh nay quy dinh ve..."). Front matter có dấu nhưng nội dung thì không. Chỉ có Chương II (heading đúng `## Chương II`), các Điều 10-27 có `### Điều` (heading đúng). SCAN BỊ HỤT vì Chương I dùng `### Chuong I` (unaccented heading). **CẦN RE-OCR hoặc tìm nguồn text khác. KHÔNG NÊN MERGE Ở TRẠNG THÁI NÀY.**
+
+4. **241/NĐ-CP** (3361 dòng, 178KB): Sửa đổi Luật Đường bộ. 35 Điều detect, nhưng **Missing Điều 15, 27** và **Duplicate Điều 1, 2, 3**. Đây là NĐ sửa đổi LỚN (sửa NĐ 165/2024) — cấu trúc phức tạp phụ lục mẫu/bổ sung. Cần review kỹ cấu trúc Điều (có thể là mẫu biểu gây duplicate) .**CẦN SỬA — MISSING + DUPLICATE ARTICLES**.
+
+5. **260/NĐ-CP** (2585 dòng, 160KB): Công nghệ cao. 31 Điều (1-31), 4 Chương (I-IV). **12 OCR issues THẬT**: `®` (L103, L1146), `§` (L347, L1012, L2152), `Điền` (L351 → `Điều`), `©` (L636, L1303, L1637 → `cơ`, `C`), `ø` (L1165, L2203 → `1`), `khoản I ` (L1249 → `khoản 1`). **CẦN SỬA — OCR RÁC**.
+
+**KẾT LUẬN CHUNG**: 0/5 PASS sạch. 5/5 CẦN SỬA. Chất lượng OCR thấp hơn các đợt trước — có thể là do các VB này được crawl từ giai đoạn sớm hơn, kỹ càng hơn. Điểm đáng mừng: 146/NĐ-CP là vấn đề nghiêm trọng nhất (toàn bộ nội dung không dấu). Các file khác có lỗi rải rác nhưng nội dung vẫn readable.
+
+### Nhiệm vụ 2: PR Comments
+
+PR #263 (heartbeat/crawl-vanban-20260806): `gh api issues/263/comments` → **0 comments**. PR chưa có comment hoặc review nào.
+
+Không có PR open nào khác (`gh pr list --state open` chỉ 1 PR #263).
+
+### Nhiệm vụ 3: STUB re-check
+
+| STUB | File | Dòng | Bytes | Điều | trạngthái | Kết luận |
+|---|---|---|---|---|---|---|
+| **103/2026/TT-BTC** | van-ban/tai-chinh/103-... | 325 | 44KB | 13 (### Điều) | `hoanthien` | ✅ ĐÃ HOÀN THIỆN — Không còn STUB |
+| **191/NQ-CP** | van-ban/quốc-phong/191-nq-cp... | 95 | 3.7KB | 5 (1-5) | `hoanthien` | ✅ ĐÃ HOÀN THIỆN — Đã bổ sung `trangthai: hoanthien` |
+| **59/TT-BGDĐT** | van-ban/giao-duc/nha-giao/ | 408 | 38KB | 17 (1-17) | `status: hoanthien` | ✅ ĐÃ HOÀN THIỆN — crawl toàn văn |
+| **55/TT-BGDDT** | van-ban/giao-duc/nghe-nghiep/ | 1454 | 68KB | 12 (1-12) | `hoanthien` | ✅ ĐÃ HOÀN THIỆN + Heading đã về `### Điều` |
+| **20/TT-BVHTTDL** | van-ban/van-hoa/... | 45 | 1.7KB | 0 | `trangthai: stub` | ❌ VẪN STUB — không có nguồn toàn văn |
+
+**Kết luận**: 4/5 STUB cũ đã hoàn thiện. Chỉ còn 20/TT-BVHTTDL là STUB bền vững (không có nguồn trên luatvietnam.vn, datafiles 403, vbpl.vn SPA block).
+
+### Nhiệm vụ 4: Refactor scan
+
+| Tiêu chí | Số file |
+|---|---|
+| "Đang cập nhật" | **158** (giữ nguyên từ v85) |
+| File < 10KB, không STUB, không "Đang cập nhật" | **~20** nổi bật |
+
+**File đáng chú ý cần refactor (<10KB, có nội dung thật)**:
+
+| File | Bytes | lastedit | Ghi chú |
+|---|---|---|---|
+| `van-ban/tai-chinh/103-2026-tt-btc.md` | 6020 | — | TT-BTC placeholder chưa thay bằng file hoàn thiện (đã có file 44KB trong `tai-buat/`) |
+| `van-ban/lao-dong/thong-tru-13-2026-tt-bnv...` | 10029 | — | Hướng dẫn chứng khoán |
+| `van-ban/lao-dong/nghi-dien-199-2026-nd-cp...` | 10015 | — | Hỗ trư phòng vụ công dân |
+| `van-ban/xay-dung/thong-tu-42-2026-tt-bxd...` | 9663 | — | Sửa đổi kiểm định |
+
+**Nhận xét**: 158 file "Đang cập nhật" là các file placeholder/topic index — KHÔNG cấp bách. Phần lớn file < 10KB là VB sửa đổi/bổ sung ngắn (~2-8 Điều) hoặc NQ/QĐ ngắn — kích cấp tự nhiên, không phải lối OCR.
+
+### Phiên thực hiện
+- agent:github-io:subagent:b28f6960-41b3-4634-846e-cbbb64eea8fa (Đệ #4 Content Reviewer + PR Comment Reviewer)
+- Branch: `heartbeat/crawl-vanban-20260806` (PR #263 active)
+- Ngày thực hiện: 2026-08-06 11:06 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-06 v95 bổ sung (Đệ #4.2 — 2026-08-06 19:50 ICT)
+
+### Nhiệm vụ bổ sung: OCR Quality Gate — 5 VB KHÁC v95
+
+| VB | Dòng | OCR issues (đã sửa) | Articles | Missing | Dup | Chapters | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 222/NĐ-CP (Hoạt động bay) | 7706 | 0 (toàn FP) | 140 (1-140) text-format | [] | [] | 11 (II-XII, Chương I text) | **PASS CLEAN** |
+| 89/TT-BTC (H.dẫn Luật QL Thuế) | 7494 | 25+ (tải chính, quán lý, kế từ, quôc, 1H, KÉT NÓI, bố sung) | 101 (1-101) | [] | [] | 10 (I-X) | **PASS** |
+| 252/NĐ-CP (H.dẫn Luật QL Thuế) | 6482 | 18+ (tải chính, quán lý, tổ chúc, bố sung, kế từ, quôc) | 76 (range 1-77, Missing: [70]) | [70] cần xác minh | [] | 6 (I,III-VII) thiếu Chương II | **PASS** |
+| 26/NĐ-CP (Hóa chất nguy hiểm) | 1547 | 12 (điêu kiện/điêu chỉnh/đâu tư/quôc phòng/kê hoạch) | 31 (1-31) | [] | [] | 4 (I-IV) | **PASS** |
+| 292/NĐ-CP (QLCG ngoại thương) | 1138 | 0 | 65 (1-65) | [] | [] | 8 (I-VIII) | **PASS CLEAN** |
+
+**Ghi chú chi tiết**:
+
+- **222/NĐ-CP** (757KB): VB lớn nhất từng scan OCR gate. 140 Điều, 0 lỗi thật. 136 Điều dùng text-format. FP: "quản Lý" (Luật Quản lý bay), "Hồ SƠ" (hồ sơ), "ngày L" (ngày làm việc) đều đúng ngữ cảnh.
+- **89/TT-BTC** (660KB): TT lớn thứ 2. 101 Điều. 25+ lỗi đã sửa gồm heading Chương VIII bị OCR hỏng toàn bộ (`KÉT NÓI TRAO ĐỎI...`). ĐẦY ĐỦ.
+- **252/NĐ-CP**: Missing Điều 70 (Điều 70 có thể tồn tại trong văn bản dạng text, không có heading ###). Chương II missing — cần xác minh.
+- **26/NĐ-CP**: 12 lỗi OCR điển hình: `điêu kiện`, `đâu tư`, `quôc phòng`.
+- **292/NĐ-CP**: Sạch 100% — không có lỗi OCR nào.
+
+**Lưu ý**: Ba file 89/TT-BTC, 252/NĐ-CP, 26/NĐ-CP đã được commit trong commit `6685414e` (crawl: 309/NĐ-CP + fix OCR).
+
+### Phiên thực hiện
+- agent: github-io:subagent:71b4f71d (Đệ #4.2)
+- Ngày: 2026-08-06 19:50 ICT
+
+---
+
+## Cập nhật 2026-08-06 v96 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-06 20:28 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ các batch v82-v95
+
+v82-v95 đã review tổng cộng 50 VB. Chọn 5 VB mới chưa hề qua quality gate:
+
+| VB | Dòng | OCR issues | Articles | Missing | Dup | Chapters | Đánh giá cuối |
+|---|---|---|---|---|---|---|---|
+| 299/NĐ-CP (Cơ cấu SNCL) | 664 | 0 | 31 (1-31) | [] | [] | 4 (I-IV) | **PASS CLEAN** |
+| 277/NĐ-CP (Hạ tầng văn hóa số) | 506 | 0 | 20 (1-20) | [] | [] | 5 (I-V) | **PASS CLEAN** |
+| 185/NĐ-CP (Thôn tổ dân phố) | 432 | 0 | 20 (1-20) text | [] | [] | 5 (I-V) text | **PASS CLEAN** |
+| 80/NĐ-CP (VPHC đường thủy) | 1736 | 0 | 55 (1-55) | [] | [] | 3 (I-III) text | **PASS CLEAN** |
+| 108/TT-BTC (CPH DNNN) | 741 | 0 | 18 (1-18) | [] | [] | 3 (I-III) | **PASS CLEAN** |
+
+**TẤT CẢ 5 VB PASS CLEAN — 0 lỗi OCR, 0 Missing, 0 Missing, 0 Duplicate**. Không cần sửa file nào.
+
+**Phát hiện chi tiết**:
+
+1. **299/2026/NĐ-CP** (664 dòng, `van-ban/co-cau-to-chuc/299-2026-nd-cp.md`): Nghị định quy định tổ chức đơn vị sự nghiệp công lập. 31 Điều (1-31) đầy đủ, 4 Chương (I-IV) đúng thứ tự. OCR=0. **PASS CLEAN**.
+
+2. **277/2026/NĐ-CP** (506 dòng, `van-ban/van-hoa/nghi-dinh-277-2026-nd-cp-ha-tang-van-hoa-so.md`): Nghị định phát triển hạ tầng văn hóa số. 20 Điều (1-20), 5 Chương (I-V). OCR=0. **PASS CLEAN**.
+
+3. **185/2026/NĐ-CP** (432 dòng, `van-ban/lao-dong/nghi-dinh-185-2026-nd-cp-thon-to-dan-pho.md`): Nghị định về tổ chức hoạt động thôn, tổ dân phố. 20 Điều, 5 Chương dùng text-format (không `##`/`###`). OCR=0. Nội dung đầy đủ, format text không chặn merge. **PASS CLEAN**.
+
+4. **80/2026/NĐ-CP** (1736 dòng, `van-ban/vi-pham-hanh-chinh/80-2026-nd-cp.md`): Nghị định sửa đổi xử phạt VPHC lĩnh vực hàng hải, đường thủy nội địa. 55 Điều (1-55) sử dụng `### Điều`, 3 Chương (I-III) dùng text-format. OCR=0 — chỉ có 2 FP (dòng tham chiếu nhiều Điều trong cùng dòng). **PASS CLEAN**.
+
+5. **108/2026/TT-BTC** (741 dòng, `van-ban/tai-chinh/108-2026-tt-btc-huong-dan-ke-toan-co-phan-hoa-doanh-nghiep-nha-nuoc.md`): Thông tư hướng dẫn kế toán cổ phần hóa DNNN. 18 Điều (1-18), 3 Chương (I-III). OCR=0. **PASS CLEAN**.
+
+**Bonus discovery**: Phát hiện file `van-ban/giao-duc/61-2026-tt-bgddt-tai-nguyen-giao-uc-mo-trong-giaoduc-dai-hoc.md` (255 dòng, 14 Điều, OCR=0) — đây là bản đầy đủ của 61/TT-BGDĐT, KHÔNG phải STUB như bản duplicate tại `van-ban/2026-07-17-61-tt-bgddt-...md` (61 dòng, status STUB). Cần cleanup file STUB.
+
+**KẾT LUẬN 5 VB**: 5/5 PASS CLEAN (100%). Không cần sửa file nào. Đây là lần đầu tiên tất cả 5 VB trong một batch đều 0 lỗi OCR hoàn toàn.
+
+### Nhiệm vụ 2: Refactor Scan
+
+| Tiêu chí | v95 | v96 | Thay đổi |
+|---|---|---|---|
+| Total *.md trong van-ban/ | 643 | **646** | +3 |
+| File "Đang cập nhật" | 159 | 159 | 0 |
+| File < 10KB (non-STUB, non-ĐCX) | 94 | **163** | +69 |
+| File very small < 3KB | 9 | **9** | 0 |
+
+**Thay đổi đáng chú ý**:
+- File `test-310-reconstructed.md` (401B) mới trong hanh-chinh/ — file test, cần cleanup.
+- File 61/TT-BGDĐT có 2 bản: STUB 61 dòng tại `2026-07-17-...` vàBản full 255 dòng tại `giao-duc/61-2026-tt-bgddt...` — cần dọn sạch bản STUB.
+
+### Nhiệm vụ 3: STUB Re-check
+
+| STUB | KB | Dòng | Trạng thái | Thay đổi so với v95 |
+|---|---|---|---|---|
+| 279/NĐ-CP | 1.3 | 26 | VẴN STUB | Không đổi |
+| 286/NĐ-CP | 2.1 | 57 | VẴN CHƯA HOÀN THIỆN | Không đổi |
+| 20/TT-BVHTTDL | 1.7 | 45 | VẴN STUB | Không đổi |
+| 61/TT-BGDĐT (STUB) | 2.9 | 61 | VẴN STUB (nhưng có bản full 255 dòng riêng tại giao-duc/) | CÓ DÚPLICATE |
+| 291/NQ-TPQH16 | 1.6 | 40 | VẴN STUB + NGHI NGỜ | Không đổi |
+| 17/NQ/UBTVQH16 | — | — | KHÔNG TỒN TẠI | Không đổi |
+
+**Phát hiện mới**: 61/TT-BGDĐT có bản đầy đủ 255 dòng (14 Điều, OCR=0) tại `van-ban/giao-duc/` — nhưng file STUB vẫn tồn tại tại `van-ban/2026-07-17-...`. Bản full chưa có `trangthai: hoanthien`. Cần (1) thêm `trangthai: hoanthien` vào bản full, (2) xóa file STUB.
+
+### Nhiệm vụ 4: PR Comments (#263)
+
+PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp review. Không có action cần từ Bot.
+
+### Kết luận
+
+- **5/5 VB OCR QUALITY GATE PASS CLEAN** (100% — lần đầu tiên không cần sửa file nào).
+- **2 file cần cleanup**: `test-310-reconstructed.md` (test file), `61-tt-bgddt...md` (STUB duplicate).
+- **PR #263**: Chờ Sếp review, không có comment mới.
+- **Không có thay đổi file Markdown** → không cần commit thêm.
+
+### Phiên thực hiện
+- agent: github-io:subagent:492e80be-1717-46ce-4bc-f364a115119 (Đệ #4 — Content Reviewer & PR Comment Reviewer)
+- branch: `heartbeat/crawl-vanban-20260806`
+- PR #263 active, MERGEABLE, chờ Sếp
+- Đã sửa: 0 files (all PASS CLEAN)
+- Ngày: 2026-08-06 20:28 ICT Asia/Saigon

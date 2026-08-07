@@ -150,7 +150,7 @@ toàn bộ công việc trong hoạt động xây dựng. Bên nhận thầu có
 3. Điều kiện chung của hợp đồng xây dựng là tải liệu kèm theo hợp đồng
 xây dựng quy định quyên, nghĩa vụ cơ bản, mỗi quan hệ của các bên tham gia
 
-ộ hợp đồng xây dựng và các nội dung cân thiết khác.
+ộ hợp đồng xây dựng và các nội dung cần thiết khác.
 
 4. Điều kiện cụ thể của hợp đồng xây dựng là tài liệu kèm theo hợp đồng
 xây dựng để cụ thê hóa, điều chỉnh, bổ sung một số quy định của điều kiện
@@ -169,7 +169,7 @@ trình, sản phẩm, dịch vụ và các công việc mà bên nhận thầu c
 nhiệm phải thực hiện theo thỏa thuận của hợp đồng.
 
 ...8, Khối lượng, công việc phát sinh hợp lý là phân khối lượng, công việc
-nắm ngoài phạm vi công việc của hợp đồng, cân thiết phải điều chỉnh, bỗ sung
+nắm ngoài phạm vi công việc của hợp đồng, cần thiết phải điều chỉnh, bổ sung
 trong quá trình thực hiện hợp đồng được các bên thống nhất.
 
 9. Nghĩa vụ của hợp đồng là các cam kết mà các bên phải thực hiện theo
@@ -247,7 +247,7 @@ bên kia (nếu có);
 b) Đối với hợp đồng xây dựng tại các dự án đầu tư công, dự án PPP, bên
 nhận được kiến nghị, để xuất, yêu cầu phải trả lời bằng văn bản về việc chấp
 thuận hoặc không chấp thuận đúng thời hạn đã được các bên thỏa thuận trong
-hợp đồng xây dựng, nhưng không quá 07 ngày làm việc kế từ ngày nhận được
+hợp đồng xây dựng, nhưng không quá 07 ngày làm việc kể từ ngày nhận được
 kiến nghị, để xuất, yêu cầu; trường hợp không chấp thuận thì phải nêu rõ lý do.
 
 c) Các kiến nghị, để xuất, yêu cầu của các bên trong quá trình quản lý thực
@@ -307,7 +307,7 @@ liên quan.
 này thì căn cứ giao kết hợp đồng còn bao gồm thuyêt minh, thiết kê cơ sở hoặc
 thiệt kê FEED được duyệt.
 
-__ 3, Đối với hợp đồng chìa khóa trao tay, ngoài các căn cứ nêu ở khoản I
+3. Đối với hợp đồng chìa khóa trao tay, ngoài các căn cứ nêu ở khoản 1
 Điều này thì căn cứ giao kết hợp đồng còn bao gồm nhiệm vụ thực hiện dự án,
 chủ trương đầu tư (nêu có), báo cáo nghiên cứu tiên khả thi đầu tư xây dựng
 được phê duyệt (nêu có).
@@ -426,7 +426,7 @@ do các bên thỏa thuận không thuộc các hình thức giá hợp đồng 
 
 3. Ngoài các loại hợp đồng theo quy định tại khoản 1, 2 Điều này, hợp
 đồng xây dựng còn được phân loại theo mối quan hệ của các bên tham gia trong
-hợp đồng và phân loại theo các tiêu chí khác phù hợp với thông lệ quôc tê. Theo
+hợp đồng và phân loại theo các tiêu chí khác phù hợp với thông lệ quốc tế. Theo
 mỗi quan hệ của các bên tham gia trong hợp đồng, hợp đồng xây dựng có các
 loại sau:
 
@@ -798,7 +798,7 @@ xây dựng khác: 10% giá hợp đồng;
 
 Ì Trường hợp các bên thỏa thuận tạm ứng ở mức cao hơn mức tạm ứng
 tối thiêu nêu trên, thì phân giá hợp đồng tương ứng với mức tạm ứng, hợp đồng
-vượt mức tạm ứng tôi thiểu sẽ không được điều chỉnh giá kê từ thời điệm tạm
+vượt mức tạm ứng tối thiểu sẽ không được điều chỉnh giá kể từ thời điểm tạm
 ứng (gồm cả trường hợp tạm ứng nhiều lân);
 
 m) Tiền tạm ứng được thu hồi dần qua các lần thanh toán, mức thu hồi của
@@ -1020,7 +1020,7 @@ này, trừ trường hợp trong hợp đồng có thỏa thuận khác; hoàn 
 
 -__ e) Cung cấp đầy đủ thông tin, tài liệu kỹ thuật, bàn giao thiết bị công nghệ
 bảo đảm đúng số lượng, chất lượng, chủng loại, nguồn gốc xuất xứ, địa điểm,
-thời gian và các yêu cầu về đóng gói, vận chuyên, lưu kho, bảo quản theo hợp
+thời gian và các yêu cầu về đóng gói, vận chuyển, lưu kho, bảo quản theo hợp
 đồng: chịu trách nhiệm bồi thường thiệt hại đối với hư hỏng, mất mát và chỉ
 phí phát sinh do lỗi của mình, trừ trường hợp có thỏa thuận khác;
 
@@ -2029,7 +2029,7 @@ Trong đó:
 
 - a: Là hệ số cố định, được xác định ở bảng số liệu điều chỉnh tương ứng,
 trong hợp đồng, thể hiện phần không điều chỉnh giá (bao gồm phần giá trị tương
-ứng với mức tạm ứng hợp đồng vượt mức tạm ứng tôi thiểu, tạm ứng trước để sản
+ứng với mức tạm ứng hợp đồng vượt mức tạm ứng tối thiểu, tạm ứng trước để sản
 xuất các cầu kiện, bán thành phẩm có giá trị lớn, vật liệu xây dựng phải dự trữ vật
 liệu để đảm bảo kế hoạch, tiền độ thi công theo hợp đồng và giá trị các khoản chỉ
 phí không được điều chỉnh giá trong hợp đồng) của các khoản thanh toán theo

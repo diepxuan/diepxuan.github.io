@@ -2,6 +2,66 @@
 
 Theo dõi văn bản pháp luật mới từ luatvietnam.vn.
 
+
+
+## Cap nhat 2026-08-07 05:30 ICT (Review v98 — De #4)
+
+### OCR Quality Gate — 5 VB chua review
+
+| # | VB | Dieu | Chuong | Dong | OCR Issues | Danh gia |
+|---|----|------|--------|------|------------|----------|
+| 1 | 295/2026/ND-CP (doanh-nghiep-hop-tac-xa) | 69 (1-69) | 6 (I-VI) | 1247 | 0 | **PASS CLEAN** |
+| 2 | 165/2026/ND-CP (y-te-duoc, phong benh) | 97 (1-97) | 10 (I-X) | 4439 | 0 | **PASS CLEAN** |
+| 3 | 210/2026/ND-CP (xay-dung, hop dong) | 34 (1-34) | 3 (I-III) | 2288 | 0 | **PASS CLEAN** |
+| 4 | 42/2026/TT-BKHCN (NC cong nghe chien luoc) | 19 (1-19) | 3 (I-III) | 2075 | 0 | **PASS CLEAN** |
+| 5 | 175/2026/ND-CP (tai chinh vi mo) | 27 (1-25 + phu luc) | 4 (I-IV) | 1252 | 0 | **PASS CLEAN** (dup = phu luc) |
+
+- Tat ca: Missing=[], Duplicate=[], OCR issues=0
+- Chuong: dung so La Ma, dung thu tu
+- Suspicious headings: toan bo FP (tham chieu cheo)
+
+### Refactor Scan
+
+- File <10KB non-STUB: 48 file — tat ca noi dung hop ly (NQ/ND/TT ngan nhung du noi dung)
+- File "Dang cap nhat": ~150 category pages (layout:page) — khong phai VJs
+- File lastedit > 7 ngay: 173 VB co layout:vanban, on dinh
+- **Ket luan**: Khong can refactor
+
+### STUB Re-check
+
+| STUB | File | Modified | Status |
+|------|------|----------|--------|
+| 279/ND-CP | giao-duc/...-bo-gddt.md (1317B/27L) | 2026-07-21 | Khong thay doi |
+| 286/ND-CP | chinh-phu/...-nhap-xuat-canh.md (2076B/57L) | 2026-07-23 | Khong thay doi |
+| 20/TT-BVHTTDL | van-hoa/...giay-phep-bao-chi.md (1673B/45L) | 2026-08-04 | Khong thay doi |
+| 61/TT-BGDDT | ...tai-nguyen-giao-duc-mo...md (2945B/61L) | 2026-07-22 | Khong thay doi |
+| 291/NQ-TPQH16 | van-hoa/...291-2026-nq-tpqh16...md (1575B) | 2026-07-23 | Khong thay doi |
+| 44/TT-BKHCN | KHONG co file (chỉ tracking) | - | STUB — fail 3x |
+
+- Tat ca biet STUB khong thay doi. 44/TT-BKHCN chua co file.
+
+### PR #263 Comments
+
+- `gh api issues/263/comments` → [] (0 comments)
+- Can xu ly ngay: 0, Cho Sep: 0, Tim bất: 0, Stale: 0
+
+### Discovery (sitemap MD5 v97→v98)
+
+| Sitemap | v97 MD5 | v98 MD5 | Result |
+|---------|---------|---------|--------|
+| Nghi định | 23553db... | 23553db... | UNCHANGED |
+| Thông từ | b3c2be... | 59062d... | REVERTED (lost 3 d1: 442918, 442942, 442979) |
+
+- Tị mới: 0
+
+### Tong ket
+- OCR Gate 5 VB: ALL PASS CLEAN (0 lỗi)
+- Refactor: Khong phat hien issue
+- STUB: 6/6 khong thay doi
+- PR #263: 0 comments
+- Discovery: 0 PB mới
+- De #1: da complete (discovery v98 report in tmp/)
+---
 ---
 
 ## Baseline (Khoi tao 2026-07-21)
