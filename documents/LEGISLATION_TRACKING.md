@@ -1,3 +1,62 @@
+## Cập nhật 2026-08-07 v101 (Đệ #1 Discovery — 2026-08-07 11:35 ICT)
+
+### Kết quả discovery: 0 văn bản mới
+
+Phương pháp: refresh sitemap luatvietnam.vn lúc 11:35 ICT 7/8. So với ref v100.
+
+**MD5 comparison** (so với v100):
+- NĐ: `23553db37114f2cc3ecf513220a57416` — **UNCHANGED**
+- TT: `b4f5bf78618024f9a2c60483f0404486` — **UNCHANGED**
+
+**Max d1 slug**:
+- NĐ: 442906 (không đổi) → 0 slug mới
+- TT: 442979 (không đổi) → 0 slug mới
+
+**So với v100**: Byte-identical trên cả 2 sitemap (diff xác nhận). Không có d1 hay d10 mới so với v100.
+
+**Kết luận**: 0 VB mới. Sitemap luatvietnam.vn không thay đổi từ v100 (và v99 trước đó). Kiến nghị poll lại sau 12-24h.
+
+### Sitemap backup
+- `tmp/discovery-v101/sitemap_nghidinh.xml` (MD5: `23553db37114f2cc3ecf513220a57416`)
+- `tmp/discovery-v101/sitemap_thongtu.xml` (MD5: `b4f5bf78618024f9a2c60483f0404486`)
+
+### Phiên
+- agent: github-io:subagent:0216c73f-d548-4f8f-ba85-752d4499cef1 (Đệ #1 Discovery)
+- Ngày: 2026-08-07 11:35 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-07 v100 (Đệ #1 Discovery — 2026-08-07 10:35 ICT)
+
+### Kết quả discovery: 0 văn bản mới
+
+Phương pháp: refresh sitemap luatvietnam.vn lúc 10:35 ICT 7/8. So với ref v99.
+
+**MD5 comparison** (so với v99):
+- NĐ: `23553db37114f2cc3ecf513220a57416` — **UNCHANGED**
+- TT: `b4f5bf78618024f9a2c60483f0404486` — **UNCHANGED**
+
+**Max d1 slug**:
+- NĐ: 442906 (không đổi) → 0 slug mới
+- TT: 442979 (không đổi) → 0 slug mới
+
+**So sánh với v98**: 3 slug TT mới trong v100 so với v98 (442918, 442942, 442979) — tất cả đã được phát hiện và xử lý từ v97:
+- 112/TT-BTC (442918): đã crawl
+- 113/TT-BTC (442942): đã crawl
+- 44/TT-BKHCN (442979): STUB (Đệ #3 fail 3x)
+
+**Kết luận**: 0 VB mới. Sitemap không thay đổi từ v99. Kiến nghị poll lại sau 12-24h.
+
+### Sitemap backup
+- `tmp/discovery-v100/sitemap_nghidinh.xml` (MD5: `23553db37114f2cc3ecf513220a57416`)
+- `tmp/discovery-v100/sitemap_thongtu.xml` (MD5: `b4f5bf78618024f9a2c60483f0404486`)
+
+### Phiên
+- agent: github-io:subagent:a2bbce96-e8cc-4841-887c-446bebb66ade (IO #1 Discovery)
+- Ngày: 2026-08-07 10:35 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-07 v99 — Reviewer (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-07 06:32 ICT)
 
 ### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÁC toàn bộ v84-v98
