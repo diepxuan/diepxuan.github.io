@@ -1544,6 +1544,49 @@ Failed downloads: 0
 
 ---
 
+## ĐỆ #1 DISCOVERY — 2026-08-07T19:14 ICT (v104)
+
+> **Branch:** heartbeat/crawl-vanban-20260807 (PR #264)
+> **Subagent:** discovery-v104 (`559acf4a` / runId `b9b4e2a1`)
+> **Nguồn:** luatvietnam.vn (sitemap_nghidinh.xml + sitemap_thongtu.xml)
+
+### Phát hiện (so với v102 lúc 2026-08-07T15:56 ICT)
+
+- **Sitemap NĐ**: 357 → 362 (+5 URL mới)
+- **Sitemap TT**: 757 → 757 (không đổi)
+
+### Danh sách 5 NĐ mới
+
+| # | URL | Loại | Trạng thái |
+|---|-----|------|------------|
+| 1 | https://luatvietnam.vn/chinh-sach/du-thao-nghi-dinh-ve-co-so-du-lieu-quoc-gia-an-sinh-xa-hoi-quy-dinh-chi-tiet-443188-d10.html | Dự thảo (`-d10`) | Chưa có |
+| 2 | https://luatvietnam.vn/giao-thong/du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-130-2024-nd-cp-ve-thu-phi-duong-bo-cao-toc-443107-d10.html | Dự thảo | Chưa có |
+| 3 | https://luatvietnam.vn/tai-chinh/du-thao-nghi-dinh-chi-tiet-thi-hanh-luat-du-tru-quoc-gia-ve-quan-ly-va-su-dung-hang-du-tru-443140-d10.html | Dự thảo | Chưa có |
+| 4 | https://luatvietnam.vn/tai-chinh/du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-78-2024-nd-cp-va-85-2024-nd-cp-ve-luat-gia-443132-d10.html | Dự thảo | Chưa có |
+| 5 | https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-311-2026-nd-cp-sua-doi-nghi-dinh-189-2025-ve-xu-ly-vi-pham-hanh-chinh-443102-d1.html | **Đã ban hành** (`-d1`) | Chưa có |
+
+**Phân tích:**
+- 4/5 là dự thảo (`-d10`) → không crawl (chờ ban hành chính thức).
+- 1/5 NĐ thật: **NĐ 311/2026 sửa đổi NĐ 189/2025 về xử lý VPHC** (docid 443102-d1) → ưu tiên crawl.
+- Tổng tracking "Chưa có" tăng từ 494 → 498 (giả định các dự thảo được đếm).
+- Sitemap TT không đổi: không có TT mới cần crawl.
+
+### Output artifacts (không commit vào repo, lưu tmp/)
+
+- `tmp/discovery-v103/urls_nd_v103.txt` (362 URLs)
+- `tmp/discovery-v103/urls_tt_v103.txt` (757 URLs)
+- `tmp/discovery-v103/new-urls.txt` (5 URLs mới)
+- `tmp/discovery-v103/incomplete-files.txt` (16 file <10KB + status stub)
+- `tmp/discovery-v103/sitemap_nghidinh.xml` + `sitemap_thongtu.xml`
+
+### Quyết định Bột
+
+- **NĐ 311/2026** (`-d1` đã ban hành) → ưu tiên crawl ở poll kế tiếp.
+- 4 dự thảo → chờ ban hành chính thức.
+- Refactor 9 file từ Đệ #4 v103 → xếp theo độ tuổi, xử lý lần lượt.
+
+---
+
 ## ĐỆ #4 CONTENT REVIEWER + PR COMMENT REVIEWER — 2026-08-07T19:38 ICT
 
 > **Branch:** heartbeat/crawl-vanban-20260807 (PR #264)
