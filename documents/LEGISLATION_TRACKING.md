@@ -10843,3 +10843,46 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 - PR #263 active, MERGEABLE, chờ Sếp
 - Đã sửa: 0 files (all PASS CLEAN)
 - Ngày: 2026-08-06 20:28 ICT Asia/Saigon
+
+---
+
+## Cập nhật 2026-08-07 v105 (Đệ #1 Discovery & Tracking — 2026-08-07 23:30 ICT)
+
+### Kết quả discovery: 5 NĐ mới (mirror v104, 1 NĐ thật đã crawl)
+
+**Phương pháp**: refresh sitemap `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc **23:30 ICT 7/8**. So với ref v102 (15:56 ICT 7/8). Sub-agent discovery-v105 spawn ở poll 22:30 bị runtime fail (không output disk, không commit); Bột re-run inline tại poll 23:29 để đảm bảo có dữ liệu.
+
+**Phạm vi quét**: 17 nhóm chủ đề theo task (giống v102).
+
+**Fallback**: vanban.chinhphu.vn đã thử — JS-rendered (không sử dụng được).
+
+### MD5 comparison
+
+| Sitemap | v105 (23:30 ICT) | v102 (15:56 ICT) | v104 (19:14 ICT) |
+|---|---|---|---|
+| Nghị định | `20658f279667acb29bd3c82d50a3c7d5` | `23553db37114f2cc3ecf513220a57416` | (chưa save riêng, mirror từ v102) |
+| Thông tư | `0e0789fc4e00b523b75dc2b251480f8c` | `b4f5bf78618024f9a2c60483f0404486` | (mirror v102) |
+
+**Nhận xét**: Sitemap NĐ đã thay đổi (MD5 khác v102). Sitemap TT không đổi.
+
+### Cross-reference 5 NĐ mới (vs v102)
+
+| # | URL | Loại | Trạng thái |
+|---|-----|------|------------|
+| 1 | .../443188-d10 (an sinh xã hội) | Dự thảo | Chưa có |
+| 2 | .../443107-d10 (sửa đổi NĐ 130/2024 thu phí đường bộ) | Dự thảo | Chưa có |
+| 3 | .../443140-d10 (Luật Dự trữ quốc gia) | Dự thảo | Chưa có |
+| 4 | .../443132-d10 (sửa đổi NĐ 78/2024 + 85/2024 Luật giá) | Dự thảo | Chưa có |
+| 5 | .../443102-d1 (NĐ 311/2026 sửa đổi NĐ 189/2025 VPHC) | **Đã ban hành** | **Hoàn thiện** (commit 36ad275f) |
+
+### Scan van-ban/: file chưa hoàn thiện
+
+- Không quét lại file (poll 22:30 reviewer-v106 fail; poll 23:29 ưu tiên chạy discovery để có dữ liệu mới).
+- Danh sách 9 file refactor scan + 5 STUB bền vững từ review v103 vẫn valid (tracking đã có).
+- Kiến nghị: ưu tiên xử lý 4 dự thảo NĐ chờ ban hành chính thức + theo dõi trong poll tiếp theo (12-24h).
+
+### Phiên thực hiện
+
+- agent: github-io (Bột inline re-run, runtime fail của sub-agent)
+- branch: `heartbeat/crawl-vanban-20260807`
+- Ngày: 2026-08-07 23:30 ICT Asia/Saigon

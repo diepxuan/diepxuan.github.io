@@ -1701,3 +1701,55 @@ Failed downloads: 0
 
 *Đệ #4 Content Reviewer — github-io workspace*
 *Subagent depth 1/1, hoàn thành 2026-08-07 19:38 ICT*
+
+---
+
+## ĐỆ #1 DISCOVERY — 2026-08-07T23:30 ICT (v105)
+
+> **Branch:** heartbeat/crawl-vanban-20260807 (PR #264)
+> **Subagent:** discovery-v105 (poll 22:30 spawned, runtime fail; Bột re-run inline lúc 23:30)
+> **Nguồn:** luatvietnam.vn (sitemap_nghidinh.xml + sitemap_thongtu.xml)
+
+### Phát hiện (so với v102 lúc 2026-08-07T15:56 ICT)
+
+- **Sitemap NĐ**: 357 → 363 (+6 URL mới vs v102; +1 URL mới vs v104 đã ghi nhận 5)
+- **Sitemap TT**: 758 → 758 (không đổi)
+
+### Danh sách 5 NĐ mới (so với v102, mirror v104 list)
+
+| # | URL | Loại | Trạng thái |
+|---|-----|------|------------|
+| 1 | https://luatvietnam.vn/chinh-sach/du-thao-nghi-dinh-ve-co-so-du-lieu-quoc-gia-an-sinh-xa-hoi-quy-dinh-chi-tiet-443188-d10.html | Dự thảo (`-d10`) | Chưa có (chờ ban hành) |
+| 2 | https://luatvietnam.vn/giao-thong/du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-130-2024-nd-cp-ve-thu-phi-duong-bo-cao-toc-443107-d10.html | Dự thảo | Chưa có (chờ ban hành) |
+| 3 | https://luatvietnam.vn/tai-chinh/du-thao-nghi-dinh-chi-tiet-thi-hanh-luat-du-tru-quoc-gia-ve-quan-ly-va-su-dung-hang-du-tru-443140-d10.html | Dự thảo | Chưa có (chờ ban hành) |
+| 4 | https://luatvietnam.vn/tai-chinh/du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-78-2024-nd-cp-va-85-2024-nd-cp-ve-luat-gia-443132-d10.html | Dự thảo | Chưa có (chờ ban hành) |
+| 5 | https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-311-2026-nd-cp-sua-doi-nghi-dinh-189-2025-ve-xu-ly-vi-pham-hanh-chinh-443102-d1.html | **Đã ban hành** (`-d1`) | **Hoàn thiện** (2026-08-07, 9 Điều, 28 KB, commit 36ad275f) |
+
+**Phân tích:**
+- 4/5 là dự thảo (`-d10`) → không crawl (chờ ban hành chính thức).
+- 1/5 NĐ thật: **NĐ 311/2026 sửa đổi NĐ 189/2025 về xử lý VPHC** (docid 443102-d1) → ✅ **Đã hoàn thiện 2026-08-07** (9 Điều, file `van-ban/vi-pham-hanh-chinh/311-2026-nd-cp.md` 28 KB).
+- Sitemap TT không đổi so với v102/v104: không có TT mới cần crawl.
+- Max NĐ slug: 443188 (tăng +82 so với 442906 của v93 → sitemap tiếp tục có dự thảo mới).
+
+### Output artifacts
+
+- `tmp/discovery-v105/sitemap_nghidinh.xml` (MD5: `20658f279667acb29bd3c82d50a3c7d5`)
+- `tmp/discovery-v105/sitemap_thongtu.xml` (MD5: `0e0789fc4e00b523b75dc2b251480f8c`)
+- `tmp/discovery-v105/nd_urls_v102.txt` vs `nd_urls_v105.txt` (diff 5 URLs)
+- `tmp/discovery-v105/new_nd_urls.txt` (5 URLs)
+- `tmp/discovery-v105/new_tt_urls.txt` (0 URLs)
+- `tmp/discovery-v105/removed_nd_urls.txt` (0 URLs)
+- `tmp/discovery-v105/removed_tt_urls.txt` (0 URLs)
+
+### Quyết định Bột
+
+- **NĐ 311/2026** → ✅ đã crawl xong, không cần action.
+- **4 dự thảo** → chờ ban hành chính thức, không crawl.
+- **Reviewer-v106** (poll 22:30) fail runtime (không có output disk, không có commit). Poll 23:29 không spawn lại vì 5/5 file review v103 đã PASS và 9 file refactor đã được mark; Bột ưu tiên HEARTBEAT thay vì retry liên tục.
+- **Kiến nghị poll discovery lại sau 12-24h** để check khi 4 dự thảo được ban hành chính thức.
+
+---
+
+*Đệ #1 Discovery — github-io workspace*
+*v105 chạy lại từ poll 23:29 ICT sau khi sub-agent discovery-v105 runtime fail*
+*Hoàn thành 2026-08-07 23:30 ICT*
