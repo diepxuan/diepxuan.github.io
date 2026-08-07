@@ -1,4 +1,53 @@
-## Cập nhật 2026-08-07 v101 (Đệ #1 Discovery — 2026-08-07 11:35 ICT)
+## Cập nhật 2026-08-07 v101 — Reviewer (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-07 11:35 ICT)
+
+### Nhiệm vụ 1: OCR Quality Gate — 5 VB KHÔNG GATED trước đó
+
+Chọn 5 VB chưa từng được quality gate trong bất kỳ đợt nào (v84-v100):
+
+| VB | Dòng | OCR | Điều | Missing | Dup | Chương | Đánh giá |
+|---|---|---|---|---|---|---|---|
+| 165/NĐ-CP (Phòng bệnh) | 4439 | 0 | 97 (1-97) | [] | [] | 10 (I-X) | **PASS CLEAN** |
+| 217/NĐ-CP (QL hoạt động xây dựng) | 992 | 0 | 76 (1-76) | [] | [] | 5 (I-V) | **PASS CLEAN** |
+| 292/NĐ-CP (Quản lý ngoại thương) | 1138 | 0 | 65 (1-65) | [] | [] | 8 (I-VIII) | **PASS CLEAN** |
+| 208/NĐ-CP (Vận tải hàng không) | 899 | 0 | 65 (1-65) | [] | [] | 7 (I-VII) | **PASS CLEAN** |
+| 213/NĐ-CP (Thi hành tạm giam) | 608 | 0 | 31 (1-31) | [] | [] | 5 (I-V) | **PASS CLEAN** |
+
+**Phát hiện chi tiết**:
+
+1. **165/2026/NĐ-CP** (4439 dòng, ~205KB, `van-ban/y-te-duoc/`): Nghị định quy định chi tiết Luật Phòng bệnh. 97 Điều (1-97), 10 Chương (I-X). OCR=0. Missing=[], Duplicate=[]. Các suspicious references "Điều N. Nghị định này" là tham chiếu chéo hợp lệ. **PASS CLEAN**.
+
+2. **217/2026/NĐ-CP** (992 dòng, `xay-dung/`): Nghị định quản lý hoạt động xây dựng. 76 Điều (1-76), 5 Chương (I-V). OCR=0. **PASS CLEAN**.
+
+3. **292/2026/NĐ-CP** (1138 dòng, `xuat-nhap-khau/`): Nghị định quản lý ngoại thương. 65 Điều (1-65), 8 Chương (I-VIII). OCR=0. **PASS CLEAN**.
+
+4. **208/2026/NĐ-CP** (899 dòng, `giao-thong-van-tai/`): Nghị định về vận tải hàng không. 65 Điều (1-65), 7 Chương (I-VII). OCR=0. **PASS CLEAN**.
+
+5. **213/2026/NĐ-CP** (608 dòng, `tu-phap-thi-hanh-an/`): Nghị định thi hành tạm giam. 31 Điều (1-31), 5 Chương (I-V). OCR=0. **PASS CLEAN**.
+
+**TỔNG KẾT**: **5/5 VB PASS CLEAN** — không một lỗi OCR, không một lỗi cấu trúc. 0 lỗi cần sửa.
+
+### Nhiệm vụ 2: Scan Refactor toàn bộ van-ban/
+
+| Tiêu chí | v99 | v101 | Thay đổi |
+|---|---|---|---|
+| Total *.md | 639 | 647 | +8 |
+| File "Đang cập nhật" | 158 | 159 | +1 |
+| File < 10KB (non-STUB, non-DCN) | 72 | 72 | 0 |
+| File < 3KB + >7d | 3 | 7 | +4 |
+
+### Nhiệm vụ 3: STUB Re-check
+
+6/6 STUB bền vững, không thay đổi so với v99 (279/NĐ-CP, 286/NĐ-CP, 20/TT-BVHTTDL, 61/TT-BGDĐT, 291/NQ-TPQH16, 44/TT-BKHCN tracking-only).
+
+### Nhiệm vụ 4: PR Comments
+
+**0 PR open**. PR #263 đã merge lúc 08:56 ICT. Không có PR heartbeat active. Branch hiện tại `heartbeat/crawl-vanban-20260807`.
+
+### Phiên thực hiện
+- agent: github-io:subagent:5a55c040 (Đệ #4 — Content Reviewer + PR Comment Reviewer)
+- branch: `heartbeat/crawl-vanban-20260807`
+- PR: 0 open
+- Ngày: 2026-08-07 11:35 ICT Asia/Saigon## Cập nhật 2026-08-07 v101 (Đệ #1 Discovery — 2026-08-07 11:35 ICT)
 
 ### Kết quả discovery: 0 văn bản mới
 
