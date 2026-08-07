@@ -1563,11 +1563,11 @@ Failed downloads: 0
 | 2 | https://luatvietnam.vn/giao-thong/du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-130-2024-nd-cp-ve-thu-phi-duong-bo-cao-toc-443107-d10.html | Dự thảo | Chưa có |
 | 3 | https://luatvietnam.vn/tai-chinh/du-thao-nghi-dinh-chi-tiet-thi-hanh-luat-du-tru-quoc-gia-ve-quan-ly-va-su-dung-hang-du-tru-443140-d10.html | Dự thảo | Chưa có |
 | 4 | https://luatvietnam.vn/tai-chinh/du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-78-2024-nd-cp-va-85-2024-nd-cp-ve-luat-gia-443132-d10.html | Dự thảo | Chưa có |
-| 5 | https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-311-2026-nd-cp-sua-doi-nghi-dinh-189-2025-ve-xu-ly-vi-pham-hanh-chinh-443102-d1.html | **Đã ban hành** (`-d1`) | Chưa có |
+| 5 | https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-311-2026-nd-cp-sua-doi-nghi-dinh-189-2025-ve-xu-ly-vi-pham-hanh-chinh-443102-d1.html | **Đã ban hành** (`-d1`) | **Hoàn thiện** (2026-08-07, 9 Điều, ~21 KB) |
 
 **Phân tích:**
 - 4/5 là dự thảo (`-d10`) → không crawl (chờ ban hành chính thức).
-- 1/5 NĐ thật: **NĐ 311/2026 sửa đổi NĐ 189/2025 về xử lý VPHC** (docid 443102-d1) → ưu tiên crawl.
+- 1/5 NĐ thật: **NĐ 311/2026 sửa đổi NĐ 189/2025 về xử lý VPHC** (docid 443102-d1) → ✅ **Đã hoàn thiện 2026-08-07** (9 Điều, file `van-ban/vi-pham-hanh-chinh/311-2026-nd-cp.md` ~21 KB).
 - Tổng tracking "Chưa có" tăng từ 494 → 498 (giả định các dự thảo được đếm).
 - Sitemap TT không đổi: không có TT mới cần crawl.
 
@@ -1581,7 +1581,7 @@ Failed downloads: 0
 
 ### Quyết định Bột
 
-- **NĐ 311/2026** (`-d1` đã ban hành) → ưu tiên crawl ở poll kế tiếp.
+- **NĐ 311/2026** (`-d1` đã ban hành) → ✅ **Đã crawl hoàn thiện 2026-08-07** bởi Đệ #3, commit trên PR #264.
 - 4 dự thảo → chờ ban hành chính thức.
 - Refactor 9 file từ Đệ #4 v103 → xếp theo độ tuổi, xử lý lần lượt.
 
