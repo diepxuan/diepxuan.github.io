@@ -10886,3 +10886,56 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 - agent: github-io (Bột inline re-run, runtime fail của sub-agent)
 - branch: `heartbeat/crawl-vanban-20260807`
 - Ngày: 2026-08-07 23:30 ICT Asia/Saigon
+
+## Cập nhật 2026-08-08 v106 (Đệ #1 Discovery & Tracking — 2026-08-08 23:40 ICT)
+
+### Kết quả discovery: 3 Thông tư mới + 4 dự thảo NĐ mới (so với ref v98/v102)
+
+**Phương pháp**: refresh sitemap `sitemap_nghidinh.xml` (92.9 KB) + `sitemap_thongtu.xml` (195.6 KB) từ luatvietnam.vn lúc **23:40 ICT 8/8**. So với ref v98 (05:04 ICT 7/8 — lần cuối sitemap fetch thành công trước v105 bị 404).
+
+**Phạm vi quét**: 17 nhóm chủ đề theo task (giống v102).
+
+**Fallback**: vanban.chinhphu.vn đã thử — JS-rendered (không sử dụng được).
+
+### MD5 comparison
+
+| Sitemap | v106 (23:40 ICT) | v98 (05:04 ICT) |
+|---|---|---|
+| Nghị định | `405721167b638a258461d8abd84c2c5e` | `23553db37114f2cc3ecf513220a57416` |
+| Thông tư | `7f56ef739609ceb3a3735bdd738e31ef` | `59062d8a7f6f3b500befc786a9e9e782` |
+
+**Nhận xét**: Cả 2 sitemap đều thay đổi (MD5 khác v98).
+
+### Phát hiện mới
+
+#### 3 Thông tư đã ban hành (chưa crawl)
+
+| # | Số hiệu | Lĩnh vực | Ngày BH | Hiệu lực | Slug | Trạng thái |
+|---|--------|----------|--------|----------|------|------------|
+| 1 | **39/2026/TT-NHNN** | tai-chinh | 05/08/2026 | 19/09/2026 | 443222-d1 | **Hoàn thiện** (poll 23:29) |
+| 2 | 63/2026/TT-BXD | dau-tu | — | — | 443192-d1 | Chưa có |
+| 3 | 45/2026/TT-BKHCN | khoa-hoc | — | — | 443191-d1 | Chưa có |
+
+**Trích yếu**:
+1. **39/2026/TT-NHNN**: Sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN hướng dẫn sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của người cư trú, người không cư trú; bổ sung Điều 2a quy định nguyên tắc sử dụng tài khoản của tổ chức tín dụng nước ngoài; sửa đổi Điều 9 về trách nhiệm tổ chức tín dụng được phép. Ký bởi Phó Thống đốc Phạm Thanh Hà. Hiệu lực 19/9/2026.
+2. **63/2026/TT-BXD**: Ban hành định mức dự toán xây dựng Dự án thành phần 2 tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng.
+3. **45/2026/TT-BKHCN**: Sửa đổi bổ sung thủ tục đo lường; cắt giảm, đơn giản hóa thủ tục đo lường hiệu quả.
+
+#### 4 dự thảo Nghị định mới
+
+| # | URL | Chủ đề |
+|---|-----|--------|
+| 1 | .../443188-d10 | Cơ sở dữ liệu quốc gia an sinh xã hội |
+| 2 | .../443107-d10 | Sửa đổi NĐ 130/2024 thu phí đường bộ cao tốc |
+| 3 | .../443140-d10 | Chi tiết thi hành Luật Dự trữ quốc gia |
+| 4 | .../443132-d10 | Sửa đổi NĐ 78/2024 + 85/2024 Luật giá |
+
+### Dự thảo NĐ cũ (từ v105) — chưa được ban hành
+
+4 dự thảo NĐ phát hiện ở v105 (443188/443107/443140/443132) vẫn ở -d10, không có -d1 tương ứng. Chờ ban hành.
+
+### Phiên thực hiện
+
+- agent: github-io (Bột inline re-run, runtime fail của sub-agent)
+- branch: `heartbeat/crawl-vanban-20260807` (PR #264 active)
+- Ngày: 2026-08-08 23:40 ICT Asia/Saigon
