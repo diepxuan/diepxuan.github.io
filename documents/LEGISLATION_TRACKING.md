@@ -10913,12 +10913,12 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 | # | Số hiệu | Lĩnh vực | Ngày BH | Hiệu lực | Slug | Trạng thái |
 |---|--------|----------|--------|----------|------|------------|
 | 1 | **39/2026/TT-NHNN** | tai-chinh | 05/08/2026 | 19/09/2026 | 443222-d1 | **Hoàn thiện** (poll 23:29) |
-| 2 | 63/2026/TT-BXD | dau-tu | — | — | 443192-d1 | Chưa có |
+| 2 | **63/2026/TT-BXD** | dau-tu | 31/07/2026 | 15/09/2026 | 443192-d1 | **Hoàn thiện** (poll 09:02) |
 | 3 | 45/2026/TT-BKHCN | khoa-hoc | — | — | 443191-d1 | Chưa có |
 
 **Trích yếu**:
 1. **39/2026/TT-NHNN**: Sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN hướng dẫn sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của người cư trú, người không cư trú; bổ sung Điều 2a quy định nguyên tắc sử dụng tài khoản của tổ chức tín dụng nước ngoài; sửa đổi Điều 9 về trách nhiệm tổ chức tín dụng được phép. Ký bởi Phó Thống đốc Phạm Thanh Hà. Hiệu lực 19/9/2026.
-2. **63/2026/TT-BXD**: Ban hành định mức dự toán xây dựng Dự án thành phần 2 tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng.
+2. **63/2026/TT-BXD**: Ban hành định mức dự toán xây dựng Dự án thành phần 2 tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng. Ký bởi Thứ trưởng Nguyễn Danh Huy. Hiệu lực 15/9/2026. Căn cứ Luật Xây dựng 135/2025/QH15; Luật Đường sắt 95/2025/QH15; NĐ 123/2025/NĐ-CP; NĐ 67/2026/NĐ-CP; NĐ 33/2025/NĐ-CP. Gồm 3 Điều, 14 Phụ lục đính kèm (định mức dự toán xây dựng cơ bản, nền đường, cầu cống, hầm, đường ray, viễn thông, tín hiệu, thông tin, điện lực, điện kéo, nhà, cấp thoát nước, hệ thống kỹ thuật cơ khí đầu máy và toa xe, nhà ga). Source: luatvietnam.vn (slug 443192-d1); file Markdown 6.3KB, OCR issues=0, quality gate pass.
 3. **45/2026/TT-BKHCN**: Sửa đổi bổ sung thủ tục đo lường; cắt giảm, đơn giản hóa thủ tục đo lường hiệu quả.
 
 #### 4 dự thảo Nghị định mới
