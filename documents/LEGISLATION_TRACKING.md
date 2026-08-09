@@ -10929,6 +10929,17 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 | 2 | 47/2026/TT-BKHCN | khoa-hoc | 443236-d1 | Chưa có (chờ crawl) |
 | 3 | 112/2026/TT-BQP | quoc-phong | 443237-d1 | Chưa có (chờ crawl) |
 
+#### Discovery v107 — bổ sung 2 NĐ mới (21:09 ICT 9/8, lastmod sitemap 18:08 ICT)
+
+| # | Số hiệu | Lĩnh vực | Slug | Trạng thái |
+|---|--------|----------|------|------------|
+| 1 | 312/2026/NĐ-CP | chinh-sach | 443292-d1 | Chưa có (chờ crawl) |
+| 2 | 313/2026/NĐ-CP | y-te | 443329-d1 | Chưa có (chờ crawl) |
+
+**Trích yếu**:
+1. **312/2026/NĐ-CP**: Kết hợp an ninh với kinh tế - xã hội và ngược lại. URL: `https://luatvietnam.vn/chinh-sach/nghi-dinh-312-2026-nd-cp-ket-hop-an-ninh-voi-kinh-te-xa-hoi-va-nguoc-lai-443292-d1.html`.
+2. **313/2026/NĐ-CP**: Quy định chức năng, nhiệm vụ, quyền hạn của Bộ Y tế. URL: `https://luatvietnam.vn/y-te/nghi-dinh-313-2026-nd-cp-chuc-nang-nhiem-vu-quyen-han-bo-y-te-443329-d1.html`.
+
 **Trích yếu**:
 1. **46/2026/TT-BKHCN**: Quy định xét tặng giải thưởng chất lượng sản phẩm hàng hóa của tổ chức, doanh nghiệp Việt Nam.
 2. **47/2026/TT-BKHCN**: Quy định đào tạo chuyên môn cho chuyên gia và kiểm soát viên kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.
