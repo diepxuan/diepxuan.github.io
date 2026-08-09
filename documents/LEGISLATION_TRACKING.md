@@ -10914,12 +10914,25 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 |---|--------|----------|--------|----------|------|------------|
 | 1 | **39/2026/TT-NHNN** | tai-chinh | 05/08/2026 | 19/09/2026 | 443222-d1 | **Hoàn thiện** (poll 23:29) |
 | 2 | **63/2026/TT-BXD** | dau-tu | 31/07/2026 | 15/09/2026 | 443192-d1 | **Hoàn thiện** (poll 09:02) |
-| 3 | 45/2026/TT-BKHCN | khoa-hoc | — | — | 443191-d1 | Chưa có |
+| 3 | **45/2026/TT-BKHCN** | khoa-hoc | 31/07/2026 | 01/09/2026 | 443191-d1 | **Hoàn thiện** (poll 14:29) |
 
 **Trích yếu**:
 1. **39/2026/TT-NHNN**: Sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN hướng dẫn sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của người cư trú, người không cư trú; bổ sung Điều 2a quy định nguyên tắc sử dụng tài khoản của tổ chức tín dụng nước ngoài; sửa đổi Điều 9 về trách nhiệm tổ chức tín dụng được phép. Ký bởi Phó Thống đốc Phạm Thanh Hà. Hiệu lực 19/9/2026.
 2. **63/2026/TT-BXD**: Ban hành định mức dự toán xây dựng Dự án thành phần 2 tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng. Ký bởi Thứ trưởng Nguyễn Danh Huy. Hiệu lực 15/9/2026. Căn cứ Luật Xây dựng 135/2025/QH15; Luật Đường sắt 95/2025/QH15; NĐ 123/2025/NĐ-CP; NĐ 67/2026/NĐ-CP; NĐ 33/2025/NĐ-CP. Gồm 3 Điều, 14 Phụ lục đính kèm (định mức dự toán xây dựng cơ bản, nền đường, cầu cống, hầm, đường ray, viễn thông, tín hiệu, thông tin, điện lực, điện kéo, nhà, cấp thoát nước, hệ thống kỹ thuật cơ khí đầu máy và toa xe, nhà ga). Source: luatvietnam.vn (slug 443192-d1); file Markdown 6.3KB, OCR issues=0, quality gate pass.
-3. **45/2026/TT-BKHCN**: Sửa đổi bổ sung thủ tục đo lường; cắt giảm, đơn giản hóa thủ tục đo lường hiệu quả.
+3. **45/2026/TT-BKHCN**: Sửa đổi, bổ sung một số điều của các Thông tư Bộ KH&CN để cắt giảm, đơn giản hóa thủ tục hành chính lĩnh vực đo lường; sửa đổi/bổ sung/bãi bỏ một số điều của TT 14/2013, TT 23/2013, TT 54/2025; gồm 22 Điều, 4 Chương, 8 biểu mẫu tại Phụ lục. Ký bởi Vũ Hải Quân. Hiệu lực 01/9/2026. Source: luatvietnam.vn (slug 443191-d1); file 54.9KB, OCR issues=0, quality gate pass.
+
+#### Discovery v103 — bổ sung 3 VB mới (13:07 ICT 9/8)
+
+| # | Số hiệu | Lĩnh vực | Slug | Trạng thái |
+|---|--------|----------|------|------------|
+| 1 | 46/2026/TT-BKHCN | khoa-hoc | 443235-d1 | Chưa có (chờ crawl) |
+| 2 | 47/2026/TT-BKHCN | khoa-hoc | 443236-d1 | Chưa có (chờ crawl) |
+| 3 | 112/2026/TT-BQP | quoc-phong | 443237-d1 | Chưa có (chờ crawl) |
+
+**Trích yếu**:
+1. **46/2026/TT-BKHCN**: Quy định xét tặng giải thưởng chất lượng sản phẩm hàng hóa của tổ chức, doanh nghiệp Việt Nam.
+2. **47/2026/TT-BKHCN**: Quy định đào tạo chuyên môn cho chuyên gia và kiểm soát viên kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.
+3. **112/2026/TT-BQP**: Hướng dẫn thi hành về điều ước quốc tế thuộc thẩm quyền của Bộ Quốc phòng.
 
 #### 4 dự thảo Nghị định mới
 
