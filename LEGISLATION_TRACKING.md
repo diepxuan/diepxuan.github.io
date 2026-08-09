@@ -1753,3 +1753,108 @@ Failed downloads: 0
 *Đệ #1 Discovery — github-io workspace*
 *v105 chạy lại từ poll 23:29 ICT sau khi sub-agent discovery-v105 runtime fail*
 *Hoàn thành 2026-08-07 23:30 ICT*
+
+---
+
+## ĐỆ #4 CONTENT REVIEWER + PR COMMENT REVIEWER — 2026-08-09T13:07 ICT (v104)
+
+> **Branch:** heartbeat/crawl-vanban-20260807 (PR #264)
+> **Reviewer:** Đệ #4 Subagent Heartbeat (subagent depth 1/1)
+> **Task:** (1) OCR Quality Gate 5 VB mới, (2) PR comments, (3) STUB re-check + scan refactor.
+
+### A. OCR QUALITY GATE — 5 VB (chưa gate trong v84-v103)
+
+Chọn 5 VB "Hoàn thiện" chưa từng quality gate (ưu tiên > 10KB để có nhiều nội dung kiểm tra):
+
+| # | File | Dòng | KB | OCR | Điều | Missing | Dup | Chương | Đánh giá |
+|---|------|------|----|-----|------|---------|-----|--------|----------|
+| 1 | `van-ban/cong-an/107-2026-tt-bca-quy-chuan-ky-thuat-trung-tam-sat-hach-lai-xe.md` | 1653 | 115 | 4 FP | 3 (1-3) | [] | [] | 0 | **PASS CLEAN** (4 "timeout" = thuật ngữ HTTP/REST trong QCVN) |
+| 2 | `van-ban/cong-an/109-2026-tt-bca-dao-tao-sat-hach-cap-giay-phep-lai-xe.md` | 1783 | 138 | 0 | 48 (1-48) | [] | [] | 0 | **PASS CLEAN** |
+| 3 | `van-ban/cong-an/115-2026-tt-bca-the-giay-phep-chung-nhan-an-ninh-hang-khong.md` | 1653 | 98 | 4 FP | 33 (1-33) | [] | [] | 6 (I-VI) | **PASS** — đã fix heading Điều 8 missing |
+| 4 | `van-ban/hanh-chinh/nghi-dinh-301-2026-nd-cp-sua-doi-nghi-dinh-63-2024.md` | 923 | 78 | 0 | 19 (1-19) | [] | [] | 0 | **PASS CLEAN** (2 bold heading hợp lệ VB sửa đổi) |
+| 5 | `van-ban/doanh-nghiep-hop-tac-xa/294-2026-nd-cp.md` | 1134 | 81 | 0 | 54 (1-38 + PL) | [] | [1-16] FP | 0 | **PASS CLEAN** (16 Điều Phụ lục mẫu FP duplicate) |
+
+**Chi tiết lỗi đã sửa**:
+
+1. **115/2026/TT-BCA**: thiếu heading `### Điều 8.` giữa Điều 7 và Điều 9 (có nội dung "Nguyên tắc cấp thẻ, giấy phép kiểm soát an ninh cảng hàng không" nhưng không có heading). **Đã thêm heading** → 33 Điều (1-33) đầy đủ, Missing=[].
+
+**Kết luận OCR Quality Gate**: **5/5 PASS** (3 PASS CLEAN + 1 PASS sau fix heading + 1 PASS với FP duplicate Phụ lục).
+
+**Pattern FP đã refine**:
+- `timeout` trong QCVN giao thức HTTP/REST API (107/TT-BCA) — hợp lệ tiếng Việt kỹ thuật.
+- `above` trong biểu mẫu song ngữ Việt-Anh (115/TT-BCA) — hợp lệ tiếng Anh.
+- Duplicate Điều 1-16 (294/NĐ-CP) — Phụ lục mẫu hợp đồng có số Điều riêng.
+
+### B. PR COMMENT TRIAGE
+
+| PR | Ngày tạo | Branch | Comments | Reviews | Trạng thái |
+|----|----------|--------|----------|---------|-----------|
+| #264 | 2026-08-07 05:03 UTC | heartbeat/crawl-vanban-20260807 | 0 | 0 | **OPEN** — 0 comments, 0 reviews |
+
+**Phân loại PR #264**:
+- 🔴 **Cần xử lý ngay**: PR #264 — chưa có comment/review từ Sếp. Có 12 commits, 35 files (+8115/-6), 4 VB mới hoàn thiện (TT 63/2026/TT-BXD, TT 39/2026/TT-NHNN, NĐ 279/2026, NĐ 311/2026). Update cuối 2026-08-09T02:28 UTC (~11h trước).
+- 🟢 **Thông báo**: không có.
+- ⚪ **Đã stale**: không có (chỉ có PR #264 open).
+
+### C. STUB RE-CHECK + SCAN REFACTOR van-ban/
+
+**8 STUB đã biết (tracking v103, 2026-08-07)**:
+
+| # | File | Size | Tuổi | Trạng thái | Note |
+|---|------|------|------|------------|------|
+| 1 | `2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1.5KB | 17d | STUB | status: Đang cập nhật (stub); chờ datafiles.chinhphu.vn |
+| 2 | `giao-duc/2026-07-17-61-tt-bgddt-tai-nguyen-giao-duc-mo-trong-gdvh.md` | 2.9KB | 17d | STUB | status: STUB |
+| 3 | `van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1.6KB | 5d | STUB + nghi vấn số hiệu | slug 441168 = NĐ 291, không phải NQ 291; **retry khi slug rõ** |
+| 4 | `van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md` | 1.7KB | 5d | STUB | status: stub; **retry cơ hội khi nguồn luatvietnam.vn có body** |
+| 5 | `chinh-phu/nghi-dinh-286-2026-nd-cp-co-che-phoi-hop-quan-ly-nhap-xuat-canh-nguoi-nuoc-ngoai.md` | 2.1KB | 5d | STUB | status: chưa hoàn thiện; **retry khi SPA URL khả dụng** |
+| 6 | `xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` | 1.6KB | 5d | STUB | stub: true; chờ nội dung QCVN 32:2026/BXD |
+| 7 | `cong-an/92-2026-tt-bca-ung-pho-thien-tai-tim-kiem-cuu-nan.md` | 3.4KB | 22d | STUB | "Văn bản gốc chưa truy cập được" (403/Cloudflare); **retry cơ hội thấp** |
+| 8 | `nang-luong/nghi-dinh-272-2026-nd-cp-dien-gio-ngoai-khoi.md` | 3.4KB | 32d | STUB | "Nội dung toàn văn đang được cập nhật"; **retry cơ hội thấp** (VB hiệu lực 04/07/2026) |
+
+**Tracking-only** (chưa có file):
+- `44/2026/TT-BKHCN` (slug 442979) — Đệ #3 fail 3x (poll 00:59, 02:29, 03:59 ICT 08-Aug); nguồn không khả dụng; **retry khi nguồn thay đổi**.
+
+**Phát hiện mới** (partial STUB):
+- `hanh-chinh/309-2026-nd-cp-sua-doi-nghi-dinh-118-thu-tuc-hanh-chinh-mot-cua.md` (22.7KB, 2d) — Điều 15 ghi chú "Đang cập nhật — nguồn trích dẫn chưa có toàn văn Điều 15. Sẽ bổ sung khi có văn bản gốc." Nội dung chính 16/16 Điều đầy đủ, **partial STUB** (1/16 Điều).
+
+**Scan refactor tổng quan van-ban/**:
+- Tổng file `*.md`: **650** (file tổng hợp)
+- File `layout: vanban`: **276** (vanban thực sự)
+- File có STUB marker (`status: STUB`, `stub: true`, `status: chưa hoàn thiện`): **9 file**
+- File < 10KB non-STUB: **~40 file** (chủ yếu VB ngắn tự nhiên: NĐ sửa đổi 1-5 Điều, QĐ, Công điện, NQ ngắn)
+
+**False positive STUB** (chuỗi "Đang cập nhật" trong metadata):
+- `quoc-phong/thong-tu-32-2026-tt-bqp-loai-khoi-bien-che-tai-san-cong-bo-quoc-phong.md` (112KB, 54d) — chỉ có "Đang cập nhật" trong "Ngày đăng Công báo" / "Số Công báo" (thông tin chưa xác minh), file có nội dung đầy đủ.
+- `nang-luong-tai-nguyen/243-2026-nd-cp.md` (37KB, 31d) — tương tự, file hoàn thiện.
+- `tai-chinh/thong-tu-105-2026-tt-btc.md` (6KB, 5d) — tương tự, file hoàn thiện.
+
+### D. ĐỀ XUẤT HÀNH ĐỘNG CHO BỘT
+
+1. **Commit tracking update** (PR #264): 
+   - Đã thêm section "ĐỆ #4 CONTENT REVIEWER — 2026-08-09 (v104)" vào cuối LEGISLATION_TRACKING.md (chưa commit, đang tracked).
+
+2. **PR #264 — chờ Sếp review**: 0 comments, 0 reviews. Có 4 VB mới (TT 63/TT-BXD, TT 39/TT-NHNN, NĐ 279, NĐ 311) + commit v104 fix heading 115/TT-BCA.
+
+3. **STUB retry ưu tiên**:
+   - **Ưu tiên 1** (có cơ hội retry): 86/TT-BTC (datafiles PDF), 20/TT-BVHTTDL (slug rõ).
+   - **Ưu tiên 2** (chờ nguồn): 309/NĐ-CP (Điều 15), 286/NĐ-CP (SPA URL), 291/NQ (slug ambiguity).
+   - **Ưu tiên 3** (bền vững STUB): 92/TT-BCA (403 Cloudflare), 272/NĐ-CP (32 ngày), 61/TT-BGDĐT (17 ngày), 62/TT-BXD QCVN (chờ QCVN content).
+   - **Tracking-only**: 44/TT-BKHCN (fail 3x, chờ nguồn mới).
+
+### E. TÓM TẮT BÁO CÁO CHO BỘT
+
+```
+Đệ #4 — Heartbeat 2026-08-09 13:07 ICT
+├── OCR Quality Gate: 5/5 PASS (3 PASS CLEAN + 1 sau fix heading + 1 FP duplicate)
+├── Sửa 1 file: 115/2026/TT-BCA (thêm heading Điều 8 missing)
+├── PR comments: PR #264 open, 0 comments, 0 reviews
+├── STUB re-check: 8 STUB đã biết + 1 partial (309/NĐ-CP) + 3 false positive
+├── Commit: 394788e7 (review v104, 1 file changed +2)
+└── Tóm tắt: Tất cả 5 VB đều PASS chất lượng OCR; STUB bền vững không có cơ hội retry ngay.
+```
+
+---
+
+*Đệ #4 Content Reviewer — github-io workspace*
+*Subagent depth 1/1, hoàn thành 2026-08-09 13:07 ICT*
+
