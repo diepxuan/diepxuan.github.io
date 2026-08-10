@@ -64,6 +64,54 @@ Theo dõi văn bản pháp luật mới từ luatvietnam.vn.
 ---
 ---
 
+## Cap nhat 2026-08-10 12:26 ICT (Review v108 — De #4)
+
+### OCR Quality Gate — 5 VB chua gate (uu tien PR #264)
+
+| # | VB | Dieu | Chuong | Dong | OCR Issues | Danh gia |
+|---|----|------|--------|------|------------|----------|
+| 1 | TT 45/2026/TT-BKHCN (khoa-hoc) | 22 (1-22) | 4 (I-IV) | 1116 | 0 | **PASS CLEAN** (16 suspicious FP = Mẫu/Phụ lục; `Điền` L861 = Ghi chú hướng dẫn, không phải lỗi OCR) |
+| 2 | TT 63/2026/TT-BXD (dau-tu) | 3 (1-3) | 0 | 160 | 0 | **PASS CLEAN** |
+| 3 | TT 39/2026/TT-NHNN (tai-chinh) | 5 (1-5) | 0 | 153 | 0 | **PASS CLEAN** |
+| 4 | NĐ 279/2026/NĐ-CP (giao-duc) | 6 (1-6) | 0 | 198 | 0 | **PASS CLEAN** |
+| 5 | NĐ 311/2026/NĐ-CP (vi-pham-hanh-chinh) | 9 (1-9) | 0 | 185 | 0 | **PASS CLEAN** (`trangthai: hoanthien`) |
+
+- Tat ca 5/5: Missing=[], Duplicate=[], OCR issues=0
+- 4 file (TT45, TT63, TT39, ND279) CHUA co field `trangthai` trong front matter — đề xuất bổ sung `trangthai: hoanthien` sau khi Sếp review PR #264.
+- TT 45/2026/TT-BKHCN: 16 suspicious `**Điều X.**` đều nằm trong Mẫu/Phụ lục (Quyết định mẫu, Đơn mẫu) — KHONG phải lỗi OCR, là cấu trúc hợp lệ của văn bản.
+
+### Refactor Scan
+
+- File <10KB + lastedit >7d + chua `trangthai: hoanthien`: **61 file**
+- Phân loại nhanh:
+  - File archive / tracking / README / index: ~6 file (van-ban/2026-archive/, crawled/README.md, tracking/, index.md, thi-dua-.../index.md) — không phải VB cần gate.
+  - File nội dung pháp luật <10KB ngắn (NQ/NĐ/TT): ~55 file — nội dung ngắn hợp lý, cần đánh dấu `trangthai: hoanthien` sau khi rà soát.
+
+### STUB Re-check
+
+| STUB | File | Modified | Status |
+|------|------|----------|--------|
+| 279/ND-CP | giao-duc/nghi-dinh-279-2026-nd-cp-to-chuc-bo-gdđt.md (21655B/198L) | 2026-08-08 | **HOAN THIEN** — pass OCR gate v108 |
+| 286/ND-CP | chinh-phu/...-nhap-xuat-canh.md | - | Chua kiem tra v108 |
+| 20/TT-BVHTTDL | van-hoa/...giay-phep-bao-chi.md | 2026-08-04 | Chua kiem tra v108 |
+| 61/TT-BGDDT | 2026-07-17-61-tt-bgddt-tai-nguyen-giao-duc-mo-trong-gdvh.md | - | Chua kiem tra v108 |
+| 291/NQ-TPQH16 | van-hoa/...291-2026-nq-tpqh16...md | - | Chua kiem tra v108 |
+| 44/TT-BKHCN | KHONG co file | - | STUB — fail 3x |
+
+### PR #264 Comments
+
+- `gh pr list --state open` → 1 PR (PR #264 heartbeat/crawl-vanban-20260807)
+- `gh api issues/264/comments` → [] (0 comments)
+- Can xu ly ngay: 0, Cho Sep: 0, Thong bao: 0, Stale: 0
+
+### Tong ket
+- OCR Gate 5 VB: ALL PASS CLEAN (0 lỗi)
+- Refactor: 61 file <10KB chua `trangthai`, cần đánh dấu sau khi Sếp review
+- STUB 279/ND-CP: DA HOAN THIEN (xoa STUB)
+- STUB khac: 5/6 chua kiem tra v108
+- PR #264: 0 comments
+- Bot can xu ly ngay: KHONG (PR review có thể merge sau khi Sếp xác nhận 4 file còn thiếu `trangthai`)
+---
 ## Baseline (Khoi tao 2026-07-21)
 
 Sitemap quet luc: 2026-07-21T04:33 ICT
