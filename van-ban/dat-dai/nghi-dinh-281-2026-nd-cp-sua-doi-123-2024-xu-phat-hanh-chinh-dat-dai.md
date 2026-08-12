@@ -2,7 +2,7 @@
 layout: vanban
 title: "Nghị định số 281/2026/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 123/2024/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực đất đai"
 date: 2026-07-13
-modified: 2026-07-23
+modified: 2026-08-12
 group: dat-dai
 tags:
   - xử phạt vi phạm hành chính
@@ -20,8 +20,10 @@ nguoiky: Thủ tướng Chính phủ (Hồ Quốc Dũng)
 cquanbanhanh: Chính phủ
 trichyeu: Sửa đổi, bổ sung một số điều của Nghị định số 123/2024/NĐ-CP ngày 04 tháng 10 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực đất đai
 canbophaply:
+  - Luật Tổ chức Chính phủ số 63/2025/QH15
+  - Luật Tổ chức chính quyền địa phương số 72/2025/QH15
+  - Luật Xử lý vi phạm hành chính số 15/2012/QH13
   - Luật Đất đai số 31/2024/QH15
-  - Luật Xử lý vi phạm hành chính số 19/2012/QH13
   - Nghị quyết số 254/2025/QH15
 loaivanban: Nghị định
 ---
