@@ -1,3 +1,71 @@
+## Cập nhật 2026-08-12 v108 (Đệ #1 Discovery & Tracking — 2026-08-12 13:33 ICT)
+
+### Kết quả discovery: 6 văn bản mới (1 NĐ + 5 TT)
+
+**Phương pháp**: refresh sitemap `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc **13:33 ICT 12/8**. So với ref v108 (v106/v107 đã crawl).
+
+**Phạm vi quét**: 17 nhóm chủ đề theo task (giống v102).
+
+**Fallback**: vanban.chinhphu.vn đã thử — JS-rendered (không sử dụng được). luatvietnam.vn là nguồn chính.
+
+### MD5 comparison
+
+| Sitemap | v108 (13:33 ICT 12/8) | v106 (23:40 ICT 8/8) |
+|---|---|---|
+| Nghị định | `20658f279667acb29bd3c82d50a3c7d5` | `405721167b638a258461d8abd84c2c5e` |
+| Thông tư | `0e0789fc4e00b523b75dc2b251480f8c` | `7f56ef739609ceb3a3735bdd738e31ef` |
+
+### Max d1 slug
+
+- NĐ: **443624** (315/NĐ-CP, tăng từ 443329 ở v107)
+- TT: **443628** (40/TT-NHNN, tăng từ 443237 ở v107)
+
+### 6 VB mới phát hiện (chưa có trong tracking)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|--------|--------|------|---------|----------|------------|
+| 1 | **315/2026/NĐ-CP** | An ninh (Bộ Công an) | 443624-d1 | 10/08/2026 | — | **Chưa có** |
+| 2 | **40/2026/TT-NHNN** | Tài chính (NHNN) | 443628-d1 | 10/08/2026 | — | **Chưa có** |
+| 3 | **23/2026/TT-BVHTTDL** | Văn hóa (BVHTTDL) | 443556-d1 | 06/08/2026 | 21/09/2026 | **Chưa có** |
+| 4 | **136/2026/TT-BCA** | Hành chính/Công an | 443478-d1 | 22/07/2026 | 01/08/2026 | **Chưa có** |
+| 5 | **48/2026/TT-BKHCN** | Khoa học-Công nghệ | 443501-d1 | 01/08/2026 | — | **Chưa có** |
+| 6 | **17/2026/TT-BNV** | Lao động/BHXH | 443343-d1 | 31/07/2026 | 01/10/2026 | **Chưa có** |
+
+### Chi tiết 6 VB mới
+
+1. **315/2026/NĐ-CP** — Quy định về kiểm định và kiểm tra an ninh thiết bị kỹ thuật bảo vệ bí mật nhà nước. Ban hành 10/08/2026 bởi Bộ Công an. 17 Điều, 5 Chương (I-V). Căn cứ Luật Bảo vệ bí mật nhà nước 117/2025, Luật An ninh quốc gia 32/2004. Phân công Bộ Công an, Bộ Quốc phòng thực hiện kiểm định/an ninh thiết bị. URL: `https://luatvietnam.vn/an-ninh-quoc-gia/nghi-dinh-315-2026-nd-cp-kiem-dinh-va-kiem-tra-an-ninh-thiet-bi-bao-ve-bi-mat-nha-nuoc-443624-d1.html`
+
+2. **40/2026/TT-NHNN** — Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động quỹ tín dụng nhân dân (tỷ lệ an toàn vốn tối thiểu 8%, tỷ lệ khả năng chi trả ≥100%, hạn chế cho vay). Ban hành 10/08/2026 bởi Thống đốc NHNN. Ký bởi Phó Thống đốc Phạm Thanh Hà. Căn cứ Luật Các tổ chức tín dụng 32/2024. URL: `https://luatvietnam.vn/tai-chinh/thong-tu-40-2026-tt-nhnn-quy-dinh-gioi-han-ty-le-an-toan-quy-tin-dung-nhan-dan-443628-d1.html`
+
+3. **23/2026/TT-BVHTTDL** — Quy định về định mức kinh tế - kỹ thuật dịch vụ sản xuất tác phẩm báo chí in, báo chí điện tử và in báo chí in, đăng tải báo chí điện tử. Ban hành 06/08/2026 bởi Bộ Văn hóa, Thể thao và Du lịch. Hiệu lực 21/09/2026. 7 Điều. Thay thế Thông tư 18/2021/TT-BTTTT. URL: `https://luatvietnam.vn/van-hoa/thong-tu-23-2026-tt-bvhttdl-quy-dinh-dinh-muc-kinh-te-ky-thuat-dich-vu-bao-chi-443556-d1.html`
+
+4. **136/2026/TT-BCA** — Quy định danh mục sản phẩm khai thác, sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư. Ban hành 22/07/2026 bởi Bộ Công an. Hiệu lực 01/08/2026. 5 Điều. Thay thế Thông tư 08/2022/TT-BCA. 9 loại sản phẩm khai thác (SPDC01-SPDC09). URL: `https://luatvietnam.vn/hanh-chinh/thong-tu-136-2026-tt-bca-danh-muc-san-pham-khai-thac-tu-co-so-du-lieu-quoc-gia-ve-dan-cu-443478-d1.html`
+
+5. **48/2026/TT-BKHCN** — Quy định trình tự, thủ tục xét tài trợ, đặt hàng và ký hợp đồng thực hiện nhiệm vụ nghiên cứu và phát triển công nghệ chiến lược thuộc Chương trình KHCN&ĐMST quốc gia. Ban hành 01/08/2026 bởi Bộ Khoa học và Công nghệ. Ký bởi Vũ Hải Quân. Nội dung đang cập nhật trên luatvietnam.vn. URL: `https://luatvietnam.vn/khoa-hoc/thong-tu-48-2026-tt-bkhcn-quy-dinh-xet-tai-tro-va-ky-hop-dong-nghien-cuu-cong-nghe-443501-d1.html`
+
+6. **17/2026/TT-BNV** — Ban hành đơn giá dịch vụ sự nghiệp công sử dụng Quỹ bảo hiểm thất nghiệp. Ban hành 31/07/2026 bởi Bộ Nội vụ. Hiệu lực 01/10/2026. 5 Điều. Thay thế Thông tư 17/2025/TT-BNV. Ký bởi Thứ trưởng Nguyễn Mạnh Khương. 5 nhóm đơn giá theo tỉnh/thành phố. URL: `https://luatvietnam.vn/lao-dong/thong-tu-17-2026-tt-bnv-don-gia-dich-vu-su-nghiep-cong-tu-quy-bao-hiem-that-nghiep-443343-d1.html`
+
+### Dự thảo NĐ cũ (từ v105/v106) — chưa được ban hành
+
+4 dự thảo NĐ phát hiện từ v105 (443188/443107/443140/443132) vẫn ở -d10, không có -d1 tương ứng. Chờ ban hành.
+
+### VB đã có trong tracking (không phát hiện mới)
+
+- 312/2026/NĐ-CP (443292-d1): Đã có — "Chưa có (chờ crawl)" (v107)
+- 313/2026/NĐ-CP (443329-d1): Đã có — "Chưa có (chờ crawl)" (v107)
+- 311/2026/NĐ-CP (443102-d1): Đã hoàn thiện (v105)
+- 46/47/2026/TT-BKHCN: Đã có — "Chưa có (chờ crawl)" (v103)
+- 112/2026/TT-BQP: Đã có — "Chưa có (chờ crawl)" (v103)
+- 39/TT-NHNN, 63/TT-BXD, 45/TT-BKHCN: Đã hoàn thiện (v106)
+
+### Phiên thực hiện
+
+- agent: github-io:subagent:1200bcd5-f26d-4a37-b016-6c153cca6c12 (Đệ #1 Discovery)
+- branch: `heartbeat/crawl-vanban-20260807`
+- Ngày: 2026-08-12 13:33 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-07 v102 (Đệ #1 Discovery & Tracking — 2026-08-07 15:56 ICT)
 
 ### Kết quả discovery: 0 văn bản mới
