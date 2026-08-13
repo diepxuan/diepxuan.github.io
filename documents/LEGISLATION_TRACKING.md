@@ -1,3 +1,60 @@
+## Cập nhật 2026-08-13 v110 (Đệ #1 Discovery & Tracking — 2026-08-13 14:35 ICT)
+
+### Kết quả discovery: 4 văn bản mới (4 TT)
+
+**Phương pháp**: refresh sitemap `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc **14:35 ICT 13/8**. So với ref v108 (v109 là sitemap raw chưa xử lý).
+
+**Phạm vi quét**: 17 nhóm chủ đề theo task (giống v102).
+
+**Fallback**: vanban.chinhphu.vn đã thử — JS-rendered (không sử dụng được). luatvietnam.vn là nguồn chính.
+
+### MD5 comparison
+
+| Sitemap | v110 (14:35 ICT 13/8) | v108 (13:33 ICT 12/8) |
+|---|---|---|
+| Nghị định | `ad1feac129886dfcda8ff35e39f29a18` | `20658f279667acb29bd3c82d50a3c7d5` |
+| Thông tư | `f5f89df0d2ea0992edba0330d07c6e71` | `0e0789fc4e00b523b75dc2b251480f8c` |
+
+### Max d1 slug
+
+- NĐ: **443624** (315/NĐ-CP, không đổi từ v108)
+- TT: **443794** (64/TT-BGDDT, tăng từ 443628 ở v108)
+
+### 4 VB mới phát hiện (chưa có trong tracking)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| 1 | **64/2026/TT-BGDDT** | Giáo dục (BGDDT) | 443794-d1 | — | — | **Chưa có** |
+| 2 | **65/2026/TT-BGDDT** | Giáo dục (BGDDT) | 443793-d1 | — | — | **Chưa có** |
+| 3 | **66/2026/TT-BGDDT** | Giáo dục (BGDDT) | 443792-d1 | — | — | **Chưa có** |
+| 4 | **49/2026/TT-BKHCN** | Khoa học-Công nghệ | 443649-d1 | — | — | **Chưa có** |
+
+### Chi tiết 4 VB mới
+
+1. **64/2026/TT-BGDDT** — Quy định mã số chuẩn nghề nghiệp giáo viên trung học nghề. Ban hành bởi Bộ Giáo dục và Đào tạo. URL: `https://luatvietnam.vn/giao-duc/thong-tu-64-2026-tt-bgddt-quy-dinh-ma-so-chuan-nghe-nghiep-giao-vien-trung-hoc-nghe-443794-d1.html`
+
+2. **65/2026/TT-BGDDT** — Quy định công nhận văn bằng, chứng chỉ nước ngoài tại Việt Nam. Ban hành bởi Bộ Giáo dục và Đào tạo. URL: `https://luatvietnam.vn/giao-duc/thong-tu-65-2026-tt-bgddt-quy-dinh-cong-nhan-van-bang-nuoc-ngoai-tai-viet-nam-443793-d1.html`
+
+3. **66/2026/TT-BGDDT** — Quy định tiêu chuẩn định mức máy móc, thiết bị, dụng cụ cho hoạt động giáo dục. Ban hành bởi Bộ Giáo dục và Đào tạo. URL: `https://luatvietnam.vn/giao-duc/thong-tu-66-2026-tt-bgddt-tieu-chuan-dinh-muc-may-moc-giao-duc-443792-d1.html`
+
+4. **49/2026/TT-BKHCN** — Quy định cơ chế tài chính cho nghiên cứu, phát triển công nghệ chiến lược thuộc Chương trình KHCN&ĐMST quốc gia. Ban hành bởi Bộ Khoa học và Công nghệ. URL: `https://luatvietnam.vn/tai-chinh/thong-tu-49-2026-tt-bkhcn-co-che-tai-chinh-cho-nghien-cuu-cong-nghe-chien-luoc-443649-d1.html` (Đang được crawl bởi Đệ #3)
+
+### Dự thảo NĐ cũ (từ v105/v106) — chưa được ban hành
+
+4 dự thảo NĐ phát hiện từ v105 (443188/443107/443140/443132) vẫn ở -d10, không có -d1 tương ứng. Chờ ban hành.
+
+### VB đã có trong tracking (không phát hiện mới)
+
+- 315/2026/NĐ-CP (443624-d1): Đã có — **Hoàn thiện** (v108)
+- 40/2026/TT-NHNN (443628-d1): Đã có — **Hoàn thiện** (v108)
+- 23/2026/TT-BVHTTDL (443556-d1): Đã có — **Chưa có (chờ crawl)** (v108)
+- 136/2026/TT-BCA (443478-d1): Đã có — **Chưa có (chờ crawl)** (v108)
+- 48/2026/TT-BKHCN (443501-d1): Đã có — **Hoàn thiện** (v108)
+- 17/2026/TT-BNV (443343-d1): Đã có — **Hoàn thiện** (v108)
+- 281/2026/NĐ-CP (218863): Đã có — **Hoàn thiện** (v108)
+
+---
+
 ## Cập nhật 2026-08-12 v108 (Đệ #1 Discovery & Tracking — 2026-08-12 13:33 ICT)
 
 ### Kết quả discovery: 6 văn bản mới (1 NĐ + 5 TT)
