@@ -1,3 +1,82 @@
+## Cập nhật 2026-08-14 v111 (Đệ #1 Discovery & Tracking — 2026-08-14 07:42 ICT)
+
+### Kết quả discovery: 5 văn bản mới (3 NĐ + 2 TT)
+
+**Phương pháp**: refresh sitemap `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc **07:42 ICT 14/8**. So với ref v110 (14:35 ICT 13/8).
+
+**Phạm vi quét**: 17 nhóm chủ đề theo task (gi��ng v102).
+
+**Fallback**: vanban.chinhphu.vn đã thử — JS-rendered (không sử dụng được). luatvietnam.vn là nguồn chính.
+
+### MD5 comparison
+
+| Sitemap | v111 (07:42 ICT 14/8) | v110 (14:35 ICT 13/8) |
+|---|---|---|
+| Nghị định | `8c8deb5f8042095c96abc19d08b4fc13` | `ad1feac129886dfcda8ff35e39f29a18` |
+| Thông tư | `cb32407ef848a54085c71c7cf52cc1ba` | `f5f89df0d2ea0992edba0330d07c6e71` |
+
+### Max d1 slug
+
+- NĐ: **443950** (314/NĐ-CP, tăng từ 443624 ở v110)
+- TT: **443954** (18/TT-BNV, tăng từ 443794 ở v110)
+
+### 5 VB mới phát hiện (chưa có trong tracking, chưa có file van-ban/)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| 1 | **314/2026/NĐ-CP** | Khoa học-Công nghệ (Bộ Công an) | 443950-d1 | 08/08/2026 | 25/09/2026 | **Chưa có** |
+| 2 | **317/2026/NĐ-CP** | Giáo dục (BGDDT) | 443816-d1 | 11/08/2026 | — | **Chưa có** |
+| 3 | **316/2026/NĐ-CP** | Tài chính (Bộ Tài chính) | 443815-d1 | 11/08/2026 | — | **Chưa có** |
+| 4 | **18/2026/TT-BNV** | Nội vụ (Bộ Nội vụ) | 443954-d1 | 12/08/2026 | — | **Chưa có** |
+| 5 | **04/2026/TT-BDTTG** | Dân tộc (Bộ Dân tộc & Tôn giáo) | 443881-d1 | 31/07/2026 | — | **Chưa có** |
+
+### Chi tiết 5 VB mới
+
+1. **314/2026/NĐ-CP** — Quy định hoạt động của sàn dữ liệu. Ban hành 08/08/2026, hiệu lực 25/09/2026. Căn cứ Luật Dữ liệu. Quản lý bởi Trung tâm dữ liệu quốc gia, Bộ Công an. URL: `https://luatvietnam.vn/khoa-hoc/nghi-dinh-314-2026-nd-cp-quy-dinh-hoat-dong-cua-san-du-lieu-hieu-luc-tu-25-09-2026-443950-d1.html`
+
+2. **317/2026/NĐ-CP** — Quy định về tổ chức, quản lý và sử dụng Quỹ Học bổng Quốc gia. Ban hành 11/08/2026. Căn cứ Luật Giáo dục, Luật số 123/2025/QH15. Quỹ là quỹ tài chính nhà nước ngoài ngân sách trực thuộc BGDDT. URL: `https://luatvietnam.vn/giao-duc/nghi-dinh-317-2026-nd-cp-quy-dinh-to-chuc-quan-ly-va-su-dung-quy-hoc-bong-quoc-gia-443816-d1.html`
+
+3. **316/2026/NĐ-CP** — Sửa đổi, bổ sung một số điều của Nghị định 135/2025/NĐ-CP về chế độ tài chính và giám sát tài chính tại tổ chức tín dụng. Ban hành 11/08/2026. Căn cứ Luật Các tổ chức tín dụng, Luật QLĐT vốn NN. URL: `https://luatvietnam.vn/dau-tu/nghi-dinh-316-2026-nd-cp-sua-doi-nghi-dinh-135-2025-ve-che-do-tai-chinh-va-giam-sat-tai-chinh-443815-d1.html`
+
+4. **18/2026/TT-BNV** — Quy định tặng Kỷ niệm chương "Vì sự nghiệp ngành Nội vụ". Ban hành 12/08/2026 bởi Bộ Nội vụ. Ký bởi Nguyễn Tiến Hải. URL: `https://luatvietnam.vn/thi-dua/thong-tu-18-2026-tt-bnv-quy-dinh-tang-ky-niem-chuong-nganh-noi-vu-hieu-luc-2026-443954-d1.html`
+
+5. **04/2026/TT-BDTTG** — Hướng dẫn quản lý, phát triển vùng dân tộc thiểu số 2026-2030. Ban hành 31/07/2026 bởi Bộ Dân tộc và Tôn giáo. Ký bởi Bộ trưởng. Chỉ tiêu quản lý, giám sát, đánh giá chương trình mục tiêu quốc gia. URL: `https://luatvietnam.vn/chinh-sach/thong-tu-04-2026-tt-bdttg-huong-dan-quan-ly-phat-trien-vung-dan-toc-thieu-so-2026-2030-443881-d1.html`
+
+### VB đã hoàn thiện từ v110 (nay đã có file van-ban/)
+
+- 64/2026/TT-BGDDT (443794-d1): **Hoàn thiện** — file: `van-ban/giao-duc/64-2026-tt-bgddt.md`, `van-ban/giao-duc/nghe-nghiep/64-2026-tt-bgddt.md`
+- 65/2026/TT-BGDDT (443793-d1): **Hoàn thiện** — file: `van-ban/giao-duc/nghe-nghiep/65-2026-tt-bgddt.md`, `van-ban/thong-tu-65-2026-tt-bgddt.md`
+- 66/2026/TT-BGDDT (443792-d1): **Hoàn thiện** — file: `van-ban/giao-duc/nghe-nghiep/66-2026-tt-bgddt.md`, `van-ban/thong-tu-66-2026-tt-bgddt.md`
+- 49/2026/TT-BKHCN (443649-d1): **Hoàn thiện** — file: `van-ban/49-2026-tt-bkhcn.md`
+
+### Dự thảo NĐ cũ (từ v105/v106) — chưa được ban hành
+
+4 dự thảo NĐ phát hiện từ v105 (443188/443107/443140/443132) vẫn ở -d10, không có -d1 tương ứng. Chờ ban hành.
+
+### VB đã có trong tracking (không phát hiện mới)
+
+- 315/2026/NĐ-CP (443624-d1): Đã có — **Hoàn thiện** (v108)
+- 40/2026/TT-NHNN (443628-d1): Đã có — **Hoàn thiện** (v108)
+- 23/2026/TT-BVHTTDL (443556-d1): Đã có — **Chưa có (chờ crawl)** (v108)
+- 136/2026/TT-BCA (443478-d1): Đã có — **Chưa có (chờ crawl)** (v108)
+- 48/2026/TT-BKHCN (443501-d1): Đã có — **Hoàn thiện** (v108)
+- 17/2026/TT-BNV (443343-d1): Đã có — **Hoàn thiện** (v108)
+- 281/2026/NĐ-CP (218863): Đã có — **Hoàn thiện** (v108)
+- 63/2026/TT-BGDĐT (443837-d1): Theo dõi — **Chưa có (chờ crawl)** (slug 443837, lần sau nếu vẫn mới)
+
+### Sitemap backup
+
+- `tmp/discovery-v111/sitemap_nghidinh.xml` (MD5: `8c8deb5f8042095c96abc19d08b4fc13`)
+- `tmp/discovery-v111/sitemap_thongtu.xml` (MD5: `cb32407ef848a54085c71c7cf52cc1ba`)
+
+### Phiên thực hiện
+
+- agent: github-io:subagent:b47784ce-a251-40ca-823c-6f0d37c6e1bc (Đệ #1 Discovery)
+- branch: `heartbeat/crawl-vanban-20260814`
+- Ngày: 2026-08-14 07:42 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-13 v110 (Đệ #1 Discovery & Tracking — 2026-08-13 14:35 ICT)
 
 ### Kết quả discovery: 4 văn bản mới (4 TT)
