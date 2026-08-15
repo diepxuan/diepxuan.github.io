@@ -1,42 +1,29 @@
 ---
 layout: vanban
-title: "Nghị định 316/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 135/2025/NĐ-CP về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước"
+title: "Nghị định 316/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 135/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước"
 date: 2026-08-11
 modified: 2026-08-15
-group: tai-chinh
+group: Tai chinh
 tags:
-  - tổ chức tín dụng
-  - chế độ tài chính
-  - giám sát tài chính
-  - vốn nhà nước
+  - Bo Tai chinh
+  - To chuc tin dung
+  - Gioi sat tai chinh
 docid: 316/2026/NĐ-CP
 source: luatvietnam.vn
 ---
 
-# Nghị định 316/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 135/2025/NĐ-CP về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước
+# Nghị định 316/2026/NĐ-CP
 
 ## THÔNG TIN VĂN BẢN
 
 - **Số hiệu:** 316/2026/NĐ-CP
 - **Ngày ban hành:** 11/08/2026
 - **Người ký:** Chính phủ
-- **Ngày hiệu lực:** Đang cập nhật
+- **Ngày hiệu lực:** (Chưa cập nhật rõ, cần kiểm tra thêm nếu có)
 - **Trích yếu:** Sửa đổi, bổ sung một số điều của Nghị định số 135/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước.
-- **Căn cứ pháp luật:** Theo đề nghị của Bộ trưởng Bộ Tài chính.
+- **Căn cứ pháp luật:** Luật Các tổ chức tín dụng, Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp.
 
 ## VĂN BẢN
-
-**CHÍNH PHỦ**
-__________
-**Số: 316/2026/NĐ-CP**
-**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**Độc lập - Tự do - Hạnh phúc**
-______________________
-*Hà Nội, ngày 11 tháng 8 năm 2026*
-
-**NGHỊ ĐỊNH**
-
-**Sửa đổi, bổ sung một số điều của Nghị định số 135/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước**
 
 Theo đề nghị của Bộ trưởng Bộ Tài chính;
 
@@ -52,10 +39,10 @@ Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều
 a) Trích 10% vào quỹ dự phòng tài chính; mức tối đa của quỹ này không vượt quá 25% mức vốn điều lệ của tổ chức tín dụng;
 b) Trích không quá 40% vào quỹ đầu tư phát triển, đảm bảo trích không quá 50% vào quỹ dự trữ bổ sung vốn điều lệ và quỹ đầu tư phát triển theo quy định tại Điều 25 Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp. Mức tối đa của quỹ đầu tư phát triển không vượt quá mức vốn điều lệ của tổ chức tín dụng.
 c) Trích quỹ khen thưởng, quỹ phúc lợi cho người lao động, người quản lý tổ chức tín dụng, kiểm soát viên theo nguyên tắc:
-- Tổ chức tín dụng xếp loại A theo quy định tại Nghị định này được trích không quá 03 tháng lương thực hiện cho hai quỹ khen thưởng, quỹ phúc lợi;
-- Tổ chức tín dụng xếp loại B theo quy định tại Nghị định này được trích không quá 02 tháng lương thực hiện cho hai quỹ khen thưởng, quỹ phúc lợi;
-- Tổ chức tín dụng xếp loại C theo quy định tại Nghị định này được trích không quá 01 tháng lương thực hiện cho hai quỹ khen thưởng, quỹ phúc lợi;
-- Tổ chức tín dụng không thực hiện xếp loại thì không được trích lập hai quỹ khen thưởng, quỹ phúc lợi.
+Tổ chức tín dụng xếp loại A theo quy định tại Nghị định này được trích không quá 03 tháng lương thực hiện cho hai quỹ khen thưởng, quỹ phúc lợi;
+Tổ chức tín dụng xếp loại B theo quy định tại Nghị định này được trích không quá 02 tháng lương thực hiện cho hai quỹ khen thưởng, quỹ phúc lợi;
+Tổ chức tín dụng xếp loại C theo quy định tại Nghị định này được trích không quá 01 tháng lương thực hiện cho hai quỹ khen thưởng, quỹ phúc lợi;
+Tổ chức tín dụng không thực hiện xếp loại thì không được trích lập hai quỹ khen thưởng, quỹ phúc lợi.
 
 5. Trường hợp phần lợi nhuận còn lại sau khi trích lập quỹ đầu tư phát triển quy định tại khoản 4 Điều này mà không đủ nguồn để trích các quỹ khen thưởng, quỹ phúc lợi cho người lao động, người quản lý tổ chức tín dụng, kiểm soát viên theo mức quy định thì tổ chức tín dụng được giảm trừ phần lợi nhuận trích lập quỹ đầu tư phát triển để bổ sung nguồn trích lập đủ quỹ khen thưởng, quỹ phúc lợi cho người lao động, người quản lý tổ chức tín dụng, kiểm soát viên theo mức quy định, nhưng mức giảm tối đa không quá mức trích vào quỹ đầu tư phát triển trong năm tài chính.”
 
@@ -63,6 +50,7 @@ c) Trích quỹ khen thưởng, quỹ phúc lợi cho người lao động, ngư
 a) Sửa đổi, bổ sung như sau:
 “b) Trích không quá 40% vào quỹ đầu tư phát triển, đảm bảo trích không quá 50% vào quỹ dự trữ bổ sung vốn điều lệ và quỹ đầu tư phát triển theo quy định tại Điều 25 Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp. Mức tối đa của quỹ đầu tư phát triển không vượt quá mức vốn điều lệ của tổ chức tín dụng.
 c) Trích quỹ khen thưởng, quỹ phúc lợi cho người lao động, người quản lý tổ chức tín dụng, kiểm soát viên theo nguyên tắc tương tự như tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ.”
+
 b) Sửa đổi như sau:
 “7. Trường hợp chia cổ tức bằng cổ phiếu theo quy định tại điểm d khoản 4 Điều này, Ngân hàng Nhà nước Việt Nam lấy ý kiến thống nhất với Bộ Tài chính trước khi trình Thủ tướng Chính phủ quyết định tỷ lệ chia cổ tức bằng cổ phiếu. Việc chia cổ tức bằng cổ phiếu áp dụng đối với tổ chức tín dụng đáp ứng được các tiêu chí sau:
 a) Đang hoạt động có hiệu quả được đánh giá dựa trên tiêu chí đánh giá hiệu quả đầu tư vốn nhà nước tại doanh nghiệp là tổ chức tín dụng có vốn nhà nước quy định tại Nghị định này, đảm bảo kết quả xếp loại của hai năm liền kề trước năm xác định chia cổ tức bằng cổ phiếu đạt từ loại B trở lên theo công bố kết quả xếp loại của Ngân hàng Nhà nước Việt Nam;
@@ -70,6 +58,7 @@ b) Có tỷ lệ nợ xấu dưới 3%.”
 
 4. Sửa đổi, bổ sung như sau:
 “3. Trích không quá 40% vào quỹ đầu tư phát triển, đảm bảo trích không quá 50% vào quỹ dự trữ bổ sung vốn điều lệ và quỹ đầu tư phát triển theo quy định tại Điều 25 Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp. Mức tối đa của quỹ đầu tư phát triển không vượt quá mức vốn điều lệ của tổ chức tín dụng.
+
 4. Phần lợi nhuận còn lại sau khi trừ các khoản quy định tại khoản 1, khoản 2, khoản 3 Điều này được phân phối như sau:
 a) Đối với ngân hàng hợp tác xã:
 Ngân hàng hợp tác xã được trích quỹ khen thưởng, quỹ phúc lợi cho người lao động, người quản lý ngân hàng hợp tác xã, kiểm soát viên theo nguyên tắc tương tự như tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ.
@@ -77,6 +66,7 @@ Tối thiểu trước 30 ngày tổ chức Đại hội thành viên, người 
 Trong vòng 20 ngày kể từ ngày nhận được đầy đủ hồ sơ, Ngân hàng Nhà nước Việt Nam lấy ý kiến thống nhất với Bộ Tài chính việc phân chia phần lợi nhuận còn lại để chỉ đạo người đại diện phần vốn nhà nước tại ngân hàng biểu quyết tại Đại hội thành viên.
 Trong vòng 20 ngày kể từ ngày nhận được đầy đủ hồ sơ, Bộ Tài chính có ý kiến chính thức bằng văn bản gửi Ngân hàng Nhà nước Việt Nam.
 Đối với phần lợi nhuận chia cho thành viên là Nhà nước, ngân hàng hợp tác xã được sử dụng để bổ sung vốn điều lệ (phần vốn hỗ trợ của Nhà nước). Thẩm quyền, trình tự, thủ tục đầu tư, hỗ trợ vốn nhà nước tại ngân hàng hợp tác xã được thực hiện theo quy định tại Điều 28 Nghị định này đối với tổ chức tín dụng do Nhà nước nắm giữ trên 50% đến dưới 100% vốn điều lệ.
+
 b) Đối với quỹ tín dụng nhân dân: việc phân phối phần lợi nhuận còn lại thực hiện theo quy định của Luật Hợp tác xã và Điều lệ của quỹ tín dụng nhân dân.”
 
 5. Sửa đổi như sau:
@@ -98,8 +88,7 @@ d) Mức tiền thưởng đối với người đại diện chủ sở hữu t
 a) Đầu tư xây dựng hoặc sửa chữa, bổ sung vốn xây dựng các công trình phúc lợi của tổ chức tín dụng, góp vốn đầu tư xây dựng các công trình phúc lợi chung trong ngành hoặc với các đơn vị khác theo hợp đồng thỏa thuận;
 b) Chi cho các hoạt động thể thao, văn hóa, phúc lợi công cộng của người lao động trong tổ chức tín dụng (bao gồm cả người quản lý tổ chức tín dụng, kiểm soát viên làm việc theo hợp đồng lao động và người quản lý tổ chức tín dụng, kiểm soát viên do Nhà nước bổ nhiệm);
 c) Chi trợ cấp khó khăn thường xuyên, đột xuất cho người lao động trong tổ chức tín dụng, kể cả người lao động đã về hưu, mất sức của tổ chức tín dụng;
-d) Chi cho các hoạt động phúc lợi khác.
-Hội đồng quản trị (Hội đồng thành viên), Tổng Giám đốc (hoặc Giám đốc) của tổ chức tín dụng phối hợp với Ban Chấp hành Công đoàn của tổ chức tín dụng quản lý, sử dụng quỹ này.
+d) Chi cho các hoạt động phúc lợi khác. Hội đồng quản trị (Hội đồng thành viên), Tổng Giám đốc (hoặc Giám đốc) của tổ chức tín dụng phối hợp với Ban Chấp hành Công đoàn của tổ chức tín dụng quản lý, sử dụng quỹ này.
 6. Các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài có trách nhiệm ban hành quy chế quản lý và sử dụng các quỹ được trích lập từ lợi nhuận sau thuế. Riêng đối với tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ:
 a) Phải xây dựng, ban hành quy chế quản lý, sử dụng quỹ theo pháp luật về quản lý và đầu tư vốn nhà nước tại doanh nghiệp để áp dụng trong nội bộ tổ chức tín dụng; quy chế đảm bảo dân chủ, minh bạch có sự tham gia của Ban Chấp hành công đoàn của tổ chức tín dụng và công khai trong tổ chức tín dụng trước khi thực hiện;
 b) Trong năm tài chính, tổ chức tín dụng chủ động thực hiện tạm trích các quỹ trên cơ sở kết quả hoạt động sản xuất, kinh doanh của tổ chức tín dụng có lãi và đã nộp thuế thu nhập doanh nghiệp theo quy định để có nguồn chi sử dụng quỹ theo mục đích đã quy định.”
@@ -144,4 +133,4 @@ c) Chủ trì, phối hợp với Bộ Tài chính căn cứ quy định tại N
 “4. Tiêu chí 4. Tình hình chấp hành pháp luật theo quy định tại điểm d khoản 1 Điều 31 Nghị định này.
 4.1. Tổ chức tín dụng xếp loại A khi đáp ứng tất cả các điều kiện sau:
 a) Trong năm đánh giá không bị cơ quan đại diện chủ sở hữu hoặc cơ quan tài chính nhắc nhở bằng văn bản hoặc bị nhắc nhở bằng văn bản không quá hai lần về việc nộp báo cáo giám sát, báo cáo xếp loại tổ chức tín dụng, báo cáo tài chính và các báo cáo khác để thực hiện giám sát tài chính không đúng quy định, không đúng hạn đối với từng loại báo cáo;
-b) Trong năm đánh giá không bị cơ quan có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực quản lý và đầu tư vốn nhà nước tại doanh nghiệp, lĩnh vực tiền tệ và ngân hàng.”
+b) Trong năm đánh giá không bị cơ quan có thẩm quyền xử phạt vi phạm... (Nội dung tiếp theo bị cắt trong nguồn fetch)
