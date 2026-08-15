@@ -2,7 +2,7 @@
 layout: vanban
 title: "Nghị định 279/2026/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo"
 date: 2026-07-12
-modified: 2026-08-08
+modified: 2026-08-15
 group: giao-duc
 tags:
   - nghị định
@@ -10,8 +10,8 @@ tags:
   - tổ chức
   - giáo dục
   - đào tạo
-docid: "218804"
-source: luatnguyen.vn
+docid: "440239"
+source: luatvietnam.vn
 sohieu: "279/2026/NĐ-CP"
 ngaybanhanh: 2026-07-12
 ngayhieuluc: 2026-07-12
