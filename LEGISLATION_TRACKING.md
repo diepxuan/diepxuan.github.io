@@ -114,3 +114,12 @@
 ---
 
 *(Lưu ý: Đây là bản cập nhật mới nhất, các nội dung cũ từ v111 đã được lưu trữ trong history/hoặc merge vào database chính. Bản này tập trung vào đợt quét 15/08/2026)*
+
+---
+
+## CẬP NHẬT TIẾN ĐỘ CRAWL — 2026-08-15
+
+| Số hiệu | Tên văn bản | Trạng thái | Ngày hoàn thành | Ghi chú |
+|---------|-------------|------------|-----------------|----------|
+| 312/2026/NĐ-CP | Nghị định về kết hợp an ninh với kinh tế - xã hội và kinh tế - xã hội với an ninh | Hoàn thiện | 2026-08-16 | Crawl từ luatvietnam.vn (slug 443292-d1), pass Quality Gate |
+| 136/2026/TT-BCA | Thông tư quy định danh mục sản phẩm khai thác CSDL quốc gia về dân cư | Hoàn thiện | 2026-08-15 | Crawl từ luatvietnam.vn, pass Quality Gate |
