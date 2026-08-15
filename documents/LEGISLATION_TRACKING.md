@@ -11168,3 +11168,47 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 - agent: github-io (Bột inline re-run, runtime fail của sub-agent)
 - branch: `heartbeat/crawl-vanban-20260807` (PR #264 active)
 - Ngày: 2026-08-08 23:40 ICT Asia/Saigon
+## Review Report - 2026-08-15 (Heartbeat Đệ #4)
+
+### 1. OCR Quality Gate (Sample 4 "Hoàn thiện")
+- **van-ban/giao-thong-van-tai/241-2026-nd-cp-sua-doi-nd-165-2024-luat-duong-bo.md**
+  - OCR Issues: 11 (Lỗi "ngày l" xuất hiện nhiều lần)
+  - Structure: Articles 1-28 (Missing: [15, 27], Duplicate: [1, 2, 3])
+  - Result: **FAIL** (Cần sửa lỗi OCR và chuẩn hóa heading Điều)
+- **van-ban/giao-thong-van-tai/236-2026-nd-cp-sua-doi-nd-151-2024-atgt.md**
+  - OCR Issues: 10 (Lỗi ký tự đặc biệt ø, ©, †, ® và "Điền")
+  - Structure: Articles 1-19 (OK)
+  - Result: **FAIL** (Lỗi OCR nặng ở phần phụ lục/bảng)
+- **van-ban/hanh-chinh/224-2026-nd-cp-thi-hanh-luat-chuyen-doi-so.md**
+  - OCR Issues: 13 (Lỗi "ngày l")
+  - Structure: Articles 1-92 (OK), 9 Chapters (OK)
+  - Result: **FAIL** (Lỗi OCR "ngày l" lặp lại)
+- **van-ban/buu-chinh-vien-thong/174-2026-nd-cp-xu-phat-vphc-buu-chinh-vien-thong-cntt.md**
+  - OCR Issues: 0
+  - Structure: No article headings found (Cần kiểm tra lại format Điều)
+  - Result: **SƠ CẤU TRÚC** (OCR sạch nhưng thiếu heading chuẩn)
+
+### 2. Refactor Scan
+- Total files in `van-ban/`: 822
+- Files "Đang cập nhật": 1
+- Files < 10KB (non-STUB): 153 (Cảnh báo: Số lượng file nhỏ không phải STUB quá cao, cần rà soát)
+- Files < 3KB & last edit > 7 days: 62 (Ứng viên tiềm năng cho việc dọn dẹp hoặc nâng cấp từ STUB)
+
+### 3. STUB Re-check
+- Known STUBs:
+  - 20/TT-BVHTTDL: Found in `van-hoa-the-thao-du-lich/` (Stubbed)
+  - 291/NQ-TPQH16: Found in `van-hoa/nghi-quyet-291...` (Stubbed)
+  - Others (279, 286, 61, 44): Not found as dedicated files or only in tracking.
+- New Potential STUBs (< 3KB):
+  - 86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md
+  - 48-2026-tt-bkhcn.md
+  - 62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md
+  - thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md
+
+### 4. PR Comments Review
+- Active PR: #264 (`heartbeat/crawl-vanban-20260807`)
+- Comments/Reviews: No active comments or review threads found via API.
+- Classification: **Trống/Chờ Sếp review**.
+
+---
+**Kết luận:** Chất lượng OCR của các file "Hoàn thiện" mới vẫn còn lỗi hệ thống (đặc biệt là "ngày l"). Cần cập nhật regex cho crawler để tự động fix hoặc yêu cầu re-scan.
