@@ -93,8 +93,8 @@ Nghị định này quy định về nguyên tắc, căn cứ, nội dung, hình
 
 ### Điều 8. Tham gia ý kiến hoặc cho ý kiến thẩm định về an ninh
 1. Cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định gửi Bộ Công an, Công an cấp tỉnh hồ sơ theo quy định của pháp luật về quy hoạch, đầu tư, pháp luật có liên quan.
-2. Bộ Công an, Công an cấp tỉnh tiếp nhận, trao đổi với cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định về thành phần hồ sơ theo quy định của pháp luật về quy hoạch, đầu tư, pháp luật có liên quan trong thời hạn 02 ngày làm việc.
-3. Bộ Công an, Công an cấp tỉnh tham gia ý kiến hoặc cho ý kiến thẩm định về việc đáp ứng yêu cầu, điều kiện quy định tại khoản 2 Điều 6, khoản 2 Điều 7 Nghị định này và gửi kết quả về cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định trong thời hạn theo quy định của pháp luật hoặc theo yêu cầu của cơ quan, tổ chức. Trường hợp pháp luật chưa có quy định, Bộ Công an, Công an cấp tỉnh gửi kết quả về cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ.
+2. Bộ Công an, Công an cấp tỉnh tiếp nhận, trao đổi với cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định về thành phần hồ sơ theo quy định của pháp luật về quy hoạch, đầu tư, pháp luật có liên quan trong thời hạn 02 ngày 1àm việc.
+3. Bộ Công an, Công an cấp tỉnh tham gia ý kiến hoặc cho ý kiến thẩm định về việc đáp ứng yêu cầu, điều kiện quy định tại khoản 2 Điều 6, khoản 2 Điều 7 Nghị định này và gửi kết quả về cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định trong thời hạn theo quy định của pháp luật hoặc theo yêu cầu của cơ quan, tổ chức. Trường hợp pháp luật chưa có quy định, Bộ Công an, Công an cấp tỉnh gửi kết quả về cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định trong thời hạn 10 ngày 1àm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ.
 4. Cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định có trách nhiệm tiếp thu, giải trình ý kiến của Bộ Công an, Công an cấp tỉnh theo quy định của pháp luật.
 
 ### Điều 9. Đánh giá tác động, giám sát về an ninh

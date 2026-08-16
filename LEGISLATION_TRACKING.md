@@ -68,3 +68,11 @@
 | 312/2026/NĐ-CP | Nghị định về kết hợp an ninh với kinh tế - xã hội... | Hoàn thiện | 2026-08-16 | Pass Quality Gate |
 | 136/2026/TT-BCA | Thông tư quy định danh mục sản phẩm khai thác CSDL... | Hoàn thiện | 2026-08-15 | Pass Quality Gate |
 | 314/2026/NĐ-CP | Quy định hoạt động của sàn dữ liệu | Hoàn thiện | 2026-08-16 | Pass Quality Gate |
+
+---
+## BÁO CÁO REVIEW QUALITY GATE — 2026-08-17
+- **Văn bản review**: 
+  - 136/2026/TT-BCA: Pass
+  - 312/2026/NĐ-CP: Pass (Đã fix 2 lỗi "ngày l")
+  - 314/2026/NĐ-CP: Pass
+- **Kết luận**: Các văn bản đã review đạt chuẩn OCR Quality Gate.
