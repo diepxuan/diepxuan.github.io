@@ -27,7 +27,7 @@
 | 1 | **320/2026/NĐ-CP** | Hành chính (Bộ Công an) | 444072-d1 | 13/08/2026 | — | **Chưa có** |
 | 2 | **318/2026/NĐ-CP** | Tài chính (NHNN) | 443951-d1 | 12/08/2026 | — | **Chưa có** |
 | 3 | **38/2026/TT-NHNN** | Đầu tư/Ngoại hối (NHNN) | 444098-d1 | 31/07/2026 | — | **Chưa có** |
-| 4 | **116/2026/TT-BTC** | Thuế/Thừa hành viên (Bộ Tài chính) | 443985-d1 | 13/08/2026 | — | **Chưa có** |
+| 4 | **116/2026/TT-BTC** | Thuế/Thừa hành viên (Bộ Tài chính) | 443985-d1 | 13/08/2026 | [van-ban/tai-chinh/116-2026-tt-btc.md](van-ban/tai-chinh/116-2026-tt-btc.md) | **Hoàn thiện** |
 
 ### Chi tiết 4 VB mới
 
