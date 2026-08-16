@@ -1,3 +1,83 @@
+## Cập nhật 2026-08-16 v112 (Đệ #1 Discovery & Tracking — 2026-08-16 09:36 ICT)
+
+### Kết quả discovery: 4 văn bản mới (2 NĐ + 2 TT)
+
+**Phương pháp**: refresh sitemap `sitemap_nghidinh.xml` + `sitemap_thongtu.xml` từ luatvietnam.vn lúc **09:36 ICT 16/8**. So với ref v111 (07:42 ICT 14/8).
+
+**Phạm vi quét**: 17 nhóm chủ đề theo task (giống v102).
+
+**Fallback**: vanban.chinhphu.vn đã thử — JS-rendered (không sử dụng được). luatvietnam.vn là nguồn chính.
+
+### MD5 comparison
+
+| Sitemap | v112 (09:36 ICT 16/8) | v111 (07:42 ICT 14/8) |
+|---|---|---|
+| Nghị định | `3a202b1c68c7580997d5b446bcbf502f` | `8c8deb5f8042095c96abc19d08b4fc13` |
+| Thông tư | `2332206f30d05e05c22372f3478dbd7c` | `cb32407ef848a54085c71c7cf52cc1ba` |
+
+### Max d1 slug
+
+- NĐ: **444072** (320/NĐ-CP, tăng từ 443950 ở v111)
+- TT: **444098** (38/TT-NHNN, tăng từ 443954 ở v111)
+
+### 4 VB mới phát hiện (chưa có trong tracking, chưa có file van-ban/)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| 1 | **320/2026/NĐ-CP** | Hành chính (Bộ Công an) | 444072-d1 | 13/08/2026 | — | **Chưa có** |
+| 2 | **318/2026/NĐ-CP** | Tài chính (NHNN) | 443951-d1 | 12/08/2026 | — | **Chưa có** |
+| 3 | **38/2026/TT-NHNN** | Đầu tư/Ngoại hối (NHNN) | 444098-d1 | 31/07/2026 | — | **Chưa có** |
+| 4 | **116/2026/TT-BTC** | Thuế/Thừa hành viên (Bộ Tài chính) | 443985-d1 | 13/08/2026 | — | **Chưa có** |
+
+### Chi tiết 4 VB mới
+
+1. **320/2026/NĐ-CP** — Sửa đổi, bổ sung một số điều của Nghị định 69/2024/NĐ-CP về định danh và xác thực điện tử. Ban hành 13/08/2026. Bổ sung khái niệm "Tài khoản hưởng an sinh xã hội" và "Cơ quan quản lý, vận hành hệ thống định danh". Sửa đổi quy định khai thác, sử dụng danh tính điện tử trên Ứng dụng định danh quốc gia, quy định cập nhật thông tin không quá 24h (hoặc 5 phút khi công dân yêu cầu trực tiếp). Căn cứ Luật Định danh và xác thực điện tử, Luật Bảo vệ dữ liệu cá nhân. URL: `https://luatvietnam.vn/hanh-chinh/nghi-dinh-320-2026-nd-cp-sua-doi-nghi-dinh-69-2024-ve-dinh-danh-va-xac-thuc-dien-tu-444072-d1.html`
+
+2. **318/2026/NĐ-CP** — Quy định chi tiết Luật Phục hồi, phá sản về các trường hợp không áp dụng đối với hợp đồng phái sinh có điều khoản về thanh toán ròng. Ban hành 12/08/2026. Căn cứ Luật Phục hồi, phá sản 142/2025/QH15. Quy định không tạm dừng xử lý tài sản bảo đảm, thanh toán/bù trừ trong 6 tháng trước khi mở thủ tục phá sản không bị coi vô hiệu, không tạm đình chỉ thực hiện hợp đồng phái sinh. URL: `https://luatvietnam.vn/tai-chinh/nghi-dinh-318-2026-nd-cp-quy-dinh-chi-tiet-luat-phuc-hoi-pha-san-ve-hop-dong-phai-sinh-443951-d1.html`
+
+3. **38/2026/TT-NHNN** — Quy định quản lý ngoại hối đối với hoạt động đầu tư nước ngoài tại Việt Nam. Ban hành 31/07/2026 bởi Thống đốc NHNN. Căn cứ Luật Ngân hàng Nhà nước, Luật Các tổ chức tín dụng, Luật Đầu tư, Pháp lệnh Ngoại hối, NĐ 70/2014, NĐ 329/2025, NĐ 96/2026. Quy định về mở tài khoản vốn đầu tư, góp vốn/chuyển vốn/lợi nhuận, chuyển nhượng vốn/dự án. URL: `https://luatvietnam.vn/dau-tu/thong-tu-38-2026-tt-nhnn-quan-ly-ngoai-hoi-cho-dau-tu-nuoc-ngoai-tai-viet-nam-444098-d1.html`
+
+4. **116/2026/TT-BTC** — Quy định mức thu, chế độ thu, nộp phí thẩm định tiêu chuẩn, điều kiện hành nghề Thừa hành viên. Ban hành 13/08/2026 bởi Bộ Tài chính. Căn cứ Luật Phí và lệ phí, Luật Ngân sách, Luật QL thuế, Luật Thi hành án dân sự, NĐ 362/2025, NĐ 151/2026, NĐ 29/2025. Mức phí: 2.700.000đ/hồ sơ (kiểm tra tập sự), 800.000đ (bổ nhiệm), 500.000đ (bổ nhiệm lại). URL: `https://luatvietnam.vn/thue/thong-tu-116-2026-tt-btc-quy-dinh-phi-tham-dinh-tieu-chuan-hanh-nghe-thua-hanh-vien-443985-d1.html`
+
+### VB đã hoàn thiện từ v111 (nay đã có file van-ban/)
+
+- 64/2026/TT-BGDDT (443794-d1): **Hoàn thiện** — file: `van-ban/giao-duc/64-2026-tt-bgddt.md`, `van-ban/giao-duc/nghe-nghiep/64-2026-tt-bgddt.md`
+- 65/2026/TT-BGDDT (443793-d1): **Hoàn thiện** — file: `van-ban/giao-duc/nghe-nghiep/65-2026-tt-bgddt.md`, `van-ban/thong-tu-65-2026-tt-bgddt.md`
+- 66/2026/TT-BGDDT (443792-d1): **Hoàn thiện** — file: `van-ban/giao-duc/nghe-nghiep/66-2026-tt-bgddt.md`, `van-ban/thong-tu-66-2026-tt-bgddt.md`
+- 49/2026/TT-BKHCN (443649-d1): **Hoàn thiện** — file: `van-ban/49-2026-tt-bkhcn.md`
+- 314/2026/NĐ-CP (443950-d1): **Chưa có** — chưa crawl
+- 317/2026/NĐ-CP (443816-d1): **Chưa có** — chưa crawl
+- 316/2026/NĐ-CP (443815-d1): **Hoàn thiện** — file: `van-ban/dau-tu/nghi-dinh-316-2026-nd-cp.md`
+- 18/2026/TT-BNV (443954-d1): **Chưa có** — chưa crawl
+- 04/2026/TT-BDTTG (443881-d1): **Chưa có** — chưa crawl
+
+### Dự thảo NĐ cũ (từ v105/v106) — chưa được ban hành
+
+4 dự thảo NĐ phát hiện từ v105 (443188/443107/443140/443132) vẫn ở -d10, không có -d1 tương ứng. Chờ ban hành.
+
+### VB đã có trong tracking (không phát hiện mới)
+
+- 315/2026/NĐ-CP (443624-d1): Đã có — **Hoàn thiện** (v108)
+- 40/2026/TT-NHNN (443628-d1): Đã có — **Hoàn thiện** (v108)
+- 23/2026/TT-BVHTTDL (443556-d1): Đã có — **Chưa có (chờ crawl)** (v108)
+- 136/2026/TT-BCA (443478-d1): Đã có — **Chưa có (chờ crawl)** (v108)
+- 48/2026/TT-BKHCN (443501-d1): Đã có — **Hoàn thiện** (v108)
+- 17/2026/TT-BNV (443343-d1): Đã có — **Hoàn thiện** (v108)
+- 281/2026/NĐ-CP (218863): Đã có — **Hoàn thiện** (v108)
+
+### Sitemap backup
+
+- `tmp/discovery-v112/sitemap_nghidinh.xml` (MD5: `3a202b1c68c7580997d5b446bcbf502f`)
+- `tmp/discovery-v112/sitemap_thongtu.xml` (MD5: `2332206f30d05e05c22372f3478dbd7c`)
+
+### Phiên thực hiện
+
+- agent: github-io:subagent:36b2676c-415a-4117-b547-6e5c72af6eb9 (Đệ #1 Discovery)
+- branch: `heartbeat/crawl-vanban-20260816`
+- Ngày: 2026-08-16 09:36 ICT Asia/Saigon
+
+---
+
 ## Cập nhật 2026-08-14 v111 (Đệ #1 Discovery & Tracking — 2026-08-14 07:42 ICT)
 
 ### Kết quả discovery: 5 văn bản mới (3 NĐ + 2 TT)
