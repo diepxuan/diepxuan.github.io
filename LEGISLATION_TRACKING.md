@@ -65,6 +65,7 @@
 
 | Số hiệu | Tên văn bản | Trạng thái | Ngày hoàn thành | Ghi chú |
 |---------|-------------|------------|-----------------|----------|
+| 315/2026/NĐ-CP | Quy định về kiểm định và kiểm tra an ninh thiết bị kỹ thuật bảo vệ bí mật nhà nước | Hoàn thiện | 2026-08-17 | Pass Quality Gate |
 | 312/2026/NĐ-CP | Nghị định về kết hợp an ninh với kinh tế - xã hội... | Hoàn thiện | 2026-08-16 | Pass Quality Gate |
 | 136/2026/TT-BCA | Thông tư quy định danh mục sản phẩm khai thác CSDL... | Hoàn thiện | 2026-08-15 | Pass Quality Gate |
 | 314/2026/NĐ-CP | Quy định hoạt động của sàn dữ liệu | Hoàn thiện | 2026-08-16 | Pass Quality Gate |
