@@ -1,3 +1,24 @@
+### Cập nhật 2026-08-18 v113 (Đệ #1 Discovery & Tracking — 2026-08-18 05:15 ICT)
+
+### Kết quả discovery: 2 văn bản mới (2 TT)
+
+**Phương pháp**: Quét nguồn `luatvietnam.vn` và `thuvienphapluat.vn` ngày 18/8. So với ref v112 (16/8).
+
+**Phạm vi quét**: Thuế, Đất đai, KHCN, Công thương...
+
+### 2 VB mới phát hiện (chưa có trong tracking)
+
+| # | Số hiệu | Chủ đề | Ngày BH | Trạng thái | Nguồn |
+|---|---|---|---|---|---|
+| 1 | **35/2026/TT-TT-BCT** | Công thương (Bình ổn giá) | 08/2026 | **Chưa có** | thuvienphapluat |
+| 2 | **41/2026/TT-BCT** | Công thương (Phế liệu/Tạm nhập) | 08/2026 | **Chưa có** | luatvietnam |
+
+### Chi tiết 2 VB mới
+1. **35/2026/TT-BCT** — Quy định đặc điểm kinh tế - kỹ thuật đối với hàng hóa bình ổn giá, kê khai giá.
+2. **41/2026/TT-BCT** — Quy định Danh mục phế liệu và Danh mục hàng hóa đã qua sử dụng tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu.
+
+---
+
 ## Cập nhật 2026-08-16 v112 (Đệ #1 Discovery & Tracking — 2026-08-16 09:36 ICT)
 
 ### Kết quả discovery: 4 văn bản mới (2 NĐ + 2 TT)
