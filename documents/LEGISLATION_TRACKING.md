@@ -25,8 +25,8 @@
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
 | 1 | **320/2026/NĐ-CP** | Hành chính (Bộ Công an) | 444072-d1 | 13/08/2026 | — | **Chưa có** |
-| 2 | **318/2026/NĐ-CP** | Tài chính (NHNN) | 443951-d1 | 12/08/2026 | — | **Chưa có** |
-| 3 | **38/2026/TT-NHNN** | Đầu tư/Ngoại hối (NHNN) | 444098-d1 | 31/07/2026 | — | **Chưa có** |
+| 2 | **318/2026/NĐ-CP** | Tài chính (NHNN) | 443951-d1 | 12/08/2026 | — | **Hoàn thiện** |
+| 3 | **38/2026/TT-NHNN** | Đầu tư/Ngoại hối (NHNN) | 444098-d1 | 31/07/2026 | — | **Hoàn thiện** |
 | 4 | **116/2026/TT-BTC** | Thuế/Thừa hành viên (Bộ Tài chính) | 443985-d1 | 13/08/2026 | [van-ban/tai-chinh/116-2026-tt-btc.md](van-ban/tai-chinh/116-2026-tt-btc.md) | **Hoàn thiện** |
 
 ### Chi tiết 4 VB mới
@@ -35,7 +35,7 @@
 
 2. **318/2026/NĐ-CP** — Quy định chi tiết Luật Phục hồi, phá sản về các trường hợp không áp dụng đối với hợp đồng phái sinh có điều khoản về thanh toán ròng. Ban hành 12/08/2026. Căn cứ Luật Phục hồi, phá sản 142/2025/QH15. Quy định không tạm dừng xử lý tài sản bảo đảm, thanh toán/bù trừ trong 6 tháng trước khi mở thủ tục phá sản không bị coi vô hiệu, không tạm đình chỉ thực hiện hợp đồng phái sinh. URL: `https://luatvietnam.vn/tai-chinh/nghi-dinh-318-2026-nd-cp-quy-dinh-chi-tiet-luat-phuc-hoi-pha-san-ve-hop-dong-phai-sinh-443951-d1.html`
 
-3. **38/2026/TT-NHNN** — Quy định quản lý ngoại hối đối với hoạt động đầu tư nước ngoài tại Việt Nam. Ban hành 31/07/2026 bởi Thống đốc NHNN. Căn cứ Luật Ngân hàng Nhà nước, Luật Các tổ chức tín dụng, Luật Đầu tư, Pháp lệnh Ngoại hối, NĐ 70/2014, NĐ 329/2025, NĐ 96/2026. Quy định về mở tài khoản vốn đầu tư, góp vốn/chuyển vốn/lợi nhuận, chuyển nhượng vốn/dự án. URL: `https://luatvietnam.vn/dau-tu/thong-tu-38-2026-tt-nhnn-quan-ly-ngoai-hoi-cho-dau-tu-nuoc-ngoai-tai-viet-nam-444098-d1.html`
+3. **38/2026/TT-NHNN** — Quy định quản lý ngoại hối đối với hoạt động đầu tư nước ngoài tại Việt Nam. Ban hành 31/07/2026 bởi Thống đốc NHNN. Căn cứ Luật Ngân hàng Nhà nước, Luật Các tổ chức tín dụng, Luật Đầu tư, Pháp lệnh Ngoại hối, NĐ 70/2014, NĐ 329/2025, NĐ 96/2026. Quy định về mở tài khoản vốn đầu tư, góp vốn/chuyển vốn/lợi nhuận, chuyển nhượng vốn/dự án. URL: `https://luatvietnam.vn/dau-tu/thong-tu-38-2026-tt-nhnn-quan-ly-ngoai-hoi-cho-dau-tu-nuoc-ngoai-tai-viet-nam-444098-d1.html` — **File: van-ban/38-2026-tt-nhnn.md** (OCR quality gate PASS, 20 Điều, 5 Chương)
 
 4. **116/2026/TT-BTC** — Quy định mức thu, chế độ thu, nộp phí thẩm định tiêu chuẩn, điều kiện hành nghề Thừa hành viên. Ban hành 13/08/2026 bởi Bộ Tài chính. Căn cứ Luật Phí và lệ phí, Luật Ngân sách, Luật QL thuế, Luật Thi hành án dân sự, NĐ 362/2025, NĐ 151/2026, NĐ 29/2025. Mức phí: 2.700.000đ/hồ sơ (kiểm tra tập sự), 800.000đ (bổ nhiệm), 500.000đ (bổ nhiệm lại). URL: `https://luatvietnam.vn/thue/thong-tu-116-2026-tt-btc-quy-dinh-phi-tham-dinh-tieu-chuan-hanh-nghe-thua-hanh-vien-443985-d1.html`
 
