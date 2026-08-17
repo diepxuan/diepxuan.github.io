@@ -1,0 +1,177 @@
+---
+layout: vanban
+title: "Nghị định 314/2026/NĐ-CP Quy định hoạt động của sàn dữ liệu"
+date: 2026-08-08
+modified: 2026-08-17
+group: khoa-hoc
+tags:
+  - sàn dữ liệu
+  - giao dịch dữ liệu
+  - kinh doanh dữ liệu
+docid: 443950-d1
+source: luatvietnam.vn
+---
+
+# Nghị định 314/2026/NĐ-CP Quy định hoạt động của sàn dữ liệu
+
+## THÔNG TIN VĂN BẢN
+
+- **Số hiệu:** 314/2026/NĐ-CP
+- **Ngày ban hành:** 08/08/2026
+- **Ngày hiệu lực:** 25/09/2026
+- **Người ký:** Chính phủ
+- **Trích yếu:** Quy định hoạt động của sàn dữ liệu
+- **Căn cứ pháp luật:** Theo đề nghị của Bộ trưởng Bộ Công an
+
+## VĂN BẢN
+
+CHÍNH PHỦ
+
+Số: 314/2026/NĐ-CP
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+
+Hà Nội, ngày 08 tháng 8 năm 2026
+
+**NGHỊ ĐỊNH**
+**Quy định hoạt động của sàn dữ liệu**
+
+Theo đề nghị của Bộ trưởng Bộ Công an;
+Chính phủ ban hành Nghị định quy định hoạt động của sàn dữ liệu.
+
+## Chương I
+## QUY ĐỊNH CHUNG
+
+### Điều 1. Phạm vi điều chỉnh
+Nghị định này quy định hoạt động của sàn dữ liệu gồm: hoạt động của tổ chức kinh doanh dịch vụ sàn dữ liệu; hoạt động thử nghiệm dữ liệu trên sàn dữ liệu; điều kiện tham gia giao dịch; điều kiện đối với dữ liệu, sản phẩm, dịch vụ về dữ liệu được giao dịch trên sàn dữ liệu; hỗ trợ định giá dữ liệu, sản phẩm, dịch vụ về dữ liệu; quy trình giao dịch trên sàn dữ liệu; quản lý rủi ro, hỗ trợ xử lý vấn đề phát sinh trong giao dịch và hỗ trợ giải quyết tranh chấp; trách nhiệm của Bên bán, Bên mua và tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu.
+
+### Điều 2. Đối tượng áp dụng
+Nghị định này áp dụng đối với các cơ quan, tổ chức, doanh nghiệp, cá nhân có liên quan đến các hoạt động trên sàn dữ liệu.
+
+### Điều 3. Giải thích từ ngữ
+1. Tổ chức, cá nhân tham gia sàn dữ liệu (sau đây gọi là bên tham gia) là Bên bán hoặc Bên mua đăng ký, sử dụng tài khoản trên sàn dữ liệu để thực hiện giao dịch dữ liệu, sản phẩm, dịch vụ về dữ liệu theo quy định tại Nghị định này.
+
+2. Bên bán là tổ chức, cá nhân kinh doanh, cung cấp quyền khai thác, sử dụng dữ liệu, sản phẩm, dịch vụ về dữ liệu trên sàn dữ liệu.
+
+3. Bên mua là tổ chức, cá nhân nhận quyền khai thác, sử dụng dữ liệu, sản phẩm, dịch vụ về dữ liệu trên sàn dữ liệu.
+
+4. Dịch vụ trung gian dữ liệu trên sàn dữ liệu là hoạt động của tổ chức kinh doanh sản phẩm, dịch vụ trung gian dữ liệu thực hiện việc kết nối, hỗ trợ đàm phán, giao kết giao dịch, phục vụ hoạt động kết nối, truyền dẫn, truy cập và xử lý dữ liệu điện tử giữa Bên bán và Bên mua đối với dữ liệu, sản phẩm, dịch vụ về dữ liệu trên sàn dữ liệu mà không trực tiếp sở hữu hoặc quyết định nội dung dữ liệu được giao dịch.
+
+5. Dịch vụ phân tích, tổng hợp dữ liệu trên sàn dữ liệu là hoạt động của tổ chức kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu thực hiện xử lý dữ liệu nhằm tạo ra sản phẩm, dịch vụ về dữ liệu có giá trị gia tăng so với dữ liệu ban đầu để niêm yết, giao dịch trên sàn dữ liệu.
+
+6. Tài khoản giao dịch trên sàn dữ liệu là tài khoản do tổ chức, cá nhân đăng ký trên sàn dữ liệu để thực hiện giao dịch dữ liệu và các sản phẩm, dịch vụ về dữ liệu trên sàn dữ liệu.
+
+### Điều 4. Nguyên tắc hoạt động của sàn dữ liệu
+1. Tôn trọng quyền sở hữu, quyền khai thác, quyền sử dụng và các quyền hợp pháp khác đối với dữ liệu, sản phẩm, dịch vụ về dữ liệu trong hoạt động trên sàn dữ liệu; quyền tự do giao dịch, trao đổi, cấp quyền khai thác, sử dụng dữ liệu, đầu tư, kinh doanh và cung cấp sản phẩm, dịch vụ về dữ liệu của tổ chức, cá nhân theo quy định của pháp luật.
+
+2. Bảo đảm công bằng, công khai, minh bạch trong việc niêm yết, giao dịch, hỗ trợ định giá dữ liệu, sản phẩm về dữ liệu và cung cấp dịch vụ về dữ liệu trên sàn dữ liệu.
+
+3. Bảo đảm an ninh mạng, an ninh dữ liệu, bảo vệ dữ liệu cá nhân, dữ liệu thuộc phạm vi bí mật nhà nước theo quy định của pháp luật trong quá trình giao dịch, lưu trữ trên sàn dữ liệu.
+
+4. Bảo vệ quyền và lợi ích hợp pháp của các bên tham gia giao dịch trên sàn dữ liệu.
+
+5. Bảo đảm tính chính xác, hợp lệ, toàn vẹn, đầy đủ, cập nhật kịp thời, thống nhất và có thể truy xuất nguồn gốc của dữ liệu, sản phẩm, dịch vụ về dữ liệu được giao dịch trên sàn dữ liệu.
+
+6. Tuân thủ quy định của pháp luật về bảo vệ dữ liệu cá nhân. Nghiêm cấm việc lợi dụng sàn dữ liệu để thực hiện hành vi mua, bán dữ liệu cá nhân hoặc xử lý dữ liệu cá nhân trái quy định của pháp luật. Dữ liệu, sản phẩm, dịch vụ về dữ liệu có nguồn gốc từ dữ liệu cá nhân chỉ được giao dịch trên sàn dữ liệu khi đáp ứng điều kiện về khử nhận dạng và các yêu cầu khác theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+7. Tuân thủ quy định của pháp luật về sở hữu trí tuệ, an ninh mạng và các quy định của pháp luật khác có liên quan.
+
+## Chương II
+## TỔ CHỨC KINH DOANH DỊCH VỤ SÀN DỮ LIỆU
+
+### Điều 5. Phân loại, quản lý, vận hành sàn dữ liệu
+1. Sàn dữ liệu gồm: Sàn dữ liệu quốc gia và các sàn dữ liệu khác.
+
+2. Sàn dữ liệu quốc gia:
+a) Sàn dữ liệu quốc gia do Trung tâm dữ liệu quốc gia, Bộ Công an xây dựng, quản lý, vận hành, giám sát, kiểm tra, đánh giá; thực hiện chức năng cung cấp dữ liệu, sản phẩm, dịch vụ về dữ liệu và môi trường giao dịch dữ liệu theo quy định tại Nghị định này;
+b) Sàn dữ liệu quốc gia cung cấp môi trường giao dịch dữ liệu; cung cấp dữ liệu, các sản phẩm, dịch vụ về dữ liệu từ các nguồn Cơ sở dữ liệu tổng hợp quốc gia, các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác do cơ quan Đảng, nhà nước, Ủy ban Mặt trận Tổ quốc Việt Nam quản lý và từ dữ liệu do tổ chức, cá nhân khác cung cấp;
+c) Trung tâm dữ liệu quốc gia thực hiện chức năng giám sát, kiểm tra, đánh giá đối với hoạt động của Sàn dữ liệu quốc gia và các sàn dữ liệu khác.
+Việc thực hiện chức năng quản lý, giám sát, kiểm tra, đánh giá phải bảo đảm tách biệt với hoạt động trực tiếp vận hành và cung cấp dữ liệu, sản phẩm, dịch vụ về dữ liệu trên Sàn dữ liệu quốc gia.
+Việc kiểm tra, đánh giá việc đáp ứng điều kiện hoạt động của Sàn dữ liệu quốc gia được thực hiện bởi cơ quan, đơn vị có chức năng độc lập với đơn vị trực tiếp vận hành Sàn dữ liệu quốc gia, theo định kỳ, đột xuất hoặc theo yêu cầu của cơ quan có thẩm quyền;
+d) Trung tâm dữ liệu quốc gia giao đơn vị trực thuộc tổ chức kinh doanh dịch vụ Sàn dữ liệu quốc gia, quản lý dữ liệu giao dịch của các sàn dữ liệu khác có kết nối với Sàn dữ liệu quốc gia.
+Trung tâm dữ liệu quốc gia có trách nhiệm bảo đảm đầy đủ các điều kiện tương ứng về tổ chức bộ máy, nhân sự chuyên môn, hạ tầng kỹ thuật, hệ thống công nghệ, an ninh mạng, an ninh dữ liệu, bảo vệ dữ liệu cá nhân, quản lý rủi ro, lưu trữ, giám sát, truy vết giao dịch và các điều kiện khác phục vụ hoạt động của Sàn dữ liệu quốc gia theo quy định của Nghị định này và quy định của pháp luật khác có liên quan. Tổ chức kinh doanh dịch vụ Sàn dữ liệu quốc gia không phải thực hiện thủ tục cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ sàn dữ liệu; Giấy chứng nhận đủ điều kiện kinh doanh sản phẩm, dịch vụ trung gian, phân tích, tổng hợp dữ liệu; Giấy chứng nhận đủ điều kiện cung cấp sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu;
+đ) Tổ chức kinh doanh dịch vụ Sàn dữ liệu quốc gia cung cấp dịch vụ cho tổ chức, cá nhân trên cơ sở hợp đồng cung cấp dịch vụ bao gồm các hoạt động sau: dịch vụ trung gian dữ liệu, phân tích, tổng hợp dữ liệu trên sàn dữ liệu; dịch vụ chào mua, chào bán; dịch vụ hỗ trợ định giá dữ liệu, sản phẩm, dịch vụ về dữ liệu; dịch vụ đấu giá dữ liệu, sản phẩm, dịch vụ về dữ liệu; dịch vụ tư vấn xây dựng, quản lý, vận hành sàn dữ liệu và các dịch vụ khác theo quy định của pháp luật;
+e) Sàn dữ liệu quốc gia được tổ chức, quản lý, vận hành trên môi trường điện tử tại địa chỉ https://sandulieuquocgia.gov.vn.
+
+3. Sàn dữ liệu khác:
+a) Sàn dữ liệu không thuộc khoản 2 Điều này được cung cấp dữ liệu, sản phẩm, dịch vụ về dữ liệu từ nguồn cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành do cơ quan chủ quản của tổ chức kinh doanh dịch vụ sàn dữ liệu đó quản lý và dữ liệu do tổ chức, cá nhân khác ngoài nhà nước cung cấp;
+b) Tổ chức kinh doanh dịch vụ sàn dữ liệu tại điểm a khoản này được cung cấp dịch vụ cho tổ chức, cá nhân trên cơ sở hợp đồng cung cấp dịch vụ bao gồm các hoạt động sau: dịch vụ chào mua, chào bán; dịch vụ hỗ trợ định giá dữ liệu, sản phẩm, dịch vụ về dữ liệu; dịch vụ đấu giá dữ liệu, sản phẩm, dịch vụ về dữ liệu.
+
+4. Các sàn dữ liệu phải bảo đảm mức độ an toàn hệ thống thông tin từ cấp độ 3 trở lên. Đối với các sàn dữ liệu khác phải bảo đảm khả năng kết nối, chia sẻ dữ liệu với Sàn dữ liệu quốc gia thông qua Nền tảng chia sẻ, điều phối dữ liệu.
+Trung tâm dữ liệu quốc gia có trách nhiệm hướng dẫn việc kết nối, liên thông, chia sẻ dữ liệu, hỗ trợ kỹ thuật giữa Sàn dữ liệu quốc gia với các sàn dữ liệu khác bảo đảm thống nhất, đồng bộ.
+
+### Điều 6. Nguyên tắc xác định giá và chia sẻ doanh thu từ giao dịch dữ liệu trên sàn dữ liệu
+1. Thu giá đối với sản phẩm, dịch vụ về dữ liệu có giá trị gia tăng sử dụng thông tin từ cơ sở dữ liệu, hệ thống thông tin do cơ quan nhà nước quản lý:
+a) Sản phẩm, dịch vụ về dữ liệu có giá trị gia tăng sử dụng thông tin từ cơ sở dữ liệu, hệ thống thông tin do bộ, ngành quản lý là sản phẩm, dịch vụ được hình thành trên cơ sở xử lý, phân tích, tổng hợp hoặc kết hợp dữ liệu nhằm tạo ra giá trị gia tăng so với dữ liệu ban đầu.
+Sản phẩm, dịch vụ về dữ liệu có giá trị gia tăng sử dụng thông tin từ cơ sở dữ liệu, hệ thống thông tin do bộ, ngành quản lý được cung cấp theo yêu cầu của tổ chức, cá nhân thông qua sàn dữ liệu, không bao gồm các dịch vụ thuộc đối tượng thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí, được áp dụng cơ chế thu giá theo quy định của pháp luật về giá;
+b) Bộ, cơ quan ngang bộ và cơ quan khác được Nhà nước giao quản lý cơ sở dữ liệu, hệ thống thông tin có thẩm quyền ban hành giá cụ thể, giá tối đa hoặc khung giá tùy theo tính chất của từng loại sản phẩm, dịch vụ quy định tại điểm a khoản này, bảo đảm phù hợp với quy định của pháp luật về giá.
+
+2. Bên bán và tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu tự định giá và điều chỉnh giá đối với dữ liệu, sản phẩm, dịch vụ về dữ liệu cung ứng; được xem xét áp dụng nguyên tắc, căn cứ, phương pháp định giá do Nhà nước quy định và thực hiện công khai, niêm yết giá theo quy định của pháp luật. Trường hợp dữ liệu, sản phẩm, dịch vụ về dữ liệu thuộc danh mục hàng hóa, dịch vụ do Nhà nước định giá thì thực hiện theo quy định của pháp luật về giá.
+
+3. Dữ liệu, sản phẩm, dịch vụ về dữ liệu thuộc sở hữu của tổ chức, cá nhân được giao dịch trên sàn dữ liệu thực hiện theo quy định của pháp luật về dân sự, pháp luật về giá và quy định của pháp luật khác có liên quan.
+
+4. Việc chia sẻ doanh thu từ hoạt động giao dịch dữ liệu, sản phẩm, dịch vụ về dữ liệu trên sàn dữ liệu được thực hiện theo thỏa thuận giữa Bên bán, tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu, tổ chức kinh doanh dịch vụ sàn dữ liệu và các chủ thể có liên quan, căn cứ quyền, trách nhiệm và mức độ đóng góp của từng chủ thể, trừ trường hợp pháp luật có quy định khác. Đối với dữ liệu, sản phẩm, dịch vụ về dữ liệu được hình thành từ cơ sở dữ liệu do cơ quan nhà nước quản lý hoặc có liên quan đến tài sản công, việc phân chia, quản lý và sử dụng doanh thu thực hiện theo quy định của pháp luật về ngân sách nhà nước, quản lý, sử dụng tài sản công và pháp luật khác có liên quan.
+
+5. Bộ, cơ quan ngang bộ và cơ quan khác được Nhà nước giao quản lý cơ sở dữ liệu, hệ thống thông tin có trách nhiệm xây dựng phương án giá đối với dữ liệu, sản phẩm, dịch vụ về dữ liệu được hình thành từ cơ sở dữ liệu, hệ thống thông tin thuộc phạm vi quản lý và lấy ý kiến Bộ Tài chính trước khi quyết định theo thẩm quyền hoặc trình cơ quan, người có thẩm quyền quyết định theo quy định của pháp luật về giá.
+
+### Điều 7. Dịch vụ trung gian dữ liệu, dịch vụ phân tích, tổng hợp dữ liệu trên sàn dữ liệu
+1. Việc cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu bao gồm các hoạt động sau đây:
+a) Kết nối nhu cầu giữa Bên bán và Bên mua;
+b) Hỗ trợ các bên tìm kiếm, tiếp cận, đàm phán, giao kết và thực hiện giao dịch;
+c) Hỗ trợ Bên bán chuẩn bị, hoàn thiện hồ sơ đề nghị niêm yết dữ liệu, sản phẩm, dịch vụ về dữ liệu;
+d) Kiểm tra, đánh giá, thẩm định dữ liệu, sản phẩm, dịch vụ về dữ liệu của Bên bán theo phạm vi dịch vụ được thỏa thuận;
+đ) Các hoạt động trung gian dữ liệu khác theo quy định của pháp luật.
+
+2. Tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu có trách nhiệm:
+a) Công bố công khai trên sàn dữ liệu phạm vi, phương thức cung cấp và giá dịch vụ (nếu có);
+b) Bảo đảm tính độc lập, khách quan, trung thực và minh bạch trong quá trình cung cấp dịch vụ;
+c) Thực hiện việc hỗ trợ, kiểm tra, đánh giá, thẩm định dữ liệu, sản phẩm, dịch vụ về dữ liệu theo đúng phạm vi dịch vụ đã thỏa thuận;
+d) Cung cấp kết quả kiểm tra, đánh giá, thẩm định dữ liệu, sản phẩm, dịch vụ về dữ liệu, trong đó thể hiện rõ phạm vi, nội dung, phương pháp thực hiện, thông tin, tài liệu được sử dụng và kết luận đánh giá, thẩm định cho Bên bán và tổ chức kinh doanh dịch vụ sàn dữ liệu;
+đ) Chịu trách nhiệm trước pháp luật và khách hàng về tính chính xác, trung thực, khách quan của kết quả kiểm tra, đánh giá, thẩm định đã thực hiện;
+e) Lưu trữ và cung cấp thông tin, tài liệu liên quan đến quá trình cung cấp dịch vụ theo yêu cầu của tổ chức kinh doanh dịch vụ sàn dữ liệu và cơ quan có thẩm quyền;
+g) Thực hiện các nghĩa vụ khác theo quy định của pháp luật.
+
+3. Tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu được tham gia sàn dữ liệu với tư cách Bên bán theo quy định của pháp luật và có trách nhiệm:
+a) Thực hiện đầy đủ quyền, nghĩa vụ của Bên bán và công khai tư cách tham gia trên sàn dữ liệu;
+b) Không được kiểm tra, đánh giá, thẩm định dữ liệu, sản phẩm, dịch vụ về dữ liệu cung cấp với vai trò Bên bán hoặc đối với giao dịch mà mình có quyền, lợi ích liên quan.
+
+4. Kết quả kiểm tra, đánh giá, thẩm định của tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu là một trong các căn cứ để tổ chức kinh doanh dịch vụ sàn dữ liệu xem xét hồ sơ, không thay thế trách nhiệm của Bên bán và trách nhiệm kiểm tra, quyết định phê duyệt hoặc từ chối niêm yết của tổ chức kinh doanh dịch vụ sàn dữ liệu.
+
+5. Trường hợp tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu đồng thời có quyền, lợi ích liên quan đến một trong các bên tham gia giao dịch, tổ chức đó phải công khai đầy đủ quyền, lợi ích có liên quan trước khi cung cấp dịch vụ; không được lợi dụng vị trí trung gian, thông tin, dữ liệu được tiếp cận hoặc công cụ hỗ trợ giao dịch để tạo lợi thế cạnh tranh không bình đẳng, tác động đến kết quả giao dịch hoặc xâm phạm quyền, lợi ích hợp pháp của các bên.
+
+6. Sản phẩm, dịch vụ về dữ liệu được tạo ra từ hoạt động phân tích, tổng hợp dữ liệu phải được phân loại và công bố rõ trên sàn dữ liệu là sản phẩm, dịch vụ về dữ liệu có giá trị gia tăng, không phải dữ liệu gốc.
+
+7. Tổ chức kinh doanh, cung cấp dịch vụ phân tích, tổng hợp dữ liệu trên sàn dữ liệu có trách nhiệm:
+a) Công bố thông tin cơ bản về phương pháp xử lý, nguồn dữ liệu đầu vào và tần suất cập nhật của sản phẩm, dịch vụ về dữ liệu;
+b) Bảo đảm việc khai thác, sử dụng dữ liệu đầu vào đúng phạm vi quyền khai thác, sử dụng đã được cấp;
+c) Bảo đảm sản phẩm, dịch vụ về dữ liệu không gây hiểu nhầm về bản chất, nguồn gốc, phạm vi và mức độ chính xác của dữ liệu;
+d) Chịu trách nhiệm về tính hợp pháp của nguồn dữ liệu đầu vào, phương pháp xử lý và chất lượng của sản phẩm, dịch vụ về dữ liệu được tạo ra;
+đ) Thực hiện các nghĩa vụ khác theo quy định của pháp luật.
+
+8. Tổ chức kinh doanh dịch vụ sàn dữ liệu có trách nhiệm:
+a) Kiểm tra tư cách pháp lý, phạm vi hoạt động và thông tin công bố của Bên bán, Bên mua, tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu, tổ chức cung cấp dịch vụ phân tích, tổng hợp dữ liệu;
+b) Kiểm tra kết quả đánh giá, thẩm định do tổ chức cung cấp dịch vụ trung gian dữ liệu trên sàn dữ liệu thực hiện;
+c) Kiểm tra, kiểm duyệt thông tin niêm yết, chào mua, chào bán, đấu giá dữ liệu, sản phẩm, dịch vụ về dữ liệu nhằm phòng ngừa, phát hiện, ngăn chặn việc lợi dụng sàn dữ liệu để mua, bán dữ liệu cá nhân hoặc giao dịch dữ liệu cá nhân chưa được khử nhận dạng;
+d) Tạm ngừng, chấm dứt giao dịch, hủy niêm yết hoặc áp dụng biện pháp kỹ thuật cần thiết khi phát hiện dấu hiệu vi phạm; lưu giữ thông tin, tài liệu có liên quan và cung cấp cho cơ quan có thẩm quyền theo quy định của pháp luật.
+
+### Điều 8. Dịch vụ chào mua, chào bán
+1. Đối với dịch vụ chào mua, Bên mua có quyền đăng tải yêu cầu về dữ liệu, sản phẩm, dịch vụ về dữ liệu chưa có sẵn trên sàn dữ liệu theo nhu cầu. Yêu cầu về dữ liệu, sản phẩm, dịch vụ về dữ liệu phải nêu rõ các thông tin cơ bản như sau:
+a) Mô tả cụ thể dữ liệu, sản phẩm, dịch vụ về dữ liệu cần tìm, gồm: tên gọi, nội dung, thời gian, lĩnh vực, phạm vi, hình thức và phương thức cung cấp, yêu cầu về chất lượng, kỹ thuật;
+b) Mục đích sử dụng;
+c) Đối với dữ liệu, sản phẩm về dữ liệu: yêu cầu về phạm vi quyền khai thác, sử dụng dữ liệu dự kiến, bao gồm thời hạn sử dụng, phạm vi mục đích sử dụng và các điều kiện khác (nếu có).
+
+2. Đối với dịch vụ chào bán dữ liệu, sản phẩm về dữ liệu, sàn dữ liệu yêu cầu Bên bán cung cấp và công bố tối thiểu các nhóm thông tin sau đây:
+a) Thông tin về tư cách pháp lý của Bên bán; nguồn gốc, căn cứ tạo lập hoặc quyền khai thác, sử dụng hợp pháp đối với dữ liệu, sản phẩm về dữ liệu;
+b) Mô tả đặc tính kỹ thuật, định dạng, liệt kê các trường thông tin và các thông số khác của dữ liệu, sản phẩm về dữ liệu;
+c) Giá và phạm vi quyền khai thác, sử dụng dữ liệu, sản phẩm về dữ liệu được cấp phép, bao gồm tối thiểu các nội dung sau: thời hạn sử dụng; mục đích sử dụng được phép; phạm vi lãnh thổ áp dụng (nếu có); tính độc quyền hoặc không độc quyền của quyền khai thác, sử dụng được cấp phép; điều kiện và giới hạn chuyển nhượng lại quyền khai thác, sử dụng cho bên thứ ba; các điều kiện hạn chế về quyền sở hữu trí tuệ (nếu có).
+
+3. Đối với việc chào bán dịch vụ trung gian dữ liệu, phân tích, tổng hợp dữ liệu trên sàn dữ liệu, tổ chức kinh doanh, cung cấp dịch vụ phải công bố tối thiểu các thông tin sau:
+a) Phạm vi và phương thức cung cấp dịch vụ;
+b) Giá dịch vụ;
+c) Giấy chứng nhận đủ điều kiện kinh doanh theo quy định của pháp luật;
+d) Các điều kiện và giới hạn trong việc cung cấp dịch vụ liên quan đến dữ liệu, sản phẩm, dịch vụ về dữ liệu.
+
+4. Bên bán và Bên mua chịu trách nhiệm về tính chính xác, hợp pháp của thông tin chào mua, chào bán đã đăng tải trên sàn dữ liệu; tuân thủ quy định của pháp luật về bảo vệ dữ liệu cá nhân trong quá trình chào mua, chào bán, giao dịch, khai thác, sử dụng dữ liệu, sản phẩm, dịch vụ về dữ liệu trên sàn dữ liệu.
+
+5. Tổ chức kinh doanh dịch vụ sàn dữ liệu có trách nhiệm kiểm duyệt nội dung chào mua, chào bán
