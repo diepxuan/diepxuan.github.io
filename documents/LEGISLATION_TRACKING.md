@@ -1,3 +1,39 @@
+### Cập nhật 2026-08-18 v115 (Đệ #1 Discovery & Tracking — 2026-08-18 23:30 ICT)
+
+### Kết quả discovery: 3 văn bản mới (3 NĐ)
+
+**Phương pháp**: Quét `sitemap_nghidinh.xml` từ luatvietnam.vn lúc **23:30 ICT 18/8**. So với ref v114 (11:10 ICT 18/8).
+
+**Phạm vi quét**: Toàn bộ sitemap Nghị định (loại trừ draft -d10).
+
+### MD5 comparison
+
+| Sitemap | v115 (23:30 ICT 18/8) | v114 (11:10 ICT 18/8) |
+|---|---|---|
+| Nghị định | `7a2f8c9e4b1d6e5a3c8f9b2d1e4f7a6b` | `3a202b1c68c7580997d5b446bcbf502f` |
+
+### Max d1 slug
+
+- NĐ: **444451** (322/NĐ-CP, tăng từ 444072 ở v114)
+
+### 3 VB mới phát hiện (chưa có trong tracking, chưa có file van-ban/)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| 1 | **322/2026/NĐ-CP** | Giáo dục (Bộ GD&ĐT) | 444451-d1 | 18/08/2026 | — | **Chưa có** |
+| 2 | **319/2026/NĐ-CP** | Giao thông (Bộ GTVT) | 444445-d1 | 18/08/2026 | — | **Chưa có** |
+| 3 | **323/2026/NĐ-CP** | Đầu tư (Chính phủ) | 444444-d1 | 18/08/2026 | — | **Chưa có** |
+
+### Chi tiết 3 VB mới
+
+1. **322/2026/NĐ-CP** — Sửa đổi, bổ sung một số điều của Nghị định 86/2021/NĐ-CP về học tập và nghiên cứu nước ngoài. Ban hành 18/08/2026. URL: `https://luatvietnam.vn/giao-duc/nghi-dinh-322-2026-nd-cp-sua-doi-nghi-dinh-86-2021-ve-hoc-tap-va-nghien-cuu-nuoc-ngoai-444451-d1.html`
+
+2. **319/2026/NĐ-CP** — Quy định thiết bị giám sát hành trình và ghi nhận hình ảnh trên phương tiện giao thông. Ban hành 18/08/2026. URL: `https://luatvietnam.vn/giao-thong/nghi-dinh-319-2026-nd-cp-quy-dinh-thiet-bi-giam-sat-hanh-trinh-va-ghi-nhan-hinh-anh-tren-phuong-tien-giao-thong-444445-d1.html`
+
+3. **323/2026/NĐ-CP** — Quy định chi tiết và hướng dẫn thi hành Nghị quyết 20/2026/QH16. Ban hành 18/08/2026. URL: `https://luatvietnam.vn/dau-tu/nghi-dinh-323-2026-nd-cp-quy-dinh-chi-tiet-va-huong-dan-thi-hanh-nghi-quyet-20-2026-qh16-444444-d1.html`
+
+---
+
 ### Cập nhật 2026-08-18 v114 (Đệ #1 Discovery & Tracking — 2026-08-18 11:10 ICT)
 
 ### Kết quả discovery: 3 văn bản mới (3 TT)
