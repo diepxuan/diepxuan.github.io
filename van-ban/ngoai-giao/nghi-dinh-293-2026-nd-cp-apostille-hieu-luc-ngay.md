@@ -198,7 +198,7 @@ Việc tiếp nhận hồ sơ đề nghị cấp chứng nhận Apostille đư�
 
 3. Trường hợp phát hiện giấy tờ công có dấu hiệu giả mạo, bị tẩy xóa hoặc sửa chữa trái phép, cơ quan tiếp nhận ghi chú tại hồ sơ để xử lý theo quy định tại Điều 14 và Điều 15 Nghị định này.
 
-4. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ, cơ quan tiếp nhận hướng dẫn người đề nghị bổ sung, hoàn thiện hồ sơ một lần. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hướng dẫn, người đề nghị có trách nhiệm bổ sung, hoàn thiện hồ sơ; thời gian này không tính vào thời hạn giải quyết.
+4. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ, cơ quan tiếp nhận hướng dẫn người đề nghị bổ sung, hoàn thiện hồ sơ một lần. Trong thời hạn 07 ngày 1àm việc kể từ ngày nhận được hướng dẫn, người đề nghị có trách nhiệm bổ sung, hoàn thiện hồ sơ; thời gian này không tính vào thời hạn giải quyết.
 
 ### Điều 14. Giải quyết hồ sơ đề nghị cấp chứng nhận Apostille
 
@@ -232,7 +232,7 @@ a) Đối với trường hợp quy định tại điểm a và điểm b khoả
 
 b) Đối với trường hợp quy định tại điểm c khoản 1 Điều này: gửi đến cơ quan nhà nước có thẩm quyền quản lý lĩnh vực liên quan để xác nhận tình trạng lưu hành của giấy tờ.
 
-3. Cơ quan được đề nghị xác minh có trách nhiệm trả lời bằng văn bản trong thời hạn 05 ngày làm việc kể từ ngày nhận được đề nghị; trường hợp phức tạp, thời hạn không quá 10 ngày làm việc và phải thông báo lý do cho cơ quan đã gửi đề nghị.
+3. Cơ quan được đề nghị xác minh có trách nhiệm trả lời bằng văn bản trong thời hạn 05 ngày 1àm việc kể từ ngày nhận được đề nghị; trường hợp phức tạp, thời hạn không quá 10 ngày 1àm việc và phải thông báo lý do cho cơ quan đã gửi đề nghị.
 
 4. Ngay sau khi nhận được kết quả xác minh bằng văn bản, Cơ quan cấp Apostille xử lý như sau:
 
@@ -266,19 +266,19 @@ c) Trường hợp nhận được kết quả xác minh sau thời hạn quy đ
 
 hợp lệ và được xác định theo số lượng giấy tờ công đề nghị cấp chứng nhận Apostille trong một bộ hồ sơ và phương thức nộp hồ sơ. Đối với hồ sơ đề nghị cấp chứng nhận Apostille bằng giấy nộp theo quy định tại khoản 1 Điều 12 Nghị định này, thời hạn giải quyết như sau:
 
-a) 01 ngày làm việc đối với hồ sơ có từ 01 đến 04 giấy tờ công;
+a) 01 ngày 1àm việc đối với hồ sơ có từ 01 đến 04 giấy tờ công;
 
-b) 02 ngày làm việc đối với hồ sơ có từ 05 đến 09 giấy tờ công;
+b) 02 ngày 1àm việc đối với hồ sơ có từ 05 đến 09 giấy tờ công;
 
-c) 04 ngày làm việc đối với hồ sơ có từ 10 giấy tờ công trở lên.
+c) 04 ngày 1àm việc đối với hồ sơ có từ 10 giấy tờ công trở lên.
 
 2. Đối với hồ sơ đề nghị cấp chứng nhận Apostille điện tử nộp trực tuyến toàn trình theo quy định tại khoản 2 Điều 12 Nghị định này, thời hạn giải quyết như sau:
 
-a) Trong ngày làm việc đối với hồ sơ có từ 01 đến 04 giấy tờ công được tiếp nhận trước thời điểm theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử; trường hợp tiếp nhận sau thời điểm đó thì tính vào ngày làm việc tiếp theo;
+a) Trong ngày 1àm việc đối với hồ sơ có từ 01 đến 04 giấy tờ công được tiếp nhận trước thời điểm theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử; trường hợp tiếp nhận sau thời điểm đó thì tính vào ngày 1àm việc tiếp theo;
 
-b) 01 ngày làm việc đối với hồ sơ có từ 05 đến 09 giấy tờ công;
+b) 01 ngày 1àm việc đối với hồ sơ có từ 05 đến 09 giấy tờ công;
 
-c) 03 ngày làm việc đối với hồ sơ có từ 10 giấy tờ công trở lên.
+c) 03 ngày 1àm việc đối với hồ sơ có từ 10 giấy tờ công trở lên.
 
 Thời điểm bắt đầu tính thời hạn giải quyết quy định tại khoản này được xác định theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử.
 
@@ -298,7 +298,7 @@ c) Hết thời hạn quy định tại khoản 4 Điều 13 Nghị định này
 
 d) Kết quả đối chiếu theo quy định tại khoản 1 Điều 14 Nghị định này xác nhận chữ ký, con dấu, chức danh hoặc thẩm quyền trên giấy tờ công không phù hợp với thông tin, dữ liệu về con dấu, chữ ký, chức danh và thẩm quyền quy định tại Điều 23 Nghị định này.
 
-2. Khi từ chối cấp chứng nhận Apostille, Cơ quan cấp Apostille phải thông báo cho người đề nghị theo quy định của pháp luật về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong thời hạn quy định tại khoản 1 và khoản 2 Điều 17 Nghị định này; đối với trường hợp từ chối quy định tại điểm c khoản 1 Điều này, thời hạn thông báo là 01 ngày làm việc kể từ ngày hết thời hạn quy định tại khoản 4 Điều 13 Nghị định này. Thông báo phải nêu rõ lý do và căn cứ áp dụng. Bản chính giấy tờ công đã tiếp nhận được trả lại cho người đề nghị kèm theo thông báo từ chối, trừ trường hợp quy định tại khoản 4 Điều này.
+2. Khi từ chối cấp chứng nhận Apostille, Cơ quan cấp Apostille phải thông báo cho người đề nghị theo quy định của pháp luật về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong thời hạn quy định tại khoản 1 và khoản 2 Điều 17 Nghị định này; đối với trường hợp từ chối quy định tại điểm c khoản 1 Điều này, thời hạn thông báo là 01 ngày 1àm việc kể từ ngày hết thời hạn quy định tại khoản 4 Điều 13 Nghị định này. Thông báo phải nêu rõ lý do và căn cứ áp dụng. Bản chính giấy tờ công đã tiếp nhận được trả lại cho người đề nghị kèm theo thông báo từ chối, trừ trường hợp quy định tại khoản 4 Điều này.
 
 3. Cơ quan cấp Apostille hướng dẫn người đề nghị thực hiện thủ tục phù hợp theo quy định của pháp luật, như thủ tục chứng nhận lãnh sự, hợp pháp hóa lãnh sự theo quy định của pháp luật về chứng nhận lãnh sự, hợp pháp hóa lãnh sự đối với trường hợp giấy tờ cần sử dụng tại quốc gia không phải là Quốc gia thành viên Công ước.
 
@@ -308,7 +308,7 @@ a) Lưu giữ toàn bộ giấy tờ công và tài liệu liên quan trong hồ
 
 b) Thông báo bằng văn bản cho người đề nghị về việc lưu giữ giấy tờ và việc chuyển hồ sơ cho cơ quan có thẩm quyền xử lý, nêu rõ lý do;
 
-c) Trong thời hạn 05 ngày làm việc kể từ khi lập biên bản lưu giữ, thông báo bằng văn bản cho cơ quan có thẩm quyền theo quy định của pháp luật nơi Cơ quan cấp Apostille đặt trụ sở để đến tiếp nhận toàn bộ giấy tờ đang lưu giữ và biên bản lưu giữ nhằm xem xét, xử lý theo quy định của pháp luật.
+c) Trong thời hạn 05 ngày 1àm việc kể từ khi lập biên bản lưu giữ, thông báo bằng văn bản cho cơ quan có thẩm quyền theo quy định của pháp luật nơi Cơ quan cấp Apostille đặt trụ sở để đến tiếp nhận toàn bộ giấy tờ đang lưu giữ và biên bản lưu giữ nhằm xem xét, xử lý theo quy định của pháp luật.
 
 ### Điều 19. Hủy bỏ, thu hồi và cấp đổi chứng nhận Apostille đã cấp
 
@@ -326,9 +326,9 @@ Chứng nhận Apostille bị thu hồi chấm dứt hiệu lực kể từ th�
 
 Chứng nhận Apostille cấp đổi có số và số quản lý mới theo quy định tại điểm h và điểm l khoản 1 Điều 20 Nghị định này. Việc cấp đổi được thực hiện trên cơ sở hồ sơ và phí đã nộp. Trường hợp giấy tờ công đã gắn kèm không thể tái sử dụng để cấp đổi, Cơ quan cấp Apostille hướng dẫn người đề nghị cung cấp bản chính khác hoặc bản sao có chứng thực, bản dịch có chứng thực của chính giấy tờ công đó và không yêu cầu nộp lại hồ sơ đề nghị. Việc đề nghị cấp đổi được thực hiện trực tiếp tại Bộ phận Một cửa, qua dịch vụ bưu chính hoặc theo phương thức trực tuyến; việc thu hồi và cấp đổi được thực hiện ngay sau khi nhận được đề nghị.
 
-3. Cơ quan cấp Apostille thực hiện việc hủy bỏ hoặc thu hồi và cấp đổi chứng nhận Apostille theo quy định tại khoản 1 hoặc khoản 2 Điều này. Chậm nhất trong ngày làm việc tiếp theo kể từ ngày có quyết định hủy bỏ hoặc thu hồi và cấp đổi, Cơ quan cấp Apostille cập nhật tình trạng hiệu lực của chứng nhận Apostille trong Kho dữ liệu theo quy định tại Điều 21 Nghị định này, đăng tải công khai trên Sổ đăng ký điện tử của Việt Nam và thông báo cho người đã được cấp chứng nhận Apostille về việc hủy bỏ hoặc thu hồi và cấp đổi bằng phương thức phù hợp. Đối với chứng nhận Apostille điện tử, việc hủy hiệu lực kết quả giải quyết thủ tục hành chính điện tử được thực hiện theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử. Trường hợp có căn cứ xác định chứng nhận Apostille đã được sử dụng hoặc đang trong quá trình xác minh tại một Quốc gia thành viên Công ước, Bộ Ngoại giao thông báo việc hủy bỏ hoặc thu hồi và cấp đổi cho cơ quan có thẩm quyền của Quốc gia thành viên đó bằng văn bản hoặc phương thức điện tử; trường hợp cần thiết, việc thông báo được thực hiện qua kênh ngoại giao.
+3. Cơ quan cấp Apostille thực hiện việc hủy bỏ hoặc thu hồi và cấp đổi chứng nhận Apostille theo quy định tại khoản 1 hoặc khoản 2 Điều này. Chậm nhất trong ngày 1àm việc tiếp theo kể từ ngày có quyết định hủy bỏ hoặc thu hồi và cấp đổi, Cơ quan cấp Apostille cập nhật tình trạng hiệu lực của chứng nhận Apostille trong Kho dữ liệu theo quy định tại Điều 21 Nghị định này, đăng tải công khai trên Sổ đăng ký điện tử của Việt Nam và thông báo cho người đã được cấp chứng nhận Apostille về việc hủy bỏ hoặc thu hồi và cấp đổi bằng phương thức phù hợp. Đối với chứng nhận Apostille điện tử, việc hủy hiệu lực kết quả giải quyết thủ tục hành chính điện tử được thực hiện theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử. Trường hợp có căn cứ xác định chứng nhận Apostille đã được sử dụng hoặc đang trong quá trình xác minh tại một Quốc gia thành viên Công ước, Bộ Ngoại giao thông báo việc hủy bỏ hoặc thu hồi và cấp đổi cho cơ quan có thẩm quyền của Quốc gia thành viên đó bằng văn bản hoặc phương thức điện tử; trường hợp cần thiết, việc thông báo được thực hiện qua kênh ngoại giao.
 
-Trên cơ sở hoạt động kiểm tra hoặc quản lý nhà nước về chứng nhận Apostille, trường hợp Cơ quan cấp Apostille chưa thực hiện việc hủy bỏ hoặc thu hồi và cấp đổi theo quy định tại khoản 1 hoặc khoản 2 Điều này, Bộ trưởng Bộ Ngoại giao ban hành văn bản yêu cầu Cơ quan cấp Apostille thực hiện trong thời hạn 05 ngày làm việc kể từ ngày nhận được yêu cầu. Trường hợp quá thời hạn nêu trên mà Cơ quan cấp Apostille không thực hiện, Bộ trưởng Bộ Ngoại giao trực tiếp quyết định hủy bỏ hoặc thu hồi và cấp đổi và chịu trách nhiệm về quyết định của mình.
+Trên cơ sở hoạt động kiểm tra hoặc quản lý nhà nước về chứng nhận Apostille, trường hợp Cơ quan cấp Apostille chưa thực hiện việc hủy bỏ hoặc thu hồi và cấp đổi theo quy định tại khoản 1 hoặc khoản 2 Điều này, Bộ trưởng Bộ Ngoại giao ban hành văn bản yêu cầu Cơ quan cấp Apostille thực hiện trong thời hạn 05 ngày 1àm việc kể từ ngày nhận được yêu cầu. Trường hợp quá thời hạn nêu trên mà Cơ quan cấp Apostille không thực hiện, Bộ trưởng Bộ Ngoại giao trực tiếp quyết định hủy bỏ hoặc thu hồi và cấp đổi và chịu trách nhiệm về quyết định của mình.
 
 4. Việc hủy bỏ hoặc thu hồi và cấp đổi chứng nhận Apostille không làm ảnh hưởng đến việc xử lý hệ quả đối với giao dịch đã được xác lập tại quốc gia tiếp nhận giấy tờ theo pháp luật của quốc gia đó. Tại Việt Nam, quyền và lợi ích hợp pháp của người thứ ba ngay tình được bảo vệ theo quy định của pháp luật dân sự.
 
@@ -414,7 +414,7 @@ e) Số quản lý của chứng nhận Apostille.
 
 3. Yêu cầu xác minh và kết quả xác minh được gửi, nhận trực tiếp giữa các cơ quan có thẩm quyền bằng văn bản hoặc phương thức điện tử; trường hợp cần thiết, có thể thực hiện qua kênh ngoại giao.
 
-4. Thời hạn trả lời yêu cầu xác minh là 05 ngày làm việc kể từ ngày nhận được yêu cầu xác minh; trường hợp cần xác minh bổ sung hoặc có yếu tố phức tạp, thời hạn này là không quá 10 ngày làm việc.
+4. Thời hạn trả lời yêu cầu xác minh là 05 ngày 1àm việc kể từ ngày nhận được yêu cầu xác minh; trường hợp cần xác minh bổ sung hoặc có yếu tố phức tạp, thời hạn này là không quá 10 ngày 1àm việc.
 
 5. Cơ quan cấp Apostille thông báo kết quả xác minh đã thực hiện cho Bộ Ngoại giao để theo dõi, tổng hợp phục vụ công tác quản lý nhà nước về thực thi Công ước Apostille.
 
