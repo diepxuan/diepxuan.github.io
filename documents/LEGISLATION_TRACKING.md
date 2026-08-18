@@ -1,3 +1,39 @@
+### Cập nhật 2026-08-18 v114 (Đệ #1 Discovery & Tracking — 2026-08-18 11:10 ICT)
+
+### Kết quả discovery: 3 văn bản mới (3 TT)
+
+**Phương pháp**: Quét `sitemap_thongtu.xml` từ luatvietnam.vn lúc **11:10 ICT 18/8**. So với ref v113 (05:15 ICT 18/8).
+
+**Phạm vi quét**: Toàn bộ sitemap Thông tư (loại trừ draft -d10).
+
+### MD5 comparison
+
+| Sitemap | v114 (11:10 ICT 18/8) | v113 (05:15 ICT 18/8) |
+|---|---|---|
+| Thông tư | `9fb9dfb92bacb25fde10e8c4ef70fb8d` | `2332206f30d05e05c22372f3478dbd7c` |
+
+### Max d1 slug
+
+- TT: **444329** (115/TT-BQP, tăng từ 444098 ở v113)
+
+### 3 VB mới phát hiện (chưa có trong tracking, chưa có file van-ban/)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| 1 | **115/2026/TT-BQP** | An ninh quốc gia (Bộ Quốc phòng) | 444329-d1 | 06/08/2026 | — | **Chưa có** |
+| 2 | **64/2026/TT-BXD** | Xây dựng/Thi đua (Bộ Xây dựng) | 444189-d1 | 11/08/2026 | 01/10/2026 | **Chưa có** |
+| 3 | **65/2026/TT-BXD** | Xây dựng/Hàng hải (Bộ Xây dựng) | 444187-d1 | 14/08/2026 | 01/10/2026 | **Chưa có** |
+
+### Chi tiết 3 VB mới
+
+1. **115/2026/TT-BQP** — Quy định bảo vệ bí mật Nhà nước trong Bộ Quốc phòng. Ban hành 06/08/2026 bởi Nguyễn Văn Hiền (Bộ Quốc phòng). Lĩnh vực: An ninh quốc gia. URL: `https://luatvietnam.vn/an-ninh-quoc-gia/thong-tu-115-2026-tt-bqp-quy-dinh-bao-ve-bi-mat-nha-nuoc-trong-bo-quoc-phong-444329-d1.html`
+
+2. **64/2026/TT-BXD** — Quy định về công tác thi đua, khen thưởng của Bộ Xây dựng. Ban hành 11/08/2026, hiệu lực 01/10/2026. Căn cứ Luật Thi đua khen thưởng 06/2022/QH15, Luật sửa đổi 06/2026/QH16, NĐ 33/2025/NĐ-CP. Quy định chi tiết: Khối/Cụm thi đua, danh hiệu "Lao động tiên tiến", Cờ thi đua, "Tập thể lao động xuất sắc/tiên tiến", Bằng khen, Giấy khen, Kỷ niệm chương "Vì sự nghiệp phát triển ngành Xây dựng và Giao thông vận tải Việt Nam". URL: `https://luatvietnam.vn/thi-dua/thong-tu-64-2026-tt-bxd-quy-dinh-thi-dua-khen-thuong-bo-xay-dung-co-hieu-luc-01-10-2026-444189-d1.html`
+
+3. **65/2026/TT-BXD** — Ban hành Định mức kinh tế - kỹ thuật khảo sát đo sâu trong lĩnh vực hàng hải sử dụng nguồn vốn ngân sách Nhà nước. Ban hành 14/08/2026, hiệu lực 01/10/2026. Căn cứ NĐ 33/2025/NĐ-CP, NĐ 32/2019/NĐ-CP, NĐ 206/2026/NĐ-CP. Thay thế TT 18/2017/TT-BGTVT. Chứa 2 Phần, 7 Chương, 3 Phụ lục: quy trình định vị điểm, khảo sát lập bình đồ độ sâu (đơn tia/đa tia DGPS/RTK), thành lập hải đồ giấy/điện tử vùng nước cảng biển và luồng hàng hải. URL: `https://luatvietnam.vn/tai-chinh/thong-tu-65-2026-tt-bxd-dinh-muc-kinh-te-ky-thuat-khao-sat-do-sau-hang-hai-444187-d1.html`
+
+---
+
 ### Cập nhật 2026-08-18 v113 (Đệ #1 Discovery & Tracking — 2026-08-18 05:15 ICT)
 
 ### Kết quả discovery: 2 văn bản mới (2 TT)
