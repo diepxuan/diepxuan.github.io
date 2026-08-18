@@ -20,7 +20,7 @@
 
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
-| 1 | **115/2026/TT-BQP** | An ninh quốc gia (Bộ Quốc phòng) | 444329-d1 | 06/08/2026 | — | **Chưa có** |
+| 1 | **115/2026/TT-BQP** | An ninh quốc gia (Bộ Quốc phòng) | 444329-d1 | 06/08/2026 | — | **Chưa hoàn thiện** |
 | 2 | **64/2026/TT-BXD** | Xây dựng/Thi đua (Bộ Xây dựng) | 444189-d1 | 11/08/2026 | 01/10/2026 | **Chưa có** |
 | 3 | **65/2026/TT-BXD** | Xây dựng/Hàng hải (Bộ Xây dựng) | 444187-d1 | 14/08/2026 | 01/10/2026 | **Chưa có** |
 
