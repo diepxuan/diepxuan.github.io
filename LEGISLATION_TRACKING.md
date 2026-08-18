@@ -1,9 +1,9 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-08-18T08:45 GMT+7
+> Phiên bản: 2026-08-18T19:15 GMT+7
 > Nguồn quét: luatvietnam.vn (Sitemap)
-> **Ghi chú lần quét này**: Phát hiện thêm 5 văn bản mới (Thông tư 115/2026/TT-BQP, 64/2026/TT-BXD, 65/2026/TT-BXD, 38/2026/TT-NHNN, 116/2026/TT-BTC). Các Nghị định mới nhất (320, 318, 314, 317, 311) đã có trong tracking từ 16/08.
+> **Ghi chú lần quét này**: Phát hiện thêm 5 văn bản mới (Nghị định 322/2026/NĐ-CP, 319/2026/NĐ-CP, 323/2026/NĐ-CP, Thông tư 18/2026/TT-BNV, 04/2026/TT-BDTTG).
 
 ---
 
@@ -18,6 +18,30 @@
 
 ## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-08-18
 
+### 1. Nghị định 322/2026/NĐ-CP — Sửa đổi Nghị định 86/2021 về học tập và nghiên cứu nước ngoài
+- **Slug**: 444451
+- **Trạng thái**: Chưa có
+
+### 2. Nghị định 319/2026/NĐ-CP — Quy định thiết bị giám sát hành trình và ghi nhận hình ảnh trên phương tiện giao thông
+- **Slug**: 444445
+- **Trạng thái**: Chưa có
+
+### 3. Nghị định 323/2026/NĐ-CP — Quy định chi tiết và hướng dẫn thi hành Nghị quyết 20/2026/QH16
+- **Slug**: 444444
+- **Trạng thái**: Chưa có
+
+### 4. Thông tư 18/2026/TT-BNV — Quy định tặng kỷ niệm chương ngành Nội vụ hiệu lực 2026
+- **Slug**: 443954
+- **Trạng thái**: Chưa có
+
+### 5. Thông tư 04/2026/TT-BDTTG — Hướng dẫn quản lý phát triển vùng dân tộc thiểu số 2026-2030
+- **Slug**: 443881
+- **Trạng thái**: Chưa có
+
+---
+
+## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-08-18 (Lưu trữ)
+
 ### 1. Thông tư 115/2026/TT-BQP — Quy định bảo vệ bí mật nhà nước trong Bộ Quốc phòng
 - **Slug**: 444329
 - **Trạng thái**: Hoàn thiện (Tóm tắt/Trích đoạn)
@@ -28,7 +52,7 @@
 
 ### 3. Thông tư 65/2026/TT-BXD — Định mức kinh tế kỹ thuật khảo sát độ sâu hàng hải
 - **Slug**: 444187
-- **Trạng thái**: Chưa có
+- **Trạng thái**: Hoàn thiện
 
 ### 4. Thông tư 38/2026/TT-NHNN — Quản lý ngoại hối cho đầu tư nước ngoài tại Việt Nam
 - **Slug**: 444098
