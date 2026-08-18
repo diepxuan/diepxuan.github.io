@@ -19,6 +19,22 @@
 
 ---
 
+## Cập nhật 2026-08-18 v113.1 (Đệ #3 Full Content Crawler — 2026-08-18 07:37 ICT)
+
+### Hoàn thiện văn bản 286/2026/NĐ-CP (cơ chế phối hợp quản lý nhập xuất cảnh người nước ngoài)
+
+**File**: `van-ban/chinh-phu/nghi-dinh-286-2026-nd-cp-co-che-phoi-hop-quan-ly-nhap-xuat-canh-nguoi-nuoc-ngoai.md`
+
+**Thành quả**:
+- Lấy metadata đầy đủ từ luatvietnam.vn (số hiệu 286/2026/NĐ-CP, ngày ban hành 17/07/2026, người ký Phạm Gia Túc, ngày hiệu lực 14/09/2026, trích yếu, căn cứ pháp luật đầy đủ).
+- Nội dung toàn văn 15 Điều, 3 Chương đã được merge đầy đủ từ nguồn OCR.
+- Chạy OCR Quality Gate (theo `documents/OCR_QUALITY_GATE.md`): **OCR issues = 0**, **Missing Điều = []**, **Duplicate Điều = []**, **Chương đúng thứ tự I, II, III**.
+- Commit: `heartbeat/crawl-vanban-20260807` branch.
+
+**Cập nhật trạng thái tracking**: 286/NĐ-CP chuyển từ **"Chưa hoàn thiện"** sang **"Hoàn thiện"**.
+
+---
+
 ## Cập nhật 2026-08-16 v112 (Đệ #1 Discovery & Tracking — 2026-08-16 09:36 ICT)
 
 ### Kết quả discovery: 4 văn bản mới (2 NĐ + 2 TT)
