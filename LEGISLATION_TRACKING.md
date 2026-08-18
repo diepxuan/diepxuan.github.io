@@ -20,7 +20,7 @@
 
 ### 1. Thông tư 115/2026/TT-BQP — Quy định bảo vệ bí mật nhà nước trong Bộ Quốc phòng
 - **Slug**: 444329
-- **Trạng thái**: Chưa có
+- **Trạng thái**: Hoàn thiện (Tóm tắt/Trích đoạn)
 
 ### 2. Thông tư 64/2026/TT-BXD — Quy định thi đua khen thưởng Bộ Xây dựng
 - **Slug**: 444189
