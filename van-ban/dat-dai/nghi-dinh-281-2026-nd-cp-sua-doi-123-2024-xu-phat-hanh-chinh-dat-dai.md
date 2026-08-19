@@ -2,7 +2,7 @@
 layout: vanban
 title: "Nghị định 281/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 123/2024/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực đất đai"
 date: 2026-07-13
-modified: 2026-08-13
+modified: 2026-08-19
 group: dat-dai
 tags:
   - Xử phạt vi phạm hành chính
@@ -20,6 +20,7 @@ source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 - **Ngày ban hành:** 13/07/2026
 - **Ngày hiệu lực:** 31/08/2026
 - **Cơ quan ban hành:** Chính phủ
+- **Người ký:** Phạm Gia Túc
 - **Trạng thái:** Có hiệu lực
 
 ## VĂN BẢN
