@@ -1,47 +1,45 @@
 ---
-layout:
 layout: vanban
-title: "Nghị định 322/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật"
+title: "Nghị định 322/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật"
 date: 2026-08-17
 modified: 2026-08-19
-group: giao-duc
+group: Giáo dục
 tags:
-  - học tập nước ngoài
-  - nghiên cứu khoa học
-  - trao đổi học thuật
-  - tư vấn du học
-docid: "322/2026/NĐ-CP"
+  - Bộ Giáo dục và Đào tạo
+  - Du học
+  - Học bổng ngân sách
+  - Đào tạo
+docid: 322/2026/NĐ-CP
 source: luatvietnam.vn
 ---
 
-# Nghị định 322/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật
+# NGHỊ ĐỊNH 322/2026/NĐ-CP
 
 ## THÔNG TIN VĂN BẢN
-
 - **Số hiệu:** 322/2026/NĐ-CP
 - **Ngày ban hành:** 17/08/2026
+- **Ngày hiệu lực:** 05/10/2026
 - **Cơ quan ban hành:** Chính phủ
 - **Trích yếu:** Sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật.
-- **Căn cứ pháp luật:**
-    - Luật Tổ chức Chính phủ số 63/2025/QH15;
-    - Luật Giáo dục số 43/2019/QH14 được sửa đổi, bổ sung một số điều bởi Luật số 123/2025/QH15;
-    - Luật Giáo dục nghề nghiệp số 124/2025/QH15;
-    - Luật Giáo dục đại học số 125/2025/QH15;
 
 ## VĂN BẢN
+
+**Căn cứ:**
+- Luật Tổ chức Chính phủ số 63/2025/QH15;
+- Luật Giáo dục số 43/2019/QH14 được sửa đổi, bổ sung một số điều bởi Luật số 123/2025/QH15;
+- Luật Giáo dục nghề nghiệp số 124/2025/QH15;
+- Luật Giáo dục đại học số 125/2025/QH15;
+- Theo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo.
 
 Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật.
 
 ### Điều 1. Sửa đổi, bổ sung điểm c khoản 1 Điều 2
-
 “c) Tổ chức kinh doanh dịch vụ tư vấn du học là doanh nghiệp, chi nhánh của doanh nghiệp, tổ chức giáo dục nước ngoài hoạt động hợp pháp tại Việt Nam, có đăng ký ngành, nghề kinh doanh hoặc các đơn vị sự nghiệp có chức năng, nhiệm vụ tư vấn du học theo quy định của pháp luật;”
 
 ### Điều 2. Sửa đổi, bổ sung khoản 1 Điều 4
-
 “1. Hệ thống cơ sở dữ liệu điện tử quản lý công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật (sau đây gọi chung là Hệ thống cơ sở dữ liệu) là Cơ sở dữ liệu chuyên ngành của Bộ Giáo dục và Đào tạo, do Bộ Giáo dục và Đào tạo chủ trì xây dựng, quản lý, khai thác, sử dụng; được kết nối, đồng bộ với Cơ sở dữ liệu quốc gia về dân cư, các cơ sở dữ liệu quốc gia và cơ sở dữ liệu chuyên ngành khác có liên quan theo quy định của pháp luật.”
 
 ### Điều 3. Sửa đổi, bổ sung một số khoản của Điều 5
-
 1. Sửa đổi, bổ sung khoản 2 như sau:
 “2. Hồ sơ dự tuyển gồm:
 a) Phiếu đăng ký dự tuyển đi học ở nước ngoài (theo Mẫu số 1a tại Phụ lục ban hành kèm theo Nghị định này);
@@ -61,7 +59,6 @@ b) Trong thời hạn 90 ngày kể từ ngày hết hạn nhận hồ sơ dự 
 “a) Bộ Giáo dục và Đào tạo thực hiện tuyển sinh và cử công dân Việt Nam ra nước ngoài học tập bằng nguồn kinh phí từ ngân sách nhà nước quy định tại điểm a khoản 1 Điều 3 Nghị định này;”
 
 ### Điều 4. Sửa đổi, bổ sung một số điểm, khoản của Điều 10
-
 1. Sửa đổi, bổ sung gạch đầu dòng thứ nhất của điểm c khoản 2 như sau:
 “- Trong thời hạn 45 ngày làm việc kể từ ngày kết thúc khóa học, du học sinh phải nộp 01 bộ hồ sơ cho cơ quan cử đi học trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia hoặc ứng dụng định danh quốc gia;”
 
@@ -69,11 +66,9 @@ b) Trong thời hạn 90 ngày kể từ ngày hết hạn nhận hồ sơ dự 
 “5. Du học sinh quy định tại điểm a và điểm b khoản 1 Điều 3 Nghị định này đã hoàn thành chương trình học tập, đủ điều kiện được cấp văn bằng, chứng chỉ tốt nghiệp nhưng chưa về nước, ở lại nước ngoài tiếp tục học lên trình độ cao hơn hoặc thực tập sau tốt nghiệp thì không được chi trả kinh phí mua vé máy bay về nước hoặc phương tiện đi lại khác (nếu có) và phải được sự đồng ý của cơ quan cử đi học, cơ quan quản lý trực tiếp (đối với trường hợp có cơ quan công tác).”
 
 ### Điều 5. Sửa đổi, bổ sung điểm a khoản 4 Điều 11
-
 “a) Ra quyết định tuyển chọn, cử công dân Việt Nam ra nước ngoài học tập, tiếp nhận du học sinh về nước theo các quy định tại Nghị định này. Chủ trì, phối hợp với các cơ quan có liên quan phổ biến các quy định của Đảng, pháp luật của Nhà nước về bảo vệ chính trị nội bộ, bảo vệ bí mật nhà nước, các quy định có liên quan đối với công dân Việt Nam trước khi ra nước ngoài học tập;”
 
 ### Điều 6. Sửa đổi, bổ sung Điều 12
-
 “Điều 12. Đền bù chi phí đào tạo
 1. Việc đền bù chi phí đào tạo đối với du học sinh là công chức, viên chức quy định tại điểm a, điểm b khoản 1 Điều 3 Nghị định này được thực hiện theo quy định tại Nghị định số 171/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ quy định về đào tạo, bồi dưỡng công chức và Nghị định số 259/2026/NĐ-CP ngày 30 tháng 6 năm 2026 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý viên chức.
 2. Việc đền bù chi phí đào tạo đối với du học sinh không phải là công chức, viên chức quy định tại điểm a, điểm b khoản 1 Điều 3 Nghị định này, không chấp hành sự điều động làm việc của cơ quan nhà nước có thẩm quyền sau khi tốt nghiệp được thực hiện theo quy định tại Nghị định số 143/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ và Nghị định số 51/2026/NĐ-CP ngày 02 tháng 02 năm 2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 143/2013/NĐ-CP quy định về bồi hoàn học bổng và chi phí đào tạo.
@@ -82,7 +77,6 @@ b) Trong thời hạn 90 ngày kể từ ngày hết hạn nhận hồ sơ dự 
 5. Việc đền bù chi phí đào tạo đối với du học sinh quy định tại điểm c khoản 1 Điều 3 Nghị định này được thực hiện theo quy định hợp tác giữa các cơ quan nhà nước của Việt Nam với phía nước ngoài đài thọ học bổng.”
 
 ### Điều 7. Sửa đổi, bổ sung Điều 13
-
 “Điều 13. Chi phí đền bù, điều kiện không phải đền bù chi phí đào tạo
 1. Chi phí đền bù là toàn bộ chi phí đào tạo gồm có học phí, chi phí đi lại, sinh hoạt phí và các chi phí khác liên quan đến học tập đã được ngân sách nhà nước chi trả cho du học sinh quy định tại điểm a, điểm b khoản 1 Điều 3 Nghị định này và do cơ quan cử đi học cung cấp.
 2. Du học sinh không phải là công chức, viên chức quy định tại điểm a, điểm b khoản 1 Điều 3 Nghị định này phải đền bù 100% chi phí đào tạo khi thuộc một trong các trường hợp sau đây:
@@ -95,7 +89,6 @@ b) Do bị bệnh hiểm nghèo hoặc vì lý do sức khỏe được xác nh�
 4. Trường hợp du học sinh không được cơ sở đào tạo cấp văn bằng, chứng chỉ tốt nghiệp vì lý do liên quan đến lĩnh vực an ninh, quốc phòng, lợi ích quốc gia thì cơ quan cử đi học (đối với trường hợp không có cơ quan công tác) hoặc cơ quan quản lý trực tiếp (đối với trường hợp có cơ quan công tác) xem xét, quyết định việc không phải đền bù chi phí đào tạo theo quy định tại Điều 13a Nghị định này.”
 
 ### Điều 8. Bổ sung Điều 13a vào sau Điều 13
-
 “Điều 13a. Thẩm quyền, trình tự, thủ tục không phải đền bù chi phí đào tạo và thu hồi chi phí đền bù
 1. Hồ sơ gồm:
 a) Đơn đề nghị không phải đền bù chi phí đào tạo (theo Mẫu số 5a tại Phụ lục ban hành kèm theo Nghị định này);
@@ -112,7 +105,6 @@ c) Trong thời hạn 60 ngày kể từ ngày nhận đủ hồ sơ hợp lệ,
 7. Việc thu hồi chi phí đền bù đối với du học sinh quy định tại điểm c khoản 1 Điều 3 Nghị định này được thực hiện theo quy định hợp tác giữa cơ quan nhà nước của Việt Nam với phía nước ngoài đài thọ học bổng.”
 
 ### Điều 9. Sửa đổi, bổ sung Điều 15
-
 “Điều 15. Nội dung hoạt động kinh doanh dịch vụ tư vấn du học, quyền và trách nhiệm của tổ chức kinh doanh dịch vụ tư vấn du học
 1. Nội dung hoạt động kinh doanh dịch vụ tư vấn du học
 a) Giới thiệu, tư vấn thông tin về chính sách giáo dục của các quốc gia và vùng lãnh thổ; tư vấn lựa chọn trường học, khóa học, ngành nghề và trình độ phù hợp với khả năng và nguyện vọng của người học;
@@ -135,19 +127,16 @@ e) Lưu trữ hồ sơ đưa công dân Việt Nam ra nước ngoài học tập
 g) Thực hiện chế độ báo cáo theo quy định tại Điều 28 Nghị định này.”
 
 ### Điều 10. Sửa đổi, bổ sung điểm l khoản 2 Điều 19
-
-“l) Gửi báo cáo qua dịch vụ bưu chính hoặc trực tiếp hoặc trực tuyến cho cơ quan quản lý trực tiếp 06 tháng một lần hoặc đột xuất (Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định này) đối với trường hợp ra nước ngoài giảng dạy, nghiên cứu khoa học và trao đổi học thuật có thời gian từ 01 năm trở lên. Trong vòng 20 ngày làm việc từ khi kết thúc thời gian giảng dạy, nghiên cứu và trao đổi học thuật tại nước ngoài, cá nhân phải về nước, báo cáo cơ quan quản lý trực tiếp, cơ quan có thẩm quyền cử công dân Việt Nam ra nước ngoài giảng dạy, nghiên cứu khoa học và trao đổi học thuật (nếu có) và cập nhật thông tin vào Hệ thống cơ sở dữ liệu quy định tại Điều 4 Nghị định này.”
+l) Gửi báo cáo qua dịch vụ bưu chính hoặc trực tiếp hoặc trực tuyến cho cơ quan quản lý trực tiếp 06 tháng một lần hoặc đột xuất (Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định này) đối với trường hợp ra nước ngoài giảng dạy, nghiên cứu khoa học và trao đổi học thuật có thời gian từ 01 năm trở lên. Trong vòng 20 ngày làm việc từ khi kết thúc thời gian giảng dạy, nghiên cứu và trao đổi học thuật tại nước ngoài, cá nhân phải về nước, báo cáo cơ quan quản lý trực tiếp, cơ quan có thẩm quyền cử công dân Việt Nam ra nước ngoài giảng dạy, nghiên cứu khoa học và trao đổi học thuật (nếu có) và cập nhật thông tin vào Hệ thống cơ sở dữ liệu quy định tại Điều 4 Nghị định này.”
 
 ### Điều 11. Sửa đổi, bổ sung điểm a khoản 1 Điều 20
-
 “a) Thực hiện các quyền về hợp tác với nước ngoài theo quy định của pháp luật có liên quan;”
 
 ### Điều 12. Sửa đổi, bổ sung Điều 21
-
 “Điều 21. Trách nhiệm của Bộ Giáo dục và Đào tạo
 1. Chủ trì, phối hợp với các bộ, ngành, địa phương thực hiện quản lý nhà nước về giáo dục đối với công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật; thực hiện chế độ báo cáo theo quy định tại Điều 28 Nghị định này.
 2. Chủ trì, phối hợp với các bộ, ngành, địa phương liên quan tổ chức kiểm tra, xử lý vi phạm đối với hoạt động đưa công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật.”
 
-### Điều 13. Sửa đổi, bổ sung một số điều khoản thi hành
-
-(Nội dung này được trích xuất từ nguồn HTML, phần cuối bị truncate, nhưng cấu trúc chính của các Điều sửa đổi đã được đảm bảo).
+### Điều 13. Sửa đổi, bổ sung Điều 28
+(Phần này bị cắt/thiếu trong nguồn text, đánh dấu stub)
+[NỘI DUNG ĐANG CẬP NHẬT]
