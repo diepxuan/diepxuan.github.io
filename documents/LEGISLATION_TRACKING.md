@@ -1,3 +1,20 @@
+### Cập nhật 2026-08-19 v116 (Đệ #3 Full Crawler — 2026-08-19 09:45 ICT)
+
+### Hoàn thiện văn bản 323/2026/NĐ-CP (Quy định chi tiết và hướng dẫn thi hành Nghị quyết 20/2026/QH16)
+
+**File**: `van-ban/323-2026-nd-cp.md`
+
+**Thành quả**:
+- Lấy metadata đầy đủ từ luatvietnam.vn (số hiệu 323/2026/NĐ-CP, ngày ban hành 17/08/2026, ngày ký số 18/08/2026 15:20:27, ngày hiệu lực 17/08/2026, trích yếu, căn cứ pháp luật đầy đủ).
+- PDF có chữ ký số (Cục Thông tin và Truyền thông Chính phủ) — áp dụng OCR Pipeline: pdftoppm -> tesseract (vie) trên 21 trang.
+- Nội dung toàn văn 29 Điều, 5 Chương đã được merge đầy đủ từ nguồn OCR.
+- Chạy OCR Quality Gate (theo `documents/OCR_QUALITY_GATE.md`): **OCR issues = 0**, **Missing Điều = []**, **Duplicate Điều = []**, **Chương đúng thứ tự I, II, III, IV, V**.
+- Commit: `heartbeat/crawl-vanban-20260807` branch.
+
+**Cập nhật trạng thái tracking**: 323/2026/NĐ-CP chuyển từ **"Chưa có"** sang **"Hoàn thiện"**.
+
+---
+
 ### Cập nhật 2026-08-18 v115 (Đệ #1 Discovery & Tracking — 2026-08-18 23:30 ICT)
 
 ### Kết quả discovery: 3 văn bản mới (3 NĐ)
@@ -22,7 +39,7 @@
 |---|---|---|---|---|---|---|
 | 1 | **322/2026/NĐ-CP** | Giáo dục (Bộ GD&ĐT) | 444451-d1 | 18/08/2026 | — | **Chưa có** |
 | 2 | **319/2026/NĐ-CP** | Giao thông (Bộ GTVT) | 444445-d1 | 18/08/2026 | — | **Hoàn thiện** |
-| 3 | **323/2026/NĐ-CP** | Đầu tư (Chính phủ) | 444444-d1 | 18/08/2026 | — | **Chưa có** |
+| 3 | **323/2026/NĐ-CP** | Đầu tư (Chính phủ) | 444444-d1 | 18/08/2026 | — | **Hoàn thiện** |
 
 ### Chi tiết 3 VB mới
 
