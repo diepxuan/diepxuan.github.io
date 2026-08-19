@@ -7,8 +7,9 @@ group: giao-duc
 tags:
   - giáo dục
   - du học
+  - đào tạo
   - nghiên cứu khoa học
-docid: "322/2026/NĐ-CP"
+docid: 322/2026/NĐ-CP
 source: luatvietnam.vn
 ---
 
@@ -18,6 +19,7 @@ source: luatvietnam.vn
 
 - **Số hiệu:** 322/2026/NĐ-CP
 - **Ngày ban hành:** 17/08/2026
+- **Ngày hiệu lực:** 05/10/2026
 - **Cơ quan ban hành:** Chính phủ
 - **Trích yếu:** Sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật.
 - **Căn cứ pháp luật:** Theo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo.
@@ -69,6 +71,7 @@ b) Trong thời hạn 90 ngày kể từ ngày hết hạn nhận hồ sơ dự 
 ### Điều 4. Sửa đổi, bổ sung một số điểm, khoản của Điều 10
 
 1. Sửa đổi, bổ sung gạch đầu dòng thứ nhất của điểm c khoản 2 như sau:
+
 “- Trong thời hạn 45 ngày làm việc kể từ ngày kết thúc khóa học, du học sinh phải nộp 01 bộ hồ sơ cho cơ quan cử đi học trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia hoặc ứng dụng định danh quốc gia;”
 
 2. Bổ sung khoản 5 Điều 10 như sau:
@@ -188,4 +191,4 @@ g) Thực hiện chế độ báo cáo theo quy định tại Điều 28 Nghị 
 
 ### Điều 10. Sửa đổi, bổ sung điểm l khoản 2 Điều 19
 
-“l) Gửi báo cáo qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia hoặc ứng dụng định danh quốc gia;”
+(Nội dung bị cắt từ nguồn crawl - Cần bổ sung khi có văn bản đầy đủ)
