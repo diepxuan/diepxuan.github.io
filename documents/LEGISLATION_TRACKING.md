@@ -1,3 +1,23 @@
+### Cập nhật 2026-08-19 v117 (Đệ #3 Full Content Crawler — 2026-08-19 11:01 ICT)
+
+### Hoàn thiện văn bản 105/2026/TT-BTC (Bãi bỏ Thông tư 87/2019/TT-BTC xử phạt VPHC kho bạc NN)
+
+**File**: `van-ban/tai-chinh/thong-tu-105-2026-tt-btc.md`
+
+**Thành quả**:
+- Lấy metadata đầy đủ từ luatvietnam.vn (số hiệu 105/2026/TT-BTC, ngày ban hành 22/07/2026, người ký Tạ Anh Tuấn - Thứ trưởng KT. Bộ trưởng, ngày hiệu lực 05/09/2026, trích yếu, căn cứ pháp luật đầy đủ 6 căn cứ).
+- Nội dung văn bản bãi bỏ hoàn chỉnh 3 Điều:
+  - Điều 1: Bãi bỏ toàn bộ Thông tư 87/2019/TT-BTC
+  - Điều 2: Điều khoản thi hành (hiệu lực 05/09/2026, đối tượng thi hành)
+  - Điều 3: Điều khoản chuyển tiếp (áp dụng NĐ 63/2019/NĐ-CP cho vi phạm trước 09/02/2026)
+- Nơi nhận đầy đủ, ký tên: KT. BỘ TRƯỞNG THỨ TRƯỞNG Tạ Anh Tuấn
+- Chạy OCR Quality Gate (theo `documents/OCR_QUALITY_GATE.md`): **OCR issues = 0**, **Missing Điều = []**, **Duplicate Điều = []**.
+- Commit: `heartbeat/crawl-vanban-20260807` branch.
+
+**Cập nhật trạng thái tracking**: 105/2026/TT-BTC chuyển từ **"Chưa hoàn thiện (STUB)"** sang **"Hoàn thiện".**
+
+---
+
 ### Cập nhật 2026-08-19 v116 (Đệ #3 Full Crawler — 2026-08-19 09:45 ICT)
 
 ### Hoàn thiện văn bản 323/2026/NĐ-CP (Quy định chi tiết và hướng dẫn thi hành Nghị quyết 20/2026/QH16)
