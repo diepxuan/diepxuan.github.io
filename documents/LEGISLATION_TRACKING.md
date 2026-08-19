@@ -1,4 +1,33 @@
-### Cập nhật 2026-08-19 v117 (Đệ #3 Full Content Crawler — 2026-08-19 11:01 ICT)
+### Cập nhật 2026-08-19 v118 (Đệ #1 Discovery & Tracking — 2026-08-19 12:02 ICT)
+
+### Kết quả discovery: 1 văn bản mới (1 TT)
+
+**Phương pháp**: Quét `sitemap_nghidinh.xml` và `sitemap_thongtu.xml` từ luatvietnam.vn lúc **12:02 ICT 19/8**. So với ref v117/v116/v115.
+
+### MD5 comparison
+
+| Sitemap | v118 (12:02 ICT 19/8) | v115 (23:30 ICT 18/8) |
+|---|---|---|
+| Nghị định | `c4b880662d5f644201e486e40e1fd465` | `7a2f8c9e4b1d6e5a3c8f9b2d1e4f7a6b` |
+| Thông tư | `3b8f888e55c9c453967e98bbc7aa35e7` | — (No MD5 in v115) |
+
+### Max d1 slug
+
+- NĐ: **444451** (không đổi từ v115)
+- TT: **444351** (tăng từ 444329 ở v115)
+
+### 1 VB mới phát hiện (chưa có trong tracking)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| 1 | **117/2026/TT-BTC** | Tài chính (Bộ Tài chính) | 444351-d1 | — | — | **Chưa có** |
+
+### Chi tiết 1 VB mới
+
+1. **117/2026/TT-BTC** — Miễn giảm phí, lệ phí theo Nghị quyết 66/22/2026/NQ-CP. URL: `https://luatvietnam.vn/tai-chinh/thong-tu-117-2026-tt-btc-mien-giam-phi-le-phi-theo-nghi-quyet-66-22-2026-nq-cp-444351-d1.html`
+
+---
+
 
 ### Hoàn thiện văn bản 105/2026/TT-BTC (Bãi bỏ Thông tư 87/2019/TT-BTC xử phạt VPHC kho bạc NN)
 
