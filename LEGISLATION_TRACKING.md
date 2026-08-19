@@ -38,6 +38,10 @@
 - **Slug**: 443881
 - **Trạng thái**: Chưa có
 
+### 6. Thông tư 10/2026/TT-BTP — Hướng dẫn việc hỗ trợ, tài trợ và quản lý, sử dụng kinh phí hỗ trợ, tài trợ của Quỹ hỗ trợ xây dựng chính sách, pháp luật
+- **Slug**: 444428
+- **Trạng thái**: Hoàn thiện
+
 ---
 
 ## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-08-18 (Lưu trữ)
@@ -118,6 +122,7 @@
 | 312/2026/NĐ-CP | Nghị định về kết hợp an ninh với kinh tế - xã hội... | Hoàn thiện | 2026-08-16 | Pass Quality Gate |
 | 136/2026/TT-BCA | Thông tư quy định danh mục sản phẩm khai thác CSDL... | Hoàn thiện | 2026-08-15 | Pass Quality Gate |
 | 314/2026/NĐ-CP | Quy định hoạt động của sàn dữ liệu | Hoàn thiện | 2026-08-16 | Pass Quality Gate |
+| 10/2026/TT-BTP | Hướng dẫn quản lý, sử dụng kinh phí hỗ trợ Quỹ xây dựng chính sách | Hoàn thiện | 2026-08-20 | Pass Quality Gate |
 
 ---
 ## BÁO CÁO REVIEW QUALITY GATE — 2026-08-17
@@ -126,6 +131,16 @@
   - 312/2026/NĐ-CP: Pass (Đã fix 2 lỗi "ngày l")
   - 314/2026/NĐ-CP: Pass
 - **Kết luận**: Các văn bản đã review đạt chuẩn OCR Quality Gate.
+
+---
+## OCR QUALITY GATE REVIEW — 2026-08-20 (Đệ #3 Subagent)
+
+### File PASS hoàn toàn (OCR issues = 0, Articles OK, Chapters OK)
+| File | Lines | Articles | Chapters | Đánh giá |
+|------|-------|----------|----------|----------|
+| `van-ban/10-2026-tt-btp.md` | 648 | 27 (1-27) | 5 (I-V) | **PASS** |
+
+> **Lưu ý**: 3 phát hiện `ngày l` là false positive (thực tế là `ngày làm` - ngày làm việc, thuật ngữ pháp lý chuẩn).
 
 ---
 ## FILE CẦN REFACTOR (Đệ #4 Reviewer - 2026-08-18)
