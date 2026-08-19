@@ -20,7 +20,7 @@
 
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
-| 1 | **117/2026/TT-BTC** | Tài chính (Bộ Tài chính) | 444351-d1 | — | — | **Chưa có** |
+| 1 | **117/2026/TT-BTC** | Tài chính (Bộ Tài chính) | 444351-d1 | — | — | **Hoàn thiện** |
 
 ### Chi tiết 1 VB mới
 
