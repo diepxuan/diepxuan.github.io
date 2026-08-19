@@ -12,13 +12,27 @@
 
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
-| 1 | **10/2026/TT-BTP** | Tư pháp (Bộ Tư pháp) | 444428-d1 | 18/08/2026 | — | **Chưa có** |
+| 1 | **10/2026/TT-BTP** | Tư pháp (Bộ Tư pháp) | 444428-d1 | 18/08/2026 | — | **Hoàn thiện** |
 
 ### Chi tiết 1 VB mới
-1. **10/2026/TT-BTP** — Hướng dẫn quản lý sử dụng kinh phí hỗ trợ quỹ xây dựng chính sách. Ban hành 18/08/2026. URL: `https://luatvietnam.vn/chinh-sach/thong-tu-10-2026-tt-btp-huong-dan-quan-ly-su-dung-kinh-phi-ho-tro-quy-xay-dung-chinh-sach-444428-d1.html`
+1. **10/2026/TT-BTP** — Hướng dẫn quản lý sử dụng kinh phí hỗ trợ quỹ xây dựng chính sách. Ban hành 18/08/2026. URL: `https://luatvietnam.vn/chinh-sach/thong-tu-10-2026-tt-btp-huong-dan-quan-ly-su-dung-kinh-phi-ho-tro-quy-xay-dung-chinh-sach-444428-d1.html` — **Đã hoàn thiện**
 
 ---
 
+
+### Hoàn thiện văn bản 10/2026/TT-BTP (Hướng dẫn quản lý, sử dụng kinh phí hỗ trợ Quỹ xây dựng chính sách, pháp luật)
+
+**File**: `van-ban/10-2026-tt-btp.md`
+
+**Thành quả**:
+- Lấy metadata đầy đủ từ luatvietnam.vn (số hiệu 10/2026/TT-BTP, ngày ban hành 14/08/2026, người ký Hoàng Thanh Tùng - Bộ trưởng Bộ Tư pháp, ngày hiệu lực 14/08/2026, trích yếu, căn cứ pháp luật đầy đủ 4 căn cứ, nơi nhận đầy đủ).
+- Nội dung toàn văn 27 Điều, 5 Chương, 5 Phụ lục đã được merge đầy đủ từ nguồn luatvietnam.vn.
+- Chạy OCR Quality Gate (theo `documents/OCR_QUALITY_GATE.md`): **OCR issues = 0**, **Missing Điều = []**, **Duplicate Điều = []**, **Chương đúng thứ tự I, II, III, IV, V**.
+- Commit: `heartbeat/crawl-vanban-20260807` branch.
+
+**Cập nhật trạng thái tracking**: 10/2026/TT-BTP chuyển từ **"Chưa có"** sang **"Hoàn thiện".**
+
+---
 
 ### Hoàn thiện văn bản 105/2026/TT-BTC (Bãi bỏ Thông tư 87/2019/TT-BTC xử phạt VPHC kho bạc NN)
 
