@@ -24,7 +24,7 @@
 
 ### 2. Nghị định 319/2026/NĐ-CP — Quy định thiết bị giám sát hành trình và ghi nhận hình ảnh trên phương tiện giao thông
 - **Slug**: 444445
-- **Trạng thái**: Chưa có
+- **Trạng thái**: Hoàn thiện
 
 ### 3. Nghị định 323/2026/NĐ-CP — Quy định chi tiết và hướng dẫn thi hành Nghị quyết 20/2026/QH16
 - **Slug**: 444444
