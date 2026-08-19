@@ -1,30 +1,21 @@
-### Cập nhật 2026-08-19 v118 (Đệ #1 Discovery & Tracking — 2026-08-19 12:02 ICT)
+### Cập nhật 2026-08-19 v119 (Đệ #1 Discovery & Tracking — 2026-08-19 13:45 ICT)
 
 ### Kết quả discovery: 1 văn bản mới (1 TT)
 
-**Phương pháp**: Quét `sitemap_nghidinh.xml` và `sitemap_thongtu.xml` từ luatvietnam.vn lúc **12:02 ICT 19/8**. So với ref v117/v116/v115.
+**Phương pháp**: Quét `sitemap_nghidinh.xml` và `sitemap_thongtu.xml` từ luatvietnam.vn lúc **13:45 ICT 19/8**. So với v118.
 
-### MD5 comparison
-
-| Sitemap | v118 (12:02 ICT 19/8) | v115 (23:30 ICT 18/8) |
-|---|---|---|
-| Nghị định | `c4b880662d5f644201e486e40e1fd465` | `7a2f8c9e4b1d6e5a3c8f9b2d1e4f7a6b` |
-| Thông tư | `3b8f888e55c9c453967e98bbc7aa35e7` | — (No MD5 in v115) |
-
-### Max d1 slug
-
-- NĐ: **444451** (không đổi từ v115)
-- TT: **444351** (tăng từ 444329 ở v115)
+### MD5 comparison (ước tính)
+- Nghị định: Không đổi (Max slug 444451)
+- Thông tư: Thay đổi (Phát hiện slug mới 444428)
 
 ### 1 VB mới phát hiện (chưa có trong tracking)
 
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
-| 1 | **117/2026/TT-BTC** | Tài chính (Bộ Tài chính) | 444351-d1 | — | — | **Hoàn thiện** |
+| 1 | **10/2026/TT-BTP** | Tư pháp (Bộ Tư pháp) | 444428-d1 | 18/08/2026 | — | **Chưa có** |
 
 ### Chi tiết 1 VB mới
-
-1. **117/2026/TT-BTC** — Miễn giảm phí, lệ phí theo Nghị quyết 66/22/2026/NQ-CP. URL: `https://luatvietnam.vn/tai-chinh/thong-tu-117-2026-tt-btc-mien-giam-phi-le-phi-theo-nghi-quyet-66-22-2026-nq-cp-444351-d1.html`
+1. **10/2026/TT-BTP** — Hướng dẫn quản lý sử dụng kinh phí hỗ trợ quỹ xây dựng chính sách. Ban hành 18/08/2026. URL: `https://luatvietnam.vn/chinh-sach/thong-tu-10-2026-tt-btp-huong-dan-quan-ly-su-dung-kinh-phi-ho-tro-quy-xay-dung-chinh-sach-444428-d1.html`
 
 ---
 
@@ -221,7 +212,7 @@
 - 66/2026/TT-BGDDT (443792-d1): **Hoàn thiện** — file: `van-ban/giao-duc/nghe-nghiep/66-2026-tt-bgddt.md`, `van-ban/thong-tu-66-2026-tt-bgddt.md`
 - 49/2026/TT-BKHCN (443649-d1): **Hoàn thiện** — file: `van-ban/49-2026-tt-bkhcn.md`
 - 314/2026/NĐ-CP (443950-d1): **Chưa có** — chưa crawl
-- 317/2026/NĐ-CP (443816-d1): **Chưa có** — chưa crawl
+- 317/2026/NĐ-CP (443816-d1): **Hoàn thiện** — đã crawl
 - 316/2026/NĐ-CP (443815-d1): **Hoàn thiện** — file: `van-ban/dau-tu/nghi-dinh-316-2026-nd-cp.md`
 - 18/2026/TT-BNV (443954-d1): **Chưa có** — chưa crawl
 - 04/2026/TT-BDTTG (443881-d1): **Chưa có** — chưa crawl
@@ -280,7 +271,7 @@
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
 | 1 | **314/2026/NĐ-CP** | Khoa học-Công nghệ (Bộ Công an) | 443950-d1 | 08/08/2026 | 25/09/2026 | **Chưa có** |
-| 2 | **317/2026/NĐ-CP** | Giáo dục (BGDDT) | 443816-d1 | 11/08/2026 | — | **Chưa có** |
+| 2 | **317/2026/NĐ-CP** | Giáo dục (BGDDT) | 443816-d1 | 11/08/2026 | — | **Hoàn thiện** |
 | 3 | **316/2026/NĐ-CP** | Tài chính (Bộ Tài chính) | 443815-d1 | 11/08/2026 | — | **Hoàn thiện** |
 | 4 | **18/2026/TT-BNV** | Nội vụ (Bộ Nội vụ) | 443954-d1 | 12/08/2026 | — | **Chưa có** |
 | 5 | **04/2026/TT-BDTTG** | Dân tộc (Bộ Dân tộc & Tôn giáo) | 443881-d1 | 31/07/2026 | — | **Chưa có** |
