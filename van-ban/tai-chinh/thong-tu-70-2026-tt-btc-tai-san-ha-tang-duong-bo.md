@@ -113,7 +113,7 @@ Tài sản kết cấu hạ tầng đường bộ được xác định nguyên 
 
 
 lại, tính hao mòn theo quy định tại Thông tư này là danh mục các loại tài sản
-quy định tại Điều 3 Nghị định số 44/2024/NĐ-CP và được chỉ tiết tại khoản I
+quy định tại Điều 3 Nghị định số 44/2024/NĐ-CP và được chỉ tiết tại khoản 1
 Điều 10 Thông tư này.
 
 Riêng đối với phần đất hành lang an toàn đường bộ đã được bồi thường,
@@ -1151,7 +1151,7 @@ thực hiện xác định mức hao mòn hằng năm của tài sản như sau:
 - Giá trị còn lại của tài sản còn lại theo thẩm định giá
 
 tính đến ngày 31 tháng 12 năm 2025 theo số kế toán
-Mức hao mòn hăng năm
+Mức hao mòn hằng năm
 của tài sản
 
 Thời gian sử dụng để tính hao mòn còn lại của tài sản (năm)
