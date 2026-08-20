@@ -52,7 +52,7 @@
 
 ### 2. Thông tư 64/2026/TT-BXD — Quy định thi đua khen thưởng Bộ Xây dựng
 - **Slug**: 444189
-- **Trạng thái**: Chưa có
+- **Trạng thái**: Hoàn thiện
 
 ### 3. Thông tư 65/2026/TT-BXD — Định mức kinh tế kỹ thuật khảo sát độ sâu hàng hải
 - **Slug**: 444187
