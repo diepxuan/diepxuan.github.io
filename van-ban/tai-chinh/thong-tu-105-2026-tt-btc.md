@@ -2,7 +2,7 @@
 layout: vanban
 title: "Thông tư 105/2026/TT-BTC bãi bỏ Thông tư 87/2019/TT-BTC hướng dẫn thực hiện xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước"
 date: 2026-07-22
-modified: 2026-07-24
+modified: 2026-08-20
 group: tai-chinh
 tags:
   - thong-tu
@@ -10,7 +10,7 @@ tags:
   - kho-bac-nha-nuoc
   - bo-tai-chinh
 docid: 218968
-source: hethongphapluat.com; vanban.chinhphu.vn
+source: luatvietnam.vn; vanban.chinhphu.vn
 ---
 
 # Thông tư 105/2026/TT-BTC bãi bỏ Thông tư 87/2019/TT-BTC hướng dẫn thực hiện xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước
@@ -26,7 +26,7 @@ source: hethongphapluat.com; vanban.chinhphu.vn
 | Người ký | Tạ Anh Tuấn |
 | Chức danh | Thứ trưởng (KT. Bộ trưởng) |
 | Ngày hiệu lực | 05/09/2026 |
-| Tình trạng hiệu lực | Chưa có hiệu lực (có hiệu lực từ 05/09/2026) |
+| Tình trạng hiệu lực | Có hiệu lực từ 05/09/2026 |
 | Ngày công báo | Đang cập nhật |
 | Số công báo | Đang cập nhật |
 
