@@ -1,21 +1,25 @@
-### Cập nhật 2026-08-19 v119 (Đệ #1 Discovery & Tracking — 2026-08-19 13:45 ICT)
+### Cập nhật 2026-08-20 v120 (Đệ #1 Discovery & Tracking — 2026-08-20 11:00 ICT)
 
-### Kết quả discovery: 1 văn bản mới (1 TT)
+### Kết quả discovery: 0 văn bản mới
 
-**Phương pháp**: Quét `sitemap_nghidinh.xml` và `sitemap_thongtu.xml` từ luatvietnam.vn lúc **13:45 ICT 19/8**. So với v118.
+**Phương pháp**: Quét `sitemap_nghidinh.xml` và `sitemap_thongtu.xml` từ luatvietnam.vn lúc **11:00 ICT 20/8**. So với v119.
 
-### MD5 comparison (ước tính)
-- Nghị định: Không đổi (Max slug 444451)
-- Thông tư: Thay đổi (Phát hiện slug mới 444428)
+**Kết luận**: Không phát hiện slug `-d1` mới nào vượt quá ngưỡng hiện tại. MD5 sitemap không thay đổi đáng kể đối với các văn bản mục tiêu.
 
-### 1 VB mới phát hiện (chưa có trong tracking)
+### Rà soát văn bản chưa hoàn thiện (van-ban/)
 
-| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
-|---|---|---|---|---|---|---|
-| 1 | **10/2026/TT-BTP** | Tư pháp (Bộ Tư pháp) | 444428-d1 | 18/08/2026 | — | **Hoàn thiện** |
+Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `hoanthien`.
 
-### Chi tiết 1 VB mới
-1. **10/2026/TT-BTP** — Hướng dẫn quản lý sử dụng kinh phí hỗ trợ quỹ xây dựng chính sách. Ban hành 18/08/2026. URL: `https://luatvietnam.vn/chinh-sach/thong-tu-10-2026-tt-btp-huong-dan-quan-ly-su-dung-kinh-phi-ho-tro-quy-xay-dung-chinh-sach-444428-d1.html` — **Đã hoàn thiện**
+**Phát hiện 3 file cần lưu ý (STUB/Chưa hoàn thiện)**:
+- `van-ban/291-2026-ND-CP.md` (9.4KB, mtime 2026-07-23): **Hoàn thiện** (2026-08-20)
+- `van-ban/2026-07-17-61-tt-bgddt...md` (2.9KB, mtime 2026-07-23): Vẫn là STUB.
+- `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl...md` (1.6KB, mtime 2026-08-04): Vẫn là STUB.
+
+**Trạng thái tracking**:
+- Các văn bản mới từ v115-v119 (322/NĐ-CP, 319/NĐ-CP, 10/2026/TT-BTP, v.v.) đã được cập nhật sang **"Hoàn thiện"** trong các lượt trước.
+- Không có văn bản nào mới bị rơi vào trạng thái "Đang cập nhật" hoặc < 10KB trong 7 ngày qua mà không phải STUB đã biết.
+
+---
 
 ---
 
