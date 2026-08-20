@@ -1,9 +1,9 @@
 # LEGISLATION_TRACKING.md
 
 > **Đệ #1 Discovery — Báo cáo văn bản pháp luật mới**
-> Phiên bản: 2026-08-18T19:15 GMT+7
-> Nguồn quét: luatvietnam.vn (Sitemap)
-> **Ghi chú lần quét này**: Phát hiện thêm 5 văn bản mới (Nghị định 322/2026/NĐ-CP, 319/2026/NĐ-CP, 323/2026/NĐ-CP, Thông tư 18/2026/TT-BNV, 04/2026/TT-BDTTG).
+> Phiên bản: 2026-08-20T20:36 GMT+7
+> Nguồn quét: luatvietnam.vn (Sitemap: nghidinh.xml + thongtu.xml)
+> **Ghi chú lần quét này**: Phát hiện thêm 5 văn bản mới (Nghị định 321/2026/NĐ-CP, 326/2026/NĐ-CP, 324/2026/NĐ-CP, 325/2026/NĐ-CP, Thông tư 43/2026/TT-BCT).
 
 ---
 
@@ -12,35 +12,41 @@
 - Tổng văn bản phát hiện lần này: **5**
 - Văn bản đã có trong tracking/workspace: **0**
 - Nguồn xác nhận: luatvietnam.vn
-- Ngày quét: 2026-08-18
+- Ngày quét: 2026-08-20
 
 ---
 
-## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-08-18
+## VĂN BẢN MỚI PHÁT HIỆN (5) — 2026-08-20
 
-### 1. Nghị định 322/2026/NĐ-CP — Sửa đổi Nghị định 86/2021 về học tập và nghiên cứu nước ngoài
-- **Slug**: 444451
+### 1. Nghị định 321/2026/NĐ-CP — Quy định trợ cấp, phụ cấp cho người có công với cách mạng
+- **Slug**: 444621
 - **Trạng thái**: Chưa có
+- **Nguồn**: luatvietnam.vn/lao-dong/nghi-dinh-321-2026-nd-cp-quy-dinh-tro-cap-phu-cap-cho-nguoi-co-cong-voi-cach-mang-444621-d1.html
+- **Lastmod**: 2026-08-20T18:14:30+07:00
 
-### 2. Nghị định 319/2026/NĐ-CP — Quy định thiết bị giám sát hành trình và ghi nhận hình ảnh trên phương tiện giao thông
-- **Slug**: 444445
-- **Trạng thái**: Hoàn thiện
-
-### 3. Nghị định 323/2026/NĐ-CP — Quy định chi tiết và hướng dẫn thi hành Nghị quyết 20/2026/QH16
-- **Slug**: 444444
+### 2. Nghị định 326/2026/NĐ-CP — Quy định về định danh địa điểm hiệu lực từ 01/09/2026
+- **Slug**: 444603
 - **Trạng thái**: Chưa có
+- **Nguồn**: luatvietnam.vn/hanh-chinh/nghi-dinh-326-2026-nd-cp-quy-dinh-ve-dinh-danh-dia-diem-hieu-luc-tu-01-09-2026-444603-d1.html
+- **Lastmod**: 2026-08-20T18:14:30+07:00
 
-### 4. Thông tư 18/2026/TT-BNV — Quy định tặng kỷ niệm chương ngành Nội vụ hiệu lực 2026
-- **Slug**: 443954
+### 3. Nghị định 324/2026/NĐ-CP — Sửa đổi Nghị định 51/2015 về cấp ý kiến pháp lý
+- **Slug**: 444530
 - **Trạng thái**: Chưa có
+- **Nguồn**: luatvietnam.vn/tu-phap/nghi-dinh-324-2026-nd-cp-sua-doi-nghi-dinh-51-2015-ve-cap-y-kien-phap-ly-444530-d1.html
+- **Lastmod**: 2026-08-20T18:14:30+07:00
 
-### 5. Thông tư 04/2026/TT-BDTTG — Hướng dẫn quản lý phát triển vùng dân tộc thiểu số 2026-2030
-- **Slug**: 443881
+### 4. Nghị định 325/2026/NĐ-CP — Cơ chế quản lý tài chính cho Tập đoàn Thặng Khoáng sản Việt Nam
+- **Slug**: 444524
 - **Trạng thái**: Chưa có
+- **Nguồn**: luatvietnam.vn/tai-chinh/nghi-dinh-325-2026-nd-cp-co-che-quan-ly-tai-chinh-cho-tap-doan-than-khoang-san-viet-nam-444524-d1.html
+- **Lastmod**: 2026-08-20T18:14:30+07:00
 
-### 6. Thông tư 10/2026/TT-BTP — Hướng dẫn việc hỗ trợ, tài trợ và quản lý, sử dụng kinh phí hỗ trợ, tài trợ của Quỹ hỗ trợ xây dựng chính sách, pháp luật
-- **Slug**: 444428
-- **Trạng thái**: Hoàn thiện
+### 5. Thông tư 43/2026/TT-BCT — Quy định chi tiết Luật Thi đua khen thưởng ngành Công thương
+- **Slug**: 444625
+- **Trạng thái**: Chưa có
+- **Nguồn**: luatvietnam.vn/thi-dua/thong-tu-43-2026-tt-bct-quy-dinh-chi-tiet-luat-thi-dua-khen-thuong-nganh-cong-thuong-444625-d1.html
+- **Lastmod**: 2026-08-19T19:28:19+07:00
 
 ---
 
