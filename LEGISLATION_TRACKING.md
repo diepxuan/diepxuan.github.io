@@ -155,7 +155,7 @@
 |---|------|-----------|---------------|--------|------------|
 | 1 | `van-ban/tai-chinh/thong-tu-105-2026-tt-btc.md` | 6,020 bytes | 2026-08-04 | Metadata có "Đang cập nhật" cho Ngày công báo & Số công báo | Chờ xử lý |
 | 2 | `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1,574 bytes | 2026-07-23 | Stub file - status "Đang cập nhật (stub)", chờ OCR từ PDF | Chờ xử lý |
-| 3 | `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` | 1,557 bytes | 2026-08-04 | Stub file - "Đang cập nhật nội dung", QCVN 32:2026/BXD chưa có toàn văn | Chờ xử lý |
+| 3 | `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` | 3,743 bytes | 2026-08-21 | Hoàn thiện | Hoàn thiện |
 
 > Tiêu chí: metadata "Đang cập nhật" + < 10KB + lastedit > 7 ngày
 
