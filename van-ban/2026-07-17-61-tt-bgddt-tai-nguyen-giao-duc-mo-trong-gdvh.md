@@ -28,6 +28,7 @@ status: COMPLETE
 | Loại văn bản | Thông tư |
 | Lĩnh vực | Giáo dục — Giáo dục đại học |
 | Trạng thái | Có hiệu lực |
+| Nguồn | https://luatvietnam.vn/giao-duc/thong-tu-61-2026-tt-bgddt-khai-thac-va-su-dung-tai-nguyen-giao-duc-mo-trong-dai-hoc-441040-d1.html |
 
 ## VĂN BẢN
 
@@ -210,6 +211,3 @@ Các biện pháp tạm dừng không được ảnh hưởng đến quyền h�
 2. Hướng dẫn, kiểm tra, thanh tra việc thực hiện quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học; xử lý vi phạm theo quy định của pháp luật.
 
 3. Phối hợp với các cơ quan, tổ chức liên quan trong việc xây dựng, phát triển và quản lý tài nguyên giáo dục mở; thúc đẩy hợp tác quốc tế trong lĩnh vực tài nguyên giáo dục mở.
-
----
-*Văn bản được trích xuất từ luatvietnam.vn và chuẩn hóa theo OCR Quality Gate.*
