@@ -24,6 +24,20 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 ---
 
 
+### Hoàn thiện văn bản 64/2026/TT-BXD (Quy định về công tác thi đua, khen thưởng của Bộ Xây dựng)
+
+**File**: `van-ban/thi-dua/64-2026-tt-bxd.md`
+
+**Thành quả**:
+- Lấy metadata đầy đủ từ luatvietnam.vn (số hiệu 64/2026/TT-BXD, ngày ban hành 11/08/2026, người ký Bộ trưởng Bộ Xây dựng, ngày hiệu lực 01/10/2026, trích yếu, căn cứ pháp luật đầy đủ 3 căn cứ).
+- Nội dung toàn văn 12 Điều, 2 Chương đã được merge đầy đủ từ nguồn luatvietnam.vn.
+- Chạy OCR Quality Gate (theo `documents/OCR_QUALITY_GATE.md`): **OCR issues = 0**, **Missing Điều = []**, **Duplicate Điều = []**, **Chương đúng thứ tự I, II**.
+- Commit: `heartbeat/crawl-vanban-20260807` branch.
+
+**Cập nhật trạng thái tracking**: 64/2026/TT-BXD chuyển từ **"Chưa có"** sang **"Hoàn thiện".**
+
+---
+
 ### Hoàn thiện văn bản 10/2026/TT-BTP (Hướng dẫn quản lý, sử dụng kinh phí hỗ trợ Quỹ xây dựng chính sách, pháp luật)
 
 **File**: `van-ban/10-2026-tt-btp.md`
@@ -132,7 +146,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
 | 1 | **115/2026/TT-BQP** | An ninh quốc gia (Bộ Quốc phòng) | 444329-d1 | 06/08/2026 | — | **Hoàn thiện** |
-| 2 | **64/2026/TT-BXD** | Xây dựng/Thi đua (Bộ Xây dựng) | 444189-d1 | 11/08/2026 | 01/10/2026 | **Chưa có** |
+| 2 | **64/2026/TT-BXD** | Xây dựng/Thi đua (Bộ Xây dựng) | 444189-d1 | 11/08/2026 | 01/10/2026 | **Hoàn thiện** |
 | 3 | **65/2026/TT-BXD** | Xây dựng/Hàng hải (Bộ Xây dựng) | 444187-d1 | 14/08/2026 | 01/10/2026 | **Chưa có** |
 
 ### Chi tiết 3 VB mới
