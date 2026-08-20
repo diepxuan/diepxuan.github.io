@@ -1,44 +1,40 @@
 ---
 layout: vanban
-title: "Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học"
+title: "Thông tư 61/2026/TT-BGDĐT quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học"
 date: 2026-07-17
-modified: 2026-08-20
+modified: 2026-08-21
 group: giao-duc
 tags:
-  - giáo dục
-  - giáo dục-đại-học
-  - tài-nguyên-giáo-dục-mở
-  - OER
-  - BGDDT
-docid: "61/2026/TT-BGDĐT"
+  - tài nguyên giáo dục mở
+  - giáo dục đại học
+  - chuyển đổi số
+docid: 61/2026/TT-BGDĐT
 source: luatvietnam.vn
-status: COMPLETE
 ---
 
-# Thông tư 61/2026/TT-BGDĐT
+# Thông tư 61/2026/TT-BGDĐT quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học
 
 ## THÔNG TIN VĂN BẢN
 
-| Trường | Giá trị |
-|---|---|
-| Số hiệu | 61/2026/TT-BGDĐT |
-| Ngày ban hành | 17/07/2026 |
-| Cơ quan ban hành | Bộ Giáo dục và Đào tạo |
-| Người ký | Bộ trưởng Bộ Giáo dục và Đào tạo |
-| Loại văn bản | Thông tư |
-| Lĩnh vực | Giáo dục — Giáo dục đại học |
-| Trạng thái | Có hiệu lực |
-| Nguồn | https://luatvietnam.vn/giao-duc/thong-tu-61-2026-tt-bgddt-khai-thac-va-su-dung-tai-nguyen-giao-duc-mo-trong-dai-hoc-441040-d1.html |
+- **Số hiệu:** 61/2026/TT-BGDĐT
+- **Ngày ban hành:** 17/07/2026
+- **Cơ quan ban hành:** Bộ Giáo dục và Đào tạo
+- **Ngày hiệu lực:** 01/09/2026
+- **Trích yếu:** Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học.
 
 ## VĂN BẢN
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO**
-**Số: 61/2026/TT-BGDĐT**
+
+Số: 61/2026/TT-BGDĐT
 
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập - Tự do - Hạnh phúc**
-***
+
 *Hà Nội, ngày 17 tháng 7 năm 2026*
+
+**THÔNG TƯ**
+**Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học**
 
 Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15;
 
@@ -128,16 +124,11 @@ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 ### Điều 7. Quy trình, điều kiện khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học
 1. Người đứng đầu cơ sở đào tạo ban hành quy định nội bộ về kiểm soát chất lượng, quy trình, tiêu chí, hồ sơ, điều kiện và thẩm quyền thẩm định, phê duyệt tài nguyên giáo dục mở theo từng loại hình, phù hợp với phạm vi và mục đích sử dụng của tài nguyên giáo dục mở, bảo đảm chất lượng của tài nguyên giáo dục mở được lựa chọn, sử dụng trong hoạt động đào tạo:
-
-a) Các loại hình của tài nguyên: tham khảo, bổ trợ hay được dùng làm học liệu chính thức; tài nguyên phục vụ kiểm tra, đánh giá, công nhận kết quả học tập, chuyển đổi tín chỉ;
-
-b) Tiêu chí, yêu cầu đối với tài nguyên giáo dục mở theo Điều 6 của Thông tư này;
-
-c) Cơ cấu, tiêu chuẩn, số lượng thành viên bao gồm thành viên trong và ngoài cơ sở đào tạo của hội đồng thẩm định; nguyên tắc làm việc, trách nhiệm, quyền hạn của hội đồng, thành viên hội đồng và các bên liên quan, bảo đảm tính độc lập, khách quan trong quá trình thẩm định;
-
-d) Cơ chế đánh giá của người sử dụng nhằm nâng cao tính minh bạch và chất lượng tài nguyên; phương thức thu thập ý kiến của người sử dụng thông qua các kênh thông tin phù hợp; cơ chế tiếp nhận phản hồi, đóng góp, hiệu chỉnh và đồng phát triển tài nguyên giáo dục mở từ cộng đồng học thuật và người sử dụng;
-
-đ) Chu kỳ rà soát, cập nhật định kỳ và cải tiến chất lượng tài nguyên giáo dục mở; việc gỡ bỏ học liệu không đáp ứng yêu cầu.
+    a) Các loại hình của tài nguyên: tham khảo, bổ trợ hay được dùng làm học liệu chính thức; tài nguyên phục vụ kiểm tra, đánh giá, công nhận kết quả học tập, chuyển đổi tín chỉ;
+    b) Tiêu chí, yêu cầu đối với tài nguyên giáo dục mở theo Điều 6 của Thông tư này;
+    c) Cơ cấu, tiêu chuẩn, số lượng thành viên bao gồm thành viên trong và ngoài cơ sở đào tạo của hội đồng thẩm định; nguyên tắc làm việc, trách nhiệm, quyền hạn của hội đồng, thành viên hội đồng và các bên liên quan, bảo đảm tính độc lập, khách quan trong quá trình thẩm định;
+    d) Cơ chế đánh giá của người sử dụng nhằm nâng cao tính minh bạch và chất lượng tài nguyên; phương thức thu thập ý kiến của người sử dụng thông qua các kênh thông tin phù hợp; cơ chế tiếp nhận phản hồi, đóng góp, hiệu chỉnh và đồng phát triển tài nguyên giáo dục mở từ cộng đồng học thuật và người sử dụng;
+    đ) Chu kỳ rà soát, cập nhật định kỳ và cải tiến chất lượng tài nguyên giáo dục mở; việc gỡ bỏ học liệu không đáp ứng yêu cầu.
 
 2. Người đứng đầu cơ sở đào tạo ban hành yêu cầu kỹ thuật đối với việc lưu trữ, chia sẻ, khai thác và sử dụng trên nền tảng giáo dục mở của cơ sở theo quy định của pháp luật; bảo đảm tính đồng bộ, liên thông với Cổng truy cập tài nguyên giáo dục mở quốc gia và phù hợp với quy định của pháp luật có liên quan về chuyển đổi số.
 
@@ -150,24 +141,16 @@ d) Cơ chế đánh giá của người sử dụng nhằm nâng cao tính minh 
 1. Tổ chức, cá nhân có quyền truy cập, khai thác và sử dụng tài nguyên giáo dục mở theo điều kiện của giấy phép mở được gắn kèm theo; sao chép, chia sẻ, sử dụng lại, chỉnh sửa, kết hợp tài nguyên theo phạm vi được phép; sử dụng tài nguyên phục vụ giảng dạy, học tập, nghiên cứu, đổi mới sáng tạo và các mục đích hợp pháp khác; được truy xuất thông tin về nguồn gốc, giấy phép và điều kiện sử dụng tài nguyên giáo dục mở.
 
 2. Trách nhiệm của tổ chức, cá nhân khai thác, sử dụng:
-
-a) Tuân thủ đầy đủ các điều kiện, phạm vi sử dụng được quy định trong giấy phép mở; ghi nhận tên tác giả; rà soát thông tin về giấy phép mở, nguồn gốc tài nguyên giáo dục mở;
-
-b) Tôn trọng quyền sở hữu trí tuệ đối với tài nguyên giáo dục mở theo quy định hiện hành;
-
-c) Không sử dụng tài nguyên giáo dục mở cho các hành vi không được thực hiện quy định tại Điều 5 của Thông tư này;
-
-d) Phản hồi, thông báo lỗi (nếu có), đánh giá và đề xuất cải tiến tài nguyên giáo dục mở thông qua các kênh thông tin phù hợp.
+    a) Tuân thủ đầy đủ các điều kiện, phạm vi sử dụng được quy định trong giấy phép mở; ghi nhận tên tác giả; rà soát thông tin về giấy phép mở, nguồn gốc tài nguyên giáo dục mở;
+    b) Tôn trọng quyền sở hữu trí tuệ đối với tài nguyên giáo dục mở theo quy định hiện hành;
+    c) Không sử dụng tài nguyên giáo dục mở cho các hành vi không được thực hiện quy định tại Điều 5 của Thông tư này;
+    d) Phản hồi, thông báo lỗi (nếu có), đánh giá và đề xuất cải tiến tài nguyên giáo dục mở thông qua các kênh thông tin phù hợp.
 
 3. Khi sử dụng tài nguyên giáo dục mở để tích hợp vào học liệu, giáo trình, khóa học trực tuyến, chương trình đào tạo, sản phẩm nghiên cứu hoặc công bố học thuật, tổ chức và cá nhân có trách nhiệm:
-
-a) Kiểm tra tính hợp lệ của giấy phép mở;
-
-b) Thực hiện trích dẫn đầy đủ, chính xác theo quy định;
-
-c) Bảo đảm tuân thủ các quy định về sở hữu trí tuệ, trí tuệ nhân tạo, bảo vệ dữ liệu cá nhân, an ninh mạng và liêm chính học thuật;
-
-d) Trường hợp tài nguyên có sử dụng nội dung được tạo ra bởi trí tuệ nhân tạo, phải bảo đảm tính minh bạch theo quy định của pháp luật hiện hành.
+    a) Kiểm tra tính hợp lệ của giấy phép mở;
+    b) Thực hiện trích dẫn đầy đủ, chính xác theo quy định;
+    c) Bảo đảm tuân thủ các quy định về sở hữu trí tuệ, trí tuệ nhân tạo, bảo vệ dữ liệu cá nhân, an ninh mạng và liêm chính học thuật;
+    d) Trường hợp tài nguyên có sử dụng nội dung được tạo ra bởi trí tuệ nhân tạo, phải bảo đảm tính minh bạch theo quy định của pháp luật hiện hành.
 
 4. Tổ chức, cá nhân có hành vi vi phạm trong khai thác, sử dụng tài nguyên giáo dục mở, tùy theo tính chất, mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật.
 
@@ -177,15 +160,12 @@ d) Trường hợp tài nguyên có sử dụng nội dung được tạo ra b�
 2. Cơ sở đào tạo được sử dụng tài nguyên giáo dục mở làm học liệu chính thức, học liệu tham khảo hoặc học liệu bổ trợ trong chương trình đào tạo cấp văn bằng ở các trình độ của giáo dục đại học; học liệu cho khóa học, khóa học trực tuyến, cấp chứng chỉ; phục vụ hoạt động nghiên cứu và công bố học thuật và các hoạt động giáo dục kỹ năng theo quy định.
 
 3. Việc sử dụng tài nguyên giáo dục mở trong đào tạo, kiểm tra, đánh giá kết quả học tập, công nhận và chuyển đổi tín chỉ, cấp chứng chỉ và văn bằng phải:
-
-a) Tuân thủ quy định của Thông tư này và pháp luật có liên quan;
-
-b) Bảo đảm tính minh bạch, công bằng, khách quan;
-
-c) Bảo đảm chất lượng của chương trình đào tạo, chuẩn đầu ra của học phần, chương trình đào tạo.
+    a) Tuân thủ quy định của Thông tư này và pháp luật có liên quan;
+    b) Bảo đảm tính minh bạch, công bằng, khách quan;
+    c) Bảo đảm chất lượng của chương trình đào tạo, chuẩn đầu ra của học phần, chương trình đào tạo.
 
 ### Điều 10. Xử lý vi phạm và giải quyết khiếu nại
-Khi nhận được phản ánh, khiếu nại hoặc chứng cứ hợp lệ về các vi phạm trong khai thác, sử dụng tài nguyên giáo dục mở được quy định tại Điều 5 của Thông tư này, cơ quan quản lý Cổng truy cập tài nguyên giáo dục mở quốc gia hoặc nền tảng tài nguyên giáo dục mở của cơ sở đào tạo có trách nhiệm tạm dừng hoạt động công bố, khai thác, sử dụng tài nguyên có liên quan trực tiếp đến nội dung phản ánh hoặc khiếu nại trong thời hạn ít nhất 15 ngày 1àm việc để tiến hành xác minh. Trình tự bao gồm rà soát, xác minh thông tin phản ánh, chứng minh vi phạm, khắc phục sai sót nếu xác định có vi phạm.
+Khi nhận được phản ánh, khiếu nại hoặc chứng cứ hợp lệ về các vi phạm trong khai thác, sử dụng tài nguyên giáo dục mở được quy định tại Điều 5 của Thông tư này, cơ quan quản lý Cổng truy cập tài nguyên giáo dục mở quốc gia hoặc nền tảng tài nguyên giáo dục mở của cơ sở đào tạo có trách nhiệm tạm dừng hoạt động công bố, khai thác, sử dụng tài nguyên có liên quan trực tiếp đến nội dung phản ánh hoặc khiếu nại trong thời hạn ít nhất 15 ngày làm việc để tiến hành xác minh. Trình tự bao gồm rà soát, xác minh thông tin phản ánh, chứng minh vi phạm, khắc phục sai sót nếu xác định có vi phạm.
 
 Các biện pháp tạm dừng không được ảnh hưởng đến quyền hợp pháp của các cơ sở đào tạo, tổ chức, cá nhân khác khi đã tuân thủ điều kiện giấy phép mở. Việc xử lý tiếp theo được thực hiện theo quy định của pháp luật về sở hữu trí tuệ và pháp luật có liên quan.
 
@@ -206,8 +186,4 @@ Các biện pháp tạm dừng không được ảnh hưởng đến quyền h�
 6. Thiết lập cơ chế quản lý, theo dõi, kiểm soát việc sử dụng tài nguyên giáo dục mở trong phạm vi cơ sở đào tạo; phối hợp với cơ quan, tổ chức có liên quan trong việc bảo vệ quyền sở hữu trí tuệ; thực hiện trách nhiệm giải trình, bảo đảm tính minh bạch và thống nhất trong tổ chức thực hiện.
 
 ### Điều 12. Trách nhiệm của Bộ Giáo dục và Đào tạo
-1. Xây dựng, quản lý, vận hành và phát triển Cổng truy cập tài nguyên giáo dục mở quốc gia; bảo đảm hạ tầng kỹ thuật, an toàn thông tin, quy định về bảo vệ dữ liệu, khả năng kết nối, liên thông với các nền tảng tài nguyên giáo dục mở của các cơ sở đào tạo và các nguồn hợp pháp khác trong nước và quốc tế; ban hành chuẩn dữ liệu đặc tả đối với tài nguyên giáo dục mở trong hoạt động giáo dục đại học.
-
-2. Hướng dẫn, kiểm tra, thanh tra việc thực hiện quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học; xử lý vi phạm theo quy định của pháp luật.
-
-3. Phối hợp với các cơ quan, tổ chức liên quan trong việc xây dựng, phát triển và quản lý tài nguyên giáo dục mở; thúc đẩy hợp tác quốc tế trong lĩnh vực tài nguyên giáo dục mở.
+1. Xây dựng, quản lý, vận hành và phát triển Cổng truy cập tài nguyên giáo dục mở quốc gia; bảo đảm hạ tầng kỹ thuật, an toàn thông tin, quy định về bảo vệ dữ liệu, khả năng kết nối, liên thông với nền tảng tài nguyên giáo dục mở của các cơ sở đào tạo và các nguồn tài nguyên giáo dục mở hợp pháp khác.
