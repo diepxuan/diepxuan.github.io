@@ -19,7 +19,25 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 - Các văn bản mới từ v115-v119 (322/NĐ-CP, 319/NĐ-CP, 10/2026/TT-BTP, v.v.) đã được cập nhật sang **"Hoàn thiện"** trong các lượt trước.
 - Không có văn bản nào mới bị rơi vào trạng thái "Đang cập nhật" hoặc < 10KB trong 7 ngày qua mà không phải STUB đã biết.
 
+---### Cập nhật 2026-08-21 v121 (Đệ #3 Full Crawler — 2026-08-21 04:02 ICT)
+
+### Hoàn thiện văn bản 20/2026/TT-BVHTTDL (Quy định chi tiết hồ sơ, thủ tục cấp giấy phép hoạt động báo chí; điều kiện, hồ sơ, thủ tục cấp giấy phép xuất bản bản tin, đặc san)
+
+**File**: `van-ban/van-hoa/thong-tu-20-2026-tt-bvhttdl-giay-phep-bao-chi.md`
+
+**Thành quả**:
+- Lấy metadata đầy đủ từ baovanhoa.vn (số hiệu 20/2026/TT-BVHTTDL, ngày ban hành 30/06/2026, người ký Lâm Thị Phương Thanh - Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch, ngày hiệu lực 01/07/2026, trích yếu, căn cứ pháp luật đầy đủ 4 căn cứ, nơi nhận đầy đủ).
+- Crawl nội dung toàn văn từ PDF có chữ ký số tại baovanhoa.vn (2__thong_tu_cap_phep_2962026_ban_cuoi-1_JUIW.pdf).
+- Áp dụng OCR Pipeline: pdftotext trên file PDF 17 trang.
+- Nội dung toàn văn 20 Điều, 5 Chương đã được merge đầy đủ từ nguồn OCR.
+- Chạy OCR Quality Gate (theo `documents/OCR_QUALITY_GATE.md`): **OCR issues = 0** (24 false positives từ "ngày làm việc" là văn bản đúng), **Missing Điều = []**, **Duplicate Điều = []**, **Chương đúng thứ tự I, II, III, IV, V**.
+- Commit: `b56f7a40` trên branch `heartbeat/crawl-vanban-20260807`.
+
+**Cập nhật trạng thái tracking**: 20/2026/TT-BVHTTDL chuyển từ **"STUB"** sang **"Hoàn thiện".**
+
 ---
+
+
 
 ---
 
