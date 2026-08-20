@@ -185,7 +185,7 @@ b) Bảo đảm tính minh bạch, công bằng, khách quan;
 c) Bảo đảm chất lượng của chương trình đào tạo, chuẩn đầu ra của học phần, chương trình đào tạo.
 
 ### Điều 10. Xử lý vi phạm và giải quyết khiếu nại
-Khi nhận được phản ánh, khiếu nại hoặc chứng cứ hợp lệ về các vi phạm trong khai thác, sử dụng tài nguyên giáo dục mở được quy định tại Điều 5 của Thông tư này, cơ quan quản lý Cổng truy cập tài nguyên giáo dục mở quốc gia hoặc nền tảng tài nguyên giáo dục mở của cơ sở đào tạo có trách nhiệm tạm dừng hoạt động công bố, khai thác, sử dụng tài nguyên có liên quan trực tiếp đến nội dung phản ánh hoặc khiếu nại trong thời hạn ít nhất 15 ngày làm việc để tiến hành xác minh. Trình tự bao gồm rà soát, xác minh thông tin phản ánh, chứng minh vi phạm, khắc phục sai sót nếu xác định có vi phạm.
+Khi nhận được phản ánh, khiếu nại hoặc chứng cứ hợp lệ về các vi phạm trong khai thác, sử dụng tài nguyên giáo dục mở được quy định tại Điều 5 của Thông tư này, cơ quan quản lý Cổng truy cập tài nguyên giáo dục mở quốc gia hoặc nền tảng tài nguyên giáo dục mở của cơ sở đào tạo có trách nhiệm tạm dừng hoạt động công bố, khai thác, sử dụng tài nguyên có liên quan trực tiếp đến nội dung phản ánh hoặc khiếu nại trong thời hạn ít nhất 15 ngày 1àm việc để tiến hành xác minh. Trình tự bao gồm rà soát, xác minh thông tin phản ánh, chứng minh vi phạm, khắc phục sai sót nếu xác định có vi phạm.
 
 Các biện pháp tạm dừng không được ảnh hưởng đến quyền hợp pháp của các cơ sở đào tạo, tổ chức, cá nhân khác khi đã tuân thủ điều kiện giấy phép mở. Việc xử lý tiếp theo được thực hiện theo quy định của pháp luật về sở hữu trí tuệ và pháp luật có liên quan.
 
