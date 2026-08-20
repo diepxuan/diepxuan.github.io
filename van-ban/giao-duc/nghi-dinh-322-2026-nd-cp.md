@@ -1,40 +1,38 @@
 ---
 layout: vanban
-title: "Nghị định 322/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật"
+title: "Nghị định 322/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật
 date: 2026-08-17
 modified: 2026-08-20
 group: giao-duc
 tags:
-  - học tập nước ngoài
+  - giáo dục
+  - du học
   - nghiên cứu khoa học
   - trao đổi học thuật
-  - tư vấn du học
 docid: 322/2026/NĐ-CP
 source: luatvietnam.vn
 ---
 
-# Nghị định 322/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật
+# Nghị định 322/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật
 
 ## THÔNG TIN VĂN BẢN
 
 - **Số hiệu:** 322/2026/NĐ-CP
 - **Ngày ban hành:** 17/08/2026
-- **Ngày hiệu lực:** (Đang cập nhật)
-- **Người ký:** (Đang cập nhật)
+- **Cơ quan ban hành:** Chính phủ
 - **Trích yếu:** Sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật.
 - **Căn cứ pháp luật:** Theo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo.
 
 ## VĂN BẢN
 
-CHÍNH PHỦ
+**CHÍNH PHỦ**
 
 Số: 322/2026/NĐ-CP
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập – Tự do – Hạnh phúc
-_________________
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập – Tự do – Hạnh phúc**
 
-Hà Nội, ngày 17 tháng 8 năm 2026
+*Hà Nội, ngày 17 tháng 8 năm 2026*
 
 **NGHỊ ĐỊNH**
 **Sửa đổi, bổ sung một số điều của Nghị định số 86/2021/NĐ-CP ngày 25 tháng 9 năm 2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật**
@@ -206,4 +204,4 @@ g) Thực hiện chế độ báo cáo theo quy định tại Điều 28 Nghị 
 
 ### Điều 10. Sửa đổi, bổ sung điểm l khoản 2 Điều 19
 
-“l) Gửi báo cáo qua dịch vụ bưu chính hoặc trực tiếp hoặc trực tuyến cho cơ quan quản lý nhà nước có thẩm quyền theo quy định.”
+“l) Gửi báo cáo qua dịch vụ bưu chính hoặc trực tiếp hoặc trực tuyến cho cơ quan quản lý nhà nước có thẩm quyền theo quy định tại Nghị định này.”
