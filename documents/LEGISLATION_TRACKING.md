@@ -3028,7 +3028,7 @@ Phương pháp: `curl` trực tiếp sitemap_nghidinh + sitemap_thongtu (Cloudfl
 |---:|---:|---:|---|---|---:|---|
 | **441103** | **20/2026/TT-BVHTTDL** | **30/06/2026** | Quy định chi tiết hồ sơ, thủ tục cấp, sửa đổi, bổ sung giấy phép hoạt động báo chí; điều kiện, hồ sơ, thủ tục cấp giấy phép xuất bản bản tin, đặc san — người ký Lâm Thị Phương Thanh | Văn hóa / Báo chí | **TRUNG BÌNH** | ✅ Số hiệu + ngày + trích yếu xác minh từ luatvietnam.vn |
 | **441053** | **117/2026/TT-BCA** | **29/06/2026** | Quy định chi tiết quy trình thu thập, cập nhật, tra cứu, khai thác, kết nối, chia sẻ, bảo đảm an ninh mạng, bảo vệ dữ liệu đối với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước | Công an / An ninh mạng | **TRUNG BÌNH** | ✅ Số hiệu 117/2026/TT-BCA + ngày 29/6/2026 + trích yếu xác minh từ luatvietnam.vn |
-| **441040** | **61/2026/TT-BGDĐT** | **17/07/2026** | Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học — căn cứ Luật GD 43/2019 (sửa), Luật GDĐH 125/2025, NĐ 279/2026 | Giáo dục / GDĐH | **TRUNG BÌNH** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–2 xác minh từ luatvietnam.vn |
+| **441040** | **61/2026/TT-BGDĐT** | **17/07/2026** | Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đại học — căn cứ Luật GD 43/2019 (sửa), Luật GDĐH 125/2025, NĐ 279/2026 | Giáo dục / GDĐH | **Hoàn thiện** | ✅ Số hiệu + ngày 17/7/2026 + nội dung Điều 1–2 xác minh từ luatvietnam.vn |
 
 **Lưu ý**: 441105 là dự thảo (`-d10`) → bỏ qua.
 
