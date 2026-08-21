@@ -62,6 +62,25 @@ Theo dõi văn bản pháp luật mới từ luatvietnam.vn.
 - Discovery: 0 PB mới
 - De #1: da complete (discovery v98 report in tmp/)
 ---
+
+## Cap nhat 2026-08-21 10:52 ICT (Crawl v122 - De #3 Full Crawler)
+
+### Hoan thien van ban 326/2026/NĐ-CP (Quy dinh ve dinh danh dia diem)
+
+**File**: `van-ban/326-2026-nd-cp.md`
+
+**Thanh qua**:
+- Lay metadata day du tu luatvietnam.vn (so hieu 326/2026/NĐ-CP, ngay ban hanh 19/08/2026, nguoi ky Pho Thu tuong Ho Quoc Dung (KT. Thu tuong), ngay hieu luc 01/09/2026, trich yeu, can cu phap luat day du 7 can cu, noi nhan day du).
+- Crawl noi dung toan van tu HTML luatvietnam.vn (slug 444603-d1).
+- Kiem tra PDF chu ky so tren datafiles.chinhphu.vn: 403 Forbidden (chua cong khai/khong truy cap duoc).
+- Merge noi dung toan van 18 Dieu, 4 Chuong, 1 Phu luc tu nguon HTML.
+- Chay OCR Quality Gate (theo `documents/OCR_QUALITY_GATE.md`): **OCR issues = 1** (1 false positive "ngay l" trong "ngay lam viec" - van ban dung), **Missing Dieu = []**, **Duplicate Dieu = []**, **Chuong dung thu tu I, II, III, IV**.
+- Commit: `heartbeat/crawl-vanban-20260807` branch.
+
+**Cap nhat trang thai tracking**: 326/2026/NĐ-CP chuyen tu **"Chua co"** sang **"Hoan thien".**
+---
+
+## Cap nhat 2026-08-07 05:30 ICT (Review v98 — De #4)
 ---
 
 ## Cap nhat 2026-08-10 12:26 ICT (Review v108 — De #4)
