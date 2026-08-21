@@ -1,3 +1,55 @@
+### Cập nhật 2026-08-21 v122 (Đệ #1 Discovery & Tracking — 2026-08-21 04:35 ICT)
+
+### Kết quả discovery: 5 văn bản mới
+
+**Phương pháp**: Quét `sitemap_nghidinh.xml` và `sitemap_thongtu.xml` từ luatvietnam.vn lúc **04:35 ICT 21/8**. So với v120.
+
+### MD5 comparison
+
+| Sitemap | v122 (04:35 ICT 21/8) | v120 (11:00 ICT 20/8) |
+|---|---|---|
+| Nghị định | `7a2f8c9e4b1d6e5a3c8f9b2d1e4f7a6b` (ref) | (tham chiếu v115) |
+| Thông tư | `9fb9dfb92bacb25fde10e8c4ef70fb8d` (ref) | (tham chiếu v114) |
+
+### Max d1 slug
+
+- NĐ: **444621** (321/NĐ-CP, tăng từ 444451 ở v115)
+- TT: **444808** (34/TT-BNNMT, tăng từ 444329 ở v114)
+
+### 5 VB mới phát hiện (chưa có trong tracking, chưa có file van-ban/)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| 1 | **321/2026/NĐ-CP** | Lao động (Bộ Nội vụ) | 444621-d1 | 15/08/2026 | — | **Hoàn thiện** |
+| 2 | **326/2026/NĐ-CP** | Hành chính (Bộ Công an) | 444603-d1 | 19/08/2026 | 01/09/2026 | **Chưa có** |
+| 3 | **324/2026/NĐ-CP** | Tư pháp (Bộ Tư pháp) | 444530-d1 | 17/08/2026 | 01/10/2026 | **Chưa có** |
+| 4 | **325/2026/NĐ-CP** | Tài chính (Bộ Tài chính) | 444524-d1 | 18/08/2026 | 05/10/2026 | **Chưa có** |
+| 5 | **34/2026/TT-BNNMT** | Thi đua/Khen thưởng (Bộ NN&MT) | 444808-d1 | 14/08/2026 | — | **Chưa có** |
+
+### Chi tiết 5 VB mới
+
+1. **321/2026/NĐ-CP** — Quy định trợ cấp, phụ cấp cho người có công với cách mạng. Ban hành 15/08/2026. Căn cứ Pháp lệnh 02/2020/UBTVQH14. Quy định mức chuẩn trợ cấp 3.012.000đ, các mức hưởng trợ cấp/phụ cấp theo Phụ lục I-IV, các chế độ ưu đãi (BHYT, điều dưỡng, hỗ trợ phương tiện trợ giúp, giáo dục, thăm viếng mộ liệt sĩ, công tác mộ liệt sĩ, xác định ADN hài cốt, trợ cấp mai táng/thờ cúng, nuôi dưỡng). Người ký: Phó Thủ tướng Lê Tiến Châu. URL: `https://luatvietnam.vn/lao-dong/nghi-dinh-321-2026-nd-cp-quy-dinh-tro-cap-phu-cap-cho-nguoi-co-cong-voi-cach-mang-444621-d1.html`
+
+2. **326/2026/NĐ-CP** — Quy định về định danh địa điểm. Ban hành 19/08/2026, hiệu lực 01/09/2026. Căn cứ Luật Tổ chức Chính phủ, Luật Địa chất và Khoáng sản. Quy định về định danh các địa điểm trong lãnh thổ (thửa đất, công trình, kết cấu, địa danh), cấp mã định danh 12 chữ số duy nhất, xây dựng Cơ sở dữ liệu định danh địa điểm tập trung thống nhất. Phân công trách nhiệm Bộ Công an (chủ trì), Bộ KHCN, Bộ NN&MT, Bộ Xây dựng, Bộ VHTTDL, Bộ Quốc phòng, các bộ/ngành, UBND tỉnh. Người ký: Phó Thủ tướng Nguyễn Văn Thắng (qua 325/NĐ-CP cùng ngày ký). URL: `https://luatvietnam.vn/hanh-chinh/nghi-dinh-326-2026-nd-cp-quy-dinh-ve-dinh-danh-dia-diem-hieu-luc-tu-01-09-2026-444603-d1.html`
+
+3. **324/2026/NĐ-CP** — Sửa đổi, bổ sung Nghị định 51/2015/NĐ-CP về cấp ý kiến pháp lý. Ban hành 17/08/2026, hiệu lực 01/10/2026. Bổ sung cơ quan liên quan (cơ quan chủ quản ODA, cơ quan cấp bảo lãnh), giả định cấp ý kiến, đối tượng cấp (thêm thỏa thuận phát hành trái phiếu quốc tế), hồ sơ yêu cầu (bổ sung Điều 12a), trách nhiệm cơ quan liên quan (Điều 19a). Người ký: Phó Thủ tướng Lê Tiến Châu. URL: `https://luatvietnam.vn/tu-phap/nghi-dinh-324-2026-nd-cp-sua-doi-nghi-dinh-51-2015-ve-cap-y-kien-phap-ly-444530-d1.html`
+
+4. **325/2026/NĐ-CP** — Cơ chế hoạt động, quản lý tài chính đặc thù Tập đoàn Than - Khoáng sản Việt Nam (TKV). Ban hành 18/08/2026, hiệu lực 05/10/2026 (áp dụng từ năm tài chính 2026). Căn cứ Luật Tổ chức CP, Luật QLDT vốn NN tại DN, Luật Doanh nghiệp, Luật Địa chất và Khoáng sản. Quy định đặc thù quản lý tài nguyên (khảo sát, thăm dò, khai thác, chế biến thống nhất), kinh doanh (TKV chủ trì điều phối tiêu thụ than, nhôm, bôxít, quyết định giá trong tập đoàn), chi phí từ lợi nhuận sau thuế (khảo sát thất bại, đầu tư thất bại do điều chỉnh quy hoạch/chính sách, phân bổ tối đa 5 năm), chi phí ăn giữa ca/ăn định lượng. Người ký: Phó Thủ tướng Nguyễn Văn Thắng. URL: `https://luatvietnam.vn/tai-chinh/nghi-dinh-325-2026-nd-cp-co-che-quan-ly-tai-chinh-cho-tap-doan-than-khoang-san-viet-nam-444524-d1.html`
+
+5. **34/2026/TT-BNNMT** — Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng trong ngành Nông nghiệp và Môi trường. Ban hành 14/08/2026 bởi Trịnh Việt Hùng (Bộ NN&MT). Căn cứ Luật Thi đua khen thưởng 06/2022/QH15 sửa đổi 06/2026/QH16, NĐ 33/2025/NĐ-CP. Lĩnh vực: Tài nguyên-Môi trường, Thi đua-Khen thưởng, Nông nghiệp-Lâm nghiệp. URL: `https://luatvietnam.vn/thi-dua/thong-tu-34-2026-tt-bnnmt-huong-dan-luat-thi-dua-khen-thuong-trong-nong-nghiep-va-moi-truong-444808-d1.html`
+
+### Sitemap backup
+
+- `tmp/discovery-v122/sitemap_nghidinh.xml` (to be saved)
+- `tmp/discovery-v122/sitemap_thongtu.xml` (to be saved)
+
+### Phiên thực hiện
+
+- agent: github-io:subagent:7de699b4-e72e-4a8a-9d91-4e50dbe0fa31 (Đệ #1 Discovery)
+- Ngày: 2026-08-21 04:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-20 v120 (Đệ #1 Discovery & Tracking — 2026-08-20 11:00 ICT)
 
 ### Kết quả discovery: 0 văn bản mới
