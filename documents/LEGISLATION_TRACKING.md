@@ -1,3 +1,82 @@
+### Cập nhật 2026-08-22 v123 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-22 09:05 ICT)
+
+### 1. PR Comments Review
+
+**Phương pháp**: `gh pr list --state open` (1 PR) + `gh api repos/.../issues/N/comments` + `pulls/N/comments` + `pulls/N/reviews`.
+
+### Kết quả
+
+| PR | Tiêu đề | State | Issue Cmt | Review Cmt | Reviews | Updated |
+|----|---------|-------|-----------|------------|---------|---------|
+| #264 | Heartbeat crawl-vanban 2026-08-07 → 2026-08-21: NĐ 318/319/320/321/322/323 + hoàn thiện TT 10/45/63/64/65/105/115/117 + 20/2026/TT-BVHTTDL | OPEN | 0 | 0 | 0 | 2026-08-22T01:40Z |
+
+**Phân loại comment**:
+
+- Cần xử lý ngay: 0
+- Chờ Sếp review: 1 (PR #264 — 14 ngày chưa có feedback, 194 commits)
+- Thông báo: 0
+- Đã stale: 0
+
+**Khuyến nghị**: PR #264 đã mở 14 ngày (07/08 → 22/08) với 194 commits. Cần Sếp quyết định merge/close/yêu cầu xử lý tiếp.
+
+### 2. Refactor Scan van-ban/ — File cần refactor
+
+**Tiêu chí chính**: metadata "Đang cập nhật" + < 10KB + lastedit > 7 ngày.
+
+**Kết quả đúng tiêu chí (1 file)**:
+
+| File | Size | Lastedit | Tuổi | Trạng thái |
+|------|------|----------|------|-----------|
+| `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1574 B | 2026-07-23 | 30d | STUB — chờ OCR PDF signed |
+
+**Kết quả mở rộng — File có `status:` stub/chưa hoàn thiện (5 file)**:
+
+| # | File | Size | Lastedit | Tuổi | Status | Mức ưu tiên refactor |
+|---|------|------|----------|------|--------|---------------------|
+| 1 | `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1574 B | 2026-07-23 | 30d | "Đang cập nhật (stub)" | Thấp (archive) |
+| 2 | `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1575 B | 2026-08-04 | 18d | "STUB" — có ghi chú số hiệu có thể sai (slug 441168 là NĐ 291 về thuế) | **Cao** (số hiệu cần xác minh) |
+| 3 | `van-ban/ngan-hang/106-2026-tt-btc-dang-ky-hoat-dong-ngan-hang-chinh-sach-xa-hoi.md` | 18200 B | 2026-08-04 | 18d | "stub" — OCR kém, cần re-OCR hoặc text sạch | Trung bình |
+| 4 | `van-ban/xay-dung/thong-tu-65-2026-tt-bxd-dinh-muc-ktkt-khao-sat-do-sau-hang-hai.md` | 17895 B | 2026-08-20 | 1d | "STUB" — nội dung 17.9KB đã đầy đủ | **Cao** (refactor status sang hoanthien) |
+| 5 | `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` | 24863 B | 2026-08-20 | 2d | "chua-hoanthien" — crawl bị ngắt tại Điều 10 khoản 6 | Trung bình |
+
+### Khuyến nghị hành động
+
+| Mức | Hành động |
+|-----|-----------|
+| **Cao** | (a) Sếp quyết định PR #264. (b) Xác minh/xóa `nghi-quyet-291-2026-nq-tpqh16`. (c) Đổi status `65-2026-tt-bxd` sang hoanthien. |
+| **Trung bình** | Re-OCR `106-2026-tt-btc` (engine cải thiện). Bổ sung `40-2026-tt-nhnn` từ nguồn text đầy đủ. |
+| **Thấp** | Giữ nguyên `86-2026-TT-BTC` (archive, STUB chính thức). |
+
+### 3. OCR Quality Gate — Random 5 văn bản
+
+| # | File | Size | Lines | Articles | Chapters | OCR Issues | Đánh giá |
+|---|------|------|-------|----------|----------|------------|----------|
+| 1 | `van-ban/giao-duc/nghe-nghiep/65-2026-tt-bgddt.md` | 24.9KB | 142 | 1-8 (OK) | 0 | **0** | **OK** |
+| 2 | `van-ban/doanh-nghiep-hop-tac-xa/295-2026-nd-cp.md` | 214.6KB | 1247 | 1-69 (OK) | 6 (I-VI, OK) | **0** | **OK** |
+| 3 | `van-ban/an-ninh-quoc-gia/thong-tu-115-2026-tt-bqp-quy-dinh-bao-ve-bi-mat-nha-nuoc-trong-bo-quoc-phong.md` | 24.9KB | 170 | 1-6 (OK) | 0 | **0** | **OK** |
+| 4 | `van-ban/ngoai-giao-dieu-uoc-quoc-te/thoa-thuan-quoc-te.md` | 288.7KB | 2951 | Format tổng hợp (Điều 23.6.LQ.X / 23.6.TT.X.Y) | — | **0** | **OK** (trang tổng hợp) |
+| 5 | `van-ban/tai-chinh/nghi-dinh-318-2026-nd-cp.md` | 10.5KB | 95 | 1-10 (OK) | 0 | **0** | **OK** |
+
+**Tổng kết OCR Quality Gate**: 5/5 file PASS (100%), không có OCR issues, không missing/duplicate Điều, không sai số La Mã Chương.
+
+### So sánh với review 2026-08-20
+
+| Hạng mục | 2026-08-20 | 2026-08-22 |
+|----------|-----------|-----------|
+| PR open | 1 (#264, 0 comment) | 1 (#264, 0 comment) |
+| File cần refactor (đúng tiêu chí) | 2 | 1 |
+| OCR Gate pass rate | 1/5 (20%) | **5/5 (100%)** |
+
+**Nhận xét**: Sample random đợt này có chất lượng cao hơn (100% pass so với 20% lần trước). Có thể do random chọn vào file mới crawl từ 11-19/08 (65/TT-BGDDT, 295/NĐ-CP, 115/TT-BQP, 318/NĐ-CP) đều đã qua quality gate trước khi commit.
+
+### Phiên thực hiện
+
+- agent: github-io:subagent:377c20c9-1706-45ac-b60c-1a0bfd583bb1 (Đệ #4 Content Reviewer + PR Comment Reviewer)
+- Ngày: 2026-08-22 09:05 ICT Asia/Saigon
+- Branch: `heartbeat/crawl-vanban-20260807` (PR #264 active)
+
+---
+
 ### Cập nhật 2026-08-21 v122 (Đệ #1 Discovery & Tracking — 2026-08-21 04:35 ICT)
 
 ### Kết quả discovery: 5 văn bản mới
