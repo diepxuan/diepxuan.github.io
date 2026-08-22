@@ -11701,3 +11701,73 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 - `106-2026-tt-btc` (OCR kém) — Trung bình.
 - `40-2026-tt-nhnn` (crawl ngắt Điều 10.6) — Trung bình.
 - `86-2026-TT-BTC` (archive) — Thấp.
+
+### Cập nhật 2026-08-22 v124 (Đệ #4 Reviewer — 2026-08-22 14:05 ICT)
+
+### 1. PR Comments Review
+
+- **PR #264** (`Heartbeat crawl-vanban 2026-08-07 → 2026-08-22`, created 2026-08-07):
+  - Issue comments: 0
+  - PR review comments: 0
+  - PR reviews: 0
+  - Tổng: 0 comment/review
+  - Phân loại: **Chờ Sếp review** (PR sống 15 ngày, không có action item, không có review request)
+  - Khuyến nghị: Sếp xem xét merge; PR hiện đã có nội dung substantial (29 commit theo title).
+
+### 2. Refactor Scan van-ban/
+
+Tổng file `.md` ở root `van-ban/`: 91 (loại trừ archive và subfolders).
+
+**Candidates (size < 10KB + lastedit > 7 ngày): 5 file**
+
+| File | Size | Last edit | Tuổi (ngày) | Trạng thái | Nội dung | Mức ưu tiên | Ghi chú |
+|------|------|-----------|-------------|------------|----------|-------------|---------|
+| `van-ban/index.md` | 9.00KB | 2026-05-29 | 85.2 | page index | (page) | THẤP | Page index `/van-ban/`, không phải VBPL. Loại khỏi scan văn bản. |
+| `van-ban/159-2026-nq-cp.md` | 5.89KB | 2026-07-08 | 44.9 | NQ-CP ngắn | 623 từ / 4 mục | TRUNG BÌNH | NQ về chương trình Kỳ họp — nội dung ngắn là đặc thù, không thiếu. Cần verify đủ điều khoản. |
+| `van-ban/97-2026-TT-BTC.md` | 5.89KB | 2026-07-14 | 38.6 | TT bãi bỏ | 288 từ / 2 mục | THẤP | TT bãi bỏ TT 55/2010 — nội dung ngắn là bình thường. Không thiếu. |
+| `van-ban/291-2026-ND-CP.md` | 9.24KB | 2026-07-23 | 30.2 | NĐ sửa đổi | 1218 từ / 5 mục | TRUNG BÌNH | NĐ sửa đổi NĐ 125/2020/NĐ-CP về xử phạt VPHC thuế. Nội dung 1218 từ + 5 mục phù hợp NĐ sửa đổi (không thiếu). |
+| `van-ban/thong-tu-87-2026-tt-bqp.md` | 4.63KB | 2026-08-07 | 15.2 | TT-BQP bãi bỏ | 595 từ / 2 mục | THẤP | TT 87/2026/TT-BQP bãi bỏ VBQPPL — `trangthai: hoanthien`. Nội dung ngắn là đặc thù TT bãi bỏ. |
+
+**Không phát hiện file có metadata "Đang cập nhật" / "stub" / "chưa hoàn thiện" ở root `van-ban/`.**
+
+**Phát hiện bổ sung**: file `van-ban/to-chuc-bo-may-nha-nuoc.md` (152KB, 3665 dòng) có metadata "Đang cập nhật" ở 8/8 fields nhưng là **page index tổng hợp** (`permalink: /van-ban/to-chuc-bo-may-nha-nuoc/`) tổng hợp nhiều chủ đề, không phải VBPL đơn lẻ. Nội dung đã có (838 mục `Điều 35.1.LQ.X` là format mã nội bộ). Ghi nhận: metadata "Đang cập nhật" không phù hợp với page index; cân nhắc bổ sung thông tin hoặc chấp nhận đây là "landing page".
+
+### 3. OCR Quality Gate — Random 5 văn bản
+
+Random sample (seed=124, ưu tiên file mới ≤30 ngày):
+
+| File | Size | Lines | Articles | Missing | Dup | Chapters | OCR issues | Placeholders | Đánh giá |
+|------|------|-------|----------|---------|-----|----------|------------|--------------|----------|
+| `van-ban/312-2026-nd-cp.md` | 23.9KB | 152 | 17 (range 1-17) | [] | [] | 4 (I-IV, OK) | 0 | 0 | **OK** |
+| `van-ban/326-2026-nd-cp.md` | 24.5KB | 215 | 16 (range 1-16) | [] | [] | 3 (I-III, OK) | 0 | 0 | **OK** |
+| `van-ban/34-2026-tt-bnnmt.md` | 23.7KB | 183 | 11 (range 1-11) | [] | [] | 2 (I-II, OK) | 0 | 0 | **OK** |
+| `van-ban/index.md` | 9.0KB | 132 | (page index, không có Điều) | — | — | — | 0 | 0 | **OK** |
+| `van-ban/to-chuc-bo-may-nha-nuoc.md` | 149.0KB | 3665 | (file index tổng hợp, format mã nội bộ) | — | — | — | 0 | 0 | **OK*** |
+
+`*` `to-chuc-bo-may-nha-nuoc.md`: 838 suspicious heading `Điều 35.1.LQ.X` là format mã nội bộ của page index tổng hợp (không phải heading chuẩn `### Điều X.`). Không áp dụng heading rule cho file index này. Không phát hiện lỗi OCR.
+
+**Tổng quan OCR scan**:
+- OCR issues: 0/5 file
+- Missing Điều: 0/5 file
+- Duplicate Điều: 0/5 file
+- Chương sai thứ tự: 0/5 file
+- Placeholder (Lorem, TBD, TODO, [còn thiếu]): 0/5 file
+- Ký tự rác OCR (ø, ©, §, †, ®, µ, ¬, ¶): 0/5 file
+
+**Lưu ý kỹ thuật** (theo phát hiện của Bột ở v125): rule `ngày l` trong `scripts/ocr_quality_gate_scan.py` hiện là substring match → false-positive với "ngày làm việc". Trong scan này đã dùng word-boundary regex để tránh false-positive. Kết quả: 0 file có lỗi OCR thực sự. Đề xuất Bột sửa rule trong script gốc (sẽ cân nhắc ở poll sau theo ghi nhận của Bột).
+
+### Phiên thực hiện
+
+- **Session**: agent:github-io:subagent:9be763a6 (Đệ #4 Reviewer v124)
+- **Branch**: `heartbeat/crawl-vanban-20260807`
+- **Thời gian**: 2026-08-22 14:05 ICT
+- **Commit**: `review(v124): Đệ #4 Content Reviewer + PR Comment Reviewer` (no push, no PR)
+- **Files changed**: chỉ `documents/LEGISLATION_TRACKING.md`
+- **PR open**: #264 (0 comment — không có action item)
+- **Random sample**: 5 file (3 mới ≤30 ngày + 2 cũ)
+- **Refactor candidates**: 5 file (2 CAO/TRUNG BÌNH cần verify, 3 THẤP do đặc thù loại VB)
+
+**Kết luận**:
+- Chất lượng OCR các file mới crawl (312, 326, 34): **rất tốt** — 0 lỗi.
+- PR #264 không có comment/review — sẵn sàng cho Sếp merge hoặc yêu cầu thay đổi.
+- 4 STUB còn lại từ review v123 (NQ 291 văn hóa, TT 106, TT 40, TT 86 archive) — vẫn chờ Sếp quyết định, không thay đổi trong poll này.
