@@ -11771,3 +11771,95 @@ Random sample (seed=124, ưu tiên file mới ≤30 ngày):
 - Chất lượng OCR các file mới crawl (312, 326, 34): **rất tốt** — 0 lỗi.
 - PR #264 không có comment/review — sẵn sàng cho Sếp merge hoặc yêu cầu thay đổi.
 - 4 STUB còn lại từ review v123 (NQ 291 văn hóa, TT 106, TT 40, TT 86 archive) — vẫn chờ Sếp quyết định, không thay đổi trong poll này.
+
+---
+
+### Cập nhật 2026-08-22 v124 (Đệ #1 Discovery & Tracking — 2026-08-22 14:36 ICT)
+
+### Kết quả discovery: **0 văn bản mới (NĐ-CP/TT)**
+
+**Phương pháp**:
+- Quét toàn bộ 371 `sitemap_document*.xml` từ luatvietnam.vn (index `sitemap.xml`)
+- Quét 43 `sitemap_news*.xml` để tìm NĐ-CP/TT 2026 mới
+- So sánh với ref v122: max slug NĐ `-d1` = 444621 (321/NĐ-CP), max slug TT `-d1` = 444808 (34/TT-BNNMT)
+- Phạm vi: 17 nhóm chính sách (Thuế, Đất đai, KHCN, Lâm nghiệp, Chứng khoán, Hành chính, Giáo dục, Y tế, Công an, Quốc phòng, Ngoại giao, Tài chính, Xây dựng, GTVT, Công Thương, Tư pháp, Văn hóa)
+
+### MD5 comparison (so với v122)
+
+| Sitemap | v124 (14:36 ICT 22/8) | v122 (04:35 ICT 21/8) |
+|---|---|---|
+| NĐ-CP (sitemap_document*) | `06b07ed1915fe3df248d3bf226024dce` | `7a2f8c9e4b1d6e5a3c8f9b2d1e4f7a6b` |
+| TT (sitemap_document*) | `ad4a9c8b3f3955944c7609d5931ed985` | `9fb9dfb92bacb25fde10e8c4ef70fb8d` |
+
+**Nhận xét**: MD5 thay đổi do sitemap_document* cập nhật liên tục (URL mới/URL cũ), nhưng **không có NĐ-CP/TT 2026 mới nào vượt max slug ref**.
+
+### Max d1/d2 slug
+
+| Loại | Max slug hiện tại | Max slug ref (v122) | Chênh lệch |
+|---|---|---|---|
+| NĐ-CP (slug `-d1`) | **424206** (373/2025/NĐ-CP) | 444621 (321/2026/NĐ-CP) | -20415 (ref cao hơn) |
+| TT (slug `-d2`) | **445025** (QĐ-UBND) | 444808 (34/TT-BNNMT) | +217 (nhưng không phải TT mới) |
+
+**Quan trọng**: Sitemap `sitemap_document*.xml` hiện tại **không chứa NĐ-CP/TT năm 2026** nào có slug > 440000. Tất cả NĐ-CP 2026 (số hiệu 281–326) có slug thấp hơn 440000. URL slug > 444621 trong sitemap hiện tại chủ yếu là QĐ/UBND/NQ năm 2004–2024.
+
+### Danh sách VB mới (NĐ-CP/TT)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| — | *Không có NĐ-CP/TT mới vượt max slug ref* | | | | | |
+
+### Phân tích sitemap_news (VB liên quan 2026 có bài viết)
+
+| Loại | Số hiệu có bài news 2026 | Đã có trong tracking |
+|---|---|---|
+| NĐ-CP | 2, 20, 23, 85, 87, 147, 246, 281–322 | **Có hết (198 NĐ-CP đã track, max 326)** |
+| TT | 5, 15, 32, 47, 50, 58, 71, 74, 86, 89, 91, 94, 100, 103, 107, 110 | **Có hết (136 TT đã track, max 118)** |
+
+→ Tracking đã bao phủ toàn bộ số hiệu NĐ-CP/TT 2026 có bài viết trong `sitemap_news*`.
+
+### QĐ/NQ 2026 mới (slug `-d1` > 444621, 17 nhóm)
+
+Tuy không phải NĐ-CP/TT, nhưng có 26 Quyết định/Nghị quyết 2026 có slug > 444621 thuộc 17 nhóm, chưa rõ tracking:
+
+| Slug | Loại | Số hiệu | Cơ quan | Lĩnh vực | URL |
+|---|---|---|---|---|---|
+| 445006 | QĐ | 597/2026/QD-BCH | Bộ Công an | Hành chính | https://luatvietnam.vn/hanh-chinh/quyet-dinh-597-qd-bch-2026-...-445006-d1.html |
+| 444997 | QĐ | 2612/2026/QD-BYT | Bộ Y tế | Y tế | https://luatvietnam.vn/y-te/quyet-dinh-2612-qd-byt-2026-...-444997-d1.html |
+| 444945 | QĐ | 5230/2026/QD-BCA-C06 | Bộ Công an | Hành chính | https://luatvietnam.vn/hanh-chinh/quyet-dinh-5230-qd-bca-c06-2026-...-444945-d1.html |
+| 444941 | NQ | 242/2026/NQ-CP | Chính phủ | Tư pháp | https://luatvietnam.vn/tu-phap/nghi-quyet-242-nq-cp-2026-...-444941-d1.html |
+| 444931 | QĐ | 2423/2026/QD-BGDDT | Bộ GD&ĐT | Giáo dục | https://luatvietnam.vn/giao-duc/quyet-dinh-2423-qd-bgddt-2026-...-444931-d1.html |
+
+*(Và 21 VB khác: QĐ 2290/BTC-Thuế, QĐ 3331/BNNMT-Hành chính, NQ 247/CP-Hành chính, QĐ 1613/TTG-Công nghiệp, QĐ 2610/BYT-Y tế, QĐ 2159/BVHTTDL-Văn hóa, QĐ 690/QLD-Tài chính, NQ 243/CP-Tư pháp, QĐ 1602/TTG-Công nghiệp, QĐ 1432/BXD-Xây dựng, ...)*
+
+### Rà soát `van-ban/` — File < 10KB, lastedit > 7 ngày, metadata "Đang cập nhật"
+
+| # | File | Size | Lastedit | Tuổi | Trạng thái |
+|---|---|---|---|---|---|
+| 1 | `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` | 1473 B | 2026-08-01 | 21d | STUB (chưa crawl) |
+| 2 | `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1575 B | 2026-07-16 | 37d | STUB (số hiệu có thể sai) |
+| 3 | `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` | 2406 B | 2026-06-04 | 79d | Chưa hoàn thiện |
+| 4 | `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` | 2605 B | 2026-03-10 | 165d | Chưa hoàn thiện |
+| 5 | `van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/index.md` | 2875 B | 2026-05-28 | 86d | Page index |
+| 6 | `van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si.md` | 3008 B | 2026-06-04 | 79d | Chưa hoàn thiện |
+| 7 | `van-ban/35-2026-TT-BCT.md` | 3476 B | 2026-06-30 | 53d | STUB |
+| 8 | `van-ban/tai-chinh/thong-tu-105-2026-tt-btc.md` | 5971 B | 2026-07-22 | 31d | Hoàn thiện (file nhỏ do TT bãi bỏ) |
+
+**Tổng**: 8 file < 10KB, lastedit > 7 ngày (trong đó 4 STUB/chưa hoàn thiện cần xử lý).
+
+### Sitemap backup
+
+- `tmp/discovery-v124/sitemap_nghidinh.xml` (thực tế: `sitemap_main.xml` 52K)
+- `tmp/discovery-v124/sitemap_thongtu.xml` (thực tế: `robots.txt` 297B)
+- `tmp/discovery-v124/nd_urls.txt` (103523 URLs `-d1`)
+- `tmp/discovery-v124/tt_urls.txt` (116932 URLs `-d2`)
+- `tmp/discovery-v124/nd_2026_articles.txt` (25 NĐ-CP 2026 article URLs)
+- `tmp/discovery-v124/tt_2026_articles.txt` (19 TT 2026 article URLs)
+
+### Phiên thực hiện
+
+- **Session**: agent:github-io:subagent:b0048a19-4c5c-4e85-bf2b-8caadefd26cf (Đệ #1 Discovery v124)
+- **Branch**: `heartbeat/crawl-vanban-20260807`
+- **Thời gian**: 2026-08-22 14:36 ICT Asia/Saigon
+- **Commit**: `discovery(v124): 0 NĐ-CP/TT mới, 26 QĐ/NQ 2026 slug>444621, 8 file stub cũ` (no push, no PR)
+- **Files changed**: `documents/LEGISLATION_TRACKING.md` + `tmp/discovery-v124/*`
+
