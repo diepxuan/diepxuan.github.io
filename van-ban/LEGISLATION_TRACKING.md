@@ -20,12 +20,11 @@ Theo dõi văn bản pháp luật mới từ luatvietnam.vn.
 - Chuong: dung so La Ma, dung thu tu
 - Suspicious headings: toan bo FP (tham chieu cheo)
 
-### Refactor Scan
+### Refactor Scan (2026-08-21)
 
-- File <10KB non-STUB: 48 file — tat ca noi dung hop ly (NQ/ND/TT ngan nhung du noi dung)
-- File "Dang cap nhat": ~150 category pages (layout:page) — khong phai VJs
-- File lastedit > 7 ngay: 173 VB co layout:vanban, on dinh
-- **Ket luan**: Khong can refactor
+- File <10KB + lastedit >7d + "Đang cập nhật": 1 file
+  - `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` -> **Cần refactor/kiểm tra lại**.
+- Ket luan: Phat hien 1 file archive can xem xet.
 
 ### STUB Re-check
 
