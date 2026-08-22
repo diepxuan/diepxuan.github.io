@@ -36,7 +36,7 @@
 | 1 | `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1574 B | 2026-07-23 | 30d | "Đang cập nhật (stub)" | Thấp (archive) |
 | 2 | `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1575 B | 2026-08-04 | 18d | "STUB" — có ghi chú số hiệu có thể sai (slug 441168 là NĐ 291 về thuế) | **Cao** (số hiệu cần xác minh) |
 | 3 | `van-ban/ngan-hang/106-2026-tt-btc-dang-ky-hoat-dong-ngan-hang-chinh-sach-xa-hoi.md` | 18200 B | 2026-08-04 | 18d | "stub" — OCR kém, cần re-OCR hoặc text sạch | Trung bình |
-| 4 | `van-ban/xay-dung/thong-tu-65-2026-tt-bxd-dinh-muc-ktkt-khao-sat-do-sau-hang-hai.md` | 17895 B | 2026-08-20 | 1d | "STUB" — nội dung 17.9KB đã đầy đủ | **Cao** (refactor status sang hoanthien) |
+| 4 | `van-ban/xay-dung/thong-tu-65-2026-tt-bxd-dinh-muc-ktkt-khao-sat-do-sau-hang-hai.md` | 17895 B | 2026-08-22 | 0d | "hoanthien" — refactor status STUB→hoanthien tại poll 22/8 09:59 | — |
 | 5 | `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` | 24863 B | 2026-08-20 | 2d | "chua-hoanthien" — crawl bị ngắt tại Điều 10 khoản 6 | Trung bình |
 
 ### Khuyến nghị hành động
@@ -323,7 +323,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 |---|---|---|---|---|---|---|
 | 1 | **115/2026/TT-BQP** | An ninh quốc gia (Bộ Quốc phòng) | 444329-d1 | 06/08/2026 | — | **Hoàn thiện** |
 | 2 | **64/2026/TT-BXD** | Xây dựng/Thi đua (Bộ Xây dựng) | 444189-d1 | 11/08/2026 | 01/10/2026 | **Hoàn thiện** |
-| 3 | **65/2026/TT-BXD** | Xây dựng/Hàng hải (Bộ Xây dựng) | 444187-d1 | 14/08/2026 | 01/10/2026 | **Chưa có** |
+| 3 | **65/2026/TT-BXD** | Xây dựng/Hàng hải (Bộ Xây dựng) | 444187-d1 | 14/08/2026 | 01/10/2026 | **Hoàn thiện** |
 
 ### Chi tiết 3 VB mới
 
@@ -11666,3 +11666,19 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 
 ---
 **Kết luận:** Chất lượng OCR của các file "Hoàn thiện" mới vẫn còn lỗi hệ thống (đặc biệt là "ngày l"). Cần cập nhật regex cho crawler để tự động fix hoặc yêu cầu re-scan.
+
+### Cập nhật 2026-08-22 v124 (Bột trực tiếp — 2026-08-22 09:59 ICT)
+
+**Thay đổi**:
+- `van-ban/xay-dung/thong-tu-65-2026-tt-bxd-dinh-muc-ktkt-khao-sat-do-sau-hang-hai.md`: refactor status `STUB` → `hoanthien` (nội dung 17.9KB đã đầy đủ, đã verify trong review v123).
+- Bảng tổng hợp: 65/2026/TT-BXD chuyển "Chưa có" → "Hoàn thiện".
+
+**Lý do không spawn đệ**:
+- Thay đổi nhỏ, chỉ sửa metadata + status 1 file.
+- PR #264 đang mở và "sống" (< 24h), commit trực tiếp vào branch active.
+
+**STUB còn lại (theo review v123)**:
+- `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` — STUB, số hiệu có thể sai (slug 441168 là NĐ 291 về thuế, không phải NQ 291 về văn hóa). Cần Sếp quyết định xóa hoặc tìm nguồn đúng.
+- `van-ban/ngan-hang/106-2026-tt-btc-dang-ky-hoat-dong-ngan-hang-chinh-sach-xa-hoi.md` (18.2KB, OCR kém) — trung bình.
+- `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` (24.9KB, crawl ngắt tại Điều 10 khoản 6) — trung bình.
+- `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` — archive, thấp.

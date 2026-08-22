@@ -10,7 +10,7 @@ tags:
   - Định mức kinh tế kỹ thuật
 docid: 65/2026/TT-BXD
 source: luatvietnam.vn
-status: STUB
+status: hoanthien
 ---
 
 # THÔNG TƯ 65/2026/TT-BXD
