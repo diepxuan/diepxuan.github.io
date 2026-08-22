@@ -20,7 +20,7 @@
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
 | 1 | **327/2026/NĐ-CP** | An ninh mạng (Bộ Công an) | 445069-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Chưa có** |
-| 2 | **328/2026/NĐ-CP** | Phòng chống tin giả (Bộ Công an) | 445080-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
+| 2 | **328/2026/NĐ-CP** | Phòng chống tin giả (Bộ Công an) | 445080-d1 | 19/08/2026 | 19/08/2026 | **Hoàn thiện** |
 | 3 | **329/2026/NĐ-CP** | Lực lượng bảo vệ an ninh mạng (Bộ Công an) | 444902-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Chưa có** |
 | 4 | **331/2026/NĐ-CP** | Bảo vệ an ninh mạng cho hệ thống thông tin (Bộ Công an) | 445072-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
 | 5 | **332/2026/NĐ-CP** | Kinh doanh SP/DV an ninh mạng (Bộ Công an) | 444981-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
