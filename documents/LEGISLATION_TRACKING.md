@@ -398,7 +398,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
-| 1 | **320/2026/NĐ-CP** | Hành chính (Bộ Công an) | 444072-d1 | 13/08/2026 | — | **Chưa có** |
+| 1 | **320/2026/NĐ-CP** | Hành chính (Bộ Công an) | 444072-d1 | 13/08/2026 | — | **Hoàn thiện** (poll 22/8 10:59 — đã có file `van-ban/320-2026-nd-cp.md` 25.7KB, 11 Điều 1-11, OCR Quality Gate false-positive ở rule 'ngày l' substring match) |
 | 2 | **318/2026/NĐ-CP** | Tài chính (NHNN) | 443951-d1 | 12/08/2026 | — | **Hoàn thiện** |
 | 3 | **38/2026/TT-NHNN** | Đầu tư/Ngoại hối (NHNN) | 444098-d1 | 31/07/2026 | — | **Hoàn thiện** |
 | 4 | **116/2026/TT-BTC** | Thuế/Thừa hành viên (Bộ Tài chính) | 443985-d1 | 13/08/2026 | [van-ban/tai-chinh/116-2026-tt-btc.md](van-ban/tai-chinh/116-2026-tt-btc.md) | **Hoàn thiện** |
@@ -11682,3 +11682,22 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 - `van-ban/ngan-hang/106-2026-tt-btc-dang-ky-hoat-dong-ngan-hang-chinh-sach-xa-hoi.md` (18.2KB, OCR kém) — trung bình.
 - `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` (24.9KB, crawl ngắt tại Điều 10 khoản 6) — trung bình.
 - `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` — archive, thấp.
+
+### Cập nhật 2026-08-22 v125 (Bột trực tiếp — 2026-08-22 10:59 ICT)
+
+**Thay đổi**:
+- Bảng "4 VB mới phát hiện": **320/2026/NĐ-CP** "Chưa có" → **"Hoàn thiện"**. File đã có sẵn tại `van-ban/320-2026-nd-cp.md` (25.7KB, 11 Điều 1-11, ban hành 13/08/2026).
+
+**Phát hiện**:
+- OCR Quality Gate scan false-positive ở rule `ngày l` (substring match), match cả chuỗi đúng `ngày làm việc`. Kiểm tra thủ công: cả 3 file được memory 21/8 đánh dấu (`320-2026-nd-cp.md`, `dan-quan-tu-ve.md`, `phong-chong-thien-tai.md`) đều có nội dung "ngày làm việc" hợp lệ, không có lỗi OCR thực sự. Tìm kiếm word-boundary trong toàn bộ `van-ban/`: chỉ có 10 matches ở `REVIEW_REPORT_20260818.md` (báo cáo review, không phải nội dung văn bản).
+- Rule `ngày l` trong `scripts/ocr_quality_gate_scan.py` quá rộng, nên sửa thành word-boundary regex để tránh false-positive. **Không sửa trong poll này** vì cần đánh giá tác động các file khác; ghi nhận để xử lý ở poll sau hoặc yêu cầu Sếp.
+
+**Lý do không spawn đệ**:
+- Thay đổi nhỏ, chỉ cập nhật tracking 1 dòng.
+- PR #264 đang mở và "sống" (< 24h), commit trực tiếp vào branch active.
+
+**STUB còn lại (chờ Sếp quyết định)**:
+- `nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` — **Cao** (số hiệu có thể sai).
+- `106-2026-tt-btc` (OCR kém) — Trung bình.
+- `40-2026-tt-nhnn` (crawl ngắt Điều 10.6) — Trung bình.
+- `86-2026-TT-BTC` (archive) — Thấp.
