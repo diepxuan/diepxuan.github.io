@@ -4,6 +4,46 @@ Theo dõi văn bản pháp luật mới từ luatvietnam.vn.
 
 
 
+## Cap nhat 2026-08-23 00:34 ICT (Review v124 — De #4)
+
+### OCR Quality Gate — 5 VB chua gate (uu tien VB moi nhat)
+
+| # | VB | Dieu | Chuong | Dong | OCR Issues | Danh gia |
+|---|----|------|--------|------|------------|----------|
+| 1 | TT 65/2026/TT-BXD (hang hai, dinh muc KTKT) | 4 (1-4) | 2 (I-II) | 188 | 0 | **PASS CLEAN** |
+| 2 | TT 20/2026/TT-BVHTTDL (van hoa, giay phep bao chi) | 20 (1-20) | 5 (I-V) | 301 | 24 FP / 0 that | **PASS CLEAN** (24 false positive "ngày l" trong "ngày làm việc" hợp lệ) |
+| 3 | TT 115/2026/TT-BCA (an ninh hang khong) | 33 (1-33) | 6 (I-VI) | 1653 | 8 FP / 0 that | **PASS CLEAN** (4 FP "ngày làm việc" + 4 "above" trong bản dịch Anh-Việt của biểu mẫu — không phải OCR rác) |
+| 4 | ND 311/2026/ND-CP (vi pham hanh chinh) | 9 (1-9) | 0 | 185 | 0 | **PASS CLEAN** |
+| 5 | ND 286/2026/ND-CP (chinh phu, nhap xuat canh NN) | 15 (1-15) | 3 (I-III) | 169 | 1 FP / 0 that | **PASS CLEAN** (1 FP "ngày làm việc" hợp lệ) |
+
+- Tat ca 5/5: Missing=[], Duplicate=[], OCR issues that = 0
+- 24+8+1 = 33 false positive deu la "ngày l" match "ngày làm việc" (theo OCR_QUALITY_GATE.md section 7.2, lỗi gốc là "ngày l7" → "ngày 17", nhung pattern scan rộng "ngày l" bat ca "ngày làm việc" — can thu hep pattern).
+- File #3 (TT 115): 4 chuoi "above" nam trong bản dịch Anh-Việt của Mẫu/Phu luc song ngu (hành chính hai ngon ngu chinh thuc) — KHONG phai OCR rac, nội dung hai ngon ngu hop le.
+- File #2: 5 Chuong (I-V), 20 Dieu (1-20), dung thu tu.
+- File #3: 6 Chuong (I-VI), 33 Dieu (1-33), dung thu tu.
+- File #5: 3 Chuong (I-III), 15 Dieu (1-15), dung thu tu.
+
+### Refactor Scan (2026-08-23)
+
+- File <10KB + lastedit >7d + "Đang cập nhật": 1 file (khong doi so voi scan 2026-08-21)
+  - `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` -> **Cần refactor/kiểm tra lại** (STUB file, da 30 ngay chua co noi dung).
+- Ket luan: Van con 1 file archive STUB can xem xet. PDF signed tren datafiles.chinhphu.vn co the da duoc OCR o session khac — can Sếp review hoac loai bo khoi archive.
+
+### PR #264 Comments
+
+- `gh pr list --state open` → 1 PR (PR #264)
+- `gh api issues/264/comments` → [] (0 comments)
+- `gh api pulls/264/reviews` → [] (0 reviews)
+- PR tao 2026-08-07 (16 ngay chua review), 200 commits.
+- Can xu ly ngay: 0, Cho Sep: 1 (PR #264 dang mo, 0 comments, can Sep review), Thong bao: 0, Stale: 1 (PR mo qua lau, 16 ngay, can Sep review hoac dong).
+
+### Tong ket
+- OCR Gate 5 VB: ALL PASS CLEAN (0 lỗi that)
+- Refactor: 1 file archive STUB van chua giai quyet (khong doi so voi 2026-08-21)
+- PR #264: 0 comments, 0 reviews, mo 16 ngay → STALE, can Sep review
+- De #1: tiep tuc discovery scan
+---
+
 ## Cap nhat 2026-08-07 05:30 ICT (Review v98 — De #4)
 
 ### OCR Quality Gate — 5 VB chua review

@@ -1,3 +1,101 @@
+### Cập nhật 2026-08-23 v124 (Đệ #1 Discovery & Tracking — 2026-08-23 00:33 ICT)
+
+### Kết quả discovery: 5 văn bản mới (5 NĐ cluster An ninh mạng)
+
+**Phương pháp**: Quét `luatvietnam.vn` (web_search + web_fetch) lúc **00:33 ICT 23/8**. Tập trung vào các nguồn tin văn bản mới ngày 19–22/8/2026. So với ref v123 (22/8 09:05 ICT).
+
+**Phạm vi quét**: Tất cả 17 nhóm chủ đề theo task. Đặc biệt chú ý nhóm An ninh mạng/An ninh quốc gia do phát hiện cụm 7 Nghị định ban hành cùng ngày 19/8/2026 về Luật An ninh mạng 2025.
+
+### MD5 comparison
+
+| Sitemap | v124 (00:33 ICT 23/8) | v123 (09:05 ICT 22/8) |
+|---|---|---|
+| Nghị định | (chưa re-fetch sitemap) | `7a2f8c9e4b1d6e5a3c8f9b2d1e4f7a6b` |
+| Thông tư | (chưa re-fetch sitemap) | `9fb9dfb92bacb25fde10e8c4ef70fb8d` |
+
+**Lưu ý**: Không re-fetch sitemap XML lần này — chỉ dùng web_search + web_fetch để xác minh. Sitemap sẽ được re-fetch ở poll sau nếu cần MD5 mới.
+
+### 5 VB mới phát hiện (chưa có trong tracking, chưa có file van-ban/)
+
+| # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
+|---|---|---|---|---|---|---|
+| 1 | **327/2026/NĐ-CP** | An ninh mạng (Bộ Công an) | 445069-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Chưa có** |
+| 2 | **328/2026/NĐ-CP** | Phòng chống tin giả (Bộ Công an) | 445080-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
+| 3 | **329/2026/NĐ-CP** | Lực lượng bảo vệ an ninh mạng (Bộ Công an) | 444902-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Chưa có** |
+| 4 | **331/2026/NĐ-CP** | Bảo vệ an ninh mạng cho hệ thống thông tin (Bộ Công an) | 445072-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
+| 5 | **332/2026/NĐ-CP** | Kinh doanh SP/DV an ninh mạng (Bộ Công an) | 444981-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
+
+**Còn phát hiện thêm nhưng không thêm vào tracking lần này (đã đạt giới hạn 5)**:
+- **333/2026/NĐ-CP** (445089-d1, 19/8/2026): Quy định chi tiết và biện pháp thi hành Luật An ninh mạng — Bộ Công an
+- **330/2026/NĐ-CP** (445214-d1, 19/8/2026): Xử phạt VPHC trong an ninh mạng và bảo vệ dữ liệu — Bộ Công an
+- **51/2026/TT-BKHCN** (445210-d1, 19/8/2026): Phổ cập dịch vụ viễn thông và đo tốc độ mạng Internet — Bộ KHCN (Vũ Hải Quân ký)
+- **23-QĐ/BCĐ** (444629-d1, 17/8/2026): Bộ chỉ số đánh giá năng lực số — Ban Chỉ đạo CĐS
+- **5205/QĐ-BCA** (445012-d1, 17/8/2026): Danh mục tiêu chuẩn/quy chuẩn kỹ thuật dữ liệu — Bộ Công an
+- **19/2026/TT-BNV** (444898-d1, 20/8/2026): Quản lý CSDL ngành Nội vụ — Bộ Nội vụ
+
+→ Tổng cộng phát hiện **11 văn bản mới**, đã chọn 5 Nghị định An ninh mạng (327/328/329/331/332) làm đại diện cho batch lần này vì đây là cụm chiến lược (hướng dẫn Luật An ninh mạng 116/2025/QH15). Các VB còn lại sẽ được đưa vào poll kế tiếp.
+
+### Chi tiết 5 VB mới
+
+1. **327/2026/NĐ-CP** — Quy định về phòng ngừa, xử lý thông tin và hành vi sử dụng CNTT, mạng máy tính, mạng viễn thông, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng. Ban hành 19/08/2026, **hiệu lực ngay từ ngày ban hành**. Chi tiết Điều 14 Luật An ninh mạng (116/2025/QH15). Quy định: biện pháp phòng ngừa/xử lý, thẩm quyền lực lượng chuyên trách bảo vệ an ninh mạng, trách nhiệm doanh nghiệp trong/ngoài nước cung cấp dịch vụ, cơ chế phối hợp. Đề nghị Bộ trưởng Bộ Công an. URL: `https://luatvietnam.vn/an-ninh-trat-tu/nghi-dinh-327-2026-nd-cp-quy-dinh-ve-an-ninh-mang-va-xu-ly-thong-tin-xam-pham-445069-d1.html`
+
+2. **328/2026/NĐ-CP** — Quy định phòng, chống tin giả, tin sai sự thật. Ban hành 19/08/2026. Quy định: phân loại tin giả/tin sai sự thật, nguyên tắc quản lý nhà nước, hợp tác quốc tế; quy trình xử lý; thẩm quyền trách nhiệm các bộ/cơ quan/UBND. Đối tượng áp dụng rộng: cơ quan tổ chức cá nhân VN; người gốc VN chưa xác định quốc tịch; tổ chức quốc tế, người nước ngoài; DN cung cấp dịch vụ viễn thông/Internet/mạng xã hội; tổ chức/cá nhân nước ngoài liên quan. Đề nghị Bộ trưởng Bộ Công an. URL: `https://luatvietnam.vn/thong-tin/nghi-dinh-328-2026-nd-cp-quy-dinh-phong-chong-tin-gia-tin-sai-su-that-hieu-qua-445080-d1.html`
+
+3. **329/2026/NĐ-CP** — Quy định về lực lượng bảo vệ an ninh mạng. Ban hành 19/08/2026, **hiệu lực ngay từ ngày ban hành**. Theo Điều 4: lực lượng bảo vệ an ninh mạng gồm lực lượng chuyên trách, lực lượng thường trực, lực lượng dự bị. Đề nghị Bộ trưởng Bộ Công an. URL: `https://luatvietnam.vn/an-ninh-quoc-gia/nghi-dinh-329-2026-nd-cp-quy-dinh-ve-luc-luong-bao-ve-an-ninh-mang-cua-chinh-phu-444902-d1.html`
+
+4. **331/2026/NĐ-CP** — Quy định chi tiết Điều 8, 9, 10, 12 Luật An ninh mạng về bảo vệ an ninh mạng cho hệ thống thông tin. Ban hành 19/08/2026. Nội dung: tiêu chí xác định cấp độ hệ thống thông tin; thẩm quyền/trình tự xác định cấp độ; biện pháp/trách nhiệm bảo đảm an ninh mạng theo cấp độ; tiêu chí xác định hệ thống thông tin quan trọng về an ninh quốc gia; kiểm tra an ninh mạng. Đề nghị Bộ trưởng Bộ Công an. URL: `https://luatvietnam.vn/an-ninh-quoc-gia/nghi-dinh-331-2026-nd-cp-bao-ve-an-ninh-mang-cho-he-thong-thong-tin-hieu-qua-445072-d1.html`
+
+5. **332/2026/NĐ-CP** — Quy định chi tiết Điều 28, 29 Luật An ninh mạng về kinh doanh sản phẩm, dịch vụ an ninh mạng. Ban hành 19/08/2026. Nội dung: sản phẩm an ninh mạng (kiểm tra/đánh giá, ...); điều kiện kinh doanh; cấp/cấp đổi/cấp lại/gia hạn/tạm đình chỉ/thu hồi giấy phép; nhập khẩu/xuất khẩu sản phẩm an ninh mạng; kiểm tra hoạt động kinh doanh; trách nhiệm cơ quan/tổ chức/cá nhân. Phân công: Bộ Quốc phòng quản lý về an ninh mạng đối với nhiệm vụ quân sự, quốc phòng; Bộ Công an quản lý đối với các đơn vị QĐND có hoạt động dân sự/kinh tế. Không điều chỉnh hoạt động kinh doanh sản phẩm/dịch vụ mật mã dân sự. URL: `https://luatvietnam.vn/an-ninh-quoc-gia/nghi-dinh-332-2026-nd-cp-quy-dinh-kinh-doanh-san-pham-dich-vu-an-ninh-mang-444981-d1.html`
+
+### Đặc điểm cụm 7 NĐ An ninh mạng (327/328/329/330/331/332/333)
+
+Tất cả đều:
+- Ban hành cùng ngày **19/8/2026** bởi Chính phủ (đề nghị Bộ Công an).
+- Hướng dẫn chi tiết **Luật An ninh mạng 116/2025/QH15** (có hiệu lực từ 1/6/2026).
+- Slug luatvietnam cao hơn hẳn so với các đợt trước: 444902–445089 (so với đợt 318–323 ở slug 443951–444451 ở v115/v122).
+- Đánh dấu một đợt ban hành tập trung để Luật An ninh mạng có đủ hành lang pháp lý triển khai ngay.
+- Hiệu lực từ ngày ban hành (không có khoảng đệm 6 tháng như trước) — cho thấy Chính phủ ưu tiên áp dụng ngay.
+
+### Rà soát van-ban/ — STUB/chưa hoàn thiện (update cho poll 23/8 00:33)
+
+Quét `find van-ban -name "*.md" -size -10k` so với `documents/LEGISLATION_TRACKING.md` hiện tại.
+
+**Các STUB tiềm năng còn tồn tại (theo thứ tự ưu tiên)**:
+
+| # | File | Size | Lastedit | Tuổi | Trạng thái | Hành động khuyến nghị |
+|---|------|------|----------|------|--------|---------------------|
+| 1 | `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1575 B | 2026-08-04 | 19d | **STUB** — ghi chú slug 441168 có thể là NĐ 291 về thuế (không phải NQ 291) | **Cao**: Xác minh/xóa |
+| 2 | `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1574 B | 2026-07-23 | 31d | **STUB** — chờ OCR PDF signed | **Thấp** (archive) |
+| 3 | `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` | 1473 B | 2026-08-20 | 3d | **STUB** — rất nhỏ, slug 443501-d1 cần xác minh nguồn PDF | Trung bình |
+| 4 | `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` | 4711 B | 2026-08-21 | 2d | **STUB** — QCVN 32 đường sắt đô thị metro | Trung bình |
+
+**File <10KB nhưng không phải STUB** (kích thước nhỏ tự nhiên — VB ngắn, bãi bỏ, QĐ hành chính, v.v.):
+- `van-ban/117-2026-TT-BTC.md` (1866 B), `van-ban/159-2026-nq-cp.md` (6034 B), `van-ban/17-2026-tt-bnv.md` (9303 B, ~10KB), `van-ban/20-2026-tt-btc.md` (4944 B), `van-ban/35-2026-TT-BCT.md` (3476 B), `van-ban/46-2026-tt-bkhcn.md` (9062 B), `van-ban/97-2026-TT-BTC.md` (6030 B)
+- `van-ban/chinh-phu/278-2026-ND-CP.md` (9303 B), `van-ban/dat-dai/quyet-dinh-1341-2026-qd-ttg-ho-tro-do-dac-ban-do-dia-chinh.md` (5376 B)
+- `van-ban/dau-tu/thong-tu-63-2026-tt-bxd-dinh-muc-du-toan-xay-dung-tuyen-duong-sat-lao-cai-ha-noi-hai-phong.md` (8098 B), `van-ban/khoa-hoc/46-2026-tt-bkhcn.md` (3757 B)
+- `van-ban/ngoai-giao/07-2026-tt-bng-bai-bo-van-ban-quy-pham-phap-luat.md` (8425 B), `van-ban/ngoai-giao/07-2026-tt-bng.md` (8161 B)
+- `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` (3766 B), `van-ban/quoc-phong/thong-tu-115-2026-tt-bqp.md` (6863 B)
+- `van-ban/tai-chinh/111-2026-tt-btc.md` (5292 B), `van-ban/tai-chinh/114-2026-tt-btc.md` (7892 B), `van-ban/tai-chinh/116-2026-tt-btc.md` (8769 B), `van-ban/tai-chinh/1341-2026-qd-ttg-ho-tro-do-dac-dat-dai.md` (5345 B)
+- `van-ban/tai-chinh/thong-tu-05-2026-tt-nhnn-bao-hiem-tien-gui.md` (4909 B), `van-ban/tai-chinh/thong-tu-05-2026-tt-nhnn.md` (4909 B), `van-ban/tai-chinh/thong-tu-105-2026-tt-btc.md` (5971 B)
+- `van-ban/tai-nguyen-moi-truong/2839-QD-BNNMT-cong-bo-gia-tri-dong-chay-toi-thieu-ha-luu-dap-ho-chua.md` (7547 B)
+- `van-ban/thong-tu-87-2026-tt-bqp.md` (4741 B), `van-ban/xay-dung/thong-tu-60-2026-tt-bxd-phan-cap-tham-quyen-quan-ly-cong-chuc-vien-chuc-bo-xay-dung.md` (8474 B)
+
+### Khuyến nghị cho các subagent tiếp theo
+
+1. **Cao**: Xác minh slug/số hiệu `nghi-quyet-291-2026-nq-tpqh16` (file 1575 B) — có thể là NĐ 291 về thuế, không phải Nghị quyết 291.
+2. **Trung bình**: Re-OCR `48-2026-tt-bkhcn` (1473 B, slug 443501) và `62-2026-tt-bxd-qcvn-32` (4711 B) từ nguồn PDF chính thức.
+3. **Thấp**: Giữ nguyên `86-2026-TT-BTC` (archive).
+4. **Khẩn cấp**: Cụm 7 NĐ An ninh mạng (327–333) cần được crawl ưu tiên trong poll tiếp theo — đây là hành lang pháp lý quan trọng cho Luật An ninh mạng 2025.
+
+### Phiên thực hiện
+
+- agent: github-io:subagent:cc97a6a8-a7f7-407d-a7e8-6464bd827136 (Đệ #1 Discovery & Tracking)
+- Ngày: 2026-08-23 00:33 ICT Asia/Saigon
+- Nguồn: luatvietnam.vn (web_search + web_fetch)
+- Phương pháp: Hạn chế dùng sitemap XML (chỉ lấy max d1 slug tham chiếo), tập trung vào web_search + web_fetch để xác minh từng VB
+
+---
+
 ### Cập nhật 2026-08-22 v123 (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-22 09:05 ICT)
 
 ### 1. PR Comments Review
