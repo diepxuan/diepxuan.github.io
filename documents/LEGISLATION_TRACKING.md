@@ -23,8 +23,8 @@
 | 1 | **321/2026/NĐ-CP** | Lao động (Bộ Nội vụ) | 444621-d1 | 15/08/2026 | — | **Hoàn thiện** |
 | 2 | **326/2026/NĐ-CP** | Hành chính (Bộ Công an) | 444603-d1 | 19/08/2026 | 01/09/2026 | **Hoàn thiện** |
 | 3 | **324/2026/NĐ-CP** | Tư pháp (Bộ Tư pháp) | 444530-d1 | 17/08/2026 | 01/10/2026 | **Hoàn thiện** |
-| 4 | **325/2026/NĐ-CP** | Tài chính (Bộ Tài chính) | 444524-d1 | 18/08/2026 | 05/10/2026 | **Chưa có** |
-| 5 | **34/2026/TT-BNNMT** | Thi đua/Khen thưởng (Bộ NN&MT) | 444808-d1 | 14/08/2026 | — | **Chưa có** |
+| 4 | **325/2026/NĐ-CP** | Tài chính (Bộ Tài chính) | 444524-d1 | 18/08/2026 | 05/10/2026 | **Hoàn thiện** (poll 22/8 07:43) |
+| 5 | **34/2026/TT-BNNMT** | Thi đua/Khen thưởng (Bộ NN&MT) | 444808-d1 | 14/08/2026 | — | **Hoàn thiện** (poll 22/8 07:41) |
 
 ### Chi tiết 5 VB mới
 
@@ -47,6 +47,33 @@
 
 - agent: github-io:subagent:7de699b4-e72e-4a8a-9d91-4e50dbe0fa31 (Đệ #1 Discovery)
 - Ngày: 2026-08-21 04:35 ICT Asia/Saigon
+
+---
+
+### Cập nhật 2026-08-22 v123 (Bột inline poll 09:30 ICT)
+
+Cập nhật trạng thái tracking cho 2 VB đã crawl trong các poll trước nhưng chưa được đánh dấu Hoàn thiện:
+
+- **325/2026/NĐ-CP** → Hoàn thiện (commit `9ee5cca2` 22/8 07:43 ICT, refactor metadata `4ef1678` 22/8 08:39 ICT). OCR Quality Gate: **PASS** (0 issues, 3 Chương I-III, không có heading Điều chuẩn - VB đặc thù quản lý tài chính TKV).
+- **34/2026/TT-BNNMT** → Hoàn thiện (commit `d3193386` 21/8 18:40 ICT, commit gộp `e423bb49` 22/8 07:41 ICT). OCR Quality Gate: **PASS** (0 issues, 11 Điều 1-11, 2 Chương I-II).
+
+Branch: `heartbeat/crawl-vanban-20260807` (PR #264 active, 0 comments, last push 22/8 08:39 ICT)
+
+Không có sub-agent active/recent. Không cần spawn đệ vì:
+- Tracking chỉ thiếu 2 dòng cập nhật trạng thái.
+- Không có văn bản "Chưa có/Chưa hoàn thiện" thực sự còn lại trong hàng đợi crawl.
+- PR #264 đang chờ Sếp review với 30+ commit gần đây.
+
+### STUB tiềm năng (rà soát 22/8 09:30)
+
+Từ review 15/8, các STUB tiềm năng <10KB còn lại:
+
+- `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` (1.6KB, status: Đang cập nhật stub) — đã archive, không ưu tiên.
+- `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` (1.5KB) — file rất nhỏ, cần kiểm tra nguồn luatvietnam (slug 443501-d1) để xác minh.
+- `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` (4.7KB) — file QCVN 32 về đường sắt đô thị metro, có thể cần bổ sung nội dung từ nguồn PDF gốc.
+
+Đánh dấu trong tracking: STUB bền vững (3 file đã biết từ v101). Có thể xử lý ở poll sau nếu có nguồn crawl đáng tin cậy.
+
 
 ---
 
