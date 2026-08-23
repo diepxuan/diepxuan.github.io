@@ -1,3 +1,18 @@
+### Cập nhật 2026-08-23 v129 (Bột trực tiếp — 2026-08-23 17:55 ICT)
+
+**Thay đổi**:
+- STUB **48/2026/TT-BKHCN** "Chưa có" → **"Hoàn thiện"**. File hoàn thiện tại `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` (~51KB, 510 dòng, 24 Điều 1–24, 4 Chương I–IV, Chương II gồm 3 Mục, Phụ lục danh mục 19 biểu mẫu BM-01-CNCL đến BM-19-CNCL).
+
+**OCR Quality Gate (poll này)**:
+- `van-ban/khoa-hoc/48-2026-tt-bkhcn.md`: **PASS** (OCR issues = 0, 24/24 Điều đầy đủ range 1–24 không missing/duplicate, 4/4 Chương đúng thứ tự La Mã I→IV, 3 Mục 1→3).
+
+**Nguồn**:
+- Toàn văn text chuẩn từ luatvietnam.vn (slug/docid 443501-d1 — đã xác minh khớp stub), trích xuất theo cấu trúc DOM (docitem-2 Chương / docitem-3 Mục / docitem-5 Điều / docitem-11 khoản / docitem-12 điểm / docitem-16 điểm lồng sâu).
+- Đối chiếu chéo bản PDF scan chính thức (datafiles.chinhphu.vn, 27,3MB, chữ ký SAO Y Bộ KH&CN 10/08/2026): OCR raw `/tmp/tt48_ocr.txt` (173KB) khớp số hiệu, ngày ban hành 01/08/2026, căn cứ pháp lý, tên Bộ trưởng ký Vũ Hải Quân và toàn bộ cấu trúc Điều/Chương.
+- Xử lý đệ crawler thất bại: r1 chết sau khi tải PDF (poll 16:29), r2 terminated khi còn đang verify chi tiết (poll 17:37); Bột tiếp nhận tài sản /tmp của đệ và hoàn thiện trực tiếp, không spawn lần 3.
+
+**Ghi chú nội dung**: Hiệu lực ngay ngày ban hành 01/08/2026. Bãi bỏ một số nội dung tại TT 36/2025/TT-BKHCN và TT 44/2025/TT-BKHCN. Nội dung chi tiết 19 biểu mẫu chỉ có trong PDF scan chính thức; file Markdown liệt kê danh mục biểu mẫu và dẫn nguồn PDF.
+
 ### Cập nhật 2026-08-23 v128 (Đệ #3 Full Content Crawler — 2026-08-23 15:10 ICT)
 
 **Thay đổi**:
@@ -127,7 +142,7 @@ Quét `find van-ban -name "*.md" -size -10k` so với `documents/LEGISLATION_TRA
 |---|------|------|----------|------|--------|---------------------|
 | 1 | `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1575 B | 2026-08-04 | 19d | **STUB** — ghi chú slug 441168 có thể là NĐ 291 về thuế (không phải NQ 291) | **Cao**: Xác minh/xóa |
 | 2 | `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1574 B | 2026-07-23 | 31d | **STUB** — chờ OCR PDF signed | **Thấp** (archive) |
-| 3 | `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` | 1473 B | 2026-08-20 | 3d | **STUB** — rất nhỏ, slug 443501-d1 cần xác minh nguồn PDF | Trung bình |
+| 3 | `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` | ~51KB | 2026-08-23 | 0d | **Hoàn thiện v129** — đã crawl toàn văn từ luatvietnam (443501-d1), đối chiếu PDF scan SAO Y | Đã xử lý |
 | 4 | `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` | 4711 B | 2026-08-21 | 2d | **STUB** — QCVN 32 đường sắt đô thị metro | Trung bình |
 
 **File <10KB nhưng không phải STUB** (kích thước nhỏ tự nhiên — VB ngắn, bãi bỏ, QĐ hành chính, v.v.):
@@ -144,7 +159,7 @@ Quét `find van-ban -name "*.md" -size -10k` so với `documents/LEGISLATION_TRA
 ### Khuyến nghị cho các subagent tiếp theo
 
 1. **Cao**: Xác minh slug/số hiệu `nghi-quyet-291-2026-nq-tpqh16` (file 1575 B) — có thể là NĐ 291 về thuế, không phải Nghị quyết 291.
-2. **Trung bình**: Re-OCR `48-2026-tt-bkhcn` (1473 B, slug 443501) và `62-2026-tt-bxd-qcvn-32` (4711 B) từ nguồn PDF chính thức.
+2. **Trung bình**: Re-OCR `62-2026-tt-bxd-qcvn-32` (4711 B) từ nguồn PDF chính thức. (`48-2026-tt-bkhcn` đã hoàn thiện tại v129.)
 3. **Thấp**: Giữ nguyên `86-2026-TT-BTC` (archive).
 4. **Khẩn cấp**: Cụm 7 NĐ An ninh mạng (327–333) cần được crawl ưu tiên trong poll tiếp theo — đây là hành lang pháp lý quan trọng cho Luật An ninh mạng 2025.
 
@@ -777,7 +792,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 | 2 | **40/2026/TT-NHNN** | Tài chính (NHNN) | 443628-d1 | 10/08/2026 | — | **Chưa có** |
 | 3 | **23/2026/TT-BVHTTDL** | Văn hóa (BVHTTDL) | 443556-d1 | 06/08/2026 | 21/09/2026 | **Chưa có** |
 | 4 | **136/2026/TT-BCA** | Hành chính/Công an | 443478-d1 | 22/07/2026 | 01/08/2026 | **Chưa có** |
-| 5 | **48/2026/TT-BKHCN** | Khoa học-Công nghệ | 443501-d1 | 01/08/2026 | — | **Chưa có** |
+| 5 | **48/2026/TT-BKHCN** | Khoa học-Công nghệ | 443501-d1 | 01/08/2026 | 01/08/2026 | **Hoàn thiện** (v129) |
 | 6 | **17/2026/TT-BNV** | Lao động/BHXH | 443343-d1 | 31/07/2026 | 01/10/2026 | **Chưa có** |
 | 7 | **281/2026/NĐ-CP** | Sửa đổi NĐ 123/2024 về xử phạt hành chính đất đai | 218863 | 13/07/2026 | 31/08/2026 | **Hoàn thiện** |
 
@@ -791,7 +806,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 
 4. **136/2026/TT-BCA** — Quy định danh mục sản phẩm khai thác, sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư. Ban hành 22/07/2026 bởi Bộ Công an. Hiệu lực 01/08/2026. 5 Điều. Thay thế Thông tư 08/2022/TT-BCA. 9 loại sản phẩm khai thác (SPDC01-SPDC09). URL: `https://luatvietnam.vn/hanh-chinh/thong-tu-136-2026-tt-bca-danh-muc-san-pham-khai-thac-tu-co-so-du-lieu-quoc-gia-ve-dan-cu-443478-d1.html`
 
-5. **48/2026/TT-BKHCN** — Quy định trình tự, thủ tục xét tài trợ, đặt hàng và ký hợp đồng thực hiện nhiệm vụ nghiên cứu và phát triển công nghệ chiến lược thuộc Chương trình KHCN&ĐMST quốc gia. Ban hành 01/08/2026 bởi Bộ Khoa học và Công nghệ. Ký bởi Vũ Hải Quân. Nội dung đang cập nhật trên luatvietnam.vn. URL: `https://luatvietnam.vn/khoa-hoc/thong-tu-48-2026-tt-bkhcn-quy-dinh-xet-tai-tro-va-ky-hop-dong-nghien-cuu-cong-nghe-443501-d1.html`
+5. **48/2026/TT-BKHCN** — Quy định trình tự, thủ tục xét tài trợ, đặt hàng và ký hợp đồng thực hiện nhiệm vụ nghiên cứu và phát triển công nghệ chiến lược thuộc Chương trình KHCN&ĐMST quốc gia đặc biệt về công nghệ chiến lược. Ban hành 01/08/2026 bởi Bộ Khoa học và Công nghệ, hiệu lực ngay ngày ban hành. Ký bởi Bộ trưởng Vũ Hải Quân. 24 Điều, 4 Chương (Chương II gồm 3 Mục), Phụ lục 19 biểu mẫu BM-01-CNCL đến BM-19-CNCL. File: `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` (Hoàn thiện v129). URL: `https://luatvietnam.vn/khoa-hoc/thong-tu-48-2026-tt-bkhcn-quy-dinh-xet-tai-tro-va-ky-hop-dong-nghien-cuu-cong-nghe-443501-d1.html`
 
 6. **17/2026/TT-BNV** — Ban hành đơn giá dịch vụ sự nghiệp công sử dụng Quỹ bảo hiểm thất nghiệp. Ban hành 31/07/2026 bởi Bộ Nội vụ. Hiệu lực 01/10/2026. 5 Điều. Thay thế Thông tư 17/2025/TT-BNV. Ký bởi Thứ trưởng Nguyễn Mạnh Khương. 5 nhóm đơn giá theo tỉnh/thành phố. URL: `https://luatvietnam.vn/lao-dong/thong-tu-17-2026-tt-bnv-don-gia-dich-vu-su-nghiep-cong-tu-quy-bao-hiem-that-nghiep-443343-d1.html`
 
