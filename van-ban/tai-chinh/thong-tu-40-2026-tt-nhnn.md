@@ -10,7 +10,7 @@ co_quan_ban_hanh: "Ngân hàng Nhà nước Việt Nam"
 ngay_ban_hanh: "2026-08-10"
 ngay_hieu_luc: "2026-11-01"
 trich_yeu: "Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động quỹ tín dụng nhân dân (tỷ lệ an toàn vốn tối thiểu 8%, tỷ lệ khả năng chi trả ≥100%, hạn chế cho vay)"
-can_cu_phap_luat: "Luật Các tổ chức tín dụng 32/2024"
+can_cu_phap_luat: "Luật Ngân hàng Nhà nước Việt Nam 46/2010/QH12; Luật Các tổ chức tín dụng 32/2024/QH15 (sửa đổi, bổ sung bởi Luật số 96/2025/QH15); Luật Hợp tác xã 17/2023/QH15; Nghị định 26/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 198/2026/NĐ-CP)"
 status: "hoanthien"
 source: "luatvietnam.vn slug 443628-d1; datafiles.chinhphu.vn"
 ---
@@ -37,6 +37,14 @@ Hà Nội, ngày 10 tháng 8 năm 2026
 
 **THÔNG TƯ**
 **Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân**
+
+Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12;
+
+Căn cứ Luật Các tổ chức tín dụng số 32/2024/QH15 được sửa đổi, bổ sung bởi Luật số 96/2025/QH15;
+
+Căn cứ Luật Hợp tác xã số 17/2023/QH15;
+
+Căn cứ Nghị định số 26/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam được sửa đổi, bổ sung bởi Nghị định số 198/2026/NĐ-CP;
 
 Theo đề nghị của Cục trưởng Cục An toàn hệ thống các tổ chức tín dụng; Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân.
 

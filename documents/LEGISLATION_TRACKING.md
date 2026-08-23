@@ -1,3 +1,23 @@
+### Cập nhật 2026-08-23 v135 (Đệ #3 cleanup — dọn trùng lặp 40/2026/TT-NHNN — 2026-08-23 23:08 ICT)
+
+**Quyết định giữ/xóa**:
+- **GIỮ**: `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` — file tracking chính thức, đã hoàn thiện + PASS Quality Gate tại v130, đã đối chiếu chéo nguồn text chuẩn luatvietnam.vn (slug/docid 443628-d1) và PDF chữ ký số chính thức datafiles.chinhphu.vn.
+- **XÓA**: `van-ban/tai-chinh/40-2026-tt-nhnn.md` — bản crawl cũ hơn (commit `ec7254b4`, 13/08), trùng toàn bộ nội dung pháp lý.
+
+**Kết quả diff 2 file trước khi dọn**:
+- Cả hai bản đủ **16/16 Điều range 1–16**, Missing = [], Duplicate = [], 4/4 Chương I–IV đúng thứ tự La Mã; OCR issues = 0 ở cả hai.
+- So sánh từng Điều (chuẩn hóa whitespace): Điều 1–16 nội dung thực chất giống hệt nhau. Khác biệt chỉ là định dạng trình bày: bản mới dùng dấu ngoặc kép cong “Có”/“Nợ” (đúng theo luatvietnam), bản cũ dùng ngoặc kép thẳng "Có"; bản cũ thừa dòng trắng giữa các đoạn và heading Chương/Mục không có prefix `##` (`QUY ĐỊNH CỤ THỂ`, `TRÁCH NHIỆM CỦA ĐƠN VỊ...`, `ĐIỀU KHOẢN THI HÀNH`) — bản mới đã chuẩn hóa heading. Công thức tỷ lệ viết khác ký hiệu nhưng cùng giá trị toán học: `Vốn tự có × 100 / Tổng tài sản rủi ro` ↔ `(Vốn tự có / Tổng tài sản rủi ro) x 100`.
+- **Nội dung unique của bản cũ đã hợp nhất vào bản giữ** trước khi xóa:
+  1. Khối căn cứ pháp luật 4 dòng trong phần mở đầu văn bản (Căn cứ Luật NHNN 46/2010/QH12; Luật Các TCTD 32/2024/QH15 sửa đổi bởi Luật 96/2025/QH15; Luật HTX 17/2023/QH15; Nghị định 26/2025/NĐ-CP sửa đổi bởi NĐ 198/2026/NĐ-CP) — bản mới trước đó chỉ còn dòng "Theo đề nghị..." do crawl bị ngắt đầu trang.
+  2. Metadata front matter: làm đầy đủ trường `can_cu_phap_luat` với chuỗi căn cứ đầy đủ như bảng THÔNG TIN VĂN BẢN của bản cũ.
+
+**Tham chiếu đường dẫn tới file bị gỡ**: grep toàn repo `_pages`, `_posts`, `_data`, `_includes`, `_layouts`, `documents` — không có tham chiếu chức năng nào tới `40-2026-tt-nhnn.md`; các nhắc đến duy nhất nằm trong tài liệu lịch sử (`documents/LEGISLATION_TRACKING.md` các block v124–v130 ghi chú trùng lặp, `review_report_20260822.md` lịch sử) — giữ nguyên vì là log lịch sử, không phải link site.
+
+**OCR Quality Gate sau hợp nhất**:
+- `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md`: **PASS** (OCR issues = 0; 16/16 Điều range 1–16, Missing = [], Duplicate = []; 4/4 Chương I–IV đúng thứ tự; khối căn cứ pháp luật đã đủ 4 dòng; git diff --check pass).
+
+**Trạng thái trùng lặp 40/2026/TT-NHNN: ĐÃ XỬ LÝ xong** (không còn chờ Sếp quyết định — quyết định giữ/xóa thực hiện theo quy trình cleanup v134, file trùng đã gỡ khỏi branch).
+
 ### Cập nhật 2026-08-23 v134 (Đệ #3 Full Content Crawler — dọn trùng lặp — 2026-08-23 22:45 ICT)
 
 **Thay đổi**:
