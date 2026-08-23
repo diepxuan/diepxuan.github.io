@@ -1,3 +1,11 @@
+### Cập nhật 2026-08-24 v143 — Đệ #3 Full Content Crawler (crawl 38/2026/NQ-CP — 03:35 ICT)
+
+- **38/2026/NQ-CP**: tạo mới `van-ban/ngoai-giao/38-2026-nq-cp.md`, chuyển trạng thái **"Chưa có (chờ crawl)" → "Hoàn thiện"**. File ~38,4KB / 679 dòng: front matter đầy đủ (layout vanban, title, so_hieu, ngay_ban_hanh 20/08/2026, nguoi_ky Phạm Gia Túc — Thường trực Ban Bí thư ký thay Thủ tướng, ngay_hieu_luc 20/08/2026, bo_phan_ban_hanh Chính phủ, loai_van_ban Nghị quyết, linh_vuc Đối ngoại + APEC 2027, group ngoai-giao, docid "219264"), toàn văn Nghị quyết **24 Điều / 5 Chương** (range Điều 1–24, Missing [], Duplicate []) + khối Nơi nhận + chữ ký TM. CHÍNH PHỦ / Phạm Gia Túc.
+- **Nguồn**: trang văn bản [docid 219264](https://vanban.chinhphu.vn/?pageid=27160&docid=219264); PDF signed `https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/8/38_2026_nq-cp_20082026-signed.signed.pdf` — **8,63MB / 19 trang** (đạt ngưỡng ≥0,1MB; PDF thuần ảnh, pdftotext chỉ trả 370 byte nên bắt buộc OCR).
+- **Phương pháp**: OCR bằng `scripts/ocr_pdf.py` (pdftoppm 150 DPI + tesseract `-l vie`, cả 19/19 trang đều >5KB không bị skip). Điểm nghi ngờ được re-check bằng OCR độc lập 300 DPI theo từng trang (p3–p6, p10, p16–p18); một xung đột đọc chữ tại điểm d) khoản 1 Điều 12 ("Chi ăn") được phân xử bằng phân tích connected-component pixel vùng dấu trên chữ "i" so với mẫu chuẩn trong cùng trang (đa số lần đọc + hình học đều khớp "Chi ăn", đối chiếu baochinhphu.vn cũng dùng "chi").
+- **Đối chiếu nguồn phụ**: metadata khớp vanban.chinhphu.vn (ngày ban hành = ngày hiệu lực 20-08-2026, loại Nghị quyết, người ký Phạm Gia Túc); nội dung khớp bài [baochinhphu.vn 22/08/2026](https://baochinhphu.vn/quy-dinh-che-do-muc-dai-tho-cho-dai-bieu-tham-du-cac-hoi-nghi-trong-nam-apec-2027-102260822200513411.htm) (kin phí ngân sách nhà nước theo phân cấp; hưởng một mức cao nhất; đề xuất chế độ phát sinh trong Đề án tổ chức; trách nhiệm cơ quan chủ trì đúng đối tượng/tiêu chuẩn/định mức).
+- **OCR Quality Gate: PASS** — scan lỗi OCR: **0 issues** (không ký tự rác ø©§†®µ¬¶, không heading sai, không chuỗi cấm/ghi chú crawler); scan Điều: 24/24, Missing [], Duplicate [], không suspicious heading; scan Chương: I→V đúng thứ tự La Mã, không trùng/sai; `git diff --check`: pass. Số tiền/mức chi chủ chốt đã verify 300 DPI (Gala Dinner 6.000.000; giải khát họp 660.000; TTB chí ăn 600.000/giải khát 350.000; đài thọ khách sạn tối đa 03/05 đêm; SOM giải khát 320.000).
+
 ### Cập nhật 2026-08-24 v142 — Đệ #1 Discovery & Tracking (quét vanban.chinhphu.vn he-thong-van-ban — 2026-08-24 02:50 ICT)
 
 **Phương pháp (điểm mới so với các lần trước)**:
@@ -9,7 +17,7 @@
 
 | # | Số hiệu | Chủ đề | Docid | Ngày BH | PDF signed | Trạng thái |
 |---|---------|--------|-------|---------|------------|------------|
-| 1 | **38/2026/NQ-CP** | Đối ngoại / APEC 2027 (Chính phủ) | [219264](https://vanban.chinhphu.vn/?pageid=27160&docid=219264) | 20/08/2026 | `cpp/files/vbpq/2026/8/38_2026_nq-cp_20082026-signed.signed.pdf` | **Chưa có (chờ crawl)** |
+| 1 | **38/2026/NQ-CP** | Đối ngoại / APEC 2027 (Chính phủ) | [219264](https://vanban.chinhphu.vn/?pageid=27160&docid=219264) | 20/08/2026 | `cpp/files/vbpq/2026/8/38_2026_nq-cp_20082026-signed.signed.pdf` | **Hoàn thiện (v143)** |
 | 2 | **43/2026/TT-BCT** | Công Thương / Thi đua khen thưởng (Bộ Công Thương) | [219245](https://vanban.chinhphu.vn/?pageid=27160&docid=219245) | 14/08/2026 | `cpp/files/vbpq/2026/8/43-tt-btc.signed.pdf` | **Chưa có (chờ crawl)** |
 | 3 | **42/2026/QĐ-TTg** | Môi trường / Kiểm kê khí nhà kính (Thủ tướng CP) | [219154](https://vanban.chinhphu.vn/?pageid=27160&docid=219154) | 10/08/2026 | `cpp/files/vbpq/2026/8/42_2026_qd-ttg_10082026-signed.signed.pdf` (+`..._1-signed.pdf`) | **Chưa có (chờ crawl)** |
 | 4 | **37/2026/NQ-CP** | Giáo dục / Cơ cấu hiệu trưởng (Chính phủ) | [219130](https://vanban.chinhphu.vn/?pageid=27160&docid=219130) | 05/08/2026 | `cpp/files/vbpq/2026/8/37_2026_nq-cp_05082026-signed.signed.pdf` | **Chưa có (chờ crawl)** |
