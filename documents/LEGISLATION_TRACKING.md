@@ -1,3 +1,19 @@
+### Cập nhật 2026-08-23 v128 (Đệ #3 Full Content Crawler — 2026-08-23 15:10 ICT)
+
+**Thay đổi**:
+- Bảng "5 VB mới phát hiện" (poll v124 23/8): **332/2026/NĐ-CP** "Chưa có" → "Hoàn thiện". File mới tạo tại `van-ban/an-ninh-quoc-gia/332-2026-nd-cp.md` (~94KB, 341 dòng).
+
+**OCR Quality Gate (poll này)**:
+- `van-ban/an-ninh-quoc-gia/332-2026-nd-cp.md`: **PASS** (OCR issues = 0, 22/22 Điều đầy đủ range 1–22 không missing/duplicate, 4/4 Chương đúng thứ tự La Mã I→IV, Phụ lục I 12 mẫu + Phụ lục II bảng 25 sản phẩm/hàng hóa 5 nhóm).
+
+**Nguồn**:
+- PDF chữ ký số chính thức datafiles.chinhphu.vn: `cpp/files/vbpq/2026/8/332_2026_nd-cp_19082026-signed.signed.pdf` (21.2MB, 53 trang, ký 21/08/2026), OCR 53/53 trang (pdftoppm 150 DPI + tesseract vie).
+- Đối chiếu chéo text chuẩn luatvietnam.vn (slug 444981-d1) cho toàn bộ Điều 1–22 và 2 Phụ lục; OCR raw chỉ dùng để kiểm chứng.
+
+**Nội dung chính**: Nghị định quy định kinh doanh sản phẩm, dịch vụ an ninh mạng (thực thi khoản 3 Điều 28, khoản 3 Điều 29 Luật An ninh mạng 116/2025/QH15): 4 Chương — Quy định chung (Điều 1–5: định danh 5 nhóm sản phẩm, 8+4 nhóm dịch vụ); Điều kiện kinh doanh (Điều 6–8); Cấp/cấp đổi/cấp lại/gia hạn/tạm đình chỉ/thu hồi giấy phép kinh doanh + xuất nhập khẩu (Điều 9–15); Trách nhiệm và kiểm tra (Điều 16–19); Điều khoản thi hành (Điều 20–22). Giấy phép kinh doanh thời hạn 10 năm, gia hạn 1 lần tối đa 03 năm; giấy phép XNK theo lô, thời hạn 02 năm. Hiệu lực 19/08/2026, Phó Thủ tướng Phạm Gia Túc ký.
+
+**Tiến độ cụm 5 NĐ An ninh mạng**: **5/5 Hoàn thiện** (327, 328, 329, 331, 332/NĐ-CP).
+
 ### Cập nhật 2026-08-23 v127 (Bột trực tiếp — 2026-08-23 13:15 ICT)
 
 **Thay đổi**:
@@ -68,7 +84,7 @@
 | 2 | **328/2026/NĐ-CP** | Phòng chống tin giả (Bộ Công an) | 445080-d1 | 19/08/2026 | 19/08/2026 | **Hoàn thiện** |
 | 3 | **329/2026/NĐ-CP** | Lực lượng bảo vệ an ninh mạng (Bộ Công an) | 444902-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Hoàn thiện** |
 | 4 | **331/2026/NĐ-CP** | Bảo vệ an ninh mạng cho hệ thống thông tin (Bộ Công an) | 445072-d1 | 19/08/2026 | 19/08/2026 | **Hoàn thiện** |
-| 5 | **332/2026/NĐ-CP** | Kinh doanh SP/DV an ninh mạng (Bộ Công an) | 444981-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
+| 5 | **332/2026/NĐ-CP** | Kinh doanh SP/DV an ninh mạng (Bộ Công an) | 444981-d1 | 19/08/2026 | 19/08/2026 | **Hoàn thiện** |
 
 **Còn phát hiện thêm nhưng không thêm vào tracking lần này (đã đạt giới hạn 5)**:
 - **333/2026/NĐ-CP** (445089-d1, 19/8/2026): Quy định chi tiết và biện pháp thi hành Luật An ninh mạng — Bộ Công an
