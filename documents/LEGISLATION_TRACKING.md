@@ -1,3 +1,16 @@
+### Cập nhật 2026-08-23 v133 (Đệ crawl 112/2026/TT-BQP — 2026-08-23 22:20 ICT)
+
+**Thay đổi**:
+- **112/2026/TT-BQP**: "Chưa có (chờ crawl)" → **"Hoàn thiện"**. File mới `van-ban/quoc-phong/112-2026-tt-bqp.md` (40,9KB / 619 dòng): toàn văn Thông tư Hướng dẫn thực hiện công tác điều ước quốc tế thuộc phạm vi quản lý của Bộ Quốc phòng — 60 Điều, 10 Chương I–X, 7 Mục (Mục 1–7 thuộc Chương II). Metadata: ban hành 31/07/2026, hiệu lực 15/09/2026 (Điều 59), người ký Thượng tướng Nguyễn Trường Thắng (KT. Bộ trưởng, Thứ trưởng), docid 443237-d1. Điều 59 đồng thời chấm dứt hiệu lực Thông tư 95/2015/TT-BQP.
+
+**OCR Quality Gate**:
+- `van-ban/quoc-phong/112-2026-tt-bqp.md`: **PASS thực chất** (1 hit duy nhất là false-positive pattern "ngày l" — substring của "ngày làm việc" và "ngày nhận được", đã ghi nhận tại v125; 60/60 Điều range 1–60, Missing = [], Duplicate = [], suspicious headings = 0; Chương I→X đúng thứ tự La Mã, không trùng/lệch; Mục 1→7 đủ; đã sửa 1 lỗi nguồn: tiêu đề Chương V nguồn bị dính chữ "ĐỀ XUẤTTHỰC HIỆN" → chuẩn hóa "ĐỀ XUẤT THỰC HIỆN" đối chiếu Chương VI cùng cấu trúc; loại bỏ hoàn toàn chuỗi UI "Đang theo dõi" của luatvietnam khỏi nội dung; git diff --check pass).
+
+**Nguồn** (đối chiếu chéo):
+- luatvietnam.vn slug/docid 443237-d1: toàn văn 246 khối nội dung DOM demuc (text chuẩn, không OCR) cho toàn bộ Điều 1–60 + Nơi nhận + ký tên.
+- vanban.chinhphu.vn (docid=219930): xác nhận số hiệu 112/2026/TT-BQP, loại văn bản Thông tư, người ký Nguyễn Trường Thắng, trích yếu khớp. Trang render SPA nên không lấy được text trực tiếp; PDF datafiles.chinhphu.vn thử các tên file phổ biến (112-bqp.pdf, 112-bqp.signed.pdf, tt-112-bqp.pdf tại /vbpq/2026/7/) đều 404.
+- Hiệu lực 15/09/2026 xác minh từ Điều 59 toàn văn (nguồn gốc luatvietnam khớp bản mirror r.jina.ai).
+
 ### Cập nhật 2026-08-23 v132 (Bột trực tiếp — 2026-08-23 21:29 ICT)
 
 **Thay đổi**:
@@ -869,7 +882,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 - 313/2026/NĐ-CP (443329-d1): Đã có — "Chưa có (chờ crawl)" (v107)
 - 311/2026/NĐ-CP (443102-d1): Đã hoàn thiện (v105)
 - 46/2026/TT-BKHCN: Đã có — "Chưa có (chờ crawl)" (v103); lưu ý repo đang có 2 file trùng cho 46 cần dọn riêng. 47/2026/TT-BKHCN: Đã hoàn thiện (v132)
-- 112/2026/TT-BQP: Đã có — "Chưa có (chờ crawl)" (v103)
+- 112/2026/TT-BQP: Đã hoàn thiện (v133)
 - 39/TT-NHNN, 63/TT-BXD, 45/TT-BKHCN: Đã hoàn thiện (v106)
 
 ### Phiên thực hiện
@@ -11809,7 +11822,7 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 |---|--------|----------|------|------------|
 | 1 | 46/2026/TT-BKHCN | khoa-hoc | 443235-d1 | Chưa có (chờ crawl) |
 | 2 | 47/2026/TT-BKHCN | khoa-hoc | 443236-d1 | **Hoàn thiện** (v132) |
-| 3 | 112/2026/TT-BQP | quoc-phong | 443237-d1 | Chưa có (chờ crawl) |
+| 3 | 112/2026/TT-BQP | quoc-phong | 443237-d1 | **Hoàn thiện** (v133) |
 
 #### Discovery v107 — bổ sung 2 NĐ mới (21:09 ICT 9/8, lastmod sitemap 18:08 ICT)
 
