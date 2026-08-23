@@ -1,3 +1,40 @@
+### Cập nhật 2026-08-24 v138 — Đệ #3 Full Content Crawler (crawl 118/2026/TT-BTC chuẩn mực kế toán quốc tế — 2026-08-24 00:33 ICT)
+
+**Thay đổi**:
+- **118/2026/TT-BTC**: tạo mới `van-ban/tai-chinh/118-2026-tt-btc.md`, chuyển trạng thái **"Chưa có (chờ crawl)" → "Hoàn thiện"**. File ~8,9KB / 194 dòng: front matter đầy đủ (layout vanban, title, so_hieu, ngay_ban_hanh 18/08/2026, nguoi_ky Tạ Anh Tuấn, ngay_hieu_luc 01/01/2027, bo_phan_ban_hanh Bộ Tài chính, linh_vuc Kế toán, group tai-chinh, docid 219262), toàn văn Thông tư 7 Điều / 3 Chương + khối Nơi nhận + chữ ký KT. BỘ TRƯỞNG THỨ TRƯỞNG Tạ Anh Tuấn.
+
+**Metadata đối chiếu nguồn (vanban.chinhphu.vn docid 219262)**:
+- Số hiệu: 118/2026/TT-BTC; ngày ban hành 18-08-2026; ngày hiệu lực **01-01-2027**; người ký **Tạ Anh Tuấn**; cơ quan ban hành Bộ Tài chính.
+- Trích yếu: Hướng dẫn đối tượng, phạm vi và thể thức áp dụng Chuẩn mực quốc tế về kế toán tại Việt Nam.
+- PDF đính kèm chính thức: `cpp/files/vbpq/2026/8/118-btc.signed.pdf` (0,4MB, 4 trang scan, chữ ký số CAdES ký bởi BỘ TÀI CHÍNH 20/08/2026 + Cục TT&TT Chính phủ 22/08/2026).
+
+**Nguồn & pipeline**:
+- OCR Signed PDF Pipeline: scripts/ocr_pdf.py (pdftoppm 150 DPI PNG + tesseract vie), output ~9,6KB tại /tmp (không commit vào repo).
+- Đối chiếu chéo 300/600 DPI cho các chi tiết nghi vấn + toàn văn luatvietnam.vn slug `thong-tu-118-2026-tt-btc-huong-dan-chuan-muc-ke-toan-quoc-te-tai-viet-nam-445002-d1` — khớp 100% nội dung.
+- Xác minh số hiệu quan trọng: "Nghị quyết 222/2025/QH15" (bản 150 DPI rớt ký tự đọc thành "22/2025", 300 DPI + luatvietnam xác nhận 222); "(IFRS) số 1" Điều 6 (luatvietnam xác nhận, OCR 150 DPI đọc sai "ERS/TFRS"); "cơ quan có thẩm quyền" Điều 4 (luatvietnam xác nhận).
+
+**OCR Quality Gate (kết quả)**:
+- Scan OCR: **0 issues** (file biên tập sạch ngay từ đầu, các lỗi OCR raw đã sửa khi viết file).
+- Scan Điều: **7/7, range 1–7, Missing = [], Duplicate = []**, suspicious heading = none.
+- Scan Chương: **3/3 La Mã I→III đúng thứ tự**, Duplicate = [], Out-of-order = [], bad pattern = none.
+- git diff --check: pass.
+- Kết quả gate: **PASS**.
+
+**Lỗi OCR đã sửa khi biên tập** (đối chiếu ngữ cảnh + nguồn):
+- "thâm quyền" → thẩm quyền (Điều 4, lỗi hệ thống đã ghi trong gate);
+- "đừng áp dụng" → dừng áp dụng (Điều 3 khoản 2);
+- "tải chính" → tài chính (nhiều vị trí); "tô chức" → tổ chức; "quyên hạn" → quyền hạn;
+- "sửa đâi/bỗ sung/đẩy đủ/đám bảo" → sửa đổi/bổ sung/đầy đủ/đảm bảo;
+- "Chương IH/ĐIÊU KHOẢN THỊ HÀNH" → Chương III/ĐIỀU KHOẢN THI HÀNH;
+- "ERS/TFRS số l" → IFRS số 1 (Điều 6, theo nguồn luatvietnam);
+- "doanh „nghiệp/quá ( trình/giải quyết./. „y" → doanh nghiệp/quá trình/giải quyết./. (rác ký số scan).
+
+**Session**: agent:github-io:subagent:79968c66 (Đệ #3 Full Content Crawler v138)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Commit dự kiến**: crawl: 118/2026/TT-BTC - hướng dẫn áp dụng Chuẩn mực kế toán quốc tế + tracking v138
+
+---
+
 ### Cập nhật 2026-08-24 v137 — Đệ #3 Full Content Crawler (crawl 335/2026/NĐ-CP trợ giúp xã hội — 2026-08-24 00:35 ICT)
 
 **Thay đổi**:
@@ -102,7 +139,7 @@
 | # | Số hiệu | Chủ đề | Docid (vanban.chinhphu.vn) | Ngày BH | PDF signed | Trạng thái |
 |---|---------|--------|---------------------------|---------|------------|------------|
 | 1 | **335/2026/NĐ-CP** | An sinh xã hội / Chính sách xã hội (Chính phủ) | 219249 | 21/08/2026 | `cpp/files/vbpq/2026/8/335_2026_nd-cp_21082026-signed.signed.pdf` | Hoàn thiện (v137 — `van-ban/an-sinh-xa-hoi/335-2026-nd-cp.md`) |
-| 2 | **118/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219262 | 18/08/2026 | `cpp/files/vbpq/2026/8/118-btc.signed.pdf` | Chưa có (chờ crawl) |
+| 2 | **118/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219262 | 18/08/2026 | `cpp/files/vbpq/2026/8/118-btc.signed.pdf` | Hoàn thiện (v138 — `van-ban/tai-chinh/118-2026-tt-btc.md`) |
 | 3 | **119/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219263 | 18/08/2026 | `cpp/files/vbpq/2026/8/119-btc.signed.pdf` | Chưa có (chờ crawl) |
 | 4 | **120/2026/TT-BTC** | Tài chính / Phòng chống mua bán người (Bộ Tài chính) | 219225 | 18/08/2026 | `cpp/files/vbpq/2026/8/120-btc.signed.pdf` | Chưa có (chờ crawl) |
 
