@@ -1,3 +1,43 @@
+### Cập nhật 2026-08-24 v142 — Đệ #1 Discovery & Tracking (quét vanban.chinhphu.vn he-thong-van-ban — 2026-08-24 02:50 ICT)
+
+**Phương pháp (điểm mới so với các lần trước)**:
+- Phát hiện lại trang danh sách hoạt động của vanban.chinhphu.vn: `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp được, server giới hạn 50 kết quả/trang; tham số maxresults lớn hơn vẫn trả về đúng 50). Danh sách gồm code + ngày ban hành + trích yếu + docid (`/?pageid=27160&docid=N&classid=1`) — đây là 50 văn bản MỚI NHẤT toàn hệ thống.
+- Lọc typegroupid=4 (Nghị định) và typegroupid=6 (Thông tư): NĐ mới nhất trong top = 219249 (335/2026/NĐ-CP), TT mới nhất = 219263 (119/2026/TT-BTC) — khớp trạng thái đã crawl ở v137–v140.
+- So sánh 50 docid với tracking + `van-ban/`: 44 đã có/đã track; 6 chưa có (giới hạn 5 → 5 vào bảng, 1 ghi nhận vượt giới hạn).
+
+**5 VB mới phát hiện (Chưa có — chờ crawl)**:
+
+| # | Số hiệu | Chủ đề | Docid | Ngày BH | PDF signed | Trạng thái |
+|---|---------|--------|-------|---------|------------|------------|
+| 1 | **38/2026/NQ-CP** | Đối ngoại / APEC 2027 (Chính phủ) | [219264](https://vanban.chinhphu.vn/?pageid=27160&docid=219264) | 20/08/2026 | `cpp/files/vbpq/2026/8/38_2026_nq-cp_20082026-signed.signed.pdf` | **Chưa có (chờ crawl)** |
+| 2 | **43/2026/TT-BCT** | Công Thương / Thi đua khen thưởng (Bộ Công Thương) | [219245](https://vanban.chinhphu.vn/?pageid=27160&docid=219245) | 14/08/2026 | `cpp/files/vbpq/2026/8/43-tt-btc.signed.pdf` | **Chưa có (chờ crawl)** |
+| 3 | **42/2026/QĐ-TTg** | Môi trường / Kiểm kê khí nhà kính (Thủ tướng CP) | [219154](https://vanban.chinhphu.vn/?pageid=27160&docid=219154) | 10/08/2026 | `cpp/files/vbpq/2026/8/42_2026_qd-ttg_10082026-signed.signed.pdf` (+`..._1-signed.pdf`) | **Chưa có (chờ crawl)** |
+| 4 | **37/2026/NQ-CP** | Giáo dục / Cơ cấu hiệu trưởng (Chính phủ) | [219130](https://vanban.chinhphu.vn/?pageid=27160&docid=219130) | 05/08/2026 | `cpp/files/vbpq/2026/8/37_2026_nq-cp_05082026-signed.signed.pdf` | **Chưa có (chờ crawl)** |
+| 5 | **41/2026/QĐ-TTg** | Nội chính / Bãi bỏ VBQPPL của Thủ tướng | [219110](https://vanban.chinhphu.vn/?pageid=27160&docid=219110) | 05/08/2026 | `cpp/files/vbpq/2026/8/41_2026_qd-ttg_05082026-signed.signed.pdf` | **Chưa có (chờ crawl)** |
+
+**Trích yếu**:
+1. **38/2026/NQ-CP** — Quy định chế độ, mức đài thọ của Chính phủ Việt Nam cho đại biểu tham dự các hội nghị trong Năm APEC 2027. Ban hành 20/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219264`.
+2. **43/2026/TT-BCT** — Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng đối với ngành Công Thương. Ban hành 14/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219245`. Lưu ý: tên file PDF trên datafiles là `43-tt-btc.signed.pdf` (hậu tố btc dù cơ quan ban hành là Bộ Công Thương).
+3. **42/2026/QĐ-TTg** — Ban hành Danh mục lĩnh vực, cơ sở phát thải khí nhà kính phải thực hiện kiểm kê khí nhà kính (cập nhật). Ban hành 10/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219154`. Có 2 file signed PDF trên nguồn.
+4. **37/2026/NQ-CP** — Về cơ cấu, số lượng và một số chính sách đối với hiệu trưởng, giám đốc, phó hiệu trưởng, phó giám đốc, nhân sự hỗ trợ. Ban hành 05/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219130`.
+5. **41/2026/QĐ-TTg** — Bãi bỏ một số văn bản quy phạm pháp luật của Thủ tướng Chính phủ. Ban hành 05/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219110`.
+
+**Phát hiện thêm nhưng không thêm vào bảng (vượt giới hạn 5)**:
+- **40/2026/QĐ-TTg** (docid [219111](https://vanban.chinhphu.vn/?pageid=27160&docid=219111), 05/08/2026): Tiêu chí phân loại doanh nghiệp để thực hiện cơ cấu lại vốn nhà nước tại DNNN, doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ. PDF signed: `cpp/files/vbpq/2026/8/40_2026_qd-ttg_05082026-signed.signed.pdf`. Chưa có trong tracking, chưa có file → ưu tiên đưa vào poll kế tiếp.
+
+**Xác minh trạng thái các VB còn lại trong top 50 (không đổi trạng thái)**:
+- 51/2026/TT-BKHCN (445210-d1) + 19/2026/TT-BNV (444898-d1): đã track từ v124, chưa crawl — giữ nguyên "Chưa có".
+- 38/2026/NQ-CP: v135 từng ghi nhầm là "đã có trong tracking" — thực tế KHÔNG có entry nào trước poll này → đã thêm chính thức vào bảng ở trên (mục 1).
+- 64/65/66/2026/TT-BGDDT: đã Hoàn thiện (v111), entry "Chưa có" tại dòng ~1127 chỉ là log lịch sử v110 — không phải sai trạng thái.
+- 309–334/NĐ-CP, 116–120/TT-BTC, 34/TT-BNNMT, 39–40/TT-NHNN, 10/TT-BTP, 18–19/TT-BNV, 23/TT-BVHTTDL, 43/2026/TT-BCT (trừ mục mới trên), 64–65/TT-BXD, 315/317/318/320–321/323–326/333/335/NĐ-CP, 42/59-QĐ-UBND: đã có file hoặc đã track.
+- 59/2026/QĐ-UBND (bãi bỏ QĐ 25/2021 QĐ-UBND tỉnh Điện Biên, docid 219141): VB địa phương — nằm ngoài trọng tâm tracking (NĐ-CP/TT/TTr/QĐ-TTg), ghi nhận để cân nhắc nếu Sếp muốn mở rộng phạm vi.
+
+**Session**: agent:github-io:subagent:7d8de380 (Đệ #1 Discovery v142)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Commit**: discovery(v142): 5 VB mới (38/NQ-CP APEC2027, 43/TT-BCT TĐKT Công Thương, 42/QĐ-TTg khí nhà kính, 37/NQ-CP hiệu trưởng, 41/QĐ-TTg bãi bỏ VBQPPL) + 40/QĐ-TTg vượt giới hạn; method mới: endpoint he-thong-van-ban top-50
+
+---
+
 ### Cập nhật 2026-08-24 v141 — Đệ #3 Full Content Crawler (verify lại 62/2026/TT-BXD QCVN 32 metro — 2026-08-24 02:10 ICT)
 
 **Bối cảnh**: Cảnh báo heartbeat cho rằng file `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` là stub 4,7KB nghi do revert nhầm. **Kết quả xác minh: cảnh báo KHÔNG đúng** — không có mất mát hay revert.
@@ -12429,4 +12469,3 @@ Tuy không phải NĐ-CP/TT, nhưng có 26 Quyết định/Nghị quyết 2026 c
 - **Thời gian**: 2026-08-22 14:36 ICT Asia/Saigon
 - **Commit**: `discovery(v124): 0 NĐ-CP/TT mới, 26 QĐ/NQ 2026 slug>444621, 8 file stub cũ` (no push, no PR)
 - **Files changed**: `documents/LEGISLATION_TRACKING.md` + `tmp/discovery-v124/*`
-
