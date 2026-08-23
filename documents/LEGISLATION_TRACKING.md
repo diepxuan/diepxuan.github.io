@@ -1,3 +1,19 @@
+### Cập nhật 2026-08-23 v127 (Bột trực tiếp — 2026-08-23 13:15 ICT)
+
+**Thay đổi**:
+- Bảng "5 VB mới phát hiện" (poll v124 23/8): **331/2026/NĐ-CP** "Chưa có" → "Hoàn thiện". File mới tạo tại `van-ban/an-ninh-quoc-gia/331-2026-nd-cp.md` (~80KB, 1.409 dòng, 40 Điều 1-40, 6 Chương I-VI + Phụ lục 8 mẫu văn bản).
+
+**OCR Quality Gate (poll này)**:
+- `van-ban/an-ninh-quoc-gia/331-2026-nd-cp.md`: **PASS** (OCR issues = 0, 40/40 Điều đầy đủ không missing/duplicate, 6/6 Chương đúng thứ tự La Mã I→VI).
+
+**Nguồn**:
+- PDF chữ ký số chính thức từ datafiles.chinhphu.vn (17.4MB, ký 21/08/2026) đã tải tại poll trước.
+- OCR raw (`/tmp/331_ocr.txt`, 1.988 dòng) do đệ `crawler-331-nd-cp-r2` thực hiện trước khi mất tích; đệ r1 cũng mất tích trước đó. Poll này Bột hoàn thiện Markdown trực tiếp từ OCR raw (không spawn lần 3), sửa ~50 lỗi OCR theo OCR_QUALITY_GATE.md (thẩm quyền/thẩm định, cấp độ, quốc gia, bullet c)/g)/đ), khoản 8 từ "§.").
+
+**Tiến độ cụm 5 NĐ An ninh mạng**:
+- 327, 328, 329, 331/NĐ-CP: Hoàn thiện (4/5).
+- 332/NĐ-CP: còn "Chưa có", chờ Sếp quyết định crawl tiếp.
+
 ### Cập nhật 2026-08-23 v126 (Bột trực tiếp — 2026-08-23 07:30 ICT)
 
 **Thay đổi**:
@@ -51,7 +67,7 @@
 | 1 | **327/2026/NĐ-CP** | An ninh mạng (Bộ Công an) | 445069-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Chưa có** |
 | 2 | **328/2026/NĐ-CP** | Phòng chống tin giả (Bộ Công an) | 445080-d1 | 19/08/2026 | 19/08/2026 | **Hoàn thiện** |
 | 3 | **329/2026/NĐ-CP** | Lực lượng bảo vệ an ninh mạng (Bộ Công an) | 444902-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Hoàn thiện** |
-| 4 | **331/2026/NĐ-CP** | Bảo vệ an ninh mạng cho hệ thống thông tin (Bộ Công an) | 445072-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
+| 4 | **331/2026/NĐ-CP** | Bảo vệ an ninh mạng cho hệ thống thông tin (Bộ Công an) | 445072-d1 | 19/08/2026 | 19/08/2026 | **Hoàn thiện** |
 | 5 | **332/2026/NĐ-CP** | Kinh doanh SP/DV an ninh mạng (Bộ Công an) | 444981-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
 
 **Còn phát hiện thêm nhưng không thêm vào tracking lần này (đã đạt giới hạn 5)**:
