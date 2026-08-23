@@ -1,3 +1,59 @@
+### Cập nhật 2026-08-23 v136 — Reviewer (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-23 23:37 ICT)
+
+### 1. OCR Quality Gate — Review 5 văn bản "Hoàn thiện" mới nhất (crawl 22-23/8)
+
+| # | File | Size | Lines | Điều | Chương | OCR issues | Đánh giá |
+|---|------|------|-------|------|--------|------------|----------|
+| 1 | `van-ban/an-ninh-quoc-gia/332-2026-nd-cp.md` | 95,9KB | 340 | 22/22, range 1–22, Missing=[], Dup=[] | 4 (I–IV đúng thứ tự) | 10 hit — **toàn bộ false-positive "ngày l"** ("ngày làm việc"/"ngày nhận") | **PASS** |
+| 2 | `van-ban/khoa-hoc/47-2026-tt-bkhcn.md` | 74,5KB | 885 | 18/18, range 1–18, Missing=[], Dup=[] | 3 (I–III đúng) | 6 hit — false-positive "ngày l" | **PASS** |
+| 3 | `van-ban/quoc-phong/112-2026-tt-bqp.md` | 55,7KB | 619 | 60/60, range 1–60, Missing=[], Dup=[]; Mục 1–7 đủ | 10 (I–X đúng) | 1 hit — false-positive "ngày l" | **PASS** |
+| 4 | `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` | 44,9KB | 464 | 16/16, range 1–16, Missing=[], Dup=[] | 4 (I–IV đúng) | 6 hit — false-positive "ngày l" ("ngày làm việc", "30 ngày liền kề") | **PASS** |
+| 5 | `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` | 88,3KB | 896 | 3/3, range 1–3 | 0 (QCVN dùng heading số) | **0** | **PASS** |
+
+**Ghi chú**: Pattern "ngày l" là false-positive đã ghi nhận từ v125 — không sửa. Suspicious article headings = 0 ở cả 5 file; ký tự rác ø©§†®µ¬¶ = 0; không ghi chú crawler/debug public; front matter metadata sạch (title có dấu, group/tags hợp lệ). Ký tên + Nơi nhận đầy đủ ở cả 4 file TT/NĐ (62/TT-BXD là QCVN nên kết thúc bằng mục Tổ chức thực hiện).
+
+### 2. Refactor scan van-ban/ — phát hiện & xử lý mới
+
+**Tiêu chí**: "Đang cập nhật" / <10KB không hoanthien / lastedit > 7 ngày.
+
+**Kết quả tổng quát**: 753 file md trong van-ban/. Nhóm lớn (~110 file chủ đề >100KB, lastedit 05-06/06, chứa "Đang cập nhật" trong THÔNG TIN VĂN BẢN) là batch crawl cũ đã biết từ các review trước — KHÔNG phải phát hiện mới, giữ nguyên trạng thái chờ quyết định refactor quy mô lớn của Sếp.
+
+**Phát hiện mới đợt này — 3 file metadata thiếu ngày hiệu lực, đã sửa trực tiếp (đối chiếu nguồn chính thức)**:
+
+| File | Lastedit trước | Sửa | Nguồn đối chiếu |
+|------|---------------|-----|-----------------|
+| `van-ban/an-ninh-quoc-gia/315-2026-nd-cp.md` (24,8d) | 13/08 (10d) | "Ngày hiệu lực: (Đang cập nhật)" → **01/05/2027**; modified → 23/08 | vanban.chinhphu.vn docid 219155 + luatvietnam 443624-d1 |
+| `van-ban/tai-chinh/nghi-dinh-316-2026-nd-cp.md` (25,5KB) | 15/08 (8d) | "Ngày hiệu lực: (Đang cập nhật)" → **01/10/2026**; modified → 23/08 | luatvietnam tin 111425 + cafebiz/baodautu (ban hành 11/8, áp dụng từ 01/10/2026) |
+| `van-ban/giao-duc/64-2026-tt-bgddt.md` (15KB) | 13/08 (10d) | "Ngày hiệu lực: *Đang cập nhật*" → **10/08/2026** (hiệu lực cùng ngày ban hành); file này không có front matter YAML (chỉ heading) — lưu ý cho lần refactor sau | xaydungchinhsach.chinhphu.vn toàn văn TT 64 |
+
+**Stub còn lại theo dõi tiếp** (không sửa, chờ crawl/refactor):
+- `van-ban/35-2026-TT-BCT.md` (3,5KB, stub "Đang cập nhật toàn văn", lastedit 20/08 — chưa quá 7 ngày, theo dõi poll tới).
+- `van-ban/tai-chinh/thong-tu-105-2026-tt-btc.md`, `van-ban/49-2026-tt-bkhcn.md`: chỉ thiếu số/ngày công báo (trường phụ), nội dung hoàn thiện — ưu tiên thấp.
+- `van-ban/vien-thong-buu-chinh/thong-tu-08-2026-tt-bkhoa-hoc-cong-nghe-xac-thuc-thue-bao.md` (lastedit 29/07, 25d): ngay_cong_bao/so_cong_bao "Đang cập nhật" — trường phụ, nội dung đủ, ưu tiên thấp.
+- Cũ hơn: `86-2026-TT-BTC` archive (Thấp), `nghi-quyet-291-2026-nq-tpqh16` (chờ Sếp xác minh số hiệu — khuyến nghị cũ v123), `106-2026-tt-btc` (OCR kém, khuyến nghị cũ).
+
+### 3. PR Comments Review
+
+**PR open: chỉ #264** — "Heartbeat crawl-vanban 2026-08-07 → 2026-08-23: ... cleanup trùng lặp 46+40 (v134-v135)" (author caothu159, tạo 07/08, updated 23/08 16:35Z).
+
+| Loại comment | Số lượng | Ghi chú |
+|--------------|---------|---------|
+| Cần xử lý ngay | 0 | Không có issue comments, review comments hay reviews nào |
+| Chờ Sếp review | 1 | PR #264 — mở 16 ngày (07/08 → 23/08), ~200+ commits, chưa có feedback nào từ Sếp |
+| Thông báo | 0 | — |
+| Đã stale (>7 ngày) | 0 | Không có comment nào để stale; bản thân PR mở >14 ngày nhưng đó là trạng thái PR, không phải comment |
+
+**Khuyến nghị**: Không có việc gì phải xử lý trên PR. Sếp cần ra quyết định merge/close PR #264 (đã tích lũy ~3 tuần heartbeat crawl). Nếu merge thì cần chạy lại quality gate tổng quát trước khi merge (các commit mới nhất đều PASS gate riêng lẻ).
+
+### Phiên thực hiện
+
+- agent: github-io:subagent:882dadd3-6ce7-4467-b91e-b9c2360ccaab (Đệ #4 Content Reviewer + PR Comment Reviewer)
+- Ngày: 2026-08-23 23:37 ICT Asia/Saigon
+- Branch: `heartbeat/crawl-vanban-20260807` (PR #264 active)
+- Commit: review(v136) — fix metadata hiệu lực 3 file + tracking block v136
+
+---
+
 ### Cập nhật 2026-08-23 v135 (Đệ #3 cleanup — dọn trùng lặp 40/2026/TT-NHNN — 2026-08-23 23:08 ICT)
 
 **Quyết định giữ/xóa**:

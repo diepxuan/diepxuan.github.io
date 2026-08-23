@@ -3,7 +3,7 @@
 **Số hiệu:** 64/2026/TT-BGDĐT  
 **Ngày ban hành:** 10/08/2026  
 **Người ký:** Bộ trưởng Bộ Giáo dục và Đào tạo  
-**Ngày hiệu lực:** *Đang cập nhật*  
+**Ngày hiệu lực:** 10/08/2026 (nguồn: xaydungchinhsach.chinhphu.vn)\
 **Trích yếu:** Quy định mã số, chuẩn nghề nghiệp, bổ nhiệm, xếp lương và chế độ làm việc đối với giáo viên trung học nghề.
 
 ## CĂN CỨ PHÁP LÝ

@@ -2,7 +2,7 @@
 layout: vanban
 title: "Nghị định 316/2026/NĐ-CP sửa đổi Nghị định 135/2025 về chế độ tài chính và giám sát tài chính tại tổ chức tín dụng"
 date: 2026-08-11
-modified: 2026-08-15
+modified: 2026-08-23
 group: tai-chinh
 tags:
   - ngân hàng
@@ -20,7 +20,7 @@ source: luatvietnam.vn
 ## THÔNG TIN VĂN BẢN
 - **Số hiệu:** 316/2026/NĐ-CP
 - **Ngày ban hành:** 11/08/2026
-- **Ngày hiệu lực:** (Đang cập nhật)
+- **Ngày hiệu lực:** 01/10/2026 (nguồn: luatvietnam.vn 443815-d1)
 - **Người ký:** (Chính phủ)
 - **Trích yếu:** Sửa đổi, bổ sung một số điều của Nghị định số 135/2025/NĐ-CP về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước.
 - **Căn cứ pháp luật:** Theo đề nghị của Bộ trưởng Bộ Tài chính.
