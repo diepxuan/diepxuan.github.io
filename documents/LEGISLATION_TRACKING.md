@@ -1,3 +1,28 @@
+### Cập nhật 2026-08-24 v141 — Đệ #3 Full Content Crawler (verify lại 62/2026/TT-BXD QCVN 32 metro — 2026-08-24 02:10 ICT)
+
+**Bối cảnh**: Cảnh báo heartbeat cho rằng file `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` là stub 4,7KB nghi do revert nhầm. **Kết quả xác minh: cảnh báo KHÔNG đúng** — không có mất mát hay revert.
+
+**Kiểm tra git history** (`git log --follow -- van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md`):
+- `a2304d97`: stub ban đầu (1,5KB).
+- `76c072ca`: trạng thái trung gian 4,7KB (chính là con số "stub 4,7KB" trong cảnh báo — dữ liệu cũ của commit này, không phải hiện trạng branch).
+- `a90f22e7`: hoàn thiện 88,3KB / 896 dòng (tracking v131, 20/08).
+- HEAD hiện tại `8a3a4e4c`: file **nguyên vẹn 88,348 bytes**, byte-identical với a90f22e7; working tree sạch; không có commit nào sau a90f22e7 đụng vào file; origin/heartbeat/crawl-vanban-20260807 = HEAD = 8a3a4e4c (đã sync, PR #264 chứa bản đầy đủ).
+
+**OCR Quality Gate (re-run trên file cuối)**:
+- Scan OCR: **0 issues** (đầy đủ bộ pattern gate §8 OCR_QUALITY_GATE.md).
+- Scan Điều: **3/3, range 1–3, Missing = [], Duplicate = []**, suspicious heading = 0. Điều 2 xác nhận hiệu lực **01/02/2027**.
+- Scan cấu trúc QCVN: 4 section đánh số `## 1.` → `## 2.` → `## 3.` → `## 4.` (Quy định chung / Quy định về kỹ thuật / Quy định về quản lý / Tổ chức thực hiện), không trùng, đúng thứ tự; văn bản Thông tư không phân Chương (3 Điều — đúng cấu trúc gốc).
+- Metadata: front matter đầy đủ, `status: hoanthien`, `stub: false`, người ký Thứ trưởng Nguyễn Danh Huy, docid luatvietnam slug 442189-d1; trường cơ quan dùng `co_quan_ban_hanh` (chuẩn đa số repo, 106 file).
+- git diff --check: pass. Kết quả gate: **PASS**.
+
+**Kết luận**: Không cần crawl lại, không cần khôi phục nội dung — file đã hoàn thiện và đã nằm trên PR #264. Ghi nhận v141 để các lần heartbeat sau không flag nhầm file này là stub nữa (số 4,7KB chỉ tồn tại ở commit trung gian 76c072ca trong history).
+
+**Session**: agent:github-io:subagent:a39c8531 (Đệ #3 Full Content Crawler v141)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Commit**: verify-only + tracking v141 (không thay đổi file văn bản)
+
+---
+
 ### Cập nhật 2026-08-24 v140 — Đệ #3 Full Content Crawler (crawl 120/2026/TT-BTC hỗ trợ nạn nhân mua bán người — 2026-08-24 01:55 ICT)
 
 **Thay đổi**:
