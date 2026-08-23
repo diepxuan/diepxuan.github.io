@@ -1,3 +1,20 @@
+### Cập nhật 2026-08-23 v130 (Đệ #3 Full Content Crawler — 2026-08-23 19:35 ICT)
+
+**Thay đổi**:
+- **40/2026/TT-NHNN**: `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` chuyển **"chua-hoanthien" → "Hoàn thiện"** (`status: hoanthien`). File 33,5KB / 456 dòng: bổ sung phần thiếu từ Điều 10 khoản 6 đến hết văn bản (Điều 10.6, Điều 11–16, Chương III, Chương IV, khối ký KT. Thống đốc Phó Thống đốc Đoàn Thái Sơn, Nơi nhận) và đầy đủ 3 Phụ lục I/II/III (bảng cấu phần vốn tự có, phân nhóm tài sản "Có" rủi ro, xác định tài sản thanh toán ngay). Gỡ 2 ghi chú debug khỏi bản public.
+
+**OCR Quality Gate (poll này)**:
+- `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md`: **PASS** (OCR issues = 0; 16/16 Điều đầy đủ range 1–16, Missing = [], Duplicate = []; 4/4 Chương đúng thứ tự La Mã I→II→III→IV; không còn ghi chú crawler/debug; git diff --check pass).
+
+**Nguồn**:
+- Text chuẩn luatvietnam.vn slug/docid 443628-d1 (trích theo cấu trúc DOM) cho toàn bộ nội dung Điều 10.6 → Điều 16 + Nơi nhận.
+- PDF chữ ký số chính thức datafiles.chinhphu.vn: `cpp/files/vbpq/2026/8/40-nhnn.signed.pdf` (10,7MB, 21 trang scan SAO Y, ký 11–12/08/2026), OCR 21/21 trang bằng scripts/ocr_pdf.py (pdftoppm 150 DPI + tesseract vie) — chỉ dùng đối chiếu chéo, không lưu artifact vào repo.
+- Phần Phụ lục tái sử dụng từ bản hoàn thiện đã review trước đó trong repo (`40-2026-tt-nhnn.md`, cùng branch).
+
+**Sửa metadata quan trọng**: Người ký thực tế là **Phó Thống đốc Đoàn Thái Sơn** (xác nhận bởi cả luatvietnam lẫn OCR chữ ký trên PDF scan chính thức trang 12), KHÔNG phải "Phạm Thanh Hà" như ghi cũ. Bổ sung ngày hiệu lực **01/11/2026** (Điều 15: hiệu lực 01/11/2026; bãi bỏ TT 32/2015/TT-NHNN và TT 13/2024/TT-NHNN).
+
+**Ghi chú trùng lặp file**: Repo đang có 2 file cho cùng văn bản trên branch này: `thong-tu-40-2026-tt-nhnn.md` (file tracking chính thức, đã hoàn thiện tại v130) và `40-2026-tt-nhnn.md` (588 dòng, hoàn thiện từ 13/8, ngoài phạm vi sửa của poll này). Cần Sếp quyết định hợp nhất/gỡ một file để tránh trùng lặp trên site.
+
 ### Cập nhật 2026-08-23 v129 (Bột trực tiếp — 2026-08-23 17:55 ICT)
 
 **Thay đổi**:
@@ -211,7 +228,7 @@ Quét `find van-ban -name "*.md" -size -10k` so với `documents/LEGISLATION_TRA
 | 2 | `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1575 B | 2026-08-04 | 18d | "STUB" — có ghi chú số hiệu có thể sai (slug 441168 là NĐ 291 về thuế) | **Cao** (số hiệu cần xác minh) |
 | 3 | `van-ban/ngan-hang/106-2026-tt-btc-dang-ky-hoat-dong-ngan-hang-chinh-sach-xa-hoi.md` | 18200 B | 2026-08-04 | 18d | "stub" — OCR kém, cần re-OCR hoặc text sạch | Trung bình |
 | 4 | `van-ban/xay-dung/thong-tu-65-2026-tt-bxd-dinh-muc-ktkt-khao-sat-do-sau-hang-hai.md` | 17895 B | 2026-08-22 | 0d | "hoanthien" — refactor status STUB→hoanthien tại poll 22/8 09:59 | — |
-| 5 | `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` | 24863 B | 2026-08-20 | 2d | "chua-hoanthien" — crawl bị ngắt tại Điều 10 khoản 6 | Trung bình |
+| 5 | `van-ban/tai-chinh/thong-tu-40-2026-tt-nhnn.md` | 24863 B | 2026-08-20 | 2d | "chua-hoanthien" — crawl bị ngắt tại Điều 10 khoản 6 → **ĐÃ HOÀN THIỆN tại v130 (23/8)** | Đã xử lý |
 
 ### Khuyến nghị hành động
 

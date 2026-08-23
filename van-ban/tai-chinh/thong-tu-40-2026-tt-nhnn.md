@@ -1,17 +1,18 @@
 ---
 layout: vanban
-title: "Thông tư 40/2026/TT-NHNN quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động quỹ tín dụng nhân dân"
+title: "Thông tư 40/2026/TT-NHNN quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân"
 date: 2026-08-10
+modified: 2026-08-23
 so_hieu: "40/2026/TT-NHNN"
 loai_vb: "Thông tư"
-nguoi_ky: "Phó Thống đốc Phạm Thanh Hà"
+nguoi_ky: "Phó Thống đốc Đoàn Thái Sơn"
 co_quan_ban_hanh: "Ngân hàng Nhà nước Việt Nam"
 ngay_ban_hanh: "2026-08-10"
-ngay_hieu_luc: ""
+ngay_hieu_luc: "2026-11-01"
 trich_yeu: "Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động quỹ tín dụng nhân dân (tỷ lệ an toàn vốn tối thiểu 8%, tỷ lệ khả năng chi trả ≥100%, hạn chế cho vay)"
 can_cu_phap_luat: "Luật Các tổ chức tín dụng 32/2024"
-status: "chua-hoanthien"
-source: "luatvietnam.vn slug 443628-d1"
+status: "hoanthien"
+source: "luatvietnam.vn slug 443628-d1; datafiles.chinhphu.vn"
 ---
 
 # Thông tư 40/2026/TT-NHNN Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân
@@ -19,8 +20,9 @@ source: "luatvietnam.vn slug 443628-d1"
 ## THÔNG TIN VĂN BẢN
 - **Số hiệu:** 40/2026/TT-NHNN
 - **Ngày ban hành:** 10/08/2026
+- **Ngày có hiệu lực:** 01/11/2026
 - **Cơ quan ban hành:** Ngân hàng Nhà nước Việt Nam
-- **Người ký:** Phó Thống đốc Phạm Thanh Hà
+- **Người ký:** Phó Thống đốc Đoàn Thái Sơn
 - **Trích yếu:** Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân.
 
 ## VĂN BẢN
@@ -243,7 +245,212 @@ b) Các khoản sau đây có thời hạn còn lại đến 01 (một) năm:
 (ii) Khoản vay từ tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;
 (iii) Khoản vay từ tổ chức khác theo quy định của pháp luật.
 
-6. [Nội dung bị thiếu từ nguồn crawl]
+6. Trường hợp quỹ tín dụng nhân dân có tổng dư nợ cho vay trung hạn và dài hạn quy định tại khoản 3 Điều này nhỏ hơn tổng nguồn vốn trung hạn và dài hạn quy định tại khoản 4 Điều này khi tính tỷ lệ nguồn vốn ngắn hạn được sử dụng để cho vay trung hạn và dài hạn thì tỷ lệ này có giá trị bằng 0.
+
+### Điều 11. Tỷ lệ tổng mức nhận tiền gửi so với vốn chủ sở hữu
+
+1. Quỹ tín dụng nhân dân phải duy trì tỷ lệ tổng mức nhận tiền gửi so với vốn chủ sở hữu không được vượt quá 20 lần.
+
+2. Tỷ lệ tổng mức nhận tiền gửi so với vốn chủ sở hữu được xác định theo công thức sau:
+A (lần) = B / C
+
+Trong đó:
+- A: tỷ lệ tổng mức nhận tiền gửi so với vốn chủ sở hữu.
+- B: tổng mức nhận tiền gửi quy định tại khoản 3 Điều này.
+- C: vốn chủ sở hữu quy định tại khoản 4 Điều này.
+
+3. Tổng mức nhận tiền gửi được xác định trên bảng cân đối tài khoản kế toán tại thời điểm tính tỷ lệ tổng mức nhận tiền gửi so với vốn chủ sở hữu bao gồm các khoản sau đây: tiền gửi không kỳ hạn, có kỳ hạn, tiền gửi tiết kiệm của thành viên, tổ chức, cá nhân bằng đồng Việt Nam.
+
+4. Vốn chủ sở hữu được xác định trên bảng cân đối tài khoản kế toán tại thời điểm tính tỷ lệ tổng mức nhận tiền gửi so với vốn chủ sở hữu.
+
+### Điều 12. Hạn chế, giới hạn cho vay
+
+1. Quỹ tín dụng nhân dân căn cứ vốn tự có được xác định theo quy định tại khoản 3 Điều 8 Thông tư này tại cuối ngày làm việc gần nhất để xác định:
+a) Hạn chế cho vay đối với tổ chức, cá nhân theo quy định tại Điều 135 Luật Các tổ chức tín dụng;
+b) Giới hạn cho vay đối với một khách hàng, một khách hàng và người có liên quan của khách hàng theo quy định tại Điều 136 Luật Các tổ chức tín dụng.
+
+2. Hội đồng quản trị thông qua các khoản cho vay đối với người thẩm định, người xét duyệt cho vay tại quỹ tín dụng nhân dân có giá trị từ 100 triệu đồng trở lên hoặc giá trị khác thấp hơn theo quy định nội bộ của quỹ tín dụng nhân dân. Các trường hợp còn lại thực hiện theo quy định tại khoản 3 Điều 135 Luật Các tổ chức tín dụng và quy định nội bộ của quỹ tín dụng nhân dân.
+
+3. Đối với các khoản cho vay các đối tượng quy định tại điểm a khoản 1 Điều này, quỹ tín dụng nhân dân phải:
+a) Báo cáo Ngân hàng Nhà nước chi nhánh Khu vực theo quy định của Ngân hàng Nhà nước;
+b) Công khai trước Đại hội thành viên đối với khoản cho vay phát sinh đến thời điểm lấy số liệu để họp Đại hội thành viên.
+
+4. Tổng mức dư nợ cho vay đối với một thành viên là pháp nhân không được vượt quá tổng số vốn góp và số dư tiền gửi của pháp nhân đó tại quỹ tín dụng nhân dân tại mọi thời điểm.
+
+5. Tổng mức dư nợ cho vay đối với khách hàng là pháp nhân, cá nhân không phải là thành viên không được vượt quá số dư của hợp đồng tiền gửi, sổ tiết kiệm tại mọi thời điểm.
+
+6. Các giới hạn quy định tại điểm b khoản 1 Điều này không áp dụng đối với:
+a) Khoản cho vay từ nguồn vốn ủy thác của tổ chức, cá nhân mà quỹ tín dụng nhân dân nhận ủy thác không chịu rủi ro;
+b) Các khoản cho vay được bảo đảm toàn bộ bằng tiền gửi tại chính quỹ tín dụng nhân dân.
+
+### Điều 13. Quỹ tín dụng nhân dân mất khả năng chi trả, có nguy cơ mất khả năng chi trả
+
+1. Quỹ tín dụng nhân dân có nguy cơ mất khả năng chi trả khi thiếu hụt Tài sản “Có” có thể thanh toán ngay ở mức 20% trở lên tại thời điểm tính toán tỷ lệ khả năng chi trả so với Tài sản “Có” có thể thanh toán ngay tối thiểu để tuân thủ tỷ lệ khả năng chi trả theo quy định tại Thông tư này trong thời gian 30 ngày liên tục.
+
+2. Quỹ tín dụng nhân dân mất khả năng chi trả khi không thực hiện thanh toán nghĩa vụ nợ trong thời gian 01 tháng kể từ ngày đến hạn thanh toán.
+
+3. Khi mất khả năng chi trả, có nguy cơ mất khả năng chi trả hoặc trường hợp quỹ tín dụng nhân dân tự đánh giá không có khả năng chi trả, quỹ tín dụng nhân dân phải kịp thời báo cáo với Ngân hàng Nhà nước chi nhánh Khu vực và thông báo cho Ngân hàng Hợp tác xã chi nhánh về thực trạng, nguyên nhân, các biện pháp đã áp dụng, các biện pháp dự kiến áp dụng để khắc phục và các đề xuất, kiến nghị với Ngân hàng Nhà nước chi nhánh Khu vực (nếu có).
+
+## Chương III
+## TRÁCH NHIỆM CỦA ĐƠN VỊ CÓ LIÊN QUAN
+
+### Điều 14. Trách nhiệm của Ngân hàng Nhà nước chi nhánh Khu vực
+
+1. Quyết định việc quỹ tín dụng nhân dân phải duy trì các hạn chế, giới hạn, tỷ lệ bảo đảm an toàn theo quy định tại khoản 3 Điều 1 Thông tư này.
+
+2. Thanh tra, kiểm tra, giám sát, thực hiện các biện pháp xử lý đối với các hành vi vi phạm của quỹ tín dụng nhân dân trên địa bàn trong việc thực hiện các quy định tại Thông tư này, bao gồm cả các biện pháp xử lý đối với trường hợp giá trị thực của vốn điều lệ của quỹ tín dụng nhân dân thấp hơn mức vốn pháp định quy định tại khoản 2 Điều 7 Thông tư này.
+
+3. Hướng dẫn các quỹ tín dụng nhân dân trên địa bàn trong việc thực hiện các quy định tại Thông tư này.
+
+4. Tiếp nhận quy định nội bộ của quỹ tín dụng nhân dân theo quy định tại Thông tư này.
+
+## Chương IV
+## ĐIỀU KHOẢN THI HÀNH
+
+### Điều 15. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2026.
+
+2. Thông tư này bãi bỏ:
+a) Thông tư số 32/2015/TT-NHNN ngày 31 tháng 12 năm 2015 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân;
+b) Thông tư số 13/2024/TT-NHNN ngày 28 tháng 6 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của Thông tư số 32/2015/TT-NHNN ngày 31 tháng 12 năm 2015 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân.
+
+### Điều 16. Tổ chức thực hiện
+
+Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước, quỹ tín dụng nhân dân chịu trách nhiệm tổ chức thực hiện Thông tư này./.
 
 ---
-**Ghi chú:** Văn bản này hiện là bản crawl từ luatvietnam.vn. Nội dung bị ngắt quãng tại Điều 10 khoản 6. Cần đối chiếu PDF chính thức khi có để hoàn thiện.
+
+KT. THỐNG ĐỐC
+PHÓ THỐNG ĐỐC
+
+Đoàn Thái Sơn
+
+---
+
+## Phụ lục
+
+(Ban hành kèm theo Thông tư số 40/2026/TT-NHNN ngày 10/8/2026 của Thống đốc Ngân hàng Nhà nước Việt Nam)
+
+### Phụ lục I
+
+CẤU PHẦN VÀ CÁCH XÁC ĐỊNH VỐN TỰ CÓ
+
+Đơn vị tính: triệu đồng
+
+| Mục | Cấu phần | Cách xác định |
+|-----|----------|---------------|
+| **A** | **Vốn cấp 1 (A) = (A1) - (A2)** | |
+| **A1** | **Vốn cấp 1 chưa giảm trừ (A1) = Σ 1 ÷ 7** | |
+| 1 | Vốn điều lệ (vốn đã góp của thành viên) | Lấy số liệu Vốn điều lệ trong khoản mục vốn của quỹ tín dụng nhân dân trên Bảng cân đối tài khoản kế toán. |
+| 2 | Vốn đầu tư xây dựng cơ bản, mua sắm tài sản cố định | Lấy số liệu Vốn đầu tư xây dựng cơ bản, mua sắm tài sản cố định trong khoản mục vốn của quỹ tín dụng nhân dân trên Bảng cân đối tài khoản kế toán. |
+| 3 | Quỹ dự trữ bổ sung vốn điều lệ | Lấy số liệu Quỹ dự trữ bổ sung vốn điều lệ trong khoản mục Quỹ của quỹ tín dụng nhân dân trên Bảng cân đối tài khoản kế toán. |
+| 4 | Quỹ đầu tư phát triển | Lấy số liệu Quỹ đầu tư phát triển trong khoản mục Quỹ của quỹ tín dụng nhân dân trên Bảng cân đối tài khoản kế toán. |
+| 5 | Quỹ dự phòng tài chính | Lấy số liệu Quỹ dự phòng tài chính trong khoản mục Quỹ của quỹ tín dụng nhân dân trên Bảng cân đối tài khoản kế toán. |
+| 6 | Vốn của các tổ chức, cá nhân tài trợ không hoàn lại cho Quỹ tín dụng nhân dân | Lấy số liệu Vốn khác trong khoản mục Quỹ của quỹ tín dụng nhân dân trên Bảng cân đối tài khoản kế toán. |
+| 7 | Lợi nhuận lũy kế chưa phân phối | Lấy số liệu Lợi nhuận chưa phân phối trên Bảng cân đối tài khoản kế toán tại thời điểm tính tỷ lệ an toàn vốn tối thiểu. |
+| **A2** | **Các khoản phải trừ khỏi vốn cấp 1 (A2) = Σ 8 ÷ 9** | |
+| 8 | Lỗ lũy kế | Lấy số liệu Lỗ lũy kế trên Bảng cân đối tài khoản kế toán tại thời điểm tính tỷ lệ an toàn vốn tối thiểu. |
+| 9 | Vốn góp vào ngân hàng hợp tác xã | Lấy số liệu Góp vốn vào ngân hàng hợp tác xã trong khoản mục Góp vốn, đầu tư dài hạn trên Bảng cân đối tài khoản kế toán. |
+| **B** | **VỐN CẤP 2 (B) = 10** | |
+| 10 | Dự phòng chung | Lấy số liệu Dự phòng chung trong khoản mục Dự phòng rủi ro trên Bảng cân đối tài khoản kế toán, nhưng tối đa không quá 1,25% Tổng tài sản “Có” rủi ro quy định tại Phụ lục II. |
+| | **KHOẢN PHẢI TRỪ KHỎI VỐN TỰ CÓ = 11** | |
+| 11 | 100% phần chênh lệch giảm do đánh giá lại tài sản cố định theo quy định của pháp luật | 100% tổng số dư nợ của tài khoản chênh lệch đánh giá lại tài sản cố định. |
+| **C** | **VỐN TỰ CÓ (C) = A + B - 11** | |
+
+---
+
+### Phụ lục II
+
+PHÂN NHÓM VÀ CÁCH XÁC ĐỊNH TỔNG TÀI SẢN “CÓ” RỦI RO
+
+#### Phần I. Hướng dẫn cách lấy số liệu
+
+Quỹ tín dụng nhân dân xác định giá trị tài sản “Có” rủi ro của từng mục quy định tại Phần II của Phụ lục này như sau:
+
+1. Số tiền của từng mục là số dư tương ứng trên Bảng cân đối tài khoản kế toán tại thời điểm tính toán.
+
+2. Hệ số rủi ro của từng mục quy định cụ thể tại Phần II của Phụ lục này.
+
+#### Phần II. Phân nhóm và cách xác định tổng tài sản “Có” rủi ro
+
+Đơn vị tính: triệu đồng
+
+| Mục | Phân nhóm | Số tiền | Hệ số rủi ro | Giá trị tài sản “Có” rủi ro |
+|-----|-----------|---------|--------------|----------------------------|
+| **A** | **Nhóm tài sản “Có” (TSC) có hệ số rủi ro 0%** | = (a) + (b) + (c) + (d) + (đ) + (e) | | |
+| a | Tiền mặt | | 0% | |
+| b | Tiền gửi tại Ngân hàng Nhà nước Việt Nam | | 0% | |
+| c | Tiền gửi tại ngân hàng hợp tác xã | | 0% | |
+| d | Dư nợ cho vay được bảo đảm toàn bộ bằng tiền, tiền gửi tại chính quỹ tín dụng nhân dân đó | | 0% | |
+| đ | Dư nợ cho vay được bảo đảm toàn bộ bằng giấy tờ có giá do Chính phủ, Ngân hàng Nhà nước Việt Nam phát hành | | 0% | |
+| e | Vốn góp vào ngân hàng hợp tác xã | | 0% | |
+| **B** | **Nhóm TSC có hệ số rủi ro 20%** | = (g) + (h) | | |
+| g | Số dư trên tài khoản thanh toán mở tại ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, trừ số dư trên tài khoản thanh toán mở tại ngân hàng thương mại được kiểm soát đặc biệt | | 20% | |
+| h | Dư nợ cho vay được bảo đảm toàn bộ bằng giấy tờ có giá do tổ chức tài chính nhà nước, tổ chức tín dụng (trừ tổ chức tín dụng được kiểm soát đặc biệt), chi nhánh ngân hàng nước ngoài phát hành | | 20% | |
+| **C** | **Nhóm TSC có hệ số rủi ro 50%** | = (i) | | |
+| i | Dư nợ cho vay được bảo đảm toàn bộ bằng nhà ở, quyền sử dụng đất, nhà ở gắn với quyền sử dụng đất của bên vay | | 50% | |
+| **D** | **Nhóm TSC có hệ số rủi ro 100%** | = (k) + (l) | | |
+| k | Giá trị nguyên giá tài sản cố định của quỹ tín dụng nhân dân | | 100% | |
+| l | Các tài sản “Có” khác còn lại trên bảng cân đối tài khoản kế toán ngoài các khoản đã được phân loại vào nhóm tài sản “Có” có hệ số rủi ro 0%, 20%, 50% | | 100% | |
+| | **Tổng tài sản “Có” rủi ro** | = A + B + C + D | | |
+
+---
+
+### Phụ lục III
+
+CÁCH XÁC ĐỊNH CÁC TÀI SẢN “CÓ” CÓ THỂ THANH TOÁN NGAY VÀ CÁC TÀI SẢN “NỢ” PHẢI THANH TOÁN
+
+#### Phần I. Hướng dẫn cách lấy số liệu
+
+Quỹ tín dụng nhân dân căn cứ vào Bảng cân đối tài khoản kế toán, tài liệu, hồ sơ có liên quan để xác định giá trị trên sổ sách của từng khoản mục quy định tại Phần II của Phụ lục này.
+
+#### Phần II. Cách xác định các tài sản “Có” có thể thanh toán ngay và các tài sản “Nợ” phải thanh toán
+
+Đơn vị tính: triệu đồng
+
+| Khoản mục | Giá trị trên sổ sách | Tỷ lệ xác định | Giá trị để tính toán | Tổng cộng | Căn cứ xác định thời gian đến hạn/Ghi chú |
+|-----------|---------------------|----------------|----------------------|-----------|------------------------------------------|
+| | | | Ngày làm việc tiếp theo | Từ ngày thứ 2 đến ngày thứ 7 | Ngày làm việc tiếp theo | Từ ngày thứ 2 đến ngày thứ 7 | |
+| | | | (1) | (2) | (3) | (4) = (1)x(3) | (5) = (2)x(3) | (6) = (4) +(5) | |
+| **I. Tài sản “Có” có thể thanh toán ngay (I=1+2+ 3+ 4+5+6+7+8)** | | | | | | | | Không điền | |
+| 1. Tiền mặt tại quỹ | | | Không điền | | 100% | | Không điền | | Số dư cuối ngày báo cáo |
+| 2. Tiền gửi tại Ngân hàng Nhà nước Việt Nam | | | Không điền | | 100% | | Không điền | | Số dư cuối ngày báo cáo |
+| 3. Tiền gửi không kỳ hạn tại ngân hàng hợp tác xã (trừ số dư tiền gửi của quỹ tín dụng nhân dân để đảm bảo khoản vay của quỹ tín dụng nhân dân tại NHHTX) | | | Không điền | | 100% | | Không điền | | |
+| | - Gốc | | Không điền | | 100% | | Không điền | | Ghi nhận theo tổng số dư tiền gửi vào ngân hàng hợp tác xã |
+| | - Lãi | | Không điền | | 100% | | Không điền | | |
+| 4. Tiền gửi có kỳ hạn tại ngân hàng hợp tác xã (trừ số dư tiền gửi của quỹ tín dụng nhân dân để đảm bảo khoản vay của quỹ tín dụng nhân dân tại NHHTX) | | | | | 100% | | | Dòng (4) = (4.1) + (4.2) | |
+| 4.1. Gốc | | | Không điền | | 100% | | Không điền | | Ghi nhận theo tổng số dư tiền gửi tại NHHTX và được tính 100% theo số tiền gốc dưới mọi kỳ hạn |
+| 4.2. Lãi | | | | | 100% | | | Tính theo kỳ hạn thực tế đến hạn của hợp đồng | |
+| 5. Số dư trên tài khoản thanh toán mở tại ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, trừ các khoản đã cam kết cho mục đích thanh toán cụ thể | | | Không điền | | 100% | | Không điền | | Số dư cuối ngày báo cáo |
+| 6. Dư nợ đến hạn thanh toán của các khoản cho vay (trừ nợ xấu) có bảo đảm bằng tài sản | | | | | 80% | | | Theo kỳ hạn trên hợp đồng vay | |
+| | - Gốc | | | | 80% | | | | |
+| | - Lãi | | | | 80% | | | | |
+| 7. Dư nợ đến hạn thanh toán của các khoản cho vay (trừ nợ xấu) không có bảo đảm bằng tài sản | | | | | 75% | | | Theo kỳ hạn trên hợp đồng vay | |
+| | - Gốc | | | | 75% | | | | |
+| | - Lãi | | | | 75% | | | | |
+| 8. Dư nợ đến hạn của các khoản nợ khác phải thu | | | | | 70% | | | Lấy số tiền chắc chắn sẽ thu được phát sinh từ “Tài sản Có khác” theo hướng dẫn của Thống đốc Ngân hàng Nhà nước Việt Nam về chế độ báo cáo tài chính đối với quỹ tín dụng nhân dân và các văn bản khác có liên quan, điền vào các cột thích hợp tương ứng với ngày phát sinh dòng tiền. | |
+| **II. Tài sản “Nợ” phải thanh toán (II=1+2+3+4)** | | | | | | | | | |
+| 1. Tiền gửi có kỳ hạn của khách hàng đến hạn thanh toán | | | | | 100% | | | Theo kỳ hạn trên hợp đồng tiền gửi | |
+| | - Gốc | | | | 100% | | | | |
+| | - Lãi | | | | 100% | | | | |
+| 2. Tiền gửi không kỳ hạn của khách hàng | | | Không điền | | 15% | | Không điền | | Số dư bình quân trong thời gian 30 ngày liền kề trước kể từ ngày hôm trước |
+| | - Gốc | | Không điền | | 15% | | Không điền | | |
+| | - Lãi | | Không điền | | 15% | | Không điền | | |
+| 3. Các khoản vay từ tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức khác theo quy định của pháp luật đến hạn thanh toán (trừ dư nợ vay của NHHTX được đảm bảo bằng tiền gửi của QTDND tại NHHTX) | | | | | 100% | | | Theo kỳ hạn trên hợp đồng vay | |
+| | - Gốc | | | | 100% | | | | |
+| | - Lãi | | | | 100% | | | | |
+| 4. Các khoản nợ khác đến hạn thanh toán | | | | | 100% | | | Lấy số tiền phát sinh từ việc thực hiện nghĩa vụ của “Các khoản nợ khác” theo hướng dẫn của Ngân hàng Nhà nước Việt Nam về chế độ báo cáo tài chính đối với quỹ tín dụng nhân dân và các văn bản khác có liên quan, điền vào các cột thích hợp. | |
+| **Tài sản “Có” có thể thanh toán ngay của ngày làm việc tiếp theo / Tài sản “Nợ” phải thanh toán của ngày làm việc tiếp theo** | | | | | | | | | |
+| **Tài sản “Có” có thể thanh toán ngay trong khoảng thời gian 7 ngày làm việc tiếp theo / Tài sản “Nợ” phải thanh toán trong khoảng thời gian 7 ngày làm việc tiếp theo** | | | | | | | | | |
+
+---
+
+Nơi nhận:
+- Như Điều 16;
+- Ban lãnh đạo NHNN;
+- Văn phòng Chính phủ;
+- Bộ Tư pháp (để kiểm tra);
+- Công báo;
+- Cổng thông tin điện tử NHNN;
+- Lưu: VP, Vụ PC, ATHT4.
