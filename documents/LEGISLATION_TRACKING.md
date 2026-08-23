@@ -1,3 +1,32 @@
+### Cập nhật 2026-08-23 v126 (Bột trực tiếp — 2026-08-23 07:30 ICT)
+
+**Thay đổi**:
+- Bảng "5 VB mới phát hiện" (poll v124 23/8): **329/2026/NĐ-CP** "Chưa có" → **"Hoàn thiện"**. File mới tạo tại `van-ban/329-2026-nd-cp.md` (44KB, 21 Điều 1-21, 4 Chương I-IV).
+
+**OCR Quality Gate (poll này)**:
+- `van-ban/329-2026-nd-cp.md`: **PASS** (OCR issues = 0, 21/21 Điều đầy đủ, 4/4 Chương theo thứ tự I→IV).
+
+**Nguồn**:
+- PDF 329/NĐ-CP (9.0MB, 20 trang) đã được tải ở poll 06:30 (23/8) nhưng để lại work dang dở (PDF + OCR raw + page PNG/PGM ở root).
+- Poll 07:30 này nhận diện work dang dở, hoàn thiện file Markdown từ OCR raw, đã qua OCR Quality Gate, commit/push vào PR #264.
+- Sau commit, đã dọn sạch PDF + artifacts tạm ở root (không commit file PDF/OCR vào repo theo HEARTBEAT 3.7).
+
+**Tiến độ cụm 5 NĐ An ninh mạng**:
+- 327/NĐ-CP: Hoàn thiện (poll 04:00 23/8).
+- 328/NĐ-CP: Hoàn thiện (poll 05:00 23/8).
+- 329/NĐ-CP: Hoàn thiện (poll 07:30 23/8).
+- 331/NĐ-CP, 332/NĐ-CP: Chờ Sếp quyết định crawl tiếp.
+
+**Lý do không spawn đệ**:
+- Work nhỏ (1 file ~44KB), đã có sẵn PDF + OCR raw, không tốn thời gian crawl/tải lại.
+- PR #264 "sống", commit trực tiếp vào branch active theo mục 2.5.
+
+**STUB còn lại (chờ Sếp quyết định)**:
+- `nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` — **Cao** (số hiệu có thể sai).
+- `106-2026-tt-btc` (OCR kém) — Trung bình.
+- `40-2026-tt-nhnn` (crawl ngắt Điều 10.6) — Trung bình.
+- `86-2026-TT-BTC` (archive) — Thấp.
+
 ### Cập nhật 2026-08-23 v124 (Đệ #1 Discovery & Tracking — 2026-08-23 00:33 ICT)
 
 ### Kết quả discovery: 5 văn bản mới (5 NĐ cluster An ninh mạng)
@@ -21,7 +50,7 @@
 |---|---|---|---|---|---|---|
 | 1 | **327/2026/NĐ-CP** | An ninh mạng (Bộ Công an) | 445069-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Chưa có** |
 | 2 | **328/2026/NĐ-CP** | Phòng chống tin giả (Bộ Công an) | 445080-d1 | 19/08/2026 | 19/08/2026 | **Hoàn thiện** |
-| 3 | **329/2026/NĐ-CP** | Lực lượng bảo vệ an ninh mạng (Bộ Công an) | 444902-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Chưa có** |
+| 3 | **329/2026/NĐ-CP** | Lực lượng bảo vệ an ninh mạng (Bộ Công an) | 444902-d1 | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | **Hoàn thiện** |
 | 4 | **331/2026/NĐ-CP** | Bảo vệ an ninh mạng cho hệ thống thông tin (Bộ Công an) | 445072-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
 | 5 | **332/2026/NĐ-CP** | Kinh doanh SP/DV an ninh mạng (Bộ Công an) | 444981-d1 | 19/08/2026 | 19/08/2026 | **Chưa có** |
 
