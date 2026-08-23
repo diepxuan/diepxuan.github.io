@@ -1,3 +1,20 @@
+### Cập nhật 2026-08-23 v131 (Đệ #3 Full Content Crawler — 2026-08-23 20:25 ICT)
+
+**Thay đổi**:
+- **62/2026/TT-BXD**: `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` chuyển **STUB → Hoàn thiện** (`status: hoanthien`, stub: false). File 88,3KB / 896 dòng: toàn văn Thông tư (3 Điều gồm Điều 3 về quy định chuyển tiếp cho dự án đã phê duyệt và tuyến đã vận hành — phần bị thiếu trong bản stub cũ) + toàn văn QCVN 32:2026/BXD kèm theo (Lời nói đầu; Mục 1 Quy định chung với 20 giải thích từ ngữ GoA0–GoA4; Mục 2 Quy định về kỹ thuật với 11 nhóm 2.1–2.11; Mục 3 Quy định về quản lý; Mục 4 Tổ chức thực hiện; 1 bảng kỹ thuật khoảng cách ke ga).
+
+**Giải quyết mâu thuẫn hiệu lực**: Metadata cũ ghi 01/02/2027, bảng discovery v124 ghi 01/09/2026. Toàn văn nguồn (Điều 2) xác nhận **hiệu lực 01/02/2027**; khớp với tin VTV/báo Chính phủ. Giữ 01/02/2027.
+
+**OCR Quality Gate (poll này)**:
+- `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md`: **PASS** (OCR issues = 0; 3/3 Điều đầy đủ range 1–3, Missing = [], Duplicate = [], suspicious headings = 0; heading QCVN 1→2→3→4 đúng thứ tự, 15 mục x.y không trùng/lệch thứ tự; kiểm kê 375/375 khối nội dung nguồn có mặt trong file cuối, 0 số liệu bị rơi; git diff --check pass).
+
+**Nguồn**:
+- Text chuẩn luatvietnam.vn slug/docid 442189-d1 (trích theo cấu trúc DOM demuc, 390 khối nội dung) cho toàn văn Thông tư + QCVN 32.
+- Đối chiếu thuvienphapluat.vn (tổng hợp tin) + tin VTV/baoxaydung xác nhận hiệu lực 01/02/2027 và người ký Thứ trưởng Nguyễn Danh Huy.
+- Không OCR PDF: luatvietnam đã có text đầy đủ cả hai phần; PDF datafiles.chinhphu.vn không cần thiết cho poll này.
+
+**Cập nhật bảng STUB**: Gỡ dòng #4 (`62-2026-tt-bxd-qcvn-32`) khỏi danh sách STUB tiềm năng; cập nhật khuyến nghị số 2 (đã xử lý tại v131, tương tự 48-2026-tt-bkhcn tại v129).
+
 ### Cập nhật 2026-08-23 v130 (Đệ #3 Full Content Crawler — 2026-08-23 19:35 ICT)
 
 **Thay đổi**:
@@ -160,7 +177,7 @@ Quét `find van-ban -name "*.md" -size -10k` so với `documents/LEGISLATION_TRA
 | 1 | `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1575 B | 2026-08-04 | 19d | **STUB** — ghi chú slug 441168 có thể là NĐ 291 về thuế (không phải NQ 291) | **Cao**: Xác minh/xóa |
 | 2 | `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1574 B | 2026-07-23 | 31d | **STUB** — chờ OCR PDF signed | **Thấp** (archive) |
 | 3 | `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` | ~51KB | 2026-08-23 | 0d | **Hoàn thiện v129** — đã crawl toàn văn từ luatvietnam (443501-d1), đối chiếu PDF scan SAO Y | Đã xử lý |
-| 4 | `van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md` | 4711 B | 2026-08-21 | 2d | **STUB** — QCVN 32 đường sắt đô thị metro | Trung bình |
+| 4 | ~~`van-ban/xay-dung/62-2026-tt-bxd-qcvn-32-duong-sat-do-thi-metro.md`~~ | 88KB | 2026-08-23 | 0d | **Hoàn thiện v131** — đã crawl toàn văn từ luatvietnam (442189-d1) | Đã xử lý |
 
 **File <10KB nhưng không phải STUB** (kích thước nhỏ tự nhiên — VB ngắn, bãi bỏ, QĐ hành chính, v.v.):
 - `van-ban/117-2026-TT-BTC.md` (1866 B), `van-ban/159-2026-nq-cp.md` (6034 B), `van-ban/17-2026-tt-bnv.md` (9303 B, ~10KB), `van-ban/20-2026-tt-btc.md` (4944 B), `van-ban/35-2026-TT-BCT.md` (3476 B), `van-ban/46-2026-tt-bkhcn.md` (9062 B), `van-ban/97-2026-TT-BTC.md` (6030 B)
@@ -176,7 +193,7 @@ Quét `find van-ban -name "*.md" -size -10k` so với `documents/LEGISLATION_TRA
 ### Khuyến nghị cho các subagent tiếp theo
 
 1. **Cao**: Xác minh slug/số hiệu `nghi-quyet-291-2026-nq-tpqh16` (file 1575 B) — có thể là NĐ 291 về thuế, không phải Nghị quyết 291.
-2. **Trung bình**: Re-OCR `62-2026-tt-bxd-qcvn-32` (4711 B) từ nguồn PDF chính thức. (`48-2026-tt-bkhcn` đã hoàn thiện tại v129.)
+2. ~~**Trung bình**: Re-OCR `62-2026-tt-bxd-qcvn-32` (4711 B) từ nguồn PDF chính thức.~~ **Đã xử lý tại v131**: hoàn thiện toàn văn từ luatvietnam 442189-d1 (88KB), hiệu lực xác nhận 01/02/2027.
 3. **Thấp**: Giữ nguyên `86-2026-TT-BTC` (archive).
 4. **Khẩn cấp**: Cụm 7 NĐ An ninh mạng (327–333) cần được crawl ưu tiên trong poll tiếp theo — đây là hành lang pháp lý quan trọng cho Luật An ninh mạng 2025.
 
