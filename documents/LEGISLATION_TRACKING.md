@@ -1,3 +1,41 @@
+### Cập nhật 2026-08-24 v139 — Đệ #3 Full Content Crawler (crawl 119/2026/TT-BTC kế toán nợ công — 2026-08-24 01:20 ICT)
+
+**Thay đổi**:
+- **119/2026/TT-BTC**: tạo mới `van-ban/tai-chinh/119-2026-tt-btc.md`, chuyển trạng thái **"Chưa có (chờ crawl)" → "Hoàn thiện"**. File ~32KB / 462 dòng: front matter đầy đủ (layout vanban, title, so_hieu, ngay_ban_hanh 18/08/2026, nguoi_ky Tạ Anh Tuấn, ngay_hieu_luc 01/01/2027 + áp dụng từ năm tài chính 2027, bo_phan_ban_hanh Bộ Tài chính, linh_vuc Kế toán, group tai-chinh, docid 219263), toàn văn Thông tư **26 Điều / 7 Chương** + khối Nơi nhận + chữ ký KT. BỘ TRƯỞNG THỨ TRƯỞNG Tạ Anh Tuấn + mục liệt kê 8 Phụ lục kèm theo (Phụ lục I–VIII; chi tiết danh mục TK/sổ/mẫu biểu trong PDF gốc).
+
+**Metadata đối chiếu nguồn (vanban.chinhphu.vn docid 219263)**:
+- Số hiệu: 119/2026/TT-BTC; ngày ban hành 18-08-2026; ngày hiệu lực **01-01-2027** (Điều 24: có hiệu lực 01/01/2027 và áp dụng từ năm tài chính 2027); người ký **Tạ Anh Tuấn**; cơ quan ban hành Bộ Tài chính.
+- Trích yếu: Hướng dẫn chế độ kế toán đối với các khoản vay, trả nợ của Chính phủ, chính quyền địa phương; thống kê, theo dõi các khoản nợ cho vay lại và bảo lãnh Chính phủ.
+- PDF đính kèm chính thức: `cpp/files/vbpq/2026/8/119-btc.signed.pdf` (1,4MB, 77 trang scan, ký bởi BỘ TÀI CHÍNH 21/08/2026 + Cục TT&TT Chính phủ).
+
+**Nguồn & pipeline**:
+- OCR Signed PDF Pipeline: scripts/ocr_pdf.py (pdftoppm 150 DPI PNG + tesseract vie), 77/77 trang, output ~133KB tại /tmp (không commit vào repo). Phần body chính (trang 1–15) OCR biên tập thủ công; Phụ lục I–VIII (~62 trang danh mục tài khoản/sổ kế toán/mẫu biểu dạng bảng) ghi tóm lược theo cấu trúc + dẫn nguồn PDF chính thức.
+- Cấu trúc đối chiếu từ OCR raw: 7 chương (sửa "Chương H" → II, "Chương VI" trùng ở Điều 24 → VII), 26 điều liên tục 1–26 không khuyết.
+
+**OCR Quality Gate (kết quả)**:
+- Scan OCR: **0 issues**.
+- Scan Điều: **26/26, range 1–26, Missing = [], Duplicate = []**, suspicious heading = none.
+- Scan Chương: **7/7 La Mã I→VII đúng thứ tự**, Duplicate = [], Out-of-order = [], bad pattern = none.
+- Ghi chú debug/crawler trong file public: 0. git diff --check: pass.
+- Kết quả gate: **PASS**.
+
+**Lỗi OCR đã sửa khi biên tập** (đối chiếu ngữ cảnh):
+- "thông kê" → thống kê (Điều 3); "Tô chức/Tổ chức bộ phận" → Tổ chức;
+- "sử đụng" → sử dụng (Điều 7); "đưới/đưới hình thức" → dưới (Điều 8);
+- "Chương H" → Chương II; "KẾ toán" → Kế toán (heading Điều 14);
+- "cắp và quản lý bảo lãnh" → cấp và quản lý (Căn cứ NĐ 91/2018); "vay trụ đổi" → vay thu đổi;
+- "ghỉ chép" → ghi chép; "tỉnh hình" → tình hình; "chính quyển/chính quyên địa phương" → chính quyền địa phương;
+- "bỗ sung/bồ sung" → bổ sung; "sửa đôi/sửa đâi" → sửa đổi; "mục nát" giữ nguyên (đúng chính tả);
+- "Phụ lục TV" → Phụ lục IV (Điều 16); "Phụ lục VII" thứ hai (sau B02/TH) → Phụ lục VIII (Điều 23, đối chiếu thứ tự phụ lục);
+- "B0LBL/B01/BL", "B0LNN/B03/NN", "DA L/TN/B93/TN" → chuẩn hóa mã mẫu biểu B01/BL, B03/NN, B03/TN theo ngữ cảnh bảng;
+- "ngày lã/tháng thứ 2" → ngày 20 của tháng thứ 2 (Điều 17 bảng); "Trước ngảy 2gTpN 20/02" → Trước ngày 20/02.
+
+**Session**: agent:github-io:subagent:88b57c01 (Đệ #3 Full Content Crawler v139)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Commit dự kiến**: crawl: 119/2026/TT-BTC - kế toán nợ công, bảo lãnh CP, cho vay lại (26 Điều/7 Chương, gate PASS) + tracking v139
+
+---
+
 ### Cập nhật 2026-08-24 v138 — Đệ #3 Full Content Crawler (crawl 118/2026/TT-BTC chuẩn mực kế toán quốc tế — 2026-08-24 00:33 ICT)
 
 **Thay đổi**:
@@ -140,7 +178,7 @@
 |---|---------|--------|---------------------------|---------|------------|------------|
 | 1 | **335/2026/NĐ-CP** | An sinh xã hội / Chính sách xã hội (Chính phủ) | 219249 | 21/08/2026 | `cpp/files/vbpq/2026/8/335_2026_nd-cp_21082026-signed.signed.pdf` | Hoàn thiện (v137 — `van-ban/an-sinh-xa-hoi/335-2026-nd-cp.md`) |
 | 2 | **118/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219262 | 18/08/2026 | `cpp/files/vbpq/2026/8/118-btc.signed.pdf` | Hoàn thiện (v138 — `van-ban/tai-chinh/118-2026-tt-btc.md`) |
-| 3 | **119/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219263 | 18/08/2026 | `cpp/files/vbpq/2026/8/119-btc.signed.pdf` | Chưa có (chờ crawl) |
+| 3 | **119/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219263 | 18/08/2026 | `cpp/files/vbpq/2026/8/119-btc.signed.pdf` | Hoàn thiện (v139 — `van-ban/tai-chinh/119-2026-tt-btc.md`) |
 | 4 | **120/2026/TT-BTC** | Tài chính / Phòng chống mua bán người (Bộ Tài chính) | 219225 | 18/08/2026 | `cpp/files/vbpq/2026/8/120-btc.signed.pdf` | Chưa có (chờ crawl) |
 
 **Trích yếu**:
