@@ -1,3 +1,40 @@
+### Cập nhật 2026-08-24 v140 — Đệ #3 Full Content Crawler (crawl 120/2026/TT-BTC hỗ trợ nạn nhân mua bán người — 2026-08-24 01:55 ICT)
+
+**Thay đổi**:
+- **120/2026/TT-BTC**: tạo mới `van-ban/tai-chinh/120-2026-tt-btc.md`, chuyển trạng thái **"Chưa có (chờ crawl)" → "Hoàn thiện"**. File ~21,5KB / 236 dòng: front matter đầy đủ (layout vanban, title, so_hieu, ngay_ban_hanh 18/08/2026, nguoi_ky Nguyễn Thị Bích Ngọc, ngay_hieu_luc 02/10/2026, bo_phan_ban_hanh Bộ Tài chính, linh_vuc Phòng chống mua bán người + Ngân sách nhà nước, group tai-chinh, docid 219225), toàn văn Thông tư **8 Điều / không phân chương** + khối Nơi nhận + chữ ký KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Thị Bích Ngọc.
+
+**Metadata đối chiếu nguồn (vanban.chinhphu.vn docid 219225)**:
+- Số hiệu: 120/2026/TT-BTC; ngày ban hành 18-08-2026; ngày hiệu lực **02-10-2026** (Điều 8); người ký **Nguyễn Thị Bích Ngọc**; cơ quan ban hành Bộ Tài chính.
+- Trích yếu: Quy định nội dung, mức chi cho công tác xác minh, xác định, bảo vệ và hỗ trợ nạn nhân, người đang trong quá trình xác định là nạn nhân bị mua bán và người dưới 18 tuổi đi cùng quy định tại Nghị định số 162/2025/NĐ-CP ngày 29 tháng 6 năm 2025 của Chính phủ quy định chi tiết thi hành một số điều và biện pháp thi hành Luật Phòng, chống mua bán người.
+- PDF đính kèm chính thức: `cpp/files/vbpq/2026/8/120-btc.signed.pdf` (0,4MB, 8 trang scan, ký bởi BỘ TÀI CHÍNH 18/08/2026 + Cục TT&TT Chính phủ 19/08/2026).
+
+**Nguồn & pipeline**:
+- OCR Signed PDF Pipeline: scripts/ocr_pdf.py (pdftoppm 150 DPI PNG + tesseract vie), 8/8 trang, output ~26KB tại /tmp (không commit vào repo).
+- Đối chiếu chéo: toàn văn luatvietnam.vn slug `thong-tu-120-2026-tt-btc-quy-dinh-chi-tiet-ve-xac-minh-va-ho-tro-nan-nhan-mua-ban-nguoi-444623-d1` — khớp toàn bộ nội dung Điều 1–8; re-OCR 300 DPI cho các chi tiết nghi vấn.
+- Xác minh số hiệu quan trọng: "Luật Phòng, chống mua bán người số 53/2024/QH15" (bản 150 DPI đọc nhầm "33", 300 DPI + luatvietnam xác nhận 53); điểm đ khoản 5 Điều 4 (điểm đ trợ cấp khó khăn ban đầu — có thật, xác nhận 300 DPI); "Tổng điều tra thống kê quốc gia" (OCR raw "thông kê"); chữ ký Thứ trưởng Nguyễn Thị Bích Ngọc (crop 300 DPI trang cuối, khớp metadata vanban.chinhphu.vn); dòng Lưu "VT, KTN (4b)".
+
+**OCR Quality Gate (kết quả)**:
+- Scan OCR: **0 issues**.
+- Scan Điều: **8/8, range 1–8, Missing = [], Duplicate = []**, suspicious heading = none.
+- Scan Chương: **0 Chương** (văn bản không phân chương — đúng cấu trúc gốc, chỉ có 8 Điều).
+- Ghi chú debug/crawler trong file public: 0. git diff --check: pass.
+- Kết quả gate: **PASS**.
+
+**Lỗi OCR đã sửa khi biên tập** (đối chiếu ngữ cảnh + nguồn):
+- Lỗi hệ thống "chỉ↔chi": "mức chỉ/chỉ thường xuyên/chỉ tiết/chỉ trả/hướng dân/thâm quyên" → mức chi/chi thường xuyên/chi tiết/chi trả/hướng dẫn/thẩm quyền (toàn văn);
+- "số 33/2024/QH15" → số 53/2024/QH15 (Căn cứ Luật PCTMN người, đối chiếu 300 DPI + luatvietnam);
+- "Nghị định số 166/2023/NĐ-CP" → 166/2025/NĐ-CP;
+- "Thông tư số 08/2005/TT) LT-BNV-BTC" → 08/2005/TTLT-BNV-BTC; "Nghị định số 09/2013/NĐ- CP ngày Ì1 tháng 01" → 11 tháng 01;
+- "ngày 27 tháng l1 năm 2019" → ngày 27 tháng 11 năm 2019 (Điều 8); "hết hiệu lực kể từ ngày ngảy" → kể từ ngày;
+- "Sở Y tệ" → Sở Y tế (Điều 6); "người dẫn đường kiêm phiên dịch tiếng dân tộc" giữ nguyên (đúng gốc);
+- Ký tự rác OCR raw (ø©§®, "53." → 8., dấu gạch đầu dòng lỗi, "/-ye+-") đã chuẩn hóa khi viết file.
+
+**Session**: agent:github-io:subagent:dfadfa2e (Đệ #3 Full Content Crawler v140)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Commit dự kiến**: crawl: 120/2026/TT-BTC - hỗ trợ nạn nhân mua bán người theo NĐ 162/2025 (N Điều/M Chương, gate PASS) + tracking v140
+
+---
+
 ### Cập nhật 2026-08-24 v139 — Đệ #3 Full Content Crawler (crawl 119/2026/TT-BTC kế toán nợ công — 2026-08-24 01:20 ICT)
 
 **Thay đổi**:
@@ -179,7 +216,7 @@
 | 1 | **335/2026/NĐ-CP** | An sinh xã hội / Chính sách xã hội (Chính phủ) | 219249 | 21/08/2026 | `cpp/files/vbpq/2026/8/335_2026_nd-cp_21082026-signed.signed.pdf` | Hoàn thiện (v137 — `van-ban/an-sinh-xa-hoi/335-2026-nd-cp.md`) |
 | 2 | **118/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219262 | 18/08/2026 | `cpp/files/vbpq/2026/8/118-btc.signed.pdf` | Hoàn thiện (v138 — `van-ban/tai-chinh/118-2026-tt-btc.md`) |
 | 3 | **119/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219263 | 18/08/2026 | `cpp/files/vbpq/2026/8/119-btc.signed.pdf` | Hoàn thiện (v139 — `van-ban/tai-chinh/119-2026-tt-btc.md`) |
-| 4 | **120/2026/TT-BTC** | Tài chính / Phòng chống mua bán người (Bộ Tài chính) | 219225 | 18/08/2026 | `cpp/files/vbpq/2026/8/120-btc.signed.pdf` | Chưa có (chờ crawl) |
+| 4 | **120/2026/TT-BTC** | Tài chính / Phòng chống mua bán người (Bộ Tài chính) | 219225 | 18/08/2026 | `cpp/files/vbpq/2026/8/120-btc.signed.pdf` | Hoàn thiện (v140 — `van-ban/tai-chinh/120-2026-tt-btc.md`) |
 
 **Trích yếu**:
 1. **335/2026/NĐ-CP** — Quy định chính sách trợ giúp xã hội. Ban hành 21/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219249`. Văn bản lớn về an sinh xã hội, khuyến nghị ưu tiên cao cho crawler.
