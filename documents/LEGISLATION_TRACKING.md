@@ -1,4 +1,12 @@
-### Cập nhật 2026-08-23 v133 (Đệ crawl 112/2026/TT-BQP — 2026-08-23 22:20 ICT)
+### Cập nhật 2026-08-23 v134 (Đệ #3 Full Content Crawler — dọn trùng lặp — 2026-08-23 22:45 ICT)
+
+**Thay đổi**:
+- Gỡ file trùng lặp `van-ban/khoa-hoc/46-2026-tt-bkhcn.md` (3.757 B) — stub của Thông tư 46/2026/TT-BKHCN với metadata SAI ngày ban hành (01/08/2026 thay vì 12/08/2026) và chứa ghi chú stub nội bộ "Trạng thái: Chưa hoàn thiện (Stub)" vi phạm mục 3.6 HEARTBEAT.md và OCR_QUALITY_GATE.md mục 2 (ghi chú agent không được public).
+- Giữ lại file chính thức `van-ban/46-2026-tt-bkhcn.md` (9.062 B): toàn văn đầy đủ hơn — metadata đúng (ban hành 12/08/2026, hiệu lực 20/09/2026, nguồn mst.gov.vn), đủ 3 Điều (Điều 1: điều kiện đơn vị tổ chức xét thưởng; Điều 2: khung tiêu chí xét tặng gồm 7 nhóm tiêu chí a–g; Điều 3: điều kiện đối với tổ chức/cá nhân/sản phẩm hàng hóa đăng ký) + phạm vi áp dụng + hiệu lực.
+
+**So sánh nội dung trước khi xóa**: đối chiếu từng mục tóm tắt của stub với file giữ lại — mọi điểm stub có đều nằm trong file chính thức với chi tiết đầy đủ hơn (Điều 1 khớp mục 1; Điều 2 khớp mục 2; Điều 3 khớp mục 3; ghi chú trách nhiệm đơn vị đăng ký = khoản 3 Điều 3). Stub không có nội dung pháp lý nào mà file chính thức thiếu → xóa an toàn, không cần hợp nhất thủ công.
+
+**Tham chiếu**: grep toàn `_pages`, `_posts`, `documents`, `_data`, `_includes`, `_layouts` — chỉ `documents/LEGISLATION_TRACKING.md` tham chiếu đường dẫn stub (dòng danh sách <10KB); đã gỡ khỏi danh sách. Không có trang/category nào khác trỏ tới stub.
 
 **Thay đổi**:
 - **112/2026/TT-BQP**: "Chưa có (chờ crawl)" → **"Hoàn thiện"**. File mới `van-ban/quoc-phong/112-2026-tt-bqp.md` (40,9KB / 619 dòng): toàn văn Thông tư Hướng dẫn thực hiện công tác điều ước quốc tế thuộc phạm vi quản lý của Bộ Quốc phòng — 60 Điều, 10 Chương I–X, 7 Mục (Mục 1–7 thuộc Chương II). Metadata: ban hành 31/07/2026, hiệu lực 15/09/2026 (Điều 59), người ký Thượng tướng Nguyễn Trường Thắng (KT. Bộ trưởng, Thứ trưởng), docid 443237-d1. Điều 59 đồng thời chấm dứt hiệu lực Thông tư 95/2015/TT-BQP.
@@ -210,7 +218,7 @@ Quét `find van-ban -name "*.md" -size -10k` so với `documents/LEGISLATION_TRA
 **File <10KB nhưng không phải STUB** (kích thước nhỏ tự nhiên — VB ngắn, bãi bỏ, QĐ hành chính, v.v.):
 - `van-ban/117-2026-TT-BTC.md` (1866 B), `van-ban/159-2026-nq-cp.md` (6034 B), `van-ban/17-2026-tt-bnv.md` (9303 B, ~10KB), `van-ban/20-2026-tt-btc.md` (4944 B), `van-ban/35-2026-TT-BCT.md` (3476 B), `van-ban/46-2026-tt-bkhcn.md` (9062 B), `van-ban/97-2026-TT-BTC.md` (6030 B)
 - `van-ban/chinh-phu/278-2026-ND-CP.md` (9303 B), `van-ban/dat-dai/quyet-dinh-1341-2026-qd-ttg-ho-tro-do-dac-ban-do-dia-chinh.md` (5376 B)
-- `van-ban/dau-tu/thong-tu-63-2026-tt-bxd-dinh-muc-du-toan-xay-dung-tuyen-duong-sat-lao-cai-ha-noi-hai-phong.md` (8098 B), `van-ban/khoa-hoc/46-2026-tt-bkhcn.md` (3757 B)
+- `van-ban/dau-tu/thong-tu-63-2026-tt-bxd-dinh-muc-du-toan-xay-dung-tuyen-duong-sat-lao-cai-ha-noi-hai-phong.md` (8098 B)
 - `van-ban/ngoai-giao/07-2026-tt-bng-bai-bo-van-ban-quy-pham-phap-luat.md` (8425 B), `van-ban/ngoai-giao/07-2026-tt-bng.md` (8161 B)
 - `van-ban/quoc-phong/191-nq-cp-du-an-luat-su-doi-09-luat-quoc-phong.md` (3766 B), `van-ban/quoc-phong/thong-tu-115-2026-tt-bqp.md` (6863 B)
 - `van-ban/tai-chinh/111-2026-tt-btc.md` (5292 B), `van-ban/tai-chinh/114-2026-tt-btc.md` (7892 B), `van-ban/tai-chinh/116-2026-tt-btc.md` (8769 B), `van-ban/tai-chinh/1341-2026-qd-ttg-ho-tro-do-dac-dat-dai.md` (5345 B)
@@ -881,7 +889,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 - 312/2026/NĐ-CP (443292-d1): Đã có — "Chưa có (chờ crawl)" (v107)
 - 313/2026/NĐ-CP (443329-d1): Đã có — "Chưa có (chờ crawl)" (v107)
 - 311/2026/NĐ-CP (443102-d1): Đã hoàn thiện (v105)
-- 46/2026/TT-BKHCN: Đã có — "Chưa có (chờ crawl)" (v103); lưu ý repo đang có 2 file trùng cho 46 cần dọn riêng. 47/2026/TT-BKHCN: Đã hoàn thiện (v132)
+- 46/2026/TT-BKHCN: Đã có — "Chưa có (chờ crawl)" (v103); lưu ý repo đang có 2 file trùng cho 46 cần dọn riêng → **đã dọn xong tại v134** (giữ `van-ban/46-2026-tt-bkhcn.md`, gỡ stub `van-ban/khoa-hoc/46-2026-tt-bkhcn.md`). 47/2026/TT-BKHCN: Đã hoàn thiện (v132)
 - 112/2026/TT-BQP: Đã hoàn thiện (v133)
 - 39/TT-NHNN, 63/TT-BXD, 45/TT-BKHCN: Đã hoàn thiện (v106)
 
