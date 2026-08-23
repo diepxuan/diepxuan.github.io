@@ -1,3 +1,18 @@
+### Cập nhật 2026-08-23 v132 (Bột trực tiếp — 2026-08-23 21:29 ICT)
+
+**Thay đổi**:
+- **47/2026/TT-BKHCN**: "Chưa có" → **"Hoàn thiện"**. File mới `van-ban/khoa-hoc/47-2026-tt-bkhcn.md` (74,5KB / 885 dòng): toàn văn Thông tư quy định hoạt động đào tạo chuyên môn đối với chuyên gia đánh giá, thử nghiệm viên, giám định viên, chuyên gia năng suất chất lượng và kiểm soát viên chất lượng sản phẩm, hàng hóa — 18 Điều, 3 Chương I–III, 6 Phụ lục I–VI (khung chương trình đào tạo, mẫu bản công bố năng lực, mẫu danh sách giảng viên). Metadata: ban hành 31/07/2026, hiệu lực 20/09/2026, người ký Vũ Hải Quân, docid 443236-d1.
+
+**Bối cảnh**: Đệ #3 `crawler-47-tt-bkhcn` (spawn poll 20:29) tự hoàn thành soạn file nhưng chết trước khi commit; Bột tiếp quản verify + commit tại poll 21:29.
+
+**OCR Quality Gate (poll này)**:
+- `van-ban/khoa-hoc/47-2026-tt-bkhcn.md`: **PASS** (OCR issues = 0 thực chất — 6 hits đều false-positive "ngày l" là substring của "ngày làm việc", đã ghi nhận tại v125; 18/18 Điều range 1–18, Missing = [], Duplicate = [], suspicious headings = 0; Chương I→II→III đúng thứ tự; Phụ lục I→VI đủ; không ghi chú debug; git diff --check pass).
+
+**Nguồn** (đối chiếu chéo):
+- PDF signed datafiles.chinhphu.vn `47-bkhcn.signed.pdf` 10,5MB (đệ tải 20:42) + pdftotext/layout.
+- luatvietnam.vn slug 443236-d1: xác nhận số hiệu, ngày ban hành 31/07/2026, hiệu lực 20/09/2026, người ký Vũ Hải Quân.
+- vanban.chinhphu.vn page (vbp_47.html): khớp số hiệu + người ký.
+
 ### Cập nhật 2026-08-23 v131 (Đệ #3 Full Content Crawler — 2026-08-23 20:25 ICT)
 
 **Thay đổi**:
@@ -853,7 +868,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 - 312/2026/NĐ-CP (443292-d1): Đã có — "Chưa có (chờ crawl)" (v107)
 - 313/2026/NĐ-CP (443329-d1): Đã có — "Chưa có (chờ crawl)" (v107)
 - 311/2026/NĐ-CP (443102-d1): Đã hoàn thiện (v105)
-- 46/47/2026/TT-BKHCN: Đã có — "Chưa có (chờ crawl)" (v103)
+- 46/2026/TT-BKHCN: Đã có — "Chưa có (chờ crawl)" (v103); lưu ý repo đang có 2 file trùng cho 46 cần dọn riêng. 47/2026/TT-BKHCN: Đã hoàn thiện (v132)
 - 112/2026/TT-BQP: Đã có — "Chưa có (chờ crawl)" (v103)
 - 39/TT-NHNN, 63/TT-BXD, 45/TT-BKHCN: Đã hoàn thiện (v106)
 
@@ -11793,7 +11808,7 @@ PR #263: `gh pr view 263` → **0 comments, 0 reviews**. MERGEABLE. Chờ Sếp 
 | # | Số hiệu | Lĩnh vực | Slug | Trạng thái |
 |---|--------|----------|------|------------|
 | 1 | 46/2026/TT-BKHCN | khoa-hoc | 443235-d1 | Chưa có (chờ crawl) |
-| 2 | 47/2026/TT-BKHCN | khoa-hoc | 443236-d1 | Chưa có (chờ crawl) |
+| 2 | 47/2026/TT-BKHCN | khoa-hoc | 443236-d1 | **Hoàn thiện** (v132) |
 | 3 | 112/2026/TT-BQP | quoc-phong | 443237-d1 | Chưa có (chờ crawl) |
 
 #### Discovery v107 — bổ sung 2 NĐ mới (21:09 ICT 9/8, lastmod sitemap 18:08 ICT)
