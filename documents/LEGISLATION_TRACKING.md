@@ -54,6 +54,81 @@
 
 ---
 
+### Cập nhật 2026-08-24 v136 (Đệ #1 Discovery & Tracking — 2026-08-23 23:50 ICT)
+
+### Kết quả discovery: **4 văn bản mới** (chưa có trong tracking v135, chưa có file van-ban/)
+
+**Phương pháp**: Crawl trực tiếp vanban.chinhphu.vn (`/?pageid=27160`, danh sách VB mới nhất — trang render đầy đủ không cần JS), parse 50 dòng văn bản gần nhất (ban hành 14–22/08/2026), đối chiếu chéo với tracking v135 + thư mục `van-ban/`. Docid + PDF signed lấy trực tiếp từ trang nguồn.
+
+**Bối cảnh ref**: Trạng thái branch hiện tại = v135 (commit af1d3481). Lần crawl trước của Đệ #1 (v124, 23/8 00:33) đã phát hiện nhưng vượt giới hạn 5: 330/2026/NĐ-CP, 333/2026/NĐ-CP, 51/2026/TT-BKHCN, 19/2026/TT-BNV. Các văn bản này vẫn "Chưa có" trong tracking và chưa có file van-ban/ → đưa vào chính thức ở poll này.
+
+**4 VB mới phát hiện**:
+
+| # | Số hiệu | Chủ đề | Docid (vanban.chinhphu.vn) | Ngày BH | PDF signed | Trạng thái |
+|---|---------|--------|---------------------------|---------|------------|------------|
+| 1 | **335/2026/NĐ-CP** | An sinh xã hội / Chính sách xã hội (Chính phủ) | 219249 | 21/08/2026 | `cpp/files/vbpq/2026/8/335_2026_nd-cp_21082026-signed.signed.pdf` | Chưa có (chờ crawl) |
+| 2 | **118/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219262 | 18/08/2026 | `cpp/files/vbpq/2026/8/118-btc.signed.pdf` | Chưa có (chờ crawl) |
+| 3 | **119/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219263 | 18/08/2026 | `cpp/files/vbpq/2026/8/119-btc.signed.pdf` | Chưa có (chờ crawl) |
+| 4 | **120/2026/TT-BTC** | Tài chính / Phòng chống mua bán người (Bộ Tài chính) | 219225 | 18/08/2026 | `cpp/files/vbpq/2026/8/120-btc.signed.pdf` | Chưa có (chờ crawl) |
+
+**Trích yếu**:
+1. **335/2026/NĐ-CP** — Quy định chính sách trợ giúp xã hội. Ban hành 21/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219249`. Văn bản lớn về an sinh xã hội, khuyến nghị ưu tiên cao cho crawler.
+2. **118/2026/TT-BTC** — Hướng dẫn đối tượng, phạm vi và thể thức áp dụng Chuẩn mực quốc tế về kế toán tại Việt Nam. Ban hành 18/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219262`.
+3. **119/2026/TT-BTC** — Hướng dẫn chế độ kế toán đối với các khoản vay, trả nợ của Chính phủ, chính quyền địa phương; thống kê, theo dõi các khoản nợ cho vay lại và bảo lãnh Chính phủ. Ban hành 18/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219263`.
+4. **120/2026/TT-BTC** — Quy định nội dung, mức chi cho công tác xác minh, xác định, bảo vệ và hỗ trợ nạn nhân, người đang trong quá trình xác định là nạn nhân bị mua bán và người dưới 18 tuổi đi cùng theo NĐ 162/2025/NĐ-CP. Ban hành 18/08/2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219225`.
+
+**Đã kiểm tra — KHÔNG thêm vào bảng mới (đã có trong tracking hoặc đã có file)**:
+- 321–334/NĐ-CP, 34/2026/TT-BNNMT, 19/2026/TT-BNV, 51/2026/TT-BKHCN, 38/2026/NQ-CP: đã có trong tracking (51/TT-BKHCN + 19/TT-BNV phát hiện từ v124, chưa crawl — giữ nguyên trạng thái).
+- 247/NQ-CP, 243/NQ-CP, 240/NQ-CP, 1624/QĐ-TTg, các công điện/công văn/TB-VPCP: ngoài phạm vi NĐ-CP/TT trọng tâm tracking (ghi nhận để poll sau cân nhắc nếu Sếp muốn mở rộng phạm vi).
+
+### Rà soát van-ban/ — file chưa hoàn thiện/metadata thiếu CHƯA được ghi nhận trong tracking (bổ sung lần đầu)
+
+Quét: files <10KB + lastedit >7 ngày, và files có metadata placeholder "(Đang cập nhật)" trong front matter/THÔNG TIN VĂN BẢN, so sánh với tracking (grep basename).
+
+**A. File có metadata placeholder "(Đang cập nhật)" chưa ghi nhận trong tracking — 4 file**:
+
+| # | File | Size | date ban hành | modified | Placeholder | Ghi chú |
+|---|------|------|---------------|----------|-------------|---------|
+| 1 | `van-ban/an-ninh-quoc-gia/315-2026-nd-cp.md` | 25.5KB | 10/08/2026 | 13/08/2026 | `Ngày hiệu lực: (Đang cập nhật)` | Tracking ghi "Hoàn thiện (v108)" nhưng metadata thiếu hiệu lực. NĐ 315 về kiểm định an ninh thiết bị BV bí mật NN (443624-d1). Cần bổ sung ngày hiệu lực từ nguồn. |
+| 2 | `van-ban/giao-duc/nd-322-2026-nd-cp.md` | 27KB | 17/08/2026 | 19/08/2026 | `Ngày hiệu lực: (Đang cập nhật)` | Tracking ghi "Hoàn thiện" nhưng metadata thiếu hiệu lực. NĐ 322 sửa đổi NĐ 86/2021 du học (444451-d1). Front matter group/tags không dấu (`Giao duc`) — vi phạm OCR_QUALITY_GATE mục 3. Cần bổ sung + sửa metadata. |
+| 3 | `van-ban/bo-noi-vu/thong-tu-18-2026-tt-bnv.md` | 24.8KB | 12/08/2026 | 16/08/2026 | `Ngày hiệu lực: (Đang cập nhật)` | File tồn tại nhưng tracking v115 vẫn ghi **"Chưa có"** → cần flip trạng thái sau khi hoàn thiện metadata. TT 18/2026/TT-BNV Kỷ niệm chương ngành Nội vụ (443954-d1). |
+| 4 | `van-ban/317-2026-nd-cp.md` | 25KB | 11/08/2026 | 19/08/2026 | `Người ký: (Đang cập nhật)` | Tracking ghi "Hoàn thiện" nhưng thiếu người ký. NĐ 317 Quỹ Học bổng Quốc gia (443816-d1). Lưu ý file nằm ở root van-ban/, tracking chưa ghi đường dẫn. |
+
+**B. File <10KB + lastedit >7 ngày chưa được liệt kê trong các block stub cũ của tracking — 15 file**:
+
+Nhóm đáng lưu ý (VBPL 2026 thật sự, có thể là bản rút gọn/stub):
+- `van-ban/lao-dong/thong-tu-12-2026-tt-bnv.md` (7.7KB, 07/07) — TT 12/2026/TT-BNV trợ cấp cán bộ xã nghỉ việc; **chưa có bất kỳ nhắc nào trong tracking**
+- `van-ban/ngan-hang/thong-tu-25-2026-tt-nhnn-sua-doi-gioi-han-an-toan.md` (7.5KB, 08/07) — TT 25/2026/TT-NHNN sửa đổi giới hạn an toàn QTDND; **chưa có trong tracking** (cần đối chiếu với TT 40/2026 cùng chủ đề)
+- `van-ban/ngan-hang/thong-tu-19-2026-tt-nhnn-phan-cap-thu-tuc-hanh-chinh-thu-nghiem.md` (7.2KB, 16/06) — bản sandbox thử nghiệm; tracking chỉ ghi bản `-ngan-hang` (6 Điều, 435183-d1) → nghi trùng lặp nội dung giữa 2 file
+- `van-ban/y-te/34-2026-qd-ttg-sua-doi-hiv-nghe-nghiep.md` (7.3KB, 14/07) — file đã có nhưng tracking vẫn ghi "Chưa có" → cần flip trạng thái
+- `van-ban/y-te-duoc/thong-tu-12-2026-tt-btc-giam-dinh-chi-phi-kcb-bhyt.md` (4.3KB, 12/06) — TT 12/2026/TT-BTC giám định chi phí KCB BHYT; **chưa có trong tracking**
+- `van-ban/tai-chinh/nghi-dinh-202-2026-nd-cp-sua-doi-le-phi-truoc-ba.md` (5.5KB, 07/07) — NĐ 202 sửa đổi lệ phí trước bạ; **chưa có trong tracking**
+- `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-quyet-19-2026-qh16-sua-doi-thue-xang-dau.md` (7.9KB, 13/06) — NQ 19/2026/QH16 sửa thuế xăng dầu; **chưa có trong tracking**
+- `van-ban/da-nganh/nghi-quyet-141-nq-cp-4-luat-thuong-mai.md` (6.7KB, 12/06) — NQ 141/NQ-CP; **chưa có trong tracking**
+
+Nhóm nhỏ tự nhiên / trùng lặp nội bộ (ưu tiên thấp):
+- `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/97-2026-tt-btc-bai-bo-thong-tu-55-2010-tt-btc.md`, `van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thong-tu-97-2026-tt-btc-bai-bo-tt-55-2010.md`, `van-ban/tai-chinh/thong-tu-97-2026-tt-btc-bai-bo-tt-55-2010.md`, `van-ban/97-2026-TT-BTC.md` — **4 bản của cùng một TT bãi bỏ** (khuyến nghị cleanup như case 40/2026/TT-NHNN tại v135)
+- `van-ban/xa-hoi/cong-dien-47-2026-cd-ttg-tai-nan-phu-quoc.md`, `cong-dien-46-2026-cd-ttg-phong-chong-duoi-nuoc-tre-em.md` — công điện ngắn, đặc thù
+- `van-ban/to-chuc-nha-nuoc/quyet-dinh-1246-2026-qd-ttg-phe-chuan-ket-qua-bau-chuc-vu-pho-chu-tich-ubnd-tinh-dak-lak-nk-2026-2031.md` — QĐ nhân sự
+- `van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/theo-doi-tinh-hinh-thi-hanh-phap-luat.md`, `kiem-tra-va-xu-ly-van-ban-quy-pham-phap-luat.md`, `thuc-hien-dan-chu-trong-hoat-dong-cua-co-quan-hanh-chinh-nha-nuoc-va-don-vi-su-nghiep-cong-lap.md` — page chủ đề cũ, không phải VB đơn lẻ
+- `van-ban/crawled/README.md` — README, loại khỏi scan
+
+### Khuyến nghị cho các subagent tiếp theo
+
+1. **Cao**: Crawl 335/2026/NĐ-CP (trợ giúp xã hội — tác động rộng, PDF signed sẵn docid 219249).
+2. **Cao**: Cụm 118–120/2026/TT-BTC (kế toán công + hỗ trợ nạn nhân MBBN) — 3 TT cùng đợt 18/08.
+3. **Trung bình**: Flip trạng thái tracking: `18/2026/TT-BNV` "Chưa có" → "Hoàn thiện" (file đã có); `34/2026/QĐ-TTg` "Chưa có" → "Hoàn thiện" (file `van-ban/y-te/34-2026-qd-ttg-sua-doi-hiv-nghe-nghiep.md` đã có).
+4. **Trung bình**: Bổ sung metadata còn thiếu cho 315/322/NĐ-CP, 317/NĐ-CP, 18/TT-BNV (hiệu lực, người ký) + sửa group/tags không dấu của nd-322.
+5. **Thấp**: Cleanup 4 bản trùng lặp TT 97/2026/TT-BTC bãi bỏ (giữ 1, gỡ 3) theo quy trình v134/v135; verify trùng lặp 2 file TT 19/2026/TT-NHNN phân cấp TTHC.
+
+### Phiên thực hiện
+
+- **Session**: agent:github-io:subagent:a2400c59 (Đệ #1 Discovery & Tracking v136)
+- **Branch**: `heartbeat/crawl-vanban-20260807` (PR #264 active)
+- **Thời gian**: 2026-08-23 23:50 ICT Asia/Saigon (commit sau nửa đêm thì block ghi 2026-08-24)
+- **Files changed**: chỉ `documents/LEGISLATION_TRACKING.md`
+- **Commit dự kiến**: `discovery(v136): 4 VB mới (335/NĐ-CP, 118-120/TT-BTC) + 19 file chưa hoàn thiện bổ sung tracking`
+
 ### Cập nhật 2026-08-23 v135 (Đệ #3 cleanup — dọn trùng lặp 40/2026/TT-NHNN — 2026-08-23 23:08 ICT)
 
 **Quyết định giữ/xóa**:
