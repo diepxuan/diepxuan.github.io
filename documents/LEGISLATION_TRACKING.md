@@ -1,3 +1,38 @@
+### Cập nhật 2026-08-24 v137 — Đệ #3 Full Content Crawler (crawl 335/2026/NĐ-CP trợ giúp xã hội — 2026-08-24 00:35 ICT)
+
+**Thay đổi**:
+- **335/2026/NĐ-CP**: tạo mới `van-ban/an-sinh-xa-hoi/335-2026-nd-cp.md` (folder `an-sinh-xa-hoi` tạo mới), chuyển trạng thái **"Chưa có (chờ crawl)" → "Hoàn thiện"**. File 82,5KB / 855 dòng: front matter đầy đủ (title, số hiệu, ngày ban hành 21/08/2026, người ký Thủ tướng Chính phủ, ngày hiệu lực 05/10/2026, trích yếu, layout vanban, docid 219249), toàn văn Nghị định 35 Điều / 7 Chương + khối Nơi nhận + tóm tắt 06 mẫu biểu Phụ lục.
+
+**Metadata đối chiếu nguồn**:
+- Số hiệu: 335/2026/NĐ-CP; ngày ban hành 21/08/2026 (Hà Nội).
+- Ngày hiệu lực: **05/10/2026** (Điều 32 khoản 1; xác nhận bởi xaydungchinhsach.chinhphu.vn + baochinhphu.vn); mức chuẩn mới áp dụng từ 01/07/2026 theo quy định chuyển tiếp.
+- Người ký: **Thủ tướng Chính phủ** (TM. CHÍNH PHỦ, THỦ TƯỚNG trên PDF; văn bản do Chính phủ ban hành theo đề nghị Bộ trưởng Bộ Y tế). Khối chữ ký số PDF ký 22.08.2026 bởi Cục Thông tin và Truyền thông Chính phủ (đơn vị vận hành cổng, không phải người ký văn bản) — không ghi vào file public.
+- Căn cứ: Luật Tổ chức Chính phủ 63/2025/QH15, Luật BHXH 41/2024/QH15 và 05 luật khác.
+
+**Nguồn**:
+- PDF chữ ký số chính thức datafiles.chinhphu.vn: `cpp/files/vbpq/2026/8/335_2026_nd-cp_21082026-signed.signed.pdf` (17,6MB, 49 trang scan SAO Y). OCR 49/49 trang bằng scripts/ocr_pdf.py (pdftoppm 150 DPI PNG + tesseract vie), output 106KB tại /tmp (không commit vào repo).
+- Đối chiếu chéo: xaydungchinhsach.chinhphu.vn (bản tin toàn văn + Phụ lục), baochinhphu.vn, luatvietnam.vn (mức chuẩn 540.000 đồng/tháng, hiệu lực 05/10/2026).
+
+**OCR Quality Gate (kết quả)**:
+- Scan OCR: **7 hit — toàn bộ false-positive "ngày l"** (khớp "ngày làm việc", "ngày lễ", "ngày nhận được" — xác nhận tay từng dòng, tương tự kết luận v136); 0 ký tự rác ngoài bảng chữ cho phép; không có ghi chú crawler/debug trong file public.
+- Scan Điều: **35/35, range 1–35, Missing = [], Duplicate = []**, suspicious heading = none.
+- Scan Chương: **7/7 La Mã I→VII đúng thứ tự**, Duplicate = [], Out-of-order = [], bad pattern = none.
+- git diff --check: pass.
+- Kết quả gate: **PASS**.
+
+**Lỗi OCR đã sửa khi biên tập** (đối chiếu ngữ cảnh + nguồn):
+- Chương: "ChươngH", „ ChươngH -", "ChươngIHI", "Chương VH", "' Chương VI", "Chương VH (lần 2)" → Chương II–VII chuẩn.
+- Điều: "Điều I1" → Điều 11; "Điều §" → Điều 8; "Điều Š" → Điều 5; "Điều 2I" → Điều 21.
+- Từ/số phổ biến: "chỉ phí" → chi phí; "chỉ trả" → chi trả; "hướng/tỉ hành/thỉ hành" → hưởng/thi hành; "bô/bố sung" → bổ sung; "mắt tích" → mất tích; "chết/chêt/chêt" → chết; "cập tỉnh/cắp xã" → cấp tỉnh/cấp xã; "thâm quyền" → thẩm quyền; "tuyên bố mắt tích" → tuyên bố mất tích; "ngày lŠ/ngày lŠ tháng 3" → ngày 15 tháng 3; "147/2025NĐ- CP" → 147/2025/NĐ-CP; "hộ rêt Sau liền kề" → từ tháng kế tiếp liền kề; "đã trợ cấp xã hội" → đã hưởng trợ cấp xã hội; điểm a/b/e/ø)/©)/®)/1ã/55/8) → chuẩn a/b/c/d/đ/g/i/k.
+
+**Phạm vi phụ lục**: Toàn văn 06 mẫu biểu Phụ lục (tờ khai dạng ô tick với nhiều trường dotted-line) không OCR sạch được ở mức pháp lý từng ô; file public ghi danh mục 06 mẫu + tóm tắt nội dung chính từng mẫu (đúng cấu trúc nguồn). Nếu cần full form từng mẫu, cần nguồn text HTML chính thức hoặc re-OCR DPI cao — đánh dấu để reviewer cân nhắc.
+
+**Session**: agent:github-io:subagent:b2b2b862 (Đệ #3 Full Content Crawler v137)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Commit dự kiến**: crawl: 335/2026/NĐ-CP - trợ giúp xã hội + tracking v137
+
+---
+
 ### Cập nhật 2026-08-23 v136 — Reviewer (Đệ #4 Content Reviewer + PR Comment Reviewer — 2026-08-23 23:37 ICT)
 
 ### 1. OCR Quality Gate — Review 5 văn bản "Hoàn thiện" mới nhất (crawl 22-23/8)
@@ -66,7 +101,7 @@
 
 | # | Số hiệu | Chủ đề | Docid (vanban.chinhphu.vn) | Ngày BH | PDF signed | Trạng thái |
 |---|---------|--------|---------------------------|---------|------------|------------|
-| 1 | **335/2026/NĐ-CP** | An sinh xã hội / Chính sách xã hội (Chính phủ) | 219249 | 21/08/2026 | `cpp/files/vbpq/2026/8/335_2026_nd-cp_21082026-signed.signed.pdf` | Chưa có (chờ crawl) |
+| 1 | **335/2026/NĐ-CP** | An sinh xã hội / Chính sách xã hội (Chính phủ) | 219249 | 21/08/2026 | `cpp/files/vbpq/2026/8/335_2026_nd-cp_21082026-signed.signed.pdf` | Hoàn thiện (v137 — `van-ban/an-sinh-xa-hoi/335-2026-nd-cp.md`) |
 | 2 | **118/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219262 | 18/08/2026 | `cpp/files/vbpq/2026/8/118-btc.signed.pdf` | Chưa có (chờ crawl) |
 | 3 | **119/2026/TT-BTC** | Tài chính / Kế toán (Bộ Tài chính) | 219263 | 18/08/2026 | `cpp/files/vbpq/2026/8/119-btc.signed.pdf` | Chưa có (chờ crawl) |
 | 4 | **120/2026/TT-BTC** | Tài chính / Phòng chống mua bán người (Bộ Tài chính) | 219225 | 18/08/2026 | `cpp/files/vbpq/2026/8/120-btc.signed.pdf` | Chưa có (chờ crawl) |
