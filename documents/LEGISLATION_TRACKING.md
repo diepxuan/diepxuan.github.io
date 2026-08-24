@@ -1,3 +1,19 @@
+### Cập nhật 2026-08-24 v167 — Đệ #3 Full Content Crawler (toàn văn 118/2026/TT-BQP — 18:35 ICT)
+
+- **Phạm vi**: crawl toàn văn **Thông tư 118/2026/TT-BQP** sửa đổi, bổ sung một số điều của TT 69/2024/TT-BQP quy định về đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng (docid chp [219268](https://vanban.chinhphu.vn/?pageid=27160&docid=219268), BH 21/08/2026, hiệu lực 10/10/2026, ký KT. Bộ trưởng Thứ trưởng Nguyễn Văn Hiền), chuyển trạng thái "Chưa có (chờ crawl)" → "**Hoàn thiện**".
+- **File**: `van-ban/quoc-phong/118-2026-tt-bqp.md` (mới, ~26KB / 611 dòng).
+- **Nguồn**: PDF chữ ký số chính thức datafiles.chinhphu.vn ([118-bqp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/8/118-bqp.signed.pdf), 576KB / 17 trang; CAdES-BES nên pdftotext chỉ ra metadata ký — OCR pipeline `scripts/ocr_pdf.py` 150 DPI tesseract vie cho toàn bộ 17 trang, các vùng nhạy cảm crop riêng đọc lại 300–600 DPI).
+- **Cấu trúc**: **10 Điều** (range 1–10, Missing [] Duplicate []; không có Chương/Mục trong phần điều khoản) + khối căn cứ (Luật TTATGT đường bộ 36/2024/QH15 sửa đổi bởi Luật 118/2025/QH15; NĐ 01/2022/NĐ-CP sửa đổi bởi NĐ 03/2025/NĐ-CP) + khối Nơi nhận (10 đầu mục, Lưu: VT, NCTH) + khối chữ ký Thượng tướng Nguyễn Văn Hiền. Nội dung cốt lõi: sửa đổi khoản 4 Điều 7; khoản 1, điểm a/b khoản 2, khoản 3 Điều 9; khoản 2 Điều 23; điểm b khoản 4 Điều 24; điểm a khoản 1 Điều 26; điểm d khoản 1 Điều 27; bổ sung khoản 3 Điều 32 của TT 69/2024/TT-BQP; thay thế/bãi bỏ cụm từ (Bộ GTVT → Bộ Công an/Bộ Xây dựng); thay thế 4 Phụ lục.
+- **Phụ lục**: PL I (Mẫu 01a bản khai xe cơ giới + Mẫu 01b bản khai xe máy chuyên dùng — chuyển thành cấu trúc phần A/B + ghi chú chú thích); PL II (biển số đăng ký + hệ thống số phụ — bảng kích thước 6 loại biển OCR từng ô ở 400 DPI); PL III (bảng 59 ký hiệu biển số theo cơ quan, đơn vị); PL IV (danh mục xe máy chuyên dùng 3 nhóm với heading La Mã I/II/III). Các mẫu biểu gốc là form in — file ghi lại nội dung text đầy đủ của các dòng định danh, không tái tạo layout ô biểu.
+- **Xác minh chi tiết nhạy cảm**: căn cứ "Luật số 118/2025/QH15" và "Nghị định số 03/2025/NĐ-CP" (OCR 150 DPI đọc nhầm 18/2023; đối chiếu 400 DPI + nguồn ngoài xác nhận Luật sửa đổi TTATGT đường bộ là Luật số 118/2025/QH15, NĐ sửa đổi tổ chức BQP là NĐ 03/2025/NĐ-CP); ngày hiệu lực Điều 10 "ngày 10 tháng 10 năm 2026" (font số trang trí không OCR được, lấy từ metadata chính thức vanban.chinhphu.vn đã xác minh v165/v166); PL III số 59 "Tổng công ty xây dựng Trường Sơn" (OCR đọc Lũng Lô/cv — bbox 400 DPI xác nhận ký hiệu CV; tên đơn vị đối chiếu danh mục ký hiệu PL III TT 69/2024 từ nguồn tổng hợp công khai); cụm "Máy ủi (máy húc)" PL IV giữ nguyên văn như bản in (OCR nhất quán mọi độ phân giải/threshold kể cả trên cùng trang có chữ 'x' đọc đúng — thuật ngữ kỹ thuật quân đội dùng riêng, không phải lỗi húc/xúc phổ biến).
+- **Quality gate**: OCR issues **0**; Điều 10/10 range 1–10 Missing [] Duplicate []; suspicious heading: none; Chương: not applicable (phần điều khoản không chia chương; phụ lục dùng heading PHỤ LỤC I–IV + nhóm La Mã I/II/III chuẩn); 0 ghi chú debug/crawler/placeholder; `git diff --check` pass.
+
+**Session**: agent:github-io:subagent:8a4b639c (Đệ #3 Full Content Crawler v167)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 18:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v166 — Đệ #3 Full Content Crawler (toàn văn 121/2026/TT-BTC — 17:50 ICT)
 
 - **Phạm vi**: crawl toàn văn **Thông tư 121/2026/TT-BTC** sửa đổi, bổ sung một số điều của TT 68/2025/TT-BTC ban hành biểu mẫu sử dụng trong đăng ký doanh nghiệp, đăng ký hộ kinh doanh (docid chp [219269](https://vanban.chinhphu.vn/?pageid=27160&docid=219269), BH 21/08/2026, hiệu lực ngay 21/08/2026, ký KT. Bộ trưởng Thứ trưởng Nguyễn Đức Chi), chuyển trạng thái "Chưa có (chờ crawl)" → "**Hoàn thiện**".
@@ -23,7 +39,7 @@
 | # | Số hiệu | Chủ đề | Docid | Ngày BH | Hiệu lực | Người ký | PDF chp signed | Trạng thái |
 |---|---------|--------|-------|---------|----------|----------|----------------|------------|
 | 1 | **121/2026/TT-BTC** | Đăng ký doanh nghiệp/hộ kinh doanh — sửa đổi biểu mẫu theo TT 68/2025/TT-BTC | [219269](https://vanban.chinhphu.vn/?pageid=27160&docid=219269) | 21/08/2026 | 21/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/8/121-btc.signed.pdf` | **Hoàn thiện** (v166) |
-| 2 | **118/2026/TT-BQP** | Quốc phòng — đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc QL BQP; sửa đổi TT 69/2024/TT-BQP | [219268](https://vanban.chinhphu.vn/?pageid=27160&docid=219268) | 21/08/2026 | 10/10/2026 | Nguyễn Văn Hiền | `cpp/files/vbpq/2026/8/118-bqp.signed.pdf` | Chưa có (chờ crawl) |
+| 2 | **118/2026/TT-BQP** | Quốc phòng — đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc QL BQP; sửa đổi TT 69/2024/TT-BQP | [219268](https://vanban.chinhphu.vn/?pageid=27160&docid=219268) | 21/08/2026 | 10/10/2026 | Nguyễn Văn Hiền | `cpp/files/vbpq/2026/8/118-bqp.signed.pdf` | **Hoàn thiện** (v167) |
 
 **Trích yếu** (đã fetch trang chi tiết docid xác minh metadata):
 - **121/2026/TT-BTC** (docid [219269](https://vanban.chinhphu.vn/?pageid=27160&docid=219269)): "Sửa đổi, bổ sung một số điều của Thông tư số 68/2025/TT-BTC ngày 01 tháng 07 năm 2025 của Bộ Tài chính ban hành biểu mẫu sử dụng trong đăng ký doanh nghiệp, đăng ký hộ kinh doanh". Loại: Thông tư; Cơ quan: Bộ Tài chính; BH 21-08-2026, hiệu lực ngay 21-08-2026.
