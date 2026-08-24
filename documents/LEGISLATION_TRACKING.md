@@ -1,3 +1,19 @@
+### Cập nhật 2026-08-24 v166 — Đệ #3 Full Content Crawler (toàn văn 121/2026/TT-BTC — 17:50 ICT)
+
+- **Phạm vi**: crawl toàn văn **Thông tư 121/2026/TT-BTC** sửa đổi, bổ sung một số điều của TT 68/2025/TT-BTC ban hành biểu mẫu sử dụng trong đăng ký doanh nghiệp, đăng ký hộ kinh doanh (docid chp [219269](https://vanban.chinhphu.vn/?pageid=27160&docid=219269), BH 21/08/2026, hiệu lực ngay 21/08/2026, ký KT. Bộ trưởng Thứ trưởng Nguyễn Đức Chi), chuyển trạng thái "Chưa có (chờ crawl)" → "**Hoàn thiện**".
+- **File**: `van-ban/tai-chinh/121-2026-tt-btc.md` (mới, 7,1KB / 147 dòng).
+- **Nguồn**: PDF chữ ký số chính thức datafiles.chinhphu.vn ([121-btc.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/8/121-btc.signed.pdf), 1,4MB / 70 trang; nội dung là scan ảnh, chỉ 3 trang đầu chứa phần điều khoản + phụ lục danh mục, 67 trang còn lại là ảnh mẫu biểu). OCR tesseract vie đa cấu hình (300dpi psm3 + 400dpi psm6) đối chéo từng khối; các chi tiết nhạy cảm crop riêng đọc lại ở độ phân giải cao. OCR thô để ở /tmp, không commit.
+- **Cấu trúc**: **3 Điều** (range 1–3, Missing [] Duplicate []; không có Chương/Mục), khối căn cứ pháp luật đầy đủ (LĐN 59/2020/QH14 được sửa đổi bởi Luật 03/2022/QH15 và 76/2025/QH15; NĐ 168/2025/NĐ-CP sửa đổi bởi NĐ 296/2026/NĐ-CP; NĐ 29/2025/NĐ-CP sửa đổi bởi NĐ 166/2025/NĐ-CP) + khối quốc hiệu/tựa THÔNG TƯ + khối **Nơi nhận** (22 đầu mục, Lưu: VT, DNTN(TH)) + khối chữ ký Nguyễn Đức Chi. Nội dung cốt lõi: Điều 1 thay thế 9 mẫu (số 1, 2, 3, 4, 5, 10, 12, 27, 30) và bãi bỏ Mẫu số 11 tại Phụ lục I TT 68/2025/TT-BTC; Điều 2 điều khoản chuyển tiếp; Điều 3 hiệu lực ngay ngày ký.
+- **Phụ lục**: danh mục "Biểu mẫu sử dụng trong đăng ký doanh nghiệp" (trang 3 PDF) đã chuyển thành bảng 9 mẫu trong file; nội dung chi tiết từng mẫu biểu (67 trang ảnh) nằm ngoài phạm vi text — ghi rõ dòng dẫn về PDF nguồn, không bịa nội dung mẫu biểu.
+- **Xác minh chi tiết nhạy cảm**: "Luật Doanh nghiệp số 59/2020/QH14" (psm3@400dpi đọc 39 là lỗi 5↔3; 59 khớp đúng luật thật và ngữ cảnh sửa đổi bởi Luật 03/2022/QH15); "Nghị định số 168/2025/NĐ-CP ngày 30 tháng 6 năm 2025" (lần đọc đầu nhầm 168/2023 + 30/6/2023; crop 400dpi xác nhận cả hai vị trí đều 2025); người ký "Nguyễn Đức Chi" khớp metadata trang nguồn.
+- **Quality gate**: OCR issues **0**; Điều 3/3 range 1–3 Missing [] Duplicate []; suspicious heading: none; Chương: not applicable (không có chương); 0 ghi chú debug/crawler/placeholder; `git diff --check` pass.
+
+**Session**: agent:github-io:subagent:c03197cf (Đệ #3 Full Content Crawler v166)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 17:50 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v165 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 17:07 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164). Parse đủ 50 hàng (docid **219130→219269**, ngày BH 05/08→**21–22/08**/2026 — range mở rộng +2 VB so với v164 do 2 TT mới ban hành 21/08: docid **219268, 219269**). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic + NFD + đ→d) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
@@ -6,7 +22,7 @@
 
 | # | Số hiệu | Chủ đề | Docid | Ngày BH | Hiệu lực | Người ký | PDF chp signed | Trạng thái |
 |---|---------|--------|-------|---------|----------|----------|----------------|------------|
-| 1 | **121/2026/TT-BTC** | Đăng ký doanh nghiệp/hộ kinh doanh — sửa đổi biểu mẫu theo TT 68/2025/TT-BTC | [219269](https://vanban.chinhphu.vn/?pageid=27160&docid=219269) | 21/08/2026 | 21/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/8/121-btc.signed.pdf` | Chưa có (chờ crawl) |
+| 1 | **121/2026/TT-BTC** | Đăng ký doanh nghiệp/hộ kinh doanh — sửa đổi biểu mẫu theo TT 68/2025/TT-BTC | [219269](https://vanban.chinhphu.vn/?pageid=27160&docid=219269) | 21/08/2026 | 21/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/8/121-btc.signed.pdf` | **Hoàn thiện** (v166) |
 | 2 | **118/2026/TT-BQP** | Quốc phòng — đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc QL BQP; sửa đổi TT 69/2024/TT-BQP | [219268](https://vanban.chinhphu.vn/?pageid=27160&docid=219268) | 21/08/2026 | 10/10/2026 | Nguyễn Văn Hiền | `cpp/files/vbpq/2026/8/118-bqp.signed.pdf` | Chưa có (chờ crawl) |
 
 **Trích yếu** (đã fetch trang chi tiết docid xác minh metadata):
