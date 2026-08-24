@@ -1,3 +1,16 @@
+### Cập nhật 2026-08-24 v163 — Đệ #3 Full Content Crawler (toàn văn 281/2026/NĐ-CP thay stub — 15:15 ICT)
+
+- **281/2026/NĐ-CP** (docid chp [218863](https://vanban.chinhphu.vn/?pageid=27160&docid=218863), BH 13/07/2026, hiệu lực 31/08/2026): thay stub bằng toàn văn `van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md` (17,6KB / 234 dòng): **12 Điều** range 1–12 Missing [] Duplicate [] + khối quốc hiệu/tựa NGHỊ ĐỊNH + căn cứ đầy đủ + Nơi nhận (Lưu: VT, NN (2b)) + chữ ký **TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Hồ Quốc Dũng**.
+- **Sửa lỗi metadata nghiêm trọng của stub**: người ký Phạm Gia Túc → **Hồ Quốc Dũng** — xác minh 3 lớp (metadata congan.thainguyen.gov.vn kèm đúng signed.pdf; khối chữ ký luatnguyen.vn; OCR crop vùng chữ ký trang 7 ảnh 300dpi đọc "…ốc Dũng").
+- **Sửa lỗi nội dung OCR cũ**: Điều 6 "d)"→"đ)" (2 chỗ, ảnh gốc 400dpi); Điều 9.3/9.4 "điểm e"→"điểm c" (OCR 150dpi đọc nhầm; 300dpi + luatnguyen cùng ghi c); bổ sung khối Nơi nhận/chữ ký còn thiếu.
+- **Nguồn**: OCR 7 trang PDF signed datafiles.chinhphu.vn (`281-ndcp.signed.pdf`, ký số VPCP 14/07/2026) qua `scripts/ocr_pdf.py`; cross-check text luatnguyen.vn. Gate: OCR issues 0, Điều 12/12, 0 debug note, `git diff --check` pass. Chi tiết đầy đủ tại documents/LEGISLATION_TRACKING.md v163. Commit văn bản: `813af4f5`.
+
+**Session**: agent:github-io:subagent:38b46659 (Đệ #3 Full Content Crawler v163)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 15:15 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v162 — Đệ #3 Full Content Crawler (hợp nhất cụm 117/2026/TT-BTC: 3 file → 1 bản chuẩn — 14:55 ICT)
 
 - **Phạm vi**: hợp nhất cụm trùng lặp Thông tư 117/2026/TT-BTC (miễn, giảm một số khoản phí, lệ phí để triển khai NQ 66.22/2026/NQ-CP về phát triển công dân số; docid chp 219230) từ **3 file → 1 bản chuẩn duy nhất**: giữ `van-ban/tai-chinh/117-2026-tt-btc.md`; xóa `van-ban/117-2026-TT-BTC.md` (stub tóm tắt tự viết, không front matter) và `van-ban/117-2026-tt-btc.md` (bản root trùng).

@@ -1,3 +1,20 @@
+### Cập nhật 2026-08-24 v163 — Đệ #3 Full Content Crawler (toàn văn 281/2026/NĐ-CP thay stub — 15:15 ICT)
+
+- **Phạm vi**: crawl toàn văn **Nghị định 281/2026/NĐ-CP** sửa đổi NĐ 123/2024 về xử phạt VPHC lĩnh vực đất đai (docid chp [218863](https://vanban.chinhphu.vn/?pageid=27160&docid=218863), BH 13/07/2026, hiệu lực 31/08/2026), chuyển trạng thái "Chưa hoàn thiện (STUB)" → "**Hoàn thiện**".
+- **File**: `van-ban/dat-dai/nghi-dinh-281-2026-nd-cp-sua-doi-123-2024-xu-phat-hanh-chinh-dat-dai.md` (17,6KB / 234 dòng, +101/-12 so với stub).
+- **Nguồn**: OCR toàn bộ **7 trang PDF chữ ký số chính thức** datafiles.chinhphu.vn ([281-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/281-ndcp.signed.pdf), 0,3MB, ký số Cổng TTĐT Chính phủ 14/07/2026) qua `scripts/ocr_pdf.py`; nguồn text số hóa đối chiếu [luatnguyen.vn](https://luatnguyen.vn/van-ban-phap-luat/nghi-dinh-281-2026-nd-cp-2288.html). OCR thô chỉ ở /tmp, không commit.
+- **Cấu trúc**: **12 Điều** (range 1–12, Missing [] Duplicate []; không có Chương/Mục — nghị định sửa đổi thuần túy), khối căn cứ pháp luật đầy đủ + khối quốc hiệu/tựa NGHỊ ĐỊNH + khối **Nơi nhận** (16 đầu mục, Lưu: VT, NN (2b)) + khối chữ ký.
+- **Sửa lỗi metadata nghiêm trọng của stub**: người ký **Phạm Gia Túc → Hồ Quốc Dũng**. Xác minh 3 lớp: (1) metadata trang congan.thainguyen.gov.vn ghi "Người ký: Hồ Quốc Dũng" kèm đúng file signed.pdf; (2) luatnguyen.vn ghi TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Hồ Quốc Dũng; (3) OCR crop vùng chữ ký trang 7 ảnh 300dpi đọc được chữ ký viết tay + tên in "…ốc Dũng". Stub cũ kế thừa nhầm người ký từ NĐ 330/335.
+- **Sửa lỗi nội dung của stub** (stub OCR 150dpi từ lượt trước, sai chắc chắn so với ảnh gốc): Điều 6 khoản 1 điểm cuối và Điều 6.2 quote "d)" → "**đ)**" (ảnh 400dpi xác nhận dấu ngã dưới d); Điều 9.3 "điểm e khoản 3 Điều 3" → "điểm **c**", Điều 9.4 "điểm e khoản 1, khoản 2… Điều 31" → "điểm **c**" (OCR 150dpi đọc nhầm c→e; 300dpi + luatnguyen cùng ghi c); bổ sung dấu đóng quote `”.` cuối Điều 1.2; tách câu dẫn "Theo đề nghị…" theo bản gốc.
+- **Quality gate**: `scripts/ocr_quality_gate_scan.py` — OCR issues 0; Điều 12/12 range 1–12 Missing [] Duplicate []; suspicious heading chỉ 1 false positive (câu trích "Điều 3a." là nội dung điều được bổ sung, khớp nguyên văn); không có Chương nên check Chương not applicable; 0 debug/placeholder/crawler note; ideographic space 0; trailing whitespace 0; `git diff --check` pass.
+- **Loss-check**: đối chiếu từng Điều 1–12 giữa OCR 300dpi (psm 4) và bản dựng — 100% heading khớp; các câu then chốt (Điều 10 hiệu lực 31/8/2026; Điều 11.1 mốc 31/01/2026; mức phạt 250tr/400tr; điểm a,b,i,k,l,m,q khoản 1 Điều 133 Luật Đất đai) khớp cả 2 nguồn.
+
+**Session**: agent:github-io:subagent:38b46659 (Đệ #3 Full Content Crawler v163)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 15:15 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v162 — Đệ #3 Full Content Crawler (hợp nhất cụm 117/2026/TT-BTC: 3 file → 1 bản chuẩn — 14:55 ICT)
 
 - **Phạm vi**: hợp nhất cụm trùng lặp Thông tư 117/2026/TT-BTC (miễn, giảm một số khoản phí, lệ phí để triển khai NQ 66.22/2026/NQ-CP về phát triển công dân số; docid chp [219230](https://vanban.chinhphu.vn/?pageid=27160&docid=219230); ký KT. Bộ trưởng Thứ trưởng Cao Anh Tuấn; BH 14/08/2026, hiệu lực 15/08/2026–28/02/2027) từ **3 file → 1 bản chuẩn duy nhất**.
