@@ -2,14 +2,14 @@
 layout: vanban
 title: "Nghị định 281/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 123/2024/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực đất đai"
 date: 2026-07-13
-modified: 2026-08-19
+modified: 2026-08-24
 group: dat-dai
 tags:
   - Xử phạt vi phạm hành chính
   - Đất đai
   - Sửa đổi bổ sung
 docid: 218863
-source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn; luatnguyen.vn
 ---
 
 # Nghị định 281/2026/NĐ-CP về việc sửa đổi, bổ sung một số điều của Nghị định số 123/2024/NĐ-CP ngày 04 tháng 10 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực đất đai
@@ -20,18 +20,40 @@ source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 - **Ngày ban hành:** 13/07/2026
 - **Ngày hiệu lực:** 31/08/2026
 - **Cơ quan ban hành:** Chính phủ
-- **Người ký:** Phạm Gia Túc
+- **Người ký:** Phó Thủ tướng Hồ Quốc Dũng (ký thay Thủ tướng)
 - **Trạng thái:** Có hiệu lực
+- **Docid:** [218863](https://vanban.chinhphu.vn/?pageid=27160&docid=218863)
+- **Văn bản PDF có dấu:** [281-ndcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/281-ndcp.signed.pdf)
 
 ## VĂN BẢN
 
+**CHÍNH PHỦ**
+
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+
+**Độc lập - Tự do - Hạnh phúc**
+
+Số: 281/2026/NĐ-CP
+
+Hà Nội, ngày 13 tháng 7 năm 2026
+
+**NGHỊ ĐỊNH**
+
+Sửa đổi, bổ sung một số điều của Nghị định số 123/2024/NĐ-CP ngày 04 tháng 10 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực đất đai
+
 Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
+
 Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;
+
 Căn cứ Luật Xử lý vi phạm hành chính số 15/2012/QH13 được sửa đổi, bổ sung một số điều bởi các Luật số 54/2014/QH13, số 18/2017/QH14, số 67/2020/QH14, số 09/2022/QH15, số 11/2022/QH15, số 56/2024/QH15 và số 88/2025/QH15;
+
 Căn cứ Luật Đất đai số 31/2024/QH15 được sửa đổi, bổ sung một số điều bởi các Luật số 43/2024/QH15, số 47/2024/QH15, số 58/2024/QH15, số 71/2025/QH15, số 84/2025/QH15, số 93/2025/QH15, số 95/2025/QH15, số 146/2025/QH15 và số 147/2025/QH15;
+
 Căn cứ Nghị quyết số 254/2025/QH15 của Quốc hội quy định một số cơ chế, chính sách tháo gỡ khó khăn, vướng mắc trong tổ chức thi hành Luật Đất đai;
 
-Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường, Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 123/2024/NĐ-CP ngày 04 tháng 10 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực đất đai.
+Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường,
+
+Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 123/2024/NĐ-CP ngày 04 tháng 10 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực đất đai.
 
 ### Điều 1. Bổ sung Điều 3a vào sau Điều 3
 
@@ -39,17 +61,22 @@ Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường, C
 
 1. Việc xử phạt vi phạm hành chính trong lĩnh vực đất đai đối với đơn vị hành chính đặc khu được công nhận loại đô thị theo quy định của pháp luật thực hiện các nhiệm vụ, quyền hạn tương ứng của chính quyền địa phương ở phường thì áp dụng mức xử phạt như đơn vị hành chính của phường; việc xử phạt vi phạm hành chính trong lĩnh vực đất đai đối với đơn vị hành chính đặc khu thực hiện các nhiệm vụ, quyền hạn tương ứng của chính quyền địa phương ở xã thì áp dụng mức xử phạt như đơn vị hành chính của xã.
 
-2. Vợ và chồng chung quyền sử dụng đất thì áp dụng xử phạt vi phạm hành chính như đối với một cá nhân.
+2. Vợ và chồng chung quyền sử dụng đất thì áp dụng xử phạt vi phạm hành chính như đối với một cá nhân.”.
 
 ### Điều 2. Sửa đổi, bổ sung điểm b khoản 2 và bổ sung các điểm p, q, r, s vào sau điểm o khoản 3 Điều 4
 
 1. Sửa đổi, bổ sung điểm b khoản 2:
+
 “b) Đình chỉ hoạt động dịch vụ tư vấn có thời hạn 03 tháng.”.
 
 2. Bổ sung các điểm p, q, r, s vào sau điểm o khoản 3 Điều 4:
+
 “p) Buộc khôi phục lại tình trạng ban đầu của đất trước khi vi phạm;
+
 q) Buộc khôi phục lại tình trạng ban đầu của mốc địa giới đơn vị hành chính;
+
 r) Buộc thực hiện lại thủ tục hành chính về đất đai;
+
 s) Buộc nộp lại các giấy tờ đã bị tẩy xóa, sửa chữa, làm sai lệch nội dung; giấy tờ giả đã sử dụng.”.
 
 ### Điều 3. Sửa đổi, bổ sung khoản 1 Điều 6
@@ -67,37 +94,51 @@ Trường hợp người vi phạm đã nộp các khoản tiền vào ngân sá
 ### Điều 5. Sửa đổi, bổ sung khoản 5 Điều 27
 
 “5. Biện pháp khắc phục hậu quả:
+
 a) Buộc thực hiện lại thủ tục hành chính về đất đai theo quy định đối với các trường hợp quy định tại khoản 1 và 2 Điều này;
+
 b) Hủy bỏ kết quả giải quyết thủ tục hành chính về đất đai đối với trường hợp quy định tại khoản 3 Điều này;
+
 c) Buộc nộp lại các giấy tờ đã bị tẩy xóa, sửa chữa, làm sai lệch nội dung; giấy tờ giả đã sử dụng.”.
 
 ### Điều 6. Sửa đổi, bổ sung một số khoản của Điều 30
 
 1. Sửa đổi, bổ sung khoản 1:
+
 “1. Chủ tịch Ủy ban nhân dân cấp xã có quyền:
+
 a) Phạt cảnh cáo;
+
 b) Phạt tiền đến 250.000.000 đồng;
+
 c) Đình chỉ hoạt động dịch vụ tư vấn có thời hạn 03 tháng;
-d) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 4 Nghị định này.”.
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 4 Nghị định này.”.
 
 2. Sửa đổi, bổ sung điểm d khoản 3:
-“d) Đình chỉ hoạt động dịch vụ tư vấn có thời hạn 03 tháng;”.
+
+“đ) Đình chỉ hoạt động dịch vụ tư vấn có thời hạn 03 tháng;”.
 
 ### Điều 7. Sửa đổi, bổ sung một số khoản của Điều 31
 
 1. Sửa đổi, bổ sung dẫn đề khoản 1:
+
 “1. Trưởng đoàn kiểm tra chuyên ngành về đất đai do Cục trưởng Cục Quản lý đất đai thành lập, Trưởng đoàn kiểm tra do Thủ trưởng tổ chức thuộc Bộ Nông nghiệp và Môi trường được giao thực hiện nhiệm vụ kiểm tra trong phạm vi quản lý nhà nước của Bộ thành lập, Giám đốc Sở Nông nghiệp và Môi trường có quyền:”
 
 2. Sửa đổi, bổ sung điểm b khoản 1:
-“b) Phạt tiền đến 400.000.000 đồng,”.
+
+“b) Phạt tiền đến 400.000.000 đồng;”.
 
 3. Sửa đổi, bổ sung dẫn đề khoản 3:
+
 “3. Trưởng đoàn kiểm tra chuyên ngành về đất đai do Bộ trưởng Bộ Nông nghiệp và Môi trường thành lập, Cục trưởng Cục Quản lý đất đai, Thủ trưởng tổ chức thuộc Bộ Nông nghiệp và Môi trường được giao thực hiện nhiệm vụ kiểm tra trong phạm vi quản lý nhà nước của Bộ có quyền:”.
 
 4. Sửa đổi điểm d khoản 1 và điểm d khoản 3:
-“d) Đình chỉ hoạt động dịch vụ tư vấn có thời hạn 03 tháng;”.
+
+“đ) Đình chỉ hoạt động dịch vụ tư vấn có thời hạn 03 tháng;”.
 
 5. Sửa đổi, bổ sung khoản 5:
+
 “5. Các chức danh thanh tra thuộc lực lượng Công an nhân dân quy định tại Điều 7 Nghị định số 189/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành chính có thẩm quyền xử phạt đối với các hành vi vi phạm hành chính trong sử dụng đất an ninh theo quy định tại Nghị định này.
 
 Các chức danh Công an theo quy định tại Điều 8 Nghị định số 189/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành chính được xử phạt đối với các hành vi vi phạm hành chính trong sử dụng đất an ninh quy định tại khoản 1, khoản 5 Điều 12; khoản 1, khoản 4, khoản 6 Điều 13; Điều 15; khoản 3 Điều 27 và Điều 28 Nghị định số 123/2024/NĐ-CP theo thẩm quyền.”
@@ -105,9 +146,11 @@ Các chức danh Công an theo quy định tại Điều 8 Nghị định số 1
 ### Điều 8. Sửa đổi khoản 1 và điểm b khoản 2 Điều 32
 
 1. Sửa đổi khoản 1:
+
 “1. Biên bản vi phạm hành chính trong lĩnh vực đất đai được lập theo quy định tại Điều 58 Luật Xử lý vi phạm hành chính (được sửa đổi, bổ sung theo quy định tại khoản 29 Điều 1 Luật số 67/2020/QH14 và khoản 9 Điều 1 Luật số 88/2025/QH15); Điều 12 Nghị định số 118/2021/NĐ-CP ngày 23 tháng 12 năm 2021 quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính (được sửa đổi, bổ sung theo quy định tại Nghị định số 68/2025/NĐ-CP ngày 18 tháng 3 năm 2025 và Nghị định số 190/2025/NĐ-CP ngày 01 tháng 7 năm 2025) và tại Nghị định này.”.
 
 2. Sửa đổi điểm b khoản 2:
+
 “b) Trưởng đoàn, thành viên đoàn thanh tra; trưởng đoàn, thành viên đoàn kiểm tra chuyên ngành đất đai; trưởng đoàn, thành viên đoàn kiểm tra do Thủ trưởng tổ chức thuộc Bộ Nông nghiệp và Môi trường được giao thực hiện nhiệm vụ kiểm tra trong phạm vi quản lý nhà nước của Bộ thành lập; công chức, viên chức đang thi hành công vụ trong lĩnh vực đất đai.
 
 Công chức, viên chức kiểm lâm đang thi hành công vụ được lập biên bản vi phạm hành chính đối với các hành vi vi phạm liên quan đến đất lâm nghiệp. Người thuộc lực lượng Công an nhân dân đang thi hành công vụ được lập biên bản vi phạm hành chính đối với các hành vi vi phạm trong lĩnh vực đất đai; người thuộc lực lượng Quân đội nhân dân đang thi hành công vụ được lập biên bản vi phạm hành chính đối với hành vi vi phạm chế độ quản lý, sử dụng đất quốc phòng;”.
@@ -118,9 +161,9 @@ Công chức, viên chức kiểm lâm đang thi hành công vụ được lập
 
 2. Thay thế cụm từ “chuyển nhượng” bằng cụm từ “chuyển quyền” tại điểm a khoản 5 Điều 5; cụm từ “cấp huyện” bằng cụm từ “cấp có thẩm quyền” tại khoản 1, điểm a khoản 3 Điều 19; cụm từ “Tài nguyên và Môi trường” bằng cụm từ “Nông nghiệp và Môi trường” tại khoản 3 Điều 33, khoản 1 Điều 36.
 
-3. Bãi bỏ cụm từ “thanh tra,” tại điểm e khoản 3 Điều 3 và tại khoản 1, 2, 3 Điều 28; cụm từ “thị trường” tại khoản 4 Điều 8, khoản 4 Điều 9, khoản 3 Điều 10, khoản 5 Điều 12 và khoản 6 Điều 13.
+3. Bãi bỏ cụm từ “thanh tra,” tại điểm c khoản 3 Điều 3 và tại khoản 1, 2, 3 Điều 28; cụm từ “, thị trấn” tại khoản 4 Điều 8, khoản 4 Điều 9, khoản 3 Điều 10, khoản 5 Điều 12 và khoản 6 Điều 13.
 
-4. Bãi bỏ điểm a khoản 2, điểm b khoản 3 Điều 4; khoản 4 Điều 27; khoản 1, điểm a khoản 2, khoản 3, khoản 4 và điểm a, c, d khoản 5 Điều 29; điểm c khoản 1, khoản 2, điểm c khoản 3 Điều 30; điểm e khoản 1, khoản 2, điểm c khoản 3 Điều 31.
+4. Bãi bỏ điểm a khoản 2, điểm b khoản 3 Điều 4; khoản 4 Điều 27; khoản 1, điểm a khoản 2, khoản 3, khoản 4 và điểm a, c, d khoản 5 Điều 29; điểm c khoản 1, khoản 2, điểm c khoản 3 Điều 30; điểm c khoản 1, khoản 2, điểm c khoản 3 Điều 31.
 
 ### Điều 10. Hiệu lực thi hành
 
@@ -131,15 +174,61 @@ Nghị định này có hiệu lực thi hành từ ngày 31 tháng 8 năm 2026.
 1. Đối với trường hợp nhận chuyển nhượng để thực hiện dự án đầu tư thông qua thỏa thuận về nhận chuyển quyền sử dụng đất theo quy định tại Điều 127 Luật Đất đai mà đã lập biên bản vi phạm hành chính đối với hành vi không đăng ký biến động đất đai trước ngày Nghị định này có hiệu lực nhưng chưa ban hành quyết định xử phạt vi phạm hành chính thì không xử phạt. Trường hợp đã ban hành quyết định xử phạt vi phạm hành chính từ ngày 31 tháng 01 năm 2026 đến thời điểm Nghị định này có hiệu lực mà người vi phạm chưa thực hiện quyết định xử phạt vi phạm hành chính thì không thực hiện quyết định đó.
 
 2. Hành vi vi phạm hành chính trong lĩnh vực đất đai xảy ra trước ngày Nghị định này có hiệu lực thi hành thì áp dụng quy định về xử phạt vi phạm hành chính như sau:
+
 a) Trường hợp đã lập biên bản và đã có quyết định xử phạt nhưng chưa thực hiện xong quyết định xử phạt thì tiếp tục thực hiện theo quyết định đã ban hành;
+
 b) Trường hợp hành vi vi phạm hành chính đã được lập biên bản vi phạm hành chính mà chưa ban hành quyết định xử phạt vi phạm hành chính thì xử lý như sau:
+
 Trường hợp đã hết thời hiệu xử phạt vi phạm hành chính hoặc hết thời hạn ra quyết định xử phạt vi phạm hành chính theo quy định tại điểm c khoản 1 Điều 65 Luật Xử lý vi phạm hành chính thì không ra quyết định xử phạt nhưng vẫn phải ra quyết định áp dụng biện pháp khắc phục hậu quả (nếu có). Việc áp dụng biện pháp khắc phục hậu quả thực hiện theo Nghị định về xử phạt vi phạm hành chính trong lĩnh vực đất đai tại thời điểm lập biên bản vi phạm hành chính. Trường hợp Nghị định này không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm pháp lý nhẹ hơn thì áp dụng theo Nghị định này.
+
 Trường hợp còn thời hạn ban hành quyết định xử phạt thì mức xử phạt và biện pháp khắc phục hậu quả áp dụng theo Nghị định về xử phạt vi phạm hành chính trong lĩnh vực đất đai tại thời điểm lập biên bản vi phạm hành chính. Trường hợp Nghị định này không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm pháp lý nhẹ hơn thì áp dụng theo Nghị định này.
 
-3. Đối với quyết định xử phạt vi phạm hành chính đã được ban hành hoặc đã thực hiện xong trước thời điểm Nghị định này có hiệu lực thi hành, mà cá nhân, tổ chức bị xử phạt vi phạm hành chính còn khiếu nại thì áp dụng quy định của Luật Xử lý vi phạm hành chính, Nghị định của Chính phủ về xử phạt vi phạm hành chính và các văn bản quy phạm pháp luật có liên quan có hiệu lực tại thời điểm ban hành quyết định xử phạt vi phạm hành chính để xử lý.
+3. Đối với quyết định xử phạt vi phạm hành chính đã được ban hành hoặc đã được thi hành xong trước thời điểm Nghị định này có hiệu lực thi hành, mà cá nhân, tổ chức bị xử phạt vi phạm hành chính còn khiếu nại thì áp dụng quy định của Luật Xử lý vi phạm hành chính, Nghị định của Chính phủ về xử phạt vi phạm hành chính và các văn bản quy phạm pháp luật có liên quan có hiệu lực tại thời điểm ban hành quyết định xử phạt vi phạm hành chính để xử lý.
 
 ### Điều 12. Trách nhiệm thực hiện
 
 1. Bộ trưởng Bộ Nông nghiệp và Môi trường có trách nhiệm hướng dẫn và tổ chức thi hành Nghị định này.
 
 2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
+
+Nơi nhận:
+
+- Ban Bí thư Trung ương Đảng;
+
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+- Các bộ, cơ quan ngang bộ;
+
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+
+- Văn phòng Trung ương và các Ban của Đảng;
+
+- Văn phòng Tổng Bí thư;
+
+- Văn phòng Chủ tịch nước;
+
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+
+- Văn phòng Quốc hội;
+
+- Tòa án nhân dân tối cao;
+
+- Viện kiểm sát nhân dân tối cao;
+
+- Kiểm toán nhà nước;
+
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+
+- VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục, Công báo;
+
+- Lưu: VT, NN (2b).
+
+**TM. CHÍNH PHỦ**
+
+**KT. THỦ TƯỚNG**
+
+**PHÓ THỦ TƯỚNG**
+
+**Hồ Quốc Dũng**
