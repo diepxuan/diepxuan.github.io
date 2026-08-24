@@ -2,14 +2,16 @@
 layout: vanban
 title: "Thông tư 65/2026/TT-BGDĐT Quy định về điều kiện, trình tự, thủ tục, thẩm quyền công nhận văn bằng do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam"
 date: 2026-08-11
-modified: 2026-08-13
-group: giao-duc
+modified: 2026-08-24
+group: Giao dục
 tags:
-  - nghe-nghiep
-  - cong-nhan-van-bang
-  - giao-duc-nuoc-ngoai
-docid: 65/2026/TT-BGDDT
-source: luatvietnam.vn
+  - Công nhận văn bằng
+  - Văn bằng nước ngoài
+  - Bộ Giáo dục và Đào tạo
+docid: "219177"
+source:
+  - vanban.chinhphu.vn (docid 219177); datafiles.chinhphu.vn
+  - luatvietnam.vn (443793-d1)
 ---
 
 # Thông tư 65/2026/TT-BGDĐT
@@ -19,7 +21,8 @@ source: luatvietnam.vn
 - **Số hiệu:** 65/2026/TT-BGDĐT
 - **Ngày ban hành:** 11/08/2026
 - **Cơ quan ban hành:** Bộ Giáo dục và Đào tạo
-- **Người ký:** Bộ trưởng Bộ Giáo dục và Đào tạo
+- **Ngày hiệu lực:** 26/09/2026
+- **Người ký:** Phạm Ngọc Thưởng (KT. Bộ trưởng — Thứ trưởng Bộ Giáo dục và Đào tạo)
 - **Trích yếu:** Quy định về điều kiện, trình tự, thủ tục, thẩm quyền công nhận văn bằng do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam
 
 ## VĂN BẢN
@@ -140,3 +143,49 @@ Việc thu, nộp, quản lý và sử dụng phí xác minh giấy tờ tài li
 1. Cung cấp đầy đủ thông tin, giấy tờ trong hồ sơ đề nghị công nhận văn bằng; chịu trách nhiệm về tính chính xác, trung thực của thông tin, tài liệu cung cấp cho cơ quan có thẩm quyền công nhận văn bằng.
 
 2. Phối hợp với cơ quan có thẩm quyền công nhận văn bằng trong việc xác minh thông tin về văn bằng.
+
+### Điều 9. Điều khoản chuyển tiếp
+
+1. Hồ sơ công nhận văn bằng đã nộp cho cơ quan có thẩm quyền công nhận văn bằng trước ngày Thông tư này có hiệu lực thi hành thì tiếp tục áp dụng theo Thông tư số 34/2017/TT-BLĐTBXH ngày 29 tháng 12 năm 2017 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định về việc công nhận đối với văn bằng, chứng chỉ giáo dục nghề nghiệp do cơ sở giáo dục nghề nghiệp nước ngoài cấp, Thông tư số 13/2021/TT-BGDĐT ngày 15 tháng 4 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về điều kiện, trình tự, thủ tục, thẩm quyền công nhận văn bằng do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam và Thông tư số 07/2024/TT-BGDĐT ngày 02 tháng 5 năm 2024 sửa đổi, bổ sung Điều 7 và thay thế Phụ lục II, Phụ lục III của Thông tư số 13/2021/TT-BGDĐT ngày 15 tháng 4 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về điều kiện, trình tự, thủ tục, thẩm quyền công nhận văn bằng do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam.
+
+2. Bằng tiến sĩ do cơ sở giáo dục nước ngoài cấp theo phương thức đào tạo trực tiếp tại cơ sở giáo dục nước ngoài và thực hiện nghiên cứu thực địa tại nước khác được áp dụng thủ tục công nhận văn bằng theo Thông tư số 13/2021/TT-BGDĐT, Thông tư số 07/2024/TT-BGDĐT khi chương trình đào tạo được tuyển sinh trước ngày Thông tư này có hiệu lực thi hành.
+
+3. Việc công nhận văn bằng của các chương trình liên kết giáo dục, chương trình liên kết đào tạo đã có kết luận của cơ quan thanh tra, kiểm tra, cấp có thẩm quyền trước ngày Thông tư này có hiệu lực thi hành thì tiếp tục thực hiện theo kết luận của cơ quan thanh tra, kiểm tra, cấp có thẩm quyền đó.
+
+### Điều 10. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 26 tháng 9 năm 2026.
+
+Thông tư số 34/2017/TT-BLĐTBXH ngày 29 tháng 12 năm 2017 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định về việc công nhận đối với văn bằng, chứng chỉ giáo dục nghề nghiệp do cơ sở giáo dục nghề nghiệp nước ngoài cấp; Thông tư số 13/2021/TT-BGDĐT ngày 15 tháng 4 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về điều kiện, trình tự, thủ tục, thẩm quyền công nhận văn bằng do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam và Thông tư số 07/2024/TT-BGDĐT ngày 02 tháng 5 năm 2024 sửa đổi, bổ sung Điều 7 và thay thế Phụ lục II, Phụ lục III của Thông tư số 13/2021/TT-BGDĐT ngày 15 tháng 4 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về điều kiện, trình tự, thủ tục, thẩm quyền công nhận văn bằng do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam hết hiệu lực kể từ ngày Thông tư này có hiệu lực, trừ trường hợp quy định tại khoản 1 và khoản 2 Điều 9 Thông tư này.
+
+2. Trường hợp văn bản được dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới đó.
+
+3. Chánh Văn phòng, Cục trưởng Cục Quản lý chất lượng, thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; giám đốc Sở Giáo dục và Đào tạo; Thủ trưởng các cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+Nơi nhận:
+
+- Văn phòng Trung ương Đảng;
+
+- Văn phòng Chủ tịch nước;
+
+- Văn phòng Chính phủ;
+
+- Ủy ban Văn hóa và Xã hội của Quốc hội;
+
+- Hội đồng Quốc gia Giáo dục và Phát triển nhân lực;
+
+- Bộ trưởng;
+
+- Các Thứ trưởng Bộ GDĐT;
+
+- Cục KTVB&TCTHPL (Bộ Tư pháp);
+
+- Như khoản 3 Điều 10;
+
+- Công báo điện tử; Cổng PLQG; CSDLQG về VBQPPL; Cổng TTĐT Chính phủ; Cổng TTĐT Bộ GDĐT;
+
+- Lưu: VT, Cục QLCL(15).
+
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Phạm Ngọc Thưởng
