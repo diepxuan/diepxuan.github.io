@@ -2,15 +2,17 @@
 layout: vanban
 title: "Thông tư 66/2026/TT-BGDĐT hướng dẫn tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng trong lĩnh vực giáo dục và đào tạo"
 date: 2026-08-11
-modified: 2026-08-14
+modified: 2026-08-24
 group: giao-duc
 tags:
   - giáo dục
   - đào tạo
   - tiêu chuẩn định mức
   - máy móc thiết bị
-docid: 66/2026/TT-BGDDT
-source: luatvietnam.vn
+docid: "219179"
+source:
+  - vanban.chinhphu.vn (docid 219179); datafiles.chinhphu.vn
+  - luatvietnam.vn (443792-d1)
 ---
 
 # Thông tư 66/2026/TT-BGDĐT hướng dẫn tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng trong lĩnh vực giáo dục và đào tạo
@@ -21,7 +23,7 @@ source: luatvietnam.vn
 - **Ngày ban hành**: 11/08/2026
 - **Ngày hiệu lực**: 26/09/2026
 - **Cơ quan ban hành**: Bộ Giáo dục và Đào tạo
-- **Người ký**: Đoàn Trung Kiên
+- **Người ký**: Đoàn Trung Kiên (KT. Bộ trưởng — Thứ trưởng Bộ Giáo dục và Đào tạo)
 - **Trích yếu**: Hướng dẫn tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng trong lĩnh vực giáo dục và đào tạo.
 
 ## VĂN BẢN
@@ -127,3 +129,39 @@ b) Trình cơ quan có thẩm quyền quyết định hoặc quyết định the
 2. Thông tư số 16/2019/TT-BGDĐT ngày 4 tháng 10 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo hướng dẫn tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng thuộc lĩnh vực giáo dục và đào tạo hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
 
 3. Chánh văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính, Thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo; Chủ tịch Ủy ban nhân dân tỉnh, thành phố; Giám đốc sở giáo dục và đào tạo; Thủ trưởng các cơ sở đào tạo và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+Nơi nhận:
+
+- Văn phòng Quốc hội;
+
+- Văn phòng Chính phủ;
+
+- Kiểm toán Nhà nước;
+
+- Các Bộ, cơ quan ngang Bộ;
+
+- Cục KTVBQPPL và TCTHPL (Bộ Tư pháp);
+
+- HĐND, UBND các tỉnh, TP;
+
+- Bộ trưởng (để báo cáo);
+
+- Các thứ trưởng (để phối hợp);
+
+- Sở GDĐT các tỉnh, TP;
+
+- Như Điều 8;
+
+- Công báo;
+
+- Cổng thông tin điện tử Chính phủ;
+
+- Cổng thông tin điện tử Bộ GDĐT;
+
+- Cơ sở DLQG về PL;
+
+- Lưu: VT, Vụ PC, Vụ KHTC (5 bản).
+
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Đoàn Trung Kiên
