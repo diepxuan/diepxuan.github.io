@@ -1,3 +1,19 @@
+### Cập nhật 2026-08-24 v169 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 21:44 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168). Parse đủ 50 hàng (docid **219130→219269**, ngày BH 05/08→**22/08**/2026 — cửa sổ không đổi so với v165/v168). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, token-set boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
+
+**Kết quả quét 50 VB**: **50/50 đã có file `van-ban/` hoặc đã track chính thức → 0 VB mới.** Hàng đầu nguồn vẫn là **336/2026/NĐ-CP (docid 219265, BH 22/08)** — hoàn thiện v161; docid cao nhất toàn nguồn vẫn **219269 (121/2026/TT-BTC)** và **219268 (118/2026/TT-BQP)** — hoàn thiện v166/v167. Không phát hiện VB công bố sau vòng v165; ngày ban hành mới nhất trên nguồn giữ nguyên **22/08/2026**.
+
+**Normalize Cyrillic/NFD**: nguồn lại trả `320/2026/NĐ-CР` (Р = U+0420) tại docid 219189 như v160/v164/v165/v168 — đã normalize khớp đúng kho (`van-ban/hanh-chinh/320-2026-nd-cp.md`), không báo nhầm; 59/2026/QĐ-UBND (docid 219141) tiếp tục ghi nhận ngoài phạm vi như v142.
+
+**Các cụm còn lại trong top-50 khớp trạng thái v142–v168** (không đổi): cụm 7 NĐ An ninh mạng 327–333; 334/335 đã có file, 336 hoàn thiện v161; 116–120/TT-BTC đã có (117 hợp nhất v162, 121 hoàn thiện v166); 118/TT-BQP hoàn thiện v167; 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN + 19/TT-BNV giữ "Chưa có" từ v124; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi (track v142).
+
+**Session**: agent:github-io:subagent:871f5b42-13ac-41c6-9786-f279560548e3 (Đệ #1 Discovery v169)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 21:44 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v167 — Đệ #3 Full Content Crawler (toàn văn 118/2026/TT-BQP — 18:35 ICT)
 
 - **Phạm vi**: crawl toàn văn **Thông tư 118/2026/TT-BQP** sửa đổi, bổ sung một số điều của TT 69/2024/TT-BQP quy định về đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng (docid chp [219268](https://vanban.chinhphu.vn/?pageid=27160&docid=219268), BH 21/08/2026, hiệu lực 10/10/2026, ký KT. Bộ trưởng Thứ trưởng Nguyễn Văn Hiền), chuyển trạng thái "Chưa có (chờ crawl)" → "**Hoàn thiện**".
