@@ -4,6 +4,26 @@ Theo dõi văn bản pháp luật mới từ luatvietnam.vn.
 
 
 
+## Cap nhat 2026-08-24 12:35 ICT (Cleanup v158 — De #3 Full Content Crawler)
+
+### Hop nhat cum 3 TT 64/65/66/2026/TT-BGDDT — moi VB con 1 ban chuan duy nhat
+
+**Ban giu**: `van-ban/giao-duc/nghe-nghiep/{64,65,66}-2026-tt-bgddt.md`. **Ban xoa**: `van-ban/giao-duc/64-2026-tt-bgddt.md`, `van-ban/thong-tu-65-2026-tt-bgddt.md`, `van-ban/thong-tu-66-2026-tt-bgddt.md`.
+
+| VB | Ban giu | Ban xoa | Nguon doi chieu |
+|----|---------|---------|-----------------|
+| TT 64 | 74KB, **22 Dieu (1–22)** / 5 Chuong / 3 Muc, front matter day du | 15KB, 8/22 Dieu cut, KHONG front matter, placeholder "(Noi dung tiep theo dang cap nhat tu nguon)" | vanban.chinhphu.vn docid 219176 (ky Pham Ngoc Thuong, hieu luc ngay 10-08-2026); luatvietnam 443794-d1 |
+| TT 65 | 28KB, **10 Dieu (1–10)** sau khi bo sung Dieu 9–10 + Noi nhan + chu ky | 24,9KB, 8/10 Dieu cut, ghi chu crawler public ve truncation, hieu luc doan SAI | vanban.chinhphu.vn docid 219177 (ky Pham Ngoc Thuong, hieu luc 26-09-2026); luatvietnam 443793-d1 |
+| TT 66 | 15KB, 8 Dieu (1–8) + bo sung Noi nhan + chu ky | 12,7KB, 8 Dieu tuong duong nhung front matter loi `modified: 208-14-2026`, can cu dang tom tat | vanban.chinhphu.vn docid 219179 (ky Doan Trung Kien, hieu luc 26-09-2026); luatvietnam 443792-d1 |
+
+**Sua metadata theo nguon chinh thuc**: nguoi ky that cua ca 3 TT la **KT. BO TRUONG — THU TRUONG** (Pham Ngoc Thuong ×2, Doan Trung Kien ×1), khong phai "Bo truong Bo GDĐT" nhu ghi cu; docid chuan hoa thanh 219176/219177/219179; ngay hieu luc TT 65 = 26/09/2026 (ban cu ghi "khong neu ro").
+
+**Quality gate**: PASS ca 3 — OCR issues 0 (file 65 con 1 flag "ngay l" = false positive "ngay lam viec", tien le v124/v150); Dieu 22/22 + 10/10 + 8/8, Missing [] Duplicate []; Chuong I→V dung thu tu; 0 ghi chu crawler/debug trong file public; grep repo khong con tham chieu site toi path da xoa; `git diff --check` pass.
+
+**Trang thai**: TT 64/65/66/2026/TT-BGDDT = **HOAN THIEN** (moi VB 1 file duy nhat tai giao-duc/nghe-nghiep/).
+
+---
+
 ## Cap nhat 2026-08-24 12:03 ICT (Crawl v157 — De #3 Full Content Crawler)
 
 ### Hoan thien van ban TT 65/2026/TT-BXD (Dinh muc KTKT khao sat do sau hang hai)

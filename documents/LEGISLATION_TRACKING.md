@@ -1,3 +1,51 @@
+### Cập nhật 2026-08-24 v158 — Đệ #3 Full Content Crawler (hợp nhất cụm 3 TT 64/65/66/2026/TT-BGDĐT — 12:35 ICT)
+
+- **Phạm vi**: hợp nhất các bản trùng lặp của cụm 3 Thông tư Bộ GDĐT (docid chp 219176/219177/219179) thành 1 bản chuẩn duy nhất mỗi VB, giữ ở folder chủ đề giáo dục nghề nghiệp.
+
+**1) 64/2026/TT-BGDĐT** (Mã số, chuẩn nghề nghiệp, bổ nhiệm, xếp lương, chế độ làm việc giáo viên trung học nghề):
+
+| File | Size | Điều | Đặc điểm |
+|---|---|---|---|
+| `van-ban/giao-duc/nghe-nghiep/64-2026-tt-bgddt.md` (**GIỮ**) | 70KB → 74KB | **22 (1–22)** / 5 Chương / 3 Mục | front matter đầy đủ, người ký Phạm Ngọc Thưởng; trước hợp nhất thiếu khối Nơi nhận + chữ ký và Chương I không có heading `##` |
+| `van-ban/giao-duc/64-2026-tt-bgddt.md` (**XÓA**) | 15KB | 8/22 (cụt) | format cũ KHÔNG có front matter YAML; kết thúc bằng placeholder "(Nội dung tiếp theo đang cập nhật từ nguồn)" vi phạm gate mục 2; nội dung là tập con rút gọn của bản 70KB (Điều 7–8 tóm lược so với nguyên văn) |
+
+- **Không phải case mờ**: đối chiếu vanban.chinhphu.vn docid [219176](https://vanban.chinhphu.vn/?pageid=27160&docid=219176) xác nhận chỉ có MỘT văn bản 64/2026/TT-BGDĐT (trích yếu khớp, ký Phạm Ngọc Thưởng, hiệu lực ngay 10-08-2026); luatvietnam 443794-d1 xác nhận 22 Điều / Chương I–V. Hai file trong repo = cùng một VB với độ phủ khác nhau → hợp nhất bình thường, không cần Sếp xác nhận.
+- **Hợp nhất vào bản giữ**: thêm heading `## Chương I` (trước đây mất), bổ sung khối Nơi nhận đầy đủ + chữ ký KT. BỘ TRƯỞNG — THỨ TRƯỞNG Phạm Ngọc Thưởng từ nguồn luatvietnam; docid cập nhật 443794 → **219176**, source thêm datafiles.chinhphu.vn, modified 24/08.
+- Kiểm tra mất mát: diff 2 bản trước xóa — toàn bộ nội dung bản 15KB đã được phủ bởi bản 22 Điều (bản 15KB là rút gọn/cụt, không có đoạn unique nào).
+
+**2) 65/2026/TT-BGDĐT** (Công nhận văn bằng do cơ sở giáo dục nước ngoài cấp):
+
+| File | Size | Điều | Đặc điểm |
+|---|---|---|---|
+| `van-ban/giao-duc/nghe-nghiep/65-2026-tt-bgddt.md` (**GIỮ**) | 24,9KB → 28KB | **10 (1–10)** sau nâng cấp | có khối quốc hiệu + căn cứ nguyên văn; trước hợp nhất chỉ đủ Điều 1–8, thiếu Điều 9–10, sai người ký |
+| `van-ban/thong-tu-65-2026-tt-bgddt.md` (**XÓA**) | 24,9KB | 8/10 (cụt) | ghi chú crawler public "(Văn bản được crawl từ nguồn luatvietnam.vn, có thể bị thiếu đoạn cuối do truncation...)" vi phạm gate mục 2; "Ngày hiệu lực: (Không nêu rõ trong text, thường là sau 45 ngày hoặc theo quy định)" là phỏng đoán SAI (thật = 26/09/2026); căn cứ pháp lý liệt kê dạng tóm lược |
+
+- **Nâng cấp nội dung quan trọng**: re-fetch luatvietnam 443793-d1 phát hiện văn bản thật có **10 Điều** (repo cũ chỉ có 8) → bổ sung **Điều 9. Điều khoản chuyển tiếp** (3 khoản: hồ sơ nộp trước ngày hiệu lực áp dụng TT 34/2017 & 13/2021 & 07/2024; bằng tiến sĩ nghiên cứu thực địa nước khác; chương trình liên kết đã có kết luận thanh tra) + **Điều 10. Hiệu lực thi hành** (hiệu lực 26/09/2026, bãi bỏ 34/2017/TT-BLĐTBXH + 13/2021/TT-BGDĐT + 07/2024/TT-BGDĐT) + Nơi nhận + chữ ký.
+- **Sửa metadata theo nguồn chính thức** vanban.chinhphu.vn docid [219177](https://vanban.chinhphu.vn/?pageid=27160&docid=219177): ngày hiệu lực **26-09-2026**, người ký thật là **KT. BỘ TRƯỞNG — THỨ TRƯỞNG Phạm Ngọc Thưởng** (cả 2 bản cũ đều ghi sai "Bộ trưởng Bộ Giáo dục và Đào tạo"); docid chuẩn hóa 219177, group `Giao dục` giữ từ bản xóa (đúng quy ước dấu tiếng Việt), modified 24/08.
+- Lưu ý phạm vi: TT này công nhận văn bằng của cả khối phổ thông + nghề nghiệp + đại học (không riêng nghề nghiệp); giữ path nghe-nghiep vì đó là vị trí gốc của bản đầy đủ hơn, ít phá tham chiếu nhất (review_report_20260822.md đã gate bản này ở path hiện tại).
+
+**3) 66/2026/TT-BGDĐT** (Tiêu chuẩn, định mức máy móc thiết bị chuyên dùng giáo dục):
+
+| File | Size | Điều | Đặc điểm |
+|---|---|---|---|
+| `van-ban/giao-duc/nghe-nghiep/66-2026-tt-bgddt.md` (**GIỮ**) | 13KB → 15KB | 8 (1–8) | khối quốc hiệu + căn cứ nguyên văn; trước hợp nhất thiếu Nơi nhận + chữ ký |
+| `van-ban/thong-tu-66-2026-tt-bgddt.md` (**XÓA**) | 12,7KB | 8 (1–8) | front matter lỗi `modified: 208-14-2026`; nội dung tương đương nhưng khối căn cứ dạng tóm tắt |
+
+- Xác minh vanban.chinhphu.vn docid [219179](https://vanban.chinhphu.vn/?pageid=27160&docid=219179): hiệu lực **26-09-2026**, ký **KT. BỘ TRƯỞNG — THỨ TRƯỞNG Đoàn Trung Kiên** (khớp 2 bản); luatvietnam 443792-d1 xác nhận 8 Điều (1–8) + Nơi nhận + chữ ký.
+- Hợp nhật: sửa `modified` vỔ, docid chuẩn hóa **219179**, bổ sung Nơi nhận đầy đủ + chữ ký Đoàn Trung Kiên; nội dung 8 Điều hai bản tương đương 100%, không mất mát.
+
+**Kết quả chung sau hợp nhất**:
+- 3 file chính thức duy nhất: `van-ban/giao-duc/nghe-nghiep/{64,65,66}-2026-tt-bgddt.md`; xóa 3 bản thừa (`van-ban/giao-duc/64-2026-tt-bgddt.md`, `van-ban/thong-tu-65-2026-tt-bgddt.md`, `van-ban/thong-tu-66-2026-tt-bgddt.md`). Grep toàn repo: các path xóa chỉ còn trong tracking/review log lịch sử, không có link site cần sửa.
+- **OCR Quality Gate: PASS cả 3** — OCR issues 0 (file 65 còn 1 flag "ngày l" = false positive quen thuộc match chuỗi con hợp lệ "ngày làm việc" — cùng tiền lệ v124/v150); scan Điều: 22/22 (1–22, Missing [], Duplicate []), 10/10 (1–10), 8/8 (1–8); Chương 64: I→V đúng thứ tự La Mã; 0 ghi chú crawler/debug trong file public (đã loại bỏ note truncation của bản 65 cũ và placeholder của bản 64 cũ); `git diff --check` pass.
+- Metadata khớp nguồn chính thức: docid 219176/219177/219179, ngày ban hành 10–11/08/2026, hiệu lực 10/08 (64, ngay) & 26/09 (65, 66), người ký KT. Bộ trưởng — Thứ trưởng (Phạm Ngọc Thưởng ×2, Đoàn Trung Kiên ×1).
+- Không có phần treo cho cụm này. Việc còn đề xuất (ngoài scope): Phụ lục I mẫu phiếu đề nghị công nhận văn bằng của TT 65 chưa dựng bảng Markdown (nguồn text đã có trong luatvietnam fetch) — để batch sau nếu Sếp yêu cầu.
+
+**Session**: agent:github-io:subagent:89f8ffe4 (Đệ #3 Full Content Crawler v158)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 12:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v157 — Đệ #3 Full Content Crawler (dọn trùng lặp + hoàn thiện 65/2026/TT-BXD — 12:03 ICT)
 
 - **65/2026/TT-BXD** (Định mức kinh tế-kỹ thuật khảo sát đo sâu trong lĩnh vực hàng hải): hợp nhất **4 file trùng lặp → 1 bản chính thức duy nhất** `van-ban/hang-hai/65-2026-tt-bxd.md` và **nâng cấp toàn văn từ 4 Điều cụt → đủ 4 Điều + TOÀN BỘ Định mức kèm theo (2 Phần / 7 Chương / 31 mã định mức KS.01100→KS.07500 / 37 bảng / 3 Phụ lục đầy đủ)**.
