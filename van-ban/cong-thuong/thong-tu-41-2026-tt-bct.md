@@ -2,15 +2,17 @@
 layout: vanban
 title: "Thông tư 41/2026/TT-BCT quy định Danh mục phế liệu và Danh mục hàng hóa đã qua sử dụng tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu"
 date: 2026-07-22
-modified: 2026-08-18
-group: Cong thuong
+modified: 2026-08-24
+group: cong-thuong
 tags:
-  - Phế liệu
-  - Tạm nhập tái xuất
-  - Chuyển khẩu
-  - Bộ Công Thương
-docid: 41/2026/TT-BCT
-source: luatvietnam.vn
+  - phế liệu
+  - hàng hóa đã qua sử dụng
+  - tạm nhập tái xuất
+  - chuyển khẩu
+docid: "441401"
+source:
+  - vanban.chinhphu.vn; datafiles.chinhphu.vn
+  - luatvietnam.vn (441401-d1)
 ---
 
 # Thông tư 41/2026/TT-BCT quy định Danh mục phế liệu và Danh mục hàng hóa đã qua sử dụng tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
@@ -38,6 +40,12 @@ ______________________
 
 Số: 41/2026/TT-BCT
 Hà Nội, ngày 22 tháng 7 năm 2026
+
+THÔNG TƯ
+
+Quy định Danh mục phế liệu và Danh mục hàng hóa đã qua sử dụng tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
+
+_______________
 
 Căn cứ Luật Quản lý ngoại thương số 05/2017/QH14;
 
@@ -73,8 +81,8 @@ Thông tư này quy định Danh mục phế liệu và Danh mục hàng hóa đ
 1. Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 9 năm 2026 đến hết ngày 31 tháng 12 năm 2029.
 2. Thông tư này bãi bỏ:
 a) Thông tư số 18/2024/TT-BCT ngày 08 tháng 10 năm 2024 của Bộ trưởng Bộ Công Thương quy định về danh mục phế liệu tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
-b) Thông tư số 12/2018/TT-BCT ngày 15 tháng 6 năm 2018 của Bộ trưởng Bộ Công Thương quy định chi tiết một số điều của Luật Quản lý ngoại thương và Nghị định số 69/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Quản lý ngoại thương.
-c) và ban hành kèm theo Thông tư số 08/2023/TT-BCT ngày 31 tháng 3 năm 2023 của Bộ trưởng Bộ Công Thương sửa đổi, bổ sung một số điều quy định Danh mục chi tiết theo mã số HS của hàng hóa xuất khẩu, nhập khẩu ban hành kèm theo một số Thông tư của Bộ trưởng Bộ Công Thương./.
+b) Điều 4 Thông tư số 12/2018/TT-BCT ngày 15 tháng 6 năm 2018 của Bộ trưởng Bộ Công Thương quy định chi tiết một số điều của Luật Quản lý ngoại thương và Nghị định số 69/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Quản lý ngoại thương.
+c) Khoản 2 Điều 1 và Phụ lục II ban hành kèm theo Thông tư số 08/2023/TT-BCT ngày 31 tháng 3 năm 2023 của Bộ trưởng Bộ Công Thương sửa đổi, bổ sung một số điều quy định Danh mục chi tiết theo mã số HS của hàng hóa xuất khẩu, nhập khẩu ban hành kèm theo một số Thông tư của Bộ trưởng Bộ Công Thương./.
 
 **Nơi nhận:**
 - Ban Bí thư Trung ương Đảng;
@@ -146,8 +154,8 @@ Danh mục này được xây dựng trên cơ sở Danh mục hàng hóa xuất
 | 8102.97.00 | - - Phế liệu và mảnh vụn |
 | 8104.20.00 | - Phế liệu và mảnh vụn |
 | 8108.30.00 | - Phế liệu và mảnh vụn |
-| 8109.31.00 | - - Phế liệu và mảnh vụn: Chứa hàm lượng hafini trong zircon dưới 1/500 tính theo khối lượng |
-| 8109.39.00 | - - Phế liệu và mảnh vụn: Loại khác |
+| 8109.31.00 | - Phế liệu và mảnh vụn: - - Chứa hàm lượng hafini trong zircon dưới 1/500 tính theo khối lượng |
+| 8109.39.00 | - - Loại khác |
 | 8110.20.00 | - Phế liệu và mảnh vụn |
 | 8112.13.00 | - Beryli: - - Phế liệu và mảnh vụn |
 | 8112.22.00 | - Crôm: - - Phế liệu và mảnh vụn |
@@ -226,7 +234,7 @@ Danh mục này được xây dựng trên cơ sở Danh mục hàng hóa xuất
 | 6504.00.00 | Các loại mũ và các vật đội đầu khác, được làm bằng cách tết hoặc ghép các dải làm bằng chất liệu bất kỳ, đã hoặc chưa có lót hoặc trang trí |
 | 6505 | Các loại mũ và các vật đội đầu khác, dệt kim hoặc móc, hoặc làm từ ren, nỉ hoặc vải dệt khác, ở dạng mảnh (trừ dạng dải), đã hoặc chưa lót hoặc trang trí; lưới bao tóc bằng vật liệu bất kỳ, đã hoặc chưa có lót hoặc trang trí |
 | 6506.91.00 | - Loại khác: - - Bằng cao su hoặc plastic |
-| 6506.99 | - Loại khác: - - Bằng các loại vật liệu khác |
+| 6506.99 | - - Bằng các loại vật liệu khác |
 | 6601 | Các loại ô và dù (kể cả ô có cán là ba toong, dù che trong vườn và các loại ô, dù tương tự) |
 | 6602.00.00 | Ba toong, gậy tay cầm có thể chuyển thành ghế, roi, gậy điều khiển, roi điều khiển súc vật thồ, kéo và các loại tương tự |
 | 6702 | Hoa, cành, lá, quả nhân tạo và các phần của chúng; các sản phẩm làm bằng hoa, cành, lá hoặc quả nhân tạo |
@@ -255,11 +263,99 @@ Danh mục này được xây dựng trên cơ sở Danh mục hàng hóa xuất
 | 8302.50.00 | - Giá để mũ, mắc mũ, chân giá đỡ và các loại giá cố định tương tự |
 | 8306 | Chuông, chuông đĩa và các loại tương tự, không dùng điện, bằng kim loại cơ bản; tượng nhỏ và đồ trang trí khác, bằng kim loại cơ bản; khung ảnh, khung tranh hoặc các loại khung tương tự, bằng kim loại cơ bản; gương bằng kim loại cơ bản |
 | 8415.81 | - Loại khác: - - Kèm theo một bộ phận làm lạnh và một van đảo chiều chu trình nóng/lạnh (bơm nhiệt có đảo chiều) |
-| 8415.82 | - Loại khác: - - Loại khác, có kèm theo bộ phận làm lạnh |
-| 8415.83 | - Loại khác: - - Không gắn kèm bộ phận làm lạnh |
-| 8415.90.19 | - - - Của máy có công suất làm mát không quá 21,10 kW: - - - Loại khác |
+| 8415.82 | - - Loại khác, có kèm theo bộ phận làm lạnh |
+| 8415.83 | - - Không gắn kèm bộ phận làm lạnh |
+| 8415.90.19 | - - Của máy có công suất làm mát không quá 21,10 kW: - - - Loại khác |
 | 8418.99 | - Bộ phận: - - Loại khác |
-| 8419.11.10 | - Thiết bị đun nước nóng nhanh hoặc thiết bị đun nước nóng có dự trữ, không dùng điện: - - - Loại sử dụng trong gia đình |
+| 8419.11.10 | -Thiết bị đun nước nóng nhanh hoặc thiết bị đun nước nóng có dự trữ, không dùng điện: - - - Loại sử dụng trong gia đình |
 | 8419.19.10 | - - - Loại sử dụng trong gia đình |
 | 8419.81 | - Máy và thiết bị khác: - - Để làm nóng đồ uống hoặc nấu hoặc hâm nóng thực phẩm |
 | 8421.21.11 | - Máy và thiết bị lọc hoặc tinh chế chất lỏng: - - - - Máy và thiết bị lọc sử dụng trong gia đình |
+| 8421.99.94 | - Bộ phận: - - - - Của hàng hóa thuộc phân nhóm 8421.21.11 |
+| 8422.90.10 | - - Của các máy thuộc phân nhóm 8422.11 |
+| 8423.10 | - Cân người, kể cả cân trẻ em; cân sử dụng trong gia đình |
+| 8423.81 | - Cân trọng lượng khác: - - Có khả năng cân tối đa không quá 30 kg: |
+| 8450.90.20 | - - Của máy thuộc phân nhóm 8450.11, 8450.12 hoặc 8450.19 |
+| 8451.30.10 | - - Máy là trục đơn, loại gia dụng |
+| 8452.10.00 | - Máy khâu dùng cho gia đình |
+| 8471.60 | - Bộ nhập hoặc bộ xuất, có hoặc không chứa bộ lưu trữ trong cùng một vỏ |
+| 8471.70 | - Bộ lưu trữ: |
+| 8508.70.10 | - - Của máy hút bụi thuộc phân nhóm 8508.11.00 hoặc 8508.19.10 |
+| 8509 | Thiết bị cơ điện gia dụng có động cơ điện gắn liền, trừ máy hút bụi của nhóm 85.08 |
+| 8510 | Máy cạo, tông đơ và các dụng cụ loại bỏ râu, lông, tóc, có động cơ điện gắn liền |
+| 8516 | Dụng cụ điện đun nước nóng tức thời hoặc đun nước nóng có dự trữ và đun nước nóng kiểu nhúng; dụng cụ điện làm nóng không gian và làm nóng đất; dụng cụ nhiệt điện làm tóc (ví dụ, máy sấy tóc, máy uốn tóc, dụng cụ kẹp uốn tóc) và máy sấy làm khô tay; bàn là điện; dụng cụ nhiệt điện gia dụng khác; các loại điện trở đốt nóng bằng điện, trừ loại thuộc nhóm 85.45 |
+| 8518.30.10 | - - Tai nghe có khung chụp qua đầu |
+| 8518.30.20 | - - Tai nghe không có khung chụp qua đầu |
+| 8518.30.51 | - - Bộ micro/ loa kết hợp khác: - - - Dùng cho hàng hóa thuộc phân nhóm 8517.13.00 và 8517.14.00 |
+| 8518.30.59 | - - - Loại khác |
+| 8518.40 | - Thiết bị điện khuếch đại âm tần |
+| 8518.90 | - Bộ phận |
+| 8519.30.00 | - Đầu quay đĩa (có thể có bộ phận lưu trữ) nhưng không có bộ phận khuếch đại và không có bộ phận phát âm thanh (loa) |
+| 8519.81.10 | - - - Máy ghi âm cassette bỏ túi, kích thước không quá 170 mm x 100 mm x 45 mm |
+| 8519.81.20 | - - - Máy ghi âm cassette, có bộ phận khuếch đại và một hoặc nhiều loa, hoạt động chỉ bằng nguồn điện ngoài |
+| 8519.81.30 | - - - Đầu đĩa compact |
+| 8519.81.49 | - - - Máy sao âm: - - - - Loại khác |
+| 8519.81.69 | - - - Máy ghi băng từ có gắn với thiết bị tái tạo âm thanh, loại âm thanh số - - - - Loại khác |
+| 8519.81.79 | - - - Thiết bị tái tạo âm thanh khác, kiểu cassette: - - - - Loại khác |
+| 8519.81.99 | - - - Loại khác: - - - - Loại khác |
+| 8521 | Thiết bị ghi hoặc tái tạo video, có hoặc không gắn bộ phận thu tín hiệu video |
+| 8522 | Bộ phận và phụ kiện chỉ dùng hoặc chủ yếu dùng cho các thiết bị của nhóm 85.19 hoặc 85.21 |
+| 8527 | Thiết bị thu dùng cho phát thanh sóng vô tuyến, có hoặc không kết hợp với thiết bị ghi hoặc tái tạo âm thanh hoặc với đồng hồ, trong cùng một khối |
+| 8529 | Bộ phận chỉ dùng hoặc chủ yếu dùng với các thiết bị thuộc các nhóm từ 85.24 đến 85.28 |
+| 8539.22.91 | - - - Loại khác: - - - - Loại dùng trong chiếu sáng trang trí, công suất không quá 60W |
+| 8539.22.93 | - - - - Loại khác, dùng cho chiếu sáng gia dụng |
+| 8539.22.99 | - - - - Loại khác |
+| 8539.29.50 | - - - Loại khác, có công suất trên 200W nhưng không quá 300 W và điện áp trên 100 V |
+| 8539.31 | - Bóng đèn phóng, trừ đèn tia cực tím: - - Bóng đèn huỳnh quang, ca-tốt nóng |
+| 8539.39 | - - Loại khác |
+| 8711 | Mô tô (kể cả xe gắn máy có bàn đạp (moped)) và xe đạp có gắn động cơ phụ trợ, có hoặc không có thùng xe bên cạnh; thùng xe có bánh (side-cars) |
+| 8712 | Xe đạp hai bánh và xe đạp khác (kể cả xe xích lô ba bánh chở hàng), không lắp động cơ (trừ xe đạp đua mã HS 8712.00.10) |
+| 8714 | Bộ phận và phụ kiện của xe thuộc các nhóm từ 8711 đến 87.13 (trừ bộ phận và phụ kiện của nhóm 87.13) |
+| 9004.10.00 | - Kính râm |
+| 9101 | Đồng hồ đeo tay, đồng hồ bỏ túi và các loại đồng hồ cá nhân khác, kể cả đồng hồ bấm giờ, với vỏ làm bằng kim loại quý hoặc kim loại dát phủ kim loại quý |
+| 9102 | Đồng hồ đeo tay, đồng hồ bỏ túi và các loại đồng hồ cá nhân khác, kể cả đồng hồ bấm giờ, trừ các loại thuộc nhóm 91.01 |
+| 9103 | Đồng hồ thời gian có lắp máy đồng hồ cá nhân, trừ các loại đồng hồ thời gian thuộc nhóm 91.04 |
+| 9105 | Đồng hồ thời gian khác. (trừ đồng hồ hàng hải đo thời gian mã HS 9105.91.10, 9105.99.10) |
+| 9401.31.00 | - Ghế quay có điều chỉnh độ cao: - - Bằng gỗ |
+| 9401.39.00 | - - Loại khác |
+| 9401.41.00 | - Ghế có thể chuyển thành giường, trừ ghế trong vườn hoặc đồ cắm trại: - - Bằng gỗ |
+| 9401.49.00 | - - Loại khác |
+| 9401.52.00 | - Ghế bằng mây, liễu gai, tre hoặc các vật liệu tương tự: - - Bằng tre |
+| 9401.53.00 | - - Bằng song, mây |
+| 9401.59.00 | - - Loại khác |
+| 9401.61.00 | - Ghế khác, có khung bằng gỗ: - - Đã nhồi đệm |
+| 9401.69 | - - Loại khác |
+| 9401.71.00 | - Ghế khác, có khung bằng kim loại: - - Đã nhồi đệm |
+| 9401.79 | - - Loại khác |
+| 9401.80.00 | - Ghế khác |
+| 9403.10.00 | - Đồ nội thất bằng kim loại được sử dụng trong văn phòng |
+| 9403.20 | - Đồ nội thất bằng kim loại khác |
+| 9403.30.00 | - Đồ nội thất bằng gỗ loại sử dụng trong văn phòng |
+| 9403.40.00 | - Đồ nội thất bằng gỗ loại sử dụng trong nhà bếp |
+| 9403.50.00 | - Đồ nội thất bằng gỗ loại sử dụng trong phòng ngủ |
+| 9403.60 | - Đồ nội thất bằng gỗ khác |
+| 9403.70 | - Đồ nội thất bằng plastic |
+| 9403.82.00 | - - Bằng tre |
+| 9403.83.00 | - - Bằng song, mây |
+| 9403.89 | - - Loại khác |
+| 9404 | Khung đệm; các mặt hàng thuộc bộ đồ giường và các loại tương tự (ví dụ, đệm, chăn quilt, chăn nhồi lông, nệm, đệm ghế loại dài và gối) có gắn lò xo hoặc nhồi hoặc lắp bên trong bằng vật liệu bất kỳ hoặc bằng cao su xốp hoặc plastic xốp, có hoặc không bọc. |
+| 9405.19.92 | - - - Loại khác: - - - - Đèn gắn bóng đèn huỳnh quang |
+| 9405.19.99 | - - - - Loại khác |
+| 9405.21.90 | - Đèn bàn, đèn giường hoặc đèn cây dùng điện - - - Loại khác |
+| 9405.29.90 | - - - Loại khác |
+| 9405.31.00 | - Dây đèn dùng cho cây Nô-en: - - Được thiết kế chỉ để sử dụng với các nguồn sáng đi-ốt phát quang (LED) |
+| 9405.39.00 | - - Loại khác |
+| 9405.50.11 | - - Loại đốt bằng dầu: - - - Bằng đồng sử dụng trong nghi lễ tôn giáo |
+| 9405.50.19 | - - - Loại khác |
+| 9405.50.40 | - - Đèn bão |
+| 9405.50.90 | - - Loại khác |
+| 9504 | Các máy và thiết bị trò chơi điện tử video, các trò chơi trên bàn hoặc trong phòng khách, kể cả trò chơi bắn bi (pin-table), bi-a, bàn chuyên dụng dùng cho trò chơi ở sòng bạc và thiết bị chơi bowling tự động, máy giải trí hoạt động bằng đồng xu, tiền giấy, thẻ ngân hàng, token hoặc bất kỳ phương tiện thanh toán khác |
+| 9505 | Đồ dùng trong lễ hội, hội hoá trang hoặc trong các trò chơi giải trí khác, kể cả các mặt hàng dùng cho trò chơi ảo thuật và trò vui cười. |
+| 9603.21.00 | - Bàn chải đánh răng, chổi xoa bọt cạo râu, bàn chải chải tóc, chổi sơn móng tay, chải mi mắt và bàn chải vệ sinh khác dùng cho người, kể cả bàn chải tương tự là bộ phận của các dụng cụ - - Bàn chải đánh răng, kể cả bàn chải dùng cho răng mạ |
+| 9603.29.00 | - - Loại khác |
+| 9603.90 | - Loại khác |
+| 9605.00.00 | Bộ đồ du lịch dùng cho vệ sinh cá nhân, bộ đồ khâu hoặc bộ đồ làm sạch giày dép hoặc quần áo. |
+| 9613 | Bật lửa châm thuốc lá và các bật lửa khác, có hoặc không dùng cơ hoặc điện, và các bộ phận của chúng trừ đá lửa và bấc |
+| 9614 | Tẩu thuốc (kể cả điếu bát) và đót xì gà hoặc đót thuốc lá, và bộ phận của chúng |
+| 9615 | Lược, trâm cài tóc và loại tương tự; ghim cài tóc, cặp uốn tóc, kẹp uốn tóc, lô cuộn tóc và loại tương tự, trừ các loại thuộc nhóm 85.16, và bộ phận của chúng |
+| 9617.00.10 | - Phích chân không và các loại bình chân không khác, hoàn chỉnh |
