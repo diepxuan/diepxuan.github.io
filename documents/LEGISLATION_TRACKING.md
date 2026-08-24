@@ -1,3 +1,28 @@
+### Cập nhật 2026-08-24 v156 — Đệ #3 Full Content Crawler (dọn trùng lặp + hoàn thiện 64/2026/TT-BXD — 11:36 ICT)
+
+- **64/2026/TT-BXD**: hợp nhất **5 file trùng lặp → 1 bản chính thức duy nhất** `van-ban/thi-dua/64-2026-tt-bxd.md` và **nâng cấp toàn văn từ 12 Điều cụt → đủ 25 Điều / 6 Chương + Phụ lục**. Bảng so sánh 5 bản trước khi xóa (đều cùng nguồn luatvietnam preview, đều cụt tại giữa Điều 12 khoản 2 điểm d):
+
+  | File | Size | modified | Điều | Chương | Đặc điểm |
+  |---|---|---|---|---|---|
+  | `van-ban/64-2026-tt-bxd.md` | 23.765 B | 20/8 | 12 (cụt) | 2 | front matter có Cơ quan ban hành; heading Chương con dùng `###` |
+  | `van-ban/thong-tu-64-2026-tt-bxd.md` | 24.560 B | 18/8 | 12 (cụt) | 2 | group thi-dua-khen-thuong; giữ khối quốc hiệu |
+  | `van-ban/thi-dua/64-2026-tt-bxd.md` | 24.362 B | 20/8 | 12 (cụt) | 2 | **bản tracking v112 từng ghi là chính thức** → chọn làm bản sống sót |
+  | `van-ban/thi-dua/thong-tu-64-2026-tt-bxd.md` | 23.935 B | 20/8 | 12 (cụt) | 2 | thiếu metadata ký/cơ quan; "Trạng thái: Đang theo dõi" |
+  | `van-ban/xay-dung/thi-dua/64-2026-tt-bxd.md` | 24.380 B | 18/8 | 12 (cụt) | 2 | front matter vỔ YAML (`**Cơ quan ban hành:` thiếu đóng) |
+
+  - Đã xóa 4 file trên + thêm **file thứ 6 phát hiện khi grep**: `van-ban/xay-dung/thi-dua/64-2026-TT-BXD.md` (chữ hoa, không front matter Jekyll, chứa ghi chú debug public "[Nội dung tiếp theo bị thiếu/truncated từ nguồn]" vi phạm OCR_QUALITY_GATE mục 2) → cũng cụt tại đúng điểm truncate nguồn, xóa.
+  - Kiểm tra mất mát: diff 3 chiều 5 bản cũ — nội dung điều/khoản/điểm giống nhau ~99%, khác biệt chỉ format thụt lề; toàn bộ nội dung chung đã được phủ bởi bản mới đầy đủ 25 Điều.
+- **Phát hiện quan trọng**: cả 5 bản cũ là bản cắt cụt từ lần crawl preview cũ (luatvietnam trả trang động, lần fetch đầu qua web_fetch cũng bị cắt ở Điều 12). Re-fetch bằng curl full HTML (752KB) lấy được trọn bộ: văn bản thật có **25 Điều / 6 Chương** (Chương III Hồ sơ đề nghị khen thưởng; IV Cấp đổi, cấp lại hiện vật; V Hội đồng Thi đua - Khen thưởng; VI Tổ chức thực hiện — Điều 24 bãi bỏ TT 55/2025/TT-BXD, Điều 25 chuyển tiếp), Nơi nhận, chữ ký **KT. BỘ TRƯỞNG — THỨ TRƯỞNG Nguyễn Danh Huy**, Phụ lục danh mục 12 mẫu (1.1–1.8, 2.1–2.4).
+- **File chính sau hợp nhất** (~67KB): front matter chuẩn Jekyll (layout vanban, number, permalink `/van-ban/thi-dua/64-2026-tt-bxd/`, date 11/08/2026, modified 24/08/2026, group thi-dua, so_hieu, ngay_ban_hanh, ngay_hieu_luc 01/10/2026, nguoi_ky **Nguyễn Danh Huy — Thứ trưởng ký thay Bộ trưởng**, co_quan_ban_hanh Bộ Xây dựng, loai_van_ban Thông tư, trich_yeu, docid, status da-co), khối THÔNG TIN VĂN BẢN, toàn văn 25 Điều, Nơi nhận + chữ ký, PHỤ LỤC bảng danh mục 12 mẫu.
+- **Nguồn đối chiếu**: [luatvietnam docid 444189-d1](https://luatvietnam.vn/thi-dua/thong-tu-64-2026-tt-bxd-quy-dinh-thi-dua-khen-thuong-bo-xay-dung-co-hieu-luc-01-10-2026-444189-d1.html) (fetch full HTML qua curl).
+- **Quality gate**: OCR issues = 0; Điều 25/25 range 1–25 Missing [] Duplicate []; suspicious headings none; Chương I–VI đúng thứ tự La Mã không trùng; 0 ghi chú crawler/debug trong file public; `git diff --check` pass; grep toàn repo không còn tham chiếu nội bộ tới 5 file đã xóa (URL nguồn trong tracking là log lịch sử, giữ nguyên).
+
+**Session**: agent:github-io:subagent:bd3b7f49 (Đệ #3 Full Content Crawler v156)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 11:36 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v155 — Đệ #3 Full Content Crawler (dọn trùng lặp + hoàn thiện 314/2026/NĐ-CP — 11:04 ICT)
 
 - **314/2026/NĐ-CP**: hợp nhất **5 file trùng lặp → 1 bản chính thức duy nhất** `van-ban/khoa-hoc/314-2026-nd-cp.md`, chuyển trạng thái **"Chưa có" → "Hoàn thiện"** (stale từ v111). Trước khi dọn, repo có 4 file format chỉ đủ 8 Điều (cụt) + 1 file raw OCR 115KB không front matter:
