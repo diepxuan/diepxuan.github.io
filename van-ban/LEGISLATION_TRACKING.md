@@ -1,3 +1,15 @@
+### Cập nhật 2026-08-24 v162 — Đệ #3 Full Content Crawler (hợp nhất cụm 117/2026/TT-BTC: 3 file → 1 bản chuẩn — 14:55 ICT)
+
+- **Phạm vi**: hợp nhất cụm trùng lặp Thông tư 117/2026/TT-BTC (miễn, giảm một số khoản phí, lệ phí để triển khai NQ 66.22/2026/NQ-CP về phát triển công dân số; docid chp 219230) từ **3 file → 1 bản chuẩn duy nhất**: giữ `van-ban/tai-chinh/117-2026-tt-btc.md`; xóa `van-ban/117-2026-TT-BTC.md` (stub tóm tắt tự viết, không front matter) và `van-ban/117-2026-tt-btc.md` (bản root trùng).
+- **Đối chiếu nguồn chính thức**: OCR toàn bộ 5 trang PDF chữ ký số datafiles.chinhphu.vn (`117-tt.signed.pdf` từ trang docid [219230](https://vanban.chinhphu.vn/?pageid=27160&docid=219230)) — tựa chuẩn đủ "…của Chính phủ về phát triển công dân số" (metadata trang chp ghi sai chính tả "triễn khai", không dùng); khoản d) Điều 1 xác nhận "STT 1 Phụ lục III" bằng phân tích pixel ảnh 400dpi (tesseract đọc nhầm II). Toàn văn Điều 1–2 + Nơi nhận + chữ ký khớp PDF.
+- **Loss-check**: 100% câu pháp lý của 2 bản xóa được phủ trong bản giữ. Gate: Điều 2/2 range 1–2 Missing/Duplicate [], OCR issues 0, 0 debug note, `git diff --check` pass. Chi tiết đầy đủ tại documents/LEGISLATION_TRACKING.md v162. Commit cleanup: `6af08923`.
+
+**Session**: agent:github-io:subagent:2103f869 (Đệ #3 Full Content Crawler v162)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 14:55 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v160 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 13:35 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (method v142, tái dùng ở v151/v153). Parse đủ 50 hàng (docid 219100→**219265**, ngày BH 05/08→**22/08**/2026). So sánh kép docid + số hiệu với tracking + `van-ban/**` (normalize ký tự Cyrillic lẫn trong số hiệu từ nguồn chp).

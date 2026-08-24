@@ -1,3 +1,20 @@
+### Cập nhật 2026-08-24 v162 — Đệ #3 Full Content Crawler (hợp nhất cụm 117/2026/TT-BTC: 3 file → 1 bản chuẩn — 14:55 ICT)
+
+- **Phạm vi**: hợp nhất cụm trùng lặp Thông tư 117/2026/TT-BTC (miễn, giảm một số khoản phí, lệ phí để triển khai NQ 66.22/2026/NQ-CP về phát triển công dân số; docid chp [219230](https://vanban.chinhphu.vn/?pageid=27160&docid=219230); ký KT. Bộ trưởng Thứ trưởng Cao Anh Tuấn; BH 14/08/2026, hiệu lực 15/08/2026–28/02/2027) từ **3 file → 1 bản chuẩn duy nhất**.
+- **Kết quả**: giữ `van-ban/tai-chinh/117-2026-tt-btc.md` (đúng quy ước vị trí cụm TT 111–120 tại tai-chinh/); xóa `van-ban/117-2026-TT-BTC.md` (stub tóm tắt tự viết "theo thông tin báo chí", không front matter — vi phạm gate mục 2/12) và `van-ban/117-2026-tt-btc.md` (bản root trùng nội dung).
+- **Diff thực chất trước khi hợp nhất** (đã diff toàn văn từng cặp, không chỉ metadata): stub root chỉ là tóm tắt báo chí; 2 bản chuẩn khác nhau ở (a) title front matter — bản tai-chinh cũ lặp chữ "triển khai triển", bản root-lower thiếu "của Chính phủ" so với tựa PDF gốc, (b) tags (Bộ Tài chính/NQ 66.22 vs VNeID), (c) bản root-lower có khối quốc hiệu + tựa THÔNG TƯ + khối "Căn cứ" nguyên văn + câu "Theo đề nghị…" mà bản tai-chinh chỉ có căn cứ tóm tắt trong THÔNG TIN VĂN BẢN, (d) format in đậm/gạch đầu dòng khoản 1 điểm d. Nội dung pháp lý 2 Điều tương đương từng câu.
+- **Đối chiếu nguồn chính thức**: tải PDF chữ ký số datafiles.chinhphu.vn (`cpp/files/vbpq/2026/8/117-tt.signed.pdf`, 5 trang, ký số VP Chính phủ 19/08/2026) từ trang docid 219230, OCR toàn bộ 5 trang đối chiếu: tựa đề chuẩn là "Quy định miễn, giảm một số khoản phí, lệ phí để triển khai Nghị quyết số 66.22/2026/NQ-CP ngày 09 tháng 7 năm 2026 của Chính phủ về phát triển công dân số" → chọn title theo hướng bản root-lower (đúng tựa gốc, đủ "của Chính phủ"). Metadata hiển thị của trang chp có lỗi chính tả "triễn khai" — không dùng làm chuẩn. Toàn văn Điều 1–2, Nơi nhận, khối chữ ký khớp OCR PDF.
+- **Điểm nhạy đã soi kỹ**: khoản d) Điều 1 ghi điều kiện giảm lệ phí trước bạ theo "STT 1 Phụ lục…" — tesseract psm thấp đọc nhầm "Phụ lục II", nhưng phân tích pixel ảnh gốc 400dpi xác nhận **3 vạch dọc = "Phụ lục III"**, khớp cả 2 bản MD cũ → giữ nguyên "Phụ lục III" (khớp nguồn thật).
+- **Hợp nhất giá trị unique vào bản giữ**: title chuẩn theo PDF; bổ sung khối quốc hiệu + tựa THÔNG TƯ + 3 dòng "Căn cứ" nguyên văn + câu "Theo đề nghị của Cục trưởng Cục Quản lý, giám sát chính sách thuế, phí và lệ phí…" (khớp nguyên văn OCR); tags gộp thêm VNeID; source thêm vanban.chinhphu.vn (docid 219230) + datafiles.chinhphu.vn; group chuẩn hóa `tai-chinh`; modified 24/08.
+- **Loss-check**: quét từng dòng ≥30 ký tự của 2 bản xóa so với bản giữ — 100% câu pháp lý được phủ; phần còn lại chỉ là tóm tắt tự viết sai quy cách của stub và biến thể trình bày metadata (Hiệu lực/Căn cứ pháp lý tóm tắt — đã thay bằng khối căn cứ nguyên văn đầy đủ hơn).
+- **Quality gate**: Điều 2/2 range 1–2, Missing [] Duplicate [], suspicious heading 0; OCR issues 0 (kèm check riêng "triễn"/"triển triển"); 0 debug/stub/placeholder note; trailing whitespace 0; `git diff --check` pass. Commit cleanup: `6af08923`.
+
+**Session**: agent:github-io:subagent:2103f869 (Đệ #3 Full Content Crawler v162)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 14:55 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v161 — Đệ #3 Full Content Crawler (toàn văn 336/2026/NĐ-CP — 14:20 ICT)
 
 - **Phạm vi**: crawl toàn văn **Nghị định 336/2026/NĐ-CP** (docid chp [219265](https://vanban.chinhphu.vn/?pageid=27160&docid=219265)) — VB mới duy nhất phát hiện ở v160, chuyển trạng thái "Chưa có (chờ crawl)" → "**Hoàn thiện (v161)**".
