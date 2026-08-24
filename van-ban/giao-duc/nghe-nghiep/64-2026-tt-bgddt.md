@@ -1,7 +1,7 @@
 ---
 title: "Thông tư 64/2026/TT-BGDĐT - Quy định mã số, chuẩn nghề nghiệp, bổ nhiệm, xếp lương và chế độ làm việc đối với giáo viên trung học nghề"
 date: 2026-08-10
-modified: 2026-08-13
+modified: 2026-08-24
 layout: vanban
 so_hieu: "64/2026/TT-BGDĐT"
 loai_van_ban: "Thông tư"
@@ -21,8 +21,9 @@ can_cu_phap_ly:
   - Căn cứ Nghị định số 279/2026/NĐ-CP ngày 12 tháng 7 năm 2026 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;
 group: "giao-duc"
 ngon_ngu: "vi"
-docid: "443794"
+docid: "219176"
 source:
+  - vanban.chinhphu.vn (docid 219176); datafiles.chinhphu.vn
   - luatvietnam.vn (443794-d1)
 tags:
   - thong-tu
@@ -63,7 +64,8 @@ Quy định mã số, chuẩn nghề nghiệp, bổ nhiệm, xếp lương và c
 
 ## VĂN BẢN
 
-QUY ĐỊNH CHUNG
+## Chương I
+_QUY ĐỊNH CHUNG_
 
 ### Điều 1. Phạm vi điều chỉnh
 Thông tư này quy định về mã số, chuẩn nghề nghiệp, bổ nhiệm, xếp lương, xác định tương đương chức danh nhà giáo và chế độ làm việc đối với giáo viên giảng dạy chương trình giáo dục trung học nghề (sau đây gọi là giáo viên trung học nghề).
@@ -323,3 +325,37 @@ e) Tăng cường ứng dụng công nghệ thông tin, chuyển đổi số tro
 1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 8 năm 2026.
 2. Trường hợp các văn bản dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo các văn bản mới.
 3. Chánh Văn phòng, Cục trưởng Cục Nhà giáo và Cán bộ quản lý giáo dục, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo và hiệu trưởng, giám đốc cơ sở hoạt động giáo dục nghề nghiệp chịu trách nhiệm thi hành Thông tư này./.
+
+Nơi nhận:
+
+- Văn phòng Quốc hội;
+
+- Văn phòng Chính phủ;
+
+- Ủy ban VH&XH của Quốc hội;
+
+- Ban Tuyên giáo Trung ương;
+
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+
+- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật (Bộ Tư pháp);
+
+- Hội đồng Quốc gia Giáo dục và Phát triển nhân lực;
+
+- Bộ trưởng;
+
+- Các Thứ trưởng;
+
+- Công đoàn Giáo dục Việt Nam;
+
+- Như khoản 3 Điều 22 (để thực hiện);
+
+- Công báo; Cổng PLQG; CSDLQG về VBPL; Cổng TTĐT Chính phủ; Cổng TTĐT Bộ GDĐT;
+
+- Lưu: VT, PC, NGCBQLGD (05).
+
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Phạm Ngọc Thưởng
