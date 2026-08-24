@@ -1,3 +1,22 @@
+### Cập nhật 2026-08-24 v164 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 15:38 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160). Parse đủ 50 hàng (docid **219110→219266**, ngày BH 05/08→**22/08**/2026 — không đổi so với v160). So sánh kép theo cả **docid** lẫn **số hiệu** (có normalize ký tự Cyrillic theo bài học v160) với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
+
+**Kết quả quét 50 VB**: **50/50 đã có file `van-ban/` hoặc đã track chính thức → 0 VB mới.** Trường hợp duy nhất tưởng là mới là docid 219189 số hiệu nguồn trả `320/2026/NĐ-CР` (chữ Р là U+0420 Cyrillic) — sau normalize khớp chính xác tracking + 3 file sẵn có (`van-ban/320-2026-nd-cp.md`, `van-ban/chinh-phu/nghi-dinh-320-2026-nd-cp.md`, `van-ban/hanh-chinh/320-2026-nd-cp.md`). Xác nhận lại bài học v160: bắt buộc normalize khi so khớp, nếu không sẽ báo nhầm VB mới.
+
+**File `van-ban/` chưa hoàn thiện được flag lại trong vòng này** (chỉ flag — KHÔNG sửa file văn bản theo giới hạn quyền discovery):
+1. Stub root `van-ban/117-2026-TT-BTC.md` đã được xóa ở vòng hợp nhất v162 — cụm TT 117/2026/TT-BTC giờ còn đúng 1 bản chuẩn `van-ban/tai-chinh/117-2026-tt-btc.md`. ✅ đã xử lý.
+2. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (2,6KB STUB, tuổi >165d): vẫn chưa xử lý — giữ trạng thái cần hoàn thiện/xác minh.
+3. `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` (2,4KB STUB, layout=`page` thay vì `vanban`, tuổi >79d): vẫn chưa xử lý.
+
+**Các cụm còn lại trong top-50 khớp trạng thái v142–v163** (không đổi): cụm 7 NĐ An ninh mạng 327–333; 334/335/336/NĐ-CP đã có file (336 hoàn thiện v161); 116–120/TT-BTC đã có (117 hợp nhất xong v162); 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN + 19/TT-BNV giữ "Chưa có" từ v124; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi.
+
+**Session**: agent:github-io:subagent:60a75dc1 (Đệ #1 Discovery v164)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 15:38 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v163 — Đệ #3 Full Content Crawler (toàn văn 281/2026/NĐ-CP thay stub — 15:15 ICT)
 
 - **Phạm vi**: crawl toàn văn **Nghị định 281/2026/NĐ-CP** sửa đổi NĐ 123/2024 về xử phạt VPHC lĩnh vực đất đai (docid chp [218863](https://vanban.chinhphu.vn/?pageid=27160&docid=218863), BH 13/07/2026, hiệu lực 31/08/2026), chuyển trạng thái "Chưa hoàn thiện (STUB)" → "**Hoàn thiện**".
