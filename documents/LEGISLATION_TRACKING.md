@@ -1,3 +1,34 @@
+### Cập nhật 2026-08-24 v165 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 17:07 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164). Parse đủ 50 hàng (docid **219130→219269**, ngày BH 05/08→**21–22/08**/2026 — range mở rộng +2 VB so với v164 do 2 TT mới ban hành 21/08: docid **219268, 219269**). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic + NFD + đ→d) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
+
+**Kết quả quét 50 VB**: **48/50 đã có file `van-ban/` hoặc đã track chính thức → 2 VB mới** cần thêm vào "Chưa có (chờ crawl)":
+
+| # | Số hiệu | Chủ đề | Docid | Ngày BH | Hiệu lực | Người ký | PDF chp signed | Trạng thái |
+|---|---------|--------|-------|---------|----------|----------|----------------|------------|
+| 1 | **121/2026/TT-BTC** | Đăng ký doanh nghiệp/hộ kinh doanh — sửa đổi biểu mẫu theo TT 68/2025/TT-BTC | [219269](https://vanban.chinhphu.vn/?pageid=27160&docid=219269) | 21/08/2026 | 21/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/8/121-btc.signed.pdf` | Chưa có (chờ crawl) |
+| 2 | **118/2026/TT-BQP** | Quốc phòng — đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc QL BQP; sửa đổi TT 69/2024/TT-BQP | [219268](https://vanban.chinhphu.vn/?pageid=27160&docid=219268) | 21/08/2026 | 10/10/2026 | Nguyễn Văn Hiền | `cpp/files/vbpq/2026/8/118-bqp.signed.pdf` | Chưa có (chờ crawl) |
+
+**Trích yếu** (đã fetch trang chi tiết docid xác minh metadata):
+- **121/2026/TT-BTC** (docid [219269](https://vanban.chinhphu.vn/?pageid=27160&docid=219269)): "Sửa đổi, bổ sung một số điều của Thông tư số 68/2025/TT-BTC ngày 01 tháng 07 năm 2025 của Bộ Tài chính ban hành biểu mẫu sử dụng trong đăng ký doanh nghiệp, đăng ký hộ kinh doanh". Loại: Thông tư; Cơ quan: Bộ Tài chính; BH 21-08-2026, hiệu lực ngay 21-08-2026.
+- **118/2026/TT-BQP** (docid [219268](https://vanban.chinhphu.vn/?pageid=27160&docid=219268)): "Sửa đổi, bổ sung một số điều của Thông tư số 69/2024/TT-BQP ngày 14 tháng 10 năm 2024 của Bộ trưởng Bộ Quốc phòng quy định về đăng ký, quản lý, sử dụng xe cơ giới, xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng". Loại: Thông tư; Cơ quan: Bộ Quốc phòng; BH 21-08-2026, hiệu lực 10-10-2026.
+- Ghi chú queue: cả 2 đều là VB mới công bố sau vòng v164 (15:38 ICT) — không phải miss của vòng trước.
+
+**Normalize Cyrillic**: nguồn lại trả `320/2026/NĐ-CР` (Р = U+0420) tại docid 219189 như v160/v164 — đã normalize khớp đúng kho, không báo nhầm. Ngoài ra lần này bổ sung chuẩn hóa NFD + `đ→d` cho toàn bộ chuỗi so khớp để tránh lệch dấu khi so với tên file `van-ban/**`.
+
+**File `van-ban/` chưa hoàn thiện được flag lại trong vòng này** (chỉ flag — KHÔNG sửa file văn bản theo giới hạn quyền discovery):
+1. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (2,6KB STUB, tuổi >165d): vẫn chưa xử lý — giữ trạng thái cần hoàn thiện/xác minh.
+2. `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` (2,4KB STUB, layout=`page` thay vì `vanban`, tuổi >79d): vẫn chưa xử lý.
+3. Quan sát thêm từ scan <10KB: cụm trùng lặp số cũ vẫn tồn tại dạng file song song (VD `35-2026-TT-BCT.md` root 3,5KB vs bản hợp nhất v159; `20-2026-tt-btc.md` 4,9KB; `97-2026-TT-BTC.md` 6,0KB) — chưa đủ căn cứ kết luận stub, để các vòng review/crawler tự đánh giá; không đưa vào hàng đợi trong vòng này.
+
+**Các cụm còn lại trong top-50 khớp trạng thái v142–v164** (không đổi): cụm 7 NĐ An ninh mạng 327–333 (333 crawl v152); 334/335/NĐ-CP đã có file, 336 hoàn thiện v161; 330 đã track v163; 116–120/TT-BTC đã có (117 hợp nhất v162); 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN + 19/TT-BNV giữ "Chưa có" từ v124; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi (track v142).
+
+**Session**: agent:github-io:subagent:428348a3 (Đệ #1 Discovery v165)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 17:07 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v164 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 15:38 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160). Parse đủ 50 hàng (docid **219110→219266**, ngày BH 05/08→**22/08**/2026 — không đổi so với v160). So sánh kép theo cả **docid** lẫn **số hiệu** (có normalize ký tự Cyrillic theo bài học v160) với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
