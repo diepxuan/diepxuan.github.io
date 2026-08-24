@@ -1,3 +1,18 @@
+### Cập nhật 2026-08-24 v155 — Đệ #3 Full Content Crawler (dọn trùng lặp + hoàn thiện 314/2026/NĐ-CP — 11:04 ICT)
+
+- **314/2026/NĐ-CP**: hợp nhất **5 file trùng lặp → 1 bản chính thức duy nhất** `van-ban/khoa-hoc/314-2026-nd-cp.md`, chuyển trạng thái **"Chưa có" → "Hoàn thiện"** (stale từ v111). Trước khi dọn, repo có 4 file format chỉ đủ 8 Điều (cụt) + 1 file raw OCR 115KB không front matter:
+  - Đã xóa: `van-ban/314-2026-nd-cp.md`, `van-ban/nghi-dinh-314-2026-nd-cp.md`, `van-ban/khoa-hoc/314-2026-nd-cp-san-du-lieu.md`, `van-ban/khoa-hoc/nghi-dinh-314-2026-nd-cp-san-du-lieu.md` (raw OCR).
+  - Kiểm tra mất mát: quét từng câu/clause của 4 file cũ đối chiếu với bản mới → 100% nội dung đã được phủ (duy nhất 1 marker stub cũ "Nội dung còn lại chưa được crawl đầy đủ" bị loại bỏ một cách chủ đích); raw OCR 115KB spot-check theo từng Chương → toàn bộ khớp.
+- **File chính sau hợp nhất** (~88KB / 1.125 dòng): front matter chuẩn như file văn bản mới trên branch (layout vanban, title, number, permalink `/van-ban/khoa-hoc/314-2026-nd-cp/`, date 08/08/2026, modified 24/08/2026, group khoa-hoc, so_hieu 314/2026/NĐ-CP, ngay_ban_hanh 08/08/2026, ngay_hieu_luc 25/09/2026, nguoi_ky **Hồ Quốc Dũng — Phó Thủ tướng ký thay Thủ tướng** [sửa so với bản cũ ghi sai "Thủ tướng Chính phủ"], co_quan_ban_hanh Chính phủ, loai_van_ban Nghị định, linh_vuc Sàn dữ liệu/Dữ liệu số), toàn văn **38 Điều / 9 Chương + Phụ lục Mẫu ĐK01** (range Điều 1–38, Missing [], Duplicate []; Chương I QUY ĐỊNH CHUNG → II TỔ CHỨC KINH DOANH DV SÀN DỮ LIỆU → III HOẠT ĐỘNG THỬ NGHIỆM → IV ĐIỀU KIỆN THAM GIA GIAO DỊCH → V QUY TRÌNH GIAO DỊCH → VI QUẢN LÝ RỦI RO, HỖ TRỢ XỬ LÝ VẤN ĐỀ PHÁT SINH & GIẢI QUYẾT TRANH CHẤP → VII TRÁCH NHIỆM CỦA TCDV SÀN DL/BÊN BÁN/BÊN MUA/TCDVTGDL → VIII TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC → IX TỔ CHỨC THỰC HIỆN) + căn cứ pháp luật 5 Luật (63/2025, 60/2024, 91/2025, 20/2023, 116/2025) + khối Nơi nhận + chữ ký TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Hồ Quốc Dũng.
+- **Nguồn đối chiếu**: nguồn text số hóa chính [luatvietnam docid 443950-d1](https://luatvietnam.vn/khoa-hoc/nghi-dinh-314-2026-nd-cp-quy-dinh-hoat-dong-cua-san-du-lieu-hieu-luc-tu-25-09-2026-443950-d1.html) (toàn văn 38 Điều + Phụ lục); cross-check raw OCR PDF chính thức (file 115KB đã xóa) cho Phụ lục và metadata; xác minh cấu trúc/metadata qua cổng Chính phủ [xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-314-2026-nd-cp-quy-dinh-hoat-dong-cua-san-du-lieu-119260817104316631.htm) ("9 Chương, 38 Điều, hiệu lực từ 25/9/2026"). vanban.chinhphu.vn chưa tra được docid số riêng tại thời điểm cập nhật → front matter giữ docid dạng số hiệu.
+- **Quality gate**: scan OCR issues = 0; Điều 38/38 range 1–38 Missing [] Duplicate []; suspicious headings none; Chương I–IX đúng thứ tự La Mã không trùng; 0 ghi chú crawler/debug trong file public; `git diff --check` pass.
+
+**Session**: agent:github-io:subagent:2d91dd02 (Đệ #3 Full Content Crawler v155)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 11:04 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v154 — Đệ #3 Full Content Crawler (crawl 330/2026/NĐ-CP — 10:35 ICT)
 
 - **330/2026/NĐ-CP**: tạo mới `van-ban/an-ninh-quoc-gia/330-2026-nd-cp.md`, chuyển trạng thái **"Chưa có (chờ crawl)" → "Hoàn thiện"** (đã track từ v153, docid luatvietnam 445214-d1). File ~203KB / 2.821 dòng: front matter đầy đủ (layout vanban, title, so_hieu 330/2026/NĐ-CP, ngay_ban_hanh 19/08/2026, ngay_hieu_luc 19/08/2026, nguoi_ky Phạm Gia Túc — Phó Thủ tướng ký thay Thủ tướng, co_quan_ban_hanh Chính phủ, loai_van_ban Nghị định, linh_vuc An ninh mạng / Bảo vệ dữ liệu cá nhân, group an-ninh-quoc-gia, docid "445214-d1"), toàn văn Nghị định **82 Điều / 4 Chương / Mục 1–6 trong Chương II** (range Điều 1–82, Missing [], Duplicate []; Chương I QUY ĐỊNH CHUNG → Chương II HÀNH VI VI PHẠM HÀNH CHÍNH... với 6 Mục: bảo vệ ANQG-TTATXH trên không gian mạng / phòng chống tấn công mạng / triển khai hoạt động BVANM / quản lý sản phẩm dịch vụ ANM / chống tin nhắn rác-thư điện tử rác-cuộc gọi rác / bảo vệ dữ liệu cá nhân → Chương III THẨM QUYỀN LẬP BIÊN BẢN VPHC VÀ XỬ PHẠT VPHC → Chương IV ĐIỀU KHOẢN THI HÀNH), khối căn cứ pháp luật 10 Luật + khối Nơi nhận + chữ ký **TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Phạm Gia Túc**; không có Phụ lục.
@@ -1180,7 +1195,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 - 65/2026/TT-BGDDT (443793-d1): **Hoàn thiện** — file: `van-ban/giao-duc/nghe-nghiep/65-2026-tt-bgddt.md`, `van-ban/thong-tu-65-2026-tt-bgddt.md`
 - 66/2026/TT-BGDDT (443792-d1): **Hoàn thiện** — file: `van-ban/giao-duc/nghe-nghiep/66-2026-tt-bgddt.md`, `van-ban/thong-tu-66-2026-tt-bgddt.md`
 - 49/2026/TT-BKHCN (443649-d1): **Hoàn thiện** — file: `van-ban/49-2026-tt-bkhcn.md`
-- 314/2026/NĐ-CP (443950-d1): **Chưa có** — chưa crawl
+- 314/2026/NĐ-CP (443950-d1): **Hoàn thiện** — file: `van-ban/khoa-hoc/314-2026-nd-cp.md` (v155: hợp nhất 5 file trùng thành 1 bản đủ 38 Điều/9 Chương + Phụ lục)
 - 317/2026/NĐ-CP (443816-d1): **Hoàn thiện** — đã crawl
 - 316/2026/NĐ-CP (443815-d1): **Hoàn thiện** — file: `van-ban/dau-tu/nghi-dinh-316-2026-nd-cp.md`
 - 18/2026/TT-BNV (443954-d1): **Chưa có** — chưa crawl
@@ -1239,7 +1254,7 @@ Quét các file `*.md` có kích thước < 10KB và chưa có trạng thái `ho
 
 | # | Số hiệu | Chủ đề | Slug | Ngày BH | Hiệu lực | Trạng thái |
 |---|---|---|---|---|---|---|
-| 1 | **314/2026/NĐ-CP** | Khoa học-Công nghệ (Bộ Công an) | 443950-d1 | 08/08/2026 | 25/09/2026 | **Chưa có** |
+| 1 | **314/2026/NĐ-CP** | Khoa học-Công nghệ (Bộ Công an) | 443950-d1 | 08/08/2026 | 25/09/2026 | **Hoàn thiện (v155)** |
 | 2 | **317/2026/NĐ-CP** | Giáo dục (BGDDT) | 443816-d1 | 11/08/2026 | — | **Hoàn thiện** |
 | 3 | **316/2026/NĐ-CP** | Tài chính (Bộ Tài chính) | 443815-d1 | 11/08/2026 | — | **Hoàn thiện** |
 | 4 | **18/2026/TT-BNV** | Nội vụ (Bộ Nội vụ) | 443954-d1 | 12/08/2026 | — | **Chưa có** |
