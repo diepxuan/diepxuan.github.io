@@ -1,3 +1,27 @@
+### Cập nhật 2026-08-24 v153 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 + track chính thức 330/2026/NĐ-CP — 09:35 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142). Parse đủ 50 hàng (docid 219100→219264, ngày BH 05/08→21/08/2026 — range KHÔNG đổi so với v151). So sánh kép theo cả **docid** lẫn **số hiệu** (bài học v142) với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` (tên file lẫn nội dung, xác minh nghiêm theo docid chính xác + số hiệu front matter để tránh match chuỗi trượt).
+
+**Kết quả quét 50 VB**: **50/50 đã có file `van-ban/` hoặc đã được track chính thức → 0 VB mới** cần thêm vào "Chưa có (chờ crawl)". VB mới nhất trong top-50 là 335/2026/NĐ-CP (docid 219249, 21/08/2026) — đã có file từ v137 (`van-ban/an-sinh-xa-hoi/335-2026-nd-cp.md`). Các cụm còn lại khớp trạng thái v142–v152.
+
+**Track chính thức 330/2026/NĐ-CP** (theo cách v149 đã làm với 19/TT-BNV & 51/TT-BKHCN — chỉ xác minh metadata nguồn, KHÔNG crawl nội dung toàn văn):
+
+| # | Số hiệu | Chủ đề | Docid nguồn | Ngày BH | Hiệu lực | PDF chp | Trạng thái |
+|---|---------|--------|-------------|---------|----------|---------|------------|
+| 1 | **330/2026/NĐ-CP** | Xử phạt VPHC trong an ninh mạng và bảo vệ dữ liệu cá nhân (Chính phủ — Bộ Công an chủ trì) | [luatvietnam 445214-d1](https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-330-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-an-ninh-mang-va-bao-ve-du-lieu-445214-d1.html) | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | chưa có (mẫu tên file chuẩn trả 404 HEAD) | **Chưa có (chờ crawl)** |
+
+**Xác minh nguồn 330/2026/NĐ-CP** (curl trang chi tiết luatvietnam HTTP 200, timeout 30s):
+- Metadata khớp chéo title / H1 / bảng thuộc tính: Số hiệu **330/2026/NĐ-CP**; Loại văn bản **Nghị định**; Cơ quan ban hành **Chính phủ** (Bộ Công an chủ trì); Người ký **Phạm Gia Túc**; Trích yếu **"Quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân"**; Ngày ban hành **19/08/2026**; hiệu lực từ **19/08/2026** (meta description luatvietnam: "có hiệu lực từ 19/08/2026"); Ngày hết hiệu lực / ngày đăng công báo: Đang cập nhật; trang cập nhật 22/08/2026 19:04.
+- URL gốc slug `an-ninh-mang/nghi-dinh-330-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-an-ninh-mang-bao-ve-du-lieu-445214-d1.html` redirect về canonical nhóm **vi-pham-hanh-chinh** (link trên) — cùng một docid 445214-d1, không phải văn bản trùng lặp.
+- vanban.chinhphu.vn: **chưa có docid riêng** tại thời điểm quét (không nằm trong top-50 classid=1); PDF trên datafiles.chinhphu.vn thử 2 mẫu tên file chuẩn của các NĐ cùng ngày đều **404** (HEAD) → chưa có bản gốc có dấu công khai để đối chiếu.
+- Lịch sử: phát hiện từ v124 (slug luatvietnam 445214-d1) nhưng vượt giới hạn 5; v135/v151 ghi "còn phát hiện thêm"; đến vòng v153 này mới chính thức vào bảng tracking. Sau khi crawl xong sẽ khép đủ cụm 7 Nghị định thi hành Luật An ninh mạng (327/328/329/331/332/333 đã có file).
+
+**Session**: agent:github-io:subagent:05b8307d (Đệ #1 Discovery v153)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 09:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v152 — Đệ #3 Full Content Crawler (crawl 333/2026/NĐ-CP — 08:55 ICT)
 
 - **333/2026/NĐ-CP**: tạo mới `van-ban/an-ninh-quoc-gia/333-2026-nd-cp.md`, chuyển trạng thái **"Chưa có (chờ crawl)" → "Hoàn thiện"** (đã track từ v124 slug luatvietnam 445089-d1; chính thức vào bảng v151 với docid chp 219244). File ~82KB / 1042 dòng: front matter đầy đủ (layout vanban, title, number, permalink `/van-ban/an-ninh-quoc-gia/333-2026-nd-cp/`, date 19/08/2026, group an-ninh-quoc-gia, so_hieu 333/2026/NĐ-CP, ngay_ban_hanh 19/08/2026, ngay_hieu_luc 19/08/2026 (hiệu lực ngay), nguoi_ky Phạm Gia Túc — Phó Thủ tướng ký thay Thủ tướng, co_quan_ban_hanh Chính phủ, loai_van_ban Nghị định, docid 219244), toàn văn Nghị định **32 Điều / 6 Chương** (range Điều 1–32, Missing [], Duplicate [], order OK; Chương I QUY ĐỊNH CHUNG → II TRÌNH TỰ, THỦ TỤC ÁP DỤNG MỘT SỐ BIỆN PHÁP BẢO VỆ AN NINH MẠNG → III BẢO ĐẢM AN NINH THÔNG TIN MẠNG → IV QUẢN LÝ ĐỊNH DANH ĐỊA CHỈ IP → V TẬP HUẤN KIẾN THỨC, KỸ NĂNG CHUYÊN SÂU VỀ AN NINH MẠNG → VI ĐIỀU KHOẢN THI HÀNH) + khối Nơi nhận đầy đủ + chữ ký TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Phạm Gia Túc + **Phụ lục 3 mẫu biểu** (Mẫu số 01 — Văn bản đề nghị thẩm định an ninh mạng; Mẫu số 02 — Văn bản đề nghị chứng nhận điều kiện an ninh mạng; Mẫu số 03 — Đơn đăng ký tham gia mạng lưới tập huấn kiến thức, kỹ năng chuyên sâu về an ninh mạng).
