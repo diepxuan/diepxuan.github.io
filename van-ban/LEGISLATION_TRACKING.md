@@ -4,6 +4,22 @@ Theo dõi văn bản pháp luật mới từ luatvietnam.vn.
 
 
 
+## Cap nhat 2026-08-24 12:03 ICT (Crawl v157 — De #3 Full Content Crawler)
+
+### Hoan thien van ban TT 65/2026/TT-BXD (Dinh muc KTKT khao sat do sau hang hai)
+
+**File**: `van-ban/hang-hai/65-2026-tt-bxd.md` (ban chinh thuc duy nhat sau hop nhat)
+
+**Thanh qua**:
+- Hop nhat 4 file trung lap → 1 ban chinh thuc: xoa `van-ban/65-2026-tt-bxd.md`, `van-ban/hang-hai/thong-tu-65-2026-tt-bxd-dinh-muc-kinh-te-ky-thuat-khao-sat-do-sau-hang-hai.md`, `van-ban/xay-dung/thong-tu-65-2026-tt-bxd-dinh-muc-ktkt-khao-sat-do-sau-hang-hai.md`.
+- Xac minh nguon: van ban that chi co **4 Dieu** (ky KT. Bo truong — Thu truong Nguyen Xuan Sang); toan bo noi dung nam trong Dinh muc kem theo (2 Phan / 7 Chuong / 31 ma KS / 3 Phu luc). Ban "18 Dieu" cu la summary bia cau truc voi placeholder — da loai bo.
+- Re-fetch full HTML luatvietnam docid 444187-d1 (1,62MB) → crawl du 4 Dieu + toan bo Dinh muc: 37 bang Markdown (~967 dong du lieu), Phu luc I day du ~150 luong + 41 vung don tra hoa tieu, Phu luc II Base–Rover, Phu luc III 4 muc do kho khan.
+- Chay OCR Quality Gate: **OCR issues = 0**, Dieu 4/4 Missing [] Duplicate [], suspicious headings none, 0 ghi chu crawler/debug trong file public.
+
+**Trang thai**: TT 65/2026/TT-BXD = **HOAN THIEN** (file duy nhat `van-ban/hang-hai/65-2026-tt-bxd.md`, ~158KB).
+
+---
+
 ## Cap nhat 2026-08-23 00:34 ICT (Review v124 — De #4)
 
 ### OCR Quality Gate — 5 VB chua gate (uu tien VB moi nhat)

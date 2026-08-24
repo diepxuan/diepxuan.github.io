@@ -1,3 +1,28 @@
+### Cập nhật 2026-08-24 v157 — Đệ #3 Full Content Crawler (dọn trùng lặp + hoàn thiện 65/2026/TT-BXD — 12:03 ICT)
+
+- **65/2026/TT-BXD** (Định mức kinh tế-kỹ thuật khảo sát đo sâu trong lĩnh vực hàng hải): hợp nhất **4 file trùng lặp → 1 bản chính thức duy nhất** `van-ban/hang-hai/65-2026-tt-bxd.md` và **nâng cấp toàn văn từ 4 Điều cụt → đủ 4 Điều + TOÀN BỘ Định mức kèm theo (2 Phần / 7 Chương / 31 mã định mức KS.01100→KS.07500 / 37 bảng / 3 Phụ lục đầy đủ)**.
+
+  Bảng so sánh 4 bản trước khi xóa (cùng số hiệu, cùng ngày ban hành 14/08/2026, cùng nguồn luatvietnam docid 444187-d1 — KHÔNG phải văn bản khác đặt tên trùng số hiệu):
+
+  | File | Size | modified | Điều | Đặc điểm |
+  |---|---|---|---|---|
+  | `van-ban/65-2026-tt-bxd.md` | 20.817 B | 21/8 | 4 (đúng cấu trúc) | trung thực nhất: 4 Điều + Phần I + đầu Chương II, cụt giữa Chương II; bảng định mức ghi "lược bỏ" |
+  | `van-ban/hang-hai/65-2026-tt-bxd.md` | 10.339 B | 20/8 | **18 (bịa)** | summary sai cấu trúc: biến các Chương định mức thành "Điều 5–18" với placeholder "(Chi tiết ...)" — vi phạm gate mục "Văn bản chỉ là summary nhưng lại ghi như toàn văn" |
+  | `van-ban/hang-hai/thong-tu-65-2026-tt-bxd-dinh-muc-...md` | 14.716 B | 20/8 | 4 (cụt) | không front matter Jekyll (heading `## Metadata`); tóm lược tự viết phần Chương I; truncate cuối Chương II |
+  | `van-ban/xay-dung/thong-tu-65-2026-tt-bxd-dinh-muc-ktkt-...md` | 17.900 B | 22/8 | 4 (cụt) | status "hoanthien" SAI — thực chất cụt tại Chương II mục 2.3 kèm marker "(Văn bản chưa hoàn thiện - STUB)" vi phạm gate |
+
+- **Xác minh nguồn chuẩn**: re-fetch full HTML luatvietnam docid [444187-d1](https://luatvietnam.vn/tai-chinh/thong-tu-65-2026-tt-bxd-dinh-muc-kinh-te-ky-thuat-khao-sat-do-sau-hang-hai-444187-d1.html) qua curl (1,62MB) → văn bản thật chỉ có **4 Điều** (Điều 1 ban hành định mức; Điều 2 áp dụng; Điều 3 hiệu lực/thay thế TT 18/2017/TT-BGTVT; Điều 4 chuyển tiếp), ký **KT. Bộ trưởng — Thứ trưởng Nguyễn Xuân Sang**, toàn bộ nội dung định mức nằm trong tập Định mức ban hành kèm theo: Phần I Quy định chung + Phần II gồm Chương I–VII (định vị điểm; đo sâu đơn tia DGPS/RTK; đa tia DGPS/RTK; hải đồ giấy; hải đồ điện tử) + 3 Phụ lục (cấp địa hình luồng/vùng đón trả hoa tiêu; quan hệ độ chính xác Base–Rover; phân cấp khó khăn thành lập hải đồ).
+- **Đã xóa 3 file**: `van-ban/65-2026-tt-bxd.md`, `van-ban/hang-hai/thong-tu-65-2026-tt-bxd-dinh-muc-kinh-te-ky-thuat-khao-sat-do-sau-hang-hai.md`, `van-ban/xay-dung/thong-tu-65-2026-tt-bxd-dinh-muc-ktkt-khao-sat-do-sau-hang-hai.md`. Kiểm tra mất mát: đối chiếu từng câu then chốt của 3 bản cũ (căn cứ pháp lý, Nơi nhận, chữ ký, nội dung Chương I–II đã crawl, quy trình lắp đặt trạm tĩnh/tàu) với bản mới → 100% phủ; bản mới bổ sung từ nguồn đầy đủ hơn cả tổng 4 bản cũ.
+- **File chính sau hợp nhất** (~158KB / 2.015 dòng): front matter chuẩn (group `hang-hai` đúng quy ước slug, docid, source luatvietnam+vanban.chinhphu.vn), THÔNG TIN VĂN BẢN, khối quốc hiệu + 4 Điều + Nơi nhận + chữ ký, toàn văn Định mức với **37 bảng Markdown** (đủ mã KS.01100–KS.07500, Phụ lục I đủ ~150 dòng luồng hàng hải + 41 vùng đón trả hoa tiêu, Phụ lục II Base–Rover, Phụ lục III 4 mức độ khó khăn).
+- **Quality gate**: OCR issues = 0; Điều 4/4 range 1–4 Missing [] Duplicate []; suspicious headings none; cấu trúc Phần/Chương/Phụ lục đúng thứ tự; 0 ghi chú crawler/debug trong file public (placeholder "(Chi tiết...)", "STUB", "lược bỏ" = 0); grep tham chiếu repo tới 3 path đã xóa: chỉ còn trong tracking/memory log lịch sử, không có link nội dung public nào cần sửa.
+- **Giải quyết khuyến nghị v154**: mục (c) "Đổi status `65-2026-tt-bxd` sang hoanthien" — hoàn thành bằng cách hợp nhất vào bản chính thức duy nhất (file cũ xay-dung có status hoanthien sai sự thật đã bị xóa).
+
+**Session**: agent:github-io:subagent:9c85233d (Đệ #3 Full Content Crawler v157)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 12:03 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v156 — Đệ #3 Full Content Crawler (dọn trùng lặp + hoàn thiện 64/2026/TT-BXD — 11:36 ICT)
 
 - **64/2026/TT-BXD**: hợp nhất **5 file trùng lặp → 1 bản chính thức duy nhất** `van-ban/thi-dua/64-2026-tt-bxd.md` và **nâng cấp toàn văn từ 12 Điều cụt → đủ 25 Điều / 6 Chương + Phụ lục**. Bảng so sánh 5 bản trước khi xóa (đều cùng nguồn luatvietnam preview, đều cụt tại giữa Điều 12 khoản 2 điểm d):
