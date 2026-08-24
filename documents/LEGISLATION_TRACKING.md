@@ -1,3 +1,36 @@
+### Cập nhật 2026-08-24 v151 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 08:05 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142). Parse đủ 50 hàng kết quả (docid 219100→219264, ngày BH 05/08→21/08/2026) gồm số hiệu + ngày ban hành + trích yếu + docid. So sánh kép theo cả **docid** lẫn **số hiệu** (bài học v142: nhiều VB đã track qua slug luatvietnam trước khi có docid chp) với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` (tên file lẫn nội dung).
+
+**Kết quả quét 50 VB**: 49/50 đã có file `van-ban/` hoặc đã được track chính thức. Chỉ **1 VB** chưa có entry tracking chính thức và chưa có file.
+
+**VB mới phát hiện (Chưa có — chờ crawl)**:
+
+| # | Số hiệu | Chủ đề | Docid | Ngày BH | PDF signed | Trạng thái |
+|---|---------|--------|-------|---------|------------|------------|
+| 1 | **333/2026/NĐ-CP** | An ninh mạng / Chi tiết và biện pháp thi hành Luật An ninh mạng (Chính phủ — Bộ Công an) | [219244](https://vanban.chinhphu.vn/?pageid=27160&docid=219244) | 19/08/2026 | [`cpp/files/vbpq/2026/8/333_2026_nd-cp_19082026-signed.signed.pdf`](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/8/333_2026_nd-cp_19082026-signed.signed.pdf) — HTTP 200, 16,5MB | **Chưa có (chờ crawl)** |
+
+**Trích yếu & xác minh**:
+1. **333/2026/NĐ-CP** — Quy định chi tiết một số điều và biện pháp thi hành Luật An ninh mạng. Ban hành 19-08-2026, hiệu lực ngay 19-08-2026; cơ quan ban hành Chính phủ; người ký Phạm Gia Túc (metadata trang chi tiết docid 219244, HTML tĩnh). PDF signed trên datafiles xác minh HTTP 200, content-length 17.360.818 bytes (~16,5MB). Lịch sử: v124 phát hiện (slug luatvietnam 445089-d1) nhưng vượt giới hạn 5; v135 ghi "còn phát hiện thêm"; đến poll này mới xuất hiện trên top-50 của vanban.chinhphu.vn → chính thức vào bảng. Crawl xong sẽ khép cụm 7 NĐ An ninh mạng (327/328/329/331/332 đã có file; 330 vẫn chưa có file — xem ưu tiên).
+
+**Xác minh trạng thái các VB biên trong top 50 (không đổi trạng thái)**:
+- 64/65/66/2026/TT-BGDĐT (219176/219177/219179): tracking ghi dạng "BGDDT" không dấu nên match chuỗi trượt; thực tế đã track + file đầy đủ 12–25KB (`van-ban/giao-duc/64-2026-tt-bgddt.md`, `van-ban/thong-tu-65-2026-tt-bgddt.md`, `van-ban/thong-tu-66-2026-tt-bgddt.md`) — Hoàn thiện (v111), khớp ghi chú v142.
+- 117/2026/TT-BTC (219230): đã có file `van-ban/117-2026-tt-btc.md` (~15KB, nguồn luatvietnam). ⚠️ Phát hiện lỗi nhỏ front matter: `date: 202026-08-14` (thừa ký tự) — đề nghị Bột sửa khi rà soát (ngoài phạm vi task discovery lần này).
+- 43/2026/TT-BCT (219245): dòng bảng tóm tắt v142 ghi "Chưa có (chờ crawl)" chỉ là log lịch sử — entry v144 là trạng thái đúng (**Hoàn thiện**, file `van-ban/cong-thuong/43-2026-tt-bct.md`).
+- 59/2026/QĐ-UBND (219141): VB địa phương tỉnh Điện Biên — ngoài trọng tâm tracking (NĐ-CP/TT/TTr/QĐ-TTg), giữ nguyên ghi nhận cũ.
+- Các cụm còn lại (309–335/NĐ-CP, 116–120/TT-BTC, 34/TT-BNNMT, 39–40/TT-NHNN, 10/TT-BTP, 18–19/TT-BNV, 23/TT-BVHTTDL, 51/TT-BKHCN, 64–65/TT-BXD, 37–42/NQ-CP·QĐ-TTg): đều đã có file hoặc đã track với trạng thái rõ (khớp v142–v150).
+
+**Đề xuất thứ tự ưu tiên crawl cho Bột**:
+1. **333/2026/NĐ-CP** (docid 219244, PDF signed ~16,5MB sẵn sàng, OCR cần thiết nếu scan ảnh) — khép cụm 7 NĐ Luật An ninh mạng, ưu tiên cao nhất.
+2. **330/2026/NĐ-CP** (Xử phạt VPHC trong ANM & bảo vệ dữ liệu, slug luatvietnam 445214-d1) — vẫn chưa có file và chưa có entry chính thức; lần này KHÔNG nằm trong top-50 chp (chưa có docid/PDF chp để xác minh) — đề nghị track bằng nguồn luatvietnam theo cách v149 đã làm với 19/TT-BNV & 51/TT-BKHCN.
+3. Sửa lỗi front matter `date: 202026-08-14` của `van-ban/117-2026-tt-btc.md` (việc nhỏ, kèm batch sau).
+
+**Session**: agent:github-io:subagent:2a0ad3fa (Đệ #1 Discovery v151)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 08:05 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v150 — Đệ #3 Full Content Crawler (crawl 19/2026/TT-BNV — 07:33 ICT)
 
 - **19/2026/TT-BNV**: tạo mới `van-ban/noi-vu/19-2026-tt-bnv.md`, chuyển trạng thái **"Chưa có" → "Hoàn thiện"** (đã track từ v124, docid luatvietnam 444898-d1). File ~31KB / 377 dòng: front matter đầy đủ (layout vanban, title, so_hieu 19/2026/TT-BNV, ngay_ban_hanh 20/08/2026, nguoi_ky Trương Hải Long — KT. Bộ trưởng, Thứ trưởng Bộ Nội vụ, ngay_hieu_luc 16/10/2026, co_quan_ban_hanh Bộ Nội vụ, loai_van_ban Thông tư, linh_vuc Dữ liệu và cơ sở dữ liệu / Chuyển đổi số / Tổ chức bộ máy / Hành chính, group noi-vu, docid "444898", thay_the = bãi bỏ TT 14/2024/TT-BNV ngày 31/12/2024), toàn văn Thông tư **18 Điều / 4 Chương** (range Điều 1–18, Missing [], Duplicate []; Chương I QUY ĐỊNH CHUNG → II QUẢN LÝ, CẬP NHẬT CƠ SỞ DỮ LIỆU → III KẾT NỐI, CHIA SẺ, GIÁM SÁT, XỬ LÝ SỰ CỐ, KHAI THÁC VÀ SỬ DỤNG DỮ LIỆU → IV TỔ CHỨC THỰC HIỆN) + khối căn cứ pháp luật 7 văn bản + chữ ký KT. BỘ TRƯỞNG / THỨ TRƯỞNG / Trương Hải Long + khối Nơi nhận đầy đủ.
