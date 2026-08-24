@@ -1,3 +1,20 @@
+### Cập nhật 2026-08-24 v161 — Đệ #3 Full Content Crawler (toàn văn 336/2026/NĐ-CP — 14:20 ICT)
+
+- **Phạm vi**: crawl toàn văn **Nghị định 336/2026/NĐ-CP** (docid chp [219265](https://vanban.chinhphu.vn/?pageid=27160&docid=219265)) — VB mới duy nhất phát hiện ở v160, chuyển trạng thái "Chưa có (chờ crawl)" → "**Hoàn thiện (v161)**".
+- **File**: `van-ban/tai-chinh/336-2026-nd-cp.md` (~97KB, 607 dòng) — group `tai-chinh` theo quy ước cụm hải quan/VNSW hiện có.
+- **Nguồn**: trang chi tiết docid 219265 đã fetch xác minh metadata (số hiệu 336/2026/NĐ-CP; ban hành 22-08-2026; hiệu lực 15-10-2026; trích yếu khớp). Toàn văn dựng từ nguồn text số hóa luatvietnam.vn (445305-d1), cross-check từng câu then chốt với OCR toàn bộ **54 trang PDF chữ ký số chính thức** datafiles.chinhphu.vn (`336_2026_nd-cp_22082026-signed.signed.pdf`, 22MB). OCR thô chỉ ở /tmp, không commit.
+- **Cấu trúc**: 50 Điều (range 1–50, Missing [] Duplicate []), 6 Chương (I–VI đúng thứ tự), 5 Mục (Chương IV), khối căn cứ đầy đủ + Nơi nhận + khối chữ ký + mục lục 4 Phụ lục (chỉ tiêu đăng ký/bản khai/kết quả xử lý trên Cổng thông tin một cửa quốc gia).
+- **Xác minh chức danh người ký**: metadata nguồn chp chỉ ghi tên "Nguyễn Văn Thắng". Cross-check khối chữ ký nguyên văn ở cả nguồn text lẫn OCR PDF: **TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Nguyễn Văn Thắng** → ghi `nguoi_ky: Nguyễn Văn Thắng`, `chuc_vu_nguoi_ky: Phó Thủ tướng (ký thay Thủ tướng)`.
+- **Nội dung chính**: thay thế NĐ 85/2019/NĐ-CP, bãi bỏ NĐ 27/2011/NĐ-CP; quản lý tài khoản người dùng Cổng một cửa quốc gia (đăng ký qua VNeID, đối chiếu trong 01 ngày làm việc), quy trình khóa/kích hoạt/thu hồi tài khoản, chữ ký số, thủ tục TTHC cho hàng hóa và phương tiện vận tải (tàu bay, tàu thuyền, đường bộ, tàu hỏa, đường thủy nội địa), điều ước quốc tế và cơ chế một cửa ASEAN.
+- **OCR Quality Gate**: `scripts/ocr_quality_gate_scan.py` — Điều 50/50 range 1–50 Missing [] Duplicate []; Chương I–VI đúng thứ tự không trùng; 0 ký tự rác (ø©§†®µ¬¶...), 0 cyrillic, 0 suspicious heading Điều, 0 ghi chú crawler/debug; `git diff --check` pass. 5 flag chuỗi con `"ngày l"` đều là false positive do cụm từ hợp lệ "ngày làm việc"/"kể từ ngày các bộ" (đã đối chiếu OCR gốc — pattern gate này cũng flag tương tự trên file chuẩn đã merge như NĐ 273; quy ước repo chấp nhận khi có căn cứ nguồn).
+- **Loss-check**: 40 dòng nội dung sample ngẫu nhiên từ nguồn + 50/50 heading Điều khớp 100% giữa bản dựng và nguồn text; các câu then chốt (Điều 48 hiệu lực 15/10/2026, thay thế 85/2019, bãi bỏ 27/2011) khớp cả OCR PDF.
+
+**Session**: agent:github-io:subagent:82d1028b (Đệ #3 Full Content Crawler v161)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 14:20 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v160 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 13:35 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153). Parse đủ 50 hàng (docid 219100→**219265**, ngày BH 05/08→**22/08**/2026 — range mở rộng +1 VB so với v151/v153 do NĐ 336 mới công bố). So sánh kép theo cả **docid** lẫn **số hiệu** với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`. Ghi chú kỹ thuật: nguồn chp đôi khi trả ký tự Cyrillic lẫn vào số hiệu (VD `NĐ-CР` của 320/2026) — phải normalize khi so khớp, nếu không sẽ báo nhầm VB mới (bài học vòng này).
@@ -6,7 +23,7 @@
 
 | # | Số hiệu | Chủ đề | Docid | Ngày BH | Hiệu lực | Người ký | PDF chp signed | Trạng thái |
 |---|---------|--------|-------|---------|----------|----------|----------------|------------|
-| 1 | **336/2026/NĐ-CP** | Hải quan / Thương mại điện tử quốc gia — thủ tục HQ XNK theo VNSW/ASEAN Single Window | [219265](https://vanban.chinhphu.vn/?pageid=27160&docid=219265) | 22/08/2026 | 15/10/2026 | Nguyễn Văn Thắng | `cpp/files/vbpq/2026/8/336_2026_nd-cp_22082026-signed.signed.pdf` | **Chưa có (chờ crawl)** |
+| 1 | **336/2026/NĐ-CP** | Hải quan / Thương mại điện tử quốc gia — thủ tục HQ XNK theo VNSW/ASEAN Single Window | [219265](https://vanban.chinhphu.vn/?pageid=27160&docid=219265) | 22/08/2026 | 15/10/2026 | Nguyễn Văn Thắng | `cpp/files/vbpq/2026/8/336_2026_nd-cp_22082026-signed.signed.pdf` | **Hoàn thiện (v161)** — `van-ban/tai-chinh/336-2026-nd-cp.md` |
 
 **Trích yếu 336/2026/NĐ-CP** (đã fetch trang chi tiết docid 219265 xác minh metadata): "Quy định thực hiện thủ tục hành chính đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh; phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh theo cơ chế một cửa quốc gia, cơ chế một cửa ASEAN". Loại văn bản: Nghị định; Cơ quan ban hành: Chính phủ; ban hành 22-08-2026; hiệu lực 15-10-2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219265`. Đây là VB mới nhất toàn hệ thống tại thời điểm quét (trước đó 335/2026/NĐ-CP ngày 21/08 đã có file từ v137).
 
