@@ -1,3 +1,43 @@
+### Cập nhật 2026-08-24 v159 — Đệ #3 Full Content Crawler (hợp nhất 2 cụm trùng lặp cuối: 35 + 41/2026/TT-BCT — 13:30 ICT)
+
+- **Phạm vi**: hợp nhất 5 file trùng lặp của 2 Thông tư Bộ Công Thương (35 docid chp **218712**; 41 luatvietnam **441401**) thành 1 bản chuẩn duy nhất mỗi VB. Đây là 2 cụm cuối trong hàng đợi cleanup — sau v159 hàng đợi trống.
+
+**1) 35/2026/TT-BCT** (Đặc điểm kinh tế - kỹ thuật hàng hóa bình ổn giá, kê khai giá — hiệu lực 17/08/2026, ký Nguyễn Sinh Nhật Tân):
+
+| File | Size | Nội dung | Quyết định |
+|---|---|---|---|
+| `van-ban/cong-thuong/35-2026-tt-bct.md` (**GIỮ**) | 12,8KB → ~13,8KB | 3 Điều (1–3) đủ + Nơi nhận + khối chữ ký + Phụ lục bảng | Bản chuẩn |
+| `van-ban/35-2026-tt-bct.md` (**XÓA**) | 13,1KB | 3 Điều + Phụ lục dạng bảng dọc (Mục/STT), CÓ khối căn cứ nguyên văn nhưng group sai `tai-chinh-nha-nuoc`, KHÔNG có Nơi nhận | Xóa sau khi bơm giá trị unique |
+| `van-ban/cong-thuong/thong-tu-35-2026-tt-bct.md` (**XÓA**) | 13,3KB | Trùng ~99% bản giữ; duy nhất có dòng "Căn cứ pháp luật" tóm tắt trong THÔNG TIN | Xóa |
+
+- **Diff từng cặp trước khi quyết định**: bản root khác 2 bản cong-thuong ở (a) thiếu Nơi nhận + chữ ký, (b) CÓ 3 dòng căn cứ nguyên văn, (c) phụ lục format bảng dọc. Hai bản cong-thuong chỉ lệch nhau ở header cột phụ lục ("Đặc điểm cơ bản của hàng hóa" vs "Đặc điểm cơ bản/Thông số kỹ thuật") và chi tiết dòng Jet A-1/xăng/điêzen.
+- **Hợp nhất vào bản giữ**: thêm khối **Căn cứ nguyên văn** từ bản root (đã xác minh độc lập qua thuvienphapluat: Luật Giá 16/2023/QH15 sửa đổi bởi Luật 140/2025/QH15; NĐ 40/2025 sửa bởi NĐ 109+193/2025; NĐ 85/2024 sửa bởi **NĐ 128/2026/NĐ-CP** — tất cả đều là văn bản thật); nâng cấp header cột phụ lục + các dòng xăng E5/E10/điêzen/Jet A-1 theo bản trung thực nguồn hơn (chi tiết Đánh giá ống VTR/ITR/ETR/MWETR và MSEP SDA).
+- **Metadata**: docid chuẩn hóa **218712** (vanban.chinhphu.vn đã fetch xác minh đúng title + ngày ban hành 30-06-2026 + hiệu lực 17-08-2026), group `cong-thuong` (bỏ group sai `tai-chinh-nha-nuoc` của bản root), modified 24/08.
+
+**2) 41/2026/TT-BCT** (Danh mục phế liệu + hàng hóa đã qua sử dụng tạm ngừng kinh doanh XNK — hiệu lực 05/09/2026 đến 31/12/2029):
+
+| File | Size | Nội dung | Quyết định |
+|---|---|---|---|
+| `van-ban/cong-thuong/thong-tu-41-2026-tt-bct.md` (**GIỮ**) | 26,4KB → ~35,7KB | 6 Điều (1–6) + Nơi nhận + chữ ký + Phụ lục I/II bảng Markdown | Bản chuẩn |
+| `van-ban/thuong-mai-cong-thuong/thong-tu-41-2026-tt-bct-danh-muc-phe-lieu-va-hang-hoa-tam-ngung-kinh-doanh.md` (**XÓA**) | 36,8KB | 6 Điều tương đương + Phụ lục I/II flat-text (không bảng), front matter legacy nhiều trường không chuẩn layout vanban | Xóa sau khi đối chiếu 209/209 mã |
+
+- **Giải thích sai lệch size (bắt buộc theo task)**: bản 36,8KB lớn hơn KHÔNG phải do nhiễu hay trùng phụ lục — đó là nội dung THẬT đầy đủ hơn. Bản 26,4KB bị **cắt cụt Phụ lục II tại mã HS 8421.21.11** (chỉ có 121/209 mã HS, mất 88 mã cuối từ 8421.99.94 đến 9617.00.10). Fetch trực tiếp luatvietnam [441401-d1](https://luatvietnam.vn/xuat-nhap-khau/thong-tu-41-2026-tt-bct-danh-muc-phe-lieu-va-hang-hoa-tam-ngung-kinh-doanh-441401-d1.html): 209 mã khớp 100% với bản 36,8KB, đúng thứ tự. Ngoài ra bản 26,4KB sai 2 chỗ ở Điều khoản thi hành so với nguồn: điểm b) thiếu chữ "**Điều 4**" (chỉ Điều 4 TT 12/2018 bị bãi bỏ, không phải toàn văn); điểm c) garble "c) và ban hành kèm theo..." thay vì "**Khoản 2 Điều 1 và Phụ lục II** ban hành kèm theo...". → Hướng hợp nhất NGƯỢC với trực giác size: giữ khung front matter/body/Nơi nhận của bản 26,4KB, dựng lại bảng Markdown Phụ lục I (27 mã) + II (182 mã) từ nguồn chính thức và ghép vào; sửa 2 lỗi điểm b/c.
+- **Metadata**: docid chuẩn hóa **441401**, source vanban.chinhphu.vn; datafiles.chinhphu.vn + luatvietnam (441401-d1), tags chuẩn dấu, bỏ nhóm field legacy (so-hieu/co-quan-ban-hanh/ngay-hieu-luc/trang-thai/ghi-chu crawler "Refactor từ STUB" — vi phạm gate mục 2 nếu giữ), modified 24/08.
+
+**Kết quả chung**:
+- 2 file chính thức duy nhất: `van-ban/cong-thuong/{35-2026-tt-bct, thong-tu-41-2026-tt-bct}.md`; xóa 3 bản thừa (`van-ban/35-2026-tt-bct.md`, `van-ban/cong-thuong/thong-tu-35-2026-tt-bct.md`, `van-ban/thuong-mai-cong-thuong/thong-tu-41-2026-tt-bct-danh-muc-phe-lieu-va-hang-hoa-tam-ngung-kinh-doanh.md`). Grep toàn repo: path xóa chỉ còn trong tracking/review log lịch sử (REVIEW_REPORT_20260819.md — bất biến theo quy tắc daily log), không có link site cần sửa.
+- **OCR Quality Gate: PASS cả 2** — OCR issues 0 (đã xử lý flag `µ` ở hàng CNG bằng cách dùng chính tả nguồn luatvietnam "micrômét"); Điều 3/3 (range 1–3) và 6/6 (range 1–6), Missing [] Duplicate []; 0 suspicious headings; 0 ghi chú crawler/debug còn lại trong file public; loss-check 209/209 cặp mã+mô tả giữa bản xóa 41 và bản giữ = 0 mất mát; `git diff --check` pass.
+- Metadata khớp nguồn: 35 = docid 218712, ban hành 30/06/2026, hiệu lực 17/08/2026; 41 = luatvietnam 441401, ban hành 22/07/2026, hiệu lực 05/09/2026 – 31/12/2029, bãi bỏ TT 18/2024 (toàn bộ) + Điều 4 TT 12/2018 + Khoản 2 Điều 1 và Phụ lục II TT 08/2023; cả hai ký Nguyễn Sinh Nhật Tân (Thứ trưởng).
+- Không có phần treo cho cụm này. Lưu ý nhỏ cho review: heading "## PHỤ LỤC" của 41 không đánh số I/II ở heading cấp `##` (Phụ lục I/II là `###`) — đúng cấu trúc gốc của văn bản (không có chương).
+
+**Commits**: 38268910 (cleanup 35) → 7d3d336b (cleanup 41) → v159 (tracking này).
+
+**Session**: agent:github-io:subagent:655fa82b (Đệ #3 Full Content Crawler v159)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 13:30 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v158 — Đệ #3 Full Content Crawler (hợp nhất cụm 3 TT 64/65/66/2026/TT-BGDĐT — 12:35 ICT)
 
 - **Phạm vi**: hợp nhất các bản trùng lặp của cụm 3 Thông tư Bộ GDĐT (docid chp 219176/219177/219179) thành 1 bản chuẩn duy nhất mỗi VB, giữ ở folder chủ đề giáo dục nghề nghiệp.
