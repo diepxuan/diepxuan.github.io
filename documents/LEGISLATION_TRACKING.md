@@ -30,6 +30,22 @@
 
 ---
 
+### Cập nhật 2026-08-24 v168 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 19:06 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165). Parse đủ 50 hàng (docid **219130→219269**, ngày BH 05/08→**22/08**/2026 — cửa sổ không đổi so với v165). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420 + NFD + `đ→d`) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
+
+**Kết quả quét 50 VB**: **50/50 đã có file `van-ban/` hoặc đã track chính thức → 0 VB mới.** Docid mới nhất toàn nguồn vẫn là **219269 (121/2026/TT-BTC)** và **219268 (118/2026/TT-BQP)** — đã track v165 và crawl hoàn thiện ở v166/v167; docid 219265 (336/2026/NĐ-CP) đã hoàn thiện v161. Không phát hiện VB công bố sau vòng v165.
+
+**Normalize Cyrillic/NFD**: nguồn lại trả `320/2026/NĐ-CР` (Р = U+0420) tại docid 219189 như v160/v164/v165 — đã normalize khớp đúng kho, không báo nhầm; matching dùng boundary-aware (số hiệu không khớp nhầm vào số dài hơn, VD 65/2026 ≠ 165/2026).
+
+**Các cụm còn lại trong top-50 khớp trạng thái v142–v167** (không đổi): cụm 7 NĐ An ninh mạng 327–333; 334/335 đã có file, 336 hoàn thiện v161; 116–120/TT-BTC đã có (117 hợp nhất v162, 121 hoàn thiện v166); 118/TT-BQP hoàn thiện v167; 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN + 19/TT-BNV giữ "Chưa có" từ v124; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi (track v142).
+
+**Session**: agent:github-io:subagent:172d656a-fc4f-407a-9f4e-ff435f0d6588 (Đệ #1 Discovery v168)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 19:06 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v165 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 17:07 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164). Parse đủ 50 hàng (docid **219130→219269**, ngày BH 05/08→**21–22/08**/2026 — range mở rộng +2 VB so với v164 do 2 TT mới ban hành 21/08: docid **219268, 219269**). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic + NFD + đ→d) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
