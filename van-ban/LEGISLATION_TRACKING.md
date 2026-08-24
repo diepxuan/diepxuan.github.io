@@ -1,3 +1,23 @@
+### Cập nhật 2026-08-24 v160 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 13:35 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (method v142, tái dùng ở v151/v153). Parse đủ 50 hàng (docid 219100→**219265**, ngày BH 05/08→**22/08**/2026). So sánh kép docid + số hiệu với tracking + `van-ban/**` (normalize ký tự Cyrillic lẫn trong số hiệu từ nguồn chp).
+
+**Kết quả**: **49/50 đã track → 1 VB mới**:
+
+| # | Số hiệu | Chủ đề | Docid | Ngày BH | Hiệu lực | PDF signed | Trạng thái |
+|---|---------|--------|-------|---------|----------|------------|------------|
+| 1 | **336/2026/NĐ-CP** | Hải quan / VNSW-ASW: thủ tục HQ hàng hóa XNK, quá cảnh + phương tiện vận tải | [219265](https://vanban.chinhphu.vn/?pageid=27160&docid=219265) | 22/08/2026 | 15/10/2026 | `cpp/files/vbpq/2026/8/336_2026_nd-cp_22082026-signed.signed.pdf` | **Chưa có (chờ crawl)** |
+
+**Trích yếu**: "Quy định thực hiện thủ tục hành chính đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh; phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh theo cơ chế một cửa quốc gia, cơ chế một cửa ASEAN". Nghị định Chính phủ; ký Nguyễn Văn Thắng. VB mới nhất toàn hệ thống tại thời điểm quét.
+
+**File `van-ban/` chưa hoàn thiện được đánh dấu thêm**: `van-ban/117-2026-TT-BTC.md` (root stub tóm tắt 1,9KB không front matter — trùng số hiệu với 2 bản chuẩn đã có `van-ban/117-2026-tt-btc.md` 15,1KB và `van-ban/tai-chinh/117-2026-tt-btc.md` 14,9KB → ứng viên hợp nhất cụm 3 bản); 2 STUB cũ vẫn treo (`thong-tu-26-2026-tt-btc-nguon-ngan-sach.md`, `quyet-dinh-22-2026-qd-ttg-...giam-dinh-tu-phap.md`).
+
+**Session**: agent:github-io:subagent:bd451604 (Đệ #1 Discovery v160)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 13:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v159 — Đệ #3 Full Content Crawler (hợp nhất 2 cụm trùng lặp cuối: 35 + 41/2026/TT-BCT — 13:30 ICT)
 
 - **Phạm vi**: hợp nhất 5 file trùng lặp của 2 Thông tư Bộ Công Thương (35 docid chp **218712**; 41 luatvietnam **441401**) thành 1 bản chuẩn duy nhất mỗi VB. Đây là 2 cụm cuối trong hàng đợi cleanup — sau v159 hàng đợi trống.

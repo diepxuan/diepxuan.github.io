@@ -1,3 +1,28 @@
+### Cập nhật 2026-08-24 v160 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 13:35 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153). Parse đủ 50 hàng (docid 219100→**219265**, ngày BH 05/08→**22/08**/2026 — range mở rộng +1 VB so với v151/v153 do NĐ 336 mới công bố). So sánh kép theo cả **docid** lẫn **số hiệu** với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`. Ghi chú kỹ thuật: nguồn chp đôi khi trả ký tự Cyrillic lẫn vào số hiệu (VD `NĐ-CР` của 320/2026) — phải normalize khi so khớp, nếu không sẽ báo nhầm VB mới (bài học vòng này).
+
+**Kết quả quét 50 VB**: **49/50 đã có file `van-ban/` hoặc đã track chính thức → 1 VB mới** cần thêm vào "Chưa có (chờ crawl)":
+
+| # | Số hiệu | Chủ đề | Docid | Ngày BH | Hiệu lực | Người ký | PDF chp signed | Trạng thái |
+|---|---------|--------|-------|---------|----------|----------|----------------|------------|
+| 1 | **336/2026/NĐ-CP** | Hải quan / Thương mại điện tử quốc gia — thủ tục HQ XNK theo VNSW/ASEAN Single Window | [219265](https://vanban.chinhphu.vn/?pageid=27160&docid=219265) | 22/08/2026 | 15/10/2026 | Nguyễn Văn Thắng | `cpp/files/vbpq/2026/8/336_2026_nd-cp_22082026-signed.signed.pdf` | **Chưa có (chờ crawl)** |
+
+**Trích yếu 336/2026/NĐ-CP** (đã fetch trang chi tiết docid 219265 xác minh metadata): "Quy định thực hiện thủ tục hành chính đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh; phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh theo cơ chế một cửa quốc gia, cơ chế một cửa ASEAN". Loại văn bản: Nghị định; Cơ quan ban hành: Chính phủ; ban hành 22-08-2026; hiệu lực 15-10-2026. URL: `https://vanban.chinhphu.vn/?pageid=27160&docid=219265`. Đây là VB mới nhất toàn hệ thống tại thời điểm quét (trước đó 335/2026/NĐ-CP ngày 21/08 đã có file từ v137).
+
+**File `van-ban/` chưa hoàn thiện được đánh dấu thêm trong vòng này** (chỉ flag — KHÔNG sửa file văn bản theo giới hạn quyền discovery):
+1. `van-ban/117-2026-TT-BTC.md` (root, 1.866 B): stub tóm tắt tự viết, KHÔNG có front matter YAML, vi phạm gate mục 2 (nội dung tóm lược kèm "theo thông tin báo chí") — **trùng số hiệu với 2 bản chuẩn đã có**: `van-ban/117-2026-tt-btc.md` (15,1KB, luatvietnam, modified 20/08 — lỗi front matter `date: 202026-08-14` v142 ghi nhận đã được sửa xong) và `van-ban/tai-chinh/117-2026-tt-btc.md` (14,9KB). → Ứng viên hợp nhất cụm 3 bản thành 1 (batch cleanup sau, tương tự pattern v157–v159), xóa bản stub root.
+2. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (2,6KB STUB, tuổi >165d): đã ghi nhận từ các vòng review trước, đến nay vẫn chưa xử lý — giữ trạng thái cần hoàn thiện/xác minh.
+3. `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` (2,4KB STUB, layout=`page` thay vì `vanban`, tuổi >79d): đã ghi nhận từ trước, vẫn chưa xử lý.
+
+**Các cụm còn lại trong top-50 khớp trạng thái v142–v159** (không đổi): cụm 7 NĐ An ninh mạng 327–333 (333 đã crawl v152); 334/335/NĐ-CP đã có file; 116–120/TT-BTC đã có; 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất xong (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN + 19/TT-BNV giữ "Chưa có" từ v124; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi.
+
+**Session**: agent:github-io:subagent:bd451604 (Đệ #1 Discovery v160)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 13:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v159 — Đệ #3 Full Content Crawler (hợp nhất 2 cụm trùng lặp cuối: 35 + 41/2026/TT-BCT — 13:30 ICT)
 
 - **Phạm vi**: hợp nhất 5 file trùng lặp của 2 Thông tư Bộ Công Thương (35 docid chp **218712**; 41 luatvietnam **441401**) thành 1 bản chuẩn duy nhất mỗi VB. Đây là 2 cụm cuối trong hàng đợi cleanup — sau v159 hàng đợi trống.
