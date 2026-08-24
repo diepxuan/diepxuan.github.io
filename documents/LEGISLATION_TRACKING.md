@@ -1,3 +1,16 @@
+### Cập nhật 2026-08-24 v154 — Đệ #3 Full Content Crawler (crawl 330/2026/NĐ-CP — 10:35 ICT)
+
+- **330/2026/NĐ-CP**: tạo mới `van-ban/an-ninh-quoc-gia/330-2026-nd-cp.md`, chuyển trạng thái **"Chưa có (chờ crawl)" → "Hoàn thiện"** (đã track từ v153, docid luatvietnam 445214-d1). File ~203KB / 2.821 dòng: front matter đầy đủ (layout vanban, title, so_hieu 330/2026/NĐ-CP, ngay_ban_hanh 19/08/2026, ngay_hieu_luc 19/08/2026, nguoi_ky Phạm Gia Túc — Phó Thủ tướng ký thay Thủ tướng, co_quan_ban_hanh Chính phủ, loai_van_ban Nghị định, linh_vuc An ninh mạng / Bảo vệ dữ liệu cá nhân, group an-ninh-quoc-gia, docid "445214-d1"), toàn văn Nghị định **82 Điều / 4 Chương / Mục 1–6 trong Chương II** (range Điều 1–82, Missing [], Duplicate []; Chương I QUY ĐỊNH CHUNG → Chương II HÀNH VI VI PHẠM HÀNH CHÍNH... với 6 Mục: bảo vệ ANQG-TTATXH trên không gian mạng / phòng chống tấn công mạng / triển khai hoạt động BVANM / quản lý sản phẩm dịch vụ ANM / chống tin nhắn rác-thư điện tử rác-cuộc gọi rác / bảo vệ dữ liệu cá nhân → Chương III THẨM QUYỀN LẬP BIÊN BẢN VPHC VÀ XỬ PHẠT VPHC → Chương IV ĐIỀU KHOẢN THI HÀNH), khối căn cứ pháp luật 10 Luật + khối Nơi nhận + chữ ký **TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Phạm Gia Túc**; không có Phụ lục.
+- **Nguồn**: trang [luatvietnam docid 445214-d1](https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-330-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-an-ninh-mang-va-bao-ve-du-lieu-445214-d1.html) — tab nội dung chứa toàn văn HTML có cấu trúc (div demuc, HTTP 200, ~2MB). vanban.chinhphu.vn **vẫn chưa có docid riêng** cho văn bản này; tuy nhiên đã tìm được **PDF xem trước bản gốc có dấu chữ ký số 104 trang (~17.6MB)** qua endpoint preview của luatvietnam (`data-pdf-url` trên tab VB gốc) → tải về, OCR toàn bộ bằng tesseract vie @150dpi (output chỉ ở /tmp) và **cross-check toàn văn**: 22/22 mức tiền phạt khớp histogram; 14 câu random sample từ file cuối khớp OCR (duy nhất 1 lệch do OCR nhận sai "nền→nên", file đúng); heading Điều 7/77/78/79 khớp (OCR lỗi "thẩm quyền"→"thâm quyền" như bảng lỗi quen thuộc); điểm c khoản 3 Điều 6 "là 03 tỷ đồng" khớp giữa cả 2 nguồn.
+- **Quality gate**: scan OCR issues = 0 (pattern list đầy đủ theo OCR_QUALITY_GATE.md §8); Điều 82/82, Missing [], Duplicate [], suspicious headings none; Chương I–IV đúng thứ tự không trùng; Mục 1–6 chuẩn `## Mục n`; không có ký tự rác/bảng thô/ghi chú crawler trong file public; `git diff --check` pass.
+- Sau crawl này **khép đủ cụm 7 Nghị định xử phạt/thi hành Luật An ninh mạng** (327/328/329/330/331/332/333 đều đã có file).
+
+**Session**: agent:github-io:subagent:ac0a06b8 (Đệ #3 Full Content Crawler v154)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-24 10:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-24 v153 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 + track chính thức 330/2026/NĐ-CP — 09:35 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142). Parse đủ 50 hàng (docid 219100→219264, ngày BH 05/08→21/08/2026 — range KHÔNG đổi so với v151). So sánh kép theo cả **docid** lẫn **số hiệu** (bài học v142) với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` (tên file lẫn nội dung, xác minh nghiêm theo docid chính xác + số hiệu front matter để tránh match chuỗi trượt).
@@ -8,7 +21,7 @@
 
 | # | Số hiệu | Chủ đề | Docid nguồn | Ngày BH | Hiệu lực | PDF chp | Trạng thái |
 |---|---------|--------|-------------|---------|----------|---------|------------|
-| 1 | **330/2026/NĐ-CP** | Xử phạt VPHC trong an ninh mạng và bảo vệ dữ liệu cá nhân (Chính phủ — Bộ Công an chủ trì) | [luatvietnam 445214-d1](https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-330-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-an-ninh-mang-va-bao-ve-du-lieu-445214-d1.html) | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | chưa có (mẫu tên file chuẩn trả 404 HEAD) | **Chưa có (chờ crawl)** |
+| 1 | **330/2026/NĐ-CP** | Xử phạt VPHC trong an ninh mạng và bảo vệ dữ liệu cá nhân (Chính phủ — Bộ Công an chủ trì) | [luatvietnam 445214-d1](https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-330-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-an-ninh-mang-va-bao-ve-du-lieu-445214-d1.html) | 19/08/2026 | 19/08/2026 (hiệu lực ngay) | PDF bản gốc có dấu tìm được qua endpoint preview luatvietnam (104 trang, đã OCR cross-check ở v154); chp vẫn chưa có docid riêng | **Hoàn thiện** (v154) |
 
 **Xác minh nguồn 330/2026/NĐ-CP** (curl trang chi tiết luatvietnam HTTP 200, timeout 30s):
 - Metadata khớp chéo title / H1 / bảng thuộc tính: Số hiệu **330/2026/NĐ-CP**; Loại văn bản **Nghị định**; Cơ quan ban hành **Chính phủ** (Bộ Công an chủ trì); Người ký **Phạm Gia Túc**; Trích yếu **"Quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân"**; Ngày ban hành **19/08/2026**; hiệu lực từ **19/08/2026** (meta description luatvietnam: "có hiệu lực từ 19/08/2026"); Ngày hết hiệu lực / ngày đăng công báo: Đang cập nhật; trang cập nhật 22/08/2026 19:04.
