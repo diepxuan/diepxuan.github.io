@@ -1,3 +1,18 @@
+### Cập nhật 2026-08-25 v182 — Đệ #3 Full Content Crawler (toàn văn 03/2026/TT-TTCP — 22:30 ICT)
+
+- **Phạm vi**: crawl toàn văn **Thông tư 03/2026/TT-TTCP** bãi bỏ một số thông tư của Tổng Thanh tra Chính phủ (docid chp [219272](https://vanban.chinhphu.vn/?pageid=27160&docid=219272), BH 15/08/2026, hiệu lực 01/10/2026, ký KT. Tổng Thanh tra Lê Tiến Đạt), chuyển trạng thái "Chưa có" → "**Hoàn thiện**".
+- **File**: `van-ban/thanh-tra/03-2026-tt-ttcp.md` (mới, ~6.9KB / 158 dòng; thư mục `van-ban/thanh-tra/` mới).
+- **Nguồn**: PDF chữ ký số chính thức datafiles.chinhphu.vn ([03-ttcp.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/8/03-ttcp.signed.pdf), 939KB / 3 trang A4; CAdES-BES nên pdftotext chỉ ra metadata ký — OCR pipeline pdftoppm 150 DPI + tesseract vie cho cả 3 trang, các vùng nhạy cảm crop riêng đọc lại 400 DPI).
+- **Cấu trúc**: **2 Điều** (range 1–2, Missing [] Duplicate []; không có Chương/Mục) + khối căn cứ pháp luật đầy đủ (Luật Ban hành VBQPPL 64/2025/QH15 sửa đổi bởi Luật 87/2025/QH15; NĐ 78/2025/NĐ-CP sửa đổi bởi NĐ 187/2025/NĐ-CP; NĐ 79/2025/NĐ-CP sửa đổi bởi NĐ 187/2025/NĐ-CP; NĐ 109/2025/NĐ-CP) + khối quốc hiệu/tựa THÔNG TƯ + Điều 1 bãi bỏ toàn bộ **18 thông tư** TTCP giai đoạn 2011→2025 (05/08/09-2011, 01-2012, 01/02/06/07/08-2013, 02/04/09-2014, 04/06-2015, 02-2016, 04/06-2021, 02-2025) + khối **Nơi nhận** (21 đầu mục, Lưu: VT, PC (10 bản)) + khối chữ ký KT. TỔNG THANH TRA / Lê Tiến Đạt.
+- **Xác minh chi tiết nhạy cảm** (crop 400 DPI + TSV định vị): số hiệu "Số: 03/2026/TT-TTCP" đọc rõ cả 150 và 400 DPI; ngày ban hành trên dòng quốc hiệu scan mờ không tách được số ngày (OCR "4Š" — không tồn tại ngày 45) → chốt **ngày 15 tháng 8 năm 2026** theo metadata chuẩn vanban.chinhphu.vn docid 219272 đã xác minh từ v177, tuyệt đối không bịa; ngày hiệu lực Điều 2.1 "kể từ ngày 01 tháng 10 năm 2026" crop 400 DPI trang 3 đọc rõ, khớp metadata nguồn; người ký "Lê Tiến Đạt" dưới dấu KT. TỔNG THANH TRA (crop 400 DPI góc phải trang 3); lỗi OCR đã sửa theo ngữ cảnh: "§."→"8." (khoản 8), "tháng II"→"tháng 11" (khoản 12), "§"→"8" (ngày 08 khoản 10), "sô/tô/chính phú/quên"→đúng dấu; vision model Google hết quota tháng nên toàn bộ verify bằng tesseract crop + đối chiếu metadata chính thức.
+- **Quality gate**: OCR issues **0**; Điều 2/2 range 1–2 Missing [] Duplicate []; suspicious heading none; Chương not applicable; 0 NFD/Cyrillic; đủ 18 khoản Điều 1 (1→18 liên tục); 0 ghi chú debug/crawler/placeholder; `git diff --check` pass.
+
+**Session**: agent:github-io:subagent:f0d61f6f-ae29-4bc2-91c4-87f64597eb42 (Đệ #3 Full Content Crawler v182)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-25 22:30 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-25 v181 — Đệ #3 Full Content Crawler (toàn văn 68/2026/TT-BGDĐT — 21:05 ICT)
 
 - **Phạm vi**: crawl toàn văn **Thông tư 68/2026/TT-BGDĐT** quy định việc giảng dạy khối lượng kiến thức văn hóa giáo dục phổ thông trong chương trình đào tạo các ngành, nghề đặc thù (docid chp [219273](https://vanban.chinhphu.vn/?pageid=27160&docid=219273), BH 22/08/2026, hiệu lực 08/10/2026, ký KT. Bộ trưởng Thứ trưởng Phạm Ngọc Thưởng), chuyển trạng thái "Chưa có" → "**Hoàn thiện**".
@@ -76,7 +91,7 @@
 | 2 | **70/2026/TT-BGDĐT** | Giáo dục — quản lý, sử dụng học bạ số trong cơ sở GDPT và GDTX | [219275](https://vanban.chinhphu.vn/?pageid=27160&docid=219275) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/70-bgddt.signed.pdf` | **Chưa có** |
 | 3 | **69/2026/TT-BGDĐT** | Giáo dục — Quy chế tổ chức, hoạt động trường năng khiếu nghệ thuật, TD-TT | [219274](https://vanban.chinhphu.vn/?pageid=27160&docid=219274) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/69-bgddt.signed.pdf` | **Hoàn thiện** (v180) |
 | 4 | **68/2026/TT-BGDĐT** | Giáo dục — giảng dạy khối lượng kiến thức văn hóa THPT trong đào tạo ngành nghề đặc thù | [219273](https://vanban.chinhphu.vn/?pageid=27160&docid=219273) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/68-bgddt.signed.pdf` | **Hoàn thiện** (v181) |
-| 5 | **03/2026/TT-TTCP** | Thanh tra — bãi bỏ một số thông tư của Tổng Thanh tra Chính phủ | [219272](https://vanban.chinhphu.vn/?pageid=27160&docid=219272) | 15/08/2026 | 01/10/2026 | Lê Tiến Đạt | `cpp/files/vbpq/2026/8/03-ttcp.signed.pdf` | **Chưa có** |
+| 5 | **03/2026/TT-TTCP** | Thanh tra — bãi bỏ một số thông tư của Tổng Thanh tra Chính phủ | [219272](https://vanban.chinhphu.vn/?pageid=27160&docid=219272) | 15/08/2026 | 01/10/2026 | Lê Tiến Đạt | `cpp/files/vbpq/2026/8/03-ttcp.signed.pdf` | **Hoàn thiện** (v182) |
 
 **Trích yếu** (đã fetch trang chi tiết từng docid xác minh metadata):
 - **124/2026/TT-BTC** (docid [219277](https://vanban.chinhphu.vn/?pageid=27160&docid=219277)): "Bổ sung khoản 10 Điều 15 Thông tư số 33/2023/TT-BTC ngày 31 tháng 5 năm 2023 của Bộ trưởng Bộ Tài chính quy định về xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu". Loại: Thông tư; Cơ quan: Bộ Tài chính; Người ký: Nguyễn Đức Chi; BH 22-08-2026, hiệu lực ngay 22-08-2026.
