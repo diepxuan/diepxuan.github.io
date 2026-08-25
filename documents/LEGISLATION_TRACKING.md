@@ -1,3 +1,20 @@
+### Cập nhật 2026-08-25 v179 — Đệ #3 Full Content Crawler (toàn văn 70/2026/TT-BGDĐT — 18:55 ICT)
+
+- **Phạm vi**: crawl toàn văn **Thông tư 70/2026/TT-BGDĐT** quy định về quản lý và sử dụng học bạ số trong các cơ sở giáo dục phổ thông và cơ sở giáo dục thường xuyên (docid chp [219275](https://vanban.chinhphu.vn/?pageid=27160&docid=219275), BH 22/08/2026, hiệu lực 08/10/2026, ký KT. Bộ trưởng Thứ trưởng Phạm Ngọc Thưởng), chuyển trạng thái "Chưa có" → "**Hoàn thiện**".
+- **File**: `van-ban/giao-duc/70-2026-tt-bgddt-hoc-ba-so.md` (mới, ~29KB / 519 dòng).
+- **Nguồn**: PDF chữ ký số chính thức datafiles.chinhphu.vn ([70-bgddt.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/8/70-bgddt.signed.pdf), 5.7MB / 12 trang nội dung; CAdES-BES nên pdftotext chỉ ra metadata ký — OCR pipeline pdftoppm 150 DPI + tesseract vie từng trang; các vùng nhạy cảm crop riêng đọc lại 400 DPI).
+- **Cấu trúc**: **26 Điều** (range 1–26, Missing [] Duplicate []), **7 Chương** (I–VII đúng thứ tự La Mã, không trùng) + khối căn cứ pháp luật đầy đủ (Luật Giáo dục 43/2019/QH14 sửa đổi bởi Luật Giáo dục 123/2025/QH15; Luật Giao dịch điện tử 20/2023/QH15; Luật Dữ liệu 60/2024/QH15; Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15; NĐ 69/2024/NĐ-CP; NĐ 23/2025/NĐ-CP; NĐ 88/2026/NĐ-CP; NĐ 279/2026/NĐ-CP) + khối quốc hiệu/tựa THÔNG TƯ + khối **Nơi nhận** (16 đầu mục: Văn phòng Quốc hội → Lưu VT, Vụ PC, Cục GDNNGDTX, Vụ GDPT) + khối chữ ký KT. BỘ TRƯỞNG / THỨ TRƯỞNG / Phạm Ngọc Thưởng.
+- **Nội dung cốt lõi**: quy định quản lý và sử dụng học bạ số trong cơ sở giáo dục phổ thông và GDTX — giải thích từ ngữ (học bạ số, dữ liệu học bạ số, bản điện tử, bản trích lục điện tử); giá trị pháp lý học bạ số ngang học bạ giấy khi ký số đúng quy định; tạo lập 1 học bạ số duy nhất/người học gắn hồ sơ học tập suốt đời; ký số của giáo viên/cá nhân có thẩm quyền + chữ ký số tổ chức của cơ sở giáo dục; khai thác qua Cổng Dịch vụ công quốc gia, VNeID; không được yêu cầu nộp thêm học bạ giấy; thu nhận/kết nối/chia sẻ/lưu trữ/bảo mật dữ liệu; trách nhiệm Bộ, Sở, UBND cấp xã, cơ sở giáo dục; điều khoản chuyển tiếp cho học bạ giấy hiện có theo lộ trình NĐ 88/2026.
+- **Xác minh chi tiết nhạy cảm**: số hiệu "Số: 70/2026/TT-BGDĐT" (crop 400 DPI + khớp metadata chính thức); ngày ban hành "ngày 22 tháng 8 năm 2026" (150 DPI đọc "tháng06" do glyph 0/8 chồng mực — đọc lại 400 DPI psm13 ra "08", đối chiếu metadata chính thức vanban.chinhphu.vn BH 22-08-2026 xác nhận tháng 8); ngày hiệu lực Điều 24 "ngày 08 tháng 10 năm 2026" (dòng OCR garbage do font nhúng lỗi — lấy từ metadata chính thức vanban.chinhphu.vn docid 219275 đã fetch trực tiếp: "Ngày có hiệu lực 08-10-2026"); người ký Phạm Ngọc Thưởng khớp metadata + crop 400 DPI trang 12.
+- **Lọc nhiễu nguồn**: PDF có 3 trang rác sau trang 12 (trang đánh số 13–15 chứa nội dung lạc từ một nghị định về sàn dữ liệu — Điều 18/21/31, Chương V–VIII khác hẳn chủ đề) — đã loại khỏi file, chỉ lấy 12 trang TT 70.
+- **Quality gate**: OCR issues **0**; Điều 26/26 range 1–26 Missing [] Duplicate []; suspicious heading: none; Chương I→VII không dup/out-of-order; 0 ghi chú debug/crawler/placeholder; `git diff --check` pass.
+
+**Session**: agent:github-io:subagent:2b2b5d6a-77eb-43af-9137-f438f3e6b4f2 (Đệ #3 Full Content Crawler v179)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-25 18:55 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-25 v178 — Đệ #3 Full Content Crawler (toàn văn 124/2026/TT-BTC — 18:20 ICT)
 
 - **Phạm vi**: crawl toàn văn **Thông tư 124/2026/TT-BTC** bổ sung khoản 10 Điều 15 TT 33/2023/TT-BTC quy định về xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu (docid chp [219277](https://vanban.chinhphu.vn/?pageid=27160&docid=219277), BH 22/08/2026, hiệu lực ngay 22/08/2026, ký KT. Bộ trưởng Thứ trưởng Nguyễn Đức Chi), chuyển trạng thái "Chưa có" → "**Hoàn thiện**".
