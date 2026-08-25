@@ -1,3 +1,21 @@
+### Cập nhật 2026-08-25 v183 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 23:05 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168–v177). Parse đủ 50 hàng (docid **219136→219277**, ngày BH 07/08→22/08/2026 — **cửa sổ giữ nguyên so với v177**; **docid 219271 (8631/VPCP-PL) tiếp tục vắng mặt trong top-50** như v174–v176, kiểm tra chuỗi `docid=219271` = 0 kết quả). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
+
+**Kết quả quét 50 VB**: **50/50 đã có file `van-ban/`, đã track chính thức hoặc đã được ghi nhận ngoài phạm vi từ các vòng trước → 0 VB mới.** Hàng đầu nguồn vẫn là **336/2026/NĐ-CP (docid 219265, BH 22/08)** — hoàn thiện v161; docid cao nhất trong top-50 vẫn **219277 (124/2026/TT-BTC)** và cụm 219272→219275 phát hiện ở v177 nay đều hoàn thiện: **03/2026/TT-TTCP (v182)**, **68/2026/TT-BGDĐT (v181)**, **69/2026/TT-BGDĐT (v180)**, **70/2026/TT-BGDĐT (v179)**, **124/2026/TT-BTC (v178)**. Không phát hiện VB công bố sau vòng v177; ngày ban hành mới nhất trên nguồn giữ nguyên **22/08/2026**.
+
+**Ghi nhận về 8631/VPCP-PL (docid 219271)**: VB "Chưa có" thêm ở v173 tiếp tục nằm ngoài top-50 như v174–v176. Trạng thái tracking giữ nguyên **"Chưa có" — chờ Sếp quyết định**; sẽ tự động hiện lại trong cửa sổ quét khi nguồn cập nhật thêm VB mới đẩy cửa sổ trượt xuống.
+
+**Trạng thái cửa sổ quét**: cửa sổ docid giữ nguyên **219136→219277** (khớp v177); các cụm còn lại trong top-50 khớp trạng thái v142–v182 (không đổi): cụm 7 NĐ An ninh mạng 327–333; 334/335 đã có file, 336 hoàn thiện v161; 116–121/TT-BTC đã có (117 hợp nhất v162, 121 hoàn thiện v166); 118/TT-BQP hoàn thiện v167; 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41+43/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN (crawl v149) + 19/TT-BNV (crawl v150) nay đã có file toàn văn; 10/2026/TT-BTP đã có file (v172); 42/QĐ-TTg + 38/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi (track v142); các CĐ-TTg (54–59), công văn/TB-VPCP, QĐ-TTg hành chính (1597–1613), VBHN-QĐ-BNNMT/BTP, 12748/BTC-PTHT tiếp tục ghi nhận ngoài phạm vi NĐ-CP/TT như các vòng trước.
+
+**Normalize Cyrillic/NFD**: matching dùng boundary-aware + Cyrillic U+0420→P Latin + NFD + `đ→d`; nguồn lại trả `320/2026/NĐ-CР` (Р = U+0420) tại docid 219189 như v160/v164/v165/v168–v177 — đã normalize khớp đúng kho (`van-ban/hanh-chinh/320-2026-nd-cp.md`), không báo nhầm.
+
+**Session**: agent:github-io:subagent:64193f99-2565-4551-ad10-22e24f569703 (Đệ #1 Discovery v183)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-25 23:05 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-25 v182 — Đệ #3 Full Content Crawler (toàn văn 03/2026/TT-TTCP — 22:30 ICT)
 
 - **Phạm vi**: crawl toàn văn **Thông tư 03/2026/TT-TTCP** bãi bỏ một số thông tư của Tổng Thanh tra Chính phủ (docid chp [219272](https://vanban.chinhphu.vn/?pageid=27160&docid=219272), BH 15/08/2026, hiệu lực 01/10/2026, ký KT. Tổng Thanh tra Lê Tiến Đạt), chuyển trạng thái "Chưa có" → "**Hoàn thiện**".
