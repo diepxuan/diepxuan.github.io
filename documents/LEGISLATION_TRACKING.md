@@ -1,3 +1,19 @@
+### Cập nhật 2026-08-25 v178 — Đệ #3 Full Content Crawler (toàn văn 124/2026/TT-BTC — 18:20 ICT)
+
+- **Phạm vi**: crawl toàn văn **Thông tư 124/2026/TT-BTC** bổ sung khoản 10 Điều 15 TT 33/2023/TT-BTC quy định về xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu (docid chp [219277](https://vanban.chinhphu.vn/?pageid=27160&docid=219277), BH 22/08/2026, hiệu lực ngay 22/08/2026, ký KT. Bộ trưởng Thứ trưởng Nguyễn Đức Chi), chuyển trạng thái "Chưa có" → "**Hoàn thiện**".
+- **File**: `van-ban/tai-chinh/124-2026-tt-btc.md` (mới, ~6KB / 128 dòng).
+- **Nguồn**: PDF chữ ký số chính thức datafiles.chinhphu.vn ([124-btc.signed.pdf](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/8/124-btc.signed.pdf), 269KB / 2 trang; CAdES-BES nên pdftotext chỉ ra metadata ký — OCR pipeline `scripts/ocr_pdf.py` 150 DPI tesseract vie cho cả 2 trang, các vùng nhạy cảm crop riêng đọc lại 400 DPI).
+- **Cấu trúc**: **2 Điều** (range 1–2, Missing [] Duplicate []; không có Chương/Mục) + khối căn cứ pháp luật đầy đủ (Luật Hải quan 54/2014/QH13 sửa đổi bởi Luật 71/2014/QH13 + 35/2018/QH14 + 07/2022/QH15 + 133/2025/QH15; Luật Thuế XNK 107/2016/QH13; Luật sửa đổi Đấu thầu/PPT công tư/Hải quan/Thuế GTGT/Thuế XNK/Đầu tư/Đầu tư công/QLTSCông số 90/2025/QH15; Luật QLNT 05/2017/QH14; NĐ 08/2015/NĐ-CP sửa đổi bởi NĐ 167/2025/NĐ-CP; NĐ 31/2018/NĐ-CP; NĐ 86/2025/NĐ-CP; NĐ 37/2026/NĐ-CP; NĐ 29/2025/NĐ-CP sửa đổi bởi NĐ 166/2025/NĐ-CP) + khối quốc hiệu/tựa THÔNG TƯ + khối **Nơi nhận** (19 đầu mục, Lưu: VT, CHQ(50b)) + khối chữ ký KT. BỘ TRƯỞNG / THỨ TRƯỞNG / Nguyễn Đức Chi.
+- **Nội dung cốt lõi**: Điều 1 bổ sung khoản 10 Điều 15 vào sau khoản 9 của TT 33/2023/TT-BTC — "Việc kiểm tra chứng từ chứng nhận xuất xứ hàng hóa nhập khẩu được thực hiện trên cơ sở áp dụng quản lý rủi ro"; Điều 2 hiệu lực ngay ngày ký 22/08/2026 + điều khoản chuyển tiếp.
+- **Xác minh chi tiết nhạy cảm**: số hiệu "Số: 124/2026/TT-BTC" (150 DPI đọc nhầm 42; crop 400 DPI đọc 12+ → đối chiếu metadata chính thức vanban.chinhphu.vn docid 219277 + tên file PDF gốc `124-btc.signed.pdf` xác nhận 124); dòng ngày ban hành "ngày 22 tháng 8 năm 2026" (crop 400 DPI); căn cứ "Luật Quản lý, sử dụng tài sản công số 90/2025/QH15" (OCR mơ hồ 202x/QH15 — đối chiếu kho: cụm căn cứ này nguyên văn xuất hiện trong các văn bản đã hoàn thiện, đúng luật thật); "Luật Hải quan 54/2014/QH13 sửa đổi bởi 71/2014 + 35/2018 + 07/2022/QH15 + 133/2025/QH15" (crop 400 DPI + đối chiếu cụm căn cứ hải quan trong kho); "Nghị định số 08/2015/NĐ-CP" (OCR mơ hồ 08/201x — đối chiếu kho: NĐ 08/2015 là nghị định thủ tục hải quan gốc được NĐ 167/2025 sửa đổi, khớp ngữ cảnh); heading Điều 2 "Điều khoản thi hành" (crop 400 DPI xác nhận, không phải "Hiệu lực thi hành"); ngày hiệu lực Điều 2 "ngày 22 tháng 8 năm 2026" (dòng bị đóng dấu số chồng — lấy từ metadata chính thức vanban.chinhphu.vn đã xác minh ở v177, khớp "hiệu lực ngay ngày ký"); người ký Nguyễn Đức Chi khớp metadata trang nguồn.
+- **Quality gate**: OCR issues **0**; Điều 2/2 range 1–2 Missing [] Duplicate []; suspicious heading: none; Chương: not applicable (không có chương); 0 ghi chú debug/crawler/placeholder; `git diff --check` pass.
+
+**Session**: agent:github-io:subagent:b18d0323-4a23-490a-8bb6-5dffa9cdbc8a (Đệ #3 Full Content Crawler v178)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-25 18:20 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-25 v177 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 17:35 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168–v176). Parse đủ 50 hàng (docid **219136→219277**, ngày BH 07/08→22/08/2026 — **cửa sổ trượt mở rộng +5 VB so với v165/v168–v172/v174–v176** do nguồn công bố thêm VB mới; **docid 219271 (8631/VPCP-PL) tiếp tục vắng mặt trong top-50**, kiểm tra chuỗi `docid=219271` = 0 kết quả). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
@@ -6,7 +22,7 @@
 
 | # | Số hiệu | Chủ đề | Docid | Ngày BH | Hiệu lực | Người ký | PDF chp signed | Trạng thái |
 |---|---------|--------|-------|---------|----------|----------|----------------|------------|
-| 1 | **124/2026/TT-BTC** | Xuất xứ hàng hóa XNK — bổ sung khoản 10 Điều 15 TT 33/2023/TT-BTC | [219277](https://vanban.chinhphu.vn/?pageid=27160&docid=219277) | 22/08/2026 | 22/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/8/124-btc.signed.pdf` | **Chưa có** |
+| 1 | **124/2026/TT-BTC** | Xuất xứ hàng hóa XNK — bổ sung khoản 10 Điều 15 TT 33/2023/TT-BTC | [219277](https://vanban.chinhphu.vn/?pageid=27160&docid=219277) | 22/08/2026 | 22/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/8/124-btc.signed.pdf` | **Hoàn thiện** (v178) |
 | 2 | **70/2026/TT-BGDĐT** | Giáo dục — quản lý, sử dụng học bạ số trong cơ sở GDPT và GDTX | [219275](https://vanban.chinhphu.vn/?pageid=27160&docid=219275) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/70-bgddt.signed.pdf` | **Chưa có** |
 | 3 | **69/2026/TT-BGDĐT** | Giáo dục — Quy chế tổ chức, hoạt động trường năng khiếu nghệ thuật, TD-TT | [219274](https://vanban.chinhphu.vn/?pageid=27160&docid=219274) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/69-bgddt.signed.pdf` | **Chưa có** |
 | 4 | **68/2026/TT-BGDĐT** | Giáo dục — giảng dạy khối lượng kiến thức văn hóa THPT trong đào tạo ngành nghề đặc thù | [219273](https://vanban.chinhphu.vn/?pageid=27160&docid=219273) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/68-bgddt.signed.pdf` | **Chưa có** |
