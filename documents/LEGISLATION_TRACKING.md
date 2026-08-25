@@ -1,3 +1,38 @@
+### Cập nhật 2026-08-25 v177 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 17:35 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168–v176). Parse đủ 50 hàng (docid **219136→219277**, ngày BH 07/08→22/08/2026 — **cửa sổ trượt mở rộng +5 VB so với v165/v168–v172/v174–v176** do nguồn công bố thêm VB mới; **docid 219271 (8631/VPCP-PL) tiếp tục vắng mặt trong top-50**, kiểm tra chuỗi `docid=219271` = 0 kết quả). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
+
+**Kết quả quét 50 VB**: **45/50 đã có file `van-ban/`, đã track chính thức hoặc đã được ghi nhận ngoài phạm vi từ các vòng trước → 5 VB mới** vượt cửa sổ đã xác minh của v176, tất cả đã fetch trang chi tiết docid xác minh metadata:
+
+| # | Số hiệu | Chủ đề | Docid | Ngày BH | Hiệu lực | Người ký | PDF chp signed | Trạng thái |
+|---|---------|--------|-------|---------|----------|----------|----------------|------------|
+| 1 | **124/2026/TT-BTC** | Xuất xứ hàng hóa XNK — bổ sung khoản 10 Điều 15 TT 33/2023/TT-BTC | [219277](https://vanban.chinhphu.vn/?pageid=27160&docid=219277) | 22/08/2026 | 22/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/8/124-btc.signed.pdf` | **Chưa có** |
+| 2 | **70/2026/TT-BGDĐT** | Giáo dục — quản lý, sử dụng học bạ số trong cơ sở GDPT và GDTX | [219275](https://vanban.chinhphu.vn/?pageid=27160&docid=219275) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/70-bgddt.signed.pdf` | **Chưa có** |
+| 3 | **69/2026/TT-BGDĐT** | Giáo dục — Quy chế tổ chức, hoạt động trường năng khiếu nghệ thuật, TD-TT | [219274](https://vanban.chinhphu.vn/?pageid=27160&docid=219274) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/69-bgddt.signed.pdf` | **Chưa có** |
+| 4 | **68/2026/TT-BGDĐT** | Giáo dục — giảng dạy khối lượng kiến thức văn hóa THPT trong đào tạo ngành nghề đặc thù | [219273](https://vanban.chinhphu.vn/?pageid=27160&docid=219273) | 22/08/2026 | 08/10/2026 | Phạm Ngọc Thưởng | `cpp/files/vbpq/2026/8/68-bgddt.signed.pdf` | **Chưa có** |
+| 5 | **03/2026/TT-TTCP** | Thanh tra — bãi bỏ một số thông tư của Tổng Thanh tra Chính phủ | [219272](https://vanban.chinhphu.vn/?pageid=27160&docid=219272) | 15/08/2026 | 01/10/2026 | Lê Tiến Đạt | `cpp/files/vbpq/2026/8/03-ttcp.signed.pdf` | **Chưa có** |
+
+**Trích yếu** (đã fetch trang chi tiết từng docid xác minh metadata):
+- **124/2026/TT-BTC** (docid [219277](https://vanban.chinhphu.vn/?pageid=27160&docid=219277)): "Bổ sung khoản 10 Điều 15 Thông tư số 33/2023/TT-BTC ngày 31 tháng 5 năm 2023 của Bộ trưởng Bộ Tài chính quy định về xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu". Loại: Thông tư; Cơ quan: Bộ Tài chính; Người ký: Nguyễn Đức Chi; BH 22-08-2026, hiệu lực ngay 22-08-2026.
+- **70/2026/TT-BGDĐT** (docid [219275](https://vanban.chinhphu.vn/?pageid=27160&docid=219275)): "Quy định về quản lý và sử dụng học bạ số trong các cơ sở giáo dục phổ thông và cơ sở giáo dục thường xuyên". Loại: Thông tư; Cơ quan: Bộ GDĐT; Người ký: Phạm Ngọc Thưởng; BH 22-08-2026, hiệu lực 08-10-2026.
+- **69/2026/TT-BGDĐT** (docid [219274](https://vanban.chinhphu.vn/?pageid=27160&docid=219274)): "Ban hành Quy chế tổ chức và hoạt động của trường năng khiếu nghệ thuật, thể dục, thể thao". Loại: Thông tư; Cơ quan: Bộ GDĐT; Người ký: Phạm Ngọc Thưởng; BH 22-08-2026, hiệu lực 08-10-2026.
+- **68/2026/TT-BGDĐT** (docid [219273](https://vanban.chinhphu.vn/?pageid=27160&docid=219273)): "Quy định việc giảng dạy khối lượng kiến thức văn hóa giáo dục phổ thông trong chương trình đào tạo các ngành, nghề đặc thù". Loại: Thông tư; Cơ quan: Bộ GDĐT; Người ký: Phạm Ngọc Thưởng; BH 22-08-2026, hiệu lực 08-10-2026.
+- **03/2026/TT-TTCP** (docid [219272](https://vanban.chinhphu.vn/?pageid=27160&docid=219272)): "Bãi bỏ một số thông tư của Tổng Thanh tra Chính phủ". Loại: Thông tư; Cơ quan: Thanh tra Chính phủ; Người ký: Lê Tiến Đạt; BH 15-08-2026, hiệu lực 01-10-2026.
+
+**Nhóm chủ đề + ưu tiên đề xuất**: cụm 68+69+70/TT-BGDĐT thuộc nhóm **Giáo dục** (ưu tiên trung bình — cụm TT-BGDĐT 63–66 trước đó đã hợp nhất/crawl qua v156–v158, cụm mới này là đợt sửa đổi/quy chế mới); 124/TT-BTC thuộc nhóm **Tài chính/Hải quan — xuất xứ hàng hóa** (ưu tiên trung bình — sửa TT 33/2023 về C/O xuất xứ, hiệu lực ngay); 03/TT-TTCP thuộc nhóm **Thanh tra** (ưu tiên thấp — VB bãi bỏ, ngoài nhóm NĐ-CP/TT trọng tâm kinh tế). Cả 5 đều nằm trong nhóm TT nên đủ tiêu chuẩn crawl khi Bột gọi Đệ #3; thứ tự đề xuất: 124 → 70 → 69 → 68 → 03.
+
+**Trạng thái cửa sổ quét**: cửa sổ trượt lên **219136→219277** (mở rộng so với 219130→219269 của v165/v168–v172/v174–v176); docid cao nhất toàn nguồn tăng 219269 → **219277 (124/2026/TT-BTC)**; ngày ban hành mới nhất trên nguồn giữ nguyên **22/08/2026**. Hàng đầu nguồn chuyển từ 336/2026/NĐ-CP (219265) sang **124/2026/TT-BTC (219277)**. Các hàng còn lại (45) đều nằm trong cửa sổ cũ 219130–219269 với trạng thái không đổi như v142–v176: cụm 7 NĐ An ninh mạng 327–333; 334/335 đã có file, 336 hoàn thiện v161; 116–121/TT-BTC đã có (117 hợp nhất v162, 121 hoàn thiện v166); 118/TT-BQP hoàn thiện v167; 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN (crawl v149) + 19/TT-BNV (crawl v150) nay đã có file toàn văn; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi (track v142); các CĐ-TTg (54–59), công văn/TB-VPCP, QĐ-TTg hành chính (1597–1613), VBHN-QĐ-BNNMT/BTP, 12748/BTC-PTHT tiếp tục ghi nhận ngoài phạm vi NĐ-CP/TT như các vòng trước.
+
+**Ghi nhận về 8631/VPCP-PL (docid 219271)**: VB "Chưa có" thêm ở v173 vẫn nằm ngoài top-50 như v174–v176 dù cửa sổ đã trượt (nguồn trả đúng 50 docid distinct 219136–219277, kiểm tra chuỗi `docid=219271` = 0 kết quả). Trạng thái tracking giữ nguyên **"Chưa có" — chờ Sếp quyết định**.
+
+**Normalize Cyrillic/NFD**: matching dùng boundary-aware + Cyrillic U+0420→P Latin + NFD + `đ→d`; nguồn lại trả `320/2026/NĐ-CР` (Р = U+0420) tại docid 219189 như v160/v164/v165/v168–v176 — đã normalize khớp đúng kho (`van-ban/hanh-chinh/320-2026-nd-cp.md`), không báo nhầm.
+
+**Session**: agent:github-io:subagent:60d9ddd9-9b2a-4a29-9542-ffbf47fcee52 (Đệ #1 Discovery v177)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-25 17:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-25 v176 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 15:15 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168–v174/v175). Parse đủ 50 hàng (docid **219130→219269**, ngày BH 05/08→22/08/2026 — cửa sổ không đổi so với v165/v168–v172/v174/v175; **docid 219271 (8631/VPCP-PL) tiếp tục vắng mặt trong top-50** như v174/v175, kiểm tra chuỗi `docid=219271` = 0 kết quả). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
