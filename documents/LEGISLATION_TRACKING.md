@@ -1,3 +1,25 @@
+### Cập nhật 2026-08-25 v173 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 07:35 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168–v172). Parse đủ 50 hàng (docid **219130→219271**, ngày BH 05/08→22/08/2026 — cửa sổ mở rộng +1 VB so với v165/v168–v172 do xuất hiện docid **219271**). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
+
+**Kết quả quét 50 VB**: **49/50 đã có file `van-ban/`, đã track chính thức hoặc đã được ghi nhận ngoài phạm vi từ các vòng trước → 1 VB mới** vượt cửa sổ đã xác minh của v172:
+
+| # | Số hiệu | Chủ đề | Docid | Ngày BH | Người ký | PDF chp signed | Trạng thái |
+|---|---------|--------|-------|---------|----------|----------------|------------|
+| 1 | **8631/VPCP-PL** | Chuẩn bị nội dung Phiên họp Chính phủ chuyên đề về xây dựng pháp luật tháng 8/2026 (Phiên thứ 2) | [219271](https://vanban.chinhphu.vn/?pageid=27160&docid=219271) | 22/08/2026 | Nguyễn Văn Thắng | `cpp/files/vbpq/2026/8/8631_vpcp-pl_22082026_1-signed.signed.pdf` | **Chưa có** |
+
+**Trích yếu** (đã fetch trang chi tiết docid xác minh metadata): **8631/VPCP-PL** (docid [219271](https://vanban.chinhphu.vn/?pageid=27160&docid=219271)): "V/v chuẩn bị nội dung Phiên họp Chính phủ chuyên đề về xây dựng pháp luật tháng 8 năm 2026 (Phiên thứ 2)". Loại: Công văn; Cơ quan ban hành: Văn phòng Chính phủ; Người ký: Nguyễn Văn Thắng (theo metadata nguồn); BH 22-08-2026. **ƯU TIÊN THẤP** — công văn quy trình chuẩn bị họp Chính phủ chuyên đề xây dựng pháp luật, ngoài nhóm NĐ-CP/TT trọng tâm; đưa vào danh sách "Chưa có", chờ Sếp quyết định có crawl toàn văn không (PDF signed đã ghi nhận sẵn).
+
+**Trạng thái cửa sổ quét**: hàng đầu nguồn chuyển từ **336/2026/NĐ-CP (219265)** sang **8631/VPCP-PL (219271)**; ngày ban hành mới nhất trên nguồn giữ nguyên **22/08/2026**; docid cao nhất toàn nguồn tăng 219269 → **219271**. Các hàng còn lại (49) đều nằm trong cửa sổ 219130–219269 đã xác minh ở v165/v168–v172 với trạng thái không đổi: cụm 7 NĐ An ninh mạng 327–333; 334/335 đã có file, 336 hoàn thiện v161; 116–121/TT-BTC đã có (117 hợp nhất v162, 121 hoàn thiện v166); 118/TT-BQP hoàn thiện v167; 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN (crawl v149) + 19/TT-BNV (crawl v150) nay đã có file toàn văn; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi (track v142); các CĐ-TTg (54–59), công văn/TB-VPCP (440/443/TB, 8271/8368/8452/8530/8557/VPCP), QĐ-TTg hành chính (1597–1613), VBHN-QĐ-BNNMT/BTP, 12748/BTC-PTHT tiếp tục ghi nhận ngoài phạm vi NĐ-CP/TT như các vòng trước.
+
+**Normalize Cyrillic/NFD**: matching dùng boundary-aware + Cyrillic U+0420→P Latin + NFD + `đ→d`; nguồn lại trả `320/2026/NĐ-CР` (Р = U+0420) tại docid 219189 như v160/v164/v165/v168–v172 — đã normalize khớp đúng kho (`van-ban/hanh-chinh/320-2026-nd-cp.md`), không báo nhầm.
+
+**Session**: agent:github-io:subagent:ce6aa230-f7d6-4b3c-a5a5-d5f8cdfd7823 (Đệ #1 Discovery v173)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-25 07:35 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-25 v172 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 05:02 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168–v171). Parse đủ 50 hàng (docid **219130→219269**, ngày BH 05/08→**22/08**/2026 — cửa sổ không đổi so với v165/v168–v171). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` (752 file).
