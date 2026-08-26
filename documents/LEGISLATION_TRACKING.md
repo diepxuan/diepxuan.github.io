@@ -1,3 +1,27 @@
+### Cập nhật 2026-08-26 v191 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 19:38 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168–v178). Parse đủ 50 hàng (docid **219136→219279**, ngày BH 07/08→26/08/2026 — **cửa sổ mở rộng phía trên so với v177/v183–v190**: đỉnh tăng 219277→**219279** do xuất hiện VB mới công bố 26/08; đáy giữ nguyên 219136). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` (757 file).
+
+**Kết quả quét 50 VB**: **49/50 đã có file `van-ban/`, đã track chính thức hoặc đã được ghi nhận ngoài phạm vi từ các vòng trước → 1 VB mới** vượt cửa sổ đã xác minh của v190:
+
+| # | Số hiệu | Chủ đề | Docid | Ngày BH | Người ký | PDF chp signed | Trạng thái |
+|---|---------|--------|-------|---------|----------|----------------|------------|
+| 1 | **338/2026/NĐ-CP** | Sửa đổi, bổ sung một số điều của 03 Nghị định của Chính phủ về chế độ trợ cấp một lần khi thôi phục vụ trong Quân đội đối với sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng | [219279](https://vanban.chinhphu.vn/?pageid=27160&docid=219279) | 26/08/2026 | Phạm Thị Thanh Trà | `cpp/files/vbpq/2026/8/338_2026_nd-cp_26082026-signed.signed.pdf` | **Chưa có** |
+
+**Trích yếu** (đã fetch trang chi tiết docid xác minh metadata): **338/2026/NĐ-CP** (docid [219279](https://vanban.chinhphu.vn/?pageid=27160&docid=219279)): "Sửa đổi, bổ sung một số điều của 03 Nghị định của Chính phủ về chế độ trợ cấp một lần khi thôi phục vụ trong Quân đội đối với sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng". Loại: Nghị định; Cơ quan ban hành: Chính phủ; Người ký: Phạm Thị Thanh Trà (theo metadata nguồn); Ban hành 26-08-2026, hiệu lực 26-08-2026. Thuộc nhóm NĐ-CP trọng tâm; đưa vào danh sách "Chưa có", chờ Sếp quyết định có crawl toàn văn không.
+
+**Ghi nhận về 8631/VPCP-PL (docid 219271)**: VB "Chưa có" thêm ở v173 tiếp tục nằm ngoài top-50 như v174–v176 và các vòng sau (kiểm tra chuỗi `docid=219271` = 0 kết quả). Trạng thái tracking giữ nguyên **"Chưa có" — chờ Sếp quyết định**; sẽ tự động hiện lại trong cửa sổ quét khi nguồn cập nhật thêm VB mới đẩy cửa sổ trượt xuống.
+
+**Trạng thái cửa sổ quét**: hàng đầu nguồn chuyển từ **336/2026/NĐ-CP (219265)** sang **338/2026/NĐ-CP (219279)**; ngày ban hành mới nhất trên nguồn tăng **22/08 → 26/08/2026**; docid cao nhất toàn nguồn tăng 219277 → **219279**. Các hàng còn lại (49) đều nằm trong cửa sổ 219136–219277 đã xác minh ở v177/v183–v190 với trạng thái không đổi: cụm 7 NĐ An ninh mạng 327–333; 334/335 đã có file, 336 hoàn thiện v161; 116–121/TT-BTC đã có (117 hợp nhất v162, 121 hoàn thiện v166, 118+119+120 đã có file); 118/TT-BQP hoàn thiện v167; 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41+43/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN (crawl v149) + 18+19/TT-BNV (crawl v150) nay đã có file toàn văn; 10/2026/TT-BTP đã có file (v172); 40/2026/TT-NHNN và 34/2026/TT-BNNMT đã có file; 42/QĐ-TTg + 38/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi (track v142); các CĐ-TTg (54–59), công văn/TB-VPCP, QĐ-TTg hành chính (1597–1613), VBHN-QĐ-BNNMT/BTP, 12748/BTC-PTHT tiếp tục ghi nhận ngoài phạm vi NĐ-CP/TT như các vòng trước.
+
+**Normalize Cyrillic/NFD**: matching dùng boundary-aware + Cyrillic U+0420→P Latin + NFD + `đ→d`; nguồn lại trả `320/2026/NĐ-CР` (Р = U+0420) tại docid 219189 như v160/v164/v165/v168–v178 — đã normalize khớp đúng kho (`van-ban/320-2026-nd-cp.md`), không báo nhầm.
+
+**Session**: agent:github-io:subagent:9d7c5b09-233d-49b2-b30e-9386e5869beb (Đệ #1 Discovery v191)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-26 19:38 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-26 v190 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 16:37 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp — method đã xác minh ở v142, tái sử dụng ở v151/v153/v160/v164/v165/v168–v178). Parse đủ 50 hàng (docid **219136→219277**, ngày BH 07/08→22/08/2026 — **cửa sổ giữ nguyên so với v177/v183–v189**; **docid 219271 (8631/VPCP-PL) tiếp tục vắng mặt trong top-50** như v174–v176 và các vòng sau, kiểm tra chuỗi `docid=219271` = 0 kết quả). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware tránh khớp nhầm số dài hơn) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` (903 file).
