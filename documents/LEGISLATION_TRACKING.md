@@ -1,3 +1,46 @@
+### Cập nhật 2026-08-28 v193 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 23:29 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp). Parse đủ 50 hàng (docid **219200→219321**, ngày BH 13/08→27/08/2026 — **cửa sổ trượt lên so với v191**: đỉnh tăng 219279→**219321** do nguồn công bố thêm 12 VB mới trong 27–28/08; đáy tăng 219136→**219200**, đẩy 27 VB cũ khỏi top-50). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` (904 file).
+
+**Kết quả quét 50 VB**: **35/50 đã có file `van-ban/` hoặc đã track chính thức → 15 VB MỚI chưa có file, chưa track** (vượt cửa sổ đã xác minh của v191/v192). Ngoài ra 2 VB đã track "Chưa có" từ các vòng trước nay nằm trong top-50: **70/2026/TT-BGDĐT (219275)** — track v179; **322/2026/NĐ-CP (219200)** — track v180 (cả hai chưa có file, giữ nguyên trạng thái). 338/2026/NĐ-CP (219279) đã hoàn thiện v192, nằm trong cửa sổ.
+
+**15 VB MỚI phát hiện (trạng thái "Chưa có")** — giới hạn báo cáo 5 đầu (mới nhất), còn lại ghi chú:
+
+| # | Số hiệu | Chủ đề (trích yếu) | Docid | Ngày BH | Người ký | PDF chp signed | Trạng thái |
+|---|---------|--------------------|-------|---------|----------|----------------|------------|
+| 1 | **44/2026/TT-BCT** | Ban hành các Sửa đổi Quy chuẩn kỹ thuật quốc gia về an toàn trong lĩnh vực khai thác khoáng sản và thiết bị điện phòng nổ sử dụng trong mỏ hầm lò | [219317](https://vanban.chinhphu.vn/?pageid=27160&docid=219317) | 27/08/2026 | Trương Thanh Hoài | `cpp/files/vbpq/2026/8/44-bct.signed.pdf` | **Chưa có** |
+| 2 | **44/2026/TT-NHNN** | Sửa đổi, bổ sung một số điều của Thông tư 40/2025/TT-NHNN hướng dẫn về quản lý ngoại hối đối với đầu tư ra nước ngoài trong hoạt động dầu khí | [219311](https://vanban.chinhphu.vn/?pageid=27160&docid=219311) | 27/08/2026 | Phạm Thanh Hà | `cpp/files/vbpq/2026/8/44-nhnn.signed.pdf` | **Chưa có** |
+| 3 | **43/2026/TT-NHNN** | Hướng dẫn hoạt động thanh toán và chuyển tiền liên quan đến kinh doanh chuyển khẩu hàng hóa | [219319](https://vanban.chinhphu.vn/?pageid=27160&docid=219319) | 27/08/2026 | Phạm Thanh Hà | `cpp/files/vbpq/2026/8/43-nhnn.signed.pdf` | **Chưa có** |
+| 4 | **337/2026/NĐ-CP** | Quy định chi tiết một số điều và biện pháp thi hành Luật Tiếp cận thông tin | [219284](https://vanban.chinhphu.vn/?pageid=27160&docid=219284) | 26/08/2026 | Lê Tiến Châu | `cpp/files/vbpq/2026/8/337_2026_nd-cp_26082026-signed.signed.pdf` | **Chưa có** |
+| 5 | **42/2026/TT-NHNN** | Sửa đổi, bổ sung một số điều của Thông tư số 03/2020/TT-NHNN quy định về tiêu huỷ tiền của Ngân hàng Nhà nước Việt Nam | [219296](https://vanban.chinhphu.vn/?pageid=27160&docid=219296) | 26/08/2026 | Phạm Tiến Dũng | `cpp/files/vbpq/2026/8/42-nhnn.signed.pdf` | **Chưa có** |
+
+**Ghi chú 10 VB MỚI còn lại (cùng trạng thái "Chưa có", đầy đủ metadata đã fetch)**:
+
+| # | Số hiệu | Docid | Ngày BH | Người ký | Trích yếu (tóm tắt) |
+|---|---------|-------|---------|----------|---------------------|
+| 6 | 13/2026/TTLT-VKSNDTC-TANDTC-BCA-BQP-BTP | [219287](https://vanban.chinhphu.vn/?pageid=27160&docid=219287) | 26/08 | Mai Lương Khôi, Nguyễn Văn Gấu, Nguyễn Văn Tiến, Nguyễn Đức Thái, Nguyễn Văn Long | Quy định phối hợp giữa các cơ quan thực hiện thống kê giám định tư pháp trong tố tụng hình sự (TTLT 5 cơ quan) |
+| 7 | 39/2026/NQ-CP | [219280](https://vanban.chinhphu.vn/?pageid=27160&docid=219280) | 25/08 | Hồ Quốc Dũng | Về cơ chế chuyển tiếp sử dụng nhãn, bao bì hàng hóa đã in tên cũ khi doanh nghiệp thay đổi tên nhưng không thay đổi pháp nhân |
+| 8 | 126/2026/TT-BTC | [219321](https://vanban.chinhphu.vn/?pageid=27160&docid=219321) | 24/08 | Tạ Anh Tuấn | Quy định chi tiết chi phí thực tế để in, sao, chụp và gửi thông tin (Luật Tiếp cận thông tin 01/2026/QH16) |
+| 9 | 66/2026/TT-BXD | [219288](https://vanban.chinhphu.vn/?pageid=27160&docid=219288) | 24/08 | Lê Anh Tuấn | Quy định về quản lý, bảo trì công trình hàng không |
+| 10 | 12/2026/QH16 | [219298](https://vanban.chinhphu.vn/?pageid=27160&docid=219298) | 23/08 | Trần Thanh Mẫn | Luật Phổ biến, giáo dục pháp luật |
+| 11 | 11/2026/QH16 | [219299](https://vanban.chinhphu.vn/?pageid=27160&docid=219299) | 23/08 | Trần Thanh Mẫn | Luật sửa đổi, bổ sung một số điều của Luật Hải quan |
+| 12 | 125/2026/TT-BTC | [219289](https://vanban.chinhphu.vn/?pageid=27160&docid=219289) | 22/08 | Lê Tấn Cận | Sửa đổi, bổ sung một số điều của TT 83/2024/TT-BTC và TT 34/2026/TT-BTC (giá DV chứng khoán) |
+| 13 | 123/2026/TT-BTC | [219297](https://vanban.chinhphu.vn/?pageid=27160&docid=219297) | 21/08 | Cao Anh Tuấn | Sửa đổi, bổ sung một số điều của TT 130/2025/TT-BTC (Hệ thống Mục lục NSNN) |
+| 14 | 334/2026/NĐ-CP | [219283](https://vanban.chinhphu.vn/?pageid=27160&docid=219283) | 20/08 | Lê Tiến Châu | Quy định về tự chủ của cơ sở giáo dục đại học, giáo dục nghề nghiệp; cơ chế tài chính; chương trình trọng điểm quốc gia đào tạo tiến sĩ |
+| 15 | 05/2026/TT-BDTTG | [219286](https://vanban.chinhphu.vn/?pageid=27160&docid=219286) | 14/08 | Nguyễn Đình Khang | Quy định chi tiết, hướng dẫn thi hành một số điều Luật Thi đua, khen thưởng (lĩnh vực dân tộc, tín ngưỡng, tôn giáo) |
+
+**Ghi nhận về 8631/VPCP-PL (docid 219271)**: VB "Chưa có" thêm ở v173 **tiếp tục vắng mặt trong top-50** (kiểm tra chuỗi `docid=219271` = 0 kết quả, chuỗi `8631` = 0 kết quả). Trạng thái tracking giữ nguyên **"Chưa có" — chờ Sếp quyết định**; cửa sổ trượt lên đáy 219200 đẩy VB này lùi xa khỏi top-50.
+
+**Trạng thái cửa sổ quét**: hàng đầu nguồn chuyển từ 338/2026/NĐ-CP (219279) sang **44/2026/TT-BCT (219317)**; ngày ban hành mới nhất trên nguồn tăng **26/08 → 27/08/2026**; docid cao nhất toàn nguồn tăng 219279 → **219321 (126/2026/TT-BTC)**; đáy cửa sổ tăng 219136 → **219200 (322/2026/NĐ-CP)**. 15 VB mới nằm rải rác docid 219284–219321 (đỉnh cửa sổ) + 219286/219287/219280/219298/219299/219289/219297/219283. 338/2026/NĐ-CP (219279) đã hoàn thiện v192. Các VB cũ (327–336/NĐ-CP, 124–125/126/TT-BTC, 68–70/TT-BGDĐT, 117–123/TT-BTC, 319–334/NĐ-CP, TTLT, QH16, NQ-CP...) giữ trạng thái như v142–v192 (đa số đã có file/hoàn thiện; 70/TT-BGDĐT + 322/NĐ-CP đã track "Chưa có").
+
+**Normalize Cyrillic/NFD**: matching dùng boundary-aware + Cyrillic U+0420→P Latin + NFD + `đ→d`; nguồn trả `322/2026/NĐ-CP` với `NĐ-CР` (Р = U+0420) tại docid 219200 — đã normalize khớp đúng kho đã track (322-2026-nd-cp, "Chưa có" v180), không báo nhầm là mới.
+
+**Session**: agent:github-io:subagent:25dd6ce3-15e4-468f-9c4a-749f2b28ea67 (Đệ #1 Discovery v193)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-28 23:29 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-08-26 v192 — Đệ #3 Full Content Crawler (toàn văn 338/2026/NĐ-CP — 20:29 ICT)
 
 - **Phạm vi**: crawl toàn văn **Nghị định 338/2026/NĐ-CP** sửa đổi, bổ sung một số điều của 03 Nghị định của Chính phủ về chế độ trợ cấp một lần khi thôi phục vụ trong Quân đội đối với sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng (docid chp [219279](https://vanban.chinhphu.vn/?pageid=27160&docid=219279), BH 26/08/2026, hiệu lực 26/08/2026, ký TM. CHÍNH PHỦ / KT. THỦ TƯỚNG / Phạm Thị Thanh Trà), chuyển trạng thái "Chưa có" → "**Hoàn thiện**".
@@ -13390,3 +13433,46 @@ Tuy không phải NĐ-CP/TT, nhưng có 26 Quyết định/Nghị quyết 2026 c
 - **Thời gian**: 2026-08-22 14:36 ICT Asia/Saigon
 - **Commit**: `discovery(v124): 0 NĐ-CP/TT mới, 26 QĐ/NQ 2026 slug>444621, 8 file stub cũ` (no push, no PR)
 - **Files changed**: `documents/LEGISLATION_TRACKING.md` + `tmp/discovery-v124/*`
+
+---
+
+### Cập nhật 2026-08-28 v193 — Đệ #4 Reviewer (refactor scan + OCR gate 5 VB + review PR #264)
+
+**Phạm vi**: Quét `van-ban/**` (757 file .md) theo 3 tiêu chí refactor (metadata "Đang cập nhật" / <10KB / lastedit >7 ngày tính từ 2026-08-28), review OCR quality gate 5 văn bản gần nhất, review comment PR #264 đang mở.
+
+**A. File cần refactor phát hiện (chỉ các stub thực sự / metadata dang dở, đã loại trừ file tổng hợp lĩnh vực MB chứa "Đang cập nhật" trong nội dung dài và file báo cáo nội bộ REVIEW_REPORT_*.md):**
+
+- **STUB thực sự (cần crawl/bổ sung toàn văn)**:
+  1. `van-ban/2026-archive/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` (1574B, mtime 2026-07-23) — `status: Đang cập nhật (stub)`, không có Điều/Chương.
+  2. `van-ban/35-2026-TT-BCT.md` (3476B, mtime 2026-08-20) — file <10KB, 0 Điều/0 Chương, chứa "Đang cập nhật", nội dung rỗng.
+- **Văn bản đã có nội dung ĐẦY ĐỦ nhưng metadata info block còn "Đang cập nhật" (cần bổ sung ngày hiệu lực / người ký / nơi nhận)**:
+  3. `van-ban/317-2026-nd-cp.md` (25041B) — Người ký: (Đang cập nhật).
+  4. `van-ban/49-2026-tt-bkhcn.md` (76692B) — metadata còn "Đang cập nhật".
+  5. `van-ban/bo-noi-vu/thong-tu-18-2026-tt-bnv.md` (24824B) — metadata còn "Đang cập nhật".
+  6. `van-ban/dau-tu/38-2026-tt-nhnn.md` (24220B) — Ngày hiệu lực: (Đang cập nhật).
+  7. `van-ban/giao-duc/nd-322-2026-nd-cp.md` (27000B) — status stub "Đang cập nhật".
+  8. `van-ban/hanh-chinh/320-2026-nd-cp.md` (25736B) — Ngày hiệu lực + Nơi nhận: (Đang cập nhật).
+  9. `van-ban/nang-luong-tai-nguyen/243-2026-nd-cp.md` (36859B) — metadata còn "Đang cập nhật".
+  10. `van-ban/quoc-phong/thong-tu-32-2026-tt-bqp-loai-khoi-bien-che-tai-san-cong-bo-quoc-phong.md` (112724B) — metadata còn "Đang cập nhật".
+  11. `van-ban/tai-chinh/thong-tu-105-2026-tt-btc.md` (5971B) — Ngày công báo/Số công báo: (Đang cập nhật).
+  12. `van-ban/vien-thong-buu-chinh/thong-tu-08-2026-tt-bkhoa-hoc-cong-nghe-xac-thuc-thue-bao.md` (23776B) — metadata còn "Đang cập nhật".
+
+**B. Kết quả OCR quality gate 5 văn bản gần nhất (PASS/FAIL):**
+- `van-ban/quoc-phong/338-2026-nd-cp.md` — **PASS**: OCR issues 0, NFD 0, Cyrillic 0, Điều 12/12 (Missing [] Duplicate []), Chương I–IV.
+- `van-ban/thanh-tra/03-2026-tt-ttcp.md` — **PASS**: OCR issues 0, Điều 1–2 (Missing [] Duplicate []), metadata sạch (ngày hiệu lực 2026-10-01, người ký Lê Tiến Đạt).
+- `van-ban/giao-duc/68-2026-tt-bgddt.md` — **PASS**: OCR issues 0, Điều 12/12, Chương I–IV.
+- `van-ban/giao-duc/69-2026-tt-bgddt.md` — **PASS (cảnh báo giả)**: script báo OCR issue 1 ("Điền kinh" — là môn thể thao trong bảng, KHÔNG phải lỗi "Điền"); Điều 1–3 lặp là do văn bản hợp nhất Thông tư (Điều 1–3 ban hành Quy chế) + Quy chế (Chương I–V, Điều 1–23) — cấu trúc đúng, không lỗi. NFD 0, Cyrillic 0.
+- `van-ban/giao-duc/70-2026-tt-bgddt-hoc-ba-so.md` — **PASS**: OCR issues 0, Điều 1–26 (Missing [] Duplicate []), Chương I–VII.
+
+**C. Review PR comments (PR #264 đang mở, author caothu159, tạo 2026-08-07):**
+- `gh pr list --state open` → chỉ 1 PR: #264 (không có PR open khác).
+- `gh api issues/264/comments` → **0 comment**; `pulls/264/comments` → **0**; `pulls/264/reviews` → **0**.
+- Phân loại: không có comment nào thuộc loại "Cần xử lý ngay" / "Chờ Sếp review" / "Thông báo" / "Đã stale". PR #264 hiện chỉ là điểm dừng crawl, chưa có feedback từ Sếp hoặc người ngoài.
+- Đề xuất: không có action item từ PR comments. Tiếp tục chờ Sếp review/merge PR #264.
+
+**Lưu ý vận hành**: Quét toàn bộ 757 file thấy ~190 file chứa chuỗi "Đang cập nhật", nhưng tuyệt đại đa số nằm trong các file TỔNG HỢP lĩnh vực (vd `bo-tro-tu-phap/luat-su.md` 509KB, `nong-nghiep-nong-thon/thuy-san.md` 1.1MB) — đây là nội dung gốc tóm tắt và không phải refactor target. Đệ #4 chỉ đánh dấu các văn bản đơn lẻ dang dở (A) để tránh nhiễu.
+
+**Session**: agent:github-io:subagent:935892bc-e2a5-4ba5-a3d1-d7365c664de1 (Đệ #4 Reviewer v193)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-08-28 23:29 ICT Asia/Saigon
+**Quyền**: chỉ đọc van-ban/ + gh pr/gh api; CHỈ ghi chú vào LEGISLATION_TRACKING.md; không sửa file van-ban, không push/commit/branch/PR.
