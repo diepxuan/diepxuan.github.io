@@ -25,7 +25,7 @@
 
 | # | Số hiệu | Chủ đề (trích yếu) | Docid | Ngày BH | Người ký | PDF chp signed | Trạng thái |
 |---|---------|--------------------|-------|---------|----------|----------------|------------|
-| 1 | **44/2026/TT-BCT** | Ban hành các Sửa đổi Quy chuẩn kỹ thuật quốc gia về an toàn trong lĩnh vực khai thác khoáng sản và thiết bị điện phòng nổ sử dụng trong mỏ hầm lò | [219317](https://vanban.chinhphu.vn/?pageid=27160&docid=219317) | 27/08/2026 | Trương Thanh Hoài | `cpp/files/vbpq/2026/8/44-bct.signed.pdf` | **Chưa có** |
+| 1 | **44/2026/TT-BCT** | Ban hành các Sửa đổi Quy chuẩn kỹ thuật quốc gia về an toàn trong lĩnh vực khai thác khoáng sản và thiết bị điện phòng nổ sử dụng trong mỏ hầm lò | [219317](https://vanban.chinhphu.vn/?pageid=27160&docid=219317) | 27/08/2026 | Trương Thanh Hoài | `cpp/files/vbpq/2026/8/44-bct.signed.pdf` | **Hoàn thiện** |
 | 2 | **44/2026/TT-NHNN** | Sửa đổi, bổ sung một số điều của Thông tư 40/2025/TT-NHNN hướng dẫn về quản lý ngoại hối đối với đầu tư ra nước ngoài trong hoạt động dầu khí | [219311](https://vanban.chinhphu.vn/?pageid=27160&docid=219311) | 27/08/2026 | Phạm Thanh Hà | `cpp/files/vbpq/2026/8/44-nhnn.signed.pdf` | **Chưa có** |
 | 3 | **43/2026/TT-NHNN** | Hướng dẫn hoạt động thanh toán và chuyển tiền liên quan đến kinh doanh chuyển khẩu hàng hóa | [219319](https://vanban.chinhphu.vn/?pageid=27160&docid=219319) | 27/08/2026 | Phạm Thanh Hà | `cpp/files/vbpq/2026/8/43-nhnn.signed.pdf` | **Chưa có** |
 | 4 | **337/2026/NĐ-CP** | Quy định chi tiết một số điều và biện pháp thi hành Luật Tiếp cận thông tin | [219284](https://vanban.chinhphu.vn/?pageid=27160&docid=219284) | 26/08/2026 | Lê Tiến Châu | `cpp/files/vbpq/2026/8/337_2026_nd-cp_26082026-signed.signed.pdf` | **Chưa có** |
