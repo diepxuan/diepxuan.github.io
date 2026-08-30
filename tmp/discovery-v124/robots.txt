@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /default.aspx?tabid=*
+Disallow: /VL/*
+Disallow: /tim-van-ban.html?Keywords=*
+Disallow: /tim-kiem-tin-tuc.html?Keywords=*
+Disallow: /tim-van-ban.html?keywords=*
+Disallow: /tim-kiem-tin-tuc.html?keywords=*
+
+Sitemap: https://luatvietnam.vn/sitemap.xml
