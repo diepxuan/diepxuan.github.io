@@ -1,3 +1,13 @@
+### Cập nhật 2026-09-07 v196 — Crawl Nghị quyết 39/2026/NQ-CP (commit 5eee2611 — 23:05 ICT)
+
+- **Phạm vi**: crawl toàn văn **Nghị quyết 39/2026/NQ-CP** Về cơ chế chuyển tiếp sử dụng nhãn, bao bì hàng hóa đã in tên cũ khi doanh nghiệp thay đổi tên nhưng không thay đổi pháp nhân và chủ thể chịu trách nhiệm về hàng hóa (docid [219280](https://vanban.chinhphu.vn/?pageid=27160&docid=219280), BH 25/08/2026, hiệu lực 25/08/2026, ký Hồ Quốc Dũng), chuyển trạng thái "Chưa có" (track v193) → "**Hoàn thiện**".
+- **File**: `van-ban/chinh-phu/nghi-quyet-39-2026-nq-cp.md` (mới, ~11.2KB / 126 dòng).
+- **Nguồn**: PDF chữ ký số datafiles.chinhphu.vn (`39_2026_nq-cp_25082026-signed.pdf`, OCR pipeline tesseract vie, file tồn tại trong `tmp/39-2026-nq-cp/`).
+- **Cấu trúc**: **8 Điều** (range 1–8, Missing [] Duplicate []) + **không có Chương** (Nghị quyết đơn chương) + khối căn cứ pháp luật đầy đủ (Luật Tổ chức Chính phủ 63/2025/QH15; Luật Ban hành văn bản 64/2025/QH15 sửa đổi bởi 87/2025/QH15; Luật Doanh nghiệp 59/2020/QH14 sửa đổi bởi 76/2025/QH15; Luật Chất lượng sản phẩm, hàng hóa) + khối quốc hiệu/tựa NGHỊ QUYẾT + khối **Nơi nhận** (TM. CHÍNH PHỦ + 12 đầu mục) + không có chữ ký riêng (NQ-CP ký đại diện Chính phủ).
+- **Nội dung cốt lõi**: Điều 1 phạm vi điều chỉnh (tiếp tục sử dụng nhãn/bao bì đã in tên cũ khi DN đổi tên nhưng không chấm dứt pháp nhân, không thay đổi mã số DN/chủ thể chịu trách nhiệm hàng hóa); Điều 2 đối tượng áp dụng (DN thay đổi tên); Điều 3 giải thích từ ngữ; Điều 4 nguyên tắc, điều kiện áp dụng cơ chế chuyển tiếp; Điều 5 thời hạn sử dụng nhãn, bao bì đã in tên cũ và lưu thông hàng hóa (tối đa 12 tháng hoặc đến hết hạn sử dụng); Điều 6 trách nhiệm doanh nghiệp thay đổi tên (công khai, cập nhật hồ sơ công bố, không đặt in mới); Điều 7 trách nhiệm các bộ/địa phương (Bộ KH&CN theo dõi, tổng hợp, đề xuất sửa đổi NĐ 37/2026/NĐ-CP); Điều 8 hiệu lực thi hành từ ngày ký và hết hiệu lực khi NĐ 37/2026/NĐ-CP sửa đổi khoản 4 Điều 98 có hiệu lực.
+- **Quality gate**: OCR issues **0** (scan full pattern list + chuỗi cấm); Điều 8/8 range 1–8 Missing [] Duplicate []; không có Chương nên scan Chương = 0; file NFC chuẩn; 0 Cyrillic; 0 ghi chú debug/crawler/placeholder; `git diff --check` pass.
+- **Commit**: `5eee2611` — "crawl: Nghị quyết 39/2026/NQ-CP toàn văn" — push vào PR #264 heartbeat active.
+
 ### Cập nhật 2026-08-30 v195 — Đệ #3 Full Content Crawler (toàn văn 42/2026/TT-NHNN — 10:05 ICT)
 
 - **Phạm vi**: crawl toàn văn **Thông tư 42/2026/TT-NHNN** Sửa đổi, bổ sung một số điều của Thông tư số 03/2020/TT-NHNN quy định về tiêu huỷ tiền của Ngân hàng Nhà nước Việt Nam (docid chp [219296](https://vanban.chinhphu.vn/?pageid=27160&docid=219296), BH 26/08/2026, hiệu lực 10/10/2026, ký Thống đốc Phạm Tiến Dũng), chuyển trạng thái "Chưa có" → "**Hoàn thiện**" (track v193 ghi "Chưa có").
@@ -51,7 +61,7 @@
 | # | Số hiệu | Docid | Ngày BH | Người ký | Trích yếu (tóm tắt) |
 |---|---------|-------|---------|----------|---------------------|
 | 6 | 13/2026/TTLT-VKSNDTC-TANDTC-BCA-BQP-BTP | [219287](https://vanban.chinhphu.vn/?pageid=27160&docid=219287) | 26/08 | Mai Lương Khôi, Nguyễn Văn Gấu, Nguyễn Văn Tiến, Nguyễn Đức Thái, Nguyễn Văn Long | Quy định phối hợp giữa các cơ quan thực hiện thống kê giám định tư pháp trong tố tụng hình sự (TTLT 5 cơ quan) |
-| 7 | 39/2026/NQ-CP | [219280](https://vanban.chinhphu.vn/?pageid=27160&docid=219280) | 25/08 | Hồ Quốc Dũng | Về cơ chế chuyển tiếp sử dụng nhãn, bao bì hàng hóa đã in tên cũ khi doanh nghiệp thay đổi tên nhưng không thay đổi pháp nhân |
+| 7 | 39/2026/NQ-CP | [219280](https://vanban.chinhphu.vn/?pageid=27160&docid=219280) | 25/08 | Hồ Quốc Dũng | Về cơ chế chuyển tiếp sử dụng nhãn, bao bì hàng hóa đã in tên cũ khi doanh nghiệp thay đổi tên nhưng không thay đổi pháp nhân | **Hoàn thiện** |
 | 8 | 126/2026/TT-BTC | [219321](https://vanban.chinhphu.vn/?pageid=27160&docid=219321) | 24/08 | Tạ Anh Tuấn | Quy định chi tiết chi phí thực tế để in, sao, chụp và gửi thông tin (Luật Tiếp cận thông tin 01/2026/QH16) |
 | 9 | 66/2026/TT-BXD | [219288](https://vanban.chinhphu.vn/?pageid=27160&docid=219288) | 24/08 | Lê Anh Tuấn | Quy định về quản lý, bảo trì công trình hàng không |
 | 10 | 12/2026/QH16 | [219298](https://vanban.chinhphu.vn/?pageid=27160&docid=219298) | 23/08 | Trần Thanh Mẫn | Luật Phổ biến, giáo dục pháp luật |
