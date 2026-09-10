@@ -1,3 +1,18 @@
+### Cập nhật 2026-09-11 v197 — Hoàn thiện Quyết định 22/2026/QĐ-TTg (commit 13c034be + 677653bf — 02:46/03:00 ICT)
+
+- **Phạm vi**: crawl toàn văn **Quyết định 22/2026/QĐ-TTg** Sửa đổi chế độ bồi dưỡng giám định tư pháp (docid [218075](https://vanban.chinhphu.vn/?pageid=27160&docid=218075), BH 01/05/2026, hiệu lực 01/05/2026, ký **Lê Tiến Châu** — PHÓ THỦ TƯỚNG), chuyển trạng thái "Chưa hoàn thiện" (stub layout=page, ~2.4KB) → "**Hoàn thiện**".
+- **File**: `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` (cập nhật, ~4.4KB / 220 dòng; layout `vanban` chuẩn).
+- **Nguồn**: vanban.chinhphu.vn docid 218075 — đã hiệu chỉnh từ docid 219200 (lỗi match ban đầu). PDF signed datafiles.chinhphu.vn.
+- **Cấu trúc**: **4 Điều** (range 1–4, Missing [] Duplicate []) + **không có Chương** (Quyết định đơn chương) + khối quốc hiệu/tựa QUYẾT ĐỊNH + khối **Nơi nhận** (18 đầu目, Lưu: VT, PL(2b)) + chữ ký **KT. THỦ TƯỚNG / PHÓ THỦ TƯỚNG / Lê Tiến Châu**.
+- **Nội dung cốt lõi**: Điều 1 sửa đổi mức bồi dưỡng giám định (ma túy, ADN, thương tích, độc chất, mô bệnh học, qua hồ sơ; tăng 20% từ 10 mẫu trở lên; trường hợp giám định viên hình sự áp dụng theo ngày công); Điều 2 sửa đổi nguồn kinh phí và nguyên tắc chi trả (NSNN bảo đảm cho hình sự/tử thi; đương sự chi cho dân sự/hành chính; tạm ứng/thanh toán qua Kho bạc NSNN); Điều 3 sửa đổi, bãi bỏ một số khoản của Điều 6 (bãi bỏ khoản 4; sửa khoản 5, 6 về dự toán, cấp phát, báo cáo Bộ Tư pháp); Điều 4 điều khoản thi hành (hiệu lực 01/05/2026; chi trả theo QĐ 08/2025/QĐ-TTg trước đó; trách nhiệm các bộ/địa phương).
+- **Quality gate**: OCR issues **0** (sau loại false-positive); Điều 4/4 range 1–4 Missing [] Duplicate []; không có Chương; file NFC; 0 Cyrillic; 0 ghi chú debug/crawler/placeholder; `git diff --check` pass.
+- **Commits**:
+  - `13c034be` — "crawl: 22/2026/QĐ-TTg - Sửa đổi chế độ bồi dưỡng giám định tư pháp toàn văn (docid 219200, OCR quality gate pass, 4 Điều/0 Chương)"
+  - `677653bf` — "fix: 22/2026/QĐ-TTg - hiệu chỉnh docid 219200→218075 (xác minh vanban.chinhphu.vn) + sửa OCR 'trung°W'→'trung ương' (docid 218075, OCR quality gate pass, 4 Điều/0 Chương)"
+- **PR**: #264 heartbeat active — cần Sếp review.
+
+---
+
 ### Cập nhật 2026-09-07 v196 — Crawl Nghị quyết 39/2026/NQ-CP (commit 5eee2611 — 23:05 ICT)
 
 - **Phạm vi**: crawl toàn văn **Nghị quyết 39/2026/NQ-CP** Về cơ chế chuyển tiếp sử dụng nhãn, bao bì hàng hóa đã in tên cũ khi doanh nghiệp thay đổi tên nhưng không thay đổi pháp nhân và chủ thể chịu trách nhiệm về hàng hóa (docid [219280](https://vanban.chinhphu.vn/?pageid=27160&docid=219280), BH 25/08/2026, hiệu lực 25/08/2026, ký Hồ Quốc Dũng), chuyển trạng thái "Chưa có" (track v193) → "**Hoàn thiện**".
