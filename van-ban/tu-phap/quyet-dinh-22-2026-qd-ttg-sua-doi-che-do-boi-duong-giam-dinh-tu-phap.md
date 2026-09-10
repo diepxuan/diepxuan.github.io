@@ -11,7 +11,7 @@ tags:
   - boi-duong
   - tu-phap
 docid: 218075
-source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn; congbao.chinhphu.vn
 ---
 
 # Quyết định 22/2026/QĐ-TTg - Sửa đổi chế độ bồi dưỡng giám định tư pháp
