@@ -10,7 +10,7 @@ tags:
   - giam-dinh-tu-phap
   - boi-duong
   - tu-phap
-docid: 219200
+docid: 218075
 source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
@@ -89,7 +89,7 @@ Cơ quan có thẩm quyền tiến hành tố tụng có trách nhiệm tạm �
 - Viện kiểm sát nhân dân tối cao;
 - Kiểm toán nhà nước;
 - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
-- Cơ quan trung°W của các tổ chức chính trị - xã hội;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
 - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
 - Lưu: VT, PL(2b).
 
