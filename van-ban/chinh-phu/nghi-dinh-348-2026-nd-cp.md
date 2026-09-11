@@ -27,7 +27,7 @@ Quy định về điều kiện cơ sở đào tạo, huấn luyện và tổ ch
 | Ngày hiệu lực | 01/11/2026 |
 | Cơ quan ban hành | Chính phủ |
 | Người ký | Phạm Gia Túc |
-| Trích yếu | Quy định về điều kiện cơ sở đào tạo, huấn luyện và tổ chức tuyển dụng, cung ứng thủy viên hàng hải |
+| Trích yếu | Quy định về điều kiện cơ sở đào tạo, huấn luyện và tổ chức tuyển dụng, cung ứng thuyền viên hàng hải |
 | DocID | 219424 |
 | Nguồn | vanban.chinhphu.vn; datafiles.chinhphu.vn |
 
