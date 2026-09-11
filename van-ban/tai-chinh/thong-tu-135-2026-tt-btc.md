@@ -124,7 +124,7 @@ Nơi nhận:
 - Cổng thông tin điện tử Chính phủ;
 - Cổng thông tin điện tử Bộ Tài chính;
 - Các đơn vị thuộc Bộ Tài chính;
-- Lưu: VT, CST (440b).
+- Lưu: VT, CST (140b).
 
 KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
