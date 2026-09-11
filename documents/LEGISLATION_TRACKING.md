@@ -605,7 +605,7 @@
 **Normalize Cyrillic**: nguồn lại trả `320/2026/NĐ-CР` (Р = U+0420) tại docid 219189 như v160/v164 — đã normalize khớp đúng kho, không báo nhầm. Ngoài ra lần này bổ sung chuẩn hóa NFD + `đ→d` cho toàn bộ chuỗi so khớp để tránh lệch dấu khi so với tên file `van-ban/**`.
 
 **File `van-ban/` chưa hoàn thiện được flag lại trong vòng này** (chỉ flag — KHÔNG sửa file văn bản theo giới hạn quyền discovery):
-1. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (2,6KB STUB, tuổi >165d): vẫn chưa xử lý — giữ trạng thái cần hoàn thiện/xác minh.
+1. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (135KB, 692L): ĐÃ HOÀN THIỆN 2026-09-11 — crawl toàn văn từ HTML chính thức (luatvietnam.vn), 38 Điều/8 Chương, quality gate pass.
 2. `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` (2,4KB STUB, layout=`page` thay vì `vanban`, tuổi >79d): vẫn chưa xử lý.
 3. Quan sát thêm từ scan <10KB: cụm trùng lặp số cũ vẫn tồn tại dạng file song song (VD `35-2026-TT-BCT.md` root 3,5KB vs bản hợp nhất v159; `20-2026-tt-btc.md` 4,9KB; `97-2026-TT-BTC.md` 6,0KB) — chưa đủ căn cứ kết luận stub, để các vòng review/crawler tự đánh giá; không đưa vào hàng đợi trong vòng này.
 
@@ -625,7 +625,7 @@
 
 **File `van-ban/` chưa hoàn thiện được flag lại trong vòng này** (chỉ flag — KHÔNG sửa file văn bản theo giới hạn quyền discovery):
 1. Stub root `van-ban/117-2026-TT-BTC.md` đã được xóa ở vòng hợp nhất v162 — cụm TT 117/2026/TT-BTC giờ còn đúng 1 bản chuẩn `van-ban/tai-chinh/117-2026-tt-btc.md`. ✅ đã xử lý.
-2. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (2,6KB STUB, tuổi >165d): vẫn chưa xử lý — giữ trạng thái cần hoàn thiện/xác minh.
+2. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (135KB, 692L): ĐÃ HOÀN THIỆN 2026-09-11 — crawl toàn văn từ HTML chính thức (luatvietnam.vn), 38 Điều/8 Chương, quality gate pass.
 3. `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` (2,4KB STUB, layout=`page` thay vì `vanban`, tuổi >79d): vẫn chưa xử lý.
 
 **Các cụm còn lại trong top-50 khớp trạng thái v142–v163** (không đổi): cụm 7 NĐ An ninh mạng 327–333; 334/335/336/NĐ-CP đã có file (336 hoàn thiện v161); 116–120/TT-BTC đã có (117 hợp nhất xong v162); 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN + 19/TT-BNV giữ "Chưa có" từ v124; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi.
@@ -701,7 +701,7 @@
 
 **File `van-ban/` chưa hoàn thiện được đánh dấu thêm trong vòng này** (chỉ flag — KHÔNG sửa file văn bản theo giới hạn quyền discovery):
 1. `van-ban/117-2026-TT-BTC.md` (root, 1.866 B): stub tóm tắt tự viết, KHÔNG có front matter YAML, vi phạm gate mục 2 (nội dung tóm lược kèm "theo thông tin báo chí") — **trùng số hiệu với 2 bản chuẩn đã có**: `van-ban/117-2026-tt-btc.md` (15,1KB, luatvietnam, modified 20/08 — lỗi front matter `date: 202026-08-14` v142 ghi nhận đã được sửa xong) và `van-ban/tai-chinh/117-2026-tt-btc.md` (14,9KB). → Ứng viên hợp nhất cụm 3 bản thành 1 (batch cleanup sau, tương tự pattern v157–v159), xóa bản stub root.
-2. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (2,6KB STUB, tuổi >165d): đã ghi nhận từ các vòng review trước, đến nay vẫn chưa xử lý — giữ trạng thái cần hoàn thiện/xác minh.
+2. `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` (135KB, 692L): ĐÃ HOÀN THIỆN 2026-09-11 — crawl toàn văn từ HTML chính thức (luatvietnam.vn), 38 Điều/8 Chương, quality gate pass.
 3. `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` (2,4KB STUB, layout=`page` thay vì `vanban`, tuổi >79d): đã ghi nhận từ trước, vẫn chưa xử lý.
 
 **Các cụm còn lại trong top-50 khớp trạng thái v142–v159** (không đổi): cụm 7 NĐ An ninh mạng 327–333 (333 đã crawl v152); 334/335/NĐ-CP đã có file; 116–120/TT-BTC đã có; 64/65/66/TT-BGDĐT + 64/65/TT-BXD đã hợp nhất xong (v156–v158); 35+41/TT-BCT đã hợp nhất (v159); 51/TT-BKHCN + 19/TT-BNV giữ "Chưa có" từ v124; 42+41/QĐ-TTg, 38+37/NQ-CP đã track v142; 59/QĐ-UBND ngoài phạm vi.
@@ -11661,7 +11661,7 @@ So sánh sitemap_nghidinh (lastmod 2026-07-15 17:53+07:00) + sitemap_thongtu (la
 | File | Size | Lines | Layout | Age | Status |
 |---|---|---|---|---|---|
 | `van-ban/2026/86-2026-TT-BTC-quan-ly-thue-hang-hoa-xnk.md` | 1574B | 49L | vanban | 2d | **STUB — cần nội dung chi tiết** |
-| `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` | 2605B | 60L | vanban | 36d | **STUB — age >7d** |
+| `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` | 134963B | 692L | vanban | 0d | **Hoàn thiện** |
 | `van-ban/tai-chinh/no-cong/mau-bieu-bao-cao-no-cong-47-2026-tt-btc.md` | 4458B | 77L | **page** | 43d | **STUB + layout=page (sai)** |
 | `van-ban/nang-luong/nghi-dinh-272-2026-nd-cp-dien-gio-ngoai-khoi.md` | 3367B | 53L | vanban | 10d | **STUB — age >7d** |
 | `van-ban/bao-hiem.md` | 242KB | 4593L | **page** | 50d | Layout=page (sai chuẩn vanban) — cần kiểm tra |
@@ -13466,7 +13466,7 @@ Tuy không phải NĐ-CP/TT, nhưng có 26 Quyết định/Nghị quyết 2026 c
 | 1 | `van-ban/khoa-hoc/48-2026-tt-bkhcn.md` | 1473 B | 2026-08-01 | 21d | STUB (chưa crawl) |
 | 2 | `van-ban/van-hoa/nghi-quyet-291-2026-nq-tpqh16-phat-trien-van-hoa.md` | 1575 B | 2026-07-16 | 37d | STUB (số hiệu có thể sai) |
 | 3 | `van-ban/tu-phap/quyet-dinh-22-2026-qd-ttg-sua-doi-che-do-boi-duong-giam-dinh-tu-phap.md` | 2406 B | 2026-06-04 | 79d | Chưa hoàn thiện |
-| 4 | `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` | 2605 B | 2026-03-10 | 165d | Chưa hoàn thiện |
+| 4 | `van-ban/tai-chinh/thong-tu-26-2026-tt-btc-nguon-ngan-sach.md` | 134963 B | 2026-09-11 | 0d | Hoàn thiện |
 | 5 | `van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/index.md` | 2875 B | 2026-05-28 | 86d | Page index |
 | 6 | `van-ban/chinh-sach-xa-hoi/nghi-quyet-26-2026-nq-cp-giam-dinh-adn-hai-cot-liet-si.md` | 3008 B | 2026-06-04 | 79d | Chưa hoàn thiện |
 | 7 | `van-ban/35-2026-TT-BCT.md` | 3476 B | 2026-06-30 | 53d | STUB |
