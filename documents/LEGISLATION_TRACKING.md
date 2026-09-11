@@ -13554,3 +13554,24 @@ Tuy không phải NĐ-CP/TT, nhưng có 26 Quyết định/Nghị quyết 2026 c
 **Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
 **Thời gian**: 2026-08-28 23:29 ICT Asia/Saigon
 **Quyền**: chỉ đọc van-ban/ + gh pr/gh api; CHỈ ghi chú vào LEGISLATION_TRACKING.md; không sửa file van-ban, không push/commit/branch/PR.
+### Cập nhật 2026-09-12 v199 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 00:03 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp). Parse 50 hàng (docid **219342→219443**, ngày BH 24/08→10/09/2026 — **cửa sổ mở rộng lên so với v198**: đỉnh tăng 219437→**219443**, đáy tăng 219411→**219342**, đẩy 11 VB cũ khỏi top-50). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
+
+**Kết quả quét 50 VB**: **44/50 đã có file hoặc đã track chính thức → 5 VB MỚI phát hiện trong lần này + 1 VB bị bỏ sót ở v198 chưa có file, chưa track**. Tổng cộng có 6 VB trong cửa sổ này chưa có file/tracking; v198 ghi nhầm **134/2026/TT-BTC (docid 219443)** là đã có/đã track — kiểm tra grep + git log + find van-ban đều âm, nên được bổ sung vào danh sách dưới đây.
+
+| # | Số hiệu | Chủ đề (trích yếu) | Docid | Ngày BH | Người ký | PDF chp signed | Hiệu lực | Trạng thái |
+|---|---------|--------------------|-------|---------|----------|----------------|----------|------------|
+| 1 | **68/2026/TT-BXD** | Quy định việc xác định chi phí trực tiếp, tiêu chí phân bổ chi phí gián tiếp, dùng chung liên quan đến việc khai thác tài sản kết cấu hạ tầng hàng không do Nhà nước đầu tư, quản lý | [219442](https://vanban.chinhphu.vn/?pageid=27160&docid=219442) | 10/09/2026 | Lê Anh Tuấn | `cpp/files/vbpq/2026/9/68-bxd.signed.pdf` | 01-01-2027 | **Chưa có** |
+| 2 | **350/2026/NĐ-CP** | Quy định chế độ phụ cấp ưu đãi nghề đối với nhân viên y tế | [219438](https://vanban.chinhphu.vn/?pageid=27160&docid=219438) | 09/09/2026 | Phạm Thị Thanh Trà | `cpp/files/vbpq/2026/9/350_2026_nd-cp_09092026-signed.signed.pdf` | 09-09-2026 | **Hoàn thiện** |
+| 3 | **134/2026/TT-BTC** | Quy định chi tiết mẫu hồ sơ yêu cầu áp dụng hình thức chỉ định thầu, báo cáo đánh giá, báo cáo thẩm định, kiểm tra, giám sát, báo cáo tình hình thực hiện hoạt động đấu thầu | [219443](https://vanban.chinhphu.vn/?pageid=27160&docid=219443) | 09/09/2026 | Trần Quốc Phương | `cpp/files/vbpq/2026/9/134-btc.signed.pdf` | 09-09-2026 | **Chưa có** |
+| 4 | **34/2026/TT-BYT** | Hướng dẫn một số nội dung thực hiện Chương trình mục tiêu quốc gia về chăm sóc sức khỏe, dân số và phát triển giai đoạn 2026-2035, giai đoạn I: từ năm 2026 đến năm 2030 thuộc phạm vi quản lý nhà nước của Bộ Y tế | [219422](https://vanban.chinhphu.vn/?pageid=27160&docid=219422) | 08/09/2026 | Nguyễn Thị Liên Hương | `cpp/files/vbpq/2026/9/34-byt.signed.pdf` | 08-09-2026 | **Chưa có** |
+| 5 | **133/2026/TT-BTC** | Quy định việc quản lý và sử dụng kinh phí sự nghiệp từ ngân sách nhà nước thực hiện quản lý người sử dụng trái phép chất ma túy, chế độ áp dụng biện pháp đưa đi cai nghiện bắt buộc, công tác cai nghiện ma túy tự nguyện tại gia đình, cộng đồng, cơ sở cai nghiện ma túy, trường giáo dưỡng và công tác quản lý sau cai nghiện ma túy | [219430](https://vanban.chinhphu.vn/?pageid=27160&docid=219430) | 07/09/2026 | Trần Quốc Phương | `cpp/files/vbpq/2026/9/133-btc.signed.pdf` | 07-09-2026 | **Chưa có** |
+
+**Ghi chú**: 5 VB mới đều có PDF chữ ký số CAdES-BES tại datafiles.chinhphu.vn → áp dụng Signed PDF OCR Pipeline (pdftoppm 150 DPI + tesseract vie) khi Sếp quyết định crawl. 4 VB còn lại trong top-50 đã có file hoặc đã track chính thức (349/2026/NĐ-CP, 135/2026/TT-BTC, 46/2026/TT-NHNN, 348/2026/NĐ-CP — hoàn thiện v198).
+
+**Phát hiện sai sót v198**: v198 ghi "134/2026/TT-BTC đã có file hoặc đã track chính thức" nhưng kiểm tra thực tế (grep tracking, git log, find van-ban) đều không thấy → 134/2026/TT-BTC (docid 219443) được thêm vào danh sách "Chưa có" ở v199. Do đó, nếu đối chiếu lại toàn bộ cửa sổ v199 thì có 6 VB chưa có file/tracking, không phải 5.
+
+**Session**: agent:github-io:subagent:d2739958-0b69-485f-a9eb-e56e202e1859 (Đệ #1 Discovery v199)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-09-12 00:03 ICT Asia/Saigon
