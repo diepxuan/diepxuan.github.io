@@ -35,7 +35,7 @@ source: "vanban.chinhphu.vn; datafiles.chinhphu.vn; xaydungchinhsach.chinhphu.vn
 
 ### Điều 1. Phạm vi điều chỉnh
 
-Nghị định này quy định đối tượng áp dụng, nguyên tắc áp dụng, cách tính phụ cấp, mức hưởng, thời gian hưởng và nguồn chỉ trả của chế độ phụ cấp ưu đãi nghề đối với nhân viên y tế.
+Nghị định này quy định đối tượng áp dụng, nguyên tắc áp dụng, cách tính phụ cấp, mức hưởng, thời gian hưởng và nguồn chi trả của chế độ phụ cấp ưu đãi nghề đối với nhân viên y tế.
 
 ### Điều 2. Đối tượng áp dụng
 
@@ -135,7 +135,7 @@ c) Viên chức không trực tiếp làm chuyên môn y tế tại các đơn v
 
 4. Thời gian bị đình chỉ công tác, thời gian bị tạm giữ, tạm giam.
 
-### Điều 6. Nguồn kinh phí chỉ trả
+### Điều 6. Nguồn kinh phí chi trả
 
 Kinh phí để thực hiện chế độ phụ cấp quy định tại Nghị định này sử dụng từ các nguồn sau:
 
@@ -153,7 +153,7 @@ Kinh phí để thực hiện chế độ phụ cấp quy định tại Nghị �
 
 3. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng căn cứ tính chất công việc, mức độ độc hại, nguy hiểm, điều kiện phát triển kinh tế - xã hội và khả năng cân đối nguồn lực để quy định cụ thể mức phụ cấp ưu đãi nghề đối với người làm chuyên môn y tế thuộc lực lượng vũ trang. Mức phụ cấp được điều chỉnh tăng thêm không quá 10% so với mức đang hưởng và mức hưởng tối đa không quá 30%.
 
-4. Người đứng đầu đơn vị có trách nhiệm xác định đúng đối tượng, công việc, thời gian làm việc thực tế và mức phụ cấp ưu đãi nghề theo quy định của Nghị định này, công khai trong nội bộ đơn vị danh sách người hưởng phụ cấp ưu đãi nghề, định kỳ rà soát khi có thay đổi về vị trí việc làm, nhiệm vụ được phân công, điều kiện làm việc hoặc nguồn kinh phí chỉ trả.
+4. Người đứng đầu đơn vị có trách nhiệm xác định đúng đối tượng, công việc, thời gian làm việc thực tế và mức phụ cấp ưu đãi nghề theo quy định của Nghị định này, công khai trong nội bộ đơn vị danh sách người hưởng phụ cấp ưu đãi nghề, định kỳ rà soát khi có thay đổi về vị trí việc làm, nhiệm vụ được phân công, điều kiện làm việc hoặc nguồn kinh phí chi trả.
 
 5. Cơ quan quản lý cấp trên, cơ quan tài chính và cơ quan có thẩm quyền thực hiện kiểm tra, thanh tra, xử lý hoặc kiến nghị xử lý trường hợp xác định sai đối tượng, sai mức hưởng, chỉ trả không đúng quy định, gây thất thoát, lãng phí ngân sách nhà nước hoặc nguồn tài chính của đơn vị.
 
