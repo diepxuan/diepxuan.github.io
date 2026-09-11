@@ -33,15 +33,15 @@ source: "vanban.chinhphu.vn; datafiles.chinhphu.vn"
 
 ## VĂN BẢN
 
-### Chương I QUY ĐỊNH CHUNG
+## Chương I QUY ĐỊNH CHUNG
 
-### Điều 1. Phạm vi điều chỉnh**
+### Điều 1. Phạm vi điều chỉnh
 
 Thông tư này quy định chi tiết và hướng dẫn thi hành khoản 2 Điều 2 , khoản 1 và khoản 4 Điều 4 , Điều 18 , khoản 4 Điều 19 , khoản 4 và khoản 11 Điều 21 , khoản 2 Điều 29 , khoản 3 Điều 31 , khoản 2 Điều 34 , khoản 2 Điều 38 Nghị định số 73/2026/NĐ-CP ngày 10 tháng 3 năm 2026 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ngân sách nhà nước (sau đây gọi tắt là Nghị định số 73/2026/NĐ-CP của Chính phủ).
 
 2. Các nội dung quy định chi tiết và hướng dẫn về tổ chức thu, thu qua ủy nhiệm thu, hoàn trả các khoản thu và thu viện trợ vào ngân sách nhà nước; quy trình, thủ tục, hồ sơ thanh toán đối với các nhiệm vụ chi ngân sách nhà nước từ nguồn vốn vay, viện trợ nước ngoài, chi dự trữ quốc gia, chi đầu tư phát triển từ nguồn vốn đầu tư công; mở và sử dụng tài khoản tại Kho bạc Nhà nước; hạch toán kế toán và nhập dữ liệu dự toán trên hệ thống thông tin quản lý ngân sách và kho bạc, hạch toán, kế toán các khoản thu, chi và tổ chức thực hiện công tác kế toán ngân sách nhà nước, Bộ Tài chính có văn bản hướng dẫn hoặc phối hợp với các cơ quan liên quan có văn bản hướng dẫn riêng.
 
-### Điều 2. Đối tượng áp dụng**
+### Điều 2. Đối tượng áp dụng
 
 1. Các cơ quan nhà nước, tổ chức chính trị và Mặt trận Tổ quốc Việt Nam.
 
@@ -49,9 +49,9 @@ Thông tư này quy định chi tiết và hướng dẫn thi hành khoản 2 Đ
 
 3. Các tổ chức và cá nhân khác có liên quan đến ngân sách nhà nước.
 
-### Chương II PHÂN CẤP NGUỒN THU, NHIỆM VỤ CHI GIỮA NGÂN SÁCH TRUNG ƯƠNG VÀ NGÂN SÁCH ĐỊA PHƯƠNG, XÁC ĐỊNH SỐ BỔ SUNG TỪ NGÂN SÁCH CẤP TRÊN CHO NGÂN SÁCH CẤP DƯỚI
+## Chương II PHÂN CẤP NGUỒN THU, NHIỆM VỤ CHI GIỮA NGÂN SÁCH TRUNG ƯƠNG VÀ NGÂN SÁCH ĐỊA PHƯƠNG, XÁC ĐỊNH SỐ BỔ SUNG TỪ NGÂN SÁCH CẤP TRÊN CHO NGÂN SÁCH CẤP DƯỚI
 
-### Điều 3. Nguồn thu của ngân sách trung ương**
+### Điều 3. Nguồn thu của ngân sách trung ương
 
 1. Các khoản thu ngân sách trung ương hưởng 100% (bao gồm cả khoản tiền chậm nộp theo quy định của Luật Quản lý thuế), bao gồm:
 
@@ -105,7 +105,7 @@ e) Thuế giá trị gia tăng (không bao gồm số thuế giá trị gia tăn
 
 g) Tiền sử dụng đất, tiền thuê đất, trừ thu tiền sử dụng đất gắn với tài sản trên đất do các cơ quan, tổ chức, đơn vị thuộc trung ương quản lý quy định tại điểm h khoản 1 Điều này, các địa phương không nhận bổ sung cân đối, ngân sách trung ương hưởng 20%; ngân sách địa phương hưởng 80%. Các địa phương nhận bổ sung cân đối, ngân sách trung ương hưởng 15%; ngân sách địa phương hưởng 85%. Riêng thành phố Hà Nội thực hiện phân chia 100% cho ngân sách thành phố theo cơ chế, chính sách tài chính - ngân sách đặc thù quy định tại Luật Thủ đô. Việc phân chia số tiền thu được từ khai thác quỹ đất khu vực TOD thực hiện theo quy định tại khoản 3 Điều 25 Luật Đường sắt năm 2025 hoặc các cơ chế, chính sách tài chính - ngân sách đặc thù tại các Nghị quyết của Quốc hội.
 
-### Điều 4. Nhiệm vụ chi của ngân sách trung ương**
+### Điều 4. Nhiệm vụ chi của ngân sách trung ương
 
 1. Chi đầu tư phát triển:
 
@@ -157,7 +157,7 @@ n) Các khoản chi thường xuyên khác theo quy định của pháp luật.
 
 9. Chi bổ sung cân đối ngân sách, bổ sung có mục tiêu cho ngân sách địa phương.
 
-### Điều 5. Nguồn thu của ngân sách địa phương**
+### Điều 5. Nguồn thu của ngân sách địa phương
 
 1. Các khoản thu ngân sách địa phương hưởng 100% (bao gồm cả khoản tiền chậm nộp theo quy định của Luật Quản lý thuế), bao gồm:
 
@@ -205,7 +205,7 @@ u) Các khoản thu khác theo quy định của pháp luật (bao gồm cả th
 
 3. Thu bổ sung cân đối ngân sách, bổ sung có mục tiêu từ ngân sách trung ương.
 
-### Điều 6. Nhiệm vụ chi của ngân sách địa phương**
+### Điều 6. Nhiệm vụ chi của ngân sách địa phương
 
 1. Chi đầu tư phát triển:
 
@@ -257,7 +257,7 @@ m) Các khoản chi thường xuyên khác theo quy định của pháp luật, 
 
 9. Chi hỗ trợ thực hiện một số nhiệm vụ quy định tại các điểm a, b và c khoản 5 Điều 9 của Luật Ngân sách nhà nước .
 
-### Điều 7. Nguyên tắc phân cấp nguồn thu, nhiệm vụ chi giữa ngân sách các cấp ở địa phương**
+### Điều 7. Nguyên tắc phân cấp nguồn thu, nhiệm vụ chi giữa ngân sách các cấp ở địa phương
 
 1. Việc phân cấp nguồn thu, nhiệm vụ chi giữa ngân sách cấp tỉnh và ngân sách cấp xã thực hiện theo quy định tại Điều 9 và Điều 41 Luật Ngân sách nhà nước .
 
@@ -265,7 +265,7 @@ m) Các khoản chi thường xuyên khác theo quy định của pháp luật, 
 
 3. Bảo đảm tỷ lệ phần trăm (%) phân chia các khoản thu cho ngân sách cấp tỉnh và ngân sách cấp xã bằng tỷ lệ phần trăm (%) phân chia của từng khoản thu ngân sách địa phương được hưởng (bao gồm các khoản thu ngân sách địa phương hưởng 100% và các khoản thu phân chia giữa ngân sách trung ương và ngân sách địa phương).
 
-### Điều 8. Xác định tỷ lệ phần trăm (%) phân chia các khoản thu phân chia giữa ngân sách các cấp**
+### Điều 8. Xác định tỷ lệ phần trăm (%) phân chia các khoản thu phân chia giữa ngân sách các cấp
 
 1. Xác định tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách trung ương và ngân sách địa phương:
 
@@ -283,7 +283,7 @@ b) Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp 
 
 c) Trong trường hợp Trung ương quyết định điều chỉnh tỷ lệ phân chia khoản thu giữa ngân sách trung ương và ngân sách địa phương hoặc có biến động lớn về thu, chi ngân sách địa phương hoặc có chênh lệch lớn về số thu, chi ngân sách giữa cấp tỉnh và cấp xã hoặc giữa các địa phương cấp xã cần phải điều chỉnh tỷ lệ phân chia các khoản thu cho phù hợp, Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp điều chỉnh tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách cấp tỉnh và ngân sách cấp xã.
 
-### Điều 9. Xác định số bổ sung từ ngân sách cấp trên cho ngân sách cấp dưới**
+### Điều 9. Xác định số bổ sung từ ngân sách cấp trên cho ngân sách cấp dưới
 
 1. Việc xác định số bổ sung cân đối ngân sách từ ngân sách cấp trên cho ngân sách cấp dưới thực hiện theo quy định tại Điều 42 Luật Ngân sách nhà nước :
 
@@ -293,9 +293,9 @@ b) Đối với số bổ sung cân đối từ ngân sách cấp tỉnh cho ng�
 
 2. Việc xác định số bổ sung có mục tiêu từ ngân sách cấp trên cho ngân sách cấp dưới thực hiện theo quy định tại Điều 43 Luật Ngân sách nhà nước . Việc sử dụng vốn, kinh phí bổ sung có mục tiêu phải theo đúng mục tiêu quy định. Trường hợp ngân sách cấp dưới sử dụng không đúng mục tiêu hoặc sử dụng không hết, phải hoàn trả cho ngân sách cấp trên. Thời hạn hoàn trả chậm nhất là 30 ngày kể từ ngày đơn vị sử dụng ngân sách hoặc cơ quan có thẩm quyền xác định số vốn, kinh phí bổ sung có mục tiêu sử dụng không đúng mục tiêu hoặc sử dụng không hết. Đối với tiền thưởng vượt thu từ ngân sách cấp trên và số bổ sung có mục tiêu từ ngân sách trung ương cho ngân sách địa phương từ số tăng thu ngân sách trung ương theo các cơ chế tài chính - ngân sách đặc thù, địa phương sử dụng theo quy định tại điểm c khoản 3 Điều 61 Luật Ngân sách nhà nước , Luật Thủ đô, các Nghị quyết của Quốc hội về cơ chế, chính sách tài chính - ngân sách đặc thù và điểm c khoản 5 Điều 26 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
-### Chương III LẬP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC HẰNG NĂM
+## Chương III LẬP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC HẰNG NĂM
 
-### Điều 10. Mẫu biểu lập dự toán ngân sách nhà nước tại các cơ quan thu ngân sách**
+### Điều 10. Mẫu biểu lập dự toán ngân sách nhà nước tại các cơ quan thu ngân sách
 
 1. Việc lập dự toán thu ngân sách nhà nước tại các cơ quan thu ngân sách thực hiện theo quy định của Luật Ngân sách nhà nước và Điều 12 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
@@ -303,7 +303,7 @@ b) Đối với số bổ sung cân đối từ ngân sách cấp tỉnh cho ng�
 
 3. Cơ quan, đơn vị được giao nhiệm vụ thu phí, lệ phí và các khoản thu khác lập dự toán thu từng loại phí, lệ phí và thu khác, chi tiết tổng số thu, số nộp ngân sách, số phí được để lại chi theo quy định của pháp luật, gửi đơn vị dự toán cấp trên trực tiếp để tổng hợp, gửi đơn vị dự toán cấp I (trường hợp đơn vị dự toán cấp trên trực tiếp không phải là đơn vị dự toán cấp I); đơn vị dự toán cấp I tổng hợp chung trong dự toán thu, chi ngân sách và gửi cơ quan thuế, cơ quan tài chính cùng cấp theo mẫu biểu số 6 Phụ lục I kèm theo Thông tư này .
 
-### Điều 11. Mẫu biểu lập dự toán ngân sách nhà nước tại các đơn vị dự toán ngân sách và Bộ chủ chương trình mục tiêu quốc gia**
+### Điều 11. Mẫu biểu lập dự toán ngân sách nhà nước tại các đơn vị dự toán ngân sách và Bộ chủ chương trình mục tiêu quốc gia
 
 1. Việc lập dự toán ngân sách nhà nước tại các đơn vị dự toán ngân sách thực hiện theo quy định của Luật Ngân sách nhà nước và Điều 13 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
@@ -315,7 +315,7 @@ b) Đối với số bổ sung cân đối từ ngân sách cấp tỉnh cho ng�
 
 5. Các Bộ chủ chương trình mục tiêu quốc gia căn cứ phạm vi tổng mức kinh phí đã được phê duyệt và khả năng thực hiện, hướng dẫn về mục tiêu, nhiệm vụ của Chương trình năm dự toán để các Bộ, cơ quan trung ương và Ủy ban nhân dân các tỉnh, thành phố lập dự toán ngân sách năm sau (chi tiết chi đầu tư phát triển; chi thường xuyên theo từng nhiệm vụ, dự án và lĩnh vực chi) theo mẫu biểu số 10.1 Phụ lục I kèm theo Thông tư này , gửi đến Bộ Tài chính, Kiểm toán Nhà nước, các Bộ chủ chương trình mục tiêu quốc gia trước ngày 10 tháng 7 hằng năm. Bộ chủ chương trình mục tiêu quốc gia tổng hợp, lập phương án phân bổ chi tiết dự toán chi ngân sách năm sau thực hiện chương trình mục tiêu quốc gia (chi tiết chi đầu tư phát triển; chi thường xuyên theo từng nhiệm vụ, dự án và lĩnh vực chi) cho từng Bộ, cơ quan trung ương và từng tỉnh, thành phố theo mẫu biểu số 10.2 Phụ lục I kèm theo Thông tư này , gửi Bộ Tài chính trước ngày 10 tháng 8 hằng năm, đồng thời gửi dữ liệu điện tử báo cáo (trừ các nội dung thuộc danh mục bảo vệ bí mật nhà nước theo quy định) vào nền tảng Cơ sở dữ liệu quốc gia về tài chính (dữ liệu phải được ký số theo quy định của Luật Giao dịch điện tử năm 2023 và các văn bản pháp luật có liên quan).
 
-### Điều 12. Mẫu biểu lập dự toán ngân sách nhà nước, phương án phân bổ ngân sách trung ương và dự toán ngân sách địa phương, phương án phân bổ ngân sách địa phương**
+### Điều 12. Mẫu biểu lập dự toán ngân sách nhà nước, phương án phân bổ ngân sách trung ương và dự toán ngân sách địa phương, phương án phân bổ ngân sách địa phương
 
 1. Bộ Tài chính tổng hợp, lập dự toán ngân sách nhà nước và phương án phân bổ ngân sách trung ương trình cấp có thẩm quyền quyết định theo quy định của Luật Ngân sách nhà nước, quy định tại các điểm a, b khoản 1 Điều 14 , điểm a khoản 5 và các khoản 7, 8 Điều 15 Nghị định số 73/2026/NĐ-CP của Chính phủ và theo hệ thống mẫu biểu quy định tại Quy chế của Ủy ban Thường vụ Quốc hội về lập, thẩm tra, quyết định dự toán ngân sách nhà nước, phương án phân bổ ngân sách trung ương và phê chuẩn quyết toán ngân sách nhà nước.
 
@@ -331,9 +331,9 @@ c) Dự án đầu tư đề nghị sử dụng từ nguồn vốn vay phải n�
 
 4. Căn cứ quy định của Luật Ngân sách nhà nước, Nghị định số 73/2026/NĐ-CP của Chính phủ, Ủy ban nhân dân cấp tỉnh quy định cụ thể thời gian lập, gửi dự toán ngân sách của các cơ quan, đơn vị trực thuộc và Ủy ban nhân dân cấp xã, báo cáo kế hoạch thu, chi tài chính năm sau của các quỹ tài chính nhà nước ngoài ngân sách (đối với cơ quan, đơn vị được giao quản lý quỹ) phù hợp với yêu cầu, nội dung và thời gian lập dự toán ngân sách địa phương.
 
-### Chương IV CHẤP HÀNH NGÂN SÁCH NHÀ NƯỚC
+## Chương IV CHẤP HÀNH NGÂN SÁCH NHÀ NƯỚC
 
-### Điều 13. Mẫu biểu giao dự toán và báo cáo thuyết minh phân bổ của đơn vị dự toán ngân sách**
+### Điều 13. Mẫu biểu giao dự toán và báo cáo thuyết minh phân bổ của đơn vị dự toán ngân sách
 
 1. Việc phân bổ và giao dự toán ngân sách nhà nước thực hiện theo quy định của Luật Ngân sách nhà nước, Điều 19 của Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
@@ -341,13 +341,13 @@ c) Dự án đầu tư đề nghị sử dụng từ nguồn vốn vay phải n�
 
 3. Đơn vị dự toán cấp I ở địa phương giao dự toán ngân sách cho các đơn vị dự toán ngân sách trực thuộc theo mẫu B , mẫu C Phụ lục II , các mẫu biểu số 47, 48 Phụ lục I kèm theo Thông tư này , đồng thời gửi cơ quan tài chính để kiểm tra, gửi Kho bạc Nhà nước khu vực quản lý địa bàn cùng cấp và Kho bạc Nhà nước nơi đơn vị sử dụng ngân sách giao dịch (gửi bản chi tiết theo từng đơn vị sử dụng ngân sách) để thực hiện. Sở Tài chính trình Ủy ban nhân dân cấp tỉnh quy định các tài liệu báo cáo thuyết minh căn cứ phân bổ, giao dự toán ngân sách đơn vị dự toán cấp I gửi cơ quan tài chính để phục vụ công tác kiểm tra việc phân bổ, giao dự toán của các đơn vị dự toán cấp I tại các cấp ở địa phương.
 
-### Điều 14. Tổ chức thu ngân sách nhà nước**
+### Điều 14. Tổ chức thu ngân sách nhà nước
 
 1. Việc tổ chức thu ngân sách nhà nước thực hiện theo quy định của Luật Ngân sách nhà nước và Điều 20 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
 2. Các khoản thu ngân sách nhà nước bằng ngoại tệ được hạch toán thu vào quỹ ngoại tệ của ngân sách nhà nước, đồng thời hạch toán thu ngân sách nhà nước bằng Đồng Việt Nam theo tỷ giá hạch toán do Bộ Tài chính quy định. Các khoản thu ngân sách bằng ngoại tệ phát sinh ở địa phương phải tập trung về Kho bạc Nhà nước theo quy định của Bộ Tài chính. Ngân sách các cấp ở địa phương không được thành lập quỹ ngoại tệ.
 
-### Điều 15. Tổ chức chi ngân sách nhà nước**
+### Điều 15. Tổ chức chi ngân sách nhà nước
 
 1. Việc tổ chức chi ngân sách nhà nước thực hiện theo quy định của Luật Ngân sách nhà nước, Luật Đầu tư công, Điều 21 của Nghị định số 73/2026/NĐ-CP của Chính phủ và Nghị định số 254/2025/NĐ-CP ngày 26 tháng 9 năm 2025 của Chính phủ quy định về quản lý, thanh toán, quyết toán dự án sử dụng vốn đầu tư công. Trường hợp các cơ quan, tổ chức, đơn vị dự toán ngân sách không chấp hành đầy đủ, kịp thời chế độ báo cáo, quyết toán, báo cáo tài chính và báo cáo khác theo quy định, cơ quan tài chính có quyền yêu cầu Kho bạc Nhà nước tạm đình chỉ chi ngân sách theo quy định tại khoản 4 Điều 21 Nghị định số 73/2026/NĐ-CP của Chính phủ, trừ các khoản chi lương, phụ cấp, trợ cấp xã hội, học bổng và một số khoản chi cần thiết khác để bảo đảm hoạt động của bộ máy nhà nước (không bao gồm các khoản mua sắm trang thiết bị, sửa chữa); chi bổ sung cân đối ngân sách cho ngân sách cấp dưới; chi cho dự án chuyển tiếp thuộc các chương trình mục tiêu quốc gia, dự án quan trọng quốc gia; chi các dự án đầu tư chuyển tiếp quan trọng, cấp bách khác để khắc phục hậu quả thiên tai, thảm họa, dịch bệnh.
 
@@ -375,7 +375,7 @@ b) Vốn vay nợ, viện trợ ngoài nước trực tiếp cho các đơn vị
 
 c) Các khoản ghi thu, ghi chi ngân sách vào ngân sách năm nào thì quyết toán vào ngân sách năm đó.
 
-### Điều 16. Quản lý, hạch toán vay của ngân sách nhà nước**
+### Điều 16. Quản lý, hạch toán vay của ngân sách nhà nước
 
 1. Các khoản vay của ngân sách nhà nước được thực hiện trong phạm vi dự toán được cấp có thẩm quyền quyết định và được quản lý, hạch toán, kế toán trên tài khoản của ngân sách các cấp tương ứng. Trường hợp dự toán ngân sách địa phương được giao có các khoản vay trong nước và vay từ nguồn Chính phủ vay về cho vay lại, trong quá trình thực hiện được phép giải ngân thêm nguồn Chính phủ vay về cho địa phương vay lại, nhưng phải điều chỉnh giảm tương ứng số vay trong nước để bảo đảm tổng mức vay không vượt quá dự toán được giao; trường hợp không có khoản vay trong nước hoặc đã có khoản vay trong nước dẫn đến tổng mức vay vượt quá dự toán được giao thì địa phương báo cáo Bộ Tài chính để báo cáo Chính phủ xem xét, quyết định theo quy định tại khoản 5, Điều 3 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
@@ -389,7 +389,7 @@ b) Trường hợp có phát sinh chênh lệch giá bán trái phiếu, tín ph
 
 c) Đối với các khoản phát sinh chênh lệch giá trị mệnh giá của trái phiếu bị hoán đổi so với trái phiếu được hoán đổi, không hạch toán vào thu, chi ngân sách nhà nước; trường hợp chênh lệch dương thì hạch toán giảm dư nợ vay của ngân sách, trường hợp chênh lệch âm thì hạch toán tăng dư nợ vay của ngân sách ngay sau khi thực hiện hoán đổi trái phiếu.
 
-### Điều 17. Chi trả nợ vay của ngân sách nhà nước**
+### Điều 17. Chi trả nợ vay của ngân sách nhà nước
 
 1. Chi trả nợ vay của ngân sách nhà nước thực hiện theo quy định tại khoản 2 và khoản 3 Điều 4 Nghị định số 73/2026/NĐ-CP của Chính phủ. Trường hợp nhu cầu chi trả nợ thực tế vượt tổng dự toán chi trả nợ của ngân sách nhà nước được cơ quan có thẩm quyền giao, Bộ Tài chính (đối với ngân sách trung ương), Sở Tài chính (đối với ngân sách địa phương) tổng hợp, báo cáo cơ quan có thẩm quyền xem xét, quyết định.
 
@@ -403,7 +403,7 @@ c) Chi trả nợ vay ngoài nước, trước ngày đến hạn trả nợ 07 
 
 3. Quy trình chi và hạch toán chi trả nợ của ngân sách địa phương: căn cứ dự toán và nghĩa vụ trả nợ đến hạn, Sở Tài chính lập lệnh chi tiền gửi Kho bạc Nhà nước để thực hiện xuất quỹ ngân sách địa phương chi trả, đồng thời hạch toán giảm nợ vay (đối với các khoản trả nợ gốc) và hạch toán chi ngân sách địa phương (đối với các khoản trả lãi, phí và chi phí phát sinh khác từ khoản vay) theo quy định.
 
-### Điều 18. Chế độ báo cáo tình hình chấp hành ngân sách nhà nước**
+### Điều 18. Chế độ báo cáo tình hình chấp hành ngân sách nhà nước
 
 1. Việc báo cáo tình hình chấp hành ngân sách nhà nước thực hiện theo quy định của Luật Ngân sách nhà nước và Điều 29 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
@@ -429,9 +429,9 @@ i) Bộ Tài chính có quy định riêng về thời hạn và mẫu biểu Kh
 
 k) Ủy ban nhân dân cấp tỉnh quy định về thời hạn và mẫu biểu báo cáo quy định tại khoản 4 Điều 62 Luật Ngân sách nhà nước .
 
-### Chương V KẾ TOÁN VÀ QUYẾT TOÁN NGÂN SÁCH NHÀ NƯỚC
+## Chương V KẾ TOÁN VÀ QUYẾT TOÁN NGÂN SÁCH NHÀ NƯỚC
 
-### Điều 19. Xử lý hạch toán, kế toán chuyển nguồn sang năm sau**
+### Điều 19. Xử lý hạch toán, kế toán chuyển nguồn sang năm sau
 
 1. Việc chuyển nguồn ngân sách nhà nước thực hiện theo quy định tại Điều 66 Luật Ngân sách nhà nước và Điều 31 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
@@ -465,7 +465,7 @@ d) Kho bạc Nhà nước lập báo cáo số dư tạm ứng được chuyển
 
 5. Căn cứ các nhiệm vụ và tổng số kinh phí của ngân sách các cấp được chuyển sang ngân sách năm sau theo quy định, cơ quan tài chính (bao gồm cả cơ quan tài chính cấp xã) có văn bản gửi Kho bạc Nhà nước nơi giao dịch để Kho bạc Nhà nước hạch toán chi chuyển nguồn ngân sách năm trước sang năm sau, thu ngân sách năm sau từ nguồn ngân sách năm trước chuyển sang theo quy định.
 
-### Điều 20. Mẫu biểu quyết toán, báo cáo quyết toán ngân sách nhà nước**
+### Điều 20. Mẫu biểu quyết toán, báo cáo quyết toán ngân sách nhà nước
 
 1. Các đơn vị dự toán ngân sách quy định tại khoản 1 Điều 19 Nghị định số 73/2026/NĐ-CP của Chính phủ lập, tổng hợp, gửi báo cáo quyết toán ngân sách theo chế độ quy định; đồng thời báo cáo số liệu theo các mẫu biểu số 68 , 71 và 72 Phụ lục I kèm theo Thông tư này . Trong phạm vi 10 ngày làm việc kể từ ngày nhận được thông báo xét duyệt quyết toán ngân sách của đơn vị dự toán cấp trên trực tiếp, đơn vị giao dự toán thì đơn vị dự toán ngân sách cấp dưới, đơn vị được giao dự toán phải thực hiện đầy đủ nội dung trong thông báo xét duyệt quyết toán.
 
@@ -481,9 +481,9 @@ d) Kho bạc Nhà nước lập báo cáo số dư tạm ứng được chuyển
 
 7. Sau khi Hội đồng nhân dân phê chuẩn quyết toán ngân sách, chậm nhất là 05 ngày làm việc, Ủy ban nhân dân cấp dưới gửi cơ quan tài chính cấp trên nghị quyết của Hội đồng nhân dân phê chuẩn quyết toán ngân sách. Trường hợp quyết toán được Hội đồng nhân dân phê chuẩn có thay đổi so với báo cáo quyết toán của Ủy ban nhân dân đã gửi, cơ quan tài chính phải trình Ủy ban nhân dân gửi báo cáo bổ sung phần có thay đổi so với báo cáo đã gửi cơ quan tài chính cấp trên.
 
-### Chương VI HOẠT ĐỘNG TÀI CHÍNH KHÁC CỦA CẤP XÃ
+## Chương VI HOẠT ĐỘNG TÀI CHÍNH KHÁC CỦA CẤP XÃ
 
-### Điều 21. Phạm vi và nguyên tắc quản lý**
+### Điều 21. Phạm vi và nguyên tắc quản lý
 
 1. Các hoạt động tài chính khác phát sinh của xã, phường, đặc khu (sau đây gọi tắt là xã), gồm:
 
@@ -499,17 +499,17 @@ c) Hoạt động tài chính khác theo quy định của pháp luật.
 
 4. Các khoản thu, chi tài chính khác của xã phải được mở sổ ghi chép đầy đủ, cụ thể, rõ ràng, minh bạch chi tiết từng loại hoạt động.
 
-### Điều 22. Các hoạt động tài chính của thôn**
+### Điều 22. Các hoạt động tài chính của thôn
 
 1. Các khoản do thôn trực tiếp huy động đóng góp trên nguyên tắc tự nguyện của Nhân dân để sử dụng vào các mục đích cụ thể phục vụ cho lợi ích chung của cộng đồng thôn và không đưa vào ngân sách xã.
 
 2. Việc huy động đóng góp chỉ được thực hiện sau khi có sự thống nhất, tự nguyện của Nhân dân về chủ trương, mức huy động và phải báo cáo Ủy ban nhân dân cấp xã. Ủy ban nhân dân cấp xã hướng dẫn thôn mở sổ sách ghi chép đầy đủ, cụ thể các khoản thu, chi và công khai với Nhân dân kết quả huy động đóng góp, sử dụng. Khoản huy động đóng góp chỉ được sử dụng theo đúng nội dung công việc cụ thể mà Nhân dân đã thống nhất. Tiền huy động đóng góp chưa sử dụng thôn có thể báo cáo Ủy ban nhân dân cấp xã để gửi vào tài khoản tiền gửi của cơ quan chuyên môn quản lý về tài chính thuộc Ủy ban nhân dân cấp xã mở tại Kho bạc Nhà nước hoặc các tổ chức tín dụng theo quy định của pháp luật. Trường hợp được nhân dân trong thôn thống nhất, thôn có thể gửi tiền huy động đóng góp chưa sử dụng vào tài khoản tiền gửi của thôn mở tại các tổ chức tín dụng theo quy định của pháp luật do trưởng thôn làm chủ tài khoản. Các khoản lãi tiền gửi phát sinh sau khi trừ phí thanh toán theo quy định (nếu có) thì thôn được sử dụng cho nội dung công việc huy động đóng góp. Cơ quan chuyên môn quản lý về tài chính thuộc Ủy ban nhân dân cấp xã có nhiệm vụ giúp Ủy ban nhân dân cấp xã hướng dẫn, kiểm tra (khi cần thiết) về tài chính đối với hoạt động tài chính thôn.
 
-### Điều 23. Các khoản được ủy thác thu hộ, chi hộ Ủy ban nhân dân cấp xã giao các cơ quan, đơn vị chuyên môn của xã thực hiện các khoản được ủy thác thu hộ, chi hộ theo chế độ quy định, mở sổ sách theo dõi riêng từng khoản và không được thực hiện thu, chi ngoài phạm vi được ủy thác.**
+### Điều 23. Các khoản được ủy thác thu hộ, chi hộ Ủy ban nhân dân cấp xã giao các cơ quan, đơn vị chuyên môn của xã thực hiện các khoản được ủy thác thu hộ, chi hộ theo chế độ quy định, mở sổ sách theo dõi riêng từng khoản và không được thực hiện thu, chi ngoài phạm vi được ủy thác.
 
-### Chương VII CÔNG KHAI NGÂN SÁCH NHÀ NƯỚC
+## Chương VII CÔNG KHAI NGÂN SÁCH NHÀ NƯỚC
 
-### Điều 24. Công khai ngân sách nhà nước và ngân sách trung ương**
+### Điều 24. Công khai ngân sách nhà nước và ngân sách trung ương
 
 1. Công khai số liệu và báo cáo thuyết minh dự toán ngân sách nhà nước và phương án phân bổ ngân sách trung ương trình Quốc hội, gồm:
 
@@ -541,7 +541,7 @@ b) Công khai số liệu quyết toán ngân sách nhà nước, gồm các ch�
 
 c) Mẫu biểu công khai theo các mẫu biểu Quốc hội phê chuẩn quyết toán ngân sách nhà nước quy định tại Quy chế lập, thẩm tra, quyết định dự toán ngân sách nhà nước, phương án phân bổ ngân sách trung ương và phê chuẩn quyết toán ngân sách nhà nước do Ủy ban Thường vụ Quốc hội ban hành.
 
-### Điều 25. Công khai ngân sách địa phương và ngân sách cấp tỉnh**
+### Điều 25. Công khai ngân sách địa phương và ngân sách cấp tỉnh
 
 1. Công khai số liệu, thuyết minh dự toán ngân sách địa phương và phương án phân bổ ngân sách cấp tỉnh trình Hội đồng nhân dân, gồm:
 
@@ -573,7 +573,7 @@ b) Công khai số liệu quyết toán ngân sách địa phương, gồm các 
 
 c) Mẫu biểu công khai theo các biểu Hội đồng nhân dân cấp tỉnh phê chuẩn quyết toán ngân sách địa phương.
 
-### Điều 26. Công khai ngân sách cấp xã**
+### Điều 26. Công khai ngân sách cấp xã
 
 1. Công khai số liệu, thuyết minh dự toán ngân sách cấp xã trình Hội đồng nhân dân cấp xã, gồm:
 
@@ -599,7 +599,7 @@ b) Công khai số liệu quyết toán ngân sách cấp xã, gồm các chỉ 
 
 c) Mẫu biểu công khai theo các biểu Hội đồng nhân dân cấp xã phê chuẩn quyết toán ngân sách cấp xã.
 
-### Điều 27. Công khai ngân sách đối với đơn vị dự toán ngân sách**
+### Điều 27. Công khai ngân sách đối với đơn vị dự toán ngân sách
 
 1. Công khai dự toán ngân sách:
 
@@ -619,7 +619,7 @@ a) Đối với đơn vị dự toán ngân sách cấp trên: Công khai thuy�
 
 b) Đối với đơn vị sử dụng ngân sách: Công khai thuyết minh quyết toán ngân sách nhà nước đã được cấp có thẩm quyền phê duyệt. Công khai số liệu quyết toán ngân sách nhà nước theo mẫu biểu số 76 Phụ lục I kèm theo Thông tư này .
 
-### Điều 28. Công khai ngân sách đối với tổ chức được ngân sách nhà nước hỗ trợ**
+### Điều 28. Công khai ngân sách đối với tổ chức được ngân sách nhà nước hỗ trợ
 
 1. Công khai kinh phí ngân sách nhà nước hỗ trợ:
 
@@ -639,27 +639,27 @@ a) Đối với đơn vị quản lý cấp trên: Công khai thuyết minh quy�
 
 b) Đối với đơn vị sử dụng ngân sách nhà nước hỗ trợ: Công khai thuyết minh quyết toán ngân sách nhà nước hỗ trợ đã được cấp có thẩm quyền phê duyệt. Công khai số liệu quyết toán ngân sách nhà nước hỗ trợ theo mẫu biểu số 80 Phụ lục I kèm theo Thông tư này .
 
-### Điều 29. Công khai đối với các quỹ tài chính nhà nước ngoài ngân sách**
+### Điều 29. Công khai đối với các quỹ tài chính nhà nước ngoài ngân sách
 
 1. Nội dung công khai bao gồm: kế hoạch tài chính hằng năm của quỹ được cấp thẩm quyền giao (bao gồm kế hoạch bổ sung hoặc điều chỉnh nếu có); tình hình thực hiện kế hoạch tài chính 06 tháng, năm của quỹ; quyết toán tài chính hằng năm của quỹ được cấp thẩm quyền phê duyệt.
 
 2. Mẫu biểu công khai theo các mẫu biểu quy định về lập kế hoạch, báo cáo tình hình thực hiện và quyết toán tài chính các quỹ.
 
-### Điều 30. Công khai các khoản hỗ trợ trực tiếp của ngân sách nhà nước cho người dân trên địa bàn**
+### Điều 30. Công khai các khoản hỗ trợ trực tiếp của ngân sách nhà nước cho người dân trên địa bàn
 
 1. Nội dung công khai bao gồm: Các chính sách, chế độ hỗ trợ trực tiếp của Nhà nước cho cá nhân, dân cư, như: trợ cấp đối với người có công với cách mạng; chính sách cứu trợ xã hội; chính sách hỗ trợ cho người nghèo; nạn nhân chất độc da cam,... Các chính sách, chế độ hỗ trợ có tính chất đột xuất của Nhà nước cho cá nhân, dân cư, như: hỗ trợ khắc phục thiên tai, dịch bệnh; cứu đói; thăm hỏi nhân dịp lễ, tết,... Thủ tục và quy trình xét duyệt, thủ tục chi trả cho các đối tượng được hưởng các chính sách, chế độ hỗ trợ của Nhà nước theo quy định. Kết quả xét duyệt và chi trả cho các đối tượng được hưởng các chính sách, chế độ của nhà nước theo quy định.
 
 2. Mẫu biểu công khai kết quả xét duyệt và chi trả cho các đối tượng được hưởng các chính sách, chế độ của nhà nước theo quy định theo mẫu biểu số 81 Phụ lục I kèm theo Thông tư này .
 
-### Điều 31. Công khai thủ tục ngân sách Việc công khai thủ tục ngân sách thực hiện theo quy định tại khoản 3 Điều 35 và khoản 6 Điều 37 Nghị định số 73/2026/NĐ-CP của Chính phủ.**
+### Điều 31. Công khai thủ tục ngân sách Việc công khai thủ tục ngân sách thực hiện theo quy định tại khoản 3 Điều 35 và khoản 6 Điều 37 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
-### Điều 32. Cơ quan thực hiện công khai ngân sách Cơ quan thực hiện công khai ngân sách theo quy định tại Điều 36 Nghị định số 73/2026/NĐ-CP của Chính phủ.**
+### Điều 32. Cơ quan thực hiện công khai ngân sách Cơ quan thực hiện công khai ngân sách theo quy định tại Điều 36 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
-### Điều 33. Thời điểm thực hiện công khai ngân sách Thời điểm thực hiện công khai ngân sách theo quy định tại Điều 37 Nghị định số 73/2026/NĐ-CP của Chính phủ.**
+### Điều 33. Thời điểm thực hiện công khai ngân sách Thời điểm thực hiện công khai ngân sách theo quy định tại Điều 37 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
-### Điều 34. Hình thức công khai ngân sách Hình thức công khai theo quy định tại điểm b khoản 1 Điều 15 Luật Ngân sách nhà nước , trong đó hình thức công khai trên Cổng thông tin điện tử của cơ quan, đơn vị là bắt buộc đối với các cơ quan, đơn vị có cổng thông tin điện tử.**
+### Điều 34. Hình thức công khai ngân sách Hình thức công khai theo quy định tại điểm b khoản 1 Điều 15 Luật Ngân sách nhà nước , trong đó hình thức công khai trên Cổng thông tin điện tử của cơ quan, đơn vị là bắt buộc đối với các cơ quan, đơn vị có cổng thông tin điện tử.
 
-### Điều 35. Chế độ báo cáo công khai ngân sách**
+### Điều 35. Chế độ báo cáo công khai ngân sách
 
 1. Các Bộ, cơ quan trung ương, Ủy ban nhân dân các tỉnh, thành phố báo cáo Bộ Tài chính về số liệu, tài liệu công khai ngân sách của cơ quan, đơn vị theo quy định tại Điều 36 Nghị định số 73/2026/NĐ-CP của Chính phủ; đồng thời gửi dữ liệu điện tử báo cáo vào nền tảng Cơ sở dữ liệu quốc gia về tài chính (dữ liệu phải được ký số theo quy định của Luật Giao dịch điện tử năm 2023 và các văn bản pháp luật có liên quan), gửi qua hệ thống Cổng Công khai ngân sách nhà nước (địa chỉ https://ckns.mof.gov.vn) cùng thời điểm thực hiện công bố công khai theo quy định tại Điều 33 Thông tư này .
 
@@ -667,11 +667,11 @@ b) Đối với đơn vị sử dụng ngân sách nhà nước hỗ trợ: Côn
 
 3. Ủy ban nhân dân cấp tỉnh quy định việc báo cáo công khai ngân sách của đơn vị dự toán ngân sách ở địa phương và của Ủy ban nhân dân cấp xã.
 
-### Điều 36. Kiểm tra, giám sát tình hình thực hiện công khai ngân sách Việc kiểm tra, giám sát tình hình thực hiện công khai ngân sách thực hiện theo quy định tại Điều 39 Nghị định số 73/2026/NĐ-CP của Chính phủ.**
+### Điều 36. Kiểm tra, giám sát tình hình thực hiện công khai ngân sách Việc kiểm tra, giám sát tình hình thực hiện công khai ngân sách thực hiện theo quy định tại Điều 39 Nghị định số 73/2026/NĐ-CP của Chính phủ.
 
-### Chương VIII ĐIỀU KHOẢN THI HÀNH
+## Chương VIII ĐIỀU KHOẢN THI HÀNH
 
-### Điều 37. Điều khoản chuyển tiếp**
+### Điều 37. Điều khoản chuyển tiếp
 
 1. Đối với quyết toán ngân sách năm 2024 và quy trình, yêu cầu lập dự toán ngân sách năm 2026 áp dụng theo các quy định của Luật ngân sách nhà nước số 83/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 59/2020/QH14 và Luật số 56/2024/QH15 , Nghị định số 163/2016/NĐ-CP ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân sách nhà nước, Thông tư số 342/2016/TT-BTC ngày 30 tháng 12 năm 2016 của Bộ Tài chính quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 163/2016/NĐ - CP ngày 21 tháng 12 năm 2016 của Chính phủ, Thông tư số 343/2016/TT-BTC ngày 30 tháng 12 năm 2016 của Bộ Tài chính hướng dẫn thực hiện công khai ngân sách nhà nước đối với các cấp ngân sách, Thông tư số 344/2016/TT-BTC ngày 30 tháng 12 năm 2016 của Bộ Tài chính quy định về quản lý ngân sách xã và các hoạt động tài chính khác của xã, phường, thị trấn.
 
@@ -679,7 +679,7 @@ b) Đối với đơn vị sử dụng ngân sách nhà nước hỗ trợ: Côn
 
 3. Đối với quyết toán ngân sách năm 2025, bao gồm cả việc xử lý thu, chi ngân sách nhà nước cuối năm, yêu cầu, lập, xét duyệt, tổng hợp, thời hạn và trình tự quyết toán ngân sách nhà nước thực hiện theo Luật Ngân sách nhà nước số 89/2025/QH15 , Nghị định số 73/2026/NĐ-CP của Chính phủ và quy định tại Thông tư này.
 
-### Điều 38. Điều khoản thi hành**
+### Điều 38. Điều khoản thi hành
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 3 năm 2026 và áp dụng từ năm ngân sách 2026. Các quy định về phân cấp nguồn thu của ngân sách trung ương và ngân sách địa phương (không bao gồm thu tiền sử dụng đất, tiền thuê đất tại Điều 3 và Điều 5 Thông tư này ) áp dụng từ năm ngân sách 2027.
 
@@ -690,7 +690,3 @@ b) Đối với đơn vị sử dụng ngân sách nhà nước hỗ trợ: Côn
 4. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, đơn vị phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết.
 
 Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Cơ quan Trung ương của các Đoàn thể; - HĐND, UBND các tỉnh, thành phố; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - UBTW Mặt trận Tổ quốc Việt Nam; - Sở Tài chính các tỉnh, thành phố; Thuế tỉnh, thành phố; Hải quan, Kho bạc nhà nước các khu vực; - Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật - Bộ Tư pháp; - Công báo; Cổng thông tin điện tử của Chính phủ; - Cổng thông tin điện tử của Bộ Tài chính; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, Vụ NSNN (100 bản). KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Đức Chi
-
-Phụ lục đính kèm Văn bản này có phụ lục đính kèm. Tải về để xem toàn bộ nội dung.
-
-Văn bản này có phụ lục. Vui lòng đăng nhập để xem chi tiết.
