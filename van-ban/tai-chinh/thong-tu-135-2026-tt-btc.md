@@ -45,7 +45,7 @@ Sửa đổi, bổ sung một số điều của Thông tư số 152/2015/TT-BTC
 
 Căn cứ Luật Thuế tài nguyên số 43/2009/QH12 được sửa đổi, bổ sung bởi Luật số 71/2014/QH13;
 
-Căn cứ Nghị định số 30/2010/NĐ-CP của Chính phủ quy định chỉ tiết và hướng dẫn thi hành một số điều của Luật Thuế tài nguyên được sửa đổi, bổ sung bởi Nghị định số 12/2015/NĐ-CP;
+Căn cứ Nghị định số 30/2010/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tài nguyên được sửa đổi, bổ sung bởi Nghị định số 12/2015/NĐ-CP;
 
 Căn cứ Nghị định số 29/2023/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính được sửa đổi, bổ sung bởi Nghị định số 166/2025/NĐ-CP;
 
@@ -73,11 +73,13 @@ Trường hợp áp dụng định mức sử dụng tài nguyên tính trên m�
 
 4. Sửa đổi, bổ sung khoản 1 Điều 13 được sửa đổi, bổ sung bởi khoản 3 Điều 2 của Thông tư số 41/2024/TT-BTC như sau:
 
-“1. Uỷ ban nhân dân cấp tỉnh có trách nhiệm:
+“1. :
 
 a) Chỉ đạo Sở Tài chính chủ trì, phối hợp với các cơ quan liên quan: xây dựng Bảng giá tính thuế tài nguyên áp dụng tại địa phương; rà soát biến động của thị trường để điều chỉnh Bảng giá tính thuế tài nguyên phù hợp với quy định.
 
 b) Chỉ đạo các cơ quan thuế, tài chính, nông nghiệp và môi trường và các cơ quan có liên quan phối hợp thực hiện quản lý thuế tài nguyên theo hướng dẫn tại Thông tư này.”
+
+
 
 ### Điều 2. Bãi bỏ, thay thế một số quy định
 
