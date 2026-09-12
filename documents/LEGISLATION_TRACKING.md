@@ -13575,3 +13575,17 @@ Tuy không phải NĐ-CP/TT, nhưng có 26 Quyết định/Nghị quyết 2026 c
 **Session**: agent:github-io:subagent:d2739958-0b69-485f-a9eb-e56e202e1859 (Đệ #1 Discovery v199)
 **Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
 **Thời gian**: 2026-09-12 00:03 ICT Asia/Saigon
+
+---
+
+### Cập nhật 2026-09-12 v200 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 22:33 ICT)
+
+**Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp). Parse 50 hàng (docid **219342→219443**, ngày BH 24/08→10/09/2026 — **cửa sổ giữ nguyên so với v199**: đỉnh 219443, đáy 219342). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` (kiểm tra cả HEAD branch heartbeat/crawl-vanban-20260807).
+
+**Kết quả quét 50 VB**: **50/50 đã có file `van-ban/` hoặc đã track chính thức → 0 VB MỚI** cần thêm vào "Chưa có (chờ crawl)". 5 VB phát hiện ở v199 (68/2026/TT-BXD, 350/2026/NĐ-CP, 134/2026/TT-BTC, 34/2026/TT-BYT, 133/2026/TT-BTC) đã được crawl hoàn thiện và commit vào branch heartbeat/crawl-vanban-20260807 (commits f3ab5cb8, 8b2daea5, d1821e31, b29b1505, 1b0e195d); tracking đã cập nhật trạng thái **Hoàn thiện**. Các VB còn lại trong top-50 đã có file hoặc đã track chính thức từ các vòng trước (349/2026/NĐ-CP, 135/2026/TT-BTC, 46/2026/TT-NHNN, 348/2026/NĐ-CP, 347/2026/NĐ-CP, 346/2026/NĐ-CP, 345/2026/NĐ-CP, 45/2026/TT-NHNN, 134/2026/TT-BTC, 44/2026/TT-BCT, 44/2026/TT-NHNN, 43/2026/TT-NHNN, 337/2026/NĐ-CP, 42/2026/TT-NHNN, 13/2026/TTLT-VKSNDTC-TANDTC-BCA-BQP-BTP, 39/2026/NQ-CP).
+
+**Ghi chú**: Không có văn bản mới công bố trên vanban.chinhphu.vn trong cửa sổ top-50 hiện tại. Cửa sổ docid vẫn là 219342→219443, ngày ban hành mới nhất 10/09/2026. Cần theo dõi tiếp ở các vòng sau để phát hiện VB mới khi nguồn công bố thêm.
+
+**Session**: agent:github-io:subagent:8fcce0b7-3abc-4c32-9a76-d0c976e0e9cf (Đệ #1 Discovery v200)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-09-12 22:33 ICT Asia/Saigon
