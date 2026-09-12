@@ -1,4 +1,24 @@
 
+### Cập nhật 2026-09-13 v201 — Đệ #1 Discovery & Tracking (kiểm tra lại top-50 — 04:25 ICT)
+
+**Phương pháp**: Quét lại 50 văn bản mới nhất tại `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50`; đối chiếu theo số hiệu và docid với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` trên branch heartbeat active.
+
+**Kết quả**: Phát hiện 5 văn bản chưa có trong tracking và chưa có file `van-ban/`. Đây là kiểm tra bổ sung sau bản ghi v200; cập nhật trạng thái **Chưa có** và chờ lựa chọn văn bản để crawl toàn văn.
+
+| # | Số hiệu | Chủ đề (trích yếu) | Docid | Ngày BH | Người ký | PDF chp signed | Hiệu lực | Trạng thái |
+|---|---------|--------------------|-------|---------|----------|----------------|----------|------------|
+| 1 | **340/2026/NĐ-CP** | Sửa đổi, bổ sung một số điều của Nghị định số 140/2004/NĐ-CP ngày 25 tháng 6 năm 2004 của Chính phủ quy định chi tiết một số điều của Luật Biên giới quốc gia | [219342](https://vanban.chinhphu.vn/?pageid=27160&docid=219342) | 28/08/2026 | Phan Văn Giang | `cpp/files/vbpq/2026/9/340_2026_nd-cp_28082026-signed.signed.pdf` | 16-10-2026 | **Chưa có** |
+| 2 | **341/2026/NĐ-CP** | Quy định chi tiết một số điều và biện pháp thi hành Luật An ninh mạng về hoạt động mật mã dân sự | [219343](https://vanban.chinhphu.vn/?pageid=27160&docid=219343) | 01/09/2026 | Phan Văn Giang | `cpp/files/vbpq/2026/9/341_2026_nd-cp_01092026-signed.signed.pdf` | 01-09-2026 | **Chưa có** |
+| 3 | **45/2026/TT-BCT** | Ban hành các Sửa đổi Quy chuẩn kỹ thuật quốc gia về vật liệu nổ công nghiệp | [219360](https://vanban.chinhphu.vn/?pageid=27160&docid=219360) | 28/08/2026 | Trương Thanh Hoài | `cpp/files/vbpq/2026/9/45-bct.signed.pdf`, `45-bct-1.signed.pdf`, `45-bct-2.signed.pdf`, `45-bct-3.signed.pdf` | 01-11-2026 | **Chưa có** |
+| 4 | **73/2026/TT-BGDĐT** | Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng | [219361](https://vanban.chinhphu.vn/?pageid=27160&docid=219361) | 28/08/2026 | Đoàn Trung Kiên | `cpp/files/vbpq/2026/9/73-bgddt.signed.pdf` | 28-08-2026 | **Chưa có** |
+| 5 | **128/2026/TT-BTC** | Quy định về kiểm tra, giám sát và quản lý hải quan đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải hoạt động trong khu vực cửa khẩu thông minh được Thủ tướng Chính phủ phê duyệt | [219363](https://vanban.chinhphu.vn/?pageid=27160&docid=219363) | 27/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/9/128-btc.signed.pdf` | 15-10-2026 | **Chưa có** |
+
+**Ghi chú**: Cả 5 văn bản đều có PDF chữ ký số CAdES-BES tại datafiles.chinhphu.vn. Khi được chọn, phải áp dụng Signed PDF OCR Pipeline và OCR Quality Gate trước khi commit.
+
+**Session**: agent:github-io:subagent:aaf0ad29-fe90-4333-8f8d-fdaefa57e3f3 (Đệ #1 Discovery poll 04:25)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-09-13 04:25 ICT Asia/Saigon
+
 ### Cập nhật 2026-09-11 v198 — Đệ #1 Discovery & Tracking (he-thong-van-ban top-50 — 09:28 ICT)
 
 **Phương pháp**: GET `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50` (HTML tĩnh, curl trực tiếp). Parse 50 hàng (docid **219411→219437**, ngày BH 08/09→09/09/2026 — **cửa sổ mở rộng lên so với v197**: đỉnh tăng 219321→**219437**, đáy tăng 219200→**219411**, đẩy 111 VB cũ khỏi top-50). So sánh kép theo cả **docid** lẫn **số hiệu** với normalize đầy đủ (Cyrillic U+0420→P Latin + NFD + `đ→d`, boundary-aware) đối chiếu `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`.
