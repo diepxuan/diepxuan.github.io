@@ -16,7 +16,7 @@ def scan_file(filepath):
         "Điền", "Điều:", "„ Điều",
         "Chương VỊ", "Chương VIH", "Chương 1H",
         "Chương IH", "Chương IIl", "Chương IIH", "Chương VIIH", "Chương VIHI",
-        "ngày l", "ngày L", "ngày l7", "ngày L5",
+        "ngày l7", "ngày L5",
         "khoản I", "Điều 2§", "Điều §",
         "§.", "§0", "§2", "§5", "§9", "®Z",
         "tthủ tục",
