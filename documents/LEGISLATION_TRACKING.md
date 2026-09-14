@@ -7,7 +7,7 @@
 
 | # | Số hiệu | Chủ đề (trích yếu) | Docid | Ngày BH | Người ký | PDF chp signed | Hiệu lực | Trạng thái |
 |---|---------|--------------------|-------|---------|----------|----------------|----------|------------|
-| 1 | **340/2026/NĐ-CP** | Sửa đổi, bổ sung một số điều của Nghị định số 140/2004/NĐ-CP ngày 25 tháng 6 năm 2004 của Chính phủ quy định chi tiết một số điều của Luật Biên giới quốc gia | [219342](https://vanban.chinhphu.vn/?pageid=27160&docid=219342) | 28/08/2026 | Phan Văn Giang | `cpp/files/vbpq/2026/9/340_2026_nd-cp_28082026-signed.signed.pdf` | 16-10-2026 | **Chưa có** |
+| 1 | **340/2026/NĐ-CP** | Sửa đổi, bổ sung một số điều của Nghị định số 140/2004/NĐ-CP ngày 25 tháng 6 năm 2004 của Chính phủ quy định chi tiết một số điều của Luật Biên giới quốc gia | [219342](https://vanban.chinhphu.vn/?pageid=27160&docid=219342) | 28/08/2026 | Phan Văn Giang | `cpp/files/vbpq/2026/9/340_2026_nd-cp_28082026-signed.signed.pdf` | 16-10-2026 | **Hoàn thiện** |
 | 2 | **341/2026/NĐ-CP** | Quy định chi tiết một số điều và biện pháp thi hành Luật An ninh mạng về hoạt động mật mã dân sự | [219343](https://vanban.chinhphu.vn/?pageid=27160&docid=219343) | 01/09/2026 | Phan Văn Giang | `cpp/files/vbpq/2026/9/341_2026_nd-cp_01092026-signed.signed.pdf` | 01-09-2026 | **Chưa có** |
 | 3 | **45/2026/TT-BCT** | Ban hành các Sửa đổi Quy chuẩn kỹ thuật quốc gia về vật liệu nổ công nghiệp | [219360](https://vanban.chinhphu.vn/?pageid=27160&docid=219360) | 28/08/2026 | Trương Thanh Hoài | `cpp/files/vbpq/2026/9/45-bct.signed.pdf`, `45-bct-1.signed.pdf`, `45-bct-2.signed.pdf`, `45-bct-3.signed.pdf` | 01-11-2026 | **Chưa có** |
 | 4 | **73/2026/TT-BGDĐT** | Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng | [219361](https://vanban.chinhphu.vn/?pageid=27160&docid=219361) | 28/08/2026 | Đoàn Trung Kiên | `cpp/files/vbpq/2026/9/73-bgddt.signed.pdf` | 28-08-2026 | **Chưa có** |
@@ -2817,7 +2817,7 @@ Chọn 5 VB chưa từng QC gate (khác toàn bộ v84-v94):
 1. **275/2026/NĐ-CP** (4186 dòng, `van-ban/cong-nghiep/nghi-dinh-275-2026-nd-cp-xu-phat-hoa-chat-vat-lieu-no-cong-nghiep.md`): Nghị định xử phạt VPHC trong lĩnh vực hóa chất, vật liệu nổ công nghiệp. 76 Điều (1-76), 3 Chương (I,II,III). 1 lỗi OCR: `điêu kiện` → `điều kiện`. **PASS CLEAN**.
 
 2. **200/2026/NĐ-CP** (4149 dòng, `van-ban/thuong-mai-dau-tu-chung-khoan/nghi-dinh-200-2026-nd-cp-trai-phieu-doanh-nghiep.md`): Nghị định quy định chi tiết Luật Chứng khoán về chào bán, giao dịch trái phiếu doanh nghiệp. 51 Điều (1-51), 5 Chương (I,III,IV,V,VII — thiếu II,VI trong nguồn text). **Nhiều lỗi OCR thật**:
-   - `đâu tư` → `đầu tư` (16x trên toàn file)  
+   - `đâu tư` → `đầu tư` (16x trên toàn file)
    - `thâm quyền` → `thẩm quyền` (7x)
    - Điều 8, 27, 49 là plain text heading → đã chuẩn hóa về `### Điều N.`
    **POST-FIX PASS:** OCR=0 (1 FP "ngày l" trong "ngày liền kề"). Articles 1-51 đầy đủ.
@@ -6712,7 +6712,7 @@ Quét vanban.chinhphu.vn og:title dải 219000–221500 (step 1 = 501 docid) + d
 - **0 văn bản mới** được phát hiện lần này — tất cả nguồn trống.
 - **Firecrawl 402 hoàn toàn** — web_fetch và web_search không sử dụng được.
 - **Vùng trống vanban.chinhphu.vn**: Từ 218850 đến 230000+ (~11.150 docid liên tục). Đây là vùng trống lớn nhất từ trước đến nay.
-- **Kết luận quan trọng**: 
+- **Kết luận quan trọng**:
   1. **279, 280/NĐ-CP** rất có thể CHƯA BAN HÀNH — vanban không index, luatvietnam không có trong sitemap.
   2. **234/NĐ-CP** có thể không tồn tại hoặc dùng slug luatvietnam khác — cần search riêng.
   3. **93/TT-BTC** dùng slug `tin-van-ban-moi/110243` (tin-van-ban-moi section) chứ không phải `thong-tu-93-2026-tt-btc` — slug cũ đã 404.
@@ -7035,7 +7035,7 @@ Quét vanban.chinhphu.vn dải docid 218833–218844 (step 1 = 12 docid) + dải
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
 |---|---:|---|---|---:|---|---|
 | **1248/2026/QĐ-TTg** | **02/07/2026** | **Ban hành Bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa cấp quốc gia, cấp ngành và địa phương** — Thủ tướng ban hành bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa; áp dụng cho cấp quốc gia, cấp ngành và địa phương; thay thế QĐ cũ; hiệu lực **02/7/2026** | Kinh tế / Công nghiệp hóa | vanban.chinhphu.vn (docid **218834**) | **Hoàn thiện** | **VĂN BẢN MỚI** — phát hiện qua quét dải 218833–218844 (step 1). Title đầy đủ: "Quyết định số 1248/QĐ-TTg của Thủ tướng Chính phủ: Về việc ban hành Bộ tiêu chí đánh giá kết quả công nghiệp hóa, hiện đại hóa cấp quốc gia, cấp ngành và địa phương" ✅. Ngày ban hành **02/7/2026** xác minh từ page metadata. **ƯU TIÊN TRUNG BÌNH** — văn bản công nghiệp hóa. |
-| **278/2026/NĐ-CP** | **09/07/2026** | **Sửa đổi, bổ sung NĐ 72/2025/NĐ-CP về cơ chế điều chỉnh giá bán lẻ điện bình quân** — làm rõ ngưỡng điều chỉnh giá điện; hiệu lực **09/7/2026** | Năng lượng / Điện lực | vanban.chinhphu.vn (docid **218849** ✅) | **Hoàn thiện** | **XÁC MINH DOCID** — docid đúng = **218849** (xác minh 2026-07-14 qua og:title scan). File trên branch `heartbeat/crawl-vanban-20260711-v2` (commit c75a168d) dùng docid nhầm 219802. File chưa merge vào main. | 
+| **278/2026/NĐ-CP** | **09/07/2026** | **Sửa đổi, bổ sung NĐ 72/2025/NĐ-CP về cơ chế điều chỉnh giá bán lẻ điện bình quân** — làm rõ ngưỡng điều chỉnh giá điện; hiệu lực **09/7/2026** | Năng lượng / Điện lực | vanban.chinhphu.vn (docid **218849** ✅) | **Hoàn thiện** | **XÁC MINH DOCID** — docid đúng = **218849** (xác minh 2026-07-14 qua og:title scan). File trên branch `heartbeat/crawl-vanban-20260711-v2` (commit c75a168d) dùng docid nhầm 219802. File chưa merge vào main. |
 
 ### Tình trạng vanban.chinhphu.vn — DẢI 225000–230000 TRỐNG HOÀN TOÀN; vùng trống mở rộng
 
@@ -7633,7 +7633,7 @@ Quét vanban.chinhphu.vn HTML page (?pageid=27160&docid=X) thay API + web_search
 ### Tình trạng vanban.chinhphu.vn — API vẫn 404, search snippets còn hoạt động
 
 - **curl API dải docid 218000–219000**: TẤT CẢ 404 HTML
-- **curl API dải docid 218600–218870**: TẤT CẢ 404 HTML  
+- **curl API dải docid 218600–218870**: TẤT CẢ 404 HTML
 - **web_fetch vanban.chinhphu.vn/?docid=218617**: HTTP 200 nhưng chỉ trả về tiêu đề (không có body nội dung — JS rendering required)
 - **web_search vanban.chinhphu.vn**: Search snippets VẪN trả về docid trong kết quả. Dùng phương pháp này để xác minh docid.
 - **Kết luận**: API `/portal/api/v2/vanban/detail` hoàn toàn không hoạt động. HTML page trả về 200 nhưng chỉ tiêu đề. Search snippets là phương pháp duy nhất còn hoạt động để tìm docid.
@@ -7718,7 +7718,7 @@ Danh sách 17 văn bản cần xác minh trong task liệt kê **29/2026/TT-BYT*
 Quét vanban.chinhphu.vn dải docid 228800–245000 (API /portal/api/v2/vanban/detail → TẤT CẢ 404 HTML) + web_search Brave tổng hợp từ luatvietnam.vn, thuvienphapluat.vn, thuehaiquan.tapchikinhtetaichinh.vn, spirit.vietnamairlines.com, vovgiaothong.vn, xaydungchinhsach.chinhphu.vn, baoxaydung.vn, baochinhphu.vn, baomoi.com, vov.vn, doanhnghiephoinhap.vn theo nhóm chủ đề: Thuế, Tài chính, Lao động, Hành chính, Y tế, Giao thông, Xây dựng, Năng lượng, Giáo dục, Ngân hàng, Hàng không, Bảo hiểm. Ưu tiên: văn bản ban hành tháng 7/2026. So sánh với `documents/LEGISLATION_TRACKING.md` (đến 2026-07-07 lần 34 — 5 văn bản 80, 84, 29, 265, 1205): phát hiện **5 văn bản mới** chưa từng được ghi nhận. Giới hạn 5/lần — ghi nhận đủ 5:
 
 | Số hiệu | Ngày ban hành | Trích yếu | Nhóm | DocID | Trạng thái | Ghi chú xử lý |
-|---|---:|---|---|---:|---|---| 
+|---|---:|---|---|---:|---|---|
 | 96/2026/TT-BTC | 02/07/2026 | **Sửa đổi, bổ sung một số điều của Thông tư 67/2023/TT-BTC về hoạt động kinh doanh bảo hiểm** — quy định chi tiết về hoạt động kinh doanh bảo hiểm; sửa đổi điều kiện, hồ sơ, thủ tục kinh doanh bảo hiểm; quy định về đại lý bảo hiểm; bảo vệ dữ liệu cá nhân khách hàng trong kinh doanh bảo hiểm trên môi trường mạng; hiệu lực **01/7/2026** | Tài chính / Bảo hiểm | chua-xac-minh | **Hoàn thiện** | Nguồn: luatvietnam.vn (slug 110189: "Từ 01/7/2026, doanh nghiệp bảo hiểm bán sản phẩm trên môi trường mạng phải có chính sách bảo vệ dữ liệu cá nhân"; slug 110167: "Đã có Thông tư 86/2026/TT-BTC về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu" — đều xác nhận "ban hành ngày 02/7/2026"; slug 110172, 110163, 110180, 110177, 110153, 110181 đều nhắc đến Thông tư 96/2026/TT-BTC sửa đổi TT 67/2023/TT-BTC, **ban hành ngày 02/7/2026**); ngày ban hành: **02/7/2026** xác minh từ 8+ bài viết riêng biệt trên luatvietnam.vn (đăng 16–18 giờ trước phiên quét); hiệu lực: **01/7/2026**; tác động doanh nghiệp bảo hiểm, đại lý bảo hiểm, khách hàng mua bảo hiểm trực tuyến; **ƯU TIÊN TRUNG BÌNH** — cần xác minh docid |
 | 215/2026/NĐ-CP | 18/06/2026 | **Quy định chi tiết một số điều của Luật Hàng không dân dụng Việt Nam về an ninh hàng không** — quy định chi tiết về an ninh hàng không; đối tượng hành khách bị cấm bay có thời hạn hoặc vĩnh viễn; quy định về soi chiếu an ninh lại từ đầu; tăng chế tài uy hiếp an ninh hàng không; hiệu lực **01/7/2026** | Giao thông / Hàng không / An ninh | vanban.chinhphu.vn (docid **218499**) | **Hoàn thiện** | Nguồn: vanban.chinhphu.vn (trang chính thức, docid 218499 xác minh trực tiếp), baochinhphu.vn ("Ngày 18/6/2026, Chính phủ ban hành Nghị định số 215/2026/NĐ-CP"), moc.gov.vn, caa.gov.vn, thuvienphapluat.vn (711200), baotintuc.vn, vov.vn, soha.vn, congan.gialai.gov.vn, lsvn.vn, vietnamplus.vn, luatnguyen.vn; ngày ban hành: **18/6/2026** xác minh từ nhiều nguồn chính thức; docid: **218499** xác minh từ vanban.chinhphu.vn; hiệu lực: 01/7/2026; tác động hành khách, hãng hàng không, an ninh cảng hàng không; **ƯU TIÊN CAO** — cần crawl toàn văn |
 | 222/2026/NĐ-CP | 22/06/2026 | **Quy định về hoạt động bay** — quy định chi tiết về hoạt động bay dân dụng; nguyên tắc hoạt động bay tại sân bay; quy chế bay, phương thức bay; thẩm quyền cấp, sửa đổi và hủy bỏ phép bay (bổ sung Bộ Công an vào nhóm cơ quan có thẩm quyền từ 01/7/2026); hiệu lực **01/7/2026** | Giao thông / Hàng không | chua-xac-minh | **Hoàn thiện** | Nguồn: baochinhphu.vn ("Chính phủ ban hành Nghị định số 222/2026/NĐ-CP quy định về hoạt động bay"), thuvienphapluat.vn/hoi-dap-phap-luat ("Ngày 22/06/2026, Chính phủ đã ban hành Nghị định 222/2026/NĐ-CP về hoạt động bay"), nhandan.vn, baotintuc.vn, baoxaydung.vn, soha.vn, vov.vn, baomoi.com, luatnguyen.vn, kevesko.vn, baochinhphu.vn; ngày ban hành: **22/6/2026** xác minh từ baochinhphu.vn + thuvienphapluat.vn; hiệu lực: 01/7/2026; tác động hãng hàng không, cơ quan quản lý bay, Bộ Công an (lần đầu được giao thẩm quyền phép bay); **ƯU TIÊN CAO** — cần xác minh docid và crawl toàn văn |
@@ -11505,7 +11505,7 @@ Quét sitemap mới nhất từ vòng heartbeat trước (sitemap_nghidinh lastm
 - **sitemap_nghidinh lastmod 2026-07-14** (17:53+07:00): Không có NĐ-CP mới ngoài 279 (đã ghi nhận vòng trước).
 - **sitemap_thongtu lastmod 2026-07-14** (11:53+07:00): Các văn bản ưu tiên sitemap vòng 2 xác minh:
   - 39/2026/TT-BCT (slug 439557) ✅ đã có trong tracking — docid 218754 Hoàn thiện
-  - 40/2026/TT-BCT (slug 439558) ✅ đã có trong tracking — docid 218755 Hoàn thiện  
+  - 40/2026/TT-BCT (slug 439558) ✅ đã có trong tracking — docid 218755 Hoàn thiện
   - 38/2026/TT-BKHCN (slug 439643) ✅ **VĂN BẢN MỚI** — Chưa có trong tracking
   - 39/2026/TT-BKHCN (slug 439594) ✅ đã có trong tracking — docid 218793 Hoàn thiện
   - 40/2026/TT-BKHCN (slug 439593) ✅ đã có trong tracking — docid 218793 Hoàn thiện
@@ -12332,7 +12332,7 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
   - (b) Hoặc HEARTBEAT_OK nếu tracking đầy đủ + sitemap không đổi
 
 ### Poll sau (12:00 hoặc 12:29 ICT 29/7)
-- Theo mục 4.4 bước 4: tracking đầy đủ + 4 lần refresh sitemap 0 VB mới + đã hết file refactor có HTML sẵn → 
+- Theo mục 4.4 bước 4: tracking đầy đủ + 4 lần refresh sitemap 0 VB mới + đã hết file refactor có HTML sẵn →
   - Spawn Discovery v51 để xác minh refactor mới (5 file tiếp theo từ refactor-scan.txt), hoặc
   - HEARTBEAT_OK nếu chưa có gì mới
 
@@ -12377,7 +12377,7 @@ Phát hiện bất ngờ trong poll 05:29 ICT 29/7: HEAD origin đã có commit 
 
 ### Hành động
 1. **Build script**: `scripts/build_127_tt_bca.py` (pattern tương tự 107/TT-BCA cho QCVN — Thông tư ban hành Quy chuẩn kỹ thuật quốc gia)
-   - body_start anchor = "BỘ CÔNG AN" + "Số:" 
+   - body_start anchor = "BỘ CÔNG AN" + "Số:"
    - dedup "BỘ CÔNG AN" header, dedup "Số: 127/2026/TT-BCA" line, dedup duplicate "Điều N." headings
    - render "### Điều N. Title" cho 4 Điều (1-4)
    - QCVN section: render heading "## Quy chuẩn kỹ thuật quốc gia QCVN 13:2026/BCA" khi gặp marker `QCVN 13:2026/BCA`
