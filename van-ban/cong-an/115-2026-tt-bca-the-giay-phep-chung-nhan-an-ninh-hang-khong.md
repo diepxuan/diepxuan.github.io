@@ -265,6 +265,8 @@ d) Các trường hợp đặc biệt do người đứng đầu cơ quan có th
 
 3. Người đến nhận giấy phép kiểm soát an ninh cảng hàng không có giá trị sử dụng ngắn hạn phải đọc, hiểu quy định về sử dụng giấy phép của Thông tư này và cam kết phổ biến quy định về sử dụng giấy phép đến người sử dụng phương tiện được cấp giấy phép. Người sử dụng phương tiện được cấp giấy phép chịu trách nhiệm tự liên hệ để có người hộ tống hoặc phương tiện dẫn đường theo quy định về việc ra, vào và hoạt động tại khu vực hạn chế.
 
+### Điều 8. Nguyên tắc cấp thẻ, giấy phép kiểm soát an ninh cảng hàng không
+
 1. Nguyên tắc cấp thẻ kiểm soát an ninh cảng hàng không:
 
 a) Người làm việc tại một cảng hàng không chỉ được cấp thẻ kiểm soát an ninh cảng hàng không có giá trị sử dụng dài hạn tại cảng hàng không nơi làm việc;

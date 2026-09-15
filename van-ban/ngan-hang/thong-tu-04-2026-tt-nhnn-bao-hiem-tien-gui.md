@@ -64,7 +64,7 @@ Thông tư này áp dụng đối với các đối tượng sau:
 
 ### Điều 3. Thời hạn nộp phí bảo hiểm tiền gửi
 
-1. Phí bảo hiểm tiền gửi được tính và nộp định kỳ hằng quý trong năm tài chính. Tổ chức tham gia bảo hiểm tiền gửi phải tính và nộp phí bảo hiểm tiền gửi cho Bảo hiểm tiền gửi Việt Nam chậm nhất vào ngày 20 của tháng đầu tiên quý thu phí. Trường hợp ngày cuối cùng của thời hạn nộp phí trùng vào ngày lễ, tết, ngày nghỉ cuối tuần thì tổ chức tham gia bảo hiểm tiền gửi được nộp vào ngày làm việc tiếp theo ngay sau ngày nghỉ lễ, tết, ngày nghỉ cuối tuần đó.
+1. Phí bảo hiểm tiền gửi được tính và nộp định kỳ hằng quý trong năm tài chính. Tổ chức tham gia bảo hiểm tiền gửi phải tính và nộp phí bảo hiểm tiền gửi cho Bảo hiểm tiền gửi Việt Nam chậm nhất vào ngày 20 của tháng đầu tiên quý thu phí. Trường hợp ngày cuối cùng của thời hạn nộp phí trùng vào ngày 1ễ, tết, ngày nghỉ cuối tuần thì tổ chức tham gia bảo hiểm tiền gửi được nộp vào ngày 1àm việc tiếp theo ngay sau ngày nghỉ lễ, tết, ngày nghỉ cuối tuần đó.
 
 2. Trong thời hạn 15 ngày kể từ ngày hết hạn nộp phí bảo hiểm tiền gửi quy định tại khoản 1 Điều này, Bảo hiểm tiền gửi Việt Nam có trách nhiệm thông báo bằng văn bản về việc tính và nộp phí bảo hiểm tiền gửi cho tổ chức tham gia bảo hiểm tiền gửi, trong đó nêu rõ nội dung truy thu hoặc thoái thu (nếu có). Tổ chức tham gia bảo hiểm tiền gửi có trách nhiệm nộp số phí còn thiếu, Bảo hiểm tiền gửi Việt Nam có trách nhiệm trả lại số phí nộp thừa (nếu có) trong thời hạn tối đa 15 ngày kể từ ngày có thông báo.
 
@@ -105,7 +105,7 @@ Thông tư này áp dụng đối với các đối tượng sau:
 
 5. Trường hợp có quyết định đặt vào kiểm soát đặc biệt, số phí bảo hiểm tiền gửi phải nộp được tính bằng công thức quy định tại khoản 4 Điều này; trong đó Sᵢ là số dư tiền gửi được bảo hiểm ngày thứ i (i = 1 → n); S₁ là số dư tiền gửi được bảo hiểm cuối ngày đầu tiên của quý mà quyết định đặt vào kiểm soát đặc biệt có hiệu lực; Sₙ là số dư tiền gửi được bảo hiểm cuối ngày cuối cùng trước ngày quyết định đặt vào kiểm soát đặc biệt có hiệu lực.
 
-6. Trường hợp có quyết định chấm dứt kiểm soát đặc biệt để trở lại hoạt động bình thường, số phí bảo hiểm tiền gửi phải nộp được tính bằng công thức theo quy định tại khoản 4 Điều này; trong đó Sᵢ là số dư tiền gửi được bảo hiểm ngày thứ i (i = 1 → n); S₁ là số dư tiền gửi được bảo hiểm cuối ngày liền kề sau ngày quyết định chấm dứt kiểm soát đặc biệt có hiệu lực; Sₙ là số dư tiền gửi được bảo hiểm cuối ngày cuối cùng của quý mà quyết định chấm dứt kiểm soát đặc biệt có hiệu lực.
+6. Trường hợp có quyết định chấm dứt kiểm soát đặc biệt để trở lại hoạt động bình thường, số phí bảo hiểm tiền gửi phải nộp được tính bằng công thức theo quy định tại khoản 4 Điều này; trong đó Sᵢ là số dư tiền gửi được bảo hiểm ngày thứ i (i = 1 → n); S₁ là số dư tiền gửi được bảo hiểm cuối ngày 1iền kề sau ngày quyết định chấm dứt kiểm soát đặc biệt có hiệu lực; Sₙ là số dư tiền gửi được bảo hiểm cuối ngày cuối cùng của quý mà quyết định chấm dứt kiểm soát đặc biệt có hiệu lực.
 
 7. Tổ chức tham gia bảo hiểm tiền gửi sau sáp nhập, hợp nhất áp dụng công thức tính phí bảo hiểm tiền gửi quy định tại khoản 3 Điều này, trong đó S₀ là tổng số dư tiền gửi được bảo hiểm đầu tháng thứ nhất của quý trước liền kề quý thu phí của các tổ chức tham gia bảo hiểm tiền gửi tham gia sáp nhập, hợp nhất; S₁, S₂, S₃ là tổng số dư tiền gửi được bảo hiểm cuối các tháng thứ nhất, tháng thứ hai, tháng thứ ba của quý trước liền kề quý thu phí của các tổ chức tham gia bảo hiểm tiền gửi tham gia sáp nhập, hợp nhất, tổ chức tham gia bảo hiểm tiền gửi sau sáp nhập, hợp nhất.
 
@@ -113,9 +113,9 @@ Thông tư này áp dụng đối với các đối tượng sau:
 
    Trong đó:
 
-   **P₁** được tính bằng công thức quy định tại khoản 4 Điều này; trong đó S₁ là số dư tiền gửi được bảo hiểm tại cuối ngày liền kề sau ngày quyết định chấm dứt kiểm soát đặc biệt có hiệu lực của tổ chức tham gia bảo hiểm tiền gửi được đặt vào kiểm soát đặc biệt; Sₙ là số dư tiền gửi được bảo hiểm tại cuối ngày liền kề trước ngày quyết định sáp nhập, hợp nhất có hiệu lực của tổ chức tham gia bảo hiểm tiền gửi được đặt vào kiểm soát đặc biệt.
+   **P₁** được tính bằng công thức quy định tại khoản 4 Điều này; trong đó S₁ là số dư tiền gửi được bảo hiểm tại cuối ngày 1iền kề sau ngày quyết định chấm dứt kiểm soát đặc biệt có hiệu lực của tổ chức tham gia bảo hiểm tiền gửi được đặt vào kiểm soát đặc biệt; Sₙ là số dư tiền gửi được bảo hiểm tại cuối ngày 1iền kề trước ngày quyết định sáp nhập, hợp nhất có hiệu lực của tổ chức tham gia bảo hiểm tiền gửi được đặt vào kiểm soát đặc biệt.
 
-   **P₂** được tính bằng công thức quy định tại khoản 4 Điều này; trong đó S₁ là số dư tiền gửi được bảo hiểm cuối ngày đầu tiên của quý trước liền kề quý thu phí của tổ chức tham gia bảo hiểm tiền gửi không được đặt vào kiểm soát đặc biệt tham gia sáp nhập, hợp nhất; Sₙ là số dư tiền gửi được bảo hiểm cuối ngày liền kề trước ngày quyết định sáp nhập, hợp nhất có hiệu lực của tổ chức tham gia bảo hiểm tiền gửi không được đặt vào kiểm soát đặc biệt tham gia sáp nhập, hợp nhất.
+   **P₂** được tính bằng công thức quy định tại khoản 4 Điều này; trong đó S₁ là số dư tiền gửi được bảo hiểm cuối ngày đầu tiên của quý trước liền kề quý thu phí của tổ chức tham gia bảo hiểm tiền gửi không được đặt vào kiểm soát đặc biệt tham gia sáp nhập, hợp nhất; Sₙ là số dư tiền gửi được bảo hiểm cuối ngày 1iền kề trước ngày quyết định sáp nhập, hợp nhất có hiệu lực của tổ chức tham gia bảo hiểm tiền gửi không được đặt vào kiểm soát đặc biệt tham gia sáp nhập, hợp nhất.
 
    **P₃** được tính bằng công thức quy định tại khoản 4 Điều này; trong đó S₁ là số dư tiền gửi được bảo hiểm cuối ngày quyết định sáp nhập, hợp nhất có hiệu lực của tổ chức tham gia bảo hiểm tiền gửi sau sáp nhập, hợp nhất; Sₙ là số dư tiền gửi được bảo hiểm cuối quý trước liền kề quý thu phí của tổ chức tham gia bảo hiểm tiền gửi sau sáp nhập, hợp nhất.
 
@@ -123,7 +123,7 @@ Thông tư này áp dụng đối với các đối tượng sau:
 
 10. Trường hợp tổ chức tham gia bảo hiểm tiền gửi hình thành sau chia, phí bảo hiểm tiền gửi được tính theo công thức **P = P₁ × T + P₂**. Trong đó:
 
-    **P₁** được tính bằng công thức quy định tại khoản 4 Điều này; trong đó S₁ là số dư tiền gửi được bảo hiểm cuối ngày đầu tiên của quý trước liền kề quý thu phí của tổ chức tham gia bảo hiểm tiền gửi trước chia; Sₙ là số dư tiền gửi được bảo hiểm cuối ngày liền kề trước ngày tổ chức tham gia bảo hiểm tiền gửi hình thành sau khi chia khai trương hoạt động của tổ chức tham gia bảo hiểm tiền gửi trước chia.
+    **P₁** được tính bằng công thức quy định tại khoản 4 Điều này; trong đó S₁ là số dư tiền gửi được bảo hiểm cuối ngày đầu tiên của quý trước liền kề quý thu phí của tổ chức tham gia bảo hiểm tiền gửi trước chia; Sₙ là số dư tiền gửi được bảo hiểm cuối ngày 1iền kề trước ngày tổ chức tham gia bảo hiểm tiền gửi hình thành sau khi chia khai trương hoạt động của tổ chức tham gia bảo hiểm tiền gửi trước chia.
 
     **T** là tỷ lệ giữa số dư tiền gửi được bảo hiểm của tổ chức tham gia bảo hiểm tiền gửi hình thành sau chia trên số dư tiền gửi được bảo hiểm của tổ chức tham gia bảo hiểm tiền gửi trước chia tại thời điểm chia.
 
@@ -135,9 +135,9 @@ Thông tư này áp dụng đối với các đối tượng sau:
 
 1. Khi nhận được quyết định đặt tổ chức tín dụng vào kiểm soát đặc biệt, quyết định gia hạn thời hạn kiểm soát đặc biệt, Bảo hiểm tiền gửi Việt Nam đề nghị tổ chức tham gia bảo hiểm tiền gửi tính số tiền phí bảo hiểm tiền gửi nộp thiếu, nộp chậm và khoản tiền chậm nộp (nếu có) đã phát sinh trước thời điểm tổ chức tham gia bảo hiểm tiền gửi được đặt vào kiểm soát đặc biệt.
 
-2. Chậm nhất 10 ngày làm việc kể từ ngày nhận được đề nghị của Bảo hiểm tiền gửi Việt Nam, tổ chức tham gia bảo hiểm tiền gửi có trách nhiệm gửi văn bản cho Bảo hiểm tiền gửi Việt Nam về số tiền phí bảo hiểm tiền gửi nộp thiếu, nộp chậm và khoản tiền chậm nộp (nếu có) đã phát sinh trước thời điểm tổ chức tham gia bảo hiểm tiền gửi được đặt vào kiểm soát đặc biệt.
+2. Chậm nhất 10 ngày 1àm việc kể từ ngày nhận được đề nghị của Bảo hiểm tiền gửi Việt Nam, tổ chức tham gia bảo hiểm tiền gửi có trách nhiệm gửi văn bản cho Bảo hiểm tiền gửi Việt Nam về số tiền phí bảo hiểm tiền gửi nộp thiếu, nộp chậm và khoản tiền chậm nộp (nếu có) đã phát sinh trước thời điểm tổ chức tham gia bảo hiểm tiền gửi được đặt vào kiểm soát đặc biệt.
 
-3. Sau 05 ngày làm việc kể từ ngày nhận được văn bản của tổ chức tham gia bảo hiểm tiền gửi, Bảo hiểm tiền gửi Việt Nam có trách nhiệm xác nhận số phí bảo hiểm tiền gửi của tổ chức tham gia bảo hiểm tiền gửi được tạm hoãn.
+3. Sau 05 ngày 1àm việc kể từ ngày nhận được văn bản của tổ chức tham gia bảo hiểm tiền gửi, Bảo hiểm tiền gửi Việt Nam có trách nhiệm xác nhận số phí bảo hiểm tiền gửi của tổ chức tham gia bảo hiểm tiền gửi được tạm hoãn.
 
 4. Tổ chức tham gia bảo hiểm tiền gửi được kiểm soát đặc biệt có trách nhiệm xây dựng kế hoạch để hoàn trả đầy đủ khoản tiền được tạm hoãn trong phương án cơ cấu lại trình cấp có thẩm quyền phê duyệt và gửi kế hoạch đã được phê duyệt tới Bảo hiểm tiền gửi Việt Nam.
 
@@ -149,13 +149,13 @@ Thông tư này áp dụng đối với các đối tượng sau:
 
 ### Điều 7. Thủ tục trả tiền bảo hiểm
 
-1. Trong thời hạn 05 ngày làm việc, kể từ thời điểm phát sinh nghĩa vụ trả tiền bảo hiểm, tổ chức tham gia bảo hiểm tiền gửi phải gửi Bảo hiểm tiền gửi Việt Nam hồ sơ đề nghị trả tiền bảo hiểm. Hồ sơ đề nghị trả tiền bảo hiểm do người đại diện hợp pháp của tổ chức tham gia bảo hiểm tiền gửi ký, bao gồm:
+1. Trong thời hạn 05 ngày 1àm việc, kể từ thời điểm phát sinh nghĩa vụ trả tiền bảo hiểm, tổ chức tham gia bảo hiểm tiền gửi phải gửi Bảo hiểm tiền gửi Việt Nam hồ sơ đề nghị trả tiền bảo hiểm. Hồ sơ đề nghị trả tiền bảo hiểm do người đại diện hợp pháp của tổ chức tham gia bảo hiểm tiền gửi ký, bao gồm:
 
    a) Văn bản đề nghị trả tiền bảo hiểm theo mẫu quy định của Bảo hiểm tiền gửi Việt Nam;
 
    b) Danh sách người được bảo hiểm tiền gửi theo mẫu quy định của Bảo hiểm tiền gửi Việt Nam, trong đó ghi rõ số tiền gửi được bảo hiểm và khoản nợ tổ chức tham gia bảo hiểm tiền gửi (nếu có) của từng người được bảo hiểm tiền gửi tính đến ngày phát sinh nghĩa vụ trả tiền bảo hiểm tại tổ chức tham gia bảo hiểm tiền gửi; số tiền bảo hiểm đề nghị trả cho từng người được bảo hiểm tiền gửi.
 
-2. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị trả tiền bảo hiểm theo quy định tại khoản 1 Điều này, Bảo hiểm tiền gửi Việt Nam tiến hành kiểm tra các chứng từ, sổ sách để xác định số tiền bảo hiểm phải chi trả.
+2. Trong thời hạn 05 ngày 1àm việc, kể từ ngày nhận đủ hồ sơ đề nghị trả tiền bảo hiểm theo quy định tại khoản 1 Điều này, Bảo hiểm tiền gửi Việt Nam tiến hành kiểm tra các chứng từ, sổ sách để xác định số tiền bảo hiểm phải chi trả.
 
    Tổ chức tham gia bảo hiểm tiền gửi có trách nhiệm cung cấp hồ sơ, chứng từ theo yêu cầu của Bảo hiểm tiền gửi Việt Nam để phục vụ việc kiểm tra, xác định số tiền chi trả.
 
@@ -163,7 +163,7 @@ Thông tư này áp dụng đối với các đối tượng sau:
 
    Căn cứ kết quả kiểm tra của Bảo hiểm tiền gửi Việt Nam và hồ sơ đề nghị trả tiền bảo hiểm do tổ chức tham gia bảo hiểm tiền gửi cung cấp, Bảo hiểm tiền gửi Việt Nam lập danh sách người được trả tiền bảo hiểm và số tiền bảo hiểm trả cho từng người.
 
-3. Trong thời hạn 10 ngày làm việc, kể từ ngày kết thúc kiểm tra theo quy định tại khoản 2 Điều này, Bảo hiểm tiền gửi Việt Nam phải có phương án trả tiền bảo hiểm cho người được bảo hiểm tiền gửi; thông báo công khai về địa điểm, thời gian, phương thức trả tiền bảo hiểm trên ba số liên tiếp của một tờ báo trung ương, một tờ báo địa phương nơi đặt trụ sở chính, các chi nhánh của tổ chức tham gia bảo hiểm tiền gửi và trên một báo điện tử của Việt Nam, trang thông tin điện tử của Bảo hiểm tiền gửi Việt Nam và các hình thức khác do Bảo hiểm tiền gửi Việt Nam quyết định.
+3. Trong thời hạn 10 ngày 1àm việc, kể từ ngày kết thúc kiểm tra theo quy định tại khoản 2 Điều này, Bảo hiểm tiền gửi Việt Nam phải có phương án trả tiền bảo hiểm cho người được bảo hiểm tiền gửi; thông báo công khai về địa điểm, thời gian, phương thức trả tiền bảo hiểm trên ba số liên tiếp của một tờ báo trung ương, một tờ báo địa phương nơi đặt trụ sở chính, các chi nhánh của tổ chức tham gia bảo hiểm tiền gửi và trên một báo điện tử của Việt Nam, trang thông tin điện tử của Bảo hiểm tiền gửi Việt Nam và các hình thức khác do Bảo hiểm tiền gửi Việt Nam quyết định.
 
 ### Điều 8. Mở và sử dụng tài khoản thanh toán của Bảo hiểm tiền gửi Việt Nam tại tổ chức cung ứng dịch vụ thanh toán
 

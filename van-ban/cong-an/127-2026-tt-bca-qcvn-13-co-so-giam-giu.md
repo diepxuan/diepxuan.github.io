@@ -431,7 +431,7 @@ Các nội dung khác thực hiện theo văn bản quy phạm pháp luật đư
 **2.3.7.** 3. Cầu thang có chiều rộng lối đi tối thiểu 1,2m (trừ cầu thang lên tầng lửng), chiều rộng mặt bậc thang 0,28 - 0,32m, chiều cao bậc thang 0,15 - 0,18m. Hành lang giữa có chiều rộng 2,1 - 3,0m. Hành lang bên có chiều rộng 1,8 - 2,4m và phải lắp đặt khung lưới kim loại cao từ mặt lan can đến đáy dầm phía trên lan can, cấu tạo khung lưới kim loại theo mẫu thiết kế xây dựng do Bộ Công an ban hành.
 
 
-**2.3.7.** 4. Buồng giam có chiều cao 3,6 - 3,9m, trường hợp có sàn lửng buồng giam có chiều cao tối đa 5,2m. Buồng giam bố trí theo dãy, sử dụng hành lang bên, bên trong hạn chế các chi tiết góc cạnh, không bố trí vật dụng sắc nhọn, không có góc khuất và điểm mù quan sát, không có sự chênh lệch độ cao, đảm bảo tầm quan sát trực tiếp của cán bộ và hệ thống giám sát hình ảnh cả ngày lẫn đêm.
+**2.3.7.** 4. Buồng giam có chiều cao 3,6 - 3,9m, trường hợp có sàn lửng buồng giam có chiều cao tối đa 5,2m. Buồng giam bố trí theo dãy, sử dụng hành lang bên, bên trong hạn chế các chi tiết góc cạnh, không bố trí vật dụng sắc nhọn, không có góc khuất và điểm mù quan sát, không có sự chênh lệch độ cao, đảm bảo tầm quan sát trực tiếp của cán bộ và hệ thống giám sát hình ảnh cả ngày 1ẫn đêm.
 
 
 **2.3.7.** 5. Chỗ nằm cho người bị giam giữ sử dụng kiểu bệ nằm hoặc giường cá nhân, đảm bảo diện tích chỗ nằm tối thiểu theo khoản 2.1.3 Quy chuẩn kỹ thuật này. Chỗ nằm trong buồng giam người bị kết án tử hình, buồng kỷ luật người bị giam giữ phải có lỗ để bô và lắp đặt cùm chân theo quy định của Bộ Công an.
