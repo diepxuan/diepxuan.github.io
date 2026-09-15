@@ -1,4 +1,26 @@
 
+### Cập nhật 2026-09-15 v202 — Đệ #1 Discovery & Tracking (poll top-50 — 20:28 ICT)
+
+**Phương pháp**: GET trực tiếp HTML tĩnh `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50`, parse đủ 50 hàng. Đối chiếu kép theo **docid** và **số hiệu** với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`; chuẩn hóa Cyrillic U+0420→P Latin, NFD, `đ→d` và so khớp boundary-aware.
+
+**Kết quả**: Phát hiện 5 văn bản chưa có trong tracking và chưa có file `van-ban/`; đã fetch metadata đầy đủ từ trang chi tiết và thêm với trạng thái **Chưa có**:
+
+| # | Số hiệu | Chủ đề (trích yếu) | Docid | Ngày BH | Người ký | PDF chp signed | Hiệu lực | Trạng thái |
+|---|---------|--------------------|-------|---------|----------|----------------|----------|------------|
+| 1 | **356/2026/NĐ-CP** | Bãi bỏ một số nghị định của Chính phủ | [219465](https://vanban.chinhphu.vn/?pageid=27160&docid=219465&classid=1) | 14-09-2026 | Lê Tiến Châu | `cpp/files/vbpq/2026/9/356_2026_nd-cp_14092026-signed.signed.pdf` | 01-12-2026 | **Chưa có** |
+| 2 | **136/2026/TT-BTC** | Sửa đổi, bổ sung khoản 2 Điều 3 của Thông tư số 158/2025/TT-BTC ngày 31 tháng 12 năm 2025 của Bộ trưởng Bộ Tài chính quy định chi tiết một số điều của Nghị định số 360/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế tiêu thụ đặc biệt | [219478](https://vanban.chinhphu.vn/?pageid=27160&docid=219478&classid=1) | 14-09-2026 | Cao Anh Tuấn | `cpp/files/vbpq/2026/9/136-btc.signed.pdf` | 15-09-2026 | **Chưa có** |
+| 3 | **50/2026/TT-BCT** | Sửa đổi, bổ sung một số điều của Thông tư số 37/2025/TT-BCT ngày 14 tháng 6 năm 2025 của Bộ trưởng Bộ Công Thương hướng dẫn chức năng, nhiệm vụ, quyền hạn của cơ quan chuyên môn về công thương thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc Trung ương | [219451](https://vanban.chinhphu.vn/?pageid=27160&docid=219451&classid=1) | 13-09-2026 | Trương Thanh Hoài | `cpp/files/vbpq/2026/9/50-bct.signed.pdf` | 15-09-2026 | **Chưa có** |
+| 4 | **355/2026/NĐ-CP** | Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Môi trường | [219445](https://vanban.chinhphu.vn/?pageid=27160&docid=219445&classid=1) | 11-09-2026 | Hồ Quốc Dũng | `cpp/files/vbpq/2026/9/355_2026_nd-cp_11092026_1-signed.signed.pdf` | 15-09-2026 | **Chưa có** |
+| 5 | **354/2026/NĐ-CP** | Sửa đổi, bổ sung một số điều của Nghị định số 33/2025/NĐ-CР ngày 25 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng | [219446](https://vanban.chinhphu.vn/?pageid=27160&docid=219446&classid=1) | 11-09-2026 | Phạm Gia Túc | `cpp/files/vbpq/2026/9/354_2026_nd-cp_11092026-signed.signed.pdf` | 15-09-2026 | **Chưa có** |
+
+**Ghi chú**: Cả 5 văn bản đều có PDF chữ ký số CAdES-BES tại datafiles.chinhphu.vn. Không crawl toàn văn; khi được chọn phải áp dụng Signed PDF OCR Pipeline và OCR Quality Gate trước khi commit.
+
+**Session**: agent:github-io:subagent:769c9cfd-89af-4146-82e2-60e7b5b583a2 (Đệ #1 Discovery poll 20:28 ICT)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-09-15 20:28 ICT Asia/Saigon
+
+---
+
 ### Cập nhật 2026-09-13 v201 — Đệ #1 Discovery & Tracking (kiểm tra lại top-50 — 04:25 ICT)
 
 **Phương pháp**: Quét lại 50 văn bản mới nhất tại `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50`; đối chiếu theo số hiệu và docid với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**` trên branch heartbeat active.
