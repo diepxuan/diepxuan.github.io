@@ -917,7 +917,7 @@ quan chịu trách nhiệm thi hành Nghị định này.
 
 Nơi nhận: TM. CHÍNH PHỦ
 
-- Ban Bí thư Trung ương Đảng; THỦ §
+- Ban Bí thư Trung ương Đảng; THỦ
 
 ~ Thủ tướng, các Phó Thủ tướng Chính phủ; nà THỦ TƯ
 Rq

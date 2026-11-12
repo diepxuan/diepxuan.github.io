@@ -1004,7 +1004,7 @@ a) Khai thác, sử dụng danh mục thông tin, dữ liệu về định mức
 giá xây dựng, giá các yêu tô chỉ phí trực tiệp cầu thành giá công tác xây dựng,
 chỉ số giá xây dựng;
 
-b) Khai thác, sử dụng thông tín, dữ liệu về định mức xây dựng, giá xây
+b) Khai thác, sử dụng thông tin, dữ liệu về định mức xây dựng, giá xây
 
 dựng, giá các yếu tô chỉ phí trực tiếp cầu thành giá công tác xây dựng, chỉ số
 giá xây dựng theo quy định của pháp luật được công khai, phô biến rộng rãi;
@@ -1117,7 +1117,7 @@ này từ nguồn vốn ngân sách nhà nước, nguồn vốn hợp pháp khá
 của pháp luật.
 
 2. Kinh phí thực hiện việc quản lý, khai thác, bảo đảm an toàn thông tin,
-quản lý, vận hành được bố trí từ nguồn chỉ thường xuyên theo phân cấp ngân
+quản lý, vận hành được bố trí từ nguồn chi thường xuyên theo phân cấp ngân
 sách hiện hành, nguồn vốn hợp pháp khác theo quy định của pháp luật.
 
 3. Khuyến khích huy động các nguồn lực hợp pháp khác để phục vụ việc

@@ -994,7 +994,7 @@ tbeo quy định tại khoản 5 Điều 28 Nghị định này và thỏa thu�
 
 2. Nghĩa vụ và trách nhiệm của bên nhận thầu
 
-a) Giữ bí mật thông tín liên quan đến hợp đồng mà trong hợp đồng xây
+a) Giữ bí mật thông tin liên quan đến hợp đồng mà trong hợp đồng xây
 dựng hoặc pháp luật có quy định;
 
 b) Bảo quản và giao lại cho bên giao thầu những tài liệu và phương tiện

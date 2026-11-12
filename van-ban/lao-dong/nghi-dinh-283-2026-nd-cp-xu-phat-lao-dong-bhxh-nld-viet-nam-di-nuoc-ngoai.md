@@ -162,7 +162,7 @@ của Nghị định này;
 b) Hành vi sử dụng giấy tờ, tài liệu giả mạo quy định tại điểm b khoản 4
 Điều 13 của Nghị định này;
 
-c) Hành vi khai thác, chia sẻ, sử dụng trái phép thông tín, dữ liệu trong cơ sở
+c) Hành vi khai thác, chia sẻ, sử dụng trái phép thông tin, dữ liệu trong cơ sở
 dữ liệu về người lao động. và thông tin về thị trường lao động chưa được cơ quan
 quản lý nhà nước có thâm quyên công bố, phổ biến quy định tại khoản 2
 Điều 10 của Nghị định này;
@@ -1383,7 +1383,7 @@ không hưởng lương theo quy định của pháp luật;
 
 b) Không thông báo bằng văn bản cho Sở Nội vụ nơi tổ chức làm thêm giờ
 và nơi đặt trụ sở chính về việc tổ chức làm thêm giờ từ trên 200 giờ đến 300 giờ
-†rong một năm.
+
 
 2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với người sử dụng
 lao động có hành vi vi phạm quy định của pháp luật về nghỉ hằng tuần hoặc
@@ -3959,7 +3959,7 @@ a) Không tổ chức để người lao động trước khi đi đào tạo, n
 kỹ năng nghề ở nước ngoài được tham gia khóa học giáo dục định hướng;
 
 b) Không thông tin đầy đủ hoặc không thông tin chính xác hoặc không
-thông tín rõ ràng về một trong các nội dung quy định tại khoản 2 Điều 37 của
+thông tin rõ ràng về một trong các nội dung quy định tại khoản 2 Điều 37 của
 Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
 
 4. Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng khi có một trong các:

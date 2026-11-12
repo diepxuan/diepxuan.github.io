@@ -87,7 +87,7 @@ hành chính quy định tại Nghị định này.
 ### Điều 3.Thời hiệu xử phạt vi phạm hành chính
 
 1. Hành vi vi phạm hành chính đã kết thúc, hành vi vi phạm hành chính
-đang thực hiện được xác định theo quy định tại khoản I Điều 8 Nghị định số
+đang thực hiện được xác định theo quy định tại khoản 1 Điều 8 Nghị định số
 118/2021/NĐ-CP quy định chỉ tiết một số điều và biện pháp thi hành Luật Xử
 lý vi phạm hành chính, được sửa đổi, bổ sung bởi Nghị định số 68/2025/NĐ-CP
 và Nghị định số 190/2025/NĐ-CP.
@@ -96,7 +96,7 @@ và Nghị định số 190/2025/NĐ-CP.
 lãng phí là 01 năm.
 
 3. Thời điểm để tính thời hiệu xử phạt vi phạm hành chính quy định tại
-khoản 2 Điều này thực hiện theo quy định tại điểm b khoản I Điều 6 Luật Xử
+khoản 2 Điều này thực hiện theo quy định tại điểm b khoản 1 Điều 6 Luật Xử
 lý vi phạm hành chính số 15/2012/QH15, được sửa đổi, bố sung bởi Luật số
 67/2020/QH14 và Luật số 88/2025/QH15.
 
@@ -426,7 +426,7 @@ b) Bãi bỏ khoản 3 Điều 3 Nghị định số 63/2019/NĐ-CP được s�
 sung tại khoản 1 Điều 4 Nghị định số 102/2021/NĐ-CP;
 
 c) Bãi bỏ cụm từ “thực hành tiết kiệm, chống lãng phí” quy định tại tên Nghị
-định, điểm b khoản 1, khoản 2 Điều 1 và khoản I Điều 2 Nghị định số
+định, điểm b khoản 1, khoản 2 Điều 1 và khoản 1 Điều 2 Nghị định số
 63/2019/NĐ-CP;
 
 d) Bãi bỏ cụm từ “mức phạt tiền tối đa trong lĩnh vực thực hành tiết kiệm,
@@ -436,7 +436,7 @@ với tổ chức” tại điểm b khoản 1 Điều 4;
 đ) Bãi bỏ cụm từ “thực hành tiết kiệm, chống lãng phí” tại tiêu đề Chương I
 Nghị định số 102/2021/NĐ-CP;
 
-e) Bãi bỏ cụm từ “thực hành tiết kiệm, chống lãng phí” tại khoản I Điều
+e) Bãi bỏ cụm từ “thực hành tiết kiệm, chống lãng phí” tại khoản 1 Điều
 3 Nghị định số 63/2019/NĐ-CP được sửa đổi, bổ sung tại khoản 1 Điều 4 Nghị
 định số 102/2021/NĐ-CP.
 

@@ -827,17 +827,17 @@ sơ, hóa đơn, chứng từ gôộc tại đơn vị.
 
 2. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với tổ chức có
 hành vi lập hồ sơ đề nghị chỉ giả mạo gửi Kho bạc Nhà nước để thanh toán, chỉ
-trả các khoản chỉ thường xuyên, chỉ chương trình mục tiêu quốc gia, chương
+trả các khoản chi thường xuyên, chỉ chương trình mục tiêu quốc gia, chương
 trình mục tiêu sử dụng kinh phí sự nghiệp (loại trừ các khoản chỉ thực hiện sửa
 chữa, cải tạo, nâng cấp, mở rộng, xây dựng mới hạng mục công, trình trong cá
-dự án đã đầu tư xây dựng được bế trí từ nguồn chỉ thường xuyên có tổng mức |
+dự án đã đầu tư xây dựng được bế trí từ nguồn chi thường xuyên có tổng mức |
 đầu tư từ 500.000.000 đồng trở lên).
 
 3. Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với tổ chức có
 hành vi lập hồ sơ đề nghị chỉ giả mạo gửi Kho bạc Nhà nước để thanh toán vốn
 đầu tư thuộc nguồn vốn ngân sách nhà nước hoặc chỉ thực hiện sửa chữa, cải
 tạo, nâng cấp, mở rộng, xây dựng mới hạng mục công trình trong các dự án đã
-đầu tư xây dựng được bề trí từ nguồn chỉ thường xuyên có tổng mức đầu tư từ
+đầu tư xây dựng được bề trí từ nguồn chi thường xuyên có tổng mức đầu tư từ
 
 500.000.000 đồng trở lên.
 4. Biện pháp khắc phục hậu quả:
@@ -857,7 +857,7 @@ ngân sách nhà nước
 vi vi phạm không t thanh toán để thu hồi tạm ứng đối với các khoản chỉ vốn đầu
 tư thuộc nguồn vốn ngân sách nhà nước hoặc chỉ thực hiện sửa chữa, cải tạo,
 nâng cấp, mở rộng, xây dựng mới hạng mục công trình trong các dự án đã đầu
-tư xây dựng được bố trí từ nguồn chỉ thường xuyên có tổng mức đầu tư từ
+tư xây dựng được bố trí từ nguồn chi thường xuyên có tổng mức đầu tư từ
 500.000.000 đồng trở lên qua các lần thanh toán khối lượng hoàn thành của
 hợp đồng theo quy định cụ thể trong hợp đồng và phụ lục hợp đồng.
 

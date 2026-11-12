@@ -955,8 +955,8 @@ Trường hợp tại thời điểm Ủy ban nhân dân cấp tỉnh quyết đ
   - `3 1⁄2024/QH15` → `31/2024/QH15`; `3 1⁄` → `31/`.
   - `NĐ- -CP` → `NĐ-CP` (do PDF có dấu cách thừa giữa các ký tự).
   - `tô chức` → `tổ chức`; `qui định` → `quy định`; `qi` → `đi`.
-  - `thấm quyền`/`thẳm quyền`/`thâm quyển` → `thẩm quyền`.
-  - `Chương IHI` → `Chương III`; `Chương II` → `Chương II`; `Chương ] IV` → `Chương IV`.
+  - `thẩm quyền`/`thẳm quyền`/`thâm quyển` → `thẩm quyền`.
+  - `Chương IIII` → `Chương III`; `Chương II` → `Chương II`; `Chương ] IV` → `Chương IV`.
   - `Điêu` → `Điều`; `Điều IT` → `Điều 12`; `Điều 55` (OCR lỗi thành Điều 33 trong một số chỗ).
   - `sử đụng`/`sử dựng` → `sử dụng`.
   - `Luật Đất đại`/`Luật Đắc đai` → `Luật Đất đai`; `Đắc đai` → `Đất đai`.

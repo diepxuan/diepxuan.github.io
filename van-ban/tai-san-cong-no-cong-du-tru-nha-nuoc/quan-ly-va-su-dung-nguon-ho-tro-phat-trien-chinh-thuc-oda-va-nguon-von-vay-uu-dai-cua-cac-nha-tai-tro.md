@@ -1,5 +1,5 @@
 
-Số: 16/2016/NĐ- CP Hà Nội, ngày l6 tháng 3 năm 2016
+Số: 16/2016/NĐ- CP Hà Nội, ngày 16 tháng 3 năm 2016
 
 NGHỊ ĐỊNH
 Về quản lý và sử dụng vốn hồ trợ phát triển chính thức (ODA)
@@ -53,7 +53,7 @@ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sa
 
 quản chương trình, dự án sử dụng vến ODA, vốn vay ưu đãi (sau đây gọi là,
 
-“chương trình, dự án”) với sự tham gia của đại diện có thâm quyền của cơ
+“chương trình, dự án”) với sự tham gia của đại diện có thẩm quyền của cơ
 
 quan có liên quan để chỉ đạo, phối hợp, giám sát thực hiện chương trình, dự
 
@@ -195,7 +195,7 @@ quản lý, sử dụng phù hợp với quy định, thủ tục ngân sách nh
 
 18. Ngân hàng phục vụ chương trình, dự án sử dụng vốn ODA, vốn vay
 ưu đãi là ngân hàng thương. mại được Ngân hàng Nhà nước Việt Nam xác
-định và công bế đủ tiêu chuẩn thực hiện việc giao địch thanh toán đối ngoại
+định và công bố đủ tiêu chuẩn thực hiện việc giao địch thanh toán đối ngoại
 đối với vốn ODA, vốn vay ưu đãi và được cơ quan chủ trì đàm phán điều ước
 quốc tế, thỏa thuận về vên ODA, vốn vay ưu đãi lựa chọn để thực hiện các
 giao dịch thanh toán đối ngoại của chương trình, dự án.
@@ -355,7 +355,7 @@ và kết quả sử dụng vốn ODA, vốn vay ưu đãi.
 dụng vốn ODA, vốn vay ưu đãi, ngăn ngừa và xử lý các hành vi này theo quy
 định của pháp luật.
 
-Điều §. Nguyên tắc áp dụng cơ chế tài chính trong nước đỗi với
+Điều 5. Nguyên tắc áp dụng cơ chế tài chính trong nước đỗi với
 chương trình, dự án sử dụng vốn ODA, vốn vay ưu đãi
 
 1. Cấp phát toàn bệ từ ngân sách nhà nước được áp dụng cho chương
@@ -378,7 +378,7 @@ sách nhà nước theo quy định của pháp luật hiện hành.
 nước ngoài, khu vực tư nhân được tiếp cận và sử dụng vên ODA, vôn vay ưu đãi.
 
 2. Hình thức tiếp cận và sử dụng vốn ODA, vốn vay ưu đãi đối với khu
-vực tư nhân bao gôm:
+vực tư nhân bao gồm:
 
 a) Tiếp cận và sử dụng vốn ODA, vốn vay ưu đãi trong khuôn khổ hạn
 mức tín dụng cho vay đến tổ chức tài chính, tín dụng trong nước đề thực hiện
@@ -401,7 +401,7 @@ quản.
 Điều 10. Quy trình quản lý và sử dụng vốn ODA, vốn vay ưu đãi
 
 1. Quy trình quản lý và sử dụng vốn ODA, vốn vay ưu đãi đối với
-chương trình, dự án bao gôm:
+chương trình, dự án bao gồm:
 
 a) Vận động vốn ODA, vốn vay ưu đãi;
 
@@ -415,7 +415,7 @@ e) Hoàn thành, chuyển giao kết quả thực hiện chương trình, dự �
 
 2. Quy trình quản lý và sử dụng vốn ODA, vốn vay ưu đãi đối với phi dự
 án, hỗ trợ ngân sách thực hiện như quy trình quản lý và sử dụng vốn ODA,
-vốn vay ưu đãi đối với chương trình, dự án quy định tại khoản I Điều này, trừ
+vốn vay ưu đãi đối với chương trình, dự án quy định tại khoản 1 Điều này, trừ
 trường hợp có quy định riêng tại Nghị định này.
 
 Điều 11. Vận động vốn ODA, vốn vay ưu đãi
@@ -440,7 +440,7 @@ các cơ quan có liên quan và các nhà tài trợ nước ngoài chủ độ
 nghị hoặc diễn đàn vận động vốn ODA, vốn vay ưu đãi cấp ngành, địa
 phương.
 
-4. Căn cứ điều kiện cụ thể và được phép của cơ quan có thâm quyền, Bộ,
+4. Căn cứ điều kiện cụ thể và được phép của cơ quan có thẩm quyền, Bộ,
 ngành có thể tổ chức Nhóm quan hệ đối tác về lĩnh vực cụ thể để phối hợp,
 chia sẻ thông tin, kiến thức, kinh nghiệm phát triển và bổ trợ lẫn nhau giữa
 các nhà tài trợ nước ngoài, tránh trùng lặp, góp phần nâng cao hiệu quả sử
@@ -501,7 +501,7 @@ quy định tại Phụ lục I của Nghị định này.
 vôn vay ưu đãi:
 
 a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển kinh tế - xã
-hội, kế hoạch đầu tư công trung hạn và hàng năm đã được cấp có thâm quyền
+hội, kế hoạch đầu tư công trung hạn và hàng năm đã được cấp có thẩm quyền
 phê duyệt; chính sách, định hướng ưu tiên cung cấp vốn ODA, vốn vay ưu đãi
 của nhà tài trợ nước ngoài;
 
@@ -653,7 +653,7 @@ Báo cáo kết quả thâm định trình Thủ tướng Chính phủ.
 
 Điều 17. Trình tự, thủ tục quyết định chủ trương đầu tư chương
 trình, dự án, phi dự án sử dụng vốn ODA viện trợ không hoàn lại thuộc
-thấm quyền của người đứng đầu cơ quan chủ quản
+thẩm quyền của người đứng đầu cơ quan chủ quản
 
 1. Đối với chương trình, đự án đầu tư:
 
@@ -732,7 +732,7 @@ trình tự và thủ tục quyết định chủ trương đầu tư theo quy �
 Cơ quan chủ quản thực hiện các hoạt động thực hiện trước trong giai
 đoạn chuẩn bị thực hiện chương trình, đự án, bao gồm:
 
-1. Sau khi chủ trương đầu tư được cấp có thâm quyền quyết định, cơ
+1. Sau khi chủ trương đầu tư được cấp có thẩm quyền quyết định, cơ
 quan chủ quản giao đơn vị đề xuât chương trình, dự án:
 
 a) Xây dựng và trình cấp có thắm quyền phê duyệt khung chính sách tái định
@@ -741,7 +741,7 @@ cư trong quá trình thâm định văn kiện chương trình, dự án và qu
 b) Lập kế hoạch lựa chọn nhà thầu; lập hồ sơ mời quan tâm, hồ sơ mời
 sơ tuyên, hồ sơ mời thâu, hô sơ yêu cầu.
 
-2. Từ khi chương trình, dự án được cấp có thâm quyền quyết định đầu tư
+2. Từ khi chương trình, dự án được cấp có thẩm quyền quyết định đầu tư
 đến khi điều ước quốc tế cụ thể, thỏa thuận về vốn ODA, vốn vay ưu đãi của
 chương trình, dự án có biệu lực, cơ quan chủ quản tổ chức thực hiện các hoạt
 động sau:
@@ -805,7 +805,7 @@ về những thay đổi có liên quan;
 c) Trên cơ sở ý kiến của Bộ Kế hoạch và Đầu tư, Bộ Tài chính và các cơ
 quan có liên quan, cơ quan chủ quản trình Thủ tướng Chính phủ các nội dung
 thay đổi so với nội dung của Quyết định chủ trương đầu tư để Thủ tướng,
-Chính phủ quyết định hoặc trình cấp có thâm quyền quyết định theo thâm quyền.
+Chính phủ quyết định hoặc trình cấp có thẩm quyền quyết định theo thẩm quyền.
 
 2. Đếi với Quyết định chủ trương đầu tư chương trình, đự án thuộc thâm
 quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ, trừ dự án nhóm A:
@@ -818,8 +818,8 @@ b) Trên cơ sở công văn của cơ quan chủ quản và ý kiến của cá
 có liên quan quy định tại điểm a khoản này, Bộ Kế hoạch và Đầu tư chủ trì,
 phối hợp với Bộ Tài chính xem xét, trao đổi, thống nhất với nhà tài trợ nước
 ngoài về những thay đổi có liên quan trình Thủ tướng Chính phủ để quyết
-định hoặc trình câp có thâm quyền quyết định theo thâm quyền trong trường
-hợp thay đổi dẫn đến vượt thâm quyền Thủ tướng Chính phủ.
+định hoặc trình câp có thẩm quyền quyết định theo thẩm quyền trong trường
+hợp thay đổi dẫn đến vượt thẩm quyền Thủ tướng Chính phủ.
 
 3. Đối với Quyết định chủ trương đầu tư chương trình, dự án thuộc thẩm
 quyền quyết định chủ trương đầu tư của người đứng đầu cơ quan chủ quản:
@@ -832,8 +832,8 @@ b) Trên cơ sở ý kiến của các cơ quan quy định tại điểm a kho�
 quan chủ quản làm việc và thống nhất với nhà tài trợ nước ngoài để điều
 chỉnh nội dung Quyết định chủ trương đầu tư;
 
-©) Trong trường hợp nội dung thay đổi so với nội đung của Quyết định
-chủ trương đầu tư dẫn đến vượt thâm quyền cơ quan chủ quản, cơ quan chủ
+) Trong trường hợp nội dung thay đổi so với nội đung của Quyết định
+chủ trương đầu tư dẫn đến vượt thẩm quyền cơ quan chủ quản, cơ quan chủ
 quản thực hiện theo quy định tại khoản 1, 2 Điều này.
 
 : Chương II
@@ -854,7 +854,7 @@ chương trình, dự án.
 18
 
 3. Tổ chức thẩm định, phê duyệt văn kiện chương trình, dự án và quyết
-định đầu tư chương trình, dự án theo thẩm quyền; trình cấp có thâm quyền
+định đầu tư chương trình, dự án theo thẩm quyền; trình cấp có thẩm quyền
 thẩm định, phê duyệt văn kiện chương trình, dự án và quyết định đâu tư
 chương trình, dự án.
 
@@ -885,7 +885,7 @@ e) Chi phí thâm định văn kiện chương trình, dự án;
 quản lý chương trình, dự án;
 
 đ) Chỉ phí cho các hoạt động được phép thực hiện trước trên cơ sở Quyết
-định chủ trương đâu tư quy định tại khoản 7 Điền 20 Nghị định nảy. Nguôn
+định chủ trương đâu tư quy định tại khoản 7 Điều 20 Nghị định nảy. Nguôn
 kinh phí quy định tại khoản 3 Điều 19 Nghị định này.
 
 2. Đối với chương trình, dự án được cấp phát toàn bộ từ ngân sách nhà
@@ -950,7 +950,7 @@ sử dụng vốn ODA, vốn vay ưu đãi thực hiện theo quy định tại 
 4. Trình tự lập, thẩm định, quyết định đầu tư chương trình, dự án đầu tư
 sử dụng vốn ODA, vên vay ưu đãi có cầu phần xây dựng thực hiện theo quy
 định của pháp luật về xây dựng và pháp luật khác có liên quan, trừ dự án quan
-trọng quôc gia.
+trọng quốc gia.
 
 20
 
@@ -970,7 +970,7 @@ c) Trên cơ sở ý kiến của các cơ quan, cơ quan chủ quản giao ch�
 hoàn chỉnh văn kiện chương trình, dự án, lập Hỗ sơ thâm định văn kiện
 chương trình, dự án;
 
-__ ® Cơ quan chủ quản gửi Bộ Kế hoạch và Đầu tư tờ trình kèm Hồ sơ
+__ Cơ quan chủ quản gửi Bộ Kế hoạch và Đầu tư tờ trình kèm Hồ sơ
 thâm định văn kiện chương trình, dự án đề nghị thâm định;
 
 đ) Bộ Kế hoạch và Đầu tư gửi công văn lấy ý kiến thẩm định của các cơ
@@ -985,7 +985,7 @@ trình Thủ tướng Chính phủ xem xét, phê duyệt văn kiện chương t
 và quyết định đâu tư chương trình, dự án.
 
 6. Trình tự lập, thâm định, quyết định đầu tư chương trình, dự án đầu tư
-thuộc thâm quyền của người đứng đầu cơ quan chủ quản:
+thuộc thẩm quyền của người đứng đầu cơ quan chủ quản:
 
 a) Sau khi có quyết định chủ trương đầu tư, chủ dự án phối hợp với nhà
 tài trợ nước ngoài lập văn kiện chương trình, dự án báo cáo cơ quan chủ quản
@@ -1027,7 +1027,7 @@ chủ trương, đầu tư đề phê đuyệt văn kiện dự án và quyết 
 
 8. Trình tự lập, thấm định, quyết định đầu tư phi dự án:
 
-a) Đối với khoản phi dự án có những nội dung thuộc thâm quyền quyết
+a) Đối với khoản phi dự án có những nội dung thuộc thẩm quyền quyết
 định đầu tư của Thủ tướng Chính phú quy định tại Điều 25 Nghị định này và
 viện trợ mua sắm các loại hàng hóa phải được Thủ tướng Chính phủ cho phép
 theo quy định hiện hành của pháp luật: Cơ quan chủ quản thực biện trình tự
@@ -1082,7 +1082,7 @@ _ nhà tài trợ nước ngoài, bảo đảm những nội dung của Quyết 
 Hồ sơ đề nghị thẩm định văn kiện chương trình, dự án gồm:
 
 1. Tờ trình đề nghị thẩm định văn kiện chương trình, dự án ,của cơ quan
-chủ quản (đối với văn kiện chương trình, dự án thuộc thâm quyền phê duyệt
+chủ quản (đối với văn kiện chương trình, dự án thuộc thẩm quyền phê duyệt
 của Thủ tướng Chính phủ) hoặc của chủ dự án (đối với văn kiện chương trình,
 dự án thuộc thẩm quyền phê duyệt của người đứng đầu cơ quan chủ quần).
 
@@ -1140,7 +1140,7 @@ nội dung đánh giá về tính liên kết, cơ chế phối hợp giữa cá
 tôi đa hóa hiệu quả và lợi ích của các bên tham gia;
 
 b) Đối với dự án đầu tư có cấu phần xây dựng trong khuôn khổ chương
-trình, nội dung thâm định văn kiện dự án theo quy định tại khoản I Điều này;
+trình, nội dung thâm định văn kiện dự án theo quy định tại khoản 1 Điều này;
 
 c) Đối với dự án đầu tư không có cầu phần xây dựng trong khuôn khổ
 chương trình, nội dung thâm định văn kiện dự án theo quy định tại khoản 2
@@ -1149,14 +1149,14 @@ chương trình, nội dung thâm định văn kiện dự án theo quy định 
 4. Đối với chương trình, dự án ô và các dự án thành phần:
 
 a) Nội dung thấm định dự án đầu tư có cầu phần xây dựng theo quy định
-tại khoản I Điêu này;
+tại khoản 1 Điêu này;
 b) Nội dung thẩm định dự án đầu tư không có cấu phần xây dựng theo
 quy định tại khoản 2 Điều này;
 24
 
 e.
 
-©) Ngoài các nội dung thâm định quy định tại điểm a, b khoản này, nội
+) Ngoài các nội dung thâm định quy định tại điểm a, b khoản này, nội
 dung thâm định văn kiện chương trình, dự án ô cần bao gồm: Phân tích và
 đánh giá câu trúc chương trình, dự án ô và phân bỗ vốn (vốn ODA, vốn Vay
 ưu đãi, vốn đôi ứng) cho các dự án thành phân, hình thức tổ chức quản lý dự
@@ -1174,7 +1174,7 @@ thời gian thực hiện; khá năng cân đối các nguồn vốn (vốn ODA,
 đãi, vến đối ứng); nguồn nhân lực tham gia thực hiện dự án; sản phẩm dự án;
 rủi ro có thể xảy ra và biện pháp phòng ngừa;
 
-©) Đánh giá chung nội dung văn kiện dự án so với nội dung quyết định
+) Đánh giá chung nội dung văn kiện dự án so với nội dung quyết định
 chủ trương đầu tư và những kiên nghị có liên quan.
 
 6. Đối với khoản phi đự án: Nội dung thẩm định văn kiện phi dự án bao gồm:
@@ -1226,7 +1226,7 @@ KÝ KÉT ĐIÊU ƯỚC QUỐC TẾ VẺ VỐN ODA, VÓN VAY ƯU ĐẤT
 1. Cơ sở đề xuất ký kết điều ước quốc tế khung về vốn ODA, vốn vay ưu
 đãi là kết quả vận động, chiến lược và chính sách hợp tác phát triển, lĩnh vực
 và chương trình, dự án ưu tiên về sử dụng vốn ODA, vốn vay ưu đãi đã được
-thống nhất giữa cấp có thâm quyền của Việt Nam và nhà tài trợ nước ngoài.
+thống nhất giữa cấp có thẩm quyền của Việt Nam và nhà tài trợ nước ngoài.
 
 2. Cơ sở đề xuất ký kết điều ước quốc tế cụ thê về vốn ODA, vốn vay ưu
 đãi là văn kiện chương trình, dự án đã được phê duyệt và quyết định đầu tư
@@ -1260,7 +1260,7 @@ kết điều ước quốc tế về vốn ODA, vốn vay ưu đãi trong các 
 a) Điều ước quốc tế khung về vốn ODA, vốn vay ưu đãi;
 
 b) Điều ước quốc tế cụ thể về vốn ODA viện trợ không hoàn lại cho
-chương trình, dự án của cơ quan không quy định tại khoản I Điều này, trừ
+chương trình, dự án của cơ quan không quy định tại khoản 1 Điều này, trừ
 vốn ODA viện trợ không hoàn lại của Ngân hàng Thế giới, Ngân hàng Phát
 triển châu Á, Quỹ Tiền tệ quốc tế, tổ chức tài chính tiền tệ quốc tế và ngân
 hàng quốc tế khác quy định tại khoản 3 Điều này.
@@ -1306,7 +1306,7 @@ Nam làm đại diện.
 
 4. Bộ Kế hoạch và Đầu tư là cơ quan đề xuất trình Thủ tướng Chính phủ
 về việc ký kết Thỏa thuận về vốn ODA viện trợ không hoàn lại cho chương
-trình, dự án của cơ quan không quy định tại khoản I Điều này, trừ trường hợp
+trình, dự án của cơ quan không quy định tại khoản 1 Điều này, trừ trường hợp
 quy định tại khoản 3 Điều này.
 
 Điều 36. Trình tự, thủ tục ký kết, sửa đỗi, bỗ sung và gia hạn thóa
@@ -1420,7 +1420,7 @@ dự án.
 
 Điều 39. Thành lập Ban quản lý dự án
 
-1. Người có thâm quyền thành lập Ban quản lý dự án quy định tại khoản
+1. Người có thẩm quyền thành lập Ban quản lý dự án quy định tại khoản
 1,2 Điều 38 Nghị định này, trong vòng 30 ngày sau khi có quyết định đầu tư,
 ban hành quyết định thành lập Ban quản lý dự án.
 
@@ -1482,7 +1482,7 @@ của Nghị định này.
 
 6. Chịu trách nhiệm về chỉ phí phát sinh do các nguyên nhân chủ quan,
 thất thoát, lãng phí, tham những và Các sai phạm. trong công tác quản lý và sử
-dụng vến ODA, vốn ¡vay ưu đãi thuộc thâm quyền quản lý của mình theo quy
+dụng vến ODA, vốn ¡vay ưu đãi thuộc thẩm quyền quản lý của mình theo quy
 định của pháp luật về đầu tư công.
 
 7. Thực hiện nhiệm vụ và quyền hạn khác theo quy định của pháp luật,
@@ -1569,7 +1569,7 @@ kiện thực hiện một số phân việc về quản lý và giám sát, Ban
 thuê tư vẫn thực hiện các công việc này với sự chấp thuận của chủ dự án.
 
 3. Ban quản lý dự án có nhiệm vụ thực hiện các công việc do chủ dự án
-giao đê báo cáo chủ dự án, bao gôm:
+giao đê báo cáo chủ dự án, bao gồm:
 
 a) Lập kế hoạch tổng thể và kế hoạch hàng năm thực biện chương trình, đự án;
 b) Chuẩn bị thực hiện và thực hiện chương trình, dự án;
@@ -1586,7 +1586,7 @@ chương trình, dự án; lập báo cáo kết thúc và báo cáo quyết to�
 dự án; thực hiện quy định về đóng cửa dự án tại điều ước quốc tế, thỏa thuận
 về vốn ODA, vốn vay ưu đãi đối với chương trình, dự án;
 
-ø) Thực hiện các nhiệm vụ khác trong khuôn khổ chương trình, dự án đo
+) Thực hiện các nhiệm vụ khác trong khuôn khổ chương trình, dự án đo
 chủ dự án giao.
 
 4. Nhiệm vụ và quyền hạn khác theo quy định của pháp luật, điều ước quốc tế
@@ -1641,7 +1641,7 @@ có thẩm quyền dự kiến ký kết điều ước quốc tế, thỏa thu�
 vay ưu đãi trong thời kỳ kế hoạch 5 năm;
 
 c) Các chương trình, dự án có quyết định chủ trương đầu tư của cấp có
-thâm quyền vào thời điểm không trùng với thời gian lập và tông hợp kế hoạch
+thẩm quyền vào thời điểm không trùng với thời gian lập và tông hợp kế hoạch
 đầu tư công trung hạn 5 năm sẽ được bổ sung vào kế hoạch đầu tư : công trung
 hạn 5 năm theo quy định của pháp luật về bỗ sung và điều chỉnh kế hoạch đầu
 tư công trung hạn 5 năm.
@@ -1736,7 +1736,7 @@ trình, dự án trình cơ quan chủ quản phê duyệt kế hoạch vốn OD
 thực hiện. Cơ quan chủ quản, chủ dự án có trách nhiệm tự cân đối đủ vốn đối
 ứng theo tiến độ thực hiện của chương trình, dự án.
 
-§. Đối với chương trình, đự án vay lại một phần từ ngân sách nhà nước:
+5. Đối với chương trình, đự án vay lại một phần từ ngân sách nhà nước:
 
 Tuỳ theo tính chất của từng hợp phần chương trình, dự án (cấp phát toàn
 bộ hay cho vay lại), chủ dự án áp dụng quy trình lập và trình đuyệt kế hoạch
@@ -1751,7 +1751,7 @@ hiện chương trình, dự án (bao gồm. cả các hoạt động thực hi�
 Nguồn, mức vốn và cơ chế vôn đối ứng phải phù hợp với nội dung chỉ tiêu
 của chương trình, dự án đã được thống nhất giữa cơ quan chủ quản và nhà tài
 trợ nước ngoài và được thể hiện trong văn kiện chương trình, dự án đã được
-cấp có thâm quyền thấm định và quyết định đầu tư.
+cấp có thẩm quyền thấm định và quyết định đầu tư.
 
 36
 
@@ -1774,7 +1774,7 @@ thực hiện chương trình, dự án;
 e) Chi phí tuyên truyền, quảng cáo chương trình, dự án và các hoạt động
 cộng đông;
 
-ø) Chỉ trả các loại thuế, phí hải quan, phí bảo hiểm theo quy định hiện hành;
+) Chỉ trả các loại thuế, phí hải quan, phí bảo hiểm theo quy định hiện hành;
 
 h) Tiền trả lãi, tiền đặt cọc, phí cam kết và các loại phí liên quan khác
 phải trả cho phía nước ngoài;
@@ -1812,7 +1812,7 @@ trước khi ký hợp đồng vay lại.
 5. Đối với chương trình, dự án thuộc diện cấp phát từ ngân sách nhà
 nước có thời điểm phê duyệt hoặc ký kết không trùng với kỳ lập dự toán ngân
 sách hàng năm, chưa được. bố trí vốn đối ứng: cơ quan chủ quản có văn bản
-đề nghị Bộ Kế hoạch và Đầu tư, Bộ Tài chính để xử lý theo thâm quyền hoặc
+đề nghị Bộ Kế hoạch và Đầu tư, Bộ Tài chính để xử lý theo thẩm quyền hoặc
 trình cấp có thẩm quyền xem xét, quyết định bổ sung vào dự toán ngân sách
 hàng năm.
 
@@ -1820,7 +1820,7 @@ Trường hợp thời điểm lập kế hoạch vốn đối ứng chuẩn b�
 hiện chương trình, đự án được xem xét tài trợ không trùng với kỳ lập kế hoạch
 ngân sách hàng năm, cơ quan chủ quản cân đối trong tổng vốn đã được phân bổ.
 Trong trường hợp không tự cân đối được, cơ quan chủ quản có văn bản gửi Bộ Kế
-hoạch và Đầu tr, Bộ Tài chính yêu cầu xem xét trình cập có thấm quyền quyết
+hoạch và Đầu tr, Bộ Tài chính yêu cầu xem xét trình cập có thẩm quyền quyết
 định việc tạm ứng vốn và sau đó khấu trừ vào kế hoạch năm tiếp theo.
 
 6. Trong trường hợp vốn đối ứng đã được cấp phát từ ngân sách trung
@@ -1840,7 +1840,7 @@ hạng mục của chương trình, dự án được. cấp phát toàn bộ t�
 nước đã được cam kết tài trợ từ nguồn vốn ODA, vốn vay ưu đãi và đã được
 ghỉ kế hoạch tài chính năm mà chưa rút được vốn ODA, vốn vay ưu đãi, Bộ
 Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Tài chính tổng hợp, trình cấp có
-thâm quyền xem xét, quyết định tạm ứng vốn từ nguồn ngân sách nhà nước
+thẩm quyền xem xét, quyết định tạm ứng vốn từ nguồn ngân sách nhà nước
 trên cơ sở văn bản giải trình của cơ quan chủ quản và văn bản cam kết của
 nhà tài trợ nước ngoài về việc hồi tố các khoản vốn ứng trước này. Phần vốn
 này sẽ được Kho bạc nhà nước các cấp thu hồi lại khi giải ngân vốn ODA,
@@ -1913,7 +1913,7 @@ khác thực hiện như sau:
 
 a) Đối với trường hợp sử dụng vốn dư trong phạm vi chương trình, dự án
 được xác định tại văn bản quyết định đầu tư dự án, phù hợp với quyết định
-phê duyệt chủ trương đầu tư của cấp có thâm quyền: sau khi thống nhất với
+phê duyệt chủ trương đầu tư của cấp có thẩm quyền: sau khi thống nhất với
 Bộ Kế hoạch và Đầu tư và Bộ Tài chính, cơ quan chủ quản thỏa thuận với nhà
 tài trợ nước ngoài để quyết định việc sử dụng vốn dư theo quy định
 hiện hành;
@@ -1981,7 +1981,7 @@ theo quy định hiện hành của pháp luật về giám sát và đánh giá
 
 a) Đánh giá ban đầu; Đánh giá giữa kỳ hoặc giai đoạn; Đánh giá kết thúc;
 b) Đánh giá đột xuất;
-©) Đánh giá tác động.
+) Đánh giá tác động.
 
 3. Trách nhiệm giám sát và đánh giá chương trình, dự án sử dụng vốn
 ODA, vên vay ưu đãi:
@@ -2057,7 +2057,7 @@ dụng các nguồn vốn này.
 pháp luật về quản lý và sử dụng vốn ODA, vến vay ưu đãi theo thẩm quyền.
 
 3. Chủ trì chuẩn bị nội dụng và tổ chức vận động, điều phối vốn ODA, vốn
-vay ưu đãi theo thâm quyền; tông hợp và trình Thủ tướng Chính phủ các Đề xuất
+vay ưu đãi theo thẩm quyền; tông hợp và trình Thủ tướng Chính phủ các Đề xuất
 chương trình, dự án sử dụng vôn vay ODA, vốn vay ưu đãi; phối hợp với nhà tải
 trợ xây dựng kế hoạch nguồn vốn cho Đề xuất chương trình, dự án sử dụng vốn
 vay ODA, vôn vay ưu đãi sau khi được Thủ tướng Chính phủ cho phép.
@@ -2072,7 +2072,7 @@ _- Tổng hợp và trình Thủ tướng Chính phủ xem xét, quyết định
 đầu tư chương trình, dự án sử dụng vôn DA, vốn vay ưu đãi thuộc thâm quyên
 quyết định của Thủ tướng Chính phủ, trừ dự án nhóm A; gửi văn bản chính thức
 
-§ đề nghị nhà tài trợ nước ngoài tài trợ cho chương trình, dự án sau khi chủ trương
+ đề nghị nhà tài trợ nước ngoài tài trợ cho chương trình, dự án sau khi chủ trương
 đầu tr chương trình, dự án được cấp có thẩm quyền quyết định.
 
 6. Chủ trì, phối hợp với các cơ quan có liên quan trình Chính phủ về việc
@@ -2094,7 +2094,7 @@ b) Xử lý nhu cầu bổ sung vốn trong kế hoạch dự toán ngân sách 
 năm của chương trình, dự á án sử dụng vôn ODA, vốn vay ưu đãi theo quy định
 tại khoản 5 Điều 48 và Điều 49 Nghị định này.
 
-§. Phối hợp với Bộ Tài chính và các cơ quan có liên quan xác định cơ chế tài
+5. Phối hợp với Bộ Tài chính và các cơ quan có liên quan xác định cơ chế tài
 chính trong nước áp dụng đối với chương trình, dự án theo quy định của pháp luật.
 
 9. Thực hiện giám sát và đánh giá chương trình, dự án sử dụng vốn
@@ -2185,7 +2185,7 @@ e) Phối hợp với Ngân hàng Nhà nước Việt Nam xác định và công
 danh sách ngân hàng thương mại đủ tiêu chuẩn thực hiện việc giao dịch thanh
 toán đối ngoại đối với vốn ODA, vốn vay ưu đãi;
 
-#ø) Theo dõi, kiểm tra công tác quản lý tài chính trong việc sử dụng vốn
+#) Theo dõi, kiểm tra công tác quản lý tài chính trong việc sử dụng vốn
 ODA, vốn vay ưu đãi và tổ chức hạch toán ngân sách nhà nước đối với các
 nguễn vốn này;
 
@@ -2270,7 +2270,7 @@ trình, dự án hợp tác với nhà tài trợ nước ngoài về pháp lu�
 
 4. Thâm định văn kiện chương trình, dự án hợp tác với nhà tài trợ nước
 
-„ ngoài về pháp luật thuộc thâm quyền phê duyệt của Thủ tướng Chính phủ
+„ ngoài về pháp luật thuộc thẩm quyền phê duyệt của Thủ tướng Chính phủ
 
 theo quy định của pháp luật về quản lý hợp tác quốc tế về pháp luật.
 
@@ -2305,7 +2305,7 @@ quốc tế, thỏa thuận về vốn ODA, vốn vay ưu đãi; tô chức lưu
 công bố điều ước quốc tế, thỏa thuận về vốn ODA, vốn vay ưu đãi.
 
 5. Tham gia đánh giá chương trình, dự án theo yêu cầu của cơ quan có
-thấm quyền.
+thẩm quyền.
 
 6. Theo đõi, kiểm tra việc thực hiện thủ tục ký kết và thực hiện điều ước
 quốc tế, thỏa thuận về vốn ODA, vốn vay ưu đãi theo quy định của pháp luật.
@@ -2412,12 +2412,12 @@ hòa xã hội chủ nghĩa Việt Nam là thành viên.
 dụng vốn ODA, vốn vay ưu đãi của chương trình, dự án do mình trực tiếp
 quản lý và thực hiện.
 
-§. Bế trí vốn trả nợ ngân sách trung ương đầy đủ, đúng hạn để trả nợ
+5. Bế trí vốn trả nợ ngân sách trung ương đầy đủ, đúng hạn để trả nợ
 nước ngoài đôi với chương trình, đự án áp dụng cơ chê ngân sách trung ương
 cho ngân sách cấp tỉnh vay lại vốn ODA, vốn vay ưu đãi.
 
 ChươngVIHI -
-ĐIÊU KHOẢN THỊ HÀNH
+ĐIÊU KHOẢN THI HÀNH
 
 Điều 66. Tổ chức thực hiện
 
@@ -2426,11 +2426,11 @@ ban hành Thông tư hướng dẫn thực hiện Nghị định này.
 
 2. Bộ Tài chính ban hành các văn bản hướng dẫn thực hiện Nghị định
 này về quản lý tài chính, chính sách thuế và phí đối với vốn ODA, vốn vay ưu
-đãi theo thâm quyền.
+đãi theo thẩm quyền.
 
 Điều 67. Xử lý chuyển tiếp
 
-Chương trình, dự án đã được cấp có thâm quyền phê duyệt Danh mục tài
+Chương trình, dự án đã được cấp có thẩm quyền phê duyệt Danh mục tài
 trợ trước ngày Nghị định này có hiệu lực thì tiếp tục được thực hiện theo quy
 định của Nghị định số 38/2013/NĐ- CP ngày 23 tháng 4 năm 2013 của Chính
 phủ. về quản lý và sử dụng nguồn hỗ trợ phát triển chính thức (ODA) và
@@ -2483,7 +2483,7 @@ K)
 Phụ lục F
 ÁP TÍNH YÊU TÓ KHÔNG HOÀN LẠI
 : CỦA KHOẢN VAY
-§h kèm theo Nghị định số 16/2016/NĐ-CP
+h kèm theo Nghị định số 16/2016/NĐ-CP
 16 tháng 3 năm 2016 của Chính phủ)
 
 Yếu tổ không hoàn lại là tỷ lệ phần trăm (%) giá trị danh nghĩa của
@@ -2657,7 +2657,7 @@ và các nguồn vốn hợp pháp khác (đồng Việt Nam và quy đổi ra �
 trợ nước ngoài: giải trình về những nội dung quy định tại khoản 4, Điều 6
 Nghị định này (trường hợp vốn ODA, vốn vay ưu đãi có ràng buộc).
 
-đ©áp dụng đối với
+đ
 hần với tỷ lỆ
 
 6. Đề xuất và cơ sở đề xuất cơ chế tài chính. trongứn 1
@@ -2678,7 +2678,7 @@ tài trợ nước ngoài, cơ chế thực hiện các hoạt động này./.
 
 `.#
 
-¬ dự án.
+
 
 ` Phụ lục HIc
 5Á (SÀO ĐÈ XUẤT CHỦ TRƯƠNG ĐÀU TƯ
@@ -2721,7 +2721,7 @@ dự án và các hợp phần (chương trình).
 
 d) Dự kiến vốn của nhà tài trợ nước ngoài, (vốn ODA viện trợ không
 hoàn lại, vến vay ODA, vốn vay ưu đãi) nguyên tệ và quỳ: đổi ra đồng Việt
-Nam và đô la Mỹ. ¬ "
+Nam và đô la Mỹ. "
 
 đ) Dự kiến vốn đối ứng và nguồn cung cấp gồm: ngân sách trung ương,
 ngân sách địa phương, vốn tự có của chủ đự án (dự kiến), vốn vay ngân hàng
@@ -2764,7 +2764,7 @@ EBÁO CÁO ĐÈ XUẤT CHỦ TRƯƠNG ĐẦU TƯ
 &y PHI DỰ ÁN
 
 Ý hành kèm theo Nghị định số 16/2016/NĐ-CP
-ngày l6 tháng 3 năm 2016 của Chính phú)
+ngày 16 tháng 3 năm 2016 của Chính phú)
 
 -Mế
 MÃ
@@ -2887,7 +2887,7 @@ b) Phương thức tài trợ dự án hay giải ngân qua ngân sách nhà nư
 phương thức vay lại qua ngân hàng thương mại hay vay lại trực tiếp từ Ngân
 sách Nhà nước;
 
-©) Việc thỏa mãn các điều kiện được vay lại của chủ dự án theo quy định
+) Việc thỏa mãn các điều kiện được vay lại của chủ dự án theo quy định
 của Luật quân lý nợ công đổi với chương trình, dự án vay lại; cơ sở tính toán
 đoanh thu, chi phí, tính khả thi của dự án theo các điều kiện của khoản vay
 nước ngoài; phương án trả nợ, phương án tài sản đảm bảo tiền vay.
@@ -2919,7 +2919,7 @@ V. KÉ HOẠCH THỰC HIỆN, GIÁM SÁT VÀ ĐÁNH GIÁ DỰ ÁN
 
 3. Kế hoạch giám sát và đánh giá dự án./.
 
-¬
+
 
 Phụ lục VI
 VĂN KIỆN DỰ ÁN ĐẦU TƯ SỬ DỰNG
@@ -3232,7 +3232,7 @@ Trên cơ sở các hoạt động thực hiện trước tại Quyết định 
 tư, trình bày cụ thể các hoạt động thực hiện trước theo quy định tại Điều 19
 Nghị định này./
 
-¬ 17
+
 
 -\ Phụ lục IX .
 TÊN CHƯƠNG TRÌNH, DỰ ÁN Ô

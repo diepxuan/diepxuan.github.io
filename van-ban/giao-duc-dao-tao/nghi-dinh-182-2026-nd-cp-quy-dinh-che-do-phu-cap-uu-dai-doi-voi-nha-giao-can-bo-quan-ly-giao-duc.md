@@ -297,7 +297,7 @@ Văn bản được số hóa bằng **Signed PDF OCR Pipeline** (HEARTBEAT.md m
 | giảng đạy | giảng dạy |
 | tróng các | trong các |
 | sô tiết | số tiết |
-| §. | Mức (số) |
+| 5. | Mức (số) |
 | bản (nhiều biến thể) | bản |
 | nghệ nghiệp | nghề nghiệp |
 | giáo đục | giáo dục |

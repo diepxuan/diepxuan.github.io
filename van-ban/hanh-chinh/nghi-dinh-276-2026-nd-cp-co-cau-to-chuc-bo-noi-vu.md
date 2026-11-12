@@ -436,7 +436,7 @@ các cơ quan, tổ chức có liên quan và các địa phương xây dựng, 
 hiện chính sách, pháp luật đối với thanh niên;
 
 bã Chủ trì, phối hợp với các cơ quan có liên quan quản lý, khai thác và
-công bế đữ liệu về thanh niên, chỉ số phát triển thanh niên.
+công bố đữ liệu về thanh niên, chỉ số phát triển thanh niên.
 
 19. Về thực hiện công tác dân chủ, dân vận:
 

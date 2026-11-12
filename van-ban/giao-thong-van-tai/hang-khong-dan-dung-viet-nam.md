@@ -526,7 +526,7 @@ Thông tư này áp dụng đối với tổ chức, cá nhân Việt Nam và t�
 
 Điều 14.5.TL.3.1. Phạm vi điều chỉnh
 
-(Điều 1 Thông tư liên tịch số 21/2015/TTLT-BTC-BGTVT Hướng dẫn quản lý, sử dụng và quyết toán kInh phí chỉ thường xuyên từ ngân sách nhà nước cho công tác bảo đảm an ninh hàng không dân dụng ngày 12/02/2015 của Bộ Tài chính và Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 01/04/2015 )
+(Điều 1 Thông tư liên tịch số 21/2015/TTLT-BTC-BGTVT Hướng dẫn quản lý, sử dụng và quyết toán kinh phí chi thường xuyên từ ngân sách nhà nước cho công tác bảo đảm an ninh hàng không dân dụng ngày 12/02/2015 của Bộ Tài chính và Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 01/04/2015 )
 
 Thông tư này hướng dẫn quản lý, sử dụng và quyết toán kinh phí chi thường xuyên từ ngân sách nhà nước cho công tác bảo đảm an ninh hàng không dân dụng.
 

@@ -91,7 +91,7 @@ dừng, tạm ngừng, hủy bỏ (sau đây gọi chung là dừng) theo văn b
 dừng thực hiện của người có thẩm quyền quyết định đầu tư.
 
 2. Dự án, công trình, hạng mục công trình sử dụng một phần hoặc toàn
-bộ vốn đầu tư công, chỉ thường xuyên từ ngân sách nhà nước, vốn ngân sách
+bộ vốn đầu tư công, chi thường xuyên từ ngân sách nhà nước, vốn ngân sách
 nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật về đầu tư công:
 : thực hiện thống nhất theo quy định tại Nghị định này, trừ dự án có quy định
 riêng của Chính phủ, Thủ tướng Chính phủ.
@@ -167,7 +167,7 @@ riêng biệt: mỗi dự án thành phần hoặc tiểu dự án độc lập 
 quyết toán, thẩm tra và phê duyệt quyết toán như một dự án đầu tư độc lập.
 Dự án thành phần hoặc tiểu dự án đã được thẩm tra và phê duyệt quyết toán
 theo quy định không phải thẩm tra và phê duyệt quyết toán lại, trừ trường hợp
-người có thâm quyền quyết định phê duyệt quyết toán vốn đầu tư toàn bộ dự
+người có thẩm quyền quyết định phê duyệt quyết toán vốn đầu tư toàn bộ dự
 án yêu cầu.
 Các bộ, cơ quan trung ương, tập đoàn, tổng công ty nhà nước, Ủy ban
 nhân dân cấp tỉnh được giao quản lý dự án thành phân chính hoặc làm đâu
@@ -244,7 +244,7 @@ dự án.
 5. Đối với dự án có toàn bộ dự án thành phân, tiểu dự án, công trình hoặc
 hạng mục xây dựng và thiết bị đã hoàn thành bàn giao đưa vào khai thác sử
 dụng nhưng chi phí bồi thường, hỗ trợ, tái định cư chưa hoàn thành: chủ đầu
-tư báo cáo người có thâm quyền quyết định đầu tư dự án cho phép thực hiện
+tư báo cáo người có thẩm quyền quyết định đầu tư dự án cho phép thực hiện
 báo cáo quyết toán chi phí đã thực hiện dự án để gửi cơ quan chủ trì thẩm tra
 quyết toán thẩm tra; chi phí bồi thường, hỗ trợ, tái định cư được quyết toán là
 giá trị hợp pháp đã thực hiện. Trường hợp chi phí bồi thường, hỗ trợ, tái định
@@ -443,7 +443,7 @@ thẩm tra.
 
 b) Đối với dự án sử dụng vốn đầu tư công, dự án sử dụng chi thường
 xuyên từ ngân sách nhà nước, vốn ngân sách nhà nước khác không thuộc
-phạm vi điều chỉnh của pháp luật về đầu tư công thuộc thâm quyền quyết định
+phạm vi điều chỉnh của pháp luật về đầu tư công thuộc thẩm quyền quyết định
 đầu tư của Chủ tịch Ủy ban nhân dân cấp xã: đối với cấp xã có tổ chức phòng,
 Chủ tịch Ủy ban nhân dân cấp xã giao phòng chuyên môn có chức năng về tài
 chính chủ trì tổ chức thẩm tra; đối với cấp xã không tổ chức phòng, Chủ tịch
@@ -459,14 +459,14 @@ thẩm tra quyết toán báo cáo người có thẩm quyền phê duyệt quy�
 đầu tư dự án quyết định thành lập Tổ thẩm tra để thực hiện thẩm tra quyết
 toán vốn đầu tư dự á án trước khi trình phê duyệt. Thành phần của Tổ thẩm tra
 gồm đại diện có thẩm quyền của các đơn vị, cơ quan có liên quan. Nhiệm vụ
-của thành viên Tổ thẩm tra do người có thâm quyền thành lập Tổ quyết định.
+của thành viên Tổ thẩm tra do người có thẩm quyền thành lập Tổ quyết định.
 
 đ) Riêng đối với các nhiệm vụ, dự án đầu tư các nên đảng số, hệ thống
 thông tin quy mô quốc gia, quy mô vùng sử dụng vốn đầu tư công nguôn
 ngân sách nhà nước quy định tại khoản 1 Điều 10 . Nghị quyết SỐ
 193/2025/QH15 ngày 19 tháng 02 năm 2025 của Quốc hội về thí điểm một số
 cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học, công nghệ, đổi
-mới sáng tạo và chuyên đổi số quốc gia: trường hợp Kiểm toán nhà nưƯỚc, cơ
+mới sáng tạo và chuyển đổi số quốc gia: trường hợp Kiểm toán nhà nưƯỚc, cơ
 quan thanh tra thực hiện kiểm toán, thanh tra và phát hành báo cáo kiểm toán,
 kết luận thanh tra có đủ nội dung quy định tại Điều 11 Nghị định này, chủ đầu
 tư căn cứ báo cáo kiểm toán, kết luận thanh tra lập báo cáo quyết toán vốn
@@ -664,7 +664,7 @@ thực hiện bồi thường, hễ trợ, tái định cư, cưỡng chế ki�
 hồi đất thực hiện theo quy định của pháp luật về đất đai.
 
 b) Giá trị công trình xây dựng đã có quyết định phê duyệt quyết toán của
-người có thâm quyền: căn cứ quyết định phê duyệt quyết toán của người có
+người có thẩm quyền: căn cứ quyết định phê duyệt quyết toán của người có
 thắm quyền, văn bản yêu cầu thanh toán của chủ đầu tư hoặc đơn vị, tổ chức
 làm nhiệm vụ bồi thường, giải phóng mặt bằng các công trình xây dựng và
 chứng từ thanh toán để xác định giá trị chi phí đã đầu tư. Trường hợp người

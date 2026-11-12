@@ -154,7 +154,7 @@ thông tin cho báo chí theo quy định tại điểm b, điểm c khoản 2 �
 định này.
 
 2. Người phát ngôn có quyền yêu cầu các đơn vị, cá nhân có liên quan trực
-thuộc cơ quan hành chính cung cập thông tín, tập hợp thông tin để phát ngôn,
+thuộc cơ quan hành chính cung cập thông tin, tập hợp thông tin để phát ngôn,
 cung cấp thông tin định kỳ, đột xuất cho báo chí theo quy định tại Điều 6, Điêu 7
 của Nghị định này; để trả lời các phản ánh, kiến nghị, phê bình, khiếu nại, tế
 cáo của tổ chức, công dân do cơ quan báo chí chuyên đến hoặc đăng, phát trên

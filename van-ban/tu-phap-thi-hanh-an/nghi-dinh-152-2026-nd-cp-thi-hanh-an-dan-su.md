@@ -3432,7 +3432,7 @@ công cụ hỗ trợ, phương tiện và các trang thiết bị chuyên dùng
 phục vụ hoạt động thi hành án dân sự.
 71
 
-2. Chi công tác chuyên đổi số trong thi hành án dân sự: chỉ thuê, đầu tư,
+2. Chi công tác chuyển đổi số trong thi hành án dân sự: chỉ thuê, đầu tư,
 vận hành, quản trị, nâng cập, bảo đảm an toàn, an ninh hạ tầng số, hệ thống SỐ,
 nền tảng sô, cơ sở dữ liệu và các hoạt động khác theo quy định tại Luật Chuyên
 đôi số, Luật Khoa học, công nghệ và đổi mới sáng tạo và pháp luật có liên quan.
@@ -3563,7 +3563,7 @@ lương ngân sách nhà nước tham gia công tác xác minh điều kiện th
 thông báo thi hành án theo yêu cầu của cơ quan thi hành án đân sự;
 
 s) Các khoản chỉ phục vụ tổ chức thi hành án khác theo quy định mà không
-thuộc các khoản chỉ thường xuyên của cơ quan thi hành án dân sự đã được ngân
+thuộc các khoản chi thường xuyên của cơ quan thi hành án dân sự đã được ngân
 sách nhà nước bảo đảm kinh phí hoạt động. ˆ
 
 ### Điều 81. Chỉ phí thi hành án do người phải thi hành án chịu
@@ -4054,7 +4054,7 @@ doanh nghiệp thâm định giá chậm nhất là 05 ngày làm việc kể t�
 đương sự không thỏa thuận được việc thanh toán bằng tiền hoặc kể từ ngày các
 bên đương sự thỏa thuận được thanh toán bằng tiền nghĩa vụ giao tài sản theo
 bản án, quyết định. Chỉ phí thâm định giá do cơ quan, tổ chức phải thi hành án
-chỉ trả từ nguồn dự toán chỉ thường xuyên được giao để thực hiện.
+chỉ trả từ nguồn dự toán chi thường xuyên được giao để thực hiện.
 
 3. Hàng năm, căn cứ vào tình hình thực hiện năm trước, nhu cầu kinh phí
 và dự kiến nhiệm vụ phát sinh năm sau, cơ quan, tổ chức phải thi hành án lập

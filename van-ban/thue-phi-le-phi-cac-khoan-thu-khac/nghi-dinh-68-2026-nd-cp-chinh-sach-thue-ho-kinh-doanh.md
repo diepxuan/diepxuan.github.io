@@ -1,8 +1,19 @@
 ---
-layout: page
-title: Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh
+layout: vanban
+title: "Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh"
+date: 2026-03-05
+modified: 2026-11-12
+group: thue-phi-le-phi
+tags:
+  - Nghị định
+  - thuế
+  - hộ kinh doanh
+  - quản lý thuế
+docid: 68/2026/NĐ-CP
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+so-hieu: 68/2026/NĐ-CP
+ngay-hieu-luc: 05/03/2026
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-68-2026-nd-cp-chinh-sach-thue-ho-kinh-doanh/
-lastedit: 2026-06-06
 ---
 
 # Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh
@@ -434,5 +445,3 @@ Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.
 *Đã ký*
 
 **Hồ Đức Phớc**
-
----

@@ -1020,7 +1020,7 @@ nhu cầu chuyên dữ liệu hóa đơn điện tử theo hình thức gửi tr
 thuế gửi văn bản kèm theo tài liệu đáp ứng điều kiện kỹ thuật đến Cục Thuế;
 b.1.2) Tổ chức kinh tế có tổ chức mô hình công ty mẹ - con, có xây dựng
 hệ thống quản lý dữ liệu hóa đơn tập trung tại công ty mẹ và có nhu câu công
-†y mẹ chuyển toàn bộ dữ liệu hóa đơn điện tử bao gồm cả dữ liệu của các công
+y mẹ chuyển toàn bộ dữ liệu hóa đơn điện tử bao gồm cả dữ liệu của các công
 ty con đến cơ quan thuế qua Hệ thống thông tin quản lý thuế thì gửi kèm theo
 danh sách công ty con đến Cục Thuế để thực hiện kết nối kỹ thuật;
 b.2) Hình thức gửi thông qua tổ chức cung cấp dịch vụ hóa đơn điện tử
@@ -1695,7 +1695,7 @@ tử của các cơ quan quản lý nhà nước theo quy định tại Nghị �
 từ ngân sách nhà nước trên cơ sở dự toán kinh phí hàng năm được phê duyệt
 cho các cơ quan, đơn vị theo quy định của pháp luật.
 - ChươnV
-ĐIEU KHOẢN THỊ HÀNH
+ĐIEU KHOẢN THI HÀNH
 
 ### Điều 43. Hiệu lực thi hành
 1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
@@ -1717,7 +1717,7 @@ sửa đổi, bố sung một số điều của Nghị định số 123/2020/N�
 ### Điều 44. Xử lý chuyển tiếp
 1, Việc quản lý, sử dụng hóa đơn bán hàng dự trữ quốc gia khi bán hàng
 dự trữ quốc gia (hóa đơn bằng giấy) thực hiện theo quy định pháp luật về bán
-hàng dự trữ quôc gia. Trường hợp Bộ Tài chính có thông báo chuyên đổi áp
+hàng dự trữ quốc gia. Trường hợp Bộ Tài chính có thông báo chuyên đổi áp
 dụng hóa đơn điện tử bán hàng dự trữ quốc gia thì các đơn vị thực hiện chuyển
 đối theo quy định. Khi chuyển sang sử dụng hóa đơn điện tử bán hàng dự trữ
 quốc gia, hóa đơn bán hàng dự trữ quốc gia (hóa đơn bằng giấy) chưa sử dụng

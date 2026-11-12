@@ -1640,7 +1640,7 @@ QUẢN LÝ NHÀ NƯỚC VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂ
 
  c) Chỉ đạo, tổ chức thực hiện, thanh tra, kiểm tra hoạt động phòng, chống tác hại của rượu, bia, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về phòng, chống tác hại của rượu, bia;
 
- d) Báo cáo Ủy ban nhân dân cấp tỉnh kết quả thực hiện phòng, chống tác hại của rượu, bia hăng năm thuộc địa bàn quản lý.
+ d) Báo cáo Ủy ban nhân dân cấp tỉnh kết quả thực hiện phòng, chống tác hại của rượu, bia hằng năm thuộc địa bàn quản lý.
 
  3. Ủy ban nhân dân cấp xã có trách nhiệm quản lý nhà nước về phòng, chống tác hại của rượu, bia theo chức năng, nhiệm vụ, địa bàn quản lý như sau:
 

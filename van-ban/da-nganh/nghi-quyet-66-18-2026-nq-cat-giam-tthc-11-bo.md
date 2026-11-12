@@ -110,7 +110,7 @@ Nghị quyết này quy định việc phân quyền, cắt giảm, đơn giản
 
 6. **Bộ Giáo dục và Đào tạo (Phụ lục I.12 NQ 66.16):** Bãi bỏ quy định tại các khoản B.I, B.II, B.III, B.IV, B.V, B.VI, B.VII, B.VIII, B.IX, C.XI, C.XIV, C.XV Mục 1.
 
-7. **Bộ Y tế (Phụ lục I.13 NQ 66.16):** Bãi bỏ quy định tại Mục 1; khoản I, II, III, IV và khoản V Mục 2.
+7. **Bộ Y tế (Phụ lục I.13 NQ 66.16):** Bãi bỏ quy định tại Mục 1; khoản 1, II, III, IV và khoản V Mục 2.
 
 ---
 
