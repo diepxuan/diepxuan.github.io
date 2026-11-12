@@ -6432,7 +6432,7 @@ vùng nước, cảng biển, luồng hàng hải và tuyến hàng hải; xây 
 tài liệu, ấn phẩm an toàn hàng hải.
 
 19. Dịch vụ điều tiết bảo đảm an toàn hàng hải trong khu nước, vùng nước
-và luồng hàng hải công cộng; dịch vụ thông tín điện tử hàng hải.
+và luồng hàng hải công cộng; dịch vụ thông tin điện tử hàng hải.
 
 20. Dịch vụ kiểm định (kiểm tra, thử nghiệm) và cấp Giấy chứng nhận cho
 các phương tiện giao thông vận tải (gồm hệ thống, tổng thành, thiết bị, linh kiện
@@ -7017,7 +7017,7 @@ _ suốt đời.
 và sản xuất thiết bị giáo dục nghề nghiệp.
 
 8. Đào tạo nguồn nhân lực trong lĩnh vực khoa học, công nghệ, đổi mới
-sáng tạo và chuyên đổi số quốc gia.
+sáng tạo và chuyển đổi số quốc gia.
 
 V. NGÀNH, NGHỀ KHÁC
 1. Hoạt động của Quỹ tín dụng nhân dân và tổ chức tài chính vi mô.

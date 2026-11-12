@@ -598,7 +598,7 @@ mạng theo quy định của pháp luật)."
 
 b) Sửa đổi, bổ sung khoản 2 như sau:
 
-#2. Cán bộ tiếp nhận hồ sơ có trách nhiệm kiểm tra thông tín, văn bản,
+#2. Cán bộ tiếp nhận hồ sơ có trách nhiệm kiểm tra thông tin, văn bản,
 giấy tờ có trong hồ sơ và thực hiện theo các quy định sau:
 
 8) Trường hợp cơ quan, tổ chức, chức danh nhà ' nước nộp hồ sơ trực tiếp
@@ -948,7 +948,7 @@ dụng pháo hoa nổ chỉ được thực hiện trong các trường hợp qu
 a) Cơ quan nhà nước đặt hàng thực hiện theo Nghị định số 32/2019/NĐ-CP
 ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng
 hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước
-từ nguồn kinh phí chỉ thường xuyên;
+từ nguồn kinh phí chi thường xuyên;
 
 b) Tổ chức, doanh nghiệp không thuộc quy định tại điểm a khoản này đặt
 hàng sau khi được Chủ tịch Ủy ban nhân dân cấp tỉnh đồng ý băng văn bản."
@@ -1176,7 +1176,7 @@ nỗ; ảnh hưởng của bắn pháo hoa nổ đối với công trình, môi 
 người; xác định khoảng cách an toàn khi bắn pháo hoa nổ; xây dựng phương
 án bắn pháo hoa nổ
 
-4. Căn cứ vào đối tượng quy định tại khoản I, khoản 2 Điều này, cơ
+4. Căn cứ vào đối tượng quy định tại khoản 1, khoản 2 Điều này, cơ
 quan, tổ chức, doanh nghiệp có thẩm quyền huấn luyện quy định tại khoản 7
 Điều này xây dựng nội dung, chương trình huấn luyện phù hợp với từng đối
 tượng
@@ -2210,7 +2210,7 @@ Số:...... /ĐKMCD ngày ..... tháng .... năm...... ———
 
 ị GIÁY CHỨNG NHẬN ĐĂNG KÝ MẪU CON DÁU
 ———_ ....................................aaN. Căn cứ Nghị định số 90/201Ø6/NĐ- CP của Chính phú về quản Ù và sử
-¬—-__.....................W66.........H.. " con dấu đã được sửa đổi, bồ Sung năm 2023, năm 2026
+—-__.....................W66.........H.. " con dấu đã được sửa đổi, bổ sung năm 2023, năm 2026
 
 tại Quyển SỐ:............. Tờ sô:....
 Con dấu có giá trị sử dụng từ ngày....... tháng .... năm.......
@@ -2539,7 +2539,7 @@ chứng nhận quyền Sử dụng đất, quyền sở hữu tài sản gắn
 Môi trường đắt, quyền: sở hữu: | thời kỳ)
 tài sản gắn liền 3. Số vào số cấp Giấy chứng nhận
 với đất 4. Nơi cấp giấy chứng nhận quyền sử dụng đất
-3. Thông tin khác có liên quan; thông tín khi có
+3. Thông tin khác có liên quan; thông tin khi có
 sự thay đổi, điều chỉnh, bễ sung
 1. Số tờ bản đỗ
 2. Số thứa đất
@@ -2925,7 +2925,7 @@ Ty 1. Thông tin Giấy phép xây dựng cấp cho tổ
 38 Bộ Xây dựng Thông tin cấp chức nước ngoài hoạt động tại Việt Nam
 phép hoạt động 2. Thông tin khác có liên quan; thông tin khi có
 sự thay đổi, điều chỉnh, bổ sung
-¬ : 1. Thông tin Văn bản chấp thuận kết quả
+ : 1. Thông tin Văn bản chấp thuận kết quả
 30 Bộ Xây dựng Thông tin phòng | nghiệm thu về phòng cháy, chữa cháy
 cháy, chữa cháy |2. Thông tin khác có liên quan; thông tin khi có
 sự thay đổi, điều chỉnh, bể Sung
@@ -3171,7 +3171,7 @@ hoặc đình chỉ; lý do thu hôi, tạm đình chỉ (nếu có)
 lý: Số thẻ cộng tác viên; ngày cấp, cơ quan cập,
 nội dung thông tin thẻ; thông tin việc cấp đổi/cấp
 …… lại thẻ cộng tác viên trợ giúp pháp lý; trạng thái
-2 A . Thông tin S96 hoạt động; thông tín về lên thụ hồi, đình chỉ
+2 A . Thông tin S96 hoạt động; thông tin về lên thụ hồi, đình chỉ
 0 Bộ Tư pháp tác viên trợ giúp hoạt độ
 pháp lý oạt động (nếu có) ‹ :
 2. Thông tin hành nghề trợ giúp pháp lý: Trung
@@ -3355,7 +3355,7 @@ phép hoạt động 2.Cơ quan cập giấy phép hoạt động
 doanh/Chứng ỂN ¡ dung thông tin giấy phép, chứng chỉ hành
 chỉ hành nghề nghề b B 0n giầy phép, ề
 Thông tin giây 1. Số, thời gian cấp, nơi cấp
-¬¬". chứng nhận 2. Thông tin về giấy chứng nhận đăng ký phương
+". chứng nhận 2. Thông tin về giấy chứng nhận đăng ký phương
 3 Bộ Công an đăng ký phương | tiện
 tiện
 …… 1. Số, ngày cấp, nơi cấp
@@ -3381,7 +3381,7 @@ Thông tin giấy 1. Số, thời gian cấp, nơi cấp
 A "ĐÀ: bự phép đăng ký 2. Nội dung thông tin giấy phép kinh doanh tại
 " Bộ Tài chính kinh doanh tại Việt Nam
 Việt Nam
-Thông tin giấy † 1. Số, thời gian cấp, nơi cấp
+Thông tin giấy 1. Số, thời gian cấp, nơi cấp
 38 Bệ Nội vụ phép hoạt động _‡ 2. Nội dung thông tin giấy phép hoạt động tại
 tại Việt Nam Việt Nam
 1. Thông tin về thu nhập cá nhân
@@ -3390,7 +3390,7 @@ tại Việt Nam Việt Nam
 khuyến học
 Thông tin thu 4. Số thuế đã khấu trừ tại tổ chức trả thu nhập
 so Bộ Tài chính nhập cá nhân có 5. Thu nhập chịu thuế được miễn giảm theo Hiệp
-thu nhập tử tiên † định
+thu nhập tử tiên
 lương, tiền công | 6. Tổng số thuế thu nhập cá nhân phải nộp
 7. Tổng thu nhập chịu thuế phát sinh trong kỳ
 8. Tổng thu nhập tính thuế
@@ -3572,7 +3572,7 @@ chỉ, ngày cấp, cơ quan cấp, lĩnh vực kiểm định
 An ui - 2. Thông tin lịch sử đào tạo: Các khóa học,
 Thông tin chứng h An nš
 g7 Bộ Xây dựng chỉ kiểm định — | "hứng nhận năng lực
-ì Ỷ LẠ : 3. Thông †in kinh nghiệm và năng lực: Các thiết
+ì Ỷ LẠ : 3. Thông tin kinh nghiệm và năng lực: Các thiết
 bị đã kiểm định, dự án tham gia
 4, Giấy phép hoạt động: Các giấy phép liên quan
 và phạm vi hoạt động
@@ -3586,7 +3586,7 @@ thông đường bộ | án thẩm tra và kết quả
 hoặc văn bản pháp lý liên quan
 1. Thông tin tàu bay: Số đăng ký, loại, số seri,
 năm sản xuất, tình trạng kỹ thuật
-¬-. ›" | 2. Thông tin Giấy chứng nhận quyền sở hữu
+-. ›" | 2. Thông tin Giấy chứng nhận quyền sở hữu
 99 Bộ Xây dựng sành mà 3. Thông tin lịch sử mua bán, chuyên nhượng:
 7 Thông tin về mua bán hoặc chuyến nhượng (nêu. có)
 4. Thông tin quyển sử dụng và khai thác: Giấy
@@ -3595,7 +3595,7 @@ Thông tin Giấy " Thông tin hãng hàng không: Tên, quốc gia
 ma. lăng ký, giấy phép quốc tế
 phép thành lập 2. Thông ti hòng: Tên, địa chỉ, liên hệ
 Văn phòng đại : Thai 1n văn p My an nên Sử 1, liên M
-¬ diện, Văn phòng Ông tin giấy Đ ép t ảnh lập: Số giấy phép,
+ diện, Văn phòng Ông tin giấy Đ ép t ảnh lập: Số giấy phép,
 100 Bộ Xây dựng bán vé của hãn ngày cập, cơ quan cấp, nội dung giấy phép
 Ï N Š la, Thông tin quyên hạn và nhiệm vụ: Các hoạt
 hàng không đô
@@ -3703,12 +3703,12 @@ sách đôi tượng 2. Thông tin hình thức hỗ trợ
 114 Bộ Xây dựng người có công 3. Thông tin về diêu kiện hưởng hỗ trợ
 được hồ trợ nhà
 ở trên địa bàn
-¬ h ` Tà ca 1. Bút danh (nêu có) - "
+ h ` Tà ca 1. Bút danh (nêu có) - "
 11s | Bê Văn Tai thao và Hán thẻ 2. Số thẻ, thời gian cấp, nơi cấp thẻ
 uiịc ảo chỉ 3. Thông tín thẻ báo chí
 Bộ Văn hóa. Thể th " | Thông tin chứng | l. Số hiệu chứng chỉ, ngày cấp, thời hạn (nếu có)
 116 Quán Dạ h thao và chỉ hành nghề 2. Nội dung chứng chỉ hành nghề biên tập
-¬ biên tập 3. Trình độ chuyên môn, lĩnh vực
+ biên tập 3. Trình độ chuyên môn, lĩnh vực
 An ei 1. Số hiệu thẻ, thời gian cấp, nơi câi
 A Xu bế Ậ ` Thông b mm thẻ 2. Nội dung thẻ giám định viên quyên tác giả,
 Bộ Văn hóa, Thê thao và | giám định viên
@@ -3717,11 +3717,11 @@ Bộ Văn hóa, Thê thao và | giám định viên
 quyên liên quan định
 Thôngtin giấy | Ì- Tên tác phẩm
 Ạ. A4 ~ .` 2 . H1 ⁄£
-H§ Bộ Văn hóa, Thể thao và | chứng nhận . w chủ sở hữu quyên tác giả (nếu khác tác
+H Bộ Văn hóa, Thể thao và | chứng nhận . w chủ sở hữu quyên tác giả (nếu khác tác
 Du lịch t1" quyen 3. Số, ký hiệu, thời gian cấp, nơi cấp Giấy chứng nhận
 Ba | 4. Nội đụng giấy chứng nhận đăng ký quyền tác giả
 An gi GIẢ 1. Loại hình quyên liên quan được bảo hộ
-¬- Ậ ` Thông tín giầy 2. Số và ký hiệu, thời gian cấp, nơi cấp Giấy
+- Ậ ` Thông tín giầy 2. Số và ký hiệu, thời gian cấp, nơi cấp Giấy
 Bộ Văn hóa, Thê thao và | chứng nhận
 119 Du lịch đăng ký quyền chứng nhận
 ue hệ 6 lê l 3. Nội dung thông tin giấy chứng nhận đăng ký
@@ -3758,7 +3758,7 @@ A*/x Ậ › | chứng nhận 2. Nội dung thông tin trên giấy chứng nh�
 Du lịch
 về phòng, chống | đình
 bạo lực gia đình
-¬ Thông tin Giấy | 1. Số thẻ, thời gian cấp, nơi cấp
+ Thông tin Giấy | 1. Số thẻ, thời gian cấp, nơi cấp
 chứng nhận 2. Nội dung thông tin trên giấy chứng nhận
 nghiệp vụ chăm | nghiệp vụ chăm sóc nạn nhân bạo lực gia đình;
 R Ặ " | sóc nạn nhân thẻ nhân viên chăm sóc nạn nhân bạo lực la
@@ -3805,7 +3805,7 @@ Anas ›: | 1. Họ và tên
 lá | Ngân hàng non tin mở tài Í 2` Số định danh cá nhân
 Nhà nước Việt Nam _ | Khoản của doanh Í + cá ti khoản ngân hàn
 —] nghiệp, cá nhân An ki GẦn hàng
-N l 4. Thông tin khác (nêu có) ¬
+N l 4. Thông tin khác (nêu có)
 Thông tin về
 
 1, Thông tin về doanh ¡ nghiệp
@@ -3835,7 +3835,7 @@ biển 5. Vật liệu, công dụng, vùng hoạt động, cấp tàu,
 đung tích, trọng tải
 6. Số người, số hàng, số máy tính, công suất
 Thông tin về 1. Giấy phép công nhận cảng, bến thủy nội địa
-¬ cảng, bến thủy 2. Đơn vị cấp, thời gian cấp
+ cảng, bến thủy 2. Đơn vị cấp, thời gian cấp
 141 Bộ Xây dựng nội địa, cảng 3. Khả năng khai thác của cảng, bến thủy
 biển 4. Chủ quản. lý cảng, bến thủy
 "|
@@ -3851,7 +3851,7 @@ Bộ Nông nghiệp và phép hoạt động | 2. Giấy chứng nhận đăng k
 Môi trường khai thác
 khoáng sản
 Thông tin đăng | 1. Thông tin trên giấy phép kinh doanh cá thể
-A Tà? ¬hứ kỹ kinh doanh 2. Thông tin khác có liên quan
+A Tà? chứ kỹ kinh doanh 2. Thông tin khác có liên quan
 144 Bộ Tài chính hộ kinh doanh
 
 cá thể
@@ -3924,7 +3924,7 @@ tên mẹ, địa chỉ
 
 5. Các thông tin về ngày bắt lại, ngày đình nã
 
-† 6. Nơi ở trước khi trỗn truy nã
+
 
 7. Nghề nghiệp trước khi bị truy nã
 
@@ -4018,7 +4018,7 @@ Thông tin về quá trình tiếp nhận, quản lý cai
 nghiện ma túy
 3. Thông tin sau cai nghiện ma túy
 6. Thông tin về người nghiện ma túy, người sử
-dụng trái phép chất ma †úy và sau cai nghiện ma
+dụng trái phép chất ma túy và sau cai nghiện ma
 túy
 7. Thông tin về quyết định á áp dụng biện pháp cai
 nghiện bắt buộc
@@ -4067,7 +4067,7 @@ sự
 5. Thông tin khác liên quan đến thi hành bản án
 
 Tòa án nhân dân
-†Ôi cao
+
 
 Thông tin bản án
 trong lĩnh vực hình
@@ -4098,7 +4098,7 @@ tôi cao hành chính 3. Thông tin bản án hành chính
 4. Thông tin về kháng cáo/kháng nghị
 5. Thông tin khác liên quan đến thi hành bản án
 1. Thông tỉn vụ việc
-¬ ¬ Thông tin bản án 2. Thông tin về tòa án xử và quá trình xét xử vụ
+ Thông tin bản án 2. Thông tin về tòa án xử và quá trình xét xử vụ
 12 Tòa án nhân dân trong lĩnh vực kính Mở ; ; ‹
 tôi cao tế 3. Thông tin bản án kinh tế
 4. Thông tin về kháng cáo/kháng nghị

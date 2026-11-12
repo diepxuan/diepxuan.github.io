@@ -274,7 +274,7 @@ b) VPĐD, Trưởng VPĐD và nhân viên Văn phòng là người nước ngoà
 
 2. Các nghĩa vụ và trách nhiệm của VPĐD:
 
-a) Trưởng VPĐD có trách nhiệm tuân thủ những quy định đã được nêu tại Điều 14 Nghị định. VPĐD có trách nhiệm thực hiện chế độ báo cáo định kỳ 6 tháng vào ngày l5/6 và hàng năm vào ngày 15/12 gửi tới Bộ Ngoại giao và cơ quan chủ quản Việt Nam liên quan. Yêu cầu về nội dung báo cáo định kỳ áp dụng theo Mẫu kèm theo Thông tư (Mẫu số 02/BNG-VPĐD).
+a) Trưởng VPĐD có trách nhiệm tuân thủ những quy định đã được nêu tại Điều 14 Nghị định. VPĐD có trách nhiệm thực hiện chế độ báo cáo định kỳ 6 tháng vào ngày 15/6 và hàng năm vào ngày 15/12 gửi tới Bộ Ngoại giao và cơ quan chủ quản Việt Nam liên quan. Yêu cầu về nội dung báo cáo định kỳ áp dụng theo Mẫu kèm theo Thông tư (Mẫu số 02/BNG-VPĐD).
 
 b) Số người nước ngoài và số nhân viên người Việt Nam làm việc tại Văn phòng không vượt quá số lượng đã quy định tại Giấy phép. Nếu có nhu cầu tăng thêm nhân viên, phải được phép của cơ quan chủ quản Việt Nam liên quan.
 

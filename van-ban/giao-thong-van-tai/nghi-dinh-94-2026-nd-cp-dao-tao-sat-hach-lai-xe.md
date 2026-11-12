@@ -33,7 +33,7 @@ tags:
   - 2026
   - hieu-luc-2026-07-01
 status: "complete"
-status_note: "Đã lấy toàn văn 5 Chương, 43/43 Điều. Điều 1-13 từ luatvietnam.vn (clean text, không qua OCR). Điều 14-43 từ PDF chính thức (xdcs.cdnchinhphu.vn 2.5MB, 79 trang) đã OCR bằng tesseract và ghép thủ công vào file; đã sửa các lỗi OCR phổ biến (c)/©), g)/ø), Điều §=Điều 8, thâm→thẩm, cập→cấp, giây→giấy, mắt→mất, đảo tạo→đào tạo, Công Dịch vụ→Cổng Dịch vụ). OCR Quality Gate scan: 0 issues nghiêm trọng."
+status_note: "Đã lấy toàn văn 5 Chương, 43/43 Điều. Điều 1-13 từ luatvietnam.vn (clean text, không qua OCR). Điều 14-43 từ PDF chính thức (xdcs.cdnchinhphu.vn 2.5MB, 79 trang) đã OCR bằng tesseract và ghép thủ công vào file; đã sửa các lỗi OCR phổ biến (c)/), g)/), Điều 5=Điều 8, thâm→thẩm, cập→cấp, giây→giấy, mắt→mất, đảo tạo→đào tạo, Công Dịch vụ→Cổng Dịch vụ). OCR Quality Gate scan: 0 issues nghiêm trọng."
 ---
 
 # Nghị định 94/2026/NĐ-CP quy định về hoạt động đào tạo và sát hạch lái xe

@@ -4836,7 +4836,7 @@ Chương VI Nghị định này theo thẩm quyền quy định tại khoản.3 
 định này;
 a) Giám đốc Sở Văn hóa và Thẻ thao, Giám đốc Sở Văn hóa, Thể thao và.
 Du lịch, Trường đoàn kiểm tra do Cục trưởng Cục Phát thanh, truyền hình và
-thông tín điện tử thành lập có thẩm quyền xử phạt vi phạm hành chính, áp dụng.
+thông tin điện tử thành lập có thẩm quyền xử phạt vi phạm hành chính, áp dụng.
 các biện pháp khắc phục hậu quả đối với hành vĩ vi phạm hành chính quy định
 tại mục 2 Chương VI Nghị định này theo thẩm quyển quy định tại khoản 4 Điều 104
 "Nghị định này;

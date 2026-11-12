@@ -10035,7 +10035,7 @@ Chương III ƯU ĐÃI THUẾ THU NHẬP DOANH NGHIỆP
 
 ### 33011000000000003000017000000000000000000040249520218000180000802819000670000400
 
-Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hăng năm
+Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hằng năm
 
 ### 33011000000000003000017000000000000000000040249520218000180000802819000670000500
 

@@ -18249,7 +18249,7 @@ b) Khi nhận được văn bản yêu cầu xác minh thông tin của cơ quan
 
 c) Trong trường hợp không thực hiện được yêu cầu của cơ quan quản lý thuế thì phải có văn bản giải trình với cơ quan quản lý thuế trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản yêu cầu của cơ quan quản lý thuế.
 
-d) Bên thứ ba đang giữ tiền, tài sản của người nộp thuế bị cưỡng chế phải thực hiện nộp thay số tiền thuế bị cưỡng chế trong thời hạn 15 ngày kê từ ngày nhận được quyết định cưỡng chế. Trường hợp bên thứ ba đang có khoản nợ phải trả người nộp thuế bị cưỡng chế thì thực hiện nộp thay cho người nộp thuế ngay trong ngày khoản nợ đến hạn thanh toán. Trường hợp bên thứ ba không thực hiện nộp thay cho người nộp thuế bị cưỡng chế đúng thời hạn thì bị áp dụng các biện pháp cưỡng chế theo quy định tại khoản 1 Điều 125 Luật Quản lý thuế.
+d) Bên thứ ba đang giữ tiền, tài sản của người nộp thuế bị cưỡng chế phải thực hiện nộp thay số tiền thuế bị cưỡng chế trong thời hạn 15 ngày kể từ ngày nhận được quyết định cưỡng chế. Trường hợp bên thứ ba đang có khoản nợ phải trả người nộp thuế bị cưỡng chế thì thực hiện nộp thay cho người nộp thuế ngay trong ngày khoản nợ đến hạn thanh toán. Trường hợp bên thứ ba không thực hiện nộp thay cho người nộp thuế bị cưỡng chế đúng thời hạn thì bị áp dụng các biện pháp cưỡng chế theo quy định tại khoản 1 Điều 125 Luật Quản lý thuế.
 
 6. Trách nhiệm của cơ quan quản lý thuế đang quản lý bên thứ ba có trụ sở khác địa bàn của người nộp thuế bị cưỡng chế
 

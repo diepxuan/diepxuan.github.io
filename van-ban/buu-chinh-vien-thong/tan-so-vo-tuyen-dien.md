@@ -444,7 +444,7 @@ Thiết bị vô tuyến điện đặt trên phương tiện nghề cá dùng �
 
 16. Thiết bị liên lạc bộ đàm công suất thấplà thiết bị vô tuyến đầu cuối di động có chức năng thu, phát tín hiệu thoại trong một phạm vi có diện tích giới hạn (ví dụ: tòa nhà, khuôn viên).
 
-17. Thiết bị truyền dữ liệu băng siêu rộng (UWB-Ultra Wide Band Communication Device) là thiết bị vô tuyến điện cự ly ngắn dùng để truyền thông tin ở dải tần số GHz với băng thông tín hiệu trên 500 MHz.
+17. Thiết bị truyền dữ liệu băng siêu rộng (UWB-Ultra Wide Band Communication Device) là thiết bị vô tuyến điện cự ly ngắn dùng để truyền thông tin ở dải tần số GHz với băng thông tin hiệu trên 500 MHz.
 
 18. Thiết bị vòng từ (Inductive Loop)là thiết bị có chức năng truyền tín hiệu, hoạt động dựa trên nguyên lý trường điện từ và dùng tần số thấp.
 

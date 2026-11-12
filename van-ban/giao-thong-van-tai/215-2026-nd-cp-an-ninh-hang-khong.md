@@ -228,7 +228,7 @@ chuyến bay (khu vực quá cảnh);
 đưa lên tàu bay (khu vực phân loại, lưu giữ, chât xếp hàng hóa, bưu gửi) tại
 cảng hàng không và các kho hàng không kéo dài;
 e) Nhà khách phục vụ chuyến bay chuyên cơ, chuyên khoang;
-ø) Khu vực giao nhận hành lý cho hành khách tại nhà ga đến;
+) Khu vực giao nhận hành lý cho hành khách tại nhà ga đến;
 h) Khu vực bảo dưỡng, sửa chữa, lắp đặt tàu bay;
 ï) Khu vực sản xuất, chế biến, cung ứng suất ăn;
 k) Khu vực kho nhiên liệu cung cấp cho tàu bay;
@@ -248,7 +248,7 @@ nhà ga, sân bay, kiêm soát cổng cửa ra vào nhà ga, sân bay, quản l�
 hàng hóa; phòng giám sát an ninh bằng camera; nơi đặt thiết bị điều khiển hệ
 thống phát thanh, phát hình của cảng hàng không; nơi đặt máy chủ hệ thống
 máy tính phục vụ hoạt động của cảng hàng không.
-**2.** Trong trường hợp phải †ăng cường bảo đảm an ninh hàng không tại cảng
+**2.** Trong trường hợp phải ăng cường bảo đảm an ninh hàng không tại cảng
 hàng không hoặc để bảo vệ hiện trường hoặc để phục vụ hoạt động hàng không
 dân dụng, lực lượng kiểm soát an ninh hàng không tại cảng hàng không chủ trì,
 phối hợp với người khai thác cảng hàng không thiết lập khu vực hạn chế tạm
@@ -510,7 +510,7 @@ trí hành khách không thể tiếp cận được trong suốt chuyến bay t
 a) Người mất khả năng nhận thức hoặc điều khiển hành vi của mình;
 ... b)Người bị từ chỗi nhập cảnh, người bị trục xuất nhưng không tự nguyện
 về nước;
-©) Bị can, bị cáo, phạm nhân, dẫn độ, người bị bắt theo quyết định truy nã.
+) Bị can, bị cáo, phạm nhân, dẫn độ, người bị bắt theo quyết định truy nã.
 **2.** Người chỉ huy tàu bay và người khai thác tàu bay phải được thông báo
 trước khi chuyến bay thực hiện về các hành khách thuộc đối tượng. niệu trên.
 Hành khách quy định tại khoản 1 Điều Tây không được cung cấp đồ uống có
@@ -544,7 +544,7 @@ a) Hành khách gây rối;
 b) Phát ngôn mang tính đe dọa sử dụng bom, mìn, chất nỗ, vật liệu nổ,
 chất phóng xạ, vũ khí sinh học, hóa học trong khu vực làm thủ tục vận chuyên,
 khu vực cách ly, sân bay, trên tàu bay;
-©) Cố ý tung tin, cung cấp thông tin sai về việc có bom, mìn, vật liệu nổ,
+) Cố ý tung tin, cung cấp thông tin sai về việc có bom, mìn, vật liệu nổ,
 chất nổ, chất phóng xạ, vũ khí sinh học, hóa học gây ảnh hưởng đến hoạt động
 bình thường. của.hoạt động hàng không dân dụng;
 d) Sử dụng giấy tờ giả để đi tàu bay;
@@ -571,7 +571,7 @@ c) Người có hành vi chiếm đoạt, gây bạo loạn tại cảng hàng k
 sở cung cấp dịch vụ điều hành bay.
 5 Căn cứ tính chất mức độ vi phạm, Cục Quản lý xuất nhập cảnh quyết
 định cắm vận chuyển có thời hạn hoặc vĩnh viễn đối với các đối tượng quy định
-tại các khoản I, 2, 3 và 4 của Điều này. Quyết định cắm vận chuyển được á áp
+tại các khoản 1, 2, 3 và 4 của Điều này. Quyết định cắm vận chuyển được á áp
 dụng ‹ đối với các chuyển bay nội địa, chuyến bay quốc tế xuất phát từ Việt Nam
 của tất cả các hãng hàng không Việt Nam và nước ngoài.
 ### Điều 22. Quản lý rủi ro an ninh hàng không
@@ -762,7 +762,7 @@ a) Ban Chỉ huy khẩn nguy an ninh cấp quốc gia là Ủy ban quốc gia v�
 Tỉnh hàng không và tạo thuận lợi hàng không;
 b) Ban Chỉ huy khẩn nguy an ninh cấp tỉnh là Ban chỉ đạo phòng, chống
 khủng bố tỉnh, thành phố trực thuộc trung ương;
-©) Ban Chỉ huy Ì khẩn nguy an ninh cấp câng hàng không là Ủy ban an ninh
+) Ban Chỉ huy Ì khẩn nguy an ninh cấp câng hàng không là Ủy ban an ninh
 cảng hàng không, gồm đại diện các cơ quan quản lý nhà nước, lực lượng vũ
 trang, doanh nghiệp hoạt động thường xuyên tại cảng hàng không. Chức năng,
 nhiệm vụ Ủy ban An ninh cảng hàng không được quy định trong chương trình
@@ -807,7 +807,7 @@ huy khẩn nguy an ninh cấp quốc gia đề chỉ đạo đối phó và thô
 đang bay bị can thiệp bất hợp pháp có bố trí sĩ quan an ninh trên không, sĩ quan
 an ninh trên không triển khai ứng phó theo quy chế do Bộ trưởng Bộ Công an
 ban hành;
-©) Đối với hành vì can thiệp bất hợp pháp cấp độ 2 xảy ra tại cơ sở bảo
+) Đối với hành vì can thiệp bất hợp pháp cấp độ 2 xảy ra tại cơ sở bảo
 đảm hoạt động bay nằm ngoài cảng hàng không, Tổng công ty Quản lý bay
 Việt Nam triển khai đối phó, báo cáo ngay Ban Chỉ huy khẩn nguy an ninh cấp
 tỉnh để chỉ đạo đối phó;
@@ -880,7 +880,7 @@ b) Trung tâm khẩn nguy an ninh hàng không quốc gia phải được đầu
 xây dựng bảo đảm thuận lợi cho.các bộ phận hoạt động theo từng chức năng
 riêng và thuận lợi cho việc chỉ huy; điều hành, sinh 'hoạt của Ban chỉ huy khẩn
 nguy; bảo đảm hệ thống thông tin liên lạc thông suốt theo quy định;
-©) Tại Trung tâm khẩn nguy an ninh hàng không quốc gia phải có các
+) Tại Trung tâm khẩn nguy an ninh hàng không quốc gia phải có các
 phương tiện, trang bị, thiết bị cần thiết phục vụ công tác chỉ đạo, điều hành.
 **2.** Trung tâm khẩn nguy an ninh hàng không cấp tỉnh, thành phố trực thuộc
 Trung ương:
@@ -890,7 +890,7 @@ b) Trung tâm khẩn nguy an ninh hàng không cấp tỉnh, thành phố trực
 Trung ương phải được đầu tư, xây dựng bảo đảm thuận lợi cho các bộ phận
 hoạt động theo từng chức năng riêng và thuận lợi cho việc chỉ huy, điều hành
 của Ban chỉ huy; bảo đảm hệ thống thông tin liên lạc thông suốt theo quy định;
-©) Tại Trung tâm khẩn nguy an ninh hàng không cấp tỉnh, thành phố trực
+) Tại Trung tâm khẩn nguy an ninh hàng không cấp tỉnh, thành phố trực
 thuộc Trung ương phải có các phương tiện, trang bị, thiết bị cần thiết phục vụ
 công tác chỉ huy, điều hành.
 **3.** Trung tâm khẩn nguy an ninh cảng hàng không:
@@ -903,7 +903,7 @@ b) Trung tâm khẩn nguy an ninh cảng hàng không phải bảo đảm các y
 cầu sau: Có hệ thống thông tin liên lạc thông suốt; đặt ở vị trí thuận lợi cho việc
 chỉ huy, điều hành đối phó của Ban chỉ huy; bảo đảm khoảng cách an toàn hoặc
 có phương án cách ly phù Bợp với thực tế hạ tầng cảng hàng không;
-©) Trường hợp do hành vi can thiệp bất hợp pháp không thể sử dụng được
+) Trường hợp do hành vi can thiệp bất hợp pháp không thể sử dụng được
 Trung tâm khẩn nguy an nỉnh của cảng hàng không thì việc chỉ huy được
 chuyên về Trung tâm khẩn nguy an ninh của tỉnh, thành phố trực thuộc
 trung ương.
@@ -1004,7 +1004,7 @@ a) Có hệ thống tổ chức bảo đảm an ninh độc lập;
 b) Người đứng đầu của các bộ phận thuộc hệ thống bảo đảm an ninh không
 kiêm nhiệm và được phê chuẩn cùng chương trình an ninh hàng không của
 đoanh nghiệp;
-©) Nhân viên kiểm soát an ninh hàng không phải được đào tạo, huấn luyện,
+) Nhân viên kiểm soát an ninh hàng không phải được đào tạo, huấn luyện,
 cấp giấy phép, năng định theo quy định của Bộ trưởng Bộ Công an.
 ### Điều 40. Nhiệm vụ, quyền hạn của lực lượng kiểm soát an ninh
 hàng không
@@ -1082,7 +1082,7 @@ phục vụ chuyên cơ, chuyên khoang.
 **6.** Cán bộ, chiến sĩ Bộ Tư lệnh Cảnh vệ - '- Bộ Công an khi làm nhiệm vụ
 phục vụ, bảo đảm an ninh cho các chuyến bay chuyên cơ, chuyên khoang; được
 phép sử dụng thẻ hoặc pin do Bộ Tư lệnh Cảnh vệ - Bộ Công an cập để hoạt
-động † tại các khu vực hạn chế và phải thông báo mẫu thẻ hoặc pin cho Cục Quản
+động tại các khu vực hạn chế và phải thông báo mẫu thẻ hoặc pin cho Cục Quản
 lý xuất nhập cảnh đề triển khai cho các đơn vị thực hiện.
 **7.** Khi có các sự kiện quốc tế tổ chức tại Việt Nam có chuyến bay chuyên
 cơ, đối tượng, phương tiện trực tiếp tham gia phục vụ tại cảng hàng không được
@@ -1114,7 +1114,7 @@ bay không đáp ứng yêu câu phải được rút khỏi tàu bay, thùng ch
 của tàu bay phải được xử lý theo quy định trước khi nạp nhiên liệu mới để bảo
 đâm nhiên liệu khi được nạp vào tàu bay không bị ảnh hưởng hay thay đôi chất
 lượng theo tiêu chuẩn.
-**5.** Công tác kiểm tra an ninh đối với phương tiện † ra nạp, nhân viên lái xe
+**5.** Công tác kiểm tra an ninh đối với phương tiện ra nạp, nhân viên lái xe
 và những người làm nhiệm vụ khác theo xe tra nạp (nếu có) của đơn vị tra nạp
 nhiên liệu cho tàu bay chuyên cơ, chuyên khoang của Việt Nam trước khi vào
 khu bay tại Việt Nam:
@@ -1308,12 +1308,12 @@ a) Quyết định tạm dừng khai thác các chuyến bay, tạm đình chỉ
 hàng không khai thác chuyến bay từ nước ngoài đến Việt Nam không tuân thủ
 hoặc không đáp ứng tiêu chuẩn của ICAO về an ninh hàng không căn cứ kết
 quả đánh giá rủi ro an ninh tại các cảng hàng không n nước ngoài có khai thác
-chuyến bay- đến: Việt: Nam; ¬
+chuyến bay- đến: Việt: Nam;
 b) Đình chỉ hoạt động. của nhân viên hàng không trong trường hợp vi phạm
 các quy định về bảo đảm an ninh hàng không;
 S), Chỉ đạo các đơn vị ngành hàng không thực hiện các biện pháp khẩn cấp
 khác để phục vụ quốc phòng, an ninh, khẩn nguy quốc gia;
-® Quyết định áp dụng các biện pháp kiểm tra an ninh hàng không đối với
+ Quyết định áp dụng các biện pháp kiểm tra an ninh hàng không đối với
 người, hành lý của hành khách và tổ bay, hàng hóa trên chuyền bay đến căn cứ
 đánh giá rủi ro an ninh hàng không; quy trình kiểm tra như đối với chuyển bay
 xuất phát và thiết bị soi chiếu sử dụng chung với hải quan;
@@ -1527,7 +1527,7 @@ a) Cung cấp dữ liệu về quá trình kiểm tra, giám sát an ninh đối
 khách và hành lý tại cảng;
 b) Kết nối hệ thống camera giám sát và các thiết bị nhận điện sinh trắc học
 vào hệ thống chung khi có yêu cầu;
-©) Cung cấp đữ liệu thông tin về hàng hóa (trọng lượng, số kiện, loại hảng,
+) Cung cấp đữ liệu thông tin về hàng hóa (trọng lượng, số kiện, loại hảng,
 hãng hàng không vận chuyền).
 **6.** Nhà chức trách an ninh hàng không Việt Nam thực hiện phân tích, đánh
 giá rủi ro từ dữ liệu thu thập được để:
@@ -1636,7 +1636,7 @@ công tác quản lý, huấn luyện, kiểm soát chất lượng an ninh hàn
 **2.** Chỉ hoạt động hợp tác quốc tế, gồm: tham gia đàm phán, ký kết, thực
 hiện điều ước quôc tế, thỏa thuận quốc tế về an ninh hàng không; tham gia các
 diễn đàn, hội nghị của ICAO và các tổ chức quốc tế khác; chi phi cho đoàn Ta,
-đoàn vào trong khuôn khổ hợp tác quốc tế; trao đổi, chia sẻ thông tín, kinh
+đoàn vào trong khuôn khổ hợp tác quốc tế; trao đổi, chia sẻ thông tin, kinh
 nghiệm quốc tế về an ninh hàng không.
 **3.** Chỉ đầu tư phát triển, hiện đại hóa nhằm nâng cao năng lực giám sát an
 ninh hàng không theo tiêu chuẩn ICAO, gồm: đầu tư, mua săm, thuê dịch Vụ,
@@ -1738,7 +1738,7 @@ quy trình, thủ tục phòng ngừa an ninh hàng không phù hợp với nguy
 €) Xây dựng, huấn \ luyện, diễn tập, tổ chức thực hiện phương án khẩn nguy
 an ninh hàng không, đối phó.với các hành vi can thiệp bất hợp pháp vào hoạt
 động hàng không dân dụng; `
-3® Công tác báo cáo, xử lý, khắc phục, điều tra, xác mình các vụ việc vi phạm
+3 Công tác báo cáo, xử lý, khắc phục, điều tra, xác mình các vụ việc vi phạm
 uy hiếp an ninh hàng không, sự cố an ninh hàng không; ban hành các khuyến
 cáo, chỉ thị cần thiết nhằm phòng ngừa, ngăn chặn sự cố an ninh hàng không;
 đ) Thực hiện các biện pháp khẩn cấp bảo đảm an ninh hàng không, phục
@@ -1756,7 +1756,7 @@ trật tự công cộng và an toàn xã hội tại cảng hàng không và c�
 hàng không. Tiếp nhận, xử lý tội phạm và các vụ việc vi phạm về an ninh, trật
 tự liên quan đến hoạt động khai thác hàng không dân đụng theo quy định pháp luật.
 ‡
-§. Xây dựng và triên khai thực hiện Phương án khẩn nguy đối phó với
+5. Xây dựng và triên khai thực hiện Phương án khẩn nguy đối phó với
 hành vì can thiệp bất hợp pháp vào hoạt động hàng không dân dụng trong phạm
 vi trách nhiệm. Tổ chức đào tạo, huấn luyện, bồi dưỡng, hướng dẫn về mặ
 nghiệp vụ bảo vệ an ninh quốc gia cho lực lượng kiểm soát an ninh hàng không;
@@ -2110,7 +2110,7 @@ Khách lẻ hoặc đoàn dưới 10 ta Dưới 60 phút tính tròn
 8 Phí dẫn đường, áp tải hàng hóa Các kho hàng
 trong khu vực cảng hàng không
 Ấp tải hàng hóa từ kho đến tàu
-§.1 | bay hoặc ngược lại - hàng thông VNĐ/lượt 330.000
+5.1 | bay hoặc ngược lại - hàng thông VNĐ/lượt 330.000
 thường
 8.2 | Áp tải hàng hóa - hàng giá trị cao VNĐ/lượt 550.000
 83 Áp tải hàng hóa - hàng đặc biệt VNĐ/lượt 660.000
@@ -2124,7 +2124,7 @@ STT Đanh mục phí Đơn vị tính Mức thu Ghi chú Người nộp phí
 Phí kiểm tra, bảo vệ, trông giữ
 10 | đặc biệt đối với hàng hóa, tài sản bị bỏ
 quên
-Kiểm tra, soi chiếu an ninh hàng ¬ Công ty trông giữ
+Kiểm tra, soi chiếu an ninh hàng
 10.1 hóa, hành lý ký gửi tại quầy trông giữ VNĐKkkiện/lân kiêm tra| 10.000
 Kiểm tra an ninh đối với tài sản,
 _~ VNĐ/ầnkiểmtra | 600.000

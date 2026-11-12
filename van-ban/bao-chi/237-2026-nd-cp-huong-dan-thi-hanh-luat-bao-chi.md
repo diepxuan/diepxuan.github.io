@@ -509,7 +509,7 @@ thông tin báo chí đã được cơ quan báo chí đăng, phát; không sử
 pháp kỹ thuật, đữ liệu boặc việc tổ chức, sắp XẾp, hiển thị thông tin để can thiệp
 trái với quy định của pháp luật về báo chí vào nội dung thông tin báo chí. ị
 
-- Điều 2. Việc tổ chức, sắp xếp, hiển thị và hỗ trợ tiếp cận thông tín báo chí trên
+- Điều 2. Việc tổ chức, sắp xếp, hiển thị và hỗ trợ tiếp cận thông tin báo chí trên
 nền (ân g phải được thực hiện trên cơ sở các tiêu chí xác định; bảo đảm có thể
 kiểm tra, theo dãi và \ giải trình theo quy định tại Nghị định này.
 
@@ -714,7 +714,7 @@ lượng kỹ thuật, giải pháp an toàn thông tin cho hệ thống lưu ch
 .. 6. Sử dụng tác phẩm báo chí được lưu chiêu điện tử
 
 a) Tác phẩm báo chí lưu chiều điện tử được sử dụng ‹ để phục vụ công tác
-quản lý nhà nước về báo chí, gồm: Đánh giá, nhận xét về nội dung thông tín
+quản lý nhà nước về báo chí, gồm: Đánh giá, nhận xét về nội dung thông tin
 theo chuyên đề, sự kiện, cho các cuộc kiểm tra chuyên ngành thường xuyên và
 đột xuất theo yêu cầu của cơ quan quản lý nhà nước về báo chí;
 
@@ -786,7 +786,7 @@ giả tác phẩm thực hiện theo quy định sau đây:
 
 3) Đăng, phát tại trang hai đối với báo in, trang cuối đối với tạp chí In,
 chuyên mục riêng tại trang chủ đối với báo chí điện tử, với cùng một kiểu chữ,
-cỡ chữ mà báo chí đã đăng, phát thông tín;
+cỡ chữ mà báo chí đã đăng, phát thông tin;
 
 Đối với báo chí điện tử, ngoài việc đăng, phát lời cải chính, xin lỗi còn
 phải gỡ bỏ ngay thông tin sai sự thật đã đăng, phát nhưng phải lưu giữ nội dung

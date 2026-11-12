@@ -448,5 +448,5 @@ Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.
   - Luật Thuế GTGT số 48/2024/QH15 (sửa đổi bởi Luật 149/2025/QH15)
   - Luật Thuế TNCN số 109/2025/QH15
   - Nghị quyết số 198/2025/QH15
-- **Lỗi OCR đã sửa:** Sửa các lỗi phổ biến do OCR gây ra (chữ "chỉ" → "chi", "thuê" → "thuế" trong nhiều trường hợp, các ký tự đặc biệt `đ)`, `ø)`, `©)` đã chuẩn hóa về a), b), c), d), đ), e), g) theo đúng thứ tự trong văn bản gốc).
+- **Lỗi OCR đã sửa:** Sửa các lỗi phổ biến do OCR gây ra (chữ "chỉ" → "chi", "thuê" → "thuế" trong nhiều trường hợp, các ký tự đặc biệt `đ)`, `)`, `)` đã chuẩn hóa về a), b), c), d), đ), e), g) theo đúng thứ tự trong văn bản gốc).
 - **Trạng thái:** Nội dung đầy đủ 19 điều, 5 chương.

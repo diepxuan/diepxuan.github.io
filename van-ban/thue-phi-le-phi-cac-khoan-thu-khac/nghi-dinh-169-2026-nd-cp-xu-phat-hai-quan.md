@@ -947,7 +947,7 @@ tang vật vi phạm có trị giá tương đương từ 100.000.000 đông Vi�
 mà không bị truy cứu trách nhiệm hình sự.
 
 5. Người xuất cảnh, nhập cảnh bằng hộ chiếu hoặc bằng các loại giấy tờ
-khác có giá trị thay cho hộ chiếu do cơ quan có thâm quyền của Việt Nam hoặc
+khác có giá trị thay cho hộ chiếu do cơ quan có thẩm quyền của Việt Nam hoặc
 nước ngoài cấp, giấy thông hành mang theo kim loại quý khác, đá quý, công cụ
 chuyên nhượng theo quy định phải khai hải quan khi xuất cảnh, nhập cảnh mà
 không khai hoặc khai sai thì bị xử phạt như sau:
@@ -2149,7 +2149,7 @@ hàng hóa là tang vật vi phạm.
 
 3. Đối với tang vật là ngoại tệ tiền mặt, đồng Việt Nam tiền mặt của
 người xuất cảnh, nhập cảnh bằng hộ chiếu hoặc bằng các loại giấy tờ khác có
-giá trị thay cho hộ chiếu do cơ quan có thâm quyền của Việt Nam hoặc nước
+giá trị thay cho hộ chiếu do cơ quan có thẩm quyền của Việt Nam hoặc nước
 ngoài cấp, giấy thông hành thì chỉ tạm giữ số ngoại tệ, tiền Việt Nam bằng
 tiền mặt vượt quá số ngoại tệ, tiền Việt Nam không phải khai hải quan theo
 quy định của pháp luật.
@@ -2546,7 +2546,7 @@ ban nhân dân cấp có thẩm quyền xử phạt nơi xảy ra vi phạm.
 
 2. Mọi hành vi vi phạm pháp luật về hải quan xảy ra thuộc địa bàn hoạt
 động hải quan thì cơ quan hải quan được giao quản lý địa bàn có trách nhiệm
-xử phạt theo thâm quyền quy định tại Nghị định này; trường hợp do Chỉ cuệ
+xử phạt theo thẩm quyền quy định tại Nghị định này; trường hợp do Chỉ cuệ
 trưởng Chỉ cục
 Điều tra chống buôn lậu, Chỉ cục trưởng Chỉ cục Kiểm tra saử
 thông quan thuộc Cục Hải quan phát hiện thì thực hiện xử phạt theo thâm
@@ -2586,9 +2586,9 @@ vụ, quyền hạn, địa bàn được giao.
 
 6. Ở những địa điểm trong vùng biển Việt Nam, nơi không CÓ CƠ quan |
 
-hải quan thì người có thâm quyền xử phạt của Cảnh sát biển Việt Nam đóng :
+hải quan thì người có thẩm quyền xử phạt của Cảnh sát biển Việt Nam đóng :
 
-tại địa bàn đó có thâm quyền xử phạt tiền, xử phạt bổ sung và áp dụng biện
+tại địa bàn đó có thẩm quyền xử phạt tiền, xử phạt bổ sung và áp dụng biện
 pháp khắc phục hậu quả đối với các hành vi vi phạm hành chính trong lĩnh
 
 vực hải quan quy định tại
@@ -2797,7 +2797,7 @@ quyết định được lập, ký sô, gửi, nhận, lưu trữ và quản l�
 điện tử. Việc ban hành quyết định xử phạt vi phạm hành chính trên môi trường
 điện tử phải bảo đảm toàn bộ nội dung, dữ liệu của quyết định được lưu trữ
 an toàn, bảo mật, không bị chỉnh sửa, thay đổi sau khi ban hành. Cơ quan hải
-quan có thâm quyền xử phạt phải bảo đảm việc thông báo quyết định xử phạt
+quan có thẩm quyền xử phạt phải bảo đảm việc thông báo quyết định xử phạt
 thông qua hệ thống điện tử của cơ quan hải quan hoặc bằng tin nhắn, thư điện
 tử, ứng dụng điện tử khác. Hệ thống điện tử của cơ quan hải quan phải 'bảo
 đảm việc xác định được thời điểm cá nhân, tổ chức vi phạm đã nhận được

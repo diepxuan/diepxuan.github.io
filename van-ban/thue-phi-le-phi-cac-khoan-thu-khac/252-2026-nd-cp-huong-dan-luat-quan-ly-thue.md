@@ -410,7 +410,7 @@ tự nguyện chấp hành;
 ảnh hưởng đến quyền lợi và nghĩa vụ thuế của tổ chức, cá nhân khác;
 
 a.4) Người nộp thuế không thực hiện các yêu cầu của cơ quan quản lý thuế
-theo quy định của pháp luật: từ chối không cung cấp thông tín tài liệu cho cơ
+theo quy định của pháp luật: từ chối không cung cấp thông tin tài liệu cho cơ
 quan quản lý thuế; không chấp hành quyết định kiểm tra và các yêu cầu khác
 Của cơ quan quản lý thuế theo quy định của pháp luật; không thực hiện yêu
 cầu giải trình của cơ quan thuế về rủi ro hóa đơn theo cảnh báo từ hệ thống ứ ứng
@@ -474,7 +474,7 @@ quan quản lý thuê thực hiện đính chính thông tin và phải công kh
 đính chính theo hình thức công khai quy định tại điểm b khoản 2 Điều này;
 
 c) Trường hợp công khai thông tin quy định tại điểm a.2 khoản 1 Điều
-này, Hệ thống thông tin quản lý thuế tự động công khai thông tín trên trang _
+này, Hệ thống thông tin quản lý thuế tự động công khai thông tin trên trang _
 thông tin điện tử của cơ quan quản lý thuế các cấp theo định kỳ hàng tháng.
 
 
@@ -486,7 +486,7 @@ tỉn quản lý thuế tự động cập nhật trạng thái người nộp t
 b) Đối với trường hợp công khai thông tin quy định tại điểm a.2 khoản 1
 Điều này, tại thời điểm công khai thông tin kỳ mới, các thông tin đã công khai
 trước đó đồng thời chấm dứt hiễn thị. Trường hợp người nộp thuế đã hoàn thành
-nghĩa vụ thuê trước khi thông tín được chấm đứt công khai, trên cơ sở cập nhật
+nghĩa vụ thuê trước khi thông tin được chấm đứt công khai, trên cơ sở cập nhật
 của Hệ thống thông tin quản lý thuế, trang thông tin điện tử của cơ quan quản
 lý thuê các cấp tự động hiển thị bổ sung thông tin về việc người nộp thuê đã
 hoàn thành nghĩa vụ thuế.
@@ -572,7 +572,7 @@ hiện theo quy định của cơ quan nhà nước có thâm quyên;
 
 b) Đối với những nội dung chỉ chưa được quy định mức chỉ: căn cứ tình
 hình thực tế, cơ quan quản lý thuế quyết định mức chỉ cho phù hợp và bảo đảm
-trong dự toán chỉ thường xuyên ngân sách nhà nước giao theo định mức phân
+trong dự toán chi thường xuyên ngân sách nhà nước giao theo định mức phân
 bỗ dự toán chỉ quản lý hành chính.
 
 
@@ -1181,7 +1181,7 @@ quy định của pháp luật về ngoại giao mua hàng hóa, dịch vụ t�
 10. Trường hợp \ việc tính thuế, khoản thu khác, thông báo thuế, khoản thu
 khác do cơ quan thuế thực hiện mả cơ quan thuế đã kết nối, chia sẻ, sử dụng
 được thông tỉn có trong cơ sở đữ liệu quốc. gia, cơ sở dữ liệu của cơ quan nhà
-nước có thâm quyên, Hệ thống thông tín quản lý thuế hoặc hồ Sơ xác định nghĩa
+nước có thâm quyên, Hệ thống thông tin quản lý thuế hoặc hồ Sơ xác định nghĩa
 vụ tài chính, phiếu chuyển thông tin do cơ quan có thẩm quyền chuyển đến và
 các thông tin, dữ liệu này bảo đảm đủ căn cứ để tính thuế, khoản thu khác theo
 quy định thì người nộp thuế không phải nộp hồ sơ khai thuế, khoản thu khác,
@@ -1966,11 +1966,11 @@ có trách nhiệm căn cử thông tin trên hồ sơ xác định nghĩa vụ 
 hiện tính thuế, khoản thu khác, thông báo thuế, khoản thu khác cho người
 nộp thuế.
 
-Trường hợp thông tín của các cơ quan nhà nước có thẩm quyền chuyển
+Trường hợp thông tin của các cơ quan nhà nước có thẩm quyền chuyển
 đến chưa đủ thành phần, chưa đủ thông tin hoặc cơ quan quản lý thuế phát hiện
 thông tin không đúng với thực tế thì trong thời hạn 05 ngày làm việc kể từ ngày
 nhận được hồ sơ, cơ quan quản lý thuế có trách nhiệm thông báo bằng văn bản
-cho cơ quan đã gửi hồ sơ để bổ sung, điều chỉnh thông tín. Trường hợp nhận
+cho cơ quan đã gửi hồ sơ để bổ sung, điều chỉnh thông tin. Trường hợp nhận
 được văn bản để nghị bổ sung thông tin của cơ quan quản lý thuế, cơ quan nhà
 nước có thẳm quyền cung cấp hồ sơ, thông tin theo đề nghị của cơ.quan quản
 lý thuế trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản. Sau khi
@@ -1981,7 +1981,7 @@ thông báo nộp tiền theo thời hạn quy định tại các Điều tươn
 e) Đối với trường hợp cơ quan thuế thông báo số tiền thuế, khoản thu khác
 phải nộp theo văn bán tính thuế, khoản thu khác của cơ quan quản lý nhà nước
 có thẩm quyền chuyển đến theo quy định tại Điều 1 Nghị định này: trường
-hợp thông tín của các cơ quan nhà nước có thẩm quyền chuyển đến chưa đủ
+hợp thông tin của các cơ quan nhà nước có thẩm quyền chuyển đến chưa đủ
 căn cứ để ban hành thông báo nộp thuế, trong thời hạn 05 ngày làm việc kế từ
 ngày nhận được văn bản, cơ quan thuế có trách nhiệm thông báo bằng văn bẩn
 cho cơ quan đã gửi hề sơ để bổ sung, điều chỉnh thông tin. Trường hợp nhận
@@ -2737,7 +2737,7 @@ b) Trường hợp người nộp thuế đã thực hiện nghĩa vụ nộp th
 thông tin quản lý thuế, người nộp thuế gửi thông tin phản hồi về việc đã nộp
 thuế kèm theo bản chụp chứng từ nộp tiền vào ngân sách nhà nước đến cơ quan
 quản lý thuế theo phương thức điện tử qua Hệ thống thông tin quản lý thuế. Cơ
-quan quản lý thuê cập nhật thông tín và ban hành thông báo hủy bỏ tạm hoãn
+quan quản lý thuê cập nhật thông tin và ban hành thông báo hủy bỏ tạm hoãn
 xuất cảnh trên hệ thống ngay sau khi nhận được thông tin phản hồi của người
 nộp thuế;
 
@@ -3870,7 +3870,7 @@ tảng thương mại điện tử có chức năng thanh toán và chức năng
 tuyên thì thông báo bằng phương thức điện tử cho chủ quản nên tảng thương
 mại điện tử để không thực hiện khấu trừ thuế đối với cùng giao dịch đó.
 
-Thông báo phải có thông tín xác định giao dịch đã được khẩu trừ, nộp
+Thông báo phải có thông tin xác định giao dịch đã được khẩu trừ, nộp
 thay, gồm: mã số thuế của tổ chức đã khấu trừ, mã giao dịch hoặc mã đơn hàng,
 giá trị giao dịch, số thuế đã khấu trừ, nộp thay và thông tin của tổ chức, cá nhân
 bán hàng hóa, cung cấp dịch vụ. Tổ chức kinh doanh tại Việt Nam và chủ quản
@@ -3906,7 +3906,7 @@ dịch vụ mà tổ chức nước ngoài, hộ kinh doanh, cá nhân kinh doan
 b) Trường hợp tổ chức kinh doanh tại Việt Nam, chủ quản nền tảng thương
 mại điện tử thuộc đối tượng khấu trừ, nộp thay số thuế đã khấu trừ không xác
 định được giao địch phát sinh doanh thu từ nền tâng thương mại điện tử là hàng,
-hóa hay dịch vụ hoặc loại dịch vụ trên cơ sở dữ liệu và thông tín sẵn có thì việc
+hóa hay dịch vụ hoặc loại dịch vụ trên cơ sở dữ liệu và thông tin sẵn có thì việc
 xác định số thuế phải khấu trừ thực hiện theo mức tỷ lệ % thuế suất cao nhất
 theo quy định tại pháp luật thuế giá trị gia tăng, thuế thu nhập doanh nghiệp,
 thuế thu nhập cá nhân.
@@ -4591,7 +4591,7 @@ dữ liệu số ngành tài chính và nền tảng tích hợp, chia sẻ đ�
 5. Việc kết nối, chia sẻ đữ liệu phải tuân thủ đầy đủ Khung kiến trúc số
 của Bộ Tài chính và đáp ứng tiêu chuẩn kỹ thuật công nghệ thông tin trong kết
 nối, chia sẻ với Lệ thông thông tin quản lý thuế theo quyêt định của Bộ trưởng
-Bộ Tài chính; bảo đảm an toàn thông tín tối thiểu cấp độ 3 theo quy định của
+Bộ Tài chính; bảo đảm an toàn thông tin tối thiểu cấp độ 3 theo quy định của
 pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ khi kết nối
 chính thức.
 
@@ -4721,7 +4721,7 @@ nộp thuế nộp hồ sơ cho cơ quan thuế, trừ tường hợp điều ư
 công bố trên cơ sở dữ liệu quốc gia về điều ước quốc tế;
 
 c) Rà soát, sửa đổi, bễ sung văn bản quy phạm pháp luật thuộc lĩnh vực
-quản lý để đảm bảo việc trao đối thông tín với cơ quan thuế nước ngoài tuân
+quản lý để đảm bảo việc trao đối thông tin với cơ quan thuế nước ngoài tuân
 theo các điều ước quốc tế, thỏa thuận quốc tế về thuế và phù hợp với tiêu chuẩn
 của Diễn đàn toàn cầu về minh bạch và trao đổi thông tin cho mục đích thuế;
 
@@ -4932,7 +4932,7 @@ a) Cơ quan có thẩm quyền kiểm tra, „Biám sát thực hiện việc ki
 sát theo đúng chức năng, nhiệm vụ, quyển hạn và quy định của pháp luật;
 
 b) Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp, cung
-cấp thông tín, tài liệu và thực hiện các yêu câu, quyết định xử lý của cơ quan,
+cấp thông tin, tài liệu và thực hiện các yêu câu, quyết định xử lý của cơ quan,
 đoàn kiểm tra, giám sát theo quy định của pháp luật.
 
 4. Kiểm tra, giảm sát việc thực hiện pháp luật về thuế, phí và lệ phí đối
@@ -5216,7 +5216,7 @@ nhà nước thì tổ chức tín dụng, chỉ nhánh ngân hàng nước ngo�
 bị cưỡng chế đối với số tiên trong phạm vi bảo lãnh theo quy định của Luật
 Quản lý thuế.
 
-6. Tổ chức tín dụng có trách nhiệm cung cấp thông tín về ` hàng hóa nhập
+6. Tổ chức tín dụng có trách nhiệm cung cấp thông tin về ` hàng hóa nhập
 khẩu thuộc đối tượng miễn thuế, không chịu thuế được cầm có, thế chấp phải
 xử lý để thu hồi nợ nhưng người khai thuế chưa kê khai tờ khai hải quan mới,.
 chưa nộp đủ thuế theo quy định của pháp luật theo yêu cầu của cơ quan hải
@@ -5282,7 +5282,7 @@ của cơ quan thông tin, báo chí
 1. Nhiệm vụ, quyền hạn, nội dung, thời hạn cung cấp thông tin:
 
 a) Cơ quan thông tin, báo chí có trách nhiệm cung cấp cho cơ ' quan quản
-lý thuê các thông tin sau đây khi có yêu cầu từ cơ quan quản lý thuế: thông tín
+lý thuê các thông tin sau đây khi có yêu cầu từ cơ quan quản lý thuế: thông tin
 về hoạt động sản xuất, kinh doanh, quảng cáo, khuyến mại, giá bán, thị trường
 của tổ chức, cá nhân có liên quan đến nghĩa vụ thuế; thông tin về dấu hiệu vi
 phạm pháp luật thuế được phản ánh trên phương tiện thông tỉn đại chúng; thông
@@ -5294,7 +5294,7 @@ nhận được yêu cầu. Trường hợp nội dung phúc tạp, thời hạn
 
 
 không quá 10 ngày làm việc kể từ ngày nhận được yêu cầu và phải thông báo
-bằng văn bản Tiêu rõ lý do. Đối với thông tín về dấu hiệu vi phạm pháp luật thuế
+bằng văn bản Tiêu rõ lý do. Đối với thông tin về dấu hiệu vi phạm pháp luật thuế
 thì phải cung cấp ngay trong ngày hoặc chậm nhất là ngày làm việc tiếp theo
 ngày phát hiện.
 
@@ -5457,7 +5457,7 @@ là thành viên, cơ quan thuế thực hiện như sau:
 đ.1) Người nộp thuế, cơ quan, tổ chức, cá nhân có quyển yêu cầu cơ- -quan
 thuế cung cấp thông tin và giải thích về đề nghị cung cấp thông tin, bảo đảm phù
 hợp với nội dung yêu cầu và phục vụ việc thực hiện nghĩa vụ theo quy định của
-pháp luật. Nội dung cung cấp, giải thích không bao gồm thông tín về nguồn, sự
+pháp luật. Nội dung cung cấp, giải thích không bao gồm thông tin về nguồn, sự
 tồn tại của yêu câu trao đổi thông tỉn hoặc thư để nghị cung cấp thông tin thuộc
 phạm vi bảo mật trong trao đôi thông tin với nhà chức trách có thẩm quyền nước
 ngoài. Cơ quan thuế có trách nhiệm bảo đảm việc cung cấp thông tin tuân thủ

@@ -2481,7 +2481,7 @@ Tl Áp dụng để tăng cường liên kết chuỗi giá trị
 
 Tl Áp dụng để mở rộng thị trường
 
-Ll Áp dụng cho chuyên đổi số/chuyển đổi xanh
+Ll Áp dụng cho chuyển đổi số/chuyển đổi xanh
 
 V. HIỆU QUÁ DỰ KIÊN VÀ KHẢ NĂNG LAN TỎA.
 1. Hiệu quả dự kiến

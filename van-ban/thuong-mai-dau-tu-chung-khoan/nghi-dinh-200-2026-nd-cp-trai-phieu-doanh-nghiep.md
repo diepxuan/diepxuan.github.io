@@ -1814,7 +1814,7 @@ quy định tại Điều 26 Nghị định này;
 
 b) Tối thiểu 01 ngày làm việc trước ngày dự kiến tổ chức đợt chào bán
 trái phiêu (ngày bắt đầu đợt chào bán trái phiếu), doanh nghiệp phát hành phải
-gửi Bản công bố thông tín trước đợt chào bán cho Sở giao dịch chứng khoán
+gửi Bản công bố thông tin trước đợt chào bán cho Sở giao dịch chứng khoán
 để tổng hợp, báo cáo về tình hình phát hành trái phiếu doanh nghiệp theo quý
 định tại Điều 40 Nghị định này. Doanh nghiệp thực hiện chào bán trái phiếu
 theo quy định của thị trường phát hành.
@@ -2227,7 +2227,7 @@ d) Báo cáo về thông tin bất thường khác của doanh nghiệp phát h�
 6. Nội dung công bố thông tỉn quy định tại các khoản 2, 3, 4 và 5 Điều
 này thực hiện theo quy định của Bộ trưởng Bộ Tài chính.
 
-7. Sở giao dịch chứng khoán tiếp nhận nội dung công bố thông tín của
+7. Sở giao dịch chứng khoán tiếp nhận nội dung công bố thông tin của
 doanh nghiệp phát hành trái phiếu theo quy định tại các khoản 1, 2, 3, 4 và 5
 Điều này để tông hợp, công bố thông tin trên chuyên trang thông tin về trái
 phiếu doanh nghiệp theo quy định tại Điều 38 Nghị định này và báo cáo về
@@ -3783,7 +3783,7 @@ sản bảo tài sản + mm. wwr.
 đảm đảm x am: 1.
 mĂ. R hoặc | hoặc Giá định giá, cách
 (nêu rõ bảo/ x ` k âm
-, Giá trị | trị được linh, thông tín
+, Giá trị | trị được linh, thông tin
 CnE c | TIẾP | được | bảo lãnh | đăng ký biệ
 Hình thức | khối lượng/giá trị
 SIT To 3 2 , + bảo thanh pháp bảo đảm,

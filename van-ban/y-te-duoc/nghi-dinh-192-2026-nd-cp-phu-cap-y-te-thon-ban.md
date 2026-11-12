@@ -24,7 +24,7 @@ lastedit: 2026-06-06
 | **Ngày có hiệu lực** | 15/07/2026 |
 | **Trích yếu** | Quy định một số chế độ phụ cấp đặc thù trong lĩnh vực y tế; hỗ trợ hằng tháng đối với nhân viên y tế thôn, tổ dân phố và cô đỡ thôn, bản |
 | **Lĩnh vực** | Y tế - Sức khỏe, Chính sách xã hội |
-| **Chữ ký số** | VĂN PHÒNG CHÍNH PHỦ (E=vpcp@chinhphu.vn), ký ngày 02/06/2026, SHA-256, đã xác minh hợp lệ (VGCASignService 1.0.11, ©2014 VGCA - Ban Cơ yếu Chính phủ) |
+| **Chữ ký số** | VĂN PHÒNG CHÍNH PHỦ (E=vpcp@chinhphu.vn), ký ngày 02/06/2026, SHA-256, đã xác minh hợp lệ (VGCASignService 1.0.11, 2014 VGCA - Ban Cơ yếu Chính phủ) |
 
 ### Căn cứ pháp lý
 

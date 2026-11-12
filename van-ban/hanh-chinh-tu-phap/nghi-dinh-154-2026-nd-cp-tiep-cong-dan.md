@@ -481,7 +481,7 @@ và các Ủy ban của Quốc hội, Lãnh đạo Chính phủ và Lãnh đạo
 Chính phủ.
 2. Trụ sở tiếp công dân cấp tỉnh, địa điểm tiếp công dân của bộ, cơ quan
 ngang bộ và các cơ quan, đơn vị, địa phương là nơi tổ chức tiếp công dân trực
-tuyến đối với các vụ việc thuộc thâm quyền giải quyết của bộ, cơ quan ngang
+tuyến đối với các vụ việc thuộc thẩm quyền giải quyết của bộ, cơ quan ngang
 bộ, cơ quan, đơn vị, địa phương; tổ chức tiếp công dân định kỳ, đột xuất của
 lãnh đạo bộ, cơ quan ngang bộ, lãnh đạo cơ quan, đơn vị, địa phương.
 Trong trường hợp không đáp ứng được các điều kiện đám bảo tiếp công
@@ -616,7 +616,7 @@ lời công dân nếu vụ việc thuộc thẩm quyền giải quyết, văn b
 báo kết luận việc tiếp công dân. -
 Trường hợp vụ việc liên quan đến trách nhiệm của nhiều cấp, nhiều
 ngành thì cơ quan thanh tra nhà nước cùng cấp có trách nhiệm phối hợp với
-các cơ quan, đơn vị, cá nhân có thâm quyền nghiên cứu, phân tích tính chất,
+các cơ quan, đơn vị, cá nhân có thẩm quyền nghiên cứu, phân tích tính chất,
 mức độ, nguyên nhân của vụ việc để đề xuất các biện pháp giải quyết, đồng
 thời chuẩn bị văn bản để người đứng đầu cơ quan, đơn vị trả lời công dân.
 Điều 27. Theo dõi, quản lý việc tiếp công dân

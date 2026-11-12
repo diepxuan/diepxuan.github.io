@@ -6047,7 +6047,7 @@ thực hiện theo quy định tại điểm d khoản 2 Điều này.
 4. Đối với trường hợp cơ quan, người có thẩm quyền xác định đối tượng,
 trường hợp được miễn thuế, giảm thuế và ghỉ tại Phiếu chuyền thông tin, văn bản
 xác định nghĩa vụ tài chính chuyển cho cơ quan thuế:
-a) Cơ quan thuế thực hiện rà soát, đối chiếu thông tín trên Phiếu chuyển
+a) Cơ quan thuế thực hiện rà soát, đối chiếu thông tin trên Phiếu chuyển
 thông tin, văn bản xác định nghĩa vụ tài chính với Hệ thống thông tin quản lý thuế
 và quy định pháp luật. Trường hợp tại Phiếu chuyển thông tin, văn bản xác định
 nghĩa vụ tài chính không trùng khớp với hệ thống thông tin quản lý thuế hoặc
@@ -6649,7 +6649,7 @@ hoàn, số tiền thuế còn được khẩu trừ chuyển kỳ sau thì cơ 
 thông. báo (lần 1) theo mẫu số 01/KTT Phụ lục IV ban hành kẻm theo Thông tư
 này về việc yêu cầu người nộp thuế giải trình, bổ sung thông tin, tài liệu.
 ,J1rong thời hạn 19 ngày làm việc kể từ ngày cơ quan thuế ban hành thông
-báo về việc giải trình, bổ sung thông tín, tài liệu, người nộp thuế phải giải trình,
+báo về việc giải trình, bổ sung thông tin, tài liệu, người nộp thuế phải giải trình,
 bổ sung thông tin, tài liệu. Việc giải trình, bổ sung thông tin, tài liệu có thể được
 thực hiện trực tiếp tại cơ quan thuế hoặc theo phương thức làm việc trực tuyến,
 giao dịch điện tử hoặc gửi văn bản giải trình qua dịch vụ bưu chính;

@@ -1457,7 +1457,7 @@ nghiệp công nghệ số và quy định của pháp luật khác có liên qu
 ### Điều 48. Cập nhật, khai thác, sử dụng cơ sở dữ liệu tổ chức và hoạt
 động của Thừa hành viên
 
-1. Việc quản lý, cập nhật, khai thác, sử dụng, chia sẻ thông tín trong cơ sở
+1. Việc quản lý, cập nhật, khai thác, sử dụng, chia sẻ thông tin trong cơ sở
 dữ liệu tổ chức và hoạt động của Thừa hành viên phải tuân thủ quy định của
 pháp luật về dữ liệu, bảo vệ bí mật nhà nước, bảo vệ dữ liệu cá nhân và pháp
 luật khác có liên quan.
@@ -1466,7 +1466,7 @@ luật khác có liên quan.
 chức và hoạt động của Thừa hành viên phải quy định rõ trách nhiệm của các cá
 31
 
-nhân, cơ quan, tổ chức có liên quan trong việc cập nhật thông tín, khai thác, sử
+nhân, cơ quan, tổ chức có liên quan trong việc cập nhật thông tin, khai thác, sử
 dụng, chia sẻ cơ sở dữ liệu và chi phí khai thác, sử dụng.
 
 3. Văn phòng thi hành án dân sự, Thừa hành viên có trách nhiệm cập nhật

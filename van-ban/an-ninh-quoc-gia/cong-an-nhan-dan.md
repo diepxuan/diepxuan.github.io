@@ -3029,7 +3029,7 @@ Phuluc.doc
 
  e) Đơn vị bố trí, sử dụng cán bộ.
 
- 3. Báo cáo của Công an các đơn vị, địa phương gửi về Bộ Công an (qua Cục Tổ chức cán bộ) trước ngày 31 tháng 12 hăng năm. Quá thời hạn này, Công an đơn vị, địa phương không gửi báo cáo thì việc điều động học viên về Công an đơn vị, địa phương thực hiện theo kế hoạch phân công của khóa tốt nghiệp.Điều 1.6.TT.7.5. Kế hoạch phân công công tác
+ 3. Báo cáo của Công an các đơn vị, địa phương gửi về Bộ Công an (qua Cục Tổ chức cán bộ) trước ngày 31 tháng 12 hằng năm. Quá thời hạn này, Công an đơn vị, địa phương không gửi báo cáo thì việc điều động học viên về Công an đơn vị, địa phương thực hiện theo kế hoạch phân công của khóa tốt nghiệp.Điều 1.6.TT.7.5. Kế hoạch phân công công tác
 
 (Điều 5 Thông tư số 39/2018/TT-BCA, có hiệu lực thi hành kể từ ngày 15/02/2019)
 

@@ -389,7 +389,7 @@ của pháp luật; bảo đảm đúng phạm vi, mục đích, thẩm quyền,
 an ninh dữ liệu, bảo vệ dữ liệu cá nhân và bảo vệ bí mật nhà nước.
 
 2. Việc kết nối, cung cấp thông tin, dữ liệu của các tổ chức, cá nhân cho
-cơ quan quản lý nhà nước thực hiện thông qua hệ thống thông tín, cơ sở đữ Ì
+cơ quan quản lý nhà nước thực hiện thông qua hệ thống thông tin, cơ sở đữ Ì
 liệu về thi hành án hình sự theo quy định của pháp luật.
 
 3. Việc kết nối và chia sẻ dữ liệu về thi hành án hình sự phải bảo đảm !
@@ -426,7 +426,7 @@ quyền truy cập theo quy định của pháp luật.
 3. Các cơ quan nhà nước, tổ chức, cá nhân có yêu cầu tra cứu, cung cấp
 thông tin, tài liệu lưu trữ về người, pháp nhân thương mại chấp hành án, chấp
 hành biện phá tư pháp trong cơ sở dữ liệu về thi hành án hình sự phải được
-cơ quan có thâm quyền cho phép và tuân thủ các quy định của pháp luật về
+cơ quan có thẩm quyền cho phép và tuân thủ các quy định của pháp luật về
 bảo vệ bí mật nhà nước, giao dịch điện tử, dữ liệu, bảo vệ dữ liệu cá nhân và
 pháp luật về lưu trữ.
 

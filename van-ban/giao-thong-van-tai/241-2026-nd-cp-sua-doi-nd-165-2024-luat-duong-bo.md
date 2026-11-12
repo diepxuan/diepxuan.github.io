@@ -1139,7 +1139,7 @@ a) Tính đồng bộ về kết cấu hạ tầng của dự án mở rộng, n
 cầu hạ tằng đường bộ hiện hữu;
 
 b) Phương án tài chính dự án hiện hữu và dự á án mở rộng, nâng cấp theo
-quy định của pháp luật, hợp đồng đã ký kết và kết quả đàm phán tại khoản I
+quy định của pháp luật, hợp đồng đã ký kết và kết quả đàm phán tại khoản 1
 Điều này.
 
 3. Việc lập, thẩm định báo cáo nghiên cứu tiền khả thi, quyết định chủ
@@ -1544,7 +1544,7 @@ Chính phủ quy định chỉ tiết, hướng dẫn thị hành một số đi
 bộ và Điễu 77 Luật Trật tự, an toàn giao thông đường bộ;
 
 Căn cứ Nghị ãịnh số /2026/ND-CP ngày tháng năm 2026 của Chính
-phủ sửa đổi, bồ Sung. một số điều của Nghị định số 163/2024/NĐ-CP ngày 26
+phủ sửa đổi, bổ sung. một số điều của Nghị định số 163/2024/NĐ-CP ngày 26
 tháng 12 năm 2024 của Chính phủ quy định chỉ tiết, hướng dẫn thì hành một số
 điều của Luật Đường bộ và Điêu 77 Luật Trật tự, an toàn giao thông đường bộ;
 
@@ -2523,7 +2523,7 @@ Cấp cho .... (4) được sử dụng tạm thời... (5) vào mục đích ..
 Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024;
 Căn cứ Luật Đường bộ ngày 27 tháng 6 năm 2024;
 
-Căn cử Luật sửa đổi, bồ Sung một số điều của 10 Luật có liên quan đến an
+Căn cử Luật sửa đổi, bổ sung một số điều của 10 Luật có liên quan đến an
 nính, trật tự có hiệu lực thì hành thì ghỉ căn cứ vào Luật này (7);
 
 Căn cứ Nghị định số 165/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của

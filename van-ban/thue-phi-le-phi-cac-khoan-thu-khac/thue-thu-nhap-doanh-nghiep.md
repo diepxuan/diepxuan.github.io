@@ -1110,7 +1110,7 @@ p) Đối với hoạt động kinh doanh chứng khoán là các khoản thu t�
 
 q) Đối với dịch vụ tài chính phái sinh là số tiền thu từ việc cung ứng các dịch vụ tài chính phái sinh thực hiện trong kỳ tính thuế.
 
-(Điều này có nội dung liên quan đến Điều 6. Sửa đổi, bổ sung Thông tư số 78/2014/TT-BTC ngày 18/6/2014 của Bộ Tài chính hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp như sau: của Thông tư 119/2014/TT-BTC Sửa đổi, bổ sung một số điều Thông tư số 156/2013/TT-BTC ngày 06/11/2013, Thông tư số 111/2013/TT-BTC ngày 15/8/2013, Thông tư số 219/2013/TT-BTC ngày 31/12/2013, Thông tư số 08/2013/TT-BTC ngày 10/01/2013, Thông tư số 85/2011/TT-BTC ngày 17/6/2011,¬¬ Thông tư số 39/2014/TT-BTC ngày 31/3/2014 và Thông tư số 78/2014/TT-BTC ngày 18/6/2014 của Bộ Tài chính để cải cách, đơn giản các thủ tục hành chính về thuế ban hành ngày 25/08/2014; Điều 33.11.TT.4.5. Doanh thu)
+(Điều này có nội dung liên quan đến Điều 6. Sửa đổi, bổ sung Thông tư số 78/2014/TT-BTC ngày 18/6/2014 của Bộ Tài chính hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26/12/2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp như sau: của Thông tư 119/2014/TT-BTC Sửa đổi, bổ sung một số điều Thông tư số 156/2013/TT-BTC ngày 06/11/2013, Thông tư số 111/2013/TT-BTC ngày 15/8/2013, Thông tư số 219/2013/TT-BTC ngày 31/12/2013, Thông tư số 08/2013/TT-BTC ngày 10/01/2013, Thông tư số 85/2011/TT-BTC ngày 17/6/2011, Thông tư số 39/2014/TT-BTC ngày 31/3/2014 và Thông tư số 78/2014/TT-BTC ngày 18/6/2014 của Bộ Tài chính để cải cách, đơn giản các thủ tục hành chính về thuế ban hành ngày 25/08/2014; Điều 33.11.TT.4.5. Doanh thu)
 
 Điều 33.11.LQ.9. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế
 
@@ -3253,7 +3253,7 @@ b) Đối với các doanh nghiệp không thuộc đối tượng nêu tại đ
 
 (Điều này có nội dung liên quan đến Điều 19.5.NĐ.7.10. Nội dung chi của quỹ phát triển khoa học và công nghệ của doanh nghiệp)
 
-Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hăng năm
+Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hằng năm
 
 (Điều 4 Thông tư số 67/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 23/12/2022)
 
@@ -4667,7 +4667,7 @@ Chương III ƯU ĐÃI THUẾ THU NHẬP DOANH NGHIỆP
 
 ### 33011000000000003000017000000000000000000040249520218000180000802819000670000400
 
-Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hăng năm
+Điều 33.11.TT.9.4. Nghĩa vụ thuế khi doanh nghiệp sử dụng không đúng mục đích; không sử dụng hoặc sử dụng không hết 70% khoản trích Quỹ hằng năm
 
 ### 33011000000000003000017000000000000000000040249520218000180000802819000670000500
 

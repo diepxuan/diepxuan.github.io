@@ -100,7 +100,7 @@ b) Điều chỉnh giảm quy mô diện tích khu-công nghệ cao hiện hữu
 c) Diều chỉnh táng quy mô diện tích khu công nghệ cao hiện hữu dưới
 10% diện tích hoặc dưới 50 hạ;
 
-® Điều chỉnh cơ cầu sử dụng đất trong khu công nghệ cao hiện hữu;
+ Điều chỉnh cơ cầu sử dụng đất trong khu công nghệ cao hiện hữu;
 
 đ) Điều chỉnh cơ cấu nguồn vốn đầu tư xây dựng hạ tầng kỹ thuật khu
 công nghệ cao (cơ cấu giữa nguồn vôn ngân sách nhà nước và các nguồn vốn
@@ -344,7 +344,7 @@ Việc xây dựng, thâm định, công bố tiêu chuẩn ' quốc gia, quy ch
 thuật quốc gia đối với công nghệ chiến lược, sản phẩm công nghệ chiến lược
 được áp dụng trình tự, thủ tục rút gọn theo quy định của pháp Ì luật về tiêu chuẩn
 và quy chuẩn kỹ thuật;
-§
+
 
 c) Sản phẩm, hàng hóa, địch vụ hình thành từ kết quả thực hiện nhiệm vụ
 phát triển công nghệ chiến lược được hưởng ưu đãi theo ,auy định tại điểm ï
@@ -633,7 +633,7 @@ trùng lặp và đáp ú ứng mục tiêu, tiêu chí quy định tại điể
 Điều này. Việc thẩm định được thực biện thông qua Hội đồng tư vấn liên Bộ
 đo Bộ trưởng.Bộ Khoa học và Công nghệ thành lập, bao gồm đại diện bộ,
 
-©ơ quan ngang bộ, cơ quan có liên quan và chuyên gia trong nước hoặc nước
+ơ quan ngang bộ, cơ quan có liên quan và chuyên gia trong nước hoặc nước
 ngoài (nêu cân); l
 
 c) Căn cứ kết quả thâm định, bộ, ngành, địa phương phê duyệt nhiệm vụ
@@ -678,7 +678,7 @@ thuộc Chương trình quốc gia đặc biệt
 
 2) Dịnh kỳ hoặc đột xuất, Bộ Khoa học và Công nghệ thông báo kế hoạch
 tài trợ để tuyển chộn nhiệm vụ phát triển công nghệ chiến lược thuộc Chương
-trình quốc gia đặc biệt trên cổng thông tín điện tử hoặc trang thông tin điện tử
+trình quốc gia đặc biệt trên cổng thông tin điện tử hoặc trang thông tin điện tử
 của cơ quan quản lý nhiệm vụ và/hoặc các phương tiện thông tin đại chúng:
 
 - B) Nội dung” thông Báo: dự kiến phạm vi và đối tượng nhận tài trợ; dự kiến
@@ -772,7 +772,7 @@ có liên quan.
 thuộc Chương trình quốc gia đặc biệt
 
 a) Nguồn ngân sách nhà nước lĩnh vực khoa học, công nghệ, đổi mới sáng
-tạo và chuyên đổi số được phân cấp theo quy định của pháp luật về ngân sách
+tạo và chuyển đổi số được phân cấp theo quy định của pháp luật về ngân sách
 nhà nước, pháp luật về khoa học, công nghệ và đổi mới sáng tạo và pháp luật
 về công nghệ cao;
 b) Nguồn vốn của các tổ chức, doanh nghiệp, cá nhân và các nguồn kinh
@@ -1009,7 +1009,7 @@ nghiên cứu và phát triển công nghệ cao, Trung tâm nghiên cứu và p
 triển công nghệ chiến lược l
 
 1. Cơ quan có thẩm quyền theo quy định tại điểm a a, điểm b khoản 1 Điều
-§ của Nghị định này có thẩm quyền thu hồi, hủy bỏ hiệu lực văn bản công nhận
+ của Nghị định này có thẩm quyền thu hồi, hủy bỏ hiệu lực văn bản công nhận
 Trung tâm nghiên cứu và phát triển công nghệ cao, Trung tâm nghiên cứu và
 phát triển công nghệ chiến lược.
 
@@ -1141,7 +1141,7 @@ bản điện tử, có thời hạn 05 năm; là căn cứ pháp lý để hư�
 quy định của pháp luật; văn bản điện tử có giá trị pháp lý như bản giấy theo
 quy định của pháp luật về giao dịch điện tử;
 
-_- ® Bộ trưởng Bộ Khoa học và Công nghệ quy định mẫu văn bản đăng ký, .
+_- Bộ trưởng Bộ Khoa học và Công nghệ quy định mẫu văn bản đăng ký, .
 mâu thuyết minh đáp ứng các tiêu chí, mẫu văn bản xác nhận và mẫu biên bản
 kiêm tra nêu tại Điều này.
 
@@ -1162,7 +1162,7 @@ số liệu báo cáo; có nghĩa vụ lưu trữ hồ sơ và giải trình khi
 
 g) Kiểm tra sau khi cấp văn bản xác nhận:
 
-ø.1) Việc kiểm tra được thực hiện sau 12 tháng kể từ ngày doanh nghiệp
+.1) Việc kiểm tra được thực hiện sau 12 tháng kể từ ngày doanh nghiệp
 được câp văn bản xác nhận. Sau thời điểm này, \ việc kiểm tra được thực hiện
 định kỳ 02 năm một lần và đột xuất khi có yêu cầu về quản lý nhà nước;
 
@@ -1246,7 +1246,7 @@ phẩm công nghệ chiến lược, nghiên cứu và phát triển.
 ### Điều 13.
 Tiêu chí doanh nghiệp sản xuất sản phẩm công nghệ cao
 Doanh nghiệp sản xuất sản phẩm công nghệ cao là doanh nghiệp đáp ứng
-các tiêu chí quy định tại khoản I Điều 15 của Luật Công nghệ cao. Trong đó, tiêu
+các tiêu chí quy định tại khoản 1 Điều 15 của Luật Công nghệ cao. Trong đó, tiêu
 chí quy định tại điểm a khoản 1 Điều 15 của Luật Công nghệ cao được xác định
 như sau: ,
 
@@ -1300,7 +1300,7 @@ a) Đối với doanh nghiệp có tổng nguồn vốn từ 6.000 tỷ đồng 
 b) Đối với doanh nghiệp không thuộc trường hợp quy định tại điểm a
 khoản 3 Điều này, có tổng nguồn vốn từ 100 tỷ đồng phải đạt tối thiểu 2,5%;
 
-... © Đối với doanh nghiệp không thuộc trường hợp quy định tại điểm a và
+... Đối với doanh nghiệp không thuộc trường hợp quy định tại điểm a và
 điểm b khoản 3 Điều này phải đạt tối thiểu 5%.
 
 
@@ -1634,7 +1634,7 @@ Công nghệ cao, sơ bộ định hướng phát triển không gian, quy hoạ
 
 đ) Dự kiến tổng vốn đầu tư, các phương thức huy động các nguồn lực và
 phân định trách nhiệm đầu tư hệ thống kết cầu hạ tầng kỹ thuật của khu công
-nghệ cao; kế hoạch, lộ trình đầu tư xây dựng và phát triển khu công nghệ ©80;
+nghệ cao; kế hoạch, lộ trình đầu tư xây dựng và phát triển khu công nghệ 80;
 
 c) Kiến nghị các giải pháp và tổ chức thực hiện; Ị
 
@@ -1802,7 +1802,7 @@ theo quy định của pháp luật về đầu tư công, pháp luật về kho
 và đổi mới tạo tại khu công nghệ cao cho các trung tâm nghiên cứu, thử nghiệm
 và phòng thí nghiệm trọng điểm quốc gia,
 
-4. Ủy ban nhân dân cấp tỉnh xây dựng kế hoạch, dự toán chỉ thường xuyên
+4. Ủy ban nhân dân cấp tỉnh xây dựng kế hoạch, dự toán chi thường xuyên
 từ ngân sách nhà nước theo quy định của pháp luật về ngân sách và pháp luật
 khác có liên quan để đảm bảo hoạt động của Ban quản lý khu công nghệ cao;
 quản lý, duy tu, bảo dưỡng, vận hành hệ thống kết cầu hạ tầng kỹ thuật, hạ tầng
@@ -2149,7 +2149,7 @@ nghệ cao, công nghệ chiến lược được cung ứng phải thuộc Danh
 .. công nghệ cao được khuyến khích phát triển hoặc sản phẩm công nghệ chiến
 lược thuộc Danh mục công nghệ chiến lược đo Thủ tướng Chính phủ ban hành.
 
-5. Dự án đầu tư quy định tại khoản 2, 3, 4, 6 và § Điều này, Ban quản lý
+5. Dự án đầu tư quy định tại khoản 2, 3, 4, 6 và Điều này, Ban quản lý
 khu công nghệ cao liên kết với các cơ sở giáo dục tổ chức các chương trình đào
 tạo, bồi dưỡng, nâng cao kỹ năng nghề nghiệp về công nghệ cao, công nghệ
 chiến lược với điều kiện phải đáp ứng các tiêu chí sau đây:
@@ -2200,7 +2200,7 @@ g) Số lượng người lao động có trình độ từ cao đẳng trở l�
 ˆ gia hoạt động nghiên cứu và phát triển công nghệ cao của dự án đầu tư đáp ứng -
 yêu cầu sau: l
 
-ø.1) Đối với trường hợp dự án đầu tư thực hiện giải ngân tối thiểu 6.000
+.1) Đối với trường hợp dự án đầu tư thực hiện giải ngân tối thiểu 6.000
 tỷ đồng trong thời hạn 03 năm kể từ ngày được cấp Giấy chứng nhận đăng ký
 đầu tư hoặc chấp thuận chủ trương đầu tư, đạt ít nhất 2,5% tổng số người lao
 động của dự án đầu tư;

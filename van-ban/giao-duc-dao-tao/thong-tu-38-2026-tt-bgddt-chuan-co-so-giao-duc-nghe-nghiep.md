@@ -702,7 +702,7 @@ Trong đó:
 - CTun: là số chương trình đào tạo kết thúc trong năm báo cáo có sự tham gia
 người sử dụng lao động cho hoạt động hướng dẫn thực hành, thực tập, đánh giá kết
 quả học tập của người học hoặc nghiên cứu, ứng dụng khoa học, công nghệ và đổi mới
-sáng tạo, chuyên giao công nghệ, đây mạnh chuyên đổi số, chuyển đổi xanh trong giáo
+sáng tạo, chuyên giao công nghệ, đây mạnh chuyển đổi số, chuyển đổi xanh trong giáo
 dục nghề nghiệp và phát triển kỹ năng nghề.
 
 - CTu: là tổng số chương trình đào tạo kết thúc trong năm báo cáo.
