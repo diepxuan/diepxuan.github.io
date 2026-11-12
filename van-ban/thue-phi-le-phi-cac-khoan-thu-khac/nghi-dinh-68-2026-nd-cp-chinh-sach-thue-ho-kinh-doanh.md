@@ -1,8 +1,19 @@
 ---
-layout: page
-title: Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh
+layout: vanban
+title: "Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh"
+date: 2026-03-05
+modified: 2026-11-12
+group: thue-phi-le-phi
+tags:
+  - Nghị định
+  - thuế
+  - hộ kinh doanh
+  - quản lý thuế
+docid: 68/2026/NĐ-CP
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+so-hieu: 68/2026/NĐ-CP
+ngay-hieu-luc: 05/03/2026
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/nghi-dinh-68-2026-nd-cp-chinh-sach-thue-ho-kinh-doanh/
-lastedit: 2026-06-06
 ---
 
 # Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh
@@ -434,19 +445,3 @@ Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.
 *Đã ký*
 
 **Hồ Đức Phớc**
-
----
-
-## Ghi chú
-
-- **Phương pháp trích xuất:** Nội dung được crawl từ PDF có chữ ký số CAdES-BES trên `datafiles.chinhphu.vn` thông qua pipeline OCR (pdftoppm 200 DPI + tesseract-vie). Toàn văn đã được đối chiếu với metadata gốc từ `vanban.chinhphu.vn` (số hiệu 68/2026/NĐ-CP, ngày ban hành 05/03/2026).
-- **Văn bản liên quan:**
-  - [Nghị định 141/2026/NĐ-CP](../nghi-dinh-141-2026-nd-cp-sua-doi-thue-ho-kinh-doanh/) — sửa đổi, bổ sung một số điều của Nghị định này
-  - [Nghị định 144/2026/NĐ-CP](../nghi-dinh-144-2026-nd-cp-sua-doi-thue-gtgt/) — sửa đổi, bổ sung Luật Thuế GTGT
-  - Luật Tổ chức Chính phủ số 63/2025/QH15
-  - Luật Quản lý thuế số 108/2025/QH15
-  - Luật Thuế GTGT số 48/2024/QH15 (sửa đổi bởi Luật 149/2025/QH15)
-  - Luật Thuế TNCN số 109/2025/QH15
-  - Nghị quyết số 198/2025/QH15
-- **Lỗi OCR đã sửa:** Sửa các lỗi phổ biến do OCR gây ra (chữ "chỉ" → "chi", "thuê" → "thuế" trong nhiều trường hợp, các ký tự đặc biệt `đ)`, `)`, `)` đã chuẩn hóa về a), b), c), d), đ), e), g) theo đúng thứ tự trong văn bản gốc).
-- **Trạng thái:** Nội dung đầy đủ 19 điều, 5 chương.
