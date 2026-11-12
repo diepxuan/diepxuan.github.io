@@ -63,3 +63,8 @@ MEMORY.md
 /.p*-thumb.png
 /.ocr-*
 /.cache/
+
+# Scratch directories cua agent (khong phai noi dung website)
+/tmp/
+/workspace/
+/output/
