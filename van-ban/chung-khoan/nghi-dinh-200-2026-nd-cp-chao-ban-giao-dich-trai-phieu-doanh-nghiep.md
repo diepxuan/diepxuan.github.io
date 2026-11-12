@@ -1863,7 +1863,7 @@ theo quy chế tiếp nhận, giám sát công bố thông tin, báo cáo và v�
 chuyên trang thông tin về trái phiếu doanh nghiệp do Sở giao dịch chứng
 khoán Việt Nam ban hành;
 
-4§
+4
 e) Thông tin về các trường hợp doanh nghiệp phát hành không thanh
 toán đầy đủ lãi, gốc trái phiếu, sử dụng. vốn trái phiếu không đúng mục đích
 hoặc không thực hiện được các cam kết với nhà đầu tư và các trường hợp
@@ -2204,7 +2204,7 @@ các Vụ, Cục, đơn vị trực thuộc, Công báo;
 Š N
 ^ilễ Ư NG,
 Đ xu? |2 Phụ lục
-®\ S3/Z2ìK 2P thidb Nghị định số 200/2026/NĐ-CP
+\ S3/Z2ìK 2P thidb Nghị định số 200/2026/NĐ-CP
 p2 hat 9W tháng 6 năm 2026 của Chỉnh phủ)
 Ca x W
 STT Nội dung
@@ -2251,7 +2251,7 @@ Kính gửi: Ủy ban Chứng khoán Nhà nước.
 - Giấy chứng nhận đăng ký doanh nghiệp (hoặc Giấy rờ pháp lý có giá trị
 tương ẩương): Mã sồ ....., do ..... cấp lần đâu ngày......... , cấp thay đôi lần thứ ...
 ngày......... (nêu thông tin thay đôi lân gân nhát)
-- Ngành nghề kinh doanh chính:............................................. "¬ . .
+- Ngành nghề kinh doanh chính:............................................. "
 - Mã ngành: .............................. HH HH HH TH HH TT ke
 4. Nơi mở tài khoản thanh toán: ............................... -. HH ghe ey
 - Sản phâm/dịch vụ chính: ............................-ccc ccc 2t 2 2t crerrrere
@@ -2319,8 +2319,8 @@ bằng bảo lãnh):
 + Giá trị bảo lãnh: ............................ se chon. 12112 1111 1111EEEEEeEeErerrteerrree
 - Bảo đảm bằng tài sản (/ưường hợp bảo đảm thanh toán bằng tài sản):
 + Tài sản bảo đảm: ...................................... HH. HH TH HE HH H1 HH nang neo
-- Đại diện người sở hữu trái phiếu:...............................--ss-©c+ec2EES2E2122111eEExEcrrrree
-16. Thứ tự ưu tiên thanh toán trái phiếu: ................................- ¿©7c2S2xe2ExetErserrecsrrs
+- Đại diện người sở hữu trái phiếu:...............................--ss-c+ec2EES2E2122111eEExEcrrrree
+16. Thứ tự ưu tiên thanh toán trái phiếu: ................................- ¿
 17. Thông tin về trái phiếu đã phát hành hiện đang lưu hành của doanh nghiệp
 phát hành
 - Tổng giá trị trái phiếu hiện đang lưu hành của doanh nghiệp phát
@@ -2331,7 +2331,7 @@ hành: ...........................c.ccecsccscc. đồng, trong đó:
 đăng ký chào bán: ............ đông, trong đó:
 + Tổng giá trị trái phiếu chào bán ra công chúng: ................................. đồng.
 + Tổng giá trị trái phiếu chào bán riêng lẻ: ..........................---c--.nerrerseeee đồng.
-18. Thời gian dự kiến chào bán: ..............................-..©2S222222Et 221 122111281n11ne
+18. Thời gian dự kiến chào bán:
 19. Phương thức phát hành: ............................. St. TH TS E121 tre.
 
 ị
@@ -2427,7 +2427,7 @@ nộp hồ sơ thực hiện kê khai thông tin Mẫu biểu này trên webform
 xác thực hồ sơ đăng ký chào bán trái phiếu qua mạng thông tin điện tử. Người nộp hồ sơ chịu trách
 nhiệm vẻ tính chính xác của các thông tin kê khai trên webform và file tài liệu đính kèm trong hồ sơ,
 
-§ | |
+ | |
 4. Số lượng trái phiếu dự kiến chào bán:............................ non trái phiếu!
 5. Tổng giá trị trái phiếu dự kiến chào bán (/ieo mệnh giá): ......................... |
 6. Tỷ lệ tổng giá trị trái phiếu đự kiến chào bán tính theo mệnh giá trên tổng
@@ -2665,7 +2665,7 @@ TÊN DOANH NGHIỆP PHÁT HÀNH
 (Người đại diện theo pháp luật)
 (Ký, ghi rõ họ tên và đóng dấu)
 
-ˆ & k4 z ˆ - ¬ À Fà ^ lệ + y* s“K
+ˆ & k4 z ˆ - À Fà ^ lệ + y* s“K
 Mẫu số 05. Bản xác nhận của nhà đầu tư cá nhân trước khi mua trái phiền
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 - Tên doanh nghiệp phát hành trái phiếu/Tên tổ chức cung cấp dịch vụ đấu
@@ -2860,7 +2860,7 @@ cho nhà đầu tư chứng khoán chuyên nghiệp là cá nhân (nếu có);
 4. Văn bản chấp thuận của cơ quan quản lý nhà nước có thẩm quyền về phát
 hành trái phiếu theo quy định của pháp luật chuyên ngành (né, có); LÌ
 5. Tài liệu khác (»ếu có).
-"¬ , Hgày.... tháng.... năm .
+" , Hgày.... tháng.... năm .
 TÊN DOANH NGHIỆP PHÁT HÀNH ị
 (Người đai diện theo pháp luật)
 (Ký, ghỉ rõ họ tên và đóng dấu)
@@ -2877,12 +2877,12 @@ I. THÔNG TIN VỀ DOANH NGHIỆP PHÁT HÀNH
 1. Tên doanh nghiệp phát hành (đẩy đi): .............................5655Sc vecsrrrrrrerree
 2. Địa chỉ trụ sở chính: ..............................-..--Q  c SH HH HH HH TH TH HH cay
 3. Điện thoại: ..................................... FAX: ...................c... Website:..................
-4. Vốn điều lệ:..............................-©..cc nHnEHnHH E10 1 re đồng.
+4. Vốn điều lệ:
 5. Mã cô phiếu (yếu €ó):....................cccc 2 22211 02212212 eereee
 6. Giấy chứng nhận đăng ký doanh nghiệp (hoặc Giáy tờ pháp lý có giá trị
-tương đương): Mã sô ....., do = cấp lần đầu ngày ¬ , cấp thay đổi lần thứ...
+tương đương): Mã sô ....., do = cấp lần đầu ngày , cấp thay đổi lần thứ...
 ngày......... (nêu thông tin ;hay đổi lần gần nhát)
-- Ngành nghề kinh doanh chính: ............ ¬.....- Mã ngành: ......................
+- Ngành nghề kinh doanh chính: ............ .....- Mã ngành: ......................
 - Sản phẩm/dịch vụ chính: ...............................--222222- 2 E211...
 7. Giấy phép thành lập và hoạt động (nếu có theo quy định của pháp luật
 ChuyÊH ngàn) - .......... SH HH HH HH HH HH Hiện
@@ -2940,7 +2940,7 @@ tín nhiệm).
 24. Cam kết về bảo đảm (rong trường hợp phát hành trái phiếu có bảo đảm)
 - Hình thức bảo đảm:
 Thông tin chỉ
-:acva | Giá trị †] tiết về hình
+:acva | Giá trị ] tiết về hình
 Liệt kê |... . ` 2 TA 2x“, ba bảo đã
 cày :,;á, | tài sản | Tỷ lệ giá thức bảo đảm
 Loại tài | chỉ tiết 3 .Ă.- sư + w
@@ -2949,10 +2949,10 @@ sản bảo tài sản + mm. wwr.
 2 - đảm | bảo đảm L fên fó chức
 đảm đảm x am: 1.
 mĂ. R hoặc | hoặc Giá định giá, cách
-(nêu rõ bảo/ ¬x ` k âm
+(nêu rõ bảo/ x ` k âm
 , Giá trị | trị được linh, thông tín
 chứng | HP Í qược | bảo lãnh | đăng ký biệ
-Hình thức | k»oáz/Bát | đồng ¬ Sổ QUYn
+Hình thức | k»oáz/Bát | đồng
 SIT To 3 2 , + bảo thanh pháp bảo đảm,
 bảo đảm động sản/ bảo - Š „
 ~ lãnh | toán theo | (hứ tự thanh
@@ -3127,7 +3127,7 @@ I. GIỚI THIỆU VỀ DOANH NGHIỆP PHÁT HÀNH
 i84 ......13..
 7. Giấy chứng nhận đăng ký doanh nghiệp (hoặc Giấy tờ pháp lý có giá trị
 tương ñương): Mã số ...., do ......... cập lân đâu ngày ........... , cập thay đối lần thứ
-¬—. ngày ....... (nêu thông tin thay đổi lần gân nháp
+—. ngày ....... (nêu thông tin thay đổi lần gân nháp
 - Ngành nghề kinh doanh chính: .................................-.---5- 52 5cccetkctrrrrretrreree
 - Sản phẩm/dịch vụ chính: ............................... "----Ò
 8. Giấy phép thành lập và hoạt động (nếu có theo quy định của pháp luật
@@ -3140,7 +3140,7 @@ lu)... Nÿ...":.'...."A.'"'.........
 5. Tổng giá trị trái phiếu dự kiến chào bán (heo mệnh giá): .........................
 6. Giá bán dự kiến: ....................................---ccccccvccrvterttrerkrrrrrerrrvee /trái phiếu.
 
-¬
+
 7. Kỳ hạn trái phiếu: ................................cccc2ctrcritrếtrrreereriree L..
 88.8 118... . .................ố.
 Lãi suất danh nghĩa của trái phiếu: ........................--..--ccc5ccccccvsrecsrrtrsrreesrrreerl
@@ -3159,7 +3159,7 @@ on ............................ố
 Vị ao .......................
 - Loại hình trái phiếu: ...............................-----:--52+vccererrrriittrtierrrrrrrriirrrirrirn
 - Hình thức trái phiếu:.....................................---.---cc-ccccccsreerkierrrrrrrrrrrrririd
-- Lãi suất danh nghĩa và kỳ bạn trả lãi:..............................................-.cecce-l §
+- Lãi suất danh nghĩa và kỳ bạn trả lãi:..............................................-.cecce-l
 - Lãi suất phát hành thực tế:  .
 9. Thị trường phát hành: 1+..........
 10. Mục đích phát hành trái phiếu (nêu cụ thể mục đích phát hành và kế
@@ -3211,7 +3211,7 @@ toc
 
 tự thanh toán của nhà đẫu tư nắm giữ trái phiếu khi xử lý tài sản bảo đảm. để
 thanh toán nỢ...); |
-15. Mua lại trái phiếu trước hạn, hoán đổi trái phiếu: ¬
+15. Mua lại trái phiếu trước hạn, hoán đổi trái phiếu:
 IV. CÁC TÓ CHỨC LIÊN QUAN TỚI ĐỢT CHÀO BÁN
 Nêu rõ tên, mã số thuế, giấy chứng nhận đăng ký doanh nghiệp, địa chỉ trụ
 sở chính, số điện thoại, số fax giao dịch, địa chỉ thư điện tử của các tổ chức liên
@@ -3222,7 +3222,7 @@ doanh nghiệp mở tài khoản đề nhận tiền mua trái phiếu của nh�
 quản lý tài sản bảo đảm (nếu có), tổ chức xếp hạng tín nhiệm (nếu có) ...
 (Tên doanh nghiệp phát hành trái phiếu) cam kết chịu hoàn toàn trách nhiệm
 trước pháp luật về nội dung, tính chính xác, đầy đủ của thông tin công bố nêu trên.
-¬—- , ngày.... thẳng.... năm . Ị
+—- , ngày.... thẳng.... năm . Ị
 TÊN DOANH NGHIỆP PHÁT HÀNH
 (Người đại diện theo pháp luật) ị
 (Ký, ghi rõ họ tên và đóng dấu)

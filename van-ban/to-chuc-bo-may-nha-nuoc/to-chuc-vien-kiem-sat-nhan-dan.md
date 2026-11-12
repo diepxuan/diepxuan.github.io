@@ -949,7 +949,7 @@ DanhmucchitieuthongkeHSliennganh.doc
 
 (Điều 6 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
- Thống kê hình sự liên ngành được thực hiện định kỳ theo tháng; số liệu được thống kê từ ngày 01 đến hết ngày cuối cùng của tháng.Điều 35.10.TL.4.7. Kinh phí hoạt động thống kê hình sự liên ngành
+ Thống kê hình sự liên ngành được thực hiện định kỳ theo tháng; số liệu được thống kể từ ngày 01 đến hết ngày cuối cùng của tháng.Điều 35.10.TL.4.7. Kinh phí hoạt động thống kê hình sự liên ngành
 
 (Điều 7 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 

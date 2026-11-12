@@ -6474,7 +6474,7 @@ d) Đối với tội phạm đặc biệt nghiêm trọng thì Viện kiểm s�
 
 2. Trường hợp vụ án có nhiều tình tiết phức tạp, xét cần phải có thời gian dài hơn cho việc điều tra và không có căn cứ để thay đổi hoặc hủy bỏ biện pháp tạm giam thì chậm nhất là 10 ngày trước khi hết thời hạn tạm giam, Cơ quan điều tra phải có văn bản đề nghị Viện kiểm sát gia hạn tạm giam.
 
-Việc gia hạn tạm giam được quy định nh¬ư sau:
+Việc gia hạn tạm giam được quy định như sau:
 
 a) Đối với tội phạm ít nghiêm trọng có thể được gia hạn tạm giam một lần không quá 01 tháng;
 
@@ -8914,7 +8914,7 @@ Việc chuyển hồ sơ vụ án kèm theo kết luận điều tra bổ sung c
 
  k) Chứng cứ để chứng minh “nguyên nhân và điều kiện phạm tội” là chứng cứ xác định nguyên nhân chủ quan, khách quan, điều kiện cụ thể dẫn đến việc chủ thể thực hiện hành vi phạm tội;
 
- l) Chứng cứ để chứng minh “những tình tiết khác liên quan đến việc loại trừ trách nhiệm hình sự, miễn trách nhiệm hình sự, miễn hình phạt” là chứng cứ chứng minh những vấn đề được quy định tại các ®iều 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 59, 88 và các điều luật khác của Bộ luật Hình sự;
+ l) Chứng cứ để chứng minh “những tình tiết khác liên quan đến việc loại trừ trách nhiệm hình sự, miễn trách nhiệm hình sự, miễn hình phạt” là chứng cứ chứng minh những vấn đề được quy định tại các iều 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 59, 88 và các điều luật khác của Bộ luật Hình sự;
 
  m) Chứng cứ khác để chứng minh một hoặc nhiều vấn đề quy định tại Điều 85 của Bộ luật Tố tụng hình sự mà thiếu chứng cứ đó thì không có đủ căn cứ để giải quyết vụ án, như: chứng cứ để xác định tuổi của người bị buộc tội, người bị hại là người dưới 18 tuổi; chứng cứ để chứng minh vị trí, vai trò của từng bị can, bị cáo trong trường hợp đồng phạm hoặc phạm tội có tổ chức; chứng cứ để xác định trách nhiệm dân sự của bị can, bị cáo và những vấn đề khác có ý nghĩa trong việc giải quyết vụ án theo quy định của pháp luật;
 

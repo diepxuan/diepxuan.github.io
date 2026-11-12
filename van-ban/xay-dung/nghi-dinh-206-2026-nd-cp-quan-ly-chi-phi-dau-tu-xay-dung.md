@@ -19,7 +19,7 @@ docid: ""
 source: "https://baochinhphu.vn/quy-dinh-moi-ve-quan-ly-chi-phi-dau-tu-xay-dung-102260615172906556.htm"
 trich_yeu: "Quy định chi tiết về quản lý chi phí đầu tư xây dựng theo Điều 74, khoản 7 Điều 76 Luật Xây dựng số 135/2025/QH15: sơ bộ tổng mức, tổng mức đầu tư xây dựng, dự toán xây dựng, giá gói thầu xây dựng, chi phí quản lý dự án, chi phí tư vấn xây dựng, chi phí khác, hệ thống công cụ định mức, giá và chỉ số giá xây dựng; quyền và trách nhiệm của các chủ thể; quản lý nhà nước về chi phí đầu tư xây dựng. Thay thế Nghị định 10/2021/NĐ-CP."
 thay_the: "Nghị định 10/2021/NĐ-CP ngày 09/02/2021"
-phuong_phap_so_hoa: "OCR từ PDF ký số CAdES-BES (VGCASignService 1.0.11 ©2014 VGCA) 33 trang A4 - pipeline: pdftoppm -r 150 -png + tesseract -l vie + sửa lỗi thủ công (chi phí, thẩm quyền, đầu tư, QH15, số La Mã Chương). Cross-check với bản text trên luatvietnam.vn (dau-tu/.../437591-d1.html). Nội dung bám sát bản PDF gốc."
+phuong_phap_so_hoa: "OCR từ PDF ký số CAdES-BES (VGCASignService 1.0.11 2014 VGCA) 33 trang A4 - pipeline: pdftoppm -r 150 -png + tesseract -l vie + sửa lỗi thủ công (chi phí, thẩm quyền, đầu tư, QH15, số La Mã Chương). Cross-check với bản text trên luatvietnam.vn (dau-tu/.../437591-d1.html). Nội dung bám sát bản PDF gốc."
 nguon_pdf: "https://drive.google.com/uc?export=download&id=1GD8a_WZWVboaT4uVzdDPyqB23AtYMXbB"
 date: 2026-06-15
 modified: 2026-06-16

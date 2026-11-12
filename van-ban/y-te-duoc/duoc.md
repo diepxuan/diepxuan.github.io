@@ -7628,7 +7628,7 @@ b) Cơ sở quy định tại điểm c khoản 1 Điều 35 của Luật dượ
 
  3. Trong thời hạn 03 tháng kể từ ngày nhận đủ tài liệu bổ sung, Cục Quản lý Dược ban hành quyết định cấp giấy đăng ký lưu hành đối với hồ sơ đạt yêu cầu; Cục Quản lý Dược có văn bản trả lời theo kết luận của Hội đồng đối với hồ sơ thẩm định chưa đạt, không đạt và nêu rõ lý do. Thời gian giải quyết các bước được quy định, cụ thể như sau:
 
- a) Trong thời hạn 10 ngày làm việc kê từ ngày tiếp nhận hồ sơ, Cục Quản lý Dược tiến hành rà soát, phân loại và gửi hồ sơ cho các chuyên gia thẩm định hoặc các đơn vị thẩm định. Trong thời hạn 16 ngày làm việc kể từ ngày nhận được hồ sơ từ Cục Quản lý Dược, các chuyên gia thẩm định hoặc các đơn vị thẩm định phải hoàn thành biên bản thẩm định và gửi Cục Quản lý Dược tổng hợp, đề xuất ý kiến trên biên bản thẩm định theo quy định tại khoản 4 Điều 35 Thông tư này;
+ a) Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cục Quản lý Dược tiến hành rà soát, phân loại và gửi hồ sơ cho các chuyên gia thẩm định hoặc các đơn vị thẩm định. Trong thời hạn 16 ngày làm việc kể từ ngày nhận được hồ sơ từ Cục Quản lý Dược, các chuyên gia thẩm định hoặc các đơn vị thẩm định phải hoàn thành biên bản thẩm định và gửi Cục Quản lý Dược tổng hợp, đề xuất ý kiến trên biên bản thẩm định theo quy định tại khoản 4 Điều 35 Thông tư này;
 
  b) Trong thời hạn 08 ngày làm việc kể từ ngày nhận được biên bản thẩm định, Cục Quản lý Dược có văn bản trả lời đối với hồ sơ thẩm định chưa đạt và nêu rõ lý do. Đối với hồ sơ được Cục Quản lý Dược đề xuất cấp, không cấp hoặc đề xuất cần xin ý kiến xem xét, tư vấn của Hội đồng, Cục Quản lý Dược chuyển Văn phòng Hội đồng để họp tổ chức họp Hội đồng;
 
@@ -12542,7 +12542,7 @@ i) Điều kiện bảo quản và thông tin cần thiết khác theo quy đị
 
  c) Bổ sung hoặc sửa đổi số điện thoại, mã vùng điện thoại, địa chỉ trang thông tin điện tử, địa chỉ hòm thư điện tử của các cơ sở liên quan đến thuốc; cơ sở sở hữu nhãn hiệu hàng hóa;
 
- d) Bổ sung hoặc sửa đổi ký hiệu ® sau tên thuốc, sau tên hoặc logo công ty; thay đổi logo công ty có liên quan đến thuốc;
+ d) Bổ sung hoặc sửa đổi ký hiệu sau tên thuốc, sau tên hoặc logo công ty; thay đổi logo công ty có liên quan đến thuốc;
 
  đ) Thay đổi vị trí ghi số giấy đăng ký lưu hành hoặc số giấy phép nhập khẩu, vị trí dán nhãn phụ, vị trí ghi thông tin số lô sản xuất, hạn dùng, ngày sản xuất trên nhãn;
 

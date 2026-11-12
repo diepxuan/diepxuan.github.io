@@ -265,7 +265,7 @@ Phụ lục II liệt kê các mặt hàng theo mã HS đã qua chế biến, th
 - OCR thực hiện bằng `pdftoppm -r 200` + `tesseract -l vie` theo Signed PDF OCR Pipeline (HEARTBEAT.md mục 3)
 - OCR output: `/tmp/144-ndcp-ocr-fresh.txt` (1297 dòng, md5 = e6289d3cda061c176e1b49a9fc38e077)
 - Phiên OCR đã được verify: không phát hiện lỗi "30" → "3o" (lỗi đã được lưu ý trong review trước)
-- Đã sửa các lỗi OCR phổ biến: "Sửa đôi" → "Sửa đổi", "bô sung" → "bổ sung", "điểm ø" → "điểm g", "Phụ lục ï" → "Phụ lục I", "Phụ lục ID" → "Phụ lục II", "1Š mư" → "1 mm", "0,25 mưn" → "0,25 mm", "giả trị" → "giá trị", "I6anh thụ" → "Doanh thu"
+- Đã sửa các lỗi OCR phổ biến: "Sửa đôi" → "Sửa đổi", "bô sung" → "bổ sung", "điểm " → "điểm g", "Phụ lục ï" → "Phụ lục I", "Phụ lục ID" → "Phụ lục II", "1Š mư" → "1 mm", "0,25 mưn" → "0,25 mm", "giả trị" → "giá trị", "I6anh thụ" → "Doanh thu"
 - Bảng Phụ lục I và II chỉ trích các mã HS tiêu biểu; danh sách đầy đủ có trong PDF gốc
 - Trạng thái văn bản: **Sắp có hiệu lực** (Ngày hiệu lực 20/06/2026 > ngày crawl 07/06/2026)
 

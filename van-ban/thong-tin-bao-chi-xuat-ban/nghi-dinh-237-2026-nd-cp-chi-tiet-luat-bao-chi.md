@@ -320,7 +320,7 @@ HOẠT ĐỘNG BẢO CHÍ TRÊN KHÔNG GIAN MẠNG `
 ### Điều 8. Tổ chức hệ thống nền tảng số báo chí quốc gia
 1. Nền tảng số báo chí quốc gia được tổ chức theo mô hình hệ thống gềm
 các nền tảng thành phần do các cơ quan báo chí chủ lực đa phương tiện triển
-khai, phát triển và vận hành theo quy dịnh của pháp luật, bao gôm: |
+khai, phát triển và vận hành theo quy dịnh của pháp luật, bao gồm: |
 4) Đài Truyền hình Việt Nam phát triển nền táng chuyên sâu về truyện
 hình SỐ;
 b) Đài Tiếng nói Việt Nam phát triển nền tảng chuyên sâu về phát thanh số;
@@ -387,7 +387,7 @@ phí và lệ phí, chuyển đổi số và các quy định pháp luật có l
 thông tin báo chí đã được cơ quan báo chí đăng, phát; không sử dụng các biện
 pháp kỹ thuật, đữ liệu boặc việc tổ chức, sắp XẾp, hiển thị thông tin để can thiệp
 trái với quy định của pháp luật về báo chí vào nội dung thông tin báo chí. ị
-2. Việc tổ chức, sắp xếp, hiển thị và hỗ trợ tiếp cận thông tín báo chí trên
+2. Việc tổ chức, sắp xếp, hiển thị và hỗ trợ tiếp cận thông tin báo chí trên
 nền (ân g phải được thực hiện trên cơ sở các tiêu chí xác định; bảo đảm có thể
 kiểm tra, theo dãi và \ giải trình theo quy định tại Nghị định này.
 3. Việc thư thập, xử lý và sử + dụng dữ liệu liên quan dấn hoạt động báo chí
@@ -420,7 +420,7 @@ quản lý nhà nước theo dõi, thu thập số liệu, phân tích, đánh g
 động báo chí trên không gian mạng theo thời gian thực, không can thiệp vào
 nội dung thông tia báo chí.
 2. Công cụ số giám sát hoạt động báo chí kết nối TT thuật, tích hợp v với hệ
-l thống lưu chiều điện tử theo quy định tại Điều: 17 Nghị định này.
+l thống lưu chiều điện tử theo quy định tại Điều 17 Nghị định này.
 3. Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm xây dựng, vận hành
 hoặc thuê công cụ sô đề thực hiện giám sát hoạt động báo chí trên không
 gian mạng.
@@ -530,7 +530,7 @@ c) Cơ quan thực hiện lưu chiều điện tử xây dựng giải pháp b�
 lượng kỹ thuật, giải pháp an toàn thông tin cho hệ thống lưu chiêu diện tử.
 .. 6. Sử dụng tác phẩm báo chí được lưu chiêu điện tử
 a) Tác phẩm báo chí lưu chiều điện tử được sử dụng ‹ để phục vụ công tác
-quản lý nhà nước về báo chí, gồm: Đánh giá, nhận xét về nội dung thông tín
+quản lý nhà nước về báo chí, gồm: Đánh giá, nhận xét về nội dung thông tin
 theo chuyên đề, sự kiện, cho các cuộc kiểm tra chuyên ngành thường xuyên và
 đột xuất theo yêu cầu của cơ quan quản lý nhà nước về báo chí;
 b) Cơ quan thực hiện lưu chiểu điện tử được sử dụng tác phẩm báo chí lưu
@@ -585,7 +585,7 @@ _ Điểu 19. Cải chính trên báo chí
 giả tác phẩm thực hiện theo quy định sau đây:
 3) Đăng, phát tại trang hai đối với báo in, trang cuối đối với tạp chí In,
 chuyên mục riêng tại trang chủ đối với báo chí điện tử, với cùng một kiểu chữ,
-cỡ chữ mà báo chí đã đăng, phát thông tín;
+cỡ chữ mà báo chí đã đăng, phát thông tin;
 Đối với báo chí điện tử, ngoài việc đăng, phát lời cải chính, xin lỗi còn
 phải gỡ bỏ ngay thông tin sai sự thật đã đăng, phát nhưng phải lưu giữ nội dung
 thông tin trên máy chủ để phục vụ công tác thanb tra, kiểm tra theo quy định;
@@ -640,9 +640,9 @@ b) Cơ quan báo chí điện tử thực hiện gỡ bỏ thông tin theo quy �
 điểm a khoản 1 Điêu 19 Nghị định này;
 ) Cơ quan báo chí điện tử, kênh nội dung của cơ quan báo chí trên không
 gian mạng, nên tảng số báo chí quốc gia thực hiện gỡ bỏ thông tin theo quyết
-định xử phạt vi phạm hành chính của cơ quan có thấm quyền.
+định xử phạt vi phạm hành chính của cơ quan có thẩm quyền.
 2. Cơ quan báo chí phải Sử đụng các biện pháp kỹ thuật để ngăn chặn việ
-phát tán thông tin đã bị yêu cầu gỡ bỏ quy định tại các điểm a, b và e khoản I
+phát tán thông tin đã bị yêu cầu gỡ bỏ quy định tại các điểm a, b và e khoản 1
 ### Điều 19. Nội dung thu hồi sản phẩm báo chí.
 3. Khi có quyết định thu hôi của Bộ Văn hóa, Thể thao và Du lịch đối với
 ấn phẩm, phụ trương, cơ quan báo chí, các tổ chức, cá nhân tham gia phát hành
@@ -752,7 +752,7 @@ của sự kiện, nhân vật; việc thông báo và gắn nhấn được th�
 của pháp 1uật về trí tuệ nhân tạo.
 __#. Cơ quan báo chí không được sử dụng hệ thống trí tuệ nhân tạo để tạo ra
 hoặc lan truyền nội dùng giả mạo, sai sự thật, xuyên tạc, hoặc nội dung có khả
-năng gây tôn hại đến an ninh quôc gia, trật tự, an toàn xã hội, danh dự, nhân
+năng gây tôn hại đến an ninh quốc gia, trật tự, an toàn xã hội, danh dự, nhân
 phẩm, quyên và lợi ích hợp pháp của tô chức, cá nhân.
 5. Cơ quan báo chí phải thiết lập và duy trì quy trình thẩm định, biên tập,
 “kiểm soát rủi ro và trách nhiệm cá nhân đối với việc sử dụng-hệ thống trí tuệ
@@ -949,7 +949,7 @@ giây phép có hiệu lực. Hồ sơ, thủ tục đề nghị cấp lại gi�
 theo quy định tại khoản 4, khoản 5 ### Điều 19. Nội dung thu hồi sản phẩm báo chí.
 ChươngVIH -
 
-ĐIỀU KHOẢN THỊ HÀNH
+ĐIỀU KHOẢN THI HÀNH
 ### Điều 27. Hiệu lực thi hành
 1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
 2. Nội dung quy định tại ### Điều 17 của Nghị định có hiệu lực kế từ : ngày 0l

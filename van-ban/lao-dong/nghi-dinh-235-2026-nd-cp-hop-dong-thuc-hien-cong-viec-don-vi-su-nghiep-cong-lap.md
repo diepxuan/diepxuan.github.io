@@ -107,7 +107,7 @@ bảo đảm tổng số người làm việc cao hơn hoặc bằng số ngư�
 theo quy định của pháp luật chuyên ngành (nếu có).
 
 Đơn vị sự nghiệp công lập tự bảo đảm một phan chi thường xuyên và đơn
-vị sự nghiệp công lập do Nhà nước bảo đảm chỉ thường xuyên có trách nhiệm
+vị sự nghiệp công lập do Nhà nước bảo đảm chi thường xuyên có trách nhiệm
 rà soát để thực hiện tuyển dụng viên chức đối với số biên chế viên chức được
 giao; không dùng hình thức ký kết hợp đồng quy định tại Nghị định này dé thay
 thế cho việc tuyển dụng viên chức.
@@ -201,13 +201,13 @@ Cấp có thẩm quyền ký kết hợp đồng căn cứ vào nhu cầu để 
 a) Đơn vị nhóm 1 và đơn vị nhóm 2 được quyền quyết định số lượng hợp
 đồng ký kết theo nhu cầu về nguồn nhân lực của đơn vị;
 
-b) Đơn vị sự nghiệp công lập tự bảo đảm từ 70% chỉ thường xuyên trở lên
+b) Đơn vị sự nghiệp công lập tự bảo đảm từ 70% chi thường xuyên trở lên
 (sau đây gọi là đơn vị nhóm 3 tự chủ 70% trở lên) được quyền quyết định số
 lượng hợp đồng ký kết đê đáp ứng nhu cau về nguồn nhân lực, bảo đảm không
 làm tăng tông chi thường xuyên từ nguồn ngân sách nhà nước theo quy định;
 
 c) Cơ quan quản lý viên chức quyết định số lượng hợp đồng ký kết trong đơn
-vị sự nghiệp công lập tự bảo đảm một phân chỉ thường xuyên dưới 70% (sau đây
+vị sự nghiệp công lập tự bảo đảm một phân chi thường xuyên dưới 70% (sau đây
 
 4 :
 gọi là đơn vị nhóm 3 tự chủ dưới 70%) để bổ sung nhân lực còn thiếu so với định
@@ -217,7 +217,7 @@ xem xét, quyết định;
 
 d) Đơn vị sự nghiệp công lập tự bảo đảm một phan chi thường xuyên (bao
 gồm đơn vị nhóm 3 tự chủ 70% trở lên và đơn vị nhóm 3 tự chủ dưới 70%), đơn
-vị sự nghiệp công lập do Nhà nước bảo đảm chỉ thường xuyên (sau đây gọi là
+vị sự nghiệp công lập do Nhà nước bảo đảm chi thường xuyên (sau đây gọi là
 đơn vị nhóm 4) được ký kết hợp đồng lao động có thời hạn dưới 12 tháng để
 bổ sung nhân lực còn thiểu so với SỐ biên chế viên chức được cấp có thẩm
 quyên giao để kịp thời thay cho số nghỉ thai sản, thôi việc, nghỉ hưu hoặc
@@ -523,11 +523,11 @@ tự chủ của đơn vị sự nghiệp công lập.
 vị nhóm 3 tự chủ dưới 70%): Kinh phí thực hiện hợp đồng sử dụng từ nguồn
 thu hoạt động sự nghiệp, nguồn ngân sách nhà nước cấp hỗ trợ thực hiện cơ chế
 tự chủ tài chính (nếu có), bảo đảm không làm tăng tổng kinh phí chi thường
-xuyên và kinh phí hỗ trợ chỉ thường xuyên từ nguồn ngân sách nhà nước theo
+xuyên và kinh phí hỗ trợ chi thường xuyên từ nguồn ngân sách nhà nước theo
 quy định.
 
 3. Đơn vị nhóm 4, trừ đơn vị nhóm 4 thuộc lĩnh vực giáo dục và y tế:
-Kinh phí thực hiện hợp đồng sử dụng từ nguồn kinh phí chỉ thường xuyên
+Kinh phí thực hiện hợp đồng sử dụng từ nguồn kinh phí chi thường xuyên
 theo quy định của pháp luật về cơ chế tự chủ tài chính của đơn vi sự nghiệp
 công lập.
 

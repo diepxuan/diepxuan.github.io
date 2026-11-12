@@ -105,7 +105,7 @@ vụ nộp tạm ứng 3 triệu đồng tại cơ quan thi hành án dân sự 
 cơ quan có thẩm quyền yêu cầu tương trợ tư pháp về dân sự của Việt Nam có
 trụ sở. Cơ quan thi hành án dân sự sử dụng số tiền tạm ứng này để thanh toán
 chi phí thực tế thực hiện yêu cầu tương trợ tư pháp về dân sự của Việt Nam
-theo yêu cầu của cơ quan có thâm quyền của nước ngoài và các chi phí liên
+theo yêu cầu của cơ quan có thẩm quyền của nước ngoài và các chi phí liên
 quan đến việc chuyển tiền ra nước ngoài.
 
 4. Bộ trưởng Bộ Tư pháp quy định chi tiết về việc thu, nộp chi phí thực tế
@@ -383,7 +383,7 @@ Nam và nước ngoài cùng là thành viên có quy định khác hoặc cơ q
 quyền của nước ngoài có để nghị khác.
 
 4. Trường hợp việc thực hiện yêu cầu tương trợ tư pháp về dân sự của
-nước ngoài làm phát sinh chi phí thực tế, cơ quan có thâm quyền của Việt Nam
+nước ngoài làm phát sinh chi phí thực tế, cơ quan có thẩm quyền của Việt Nam
 chỉ thực hiện sau khi đã thu đủ chi phí thực tê.
 Điều 14.
 
@@ -434,7 +434,7 @@ hợp lệ theo pháp luật Việt Nam hoặc pháp luật nước ngoài.
 
 3. Trong thời hạn 30 ngày kể từ ngày nhận được hề sơ :' yêu cầu, Bộ Tư
 pháp chủ trì, lấy ý kiến bằng văn bản của Tòa án nhân dân tối cao, Bộ Ngoại
-giao và Bộ Công an để xem xét quyết định cho cơ quan, người có thâm quyền
+giao và Bộ Công an để xem xét quyết định cho cơ quan, người có thẩm quyền
 của nước ngoài thực hiện yêu cầu thu thập chứng cứ bằng biện pháp lấy lời khai
 trực tuyến theo Điều 34 của Luật Tương trợ tư pháp về dân sự.
 
@@ -545,7 +545,7 @@ của Nghị định này.
 1]
 
 3. Thông báo tình hình thực hiện yêu cầu tương trợ tư pháp về dân sự của
-Việt Nam và của nước ngoài thuộc thâm quyền cho Bộ Tư pháp theo định kỳ
+Việt Nam và của nước ngoài thuộc thẩm quyền cho Bộ Tư pháp theo định kỳ
 hàng năm hoặc theo đề nghị của Bộ Tư pháp.
 
 4. Công khai, cập nhật địa chỉ và đầu mối liên lạc về tương trợ tư pháp về

@@ -633,7 +633,7 @@ TTỊ Loại xe ưu tiên | Màu sắc Công suất Cường độ DI: vn kiệt
 GII... J2 hoặc lần/phút
 16 + 60,5 60 ~ 240
 Xe của lực lượng
-2 |quân sự làm nhiệm| XSnh- Í 1á. øos | >0 60 ~ 240
+2 |quân sự làm nhiệm| XSnh- Í 1á. os | >0 60 ~ 240
 H H Đỏ
 vụ khân câp
 Xe của lực lượng
@@ -741,8 +741,8 @@ V/v đề nghị cấp mới/cấp lại giấy
 phép sử dụng thiết bị phát tín hiệu
 của xe ưu tiên
 IKính.gÙii:............ CỔ )Lsa gu»
-1. Tên cơ quan, tổ chức: ................-------¿©22+¿+2©+++2E+t2EYvEEExvEEkrtEktrtkkrrrrkrrrrtiertike
-- Sỗ.định.anh:.............‹:‹.cóc.ceccsno rao (Ân ri gi Hr820'085 t†HL2/40717S2T00E0H75 t0g.nein5i8
+1. Tên cơ quan, tổ chức: ................-------¿22+¿+2+++2E+t2EYvEEExvEEkrtEktrtkkrrrrkrrrrtiertike
+- Sỗ.định.anh:.............‹:‹.cóc.ceccsno rao (Ân ri gi Hr820'085 tHL2/40717S2T00E0H75 t0g.nein5i8
 ~= Địa CHỈ: scscisnscs155016116165256111666810061146141641851050 06196 E0910150341011560101601900440116420400144
 2. Người làm thủ tục: ......................... Số định danh: ...........................-
 Email:...................................... SỐ điện thoại liên hệ: ...........................-
@@ -777,13 +777,13 @@ GIÁY PHÉP SỬ DỤNG THIẾT BỊ PHÁT TÍN HIỆU CỦA XE ƯU TIÊN
 n Giấy phép sử
 Loại EXg dụng thiết bị | Phương | Lãnh |Thụ
 cơ . ZRP Mục VTC Phát tín hiệu của thức giải đạo hồi
-srr| quan, | Biển | *® | đích | °ẺP Í vewugiên | quyết duyệt|siấy
+srr| quan, | Biển | * | đích | °ẺP Í vewugiên | quyết duyệt|siấy
 tô sô xe|(2zô/| SỬ | (cấp = HT 'TTHC ký phép
 chức mô rõ) dụng | mới/cáp| `2 Ngày| Ms (OrCirve| giây |
 lại) 2M cấp € tiên) phép 3)
 l phép hạn
 1Ì | | } |} |} |} L L | |ˆ
-7] | |} | | | |} | |} | }†ˆ:
+7] | |} | | | |} | |} | }ˆ:
 .......„ JOYJ,........ ẲNG........HĂM.......
 CÁN BỘ THÓNG KÊ THỦ TRƯỞNG CƠ QUAN
 (Ký, ghi rõ họ tên) (Ký tên, đóng dấu)
@@ -961,7 +961,7 @@ D0 c0... .......
 đ) Cửa khâu nhập cảnh: .........................-- 22-252 +c2E22EEEEEEEEEEEkrrrkrertrkrrrreeri
 đ) Cửa khâu xuất cảnh: 3šgiVSSL4SSSE15383763193515S5539844331435044GG0115461136110108503583061084,1es08
 6) Ngày nhập GÁnH! các bung gà ng g2 0100111101386 1Á21A06.1648c6nssrsnsseeaseeroe
-ø) Ngày xuất cảnh: #E7†?R0EIT9f0TPrttEfZC0RPS2EnE4ES(2456.86EthaŠngis38<sz440eoEQhs.icdgVegasEuốỔ
+) Ngày xuất cảnh: #E7?R0EIT9f0TPrttEfZC0RPS2EnE4ES(2456.86EthaŠngis38<sz440eoEQhs.icdgVegasEuốỔ
 h) Lộ trình (hành trình) của người điều khiển phương tiện tham gia giao thông
 tại Việt Nam (từ khi nhập cảnh đên khi xuất cảnh):
 3
@@ -1094,7 +1094,7 @@ người nước ngoài và xe cơ giới nước ngoài tại văn bản gửi 
 2. Chấp thuận việc ........(2)........được thay đổi nội dung, thông tỉn so với
 văn bản đã được châp thuận, cụ thể:
 - Nội dung tại văn bản đã chấp THUẬN soiseiieiiiesntiitoibieiogi611 s16 160160 2E.
-- Nội dung được phép thay đổi: ................................-----¿--©2ccccccvccccrsecrrrrreccj
+- Nội dung được phép thay đổi: ................................-----¿
 Yêu cầu ...(2)... chịu trách nhiệm thực hiện đúng nội dung tại văn bản này
 của ....(1)..../.
 3. Đề nghị ...(3)...:.......... c1 1n S2 HS TH HH ng g1 xxx
@@ -1109,7 +1109,7 @@ n, kiểm định
 KH n Loại ATKT&BVM
 cảm xe co đối với xe ô tô
 LŠ » £
-Tên người| Sô |TDP Hạng | iøi|Nhãn| Số | Số |Màu| hoặc giấy tờ
+Tên người| Sô |TDP Hạng | ii|Nhãn| Số | Số |Màu| hoặc giấy tờ
 STTiđiêu khiên| hộ | hoặc | xe Biển (ô tô,| hiệu |khung| máy | sơn | tương đươn
 xe cơ giới chiếuGPLXIđược| số l bi Bị máy & ẽ
 P H mô do cơ quan có

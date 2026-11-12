@@ -293,7 +293,7 @@ quy chê của cơ quan, tô chức, đơn vị.
 a) Vi phạm gây hậu quả ít nghiêm trọng là vi phạm có tính chất, mức độ
 tác hại không lớn, tác động trong phạm vi nội bộ, làm ảnh hưởng đến uy tín của
 cơ quan, tô chức, đơn vị công tác;
-` . § “ .
+` . “ .
 b) Vi phạm gây hậu quả nghiêm trọng là vi phạm có tính chất, mức độ, tác
 hại lớn, tác động ra ngoài phạm vi nội bộ, gây dư luận xâu trong viên chức và
 Nhân dân, làm giảm uy tỉn của cơ quan, tô chức, đơn vị công tác;

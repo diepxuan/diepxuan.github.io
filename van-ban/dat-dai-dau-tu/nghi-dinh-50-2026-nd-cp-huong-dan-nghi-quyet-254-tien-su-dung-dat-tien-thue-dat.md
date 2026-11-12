@@ -632,8 +632,8 @@ Nghị định sửa đổi 24 khoản của các Điều khác nhau trong Ngh�
   - `3 1⁄2024/QH15` → `31/2024/QH15`; `3 1⁄` → `31/`.
   - `NĐ- -CP` → `NĐ-CP` (do PDF có dấu cách thừa).
   - `tô chức` → `tổ chức`; `qui định` → `quy định`; `qi` → `đi`.
-  - `thấm quyền`/`thẳm quyền`/`thâm quyển` → `thẩm quyền`.
-  - `Chương IT` → `Chương II`; `Chương IHI` → `Chương III`.
+  - `thẩm quyền`/`thẳm quyền`/`thâm quyển` → `thẩm quyền`.
+  - `Chương IT` → `Chương II`; `Chương IIII` → `Chương III`.
   - `Điêu` → `Điều`; `Điều IT` → `Điều 12`.
   - `sử đụng`/`sử dựng` → `sử dụng`; `sử đụng` → `sử dụng`.
   - `Luật Đất đại`/`Luật Đắc đai` → `Luật Đất đai`; `Đắc đai` → `Đất đai`.

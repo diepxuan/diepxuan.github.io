@@ -1014,7 +1014,7 @@ Ngân hàng mô được phép thu giá dịch vụ trên nguyên tắc bảo đ
 
 (Điều 17 Nghị định số 56/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/05/2008)
 
-1. Trung tâm điều phối quốc gia về ghép bộ phận cơ thể người là tổ chức sự nghiệp, có tổ chức mạng lưới, có tư cách pháp nhân, có con dấu, tài khoản và trụ sở riêng, trực thuộc Bộ Y tế. Căn cứ vµo yêu cầu của thực tiễn, Bộ trưởng Bộ Y tế quyết định tổ chức mạng lưới của Trung tâm Điều phối quốc gia về ghép bộ phận cơ thể người.
+1. Trung tâm điều phối quốc gia về ghép bộ phận cơ thể người là tổ chức sự nghiệp, có tổ chức mạng lưới, có tư cách pháp nhân, có con dấu, tài khoản và trụ sở riêng, trực thuộc Bộ Y tế. Căn cứ vào yêu cầu của thực tiễn, Bộ trưởng Bộ Y tế quyết định tổ chức mạng lưới của Trung tâm Điều phối quốc gia về ghép bộ phận cơ thể người.
 
 2. Chức năng, nhiệm vụ của Trung tâm điều phối quốc gia về ghép bộ phận cơ thể người được thực hiện theo quy định tại Điều 12, 18 và khoản 2 Điều 36 Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác và các nhiệm vụ cụ thể khác như sau:
 

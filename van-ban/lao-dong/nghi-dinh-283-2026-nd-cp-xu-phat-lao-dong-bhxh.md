@@ -190,7 +190,7 @@ của Nghị định này;
 b) Hành vi sử dụng giấy tờ, tài liệu giả mạo quy định tại điểm b khoản 4
 Điều 13 của Nghị định này;
 
-c) Hành vi khai thác, chia sẻ, sử dụng trái phép thông tín, dữ liệu trong cơ sở
+c) Hành vi khai thác, chia sẻ, sử dụng trái phép thông tin, dữ liệu trong cơ sở
 dữ liệu về người lao động. và thông tin về thị trường lao động chưa được cơ quan
 quản lý nhà nước có thẩm quyền công bố, phổ biến quy định tại khoản 2
 Điều 10 của Nghị định này;

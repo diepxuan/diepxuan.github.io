@@ -430,8 +430,8 @@ g) Trường hợp vị trí việc làm chỉ xác định sử dụng 2 bậc 
 tỷ lệ ở bậc cao hơn không vượt quá 50% tổng số biên chế viên chức được cấp
 có thẩm quyền giao cho vị trí việc làm đó.
 
-3. Đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên và chỉ đầu tư;
-đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên; đơn vị sự nghiệp công
+3. Đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chỉ đầu tư;
+đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên; đơn vị sự nghiệp công
 lập là tổ chức khoa học và công nghệ công lập hoặc trường hợp khác theo quy
 định của pháp luật chuyên ngành được quyết định vị trí việc làm thì đơn vị sự
 nghiệp công lập được quyết định tỷ lệ viên chức bố trí theo bậc nghề nghiệp
@@ -454,7 +454,7 @@ Phê duyệt vị trí việc làm
 
 1. Thâm quyền phê duyệt vị trí việc làm
 
-a) Đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên và chỉ đầu tư;
+a) Đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chỉ đầu tư;
 đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên; đơn vị sự nghiệp công,
 lập là tổ chức khoa học và công nghệ công lập hoặc trường hợp khác theo quy
 định của pháp luật chuyên ngành quyết định vị trí việc làm đối với viên chức

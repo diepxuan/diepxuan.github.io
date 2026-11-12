@@ -447,7 +447,7 @@ d) Trường hợp cần thiết, Ban tổ chức hội nghị bố trí ăn t�
 
 ### Điều 24. Các khoản chi khác liên quan đến công tác tổ chức hội nghị
 
-1. Chi xây dựng website phục vụ hội nghị (nếu có): Thực hiện theo quy định của pháp luật về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước và quy định của pháp luật có liên quan; các định mức kinh tế - kỹ thuật trong lĩnh vực công nghệ thông tin và chuyên đổi số theo hướng dẫn của Bộ Khoa học và Công nghệ.
+1. Chi xây dựng website phục vụ hội nghị (nếu có): Thực hiện theo quy định của pháp luật về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước và quy định của pháp luật có liên quan; các định mức kinh tế - kỹ thuật trong lĩnh vực công nghệ thông tin và chuyển đổi số theo hướng dẫn của Bộ Khoa học và Công nghệ.
 
 2. Chi công tác đào tạo, tập huấn, huấn luyện, bồi dưỡng, diễn tập để triển khai các hoạt động phục vụ hội nghị
 Chi tổ chức các lớp đào tạo, tập huấn, huấn luyện, bồi dưỡng, diễn tập để triển khai các hoạt động phục vụ hội nghị và các hoạt động đào tạo khác cho cán bộ, lái xe, nhân viên phục vụ, liên lạc viên, tình nguyện viên tham gia phục vụ các hoạt động hội nghị: Thực hiện theo quy định tại Thông tư số 100/2025/TT-BTC ngày 28 tháng 10 năm 2025 của Bộ trưởng Bộ Tài chính hướng dẫn lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho công tác đào tạo, bồi dưỡng công chức, viên chức; quy định trong kế hoạch, đề án tổ chức hội nghị và trong dự toán được cấp có thẩm quyền phê duyệt.

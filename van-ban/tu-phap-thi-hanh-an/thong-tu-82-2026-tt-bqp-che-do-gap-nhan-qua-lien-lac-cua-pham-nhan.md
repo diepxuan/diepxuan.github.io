@@ -468,7 +468,7 @@ việc hạn chế mua hàng hóa tại căng tin cùng với việc hạn chế
 3. Tiền thưởng, tiền bồi dưỡng làm thêm giờ, tăng năng suất lao động
 được chuyên vào lưu ký và được sử dụng theo quy định.
 
-4. Ngoài tiêu chuẩn ăn 1 quy định tại khoản I Điều 45 Luật số 127/2025/QH15,
+4. Ngoài tiêu chuẩn ăn 1 quy định tại khoản 1 Điều 45 Luật số 127/2025/QH15,
 phạm nhân được sử dụng tiền của mình để mua đồ ăn thêm tại căng tin do cơ sở
 giam giữ phạm nhân tổ chức nhưng không quá 05 lần định lượng ăn trong 01
 tháng cho mỗi phạm nhân. Tiền mua các loại hàng hóa thiết yếu khác (không

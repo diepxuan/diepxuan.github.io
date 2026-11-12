@@ -1099,7 +1099,7 @@ Vi phạm quy định về công bố loại hóa chất và mục đích sử d
 về công bố thông tin trên Cơ sở dữ liệu chuyên ngành hóa chất khi sử dụng hóa
 chất cần kiểm soát đặc biệt để sản xuất hàng hóa, địch vụ như sau:
 
-a) Công bố thiếu thông tín về loại hóa chất và mục đích sử dụng hóa chất,
+a) Công bố thiếu thông tin về loại hóa chất và mục đích sử dụng hóa chất,
 b) Công bố sai loại hóa chất hoặc sai mục đích sử dụng hóa chất;
 
 c) Công bố thông tin sau 30 ngày kể từ ngày đưa hóa chất vào sử dụng lần
@@ -1313,7 +1313,7 @@ sản xuất hoặc nhập khẩu);
 
 b) Không công bố thông tin về thành phần và hàm lượng hóa chất nguy
 hiểm và khuyến cáo hạn. chế sử dụng của sản phẩm, hàng hóa chứa hóa chất l
-nguy hiểm, thể hiện trên nhãn hàng hóa hoặc trang thông tín điện tử về sản
+nguy hiểm, thể hiện trên nhãn hàng hóa hoặc trang thông tin điện tử về sản
 phẩm, hàng hóa; l
 
 c) Không lưu giữ hồ sơ hoặc không xuất trình hồ sơ chứng mỉnh tính xác
@@ -1887,7 +1887,7 @@ b) Cơ sở sản xuất không thực hiện việc gửi thông báo các thay
 ngoài các thay đổi quy định tại điểm a khoản này (nếu có) đến Sở Ý tế nơi cơ
 sở đặt trụ sở để cập nhật thông tin hàng năm;
 
-c) Sản xuất chế phẩm diệt côn trùng, diệt khuẩn khi các thông tín: tên, địa
+c) Sản xuất chế phẩm diệt côn trùng, diệt khuẩn khi các thông tin: tên, địa
 chỉ, số điện thoại liên hệ của cơ sở sản xuất chưa được công khai trên trang
 thông tin điện tử của Sở Y tế nơi cơ sở sản xuất đặt trụ sở.
 

@@ -76,7 +76,7 @@ năm 2026 đến năm 2030;
 Theo đề nghị của Vụ trưởng Vụ Tài chính - Kinh tế ngành;
 
 Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn quản lý, sử dụng
-và quyết toán kinh phí chỉ thường xuyên ngân sách nhà nước thực hiện Chương
+và quyết toán kinh phí chi thường xuyên ngân sách nhà nước thực hiện Chương
 trình mục tiêu quốc gia về xây dựng nông thôn mới, giảm. nghèo bên vững và
 phát triển kinh tế xã hội vùng đông bào dân tộc thiểu số và miễn núi giai đoạn
 2026 - 2035, giai đoạn I: từ năm 2026 đến năm 2030.
@@ -106,7 +106,7 @@ thuận về nội dung, mức chỉ thì áp dụng theo nội dung, mức ch�
 Thông tư này;
 
 c) Đối với các hoạt động, dự án thuộc Chương trình có lồng ghép nguồn
-vốn chỉ thường xuyên từ nguôn ngân sách trung ương, ngân sách địa phương và
+vốn chi thường xuyên từ nguôn ngân sách trung ương, ngân sách địa phương và
 các nguôn vồn huy động hợp pháp khác theo quy định tại Điều 13 Nghị định số
 358/2025/NĐ-CP của Chính phủ quy định cơ chế quản lý, tổ chức thực hiện các
 chương trình mục tiêu quốc gia (sau đây gọi là Nghị định số 358/2025/NĐ-CP)
@@ -125,16 +125,16 @@ của pháp luật về đầu tư công.
 2. Đối tượng áp dụng
 
 Thông tư này áp dụng đối với các cơ quan, đơn vị, tổ chức, cá nhân quản
-lý, sử dụng, quyết toán và thụ hưởng nguồn kinh phí chỉ thường xuyên từ nguồn
+lý, sử dụng, quyết toán và thụ hưởng nguồn kinh phí chi thường xuyên từ nguồn
 ngân sách nhà nước thực hiện Chương trình.
 3
 
-### Điều 2. Nguồn kinh phí chỉ thường xuyên ngân sách nhà nước và nguyên
-tắc quản lý và sử dụng kinh phí chỉ thường xuyên thực hiện Chương trình
+### Điều 2. Nguồn kinh phí chi thường xuyên ngân sách nhà nước và nguyên
+tắc quản lý và sử dụng kinh phí chi thường xuyên thực hiện Chương trình
 
 1. Ngân sách trung ương
 
-a) Bồ trí trong dự toán chỉ thường xuyên ngân sách nhà nước hằng năm của
+a) Bồ trí trong dự toán chi thường xuyên ngân sách nhà nước hằng năm của
 các Bộ, cơ quan trung ương đề thực hiện nhiệm vụ được giao của Chương trình;
 
 b) Bổ sung có mục tiêu cho các địa phương, để triển khai các nhiệm vụ,
@@ -151,12 +151,12 @@ sô và miền núi giai đoạn 2026 - 2035 (sau đây gọi là Quyết địn
 
 Các địa phương chủ động sử dụng ngân sách trung ương hỗ trợ (nếu có);
 căn cứ khả năng cân đối ngân sách địa phương và tình hình thực tế hằng năm,
-chủ động bố trí kinh phí chỉ thường xuyên nguôn ngân sách địa phương và các
+chủ động bố trí kinh phí chi thường xuyên nguôn ngân sách địa phương và các
 nguôn vôn huy động hợp pháp khác đẻ thực hiện có hiệu quả các Nội dung, Nội
 dung thành phần của Chương trình trên địa bàn theo quy định tại Quyết định số
 417/QĐ-BNNMT và Quyết định số 16/2026/QĐ-TTg.
 
-3. Nguyên tắc quản lý và sử dụng kinh phí chỉ thường xuyên
+3. Nguyên tắc quản lý và sử dụng kinh phí chi thường xuyên
 
 a) Việc sử dụng nguồn vốn chi thường xuyên thực hiện các Nội dung, Nội
 dung thành phần của Chương trình bảo đảm phù hợp với quy định pháp luật về
@@ -164,7 +164,7 @@ ngân sách nhà nước và pháp luật chuyên ngành có liên quan; đảm 
 định tại Điều 4 Nghị định sô 358/2025/NĐ-CP.
 
 Các nhiệm vụ theo quy định tại Điều 40 Luật Ngân sách nhà nước được
-cấp có thẩm quyền quyết định bố trí vốn từ nguồn kinh phí chỉ thường xuyên,
+cấp có thẩm quyền quyết định bố trí vốn từ nguồn kinh phí chi thường xuyên,
 thực hiện theo quy định tại Nghị định số 104/2026/NĐ-CP ngày 31 tháng 3 năm
 2026 của Chính phủ quy định việc lập dự toán, quản lý, sử dụng và quyết toán chỉ
 thường xuyên đề thực hiện các nhiệm vụ quy định tại Điều 40 Luật Ngân sách
@@ -201,7 +201,7 @@ quan, đơn vị.
 
 ### Điều 3. Lập dự toán, chấp hành và quyết toán ngân sách nhà nước
 
-1. Việc lập dự toán, chấp hành và quyết toán kinh phí chỉ thường xuyên từ
+1. Việc lập dự toán, chấp hành và quyết toán kinh phí chi thường xuyên từ
 nguồn ngân sách nhà nước thực hiện Chương trình thực hiện theo quy định của
 pháp luật về ngân sách nhà nước; Nghị định sô 358/2025/NĐ-CP; Quyết định số
 417/QĐ-BNNMIT và Quyết định số 16/2026/QĐ-TTg; văn bản hướng dẫn của
@@ -330,8 +330,8 @@ thời gian dưới 05 ngày quy định tại điểm a khoản 2 Điều 4 Th�
 5. Chỉ khoa học, công nghệ và đổi mới sáng tạo; chỉ ứng dụng công nghệ
 thông tin và chuyên đôi sô
 
-a) Việc sử dụng nguồn kinh phí chỉ thường xuyên của Chương trình cho
-hoạt động ứng dụng công nghệ thông tin, chuyên đổi số thuộc Chương trình do
+a) Việc sử dụng nguồn kinh phí chi thường xuyên của Chương trình cho
+hoạt động ứng dụng công nghệ thông tin, chuyển đổi số thuộc Chương trình do
 7
 
 cơ quan có thẩm quyền quyết định theo quy định của pháp luật về ngân sách nhà
@@ -804,7 +804,7 @@ hiệu lực thi hành.
 đoạn 2021-2025 sử dụng nguôn vôn ngân sách nhà nước được phép kéo dài thời
 gian thực hiện và giải ngân đến hết ngày 31 tháng 12 năm 2026 theo Nghị quyết
 sô 257/2025/QHI5 thì tiệp tục thực hiện việc lập dự toán, quản lý, sử dụng và
-quyết toán kinh phí chỉ thường xuyên ngân sách nhà nước theo quy định tại
+quyết toán kinh phí chi thường xuyên ngân sách nhà nước theo quy định tại
 Thông tư số 55/2023/TT-BTC và các quy định của pháp luật có liên quan cho
 đến khi kết thúc nhiệm vụ nhưng không vượt quá thời hạn thực hiện và giải ngân
 nguồn vốn được cấp có thẩm quyền cho phép kéo dài.

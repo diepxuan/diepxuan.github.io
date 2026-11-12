@@ -425,7 +425,7 @@ hồ sơ dự thầu, chỉ phí đối với nhà đầu tư trúng thầu và 
 bảo lãnh dự thầu trên Hệ thống mạng đấu thầu quốc gia thực hiện theo lộ trình áp
 dụng lựa chợn nhà đầu tư qua mạng quy định tại Điều 70 của Nghị định này.
 5. Nguồn kinh phí thanh toán cho các khoản chỉ quy định tại các khoản 1,
-2 và 3 Điều này được sử dụng từ nguồn chỉ thường xuyên và các nguồn vốn
+2 và 3 Điều này được sử dụng từ nguồn chi thường xuyên và các nguồn vốn
 hợp pháp khác của cơ quan có thẩm quyền, bên mời quan tâm, bên mời thầu,
 tổ thâm định.
 6. Căn cứ lập dự toán các khoản chỉ gồm: Quyết định chấp thuận chủ
@@ -433,7 +433,7 @@ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu t�
 sách, chế độ theo quy định của pháp luật hiện hành tương ứng.
 7. Việc lập, phê duyệt, chấp hành dự toán các khoản chỉ lựa chọn nhà đầu
 tư quy định tại các khoản 1, 2 và 3 Điều này thực hiện theo quy định của pháp
-luật về lập, phê duyệt, chấp hành dự toán chỉ thường xuyên nguồn ngân sách
+luật về lập, phê duyệt, chấp hành dự toán chi thường xuyên nguồn ngân sách
 nhà nước, gồm:
 a) Căn cứ quy định của Luật Ngân sách nhà nước và quy định tại khoản 6
 Điều này, bên mời quan tâm, bên mời thầu, tổ thẩm định lập dự toán chỉ theo
@@ -441,7 +441,7 @@ từng nội dung chỉ quy định tại khoản 3 Điều này, tổng hợp c
 ngân sách hằng năm của cơ quan, đơn vị mình, trình cấp có thẩm quyền phê
 duyệt theo quy định của pháp luật về ngân sách nhà nước;
 b) Sau khi dự toán ngân sách hằng năm được phê duyệt, cơ quan có thẩm
-quyền phân bổ dự toán chỉ thường xuyên cho các đơn vị được giao thực hiện
+quyền phân bổ dự toán chi thường xuyên cho các đơn vị được giao thực hiện
 theo quy định của pháp luật về ngân sách nhà nước;
 c) Trường hợp phát sinh dự án phải tổ chức đấu thầu trong năm, bên mời
 quan tâm, bên mời thâu, tô thâm định bỗ sung dự toán, trình câp có thâm quyên

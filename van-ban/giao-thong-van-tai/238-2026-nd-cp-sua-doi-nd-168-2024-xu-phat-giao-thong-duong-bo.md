@@ -197,7 +197,7 @@ Sửa đỗi, bỗ sung một số điểm, khoản của Điều 21
 cả bể rộng rơ moóc và sơ mi rơ moóc); chở hàng vượt phía trước, phía sau
 thùng xe (kế cả rơ moóc và sơ mỉ rơ moóc) trên 10% chiều đài toàn bộ của xe
 theo thiết kế được ghỉ trong chứng nhận kiểm định an toàn kỹ thuật và bảo vệ
-môi trường của xe, trừ hành vị vi phạm quy định tại điểm đ khoản § Điều 21
+môi trường của xe, trừ hành vị vi phạm quy định tại điểm đ khoản
 Nghị định này".
 
 2. Sửa đổi, bổ sung điểm b khoản 3 như sau:
@@ -328,7 +328,7 @@ người lái xe lắp trên xe ô tô.". :
 
 vệ
 
-2. Bỗ sung điểm e vào sau điểm đ khoản I1 như sau:
+2. Bỗ sung điểm e vào sau điểm đ khoản 11 như sau:
 
 "e) Giao phương tiện hoặc để cho người làm công, người điều khiển
 phương tiện thực hiện hành vi vi phạm quy định tại khoản 8a Điêu 20 của Nghị
@@ -363,7 +363,7 @@ Sửa đỗi, bổ sung một số điểm, khoản của Điều 41
 
 "đ) Điểm a, điểm b, điểm c, điểm d, điểm e khoản 1; điểm a khoản 2; điểm a,
 điểm b, điểm c, điểm g, điểm h, điểm ¡, điểm k khoản 3; điểm b, điểm d, điểm ¡,
-điểm k khoản 4; điểm đ, điểm e, điểm ø, điểm h, điểm ¡, điểm k khoản 5; khoản 7;
+điểm k khoản 4; điểm đ, điểm e, điểm , điểm h, điểm ¡, điểm k khoản 5; khoản 7;
 khoản 8 Điều 39.".
 
 2. Bỗ sung điểm k1 vào sau điểm k khoản 4 như sau:
@@ -381,13 +381,13 @@ khoản, điều của Nghị định này như sau:
 a) Khoản l; điểm a, điểm b, điểm c, điểm d, điểm e khoản 2; khoản 3;
 khoản 4; khoản 5; điểm a khoản 6; điểm â, điểm d, điểm e, điểm g, điểm h,
 điểm ¡ khoản 7; điểm a, điểm b, điểm d khoản 8 Điều 26; điểm a khoản 2; điểm ¡ 1,
-điểm | khoản 7; điểm b khoản §; điểm a, điểm d khoản 9; khoản 9a; điểm e
+điểm | khoản 7; điểm b khoản ; điểm a, điểm d khoản 9; khoản 9a; điểm e
 khoản 11; điểm ¡ khoản 14; điểm c khoản 16; điểm a, điểm b khoản 17 Điều 32 khi
 thực hiện công tác kiểm tra tại đơn vị vận tải, bến xe, bãi đỗ xe, trạm dừng nghỉ,
 đơn vị thực hiện dịch vụ hỗ trợ vận tải;
 
 b) Khoản 1; khoản 2; điểm a, điểm b, điểm € điểm d, điểm đ, điểm e khoản 3;
-điểm â, điểm b, điểm e, điểm đ, điểm đ, điểm ©, điểm B; điểm h khoản 4; điểm a
+điểm â, điểm b, điểm e, điểm đ, điểm đ, điểm , điểm B; điểm h khoản 4; điểm a
 điểm b, điểm c, điểm đ khoản 5; khoản 6 Điều 39; Điều 40.".
 
 
@@ -579,7 +579,7 @@ lập biên bản vi phạm hành chính đổi với các hành vi vĩ phạm."
 
 ### Điều 17.
 Sửa đối, bỗ sung một số điểm, khoản của Điều 50
-1. Sửa đổi, bỗ sung điểm đ khoản I như sau:
+1. Sửa đổi, bỗ sung điểm đ khoản 1 như sau:
 
 "đ) Không trừ điểm giấy phép lái xe khi Biy, phép lái xe đó đang trong
 thời hạn bị tước quyền sử dụng giấy phép lái xe, giấy phép lái xe quôc tê.".
@@ -653,7 +653,7 @@ bám bên ngoài xe khi xe đang chạy" tại điểm p khoản 5 Điêu 6.
 
 11. - Thay thế cụm từ Tgấy chứng nhận kiểm định" bằng cụm từ “chứng
 nhận kiểm định" tại điểm' q, điểm r khoản 3 Điều 3; điểm d khoản 3, điểm b
-khoản 4 Điều 13; điểm © khoản 3 Điều 18; điêm Ạ, điểm d khoản 2, điểm a,
+khoản 4 Điều 13; điểm khoản 3 Điều 18; điêm Ạ, điểm d khoản 2, điểm a,
 điểm d khoản 5; điểm a, điểm b khoản 6, điểm a, điểm b khoản 7, điểm a, điểm
 b khoản 8 Điều 21; điểm a khoản l, khoản 3, khoản 5 Điêu 26; điêm b khoản
 1, điểm d khoản 11, điểm h khoản 14, điểm c, điểm d khoản 18, điểm đ, điểm
@@ -665,7 +665,7 @@ trường" tại điêm b, điểm d khoản 7 Điều 32, cụm từ "điểm e
 
 13. Bỏ cụm từ "tại nơi phát hiện vi phạm" tại điểm e khoản 5 Điều 47.
 
-14. Bỏ cụm từ "Điểm a khoản §;" tại điểm a khoản 1 Điều 48.
+14. Bỏ cụm từ "Điểm a khoản ;" tại điểm a khoản 1 Điều 48.
 
 15, Bỏ cụm từ "điểm m khoản 3 Điều 6," tại khoản 2 Điều 53.
 

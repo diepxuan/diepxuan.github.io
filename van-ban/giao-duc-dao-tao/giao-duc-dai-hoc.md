@@ -6924,7 +6924,7 @@ Các mức chi nêu trên được tính cho sản phẩm cuối cùng đã đư
 
 - Chi hỗ trợ lưu trú, hỗ trợ tiền tàu xe cho học viên, sinh viên, học sinh trong thời gian đi thực tập, nghiên cứu thực tế theo yêu cầu mỗi môn học.
 
-4.4. Ngân sách nhà nước cấp hỗ trợ kinh phí cho các Đại học, trường đại học, cao đẳng để thực hiện miễn học phí cho đối tượng học viên, sinh viên các chuyên ngành Mác - Lê nin, Tư tưởng hồ Chí Minh có cam kết thực hiện hợp đồng đào tạo. Việc cấp bù học phí cho đối tượng này thực hiện theo quy định tại Thông tư liên tịch số 66/1998/TT'LT/BGD&ĐT-BTC ngày l6/12/1998 của liên Bộ Giáo dục và Đào tạo - Bộ Tài chính hướng dẫn thực hiện miễn thu học phí đối với học sinh, sinh viên ngành sư phạm và hỗ trợ ngân sách cho các trường sư phạm.
+4.4. Ngân sách nhà nước cấp hỗ trợ kinh phí cho các Đại học, trường đại học, cao đẳng để thực hiện miễn học phí cho đối tượng học viên, sinh viên các chuyên ngành Mác - Lê nin, Tư tưởng hồ Chí Minh có cam kết thực hiện hợp đồng đào tạo. Việc cấp bù học phí cho đối tượng này thực hiện theo quy định tại Thông tư liên tịch số 66/1998/TT'LT/BGD&ĐT-BTC ngày 16/12/1998 của liên Bộ Giáo dục và Đào tạo - Bộ Tài chính hướng dẫn thực hiện miễn thu học phí đối với học sinh, sinh viên ngành sư phạm và hỗ trợ ngân sách cho các trường sư phạm.
 
 4.5. Định mức đào tạo cho sinh viên học chuyên ngành các môn khoa học Mác - Lênin, Tư tưởng Hồ Chí Minh ở các trường đại học, cao đẳng; đào tạo bằng cử nhân thứ hai theo địa chỉ sử dụng; đào tạo sau đại học và nghiên cứu sinh các môn chuyên ngành này tính theo định mức tương ứng của các trường đại học sư phạm.
 
