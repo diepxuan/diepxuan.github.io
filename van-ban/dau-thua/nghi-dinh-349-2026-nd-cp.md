@@ -610,8 +610,8 @@ quản lý của bộ, ngành, địa phương;
 
 b) Giám sát hoạt động lựa chọn nhà thầu theo quy định tại điểm d khoản 7
 Điều 3 của Luật Đấu thầu của doanh nghiệp nhà nước không sử dụng vốn ngân
-sách nhà nước, đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên và chỉ
-đầu tư, đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên không sử dụng
+sách nhà nước, đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chỉ
+đầu tư, đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên không sử dụng
 ngân sách nhà nước trên địa bàn, lĩnh vực quản lý của bộ, ngành, địa phương.”.
 
 2. Sửa đổi, bổ sung khoản 4 và khoản 5 như sau:

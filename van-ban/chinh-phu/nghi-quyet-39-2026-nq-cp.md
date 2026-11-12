@@ -1,3 +1,25 @@
+---
+layout: vanban
+title: "Nghị quyết 39/2026/NQ-CP: Cơ chế chuyển tiếp sử dụng nhãn, bao bì hàng hóa đã in tên cũ khi doanh nghiệp thay đổi tên nhưng không thay đổi pháp nhân và chủ thể chịu trách nhiệm về hàng hóa"
+date: 2026-08-25
+modified: 2026-11-12
+group: doanh-nghiep
+tags:
+  - Nghị quyết
+  - nhãn hàng hóa
+  - bao bì
+  - chuyển tiếp
+  - doanh nghiệp
+docid: 219280
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
+so-hieu: 39/2026/NQ-CP
+nguoi-ky: Hồ Quốc Dũng
+co-quan-ban-hanh: Chính phủ
+ngay-ban-hanh: 25/08/2026
+ngay-hieu-luc: 25/08/2026
+status: hoanthien
+---
+
 # Nghị quyết số 39/2026/NQ-CP của Chính phủ: Về cơ chế chuyển tiếp sử dụng nhãn, bao bì hàng hóa đã in tên cũ khi doanh nghiệp thay đổi tên nhưng không thay đổi pháp nhân và chủ thể chịu trách nhiệm về hàng hóa
 
 ## THÔNG TIN VĂN BẢN

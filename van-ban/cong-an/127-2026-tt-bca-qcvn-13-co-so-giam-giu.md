@@ -1,6 +1,16 @@
 ---
-layout: page
-title: 127/2026/TT-BCA - 127/2026/TT-BCA
+layout: vanban
+title: "Thông tư 127/2026/TT-BCA: Ban hành Quy chuẩn kỹ thuật quốc gia về thiết kế và xây dựng các cơ sở giam giữ trong Công an nhân dân"
+date: 2026-06-30
+modified: 2026-11-12
+group: cong-an
+tags:
+  - Thông tư
+  - công an
+  - cơ sở giam giữ
+  - quy chuẩn kỹ thuật
+docid: 127/2026/TT-BCA
+source: luatvietnam.vn
 so-hieu: 127/2026/TT-BCA
 ngay-ban-hanh: 30/6/2026
 ngay-hieu-luc: 01/7/2026

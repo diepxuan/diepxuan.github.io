@@ -180,4 +180,3 @@ Một số trường hợp cụ thể được tính như sau:
 - Cá nhân công tác ở các ngành, lĩnh vực khác chuyển vào công tác trong ngành Nông nghiệp và Môi trường, có thời gian công tác liên tục đủ 25 năm trở lên đối với nam và đủ 20 năm trở lên đối với nữ, trong đó có thời gian công tác trong ngành Nông nghiệp và Môi trường đủ 10 năm trở lên đối với nam và đủ 07 năm trở lên đối với nữ.
 
 ---
-*Lưu ý: Nội dung văn bản được crawl từ luatvietnam.vn. Do dữ liệu web fetch bị truncate, phần cuối của văn bản có thể chưa đầy đủ.*

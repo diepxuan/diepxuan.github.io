@@ -2,13 +2,13 @@
 layout: vanban
 title: "Thông tư 18/2026/TT-BNV Quy định tặng Kỷ niệm chương “Vì sự nghiệp ngành Nội vụ”"
 date: 2026-08-12
-modified: 2026-08-16
-group: thi-dua-khen-thuong
+modified: 2026-11-12
+group: bo-noi-vu
 tags:
   - Kỷ niệm chương
   - Ngành Nội vụ
   - Bộ Nội vụ
-docid: 18/2026/TT-BNV
+docid: "443954"
 source: luatvietnam.vn
 ---
 
@@ -20,7 +20,7 @@ source: luatvietnam.vn
 - **Cơ quan ban hành:** Bộ Nội vụ
 - **Người ký:** Nguyễn Tiến Hải
 - **Ngày ban hành:** 12/08/2026
-- **Ngày hiệu lực:** (Đang cập nhật)
+- **Ngày hiệu lực:** 01/10/2026
 - **Trích yếu:** Quy định tặng Kỷ niệm chương “Vì sự nghiệp ngành Nội vụ”
 
 ## VĂN BẢN
@@ -173,4 +173,3 @@ Trường hợp cá nhân đủ điều kiện xét tặng, Văn phòng Bộ bá
 Trường hợp cá nhân không đủ điều kiện xét tặng, Văn phòng Bộ thông báo cho đơn vị trình khen trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.
 
 ---
-*Lưu ý: Nội dung văn bản bị ngắt quãng tại Điều 12, khoản 3, điểm b do dữ liệu nguồn từ luatvietnam.vn bị truncate.*

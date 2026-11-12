@@ -2,28 +2,46 @@
 layout: vanban
 title: "Nghị định 316/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 135/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước"
 date: 2026-08-11
-modified: 2026-08-15
-group: Tai chinh
+modified: 2026-11-12
+group: tai-chinh
 tags:
-  - Bo Tai chinh
-  - To chuc tin dung
-  - Gioi sat tai chinh
-docid: 316/2026/NĐ-CP
-source: luatvietnam.vn
+  - Bộ Tài chính
+  - tổ chức tín dụng
+  - giám sát tài chính
+docid: 219169
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
-# Nghị định 316/2026/NĐ-CP
+# Nghị định 316/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 135/2025/NĐ-CP về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng
 
 ## THÔNG TIN VĂN BẢN
 
 - **Số hiệu:** 316/2026/NĐ-CP
 - **Ngày ban hành:** 11/08/2026
-- **Người ký:** Chính phủ
-- **Ngày hiệu lực:** (Chưa cập nhật rõ, cần kiểm tra thêm nếu có)
+- **Người ký:** Nguyễn Văn Thắng (KT. Thủ tướng, Phó Thủ tướng)
+- **Ngày hiệu lực:** 01/10/2026
 - **Trích yếu:** Sửa đổi, bổ sung một số điều của Nghị định số 135/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước.
-- **Căn cứ pháp luật:** Luật Các tổ chức tín dụng, Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp.
+- **Căn cứ pháp luật:**
+  - Luật Tổ chức Chính phủ số 63/2025/QH15.
+  - Luật Các tổ chức tín dụng số 32/2024/QH15 được sửa đổi, bổ sung bởi Luật số 43/2024/QH15 và Luật số 96/2025/QH15.
+  - Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp số 68/2025/QH15.
+  - Luật Doanh nghiệp số 59/2020/QH14 được sửa đổi, bổ sung bởi Luật số 03/2022/QH15 và Luật số 76/2025/QH15.
+  - Luật Hợp tác xã số 17/2023/QH15.
+  - Luật Kế toán số 88/2015/QH13 được sửa đổi, bổ sung bởi Luật số 56/2024/QH15 và Luật số 108/2025/QH15.
+  - Theo đề nghị của Bộ trưởng Bộ Tài chính.
 
 ## VĂN BẢN
+
+**CHÍNH PHỦ**
+**Số: 316/2026/NĐ-CP**
+
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập - Tự do - Hạnh phúc**
+
+*Hà Nội, ngày 11 tháng 8 năm 2026*
+
+**NGHỊ ĐỊNH**
+**Sửa đổi, bổ sung một số điều của Nghị định số 135/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước**
 
 Theo đề nghị của Bộ trưởng Bộ Tài chính;
 
@@ -133,4 +151,4 @@ c) Chủ trì, phối hợp với Bộ Tài chính căn cứ quy định tại N
 “4. Tiêu chí 4. Tình hình chấp hành pháp luật theo quy định tại điểm d khoản 1 Điều 31 Nghị định này.
 4.1. Tổ chức tín dụng xếp loại A khi đáp ứng tất cả các điều kiện sau:
 a) Trong năm đánh giá không bị cơ quan đại diện chủ sở hữu hoặc cơ quan tài chính nhắc nhở bằng văn bản hoặc bị nhắc nhở bằng văn bản không quá hai lần về việc nộp báo cáo giám sát, báo cáo xếp loại tổ chức tín dụng, báo cáo tài chính và các báo cáo khác để thực hiện giám sát tài chính không đúng quy định, không đúng hạn đối với từng loại báo cáo;
-b) Trong năm đánh giá không bị cơ quan có thẩm quyền xử phạt vi phạm... (Nội dung tiếp theo bị cắt trong nguồn fetch)
+b) Trong năm đánh giá không bị cơ quan có thẩm quyền xử phạt vi phạm hành chính; trường hợp bị cơ quan có thẩm quyền xử phạt vi phạm hành chính thì phải đảm bảo không bị xử phạt vi phạm hành chính đối với các hành vi lừa đảo, gian lận, giả mạo; nặc danh, mạo danh; chuyển nhượng, cho thuê, cho mượn giấy phép; phá hoại, hủy hoại tiền Việt Nam; hoạt động kinh doanh trái phép; cung cấp thông tin không trung thực; lấy cắp thông tin; đánh cắp dữ liệu theo quy định của Chính phủ về xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và ngân hàng.

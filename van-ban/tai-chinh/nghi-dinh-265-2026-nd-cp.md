@@ -8,7 +8,7 @@ tags:
   - Tiết kiệm
   - Chống lãng phí
   - Xử phạt hành chính
-docid: null
+docid: "265/2026/NĐ-CP"
 source: luatnguyen.vn
 ---
 

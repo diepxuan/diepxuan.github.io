@@ -14,15 +14,14 @@ tags:
   - thong-tu
   - sua-doi
   - bo-sung
-so_hieu: 45/2026/TT-BKHCN
-ngay_ban_hanh: 31/07/2026
-ngay_hieu_luc: 01/09/2026
-nguoi_ky: Vũ Hải Quân
-trich_yeu: "Sửa đổi, bổ sung một số điều của các thông tư của Bộ trưởng Bộ Khoa học và Công nghệ để thực hiện cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đo lường; sửa đổi, bổ sung, bãi bỏ một số điều của Thông tư 14/2013/TT-BKHCN (về đo lường đối với chuẩn quốc gia), Thông tư 23/2013/TT-BKHCN (về đo lường đối với phương tiện đo nhóm 2), Thông tư 54/2025/TT-BKHCN (về kiểm định, hiệu chuẩn, thử nghiệm); gồm 22 Điều, 4 Chương, 8 biểu mẫu tại Phụ lục; hiệu lực 01/9/2026."
-linh_vuc: Khoa học và Công nghệ / Đo lường
-co_quan_ban_hanh: Bộ Khoa học và Công nghệ
 docid: 443191
-source_url: https://luatvietnam.vn/khoa-hoc/thong-tu-45-2026-tt-bkhcn-cat-giam-don-gian-hoa-thu-tuc-do-luong-hieu-qua-443191-d1.html
+source: "https://luatvietnam.vn/khoa-hoc/thong-tu-45-2026-tt-bkhcn-cat-giam-don-gian-hoa-thu-tuc-do-luong-hieu-qua-443191-d1.html"
+so-hieu: 45/2026/TT-BKHCN
+nguoi-ky: Vũ Hải Quân
+co-quan-ban-hanh: Bộ Khoa học và Công nghệ
+ngay-ban-hanh: 31/07/2026
+ngay-hieu-luc: 01/09/2026
+trich-yeu: Sửa đổi, bổ sung một số điều của các thông tư của Bộ trưởng Bộ Khoa học và Công nghệ để thực hiện cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đo lường; sửa đổi, bổ sung, bãi bỏ một số điều của Thông tư 14/2013/TT-BKHCN (về đo lường đối với chuẩn quốc gia), Thông tư 23/2013/TT-BKHCN (về đo lường đối với phương tiện đo nhóm 2), Thông tư 54/2025/TT-BKHCN (về kiểm định, hiệu chuẩn, thử nghiệm); gồm 22 Điều, 4 Chương, 8 biểu mẫu tại Phụ lục; hiệu lực 01/9/2026.
 can_cu_phap_ly:
   - Luật Đo lường số 04/2011/QH13 được sửa đổi, bổ sung bởi Luật số 35/2018/QH14 và Luật số 84/2025/QH15
   - Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15
@@ -37,9 +36,11 @@ van_ban_lien_quan:
   - 22/2026/TT-BKHCN (khoản 3 Điều 5 bị bãi bỏ từ ngày Thông tư này có hiệu lực)
   - 03/2025/TT-BKHCN (Thời hạn lưu trữ hồ sơ, tài liệu ngành KH&CN)
 ngay_tao: 2026-08-09
-lastedit: 2026-08-09
 trang_thai: Hoàn thiện
+linh-vuc: Khoa học và Công nghệ / Đo lường
+source-url: https://luatvietnam.vn/khoa-hoc/thong-tu-45-2026-tt-bkhcn-cat-giam-don-gian-hoa-thu-tuc-do-luong-hieu-qua-443191-d1.html
 ---
+
 
 # THÔNG TƯ 45/2026/TT-BKHCN: SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC THÔNG TƯ CỦA BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ ĐỂ THỰC HIỆN CẮT GIẢM, ĐƠN GIẢN HÓA THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC ĐO LƯỜNG
 

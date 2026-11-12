@@ -1,30 +1,31 @@
 ---
 layout: vanban
-title: "Thông tư 23/2026/TT-BVHTTDL quy định về định mức kinh tế - kỹ thuật dịch vụ sản xuất tác phẩm báo chí in, in báo chí in, đăng tải báo chí điện tử"
+title: "Thông tư 23/2026/TT-BVHTTDL quy định về định mức kinh tế - kỹ thuật dịch vụ sản xuất tác phẩm báo chí in, báo chí điện tử và in báo chí in, đăng tải báo chí điện tử"
 date: 2026-08-06
-modified: 2026-08-14
+modified: 2026-11-12
 group: van-hoa
 tags:
   - báo chí
   - định mức kinh tế kỹ thuật
   - BVHTTDL
-docid: 23/2026/TT-BVHTTDL
+docid: "443556"
 source: luatvietnam.vn
 ---
 
-# Thông tư 23/2026/TT-BVHTTDL
+# Thông tư 23/2026/TT-BVHTTDL quy định về định mức kinh tế - kỹ thuật dịch vụ sản xuất tác phẩm báo chí in, báo chí điện tử và in báo chí in, đăng tải báo chí điện tử
 
 ## THÔNG TIN VĂN BẢN
 
 - **Số hiệu:** 23/2026/TT-BVHTTDL
 - **Ngày ban hành:** 06/08/2026
+- **Cơ quan ban hành:** Bộ Văn hóa, Thể thao và Du lịch
 - **Người ký:** Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch
 - **Ngày hiệu lực:** 21/09/2026
 - **Trích yếu:** Quy định về định mức kinh tế - kỹ thuật dịch vụ sản xuất tác phẩm báo chí in, báo chí điện tử và in báo chí in, đăng tải báo chí điện tử.
 - **Căn cứ pháp luật:**
-    - Nghị định số 32/2019/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 214/2025/NĐ-CP)
-    - Nghị định số 60/2021/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 111/2025/NĐ-CP)
-    - Nghị định số 298/2026/NĐ-CP
+    - Nghị định số 32/2019/NĐ-CP ngày 01/03/2019 (được sửa đổi, bổ sung bởi Nghị định số 214/2025/NĐ-CP)
+    - Nghị định số 60/2021/NĐ-CP ngày 21/06/2021 (được sửa đổi, bổ sung bởi Nghị định số 111/2025/NĐ-CP)
+    - Nghị định số 298/2026/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Văn hóa, Thể thao và Du lịch
 
 ## VĂN BẢN
 
@@ -162,4 +163,5 @@ c) Bảng định mức, bao gồm:
 - Kiểm toán Nhà nước;
 - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
 - Các bộ, cơ quan ngang bộ;
-- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương.
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Lưu: VT, Cục Báo chí.

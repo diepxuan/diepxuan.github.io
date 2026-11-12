@@ -1,19 +1,26 @@
 ---
 layout: vanban
-title: "Thông tư 40/2026/TT-NHNN quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân"
+title: Thông tư 40/2026/TT-NHNN quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân
 date: 2026-08-10
 modified: 2026-08-23
-so_hieu: "40/2026/TT-NHNN"
-loai_vb: "Thông tư"
-nguoi_ky: "Phó Thống đốc Đoàn Thái Sơn"
-co_quan_ban_hanh: "Ngân hàng Nhà nước Việt Nam"
-ngay_ban_hanh: "2026-08-10"
-ngay_hieu_luc: "2026-11-01"
-trich_yeu: "Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động quỹ tín dụng nhân dân (tỷ lệ an toàn vốn tối thiểu 8%, tỷ lệ khả năng chi trả ≥100%, hạn chế cho vay)"
-can_cu_phap_luat: "Luật Ngân hàng Nhà nước Việt Nam 46/2010/QH12; Luật Các tổ chức tín dụng 32/2024/QH15 (sửa đổi, bổ sung bởi Luật số 96/2025/QH15); Luật Hợp tác xã 17/2023/QH15; Nghị định 26/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 198/2026/NĐ-CP)"
-status: "hoanthien"
-source: "luatvietnam.vn slug 443628-d1; datafiles.chinhphu.vn"
+group: tai-chinh
+tags:
+  - Thông tư
+  - tài chính
+  - tín dụng nhân dân
+docid: 40/2026/TT-NHNN
+source: luatvietnam.vn slug 443628-d1; datafiles.chinhphu.vn
+so-hieu: 40/2026/TT-NHNN
+nguoi-ky: Phó Thống đốc Đoàn Thái Sơn
+co-quan-ban-hanh: Ngân hàng Nhà nước Việt Nam
+ngay-ban-hanh: 2026-08-10
+ngay-hieu-luc: 2026-11-01
+trich-yeu: Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động quỹ tín dụng nhân dân (tỷ lệ an toàn vốn tối thiểu 8%, tỷ lệ khả năng chi trả ≥100%, hạn chế cho vay)
+status: hoanthien
+can_cu_phap_luat: Luật Ngân hàng Nhà nước Việt Nam 46/2010/QH12; Luật Các tổ chức tín dụng 32/2024/QH15 (sửa đổi, bổ sung bởi Luật số 96/2025/QH15); Luật Hợp tác xã 17/2023/QH15; Nghị định 26/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 198/2026/NĐ-CP)
+loai-van-ban: Thông tư
 ---
+
 
 # Thông tư 40/2026/TT-NHNN Quy định các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của quỹ tín dụng nhân dân
 

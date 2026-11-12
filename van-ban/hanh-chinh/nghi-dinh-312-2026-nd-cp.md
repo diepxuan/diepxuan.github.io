@@ -2,14 +2,14 @@
 layout: vanban
 title: "Nghị định 312/2026/NĐ-CP về kết hợp an ninh với kinh tế - xã hội và kinh tế - xã hội với an ninh"
 date: 2026-08-07
-modified: 2026-08-16
+modified: 2026-11-12
 group: hanh-chinh
 tags:
   - an-ninh-quoc-gia
   - kinh-te-xa-hoi
   - ket-hop-an-ninh-kinh-te
-docid: 312/2026/ND-CP
-source: luatvietnam.vn
+docid: 219156
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
 # Nghị định 312/2026/NĐ-CP về kết hợp an ninh với kinh tế - xã hội và kinh tế - xã hội với an ninh
@@ -20,11 +20,13 @@ source: luatvietnam.vn
 - **Ngày ban hành:** 07/08/2026
 - **Ngày hiệu lực:** 22/09/2026
 - **Cơ quan ban hành:** Chính phủ
-- **Người ký:** (Không ghi rõ tên cụ thể trong nguồn crawl, ký thay mặt Chính phủ)
+- **Người ký:** Phạm Gia Túc (Phó Thủ tướng, KT. Thủ tướng)
 - **Trích yếu:** Quy định về kết hợp an ninh với kinh tế - xã hội và kinh tế - xã hội với an ninh.
 - **Căn cứ pháp luật:**
-  - Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.
-  - Đề nghị của Bộ trưởng Bộ Công an.
+  - Luật Tổ chức Chính phủ số 63/2025/QH15.
+  - Luật An ninh quốc gia số 32/2004/QH11.
+  - Luật Công an nhân dân số 37/2018/QH14 được sửa đổi, bổ sung bởi Luật số 21/2023/QH15, Luật số 30/2023/QH15, Luật số 38/2024/QH15, Luật số 52/2024/QH15, Luật số 86/2025/QH15.
+  - Theo đề nghị của Bộ trưởng Bộ Công an.
 
 ## VĂN BẢN
 
@@ -93,8 +95,8 @@ Nghị định này quy định về nguyên tắc, căn cứ, nội dung, hình
 
 ### Điều 8. Tham gia ý kiến hoặc cho ý kiến thẩm định về an ninh
 1. Cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định gửi Bộ Công an, Công an cấp tỉnh hồ sơ theo quy định của pháp luật về quy hoạch, đầu tư, pháp luật có liên quan.
-2. Bộ Công an, Công an cấp tỉnh tiếp nhận, trao đổi với cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định về thành phần hồ sơ theo quy định của pháp luật về quy hoạch, đầu tư, pháp luật có liên quan trong thời hạn 02 ngày 1àm việc.
-3. Bộ Công an, Công an cấp tỉnh tham gia ý kiến hoặc cho ý kiến thẩm định về việc đáp ứng yêu cầu, điều kiện quy định tại khoản 2 Điều 6, khoản 2 Điều 7 Nghị định này và gửi kết quả về cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định trong thời hạn theo quy định của pháp luật hoặc theo yêu cầu của cơ quan, tổ chức. Trường hợp pháp luật chưa có quy định, Bộ Công an, Công an cấp tỉnh gửi kết quả về cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định trong thời hạn 10 ngày 1àm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ.
+2. Bộ Công an, Công an cấp tỉnh tiếp nhận, trao đổi với cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định về thành phần hồ sơ theo quy định của pháp luật về quy hoạch, đầu tư, pháp luật có liên quan trong thời hạn 02 ngày làm việc.
+3. Bộ Công an, Công an cấp tỉnh tham gia ý kiến hoặc cho ý kiến thẩm định về việc đáp ứng yêu cầu, điều kiện quy định tại khoản 2 Điều 6, khoản 2 Điều 7 Nghị định này và gửi kết quả về cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định trong thời hạn theo quy định của pháp luật hoặc theo yêu cầu của cơ quan, tổ chức. Trường hợp pháp luật chưa có quy định, Bộ Công an, Công an cấp tỉnh gửi kết quả về cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ.
 4. Cơ quan, tổ chức chủ trì lấy ý kiến hoặc thẩm định có trách nhiệm tiếp thu, giải trình ý kiến của Bộ Công an, Công an cấp tỉnh theo quy định của pháp luật.
 
 ### Điều 9. Đánh giá tác động, giám sát về an ninh

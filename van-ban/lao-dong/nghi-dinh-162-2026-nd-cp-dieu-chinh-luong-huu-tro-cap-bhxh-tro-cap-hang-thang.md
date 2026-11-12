@@ -1,8 +1,19 @@
 ---
-layout: page
+layout: vanban
 title: "Nghị định 162/2026/NĐ-CP điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng"
+date: 2026-05-15
+modified: 2026-11-12
+group: bao-hiem
+tags:
+  - Nghị định
+  - bảo hiểm xã hội
+  - lương hưu
+  - trợ cấp hằng tháng
+docid: 162/2026/NĐ-CP
+source: vanban.chinhphu.vn
 permalink: /van-ban/lao-dong/nghi-dinh-162-2026/
-lastedit: 2026-06-07
+so-hieu: 162/2026/NĐ-CP
+ngay-hieu-luc: 01/07/2026
 ---
 
 # Nghị định 162/2026/NĐ-CP điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng

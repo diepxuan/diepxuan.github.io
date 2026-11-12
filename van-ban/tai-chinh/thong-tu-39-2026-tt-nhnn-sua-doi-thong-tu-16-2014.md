@@ -1,6 +1,6 @@
 ---
 layout: vanban
-title: "Sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN hướng dẫn sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của người cư trú, người không cư trú tại ngân hàng được phép"
+title: Sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN hướng dẫn sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của người cư trú, người không cư trú tại ngân hàng được phép
 date: 2026-08-05
 modified: 2026-08-08
 group: tai-chinh
@@ -11,14 +11,21 @@ tags:
   - nguoi-cu-tru
   - nguoi-khong-cu-tru
   - to-chuc-tin-dung-nuoc-ngoai
+docid: 443222
+source: "https://luatvietnam.vn/tai-chinh/thong-tu-39-2026-tt-nhnn-huong-dan-su-dung-tai-khoan-ngoai-te-va-dong-viet-nam-443222-d1.html"
+so-hieu: 39/2026/TT-NHNN
+nguoi-ky: Phó Thống đốc Ngân hàng Nhà nước (Phạm Thanh Hà)
+co-quan-ban-hanh: Ngân hàng Nhà nước Việt Nam
+ngay-ban-hanh: 05/08/2026
+ngay-hieu-luc: 19/09/2026
+trich-yeu: Sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN hướng dẫn sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của người cư trú, người không cư trú tại ngân hàng được phép; bổ sung Điều 2a quy định nguyên tắc sử dụng tài khoản của người không cư trú là tổ chức tín dụng nước ngoài; sửa đổi Điều 9 về trách nhiệm của tổ chức tín dụng được phép và người cư trú, người không cư trú; hiệu lực 19/9/2026; căn cứ Luật NHNN 46/2010/QH12, Luật Các TCTD 32/2024/QH15, Pháp lệnh Ngoại hối 28/2005/PL-UBTVQH11
 so_hieu: 39/2026/TT-NHNN
 ngay_ban_hanh: 05/08/2026
 ngay_hieu_luc: 19/09/2026
 nguoi_ky: Phó Thống đốc Ngân hàng Nhà nước (Phạm Thanh Hà)
-trich_yeu: "Sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN hướng dẫn sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của người cư trú, người không cư trú tại ngân hàng được phép; bổ sung Điều 2a quy định nguyên tắc sử dụng tài khoản của người không cư trú là tổ chức tín dụng nước ngoài; sửa đổi Điều 9 về trách nhiệm của tổ chức tín dụng được phép và người cư trú, người không cư trú; hiệu lực 19/9/2026; căn cứ Luật NHNN 46/2010/QH12, Luật Các TCTD 32/2024/QH15, Pháp lệnh Ngoại hối 28/2005/PL-UBTVQH11"
+trich_yeu: Sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN hướng dẫn sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của người cư trú, người không cư trú tại ngân hàng được phép; bổ sung Điều 2a quy định nguyên tắc sử dụng tài khoản của người không cư trú là tổ chức tín dụng nước ngoài; sửa đổi Điều 9 về trách nhiệm của tổ chức tín dụng được phép và người cư trú, người không cư trú; hiệu lực 19/9/2026; căn cứ Luật NHNN 46/2010/QH12, Luật Các TCTD 32/2024/QH15, Pháp lệnh Ngoại hối 28/2005/PL-UBTVQH11
 linh_vuc: Tài chính / Ngân hàng / Quản lý ngoại hối
 co_quan_ban_hanh: Ngân hàng Nhà nước Việt Nam
-docid: 443222
 source_url: https://luatvietnam.vn/tai-chinh/thong-tu-39-2026-tt-nhnn-huong-dan-su-dung-tai-khoan-ngoai-te-va-dong-viet-nam-443222-d1.html
 can_cu_phap_ly:
   - Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12
@@ -32,7 +39,10 @@ van_ban_lien_quan:
 ngay_tao: 2026-08-08
 lastedit: 2026-08-08
 trang_thai: Hoàn thiện
+linh-vuc: Tài chính / Ngân hàng / Quản lý ngoại hối
+source-url: https://luatvietnam.vn/tai-chinh/thong-tu-39-2026-tt-nhnn-huong-dan-su-dung-tai-khoan-ngoai-te-va-dong-viet-nam-443222-d1.html
 ---
+
 
 # SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 16/2014/TT-NHNN HƯỚNG DẪN SỬ DỤNG TÀI KHOẢN NGOẠI TỆ, TÀI KHOẢN ĐỒNG VIỆT NAM CỦA NGƯỜI CƯ TRÚ, NGƯỜI KHÔNG CƯ TRÚ TẠI NGÂN HÀNG ĐƯỢC PHÉP
 

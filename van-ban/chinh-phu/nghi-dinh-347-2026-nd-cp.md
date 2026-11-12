@@ -240,8 +240,7 @@ khoản 3 Điều 40; khoản 6 Điều 42.
 
      5. Bãi bỏ cụm từ “kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ
 liệu” tại khoản 1, điểm b khoản 2, khoản 3 Điều 39; khoản 4 Điều 40; điểm d
-khoản 1, điểm c khoản 2, điểm b khoản 3, điểm d khoản 4 Điều 41; khoản 4
-### Điều 42.
+khoản 1, điểm c khoản 2, điểm b khoản 3, điểm d khoản 4 Điều 41; khoản 4 Điều 42.
 
     6. Bãi bỏ cụm từ “Điều 29” tại điểm b khoản 1 Điều 37 và đoạn thứ nhất
 điểm b khoản 2 Điều 38.

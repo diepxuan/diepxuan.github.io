@@ -14,14 +14,21 @@ tags:
   - thong-tu
   - lao-cai
   - hai-phong
+docid: 443192
+source: "https://luatvietnam.vn/dau-tu/thong-tu-63-2026-tt-bxd-dinh-muc-du-toan-xay-dung-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-443192-d1.html"
+so-hieu: 63/2026/TT-BXD
+nguoi-ky: Nguyễn Danh Huy
+co-quan-ban-hanh: Bộ Xây dựng
+ngay-ban-hanh: 31/07/2026
+ngay-hieu-luc: 15/09/2026
+trich-yeu: Ban hành định mức dự toán xây dựng Dự án thành phần 2 thuộc Dự án đầu tư xây dựng tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng; gồm 14 Phụ lục (định mức xây dựng cơ bản, nền đường, cầu cống, hầm, đường ray, viễn thông, tín hiệu, thông tin, điện lực, điện kéo, nhà, cấp thoát nước, hệ thống kỹ thuật cơ khí đầu máy và toa xe, nhà ga); áp dụng để lập dự toán xây dựng đối với Dự án; hiệu lực 15/9/2026.
 so_hieu: 63/2026/TT-BXD
 ngay_ban_hanh: 31/07/2026
 ngay_hieu_luc: 15/09/2026
 nguoi_ky: Nguyễn Danh Huy
-trich_yeu: "Ban hành định mức dự toán xây dựng Dự án thành phần 2 thuộc Dự án đầu tư xây dựng tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng; gồm 14 Phụ lục (định mức xây dựng cơ bản, nền đường, cầu cống, hầm, đường ray, viễn thông, tín hiệu, thông tin, điện lực, điện kéo, nhà, cấp thoát nước, hệ thống kỹ thuật cơ khí đầu máy và toa xe, nhà ga); áp dụng để lập dự toán xây dựng đối với Dự án; hiệu lực 15/9/2026."
+trich_yeu: Ban hành định mức dự toán xây dựng Dự án thành phần 2 thuộc Dự án đầu tư xây dựng tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng; gồm 14 Phụ lục (định mức xây dựng cơ bản, nền đường, cầu cống, hầm, đường ray, viễn thông, tín hiệu, thông tin, điện lực, điện kéo, nhà, cấp thoát nước, hệ thống kỹ thuật cơ khí đầu máy và toa xe, nhà ga); áp dụng để lập dự toán xây dựng đối với Dự án; hiệu lực 15/9/2026.
 linh_vuc: Xây dựng / Giao thông / Đầu tư
 co_quan_ban_hanh: Bộ Xây dựng
-docid: 443192
 source_url: https://luatvietnam.vn/dau-tu/thong-tu-63-2026-tt-bxd-dinh-muc-du-toan-xay-dung-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-443192-d1.html
 can_cu_phap_ly:
   - Luật Xây dựng số 135/2025/QH15
@@ -38,7 +45,10 @@ van_ban_lien_quan:
 ngay_tao: 2026-08-09
 lastedit: 2026-08-09
 trang_thai: Hoàn thiện
+linh-vuc: Xây dựng / Giao thông / Đầu tư
+source-url: https://luatvietnam.vn/dau-tu/thong-tu-63-2026-tt-bxd-dinh-muc-du-toan-xay-dung-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-443192-d1.html
 ---
+
 
 # THÔNG TƯ 63/2026/TT-BXD: BAN HÀNH ĐỊNH MỨC DỰ TOÁN XÂY DỰNG DỰ ÁN THÀNH PHẦN 2 THUỘC DỰ ÁN ĐẦU TƯ XÂY DỰNG TUYẾN ĐƯỜNG SẮT LÀO CAI - HÀ NỘI - HẢI PHÒNG
 

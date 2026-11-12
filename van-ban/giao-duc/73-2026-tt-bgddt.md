@@ -1,6 +1,6 @@
 ---
 layout: vanban
-title: "Thông tư số 73/2026/TT-BGDĐT: Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chỉ thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng"
+title: "Thông tư số 73/2026/TT-BGDĐT: Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng"
 date: 2026-08-28
 modified: 2026-09-14
 group: giao-duc
@@ -13,7 +13,7 @@ source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
 # Thông tư số 73/2026/TT-BGDĐT
-## Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chỉ thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng
+## Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng
 
 ## THÔNG TIN VĂN BẢN
 
@@ -23,7 +23,7 @@ source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 - **Loại văn bản:** Thông tư
 - **Cơ quan ban hành:** Bộ Giáo dục và Đào tạo
 - **Người ký:** Đoàn Trung Kiên
-- **Trích yếu:** Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chỉ thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng
+- **Trích yếu:** Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng
 - **Tài liệu đính kèm:**
   - `73-bgddt.signed.pdf`
 
@@ -49,7 +49,7 @@ Căn cứ Nghị định số 186/2025/NĐ-CP ngày 01/7/2025 của Chính phủ
 
 Căn cứ Nghị định số 224/2026/NĐ-CP ngày 24/6/2026 của Chính phủ quy định chỉ tiết một số điều và biện pháp thi hành Luật Chuyên đổi số;
 
-Căn cứ Nghị định số 104/2026/NĐ-CP ngày 31/3/2026 của Chính phủ quy định việc lập dự toán, quản lý, sử dụng và quyết toán chỉ thường xuyên để thực hiện các nhiệm vụ quy định tại Điều 40 Luật Ngân sách nhà nước;
+Căn cứ Nghị định số 104/2026/NĐ-CP ngày 31/3/2026 của Chính phủ quy định việc lập dự toán, quản lý, sử dụng và quyết toán chi thường xuyên để thực hiện các nhiệm vụ quy định tại Điều 40 Luật Ngân sách nhà nước;
 
 Căn cứ Nghị định số 193/2026/NĐ-CP ngày 01/6/2026 của Chính phủ quy định về quyết toán vốn đấu trí dự án;
 
@@ -63,7 +63,7 @@ Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư này.
 
 THÔNG TƯ
 
-Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chỉ thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng
+Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng
 
 ### Chương I
 #### Quy định chung
@@ -76,11 +76,11 @@ Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và
 
    - Quản lý, sử dụng tài sản công;
 
-   - Sử dụng kinh phí chỉ thường xuyên ngân sách nhà nước để mua sắm, sửa chữa, cải tạo, nâng cấp tài sản, trang thiết bị; thuê hàng hóa, dịch vụ; sửa chữa, cải tạo, nâng cấp, mở rộng, xây dựng mới hạng mục công trình trong các dự án đã đầu tư xây dựng;
+   - Sử dụng kinh phí chi thường xuyên ngân sách nhà nước để mua sắm, sửa chữa, cải tạo, nâng cấp tài sản, trang thiết bị; thuê hàng hóa, dịch vụ; sửa chữa, cải tạo, nâng cấp, mở rộng, xây dựng mới hạng mục công trình trong các dự án đã đầu tư xây dựng;
 
    - Tổ chức thẩm định, phê duyệt dự toán nhiệm vụ quy hoạch, dự toán nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng.
 
-   b) Nội dung về thẩm quyền quản lý tài chính, ngân sách, đầu tư công, tài sản công và hoạt động chuyên đổi số sử dụng kinh phí chỉ thường xuyên ngân sách nhà nước không được quy định trong Thông tư này thực hiện theo quy định pháp luật hiện hành.
+   b) Nội dung về thẩm quyền quản lý tài chính, ngân sách, đầu tư công, tài sản công và hoạt động chuyển đổi số sử dụng kinh phí chi thường xuyên ngân sách nhà nước không được quy định trong Thông tư này thực hiện theo quy định pháp luật hiện hành.
 
    c) Trình tự, thủ tục, hồ sơ, chế độ kiểm tra, báo cáo, công khai về tài chính, ngân sách, đầu tư công, tài sản công thực hiện theo quy định pháp luật chuyên ngành, quy định pháp luật có liên quan và quy định tại Thông tư này.
 
@@ -98,7 +98,7 @@ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 1. Tài sản công là tài sản thuộc loại tài sản cố định,do nhà nước 소유 hữu và được quản lý, sử dụng theo quy định của pháp luật.
 
-2. Kinh phí chỉ thường xuyên ngân sách nhà nước là kinh phí được preved ngân sách nhà nước để duy trì hoạt động hàng năm của các đơn vị thuộc ngân sách.
+2. Kinh phí chi thường xuyên ngân sách nhà nước là kinh phí được bố trí trong ngân sách nhà nước để duy trì hoạt động hàng năm của các đơn vị thuộc ngân sách.
 
 3. Dự toán nhiệm vụ là mức tiền được dự toán để thực hiện một nhiệm vụ cụ thể.
 
@@ -145,19 +145,19 @@ Thủ trưởng cơ quan, đơn vị được phân cấp có thẩm quyền quy
 
 1. Báo cáo kinh tế - kỹ thuật, điều chỉnh Báo cáo kinh tế - kỹ thuật;
 
-2. Quyết toán vốn đầu tư dự án sử dụng chỉ thường xuyên sau khi hoàn thành hoạt động chuyên đổi số sử dụng kinh phí chi thường xuyên ngân sách nhà nước.
+2. Quyết toán vốn đầu tư dự án sử dụng chi thường xuyên sau khi hoàn thành hoạt động chuyển đổi số sử dụng kinh phí chi thường xuyên ngân sách nhà nước.
 
 ### Điều 6. Phân cấp thẩm quyền quyết định đối với hoạt động chuyển đổi
 
 Thủ trưởng cơ quan, đơn vị được phân cấp có thẩm quyền quyết định:
 
-1. Phê duyệt chủ trương và dự kiến kinh phí đối với hoạt động chuyên đổi số sử dụng kinh phí chi thường xuyên ngân sách nhà nước;
+1. Phê duyệt chủ trương và dự kiến kinh phí đối với hoạt động chuyển đổi số sử dụng kinh phí chi thường xuyên ngân sách nhà nước;
 
 2. Phê duyệt dự án, điều chỉnh dự án, dừng thực hiện dự án nhóm B, nhóm C;
 
 3. Phê duyệt kế hoạch, điều chỉnh kế hoạch, không thực hiện thuê dịch vụ công nghệ số quy định tại khoản 3 Điều 65, khoản 9, 10 Điều 67 Nghị định số 224/2026/NĐ-CP;
 
-4. Quyết toán vốn đầu tư dự án sử dụng chỉ thường xuyên sau khi hoàn thành hoạt động chuyên đổi số.
+4. Quyết toán vốn đầu tư dự án sử dụng chi thường xuyên sau khi hoàn thành hoạt động chuyển đổi số.
 
 ### Điều 7. Phân cấp thẩm quyền quyết định một số nội dung về tiêu chuẩn, định mức sử dụng trụ sở làm việc, cơ sở hoạt động sự nghiệp, máy móc, thiết bị tại cơ quan, đơn vị
 
@@ -175,7 +175,7 @@ Thủ trưởng cơ quan, đơn vị được phân cấp có thẩm quyền quy
 
 6. Số lượng, mức giá máy móc, thiết bị trang bị cho các chức danh hoặc tại phòng làm việc để phục vụ công tác bảo vệ bí mật nhà nước của cơ quan, đơn vị.
 
-7. Tiêu chuẩn, định mức sử dụng, mức giá máy móc, thiết bị chuyên dùng, diện tích chuyên dùng, diện tích công trình sự nghiệp của cơ quan, đơn vị thuộc phạm vi quản lý (trừ trường hợp đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên và chỉ đầu tư).
+7. Tiêu chuẩn, định mức sử dụng, mức giá máy móc, thiết bị chuyên dùng, diện tích chuyên dùng, diện tích công trình sự nghiệp của cơ quan, đơn vị thuộc phạm vi quản lý (trừ trường hợp đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chỉ đầu tư).
 
 ### Điều 8. Phân cấp thẩm quyền quyết định giao tài sản bằng hiện vật; khoản kinh phí sử dụng tài sản công; khai thác tài sản công
 
@@ -191,7 +191,7 @@ Thủ trưởng cơ quan, đơn vị được phân cấp có thẩm quyền quy
 
 5. Chế độ, tiêu chuẩn, định mức kinh tế - kỹ thuật bảo dưỡng, sửa chữa hoặc định mức chỉ bảo dưỡng, sửa chữa áp dụng đối với tài sản công của cơ quan, đơn vị thuộc phạm vi quản lý trong trường hợp tài sản công chưa có chế độ, tiêu chuẩn, định mức kinh tế - kỹ thuật quy định tại điểm a khoản 3 Điều 39 Luật Quản lý, sử dụng tài sản công.
 
-6. Khai thác tài sản công của cơ quan, đơn vị thuộc phạm vi quản lý (trừ tài sản công của đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên và chỉ đầu tư, tài sản công của đơn vị sự nghiệp công lập tự bảo đảm thường xuyên).
+6. Khai thác tài sản công của cơ quan, đơn vị thuộc phạm vi quản lý (trừ tài sản công của đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chỉ đầu tư, tài sản công của đơn vị sự nghiệp công lập tự bảo đảm thường xuyên).
 
 ### Điều 9. Phân cấp thẩm quyền quyết định xử lý tài sản công
 
@@ -203,17 +203,17 @@ a) Thu hồi tài sản công của cơ quan, đơn vị thuộc phạm vi quả
 
 b) Điều chuyển tài sản công; vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công của cơ quan, đơn vị thuộc phạm vi quản lý cho cơ quan, đơn vị thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo (trừ tài sản là trụ sở làm việc, cơ sở hoạt động sự nghiệp, điều chuyển tài sản công trong trường hợp đặc biệt theo quy định tại khoản 2 Điều 20 Nghị định số 186/2025/NĐ-CP).
 
-c) Tiêu hủy tài sản công của cơ quan, đơn vị thuộc phạm vi quản lý (trừ trường hợp tiêu hủy tài sản công tại đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên và chỉ đầu tư).
+c) Tiêu hủy tài sản công của cơ quan, đơn vị thuộc phạm vi quản lý (trừ trường hợp tiêu hủy tài sản công tại đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chỉ đầu tư).
 
-d) Xử lý tài sản công trong trường hợp bị mất, bị hủy hoại đối với tài sản công là tài sản cô định của cơ quan, đơn vị thuộc phạm vi quản lý (trừ trường hợp tài sản công tại đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên và chỉ đầu tư).
+d) Xử lý tài sản công trong trường hợp bị mất, bị hủy hoại đối với tài sản công là tài sản cô định của cơ quan, đơn vị thuộc phạm vi quản lý (trừ trường hợp tài sản công tại đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chỉ đầu tư).
 
 2. Xử lý tài sản công theo hình thức bán, thanh lý
 
-a) Chánh Văn phòng, Cục trưởng các Cục thuộc Bộ Giáo dục và Đào tạo có thẩm quyền quyết định bán, thanh lý tài sản công; bán vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công của cơ quan, đơn vị thuộc phạm vi quản lý (trừ tài sản công của đơn vị sự nghiệp công lập tự bảo đảm chỉ thường xuyên và chỉ đầu tư).
+a) Chánh Văn phòng, Cục trưởng các Cục thuộc Bộ Giáo dục và Đào tạo có thẩm quyền quyết định bán, thanh lý tài sản công; bán vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công của cơ quan, đơn vị thuộc phạm vi quản lý (trừ tài sản công của đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chỉ đầu tư).
 
-b) Thủ trưởng đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo có thẩm quyền quyết định bán đối với tài sản công, vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công có nguyên giá từ 250 triệu đồng trở lên/01 đơn vị tài sản, tài sản có giá trị đánh giá lại từ 50 triệu đồng trở lên/01 đơn vị tài sản tại đơn vị hoặc đơn vị cấp dưới (trừ tài sản công của đơn vị sự nghiệp công lập tự bảo dams chỉ thường xuyên và chỉ đầu tư).
+b) Thủ trưởng đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo có thẩm quyền quyết định bán đối với tài sản công, vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công có nguyên giá từ 250 triệu đồng trở lên/01 đơn vị tài sản, tài sản có giá trị đánh giá lại từ 50 triệu đồng trở lên/01 đơn vị tài sản tại đơn vị hoặc đơn vị cấp dưới (trừ tài sản công của đơn vị sự nghiệp công lập tự bảo dams chi thường xuyên và chỉ đầu tư).
 
-c) Thủ trưởng đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo có thẩm quyền quyết định thanh lý đối với tài sản có nguyên giá từ 500 triệu đồng trở lên/01 đơn vị tài sản hoặc tài sản có giá trị đánh giá lại từ 50 triệu đồng trở lên/01 đơn vị tài sản trong trường hợp tài sản chưa được theo dõi trên số kế toán của đơn vị hoặc đơn vị cấp dưới (trừ tài sản công của đơn vị sự nghiệp công lập tự bảo dams chỉ thường xuyên và chỉ đầu tư).
+c) Thủ trưởng đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo có thẩm quyền quyết định thanh lý đối với tài sản có nguyên giá từ 500 triệu đồng trở lên/01 đơn vị tài sản hoặc tài sản có giá trị đánh giá lại từ 50 triệu đồng trở lên/01 đơn vị tài sản trong trường hợp tài sản chưa được theo dõi trên số kế toán của đơn vị hoặc đơn vị cấp dưới (trừ tài sản công của đơn vị sự nghiệp công lập tự bảo dams chi thường xuyên và chỉ đầu tư).
 
 3. Cơ quan, đơn vị, người được phân cấp thẩm quyền quyết định giao, xử lý tài sản công theo quy định tại Thông tư này quyết định việc chuyển đổi công năng sử dụng tài sản công trong trường hợp giao, xử lý tài sản công kết hợp với chuyển đổi công năng sử dụng tài sản công.
 
@@ -277,13 +277,13 @@ Thủ trưởng cơ quan, đơn vị được phân cấp có thẩm quyền t�
 
 2. Việc thực hiện các bước tiếp theo của nhiệm vụ, phương án, đề án quy định tại khoản 1 Điều này, bao gồm cả trường hợp điều chỉnh, áp dụng quy định về thẩm quyền tại Thông tư này, trừ trường hợp pháp luật chuyên ngành có quy định khác hoặc cấp có thẩm quyền quyết định khác để bảo đảm quản lý chặt chẽ, tiết kiệm, hiệu quả.
 
-3. Đối với nhiệm vụ, dự án sử dụng kinh phí chỉ thường xuyên đã được phê duyệt trước ngày Thông tư này có hiệu lực nhưng chưa hoàn thành việc thẩm tra, phê duyệt quyết toán vốn đầu tư dự án sử dụng chỉ thường xuyên ngân sách nhà nước, Thủ trưởng cơ quan, đơn vị căn cứ quy định phân cấp tại Thông tư này để thực hiện thẩm quyền của cấp quyết định đầu tư trong việc thẩm tra, phê duyệt quyết toán vốn đầu tư dự án sử dụng chỉ thường xuyên ngân sách nhà nước, trừ trường hợp pháp luật chuyên ngành có quy định khác.
+3. Đối với nhiệm vụ, dự án sử dụng kinh phí chi thường xuyên đã được phê duyệt trước ngày Thông tư này có hiệu lực nhưng chưa hoàn thành việc thẩm tra, phê duyệt quyết toán vốn đầu tư dự án sử dụng chi thường xuyên ngân sách nhà nước, Thủ trưởng cơ quan, đơn vị căn cứ quy định phân cấp tại Thông tư này để thực hiện thẩm quyền của cấp quyết định đầu tư trong việc thẩm tra, phê duyệt quyết toán vốn đầu tư dự án sử dụng chi thường xuyên ngân sách nhà nước, trừ trường hợp pháp luật chuyên ngành có quy định khác.
 
 ### Điều 16. Hiệu lực thi hành
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày ký ban hành.
 
-2. Kể từ ngày Thông tư này có hiệu lực thi hành, các quy định trước đây của Bộ trưởng Bộ Giáo dục và Đào tạo về phân cấp thẩm quyền trong các lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chỉ thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng thuộc phạm vi điều chỉnh của Thông tư này hết hiệu lực thi hành.
+2. Kể từ ngày Thông tư này có hiệu lực thi hành, các quy định trước đây của Bộ trưởng Bộ Giáo dục và Đào tạo về phân cấp thẩm quyền trong các lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng thuộc phạm vi điều chỉnh của Thông tư này hết hiệu lực thi hành.
 
 3. Trường hợp các văn bản quy phạm pháp luật được viện dẫn tại Thông tư này được sửa đổi, bổ sung, thay thế thì áp dụng theo văn bản sửa đổi, bổ sung, thay thế. Trường hợp nội dung tại Thông tư này khác với quy định của văn bản quy phạm pháp luật có hiệu lực pháp lý cao hơn hoặc văn bản ban hành sau thì áp dụng quy định của văn bản quy phạm pháp luật đó.
 

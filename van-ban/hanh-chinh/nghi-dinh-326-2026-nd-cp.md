@@ -2,14 +2,14 @@
 layout: vanban
 title: "Nghị định 326/2026/NĐ-CP Quy định về định danh địa điểm"
 date: 2026-08-19
-modified: 2026-08-21
+modified: 2026-11-12
 group: hanh-chinh
 tags:
   - định danh địa điểm
   - Bộ Công an
   - cơ sở dữ liệu quốc gia
-docid: 326/2026/NĐ-CP
-source: luatvietnam.vn
+docid: "219221"
+source: vanban.chinhphu.vn (docid 219221); datafiles.chinhphu.vn; luatvietnam.vn
 ---
 
 # Nghị định 326/2026/NĐ-CP Quy định về định danh địa điểm
@@ -18,8 +18,9 @@ source: luatvietnam.vn
 - **Số hiệu:** 326/2026/NĐ-CP
 - **Ngày ban hành:** 19/08/2026
 - **Ngày hiệu lực:** 01/09/2026
-- **Người ký:** Phó Thủ tướng Nguyễn Văn Thắng
+- **Người ký:** Phó Thủ tướng Hồ Quốc Dũng
 - **Cơ quan ban hành:** Chính phủ
+- **Căn cứ pháp luật:** Luật Tổ chức Chính phủ số 63/2025/QH15; Luật Tổ chức chính quyền địa phương số 72/2025/QH15; Luật Dữ liệu số 60/2024/QH15; Luật Đất đai số 31/2024/QH15; Luật Đo đạc và Bản đồ số 27/2018/QH14; Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15
 - **Trích yếu:** Quy định về định danh địa điểm.
 
 ## VĂN BẢN
@@ -35,11 +36,19 @@ CHÍNH PHỦ
 NGHỊ ĐỊNH
 Quy định về định danh địa điểm
 
+Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
+Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;
+Căn cứ Luật Dữ liệu số 60/2024/QH15;
+Căn cứ Luật Đất đai số 31/2024/QH15;
+Căn cứ Luật Đo đạc và Bản đồ số 27/2018/QH14;
+Căn cứ Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15;
+
 Theo đề nghị của Bộ trưởng Bộ Công an;
  Chính phủ ban hành Nghị định quy định về định danh địa điểm.
 
 ## Chương I
- QUY ĐỊNH CHUNG
+## QUY ĐỊNH CHUNG
 
 ### Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
 
@@ -64,7 +73,7 @@ d) Các cơ quan, tổ chức, cá nhân khác có liên quan.
 3. Cơ quan quản lý định danh địa điểm là cơ quan được Bộ Công an giao thực hiện nhiệm vụ xây dựng, quản lý Cơ sở dữ liệu định danh địa điểm.
 
 ## Chương II
- ĐỊNH DANH ĐỊA ĐIỂM VÀ CƠ SỞ DỮ LIỆU ĐỊNH DANH ĐỊA ĐIỂM
+## ĐỊNH DANH ĐỊA ĐIỂM VÀ CƠ SỞ DỮ LIỆU ĐỊNH DANH ĐỊA ĐIỂM
 
 ### Điều 3. Nguyên tắc định danh địa điểm
 
@@ -104,7 +113,7 @@ e) Thông tin tọa độ theo hệ tọa độ quốc gia VN-2000 hoặc hệ t
 
 g) Các thông tin của giấy chứng nhận quyền sử dụng đất (nếu có);
 
-h) Trạng thái hoạt động của địa điểm: đang hoạt động, sử dụng, ngừng sử dụng, chuyển địa điểm, thay đổi cấu trúc, tính chất của địa điểm;
+h) Trạng thái hoạt động của địa điểm: đang hoạt động, sử dụng, ngừng sử dụng, chuyển địa điểm, thay đổi cấu trúc, tính chất của địa điểm;
 
 i) Tên địa điểm;
 
@@ -144,19 +153,19 @@ d) Trường hợp dữ liệu về cùng một địa điểm có sự sai lệ
 
 1. Dữ liệu định danh địa điểm được kết nối, chia sẻ, khai thác phục vụ quản lý nhà nước và phát triển kinh tế xã hội. Việc chia sẻ, khai thác dữ liệu định danh địa điểm phải đúng mục đích, phạm vi và thẩm quyền; không yêu cầu cung cấp thành phần hồ sơ giải quyết thủ tục hành chính mà các thông tin trong thành phần hồ sơ đã có dữ liệu trong Cơ sở dữ liệu định danh địa điểm.
 
-2. Đối tượng, phương thức khai thác thông tin trong Cơ sở dữ liệu định danh địa điểm được quy định như sau:
+2. Đối tượng, phương thức khai thác thông tin trong Cơ sở dữ liệu định danh địa điểm được quy định như sau:
 
 a) Tổ chức, cá nhân được khai thác dữ liệu công khai về định danh địa điểm trên ứng dụng định danh quốc gia (VNeID);
 
-b) Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội được khai thác thông tin trong Cơ sở dữ liệu định danh địa điểm để thực hiện chức năng, nhiệm vụ thông qua nền tảng chia sẻ, điều phối dữ liệu quốc gia, nền tảng định danh và xác thực điện tử và các nền tảng tích hợp, chia sẻ dữ liệu khác theo quy định của pháp luật về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước;
+b) Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội được khai thác thông tin trong Cơ sở dữ liệu định danh địa điểm để thực hiện chức năng, nhiệm vụ thông qua nền tảng chia sẻ, điều phối dữ liệu quốc gia, nền tảng định danh và xác thực điện tử và các nền tảng tích hợp, chia sẻ dữ liệu khác theo quy định của pháp luật về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước;
 
-c) Tổ chức, cá nhân được khai thác thông tin của mình trong Cơ sở dữ liệu định danh địa điểm thông qua ứng dụng định danh quốc gia.
+c) Tổ chức, cá nhân được khai thác thông tin của mình trong Cơ sở dữ liệu định danh địa điểm thông qua ứng dụng định danh quốc gia.
  Trường hợp khai thác thông tin của người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người dưới 14 tuổi phải được sự đồng ý của người đại diện hợp pháp hoặc người giám hộ; trường hợp người bị tuyên bố mất tích phải được sự đồng ý của người đang quản lý tài sản của người đó; trường hợp người đã chết phải được sự đồng ý của người thừa kế;
 
 d) Người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người dưới 14 tuổi khai thác thông tin của mình thông qua người đại diện hợp pháp hoặc người giám hộ. Việc khai thác thông tin của người bị tuyên bố mất tích do người quản lý tài sản của người đó quyết định;
 
 đ) Tổ chức, cá nhân không thuộc các trường hợp quy định tại điểm a, điểm b, điểm c và điểm d khoản này được khai thác dữ liệu về định danh địa điểm qua tổ chức cung cấp dịch vụ xác thực điện tử và phải nộp phí khai thác và sử dụng thông tin.
- Trường hợp có nhu cầu khai thác thông tin khác trong Cơ sở dữ liệu định danh địa điểm, phải được sự đồng ý của chủ sở hữu, quản lý địa điểm đó.
+ Trường hợp có nhu cầu khai thác thông tin khác trong Cơ sở dữ liệu định danh địa điểm, phải được sự đồng ý của chủ sở hữu, quản lý địa điểm đó.
 
 3. Dữ liệu định danh địa điểm được quản lý và phân loại như sau:
 
@@ -164,7 +173,7 @@ a) Dữ liệu công khai: Bao gồm các dữ liệu được quy định tại
 
 b) Dữ liệu không công khai: Bao gồm các dữ liệu được quy định tại điểm g, k, l, m, o, q khoản 2 Điều 5 Nghị định này. Việc khai thác, chia sẻ dữ liệu không công khai phải tuân thủ quy định pháp luật về bảo vệ dữ liệu cá nhân, bảo vệ bí mật nhà nước.
 
-4. Thủ trưởng cơ quan quản lý định danh địa điểm của Bộ Công an có thẩm quyền cho phép khai thác thông tin trong Cơ sở dữ liệu định danh địa điểm.
+4. Thủ trưởng cơ quan quản lý định danh địa điểm của Bộ Công an có thẩm quyền cho phép khai thác thông tin trong Cơ sở dữ liệu định danh địa điểm.
 
 ### Điều 8. Điều kiện, trình tự kết nối, khai thác thông tin trong Cơ sở dữ liệu định danh địa điểm
 
@@ -181,7 +190,7 @@ b) Dữ liệu không công khai: Bao gồm các dữ liệu được quy địn
 6. Thông tin được khai thác từ Cơ sở dữ liệu định danh địa điểm chỉ được sử dụng đúng mục đích cho phép và không được chuyển giao, chia sẻ hoặc cung cấp cho cơ quan, tổ chức, cá nhân khác dưới mọi hình thức. Việc chia sẻ thông tin chỉ được thực hiện khi có yêu cầu hoặc sự đồng ý của chủ thể dữ liệu theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
 
 ## Chương III
- TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
+## TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
 
 ### Điều 9. Trách nhiệm của Bộ Công an
 
@@ -229,7 +238,7 @@ Hướng dẫn đặt tên, đổi tên đường, phố, công trình công c�
 
 ### Điều 14. Trách nhiệm của Bộ Quốc phòng
 
-Chủ trì, phối hợp với các cơ quan, đơn vị liên quan thực hiện việc định danh địa điểm đối với các đối tượng thuộc phạm vi quản lý và không thuộc danh mục bí mật nhà nước trong lĩnh vực quốc phòng; đảm bảo tính thống nhất về tọa độ, địa chỉ, tuân thủ nghiêm ngặt quy định về bảo vệ bí mật nhà nước.
+Chủ trì, phối hợp với các cơ quan, đơn vị liên quan thực hiện việc định danh địa điểm đối với các đối tượng thuộc phạm vi quản lý và không thuộc danh mục bí mật nhà nước trong lĩnh vực quốc phòng; đảm bảo tính thống nhất về tọa độ, địa chỉ, tuân thủ nghiêm ngặt quy định về bảo vệ bí mật nhà nước.
 
 ### Điều 15. Trách nhiệm của bộ, cơ quan ngang bộ
 
@@ -243,4 +252,147 @@ Chủ trì, phối hợp với các cơ quan, đơn vị liên quan thực hiệ
 
 1. Ủy ban nhân dân cấp tỉnh có trách nhiệm phối hợp với bộ, cơ quan ngang bộ trong việc thu thập, tạo lập, cập nhật dữ liệu vào Cơ sở dữ liệu định danh địa điểm.
 
-2. Phân công, chỉ đạo các cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cấp xã thu thập, kiểm tra, cập nhật và quản lý dữ liệu trong các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phục vụ định danh địa điểm theo chức năng, nhiệm vụ và phạm vi quản lý của từng cơ quan, đơn vị tương ứng.
+2. Phân công, chỉ đạo các cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cấp xã thu thập, kiểm tra, cập nhật và quản lý dữ liệu trong các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phục vụ định danh địa điểm theo chức năng, nhiệm vụ và phạm vi quản lý của từng cơ quan, đơn vị tương ứng. với danh mục đối tượng được định danh ban hành theo Nghị định này.
+
+3. Tổ chức đánh số, gắn biển số nhà, công trình xây dựng theo hướng dẫn của Bộ Xây dựng; đặt tên, đổi tên đường, phố, công trình công cộng theo hướng dẫn của Bộ Xây dựng và Bộ Văn hóa, Thể thao và Du lịch.
+
+4. Thực hiện thu thập, tạo lập dữ liệu bản đồ nền, dữ liệu không gian phục vụ xây dựng bản sao số, đồng bộ dữ liệu về Cơ sở dữ liệu định danh địa điểm.
+
+## Chương IV
+## ĐIỀU KHOẢN THI HÀNH
+
+### Điều 17. Điều khoản chuyển tiếp
+
+1. Đối với các đối tượng thuộc danh mục định danh địa điểm đã có đầy đủ thông tin tối thiểu theo quy định tại khoản 2 Điều 6 của Nghị định này thì các bộ, cơ quan ngang bộ thực hiện đồng bộ về Cơ sở dữ liệu định danh địa điểm để đảm bảo thực hiện khi Nghị định này có hiệu lực thi hành.
+
+2. Đối với các đối tượng thuộc danh mục định danh địa điểm nhưng chưa có đầy đủ các thông tin phục vụ định danh địa điểm theo khoản 2 Điều 6 thì các bộ, cơ quan ngang bộ chủ trì, phối hợp với Bộ Công an xây dựng lộ trình thực hiện thu thập, tạo lập, bổ sung và đồng bộ về Cơ sở dữ liệu định danh địa điểm.
+
+### Điều 18. Điều khoản thi hành
+
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 9 năm 2026.
+
+2. Bộ Công an chịu trách nhiệm hướng dẫn, kiểm tra, đôn đốc việc thực hiện Nghị định này.
+
+3. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
+
+**Nơi nhận:**
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục, Công báo;
+- Lưu: VT, CĐS (2).
+
+**TM. CHÍNH PHỦ**
+**KT. THỦ TƯỚNG**
+**PHÓ THỦ TƯỚNG**
+
+**Hồ Quốc Dũng**
+
+## PHỤ LỤC
+
+**DANH MỤC ĐỐI TƯỢNG ĐỊNH DANH ĐỊA ĐIỂM**
+
+*(Kèm theo Nghị định số 326/2026/NĐ-CP ngày 19 tháng 8 năm 2026 của Chính phủ)*
+
+| STT | Đối tượng định danh địa điểm | Mã đối tượng |
+|---|---|---|
+| **I** | **Biên giới địa giới** | |
+| 1 | - Cột mốc điểm cơ sở | AB01 |
+| 2 | - Điểm cơ sở | AB02 |
+| 3 | - Mốc quốc giới | AC02 |
+| 4 | - Cửa khẩu | CH01 |
+| **II** | **Mốc địa giới hành chính** | |
+| 5 | - Mốc địa giới cấp tỉnh | AD08 |
+| 6 | - Mốc địa giới cấp xã | AD09 |
+| **III** | **Cơ sở đo đạc** | |
+| 7 | - Trạm định vị vệ tinh quốc gia | BD02 |
+| **IV** | **Hạ tầng kỹ thuật khác** | |
+| 8 | - Công trình xử lý bùn | CR03 |
+| 9 | - Nhà máy/công trình xử lý nước sạch đô thị | CR04 |
+| 10 | - Trụ nước chữa cháy | CR13 |
+| 11 | - Tháp nước, bể nước đô thị | CR19 |
+| 12 | - Trạm quan trắc khí tượng thủy văn | CR20 |
+| 13 | - Trạm quan trắc môi trường | CR21 |
+| 14 | - Trạm quan trắc tài nguyên nước | CR22 |
+| **V** | **Công trình văn hóa** | |
+| 15 | - Công trình di tích | CN04 |
+| 16 | - Lăng tẩm | CN11 |
+| 17 | - Tháp cổ | CN18 |
+| **VI** | **Công trình tôn giáo, tín ngưỡng** | |
+| 18 | - Chùa | CM01 |
+| 19 | - Đền | CM04 |
+| 20 | - Đình | CM05 |
+| 21 | - Miếu | CM07 |
+| **VII** | **Trụ sở cơ quan nhà nước** | CV00 |
+| **VIII** | **Cơ sở sản xuất nông, lâm nghiệp** | |
+| 22 | - Cơ sở nuôi trồng thủy sản | CB03 |
+| 23 | - Nông trường | CB05 |
+| 24 | - Trang trại | CB07 |
+| **IX** | **Công trình xử lý chất thải** | |
+| 25 | - Bãi chôn lấp rác | CO01 |
+| 26 | - Cơ sở xử lý chất thải nguy hại | CO02 |
+| 27 | - Cơ sở xử lý chất thải rắn | CO03 |
+| 28 | - Nhà máy/trạm xử lý nước thải tập trung thuộc hệ thống thoát nước và xử lý nước thải đô thị | CO04 |
+| 29 | - Khu xử lý chất thải | CO05 |
+| 30 | - Trạm trung chuyển chất thải rắn | CO06 |
+| **X** | **Công trình an ninh** | |
+| 31 | - Trung tâm phòng cháy, chữa cháy | CC04 |
+| **XI** | **Công trình khác** | |
+| **XII** | **Địa hình đặc biệt trên đất liền** | |
+| 32 | - Cửa hang động | EB02 |
+| **XIII** | **Giao thông** | |
+| 33 | - Đường chuyên dùng | GK01 |
+| 34 | - Đường đô thị | GK02 |
+| 35 | - Đường quốc lộ | GK04 |
+| 36 | - Đường tỉnh | GK05 |
+| 37 | - Đường xã | GK06 |
+| 38 | - Bãi đỗ xe | GG01 |
+| 39 | - Bến ô tô | GG02 |
+| 40 | - Bến phà đường bộ | GG03 |
+| 41 | - Cầu đường bộ | GG05 |
+| 42 | - Cống đường bộ | GG06 |
+| 43 | - Hầm đường bộ | GG12 |
+| 44 | - Trạm dừng nghỉ | GG15 |
+| 45 | - Trạm kiểm soát tải trọng xe | GG16 |
+| 46 | - Trạm thu phí đường bộ | GG17 |
+| 47 | - Đường sắt quốc gia | GL03 |
+| 48 | - Ga đường sắt | GH01 |
+| 49 | - Giao đường sắt và đường bộ có rào chắn | GH03 |
+| 50 | - Giao đường sắt và đường bộ không có rào chắn | GH04 |
+| 51 | - Cảng hàng không | GN02 |
+| 52 | - Đường cất hạ cánh | GN04 |
+| 53 | - Nhà ga hành khách tại cảng hàng không | GN06 |
+| 54 | - Âu tàu | GM01 |
+| 55 | - Bến cảng biển | GM03 |
+| 56 | - Bến thủy nội địa | GM04 |
+| 57 | - Cảng thủy nội địa | GM07 |
+| **XIV** | **Nguồn nước** | |
+| 58 | - Giếng nước | KM01 |
+| 59 | - Mạch nước | KM02 |
+| 60 | - Sông, suối (Mạng dòng chảy) | KK01 |
+| **XV** | **Mặt nước tĩnh** | |
+| 61 | - Ao, hồ, đầm | KL02 |
+| 62 | - Hồ chứa (thủy điện, thủy lợi) | KL03 |
+| **XVI** | **Công trình trên đê** | |
+| 63 | - Cửa khẩu qua đê | KH01 |
+| 64 | - Điểm canh đê | KH02 |
+| 65 | - Kè bảo vệ đê | KG01 |
+| 66 | - Cống thủy lợi | KG02 |
+| 67 | - Đập dâng | KG03 |
+| 68 | - Đê (tuyến đê, đoạn đê) | KG04 |
+| 69 | - Kênh, mương | KG05 |
+| 70 | - Trạm bơm | KG09 |
+| **XVII** | **Thửa đất** | |
+| 71 | - Thửa đất | LA01 |
+| **XVIII** | **Đối tượng đặc thù khác phát sinh trong thực tiễn** | |

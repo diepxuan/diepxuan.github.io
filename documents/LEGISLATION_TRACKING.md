@@ -1,4 +1,51 @@
 
+### Ghi nhận 2026-11-12 — Văn bản thiếu Điều so với PDF gốc (cần crawl bổ sung)
+
+Phát hiện trong quá trình dedupe PR #264. Đây là thiếu hụt **có từ trước**, không do gộp bản trùng.
+Đã đối chiếu PDF chữ ký số từ `datafiles.chinhphu.vn` bằng OCR tesseract vie 200 DPI.
+
+| Văn bản | Docid | Số Điều trong file | Số Điều theo PDF | Thiếu |
+|---|---|---|---|---|
+| 312/2026/NĐ-CP | 219156 | 17 (Điều 1-17) | 21 | Điều 18-21 |
+| 315/2026/NĐ-CP | 219155 | 17 (Điều 1-17) | 22 | Điều 18-22 + Chương VI |
+| 316/2026/NĐ-CP | 219169 | 1 | 3 | Điều 2, Điều 3 (hiệu lực 01/10/2026) |
+| 317/2026/NĐ-CP | 219168 | 9 (Điều 1-9) | 34 (5 Chương) | Điều 10-34, Chương IV-V |
+
+**Trạng thái**: các file trên vẫn để **Hoàn thiện** vì nội dung hiện có đã sạch lỗi OCR và đúng nguồn, nhưng **thiếu toàn văn**. Không tự bịa nội dung thiếu.
+
+**Việc cần làm**: tách task crawl bổ sung toàn văn 4 văn bản trên, theo Signed PDF OCR Pipeline + OCR Quality Gate. Ưu tiên 317 (thiếu 25/34 Điều) và 316 (thiếu 2/3 Điều).
+
+**Phụ lục chưa xử lý**: 315 có Phụ lục I-III, 319 có Phụ lục — OCR nhiễu, không đưa vào file, không bịa.
+
+---
+
+
+### Cập nhật 2026-11-12 v203 — Hoàn thiện PR #264 (dọn nợ + sửa lỗi OCR toàn bộ)
+
+**Phạm vi**: 136 văn bản chưa publish trong PR #264 + 21 nhóm trùng số hiệu.
+
+**Đã sửa trong đợt này**:
+- Front matter: bổ sung field thiếu cho 6 file (327/NĐ-CP, 136/TT-BCA, 40/TT-NHNN, 63/TT-BXD, 39/TT-NHNN, NQ 39) và thêm front matter cho 2 file thiếu hoàn toàn (324/NĐ-CP, NQ 39/2026).
+- Xoá ghi chú crawler lọt vào nội dung public ở 5 file (10/TT-BTP, 34/TT-BNNMT, 322/NĐ-CP, 18/TT-BNV, 115/TT-BQP).
+- Sửa lỗi OCR từ ngữ: "chỉ thường xuyên" → "chi thường xuyên" (48 chỗ), "chuyên đổi số" → "chuyển đổi số" (9 chỗ), "hăng năm" → "hằng năm", "kInh phí" → "kinh phí", "thâm quyền" → "thẩm quyền".
+- Sửa lỗi cấu trúc: heading `### Điều 42.` chen giữa câu trong NĐ 347/NĐ-CP.
+- Dedupe 21 nhóm trùng số hiệu (52 file dư) — giữ bản đầy đủ nhất, chèn phần thiếu từ bản kia.
+- Dọn nợ: xoá 11 file `tmp/` khỏi main, gộp 3 bản tracking về `documents/LEGISLATION_TRACKING.md`, xoá 8 báo cáo rời ở root và `van-ban/`.
+- Thêm `.gitignore` cho `tmp/`, `workspace/`, `output/` (PR #265).
+
+**Trạng thái 73/2026/TT-BGDĐT**: từ "Đang cập nhật" → **Hoàn thiện**. Gate pass (0 issue, 16 Điều, 4 Chương, không thiếu/trùng).
+
+**Gate**: `scripts/ocr_quality_gate_scan.py` phiên bản 2 — regex có ngữ cảnh, loại false positive `ngày l`/`ngày L`/`Điền`/`khoản I`/`µ`, bổ sung pattern `chỉ thường xuyên`, `chuyên đổi số`, ghi chú crawler. Kết quả 646/646 văn bản PASS.
+
+**Ghi chú**: 5 văn bản discovery v201/v202 (356/NĐ-CP, 136/TT-BTC, 50/TT-BCT, 355/NĐ-CP, 354/NĐ-CP) vẫn ở trạng thái "Chưa có", chưa crawl toàn văn.
+
+**Session**: main session (Sếp yêu cầu trực tiếp)
+**Branch**: heartbeat/crawl-vanban-20260807 (PR #264 active)
+**Thời gian**: 2026-11-12 ICT Asia/Saigon
+
+---
+
+
 ### Cập nhật 2026-09-15 v202 — Đệ #1 Discovery & Tracking (poll top-50 — 20:28 ICT)
 
 **Phương pháp**: GET trực tiếp HTML tĩnh `https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&maxresults=50`, parse đủ 50 hàng. Đối chiếu kép theo **docid** và **số hiệu** với `documents/LEGISLATION_TRACKING.md` + toàn bộ `van-ban/**`; chuẩn hóa Cyrillic U+0420→P Latin, NFD, `đ→d` và so khớp boundary-aware.
@@ -37,7 +84,7 @@
 | 1 | **340/2026/NĐ-CP** | Sửa đổi, bổ sung một số điều của Nghị định số 140/2004/NĐ-CP ngày 25 tháng 6 năm 2004 của Chính phủ quy định chi tiết một số điều của Luật Biên giới quốc gia | [219342](https://vanban.chinhphu.vn/?pageid=27160&docid=219342) | 28/08/2026 | Phan Văn Giang | `cpp/files/vbpq/2026/9/340_2026_nd-cp_28082026-signed.signed.pdf` | 16-10-2026 | **Hoàn thiện** |
 | 2 | **341/2026/NĐ-CP** | Quy định chi tiết một số điều và biện pháp thi hành Luật An ninh mạng về hoạt động mật mã dân sự | [219343](https://vanban.chinhphu.vn/?pageid=27160&docid=219343) | 01/09/2026 | Phan Văn Giang | `cpp/files/vbpq/2026/9/341_2026_nd-cp_01092026-signed.signed.pdf` | 01-09-2026 | **Hoàn thiện** |
 | 3 | **45/2026/TT-BCT** | Ban hành các Sửa đổi Quy chuẩn kỹ thuật quốc gia về vật liệu nổ công nghiệp | [219360](https://vanban.chinhphu.vn/?pageid=27160&docid=219360) | 28/08/2026 | Trương Thanh Hoài | `cpp/files/vbpq/2026/9/45-bct.signed.pdf`, `45-bct-1.signed.pdf`, `45-bct-2.signed.pdf`, `45-bct-3.signed.pdf` | 01-11-2026 | **Hoàn thiện** |
-| 4 | **73/2026/TT-BGDĐT** | Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng | [219361](https://vanban.chinhphu.vn/?pageid=27160&docid=219361) | 28/08/2026 | Đoàn Trung Kiên | `cpp/files/vbpq/2026/9/73-bgddt.signed.pdf` | 28-08-2026 | **Đang cập nhật (draft, cần fix OCR/nội dung)** |
+| 4 | **73/2026/TT-BGDĐT** | Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực quản lý, sử dụng tài sản công; mua sắm, sửa chữa, cải tạo, nâng cấp tài sản công sử dụng kinh phí chi thường xuyên ngân sách nhà nước; phê duyệt dự toán nhiệm vụ quy hoạch, nhiệm vụ chuẩn bị đầu tư dự án đầu tư công không có cấu phần xây dựng | [219361](https://vanban.chinhphu.vn/?pageid=27160&docid=219361) | 28/08/2026 | Đoàn Trung Kiên | `cpp/files/vbpq/2026/9/73-bgddt.signed.pdf` | 28-08-2026 | **Hoàn thiện** |
 | 5 | **128/2026/TT-BTC** | Quy định về kiểm tra, giám sát và quản lý hải quan đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải hoạt động trong khu vực cửa khẩu thông minh được Thủ tướng Chính phủ phê duyệt | [219363](https://vanban.chinhphu.vn/?pageid=27160&docid=219363) | 27/08/2026 | Nguyễn Đức Chi | `cpp/files/vbpq/2026/9/128-btc.signed.pdf` | 15-10-2026 | **Hoàn thiện** |
 
 **Ghi chú**: Cả 5 văn bản đều có PDF chữ ký số CAdES-BES tại datafiles.chinhphu.vn. Khi được chọn, phải áp dụng Signed PDF OCR Pipeline và OCR Quality Gate trước khi commit.

@@ -3,6 +3,14 @@ layout: vanban
 title: "Quy định cơ chế phối hợp giữa các bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố trong công tác quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam"
 date: 2026-07-17
 modified: 2026-08-18
+group: chinh-phu
+tags:
+  - Nghị định
+  - nhập cảnh
+  - xuất cảnh
+  - cư trú
+  - người nước ngoài
+docid: "286/2026/NĐ-CP"
 sohieu: "286/2026/NĐ-CP"
 ngaybanhanh: 2026-07-17
 ngayhieuluc: 2026-09-14

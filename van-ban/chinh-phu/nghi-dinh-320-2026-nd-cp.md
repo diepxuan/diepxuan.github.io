@@ -2,8 +2,8 @@
 layout: vanban
 title: "Nghị định 320/2026/NĐ-CP: Sửa đổi, bổ sung một số điều của Nghị định số 69/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định về định danh và xác thực điện tử"
 date: 2026-08-13
-modified: 2026-08-19
-group: "Hành chính"
+modified: 2026-11-12
+group: hanh-chinh
 tags:
   - "Nghị định"
   - "Chính phủ"
@@ -12,8 +12,8 @@ tags:
   - "Ứng dụng định danh quốc gia"
   - "Sửa đổi bổ sung"
   - "NĐ 69/2024"
-docid: "320/2026/NĐ-CP"
-source: "vanban.chinhphu.vn; datafiles.chinhphu.vn"
+docid: 219189
+source: vanban.chinhphu.vn; datafiles.chinhphu.vn
 ---
 
 # Nghị định 320/2026/NĐ-CP: Sửa đổi, bổ sung một số điều của Nghị định số 69/2024/NĐ-CP ngày 25 tháng 6 năm 2024 của Chính phủ quy định về định danh và xác thực điện tử

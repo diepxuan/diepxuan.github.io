@@ -9,8 +9,8 @@ tags:
   - dien-gio-ngoai-khoi
   - nghi-dinh
   - nang-luong-tai-tao
-docid: chua-xac-minh
-source: chinhphu.vn; baochinhphu.vn; doanhnghiephoinhap.vn; vietstock.vn; vneconomy.vn
+docid: "272/2026/NĐ-CP"
+source: baochinhphu.vn
 loai_van_ban: Nghị định
 co_quan_ban_hanh: Chính phủ
 nguoi_ky: Thủ tướng Chính phủ
@@ -44,10 +44,4 @@ can_cu_phap_ly:
 
 **Trích yếu:** Quy định chi tiết một số điều và biện pháp thi hành Nghị quyết số 253/2025/QH15; quy định chi tiết Điều 4, Điều 10, Điều 11, Điều 12 của Nghị quyết 253/2025/QH15 về cơ chế, điều kiện khảo sát, chấp thuận chủ trương đầu tư và triển khai các dự án điện gió ngoài khơi; bổ sung điều kiện về năng lực tài chính, vốn góp và thủ tục đối với dự án điện gió ngoài khơi.
 
-**Ghi chú:** Văn bản chưa có toàn văn xác minh từ nguồn chính thức. Nội dung trích yếu được tổng hợp từ baochinhphu.vn, doanhnghiephoinhap.vn, vietstock.vn, vneconomy.vn, mekongasean.vn, tuoitre.vn. Cần bổ sung toàn văn khi có PDF từ datafiles.chinhphu.vn hoặc vanban.chinhphu.vn.
-
 ## VĂN BẢN
-
-*Nội dung toàn văn đang được cập nhật. Văn bản có hiệu lực từ ngày 04/07/2026 đến hết ngày 31/12/2030.*
-
-*Nguồn trích yếu: baochinhphu.vn, doanhnghiephoinhap.vn, vietstock.vn, vneconomy.vn, mekongasean.vn, tuoitre.vn.*

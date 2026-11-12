@@ -1,16 +1,20 @@
 ---
+layout: vanban
 title: "Thông tư 04/2026/TT-NHNN hướng dẫn một số nội dung về hoạt động bảo hiểm tiền gửi"
-so_hieu: "04/2026/TT-NHNN"
-loai_van_ban: "Thông tư"
-noi_ban_hanh: "Ngân hàng Nhà nước Việt Nam"
-nguoi_ky: "Đoàn Thái Sơn"
-ngay_ban_hanh: "31/03/2026"
-ngay_hieu_luc: "01/05/2026"
-linh_vuc: "Ngân hàng"
-trich_yeu: "Hướng dẫn một số nội dung về hoạt động bảo hiểm tiền gửi"
+date: 2026-03-31
+modified: 2026-11-12
+group: ngan-hang
+tags:
+  - Thông tư
+  - ngân hàng
+  - bảo hiểm tiền gửi
 docid: 217448
-url_goc: "https://vanban.chinhphu.vn/?pageid=27160&docid=217448"
-url_nguon: "https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Thong-tu-04-2026-TT-NHNN-huong-dan-noi-dung-ve-hoat-dong-bao-hiem-tien-gui-702227.aspx"
+source: vanban.chinhphu.vn
+so-hieu: "04/2026/TT-NHNN"
+co-quan-ban-hanh: "Ngân hàng Nhà nước Việt Nam"
+nguoi-ky: "Đoàn Thái Sơn"
+ngay-hieu-luc: "01/05/2026"
+trich-yeu: "Hướng dẫn một số nội dung về hoạt động bảo hiểm tiền gửi"
 ---
 
 # THÔNG TƯ

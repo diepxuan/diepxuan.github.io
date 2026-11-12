@@ -2,7 +2,7 @@
 layout: vanban
 title: "Thông tư 136/2026/TT-BCA quy định danh mục sản phẩm khai thác, sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư"
 date: 2026-07-22
-modified: 2026-08-15
+modified: 2026-11-12
 group: cong-an
 tags:
   - CSDL quốc gia về dân cư
