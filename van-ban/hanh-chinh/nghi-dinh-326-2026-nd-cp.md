@@ -25,16 +25,16 @@ source: vanban.chinhphu.vn (docid 219221); datafiles.chinhphu.vn; luatvietnam.vn
 
 ## VĂN BẢN
 
-CHÍNH PHỦ
- _________
- Số: 326/2026/NĐ-CP
- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
- _____________________________
- Hà Nội, ngày 19 tháng 8 năm 2026
+**CHÍNH PHỦ**
+**Số: 326/2026/NĐ-CP**
 
-NGHỊ ĐỊNH
-Quy định về định danh địa điểm
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập - Tự do - Hạnh phúc**
+_____________________________
+*Hà Nội, ngày 19 tháng 8 năm 2026*
+
+**NGHỊ ĐỊNH**
+**Quy định về định danh địa điểm**
 
 Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
 Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;
@@ -45,7 +45,7 @@ Căn cứ Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15;
 Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15;
 
 Theo đề nghị của Bộ trưởng Bộ Công an;
- Chính phủ ban hành Nghị định quy định về định danh địa điểm.
+Chính phủ ban hành Nghị định quy định về định danh địa điểm.
 
 ## Chương I
 ## QUY ĐỊNH CHUNG
@@ -160,12 +160,12 @@ a) Tổ chức, cá nhân được khai thác dữ liệu công khai về địn
 b) Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội được khai thác thông tin trong Cơ sở dữ liệu định danh địa điểm để thực hiện chức năng, nhiệm vụ thông qua nền tảng chia sẻ, điều phối dữ liệu quốc gia, nền tảng định danh và xác thực điện tử và các nền tảng tích hợp, chia sẻ dữ liệu khác theo quy định của pháp luật về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước;
 
 c) Tổ chức, cá nhân được khai thác thông tin của mình trong Cơ sở dữ liệu định danh địa điểm thông qua ứng dụng định danh quốc gia.
- Trường hợp khai thác thông tin của người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người dưới 14 tuổi phải được sự đồng ý của người đại diện hợp pháp hoặc người giám hộ; trường hợp người bị tuyên bố mất tích phải được sự đồng ý của người đang quản lý tài sản của người đó; trường hợp người đã chết phải được sự đồng ý của người thừa kế;
+Trường hợp khai thác thông tin của người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người dưới 14 tuổi phải được sự đồng ý của người đại diện hợp pháp hoặc người giám hộ; trường hợp người bị tuyên bố mất tích phải được sự đồng ý của người đang quản lý tài sản của người đó; trường hợp người đã chết phải được sự đồng ý của người thừa kế;
 
 d) Người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người dưới 14 tuổi khai thác thông tin của mình thông qua người đại diện hợp pháp hoặc người giám hộ. Việc khai thác thông tin của người bị tuyên bố mất tích do người quản lý tài sản của người đó quyết định;
 
 đ) Tổ chức, cá nhân không thuộc các trường hợp quy định tại điểm a, điểm b, điểm c và điểm d khoản này được khai thác dữ liệu về định danh địa điểm qua tổ chức cung cấp dịch vụ xác thực điện tử và phải nộp phí khai thác và sử dụng thông tin.
- Trường hợp có nhu cầu khai thác thông tin khác trong Cơ sở dữ liệu định danh địa điểm, phải được sự đồng ý của chủ sở hữu, quản lý địa điểm đó.
+Trường hợp có nhu cầu khai thác thông tin khác trong Cơ sở dữ liệu định danh địa điểm, phải được sự đồng ý của chủ sở hữu, quản lý địa điểm đó.
 
 3. Dữ liệu định danh địa điểm được quản lý và phân loại như sau:
 
@@ -252,7 +252,7 @@ Chủ trì, phối hợp với các cơ quan, đơn vị liên quan thực hiệ
 
 1. Ủy ban nhân dân cấp tỉnh có trách nhiệm phối hợp với bộ, cơ quan ngang bộ trong việc thu thập, tạo lập, cập nhật dữ liệu vào Cơ sở dữ liệu định danh địa điểm.
 
-2. Phân công, chỉ đạo các cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cấp xã thu thập, kiểm tra, cập nhật và quản lý dữ liệu trong các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phục vụ định danh địa điểm theo chức năng, nhiệm vụ và phạm vi quản lý của từng cơ quan, đơn vị tương ứng. với danh mục đối tượng được định danh ban hành theo Nghị định này.
+2. Phân công, chỉ đạo các cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cấp xã thu thập, kiểm tra, cập nhật và quản lý dữ liệu trong các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phục vụ định danh địa điểm theo chức năng, nhiệm vụ và phạm vi quản lý của từng cơ quan, đơn vị tương ứng với danh mục đối tượng được định danh ban hành theo Nghị định này.
 
 3. Tổ chức đánh số, gắn biển số nhà, công trình xây dựng theo hướng dẫn của Bộ Xây dựng; đặt tên, đổi tên đường, phố, công trình công cộng theo hướng dẫn của Bộ Xây dựng và Bộ Văn hóa, Thể thao và Du lịch.
 
